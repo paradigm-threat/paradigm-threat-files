@@ -1,0 +1,31 @@
+---
+title: "The Philadelphia Experiment"
+description: "The Philadelphia Experiment was an attempt to use high amplitude energy to create a cloaking device. While it functioned, the ship didn"
+---
+
+![philadelphia_experiment.png](./PNG_philadelphia_experiment.png)
+
+## What was it ?
+
+The Philadelphia Experiment was an attempt to use high amplitude energy to create a cloaking device. While it
+functioned, the ship didn't just disappear - it was sent somewhere else. Not another dimension. Not another time, nor
+another universe. Instead, it was sent somewhere locally - Norfolk, Virginia! When
+the experimental ship device was shut off, humans were frozen into the ships hull. Some went insane. Some caught on fire
+and could not be put out. No one turned permanently invisible. No one time traveled.
+
+Basic context from [HistoricMysteries.com](https://www.historicmysteries.com/the-philadelphia-experiment/),
+
+> Purportedly, some men
+> aboard the SS Andrew Furuseth saw a ship spontaneously appear in the water in Norfolk on October 28th. The story goes
+> that it came from Philadelphia, Pennsylvania. The destroyer had first disappeared and then it instantaneously
+> teleported
+> to Norfolk. The disappearance and the teleportation were apparently two different functions of the experiment. In
+> other
+> words, the disappearance was not the result of the teleportation, but rather came before it.Once the USS Eldridge reached Norfolk, it was clear something went wrong. Some of the men had disappeared during the
+> trip. Others had gone mad. Some kept becoming invisible and then regaining their forms. Others still had become fused
+> — yes, fused — with the ship in various ways.
+
+## Need more citations
+
+I used to have entire articles and news clippings on this topic - the real version, not the scifi CO version. I can't
+find anything on it anymore. If anyone has anything, send it my way.
