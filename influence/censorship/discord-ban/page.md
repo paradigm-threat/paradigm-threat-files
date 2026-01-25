@@ -16,7 +16,7 @@ I wonder what they were waiting for. Oh well!
 Only one thing left to do when this happens. Build my own! Check the above link for the new private server!
 Here was the reason given from *Discord Staff*:
 
-<PopImage src="./discord.jpg" alt="Discord Censorship" className='max-w-[800px] m-auto'/>
+![Discord Censorship](./discord.jpg '{"className":"max-w-[800px] m-auto"}')
 
 Don't remember promoting any sexual violence against the Deep State or anyone else, but landed in **Discord Death Row**
 anyhow. Or was it the *Gigabyte Green Mile*?

@@ -3,14 +3,14 @@ title: "Boeing Bombers won WW2 by cheating by using Child Pilots, Suppressed Zer
 description: "Therefore, it is logical to conclude that the Great Wars of the 20th century were perpetuated through international conglomerates like the Boeing Corporation"
 ---
 
-<PopImage src="./ww2meme.jpg" w="800" alt="WW2 Meme" className="rounded-md m-auto"/>
+![WW2 Meme](./ww2meme.jpg?w=800 '{"className":"rounded-md m-auto"}')
 
 ## World War II was won BY CHEATING using Child Pilots, Anti-gravity aircraft, and a whole lotta NAPALM
 
-<PopImage src="./bombings/british.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="British Terror Bombing"/>
-<PopImage src="./bombings/germany2.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Bombing Germany 2"/>
-<PopImage src="./bombings/wench.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Bombing Wench"/>
-<PopImage src="./bombings/napalm.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Napalm Bombings"/>
+![British Terror Bombing](./bombings/british.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Bombing Germany 2](./bombings/germany2.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Bombing Wench](./bombings/wench.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Napalm Bombings](./bombings/napalm.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ```
 Note: This investigation is a work in progress. Check back soon for more updates!
@@ -48,8 +48,8 @@ we [firebombed no less than 67 cities](https://www.theguardian.com/commentisfree
 in Japan before they _finally surrendered_?
 
 
-<PopImage src="./bombings/kano_teruo.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Bombing Kano Teruo"/>
-<PopImage src="./bombings/germany_book.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Bombing Germany"/>
+![Bombing Kano Teruo](./bombings/kano_teruo.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Bombing Germany](./bombings/germany_book.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 > As the incendiaries fell, the phosphorus clung to the bodies of those below, turning them into human torches.
 > The screaming of those who were being burned alive was added to the cries of those not yet hit.
@@ -62,7 +62,7 @@ After the victory of WW2, the coalition bombings continued - spanning
 [66 years of campaigns](https://www.globalresearch.ca/list-of-countries-the-usa-has-bombed-since-the-end-of-world-war-ii/24626)
 in over 32 countries.
 
-<PopImage src="./bombings/lancaster.jpg" w="600" alt="Bombing Lancaster" className="rounded-md m-auto"/>
+![Bombing Lancaster](./bombings/lancaster.jpg?w=600 '{"className":"rounded-md m-auto"}')
 
 ## Q: Okay, so how did they get Allied pilots to bomb men women and children?
 
@@ -76,7 +76,7 @@ and [Napalm/Phosphorus Munitions](https://cstms.berkeley.edu/current-events/napa
 
 ## Q: Which suppressed technology?
 
-<PopImage src="../../science/anti_gravity/antigrav_research2.jpg" w="600" alt="Anti Gravity Research 4" className="rounded-md m-auto"/>
+![Anti Gravity Research 4](../../science/anti_gravity/antigrav_research2.jpg?w=600 '{"className":"rounded-md m-auto"}')
 
 
 The universe is [electric](/cosmos/cosmology/electric_universe) in nature.
@@ -90,10 +90,10 @@ The Great War exposed this technology for the first time, but built it into the 
 own pilots and engineers could not detect it. The planes became automated with all pilot decisions replaced by machines.
 Thus, the Boeing Bombers could be piloted by a child of any age.
 
-<PopImage src="../../science/anti_gravity/antigrav_research.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Anti Gravity Research"/>
-<PopImage src="../../science/anti_gravity/gyroscope.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Anti Gravity Gyroscope"/>
-<PopImage src="../../science/anti_gravity/tech_cover_up.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Anti Gravity Tech Cover Up"/>
-<PopImage src="../../science/anti_gravity/tech_cover_up2.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Anti Gravity Tech Cover Up 2"/>
+![Anti Gravity Research](../../science/anti_gravity/antigrav_research.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Anti Gravity Gyroscope](../../science/anti_gravity/gyroscope.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Anti Gravity Tech Cover Up](../../science/anti_gravity/tech_cover_up.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Anti Gravity Tech Cover Up 2](../../science/anti_gravity/tech_cover_up2.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ## Q: Why do children matter?
 
@@ -151,10 +151,10 @@ bombing [simulations](https://www.thedrive.com/the-war-zone/28572/b-52-bomber-ma
 upon countries we have poor relations with. It's an effective threat.
 
 
-<PopImage src="../../science/anti_gravity/disk_cover_up.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Flying Disk Cover Up 1"/>
-<PopImage src="../../science/anti_gravity/disk_cover_up3.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Flying Disk Cover Up 3"/>
-<PopImage src="../../science/anti_gravity/disk_cover_up2.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Flying Disk Cover Up 2"/>
-<PopImage src="../../science/anti_gravity/disk_cover_up4.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Flying Disk Cover Up 4"/>
+![Flying Disk Cover Up 1](../../science/anti_gravity/disk_cover_up.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Flying Disk Cover Up 3](../../science/anti_gravity/disk_cover_up3.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Flying Disk Cover Up 2](../../science/anti_gravity/disk_cover_up2.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Flying Disk Cover Up 4](../../science/anti_gravity/disk_cover_up4.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ## Q: What flying machines (besides saucers) use this flying technology?
 
@@ -201,10 +201,10 @@ I would imagine the most uncooperative families are made aware that only by thei
 lost someone in the crash.
 Would you trade your son, daughter, wife, husband's life for the truth? Yes. Yes you would.
 
-<PopImage src="../../science/anti_gravity/unlikely_aerodynamics.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Unlikely Aerodynamics 1"/>
-<PopImage src="../../science/anti_gravity/zpe_technology.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Unlikely Aerodynamics 2"/>
-<PopImage src="../../science/anti_gravity/impossible_aerodynamics.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Impossible Aerodynamics"/>
-<PopImage src="../../science/anti_gravity/failed_aerodynamics.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Failed Aerodynamics"/>
+![Unlikely Aerodynamics 1](../../science/anti_gravity/unlikely_aerodynamics.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Unlikely Aerodynamics 2](../../science/anti_gravity/zpe_technology.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Impossible Aerodynamics](../../science/anti_gravity/impossible_aerodynamics.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Failed Aerodynamics](../../science/anti_gravity/failed_aerodynamics.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ## Q: Okay so, how does one keep such an obvious secret this whole time?
 
@@ -242,10 +242,10 @@ by Ari Asulin - 11/09/2019
 
 ## Citations:
 
-<PopImage src="./propaganda2.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Propaganda Targeting Children: Captain America"/>
-<PopImage src="./propaganda1.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Propaganda War Stamps"/>
-<PopImage src="./propaganda4.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Propaganda Targeting Children: Memphis Belle"/>
-<PopImage src="./propaganda3.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Propaganda Royal Air Force"/>
+![Propaganda Targeting Children: Captain America](./propaganda2.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Propaganda War Stamps](./propaganda1.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Propaganda Targeting Children: Memphis Belle](./propaganda4.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Propaganda Royal Air Force](./propaganda3.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ### Children coerced into warfare:
 
@@ -295,9 +295,9 @@ without Halsey’s cooperation."
 
 ### Allied bombing campaigns continue after WW2:
 
-<PopImage src="./bombings/endless_war_history.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Endless War Bombing History"/>
-<PopImage src="./bombings/endless_war_gulf_war.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Bombing Gulf War"/>
-<PopImage src="./bombings/endless_war_afghanistan.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Bombing Afghanistan"/>
+![Endless War Bombing History](./bombings/endless_war_history.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Bombing Gulf War](./bombings/endless_war_gulf_war.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Bombing Afghanistan](./bombings/endless_war_afghanistan.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 “List of countries the USA has bombed since the end of World War II: China 1945-46 Korea 1950-53 China 1950-53 Guatemala
 1954 Indonesia 1958 Cuba 1959-60 Guatemala 1960 Belgian Congo 1964 Guatemala 1964 Dominican Republic 1965-66 Peru 1965
@@ -338,10 +338,10 @@ All technological advances in Human History have coincided with acts of war.
 
 ### Japan was Napalmed (Nuke Bombs are Fake):
 
-<PopImage src="../../science/nukes/nuclear_bombs_science_fiction.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Nuclear Bomb Science Fiction"/>
-<PopImage src="../../science/nukes/nuclear_bombs_napalm_is_worse.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Bombing Napalm"/>
-<PopImage src="../../science/nukes/book.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Death Object Book"/>
-<PopImage src="../../science/nukes/nuclear_bombs_fake.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="Nuclear Bomb are fake"/>
+![Nuclear Bomb Science Fiction](../../science/nukes/nuclear_bombs_science_fiction.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Bombing Napalm](../../science/nukes/nuclear_bombs_napalm_is_worse.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Death Object Book](../../science/nukes/book.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Nuclear Bomb are fake](../../science/nukes/nuclear_bombs_fake.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 "TNT could have been used to fabricate any A-Bomb test. And yes, conventional bombs can and do produce the classic
 mushroom clouds that we routinely associate with atomic bombs."
@@ -388,10 +388,10 @@ jet engines themselves which are already designed with a super fast rotating tur
 
 ### Jumbo jets flying without engines:
 
-<PopImage src="../../science/anti_gravity/german_disk.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="German Flying Disk"/>
-<PopImage src="../../science/anti_gravity/usaf-saucer-aerial.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="US Air Force Flying Disk"/>
-<PopImage src="../../science/anti_gravity/german_disk2.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="German Flying Disk 2"/>
-<PopImage src="../../science/anti_gravity/antigrav_usaf_avrocar.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="AvroCar"/>
+![German Flying Disk](../../science/anti_gravity/german_disk.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![US Air Force Flying Disk](../../science/anti_gravity/usaf-saucer-aerial.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![German Flying Disk 2](../../science/anti_gravity/german_disk2.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![AvroCar](../../science/anti_gravity/antigrav_usaf_avrocar.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 "Can The Airbus A380 Fly On One Engine?" Yes, but this article fails to explain how.
 [https://simpleflying.com/one-engine-a380/](https://simpleflying.com/one-engine-a380/)
@@ -438,8 +438,8 @@ B-52Ds could carry 22,000 lb (9,980 kg) more than B-52Fs"
 
 ### Criminal activity:
 
-<PopImage src="../../science/anti_gravity/usaf-tr-3b.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="USAF TR 3B"/>
-<PopImage src="../../science/anti_gravity/usaf-tr-3b2.jpg" w="384" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4" alt="USAF TR 3B 2"/>
+![USAF TR 3B](../../science/anti_gravity/usaf-tr-3b.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![USAF TR 3B 2](../../science/anti_gravity/usaf-tr-3b2.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 
 Boeing routinely sedated passengers without their knowledge. Here's an example:

@@ -1,7 +1,7 @@
 # Banned from r/FanEdit Subreddit for accusation of piracy.
 
 
-<PopImage src="../influence/censorship/reddit2.png" w="800" className="sm:max-w-[60rem] rounded-md m-auto" alt="Reddit Censorship"/>
+![Reddit Censorship](../influence/censorship/reddit2.png?w=800 '{"className":"sm:max-w-[60rem] rounded-md m-auto"}')
 
 
 Within the 2nd day of posting my fan-edits I got perm-banned from the subreddit, and they won't let me appeal.
