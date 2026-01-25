@@ -84,7 +84,7 @@ describes these events as "murderous ethnic cleansing on a stupendous scale not 
 
 ## Negative Lightning scar
 
-<PopImage src="../../melted_rocks_utah.jpg" w="384" alt="MudFlood Evidence: Melted Rocks in Utah are said to have been caused by millions of years of erosion but may instead have been **actually melted** by electric discharge strikes during the MudFlood Energy Event " className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![MudFlood Evidence: Melted Rocks in Utah are said to have been caused by millions of years of erosion but may instead have been **actually melted** by electric discharge strikes during the MudFlood Energy Event ](../../melted_rocks_utah.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 1. Not Intentional
 2. Secondary reaction caused by [Lorentz Force](https://en.wikipedia.org/wiki/Lorentz_force)
@@ -389,7 +389,7 @@ MudFlood Event Redacted Dates:
 
 ## Controlled Opposition Agents
 
-<PopImage src="../../history/mudflood_buried_russian_winter_palace_deepfake.jpg" w="384" alt="MudFlood Controlled Opposition Deep Fake by KorbenDallas from StolenHistory.net" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![MudFlood Controlled Opposition Deep Fake by KorbenDallas from StolenHistory.net](../../history/mudflood_buried_russian_winter_palace_deepfake.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 For years now, the MudFlood topic has been dominated by controlled opposition agents like the admins at
 stolenhistory.org or Flat-Earthers like Philipp Druzhinin. You’ll find that when approaching the actual truth of any

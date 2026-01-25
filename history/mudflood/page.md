@@ -16,7 +16,7 @@ the [Journalistic Six](https://www.sessionlab.com/methods/the-journalistic-six):
   </figcaption>
 </figure>
 
-<PopImage src="./history/mudflood_turkey.jpg" w="360" alt="MudFlood Evidence: Buried Great Temple of Artemis" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![MudFlood Evidence: Buried Great Temple of Artemis](./history/mudflood_turkey.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ## What is the MudFlood Theory?
 
@@ -62,7 +62,7 @@ strategy that promotes discreditation of MudFlood Research.
 Note: This investigation is a work in progress. Check back soon for more updates!
 ```
 
-<PopImage src="../../history/chronology/pyramids/history_buried_pyramid.jpg" w="360" alt="MudFlood Evidence: Buried Pyramids in Bosnia" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4">
+![MudFlood Evidence: Buried Pyramids in Bosnia](../../history/chronology/pyramids/history_buried_pyramid.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
   These pyramids are entirely covered by soil and vegetation. The only way this could happen is if all the pyramids
   were covered in mud in the past. To this day, archaeologists claim the entire Bosnian nation is suffering from
   some kind of [mass hysteria](https://en.wikipedia.org/wiki/Bosnian_pyramid_claims).](./history/mudflood_energetic_event_hypothesis.png?w=800)
@@ -95,7 +95,7 @@ and allowed the humans on Mars to identify 'chosen people' who they would 'deliv
 essentially repopulating Earth cities, redacting all Earth history, religion, science, and language, and impose a
 system of control on the survivors that lasts to this day.
 
-<PopImage src="./blood_rain2.jpg" w="360" alt="MudFlood Evidence: Bloodrain Paintings" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4">
+![MudFlood Evidence: Bloodrain Paintings](./blood_rain2.jpg?w=360 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
   The 'Comet' as a carrier of disease and deformity in the Lucerne Chronicle, Luzerner Schilling 61v.
   allegedly 1513](./history/mudflood_journalistic_six.jpg?w=640)
 

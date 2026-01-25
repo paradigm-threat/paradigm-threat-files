@@ -24,8 +24,9 @@ which (possibly unintentionally) destroyed Martian surface cities as well.
   </figcaption>
 </figure>
 
-<PopImage src="./massacre.jpg" w="360" alt="Evidence of planet-wide massacre on Mars" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4">
-  Evidence of planet-wide massacre can be found on the surface of Mars](./life_on_mars_rules_earth.png?w=800)
+![Evidence of planet-wide massacre on Mars](./massacre.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
+![Evidence of planet-wide massacre can be found on the surface of Mars](./life_on_mars_rules_earth.png?w=800)
 
 ![Evidence of geometric patterns on Mars suggest intelligent construction](./geometric.jpg?w=360)
 
@@ -256,8 +257,9 @@ The same humans who contrived the Great Wars of the 20th Century could not have 
 without first having consolidated power on Mars - otherwise a competing faction might have spoiled the various plots
 over time. How could one faction wield so much influence?
 
-<PopImage src="./melted_city.jpg" w="320" alt="Melted ruins on mars resembles city with capitol building" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4">
-  Areas resembling melted cities are found on the surface of Mars, sometimes with distinguishable buildings.](./cosmos/mars_life.jpg?w=640)
+![Melted ruins on mars resembles city with capitol building](./melted_city.jpg?w=320 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
+![Areas resembling melted cities are found on the surface of Mars, sometimes with distinguishable buildings.](./cosmos/mars_life.jpg?w=640)
 
 ## The Martian Catastrophe
 
@@ -398,8 +400,9 @@ Ba'al, Elah, El Roi, Elyon, HaShem or just 'God'.
 ![### The Gotthard Base Tunnel [Opening Ceremony](https://www.bbc.com/news/in-pictures-36428799) in Switzerland:
 
 
-<PopImage priority="true" src="./cern_religious_ritual_at5.jpg" w="360" alt="CERN Ritual 4" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4">
-  A winged baby, semi-naked dancers and a man with a bird's nest on his head:
+![CERN Ritual 4](./cern_religious_ritual_at5.jpg?w=360 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4", "priority":"true"}')
+
+![A winged baby, semi-naked dancers and a man with a bird's nest on his head:
   How Switzerland decided to mark opening of world's longest rail tunnel](./cern_religious_ritual_at1.jpg?w=640)
 
 ![A performance inside the Gotthard Base Tunnel in Switzerland demonstrates the obedient 'labor' class of Humanity](./cern_religious_ritual_at2.jpg?w=360)
@@ -428,8 +431,9 @@ symbols also demonstrates obedience to various brands of control that existed th
 history. The purveyors of this ceremony had one clear message for the other side: Humanity
 is ready to be ruled.
 
-<PopImage src="./hollywood_ritual_eyes_wide_shut.jpg" w="360" alt="Holywood Female reitual" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4">
-  Eyes Wide Shut (1999) demonstrates a ceremony involving naked women following strange orders.
+![Holywood Female reitual](./hollywood_ritual_eyes_wide_shut.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
+![Eyes Wide Shut (1999) demonstrates a ceremony involving naked women following strange orders.
   This may be evidence of a program on Earth which raises human females to be fully obedient and prepares
   them to *voluntarily walk naked through a quantum gate* to Mars.](./cern_religious_ritual_at6.jpg?w=640)
 
@@ -464,8 +468,9 @@ Latin is still very much alive and taught to us so we can interface with our
 [Latin-speaking masters](https://books.google.com/books?id=v3TDEDfEPdEC&pg=PA159&lpg=PA159&dq=martians+speak+latin)
 both here and on Mars.
 
-<PopImage src="../../influence/predictive_programming/cosmos/mars_movies.jpg" w="360" alt="Predictive Programming: Mars Movies" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4">
-  Science Fiction programs viewers to understand that all presented storylines and technology are completely made-up
+![Predictive Programming: Mars Movies](../../influence/predictive_programming/cosmos/mars_movies.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
+![Science Fiction programs viewers to understand that all presented storylines and technology are completely made-up
   and have no relationship to real life.](../../influence/predictive_programming/cosmos/mars_women.jpg?w=640)
 
 ### Predictive programming in Science Fiction / Fantasy Genre:

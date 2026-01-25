@@ -3,12 +3,12 @@ title: "Earth History Timeline based on Saturnian Cosmology"
 description: "Before the first memories of Earth"
 ---
 
-<PopImage src="../../redacted.jpg" w="768" alt="History is Redacted" className="rounded-md m-auto"/>
+![History is Redacted](../../redacted.jpg?w=768 '{"className":"rounded-md m-auto"}')
 
 # "I never cared much for studying Human History until I realized it was all lies"
 
-<PopImage src="../../saturn/black_cube_of_saturn3.jpg" w="384" alt="Black Cube of Saturn 3" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
-<PopImage src="../../../influence/conspiracy/books.jpg" w="384" alt="Conspiracy Book Stack" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![Black Cube of Saturn 3](../../saturn/black_cube_of_saturn3.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Conspiracy Book Stack](../../../influence/conspiracy/books.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ```
 “History is a pack of lies about events that never happened told by people who weren’t there.”
@@ -47,7 +47,7 @@ NASA, instead, imagines the Universe was created in a "Big Bang", and attempts t
 Don't be fooled; Theories of a Big Bang/Bounce/Crunch/Rip were inspired by Creationist Catholicism and _disguised_ as
 Modern Sciences.
 
-<PopImage src="../../../cosmos/cosmology/astronomy/fake_sun_chart.jpg" w="384" alt="Fake Sun Chart" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![Fake Sun Chart](../../../cosmos/cosmology/astronomy/fake_sun_chart.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ### Q: How is the age of a Sun/Star determined?
 
@@ -112,8 +112,8 @@ of hollow stars.
 
 ### Q: Planets and Suns are hollow?
 
-<PopImage src="../../../cosmos/cosmology/hollow_earth/hollow_earth_signals2.jpg" w="384" alt="NAZIs in Hollow Earth" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"/>
-<PopImage src="../../../cosmos/cosmology/hollow_earth/hollow_earth_EU_model.jpg" w="384" alt="Hollow Earth EU Model" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![NAZIs in Hollow Earth](../../../cosmos/cosmology/hollow_earth/hollow_earth_signals2.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Hollow Earth EU Model](../../../cosmos/cosmology/hollow_earth/hollow_earth_EU_model.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 
 Most civilizations
@@ -139,7 +139,7 @@ Hitler famously believed in [hollow earth](https://theunexpectedcosmology.com/hi
 leading many conspiracy theorists to suggest that
 [NAZI Germany was evacuated via submarines to Neu Schwabenland](https://www.liveabout.com/nazis-and-the-hollow-earth-2594410)
 .
-<PopImage src="../../../cosmos/cosmology/hollow_earth/hollow_earth_maps.jpg" w="384" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4" alt="Hollow Earth Maps"/>
+![Hollow Earth Maps](../../../cosmos/cosmology/hollow_earth/hollow_earth_maps.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
 
 There
 are [conflicting conclusions](https://www.express.co.uk/news/weird/733026/Russia-science-Kola-borehole-Noah-floodwater-Bible-Genesis-theory-of-12)
@@ -159,7 +159,7 @@ Bruce went on to demonstrate his electric discharge theory over the next 13 year
 .
 _However, his work in this area has been largely ignored by mainstream science._
 
-<PopImage src="../../../cosmos/cosmology/ralph_juergens_chart.png" w="384" alt="Ralph Juergens Sun Chart" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"/>
+![Ralph Juergens Sun Chart](../../../cosmos/cosmology/ralph_juergens_chart.png?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
 
 The [Electric Sun Model](https://www.velikovsky.info/electric-sun-model/)
 is often attributed to a 1972 article by electrical
@@ -177,7 +177,7 @@ fusion.
 > The interplanetary medium suggest not only that the sun and the planets are electrically charged,
 > but that the sun itself is the focus of a cosmic electric discharge — the probable source of all its radiant energy.”
 
-<PopImage src="../../../cosmos/cosmology/ralph_juergens_murdered.jpg" w="384" alt="Ralph Juergens Murdered 1979" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![Ralph Juergens Murdered 1979](../../../cosmos/cosmology/ralph_juergens_murdered.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 
 Ralph Juergens described the Sun's surface as _negatively charged_, but modern plasma physicists
@@ -233,8 +233,8 @@ will tend to disagree:
 
 #### The Electric Universe and Saturnian Cosmology
 
-<PopImage src="../../saturn/earth_was_saturns_moon3.jpg" w="384" alt="Earth was Saturn's Moon 3" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"/>
-<PopImage src="../../saturn/earth_was_saturns_moon2.jpg" w="384" alt="Earth was Saturn's Moon 2" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![Earth was Saturn's Moon 3](../../saturn/earth_was_saturns_moon3.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Earth was Saturn's Moon 2](../../saturn/earth_was_saturns_moon2.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 Proponents of the [Electric Universe Theory](https://www.thunderbolts.info/wp/2013/09/16/chapter-1-beginners-guide/)
 challenge the 'Gravity-Centric' model of the universe. They hold that the true story of Earth's origin is that it
@@ -267,8 +267,8 @@ Cosmology. Check it out!
 
 ### Q: Don't the existence of dinosaur bones disprove "Young Earth Theory"?
 
-<PopImage src="../../../governance/genocide/giants_faeries/governance/genocide_giants4.jpg" w="384" alt="Genocide Giants 4" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"/>
-<PopImage src="../../reformation/extraordinary_black_book.jpg" w="384" alt="Genocide Giants 2" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![Genocide Giants 4](../../../governance/genocide/giants_faeries/governance/genocide_giants4.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Genocide Giants 2](../../reformation/extraordinary_black_book.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 Dinosaurs existed, and probably still exist somewhere.
 The [Extinction Hypothesis](https://en.wikipedia.org/wiki/Alvarez_hypothesis#:~:text=extinction)
@@ -281,7 +281,7 @@ Consider this popular
 line:
 _[When Giants Roamed the Earth](https://www.americamagazine.org/arts-culture/2019/04/25/review-when-giants-roamed-earth)_
 .
-<PopImage src="../../../governance/genocide/giants_faeries/giants_america.jpg" w="640" className="rounded-md m-auto" alt="Nephilim Giants 3"/>
+![Nephilim Giants 3](../../../governance/genocide/giants_faeries/giants_america.jpg?w=640 '{"className":"rounded-md m-auto"}')
 
 > "The eyes of that species of extinct Giants whose bones fill the Mounds of America
 > have gazed on Niagara as ours do now."
@@ -356,11 +356,11 @@ history.**
 
 ## Q: So, how did our Solar System form?
 
-<PopImage src="../../saturn/saturn_was_the_sun1.jpg" w="640" className="rounded-md m-auto" alt="Saturn was the Sun 1"/>
+![Saturn was the Sun 1](../../saturn/saturn_was_the_sun1.jpg?w=640 '{"className":"rounded-md m-auto"}')
 
 
-<PopImage src="../../saturn/saturnian_configuration_north.jpg" w="384" alt="Saturn Polar Configuration: North" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"/>
-<PopImage src="../../saturn/saturnian_configuration_south.jpg" w="384" alt="Saturn Polar Configuration: South" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![Saturn Polar Configuration: North](../../saturn/saturnian_configuration_north.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Saturn Polar Configuration: South](../../saturn/saturnian_configuration_south.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 Before the first memories of Earth's history began, the planets of our Solar System were not yet part of our Sun's
 orbit.
@@ -389,8 +389,8 @@ showered them with a safe and powerful energy that promoted life to form in abun
 
 ### Q: The Planet Saturn was Earth's Sun?
 
-<PopImage src="../../saturn/golden_age_absu.jpg" w="384" alt="Saturn Polar Configuration: Absu Layer" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"/>
-<PopImage src="../../saturn/norse_yggdrasil.jpg" w="384" alt="Nine Planets or Realms of the Yggdrasil" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![Saturn Polar Configuration: Absu Layer](../../saturn/golden_age_absu.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Nine Planets or Realms of the Yggdrasil](../../saturn/norse_yggdrasil.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 Yep! Earth started out as a proto-planet within the brown-dwarf that later became the planet Saturn.
 A 'Golden Age' lasted 930 years starting 4077 B.C. and ended when the collinear configuration came apart in 3147 B.C.
@@ -449,7 +449,7 @@ Physical travel between planets would become impossible until the buildings of t
 
 #### Tower of Babel
 
-<PopImage src="../../saturn/tower_of_babel.jpg" w="384" alt="Tower of Babel" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![Tower of Babel](../../saturn/tower_of_babel.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 Sumerian and Assyrian myths remember Saturn's collinear configuration as the
 first [Tower of Babel](https://en.wikipedia.org/wiki/Tower_of_Babel),
@@ -477,7 +477,7 @@ The **Deep State** would eventually build pyramids to correct for this mistake.
 
 ### Q: Why were the Pyramids built?
 
-<PopImage src="../../pyramids/pyramids_around_the_world.jpg" w="384" alt="Pyramidal Empire: Pyramids around the World" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"/>
+![Pyramidal Empire: Pyramids around the World](../../pyramids/pyramids_around_the_world.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
 
 Between 2624 and 2427 B.C.E., in [less than 200 years](http://www.touregypt.net/featurestories/pyramids.htm),
 all the largest pyramids were built along
@@ -518,7 +518,7 @@ until the Exodus event of 1492 B.C.E.**
 
 ### Q: What was the 'Exodus' event?
 
-<PopImage src="../../saturn/exodus.jpg" w="384" alt="Exodus from Egypt" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![Exodus from Egypt](../../saturn/exodus.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 The **[Plagues of Egypt](https://en.wikipedia.org/wiki/Plagues_of_Egypt)**
 occurred as a result of shifting conditions within the solar system between 2193 and 1492 B.C.E., rather than all at
@@ -569,7 +569,7 @@ This fictional bloodline would be called the 'Israelites'.
 
 ### Q: Who are the "Israelites"?
 
-<PopImage src="../../tartaria/israel_fake_history.jpg" w="384" alt="Black cube of saturn 4" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"/>
+![Black cube of saturn 4](../../tartaria/israel_fake_history.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
 
 The most definitive reason for the invention of the history of 'Israelites' is the **creation of the State of Israel**.
 Starting in the 13th century CE, Jews and Christians accepted the history of 'Twelve Tribes of Israel' as fact.
@@ -592,7 +592,7 @@ So the real question is: What is a Jew?
 
 ### Q: What is a "Jew"?
 
-<PopImage src="../../saturn/black_cube_of_saturn4.jpg" w="384" alt="Black cube of saturn 4" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![Black cube of saturn 4](../../saturn/black_cube_of_saturn4.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 
 Thanks for asking!
@@ -651,7 +651,7 @@ fake**](https://www.wsj.com/articles/SB122669909279629451).
 
 ### Q: What is a Christian?
 
-<PopImage src="../../christ/cathar_suppression.jpg" w="384" alt="Cathar suppression" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"/>
+![Cathar suppression](../../christ/cathar_suppression.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
 
 **The story of [Cathar suppression](https://archive.archaeology.org/9903/abstracts/insight.html) that inspired
 Christianity is true**,
@@ -706,7 +706,7 @@ religion promising freedom from tyranny and an end to usury. This forced the han
 option than to crucify Christ in a gruesome public display within the tall gates of Troy. The objective of the
 crucifixion was to put down his insurrection and make an example of its leader.
 
-<PopImage src="../../christ/conjunction.jpg" w="384" alt="Great Conjunction of Jupiter and Saturn - Star of Bethlehem" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![Great Conjunction of Jupiter and Saturn - Star of Bethlehem](../../christ/conjunction.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 The
 last ['Great Conjunction'](https://www.nbcnews.com/science/space/christmas-star-will-be-closest-visible-conjunction-jupiter-saturn-800-n1250418)
@@ -799,10 +799,10 @@ that was later rewritten as a 'potato famine'.
 Humans aren't _this_ bad at eating or staying healthy.
 In reality each famine/plague was planned _in advance_ as a means to re-assert control over a population.
 
-<PopImage src="../../history_fake.jpg" w="384" className="rounded-md m-auto" alt="Earth was Saturn's Moon Spires"/>
+![Earth was Saturn's Moon Spires](../../history_fake.jpg?w=384 '{"className":"rounded-md m-auto"}')
 
-<PopImage src="../../pyramids/power_pyramid.png" w="384" alt="Roman Power Pyramid" className="rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"/>
-<PopImage src="../../saturn/saturnian_icons.jpg" w="384" alt="Saturnian Icons" className="rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"/>
+![Roman Power Pyramid](../../pyramids/power_pyramid.png?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Saturnian Icons](../../saturn/saturnian_icons.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 
 The 'First' version of history, is the true Origin Story that humans on earth actually experienced,
@@ -851,8 +851,8 @@ and where, without exception, peace and revelation always prevail in the end.
 
 ### [The Humans of Mars who Rule Earth](/cosmos/mars)
 
-<PopImage src="../../../cosmos/mars/wotw/wotw_battle_of_la.jpg" w="768" className="rounded-md m-auto" alt="Battle of Los Angeles: Mars Rules Earth"/>
+![Battle of Los Angeles: Mars Rules Earth](../../../cosmos/mars/wotw/wotw_battle_of_la.jpg?w=768 '{"className":"rounded-md m-auto"}')
 
 ### [World War 2: Children, Cheating, and Napalm](/governance/war)
 
-<PopImage src="../../../governance/war/ww2meme.jpg" w="768" className="rounded-md m-auto" alt="WW2 was won by cheating"/>
+![WW2 was won by cheating](../../../governance/war/ww2meme.jpg?w=768 '{"className":"rounded-md m-auto"}')
