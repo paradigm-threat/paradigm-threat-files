@@ -894,6 +894,21 @@
     },
     "_count": 1
   },
+  "forgotten-future": {
+    "fire_city.png": {
+      "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAsABUB8JbACdAECscgQYAD+5CH122sEcz7KC6jChanuM8msdkhtq7zpwyu5KbbH5gkylQl5xBn4COy9eAAA"
+    },
+    "logo.png": {
+      "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JQAARDOBXqwAAP7ytCIzOh935cL94n7AwzXG8f03E+e26dTZ5VQhJS5DQ4vukAAAAA=="
+    },
+    "page.md": {
+      "_title": "Forgotten Future"
+    },
+    "text.png": {
+      "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAQABUB8JZwAAn22tHTAAP7Bw/wWfSL/nQ44JcJ83ZoZgIy0RDpmBAA="
+    },
+    "_count": 4
+  },
   "governance": {
     "genocide": {
       "Hall---The-Secret-Destiny-of-America-(1944).pdf": {},
@@ -4742,5 +4757,5 @@
     },
     "_count": 130
   },
-  "_count": 1606
+  "_count": 1610
 }

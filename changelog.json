@@ -1,5 +1,10 @@
 [
   {
+    "hash": "37d3f366d633daf052c6cd02268fc4d02fc5d7b7",
+    "date": "2026-01-26T13:53:44.000Z",
+    "message": "removed old script"
+  },
+  {
     "hash": "a489c3e48bee421cf69f0c3da49f00ed05c5442a",
     "date": "2026-01-26T13:39:50.000Z",
     "message": "Add GitHub Actions workflow for static site deployment"
@@ -18,10 +23,5 @@
     "hash": "330b8d5f480657591098879d144d5569a01fcbb4",
     "date": "2026-01-16T01:04:59.000Z",
     "message": "big refactor"
-  },
-  {
-    "hash": "3228be894bdda6c0351f14570dd151d011f92228",
-    "date": "2025-09-30T18:49:54.000Z",
-    "message": "initial commit"
   }
 ]
