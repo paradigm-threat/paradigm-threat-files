@@ -60,6 +60,9 @@ To understand the motivations behind *predictive programming*,
 allows us to determine precisely what the viewer is being compelled into believing,
 or *not* believing.
 
+## My Projects
+
+
 ## My Articles
 
 * [MudFlood Energetic Event Hypothesis](/history/mudflood)
@@ -244,6 +247,18 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 * Reality Czars Podcast #4 (they didn't air it)
 * [The Deep Share Podcast](https://open.spotify.com/episode/4bXxEADsAafWcCtJ6UTqOk)
 * [The Deep Share Podcast #2](https://open.spotify.com/episode/5D15yiucvxit8TQeSrO6lz)
+
+## CleverTree Projects
+
+* **[Forgotten Future](https://ffga.me)**: AI-Driven Book and Game Project exploring interactive narrative through parallax scrolling and WebGL.
+* **[Relay](https://relaynet.online)**: A decentralized Web3.0 stack and social network architecture.
+* **[Skinner Family Dental](https://skinnerfamilydental.com)**: Professional dental practice website featuring patient portals and appointment integration.
+* **[Gordonston Arts Fair](https://gordonstonartsfair.com)**: Annual arts community hub for Savannah's historic Gordonston neighborhood.
+* **[Song Walker]**: Planned interactive music exploration platform and spatial audio visualizer.
+* **[hook-transpiler](https://github.com/clevertree/hook-transpiler)**: High-performance JSX/TSX transpiler optimized for Relay hooks and dynamic module injection.
+* **[md2jsx](https://github.com/clevertree/md2jsx)**: Flexible Markdown to JSX converter with support for custom React components and themes.
+* **[themed-styler](https://github.com/clevertree/themed-styler)**: Rust-powered WASM engine for dynamic theme generation and CSS variable management.
+* **[jscbridge](https://github.com/clevertree/jscbridge)**: A lightweight bridge for communicating between JavaScriptCore and native environments.
 
 ## Contact
 
