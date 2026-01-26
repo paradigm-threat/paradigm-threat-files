@@ -17,4 +17,10 @@ I plan to demonstrate many of these same topics and theories—from electric uni
 ### The World
 Survivors of the Cataclysm live in a world defined by its elemental struggles. From the **Fire Cities** of the Ember Basin to the **High Enclave** of the northern mountains, the story follows Ren, a "Wood-element" vessel with a persistent memory, as he uncovers the truth of the world's fabricated history.
 
-![Forgotten Future Text](text.png)
+![Forgotten Future Map](map.png)
+
+### Character: Rahu
+
+![Character: Rahu](rahu.png)
+
+[Visit forgottenfuturebook.com for more content](https://forgottenfuturebook.com)

@@ -1,5 +1,10 @@
 [
   {
+    "hash": "03a819a46264feb85d5b92b15ea8f3a8f8c6f6ae",
+    "date": "2026-01-26T14:33:08.000Z",
+    "message": "switch logo"
+  },
+  {
     "hash": "77ca4441963c071e2945f61a01d30be345e384bd",
     "date": "2026-01-26T14:12:45.000Z",
     "message": "Update Relay URL to relaynet.online"
@@ -18,10 +23,5 @@
     "hash": "d5667e24cc9c2c13146567f6e3ba627e4c465887",
     "date": "2026-01-26T13:59:15.000Z",
     "message": "feat: add forgotten-future page and assets"
-  },
-  {
-    "hash": "37d3f366d633daf052c6cd02268fc4d02fc5d7b7",
-    "date": "2026-01-26T13:53:44.000Z",
-    "message": "removed old script"
   }
 ]
