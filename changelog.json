@@ -1,5 +1,15 @@
 [
   {
+    "hash": "a489c3e48bee421cf69f0c3da49f00ed05c5442a",
+    "date": "2026-01-26T13:39:50.000Z",
+    "message": "Add GitHub Actions workflow for static site deployment"
+  },
+  {
+    "hash": "38a6879a222a35bb9913cd9122499fb96fad4c35",
+    "date": "2026-01-26T13:11:37.000Z",
+    "message": "feat: updated index.json with tree structure, _count, _title, and _lqip metadata"
+  },
+  {
     "hash": "e3be965676f6285deaf723aea11943b6f7a86a81",
     "date": "2026-01-25T16:30:08.000Z",
     "message": "Refactor PopImage components to standard Markdown images"
