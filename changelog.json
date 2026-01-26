@@ -1,5 +1,20 @@
 [
   {
+    "hash": "77ca4441963c071e2945f61a01d30be345e384bd",
+    "date": "2026-01-26T14:12:45.000Z",
+    "message": "Update Relay URL to relaynet.online"
+  },
+  {
+    "hash": "baf15a0baf06adf1c90cd1e17a43e9688ac4c9ba",
+    "date": "2026-01-26T14:08:52.000Z",
+    "message": "Add CleverTree projects and libraries to page.md"
+  },
+  {
+    "hash": "daf152fb61f501d91bb92bdf3feb123a371b1753",
+    "date": "2026-01-26T14:03:16.000Z",
+    "message": "Simplify ChangeLog usage and add Forgotten Future content"
+  },
+  {
     "hash": "d5667e24cc9c2c13146567f6e3ba627e4c465887",
     "date": "2026-01-26T13:59:15.000Z",
     "message": "feat: add forgotten-future page and assets"
@@ -8,20 +23,5 @@
     "hash": "37d3f366d633daf052c6cd02268fc4d02fc5d7b7",
     "date": "2026-01-26T13:53:44.000Z",
     "message": "removed old script"
-  },
-  {
-    "hash": "a489c3e48bee421cf69f0c3da49f00ed05c5442a",
-    "date": "2026-01-26T13:39:50.000Z",
-    "message": "Add GitHub Actions workflow for static site deployment"
-  },
-  {
-    "hash": "38a6879a222a35bb9913cd9122499fb96fad4c35",
-    "date": "2026-01-26T13:11:37.000Z",
-    "message": "feat: updated index.json with tree structure, _count, _title, and _lqip metadata"
-  },
-  {
-    "hash": "e3be965676f6285deaf723aea11943b6f7a86a81",
-    "date": "2026-01-25T16:30:08.000Z",
-    "message": "Refactor PopImage components to standard Markdown images"
   }
 ]
