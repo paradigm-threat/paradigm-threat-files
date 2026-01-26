@@ -19,7 +19,7 @@ feel free to drop a message on the [Chat Server](/chat)!
 
 ## Change Log
 
-<ChangeLog changeLog="./git-log.json"></ChangeLog>
+<ChangeLog />
 
 !["These times are dark but every shadow, no matter how deep,
   is threatened by morning light" - Queen Isabella, The Fountain (2006)](./influence/conspiracy/scientific_truth.jpg?w=360 '{"className":"sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"}')
