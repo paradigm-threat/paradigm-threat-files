@@ -1,5 +1,10 @@
 [
   {
+    "hash": "b1bfeceeb7136007ae2b07dfb37f0650dd5325ac",
+    "date": "2026-01-26T14:48:42.000Z",
+    "message": "switch out pictures"
+  },
+  {
     "hash": "03a819a46264feb85d5b92b15ea8f3a8f8c6f6ae",
     "date": "2026-01-26T14:33:08.000Z",
     "message": "switch logo"
@@ -18,10 +23,5 @@
     "hash": "daf152fb61f501d91bb92bdf3feb123a371b1753",
     "date": "2026-01-26T14:03:16.000Z",
     "message": "Simplify ChangeLog usage and add Forgotten Future content"
-  },
-  {
-    "hash": "d5667e24cc9c2c13146567f6e3ba627e4c465887",
-    "date": "2026-01-26T13:59:15.000Z",
-    "message": "feat: add forgotten-future page and assets"
   }
 ]
