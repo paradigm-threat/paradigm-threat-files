@@ -5,8 +5,8 @@ description: "The objective of this timeline is to compile an accessible alterna
 
 # Earth History Timeline Reconstruction
 
-![Tartarian neoclassical architecture exists world-wide. This is evidence of a world-empire. The Rus-Horde
-  'Tartarian' Empire - which ruled over all continents between 12th and 18th centuries before its breakup in 1775.](./tartaria/tartarian_structures.jpg?w=384)
+![Tartarian neoclassical architecture exists world-wide](./tartaria/tartarian_structures.jpg?w=384)
+*This is evidence of a world-empire. The Rus-Horde 'Tartarian' Empire ruled over all continents between 12th and 18th centuries before its breakup in 1775.*
 
 
 Questioning the 'official' timeline of Earth's history is not a new phenomenon.
@@ -69,9 +69,8 @@ Here is my (Part 1) video documentary for this timeline project. Part 2 pending 
 ## Project Objective
 
 
-![[USA has Issues](https://www.amazon.com/Issues-British-Maps-century-History-ebook/dp/B013B019Z0) with British Maps
-  of 18th-century analyses in detail the maps of the 1771 edition of Encyclopedia Britannica and concludes that the
-  Northwestern part of the United States of America was built on remains of Moscuvite Tartary.](./fomenko_books.jpg?w=384)
+![Fomenko books - USA has Issues with British Maps](./fomenko_books.jpg?w=384)
+*[USA has Issues](https://www.amazon.com/Issues-British-Maps-century-History-ebook/dp/B013B019Z0) with British Maps of 18th-century analyses in detail the maps of the 1771 edition of Encyclopedia Britannica and concludes that the Northwestern part of the United States of America was built on remains of Moscuvite Tartary.*
 
 The objective of this timeline is to compile an [alternate history](https://en.wikipedia.org/wiki/Alternate_history)
 of Earth based on [Saturnian Cosmology](https://www.everythingselectric.com/wallace-thornhill/)
@@ -128,10 +127,8 @@ book [Recovering the Lost World](https://www.amazon.com/Recovering-Lost-World-Jn
 provides a reconstruction of events based on indigenous records which re-interpret Earth's *Origin Story* in the words
 of our ancestors who _were alive when it all happened_.
 
-![[The Electric Universe Theory](https://www.amazon.com/Electric-Universe-Wallace-Thornhill/dp/B007SP1LK8) posits that
-  galaxies, stars (including our Sun), and comets can be best understood through the well-tested behavior of
-  electricity—the one force about which astronomers seem to know almost nothing, a force that is 1036 or more times as
-  strong as gravity.](../../cosmos/cosmology/hollow_earth/hollow_earth_EU_model.jpg?w=384)
+![Electric Universe - hollow earth EU model](../../cosmos/cosmology/hollow_earth/hollow_earth_EU_model.jpg?w=384)
+*[The Electric Universe Theory](https://www.amazon.com/Electric-Universe-Wallace-Thornhill/dp/B007SP1LK8) posits that galaxies, stars (including our Sun), and comets can be best understood through the well-tested behavior of electricity—the one force about which astronomers seem to know almost nothing, a force that is 10^36 or more times as strong as gravity.*
 
 ### Cosmic Life Cycle
 
@@ -198,8 +195,8 @@ solar system, slowly at first, but increasing in speed until it finally [rips](h
 its way out of our solar system and dies, along with all remaining life on it. At this point the Sun's system has
 become empty and ready for another cycle to begin.
 
-![Before the Golden Age began, 3 Plasmoids lit up the Southern Hemisphere,
-  but were difficult to see by those who lived above the equator.](./saturn/plasma_discharge_recorded2.jpg?w=384)
+![Plasmoids in Southern Hemisphere before Golden Age](./saturn/plasma_discharge_recorded2.jpg?w=384)
+*Before the Golden Age began, 3 Plasmoids lit up the Southern Hemisphere, but were difficult to see by those who lived above the equator.*
 
 ## Before Creation
 
@@ -251,10 +248,8 @@ as necessary.
 
 ## The Golden Age
 
-![*The Garden of Earthly Delights*
-  by [Hieronymus
-  Bosch](https://www.theguardian.com/artanddesign/2016/feb/11/hieronymus-bosch-review-a-heavenly-host-of-delights-on-the-road-to-hell)
-  depicting the beginning, middle, and end of the *Golden Age*.](./saturn/golden_age_hieronimus_bosch.jpg?w=384)
+![The Garden of Earthly Delights by Hieronymus Bosch depicting the Golden Age](./saturn/golden_age_hieronimus_bosch.jpg?w=384)
+*The Garden of Earthly Delights* by [Hieronymus Bosch](https://www.theguardian.com/artanddesign/2016/feb/11/hieronymus-bosch-review-a-heavenly-host-of-delights-on-the-road-to-hell) depicting the beginning, middle, and end of the *Golden Age*.
 
 This period of stable collinear configuration is remembered throughout the civilizations of the Earth as the *Golden
 Age*. The Hindu Brahma, Yama, Vishnu, and Manu describe the age of the [“Brilliant Yima”](https://saturniancosmology.org/files/blog/blog-michael1.txt).
@@ -277,9 +272,8 @@ this period, each planet in the configuration had become a "fully charged" capac
 grow larger. The configuration violently came to an end, and the age of cataclysm began.
 
 
-![Sumerian Tablets - Cosmic Mountain and Wheel of Heaven: The cosmic mountain celebrated around the world, seen as a
-  pillar of fire and light rising along the world axis; as a radiant city or temple of heaven, as the prototype for
-  any sacred space on earth.](./saturn/cosmic_mountain.jpg?w=384)
+![Sumerian Tablets - Cosmic Mountain and Wheel of Heaven](./saturn/cosmic_mountain.jpg?w=384)
+*The cosmic mountain celebrated around the world, seen as a pillar of fire and light rising along the world axis; as a radiant city or temple of heaven, as the prototype for any sacred space on earth.*
 
 ### 4077 B.C.E. Proto-Saturn joins the Sun's orbit and lights up
 
@@ -288,15 +282,8 @@ grow larger. The configuration violently came to an end, and the age of cataclys
 > The word 'Sun' is substituted for the word 'Age' in the cosmogonical traditions of many peoples all over the world."
 > -<cite>[ Velikovsky's Worlds in Collision](https://books.google.com/books?id=FJst27kSVBgC&pg=PA299)</cite>
 
-![The discovery that objects from the Neolithic or Early Bronze Age carry patterns associated with high-current
-  Z-pinches provides a possible insight into the origin and meaning of these ancient symbols produced by humans. Part
-  I deals with the comparison of graphical and radiation data from high current Z-pinches to petroglyphs, geo-glyphs,
-  and megaliths. Part I focused primarily, but not exclusively, on petro-glyphs of some 84 different morphologies:
-  pictures found in laboratory experiments and carved on rock. These corresponded to mankind's visual observations of
-  ancient auroras as might be produced if the solar wind had increased (T. Gold) at times between one and two orders of
-  magnitude, millennia ago. Part II focuses on the source of light and its temporal change from a current-increasing
-  Z-pinch or dense-plasma-focus aurora.
-  [Source](https://www.academia.edu/9156691/Characteristics_for_the_Occurrence_of_a_High_Current_Z_Pinch_Aurora_as_Recorded_in_Antiquity_Part_II_Directionality_and_Source)](./saturn/saturn_configuration_vortex.jpg?w=384)
+![Z-pinch aurora research - petroglyphs and ancient symbols](./saturn/saturn_configuration_vortex.jpg?w=384)
+*The discovery that objects from the Neolithic or Early Bronze Age carry patterns associated with high-current Z-pinches provides a possible insight into the origin and meaning of these ancient symbols produced by humans. Part I deals with the comparison of graphical and radiation data from high current Z-pinches to petroglyphs, geo-glyphs, and megaliths. Part II focuses on the source of light and its temporal change from a current-increasing Z-pinch or dense-plasma-focus aurora. [Source](https://www.academia.edu/9156691/Characteristics_for_the_Occurrence_of_a_High_Current_Z_Pinch_Aurora_as_Recorded_in_Antiquity_Part_II_Directionality_and_Source)*
 
 
 As Saturn's body entered
@@ -337,9 +324,8 @@ history as the Earth jumps from one orbit to another, eventually reaching its in
 jump, the Earth becomes part of a smaller configuration and draws in less energy from the Sun. This results in a
 *slower* orbit.
 
-![In ancient Norse mythology and cosmology, Yggdrasil is an immense tree that sprang forth in the primordial void of
-  Ginnungagap, unifying the 9 worlds of Asgard, Álfheimr/Ljósálfheimr, Niðavellir/Svartálfaheimr, Midgard (Earth),
-  Jötunheimr/Útgarðr, Vanaheim, Niflheim, Muspelheim & Hel](./saturn/norse_yggdrasil.jpg?w=384)
+![Yggdrasil - the world tree unifying the 9 worlds in Norse cosmology](./saturn/norse_yggdrasil.jpg?w=384)
+*In ancient Norse mythology and cosmology, Yggdrasil is an immense tree that sprang forth in the primordial void of Ginnungagap, unifying the 9 worlds of Asgard, Álfheimr/Ljósálfheimr, Niðavellir/Svartálfaheimr, Midgard (Earth), Jötunheimr/Útgarðr, Vanaheim, Niflheim, Muspelheim & Hel.*
 
 ### Saturn's Collinear Planetary Configuration - The Tree of Life
 
@@ -364,9 +350,8 @@ Talbott describes:
 > the primeval sun remained fixed in one place.
 
 
-![During the Golden Age, the *Absu* plasma layers of [Proto-Saturn](https://www.plasmacosmology.net/myth.html)
-  (also known as the [Firmament](https://en.wikipedia.org/wiki/Firmament) in the bible)
-  surrounded the Planets.](./saturn/golden_age_absu.jpg?w=384)
+![Golden Age Absu plasma layers surrounding the planets](./saturn/golden_age_absu.jpg?w=384)
+*During the Golden Age, the *Absu* plasma layers of [Proto-Saturn](https://www.plasmacosmology.net/myth.html) (also known as the [Firmament](https://en.wikipedia.org/wiki/Firmament) in the bible) surrounded the Planets.*
 
 ### The Absu layers surrounded the Planets
 
@@ -397,13 +382,8 @@ the gap between the inner circles expands, causing the planet to become [hollow]
 
 [Watch: What's Inside Jupiter?](https://www.youtube.com/watch?v=CvfFJiUWuDk)
 
-![From anywhere on the northern hemisphere of the Earth, one could look northwards and see in order: Mars, Venus, then
-  the
-  gas giant Saturn. Behind Saturn was the gas giant Jupiter, which was not yet visible. Behind Jupiter, at a 26.7
-  degree
-  angle, was our Sun. All together, they form an unmistakable Star and crescent in the sky worshiped throughout the
-  Persian, Roman, Byzantine, and Ottoman Empires, and throughout Islam today. This deity was known in Egypt as Osiris
-  the *Triform God*, and as *The Trinity* in Babylonian and Abrahamic religion.](./saturn/saturnian_configuration_north.jpg?w=384)
+![Northern view of Saturnian configuration - Mars, Venus, Saturn, Jupiter and Sun](./saturn/saturnian_configuration_north.jpg?w=384)
+*From anywhere on the northern hemisphere of the Earth, one could look northwards and see in order: Mars, Venus, then the gas giant Saturn. Behind Saturn was the gas giant Jupiter, which was not yet visible. Behind Jupiter, at a 26.7 degree angle, was our Sun. All together, they form an unmistakable Star and crescent in the sky worshiped throughout the Persian, Roman, Byzantine, and Ottoman Empires, and throughout Islam today. This deity was known in Egypt as Osiris the *Triform God*, and as *The Trinity* in Babylonian and Abrahamic religion.*
 
 ### Northern Hemisphere Configuration
 
@@ -431,11 +411,8 @@ and appeared stretched out in many shapes and colors, none of which resembled a 
 makes eight *descents* to Earth creating the appearance of Osiris,
 the [Triform God](https://en.wikipedia.org/wiki/Triple_deity).
 
-![Still there was before a world to the south which was called Muspelheim. It is light and hot, and so bright and
-  dazzling that no stranger, who is not a native there, can stand it.
-  This means darker-skinned humans who could 'stand the heat' came from high-energy realms like Mars, Mercury, or the
-  southern end of the Earth. The fiery apparition of the Squatter Man figure in the south was recorded many times by
-  many civilizations as the Phoenix, Burning Man or Wicker Man, and the myth of Quetzalcoatl.](./saturn/saturnian_configuration_south.jpg?w=384)
+![Muspelheim - the southern realm of fire in Norse cosmology](./saturn/saturnian_configuration_south.jpg?w=384)
+*Still there was before a world to the south which was called Muspelheim. It is light and hot, and so bright and dazzling that no stranger, who is not a native there, can stand it. This means darker-skinned humans who could 'stand the heat' came from high-energy realms like Mars, Mercury, or the southern end of the Earth. The fiery apparition of the Squatter Man figure in the south was recorded many times by many civilizations as the Phoenix, Burning Man or Wicker Man, and the myth of Quetzalcoatl.*
 
 ### Southern Hemisphere Configuration
 
@@ -516,8 +493,8 @@ and it looks **a lot** like a modern day depiction of a "wormhole":
 ### The First Jews of Atlantis (First Jerusalem)
 
 
-![Atlantis was the first holy city - First Jerusalem - built on the north poles of Mars
-  and Earth to harness the energy of the Collinear Configuration and Golden Age](./atlantis/atlantis_first_jerusalem.jpg?w=384)
+![Atlantis - First Jerusalem built on the north poles of Mars and Earth](./atlantis/atlantis_first_jerusalem.jpg?w=384)
+*Atlantis was the first holy city - First Jerusalem - built on the north poles of Mars and Earth to harness the energy of the Collinear Configuration and Golden Age.*
 
 The term 'Jew' refers to anyone who worships the planet Saturn as a *Creator God* of the Earth (and its Universe) going
 by the names YHWH, Adonai, El, Elohim, Jehovah, Shaddai, Tzevaot, Ehyeh, Ba'al, Elah, El Roi, Elyon, or simply HaShem i.e. "The
@@ -773,9 +750,8 @@ repopulates beginning the [Middle Kingdom](https://en.wikipedia.org/wiki/Middle_
 becomes exposed to the Sun's field, it retreats into the safety of Jupiter's magnetosphere, and becomes once again
 _consumed into the Gas Giant's interior_.
 
-![Venus and Mars battle in the Earth's Sky depicted in old paintings: 'Great Red Dragon and The Woman Clothed with the
-  Sun' by William Blake, 'The Birth of Venus' and 'Mars and Venus' by
-  Sandro Botticelli](./saturn/venus_and_mars.jpg?w=384)
+![Venus and Mars battle in the Earth's sky - William Blake and Botticelli](./saturn/venus_and_mars.jpg?w=384)
+*Venus and Mars battle in the Earth's Sky depicted in old paintings: 'Great Red Dragon and The Woman Clothed with the Sun' by William Blake, 'The Birth of Venus' and 'Mars and Venus' by Sandro Botticelli.*
 
 #### The length of a year increases by 13 rotations to 273 days.
 
@@ -1166,10 +1142,8 @@ the *beginning of modern history* - 1053 C.E. In other words, the age of catacly
 > And some things that should not have been forgotten were lost. History became legend. Legend became myth
 <cite>- [Galadriel](https://www.goodreads.com/quotes/376870-and-some-things-that-should-not-have-been-forgotten-were)</cite>
 
-![Anatoly Fomenko's New Chronology complies with the most rigid scientific standards. It gives a coherent explanation
-  of
-  what we already know. Independent lines of inquiry all lead to the same conclusion. The predictions it makes are
-  confirmed empirically.](./fomenko_new_chronology.jpg?w=384)
+![Fomenko's New Chronology - scientific coherence and empirical confirmation](./fomenko_new_chronology.jpg?w=384)
+*Anatoly Fomenko's New Chronology complies with the most rigid scientific standards. It gives a coherent explanation of what we already know. Independent lines of inquiry all lead to the same conclusion. The predictions it makes are confirmed empirically.*
 
 ### Building the New Chronology
 
@@ -1198,8 +1172,8 @@ happened to agree that there were no flaws in the Scaligarian version of modern 
 > and more detailed ones by N. A. Morozov, inhibited the development of the new chronology in the Western Europe of
 > the XX century considerably” - [History of the New Chronology](https://chronologia.org/en/seven/history.html)
 
-![Anatoly Timofeevich Fomenko is a Soviet and Russian historical theorist, mathematician, professor at Moscow State
-  University, well-known as a topologist, and a member of the Russian Academy of Sciences](./anatoly_fomenko.jpg?w=384)
+![Anatoly Timofeevich Fomenko - Russian mathematician and New Chronology theorist](./anatoly_fomenko.jpg?w=384)
+*Anatoly Timofeevich Fomenko is a Soviet and Russian historical theorist, mathematician, professor at Moscow State University, well-known as a topologist, and a member of the Russian Academy of Sciences.*
 
 In 1972 American astrophysicist Robert Newton published an article where he described a strange leap in lunar
 acceleration, and the so-called parameter D. In 1973, A. T. Fomenko, working as a faculty member of the Department of
@@ -1320,17 +1294,11 @@ Since all information on the old Gods were kept secret in Jerusalem archives, th
 them. The stories fell into mythology, replaced by new stories of the Sun traversing the seasons, which later became
 the [farmer's almanac](https://en.wikipedia.org/wiki/Almanac).
 
-![Christ was a hairy human giant. Here is a painting of his hairy giant mother
-  from the Body and Soul exhibit in Italy.
-  *"I went to see the exhibition "Body and Soul: Sculpture in Italy from Donatello to Michelangelo," and this was
-  the first I had ever heard of the miraculous body hair of Mary Magdalene! I mean, what?
-  I guess Christians already knew about this? That she's supposed to have lived in the desert until her clothes
-  crumbled away, then her own body hair miraculously grew to clothe her? Why hasn't this found its way into a short
-  story I've read? Did everyone just know this already?"*
-  [@summerbrennan](https://twitter.com/summerbrennan/status/1406610171934224386)](./christ/hairy_mary.jpg?w=384)
+![Hairy Mary - painting of Christ's hairy giant mother from Body and Soul exhibit](./christ/hairy_mary.jpg?w=384)
+*Christ was a hairy human giant. Here is a painting of his hairy giant mother from the Body and Soul exhibit in Italy. "I went to see the exhibition 'Body and Soul: Sculpture in Italy from Donatello to Michelangelo,' and this was the first I had ever heard of the miraculous body hair of Mary Magdalene! I mean, what? I guess Christians already knew about this? That she's supposed to have lived in the desert until her clothes crumbled away, then her own body hair miraculously grew to clothe her? Why hasn't this found its way into a short story I've read? Did everyone just know this already?" — [@summerbrennan](https://twitter.com/summerbrennan/status/1406610171934224386)*
 
-![Jupiter and Saturn aligned as the Star of Bethlehem on December 21, 2020, marking the 840-Year Anniversary of the
-  Crucifixion in Constantinople of Andronicus-Christ of the Crimea](./christ/conjunction.jpg?w=384)
+![Jupiter and Saturn conjunction - Star of Bethlehem, 840-year Crucifixion anniversary](./christ/conjunction.jpg?w=384)
+*Jupiter and Saturn aligned as the Star of Bethlehem on December 21, 2020, marking the 840-Year Anniversary of the Crucifixion in Constantinople of Andronicus-Christ of the Crimea.*
 
 ## 12th Century C.E. Birth of Christianity
 
@@ -1452,8 +1420,8 @@ In an [alternate](https://en.wikipedia.org/wiki/Tomb_of_Jesus) version of the hi
 Jesus Christ did not die on the cross at Golgotha. Instead, his brother, Isukiri, took his place on the cross,
 while Jesus escaped across Siberia to Mutsu Province, in northern Japan. A sign reads:
 
-![Shingō is the location of what is purported to be the resting place of Jesus, the "Tomb of Christ" (Kirisuto no haka),
-  and the residence of Jesus' descendants, the Sawaguchi family.](./christ/tomb_of_christ_and_brother.jpg?w=384)
+![Shingō is the location of what is purported to be the resting place](./christ/tomb_of_christ_and_brother.jpg?w=384)
+*Shingō is the location of what is purported to be the resting place of Jesus, the "Tomb of Christ" (Kirisuto no haka), and the residence of Jesus' descendants, the Sawaguchi family.*
 
 > When Jesus Christ was 21 years old, he came to Japan and pursued knowledge of divinity for 12 years.
 > He went back to Judea at age 33, and engaged in his mission.
@@ -1584,8 +1552,8 @@ world empire.
 
 ### Whom are the “Israelites” in history ?
 
-![Throughout history, the Jews (those most loyal to the church's authority) and Israelites (those acting in defiance
-  of the church's authority) were often on opposite sides of military and religious conflicts.](./tartaria/israel_fake_history.jpg?w=384)
+![Throughout history, the Jews (those most loyal to the church's](./tartaria/israel_fake_history.jpg?w=384)
+*Throughout history, the Jews (those most loyal to the church's authority) and Israelites (those acting in defiance of the church's authority) were often on opposite sides of military and religious conflicts.*
 
 The *Israelites* are defined as a group of people who are
 [wrestling against](https://www.quora.com/What-does-the-literal-translation-of-Israel-wrestles-with-god-mean)
@@ -1661,12 +1629,8 @@ micro-injustices within the Empire caused pockets of resistance, forming the bas
 of [Protestantism](https://en.wikipedia.org/wiki/Protestantism). The Hordian campaign would drag on in these regions
 leading to a war lasting over [a hundred years](https://en.wikipedia.org/wiki/Hundred_Years%27_War).
 
-![“There were several brothels located in Pompeii — appearing to be part
-  of the Roman culture — that were vastly decorated with pictures representing different sexual similes above the
-  entryways to the cubicles. A fresco from one such brothel depicts a man and woman making love on a bed. The woman is
-  sitting on top of the man with what appears to be a breast band around her chest. Her right arm is outstretched with
-  her hand resting on the bed to the left of his head.”
-  [Source](https://vermiliongoldfishartblog.wordpress.com/2017/06/02/pompeii-pornography-power/)](./apocalypse/pompeii_painting.jpg?w=384)
+![Pompeii brothel fresco - Roman culture](./apocalypse/pompeii_painting.jpg?w=384)
+*“There were several brothels located in Pompeii — appearing to be part of the Roman culture — that were vastly decorated with pictures representing different sexual similes above the entryways to the cubicles. A fresco from one such brothel depicts a man and woman making love on a bed. The woman is sitting on top of the man with what appears to be a breast band around her chest. Her right arm is outstretched with her hand resting on the bed to the left of his head.” [Source](https://vermiliongoldfishartblog.wordpress.com/2017/06/02/pompeii-pornography-power/)*
 
 ### 1380 C.E. Giants are defeated at the Battle of Kulikovo
 
@@ -1680,13 +1644,8 @@ this moment as the story of David vs Goliath where David beats a giant using a '
 This story was pushed back into history as the Battle of Marathon when 'javelins' were used to defeat the larger army.
 [See: The mystery of the Tsar Cannon](https://www.rbth.com/arts/2014/09/17/the_mystery_of_the_tsar_cannon_38347)
 
-![An [extraordinary
-  document](https://oll.libertyfund.org/title/wade-extraordinary-black-book-an-exposition-of-abuses-in-church-and-state-1832)
-  which details the corruption and financial abuses of the British government ax well as the sinecures and privileges
-  of
-  the army, church, and other groups. It was drawn up by John Wade as part of the radical movement to expand the
-  franchise
-  in England in.](./reformation/extraordinary_black_book.jpg?w=384)
+![John Wade's Extraordinary Black Book - church and state abuses](./reformation/extraordinary_black_book.jpg?w=384)
+*An [extraordinary document](https://oll.libertyfund.org/title/wade-extraordinary-black-book-an-exposition-of-abuses-in-church-and-state-1832) which details the corruption and financial abuses of the British government as well as the sinecures and privileges of the army, church, and other groups. It was drawn up by John Wade as part of the radical movement to expand the franchise in England.*
 
 #### European Religious Schism Emerges
 
@@ -1702,12 +1661,8 @@ In the next 2 centuries the local populations would start publicly
 [burning heretics at the stake](https://en.wikipedia.org/wiki/List_of_people_burned_as_heretics) leading the Rus-Horde
 empire to begin an [Inquisition](https://en.wikipedia.org/wiki/Inquisition) to find a peaceful solution.
 
-![In this illustrated
-  [manuscript](https://www.researchgate.net/publication/361166387_Plague_and_Popular_Revival_Ecclesiastical_Authorities_and_the_Bianchi_Devotions_in_1399/fulltext/63639dc5431b1f5300688acd/Plague-and-Popular-Revival-Ecclesiastical-Authorities-and-the-Bianchi-Devotions-in-1399.pdf)
-  painted in Tuscany at the end of the 14th Century, devils shoot down arrows to inflict horror upon a tangled mass of
-  humanity. Religious processions were commonly held during plague outbreaks in medieval Europe to provide succour
-  against disease. During the Black Death of 1347–52, for example, a flagellant revival occurred, although this was
-  condemned by church authorities as it descended into anti-clerical violence.](./apocalypse/black_death.jpg?w=384)
+![Black Death - devils and flagellant revival, 14th century Tuscany](./apocalypse/black_death.jpg?w=384)
+*In this illustrated [manuscript](https://www.researchgate.net/publication/361166387_Plague_and_Popular_Revival_Ecclesiastical_Authorities_and_the_Bianchi_Devotions_in_1399/fulltext/63639dc5431b1f5300688acd/Plague-and-Popular-Revival-Ecclesiastical-Authorities-and-the-Bianchi-Devotions-in-1399.pdf) painted in Tuscany at the end of the 14th Century, devils shoot down arrows to inflict horror upon a tangled mass of humanity. Religious processions were commonly held during plague outbreaks in medieval Europe to provide succour against disease. During the Black Death of 1347–52, for example, a flagellant revival occurred, although this was condemned by church authorities as it descended into anti-clerical violence.*
 
 ## 15th Century C.E. Ottoman Conquest of Europe.
 
@@ -1747,17 +1702,8 @@ the Gods, and a sign that They favored Rus-Horde crusaders. Later this story was
 Rome and Greece, as well as in [modern media](https://conananimated.fandom.com/wiki/Star_Metal). During their military
 campaigns the Hordians and Atamans (Ottomans) carried the debris of the Yaroslavl meteor in a holy *arc* called Kaaba.
 
-![Even the supporters of the traditional version admit that the
-  Maid of Orleans began to be called *Joan of Arc* only from the second half of the xvi century. But this
-  implies that in the duration of *more than a century* the heroine was called something else. The question is, what?
-  According to our results she was called **Deborah**. Under this name she entered the Book of Judges. Then in view of
-  the growing interest towards Joan, her other names and nicknames also fell into common use. And later, in the
-  XVII-XVIII cc. the former name Deborah was gradually extruded from the story of Joan. The fact that Joan and Deborah
-  is the same person was slowly forgotten. The 'biblical events' were pushed into the past, two thousand six hundred
-  years back! The following generations of historians began to sincerely perceive Joan of Arc and the biblical Deborah
-  as two different characters. In our reconstruction Deborah = Joan of Arc lived in the epoch of the Ottoman conquest in
-  the world of the XV-XVI cc. That is why the original geography of the events connected to her campaigns was much wider
-  than the modern version.](./tartaria/painting_joan_of_arc_stake.jpg?w=384)
+![Even the supporters of the traditional version admit that the Maid](./tartaria/painting_joan_of_arc_stake.jpg?w=384)
+*Even the supporters of the traditional version admit that the Maid of Orleans began to be called *Joan of Arc* only from the second half of the xvi century. But this implies that in the duration of *more than a century* the heroine was called something else. The question is, what? According to our results she was called **Deborah**. Under this name she entered the Book of Judges. Then in view of the growing interest towards Joan, her other names and nicknames also fell into common use. And later, in the XVII-XVIII cc. the former name Deborah was gradually extruded from the story of Joan. The fact that Joan and Deborah is the same person was slowly forgotten. The 'biblical events' were pushed into the past, two thousand six hundred years back! The following generations of historians began to sincerely perceive Joan of Arc and the biblical Deborah as two different characters. In our reconstruction Deborah = Joan of Arc lived in the epoch of the Ottoman conquest in the world of the XV-XVI cc. That is why the original geography of the events connected to her campaigns was much wider than the modern version.*
 
 ### 1431 C.E. Jeanne d'Arc is executed in Rouen, France
 
@@ -1778,15 +1724,8 @@ Siege of Orleans (October 1428 – 8 May 1429). Nevertheless, Jeanne d'Arc’s d
 army to give up the siege. It was clear this French maiden had a bewitching influence on the Hordian soldiers to such a
 degree that it threatened the entire war campaign.
 
-![When creating the Scaligerian history all of these large-scale campaigns were artificially 'squeezed' into the
-  territory of one county in France, greatly reducing the scale of events. As a result some of the distant
-  geographical names also 'moved' here. And the entire story of Joan of Arc turned into an allegedly 'purely French'
-  story. Furthermore, it turns out that the famous French marshal Gilles de Rais, Joan of Arc's legendary
-  comrade-in-arms, is partially described in the Bible under the name of Samson, the famous hero and warrior. This
-  congruence is a result of the stories of Joan of Arc and the biblical Deborah overlapping each other. Marshal
-  Gilles de Rais, French national hero, faced the Inquisition court and was burnt at the stake in the town of Nante
- -one of the most infamous landmark cases 'on witchcraft'. All three storylines are directly connected with the
-  activities of the Inquisition on the territory of France (in the Scaligerian geography).](./tartaria/painting_samson_and_delilah_by_rubens.jpg?w=384)
+![When creating the Scaligerian history all of these large-scale](./tartaria/painting_samson_and_delilah_by_rubens.jpg?w=384)
+*When creating the Scaligerian history all of these large-scale campaigns were artificially 'squeezed' into the territory of one county in France, greatly reducing the scale of events. As a result some of the distant geographical names also 'moved' here. And the entire story of Joan of Arc turned into an allegedly 'purely French' story. Furthermore, it turns out that the famous French marshal Gilles de Rais, Joan of Arc's legendary comrade-in-arms, is partially described in the Bible under the name of Samson, the famous hero and warrior. This congruence is a result of the stories of Joan of Arc and the biblical Deborah overlapping each other. Marshal Gilles de Rais, French national hero, faced the Inquisition court and was burnt at the stake in the town of Nante -one of the most infamous landmark cases 'on witchcraft'. All three storylines are directly connected with the activities of the Inquisition on the territory of France (in the Scaligerian geography).*
 
 
 This forced the hand of the Deep State which saw no other option than to *catharize* Jeanne d'Arc before their own
@@ -1878,10 +1817,8 @@ were deployed:
 > to go wherever they are needed — at a moment’s notice — remains strong in the order, and Jesuit priests to this day
 > still take a special vow to undertake any assignment given to them by the Pope.
 
-![In the apocalyptic imaginary, the great struggle of Horus is reflected in the enterprise of the four horsemen of
-  the Apocalypse, which represent the expansion of the Empire to the four cardinal points, and the Christian cross.
-  After this fight a single God, sovereign, imposes itself and begins the journey of the biblical Egyptian exodus, and
-  that of Troy, according to the mythified ancient history.](./apocalypse/apocalypse_vasnetsov.jpg?w=384)
+![In the apocalyptic imaginary, the great struggle of Horus is](./apocalypse/apocalypse_vasnetsov.jpg?w=384)
+*In the apocalyptic imaginary, the great struggle of Horus is reflected in the enterprise of the four horsemen of the Apocalypse, which represent the expansion of the Empire to the four cardinal points, and the Christian cross. After this fight a single God, sovereign, imposes itself and begins the journey of the biblical Egyptian exodus, and that of Troy, according to the mythified ancient history.*
 
 
 ### 1486 C.E. Revelation of the coming Apocalypse
@@ -1907,9 +1844,8 @@ enabled the Deep State to identify and neutralize any would-be resistance to the
 Europe and avoid the slaughter would have to give up their ancient traditions and submit to the authority of the Greek
 Orthodox Church of the Rus-Horde Empire.
 
-![*Death on the Pale Horse,* painted by the
-  American artist [Benjamin West](https://www.dia.org/art/collection/object/death-pale-horse-64796) in 1796 depicting
-  events of *The 1492 Apocalypse*.](./apocalypse/apocalypse_b_west.jpg?w=384)
+![Death on the Pale Horse - Benjamin West 1796](./apocalypse/apocalypse_b_west.jpg?w=384)
+*Death on the Pale Horse,* painted by the American artist [Benjamin West](https://www.dia.org/art/collection/object/death-pale-horse-64796) in 1796 depicting events of *The 1492 Apocalypse*.
 
 ### 1492 C.E. The Apocalypse Crusade & Reverse Exodus
 
@@ -1942,17 +1878,8 @@ Spanish, *Cristóbal Colón* translates literally to *Colony of Christ*.
 
 ## 16th Century C.E. Reformation and Inquisition.
 
-![The Ottoman Army surrounds Vienna by Frans Geffels.
-  The Ottoman Conquest – the 'second wave' carried an entirely different ideology from
-  the 'first wave'. If the 'Mongols'= the magnificent ones of the XIII-XIV cc. created the 'antique classicism', then
-  the 'Mongols'-Ottomans (Atamans) of the second wave of the XV century were destroying it. They considered that it
-  was
-  the liberal behavior of the Europeans of the XIII-XIV cc. which led to the mass infectious diseases. Including
-  venereal
-  ones, as the bacchanalian festivities emerged and flourished during the 'antique classicism'. The Ataman (Ottoman)
-  spirit of Cossacks once again, for the second time, emerging from Russia-Horde was more ascetic and austere.
-  Eventually
-  the ideology of modern Islam grew out of it. Extremely severe and chaste.](./tartaria/painting_ottoman_invades_vienna_1683.jpg?w=384)
+![The Ottoman Army surrounds Vienna by Frans Geffels. The Ottoman](./tartaria/painting_ottoman_invades_vienna_1683.jpg?w=384)
+*The Ottoman Army surrounds Vienna by Frans Geffels. The Ottoman Conquest – the 'second wave' carried an entirely different ideology from the 'first wave'. If the 'Mongols'= the magnificent ones of the XIII-XIV cc. created the 'antique classicism', then the 'Mongols'-Ottomans (Atamans) of the second wave of the XV century were destroying it. They considered that it was the liberal behavior of the Europeans of the XIII-XIV cc. which led to the mass infectious diseases. Including venereal ones, as the bacchanalian festivities emerged and flourished during the 'antique classicism'. The Ataman (Ottoman) spirit of Cossacks once again, for the second time, emerging from Russia-Horde was more ascetic and austere. Eventually the ideology of modern Islam grew out of it. Extremely severe and chaste.*
 
 
 The Apocalypse Crusade in europe had a major effect on world politics and culture. The prosperous influence of the
@@ -1976,11 +1903,8 @@ control Egypt, as both sides of the war had ancestral ties to the biblical locat
 *share* control over Egypt between dynastic ties of the east and west, which in effect meant that Egypt fell 100 % under
 Deep State control therefrom.
 
-![**The German Peasant’s War (1525)**.
-  Resistance to the Empire led to one of the largest popular rebellions in early modern Europe, with rebel
-  armies made up of as many as 40,000 in some areas. The violent actions of the peasants were met with violent
-  condemnation by Luther in print, while harsh suppression by the authorities meant that tens of thousands lost their
-  lives in the rebellion’s aftermath.](./reformation/painting_german_peasant_war_1525.jpg?w=384)
+![**The German Peasant’s War (1525)**. Resistance to the Empire led to](./reformation/painting_german_peasant_war_1525.jpg?w=384)
+***The German Peasant’s War (1525)**. Resistance to the Empire led to one of the largest popular rebellions in early modern Europe, with rebel armies made up of as many as 40,000 in some areas. The violent actions of the peasants were met with violent condemnation by Luther in print, while harsh suppression by the authorities meant that tens of thousands lost their lives in the rebellion’s aftermath.*
 
 ### 1517 C.E. Protestant Reformation Begins
 
@@ -2013,10 +1937,8 @@ both Jerusalem #1 in Turkey and #2 in Moscow. This was no accident-the mass publ
 renamed and relocated all the ancient sites in an attempt to subsume the famous capitals of the vanishing Rus-Horde
 Empire.
 
-![Galileo was called to Bellarmine's residence and ordered, to abstain completely from teaching or defending this
-  doctrine and opinion or from discussing it... to abandon completely... the opinion that the sun stands still at the
-  center of the world and the earth moves, and henceforth not to hold, teach, or defend it in any way whatsoever, either
-  orally or in writing.](./tartaria/galileo_facing_the_inquisition.jpg?w=384)
+![Galileo was called to Bellarmine's residence and ordered, to abstain](./tartaria/galileo_facing_the_inquisition.jpg?w=384)
+*Galileo was called to Bellarmine's residence and ordered, to abstain completely from teaching or defending this doctrine and opinion or from discussing it... to abandon completely... the opinion that the sun stands still at the center of the world and the earth moves, and henceforth not to hold, teach, or defend it in any way whatsoever, either orally or in writing.*
 
 ### 1542 C.E. The Holy Inquisition
 
@@ -2042,12 +1964,8 @@ poet [Celestin Douais](https://chronologia.org/en/seven5/empire12_09.html) claim
 > civilisation, helping to maintain order and to curb the propagation of major evils, protecting the century’s interests
 > and truly standing guard of social justice and the Christian ideology
 
-![The “burning of the Jews” depiction during Europe’s Black Death plague.
-
-  Source: University of Iowa’s Library.
-  When the populace searched for answers, the ecclesiastical hierarchy lectured them on how the Black Death was God’s
-  retribution for their wicked ways. In Spain, tolerance of the “killers of Christ” was among them. Soon tales of Jews
-  pouring poisonous powder into wells circulated throughout what is now Germany and France.](./tartaria/jews_vs_gentiles.jpg?w=384)
+![The “burning of the Jews” depiction during Europe’s Black Death](./tartaria/jews_vs_gentiles.jpg?w=384)
+*The “burning of the Jews” depiction during Europe’s Black Death plague. Source: University of Iowa’s Library. When the populace searched for answers, the ecclesiastical hierarchy lectured them on how the Black Death was God’s retribution for their wicked ways. In Spain, tolerance of the “killers of Christ” was among them. Soon tales of Jews pouring poisonous powder into wells circulated throughout what is now Germany and France.*
 
 #### Heresy of the Judaizers
 
@@ -2113,10 +2031,8 @@ and establishes colonies in an attempt to assimilate indigenous religions of Eth
 River, Angola and Cape Verde.
 
 
-![In the middle of the XVI century the Kazan kingdom – aka the legendary 'ancient' Khazar Khaganate – becomes the
-  centre of the Judaic religion. The Kazan czar, i.e. The Khazar Kagan and his court convert to Judaism. Kazan makes
-  an
-  attempt to break away from the Empire.](./tartaria/map_khazar_khagnate.jpg?w=384)
+![In the middle of the XVI century the Kazan kingdom – aka the](./tartaria/map_khazar_khagnate.jpg?w=384)
+*In the middle of the XVI century the Kazan kingdom – aka the legendary 'ancient' Khazar Khaganate – becomes the centre of the Judaic religion. The Kazan czar, i.e. The Khazar Kagan and his court convert to Judaism. Kazan makes an attempt to break away from the Empire.*
 
 
 ### 1552 C.E. Khazar Rebellion in the Russia-Horde Empire
@@ -2143,9 +2059,8 @@ most of the Giants and drove the rest into exile. They destroyed their other ide
 merged their religion with Deep State Monotheism. There was only *one ruling element* the Deep State did not control -
 the Russian aristocracy.
 
-![The oprichnina was a state policy implemented by Tsar Ivan the Terrible in Russia between 1565 and 1572.
-  The policy included mass repression of the boyars (Russian aristocrats), including public executions and
-  confiscation of their land and property](./tartaria/oprichniki_bish.jpg?w=384)
+![The oprichnina was a state policy implemented by Tsar Ivan the](./tartaria/oprichniki_bish.jpg?w=384)
+*The oprichnina was a state policy implemented by Tsar Ivan the Terrible in Russia between 1565 and 1572. The policy included mass repression of the boyars (Russian aristocrats), including public executions and confiscation of their land and property*
 
 ### 1565 C.E. Romanov Dynasty stages "The Oprichnina" coup
 
@@ -2403,14 +2318,8 @@ goldsmiths were ruined, and as many as ten thousand families were *financially e
 successfully mitigated the threat of independent banking and would now be able to establish a new *centralized* banking
 system (finalized by 1694).
 
-![[Inter-religious dispute Judaism-Christianity
-  (1633-1725)](https://chronologia.org/en/marfull_the_chronological_way/inter-religios_disputes.html).
-  Summing up, according to this basic reconstruction, the Catalan affinity with the Jewish one is better understood,
-  and the hostile vision of the Holy Inquisition, Castilian and Bourbon. But other issues of greater significance are
-  understood. After the Barcelona Dispute, the Order of Saint Jerome was created, whose mission is to write the Bible
-  in Latin, and with it the historical character of Jesus is built. Then (not before), Ramon Llull conceived the Rex
-  Bellator project, with the Catalan, Italian and Roman authority, which ended up rebuilding the Order of the Temple of
-  Solomon in the form of the Order of Saint John the Baptist, with which the European colonizer project began.](./fomenko_timeline_1633_1725.gif?w=384)
+![Inter-religious dispute Judaism-Christianity 1633-1725](./fomenko_timeline_1633_1725.gif?w=384)
+*[Inter-religious dispute Judaism-Christianity (1633-1725)](https://chronologia.org/en/marfull_the_chronological_way/inter-religios_disputes.html). Summing up, according to this basic reconstruction, the Catalan affinity with the Jewish one is better understood, and the hostile vision of the Holy Inquisition, Castilian and Bourbon. But other issues of greater significance are understood. After the Barcelona Dispute, the Order of Saint Jerome was created, whose mission is to write the Bible in Latin, and with it the historical character of Jesus is built. Then (not before), Ramon Llull conceived the Rex Bellator project, with the Catalan, Italian and Roman authority, which ended up rebuilding the Order of the Temple of Solomon in the form of the Order of Saint John the Baptist, with which the European colonizer project began.*
 
 ### 1661 to 1679 C.E. Rex Bellator plan unifies all military orders
 
@@ -2448,14 +2357,8 @@ by the creator god [Jehovah](https://en.wikipedia.org/wiki/Jehovah).
 <cite> [JewishEncyclopedia.com](https://www.jewishencyclopedia.com/articles/13480-shabbethai-zebi-b-mordecai)</cite>
 
 
-![The Polish theologian, historian and astronomer, Stanisław Lubieniecki (1623–1675) observed both comets from his
-  house in Hamburg. He corresponded with Ismäel Boulliau (1605–1694) in Paris and Henry Oldenburg (1618–1677), secretary
-  of the Royal Society in London about the 1664 comet. In 1668 he published a three-part work on both comets, his
-  Theatrum cometicum. Part one contained his correspondence on the topic with other European astronomers. The second
-  part consisted of criticism by other scholars of his cometary theories and his answers to his critics, whilst the
-  third part contained his astrological interpretations, including his opinion that the Great Fire of London was a
-  punishment from God announced by the 1664 comet.
-  [Source](https://thonyc.wordpress.com/2020/06/03/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xxxvii/)](./apocalypse/great_comet_of_1665.jpg?w=384)
+![Great Comet of 1665 - Stanisław Lubieniecki's Theatrum cometicum](./apocalypse/great_comet_of_1665.jpg?w=384)
+*The Polish theologian, historian and astronomer, Stanisław Lubieniecki (1623–1675) observed both comets from his house in Hamburg. He corresponded with Ismäel Boulliau (1605–1694) in Paris and Henry Oldenburg (1618–1677), secretary of the Royal Society in London about the 1664 comet. In 1668 he published a three-part work on both comets, his Theatrum cometicum. Part one contained his correspondence on the topic with other European astronomers. The second part consisted of criticism by other scholars of his cometary theories and his answers to his critics, whilst the third part contained his astrological interpretations, including his opinion that the Great Fire of London was a punishment from God announced by the 1664 comet. [Source](https://thonyc.wordpress.com/2020/06/03/the-emergence-of-modern-astronomy-a-complex-mosaic-part-xxxvii/)*
 
 ### 1664 C.E. The Great Comet of 1664 / 1665
 
