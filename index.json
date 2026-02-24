@@ -185,7 +185,7 @@
         "theory.jpg": {
           "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoMABAABUB8JYwAAtvfxnHFlAAA/vEa/lAsXQ88m7Liq/dzDVU1+6a4xzps2J0PI17pCN4CAAA="
         },
-        "volcanic_lightning.png": {
+        "volcanic_lightning.jpg": {
           "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoKABAABUB8JYgC7ADboiWVgAD+hk/BgqimF/FmJLBFapIN0w/DmmLmRTIZwcXj4Juv2DeRUYAAAA=="
         },
         "vortex.jpg": {
@@ -488,7 +488,7 @@
       "mars_map2.jpg": {
         "_lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAAkABUB8JbACdAEQ+tU8gJxAAP7JYwQfmF+5iY7IIHUVB6JlVXOGwiT1ssj8lpFIvrASE/l5JW1RDgVz1aQE9EFfbF6AAAA="
       },
-      "mars_map3.jpg": {
+      "mars_map3.png": {
         "_lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABQAwCdASoQABAABUB8JaQAEPk/2/8a8wWZ0aaLG2GO+f7YAAD+9DA6YTmkTf/3iOrsu30Lj8qHZh3u/6/8MvqmMfui+xvGT/cgcWnnc46ixAavnYO9hkL5oOd7m/9f4fcTezq9nhMpNtuf3Ll0iPNv9dGE/NkTz5322MkTXTcF1jI7QPOz8NrS2Eaa5sLwCnBvs0c4MuTx3O+xjH/55VqsJ054Cl1nJVRaAAAA"
       },
       "mars_map4.jpg": {
@@ -918,6 +918,9 @@
   "governance": {
     "genocide": {
       "Hall---The-Secret-Destiny-of-America-(1944).pdf": {},
+      "Harry_potter_predictive_programming_genocide.webp": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACQAQCdASoQAAsABUB8JYwAAV+pHAAA/t1+3HLl0hejQ/ZqQfqdRVYOPuISxHh8lqCYmxTS/usAAA=="
+      },
       "Predictive_Programming_Archon_Defender_2009.md": {},
       "a.md": {},
       "achat.md": {},
@@ -936,7 +939,7 @@
       "carbon_spike_774.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQABAABUB8JZQAAuQNkGeAAP7tW2mhLp+figrlfSvCJyFDyumDWv1AWnpQIAAA"
       },
-      "cherokeesyllabarycomparison.jpg": {
+      "cherokeesyllabarycomparison.webp": {
         "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAAkABUB8JaQAAudSVDcwAPul7GdsSMHtuX2taCkviTxGhJDAAA=="
       },
       "circumcision.jpg": {
@@ -966,7 +969,7 @@
       "genocide_by_electrocution.jpg": {
         "_lqip": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoQABAABUB8JZACw7Yypzd9E5+L1qu+AAD+t5kiU6W0Ewz5XQOnnopFLDCuQMFgijgU/Kse00E+qk8IXcg+qBRL9eFDZP5GMC9pdVS4FKlzIKZaGx88pry4b1ospa6+V4wYqLpkD+fW1LyAAAA="
       },
-      "genocide_by_gender_politics.jpg": {
+      "genocide_by_gender_politics.png": {
         "_lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoQAA0ABUB8JbACdEf/gYc/IAAA4jYViQucUfG8f8eZqrsD6WD5kyp/LtjWjnb3wMBaMzhbVFDKOBO44AQNrtrCcwDGTlRbGjXrjOnLR6cslPvD78+AIX79EIAAAA=="
       },
       "genocide_by_gmo.jpg": {
@@ -1023,7 +1026,7 @@
         "african_giants.jpg": {
           "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACQAQCdASoNABAABUB8JZQAAhUvw8AA9lCm9IMb1QdtlMPu5RaOKrlTqhx1e/mp5+9UhwAA"
         },
-        "aztec_codex.png": {
+        "aztec_codex.jpg": {
           "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoNABAABUB8JQAAU3RJVtGAANzOvHD+kkcUkprHLDDqTBCc/O9c91NvG7zTYhr934O/sggA"
         },
         "bread.jpg": {
@@ -1051,7 +1054,7 @@
         "genocide_giants1.jpg": {
           "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoQAA0ABUB8JYwCdACR1gCAAADd3zlvRQtY512GFtUsm9LgG6ASz9uqeznLQraRPq9fmsrPANzGbQUrZdMoebqGmJQawAwA"
         },
-        "genocide_giants12.jpg": {
+        "genocide_giants12.png": {
           "_lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSIEAAAAAAAAAAAAAIRYHFAAAAAAAAAAAAAEAARM/QmQGAgMAAAAAAAEKBwkKFhNiSgUJCAUADxUMBAUFChhcm1ocKhoBBRRacyslMFFUdmxiH4peQyQPQ3RbJTdQgmcsZUl0hZNeFBc3Lyo+a39kSDRBkGwkEhMVGR0mGyMICwoQFBEDAAAAVlA4IBgAAAAwAQCdASoQAAgABUB8JaQAA3AA/vDmwAA="
         },
         "genocide_giants13.jpg": {
@@ -1790,7 +1793,7 @@
         "vax_doll.jpg": {
           "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAsABUB8JZgC7ADpzD7lIVAA/nM75MbiC29wSB6tSN9hiikYtY0GcegI+x8EA2HoFyGMQth6vpM2XzkgAA=="
         },
-        "vax_factcheck.jpg": {
+        "vax_factcheck.png": {
           "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADwAQCdASoQABAABUB8JaQAAxZhFdtrj0AA/u1iMJAAyDeZieEzBexwzfdAAA=="
         },
         "vax_fauci.jpg": {
@@ -2092,7 +2095,7 @@
       "white_slaves1.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoLABAABUB8JZQAAtz3jx8gAAD+6yXofKC7qCyZLimghMNJDK1HwIxAguHp/6/hQ5j166fQMEfJ8AAA"
       },
-      "_count": 396
+      "_count": 397
     },
     "usury": {
       "1971_inflation_theft1.jpg": {
@@ -2266,7 +2269,7 @@
         "tokyo3.jpg": {
           "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAoABUB8JaQAAn/ajwm9wADJJd0wk3L/UyGpXx7TJD4THZcHfi+sWj44iu+5ba+nuSCSZIAAAA=="
         },
-        "tokyo4.jpg": {
+        "tokyo4.png": {
           "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAsABUB8JZwAAVSY3wKAAPg+wR1Qlt59727R7Eip33a57EXZ9gWRW94cAAAA"
         },
         "tokyo_fire.png": {
@@ -2339,7 +2342,7 @@
       },
       "_count": 45
     },
-    "_count": 477
+    "_count": 478
   },
   "history": {
     "chronology": {
@@ -3821,7 +3824,7 @@
       "VK_com_ban_after_signup.png": {
         "_lqip": "data:image/webp;base64,UklGRioAAABXRUJQVlA4IB4AAAAwAQCdASoQAAwABUB8JZwAA3AA/vAVzGgdTLiqAAA="
       },
-      "ai_censorship.png": {
+      "ai_censorship.jpg": {
         "_lqip": "data:image/webp;base64,UklGRioAAABXRUJQVlA4IB4AAAAwAQCdASoQAAcABUB8JaQAA3AA/u3idv4JwQygAAA="
       },
       "apple_podcast.jpg": {
@@ -3849,7 +3852,7 @@
       "facebook_censorship18.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoLABAABUB8JaQAAu10X5X6AAD+7VGL6gs4krMQZrkwuxuGPoOJJrq1LeXyo1WYRbXliAAA"
       },
-      "facebook_censorship19.jpg": {
+      "facebook_censorship19.png": {
         "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoNABAABUB8JaQAAveE9RIwaAD+7UkLXyE8J+09+CRfVM5aAAA="
       },
       "facebook_censorship4.jpg": {
@@ -4381,10 +4384,10 @@
       "abracadabra.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoQABAABUB8JQBdgCHR2/ueEAD8s6LKwjL2b/GSgEvjrqfhvfkygQqS1/jUx2CIFVWoS0Od4jN0LfZ8/n8J6OpAAAA="
       },
-      "baphomet.png": {
+      "baphomet.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoKABAABUB8JQBOgCHEM4YGAAD+x3uGVuwfQCTWsa9DMxj3XCyV74oGdFogae2D7fL7/kb7vMJsAAAA"
       },
-      "kkk_jews.png": {
+      "kkk_jews.jpg": {
         "_lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAA0ABUB8JYwCw7DO/f8KOAAA/rQaw8vZqvOUV83esvXPveIuL4fyflKGnFCVxeUv1rEV6BF4gWVU4QSIyx33FJ7KrLl3gPJ4AAAA"
       },
       "_count": 3
@@ -4505,9 +4508,6 @@
       "disk_cover_up3.jpg": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAA8ABUB8JaQAAt4/fA19AIAA/ltKLNQRco8E6/XMqHhOPuq4Movoq2HPboW6r0ozMKmsEgX+GqyAAAA="
       },
-      "disk_cover_up4.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoOABAABUB8JQACIF+IJ6SZMu5guUAAAP7uNV/4XBgp5+IROWTJr5vWcNf3+JD+r/Z4VTjU03Ydz4fs5n1eoXY1+XCtUlAmzHM/e+4Suctp7fwlv0NLBsYKsMcw48MkRp4WY03gjoU7O5C3h4b1UuSOu/+HeKgA"
-      },
       "failed_aerodynamics.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAAkABUB8JaQAAn2n4/BPQAD+3uxK+LM/Q7X2nEhbGrG1g9p4+vlLHAwwfAeOAAA="
       },
@@ -4550,7 +4550,7 @@
       "zpe_technology.jpg": {
         "_lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAsABUB8JbACdABlfAglgAD+qcnBPrv7kSuYmRjY++ZOD05ekN3xOyGawxaWAR38JEBbNr6BQt/H4v6pAfOpaQ3LlfTxfcOgfoAA"
       },
-      "_count": 35
+      "_count": 34
     },
     "geoengineering": {
       "Geoengineering-page-15.jpg": {
@@ -4785,7 +4785,7 @@
       },
       "_count": 7
     },
-    "_count": 130
+    "_count": 129
   },
   "_count": 1619
 }

@@ -154,7 +154,7 @@ upon countries we have poor relations with. It's an effective threat.
 ![Flying Disk Cover Up 1](../../science/anti_gravity/disk_cover_up.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
 ![Flying Disk Cover Up 3](../../science/anti_gravity/disk_cover_up3.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 ![Flying Disk Cover Up 2](../../science/anti_gravity/disk_cover_up2.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
-![Flying Disk Cover Up 4](../../science/anti_gravity/disk_cover_up4.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Flying Disk Cover Up 4](../../science/anti_gravity/disk_cover_up4.gif?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ## Q: What flying machines (besides saucers) use this flying technology?
 
