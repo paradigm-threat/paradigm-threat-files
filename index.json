@@ -1351,6 +1351,9 @@
       "passport.jpg": {
         "_lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoQABAABUB8JaABTAA8yN9WHFyBwAD+4MzEMvczlie7aD4MQQSo/+wkRX6R40HR7YfUEAhCQWM5nRWeI5kqDfBW/scQopQGJDpwzgAA"
       },
+      "poisoned_wells_plague.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQABAABUB8JaQAAxbla+8MYYAA/tnINalICrjTGmAT3sadohabzb6aQzp/lgR1vjEOYI+PAAA="
+      },
       "prison": {
         "prison_slaves.jpg": {
           "_lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQABAABUB8JQAB8kHVdfFCrqNAAPhYq3eeUYAbbeWhX+zoRbFR9HXSndQEGz9q4QzhqSTqxBNMXry6bOXmN3As7qdQtbKKcxmV5Y08s9UfAcpIe2QyfVC+AAA="
@@ -2089,7 +2092,7 @@
       "white_slaves1.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoLABAABUB8JZQAAtz3jx8gAAD+6yXofKC7qCyZLimghMNJDK1HwIxAguHp/6/hQ5j166fQMEfJ8AAA"
       },
-      "_count": 395
+      "_count": 396
     },
     "usury": {
       "1971_inflation_theft1.jpg": {
@@ -2336,7 +2339,7 @@
       },
       "_count": 45
     },
-    "_count": 476
+    "_count": 477
   },
   "history": {
     "chronology": {
@@ -2984,6 +2987,9 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA="
       },
       "_count": 222
+    },
+    "common-questions.md": {
+      "_title": "Common Questions About Alternate Chronology"
     },
     "maps": {
       "1200px-Cruquius-Diagram-eclipse-1732.jpg": {
@@ -3805,7 +3811,7 @@
       },
       "_count": 178
     },
-    "_count": 495
+    "_count": 496
   },
   "influence": {
     "censorship": {
@@ -3814,6 +3820,9 @@
       },
       "VK_com_ban_after_signup.png": {
         "_lqip": "data:image/webp;base64,UklGRioAAABXRUJQVlA4IB4AAAAwAQCdASoQAAwABUB8JZwAA3AA/vAVzGgdTLiqAAA="
+      },
+      "ai_censorship.png": {
+        "_lqip": "data:image/webp;base64,UklGRioAAABXRUJQVlA4IB4AAAAwAQCdASoQAAcABUB8JaQAA3AA/u3idv4JwQygAAA="
       },
       "apple_podcast.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABwAQCdASoNABAABUB8JaV2AAGIAAD+8IotMTFAEUuWeiIB/2sYAAAA"
@@ -3921,7 +3930,7 @@
       "twitter_censorship2.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoPABAABUB8JaQAAudFrAAA/uf+VxJYgBDkgzNzH3PWm1gZpQx4AAAA"
       },
-      "_count": 37
+      "_count": 38
     },
     "conspiracy": {
       "00.md": {},
@@ -4322,6 +4331,9 @@
       },
       "_count": 7
     },
+    "kgb_fear.jpg": {
+      "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoNABAABUB8JYwCdAEQdpi55B8gAP6Dm/OsSzpp8vG/mvqWYR+ePhrrddpXSi6oK7yeOq68olYY+ZTgr2Cxo18JRpYAAA=="
+    },
     "predictive_programming": {
       "comics.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoLABAABUB8JbACdADaNpRNQAD+osy6K9r21oww3GphRYuacWFwYZ590oQuW9XAXivaz/dAsH8Jt8G4Q3ZZPAAA"
@@ -4365,7 +4377,19 @@
       },
       "_count": 14
     },
-    "_count": 194
+    "religion": {
+      "abracadabra.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoQABAABUB8JQBdgCHR2/ueEAD8s6LKwjL2b/GSgEvjrqfhvfkygQqS1/jUx2CIFVWoS0Od4jN0LfZ8/n8J6OpAAAA="
+      },
+      "baphomet.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoKABAABUB8JQBOgCHEM4YGAAD+x3uGVuwfQCTWsa9DMxj3XCyV74oGdFogae2D7fL7/kb7vMJsAAAA"
+      },
+      "kkk_jews.png": {
+        "_lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAA0ABUB8JYwCw7DO/f8KOAAA/rQaw8vZqvOUV83esvXPveIuL4fyflKGnFCVxeUv1rEV6BF4gWVU4QSIyx33FJ7KrLl3gPJ4AAAA"
+      },
+      "_count": 3
+    },
+    "_count": 199
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat"
@@ -4763,5 +4787,5 @@
     },
     "_count": 130
   },
-  "_count": 1612
+  "_count": 1619
 }

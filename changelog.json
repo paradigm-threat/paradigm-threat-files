@@ -1,5 +1,10 @@
 [
   {
+    "hash": "8e80ed6dc0f26829831d34afcec70a93426e91bb",
+    "date": "2026-01-31T23:00:34.000Z",
+    "message": "Update history/chronology page"
+  },
+  {
     "hash": "b1bfeceeb7136007ae2b07dfb37f0650dd5325ac",
     "date": "2026-01-26T14:48:42.000Z",
     "message": "switch out pictures"
@@ -18,10 +23,5 @@
     "hash": "baf15a0baf06adf1c90cd1e17a43e9688ac4c9ba",
     "date": "2026-01-26T14:08:52.000Z",
     "message": "Add CleverTree projects and libraries to page.md"
-  },
-  {
-    "hash": "daf152fb61f501d91bb92bdf3feb123a371b1753",
-    "date": "2026-01-26T14:03:16.000Z",
-    "message": "Simplify ChangeLog usage and add Forgotten Future content"
   }
 ]

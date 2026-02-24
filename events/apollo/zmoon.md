@@ -178,20 +178,6 @@ before its impact on Jupiter may lie in the global anomaly which
 occurred at approximately 8,200 years BP. This can be seen in the
 Greenland ice core temperature data (below).
 
-The Younger Dryas
-
-Geophysical evidence, as well as ancient knowledge, point to the
-Younger Dryas as the date for the capture of the Moon. I maintain that
-it was captured into its current orbit at the end of this period, 11.6
-cal kyr BP. The Younger Dryas was a short period, geologically
-speaking, which began at 13,000 years BP, some 1.5 millennia after the
-end of the last `Ice Age.' This 1300 year drop of 20 degrees F is well
-documented in the Greenland ice cores (below). It is notable for its
-rapid onset and an even more rapid conclusion, perhaps as short as a
-decade. The evidence for great trauma at this time is also available
-in Antarctic ice cores, ocean and lake sediments and continental
-flooding, indicating that the event was global in scope.
-
 Ice Core and Other Data
 
 The Greenland ice cores (GISP and GRIP) reveal much more than just the
