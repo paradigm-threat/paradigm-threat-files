@@ -26,7 +26,7 @@ feel free to drop a message on the [Chat Server](/chat)!
 
 ## Paradigm Threat Project
 
-The goal of Paradigm Threat is to solve the mysteries that lead to the major conspiracy theories of our time.
+The goal of Paradigm Threat is to pose an **intellectual challenge** to the reigning paradigms of every discipline — history, cosmology, medicine, physics, religion, finance, governance — using sourced research, cross-referenced chronologies, and a willingness to follow the evidence wherever it leads. Armed with history and ready to debate.
 If you're like me, you've noticed by now that the majority of
 [influence/conspiracy-theory](https://www.infowars.com/)
 channels in the western world have become (or have always been)

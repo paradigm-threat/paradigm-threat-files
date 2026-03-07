@@ -2418,6 +2418,9 @@
           "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoMABAABUB8JZEwARgAiwAA/uXOSUESePwRj+p3r2BphDxetbU6uQAA"
         },
         "astrology.md": {},
+        "bible_version.jpg": {
+          "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAA4ABUB8JZgAFhVpRNB77nAAAP49qWRQEye5oVAUivorjnTiXTYFBfsalbCBqyIMEY3lwrMUiUT+uO+vvgwOSAA="
+        },
         "bible_was_redacted.jpg": {
           "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoNABAABUB8JZwAAugvgGvsXgAA/un2bUTM3BdOEfrupbOvNjebpbNNUYGevkKIAAA="
         },
@@ -2502,7 +2505,7 @@
         "twelve_tribes_zodiac2.jpg": {
           "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoKABAABUB8JZwAAll4xEP/QAD+2B+kvzTAawh430/mjJw1Q/vHc+KS3OjKhx1ox5KWbwARxx5IonHFRoAAAA=="
         },
-        "_count": 34
+        "_count": 35
       },
       "coins.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAQCdASoNABAABUB8JZwAAtbelf9AAP6qEt2gXLhPGN0bPdxre++a8Y3k1bXDGLEL/s4TVWOIQAYCaarVUVT49+0EQgAA"
@@ -2989,7 +2992,7 @@
       "worlds-fair-coverup.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA="
       },
-      "_count": 222
+      "_count": 223
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology"
@@ -3814,7 +3817,7 @@
       },
       "_count": 178
     },
-    "_count": 496
+    "_count": 497
   },
   "influence": {
     "censorship": {
@@ -4787,5 +4790,5 @@
     },
     "_count": 129
   },
-  "_count": 1619
+  "_count": 1620
 }

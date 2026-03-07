@@ -1,8 +1,18 @@
 [
   {
-    "hash": "3d22842e392ed2134cc457b06997589534d0dabd",
+    "hash": "600ab338205f8f9b1a53a6136e4821fe854a9596",
+    "date": "2026-02-24T12:56:45.000Z",
+    "message": "Fix mislabeled image extensions: rename 14 files to match actual format"
+  },
+  {
+    "hash": "de70ad6d799690c827eb7c9867d68e96eabbed82",
     "date": "2026-02-24T12:47:36.000Z",
     "message": "Add new media files and content: apollo, genocide, censorship, religion"
+  },
+  {
+    "hash": "1a41b17b6869ffaeb45f62a2b6cdfa8cf4d7e558",
+    "date": "2026-02-11T12:54:32.000Z",
+    "message": "Add files via upload"
   },
   {
     "hash": "8e80ed6dc0f26829831d34afcec70a93426e91bb",
@@ -13,15 +23,5 @@
     "hash": "b1bfeceeb7136007ae2b07dfb37f0650dd5325ac",
     "date": "2026-01-26T14:48:42.000Z",
     "message": "switch out pictures"
-  },
-  {
-    "hash": "03a819a46264feb85d5b92b15ea8f3a8f8c6f6ae",
-    "date": "2026-01-26T14:33:08.000Z",
-    "message": "switch logo"
-  },
-  {
-    "hash": "77ca4441963c071e2945f61a01d30be345e384bd",
-    "date": "2026-01-26T14:12:45.000Z",
-    "message": "Update Relay URL to relaynet.online"
   }
 ]

@@ -604,7 +604,7 @@ into war,
 [re-educate](http://www.legendsandchronicles.com/ancient-civilizations/ancient-egypt/ancient-egyptian-education/) them,
 or sell them into [slavery](https://en.wikipedia.org/wiki/Slavery_in_ancient_Egypt#Bonded_laborers).
 
-![Pyramids built around the world in ancient and modern times](./pyramids/pyramids_around_the_world.jpg?w=384)
+![Pyramids built around the world in ancient and modern times](./pyramids/pyramids_around_the_world.png?w=384)
 
 ### Formation of the Deep State Pyramidal Empire
 
@@ -1535,7 +1535,7 @@ achieve. First, they had to convince the Rus-Horde that their prince was so grea
 David bloodline. This clever ruse played into the Crucifixion lie that Christ had claimed to be the King of the Jews and
 embedded Monotheism deep into Christianity.
 
-![Jerusalem #2 was the Kremlin in Moscow and was never located in Palestine](./jerusalem/kremlin_2nd_jerusalem_boris_godunov.jpg?w=384)
+![Jerusalem #2 was the Kremlin in Moscow and was never located in Palestine](./jerusalem/kremlin_2nd_jerusalem_boris_godunov.png?w=384)
 
 Next they redacted Polytheistic Sun worship
 into [Zodiac Monotheism](https://www.haaretz.com/archaeology/.premium-the-metamorphosis-of-the-sun-god-in-ancient-synagogues-in-israel-1.9157775)
@@ -2031,7 +2031,7 @@ and establishes colonies in an attempt to assimilate indigenous religions of Eth
 River, Angola and Cape Verde.
 
 
-![In the middle of the XVI century the Kazan kingdom – aka the](./tartaria/map_khazar_khagnate.jpg?w=384)
+![In the middle of the XVI century the Kazan kingdom – aka the](./tartaria/1552-khazar-rebellion.png?w=384)
 *In the middle of the XVI century the Kazan kingdom – aka the legendary 'ancient' Khazar Khaganate – becomes the centre of the Judaic religion. The Kazan czar, i.e. The Khazar Kagan and his court convert to Judaism. Kazan makes an attempt to break away from the Empire.*
 
 
