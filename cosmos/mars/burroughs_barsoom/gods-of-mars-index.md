@@ -60,5 +60,5 @@
 
 - [princess-of-mars-index.md](princess-of-mars-index.md) — River Iss, Atmosphere Factory
 - [warlord-of-mars-index.md](warlord-of-mars-index.md) — Okar, north pole
-- [investigations/mars/wotw-telepathic-purge.md](/timeline?path=investigations/mars/wotw-telepathic-purge.md) — Plant Men, host body
+- [wotw-telepathic-purge](/cosmos/mars/investigations/wotw-telepathic-purge.md) — Plant Men, host body
 - [Mars Literature: Author Profiles](/timeline/evt-mars-literature-appendix)

@@ -50,5 +50,5 @@
 ## 5. Cross-References
 
 - [princess-of-mars-index.md](princess-of-mars-index.md)
-- [investigations/mars/wotw-telepathic-purge.md](/timeline?path=investigations/mars/wotw-telepathic-purge.md) — Kaldane, Rykor, host body
+- [wotw-telepathic-purge](/cosmos/mars/investigations/wotw-telepathic-purge.md) — Kaldane, Rykor, host body
 - [Asimov: Marx in Space!](/timeline/evt-asimov-marx-in-space) — robots, Binder; Kaldane/Rykor predate Synthetic Men (1940)

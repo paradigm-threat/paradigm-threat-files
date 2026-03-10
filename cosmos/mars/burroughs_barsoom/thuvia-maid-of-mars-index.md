@@ -42,4 +42,4 @@ Thuvia extends established geography (dead seas, Okar) and introduces telepathic
 
 - [princess-of-mars-index.md](princess-of-mars-index.md)
 - [warlord-of-mars-index.md](warlord-of-mars-index.md)
-- [investigations/mars/wotw-telepathic-purge.md](/timeline?path=investigations/mars/wotw-telepathic-purge.md) — Lotharians, telepathic purge
+- [wotw-telepathic-purge](/cosmos/mars/investigations/wotw-telepathic-purge.md) — Lotharians, telepathic purge
