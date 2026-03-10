@@ -44,7 +44,9 @@ This document tracks the mapping of old directory paths to the new "Spheres of I
 
 ## Investigations Migration Plan (paradigm-threat-timeline → paradigm-threat-files)
 
-**Source:** `paradigm-threat-timeline/investigations/*` only. **Do NOT copy** `paradigm-threat-timeline/content/*`.
+**Update (Mar 2026):** The `paradigm-threat-timeline/investigations/` directory has been **removed**. All investigations now live in **paradigm-threat-files** (canonical) and **wget** (working copy / backup). Timeline repo no longer contains investigations.
+
+**Source (for historical reference):** `paradigm-threat-timeline/investigations/*` was migrated. **Do NOT copy** `paradigm-threat-timeline/content/*`.
 
 **Index rule:** If a destination folder has an `index.md` (or similar index file), that index must list/link the other files in the folder. If no index exists, files may stand alone.
 

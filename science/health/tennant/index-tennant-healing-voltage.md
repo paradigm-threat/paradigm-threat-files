@@ -152,7 +152,7 @@
 | Scalar energy, golden mean, DNA | [Scalar energy as basis of creation](https://paradigm-threat.net/timeline?view=browser&path=content/01.before-creation/01.02.01-scalar-energy-as-the-basis-of-creation.md) |
 | Tesla resonating circuits in body | Tesla/wireless power, Wardenclyffe; [Maxwell/aether suppression](https://paradigm-threat.net/timeline?view=browser&path=content/13.ce-19th-rise-of-communism/13.06.00-1865-ce-the-suppression-of-maxwell-and-the-aether.md) |
 | Medical board restricts non–standard-of-care speech | Broader pattern: institutional gatekeeping of non-pharma paradigms |
-| Energy medicine research criticised/defunded (not illegal) | [Burden of Proof debate](https://paradigm-threat.net/timeline?view=browser&path=investigations/maxwell-aether/01-burden-of-proof-debate.md) — who must prove what |
+| Energy medicine research criticised/defunded (not illegal) | [Burden of Proof debate](/science/maxwell_aether/01-burden-of-proof-debate.md) — who must prove what |
 
 ---
 

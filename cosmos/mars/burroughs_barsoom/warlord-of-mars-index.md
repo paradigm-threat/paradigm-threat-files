@@ -51,5 +51,5 @@
 
 - [princess-of-mars-index.md](princess-of-mars-index.md) — River Iss, south pole
 - [gods-of-mars-index.md](gods-of-mars-index.md) — Valley Dor, Therns
-- [investigations/mars/mars-fiction-survey.md](/timeline?path=investigations/mars/mars-fiction-survey.md) — polar forbidden zones
+- [mars-fiction-survey](/cosmos/mars/investigations/mars-fiction-survey.md) — polar forbidden zones
 - Oberon Zell Barsoom map — Okar, north polar region

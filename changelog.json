@@ -1,5 +1,10 @@
 [
   {
+    "hash": "7c41d6ae5dd7cb91cf299cfc98b6f7c0fd857c9a",
+    "date": "2026-03-10T16:44:47.000Z",
+    "message": "Add stolen credit investigation: landing page, My Articles link, sync from wget"
+  },
+  {
     "hash": "479c370bd37a3f22cbd0bded9b99f4e9ca56f2ea",
     "date": "2026-03-10T13:08:00.000Z",
     "message": "Investigations migration: copy from timeline, fix links, add indexes, regenerate index.json"
@@ -18,10 +23,5 @@
     "hash": "600ab338205f8f9b1a53a6136e4821fe854a9596",
     "date": "2026-02-24T12:56:45.000Z",
     "message": "Fix mislabeled image extensions: rename 14 files to match actual format"
-  },
-  {
-    "hash": "de70ad6d799690c827eb7c9867d68e96eabbed82",
-    "date": "2026-02-24T12:47:36.000Z",
-    "message": "Add new media files and content: apollo, genocide, censorship, religion"
   }
 ]

@@ -74,5 +74,5 @@
 - [warlord-of-mars-index.md](warlord-of-mars-index.md) — Okar, north pole
 - [chessmen-of-mars-index.md](chessmen-of-mars-index.md) — Kaldanes, Rykors
 - [master-mind-of-mars-index.md](master-mind-of-mars-index.md) — Ras Thavas, brain transfer
-- [investigations/mars/mars-fiction-survey.md](/timeline?path=investigations/mars/mars-fiction-survey.md) — full survey
+- [mars-fiction-survey](/cosmos/mars/investigations/mars-fiction-survey.md) — full survey
 - [Asimov: Marx in Space!](/timeline/evt-asimov-marx-in-space) — robot/slave parallel; Binder admission
