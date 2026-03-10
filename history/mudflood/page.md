@@ -155,7 +155,7 @@ Latin was remembered as the Renaissance and the Protestant Reformation.
 Shared memories of world cataclysms became superstitious myths and religious prophecies.
 The planet gods were forgotten, replaced by a new media-driven focus on Humanism, or as it’s known today, Communism.
 The memory of the Rus-Horde Tartarian empire splintered into a false history of the *Roman* Empire,
-the *Spanish* Empire, Samurai Japan, Manchurian China, Hordian-Cossack civilisations of America – Maya, Aztec and Inca
+the *Spanish* Empire, Samurai Japan, Manchurian China, Hordian-Cossack civilizations of America – Maya, Aztec and Inca
 and others.
 
 But our shared history is so spectacular that it’s not easy to invent a fake history to match. As the saying

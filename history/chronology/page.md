@@ -1961,7 +1961,7 @@ poet [Celestin Douais](https://chronologia.org/en/seven5/empire12_09.html) claim
 
 > [the inquisition courts] were created in the interests of the heretics, saving them from pogroms, indiscriminate
 > massacres and uncontrollable persecution. The inquisition courts also contributed to the preservation of the epoch’s
-> civilisation, helping to maintain order and to curb the propagation of major evils, protecting the century’s interests
+> civilization, helping to maintain order and to curb the propagation of major evils, protecting the century’s interests
 > and truly standing guard of social justice and the Christian ideology
 
 ![The “burning of the Jews” depiction during Europe’s Black Death](./tartaria/jews_vs_gentiles.jpg?w=384)

@@ -1,5 +1,10 @@
 [
   {
+    "hash": "e0de546b6ac5fac95efe5a5bc0a3308e9e8d9fc7",
+    "date": "2026-03-07T14:10:43.000Z",
+    "message": "Update Paradigm Threat mission statement — intellectual challenge to every paradigm"
+  },
+  {
     "hash": "600ab338205f8f9b1a53a6136e4821fe854a9596",
     "date": "2026-02-24T12:56:45.000Z",
     "message": "Fix mislabeled image extensions: rename 14 files to match actual format"
@@ -18,10 +23,5 @@
     "hash": "8e80ed6dc0f26829831d34afcec70a93426e91bb",
     "date": "2026-01-31T23:00:34.000Z",
     "message": "Update history/chronology page"
-  },
-  {
-    "hash": "b1bfeceeb7136007ae2b07dfb37f0650dd5325ac",
-    "date": "2026-01-26T14:48:42.000Z",
-    "message": "switch out pictures"
   }
 ]
