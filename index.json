@@ -4878,7 +4878,55 @@
       },
       "_count": 9
     },
-    "_count": 250
+    "stolen_credit": {
+      "beethoven-deafness.md": {
+        "_title": "Beethoven / Deafness Narrative \u2014 Investigation"
+      },
+      "dave-wise.md": {
+        "_title": "Dave Wise \u2014 Investigation"
+      },
+      "eveline-fischer.md": {
+        "_title": "Eveline Fischer \u2014 Investigation"
+      },
+      "gershwin-kay-swift.md": {
+        "_title": "Gershwin / Kay Swift \u2014 Investigation"
+      },
+      "index.md": {
+        "_title": "Stolen Credit \u2014 Investigation"
+      },
+      "jeremy-soule.md": {
+        "_title": "Jeremy Soule \u2014 Investigation"
+      },
+      "kinuyo-yamashita.md": {
+        "_title": "Kinuyo Yamashita \u2014 Investigation"
+      },
+      "minako-hamano.md": {
+        "_title": "Minako Hamano \u2014 Investigation"
+      },
+      "mozart-nannerl.md": {
+        "_title": "Mozart / Nannerl (Maria Anna Mozart) \u2014 Investigation"
+      },
+      "nintendo-sony-breakup.md": {
+        "_title": "The Nintendo\u2013Sony Breakup and the Birth of PlayStation"
+      },
+      "nobuo-uematsu.md": {
+        "_title": "Nobuo Uematsu \u2014 Investigation"
+      },
+      "page.md": {
+        "_title": "Stolen Credit in Media"
+      },
+      "rare-nintendo-rd.md": {
+        "_title": "Rare & Nintendo R&D \u2014 Credit Theft Investigation"
+      },
+      "square-battle-system-lineage.md": {
+        "_title": "Square / Final Fantasy \u2014 Battle System Lineage & Talent Exodus"
+      },
+      "tommy-tallarico.md": {
+        "_title": "Tommy Tallarico \u2014 Investigation"
+      },
+      "_count": 15
+    },
+    "_count": 265
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat"
@@ -5351,5 +5399,5 @@
     },
     "_count": 147
   },
-  "_count": 1769
+  "_count": 1784
 }

@@ -65,6 +65,7 @@ or *not* believing.
 * [MudFlood Energetic Event Hypothesis](/history/mudflood)
 * [The Deep State is on Mars](/cosmos/mars)
 * [Earth History Timeline Reconstruction](/history/chronology)
+* [Stolen Credit in Media — Plagiarism as Control](/influence/stolen_credit)
 
 <figure className="sm:float-left clear-left m-auto sm:m-1 sm:mr-6 sm:max-w-sm">
   <iframe width="360" height="200" src="https://www.youtube.com/embed/yi2zdXQ7A5o"
@@ -113,6 +114,7 @@ These things we were instructed not to believe, but are actually true
 * [Free Speech is Suppressed](influence/censorship)
 * [Health Science is Suppressed](science/health)
 * [Telepathy is Suppressed](science/telepathy)
+* [Stolen Credit in Media — Plagiarism as Control](influence/stolen_credit)
 
 ### [Category: Fake](/influence/conspiracy)
 
