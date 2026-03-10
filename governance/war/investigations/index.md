@@ -1,0 +1,16 @@
+# War Investigations
+
+ Atlantic context, societized consolidation, British funding, Western orchestration.
+
+---
+
+## Investigations
+
+| File | Focus |
+|------|-------|
+| [american-revolution-investigation.md](american-revolution-investigation.md) | Small piece of a bigger puzzle; Atlantic context; Bank of England, British Empire |
+| [british-civil-war-investigation.md](british-civil-war-investigation.md) | Societized consolidation; meritocracy, plutocracy, particracy; predates imperial expansion |
+| [french-revolution-investigation.md](french-revolution-investigation.md) | Political reorganization; pre-Napoleonic template; Western governance model |
+| [us-civil-war-investigation.md](us-civil-war-investigation.md) | British funding; slavery as instrument not cause; northern freed-slave recruitment; DU weapon thesis |
+| [soviet-collapse-investigation.md](soviet-collapse-investigation.md) | Western orchestration; media, celebrities (Michael Palin), espionage; post-WWII isolation |
+| [reverse-crusades-comparison.md](reverse-crusades-comparison.md) | Four pan-European coalitions vs. Russia (1812, 1914, 1941, 2022); figurehead mechanics; false-flag triggers |
