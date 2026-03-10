@@ -1,7 +1,7 @@
 # Zombie Genre — Investigation
 
 **Scope:** Pre-20th century literary roots, author framing (fiction vs. fact), Stoker-like documentary presentation.  
-**Cross-ref:** [Bram Stoker investigation](../stoker/index-bram-stoker-investigation.md) | [Vampires index](/home/ari/dev/wget/vampires/index-vampires.md) | [Zombies index](/home/ari/dev/wget/zombies/index-zombies.md)
+**Cross-ref:** [Bram Stoker investigation](/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md) | [Lovecraft index](/influence/predictive_programming/fiction_encoding/lovecraft/index-lovecraft.md)
 
 ---
 
@@ -113,8 +113,6 @@ Among **major** zombie works (Seabrook, Lovecraft, Romero, Brooks, Davis, Whiteh
 ## Cross-References
 
 - [Fiction presented as fact](../fiction-presented-as-fact-investigation.md) — Consolidated catalog of authors who presented fiction as fact
-- [Zombies index](/home/ari/dev/wget/zombies/index-zombies.md)
-- [Bram Stoker investigation](stoker/index-bram-stoker-investigation.md)
-- [Vampires index](/home/ari/dev/wget/vampires/index-vampires.md)
-- [Lovecraft index](/home/ari/dev/wget/lovecraft/index-lovecraft.md)
+- [Bram Stoker investigation](/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md)
+- [Lovecraft index](/influence/predictive_programming/fiction_encoding/lovecraft/index-lovecraft.md)
 - [Fiction encoding index](../index.md)

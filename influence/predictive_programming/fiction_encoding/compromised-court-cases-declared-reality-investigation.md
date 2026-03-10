@@ -82,8 +82,8 @@ From the Case for the Appellant (Deeks' narrative): Macmillan editor Saul, upon 
 | **Case for the Appellant** (Deeks) | **Downloaded** | `~/dev/wget/deeks/deeks-v-wells-case-appellant.txt` (1,240 lines) — Deeks' narrative of writing The Web |
 | **Record of Proceedings** | **Downloaded** | `~/dev/wget/deeks/deeks-v-wells-record-of-proceedings.txt` (32k lines) — exhibits index, depositions |
 | **Respondent cases** (Wells, Macmillan) | **Downloaded** | `deeks-v-wells-respondent1.txt`, `respondent2.txt` |
-| **McKillop, *The Spinster and the Prophet*** (2001) | **Downloaded** | `~/dev/wget/wells/spinster-and-prophet-mckillop-2001.epub` — see [index-spinster-and-prophet](/home/ari/dev/wget/wells/index-spinster-and-prophet.md) |
-| **Full index** | — | [index-deeks-webs-of-worlds-romance](/home/ari/dev/wget/deeks/index-deeks-webs-of-worlds-romance.md) |
+| **McKillop, *The Spinster and the Prophet*** (2001) | **Downloaded** | `~/dev/wget/wells/spinster-and-prophet-mckillop-2001.epub` — see [Wells index](/influence/predictive_programming/fiction_encoding/wells/index-wells.md) |
+| **Full index** | — | Deeks index (local wget) |
 
 ---
 

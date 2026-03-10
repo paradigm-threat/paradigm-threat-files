@@ -249,10 +249,10 @@ Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: loca
 - thuvia-maid-of-mars-index.md, chessmen-of-mars-index.md (Kaldane/Rykor), master-mind-of-mars-index.md, fighting-man-of-mars-index.md
 
 ### Internal (paradigm-threat-timeline)
-- [Predictive Programming: Literature as Historical Erasure](https://paradigm-threat.net/timeline?view=browser&path=content/15.ce-21st-the-final-struggle/15.01.00-1890-ce-20th-century-predictive-programming-literature.md) — the master predictive programming literature article
-- [Predictive Programming in Film, Television, and Games](https://paradigm-threat.net/timeline?view=browser&path=content/16.appendix/16.03.00-predictive-programming-film-tv-games.md) — Mars film analysis
-- [Historical Antibodies: Detailed Profiles](https://paradigm-threat.net/timeline?view=browser&path=content/16.appendix/16.06.00-historical-antibodies-profiles.md) — C.S. Lewis encoding analysis
-- [The Mars Catastrophe](https://paradigm-threat.net/timeline?view=browser&path=content/12.ce-18th-mudflood-and-pugachev/12.06.00-1774-ce-the-mars-catastrophe.md) — the core Mars catastrophe article
+- [Predictive Programming: Literature as Historical Erasure](/timeline?view=browser&path=content/15.ce-21st-the-final-struggle/15.01.00-1890-ce-20th-century-predictive-programming-literature.md) — the master predictive programming literature article
+- [Predictive Programming in Film, Television, and Games](/timeline?view=browser&path=content/16.appendix/16.03.00-predictive-programming-film-tv-games.md) — Mars film analysis
+- [Historical Antibodies: Detailed Profiles](/timeline?view=browser&path=content/16.appendix/16.06.00-historical-antibodies-profiles.md) — C.S. Lewis encoding analysis
+- [The Mars Catastrophe](/timeline?view=browser&path=content/12.ce-18th-mudflood-and-pugachev/12.06.00-1774-ce-the-mars-catastrophe.md) — the core Mars catastrophe article
 
 ### Mars Investigations Folder
 - `wget/wells/massacre-of-mankind-2017-reference.md` — Stephen Baxter's 2017 sequel; heat ray fidelity, crystal egg erasure, sigils, Havana (2016) timeline
@@ -266,7 +266,7 @@ Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: loca
 - `death-on-mars.md` — Brandenburg's *Death on Mars* analysis
 
 ### External Investigations
-- `investigations/de-grazia/books/iron-age-of-mars.md` — De Grazia's catastrophist Mars synthesis
+- [iron-age-of-mars](/cosmos/cosmology/de_grazia/books/iron-age-of-mars.md) — De Grazia's catastrophist Mars synthesis
 
 ---
 

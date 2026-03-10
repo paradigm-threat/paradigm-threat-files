@@ -35,7 +35,7 @@ conquerors who give British imperialists a taste of their own medi-cine."
 
 The most obvious connection between this book and modern times is the U.S. Military's
 [Active Denial System](https://healthimpactnews.com/2017/can-new-5g-technology-and-smart-meters-be-used-as-weapons/).
-This [crowd control vehicle](https://files.paradigmthreat.net/cosmos/mars/heat_ray.jpg) has built upon it
+This [crowd control vehicle](/cosmos/mars/heat_ray.jpg) has built upon it
 a heat ray device that looks **precisely** like the heat ray described in the book:
 
 
