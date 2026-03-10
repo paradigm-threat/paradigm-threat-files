@@ -118,7 +118,7 @@ population oversees.
 Those pilots would be well aware of the technology by the end of the war, and would have wanted to use ZPE (and other
 technology) to build a peaceful new world.
 We might have been flying our
-own [ZPE Porsche HLS](https://files.paradigmthreat.net/science/anti_gravity/antigrav_porsche_hls.jpg)'s today.
+own [ZPE Porsche HLS](/science/anti_gravity/antigrav_porsche_hls.jpg)'s today.
 Instead of that future, we were benefacted this **coal-powered, earth-bound, global technocracy**.
 This is what world domination looks like;
 identical airports throughout the globe enabling and maintaining the technocratic **Deep State** empire.

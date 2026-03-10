@@ -181,7 +181,7 @@ Prendick's narrative is framed as found papers; the nephew states the account is
 ## Cross-References
 
 - [wotw-forbidden-blood.md](../../../../cosmos/mars/investigations/wotw-forbidden-blood.md) — Martians and blood
-- [massacre-of-mankind-2017-reference.md](/home/ari/dev/wget/wells/massacre-of-mankind-2017-reference.md) — Baxter sequel (wget)
+- [massacre-of-mankind-2017-reference](/influence/predictive_programming/fiction_encoding/wells/massacre-of-mankind-2017-reference.md) — Baxter sequel
 - [thompson-managed-disclosure-investigation.md](../thompson/thompson-managed-disclosure-investigation.md) — Pineal gland, adrenochrome, blood-harvesting; Moreau × Thompson cross-read
 - [index-dracula.md](../stoker/index-dracula.md) — Blood = youth renewal; Renfield life-eating; adrenochrome-style motifs
 

@@ -168,7 +168,7 @@ The Count claims:
 ## Cross-References
 
 - [Fiction presented as fact](../fiction-presented-as-fact-investigation.md) — Consolidated catalog of SF/fantasy authors who used this technique
-- [Vampires index](/home/ari/dev/wget/vampires/index-vampires.md)
+- [Lovecraft index](/influence/predictive_programming/fiction_encoding/lovecraft/index-lovecraft.md) — cosmic horror / vampire-adjacent
 - [Dracula index](index-dracula.md) — Beast/blood transformation, adrenochrome-style motifs, Renfield life-eating; cross-read with Moreau, Thompson
 - [Thompson managed disclosure](../thompson/thompson-managed-disclosure-investigation.md) — Parallel: fiction encoding real events
 - [Island of Dr. Moreau](../wells/index-island-of-dr-moreau.md) — Gland/blood vs. surgery; dissection; cross-read with Dracula, Thompson

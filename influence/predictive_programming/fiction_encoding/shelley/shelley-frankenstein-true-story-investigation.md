@@ -4,7 +4,7 @@
 **Primary work:** *Frankenstein; or, the Modern Prometheus* (1818, rev. 1831)  
 **Scope:** What Shelley states about the story; internal vs. external framing; locations; historical galvanism; similar traditions; reasons to take seriously vs. dismiss.
 
-**Related:** [Fiction presented as fact](../fiction-presented-as-fact-investigation.md) | [Shelley index](/home/ari/dev/wget/fiction-as-fact/shelley/index-shelley.md) | [1818 vs 1831 comparison](/home/ari/dev/wget/fiction-as-fact/shelley/frankenstein-1818-vs-1831-comparison.md)
+**Related:** [Fiction presented as fact](../fiction-presented-as-fact-investigation.md) | [Shelley index](/influence/predictive_programming/fiction_encoding/shelley/shelley-frankenstein-true-story-investigation.md)
 
 ---
 

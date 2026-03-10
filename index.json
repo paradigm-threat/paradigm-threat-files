@@ -1043,7 +1043,13 @@
       },
       "_count": 2
     },
-    "_count": 98
+    "trump": {
+      "index-trump-investigation.md": {
+        "_title": "Investigation: Trump, Historic Antibodies, and the Uncompromised Dynasty Thesis"
+      },
+      "_count": 1
+    },
+    "_count": 99
   },
   "fanedits": {
     "index.md": {
@@ -2477,7 +2483,10 @@
         "us-civil-war-investigation.md": {
           "_title": "Investigation: US Civil War \u2014 British Funding, Slavery as Instrument, and the DU Weapon Thesis"
         },
-        "_count": 7
+        "vril-society.md": {
+          "_title": "Vril Society: Claim, Debunk, and Redaction Potential"
+        },
+        "_count": 8
       },
       "military_police.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQABAABUB8JaQAAuhduhw15C8AAP6jI6535eWFhJVCs1nyUU0g5ufcwxzu7EygaP6LbndMUotyAAAA"
@@ -2527,9 +2536,9 @@
       "ww2meme.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA="
       },
-      "_count": 52
+      "_count": 53
     },
-    "_count": 486
+    "_count": 487
   },
   "history": {
     "chronology": {
@@ -4784,7 +4793,10 @@
           "index-wells.md": {
             "_title": "H.G. Wells \u2014 Downloaded Texts Index"
           },
-          "_count": 2
+          "massacre-of-mankind-2017-reference.md": {
+            "_title": "The Massacre of Mankind (2017) \u2014 Reference"
+          },
+          "_count": 3
         },
         "white": {
           "index-once-and-future-king.md": {
@@ -4804,7 +4816,7 @@
           },
           "_count": 1
         },
-        "_count": 45
+        "_count": 46
       },
       "fire_on_the_mountain.jpg": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoLABAABUB8JbACdADb7K52wADhADfBtoyloq+gD3chg/YJOJghmKFTahIaMEUuN6wBmj0gI8vpZcBccAA="
@@ -4840,7 +4852,7 @@
       "wotw.jpg": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAwABUB8JZQC7ADO2JDn8AAA/uoll/ZkIPdWjbj9OpMh93F3uWmixuw7EX1ZNlV+HCHVLRT1rBcsYAA="
       },
-      "_count": 59
+      "_count": 60
     },
     "religion": {
       "abracadabra.jpg": {
@@ -4926,7 +4938,7 @@
       },
       "_count": 15
     },
-    "_count": 265
+    "_count": 266
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat"
@@ -5399,5 +5411,5 @@
     },
     "_count": 147
   },
-  "_count": 1784
+  "_count": 1787
 }

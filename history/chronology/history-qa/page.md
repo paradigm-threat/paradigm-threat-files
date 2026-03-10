@@ -807,7 +807,7 @@ In reality each famine/plague was planned _in advance_ as a means to re-assert c
 
 The 'First' version of history, is the true Origin Story that humans on earth actually experienced,
 which is told through traditions and artifacts but is otherwise forgotten.
-[The 'Second' History](https://files.paradigmthreat.net/christ/bible_was_redacted.jpg)
+[The 'Second' History](/christ/bible_was_redacted.jpg)
 is the redacted (politically correct) version of the true Origin Story created by those who would control us (and each
 other).
 This is the history we are taught in public school where

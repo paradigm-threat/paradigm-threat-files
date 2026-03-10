@@ -52,7 +52,7 @@ or [Willy Pete](https://en.wikipedia.org/wiki/Allotropes_of_phosphorus#White_pho
 tried to convince our own adult pilots of the necessity of committing genocide against an enemy population oversees.
 Those pilots would be well aware of the technology by the end of the war, and would have wanted to use ZPE (and other
 technology) to build a peaceful new world. We might have been flying our
-own [ZPE Porsche HLS](https://files.paradigmthreat.net/science/anti_gravity/antigrav_porsche_hls.jpg)'s today. Instead
+own [ZPE Porsche HLS](/science/anti_gravity/antigrav_porsche_hls.jpg)'s today. Instead
 of that future, we were benefacted this coal-powered, earth-bound, global technocracy. This is what _world domination_
 looks like: Airports!  
 (Fun Fact: The history of allied bombing raids using child pilots became the inspiration behind the book Ender's Game,

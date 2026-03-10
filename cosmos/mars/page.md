@@ -791,7 +791,7 @@ History](https://books.google.com/books?id=v3TDEDfEPdEC&printsec=frontcover#v=on
 
 One connection between this book and modern times is the U.S. Military's
 [Active Denial System](https://healthimpactnews.com/2017/can-new-5g-technology-and-smart-meters-be-used-as-weapons/).
-This [crowd control vehicle](https://files.paradigmthreat.net/cosmos/mars/heat_ray.jpg) has built upon it
+This [crowd control vehicle](/cosmos/mars/heat_ray.jpg) has built upon it
 a heat ray device that looks *precisely* like the heat ray described in the book:
 
 "This intense heat they project in a parallel beam against any object they choose, by means of a polished

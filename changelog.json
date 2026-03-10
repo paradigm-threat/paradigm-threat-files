@@ -1,5 +1,10 @@
 [
   {
+    "hash": "9d3250e901fc8af8d1bbf7b988d1d365125a35e3",
+    "date": "2026-03-10T16:48:13.000Z",
+    "message": "Fix investigation links: point to paradigm-threat-files paths (timeline investigations removed)"
+  },
+  {
     "hash": "7c41d6ae5dd7cb91cf299cfc98b6f7c0fd857c9a",
     "date": "2026-03-10T16:44:47.000Z",
     "message": "Add stolen credit investigation: landing page, My Articles link, sync from wget"
@@ -18,10 +23,5 @@
     "hash": "e0de546b6ac5fac95efe5a5bc0a3308e9e8d9fc7",
     "date": "2026-03-07T14:10:43.000Z",
     "message": "Update Paradigm Threat mission statement — intellectual challenge to every paradigm"
-  },
-  {
-    "hash": "600ab338205f8f9b1a53a6136e4821fe854a9596",
-    "date": "2026-02-24T12:56:45.000Z",
-    "message": "Fix mislabeled image extensions: rename 14 files to match actual format"
   }
 ]
