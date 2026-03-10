@@ -101,6 +101,12 @@ This document tracks the mapping of old directory paths to the new "Spheres of I
 5. **Update `index.json`** (or run `scripts/generate-index.ts`) so AssetBrowser sees new paths.
 6. **Exclude:** Any `paradigm-threat-timeline/content/*` files. Only `investigations/*` are migrated.
 
+### New Investigations (not from timeline)
+
+| Source | Destination | Index? |
+| :--- | :--- | :--- |
+| `wget/stolen-credit/*` | `influence/stolen_credit/` | `index.md` |
+
 ### Notes
 
 - Preserve subfolder structure (e.g. `fiction-encoding/stoker/` → `influence/.../stoker/`).

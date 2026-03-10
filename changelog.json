@@ -1,5 +1,10 @@
 [
   {
+    "hash": "479c370bd37a3f22cbd0bded9b99f4e9ca56f2ea",
+    "date": "2026-03-10T13:08:00.000Z",
+    "message": "Investigations migration: copy from timeline, fix links, add indexes, regenerate index.json"
+  },
+  {
     "hash": "12af1f74550a681b4333d0043242aa951ebb2602",
     "date": "2026-03-10T12:21:57.000Z",
     "message": "Update chronology and mudflood pages"
@@ -18,10 +23,5 @@
     "hash": "de70ad6d799690c827eb7c9867d68e96eabbed82",
     "date": "2026-02-24T12:47:36.000Z",
     "message": "Add new media files and content: apollo, genocide, censorship, religion"
-  },
-  {
-    "hash": "1a41b17b6869ffaeb45f62a2b6cdfa8cf4d7e558",
-    "date": "2026-02-11T12:54:32.000Z",
-    "message": "Add files via upload"
   }
 ]
