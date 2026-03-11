@@ -14,3 +14,4 @@
 | [us-civil-war-investigation.md](us-civil-war-investigation.md) | British funding; slavery as instrument not cause; northern freed-slave recruitment; DU weapon thesis |
 | [soviet-collapse-investigation.md](soviet-collapse-investigation.md) | Western orchestration; media, celebrities (Michael Palin), espionage; post-WWII isolation |
 | [reverse-crusades-comparison.md](reverse-crusades-comparison.md) | Four pan-European coalitions vs. Russia (1812, 1914, 1941, 2022); figurehead mechanics; false-flag triggers |
+| [yakuza-remote-control-investigation.md](yakuza-remote-control-investigation.md) | Yakuza as remote-controlled instrument; British influence; media capture; Abe assassination; tech containment (Nintendo/Sony); Taiwan chip parallel |
