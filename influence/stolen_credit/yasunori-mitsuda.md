@@ -1,6 +1,6 @@
 # Yasunori Mitsuda — Investigation
 
-**Status:** Investigating. Hypothesis: Chrono Trigger credits obscure third and fourth hands; Mitsuda never replicated his Nintendo-era output after leaving Square; Chrono Cross: Radical Dreamers Edition represents corporate corruption of his work.
+**Status:** Investigating. Hypothesis: Chrono Trigger credits obscure third and fourth hands; Mitsuda never replicated his Nintendo-era output after leaving Square; the Chrono Trigger *franchise* was corrupted from the start (Square planned its demise with Radical Dreamers; Chrono Cross is not a true sequel); Chrono Cross: Radical Dreamers Edition (2022) represents further corporate corruption of the work.
 
 ---
 
@@ -55,17 +55,33 @@
 
 ## Radical Dreamers → Chrono Cross — Corruption Thesis
 
+**Definition (author notes):** The "corruption of Chrono Trigger" is the disaster that happened to the franchise as soon as it started. Square planned its demise with Radical Dreamers. Chrono Cross is not a real sequel—different rules, physics, story; it kills off all original characters and functions more like an alternate dimension. The corruption is the strategic choice to destroy one of Square's most successful products instead of capitalizing on it with a simple traditional sequel.
+
+### The Strategic Puzzle
+
+One of Square's most successful and impressive games ever had a sequel that:
+- Almost nobody played
+- Nobody outside Japan could access (Radical Dreamers)
+- Could not be replayed more than once (Radical Dreamers)
+
+**Open questions:** Why would Square not attempt to capitalize on its most successful product with a simple sequel in the traditional sense? Why such an extreme move—destroying the franchise, destroying the story, killing almost all main Chrono Trigger characters off-screen before Radical Dreamers even starts? Such a project raises serious questions about Square's strategy at the time.
+
 ### Radical Dreamers (1996)
 
-- Satellaview text-adventure; 24 tracks, all Mitsuda.
+- Satellaview text-adventure; 24 tracks, all Mitsuda (per credits).
 - No official soundtrack released.
+- Japan-only; no replay (Satellaview broadcast).
 - Director Masato Kato suggested Mitsuda adapt RD themes for Chrono Cross.
+
+**Author note on RD soundtrack:** The hypothesis that Mitsuda did *not* compose the Radical Dreamers soundtrack is plausible because he still had access to Nintendo R&D at the time—suggesting institutional/Nintendo resources may have contributed. By Chrono Cross, his main contribution was arguably not the music per se, but the articulation of samples and the quality of output on the PlayStation chip.
 
 ### Chrono Cross (1999)
 
 - Mitsuda composed; drew on Radical Dreamers.
 - Shared/adapted tracks: "Gale," "Frozen Flame," "Snakebone Mansion" → "Viper Mansion," "The Girl Who Stole the Stars," "Far Promise ~ Dream Shore," "Epilogue ~ Dream Shore" → "Jellyfish Sea."
 - CC soundtrack widely acclaimed; RD's music lives on through CC.
+
+**Chrono Cross is not a sequel (author notes):** Chrono Cross does not have the same rules or physics as Chrono Trigger; it changes the story significantly and kills off all the original characters. It functions much more like an alternate dimension than a real sequel. After Radical Dreamers, nobody heard of the franchise again except in Chrono Cross—and Chrono Cross itself embodies the corruption.
 
 ### Chrono Cross: The Radical Dreamers Edition (2022) — Corporate Corruption
 
@@ -105,6 +121,8 @@
 - Did Akao, Nakamura, or sound effects staff contribute melodic/arrangement material?
 - Why did Square Enix remove the original CC soundtrack option? Licensing? Cost?
 - Mitsuda's own view on RD Edition changes—did he approve the lock, or was it corporate?
+- **Franchise strategy:** Why did Square choose Radical Dreamers (inaccessible, Japan-only, non-replayable) instead of a traditional sequel? Was CT's franchise demise planned?
+- **RD soundtrack authorship:** Did Mitsuda actually compose RD, or did Nintendo R&D contribute while he still had access? By CC, was his main role sample articulation/PlayStation chip output rather than composition?
 
 ---
 
