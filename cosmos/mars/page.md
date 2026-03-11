@@ -86,7 +86,7 @@ accusing an entire *race* or *alien species* of a conspiracy - they are just bei
   I have solved the problem so well I don’t regard it as doubtful.
   It is mathematically certain that other planets are inhabited."
   [- Nicola
-  Tesla](https://teslauniverse.com/nikola-tesla/articles/tesla-sure-life-exists-other-planets-works-76-establish-his-belief)](./cosmos/mars_life4.jpg?w=300)
+  Tesla](https://teslauniverse.com/nikola-tesla/articles/tesla-sure-life-exists-other-planets-works-76-establish-his-belief)](./mars_life4.jpg?w=300)
 
 ## Where is the Deep State?
 
@@ -222,7 +222,7 @@ in the absence of rain on Mars, these channels are probably the main mechanism b
 the water (and with it organic life) can spread on the dry surface of the planet.
 
 !["Mars and Its Canals" by Percival Lowell, published in 1906 details Lowell's theories and observations about the
-  canals of Mars, which he believed were built by an intelligent civilization to transport water across the planet](./cosmos/mars_canals5.jpg?w=360)
+  canals of Mars, which he believed were built by an intelligent civilization to transport water across the planet](./mars_canals5.jpg?w=360)
 
 ### Percival Lowell Maps Mars in Detail
 
@@ -259,7 +259,7 @@ over time. How could one faction wield so much influence?
 
 ![Melted ruins on mars resembles city with capitol building](./melted_city.jpg?w=320 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
-![Areas resembling melted cities are found on the surface of Mars, sometimes with distinguishable buildings.](./cosmos/mars_life.jpg?w=640)
+![Areas resembling melted cities are found on the surface of Mars, sometimes with distinguishable buildings.](./mars_life.jpg?w=640)
 
 ## The Martian Catastrophe
 
@@ -325,7 +325,7 @@ This answer may be why we see so many plots in science 'fiction' media that invo
 rulership of humanity; Terminator, Matrix, Wall-e, I Robot, Age of Ultron, Mitchells vs. Machines etc.
 
 ![The artwork by Woodrow Edgar Nichols, Jr. shows an Atmosphere Factory,
-  a city with canals, and a sunset over a Martian landscape](./cosmos/mars_canals.jpg?w=360)
+  a city with canals, and a sunset over a Martian landscape](./mars_canals.jpg?w=360)
 
 ### Signs of civilization on the surface of Mars
 
@@ -335,7 +335,7 @@ Modern scientists attempt to [debunk](https://cosmicpursuits.com/2183/cosmos/mar
 this observable phenomenon by insisting the regions appear to change as a result of 'dust clouds'.
 But what about the artificial-looking canals observed by Lowell?
 
-![A historical depiction of Mars illustrates seasonal changes - particularly the flooding of canals](./cosmos/mars_canals3.jpg?w=360)
+![A historical depiction of Mars illustrates seasonal changes - particularly the flooding of canals](./mars_canals3.jpg?w=360)
 
 The Deep State may have planned to emerge into the public and reveal its presence on Earth and Mars
 if it had won any of the last 3 World Wars, but it lost all of them and was never able to rule the entire world at once.
@@ -468,10 +468,10 @@ Latin is still very much alive and taught to us so we can interface with our
 [Latin-speaking masters](https://books.google.com/books?id=v3TDEDfEPdEC&pg=PA159&lpg=PA159&dq=martians+speak+latin)
 both here and on Mars.
 
-![Predictive Programming: Mars Movies](../../influence/predictive_programming/cosmos/mars_movies.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Predictive Programming: Mars Movies](../../influence/predictive_programming/mars_movies.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ![Science Fiction programs viewers to understand that all presented storylines and technology are completely made-up
-  and have no relationship to real life.](../../influence/predictive_programming/cosmos/mars_women.jpg?w=640)
+  and have no relationship to real life.](../../influence/predictive_programming/mars_women.jpg?w=640)
 
 ### Predictive programming in Science Fiction / Fantasy Genre:
 
@@ -791,7 +791,7 @@ History](https://books.google.com/books?id=v3TDEDfEPdEC&printsec=frontcover#v=on
 
 One connection between this book and modern times is the U.S. Military's
 [Active Denial System](https://healthimpactnews.com/2017/can-new-5g-technology-and-smart-meters-be-used-as-weapons/).
-This [crowd control vehicle](/cosmos/mars/heat_ray.jpg) has built upon it
+This [crowd control vehicle](./wotw_technology_heat_ray.jpg) has built upon it
 a heat ray device that looks *precisely* like the heat ray described in the book:
 
 "This intense heat they project in a parallel beam against any object they choose, by means of a polished
@@ -918,6 +918,28 @@ our **God of War**: The Planet Mars.
 ## Life on Mars Chatroom
 
 <ChatRoom channel="cosmos/mars" title="Life on Mars Chatroom"/>
+
+## Additional Media
+
+![](book_the_martians_nick_redfern.jpg)
+![](cern_religious_ritual_at3.jpg)
+![](cern_religious_ritual_at4.jpg)
+![](cern_stargate_mars2.jpg)
+[Death on Mars Analysis](death-on-mars-analysis.md)
+![](hollow_mars1.jpg)
+![](hollow_mars2.jpg)
+![](mars-dagger-back2.jpg)
+![](mars-dagger-front.jpg)
+![](mars-dagger.jpg)
+![](mars_life2.jpg)
+![](mars_life3.jpg)
+![](mars_map2.jpg)
+![](mars_map3.png)
+![](mars_map4.jpg)
+![](mars_map5.jpg)
+![](mars_map.jpg)
+![](mars_nasa_1979.jpg)
+![](mars_ssp.jpg)
 
 ## All Assets
 

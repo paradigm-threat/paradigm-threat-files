@@ -49,6 +49,11 @@ Plagiarism and misattribution in 20th-century media function as a control mechan
 
 ---
 
+## Additional Media
+
+- [Eveline Fischer](eveline-fischer.md)
+- [Jeremy Soule](jeremy-soule.md)
+
 ## Full Index
 
 <DynamicIndex/>

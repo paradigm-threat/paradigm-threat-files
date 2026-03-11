@@ -2590,6 +2590,38 @@ original location of the Biblical Jerusalem.
 
 <ChatRoom channel='history/chronology' title='Chronology'/>
 
+## Additional Media
+
+![](anatoly_fomenko.jpg)
+![](coins.jpg)
+[Creation Dates Validation](creation-dates-validation.md)
+![](egyptian_plumbing.jpg)
+![](fake.jpg)
+![](fake3.jpg)
+![](fake5.jpg)
+![](fake7.jpg)
+![](fake9.jpg)
+![](fake10.jpg)
+![](fake11.jpg)
+![](fomenko_books.jpg)
+![](fomenko_new_chronology.jpg)
+![](fomenko_timeline_1633_1725.gif)
+![](gutenberg_bible_1455.jpg)
+![](history_fake.jpg)
+![](history.png)
+![](islam_in_early_america.jpg)
+![](lunar_calendar.jpg)
+![](new_chronology_backside.jpg)
+![](phantom_time_hypothesis.jpg)
+![](phantom_time_hypothesis2.jpg)
+![](phantom_time_hypothesis3.jpg)
+![](phantom_time_hypothesis4.jpg)
+![](pharisees_vs_sadducees.jpg)
+![](plagues_of_venus.jpg)
+![](redacted.jpg)
+![](TolkienRedactedRedBook.jpg)
+![](worlds-fair-coverup.jpg)
+
 ## All Assets
 
 <div className="flex flex-wrap max-h-[80vh] overflow-y-auto justify-center">

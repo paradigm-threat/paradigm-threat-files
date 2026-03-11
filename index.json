@@ -19,7 +19,7 @@
         "fake_sun_chart.jpg": {
           "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoMABAABUB8JagCdADczr4n2WAA/qoecAhacB64WD+bUKb5YFBdRGxuEGlJT+38Luejt7Sutn4suPRCZNoQZWh1nTm0twKcDCIqLhw0pIzgAA=="
         },
-        "index.md": {},
+        "page.md": {},
         "page_1.jpg": {
           "_lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoLABAABUB8JbACdAEOuszSKZAA/mfbvoD2j7IVqAdU6+tUPyQ8QIVxKWusT+tFVS72tF7F6YRQD6Hd0iCW00qn07u6Cuvs/6G94O3C8rwegZdshJhPT+d8AAA="
         },
@@ -441,16 +441,13 @@
         "index-thunderbolts.md": {
           "_title": "thunderbolts.info \u2014 Site Index"
         },
-        "index.md": {
-          "_title": "Saturnian Cosmology \u2014 Index"
-        },
-        "_count": 5
+        "_count": 4
       },
       "stars-electric-universe.pdf": {},
       "va_1.pdf": {},
       "va_2.pdf": {},
       "va_3.pdf": {},
-      "_count": 161
+      "_count": 160
     },
     "flat_earth": {
       "co.md": {},
@@ -562,9 +559,6 @@
         "index-mars.md": {
           "_title": "Mars Literature \u2014 Index of Downloaded Texts"
         },
-        "index.md": {
-          "_title": "Mars Investigations"
-        },
         "mars-fiction-survey.md": {
           "_title": "Mars Fiction & Nonfiction Literature Survey (19th\u201320th Century)"
         },
@@ -589,7 +583,7 @@
         "wotw.md": {
           "_title": "The War of the Worlds"
         },
-        "_count": 12
+        "_count": 11
       },
       "life_on_mars_rules_earth.png": {
         "_lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4WAoAAAAQAAAADwAAAwAAQUxQSC4AAAABL0AWYJocwv4EAgmmiAh8OjCKJLltWGkRCIOg6B/sjuh/nEO2HGdlCs5BOZACVlA4IFIAAADQAQCdASoQAAQABUB8JbACdAEVLQv1wAD+cz1S3c8gAQMzYV70tFICnCBiQyoaT9YArAIR9KJDEx8IXxCPFpb9LjrsR4EOw/2LB3TrLfyAAAAA"
@@ -744,9 +738,15 @@
       "wotw_technology_heat_ray.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAA0ABUB8JbACdADL15oC+i0AAPzw/AmimuryhfDnGTQuyUf+YPd74p+YEN1dkBPy2BrCrnIWtjroI0e+KHnZ0aheyZpM8wQAAA=="
       },
-      "_count": 91
+      "_count": 90
     },
-    "_count": 257
+    "_count": 255
+  },
+  "docs": {
+    "BAD_MEDIA_URLS.md": {
+      "_title": "Bad Media URLs \u2014 paradigm-threat-files"
+    },
+    "_count": 1
   },
   "events": {
     "911": {
@@ -965,13 +965,10 @@
         "20th-21st-century-catalog.md": {
           "_title": "False Flags: 20th\u201321st Century Catalog"
         },
-        "index.md": {
-          "_title": "False Flags Investigation"
-        },
         "iran-2026-propaganda-thesis.md": {
           "_title": "Investigation: Iran 2026 \u2014 Propaganda War Thesis"
         },
-        "_count": 4
+        "_count": 3
       },
       "israel_false_flag.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQAA4ABUB8JbACdAEOzkaDsAAA/rP5fvZ3PLXjMXibNF1l3xQbMM1Z2QCNfqKiGRexbyNJIR1g2nZQFFka2Hdj/GKfSE/QDU0J02MqQK4v37Dq3pk63AAA"
@@ -997,7 +994,7 @@
       "operation-northwoods.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoQAAwABUB8JYwCw7EPAZe5HHAA/unqy0+jfrr0OMMdMPz5Ieg4AAAA"
       },
-      "_count": 32
+      "_count": 31
     },
     "jfk": {
       "agent.md": {},
@@ -1049,10 +1046,10 @@
       },
       "_count": 1
     },
-    "_count": 99
+    "_count": 98
   },
   "fanedits": {
-    "index.md": {
+    "page.md": {
       "_title": "Banned from r/FanEdit Subreddit for accusation of piracy."
     },
     "_count": 1
@@ -2471,7 +2468,7 @@
         "french-revolution-investigation.md": {
           "_title": "Investigation: French Revolution \u2014 Societized Consolidation and Political Reorganization"
         },
-        "index.md": {
+        "page.md": {
           "_title": "War Investigations"
         },
         "reverse-crusades-comparison.md": {
@@ -2770,9 +2767,6 @@
         "index-offenbarung.md": {
           "_title": "Die Offenbarung Johannis \u2014 English Index"
         },
-        "index.md": {
-          "_title": "Chronology Investigations"
-        },
         "indigenous-creation-dates.md": {
           "_title": "Indigenous Creation Chronologies \u2014 Investigation"
         },
@@ -2780,7 +2774,7 @@
         "text_formatted.md": {
           "_title": "Die Offenbarung Johannis \u2014 Eine astronomisch-historische Untersuchung"
         },
-        "_count": 8
+        "_count": 7
       },
       "islam_in_early_america.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQABAABUB8JZQAAudrKaORMAD+hB92JZlNKXia7qGW+cI0RDWk6hKP0mDyJmd8+AA="
@@ -3219,7 +3213,7 @@
       "worlds-fair-coverup.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA="
       },
-      "_count": 232
+      "_count": 231
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology"
@@ -3244,16 +3238,13 @@
       "index-psychologische-grundlagen-1922.md": {
         "_title": "Zur Frage der psychologischen Grundlagen und des Ursprungs der Religion \u2014 Index"
       },
-      "index.md": {
-        "_title": "Kinkel Family \u2014 Index"
-      },
       "johanna-kinkel.md": {
         "_title": "Johanna Kinkel (1810\u20131858)"
       },
       "nenovsky_Kinkel_EJHET_2015.md": {
         "_title": "Ivan Kinkel's (1883\u20131945) Theory of Economic Development"
       },
-      "_count": 8
+      "_count": 7
     },
     "maps": {
       "1200px-Cruquius-Diagram-eclipse-1732.jpg": {
@@ -3713,16 +3704,13 @@
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAoABUB8JQBOgBOuBAkAAP7WHCSBXw5aYB2SqnZ8G8brdYqt8BHIRMcSQ5pX19AdOjS6CAA="
       },
       "investigations": {
-        "index.md": {
-          "_title": "Mudflood & MFEE Investigations"
-        },
         "mfee-investigation.md": {
           "_title": "MFEE Investigation \u2014 Evidence and Map Changes Over Time"
         },
         "tartarian-maps-investigation.md": {
           "_title": "Tartarian Maps Investigation \u2014 Forbidden Maps, Disclosure, and Downloads"
         },
-        "_count": 3
+        "_count": 2
       },
       "istanbul_periods.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoPABAABUB8JbAAAubRknFTAAD+09gbMY7DcwgUcue6jxnfWQhzg1+hEHxFWzDSsVRjYNDzd0Lw6lSe+GfGvwhHqAA="
@@ -4085,7 +4073,7 @@
       "yogaguni_underwater_pyramid.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAA4ABUB8JbACdAD6OkT8RhAA/nUkmfqWhjPiJ5ohHwGbzy4LMWeibIizLda38aMwKlmK5dQnl5PFWOr+t/Hx6aRPm79CwYdzv33DGagAAA=="
       },
-      "_count": 181
+      "_count": 180
     },
     "orphan_trains": {
       "orphan-trains-investigation.md": {
@@ -4105,7 +4093,7 @@
     "thunderbolts-forum-archives.md": {
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive"
     },
-    "_count": 522
+    "_count": 519
   },
   "influence": {
     "censorship": {
@@ -4673,14 +4661,14 @@
           "i-robot-index.md": {
             "_title": "I, Robot \u2014 Clue Index for Timeline Investigation"
           },
-          "index.md": {
-            "_title": "Isaac Asimov \u2014 Investigation"
-          },
           "lets-get-together-index.md": {
             "_title": "Let's Get Together \u2014 Clue Index for Timeline Investigation"
           },
           "magnificent-possession-index.md": {
             "_title": "The Magnificent Possession \u2014 Clue Index for Timeline Investigation"
+          },
+          "page.md": {
+            "_title": "Isaac Asimov \u2014 Investigation"
           },
           "youth-index.md": {
             "_title": "Youth \u2014 Clue Index for Timeline Investigation"
@@ -4713,9 +4701,6 @@
         },
         "fiction-presented-as-fact-investigation.md": {
           "_title": "Science Fiction & Fantasy: Fiction Presented as Fact"
-        },
-        "index.md": {
-          "_title": "Fiction Encoding \u2014 Investigations Index"
         },
         "jules-verne": {
           "index-jules-verne.md": {
@@ -4825,7 +4810,7 @@
           },
           "_count": 1
         },
-        "_count": 46
+        "_count": 45
       },
       "fire_on_the_mountain.jpg": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoLABAABUB8JbACdADb7K52wADhADfBtoyloq+gD3chg/YJOJghmKFTahIaMEUuN6wBmj0gI8vpZcBccAA="
@@ -4864,12 +4849,15 @@
       "wotw.jpg": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAwABUB8JZQC7ADO2JDn8AAA/uoll/ZkIPdWjbj9OpMh93F3uWmixuw7EX1ZNlV+HCHVLRT1rBcsYAA="
       },
-      "_count": 61
+      "_count": 60
     },
     "public-schools.jpg": {
       "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoLABAABUB8JYwCdADdjh7ahiLAAP6wzmzq5oR3pz+bp3giTouZ8z9obq34rwMqCsAkLAijZEhiwYM3xNgANciSAAA="
     },
     "religion": {
+      "1979-religious-revival-investigation.md": {
+        "_title": "Investigation: The 1979 Religious Revival \u2014 CIA Backing and Global Phenomenon"
+      },
       "abracadabra.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoQABAABUB8JQBdgCHR2/ueEAD8s6LKwjL2b/GSgEvjrqfhvfkygQqS1/jUx2CIFVWoS0Od4jN0LfZ8/n8J6OpAAAA="
       },
@@ -4889,21 +4877,12 @@
         "index-pregnant-mary-magdalene.md": {
           "_title": "Pregnant Mary Magdalene?"
         },
-        "index.md": {
-          "_title": "Hairy Mary (Wild Woman / Mary Magdalene) \u2014 Index"
-        },
-        "_count": 5
-      },
-      "investigations": {
-        "1979-religious-revival-investigation.md": {
-          "_title": "Investigation: The 1979 Religious Revival \u2014 CIA Backing and Global Phenomenon"
-        },
-        "_count": 1
+        "_count": 4
       },
       "kkk_jews.jpg": {
         "_lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAA0ABUB8JYwCw7DO/f8KOAAA/rQaw8vZqvOUV83esvXPveIuL4fyflKGnFCVxeUv1rEV6BF4gWVU4QSIyx33FJ7KrLl3gPJ4AAAA"
       },
-      "_count": 9
+      "_count": 8
     },
     "stolen_credit": {
       "beethoven-deafness.md": {
@@ -4926,9 +4905,6 @@
       },
       "gershwin-kay-swift.md": {
         "_title": "Gershwin / Kay Swift \u2014 Investigation"
-      },
-      "index.md": {
-        "_title": "Stolen Credit \u2014 Investigation"
       },
       "jeremy-soule.md": {
         "_title": "Jeremy Soule \u2014 Investigation"
@@ -4972,9 +4948,9 @@
       "yasunori-mitsuda.md": {
         "_title": "Yasunori Mitsuda \u2014 Investigation"
       },
-      "_count": 22
+      "_count": 21
     },
-    "_count": 277
+    "_count": 274
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat"
@@ -5032,14 +5008,11 @@
       "_count": 18
     },
     "ai": {
-      "investigations": {
-        "ai-control-investigation.md": {
-          "_title": "Artificial Intelligence: Control and Predictive Programming Investigation"
-        },
-        "index.md": {
-          "_title": "AI Investigations"
-        },
-        "_count": 2
+      "ai-control-investigation.md": {
+        "_title": "Artificial Intelligence: Control and Predictive Programming Investigation"
+      },
+      "ai-takeover.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JZQAAY6tp/JAAP7AUCZmQGymCiBh2sySTyejYki7Z4N1uzV/cLEiypPYGIBHcAAAAA=="
       },
       "page.md": {
         "_title": "Artificial Intelligence and the Ghost in the Machine"
@@ -5150,7 +5123,7 @@
       "_count": 34
     },
     "cern_portal": {
-      "index.md": {
+      "page.md": {
         "_title": "CERN and Portal Technology \u2014 Investigation"
       },
       "_count": 1
@@ -5235,12 +5208,6 @@
       "geoengineering_weather.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoLABAABUB8JaQAAvafsWkPvohsAP5Jay5bTx3xpiJump3UdsaSUXjmoVeeC2HDPGlKOrJ+Y/cq4MJj3OUEg6AA"
       },
-      "investigations": {
-        "weather-modification-investigation.md": {
-          "_title": "Investigation: Weather Modification \u2014 From Cloud Seeding to Ionospheric Heaters"
-        },
-        "_count": 1
-      },
       "not_contrails.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoHABAABUB8JagCdAEONGPpAAD+5DwknIP9j4sLShfoI4Ce8TUygXsPngnCMPotOAA="
       },
@@ -5264,6 +5231,9 @@
       },
       "spray6.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JZQAAgeOTFoAAP7EYcWXnZ62fJmj6n8nQe2kvNk1GFwGaXmqTYLwUjBVD3wAAAA="
+      },
+      "weather-modification-investigation.md": {
+        "_title": "Investigation: Weather Modification \u2014 From Cloud Seeding to Ionospheric Heaters"
       },
       "_count": 36
     },
@@ -5345,20 +5315,14 @@
       "04-steinmetz-heaviside-sources.md": {
         "_title": "Steinmetz and Heaviside Primary Sources \u2014 Verification"
       },
-      "index.md": {
-        "_title": "Maxwell & the Aether \u2014 Investigations"
-      },
-      "_count": 5
+      "_count": 4
     },
     "microchips": {
-      "investigations": {
-        "index.md": {
-          "_title": "Microchips Investigations"
-        },
-        "microchips-shrinking-technology-investigation.md": {
-          "_title": "Microchips: Shrinking Technology Investigation"
-        },
-        "_count": 2
+      "microchips-shrinking-technology-investigation.md": {
+        "_title": "Microchips: Shrinking Technology Investigation"
+      },
+      "shrinking-tech.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAsABUB8JQAAWNMRCPvwjcAAziryL7OoLX6Bdv/SQEuX5DGYEv1RzFGfRskSfQDWk5BoQQeBK2sCmAA="
       },
       "_count": 2
     },
@@ -5396,16 +5360,13 @@
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAABwAQCdASoQAAkABUB8JQAAQ5dk4AD+6kgHacczbkI37wodbLp6EBU4xQssECDLFtpJDegybEYV6YAA"
       },
       "investigations": {
-        "index.md": {
-          "_title": "Nuclear Weapons Investigations"
-        },
         "nuke-waste-is-safe-investigation.md": {
           "_title": "Investigation: Galen Windsor \"Nuclear Waste is Safe\" \u2014 Alternative Framework Analysis"
         },
         "nukes-dont-exist-investigation.md": {
           "_title": "Investigation: \"Nukes Don't Exist\" \u2014 Alternative Framework Analysis"
         },
-        "_count": 3
+        "_count": 2
       },
       "littleboye.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQAAsABUB8JQAAXNVQPggA/usyqLk1IDpE5DqZhpTkQCD4cQfJE3S4H0J1MqfvihT8VAAA"
@@ -5434,7 +5395,7 @@
       "uranium_galen_winsor.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoQABAABUB8JQAAVeKQWGgAAPrzouWl+do0NAl51DrHZCyC8YAOhEWKrWfK5RMyqPm/dUsxIqVv79Uxy1wAEZATo34AAA=="
       },
-      "_count": 24
+      "_count": 23
     },
     "telepathy": {
       "remote_viewing": {
@@ -5444,10 +5405,7 @@
         "index-remote-viewing-fiction.md": {
           "_title": "Remote Viewing / Remote Control in Fiction \u2014 Master Index"
         },
-        "index.md": {
-          "_title": "Remote Viewing \u2014 Index"
-        },
-        "_count": 3
+        "_count": 2
       },
       "remote_viewing.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAABwAQCdASoQAAoABUB8JaQAApJosAD+7W9L/jY29EaJUu2Um7CmpGg0FDvl+LwA"
@@ -5470,10 +5428,10 @@
       "remote_viewing7.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoMABAABUB8JagCdFKAAb2vkKGAAMlryp2gu2JMfP7g1IFZ4EQFXlBgr9O0VKDTzmybOpAA"
       },
-      "_count": 10
+      "_count": 9
     },
-    "_count": 152
+    "_count": 149
   },
-  "_count": 1804,
-  "_version": "1ba017d"
+  "_count": 1793,
+  "_version": "5a3fc70"
 }

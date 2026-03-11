@@ -24,3 +24,9 @@ Survivors of the Cataclysm live in a world defined by its elemental struggles. F
 ![Character: Rahu](rahu.png)
 
 [Visit forgottenfuturebook.com for more content](https://forgottenfuturebook.com)
+
+---
+
+## Additional Media
+
+![Text](text.png)

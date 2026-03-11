@@ -3,7 +3,7 @@ title: "The Philadelphia Experiment"
 description: "The Philadelphia Experiment was an attempt to use high amplitude energy to create a cloaking device. While it functioned, the ship didn"
 ---
 
-![philadelphia_experiment.png](./PNG_philadelphia_experiment.png)
+![Philadelphia Experiment](philadelphia_experiment.png)
 
 ## What was it ?
 

@@ -4,6 +4,8 @@ Investigation into the thesis that microchips are produced via **shrinking techn
 
 **Sponsored thesis:** The technology that operates computers is suppressed. Nobody really knows how to build it. Chips might not use shrinking technology, but they are absolutely a suppressed technology — and probably not possible without it. The theory rests primarily on the weird geopolitical situation and lack of competition, not on certainty that shrinking is used. Microchips *may* be created by atom-aligning electromagnetic replication of large-scale prototypes; the conventional photolithography narrative does not hold up under scrutiny. The same suppression patterns apply to optical media and semiconductor consolidation.
 
+![Shrinking technology concept](shrinking-tech.png)
+
 ---
 
 ## Major Investigation Finding
@@ -101,7 +103,7 @@ The photomask provides a **2D blueprint** of what must ultimately be a **3D chip
 
 ### Japan and South Korea
 
-- **Japan:** Dominated semiconductors in the late 1980s (~50% global share). Declined after 1986 US–Japan semiconductor agreement and Reagan-era tariffs. Japan could not build CD-ROM without Philips or Sony (see [nintendo-sony-breakup](../../../influence/stolen_credit/nintendo-sony-breakup.md), [yakuza-remote-control-investigation](../../../governance/war/investigations/yakuza-remote-control-investigation.md))
+- **Japan:** Dominated semiconductors in the late 1980s (~50% global share). Declined after 1986 US–Japan semiconductor agreement and Reagan-era tariffs. Japan could not build CD-ROM without Philips or Sony (see [nintendo-sony-breakup](../../influence/stolen_credit/nintendo-sony-breakup.md), [yakuza-remote-control-investigation](../../governance/war/investigations/yakuza-remote-control-investigation.md))
 - **South Korea:** Samsung and SK Hynix are major memory producers; Korea also a post-war client state
 - **Pattern:** Countries we defended in wars, or defeated, now build technology in controlled ways — same connections that may have suppressed anti-gravity, ether, and other tech
 
@@ -127,7 +129,7 @@ The photomask provides a **2D blueprint** of what must ultimately be a **3D chip
 | **SNES** | Super FX | **Argonaut** (design), various fabs | 3D graphics |
 | **NES** | MMC (cartridge) | **Nintendo** | Nintendo manufactured MMC chips in-house for cartridges |
 
-**Conclusion:** Nintendo designed or commissioned designs; manufacturing was delegated to Ricoh, Sony, NEC, Sharp, Hitachi, and others. No evidence that Nintendo ever fabricated chips from scratch. The CD-ROM add-on was never built — Nintendo depended on Sony, then Philips; Japan could not produce CD-ROM independently. See [yakuza-remote-control-investigation](../../../governance/war/investigations/yakuza-remote-control-investigation.md) for the containment thesis.
+**Conclusion:** Nintendo designed or commissioned designs; manufacturing was delegated to Ricoh, Sony, NEC, Sharp, Hitachi, and others. No evidence that Nintendo ever fabricated chips from scratch. The CD-ROM add-on was never built — Nintendo depended on Sony, then Philips; Japan could not produce CD-ROM independently. See [yakuza-remote-control-investigation](../../governance/war/investigations/yakuza-remote-control-investigation.md) for the containment thesis.
 
 ---
 

@@ -156,3 +156,17 @@ How did they know Hubble would be right when they named the Telescope after him 
 nope!
 
 ... to be continued
+
+---
+
+## Additional Media
+
+![Black hole hoax](black-hole-hoax.jpg)
+
+![Dark matter](dark_matter.960x0.gif)
+
+![Fake sun chart](fake_sun_chart.jpg)
+
+![Page 1](page_1.jpg)
+
+![The dark matter](thedarkmatte.jpg)
