@@ -109,7 +109,7 @@ See [Iran 2026 Propaganda Thesis](iran-2026-propaganda-thesis.md). **Project the
 
 ## Cross-Reference
 
-- [False Flags index](index.md)
+- [False Flags](../a.md)
 - [9/11 Investigation](09-11-investigation.md)
 - [Iran 2026 Propaganda Thesis](iran-2026-propaganda-thesis.md)
 - [Appendix: False Flags Evidence Dossier](/timeline/evt-false-flags-appendix)

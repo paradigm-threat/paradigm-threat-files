@@ -25,7 +25,7 @@ Ongoing. This investigation documents evidence and alternative theories supporti
 - **Documented:** NYT (4 Nov 2001): *"Secret C.I.A. Site in New York Was Destroyed on Sept. 11"*
 - **Purpose:** Recruit foreign diplomats at the UN; debrief American executives returning from overseas; operate behind false fronts.
 - **Post-attack:** CIA dispatched teams to search rubble for classified documents; success of recovery undetermined.
-- **Connection severed:** The CIA–ayatollah relationship (see [1979 Religious Revival](../religious-revival/1979-religious-revival-investigation.md)) was facilitated through stations like this. With WTC 7 destroyed, that pipeline was severed. The CIA would **never again operate with such autonomy** inside the United States.
+- **Connection severed:** The CIA–ayatollah relationship (see [1979 Religious Revival](../../../influence/religion/1979-religious-revival-investigation.md)) was facilitated through stations like this. With WTC 7 destroyed, that pipeline was severed. The CIA would **never again operate with such autonomy** inside the United States.
 
 Mainstream coverage focuses on the Twin Towers and the Pentagon. The destruction of the CIA station is the **architectural keystone** of the good-actor thesis: the one building that had to fall was the one that housed the agency's domestic nerve centre.
 
@@ -108,7 +108,7 @@ Daniel Ellsberg knew. He leaked the Pentagon Papers. The pattern: spectacular cl
 - [False Flags: Architecture](/timeline/evt-false-flags) — main article
 - [False Flags Investigation: Evidence Dossier](/timeline/evt-false-flags-appendix) — Gulf of Tonkin, Pearl Harbor, Operation Northwoods
 - [Historical Antibodies](/timeline/evt-historical-antibodies) — William Cooper; pattern of good actors
-- [1979 Religious Revival](../religious-revival/1979-religious-revival-investigation.md) — CIA–ayatollah connection
+- [1979 Religious Revival](../../../influence/religion/1979-religious-revival-investigation.md) — CIA–ayatollah connection
 
 ### Open Questions
 - Document controlled-demolition evidence (AE911Truth, NIST critiques).

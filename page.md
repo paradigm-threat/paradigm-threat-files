@@ -66,7 +66,7 @@ or *not* believing.
 * [The Deep State is on Mars](/cosmos/mars)
 * [Earth History Timeline Reconstruction](/history/chronology)
 * [Stolen Credit in Media — Plagiarism as Control](/influence/stolen_credit)
-* [Microchips: Nobody Knows How They're Made](/science/microchips/investigations/microchips-shrinking-technology-investigation) — Major finding: deliberate worldwide system of control
+* [Microchips: Nobody Knows How They're Made](/science/microchips/microchips-shrinking-technology-investigation) — Major finding: deliberate worldwide system of control
 * [Artificial Intelligence and the Ghost in the Machine](/science/ai/page) — Deliberate bad software; AI as deep-state endgame
 
 <figure className="sm:float-left clear-left m-auto sm:m-1 sm:mr-6 sm:max-w-sm">
@@ -272,6 +272,10 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 
 Thanks to my old investigation team on the Discord server. We had a lotta good years of research before it got canned.
 Make sure to check out our new server, where the investigation continues, and they can never ban us.
+
+## Additional Media
+
+- [REORGANIZATION_MAP.md](REORGANIZATION_MAP.md)
 
 ## General Chatroom
 

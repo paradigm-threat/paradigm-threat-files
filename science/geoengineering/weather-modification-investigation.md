@@ -26,8 +26,8 @@ This investigation compiles the documented history of deliberate weather modific
 ### Timeline Cross-References
 - [Weather Control: From Martian Beams to HAARP](../../content/14.ce-20th-the-1917-revolution/14.08.00-1946-ce-weather-control.md)
 - [The Mars Catastrophe](../../content/12.ce-18th-mudflood-and-pugachev/12.06.00-1774-ce-the-mars-catastrophe.md)
-- [MFEE Mars Catastrophe](../mars/wotw-mfee-mars-catastrophe.md)
-- [Maxwell & the Aether](../maxwell-aether/02-did-maxwell-prove-the-aether.md)
+- [MFEE Mars Catastrophe](../../cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md)
+- [Maxwell & the Aether](../maxwell_aether/02-did-maxwell-prove-the-aether.md)
 
 ---
 
@@ -146,7 +146,7 @@ The weather control article proposes a four-step Deep State progression from wea
 
 3. **Who controls the global weather modification infrastructure?** If the technology exists (it does) and if it's been weaponized before (Operation Popeye proves it has) — what entity coordinates its current use? NATO? Private defense contractors? A classified interagency body?
 
-4. **What is the relationship between HAARP-type systems and the suppressed Maxwell/Tesla aether physics?** Eastlund's patents reference electromagnetic interaction with the ionosphere in ways that align more closely with pre-Heaviside field theory than with standard Maxwell equations. See [Maxwell investigation](../maxwell-aether/02-did-maxwell-prove-the-aether.md).
+4. **What is the relationship between HAARP-type systems and the suppressed Maxwell/Tesla aether physics?** Eastlund's patents reference electromagnetic interaction with the ionosphere in ways that align more closely with pre-Heaviside field theory than with standard Maxwell equations. See [Maxwell investigation](../maxwell_aether/02-did-maxwell-prove-the-aether.md).
 
 5. **How does the Martian directed-energy technology connect?** The timeline's alternative framework proposes that MFEE knowledge of atmospheric electromagnetic manipulation (from the Mars catastrophe) was transferred via Operation Paperclip. What specific German/MFEE programs fed into Project Cirrus and later HAARP? The 1946 date for both Project Cirrus and the beginning of Paperclip scientist integration is suggestive.
 

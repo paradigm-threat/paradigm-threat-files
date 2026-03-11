@@ -14,6 +14,8 @@ Ongoing. Per INVESTIGATIVE_STRATEGY (paradigm-threat-timeline): investigate from
 
 ## 1. Predictive Programming: AI in Fiction
 
+![AI takeover in fiction](ai-takeover.png)
+
 Predictive programming presents artificial intelligence in a very dim light. The pattern recurs across decades:
 
 ### The Standard Arc
@@ -97,7 +99,7 @@ Resistance would be impossible. The systems that run the world would be operable
 
 ### Recent Uptick and Concentration
 
-- **Nvidia dominance:** Nvidia GPUs (H100, H200, etc.) power the vast majority of AI training and inference. TSMC manufactures them; see [microchips investigation](../../../microchips/investigations/microchips-shrinking-technology-investigation.md).
+- **Nvidia dominance:** Nvidia GPUs (H100, H200, etc.) power the vast majority of AI training and inference. TSMC manufactures them; see [microchips investigation](../../microchips/microchips-shrinking-technology-investigation.md).
 - **AI-specific chips:** Custom silicon (TPUs, etc.) concentrated in U.S. firms and their fab partners. The same geopolitics that govern general semiconductors govern AI chips.
 
 ### China Falling Behind
@@ -106,13 +108,13 @@ Resistance would be impossible. The systems that run the world would be operable
 - **Domestic alternatives:** Huawei's Ascend and other Chinese chips cannot yet match Nvidia for cutting-edge AI. Huawei stated it needs almost two more years to match current offerings.
 - **Strange for a major country:** China has vast resources, centralized planning, and industrial scale. That it cannot reproduce AI chip capability—like the broader semiconductor pattern—suggests the same deliberate control: knowledge and production concentrated, replication blocked.
 
-See [microchips-shrinking-technology-investigation](../../../microchips/investigations/microchips-shrinking-technology-investigation.md) for the thesis that nobody knows how chips are made and that a deliberate worldwide system of control prevents replication.
+See [microchips-shrinking-technology-investigation](../../microchips/microchips-shrinking-technology-investigation.md) for the thesis that nobody knows how chips are made and that a deliberate worldwide system of control prevents replication.
 
 ---
 
 ## 5. Connections to Other Investigations
 
-- **[Microchips](https://paradigmthreat.net/science/microchips/investigations/microchips-shrinking-technology-investigation)** — AI chips depend on the same suppressed semiconductor supply chain; China cannot replicate
+- **[Microchips](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation)** — AI chips depend on the same suppressed semiconductor supply chain; China cannot replicate
 - **[Predictive programming](https://paradigmthreat.net/influence/predictive_programming)** — AI fiction as managed disclosure; see PP media catalog
 - **[Yakuza remote control](https://paradigmthreat.net/governance/war/investigations/yakuza-remote-control-investigation)** — Tech containment in Japan; CD-ROM, Nintendo; parallel pattern of controlled rollout
 - **[Governance / war](https://paradigmthreat.net/governance/war)** — Suppressed technology; anti-gravity, ZPE; same institutional networks may control AI rollout
@@ -133,4 +135,4 @@ See [microchips-shrinking-technology-investigation](../../../microchips/investig
 - Spaceballs (1987) — "Even in the future nothing works"; technology unreliable
 - Terminator, 2001, I Robot, Matrix, Ex Machina, Her, Wall-E, etc. (Wikipedia, IMDb)
 - China AI chips: Forbes, CNBC, Guardian, NYT (2026); Nvidia export controls; Huawei Ascend
-- [Microchips investigation](https://paradigmthreat.net/science/microchips/investigations/microchips-shrinking-technology-investigation) — chip supply chain, China, Taiwan
+- [Microchips investigation](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation) — chip supply chain, China, Taiwan

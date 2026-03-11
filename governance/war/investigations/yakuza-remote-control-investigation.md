@@ -41,7 +41,7 @@ If Nintendo Japan could have built its own CD-ROM (or partnered domestically), w
 - U.S. Foreign Direct Product Rule and export controls limit Taiwan's chip exports to China.
 - The "silicon shield" thesis: Taiwan's dominance deters military action because global prosperity depends on it.
 - **Pattern:** Strategic technology is concentrated in vassal states and controlled from abroad. Japan's gaming/optical media transition may follow the same playbook.
-- **Major finding:** Mainstream sources acknowledge that *nobody can replicate* advanced chip production — U.S. $12B for TSMC Arizona yields chips a generation behind; China $150B for EUV has not produced domestic alternatives; DoD is "critically dependent" on foreign supply. See [microchips-shrinking-technology-investigation](../../../science/microchips/investigations/microchips-shrinking-technology-investigation.md) for full analysis and conclusion that this reflects a deliberate worldwide system of control.
+- **Major finding:** Mainstream sources acknowledge that *nobody can replicate* advanced chip production — U.S. $12B for TSMC Arizona yields chips a generation behind; China $150B for EUV has not produced domestic alternatives; DoD is "critically dependent" on foreign supply. See [microchips-shrinking-technology-investigation](../../../science/microchips/microchips-shrinking-technology-investigation.md) for full analysis and conclusion that this reflects a deliberate worldwide system of control.
 
 ---
 

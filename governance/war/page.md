@@ -122,7 +122,7 @@ own [ZPE Porsche HLS](/science/anti_gravity/antigrav_porsche_hls.jpg)'s today.
 Instead of that future, we were benefacted this **coal-powered, earth-bound, global technocracy**.
 This is what world domination looks like;
 identical airports throughout the globe enabling and maintaining the technocratic **Deep State** empire.
-The same pattern applies to [microchips](/science/microchips/investigations/microchips-shrinking-technology-investigation): nobody knows how they are made, mainstream sources acknowledge that nations cannot replicate production, and humanity is completely dependent on technology concentrated in controlled vassal states.
+The same pattern applies to [microchips](/science/microchips/microchips-shrinking-technology-investigation): nobody knows how they are made, mainstream sources acknowledge that nations cannot replicate production, and humanity is completely dependent on technology concentrated in controlled vassal states.
 (Fun War Fact: The history of allied bombing raids using child pilots became the inspiration behind the
 book [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game#Synopsis),
 where essentially _an entire war is fought using unwilling children and deceptive technology resulting in the
@@ -472,6 +472,29 @@ Disney appears to be introducing us to anti-gravity technology through their new
 ## War Chatroom
 
 <ChatRoom channel="governance/war" title="War Chatroom"/>
+
+## Additional Media
+
+![](0invasion.jpg)
+![](atoms_for_peace.jpg)
+![](debt_slave_system2.jpg)
+![](debt_slave_system.jpg)
+![](definition.jpg)
+![](military_police.jpg)
+![](propaganda1.jpg)
+![](propaganda2.jpg)
+![](propaganda3.jpg)
+![](propaganda4.jpg)
+![](propaganda_bank_robber.jpg)
+![](racket2.jpg)
+![](racket3.jpg)
+![](racket4.jpg)
+![](racket5.jpg)
+![](racket6.jpg)
+![](racket.jpg)
+![](trump_avoids_war.jpg)
+![](UkraineSummit.jpg)
+![](war_and_central_banking.jpg)
 
 ## Extra Photos:
 

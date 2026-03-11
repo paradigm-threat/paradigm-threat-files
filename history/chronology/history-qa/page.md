@@ -267,7 +267,7 @@ Cosmology. Check it out!
 
 ### Q: Don't the existence of dinosaur bones disprove "Young Earth Theory"?
 
-![Genocide Giants 4](../../../governance/genocide/giants_faeries/governance/genocide_giants4.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Genocide Giants 4](../../../governance/genocide/giants_faeries/genocide_giants4.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
 ![Genocide Giants 2](../../reformation/extraordinary_black_book.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 Dinosaurs existed, and probably still exist somewhere.

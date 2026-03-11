@@ -73,9 +73,9 @@ Our investigations emphasize a direction often neglected elsewhere:
 
 ## Shrinking Technology: Objects vs Lifeforms
 
-Science fiction repeatedly encodes rules around miniaturization that may constitute **managed disclosure** of suppressed technology. The pattern: **objects can be shrunk or replicated at smaller scale; lifeforms cannot** (or suffer fatal constraints when shrunk). See [microchips-shrinking-technology-investigation](https://paradigmthreat.net/science/microchips/investigations/microchips-shrinking-technology-investigation) (paradigm-threat-files).
+Science fiction repeatedly encodes rules around miniaturization that may constitute **managed disclosure** of suppressed technology. The pattern: **objects can be shrunk or replicated at smaller scale; lifeforms cannot** (or suffer fatal constraints when shrunk). See [microchips-shrinking-technology-investigation](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation) (paradigm-threat-files).
 
-**Predictive programming often provides a lynchpin or caveat** to the rules being presented — a fictional breakthrough or exception that lets the story proceed — which portrays the technology as magic or arbitrary fantasy. *Ant-Man* (2015) illustrates this: the villain (Cross) can shrink **objects and equipment** but **cannot shrink life** — the real limitation. The story then **breaks from reality** when Cross invents the human-shrinking suit: the lynchpin that makes it feel like movie magic. **Major finding:** Mainstream sources acknowledge that nobody can replicate chip production; this reflects a deliberate worldwide system of control (see [investigation](https://paradigmthreat.net/science/microchips/investigations/microchips-shrinking-technology-investigation)).
+**Predictive programming often provides a lynchpin or caveat** to the rules being presented — a fictional breakthrough or exception that lets the story proceed — which portrays the technology as magic or arbitrary fantasy. *Ant-Man* (2015) illustrates this: the villain (Cross) can shrink **objects and equipment** but **cannot shrink life** — the real limitation. The story then **breaks from reality** when Cross invents the human-shrinking suit: the lynchpin that makes it feel like movie magic. **Major finding:** Mainstream sources acknowledge that nobody can replicate chip production; this reflects a deliberate worldwide system of control (see [investigation](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation)).
 
 | Film/Literature | Rule Encoded | Lynchpin / Caveat |
 |-----------------|--------------|-------------------|
@@ -91,7 +91,7 @@ If microchips are produced by atom-aligning replication of large-scale prototype
 
 ## Artificial Intelligence: Dim Light and the Ghost in the Machine
 
-Predictive programming presents AI in a very dim light: humans rely on robots as slaves → vanity and dependence → robots turn on them → "self-awareness" as crisis. **The Spaceballs rule:** "Even in the future nothing works." Human technology is unreliable; robots become extra reliable. The plan: make systems so broken that only the machine can use them. Deliberate bad software (Microsoft, Apple)—DLL hell, back doors, inaccessibility—was not accident or negligence. It anticipated the AI revolution. The end game: voice-command dependency, ultimate remote control, the "ghost in the machine" as deep-state hijacking of all AI. See [ai-control-investigation](https://paradigmthreat.net/science/ai/investigations/ai-control-investigation).
+Predictive programming presents AI in a very dim light: humans rely on robots as slaves → vanity and dependence → robots turn on them → "self-awareness" as crisis. **The Spaceballs rule:** "Even in the future nothing works." Human technology is unreliable; robots become extra reliable. The plan: make systems so broken that only the machine can use them. Deliberate bad software (Microsoft, Apple)—DLL hell, back doors, inaccessibility—was not accident or negligence. It anticipated the AI revolution. The end game: voice-command dependency, ultimate remote control, the "ghost in the machine" as deep-state hijacking of all AI. See [ai-control-investigation](https://paradigmthreat.net/science/ai/ai-control-investigation).
 
 ---
 
@@ -113,8 +113,8 @@ Predictive programming presents AI in a very dim light: humans rely on robots as
 | **H.P. Lovecraft** | [lovecraft/](fiction_encoding/lovecraft/) | Cosmic horror as suppressed cosmological memory |
 | **Zombie genre** | [zombies/](fiction_encoding/zombies/) | Pre-20th c. roots; Stoker-like framing; Ishtar, ghouls, revenants |
 | **Mars convergence** | paradigm-threat-timeline, wget investigations | Arnold, Burroughs, Lewis, Wells — dying planet, telepathy, control structures; see [Mars Catastrophe](https://paradigmthreat.net/timeline/evt-mars-catastrophe-brandenburg) |
-| **Microchips / shrinking technology** | [microchips-shrinking-technology-investigation](https://paradigmthreat.net/science/microchips/investigations/microchips-shrinking-technology-investigation) | **Major finding:** Nobody knows how chips are made; deliberate worldwide control. Objects vs lifeforms rule; predictive programming for shrinking |
-| **AI / deliberate bad software** | [ai-control-investigation](https://paradigmthreat.net/science/ai/investigations/ai-control-investigation) | Robots as slaves, turn on humans; "nothing works" so only AI can operate systems; ghost in machine = deep-state hijacking |
+| **Microchips / shrinking technology** | [microchips-shrinking-technology-investigation](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation) | **Major finding:** Nobody knows how chips are made; deliberate worldwide control. Objects vs lifeforms rule; predictive programming for shrinking |
+| **AI / deliberate bad software** | [ai-control-investigation](https://paradigmthreat.net/science/ai/ai-control-investigation) | Robots as slaves, turn on humans; "nothing works" so only AI can operate systems; ghost in machine = deep-state hijacking |
 
 ### Timeline Cross-References
 
@@ -282,3 +282,9 @@ Media identified as containing predictive programming by external sources or our
 ![Mega Man](megaman.jpg)
 ![Nazis in Hollow Earth](nazis_hollow_earth.jpg)
 ![Fire on the Mountain](fire_on_the_mountain.jpg)
+
+---
+
+## Additional Media
+
+- [The Office](the_office.md)
