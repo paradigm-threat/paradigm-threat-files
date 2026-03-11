@@ -1,6 +1,6 @@
 # Minako Hamano — Investigation
 
-**Status:** Investigating. Hypothesis: She may be the primary creative force behind much of the music she's credited on; credit may have been stolen by collaborators or institutional bias.
+**Status:** Investigating. Hypothesis: She may be the primary creative force behind much of the music she's credited on; credit may have been stolen by collaborators or institutional bias. When she is properly involved, quality is high; when she is sidelined or credited without actually composing, the result is amateurish.
 
 ---
 
@@ -21,6 +21,9 @@
 | Metroid Fusion | Akira Fujiwara | 2002 |
 | Metroid: Zero Mission | Kenji Yamamoto | 2004 |
 | Metroid Prime 3: Corruption | Kenji Yamamoto, Masaru Tajima | 2007 |
+| Donkey Kong Country Returns | — | **Excellent** soundtrack; Retro Studios |
+| Donkey Kong Country: Tropical Freeze | Dave Wise (exclusive credit in press) | Hamano in credits; not attributed; soundtrack even better |
+| Metroid Prime 4: Beyond | Credited | **No sign she worked on songs**; soundtrack amateurish; game disaster |
 | Donkey Kong Country | (with others) | Credited among team |
 | Mario Kart, Wario, Brain Age | Various | Numerous titles |
 
@@ -72,6 +75,17 @@
 - Yamamoto composed: Theme of Super Metroid, Norfair; overlap with Hamano on some areas (Discogs lists both for Maridia, Kraid, Wrecked Ship — attribution varies by source).
 - Hamano led Metroid Fusion; later moved to supervisor role (Samus Returns).
 
+### Donkey Kong Country Returns & Tropical Freeze — The Pattern
+- **DKC Returns (2010):** Excellent soundtrack. Hamano credited. **Clue:** She may have been one of the original inspirations or composers behind many favorite Nintendo-era songs. ([dave-wise.md](dave-wise.md))
+- **DKC Tropical Freeze (2014):** Soundtrack even better. Dave Wise got **exclusive attribution** in press ("the return of Dave Wise"); Hamano was in the credits but explicitly **not** part of the "return" in articles. She was at Retro Studios at the time.
+- **Retro Studios reputation:** Metroid Prime 1 excellent. DKC Returns and Tropical Freeze excellent. Something went right when Hamano was involved.
+
+### Metroid Prime 4 — "Something Is Up"
+- Metroid Prime 4: Beyond — **unmitigated disaster**; everyone agrees.
+- Hamano **credited this time** — but there is **no sign she actually worked on any songs**.
+- The songs are **incredibly amateurish** once again.
+- **Interpretation:** When Hamano is properly on a project, quality is high (Returns, Tropical Freeze). When she is credited but not composing (Prime 4?), the result collapses. The pattern suggests she is the creative force — and that her presence vs. absence in the actual composition process explains the quality divide. Something is up.
+
 ### Female Composer Underrepresentation
 - GameSoundCon: ~7% of game music sector are women; 10:1 male-to-female ratio.
 - Two-year pay gap: woman with 8 years experience earns same as man with 6.
@@ -83,6 +97,8 @@
 - Which specific tracks did Hamano compose vs. Yamamoto/Fujiwara?
 - Link's Awakening — full credit breakdown?
 - Has she spoken publicly about credit or collaboration?
+- Tropical Freeze: What was Hamano's actual role? Why was she in credits but excluded from "return of Dave Wise" narrative?
+- Metroid Prime 4: Did Hamano contribute any tracks? If credited but not composing, who was?
 
 ---
 
