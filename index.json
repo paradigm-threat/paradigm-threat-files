@@ -1,5 +1,35 @@
 {
   "blog": {
+    "2023-10-31-paradigm-threat-site-launch.md": {
+      "_title": "October 2023: Paradigm Threat Site Launches"
+    },
+    "2024-01-31-january-2024-site-improvements.md": {
+      "_title": "January 2024: Vercel Deployment and Image Pipeline"
+    },
+    "2024-03-31-march-2024-chronology-mars.md": {
+      "_title": "March 2024: Chronology, Mars, Giants, and Planetary Lifecycle"
+    },
+    "2024-05-31-may-2024-investigations.md": {
+      "_title": "May 2024: JFK, Flat Earth, Borgia, and Hollow Planets"
+    },
+    "2024-06-30-mid-2024-update.md": {
+      "_title": "June 2024: Site Content and Infrastructure"
+    },
+    "2024-11-30-november-2024-content.md": {
+      "_title": "November 2024: 9/11 Theory, Walking Series, and Chat Fixes"
+    },
+    "2024-12-31-december-2024-update.md": {
+      "_title": "December 2024: Site Updates and Year-End"
+    },
+    "2025-09-30-paradigm-threat-files-launch.md": {
+      "_title": "September 2025: paradigm-threat-files Repository Created"
+    },
+    "2026-01-31-january-2026-project-beginnings.md": {
+      "_title": "January 2026: Timeline Project Begins, paradigm-threat-files Refactor"
+    },
+    "2026-02-21-pre-launch-buildup.md": {
+      "_title": "February 21, 2026: Pre-Launch Build \u2014 Media, Structure, and Content"
+    },
     "2026-02-22-new-timeline-project.md": {
       "_title": "A Dedicated Timeline for Earth's Hidden History"
     },
@@ -36,7 +66,7 @@
     "2026-03-11-timeline-update.md": {
       "_title": "Timeline Update: Stolen Credit Suite, Yakuza Investigation, Site SSR, and TTS Improvements"
     },
-    "_count": 12
+    "_count": 22
   },
   "changelog.json": {},
   "cosmos": {
@@ -5474,6 +5504,6 @@
     },
     "_count": 149
   },
-  "_count": 1806,
-  "_version": "9bbc837"
+  "_count": 1816,
+  "_version": "d6aa8ec"
 }
