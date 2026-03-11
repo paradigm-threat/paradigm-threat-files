@@ -22,6 +22,7 @@ Indigenous chronologies (e.g., Quiche Maya, Popol Vuh, other traditions) provide
 
 - Timeline rules: alternate chronology systems include "Indigenous — Quiche Maya, Popol Vuh, etc."
 - docs/CONTENT_STRATEGY.md — Topics to strengthen
+- [Common Questions Q4: Maya civilization collapse](https://paradigmthreat.net/history/common-questions#q4-why-did-the-maya-civilization-collapse-why-was-it-advanced-why-does-the-mainstream-record-say-they-collapsed-over-1000-years-ago) — redacted history analysis: why mainstream dates Maya collapse to 800–900 CE (denying pyramids/Horde, Catholic takeover, 18th century genocide)
 
 ## Next Steps
 
