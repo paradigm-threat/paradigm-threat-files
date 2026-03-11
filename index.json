@@ -2486,7 +2486,10 @@
         "vril-society.md": {
           "_title": "Vril Society: Claim, Debunk, and Redaction Potential"
         },
-        "_count": 8
+        "yakuza-remote-control-investigation.md": {
+          "_title": "Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan"
+        },
+        "_count": 9
       },
       "military_police.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQABAABUB8JaQAAuhduhw15C8AAP6jI6535eWFhJVCs1nyUU0g5ufcwxzu7EygaP6LbndMUotyAAAA"
@@ -2536,9 +2539,9 @@
       "ww2meme.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA="
       },
-      "_count": 53
+      "_count": 54
     },
-    "_count": 487
+    "_count": 488
   },
   "history": {
     "chronology": {
@@ -5432,6 +5435,6 @@
     },
     "_count": 147
   },
-  "_count": 1794,
-  "_version": "05b784d"
+  "_count": 1795,
+  "_version": "52b1076"
 }
