@@ -122,6 +122,7 @@ own [ZPE Porsche HLS](/science/anti_gravity/antigrav_porsche_hls.jpg)'s today.
 Instead of that future, we were benefacted this **coal-powered, earth-bound, global technocracy**.
 This is what world domination looks like;
 identical airports throughout the globe enabling and maintaining the technocratic **Deep State** empire.
+The same pattern applies to [microchips](/science/microchips/investigations/microchips-shrinking-technology-investigation): nobody knows how they are made, mainstream sources acknowledge that nations cannot replicate production, and humanity is completely dependent on technology concentrated in controlled vassal states.
 (Fun War Fact: The history of allied bombing raids using child pilots became the inspiration behind the
 book [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game#Synopsis),
 where essentially _an entire war is fought using unwilling children and deceptive technology resulting in the

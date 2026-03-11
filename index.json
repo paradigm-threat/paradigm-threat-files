@@ -5031,6 +5031,21 @@
       },
       "_count": 18
     },
+    "ai": {
+      "investigations": {
+        "ai-control-investigation.md": {
+          "_title": "Artificial Intelligence: Control and Predictive Programming Investigation"
+        },
+        "index.md": {
+          "_title": "AI Investigations"
+        },
+        "_count": 2
+      },
+      "page.md": {
+        "_title": "Artificial Intelligence and the Ghost in the Machine"
+      },
+      "_count": 3
+    },
     "anti_gravity": {
       "a.md": {},
       "antigrav_research.jpg": {
@@ -5457,8 +5472,8 @@
       },
       "_count": 10
     },
-    "_count": 149
+    "_count": 152
   },
-  "_count": 1801,
-  "_version": "2e963f6"
+  "_count": 1804,
+  "_version": "1ba017d"
 }
