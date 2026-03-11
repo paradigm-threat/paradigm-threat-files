@@ -35,6 +35,9 @@
 - Individual Fischer tracks were praised.
 - **Interpretation:** Game's lower profile (or different aesthetic) may have obscured her contributions. Wise gets association with DKC1/2's peak; Fischer with DKC3's "lesser" status — though she wrote most of it.
 
+### DKC3 GBA (2005) — Contrast
+- The GBA port of DKC3 had a **completely different soundtrack** — credited exclusively to Dave Wise (no Fischer). That version is widely criticized for amateur composition, overreliance on drum loops, and a sharp stylistic departure from the franchise. See [dave-wise.md](dave-wise.md). The contrast (Fischer's DKC3 vs. Wise's DKC3 GBA) underscores the difference in output quality when Wise works alone.
+
 ### Copyright — Four-Way Split on Aquatic Ambience
 - "Aquatic Ambience" (iconic DKC1 track) copyright lists: **Beanland, Fischer, Wise, Kaneoka**.
 - Fischer appears on the most famous DKC track's legal attribution — but public discourse centers on Wise.

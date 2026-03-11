@@ -1,5 +1,10 @@
 [
   {
+    "hash": "d84be7cedca20812aca42051dd07b43b8da5f1cf",
+    "date": "2026-03-11T14:51:03.000Z",
+    "message": "Add Super Mario RPG section: suspicious timing, reassurance signal, divorce artifact"
+  },
+  {
     "hash": "c15c72e6e9557a9aa850cfced312c45a5191bc0a",
     "date": "2026-03-11T14:44:46.000Z",
     "message": "Add Yakuza remote-control investigation: British influence, media capture, Abe assassination, tech containment"
@@ -18,10 +23,5 @@
     "hash": "46f04d92a85b9dcf36974f3e6a1dfbc4315bda6e",
     "date": "2026-03-11T12:25:04.000Z",
     "message": "Update stolen credit page"
-  },
-  {
-    "hash": "bff461fc3d3f85d085ba7389becc5ec53337793d",
-    "date": "2026-03-11T11:34:14.000Z",
-    "message": "feat: Add _version to index.json for PWA cache busting"
   }
 ]
