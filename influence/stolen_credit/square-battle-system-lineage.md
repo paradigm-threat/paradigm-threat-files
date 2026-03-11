@@ -80,7 +80,7 @@
 
 ---
 
-**Cross-reference:** [nintendo-sony-breakup.md](nintendo-sony-breakup.md) — Full Nintendo–Sony breakup, SNES CD collapse, Square defection, FF7 platform context.
+**Cross-reference:** [nintendo-sony-breakup.md](nintendo-sony-breakup.md) — Full Nintendo–Sony breakup, SNES CD collapse, Square defection, FF7 platform context. [yasunori-mitsuda.md](yasunori-mitsuda.md) — Chrono Trigger; Mitsuda left 1998; same institutional-decline pattern.
 
 ---
 

@@ -17,6 +17,10 @@
 | **Minako Hamano** | [minako-hamano.md](minako-hamano.md) | *Investigating* — Metroid, Zelda; potential credit stolen from her; female + Japanese double erasure |
 | **Eveline Fischer** | [eveline-fischer.md](eveline-fischer.md) | *Investigating* — DKC3 almost entirely hers; 7 tracks on DKC1; minimal public recognition |
 | **Rare / Nintendo R&D** | [rare-nintendo-rd.md](rare-nintendo-rd.md) | *Investigating* — R&D made games for Rare; Rare stole credit; games with no/missing credits |
+| **Capcom / Mega Man** | [capcom.md](capcom.md) | *Investigating* — Platform betrayal (NES→SNES→PS1); composer churn; MM9 leftover from original projects; Yamashita uncredited |
+| **Yasunori Mitsuda** | [yasunori-mitsuda.md](yasunori-mitsuda.md) | *Investigating* — CT third hands (Matsueda, Ito); CC Radical Dreamers Edition corruption; never again at Nintendo level |
+| **Robin Beanland** | [robin-beanland.md](robin-beanland.md) | *Investigating* — DKC Aquatic Ambience four-way copyright; role vs. Wise/Fischer |
+| **Koji Kondo** | [koji-kondo.md](koji-kondo.md) | *Investigating* — Nintendo institutional support; Kaneoka; unrecognized Zelda composers |
 | **Kinuyo Yamashita** | [kinuyo-yamashita.md](kinuyo-yamashita.md) | **Documented** — Mega Man X3 composer; credited to "Minakuchi Engineering Staff" |
 | **Square / Battle System Lineage** | [square-battle-system-lineage.md](square-battle-system-lineage.md) | *Investigating* — Nasir Gebelli (Iran/revolution); FF5/Tactics/12 split; talent exodus; engine repackaging |
 | **Nintendo–Sony Breakup** | [nintendo-sony-breakup.md](nintendo-sony-breakup.md) | Integrated — CES betrayal, SNES CD collapse, Square defection, FF7 context |
@@ -27,7 +31,15 @@
 |--------|------|--------|
 | **Mozart / Nannerl** | [mozart-nannerl.md](mozart-nannerl.md) | *Investigating* — Sister's sonatas lost; Wolfgang credited her as teacher; Leopold's hand on early works |
 | **Gershwin / Kay Swift** | [gershwin-kay-swift.md](gershwin-kay-swift.md) | *Investigating* — "Intimately involved" in Porgy and Bess; no formal credit; mentor, lover, collaborator |
+| **Fanny Mendelssohn** | [fanny-mendelssohn.md](fanny-mendelssohn.md) | **Documented** — 6 songs under Felix's name; Easter Sonata misattributed 1972–2010 |
+| **Ferde Grofé** | [ferde-grofe.md](ferde-grofe.md) | Documented — Rhapsody in Blue orchestration; blurry line with composition |
 | **Beethoven / Deafness** | [beethoven-deafness.md](beethoven-deafness.md) | *Investigating* — "Stone deaf" myth exaggerated; Schindler forgeries; narrative as legend-control |
+
+### Methodology & Reference
+
+| Subject | File | Status |
+|--------|------|--------|
+| **VGM Preservation / Publisher Credits** | [vgm-preservation-credits.md](vgm-preservation-credits.md) | Reference — 335 games without credits; publisher policies; ROM/hex methodology |
 
 ---
 
@@ -35,6 +47,7 @@
 
 - **British vassalship over Japan** — Post-imperial structures; credit flowing to British/Western figures
 - **Erasure of women** — Minako Hamano, Eveline Fischer, Nannerl Mozart, Fanny Mendelssohn, Kay Swift
+- **Controlled personality synthesis** — Mozart, Beethoven, Gershwin, Bruce Lee, Tallarico: fame consolidated into few figures; contributors vanish. Pattern across media and centuries.
 - **Institutional vs. individual credit** — Nintendo R&D, Square in-house; contractors taking public fame
 - **Nintendo seal / publisher quality** — Square and Rare peak during Nintendo partnership; decline after leaving (Square→PlayStation, Rare→Microsoft)
 - **Loyalty tokens** — Jeremy Soule's reported demand (gospel symphony) as gatekeeping

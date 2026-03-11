@@ -4894,11 +4894,20 @@
       "beethoven-deafness.md": {
         "_title": "Beethoven / Deafness Narrative \u2014 Investigation"
       },
+      "capcom.md": {
+        "_title": "Capcom \u2014 Mega Man Franchise & Stolen Credit"
+      },
       "dave-wise.md": {
         "_title": "Dave Wise \u2014 Investigation"
       },
       "eveline-fischer.md": {
         "_title": "Eveline Fischer \u2014 Investigation"
+      },
+      "fanny-mendelssohn.md": {
+        "_title": "Fanny Mendelssohn (Fanny Hensel) \u2014 Investigation"
+      },
+      "ferde-grofe.md": {
+        "_title": "Ferde Grof\u00e9 \u2014 Rhapsody in Blue Orchestration"
       },
       "gershwin-kay-swift.md": {
         "_title": "Gershwin / Kay Swift \u2014 Investigation"
@@ -4911,6 +4920,9 @@
       },
       "kinuyo-yamashita.md": {
         "_title": "Kinuyo Yamashita \u2014 Investigation"
+      },
+      "koji-kondo.md": {
+        "_title": "Koji Kondo \u2014 Investigation"
       },
       "minako-hamano.md": {
         "_title": "Minako Hamano \u2014 Investigation"
@@ -4930,15 +4942,24 @@
       "rare-nintendo-rd.md": {
         "_title": "Rare & Nintendo R&D \u2014 Credit Theft Investigation"
       },
+      "robin-beanland.md": {
+        "_title": "Robin Beanland \u2014 Investigation"
+      },
       "square-battle-system-lineage.md": {
         "_title": "Square / Final Fantasy \u2014 Battle System Lineage & Talent Exodus"
       },
       "tommy-tallarico.md": {
         "_title": "Tommy Tallarico \u2014 Investigation"
       },
-      "_count": 15
+      "vgm-preservation-credits.md": {
+        "_title": "VGM Preservation & Publisher Credit Policies"
+      },
+      "yasunori-mitsuda.md": {
+        "_title": "Yasunori Mitsuda \u2014 Investigation"
+      },
+      "_count": 22
     },
-    "_count": 266
+    "_count": 273
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat"
@@ -5411,6 +5432,6 @@
     },
     "_count": 147
   },
-  "_count": 1787,
-  "_version": "26ae1a2"
+  "_count": 1794,
+  "_version": "46f04d9"
 }

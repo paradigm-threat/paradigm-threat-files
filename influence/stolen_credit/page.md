@@ -1,7 +1,7 @@
 ---
 title: Stolen Credit in Media
 description: Plagiarism and misattribution as a control mechanism — consolidating fame into controlled personalities. Video game composers, classical music, and institutional credit theft.
-keywords: plagiarist, Tommy Tallarico, Final Fantasy, Nintendo, Square, Dave Wise, Minako Hamano, Mozart, Gershwin, Beethoven
+keywords: plagiarist, Tommy Tallarico, Final Fantasy, Nintendo, Square, Capcom, Mega Man, Chrono Trigger, Mitsuda, Dave Wise, Minako Hamano, Mozart, Gershwin, Beethoven, Fanny Mendelssohn
 ---
 
 # Stolen Credit — Plagiarism as Control
@@ -24,6 +24,10 @@ Plagiarism and misattribution in 20th-century media function as a control mechan
 | [Dave Wise / Rare](dave-wise.md) | Donkey Kong Country; Nintendo R&D credit; Eveline Fischer; Yukio Kaneoka on copyright |
 | [Rare & Nintendo R&D](rare-nintendo-rd.md) | Games without credits; Battletoads, PIN·BOT; 335+ games in VGMPF database |
 | [Minako Hamano](minako-hamano.md) | Super Metroid (Ridley, Maridia, Mother Brain); "often credited only to Yamamoto" |
+| [Capcom / Mega Man](capcom.md) | Platform betrayal, composer churn, leftover theory; MM9 from original projects |
+| [Yasunori Mitsuda](yasunori-mitsuda.md) | Chrono Trigger third hands; Chrono Cross RD Edition corruption; never again at Nintendo level |
+| [Robin Beanland](robin-beanland.md) | DKC Aquatic Ambience four-way copyright; role vs. Wise/Fischer |
+| [Koji Kondo](koji-kondo.md) | Nintendo institutional support; Kaneoka; unrecognized Zelda composers |
 | [Kinuyo Yamashita](kinuyo-yamashita.md) | Mega Man X3 — composed, credited to "Minakuchi Engineering Staff" |
 | [Tommy Tallarico](tommy-tallarico.md) | **Confirmed plagiarist** — Earthworm Jim, Video Games Live |
 
@@ -33,7 +37,15 @@ Plagiarism and misattribution in 20th-century media function as a control mechan
 |---------------|---------|
 | [Mozart / Nannerl](mozart-nannerl.md) | Sister's sonatas lost; Wolfgang credited her as teacher |
 | [Gershwin / Kay Swift](gershwin-kay-swift.md) | "Intimately involved" in Porgy and Bess; no formal credit |
+| [Fanny Mendelssohn](fanny-mendelssohn.md) | 6 songs under Felix's name; Easter Sonata misattributed 40 years |
+| [Ferde Grofé](ferde-grofe.md) | Rhapsody in Blue orchestration; blurry composition line |
 | [Beethoven / Deafness](beethoven-deafness.md) | "Stone deaf" myth exaggerated; Schindler forgeries |
+
+### Methodology
+
+| Reference | Summary |
+|-----------|---------|
+| [VGM Preservation / Credits](vgm-preservation-credits.md) | 335 games without credits; publisher policies; ROM/hex methodology |
 
 ---
 

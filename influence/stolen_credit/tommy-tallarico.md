@@ -25,6 +25,13 @@
 ### Video Games Live Sheet Music
 - Allegations of selling stolen arrangements; orchestras informed of dispute but continued performing.
 
+### Other Uncredited / Misattributed Collaborators (hbomberguy)
+
+- **Todd Dennis** — Original artist; confirmed work attributed to Tallarico.
+- **Keith Arem** — Original artist; confirmed work attributed to Tallarico.
+- **Joey Kuras** — Original artist; confirmed work attributed to Tallarico.
+- **Action:** Investigate each; which games/tracks; extent of misattribution.
+
 ---
 
 ## Pattern

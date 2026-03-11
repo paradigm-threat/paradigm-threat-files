@@ -1,5 +1,15 @@
 [
   {
+    "hash": "46f04d92a85b9dcf36974f3e6a1dfbc4315bda6e",
+    "date": "2026-03-11T12:25:04.000Z",
+    "message": "Update stolen credit page"
+  },
+  {
+    "hash": "bff461fc3d3f85d085ba7389becc5ec53337793d",
+    "date": "2026-03-11T11:34:14.000Z",
+    "message": "feat: Add _version to index.json for PWA cache busting"
+  },
+  {
     "hash": "26ae1a27e095aea4f3296cd7ecb94489538f82a5",
     "date": "2026-03-10T17:03:42.000Z",
     "message": "fix: root-relative URLs; remove dead wget links"
@@ -13,15 +23,5 @@
     "hash": "7c41d6ae5dd7cb91cf299cfc98b6f7c0fd857c9a",
     "date": "2026-03-10T16:44:47.000Z",
     "message": "Add stolen credit investigation: landing page, My Articles link, sync from wget"
-  },
-  {
-    "hash": "479c370bd37a3f22cbd0bded9b99f4e9ca56f2ea",
-    "date": "2026-03-10T13:08:00.000Z",
-    "message": "Investigations migration: copy from timeline, fix links, add indexes, regenerate index.json"
-  },
-  {
-    "hash": "12af1f74550a681b4333d0043242aa951ebb2602",
-    "date": "2026-03-10T12:21:57.000Z",
-    "message": "Update chronology and mudflood pages"
   }
 ]
