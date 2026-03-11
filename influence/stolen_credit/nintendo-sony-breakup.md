@@ -79,13 +79,25 @@ Ken Kutaragi convinced Sony to build their own console. CD-ROM, strong developer
 
 ---
 
-## 9. Nintendo and Square's Long Rift
+## 9. Super Mario RPG: A Suspicious Reassurance
+
+**Super Mario RPG: Legend of the Seven Stars** (March 1996 Japan, May 1996 North America) was a joint Square–Nintendo project announced in 1995 — the same period when Square was actively developing Final Fantasy VII for PlayStation and preparing to defect. The timing is more than a little suspicious.
+
+**The Project:** Directed by Chihiro Fujioka (Square), produced by Shigeru Miyamoto (Nintendo). Yoko Shimomura composed. The game fused Square's RPG expertise (turn-based combat, party dynamics, narrative depth) with Nintendo's Mario legacy (platforming, jumping, tactile controls). It was explicitly framed as "the best of both worlds": an RPG where no blood is shed, with characters that children and adults could love. Heavy tradition — Miyamoto insisted on the hammer; Square had to drop their weapon-centric RPG dogma to fit Mario. The result was an evolved narrative experience, warm, self-reflective, and broadly inspirational.
+
+**The Signal:** For fans, Super Mario RPG seemed to announce that **everything was alright** in the Square–Nintendo relationship. Here was a dream collaboration: two revered developers, mutual respect, a shared ambition to "bring out the best of Mario" and reach worldwide audiences. The game was a love letter to the partnership — Square and Nintendo at the table together, Miyamoto and Fujioka in good-natured dialogue, "we freed ourselves" of established-series restrictions to make something new. Best of all worlds.
+
+**The Irony:** Months after release, Square announced FF7 would be PlayStation-exclusive. The divorce was already in motion. Square had been courting Sony while Nintendo believed the Mario RPG collaboration signified commitment. In hindsight, Super Mario RPG reads as either: (a) a sincere final gesture before the split, (b) a calculated reassurance to keep Nintendo passive while Square completed the defection, or (c) a cruel coincidence. Whatever the intent, the game has aged into a poignant artifact — a last shared moment before the rift, suspended in the moment when it still seemed possible that Square and Nintendo could build something lasting together.
+
+---
+
+## 10. Nintendo and Square's Long Rift
 
 Nintendo leadership viewed Square's departure as a betrayal. Square released no major games on Nintendo platforms for years. Relations improved after Yamauchi stepped down, Square merged with Enix, FF Crystal Chronicles (GameCube 2003).
 
 ---
 
-## 10. Cultural Note: Toonami Game Reviews
+## 11. Cultural Note: Toonami Game Reviews
 
 Late-1990s Toonami (Cartoon Network) included game review segments. Creators: Jason DeMarco, Sean Akins, Michael Cahill. Produced at Williams Street; built credibility with gaming audience.
 
@@ -94,6 +106,7 @@ Late-1990s Toonami (Cartoon Network) included game review segments. Creators: Ja
 ## Connection to Stolen Credit Thesis
 
 - **FF7 design origin:** FF7 was conceived for the Nintendo CD ecosystem (SNES add-on / Play Station) that never released. The game's scope and tech requirements match that planned platform.
+- **Super Mario RPG as signal:** The 1996 joint project — warm, tradition-heavy, "best of both worlds" — arrived as Square was preparing its PlayStation defection. Read as either sincere last gesture or calculated reassurance; either way, a painful artifact of the divorce.
 - **Sprite/engine schism:** Square refused to back-port to Nintendo engine; upgraded battle system in extra year; world vs. battle sprites never unified.
 - **Post-defection decline:** Square lost Nintendo partnership; FF8/9 showed they couldn't replicate FF7-level ambition.
 - **Talent exodus:** Gebelli, Sakaguchi, Matsuno; Square "collapsed" (Uematsu). See [square-battle-system-lineage.md](square-battle-system-lineage.md), [nobuo-uematsu.md](nobuo-uematsu.md).

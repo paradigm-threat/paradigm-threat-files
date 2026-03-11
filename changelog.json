@@ -1,5 +1,10 @@
 [
   {
+    "hash": "c15c72e6e9557a9aa850cfced312c45a5191bc0a",
+    "date": "2026-03-11T14:44:46.000Z",
+    "message": "Add Yakuza remote-control investigation: British influence, media capture, Abe assassination, tech containment"
+  },
+  {
     "hash": "52b10763c4d6a34e0e958f932619a796c48068ac",
     "date": "2026-03-11T14:36:39.000Z",
     "message": "Update Mitsuda investigation: franchise corruption thesis"
@@ -18,10 +23,5 @@
     "hash": "bff461fc3d3f85d085ba7389becc5ec53337793d",
     "date": "2026-03-11T11:34:14.000Z",
     "message": "feat: Add _version to index.json for PWA cache busting"
-  },
-  {
-    "hash": "26ae1a27e095aea4f3296cd7ecb94489538f82a5",
-    "date": "2026-03-10T17:03:42.000Z",
-    "message": "fix: root-relative URLs; remove dead wget links"
   }
 ]
