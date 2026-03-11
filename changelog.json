@@ -1,5 +1,10 @@
 [
   {
+    "hash": "62ffc9547b2fc83c060cf9961ddf24cba37b885f",
+    "date": "2026-03-11T23:09:01.000Z",
+    "message": "Add retrospective blog entries from git history (Oct 2023–Feb 2026)"
+  },
+  {
     "hash": "d6aa8ec02e6c9ce4a871f8d7b1ce78988d995b5a",
     "date": "2026-03-11T22:49:40.000Z",
     "message": "Add blog content and BLOG.md documentation"
@@ -18,10 +23,5 @@
     "hash": "1ba017db6957fef828cbef0cd8e056e030de3d99",
     "date": "2026-03-11T19:39:39.000Z",
     "message": "Microchips shrinking technology investigation: thesis vs mainstream, PP for shrinking (objects vs lifeforms), Nintendo chip supply chain, Taiwan consolidation, optical media parallel"
-  },
-  {
-    "hash": "2e963f676e6fef4bfaa543648a9aba80d4fc49bb",
-    "date": "2026-03-11T18:20:08.000Z",
-    "message": "Add Mayan Q4 to common-questions; regenerate predictive programming page with media catalog, images; use 'our position'; indigenous-creation-dates ref"
   }
 ]
