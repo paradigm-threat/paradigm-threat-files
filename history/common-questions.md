@@ -18,8 +18,9 @@ WORKFLOW:
      question overlaps with an existing one, merge or skip it.
   4. RESEARCH — Search paradigm-threat-files, paradigm-threat-timeline, and
      paradigm-threat-site for relevant passages, quotes, and citations.
-  5. ANSWER — Write a succinct response (2-6 paragraphs). End with a short
-     citation list (source title + author/origin only, no URLs).
+  5. ANSWER — Write a succinct response (2-6 paragraphs). Use "our position" not
+     "this project's position." End with a short citation list (source title +
+     author/origin only, no URLs).
   6. CITE — Use only material found in this project. If no project source
      covers a claim, note the gap rather than inventing an answer.
 
@@ -27,11 +28,21 @@ QUESTION REGISTRY (to prevent duplicates):
   - Q1: Does modern chronology rest on independent science or on Scaliger?
   - Q2: Can physical dating methods be trusted independently of written records?
   - Q3: Do all indigenous civilizations share the same origin story?
+  - Q4: Why did the Maya civilization collapse? Why was it advanced? Why does mainstream say they collapsed 1000+ years ago?
 
 When adding new questions, update this registry and use the next sequential
 number (Q4, Q5, …).
 ================================================================================
 -->
+
+---
+
+## Index
+
+- [Q1 — Scaliger and independent chronology](#q1-does-modern-chronology-rest-on-independent-science-or-does-it-ultimately-depend-on-the-framework-created-by-scaliger-and-the-church)
+- [Q2 — Physical dating methods](#q2-can-physical-dating-methods-tree-rings-ice-cores-radiometric-dating-be-trusted-as-independent-checks-on-chronology)
+- [Q3 — Indigenous origin stories](#q3-do-all-indigenous-civilizations-really-share-the-same-origin-story-or-are-the-similarities-just-universal-human-patterns)
+- [Q4 — Maya civilization collapse](#q4-why-did-the-maya-civilization-collapse-why-was-it-advanced-why-does-the-mainstream-record-say-they-collapsed-over-1000-years-ago)
 
 ---
 
@@ -71,7 +82,7 @@ Tree rings have been used to calibrate carbon-14 timelines, but the oldest *veri
 
 Electric Universe theorists argue that radiometric dating assumes a uniformitarian model where radioactive elements were created during solar system formation and have decayed steadily since. Under the electrical model, interplanetary discharges cause transmutation of elements and create radioisotopes in real time, invalidating the assumption of steady decay. A global carbon-14 spike found in tree rings dated to 774–775 CE (detected in Germany, Russia, the United States, Finland, and New Zealand) demonstrates that catastrophic events can dramatically alter isotope ratios, undermining the assumption of a stable baseline.
 
-The project's position is that carbon-14 dating became the primary means of rewriting Earth's natural history during the war-time scientific revolution, and that the "convergence" of dating methods is an artifact of mutual calibration against Scaligerian assumptions rather than genuine independence.
+Our position is that carbon-14 dating became the primary means of rewriting Earth's natural history during the war-time scientific revolution, and that the "convergence" of dating methods is an artifact of mutual calibration against Scaligerian assumptions rather than genuine independence.
 
 **Citations:**
 - *Radio-Carbon-Dating Q&A* — paradigm-threat-files/history/chronology/history-qa
@@ -120,3 +131,33 @@ Furthermore, the Saturn theory holds that ancient myth and ritual typically comm
 - *Recovering the Lost World* — Jno Cook
 - *Pawnee Ceremonies* — J. Murie, Smithsonian Contributions to Anthropology 27, 1981
 - *Creation Dates Validation* — paradigm-threat-timeline/investigations
+
+---
+
+## Q4: Why did the Maya civilization collapse? Why was it advanced? Why does the mainstream record say they collapsed over 1000 years ago?
+
+**The argument:** Mainstream archaeology places the Maya "Classic Collapse" around 800–900 CE. The Maya were advanced — calendars, writing, mathematics, pyramids — but they allegedly vanished or abandoned their cities a millennium ago. Climate change, overpopulation, warfare, or drought are offered as explanations. What remains today are ruins and a small population of Maya-speaking peoples.
+
+**Response:**
+
+The paradigm-threat investigation treats the mainstream "Maya collapse 1000 years ago" as redacted history serving four related functions:
+
+**(a) Pushing recent crimes into the distant past.** If the Maya "collapsed" in 900 CE, no one living is responsible. The destruction of Maya cities, codices, and populations can be presented as an ancient mystery rather than a recent campaign. Fomenko's New Chronology compresses conventional "ancient" dates into the medieval period — events dated to the first millennium CE may reflect phantom years. The same chronological shifts (roughly 333, 1,053, and 1,800 years) that Fomenko identifies in European chronicles apply to Mesoamerican dating. Pushing the "collapse" backward absolves the victors who wrote the records.
+
+**(b) Denying pyramids and major structures were built by the Rus Horde or prior.** Mesoamerican pyramids at Chichen Itza, Tikal, Palenque, and elsewhere are part of a global pyramid distribution — Egypt, China, Sudan, Bosnia, Indonesia, the Pacific. Fomenko places pyramid construction in the XIV–XVI centuries CE as part of the Horde's monumental building programme, using geopolymer concrete (cast limestone, not quarried blocks). The timeline notes that attributing Mesoamerican pyramids to "ancient Maya" who "mysteriously vanished" denies both the Horde's construction technology and the possibility that pyramids predate Christianity as electromagnetic/cathodic structures inherited from the Golden Age. Mainstream dating pushes these structures into the deep past to avoid the question of who actually built them.
+
+**(c) The Catholic Church's takeover of America.** The [1492 CE Apocalypse Crusade](/timeline/evt-the-apocalypse-crusade-reverse-exodus) swept through Western Europe and extended via Hordian troops from Siberia through Alaska into North America — an event mainstream history records as "Aztec genocide of the Mayans" or Spanish conquest. The Crusade replaced free gnostic Christianity with institutional Christianity requiring priests and doctors for salvation. Columbus (*Cristóbal Colón* — "Colony of Christ") and the conquest of the Americas are part of this programme. [Population Control: From 1492 to the Present](/timeline/evt-population-control) frames five centuries of colonial genocide as a coordinated population-management system. Dating the Maya collapse to 900 CE erases the role of 1492 and the subsequent Catholic/colonial takeover.
+
+**(d) The destruction of the "Mayans" as part of a broader genocide of Native Americans starting in the 18th century — denied today.** The [Trail of Tears: Century-Long Erasure](/timeline/evt-trail-of-tears-century-long-erasure) documents a campaign beginning in **1758** (first Indian reservation, Brotherton, NJ) — sixteen years before the [MudFlood Energetic Event](/timeline/evt-the-mudflood-and-world-cataclysm) (~1774). The official Trail of Tears (1830–1839) was the *final stage*, not the beginning. By 1839, Native Americans — including remnants of Mesoamerican civilization — had been confined, displaced, starved, stripped of technology, and reduced to "sticks and stones" for eighty-one years. Indian boarding schools (1819–1969) enforced cultural erasure: "Kill the Indian, save the man." The [MudFlood and World Cataclysm: Extended Evidence](/timeline/evt-mudflood-extended-evidence) notes that the Smithsonian Institution (founded 1846) systematically excavated and suppressed giant skeletal remains, reclassifying them and establishing the narrative that indigenous Americans were Stone Age cave dwellers. The "Maya collapse 1000 years ago" narrative fits this pattern: it denies that the destruction of Maya peoples, cities, and knowledge was part of the same 18th–19th century campaign that produced the Trail of Tears.
+
+**Why were the Maya advanced?** The same cosmological inheritance that produced the [Popol Vuh](/history/common-questions#q3-do-all-indigenous-civilizations-really-share-the-same-origin-story-or-are-the-similarities-just-universal-human-patterns) (Quiché Maya creation text describing a fixed sun at the north celestial pole) and the [Chilam Balam](/history/common-questions#q3-do-all-indigenous-civilizations-really-share-the-same-origin-story-or-are-the-similarities-just-universal-human-patterns) (Jupiter catching fire as celestial spectacle) — both cited in Q3 — suggests the Maya preserved Saturnian Cosmology and the astronomical knowledge of the Golden Age. Their "advancement" was not independent invention but inheritance from a prior global civilization. The mainstream "collapse" narrative obscures this continuity and treats their knowledge as lost ancient mystery rather than deliberately erased.
+
+**Citations:**
+- *History: Fiction or Science?* — Fomenko (chronologia.org)
+- *Fomenko and the Pyramid Question* — paradigm-threat-timeline/content/16.appendix
+- *Pyramids: Myths vs Reality* — paradigm-threat-timeline/content/03.the-dark-ages
+- *1492 CE — The Apocalypse Crusade* — paradigm-threat-timeline/content/09.ce-15th-ottoman-conquest-of-europe
+- *Population Control: From 1492 to the Present* — paradigm-threat-timeline/content/15.ce-21st-the-final-struggle
+- *Trail of Tears: Century-Long Erasure* — paradigm-threat-timeline/content/12.ce-18th-mudflood-and-pugachev
+- *The MudFlood and World Cataclysm: Extended Evidence* — paradigm-threat-timeline/content/16.appendix
+- *Indigenous Creation Dates* — paradigm-threat-timeline/investigations/chronology
