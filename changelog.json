@@ -1,5 +1,10 @@
 [
   {
+    "hash": "26ae1a27e095aea4f3296cd7ecb94489538f82a5",
+    "date": "2026-03-10T17:03:42.000Z",
+    "message": "fix: root-relative URLs; remove dead wget links"
+  },
+  {
     "hash": "9d3250e901fc8af8d1bbf7b988d1d365125a35e3",
     "date": "2026-03-10T16:48:13.000Z",
     "message": "Fix investigation links: point to paradigm-threat-files paths (timeline investigations removed)"
@@ -18,10 +23,5 @@
     "hash": "12af1f74550a681b4333d0043242aa951ebb2602",
     "date": "2026-03-10T12:21:57.000Z",
     "message": "Update chronology and mudflood pages"
-  },
-  {
-    "hash": "e0de546b6ac5fac95efe5a5bc0a3308e9e8d9fc7",
-    "date": "2026-03-07T14:10:43.000Z",
-    "message": "Update Paradigm Threat mission statement — intellectual challenge to every paradigm"
   }
 ]

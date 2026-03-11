@@ -2,6 +2,8 @@ import os
 import json
 import base64
 import io
+import subprocess
+from datetime import datetime
 from PIL import Image
 
 def get_lqip(image_path):
@@ -103,7 +105,19 @@ def generate_index():
 
     tree, count = build_tree(repo_dir)
     tree['_count'] = count
-    
+
+    # Add _version for PWA cache busting (paradigm-threat-site)
+    try:
+        version = subprocess.check_output(
+            ['git', 'rev-parse', '--short', 'HEAD'],
+            cwd=repo_dir,
+            stderr=subprocess.DEVNULL,
+            text=True
+        ).strip()
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        version = datetime.utcnow().strftime('%Y%m%d%H%M')
+    tree['_version'] = version
+
     with open(output_file, 'w') as f:
         json.dump(tree, f, indent=2)
     
