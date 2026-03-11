@@ -66,6 +66,8 @@ or *not* believing.
 * [The Deep State is on Mars](/cosmos/mars)
 * [Earth History Timeline Reconstruction](/history/chronology)
 * [Stolen Credit in Media — Plagiarism as Control](/influence/stolen_credit)
+* [Microchips: Nobody Knows How They're Made](/science/microchips/investigations/microchips-shrinking-technology-investigation) — Major finding: deliberate worldwide system of control
+* [Artificial Intelligence and the Ghost in the Machine](/science/ai/page) — Deliberate bad software; AI as deep-state endgame
 
 <figure className="sm:float-left clear-left m-auto sm:m-1 sm:mr-6 sm:max-w-sm">
   <iframe width="360" height="200" src="https://www.youtube.com/embed/yi2zdXQ7A5o"
