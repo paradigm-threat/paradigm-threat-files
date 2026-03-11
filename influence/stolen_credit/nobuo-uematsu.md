@@ -63,7 +63,7 @@
 - Reception generally positive but not at FF peak level.
 
 ### Square-Era Collaborators
-- Chrono Trigger: Co-composed with Yasunori Mitsuda (Uematsu helped when Mitsuda fell ill).
+- Chrono Trigger: Co-composed with Yasunori Mitsuda (Uematsu helped when Mitsuda fell ill). Noriko Matsueda composed "Boss Battle 1"; CT credits may obscure additional hands. See [yasunori-mitsuda.md](yasunori-mitsuda.md).
 - Other titles: Mitsuda, Nakano, Hamauzu, Ito. No documented uncredited collaborators on FF specifically.
 
 ### FF7 / FF8 / FF9 — Leftover Music & Reuse Accusations
@@ -93,15 +93,17 @@
 
 **User theory:** Uematsu's best work required Nintendo R&D/institutional support (e.g. uncredited staff like sound programmers Minoru Akao, Eiji Nakamura, Kenji Nagashima; arrangers like Shiro Hamaguchi). When Square left Nintendo, that support structure eroded. Same pattern: **Rare** (Nintendo era: GoldenEye, Banjo, DK64 vs. Microsoft era: Grabbed by Ghoulies, Perfect Dark Zero); **Square** (SNES peak vs. post-split decline).
 
-**Note:** "Manaco" / Makoto Tomozawa — Capcom composer (Mega Man X, X3, X7, Legends), not Square. Possible user meant a different name. Square sound staff: Mitsuda, Hirota, Hamaguchi (arranger), Akao (programmer).
+**Note:** User meant **Minako Hamano** (Nintendo — Super Metroid, Metroid Fusion, Link's Awakening, DKC), not Makoto Tomozawa (Capcom/Mega Man X3). See [minako-hamano.md](minako-hamano.md). Square sound staff: Mitsuda, Hirota, Hamaguchi (arranger), Akao (programmer).
 
 **Cross-reference:** [square-battle-system-lineage.md](square-battle-system-lineage.md) — Nasir Gebelli (battle system architect) removed from franchise; Iran/revolution context; FF5/Tactics/12 split; Square talent exodus.
 
 ### Industry Parallels: Recycled/Leftover Music
 
+**The left-over theory:** High-value productions like FF7 and Mega Man X1/X2 generate tens or hundreds of unused songs. These leftovers remain credited to the original composer. Corporations misuse this: they deploy leftover material (technically created by the composer) in sequels or later projects, which reinforces the solo-credit narrative — i.e. they deny the composer ever had any help, because the entire leftover pool is attributed to the single named figure. The sheer volume of "his" output obscures institutional support or ghost work.
+
 **Mega Man X3:** Composer **Kinuyo Yamashita** went **uncredited**; soundtrack attributed to "Minakuchi Engineering Staff." Same for Mega Man: The Wily Wars. Yamashita freelanced via Minakuchi; Capcom credited the contractor, not her.
 
-**Mega Man 9:** Deliberate NES throwback; composers included **Manami Matsumae** (original Mega Man 1) and Yoshihiro Sakaguchi. Some tracks "adapted from Mega Man 2." MM9 was new compositions in retro style — not literal leftovers from a cancelled NES MM7, but melodic continuity from classic era.
+**Mega Man 9:** Composed by team III (Yamada, Kawakami, Shimoda, Isogai) plus Manami Matsumae and Yoshihiro Sakaguchi. **Leftover from original projects:** Seven tracks adapted from Mega Man 2 (Overdrive Scramble, Ending, Get a Weapon, Shop, Stage Clear, Game Start, Opening 3). MM9 reused material from MM1/MM2 era—not from a cancelled project. The unplanned NES Mega Man 7 would have had an entirely original OST if Capcom had retained the team; instead they fired everyone, started over on SNES, and later deployed leftovers from the original NES era in MM9. See [capcom.md](capcom.md).
 
 **VGMRips forum:** Extensive catalog of recycled music across sequels (Spider-Man, NBA Jam, SpongeBob, Tony Hawk, Crash Bandicoot GBA, etc.). Pattern: tracks from Game A reappear in Game B, sometimes rearranged; composer credit may not reflect origin.
 
@@ -110,7 +112,7 @@
 ## Open Questions
 
 - Which FF9 tracks, if any, reuse or adapt FF7/FF8 material without clear acknowledgment?
-- Identity of "Manaco" or similar uncredited Nintendo/R&D collaborator user recalls.
+- Role of Minako Hamano (Nintendo) or similar uncredited Nintendo/R&D collaborator in Square-era pipeline.
 - Did Square have a sound-team pipeline with Nintendo during SNES era?
 - Were any "Uematsu" tracks ghostwritten or heavily arranged by others?
 - How much did Sakaguchi (or other directors) shape the music?
