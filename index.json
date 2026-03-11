@@ -4231,6 +4231,9 @@
       "13_families.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAQCdASoQAAwABUB8JZwAAuUkRBgA3mcslcMNAJz4kZxKe5y2ujvUDoQJ+nzpNBaOgG3S1KRZjhlM569QbCmS/lDGCTS3J/Ic8CizymAAAA=="
       },
+      "15-minute-cities.png": {
+        "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoLABAABUB8JZwAAtz1Qby0AAD+6qbW9s0FWKxsXo2rDsMrfwiO12lzDjVWjQAA"
+      },
       "440hz.jpg": {
         "_lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoNABAABUB8JYgCdACRJTHW4AAA/sKGul8gsr38D1TE9bM6pdNi76J1yFDY/x7EP0/qSDYWaaQL8OQI/gM0E4OWIYbBnnAAAAA="
       },
@@ -4355,6 +4358,9 @@
       },
       "deepstate_mindset.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoLABAABUB8JaQAAuTtN+19cAD+771La0Bkammi2/mzSXCqxkPx2ZI1gZvnSkAA"
+      },
+      "designated-reservations.png": {
+        "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAsABUB8JZQAAujeuaAAAP7fKDwUeaeEpNyYEYw8gECJF8PgqAAA"
       },
       "dew_damage.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoLABAABUB8JaQAAud4apf6GKAA/sXQOYJCz0DsRw8IjeaTt0RP1hAA"
@@ -4601,7 +4607,7 @@
       },
       "z.md": {},
       "zoot.md": {},
-      "_count": 136
+      "_count": 138
     },
     "hollywood": {
       "esoteric_hollywood.jpg": {
@@ -4860,6 +4866,9 @@
       },
       "_count": 61
     },
+    "public-schools.jpg": {
+      "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoLABAABUB8JYwCdADdjh7ahiLAAP6wzmzq5oR3pz+bp3giTouZ8z9obq34rwMqCsAkLAijZEhiwYM3xNgANciSAAA="
+    },
     "religion": {
       "abracadabra.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoQABAABUB8JQBdgCHR2/ueEAD8s6LKwjL2b/GSgEvjrqfhvfkygQqS1/jUx2CIFVWoS0Od4jN0LfZ8/n8J6OpAAAA="
@@ -4965,7 +4974,7 @@
       },
       "_count": 22
     },
-    "_count": 274
+    "_count": 277
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat"
@@ -5326,6 +5335,18 @@
       },
       "_count": 5
     },
+    "microchips": {
+      "investigations": {
+        "index.md": {
+          "_title": "Microchips Investigations"
+        },
+        "microchips-shrinking-technology-investigation.md": {
+          "_title": "Microchips: Shrinking Technology Investigation"
+        },
+        "_count": 2
+      },
+      "_count": 2
+    },
     "nukes": {
       "A.md": {},
       "Fireball.jpg": {
@@ -5436,8 +5457,8 @@
       },
       "_count": 10
     },
-    "_count": 147
+    "_count": 149
   },
-  "_count": 1796,
-  "_version": "0d3d4ac"
+  "_count": 1801,
+  "_version": "2e963f6"
 }
