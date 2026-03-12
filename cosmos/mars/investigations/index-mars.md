@@ -138,6 +138,7 @@ Arnold has **River of the Dead** (one-way, carries corpses to falls) and **ice v
 ## IV. Cross-References
 
 - [mars-fiction-survey.md](mars-fiction-survey.md) — full Mars literature survey
+- [mars-stock-market-correlation.md](mars-stock-market-correlation.md) — Mars/Dow Jones correlation (1896–2020); *Ares Le Mandat* appendix
 - [arnold-gullivar-jones-reference.md](arnold-gullivar-jones-reference.md) — Arnold reference
 - [wotw-telepathic-purge.md](wotw-telepathic-purge.md) — telepathic purge motif
 - [Barsoom README](../burroughs_barsoom/README.md) — Barsoom index overview

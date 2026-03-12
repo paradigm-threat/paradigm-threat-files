@@ -264,6 +264,7 @@ Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: loca
 - `wotw-forbidden-blood.md` — Blood-feeding as discipline collapse
 - `wotw-timeline.md` — Day-by-day timeline of the 1894–1895 incursion
 - `death-on-mars.md` — Brandenburg's *Death on Mars* analysis
+- [mars-stock-market-correlation.md](mars-stock-market-correlation.md) — Mars/lunar-node correlation with Dow Jones (1896–2020); *Ares Le Mandat* appendix
 
 ### External Investigations
 - [iron-age-of-mars](/cosmos/cosmology/de_grazia/books/iron-age-of-mars.md) — De Grazia's catastrophist Mars synthesis

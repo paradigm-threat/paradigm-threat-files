@@ -112,6 +112,7 @@ Predictive programming presents AI in a very dim light: humans rely on robots as
 | **Jules Verne** | [jules-verne/](fiction_encoding/jules-verne/) | Novels as declassified technology manuals |
 | **H.P. Lovecraft** | [lovecraft/](fiction_encoding/lovecraft/) | Cosmic horror as suppressed cosmological memory |
 | **Zombie genre** | [zombies/](fiction_encoding/zombies/) | Pre-20th c. roots; Stoker-like framing; Ishtar, ghouls, revenants |
+| **Ed Wood / Plan 9** | [ed-wood-plan9/](fiction_encoding/ed-wood-plan9/) | Predictive programming funding thesis; controlled opposition; zombie-apocalypse-as-alien-takeover; Wood as agent |
 | **Mars convergence** | paradigm-threat-timeline, wget investigations | Arnold, Burroughs, Lewis, Wells — dying planet, telepathy, control structures; see [Mars Catastrophe](https://paradigmthreat.net/timeline/evt-mars-catastrophe-brandenburg) |
 | **Microchips / shrinking technology** | [microchips-shrinking-technology-investigation](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation) | **Major finding:** Nobody knows how chips are made; deliberate worldwide control. Objects vs lifeforms rule; predictive programming for shrinking |
 | **AI / deliberate bad software** | [ai-control-investigation](https://paradigmthreat.net/science/ai/ai-control-investigation) | Robots as slaves, turn on humans; "nothing works" so only AI can operate systems; ghost in machine = deep-state hijacking |
@@ -148,6 +149,7 @@ Media identified as containing predictive programming by external sources or our
 | *The Manchurian Candidate* | 1962 | MK Ultra–like mind control; code phrase triggers assassination. Novel 1959. | Wikispooks |
 | *Mars Needs Women* | 1967 | Martian breeding programme; women abducted for repopulation. | Ours |
 | *Night of the Living Dead* | 1968 | Zombie apocalypse; bodies without consciousness. | Ours, Common |
+| *Plan 9 from Outer Space* | 1957 | Aliens resurrect dead via pituitary assault; zombie armies overwhelm capitals; solaronite doomsday; takeover through disclosure. Ed Wood controlled-opposition thesis. | Ours |
 | *Rocketship X-M* | 1950 | Dead Mars civilization; Geiger counters register nuclear war. | Ours |
 | *Soylent Green* | 1973 | Population reduction; food crisis; Club of Rome / Agenda 2030 themes. | Wikispooks |
 | *Stargate* | 1994 | Pyramid as portal; "ancient aliens" capture of pyramid function. | Ours |
@@ -206,6 +208,7 @@ Media identified as containing predictive programming by external sources or our
 | Title | Year | Description | Source |
 |-------|------|-------------|--------|
 | *Half-Life 2* | 2004 | Combine occupation; portal tech; suppression field; CERN resonance; transhumanism. | Ours |
+| *EarthBound* | 1994 | Alien invader (Giygas) conquers Earth; styled on 1950s sci-fi B-movie themes; same alien-takeover template as Plan 9. | Ours |
 | *Jeff Wayne's War of the Worlds* (PC) | 1998 | "Mass telepathic execution"; technocrats wipe out spiritual faction. | Ours |
 | *Archon Defender* | 2009 | "Uprising was a lie. Epidemic was a lie. Medical screening to identify Shard Sensitive." | Ours |
 | *Conan Exiles* | 2017 | Star Metal = Yaroslavl meteorite tech as fantasy. | Ours |
