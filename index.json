@@ -637,6 +637,9 @@
         "mars-stock-market-correlation.md": {
           "_title": "Mars and the Stock Market: Investigation into Celestial Correlation"
         },
+        "mars-stock-market.png": {
+          "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAkABUB8JQBOgCIg9vfgAAD+3HJ6y3l4+p97IclWJZMS3/1jUNRtDYAAAA=="
+        },
         "wotw-forbidden-blood.md": {
           "_title": "The Forbidden Blood: Human Blood-Feeding as Discipline Collapse"
         },
@@ -658,7 +661,7 @@
         "wotw.md": {
           "_title": "The War of the Worlds"
         },
-        "_count": 12
+        "_count": 13
       },
       "life_on_mars_rules_earth.png": {
         "_lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4WAoAAAAQAAAADwAAAwAAQUxQSC4AAAABL0AWYJocwv4EAgmmiAh8OjCKJLltWGkRCIOg6B/sjuh/nEO2HGdlCs5BOZACVlA4IFIAAADQAQCdASoQAAQABUB8JbACdAEVLQv1wAD+cz1S3c8gAQMzYV70tFICnCBiQyoaT9YArAIR9KJDEx8IXxCPFpb9LjrsR4EOw/2LB3TrLfyAAAAA"
@@ -813,9 +816,9 @@
       "wotw_technology_heat_ray.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAA0ABUB8JbACdADL15oC+i0AAPzw/AmimuryhfDnGTQuyUf+YPd74p+YEN1dkBPy2BrCrnIWtjroI0e+KHnZ0aheyZpM8wQAAA=="
       },
-      "_count": 91
+      "_count": 92
     },
-    "_count": 256
+    "_count": 257
   },
   "docs": {
     "BAD_MEDIA_URLS.md": {
@@ -5516,6 +5519,6 @@
     },
     "_count": 149
   },
-  "_count": 1819,
-  "_version": "45f766d"
+  "_count": 1820,
+  "_version": "58e6b8c"
 }

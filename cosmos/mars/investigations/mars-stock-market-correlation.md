@@ -1,5 +1,7 @@
 # Mars and the Stock Market: Investigation into Celestial Correlation
 
+![Mars, lunar node, and Dow Jones correlation](mars-stock-market.png)
+
 ## Summary
 
 Multiple researchers have documented statistical correlations between Mars orbital positions and Dow Jones performance since 1896. The primary source in this repository — *Ares Le Mandat* — hypothesizes that the Federal Reserve may set interest rates based on Mars movements. A provocative interpretive lens: if Mars position correlates with market behavior, are Martians trading? This investigation documents the claims, cites sources, and identifies verifiable data points. Interpretation remains open.
@@ -51,6 +53,14 @@ The **lunar nodes** mark where the Moon's inclined orbit crosses this plane — 
 - Eclipse events (which require the Moon at the node) are associated in some studies with geomagnetic fluctuations and psychological effects; Mars at the node does not create an eclipse, but it shares the nodal longitude on the ecliptic.
 
 **Conclusion:** Whether the Mars–lunar-node period represents *increased* natural energy transmission between planets is **unproven**. Conventional physics does not predict it. The Electric Universe / plasma framework offers a plausible geometric rationale (Mars aligned with the ecliptic nodal axis, potentially in a plasma/current "hot spot") but no direct measurement or mechanism has been demonstrated. The Dow correlation, if real, could be interpreted as circumstantial support for such an effect — or as coincidence, data mining, or a psychological/karmic artefact depending on one's framework.
+
+### Interpretive Assumption: Harvest Windows
+
+If Mars activity during nodal periods genuinely correlates with stock market crashes, a consequential interpretation follows: **the Mars–lunar-node window is when the real owners of Earth's intellectual property and resources collect what is due, assert stringent rules, and consolidate power.**
+
+The logic: Earth performs well (Dow +721% when Mars is *not* in node) when left alone. Earth performs poorly (+136% when Mars *is* in node — or worse during crash periods) when actively harvested. The same dynamic appears in **bee hives on farms**: hives thrive when left to forage and build; they suffer when the keeper opens the hive to extract honey, replace queens, or impose management. The crash is not accidental — it is the signature of extraction.
+
+Under this assumption, the cyclic world changes (market crashes, wars, regime shifts, consolidation of banks and corporations) during Mars–node periods are not merely economic or political phenomena. They are the outcome of a **harvest cycle** — a time when gate access permits the controllers to collect tribute, enforce compliance, rotate personnel, and adjust the terms of Earth's lease. Earth does well when left alone; Earth does poorly when harvested.
 
 ---
 
@@ -167,6 +177,7 @@ The **lunar nodes** mark where the Moon's inclined orbit crosses this plane — 
 | Dow performs worse when Mars within 30° of lunar node (1896–2020) | **Medium** — Raw data in appendix; 136% vs 721% split |
 | 13%+ declines more frequent in "within" periods (p=0.023) | **Medium** — Statistical significance; single threshold |
 | Mars–lunar-node = increased energy transmission Earth–Mars | **Speculative** — Geometric rationale (ecliptic nodal alignment); no conventional mechanism; EU/plasma hypothesis |
+| Harvest-window interpretation (extraction/consolidation) | **Speculative** — Assumption: Earth thrives when left alone, suffers when harvested; bee-hive analogy |
 | Federal Reserve sets rates based on Mars | **Low** — Stated as hypothesis; no mechanism or evidence |
 | Martians trade on Earth markets | **Speculative** — Interpretive lens; no direct evidence |
 
