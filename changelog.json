@@ -1,5 +1,10 @@
 [
   {
+    "hash": "06090f87f6d73b08368a96d2e4d6d642853a38bd",
+    "date": "2026-03-12T12:55:23.000Z",
+    "message": "Golda investigation: add article image, regenerate index"
+  },
+  {
     "hash": "36f2e026d21050aa69c1e0e8d50d82edad933621",
     "date": "2026-03-12T12:46:11.000Z",
     "message": "Reorganize influence: controlled_opposition folder, conspiracy subfolders, Golda investigation"
@@ -18,10 +23,5 @@
     "hash": "58e6b8c6858a34d726978cae8c6101907be174fb",
     "date": "2026-03-12T11:09:55.000Z",
     "message": "Add Mars–stock market correlation investigation"
-  },
-  {
-    "hash": "45f766dc35700b7996a2ac11d0be2a901ae0551e",
-    "date": "2026-03-11T23:43:43.000Z",
-    "message": "Add blog/page.md with AutoIndex component"
   }
 ]

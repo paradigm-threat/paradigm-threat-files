@@ -4460,17 +4460,53 @@
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQAA8ABUB8JaQAAg+vcAAA/uowVI8e7eb+iksGpvONOujpb5rx9nEFFt4PnmFH11yGAAAA"
       },
       "investigations": {
+        "INDEX-identity-investigations.md": {
+          "_title": "Identity Investigations \u2014 Index and Methodology"
+        },
         "bitcoin.md": {},
+        "brandy-vaughan.md": {
+          "_title": "Brandy Vaughan: Investigation into Death of Merck Whistleblower and Anti-Vax Activist"
+        },
+        "brett-gelman.md": {
+          "_title": "Brett Gelman: Investigation into Conspiracy-Theorist Persona and Hollywood Encoding"
+        },
+        "bruce-lee.md": {
+          "_title": "Bruce Lee: Investigation into Death, Identity, and Hong Kong Intelligence"
+        },
         "circumcision_cult.md": {},
         "criticism.md": {},
+        "gal-gadot.md": {
+          "_title": "Gal Gadot: Investigation into IDF Service, Hollywood Ascent, and Israeli Narrative"
+        },
+        "gandhi.md": {
+          "_title": "Gandhi: Investigation into British Loyalty, Racial Attitudes, and Assassination"
+        },
         "golda.md": {
           "_title": "Golda Meir: Investigation into Identity, British Orchestration, and Israel's Creation"
         },
         "golda.png": {
           "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAkABUB8JQBdgBJrVdmAAPxdooUM6nH5Et0wSMHdwjkcIG94uw2+GeB/ckBS6gK2Xu2hh4AAAA=="
         },
+        "jackie-chan.md": {
+          "_title": "Jackie Chan: Investigation into Political Allegiance and British Hong Kong"
+        },
+        "prince.md": {
+          "_title": "Prince: Investigation into Androgyny, Death, and Identity"
+        },
+        "richard-askwith.md": {
+          "_title": "Richard Askwith: Investigation into British Establishment and Narrative Influence"
+        },
+        "ruth-gordon.md": {
+          "_title": "Ruth Gordon: Investigation into Hollywood Identity and Late-Career Ascent"
+        },
+        "sheila-florance.md": {
+          "_title": "Sheila Florance: Investigation into Australian Identity and Prisoner"
+        },
+        "shelley-winters.md": {
+          "_title": "Shelley Winters: Investigation into Hollywood Identity and Name Change"
+        },
         "zoot.md": {},
-        "_count": 6
+        "_count": 18
       },
       "jesus_cesare_borgia_rex_bellator.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQABAABUB8JaACdAEWCw81HQwA+8/3cbMkjraKzbivb0FwvLVpi7mBg3Zcj1cX2MOwElUfNYU7DoAd1aEgH5dZEMGLrTTvJHwo4XOMhkkoL8AA"
@@ -4644,7 +4680,7 @@
       "wakeup.jpeg": {
         "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADwAQCdASoHABAABUB8JaQAAvqolqtuUEAA/uuBLv6j7KHCptuke6CLOwAAAA=="
       },
-      "_count": 121
+      "_count": 133
     },
     "controlled_opposition": {
       "00.md": {},
@@ -5063,7 +5099,7 @@
       },
       "_count": 21
     },
-    "_count": 279
+    "_count": 291
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat"
@@ -5545,6 +5581,6 @@
     },
     "_count": 149
   },
-  "_count": 1825,
-  "_version": "36f2e02"
+  "_count": 1837,
+  "_version": "06090f8"
 }
