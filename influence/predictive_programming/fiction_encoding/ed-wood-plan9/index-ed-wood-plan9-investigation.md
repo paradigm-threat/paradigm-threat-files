@@ -62,6 +62,8 @@ Edward D. Wood Jr. (1924–1978) was a cross-dresser. He wore women's clothing; 
 
 ### The Controlled-Opposition Pattern
 
+**Financial precarity:** In nearly all investigations into controlled opposition agents, they have had **deep financial trouble** prior to making their most memorable work. Wood was three months behind on rent when Reynolds intervened; he was "scrambling for the money" to pay actors. A desperate filmmaker is pliable—more likely to accept conditions, deliver required content, and avoid scrutiny. The pattern recurs across case studies: precarity precedes the pivot.
+
 **Isolation from mainstream society:** A closeted transvestite in 1950s America was marginal, dependent, and unlikely to be taken seriously by the public. He could make films that reached audiences, but he would never be celebrated, never accepted into elite circles. The public would watch—and ridicule—his work, but would not meet him, would not grant him authority.
 
 **Fit for the role:** An ideal controlled-opposition agent is someone the public will consume but not embrace. Ed Wood fits: his films are seen as jokes; he is the "worst director ever." The narrative propagates; the messenger is discredited.
@@ -127,8 +129,9 @@ This is not the kind of plot a hack writer typically invents. It reads like an *
 | 1950s sci-fi aesthetic | Atomic-age B-movie; flying saucers | Creator explicitly cites 1957 cinema |
 | Human fallibility | "Stupid"; doomsday weapon | Giygas as "all-mighty idiot"; power corrupts |
 | Unconventional defeat | Saucer explodes; zombies decompose | Defeated by prayer, not combat |
+| **Zombies as alien instrument** | Plan 9: aliens resurrect dead via pituitary assault; undead march on capitals | **Threed:** zombies summoned and controlled by **Master Belch**, lieutenant of Giygas, as part of plot to disrupt the world |
 
-*EarthBound* does not encode zombie resurrection per se, but it repeats the **alien-invasion-as-takeover** narrative and the **old sci-fi movie style** as a vessel for that narrative. The recurrence across media (film 1957, game 1994) and across cultures (American B-movie, Japanese RPG) suggests a **persistent template**—one that predates Wood and outlives him.
+**Plot match:** Even if Itoi did not intend to cite Plan 9, the template *does* match. In EarthBound, the zombies in **Threed** are summoned and controlled by **Master Belch**—a lieutenant of Giygas—as part of a plot to disrupt the world. Aliens (Giygas) → zombie armies (Belch's undead in Threed) → chaos → conquest. The recurrence of **zombies-as-instrument-of-alien-disclosure** across media (film 1957, game 1994) and cultures suggests a **persistent template**—one that predates Wood and outlives him.
 
 ### Other Media with Same Template
 
@@ -154,7 +157,9 @@ The Plan 9 variant—**aliens resurrect dead → zombie armies → overwhelm cap
 
 **Working script located:** A vintage 109-page working script dated **November 22, 1956**, titled "GRAVE ROBBERS FROM OUTER SPACE" (later hand-corrected to "PLAN 9"), circulates among Ed Wood enthusiasts and has been analyzed in depth by the Ed Wood Wednesdays blog (Dead 2 Rights). The script appears genuine: formatting matches Wood's known style (*Rue Pigalle*, *Bride of the Monster*); punctuation (dashes, ellipses), character names (Rance), and fetish elements (angora sweater, Paula Trent's nightgown) are consistent with Wood's prose. Scene-by-scene comparison shows the film hews closely to the script; actors sometimes paraphrase. Deleted sequences (e.g., scenes 78–80 with Danny, Jeff, Paula) exist in script but not in release.
 
-**Conclusion:** **No pre-existing outline from an external source has been found.** The script reads as Wood's own—idiosyncratic, typo-ridden ("Dictial Robetary," "Solaronite"), and structurally coherent in the way Wood's fiction is. The operational precision of the *plot logic* (aliens → Plan 9 → zombie armies → disclosure) remains striking, but the *prose and structure* are consistent with Wood's corpus. Either (a) Wood was capable of drafting this scenario himself, or (b) a treatment was supplied and Wood heavily adapted it into his style—the latter cannot be ruled out but has no documentary support.
+**Caveat:** A script matching Wood's style is (A) no proof that it was the *original*—earlier drafts or treatments may have existed—and (B) no proof that it was actually from Wood. Like the Dead Sea Scrolls, it may be a document that "had to be found": authenticity cannot be assumed. If predictive programming requires plausible deniability, a later-planted script that *looks* like Wood's work would serve that purpose.
+
+**Conclusion:** No pre-existing outline from an external source has been found. The circulating script reads as Wood's own—idiosyncratic, typo-ridden, structurally coherent with his corpus. The operational precision of the *plot logic* remains striking. Either (a) Wood drafted it himself, or (b) a treatment was supplied and adapted, or (c) the script itself is a planted artifact. The latter cannot be ruled out.
 
 ### Reynolds / Baptist Funding Records
 
@@ -168,7 +173,7 @@ The Plan 9 variant—**aliens resurrect dead → zombie armies → overwhelm cap
 
 **Itoi's stated inspiration:** Shigesato Itoi has cited **Kenpei to Barabara Shibijin** (*The Military Policeman and the Dismembered Beauty*, 1957, dir. Kyotaro Namiki)—a **Japanese thriller/crime film**, not sci-fi. As a child, Itoi accidentally saw it, mistook a murder scene for a rape scene, and was traumatized. Years later he channeled that emotional impact into Giygas's dialogue and the unsettling tone of the final boss battle. The film has no alien, zombie, or flying-saucer content.
 
-**Conclusion:** **No documented connection between EarthBound and Plan 9.** Itoi drew from 1957 Japanese cinema for *tone* (atrocity, eroticism, audience manipulation), not for plot. The 1957 coincidence (Plan 9 shot Nov 1956, previewed Mar 1957; Kenpei released Aug 1957) is temporal only. EarthBound's alien-invasion narrative may derive from generic 1950s sci-fi tropes (which Plan 9 also inhabits) without direct citation.
+**Conclusion:** Itoi did not cite Plan 9; he cited *Kenpei to Barabara Shibijin* for *tone*. Yet the **plot structure matches**: zombies in Threed are controlled by Master Belch (Giygas's lieutenant) as part of an alien plot to disrupt the world. Intent is separate from convergence—the template recurs whether or not Itoi knew Plan 9.
 
 ### LGBTQ Cinema Funding — Preliminary Findings
 
@@ -178,15 +183,17 @@ The Plan 9 variant—**aliens resurrect dead → zombie armies → overwhelm cap
 
 **Culture-clash criticism:** Directors report ongoing pressure: Pixar removed LGBTQ elements from *Elio* (2025) after test-audience resistance; Pete Docter defended cuts. Todd Haynes, Rhys Ernst, Sophie Hyde have described "open season" on queer narratives, distribution difficulties, "war on nuance." Backlash correlates with funding hesitancy in some cases; in others (Priscilla, mainstream inclusive films) commercial success followed investment.
 
-**Conclusion:** LGBTQ cinema has **mixed ROI**—early exploitation model (Weiss) sought profit via taboo; later government/festival-backed films (Priscilla) proved profitable; contemporary studio inclusion correlates with higher revenue. Controversy is double-edged: it can suppress funding (Pixar cuts) or attract festival/award attention (Priscilla at Cannes). **Outstanding:** No evidence of coordinated Deep State funding; funding sources (Weiss, FFC, studios) are documented and conventional. The thesis that LGBTQ cinema was *covertly* influenced remains an open question requiring archival work on Weimar-era backers, Hays Code-era routing, and post-1990 festival gatekeeping.
+**ROI caveat:** The reported success of LGBTQ-inclusive cinema (Priscilla, Monash +29% study) may itself be **artificial**—powered by a large, rapidly spreading movement that has been described as cult-like in its initiation of children at a vulnerable age. Analogy: *Pulp Fiction* "virgin" viewings—first-time viewers are often initiated through traditions designed for maximum shock (non-chronological order, immersive setup, pop-culture-heavy presentation). The "virgin" experience is curated; repeat viewings and word-of-mouth are driven by initiatory momentum. If LGBTQ normalization in media operated similarly—audiences initiated young, traditions of "first exposure" creating allegiance—then box office and cultural penetration would not reflect organic demand but **initiatory capture**. The cult-like dynamics would inflate ROI metrics while masking the mechanism.
+
+**Conclusion:** LGBTQ cinema has **mixed ROI** by conventional measure. The success narrative may be inflated by initiatory dynamics. No evidence of coordinated Deep State funding; funding sources are documented and conventional. The thesis that LGBTQ cinema was *covertly* influenced—and that its commercial success reflects cultivation rather than organic demand—remains an open question.
 
 ---
 
 ## Outstanding Questions
 
-- [x] ~~Exhaustive search for Plan 9 script drafts or treatment sources~~ — **Addressed:** Working script exists; style consistent with Wood; no pre-existing outline found.
+- [x] ~~Exhaustive search for Plan 9 script drafts or treatment sources~~ — **Addressed:** Working script exists; style consistent with Wood; caveat: no proof it was original or from Wood—may be "document that had to be found."
 - [x] ~~Reynolds / Baptist funding records~~ — **Addressed:** Narrative documented; no primary contracts; Reynolds as exploitation backer, conditions (title, baptism) established.
-- [x] ~~EarthBound development—did Itoi cite Plan 9 or similar B-movies directly?~~ — **Addressed:** No. Itoi cited *Kenpei to Barabara Shibijin* (1957 crime thriller) for emotional tone, not Plan 9.
+- [x] ~~EarthBound development—did Itoi cite Plan 9 or similar B-movies directly?~~ — **Addressed:** Itoi cited *Kenpei* for tone, not Plan 9. *Plot matches regardless*: Threed zombies controlled by Master Belch (Giygas lieutenant).
 - [ ] **LGBTQ cinema funding investigation** — ROI mixed (exploitation profitable; Priscilla profitable; inclusion correlates with +29% revenue). Culture-clash criticism documented. Coordinated covert influence: unproven; open for dedicated investigation.
 
 ---
