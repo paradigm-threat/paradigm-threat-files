@@ -1,5 +1,7 @@
 # Ed Wood and Plan 9 from Outer Space — Investigation
 
+![Plan 9: zombie apocalypse as alien instrument](ed-wood-plan9.png)
+
 **Scope:** Predictive programming funding thesis; controlled opposition; inversion of creative process; zombie-apocalypse-as-alien-takeover encoding.  
 **Cross-ref:** [Zombie genre](../zombies/index-zombie-genre-investigation.md) | [Predictive programming page](../page.md) | [Fiction as control](https://paradigmthreat.net/timeline/evt-predictive-programming)
 
@@ -75,9 +77,17 @@ Edward D. Wood Jr. (1924–1978) was a cross-dresser. He wore women's clothing; 
 
 **Thesis:** Wood's filmography propagates (1) alien/zombie/doomsday predictive programming and (2) early LGBTQ content—transvestites, homosexual themes—preparing audiences for media-driven campaigns in that direction. Such productions are not spontaneous, nor driven by demographics or popularity. They are **designed insertions**.
 
-### Parallel: Egyptian Cinema
+### Open Investigation: International LGBTQ+ Movie History
 
-A comparable pattern appears in other film industries. In Egypt, a classification of films has existed since the 1990s under various names ("LGBTQ-friendly," etc.) that insert homosexual or gender-nonconforming content into otherwise conventional dramas. Documented examples: a normal Egyptian romantic drama about a man pursuing a woman includes a scene where two men perform as a couple in an extended dancing romance—a sequence arbitrary to the plot and alien to local cultural norms. Such inserts are not driven by audience demand or demographic necessity; they function as predictive programming, flushing audiences for future agendas—dividing young from old, men from women, and normalizing narratives that serve external influence.
+A parallel line of inquiry is open: **Whether International LGBTQ+ cinema—from early 20th-century German coded cinema (e.g., *Mädchen in Uniform*, Weimar-era subtext) through modern global representation—was influenced and funded covertly by Deep State agendas.**
+
+Questions under investigation:
+
+- **Funding and ROI:** Were these films good returns for investors? LGBTQ-themed or coded films have historically faced censorship, limited distribution, and market resistance. If they consistently underperformed commercially, what sustained the funding pipeline? Who backed productions that mainstream financiers would not touch?
+- **Culture clash and criticism:** Did producers and directors receive sustained criticism—or backlash—over the culture clashes they were causing with old traditions? If so, did that criticism correlate with funding continuity (i.e., were controversial films greenlit *despite* or *because of* the clashes)? The pattern would support either (a) genuine artistic defiance against commercial logic or (b) agenda-driven insertion where controversy is the point.
+- **Geographic and temporal span:** German Weimar cinema; pre-Code Hollywood; post-Code subtext; New Queer Cinema (1990s); contemporary global festival circuits. The consistency of LGBTQ normalization across regimes, continents, and decades—despite varied commercial outcomes—invites examination of coordinated influence.
+
+*Open investigation; dedicated write-up to be created in `influence/predictive_programming/investigations/`*
 
 ---
 
@@ -138,18 +148,57 @@ The Plan 9 variant—**aliens resurrect dead → zombie armies → overwhelm cap
 
 ---
 
+## Deep Dive: Research Findings
+
+### Plan 9 Script Drafts and Treatment Sources
+
+**Working script located:** A vintage 109-page working script dated **November 22, 1956**, titled "GRAVE ROBBERS FROM OUTER SPACE" (later hand-corrected to "PLAN 9"), circulates among Ed Wood enthusiasts and has been analyzed in depth by the Ed Wood Wednesdays blog (Dead 2 Rights). The script appears genuine: formatting matches Wood's known style (*Rue Pigalle*, *Bride of the Monster*); punctuation (dashes, ellipses), character names (Rance), and fetish elements (angora sweater, Paula Trent's nightgown) are consistent with Wood's prose. Scene-by-scene comparison shows the film hews closely to the script; actors sometimes paraphrase. Deleted sequences (e.g., scenes 78–80 with Danny, Jeff, Paula) exist in script but not in release.
+
+**Conclusion:** **No pre-existing outline from an external source has been found.** The script reads as Wood's own—idiosyncratic, typo-ridden ("Dictial Robetary," "Solaronite"), and structurally coherent in the way Wood's fiction is. The operational precision of the *plot logic* (aliens → Plan 9 → zombie armies → disclosure) remains striking, but the *prose and structure* are consistent with Wood's corpus. Either (a) Wood was capable of drafting this scenario himself, or (b) a treatment was supplied and Wood heavily adapted it into his style—the latter cannot be ruled out but has no documentary support.
+
+### Reynolds / Baptist Funding Records
+
+**Sources:** Collider, Mental Floss, TCM, Wikipedia; no primary contract or church ledger has been located.
+
+**Established narrative:** **J. Edward Reynolds** was Wood's landlord (Beverly Hills). Wood was three months behind on rent. Reynolds confronted him; Wood revealed he was in films. Wood claimed he and associates wanted to make **religious films** but only had money for one. He pitched "Grave Robbers from Outer Space" as a profitable venture whose proceeds would fund the religious productions. Reynolds agreed. **Conditions:** (1) Title change from "Grave Robbers" to "Plan 9" (grave-robbing deemed blasphemous); (2) cast and crew baptism in a Beverly Hills swimming pool. Wood, Tor Johnson, and others acquiesced. Reynolds became executive producer; Hugh Thomas Jr. (church associate) co-producer; both appear as gravediggers. Budget: ~$60,000 (up from Wood's initial ~$800). Reynolds Pictures, Inc. produced; Distributors Corporation of America distributed. Release: preview March 1957, general release July 1958 (sources vary 1958/1959).
+
+**Conclusion:** Reynolds was a **credible exploitation backer**—a minister and landlord who believed the film would turn a profit and fund religious projects. No evidence of ideological or predictive-programming motive. The Baptist angle functions as plausible deniability if one suspects external influence: a church funding a bad sci-fi film is odd enough to be memorable, conventional enough to explain away. **Outstanding:** No contract, no church board minutes, no record of who approved the pitch or on what ROI terms.
+
+### EarthBound Development — Itoi and Plan 9
+
+**Itoi's stated inspiration:** Shigesato Itoi has cited **Kenpei to Barabara Shibijin** (*The Military Policeman and the Dismembered Beauty*, 1957, dir. Kyotaro Namiki)—a **Japanese thriller/crime film**, not sci-fi. As a child, Itoi accidentally saw it, mistook a murder scene for a rape scene, and was traumatized. Years later he channeled that emotional impact into Giygas's dialogue and the unsettling tone of the final boss battle. The film has no alien, zombie, or flying-saucer content.
+
+**Conclusion:** **No documented connection between EarthBound and Plan 9.** Itoi drew from 1957 Japanese cinema for *tone* (atrocity, eroticism, audience manipulation), not for plot. The 1957 coincidence (Plan 9 shot Nov 1956, previewed Mar 1957; Kenpei released Aug 1957) is temporal only. EarthBound's alien-invasion narrative may derive from generic 1950s sci-fi tropes (which Plan 9 also inhabits) without direct citation.
+
+### LGBTQ Cinema Funding — Preliminary Findings
+
+**Early/Weimar:** *Mädchen in Uniform* (1931) was produced by Carl Froelich / Deutsche Film-Gemeinschaft. No box office data located; film was influential, censored under Nazis, later reclaimed as lesbian classic. **Glen or Glenda** (1953): Produced by George Weiss (~$20,000); Weiss specialized in low-budget exploitation (sexploitation, taboo subjects). Distribution bypassed mainstream circuits; roadshow to small-town exhibitors. ROI model: minimal spend, niche audience, quick recoup.
+
+**Later successes:** *The Adventures of Priscilla, Queen of the Desert* (1994): Australian Film Finance Corporation invested $1.67M of $3.63M budget despite skepticism; returned $1.99M to FFC within 12 months; Australian gross ~$16.5M; Cannes audience award. **Monash study (2022):** LGBT-inclusive films (characters or plots) earned **29% more** box office than films with no LGBT content across 4,126 films.
+
+**Culture-clash criticism:** Directors report ongoing pressure: Pixar removed LGBTQ elements from *Elio* (2025) after test-audience resistance; Pete Docter defended cuts. Todd Haynes, Rhys Ernst, Sophie Hyde have described "open season" on queer narratives, distribution difficulties, "war on nuance." Backlash correlates with funding hesitancy in some cases; in others (Priscilla, mainstream inclusive films) commercial success followed investment.
+
+**Conclusion:** LGBTQ cinema has **mixed ROI**—early exploitation model (Weiss) sought profit via taboo; later government/festival-backed films (Priscilla) proved profitable; contemporary studio inclusion correlates with higher revenue. Controversy is double-edged: it can suppress funding (Pixar cuts) or attract festival/award attention (Priscilla at Cannes). **Outstanding:** No evidence of coordinated Deep State funding; funding sources (Weiss, FFC, studios) are documented and conventional. The thesis that LGBTQ cinema was *covertly* influenced remains an open question requiring archival work on Weimar-era backers, Hays Code-era routing, and post-1990 festival gatekeeping.
+
+---
+
 ## Outstanding Questions
 
-- [ ] Exhaustive search for Plan 9 script drafts or treatment sources—was there a pre-existing outline?
-- [ ] Reynolds / Baptist funding records—who approved the project and on what terms?
-- [ ] Egyptian "LGBTQ-friendly" film classification—formal definition, timeline, funders
-- [ ] EarthBound development—did Itoi cite Plan 9 or similar B-movies directly?
+- [x] ~~Exhaustive search for Plan 9 script drafts or treatment sources~~ — **Addressed:** Working script exists; style consistent with Wood; no pre-existing outline found.
+- [x] ~~Reynolds / Baptist funding records~~ — **Addressed:** Narrative documented; no primary contracts; Reynolds as exploitation backer, conditions (title, baptism) established.
+- [x] ~~EarthBound development—did Itoi cite Plan 9 or similar B-movies directly?~~ — **Addressed:** No. Itoi cited *Kenpei to Barabara Shibijin* (1957 crime thriller) for emotional tone, not Plan 9.
+- [ ] **LGBTQ cinema funding investigation** — ROI mixed (exploitation profitable; Priscilla profitable; inclusion correlates with +29% revenue). Culture-clash criticism documented. Coordinated covert influence: unproven; open for dedicated investigation.
 
 ---
 
 ## Cross-References
 
-- [Zombie genre investigation](zombies/index-zombie-genre-investigation.md) — Pre-20th c. roots; Stoker, Lovecraft, Romero
+- [Zombie genre investigation](../zombies/index-zombie-genre-investigation.md) — Pre-20th c. roots; Stoker, Lovecraft, Romero
 - [Predictive programming page](../page.md) — Fiction encoding index; media catalog
 - [Fiction as control](https://paradigmthreat.net/timeline/evt-predictive-programming) — Forward vs backward programming; Revelation of the Method
 - [Night of the Living Dead](https://paradigmthreat.net/influence/predictive_programming/page.md#media-catalog) — Zombie apocalypse; Media Catalog
+
+**Deep Dive Sources:**
+- [Dead 2 Rights: Ed Wood Wednesdays, Plan 9 screenplay analysis](https://d2rights.blogspot.com/2020/03/ed-wood-wednesdays-week-98-some.html)
+- [Collider: Plan 9 funding by Baptist church](https://collider.com/plan-9-from-outer-space-funding/)
+- [Wikipedia: Kenpei to Barabara Shibijin](https://en.wikipedia.org/wiki/Kenpei_to_Barabara_Shibijin) — Itoi's Giygas inspiration
