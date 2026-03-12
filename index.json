@@ -5384,10 +5384,13 @@
       "spray6.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JZQAAgeOTFoAAP7EYcWXnZ62fJmj6n8nQe2kvNk1GFwGaXmqTYLwUjBVD3wAAAA="
       },
+      "tornado-power-station-investigation.md": {
+        "_title": "Tornado\u2013Power Station Explosion: Investigation into Electromagnetic Tornado Suppression and Media Cover-up"
+      },
       "weather-modification-investigation.md": {
         "_title": "Investigation: Weather Modification \u2014 From Cloud Seeding to Ionospheric Heaters"
       },
-      "_count": 36
+      "_count": 37
     },
     "havana_syndrome": {
       "havana-syndrome-investigation.md": {
@@ -5582,8 +5585,8 @@
       },
       "_count": 9
     },
-    "_count": 149
+    "_count": 150
   },
-  "_count": 1837,
-  "_version": "a93b5e3"
+  "_count": 1838,
+  "_version": "080f74b"
 }
