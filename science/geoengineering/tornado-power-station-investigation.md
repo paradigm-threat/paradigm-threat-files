@@ -4,6 +4,8 @@
 
 **Cross-ref:** [Weather Modification Investigation](weather-modification-investigation.md) | [HAARP](https://paradigmthreat.net/timeline/evt-weather-control)
 
+![Electromagnetic tornado: energy transmission through substation and vortex](electromagnetic-tornado.png)
+
 ---
 
 ## I. The Event: Nashville NES Substation, December 9, 2023
