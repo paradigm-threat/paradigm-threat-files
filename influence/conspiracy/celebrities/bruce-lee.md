@@ -6,6 +6,8 @@ Relies in part on AI-assisted skull/facial analysis—NOT definitive, but helps 
 and influences.
 ```
 
+![Bruce Lee investigation: Wing Chun female lineage, Wuxing suppression, British Hong Kong](bruce-lee-wing-chun.png)
+
 ## Thesis
 
 Bruce Lee died on July 20, 1973, in Hong Kong at age 32—days before *Enter the Dragon* premiered. The official cause was cerebral edema. The circumstances—death in mistress Betty Ting Pei's apartment, initial cover-up by business partner Raymond Chow, triad conspiracy theories, and Hong Kong's status as a British colony until 1997—warrant investigation. Could intelligence or criminal interests have had a role? The sweat-gland removal surgery (reducing thermoregulation) and the delay before summoning an ambulance remain unexplained.

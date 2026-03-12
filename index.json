@@ -4359,6 +4359,9 @@
         "brett-gelman.md": {
           "_title": "Brett Gelman: Investigation into Conspiracy-Theorist Persona and Hollywood Encoding"
         },
+        "bruce-lee-wing-chun.png": {
+          "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAAAwAQCdASoQAAkABUB8JZwAA3AA/u98z64j6t253TVYcqQlLnQP37iGA+NJioAA"
+        },
         "bruce-lee.md": {
           "_title": "Bruce Lee: Investigation into Death, Identity, Wing Chun, and British Suppression of Female Martial Arts"
         },
@@ -4392,7 +4395,7 @@
         "shelley-winters.md": {
           "_title": "Shelley Winters: Investigation into Hollywood Identity and Name Change"
         },
-        "_count": 14
+        "_count": 15
       },
       "cell_complexity.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoPABAABUB8JYwAAubj+zGD3QAAzfO1eXZDd5HxOVe4LUJ89EmE3Y0TcADx1ggC4UV7Y5m7bZVG+snsd4ur/p9n07cGgAAA"
@@ -4683,7 +4686,7 @@
       "wakeup.jpeg": {
         "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADwAQCdASoHABAABUB8JaQAAvqolqtuUEAA/uuBLv6j7KHCptuke6CLOwAAAA=="
       },
-      "_count": 133
+      "_count": 134
     },
     "controlled_opposition": {
       "00.md": {},
@@ -5102,7 +5105,7 @@
       },
       "_count": 21
     },
-    "_count": 291
+    "_count": 292
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat"
@@ -5590,6 +5593,6 @@
     },
     "_count": 151
   },
-  "_count": 1839,
-  "_version": "21ecd06"
+  "_count": 1840,
+  "_version": "0dd70de"
 }
