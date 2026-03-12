@@ -1,5 +1,7 @@
 # Golda Meir: Investigation into Identity, British Orchestration, and Israel's Creation
 
+![Golda Meir investigation: British mandate, Operation Agatha, and Israel's creation](golda.png)
+
 ```
 Note: This investigation is a work in progress. Part of a broader inquiry into the exploitation 
 of LGBTQIA+ children—allowed to live as another gender until they become too popular or important, 

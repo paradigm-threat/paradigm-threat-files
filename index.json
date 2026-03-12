@@ -4466,8 +4466,11 @@
         "golda.md": {
           "_title": "Golda Meir: Investigation into Identity, British Orchestration, and Israel's Creation"
         },
+        "golda.png": {
+          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAkABUB8JQBdgBJrVdmAAPxdooUM6nH5Et0wSMHdwjkcIG94uw2+GeB/ckBS6gK2Xu2hh4AAAA=="
+        },
         "zoot.md": {},
-        "_count": 5
+        "_count": 6
       },
       "jesus_cesare_borgia_rex_bellator.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQABAABUB8JaACdAEWCw81HQwA+8/3cbMkjraKzbivb0FwvLVpi7mBg3Zcj1cX2MOwElUfNYU7DoAd1aEgH5dZEMGLrTTvJHwo4XOMhkkoL8AA"
@@ -4641,7 +4644,7 @@
       "wakeup.jpeg": {
         "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADwAQCdASoHABAABUB8JaQAAvqolqtuUEAA/uuBLv6j7KHCptuke6CLOwAAAA=="
       },
-      "_count": 120
+      "_count": 121
     },
     "controlled_opposition": {
       "00.md": {},
@@ -5060,7 +5063,7 @@
       },
       "_count": 21
     },
-    "_count": 278
+    "_count": 279
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat"
@@ -5542,6 +5545,6 @@
     },
     "_count": 149
   },
-  "_count": 1824,
-  "_version": "2fec40d"
+  "_count": 1825,
+  "_version": "36f2e02"
 }
