@@ -59,9 +59,21 @@ Lee trained under Ip Man from age 13 for approximately four and a half years. [U
 
 **Thesis:** The British had interest in ensuring that (a) Wing Chun's 300-year female lineage was not popularized in the West, (b) the art was associated with a male figure who could be elevated and then removed, and (c) Wuxing philosophy—which contextualizes the animal styles and the art's cosmological basis—remained obscure. At a time when the CCP (phallocentric, patriarchal, British-aligned) was pursuing Republic leaders to Taiwan, a narrative of female martial arts leadership would have threatened the desired order. Had Western cinema featured the female Wing Chun legacy—Ng Mui, Yim Wing-chun, the art's design for the "weak to defeat the strong"—women's participation in martial arts in the 20th century might have been the rule rather than the exception.
 
-### Lee as Assigned Female at Birth
+### Lee as Assigned Female at Birth: Dressed as Girl, Female Name, Girl's School
 
-**Hypothesis:** Lee may have been assigned female at birth. His training in Wing Chun—a woman's martial art by origin—could reflect that. The controlled-opposition pattern (marginal figure elevated to legend, then eliminated) would fit. No smoking gun; the investigation treats this as an open question. See INDEX-identity-investigations.md for methodology.
+**Documented evidence:** Bruce Lee was dressed as a girl and given a female name throughout early childhood. Accounts attribute this to **mother** (William Cheung: she was superstitious, feared demons would steal male children after an older brother died in infancy) or to **parents** collectively. [SMH](https://www.smh.com.au/national/victoria/all-the-right-moves-20110119-19wp3.html) [Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/lee-bruce)
+
+| Fact | Detail | Source |
+|------|--------|--------|
+| Female nickname | **Sai Feng (細鳳)** — "Little Phoenix" — used throughout early childhood | [Academic Kids](https://academickids.com/encyclopedia/index.php/Bruce_Lee) [Wikispeedia](https://dlab.epfl.ch/wikispeedia/wpcd/wp/b/Bruce_Lee.htm) |
+| Dressed as girl | Parents dressed him as a girl; Chinese superstition that demons steal male children | [Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/lee-bruce) |
+| Girl's school | Attended a girl's school for a period | [Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/lee-bruce) |
+| First film role (3 months) | *Golden Gate Girl* (1941) — Lee played the **baby girl** character; film tells of a woman who dies in childbirth and the baby girl raised by employees. Lee Hoi-chuen (father) agreed to director Esther Eng's use of his infant for the role. | [SCMP](https://www.scmp.com/magazines/style/celebrity/article/3167557/bruce-lees-forgotten-child-star-start-enter-dragon-and) [Metafilter](https://www.metafilter.com/184441/Esther-Eng-directed-the-1st-film-Bruce-Lee-was-in-he-played-a-baby-girl) |
+| Bullying | Being dressed as a girl made him a target for bullies—later took up martial arts in response | [SMH](https://www.smh.com.au/national/victoria/all-the-right-moves-20110119-19wp3.html) |
+
+**Mainstream explanation:** Superstition—demons steal male babies; disguising him as a girl would protect him. The older brother's death made the family fearful.
+
+**Alternate reading:** The "superstition" narrative could be a cover. A child assigned female at birth might be dressed as a girl, given a female name (Sai Feng), sent to a girl's school, and cast as a baby girl in film—with the family later asserting he was "really" a boy protected by superstition. The father's involvement in the film industry (Cantonese opera, connections to Esther Eng) placed the infant in a role requiring a baby girl; the convenience of using a child already presented as female is notable. Dragon and phoenix are paired male/female symbols in Chinese tradition; Lee's later screen name "Little Dragon" (Li Xiaolong) pairs with his childhood "Little Phoenix"—suggesting a continuity of gendered presentation. **Open question:** Was the misgendering and cross-dressing a protective superstition, or evidence that Lee was assigned female at birth?
 
 ---
 
@@ -73,6 +85,7 @@ Lee trained under Ip Man from age 13 for approximately four and a half years. [U
 4. Was the Equagesic prescription legitimate, and who prescribed it?
 5. Did British colonial or intelligence interests shape Ip Man's removal of Wuxing from his Hong Kong curriculum?
 6. Were there deliberate efforts to minimize Ng Mui and Yim Wing-chun in Wing Chun's Western transmission?
+7. What was Lee Hoi-chuen's (father's) role in the decision to dress Bruce as a girl and use the female name Sai Feng? Did he participate, acquiesce, or oppose?
 
 ---
 
@@ -88,3 +101,7 @@ Lee trained under Ip Man from age 13 for approximately four and a half years. [U
 - [Wikipedia: Ng Mui](https://en.wikipedia.org/wiki/Ng_Mui)
 - [Wikipedia: Wuxing](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy))
 - [UMF Academy: Wing Chun in Bruce Lee's Training](https://www.umfacademy.com.au/the-role-of-wing-chun-kung-fu-in-bruce-lee-s-training/)
+- [SMH: All the Right Moves](https://www.smh.com.au/national/victoria/all-the-right-moves-20110119-19wp3.html) — mother dressed him as girl, female nickname, bullying
+- [Encyclopedia.com: Bruce Lee](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/lee-bruce) — parents, girl's school
+- [SCMP: Bruce Lee's Forgotten Child Star Start](https://www.scmp.com/magazines/style/celebrity/article/3167557/bruce-lees-forgotten-child-star-start-enter-dragon-and) — Golden Gate Girl, baby girl role
+- [Metafilter: Esther Eng, Bruce Lee played baby girl](https://www.metafilter.com/184441/Esther-Eng-directed-the-1st-film-Bruce-Lee-was-in-he-played-a-baby-girl)
