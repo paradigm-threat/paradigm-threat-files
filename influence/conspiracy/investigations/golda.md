@@ -6,7 +6,8 @@
 Note: This investigation is a work in progress. Part of a broader inquiry into the exploitation 
 of LGBTQIA+ children—allowed to live as another gender until they become too popular or important, 
 at which point handlers convince them to CONTINUE covering up their identity instead of coming out, 
-protected by friendly media.
+protected by friendly media. These investigations rely in part on AI-assisted skull/facial analysis—a 
+technique that is NOT definitive but helps identify patterns and influences. See INDEX-identity-investigations.md.
 ```
 
 ## Thesis
