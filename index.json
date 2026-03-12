@@ -4349,6 +4349,51 @@
       "canceled.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoPABAABUB8JZQAAxeVUjsAAP7oaIGkRodoTqISdOXlBUp/HiXaaACjgAA="
       },
+      "celebrities": {
+        "INDEX-identity-investigations.md": {
+          "_title": "Identity Investigations \u2014 Index and Methodology"
+        },
+        "brandy-vaughan.md": {
+          "_title": "Brandy Vaughan: Investigation into Death of Merck Whistleblower and Anti-Vax Activist"
+        },
+        "brett-gelman.md": {
+          "_title": "Brett Gelman: Investigation into Conspiracy-Theorist Persona and Hollywood Encoding"
+        },
+        "bruce-lee.md": {
+          "_title": "Bruce Lee: Investigation into Death, Identity, and Hong Kong Intelligence"
+        },
+        "gal-gadot.md": {
+          "_title": "Gal Gadot: Investigation into IDF Service, Hollywood Ascent, and Israeli Narrative"
+        },
+        "gandhi.md": {
+          "_title": "Gandhi: Investigation into British Loyalty, Racial Attitudes, and Assassination"
+        },
+        "golda.md": {
+          "_title": "Golda Meir: Investigation into Identity, British Orchestration, and Israel's Creation"
+        },
+        "golda.png": {
+          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAkABUB8JQBdgBJrVdmAAPxdooUM6nH5Et0wSMHdwjkcIG94uw2+GeB/ckBS6gK2Xu2hh4AAAA=="
+        },
+        "jackie-chan.md": {
+          "_title": "Jackie Chan: Investigation into Political Allegiance and British Hong Kong"
+        },
+        "prince.md": {
+          "_title": "Prince: Investigation into Androgyny, Death, and Identity"
+        },
+        "richard-askwith.md": {
+          "_title": "Richard Askwith: Investigation into British Establishment and Narrative Influence"
+        },
+        "ruth-gordon.md": {
+          "_title": "Ruth Gordon: Investigation into Hollywood Identity and Late-Career Ascent"
+        },
+        "sheila-florance.md": {
+          "_title": "Sheila Florance: Investigation into Australian Identity and Prisoner"
+        },
+        "shelley-winters.md": {
+          "_title": "Shelley Winters: Investigation into Hollywood Identity and Name Change"
+        },
+        "_count": 14
+      },
       "cell_complexity.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoPABAABUB8JYwAAubj+zGD3QAAzfO1eXZDd5HxOVe4LUJ89EmE3Y0TcADx1ggC4UV7Y5m7bZVG+snsd4ur/p9n07cGgAAA"
       },
@@ -4458,55 +4503,6 @@
       },
       "investigate.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQAA8ABUB8JaQAAg+vcAAA/uowVI8e7eb+iksGpvONOujpb5rx9nEFFt4PnmFH11yGAAAA"
-      },
-      "investigations": {
-        "INDEX-identity-investigations.md": {
-          "_title": "Identity Investigations \u2014 Index and Methodology"
-        },
-        "bitcoin.md": {},
-        "brandy-vaughan.md": {
-          "_title": "Brandy Vaughan: Investigation into Death of Merck Whistleblower and Anti-Vax Activist"
-        },
-        "brett-gelman.md": {
-          "_title": "Brett Gelman: Investigation into Conspiracy-Theorist Persona and Hollywood Encoding"
-        },
-        "bruce-lee.md": {
-          "_title": "Bruce Lee: Investigation into Death, Identity, and Hong Kong Intelligence"
-        },
-        "circumcision_cult.md": {},
-        "criticism.md": {},
-        "gal-gadot.md": {
-          "_title": "Gal Gadot: Investigation into IDF Service, Hollywood Ascent, and Israeli Narrative"
-        },
-        "gandhi.md": {
-          "_title": "Gandhi: Investigation into British Loyalty, Racial Attitudes, and Assassination"
-        },
-        "golda.md": {
-          "_title": "Golda Meir: Investigation into Identity, British Orchestration, and Israel's Creation"
-        },
-        "golda.png": {
-          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAkABUB8JQBdgBJrVdmAAPxdooUM6nH5Et0wSMHdwjkcIG94uw2+GeB/ckBS6gK2Xu2hh4AAAA=="
-        },
-        "jackie-chan.md": {
-          "_title": "Jackie Chan: Investigation into Political Allegiance and British Hong Kong"
-        },
-        "prince.md": {
-          "_title": "Prince: Investigation into Androgyny, Death, and Identity"
-        },
-        "richard-askwith.md": {
-          "_title": "Richard Askwith: Investigation into British Establishment and Narrative Influence"
-        },
-        "ruth-gordon.md": {
-          "_title": "Ruth Gordon: Investigation into Hollywood Identity and Late-Career Ascent"
-        },
-        "sheila-florance.md": {
-          "_title": "Sheila Florance: Investigation into Australian Identity and Prisoner"
-        },
-        "shelley-winters.md": {
-          "_title": "Shelley Winters: Investigation into Hollywood Identity and Name Change"
-        },
-        "zoot.md": {},
-        "_count": 18
       },
       "jesus_cesare_borgia_rex_bellator.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQABAABUB8JaACdAEWCw81HQwA+8/3cbMkjraKzbivb0FwvLVpi7mBg3Zcj1cX2MOwElUfNYU7DoAd1aEgH5dZEMGLrTTvJHwo4XOMhkkoL8AA"
@@ -4667,6 +4663,13 @@
       },
       "tesla_quote2.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAkABUB8JQAAW63O2qX/FAAA/uvv7m9ZNMe1IWNsv9TAH1IHjdQlk0587TSRZQvuKAAA"
+      },
+      "topics": {
+        "bitcoin.md": {},
+        "circumcision_cult.md": {},
+        "criticism.md": {},
+        "zoot.md": {},
+        "_count": 4
       },
       "vatican_suppressed_documents.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQABAABUB8JQBOgB4J9iRHag8AAP7dpS38C1OLBPKKmeKST4eqqfGdxCOBOKI0vK+jpeDxbg9d9zJ6n2jD/mdJlcbcTpXJxxKy8GaZza/Uf0DzCWmxGgAA"
@@ -5582,5 +5585,5 @@
     "_count": 149
   },
   "_count": 1837,
-  "_version": "06090f8"
+  "_version": "a93b5e3"
 }
