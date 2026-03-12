@@ -1,5 +1,10 @@
 [
   {
+    "hash": "2fec40d1037144bc1a9e30d2259ef7dbc2d01ee5",
+    "date": "2026-03-12T12:30:58.000Z",
+    "message": "Ed Wood: deep dive findings, ed-wood-plan9.png, LGBTQ cinema section"
+  },
+  {
     "hash": "1ac0de17449728d6ff261af75bea87d05d344158",
     "date": "2026-03-12T11:17:07.000Z",
     "message": "Mars stock market: harvest-window interpretation, mars-stock-market.png"
@@ -18,10 +23,5 @@
     "hash": "62ffc9547b2fc83c060cf9961ddf24cba37b885f",
     "date": "2026-03-11T23:09:01.000Z",
     "message": "Add retrospective blog entries from git history (Oct 2023–Feb 2026)"
-  },
-  {
-    "hash": "d6aa8ec02e6c9ce4a871f8d7b1ce78988d995b5a",
-    "date": "2026-03-11T22:49:40.000Z",
-    "message": "Add blog content and BLOG.md documentation"
   }
 ]

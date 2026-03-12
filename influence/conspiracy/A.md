@@ -21,8 +21,8 @@ Note: This section is **a work in progress**. Check back soon for more updates!
 
 ### [SpaceTime is Fake. That should be obvious](/cosmos/cosmology/astronomy)
 
-### [List of Fake FalseFlag attacks in History](/controlled_opposition/false_flag)
+### [List of Fake FalseFlag attacks in History](/events/false_flag)
 
-### [List of Controlled Opposition Agents in the Media](/controlled_oppositionsition)
+### [List of Controlled Opposition Agents in the Media](/influence/controlled_opposition)
 
 ### [Rise of the Global Police State](https://articles.mercola.com/sites/articles/archive/2023/10/17/rise-of-the-global-police-state.aspx)

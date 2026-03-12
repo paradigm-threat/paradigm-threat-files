@@ -103,7 +103,7 @@ or *not* believing.
     Homeland Security is fishing the net for dissidents and truthseekers
   </figcaption>
 </figure>
-### [Category: Suppressed](influence/conspiracy)
+### [Category: Suppressed](/influence/conspiracy)
 
 ```
 These things we were instructed not to believe, but are actually true
@@ -127,10 +127,10 @@ These things we were instructed to believe, but are actually fake.
 * [9/11 Was an Inside Job by 'Good' Actors](/events/911)
 * [Apollo Missions were staged](/events/apollo)
 * [Atomic bombs are fake](/science/nukes)
-* [JFK Was Never Assassinated](/controlled_opposition/jfk)
+* [JFK Was Never Assassinated](/events/jfk)
 * [Astronomy is a Religion, not Science](/cosmos/cosmology/astronomy)
-* [QAnon/Snowden/Manning are controlled opposition agents](/controlled_opposition)
-* [False Flags](/controlled_opposition/false_flag)
+* [QAnon/Snowden/Manning are controlled opposition agents](/influence/controlled_opposition)
+* [False Flags](/events/false_flag)
 
 
 ![Saturnian Cosmology posits that the neighboring planets only recently

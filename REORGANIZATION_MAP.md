@@ -24,6 +24,7 @@ This document tracks the mapping of old directory paths to the new "Spheres of I
 | `censorship/` | `influence/censorship/` | Influence |
 | `predictive_programming/` | `influence/predictive_programming/` | Influence |
 | `conspiracy/` | `influence/conspiracy/` | Influence |
+| `conspiracy/` (controlled opposition) | `influence/controlled_opposition/` | Influence |
 | `conspiracy/hollywood/` | `influence/hollywood/` | Influence |
 | `cosmology/` | `cosmos/cosmology/` | Cosmos |
 | `mars/` | `cosmos/mars/` | Cosmos |
