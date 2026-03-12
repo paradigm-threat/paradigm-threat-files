@@ -5321,6 +5321,9 @@
       "climate_scam2.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoQAAwABUB8JYgC7ABWWEgAAP5gGmW0PYCuTtPs0EUXcEgChgZW7iL+Umx6qGX/SzyOhJRXibHGvBoVzyOO9PssXYAAAA=="
       },
+      "electromagnetic-tornado.png": {
+        "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAAkABUB8JYwCdAEICQKAAP7NTkWodjnG5G2iOQOSAeja7XScAA=="
+      },
       "feds.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoLABAABUB8JYwAAlmB3K7IAAD+TP/ginrBvlIb33/qZ6HsapxNc1pOqB3WoJ2kRqDpW2aM3WGzoHQf4fkAAA=="
       },
@@ -5390,7 +5393,7 @@
       "weather-modification-investigation.md": {
         "_title": "Investigation: Weather Modification \u2014 From Cloud Seeding to Ionospheric Heaters"
       },
-      "_count": 37
+      "_count": 38
     },
     "havana_syndrome": {
       "havana-syndrome-investigation.md": {
@@ -5585,8 +5588,8 @@
       },
       "_count": 9
     },
-    "_count": 150
+    "_count": 151
   },
-  "_count": 1838,
-  "_version": "080f74b"
+  "_count": 1839,
+  "_version": "c4541f0"
 }
