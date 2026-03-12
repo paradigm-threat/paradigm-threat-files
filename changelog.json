@@ -1,5 +1,10 @@
 [
   {
+    "hash": "21ecd0621489d88d222c2d1bffb0e9c8f89ac13e",
+    "date": "2026-03-12T13:27:46.000Z",
+    "message": "Add electromagnetic-tornado.png to tornado power station investigation"
+  },
+  {
     "hash": "c4541f04f5a0e7808d33985f78a11bbdc4eeca16",
     "date": "2026-03-12T13:22:24.000Z",
     "message": "Tornado investigation: oil may cause fire, but heating mechanism unclear—high-amplitude energy transmission through tornado thesis"
@@ -18,10 +23,5 @@
     "hash": "06090f87f6d73b08368a96d2e4d6d642853a38bd",
     "date": "2026-03-12T12:55:23.000Z",
     "message": "Golda investigation: add article image, regenerate index"
-  },
-  {
-    "hash": "36f2e026d21050aa69c1e0e8d50d82edad933621",
-    "date": "2026-03-12T12:46:11.000Z",
-    "message": "Reorganize influence: controlled_opposition folder, conspiracy subfolders, Golda investigation"
   }
 ]
