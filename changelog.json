@@ -1,5 +1,10 @@
 [
   {
+    "hash": "080f74bdba0d8ea9af1cabf02181595bb56089b5",
+    "date": "2026-03-12T13:07:05.000Z",
+    "message": "Reorganize: investigations → celebrities (people), topics (bitcoin, zoot, circumcision_cult, criticism)"
+  },
+  {
     "hash": "a93b5e31a398c639e0b448eab09cf6cfd8f6bd90",
     "date": "2026-03-12T13:04:48.000Z",
     "message": "Add identity investigations: Bruce Lee, Jackie Chan, Prince, Gal Gadot, Ruth Gordon, Richard Askwith, Sheila Florance, Gandhi, Brett Gelman, Shelley Winters, Brandy Vaughan. INDEX with AI skull analysis disclaimer (ongoing, not definitive). Update golda.md and conspiracy page."
@@ -18,10 +23,5 @@
     "hash": "2fec40d1037144bc1a9e30d2259ef7dbc2d01ee5",
     "date": "2026-03-12T12:30:58.000Z",
     "message": "Ed Wood: deep dive findings, ed-wood-plan9.png, LGBTQ cinema section"
-  },
-  {
-    "hash": "1ac0de17449728d6ff261af75bea87d05d344158",
-    "date": "2026-03-12T11:17:07.000Z",
-    "message": "Mars stock market: harvest-window interpretation, mars-stock-market.png"
   }
 ]
