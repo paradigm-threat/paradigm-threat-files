@@ -1,5 +1,10 @@
 [
   {
+    "hash": "fcd1d67ae412468fd358a4a3b41c506a89051176",
+    "date": "2026-03-12T15:20:46.000Z",
+    "message": "Add bruce-lee-wing-chun.png to Bruce Lee investigation"
+  },
+  {
     "hash": "0dd70de4b4e0ce057d009d5a6ab519a8e30b93ee",
     "date": "2026-03-12T15:16:34.000Z",
     "message": "Bruce Lee: Wing Chun female lineage, Wuxing suppression, British thesis—Ng Mui/Yim Wing-chun erased, Ip Man removed five phases in HK, all trace to one man who vanished"
@@ -18,10 +23,5 @@
     "hash": "080f74bdba0d8ea9af1cabf02181595bb56089b5",
     "date": "2026-03-12T13:07:05.000Z",
     "message": "Reorganize: investigations → celebrities (people), topics (bitcoin, zoot, circumcision_cult, criticism)"
-  },
-  {
-    "hash": "a93b5e31a398c639e0b448eab09cf6cfd8f6bd90",
-    "date": "2026-03-12T13:04:48.000Z",
-    "message": "Add identity investigations: Bruce Lee, Jackie Chan, Prince, Gal Gadot, Ruth Gordon, Richard Askwith, Sheila Florance, Gandhi, Brett Gelman, Shelley Winters, Brandy Vaughan. INDEX with AI skull analysis disclaimer (ongoing, not definitive). Update golda.md and conspiracy page."
   }
 ]
