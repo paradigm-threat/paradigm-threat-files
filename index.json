@@ -66,10 +66,13 @@
     "2026-03-11-timeline-update.md": {
       "_title": "Timeline Update: Stolen Credit Suite, Yakuza Investigation, Site SSR, and TTS Improvements"
     },
+    "2026-03-12-content-update.md": {
+      "_title": "Content Update: Identity Investigations, Tornado Thesis, Ed Wood, Hairy Mary, and Reorganization"
+    },
     "page.md": {
       "_title": "Blog"
     },
-    "_count": 23
+    "_count": 24
   },
   "changelog.json": {},
   "cosmos": {
@@ -5599,6 +5602,6 @@
     },
     "_count": 151
   },
-  "_count": 1842,
-  "_version": "23c5085"
+  "_count": 1843,
+  "_version": "694e852"
 }
