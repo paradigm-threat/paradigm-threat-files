@@ -21,4 +21,5 @@ Retrospective summary of Paradigm Threat site activity in May 2024.
 
 ---
 
-*Filed under: retrospective, paradigm-threat-site, investigations, project history*
+---
+*Topics:* [#conspiracy](https://paradigmthreat.net/search/conspiracy) · [#cosmos](https://paradigmthreat.net/search/cosmos) · [#influence](https://paradigmthreat.net/search/influence) · [#science](https://paradigmthreat.net/search/science)

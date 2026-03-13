@@ -40,4 +40,5 @@ This launch established paradigmthreat.net as the home for the project's researc
 
 ---
 
-*Filed under: retrospective, paradigm-threat-site, launch, project history*
+---
+*Topics:* [#influence](https://paradigmthreat.net/search/influence) · [#history](https://paradigmthreat.net/search/history) · [#events](https://paradigmthreat.net/search/events)

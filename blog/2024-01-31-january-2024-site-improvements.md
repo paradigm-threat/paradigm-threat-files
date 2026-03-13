@@ -25,4 +25,5 @@ The shift toward Vercel and the image/embed pipeline set up the site for faster 
 
 ---
 
-*Filed under: retrospective, paradigm-threat-site, infrastructure, project history*
+---
+*Topics:* [#influence](https://paradigmthreat.net/search/influence) · [#history](https://paradigmthreat.net/search/history)

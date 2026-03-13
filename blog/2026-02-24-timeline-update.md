@@ -83,4 +83,5 @@ The timeline is at [paradigmthreat.net/timeline](https://paradigmthreat.net/time
 
 ---
 
-*Filed under: updates, atlantis, joan of arc, absu, fomenko, pdf, timeline*
+---
+*Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history)

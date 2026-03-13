@@ -97,3 +97,6 @@ New geoengineering investigation: [Tornado–Power Station Explosion: Electromag
 | Hairy Mary | Broken links | Fixed + timeline images |
 
 > Identity investigations now form a discrete corpus with methodology disclaimer and British-orchestration framing. The tornado investigation extends the weather-modification thesis into electromagnetic phenomena. Hairy Mary links repaired and illustrated from the timeline collection.
+
+---
+*Topics:* [#conspiracy](https://paradigmthreat.net/search/conspiracy) · [#cosmos](https://paradigmthreat.net/search/cosmos) · [#geoengineering](https://paradigmthreat.net/search/geoengineering) · [#influence](https://paradigmthreat.net/search/influence) · [#mars](https://paradigmthreat.net/search/mars) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming) · [#religion](https://paradigmthreat.net/search/religion)

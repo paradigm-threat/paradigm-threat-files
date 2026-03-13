@@ -98,3 +98,6 @@ Investigations now live in **paradigm-threat-files** (see [Fiction Encoding](htt
 | PDF size (appendix) | — | 763 KB |
 
 > **The 350-page target is effectively met.** The main book is at 348 pages / ~71.6K words. Further reduction is possible via the recommendations in `CONTENT_REDUCTION_RECOMMENDATIONS.md`, but the structural goal has been achieved. Investigation count jumped from 116 to 139 — fiction-encoding is now the largest investigation topic area.
+
+---
+*Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#influence](https://paradigmthreat.net/search/influence) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming)

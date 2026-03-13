@@ -134,3 +134,6 @@ Six new appendix articles providing the detailed evidence dossiers behind the Ch
 | Content files | 185 | 198 |
 | Images | 157 | 159 |
 | Investigations | 3 | 63 |
+
+---
+*Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#influence](https://paradigmthreat.net/search/influence) · [#science](https://paradigmthreat.net/search/science)

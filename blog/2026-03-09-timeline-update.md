@@ -135,3 +135,6 @@ A complete set of war investigations examining Western conflicts through the tim
 | PDF size (book) | — | 3.7 MB |
 
 > **Note:** Main book word count *decreased* from ~97K to ~84K despite adding new articles — the content reduction plan (appendix moves, merge of short articles, cross-referencing) is working. Appendix nearly doubled as extended evidence was moved out of the main book. Target remains ≤70K words / ≤350 pages for the main book.
+
+---
+*Topics:* [#events](https://paradigmthreat.net/search/events) · [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history)

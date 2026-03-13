@@ -93,4 +93,5 @@ The timeline is at [paradigmthreat.net/timeline](https://paradigmthreat.net/time
 
 ---
 
-*Filed under: updates, wal-thornhill, ralph-juergens, electric-universe, restructure, media, infrastructure, cosmic-life-cycle*
+---
+*Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#history](https://paradigmthreat.net/search/history)
