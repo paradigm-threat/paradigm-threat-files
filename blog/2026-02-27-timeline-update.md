@@ -195,3 +195,6 @@ Primary article on Fomenko's Shakespeare identification ([SAK] analysis), placed
 | New articles this session | — | 13 |
 | PDF pages | ~500 | 597+ |
 | Version | 1.1.19 | 1.1.31 |
+
+---
+*Topics:* [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history)

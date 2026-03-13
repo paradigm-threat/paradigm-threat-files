@@ -129,3 +129,6 @@ Complete indexes of the first seven Barsoom novels, plus overview:
 | Investigations | 63 | 101 |
 
 > **Note:** Main book word count has grown due to 8 new articles. The ≤70K target requires ~27K words of reduction in the next phase, to be achieved through the CONTENT_REDUCTION_TRACKER plan (merge short articles, trim block quotes, cross-reference instead of repeat).
+
+---
+*Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#influence](https://paradigmthreat.net/search/influence) · [#mars](https://paradigmthreat.net/search/mars) · [#science](https://paradigmthreat.net/search/science)

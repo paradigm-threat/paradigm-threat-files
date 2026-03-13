@@ -23,4 +23,5 @@ The site continued to serve the existing article catalog. The dedicated timeline
 
 ---
 
-*Filed under: retrospective, paradigm-threat-site, project history*
+---
+*Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#influence](https://paradigmthreat.net/search/influence)

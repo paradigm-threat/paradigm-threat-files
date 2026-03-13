@@ -127,3 +127,6 @@ A new `animation/` directory containing an interactive visualization framework b
 | New articles this session | — | 22+ |
 | Animation source lines | — | 1,635 |
 | Commits | v1.1.31 | v1.1.40 |
+
+---
+*Topics:* [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history)

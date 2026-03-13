@@ -20,4 +20,5 @@ Retrospective summary of Paradigm Threat site activity in November 2024.
 
 ---
 
-*Filed under: retrospective, paradigm-threat-site, content, project history*
+---
+*Topics:* [#events](https://paradigmthreat.net/search/events) · [#influence](https://paradigmthreat.net/search/influence)

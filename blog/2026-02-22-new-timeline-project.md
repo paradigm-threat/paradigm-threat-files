@@ -68,4 +68,5 @@ Come and investigate with us.
 
 ---
 
-*Filed under: announcements, timeline, new chronology, saturnian cosmology*
+---
+*Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#events](https://paradigmthreat.net/search/events) · [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history) · [#influence](https://paradigmthreat.net/search/influence) · [#science](https://paradigmthreat.net/search/science)

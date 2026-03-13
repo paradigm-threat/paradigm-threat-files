@@ -137,3 +137,4 @@ Cross-links within all affected articles have been updated.
 PDF and DOCX exports were regenerated twice during this session — once after the primary content additions and again at the end of the session for the final state. Current export: **160 content files**, DOCX ~30 MB.
 
 ---
+*Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#influence](https://paradigmthreat.net/search/influence)

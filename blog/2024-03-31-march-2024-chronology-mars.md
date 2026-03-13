@@ -22,4 +22,5 @@ Retrospective summary of Paradigm Threat site activity in March 2024.
 
 ---
 
-*Filed under: retrospective, paradigm-threat-site, chronology, mars, project history*
+---
+*Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history) · [#mars](https://paradigmthreat.net/search/mars)

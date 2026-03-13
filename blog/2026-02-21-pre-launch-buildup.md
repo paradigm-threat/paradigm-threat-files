@@ -25,4 +25,5 @@ The flat content structure with consistent numbering, root-relative media paths,
 
 ---
 
-*Filed under: retrospective, timeline, pre-launch, project history*
+---
+*Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#events](https://paradigmthreat.net/search/events) · [#history](https://paradigmthreat.net/search/history)
