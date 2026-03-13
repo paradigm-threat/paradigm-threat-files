@@ -5020,6 +5020,12 @@
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoKABAABUB8JQBOgCHEM4YGAAD+x3uGVuwfQCTWsa9DMxj3XCyV74oGdFogae2D7fL7/kb7vMJsAAAA"
       },
       "hairy_mary": {
+        "hairy-mary.png": {
+          "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAsABUB8JYgCdADPyQ+DAAD6B7wAlTubPTFrD1f+xQ7x1GE0i+eVQAA="
+        },
+        "hairy_mary.jpg": {
+          "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAwABUB8JbACdAC4p66RkgAA/pTMmFq//IFBBTSxK4zfmmA8vZQIrBFhs0tVBdBIN4KlXhySiSDnhf/Wgj6OYlJRjWyzd8X9IIZQ0gAAAA=="
+        },
         "index-hairy-mary-one-more-time.md": {
           "_title": "Hairy Mary \u2013 One More Time"
         },
@@ -5032,12 +5038,12 @@
         "index-pregnant-mary-magdalene.md": {
           "_title": "Pregnant Mary Magdalene?"
         },
-        "_count": 4
+        "_count": 6
       },
       "kkk_jews.jpg": {
         "_lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAA0ABUB8JYwCw7DO/f8KOAAA/rQaw8vZqvOUV83esvXPveIuL4fyflKGnFCVxeUv1rEV6BF4gWVU4QSIyx33FJ7KrLl3gPJ4AAAA"
       },
-      "_count": 8
+      "_count": 10
     },
     "stolen_credit": {
       "beethoven-deafness.md": {
@@ -5105,7 +5111,7 @@
       },
       "_count": 21
     },
-    "_count": 292
+    "_count": 294
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat"
@@ -5593,6 +5599,6 @@
     },
     "_count": 151
   },
-  "_count": 1840,
-  "_version": "fcd1d67"
+  "_count": 1842,
+  "_version": "23c5085"
 }

@@ -138,6 +138,12 @@ The weather control article proposes a four-step Deep State progression from wea
 
 ---
 
+## Related: Tornado–Power Station Electromagnetic Interaction
+
+A separate investigation documents the December 9, 2023 Nashville NES substation event—a tornado direct hit, massive fireball, and reports that the tornado appeared to weaken or dissipate near the explosion. The thesis: tornadoes may be electromagnetic phenomena; discharge at the substation could have temporarily disrupted the vortex. See [Tornado–Power Station Investigation](tornado-power-station-investigation.md).
+
+---
+
 ## Open Questions
 
 1. **What is the full inventory of active ionospheric heater installations worldwide?** The known facilities are likely a fraction of the total. Submarine-based or mobile ship-based heaters are theoretically possible.
