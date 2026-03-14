@@ -90,7 +90,7 @@ A new `animation/` directory containing an interactive visualization framework b
 ### Planetary View (Golden Age / BCE)
 - **Collinear Saturnian configuration**: Saturn, Venus, Mars, Earth, Jupiter aligned along a central axis pointing at the Sun
 - **Mercury, Neptune, Uranus** added as additional bodies
-- **3 orbital styles**: collinear column, circular orbits, elliptical orbits — togglable via UI controls
+- **3 orbital styles**: collinear column, circular orbits, elliptical orbits — toggleable via UI controls
 - Plasma/glow effects for Venus, ring system for Saturn (CE only per Saturnian Cosmology rules)
 - Camera orbits the collinear stack; bodies rendered with correct relative sizing
 

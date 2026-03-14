@@ -2003,7 +2003,7 @@ mass, or gravity as centripetal attributes choate to mass / matter.
 
 **Below: One need only to hold up a circular Moire’ pattern (representing magnetism) against a linear (dielectric
 inertial plane)
-Moire’ pattern and move both back and forth just a bit to see what is occuring in the process of creating
+Moire’ pattern and move both back and forth just a bit to see what is occurring in the process of creating
 electrification. Quite
 literally, electrification is the product of the counterspatial dielectric geometry interacting, over time, with the
 magnetic spatial
@@ -2017,7 +2017,7 @@ electrification.**
 dimensional
 interlacing radial grid patern in the conductor, and then move the circular magnetic Moire’ pattern over both of those
 you
-will get the full picture of both the electrification and magnetic induction occuring in the conductor.**
+will get the full picture of both the electrification and magnetic induction occurring in the conductor.**
 
 **Magnetic precession rates of the gyromagnetic-ratio at 42.4923 Mhz/T in creating the magnetic vortex
 Precessional (vortex) Geometry is also Phi-Phi-1Precession**
