@@ -16,7 +16,7 @@ Since the 16th century historian critics like
 [Edwin Johnson](https://en.wikipedia.org/wiki/Edwin_Johnson_\(historian\)),
 [Wilhelm Kammeyer](http://alternative.shoutwiki.com/wiki/Chronology),
 [Heribert Illig](https://en.wikipedia.org/wiki/Phantom_time_hypothesis), and
-[Immanuel Velikovsky](https://en.wikipedia.org/wiki/Immanuel_Velikovsky)
+[N A Morozov](https://en.wikipedia.org/wiki/Nikolai_Morozov)
 have accused church chronologists of the [Holy Roman Empire](https://en.wikipedia.org/wiki/Holy_Roman_Empire)
 such as [Joseph Scaliger](https://chronologia.org/en/old_books/scaliger_petavius_about.html)
 (founder of [modern chronology](https://www.lindahall.org/about/news/scientist-of-the-day/joseph-justus-scaliger/))
@@ -47,7 +47,7 @@ modern human history started less than a thousand years ago:
 
 ![Earth may have been a satellite of planet Saturn in primordial times](./saturn/earth_was_saturns_moon2.jpg?w=384)
 
-In 1952, [Immanuel Velikovsky](https://en.wikipedia.org/wiki/Immanuel_Velikovsky) posited that 'ancient' history was
+In works published 1907–1932, [N A Morozov](https://en.wikipedia.org/wiki/Nikolai_Morozov) posited that 'ancient' history was
 also in need of a [major revision](https://en.wikipedia.org/wiki/Ages_in_Chaos). He used
 [comparative mythology](https://en.wikipedia.org/wiki/Comparative_mythology) and ancient literary sources
 (especially the Old Testament) to argue that Earth suffered catastrophic close contacts with other planets
@@ -1131,7 +1131,7 @@ guarded records in *holy* church vaults, forbidding outsiders from viewing them.
 forgotten or fell into myth, it became easier for the Deep State to falsify the timeline. As a result of the success of
 the Anno Domini Calendar conspiracy, humans today
 (including [catastrophist](https://en.wikipedia.org/wiki/Catastrophism) authors
-like [Immanuel Velikovsky](https://www.velikovsky.info/) and [Jno Cook](https://saturniancosmology.org/))
+like [N A Morozov](https://en.wikipedia.org/wiki/Nikolai_Morozov) and [Jno Cook](https://saturniancosmology.org/))
 believe the events of *creation* ended over 2700 years ago.
 
 In the model of catastrophism the date of the *end of ancient history* is the same date as the
