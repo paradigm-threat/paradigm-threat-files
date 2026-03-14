@@ -1,5 +1,47 @@
 {
   "blog": {
+    "2020-10-31-october-2020-project-beginnings.md": {
+      "_title": "October 2020: Project Beginnings \u2014 Create React App and Asset Browser"
+    },
+    "2020-11-30-november-2020-css-rss-goaccess.md": {
+      "_title": "November 2020: CSS, RSS, and GoAccess"
+    },
+    "2021-01-31-january-2021-css-dev-mode.md": {
+      "_title": "January 2021: CSS Update and Dev Mode"
+    },
+    "2021-03-31-march-2021-logo-mobile-youtube.md": {
+      "_title": "March 2021: Logo, Mobile, and YouTube Support"
+    },
+    "2021-04-30-april-2021-svg-support.md": {
+      "_title": "April 2021: SVG Support"
+    },
+    "2021-11-30-november-2021-script-fix.md": {
+      "_title": "November 2021: Script Fix"
+    },
+    "2022-04-30-april-2022-rebuild-graphql-chatroom.md": {
+      "_title": "April 2022: Rebuild \u2014 GraphQL and Chatroom"
+    },
+    "2022-05-31-may-2022-sources-submodule-search.md": {
+      "_title": "May 2022: Sources Submodule and Search"
+    },
+    "2022-09-30-september-2022-git-changelog-asset.md": {
+      "_title": "September 2022: Git Changelog Asset"
+    },
+    "2022-10-31-october-2022-new-chronology-paintings.md": {
+      "_title": "October 2022: New Chronology History and Paintings"
+    },
+    "2022-11-30-november-2022-hairy-mary-alt-md.md": {
+      "_title": "November 2022: Hairy Mary and Alt .md Source"
+    },
+    "2023-01-31-january-2023-header-logo-london-fire.md": {
+      "_title": "January 2023: Header Click, Logo, and London Fire"
+    },
+    "2023-03-31-march-2023-asset-refactor-wotw.md": {
+      "_title": "March 2023: Asset Refactor and WotW"
+    },
+    "2023-04-30-april-2023-asset-stats-video.md": {
+      "_title": "April 2023: Asset Stat Generation and Video Refactor"
+    },
     "2023-10-31-paradigm-threat-site-launch.md": {
       "_title": "October 2023: Paradigm Threat Site Launches"
     },
@@ -69,10 +111,13 @@
     "2026-03-12-content-update.md": {
       "_title": "Content Update: Identity Investigations, Tornado Thesis, Ed Wood, Hairy Mary, and Reorganization"
     },
+    "2026-03-14-soul-science-israel-divide-conquer-investigations.md": {
+      "_title": "Soul Science, Israel Divide-and-Conquer, and Chronology Investigations"
+    },
     "page.md": {
       "_title": "Blog"
     },
-    "_count": 24
+    "_count": 39
   },
   "changelog.json": {},
   "cosmos": {
@@ -2552,6 +2597,9 @@
         "british-civil-war-investigation.md": {
           "_title": "Investigation: British Civil War \u2014 Societized Consolidation and the Template for Western Governance"
         },
+        "british-divide-conquer-israel-investigation.md": {
+          "_title": "Investigation: British Empire Divide-and-Conquer \u2014 Israel, India/Pakistan, Africa, and the Deep State Hypothesis"
+        },
         "french-revolution-investigation.md": {
           "_title": "Investigation: French Revolution \u2014 Societized Consolidation and Political Reorganization"
         },
@@ -2573,7 +2621,7 @@
         "yakuza-remote-control-investigation.md": {
           "_title": "Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan"
         },
-        "_count": 9
+        "_count": 10
       },
       "military_police.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQABAABUB8JaQAAuhduhw15C8AAP6jI6535eWFhJVCs1nyUU0g5ufcwxzu7EygaP6LbndMUotyAAAA"
@@ -2623,9 +2671,9 @@
       "ww2meme.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA="
       },
-      "_count": 54
+      "_count": 55
     },
-    "_count": 488
+    "_count": 489
   },
   "history": {
     "chronology": {
@@ -2851,17 +2899,23 @@
         "index-chronologia.md": {
           "_title": "chronologia.org \u2014 Site Index"
         },
+        "index-investigations.md": {
+          "_title": "Chronology Investigations \u2014 Index"
+        },
         "index-offenbarung.md": {
           "_title": "Die Offenbarung Johannis \u2014 English Index"
         },
         "indigenous-creation-dates.md": {
           "_title": "Indigenous Creation Chronologies \u2014 Investigation"
         },
+        "soul-science-investigation.md": {
+          "_title": "Investigation: History of Soul Science \u2014 From First References to the Mind as Replacement"
+        },
         "text.md": {},
         "text_formatted.md": {
           "_title": "Die Offenbarung Johannis \u2014 Eine astronomisch-historische Untersuchung"
         },
-        "_count": 7
+        "_count": 9
       },
       "islam_in_early_america.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQABAABUB8JZQAAudrKaORMAD+hB92JZlNKXia7qGW+cI0RDWk6hKP0mDyJmd8+AA="
@@ -3300,7 +3354,7 @@
       "worlds-fair-coverup.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA="
       },
-      "_count": 231
+      "_count": 233
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology"
@@ -4180,7 +4234,7 @@
     "thunderbolts-forum-archives.md": {
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive"
     },
-    "_count": 519
+    "_count": 521
   },
   "influence": {
     "censorship": {
@@ -5602,6 +5656,6 @@
     },
     "_count": 151
   },
-  "_count": 1843,
-  "_version": "ff02977"
+  "_count": 1861,
+  "_version": "0f512f1"
 }

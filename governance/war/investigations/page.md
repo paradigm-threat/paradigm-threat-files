@@ -16,3 +16,4 @@
 | [reverse-crusades-comparison.md](reverse-crusades-comparison.md) | Four pan-European coalitions vs. Russia (1812, 1914, 1941, 2022); figurehead mechanics; false-flag triggers |
 | [yakuza-remote-control-investigation.md](yakuza-remote-control-investigation.md) | Yakuza as remote-controlled instrument; British influence; media capture; Abe assassination; tech containment (Nintendo/Sony); Taiwan chip parallel |
 | [vril-society.md](vril-society.md) | Claim, debunk, and redaction potential; Nazi occult group; hollow Earth; denazification erasure |
+| [british-divide-conquer-israel-investigation.md](british-divide-conquer-israel-investigation.md) | British Empire divide-and-conquer; Israel creation; India/Pakistan; Rwanda; control of sacred texts; Deep State hypothesis |
