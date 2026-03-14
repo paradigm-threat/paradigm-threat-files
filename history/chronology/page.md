@@ -200,7 +200,7 @@ become empty and ready for another cycle to begin.
 
 ## Before Creation
 
-Ancient testimony from different civilizations seem to agree that there was no *history* (or time) before the
+Ancient testimony from different civilizations seems to agree that there was no *history* (or time) before the
 "creation" event. In all accounts, the time before the Golden Age was a lasting darkness. During this dark period,
 Saturn's dwarf system was beginning to receive its first energy from the Sun, and with this energy came the first life
 forms capable of having memory. As Saturn had not yet joined the Sun's orbit, there was no way to account for time.
@@ -973,7 +973,7 @@ The 774–775 carbon-14 spike is an observed increase of around 1.2% in the conc
 carbon-14 isotope in tree rings dated to 774 or 775 CE, which is about 20 times higher than the normal year-to-year
 variation of radiocarbon in the atmosphere.
 Based on the tree ring date of 774 CE, the actual date would be
-(1154 phantom time) - (774 Scaligarian date) = 379
+(1154 phantom time) - (774 Scaligerian date) = 379
 379 + (my estimate for end of cataclysm date 684 B.C.E.) = 1063 B.C.E.
 Therefore at some time during the end of the cataclysmic dark age, a mass casualty event occurred on Earth and Mars
 that dumped an excess of carbon into the atmosphere.
@@ -1163,8 +1163,8 @@ and Wilhelm Kammeyer.
 In the first half of the 19th century, Catastrophist N.A. Morozov stated unequivocally that Scaligerian history should
 be subject to complete revision and published his main works on ancient history in 1907-1932. Between 1945 and 1973
 the *historical science* community ridiculed his ideas and censored his works. All discussion of Catastrophism, redacted
-history, or flaws within Scaligarian history ended during this time. The only exception was Immanuel Velikovsky, who
-happened to agree that there were no flaws in the Scaligarian version of modern history.
+history, or flaws within Scaligerian history ended during this time. The only exception was Immanuel Velikovsky, who
+happened to agree that there were no flaws in the Scaligerian version of modern history.
 
 > “He is considered to be the founder of the "critical school" in chronology, but what he really did was try to protect
 > the Scaligerian chronology from drastic changes, so his inclusion in the list of the founding fathers of the new
@@ -1192,7 +1192,7 @@ the [New Chronology](https://chronologia.org/en/seven/history.html) project:
 > same brief chronicle. [Source](https://chronologia.org/en/seven/history.html)
 
 As scrupulous as the work was, it was still not possible for the historical science community at large to acknowledge
-the possibility that Scaligarian chronology could be in any way flawed, and Fomenko's work fell into obscurity. In
+the possibility that Scaligerian chronology could be in any way flawed, and Fomenko's work fell into obscurity. In
 this we once again see the enduring influence of the **Deep State**:
 
 > Today we are being convinced that everything had happened "automatically" and that N. A. Morozov's research was of
@@ -1230,7 +1230,7 @@ would become a common phenomenon signifying the promise of *no more creation*:
 </figure>
 
 
-### 'Year of our Lord' Deception - 1053 Year Shift forward
+### 'Year of our Lord' Deception — 1053-Year Shift Forward
 
 With the start of the Common Era, chronologists would write the phrase
 [In the year of our Lord](https://www.merriam-webster.com/dictionary/in%20the%20year%20of%20our%20Lord) before
@@ -1272,7 +1272,7 @@ the masses that our Sun was the *son* of some *invisible deity* i.e. Saturn.
 
 ![Troy was also called Yoros short for Ierosalim a.k.a. Jerusalem (#1) a.k.a. Tsar-Grad](./jerusalem/troy_1st_jerusalem.jpg?w=384)
 
-### Deep State Centralize World Religion at Jerusalem
+### Deep State Centralizes World Religion at Jerusalem
 
 After roughly 822 years in exile, it was time for the Deep State to resurface, rebuild their Monotheistic slave empire,
 and claim sole authority to speak for the Creator God of the Universe. To this end, the Deep State built a new
@@ -1290,7 +1290,7 @@ associated with [Satan](https://www.quora.com/Is-there-a-connection-between-Sata
 The invention of the *fixed* calendar provided the Deep State with a new system of faith based on the concept of
 constancy - that things change very slowly over time, or not at all. Jerusalem #1 in Istanbul was
 renamed [Constantinople](https://en.wikipedia.org/wiki/Constantinople), and became the headquarters of the new faith.
-Since all information on the old Gods were kept secret in Jerusalem archives, the common people gradually forgot about
+Since all information on the old Gods was kept secret in Jerusalem archives, the common people gradually forgot about
 them. The stories fell into mythology, replaced by new stories of the Sun traversing the seasons, which later became
 the [farmer's almanac](https://en.wikipedia.org/wiki/Almanac).
 
@@ -1725,7 +1725,7 @@ army to give up the siege. It was clear this French maiden had a bewitching infl
 degree that it threatened the entire war campaign.
 
 ![When creating the Scaligerian history all of these large-scale](./tartaria/painting_samson_and_delilah_by_rubens.jpg?w=384)
-*When creating the Scaligerian history all of these large-scale campaigns were artificially 'squeezed' into the territory of one county in France, greatly reducing the scale of events. As a result some of the distant geographical names also 'moved' here. And the entire story of Joan of Arc turned into an allegedly 'purely French' story. Furthermore, it turns out that the famous French marshal Gilles de Rais, Joan of Arc's legendary comrade-in-arms, is partially described in the Bible under the name of Samson, the famous hero and warrior. This congruence is a result of the stories of Joan of Arc and the biblical Deborah overlapping each other. Marshal Gilles de Rais, French national hero, faced the Inquisition court and was burnt at the stake in the town of Nante -one of the most infamous landmark cases 'on witchcraft'. All three storylines are directly connected with the activities of the Inquisition on the territory of France (in the Scaligerian geography).*
+*When creating the Scaligerian history all of these large-scale campaigns were artificially 'squeezed' into the territory of one county in France, greatly reducing the scale of events. As a result some of the distant geographical names also 'moved' here. And the entire story of Joan of Arc turned into an allegedly 'purely French' story. Furthermore, it turns out that the famous French marshal Gilles de Rais, Joan of Arc's legendary comrade-in-arms, is partially described in the Bible under the name of Samson, the famous hero and warrior. This congruence is a result of the stories of Joan of Arc and the biblical Deborah overlapping each other. Marshal Gilles de Rais, French national hero, faced the Inquisition court and was burnt at the stake in the town of Nantes — one of the most infamous landmark cases 'on witchcraft'. All three storylines are directly connected with the activities of the Inquisition on the territory of France (in the Scaligerian geography).*
 
 
 This forced the hand of the Deep State which saw no other option than to *catharize* Jeanne d'Arc before their own

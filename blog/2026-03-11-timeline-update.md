@@ -90,11 +90,7 @@ Article TTS now matches timeline overlay capabilities:
 - **Introduction** — "Intellectual challenge" framing
 - **Overview image** — Updated; package version bump v1.2.43 → v1.2.51
 
----
-
-## paradigm-threat-files
-
-- **Root-relative URLs** — Fix links; remove dead wget references
+---Topics: #conspiracy · #cosmos · #geoengineering · #influence · #mars · #predictive_programming · #religions** — Fix links; remove dead wget references
 - **PWA cache busting** — `_version` in index.json
 
 ---

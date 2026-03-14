@@ -1,5 +1,15 @@
 [
   {
+    "hash": "3067d28bf970499f43495d714d094a027533970b",
+    "date": "2026-03-13T12:51:01.000Z",
+    "message": "blog: topic links use /search/[topic] path-based URLs"
+  },
+  {
+    "hash": "d883c371b1e734fe781506df2ecc34d78b085ef5",
+    "date": "2026-03-13T11:24:48.000Z",
+    "message": "Add blog entry 2026-03-12: identity investigations, tornado, Ed Wood, hairy mary"
+  },
+  {
     "hash": "694e8526e2e24e9c8f02f8e3574556c4453e308e",
     "date": "2026-03-13T11:03:50.000Z",
     "message": "hairy-mary: fix links, add timeline images, scope BLOG.md to blog only"
@@ -13,15 +23,5 @@
     "hash": "fcd1d67ae412468fd358a4a3b41c506a89051176",
     "date": "2026-03-12T15:20:46.000Z",
     "message": "Add bruce-lee-wing-chun.png to Bruce Lee investigation"
-  },
-  {
-    "hash": "0dd70de4b4e0ce057d009d5a6ab519a8e30b93ee",
-    "date": "2026-03-12T15:16:34.000Z",
-    "message": "Bruce Lee: Wing Chun female lineage, Wuxing suppression, British thesis—Ng Mui/Yim Wing-chun erased, Ip Man removed five phases in HK, all trace to one man who vanished"
-  },
-  {
-    "hash": "21ecd0621489d88d222c2d1bffb0e9c8f89ac13e",
-    "date": "2026-03-12T13:27:46.000Z",
-    "message": "Add electromagnetic-tornado.png to tornado power station investigation"
   }
 ]
