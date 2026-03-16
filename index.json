@@ -836,7 +836,10 @@
     "BLOG.md": {
       "_title": "Blog \u2014 paradigm-threat-files"
     },
-    "_count": 2
+    "INVESTIGATIONS_DEEP_DIVE.md": {
+      "_title": "Investigations Deep Dive \u2014 Status, Validation, and Remaining Work"
+    },
+    "_count": 3
   },
   "events": {
     "911": {
@@ -5623,6 +5626,6 @@
     },
     "_count": 151
   },
-  "_count": 1850,
-  "_version": "acbcd86"
+  "_count": 1851,
+  "_version": "4a45447"
 }

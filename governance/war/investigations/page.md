@@ -1,6 +1,8 @@
 # War Investigations
 
- Atlantic context, societized consolidation, British funding, Western orchestration.
+Atlantic context, societized consolidation, British funding, Western orchestration.
+
+**Master index:** For validation status, likelihood assessments, dead ends, remaining TODOs, and **books/full texts to obtain**, see [Investigations Deep Dive](/docs/INVESTIGATIONS_DEEP_DIVE.md).
 
 ---
 

@@ -1,5 +1,10 @@
 [
   {
+    "hash": "4a4544708fedddf06d9e6bfb36507f4612a04d7f",
+    "date": "2026-03-16T13:43:28.000Z",
+    "message": "CIA investigation, blog 2026-03-16, war investigations page; index and other updates"
+  },
+  {
     "hash": "acbcd8667c1cc68597ac815b0d052bcbeaaab252",
     "date": "2026-03-14T16:08:07.000Z",
     "message": "Consolidate pre-2026 blog entries into period-based posts"
@@ -18,10 +23,5 @@
     "hash": "ff02977ac327921d755f0c0f307fb869ffa622a6",
     "date": "2026-03-14T12:00:01.000Z",
     "message": "fix: typos and grammar (occurring, toggleable, Scaligerian, Nantes, subject-verb agreement)"
-  },
-  {
-    "hash": "3067d28bf970499f43495d714d094a027533970b",
-    "date": "2026-03-13T12:51:01.000Z",
-    "message": "blog: topic links use /search/[topic] path-based URLs"
   }
 ]
