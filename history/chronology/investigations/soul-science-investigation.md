@@ -139,7 +139,15 @@ Western reception of Russian literature from the 1880s onward heightened awarene
 
 ---
 
-## 6. Open Questions
+## 6. Dead Ends and Remaining TODOs
+
+**Dead ends:** "When exactly soul = fantasy" in Western discourse requires fine-grained lexical history; may remain approximate. Containment thesis (soul-as-fantasy as deliberate containment of Russian literature) has no smoking gun; evidence is circumstantial.
+
+**Remaining TODOs:** See [Investigations Deep Dive](/docs/INVESTIGATIONS_DEEP_DIVE.md) for consolidated list. Key: dictionary/encyclopedia trace; Reformation theology vs soul; Russian Orthodox vs Western comparison; 1979 cross-ref; Fomenko timeline; indigenous soul concepts.
+
+---
+
+## 7. Open Questions
 
 - [ ] When exactly did "soul" become synonymous with "fantasy" or "superstition" in mainstream Western discourse? Trace through dictionaries, encyclopedias, and popular science.
 - [ ] Reformation theology: Did Luther, Calvin, or other Reformers explicitly weaken or strengthen soul-doctrine? Compare to Catholic Scholastic positions.
@@ -150,7 +158,7 @@ Western reception of Russian literature from the 1880s onward heightened awarene
 
 ---
 
-## 7. References
+## 8. References
 
 - Stanford Encyclopedia of Philosophy: [Ancient Theories of Soul](https://plato.stanford.edu/entries/ancient-soul/)
 - Wikipedia: Ancient Egyptian conception of the soul, La Mettrie, *Man a Machine*, French materialism

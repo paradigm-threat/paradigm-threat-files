@@ -98,9 +98,17 @@ This investigation examines the hypothesis that the British Empire (and other co
 
 ---
 
-## VI. Open Questions
+## VI. Dead Ends and Remaining TODOs
 
-- [ ] Trace Semyenko's documentation on Palestine/biblical sites (spelling may vary; source to be located).
+**Dead ends:** The claim that divide-and-conquer was "ordered from a remote location" by a single Deep State is not falsifiable; it is a structural interpretation. Semyenko (documentation on Palestine/biblical sites) has not yet been traced.
+
+**Remaining TODOs:** See [Investigations Deep Dive](/docs/INVESTIGATIONS_DEEP_DIVE.md) for consolidated list. Key agent-doable: trace Semyenko; map British Bible Society/PEF/missionary print networks; post-colonial arms audit; Round Table/Milner/Rhodes overlap; Fomenko Jerusalem correlation.
+
+---
+
+## VII. Open Questions
+
+- [ ] Trace Semyenko's documentation on Palestine/biblical sites (spelling may vary; source to be located). **Research note:** Web and catalogue search for “Semyenko” + Palestine/biblical Jerusalem/chronology did not locate a clear match; may be Semenko, Semenkov, or a transliteration variant; or a Russian/Ukrainian source not indexed in English. [Seder Olam](https://www.seder-olam.info/seder-olam-g32-jerusalem.html) and mainstream Jerusalem timelines (Jewish Virtual Library, Wikipedia) document conventional biblical chronology; Fomenko (chronologia.org) places biblical Jerusalem in Constantinople/Moscow — correlate if Semyenko source is found.
 - [ ] British Bible Society, PEF, and missionary print networks—map control over sacred text distribution.
 - [ ] Cross-reference with [Golda Meir investigation](/influence/conspiracy/celebrities/golda) and [Jesuit pilgrimage article](https://paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to-jerusalem).
 - [ ] Systematic audit: How many post-colonial conflicts have both sides armed by the same Western suppliers?
@@ -109,7 +117,7 @@ This investigation examines the hypothesis that the British Empire (and other co
 
 ---
 
-## VII. References
+## VIII. References
 
 - Paradigm-threat: [Jesuit pilgrimage to Palestine](https://paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to-jerusalem), [Golda Meir investigation](/influence/conspiracy/celebrities/golda), [Deep State Steals Russian History](https://paradigmthreat.net/history/chronology#deep-state-steals-russian-history)
 - PEF Survey of Palestine (1872–1877); British maps of Palestine (19th c.)

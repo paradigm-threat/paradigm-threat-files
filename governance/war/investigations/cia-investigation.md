@@ -2,7 +2,7 @@
 
 ## Thesis
 
-This investigation examines the **Central Intelligence Agency (CIA)** as an institution created largely **outside American constitutional democracy**: its origins in the Office of Strategic Services (OSS), the allegation that it was rebranded after appropriating Nazi assets (including gold) and tracking Nazis through World War II until their defeat; its funding via drug trade, human trafficking, and other covert means; its role as a **parasitic** structure protected by deception and cover-up; and the hypothesis that an **antibody** formed against it—including the NSA as a deliberately distinct organisation aimed at calming world trouble and restoring sovereignty. It further investigates the **Iran pipeline** (1950s nuclear stations, Shah, then Ayatollah—British/CIA/MI6 cooperation engineering radical extremists so nuclear assets would fall into extremist hands), the rebranding of failed World War II plans into a **slow-burn Third World War** (existential crisis from the end of WWII onward), and the **revelation-of-the-method** scenario: no proof to the international intelligence community of Iranian nuclear weapons, while CIA-declassified intelligence would signal a handover of nuclear weapons to terrorist proxies—triggering an end-game world war in which the deep state would win, rebrand, and recreate history. The investigation documents **claims that the NSA took out the CIA on 9/11 by destroying Building 7** (which housed a CIA secret station), **post-9/11 statements by CIA representatives that the Agency was diminished**, and the tracing of post-9/11 American crises—from near–civil war and near-insurrection to government capture by media, political, and institutional narratives (e.g. under the guise of science and vaccines)—back to CIA-linked elements. It also examines **Latin America**: decades of CIA-backed gangs, removal of “good” actors and empowerment of “bad” ones (e.g. Bush Sr. and Noriega, Trump and Maduro), and the **antibody** thesis: that the CIA was ultimately defeated from within—by people like Daniel Ellsberg who turned on the plan, sought political cover, and created or empowered new agencies. **9/11**, in this reading, is the trigger that allowed new agencies to be created under the War on Terror, **disconnecting the CIA from its plans** and stomping those plans out over time via new proxies globally. The investigation captures the current moment: Trump’s call for countries to act on homelessness and the question of whether nations will “have their moment in history” and come out, or stay in the shadows and allow a slow, obvious ruin under a world-unity democratic alliance.
+This investigation examines the **Central Intelligence Agency (CIA)** as an institution created largely **outside American constitutional democracy**: its origins in the Office of Strategic Services (OSS), the allegation that it was rebranded after appropriating Nazi assets (including gold) and tracking Nazis through World War II until their defeat; its funding via drug trade, human trafficking, and other covert means; its role as a **parasitic** structure protected by deception and cover-up; and the hypothesis that an **antibody** formed against it—including the NSA as a deliberately distinct organisation aimed at calming world trouble and restoring sovereignty. It further investigates the **Iran pipeline** (1950s nuclear stations, Shah, then Ayatollah—British/CIA/MI6 cooperation engineering radical extremists so nuclear assets would fall into extremist hands), the rebranding of failed World War II plans into a **slow-burn Third World War** (existential crisis from the end of WWII onward), and the **revelation-of-the-method** scenario: no proof to the international intelligence community of Iranian nuclear weapons, while CIA-declassified intelligence would signal a handover of nuclear weapons to terrorist proxies—triggering an end-game world war in which the deep state would win, rebrand, and recreate history. The investigation documents **claims that the NSA took out the CIA on 9/11 by destroying Building 7** (which housed a CIA secret station), **post-9/11 statements by CIA representatives that the Agency was diminished**, and the tracing of post-9/11 American crises—from near–civil war and near-insurrection to government capture by media, political, and institutional narratives (e.g. under the guise of science and vaccines)—back to CIA-linked elements. It also examines **Latin America**: decades of CIA-backed gangs, removal of “good” actors and empowerment of “bad” ones (e.g. Bush Sr. and Noriega, Trump and Maduro), and the **antibody** thesis: that the CIA was ultimately defeated from within—by people like Daniel Ellsberg who turned on the plan, sought political cover, and created or empowered new agencies. **9/11**, in this reading, is the trigger that allowed new agencies to be created under the War on Terror, **disconnecting the CIA from its plans** and stomping those plans out over time via new proxies globally. The investigation captures the current moment: 'We will remember': Trump warns countries to help secure Strait of Hormuz as shipping stalls and the question of whether nations will “have their moment in history” and come out, or stay in the shadows and allow a slow, obvious ruin under a world-unity democratic 'alliance'.
 
 **Date:** 2026-03-16  
 **Status:** Ongoing
@@ -19,8 +19,8 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 ### Nazi Gold and Asset Appropriation
 
 - **Allegation:** OSS/CIA elements are alleged to have captured or redirected large quantities of Nazi gold, art, and other assets during and after WWII—both in the course of “tracking” Nazis and through post-surrender operations (e.g. in Austria, Switzerland, South America).
-- **Documentation to seek:** Congressional and independent reports on Nazi gold (e.g. Eizenstat reports), OSS/CIA involvement in Operation Paperclip and related programmes, and any declassified or leaked material on OSS/CIA asset recovery and disposition.
-- **“Tracking Nazis until defeat”:** To be investigated: the extent to which OSS (and later CIA) “tracking” of Nazis served intelligence and justice vs. the extent to which it served asset capture, recruitment (e.g. Paperclip), and the preservation of networks that would later support deep-state operations.
+- **Documentation located:** (1) **Eizenstat Report** (May 1997): coordinated by Stuart Eizenstat, State Dept historian William Z. Slany; documented Nazi looted gold (~$580M then, ~$5.6B 1997 value), Swiss National Bank role; 11 agencies including CIA; large declassification from NARA. [State Dept 1998 Eizenstat briefing](https://1997-2001.state.gov/www/policy_remarks/1998/980602_eizenstat_nazigld.html); supplement on Argentina, Portugal, Spain, Sweden, Turkey. (2) **OSS Project SAFEHAVEN** (from May 1944): OSS role tracking Nazi assets in neutral countries to prevent transfer abroad. [CIA CSI: OSS and Project SAFEHAVEN](https://www.cia.gov/resources/csi/static/oss-project-safehaven.pdf). (3) **Operation Paperclip:** JIOA (1945–1958) brought 1,500+ German scientists/technicians to the U.S.; many with Nazi ties. CIA reading room holds [CIA and Nazi War Criminals](https://www.cia.gov/readingroom/docs/CIA%20AND%20NAZI%20WAR%20CRIM.%20AND%20COL.%20CHAP.%201-10,%20DRAFT%20WORKING%20PAPER_0001.pdf) (Nazi War Crimes Disclosure Act). [Wikipedia: Operation Paperclip](https://en.wikipedia.org/wiki/Operation_Paperclip).
+- **“Tracking Nazis until defeat”:** Extent to which OSS/CIA “tracking” served asset capture and recruitment (Paperclip) vs. justice remains a matter of interpretation; the above sources support further investigation.
 
 ### Pre-“Creation” Activity
 
@@ -52,17 +52,17 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 ### NSA as Distinct from CIA
 
 - **Thesis:** An “antibody” formed around or against the CIA—an organisation intended to be **distinct**: the **NSA** (National Security Agency). Mission: calm world trouble by any means necessary, restore sovereignty, and provide **security** in a form that does not depend on the same covert pipelines as the CIA.
-- **To investigate:** Founding and mandate of the NSA; doctrinal and operational separation from CIA; and any evidence of rivalry or counter-CIA operations.
+- **Documented:** NSA was established **1952** by President Truman (NSC Intelligence Directive 9; [NSA.gov](https://www.nsa.gov/), [Britannica](https://www.britannica.com/topic/National-Security-Agency), [NARA RG 457](https://www.archives.gov/research/guide-fed-records/groups/457.html)). Mandate: unified control of **communications intelligence (SIGINT)** against foreign governments; cryptographic and signals intelligence; protection of U.S. communications. Origins in WWII military COMINT; legally distinct from CIA (human intelligence). No smoking gun for “antibody” or rivalry; doctrinal separation (SIGINT vs HUMINT) is structural.
 
 ### 9/11 and Building 7: NSA Took Out the CIA?
 
 - **Claim to document:** That on 9/11, the **NSA** (or allied “good” actors) **took out the CIA** by destroying **Building 7** (WTC 7), which housed a CIA secret station. This timeline already sponsors a **good-actor thesis** for 9/11: a false flag executed *against* the Deep State (see [False Flags: Architecture](/timeline/evt-false-flags-architecture)).
-- **Evidence to gather:** Any published or leaked claims that WTC 7 housed CIA offices or that its destruction was intended to decapitate or cripple CIA capabilities; statements by intelligence community figures that 9/11 was used to restructure or diminish the CIA.
+- **Evidence gathered:** WTC 7 housed a CIA clandestine station on **floor 25** (shared with DoD and IRS). Confirmed by [NYT 4 Nov 2001](https://www.nytimes.com/2001/11/04/us/nation-challenged-intelligence-agency-secret-cia-site-new-york-was-destroyed.html), [CBS](https://www.cbsnews.com/news/report-cia-lost-office-in-wtc/), and [Wikipedia tenant list](https://en.wikipedia.org/wiki/List_of_tenants_in_7_World_Trade_Center_(1987%E2%80%932001)) (NIST/AP). Full tenant list and citations: [09-11 Investigation](/events/false_flag/investigations/09-11-investigation.md).
 
 ### CIA Representatives After 9/11: “Diminished” Abilities
 
-- **To find:** Public or leaked statements by **CIA representatives** (directors, senior officers, retirees) after 9/11 stating that the Agency was **diminished** in its abilities, reach, or influence—whether due to restructuring, loss of personnel, loss of facilities, or policy changes.
-- **Interpretation:** Such statements could support the thesis that 9/11 was used to disconnect the CIA from its long-term plans and transfer authority to new agencies (DHS, DNI, etc.) under the War on Terror.
+- **Found:** DCI George Tenet testified to the 9/11 Commission that the Intelligence Community had suffered **significant erosion *before* 9/11** (mid-1990s): declining budgets, ~25% personnel loss, inadequate recruiting/training, obsolescent systems ([Tenet statement 14 Apr 2004](https://9-11commission.gov/hearings/hearing8/tenet_statement.pdf); [GlobalSecurity.org](https://premium.globalsecurity.org/security/library/congress/9-11_commission/040414-tenet.htm)). Post-9/11 he framed rebuilding as the priority; the “diminished” narrative thus blends pre-9/11 erosion with post-9/11 restructuring (DHS, DNI, etc.).
+- **Interpretation:** Such statements support the thesis that 9/11 was used to restructure intelligence and transfer authority to new agencies under the War on Terror; they do not prove the good-actor decapitation thesis.
 
 ---
 
@@ -114,12 +114,22 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 
 ---
 
-## VII. Open Questions and Research Tasks
+## VII. Validation, Dead Ends, and Likelihood
 
-- [ ] **OSS/Nazi gold:** Locate and summarise reports and books on OSS/CIA and Nazi asset capture; list primary sources.
-- [ ] **Full texts and authors:** Compile a list of key books and authors on CIA history and operations; obtain or link to full texts where possible (e.g. Alfred McCoy, Gary Webb, Joseph Trento, Tim Weiner, Stephen Kinzer, John Stockwell).
-- [ ] **CIA statements post-9/11:** Systematically search for CIA directors’ or senior officers’ statements (2001–present) that the Agency was “diminished” or restructured in capability.
-- [ ] **Building 7 / WTC 7:** Compile claims that WTC 7 housed CIA facilities and that its destruction was an attack on the CIA; cross-reference with [9/11 Investigation](/events/911) and [False Flags](/timeline/evt-false-flags-architecture) if paths exist in this repo.
+**Validated:** OSS→CIA continuity (1942–1947), National Security Act 1947, broad authorities and limited oversight — mainstream fact. Operation Ajax (1953), Shah restoration, and CIA involvement in regime change and Latin America — documented in part. **WTC 7 housed a CIA facility** — confirmed (NYT 4 Nov 2001, CBS). Iran and Latin America linkages appear in declassified and journalistic sources.
+
+**Dead ends:** No direct proof that “NSA took out the CIA” on 9/11; only structural and post-hoc interpretation. The “revelation of the method” (Iran nuke handover as end-game script) is unfalsifiable from public evidence. Crisis-by-crisis “trace” to CIA remains interpretive.
+
+**Likelihood (objective):** OSS/CIA continuity and extra-constitutional design: **high**. CIA involvement in drug trade, regime change, and cover-up: **high** where documented. WTC 7 destruction as deliberate decapitation of CIA: **possible but unproven**. Antibody (NSA vs CIA) as institutional design: **speculative**. Iran end-game script: **speculative**. Full consolidation of TODOs and book list: [Investigations Deep Dive](/docs/INVESTIGATIONS_DEEP_DIVE.md).
+
+---
+
+## VIII. Open Questions and Research Tasks
+
+- [x] **OSS/Nazi gold:** Locate and summarise reports and books on OSS/CIA and Nazi asset capture; list primary sources. **Done:** Eizenstat (1997/1998), OSS Project SAFEHAVEN (CIA CSI), Operation Paperclip (JIOA, CIA reading room); see § I Nazi Gold above.
+- [ ] **Full texts and authors:** Compile a list of key books and authors on CIA history and operations; obtain or link to full texts where possible (e.g. Alfred McCoy, Gary Webb, Joseph Trento, Tim Weiner, Stephen Kinzer, John Stockwell). Trento: *Prelude to Terror* (2005). See References for full list.
+- [x] **CIA statements post-9/11:** Systematically search for CIA directors’ or senior officers’ statements (2001–present) that the Agency was “diminished” or restructured in capability. **Done:** Tenet 9/11 Commission testimony (pre-9/11 erosion, post-9/11 rebuilding); see § III CIA Representatives above.
+- [x] **Building 7 / WTC 7:** Compile claims that WTC 7 housed CIA facilities and that its destruction was an attack on the CIA; cross-reference with [9/11 Investigation](/events/911) and [False Flags](/timeline/evt-false-flags-architecture) if paths exist in this repo. **Done:** CIA on floor 25; tenant list and citations in [09-11 Investigation](/events/false_flag/investigations/09-11-investigation.md).
 - [ ] **Iran:** Map Operation Ajax, Shah, nuclear infrastructure, and Ayatollah rise; document British/MI6 and CIA cooperation and any “revelation of the method” declassifications.
 - [ ] **Latin America:** Document CIA involvement in gangs, Noriega, and Venezuela/Maduro; link to Bush Sr. and Trump-era actions.
 - [ ] **NSA vs CIA:** Document founding and mandate of NSA; any rivalry or “antibody” role.
@@ -127,17 +137,18 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 
 ---
 
-## VIII. References (To Be Expanded)
+## IX. References (To Be Expanded)
 
 - Paradigm-threat timeline: [False Flags: Architecture of Manufactured War](/timeline/evt-false-flags-architecture), [Historical Antibodies](/timeline/evt-historical-antibodies), [World War II: Reverse Crusade III](/timeline/evt-world-war-ii-reverse-crusade-iii)
 - British divide-and-conquer: [British Divide-Conquer Israel Investigation](/governance/war/investigations/british-divide-conquer-israel-investigation.md)
-- **Authors and works to add:** McCoy (*The Politics of Heroin*), Webb (Dark Alliance series), Weiner (*Legacy of Ashes*), Kinzer (*All the Shah’s Men*, *Overthrow*), Trento, Stockwell (*In Search of Enemies*), and others as identified.
-- **Official:** National Security Act 1947; Eizenstat reports on Nazi gold; Senate/House intelligence and foreign relations reports on CIA.
-- **9/11:** NIST WTC 7 report; alternative engineering and claims re WTC 7 and CIA occupancy.
+- **Books and full texts to obtain or link (original sources):** McCoy (*The Politics of Heroin*), Webb (Dark Alliance series), Weiner (*Legacy of Ashes*), Kinzer (*All the Shah’s Men*, *Overthrow*), Trento, Stockwell (*In Search of Enemies*), and others as identified.
+- **Full list of books to obtain:** McCoy *Politics of Heroin in Southeast Asia* (1972), Webb *Dark Alliance* (1998), Weiner *Legacy of Ashes* (2007), Kinzer *All the Shah's Men* (2003) & *Overthrow* (2006), Trento *Prelude to Terror* (2005 — rogue CIA, Shackley, Iran-Contra), Stockwell *In Search of Enemies* (1978), Valentine *The Phoenix Program* (1990); Eizenstat/OSS/Nazi gold (links in § I); Paperclip (CIA reading room, NARA). Consolidated list: [Investigations Deep Dive](/docs/INVESTIGATIONS_DEEP_DIVE.md).
+- **Official:** National Security Act 1947; Eizenstat reports (State Dept 1997–98); CIA CSI [OSS and Project SAFEHAVEN](https://www.cia.gov/resources/csi/static/oss-project-safehaven.pdf); Senate/House intelligence and foreign relations reports on CIA.
+- **9/11:** [NIST Final Report WTC 7](https://www.nist.gov/publications/final-report-collapse-world-trade-center-building-7); NYT/CBS/Wikipedia tenant list (see § III and 09-11 investigation).
 
 ---
 
-## IX. Related Timeline and Site Links
+## X. Related Timeline and Site Links
 
 - [1947 CE — Central Intelligence Agency: OSS Rebrand and Cold War Deep State](/timeline/evt-1947-ce-central-intelligence-agency-oss-rebrand) (timeline article)
 - [False Flags: Architecture](/timeline/evt-false-flags-architecture)

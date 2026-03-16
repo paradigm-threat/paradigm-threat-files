@@ -97,12 +97,25 @@ Daniel Ellsberg knew. He leaked the Pentagon Papers. The pattern: spectacular cl
 
 ---
 
+## Validation, Dead Ends, and Likelihood
+
+**Validated:** WTC 7 housed a CIA secret site — confirmed (NYT 4 Nov 2001, CBS). Gulf of Tonkin second attack fabricated — confirmed (NSA declassification 2005). NIST WTC 7 "fire-induced collapse" contested in engineering literature (AE911Truth, etc.).
+
+**Dead ends:** The good-actor thesis (9/11 executed by antibodies to destroy CIA's operational primacy) is **interpretive** — no direct proof. No-planes/CGI thesis is unfalsifiable from public evidence. Controlled demolition remains contested; not resolved here.
+
+**Likelihood (objective):** WTC 7 as CIA facility: **certain**. Its destruction as deliberate decapitation: **possible**, structurally consistent with thesis. Good-actor thesis overall: **speculative** — internally coherent but not provable. Full TODOs: [Investigations Deep Dive](/docs/INVESTIGATIONS_DEEP_DIVE.md).
+
+---
+
 ## References and Next Steps
 
 ### Primary Sources
-- NYT, 4 Nov 2001: "Secret C.I.A. Site in New York Was Destroyed on Sept. 11"
-- CBS: "Report: CIA Lost Office In WTC"
-- [List of tenants in 7 World Trade Center (1987–2001)](https://en.wikipedia.org/wiki/List_of_tenants_in_7_World_Trade_Center_(1987%E2%80%932001))
+- NYT, 4 Nov 2001: [“Secret C.I.A. Site in New York Was Destroyed on Sept. 11”](https://www.nytimes.com/2001/11/04/us/nation-challenged-intelligence-agency-secret-cia-site-new-york-was-destroyed.html)
+- CBS: [“Report: CIA Lost Office In WTC”](https://www.cbsnews.com/news/report-cia-lost-office-in-wtc/)
+- [List of tenants in 7 World Trade Center (1987–2001)](https://en.wikipedia.org/wiki/List_of_tenants_in_7_World_Trade_Center_(1987%E2%80%932001)) — Wikipedia, with NIST/CoStar/AP sourcing
+
+### WTC 7 tenant list and CIA floor (verified)
+- **CIA occupancy:** The CIA and Department of Defense shared **floor 25** with the IRS Regional Council. The clandestine CIA office was not publicly disclosed until after 9/11 (NYT 4 Nov 2001; [Wikipedia: List of tenants in 7 WTC](https://en.wikipedia.org/wiki/List_of_tenants_in_7_World_Trade_Center_(1987%E2%80%932001)) citing NIST 2008 Final Report and Associated Press). Other government tenants: Secret Service (floors 9–10), SEC (11–13), NYC OEM (23), DoD/CIA/IRS (24–25). Anchor tenant: Salomon Smith Barney (floors 28–45 and others). NIST (2008): [Final Report on the Collapse of World Trade Center Building 7](https://www.nist.gov/publications/final-report-collapse-world-trade-center-building-7) — fire-induced collapse thesis; contested by AE911Truth and others.
 
 ### Timeline Cross-References
 - [False Flags: Architecture](/timeline/evt-false-flags) — main article
@@ -113,4 +126,4 @@ Daniel Ellsberg knew. He leaked the Pentagon Papers. The pattern: spectacular cl
 ### Open Questions
 - Document controlled-demolition evidence (AE911Truth, NIST critiques).
 - Trace predictive-programming references (films, TV) pre-2001.
-- Verify WTC 7 tenant list and CIA floor allocations.
+- ~~Verify WTC 7 tenant list and CIA floor allocations.~~ **Done:** CIA and DoD on floor 25; tenant list and citations above.
