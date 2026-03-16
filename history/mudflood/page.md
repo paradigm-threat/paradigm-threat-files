@@ -16,7 +16,7 @@ the [Journalistic Six](https://www.sessionlab.com/methods/the-journalistic-six):
   </figcaption>
 </figure>
 
-![MudFlood Evidence: Buried Great Temple of Artemis](./history/mudflood_turkey.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![MudFlood Evidence: Buried Great Temple of Artemis](/history/mudflood/mudflood_turkey.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ## What is the MudFlood Theory?
 
@@ -65,7 +65,7 @@ Note: This investigation is a work in progress. Check back soon for more updates
 ![MudFlood Evidence: Buried Pyramids in Bosnia](../../history/chronology/pyramids/history_buried_pyramid.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
   These pyramids are entirely covered by soil and vegetation. The only way this could happen is if all the pyramids
   were covered in mud in the past. To this day, archaeologists claim the entire Bosnian nation is suffering from
-  some kind of [mass hysteria](https://en.wikipedia.org/wiki/Bosnian_pyramid_claims).](./history/mudflood_energetic_event_hypothesis.png?w=800)
+  some kind of [mass hysteria](https://en.wikipedia.org/wiki/Bosnian_pyramid_claims).](/history/mudflood/mudflood_energetic_event_hypothesis.png?w=800)
 
 
 <h1 className="no-index">Index</h1>
@@ -95,9 +95,9 @@ and allowed the humans on Mars to identify 'chosen people' who they would 'deliv
 essentially repopulating Earth cities, redacting all Earth history, religion, science, and language, and impose a
 system of control on the survivors that lasts to this day.
 
-![MudFlood Evidence: Bloodrain Paintings](./blood_rain2.jpg?w=360 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![MudFlood Evidence: Bloodrain Paintings](/history/mudflood/blood_rain2.jpg?w=360 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
   The 'Comet' as a carrier of disease and deformity in the Lucerne Chronicle, Luzerner Schilling 61v.
-  allegedly 1513](./history/mudflood_journalistic_six.jpg?w=640)
+  allegedly 1513](/history/mudflood/mudflood_journalistic_six.jpg?w=640)
 
 By discerning the complete scope of possibilities of a [redacted](https://en.wikipedia.org/wiki/Phantom_time_hypothesis)
 human historical record - by identifying biases inscribed by those who would benefit from bias, then a singular,
@@ -110,7 +110,7 @@ lessons of our past, can force us to repeat our mistakes - War, Famine, and Geno
 outcome that leaves them in charge when the dust settles.
 
 ![The image shows an excavation site at what is believed to be the Chattar Manzil in Lucknow, India,
-  which is a historical structure that has been the subject of a MudFlood investigations](./history/mudflood_buried_buildings7.jpg?w=360)
+  which is a historical structure that has been the subject of a MudFlood investigations](/history/mudflood/mudflood_buried_buildings7.jpg?w=360)
 
 ## Dependent Proofs & Concepts
 
@@ -131,7 +131,7 @@ the [consensus explanation](https://en.wikipedia.org/wiki/Scientific_consensus#P
 
 
 ![[History: Fiction or Science?](https://www.amazon.com/History-Fiction-Science-Chronology-No/dp/2913621058)
- was first published 2003](./../history/chronology/new_chronology_backside.jpg?w=360)
+ was first published 2003](/history/chronology/new_chronology_backside.jpg?w=360)
 
 ### The Phantom Time Hypothesis
 
@@ -165,7 +165,7 @@ causality of events intact. The worst crimes of history were pushed into deep an
 like a natural occurrence, or _terrorism_.
 
 ![Much of the material considered by the Electric Universe is peer-reviewed,
-  it's theories have tested favourably in the [Safire Project](https://www.safireproject.com/)](./../cosmos/cosmology/electric_universe/electric_universe.jpg?w=360)
+  it's theories have tested favourably in the [Safire Project](https://www.safireproject.com/)](/cosmos/cosmology/electric_universe/electric_universe.jpg?w=360)
 
 ### The Electric Universe (EU) Theory
 
@@ -189,7 +189,7 @@ narrative we know today.
 ![“It is a direct sequitur from this that the planet is at present the abode of intelligent constructive life,
   I may say in this connection that the theory of such life upon Mars was in no way an a-priori hypothesis on my part,
   but deduced from the outcome of observation, and that my observations since have fully confirmed it.
-  No other supposition is consonant with all the facts here.” - Percival Lowell, New York Times (1907)](./../cosmos/mars/mars_life.jpg?w=360)
+  No other supposition is consonant with all the facts here.” - Percival Lowell, New York Times (1907)](/cosmos/mars/mars_life.jpg?w=360)
 
 ### Human Activity on Mars
 
@@ -207,7 +207,7 @@ channels using a precision observatory he built in Flagstaff. At that same time,
 faked his own death on the Titanic, published testimony where he visited each planet, and yet again, traveled inside our
 Sun.
 
-![An unsourced newspaper article claims that artificial canals on Mars are full of fish](./../cosmos/mars/mars_life2.jpg?w=360)
+![An unsourced newspaper article claims that artificial canals on Mars are full of fish](/cosmos/mars/mars_life2.jpg?w=360)
 
 If these narratives are considered redacted from their original versions and posited as fiction, the possibility emerges
 of planet Mars as home to a break-away human civilization which has influenced Earthly affairs during the entirety of
@@ -232,7 +232,7 @@ Mars centuries before they appeared on Earth.
 [More about life on Mars](/cosmos/mars)
 
 !["USA Has Issues with Maps of 18th Century" by Anatoly Fomenko and Gleb Nosovskiy.
-  It is part of the "History: Fiction or Science?" series.](./map_fomenko.jpg?w=320)
+  It is part of the "History: Fiction or Science?" series.](/history/mudflood/map_fomenko.jpg?w=320)
 
 ### World Map Changes between 18th to 19th Centuries
 
@@ -243,7 +243,7 @@ To locate where these melted cities used to be, simply search google for a map o
 
 ![This is a map of North America from the 1700s.
   It shows the various colonies that existed at the time, as well as the *Island* of California
-  and no sign of the Grand Canyon, or Colorado River or Rockies](./map_california_island.jpg?w=360)
+  and no sign of the Grand Canyon, or Colorado River or Rockies](/history/mudflood/map_california_island.jpg?w=360)
 
 Before the rebellion, the Siberian Tartarian Kingdom still stood, along with mythical locations
 (Shangri-La, El Dorado, Lemuria, Zealandia etc.).
@@ -274,7 +274,7 @@ petrified. The island had redirected the secondary energy around its bulk and ba
 ### Giants Roamed the Earth
 
 ![A collection of old newspaper clippings reporting the discovery of
-  giant skeletons in various locations across North America.](./../governance/genocide/giants_faeries/giants_news.jpg?w=360)
+  giant skeletons in various locations across North America.](/governance/genocide/giants_faeries/giants_news.jpg?w=360)
 
   In America, Europe, Africa, and Asia, the expurgation of our large-scale human brethren is today known as the
 Smithsonian Cover Up. How and why did the giants die?
@@ -291,7 +291,7 @@ Dinosaur fossils therefore may not be millions of years old,
 but misidentified giant fossils created recently in the MudFlood event.
 
 ![Giant skeletons found around the world range in size from 6 to 36 feet,
-  with the smallest figure representing a present-day man](./../governance/genocide/giants_faeries/genocide_giants9.jpg?w=360)
+  with the smallest figure representing a present-day man](/governance/genocide/giants_faeries/genocide_giants9.jpg?w=360)
 
 To the Deep State, giants of Earth represented one of the few remaining unconquered races, and an existential threat.
 Therefore, the wiping out of the giants was not an accident. The Smithsonian project began in 1846, systematically
@@ -317,7 +317,7 @@ After the relocation, the Bering Strait was destroyed by the same cannon(s) that
 ![The Deep State is defined as an international cabal,
   typically influential members of government agencies and the military,
   believed to be involved in the secret manipulation and control of government policies
-  around the world.](./../history/chronology/redacted.jpg?w=360)
+  around the world.](/history/chronology/redacted.jpg?w=360)
 
 ### The Deep State is an Interplanetary Mafia
 
@@ -331,7 +331,7 @@ to their *family*.
 
 ![The cosmic mountain is celebrated around the world,
   and described as a pillar of fire and light rising along the world axis;
-  as a radiant city or temple of heaven, as the prototype for any sacred space on earth.](./../history/chronology/saturn/cosmic_mountain.jpg?w=360)
+  as a radiant city or temple of heaven, as the prototype for any sacred space on earth.](/history/chronology/saturn/cosmic_mountain.jpg?w=360)
 
 Atlantis represents the first human empire still remembered today. In Saturnian Cosmology, it was located on the highest
 place in the collinear configuration where one could set foot - the North Pole of Planet Mars. Atlantis was the center
@@ -352,7 +352,7 @@ luring them with the promise of food, safety, and civilization.
 [Watch: "Remembering the End of the World" by David Talbot](https://www.youtube.com/watch?v=t3SlCNDrSPQ)
 
 ![A *pyramidal* Empire is any empire that uses pyramids to communicate, headquarter, and maintain order.
-  Such an empire existed in every age of the Earth - Golden, Dark, and Modern.](./../history/chronology/pyramids/pyramids_around_the_world.jpg?w=420)
+  Such an empire existed in every age of the Earth - Golden, Dark, and Modern.](/history/chronology/pyramids/pyramids_around_the_world.jpg?w=420)
 
 #### The Pyramidal Empire
 
@@ -381,7 +381,7 @@ Using its simulated God, the Deep State ordered humanity to commit endless relig
 against itself, dividing civilizations, and always benefiting from the conquest.
 
 ![The Vatican Apostolic Archive has been estimated to contain 85 kilometres (53 mi) of shelving,
-  with 35,000 volumes in the selective catalogue alone.](./../influence/conspiracy/vatican_suppressed_documents.jpg?w=240)
+  with 35,000 volumes in the selective catalogue alone.](/influence/conspiracy/vatican_suppressed_documents.jpg?w=240)
 
 According to Fomenko’s New Chronology, the starting date for modern civilization, Year Zero, was shifted forward in time
 to the special year of 1053 AD by the Roman Catholic Church. Originally, Year Zero marked the end of Earth’s formation
@@ -420,7 +420,7 @@ invisible Gods, devils, bug-like / or otherwise repulsive-looking aliens, a Gala
 [Flat Earth: Controlled Opposition or Psyop](https://flatearth.ws/controlled-opposition)
 
 ![[Secret Societies and Psychological Warfare](https://www.goodreads.com/book/show/26234.Secret_Societies_and_Psychological_Warfare)
-  by Michael A. Hoffman II](./../influence/conspiracy/revelation_of_method.jpg?w=360)
+  by Michael A. Hoffman II](/influence/conspiracy/revelation_of_method.jpg?w=360)
 
 <figure className="sm:float-right clear-right m-auto sm:m-1 sm:ml-4 sm:max-w-md">
   <video title="Predictive Programming in modern media" poster="https://paradigm-threat.s3.amazonaws.com/video/thumb/Predictive+Programming+Chemtrails.png" controls className="m-auto w-[360px] h-[320px]" >
@@ -460,7 +460,7 @@ systematically dismissing mountains of testimony from our ancestors, as historia
 allow the hi-story to tell itself. We owe it to our *ancestors and our descendants both* to find the answers to these
 questions.
 
-![A cataclysmic event buried many old buildings and civilizations under layers of mud in recent centuries.](./history/mudflood_buried_buildings.jpg?w=360)
+![A cataclysmic event buried many old buildings and civilizations under layers of mud in recent centuries.](/history/mudflood/mudflood_buried_buildings.jpg?w=360)
 
 ## What is the MudFlood Energetic Event?
 
@@ -471,7 +471,7 @@ re-shaping of land masses and the covering up of cities across the planet with m
 pulled out of the ground in dendritic patterns by positive electric discharge while negative discharge tore
 canyons out of the earth - identical to the lightning scarring seen across the surface of Mars.
 
-![The Moai statues of Easter Island appear toppled and tilted.](./history/mudflood_burried_statues.jpg?w=360)
+![The Moai statues of Easter Island appear toppled and tilted.](/history/mudflood/mudflood_burried_statues.jpg?w=360)
 
 The emptied buildings of the “reset areas”, recently cleared of life, were then repopulated by orphan trains forming the
 first cargo cults. Train tracks were promptly built across America, Europe, and Asia supplying humans and cargo.
@@ -558,7 +558,7 @@ were in charge of the misrepresentation of the Pugachev war history.
 
 
 
-![Tartarian Neoclassical architecture found all over the world is evidence of a previous Empire.](./../history/chronology/tartaria/tartarian_structures.jpg?w=360)
+![Tartarian Neoclassical architecture found all over the world is evidence of a previous Empire.](/history/chronology/tartaria/tartarian_structures.jpg?w=360)
 
 ## Where was the MudFlood Event?
 
@@ -571,7 +571,7 @@ Latin Root, splintering its religious icons, and rebranding itself as the “Hol
 
 ![The 'Ring of Fire' is made up of volcanoes around the world.
   Factoring in the Electric Universe Theory, Andrew Hall describes how these volcano regions were formed as a result of
-  a negative electric scarring.](./secondary_negative_discharge.jpg?w=360)
+  a negative electric scarring.](/history/mudflood/secondary_negative_discharge.jpg?w=360)
 
 The Rus-Horde Empire broke up in 1775 as a result of the defeat of Siberian war chief Pugachev in the Cossack Rebellion.
 Up until that point, Tartarian vassal states spanned every continent. Now
@@ -589,7 +589,7 @@ and Tibet. Many Tartarian cathedrals like in St Petersburg and Salt Lake City ha
 survived.
 
 ![Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places
-  in the Grand Canyon, AZ](./grand_canyon_criscross_lightning_scar.jpg?w=360)
+  in the Grand Canyon, AZ](/history/mudflood/grand_canyon_criscross_lightning_scar.jpg?w=360)
 
 
 The American west coasts were hit by an uncontrollable secondary negative electric discharge that arced across the
@@ -688,7 +688,7 @@ Reformation/Renaissance and Monotheism, and along with them, slavery, usury, and
 
 ![Contemplating the nature
   of [electromagnetic induction](https://www.electronics-tutorials.ws/electromagnetism/electromagnetic-induction.html),
-  humans built the first cathedrals and minarets between 806 and 687 B.C.E.](./../history/chronology/saturn/cathoderal.jpg?w=360)
+  humans built the first cathedrals and minarets between 806 and 687 B.C.E.](/history/chronology/saturn/cathoderal.jpg?w=360)
 
 The Protestant Reformation that was planning to erase the Russian empire was sponsored largely by humans on Mars over
 the course of history - with Martian agents appearing as angels in cathodic telepathic visions.
@@ -702,7 +702,7 @@ wasteland, with all of its mythical locations melted and/or buried.
 
 ![Woodcut with   early hand colouring from Conrad Lycosthenes' (Chronicle of Prodigies and Omens) - 'Prodigiorum ac Ostentorum Chronicon'
   Published Hendricus Petri, Basel, allegedly 1557. This image appears to show a shower of meteorites - Lycosthenes notes
-  they are **stones** and not hail.](./1557_lycosthenes_rain_of_stones_meteorite.jpg?w=360)
+  they are **stones** and not hail.](/history/mudflood/1557_lycosthenes_rain_of_stones_meteorite.jpg?w=360)
 
 The only entity capable of causing such destruction was the advanced human civilization living on Mars
 which had broken away after the Golden Age. Until the war of 1773, Human Martians had used cathodal
@@ -722,7 +722,7 @@ this way, the Deep State covered up its own involvement while striking the fear 
 little choice but to accept the Church’s conclusion -
 that Pugachev’s defeat was Divine Retribution by God for insubordination.
 
-![Ehrenberg's 1844 paper discusses his findings on atmospheric dust and its connection to blood rain](./1844_blood_rain.jpg?w=360)
+![Ehrenberg's 1844 paper discusses his findings on atmospheric dust and its connection to blood rain](/history/mudflood/1844_blood_rain.jpg?w=360)
 
 During the 40+ years of the MudFlood Event, much of the Earth became an unlivable desert. Many ecosystems in
 places like the Middle East, North Africa, Australia etc. never recovered and remain deserts. If the Deep State
@@ -740,7 +740,7 @@ Events of the Mudflood were then further redacted into the Old Testament *Exodus
 and redistributed in the 19th century.
 
 ![A Jesuit Priest takes advantage of the frightened and confused population as the MudRain pours:
-  `“God is punishing you”`](./blood_rain_priest_1888.jpg?w=360)
+  `“God is punishing you”`](/history/mudflood/blood_rain_priest_1888.jpg?w=360)
 
 ### 1776 C.E.: The Greatest Reset
 
@@ -773,7 +773,7 @@ Pandora's Box was opened once again.
 
 ![The scale of deaths in the York Asylum became a national scandal since, in the course of the investigation,
   it became apparent that the level of mortality had been deliberately under-reported with the complicity of physicians.
-  [source](https://hekint.org/2018/03/29/the-york-retreat/)](./YorkRetreat.jpg?w=360)
+  [source](https://hekint.org/2018/03/29/the-york-retreat/)](/history/mudflood/YorkRetreat.jpg?w=360)
 
 ### Fact becomes Fiction and Vice Versa
 
@@ -861,39 +861,39 @@ interplanetary genocide.
 
 ## Additional Media
 
-[MFEE Investigation](investigations/mfee-investigation.md)
-[Tartarian Maps Investigation](investigations/tartarian-maps-investigation.md)
+[MFEE Investigation](/history/mudflood/investigations/mfee-investigation.md)
+[Tartarian Maps Investigation](/history/mudflood/investigations/tartarian-maps-investigation.md)
 
-![](1557_lycosthenes_airship_on_fire.jpg) ![](1557_lycosthenes_rain_of_stones_meteorite.jpg) ![](1562_peter_bruce_gale_dinosaurs.jpg) ![](1642_yellow_river_flood.jpg) ![](1830_indian_removal_act.jpg) ![](1833_falling_stars.jpg)
-![](1844_blood_rain.jpg) ![](1858_Pierre_Ambroise_Richebourg_burried_windows.jpg) ![](1862_flood_across_america2.jpg) ![](1862_flood_across_america.jpg) ![](1862_tsagan_earthquake.jpg) ![](1915_worlds_fair_san_francisco.jpg)
-![](arizona_wave_rocks.jpg) ![](ayers_rock_australia.jpg) ![](before_after.jpg) ![](blood_rain2.jpg) ![](blood_rain_asloboda_1899.jpg) ![](blood_rain_priest_1888.jpg)
-![](buried_artemis.jpg) ![](buried_chicago.jpg) ![](buried_city_kalahari.jpg) ![](buried_monastery.jpg) ![](buried_pyramid_teotihuacan_pyramid.jpg) ![](buried_rail2.jpg)
-![](buried_rail3.jpg) ![](buried_rail.jpg) ![](cargo_cults.jpg) ![](cargo_cult_visions.jpg) ![](chad-modern.jpg) ![](conceiled_buildlings.jpg)
-![](covered_up_architechture.jpg) ![](dendridict_scarring_qesm_al_wahat_ad_dakhlah_egypt.jpg) ![](devils_tower.jpg) ![](dustbowl_storm_1935_kansas2.jpg) ![](dustbowl_storm_1935_kansas3.jpg) ![](dustbowl_storm_1935_kansas.jpg)
-![](dustbowl_storm_1935_texas.jpg) ![](dustbowl_timeline.jpg) ![](electric_scar_monument.jpg) ![](electric_scar_mountain2.jpg) ![](electric_scar_mountain.jpg) ![](fused_rock.jpg)
-![](fused_rock_panagia_sumela.jpg) ![](giant_burial_mound.jpg) ![](giant_burial_serpent_mound2.jpg) ![](giant_mounds.jpg) ![](giant_mounds_wisconsin_article.jpg) ![](giant_mounds_wisconsin_destruction2.jpg)
-![](giant_mounds_wisconsin_destruction.jpg) ![](giant_mounds_wisconsin_elevated_prairie_map.jpg) ![](giant_turtle_mound.jpg) ![](goldmap_melted_cities.jpg) ![](grand_canyon_criscross_lightning_scar3.jpg) ![](grand_canyon_criscross_lightning_scar.jpg)
-![](grand_canyon_scar_caused_appalachian_mountain_region.jpg) ![](haughton_impact_crater.jpg) ![](istanbul_periods.jpg) ![](khara_khoto_black_city.jpg) ![](la_buried_civilization.jpg) ![](lexington_burried_architecture_possible_deepfake.jpg)
-![](lichtenberg_figures.jpg) ![](lightning_painted_china2.jpg) ![](lightning_painted_china.jpg) ![](lightning_scar3.jpg) ![](lightning_scar4.jpg) ![](lightning_scar5.jpg)
-![](lightning_scar_australia.jpg) ![](lightning_scar_devils_tower.jpg) ![](lightning_scar_grand_canyon2.jpg) ![](lightning_scar_grand_canyon.jpg) ![](lightning_scar.jpg) ![](lightning_scar_mesa.jpg)
-![](lightning-scarred-earth2.jpg) ![](lightning-scarred-earth3.jpg) ![](lightning-scarred-earth.jpg) ![](lightning_scars_antelope_canyon_az.jpg) ![](lightning_scar_zion.jpg) ![](louisiana2.jpg)
-![](louisiana.jpg) ![](louisiana-purchase.jpg) ![](mandelbrot_electric_scarring.jpg) ![](map_american_rivers.jpg) ![](map_appalachian_lightning_scarring.jpg) ![](map_appalachian_mountains.jpg)
-![](map_beringia_land_bridge.jpg) ![](map_california_island.jpg) ![](map_colorado_river2.jpg) ![](map_colorado_river3.jpg) ![](map_colorado_river.jpg) ![](map_fomenko.jpg)
-![](map_geyser_hotspring_map.jpg) ![](map_great_wall.jpg) ![](map_india_climate_change.jpg) ![](map_india_compare1.jpg) ![](map_india_compare2.jpg) ![](map_india_no_himalayans.jpg)
-![](map_india_rivers.jpg) ![](map_lightning_scar_mariana_trench.jpg) ![](map_orphan_train5.jpg) ![](map_orphan_train6.jpg) ![](map_tartaria_no_himalayans.jpg) ![](map_zelandia_ex_continent.jpg)
-![](masada_mesa.jpg) ![](mega-chad.jpg) ![](melted_mountains.jpg) ![](melted_rocks_utah.jpg) ![](melted_stairs.jpg) ![](meltrix_controlled_opposition_warning.jpg)
-![](mountain_drilled_shaft.jpg) ![](mu_book.jpg) ![](mu_continent2.jpg) ![](mu_continent4.jpg) ![](mu_continent.jpg) ![](mudflood_arches.jpg)
-![](mudflood_before.jpg) ![](mudflood_buried_buildings10.jpg) ![](mudflood_buried_buildings11.jpg) ![](mudflood_buried_buildings3.jpg) ![](mudflood_buried_buildings4.jpg) ![](mudflood_buried_buildings5.jpg)
-![](mudflood_buried_buildings7.jpg) ![](mudflood_buried_buildings8.jpg) ![](mudflood_buried_buildings9.jpg) ![](mudflood_buried_buildings_deepfake.jpg) ![](mudflood_buried_buildings.jpg) ![](mudflood_buried_russian_winter_palace_deepfake.jpg)
-![](mudflood_burried_statues.jpg) ![](mudflood_energetic_event_hypothesis.png) ![](mudflood_jerusalem2.jpg) ![](mudflood_jerusalem.jpg) ![](mudflood_journalistic_six.jpg) ![](mudflood_layers2.jpg)
-![](mudflood_layers.jpg) ![](mudflood_lightning.jpg) ![](mudflood_paris.jpg) ![](mudflood_reset_meme.jpg) ![](mudflood_tartaria_meme.jpg) ![](mudflood_theory.jpg)
-![](mudflood_turkey.jpg) ![](mu_wreckage_ring_of_fire2.jpg) ![](mu_wreckage_ring_of_fire.jpg) ![](napoleon_airships_vlot_van_saint_malo_1797.jpg) ![](oblesk_lightning2.jpg) ![](oblesk_lightning.jpg)
-![](orphan-train-0.jpg) ![](orphan-train-1.jpg) ![](orphan-train-2.jpg) ![](orphan-train-3.jpg) ![](orphan-train-4.jpg) ![](orphan-train-7.jpg)
-![](orphan-train-8.jpg) ![](orphan-train-9.jpg) ![](orphan_trains.jpg) ![](orphan-train-to-michigan.jpg) ![](petrified_ladder.jpg) ![](polynesia_remains_of_zealandia.svg)
-![](pyramids_japaneese_book.jpg) ![](question_narrative_meme2.jpg) ![](question_narrative_meme.jpg) ![](red-brick-implosion.jpg) ![](ring_of_fire_subduction.jpg) ![](rio_grande.jpg)
-![](rio_grande_river_gorge_scarring.jpg) ![](rome_tunnel.jpg) ![](secondary_negative_discharge.jpg) ![](serpent_mound.jpg) ![](sky-scrapers.jpg) ![](snake_river_scarring.jpg)
-![](st_john_church_in_dc.jpg) ![](tadrart_rouge_algeria.jpg) ![](uruk_melted_city.jpg) ![](vatican_suppressed_documents2.jpg) ![](whitehouse-uninhabitable.jpg) ![](yogaguni_underwater_pyramid.jpg)
-![](YorkRetreat.jpg)
+![](/history/mudflood/(/history/mudflood/1557_lycosthenes_airship_on_fire.jpg) ![](/history/mudflood/(/history/mudflood//history/mudflood/1557_lycosthenes_rain_of_stones_meteorite.jpg) ![](/history/mudflood/(/history/mudflood//history/mudflood/1562_peter_bruce_gale_dinosaurs.jpg) ![](/history/mudflood/(/history/mudflood//history/mudflood/1642_yellow_river_flood.jpg) ![](/history/mudflood/(/history/mudflood//history/mudflood/1830_indian_removal_act.jpg) ![](/history/mudflood/(/history/mudflood//history/mudflood/1833_falling_stars.jpg)
+![](/history/mudflood/(/history/mudflood/1844_blood_rain.jpg) ![](/history/mudflood/(/history/mudflood/1858_Pierre_Ambroise_Richebourg_burried_windows.jpg) ![](/history/mudflood/(/history/mudflood/1862_flood_across_america2.jpg) ![](/history/mudflood/(/history/mudflood/1862_flood_across_america.jpg) ![](/history/mudflood/(/history/mudflood/1862_tsagan_earthquake.jpg) ![](/history/mudflood/(/history/mudflood/1915_worlds_fair_san_francisco.jpg)
+![](/history/mudflood/(/history/mudflood/arizona_wave_rocks.jpg) ![](/history/mudflood/(/history/mudflood/ayers_rock_australia.jpg) ![](/history/mudflood/(/history/mudflood/before_after.jpg) ![](/history/mudflood/(/history/mudflood/blood_rain2.jpg) ![](/history/mudflood/(/history/mudflood/blood_rain_asloboda_1899.jpg) ![](/history/mudflood/(/history/mudflood/blood_rain_priest_1888.jpg)
+![](/history/mudflood/(/history/mudflood/buried_artemis.jpg) ![](/history/mudflood/(/history/mudflood/buried_chicago.jpg) ![](/history/mudflood/(/history/mudflood/buried_city_kalahari.jpg) ![](/history/mudflood/(/history/mudflood/buried_monastery.jpg) ![](/history/mudflood/(/history/mudflood/buried_pyramid_teotihuacan_pyramid.jpg) ![](/history/mudflood/(/history/mudflood/buried_rail2.jpg)
+![](/history/mudflood/(/history/mudflood/buried_rail3.jpg) ![](/history/mudflood/(/history/mudflood/buried_rail.jpg) ![](/history/mudflood/(/history/mudflood/cargo_cults.jpg) ![](/history/mudflood/(/history/mudflood/cargo_cult_visions.jpg) ![](/history/mudflood/(/history/mudflood/chad-modern.jpg) ![](/history/mudflood/(/history/mudflood/conceiled_buildlings.jpg)
+![](/history/mudflood/(/history/mudflood/covered_up_architechture.jpg) ![](/history/mudflood/(/history/mudflood/dendridict_scarring_qesm_al_wahat_ad_dakhlah_egypt.jpg) ![](/history/mudflood/(/history/mudflood/devils_tower.jpg) ![](/history/mudflood/(/history/mudflood/dustbowl_storm_1935_kansas2.jpg) ![](/history/mudflood/(/history/mudflood/dustbowl_storm_1935_kansas3.jpg) ![](/history/mudflood/(/history/mudflood/dustbowl_storm_1935_kansas.jpg)
+![](/history/mudflood/(/history/mudflood/dustbowl_storm_1935_texas.jpg) ![](/history/mudflood/(/history/mudflood/dustbowl_timeline.jpg) ![](/history/mudflood/(/history/mudflood/electric_scar_monument.jpg) ![](/history/mudflood/(/history/mudflood/electric_scar_mountain2.jpg) ![](/history/mudflood/(/history/mudflood/electric_scar_mountain.jpg) ![](/history/mudflood/(/history/mudflood/fused_rock.jpg)
+![](/history/mudflood/(/history/mudflood/fused_rock_panagia_sumela.jpg) ![](/history/mudflood/(/history/mudflood/giant_burial_mound.jpg) ![](/history/mudflood/(/history/mudflood/giant_burial_serpent_mound2.jpg) ![](/history/mudflood/(/history/mudflood/giant_mounds.jpg) ![](/history/mudflood/(/history/mudflood/giant_mounds_wisconsin_article.jpg) ![](/history/mudflood/(/history/mudflood/giant_mounds_wisconsin_destruction2.jpg)
+![](/history/mudflood/(/history/mudflood/giant_mounds_wisconsin_destruction.jpg) ![](/history/mudflood/(/history/mudflood/giant_mounds_wisconsin_elevated_prairie_map.jpg) ![](/history/mudflood/(/history/mudflood/giant_turtle_mound.jpg) ![](/history/mudflood/(/history/mudflood/goldmap_melted_cities.jpg) ![](/history/mudflood/(/history/mudflood/grand_canyon_criscross_lightning_scar3.jpg) ![](/history/mudflood/(/history/mudflood/grand_canyon_criscross_lightning_scar.jpg)
+![](/history/mudflood/(/history/mudflood/grand_canyon_scar_caused_appalachian_mountain_region.jpg) ![](/history/mudflood/(/history/mudflood/haughton_impact_crater.jpg) ![](/history/mudflood/(/history/mudflood/istanbul_periods.jpg) ![](/history/mudflood/(/history/mudflood/khara_khoto_black_city.jpg) ![](/history/mudflood/(/history/mudflood/la_buried_civilization.jpg) ![](/history/mudflood/(/history/mudflood/lexington_burried_architecture_possible_deepfake.jpg)
+![](/history/mudflood/(/history/mudflood/lichtenberg_figures.jpg) ![](/history/mudflood/(/history/mudflood/lightning_painted_china2.jpg) ![](/history/mudflood/(/history/mudflood/lightning_painted_china.jpg) ![](/history/mudflood/(/history/mudflood/lightning_scar3.jpg) ![](/history/mudflood/(/history/mudflood/lightning_scar4.jpg) ![](/history/mudflood/(/history/mudflood/lightning_scar5.jpg)
+![](/history/mudflood/(lightning_scar_australia.jpg) ![](/history/mudflood/(/history/mudflood/lightning_scar_devils_tower.jpg) ![](/history/mudflood/(/history/mudflood/lightning_scar_grand_canyon2.jpg) ![](/history/mudflood/(/history/mudflood/lightning_scar_grand_canyon.jpg) ![](/history/mudflood/(/history/mudflood/lightning_scar.jpg) ![](/history/mudflood/(/history/mudflood/lightning_scar_mesa.jpg)
+![](/history/mudflood/(lightning-scarred-earth2.jpg) ![](/history/mudflood/(/history/mudflood/lightning-scarred-earth3.jpg) ![](/history/mudflood/(/history/mudflood/lightning-scarred-earth.jpg) ![](/history/mudflood/(/history/mudflood/lightning_scars_antelope_canyon_az.jpg) ![](/history/mudflood/(/history/mudflood/lightning_scar_zion.jpg) ![](/history/mudflood/(/history/mudflood/louisiana2.jpg)
+![](/history/mudflood/(louisiana.jpg) ![](/history/mudflood/(/history/mudflood/louisiana-purchase.jpg) ![](/history/mudflood/(/history/mudflood/mandelbrot_electric_scarring.jpg) ![](/history/mudflood/(/history/mudflood/map_american_rivers.jpg) ![](/history/mudflood/(/history/mudflood/map_appalachian_lightning_scarring.jpg) ![](/history/mudflood/(/history/mudflood/map_appalachian_mountains.jpg)
+![](/history/mudflood/(map_beringia_land_bridge.jpg) ![](/history/mudflood/(/history/mudflood/map_california_island.jpg) ![](/history/mudflood/(/history/mudflood/map_colorado_river2.jpg) ![](/history/mudflood/(/history/mudflood/map_colorado_river3.jpg) ![](/history/mudflood/(/history/mudflood/map_colorado_river.jpg) ![](/history/mudflood/(/history/mudflood/map_fomenko.jpg)
+![](/history/mudflood/(map_geyser_hotspring_map.jpg) ![](/history/mudflood/(/history/mudflood/map_great_wall.jpg) ![](/history/mudflood/(/history/mudflood/map_india_climate_change.jpg) ![](/history/mudflood/(/history/mudflood/map_india_compare1.jpg) ![](/history/mudflood/(/history/mudflood/map_india_compare2.jpg) ![](/history/mudflood/(/history/mudflood/map_india_no_himalayans.jpg)
+![](/history/mudflood/(map_india_rivers.jpg) ![](/history/mudflood/(/history/mudflood/map_lightning_scar_mariana_trench.jpg) ![](/history/mudflood/(/history/mudflood/map_orphan_train5.jpg) ![](/history/mudflood/(/history/mudflood/map_orphan_train6.jpg) ![](/history/mudflood/(/history/mudflood/map_tartaria_no_himalayans.jpg) ![](/history/mudflood/(/history/mudflood/map_zelandia_ex_continent.jpg)
+![](/history/mudflood/(masada_mesa.jpg) ![](/history/mudflood/(/history/mudflood/mega-chad.jpg) ![](/history/mudflood/(/history/mudflood/melted_mountains.jpg) ![](/history/mudflood/(/history/mudflood/melted_rocks_utah.jpg) ![](/history/mudflood/(/history/mudflood/melted_stairs.jpg) ![](/history/mudflood/(/history/mudflood/meltrix_controlled_opposition_warning.jpg)
+![](/history/mudflood/(mountain_drilled_shaft.jpg) ![](/history/mudflood/(/history/mudflood/mu_book.jpg) ![](/history/mudflood/(/history/mudflood/mu_continent2.jpg) ![](/history/mudflood/(/history/mudflood/mu_continent4.jpg) ![](/history/mudflood/(/history/mudflood/mu_continent.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_arches.jpg)
+![](/history/mudflood/(mudflood_before.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_buried_buildings10.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_buried_buildings11.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_buried_buildings3.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_buried_buildings4.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_buried_buildings5.jpg)
+![](/history/mudflood/(mudflood_buried_buildings7.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_buried_buildings8.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_buried_buildings9.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_buried_buildings_deepfake.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_buried_buildings.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_buried_russian_winter_palace_deepfake.jpg)
+![](/history/mudflood/(mudflood_burried_statues.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_energetic_event_hypothesis.png) ![](/history/mudflood/(/history/mudflood/mudflood_jerusalem2.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_jerusalem.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_journalistic_six.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_layers2.jpg)
+![](/history/mudflood/(mudflood_layers.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_lightning.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_paris.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_reset_meme.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_tartaria_meme.jpg) ![](/history/mudflood/(/history/mudflood/mudflood_theory.jpg)
+![](/history/mudflood/(mudflood_turkey.jpg) ![](/history/mudflood/(/history/mudflood/mu_wreckage_ring_of_fire2.jpg) ![](/history/mudflood/(/history/mudflood/mu_wreckage_ring_of_fire.jpg) ![](/history/mudflood/(/history/mudflood/napoleon_airships_vlot_van_saint_malo_1797.jpg) ![](/history/mudflood/(/history/mudflood/oblesk_lightning2.jpg) ![](/history/mudflood/(/history/mudflood/oblesk_lightning.jpg)
+![](/history/mudflood/(orphan-train-0.jpg) ![](/history/mudflood/(/history/mudflood/orphan-train-1.jpg) ![](/history/mudflood/(/history/mudflood/orphan-train-2.jpg) ![](/history/mudflood/(/history/mudflood/orphan-train-3.jpg) ![](/history/mudflood/(/history/mudflood/orphan-train-4.jpg) ![](/history/mudflood/(/history/mudflood/orphan-train-7.jpg)
+![](/history/mudflood/(orphan-train-8.jpg) ![](/history/mudflood/(/history/mudflood/orphan-train-9.jpg) ![](/history/mudflood/(/history/mudflood/orphan_trains.jpg) ![](/history/mudflood/(/history/mudflood/orphan-train-to-michigan.jpg) ![](/history/mudflood/(/history/mudflood/petrified_ladder.jpg) ![](/history/mudflood/(/history/mudflood/polynesia_remains_of_zealandia.svg)
+![](/history/mudflood/(pyramids_japaneese_book.jpg) ![](/history/mudflood/(/history/mudflood/question_narrative_meme2.jpg) ![](/history/mudflood/(/history/mudflood/question_narrative_meme.jpg) ![](/history/mudflood/(/history/mudflood/red-brick-implosion.jpg) ![](/history/mudflood/(/history/mudflood/ring_of_fire_subduction.jpg) ![](/history/mudflood/(/history/mudflood/rio_grande.jpg)
+![](/history/mudflood/(rio_grande_river_gorge_scarring.jpg) ![](/history/mudflood/(/history/mudflood/rome_tunnel.jpg) ![](/history/mudflood/(/history/mudflood/secondary_negative_discharge.jpg) ![](/history/mudflood/(/history/mudflood/serpent_mound.jpg) ![](/history/mudflood/(/history/mudflood/sky-scrapers.jpg) ![](/history/mudflood/(/history/mudflood/snake_river_scarring.jpg)
+![](/history/mudflood/(st_john_church_in_dc.jpg) ![](/history/mudflood/(/history/mudflood/tadrart_rouge_algeria.jpg) ![](/history/mudflood/(/history/mudflood/uruk_melted_city.jpg) ![](/history/mudflood/(/history/mudflood/vatican_suppressed_documents2.jpg) ![](/history/mudflood/(/history/mudflood/whitehouse-uninhabitable.jpg) ![](/history/mudflood/(/history/mudflood/yogaguni_underwater_pyramid.jpg)
+![](/history/mudflood/(YorkRetreat.jpg)
 
 ## All Assets
 

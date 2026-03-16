@@ -12,7 +12,7 @@ A long time ago (over four years ago!) I wrote a post on the depictions of hirsu
 
 Today, after some research, I have reconsidered that issue and I decided to write another post. Presently, I think that for the medieval viewer hirsute Magdalene had her own symbolic meaning and it was not related to any confusion of two saints of the same name.
 
-![Hairy Mary – Wild Woman iconography](./hairy-mary.png)
+![Hairy Mary – Wild Woman iconography](/influence/religion/hairy_mary/hairy-mary.png)
 *Wild Women were portrayed with full body hair, nursing children, living outside Church society — the iconography Łanuszka links to hirsute Magdalene.*
 
 First of all it should be stressed that in the late Middle Ages in Central Europe (in the 15th and early 16th century) both these saints were venerated and most likely people did distinct their legends. For example, in Cracow there used to be a chapel dedicated to St Mary of Egypt (it used to be located at Wawel Hill, but did not survive) and there used to be a church dedicated to St Mary Magdalene (not survived either), which means that the citizens were familiar with both those saints and most likely did not confuse them with each other. However Mary of Egypt was mainly venerated in the Eastern Church, her image has been placed on the altar-wing of the altar dedicated to St. John the Almsgiver, funded by Mikołaj Lanckoroński of Brzezie in 1504 for the Augustinians Church in Kazimierz by Cracow (today the altarpiece is in the National Museum in Cracow).
@@ -27,7 +27,7 @@ In the medieval art Wild Men symbolised sinful humanity; but it is important to 
 
 Mary Magdalene was an unusual Sinner-Saint: she was not a virgin and not a martyr, but – according to the legend – a former prostitute. Her sin was rooted in carnal aspects and at the same time her salvation was a result of her love to Christ. Hairy Magdalene in ecstasy, lifted up by the angels, is a perfect image of converted harlot, those depictions perfectly reflect the paradox of Sinner-Saint. I also think that the images of hirsute Magdalene may be juxtaposed with enigmatic depictions of Wild Woman with Unicorn, which were popular in the 15th century, but for us they are now difficult to interpret. Those images (e.g. in prints or tapestries) are now usually described by the scholars as depictions of pure love, combining contradictory symbols of lust (Wild Woman) and chastity (Unicorn), but the interpretation of this motif is in fact still an open question.
 
-![Hairy Mary Magdalene – painting from Body and Soul exhibit](./hairy_mary.jpg)
+![Hairy Mary Magdalene – painting from Body and Soul exhibit](/influence/religion/hairy_mary/hairy_mary.jpg)
 *Hirsute Mary Magdalene lifted by angels: the Sinner-Saint paradox in late medieval art.*
 
 Mary Magdalene is a carnal saint, not pure, but at the same time she was a closest person to the Saviour himself. Her cult was very complex and popular at the dawn of the Early Modern times, and later had been much modified at the time of Counter-reformation. It was then when Magdalene changed from the mystic enjoying the ecstasy in the wildness into a sinner repenting in the dessert – which, by the way, did not deprive her images of an erotic context. In any case I think it is not a coincidence that hirsute Magdalene disappeared from the Western art around the same time when Wild Men lost their popularity in visual culture. Perhaps further research will bring us some new ideas on this interesting aspects of late medieval art?

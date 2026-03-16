@@ -24,13 +24,13 @@ which (possibly unintentionally) destroyed Martian surface cities as well.
   </figcaption>
 </figure>
 
-![Evidence of planet-wide massacre on Mars](./massacre.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Evidence of planet-wide massacre on Mars](/cosmos/mars/massacre.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
-![Evidence of planet-wide massacre can be found on the surface of Mars](./life_on_mars_rules_earth.png?w=800)
+![Evidence of planet-wide massacre can be found on the surface of Mars](/cosmos/mars/life_on_mars_rules_earth.png?w=800)
 
-![Evidence of geometric patterns on Mars suggest intelligent construction](./geometric.jpg?w=360)
+![Evidence of geometric patterns on Mars suggest intelligent construction](/cosmos/mars/geometric.jpg?w=360)
 
-![CIA remote viewing experiments on Mars in 1984 observe alien vehicles and environments](./cia_remote_viewing.jpg?w=360)
+![CIA remote viewing experiments on Mars in 1984 observe alien vehicles and environments](/cosmos/mars/cia_remote_viewing.jpg?w=360)
 
 <h2 className="no-index">Index</h2>
 
@@ -52,7 +52,7 @@ On April 27, 1961, at the Waldorf-Astoria Hotel in New York City,
 > military, diplomatic, intelligence, economic, scientific and political operations
 
 ![The City of London, Vatican City, and Washington D.C.
-  control the world through finance, religion, and military power respectively](./globalist_stranglehold.jpg?w=360)
+  control the world through finance, religion, and military power respectively](/cosmos/mars/globalist_stranglehold.jpg?w=360)
 
 Kennedy was referring to the USSR in his speech, but unlike the West, the USSR was officially
 [anti-imperial](https://muse.jhu.edu/article/843077/summary)
@@ -69,7 +69,7 @@ say on major events in Earth's history, imposing its jurisdiction over every hum
 
 ![In [Sovereign Citizen](https://en.wikipedia.org/wiki/Sovereign_citizen_movement) ideology,
   countries are seen as international corporations operating outside of domestic law - trafficking and exploiting
-  humans as if they were intellectual property.](./history_birth_certificate.jpg?w=320)
+  humans as if they were intellectual property.](/cosmos/mars/history_birth_certificate.jpg?w=320)
 
 *Whom then are the beneficiaries of global conspiracy?* In a
 [controlled-opposition](https://markcrispinmiller.com/2020/12/what-is-controlled-opposition-read-this-then-look-around/)
@@ -86,7 +86,7 @@ accusing an entire *race* or *alien species* of a conspiracy - they are just bei
   I have solved the problem so well I don’t regard it as doubtful.
   It is mathematically certain that other planets are inhabited."
   [- Nicola
-  Tesla](https://teslauniverse.com/nikola-tesla/articles/tesla-sure-life-exists-other-planets-works-76-establish-his-belief)](./mars_life4.jpg?w=300)
+  Tesla](https://teslauniverse.com/nikola-tesla/articles/tesla-sure-life-exists-other-planets-works-76-establish-his-belief)](/cosmos/mars/mars_life4.jpg?w=300)
 
 ## Where is the Deep State?
 
@@ -222,7 +222,7 @@ in the absence of rain on Mars, these channels are probably the main mechanism b
 the water (and with it organic life) can spread on the dry surface of the planet.
 
 !["Mars and Its Canals" by Percival Lowell, published in 1906 details Lowell's theories and observations about the
-  canals of Mars, which he believed were built by an intelligent civilization to transport water across the planet](./mars_canals5.jpg?w=360)
+  canals of Mars, which he believed were built by an intelligent civilization to transport water across the planet](/cosmos/mars/mars_canals5.jpg?w=360)
 
 ### Percival Lowell Maps Mars in Detail
 
@@ -257,9 +257,9 @@ The same humans who contrived the Great Wars of the 20th Century could not have 
 without first having consolidated power on Mars - otherwise a competing faction might have spoiled the various plots
 over time. How could one faction wield so much influence?
 
-![Melted ruins on mars resembles city with capitol building](./melted_city.jpg?w=320 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Melted ruins on mars resembles city with capitol building](/cosmos/mars/melted_city.jpg?w=320 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
-![Areas resembling melted cities are found on the surface of Mars, sometimes with distinguishable buildings.](./mars_life.jpg?w=640)
+![Areas resembling melted cities are found on the surface of Mars, sometimes with distinguishable buildings.](/cosmos/mars/mars_life.jpg?w=640)
 
 ## The Martian Catastrophe
 
@@ -325,7 +325,7 @@ This answer may be why we see so many plots in science 'fiction' media that invo
 rulership of humanity; Terminator, Matrix, Wall-e, I Robot, Age of Ultron, Mitchells vs. Machines etc.
 
 ![The artwork by Woodrow Edgar Nichols, Jr. shows an Atmosphere Factory,
-  a city with canals, and a sunset over a Martian landscape](./mars_canals.jpg?w=360)
+  a city with canals, and a sunset over a Martian landscape](/cosmos/mars/mars_canals.jpg?w=360)
 
 ### Signs of civilization on the surface of Mars
 
@@ -335,7 +335,7 @@ Modern scientists attempt to [debunk](https://cosmicpursuits.com/2183/cosmos/mar
 this observable phenomenon by insisting the regions appear to change as a result of 'dust clouds'.
 But what about the artificial-looking canals observed by Lowell?
 
-![A historical depiction of Mars illustrates seasonal changes - particularly the flooding of canals](./mars_canals3.jpg?w=360)
+![A historical depiction of Mars illustrates seasonal changes - particularly the flooding of canals](/cosmos/mars/mars_canals3.jpg?w=360)
 
 The Deep State may have planned to emerge into the public and reveal its presence on Earth and Mars
 if it had won any of the last 3 World Wars, but it lost all of them and was never able to rule the entire world at once.
@@ -359,7 +359,7 @@ seeing no water, no cities, and no signs of life.
 It is possible that all man-made features on the surface of Mars were dismantled between 1918 and 1962.
 It was then claimed Mars as a 'dead' planet containing virtually no liquid water at all.
 
-![CERN's facilities include a 27-kilometer ring of superconducting magnets and a series of accelerators](./cern_stargate_mars1.jpg?w=360)
+![CERN's facilities include a 27-kilometer ring of superconducting magnets and a series of accelerators](/cosmos/mars/cern_stargate_mars1.jpg?w=360)
 
 ## How do humans travel to and from Mars?
 
@@ -370,7 +370,7 @@ The mysterious CERN Project was built undemocratically in Switzerland using taxe
 member states.
 
 ![The proposed Future Circular Collider (FCC) is planned to be significantly larger and more powerful than the
-  existing Large Hadron Collider (LHC) at CERN](./cern_stargate_plans.jpg?w=360)
+  existing Large Hadron Collider (LHC) at CERN](/cosmos/mars/cern_stargate_plans.jpg?w=360)
 
 CERN colliders are essentially locations where an extremely
 high amount of energy is placed all at once. When this happens,
@@ -400,12 +400,12 @@ Ba'al, Elah, El Roi, Elyon, HaShem or just 'God'.
 ![### The Gotthard Base Tunnel [Opening Ceremony](https://www.bbc.com/news/in-pictures-36428799) in Switzerland:
 
 
-![CERN Ritual 4](./cern_religious_ritual_at5.jpg?w=360 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4", "priority":"true"}')
+![CERN Ritual 4](/cosmos/mars/cern_religious_ritual_at5.jpg?w=360 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4", "priority":"true"}')
 
 ![A winged baby, semi-naked dancers and a man with a bird's nest on his head:
-  How Switzerland decided to mark opening of world's longest rail tunnel](./cern_religious_ritual_at1.jpg?w=640)
+  How Switzerland decided to mark opening of world's longest rail tunnel](/cosmos/mars/cern_religious_ritual_at1.jpg?w=640)
 
-![A performance inside the Gotthard Base Tunnel in Switzerland demonstrates the obedient 'labor' class of Humanity](./cern_religious_ritual_at2.jpg?w=360)
+![A performance inside the Gotthard Base Tunnel in Switzerland demonstrates the obedient 'labor' class of Humanity](/cosmos/mars/cern_religious_ritual_at2.jpg?w=360)
 
 
 "For more than half a century the Alpine nation of Switzerland has built a reputation
@@ -431,11 +431,11 @@ symbols also demonstrates obedience to various brands of control that existed th
 history. The purveyors of this ceremony had one clear message for the other side: Humanity
 is ready to be ruled.
 
-![Holywood Female reitual](./hollywood_ritual_eyes_wide_shut.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Holywood Female reitual](/cosmos/mars/hollywood_ritual_eyes_wide_shut.jpg?w=360 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ![Eyes Wide Shut (1999) demonstrates a ceremony involving naked women following strange orders.
   This may be evidence of a program on Earth which raises human females to be fully obedient and prepares
-  them to *voluntarily walk naked through a quantum gate* to Mars.](./cern_religious_ritual_at6.jpg?w=640)
+  them to *voluntarily walk naked through a quantum gate* to Mars.](/cosmos/mars/cern_religious_ritual_at6.jpg?w=640)
 
 The infamous [Mock human sacrifice at
 Cern](https://www.theguardian.com/science/video/2016/aug/18/mock-human-sacrifice-at-cern-video)
@@ -760,7 +760,7 @@ segregation of earth populations into controllable religious sects.
 For more on World War 2, check out my [other article](/history/chronology/history-qa).
 
 ![The objectives of the covert tripod incursions were to co-opt and reassert control over the governments of Earth.
-  What stories could not be kept hidden were instead published as 'science fiction'](./wotw/wotw_album_cylinder.jpg?w=360)
+  What stories could not be kept hidden were instead published as 'science fiction'](/cosmos/mars/wotw/wotw_album_cylinder.jpg?w=360)
 
 ## Redactions of the "War of the Worlds"
 
@@ -781,17 +781,17 @@ History](https://books.google.com/books?id=v3TDEDfEPdEC&printsec=frontcover#v=on
 
 ![The original heat-ray was was invisible and non-linear.
   In later media, the parabolic mirror was removed,
-  and the heat-ray became visible and linear.](./wotw/wotw_redaction_heatray.jpg?w=360)
+  and the heat-ray became visible and linear.](/cosmos/mars/wotw/wotw_redaction_heatray.jpg?w=360)
 
 
 ![Suppressed military secrets are often featured in 'Science Fiction' media in order to be dismissed by the
-  general public and remain secret.](./wotw_technology_heat_ray.jpg?w=360)
+  general public and remain secret.](/cosmos/mars/wotw_technology_heat_ray.jpg?w=360)
 
 ### The Martian Heat Ray
 
 One connection between this book and modern times is the U.S. Military's
 [Active Denial System](https://healthimpactnews.com/2017/can-new-5g-technology-and-smart-meters-be-used-as-weapons/).
-This [crowd control vehicle](./wotw_technology_heat_ray.jpg) has built upon it
+This [crowd control vehicle](/cosmos/mars/wotw_technology_heat_ray.jpg) has built upon it
 a heat ray device that looks *precisely* like the heat ray described in the book:
 
 "This intense heat they project in a parallel beam against any object they choose, by means of a polished
@@ -812,7 +812,7 @@ that do not resemble their actual appearance. The *host body* found in science f
 This would explain many things, like why the Martians do not appear to be human and how their bodies
 could have survived the heat and impact of the physical travel between planets.
 
-![A monument commemorating the Martian invasion in Woking, England, near Horsell Common](./wotw/wotw_monuments.jpg?w=360)
+![A monument commemorating the Martian invasion in Woking, England, near Horsell Common](/cosmos/mars/wotw/wotw_monuments.jpg?w=360)
 
 Martians live inside Mars, as all planets are Hollow, but life is difficult, food is scarce, and overpopulation
 is an actual problem (unlike on Earth).
@@ -821,7 +821,7 @@ Their early adoption of advanced technology was motivated by the scarcity in the
 and the need to control the flow of resources from Earth.
 
 ![This New York Times article from January 16, 1901, reports on a light flash observed from Mars.
-  This may have been a sign of yet another tripod incursion launched at Earth.](./wotw/wotw_real.jpg?w=260)
+  This may have been a sign of yet another tripod incursion launched at Earth.](/cosmos/mars/wotw/wotw_real.jpg?w=260)
 
 ### Travel to Earth
 
@@ -841,7 +841,7 @@ planets are in opposition.
 When Martians lose control over the gates, they lose control over Earth,
 and they must use other means to reassert control remotely.
 
-![Another angle of the monument in Woking, England](./wotw/wotw_monuments2.jpg?w=360)
+![Another angle of the monument in Woking, England](/cosmos/mars/wotw/wotw_monuments2.jpg?w=360)
 
 ### Maintaining Control of Earth
 
@@ -863,11 +863,11 @@ leaving absolutely no trace of Tripods ever having been present. The survivors t
 
 ![“Although reports were conflicting and every effort is being made to ascertain the facts,
   it is clear that no bombs were dropped and no planes were shot down,”
-  read a statement from the Army’s Western Defense Command.](./wotw/wotw_battle_of_la.jpg?w=360)
+  read a statement from the Army’s Western Defense Command.](/cosmos/mars/wotw/wotw_battle_of_la.jpg?w=360)
 
 ![The 1938 Orson Welles 'War of the Worlds' broadcast may have been a redacted version of a real
   broadcast that occurred in that same location and date involving a real tripod incursion in the
-  East Coast.](./wotw/wotw_propaganda.jpg?w=360)
+  East Coast.](/cosmos/mars/wotw/wotw_propaganda.jpg?w=360)
 
 ### Martian Tripod Incursions in Earth History
 
@@ -883,7 +883,7 @@ In the U.S. East Coast, Orson
 Wells [covered up](https://blog.newspapers.com/emwar-of-the-worlds-radio-scare-october-30-1938/)
 yet another event involving Tripods.
 
-![The Orson Welles broadcast was used to justify suppression of similar radio broadcasts in the future.](./wotw/wotw_censorship.jpg?w=360)
+![The Orson Welles broadcast was used to justify suppression of similar radio broadcasts in the future.](/cosmos/mars/wotw/wotw_censorship.jpg?w=360)
 
 The objective for the 1938 East Coast incursion was to conscript America and all of its world resources
 into a world war against Russia. The American Empire reached its greatest territorial extent in 1945.
@@ -921,25 +921,25 @@ our **God of War**: The Planet Mars.
 
 ## Additional Media
 
-![](book_the_martians_nick_redfern.jpg)
-![](cern_religious_ritual_at3.jpg)
-![](cern_religious_ritual_at4.jpg)
-![](cern_stargate_mars2.jpg)
+![](/cosmos/mars/(/cosmos/mars/(book_the_martians_nick_redfern.jpg)
+![](/cosmos/mars/(/cosmos/mars/(cern_religious_ritual_at3.jpg)
+![](/cosmos/mars/(/cosmos/mars/(cern_religious_ritual_at4.jpg)
+![](/cosmos/mars/(/cosmos/mars/(cern_stargate_mars2.jpg)
 [Death on Mars Analysis](death-on-mars-analysis.md)
-![](hollow_mars1.jpg)
-![](hollow_mars2.jpg)
-![](mars-dagger-back2.jpg)
-![](mars-dagger-front.jpg)
-![](mars-dagger.jpg)
-![](mars_life2.jpg)
-![](mars_life3.jpg)
-![](mars_map2.jpg)
-![](mars_map3.png)
-![](mars_map4.jpg)
-![](mars_map5.jpg)
-![](mars_map.jpg)
-![](mars_nasa_1979.jpg)
-![](mars_ssp.jpg)
+![](/cosmos/mars/(/cosmos/mars/(hollow_mars1.jpg)
+![](/cosmos/mars/(/cosmos/mars/(hollow_mars2.jpg)
+![](/cosmos/mars/(/cosmos/mars/(mars-dagger-back2.jpg)
+![](/cosmos/mars/(/cosmos/mars/(mars-dagger-front.jpg)
+![](/cosmos/mars/(/cosmos/mars/(mars-dagger.jpg)
+![](/cosmos/mars/(/cosmos/mars/(mars_life2.jpg)
+![](/cosmos/mars/(/cosmos/mars/(mars_life3.jpg)
+![](/cosmos/mars/(/cosmos/mars/(mars_map2.jpg)
+![](/cosmos/mars/(/cosmos/mars/(mars_map3.png)
+![](/cosmos/mars/(/cosmos/mars/(mars_map4.jpg)
+![](/cosmos/mars/(/cosmos/mars/(mars_map5.jpg)
+![](/cosmos/mars/(/cosmos/mars/(mars_map.jpg)
+![](/cosmos/mars/(/cosmos/mars/(mars_nasa_1979.jpg)
+![](/cosmos/mars/(/cosmos/mars/(mars_ssp.jpg)
 
 ## All Assets
 

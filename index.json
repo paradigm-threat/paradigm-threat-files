@@ -69,10 +69,13 @@
     "2026-03-14-soul-science-israel-divide-conquer-investigations.md": {
       "_title": "Soul Science, Israel Divide-and-Conquer, and Chronology Investigations"
     },
+    "2026-03-16-cia-investigation-timeline-article.md": {
+      "_title": "CIA Investigation and Timeline Article"
+    },
     "page.md": {
       "_title": "Blog"
     },
-    "_count": 24
+    "_count": 25
   },
   "changelog.json": {},
   "cosmos": {
@@ -2555,6 +2558,9 @@
         "british-divide-conquer-israel-investigation.md": {
           "_title": "Investigation: British Empire Divide-and-Conquer \u2014 Israel, India/Pakistan, Africa, and the Deep State Hypothesis"
         },
+        "cia-investigation.md": {
+          "_title": "Investigation: CIA \u2014 OSS Rebrand, Nazi Gold, Iran, 9/11, and the Antibody Thesis"
+        },
         "french-revolution-investigation.md": {
           "_title": "Investigation: French Revolution \u2014 Societized Consolidation and Political Reorganization"
         },
@@ -2576,7 +2582,7 @@
         "yakuza-remote-control-investigation.md": {
           "_title": "Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan"
         },
-        "_count": 10
+        "_count": 11
       },
       "military_police.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQABAABUB8JaQAAuhduhw15C8AAP6jI6535eWFhJVCs1nyUU0g5ufcwxzu7EygaP6LbndMUotyAAAA"
@@ -2626,9 +2632,9 @@
       "ww2meme.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA="
       },
-      "_count": 55
+      "_count": 56
     },
-    "_count": 489
+    "_count": 490
   },
   "history": {
     "chronology": {
@@ -2863,6 +2869,9 @@
         "indigenous-creation-dates.md": {
           "_title": "Indigenous Creation Chronologies \u2014 Investigation"
         },
+        "page.md": {
+          "_title": "Chronology Investigations \u2014 Index"
+        },
         "soul-science-investigation.md": {
           "_title": "Investigation: History of Soul Science \u2014 From First References to the Mind as Replacement"
         },
@@ -2870,7 +2879,10 @@
         "text_formatted.md": {
           "_title": "Die Offenbarung Johannis \u2014 Eine astronomisch-historische Untersuchung"
         },
-        "_count": 9
+        "wuxing-five-planets-dark-ages.md": {
+          "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record"
+        },
+        "_count": 11
       },
       "islam_in_early_america.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQABAABUB8JZQAAudrKaORMAD+hB92JZlNKXia7qGW+cI0RDWk6hKP0mDyJmd8+AA="
@@ -3309,7 +3321,7 @@
       "worlds-fair-coverup.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA="
       },
-      "_count": 233
+      "_count": 235
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology"
@@ -4189,7 +4201,7 @@
     "thunderbolts-forum-archives.md": {
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive"
     },
-    "_count": 521
+    "_count": 523
   },
   "influence": {
     "censorship": {
@@ -5611,6 +5623,6 @@
     },
     "_count": 151
   },
-  "_count": 1846,
-  "_version": "b1798d3"
+  "_count": 1850,
+  "_version": "acbcd86"
 }

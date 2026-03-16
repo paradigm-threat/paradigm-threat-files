@@ -144,7 +144,7 @@ Western reception of Russian literature from the 1880s onward heightened awarene
 - [ ] When exactly did "soul" become synonymous with "fantasy" or "superstition" in mainstream Western discourse? Trace through dictionaries, encyclopedias, and popular science.
 - [ ] Reformation theology: Did Luther, Calvin, or other Reformers explicitly weaken or strengthen soul-doctrine? Compare to Catholic Scholastic positions.
 - [ ] Russian Orthodox doctrine on soul vs. Western theology—systematic comparison.
-- [ ] Cross-reference with [1979 Religious Revival investigation](../../../influence/religion/1979-religious-revival-investigation.md): Did 1979 fundamentalism restore or further marginalize soul-belief?
+- [ ] Cross-reference with [1979 Religious Revival investigation](/influence/religion/1979-religious-revival-investigation.md): Did 1979 fundamentalism restore or further marginalize soul-belief?
 - [ ] Fomenko/New Chronology: If Reformation dates are shifted, does the soul–mind timeline change?
 - [ ] Indigenous and non-Western soul concepts: How do they relate to the containment thesis?
 
