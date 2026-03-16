@@ -829,18 +829,6 @@
     },
     "_count": 258
   },
-  "docs": {
-    "BAD_MEDIA_URLS.md": {
-      "_title": "Bad Media URLs \u2014 paradigm-threat-files"
-    },
-    "BLOG.md": {
-      "_title": "Blog \u2014 paradigm-threat-files"
-    },
-    "INVESTIGATIONS_DEEP_DIVE.md": {
-      "_title": "Investigations Deep Dive \u2014 Status, Validation, and Remaining Work"
-    },
-    "_count": 3
-  },
   "events": {
     "911": {
       "911_buildings.jpg": {
@@ -1140,33 +1128,6 @@
       "_count": 1
     },
     "_count": 98
-  },
-  "fanedits": {
-    "page.md": {
-      "_title": "Banned from r/FanEdit Subreddit for accusation of piracy."
-    },
-    "_count": 1
-  },
-  "forgotten-future": {
-    "fire_city.png": {
-      "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAsABUB8JbACdAECscgQYAD+5CH122sEcz7KC6jChanuM8msdkhtq7zpwyu5KbbH5gkylQl5xBn4COy9eAAA"
-    },
-    "logo.png": {
-      "_lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAQCdASoQABAABUB8JYgCw7Drj7GcAP7zNODP2RCUT/b/JyESAAIF0Xmpi95+s2y8Wvxfwhz38pGIgF0vZJFkaALuBbvSW0OVSuk1M6060E7TlVmsU0VghX3wbAAA"
-    },
-    "map.png": {
-      "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAAsABUB8JYgCdABVCAAA/qmxjOI5miLTP4ZrYoFbK9cRuVvno8B2639fz3JL4gA="
-    },
-    "page.md": {
-      "_title": "Forgotten Future"
-    },
-    "rahu.png": {
-      "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JYgCdAEfU8nzvERgAP7sTawiG41CpAo2EC+6pqL76yGEOntnqAAr2rcQCT5DftpKQ9IAAAA="
-    },
-    "text.png": {
-      "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAQABUB8JZwAAn22tHTAAP7Bw/wWfSL/nQ44JcJ83ZoZgIy0RDpmBAA="
-    },
-    "_count": 6
   },
   "governance": {
     "genocide": {
@@ -5626,6 +5587,6 @@
     },
     "_count": 151
   },
-  "_count": 1851,
-  "_version": "4a45447"
+  "_count": 1841,
+  "_version": "5242273"
 }
