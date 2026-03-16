@@ -30,7 +30,7 @@ def generate_index():
     repo_dir = os.path.dirname(script_dir)
     output_file = os.path.join(repo_dir, "index.json")
     
-    exclude_dirs = {'.git', '.github', 'scripts', 'node_modules', '.idea'}
+    exclude_dirs = {'.git', '.github', 'scripts', 'node_modules', '.idea', 'docs'}
     exclude_files = {
         'index.json', 
         'package-lock.json', 
