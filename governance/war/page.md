@@ -3,14 +3,14 @@ title: "Boeing Bombers won WW2 by cheating by using Child Pilots, Suppressed Zer
 description: "Therefore, it is logical to conclude that the Great Wars of the 20th century were perpetuated through international conglomerates like the Boeing Corporation"
 ---
 
-![WW2 Meme](./ww2meme.jpg?w=800 '{"className":"rounded-md m-auto"}')
+![WW2 Meme](/governance/war/ww2meme.jpg?w=800 '{"className":"rounded-md m-auto"}')
 
 ## World War II was won BY CHEATING using Child Pilots, Anti-gravity aircraft, and a whole lotta NAPALM
 
-![British Terror Bombing](./bombings/british.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
-![Bombing Germany 2](./bombings/germany2.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
-![Bombing Wench](./bombings/wench.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
-![Napalm Bombings](./bombings/napalm.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![British Terror Bombing](/governance/war/bombings/british.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Bombing Germany 2](/governance/war/bombings/germany2.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Bombing Wench](/governance/war/bombings/wench.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Napalm Bombings](/governance/war/bombings/napalm.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ```
 Note: This investigation is a work in progress. Check back soon for more updates!
@@ -48,8 +48,8 @@ we [firebombed no less than 67 cities](https://www.theguardian.com/commentisfree
 in Japan before they _finally surrendered_?
 
 
-![Bombing Kano Teruo](./bombings/kano_teruo.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
-![Bombing Germany](./bombings/germany_book.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Bombing Kano Teruo](/governance/war/bombings/kano_teruo.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Bombing Germany](/governance/war/bombings/germany_book.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 > As the incendiaries fell, the phosphorus clung to the bodies of those below, turning them into human torches.
 > The screaming of those who were being burned alive was added to the cries of those not yet hit.
@@ -62,7 +62,7 @@ After the victory of WW2, the coalition bombings continued - spanning
 [66 years of campaigns](https://www.globalresearch.ca/list-of-countries-the-usa-has-bombed-since-the-end-of-world-war-ii/24626)
 in over 32 countries.
 
-![Bombing Lancaster](./bombings/lancaster.jpg?w=600 '{"className":"rounded-md m-auto"}')
+![Bombing Lancaster](/governance/war/bombings/lancaster.jpg?w=600 '{"className":"rounded-md m-auto"}')
 
 ## Q: Okay, so how did they get Allied pilots to bomb men women and children?
 
@@ -243,10 +243,10 @@ by Ari Asulin - 11/09/2019
 
 ## Citations:
 
-![Propaganda Targeting Children: Captain America](./propaganda2.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
-![Propaganda War Stamps](./propaganda1.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
-![Propaganda Targeting Children: Memphis Belle](./propaganda4.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
-![Propaganda Royal Air Force](./propaganda3.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Propaganda Targeting Children: Captain America](/governance/war/propaganda2.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Propaganda War Stamps](/governance/war/propaganda1.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Propaganda Targeting Children: Memphis Belle](/governance/war/propaganda4.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Propaganda Royal Air Force](/governance/war/propaganda3.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ### Children coerced into warfare:
 
@@ -296,9 +296,9 @@ without Halsey’s cooperation."
 
 ### Allied bombing campaigns continue after WW2:
 
-![Endless War Bombing History](./bombings/endless_war_history.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
-![Bombing Gulf War](./bombings/endless_war_gulf_war.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
-![Bombing Afghanistan](./bombings/endless_war_afghanistan.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Endless War Bombing History](/governance/war/bombings/endless_war_history.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+![Bombing Gulf War](/governance/war/bombings/endless_war_gulf_war.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Bombing Afghanistan](/governance/war/bombings/endless_war_afghanistan.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 “List of countries the USA has bombed since the end of World War II: China 1945-46 Korea 1950-53 China 1950-53 Guatemala
 1954 Indonesia 1958 Cuba 1959-60 Guatemala 1960 Belgian Congo 1964 Guatemala 1964 Dominican Republic 1965-66 Peru 1965
@@ -475,26 +475,26 @@ Disney appears to be introducing us to anti-gravity technology through their new
 
 ## Additional Media
 
-![](0invasion.jpg)
-![](atoms_for_peace.jpg)
-![](debt_slave_system2.jpg)
-![](debt_slave_system.jpg)
-![](definition.jpg)
-![](military_police.jpg)
-![](propaganda1.jpg)
-![](propaganda2.jpg)
-![](propaganda3.jpg)
-![](propaganda4.jpg)
-![](propaganda_bank_robber.jpg)
-![](racket2.jpg)
-![](racket3.jpg)
-![](racket4.jpg)
-![](racket5.jpg)
-![](racket6.jpg)
-![](racket.jpg)
-![](trump_avoids_war.jpg)
-![](UkraineSummit.jpg)
-![](war_and_central_banking.jpg)
+![](/governance/war/(0invasion.jpg)
+![](/governance/war/(atoms_for_peace.jpg)
+![](/governance/war/(debt_slave_system2.jpg)
+![](/governance/war/(debt_slave_system.jpg)
+![](/governance/war/(definition.jpg)
+![](/governance/war/(military_police.jpg)
+![](/governance/war/(propaganda1.jpg)
+![](/governance/war/(propaganda2.jpg)
+![](/governance/war/(propaganda3.jpg)
+![](/governance/war/(propaganda4.jpg)
+![](/governance/war/(propaganda_bank_robber.jpg)
+![](/governance/war/(racket2.jpg)
+![](/governance/war/(racket3.jpg)
+![](/governance/war/(racket4.jpg)
+![](/governance/war/(racket5.jpg)
+![](/governance/war/(racket6.jpg)
+![](/governance/war/(racket.jpg)
+![](/governance/war/(trump_avoids_war.jpg)
+![](/governance/war/(UkraineSummit.jpg)
+![](/governance/war/(war_and_central_banking.jpg)
 
 ## Extra Photos:
 

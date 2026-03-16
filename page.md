@@ -8,7 +8,7 @@ keywords: Research, Conspiracy, Alt History, MudFlood, Energetic Event Hypothesi
 
 ![In behavioral psychology embedding is the tendency to
   latch onto the first piece of information encountered
-  especially when making decisions or forming opinions](./influence/conspiracy/embedding.jpg?w=360 '{"className":"sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"}')
+  especially when making decisions or forming opinions](/influence/conspiracy/embedding.jpg?w=360 '{"className":"sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"}')
 
 # Welcome to Paradigm Threat
 
@@ -22,7 +22,7 @@ feel free to drop a message on the [Chat Server](/chat)!
 <ChangeLog />
 
 !["These times are dark but every shadow, no matter how deep,
-  is threatened by morning light" - Queen Isabella, The Fountain (2006)](./influence/conspiracy/scientific_truth.jpg?w=360 '{"className":"sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"}')
+  is threatened by morning light" - Queen Isabella, The Fountain (2006)](/influence/conspiracy/scientific_truth.jpg?w=360 '{"className":"sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"}')
 
 ## Paradigm Threat Project
 
@@ -136,7 +136,7 @@ These things we were instructed to believe, but are actually fake.
 ![Saturnian Cosmology posits that the neighboring planets only recently
   settled into their current orbits;
   the Earth formerly being involved in a unique planetary
-  "collinear" configuration together with Saturn, Venus, and Mars.](./history/chronology/saturn/earth_was_saturns_moon3.jpg?w=360)
+  "collinear" configuration together with Saturn, Venus, and Mars.](/history/chronology/saturn/earth_was_saturns_moon3.jpg?w=360)
 
 ### [Category: History](/history/chronology)
 
@@ -167,7 +167,7 @@ How many humans?
 * [Parasites cause cancer](https://livediseasefree.com/parasites-cause-cancer/)
 
 ![“It is a direct sequitur from this that the planet is at
-  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)](./cosmos/mars/mars_life.jpg?w=360)
+  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)](/cosmos/mars/mars_life.jpg?w=360)
 
 ### [Category: Mars](/cosmos/mars)
 
@@ -189,7 +189,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 * [Dragons were Plasma Discharges in the Sky seen by every civilization on earth](https://thunderbolts.info/tpod/2005/arch05/050509plasma-mythology.htm)
 
 ![Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places
-  in the Grand Canyon, AZ](./history/mudflood/grand_canyon_criscross_lightning_scar.jpg?w=360)
+  in the Grand Canyon, AZ](/history/mudflood/grand_canyon_criscross_lightning_scar.jpg?w=360)
 
 ### Science is Redacted
 

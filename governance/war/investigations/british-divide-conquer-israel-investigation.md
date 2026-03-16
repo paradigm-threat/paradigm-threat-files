@@ -21,7 +21,7 @@ This investigation examines the hypothesis that the British Empire (and other co
 ### British Control Over Sacred Texts
 
 - **Print control:** The British (and the Deep State via British institutions) controlled the printing and distribution of Bibles, Qurans, and religious literature. The [Gutenberg Bible](https://paradigmthreat.net/history/chronology#1455-ce-bible-translated-into-latin) was a Vulgate Latin translation that redacted the Cyrillic original. Protestant literature relocated biblical sites; the Jesuits institutionalised the Palestine pilgrimage. Control over *which* texts reached *which* populations allowed the imposition of competing narratives.
-- **Balfour → Mandate → 1948:** Britain pledged a "national home for the Jewish people" in Palestine (1917), administered the Mandate (1920–48), and withdrew—leaving partition, the Nakba, and permanent conflict. Operation Agatha (1946) arrested all male Jewish Agency leaders, elevating Golda Meir. See [Golda Meir investigation](../../../influence/conspiracy/celebrities/golda) for British involvement at every stage.
+- **Balfour → Mandate → 1948:** Britain pledged a "national home for the Jewish people" in Palestine (1917), administered the Mandate (1920–48), and withdrew—leaving partition, the Nakba, and permanent conflict. Operation Agatha (1946) arrested all male Jewish Agency leaders, elevating Golda Meir. See [Golda Meir investigation](/influence/conspiracy/celebrities/golda) for British involvement at every stage.
 
 ### Arming Both Sides
 
@@ -102,7 +102,7 @@ This investigation examines the hypothesis that the British Empire (and other co
 
 - [ ] Trace Semyenko's documentation on Palestine/biblical sites (spelling may vary; source to be located).
 - [ ] British Bible Society, PEF, and missionary print networks—map control over sacred text distribution.
-- [ ] Cross-reference with [Golda Meir investigation](../../../influence/conspiracy/celebrities/golda) and [Jesuit pilgrimage article](https://paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to-jerusalem).
+- [ ] Cross-reference with [Golda Meir investigation](/influence/conspiracy/celebrities/golda) and [Jesuit pilgrimage article](https://paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to-jerusalem).
 - [ ] Systematic audit: How many post-colonial conflicts have both sides armed by the same Western suppliers?
 - [ ] Round Table, Milner Group, Rhodes network—document overlap with Palestine, India, and African policy.
 - [ ] Fomenko/New Chronology: Biblical Jerusalem in Constantinople/Moscow—correlate with "false Israel in Palestine" thesis.
@@ -111,7 +111,7 @@ This investigation examines the hypothesis that the British Empire (and other co
 
 ## VII. References
 
-- Paradigm-threat: [Jesuit pilgrimage to Palestine](https://paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to-jerusalem), [Golda Meir investigation](../../../influence/conspiracy/celebrities/golda), [Deep State Steals Russian History](https://paradigmthreat.net/history/chronology#deep-state-steals-russian-history)
+- Paradigm-threat: [Jesuit pilgrimage to Palestine](https://paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to-jerusalem), [Golda Meir investigation](/influence/conspiracy/celebrities/golda), [Deep State Steals Russian History](https://paradigmthreat.net/history/chronology#deep-state-steals-russian-history)
 - PEF Survey of Palestine (1872–1877); British maps of Palestine (19th c.)
 - History Rise: British divide-and-rule in India; Belgian colonialism in Rwanda
 - BBC, Conversation: Partition of India 1947

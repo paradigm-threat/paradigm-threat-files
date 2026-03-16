@@ -1,4 +1,4 @@
-[![](M_Bronchial_Mucosa_Intro_EN.jpg)](../extimages/M_Bronchial_Mucosa_Intro_EN.jpg "::Click to enlarge this image")
+[![](/science/health/M_Bronchial_Mucosa_Intro_EN.jpg)](/science/health/extimages/M_Bronchial_Mucosa_Intro_EN.jpg "::Click to enlarge this image")
 
 [**Biological Conflict**](#Bronchial_Mucosa_BC)[**Conflict-Active Phase**](#Bronchial_Mucosa_CA)[**Healing Phase
 **](#Bronchial_Mucosa_PCL)
@@ -11,7 +11,7 @@ of [squamous epithelium](../documents/embryonic_development.html#ED_Squamous_Epi
 the [ectoderm](../documents/embryonic_development.html#ED_Squamous_Epithelium) and is therefore controlled from the
 cerebral cortex.
 
-[![](M_Bronchial_Mucosa_Cortex_EN.jpg)](../extimages/M_Bronchial_Mucosa_Cortex_EN.jpg "::Click to enlarge this image")
+[![](/science/health/M_Bronchial_Mucosa_Cortex_EN.jpg)](/science/health/extimages/M_Bronchial_Mucosa_Cortex_EN.jpg "::Click to enlarge this image")
 
 **BRAIN LEVEL:** The bronchial mucosa of both lungs is controlled from the right **temporal lobe** (part of the *
 *sensory cortex)**. The control center is positioned exactly across from the brain relay of
@@ -107,7 +107,7 @@ associated with a “fatal disease”). A territorial fear can be shared by peop
 natural disaster, during wartimes, or through scares of terrorist attacks or pandemic
 fear-mongering ([AIDS](#Bronchia_Mucosa_PCL_AIDS), SARS, Swine Flu, and the like) by the media.
 
-[![](M_Outer_Skin_Pattern_EN_1.jpg)](../extimages/M_Outer_Skin_Pattern_EN.jpg "::Click to enlarge this image")
+[![](/science/health/M_Outer_Skin_Pattern_EN_1.jpg)](/science/health/extimages/M_Outer_Skin_Pattern_EN.jpg "::Click to enlarge this image")
 
 The [Biological Special Program](../documents/five_laws.html#First_BL) of the **bronchial mucosa** follows the [**OUTER
 SKIN SENSITIVITY PATTERN**](../documents/embryonic_development.html#ED_Squamous_Epithelium_OSP_Epidermis) with
@@ -120,7 +120,7 @@ proportional to the degree and duration of conflict activity. The **biological p
 the respiratory passageways so that more air can reach the [lungs](#Lung_Alveoli_Top). The enhanced function of the
 lungs serves to facilitate a conflict resolution. There are no symptoms in the conflict-active phase.
 
-[![](M_CT_Bronchial_Mucosa_CA_EN.jpg)](../extimages/M_CT_Bronchial_Mucosa_CA_EN.jpg "::Click to enlarge this image")
+[![](/science/health/M_CT_Bronchial_Mucosa_CA_EN.jpg)](/science/health/extimages/M_CT_Bronchial_Mucosa_CA_EN.jpg "::Click to enlarge this image")
 
 This brain CT shows the impact of a [territorial fear conflict](#Bronchial_Mucosa_BC) in the area of the cerebral cortex
 that controls the bronchial
@@ -148,7 +148,7 @@ in [PCL-A]("::<imgalt=""src="/science/health/M_Two_Phase_Diagram_EN.jpg">") is d
 the [Five Biological Laws](../documents/five_laws.html#Second_BL_PCL_A_Organ), the new cells cannot be regarded as
 “cancer cells” since the cell increase is, in reality, a replenishing process.
 
-[![](M_OrganCT_Bronchia_Atelectasis_cH_EN.jpg)](../extimages/M_OrganCT_Bronchia_Atelectasis_cH_EN.jpg "::Click to enlarge this image")
+[![](/science/health/M_OrganCT_Bronchia_Atelectasis_cH_EN.jpg)](/science/health/extimages/M_OrganCT_Bronchia_Atelectasis_cH_EN.jpg "::Click to enlarge this image")
 
 The swelling in a bronchial tube can block the air passages resulting in a bronchial **atelectasis**. On a lung X-ray,
 the lung, void of air due to the obstruction, appears as white (see picture). After the Epileptoid Crisis, the bronchial
@@ -210,7 +210,7 @@ however, can trigger [territorial fear](#Bronchial_Mucosa_BC)
 and [existence conflicts](../documents/kidneys.html#KCT_BC) among the population resulting in a fast increase of *
 *influenza** cases.
 
-[![](M_Spanish_Flu_Pandemic_Graph_EN.jpg)](../extimages/M_Spanish_Flu_Pandemic_Graph_EN.jpg "::Click to enlarge this image")
+[![](/science/health/M_Spanish_Flu_Pandemic_Graph_EN.jpg)](/science/health/extimages/M_Spanish_Flu_Pandemic_Graph_EN.jpg "::Click to enlarge this image")
 
 These statistics of the Spanish Flu pandemic show that the outbreak started at the beginning of October 1918 reaching
 its height 3-4 weeks later. According to historical records, Germany asked the Allies for a ceasefire on October 4th,
