@@ -1,6 +1,6 @@
 # Authors Who Read Cataclysm + Controlled Opposition Theory
 
-*March 16, 2026 — Paradigm Threat*
+*March 17, 2026 — Paradigm Threat*
 
 ---
 
