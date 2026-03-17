@@ -21,6 +21,12 @@ This ensures links work when blog posts are viewed in GitHub, RSS, or any contex
 
 Create new posts in `blog/` with the naming convention `YYYY-MM-DD-slug.md`. Run `npm run generate-index` (or the pre-commit hook will run it) to include the new file in `index.json`.
 
+**Cover all changed repos and list all changes.** Before writing a blog entry:
+
+1. **Check git for all three paradigm-threat* repos** — **paradigm-threat-timeline**, **paradigm-threat-files**, **paradigm-threat-site** — for commits and file changes since the **last blog entry** (by date: the most recent `YYYY-MM-DD-*.md` in `blog/` before this one).
+2. **Start each repo section with a short summary (one paragraph)** that describes all updates in that repo in a few sentences; then list each new or updated item with a **link** — timeline events use `https://paradigmthreat.net/timeline/evt-<id>`, other content uses `https://paradigmthreat.net/<path>` (no `.md`). Group by repo: **paradigm-threat-timeline**, **paradigm-threat-files**, **paradigm-threat-site**. Omit a repo section only if it had no changes since the last post.
+3. When only one repo changed, a single section is fine. When two or three changed, the entry must have a section per changed repo, each beginning with a one-paragraph summary of that repo's updates, then links to all new/updated content.
+
 ## Topic hashtags
 
 End every blog post with relevant topic hashtags as links. Each tag links to the site search so readers can find related content.
