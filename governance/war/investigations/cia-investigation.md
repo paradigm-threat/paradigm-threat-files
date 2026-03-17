@@ -85,6 +85,14 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 
 ---
 
+### Author's opinion: Fatwa, depleted uranium, and the real Iranian nuclear threat
+
+- **The fatwa as the main blind spot.** The single biggest problem, in the author's view, is that **worldwide** the claim that the Ayatollah issued a **fatwa against nuclear bombs** (that they are **haram**) has been taken at face value. Everyone—governments, media, the public—assumes that Iranians would never violate their own religion or a fatwa to build such weapons. That is where people have been **most naive**: they do not understand the nature of the regime; they assume "normal Muslims" rather than an extremist faction **engineered by CIA and MI6**. The Iranian people themselves, although many hate the Ayatollah, would never suspect that the regime would break its own fatwa. For this reason **above all others** (the fatwa), the world—and the Iranian population—has been extremely blind to the Iranian nuclear threat.
+- **Not sci-fi nukes: depleted uranium.** Nuclear weapons could be built in Iran **without the population knowing**, and without violating the fatwa in the way the world imagines. The world thinks of nuclear weapons as in science fiction—huge bombs that blow up the world. What is actually in play is the **storage of depleted uranium**, which is treated as a **natural byproduct of a peaceful nuclear program**—and in legal and public discourse it is exactly that. Because of a **mass, widespread misunderstanding of depleted uranium**—including among Iranians themselves—almost nobody realises that they may already be building **nuclear weapons**: not the sci-fi kind, but the kind used in the Iraq War, in Eastern wars, and in Japan—the kind that causes cancer and leukaemia. Converting depleted uranium into usable (radiological or tactical) weapons requires **very little technology and knowledge** compared with building a fission bomb.
+- **Synthesis.** The blindness comes down to (1) **misunderstanding of nuclear technology** (depleted uranium as "peaceful" byproduct vs. weaponisable material) and (2) **blind faith in an extremist Muslim faction created by CIA and MI6**—and in the fatwa as a guarantee of restraint. The author's view: there is **real potential** that the CIA (or allied intelligence) set up or used some **underground facility** to convert this depleted uranium into actual nuclear weapons, with the Iranian regime (and population) either unaware or complicit in a narrative that focuses only on "the bomb" in the Hollywood sense.
+
+---
+
 ## V. Post-9/11 Crises: Tracing Back to the CIA
 
 ### Every Crisis Since 9/11
