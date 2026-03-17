@@ -69,13 +69,16 @@
     "2026-03-14-soul-science-israel-divide-conquer-investigations.md": {
       "_title": "Soul Science, Israel Divide-and-Conquer, and Chronology Investigations"
     },
+    "2026-03-16-authors-cataclysm-controlled-opposition.md": {
+      "_title": "Authors Who Read Cataclysm + Controlled Opposition Theory"
+    },
     "2026-03-16-cia-investigation-timeline-article.md": {
       "_title": "CIA Investigation and Timeline Article"
     },
     "page.md": {
       "_title": "Blog"
     },
-    "_count": 25
+    "_count": 26
   },
   "changelog.json": {},
   "cosmos": {
@@ -361,6 +364,9 @@
       },
       "hollow_earth": {
         "A.md": {},
+        "ANNAS_ARCHIVE_DOWNLOADS_INDEX.md": {
+          "_title": "Anna's Archive \u2014 Hollow Earth Downloads Index"
+        },
         "Symmes_Circular.jpg": {
           "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADwAQCdASoQAAwABUB8JZQC7AEPDrVw4sAA/ur/Jz3cwCqQoDsZ+oB14gA="
         },
@@ -393,6 +399,9 @@
         },
         "hole_at_the_pole.jpg": {
           "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoJABAABUB8JaQAAtzkW/DRAAD+7eF/hxdrEA4IxyTvrXxxJCM6yJ9jG+Eun/8ZAAA="
+        },
+        "hollow-earth-investigation.md": {
+          "_title": "Investigation: Hollow Earth \u2014 Sources, Maps, Books, and Atlantis"
         },
         "hollow_earth_EU_model.jpg": {
           "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAwABUB8JYwAAxeeAbaAAP7tnv1zkItQ33w4A0GUBlh2nZix6JY1006M4NWTrAA="
@@ -485,10 +494,16 @@
         "newspaper_1938.jpg": {
           "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACQAQCdASoQAAoABUB8JaQAAppb5gAA/rcKz8CZ9LMuHHuhCEJ5z+H9fm46v7Bmwt5QAAAA"
         },
+        "tham-luang-cave-rescue-2018-investigation.md": {
+          "_title": "Investigation: Tham Luang Cave Rescue (2018) \u2014 Cover-up and Alternate Theories"
+        },
+        "tham-luang-cave-rescue-2018-investigation.png": {
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAsABUB8JaACdADQmrMAAP6sF4tfrpmP1OnEECtrZ081r4Qttx7savQHdbDZXqzfiHN+ivYagAAA"
+        },
         "whirlpool.jpg": {
           "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAkABUB8JQBOgBbebZbc4gD7aGT23gkd7VcIhfsURkaNa5G9agK8lE9QYG0M56LMZVuktYoOFYydgAA="
         },
-        "_count": 44
+        "_count": 48
       },
       "jupiter_myth.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAAAwAQCdASoQAAkABUB8JaQAA3AA/u/ga71dze8/g99s5lMAAAA="
@@ -525,7 +540,7 @@
       "va_1.pdf": {},
       "va_2.pdf": {},
       "va_3.pdf": {},
-      "_count": 160
+      "_count": 164
     },
     "flat_earth": {
       "co.md": {},
@@ -535,13 +550,16 @@
       "denomination.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQABAABUB8JZQAAudGTpeAAP7usHNNWlnIC/DZ4xM4Fax3+jArfw4AAAA="
       },
+      "flat-earth-investigation.md": {
+        "_title": "Investigation: Flat Earth \u2014 History, Myth, and Misinterpretation"
+      },
       "flat_earth_controlled_opposition.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoQAA0ABUB8JZQCdH8AGDkFXuzAAAD+552c3jGKtrzQReZ+pSTkMmguGYelRMILxL1rS38q6KBrIydoG4kIJIbCiOD44AAA"
       },
       "flat_earth_controlled_opposition2.jpg": {
         "_lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoOABAABUB8JbACdADJNl8jyXUoAP6+FYpoChBK2Sw4I1cX0Mc1tbZBRDHVHcABsZHVXcVOUl04b4M+PN29VIQYs6Dt2OdAAAA="
       },
-      "_count": 5
+      "_count": 6
     },
     "mars": {
       "appendix_ares_le_mandat.pdf": {},
@@ -827,7 +845,22 @@
       },
       "_count": 93
     },
-    "_count": 258
+    "pluto": {
+      "investigations": {
+        "index-pluto.md": {
+          "_title": "Pluto Investigations \u2014 Index"
+        },
+        "pluto-origin-visibility-investigation.md": {
+          "_title": "Investigation: Pluto \u2014 The Unseen Planet, Lost to Hell"
+        },
+        "_count": 2
+      },
+      "page.md": {
+        "_title": "Pluto \u2014 Origin, Visibility, and the Outer System"
+      },
+      "_count": 3
+    },
+    "_count": 266
   },
   "events": {
     "911": {
@@ -3776,13 +3809,25 @@
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAoABUB8JQBOgBOuBAkAAP7WHCSBXw5aYB2SqnZ8G8brdYqt8BHIRMcSQ5pX19AdOjS6CAA="
       },
       "investigations": {
+        "cargo-cults-investigation.md": {
+          "_title": "Investigation: Cargo Cults \u2014 Official History, Human Behavior, and 18th\u201319th Century / Manna Redaction"
+        },
+        "cargo-cults-investigation.png": {
+          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoQAAsABUB8JZgCdADa6CYAAP5V/fncmNecPrPjk4oZEIrmrhVF9YXAiUSs8lW+EFJnFhu8oDV8lqwgAAA="
+        },
         "mfee-investigation.md": {
           "_title": "MFEE Investigation \u2014 Evidence and Map Changes Over Time"
+        },
+        "promised-land-investigation.md": {
+          "_title": "Investigation: Deliverance to a Promised Land \u2014 1492 BCE/CE, Europe, America, and the Final Promised Lands"
+        },
+        "promised-land-investigation.png": {
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAsABUB8JaACdAEM0U79/HQA+TJ+a91MQecJPdzstxT31f4U7ny4662jLQIivN7PhZGSm3nthaX+d4AAAA=="
         },
         "tartarian-maps-investigation.md": {
           "_title": "Tartarian Maps Investigation \u2014 Forbidden Maps, Disclosure, and Downloads"
         },
-        "_count": 2
+        "_count": 6
       },
       "istanbul_periods.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoPABAABUB8JbAAAubRknFTAAD+09gbMY7DcwgUcue6jxnfWQhzg1+hEHxFWzDSsVRjYNDzd0Lw6lSe+GfGvwhHqAA="
@@ -4145,7 +4190,7 @@
       "yogaguni_underwater_pyramid.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAA4ABUB8JbACdAD6OkT8RhAA/nUkmfqWhjPiJ5ohHwGbzy4LMWeibIizLda38aMwKlmK5dQnl5PFWOr+t/Hx6aRPm79CwYdzv33DGagAAA=="
       },
-      "_count": 180
+      "_count": 184
     },
     "orphan_trains": {
       "orphan-trains-investigation.md": {
@@ -4165,7 +4210,7 @@
     "thunderbolts-forum-archives.md": {
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive"
     },
-    "_count": 523
+    "_count": 527
   },
   "influence": {
     "censorship": {
@@ -5587,6 +5632,6 @@
     },
     "_count": 151
   },
-  "_count": 1841,
-  "_version": "5242273"
+  "_count": 1854,
+  "_version": "75366c9"
 }

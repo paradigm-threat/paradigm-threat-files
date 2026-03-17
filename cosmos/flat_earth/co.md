@@ -36,3 +36,7 @@ Bible **TO A T**. For this reason, many many many theorists have concluded long 
 which is absolutely sponsored by rich corporations, is a Controlled Opposition project with a desperate motivation to
 hide the truth available to all of us. Their only play left is to mock our entire debate community and make sure it is
 only ever represented by the irritating dogmatic personalities of Flat Earth 'believers'.
+
+---
+
+**See also:** [Flat Earth investigation](/cosmos/flat_earth/flat-earth-investigation) — historical (did the Church ever teach flat earth?), collinear/Golden Age interpretation, and refraction limits on knowing the shape of the planet or distances in space.

@@ -1,5 +1,10 @@
 [
   {
+    "hash": "75366c94e70c886b8028ab24405f64c2fa8e7129",
+    "date": "2026-03-16T15:19:30.000Z",
+    "message": "Exclude docs/ from index; regenerate index.json; remove fanedits/ and forgotten-future/"
+  },
+  {
     "hash": "5242273c7beab59058864bf928f74f08d07a6133",
     "date": "2026-03-16T15:13:44.000Z",
     "message": "Investigations: complete agent-doable tasks, add citations, deep-dive doc"
@@ -18,10 +23,5 @@
     "hash": "b1798d3b99a00e5356830503ff6698509a32d8ac",
     "date": "2026-03-14T15:48:20.000Z",
     "message": "Add soul-science investigation, British divide-conquer Israel investigation, blog backfill (Oct 2020–Apr 2023), and Mar 14 blog"
-  },
-  {
-    "hash": "0f512f18f25f76112c184f6d5f96932472ddd17d",
-    "date": "2026-03-14T14:05:41.000Z",
-    "message": "Replace Velikovsky with N A Morozov as main chronology challenger"
   }
 ]
