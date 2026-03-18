@@ -1,5 +1,10 @@
 [
   {
+    "hash": "cf2ca4d7f56d51452111468e6a79a486441c0523",
+    "date": "2026-03-17T14:19:25.000Z",
+    "message": "CIA investigation: author opinion on Iran — fatwa blind spot, depleted uranium not sci-fi nukes, CIA underground facility"
+  },
+  {
     "hash": "7b4a9725de41f7c936268df9b8e9a8ced84f826c",
     "date": "2026-03-17T14:04:15.000Z",
     "message": "Blog: section summaries + full-update rule; BLOG.md require per-section summary and 3-repo git check"
@@ -18,10 +23,5 @@
     "hash": "75366c94e70c886b8028ab24405f64c2fa8e7129",
     "date": "2026-03-16T15:19:30.000Z",
     "message": "Exclude docs/ from index; regenerate index.json; remove fanedits/ and forgotten-future/"
-  },
-  {
-    "hash": "5242273c7beab59058864bf928f74f08d07a6133",
-    "date": "2026-03-16T15:13:44.000Z",
-    "message": "Investigations: complete agent-doable tasks, add citations, deep-dive doc"
   }
 ]
