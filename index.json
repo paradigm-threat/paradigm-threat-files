@@ -2876,10 +2876,13 @@
         "text_formatted.md": {
           "_title": "Die Offenbarung Johannis \u2014 Eine astronomisch-historische Untersuchung"
         },
+        "two-branches-christianity-fomenko-vs-author.md": {
+          "_title": "Two Branches of Christianity: Fomenko vs. Paradigm Threat"
+        },
         "wuxing-five-planets-dark-ages.md": {
           "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record"
         },
-        "_count": 11
+        "_count": 12
       },
       "islam_in_early_america.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQABAABUB8JZQAAudrKaORMAD+hB92JZlNKXia7qGW+cI0RDWk6hKP0mDyJmd8+AA="
@@ -3318,7 +3321,7 @@
       "worlds-fair-coverup.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA="
       },
-      "_count": 235
+      "_count": 236
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology"
@@ -4210,7 +4213,7 @@
     "thunderbolts-forum-archives.md": {
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive"
     },
-    "_count": 527
+    "_count": 528
   },
   "influence": {
     "censorship": {
@@ -5632,6 +5635,6 @@
     },
     "_count": 151
   },
-  "_count": 1854,
-  "_version": "7b4a972"
+  "_count": 1855,
+  "_version": "cf2ca4d"
 }
