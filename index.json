@@ -522,6 +522,9 @@
       "rfs_3.pdf": {},
       "rfs_4.pdf": {},
       "saturnian": {
+        "american-folklore.jpg": {
+          "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoJABAABUB8JZwAAudqAboagAD7pfNcqQLFLFPjyYE83nUGHveEAHeSAAA="
+        },
         "index-mythsarehistory.md": {
           "_title": "www.mythsarehistory.com \u2014 Site Index"
         },
@@ -534,13 +537,13 @@
         "index-thunderbolts.md": {
           "_title": "thunderbolts.info \u2014 Site Index"
         },
-        "_count": 4
+        "_count": 5
       },
       "stars-electric-universe.pdf": {},
       "va_1.pdf": {},
       "va_2.pdf": {},
       "va_3.pdf": {},
-      "_count": 164
+      "_count": 165
     },
     "flat_earth": {
       "co.md": {},
@@ -860,7 +863,7 @@
       },
       "_count": 3
     },
-    "_count": 266
+    "_count": 267
   },
   "events": {
     "911": {
@@ -2866,6 +2869,9 @@
         "indigenous-creation-dates.md": {
           "_title": "Indigenous Creation Chronologies \u2014 Investigation"
         },
+        "jew-word-terminology-judas-judicial.md": {
+          "_title": "Investigation: The Word *Jew* \u2014 Crucifixion Moment, Latin \u2192 Greek, Judas & the Latin Church"
+        },
         "page.md": {
           "_title": "Chronology Investigations \u2014 Index"
         },
@@ -2882,7 +2888,7 @@
         "wuxing-five-planets-dark-ages.md": {
           "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record"
         },
-        "_count": 12
+        "_count": 13
       },
       "islam_in_early_america.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQABAABUB8JZQAAudrKaORMAD+hB92JZlNKXia7qGW+cI0RDWk6hKP0mDyJmd8+AA="
@@ -3321,7 +3327,7 @@
       "worlds-fair-coverup.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA="
       },
-      "_count": 236
+      "_count": 237
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology"
@@ -4213,7 +4219,7 @@
     "thunderbolts-forum-archives.md": {
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive"
     },
-    "_count": 528
+    "_count": 529
   },
   "influence": {
     "censorship": {
@@ -5635,6 +5641,6 @@
     },
     "_count": 151
   },
-  "_count": 1855,
-  "_version": "cf2ca4d"
+  "_count": 1857,
+  "_version": "21d498b"
 }
