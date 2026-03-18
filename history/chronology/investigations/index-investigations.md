@@ -11,6 +11,7 @@ Investigations in this folder address chronology-related claims, creation dates,
 | [Soul Science](/history/chronology/investigations/soul-science-investigation.md) | History of soul concept; Reformation and decline; mind as replacement; Russian literature containment |
 | [Wuxing and the Five Planets](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) | Five phases as Dark Ages observational record; five planets, five elements; combination-with-one-head; suppression, four elements/air |
 | [Two Branches: Fomenko vs Author](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md) | Royal vs Apostolic as Fomenko tells it; Paradigm Threat relabel (Istanbul cult, ritual function, people's king); attribution boundary |
+| [The word *Jew* — crucifixion moment, Latin→Greek, Judas/Latin church](/history/chronology/investigations/jew-word-terminology-judas-judicial.md) | **Thesis:** corrected timeline — only generative moment is Passion; Latin *Iudaeus* first, Greek *Ioudaios* second (Judas + Latin church); *judge*/*Jew* conflation by trial scene; Scaligerian Hebrew→Greek→Latin in appendix |
 
 ---
 

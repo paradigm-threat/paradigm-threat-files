@@ -1,5 +1,15 @@
 [
   {
+    "hash": "21d498b33a33e74289a4c51467583c985741964d",
+    "date": "2026-03-18T14:10:35.000Z",
+    "message": "chronology: two-branch Christianity investigation (Fomenko vs extensions)"
+  },
+  {
+    "hash": "eace6c1d406cf30e5b565b560c68c750a1ae16f9",
+    "date": "2026-03-17T23:43:14.000Z",
+    "message": "Add files via upload"
+  },
+  {
     "hash": "cf2ca4d7f56d51452111468e6a79a486441c0523",
     "date": "2026-03-17T14:19:25.000Z",
     "message": "CIA investigation: author opinion on Iran — fatwa blind spot, depleted uranium not sci-fi nukes, CIA underground facility"
@@ -13,15 +23,5 @@
     "hash": "492e84f37129f5c0ed7b362bd77ed8658edf77fa",
     "date": "2026-03-17T13:54:56.000Z",
     "message": "Blog: rename to 2026-03-17 authors cataclysm controlled opposition; hollow earth Tham Luang, mudflood cargo-cults and promised-land investigations"
-  },
-  {
-    "hash": "378d56436544050ba60ee3122245037253b45aee",
-    "date": "2026-03-17T13:47:51.000Z",
-    "message": "Blog: Authors cataclysm + controlled opposition theory (Mar 16); regenerate index"
-  },
-  {
-    "hash": "75366c94e70c886b8028ab24405f64c2fa8e7129",
-    "date": "2026-03-16T15:19:30.000Z",
-    "message": "Exclude docs/ from index; regenerate index.json; remove fanedits/ and forgotten-future/"
   }
 ]
