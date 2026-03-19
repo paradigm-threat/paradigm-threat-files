@@ -2579,10 +2579,13 @@
         "vril-society.md": {
           "_title": "Vril Society: Claim, Debunk, and Redaction Potential"
         },
+        "wwii-fascism-religious-apparatus-investigation.md": {
+          "_title": "Investigation: Why Japan, Italy, and Germany \u2014 Fascism as Religious-Apparatus Takeover"
+        },
         "yakuza-remote-control-investigation.md": {
           "_title": "Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan"
         },
-        "_count": 11
+        "_count": 12
       },
       "military_police.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQABAABUB8JaQAAuhduhw15C8AAP6jI6535eWFhJVCs1nyUU0g5ufcwxzu7EygaP6LbndMUotyAAAA"
@@ -2632,9 +2635,9 @@
       "ww2meme.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA="
       },
-      "_count": 56
+      "_count": 57
     },
-    "_count": 490
+    "_count": 491
   },
   "history": {
     "chronology": {
@@ -5641,6 +5644,6 @@
     },
     "_count": 151
   },
-  "_count": 1857,
-  "_version": "21d498b"
+  "_count": 1858,
+  "_version": "b901365"
 }
