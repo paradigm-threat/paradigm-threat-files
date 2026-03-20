@@ -658,6 +658,9 @@
         "index-mars.md": {
           "_title": "Mars Literature \u2014 Index of Downloaded Texts"
         },
+        "mars-earth-reincarnation-investigation.md": {
+          "_title": "Investigation: Mars\u2013Earth Reincarnation \u2014 Mass Death on Mars and Souls Reborn on Earth"
+        },
         "mars-fiction-survey.md": {
           "_title": "Mars Fiction & Nonfiction Literature Survey (19th\u201320th Century)"
         },
@@ -691,7 +694,7 @@
         "wotw.md": {
           "_title": "The War of the Worlds"
         },
-        "_count": 14
+        "_count": 15
       },
       "life_on_mars_rules_earth.png": {
         "_lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4WAoAAAAQAAAADwAAAwAAQUxQSC4AAAABL0AWYJocwv4EAgmmiAh8OjCKJLltWGkRCIOg6B/sjuh/nEO2HGdlCs5BOZACVlA4IFIAAADQAQCdASoQAAQABUB8JbACdAEVLQv1wAD+cz1S3c8gAQMzYV70tFICnCBiQyoaT9YArAIR9KJDEx8IXxCPFpb9LjrsR4EOw/2LB3TrLfyAAAAA"
@@ -846,7 +849,7 @@
       "wotw_technology_heat_ray.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAA0ABUB8JbACdADL15oC+i0AAPzw/AmimuryhfDnGTQuyUf+YPd74p+YEN1dkBPy2BrCrnIWtjroI0e+KHnZ0aheyZpM8wQAAA=="
       },
-      "_count": 93
+      "_count": 94
     },
     "pluto": {
       "investigations": {
@@ -863,7 +866,7 @@
       },
       "_count": 3
     },
-    "_count": 267
+    "_count": 268
   },
   "events": {
     "911": {
@@ -2564,6 +2567,9 @@
         "french-revolution-investigation.md": {
           "_title": "Investigation: French Revolution \u2014 Societized Consolidation and Political Reorganization"
         },
+        "martyr-word-history-investigation.md": {
+          "_title": "Investigation: The Word \"Martyr\" \u2014 Etymology, Mars/Murder, and the Real Nature of a Martyr"
+        },
         "page.md": {
           "_title": "War Investigations"
         },
@@ -2585,7 +2591,7 @@
         "yakuza-remote-control-investigation.md": {
           "_title": "Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan"
         },
-        "_count": 12
+        "_count": 13
       },
       "military_police.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQABAABUB8JaQAAuhduhw15C8AAP6jI6535eWFhJVCs1nyUU0g5ufcwxzu7EygaP6LbndMUotyAAAA"
@@ -2635,9 +2641,9 @@
       "ww2meme.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA="
       },
-      "_count": 57
+      "_count": 58
     },
-    "_count": 491
+    "_count": 492
   },
   "history": {
     "chronology": {
@@ -2878,6 +2884,12 @@
         "page.md": {
           "_title": "Chronology Investigations \u2014 Index"
         },
+        "radiocarbon-dating-investigation.md": {
+          "_title": "Investigation: Radiocarbon Dating \u2014 Dogmatic Adoption and the Electrical Activity Problem"
+        },
+        "radiocarbon-dating-investigation.png": {
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JYgCdAEU4z3yQAD+wkpwghMIu1odjMYfZ7NgC6mGUGqn5SeuxEGcfQrvUkEOAAA="
+        },
         "soul-science-investigation.md": {
           "_title": "Investigation: History of Soul Science \u2014 From First References to the Mind as Replacement"
         },
@@ -2891,7 +2903,7 @@
         "wuxing-five-planets-dark-ages.md": {
           "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record"
         },
-        "_count": 13
+        "_count": 15
       },
       "islam_in_early_america.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQABAABUB8JZQAAudrKaORMAD+hB92JZlNKXia7qGW+cI0RDWk6hKP0mDyJmd8+AA="
@@ -3330,7 +3342,7 @@
       "worlds-fair-coverup.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA="
       },
-      "_count": 237
+      "_count": 239
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology"
@@ -4222,7 +4234,7 @@
     "thunderbolts-forum-archives.md": {
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive"
     },
-    "_count": 529
+    "_count": 531
   },
   "influence": {
     "censorship": {
@@ -5644,6 +5656,6 @@
     },
     "_count": 151
   },
-  "_count": 1858,
-  "_version": "b901365"
+  "_count": 1862,
+  "_version": "2b93cf7"
 }

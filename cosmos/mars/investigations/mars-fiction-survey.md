@@ -264,6 +264,7 @@ Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: loca
 - `wotw-forbidden-blood.md` — Blood-feeding as discipline collapse
 - `wotw-timeline.md` — Day-by-day timeline of the 1894–1895 incursion
 - `death-on-mars.md` — Brandenburg's *Death on Mars* analysis
+- [mars-earth-reincarnation-investigation.md](mars-earth-reincarnation-investigation.md) — Mars–Earth reincarnation; mass death on Mars, souls reborn on Earth, time-period correlation (open)
 - [mars-stock-market-correlation.md](mars-stock-market-correlation.md) — Mars/lunar-node correlation with Dow Jones (1896–2020); *Ares Le Mandat* appendix
 
 ### External Investigations
