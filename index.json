@@ -2866,6 +2866,12 @@
         "creation-event-interpretations.md": {
           "_title": "Creation Event Interpretations Across Religions"
         },
+        "giants-infantry-guerrilla-etymology-investigation.md": {
+          "_title": "Giants, Infantry, Guerrilla, and the Children's Crusade \u2014 Lexical Investigation"
+        },
+        "giants-infantry-guerrilla-etymology-investigation.png": {
+          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoQAAsABUB8JaACdAD6HV6oWvAAAP3iezpKtjrLVdtl3Z5RtxlR2EUBs7nHYBuGwfq82I2JRnxiw8PkVX980AAA"
+        },
         "illig-fomenko-boundary.md": {
           "_title": "Illig vs Fomenko Phantom Time Boundary \u2014 Investigation"
         },
@@ -2906,7 +2912,7 @@
         "wuxing-five-planets-dark-ages.md": {
           "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record"
         },
-        "_count": 15
+        "_count": 17
       },
       "islam_in_early_america.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQABAABUB8JZQAAudrKaORMAD+hB92JZlNKXia7qGW+cI0RDWk6hKP0mDyJmd8+AA="
@@ -3345,7 +3351,7 @@
       "worlds-fair-coverup.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA="
       },
-      "_count": 239
+      "_count": 241
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology"
@@ -4237,7 +4243,7 @@
     "thunderbolts-forum-archives.md": {
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive"
     },
-    "_count": 531
+    "_count": 533
   },
   "influence": {
     "censorship": {
@@ -5659,6 +5665,6 @@
     },
     "_count": 151
   },
-  "_count": 1863,
-  "_version": "9465466"
+  "_count": 1865,
+  "_version": "3d941cf"
 }

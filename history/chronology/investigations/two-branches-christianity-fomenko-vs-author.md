@@ -27,6 +27,7 @@ The [Revolution Despite Christ's Martyrdom](https://paradigmthreat.net/timeline/
 
 - Timeline chapter intro: [12th c. Birth of Christianity](https://paradigmthreat.net/timeline/evt-1100-ce-12th-century-ce-birth-of-christianity)
 - [Brother on the Cross](https://paradigmthreat.net/timeline/evt-the-brother-on-the-cross)
+- [Giants, Infantry, Guerrilla, Children's Crusade](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) — military lexicon vs giant-line narrative; [appendix](https://paradigmthreat.net/timeline/evt-giants-infantry-guerrilla-childrens-crusade-etymology)
 
 When editing timeline articles, **cite Fomenko only for Fomenko's branch definitions**; **prefix author-only claims** (Atlantis ritual function, Deep State resurfacing, relabeled "royal") as timeline thesis or point readers here.
 

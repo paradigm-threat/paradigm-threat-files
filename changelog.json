@@ -1,5 +1,10 @@
 [
   {
+    "hash": "3d941cf785c43a050a26d105874454d40d1d181f",
+    "date": "2026-03-20T13:33:44.000Z",
+    "message": "Blog: Radiocarbon dating investigation + timeline updates (Mar 20)"
+  },
+  {
     "hash": "946546676da124a896f2daa853b381ebdf8a6671",
     "date": "2026-03-20T13:22:23.000Z",
     "message": "Add radiocarbon dating investigation with dogmatic adoption analysis and electrical activity problem"
@@ -18,10 +23,5 @@
     "hash": "21d498b33a33e74289a4c51467583c985741964d",
     "date": "2026-03-18T14:10:35.000Z",
     "message": "chronology: two-branch Christianity investigation (Fomenko vs extensions)"
-  },
-  {
-    "hash": "eace6c1d406cf30e5b565b560c68c750a1ae16f9",
-    "date": "2026-03-17T23:43:14.000Z",
-    "message": "Add files via upload"
   }
 ]
