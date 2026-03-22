@@ -1511,7 +1511,7 @@ could not possibly be hiding within, and they could not imagine that the giants 
 the smaller humans to such a degree that the smaller humans would be willing to die on behalf of the giants in this
 governance/war *against* giants, but such willing and revenging behavior was the direct result of the Crucifixion of Christ.
 
-## 13th Century C.E.: The Russian Horde 'Tartarian' Empire emerges
+## 13th Century: The Russian Horde 'Tartarian' Empire emerges
 
 Eventually the walls of Troy were breached, and the authority of the Monotheists was crushed. It wasn't difficult for
 the Crusaders to convince the local population that their religious leaders did not speak for any God (s) as after
@@ -1604,7 +1604,7 @@ on [public squares](http://ancientolympics.arts.kuleuven.be/eng/TC013EN.html) ou
 
 ![15th Century: The Tartarian Empire Invades Europe, Africa and India](/history/chronology/tartaria/tartarian_empire_emerges_14th_century.jpg?w=384)
 
-## 14th Century C.E.: Great Expansion of the Mongol / Slavic Rus-Horde Empire
+## 14th Century: Great Expansion of the Mongol / Slavic Rus-Horde Empire
 
 By the middle of the 14th century the Russian cavalry began their invasion of Europe, Africa and India, in a
 wide-reaching offensive. As a result a considerable part of Eurasia was colonized. Scaligerian Chronology remembers
