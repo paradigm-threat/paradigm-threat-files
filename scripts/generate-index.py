@@ -94,6 +94,11 @@ def generate_index():
                         file_data["_title"] = title
                     
                     if ext in {'.jpg', '.jpeg', '.png', '.webp'}:
+                        try:
+                            with Image.open(full_path) as img:
+                                file_data["_width"], file_data["_height"] = img.size
+                        except Exception:
+                            pass
                         lqip = get_lqip(full_path)
                         if lqip:
                             file_data["_lqip"] = lqip
