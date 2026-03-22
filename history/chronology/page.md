@@ -256,12 +256,11 @@ Age*. The Hindu Brahma, Yama, Vishnu, and Manu describe the age of the [“Brill
 To the Chinese, it was the reign of [“Yellow Emperor” Huang-ti](https://saturniancosmology.org/files/china/huang-di.txt), founder of Taoism.
 In Northern Europe, [Peace of Frodi](https://en.wikipedia.org/wiki/Fr%C3%B3%C3%B0i).
 In the Christian Bible, this 930-year period was the [Garden of Eden](https://bennettleeross.com/history/intruder-alert-a-fast-approaching-brown-dwarf-star/).
-In [The Myth of the Golden Age](http://www.ifiseeu.com/misc-ancient-myth/golden-age-myth.htm) 1997, David Talbott
-describes Eden:
-
+The Caribs of Surinam recall the lost epoch; David Talbott quotes them in ["The Myth of the Golden Age"](https://saturniancosmology.org/files/blog/originsofmyth.txt) (1997) and in [*Remembering the End of the World*](https://www.youtube.com/watch?v=oophJNlP-fk) (documentary):
 
 > "The world was quite other than what it is today: the trees were forever in fruit;
-> the animals lived in perfect harmony, and the little Agouti played fearlessly with the beard of the Jaguar."
+> the animals lived in perfect harmony, and the little agouti played fearlessly with the beard of the jaguar."
+> — *Caribs of Surinam, quoted in Talbott, "The Myth of the Golden Age" (1997)*
 
 As each planet was connected [in-series](https://en.wikipedia.org/wiki/Series_and_parallel_circuits#Series_circuits),
 their axial tilt would stay synchronized even as the entire system Orbited the Sun, but after the planets left the
@@ -271,6 +270,7 @@ matching [axial tilts](https://en.wikipedia.org/wiki/Axial_tilt#Solar_System_bod
 this period, each planet in the configuration had become a "fully charged" capacitor, unable to accept more charge or
 grow larger. The configuration violently came to an end, and the age of cataclysm began.
 
+The canonical order of events (Golden Age → collapse → Dark Ages) follows David Talbott's documentary *Remembering the End of the World*: (1) Saturn at pole, Venus in center, Mars inside Venus, no day/night; (2) cloud dissipates, crescent appears, Earth's rotation gives first clock; (3) Mars progressively destabilizes, descends toward Earth, returns, descends further; (4) Mars drops below Venus, lateral displacements, band encircles Venus; (5) material reaches Earth (catastrophe); (6) Saturn tumbles, Jupiter appears; (7) Venus displaced, temporary Jupiter renewal; (8) configuration falls apart. This sequence does *not* appear in Talbott's 1980 book *The Saturn Myth*, which focuses on symbols and a different layout (four planets at corners around Saturn). See [Golden Age event dates investigation](/history/chronology/investigations/golden-age-event-dates.md).
 
 ![Sumerian Tablets - Cosmic Mountain and Wheel of Heaven](/history/chronology/saturn/cosmic_mountain.jpg?w=384)
 *The cosmic mountain celebrated around the world, seen as a pillar of fire and light rising along the world axis; as a radiant city or temple of heaven, as the prototype for any sacred space on earth.*
@@ -338,8 +338,7 @@ system. Then, suddenly and lastingly, there is a catalystic light source that ca
 course through the planets and force them into a new _collinear configuration_, connecting each planet from north to
 the South Pole, like an array of batteries. Here is
 a [minimalist video](https://www.youtube.com/watch?time_continue=20&v=KUbD-vYLPAI&feature=emb_title) depicting part of
-the collinear configuration. In ["The Saturn Myth"](https://www.everythingselectric.com/product/the-saturn-myth/) David
-Talbott describes:
+the collinear configuration. In ["The Saturn Myth"](https://www.everythingselectric.com/product/the-saturn-myth/) (1980) David Talbott describes:
 
 > Accounts of Saturn’s appearance suggest that the planet hung ominously close to the earth.
 > In early ritual and astronomy Saturn appears as the primeval sun, described as a figure of terrifying splendour.
