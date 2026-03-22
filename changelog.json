@@ -1,5 +1,10 @@
 [
   {
+    "hash": "7cb82b822a9ab55cffeece18d9f87a3b7e6dbe0d",
+    "date": "2026-03-22T12:06:09.000Z",
+    "message": "feat(index): store _width/_height for images; regenerate index.json"
+  },
+  {
     "hash": "49dbce6432f326a762682c74b070f06e984c2570",
     "date": "2026-03-22T12:02:39.000Z",
     "message": "Slavery investigation and chronology page updates; add investigation figure"
@@ -18,10 +23,5 @@
     "hash": "946546676da124a896f2daa853b381ebdf8a6671",
     "date": "2026-03-20T13:22:23.000Z",
     "message": "Add radiocarbon dating investigation with dogmatic adoption analysis and electrical activity problem"
-  },
-  {
-    "hash": "2b93cf717250aa88f967d0373dabdb8b9d5ac711",
-    "date": "2026-03-19T12:34:33.000Z",
-    "message": "Investigation: WWII fascism religious-apparatus (Japan, Italy, Germany)"
   }
 ]
