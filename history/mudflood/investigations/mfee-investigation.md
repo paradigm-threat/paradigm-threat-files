@@ -1,7 +1,7 @@
 # MFEE Investigation — Evidence and Map Changes Over Time
 
 **Status:** Active  
-**Related:** [The MudFlood and World Cataclysm](/timeline/evt-the-mudflood-and-world-cataclysm) | [Orphan trains investigation](../orphan-trains/orphan-trains-investigation.md) | [Tartarian maps investigation](tartarian-maps-investigation.md)
+**Related:** [The MudFlood and World Cataclysm](/timeline/evt-the-mudflood-world-cataclysm) | [Orphan trains investigation](/history/orphan_trains/orphan-trains-investigation.md) | [Tartarian maps investigation](tartarian-maps-investigation.md) | [Slow ecological collapse — MFEE through Donner era (speculation)](/history/chronology/investigations/slow-ecological-collapse-mfee-through-donner-era.md) | [“New World” naming, MFEE, and colonization memory](/history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md)
 
 ## Overview
 

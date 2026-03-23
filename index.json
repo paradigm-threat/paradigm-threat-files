@@ -4482,6 +4482,9 @@
         "jew-word-terminology-judas-judicial.md": {
           "_title": "Investigation: The Word *Jew* \u2014 Crucifixion Moment, Latin \u2192 Greek, Judas & the Latin Church"
         },
+        "new-world-naming-mfee-and-colonization-memory.md": {
+          "_title": "Investigation (speculative): \u201cNew World,\u201d \u201cnew lands,\u201d and post\u2013mud-flood memory"
+        },
         "page.md": {
           "_title": "Chronology Investigations \u2014 Index"
         },
@@ -4492,6 +4495,9 @@
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JYgCdAEU4z3yQAD+wkpwghMIu1odjMYfZ7NgC6mGUGqn5SeuxEGcfQrvUkEOAAA="
+        },
+        "slow-ecological-collapse-mfee-through-donner-era.md": {
+          "_title": "Investigation (speculative): Slow ecological collapse \u2014 MFEE through the Donner era"
         },
         "soul-science-investigation.md": {
           "_title": "Investigation: History of Soul Science \u2014 From First References to the Mind as Replacement"
@@ -4509,7 +4515,7 @@
         "wuxing-five-planets-dark-ages.md": {
           "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record"
         },
-        "_count": 20
+        "_count": 22
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -5214,7 +5220,7 @@
         "_height": 1800,
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA="
       },
-      "_count": 245
+      "_count": 247
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology"
@@ -6644,7 +6650,7 @@
     "thunderbolts-forum-archives.md": {
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive"
     },
-    "_count": 537
+    "_count": 539
   },
   "influence": {
     "censorship": {
@@ -8684,6 +8690,6 @@
     },
     "_count": 151
   },
-  "_count": 1870,
-  "_version": "4b42d40"
+  "_count": 1872,
+  "_version": "ed3b4ce"
 }
