@@ -18,9 +18,11 @@ Investigations in this folder address chronology-related claims, creation dates,
 | [Wells *Crystal Egg*, 1666, *Beast* (speculation only)](/history/chronology/investigations/wells-crystal-egg-1666-beast-speculation.md) | **Open / unsubstantiated:** Could a Wells-style relay trope map to **secret 17th-c. influence** before the 1666 “reveal”? What else drove England’s reordering? **No evidence claimed** |
 | [Slow ecological collapse — MFEE through Donner era (speculation)](/history/chronology/investigations/slow-ecological-collapse-mfee-through-donner-era.md) | **Open:** Delayed trophic collapse after MFEE; Trail of Tears / orphan trains as correlates; Donner Party and Irish famine as late pulses; cannibalism as terminal phase; geography-of-wave sketch |
 | [“New World” naming, MFEE, and colonization memory (speculation)](/history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md) | **Open:** *Mundus Novus* / New World vs post–mud-flood “new” lands; Columbus–Ottoman exodus narrative vs cataclysmic refoundation; New Zealand / Zealandia; terra nullius; in-repo reference inventory |
+| [Gnosis vs agnosticism — theism, atheism, after planet gods](/history/chronology/investigations/gnostic-vs-agnostic-theism-atheism-after-planet-gods.md) | **Thesis:** Post-stabilization theism as faith without operative sky knowledge; atheism as reactive non‑gnosis; real cut = gnostic vs non‑gnostic; parallel: ether → “scientific agnosticism” + consensus; cross-read Einstein aether appendix vs Marx/materialist track |
 
 ---
 
 See also:
 - [MudFlood investigations](/history/mudflood/investigations/) — MFEE, Tartarian maps
 - [Influence/religion investigations](/influence/religion/) — 1979 Religious Revival
+- [Predictive programming — *Princess Bride* / Andronicus–Fezzik (open)](/influence/predictive_programming/fiction_encoding/princess-bride/index-princess-bride-andronicus-fezzik-investigation.md)
