@@ -2400,29 +2400,11 @@ This is as far as I've gotten with the timeline so far. The rest is just notes. 
 
 ### Sept 6, 1666 C.E. London Burns to the ground
 
-> This apparently & conveniently ended the distracting UK Bubonic Plague nationwide
-> whilst the vatican corrupt canon law was conveniently sneaked in place uncontested
-> benefiting Deep State secret societies - deeming all native sovereigns dead at sea
-> removing the sovereignty & estate of each native sovereign at birth (via birth certificate)
-> creating the secret "cestui que vie trust" account & all corresponding corruption
-> removing man's status converting Master to Mr. - overriding law via deceived legal entrapment
+From 2 to 6 September 1666 the Great Fire of London burned through the walled city. It followed years in which bubonic plague had dominated English life; plague was finally loosening its hold on the country when the fire broke. Roughly 13,200 houses, eighty-seven parish churches, the Royal Exchange, Guildhall, and St Paul’s Cathedral—most of it medieval fabric—were destroyed; loss was estimated at about £10 million. Relations between the City and the Crown were already strained. During the English Civil War (1642–1651) London had been a centre of republican sentiment, and unrest in the early 1660s still complicated Charles II’s position. Many City magistrates had lived through the war and associated Charles I’s centralizing policies with the breakdown that followed.[13] When the fire broke out they declined the king’s offers of troops and supplies, because admitting royal soldiers into London—even in an emergency—was widely regarded as politically hazardous. By the time Charles took a directing role from the Lord Mayor, the blaze had spread beyond ready control.
 
-> As well as loss of life, the financial costs were staggering. 13, 200 houses, 87 parish churches, The Royal Exchange,
-> Guildhall and St. Paul’s Cathedral - built during the Middle Ages - was totally destroyed. The costs were estimated at
-> £10 million.
+This chronology holds that the fire’s timing did more than clear streets and warehouses: it ended a nationwide plague emergency as the main public preoccupation at a moment when corrupt Vatican canon law and fiduciary innovation could advance with little open opposition—benefiting Deep State interests and allied secret societies through presumptions that native sovereigns were dead at sea, stripping sovereignty and estate from birth (via birth certificate), the hidden *cestui que vie* trust machinery and related accounts, the reduction of standing from Master to Mr., and wider override of older law through legal entrapment.
 
-> The relationship between the City and the Crown was often tense. The City of London had been a stronghold of
-> republicanism during the English Civil War (1642 - 1651), and the wealthy and economically dynamic capital still had the
-> potential to be a threat to Charles II, as had been demonstrated by several republican uprisings in London in the
-> early
-> 1660s. The City magistrates were of the generation that had fought in the Civil War, and could remember how Charles
-> I's
-> grab for absolute power had led to that national trauma.[13] They were determined to thwart any similar tendencies in
-> his son, and when the Great Fire threatened the City, they refused the offers that Charles made of soldiers and other
-> resources. Even in such an emergency, the idea of having the unpopular royal troops ordered into the City was
-> political
-> dynamite. By the time that Charles took over command from the ineffectual Lord Mayor, the fire was already out of
-> control.
+In the longer arc, 1666 marks a **climax of the Deep State**—the point at which that continuity was most nakedly *deep*. England had been primed by plague and apocalyptic expectation to read catastrophe as divine judgment and the advent of *God* or *Jesus* restoring order. What consolidated instead was fiduciary and canonical machinery—paper sovereignty, diminished standing, estates captured by presumption—so that power showed itself as **the Beast**: systemic command borrowing sacred idiom while hollowing sacred protection. Confidence won there allowed the same continuity, in the centuries after, to **surface** visible pyramidal structures and emblems across the earth with less fear of exposure. Even so, this **Inland Empire** still exerts decisive force in hiding—infiltrating human institutions and suppressing knowledge—rather than only through what monuments and seals display.
 
 ### C.E. 1666 to 1675 - Byzantine and Catalan alliance
 

@@ -4372,6 +4372,9 @@
       "creation-dates-validation.md": {
         "_title": "Investigation: Validation of Jno Cook's Creation Date Claims"
       },
+      "deep-state-terminology.md": {
+        "_title": "Deep State / Pyramidal Empire / Fallen Atlantean Empire \u2014 terminology"
+      },
       "egyptian_plumbing.jpg": {
         "_width": 600,
         "_height": 800,
@@ -4500,10 +4503,13 @@
         "two-branches-christianity-fomenko-vs-author.md": {
           "_title": "Two Branches of Christianity: Fomenko vs. Paradigm Threat"
         },
+        "wells-crystal-egg-1666-beast-speculation.md": {
+          "_title": "Investigation (speculative): Crystal Eggs, Mass Influence, and 1666 \u2014 *The Crystal Egg* as Cover Story?"
+        },
         "wuxing-five-planets-dark-ages.md": {
           "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record"
         },
-        "_count": 19
+        "_count": 20
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -5208,7 +5214,7 @@
         "_height": 1800,
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA="
       },
-      "_count": 243
+      "_count": 245
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology"
@@ -6638,7 +6644,7 @@
     "thunderbolts-forum-archives.md": {
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive"
     },
-    "_count": 535
+    "_count": 537
   },
   "influence": {
     "censorship": {
@@ -8678,6 +8684,6 @@
     },
     "_count": 151
   },
-  "_count": 1868,
-  "_version": "7cb82b8"
+  "_count": 1870,
+  "_version": "4b42d40"
 }
