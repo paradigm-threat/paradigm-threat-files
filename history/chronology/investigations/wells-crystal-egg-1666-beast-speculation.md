@@ -2,17 +2,15 @@
 
 ## Status
 
-**Open. Unsubstantiated. Sensational.** This file records a **deliberately evidence-free** line of inquiry only. It is **not** a finding, **not** sourced history, and **not** implied to be true. It exists so the question can sit on the table without being mistaken for established chronology.
+**Open.** This file records a line of inquiry only. It exists so the question can sit on the table without being mistaken for established chronology.
 
 ---
 
-## Summary of the wild claim (for the record)
+## Summary of the claim (for the record)
 
 **Fiction anchor:** H. G. Wells’s short story [*The Crystal Egg*](https://en.wikipedia.org/wiki/The_Crystal_Egg) (1897) describes a shopkeeper who possesses a crystal that acts as a **window** or **relay**—showing another world (Mars) and, by implication, enabling **two-way attention** across distance. In the story this is **literary**; Wells published decades after 1666.
 
-**Speculative overlay (no evidence):** Could **devices analogous to** Wells’s crystal—whatever real phenomenon or classified tech might have inspired the **trope**—have existed in **earlier centuries**, including the **17th century**? Could something like a **distributed relay** have been used to **coordinate mood, expectation, and obedience** in the run-up to a **single global-facing “reveal”**—so that 1666 was not only legal-fiduciary climax but the **first moment** when a continuity identifiable here as **the Beast** made its voice **audible** (or its will **felt**) **everywhere** through **secretive technology**, with the Great Fire and Cestui Que Vie as the **public** face of that pivot?
-
-**Plain answer from evidence:** There is **no** documentary or physical basis offered here for crystal relays in 1666 or for Wells’s fiction as historical reportage. The question is **left open** as a **narrative hook** and **pattern placeholder** only.
+**Speculative overlay:** Could **devices analogous to** Wells’s crystal—whatever real phenomenon or classified tech might have inspired the **trope**—have existed in **earlier centuries**, including the **17th century**? Could something like a **distributed relay** have been used to **coordinate mood, expectation, and obedience** in the run-up to a **single global-facing “reveal”**—so that 1666 was not only legal-fiduciary climax but the **first moment** when a continuity identifiable here as **the Beast** made its voice **audible** (or its will **felt**) **everywhere** through **secretive technology**, with the Great Fire and Cestui Que Vie as the **public** face of that pivot?
 
 ---
 
