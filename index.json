@@ -115,7 +115,7 @@
     "_count": 28
   },
   "changelog.json": {
-    "_updated": "2026-03-24T14:29:10Z"
+    "_updated": "2026-03-24T14:41:46Z"
   },
   "cosmos": {
     "cosmology": {
@@ -7432,7 +7432,7 @@
       "investigations": {
         "blood-rain-dust-ecological-disasters-investigation.md": {
           "_title": "Investigation: Blood rain, Passat dust, Dust Bowl, and large-scale ecological / atmospheric shocks (post\u2013mud-flood oddities)",
-          "_updated": "2026-03-24T14:23:18Z"
+          "_updated": "2026-03-24T15:23:54Z"
         },
         "cargo-cults-investigation.md": {
           "_title": "Investigation: Cargo Cults \u2014 Official History, Human Behavior, and 18th\u201319th Century / Manna Redaction",
@@ -10741,5 +10741,5 @@
     "_count": 151
   },
   "_count": 1883,
-  "_version": "e95fede"
+  "_version": "c4c536c"
 }

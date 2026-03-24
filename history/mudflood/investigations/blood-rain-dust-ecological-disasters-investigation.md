@@ -63,6 +63,7 @@ The snippet’s typography and “summary of results” tone are consistent with
 
 - Long **historical and artistic** record of “blood” rain as omen — see mudflood page blood-rain paintings and clerical broadsides ([`/history/mudflood/blood_rain2.jpg`](/history/mudflood/blood_rain2.jpg), [priest 1888](/history/mudflood/blood_rain_priest_1888.jpg)).
 - Whether **anomalous regional plumes** (volcanic, cometary dust, engineered aerosols) are **distinguishable in the record** from Saharan trade-wind trains — requires **event-by-event** chemistry and microscopy, not a single global story.
+- **Orbital-fallback / MFEE ejecta** (mixed Earth–Mars debris, decaying through the 19th century) — full statement, tests, and counters in **§B.4**.
 
 **Chronology hook:** Ehrenberg’s lecture window (**1844–1849**) overlaps the **slow-collapse** sketch’s **late pulse** decades in [slow-ecological-collapse-mfee-through-donner-era.md](/history/chronology/investigations/slow-ecological-collapse-mfee-through-donner-era.md) — useful as **cultural/scientific contemporaneity**, not as proof of causation.
 
@@ -101,6 +102,21 @@ Prodigy images almost always carry a **caption year** taken from an **older chro
 1. **Literary duplication:** One motif (blood rain, flesh rain, stones) can migrate across centuries with **new dates** attached.
 2. **Scribal / compiler error:** The Augsburg manuscript’s [Vesuvius folio](https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_85.jpg) is captioned **1482** for an eruption mainstream geology places in **79 CE** ([Augsburg Book of Miracles — Wikipedia](https://en.wikipedia.org/wiki/Augsburg_Book_of_Miracles)) — a clear warning that **caption years inside the book are not self-authenticating**.
 3. **Alternate-chronology reading (open):** If a real **late** atmospheric catastrophe were socially unbearable, one investigative path is to ask whether **some** prodigy clusters were **back-anchored** into antiquity while memory stayed vivid in art — **not** assumed here; only noted as a **research axis** alongside redaction and naturalistic explanations (dust, algae, storms).
+
+### B.4 Thesis (investigative): MFEE ejecta in orbit — “blood rain” as decaying fallback
+
+**Assertion (paradigm-threat reading, open):** A fraction of the **red** and **anomalous** precipitation reported especially in the **long 19th century** was not merely wind-lofted **desert dust** re-entering the weather system from the ground, but **particulate matter that had first been kicked into** (or left in) **low orbit** by the late-18th-century [MudFlood Energetic Event](/timeline/evt-the-mudflood-world-cataclysm) and related violence. In that framing, “blood rain” is read metaphorically and materially as **the planet’s spilled matter** — **Earth crustal debris** mixed, in this chronology, with **Mars-associated** material from the same **Dark Age** configuration (Mars as **solid** body in the tethered pair; no claim here about modern NASA sample return). The **red** colour is ascribed to **iron / oxide-rich** fractions typical of both **terrestrial** surface rock and **oxidised** silicate assemblages, **without** insisting every case was exotic.
+
+**Why this is not the same as Ehrenberg’s Passat thesis:** Ehrenberg and Darwin-era science documented **living and fossil microfauna** and **mineral dust** carried by **trade winds** from **known deserts** — a mechanism that is **continuous** into the present (Saharan plumes, Caribbean dust, modern aerosol science). The **orbital-fallback** line does **not** deny those cases; it asks whether a **separate population** of events — especially **clustered** in the **post-1770s / 19th-century** window — fits a **decaying debris** picture better than a **steady-state** ground source alone.
+
+**Observational hook (to test, not yet proven):** If **every** blood-red shower were **only** ordinary **Earth-surface** dust recycled by wind, one might expect **roughly stable** reporting frequency tied to **climate oscillations** and **land use**, modulo **detection bias** (newspapers, science journals). The **investigative sentiment** here is that the **19th-century surge** of attention and strangeness **relaxes** toward the **late 19th / early 20th century** as **orbital residence times** exhaust the **largest** coherent **ejecta** clouds — not because deserts disappeared. **Counterpressure:** red or anomalous rain **still** occurs (e.g. [Kerala red rain (2001)](https://en.wikipedia.org/wiki/Red_rain_in_Kerala)); Saharan **dust** is **ongoing**. So the thesis **must** either (a) **partition** event classes (orbital vs terrestrial), or (b) **retreat** to a **weaker** claim about **some** 19th-century episodes only. **Required work:** a **dated catalogue** of red-rain / “blood rain” reports 1750–2025 with **source tier** (newspaper, scientific sample, folklore) and **geochemistry** where available.
+
+**What would strengthen or falsify**
+
+- **Strengthen:** **Non-terrestrial or isotopically odd** refractory grains in **well-preserved** 19th-century residues; **orbital decay** modelling consistent with **decadal** fallout tail; **temporal clustering** independent of **El Niño** or **volcanic** indices for the **red-rain subset**.
+- **Falsify:** **Consistent** provenance to **single desert** or **local soil** for the same episodes; **no** secular **trend** in red-rain reports once **reporting intensity** is normalised; **physics** timeline inconsistent with **persistence** of hypothesised **debris** (e.g. if all material were **suborbital**, fallout would be **too fast** for a **century** tail unless **re-supply** is assumed — then the model must say **what** re-supplies).
+
+**Figure (timeline book art):** The regenerated wide diagram under [`/media/13.ce-19th-rise-of-communism/blood-rain-19th-century-tail.png`](https://paradigmthreat.net/media/13.ce-19th-rise-of-communism/blood-rain-19th-century-tail.png) (also in-repo in **paradigm-threat-timeline**) schematises **orbital debris → atmospheric entry → dark precipitation** for [Blood rain — 19th-century ecological tail](/timeline/evt-blood-rain-phenomenon); it is **illustrative**, not evidentiary.
 
 ---
 
@@ -150,5 +166,6 @@ Short list for cross-comparison without collapsing cases:
 4. **Dust Bowl:** pull **primary** Soil Conservation Service / WPA sources if arguing beyond textbook synthesis.
 5. **Tunguska:** if electrical thesis is developed in-repo, link **forensic** tree-fall geometry and **historical eyewitness** texts separately from **meteoroid** literature.
 6. **Lycosthenes woodcut:** confirm the monk scene against **MDZ** / **Morgan** / **Wellcome** scans of *Prodigiorum* **1557** at the cited opening (**~353–354**) so the **864 CE** label is verified from letterpress, not only from dealer description.
+7. **Orbital-fallback thesis (§B.4):** build or locate a **dated corpus** of red-rain reports; normalise for **media coverage**; compare to **volcanic**, **ENSO**, and **Saharan dust** records; identify any episodes with **retained samples** suitable for **mineralogy / isotopes**.
 
 Timeline follow-up: add `docs/OUTSTANDING_QUESTIONS.md` entry for the **English snippet venue** (logged in paradigm-threat-timeline).
