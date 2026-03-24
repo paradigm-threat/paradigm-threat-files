@@ -1,5 +1,10 @@
 [
   {
+    "hash": "e988614620564c1a4c74476f81f2857a8f0a5508",
+    "date": "2026-03-24T00:41:44.000Z",
+    "message": "Blog: 2026-03-23 update — timeline, files investigations, site TTS/UI."
+  },
+  {
     "hash": "6c79a2e0e66bf2f886c3aaee52e8abdbaef11f00",
     "date": "2026-03-23T23:31:44.000Z",
     "message": "Investigations: gnostic vs agnostic theism; Princess Bride index; chronology index."
@@ -18,10 +23,5 @@
     "hash": "4b42d40e51e29fa879a12e57236dfc5f9d350859",
     "date": "2026-03-22T15:17:39.000Z",
     "message": "Golden Age investigation: event dates, ifiseeu redaction, additions report"
-  },
-  {
-    "hash": "7cb82b822a9ab55cffeece18d9f87a3b7e6dbe0d",
-    "date": "2026-03-22T12:06:09.000Z",
-    "message": "feat(index): store _width/_height for images; regenerate index.json"
   }
 ]
