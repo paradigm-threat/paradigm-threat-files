@@ -78,10 +78,13 @@
     "2026-03-20-timeline-update.md": {
       "_title": "Radiocarbon Dating Investigation + Timeline Updates"
     },
+    "2026-03-23-timeline-files-site-update.md": {
+      "_title": "Golden Age rollout, MFEE appendices, investigations, and site/TTS polish"
+    },
     "page.md": {
       "_title": "Blog"
     },
-    "_count": 27
+    "_count": 28
   },
   "changelog.json": {},
   "cosmos": {
@@ -8699,6 +8702,6 @@
     },
     "_count": 151
   },
-  "_count": 1874,
-  "_version": "aa0c3a1"
+  "_count": 1875,
+  "_version": "6c79a2e"
 }
