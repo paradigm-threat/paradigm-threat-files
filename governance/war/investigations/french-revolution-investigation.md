@@ -109,4 +109,5 @@ The French Revolution produced the conditions for [Napoleon's 1812 invasion of R
 - Furet, F. *Interpreting the French Revolution*
 - Doyle, W. *The Oxford History of the French Revolution*
 - Schama, S. *Citizens*
-- Timeline: [Napoleonic Wars](/timeline/evt-napoleon-invades-russia), [1812 Overture](/timeline/evt-tchaikovsky-releases-1812-overture), [British Civil War](british-civil-war-investigation.md)
+- Timeline: [Napoleonic Wars](/timeline/evt-napoleonic-wars-reverse), [1812 Overture](/timeline/evt-1880-ce-tchaikovsky-releases-1812-overture), [British Civil War](british-civil-war-investigation.md)
+- [Napoleonic artillery, balloons, suppressed-tech dossier](napoleonic-advanced-artillery-airship-investigation.md)

@@ -110,6 +110,14 @@ The "nobody wanted it" narrative is the cover story for a machine built over thr
 
 ---
 
+## Tech ceiling, sabotage, and losing to “inferior” Russia
+
+On this reading, Western or proxy armies (1812, 1941, 2022) are advanced only to the extent their hidden principals require: enough to bleed and fragment Russia, not enough to produce a victor who could rule Eurasia independently of City / Atlantic finance and stay controllable. Plasma cannons and similar discharge siege gear are not assigned to Napoleonic forces — period open science could not have fielded them, and military knowledge was already compartmentalized and denied to the public and often to the figurehead. What may have been released fits graded chemical artillery, acoustic or resonant weapons, and lighter-than-air lineage; see [Napoleonic artillery / airship investigation](napoleonic-advanced-artillery-airship-investigation.md).
+
+Napoleon’s ranks drew heavily on revolutionary France — useful energy, unreliable lifelong loyalty to opaque sponsors. The same structural risk attaches to later built movements: Hitler and Zelensky each depended on institutions that could withhold full capability, corrupt logistics, or misdirect strategy once total victory would breed an uncontrollable client. Defeat or stalemate against Russia — often described as inferior on paper — then reflects depth, home defence, scorched earth, and an adversary whose command chain never meant to deliver a win that breaks the puppet string. Timeline: [Napoleonic Wars — Reverse Crusades](/timeline/evt-napoleonic-wars-reverse).
+
+---
+
 ## Summary: The Through-Line
 
 The West has never stopped trying to destroy Russia. The only variable is the packaging:
