@@ -475,27 +475,5 @@ Disney appears to be introducing us to anti-gravity technology through their new
 
 ## Additional Media
 
-![](/governance/war/(0invasion.jpg)
-![](/governance/war/(atoms_for_peace.jpg)
-![](/governance/war/(debt_slave_system2.jpg)
-![](/governance/war/(debt_slave_system.jpg)
-![](/governance/war/(definition.jpg)
-![](/governance/war/(military_police.jpg)
-![](/governance/war/(propaganda1.jpg)
-![](/governance/war/(propaganda2.jpg)
-![](/governance/war/(propaganda3.jpg)
-![](/governance/war/(propaganda4.jpg)
-![](/governance/war/(propaganda_bank_robber.jpg)
-![](/governance/war/(racket2.jpg)
-![](/governance/war/(racket3.jpg)
-![](/governance/war/(racket4.jpg)
-![](/governance/war/(racket5.jpg)
-![](/governance/war/(racket6.jpg)
-![](/governance/war/(racket.jpg)
-![](/governance/war/(trump_avoids_war.jpg)
-![](/governance/war/(UkraineSummit.jpg)
-![](/governance/war/(war_and_central_banking.jpg)
+<AutoIndex sort="name-asc" />
 
-## Extra Photos:
-
-TODO

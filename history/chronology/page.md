@@ -2573,38 +2573,5 @@ original location of the Biblical Jerusalem.
 
 ## Additional Media
 
-![](/history/chronology/anatoly_fomenko.jpg)
-![](/history/chronology/coins.jpg)
-[Creation Dates Validation](/history/chronology/creation-dates-validation.md)
-![](/history/chronology/egyptian_plumbing.jpg)
-![](/history/chronology/fake.jpg)
-![](/history/chronology/fake3.jpg)
-![](/history/chronology/fake5.jpg)
-![](/history/chronology/fake7.jpg)
-![](/history/chronology/fake9.jpg)
-![](/history/chronology/fake10.jpg)
-![](/history/chronology/fake11.jpg)
-![](/history/chronology/fomenko_books.jpg)
-![](/history/chronology/fomenko_new_chronology.jpg)
-![](/history/chronology/fomenko_timeline_1633_1725.gif)
-![](/history/chronology/gutenberg_bible_1455.jpg)
-![](/history/chronology/history_fake.jpg)
-![](/history/chronology/history.png)
-![](/history/chronology/islam_in_early_america.jpg)
-![](/history/chronology/lunar_calendar.jpg)
-![](/history/chronology/new_chronology_backside.jpg)
-![](/history/chronology/phantom_time_hypothesis.jpg)
-![](/history/chronology/phantom_time_hypothesis2.jpg)
-![](/history/chronology/phantom_time_hypothesis3.jpg)
-![](/history/chronology/phantom_time_hypothesis4.jpg)
-![](/history/chronology/pharisees_vs_sadducees.jpg)
-![](/history/chronology/plagues_of_venus.jpg)
-![](/history/chronology/redacted.jpg)
-![](/history/chronology/TolkienRedactedRedBook.jpg)
-![](/history/chronology/worlds-fair-coverup.jpg)
+<AutoIndex sort="name-asc" />
 
-## All Assets
-
-<div className="flex flex-wrap max-h-[80vh] overflow-y-auto justify-center">
-  <AutoContent />
-</div>
