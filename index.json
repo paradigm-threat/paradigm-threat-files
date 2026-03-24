@@ -7674,6 +7674,15 @@
         "fiction-presented-as-fact-investigation.md": {
           "_title": "Science Fiction & Fantasy: Fiction Presented as Fact"
         },
+        "grrm": {
+          "index-george-rr-martin-world-of-ice-and-fire-investigation.md": {
+            "_title": "Investigation (speculative): George R. R. Martin, *The World of Ice & Fire*, and the \u201cfictional historian\u201d pattern"
+          },
+          "index.md": {
+            "_title": "George R. R. Martin \u2014 investigation index"
+          },
+          "_count": 2
+        },
         "jules-verne": {
           "index-jules-verne.md": {
             "_title": "Jules Verne Collection \u2014 Index"
@@ -7696,7 +7705,10 @@
           "index-princess-bride-andronicus-fezzik-investigation.md": {
             "_title": "Investigation (speculative): Fomenko\u2019s Andronicus-Christ, *The Princess Bride*, and \u201cColossus\u201d dialogue"
           },
-          "_count": 1
+          "index.md": {
+            "_title": "*The Princess Bride* \u2014 investigation index"
+          },
+          "_count": 2
         },
         "shelley": {
           "shelley-frankenstein-true-story-investigation.md": {
@@ -7788,7 +7800,7 @@
           },
           "_count": 1
         },
-        "_count": 48
+        "_count": 51
       },
       "fire_on_the_mountain.jpg": {
         "_width": 250,
@@ -7849,7 +7861,7 @@
         "_height": 869,
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAwABUB8JZQC7ADO2JDn8AAA/uoll/ZkIPdWjbj9OpMh93F3uWmixuw7EX1ZNlV+HCHVLRT1rBcsYAA="
       },
-      "_count": 63
+      "_count": 66
     },
     "public-schools.jpg": {
       "_width": 1024,
@@ -7968,7 +7980,7 @@
       },
       "_count": 21
     },
-    "_count": 295
+    "_count": 298
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat"
@@ -8702,6 +8714,6 @@
     },
     "_count": 151
   },
-  "_count": 1875,
-  "_version": "6c79a2e"
+  "_count": 1878,
+  "_version": "e988614"
 }
