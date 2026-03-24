@@ -8,7 +8,7 @@
 
 - **Key findings** — **Masks / COVID-era** (PP); **Morgenstern + father’s live cuts + “good parts” redaction**; **Morgenstern likely real / source eliminated → historic fantasy window** (§5); **§5 coda + *Book destruction (1933, 1946)*** — May 1933 Nazi burnings (Bebelplatz); Order No. 4 (1946 Italy); denazification / Axis purges (**Morgenstern** link hypothesis); **§6 anti-intellectual frame / reader as child**; **Wells/Tolkien** parallel; colossus; **Anti-intellectual frame** (full section); Part F summary
 - **Part A** — Fomenko: Andronicus-Christ, Andrey, “Andre”
-- **Part B** — Film facts; Fezzik / “colossus” dialogue
+- **Part B** — Film facts; Fezzik / “colossus” dialogue; novel: Fezzik as **Turkish** boy, Constantinople/Bolu/Zile, crowd **boo**; upbringing ↔ NC Christ (actor b. France = separate control)
 - **Part C** — Managed disclosure; celebrity conjunction posts
 - **Part D** — Florin / Guilder plot (short)
 - **Part E** — Colossae / *Colossians* / “colossus” etymology
