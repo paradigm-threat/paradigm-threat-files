@@ -1,5 +1,10 @@
 [
   {
+    "hash": "e95fede6fb641ee9145fc61ea5b9b8ac8d616b3c",
+    "date": "2026-03-24T14:28:58.000Z",
+    "message": "War investigations: Napoleonic artillery/airship dossier, tech-ceiling section, link fixes"
+  },
+  {
     "hash": "54ea3fcd5efe3b47ac4759510ea3893a5cec1822",
     "date": "2026-03-24T13:38:05.000Z",
     "message": "Princess Bride: Key findings §7 + Morgenstern-layer real geography inventory"
@@ -18,10 +23,5 @@
     "hash": "e988614620564c1a4c74476f81f2857a8f0a5508",
     "date": "2026-03-24T00:41:44.000Z",
     "message": "Blog: 2026-03-23 update — timeline, files investigations, site TTS/UI."
-  },
-  {
-    "hash": "6c79a2e0e66bf2f886c3aaee52e8abdbaef11f00",
-    "date": "2026-03-23T23:31:44.000Z",
-    "message": "Investigations: gnostic vs agnostic theism; Princess Bride index; chronology index."
   }
 ]

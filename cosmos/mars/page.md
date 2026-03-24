@@ -921,28 +921,5 @@ our **God of War**: The Planet Mars.
 
 ## Additional Media
 
-![](/cosmos/mars/(/cosmos/mars/(book_the_martians_nick_redfern.jpg)
-![](/cosmos/mars/(/cosmos/mars/(cern_religious_ritual_at3.jpg)
-![](/cosmos/mars/(/cosmos/mars/(cern_religious_ritual_at4.jpg)
-![](/cosmos/mars/(/cosmos/mars/(cern_stargate_mars2.jpg)
-[Death on Mars Analysis](death-on-mars-analysis.md)
-![](/cosmos/mars/(/cosmos/mars/(hollow_mars1.jpg)
-![](/cosmos/mars/(/cosmos/mars/(hollow_mars2.jpg)
-![](/cosmos/mars/(/cosmos/mars/(mars-dagger-back2.jpg)
-![](/cosmos/mars/(/cosmos/mars/(mars-dagger-front.jpg)
-![](/cosmos/mars/(/cosmos/mars/(mars-dagger.jpg)
-![](/cosmos/mars/(/cosmos/mars/(mars_life2.jpg)
-![](/cosmos/mars/(/cosmos/mars/(mars_life3.jpg)
-![](/cosmos/mars/(/cosmos/mars/(mars_map2.jpg)
-![](/cosmos/mars/(/cosmos/mars/(mars_map3.png)
-![](/cosmos/mars/(/cosmos/mars/(mars_map4.jpg)
-![](/cosmos/mars/(/cosmos/mars/(mars_map5.jpg)
-![](/cosmos/mars/(/cosmos/mars/(mars_map.jpg)
-![](/cosmos/mars/(/cosmos/mars/(mars_nasa_1979.jpg)
-![](/cosmos/mars/(/cosmos/mars/(mars_ssp.jpg)
+<AutoIndex sort="name-asc" />
 
-## All Assets
-
-<div className="flex flex-wrap max-h-[80vh] overflow-y-auto justify-center">
-  <AutoContent/>
-</div>

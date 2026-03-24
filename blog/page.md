@@ -1,7 +1,3 @@
 # Blog
 
-*Paradigm Threat updates, changelogs, and project news*
-
----
-
-<AutoIndex sort="name-desc" />
+<AutoIndex sort="name-desc" title="Paradigm Threat updates, changelogs, and project news" format="blog" />

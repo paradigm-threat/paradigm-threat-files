@@ -66,32 +66,5 @@ Since then, nobody wants to talk about 9/11. Not the good actors, nor the bad.
 
 ## Additional Media
 
-![](/events/911/(/events/911/(911_buildings.jpg)
-![](/events/911/(/events/911/(911_cgi_planes.jpg)
-![](/events/911/(/events/911/(911_coverup2.jpg)
-![](/events/911/(/events/911/(911_coverup3.jpg)
-![](/events/911/(/events/911/(911_coverup4.jpg)
-![](/events/911/(/events/911/(911_coverup.jpg)
-![](/events/911/(/events/911/(911_engineers.jpg)
-![](/events/911/(/events/911/(911_explosions.jpg)
-![](/events/911/(/events/911/(911_facts2.jpg)
-![](/events/911/(/events/911/(911_facts3.jpg)
-![](/events/911/(/events/911/(911_facts4.jpg)
-![](/events/911/(/events/911/(911_facts.jpg)
-![](/events/911/(/events/911/(911_israel.jpg)
-![](/events/911/(/events/911/(911_meme2.jpg)
-![](/events/911/(/events/911/(911_meme3.jpg)
-![](/events/911/(/events/911/(911_meme4.jpg)
-![](/events/911/(/events/911/(911_meme5.jpg)
-![](/events/911/(/events/911/(911_meme.jpg)
-![](/events/911/(/events/911/(911_predictive_programming.jpg)
-![](/events/911/(/events/911/(911_story2.jpg)
-![](/events/911/(/events/911/(911_story3.jpg)
-![](/events/911/(/events/911/(911_story.jpg)
-![](/events/911/(/events/911/(FakeWTCCollapse.jpg)
-![](/events/911/(/events/911/(false_flag_paris.jpg)
-![](/events/911/(/events/911/(israel_911.jpg)
+<AutoIndex sort="name-asc" />
 
-## Other Images:
-
-<Auto/>

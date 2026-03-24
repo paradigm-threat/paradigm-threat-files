@@ -3,7 +3,7 @@ import json
 import base64
 import io
 import subprocess
-from datetime import datetime
+from datetime import datetime, timezone
 from PIL import Image
 
 def get_lqip(image_path):
@@ -102,6 +102,13 @@ def generate_index():
                         lqip = get_lqip(full_path)
                         if lqip:
                             file_data["_lqip"] = lqip
+
+                    try:
+                        mtime = os.path.getmtime(full_path)
+                        dt = datetime.fromtimestamp(mtime, tz=timezone.utc)
+                        file_data["_updated"] = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+                    except OSError:
+                        pass
                     
                     tree[item] = file_data
                     total_files += 1
@@ -120,7 +127,7 @@ def generate_index():
             text=True
         ).strip()
     except (subprocess.CalledProcessError, FileNotFoundError):
-        version = datetime.utcnow().strftime('%Y%m%d%H%M')
+        version = datetime.now(timezone.utc).strftime('%Y%m%d%H%M')
     tree['_version'] = version
 
     with open(output_file, 'w') as f:
