@@ -14,6 +14,7 @@
 - **Part E** — Colossae / *Colossians* / “colossus” etymology
 - ***Book destruction (1933, 1946)*** — Nazi May 1933 burnings (Germany, Bebelplatz); Italy Allied Order No. 4 (13 May 1946); “perfect crime” Morgenstern hypothesis
 - **Part F** — Extended allegory / PP theses (open): east–west blame inversion, Humperdinck and war, authorship frame, **masks / identity absurdity / Man in Black insert hypothesis**, Lotharon, Fire Swamp, **F7 Goldman finances (negative search)**
+- **Morgenstern layer: real Earth geography** — Full inventory of named real places in the 1973 diegesis; **Key findings §7**; user sentiment: **Florin / Guilder as thin overlay**, deliberate padding with real history and map pins (suspicious rename-layer reading)
 
 ## External / workspace text
 
