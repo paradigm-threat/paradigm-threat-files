@@ -115,7 +115,7 @@
     "_count": 28
   },
   "changelog.json": {
-    "_updated": "2026-03-24T20:39:00Z"
+    "_updated": "2026-03-25T12:46:44Z"
   },
   "cosmos": {
     "cosmology": {
@@ -9477,7 +9477,7 @@
         "jules-verne": {
           "index-jules-verne.md": {
             "_title": "Jules Verne Collection \u2014 Index",
-            "_updated": "2026-03-10T12:56:43Z"
+            "_updated": "2026-03-25T13:34:57Z"
           },
           "_count": 1
         },
@@ -10741,5 +10741,5 @@
     "_count": 151
   },
   "_count": 1883,
-  "_version": "56f67f1"
+  "_version": "9bedbb3"
 }

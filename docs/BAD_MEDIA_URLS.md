@@ -44,7 +44,7 @@ Links that point to non-existent files. Fixed during 2026-03-11 cleanup: `events
 Links in `cosmos/cosmology/de_grazia/` point to PDF and TXT files (e.g. chaos_and_creation.pdf, the_burning_of_troy.txt) that are not in the repo. These may be external or not committed.
 
 ### Cross-repo / external
-- `cosmos/cosmology/saturnian/index-safireproject.md` — `../paradigm-threat-timeline/content/*.md` (different repo)
+- Timeline book content links SAFIRE via root-relative `/cosmos/cosmology/saturnian/index-safireproject.md` (paradigm-threat-files). Older `../../wget/` paths in drafts should not ship.
 - Various `www.mythsarehistory.com/*` and `safireproject.com/*` — missing `https://`; treated as relative
 
 ---
