@@ -1,23 +1,23 @@
 # Jules Verne Collection — Index
 
 > Downloaded from [Project Gutenberg](https://www.gutenberg.org/) (public domain).
-> Part of the Paradigm Threat investigation into suppressed technology encoded in 19th-century fiction.
+> Part of the Paradigm Threat investigation into suppressed technology encoded in 19th-century adventure narrative — material often presented to contemporaries as feasible extrapolation and later re-shelved under *fiction*.
 
 ## Purpose
 
 Investigating evidence that Jules Verne (1828–1905) described **real, operational technology** — weapons, propulsion, submarine engineering, anti-gravity physics, and lunar travel — decades before their "official" invention. The standard explanation ("he was a visionary") fails to account for the **engineering precision** of his descriptions. Nobody guesses the exact composition of gun-cotton, the behavior of aluminum projectiles, the physics of water-cushioned shock absorption, or the specifications of electric submarines without access to **real technical knowledge**.
 
-Verne was not predicting the future. He was **disclosing the present** — or the recent past — under the protective cover of fiction. This places him in the same category as [H.G. Wells, Lovecraft, and Tolkien](/content/15.ce-21st-the-final-struggle/15.01.00-1890-ce-20th-century-predictive-programming-literature.md): authors who converted suppressed knowledge into entertainment to ensure the general public would dismiss it as already-known fiction.
+Verne was not predicting the future. He was **disclosing the present** — or the recent past — in forms his readers treated as continuous with engineering and war news; twentieth-century catalogs then isolated the same titles under *fiction*, which made dismissal easy. This places him in the same category as H.G. Wells, Lovecraft, and Tolkien — authors who converted suppressed knowledge into entertainment the public could file as "already just a story." See [Predictive programming: literature](/timeline/evt-predictive-programming-literature).
 
 ### The Civil War Connection
 
 *From the Earth to the Moon* (1865) opens with the **Gun Club of Baltimore** — a fraternity of Civil War artillerists who have perfected weapons of unprecedented destructive power. Verne describes these men as having advanced gunnery beyond anything in Europe: *"Their weapons attained colossal proportions, and their projectiles, exceeding the prescribed limits, unfortunately occasionally cut in two some unoffending pedestrians."*
 
-The novel's central plot — building a 900-foot Columbiad cannon to fire a manned projectile to the Moon — is set **immediately after the Civil War ends**. The Gun Club members are explicitly described as restless warriors seeking a new outlet for their weapons expertise. The key character rivalry (Barbicane vs. Nicholl) encodes the arms race between penetrating projectiles and armor plate — the same technology cycle that produced modern DU (depleted uranium) munitions.
+The central plot — building a 900-foot Columbiad cannon to fire a manned projectile to the Moon — is set **immediately after the Civil War ends**. The Gun Club members are explicitly described as restless warriors seeking a new outlet for their weapons expertise. The key character rivalry (Barbicane vs. Nicholl) encodes the arms race between penetrating projectiles and armor plate — the same technology cycle that produced modern DU (depleted uranium) munitions. Read structurally, that rivalry is a **trial of contrivances** akin to Arthurian single combat: engineer against engineer, armor against penetrator. Surrender on this reading follows not from losing a bet but from learning that **no practicable thickness of shield** could stop what the opposing network could already throw — hence a decision about **land and lineages** (children, and their children) rather than honor alone.
 
-**The suppression thesis:** Verne's description of the Columbiad — a gun that fires a 30,000-pound aluminum projectile at 12,000 yards per second, capable of defeating any armor plate — describes a weapon system whose destructive power exceeds anything officially acknowledged in the 1860s. The projectile-vs-armor rivalry Verne details maps precisely onto the development of DU penetrators: small, dense, high-velocity projectiles designed to defeat hardened armor through kinetic energy alone, producing catastrophic secondary explosions.
+**The suppression thesis:** Verne's description of the Columbiad — a gun that fires a 30,000-pound aluminum projectile at 12,000 yards per second, capable of defeating any armor plate — describes a weapon system whose destructive power exceeds anything officially acknowledged in the 1860s. The projectile-vs-armor rivalry Verne details maps precisely onto DU penetrators: small, dense, high-velocity projectiles designed to defeat hardened armor through kinetic energy alone, producing catastrophic secondary explosions.
 
-If such technology existed — or was in development — during the Civil War, its use could have been the decisive factor that ended the war. A weapon of this power, demonstrated once, would compel immediate surrender. The subsequent redaction of this weapon from the historical record would be standard military classification. Verne, with his connections to French military and scientific circles, could have learned of it — and published it as fiction, simultaneously disclosing and concealing.
+If such technology existed — or was in development — during the Civil War, a decisive demonstration could have ended the fighting once the armor-penetrator trial was conclusive. The subsequent redaction of that capability from the historical record would match standard classification practice. Verne, with his connections to French military and scientific circles, could have learned of it — and released it through a narrative his contemporaries read as *plausible* extraordinary voyage, not as a separate modern genre called "fiction." The same material carries an early **existential** sting: war that could waste habitable land for generations. A literary echo of planetary extinction — Lord Byron's poem *[Darkness](https://en.wikipedia.org/wiki/Darkness_(poem))* (1816) — sits a generation earlier: not ordnance, but the same imaginative threshold (life extinguished on Earth). Timeline synthesis: [19th Century Weapons & Declassification](/timeline/evt-19th-century-weapons) | [US Civil War](/timeline/evt-1861-ce-the-us-civil-war).
 
 ### The Rotation Anti-Gravity Thesis
 
@@ -32,7 +32,7 @@ The rotation thesis: **rapid axial rotation is the key to anti-gravity**. Verne 
 
 ### 19th-Century Moon Missions
 
-If the Columbiad cannon is real technology, and if rotation-based anti-gravity was understood in the 19th century, then the logical conclusion is that **manned lunar missions were undertaken in the 19th century** by wealthy individuals and military organizations with access to this technology. The missions were subsequently redacted from the historical record and rewritten as science fiction.
+If the Columbiad cannon is real technology, and if rotation-based anti-gravity was understood in the 19th century, then the logical conclusion is that **manned lunar missions were undertaken in the 19th century** by wealthy individuals and military organizations with access to this technology. The missions were subsequently redacted from the historical record and the public trace reclassified as *science fiction* in later catalogs.
 
 Evidence:
 - Verne described the specific trajectory, transit time (97 hours), and orbital mechanics before these calculations were "officially" performed
@@ -40,7 +40,7 @@ Evidence:
 - Wells independently described similar technology in *The First Men in the Moon* (1901), using anti-gravity material (Cavorite) — a different fictional wrapper around the same underlying physics
 - Both Verne and Wells "predicted" technology that wasn't officially developed for another 100 years — the simpler explanation is that they had access to existing knowledge
 
-Cross-reference: [Predictive Programming: Fiction as Control](/content/16.appendix/16.01.00-predictive-programming-fiction-as-control.md) | [20th Century Predictive Programming: Literature](/content/15.ce-21st-the-final-struggle/15.01.00-1890-ce-20th-century-predictive-programming-literature.md)
+Cross-reference: [Predictive programming: fiction as control](/timeline/evt-predictive-programming-fiction-as-control) | [Predictive programming: literature](/timeline/evt-predictive-programming-literature)
 
 ---
 
