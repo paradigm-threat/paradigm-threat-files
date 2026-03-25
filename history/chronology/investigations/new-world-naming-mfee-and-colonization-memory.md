@@ -31,8 +31,21 @@ This is **not** asserted as proven. It is a **research question** about layered 
 | [MudFlood evidence appendix](/timeline/evt-mudflood-evidence) (timeline) | Repopulation, orphan trains, **cargo cults** — social correlate of **vacuum** after event. |
 | [Slow ecological collapse — MFEE through Donner era](/history/chronology/investigations/slow-ecological-collapse-mfee-through-donner-era.md) | **Delayed** biosphere and migration stress **after** acute burial — another reason “empty” labels might peak **decades** after 1774. |
 | Timeline (book) | [15th-c. Ottoman conquest chapter](/timeline/evt-1400-ce-15th-century-ce-ottoman-conquest-of-europe); [Jesuit operations — “New World”](/timeline/evt-jesuit-ops-conversion-empire) as **missionary/legal** frame for Americas. |
+| [Josiah Priest, *American Antiquities* (1833)](#josiah-priest-american-antiquities-1833) | **U.S. antebellum print** arguing **pre–Columbus** Old World contact (**Phoenicians**, **Norse/Danes**, **Welsh**), **mounds** as relics of vanished nations, **Noah/Ararat** framing — **discourse**, not prehistoric proof; shows **Columbus-only** memory was **contested** in English. |
 
 **Gap:** No dedicated bibliography yet of **primary European** uses of *novus orbis* / “New World” **by year** vs. **cartographic** first use of **“New” + toponym** for Pacific and Australian names (many are **19th c.** Dutch or English coinings). That table belongs in a follow-up pass.
+
+---
+
+## Josiah Priest: American Antiquities (1833)
+
+**Bibliography:** Josiah Priest, *American Antiquities, and Discoveries in the West: Being an Exhibition of the Evidence that an Ancient Population of Partially Civilized Nations, Differing Entirely from Those of the Present Indians, Peopled America, Many Centuries before Its Discovery by Columbus* (Albany, N.Y.: Hoffman & White, 1833). Facsimile and lending copies: [Internet Archive — *American antiquities, and discoveries in the West*](https://archive.org/details/americanantiquit00prie).
+
+**Why this investigation cites it:** Priest’s compilation is **primary evidence for antebellum U.S. discourse**, not for prehistoric fact. It shows that **long before modern archaeology**, popular print in English argued the Americas had been **known and settled from the Old World** (e.g. **Phoenicians**, **Danes / Norwegians**, **Welsh**), that **mounds and earthworks** in the Ohio and Mississippi regions were relics of **vanished “civilized” nations**, and that **Noah’s posterity** and **Tower of Babel** linguistics framed migration narratives. That **contests a simple Columbus-only “New World” memory** among 19th-century readers and belongs in the **layered naming / colonization memory** thread as **contemporary literature**—parallel to, not a substitute for, *Mundus Novus* dating or MFEE evidence.
+
+**Working OCR index (local dev tree, not deployed on paradigmthreat.net):** companion workspace `wget/josiah/INDEX.md` (extracted page texts under `wget/josiah/extracted/`).
+
+Other Priest titles (*The Wonders of Nature and Providence*, millennial and anti-Universalist tracts, pro-slavery exegeses) are **not** used in this naming investigation; they are catalogued in the same local `INDEX.md` for unrelated threads.
 
 ---
 
@@ -84,4 +97,5 @@ These materials **strengthen** a **general** argument that imperial language of 
 ## Related
 
 - [The MudFlood and World Cataclysm](/timeline/evt-the-mudflood-world-cataclysm)  
+- [1833 CE — Josiah Priest publishes *American Antiquities*](/timeline/evt-1833-ce-josiah-priest-american-antiquities) (timeline event)  
 - [Chronology investigations index](/history/chronology/investigations/index-investigations.md)
