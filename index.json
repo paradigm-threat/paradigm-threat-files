@@ -115,7 +115,7 @@
     "_count": 28
   },
   "changelog.json": {
-    "_updated": "2026-03-25T13:43:54Z"
+    "_updated": "2026-03-25T14:15:48Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5522,7 +5522,7 @@
         },
         "index-investigations.md": {
           "_title": "Chronology Investigations \u2014 Index",
-          "_updated": "2026-03-23T22:49:36Z"
+          "_updated": "2026-03-25T15:07:00Z"
         },
         "index-offenbarung.md": {
           "_title": "Die Offenbarung Johannis \u2014 English Index",
@@ -5554,6 +5554,10 @@
           "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JYgCdAEU4z3yQAD+wkpwghMIu1odjMYfZ7NgC6mGUGqn5SeuxEGcfQrvUkEOAAA=",
           "_updated": "2026-03-20T13:21:01Z"
         },
+        "rus-horde-english-political-lexicon-speculation.md": {
+          "_title": "Rus-Horde echoes in English political and military vocabulary (open investigation)",
+          "_updated": "2026-03-25T15:06:57Z"
+        },
         "slow-ecological-collapse-mfee-through-donner-era.md": {
           "_title": "Investigation (speculative): Slow ecological collapse \u2014 MFEE through the Donner era",
           "_updated": "2026-03-23T21:15:17Z"
@@ -5581,7 +5585,7 @@
           "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record",
           "_updated": "2026-03-16T12:54:22Z"
         },
-        "_count": 23
+        "_count": 24
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -5645,7 +5649,7 @@
       },
       "page.md": {
         "_title": "Earth History Timeline based on Saturnian Cosmology",
-        "_updated": "2026-03-24T14:21:54Z"
+        "_updated": "2026-03-25T15:08:00Z"
       },
       "phantom_time_hypothesis.jpg": {
         "_width": 959,
@@ -6455,7 +6459,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2025-12-24T12:59:07Z"
       },
-      "_count": 248
+      "_count": 249
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -8204,7 +8208,7 @@
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive",
       "_updated": "2026-03-10T12:56:29Z"
     },
-    "_count": 544
+    "_count": 545
   },
   "influence": {
     "censorship": {
@@ -9849,7 +9853,7 @@
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
-    "_updated": "2026-03-16T13:02:38Z"
+    "_updated": "2026-03-25T15:07:56Z"
   },
   "science": {
     "5g": {
@@ -10740,6 +10744,6 @@
     },
     "_count": 151
   },
-  "_count": 1883,
-  "_version": "720b447"
+  "_count": 1884,
+  "_version": "f6935b3"
 }
