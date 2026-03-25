@@ -315,6 +315,26 @@ This investigation proceeds from the following alternative framework:
 - The mainstream narrative conflates both under the single label "radiation is dangerous." But the outcomes diverge completely. Windsor's enriched materials produced zero observable harm. DU produces birth defects, cancers, chromosome damage, and leukemia.
 - Under our framework, this is not a coincidence. It is the central insight: *enriched and depleted are fundamentally different in their biological effects*, and the deliberate conflation of the two serves the interests of the nuclear weapons establishment (which needs a fearful public to justify weapons budgets and suppress civilian energy independence).
 
+### Sub-investigation: DU poisoning vs. A-bomb aftermath (Japan) — similarities
+
+**Scope:** This block records **mainstream-mechanistic parallels** between **depleted uranium (DU)** exposure (especially **munition impacts** on armor) and **late / chronic** health and environmental effects attributed to **atomic bombings** (e.g. **Hiroshima and Nagasaki**). It does **not** assert that the two contexts are identical in **dose**, **isotopic mix**, or **dominant cause** of a given outcome; A-bomb survivors (**hibakusha**) were exposed to **prompt radiation**, **neutrons**, **thermal flash**, **blast**, and **fallout / internalization of fission products**, while DU scenarios are dominated by **uranium metal / oxide aerosol**, **chemical toxicity**, and **alpha** exposure from **long-lived uranium** in **lung and other tissues**. The parallels matter for **policy and narrative**: both are often discussed under a single umbrella of **“radiation risk,”** yet **mechanisms and contested magnitudes** differ.
+
+1. **Long-term cancer risk**  
+   Both contexts carry **elevated discussion** of **cancer** and **hematologic** disease **years after** exposure. For **A-bomb survivors**, long-term **solid cancer** and **leukemia** risks are **extensively studied** (e.g. **RERF / Life Span Study**), and elevated risks are **widely treated as established** for **significant** doses. For **DU**, **cancer** risk from **battlefield** exposure is **much more debated**: **defense-sponsored** reviews often stress **low radiological** contribution relative to **chemical** and **particulate** pathways; **critics** and some **epidemiology** point to **clusters** and **biological plausibility** from **internal alpha** emitters. **Net:** same **category** of concern (**late malignancy**), **different** **consensus strength** and **dose–response** documentation.
+
+2. **Internal contamination**  
+   **DU** impacts **pyrophorically** produce **fine uranium oxide** particles; if **inhaled** or **ingested**, **insoluble** fractions can **persist** in **lung** or **lymphatic** tissue, acting like other **internalized** **alpha** emitters—**short range** in tissue, **high** **local** **ionization** near **deposited** particles. **A-bomb** contexts add **fission products** and **activation products** that can **incorporate** into **bone**, **thyroid**, etc., depending on **chemistry** and **time**. **Net:** both involve **chronic internal source** terms, not only **external** **gamma**; **DU** is **uranium-heavy**; **bomb** fallout is **isotopically** **broader**.
+
+3. **Heavy metal toxicity**  
+   **Uranium** (including **DU**) is a **nephrotoxic** **heavy metal**; **kidney** injury from **chemical** **uranium** is a **major** theme in **DU** toxicology. **Plutonium** and other **actinides** also have **chemical** toxicity, but for **weapon** **materials** and **fission** **mixtures**, **radiation** and **incorporation** **dose** usually **dominate** **hazard** **narratives** relative to **pure** **metal** **poisoning**. **Net:** **shared** **actinide** **chemistry**; **relative** **weight** of **chemical** vs. **radiological** **harm** **differs** **by** **scenario** (**DU** often **framed** as **metal + particle** first; **bomb** **legacy** as **radiation + mixed** **nuclides**).
+
+4. **Long-term environmental persistence**  
+   **Uranium** isotopes in **DU** have **very long** **half-lives**; **contaminated** **soil** and **dust** can **remain** **mobilizable** for **decades**. **Fallout** from **nuclear** **detonations** includes **long-lived** **nuclides** (**Cs-137**, **Sr-90**, **Pu**), so **environmental** **monitoring** and **dose** **reconstruction** **extend** **many** **years** **post-event**. **Net:** both leave **multi-decade** **site** and **population** **questions**, not **only** **acute** **effects**.
+
+**Framework note (enriched vs. depleted):** Windsor’s thesis **separates** **enriched** **handling** **experience** from **DU** **war** **outcomes**. This sub-investigation **does not** **collapse** **Hiroshima/Nagasaki** into **“DU only”**; it **only** **lists** **where** **mainstream** **descriptions** **overlap** (**cancer**, **internalization**, **metal**, **persistence**) so readers can **compare** **claims** **without** **assuming** **one** **mechanism** **explains** **both**.
+
+**Related:** [Marie Curie, battlefield radiation, and post-war nuclear narrative](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) (narrative flattening of **“radiation”** across **eras** and **weapons**).
+
 ---
 
 ## Critical Analysis of Windsor's Methodology
@@ -415,6 +435,8 @@ Galen Windsor's lecture is not the rant of an outsider. It is the testimony of a
 - The inhalation question, once the strongest objection, is substantially addressed by three facts: (1) Windsor himself carried a plutonium lung burden for years without harm; (2) McCluskey survived 500x americium exposure; (3) the documented inhalation harm cases (Chernobyl, Iraq, Balkans) all involve contexts where depleted uranium or unknown weapons were present — not enriched materials from normal reactor operations.
 
 **The bottom line:** Windsor's credentials are verified. His access was real. His demonstrations were public. The question is not whether he was there — he was. The question is whether you trust his interpretation of what he saw, or the interpretation offered by the institutions that sent SWAT teams to silence him. That is a judgment call, and it is yours to make.
+
+**Related (open):** [Marie Curie, battlefield radiation, and post-war nuclear narrative](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) — WWI radiology, possible narrative flattening, and the enriched/depleted split in historical memory.
 
 ---
 

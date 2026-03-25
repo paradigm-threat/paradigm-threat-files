@@ -115,7 +115,7 @@
     "_count": 28
   },
   "changelog.json": {
-    "_updated": "2026-03-25T14:15:48Z"
+    "_updated": "2026-03-25T15:08:22Z"
   },
   "cosmos": {
     "cosmology": {
@@ -10620,15 +10620,19 @@
         "_updated": "2025-12-24T12:59:07Z"
       },
       "investigations": {
+        "marie-curie-radiation-cures-suppression-speculation.md": {
+          "_title": "Marie Curie, battlefield radiation, and post-war nuclear narrative (open investigation)",
+          "_updated": "2026-03-25T23:59:11Z"
+        },
         "nuke-waste-is-safe-investigation.md": {
           "_title": "Investigation: Galen Windsor \"Nuclear Waste is Safe\" \u2014 Alternative Framework Analysis",
-          "_updated": "2026-03-10T12:56:36Z"
+          "_updated": "2026-03-25T23:50:12Z"
         },
         "nukes-dont-exist-investigation.md": {
           "_title": "Investigation: \"Nukes Don't Exist\" \u2014 Alternative Framework Analysis",
           "_updated": "2026-03-10T12:56:36Z"
         },
-        "_count": 2
+        "_count": 3
       },
       "littleboye.jpg": {
         "_width": 672,
@@ -10684,7 +10688,7 @@
         "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoQABAABUB8JQAAVeKQWGgAAPrzouWl+do0NAl51DrHZCyC8YAOhEWKrWfK5RMyqPm/dUsxIqVv79Uxy1wAEZATo34AAA==",
         "_updated": "2025-12-24T12:59:07Z"
       },
-      "_count": 23
+      "_count": 24
     },
     "telepathy": {
       "remote_viewing": {
@@ -10742,8 +10746,8 @@
       },
       "_count": 9
     },
-    "_count": 151
+    "_count": 152
   },
-  "_count": 1884,
-  "_version": "f6935b3"
+  "_count": 1885,
+  "_version": "05789eb"
 }
