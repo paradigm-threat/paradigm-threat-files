@@ -1,5 +1,10 @@
 [
   {
+    "hash": "f6935b3a661306a91044fbce7d08117ed2c6e444",
+    "date": "2026-03-25T14:15:39.000Z",
+    "message": "Docs: blank line between consecutive markdown images where needed."
+  },
+  {
     "hash": "720b447584ae6e6c3fdbb450839959b44ecd5a5d",
     "date": "2026-03-25T13:43:44.000Z",
     "message": "Jules Verne index: align Civil War thesis with weapons article; fix timeline links."
@@ -18,10 +23,5 @@
     "hash": "56f67f1e9fc5a95b6176ae70ff8035c47df3e87b",
     "date": "2026-03-24T20:38:48.000Z",
     "message": "Investigation: update blood rain / dust ecological disasters notes"
-  },
-  {
-    "hash": "c4c536cecce23506d134fc749615073a78886273",
-    "date": "2026-03-24T14:41:35.000Z",
-    "message": "Add _updated to index.json via generate-index; blog AutoIndex format=blog."
   }
 ]

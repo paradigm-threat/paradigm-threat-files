@@ -80,6 +80,7 @@ making corrections to this timeline. I'm hoping this project helps others naviga
 able to access the *unredacted* origin story of our planet and our species. This timeline focuses on the *causality*
 between major events (i.e. why one event led to the next), so not all events of world history are listed.
 
+**Recommended (lexical / memory):** [Rus-Horde echoes in English political and military lexicon (open investigation)](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) — mainstream etymology vs. speculative threads on English vocabulary, Fomenko **Horde = *rat’*** (*рать*), and mass-print word bias.
 
 ### The length of a Year changes throughout Antiquity
 

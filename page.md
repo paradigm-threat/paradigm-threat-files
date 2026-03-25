@@ -65,6 +65,7 @@ or *not* believing.
 * [MudFlood Energetic Event Hypothesis](/history/mudflood)
 * [The Deep State is on Mars](/cosmos/mars)
 * [Earth History Timeline Reconstruction](/history/chronology)
+* [Rus-Horde echoes in English political and military lexicon (open speculation)](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) — *rush* / *Rus*, *rat* / *рать*, Protestant print and word bias, *King Arthur* (2004); dictionary facts vs. low-confidence parallels
 * [Stolen Credit in Media — Plagiarism as Control](/influence/stolen_credit)
 * [Microchips: Nobody Knows How They're Made](/science/microchips/microchips-shrinking-technology-investigation) — Major finding: deliberate worldwide system of control
 * [Artificial Intelligence and the Ghost in the Machine](/science/ai/page) — Deliberate bad software; AI as deep-state endgame
