@@ -115,7 +115,7 @@
     "_count": 28
   },
   "changelog.json": {
-    "_updated": "2026-03-24T14:41:46Z"
+    "_updated": "2026-03-24T20:39:00Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5538,7 +5538,7 @@
         },
         "new-world-naming-mfee-and-colonization-memory.md": {
           "_title": "Investigation (speculative): \u201cNew World,\u201d \u201cnew lands,\u201d and post\u2013mud-flood memory",
-          "_updated": "2026-03-23T22:34:16Z"
+          "_updated": "2026-03-25T12:42:57Z"
         },
         "page.md": {
           "_title": "Chronology Investigations \u2014 Index",
@@ -10741,5 +10741,5 @@
     "_count": 151
   },
   "_count": 1883,
-  "_version": "c4c536c"
+  "_version": "56f67f1"
 }
