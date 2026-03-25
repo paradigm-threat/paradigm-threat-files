@@ -66,9 +66,13 @@ Our investigations emphasize a direction often neglected elsewhere:
 6. **Chronology as comparator** — Hunting parallels between fiction and “real history” often stalls because **the official timeline may be the wrong yardstick**. If large-scale redaction or chronology shift occurred, stories could echo events we cannot yet place; proof stays blocked until the comparator grid is questioned or rebuilt. A **working prediction** on this site: scattered investigations may **converge toward stronger conclusions** once real history (or a serious alternate chronology) is accepted as the baseline for comparison—not proven in each author file, but stated so parallel work is not dismissed for using the wrong calendar. See [history / chronology hub](/history/chronology/page.md) and e.g. [GRRM investigation — chronology bottleneck](fiction_encoding/grrm/index-george-rr-martin-world-of-ice-and-fire-investigation.md) (*Chronology as the missing comparator*).
 
 ![Doom — quantum teleport between Earth and Mars](doom.jpg)
+
 ![Mars Needs Women — breeding programme theme](mars_women.jpg)
+
 ![Stargate — pyramid as portal](stargate.jpg)
+
 ![War of the Worlds — heat ray, red weed, Mars inversion](wotw.jpg)
+
 ![The Simpsons — 9/11 imagery](simpsons_space_laser.jpg)
 
 ---
@@ -284,10 +288,15 @@ Media identified as containing predictive programming by external sources or our
 ## Remaining Images (predictive_programming folder)
 
 ![Mars movies](mars_movies.jpg)
+
 ![Marvin the Martian](marvin.jpg)
+
 ![Marvin the Martian (2)](marvin2.jpg)
+
 ![Mega Man](megaman.jpg)
+
 ![Nazis in Hollow Earth](nazis_hollow_earth.jpg)
+
 ![Fire on the Mountain](fire_on_the_mountain.jpg)
 
 ---

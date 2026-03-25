@@ -8,8 +8,11 @@ description: "Therefore, it is logical to conclude that the Great Wars of the 20
 ## World War II was won BY CHEATING using Child Pilots, Anti-gravity aircraft, and a whole lotta NAPALM
 
 ![British Terror Bombing](/governance/war/bombings/british.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Bombing Germany 2](/governance/war/bombings/germany2.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
 ![Bombing Wench](/governance/war/bombings/wench.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Napalm Bombings](/governance/war/bombings/napalm.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ```
@@ -49,6 +52,7 @@ in Japan before they _finally surrendered_?
 
 
 ![Bombing Kano Teruo](/governance/war/bombings/kano_teruo.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Bombing Germany](/governance/war/bombings/germany_book.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 > As the incendiaries fell, the phosphorus clung to the bodies of those below, turning them into human torches.
@@ -91,8 +95,11 @@ own pilots and engineers could not detect it. The planes became automated with a
 Thus, the Boeing Bombers could be piloted by a child of any age.
 
 ![Anti Gravity Research](../../science/anti_gravity/antigrav_research.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Anti Gravity Gyroscope](../../science/anti_gravity/gyroscope.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
 ![Anti Gravity Tech Cover Up](../../science/anti_gravity/tech_cover_up.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Anti Gravity Tech Cover Up 2](../../science/anti_gravity/tech_cover_up2.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ## Q: Why do children matter?
@@ -153,8 +160,11 @@ upon countries we have poor relations with. It's an effective threat.
 
 
 ![Flying Disk Cover Up 1](../../science/anti_gravity/disk_cover_up.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Flying Disk Cover Up 3](../../science/anti_gravity/disk_cover_up3.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
 ![Flying Disk Cover Up 2](../../science/anti_gravity/disk_cover_up2.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Flying Disk Cover Up 4](../../science/anti_gravity/disk_cover_up4.gif?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ## Q: What flying machines (besides saucers) use this flying technology?
@@ -203,8 +213,11 @@ lost someone in the crash.
 Would you trade your son, daughter, wife, husband's life for the truth? Yes. Yes you would.
 
 ![Unlikely Aerodynamics 1](../../science/anti_gravity/unlikely_aerodynamics.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Unlikely Aerodynamics 2](../../science/anti_gravity/zpe_technology.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Impossible Aerodynamics](../../science/anti_gravity/impossible_aerodynamics.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
 ![Failed Aerodynamics](../../science/anti_gravity/failed_aerodynamics.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ## Q: Okay so, how does one keep such an obvious secret this whole time?
@@ -244,8 +257,11 @@ by Ari Asulin - 11/09/2019
 ## Citations:
 
 ![Propaganda Targeting Children: Captain America](/governance/war/propaganda2.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Propaganda War Stamps](/governance/war/propaganda1.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
 ![Propaganda Targeting Children: Memphis Belle](/governance/war/propaganda4.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Propaganda Royal Air Force](/governance/war/propaganda3.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ### Children coerced into warfare:
@@ -297,7 +313,9 @@ without Halsey’s cooperation."
 ### Allied bombing campaigns continue after WW2:
 
 ![Endless War Bombing History](/governance/war/bombings/endless_war_history.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Bombing Gulf War](/governance/war/bombings/endless_war_gulf_war.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
 ![Bombing Afghanistan](/governance/war/bombings/endless_war_afghanistan.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 “List of countries the USA has bombed since the end of World War II: China 1945-46 Korea 1950-53 China 1950-53 Guatemala
@@ -340,8 +358,11 @@ All technological advances in Human History have coincided with acts of war.
 ### Japan was Napalmed (Nuke Bombs are Fake):
 
 ![Nuclear Bomb Science Fiction](../../science/nukes/nuclear_bombs_science_fiction.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Bombing Napalm](../../science/nukes/nuclear_bombs_napalm_is_worse.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
 ![Death Object Book](../../science/nukes/book.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Nuclear Bomb are fake](../../science/nukes/nuclear_bombs_fake.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 "TNT could have been used to fabricate any A-Bomb test. And yes, conventional bombs can and do produce the classic
@@ -390,8 +411,11 @@ jet engines themselves which are already designed with a super fast rotating tur
 ### Jumbo jets flying without engines:
 
 ![German Flying Disk](../../science/anti_gravity/german_disk.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![US Air Force Flying Disk](../../science/anti_gravity/usaf-saucer-aerial.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
 ![German Flying Disk 2](../../science/anti_gravity/german_disk2.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![AvroCar](../../science/anti_gravity/antigrav_usaf_avrocar.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 "Can The Airbus A380 Fly On One Engine?" Yes, but this article fails to explain how.
@@ -440,6 +464,7 @@ B-52Ds could carry 22,000 lb (9,980 kg) more than B-52Fs"
 ### Criminal activity:
 
 ![USAF TR 3B](../../science/anti_gravity/usaf-tr-3b.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![USAF TR 3B 2](../../science/anti_gravity/usaf-tr-3b2.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 

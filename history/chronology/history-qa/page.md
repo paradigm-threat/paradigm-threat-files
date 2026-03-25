@@ -8,6 +8,7 @@ description: "Before the first memories of Earth"
 # "I never cared much for studying Human History until I realized it was all lies"
 
 ![Black Cube of Saturn 3](../../saturn/black_cube_of_saturn3.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
 ![Conspiracy Book Stack](../../../influence/conspiracy/books.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ```
@@ -113,6 +114,7 @@ of hollow stars.
 ### Q: Planets and Suns are hollow?
 
 ![NAZIs in Hollow Earth](../../../cosmos/cosmology/hollow_earth/hollow_earth_signals2.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Hollow Earth EU Model](../../../cosmos/cosmology/hollow_earth/hollow_earth_EU_model.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 
@@ -234,6 +236,7 @@ will tend to disagree:
 #### The Electric Universe and Saturnian Cosmology
 
 ![Earth was Saturn's Moon 3](../../saturn/earth_was_saturns_moon3.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Earth was Saturn's Moon 2](../../saturn/earth_was_saturns_moon2.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 Proponents of the [Electric Universe Theory](https://www.thunderbolts.info/wp/2013/09/16/chapter-1-beginners-guide/)
@@ -268,6 +271,7 @@ Cosmology. Check it out!
 ### Q: Don't the existence of dinosaur bones disprove "Young Earth Theory"?
 
 ![Genocide Giants 4](../../../governance/genocide/giants_faeries/genocide_giants4.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Genocide Giants 2](../../reformation/extraordinary_black_book.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 Dinosaurs existed, and probably still exist somewhere.
@@ -360,6 +364,7 @@ history.**
 
 
 ![Saturn Polar Configuration: North](../../saturn/saturnian_configuration_north.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Saturn Polar Configuration: South](../../saturn/saturnian_configuration_south.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 Before the first memories of Earth's history began, the planets of our Solar System were not yet part of our Sun's
@@ -390,6 +395,7 @@ showered them with a safe and powerful energy that promoted life to form in abun
 ### Q: The Planet Saturn was Earth's Sun?
 
 ![Saturn Polar Configuration: Absu Layer](../../saturn/golden_age_absu.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Nine Planets or Realms of the Yggdrasil](../../saturn/norse_yggdrasil.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 Yep! Earth started out as a proto-planet within the brown-dwarf that later became the planet Saturn.
@@ -802,6 +808,7 @@ In reality each famine/plague was planned _in advance_ as a means to re-assert c
 ![Earth was Saturn's Moon Spires](../../history_fake.jpg?w=384 '{"className":"rounded-md m-auto"}')
 
 ![Roman Power Pyramid](../../pyramids/power_pyramid.png?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
+
 ![Saturnian Icons](../../saturn/saturnian_icons.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 
