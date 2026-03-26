@@ -115,7 +115,7 @@
     "_count": 28
   },
   "changelog.json": {
-    "_updated": "2026-03-25T23:59:55Z"
+    "_updated": "2026-03-26T13:32:58Z"
   },
   "cosmos": {
     "cosmology": {
@@ -10626,11 +10626,11 @@
       "investigations": {
         "marie-curie-radiation-cures-suppression-speculation.md": {
           "_title": "Marie Curie, battlefield radiation, and post-war nuclear narrative (open investigation)",
-          "_updated": "2026-03-25T23:59:11Z"
+          "_updated": "2026-03-26T13:55:44Z"
         },
         "nuke-waste-is-safe-investigation.md": {
-          "_title": "Investigation: Galen Windsor \"Nuclear Waste is Safe\" \u2014 Alternative Framework Analysis",
-          "_updated": "2026-03-25T23:50:12Z"
+          "_title": "Investigation: Galen Winsor \u2014 \u201cNuclear Waste is Safe\u201d (alternative framework)",
+          "_updated": "2026-03-26T13:54:47Z"
         },
         "nukes-dont-exist-investigation.md": {
           "_title": "Investigation: \"Nukes Don't Exist\" \u2014 Alternative Framework Analysis",
@@ -10753,5 +10753,5 @@
     "_count": 152
   },
   "_count": 1886,
-  "_version": "1d62847"
+  "_version": "1ffd367"
 }
