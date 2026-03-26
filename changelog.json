@@ -1,5 +1,10 @@
 [
   {
+    "hash": "1ffd367fca46912e6729f5d769aa82a4966b9901",
+    "date": "2026-03-26T13:32:47.000Z",
+    "message": "Add Titanic investigation dossier; refresh investigations and index links."
+  },
+  {
     "hash": "1d628474c7b59b76dfe401908fbfc6227d064d0a",
     "date": "2026-03-25T23:59:45.000Z",
     "message": "Nuclear investigations: DU vs A-bomb parallels; Marie Curie thread and timeline alignment"
@@ -18,10 +23,5 @@
     "hash": "720b447584ae6e6c3fdbb450839959b44ecd5a5d",
     "date": "2026-03-25T13:43:44.000Z",
     "message": "Jules Verne index: align Civil War thesis with weapons article; fix timeline links."
-  },
-  {
-    "hash": "aa46ed3f49f3c04464a10b7ee3760618977a1390",
-    "date": "2026-03-25T13:35:53.000Z",
-    "message": "Fix Jules Verne index link to nuke-waste investigation path."
   }
 ]
