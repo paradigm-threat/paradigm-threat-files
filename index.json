@@ -115,7 +115,7 @@
     "_count": 28
   },
   "changelog.json": {
-    "_updated": "2026-03-25T15:08:22Z"
+    "_updated": "2026-03-25T23:59:55Z"
   },
   "cosmos": {
     "cosmology": {
@@ -4937,7 +4937,7 @@
         },
         "page.md": {
           "_title": "War Investigations",
-          "_updated": "2026-03-24T14:13:30Z"
+          "_updated": "2026-03-26T13:07:39Z"
         },
         "reverse-crusades-comparison.md": {
           "_title": "The Four Reverse Crusades: A Structural Comparison",
@@ -4946,6 +4946,10 @@
         "soviet-collapse-investigation.md": {
           "_title": "Investigation: Soviet Collapse \u2014 Western Orchestration, Media, and Post-WWII Isolation",
           "_updated": "2026-03-10T12:56:29Z"
+        },
+        "titanic-sinking-investigation.md": {
+          "_title": "Investigation: RMS Titanic (1912) \u2014 Timing, Alternative Narratives, and Aftermath",
+          "_updated": "2026-03-26T13:30:21Z"
         },
         "us-civil-war-investigation.md": {
           "_title": "Investigation: US Civil War \u2014 British Funding, Slavery as Instrument, and the DU Weapon Thesis",
@@ -4963,7 +4967,7 @@
           "_title": "Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan",
           "_updated": "2026-03-11T22:41:35Z"
         },
-        "_count": 14
+        "_count": 15
       },
       "military_police.jpg": {
         "_width": 960,
@@ -5059,9 +5063,9 @@
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA=",
         "_updated": "2025-12-24T12:59:08Z"
       },
-      "_count": 59
+      "_count": 60
     },
-    "_count": 494
+    "_count": 495
   },
   "history": {
     "chronology": {
@@ -5649,7 +5653,7 @@
       },
       "page.md": {
         "_title": "Earth History Timeline based on Saturnian Cosmology",
-        "_updated": "2026-03-25T15:08:00Z"
+        "_updated": "2026-03-26T12:44:44Z"
       },
       "phantom_time_hypothesis.jpg": {
         "_width": 959,
@@ -10748,6 +10752,6 @@
     },
     "_count": 152
   },
-  "_count": 1885,
-  "_version": "05789eb"
+  "_count": 1886,
+  "_version": "1d62847"
 }

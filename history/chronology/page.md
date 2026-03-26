@@ -20,9 +20,7 @@ Since the 16th century historian critics like
 have accused church chronologists of the [Holy Roman Empire](https://en.wikipedia.org/wiki/Holy_Roman_Empire)
 such as [Joseph Scaliger](https://chronologia.org/en/old_books/scaliger_petavius_about.html)
 (founder of [modern chronology](https://www.lindahall.org/about/news/scientist-of-the-day/joseph-justus-scaliger/))
-of conspiring to obfuscate historical records before the 13th century C.E. In modern times, state-sponsored historians
-like [Anatoly Fomenko](https://en.wikipedia.org/wiki/Anatoly_Fomenko#Historical_revisionism)
-have used [statistical analysis](https://chronologia.org/en/math_impressions/index.html) of published records
+of conspiring to obfuscate historical records before the 13th century C.E. In modern times, [Anatoly Fomenko](https://en.wikipedia.org/wiki/Anatoly_Fomenko#Historical_revisionism)—a professional mathematician elected a full member of the Russian Academy of Sciences in 1994 for mathematical work, not for history—has used [statistical analysis](https://chronologia.org/en/math_impressions/index.html) of published records
 from 2200
 sources including [Scaliger](https://en.wikipedia.org/wiki/Joseph_Justus_Scaliger),
 [House of Romanov](https://en.wikipedia.org/wiki/House_of_Romanov),
@@ -32,8 +30,9 @@ sources including [Scaliger](https://en.wikipedia.org/wiki/Joseph_Justus_Scalige
 [Book of Mormon](https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng),
 [Maya-Kiche](https://en.wikipedia.org/wiki/Maya_peoples),
 [etc.](https://chronologia.org/en/shakespeare/foreword.html)
+Mainstream historians in Russia and abroad reject that reconstruction as history—the *[New Chronology](https://en.wikipedia.org/wiki/New_chronology_\(Fomenko\))*.
 His team revealed **duplicated** matching chronology spanning periods of hundreds or thousands of years, often with the
-names and locations changed. In his [New Chronology](https://en.wikipedia.org/wiki/New_chronology_\(Fomenko\)),
+names and locations changed. In that [New Chronology](https://en.wikipedia.org/wiki/New_chronology_\(Fomenko\)),
 modern human history started less than a thousand years ago:
 
 > **Christ** was born in [The Crimea](https://en.wikipedia.org/wiki/New_chronology_\(Fomenko\)#Fomenko's_claims) on

@@ -1,5 +1,10 @@
 [
   {
+    "hash": "1d628474c7b59b76dfe401908fbfc6227d064d0a",
+    "date": "2026-03-25T23:59:45.000Z",
+    "message": "Nuclear investigations: DU vs A-bomb parallels; Marie Curie thread and timeline alignment"
+  },
+  {
     "hash": "05789ebe82b875e0db2a8825b1955f9113d6aa3e",
     "date": "2026-03-25T15:08:13.000Z",
     "message": "Add Rus-Horde English lexicon investigation; link from home and chronology pages."
@@ -18,10 +23,5 @@
     "hash": "aa46ed3f49f3c04464a10b7ee3760618977a1390",
     "date": "2026-03-25T13:35:53.000Z",
     "message": "Fix Jules Verne index link to nuke-waste investigation path."
-  },
-  {
-    "hash": "9bedbb308f317e56b53b09fd6a3b99ec21f3bfba",
-    "date": "2026-03-25T12:46:34.000Z",
-    "message": "Investigation: link Priest American Antiquities timeline event in New World naming doc"
   }
 ]

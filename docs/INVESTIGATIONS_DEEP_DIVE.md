@@ -2,7 +2,7 @@
 
 **Purpose:** Inventory all paradigm-threat-files investigations that have unfinished work or TODOs an agent could do; validate claims where reasonable; record dead ends; give objective likelihood on key claims; list remaining todos and **books/full texts to obtain** as original sources.
 
-**Date:** 2026-03-16 (updated 2026-03-16: citations and completed tasks)
+**Date:** 2026-03-16 (updated 2026-03-26: Titanic investigation added)
 
 ---
 
@@ -23,8 +23,9 @@
 | 11 | French Revolution | [french-revolution-investigation.md](/governance/war/investigations/french-revolution-investigation.md) | 4 open questions | Tocqueville; Furet; Doyle; Schama |
 | 12 | British Civil War | [british-civil-war-investigation.md](/governance/war/investigations/british-civil-war-investigation.md) | 5 open questions | Hill; Kishlansky |
 | 13 | Reverse Crusades Comparison | [reverse-crusades-comparison.md](/governance/war/investigations/reverse-crusades-comparison.md) | 8 further-research items | Docherty & Macgregor; Preparata; Sutton; Zeman |
+| 14 | RMS Titanic (1912) | [titanic-sinking-investigation.md](/governance/war/investigations/titanic-sinking-investigation.md) | 5 open questions (primary sources) | US Senate / UK inquiry reports; Gardiner; critical surveys |
 
-**Total:** 13 investigations with explicit unfinished work. Others (e.g. false-flag catalog, Iran 2026, nukes, mars, mudflood) may have shorter or no checklist sections; they are not omitted from validation below where applicable.
+**Total:** 14 investigations with explicit unfinished work. Others (e.g. false-flag catalog, Iran 2026, nukes, mars, mudflood) may have shorter or no checklist sections; they are not omitted from validation below where applicable.
 
 ---
 
@@ -96,6 +97,12 @@
 - **Dead ends:** 1666 as “planned” (British Civil War) is speculative. Fomenko treatment for these events not yet done.
 - **Likelihood:** Revolution/civil war as template before empire: **high**. Reverse Crusades pattern: **high** as structural reading. WW1 as “invisible mechanism”: **plausible**.
 
+### Titanic sinking (1912)
+
+- **Validated:** Sinking April 1912; inquiries; SOLAS 1914; International Ice Patrol lineage; Morgan IMM / White Star ownership; Morgan canceled passage — all mainstream-documented.
+- **Dead ends:** Olympic–Titanic “switch” and Fed-assassination theses lack primary-source proof accepted by historians; co-author van der Vat distanced from switch theory; fraud motive disputed (under-insurance argument). Staging / mass faked deaths require explaining wreck and ice-field evidence. **Astor → Hollywood family rebranding:** no public genealogical case; Mary Astor’s surname was a **Paramount stage name**, not documented kinship to John Jacob Astor IV.
+- **Likelihood:** Iceberg collision and regulatory aftermath: **high** (conventional). Deliberate sinking for insurance: **low** on mainstream financial and identification evidence. Deliberate sinking to clear Fed opposition: **very low** on cited fact-checks; **timing cluster** (1912–1914) remains a legitimate pattern for political-economy research without proving causation. **Structural precursor** read (magnates silenced before Fed Act): **speculative** — recorded in investigation as weighted by some readers, not validated.
+
 ---
 
 ## 3. Books and Full Texts to Obtain (Original Sources)
@@ -124,6 +131,7 @@ Consolidated list for agent-assisted acquisition or linking. Priority: CIA (expl
 - **Reverse Crusades:** Docherty & Macgregor *Hidden History*; Preparata *Conjuring Hitler*; Sutton *Wall Street and the Rise of Hitler*; Zeman *Germany and the Revolution in Russia*.
 - **Vril:** Bulwer-Lytton *The Coming Race* (1871); Ettl/Ratthofer Tempelhofgesellschaft publications (1989–92) for reference.
 - **Wuxing:** Earliest Chinese texts linking Wuxing to planets/elements (to be identified).
+- **Titanic:** US Senate inquiry report (1912); UK Wreck Commissioner’s *Titanic* report; Gardiner *Titanic: The Ship That Never Sank?* (advocacy); Butler *The Other Side of the Night* (Californian); critical surveys (e.g. Chirnside dissertation PDF linked in investigation).
 
 ---
 
@@ -145,6 +153,7 @@ Consolidated list for agent-assisted acquisition or linking. Priority: CIA (expl
 - [ ] **US Civil War:** Cross-reference Verne’s engineering with 1865 ordnance; trace primary-source “heavy projectile” or unusual Union artillery.
 - [ ] **Soviet collapse:** Document specific CIA/MI6 ops 1985–1991; trace Palin itinerary and contacts August 1991.
 - [ ] **Reverse Crusades:** Parvus–Lenin–German funding pipeline; Colonel House diaries; Warburg operations; Milner/Round Table; Lusitania as false-flag parallel.
+- [ ] **Titanic:** Primary-source audit — Astor/Straus/Guggenheim on Aldrich/Federal Reserve; inquiry testimony vs switch/Fed narratives; insurance ledgers.
 
 ### Lower priority / ongoing
 
