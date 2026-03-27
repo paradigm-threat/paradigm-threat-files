@@ -10,6 +10,8 @@ keywords: timeline, alternate history, investigations, book, Paradigm Threat
 
 *by Ari Asulin*
 
+![Paradigm Threat: The Third Story — timeline book illustration](./paradigm-threat-the-third-story.png)
+
 A book-length **timeline** of alternate and contested history — not a single verdict, but a traceable map of claims, sources, and investigations.
 
 The narrative spans **multiple chronology frames** (conventional, Fomenko-style duplicates, Saturnian and other alternate calendars where cited) and ties events to **dossiers** in the open repository: reverse crusades and modern war, nuclear and radiation threads, chronology and redaction, finance clusters around the 1912 era, Rus–Horde linguistics, and more. Where mainstream history stops, the project records *what is argued, by whom, and what is still open*.
