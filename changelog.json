@@ -1,5 +1,10 @@
 [
   {
+    "hash": "929a122f8dac41c8f59d5da47bf445c219a44373",
+    "date": "2026-03-27T13:05:56.000Z",
+    "message": "Add Operation Paperclip investigation; war investigations index; related content."
+  },
+  {
     "hash": "fcbc13d55c5e41ef8a9bfc280faa066f3ed78c36",
     "date": "2026-03-27T11:55:14.000Z",
     "message": "Add book landing page (book/page.md), refresh index"
@@ -18,10 +23,5 @@
     "hash": "1d628474c7b59b76dfe401908fbfc6227d064d0a",
     "date": "2026-03-25T23:59:45.000Z",
     "message": "Nuclear investigations: DU vs A-bomb parallels; Marie Curie thread and timeline alignment"
-  },
-  {
-    "hash": "05789ebe82b875e0db2a8825b1955f9113d6aa3e",
-    "date": "2026-03-25T15:08:13.000Z",
-    "message": "Add Rus-Horde English lexicon investigation; link from home and chronology pages."
   }
 ]

@@ -128,7 +128,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-03-27T11:55:25Z"
+    "_updated": "2026-03-27T13:06:07Z"
   },
   "cosmos": {
     "cosmology": {
@@ -4954,15 +4954,15 @@
         },
         "page.md": {
           "_title": "War Investigations",
-          "_updated": "2026-03-27T12:54:24Z"
+          "_updated": "2026-03-27T13:48:17Z"
         },
         "pitcairn-bounty-mutiny-sovereignty-and-narratives.md": {
           "_title": "Pitcairn: Bounty mutiny narratives, sovereignty, and modern law",
-          "_updated": "2026-03-27T12:35:43Z"
+          "_updated": "2026-03-27T13:48:02Z"
         },
         "pitcairn-island-timeline.md": {
           "_title": "Pitcairn Island \u2014 timeline of events",
-          "_updated": "2026-03-27T12:35:49Z"
+          "_updated": "2026-03-27T13:48:03Z"
         },
         "reverse-crusades-comparison.md": {
           "_title": "The Four Reverse Crusades: A Structural Comparison",
@@ -10778,5 +10778,5 @@
     "_count": 152
   },
   "_count": 1891,
-  "_version": "fcbc13d"
+  "_version": "929a122"
 }
