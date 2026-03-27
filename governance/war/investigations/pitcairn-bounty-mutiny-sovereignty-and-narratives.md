@@ -39,6 +39,22 @@ Investigators can hold several **primary families** of account against each othe
 - **“Intolerable state”** (Murray’s language) vs **Eden myth** in travel writing — same events, opposite emotional palette.
 - **Women and children** as agents: often flattened in male-authored mutiny books; critical for testing any later “custom vs statute” argument against **documented ages** in 20th/21st c. law.
 
+### 2.1 Captain Bligh — books, naval record, and the screen’s “tyrant” (Tahiti as suppressed trigger)
+
+**Status:** Interpretive and comparative-media thesis, pending line-by-line check of Bligh’s *Voyage*, court-martial minutes, Heywood/Morrison lines, and early editions against the 1935 and 1962 film packages. This does not deny that Bligh could be harsh or that personal friction mattered on board.
+
+**Print and Navy vs cinema.** Secondary historiography and many non-fiction accounts already note that **William Bligh** appears more rounded—competent, sometimes abrasive, not simply insane evil—in primary and early narrative sources than in the dominant **mid-century Hollywood caricature** (e.g. Laughton/Howard 1935; Brando/Trevor Howard 1962). Naval procedure after the mutiny did not need a pantomime villain to justify charges; it needed a **legal theory of mutiny**. This subsection asks why popular film inflated Bligh beyond what many books and records suggest—beyond generic dramatic economy.
+
+**Tahiti, desertion, and the mutiny’s “other” motor.** Archival threads include crew attachment to Tahiti after long months ashore, disputes over leave and discipline, and attempts to stay or return to the island against orders to sail. Some readings treat a **small group’s effort to get back to Tahiti** (or an equivalent desertion crisis) as the spark that forced the mutiny to go wide—not Bligh’s temper alone. If Bligh was not exceptionally monstrous by Navy standards, then the mass-audience story that “they rose because the captain was unbearable” loses explanatory priority to “they rose because they would not leave Tahiti / Polynesian life for another leg under the same crown discipline.”
+
+**Why downplay that on screen?** Cinematic choice is not proven conspiracy. **Investigator hypothesis:** centering Tahiti loyalty and desertion would shift the moral geometry from escape from a killer situation to **Royal Navy personnel preferring another society and communal island existence** over British hierarchy and paybook obedience. That is awkward for an imperial maritime story in the Anglosphere mass market—closer to a debate about whether “civilization” wins on merits than to a simple mutiny as self-defence against tyranny.
+
+**Cold War screen climate (speculative bridge).** Mid-century US/UK blockbusters landed in a period of intense **anti-communist** messaging and **Russophobia** in popular culture—not the same thing as Tahitian or Pitcairn kin-based economy, but the same broad nervousness about glorifying **collective non-wage life** or Westerners “defecting” from capital and rank to a communal elsewhere. The investigator does not claim studio memos said “no communism”; the claim is that a plot built around **Tahiti as magnet** touches ideological third rails a **tyrant-captain** plot avoids. Soviet-state communism and Pacific island social orders are not equated here; the shared pressure is **metropolitan fear of romanticizing exit from wage-and-rent life**.
+
+**Mirror on Pitcairn (later packaging).** Official and press strands often stress misery, isolation, hunger, and need for rescue—yet the **1833 return** from Tahiti and **post-Norfolk return waves** show families choosing the rock again over staying under imperial convenience in full metropolitan form. Repeated reversion to Pitcairn is hard to square with a flat picture of people who “hated” the island and only wanted British modernity—unless one treats each return as coerced or irrational, which the archive does not uniformly support. Same structural move as the Bligh films: **foreground suffering and rescue grammar, background the pull of non-metropolitan life** (see also **§8.2**).
+
+**Subconclusion (investigator).** If the evil Bligh of cinema overshoots books and Navy paper, then the mutiny’s most dangerous idea—that sailors might choose Tahiti and its social order over crown service—has been partially veiled by a personal villain plot. Later Pitcairn storytelling that stresses starvation and rescue while underreporting voluntary returns rhymes with that pattern. Proof of studio intent requires archives; the pattern is what this file flags for research.
+
 ---
 
 ## 3. Jurisdiction: what the defence argued, what courts held
@@ -212,11 +228,29 @@ A second, similar **total-move** discontinuity occurs with **Norfolk (1856)** an
 
 **One-line summary:** The **British** **reorganized** **Pitcairn** **twice** in the **19th** **century** under **conditions** that **allowed** **total** **imperial** **intervention** in **people**, **things**, and **law**; **downstream** **legal** **crisis** sits in that **continuity**; **divide-and-conquer** **logic** is **assumed** **here** as **operating** **motive**, **not** **proven** in a **single** **memo** — **prove** or **falsify** with **Colonial Office** **files**, **ship** **logs**, and **parallel** **OT** **comparisons**.
 
+### 8.5 Investigator note — Tahitian men, the *Bounty* burn, and suspicion of “sex-first” reframing
+
+**Status:** **Interpretive lens** and **research direction**; **not** a claim that **every** modern allegation is false or that **no** sexual harm occurred in any era. **Contrasts** with **§7**–**§7.2** (documented prosecutions) without **replacing** them.
+
+**Captured sentiment (project owner), organized for the file:**
+
+1. **Primary conflict (1790s).** The **core** struggle on early Pitcairn, in this reading, was **not** essentially **sexual**; it was **between mutineers and the Tahitian men** (and the Polynesian party more broadly) who **came with them** — **law, obligation, and retaliation** in **their** terms, **plus** the **shadow of British naval law** (**mutiny**, **king’s ships**, **desertion**). **Sexual jealousy** or **“debauchery”** as the **driver** of the **slow elimination of European men** is **optional** in the sources; a **juridical-moral** reading — **punishment for what Tahitian allies could treat as capital wrongs** — is **at least as parsimonious** and **better matches** the **neglect of Tahitian male agency** in **popular** and **cinematic** tellings.
+
+2. **Burning the *Bounty* and breaking with Christian.** **Destroying the ship** and the **killing of Fletcher Christian** (in traditions that assign mutineer-on-mutineer violence) can be read as **mutineers finally turning on their own commander** and **foreclosing return** — **stranding** everyone, including **Polynesian men and women** who had **not** chosen **permanent exile** on that **rock**. **Concealment** from **Navy discovery** fits **self-interest** of **European mutineers**; for **Tahitians**, the **same acts** can read as **criminal** or **faithless** under **Polynesian** **conflict norms** **and** under **British** **categories** they had **reason to know** from **contact** and **ships**. In this frame, **violence against white mutineers** is **not** explained first by **harem politics** but by **response to grave breach**.
+
+3. **“Kidnapped women” vs Tahitian men.** Narratives that **imply** **white men simply abducted Tahitian women** **erase** that **Tahitian men** **accompanied** the party and **had** **centuries** of **institutions** — **gender balance**, **dispute resolution**, **rank** — **before** the **Bounty** **sojourn**. **Collapse into chaos** **immediately** on **Pitcairn** is **not** **required** by that background; **selective** focus on **European** **lust** **while** **Tahitian men stay off-stage** is, to the investigator, a **red flag** in **source selection**.
+
+4. **Demography and “debauchery” after the killings.** Once **most European men** were **gone**, the **island** lacked the **same** **European-mutineer** **vector** for a **long-running** **“white debauchery”** **engine** in the **first generation**; **later** **British** **recontact**, **administration**, **ships**, **missionaries**, and **global media** **reinsert** **metropolitan** **law**, **gaze**, and **opportunity structures**. The investigator finds it **worth weighing** whether **modern** **sex-scandal** **framing** **overweights** **endemic island pathology** and **underweights** **who** **returned** **with** **courts**, **codes**, and **foreign traffic** (see **§7.2**, **§7.3**, **§8.3**).
+
+5. **Suspicion of sex-first reframing.** Anyone who **reframes** the **founding conflict** chiefly as **sexual** **rivalry** or **debauchery** **without** **centering** **Tahitian male agency**, **the *Bounty* burn**, **Christian’s death**, and **stranding** as **moral-legal** **facts** is, in the investigator’s view, **suspiciously narrow** — whether **by habit**, **genre** (**sensational copy**), or **design**.
+
+6. **Trafficking hypothesis (recent decades) — open.** **§8.3** already **separates** **Epstein**-**shaped** **public imagination** from **proven** **operational** **identity** of **networks**. **Additional hypothesis (investigator):** **International** **sex-trafficking** or **trafficking-adjacent** **use** of **Pitcairn** or **its** **jurisdictional** **shell** in the **last few decades** is **not** **documented** in this file. The investigator **treats** **proof** as **still** **to** **find** and **states high confidence** that **relevant** **evidence** **may** **yet** **surface** (shipping, **visa**, **financial**, **law-enforcement** **leaks**, **whistleblower** **material**, **parallel** **OT** **cases**). **Until then:** **expectation**, **not** **finding**.
+
 ---
 
 ## 9. Suggested next document pulls
 
-- Bligh’s *Voyage* and Heywood manuscript lines vs Barrow.
+- Bligh’s *Voyage* and Heywood manuscript lines vs Barrow; compare **§2.1** thesis to **1935** / **1962** **shooting scripts** or **studio** **press** **if** **available**.
 - Beechey/Staines visit narratives vs Murray’s redaction level.
 - Full *Christian & Ors* judgment and Pitcairn Supreme Court **reasons** (if published in full).
 - UN **C-24** working papers on Pitcairn for decolonization language.
@@ -229,3 +263,5 @@ A second, similar **total-move** discontinuity occurs with **Norfolk (1856)** an
 - **Medium:** Geopolitical “why care” — correct in law-of-the-sea terms; speculative if tied to “deep state” without documents.
 - **Low without new files:** Any blanket claim that **all** modern allegations were fabricated.
 - **Investigator-held (§8.4):** **High conviction** that **British** **power** **structurally** **shaped** **post-reset** **Pitcairn** and **today’s** **legal** **relationship**; **medium** on **document-by-document** proof of **intent**; **motive** (**divide-and-conquer**) stated as **working** **assumption** pending **archive** **work**.
+- **Investigator-held (§8.5):** **Strong** **preference** for a **Tahitian-juridical** **reading** of **early** **violence** over **sex-first** **explanations**; **high** **expectation** (pending **sources**) that **trafficking-regime** **angles** in **recent** **decades** **may** **be** **documentable** — **not** **established** **here**.
+- **Investigator-held (§2.1):** **Medium** on **Bligh** **rehabilitation** **in** **scholarship** **vs** **film** **(well-trodden)**; **low** **until** **archives** **on** **causal** **mutiny** **trigger** **and** **any** **studio** **intent**; **Cold** **War** **framing** **stated** **as** **hypothesis**, **not** **demonstrated** **policy**.

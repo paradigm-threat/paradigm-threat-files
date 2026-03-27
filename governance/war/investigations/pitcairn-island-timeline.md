@@ -20,7 +20,7 @@ Dates below mix **well-attested milestones** with items where **month/day or int
 
 - **1787-12-23** — HMS *Bounty* sails from Spithead (breadfruit expedition).
 - **1788-10-26** — Arrival at Tahiti after the Cape detour; long delay while plants mature.
-- **1789-04-28** — **Mutiny** near Tonga; Bligh and loyalists cast off in the launch.
+- **1789-04-28** — **Mutiny** near Tonga; Bligh and loyalists cast off in the launch. **Narrative note:** popular film tends to **caricature Bligh** more than many **print** and **Admiralty** treatments; **desertion / return-to-Tahiti** motives are often **backgrounded** on screen. See [pitcairn-bounty-mutiny-sovereignty-and-narratives.md §2.1](./pitcairn-bounty-mutiny-sovereignty-and-narratives.md#21-captain-bligh--books-naval-record-and-the-screens-tyrant-tahiti-as-suppressed-trigger).
 - **1789** — *Bounty* returns to Tahiti; attempt to settle **Tubuai** fails amid conflict; mutineers split (some stay in Tahiti, some sail with Fletcher Christian).
 - **1790-01-15** (traditional; sometimes rounded to **1790-01**) — Nine mutineers with Polynesian companions land on **Pitcairn**; **HMS *Bounty* burned** at sea to reduce discoverability.
 - **1790s** — Internal violence among mutineers and competing interests; accounts disagree on **sequence of killings** and **Christian’s death** (core narrative contradiction for researchers).
