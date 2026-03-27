@@ -2,7 +2,7 @@
 
 **Purpose:** Inventory all paradigm-threat-files investigations that have unfinished work or TODOs an agent could do; validate claims where reasonable; record dead ends; give objective likelihood on key claims; list remaining todos and **books/full texts to obtain** as original sources.
 
-**Date:** 2026-03-16 (updated 2026-03-26: Titanic investigation added)
+**Date:** 2026-03-16 (updated 2026-03-27: Jonestown / CIA Latin America pattern investigation added)
 
 ---
 
@@ -24,12 +24,19 @@
 | 12 | British Civil War | [british-civil-war-investigation.md](/governance/war/investigations/british-civil-war-investigation.md) | 5 open questions | Hill; Kishlansky |
 | 13 | Reverse Crusades Comparison | [reverse-crusades-comparison.md](/governance/war/investigations/reverse-crusades-comparison.md) | 8 further-research items | Docherty & Macgregor; Preparata; Sutton; Zeman |
 | 14 | RMS Titanic (1912) | [titanic-sinking-investigation.md](/governance/war/investigations/titanic-sinking-investigation.md) | 5 open questions (primary sources) | US Senate / UK inquiry reports; Gardiner; critical surveys |
+| 15 | Jonestown 1978 + CIA Latin America pattern | [jonestown-guyana-1978-cia-latin-america-pattern-investigation.md](/governance/war/investigations/jonestown-guyana-1978-cia-latin-america-pattern-investigation.md) | §6 checklist (hearings, Dwyer cables, forensics, La Penca files) | SDSU Jonestown Institute; House hearings; NSArchive Chile; CEH Guatemala |
 
-**Total:** 14 investigations with explicit unfinished work. Others (e.g. false-flag catalog, Iran 2026, nukes, mars, mudflood) may have shorter or no checklist sections; they are not omitted from validation below where applicable.
+**Total:** 15 investigations with explicit unfinished work. Others (e.g. false-flag catalog, Iran 2026, nukes, mars, mudflood) may have shorter or no checklist sections; they are not omitted from validation below where applicable.
 
 ---
 
 ## 2. Validation and Likelihood by Investigation
+
+### Jonestown / CIA Latin America pattern
+
+- **Validated:** Ryan killed at Port Kaituma; mass deaths at Jonestown same cluster — mainstream. Horman/Teruggi Chile; U.S. role in court findings — documented. Hasenfus / Iran–Contra supply chain — documented. Salvadoran churchwomen; U.S. training of Salvadoran military — documented.
+- **Dead ends:** Single unified “CIA ran Jonestown” proof line — not in this file. La Penca attribution — contested multiple ways; do not cite Wikipedia alone.
+- **Likelihood:** Disputed narratives around Jonestown (Holsinger, SDSU corpus) deserve archive work — **medium** as research priority. Cross-case “observation only” rhetoric vs structural U.S. responsibility — **high** as pattern where courts/commissions have spoken.
 
 ### CIA Investigation
 
