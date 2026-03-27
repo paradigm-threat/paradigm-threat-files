@@ -105,6 +105,7 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 
 - **Decades of CIA-backed gangs:** The CIA is alleged to have built up or empowered criminal and paramilitary networks across Latin America—removing “good” actors and allowing “bad” ones to “breed and run wild”—so that by the time of Bush Sr., **Noriega** had to be “kidnapped” (arrested), and by the time of Trump, **Maduro** had to be targeted similarly.
 - **Pattern:** The struggle is framed as **within** government—between the “old guard” bureaucracy and the “old antibodies” (the only real resistance to these plans). The antibodies include insiders who turned (e.g. Ellsberg) and new or repurposed agencies that could “ruin the plans” by exposing them or taking over their functions under new rules.
+- **Companion case file:** [Jonestown (1978), disputed narratives, and Central American parallels](./jonestown-guyana-1978-cia-latin-america-pattern-investigation.md) — Ryan assassination + mass deaths in Guyana; sources that complicate the official cult package; table of American deaths / attacks where CIA footprint met “locals blamed” and “we only observed” rhetoric (Chile, La Penca, Nicaragua, El Salvador, Guatemala).
 
 ---
 
@@ -147,6 +148,7 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 
 ## IX. References (To Be Expanded)
 
+- [Jonestown (1978), disputed narratives, Latin America parallels](./jonestown-guyana-1978-cia-latin-america-pattern-investigation.md)
 - Paradigm-threat timeline: [False Flags: Architecture of Manufactured War](/timeline/evt-false-flags-architecture), [Historical Antibodies](/timeline/evt-historical-antibodies), [World War II: Reverse Crusade III](/timeline/evt-world-war-ii-reverse-crusade-iii)
 - British divide-and-conquer: [British Divide-Conquer Israel Investigation](/governance/war/investigations/british-divide-conquer-israel-investigation.md)
 - **Books and full texts to obtain or link (original sources):** McCoy (*The Politics of Heroin*), Webb (Dark Alliance series), Weiner (*Legacy of Ashes*), Kinzer (*All the Shah’s Men*, *Overthrow*), Trento, Stockwell (*In Search of Enemies*), and others as identified.

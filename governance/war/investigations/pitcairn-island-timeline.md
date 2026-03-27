@@ -34,7 +34,7 @@ Dates below mix **well-attested milestones** with items where **month/day or int
 - **1825** — HMS *Blossom* visit (Beechey expedition context in literature).
 - **1829-03-05** — **Death of John Adams**; internal leadership passes through island families.
 - **1831** — **Emigration** of the whole community to **Tahiti** (hardship, disease, regret).
-- **1833** — **Return** of most islanders to Pitcairn. **Investigator note:** this **off–on** cycle is treated in [pitcairn-bounty-mutiny-sovereignty-and-narratives.md](./pitcairn-bounty-mutiny-sovereignty-and-narratives.md) **§8** as a **major discontinuity** under **empire/Tahiti** influence — relevant to how much **unbroken** “mutineer island” narrative one accepts post-return.
+- **1833** — **Return** of most islanders to Pitcairn. **Investigator note:** this **off–on** cycle is treated in [pitcairn-bounty-mutiny-sovereignty-and-narratives.md](./pitcairn-bounty-mutiny-sovereignty-and-narratives.md) **§8** as a **major discontinuity** under **empire/Tahiti** influence — relevant to how much **unbroken** “mutineer island” narrative one accepts post-return. **Closing synthesis (§11):** **high** **likelihood** **that** **Polynesian** **tribal** **structure** **was** **not** **restored** **after** **this** **window** **and** **that** **forced** **or** **selective** **handling** **of** **Polynesian** **male** **lines** **belongs** **in** **the** **research** **stack** **(manifests** **pending)**.
 - **1838** — HMS *Fly* visit; British offer of **protection** / closer tie to crown (exact legal label varies in summaries — check *Fly* reports and Colonial Office papers).
 - **1848–1852** — Visits and reports (e.g. **Admiral Moresby**) feed missionary and SPCK literature (see Murray in local corpus).
 
