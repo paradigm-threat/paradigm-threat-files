@@ -117,12 +117,18 @@
   "book": {
     "page.md": {
       "_title": "Paradigm Threat: The Third Story",
-      "_updated": "2026-03-27T11:54:28Z"
+      "_updated": "2026-03-27T12:21:39Z"
     },
-    "_count": 1
+    "paradigm-threat-the-third-story.png": {
+      "_width": 1536,
+      "_height": 1024,
+      "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAsABUB8JbACdADwf/egwAAA/u9L+B2ZgTNbOxXwB7gs53miOwppphKqhIpXtrgw/WsCRMTmNaMjtQDA6vthS920j0vDEwAAAA==",
+      "_updated": "2026-03-27T12:21:39Z"
+    },
+    "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-03-26T14:19:10Z"
+    "_updated": "2026-03-27T11:55:25Z"
   },
   "cosmos": {
     "cosmology": {
@@ -4942,13 +4948,21 @@
           "_title": "Investigation: Napoleonic Artillery, \u201cSound Cannons,\u201d and Lighter-Than-Air Technology",
           "_updated": "2026-03-24T14:25:34Z"
         },
+        "operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md": {
+          "_title": "Investigation: Operation Paperclip, Nazi Continuity, and the WWII \u201cDefeat\u201d Narrative",
+          "_updated": "2026-03-27T13:03:04Z"
+        },
         "page.md": {
           "_title": "War Investigations",
-          "_updated": "2026-03-27T11:53:25Z"
+          "_updated": "2026-03-27T12:54:24Z"
         },
         "pitcairn-bounty-mutiny-sovereignty-and-narratives.md": {
           "_title": "Pitcairn: Bounty mutiny narratives, sovereignty, and modern law",
-          "_updated": "2026-03-27T11:52:27Z"
+          "_updated": "2026-03-27T12:35:43Z"
+        },
+        "pitcairn-island-timeline.md": {
+          "_title": "Pitcairn Island \u2014 timeline of events",
+          "_updated": "2026-03-27T12:35:49Z"
         },
         "reverse-crusades-comparison.md": {
           "_title": "The Four Reverse Crusades: A Structural Comparison",
@@ -4978,7 +4992,7 @@
           "_title": "Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan",
           "_updated": "2026-03-11T22:41:35Z"
         },
-        "_count": 16
+        "_count": 18
       },
       "military_police.jpg": {
         "_width": 960,
@@ -5074,9 +5088,9 @@
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA=",
         "_updated": "2025-12-24T12:59:08Z"
       },
-      "_count": 61
+      "_count": 63
     },
-    "_count": 496
+    "_count": 498
   },
   "history": {
     "chronology": {
@@ -10763,6 +10777,6 @@
     },
     "_count": 152
   },
-  "_count": 1888,
-  "_version": "dd2dfe4"
+  "_count": 1891,
+  "_version": "fcbc13d"
 }

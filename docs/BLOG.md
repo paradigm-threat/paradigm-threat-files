@@ -17,6 +17,8 @@ Do **not** use in blog files:
 
 This ensures links work when blog posts are viewed in GitHub, RSS, or any context.
 
+**Site path map (files repo at URL root):** See [`docs/LINKING_AND_SITE_PATHS.md`](LINKING_AND_SITE_PATHS.md) — how `paradigmthreat.net` serves this repository and when to use root-relative vs absolute URLs outside `blog/`.
+
 ## Adding new blog entries
 
 Create new posts in `blog/` with the naming convention `YYYY-MM-DD-slug.md`. Run `npm run generate-index` (or the pre-commit hook will run it) to include the new file in `index.json`.
