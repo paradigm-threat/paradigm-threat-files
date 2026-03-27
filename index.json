@@ -114,8 +114,15 @@
     },
     "_count": 28
   },
+  "book": {
+    "page.md": {
+      "_title": "Paradigm Threat: The Third Story",
+      "_updated": "2026-03-27T11:54:28Z"
+    },
+    "_count": 1
+  },
   "changelog.json": {
-    "_updated": "2026-03-26T13:32:58Z"
+    "_updated": "2026-03-26T14:19:10Z"
   },
   "cosmos": {
     "cosmology": {
@@ -4937,7 +4944,11 @@
         },
         "page.md": {
           "_title": "War Investigations",
-          "_updated": "2026-03-26T13:07:39Z"
+          "_updated": "2026-03-27T11:53:25Z"
+        },
+        "pitcairn-bounty-mutiny-sovereignty-and-narratives.md": {
+          "_title": "Pitcairn: Bounty mutiny narratives, sovereignty, and modern law",
+          "_updated": "2026-03-27T11:52:27Z"
         },
         "reverse-crusades-comparison.md": {
           "_title": "The Four Reverse Crusades: A Structural Comparison",
@@ -4967,7 +4978,7 @@
           "_title": "Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan",
           "_updated": "2026-03-11T22:41:35Z"
         },
-        "_count": 15
+        "_count": 16
       },
       "military_police.jpg": {
         "_width": 960,
@@ -5063,9 +5074,9 @@
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA=",
         "_updated": "2025-12-24T12:59:08Z"
       },
-      "_count": 60
+      "_count": 61
     },
-    "_count": 495
+    "_count": 496
   },
   "history": {
     "chronology": {
@@ -10752,6 +10763,6 @@
     },
     "_count": 152
   },
-  "_count": 1886,
-  "_version": "1ffd367"
+  "_count": 1888,
+  "_version": "dd2dfe4"
 }
