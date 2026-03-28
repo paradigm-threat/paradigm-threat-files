@@ -24,6 +24,8 @@ Early **March 2026**, amid **Israel–Iran escalation**, social and some state-a
 | 18 Mar 2026 | Levins post tying 8 Mar to shiva framing (status `2034295775451021339` per IBTimes). |
 | 19 Mar 2026 | IBTimes and others synthesize silence + strike rumors. |
 
+![March 2026 rumor window: Yair Netanyahu X silence, shiva framing, and strike chatter (illustrative)](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.png)
+
 ---
 
 ## Strategic calculus (thesis under review)
