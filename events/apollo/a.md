@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 ## [A Funny Thing Happened on the Way to the Moon (Faked Moon Mission Documentary)](https://www.youtube.com/watch?v=xciCJfbTvE4)
 
 ```

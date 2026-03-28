@@ -1,5 +1,7 @@
 # The Island of Dr. Moreau (1896) — Index & Investigation
 
+> **TL;DR:** TODO
+
 **H.G. Wells** | `the-island-of-dr-moreau.mobi` | Anna's Archive (Signet Classics)
 
 ---

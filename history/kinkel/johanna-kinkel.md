@@ -1,6 +1,9 @@
 # Johanna Kinkel (1810–1858)
 
 ![Portrait of Johanna Kinkel](Johanna_Kinkel.jpg)
+
+> **TL;DR:** TODO
+
 *Johanna Kinkel — public domain portrait via Wikimedia Commons*
 
 **Maria Johanna Kinkel** (née **Mockel**, formerly **Mathieux**) — German composer, pianist, music pedagogue, writer, salonnière, and revolutionary — was born on 8 July 1810 in Bonn and died on 15 November 1858 in London. She was one of the most productive women composers of the German Romantic era, a pioneer of women's rights, a political journalist, and the only significant representative of 19th-century Bonn dialect literature.

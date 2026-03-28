@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 <meta name="title" content="All Science is Suppressed/Redacted!" />
 <meta name="description" content="Though the mills of God grind slowly, yet they grind exceeding small; Though with patience He stands waiting, with exactness grinds He all.” />
 

@@ -1,5 +1,7 @@
 # The Martians and Their Machines: A Technical Analysis
 
+> **TL;DR:** TODO
+
 *Based exclusively on details from H. G. Wells' The War of the Worlds (1898)*
 
 ---

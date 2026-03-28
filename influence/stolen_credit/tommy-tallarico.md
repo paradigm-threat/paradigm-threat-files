@@ -1,5 +1,7 @@
 # Tommy Tallarico — Investigation
 
+> **TL;DR:** TODO
+
 **Status:** Confirmed plagiarist. Multiple documented cases of credit theft and misattribution.
 
 ---

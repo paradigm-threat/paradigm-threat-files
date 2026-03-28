@@ -1,5 +1,7 @@
 # Eveline Fischer — Investigation
 
+> **TL;DR:** TODO
+
 **Status:** Investigating. Hypothesis: Significant credit theft; she composed the majority of DKC3 and 7 tracks on DKC1, but receives minimal public recognition compared to Dave Wise.
 
 ---

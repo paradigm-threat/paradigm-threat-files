@@ -1,5 +1,7 @@
 # God's Fire: Moses and the Management of Exodus
 
+> **TL;DR:** TODO
+
 **Author:** Alfred de Grazia  
 **Year:** 1983 (original); 2013 edition announced  
 **Series:** Quantavolution & Catastrophe  

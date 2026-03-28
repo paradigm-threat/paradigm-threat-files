@@ -1,5 +1,7 @@
 # Investigation: Validation of Jno Cook's Creation Date Claims
 
+> **TL;DR:** TODO
+
 **Status:** In progress  
 **Source:** [paradigm-threat-files/history/chronology/page.md](https://github.com/clevertree/paradigm-threat-files/blob/master/history/chronology/page.md) (lines 105–120)  
 **Claim:** Different civilizations and sources had different dates of *Creation*; Jno Cook lists 11 examples.

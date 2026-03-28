@@ -1,5 +1,7 @@
 # The Four Reverse Crusades: A Structural Comparison
 
+> **TL;DR:** TODO
+
 Investigation into the pattern of pan-European / Western coalitions assembled against Russia across four major conflicts (1812, 1914, 1941, 2022), with focus on figurehead mechanics, false-flag triggers, and the anomalous "automatic" character of WW1.
 
 ---

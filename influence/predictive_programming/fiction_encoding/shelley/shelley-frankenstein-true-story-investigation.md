@@ -1,5 +1,7 @@
 # Mary Shelley — Frankenstein as Potential True Story: Investigation
 
+> **TL;DR:** TODO
+
 **Author:** Mary Wollstonecraft Godwin Shelley (1797–1851)  
 **Primary work:** *Frankenstein; or, the Modern Prometheus* (1818, rev. 1831)  
 **Scope:** What Shelley states about the story; internal vs. external framing; locations; historical galvanism; similar traditions; reasons to take seriously vs. dismiss.

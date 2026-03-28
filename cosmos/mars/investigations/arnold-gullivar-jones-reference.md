@@ -1,5 +1,7 @@
 # Lieut. Gullivar Jones: His Vacation — Reference Document
 
+> **TL;DR:** TODO
+
 **Edwin Lester Arnold** | 1905 | Mars fiction | Direct precursor to Burroughs' Barsoom
 
 ---

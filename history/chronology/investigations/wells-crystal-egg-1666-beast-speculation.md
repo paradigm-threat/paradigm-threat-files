@@ -1,5 +1,7 @@
 # Investigation (speculative): Crystal Eggs, Mass Influence, and 1666 — *The Crystal Egg* as Cover Story?
 
+> **TL;DR:** TODO
+
 ## Status
 
 **Open.** This file records a line of inquiry only. It exists so the question can sit on the table without being mistaken for established chronology.

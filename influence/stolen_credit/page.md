@@ -6,6 +6,8 @@ keywords: plagiarist, Tommy Tallarico, Final Fantasy, Nintendo, Square, Capcom, 
 
 # Stolen Credit — Plagiarism as Control
 
+> **TL;DR:** TODO
+
 Plagiarism and misattribution in 20th-century media function as a control mechanism. One objective: **consolidate world fame into a small number of controlled personalities**. Celebrities identified as the original benefactors of stolen credit often vanish from public view during or shortly after their fame (Beethoven, Mozart, Bruce Lee, etc.) and the public never finds out who was responsible for the works they love. 
 
 **Related:** [Why 21st Century Gaming Sucks](https://www.youtube.com/watch?v=1-ODWjw0C-0) — Walking Series video on gaming decline.

@@ -1,5 +1,7 @@
 # Investigation: Why Japan, Italy, and Germany — Fascism as Religious-Apparatus Takeover
 
+> **TL;DR:** TODO
+
 ## Thesis
 
 Fascism in Japan, Italy, and Germany during the run-up to and conduct of World War II did not reflect the will of the people. In all three cases, a long-term pattern of coup, terrorism, takeover, or hijacking of government is evident. This investigation asks: **Why were these three regions chosen?** What is the significance of each in history—strategic, cultural, and **religious**?

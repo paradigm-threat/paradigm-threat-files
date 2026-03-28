@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 ##### Pyramiden: The ghost town at the end of the world, abandoned in 1998, whose motive remains a mystery to this day
 
 [![1](https://lh4.ggpht.com/-QKBWJX_pr-4/TwHgPB8yk5I/AAAAAAAAC7A/Uu4GN5_dUKg/1_thumb%25255B1%25255D.jpg?imgmax=800"1")](https://lh3.ggpht.com/-8x786zNiQ5k/TwHgI6EiJvI/AAAAAAAAC64/AiibR3gPyC8/s1600-h/1%25255B3%25255D.jpg)

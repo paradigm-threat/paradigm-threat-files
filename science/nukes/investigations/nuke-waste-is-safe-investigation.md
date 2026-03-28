@@ -1,5 +1,7 @@
 # Investigation: Galen Winsor — “Nuclear Waste is Safe” (alternative framework)
 
+> **TL;DR:** TODO
+
 **Spelling:** The person is standardly **Galen Winsor** (1926–2008). This file still uses *Windsor* in many internal lines because the working lecture transcript and older mirrors used that spelling; search both if grepping.
 
 ## Source Material

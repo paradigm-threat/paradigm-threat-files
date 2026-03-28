@@ -1,5 +1,7 @@
 # Investigation (speculative): Fomenko’s Andronicus-Christ, *The Princess Bride*, and “Colossus” dialogue
 
+> **TL;DR:** TODO
+
 **Index:** [princess-bride/index.md](index.md) (folder TOC and links).
 
 ## Key findings (this investigation)

@@ -1,5 +1,7 @@
 # Investigation (speculative): Slow ecological collapse — MFEE through the Donner era
 
+> **TL;DR:** TODO
+
 ## Status
 
 **Open.** This file models a potential decades-long biological aftershock following the acute [MudFlood Energetic Event (MFEE)](/timeline/evt-the-mudflood-world-cataclysm) (~1774 CE anchor in this chronology). It is not offered as established fact; it organizes hypotheses, historical correlates, and testable questions.

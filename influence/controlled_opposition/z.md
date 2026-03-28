@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 ### Examples of Controlled Opposition
 
 [Does Assange, or those who care about his interests, know he is part of chambers working for the U.S. government?](https://off-guardian.org/2019/11/08/assange-lawyers-links-to-us-govt-bill-browder-raises-questions/)

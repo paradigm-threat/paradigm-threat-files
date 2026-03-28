@@ -1,5 +1,7 @@
 # Investigation: Cargo Cults — Official History, Human Behavior, and 18th–19th Century / Manna Redaction
 
+> **TL;DR:** TODO
+
 ## Status
 
 **Date:** 2026-03-16  

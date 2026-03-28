@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 ## [The encyclopedia of False Flag staged operations](https://hofs.online/the-encyclopedia-of-false-flag-staged-operations/)
 
 ```

@@ -2,6 +2,8 @@
 
 ![Predictive Programming](predictive_programming.png)
 
+> **TL;DR:** TODO
+
 **Predictive programming** is the use of fiction and entertainment to acquaint the public with planned societal changes or to reframe actual events as myth. By embedding scenarios in films, television, novels, and games, audiences are psychologically conditioned to accept them as familiar — or to dismiss reality when it matches fiction as coincidence.
 
 **Status:** Ongoing investigation. We continue to identify PP in media over time. There are fewer exceptions than rules — most entertainment encodes, echoes, or amplifies patterns worth documenting. Not all PP is deliberate: some is **second-hand**, copied from common knowledge or prior media rather than ordered or influenced. The effect is similar regardless of origin.

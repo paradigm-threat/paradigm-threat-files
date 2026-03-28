@@ -1,5 +1,7 @@
 # Investigation: Blood rain, Passat dust, Dust Bowl, and large-scale ecological / atmospheric shocks (post–mud-flood oddities)
 
+> **TL;DR:** TODO
+
 ## Status
 
 **Open.** Assembles mainstream and alternate framings for **blood rain**, **continental dust** (trade-wind / aeolian), the **Dust Bowl**, and **Siberian-scale forest destruction**, with emphasis on how they might read alongside a **post–MFEE** ecological tail (see [Slow ecological collapse — MFEE through Donner era](/history/chronology/investigations/slow-ecological-collapse-mfee-through-donner-era.md)). This file does **not** assert that any one mechanism explains all cases; it traces sources and lists testable threads.

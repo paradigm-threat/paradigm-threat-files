@@ -1,5 +1,7 @@
 # Investigation: Tolkien's Fiction as Redacted Fact
 
+> **TL;DR:** TODO
+
 ## Thesis
 
 J.R.R. Tolkien (1892–1973), a professional philologist specializing in Old English and

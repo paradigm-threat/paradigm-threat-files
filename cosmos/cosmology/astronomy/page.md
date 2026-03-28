@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 <meta name="title" content="Astronomy: The Simulated Universe" />
 <meta name="description" content="During and after WW1, most of the world lost faith in centralized religion. The Church needed a new religion: the Religion of Science. Modern Astronomy was then designed around the Big Bang Theory with the motive to elevate their Old Testament Creator God now as the 'One Creator God of the Universe'." />
 

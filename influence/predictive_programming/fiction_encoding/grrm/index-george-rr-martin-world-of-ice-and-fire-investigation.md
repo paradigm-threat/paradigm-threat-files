@@ -1,5 +1,7 @@
 # Investigation (speculative): George R. R. Martin, *The World of Ice & Fire*, and the “fictional historian” pattern
 
+> **TL;DR:** TODO
+
 **Index:** [grrm/index.md](index.md).
 
 ## Status

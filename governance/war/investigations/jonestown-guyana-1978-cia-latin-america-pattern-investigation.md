@@ -1,5 +1,7 @@
 # Jonestown (18 November 1978): disputed narratives, CIA footprint, and Central American parallels
 
+> **TL;DR:** TODO
+
 **Scope:** Treat the **Peoples Temple Agricultural Project** (“Jonestown”) mass deaths in **Guyana** as both a forensic-historical event and a narrative battleground. Document sources that challenge or complicate the dominant “mass suicide / cult” package; map analogous patterns in Central and South America where heavy CIA presence coexisted with American deaths or attacks on Americans and official lines stressed liaison, training, or observation rather than direction of outcomes.
 
 **Cross-read:** [cia-investigation.md](./cia-investigation.md) (Latin America, institutional thesis); [pitcairn-bounty-mutiny-sovereignty-and-narratives.md](./pitcairn-bounty-mutiny-sovereignty-and-narratives.md) §11 (remote collective → horror narrative as deterrent).

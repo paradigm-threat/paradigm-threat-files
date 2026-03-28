@@ -1,5 +1,7 @@
 # Zombie Genre — Investigation
 
+> **TL;DR:** TODO
+
 **Scope:** Pre-20th century literary roots, author framing (fiction vs. fact), Stoker-like documentary presentation.  
 **Cross-ref:** [Bram Stoker investigation](/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md) | [Lovecraft index](/influence/predictive_programming/fiction_encoding/lovecraft/index-lovecraft.md)
 

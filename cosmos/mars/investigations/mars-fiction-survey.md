@@ -1,5 +1,7 @@
 # Mars Fiction & Nonfiction Literature Survey (19th–20th Century)
 
+> **TL;DR:** TODO
+
 **Purpose:** Comprehensive survey of Mars literature analysed through the lens of fiction-as-disclosure. Organised by thematic question: who described humans on Mars, friendly Martians, forbidden polar zones, political revolution — and what level of access to suppressed truth each author may have had.
 
 **Key finding:** Before H.G. Wells's *War of the Worlds* (1898), nearly all Mars fiction portrayed Martians as **human or human-like** and **benign**. Wells deliberately inverted this tradition. The pre-Wells consensus — humans on Mars, inhabited canals, polar zones of power — persisted in pulp fiction (Burroughs, Brackett, Bradbury) but was filed safely under "fantasy" where no institutional authority would take it seriously.

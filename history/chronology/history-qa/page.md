@@ -11,6 +11,8 @@ description: "Before the first memories of Earth"
 
 ![Conspiracy Book Stack](../../../influence/conspiracy/books.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
+> **TL;DR:** TODO
+
 ```
 “History is a pack of lies about events that never happened told by people who weren’t there.”
 - George Santayana

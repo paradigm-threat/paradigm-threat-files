@@ -1,5 +1,7 @@
 # Investigation (speculative): “New World,” “new lands,” and post–mud-flood memory
 
+> **TL;DR:** TODO
+
 ## Status
 
 **Open.** This file asks whether the cluster of **“New …”** geography — *Mundus Novus* / the **New World**, later **New** Zealand, **New** Holland, **New** South Wales, **New** England, and parallel rhetoric of **empty** or **discoverable** territory — can be read **only** as conventional European expansion language, or whether it might **also** encode a **reformatted Earth** after the [MudFlood Energetic Event (MFEE)](/timeline/evt-the-mudflood-world-cataclysm) (~1774 CE in this chronology), with official history later **anchoring** the American “New World” to **15th–16th c. Columbus-era** migration (Ottoman pressure, Reconquista, expulsions) **instead of** to cataclysm and repopulation.

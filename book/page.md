@@ -8,6 +8,8 @@ keywords: timeline, alternate history, investigations, book, Paradigm Threat
 
 # Paradigm Threat: The Third Story
 
+> **TL;DR:** TODO
+
 *by Ari Asulin*
 
 ![Paradigm Threat: The Third Story — timeline book illustration](./paradigm-threat-the-third-story.png)

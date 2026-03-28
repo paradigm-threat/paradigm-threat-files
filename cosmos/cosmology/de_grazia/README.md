@@ -1,5 +1,7 @@
 # Alfred de Grazia — Complete Works Index
 
+> **TL;DR:** TODO
+
 **Born:** October 30, 1919 — **Died:** July 3, 2014  
 **Nationality:** American  
 **Fields:** Political science, quantavolution, catastrophism, ancient history, mythology  

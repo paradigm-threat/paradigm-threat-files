@@ -1,5 +1,7 @@
 # Death on Mars Book Analysis
 
+> **TL;DR:** TODO
+
 **Author**: John E. Brandenburg, PhD (Lawrence Livermore, Sandia National Laboratories)  
 **Published**: 2015, Adventures Unlimited Press  
 **Analysis Date**: 2025

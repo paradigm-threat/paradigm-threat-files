@@ -1,5 +1,7 @@
 # The Divine Succession: A Science of Gods Old and New
 
+> **TL;DR:** TODO
+
 **Author:** Alfred de Grazia  
 **Year:** 1983  
 **Series:** Quantavolution & Catastrophe  

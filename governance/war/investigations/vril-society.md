@@ -1,5 +1,7 @@
 # Vril Society: Claim, Debunk, and Redaction Potential
 
+> **TL;DR:** TODO
+
 Investigation into the Vril Society — the claim, the debunk, and the possibility that denazification erased evidence. Includes: origins of online Vril craft imagery, Nazi symbols on hollow earth maps, and whether sci-fi references could echo redacted fact. **Note:** References to Aldebaran or other extraterrestrial star systems are here treated as mistaken; Mars and hollow/inner Earth are the loci of interest.
 
 ---

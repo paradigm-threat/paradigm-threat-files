@@ -1,5 +1,7 @@
 # Investigation: Hunter S. Thompson — Satan-Worshipper Bar Story as Potential Managed Disclosure
 
+> **TL;DR:** TODO
+
 ## Thesis
 
 Hunter S. Thompson may not have been joking when he and his attorney (Oscar Zeta Acosta) told a Georgia DA in a Las Vegas bar about Satan-worshippers, human sacrifice, decapitation, blood-harvesting, and pineal-gland extraction in Malibu. The story appears in *Fear and Loathing in Las Vegas* (1971) as a seemingly satirical exchange. This investigation examines whether it constitutes **managed disclosure**: truth published in a form that can be dismissed as gonzo fiction.

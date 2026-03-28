@@ -1,5 +1,7 @@
 # Homo Schizo II: Human Nature and Behavior
 
+> **TL;DR:** TODO
+
 **Author:** Alfred de Grazia  
 **Year:** 1983  
 **Publisher:** Metron Publications, Princeton, N.J.  

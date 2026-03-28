@@ -1,5 +1,7 @@
 # Research: Three Tasks — Silmarillion Source Mapping, Heimskringla Euhemerism, Teutonic Mythology
 
+> **TL;DR:** TODO
+
 **Date:** 2026-03-02
 **Source files:** `silmarillion-full-text.txt`, `prose-edda-snorri.txt`, `heimskringla-norse-kings-sagas.txt`, `kalevala-finnish-epic.txt`, `teutonic-mythology-grimm-vol1.txt`
 

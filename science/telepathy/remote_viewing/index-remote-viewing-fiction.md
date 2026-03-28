@@ -1,5 +1,7 @@
 # Remote Viewing / Remote Control in Fiction — Master Index
 
+> **TL;DR:** TODO
+
 > Research index for the paradigm-threat-timeline project.
 > Focus: fiction that describes **remote viewing, remote control, scrying devices, mind transfer, and dimensional contact** — the same mechanism, appearing across multiple authors from 1871–1937.
 > Compare to: Wells' Crystal Egg, Tolkien's Palantíri, John Dee's obsidian mirror.

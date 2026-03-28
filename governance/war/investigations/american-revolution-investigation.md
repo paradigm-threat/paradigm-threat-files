@@ -1,5 +1,7 @@
 # Investigation: American Revolution — A Tiny Piece in a Much Bigger Puzzle
 
+> **TL;DR:** TODO
+
 ## Status
 
 Ongoing. This investigation documents the American Revolution (1775–1783) as one node in a larger Atlantic and global pattern of political and financial realignment, rather than an isolated colonial revolt.

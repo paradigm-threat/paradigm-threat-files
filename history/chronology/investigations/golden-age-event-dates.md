@@ -1,5 +1,7 @@
 # Investigation: Golden Age Event Dates (Jno Cook / Talbott)
 
+> **TL;DR:** TODO
+
 **Status:** Open  
 **Sources:** Jno Cook (jnocook.net, saturniancosmology.org), David Talbott (*The Saturn Myth*, *The Myth of the Golden Age*), paradigm-threat-files chronology page  
 **Wget scan:** 2026-03-22 — `/home/ari/dev/wget` (saturniancosmology.org, talbott, thornhill, velikovsky)

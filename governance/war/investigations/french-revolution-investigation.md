@@ -1,5 +1,7 @@
 # Investigation: French Revolution — Societized Consolidation and Political Reorganization
 
+> **TL;DR:** TODO
+
 ## Status
 
 Ongoing. This investigation examines the French Revolution (1789–1799) as a precursor to France's imperial expansion under Napoleon and as part of a broader Western European pattern: societized consolidation of resources and political reorganization under meritocracy, plutocracy, particracy, and electoral autocracy.

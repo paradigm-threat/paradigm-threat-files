@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 ## [The Plan for Countering Criticism](https://aarclibrary.org/what-were-they-hiding-and-what-should-we-look-for/)
 
 ```

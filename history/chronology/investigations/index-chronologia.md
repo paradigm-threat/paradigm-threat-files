@@ -1,5 +1,7 @@
 # chronologia.org — Site Index
 
+> **TL;DR:** TODO
+
 > Mirror captured 2026-02-22, expanded 2026-03-05  |  HTML: ~300  |  PDFs: 191  |  Images: 11  |  Total: ~153 MB
 
 

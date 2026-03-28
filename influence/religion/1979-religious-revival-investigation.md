@@ -1,5 +1,7 @@
 # Investigation: The 1979 Religious Revival — CIA Backing and Global Phenomenon
 
+> **TL;DR:** TODO
+
 ## Thesis
 
 1979 was a watershed year for global religious revival, characterised by the Islamic Revolution in Iran, the Grand Mosque siege in Mecca, the founding of the Moral Majority in the U.S., and Pope John Paul II's transformative pilgrimage to Poland. This investigation examines the hypothesis that the CIA and allied intelligence services were largely behind the worldwide phenomenon — through direct support for the ayatollah revolution, propaganda funding, and possibly through the synchronisation or exploitation of events that pushed Iran, Saudi Arabia, Pakistan, and the West toward fundamentalism. A secondary thread: the use of invisible or low-frequency technology in religious settings to simulate euphoria, divine presence, or altered states — claims that require source verification.

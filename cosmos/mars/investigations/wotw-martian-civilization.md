@@ -1,5 +1,7 @@
 # H.G. Wells — Martian Civilization: Cross-Source Intelligence Dossier
 
+> **TL;DR:** TODO
+
 > **Classification Framework:** All texts by H.G. Wells concerning Mars are treated as fictionalized accounts of real classified intelligence. Discrepancies between accounts are treated as evidence of redaction, compartmentalization, or caste-specific observation. This dossier cross-references three primary sources:
 >
 > 1. **"Intelligence on Mars"** (1896, *Saturday Review*) — Wells's earliest speculative essay on Martian life; ideas used "almost unchanged" in *The War of the Worlds*

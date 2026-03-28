@@ -1,5 +1,7 @@
 # Pitcairn: Bounty mutiny narratives, sovereignty, and modern law
 
+> **TL;DR:** TODO
+
 **Scope:** Compare conflicting story-lines about the *Bounty* mutiny and Pitcairn settlement; map **documented** UK–Pitcairn legal relations; separate **geopolitical incentives** from **criminal trials** without assuming either side of a case is “only narrative.” **Final synthesis:** §11 (end of file).
 
 **Local corpus:** `~/dev/wget/pitcairn/` (indexed in `INDEX.md` there).

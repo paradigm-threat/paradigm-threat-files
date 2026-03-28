@@ -1,5 +1,7 @@
 # Isaac Asimov: Themes for Timeline Study
 
+> **TL;DR:** TODO
+
 Analytical angles for studying Asimov's work in light of the Paradigm Threat timeline. Not conclusions — investigation prompts.
 
 ---

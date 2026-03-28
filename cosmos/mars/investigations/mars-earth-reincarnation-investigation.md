@@ -1,5 +1,7 @@
 # Investigation: Mars–Earth Reincarnation — Mass Death on Mars and Souls Reborn on Earth
 
+> **TL;DR:** TODO
+
 ## Thesis
 
 This investigation examines the **hypothesis that Martians who died in recent centuries have been reincarnating on Earth**, sometimes retaining memories or skills from their former lives. It treats as open questions: (1) whether there is a substantial body of literature, media, and testimony suggesting this phenomenon; (2) whether any **declassified or official documents** refer to it (expectation: unlikely); (3) whether **mass reincarnation** from Mars to Earth can be **traced to mass death events on Mars** over the last ~300 years; and (4) whether **increases** in such reports or motifs **correlate with known historical events** (warfare, consolidations, catastrophes) that might have caused large-scale dying on Mars.

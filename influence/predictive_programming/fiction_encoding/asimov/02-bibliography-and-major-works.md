@@ -1,5 +1,7 @@
 # Isaac Asimov: Bibliography and Major Works
 
+> **TL;DR:** TODO
+
 **Source:** Wikipedia, ISFDB, Britannica. Full texts are under copyright; obtain from libraries or licensed editions. This file provides titles, dates, and plot/thematic summaries for study.
 
 ---

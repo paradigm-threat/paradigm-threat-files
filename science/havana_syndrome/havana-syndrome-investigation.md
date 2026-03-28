@@ -1,5 +1,7 @@
 # Investigation: Havana Syndrome — Gaslighting the Public on Directed Energy Weapons
 
+> **TL;DR:** TODO
+
 ## Thesis
 
 The "Havana Syndrome" controversy is not primarily a medical mystery. It is a case study in how intelligence agencies manage public awareness of classified technology. The symptoms are real. The weapon exists. The debate over whether it exists is manufactured to protect the technology's operational secrecy.

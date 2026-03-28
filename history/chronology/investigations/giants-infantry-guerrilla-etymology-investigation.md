@@ -2,6 +2,8 @@
 
 ![Giants, infantry, guerrilla, Children's Crusade — etymology](giants-infantry-guerrilla-etymology-investigation.png)
 
+> **TL;DR:** TODO
+
 This note ties three military-historical terms to the timeline thesis that **Rus-Horde giant lineages** fought **crusading wars** against the **Istanbul–temple apparatus**, then lost **formed battle** to **cannon** and survived afterward as **irregulars**. Full etymological tables, mainstream chronology notes, and an extended related-word list sit in the timeline appendix: **[Giants, Infantry, Guerrilla, Children's Crusade — Etymology](https://paradigmthreat.net/timeline/evt-giants-infantry-guerrilla-childrens-crusade-etymology)**.
 
 ## Timeline anchors

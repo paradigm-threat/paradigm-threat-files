@@ -5,7 +5,11 @@ description: "The MudFlood Energetic Event Hypothesis proposes a solution to the
 
 ![The MudFlood Energetic Event Hypothesis proposes a solution to the mystery of the world-wide Mud-Flood event and its
 alleged cover-up while attempting to answer
-the [Journalistic Six](https://www.sessionlab.com/methods/the-journalistic-six):
+the [Journalistic Six](https://www.sessionlab.com/methods/the-journalistic-six)
+
+> **TL;DR:** TODO
+
+:
 **Who** it happened to, **what** happened, **when, where, why,** and **how** did it happen?
 
 <figure className="sm:float-right clear-right m-auto sm:m-1 sm:ml-4 sm:max-w-sm">

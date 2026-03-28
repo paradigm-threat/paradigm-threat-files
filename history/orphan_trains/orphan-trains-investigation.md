@@ -1,5 +1,7 @@
 # Orphan Trains, Mass Displacement, and the MFEE Thesis
 
+> **TL;DR:** TODO
+
 **Investigation hypothesis:** The orphan phenomenon—mass orphaning, institutional response, population resets—predates the orphan trains. It was active from the MFEE period onward. The trains (1854+) were not the origin but the **evolution** of the phenomenon: a more organized form of what was already happening. Cities like New York and London experienced recurring resets with orphans as a control mechanism. War displacement and deliberate capture/re-education of indigenous children amplified the pattern. The Khmer Rouge's use of children as both victims and agents of genocide echoes an older template: the transformation of Earth toward a "communist utopia" mirrored after civilization on Mars.
 
 **Date:** 2026-03-05  

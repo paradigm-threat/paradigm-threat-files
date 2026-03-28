@@ -1,5 +1,7 @@
 # The Massacre of Mankind (2017) — Reference
 
+> **TL;DR:** TODO
+
 **Stephen Baxter** | Authorised sequel to H.G. Wells's *The War of the Worlds* | Orion Books / Gollancz
 
 > *Not in this collection* — published 2017, under copyright. Reference document only.

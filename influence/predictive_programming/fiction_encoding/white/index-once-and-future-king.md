@@ -1,5 +1,7 @@
 # The Once and Future King (1958) — Index
 
+> **TL;DR:** TODO
+
 **Author:** T.H. White  
 **Published:** 1958 (composite of *The Sword in the Stone* 1938, *The Witch in the Wood* 1939, *The Ill-Made Knight* 1940, *The Candle in the Wind* 1958)  
 **Full text:** `once-and-future-king-white-1958.pdf` (Berkley 1958, 27 MB) — in `~/dev/wget/white/` (copyright; not in repo)

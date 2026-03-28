@@ -1,5 +1,7 @@
 # Mars Literature — Index of Downloaded Texts
 
+> **TL;DR:** TODO
+
 **Purpose:** Summarise all Mars-related fiction in the wget collection and highlight **convergence of facts** across authors. Assumes fiction-as-disclosure: repeated, independent descriptions of the same elements may encode suppressed truth.
 
 ---

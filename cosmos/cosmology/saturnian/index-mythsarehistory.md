@@ -1,5 +1,7 @@
 # www.mythsarehistory.com — Site Index
 
+> **TL;DR:** TODO
+
 > Mirror captured 2026-02-22  |  HTML pages: 71  |  Images: 17  |  PDFs: 3
 
 **Note:** The page [peratt-column-the.html](www.mythsarehistory.com/peratt-column-the.html) was an **orphaned page** — not linked from any other page on the site — and was not retrieved by the initial mirror crawl. It was fetched directly and is now included below.

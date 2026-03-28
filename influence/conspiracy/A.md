@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 <meta name="title" content="Everything you learned in Public School is a lie spiced with truth" />
 <meta name="description" content="Everything you learned in Public School is a lie spiced with truth" />
 

@@ -47,3 +47,6 @@
 ![false_flag_paris.jpg](/events/911/false_flag_paris.jpg)
 
 ![israel_911.jpg](/events/911/israel_911.jpg)
+
+> **TL;DR:** TODO
+

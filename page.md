@@ -12,6 +12,8 @@ keywords: Research, Conspiracy, Alt History, MudFlood, Energetic Event Hypothesi
 
 # Welcome to Paradigm Threat
 
+> **TL;DR:** TODO
+
 A repository for ongoing conspiracy theory investigation and resources.
 **This site is a work in progress.**
 If you want to debate, write articles or share things you've found,
