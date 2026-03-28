@@ -105,6 +105,9 @@ Institute for the Study of War and Western sources allege Russian false-flag pla
 ### Iran 2026 (Minab School Strike)
 See [Iran 2026 Propaganda Thesis](iran-2026-propaganda-thesis.md). **Project theory:** Iran may be hitting its own schools and staging "training missions" as propaganda during war. Mainstream narrative: U.S./Israel strike; both deny.
 
+### Israel 2026 (Netanyahu — motive for faked death at rumor window)
+See [Netanyahu Faked Death / Shiva Rumors Investigation](netanyahu-faked-death-shiva-rumors-investigation.md). Assesses **likelihood he would *want*** a faked death at the March 2026 juncture (political relief, goals plateau, Iran narrative if exposed); rumor chain and fact-checks are **context only**, not evidence scoring.
+
 ---
 
 ## Cross-Reference
@@ -112,4 +115,5 @@ See [Iran 2026 Propaganda Thesis](iran-2026-propaganda-thesis.md). **Project the
 - [False Flags](../a.md)
 - [9/11 Investigation](09-11-investigation.md)
 - [Iran 2026 Propaganda Thesis](iran-2026-propaganda-thesis.md)
+- [Netanyahu Faked Death / Shiva Rumors Investigation](netanyahu-faked-death-shiva-rumors-investigation.md)
 - [Appendix: False Flags Evidence Dossier](/timeline/evt-false-flags-appendix)

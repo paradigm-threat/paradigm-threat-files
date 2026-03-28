@@ -128,7 +128,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-03-27T13:48:29Z"
+    "_updated": "2026-03-27T21:07:40Z"
   },
   "cosmos": {
     "cosmology": {
@@ -1216,7 +1216,7 @@
         },
         "mars-fiction-survey.md": {
           "_title": "Mars Fiction & Nonfiction Literature Survey (19th\u201320th Century)",
-          "_updated": "2026-03-20T12:46:15Z"
+          "_updated": "2026-03-28T12:22:19Z"
         },
         "mars-stock-market-correlation.md": {
           "_title": "Mars and the Stock Market: Investigation into Celestial Correlation",
@@ -2013,13 +2013,17 @@
         },
         "20th-21st-century-catalog.md": {
           "_title": "False Flags: 20th\u201321st Century Catalog",
-          "_updated": "2026-03-11T22:43:44Z"
+          "_updated": "2026-03-27T23:08:09Z"
         },
         "iran-2026-propaganda-thesis.md": {
           "_title": "Investigation: Iran 2026 \u2014 Propaganda War Thesis",
           "_updated": "2026-03-10T12:56:29Z"
         },
-        "_count": 3
+        "netanyahu-faked-death-shiva-rumors-investigation.md": {
+          "_title": "Investigation: Would Netanyahu Want a Faked Death Here? \u2014 Motive, Timeline, and Iran Narrative",
+          "_updated": "2026-03-27T23:08:05Z"
+        },
+        "_count": 4
       },
       "israel_false_flag.jpg": {
         "_width": 711,
@@ -2069,7 +2073,7 @@
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoQAAwABUB8JYwCw7EPAZe5HHAA/unqy0+jfrr0OMMdMPz5Ieg4AAAA",
         "_updated": "2025-12-24T12:59:07Z"
       },
-      "_count": 31
+      "_count": 32
     },
     "jfk": {
       "agent.md": {
@@ -2160,7 +2164,7 @@
       },
       "_count": 1
     },
-    "_count": 98
+    "_count": 99
   },
   "governance": {
     "genocide": {
@@ -4922,11 +4926,11 @@
       "investigations": {
         "american-revolution-investigation.md": {
           "_title": "Investigation: American Revolution \u2014 A Tiny Piece in a Much Bigger Puzzle",
-          "_updated": "2026-03-10T12:56:29Z"
+          "_updated": "2026-03-28T12:22:39Z"
         },
         "british-civil-war-investigation.md": {
           "_title": "Investigation: British Civil War \u2014 Societized Consolidation and the Template for Western Governance",
-          "_updated": "2026-03-10T12:56:29Z"
+          "_updated": "2026-03-28T12:22:39Z"
         },
         "british-divide-conquer-israel-investigation.md": {
           "_title": "Investigation: British Empire Divide-and-Conquer \u2014 Israel, India/Pakistan, Africa, and the Deep State Hypothesis",
@@ -6496,7 +6500,7 @@
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
-      "_updated": "2026-03-11T18:07:31Z"
+      "_updated": "2026-03-28T12:22:41Z"
     },
     "joan_of_arc": {
       "naming-history.md": {
@@ -8239,7 +8243,7 @@
     },
     "thunderbolts-forum-archives.md": {
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive",
-      "_updated": "2026-03-10T12:56:29Z"
+      "_updated": "2026-03-28T12:22:21Z"
     },
     "_count": 545
   },
@@ -9514,7 +9518,7 @@
         "jules-verne": {
           "index-jules-verne.md": {
             "_title": "Jules Verne Collection \u2014 Index",
-            "_updated": "2026-03-25T13:43:01Z"
+            "_updated": "2026-03-28T12:22:20Z"
           },
           "_count": 1
         },
@@ -9607,7 +9611,7 @@
         "tolkien": {
           "ARTICLE-palantir-analysis.md": {
             "_title": "The Palant\u00edri: Tolkien's Seeing-Stones \u2014 Analysis",
-            "_updated": "2026-03-10T16:56:10Z"
+            "_updated": "2026-03-28T12:22:20Z"
           },
           "INVESTIGATION-tolkien-redacted-fact.md": {
             "_title": "Investigation: Tolkien's Fiction as Redacted Fact",
@@ -10544,7 +10548,7 @@
       "tennant": {
         "index-tennant-healing-voltage.md": {
           "_title": "Dr. Jerry Tennant \u2014 Healing is Voltage: Index of Research and Claims",
-          "_updated": "2026-03-10T16:56:10Z"
+          "_updated": "2026-03-28T12:22:21Z"
         },
         "_count": 1
       },
@@ -10781,6 +10785,6 @@
     },
     "_count": 152
   },
-  "_count": 1892,
-  "_version": "8617dd8"
+  "_count": 1893,
+  "_version": "95d78f9"
 }

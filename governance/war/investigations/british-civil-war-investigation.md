@@ -29,7 +29,7 @@ This template — parliamentary supremacy, bureaucratic state, merchant-finance 
 | 3 | 1665 | Great Plague of London |
 | 4 | 1666 | Great Fire of London |
 
-1666 was universally anticipated as apocalyptic — 666 is the Number of the Beast (Revelation 13:18). Millenarians had prophesied it for decades. The Civil War did not *cause* the comet, plague, or fire, but it created the political and institutional conditions (Interregnum, Restoration, weakened Crown) in which they could be interpreted — or orchestrated — as fulfilment. The arc from 1642 to 1666 reads as a coherent sequence. See timeline [Predictive Programming](/content/16.appendix/16.01.00-predictive-programming-fiction-as-control.md) (1666 apocalypse prophecies).
+1666 was universally anticipated as apocalyptic — 666 is the Number of the Beast (Revelation 13:18). Millenarians had prophesied it for decades. The Civil War did not *cause* the comet, plague, or fire, but it created the political and institutional conditions (Interregnum, Restoration, weakened Crown) in which they could be interpreted — or orchestrated — as fulfilment. The arc from 1642 to 1666 reads as a coherent sequence. See timeline [Predictive Programming](/content/18.appendix-narrative/18.43.00-predictive-programming-fiction-as-control.md) (1666 apocalypse prophecies).
 
 ---
 
@@ -133,7 +133,7 @@ Resources flowed from Crown and Church to Parliament's creditors, soldiers, and 
 
 ## References
 
-- Timeline: [Predictive Programming](/content/16.appendix/16.01.00-predictive-programming-fiction-as-control.md) (1666 apocalypse template)
+- Timeline: [Predictive Programming](/content/18.appendix-narrative/18.43.00-predictive-programming-fiction-as-control.md) (1666 apocalypse template)
 - Hill, C. *The World Turned Upside Down*
 - Kishlansky, M. *A Monarchy Transformed: Britain 1603–1714*
 - Parliament UK: [Overview of the Civil War](https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/overview/)

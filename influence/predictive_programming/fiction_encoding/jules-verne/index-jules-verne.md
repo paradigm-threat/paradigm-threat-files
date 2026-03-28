@@ -151,7 +151,7 @@ Captain Nemo's submarine is powered by **sodium-mercury batteries**, uses **comp
 
 | Timeline Article | Connection |
 |-----------------|------------|
-| [Predictive Programming: Fiction as Control](/content/16.appendix/16.01.00-predictive-programming-fiction-as-control.md) | Verne fits the pattern exactly: real technology published as fiction |
+| [Predictive Programming: Fiction as Control](/content/18.appendix-narrative/18.43.00-predictive-programming-fiction-as-control.md) | Verne fits the pattern exactly: real technology published as fiction |
 | [20th Century Predictive Programming: Literature](/content/15.ce-21st-the-final-struggle/15.01.00-1890-ce-20th-century-predictive-programming-literature.md) | Verne is the **precursor** to Wells, Lovecraft, Tolkien. The template starts here |
 | [Imperial Technology and the Knowledge of the Horde](/content/08.ce-14th-great-expansion-of-the-mongol-slav/08.03.00-imperial-technology-and-the-knowledge-of-the-horde.md) | Cannon technology, metallurgy, alchemy-as-degraded-science — Verne's engineering knowledge may trace to older Hordian technological tradition |
 | [DU / Nuclear Waste Investigation](/science/nukes/investigations/nuke-waste-is-safe-investigation.md) | Verne's armor-piercing projectiles → modern DU rounds. The penetrator-vs-armor arms race he describes in 1865 reaches its conclusion in Iraq/Kosovo |

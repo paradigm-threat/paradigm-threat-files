@@ -154,10 +154,10 @@ The paradigm-threat investigation treats the mainstream "Maya collapse 1000 year
 
 **Citations:**
 - *History: Fiction or Science?* — Fomenko (chronologia.org)
-- *Fomenko and the Pyramid Question* — paradigm-threat-timeline/content/16.appendix
+- *Fomenko and the Pyramid Question* — paradigm-threat-timeline/content/17.appendix-chronology/17.04.01-fomenko-and-the-pyramid-question.md
 - *Pyramids: Myths vs Reality* — paradigm-threat-timeline/content/03.the-dark-ages
 - *1492 CE — The Apocalypse Crusade* — paradigm-threat-timeline/content/09.ce-15th-ottoman-conquest-of-europe
 - *Population Control: From 1492 to the Present* — paradigm-threat-timeline/content/15.ce-21st-the-final-struggle
 - *Trail of Tears: Century-Long Erasure* — paradigm-threat-timeline/content/12.ce-18th-mudflood-and-pugachev
-- *The MudFlood and World Cataclysm: Extended Evidence* — paradigm-threat-timeline/content/16.appendix
+- *The MudFlood and World Cataclysm: Extended Evidence* — paradigm-threat-timeline/content/21.appendix-cataclysm-memory/21.53.00-mudflood-evidence.md
 - *Indigenous Creation Dates* — paradigm-threat-timeline/investigations/chronology
