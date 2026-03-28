@@ -17,7 +17,7 @@ Ongoing. This investigation documents the American Revolution (1775–1783) as o
 > *"'The War of independence' in North America was the struggle with the weakening Russian Horde. The Romanovs attacked the Horde from the West — and from the East in America it was attacked by the Americans 'fighting for independence'."*
 > — Fomenko, [*History: Fiction or Science?* Ch.8 §1](https://chronologia.org/en/how_it_was/08.html)
 
-**Sources:** Fomenko (above); timeline articles [The Rebellion of Pugachev](/content/12.ce-18th-mudflood-and-pugachev/12.01.00-1773-ce-the-rebellion-of-pugachev.md), [Hordian Empire Fracture](/content/16.appendix/16.13.00-hordian-empire-fracture.md), [Conclusions](/docs/CONCLUSIONS.md) (1775 Rus-Horde breakup).
+**Sources:** Fomenko (above); timeline articles [The Rebellion of Pugachev](/content/12.ce-18th-mudflood-and-pugachev/12.01.00-1773-ce-the-rebellion-of-pugachev.md), [Hordian Empire Fracture](/content/19.appendix-conflict/19.48.01-hordian-empire-fracture.md), [Conclusions](/docs/CONCLUSIONS.md) (1775 Rus-Horde breakup).
 
 ---
 
@@ -94,7 +94,7 @@ The American Revolution was **financially enabled** by France (loans, military s
 ## References
 
 - Fomenko, A. *History: Fiction or Science?* [Ch.8 §1](https://chronologia.org/en/how_it_was/08.html) — American War of Independence as eastern front of Horde–Romanov conflict
-- Timeline: [The Rebellion of Pugachev](/content/12.ce-18th-mudflood-and-pugachev/12.01.00-1773-ce-the-rebellion-of-pugachev.md), [Hordian Empire Fracture](/content/16.appendix/16.13.00-hordian-empire-fracture.md), [Conclusions](/docs/CONCLUSIONS.md)
+- Timeline: [The Rebellion of Pugachev](/content/12.ce-18th-mudflood-and-pugachev/12.01.00-1773-ce-the-rebellion-of-pugachev.md), [Hordian Empire Fracture](/content/19.appendix-conflict/19.48.01-hordian-empire-fracture.md), [Conclusions](/docs/CONCLUSIONS.md)
 - Ferguson, N. *The Cash Nexus: Money and Power in the Modern World, 1700–2000*
 - O'Shaughnessy, A.J. *The Men Who Lost America*
 - Bailyn, B. *The Ideological Origins of the American Revolution*

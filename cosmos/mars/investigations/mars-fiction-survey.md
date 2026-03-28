@@ -133,7 +133,7 @@ Not all authors had equal access to truth. The following framework proposes five
 - His Space Trilogy encodes the medieval model (planets as living beings with intelligences) as fiction
 - His Mars is inhabited, moral, and part of a cosmic hierarchy — the opposite of the Wells/NASA narrative
 - Lewis explicitly attacked Wells's materialist Mars in his fiction
-- See `../16.appendix/16.06.00-historical-antibodies-profiles.md` for full encoding analysis
+- See `content/20.appendix-science-society/20.55.01-historical-antibodies-profiles.md` in paradigm-threat-timeline for full encoding analysis
 
 **J.R.R. Tolkien** (1892–1973)
 - Lewis's close friend and colleague at Oxford
@@ -250,8 +250,8 @@ Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: loca
 
 ### Internal (paradigm-threat-timeline)
 - [Predictive Programming: Literature as Historical Erasure](/timeline?view=browser&path=content/15.ce-21st-the-final-struggle/15.01.00-1890-ce-20th-century-predictive-programming-literature.md) — the master predictive programming literature article
-- [Predictive Programming in Film, Television, and Games](/timeline?view=browser&path=content/16.appendix/16.03.00-predictive-programming-film-tv-games.md) — Mars film analysis
-- [Historical Antibodies: Detailed Profiles](/timeline?view=browser&path=content/16.appendix/16.06.00-historical-antibodies-profiles.md) — C.S. Lewis encoding analysis
+- [Predictive Programming in Film, Television, and Games](/timeline?view=browser&path=content/18.appendix-narrative/18.43.01-predictive-programming-film-tv-games.md) — Mars film analysis
+- [Historical Antibodies: Detailed Profiles](/timeline?view=browser&path=content/20.appendix-science-society/20.55.01-historical-antibodies-profiles.md) — C.S. Lewis encoding analysis
 - [The Mars Catastrophe](/timeline?view=browser&path=content/12.ce-18th-mudflood-and-pugachev/12.06.00-1774-ce-the-mars-catastrophe.md) — the core Mars catastrophe article
 
 ### Mars Investigations Folder

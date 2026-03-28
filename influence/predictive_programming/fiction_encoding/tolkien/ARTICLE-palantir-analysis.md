@@ -132,7 +132,7 @@ Wells's **Crystal Egg** (1897) and Tolkien's Palantíri describe the same techno
 | **Guard a realm** | "In that way they long guarded and united the realm of Gondor" | — (not shown; Wells begins in the hostile phase) |
 | **Perverted use** | Sauron captures Ithil-stone (2002); uses network to subvert Saruman, break Denethor | Crystal "sent hither from that planet, in order to give the Martians a near view of our affairs" — surveillance for invasion |
 
-Tolkien shows both phases; Wells shows only the perverted phase — Martian surveillance for conquest. Same device, same trajectory: **a technology that can guard and unite a realm can be turned to surveillance and subversion**. See [20th Century Predictive Programming: Literature](/timeline/evt-20th-century-predictive-programming-literature) and [Crystal Egg section](/timeline?view=browser&path=content/16.appendix/16.02.00-mars-contacts-timeline.md).
+Tolkien shows both phases; Wells shows only the perverted phase — Martian surveillance for conquest. Same device, same trajectory: **a technology that can guard and unite a realm can be turned to surveillance and subversion**. See [20th Century Predictive Programming: Literature](/timeline/evt-20th-century-predictive-programming-literature) and [Crystal Egg section](/timeline?view=browser&path=content/17.appendix-chronology/17.03.02-mars-contacts-timeline.md).
 
 ---
 

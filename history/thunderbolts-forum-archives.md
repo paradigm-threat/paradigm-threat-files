@@ -21,7 +21,7 @@ The Thunderbolts Project (Electric Universe / Saturnian cosmology) has deleted o
 ## References
 
 - content/15.ce-21st-the-final-struggle/15.02.00-ce-controlled-opposition-managed-disclosure.md
-- content/16.appendix/16.04.00-controlled-opposition-thunderbolts-case-study.md
+- content/18.appendix-narrative/18.44.01-controlled-opposition-thunderbolts-case-study.md
 - Ellenberger/Lippard, "David N. Talbott: Hoist, Clueless & 'Nihilated," talk.origins (1994)
 - Velikovsky letter to Talbott, Jan 29, 1975 (varchive.org)
 

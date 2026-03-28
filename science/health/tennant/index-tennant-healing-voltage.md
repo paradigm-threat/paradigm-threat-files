@@ -148,7 +148,7 @@
 
 | Tennant Concept | Project Parallel |
 |-----------------|------------------|
-| Body as electronic device; voltage = health | [Suppressed Energy Technology Cross-Reference](/timeline?view=browser&path=content/16.appendix/16.09.00-suppressed-energy-technology-cross-reference.md) — aether, scalar, EM |
+| Body as electronic device; voltage = health | [Suppressed Energy Technology Cross-Reference](/timeline?view=browser&path=content/20.appendix-science-society/20.51.02-suppressed-energy-technology-cross-reference.md) — aether, scalar, EM |
 | Scalar energy, golden mean, DNA | [Scalar energy as basis of creation](/timeline?view=browser&path=content/01.before-creation/01.02.01-scalar-energy-as-the-basis-of-creation.md) |
 | Tesla resonating circuits in body | Tesla/wireless power, Wardenclyffe; [Maxwell/aether suppression](/timeline?view=browser&path=content/13.ce-19th-rise-of-communism/13.06.00-1865-ce-the-suppression-of-maxwell-and-the-aether.md) |
 | Medical board restricts non–standard-of-care speech | Broader pattern: institutional gatekeeping of non-pharma paradigms |
