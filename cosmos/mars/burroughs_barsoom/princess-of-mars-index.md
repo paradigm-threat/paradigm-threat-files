@@ -1,5 +1,7 @@
 # A Princess of Mars — Clue Index
 
+> **TL;DR:** TODO
+
 **Source:** `princess-of-mars.txt` (PG #62). First Barsoom novel (1912).  
 **Assumption:** Content may encode redacted fact. Challenge claims of invention.
 

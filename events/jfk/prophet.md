@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 > "The ultimate purpose of that assassination was not political or economic, but sorcerous; 
 > for the control of the dreaming mind is the underlying motive in this entire scenario of lies, 
 > cruelty and degradation.  

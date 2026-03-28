@@ -1,5 +1,7 @@
 # Isaac Asimov — Investigation
 
+> **TL;DR:** TODO
+
 **Status:** Open  
 **Purpose:** Study Asimov's literature for clues relevant to the timeline — predictive programming, empire collapse, AI/robotics, psychohistory, encoding of real history or suppressed knowledge.
 

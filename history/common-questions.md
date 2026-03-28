@@ -1,5 +1,7 @@
 # Common Questions About Alternate Chronology
 
+> **TL;DR:** TODO
+
 <!-- 
 ================================================================================
 PROCESS NOTES (for humans and agents)

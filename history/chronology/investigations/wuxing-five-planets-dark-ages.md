@@ -1,5 +1,7 @@
 # Investigation: Wuxing and the Five Planets — Dark Ages Observational Record
 
+> **TL;DR:** TODO
+
 ## Summary
 
 **Claim:** Wuxing (五行, "Five Phases" / "Five Elements") was developed during the Dark Ages as a direct result of the visible, nonlinear configuration of five bodies: Earth, Venus, Mars, Jupiter, and Mercury — circling and balancing each other in the sky. The five classical elements (water, fire, earth, metal, wood) were not speculative philosophy but observed correspondences: each planet displayed a dominant element and causal interactions between planets were visible. Wuxing is therefore the **history of planetary configurations** between the Golden Age and the current age — a time when "all science was visible in the sky" and could not be suppressed.

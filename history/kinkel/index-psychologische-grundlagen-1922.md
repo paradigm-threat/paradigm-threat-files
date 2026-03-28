@@ -1,5 +1,7 @@
 # Zur Frage der psychologischen Grundlagen und des Ursprungs der Religion — Index
 
+> **TL;DR:** TODO
+
 **Author:** Dr. Johann Kinkel (Ivan Kinkel)  
 **Published:** 1922 (Internationaler Psychoanalytischer Verlag, Leipzig–Wien–Zürich)  
 **Subtitle:** *Beitrag zum System der psychoanalytischen Soziologie*  

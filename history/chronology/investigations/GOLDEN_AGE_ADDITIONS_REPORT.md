@@ -1,5 +1,7 @@
 # Golden Age Additions Report
 
+> **TL;DR:** TODO
+
 **Last updated:** 2026-03-22  
 **Source:** Scan of wget (ifiseeu, talbott, saturniancosmology), paradigm-threat-timeline chapters, paradigm-threat-files
 

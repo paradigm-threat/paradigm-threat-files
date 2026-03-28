@@ -1,5 +1,7 @@
 # Marie Curie, battlefield radiation, and post-war nuclear narrative (open investigation)
 
+> **TL;DR:** TODO
+
 **Status:** **Open** Mainstream history is summarized first so speculative threads stay visible as a separate track. This note does not claim established fact where archives and biography disagree with the prompts below.
 
 ## Purpose

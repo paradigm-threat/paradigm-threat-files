@@ -1,5 +1,7 @@
 # Die Offenbarung Johannis — Eine astronomisch-historische Untersuchung
 
+> **TL;DR:** TODO
+
 **by Nikolaus Morosow** (1912) — *Stuttgart: Verlag von W. Spemann*
 
 ---

@@ -1,5 +1,7 @@
 # Jules Verne Collection — Index
 
+> **TL;DR:** TODO
+
 > Downloaded from [Project Gutenberg](https://www.gutenberg.org/) (public domain).
 > Part of the Paradigm Threat investigation into suppressed technology encoded in 19th-century adventure narrative — material often presented to contemporaries as feasible extrapolation and later re-shelved under *fiction*.
 

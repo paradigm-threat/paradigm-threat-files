@@ -5,6 +5,8 @@ description: "Therefore, it is logical to conclude that the Great Wars of the 20
 
 ![WW2 Meme](/governance/war/ww2meme.jpg?w=800 '{"className":"rounded-md m-auto"}')
 
+> **TL;DR:** TODO
+
 ## World War II was won BY CHEATING using Child Pilots, Anti-gravity aircraft, and a whole lotta NAPALM
 
 ![British Terror Bombing](/governance/war/bombings/british.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')

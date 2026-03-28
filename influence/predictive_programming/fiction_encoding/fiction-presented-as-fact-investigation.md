@@ -1,5 +1,7 @@
 # Science Fiction & Fantasy: Fiction Presented as Fact
 
+> **TL;DR:** TODO
+
 **Scope:** Authors (20th century and before) who used the literary technique of presenting what is now considered fiction as fact—without explicitly claiming the work was a novel or invention. Documentary framing, found manuscripts, editorial prefaces, travel-narrative conventions.
 
 **Definition:** Fiction that the author deliberately framed as documentary, found documents, eyewitness account, or factual record—**and did not** include an explicit "this is a work of fiction" disclaimer.

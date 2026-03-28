@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 > "The very thoughts of a person like me are crimes against the state.  All I have to do is think, and immediately I become guilty."
 >
 > Thomas Merton

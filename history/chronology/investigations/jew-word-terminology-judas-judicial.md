@@ -1,5 +1,7 @@
 # Investigation: The Word *Jew* — Crucifixion Moment, Latin → Greek, Judas & the Latin Church
 
+> **TL;DR:** TODO
+
 ## Summary (thesis)
 
 **Once the timeline is corrected,** there is **no other plausible historical moment** for European words for “Jew” to have **entered language** than the **crucifixion complex** — the narrative and political instant in which **Judas** and **“the Jews”** (however staged in text) appear as the agents who **hand Jesus to Roman/Latin authority** and the cross follows.

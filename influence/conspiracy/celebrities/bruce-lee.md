@@ -1,5 +1,7 @@
 # Bruce Lee: Investigation into Death, Identity, Wing Chun, and British Suppression of Female Martial Arts
 
+> **TL;DR:** TODO
+
 ```
 Note: This investigation is ongoing. Part of a broader inquiry (see INDEX-identity-investigations.md). 
 Relies in part on AI-assisted skull/facial analysis—NOT definitive, but helps identify patterns 

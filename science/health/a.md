@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 ## You can take an entire college course and never be told that pH stands for potential of Hydrogen atoms
 
 ```

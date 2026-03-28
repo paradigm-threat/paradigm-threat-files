@@ -1,5 +1,7 @@
 # The Palantíri: Tolkien's Seeing-Stones — Analysis
 
+> **TL;DR:** TODO
+
 **Source:** *The Lord of the Rings* (lotr-full-text.txt), *The Silmarillion* (silmarillion-full-text.txt), Tolkien wget collection  
 **Date:** 2026-03-04
 

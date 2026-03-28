@@ -1,5 +1,7 @@
 # Yasunori Mitsuda — Investigation
 
+> **TL;DR:** TODO
+
 **Status:** Investigating. Hypothesis: Chrono Trigger credits obscure third and fourth hands; Mitsuda never replicated his Nintendo-era output after leaving Square; the Chrono Trigger *franchise* was corrupted from the start (Square planned its demise with Radical Dreamers; Chrono Cross is not a true sequel); Chrono Cross: Radical Dreamers Edition (2022) represents further corporate corruption of the work.
 
 ---

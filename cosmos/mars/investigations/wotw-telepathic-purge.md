@@ -1,5 +1,7 @@
 # The Telepathic Purge: A Pattern Across Mars Fiction
 
+> **TL;DR:** TODO
+
 ## Summary
 
 Across more than a century of science fiction, a recurring narrative pattern emerges: a civilization of telepathic or spiritually sensitive beings is overthrown, purged, or replaced by a faction that masters technology at the expense of spirit. This document catalogs every instance of this motif found in H.G. Wells's works, the Jeff Wayne War of the Worlds PC game, Archon Defender, and the broader canon of Mars fiction, science fiction film, and television— treating each as a potential case of **predictive programming** that encodes a suppressed historical event.

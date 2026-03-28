@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 > “you must stretch your own imagination, rouse yourself from mental lethargy, and be bold enough to discard old dogmatic comfort blankets.”
 >
 > ― Jane Roberts, The “Unknown” Reality, Volume Two

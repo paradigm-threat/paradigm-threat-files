@@ -1,5 +1,7 @@
 # War of the Worlds: Technical Timeline
 
+> **TL;DR:** TODO
+
 *Day-by-day reconstruction of Martian operations, based exclusively on H. G. Wells' text, cross-referenced with "The Crystal Egg" (1897) and "The Things that Live on Mars" (1908). Story-driven human drama is omitted. Focus: Martian technical activity, machine deployments, weapons usage, strategic movements, and operational patterns.*
 
 > **Companion documents:**

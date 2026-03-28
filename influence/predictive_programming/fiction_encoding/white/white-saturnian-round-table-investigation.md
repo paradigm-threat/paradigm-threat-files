@@ -1,5 +1,7 @@
 # T.H. White, The Once and Future King: Saturnian Round Table Investigation
 
+> **TL;DR:** TODO
+
 **Thesis:** White's Arthurian material—via Malory and the medieval tradition—may encode an ancient memory of the Dark Ages (c. 3067 BCE onward) when Jupiter, Mars, Venus, and Earth shared a "Round Table" nonlinear planetary configuration. The Round Table, King Arthur, Lancelot, and the Grail quest map onto Saturnian cosmology.
 
 ---

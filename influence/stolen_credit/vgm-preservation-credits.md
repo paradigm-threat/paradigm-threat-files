@@ -1,5 +1,7 @@
 # VGM Preservation & Publisher Credit Policies
 
+> **TL;DR:** TODO
+
 **Status:** Reference. Documents industry-wide patterns: games without credits, publishers that prohibited credits, and methodology for uncovering hidden attribution.
 
 ---

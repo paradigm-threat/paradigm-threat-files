@@ -5,6 +5,8 @@ description: "The MudFlood Energetic Event Hypothesis proposes a solution to the
 
 # This section only contains MudFlood scratch notes and is still being worked on
 
+> **TL;DR:** TODO
+
 ## After the MF
 
 1. Cargo cults

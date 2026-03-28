@@ -1,5 +1,7 @@
 # Investigation: Deliverance to a Promised Land — 1492 BCE/CE, Europe, America, and the Final Promised Lands
 
+> **TL;DR:** TODO
+
 ## Status
 
 **Date:** 2026-03-16  

@@ -1,5 +1,7 @@
 # Dr. Jerry Tennant — Healing is Voltage: Index of Research and Claims
 
+> **TL;DR:** TODO
+
 **Sources:**
 - [English] Dr. Jerry Tennant Healing is Voltage -- The Physics of Emotions  EU2017 [DownSub.com].txt
 - [English] Dr. Jerry Tennant Healing the Body's Electrical Circuitry  Electricity of Life [DownSub.co.txt — Thunderbolts Project, Part 1

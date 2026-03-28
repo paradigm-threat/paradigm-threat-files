@@ -1,5 +1,7 @@
 # Fear and Loathing in Las Vegas — Index and Government-Antagonistic Highlights
 
+> **TL;DR:** TODO
+
 **Author:** Hunter S. Thompson  
 **Published:** 1971 (Rolling Stone serial); 1972 (book)  
 **Full text:** `Fear-And-Loathing-In-Las-Vegas.mobi`

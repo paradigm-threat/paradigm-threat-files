@@ -1,5 +1,7 @@
 # Hairy Mary – One More Time
 
+> **TL;DR:** TODO
+
 - **Source:** <https://en.posztukiwania.pl/2018/11/10/hairy-mary-one-more-time/>
 - **Author:** Magdalena Łanuszka
 - **Date:** November 10, 2018

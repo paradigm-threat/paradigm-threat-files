@@ -1,5 +1,7 @@
 # Tornado–Power Station Explosion: Investigation into Electromagnetic Tornado Suppression and Media Cover-up
 
+> **TL;DR:** TODO
+
 **Scope:** A 21st-century event in which a tornado passed over a power station, a massive light explosion occurred, and observers reported the tornado appeared to weaken or disappear before regaining strength. The official explanation—transformer oil or similar combustibles—was widely viewed as inadequate. This investigation documents the event(s), the mainstream narrative, and the thesis that tornadoes are electromagnetic phenomena that can be suppressed by electromagnetic discharge—a suppressed science with profound implications for tornado protection.
 
 **Cross-ref:** [Weather Modification Investigation](weather-modification-investigation.md) | [HAARP](https://paradigmthreat.net/timeline/evt-weather-control)

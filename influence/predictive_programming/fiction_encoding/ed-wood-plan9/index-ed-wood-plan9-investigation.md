@@ -2,6 +2,8 @@
 
 ![Plan 9: zombie apocalypse as alien instrument](ed-wood-plan9.png)
 
+> **TL;DR:** TODO
+
 **Scope:** Predictive programming funding thesis; controlled opposition; inversion of creative process; zombie-apocalypse-as-alien-takeover encoding.  
 **Cross-ref:** [Zombie genre](../zombies/index-zombie-genre-investigation.md) | [Predictive programming page](../page.md) | [Fiction as control](https://paradigmthreat.net/timeline/evt-predictive-programming)
 

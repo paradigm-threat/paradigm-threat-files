@@ -1,5 +1,7 @@
 # Investigation: September 11, 2001 — Good-Actor Historic Antibody Thesis
 
+> **TL;DR:** TODO
+
 ## Status
 
 Ongoing. This investigation documents evidence and alternative theories supporting the project's stance: **9/11 was staged by good actors as a historic antibody** designed to stall and ruin the Deep State's slow-and-go plans. It exists in tension with mainstream and Deep State narratives.

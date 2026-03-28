@@ -1,5 +1,7 @@
 # Edwin Lester Arnold — Bibliography
 
+> **TL;DR:** TODO
+
 **Edwin Lester Linden Arnold** (14 May 1857 – 1 March 1935)  
 English writer. Best known for *Lieut. Gullivar Jones: His Vacation* (1905), an early planetary romance and possible influence on Edgar Rice Burroughs's Barsoom series.
 

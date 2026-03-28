@@ -1,5 +1,7 @@
 # Rus-Horde echoes in English political and military vocabulary (open investigation)
 
+> **TL;DR:** TODO
+
 **Status:** **Open / low confidence.** Mainstream etymology is given first so the speculative layer stays visible as a separate track. Nothing here is offered as established linguistic fact.
 
 ## Purpose

@@ -1,5 +1,7 @@
 # Investigation: Flat Earth — History, Myth, and Misinterpretation
 
+> **TL;DR:** TODO
+
 ## Status
 
 **Date:** 2026-03-16  

@@ -1,5 +1,7 @@
 # The Nintendo–Sony Breakup and the Birth of PlayStation
 
+> **TL;DR:** TODO
+
 **Source:** Investigation summary (user-provided). Integrated into stolen-credit corpus for FF7/Nintendo thesis.
 
 ---

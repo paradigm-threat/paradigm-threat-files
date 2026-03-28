@@ -1,5 +1,7 @@
 # Orson Scott Card — Enderverse Investigation Index
 
+> **TL;DR:** TODO
+
 > Research index for the paradigm-threat-timeline project.
 > Focus: The Ender's Game series as **predictive programming** encoding real events leading up to and following the MFEE (Mars Flood Extinction Event).
 > Cross-reference: `wotw-mfee-mars-catastrophe.md`, `paradigm-threat-files/governance/war/page.md`, `paradigm-threat-files/history/mudflood/page.md`

@@ -1,5 +1,7 @@
 # Microchips: Shrinking Technology Investigation
 
+> **TL;DR:** TODO
+
 Investigation into the thesis that microchips are produced via **shrinking technology** — creating large-scale chips with human tools, then using scalar/electromagnetic fields to produce miniature replicas — rather than the mainstream narrative of photolithography and nanoscale fabrication. Covers: mainstream vs alternative positions; predictive programming for shrinking (objects vs lifeforms); Nintendo and global chip supply chain; optical media parallels (CD-ROM, Blu-ray); Taiwan/Japan/Korea vassal-state pattern.
 
 **Sponsored thesis:** The technology that operates computers is suppressed. Nobody really knows how to build it. Chips might not use shrinking technology, but they are absolutely a suppressed technology — and probably not possible without it. The theory rests primarily on the weird geopolitical situation and lack of competition, not on certainty that shrinking is used. Microchips *may* be created by atom-aligning electromagnetic replication of large-scale prototypes; the conventional photolithography narrative does not hold up under scrutiny. The same suppression patterns apply to optical media and semiconductor consolidation.

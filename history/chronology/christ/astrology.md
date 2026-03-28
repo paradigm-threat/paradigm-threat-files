@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 <meta name="title" content="The Biblical Jesus Christ is a combination of the new Lord - our Sun, and the human Andronicus Christ" />
 <meta name="description" content="The Biblical Jesus Christ is a combination of an Astrological Allegory for the new Lord - our Sun combined with the story of human Andronicus Christ of the Crimea" />
 <meta property="og:image" content="/christ/christ_is_the_sun7.jpg" />

@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 > “...disbelief in magic can force a poor soul into believing in government and business....”
 >
 > ― Tom Robbins, Even Cowgirls Get the Blues

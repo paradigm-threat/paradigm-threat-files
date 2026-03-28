@@ -32,6 +32,8 @@ which (possibly unintentionally) destroyed Martian surface cities as well.
 
 ![CIA remote viewing experiments on Mars in 1984 observe alien vehicles and environments](/cosmos/mars/cia_remote_viewing.jpg?w=360)
 
+> **TL;DR:** TODO
+
 <h2 className="no-index">Index</h2>
 
 <DynamicIndex/>

@@ -1,5 +1,7 @@
 # Bram Stoker — Investigation
 
+> **TL;DR:** TODO
+
 **Author:** Abraham (Bram) Stoker (1847–1912)  
 **Primary work:** *Dracula* (1897)  
 **Scope:** Fiction vs. nonfiction framing, Eastern European sources, family lines in Dracula, downloadable works.

@@ -1,5 +1,7 @@
 # Investigation: Trump, Historic Antibodies, and the Uncompromised Dynasty Thesis
 
+> **TL;DR:** TODO
+
 ## Status
 
 Ongoing. This investigation documents Donald Trump's ancestry (including the suppressed German connection), the Patton-paternity rumor with full citation inventory, and a sponsored thesis: **Trump was supported by historic antibodies because his family emerged from WW2 uncompromised** — placing him on a short list of dynastic figures who could "turn" against the Deep State. Eyes Wide Shut (1999) is treated as predictive programming depicting that elite architecture and the class of figure the script could not fully control.

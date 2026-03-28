@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 > Well I was walking down the street just a-having a think
 > When a snake of a guy gave me an evil wink
 > He shook-a me up, he took me by surprise

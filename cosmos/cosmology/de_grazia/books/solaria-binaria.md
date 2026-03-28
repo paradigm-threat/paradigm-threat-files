@@ -1,5 +1,7 @@
 # Solaria Binaria: Origins of the Sun and Its Planets
 
+> **TL;DR:** TODO
+
 **Authors:** Alfred de Grazia and Earl R. Milton  
 **Year:** 1984  
 **Series:** Quantavolution & Catastrophe  

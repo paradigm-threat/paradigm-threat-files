@@ -1,5 +1,7 @@
 # White vs Excalibur: Sulphur + Mercury — Book vs Movie, Managed Disclosure?
 
+> **TL;DR:** TODO
+
 **Question:** Does T.H. White mention sulphur + mercury? The 1981 film *Excalibur* does. What differences exist? Why was this added? Managed disclosure for suppressed gold-transmutation knowledge?
 
 ---

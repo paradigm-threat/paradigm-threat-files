@@ -1,5 +1,7 @@
 # Minako Hamano — Investigation
 
+> **TL;DR:** TODO
+
 **Status:** Investigating. Hypothesis: She may be the primary creative force behind much of the music she's credited on; credit may have been stolen by collaborators or institutional bias. When she is properly involved, quality is high; when she is sidelined or credited without actually composing, the result is amateurish.
 
 ---

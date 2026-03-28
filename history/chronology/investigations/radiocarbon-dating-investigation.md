@@ -1,5 +1,7 @@
 # Investigation: Radiocarbon Dating — Dogmatic Adoption and the Electrical Activity Problem
 
+> **TL;DR:** TODO
+
 ## Summary
 
 **Claim:** Radiocarbon dating was adopted dogmatically by the scientific community without adequate testing of its basic assumptions. The method cannot capture sharp increases in electrical activity — when intense electrical discharge occurs, it produces carbon that appears millions or billions of years old rather than showing a spike in the pattern. This fundamental flaw invalidates radiocarbon dating for catastrophic events involving electrical discharge, yet the method continues to be used uncritically as the primary means of establishing deep time chronologies.

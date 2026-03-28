@@ -1,5 +1,7 @@
 # Investigation: The Word "Martyr" — Etymology, Mars/Murder, and the Real Nature of a Martyr
 
+> **TL;DR:** TODO
+
 ## Thesis
 
 This investigation examines (1) the **history and etymology** of the word "martyr," including whether there is any connection to the words **"murder"** or **"Mars"** and why the word was formed; (2) the **real nature of a martyr** — a strict definition that distinguishes true martyrdom from mere death in a religious context; and (3) the **application** of that definition to the crucifixion, the Crusades (Revenge Crusade), the fall of Istanbul (crucifiers/apostles), and later contexts such as the Inquisition. Historians often treat "martyr" as anyone who died in a religious event; this investigation holds that a **martyr** is only someone who **held out against a mob** — against all criticism, facing death, torture, fire, and still **kept their belief** in whatever religion they believed in. That distinction is then used to separate **Jesus** (first martyr to survive in historic literature), the **Crusaders** who died in Christ's name (martyrs), and the **apostles/crucifiers** slaughtered when the Crusaders took Istanbul (not martyrs in this reading — their faith did not hold out against the mob; they likely repented). True martyrs in that mold are more likely to appear later, in a more radicalized context such as the **Inquisition**.

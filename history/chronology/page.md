@@ -6,6 +6,9 @@ description: "The objective of this timeline is to compile an accessible alterna
 # Earth History Timeline Reconstruction
 
 ![Tartarian neoclassical architecture exists world-wide](/history/chronology/tartaria/tartarian_structures.jpg?w=384)
+
+> **TL;DR:** TODO
+
 *This is evidence of a world-empire. The Rus-Horde 'Tartarian' Empire ruled over all continents between 12th and 18th centuries before its breakup in 1775.*
 
 

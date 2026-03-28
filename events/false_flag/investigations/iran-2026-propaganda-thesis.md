@@ -1,5 +1,7 @@
 # Investigation: Iran 2026 — Propaganda War Thesis
 
+> **TL;DR:** TODO
+
 ## Status
 
 Ongoing. **Project theory** (not asserted as proven): Iran may be waging a propaganda war in 2026 by striking its own schools and staging fake "training missions" during the conflict, to frame the U.S. and Israel as aggressors and mobilise domestic and international opinion.

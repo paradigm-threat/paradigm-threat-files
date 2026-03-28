@@ -1,5 +1,7 @@
 # Beethoven / Deafness Narrative — Investigation
 
+> **TL;DR:** TODO
+
 **Status:** Investigating. Hypothesis: The "completely deaf genius" narrative may have been exaggerated or manufactured — serving to consolidate Beethoven's legend, obscure collaboration, or control the historical record.
 
 ---

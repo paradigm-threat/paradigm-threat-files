@@ -1,5 +1,7 @@
 # Creation Event Interpretations Across Religions
 
+> **TL;DR:** TODO
+
 **Status:** Concluded  
 **Source set:** Local corpus in `/home/ari/dev/wget/holy-text/`  
 **Prompt:** Compare how the downloaded religious texts describe creation, the order of creation, and the appearance of the first man or first human pair, with special attention to eastern traditions.

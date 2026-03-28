@@ -1,5 +1,7 @@
 # Capcom — Mega Man Franchise & Stolen Credit
 
+> **TL;DR:** TODO
+
 **Status:** Investigating. Thesis: Capcom betrayed Mega Man traditions by abandoning NES, firing original talent, reusing leftovers instead of commissioning fresh work, and crediting contractors over composers. Platform churn and composer turnover obscure institutional support and enable credit theft.
 
 ---

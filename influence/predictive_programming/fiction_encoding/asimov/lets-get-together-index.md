@@ -1,5 +1,7 @@
 # Let's Get Together — Clue Index for Timeline Investigation
 
+> **TL;DR:** TODO
+
 Index of passages in `lets-get-together.txt` relevant to the Paradigm Threat investigation. Line numbers are approximate; search the full text for exact locations.
 
 **Source:** Isaac Asimov, "Let's Get Together," *Infinity* (Royal Publications), February 1957 (written 1956).

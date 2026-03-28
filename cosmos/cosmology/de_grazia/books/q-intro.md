@@ -1,5 +1,7 @@
 # Quantavolution and Catastrophe: Introduction to the Series & Q-C Test
 
+> **TL;DR:** TODO
+
 **Author:** Alfred de Grazia  
 **Year:** c. 1981  
 **Series:** Quantavolution & Catastrophe (Series Introduction)  

@@ -1,5 +1,7 @@
 # Asimov: Investigation Threads
 
+> **TL;DR:** TODO
+
 Four investigative threads for close reading and index-building. These are prompts, not conclusions.
 
 ---

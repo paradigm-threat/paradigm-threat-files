@@ -1,5 +1,7 @@
 # The Forbidden Blood: Human Blood-Feeding as Discipline Collapse
 
+> **TL;DR:** TODO
+
 *An analysis of the Martian blood-feeding in H.G. Wells' War of the Worlds — arguing that blood consumption was never an authorised mission protocol but a catastrophic breakdown of discipline that destroyed the entire operation.*
 
 > **Companion documents:**

@@ -1,5 +1,7 @@
 # Compromised Court Cases and Declared Reality — Investigation
 
+> **TL;DR:** TODO
+
 **Thesis:** Court cases — real and fictional — may be leveraged to steer the "declared reality" of our species. Mechanisms include: (1) declaring entire histories fiction and sources liars, (2) winning (or arranging) court outcomes as path of least resistance, (3) mass-publishing the victor's version of history. The early 20th century is particularly dense with such cases; compromise need not leave obvious traces — a clean legal victory can bury inquiry as effectively as suppression.
 
 ---

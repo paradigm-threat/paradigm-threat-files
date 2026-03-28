@@ -1,5 +1,7 @@
 # H.P. Lovecraft — Complete Fiction Index
 
+> **TL;DR:** TODO
+
 > Downloaded from [hplovecraft.com](https://www.hplovecraft.com/writings/texts/).
 > All works public domain (Lovecraft died 1937). 104 fiction pieces + 2 essays.
 > Total fiction corpus: ~710,000 words.

@@ -1,3 +1,7 @@
+
+
+> **TL;DR:** TODO
+
 ## [The Nuclear Scam by Galen Winsor (1986)](https://www.youtube.com/watch?v=IVoKztKs6-E)
 
 ```

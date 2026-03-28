@@ -1,5 +1,7 @@
 # Lately Tortured Earth: Exoterrestrial Forces and Quantavolution in the Solar System
 
+> **TL;DR:** TODO
+
 **Author:** Alfred de Grazia  
 **Year:** 1983  
 **Series:** Quantavolution & Catastrophe  

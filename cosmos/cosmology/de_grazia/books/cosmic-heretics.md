@@ -1,5 +1,7 @@
 # Cosmic Heretics
 
+> **TL;DR:** TODO
+
 **Author:** Alfred de Grazia  
 **Year:** 1984 (original); 2013 (new edition)  
 **Series:** Quantavolution & Catastrophe (adjacent)  

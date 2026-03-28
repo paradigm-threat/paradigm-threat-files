@@ -1,5 +1,7 @@
 # Investigation: Napoleonic Artillery, “Sound Cannons,” and Lighter-Than-Air Technology
 
+> **TL;DR:** TODO
+
 ## Status
 
 Ongoing. This dossier tracks **late-18th–early-19th-century** French and European **artillery and aerostatics** in two registers: (1) **museum and textbook classifications**, and (2) a **working thesis**—stated below—that those classifications may be **deliberate miscategorization** of **operative** systems. A repo pass found **no** affirmative claim that Napoleon fielded **plasma cannons**; timeline text **negates** that pairing and limits speculation to **sound / resonance**, **balloons / dirigibles**, and **ether-mechanical** hypotheses (see [Napoleonic 1812 — Extended Evidence](/timeline/evt-napoleonic-wars-1812-evidence), [19th Century Weapons](/timeline/evt-19th-century-weapons), [Reverse Crusades — tech ceiling / sabotage](reverse-crusades-comparison.md)).

@@ -1,5 +1,7 @@
 # Everest — Clue Index for Timeline Investigation
 
+> **TL;DR:** TODO
+
 Index of passages in `everest.txt` relevant to the Paradigm Threat investigation. Line numbers are approximate; search the full text for exact locations.
 
 **Source:** Isaac Asimov, "Everest," *Universe Science Fiction* (Palmer Publications, Evanston IL), December 1953. Published same year as first successful Everest ascent.

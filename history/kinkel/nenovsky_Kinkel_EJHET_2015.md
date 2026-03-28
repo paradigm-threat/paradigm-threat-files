@@ -1,5 +1,7 @@
 # Ivan Kinkel's (1883–1945) Theory of Economic Development
 
+> **TL;DR:** TODO
+
 **Author:** Nikolay Nenov Nenovsky  
 **Published:** *The European Journal of the History of Economic Thought*, 2015, Vol. 22, No. 2, pp. 272–299  
 **DOI:** [10.1080/09672567.2013.792367](http://dx.doi.org/10.1080/09672567.2013.792367)  

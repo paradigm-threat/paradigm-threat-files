@@ -1,5 +1,7 @@
 # Investigation: David Straight's Chernobyl Probiotics Claims
 
+> **TL;DR:** TODO
+
 > **Source:** `audio/ssstwitter.com_1772378839442.mp3` ([transcript](ssstwitter.com_1772378839442-transcript.md))
 > **Speaker identified:** David Lester Straight (April 20, 1963 – April 1, 2025)
 > **Investigated:** 2026-03-01

@@ -1,5 +1,7 @@
 # The Velikovsky Affair: Scientism vs. Science
 
+> **TL;DR:** TODO
+
 **Editor:** Alfred de Grazia  
 **Contributors:** Ralph Juergens, Livio Stecchini, and others  
 **Year:** 1966  
