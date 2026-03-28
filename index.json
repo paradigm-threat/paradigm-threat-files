@@ -128,7 +128,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-03-27T21:07:40Z"
+    "_updated": "2026-03-28T12:27:31Z"
   },
   "cosmos": {
     "cosmology": {
@@ -2021,9 +2021,15 @@
         },
         "netanyahu-faked-death-shiva-rumors-investigation.md": {
           "_title": "Investigation: Would Netanyahu Want a Faked Death Here? \u2014 Motive, Timeline, and Iran Narrative",
-          "_updated": "2026-03-27T23:08:05Z"
+          "_updated": "2026-03-28T13:36:20Z"
         },
-        "_count": 4
+        "netanyahu-faked-death-shiva-rumors-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAAsABUB8JZgCdAEXuEjfCwAAAP5aPOsalJUOKwB7xrHfy1yM4meLwQDpaHIyLhpgYEcYsPy/monEthwpkbfgvOGgAA==",
+          "_updated": "2026-03-28T13:35:37Z"
+        },
+        "_count": 5
       },
       "israel_false_flag.jpg": {
         "_width": 711,
@@ -2073,7 +2079,7 @@
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoQAAwABUB8JYwCw7EPAZe5HHAA/unqy0+jfrr0OMMdMPz5Ieg4AAAA",
         "_updated": "2025-12-24T12:59:07Z"
       },
-      "_count": 32
+      "_count": 33
     },
     "jfk": {
       "agent.md": {
@@ -2164,7 +2170,7 @@
       },
       "_count": 1
     },
-    "_count": 99
+    "_count": 100
   },
   "governance": {
     "genocide": {
@@ -9886,7 +9892,21 @@
       },
       "_count": 21
     },
-    "_count": 298
+    "suppression": {
+      "investigations": {
+        "eckhart-jacobs-ladder-hell-quote-attribution-investigation.md": {
+          "_title": "Investigation: The \u201cHell Burns Attachments\u201d Lines \u2014 Eckhart, *Jacob\u2019s Ladder*, and Misattribution",
+          "_updated": "2026-03-28T13:26:04Z"
+        },
+        "_count": 1
+      },
+      "page.md": {
+        "_title": "Suppression",
+        "_updated": "2026-03-28T13:19:01Z"
+      },
+      "_count": 2
+    },
+    "_count": 300
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
@@ -10785,6 +10805,6 @@
     },
     "_count": 152
   },
-  "_count": 1893,
-  "_version": "95d78f9"
+  "_count": 1896,
+  "_version": "5f33089"
 }
