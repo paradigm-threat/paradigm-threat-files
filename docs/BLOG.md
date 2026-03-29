@@ -23,6 +23,8 @@ This ensures links work when blog posts are viewed in GitHub, RSS, or any contex
 
 Create new posts in `blog/` with the naming convention `YYYY-MM-DD-slug.md`. Run `npm run generate-index` (or the pre-commit hook will run it) to include the new file in `index.json`.
 
+**`index.json` `_updated` for blog:** For files matching `blog/YYYY-MM-DD-*.md`, `scripts/generate-index.py` sets `_updated` to that calendar date at **12:00 UTC** (not filesystem mtime), so the site blog list (`AutoIndex` with `format="blog"`) shows the correct day per post after checkouts or bulk regen. Files like `blog/page.md` still use mtime.
+
 **Cover all changed repos and list all changes.** Before writing a blog entry:
 
 1. **Check git for all three paradigm-threat* repos** — **paradigm-threat-timeline**, **paradigm-threat-files**, **paradigm-threat-site** — for commits and file changes since the **last blog entry** (by date: the most recent `YYYY-MM-DD-*.md` in `blog/` before this one).

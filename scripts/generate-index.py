@@ -1,10 +1,34 @@
 import os
+import re
 import json
 import base64
 import io
 import subprocess
 from datetime import datetime, timezone
+from typing import Optional
+
 from PIL import Image
+
+# Blog list UI (AutoIndex format=blog) sorts and labels by _updated. Filesystem mtimes
+# often match a bulk checkout or index regen, so dated posts under blog/ use the
+# YYYY-MM-DD prefix from the filename as stable UTC noon for _updated.
+_BLOG_DATED_MD = re.compile(r"^(\d{4}-\d{2}-\d{2})-.+\.md$")
+
+
+def _index_updated_iso(full_path: str, repo_dir: str, basename: str) -> Optional[str]:
+    rel = os.path.normpath(os.path.relpath(full_path, repo_dir))
+    parts = rel.split(os.sep)
+    if len(parts) < 2 or parts[0] != "blog":
+        return None
+    m = _BLOG_DATED_MD.match(basename)
+    if not m:
+        return None
+    ymd = m.group(1)
+    try:
+        datetime.strptime(ymd, "%Y-%m-%d")
+    except ValueError:
+        return None
+    return f"{ymd}T12:00:00Z"
 
 def get_lqip(image_path):
     """Generates a 16x16 base64-encoded WebP LQIP string for an image."""
@@ -103,12 +127,16 @@ def generate_index():
                         if lqip:
                             file_data["_lqip"] = lqip
 
-                    try:
-                        mtime = os.path.getmtime(full_path)
-                        dt = datetime.fromtimestamp(mtime, tz=timezone.utc)
-                        file_data["_updated"] = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
-                    except OSError:
-                        pass
+                    updated_iso = _index_updated_iso(full_path, repo_dir, item)
+                    if updated_iso:
+                        file_data["_updated"] = updated_iso
+                    else:
+                        try:
+                            mtime = os.path.getmtime(full_path)
+                            dt = datetime.fromtimestamp(mtime, tz=timezone.utc)
+                            file_data["_updated"] = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+                        except OSError:
+                            pass
                     
                     tree[item] = file_data
                     total_files += 1
