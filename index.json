@@ -108,11 +108,15 @@
       "_title": "Golden Age rollout, MFEE appendices, investigations, and site/TTS polish",
       "_updated": "2026-03-28T15:36:48Z"
     },
+    "2026-03-28-timeline-tldr-appendix-split-investigations-site.md": {
+      "_title": "Book TL;DR sweep, appendix split (XVI\u2013XXII), war and fiction investigations, exports, site reader",
+      "_updated": "2026-03-29T15:01:17Z"
+    },
     "page.md": {
       "_title": "Blog",
       "_updated": "2026-03-24T14:39:53Z"
     },
-    "_count": 28
+    "_count": 29
   },
   "book": {
     "page.md": {
@@ -128,7 +132,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-03-28T13:38:24Z"
+    "_updated": "2026-03-28T16:16:40Z"
   },
   "cosmos": {
     "cosmology": {
@@ -10805,6 +10809,6 @@
     },
     "_count": 152
   },
-  "_count": 1896,
-  "_version": "f8cdd34"
+  "_count": 1897,
+  "_version": "3e09a4c"
 }

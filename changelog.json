@@ -1,5 +1,10 @@
 [
   {
+    "hash": "3e09a4c594ddab91beabf7e38541ca9107cc78e6",
+    "date": "2026-03-28T16:16:31.000Z",
+    "message": "Docs: sync investigations and site content"
+  },
+  {
     "hash": "f8cdd3479342df207e97261da80bf77e17d7e931",
     "date": "2026-03-28T13:38:14.000Z",
     "message": "Netanyahu shiva investigation: embed hero PNG; add Eckhart quote attribution investigation; regenerate index."
@@ -18,10 +23,5 @@
     "hash": "8617dd89f7932411af307571135abc9cb9729e8e",
     "date": "2026-03-27T13:48:19.000Z",
     "message": "Pitcairn investigation: §2.1 Bligh, Tahiti trigger, screen politics, Pitcairn mirror"
-  },
-  {
-    "hash": "929a122f8dac41c8f59d5da47bf445c219a44373",
-    "date": "2026-03-27T13:05:56.000Z",
-    "message": "Add Operation Paperclip investigation; war investigations index; related content."
   }
 ]
