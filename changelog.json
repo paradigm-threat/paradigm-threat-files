@@ -1,5 +1,20 @@
 [
   {
+    "hash": "a4003acee5ae9f8c40dd953851cabc4ce99dd726",
+    "date": "2026-03-30T13:28:50.000Z",
+    "message": "Merge master into main; main is the canonical branch"
+  },
+  {
+    "hash": "8f9e1e1815436d6abf053c03b1cb89ab7eaed5cc",
+    "date": "2026-03-30T13:27:52.000Z",
+    "message": "fix(ci): GitLab Pages export via git archive (avoid public/ rsync recursion)"
+  },
+  {
+    "hash": "4299a16cff69723fb6d08958fafd4c98ae880543",
+    "date": "2026-03-30T13:19:20.000Z",
+    "message": "Merge branch 'master' into main"
+  },
+  {
     "hash": "836230a1794851067222b75dab7c8435027ca65e",
     "date": "2026-03-30T13:14:47.000Z",
     "message": "Add GitLab Pages CI (.gitlab-ci.yml)"
@@ -8,20 +23,5 @@
     "hash": "059f10f62d51bccea1d7d07d674a21b20cf4ad2f",
     "date": "2026-03-30T13:04:38.000Z",
     "message": "Content updates across repo; add GitHub Actions ban screenshots"
-  },
-  {
-    "hash": "28f645cd570c6de0325d0744a8484624fcb74ba4",
-    "date": "2026-03-30T12:39:33.000Z",
-    "message": "Add Swift / Gulliver investigations with conclusion TL;DRs"
-  },
-  {
-    "hash": "de045583b45daafedfaa2bbb452bde48a910ece2",
-    "date": "2026-03-30T00:33:40.000Z",
-    "message": "Add biology investigation: DNA as fingerprint, scalar/ZPE ontogeny, history of soul continuity"
-  },
-  {
-    "hash": "a213c7c1be89b9c7ff9718e03edc7499c65560f9",
-    "date": "2026-03-29T15:06:26.000Z",
-    "message": "index: blog _updated from YYYY-MM-DD filename (not mtime); regen index"
   }
 ]
