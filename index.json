@@ -1,4 +1,7 @@
 {
+  "README.md": {
+    "_updated": "2026-03-30T13:28:50Z"
+  },
   "blog": {
     "2021-11-30-2020-2021-paradigm-threat-old.md": {
       "_title": "2020\u20132021: paradigm-threat-old \u2014 Project Beginnings and Maintenance",
@@ -132,7 +135,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-03-30T13:19:20Z"
+    "_updated": "2026-03-30T13:28:50Z"
   },
   "cosmos": {
     "cosmology": {
@@ -10876,6 +10879,6 @@
     },
     "_count": 153
   },
-  "_count": 1910,
-  "_version": "836230a"
+  "_count": 1911,
+  "_version": "a4003ac"
 }

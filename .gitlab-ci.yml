@@ -1,7 +1,7 @@
 # GitLab Pages — static export of the tracked tree (same intent as GitHub Actions upload path: '.').
 # Do NOT rsync ./ into public/ when the repo has a top-level public/ folder: that nests
 # public/public/... until the runner disk is exhausted ("No space left on device").
-# Set the project default branch in GitLab to match $CI_DEFAULT_BRANCH.
+# Use default branch main in GitLab ($CI_DEFAULT_BRANCH).
 
 image: alpine:latest
 
