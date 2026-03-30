@@ -1,5 +1,10 @@
 [
   {
+    "hash": "8eabca4ca35854e922a3f538b9a67b3f2b1ee02a",
+    "date": "2026-03-30T13:32:09.000Z",
+    "message": "chore: drop GitHub Pages workflow; GitLab-only hosting"
+  },
+  {
     "hash": "d5bde51d51a5c008714e1b7fe2f82dc698e6ef42",
     "date": "2026-03-30T13:28:54.000Z",
     "message": "ci: GitHub Pages workflow triggers on main; comment default branch main"
@@ -18,10 +23,5 @@
     "hash": "4299a16cff69723fb6d08958fafd4c98ae880543",
     "date": "2026-03-30T13:19:20.000Z",
     "message": "Merge branch 'master' into main"
-  },
-  {
-    "hash": "836230a1794851067222b75dab7c8435027ca65e",
-    "date": "2026-03-30T13:14:47.000Z",
-    "message": "Add GitLab Pages CI (.gitlab-ci.yml)"
   }
 ]
