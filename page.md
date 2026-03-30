@@ -12,12 +12,7 @@ keywords: Research, Conspiracy, Alt History, MudFlood, Energetic Event Hypothesi
 
 # Welcome to Paradigm Threat
 
-> **TL;DR:** Open conspiracy-research hub that challenges mainstream paradigms across history, science, and governance; foregrounds predictive programming and controlled-opposition patterns, links cross-cutting investigations, and invites collaboration via the site chat.
-
-A repository for ongoing conspiracy theory investigation and resources.
-**This site is a work in progress.**
-If you want to debate, write articles or share things you've found,
-feel free to drop a message on the [Chat Server](/chat)!
+Open conspiracy-research hub that challenges mainstream paradigms across history, science, and governance; foregrounds predictive programming and controlled-opposition patterns, links cross-cutting investigations, and invites collaboration via the site chat.
 
 ## Change Log
 
