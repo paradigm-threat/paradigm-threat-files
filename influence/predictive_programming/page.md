@@ -2,7 +2,7 @@
 
 ![Predictive Programming](predictive_programming.png)
 
-> **TL;DR:** TODO
+> **TL;DR:** Working hub on predictive programming—fiction conditioning audiences for planned change or coincidence dismissal—covering definitions (Watt, Carleton, Wikispooks), second-hand encoding, researcher map, and ongoing cataloging of media patterns.
 
 **Predictive programming** is the use of fiction and entertainment to acquaint the public with planned societal changes or to reframe actual events as myth. By embedding scenarios in films, television, novels, and games, audiences are psychologically conditioned to accept them as familiar — or to dismiss reality when it matches fiction as coincidence.
 
@@ -118,6 +118,7 @@ Predictive programming presents AI in a very dim light: humans rely on robots as
 | **J.R.R. Tolkien** | [tolkien/](fiction_encoding/tolkien/) | Redacted fact; Silmarillion source mapping; Palantir analysis |
 | **C.S. Lewis** | [cslewis/](fiction_encoding/cslewis/) | Narnia and Space Trilogy as Saturnian cosmology |
 | **Jules Verne** | [jules-verne/](fiction_encoding/jules-verne/) | Novels as declassified technology manuals |
+| **Jonathan Swift** | [swift/](fiction_encoding/swift/) | *Gulliver* as travel hoax frame; Laputan Martian satellites (1726) vs 1877 discovery; Lilliput/Brobdingnag scale threads |
 | **H.P. Lovecraft** | [lovecraft/](fiction_encoding/lovecraft/) | Cosmic horror as suppressed cosmological memory |
 | **Zombie genre** | [zombies/](fiction_encoding/zombies/) | Pre-20th c. roots; Stoker-like framing; Ishtar, ghouls, revenants |
 | **Ed Wood / Plan 9** | [ed-wood-plan9/](fiction_encoding/ed-wood-plan9/) | Predictive programming funding thesis; controlled opposition; zombie-apocalypse-as-alien-takeover; Wood as agent |

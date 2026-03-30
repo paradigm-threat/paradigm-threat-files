@@ -1,7 +1,6 @@
 # Mars Literature — Index of Downloaded Texts
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Mars Literature — Index of Downloaded Texts: Where multiple authors independently describe the same or closely related elements, convergence is noted. Bold = strong convergence (2+ authors). Only Burroughs in this collection describes polar forbidden zones in detail:
 **Purpose:** Summarise all Mars-related fiction in the wget collection and highlight **convergence of facts** across authors. Assumes fiction-as-disclosure: repeated, independent descriptions of the same elements may encode suppressed truth.
 
 ---
@@ -139,6 +138,7 @@ Arnold has **River of the Dead** (one-way, carries corpses to falls) and **ice v
 
 ## IV. Cross-References
 
+- [Jonathan Swift — Mars moons & *Gulliver* framing](/influence/predictive_programming/fiction_encoding/swift/swift-mars-giants-publication-stance.md) — Laputan satellites (1726) vs telescopic discovery (1877); travel-hoax paratext
 - [mars-fiction-survey.md](mars-fiction-survey.md) — full Mars literature survey
 - [mars-stock-market-correlation.md](mars-stock-market-correlation.md) — Mars/Dow Jones correlation (1896–2020); *Ares Le Mandat* appendix
 - [arnold-gullivar-jones-reference.md](arnold-gullivar-jones-reference.md) — Arnold reference
