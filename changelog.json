@@ -1,5 +1,10 @@
 [
   {
+    "hash": "de045583b45daafedfaa2bbb452bde48a910ece2",
+    "date": "2026-03-30T00:33:40.000Z",
+    "message": "Add biology investigation: DNA as fingerprint, scalar/ZPE ontogeny, history of soul continuity"
+  },
+  {
     "hash": "a213c7c1be89b9c7ff9718e03edc7499c65560f9",
     "date": "2026-03-29T15:06:26.000Z",
     "message": "index: blog _updated from YYYY-MM-DD filename (not mtime); regen index"
@@ -18,10 +23,5 @@
     "hash": "f8cdd3479342df207e97261da80bf77e17d7e931",
     "date": "2026-03-28T13:38:14.000Z",
     "message": "Netanyahu shiva investigation: embed hero PNG; add Eckhart quote attribution investigation; regenerate index."
-  },
-  {
-    "hash": "5f3308972bd30fa4e56a344df1d8f3a420f40c12",
-    "date": "2026-03-28T12:27:19.000Z",
-    "message": "Update timeline path links after appendix split; false-flag index updates"
   }
 ]
