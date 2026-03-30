@@ -1,0 +1,21 @@
+{
+  "name": "paradigm-threat-files",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "serve . -p 3010 --cors",
+    "generate-index": "./.venv/bin/python scripts/generate-index.py",
+    "generate-changelog": "node scripts/generate-changelog.cjs",
+    "autogen": "npm run generate-index && npm run generate-changelog",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "glob": "^11.0.3",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "serve": "^14.2.5"
+  }
+}
