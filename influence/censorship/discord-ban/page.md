@@ -22,3 +22,11 @@ Don't remember promoting any sexual violence against the Deep State or anyone el
 anyhow. Or was it the *Gigabyte Green Mile*?
 In the meantime, <a href="/chat">click here to join the Chat Server.</a>
 or the <a href="https://t.me/historyisalie">Paradigm Threat Telegram channel.</a>
+
+---
+
+## Folder contents
+
+The site does not auto-list sibling files when `page.md` is shown; this lists everything in this directory.
+
+<AutoIndex sort="name-asc" />

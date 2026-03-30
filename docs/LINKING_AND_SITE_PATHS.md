@@ -18,3 +18,7 @@ Files under **`blog/`** still follow **`docs/BLOG.md`**: use **fully absolute** 
 ## Timeline cross-links
 
 From **paradigm-threat-timeline** `content/*.md`, link to investigations with root-relative paths as above; see **paradigm-threat-timeline** `docs/CONTENT_MARKDOWN_STYLE.md` and `.cursor/rules/paradigm-threat-timeline.mdc`.
+
+## Folder hubs (`page.md` + AutoIndex)
+
+If you add **`page.md`** in a folder that also contains other files, the live site will **not** show the automatic file list for that URL. Append **`<AutoIndex sort="name-asc" />`** (and a short “Folder contents” section) at the bottom of `page.md` so nothing stays hidden. See **`docs/instructions/PAGE_MD_AUTOINDEX.md`**.

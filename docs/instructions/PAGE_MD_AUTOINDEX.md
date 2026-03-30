@@ -1,0 +1,37 @@
+# `page.md` hides directory listings — use AutoIndex
+
+On **paradigmthreat.net**, when a directory contains **`page.md`**, the site serves that file as the folder route and **stops** showing the automatic directory listing. Sibling `.md` files, images, and other assets are **not** visible unless you link them in the prose—readers can miss most of the folder.
+
+## Rule
+
+If the folder has **any files besides** `page.md` that should stay discoverable, append a **folder listing** at the **bottom** of `page.md` (after the main content):
+
+```markdown
+---
+
+## Folder contents
+
+The site does not auto-list siblings when this page is shown; this block lists everything in this directory.
+
+<AutoIndex sort="name-asc" />
+```
+
+Use **`name-asc`** unless a hub already standardizes on **`name-desc`** (e.g. some investigation indexes).
+
+### Blog
+
+Under **`blog/`**, keep the existing pattern on `blog/page.md`: `<AutoIndex ... format="blog" />` per **`docs/BLOG.md`** (dated filenames, sort, title).
+
+### DynamicIndex vs AutoIndex
+
+- **`<AutoIndex />`** — lists **files in the current directory** from `index.json` (same mechanism as the bare folder view). This is what prevents “hidden” siblings.
+- **`<DynamicIndex />`** — scans **headings inside the current page** for an inline TOC. It does **not** list other files in the folder. A page can use both: DynamicIndex for long on-page TOC, AutoIndex at the end for folder contents.
+
+## Example hub
+
+`influence/predictive_programming/fiction_encoding/swift/page.md` — Swift / *Gulliver* overview plus **AutoIndex** so corpus indices, stance docs, and images stay linked from the hub.
+
+## Related
+
+- `docs/LINKING_AND_SITE_PATHS.md` — repo path = URL path
+- `docs/BLOG.md` — blog listing and `_updated` behavior

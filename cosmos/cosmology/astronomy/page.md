@@ -174,3 +174,11 @@ nope!
 ![Page 1](page_1.jpg)
 
 ![The dark matter](thedarkmatte.jpg)
+
+---
+
+## Folder contents
+
+The site does not auto-list sibling files when `page.md` is shown; this lists everything in this directory.
+
+<AutoIndex sort="name-asc" />

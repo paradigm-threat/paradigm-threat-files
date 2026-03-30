@@ -44,3 +44,11 @@ Isaac Asimov (1920–1992) was born in Petrovichi, Soviet Russia (Smolensk Oblas
 - Wikipedia: [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov), [Foundation series](https://en.wikipedia.org/wiki/Foundation_series), [Robot series](https://en.wikipedia.org/wiki/Robot_series_(Asimov))
 - ISFDB: [Isaac Asimov bibliography](https://www.isfdb.org/cgi-bin/ea.cgi?5)
 - Asimov Online: [Robot & Foundation history](https://www.asimovonline.com/oldsite/Robot_Foundation_history_1.html)
+
+---
+
+## Folder contents
+
+The site does not auto-list sibling files when `page.md` is shown; this lists everything in this directory.
+
+<AutoIndex sort="name-asc" />

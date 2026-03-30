@@ -38,3 +38,11 @@ Investigations and essays on suppressed truth and manufactured narratives.
 - [Fake List](/influence/conspiracy/A) — Everything you learned in Public School is a lie
 - [Religion](/influence/conspiracy/religion)
 - [Suppressed Tech Chat](/influence/conspiracy/achat)
+
+---
+
+## Folder contents
+
+The site does not auto-list sibling files when `page.md` is shown; this lists everything in this directory.
+
+<AutoIndex sort="name-asc" />

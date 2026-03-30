@@ -16,3 +16,11 @@ See the full [AI Control Investigation](/science/ai/ai-control-investigation) fo
 - **Deliberate bad software:** Microsoft and Apple made software difficult for handicapped and elderly, full of DLL hell and back doors—not accident, not negligence. Done on purpose, anticipating AI.
 - **End game:** Voice-command dependency → ultimate remote control of all technology, government, militaries. Austin Powers villain–style takeover.
 - **AI chips:** Same pattern as [microchips](/science/microchips/investigations/microchips-shrinking-technology-investigation)—China cannot reproduce, falling behind. Strange for a major country.
+
+---
+
+## Folder contents
+
+The site does not auto-list sibling files when `page.md` is shown; this lists everything in this directory.
+
+<AutoIndex sort="name-asc" />
