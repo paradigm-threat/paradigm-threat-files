@@ -1,5 +1,10 @@
 [
   {
+    "hash": "836230a1794851067222b75dab7c8435027ca65e",
+    "date": "2026-03-30T13:14:47.000Z",
+    "message": "Add GitLab Pages CI (.gitlab-ci.yml)"
+  },
+  {
     "hash": "059f10f62d51bccea1d7d07d674a21b20cf4ad2f",
     "date": "2026-03-30T13:04:38.000Z",
     "message": "Content updates across repo; add GitHub Actions ban screenshots"
@@ -18,10 +23,5 @@
     "hash": "a213c7c1be89b9c7ff9718e03edc7499c65560f9",
     "date": "2026-03-29T15:06:26.000Z",
     "message": "index: blog _updated from YYYY-MM-DD filename (not mtime); regen index"
-  },
-  {
-    "hash": "c4732795e079297ddeded09c15dce8dd38845486",
-    "date": "2026-03-29T15:02:43.000Z",
-    "message": "Blog: 2026-03-28 timeline TL;DR, appendix split, investigations, site; regenerate index."
   }
 ]
