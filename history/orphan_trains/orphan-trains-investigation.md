@@ -1,7 +1,6 @@
 # Orphan Trains, Mass Displacement, and the MFEE Thesis
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Orphan Trains, Mass Displacement, and the MFEE Thesis: The strongest, most resistant populations may have been driven across the Bering Strait into Siberia. Fomenko notes that Siberia became an exile destination after Pugachev (1774). Timing: before 1774, Romanovs could not exile to Siberia (it was Moscow Tartary); after 1774, Siberia is "wreckage" — depopulated, available as penal colony.
 **Investigation hypothesis:** The orphan phenomenon—mass orphaning, institutional response, population resets—predates the orphan trains. It was active from the MFEE period onward. The trains (1854+) were not the origin but the **evolution** of the phenomenon: a more organized form of what was already happening. Cities like New York and London experienced recurring resets with orphans as a control mechanism. War displacement and deliberate capture/re-education of indigenous children amplified the pattern. The Khmer Rouge's use of children as both victims and agents of genocide echoes an older template: the transformation of Earth toward a "communist utopia" mirrored after civilization on Mars.
 
 **Date:** 2026-03-05  

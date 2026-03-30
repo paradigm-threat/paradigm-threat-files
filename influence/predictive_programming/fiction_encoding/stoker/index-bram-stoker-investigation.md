@@ -1,7 +1,6 @@
 # Bram Stoker — Investigation
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Bram Stoker — Investigation: The epistolary form (letters, diaries, newspaper cuttings) reinforces this. Critically: the magic aspects of Dracula came from later films, not the book. The 1897 text has no bat, rat, mist, or wolf transformation. The Count does not change shape.
 **Author:** Abraham (Bram) Stoker (1847–1912)  
 **Primary work:** *Dracula* (1897)  
 **Scope:** Fiction vs. nonfiction framing, Eastern European sources, family lines in Dracula, downloadable works.

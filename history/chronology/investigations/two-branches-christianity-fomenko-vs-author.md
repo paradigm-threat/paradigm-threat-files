@@ -1,7 +1,5 @@
 # Two Branches of Christianity: Fomenko vs. Paradigm Threat
 
-> **TL;DR:** TODO
-
 This note **attributes claims correctly**. Anything not quoted from Fomenko/chronologia should not be attributed to him.
 
 ## What Fomenko (chronologia) describes

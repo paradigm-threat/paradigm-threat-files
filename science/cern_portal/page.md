@@ -1,6 +1,6 @@
 # CERN and Portal Technology — Investigation
 
-> **TL;DR:** TODO
+> **TL;DR:** Open investigation treating CERN’s LHC as a plausible aether-distortion or portal device: senior CERN “door / something might come through” quotes, extra-dimension reporting, Maxwell/aether context, and explicit project stance that literal portal language is primary-source signal.
 
 **Status:** Open  
 **Triggered by:** Content strategy; [The Suppression of Maxwell and the Aether](/timeline/evt-suppression-of-maxwell-and-the-aether) (13.06.00) raises the possibility that CERN's LHC could function as an aether-manipulation or portal device.

@@ -1,7 +1,6 @@
 # Gottfried Kinkel (1815–1882)
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Gottfried Kinkel (1815–1882): Kinkel studied theology at the University of Bonn and the University of Berlin, establishing himself as a Privatdozent (theology tutor) at Bonn in 1836. He briefly served as assistant preacher in Cologne. After a journey to Italy in 1837 shifted his interests, he abandoned theology for the history of art.
 **Johann Gottfried Kinkel** — German poet, art historian, professor, revolutionary, and political exile — was born on 11 August 1815 in Oberkassel (now part of Bonn) and died on 13 November 1882 in Zürich. His life traversed theology, art, armed revolution, imprisonment, dramatic escape, communist politics, exile, and personal tragedy.
 
 ---

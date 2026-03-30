@@ -1,7 +1,6 @@
 # Orson Scott Card — Enderverse Investigation Index
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Orson Scott Card — Enderverse Investigation Index: Card is not merely a novelist — he is a Mormon mythmaker. His Tales of Alvin Maker series is an explicit retelling of the Joseph Smith story. His Homecoming Saga retells the Book of Mormon.
 > Research index for the paradigm-threat-timeline project.
 > Focus: The Ender's Game series as **predictive programming** encoding real events leading up to and following the MFEE (Mars Flood Extinction Event).
 > Cross-reference: `wotw-mfee-mars-catastrophe.md`, `paradigm-threat-files/governance/war/page.md`, `paradigm-threat-files/history/mudflood/page.md`

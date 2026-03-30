@@ -1,7 +1,6 @@
 # Investigation: Blood rain, Passat dust, Dust Bowl, and large-scale ecological / atmospheric shocks (post–mud-flood oddities)
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Blood rain, Passat dust, Dust Bowl, and large-scale ecological / atmospheric shocks (post–mud-flood oddities): The heading matches a synopsis or translated abstract of work by Christian Gottfried Ehrenberg (1795–1876): “Regular winds” in the English title is the usual Victorian rendering of Passat (trade winds), not “ordinary” weather.
 ## Status
 
 **Open.** Assembles mainstream and alternate framings for **blood rain**, **continental dust** (trade-wind / aeolian), the **Dust Bowl**, and **Siberian-scale forest destruction**, with emphasis on how they might read alongside a **post–MFEE** ecological tail (see [Slow ecological collapse — MFEE through Donner era](/history/chronology/investigations/slow-ecological-collapse-mfee-through-donner-era.md)). This file does **not** assert that any one mechanism explains all cases; it traces sources and lists testable threads.

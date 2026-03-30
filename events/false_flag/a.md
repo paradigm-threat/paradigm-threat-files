@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** "Many events in recent and in long forgotten times occurred which have been written down by the authorities as historical events, while in fact these events where staged. They were staged on purpose to mislead the pubic to blame a patsy or a country for an attack which the patsy or country never committed. The culprits, or the once who gave the order were mostly the state itself.
 ## [The encyclopedia of False Flag staged operations](https://hofs.online/the-encyclopedia-of-false-flag-staged-operations/)
 
 ```

@@ -1,7 +1,6 @@
 # Investigation (speculative): Crystal Eggs, Mass Influence, and 1666 — *The Crystal Egg* as Cover Story?
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation (speculative): Crystal Eggs, Mass Influence, and 1666 — The Crystal Egg as Cover Story?: These are not sensational; they are the boring competing explanations the speculative thread must answer to or combine with: None of these requires crystal eggs. The speculative investigation asks whether something additional could still sit under or beside them.
 ## Status
 
 **Open.** This file records a line of inquiry only. It exists so the question can sit on the table without being mistaken for established chronology.

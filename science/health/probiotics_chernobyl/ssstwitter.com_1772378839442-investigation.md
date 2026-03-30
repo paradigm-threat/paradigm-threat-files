@@ -1,7 +1,6 @@
 # Investigation: David Straight's Chernobyl Probiotics Claims
 
-> **TL;DR:** TODO
-
+> **TL;DR:** David Straight's Chernobyl-probiotics narrative follows a common pattern in alternative health media: take a real but obscure scientific finding, repackage it with fabricated characters and embellished details, then use the veneer of "intelligence community insider knowledge" to sell it.
 > **Source:** `audio/ssstwitter.com_1772378839442.mp3` ([transcript](ssstwitter.com_1772378839442-transcript.md))
 > **Speaker identified:** David Lester Straight (April 20, 1963 – April 1, 2025)
 > **Investigated:** 2026-03-01

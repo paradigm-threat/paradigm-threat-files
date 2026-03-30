@@ -1,7 +1,6 @@
 # Investigation: Galen Winsor — “Nuclear Waste is Safe” (alternative framework)
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Galen Winsor — “Nuclear Waste is Safe” (alternative framework): Galen Winsor was a nuclear fuel processing specialist who worked at Hanford (1950–1975), Oak Ridge National Laboratories, GE's Midwest Fuel Recovery Plant in Morris, Illinois, GE's Fuel Fabrication Facility in San Jose and Wilmington, NC, and every major reactor decommissioning project in the US through the 1980s.
 **Spelling:** The person is standardly **Galen Winsor** (1926–2008). This file still uses *Windsor* in many internal lines because the working lecture transcript and older mirrors used that spelling; search both if grepping.
 
 ## Source Material

@@ -1,7 +1,6 @@
 # Asimov: Investigation Threads
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Asimov: Investigation Threads: Four investigative threads for close reading and index-building. These are prompts, not conclusions. Capture: Most Asimov tech (shields, nuclear guns) reads as unrealistic.
 Four investigative threads for close reading and index-building. These are prompts, not conclusions.
 
 ---

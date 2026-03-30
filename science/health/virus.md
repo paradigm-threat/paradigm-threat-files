@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** ![](/science/health/extimages/M_Bronchial_Mucosa_Intro_EN.jpg "::Click to enlarge this image") Biological ConflictConflict-Active PhaseHealing Phase ![](/science/health/extimages/M_Bronchial_Mucosa_Cortex_EN.jpg "::Click to enlarge this image")
 [![](/science/health/M_Bronchial_Mucosa_Intro_EN.jpg)](/science/health/extimages/M_Bronchial_Mucosa_Intro_EN.jpg "::Click to enlarge this image")
 
 [**Biological Conflict**](#Bronchial_Mucosa_BC)[**Conflict-Active Phase**](#Bronchial_Mucosa_CA)[**Healing Phase

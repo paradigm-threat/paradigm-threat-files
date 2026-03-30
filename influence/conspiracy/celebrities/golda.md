@@ -2,8 +2,7 @@
 
 ![Golda Meir investigation: British mandate, Operation Agatha, and Israel's creation](golda.png)
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Golda Meir: Investigation into Identity, British Orchestration, and Israel's Creation: Could Golda Meir have been born male and deployed by British intelligence to infiltrate the highest levels of phallocentric Jewish/Israeli society—a society so prude that Arab leaders would not look under her dress, and religious authorities would refuse to appoint any woman except the one the British had elevated by arresting all…
 ```
 Note: This investigation is a work in progress. Part of a broader inquiry into the exploitation 
 of LGBTQIA+ children—allowed to live as another gender until they become too popular or important, 

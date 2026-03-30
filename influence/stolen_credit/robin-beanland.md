@@ -1,7 +1,5 @@
 # Robin Beanland — Investigation
 
-> **TL;DR:** TODO
-
 **Status:** Investigating. Hypothesis: Beanland's role in Donkey Kong Country and Aquatic Ambience is under-explored; his presence on four-way copyright (with Wise, Fischer, Kaneoka) suggests significant contribution—yet public discourse centers on Wise.
 
 ---

@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** “If she knew me as I really am she would despise me, and certainly not aid or abet my evil designs. To veil their vices from the sight of the good is the only resource of those who are not blind and know themselves to be vicious.'
 ## Frankenstein Unmasked
 
 by Geri Roberts

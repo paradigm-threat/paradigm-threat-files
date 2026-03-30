@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Full plain-text dump of John Brandenburg’s *Death on Mars* (2015): a plasma physicist’s case that Mars once had an Earth-like biosphere and a humanoid civilization ended by massive nuclear-scale airbursts, with Cydonia structures and isotope readings offered as evidence and as a rationale for human follow-up.
 ===== OEBPS/htit.html =====
 
 

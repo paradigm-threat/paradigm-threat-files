@@ -1,7 +1,6 @@
 # Marie Curie, battlefield radiation, and post-war nuclear narrative (open investigation)
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Marie Curie, battlefield radiation, and post-war nuclear narrative (open investigation): Record a research thread: whether Marie Curie’s World War I work with ionizing radiation near wounded soldiers could be misremembered or flattened in official history; whether any therapeutic or hormetic dimension was later suppressed as states consolidated control over energy, weapons, and medical authority; and how that might…
 **Status:** **Open** Mainstream history is summarized first so speculative threads stay visible as a separate track. This note does not claim established fact where archives and biography disagree with the prompts below.
 
 ## Purpose

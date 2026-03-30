@@ -1,7 +1,6 @@
 # The Nintendo–Sony Breakup and the Birth of PlayStation
 
-> **TL;DR:** TODO
-
+> **TL;DR:** In the late 1980s and early 1990s, Nintendo partnered with Sony to develop a CD-ROM add-on for the Super Nintendo Entertainment System (SNES). The partnership collapsed dramatically in 1991 when Nintendo publicly announced a new partnership with Philips instead—one day after Sony had announced its collaboration with Nintendo at the Consumer Electronics Show (CES).
 **Source:** Investigation summary (user-provided). Integrated into stolen-credit corpus for FF7/Nintendo thesis.
 
 ---

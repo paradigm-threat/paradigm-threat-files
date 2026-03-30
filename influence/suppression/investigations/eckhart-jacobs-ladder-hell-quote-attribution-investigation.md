@@ -1,7 +1,6 @@
 # Investigation: The “Hell Burns Attachments” Lines — Eckhart, *Jacob’s Ladder*, and Misattribution
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: The “Hell Burns Attachments” Lines — Eckhart, Jacob’s Ladder, and Misattribution: Open. This file traces who actually wrote the passage often pasted online as Meister Eckhart, asks whether it could plausibly be his in light of the manuscript record, compares it to authentic Eckhart themes, and asks whether Pope John XXII’s condemnation (In agro dominico, 27 March 1329) was aimed at the same kind of…
 ## Status
 
 Open. This file traces **who actually wrote** the passage often pasted online as **Meister Eckhart**, asks whether it **could** plausibly be his in light of the manuscript record, compares it to **authentic Eckhart themes**, and asks whether **Pope John XXII’s** condemnation (*In agro dominico*, 27 March 1329) was aimed at the **same kind of meaning** the passage expresses—even though that meaning is **not** what the bull’s articles literally say.

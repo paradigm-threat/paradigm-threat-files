@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** THE LONE GUNMAN AS PROPHET: A Tribute to James Shelby Downard On November 22,1 963 I was sitting in my third grade classroom in a parochial Catholic school when Mother Superior entered the room. She told us to get up, get our bookbags and coats and go home, that President Kennedy had been shot and killed. My father picked me up and I kept staring at the people, trees and houses I saw through the car window.
 > "The ultimate purpose of that assassination was not political or economic, but sorcerous; 
 > for the control of the dreaming mind is the underlying motive in this entire scenario of lies, 
 > cruelty and degradation.  

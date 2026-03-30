@@ -1,7 +1,6 @@
 # Investigation: RMS Titanic (1912) — Timing, Alternative Narratives, and Aftermath
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: RMS Titanic (1912) — Timing, Alternative Narratives, and Aftermath: Ongoing. This file inventories mainstream chronology, widely circulated alternative and conspiracy narratives (including online folklore), and documented regulatory and cultural consequences. It asks how the sinking influenced events immediately after, without assuming any single narrative is proven.
 ## Status
 
 Ongoing. This file inventories **mainstream chronology**, **widely circulated alternative and conspiracy narratives** (including online folklore), and **documented regulatory and cultural consequences**. It asks how the sinking influenced events **immediately after**, without assuming any single narrative is proven.

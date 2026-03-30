@@ -1,7 +1,6 @@
 # Other Reference Texts — Index
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Other Reference Texts — Index: A collection of linked stories centered on a forbidden play called The King in Yellow. Anyone who reads the second act goes mad. The play functions as a memetic weapon — a text that seizes minds and overwrites personality.
 > Downloaded from Project Gutenberg. Public domain.
 
 ## Files

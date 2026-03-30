@@ -7,7 +7,7 @@ description: "The objective of this timeline is to compile an accessible alterna
 
 ![Tartarian neoclassical architecture exists world-wide](/history/chronology/tartaria/tartarian_structures.jpg?w=384)
 
-> **TL;DR:** TODO
+> **TL;DR:** Master hub for an alternate Earth timeline: chronology critics from Hardouin to Fomenko, Rus-Horde “Tartarian” world-empire imagery, Morozov/Velikovsky-style catastrophes, Saturnian cosmology and electric-universe physics, linked investigations, and embedded media.
 
 *This is evidence of a world-empire. The Rus-Horde 'Tartarian' Empire ruled over all continents between 12th and 18th centuries before its breakup in 1775.*
 

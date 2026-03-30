@@ -1,7 +1,6 @@
 # Investigation: Cargo Cults — Official History, Human Behavior, and 18th–19th Century / Manna Redaction
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Cargo Cults — Official History, Human Behavior, and 18th–19th Century / Manna Redaction: This investigation catalogues official and anthropological references to cargo cults (especially post–World War II plane drops), outlines the human behavior of cargo cults as spontaneous social reorganization around the receipt of cargo from above, and remains open to the possibility of cargo-cult-like behavior in…
 ## Status
 
 **Date:** 2026-03-16  

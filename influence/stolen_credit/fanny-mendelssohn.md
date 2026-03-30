@@ -1,7 +1,5 @@
 # Fanny Mendelssohn (Fanny Hensel) — Investigation
 
-> **TL;DR:** TODO
-
 **Status:** Documented. Six songs published under Felix's name; Easter Sonata misattributed to Felix for ~40 years. Pattern: brother's career prioritized; sister's work suppressed or appropriated.
 
 ---

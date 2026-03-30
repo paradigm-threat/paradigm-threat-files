@@ -1,7 +1,6 @@
 # Investigation: Validation of Jno Cook's Creation Date Claims
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Validation of Jno Cook's Creation Date Claims: Given that indigenous records worldwide were deliberately redacted by colonial and church institutions, the absence of a source online or in mainstream scholarship does not imply the source never existed or that a claim is wrong. We simply may not have access to it anymore.
 **Status:** In progress  
 **Source:** [paradigm-threat-files/history/chronology/page.md](https://github.com/clevertree/paradigm-threat-files/blob/master/history/chronology/page.md) (lines 105–120)  
 **Claim:** Different civilizations and sources had different dates of *Creation*; Jno Cook lists 11 examples.

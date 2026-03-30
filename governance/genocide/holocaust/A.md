@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Ukraine became a republic of the Soviet Union in 1922 and their agriculture became a major part of the Soviet economy. As Stalin took power he capitalized on Ukraine’s agricultural prosperity and created collective farms to spread grain and other products throughout the member nations. From 1932 to 1933, Stalin increased the quotas required by Ukrainian farmers and severely punished those who resisted.
 ## Was Holocaust really Holodomor #3?
 
 ```

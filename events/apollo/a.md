@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** "What the notoriously corrupt United States federal government is claiming is to have sent men to the moon in 1969, on the VERY FIRST attempt, even though right here on earth Mt.
 ## [A Funny Thing Happened on the Way to the Moon (Faked Moon Mission Documentary)](https://www.youtube.com/watch?v=xciCJfbTvE4)
 
 ```

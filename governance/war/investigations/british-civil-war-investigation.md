@@ -1,7 +1,6 @@
 # Investigation: British Civil War — Societized Consolidation and the Template for Western Governance
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: British Civil War — Societized Consolidation and the Template for Western Governance: Ongoing. This investigation examines the English/British Civil Wars (1642–1651) and Interregnum as a precursor to British imperial expansion and as the first major Western European experiment in societized consolidation of resources and political reorganization under meritocracy, plutocracy, particracy, and electoral…
 ## Status
 
 Ongoing. This investigation examines the English/British Civil Wars (1642–1651) and Interregnum as a precursor to British imperial expansion and as the first major Western European experiment in societized consolidation of resources and political reorganization under meritocracy, plutocracy, particracy, and electoral autocracy.

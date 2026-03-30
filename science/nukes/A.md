@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Ben Williams Presents: The Nuclear Scare Scam by GALEN WINSOR (1986) Galen Winsor is a nuclear physicist of renown who worked at, and helped design, nuclear power plants in Hanford, WA; Oak Ridge, TN; Morris, IL, San Jose, CA; Wilmington, NJ. Among his positions of expertise he was in charge of measuring and controlling the nuclear fuel inventory and storage.
 ## [The Nuclear Scam by Galen Winsor (1986)](https://www.youtube.com/watch?v=IVoKztKs6-E)
 
 ```

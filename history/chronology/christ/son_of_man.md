@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Christ never referred to himself as the 'Son of God'. Instead, he said all humans are "God's Children" - which itself dispelled any subtle notion that Christ was distinct from other humans. When the NT authors talked about the Son of God who was Sent into the World, they were referring to the Sun, of course, which had recently shown up to drive away the old gods (Planets) ending the golden age.
 Christ never referred to himself as the 'Son of God'. Instead, he said all humans are "God's Children" - which itself dispelled any subtle notion that Christ was distinct from other humans.
 When the NT authors talked about the Son of God who was Sent into the World, they were referring to the Sun, of course, which had recently shown up to drive away the old gods (Planets) ending the golden age.
 

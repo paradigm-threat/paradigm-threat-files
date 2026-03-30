@@ -1,7 +1,6 @@
 # Investigation (speculative): Fomenko’s Andronicus-Christ, *The Princess Bride*, and “Colossus” dialogue
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation (speculative): Fomenko’s Andronicus-Christ, The Princess Bride, and “Colossus” dialogue: In Chapter 2, §18 of How It Was in Reality, Fomenko and Nosovskiy title the section (in the site’s English) “105 reflections of Andronicus-Christ = Andrey Bogoliubsky” and state that chronicle biographies of Emperor Andronicus (Byzantine) and Great Russian Prince Andrey Bogoliubsky are, in their reading, the most…
 **Index:** [princess-bride/index.md](index.md) (folder TOC and links).
 
 ## Key findings (this investigation)

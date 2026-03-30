@@ -2,8 +2,7 @@
 
 ![Portrait of Johanna Kinkel](Johanna_Kinkel.jpg)
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Johanna Kinkel (1810–1858): Her tombstone was inscribed: Freiheit, Liebe und Dichtung — "Freedom, Love, and Poetry." Johanna Mockel was born to Catholic parents — her father, Peter Joseph Mockel, was a school teacher at the Bonner Lycée, and her mother Anna Maria initially encouraged her in domestic arts. By age 15, Johanna knew she wanted to be a musician.
 *Johanna Kinkel — public domain portrait via Wikimedia Commons*
 
 **Maria Johanna Kinkel** (née **Mockel**, formerly **Mathieux**) — German composer, pianist, music pedagogue, writer, salonnière, and revolutionary — was born on 8 July 1810 in Bonn and died on 15 November 1858 in London. She was one of the most productive women composers of the German Romantic era, a pioneer of women's rights, a political journalist, and the only significant representative of 19th-century Bonn dialect literature.

@@ -1,7 +1,6 @@
 # Dave Wise — Investigation
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Dave Wise — Investigation
 **Status:** Investigating. Hypothesis: Credit may have been stolen from Nintendo R&D; Wise may have been involved in sampling/QA but not composition; his solo output shows a sharp quality divide that suggests someone else wrote the beloved tracks.
 
 ---

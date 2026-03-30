@@ -1,7 +1,6 @@
 # Capcom — Mega Man Franchise & Stolen Credit
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Capcom's Mega Man franchise (1987–present) exhibits major inconsistencies: platform hopping (NES → SNES → PlayStation → retro NES-style), repeated composer churn, uncredited work (Kinuyo Yamashita on X3, Wily Wars), and reuse of material from original projects in later sequels. Traditionally, Mega Man should have stayed on NES.
 **Status:** Investigating. Thesis: Capcom betrayed Mega Man traditions by abandoning NES, firing original talent, reusing leftovers instead of commissioning fresh work, and crediting contractors over composers. Platform churn and composer turnover obscure institutional support and enable credit theft.
 
 ---

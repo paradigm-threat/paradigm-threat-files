@@ -1,7 +1,5 @@
 # Chaos and Creation
 
-> **TL;DR:** TODO
-
 **Author:** Alfred de Grazia  
 **Year:** 1981  
 **Series:** Quantavolution & Catastrophe  

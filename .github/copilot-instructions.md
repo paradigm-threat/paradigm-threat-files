@@ -19,7 +19,7 @@ The script inserts `> **TL;DR:** TODO` and skips **`blog/`** and **`docs/`** (an
 **Markup (option A):** single blockquote under the `#` title (or under a hero image if it sits directly below the title):
 
 ```markdown
-> **TL;DR:** TODO
+> **TL;DR:** One-sentence précis drawn only from the article body (subject-first; no “this article”).
 ```
 
 **Rules (when replacing TODO):**

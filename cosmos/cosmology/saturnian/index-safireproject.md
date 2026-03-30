@@ -1,7 +1,6 @@
 # SAFIRE Project — Site Index
 
-> **TL;DR:** TODO
-
+> **TL;DR:** SAFIRE Project — Site Index
 **Source:** https://www.safireproject.com/  
 **Archived:** `/home/ari/dev/wget/safireproject.com/www.safireproject.com/`  
 **Pages:** 15 HTML files · 359 images

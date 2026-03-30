@@ -1,7 +1,6 @@
 # Alfred de Grazia — Complete Works Index
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Alfred de Grazia — Complete Works Index: Alfred de Grazia was an American political scientist, publisher, and polymath who spent the second half of his career systematically rebuilding ancient history on catastrophist foundations. He holds degrees from the University of Chicago and served on the faculties of several major universities before directing his intellectual energy toward the catastrophist movement.
 **Born:** October 30, 1919 — **Died:** July 3, 2014  
 **Nationality:** American  
 **Fields:** Political science, quantavolution, catastrophism, ancient history, mythology  

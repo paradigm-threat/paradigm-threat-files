@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Recorded incursions from the other planet in our solar system with lots of humans - Mars - has been recorded in London, Spain, and America. They occurred roughly around the turn of the century in order to prepare these locations for WW1. The same event was necessary in the East Coast to prepare America for WW2. Tens of thousands of people fled the cities. Those who remained behind were gassed.
 **No one would have believed in the last years of the nineteenth century...**
 **that the twentieth century would label over 300 years of Mars Literature as 'Science Fiction'.**
 

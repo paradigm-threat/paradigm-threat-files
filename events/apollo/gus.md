@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** I height don Quixote, I live on peyote, marijuana, morphine and cocaine. I never know sadness, but only a madness that burns at the heart and the brain. I see each charwoman, ecstatic, inhuman, angelic, demonic, divine. Each wagon a dragon, each beer mug a flagon that brims with ambrosial wine.
 The Invisible Ships of NASA
 
 By Geri Roberts

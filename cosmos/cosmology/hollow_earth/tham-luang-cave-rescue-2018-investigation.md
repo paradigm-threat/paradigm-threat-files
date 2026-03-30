@@ -1,7 +1,6 @@
 # Investigation: Tham Luang Cave Rescue (2018) — Cover-up and Alternate Theories
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Tham Luang Cave Rescue (2018) — Cover-up and Alternate Theories: This investigation examines the 2018 rescue of 13 individuals (12 boys of the Wild Boars football team and their assistant coach) from Tham Luang Nang Non cave, Chiang Rai, Thailand.
 ## Status
 
 **Date:** 2026-03-16  

@@ -1,7 +1,6 @@
 # Rare & Nintendo R&D — Credit Theft Investigation
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Rare & Nintendo R&D — Credit Theft Investigation
 **Status:** Investigating. Thesis: Nintendo R&D created or heavily contributed to games published under Rare's name; Rare took credit; some games have no credits at all.
 
 ---

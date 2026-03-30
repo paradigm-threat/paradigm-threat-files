@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** By Dan L. Hardway © October 26, 2017 (Revised October 30, 2017) "As we go into the hysteria of a massive JFK document dump, there is one remarkably surviving document that has already been released that we should keep in mind – especially when reading news coverage of the documents scheduled for release under the JFK Records Collection Act.
 ## [The Plan for Countering Criticism](https://aarclibrary.org/what-were-they-hiding-and-what-should-we-look-for/)
 
 ```

@@ -1,7 +1,6 @@
 # Investigation: Gnosis vs Agnosticism — Theism, Atheism, and Post–Planet-God Religion
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Gnosis vs Agnosticism — Theism, Atheism, and Post–Planet-God Religion: There is no single Einstein-vs-Marx investigation in paradigm-threat-files; the pairing is useful as two faces of modern non‑gnosis:
 ## Summary
 
 **Thesis:** The familiar trichotomy **theist / atheist / agnostic** mis-sorts what actually changed after the age when **planetary bodies were visibly and operationally “gods”** — implicated in weather, lightning, year-length, and catastrophe. Once the system **stabilized into something like the present orbits** (this chronology: ~684 BCE and the end of the “Dark Ages” configuration), **direct, sky-readable causality thinned out**. People who **kept** cult, myth, and liturgy were no longer working from the same **operative knowledge** their forebears had when meteorology and religion were one observational discipline. In the vocabulary used here, they had slid from **gnosis** (knowing *how the sky behaved*) toward **faith-without-mechanism**: firm commitment, **okay with not knowing** the full picture — structurally parallel to philosophical **agnosticism** (unknowability or suspended knowledge) even when the believer still calls themselves a **theist**.

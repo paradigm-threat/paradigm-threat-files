@@ -1,7 +1,6 @@
 # Square / Final Fantasy — Battle System Lineage & Talent Exodus
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Square / Final Fantasy — Battle System Lineage & Talent Exodus
 **Status:** Investigating. Thesis: The Ayatollah revolution and changes in Iran contributed to Nasir Gebelli's removal from the franchise; thereafter the battle system's fate was split across FF5 (never released in US), FF Tactics (evolved traditional system), and FF12 (lost main architect to departure). Square has a history of losing core talent, repackaging engines, and being accused of betraying traditions with each release.
 
 ---

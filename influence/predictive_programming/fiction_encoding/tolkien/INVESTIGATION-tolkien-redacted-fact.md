@@ -1,7 +1,6 @@
 # Investigation: Tolkien's Fiction as Redacted Fact
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Tolkien's Fiction as Redacted Fact: J.R.R. Tolkien (1892–1973), a professional philologist specializing in Old English and Old Norse, constructed an elaborate body of fiction that he explicitly framed as translations of genuine ancient manuscripts.
 ## Thesis
 
 J.R.R. Tolkien (1892–1973), a professional philologist specializing in Old English and

@@ -1,7 +1,6 @@
 # Investigation: Radiocarbon Dating — Dogmatic Adoption and the Electrical Activity Problem
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Radiocarbon Dating — Dogmatic Adoption and the Electrical Activity Problem: Radiocarbon dating assumes a steady-state production of carbon-14 from cosmic rays. When an intense electrical discharge occurs (e.g., interplanetary plasma discharge, catastrophic lightning, or electrical fossilization events), the method cannot register this as a spike. Instead:
 ## Summary
 
 **Claim:** Radiocarbon dating was adopted dogmatically by the scientific community without adequate testing of its basic assumptions. The method cannot capture sharp increases in electrical activity — when intense electrical discharge occurs, it produces carbon that appears millions or billions of years old rather than showing a spike in the pattern. This fundamental flaw invalidates radiocarbon dating for catastrophic events involving electrical discharge, yet the method continues to be used uncritically as the primary means of establishing deep time chronologies.

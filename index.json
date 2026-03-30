@@ -132,7 +132,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-03-30T00:33:53Z"
+    "_updated": "2026-03-30T12:39:44Z"
   },
   "cosmos": {
     "cosmology": {
@@ -8353,6 +8353,18 @@
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAwAgCdASoQAAoABUB8JYgC7AEPBJ/QjMTGMAD+y1V6xQ/DuJ4fZvKMs4C32BkzaWzLb4KgLIDlSIEAAAA=",
         "_updated": "2025-12-24T12:59:08Z"
       },
+      "github-ban.png": {
+        "_width": 971,
+        "_height": 294,
+        "_lqip": "data:image/webp;base64,UklGRiwAAABXRUJQVlA4ICAAAABwAQCdASoQAAUABUB8JZwC7AFAAAD+76X03XUkN/ygAA==",
+        "_updated": "2026-03-30T12:51:22Z"
+      },
+      "github-ban2.png": {
+        "_width": 971,
+        "_height": 294,
+        "_lqip": "data:image/webp;base64,UklGRi4AAABXRUJQVlA4ICIAAAAwAQCdASoQAAUABUB8JZwAA3AA/vAEAlsqkKenSfD3hAAA",
+        "_updated": "2026-03-30T12:55:41Z"
+      },
       "google_censorship.jpg": {
         "_width": 631,
         "_height": 799,
@@ -8485,7 +8497,7 @@
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoPABAABUB8JaQAAudFrAAA/uf+VxJYgBDkgzNzH3PWm1gZpQx4AAAA",
         "_updated": "2025-12-24T12:59:08Z"
       },
-      "_count": 38
+      "_count": 40
     },
     "conspiracy": {
       "13_families.jpg": {
@@ -9602,11 +9614,11 @@
           },
           "swift-investigation-debate-rails-and-drift.md": {
             "_title": "Swift investigation \u2014 debate rails, drift, and sentiment (record)",
-            "_updated": "2026-03-30T12:39:06Z"
+            "_updated": "2026-03-30T12:47:23Z"
           },
           "swift-mars-giants-publication-stance.md": {
             "_title": "Swift \u2014 Mars, scale beings, and how *Gulliver* was sold to readers",
-            "_updated": "2026-03-30T12:39:05Z"
+            "_updated": "2026-03-30T12:48:37Z"
           },
           "swift-mars-giants-publication-stance.png": {
             "_width": 1536,
@@ -9955,7 +9967,7 @@
       },
       "_count": 2
     },
-    "_count": 310
+    "_count": 312
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
@@ -10864,6 +10876,6 @@
     },
     "_count": 153
   },
-  "_count": 1908,
-  "_version": "de04558"
+  "_count": 1910,
+  "_version": "28f645c"
 }

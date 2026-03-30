@@ -11,7 +11,7 @@ description: "Before the first memories of Earth"
 
 ![Conspiracy Book Stack](../../../influence/conspiracy/books.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
-> **TL;DR:** TODO
+> **TL;DR:** Long-form Q&A that rebuilds Earth history from first principles: official deep-time cosmology vs. electric Sun and Saturnian episodes, ancient testimony and cataclysms, redacted scripture and empire chronology, and Fomenko-style duplication—indexed for the timeline project.
 
 ```
 “History is a pack of lies about events that never happened told by people who weren’t there.”

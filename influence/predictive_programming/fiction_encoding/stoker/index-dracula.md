@@ -1,7 +1,6 @@
 # Dracula — Index
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Definitive vampire novel. Count Dracula travels from Transylvania to London; blood, contagion, aristocratic predation. Establishes modern vampire canon: stakes, crosses, daylight weakness. Victorian repression, fear of female sexuality.
 **Author:** Bram Stoker  
 **Published:** 1897  
 **Full text:** `Dracula _ der erste und beste Dracularoman der Weltliteratur -- *.pdf` (Bastei-Lübbe 1993, German) — in `~/dev/wget/stoker/` (copyright; not in repo)

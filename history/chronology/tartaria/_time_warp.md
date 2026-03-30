@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** As I was starting to write about the murder of Pope John Paul I, I realized there was a problem. A big problem. A problem at the core of ALL conspiracy study, or, as I prefer to call it, The Search for Truth. It is the problem of TIME.
 > Well I was walking down the street just a-having a think
 > When a snake of a guy gave me an evil wink
 > He shook-a me up, he took me by surprise

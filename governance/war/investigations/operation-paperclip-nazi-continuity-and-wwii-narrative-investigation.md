@@ -1,7 +1,6 @@
 # Investigation: Operation Paperclip, Nazi Continuity, and the WWII “Defeat” Narrative
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Operation Paperclip, Nazi Continuity, and the WWII “Defeat” Narrative: Mainstream history presents the Western Allies as having defeated National Socialism and then, as a footnote, recruited a few scientists under Operation Paperclip.
 ## Thesis
 
 Mainstream history presents the Western Allies as having **defeated** National Socialism and then, as a footnote, **recruited a few scientists** under Operation Paperclip. This investigation holds a contrasting frame: **Western strategic priorities after 1943–45 included extracting German war capacity before the Soviets could, shielding assets and personnel useful for the next phase of the Atlantic project, and—on the allegation layer—preserving ringleaders and ideology for later use.** Operation Paperclip is the **best-documented** wedge into that pattern; alongside it sit **Ratlines**, the **Gehlen Organisation** (precursor to West German intelligence aligned with the U.S.), **immunity deals** for Japanese biological warfare leadership, and a wider **“who reaches Berlin first”** race that looks less like “finishing the Nazis” and more like **securing them**.

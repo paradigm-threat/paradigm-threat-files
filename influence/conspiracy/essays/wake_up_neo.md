@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** If you are reading this article, you are Awake. And you have my heartiest congratulations on achieving a glimpse of the world as it really is. And my sincerest sympathy. The truth might set you free, but it will never make you happy the way you defined happiness when you were Asleep.
 <meta name="title" content="All Science is Suppressed/Redacted!" />
 <meta name="description" content="Though the mills of God grind slowly, yet they grind exceeding small; Though with patience He stands waiting, with exactness grinds He all.” />
 

@@ -1,7 +1,5 @@
 # Jeremy Soule — Investigation
 
-> **TL;DR:** TODO
-
 **Status:** Investigating. First-hand report of strict ghostwriter/companion-writer terms.
 
 ---

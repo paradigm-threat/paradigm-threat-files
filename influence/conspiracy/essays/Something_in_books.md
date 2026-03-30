@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Two years ago, before The Great Virus Hoax, I dragged a sack of clothes into the laundromat, stuffed them into a machine with detergent and then found a seat among the other patrons. There is a point to all this rambling. I need to set the stage, so please keep reading.
 ## There must be something in books
 ```
 There must be something in books, things we can’t imagine, 

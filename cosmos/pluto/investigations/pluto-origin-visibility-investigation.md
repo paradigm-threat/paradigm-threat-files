@@ -1,7 +1,6 @@
 # Investigation: Pluto — The Unseen Planet, Lost to Hell
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Pluto — The Unseen Planet, Lost to Hell: The primary investigation is whether Pluto—the unseen planet, never really seen in antiquity and at most felt or used as a metaphor for an unseen realm (e.g. Hel)—was systematically lost when the Church reframed all "unseen" realms as heaven or hell.
 ## Status
 
 **Date:** 2026-03-16  

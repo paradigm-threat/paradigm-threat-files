@@ -1,7 +1,5 @@
 # The Iron Age of Mars
 
-> **TL;DR:** TODO
-
 **Author:** Alfred de Grazia  
 **Year:** 2009  
 **Series:** Quantavolution & Catastrophe (Volume XVI — final volume)  

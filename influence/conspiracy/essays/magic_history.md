@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** After sixty years of studying mainstream, accepted history, I can tell you that the most interesting parts are the things it doesn't tell you Historians will say the same kind of thing over and over in their papers and books. This is called a narrative. This narrative will then be hammered into the ordinary, unsuspecting person via novels, magazines, movies and TV shows.
 > “...disbelief in magic can force a poor soul into believing in government and business....”
 >
 > ― Tom Robbins, Even Cowgirls Get the Blues

@@ -1,7 +1,6 @@
 # Investigation (speculative): Slow ecological collapse — MFEE through the Donner era
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation (speculative): Slow ecological collapse — MFEE through the Donner era: 4. Geographic wave (speculative): Collapse intensity might propagate rather than hit everywhere equally — for example eastward across Eurasia toward Western Europe and eastward across North America from the Pacific/coastal interior, leaving certain corridors as late high-stress pockets.
 ## Status
 
 **Open.** This file models a potential decades-long biological aftershock following the acute [MudFlood Energetic Event (MFEE)](/timeline/evt-the-mudflood-world-cataclysm) (~1774 CE anchor in this chronology). It is not offered as established fact; it organizes hypotheses, historical correlates, and testable questions.

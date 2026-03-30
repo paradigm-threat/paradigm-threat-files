@@ -1,7 +1,5 @@
 # The Disastrous Love Affair of Moon and Mars
 
-> **TL;DR:** TODO
-
 **Author:** Alfred de Grazia  
 **Year:** 1984  
 **Series:** Quantavolution & Catastrophe  

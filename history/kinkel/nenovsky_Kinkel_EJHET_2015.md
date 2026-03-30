@@ -1,7 +1,6 @@
 # Ivan Kinkel's (1883–1945) Theory of Economic Development
 
-> **TL;DR:** TODO
-
+> **TL;DR:** This paper presents and discusses the "Attempt at Constructing a New Theory of Economic Development and Cultural Cycles", published by the Bulgarian economist and sociologist of Russian origin, Ivan Kinkel (1883–1945) in 1921. Kinkel's theory, although unknown outside Bulgarian academic circles, carries a range of original ideas and new insights within the frame of the Schmollerprogramm.
 **Author:** Nikolay Nenov Nenovsky  
 **Published:** *The European Journal of the History of Economic Thought*, 2015, Vol. 22, No. 2, pp. 272–299  
 **DOI:** [10.1080/09672567.2013.792367](http://dx.doi.org/10.1080/09672567.2013.792367)  

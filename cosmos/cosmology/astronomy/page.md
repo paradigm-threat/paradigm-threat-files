@@ -1,6 +1,6 @@
 
 
-> **TL;DR:** TODO
+> **TL;DR:** Treats post–WW1 Big Bang cosmology as a successor “religion of science,” contrasts Kepler’s observable ellipses with Newton’s untenable action-at-a-distance and n-body problem, and argues the modern solar-system picture is institutionally simulated rather than empirically closed.
 
 <meta name="title" content="Astronomy: The Simulated Universe" />
 <meta name="description" content="During and after WW1, most of the world lost faith in centralized religion. The Church needed a new religion: the Religion of Science. Modern Astronomy was then designed around the Big Bang Theory with the motive to elevate their Old Testament Creator God now as the 'One Creator God of the Universe'." />

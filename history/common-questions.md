@@ -1,7 +1,6 @@
 # Common Questions About Alternate Chronology
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Common Questions About Alternate Chronology: PURPOSE: Generic Q&A sourced from internet discussions. Questions are anonymized, rewritten to summarize the argument, and answered using citations found within the paradigm-threat project repos. WORKFLOW: 1. FIND — Collect questions from online threads, comments, forums, etc. 2. ANONYMIZE — Remove all names.
 <!-- 
 ================================================================================
 PROCESS NOTES (for humans and agents)

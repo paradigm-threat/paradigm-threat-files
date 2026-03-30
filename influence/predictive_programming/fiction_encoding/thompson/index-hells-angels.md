@@ -1,7 +1,5 @@
 # Hell's Angels — Index and Government-Antagonistic Highlights
 
-> **TL;DR:** TODO
-
 **Author:** Hunter S. Thompson  
 **Published:** 1967 (Ballantine); our copy: General Books LLC reprint  
 **Full text:** `Hells-Angels.epub`

@@ -1,7 +1,5 @@
 # The Burning of Troy
 
-> **TL;DR:** TODO
-
 **Author:** Alfred de Grazia  
 **Year:** 1984  
 **Series:** Quantavolution & Catastrophe  

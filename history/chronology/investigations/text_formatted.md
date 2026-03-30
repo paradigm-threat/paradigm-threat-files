@@ -1,7 +1,6 @@
 # Die Offenbarung Johannis — Eine astronomisch-historische Untersuchung
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Die Offenbarung Johannis — Eine astronomisch-historische Untersuchung: Von dem Verfasser dieses Werkes sind früher erschienen: I. Periodische Systeme im Aufbau der Materie. Die Theorie der Entstehung der gegenwärtigen chemischen Elemente. 483 Seiten. 55 lithogra phierte Tafeln. Moskau 1907. Preis 3 R. 2. Die Grundlagen der qualitativen Analyse der mathematischen Physik. 402 Seiten. 22 Tafeln und 89 Bilder. 1908.
 **by Nikolaus Morosow** (1912) — *Stuttgart: Verlag von W. Spemann*
 
 ---

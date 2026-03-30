@@ -1,7 +1,6 @@
 # Investigation: Soviet Collapse — Western Orchestration, Media, and Post-WWII Isolation
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Soviet Collapse — Western Orchestration, Media, and Post-WWII Isolation: Ongoing. This investigation examines the collapse of the Soviet Union (1991) as largely orchestrated by the West through media, celebrity influence, espionage, and the long-term isolation of Russia after a pretended wartime alliance.
 ## Status
 
 Ongoing. This investigation examines the collapse of the Soviet Union (1991) as largely **orchestrated by the West** through media, celebrity influence, espionage, and the long-term isolation of Russia after a pretended wartime alliance. Mainstream scholarship attributes the collapse to internal factors (economic failure, nationalist movements, Gorbachev's reforms); this investigation documents the alternative thesis that external pressure and psychological operations played a decisive role.

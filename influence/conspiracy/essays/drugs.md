@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** One of the bad things about growing old is looking back over all the utterly, totally asinine things you used to say and do. And because you are old and people usually at least pretend to respect old age, they'll pretend to listen to you tell them about these things. Then they go off and say and do the exact same things you warned them about. And that's okay, because people have to learn things for themselves.
 > “you must stretch your own imagination, rouse yourself from mental lethargy, and be bold enough to discard old dogmatic comfort blankets.”
 >
 > ― Jane Roberts, The “Unknown” Reality, Volume Two

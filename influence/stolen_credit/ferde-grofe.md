@@ -1,7 +1,5 @@
 # Ferde Grofé — Rhapsody in Blue Orchestration
 
-> **TL;DR:** TODO
-
 **Status:** Documented. Grofé orchestrated Rhapsody in Blue; Gershwin provided two-piano score. The line between orchestration and composition is blurry—Grofé's choices shaped the work's sound. Officially credited as orchestrator; contributes to Gershwin/Swift investigation.
 
 ---

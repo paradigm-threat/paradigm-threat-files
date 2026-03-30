@@ -1,7 +1,6 @@
 # Nobuo Uematsu — Investigation
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Nobuo Uematsu — Investigation
 **Status:** Investigating. Hypothesis: Credit may have been stolen from Square/Nintendo in-house creators; post-Square output may reflect loss of institutional support.
 
 ---

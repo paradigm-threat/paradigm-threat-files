@@ -1,7 +1,6 @@
 # The Martians and Their Machines: A Technical Analysis
 
-> **TL;DR:** TODO
-
+> **TL;DR:** The Martians and Their Machines: A Technical Analysis: John E. Brandenburg's Death on Mars (2015) provides the physical explanation for WHY the Martians invaded Earth. Brandenburg, a plasma physicist trained at Lawrence Livermore and Sandia National Laboratories, documented isotopic evidence of two massive nuclear airbursts on Mars:
 *Based exclusively on details from H. G. Wells' The War of the Worlds (1898)*
 
 ---

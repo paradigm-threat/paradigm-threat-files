@@ -1,7 +1,5 @@
 # I, Robot — Clue Index for Timeline Investigation
 
-> **TL;DR:** TODO
-
 Index of passages in `Asimov-Isaac-I-Robot.pdf` relevant to the Paradigm Threat investigation. Page/line numbers refer to the PDF as read (148 "pages" in the source). Search the source for exact locations.
 
 **Source:** Isaac Asimov, *I, Robot* (1950), collection of stories originally published 1940–1950 in *Super Science Stories*, *Astounding Science Fiction*.
