@@ -1,6 +1,6 @@
 
 
-> **TL;DR:** TODO
+> **TL;DR:** Science-fiction / audio-drama concept set in Saturnian cosmology: a family chronicle from the Golden Age through rainbow “gates,” a journey to Mars (Jotunheim and emerald Atlantis), and wish-granting priesthood tech—War of the Worlds–style first-person myth.
 
 A science fiction story based on Saturnian Cosmology.
 

@@ -1,7 +1,6 @@
 # Remote Viewing / Remote Control in Fiction — Master Index
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Remote Viewing / Remote Control in Fiction — Master Index: Between 1871 and 1937, at least six major authors independently described the same technology: This is either: - (a) Independent artistic convergence on a compelling fictional idea, or - (b) Multiple authors drawing on the same source tradition (occult, Hermetic, Masonic), or - (c) Predictive programming — encoding real capability as fiction
 > Research index for the paradigm-threat-timeline project.
 > Focus: fiction that describes **remote viewing, remote control, scrying devices, mind transfer, and dimensional contact** — the same mechanism, appearing across multiple authors from 1871–1937.
 > Compare to: Wells' Crystal Egg, Tolkien's Palantíri, John Dee's obsidian mirror.

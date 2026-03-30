@@ -1,7 +1,6 @@
 # T.H. White, The Once and Future King: Saturnian Round Table Investigation
 
-> **TL;DR:** TODO
-
+> **TL;DR:** T.H. White, The Once and Future King: Saturnian Round Table Investigation: White wrote a Cambridge thesis on Malory and used Le Morte d'Arthur as his main source. Malory compiled French and English romances; the Round Table, Arthur, Lancelot, and Grail are all in Malory. White did not invent the structure—he retold it. The question is whether Malory's sources (and their precursors) preserve a cosmology.
 **Thesis:** White's Arthurian material—via Malory and the medieval tradition—may encode an ancient memory of the Dark Ages (c. 3067 BCE onward) when Jupiter, Mars, Venus, and Earth shared a "Round Table" nonlinear planetary configuration. The Round Table, King Arthur, Lancelot, and the Grail quest map onto Saturnian cosmology.
 
 ---

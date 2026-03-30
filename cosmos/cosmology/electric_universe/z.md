@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Every institute of learning, even down to high school and lower, should own a Ferrocell to educate, inspire, and enlighten future minds as to the fundamental forces of nature hidden within light and especially magnetism; which are governed by dielectric inertia both in whole and in part.
 ## [Uncovering	the	Missing	Secrets	of Magnetism](http://argos.vu/wp-content/uploads/2017/02/magnetism1small.pdf)
 
 ##### by: Ken Lee Wheeler (neoplatonist@icloud.com)

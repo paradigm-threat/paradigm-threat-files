@@ -1,7 +1,6 @@
 # Pregnant Mary Magdalene?
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Pregnant Mary Magdalene?: Saint Mary Magdalene is a controversial biblical character. For all the readers of Dan Brown’s books she is a woman whom Christ loved and who gave birth to His child. But the fact is that lots of the statements present in Brown’s fiction are impossible to accept from the point of view of the scientist. Anyway, Mary Magdalene was indeed a person of interest in Early-Christians’ discussions.
 - **Source:** <https://en.posztukiwania.pl/2014/07/22/pregnant-mary-magdalene/>
 - **Author:** Magdalena Łanuszka
 - **Date:** July 22, 2014

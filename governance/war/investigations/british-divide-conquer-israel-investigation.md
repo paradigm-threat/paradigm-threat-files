@@ -1,7 +1,6 @@
 # Investigation: British Empire Divide-and-Conquer — Israel, India/Pakistan, Africa, and the Deep State Hypothesis
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: British Empire Divide-and-Conquer — Israel, India/Pakistan, Africa, and the Deep State Hypothesis: This investigation examines the hypothesis that the British Empire (and other colonial powers) deliberately designed artificial divisions—religious, ethnic, and territorial—to fracture populations that were once unified.
 ## Thesis
 
 This investigation examines the hypothesis that the British Empire (and other colonial powers) deliberately designed artificial divisions—religious, ethnic, and territorial—to fracture populations that were once unified. The template: control printed religious texts, partition territory along manufactured lines, arm both sides, withdraw—leaving a permanently divided region where the departing power can "show up and play one side against the other" to reassert control. **Israel** is the paradigmatic case: a British project to divide religions that were once the same, using control over sacred texts (Bibles, Qurans) and the printing press. The pattern repeats in **India/Pakistan** (Hindu–Muslim partition), **Rwanda** (Tutsi–Hutu), and across Africa and the Middle East. The **conclusion**: these divide-and-conquer strategies were likely ordered from a remote location by the Deep State—not plans conceived and executed within the highest levels of British leadership alone. The British Empire was the instrument; the architect operated from elsewhere.

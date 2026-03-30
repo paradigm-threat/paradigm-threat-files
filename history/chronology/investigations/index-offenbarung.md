@@ -1,7 +1,5 @@
 # Die Offenbarung Johannis — English Index
 
-> **TL;DR:** TODO
-
 **Full title:** *Die Offenbarung Johannis: Eine astronomisch-historische Untersuchung*
 **Author:** Nikolaus Morosow
 **Published:** Stuttgart, 1912 (W. Spemann). German translation of the Russian original (1907).

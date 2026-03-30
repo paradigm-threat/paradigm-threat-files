@@ -1,7 +1,6 @@
 # C. S. Lewis Collection — Index
 
-> **TL;DR:** TODO
-
+> **TL;DR:** C. S. Lewis Collection — Index: Investigating evidence that C. S. Lewis encoded Saturnian / medieval planetary cosmology into his fiction — both explicitly (Space Trilogy) and implicitly (Chronicles of Narnia). Michael Ward's Planet Narnia (2008) demonstrated that each of the seven Narnia books corresponds to one of the seven medieval planets. This collection gathers the primary texts and analysis.
 > Downloaded from [Faded Page](https://www.fadedpage.com/) (public domain in Canada).
 > Part of the Paradigm Threat investigation into planetary cosmology encoding in literature.
 

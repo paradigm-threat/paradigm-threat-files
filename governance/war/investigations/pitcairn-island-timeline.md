@@ -1,7 +1,5 @@
 # Pitcairn Island — timeline of events
 
-> **TL;DR:** TODO
-
 **Companion:** [pitcairn-bounty-mutiny-sovereignty-and-narratives.md](./pitcairn-bounty-mutiny-sovereignty-and-narratives.md) (sources, law, narrative splits).
 
 Dates below mix **well-attested milestones** with items where **month/day or interpretation varies** in secondary sources; tighten against primary logs and Admiralty files as the investigation deepens.

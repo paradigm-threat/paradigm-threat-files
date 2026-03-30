@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** > "Who's that whisperin' in the trees? It's two sailors and they're on leave Pipes and chains and swingin' hands Who's your daddy? Yes I am" > "Who's That Whisperin' in the Trees?" The True Strangeness of the Zoot
 > "Who's that whisperin' in the trees?
 It's two sailors and they're on leave
 Pipes and chains and swingin' hands

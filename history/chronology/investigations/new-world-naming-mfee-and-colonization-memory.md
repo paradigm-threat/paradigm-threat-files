@@ -1,7 +1,6 @@
 # Investigation (speculative): “New World,” “new lands,” and post–mud-flood memory
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation (speculative): “New World,” “new lands,” and post–mud-flood memory: 4. 1492 voice vs. MFEE scale (compatible reading): Mundus Novus can be read as authored or sponsored from the viewpoint of those fleeing the 1492 apocalypse — the “our ancestors had no knowledge” line as their ruptured horizon (elite exodus, war, calendar shock), not as a neutral claim that no Old World society had ever known the…
 ## Status
 
 **Open.** This file asks whether the cluster of **“New …”** geography — *Mundus Novus* / the **New World**, later **New** Zealand, **New** Holland, **New** South Wales, **New** England, and parallel rhetoric of **empty** or **discoverable** territory — can be read **only** as conventional European expansion language, or whether it might **also** encode a **reformatted Earth** after the [MudFlood Energetic Event (MFEE)](/timeline/evt-the-mudflood-world-cataclysm) (~1774 CE in this chronology), with official history later **anchoring** the American “New World” to **15th–16th c. Columbus-era** migration (Ottoman pressure, Reconquista, expulsions) **instead of** to cataclysm and repopulation.

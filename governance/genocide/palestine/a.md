@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** While there has been recent criticism of those taking the position that Israel is committing genocide against Palestinians, there is a long history of human rights scholarship and legal analysis that supports the assertion.
 ## The Genocide of the Palestinian People: An International Law and Human Rights Perspective
 
 [August 25, 2016](https://ccrjustice.org/governance/genocide-palestinian-people-international-law-and-human-rights-perspective)

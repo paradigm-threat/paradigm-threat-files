@@ -1,7 +1,5 @@
 # Gershwin / Kay Swift — Investigation
 
-> **TL;DR:** TODO
-
 **Status:** Investigating. Hypothesis: Kay Swift (mentor, lover, collaborator) contributed substantially to Gershwin's credited works, especially Porgy and Bess, without formal credit.
 
 ---

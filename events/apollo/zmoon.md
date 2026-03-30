@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** http://SaturnianCosmology.Org/ For complete access to all the files of this collection see http://SaturnianCosmology.org/search.php There are currently three theories of the origin of the moon: 1) The Moon originated at the same time as the Earth, being formed substantially from the same material, aggregating and solidifying.
 http://SaturnianCosmology.Org/ 
 For complete access to all the files of this collection
 	see http://SaturnianCosmology.org/search.php 

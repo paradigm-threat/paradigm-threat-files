@@ -1,7 +1,6 @@
 # Investigation: "Nukes Don't Exist" — Alternative Framework Analysis
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: "Nukes Don't Exist" — Alternative Framework Analysis: This investigation proceeds from the following alternative framework:
 ## Source Material
 **File**: `nukes-dont-exist.mp4`  
 **Type**: Podcast/video (~8 minutes)  

@@ -1,7 +1,6 @@
 # Investigation: US Civil War — British Funding, Slavery as Instrument, and the DU Weapon Thesis
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: US Civil War — British Funding, Slavery as Instrument, and the DU Weapon Thesis: Ongoing. This investigation examines the US Civil War (1861–1865) through alternative lenses: British financial and material involvement, the use of poverty-stricken northern freed slaves as a recruiting base for the Union army, slavery as the instrument that waged the war rather than its cause, and the author's research…
 ## Status
 
 Ongoing. This investigation examines the US Civil War (1861–1865) through alternative lenses: British financial and material involvement, the use of poverty-stricken northern freed slaves as a recruiting base for the Union army, slavery as the **instrument** that waged the war rather than its cause, and the author's research on a possible DU (depleted uranium) weapon ending the conflict. These angles are documented for investigation; mainstream scholarship disagrees with several claims.

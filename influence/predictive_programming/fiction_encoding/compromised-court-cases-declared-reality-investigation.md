@@ -1,7 +1,6 @@
 # Compromised Court Cases and Declared Reality — Investigation
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Compromised Court Cases and Declared Reality — Investigation: If influences wish to keep something secret or steer narrative, winning is often quieter than losing: From the Case for the Appellant (Deeks' narrative): Macmillan editor Saul, upon receiving The Web, stated that "if a book of that kind was to be published and to have a large general circulation somebody else would have to be the author." He also took the…
 **Thesis:** Court cases — real and fictional — may be leveraged to steer the "declared reality" of our species. Mechanisms include: (1) declaring entire histories fiction and sources liars, (2) winning (or arranging) court outcomes as path of least resistance, (3) mass-publishing the victor's version of history. The early 20th century is particularly dense with such cases; compromise need not leave obvious traces — a clean legal victory can bury inquiry as effectively as suppression.
 
 ---

@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** As soon as I received your typescript sent to me by Steve, I read it, spending most of the day to do so. Under the first impression I wrote down a quite extensive evaluation; I also expressed my amazement atthe great effort you put into pursuing your theme and typed five single spaced pages without yet completing it; then I put it aside; several other tasks demanded my attention.
 January 29,1975
 
 Dear Dave:

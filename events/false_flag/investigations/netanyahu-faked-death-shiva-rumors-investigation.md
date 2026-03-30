@@ -1,7 +1,6 @@
 # Investigation: Would Netanyahu Want a Faked Death Here? — Motive, Timeline, and Iran Narrative
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Would Netanyahu Want a Faked Death Here? — Motive, Timeline, and Iran Narrative: Ongoing. This file focuses on one question only: how **plausible it is that Netanyahu would want to stage or adopt a faked death around the March 2026 rumor window—as a way to shed domestic political exposure after pushing his main strategic aims as far as he can, while preserving or improving the Iran / wartime…
 ## Status
 
 Ongoing. This file focuses on **one question only:** how **plausible it is that Netanyahu would *want*** to stage or adopt a **faked death** around the **March 2026** rumor window—**as a way to shed domestic political exposure** after pushing his main strategic aims as far as he can, while preserving or improving the **Iran / wartime narrative** if the truth ever leaked.

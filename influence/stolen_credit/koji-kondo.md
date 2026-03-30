@@ -1,7 +1,5 @@
 # Koji Kondo — Investigation
 
-> **TL;DR:** TODO
-
 **Status:** Investigating. Hypothesis: Kondo's legendary status may obscure institutional support; Nintendo's sound department and uncredited collaborators (Yukio Kaneoka, others) may have contributed more than public attribution suggests. Kondo's role has evolved from solo composer to music director—who does the actual composing now?
 
 ---

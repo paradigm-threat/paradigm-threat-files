@@ -1,7 +1,6 @@
 # Arthur Machen — Downloaded Texts Index
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Arthur Machen — Downloaded Texts Index
 > Downloaded from Project Gutenberg. Public domain.
 > Machen (1863–1947) was a key influence on Lovecraft. Welsh author, Golden Dawn member.
 

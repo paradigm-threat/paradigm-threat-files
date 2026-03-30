@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** plane'_ ation. Turns out Flying Fortresses have a heavy secret behind them... Imagine you're on a Jumbo Jet airplane and suddenly all the engines stop working, what happens next? Well .... the next thing that happens is that all these bags drop out of the ceiling, and you are ordered to put them on, and they make you calm within seconds or pass you out, depending on the switch hit and air-canister triggered.
 ## Secret Electro-Gravitic Thrusters exist in All Passenger and Cargo Jets
 
 ```

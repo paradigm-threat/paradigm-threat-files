@@ -1,7 +1,5 @@
 # The Playboy Interview — Hunter S. Thompson
 
-> **TL;DR:** TODO
-
 **Author:** Hunter S. Thompson (interview)  
 **Published:** 1974 (Playboy); our copy: 2012 edition  
 **Full text:** `Playboy-Interview.epub`

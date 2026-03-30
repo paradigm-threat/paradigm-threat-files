@@ -5,7 +5,7 @@ description: "Therefore, it is logical to conclude that the Great Wars of the 20
 
 ![WW2 Meme](/governance/war/ww2meme.jpg?w=800 '{"className":"rounded-md m-auto"}')
 
-> **TL;DR:** TODO
+> **TL;DR:** Argues Allied strategic bombing in WWII leaned on napalm, suppressed electro-gravitic or ZPE-capable aircraft, and institutional secrecy—including narratives about who actually flew—then traces the same pattern into passenger aviation, UFO cover stories, and endless postwar air war.
 
 ## World War II was won BY CHEATING using Child Pilots, Anti-gravity aircraft, and a whole lotta NAPALM
 

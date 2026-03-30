@@ -1,7 +1,6 @@
 # Death on Mars Book Analysis
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Death on Mars Book Analysis: Brandenburg concludes the explosions could not be: - Indigenous self-destruction: Why launch weapons into space to drop on yourself? - Natural reactor explosions: Would create deep craters, not airbursts - Random cosmic event: Two precisely targeted events on civilization centers
 **Author**: John E. Brandenburg, PhD (Lawrence Livermore, Sandia National Laboratories)  
 **Published**: 2015, Adventures Unlimited Press  
 **Analysis Date**: 2025

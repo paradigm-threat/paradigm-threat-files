@@ -1,7 +1,6 @@
 # Jules Verne Collection — Index
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Jules Verne Collection — Index: Investigating evidence that Jules Verne (1828–1905) described real, operational technology — weapons, propulsion, submarine engineering, anti-gravity physics, and lunar travel — decades before their "official" invention. The standard explanation ("he was a visionary") fails to account for the engineering precision of his descriptions.
 > Downloaded from [Project Gutenberg](https://www.gutenberg.org/) (public domain).
 > Part of the Paradigm Threat investigation into suppressed technology encoded in 19th-century adventure narrative — material often presented to contemporaries as feasible extrapolation and later re-shelved under *fiction*.
 

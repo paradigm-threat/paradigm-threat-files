@@ -1,7 +1,6 @@
 # Investigation (speculative): George R. R. Martin, *The World of Ice & Fire*, and the “fictional historian” pattern
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation (speculative): George R. R. Martin, The World of Ice & Fire, and the “fictional historian” pattern: A recurring gap in work that lines fiction up with “real life” is the timeline used for comparison. Most attempts default to received (Scaligerian) chronology.
 **Index:** [grrm/index.md](index.md).
 
 ## Status

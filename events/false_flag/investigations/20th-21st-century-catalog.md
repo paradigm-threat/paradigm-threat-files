@@ -1,7 +1,6 @@
 # False Flags: 20th–21st Century Catalog
 
-> **TL;DR:** TODO
-
+> **TL;DR:** False Flags: 20th–21st Century Catalog: Extended catalog of known, confirmed, and suspected false flag operations. Complements the Appendix: False Flags Investigation Evidence Dossier. Status key: Confirmed = declassified/official acknowledgement; Suspected = strong evidence, contested; Alleged = theory, unconfirmed.
 Extended catalog of known, confirmed, and suspected false flag operations. Complements the [Appendix: False Flags Investigation Evidence Dossier](/timeline/evt-false-flags-appendix). Status key: **Confirmed** = declassified/official acknowledgement; **Suspected** = strong evidence, contested; **Alleged** = theory, unconfirmed.
 
 ---

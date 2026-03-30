@@ -1,7 +1,5 @@
 # Youth — Clue Index for Timeline Investigation
 
-> **TL;DR:** TODO
-
 Index of passages in `youth.txt` relevant to the Paradigm Threat investigation. Line numbers are approximate; search the full text for exact locations.
 
 **Source:** Isaac Asimov, "Youth," 1955 (magazine publication). Often anthologized.

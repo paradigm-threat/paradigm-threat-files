@@ -1,7 +1,6 @@
 # The Lost Soviet Probiotic: How a Bulgarian Cancer Discovery Became a Cold War Secret
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Between 1905 and the collapse of the Soviet Union, a remarkable thread of scientific research connected Bulgarian yogurt culture, cancer immunotherapy, bioweapons defense, and radiation protection — all centered on a single bacterium: Lactobacillus delbrueckii subsp. bulgaricus.
 ## Summary
 
 Between 1905 and the collapse of the Soviet Union, a remarkable thread of scientific research connected Bulgarian yogurt culture, cancer immunotherapy, bioweapons defense, and radiation protection — all centered on a single bacterium: *Lactobacillus delbrueckii* subsp. *bulgaricus*. This research, conducted across Bulgaria, Russia, and Ukraine, produced genuine breakthroughs that were classified under Soviet state secrecy. When the USSR dissolved, the scientists who had spent decades developing these products found themselves in a fragmented post-Soviet landscape with no state funding. The technology eventually reached the West not as a pharmaceutical — but as a dietary supplement called Del-Immune V.

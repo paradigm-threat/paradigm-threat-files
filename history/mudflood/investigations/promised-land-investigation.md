@@ -1,7 +1,6 @@
 # Investigation: Deliverance to a Promised Land — 1492 BCE/CE, Europe, America, and the Final Promised Lands
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Deliverance to a Promised Land — 1492 BCE/CE, Europe, America, and the Final Promised Lands: This investigation examines the whole concept of deliverance to a promised land: the pattern by which a ruling or religious elite loses control (or loses the faith of the people), leaves in an exodus, and is delivered to a new territory that becomes the next promised land—with the date and narrative sometimes…
 ## Status
 
 **Date:** 2026-03-16  

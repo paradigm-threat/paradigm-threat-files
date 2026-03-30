@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** The Hollow Earth Theory was proposed by Edmund Halley in 1692. He made the claim that the Earth is a hollow shell some 500 miles thick with two concentric shells and an innermost core with an inner sun. He said that atmospheres separated these shells, that each shell had its own magnetic poles and all rotated at different speeds.
 ## History
 
 The Hollow Earth Theory was proposed by Edmund Halley in 1692.

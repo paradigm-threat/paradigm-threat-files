@@ -1,7 +1,6 @@
 # Algernon Blackwood — Downloaded Texts Index
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Algernon Blackwood — Downloaded Texts Index
 > Downloaded from Project Gutenberg. Public domain.
 > Blackwood (1869–1951) was quoted by Lovecraft as the greatest living weird fiction author.
 

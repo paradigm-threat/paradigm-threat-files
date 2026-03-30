@@ -1,7 +1,6 @@
 # Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan: Investigation into the potential for the Yakuza crime syndicate to function as a remote-controlled instrument of Western (chiefly British) interests in Japan.
 Investigation into the potential for the Yakuza crime syndicate to function as a remote-controlled instrument of Western (chiefly British) interests in Japan. Covers: Yakuza influence on Japanese media; the Nintendo–Sony CD-ROM "betrayal" and technology containment; assassination of Shinzo Abe; consolidation of power after natural disasters; ideological separation of youth and elderly; mockery of tradition. **Sponsored thesis:** The deep state deliberately consolidated 20th-century technology rollout in Japan to prevent its spread — analogous to the Taiwan chip situation — with the Yakuza as a key enforcement arm.
 
 ---

@@ -1,7 +1,6 @@
 # Rus-Horde echoes in English political and military vocabulary (open investigation)
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Rus-Horde echoes in English political and military vocabulary (open investigation): This note records a research thread: after large-scale chronology shift and imperial narrative collapse, could ordinary English still carry phonetic crumbs, calques, or post-hoc confusions involving Rus, Horde, Khan polities, and Roman auxiliary frames?
 **Status:** **Open / low confidence.** Mainstream etymology is given first so the speculative layer stays visible as a separate track. Nothing here is offered as established linguistic fact.
 
 ## Purpose

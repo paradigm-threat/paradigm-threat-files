@@ -1,7 +1,6 @@
 # H.P. Lovecraft — Complete Fiction Index
 
-> **TL;DR:** TODO
-
+> **TL;DR:** H.P. Lovecraft — Complete Fiction Index: Index for searching Lovecraft's fiction for predictive programming themes, especially: remote control / viewing from another world or plane — compare Wells' Crystal Egg, Tolkien's Palantír. These stories contain explicit mechanisms for perceiving, communicating with, or being controlled by entities from other worlds, dimensions, or time periods.
 > Downloaded from [hplovecraft.com](https://www.hplovecraft.com/writings/texts/).
 > All works public domain (Lovecraft died 1937). 104 fiction pieces + 2 essays.
 > Total fiction corpus: ~710,000 words.

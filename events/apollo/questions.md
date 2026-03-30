@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** It has been established beyond all reasonable doubt that the Moon is not what it appears; that it is not just another satellite orbiting a planet, Earth, but an entity which has thrown the minds of some of the greatest thinkers and scientific brains into a quandary and bewilderment unprecedented in the history of astronomy.
 It has been established beyond all reasonable doubt that the Moon is not
 what it appears; that it is not just another satellite orbiting a
 planet, Earth, but an entity which has thrown the minds of some of the

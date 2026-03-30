@@ -2,8 +2,7 @@
 
 ![Mars, lunar node, and Dow Jones correlation](mars-stock-market.png)
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Multiple researchers have documented statistical correlations between Mars orbital positions and Dow Jones performance since 1896. The primary source in this repository — Ares Le Mandat — hypothesizes that the Federal Reserve may set interest rates based on Mars movements.
 ## Summary
 
 Multiple researchers have documented statistical correlations between Mars orbital positions and Dow Jones performance since 1896. The primary source in this repository — *Ares Le Mandat* — hypothesizes that the Federal Reserve may set interest rates based on Mars movements. A provocative interpretive lens: if Mars position correlates with market behavior, are Martians trading? This investigation documents the claims, cites sources, and identifies verifiable data points. Interpretation remains open.

@@ -1,7 +1,6 @@
 # Hairy Mary – One More Time
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Hairy Mary – One More Time: A long time ago (over four years ago!) I wrote a post on the depictions of hirsute Mary Magdalene (available HERE). In the late Middle Ages artists often depicted Magdalene in the wildness, being lifted up by the angels, while her whole body is covered with hair.
 - **Source:** <https://en.posztukiwania.pl/2018/11/10/hairy-mary-one-more-time/>
 - **Author:** Magdalena Łanuszka
 - **Date:** November 10, 2018

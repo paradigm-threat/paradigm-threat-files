@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Any Catholic who was alive in the later half of the twentieth century and read anything at all about the Catholic Church knew who Thomas Merton was. He was a contemplative Trappist monk and a walking power-house of Christian spirit. He was probably responsible for more conversions to the Catholic faith and vocations than any other person in history.
 > "The very thoughts of a person like me are crimes against the state.  All I have to do is think, and immediately I become guilty."
 >
 > Thomas Merton

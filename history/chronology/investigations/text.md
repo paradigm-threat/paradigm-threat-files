@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Open research note; see headings and sources in file.
 --- Page 1 ---
 
 --- Page 2 ---

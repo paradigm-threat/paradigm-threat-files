@@ -1,7 +1,6 @@
 # Creation Event Interpretations Across Religions
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Creation Event Interpretations Across Religions: The local corpus already shows that "creation" is not a single shared concept across religions. In the downloaded texts, some traditions present: This matters for the timeline because any unified "creation event" entry risks flattening traditions that are actually making different claims.
 **Status:** Concluded  
 **Source set:** Local corpus in `/home/ari/dev/wget/holy-text/`  
 **Prompt:** Compare how the downloaded religious texts describe creation, the order of creation, and the appearance of the first man or first human pair, with special attention to eastern traditions.

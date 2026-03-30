@@ -1,7 +1,6 @@
 # White vs Excalibur: Sulphur + Mercury — Book vs Movie, Managed Disclosure?
 
-> **TL;DR:** TODO
-
+> **TL;DR:** White vs Excalibur: Sulphur + Mercury — Book vs Movie, Managed Disclosure?: This dialogue is not in White, not in Malory. It was added by the filmmakers. In medieval and early modern alchemy: The marriage of sulphur and mercury produces the Philosopher's Stone, which transmutes base metals to gold. This is standard alchemical doctrine from Arabic and Latin traditions.
 **Question:** Does T.H. White mention sulphur + mercury? The 1981 film *Excalibur* does. What differences exist? Why was this added? Managed disclosure for suppressed gold-transmutation knowledge?
 
 ---

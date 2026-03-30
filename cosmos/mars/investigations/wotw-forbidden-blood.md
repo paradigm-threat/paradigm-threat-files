@@ -1,7 +1,6 @@
 # The Forbidden Blood: Human Blood-Feeding as Discipline Collapse
 
-> **TL;DR:** TODO
-
+> **TL;DR:** The Martians were never ordered to feed on human blood. The feeding was forbidden — biologically suicidal and operationally catastrophic. What Wells describes is a workforce that achieved its initial military objectives, encountered an intoxicating indigenous substance, lost discipline, and consumed itself to death before completing its primary mission.
 *An analysis of the Martian blood-feeding in H.G. Wells' War of the Worlds — arguing that blood consumption was never an authorised mission protocol but a catastrophic breakdown of discipline that destroyed the entire operation.*
 
 > **Companion documents:**

@@ -1,7 +1,5 @@
 # Recollections of a Fallen Sky: Velikovsky and Cultural Amnesia
 
-> **TL;DR:** TODO
-
 **Editor:** E. R. Milton  
 **Contributors:** Alfred de Grazia and others  
 **Year:** 1974 (conference proceedings)  

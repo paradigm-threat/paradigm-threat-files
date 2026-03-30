@@ -1,7 +1,6 @@
 # Research: Three Tasks — Silmarillion Source Mapping, Heimskringla Euhemerism, Teutonic Mythology
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Research: Three Tasks — Silmarillion Source Mapping, Heimskringla Euhemerism, Teutonic Mythology: From the 1951 letter to Milton Waldman (lines 395–410 of the text file): The creation of the world through musical/vocal performance: The Valaquenta is structured identically to the Prose Edda's catalogue of gods in Gylfaginning, listing each deity's domain, spouse, and attributes.
 **Date:** 2026-03-02
 **Source files:** `silmarillion-full-text.txt`, `prose-edda-snorri.txt`, `heimskringla-norse-kings-sagas.txt`, `kalevala-finnish-epic.txt`, `teutonic-mythology-grimm-vol1.txt`
 

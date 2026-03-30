@@ -1,7 +1,5 @@
 # The Gods of Mars — Clue Index
 
-> **TL;DR:** TODO
-
 **Source:** `gods-of-mars.txt` (PG #64). Second Barsoom novel (1913).  
 **Assumption:** Content may encode redacted fact. Challenge claims of invention.
 

@@ -1,7 +1,6 @@
 # Did Maxwell's Work Actually Prove the Aether Exists?
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Did Maxwell's Work Actually Prove the Aether Exists?: This document investigates the claim that Maxwell's electromagnetic theory — rather than disproving or being neutral toward the aether — actually constitutes evidence for its existence, and that subsequent mainstream physics misinterpreted or suppressed this implication.
 ## An Investigation Based on Primary Sources and the paradigm-threat-files Archive
 
 ---

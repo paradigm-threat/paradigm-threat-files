@@ -1,7 +1,6 @@
 # Zur Frage der psychologischen Grundlagen und des Ursprungs der Religion — Index
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Lecture delivered 25 March 1921 at the Psychological Society of Sofia (translated from Bulgarian). Kinkel applies Freudian psychoanalysis to the origin and development of religion, arguing for a psychoanalytic sociology in which religious ideas and moods derive from universal infantile complexes.
 **Author:** Dr. Johann Kinkel (Ivan Kinkel)  
 **Published:** 1922 (Internationaler Psychoanalytischer Verlag, Leipzig–Wien–Zürich)  
 **Subtitle:** *Beitrag zum System der psychoanalytischen Soziologie*  

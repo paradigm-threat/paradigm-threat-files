@@ -1,7 +1,5 @@
 # Isaac Asimov: Biography and Context
 
-> **TL;DR:** TODO
-
 **Source:** Wikipedia, Britannica, NYT obit, Encyclopedia.com; cross-checked.
 
 ---

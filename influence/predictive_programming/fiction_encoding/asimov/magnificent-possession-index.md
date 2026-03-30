@@ -1,7 +1,5 @@
 # The Magnificent Possession — Clue Index for Timeline Investigation
 
-> **TL;DR:** TODO
-
 Index of passages in `magnificent-possession.txt` relevant to the Paradigm Threat investigation. Line numbers are approximate; search the full text for exact locations.
 
 **Source:** Isaac Asimov, "The Magnificent Possession," *Double Action Magazines* (Chicago, IL), 1940.

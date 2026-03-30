@@ -1,7 +1,6 @@
 # Pitcairn: Bounty mutiny narratives, sovereignty, and modern law
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Pitcairn: Bounty mutiny narratives, sovereignty, and modern law: Pitcairn is a British Overseas Territory (BOT). Even with ~40 residents, the territory matters for: So “why a tiny island” is answerable in conventional state terms: it is not empty ocean; it is UK title plus waters. That does not by itself prove or disprove any particular prosecution.
 **Scope:** Compare conflicting story-lines about the *Bounty* mutiny and Pitcairn settlement; map **documented** UK–Pitcairn legal relations; separate **geopolitical incentives** from **criminal trials** without assuming either side of a case is “only narrative.” **Final synthesis:** §11 (end of file).
 
 **Local corpus:** `~/dev/wget/pitcairn/` (indexed in `INDEX.md` there).

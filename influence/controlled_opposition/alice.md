@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Controlled Opposition: Alice in Conspiracy Land If It Sounds Too Good To Be True--It Is. I'm going to tell you a story. It is absolutely true but of course you have no way of knowing that for sure; and that is a good way to think about what you read and hear--trust no one. Sprinkle it all with a huge helping of salt. Run everything through your own inner Truth Detector but be willing to change your mind later on.
 ```
 “Trust starts with truth and ends with truth.”
 ― Santosh Kalwar

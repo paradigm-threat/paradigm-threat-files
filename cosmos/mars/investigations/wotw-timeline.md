@@ -1,7 +1,6 @@
 # War of the Worlds: Technical Timeline
 
-> **TL;DR:** TODO
-
+> **TL;DR:** War of the Worlds: Technical Timeline: The Martians already had fighting-machines that could stride 100 feet tall at express-train speed. They had the Heat-Ray and Black Smoke. They had total military dominance over Earth. Not for combat — they didn't need it. Not for colonization — they weren't settling. The flying-machine was being built to leave. It was their ticket home. And they died before they could use it.
 *Day-by-day reconstruction of Martian operations, based exclusively on H. G. Wells' text, cross-referenced with "The Crystal Egg" (1897) and "The Things that Live on Mars" (1908). Story-driven human drama is omitted. Focus: Martian technical activity, machine deployments, weapons usage, strategic movements, and operational patterns.*
 
 > **Companion documents:**

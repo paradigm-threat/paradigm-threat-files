@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** All technological advances in Human History have coincided with acts of war. 1914 saw both the makings of a World War and the advent of small bombers like the Voisin III which was capable of carrying up to 60kg of bombs. 1938 saw the introduction of massive air ships like the Boeing B-17 Flying Fortress leading up to World War II. There is no doubt that both wars were decided in the air, not on the ground.
 All [technological advances](https://sites.google.com/a/umn.edu/historpedia/home/science-technology/developments-in-airplanes-between-world-war-one-and-world-war-two-fall-2012)
 in Human History have coincided with acts of war. 1914 saw both the makings of a World War and the advent of small
 bombers like the [Voisin III](https://www.historyhit.com/18-key-bomber-aircraft-from-world-war-one/) which was capable

@@ -1,7 +1,5 @@
 # A Fire Not Blown
 
-> **TL;DR:** TODO
-
 **Author:** Alfred de Grazia  
 **Year:** c. 1984  
 **Series:** Quantavolution & Catastrophe  

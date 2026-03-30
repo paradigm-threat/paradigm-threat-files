@@ -1,7 +1,6 @@
 # Tartarian Maps Investigation — Forbidden Maps, Disclosure, and Downloads
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation into old maps of Tartary, Russian "disclosure" of forbidden maps, and systematic download of Tartarian map assets and related articles.
 **Status:** Active  
 **Related:** [MFEE investigation](mfee-investigation.md) | [Chronologia index](../chronology/index-chronologia.md)
 

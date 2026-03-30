@@ -1,7 +1,5 @@
 # KA: A Handbook of Mythology, Sacred Practices, Electrical Phenomena, and Their Linguistic Connections in the Ancient Mediterranean World
 
-> **TL;DR:** TODO
-
 **Author:** H. Crosthwaite  
 **Introduction by:** Alfred de Grazia  
 **Year:** c. 1983  

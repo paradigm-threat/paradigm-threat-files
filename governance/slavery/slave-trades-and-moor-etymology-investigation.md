@@ -1,7 +1,6 @@
 # Slave Trades of Earth History & Moor Etymology
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Slave Trades of Earth History & Moor Etymology: The paradigm-threat timeline treats the fracture of the Hordian Empire as the pivotal event of the early 17th century (Romanov Seizure, Deep State breaks up the Hordian Empire).
 **Status:** Active  
 **Date:** 2026-03-07  
 **Focus:** African slave trade, white (European) slave history, Moor involvement in slavery, and the etymology of "Moor"—including the hypothesis that "Moorish" was perceived as "People of Death" (Latin *mor*) due to slave-trading.

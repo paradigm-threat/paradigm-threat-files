@@ -1,7 +1,5 @@
 # The Great Shark Hunt — Index and Government-Antagonistic Highlights
 
-> **TL;DR:** TODO
-
 **Author:** Hunter S. Thompson  
 **Published:** 1979 (Gonzo Papers, Vol. 1); our copy: Simon & Schuster 2003  
 **Full text:** `Great-Shark-Hunt.epub`

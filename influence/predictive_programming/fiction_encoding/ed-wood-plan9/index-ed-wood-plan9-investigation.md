@@ -2,8 +2,7 @@
 
 ![Plan 9: zombie apocalypse as alien instrument](ed-wood-plan9.png)
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Ed Wood and Plan 9 from Outer Space — Investigation: The plot encodes, with unusual specificity: The mainstream view: filmmakers create what audiences want—profit-driven popular media, science fiction narratives, action flicks. The predictive-programming thesis: certain productions are funded to propagate specific plot points, regardless of audience demand or artistic merit.
 **Scope:** Predictive programming funding thesis; controlled opposition; inversion of creative process; zombie-apocalypse-as-alien-takeover encoding.  
 **Cross-ref:** [Zombie genre](../zombies/index-zombie-genre-investigation.md) | [Predictive programming page](../page.md) | [Fiction as control](https://paradigmthreat.net/timeline/evt-predictive-programming)
 

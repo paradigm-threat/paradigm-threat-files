@@ -1,7 +1,6 @@
 # The Massacre of Mankind (2017) — Reference
 
-> **TL;DR:** TODO
-
+> **TL;DR:** The Massacre of Mankind (2017) — Reference: Baxter also wrote The Time Ships (1995), an authorised sequel to Wells's The Time Machine. The novel widens beyond London. Vignettes depict Martian attacks in: - New York City - Melbourne - Berlin - Los Angeles - Constantinople - Durban (South Africa) - St. Petersburg
 **Stephen Baxter** | Authorised sequel to H.G. Wells's *The War of the Worlds* | Orion Books / Gollancz
 
 > *Not in this collection* — published 2017, under copyright. Reference document only.

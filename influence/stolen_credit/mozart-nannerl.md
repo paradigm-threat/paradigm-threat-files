@@ -1,7 +1,5 @@
 # Mozart / Nannerl (Maria Anna Mozart) — Investigation
 
-> **TL;DR:** TODO
-
 **Status:** Investigating. Hypothesis: Wolfgang's sister Nannerl composed works attributed to him; her manuscripts were lost, destroyed, or appropriated.
 
 ---

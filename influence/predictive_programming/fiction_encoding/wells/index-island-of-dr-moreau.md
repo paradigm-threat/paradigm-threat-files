@@ -1,7 +1,6 @@
 # The Island of Dr. Moreau (1896) — Index & Investigation
 
-> **TL;DR:** TODO
-
+> **TL;DR:** The Island of Dr. Moreau (1896) — Index & Investigation: Edward Prendick, survivor of the Lady Vain shipwreck, is rescued by the Ipecacuanha and taken to Noble's Isle. There he discovers Dr. Moreau, an exiled vivisectionist, and Montgomery, his assistant. Moreau transforms animals into humanoid "Beast Folk" through surgery and hypnotic conditioning.
 **H.G. Wells** | `the-island-of-dr-moreau.mobi` | Anna's Archive (Signet Classics)
 
 ---

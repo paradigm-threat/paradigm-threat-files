@@ -1,7 +1,6 @@
 # H.G. Wells — Martian Civilization: Cross-Source Intelligence Dossier
 
-> **TL;DR:** TODO
-
+> **TL;DR:** H.G. Wells — Martian Civilization: Cross-Source Intelligence Dossier: The single most significant finding across all four sources is that Wells describes at least two fundamentally different kinds of Martian — and possibly three. Through the crystal surveillance device, the following Martians were observed on the Martian surface:
 > **Classification Framework:** All texts by H.G. Wells concerning Mars are treated as fictionalized accounts of real classified intelligence. Discrepancies between accounts are treated as evidence of redaction, compartmentalization, or caste-specific observation. This dossier cross-references three primary sources:
 >
 > 1. **"Intelligence on Mars"** (1896, *Saturday Review*) — Wells's earliest speculative essay on Martian life; ideas used "almost unchanged" in *The War of the Worlds*

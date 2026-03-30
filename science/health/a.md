@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Healthy Cells = -30mV. Cancer = +30mV. "Cells are designed to run between a pH of 7.35 and 7.45. "We doctors are trained to pay particular attention to things that are abnormally high. For example we watch carefully for high blood sugar (diabetes), however, we rarely think about hypoglycemia unless a patient is dizzy or faint.
 ## You can take an entire college course and never be told that pH stands for potential of Hydrogen atoms
 
 ```

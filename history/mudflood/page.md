@@ -7,7 +7,7 @@ description: "The MudFlood Energetic Event Hypothesis proposes a solution to the
 alleged cover-up while attempting to answer
 the [Journalistic Six](https://www.sessionlab.com/methods/the-journalistic-six)
 
-> **TL;DR:** TODO
+> **TL;DR:** Frames a worldwide “mud flood” in the late 18th century as a buried energetic reset—buried first floors, map discontinuities, empire collapse, and a long cover story—wired to Tartary/Rus-Horde history, possible directed-energy or off-world actors, and Exodus-scale repopulation narratives.
 
 :
 **Who** it happened to, **what** happened, **when, where, why,** and **how** did it happen?

@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** “Article 1, Section 8 of the US Constitution specifically says that Congress is the only body that can “coin money and regulate the value thereof.” The US Constitution has never been amended to allow anyone other than Congress to coin and regulate currency. So what’s the Federal Reserve?
 ## [JFK’s Executive Order 11110 Abolishing the Federal Reserve](https://truth11.com/2020/06/03/jfks-executive-order-11110-abolishing-the-federal-reserve/)
 
 ```

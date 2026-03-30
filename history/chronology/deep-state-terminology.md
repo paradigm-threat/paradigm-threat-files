@@ -1,7 +1,5 @@
 # Deep State / Pyramidal Empire / Fallen Atlantean Empire — terminology
 
-> **TL;DR:** TODO
-
 This document tracks **which label** the chronology uses for the same continuity of priest-class control at different epochs. It is the editorial source of truth for `history/chronology/page.md`, cross-links from investigations, and timeline appendices.
 
 **Related:** Timeline `docs/CONTENT_STRATEGY.md` (recurring concepts — link canonical definitions from first use in `content/`).

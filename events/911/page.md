@@ -1,7 +1,5 @@
 
 
-> **TL;DR:** TODO
-
 ## 9/11 Was an Inside Job by 'Good' Actors
 
 <figure className="sm:float-right clear-right m-auto sm:m-1 sm:ml-4 sm:max-w-sm [&>video]:rounded-md">

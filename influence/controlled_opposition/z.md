@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Does Assange, or those who care about his interests, know he is part of chambers working for the U.S. government? "I am going to go out on a limb here as some, or many of the names on this list are going to suprise, and challenge some people - nonetheless please allow me to add some context. I encourage you to do further research and to keep asking questions."
 ### Examples of Controlled Opposition
 
 [Does Assange, or those who care about his interests, know he is part of chambers working for the U.S. government?](https://off-guardian.org/2019/11/08/assange-lawyers-links-to-us-govt-bill-browder-raises-questions/)

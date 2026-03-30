@@ -1,7 +1,6 @@
 # Golden Age Additions Report
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Golden Age Additions Report: Cross-links: Talbott, Cook, Thornhill, Cardona author profiles. If the summary table should mirror the documentary more closely, additional rows could be split out (still without BCE dates unless Cook supplies them):
 **Last updated:** 2026-03-22  
 **Source:** Scan of wget (ifiseeu, talbott, saturniancosmology), paradigm-threat-timeline chapters, paradigm-threat-files
 

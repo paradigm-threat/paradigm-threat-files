@@ -1,7 +1,6 @@
 # Investigation: Flat Earth — History, Myth, and Misinterpretation
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Flat Earth — History, Myth, and Misinterpretation: Related material in this repo: co.md (controlled opposition / PSYOP angle), history/chronology, history/mudflood, cosmos/mars. The story you were taught in school has no medieval basis. It was invented and spread in the 19th century:
 ## Status
 
 **Date:** 2026-03-16  

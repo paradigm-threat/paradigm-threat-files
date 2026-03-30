@@ -1,7 +1,6 @@
 # Investigation: C. S. Lewis and Saturnian / Planetary Cosmology Encoding
 
-> **TL;DR:** TODO
-
+> **TL;DR:** C. S. Lewis demonstrably encoded the seven medieval planets (Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn) into his literary works at multiple levels: explicitly in the Space Trilogy, subtly in the Chronicles of Narnia, and academically in The Discarded Image. The question is whether this encoding runs deeper than previously recognized — in particular, whether the very name NARNIA is a planetary acrostic.
 ## Summary
 
 C. S. Lewis demonstrably encoded the seven medieval planets (Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn) into his literary works at multiple levels: explicitly in the Space Trilogy, subtly in the Chronicles of Narnia, and academically in *The Discarded Image*. The question is whether this encoding runs deeper than previously recognized — in particular, whether the very name **NARNIA** is a planetary acrostic.

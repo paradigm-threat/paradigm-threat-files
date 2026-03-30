@@ -5,7 +5,7 @@ description: "The MudFlood Energetic Event Hypothesis proposes a solution to the
 
 # This section only contains MudFlood scratch notes and is still being worked on
 
-> **TL;DR:** TODO
+> **TL;DR:** Working scratch pad for the MudFlood energetic-event hypothesis—bullet lists, URLs, and prompts on terrain, architecture, cargo cults, and directed-energy echoes—not a finished narrative.
 
 ## After the MF
 

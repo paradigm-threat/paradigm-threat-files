@@ -1,7 +1,6 @@
 # Investigation: Weather Modification — From Cloud Seeding to Ionospheric Heaters
 
-> **TL;DR:** TODO
-
+> **TL;DR:** This investigation compiles the documented history of deliberate weather modification programs, the electromagnetic infrastructure that enables them, and the governance implications of controlling a planet's weather.
 ## Overview
 
 This investigation compiles the documented history of deliberate weather modification programs, the electromagnetic infrastructure that enables them, and the governance implications of controlling a planet's weather. It connects the public record to the alternative framework proposed in the timeline's weather control article, specifically the thesis that atmospheric electromagnetic manipulation was reverse-engineered from Martian technology via Operation Paperclip.

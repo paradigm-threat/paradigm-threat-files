@@ -1,7 +1,6 @@
 # The Palantíri: Tolkien's Seeing-Stones — Analysis
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Tolkien's Palantíri (Seeing-stones) are a network of scrying devices that connect remote locations across Middle-earth. The text explicitly describes them as the primary instrument by which Sauron networks and controls activity in the West. Themes of kingdom-level control and leader subversion are central.
 **Source:** *The Lord of the Rings* (lotr-full-text.txt), *The Silmarillion* (silmarillion-full-text.txt), Tolkien wget collection  
 **Date:** 2026-03-04
 

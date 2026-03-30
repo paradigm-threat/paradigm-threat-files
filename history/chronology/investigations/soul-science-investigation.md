@@ -1,7 +1,6 @@
 # Investigation: History of Soul Science — From First References to the Mind as Replacement
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: History of Soul Science — From First References to the Mind as Replacement: The concept of the soul has a long history of philosophical and scientific claim-making.
 ## Thesis
 
 The concept of the soul has a long history of philosophical and scientific claim-making. This investigation traces: (1) the **first references** to the soul in recorded history and which philosophers or scientists asserted its existence or denial over time; (2) the **Reformation** as a pivotal period when belief in the soul began to decline in the West; (3) the **emergence of the hypothetical "mind"** as a secular replacement when the soul was increasingly dismissed as fantasy; and (4) the **containment thesis**: that the process of Reformation-era and post-Reformation Western thought — pinning the soul concept as fantasy — functioned as yet another mechanism to contain Russian literature and Eastern Orthodox thought, which continued to treat the soul (*dusha*) as central.

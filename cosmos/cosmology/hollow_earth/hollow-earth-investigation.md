@@ -1,7 +1,6 @@
 # Investigation: Hollow Earth — Sources, Maps, Books, and Atlantis
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Investigation: Hollow Earth — Sources, Maps, Books, and Atlantis: This investigation catalogues sources of Hollow Earth theory, origins of maps, books (especially pre-1940 non-fiction for deep study), controlled opposition (e.g.
 ## Status
 
 **Date:** 2026-03-16  

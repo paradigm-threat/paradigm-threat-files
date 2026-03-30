@@ -1,7 +1,6 @@
 # The War of the Worlds
 
-> **TL;DR:** TODO
-
+> **TL;DR:** The War of the Worlds: No one would have believed, in the last years of the nineteenth century, that human affairs Were being watched keenly and closely by intelligences greater than man's and yet as mortal as his own ; that as men busied themselves about their affairs they were scrutinized and studied, perhaps almost as narrowly as a man with a microscope might scrutinize the transient creatures that swarm and…
 *H. G. Wells*  
 *First published 1898*
 

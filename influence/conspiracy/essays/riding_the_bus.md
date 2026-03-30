@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** "My photo of Bigfoot is a different story." I have to begin this article with a picture of Prince Harry and Meghan Markle I noticed around the time of their engagement. The two were standing up on some kind of platform or porch, smiling and looking down upon a crowd of admirers.
 ## Riding the Bus With Bigfoot
 
 

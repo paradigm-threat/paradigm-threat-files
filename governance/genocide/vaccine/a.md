@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** In developing countries, the Bill & Melinda Gates Foundation represents “Deep State” banking and drug industry interests. They focus on undermining people’s health and well-being, effectively enslaving people to drugs, crisis capitalism, and war commerce. People cannot lift themselves out of hunger and extreme poverty under these impositions.
 ## [ENSURE MORE CHILDREN SURVIVE AND THRIVE! BOYCOTT VACCINES!](https://exposingvaccinegenocide.org/)
 
 ```

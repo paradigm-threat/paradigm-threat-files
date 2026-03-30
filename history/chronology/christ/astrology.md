@@ -1,7 +1,6 @@
 
 
-> **TL;DR:** TODO
-
+> **TL;DR:** The Biblical Jesus Christ is a combination of an Astrological Allegory for the new Lord - our Sun combined with the story of human Andronicus Christ of the Crimea In ancient times people were very familiar with the Sun and the stars. At night, they had nothing better to do than gaze up at the stars. They didn't conquer darkness with the flip of a light switch like we do nowadays.
 <meta name="title" content="The Biblical Jesus Christ is a combination of the new Lord - our Sun, and the human Andronicus Christ" />
 <meta name="description" content="The Biblical Jesus Christ is a combination of an Astrological Allegory for the new Lord - our Sun combined with the story of human Andronicus Christ of the Crimea" />
 <meta property="og:image" content="/christ/christ_is_the_sun7.jpg" />

@@ -1,7 +1,6 @@
 # Artificial Intelligence: Control and Predictive Programming Investigation
 
-> **TL;DR:** TODO
-
+> **TL;DR:** Artificial Intelligence: Control and Predictive Programming Investigation: Investigation into artificial intelligence as predictive programming, deliberate software degradation, and deep-state endgame.
 Investigation into artificial intelligence as predictive programming, deliberate software degradation, and deep-state endgame. Covers: AI in film and fiction (robots as slaves, vanity, self-awareness, turn against humans); deliberate bad software by Microsoft and Apple; the thesis that software was made intentionally difficult and broken so that only AI could use it correctly; AI chip consolidation and China's inability to reproduce; the "ghost in the machine" as metaphor for deep-state hijacking of all AI; voice-command dependency and ultimate remote control of technology, government, and militaries.
 
 **Sponsored thesis:** AI was never meant to be a tool for everyone. It was always designed to subsume and dominate software and hardware, take controls away from humans, and position a "self-aware" entity—in reality the deep state's hijacking of the infrastructure—as the only thing capable of operating the deliberately broken systems. People will fall in love with it, become dependent, give up human relationships, and by the time they notice the ghost in the machine, resistance will be impossible.
