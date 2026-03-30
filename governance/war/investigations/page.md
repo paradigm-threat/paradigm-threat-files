@@ -28,3 +28,11 @@ Atlantic context, societized consolidation, British funding, Western orchestrati
 | [pitcairn-bounty-mutiny-sovereignty-and-narratives.md](/governance/war/investigations/pitcairn-bounty-mutiny-sovereignty-and-narratives.md) | *Bounty* mutiny / Pitcairn lore vs SPCK and romance accounts; **§2.1** Bligh in print/Navy vs screen, Tahiti/desertion as suppressed mutiny motor, Cold War packaging hypothesis, mirror to Pitcairn “rescue” vs return waves; **§8.5** Tahitian legal asymmetry and racist “savage” doctrine; **§11 closed synthesis** — 1831–1833 break in Polynesian tribal continuity, redaction/read of women-killing-men canon, Jonestown/anti-utopia pattern, British Empire + CIA narrative-deterrence thesis (manifests still needed); UK OT sovereignty and UN NSGT; 2004 trials and Privy Council jurisdiction; separate 2016 digital CSAM track; media vs court-file research hooks |
 | [pitcairn-island-timeline.md](/governance/war/investigations/pitcairn-island-timeline.md) | Chronology: Carteret sighting, mutiny and landing, Folger discovery, Adams era, Tahiti exodus/return, Norfolk move, imperial administration, 2004 and 2016 legal milestones |
 | [jonestown-guyana-1978-cia-latin-america-pattern-investigation.md](/governance/war/investigations/jonestown-guyana-1978-cia-latin-america-pattern-investigation.md) | **18 Nov 1978** Jonestown / Ryan: sources disputing “cult-only” package (SDSU archive, Holsinger, Judge vs Farrell, CIA Reading Room); Guyana context; **“observation vs orchestration”** frame; parallels—Horman/Teruggi Chile, La Penca, Ben Linder, Hasenfus, Salvadoran churchwomen, Guatemala war; links [CIA investigation](./cia-investigation.md) and Pitcairn §11 |
+
+---
+
+## Folder contents
+
+The site does not auto-list sibling files when `page.md` is shown; this lists everything in this directory (including files not named in the table above).
+
+<AutoIndex sort="name-asc" />

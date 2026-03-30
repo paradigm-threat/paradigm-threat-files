@@ -12,3 +12,11 @@ Manufactured dissent designed to look like real opposition—led and controlled 
 ## Key insight
 
 If a good number of people know it—they most likely want them to know it.
+
+---
+
+## Folder contents
+
+The site does not auto-list sibling files when `page.md` is shown; this lists everything in this directory.
+
+<AutoIndex sort="name-asc" />

@@ -307,3 +307,11 @@ Media identified as containing predictive programming by external sources or our
 ## Additional Media
 
 - [The Office](the_office.md)
+
+---
+
+## Folder contents
+
+The site does not auto-list sibling files when `page.md` is shown; this lists everything in this directory.
+
+<AutoIndex sort="name-asc" />

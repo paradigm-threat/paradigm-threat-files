@@ -61,3 +61,11 @@ Deeper notes and indexes live under the files repository, for example:
 - [Galen Winsor / enriched vs. depleted framework](https://github.com/clevertree/paradigm-threat-files/blob/master/science/nukes/investigations/nuke-waste-is-safe-investigation.md) (GitHub)
 
 The public site mirrors these paths under **paradigmthreat.net** (and related domains); **thirdstory.site** shows this page at the site root.
+
+---
+
+## Folder contents
+
+The site does not auto-list sibling files when `page.md` is shown; this lists everything in this directory.
+
+<AutoIndex sort="name-asc" />

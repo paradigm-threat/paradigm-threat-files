@@ -5,14 +5,57 @@ import base64
 import io
 import subprocess
 from datetime import datetime, timezone
-from typing import Optional
+from typing import Dict, Optional
 
 from PIL import Image
 
-# Blog list UI (AutoIndex format=blog) sorts and labels by _updated. Filesystem mtimes
-# often match a bulk checkout or index regen, so dated posts under blog/ use the
-# YYYY-MM-DD prefix from the filename as stable UTC noon for _updated.
+# Blog list UI (AutoIndex format=blog) sorts and labels by _updated. Dated posts under
+# blog/ use the YYYY-MM-DD prefix from the filename as stable UTC noon for _updated.
+# All other tracked files use the committer date of the latest commit that touched
+# each path (one `git log` pass); untracked or missing paths fall back to mtime.
 _BLOG_DATED_MD = re.compile(r"^(\d{4}-\d{2}-\d{2})-.+\.md$")
+
+
+def _git_last_commit_unix_times(repo_dir: str) -> Dict[str, int]:
+    """Map repo-relative paths (forward slashes) -> Unix time of last commit touching them.
+
+    Walks history newest-first; first sighting of a path is its last modification.
+    Returns {} if not a git repo or git fails.
+    """
+    try:
+        proc = subprocess.run(
+            [
+                "git",
+                "-C",
+                repo_dir,
+                "log",
+                "--no-renames",
+                "--name-only",
+                "--pretty=format:%ct",
+            ],
+            capture_output=True,
+            text=True,
+            check=True,
+            timeout=120,
+        )
+    except (subprocess.CalledProcessError, FileNotFoundError, subprocess.TimeoutExpired):
+        return {}
+
+    last: Dict[str, int] = {}
+    current_ts: Optional[int] = None
+    for line in proc.stdout.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        if s.isdigit():
+            current_ts = int(s)
+            continue
+        if current_ts is None:
+            continue
+        key = s.replace("\\", "/")
+        if key not in last:
+            last[key] = current_ts
+    return last
 
 
 def _index_updated_iso(full_path: str, repo_dir: str, basename: str) -> Optional[str]:
@@ -68,6 +111,8 @@ def generate_index():
     }
     
     include_exts = {'.md', '.txt', '.pdf', '.json', '.srt', '.jpg', '.jpeg', '.png', '.webp'}
+
+    git_times = _git_last_commit_unix_times(repo_dir)
 
     def build_tree(current_path):
         tree = {}
@@ -131,12 +176,18 @@ def generate_index():
                     if updated_iso:
                         file_data["_updated"] = updated_iso
                     else:
-                        try:
-                            mtime = os.path.getmtime(full_path)
-                            dt = datetime.fromtimestamp(mtime, tz=timezone.utc)
+                        rel_posix = os.path.relpath(full_path, repo_dir).replace("\\", "/")
+                        ts = git_times.get(rel_posix)
+                        if ts is not None:
+                            dt = datetime.fromtimestamp(ts, tz=timezone.utc)
                             file_data["_updated"] = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
-                        except OSError:
-                            pass
+                        else:
+                            try:
+                                mtime = os.path.getmtime(full_path)
+                                dt = datetime.fromtimestamp(mtime, tz=timezone.utc)
+                                file_data["_updated"] = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+                            except OSError:
+                                pass
                     
                     tree[item] = file_data
                     total_files += 1

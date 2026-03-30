@@ -275,6 +275,14 @@ Make sure to check out our new server, where the investigation continues, and th
 
 - [REORGANIZATION_MAP.md](REORGANIZATION_MAP.md)
 
+---
+
+## Site root files
+
+At `/`, `page.md` replaces the automatic directory listing for the repository root. This block lists other top-level files so they stay discoverable.
+
+<AutoIndex sort="name-asc" />
+
 ## General Chatroom
 
 <ChatRoom channel="general" mode="full"/>
