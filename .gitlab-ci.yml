@@ -1,15 +1,17 @@
-# GitLab Pages — static mirror of the repo (same idea as .github/workflows/static.yml on GitHub).
-# Set the project default branch in GitLab (e.g. master) to match $CI_DEFAULT_BRANCH.
+# GitLab Pages — static export of the tracked tree (same intent as GitHub Actions upload path: '.').
+# Do NOT rsync ./ into public/ when the repo has a top-level public/ folder: that nests
+# public/public/... until the runner disk is exhausted ("No space left on device").
+# Set the project default branch in GitLab to match $CI_DEFAULT_BRANCH.
 
 image: alpine:latest
 
 pages:
   stage: deploy
   before_script:
-    - apk add --no-cache rsync
+    - apk add --no-cache git
   script:
     - mkdir -p public
-    - rsync -a --exclude='.git/' ./ public/
+    - git archive HEAD | tar -x -C public
   artifacts:
     paths:
       - public
