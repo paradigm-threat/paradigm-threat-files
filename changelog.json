@@ -1,5 +1,10 @@
 [
   {
+    "hash": "06431fb10c5f468559ce3d64f55d0980c39549bf",
+    "date": "2026-03-30T13:49:58.000Z",
+    "message": "Add GitHub censorship account doc and third screenshot."
+  },
+  {
     "hash": "8eabca4ca35854e922a3f538b9a67b3f2b1ee02a",
     "date": "2026-03-30T13:32:09.000Z",
     "message": "chore: drop GitHub Pages workflow; GitLab-only hosting"
@@ -18,10 +23,5 @@
     "hash": "8f9e1e1815436d6abf053c03b1cb89ab7eaed5cc",
     "date": "2026-03-30T13:27:52.000Z",
     "message": "fix(ci): GitLab Pages export via git archive (avoid public/ rsync recursion)"
-  },
-  {
-    "hash": "4299a16cff69723fb6d08958fafd4c98ae880543",
-    "date": "2026-03-30T13:19:20.000Z",
-    "message": "Merge branch 'master' into main"
   }
 ]
