@@ -10,7 +10,7 @@
 > - `wotw-martian-civilization.md` — Cross-source intelligence dossier (all four Wells texts)
 > - `wotw-telepathic-purge.md` — Telepathic purge motif across Mars fiction
 > - `wotw-timeline.md` — Invasion chronology
-> - `death-on-mars.md` — Full extracted text of Brandenburg's book
+> - [`death-on-mars-analysis.md`](../death-on-mars-analysis.md) — Original summary of Brandenburg's book (no copyrighted full text in repo)
 
 ---
 
@@ -310,7 +310,7 @@ Together, they describe a single event: the catastrophic destruction of Martian 
 - `wotw-martian-civilization.md` — Cross-source intelligence dossier
 - `wotw-martian-analysis.md` — Technical Martian analysis
 - `wotw-timeline.md` — Invasion chronology
-- `death-on-mars.md` — Full extracted Brandenburg text
+- [`death-on-mars-analysis.md`](../death-on-mars-analysis.md) — Book summary (purchase or library for full work)
 
 ### Predictive Programming
 - *Rocketship X-M* (dir. Kurt Neumann, 1950) — nuclear-destroyed Mars civilization

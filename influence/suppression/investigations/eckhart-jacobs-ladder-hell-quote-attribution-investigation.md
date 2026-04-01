@@ -5,7 +5,7 @@
 
 Open. This file traces **who actually wrote** the passage often pasted online as **Meister Eckhart**, asks whether it **could** plausibly be his in light of the manuscript record, compares it to **authentic Eckhart themes**, and asks whether **Pope John XXII’s** condemnation (*In agro dominico*, 27 March 1329) was aimed at the **same kind of meaning** the passage expresses—even though that meaning is **not** what the bull’s articles literally say.
 
-**§ X** records a **project thesis held for further inquiry** (timing, archive silence, magisterial stakes)—not a finding of fact.
+**§ X** records a **project thesis held for further inquiry** (timing, archive silence, magisterial stakes)—not a finding of fact. **§ XI** records the investigation owner’s synthesis on why Rubin might have named Eckhart instead of a closer motif match (e.g. *Bardo* literature)—also hypothesis, not proven intent.
 
 **Prompted by:** [Historical Antibodies](/timeline/evt-historical-antibodies) (timeline ch. 15.07), which quotes the lines and notes the film origin.
 
@@ -78,7 +78,7 @@ Even if the words are Rubin’s, comparison matters for theology and for the **l
 
 ## VI. Suppression angle (information, not parchment)
 
-This investigation sits under **suppression** because the **operational** phenomenon is **misattribution**: a **1990** text gains **authority** by **laundering** through a **medieval** name—**crowding out** careful reading of **Eckhart’s** real sermons and of **trial documents**. That is **narrative capture**, not **Vatican redaction** of Rubin. Separately, the **historical** suppression of **Eckhart’s** reputation via *In agro dominico* is **real** and **documented**; it should not be **conflated** with the **film quote** case.
+This investigation sits under **suppression** because the **operational** phenomenon is **misattribution**: a **1990** text gains **authority** by **laundering** through a **medieval** name—**crowding out** careful reading of **Eckhart’s** real sermons and of **trial documents**. That is **narrative capture**, not **Vatican redaction** of Rubin. Separately, the **historical** suppression of **Eckhart’s** reputation via *In agro dominico* is **real** and **documented**; it should not be **conflated** with the **film quote** case. For a hypothesis about why the screenplay named Eckhart rather than a closer motif match (e.g. *Bardo Thödol*), see § XI.
 
 ---
 
@@ -136,3 +136,22 @@ The following is **entered as the investigation owner’s working position**—t
 
 **Counterweight (kept in view):** Paleography and edition science have not produced a medieval match; Rubin is still the only named author of this English in print. § X does not erase that fact; it reframes what silence is allowed to prove.
 
+---
+
+## XI. Investigator synthesis — why Eckhart, when the *Bardo* (or another old book) would have “fit”?
+
+This section records the investigation owner’s reading of Rubin’s choice of attribution: a **motif-level hypothesis** about motive and downstream effects, not—unless corroborated elsewhere—a claim about Rubin’s private intentions.
+
+**The misattribution puzzle.** Once the lines are understood as screenplay invention (§ II), Rubin was free to hang them on almost any venerable title or figure—centuries of hell, purgation, recognition, and “terrifying figures as mind” discourse offer honest hooks (§ VII). *The Tibetan Book of the Dead* / *Bardo Thödol* is an especially clean analogue: wrathful and peaceful visions, attachment and recognition, terror re-seen as liberation when the view shifts. If the goal were only to give Louis a credible-sounding spiritual pedigree for a fabricated speech, a made-up “quote” from that lineage—or from Blake, Swedenborg, Origen’s reception, etc.—would have been as easy as naming Eckhart.
+
+**What the file already supports.** Authentic Eckhart does not advance this passage in this therapeutic, verbatim form; the bull does not target this letter (§§ III–V). The conceptual home for the cluster of meanings is as strong or stronger in Eastern and bardo-adjacent material than in documented Eckhart (§ VII, Tibetan row). So the question is not whether Eckhart could have touched such themes in spirit, but why brand the meme *Eckhart* when another label would have matched the motif at least as well.
+
+**Working answer — Eckhart as terminus, not gateway.** A plausible motive is channel control. Attributing the speech to *Bardo Thödol* (or another living non-Christian tradition) would invite many viewers—already stirred by a Vietnam-era film about false narrative, trauma, and authority—to follow a path into that tradition. Naming Eckhart does something different: the curious are nudged toward Meister Eckhart, then into standard reference and debunking (“he never said this”), which ends in a scholarly and confessional cul-de-sac rather than in new religious uptake. In that reading, Rubin is not the “fake quote” announcer; the implied-real layer is Louis saying Eckhart “said” it, while secondary culture (memes, quote sites) collapses the frame and hands the audience a dead end labeled medieval Dominican. That pattern rhymes with twentieth-century fiction and science fiction: authors who insist they invented a story while audiences later trace real sources, places, or suppressed histories. Here the inverse is attribution to a real name with no matching folio, so inquiry stalls on authentication instead of blooming into a rival canon.
+
+**Film context and “no revolution” thesis.** *Jacob’s Ladder* speaks to soldiers, guilt, unreliable reality, and who gets to name evil—themes that prime skepticism toward official war narrative (compare critical reception around questioning and spiritual framing in films of that milieu, e.g. *The Thin Red Line* and memorable “philosophical” lines that travel outside the theatre). If those who shaped the film worried that a single viral monologue might amplify anti-war or anti-clerical energy through a clear non-Western or heterodox bibliographic trail, then Eckhart wraps the same emotional payload in familiar Christian-mystic packaging. The downstream picture is not “the Church is lying about hell by way of foreign scripture,” but “a famous mystic might have said something like this—oh, he didn’t; case closed.” That is protective routing: the idea touches Catholic intellectual history just enough to feel weighty, yet resolves into in-house discipline—Eckhart under law and condemnation—rather than exporting authority to Tibetan Buddhism or another tradition outside Latin mediation. Those who made the movie may well have grasped how threatening such a line could be to a juridical picture of the church; Eckhart attribution offers a covering that leads inquiry back to “one of our own” brought under a strict legal system—not to the institution being overturned from outside.
+
+**Sentiment in one line.** The owner’s conclusion is that Rubin likely chose Eckhart so this topic would not open onto a living alternative lineage; Eckhart as label makes the film feel deep while steering follow-up search into a non-threatening dead end—and if cooling revolutionary or sectarian controversy was part of the calculation, that choice would have served it well.
+
+**Relation to § X.** § X stresses archive silence and institutional stakes for real Eckhart and possible hidden continuities. § XI does not deny those questions; it adds a complementary hypothesis at the 1990 authorial layer: even without Vatican redaction of Rubin’s typescript, the Eckhart brand may function as a firewall between the meme’s radical comfort and any mass migration of curiosity toward traditions the studio or writer would not want to advertise.
+
+**Mundane alternatives (kept in view).** The same evidence is compatible with simpler stories: Eckhart as a familiar “deep mystic” shorthand, thematic overlap picked up from secondary reception, or no conscious channel strategy at all. § XI weights *outcomes* of the choice, not proof of intent.

@@ -35,7 +35,7 @@ The project's living knowledge base has been reorganized into a proper directory
 - [War of the Worlds — Complete Investigation](https://paradigmthreat.net/cosmos/mars/investigations/wotw.md) — Full H.G. Wells analysis as encoded Mars catastrophe
 - [Mars Catastrophe & MFEE](https://paradigmthreat.net/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md) — Brandenburg's Mars-catastrophe-to-Earth pipeline
 - [Martian Civilization Analysis](https://paradigmthreat.net/cosmos/mars/investigations/wotw-martian-civilization.md) — Physical evidence for prior Mars civilization
-- [Death on Mars Book Analysis](https://paradigmthreat.net/cosmos/mars/investigations/death-on-mars.md) — Full analysis of Brandenburg's nuclear evidence
+- [Death on Mars Book Analysis](https://paradigmthreat.net/cosmos/mars/death-on-mars-analysis) — Summary of Brandenburg's nuclear claims (full book text is not hosted)
 
 ### Alfred de Grazia Library (16 books)
 - [De Grazia Overview](https://paradigmthreat.net/cosmos/cosmology/de_grazia/README.md) — Introduction to the complete Quantavolution series
