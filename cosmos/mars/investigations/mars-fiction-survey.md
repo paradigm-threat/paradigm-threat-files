@@ -191,7 +191,7 @@ Not all authors had equal access to truth. The following framework proposes five
 | **Percival Lowell** | *Mars* / *Mars and Its Canals* / *Mars as the Abode of Life* | 1895–1908 | Professional astronomer who insisted Mars had artificial canals built by an intelligent civilization managing scarce water resources. Mainstream science spent a century ridiculing him. His observatory also discovered Pluto |
 | **Alfred Russel Wallace** | *Is Mars Habitable?* | 1907 | Co-discoverer of evolution wrote a book specifically attacking Lowell's inhabited-Mars thesis. **Why did the co-discoverer of evolution feel the need to write an entire book debunking life on Mars?** |
 | **Alfred de Grazia** | *The Iron Age of Mars* | 2009 | Catastrophist synthesis arguing Mars was in close approach to Earth in the 8th–7th centuries BCE, causing the events recorded in Homer, the Hebrew prophets, etc. See `iron-age-of-mars.md` in the de-grazia investigations |
-| **John Brandenburg** | *Death on Mars* | 2015 | Nuclear physicist arguing Mars shows evidence of nuclear explosions — Xenon-129 isotope ratios matching nuclear detonation. See `death-on-mars.md` in this folder |
+| **John Brandenburg** | *Death on Mars* | 2015 | Nuclear physicist arguing Mars shows evidence of nuclear explosions — Xenon-129 isotope ratios matching nuclear detonation. See [`death-on-mars-analysis.md`](../death-on-mars-analysis.md) for a short summary |
 
 ---
 
@@ -264,7 +264,7 @@ Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: loca
 - `wotw-telepathic-purge.md` — Telepathic purge motif across Mars fiction
 - `wotw-forbidden-blood.md` — Blood-feeding as discipline collapse
 - `wotw-timeline.md` — Day-by-day timeline of the 1894–1895 incursion
-- `death-on-mars.md` — Brandenburg's *Death on Mars* analysis
+- [`death-on-mars-analysis.md`](../death-on-mars-analysis.md) — Brandenburg's *Death on Mars* (summary; full text not hosted)
 - [mars-earth-reincarnation-investigation.md](mars-earth-reincarnation-investigation.md) — Mars–Earth reincarnation; mass death on Mars, souls reborn on Earth, time-period correlation (open)
 - [mars-stock-market-correlation.md](mars-stock-market-correlation.md) — Mars/lunar-node correlation with Dow Jones (1896–2020); *Ares Le Mandat* appendix
 

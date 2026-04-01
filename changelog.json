@@ -1,5 +1,15 @@
 [
   {
+    "hash": "d28ac264bd569886c9faedb5a842f996cc49b4b1",
+    "date": "2026-04-01T19:41:52.000Z",
+    "message": "Remove copyrighted Death on Mars full text; update Mars links and index"
+  },
+  {
+    "hash": "a0d769379dc75d0ac83eebf81718195f765bc7a4",
+    "date": "2026-03-30T14:02:57.000Z",
+    "message": "Docs: page.md hubs need AutoIndex; index _updated from git"
+  },
+  {
     "hash": "88d7f3821b87778298d107b7f713aff5e94f5b07",
     "date": "2026-03-30T13:53:08.000Z",
     "message": "Home page: fold TL;DR into welcome lead, trim redundant lines."
@@ -13,15 +23,5 @@
     "hash": "8eabca4ca35854e922a3f538b9a67b3f2b1ee02a",
     "date": "2026-03-30T13:32:09.000Z",
     "message": "chore: drop GitHub Pages workflow; GitLab-only hosting"
-  },
-  {
-    "hash": "d5bde51d51a5c008714e1b7fe2f82dc698e6ef42",
-    "date": "2026-03-30T13:28:54.000Z",
-    "message": "ci: GitHub Pages workflow triggers on main; comment default branch main"
-  },
-  {
-    "hash": "a4003acee5ae9f8c40dd953851cabc4ce99dd726",
-    "date": "2026-03-30T13:28:50.000Z",
-    "message": "Merge master into main; main is the canonical branch"
   }
 ]

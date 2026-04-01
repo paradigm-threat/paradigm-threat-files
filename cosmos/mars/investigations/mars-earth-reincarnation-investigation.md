@@ -147,7 +147,7 @@ Question: Do **increases** in Mars–Earth reincarnation reports (or in cultural
 - [wotw-timeline.md](wotw-timeline.md) — Martian operations timeline, surveillance, invasion
 - [wotw-telepathic-purge.md](wotw-telepathic-purge.md) — Telepathic purge and survivor caste
 - [mars-fiction-survey.md](mars-fiction-survey.md) — Mars literature survey; add reincarnation / “Martian on Earth” as a theme to survey
-- [death-on-mars.md](death-on-mars.md) — Brandenburg’s *Death on Mars* (reference only)
+- [death-on-mars-analysis.md](../death-on-mars-analysis.md) — Brandenburg’s *Death on Mars* (summary only; full text not in repo)
 - [cosmos/mars (page)](/cosmos/mars) — Deep State on Mars, quantum gates, pyramidal empire
 
 ---

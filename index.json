@@ -115,16 +115,20 @@
       "_title": "Book TL;DR sweep, appendix split (XVI\u2013XXII), war and fiction investigations, exports, site reader",
       "_updated": "2026-03-28T12:00:00Z"
     },
+    "2026-03-30-github-ban-gitlab-migration-and-repo-updates.md": {
+      "_title": "GitHub disabled all 72 repos; GitLab migration; Swift / *Gulliver* Mars dossier and site index updates",
+      "_updated": "2026-03-30T12:00:00Z"
+    },
     "page.md": {
       "_title": "Blog",
       "_updated": "2026-03-24T14:41:35Z"
     },
-    "_count": 29
+    "_count": 30
   },
   "book": {
     "page.md": {
       "_title": "Paradigm Threat: The Third Story",
-      "_updated": "2026-03-30T13:04:38Z"
+      "_updated": "2026-03-30T14:02:57Z"
     },
     "paradigm-threat-the-third-story.png": {
       "_width": 1536,
@@ -135,7 +139,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-03-30T13:53:08Z"
+    "_updated": "2026-04-01T19:41:52Z"
   },
   "cosmos": {
     "cosmology": {
@@ -183,7 +187,7 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "page.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_updated": "2026-03-30T14:02:57Z"
         },
         "page_1.jpg": {
           "_width": 1059,
@@ -1210,20 +1214,17 @@
           "_title": "Lieut. Gullivar Jones: His Vacation \u2014 Reference Document",
           "_updated": "2026-03-30T13:04:38Z"
         },
-        "death-on-mars.md": {
-          "_updated": "2026-03-30T13:04:38Z"
-        },
         "index-mars.md": {
           "_title": "Mars Literature \u2014 Index of Downloaded Texts",
           "_updated": "2026-03-30T12:39:33Z"
         },
         "mars-earth-reincarnation-investigation.md": {
           "_title": "Investigation: Mars\u2013Earth Reincarnation \u2014 Mass Death on Mars and Souls Reborn on Earth",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_updated": "2026-04-01T19:41:52Z"
         },
         "mars-fiction-survey.md": {
           "_title": "Mars Fiction & Nonfiction Literature Survey (19th\u201320th Century)",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_updated": "2026-04-01T19:41:52Z"
         },
         "mars-stock-market-correlation.md": {
           "_title": "Mars and the Stock Market: Investigation into Celestial Correlation",
@@ -1255,7 +1256,7 @@
         },
         "wotw-mfee-mars-catastrophe.md": {
           "_title": "Death on Mars: The MFEE and the Nuclear Massacre",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_updated": "2026-04-01T19:41:52Z"
         },
         "wotw-telepathic-purge.md": {
           "_title": "The Telepathic Purge: A Pattern Across Mars Fiction",
@@ -1269,7 +1270,7 @@
           "_title": "The War of the Worlds",
           "_updated": "2026-03-30T13:04:38Z"
         },
-        "_count": 15
+        "_count": 14
       },
       "life_on_mars_rules_earth.png": {
         "_width": 734,
@@ -1572,7 +1573,7 @@
         "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAA0ABUB8JbACdADL15oC+i0AAPzw/AmimuryhfDnGTQuyUf+YPd74p+YEN1dkBPy2BrCrnIWtjroI0e+KHnZ0aheyZpM8wQAAA==",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 94
+      "_count": 93
     },
     "pluto": {
       "investigations": {
@@ -1592,7 +1593,7 @@
       },
       "_count": 3
     },
-    "_count": 268
+    "_count": 267
   },
   "events": {
     "911": {
@@ -2160,7 +2161,7 @@
     "philadelphia": {
       "page.md": {
         "_title": "The Philadelphia Experiment",
-        "_updated": "2026-03-11T22:44:01Z"
+        "_updated": "2026-03-30T14:02:57Z"
       },
       "philadelphia_experiment.png": {
         "_width": 1280,
@@ -4975,7 +4976,7 @@
         },
         "page.md": {
           "_title": "War Investigations",
-          "_updated": "2026-03-27T21:07:29Z"
+          "_updated": "2026-03-30T14:02:57Z"
         },
         "pitcairn-bounty-mutiny-sovereignty-and-narratives.md": {
           "_title": "Pitcairn: Bounty mutiny narratives, sovereignty, and modern law",
@@ -5510,6 +5511,12 @@
         "_lqip": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAQCdASoQAAwABUB8JZwAAveIhXaAAP7pIYLAlK/NOgi42AAAAA==",
         "_updated": "2026-01-16T01:04:59Z"
       },
+      "global-atlantean-maritime-empire.jpg": {
+        "_width": 1365,
+        "_height": 2048,
+        "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoLABAABUB8JZQC7AD0qInl0AD+51ZjVDrSD5iKjG1iRGvtQAA=",
+        "_updated": "2026-04-01T19:41:52Z"
+      },
       "gutenberg_bible_1455.jpg": {
         "_width": 1024,
         "_height": 708,
@@ -5572,7 +5579,7 @@
         },
         "index-investigations.md": {
           "_title": "Chronology Investigations \u2014 Index",
-          "_updated": "2026-03-25T15:08:13Z"
+          "_updated": "2026-04-01T19:41:52Z"
         },
         "index-offenbarung.md": {
           "_title": "Die Offenbarung Johannis \u2014 English Index",
@@ -5585,6 +5592,10 @@
         "jew-word-terminology-judas-judicial.md": {
           "_title": "Investigation: The Word *Jew* \u2014 Crucifixion Moment, Latin \u2192 Greek, Judas & the Latin Church",
           "_updated": "2026-03-30T13:04:38Z"
+        },
+        "myth-creatures-textual-record-human-extirpation-investigation.md": {
+          "_title": "Investigation (open): Griffins and other \u201cmyth\u201d fauna in sober historical texts \u2014 extinction by human pressure?",
+          "_updated": "2026-04-01T19:41:52Z"
         },
         "new-world-naming-mfee-and-colonization-memory.md": {
           "_title": "Investigation (speculative): \u201cNew World,\u201d \u201cnew lands,\u201d and post\u2013mud-flood memory",
@@ -5635,7 +5646,7 @@
           "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record",
           "_updated": "2026-03-30T13:04:38Z"
         },
-        "_count": 24
+        "_count": 25
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -6509,7 +6520,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 249
+      "_count": 251
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -8258,7 +8269,7 @@
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive",
       "_updated": "2026-03-28T12:27:19Z"
     },
-    "_count": 545
+    "_count": 547
   },
   "influence": {
     "censorship": {
@@ -8301,7 +8312,7 @@
         },
         "page.md": {
           "_title": "Discord Server Suspended",
-          "_updated": "2026-03-16T13:43:28Z"
+          "_updated": "2026-03-30T14:02:57Z"
         },
         "_count": 2
       },
@@ -8996,7 +9007,7 @@
       },
       "page.md": {
         "_title": "Suppressed & Fake",
-        "_updated": "2026-03-12T13:07:05Z"
+        "_updated": "2026-03-30T14:02:57Z"
       },
       "planned_plane_crash.jpg": {
         "_width": 640,
@@ -9330,7 +9341,7 @@
       },
       "page.md": {
         "_title": "Controlled Opposition",
-        "_updated": "2026-03-12T12:46:11Z"
+        "_updated": "2026-03-30T14:02:57Z"
       },
       "qanon.jpg": {
         "_width": 707,
@@ -9485,7 +9496,7 @@
           },
           "page.md": {
             "_title": "Isaac Asimov \u2014 Investigation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_updated": "2026-03-30T14:02:57Z"
           },
           "youth-index.md": {
             "_title": "Youth \u2014 Clue Index for Timeline Investigation",
@@ -9623,7 +9634,7 @@
           },
           "page.md": {
             "_title": "Jonathan Swift \u2014 Investigation",
-            "_updated": "2026-03-30T12:39:33Z"
+            "_updated": "2026-03-30T14:02:57Z"
           },
           "swift-investigation-debate-rails-and-drift.md": {
             "_title": "Swift investigation \u2014 debate rails, drift, and sentiment (record)",
@@ -9786,7 +9797,7 @@
       },
       "page.md": {
         "_title": "Predictive Programming",
-        "_updated": "2026-03-30T12:39:33Z"
+        "_updated": "2026-03-30T14:02:57Z"
       },
       "predictive_programming.png": {
         "_width": 1536,
@@ -9938,7 +9949,7 @@
       },
       "page.md": {
         "_title": "Stolen Credit in Media",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_updated": "2026-03-30T14:02:57Z"
       },
       "rare-nintendo-rd.md": {
         "_title": "Rare & Nintendo R&D \u2014 Credit Theft Investigation",
@@ -9970,7 +9981,7 @@
       "investigations": {
         "eckhart-jacobs-ladder-hell-quote-attribution-investigation.md": {
           "_title": "Investigation: The \u201cHell Burns Attachments\u201d Lines \u2014 Eckhart, *Jacob\u2019s Ladder*, and Misattribution",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_updated": "2026-04-01T19:41:52Z"
         },
         "_count": 1
       },
@@ -9984,7 +9995,7 @@
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
-    "_updated": "2026-03-30T13:53:08Z"
+    "_updated": "2026-03-30T14:02:57Z"
   },
   "science": {
     "5g": {
@@ -10102,7 +10113,7 @@
       },
       "page.md": {
         "_title": "Artificial Intelligence and the Ghost in the Machine",
-        "_updated": "2026-03-11T22:44:01Z"
+        "_updated": "2026-03-30T14:02:57Z"
       },
       "_count": 3
     },
@@ -10889,6 +10900,6 @@
     },
     "_count": 153
   },
-  "_count": 1913,
-  "_version": "88d7f38"
+  "_count": 1915,
+  "_version": "d28ac26"
 }
