@@ -139,7 +139,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-01T19:42:26Z"
+    "_updated": "2026-04-02T15:18:43Z"
   },
   "cosmos": {
     "cosmology": {
@@ -9434,8 +9434,8 @@
     },
     "perspective": {
       "russian-perspective.md": {
-        "_title": "Russian / Eastern audience perspective \u2014 Third Story outreach",
-        "_updated": "2026-04-02T14:34:41Z"
+        "_title": "Chronologia forum \u2014 resistance to Third Story\u2013style outreach",
+        "_updated": "2026-04-02T15:18:43Z"
       },
       "_count": 1
     },
@@ -9988,17 +9988,17 @@
       "investigations": {
         "cathars-church-purge-khazar-split-investigation.md": {
           "_title": "Investigation: The Cathars \u2014 enemy memory, catharization, resistance to monotheism, and the Khazar\u2013Cathar split thesis",
-          "_updated": "2026-04-02T14:41:29Z"
+          "_updated": "2026-04-02T15:18:43Z"
         },
         "eckhart-jacobs-ladder-hell-quote-attribution-investigation.md": {
           "_title": "Investigation: \u201cHell burns attachments\u201d \u2014 *Jacob\u2019s Ladder*, Eckhart (mis)attribution, Paradigm Threat read",
-          "_updated": "2026-04-01T19:42:26Z"
+          "_updated": "2026-04-02T15:18:43Z"
         },
         "_count": 2
       },
       "page.md": {
         "_title": "Suppression",
-        "_updated": "2026-03-28T13:38:14Z"
+        "_updated": "2026-04-02T15:18:43Z"
       },
       "_count": 3
     },
@@ -10336,7 +10336,7 @@
       "investigations": {
         "dna-fingerprint-scalar-life-investigation.md": {
           "_title": "Investigation: DNA as Fingerprint, Not Blueprint \u2014 Scalar / ZPE Medium, First Life, and Ontogeny",
-          "_updated": "2026-03-30T00:33:40Z"
+          "_updated": "2026-04-02T15:18:43Z"
         },
         "_count": 1
       },
@@ -10912,5 +10912,5 @@
     "_count": 153
   },
   "_count": 1917,
-  "_version": "6dc84e4"
+  "_version": "dd05f56"
 }
