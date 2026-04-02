@@ -139,7 +139,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-01T19:41:52Z"
+    "_updated": "2026-04-01T19:42:26Z"
   },
   "cosmos": {
     "cosmology": {
@@ -1220,11 +1220,11 @@
         },
         "mars-earth-reincarnation-investigation.md": {
           "_title": "Investigation: Mars\u2013Earth Reincarnation \u2014 Mass Death on Mars and Souls Reborn on Earth",
-          "_updated": "2026-04-01T19:41:52Z"
+          "_updated": "2026-04-01T19:42:26Z"
         },
         "mars-fiction-survey.md": {
           "_title": "Mars Fiction & Nonfiction Literature Survey (19th\u201320th Century)",
-          "_updated": "2026-04-01T19:41:52Z"
+          "_updated": "2026-04-01T19:42:26Z"
         },
         "mars-stock-market-correlation.md": {
           "_title": "Mars and the Stock Market: Investigation into Celestial Correlation",
@@ -1256,7 +1256,7 @@
         },
         "wotw-mfee-mars-catastrophe.md": {
           "_title": "Death on Mars: The MFEE and the Nuclear Massacre",
-          "_updated": "2026-04-01T19:41:52Z"
+          "_updated": "2026-04-01T19:42:26Z"
         },
         "wotw-telepathic-purge.md": {
           "_title": "The Telepathic Purge: A Pattern Across Mars Fiction",
@@ -5515,7 +5515,7 @@
         "_width": 1365,
         "_height": 2048,
         "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoLABAABUB8JZQC7AD0qInl0AD+51ZjVDrSD5iKjG1iRGvtQAA=",
-        "_updated": "2026-04-01T19:41:52Z"
+        "_updated": "2026-04-01T19:42:26Z"
       },
       "gutenberg_bible_1455.jpg": {
         "_width": 1024,
@@ -5579,7 +5579,7 @@
         },
         "index-investigations.md": {
           "_title": "Chronology Investigations \u2014 Index",
-          "_updated": "2026-04-01T19:41:52Z"
+          "_updated": "2026-04-01T19:42:26Z"
         },
         "index-offenbarung.md": {
           "_title": "Die Offenbarung Johannis \u2014 English Index",
@@ -5595,7 +5595,7 @@
         },
         "myth-creatures-textual-record-human-extirpation-investigation.md": {
           "_title": "Investigation (open): Griffins and other \u201cmyth\u201d fauna in sober historical texts \u2014 extinction by human pressure?",
-          "_updated": "2026-04-01T19:41:52Z"
+          "_updated": "2026-04-01T19:42:26Z"
         },
         "new-world-naming-mfee-and-colonization-memory.md": {
           "_title": "Investigation (speculative): \u201cNew World,\u201d \u201cnew lands,\u201d and post\u2013mud-flood memory",
@@ -9432,6 +9432,13 @@
       "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoNABAABUB8JYwCdAEQdpi55B8gAP6Dm/OsSzpp8vG/mvqWYR+ePhrrddpXSi6oK7yeOq68olYY+ZTgr2Cxo18JRpYAAA==",
       "_updated": "2026-02-24T12:57:03Z"
     },
+    "perspective": {
+      "russian-perspective.md": {
+        "_title": "Russian / Eastern audience perspective \u2014 Third Story outreach",
+        "_updated": "2026-04-02T14:34:41Z"
+      },
+      "_count": 1
+    },
     "predictive_programming": {
       "comics.jpg": {
         "_width": 600,
@@ -9979,19 +9986,23 @@
     },
     "suppression": {
       "investigations": {
-        "eckhart-jacobs-ladder-hell-quote-attribution-investigation.md": {
-          "_title": "Investigation: The \u201cHell Burns Attachments\u201d Lines \u2014 Eckhart, *Jacob\u2019s Ladder*, and Misattribution",
-          "_updated": "2026-04-01T19:41:52Z"
+        "cathars-church-purge-khazar-split-investigation.md": {
+          "_title": "Investigation: The Cathars \u2014 enemy memory, catharization, resistance to monotheism, and the Khazar\u2013Cathar split thesis",
+          "_updated": "2026-04-02T14:41:29Z"
         },
-        "_count": 1
+        "eckhart-jacobs-ladder-hell-quote-attribution-investigation.md": {
+          "_title": "Investigation: \u201cHell burns attachments\u201d \u2014 *Jacob\u2019s Ladder*, Eckhart (mis)attribution, Paradigm Threat read",
+          "_updated": "2026-04-01T19:42:26Z"
+        },
+        "_count": 2
       },
       "page.md": {
         "_title": "Suppression",
         "_updated": "2026-03-28T13:38:14Z"
       },
-      "_count": 2
+      "_count": 3
     },
-    "_count": 314
+    "_count": 316
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
@@ -10900,6 +10911,6 @@
     },
     "_count": 153
   },
-  "_count": 1915,
-  "_version": "d28ac26"
+  "_count": 1917,
+  "_version": "6dc84e4"
 }
