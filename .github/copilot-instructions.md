@@ -32,3 +32,5 @@ The script inserts `> **TL;DR:** TODO` and skips **`blog/`** and **`docs/`** (an
 ## Links in timeline-facing prose
 
 Timeline `content/` should link here with **root-relative** paths from site root. Blog posts in `blog/` require **absolute** URLs (`https://paradigmthreat.net/...`). See `docs/BLOG.md` and `REORGANIZATION_MAP.md`.
+
+**New blog posts:** Before drafting, **always** run `git log` in **paradigm-threat-files**, **paradigm-threat-timeline**, and **paradigm-threat-site** since the **previous** `blog/YYYY-MM-DD-*.md` (see `docs/BLOG.md` § Git history). Do not summarize from memory alone.
