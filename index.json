@@ -143,7 +143,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-03T12:20:03Z"
+    "_updated": "2026-04-03T12:21:50Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5611,7 +5611,7 @@
         },
         "prester-john-presbyter-rus-horde-nc-investigation.md": {
           "_title": "Prester John, *Presbyter Ioannes*, and the Rus\u2013Horde Christian East \u2014 NC and author thesis",
-          "_updated": "2026-04-03T12:20:03Z"
+          "_updated": "2026-04-03T12:21:50Z"
         },
         "prester-john-presbyter-rus-horde-nc-investigation.png": {
           "_width": 1536,
@@ -10926,5 +10926,5 @@
     "_count": 153
   },
   "_count": 1920,
-  "_version": "ba975b0"
+  "_version": "0f8787c"
 }
