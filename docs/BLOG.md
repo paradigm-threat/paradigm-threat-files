@@ -25,9 +25,25 @@ Create new posts in `blog/` with the naming convention `YYYY-MM-DD-slug.md`. Run
 
 **`index.json` `_updated` for blog:** For files matching `blog/YYYY-MM-DD-*.md`, `scripts/generate-index.py` sets `_updated` to that calendar date at **12:00 UTC** (not filesystem mtime), so the site blog list (`AutoIndex` with `format="blog"`) shows the correct day per post after checkouts or bulk regen. Files like `blog/page.md` still use mtime.
 
-**Cover all changed repos and list all changes.** Before writing a blog entry:
+### Git history (required before drafting)
 
-1. **Check git for all three paradigm-threat* repos** — **paradigm-threat-timeline**, **paradigm-threat-files**, **paradigm-threat-site** — for commits and file changes since the **last blog entry** (by date: the most recent `YYYY-MM-DD-*.md` in `blog/` before this one).
+**Always** walk **git history in all three repos** since the **previous** dated blog post. Do **not** rely on chat memory or a partial mental list of what changed — commits in **paradigm-threat-files** (investigations, perspective, censorship), **paradigm-threat-timeline** (chapter edits, cross-links), and **paradigm-threat-site** (redirects, image API, TTS) are easy to miss otherwise.
+
+1. **Identify the cutoff** — Pick the **previous** post: the newest `blog/YYYY-MM-DD-*.md` whose embedded date is **before** the new file you are writing (ignore `blog/page.md`). Example: to add `2026-04-03-…md`, the previous post might be `2026-03-30-…md`.
+2. **Map cutoff → `git log`** — Let `PREV` be the `YYYY-MM-DD` from that filename. List commits **after** that calendar day (i.e. starting the morning of the next day). Portable pattern:
+   ```bash
+   # PREV = date from previous blog filename, e.g. 2026-03-30 → use NEXT_DAY below
+   NEXT_DAY=2026-03-31
+   cd /path/to/paradigm-threat-files   && git log --oneline --since="${NEXT_DAY}"
+   cd /path/to/paradigm-threat-timeline && git log --oneline --since="${NEXT_DAY}"
+   cd /path/to/paradigm-threat-site     && git log --oneline --since="${NEXT_DAY}"
+   ```
+   Adjust paths to your checkout layout. If nothing shows, widen slightly (e.g. same `PREV` with `git log -30 --oneline` and scan) or use `git log --since="${PREV}"` and filter manually — the rule is **no skipped commits** in the window you mean to summarize.
+3. **Fold every meaningful commit** into the draft (grouped by repo). If something was already blogged, you can skip it; if the prior post omitted work that landed before its filename date, either **amend** that older post or **mention the catch-up** in the new one.
+
+**Cover all changed repos and list all changes.** After git review:
+
+1. **Check git for all three paradigm-threat* repos** — **paradigm-threat-timeline**, **paradigm-threat-files**, **paradigm-threat-site** — for commits and file changes since the **last blog entry** (by date: the most recent `YYYY-MM-DD-*.md` in `blog/` before this one), using the procedure above.
 2. **Start each repo section with a short summary (one paragraph)** that describes all updates in that repo in a few sentences; then list each new or updated item with a **link** — timeline events use `https://paradigmthreat.net/timeline/evt-<id>`, other content uses `https://paradigmthreat.net/<path>` (no `.md`). Group by repo: **paradigm-threat-timeline**, **paradigm-threat-files**, **paradigm-threat-site**. Omit a repo section only if it had no changes since the last post.
 3. When only one repo changed, a single section is fine. When two or three changed, the entry must have a section per changed repo, each beginning with a one-paragraph summary of that repo's updates, then links to all new/updated content.
 

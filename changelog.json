@@ -1,5 +1,10 @@
 [
   {
+    "hash": "98148a0d4bc34123d9e6072a281b89ec3eb20772",
+    "date": "2026-04-03T12:23:19.000Z",
+    "message": "Blog: expand Apr 3 post from git log — Jacob's Ladder, Cathar–Khazar, Mars, site"
+  },
+  {
     "hash": "0f8787c9c67fc3992be924b6ea2644fb4490af25",
     "date": "2026-04-03T12:21:50.000Z",
     "message": "Blog: April 3 — Prester John dossier, religious edition, brand slogans"
@@ -18,10 +23,5 @@
     "hash": "b1075afd731668b9e2ce31f65ee5f3edb8997688",
     "date": "2026-04-02T15:51:01.000Z",
     "message": "docs(perspective): document Saturn’s two registers on Chronologia forum"
-  },
-  {
-    "hash": "dd05f56773df967628922d43223f126a695467ba",
-    "date": "2026-04-02T15:18:43.000Z",
-    "message": "Add Cathar/Khazar suppression investigation; Eckhart dossier; index and DNA cross-links"
   }
 ]
