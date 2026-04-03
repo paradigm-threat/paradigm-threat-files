@@ -139,7 +139,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-02T15:51:01Z"
+    "_updated": "2026-04-03T12:16:57Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5579,7 +5579,7 @@
         },
         "index-investigations.md": {
           "_title": "Chronology Investigations \u2014 Index",
-          "_updated": "2026-04-01T19:42:26Z"
+          "_updated": "2026-04-03T12:16:57Z"
         },
         "index-offenbarung.md": {
           "_title": "Die Offenbarung Johannis \u2014 English Index",
@@ -5607,7 +5607,13 @@
         },
         "prester-john-presbyter-rus-horde-nc-investigation.md": {
           "_title": "Prester John, *Presbyter Ioannes*, and the Rus\u2013Horde Christian East \u2014 NC and author thesis",
-          "_updated": "2026-04-03T12:04:23Z"
+          "_updated": "2026-04-03T12:16:57Z"
+        },
+        "prester-john-presbyter-rus-horde-nc-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JagCdAEDHtRPZLgAAPuWCioa/VxZ8nwYTauApwP40YrQRvtFdRQPqJge/qo7U3IlNzsSAAA=",
+          "_updated": "2026-04-03T12:18:27Z"
         },
         "radiocarbon-dating-investigation.md": {
           "_title": "Investigation: Radiocarbon Dating \u2014 Dogmatic Adoption and the Electrical Activity Problem",
@@ -5650,7 +5656,7 @@
           "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record",
           "_updated": "2026-03-30T13:04:38Z"
         },
-        "_count": 26
+        "_count": 27
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -6524,7 +6530,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 252
+      "_count": 253
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -8273,7 +8279,7 @@
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive",
       "_updated": "2026-03-28T12:27:19Z"
     },
-    "_count": 548
+    "_count": 549
   },
   "influence": {
     "censorship": {
@@ -10915,6 +10921,6 @@
     },
     "_count": 153
   },
-  "_count": 1918,
-  "_version": "b1075af"
+  "_count": 1919,
+  "_version": "c532497"
 }
