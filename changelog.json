@@ -1,5 +1,10 @@
 [
   {
+    "hash": "c532497089dbf8b11e74e0302de24e3ce30648c8",
+    "date": "2026-04-03T12:16:57.000Z",
+    "message": "chronology: Prester John investigation note and index updates"
+  },
+  {
     "hash": "b1075afd731668b9e2ce31f65ee5f3edb8997688",
     "date": "2026-04-02T15:51:01.000Z",
     "message": "docs(perspective): document Saturn’s two registers on Chronologia forum"
@@ -18,10 +23,5 @@
     "hash": "a0d769379dc75d0ac83eebf81718195f765bc7a4",
     "date": "2026-03-30T14:02:57.000Z",
     "message": "Docs: page.md hubs need AutoIndex; index _updated from git"
-  },
-  {
-    "hash": "88d7f3821b87778298d107b7f713aff5e94f5b07",
-    "date": "2026-03-30T13:53:08.000Z",
-    "message": "Home page: fold TL;DR into welcome lead, trim redundant lines."
   }
 ]
