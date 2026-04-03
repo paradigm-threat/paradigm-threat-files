@@ -119,11 +119,15 @@
       "_title": "GitHub disabled all 72 repos; GitLab migration; Swift / *Gulliver* Mars dossier and site index updates",
       "_updated": "2026-03-30T12:00:00Z"
     },
+    "2026-04-03-prester-john-religious-edition-brand-slogans.md": {
+      "_title": "Prester John investigation, religious edition voice, official slogans on brand art",
+      "_updated": "2026-04-03T12:00:00Z"
+    },
     "page.md": {
       "_title": "Blog",
       "_updated": "2026-03-24T14:41:35Z"
     },
-    "_count": 30
+    "_count": 31
   },
   "book": {
     "page.md": {
@@ -139,7 +143,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-03T12:16:57Z"
+    "_updated": "2026-04-03T12:20:03Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5607,13 +5611,13 @@
         },
         "prester-john-presbyter-rus-horde-nc-investigation.md": {
           "_title": "Prester John, *Presbyter Ioannes*, and the Rus\u2013Horde Christian East \u2014 NC and author thesis",
-          "_updated": "2026-04-03T12:16:57Z"
+          "_updated": "2026-04-03T12:20:03Z"
         },
         "prester-john-presbyter-rus-horde-nc-investigation.png": {
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JagCdAEDHtRPZLgAAPuWCioa/VxZ8nwYTauApwP40YrQRvtFdRQPqJge/qo7U3IlNzsSAAA=",
-          "_updated": "2026-04-03T12:18:27Z"
+          "_updated": "2026-04-03T12:20:03Z"
         },
         "radiocarbon-dating-investigation.md": {
           "_title": "Investigation: Radiocarbon Dating \u2014 Dogmatic Adoption and the Electrical Activity Problem",
@@ -10921,6 +10925,6 @@
     },
     "_count": 153
   },
-  "_count": 1919,
-  "_version": "c532497"
+  "_count": 1920,
+  "_version": "ba975b0"
 }
