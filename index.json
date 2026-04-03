@@ -139,7 +139,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-02T15:18:43Z"
+    "_updated": "2026-04-02T15:51:01Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5605,6 +5605,10 @@
           "_title": "Chronology Investigations \u2014 Index",
           "_updated": "2026-03-16T15:13:44Z"
         },
+        "prester-john-presbyter-rus-horde-nc-investigation.md": {
+          "_title": "Prester John, *Presbyter Ioannes*, and the Rus\u2013Horde Christian East \u2014 NC and author thesis",
+          "_updated": "2026-04-03T12:04:23Z"
+        },
         "radiocarbon-dating-investigation.md": {
           "_title": "Investigation: Radiocarbon Dating \u2014 Dogmatic Adoption and the Electrical Activity Problem",
           "_updated": "2026-03-30T13:04:38Z"
@@ -5646,7 +5650,7 @@
           "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record",
           "_updated": "2026-03-30T13:04:38Z"
         },
-        "_count": 25
+        "_count": 26
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -6520,7 +6524,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 251
+      "_count": 252
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -8269,7 +8273,7 @@
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive",
       "_updated": "2026-03-28T12:27:19Z"
     },
-    "_count": 547
+    "_count": 548
   },
   "influence": {
     "censorship": {
@@ -9435,7 +9439,7 @@
     "perspective": {
       "russian-perspective.md": {
         "_title": "Chronologia forum \u2014 resistance to Third Story\u2013style outreach",
-        "_updated": "2026-04-02T15:18:43Z"
+        "_updated": "2026-04-02T15:51:01Z"
       },
       "_count": 1
     },
@@ -10911,6 +10915,6 @@
     },
     "_count": 153
   },
-  "_count": 1917,
-  "_version": "dd05f56"
+  "_count": 1918,
+  "_version": "b1075af"
 }
