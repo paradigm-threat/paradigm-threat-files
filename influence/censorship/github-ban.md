@@ -19,6 +19,8 @@ The read from this side is cynical but consistent with the UI: **if GitHub told 
 
 ![GitHub restriction context (continued)](/influence/censorship/github-ban3.png '{"className":"max-w-[800px] m-auto"}')
 
+![GitHub restriction context (continued)](/influence/censorship/github-ban4.png '{"className":"max-w-[800px] m-auto"}')
+
 ---
 
 ## Public references (opaque enforcement, Actions, support)
