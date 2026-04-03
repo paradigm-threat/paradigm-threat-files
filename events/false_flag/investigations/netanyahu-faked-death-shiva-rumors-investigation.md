@@ -1,5 +1,7 @@
 # Investigation: Would Netanyahu Want a Faked Death Here? — Motive, Timeline, and Iran Narrative
 
+![March 2026 rumor window — Yair Netanyahu X silence, shiva framing, and strike chatter (illustrative)](netanyahu-faked-death-shiva-rumors-investigation.png)
+
 > **TL;DR:** Investigation: Would Netanyahu Want a Faked Death Here? — Motive, Timeline, and Iran Narrative: Ongoing. This file focuses on one question only: how **plausible it is that Netanyahu would want to stage or adopt a faked death around the March 2026 rumor window—as a way to shed domestic political exposure after pushing his main strategic aims as far as he can, while preserving or improving the Iran / wartime…
 ## Status
 
@@ -24,8 +26,6 @@ Early **March 2026**, amid **Israel–Iran escalation**, social and some state-a
 | Mid-Mar 2026 | Netanyahu proof-of-life messaging; rumor rebuttals. |
 | 18 Mar 2026 | Levins post tying 8 Mar to shiva framing (status `2034295775451021339` per IBTimes). |
 | 19 Mar 2026 | IBTimes and others synthesize silence + strike rumors. |
-
-![March 2026 rumor window: Yair Netanyahu X silence, shiva framing, and strike chatter (illustrative)](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.png)
 
 ---
 
