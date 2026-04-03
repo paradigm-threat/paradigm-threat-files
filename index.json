@@ -143,7 +143,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-03T12:25:20Z"
+    "_updated": "2026-04-03T12:35:28Z"
   },
   "cosmos": {
     "cosmology": {
@@ -8383,13 +8383,13 @@
       },
       "github-ban.md": {
         "_title": "GitHub: arbitrary restriction without notice",
-        "_updated": "2026-03-30T13:49:58Z"
+        "_updated": "2026-04-03T12:35:28Z"
       },
       "github-ban.png": {
         "_width": 1536,
         "_height": 1024,
         "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoQAAsABUB8JbACdABhtC4AAM4d9kMZ2z9jgVx0bbYa7NmIc5eVFWfOTao9HvSwXHsriqLN8THb/LfckAAAAA==",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_updated": "2026-04-03T12:35:28Z"
       },
       "github-ban2.png": {
         "_width": 971,
@@ -8407,7 +8407,7 @@
         "_width": 971,
         "_height": 294,
         "_lqip": "data:image/webp;base64,UklGRiwAAABXRUJQVlA4ICAAAABwAQCdASoQAAUABUB8JZwC7AFAAAD+76X03XUkN/ygAA==",
-        "_updated": "2026-03-30T13:19:22Z"
+        "_updated": "2026-04-03T12:35:28Z"
       },
       "google_censorship.jpg": {
         "_width": 631,
@@ -10932,5 +10932,5 @@
     "_count": 153
   },
   "_count": 1921,
-  "_version": "2152964"
+  "_version": "8965f69"
 }

@@ -1,5 +1,10 @@
 [
   {
+    "hash": "8965f69e46d5af9bdef2539a44f241c1fa5afdfb",
+    "date": "2026-04-03T12:35:28.000Z",
+    "message": "Censorship: GitHub ban doc — fourth screenshot, prose; fix blog summary markdown"
+  },
+  {
     "hash": "215296449c556ef3c94732be80bf089fff4eacb9",
     "date": "2026-04-03T12:25:20.000Z",
     "message": "Blog: retitle April 3 entry to match full git-log scope"
@@ -18,10 +23,5 @@
     "hash": "0f8787c9c67fc3992be924b6ea2644fb4490af25",
     "date": "2026-04-03T12:21:50.000Z",
     "message": "Blog: April 3 — Prester John dossier, religious edition, brand slogans"
-  },
-  {
-    "hash": "ba975b0de38d0bda59a812a4cecc3d3f183f5220",
-    "date": "2026-04-03T12:20:03.000Z",
-    "message": "Investigations: embed Prester John article hero image; add PNG asset"
   }
 ]
