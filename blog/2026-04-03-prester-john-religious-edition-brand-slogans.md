@@ -1,4 +1,4 @@
-# Prester John investigation, religious edition voice, official slogans on brand art
+# Prester John NC dossier; *Jacob’s Ladder* / Eckhart & Cathar–Khazar suppression; Chronologia perspective; religious edition; brand & site — April 3, 2026
 
 *April 3, 2026 — Paradigm Threat*
 
