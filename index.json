@@ -143,7 +143,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-03T12:35:28Z"
+    "_updated": "2026-04-03T14:28:57Z"
   },
   "cosmos": {
     "cosmology": {
@@ -2033,7 +2033,7 @@
         },
         "netanyahu-faked-death-shiva-rumors-investigation.md": {
           "_title": "Investigation: Would Netanyahu Want a Faked Death Here? \u2014 Motive, Timeline, and Iran Narrative",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_updated": "2026-04-03T14:28:57Z"
         },
         "netanyahu-faked-death-shiva-rumors-investigation.png": {
           "_width": 1536,
@@ -8935,6 +8935,19 @@
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQAA8ABUB8JaQAAg+vcAAA/uowVI8e7eb+iksGpvONOujpb5rx9nEFFt4PnmFH11yGAAAA",
         "_updated": "2026-01-16T01:04:59Z"
       },
+      "investigations": {
+        "toynbee-tiles-resurrect-dead-documentary-investigation.md": {
+          "_title": "Investigation: Toynbee Tiles \u2014 *Resurrect Dead* (2011) and the street campaign",
+          "_updated": "2026-04-04T11:28:33Z"
+        },
+        "toynbee-tiles-resurrect-dead-documentary-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JZACdAEDE5uizYKAAP6o3405oEhYq5b6mSCZRqefBX1rsvNvV/86gmpXc/CoTrB8Wg9fOAA=",
+          "_updated": "2026-04-04T11:29:14Z"
+        },
+        "_count": 2
+      },
       "jesus_cesare_borgia_rex_bellator.jpg": {
         "_width": 720,
         "_height": 707,
@@ -9293,7 +9306,7 @@
         "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADwAQCdASoHABAABUB8JaQAAvqolqtuUEAA/uuBLv6j7KHCptuke6CLOwAAAA==",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 134
+      "_count": 136
     },
     "controlled_opposition": {
       "00.md": {
@@ -10022,7 +10035,7 @@
       },
       "_count": 3
     },
-    "_count": 317
+    "_count": 319
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
@@ -10931,6 +10944,6 @@
     },
     "_count": 153
   },
-  "_count": 1921,
-  "_version": "8965f69"
+  "_count": 1923,
+  "_version": "99dc491"
 }
