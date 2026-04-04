@@ -143,7 +143,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-04T13:37:08Z"
+    "_updated": "2026-04-04T14:09:53Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5555,6 +5555,16 @@
           "_title": "Creation Event Interpretations Across Religions",
           "_updated": "2026-03-30T13:04:38Z"
         },
+        "etana-sumerian-king-list-saturnian-investigation.md": {
+          "_title": "Investigation: Etana, the Sumerian King List, and \"Wheels in the Sky\" Testimony (Open)",
+          "_updated": "2026-04-04T14:44:50Z"
+        },
+        "etana-sumerian-king-list-saturnian-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JbACdADaTcutoAD2Qbe2OcpU5rWUp3iG2dUC/Qp9bIdPqZyqoBVlUYagq30cL0EHxMAAAAA=",
+          "_updated": "2026-04-04T14:44:02Z"
+        },
         "giants-infantry-guerrilla-etymology-investigation.md": {
           "_title": "Giants, Infantry, Guerrilla, and the Children's Crusade \u2014 Lexical Investigation",
           "_updated": "2026-03-30T13:04:38Z"
@@ -5660,7 +5670,7 @@
           "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record",
           "_updated": "2026-03-30T13:04:38Z"
         },
-        "_count": 27
+        "_count": 29
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -6534,7 +6544,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 253
+      "_count": 255
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -8283,7 +8293,7 @@
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive",
       "_updated": "2026-03-28T12:27:19Z"
     },
-    "_count": 549
+    "_count": 551
   },
   "influence": {
     "censorship": {
@@ -10963,6 +10973,6 @@
     },
     "_count": 153
   },
-  "_count": 1926,
-  "_version": "b7d8475"
+  "_count": 1928,
+  "_version": "4d8983a"
 }
