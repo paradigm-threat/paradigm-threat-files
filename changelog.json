@@ -1,27 +1,126 @@
 [
   {
+    "repo": "paradigm-threat-files",
+    "hash": "31390817ca9ef6bf4ee26c28c458daa19bc64784",
+    "date": "2026-04-04T15:14:09.000Z",
+    "message": "Chronology: update investigations index.",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "c8e53ac001d2ef23aacf25dd789ec55e57b3af09",
     "date": "2026-04-04T14:44:57.000Z",
-    "message": "Add Etana investigation header image"
+    "message": "Add Etana investigation header image",
+    "files": [
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md",
+        "href": "/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.png",
+        "href": "/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.png"
+      }
+    ]
   },
   {
+    "repo": "paradigm-threat-files",
     "hash": "4d8983a3654d15ba10c25bee2bae5c63c3ed0493",
     "date": "2026-04-04T14:09:53.000Z",
-    "message": "docs: update linking and site paths"
+    "message": "docs: update linking and site paths",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/LINKING_AND_SITE_PATHS.md",
+        "href": "/docs/LINKING_AND_SITE_PATHS"
+      }
+    ]
   },
   {
+    "repo": "paradigm-threat-files",
     "hash": "b7d84754698570cb3c2306d6bb542a08d586fe54",
     "date": "2026-04-04T13:37:08.000Z",
-    "message": "Add Urantia investigation image and index links"
+    "message": "Add Urantia investigation image and index links",
+    "files": [
+      {
+        "status": "A",
+        "path": "influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation"
+      },
+      {
+        "status": "A",
+        "path": "influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.png",
+        "href": "/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/page.md",
+        "href": "/influence/predictive_programming"
+      }
+    ]
   },
   {
+    "repo": "paradigm-threat-files",
     "hash": "0abdf321768aa570ae767171917ff659558ea9db",
     "date": "2026-04-04T11:52:30.000Z",
-    "message": "influence/censorship: tie silence to right to speculate on GitHub bans"
+    "message": "influence/censorship: tie silence to right to speculate on GitHub bans",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/censorship/github-ban.md",
+        "href": "/influence/censorship/github-ban"
+      }
+    ]
   },
   {
+    "repo": "paradigm-threat-files",
     "hash": "dc31f1a0e1a0f71581ea328e4c9056acd3a9593a",
     "date": "2026-04-04T11:43:35.000Z",
-    "message": "github ban update"
+    "message": "github ban update",
+    "files": [
+      {
+        "status": "A",
+        "path": "influence/censorship/github-ban5.png",
+        "href": "/influence/censorship/github-ban5.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md",
+        "href": "/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "2c8549674db334a8f71b964571dadfe896fe54b3",
+    "date": "2026-04-04T11:41:48.000Z",
+    "message": "merged",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/censorship/github-ban.md",
+        "href": "/influence/censorship/github-ban"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "36c00fb70724779542ecee92ecd6bfce72455f7d",
+    "date": "2026-04-04T11:30:11.000Z",
+    "message": "Add Toynbee tiles investigation hero image (PNG)",
+    "files": [
+      {
+        "status": "A",
+        "path": "influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.png",
+        "href": "/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.png"
+      }
+    ]
   }
 ]
