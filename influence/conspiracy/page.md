@@ -20,6 +20,7 @@ Investigations and essays on suppressed truth and manufactured narratives.
 
 ## Investigations
 
+- [Toynbee Tiles — *Resurrect Dead* (2011)](/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md) — Street-mosaic mystery; media bypass, pseudonym, documentary chain of evidence
 - [Bitcoin](/influence/conspiracy/topics/bitcoin)
 - [Zoot Suit Riots](/influence/conspiracy/topics/zoot) — Historical investigation
 - [Circumcision Cult](/influence/conspiracy/topics/circumcision_cult)
