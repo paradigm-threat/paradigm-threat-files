@@ -143,7 +143,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-04T14:44:57Z"
+    "_updated": "2026-04-04T15:14:09Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5593,7 +5593,7 @@
         },
         "index-investigations.md": {
           "_title": "Chronology Investigations \u2014 Index",
-          "_updated": "2026-04-03T12:16:57Z"
+          "_updated": "2026-04-04T15:14:09Z"
         },
         "index-offenbarung.md": {
           "_title": "Die Offenbarung Johannis \u2014 English Index",
@@ -10974,5 +10974,5 @@
     "_count": 153
   },
   "_count": 1928,
-  "_version": "c8e53ac"
+  "_version": "3139081"
 }
