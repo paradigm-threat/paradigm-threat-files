@@ -143,7 +143,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-04T11:43:35Z"
+    "_updated": "2026-04-04T11:52:30Z"
   },
   "cosmos": {
     "cosmology": {
@@ -8383,7 +8383,7 @@
       },
       "github-ban.md": {
         "_title": "GitHub: arbitrary restriction without notice",
-        "_updated": "2026-04-04T11:41:48Z"
+        "_updated": "2026-04-04T11:52:30Z"
       },
       "github-ban.png": {
         "_width": 1536,
@@ -9760,6 +9760,19 @@
           },
           "_count": 3
         },
+        "urantia": {
+          "index-urantia-book-investigation.md": {
+            "_title": "Investigation: The Urantia Book (1955) -- Controlled Opposition and Predictive Programming (Open)",
+            "_updated": "2026-04-04T13:36:53Z"
+          },
+          "index-urantia-book-investigation.png": {
+            "_width": 1536,
+            "_height": 1024,
+            "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAABwAQCdASoQAAsABUB8JQBOgAqBYAD+qhRG9q6b5/E1VNsdUw9VNX+RHajM5PbvqpU/ajhNl8px4aUbanMbh68ccdh6FBqAAAA=",
+            "_updated": "2026-04-04T13:36:04Z"
+          },
+          "_count": 2
+        },
         "wells": {
           "index-island-of-dr-moreau.md": {
             "_title": "The Island of Dr. Moreau (1896) \u2014 Index & Investigation",
@@ -9797,7 +9810,7 @@
           },
           "_count": 1
         },
-        "_count": 61
+        "_count": 63
       },
       "fire_on_the_mountain.jpg": {
         "_width": 250,
@@ -9872,7 +9885,7 @@
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAwABUB8JZQC7ADO2JDn8AAA/uoll/ZkIPdWjbj9OpMh93F3uWmixuw7EX1ZNlV+HCHVLRT1rBcsYAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 76
+      "_count": 78
     },
     "public-schools.jpg": {
       "_width": 1024,
@@ -10041,7 +10054,7 @@
       },
       "_count": 3
     },
-    "_count": 320
+    "_count": 322
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
@@ -10950,6 +10963,6 @@
     },
     "_count": 153
   },
-  "_count": 1924,
-  "_version": "dc31f1a"
+  "_count": 1926,
+  "_version": "0abdf32"
 }
