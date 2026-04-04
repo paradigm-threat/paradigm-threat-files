@@ -143,7 +143,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-04T11:30:11Z"
+    "_updated": "2026-04-04T11:43:35Z"
   },
   "cosmos": {
     "cosmology": {
@@ -8413,7 +8413,7 @@
         "_width": 413,
         "_height": 242,
         "_lqip": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABQAQCdASoQAAkABUB8JZwABAAAAP7vwteE5pymuUbiqpI/OckMAAAA",
-        "_updated": "2026-04-04T11:37:28Z"
+        "_updated": "2026-04-04T11:43:35Z"
       },
       "google_censorship.jpg": {
         "_width": 631,
@@ -8944,7 +8944,7 @@
       "investigations": {
         "toynbee-tiles-resurrect-dead-documentary-investigation.md": {
           "_title": "Investigation: Toynbee Tiles \u2014 *Resurrect Dead* (2011) and the street campaign",
-          "_updated": "2026-04-04T11:29:51Z"
+          "_updated": "2026-04-04T11:43:35Z"
         },
         "toynbee-tiles-resurrect-dead-documentary-investigation.png": {
           "_width": 1536,
@@ -10951,5 +10951,5 @@
     "_count": 153
   },
   "_count": 1924,
-  "_version": "2c85496"
+  "_version": "dc31f1a"
 }
