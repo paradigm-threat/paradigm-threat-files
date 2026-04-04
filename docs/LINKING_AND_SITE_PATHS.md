@@ -22,3 +22,18 @@ From **paradigm-threat-timeline** `content/*.md`, link to investigations with ro
 ## Folder hubs (`page.md` + AutoIndex)
 
 If you add **`page.md`** in a folder that also contains other files, the live site will **not** show the automatic file list for that URL. Append **`<AutoIndex sort="name-asc" />`** (and a short “Folder contents” section) at the bottom of `page.md` so nothing stays hidden. See **`docs/instructions/PAGE_MD_AUTOINDEX.md`**.
+
+## Do not use the old `github.com/clevertree` URLs
+
+The **`clevertree`** GitHub user account and its repositories are **no longer available**. Any link of the form `https://github.com/clevertree/...` (including `blob` / `tree` paths to **paradigm-threat-files**, **paradigm-threat-timeline**, Relay tooling repos, etc.) **will not resolve** for readers.
+
+**When editing or adding links:**
+
+- **Do not** introduce new links to `github.com/clevertree/...`.
+- **Replace** reader-facing GitHub URLs with working targets where possible:
+  - **This repo’s pages:** root-relative paths on the live site, e.g. `/science/nukes/investigations/example.md`, or full URLs `https://paradigmthreat.net/...` (see above and **`docs/BLOG.md`** for blog-only absolute URL rules).
+  - **Timeline source or exports:** prefer paths on **https://paradigmthreat.net** (timeline app and deployed assets) or plain repo-relative paths in internal maintainer docs—not GitHub.
+
+**Related:** Old **GitHub Pages** URLs under `https://clevertree.github.io/...` (e.g. timeline exports) depended on the same account; treat them as **dead** unless republished elsewhere. When migrating content, point to the current **paradigmthreat.net** (or other live) location instead.
+
+*Finding stragglers:* from each repo root, `rg 'github\.com/clevertree|clevertree\.github\.io'` lists remaining occurrences to fix or replace.
