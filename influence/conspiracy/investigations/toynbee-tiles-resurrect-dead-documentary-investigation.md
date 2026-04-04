@@ -14,16 +14,20 @@ This file tracks the **Toynbee tiles**: asphalt-embedded messages, mainly in the
 
 ## Owner conclusion — controlled opposition and the all-or-nothing trap
 
-**Thesis (site owner):** The Toynbee tile mystery—as **public spectacle** and as the **closed, humanizing arc** of *Resurrect Dead*—operates as **controlled opposition**: it **deflects** from **real** government and institutional conspiracies by packaging “conspiracy” as **one bundled author** who is easy to pity, pathologize, or debunk.
+**Definitions (site owner):** **Controlled opposition** here means **controlled and sponsored**—not merely “a crank who helps the regime by accident.” The surface story is **managed disclosure**: enough **true spine** leaks into culture that the system can **steer** how it is received. It is **extremely unlikely** that there is **no truth** to the underlying conspiracy; the more plausible read is a **real project** (or family of projects) whose **public face** is **made silly and dismissable on purpose**—tiles, lone eccentric, “debunked” myth—so serious inquiry **dies with the joke**.
 
-**The trick** is an **all-or-nothing** frame pushed on the viewer:
+**Typical CO shape:** Large **sections of the plot are omitted** or swapped for absurd detail, while **main beats stay recognizable**—enough that people who sense the outline are **anchored** to a **caricature** version. The audience is trained to **confuse the decoy with the whole**.
+
+**The trick** remains an **all-or-nothing** frame pushed on the viewer:
 
 1. **If** the tiler’s **full** story is treated as the standard—every sidebar about **NBC**, **FBI**, **Interpol**, **Soviet** fronts, **“hellions,”** **mafia**, **journalists**, etc.—then the audience is steered toward a **maximal, cartoon espionage** world: either you swallow the **whole** paranoid package or you walk away.
 2. **If not**—if that package is rejected because the Jupiter resurrection scheme or the violent rants are absurd—the same logic **smuggles** a second conclusion: **there are no conspiracies at all**, anywhere, ever. Real coordination (documented **agency abuse**, **media capture**, **war lies**, **false-flag patterns**, **COINTELPRO-grade** history) gets **thrown out with the tile**.
 
 Either pole **protects** the middle where **actual** conspiracies live: **partial**, **evidence-backed**, **institutional**—not identical to one street mystic’s manifesto. The **litmus test** for whether power conspires must **not** be whether this **bundle** is true.
 
-**Operational read:** Reject the **package deal**; keep **disaggregated** inquiry. *Who* runs the opposition and whether any given film participant is **witting** stays **open** pending evidence.
+**Owner working hypothesis (speculative — not proven):** The **core signal** in the Toynbee / *2001* / **“resurrect dead”** cluster may rhyme with a **technological**, **distributed** program rather than literal bodies on a gas giant: e.g. **resurrection-of-the-dead** framing mapped onto **injection platforms**, **cellular / genetic** intervention, and **RF / tower infrastructure** (**5G** and successors)—with **orbital or planetary** framing (**Jupiter** in the tiles, **Mars** in adjacent project threads) standing in for **timing, ephemeris, or uplink** metaphor, not classroom astronomy. **Confidence: low**; purpose of the hypothesis is to **refuse** the false choice between “mad loner fantasy” and “nothing to see.”
+
+**Operational read:** Reject the **package deal**; keep **disaggregated** inquiry. Treat tiles + documentary **closure** as **possible sponsored theater** until sponsorship traces exist. *Who* funds or routes the **opposition** layer, and whether any given participant is **witting**, stays **open** pending evidence.
 
 ---
 
@@ -71,18 +75,19 @@ Roughly as *Resurrect Dead* presents it:
 
 1. **Media bypass:** The campaign is a case study in **moving a thesis from refused channels into durable public surfaces**—analogous in *form* (not in merit) to samizdat, graffiti, and later **algorithm-resistant** physical messaging.
 2. **Pseudonym as interface:** **Morasco** as a **confident spokesperson** vs. **Verna** as **withdrawn maintainer** maps to how **personae** mediate dangerous or embarrassing ideas—relevant anywhere the archive shows **front names** and **hidden authors**.
-3. **Sidebar text (dual read):** In-film participants treat violent, anti-journalist rants as **paranoia** plus evidence of a **single** author. **Owner conclusion** adds: that same **bundle** may function as **controlled opposition**—lumping **real** state/media crime with **absurd** claims so that rejecting the lump **clears** the whole board (see **Owner conclusion**).
+3. **Sidebar text (dual read):** In-film participants treat violent, anti-journalist rants as **paranoia** plus evidence of a **single** author. **Owner conclusion** adds: that same **bundle** may be **sponsored controlled opposition**—**managed disclosure** that is **intentionally silly**, lumping **real** state/media crime with **absurd** claims so that rejecting the lump **clears** the whole board (see **Owner conclusion**).
 4. **Kubrick / Jupiter:** The tiles treat **mass cinema** as **scripture**—useful when tracking how **Cold War–era blockbusters** became **shared eschatologies** for unofficial cosmologies (compare Mars/Jupiter threads under [cosmos investigations](/cosmos/mars/investigations/)).
 
 ---
 
 ## V. Outstanding questions
 
-- **Controlled opposition (owner thesis):** What **evidence** would separate (a) a **sincere** lone campaign from (b) **placement or amplification** designed to **caricature** conspiracy inquiry—e.g. **timing**, **institutional boost** to the documentary, **imitator** tiles, or **narrative closure** that trains dismissal?
+- **Sponsored CO (owner thesis):** What **evidence** traces **funding**, **access**, or **narrative product** (tiles, film, awards pipeline) to **institutions**—vs. a **sincere** lone campaign? What **separates** accidental deflection from **managed** silly disclosure?
 - **Mamet’s source:** Provable link between a **real 1980 broadcast caller** and *4 a.m.*, or convergent invention?
 - **Legal record:** Any **charged offenses** or **civil actions** tied to tiles, shortwave, or TV interference—court files vs. anecdote.
 - **Ongoing tiling:** As of dossier write-up, whether **new** tiles are **same lineage** or **imitators** (stylistic forensics).
 - **Toynbee exegesis:** Precise **edition / page** the author read vs. **secondary summaries**—how much of “dead molecules” is **Toynbee** vs. **reader interpolation**.
+- **Speculative map (owner):** Do **tile geography**, **shortwave**, **TV bleed**, or **Conrail / Chile** threads correlate with **infrastructure rollouts** or **ephemeris / mission** windows in a way that tests the **vaccines / towers / planetary signal** hypothesis—or falsifies it?
 
 ---
 
@@ -95,4 +100,4 @@ Roughly as *Resurrect Dead* presents it:
 
 ---
 
-*Last updated: 2026-04-04 — owner conclusion (controlled opposition, all-or-nothing trap).*
+*Last updated: 2026-04-04 — owner conclusion: sponsored CO, managed silly disclosure, hollowed plot; speculative vaccines/towers/Jupiter–Mars read.*

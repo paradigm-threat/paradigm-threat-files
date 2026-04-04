@@ -143,7 +143,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-04T11:29:51Z"
+    "_updated": "2026-04-04T11:30:11Z"
   },
   "cosmos": {
     "cosmology": {
@@ -8383,7 +8383,7 @@
       },
       "github-ban.md": {
         "_title": "GitHub: arbitrary restriction without notice",
-        "_updated": "2026-04-03T12:35:28Z"
+        "_updated": "2026-04-04T11:41:48Z"
       },
       "github-ban.png": {
         "_width": 1536,
@@ -8408,6 +8408,12 @@
         "_height": 294,
         "_lqip": "data:image/webp;base64,UklGRiwAAABXRUJQVlA4ICAAAABwAQCdASoQAAUABUB8JZwC7AFAAAD+76X03XUkN/ygAA==",
         "_updated": "2026-04-03T12:35:28Z"
+      },
+      "github-ban5.png": {
+        "_width": 413,
+        "_height": 242,
+        "_lqip": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABQAQCdASoQAAkABUB8JZwABAAAAP7vwteE5pymuUbiqpI/OckMAAAA",
+        "_updated": "2026-04-04T11:37:28Z"
       },
       "google_censorship.jpg": {
         "_width": 631,
@@ -8541,7 +8547,7 @@
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoPABAABUB8JaQAAudFrAAA/uf+VxJYgBDkgzNzH3PWm1gZpQx4AAAA",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 43
+      "_count": 44
     },
     "conspiracy": {
       "13_families.jpg": {
@@ -8944,7 +8950,7 @@
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JZACdAEDE5uizYKAAP6o3405oEhYq5b6mSCZRqefBX1rsvNvV/86gmpXc/CoTrB8Wg9fOAA=",
-          "_updated": "2026-04-04T11:29:14Z"
+          "_updated": "2026-04-04T11:30:11Z"
         },
         "_count": 2
       },
@@ -10035,7 +10041,7 @@
       },
       "_count": 3
     },
-    "_count": 319
+    "_count": 320
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
@@ -10944,6 +10950,6 @@
     },
     "_count": 153
   },
-  "_count": 1923,
-  "_version": "f717a98"
+  "_count": 1924,
+  "_version": "2c85496"
 }

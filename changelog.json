@@ -1,5 +1,15 @@
 [
   {
+    "hash": "2c8549674db334a8f71b964571dadfe896fe54b3",
+    "date": "2026-04-04T11:41:48.000Z",
+    "message": "merged"
+  },
+  {
+    "hash": "36c00fb70724779542ecee92ecd6bfce72455f7d",
+    "date": "2026-04-04T11:30:11.000Z",
+    "message": "Add Toynbee tiles investigation hero image (PNG)"
+  },
+  {
     "hash": "f717a98a1ea7e96b02062438acc0a4d30d7ec772",
     "date": "2026-04-04T11:29:51.000Z",
     "message": "Add Toynbee tiles investigation (*Resurrect Dead* dossier, owner CO thesis)"
@@ -13,15 +23,5 @@
     "hash": "8965f69e46d5af9bdef2539a44f241c1fa5afdfb",
     "date": "2026-04-03T12:35:28.000Z",
     "message": "Censorship: GitHub ban doc — fourth screenshot, prose; fix blog summary markdown"
-  },
-  {
-    "hash": "215296449c556ef3c94732be80bf089fff4eacb9",
-    "date": "2026-04-03T12:25:20.000Z",
-    "message": "Blog: retitle April 3 entry to match full git-log scope"
-  },
-  {
-    "hash": "11443ad235549ea10fabbf5584d4ffad98404f04",
-    "date": "2026-04-03T12:24:21.000Z",
-    "message": "docs(BLOG): require git log across all repos before new blog posts"
   }
 ]
