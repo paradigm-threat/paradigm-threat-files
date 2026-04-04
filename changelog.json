@@ -1,5 +1,10 @@
 [
   {
+    "hash": "c8e53ac001d2ef23aacf25dd789ec55e57b3af09",
+    "date": "2026-04-04T14:44:57.000Z",
+    "message": "Add Etana investigation header image"
+  },
+  {
     "hash": "4d8983a3654d15ba10c25bee2bae5c63c3ed0493",
     "date": "2026-04-04T14:09:53.000Z",
     "message": "docs: update linking and site paths"
@@ -18,10 +23,5 @@
     "hash": "dc31f1a0e1a0f71581ea328e4c9056acd3a9593a",
     "date": "2026-04-04T11:43:35.000Z",
     "message": "github ban update"
-  },
-  {
-    "hash": "2c8549674db334a8f71b964571dadfe896fe54b3",
-    "date": "2026-04-04T11:41:48.000Z",
-    "message": "merged"
   }
 ]

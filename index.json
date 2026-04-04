@@ -143,7 +143,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-04T14:09:53Z"
+    "_updated": "2026-04-04T14:44:57Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5557,13 +5557,13 @@
         },
         "etana-sumerian-king-list-saturnian-investigation.md": {
           "_title": "Investigation: Etana, the Sumerian King List, and \"Wheels in the Sky\" Testimony (Open)",
-          "_updated": "2026-04-04T14:44:50Z"
+          "_updated": "2026-04-04T14:44:57Z"
         },
         "etana-sumerian-king-list-saturnian-investigation.png": {
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JbACdADaTcutoAD2Qbe2OcpU5rWUp3iG2dUC/Qp9bIdPqZyqoBVlUYagq30cL0EHxMAAAAA=",
-          "_updated": "2026-04-04T14:44:02Z"
+          "_updated": "2026-04-04T14:44:57Z"
         },
         "giants-infantry-guerrilla-etymology-investigation.md": {
           "_title": "Giants, Infantry, Guerrilla, and the Children's Crusade \u2014 Lexical Investigation",
@@ -10974,5 +10974,5 @@
     "_count": 153
   },
   "_count": 1928,
-  "_version": "4d8983a"
+  "_version": "c8e53ac"
 }
