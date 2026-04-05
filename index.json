@@ -411,7 +411,7 @@
       "_updated": "2026-03-28T12:00:00Z"
     },
     "2026-03-30-github-ban-gitlab-migration-and-repo-updates.md": {
-      "_title": "GitHub disabled all 72 repos; GitLab migration; Swift / *Gulliver* Mars dossier and site index updates",
+      "_title": "GitHub account and 72 repos deleted; GitLab migration; Swift / *Gulliver* Mars dossier and site index updates",
       "_keywords": [
         "2026",
         "github",
@@ -420,7 +420,7 @@
         "migration",
         "repo",
         "updates",
-        "disabled",
+        "deleted",
         "repos",
         "swift",
         "gulliver",
@@ -482,7 +482,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-05T17:11:20Z"
+    "_updated": "2026-04-05T17:14:11Z"
   },
   "cosmos": {
     "cosmology": {
@@ -13613,5 +13613,5 @@
     "_count": 153
   },
   "_count": 1931,
-  "_version": "b8d9e83"
+  "_version": "bce5afd"
 }

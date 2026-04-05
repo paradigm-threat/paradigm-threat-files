@@ -1,4 +1,4 @@
-# GitHub disabled all 72 repos; GitLab migration; Swift / *Gulliver* Mars dossier and site index updates
+# GitHub account and 72 repos deleted; GitLab migration; Swift / *Gulliver* Mars dossier and site index updates
 
 *March 30, 2026 — Paradigm Threat*
 
@@ -10,9 +10,9 @@ While the book and timeline work continues, one thread worth surfacing early: **
 
 ## What happened on GitHub
 
-**GitHub suspended the account and disabled all 72 repositories.** The timing lined up with the **release of a recent podcast** where I asked listeners for **help on the book** — same window as the takedown, which reads as more than coincidence.
+**GitHub deleted the account and all 72 repositories.** The timing lined up with the **release of a recent podcast** where I asked listeners for **help on the book** — same window as the takedown, which reads as more than coincidence.
 
-Documentation with screenshots and context: **[GitHub account ban — 72 repositories disabled](https://paradigmthreat.net/influence/censorship/github-ban)**.
+Documentation with screenshots and context: **[GitHub account ban — 72 repositories deleted](https://paradigmthreat.net/influence/censorship/github-ban)**.
 
 **Migration:** Moving mirrors and workflows to **GitLab** took on the order of **half an hour** once the decision was made. Hosting and remotes are being pointed at **GitLab Pages** and GitLab-origin URLs so the public site does not depend on GitHub for file or timeline delivery.
 
@@ -26,7 +26,7 @@ This repo absorbed the **censorship dossier**, the **Swift / *Gulliver*** invest
 
 ### Censorship and hosting
 
-- [GitHub account ban — 72 repositories disabled](https://paradigmthreat.net/influence/censorship/github-ban) — account suspension, disabled repos, screenshots, GitLab migration note.
+- [GitHub account ban — 72 repositories deleted](https://paradigmthreat.net/influence/censorship/github-ban) — account and repos deleted, screenshots, GitLab migration note.
 - **CI / hosting:** GitLab Pages pipeline (`.gitlab-ci.yml`); GitHub Pages workflow removed; branch **main** treated as canonical alongside prior **master** history.
 
 ### Swift and predictive programming
@@ -76,5 +76,5 @@ This repo absorbed the **censorship dossier**, the **Swift / *Gulliver*** invest
 
 ---
 
-Keywords: #2026 #github #ban #gitlab #migration #repo #updates #disabled #repos #swift #gulliver #mars #dossier #site
+Keywords: #2026 #github #ban #gitlab #migration #repo #updates #deleted #repos #swift #gulliver #mars #dossier #site
 
