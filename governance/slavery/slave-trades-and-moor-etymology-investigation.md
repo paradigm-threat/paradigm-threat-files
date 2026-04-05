@@ -153,3 +153,8 @@ After the fracture:
 - Britannica: Moor (people)
 - 1911 Encyclopædia Britannica: Moors
 - Wiktionary / Perseus: *mors*, *Maurus*, PIE *mer-*
+
+---
+
+Keywords: #slave #trades #moor #etymology
+

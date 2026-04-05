@@ -103,3 +103,8 @@ Yamashita composed X3 and Wily Wars via Minakuchi Engineering. Capcom credited "
 - [Soundtrack Central: Mega Man 9 OST](https://soundtrackcentral.com/albums/419/mega-man-9-original-soundtrack)
 - [VGMO: Mega Man 9 Arrange Interview](http://www.vgmonline.net/ippoyamadainterview/)
 - [VGMRips: Reused music in sequels](https://vgmrips.net/forum/viewtopic.php?t=5193)
+
+---
+
+Keywords: #capcom #mega #man #franchise #stolen #credit
+

@@ -117,3 +117,8 @@ Mainstream journalism and academic outreach routinely treat *A Song of Ice and F
 ## Boundary
 
 Reddit is not evidence of Martin’s intent. Wikipedia and fan wikis are secondary sources for bibliographic facts. Historical parallels are mainstream for the Wars of the Roses; Saturnian equation of Westerosi myth to literal Earth catastrophe is this site’s optional hypothesis, not Martin’s claim. “Magic stupid” is user shorthand softened to furniture / subordinate genre layer here. Investigation stays open.
+
+---
+
+Keywords: #george #rr #martin #world #ice #fire #fictional #historian #pattern
+

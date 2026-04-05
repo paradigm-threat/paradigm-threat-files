@@ -15,3 +15,8 @@ once feared that the yōsei could bring the dead back to life. It is also mentio
 small fairies that have no knowledge of great evil and so their hearts never grow old. The Ainu also tell of a race of
 small people known as the Koro-pok-guru in their folklore. Another fairy-like being from Japan is the Kijimuna, tree
 sprites told in the Ryukyuan religion of Okinawa.
+
+---
+
+Keywords: #faeries #existence #cover-up #small #humanoids #like #fairies
+

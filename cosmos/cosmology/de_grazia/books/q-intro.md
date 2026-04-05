@@ -38,3 +38,8 @@ Essential reading before any other volume — it explains the vocabulary, the go
 - [Author Index](../README.md)
 - [Chaos and Creation](chaos-and-creation.md) — first substantive volume
 - [Lately Tortured Earth](lately-tortured-earth.md) — Earth-science companion
+
+---
+
+Keywords: #intro #quantavolution #catastrophe #series #q-c #test
+

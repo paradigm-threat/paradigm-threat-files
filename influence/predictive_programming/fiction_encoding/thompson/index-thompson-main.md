@@ -35,3 +35,8 @@ Across Thompson's work, we look for evidence of:
 ## Cross-Reference
 
 - [Iacocca collection](../iacocca/index-iacocca-main.md) — Business/Republican insider critique of leadership; complementary to Thompson's outsider view
+
+---
+
+Keywords: #thompson #main #hunter
+

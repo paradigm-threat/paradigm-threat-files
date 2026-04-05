@@ -55,3 +55,8 @@ Fanny Mendelssohn (1805–1847), later Fanny Hensel. Virtuosic pianist; composed
 - [Wikipedia: Easter Sonata](https://en.wikipedia.org/wiki/Easter_Sonata)
 - [CNN: Fanny Mendelssohn Easter Sonata](https://www.cnn.com/style/article/fanny-mendelssohn-lost-sonata-trnd)
 - [PianoDao: Fanny Hensel Easter Sonata](https://pianodao.com/2025/01/31/fanny-hensel-easter-sonata/)
+
+---
+
+Keywords: #fanny #mendelssohn #hensel
+

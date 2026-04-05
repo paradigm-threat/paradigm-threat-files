@@ -112,3 +112,8 @@
 - [VGMPF: Minako Hamano](https://www.vgmpf.com/Wiki/index.php?title=Minako_Hamano)
 - [Super Mario Wiki: Minako Hamano](https://www.mariowiki.com/Minako_Hamano)
 - [RAWG: Minako Hamano](https://rawg.io/creators/minako-hamano)
+
+---
+
+Keywords: #minako #hamano
+

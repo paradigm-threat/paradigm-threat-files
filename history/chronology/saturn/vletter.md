@@ -122,3 +122,8 @@ wish you luck.
 With friendly feelings,
 
 Im. Velikovsky
+
+---
+
+Keywords: #vletter
+

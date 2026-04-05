@@ -139,3 +139,8 @@ One of Square's most successful and impressive games ever had a sequel that:
 - [Square Enix Music: Mitsuda Oct 2005 interview](https://www.squareenixmusic.com/interviews/mitsuda.html)
 - [VGMPF: Chrono Trigger credits](https://www.vgmpf.com/Wiki/index.php?title=Chrono_Trigger)
 - [StrategyWiki: Chrono Trigger credits](https://strategywiki.org/wiki/Chrono_Trigger/Credits)
+
+---
+
+Keywords: #yasunori #mitsuda
+

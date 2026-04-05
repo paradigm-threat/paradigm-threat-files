@@ -258,3 +258,8 @@ This should be preserved as a **New Chronology reinterpretation** of Brandenburg
 ## Conclusion
 
 Brandenburg's *Death on Mars* documents an unsolved mystery: something catastrophic happened to Mars. His isotope analysis, deep-time dating, and "Dark Star" alien hypothesis are not used as evidence in this timeline. The timeline's Mars catastrophe thesis is independently motivated. Brandenburg is noteworthy only as evidence that other researchers are curious about the same question — and as a case study in how predictive programming channels genuine curiosity into dead ends.
+
+---
+
+Keywords: #death #mars #analysis #book
+

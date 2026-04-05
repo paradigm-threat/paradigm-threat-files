@@ -29,3 +29,8 @@ Heribert Illig's "phantom time" (297 years, 614–911 CE) and Fomenko's ~1053-ye
 
 - Side-by-side table: Illig gap vs Fomenko shifts; nested or overlapping?
 - One-paragraph summary for timeline and OUTSTANDING_QUESTIONS.
+
+---
+
+Keywords: #illig #fomenko #boundary #vs #phantom #time
+

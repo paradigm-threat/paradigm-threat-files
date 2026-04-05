@@ -17,3 +17,8 @@
 > I've recently concluded that Mars and Mercury were originally formed from the Earth itself during the collinear configuration. 
 > Neither are viable planets. 
 > They are both primordial left-overs :sob:
+
+---
+
+Keywords: #motive #question #xcitable1
+

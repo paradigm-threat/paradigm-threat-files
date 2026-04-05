@@ -54,3 +54,8 @@ New timeline article in chapter 14 (20th century), with image `cia-to-oss.png`:
 
 ---
 *Topics:* [#governance](https://paradigmthreat.net/search/governance) · [#war](https://paradigmthreat.net/search/war)
+
+---
+
+Keywords: #2026 #cia #article
+

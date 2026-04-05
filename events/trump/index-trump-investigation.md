@@ -133,3 +133,8 @@ The Trump family emerged from WW2 with a distinct profile: Fred Trump built hous
 - Cross-check *Art of the Deal* for exact Sweden/German passage
 - Trace Fred Trump's wartime housing contracts and any intelligence adjacency
 - Document Eyes Wide Shut production timeline (1996–99) and any Trump/Kubrick overlap
+
+---
+
+Keywords: #trump #historic #antibodies #uncompromised #dynasty #thesis
+

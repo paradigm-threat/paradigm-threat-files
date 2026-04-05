@@ -28,3 +28,8 @@ Memoir by Thompson's friends — Cleverly (longtime Woody Creek neighbor) and Br
 - [Main index](index-thompson-main.md)
 - [Fear and Loathing](index-fear-and-loathing.md) — Bar scene; Acosta
 - [Managed disclosure investigation](paradigm-threat-timeline: investigations/fiction-encoding/thompson/thompson-managed-disclosure-investigation.md)
+
+---
+
+Keywords: #kitchen #readings #untold #stories #hunter #thompson
+

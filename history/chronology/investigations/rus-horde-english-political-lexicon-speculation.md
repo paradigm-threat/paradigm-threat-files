@@ -174,3 +174,8 @@ Add rows as sources appear.
 ## Relation to Fomenko vs author vocabulary
 
 Do not merge **Fomenko’s** geographic and identity equations with **Paradigm Threat** labels without stating which map is in force — see [Two Branches: Fomenko vs Author](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md).
+
+---
+
+Keywords: #rus #horde #english #political #lexicon #rus-horde #echoes #military #vocabulary
+

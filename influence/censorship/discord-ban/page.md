@@ -23,6 +23,11 @@ anyhow. Or was it the *Gigabyte Green Mile*?
 In the meantime, <a href="/chat">click here to join the Chat Server.</a>
 or the <a href="https://t.me/historyisalie">Paradigm Threat Telegram channel.</a>
 
+
+---
+
+Keywords: #new #rocket #chat #server #running
+
 ---
 
 ## Folder contents

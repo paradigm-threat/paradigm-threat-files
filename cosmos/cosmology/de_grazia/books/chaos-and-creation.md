@@ -50,3 +50,8 @@ The book is structured around:
 - [Lately Tortured Earth](lately-tortured-earth.md) — companion volume on Earth sciences
 - [Divine Succession](divine-succession.md) — companion on celestial mechanics
 - [Burning of Troy](burning-of-troy.md) — companion on Bronze Age catastrophe
+
+---
+
+Keywords: #chaos #creation
+

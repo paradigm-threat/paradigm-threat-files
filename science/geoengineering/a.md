@@ -43,3 +43,8 @@ videos who question the so-called conventional wisdom and the oft-repeated “co
 the dictates of one of the world’s richest men and his many proxies. Why the need for a billionaire and Avaaz to play
 the role of babysitter over Internet video content? What is it they do not want us to see, hear, and question? Could it,
 perhaps, be that their ideas, beliefs, and solutions are weak from the start?
+
+---
+
+Keywords: #climate #change #george #soros #censorship
+

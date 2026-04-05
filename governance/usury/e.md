@@ -47,3 +47,8 @@ of growth, as was the case back in 2006 and 2007, the IMF doesn't do so well bot
 [-- Christine Lagarde](https://books.google.com/books?id=PzslDwAAQBAJ&pg=PA116&lpg=PA116&dq=%22We%20Thrive%22)
 
 ---
+
+---
+
+Keywords: #wars #banker
+

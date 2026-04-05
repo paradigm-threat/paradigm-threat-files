@@ -58,6 +58,11 @@ Plagiarism and misattribution in 20th-century media function as a control mechan
 
 <DynamicIndex/>
 
+
+---
+
+Keywords: #stolen #credit #plagiarism #control
+
 ---
 
 ## Folder contents

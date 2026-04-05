@@ -210,3 +210,8 @@ The Plan 9 variant—**aliens resurrect dead → zombie armies → overwhelm cap
 - [Dead 2 Rights: Ed Wood Wednesdays, Plan 9 screenplay analysis](https://d2rights.blogspot.com/2020/03/ed-wood-wednesdays-week-98-some.html)
 - [Collider: Plan 9 funding by Baptist church](https://collider.com/plan-9-from-outer-space-funding/)
 - [Wikipedia: Kenpei to Barabara Shibijin](https://en.wikipedia.org/wiki/Kenpei_to_Barabara_Shibijin) — Itoi's Giygas inspiration
+
+---
+
+Keywords: #ed #wood #plan9 #plan #outer #space
+

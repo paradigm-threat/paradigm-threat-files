@@ -70,3 +70,8 @@ Index of passages in `everest.txt` relevant to the Paradigm Threat investigation
 
 - **Full text:** `everest.txt` (~220 story lines)
 - **This index:** `everest-index.md`
+
+---
+
+Keywords: #everest #clue
+

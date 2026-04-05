@@ -48,3 +48,8 @@ Later volumes (not in this download) were advertised to include *Gulliver’s Tr
 - [Swift hub](page.md)  
 - [Corpus map](index-swift-corpus-and-editions.md)  
 - [*Gulliver’s Travels* index](index-gullivers-travels.md)
+
+---
+
+Keywords: #swift #select #works #vol1 #1823 #volume
+

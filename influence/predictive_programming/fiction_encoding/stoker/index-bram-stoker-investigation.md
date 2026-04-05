@@ -174,3 +174,8 @@ The Count claims:
 - [Thompson managed disclosure](../thompson/thompson-managed-disclosure-investigation.md) — Parallel: fiction encoding real events
 - [Island of Dr. Moreau](../wells/index-island-of-dr-moreau.md) — Gland/blood vs. surgery; dissection; cross-read with Dracula, Thompson
 - [Investigations index](../../index.md)
+
+---
+
+Keywords: #bram #stoker
+

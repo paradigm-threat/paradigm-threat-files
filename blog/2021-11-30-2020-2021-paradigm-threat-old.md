@@ -68,3 +68,8 @@ paradigm-threat-old would be succeeded by paradigm-threat-old2 (April 2022), a f
 
 ---
 *Topics:* [#history](https://paradigmthreat.net/search/history)
+
+---
+
+Keywords: #2021 #2020 #paradigm #threat #old #paradigm-threat-old #project #beginnings #maintenance
+

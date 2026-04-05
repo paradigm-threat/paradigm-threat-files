@@ -29,3 +29,8 @@ paradigm-threat-site (the main web presence) had been live since October 2023. T
 
 ---
 *Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history) · [#influence](https://paradigmthreat.net/search/influence) · [#science](https://paradigmthreat.net/search/science)
+
+---
+
+Keywords: #2025 #paradigm #threat #launch #september #paradigm-threat-files #repository #created
+

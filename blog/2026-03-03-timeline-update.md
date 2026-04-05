@@ -137,3 +137,8 @@ Six new appendix articles providing the detailed evidence dossiers behind the Ch
 
 ---
 *Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#influence](https://paradigmthreat.net/search/influence) · [#science](https://paradigmthreat.net/search/science)
+
+---
+
+Keywords: #2026 #update #library #maxwell #aether #nuclear #myths #browser #mode #new #articles
+

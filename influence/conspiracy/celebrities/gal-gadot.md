@@ -44,3 +44,8 @@ Gal Gadot served two years in the Israeli Defense Forces (IDF) as a combat fitne
 - [Newsweek: Gal Gadot IDF Role](https://newsweek.com/gal-gadot-israeli-military-role-detailed-1840378)
 - [Belfast Telegraph: Gadot IDF Controversy](https://www.belfasttelegraph.co.uk/entertainment/news/israel-gaza-conflict-wonder-woman-actress-gal-gadots-pro-idf-stance-causes-controversy/30477633.html)
 - [Fox News: Gadot Military to Wonder Woman](https://www.foxnews.com/entertainment/was-gal-gadot-military-how-israeli-star-went-serving-idf-playing-wonder-woman)
+
+---
+
+Keywords: #gal #gadot #idf #service #hollywood #ascent #israeli #narrative
+

@@ -62,3 +62,8 @@ This work synthesizes and cites:
 - [Disastrous Love Affair](disastrous-love-affair.md) — Moon-Mars close encounter analysis
 - [Divine Succession](divine-succession.md) — celestial mechanics companion
 - [Lately Tortured Earth](lately-tortured-earth.md) — Earth's physical record of the catastrophes
+
+---
+
+Keywords: #iron #mars
+

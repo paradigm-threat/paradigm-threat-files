@@ -106,3 +106,8 @@ Long before 1990, many lineages framed afflictive afterlife as stripping clingin
 - Article-by-article map of *In agro dominico* to detachment / stripping language in Eckhart’s own words—future table.  
 - Khazar–Cathar–mystical hell vocabulary—see Cathar file; merge only with evidence.  
 - Horde–church primary sources on liturgical centralization vs. timeline summaries—open.
+
+---
+
+Keywords: #eckhart #jacobs #ladder #hell #quote #attribution #burns #attachments #jacob #mis #paradigm #threat #read
+

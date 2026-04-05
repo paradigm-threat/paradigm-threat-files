@@ -56,3 +56,8 @@ Kay Swift (1897–1993), first woman to compose an entire Broadway score (*Fine 
 - [Wikipedia: Kay Swift](https://en.wikipedia.org/wiki/Kay_Swift)
 - [Wikipedia: Rhapsody in Blue — Grofé orchestration](https://en.wikipedia.org/wiki/Rhapsody_in_Blue)
 - [Morgan Library: Rhapsody in Blue — Grofé](https://www.themorgan.org/music-manuscripts-and-printed-music/113497)
+
+---
+
+Keywords: #gershwin #kay #swift
+

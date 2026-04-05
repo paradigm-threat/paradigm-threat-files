@@ -110,3 +110,8 @@ The tornado *did* continue—it caused three deaths in Madison and moved to Hend
 - [US Patent 10,433,408: Methods for affecting spinning atmospheric phenomena](https://patents.google.com/patent/US10433408B2/en)
 - [TREA: Space-based tornado/hurricane prevention patent](https://trea.com/information/technology-and-technique-to-prevent-diminish-or-interfere-with-the-formation-of-/patentgrant/bd911cde-0787-4d0e-b023-d6f05fd90920)
 - [Weather Modification Investigation](weather-modification-investigation.md)
+
+---
+
+Keywords: #tornado #power #station #explosion #electromagnetic #suppression #media #cover-up
+

@@ -47,3 +47,8 @@ This is the most linguistically focused volume in the Quantavolution series, com
 - [Author Index](../README.md)
 - [KA](ka.md) — companion linguistic study by H. Crosthwaite
 - [Chaos and Creation](chaos-and-creation.md) — foundational catastrophist framework
+
+---
+
+Keywords: #fire #blown
+

@@ -109,3 +109,8 @@ And only later did the
 configuration fall apart,
 the planets moving into a
 new, more remote equilibrium.
+
+---
+
+Keywords: #events #ancients #like
+

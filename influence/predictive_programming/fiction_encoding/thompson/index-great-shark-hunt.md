@@ -50,3 +50,8 @@ Collection of Thompson's journalism from 1968–1976: Nixon campaigns, Watergate
 - [Main index](index-thompson-main.md)
 - [Fear and Loathing](index-fear-and-loathing.md) — Same era; Vegas as Nixon's America
 - [Playboy Interview](index-playboy-interview.md) — Thompson's direct statements on power
+
+---
+
+Keywords: #great #shark #hunt #government-antagonistic #highlights
+

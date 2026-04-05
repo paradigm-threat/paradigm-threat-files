@@ -2346,3 +2346,8 @@ philologist who traced the words backward to their origins.
 *Updated: March 2026 — Part XIII added (Silmarillion chapter-by-chapter source deconstruction, Dvergatal verbatim borrowing, Snorri's Euhemerism, Sampo-Silmaril identity).*
 *Updated: March 2026 — Part XIV added (Complete file inventory of downloaded source texts).*
 *Status: Active — Silmarillion and LOTR full texts now downloaded and analyzed against 28 source texts.*
+
+---
+
+Keywords: #tolkien #redacted #fact #fiction
+

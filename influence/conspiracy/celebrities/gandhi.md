@@ -47,3 +47,8 @@ Mohandas K. Gandhi (1869–1948) is celebrated as an anti-colonial icon, but his
 - [BBC: Was Gandhi a Racist?](https://www.bbc.com/news/world-asia-india-34265882)
 - [Wikipedia: Assassination of Mahatma Gandhi](https://en.wikipedia.org/wiki/Assassination_of_Mahatma_Gandhi)
 - [National Herald: Godse RSS evidence](https://www.nationalheraldindia.com/news/2016/11/15/nh-exclusive-new-evidence-links-godse-to-rss)
+
+---
+
+Keywords: #gandhi #british #loyalty #racial #attitudes #assassination
+

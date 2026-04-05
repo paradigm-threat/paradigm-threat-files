@@ -229,3 +229,8 @@ In 1853, the German composer **Elise Schmezer** premiered her opera *Otto der Sc
 ### Portrait
 
 The portrait image (`Johanna_Kinkel.jpg`) is a faithful photographic reproduction of a public-domain work of art, sourced from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johanna_Kinkel.jpg).
+
+---
+
+Keywords: #johanna #kinkel
+

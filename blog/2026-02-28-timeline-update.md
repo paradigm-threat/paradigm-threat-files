@@ -130,3 +130,8 @@ A new `animation/` directory containing an interactive visualization framework b
 
 ---
 *Topics:* [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history)
+
+---
+
+Keywords: #2026 #update #new #chapters #ch11 #reorganization #tier #export #hierarchy #animation #module
+

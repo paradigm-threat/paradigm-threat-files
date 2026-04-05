@@ -126,3 +126,8 @@ This investigation examines the hypothesis that the British Empire (and other co
 - BBC, Conversation: Partition of India 1947
 - Wikipedia: Tutsi, Hutu, Rwandan genocide, Al-Aqsa Mosque
 - Fomenko: New Chronology (Jerusalem locations)
+
+---
+
+Keywords: #british #divide #conquer #israel #empire #divide-and-conquer #india #pakistan #africa #deep #state #hypothesis
+

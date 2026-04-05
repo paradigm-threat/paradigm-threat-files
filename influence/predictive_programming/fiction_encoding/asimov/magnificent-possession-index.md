@@ -60,3 +60,8 @@ Index of passages in `magnificent-possession.txt` relevant to the Paradigm Threa
 
 - **Full text:** `magnificent-possession.txt` (~1,216 story lines)
 - **This index:** `magnificent-possession-index.md`
+
+---
+
+Keywords: #magnificent #possession #clue
+

@@ -118,3 +118,8 @@ These changes apply to the **timeline reader**, **landing**, and **index** UI:
 
 ---
 *Topics:* [#history](https://paradigmthreat.net/search/history) · [#chronology](https://paradigmthreat.net/search/chronology) · [#war](https://paradigmthreat.net/search/war) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming) · [#science](https://paradigmthreat.net/search/science) · [#events](https://paradigmthreat.net/search/events)
+
+---
+
+Keywords: #2026 #tldr #split #site #book #sweep #xvi #xxii #war #fiction #exports #reader
+

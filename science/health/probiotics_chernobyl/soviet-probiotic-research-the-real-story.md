@@ -198,3 +198,8 @@ The Soviet state classified this research not because it didn't work, but becaus
 
 *Document created: 2026*
 *Related: [Transcript of David Straight talk](ssstwitter.com_1772378839442-transcript.md) | [Investigation of transcript claims](ssstwitter.com_1772378839442-investigation.md)*
+
+---
+
+Keywords: #soviet #probiotic #research #real #story #lost #bulgarian #cancer #discovery #became #cold #war #secret
+

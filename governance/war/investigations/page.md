@@ -29,6 +29,11 @@ Atlantic context, societized consolidation, British funding, Western orchestrati
 | [pitcairn-island-timeline.md](/governance/war/investigations/pitcairn-island-timeline.md) | Chronology: Carteret sighting, mutiny and landing, Folger discovery, Adams era, Tahiti exodus/return, Norfolk move, imperial administration, 2004 and 2016 legal milestones |
 | [jonestown-guyana-1978-cia-latin-america-pattern-investigation.md](/governance/war/investigations/jonestown-guyana-1978-cia-latin-america-pattern-investigation.md) | **18 Nov 1978** Jonestown / Ryan: sources disputing “cult-only” package (SDSU archive, Holsinger, Judge vs Farrell, CIA Reading Room); Guyana context; **“observation vs orchestration”** frame; parallels—Horman/Teruggi Chile, La Penca, Ben Linder, Hasenfus, Salvadoran churchwomen, Guatemala war; links [CIA investigation](./cia-investigation.md) and Pitcairn §11 |
 
+
+---
+
+Keywords: #war
+
 ---
 
 ## Folder contents

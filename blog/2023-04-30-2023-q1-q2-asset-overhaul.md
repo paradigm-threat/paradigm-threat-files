@@ -47,3 +47,8 @@ Asset stat generation and VideoAsset refactor were among the last significant ch
 
 ---
 *Topics:* [#history](https://paradigmthreat.net/search/history)
+
+---
+
+Keywords: #2023 #q1 #q2 #asset #overhaul #final #old2 #iteration
+

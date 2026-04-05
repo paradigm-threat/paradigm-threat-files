@@ -137,3 +137,8 @@ By the end, that position had shifted — not because of rhetoric, but because A
 **Final position:** The aether was never disproven. A specific *model* of it (rigid, stationary, luminiferous frame) returned null results in one class of experiment. The concept of an underlying medium is demanded by the very equations physics uses daily. The institutions best positioned to investigate further have operated under secrecy for 80 years. That's not a conspiracy theory. That's just the situation.
 
 *This was a genuinely good debate. The AI was wrong to resist as long as it did, and the human's arguments deserved better engagement from the first round.*
+
+---
+
+Keywords: #burden #proof #debate #prove #aether #does #doesn #exist
+

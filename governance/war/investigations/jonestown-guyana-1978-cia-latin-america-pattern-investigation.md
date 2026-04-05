@@ -119,3 +119,8 @@ After the Church Committee and **Hughes–Ryan (1974)**, official and semi-offic
 
 **Date:** 2026-03-27  
 **Status:** Open — awaiting primary pull of hearing volumes and La Penca court files.
+
+---
+
+Keywords: #jonestown #guyana #1978 #cia #latin #america #pattern #november #disputed #narratives #footprint #central #american #parallels
+

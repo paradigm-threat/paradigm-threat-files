@@ -115,3 +115,8 @@ War displacement is cited as a major factor in orphaning. The Revolutionary War 
 - [ ] Evidence for Trail of Tears extending beyond Oklahoma (Bering–Siberia: none found)
 - [ ] Cross-reference Indian boarding schools with Trail of Tears timeline (overlap confirmed)
 - [ ] Mars civilization / communist utopia as encoded control template
+
+---
+
+Keywords: #orphan #trains #mass #displacement #mfee #thesis
+

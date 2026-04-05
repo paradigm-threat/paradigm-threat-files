@@ -349,3 +349,8 @@ Wells's 1908 essay was accompanied by illustrations by William R. Leigh depictin
 5. **Canal system engineering** — Vast channels carrying polar meltwater across equatorial plains, with solar-powered pumping stations
 
 These illustrations depict Martians **utterly unlike** the WotW invaders — tall, feathered, powerful, upright. They match the Crystal Egg winged Martians far more closely than the "bodiless brains" sent to Earth.
+
+---
+
+Keywords: #wotw #martian #civilization #wells #cross-source #intelligence #dossier
+

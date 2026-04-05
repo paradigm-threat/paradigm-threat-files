@@ -117,3 +117,8 @@ normal every day vibrational frequency, that it was invisible to them until thei
 them to see. This story might be "just" a myth, but myths contain enormous truth. Maybe that enormous truth is that we
 perceive only a fraction of the frequencies surrounding us and until we are able to expand our perception we are at the
 mercy of anyone who knows how to manipulate those frequencies, and us..
+
+---
+
+Keywords: #gus
+

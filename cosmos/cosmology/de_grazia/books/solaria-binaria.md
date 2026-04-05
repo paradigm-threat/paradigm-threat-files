@@ -48,3 +48,8 @@ This book is a foundational precursor to the full Saturnian Cosmology model deve
 - [Chaos and Creation](chaos-and-creation.md) — cosmological origins companion
 - [Divine Succession](divine-succession.md) — celestial mechanics and the succession of planets
 - [Iron Age of Mars](iron-age-of-mars.md) — the final phase of the catastrophic era
+
+---
+
+Keywords: #solaria #binaria #origins #sun #its #planets
+

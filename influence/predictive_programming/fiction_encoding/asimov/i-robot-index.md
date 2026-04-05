@@ -126,3 +126,8 @@ Index of passages in `Asimov-Isaac-I-Robot.pdf` relevant to the Paradigm Threat 
 
 - **Full text:** `Asimov-Isaac-I-Robot.pdf` (148 pages, ~6000 lines)
 - **This index:** `i-robot-index.md`
+
+---
+
+Keywords: #robot #clue
+

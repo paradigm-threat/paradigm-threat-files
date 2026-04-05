@@ -171,3 +171,8 @@ Western reception of Russian literature from the 1880s onward heightened awarene
 - IAI TV: "The uses and abuses of the 'Russian soul'"
 - Paradigm-threat timeline: [Reformation and Inquisition](https://paradigmthreat.net/timeline/evt-16th-century-ce-reformation-and-inquisition), [Deep State Steals Russian History](https://paradigmthreat.net/history/chronology#deep-state-steals-russian-history)
 - Marxists.org: La Mettrie *Man a Machine* (1748) full text
+
+---
+
+Keywords: #soul #science #first #references #mind #replacement
+

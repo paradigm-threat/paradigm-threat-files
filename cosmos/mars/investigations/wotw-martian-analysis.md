@@ -433,3 +433,8 @@ Wells's earliest Mars essay speculated on Martian evolution and intelligence, co
 | **Sustenance** | Direct blood injection via pipette; no digestive system |
 | **Reproduction** | Asexual budding |
 | **Workforce** | 24/7 operation, no sleep, no fatigue |
+
+---
+
+Keywords: #wotw #martian #analysis #martians #machines #technical
+

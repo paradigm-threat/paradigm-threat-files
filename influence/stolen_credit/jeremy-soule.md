@@ -72,3 +72,8 @@
 - [Wikipedia: Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
 - [Elder Scrolls Fandom: Jeremy Soule](https://elderscrolls.fandom.com/wiki/Jeremy_Soule)
 - [Giant Bomb: Jeremy Soule](https://www.giantbomb.com/jeremy-soule/3040-17632/) — notes Julian's uncredited work
+
+---
+
+Keywords: #jeremy #soule
+

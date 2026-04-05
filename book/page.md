@@ -62,6 +62,11 @@ Deeper notes and indexes live under the files repository, for example:
 
 The public site mirrors these paths under **paradigmthreat.net** (and related domains); **thirdstory.site** shows this page at the site root.
 
+
+---
+
+Keywords: #paradigm #threat #third #story
+
 ---
 
 ## Folder contents

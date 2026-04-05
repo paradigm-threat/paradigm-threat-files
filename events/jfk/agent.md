@@ -42,3 +42,8 @@ appointed for the next attack on Russia. He started the Vietnam war
 to further contain russia and then fake died to make sure it would happen.
 How isn't any of this obvious to everyone? Because everyone has been
 100% played on this and no one wants to admit it.
+
+---
+
+Keywords: #agent
+

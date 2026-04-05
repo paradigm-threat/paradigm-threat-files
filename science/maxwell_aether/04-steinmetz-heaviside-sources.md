@@ -29,3 +29,8 @@
 
 - Library/digital archive search for Steinmetz and Heaviside primary texts.
 - Update timeline article with verified citations or correct misattributions.
+
+---
+
+Keywords: #steinmetz #heaviside #sources #primary #verification
+

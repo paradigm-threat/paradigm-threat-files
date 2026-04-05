@@ -56,3 +56,8 @@ Contributors include Ralph Juergens (electromagnetic basis for Velikovsky's clai
 - [Author Index](../README.md)
 - [Cosmic Heretics](cosmic-heretics.md) — de Grazia's memoir of the movement, 1963–1983
 - [Recollections of a Fallen Sky](recollections-fallen-sky.md) — 1974 conference on cultural amnesia
+
+---
+
+Keywords: #velikovsky #affair #scientism #vs #science
+

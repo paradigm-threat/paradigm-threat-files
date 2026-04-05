@@ -96,3 +96,8 @@ The Russian Orthodox Church had this book banned as *'harmful to the Orthodox Ch
 
 *Source file: `text/die-offenbarung-johannis/text_formatted.md`*
 *Original PDF: `text/Die Offenbarung Johannis eine astronomischhistorische.pdf`*
+
+---
+
+Keywords: #offenbarung #die #johannis #english
+

@@ -138,3 +138,8 @@ PDF and DOCX exports were regenerated twice during this session — once after t
 
 ---
 *Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#influence](https://paradigmthreat.net/search/influence)
+
+---
+
+Keywords: #2026 #update #author #profiles #third #story #core #concepts #major #restructure
+

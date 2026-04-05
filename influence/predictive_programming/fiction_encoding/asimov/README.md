@@ -35,3 +35,8 @@ Full-text Project Gutenberg sources and clue indexes for the Paradigm Threat Asi
 - Let's Get Together: PG #68377
 - Everest: PG #77254
 - Youth: PG #31547
+
+---
+
+Keywords: #readme #asimov #full #texts
+

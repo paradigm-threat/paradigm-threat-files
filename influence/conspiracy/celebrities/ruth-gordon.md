@@ -38,3 +38,8 @@ Ruth Gordon Jones (1896–1985) had a seven-decade career—Broadway at 19, Lond
 - [Wikipedia: Ruth Gordon](https://en.wikipedia.org/wiki/Ruth_Gordon)
 - [Britannica: Ruth Gordon](https://www.britannica.com/print/article/706481)
 - [TCM: Ruth Gordon](https://www.tcm.com/tcmdb/person/74061|136824/Ruth-Gordon)
+
+---
+
+Keywords: #ruth #gordon #hollywood #identity #late-career #ascent
+

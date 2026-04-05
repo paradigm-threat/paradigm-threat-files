@@ -13,3 +13,8 @@ Mars slowly grew into a planet. Humans built Atlantis there because it had the h
 When the collinear configuration fell apart, Atlantis on the North Pole of Mars was hit by the same Great Deluge as
 Earth.
 There may have been an Atlantis on Earth as well, but it was only a shadow compared to the one on Mars.
+
+---
+
+Keywords: #atlantis #mars
+

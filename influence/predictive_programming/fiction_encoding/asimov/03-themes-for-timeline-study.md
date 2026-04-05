@@ -120,3 +120,8 @@ Analytical angles for studying Asimov's work in light of the Paradigm Threat tim
 3. **Compare** to Wells (*War of the Worlds*, *Time Machine*), Verne, Lovecraft — fiction-encoding patterns.
 4. **Trace** Asimov's stated sources (Gibbon, Marx, etc.) and any less-cited influences.
 5. **See** [04-investigation-threads.md](04-investigation-threads.md) for detailed thread prompts and index priorities.
+
+---
+
+Keywords: #themes #study #isaac #asimov
+

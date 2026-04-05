@@ -61,3 +61,8 @@ Beethoven's deafness is one of the most enduring myths in classical music: the i
 - [Journal of Musicology: Yet Another Major Beethoven Forgery by Schindler](https://online.ucpress.edu/jm/article-abstract/3/4/397/63638)
 - [Medici.tv: Beethoven's Deafness — Myth, Reality, Perception](https://pageturner.medici.tv/en/beethovens-deafness-myth-reality-and-perception)
 - [Cambridge: Reassessing Ferdinand Ries](https://www.cambridge.org/core/journals/nineteenth-century-music-review/article/abs/reassessing-ferdinand-ries-in-vienna-ramifications-for-beethoven-biography/1C589E227CDCE10FCF39575EA0BAD21F)
+
+---
+
+Keywords: #beethoven #deafness #narrative
+

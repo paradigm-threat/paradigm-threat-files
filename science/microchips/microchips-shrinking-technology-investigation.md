@@ -245,3 +245,8 @@ This could only be the result of a **deliberate worldwide system of control** â€
 - TSMC, semiconductor industry in Taiwan; USâ€“Japan semiconductor agreement
 - Fantastic Voyage, The Shrinking Man, Honey I Shrunk the Kids, Innerspace
 - Blu-ray Disc Association; One-Blue licensing; CD-ROM history
+
+---
+
+Keywords: #microchips #shrinking #technology
+

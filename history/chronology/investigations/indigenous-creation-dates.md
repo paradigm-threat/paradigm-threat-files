@@ -28,3 +28,8 @@ Indigenous chronologies (e.g., Quiche Maya, Popol Vuh, other traditions) provide
 
 - Primary/secondary literature on Popol Vuh dating.
 - Compile table: tradition | date/cycle | source | alignment with timeline.
+
+---
+
+Keywords: #indigenous #creation #dates #chronologies
+

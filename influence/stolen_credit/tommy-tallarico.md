@@ -56,3 +56,8 @@
 - [VGMPF Wiki: Tommy Tallarico](https://www.vgmpf.com/Wiki/index.php?title=Tommy_Tallarico)
 - [SmashJT: Tommy Tallarico CAUGHT Selling STOLEN Music](https://smashjt.com/post/tommy-tallarico-caught-selling-stolen-music)
 - Hbomberguy video (2022)
+
+---
+
+Keywords: #tommy #tallarico
+

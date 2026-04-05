@@ -63,3 +63,8 @@ English writer. Best known for *Lieut. Gullivar Jones: His Vacation* (1905), an 
 - [Project Gutenberg: Arnold, Edwin Lester](https://www.gutenberg.org/ebooks/author/317)
 - [ISFDB: Edwin L. Arnold](https://www.isfdb.org/cgi-bin/ea.cgi?738)
 - [SF Encyclopedia: Arnold, Edwin L](http://sf-encyclopedia.com/entry/arnold_edwin_l)
+
+---
+
+Keywords: #arnold #books #bibliography #edwin #lester
+

@@ -53,3 +53,8 @@ What was I talking about?  Oh--magic!  How we are being conditioned to believe t
 Now, I'm not saying that guns should be used or if they are at all necessary, etc. Just that it is very interesting that the government is so desperate to get their hands on OUR guns when they have lots and lots of their own.
 
 So, the narratives the Nefarious Elite insert into the media about magic should be investigated carefully.  They are trying to point us in one direction; therefore we must turn around and look in the other direction. I'm afraid I'm going to have to write a second article, that one on "black" magic as practiced by the Nefarious Elite and how it appears in history.  It might give us a glimpse of what the Wizard of Oz is busily doing behind that curtain.  It's won't be pretty and I don't look forward to it.
+
+---
+
+Keywords: #magic-history #magic #silly #people
+

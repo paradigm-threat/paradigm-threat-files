@@ -195,3 +195,8 @@ Prendick's narrative is framed as found papers; the nephew states the account is
 # Convert: ebook-convert wells/the-island-of-dr-moreau.mobi wells/the-island-of-dr-moreau.txt
 grep -n -i "blood\|taste.*blood\|law\|revert\|beast\|sayer" wells/the-island-of-dr-moreau.txt
 ```
+
+---
+
+Keywords: #island #moreau
+

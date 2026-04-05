@@ -309,3 +309,8 @@ A second, similar **total-move** discontinuity occurs with **Norfolk (1856)** an
 ### 11.4 One-line verdict
 
 **Pitcairn’s** **printed** **origin** **story** **is** **too** **racist,** **too** **English-mediated,** **and** **too** **timed** **to** **imperial** **resets** **to** **trust** **without** **Polynesian** **counter-archive**; **high** **likelihood** **that** **Polynesian** **tribal** **order** **was** **terminated** **or** **prevented** **from** **returning** **under** **relocations**, and **that** **the** **same** **narrative** **family** **feeds** **a** **broader** **deterrence** **against** **believing** **in** **self-governed** **peripheral** **utopias** **—** **a** **pattern** **this** **investigation** **aligns** **with** **Jonestown-style** **mass** **horror** **packaging** **and** **with** **long** **Anglo-American** **strategic** **interest** **in** **narrative** **monopoly**, **not** **proven** **in** **every** **detail** **here**.
+
+---
+
+Keywords: #pitcairn #bounty #mutiny #sovereignty #narratives #modern #law
+

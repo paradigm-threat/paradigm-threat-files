@@ -40,3 +40,8 @@ only ever represented by the irritating dogmatic personalities of Flat Earth 'be
 ---
 
 **See also:** [Flat Earth investigation](/cosmos/flat_earth/flat-earth-investigation) — historical (did the Church ever teach flat earth?), collinear/Golden Age interpretation, and refraction limits on knowing the shape of the planet or distances in space.
+
+---
+
+Keywords: #co
+

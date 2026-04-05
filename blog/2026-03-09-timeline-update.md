@@ -138,3 +138,8 @@ A complete set of war investigations examining Western conflicts through the tim
 
 ---
 *Topics:* [#events](https://paradigmthreat.net/search/events) · [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history)
+
+---
+
+Keywords: #2026 #update #six #wars #world #trump #pyramids #seven #days #population #control #major #restructuring
+

@@ -4,3 +4,8 @@
 no doubt that these publications are made on the basis of *disappeared Russian originals* at the turn of the 16th-17th
 centuries.”
 -- [A.T.Fomenko](https://chronologia.org/en/how_it_was/06_35.html)
+
+---
+
+Keywords: #kremlin-2nd-jerusalem-boris-godunov
+

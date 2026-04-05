@@ -429,3 +429,8 @@ themselves, in our very decision to join in noting them, in celebrating them, in
 For a much more thorough explanation of Solar Mythology and how it parallels the Jesus story, see
 
 [LESSONS ON SOLAR MYTHOLOGY AND THE JESUS STORY](../index.htm#solarmyth)
+
+---
+
+Keywords: #astrology #solar #mythology #jesus #story
+

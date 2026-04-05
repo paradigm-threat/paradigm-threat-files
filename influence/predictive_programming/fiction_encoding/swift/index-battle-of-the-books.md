@@ -9,3 +9,8 @@
 **Summary (one paragraph):** Swift stages a **literary war** between classical and “modern” writers, siding with the ancients in spirit while ridiculing **pedantry** on both sides. It is a **meta-literary** satire—useful background for how Swift treats **Royal Society**-style learning in *Gulliver* Part III, but it does not address Mars or scale voyages directly.
 
 **Deeper corpus/edition notes:** [index-swift-select-works-vol1-1823.md](index-swift-select-works-vol1-1823.md) | [Swift hub](page.md)
+
+---
+
+Keywords: #battle #books #stub
+

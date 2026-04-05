@@ -137,3 +137,8 @@ Two Golden-Age-themes pages — **revolving-crescent.htm** (Revolving Crescent o
 - Search Jno Cook's **gil.php** (Era of the Gods) and **rec.php** (Olmec Record) for Mars-descent or position references
 - Cross-reference Egyptian Sed Festival cycles, Mesopotamian king lists, with "eight lowerings"
 - Check paradigm-threat-files `cosmos/cosmology/saturnian` for additional Jno/Talbott/Thornhill material
+
+---
+
+Keywords: #golden #event #dates #jno #cook #talbott
+

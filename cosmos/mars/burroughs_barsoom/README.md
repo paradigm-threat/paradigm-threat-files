@@ -37,3 +37,8 @@ Burroughs had no known intelligence connections. Where did he obtain: polar forb
 **Robots / Synthetic Beings on Mars:** *The Chessmen of Mars* (1922) introduces Kaldanes and Rykors — pure-brain beings mounting headless bodies. *Synthetic Men of Mars* (1940, PG Australia, not in this archive) introduces Hormads — artificially grown humanoids. **Burroughs predates both Binder "I, Robot" (1939) and Asimov's positronic robots (1942).** If robots exist or existed on Mars, Burroughs may have received second- or third-hand knowledge; Asimov (who admitted taking the robot idea from Binder) may have received it fourth-hand, reframed as invention.
 
 **Same framing as Asimov investigation:** Challenge all claims of authorial invention. Assume content may encode redacted fact.
+
+---
+
+Keywords: #readme #barsoom #series #clue #paradigm #threat
+

@@ -342,3 +342,8 @@ at: [http://www.dailymail.co.uk/news/article-2715466/Israeli-official-calls-conc
 
 Moshe Feiglin, _My Outline for a Solution in Gaza_, Arutz Sheve, August 15, 2014, available
 here: http://www.israelnationalnews.com/Articles/Article.aspx/15326#.VCLljPldXTo.
+
+---
+
+Keywords: #genocide #palestinian #people #international #law #rights #perspective
+

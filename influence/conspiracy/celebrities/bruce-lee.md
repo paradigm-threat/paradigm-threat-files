@@ -106,3 +106,8 @@ Lee trained under Ip Man from age 13 for approximately four and a half years. [U
 - [Encyclopedia.com: Bruce Lee](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/lee-bruce) — parents, girl's school
 - [SCMP: Bruce Lee's Forgotten Child Star Start](https://www.scmp.com/magazines/style/celebrity/article/3167557/bruce-lees-forgotten-child-star-start-enter-dragon-and) — Golden Gate Girl, baby girl role
 - [Metafilter: Esther Eng, Bruce Lee played baby girl](https://www.metafilter.com/184441/Esther-Eng-directed-the-1st-film-Bruce-Lee-was-in-he-played-a-baby-girl)
+
+---
+
+Keywords: #bruce #lee #death #identity #wing #chun #british #suppression #female #martial #arts
+

@@ -115,3 +115,8 @@ This document tracks the mapping of old directory paths to the new "Spheres of I
 - Preserve subfolder structure (e.g. `fiction-encoding/stoker/` → `influence/.../stoker/`).
 - `README.md` and `index-*.md` count as index files; ensure they reference sibling files.
 - Some investigations may need new top-level folders (e.g. `science/maxwell_aether/`, `science/havana_syndrome/`).
+
+---
+
+Keywords: #reorganization-map #directory #reorganization #map
+

@@ -152,3 +152,8 @@ Mary Shelley was 5 in 1803 but would have known of Aldini's demonstrations—the
 - Giovanni Aldini, *Account of the Galvanic Experiments* (1803)
 - Erasmus Darwin, *Zoonomia* (1794–96)
 - [Fiction presented as fact](../fiction-presented-as-fact-investigation.md)
+
+---
+
+Keywords: #shelley #frankenstein #true #story #mary #potential
+

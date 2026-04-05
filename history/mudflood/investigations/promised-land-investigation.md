@@ -142,3 +142,8 @@ Research on the open questions and on **Fomenko/chronologia** material in the **
 ---
 
 *Investigation file: `history/mudflood/investigations/promised-land-investigation.md`. Open theory; 1492 BCE/CE and the sequence of promised lands are not asserted as established fact.*
+
+---
+
+Keywords: #promised #land #deliverance #europe #america #final #lands
+

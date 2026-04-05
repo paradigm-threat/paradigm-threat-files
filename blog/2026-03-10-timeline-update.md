@@ -101,3 +101,8 @@ Investigations now live in **paradigm-threat-files** (see [Fiction Encoding](htt
 
 ---
 *Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#influence](https://paradigmthreat.net/search/influence) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming)
+
+---
+
+Keywords: #2026 #update #content #reduction #fiction-encoding #arthurian #cosmology #new #overflow
+

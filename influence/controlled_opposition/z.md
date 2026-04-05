@@ -141,3 +141,8 @@ Don't Believe Me? I Encourage You to Do Your Own Research!
 * * *
 
 ### The Gov't Wants Us to Rise-up and Wake-Up - That Gives Them a Reason & Cause to Take Our Guns Away and Implement Martial Law - You Know This Because They Want You To Know It and They are Using their Controlled Opposition Agents to Do It!
+
+---
+
+Keywords: #article
+

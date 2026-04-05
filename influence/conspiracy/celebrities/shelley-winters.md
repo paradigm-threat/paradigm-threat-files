@@ -37,3 +37,8 @@ Shelley Winters was born Shirley Schrift (1920) to Jewish immigrants in St. Loui
 - [Wikipedia: Shelley Winters](https://en.wikipedia.org/wiki/Shelley_Winters)
 - [TCM: Shelley Winters](https://www.tcm.com/tcmdb/person/208074%7C139852/Shelley-Winters)
 - [CBS: Shelley Winters Dies](https://www.cbsnews.com/news/shelley-winters-dies-at-85/)
+
+---
+
+Keywords: #shelley #winters #hollywood #identity #name #change
+

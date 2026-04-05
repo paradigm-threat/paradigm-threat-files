@@ -56,3 +56,8 @@ Ongoing. **Project theory** (not asserted as proven): Iran may be waging a propa
 - NPR, 6 Mar 2026: "Questions remain over whether the US or Israel bombed Iranian school"
 - HRW, 7 Mar 2026: "US/Israel: Investigate Iran School Attack as a War Crime"
 - PressTV, 6 Mar 2026: "IRGC shatters US-Israeli propaganda with new operations"
+
+---
+
+Keywords: #iran #2026 #propaganda #thesis #war
+

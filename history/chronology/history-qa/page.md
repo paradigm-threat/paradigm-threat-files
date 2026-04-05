@@ -865,3 +865,8 @@ and where, without exception, peace and revelation always prevail in the end.
 ### [World War 2: Children, Cheating, and Napalm](/governance/war)
 
 ![WW2 was won by cheating](../../../governance/war/ww2meme.jpg?w=768 '{"className":"rounded-md m-auto"}')
+
+---
+
+Keywords: #article
+

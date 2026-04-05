@@ -196,3 +196,8 @@ author's text."
 "In our own words, we'd just like to say that the plagiarism committed by H.G. Wells stands as one of last century's
 blatantest instances of personal money gain as a result of unacknowledged derivation and usurpation of another author's
 text, and we think it's shameful.
+
+---
+
+Keywords: #differences #war #worlds #book #movie #album #real #event
+

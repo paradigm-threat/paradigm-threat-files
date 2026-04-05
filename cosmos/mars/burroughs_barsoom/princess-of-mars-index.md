@@ -76,3 +76,8 @@
 - [master-mind-of-mars-index.md](master-mind-of-mars-index.md) — Ras Thavas, brain transfer
 - [mars-fiction-survey](/cosmos/mars/investigations/mars-fiction-survey.md) — full survey
 - [Asimov: Marx in Space!](/timeline/evt-asimov-marx-in-space) — robot/slave parallel; Binder admission
+
+---
+
+Keywords: #princess #mars #clue
+

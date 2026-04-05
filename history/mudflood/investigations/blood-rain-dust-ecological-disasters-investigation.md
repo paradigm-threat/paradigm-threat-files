@@ -170,3 +170,8 @@ Short list for cross-comparison without collapsing cases:
 7. **Orbital-fallback thesis (§B.4):** build or locate a **dated corpus** of red-rain reports; normalise for **media coverage**; compare to **volcanic**, **ENSO**, and **Saharan dust** records; identify any episodes with **retained samples** suitable for **mineralogy / isotopes**.
 
 Timeline follow-up: add `docs/OUTSTANDING_QUESTIONS.md` entry for the **English snippet venue** (logged in paradigm-threat-timeline).
+
+---
+
+Keywords: #blood #rain #dust #ecological #disasters #passat #bowl #large-scale #atmospheric #shocks #post #mud-flood #oddities
+

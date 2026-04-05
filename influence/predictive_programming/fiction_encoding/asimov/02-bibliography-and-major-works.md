@@ -84,3 +84,8 @@ Asimov wrote hundreds of popular science books, histories, essays. Topics: chemi
 - **Project Gutenberg:** Limited (most Asimov still under copyright; life+70)
 - **Wikipedia / ISFDB:** Plot summaries, character lists, thematic notes
 - **Academic databases:** JSTOR, etc. for criticism and analysis
+
+---
+
+Keywords: #bibliography #major #works #isaac #asimov
+

@@ -43,3 +43,8 @@ Thompson's Playboy interview is one of his most direct statements on **American 
 - [Main index](index-thompson-main.md)
 - [Fear and Loathing](index-fear-and-loathing.md) — Vegas, Nixon
 - [Great Shark Hunt](index-great-shark-hunt.md) — Campaign Trail, Watergate
+
+---
+
+Keywords: #playboy #interview #hunter #thompson
+

@@ -155,3 +155,8 @@ The timeline's [Passover of Comet Venus](/timeline/evt-the-passover-of-comet-ven
 - [White Saturnian Round Table investigation](white-saturnian-round-table-investigation.md) — Arthur+Merlin = Jupiter; Grail = Tree of Life/Yggdrasil; Once and Future King = Sun emergence
 - [Imperial Technology / Horde metallurgy](/timeline/evt-imperial-technology-and-the-knowledge-of-the-horde) — "alchemical tradition" as garbled memory of lost metallurgy; cupellation
 - [Fiction Presented as Fact](../fiction-presented-as-fact-investigation.md) — managed disclosure via fiction frame
+
+---
+
+Keywords: #white #excalibur #sulphur #mercury #vs #book #movie #managed #disclosure
+

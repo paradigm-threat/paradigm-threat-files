@@ -175,3 +175,8 @@ This is either:
 - **Arthur Conan Doyle** — *The Land of Mist* (1926), spiritualist fiction
 - **Edward Bellamy** — *Looking Backward* (1888) — future-viewing
 - **Camille Flammarion** — *Lumen* (1887) — cosmic consciousness, time perception
+
+---
+
+Keywords: #remote #viewing #fiction #control #master
+

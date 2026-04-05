@@ -222,3 +222,8 @@ genetic resources, Visser says, "Everyone needs something from others."
 _Translation: Amy Translations_
 
 **UFOADVANCE – MYSTERIES**
+
+---
+
+Keywords: #pyramiden-splitsbergen-1928
+

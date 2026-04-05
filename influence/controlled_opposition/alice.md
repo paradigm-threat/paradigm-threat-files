@@ -46,3 +46,8 @@ A good rule of thumb that I try to remember is:  If it seems too good to be true
 And anything in the mainstream media that tugs at our emotions of joy, hope, sorrow or fear is being used to manipulate us into believing some lie and should be considered calmly and objectively.  Which is never easy to do.  It becomes discouraging to realize that just when we think we have an answer, it turns into another question.
 
 When we start to Wake Up, the world doesn't change.  Our perception of it changes.  When I lived in a nice house in the suburbs I would have considered the place I live now to be a slum.  Now I consider it home and I am grateful to have it.   During our lifetime we learn to see not just the ugly things around us but the beautiful things we were blind to previously.  Waking Up is a continuing, life time process that continues until our death. And death is not falling asleep, as we have been told all our lives.  It is actually Waking Up into our real selves in the real world.
+
+---
+
+Keywords: #alice
+

@@ -5,3 +5,8 @@
 > contradiction.
 > This makes compressed generalizations about their interaction particularly fraught.
 > [ -Counterculture and the Occult](https://techgnosis.com/the-counterculture-and-the-occult/)
+
+---
+
+Keywords: #religion
+

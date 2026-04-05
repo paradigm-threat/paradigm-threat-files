@@ -27,3 +27,8 @@ Academic monograph on Gottfried Kinkel (1815–1882) as political and social thi
 - [Johanna Kinkel](johanna-kinkel.md)
 - [Dickens and the Kinkel affair](dickens.md)
 - [Ivan Kinkel (possible family link)](../ivan-kinkel/nenovsky_Kinkel_EJHET_2015.md)
+
+---
+
+Keywords: #de #jonge #gottfried #kinkel #political #social #thinker
+

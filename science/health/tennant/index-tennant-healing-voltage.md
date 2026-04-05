@@ -176,3 +176,8 @@
 - [ ] Validate 63% immune-system / 95% cancer–dental figures (study design, sample size)
 - [ ] Cross-reference BioModulator/BioTransducer with FDA clearance
 - [ ] Verify Flexner Report / Congress / jail claim (historical primary sources)
+
+---
+
+Keywords: #tennant #healing #voltage #jerry #research #claims
+

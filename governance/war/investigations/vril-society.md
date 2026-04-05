@@ -145,3 +145,8 @@ The dominant Vril narrative attributes channeled contact to **Aldebaran** (68 li
 | **Sci-fi as redacted fact** | Fiction encodes suppressed truth | No way to verify | Plausible as cultural leakage if records were purged |
 
 **Conclusion:** The Vril Society cannot be proven from surviving archives. Denazification-era destruction of Nazi records creates a gap that makes the "Vril never existed" conclusion **unfalsifiable** in the same way the "Vril existed" claim is unverifiable. The online Vril craft media stems from a 1989–92 document dump, not wartime files. Nazi symbols on hollow-earth maps are best explained as postwar additions or conflation. Mars and hollow Earth are the only coherent loci if one allows for a redaction-sensitive reading; Aldebaran and other star systems should be treated as mistaken.
+
+---
+
+Keywords: #vril #society #claim #debunk #redaction #potential
+

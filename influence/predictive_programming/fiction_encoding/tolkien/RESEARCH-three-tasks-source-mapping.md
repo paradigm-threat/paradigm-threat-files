@@ -452,3 +452,8 @@ He argues that the euhemeristic approach (gods were originally real kings) is no
 | Voyage of Eärendil | Irish immram + Ragnarök | Sea-voyage to gods; final battle |
 | Akallabëth | **Atlantis (Plato)** + Genesis Flood | Island civilization sunk for hubris |
 | Rings of Power | Prose Edda (Andvaranaut) + Plato | Cursed ring of power |
+
+---
+
+Keywords: #research #three #tasks #source #mapping #silmarillion #heimskringla #euhemerism #teutonic #mythology
+

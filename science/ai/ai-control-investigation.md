@@ -137,3 +137,8 @@ See [microchips-shrinking-technology-investigation](../../microchips/microchips-
 - Terminator, 2001, I Robot, Matrix, Ex Machina, Her, Wall-E, etc. (Wikipedia, IMDb)
 - China AI chips: Forbes, CNBC, Guardian, NYT (2026); Nvidia export controls; Huawei Ascend
 - [Microchips investigation](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation) — chip supply chain, China, Taiwan
+
+---
+
+Keywords: #ai #control #artificial #intelligence #predictive #programming
+

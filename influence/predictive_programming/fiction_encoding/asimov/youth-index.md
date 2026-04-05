@@ -71,3 +71,8 @@ Index of passages in `youth.txt` relevant to the Paradigm Threat investigation. 
 
 - **Full text:** `youth.txt` (~1,500 story lines)
 - **This index:** `youth-index.md`
+
+---
+
+Keywords: #youth #clue
+

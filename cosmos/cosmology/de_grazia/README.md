@@ -140,3 +140,8 @@ The **Thunderbolts Project** (Talbott + Thornhill) is the contemporary heir to t
 - **Quantavolution Series Page:** https://grazian-archive.com/quantavolution/QuantaSeries.htm  
 - **Cook's Bibliography:** https://saturniancosmology.org/books.php.html  
 - **Wikipedia:** https://en.wikipedia.org/wiki/Alfred_de_Grazia
+
+---
+
+Keywords: #readme #alfred #de #grazia #complete #works
+

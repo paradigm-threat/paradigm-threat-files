@@ -76,3 +76,8 @@ than to convince them that they have been fooled.
 [Sibrel's Detailed Article on the Moon Landing Fraud](http://www.thesleuthjournal.com/)
 
 [Astronauts Gone Wild](https://youtu.be/Qr6Vcvl0OeU)
+
+---
+
+Keywords: #funny #thing #happened #way #moon #faked #mission #documentary
+

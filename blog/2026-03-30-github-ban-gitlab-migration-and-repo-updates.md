@@ -73,3 +73,8 @@ This repo absorbed the **censorship dossier**, the **Swift / *Gulliver*** invest
 ---
 
 *Topics:* [#influence](https://paradigmthreat.net/search/influence) · [#censorship](https://paradigmthreat.net/search/censorship) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming) · [#history](https://paradigmthreat.net/search/history)
+
+---
+
+Keywords: #2026 #github #ban #gitlab #migration #repo #updates #disabled #repos #swift #gulliver #mars #dossier #site
+

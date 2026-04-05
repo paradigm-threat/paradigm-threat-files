@@ -42,3 +42,8 @@ Where Volume I focused on culture and origins, this volume focuses on the indivi
 - [Author Index](../README.md)
 - [Homo Schizo I](homo-schizo-i.md) — companion volume on cultural hologenesis
 - [Divine Succession](divine-succession.md) — gods as celestial bodies in the psyche
+
+---
+
+Keywords: #homo #schizo #ii #nature #behavior
+

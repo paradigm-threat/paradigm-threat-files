@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "f9cca65b3bbbd06c3820d00481590f251c188c26",
+    "date": "2026-04-04T16:11:39.000Z",
+    "message": "changelog: include per-file relative links",
+    "files": [
+      {
+        "status": "M",
+        "path": "scripts/generate-changelog.cjs",
+        "href": "/scripts/generate-changelog.cjs"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "31390817ca9ef6bf4ee26c28c458daa19bc64784",
     "date": "2026-04-04T15:14:09.000Z",
     "message": "Chronology: update investigations index.",
@@ -107,19 +120,6 @@
         "status": "M",
         "path": "influence/censorship/github-ban.md",
         "href": "/influence/censorship/github-ban"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "36c00fb70724779542ecee92ecd6bfce72455f7d",
-    "date": "2026-04-04T11:30:11.000Z",
-    "message": "Add Toynbee tiles investigation hero image (PNG)",
-    "files": [
-      {
-        "status": "A",
-        "path": "influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.png",
-        "href": "/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.png"
       }
     ]
   }

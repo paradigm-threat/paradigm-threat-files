@@ -113,3 +113,8 @@ The **primary** investigation is whether Pluto—the unseen planet, never really
 - **Fomenko:** New Chronology (chronologia.org); "Styx came later" as user thesis—consistent with Fomenko’s later-layer method.
 - **Pluto discovery:** Lowell Observatory, Tombaugh 18 Feb 1930; name Pluto (Venetia Burney). [History of Pluto](https://lowell.edu/discover/history-of-pluto/).
 - **Timeline:** [History/chronology](/history/chronology); [Wuxing and Dark Ages](/history/chronology/investigations/wuxing-five-planets-dark-ages); [Mars](/cosmos/mars).
+
+---
+
+Keywords: #pluto #origin #visibility #unseen #planet #lost #hell
+

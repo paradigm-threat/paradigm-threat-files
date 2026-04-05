@@ -142,3 +142,8 @@ Tolkien shows both phases; Wells shows only the perverted phase — Martian surv
 - [Crystal Egg / Palantíri convergence](/timeline/evt-20th-century-predictive-programming-literature) — Wells, Tolkien, Lovecraft, Stargate
 - [RESEARCH-three-tasks-source-mapping](RESEARCH-three-tasks-source-mapping.md) — Silmarillion source mapping
 - [INVESTIGATION-tolkien-redacted-fact](INVESTIGATION-tolkien-redacted-fact.md) — Tolkien as translator, encoding, forgery
+
+---
+
+Keywords: #article #palantir #analysis #palant #ri #tolkien #seeing-stones
+

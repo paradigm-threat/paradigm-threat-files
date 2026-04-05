@@ -27,6 +27,11 @@
 
 Jonathan Swift (1667–1745) published *Travels into Several Remote Nations of the World* (1726) under the **persona of Lemuel Gulliver**, with a **publisher-facing hoax frame** (cousin Sympson, “authentic” memoir). The book’s reputation as **satire** does not erase the question—relevant to this project—whether **specific technical details** (notably the Martian satellites in Part III) were arbitrary invention, lucky guess, or **encoded contemporary knowledge** later reclassified as imaginative literature.
 
+
+---
+
+Keywords: #jonathan #swift
+
 ---
 
 ## Folder contents

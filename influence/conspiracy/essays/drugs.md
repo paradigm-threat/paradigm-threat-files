@@ -47,3 +47,8 @@ But the psychic lady's face lit up as she looked at me and she smiled.  She told
 Later I laughed this off as I did anything outside my comfort blanket area.  But now I believe that the cannabis really didn't heal me--it just helped me to heal myself.  And if I had put some investigation and work into what that woman had told me that I was capable of doing, my life might have been much different and I might even have helped other people.
 
 So that's my cautionary tale about comfort blankets.  If people want to call me a 'Conspiracy Theorist" because I've discovered that the world and my own body are vastly different from what I once believed, that's fine.  I'm not telling anybody to take drugs.  Just unwrap that comfort blanket and stick your head or a foot out once in a while.  You might be surprised.
+
+---
+
+Keywords: #drugs #comfort #blanket #conspiracy
+

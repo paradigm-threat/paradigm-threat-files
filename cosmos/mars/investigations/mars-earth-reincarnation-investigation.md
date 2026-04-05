@@ -170,3 +170,8 @@ Question: Do **increases** in Mars–Earth reincarnation reports (or in cultural
 - **Film/TV:** *Martian Child* (2007), dir. Menno Meyjes, David Gerrold short story; *The Girl from Mars* (1991), dir. Neill Fearnley, IMDb; *Boy from Mars* (1990), Canadian, IMDb; *Total Recall* (1990), Verhoeven, P.K. Dick; *John Carter* (2012), Burroughs.
 - **Declassified:** CIA FOIA Reading Room — “Mars Exploration, May 22, 1984” (CIA-RDP96-00788R001900760001-9); Stargate Collection, 36 Mars exploration items (1984). See also The Black Vault, Medium “Mars Exploration May 22, 1984” transcript.
 - **Literature:** *Earth Revisited* (Byron Alden Brooks, 1893); Ian Stevenson, *Children Who Remember Previous Lives*—to be checked for Mars cases.
+
+---
+
+Keywords: #mars #reincarnation #mass #death #souls #reborn
+

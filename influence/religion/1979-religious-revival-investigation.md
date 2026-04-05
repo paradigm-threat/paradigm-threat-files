@@ -162,3 +162,8 @@ Across its history, CIA behaviour appears consistently oriented toward **routing
 - [ ] Map CIA religion-related operations across decades (Vatican, mujahideen, Iran, Moral Majority, etc.)
 - [ ] Assess evidence for/against Iranian weaponised program; regime's incentives for denial vs. concealment
 - [ ] Add to timeline if findings warrant
+
+---
+
+Keywords: #1979 #religious #revival #cia #backing #global #phenomenon
+

@@ -134,3 +134,8 @@ Without Western extraction, immunity, and sanctuary choices, National Socialist 
 ---
 
 *This file documents claims and interpretive lines for investigation; it does not assert legal findings of fact.*
+
+---
+
+Keywords: #operation #paperclip #nazi #continuity #wwii #narrative #defeat
+

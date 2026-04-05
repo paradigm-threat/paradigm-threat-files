@@ -51,3 +51,8 @@ This volume is one of the most historically specific in the series, engaging dir
 - [God's Fire](gods-fire.md) — Exodus and the same catastrophic era
 - [Lately Tortured Earth](lately-tortured-earth.md) — physical record of Bronze Age catastrophe
 - [Iron Age of Mars](iron-age-of-mars.md) — the subsequent Iron Age catastrophe
+
+---
+
+Keywords: #burning #troy
+

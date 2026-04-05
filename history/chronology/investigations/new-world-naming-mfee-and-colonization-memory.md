@@ -100,3 +100,8 @@ These materials **strengthen** a **general** argument that imperial language of 
 - [The MudFlood and World Cataclysm](/timeline/evt-the-mudflood-world-cataclysm)  
 - [1833 CE — Josiah Priest publishes *American Antiquities*](/timeline/evt-1833-ce-josiah-priest-american-antiquities) (timeline event)  
 - [Chronology investigations index](/history/chronology/investigations/index-investigations.md)
+
+---
+
+Keywords: #new #world #naming #mfee #colonization #memory #lands #post #mud-flood
+

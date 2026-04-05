@@ -122,3 +122,8 @@ Russell, Jr., and Hale Boggs both privately rejected the Warren Commission’s l
 Robert F. Kennedy, Jacqueline Kennedy and many, many others. But the conspiracy of silence took years to break, and when
 broken, the revelations came out piecemeal and were dismissed at the time as insignificant, old news – just conspiracy
 theorists.
+
+---
+
+Keywords: #criticism #plan #countering
+

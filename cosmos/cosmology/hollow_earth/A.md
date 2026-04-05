@@ -275,3 +275,8 @@ I'll bet they would be very surprised by the results.
 ---
 
 **See also:** [Hollow Earth investigation](/cosmos/cosmology/hollow_earth/hollow-earth-investigation) — sources, maps, pre-1940 books (with online links), concentric circles count, inner sun, north/south entrances, Atlantis (Earth vs. Mars, ruins inside Earth or Mars), and controlled opposition (fiction/fantasy reframing).
+
+---
+
+Keywords: #article
+

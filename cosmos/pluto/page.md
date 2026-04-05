@@ -16,3 +16,8 @@ Pluto is treated here as an **investigation** rather than a settled fact: whethe
 - [Mars](/cosmos/mars) — Debris/electrical link to outer system in sponsored thesis.
 - [History / Chronology](/history/chronology) — Norse Helheim/Pluto (underworld) mapping; Dark Ages five planets.
 - [Wuxing and Five Planets](/history/chronology/investigations/wuxing-five-planets-dark-ages) — No Pluto in Dark Ages configuration.
+
+---
+
+Keywords: #pluto
+

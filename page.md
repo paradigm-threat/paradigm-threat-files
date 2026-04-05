@@ -286,3 +286,8 @@ At `/`, `page.md` replaces the automatic directory listing for the repository ro
 ## General Chatroom
 
 <ChatRoom channel="general" mode="full"/>
+
+---
+
+Keywords: #welcome #paradigm #threat
+

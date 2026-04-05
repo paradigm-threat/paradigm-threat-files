@@ -42,3 +42,8 @@ This launch established paradigmthreat.net as the home for the project's researc
 
 ---
 *Topics:* [#influence](https://paradigmthreat.net/search/influence) · [#history](https://paradigmthreat.net/search/history) · [#events](https://paradigmthreat.net/search/events)
+
+---
+
+Keywords: #2023 #paradigm #threat #site #launch #october #launches
+

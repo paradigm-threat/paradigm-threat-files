@@ -180,3 +180,8 @@ Capture: Most Asimov tech (shields, nuclear guns) reads as **unrealistic**. The 
 | 3 | Obtain *David Starr, Space Ranger*, *The Martian Way* for Thread 2 (Mars) |
 | 4 | Expand Foundation index for Thread 4 (class, slavery, Marxism) |
 | 5 | Add investigator sentiment on tech realism to 03-themes |
+
+---
+
+Keywords: #threads #asimov
+

@@ -45,6 +45,11 @@ Isaac Asimov (1920–1992) was born in Petrovichi, Soviet Russia (Smolensk Oblas
 - ISFDB: [Isaac Asimov bibliography](https://www.isfdb.org/cgi-bin/ea.cgi?5)
 - Asimov Online: [Robot & Foundation history](https://www.asimovonline.com/oldsite/Robot_Foundation_history_1.html)
 
+
+---
+
+Keywords: #isaac #asimov
+
 ---
 
 ## Folder contents

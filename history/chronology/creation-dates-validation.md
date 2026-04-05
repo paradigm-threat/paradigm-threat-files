@@ -162,3 +162,8 @@ The article [timeline-synchronization.md](../articles/project-objective/timeline
 4. [ ] Verify whether any Hieronymus or other writer is associated with 3491 BC.
 5. [ ] Add cross-references to `OUTSTANDING_QUESTIONS.md` for unresolved items.
 6. [ ] Consider adding these creation dates as timeline events or a reference appendix.
+
+---
+
+Keywords: #creation #dates #validation #jno #cook #date #claims
+

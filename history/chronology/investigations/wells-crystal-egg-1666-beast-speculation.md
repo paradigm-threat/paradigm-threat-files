@@ -54,3 +54,8 @@ None of these **requires** crystal eggs. The speculative investigation asks whet
 - **Intercepted** or **declassified** correspondence (any era) referring to **pre-radio** mass influence experiments—*currently none cited.*
 
 Until then: **speculation only; leave open.**
+
+---
+
+Keywords: #wells #crystal #egg #1666 #beast #eggs #mass #influence #cover #story
+

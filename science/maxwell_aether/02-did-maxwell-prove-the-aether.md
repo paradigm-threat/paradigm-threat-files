@@ -237,3 +237,8 @@ Modern physics has effectively reintroduced the aether under other names — qua
 - Einstein, Albert — "Concerning the Investigation of the State of Ether in Magnetic Fields" (early paper)
 - Laughlin, Robert B. — on the "relativistic Ether" as modern vacuum concept
 - Newton, Isaac — Letters to Bentley, 1692 (on action at a distance requiring a medium)
+
+---
+
+Keywords: #did #maxwell #prove #aether #work #actually #exists
+

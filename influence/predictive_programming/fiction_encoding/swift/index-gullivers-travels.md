@@ -57,3 +57,8 @@ Under `39015078565861/` and surrounding pages in the combined `Gulliver_s_travel
 - [Swift hub](page.md)  
 - [Mars / giants / publication stance](swift-mars-giants-publication-stance.md)  
 - [Mars investigations](/cosmos/mars/investigations/index-mars.md)
+
+---
+
+Keywords: #gullivers #travels #gulliver #summary
+

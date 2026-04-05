@@ -126,3 +126,8 @@ If the summary table should mirror the documentary more closely, **additional ro
 2. Investigation: Quote Sources + mirror paths.
 3. Appendix: Revolving Crescent + World Mountain (overflow).
 4. Optional: expand 02.00 table OR add `16.appendix` doc mapping 16 documentary steps → chapter IDs.
+
+---
+
+Keywords: #golden-age-additions-report #golden #additions #report
+

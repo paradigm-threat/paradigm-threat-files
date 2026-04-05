@@ -153,3 +153,8 @@ Each iteration learns from the previous failure. The progression from visible fi
 - Schom, A. *One Hundred Days: Napoleon's Road to Waterloo* (1992)
 - Sutton, A.C. *Wall Street and the Rise of Hitler* (1976)
 - Zeman, Z.A.B. *Germany and the Revolution in Russia, 1915–1918: Documents from the Archives of the German Foreign Ministry* (1958)
+
+---
+
+Keywords: #reverse #crusades #comparison #four #structural
+

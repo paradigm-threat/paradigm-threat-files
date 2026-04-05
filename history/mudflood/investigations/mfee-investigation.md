@@ -90,3 +90,8 @@ Author's analysis in `paradigm-threat-files` includes:
 - [The MudFlood and World Cataclysm](/timeline/evt-the-mudflood-and-world-cataclysm)
 - paradigm-threat-files: `history/maps/`, `history/chronology/tartaria/`, `history/chronology/page.md`
 - wget/chronologia.org: `en/old_maps/`, `en/chronologia4/4N12-*.pdf`, `en/e_books/14_great_tartary.html`
+
+---
+
+Keywords: #mfee #evidence #map #changes #over #time
+

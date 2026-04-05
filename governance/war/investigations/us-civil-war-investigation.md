@@ -133,3 +133,8 @@ Depleted uranium as a military technology is conventionally dated to the **20th 
 - Foner, E. *Reconstruction*
 - Jones, H. *Blue and Gray Diplomacy* (British involvement)
 - Timeline: [American Revolution](american-revolution-investigation.md), [Reverse Crusades](/timeline/evt-reverse-crusades)
+
+---
+
+Keywords: #us #civil #war #british #funding #slavery #instrument #du #weapon #thesis
+

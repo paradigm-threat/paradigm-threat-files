@@ -30,3 +30,8 @@ This engraving by Master ES depicts a Wild Woman (Wildweibchen) alongside a unic
 ## Related Links
 
 - [Hairy Mary – One More Time](https://en.posztukiwania.pl/2018/11/10/hairy-mary-one-more-time/) — article discussing this artwork
+
+---
+
+Keywords: #met #museum #wild #woman #unicorn #playing #card
+

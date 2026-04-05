@@ -29,3 +29,8 @@ The Thunderbolts Project (Electric Universe / Saturnian cosmology) has deleted o
 
 - Verify removed_thread.txt exists in repo or archive; link or embed summary.
 - Search for other references to deleted Thunderbolts forum content.
+
+---
+
+Keywords: #thunderbolts #forum #archives #deletions #evidence #archive
+

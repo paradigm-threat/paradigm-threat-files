@@ -52,3 +52,8 @@
 - [806–670 BCE / 684 BCE — Solar System becomes stable](/timeline/evt-684-bce-solar-system-becomes-stable)
 - [Wuxing and the Five Planets](/timeline/evt-wuxing-five-planets-five-elements) (Dark Ages article)
 - [Suppression of Wuxing — Four Elements Replacement](/timeline/evt-suppression-of-wuxing-four-elements-replacement) (20th c. CCP suppression, Bruce Lee, four elements/air, scalarity)
+
+---
+
+Keywords: #wuxing #five #planets #dark #ages #observational #record
+

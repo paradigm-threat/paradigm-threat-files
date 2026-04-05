@@ -124,3 +124,8 @@ Editors and biographers cite Swift’s **29 September 1725 letter to Alexander P
 ## 6. Methodology note
 
 Arguments about **genre precursors** or **literary “tradition”** do **not** by themselves settle **content** questions (what is claimed, numbers, provenance). See [swift-investigation-debate-rails-and-drift.md](swift-investigation-debate-rails-and-drift.md) for the investigation’s **rails** and the **drift** pattern (including in automated debate).
+
+---
+
+Keywords: #swift #mars #giants #publication #stance #scale #beings #gulliver #sold #readers
+

@@ -49,3 +49,8 @@ Prince Rogers Nelson (1958–2016) embraced androgyny as both artistic expressio
 - [Forbes: Prince Androgyny Identity or Branding](https://www.forbes.com/sites/joevogel/2018/05/06/was-princes-androgyny-about-identity-or-branding/)
 - [CNN: Prince Fentanyl Overdose](https://www.cnn.com/2016/06/02/health/prince-death-opioid-overdose)
 - [AP: Prince Autopsy](https://apnews.com/article/3c35f1efbd3a4ae1add3a3d787864475)
+
+---
+
+Keywords: #prince #androgyny #death #identity
+

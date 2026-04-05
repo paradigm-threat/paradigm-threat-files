@@ -133,3 +133,8 @@ The preface asserts "the history... may stand forth as **simple fact**"; "all th
 - [The Vampyre](index-the-vampyre.md) | [Carmilla](index-carmilla.md) | [Varney](index-varney-the-vampire.md)
 - [Bram Stoker investigation](index-bram-stoker-investigation.md) — Fiction framing, Eastern lore sources, family lines; book as fact, realistic physics
 - [Island of Dr. Moreau](../wells/index-island-of-dr-moreau.md) — Blood reversion; gland/blood vs. surgery; scarlet restorative
+
+---
+
+Keywords: #dracula
+
