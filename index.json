@@ -455,6 +455,10 @@
       ],
       "_updated": "2026-04-03T12:00:00Z"
     },
+    "2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md": {
+      "_title": "Relay network engineering shift; GitHub and crates.io lockout; griffin timeline merge; site and files updates \u2014 April 5, 2026",
+      "_updated": "2026-04-05T12:00:00Z"
+    },
     "page.md": {
       "_title": "Blog",
       "_keywords": [
@@ -462,7 +466,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 31
+    "_count": 32
   },
   "book": {
     "page.md": {
@@ -478,7 +482,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-05T12:17:42Z"
+    "_updated": "2026-04-05T17:11:20Z"
   },
   "cosmos": {
     "cosmology": {
@@ -6846,7 +6850,7 @@
             "greek",
             "church"
           ],
-          "_updated": "2026-04-05T12:17:42Z"
+          "_updated": "2026-04-05T17:11:20Z"
         },
         "myth-creatures-textual-record-human-extirpation-investigation.md": {
           "_title": "Investigation (concluded): Griffins and other \u201cmyth\u201d fauna in sober historical texts \u2014 extinction by human pressure?",
@@ -9913,7 +9917,7 @@
         "_width": 949,
         "_height": 575,
         "_lqip": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAADwAQCdASoQAAoABUB8JZQC7AEPh9TH/IAA/uWJ8EfQPZwCAAA=",
-        "_updated": "2026-04-05T12:46:40Z"
+        "_updated": "2026-04-05T17:11:20Z"
       },
       "apple_podcast.jpg": {
         "_width": 1080,
@@ -13608,6 +13612,6 @@
     },
     "_count": 153
   },
-  "_count": 1930,
-  "_version": "7172dba"
+  "_count": 1931,
+  "_version": "b8d9e83"
 }

@@ -1,6 +1,29 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "b8d9e8321ba7f0dea352288874f06cf31dd575e4",
+    "date": "2026-04-05T17:11:20.000Z",
+    "message": "Index, investigations, censorship asset updates",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/jew-word-terminology-judas-judicial.md",
+        "href": "/history/chronology/investigations/jew-word-terminology-judas-judicial"
+      },
+      {
+        "status": "A",
+        "path": "influence/censorship/ai_censorship2.png",
+        "href": "/influence/censorship/ai_censorship2.png"
+      },
+      {
+        "status": "M",
+        "path": "scripts/generate-index.py",
+        "href": "/scripts/generate-index.py"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "7172dbad6a597bdc3ed901bb58d3991add8ef6ee",
     "date": "2026-04-05T12:17:42.000Z",
     "message": "Update paradigm-threat-files content and documentation",
@@ -1992,24 +2015,6 @@
         "status": "M",
         "path": "influence/censorship/github-ban.md",
         "href": "/influence/censorship/github-ban"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "dc31f1a0e1a0f71581ea328e4c9056acd3a9593a",
-    "date": "2026-04-04T11:43:35.000Z",
-    "message": "github ban update",
-    "files": [
-      {
-        "status": "A",
-        "path": "influence/censorship/github-ban5.png",
-        "href": "/influence/censorship/github-ban5.png"
-      },
-      {
-        "status": "M",
-        "path": "influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md",
-        "href": "/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation"
       }
     ]
   }
