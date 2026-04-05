@@ -1,138 +1,473 @@
 {
   "README.md": {
-    "_updated": "2026-03-30T13:02:14Z"
+    "_keywords": [
+      "readme"
+    ],
+    "_updated": "2026-04-05T12:17:42Z"
   },
   "blog": {
     "2021-11-30-2020-2021-paradigm-threat-old.md": {
       "_title": "2020\u20132021: paradigm-threat-old \u2014 Project Beginnings and Maintenance",
+      "_keywords": [
+        "2021",
+        "2020",
+        "paradigm",
+        "threat",
+        "old",
+        "paradigm-threat-old",
+        "project",
+        "beginnings",
+        "maintenance"
+      ],
       "_updated": "2021-11-30T12:00:00Z"
     },
     "2022-11-30-2022-old2-sources-content.md": {
       "_title": "2022: paradigm-threat-old2 Rebuild, Sources Submodule, and Content Expansion",
+      "_keywords": [
+        "2022",
+        "old2",
+        "sources",
+        "content",
+        "paradigm-threat-old2",
+        "rebuild",
+        "submodule",
+        "expansion"
+      ],
       "_updated": "2022-11-30T12:00:00Z"
     },
     "2023-04-30-2023-q1-q2-asset-overhaul.md": {
       "_title": "2023 Q1\u2013Q2: Asset Overhaul and Final Old2 Iteration",
+      "_keywords": [
+        "2023",
+        "q1",
+        "q2",
+        "asset",
+        "overhaul",
+        "final",
+        "old2",
+        "iteration"
+      ],
       "_updated": "2023-04-30T12:00:00Z"
     },
     "2023-10-31-paradigm-threat-site-launch.md": {
       "_title": "October 2023: Paradigm Threat Site Launches",
+      "_keywords": [
+        "2023",
+        "paradigm",
+        "threat",
+        "site",
+        "launch",
+        "october",
+        "launches"
+      ],
       "_updated": "2023-10-31T12:00:00Z"
     },
     "2024-06-30-2024-h1-vercel-chronology-investigations.md": {
       "_title": "2024 H1: Vercel, Chronology, Mars, and Investigations",
+      "_keywords": [
+        "2024",
+        "h1",
+        "vercel",
+        "mars"
+      ],
       "_updated": "2024-06-30T12:00:00Z"
     },
     "2024-12-31-2024-h2-events-year-end.md": {
       "_title": "2024 H2: 9/11 Theory, Chat Fixes, and Year-End Updates",
+      "_keywords": [
+        "2024",
+        "h2",
+        "events",
+        "end",
+        "chat",
+        "fixes",
+        "year-end",
+        "updates"
+      ],
       "_updated": "2024-12-31T12:00:00Z"
     },
     "2025-09-30-paradigm-threat-files-launch.md": {
       "_title": "September 2025: paradigm-threat-files Repository Created",
+      "_keywords": [
+        "2025",
+        "paradigm",
+        "threat",
+        "launch",
+        "september",
+        "paradigm-threat-files",
+        "repository",
+        "created"
+      ],
       "_updated": "2025-09-30T12:00:00Z"
     },
     "2026-01-31-january-2026-project-beginnings.md": {
       "_title": "January 2026: Timeline Project Begins, paradigm-threat-files Refactor",
+      "_keywords": [
+        "2026",
+        "january",
+        "project",
+        "beginnings",
+        "begins",
+        "paradigm-threat-files",
+        "refactor"
+      ],
       "_updated": "2026-01-31T12:00:00Z"
     },
     "2026-02-21-pre-launch-buildup.md": {
       "_title": "February 21, 2026: Pre-Launch Build \u2014 Media, Structure, and Content",
+      "_keywords": [
+        "2026",
+        "pre",
+        "launch",
+        "buildup",
+        "february",
+        "pre-launch",
+        "build",
+        "media",
+        "structure",
+        "content"
+      ],
       "_updated": "2026-02-21T12:00:00Z"
     },
     "2026-02-22-new-timeline-project.md": {
       "_title": "A Dedicated Timeline for Earth's Hidden History",
+      "_keywords": [
+        "2026",
+        "new",
+        "project",
+        "dedicated",
+        "hidden"
+      ],
       "_updated": "2026-02-22T12:00:00Z"
     },
     "2026-02-24-timeline-update.md": {
       "_title": "Timeline Update: Atlantis Investigation, Joan of Arc, and the Absu",
+      "_keywords": [
+        "2026",
+        "update",
+        "atlantis",
+        "joan",
+        "arc",
+        "absu"
+      ],
       "_updated": "2026-02-24T12:00:00Z"
     },
     "2026-02-25-timeline-update.md": {
       "_title": "Timeline Update: New Articles, Restructure, and a Media Audit",
+      "_keywords": [
+        "2026",
+        "update",
+        "new",
+        "articles",
+        "restructure",
+        "media",
+        "audit"
+      ],
       "_updated": "2026-02-25T12:00:00Z"
     },
     "2026-02-26-timeline-update.md": {
       "_title": "Timeline Update: Author Profiles, Third Story, Core Concepts, and Major Restructure",
+      "_keywords": [
+        "2026",
+        "update",
+        "author",
+        "profiles",
+        "third",
+        "story",
+        "core",
+        "concepts",
+        "major",
+        "restructure"
+      ],
       "_updated": "2026-02-26T12:00:00Z"
     },
     "2026-02-27-timeline-update.md": {
       "_title": "Timeline Update: Chapter Consolidation, New Articles, Print-Ready PDF, and Chronological Corrections",
+      "_keywords": [
+        "2026",
+        "update",
+        "chapter",
+        "consolidation",
+        "new",
+        "articles",
+        "print-ready",
+        "pdf",
+        "chronological",
+        "corrections"
+      ],
       "_updated": "2026-02-27T12:00:00Z"
     },
     "2026-02-28-timeline-update.md": {
       "_title": "Timeline Update: New Chapters 13\u201315, Ch11 Reorganization, 3-Tier Export Hierarchy, and Animation Module",
+      "_keywords": [
+        "2026",
+        "update",
+        "new",
+        "chapters",
+        "ch11",
+        "reorganization",
+        "tier",
+        "export",
+        "hierarchy",
+        "animation",
+        "module"
+      ],
       "_updated": "2026-02-28T12:00:00Z"
     },
     "2026-03-01-timeline-update.md": {
       "_title": "Timeline Update: Massive Condensation, Mars Catastrophe, Operation Mockingbird, and PDF Shrinks to 420 Pages",
+      "_keywords": [
+        "2026",
+        "update",
+        "massive",
+        "condensation",
+        "mars",
+        "catastrophe",
+        "operation",
+        "mockingbird",
+        "pdf",
+        "shrinks",
+        "pages"
+      ],
       "_updated": "2026-03-01T12:00:00Z"
     },
     "2026-03-03-timeline-update.md": {
       "_title": "Timeline Update: Investigations Library, Maxwell & the Aether, Nuclear Myths, Browser Mode, and 13 New Articles",
+      "_keywords": [
+        "2026",
+        "update",
+        "library",
+        "maxwell",
+        "aether",
+        "nuclear",
+        "myths",
+        "browser",
+        "mode",
+        "new",
+        "articles"
+      ],
       "_updated": "2026-03-03T12:00:00Z"
     },
     "2026-03-05-timeline-update.md": {
       "_title": "Timeline Update: Flexner Report, Weather Control, CERN, Mars Literature, Asimov, and 38 New Investigations",
+      "_keywords": [
+        "2026",
+        "update",
+        "flexner",
+        "report",
+        "weather",
+        "control",
+        "cern",
+        "mars",
+        "literature",
+        "asimov",
+        "new"
+      ],
       "_updated": "2026-03-05T12:00:00Z"
     },
     "2026-03-09-timeline-update.md": {
       "_title": "Timeline Update: Six Wars, World Wars, Trump, Pyramids, Seven Days, Population Control, and Major Restructuring",
+      "_keywords": [
+        "2026",
+        "update",
+        "six",
+        "wars",
+        "world",
+        "trump",
+        "pyramids",
+        "seven",
+        "days",
+        "population",
+        "control",
+        "major",
+        "restructuring"
+      ],
       "_updated": "2026-03-09T12:00:00Z"
     },
     "2026-03-10-timeline-update.md": {
       "_title": "Timeline Update: Content Reduction, Fiction-Encoding Investigations, Arthurian Cosmology, and New Appendix Overflow",
+      "_keywords": [
+        "2026",
+        "update",
+        "content",
+        "reduction",
+        "fiction-encoding",
+        "arthurian",
+        "cosmology",
+        "new",
+        "overflow"
+      ],
       "_updated": "2026-03-10T12:00:00Z"
     },
     "2026-03-11-timeline-update.md": {
       "_title": "Timeline Update: Stolen Credit Suite, Yakuza Investigation, Site SSR, and TTS Improvements",
+      "_keywords": [
+        "2026",
+        "update",
+        "stolen",
+        "credit",
+        "suite",
+        "yakuza",
+        "site",
+        "ssr",
+        "tts",
+        "improvements"
+      ],
       "_updated": "2026-03-11T12:00:00Z"
     },
     "2026-03-12-content-update.md": {
       "_title": "Content Update: Identity Investigations, Tornado Thesis, Ed Wood, Hairy Mary, and Reorganization",
+      "_keywords": [
+        "2026",
+        "content",
+        "update",
+        "identity",
+        "tornado",
+        "thesis",
+        "ed",
+        "wood",
+        "hairy",
+        "mary",
+        "reorganization"
+      ],
       "_updated": "2026-03-12T12:00:00Z"
     },
     "2026-03-14-soul-science-israel-divide-conquer-investigations.md": {
       "_title": "Soul Science, Israel Divide-and-Conquer, and Chronology Investigations",
+      "_keywords": [
+        "2026",
+        "soul",
+        "science",
+        "israel",
+        "divide",
+        "conquer",
+        "divide-and-conquer"
+      ],
       "_updated": "2026-03-14T12:00:00Z"
     },
     "2026-03-16-cia-investigation-timeline-article.md": {
       "_title": "CIA Investigation and Timeline Article",
+      "_keywords": [
+        "2026",
+        "cia",
+        "article"
+      ],
       "_updated": "2026-03-16T12:00:00Z"
     },
     "2026-03-17-authors-cataclysm-controlled-opposition.md": {
       "_title": "Authors Who Read Cataclysm + Controlled Opposition Theory",
+      "_keywords": [
+        "2026",
+        "authors",
+        "cataclysm",
+        "controlled",
+        "opposition",
+        "read"
+      ],
       "_updated": "2026-03-17T12:00:00Z"
     },
     "2026-03-20-timeline-update.md": {
       "_title": "Radiocarbon Dating Investigation + Timeline Updates",
+      "_keywords": [
+        "2026",
+        "update",
+        "radiocarbon",
+        "dating",
+        "updates"
+      ],
       "_updated": "2026-03-20T12:00:00Z"
     },
     "2026-03-23-timeline-files-site-update.md": {
       "_title": "Golden Age rollout, MFEE appendices, investigations, and site/TTS polish",
+      "_keywords": [
+        "2026",
+        "site",
+        "update",
+        "golden",
+        "rollout",
+        "mfee",
+        "appendices",
+        "tts",
+        "polish"
+      ],
       "_updated": "2026-03-23T12:00:00Z"
     },
     "2026-03-28-timeline-tldr-appendix-split-investigations-site.md": {
       "_title": "Book TL;DR sweep, appendix split (XVI\u2013XXII), war and fiction investigations, exports, site reader",
+      "_keywords": [
+        "2026",
+        "tldr",
+        "split",
+        "site",
+        "book",
+        "sweep",
+        "xvi",
+        "xxii",
+        "war",
+        "fiction",
+        "exports",
+        "reader"
+      ],
       "_updated": "2026-03-28T12:00:00Z"
     },
     "2026-03-30-github-ban-gitlab-migration-and-repo-updates.md": {
       "_title": "GitHub disabled all 72 repos; GitLab migration; Swift / *Gulliver* Mars dossier and site index updates",
+      "_keywords": [
+        "2026",
+        "github",
+        "ban",
+        "gitlab",
+        "migration",
+        "repo",
+        "updates",
+        "disabled",
+        "repos",
+        "swift",
+        "gulliver",
+        "mars",
+        "dossier",
+        "site"
+      ],
       "_updated": "2026-03-30T12:00:00Z"
     },
     "2026-04-03-prester-john-religious-edition-brand-slogans.md": {
       "_title": "Prester John NC dossier; *Jacob\u2019s Ladder* / Eckhart & Cathar\u2013Khazar suppression; Chronologia perspective; religious edition; brand & site \u2014 April 3, 2026",
+      "_keywords": [
+        "2026",
+        "prester",
+        "john",
+        "religious",
+        "edition",
+        "brand",
+        "slogans",
+        "nc",
+        "dossier",
+        "jacob",
+        "ladder",
+        "eckhart",
+        "cathar",
+        "khazar",
+        "suppression",
+        "chronologia",
+        "perspective",
+        "site",
+        "april"
+      ],
       "_updated": "2026-04-03T12:00:00Z"
     },
     "page.md": {
       "_title": "Blog",
-      "_updated": "2026-03-24T14:41:35Z"
+      "_keywords": [
+        "blog"
+      ],
+      "_updated": "2026-04-05T12:17:42Z"
     },
     "_count": 31
   },
   "book": {
     "page.md": {
       "_title": "Paradigm Threat: The Third Story",
-      "_updated": "2026-03-30T14:02:57Z"
+      "_updated": "2026-04-05T12:17:42Z"
     },
     "paradigm-threat-the-third-story.png": {
       "_width": 1536,
@@ -143,7 +478,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-04T16:11:39Z"
+    "_updated": "2026-04-05T12:17:42Z"
   },
   "cosmos": {
     "cosmology": {
@@ -172,7 +507,12 @@
         "_updated": "2026-03-30T13:19:20Z"
       },
       "a.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "plasma",
+          "physics",
+          "cosmology"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "anthony-peratt-z-pinch-aurora.pdf": {
         "_updated": "2026-01-16T01:04:59Z"
@@ -191,7 +531,12 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "page.md": {
-          "_updated": "2026-03-30T14:02:57Z"
+          "_keywords": [
+            "astronomy",
+            "simulated",
+            "universe"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "page_1.jpg": {
           "_width": 1059,
@@ -222,72 +567,190 @@
       "de_grazia": {
         "README.md": {
           "_title": "Alfred de Grazia \u2014 Complete Works Index",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "readme",
+            "alfred",
+            "de",
+            "grazia",
+            "complete",
+            "works"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "books": {
           "burning-of-troy.md": {
             "_title": "The Burning of Troy",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "burning",
+              "troy"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "chaos-and-creation.md": {
             "_title": "Chaos and Creation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "chaos",
+              "creation"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "cosmic-heretics.md": {
             "_title": "Cosmic Heretics",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "cosmic",
+              "heretics"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "disastrous-love-affair.md": {
             "_title": "The Disastrous Love Affair of Moon and Mars",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "disastrous",
+              "love",
+              "affair",
+              "moon",
+              "mars"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "divine-succession.md": {
             "_title": "The Divine Succession: A Science of Gods Old and New",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "divine",
+              "succession",
+              "science",
+              "gods",
+              "old",
+              "new"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "fire-not-blown.md": {
             "_title": "A Fire Not Blown",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "fire",
+              "blown"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "gods-fire.md": {
             "_title": "God's Fire: Moses and the Management of Exodus",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "gods",
+              "fire",
+              "god",
+              "moses",
+              "management",
+              "exodus"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "homo-schizo-i.md": {
             "_title": "Homo Schizo I: Human and Cultural Hologenesis",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "homo",
+              "schizo",
+              "cultural",
+              "hologenesis"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "homo-schizo-ii.md": {
             "_title": "Homo Schizo II: Human Nature and Behavior",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "homo",
+              "schizo",
+              "ii",
+              "nature",
+              "behavior"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "iron-age-of-mars.md": {
             "_title": "The Iron Age of Mars",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "iron",
+              "mars"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "ka.md": {
             "_title": "KA: A Handbook of Mythology, Sacred Practices, Electrical Phenomena, and Their Linguistic Connections in the Ancient Mediterranean World",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "ka",
+              "handbook",
+              "mythology",
+              "sacred",
+              "practices",
+              "electrical",
+              "phenomena",
+              "linguistic",
+              "connections",
+              "ancient",
+              "mediterranean",
+              "world"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "lately-tortured-earth.md": {
             "_title": "Lately Tortured Earth: Exoterrestrial Forces and Quantavolution in the Solar System",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "lately",
+              "tortured",
+              "exoterrestrial",
+              "forces",
+              "quantavolution",
+              "solar",
+              "system"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "q-intro.md": {
             "_title": "Quantavolution and Catastrophe: Introduction to the Series & Q-C Test",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "intro",
+              "quantavolution",
+              "catastrophe",
+              "series",
+              "q-c",
+              "test"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "recollections-fallen-sky.md": {
             "_title": "Recollections of a Fallen Sky: Velikovsky and Cultural Amnesia",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "recollections",
+              "fallen",
+              "sky",
+              "velikovsky",
+              "cultural",
+              "amnesia"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "solaria-binaria.md": {
             "_title": "Solaria Binaria: Origins of the Sun and Its Planets",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "solaria",
+              "binaria",
+              "origins",
+              "sun",
+              "its",
+              "planets"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "velikovsky-affair.md": {
             "_title": "The Velikovsky Affair: Scientism vs. Science",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "velikovsky",
+              "affair",
+              "scientism",
+              "vs",
+              "science"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 16
         },
@@ -304,7 +767,14 @@
       },
       "ech-in-time": {
         "page.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "audio",
+            "drama",
+            "concept",
+            "plot",
+            "synopsis"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 1
       },
@@ -670,17 +1140,33 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "z.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "uncovering",
+            "missing",
+            "secrets",
+            "magnetism"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 62
       },
       "hollow_earth": {
         "A.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "article"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "ANNAS_ARCHIVE_DOWNLOADS_INDEX.md": {
           "_title": "Anna's Archive \u2014 Hollow Earth Downloads Index",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "annas-archive-downloads-index",
+            "anna",
+            "archive",
+            "hollow",
+            "downloads"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "Symmes_Circular.jpg": {
           "_width": 1024,
@@ -750,7 +1236,14 @@
         },
         "hollow-earth-investigation.md": {
           "_title": "Investigation: Hollow Earth \u2014 Sources, Maps, Books, and Atlantis",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "hollow",
+            "sources",
+            "maps",
+            "books",
+            "atlantis"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "hollow_earth_EU_model.jpg": {
           "_width": 1021,
@@ -759,7 +1252,12 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "hollow_earth_chat.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "hollow-earth-chat",
+            "hollow",
+            "chatroom"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "hollow_earth_controlled_opposition_fake_map.jpg": {
           "_width": 1800,
@@ -937,7 +1435,17 @@
         },
         "tham-luang-cave-rescue-2018-investigation.md": {
           "_title": "Investigation: Tham Luang Cave Rescue (2018) \u2014 Cover-up and Alternate Theories",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "tham",
+            "luang",
+            "cave",
+            "rescue",
+            "2018",
+            "cover-up",
+            "alternate",
+            "theories"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "tham-luang-cave-rescue-2018-investigation.png": {
           "_width": 1536,
@@ -998,19 +1506,41 @@
         },
         "index-mythsarehistory.md": {
           "_title": "www.mythsarehistory.com \u2014 Site Index",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "mythsarehistory",
+            "www",
+            "com",
+            "site"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "index-safireproject.md": {
           "_title": "SAFIRE Project \u2014 Site Index",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "safireproject",
+            "safire",
+            "project",
+            "site"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "index-saturniancosmology.md": {
           "_title": "saturniancosmology.org \u2014 Site Index",
-          "_updated": "2026-03-10T13:08:00Z"
+          "_keywords": [
+            "saturniancosmology",
+            "org",
+            "site"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "index-thunderbolts.md": {
           "_title": "thunderbolts.info \u2014 Site Index",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "thunderbolts",
+            "info",
+            "site"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 5
       },
@@ -1030,7 +1560,10 @@
     },
     "flat_earth": {
       "co.md": {
-        "_updated": "2026-03-17T13:47:51Z"
+        "_keywords": [
+          "co"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "controlled-opposition.jpg": {
         "_width": 540,
@@ -1046,7 +1579,12 @@
       },
       "flat-earth-investigation.md": {
         "_title": "Investigation: Flat Earth \u2014 History, Myth, and Misinterpretation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "flat",
+          "myth",
+          "misinterpretation"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "flat_earth_controlled_opposition.jpg": {
         "_width": 800,
@@ -1075,35 +1613,81 @@
       "burroughs_barsoom": {
         "README.md": {
           "_title": "Barsoom Series \u2014 Clue Index for Paradigm Threat Investigation",
-          "_updated": "2026-03-10T13:08:00Z"
+          "_keywords": [
+            "readme",
+            "barsoom",
+            "series",
+            "clue",
+            "paradigm",
+            "threat"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "chessmen-of-mars-index.md": {
           "_title": "The Chessmen of Mars \u2014 Clue Index",
-          "_updated": "2026-03-10T16:48:13Z"
+          "_keywords": [
+            "chessmen",
+            "mars",
+            "clue"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "fighting-man-of-mars-index.md": {
           "_title": "A Fighting Man of Mars \u2014 Clue Index",
-          "_updated": "2026-03-10T16:48:13Z"
+          "_keywords": [
+            "fighting",
+            "man",
+            "mars",
+            "clue"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "gods-of-mars-index.md": {
           "_title": "The Gods of Mars \u2014 Clue Index",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "gods",
+            "mars",
+            "clue"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "master-mind-of-mars-index.md": {
           "_title": "The Master Mind of Mars \u2014 Clue Index",
-          "_updated": "2026-03-10T13:08:00Z"
+          "_keywords": [
+            "master",
+            "mind",
+            "mars",
+            "clue"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "princess-of-mars-index.md": {
           "_title": "A Princess of Mars \u2014 Clue Index",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "princess",
+            "mars",
+            "clue"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "thuvia-maid-of-mars-index.md": {
           "_title": "Thuvia, Maid of Mars \u2014 Clue Index",
-          "_updated": "2026-03-10T16:48:13Z"
+          "_keywords": [
+            "thuvia",
+            "maid",
+            "mars",
+            "clue"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "warlord-of-mars-index.md": {
           "_title": "The Warlord of Mars \u2014 Clue Index",
-          "_updated": "2026-03-10T16:48:13Z"
+          "_keywords": [
+            "warlord",
+            "mars",
+            "clue"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 8
       },
@@ -1175,7 +1759,13 @@
       },
       "death-on-mars-analysis.md": {
         "_title": "Death on Mars Book Analysis",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "death",
+          "mars",
+          "analysis",
+          "book"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "geometric.jpg": {
         "_width": 800,
@@ -1216,23 +1806,62 @@
       "investigations": {
         "arnold-gullivar-jones-reference.md": {
           "_title": "Lieut. Gullivar Jones: His Vacation \u2014 Reference Document",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "arnold",
+            "gullivar",
+            "jones",
+            "reference",
+            "lieut",
+            "his",
+            "vacation",
+            "document"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "index-mars.md": {
           "_title": "Mars Literature \u2014 Index of Downloaded Texts",
-          "_updated": "2026-03-30T12:39:33Z"
+          "_keywords": [
+            "mars",
+            "literature",
+            "downloaded",
+            "texts"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "mars-earth-reincarnation-investigation.md": {
           "_title": "Investigation: Mars\u2013Earth Reincarnation \u2014 Mass Death on Mars and Souls Reborn on Earth",
-          "_updated": "2026-04-01T19:42:26Z"
+          "_keywords": [
+            "mars",
+            "reincarnation",
+            "mass",
+            "death",
+            "souls",
+            "reborn"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "mars-fiction-survey.md": {
           "_title": "Mars Fiction & Nonfiction Literature Survey (19th\u201320th Century)",
-          "_updated": "2026-04-01T19:42:26Z"
+          "_keywords": [
+            "mars",
+            "fiction",
+            "survey",
+            "nonfiction",
+            "literature",
+            "th"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "mars-stock-market-correlation.md": {
           "_title": "Mars and the Stock Market: Investigation into Celestial Correlation",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "mars",
+            "stock",
+            "market",
+            "correlation",
+            "celestial"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "mars-stock-market.png": {
           "_width": 1376,
@@ -1248,31 +1877,85 @@
         },
         "wotw-forbidden-blood.md": {
           "_title": "The Forbidden Blood: Human Blood-Feeding as Discipline Collapse",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "wotw",
+            "forbidden",
+            "blood",
+            "blood-feeding",
+            "discipline",
+            "collapse"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "wotw-martian-analysis.md": {
           "_title": "The Martians and Their Machines: A Technical Analysis",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "wotw",
+            "martian",
+            "analysis",
+            "martians",
+            "machines",
+            "technical"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "wotw-martian-civilization.md": {
           "_title": "H.G. Wells \u2014 Martian Civilization: Cross-Source Intelligence Dossier",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "wotw",
+            "martian",
+            "civilization",
+            "wells",
+            "cross-source",
+            "intelligence",
+            "dossier"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "wotw-mfee-mars-catastrophe.md": {
           "_title": "Death on Mars: The MFEE and the Nuclear Massacre",
-          "_updated": "2026-04-01T19:42:26Z"
+          "_keywords": [
+            "wotw",
+            "mfee",
+            "mars",
+            "catastrophe",
+            "death",
+            "nuclear",
+            "massacre"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "wotw-telepathic-purge.md": {
           "_title": "The Telepathic Purge: A Pattern Across Mars Fiction",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "wotw",
+            "telepathic",
+            "purge",
+            "pattern",
+            "across",
+            "mars",
+            "fiction"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "wotw-timeline.md": {
           "_title": "War of the Worlds: Technical Timeline",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "wotw",
+            "war",
+            "worlds",
+            "technical"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "wotw.md": {
           "_title": "The War of the Worlds",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "wotw",
+            "war",
+            "worlds"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 14
       },
@@ -1398,11 +2081,19 @@
       },
       "page.md": {
         "_title": "The Deep State is on Mars",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "deep",
+          "state"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "tripod": {
         "a.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "martian",
+            "tripod"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "tripod_remote_control.png": {
           "_width": 1194,
@@ -1474,7 +2165,17 @@
       },
       "wotw": {
         "a.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "differences",
+            "war",
+            "worlds",
+            "book",
+            "movie",
+            "album",
+            "real",
+            "event"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "black_smoke_belgium.jpg": {
           "_width": 1199,
@@ -1483,7 +2184,12 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "motive.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "motive",
+            "question",
+            "xcitable1"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "plagiarism.jpg": {
           "_width": 346,
@@ -1583,17 +2289,32 @@
       "investigations": {
         "index-pluto.md": {
           "_title": "Pluto Investigations \u2014 Index",
-          "_updated": "2026-03-17T13:47:51Z"
+          "_keywords": [
+            "pluto"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "pluto-origin-visibility-investigation.md": {
           "_title": "Investigation: Pluto \u2014 The Unseen Planet, Lost to Hell",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "pluto",
+            "origin",
+            "visibility",
+            "unseen",
+            "planet",
+            "lost",
+            "hell"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 2
       },
       "page.md": {
         "_title": "Pluto \u2014 Origin, Visibility, and the Outer System",
-        "_updated": "2026-03-17T13:47:51Z"
+        "_keywords": [
+          "pluto"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 3
     },
@@ -1734,7 +2455,10 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "AutoImages.auto.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "autoimages-auto"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "FakeWTCCollapse.jpg": {
         "_width": 447,
@@ -1755,13 +2479,29 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "page.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "inside",
+          "job",
+          "good",
+          "actors"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 27
     },
     "apollo": {
       "a.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "funny",
+          "thing",
+          "happened",
+          "way",
+          "moon",
+          "faked",
+          "mission",
+          "documentary"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "a_funny_thing_happened.jpg": {
         "_width": 1000,
@@ -1782,7 +2522,10 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "gus.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "gus"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "jack_parsons.jpg": {
         "_width": 618,
@@ -1827,7 +2570,10 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "questions.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "questions"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "staged.jpg": {
         "_width": 568,
@@ -1896,13 +2642,27 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "zmoon.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "zmoon",
+          "current",
+          "theories",
+          "moons",
+          "origin"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 25
     },
     "false_flag": {
       "a.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "encyclopedia",
+          "false",
+          "flag",
+          "staged",
+          "operations"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "boston2.jpg": {
         "_width": 736,
@@ -2021,19 +2781,53 @@
       "investigations": {
         "09-11-investigation.md": {
           "_title": "Investigation: September 11, 2001 \u2014 Good-Actor Historic Antibody Thesis",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "september",
+            "good-actor",
+            "historic",
+            "antibody",
+            "thesis"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "20th-21st-century-catalog.md": {
           "_title": "False Flags: 20th\u201321st Century Catalog",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "20th",
+            "21st",
+            "catalog",
+            "false",
+            "flags",
+            "th",
+            "st"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "iran-2026-propaganda-thesis.md": {
           "_title": "Investigation: Iran 2026 \u2014 Propaganda War Thesis",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "iran",
+            "2026",
+            "propaganda",
+            "thesis",
+            "war"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "netanyahu-faked-death-shiva-rumors-investigation.md": {
           "_title": "Investigation: Would Netanyahu Want a Faked Death Here? \u2014 Motive, Timeline, and Iran Narrative",
-          "_updated": "2026-04-03T14:28:57Z"
+          "_keywords": [
+            "netanyahu",
+            "faked",
+            "death",
+            "shiva",
+            "rumors",
+            "want",
+            "motive",
+            "iran",
+            "narrative"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "netanyahu-faked-death-shiva-rumors-investigation.png": {
           "_width": 1536,
@@ -2095,7 +2889,10 @@
     },
     "jfk": {
       "agent.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "agent"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "assassination.jpg": {
         "_width": 900,
@@ -2146,7 +2943,10 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "prophet.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "prophet"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "russia_quote.jpg": {
         "_width": 474,
@@ -2165,7 +2965,10 @@
     "philadelphia": {
       "page.md": {
         "_title": "The Philadelphia Experiment",
-        "_updated": "2026-03-30T14:02:57Z"
+        "_keywords": [
+          "article"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "philadelphia_experiment.png": {
         "_width": 1280,
@@ -2178,7 +2981,15 @@
     "trump": {
       "index-trump-investigation.md": {
         "_title": "Investigation: Trump, Historic Antibodies, and the Uncompromised Dynasty Thesis",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "trump",
+          "historic",
+          "antibodies",
+          "uncompromised",
+          "dynasty",
+          "thesis"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 1
     },
@@ -2196,13 +3007,33 @@
         "_updated": "2026-02-24T12:57:03Z"
       },
       "Predictive_Programming_Archon_Defender_2009.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "predictive-programming-archon-defender-2009"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "a.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "later",
+          "us",
+          "classifying",
+          "bombshell",
+          "plan",
+          "pull",
+          "peacekeepers",
+          "out",
+          "rwanda",
+          "genocide"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "achat.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "achat",
+          "genocide",
+          "chatroom"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "agenda.jpg": {
         "_width": 720,
@@ -2401,7 +3232,13 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "a.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "existence",
+            "cover-up",
+            "giant",
+            "humanoids"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "african_giants.jpg": {
           "_width": 509,
@@ -2440,7 +3277,16 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "faeries.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "faeries",
+            "existence",
+            "cover-up",
+            "small",
+            "humanoids",
+            "like",
+            "fairies"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "fairy_skeleton.jpg": {
           "_width": 650,
@@ -2557,7 +3403,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "giant_books.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "giant-books"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "giant_doors.jpg": {
           "_width": 600,
@@ -2689,7 +3538,12 @@
       },
       "holocaust": {
         "A.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "holocaust",
+            "really",
+            "holodomor"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "b84cb74ee4642ece.jpg": {
           "_width": 530,
@@ -2866,7 +3720,16 @@
       },
       "palestine": {
         "a.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "genocide",
+            "palestinian",
+            "people",
+            "international",
+            "law",
+            "rights",
+            "perspective"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "is.jpg": {
           "_width": 516,
@@ -3202,7 +4065,15 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "a.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "ensure",
+            "children",
+            "survive",
+            "thrive",
+            "boycott",
+            "vaccines"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "aids_pop_control.jpg": {
           "_width": 1080,
@@ -4546,7 +5417,13 @@
     "slavery": {
       "slave-trades-and-moor-etymology-investigation.md": {
         "_title": "Slave Trades of Earth History & Moor Etymology",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "slave",
+          "trades",
+          "moor",
+          "etymology"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "slave-trades-and-moor-etymology-investigation.png": {
         "_width": 1536,
@@ -4588,7 +5465,12 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "chat_usury.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "chat-usury",
+          "usury",
+          "chatroom"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "communism": {
         "brands.jpg": {
@@ -4660,13 +5542,28 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "d.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "jfk",
+          "executive",
+          "order",
+          "abolishing",
+          "federal",
+          "reserve"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "dead_at_sea.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "dead-at-sea"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "e.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "wars",
+          "banker"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "end-the-fed.jpg": {
         "_width": 727,
@@ -4841,7 +5738,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "f.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "citations"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "germany2.jpg": {
           "_width": 1500,
@@ -4944,79 +5844,258 @@
       "investigations": {
         "american-revolution-investigation.md": {
           "_title": "Investigation: American Revolution \u2014 A Tiny Piece in a Much Bigger Puzzle",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "american",
+            "revolution",
+            "tiny",
+            "piece",
+            "bigger",
+            "puzzle"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "british-civil-war-investigation.md": {
           "_title": "Investigation: British Civil War \u2014 Societized Consolidation and the Template for Western Governance",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "british",
+            "civil",
+            "war",
+            "societized",
+            "consolidation",
+            "template",
+            "western",
+            "governance"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "british-divide-conquer-israel-investigation.md": {
           "_title": "Investigation: British Empire Divide-and-Conquer \u2014 Israel, India/Pakistan, Africa, and the Deep State Hypothesis",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "british",
+            "divide",
+            "conquer",
+            "israel",
+            "empire",
+            "divide-and-conquer",
+            "india",
+            "pakistan",
+            "africa",
+            "deep",
+            "state",
+            "hypothesis"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "cia-investigation.md": {
           "_title": "Investigation: CIA \u2014 OSS Rebrand, Nazi Gold, Iran, 9/11, and the Antibody Thesis",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "cia",
+            "oss",
+            "rebrand",
+            "nazi",
+            "gold",
+            "iran",
+            "antibody",
+            "thesis"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "french-revolution-investigation.md": {
           "_title": "Investigation: French Revolution \u2014 Societized Consolidation and Political Reorganization",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "french",
+            "revolution",
+            "societized",
+            "consolidation",
+            "political",
+            "reorganization"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "jonestown-guyana-1978-cia-latin-america-pattern-investigation.md": {
           "_title": "Jonestown (18 November 1978): disputed narratives, CIA footprint, and Central American parallels",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "jonestown",
+            "guyana",
+            "1978",
+            "cia",
+            "latin",
+            "america",
+            "pattern",
+            "november",
+            "disputed",
+            "narratives",
+            "footprint",
+            "central",
+            "american",
+            "parallels"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "martyr-word-history-investigation.md": {
           "_title": "Investigation: The Word \"Martyr\" \u2014 Etymology, Mars/Murder, and the Real Nature of a Martyr",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "martyr",
+            "word",
+            "etymology",
+            "mars",
+            "murder",
+            "real",
+            "nature"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "napoleonic-advanced-artillery-airship-investigation.md": {
           "_title": "Investigation: Napoleonic Artillery, \u201cSound Cannons,\u201d and Lighter-Than-Air Technology",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "napoleonic",
+            "advanced",
+            "artillery",
+            "airship",
+            "sound",
+            "cannons",
+            "lighter-than-air",
+            "technology"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md": {
           "_title": "Investigation: Operation Paperclip, Nazi Continuity, and the WWII \u201cDefeat\u201d Narrative",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "operation",
+            "paperclip",
+            "nazi",
+            "continuity",
+            "wwii",
+            "narrative",
+            "defeat"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "page.md": {
           "_title": "War Investigations",
-          "_updated": "2026-03-30T14:02:57Z"
+          "_keywords": [
+            "war"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "pitcairn-bounty-mutiny-sovereignty-and-narratives.md": {
           "_title": "Pitcairn: Bounty mutiny narratives, sovereignty, and modern law",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "pitcairn",
+            "bounty",
+            "mutiny",
+            "sovereignty",
+            "narratives",
+            "modern",
+            "law"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "pitcairn-island-timeline.md": {
           "_title": "Pitcairn Island \u2014 timeline of events",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "pitcairn",
+            "island",
+            "events"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "reverse-crusades-comparison.md": {
           "_title": "The Four Reverse Crusades: A Structural Comparison",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "reverse",
+            "crusades",
+            "comparison",
+            "four",
+            "structural"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "soviet-collapse-investigation.md": {
           "_title": "Investigation: Soviet Collapse \u2014 Western Orchestration, Media, and Post-WWII Isolation",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "soviet",
+            "collapse",
+            "western",
+            "orchestration",
+            "media",
+            "post-wwii",
+            "isolation"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "titanic-sinking-investigation.md": {
           "_title": "Investigation: RMS Titanic (1912) \u2014 Timing, Alternative Narratives, and Aftermath",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "titanic",
+            "sinking",
+            "rms",
+            "timing",
+            "alternative",
+            "narratives",
+            "aftermath"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "us-civil-war-investigation.md": {
           "_title": "Investigation: US Civil War \u2014 British Funding, Slavery as Instrument, and the DU Weapon Thesis",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "us",
+            "civil",
+            "war",
+            "british",
+            "funding",
+            "slavery",
+            "instrument",
+            "du",
+            "weapon",
+            "thesis"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "vril-society.md": {
           "_title": "Vril Society: Claim, Debunk, and Redaction Potential",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "vril",
+            "society",
+            "claim",
+            "debunk",
+            "redaction",
+            "potential"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "wwii-fascism-religious-apparatus-investigation.md": {
           "_title": "Investigation: Why Japan, Italy, and Germany \u2014 Fascism as Religious-Apparatus Takeover",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "wwii",
+            "fascism",
+            "religious",
+            "apparatus",
+            "japan",
+            "italy",
+            "germany",
+            "religious-apparatus",
+            "takeover"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "yakuza-remote-control-investigation.md": {
           "_title": "Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "yakuza",
+            "remote",
+            "control",
+            "british",
+            "influence",
+            "media",
+            "capture",
+            "technology",
+            "containment",
+            "japan"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 19
       },
@@ -5028,7 +6107,22 @@
       },
       "page.md": {
         "_title": "Boeing Bombers won WW2 by cheating by using Child Pilots, Suppressed Zero-Point Energy (ZPE) Technology, and a whole lotta Napalm",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "world",
+          "war",
+          "ii",
+          "won",
+          "cheating",
+          "using",
+          "child",
+          "pilots",
+          "anti-gravity",
+          "aircraft",
+          "whole",
+          "lotta",
+          "napalm"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "propaganda1.jpg": {
         "_width": 752,
@@ -5245,7 +6339,11 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "theory.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "atlantis",
+            "mars"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 10
       },
@@ -5257,7 +6355,14 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "astrology.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "astrology",
+            "solar",
+            "mythology",
+            "jesus",
+            "story"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "bible_version.jpg": {
           "_width": 720,
@@ -5278,7 +6383,12 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "chat_christ.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "chat-christ",
+            "christ",
+            "chat"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "christ_is_the_sun.jpg": {
           "_width": 312,
@@ -5365,7 +6475,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "crucifixion_descent_tintoretto_1565.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "crucifixion-descent-tintoretto-1565"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "crucifixion_simone_martini_066.jpg": {
           "_width": 370,
@@ -5398,7 +6511,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "hans_bol_crucifixion_1587.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "hans-bol-crucifixion-1587"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "lastsupper.jpg": {
           "_width": 407,
@@ -5407,10 +6523,18 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "merton.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "merton",
+            "meddlesome",
+            "priest"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "son_of_man.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "son-of-man"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "stolen.jpg": {
           "_width": 609,
@@ -5431,7 +6555,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "twelve_tribes_zodiac.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "twelve-tribes-zodiac"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "twelve_tribes_zodiac2.jpg": {
           "_width": 331,
@@ -5449,11 +6576,29 @@
       },
       "creation-dates-validation.md": {
         "_title": "Investigation: Validation of Jno Cook's Creation Date Claims",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "creation",
+          "dates",
+          "validation",
+          "jno",
+          "cook",
+          "date",
+          "claims"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "deep-state-terminology.md": {
         "_title": "Deep State / Pyramidal Empire / Fallen Atlantean Empire \u2014 terminology",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "deep",
+          "state",
+          "terminology",
+          "pyramidal",
+          "empire",
+          "fallen",
+          "atlantean"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "egyptian_plumbing.jpg": {
         "_width": 600,
@@ -5530,7 +6675,10 @@
       "history-qa": {
         "page.md": {
           "_title": "Earth History Timeline based on Saturnian Cosmology",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "article"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 1
       },
@@ -5549,15 +6697,37 @@
       "investigations": {
         "GOLDEN_AGE_ADDITIONS_REPORT.md": {
           "_title": "Golden Age Additions Report",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "golden-age-additions-report",
+            "golden",
+            "additions",
+            "report"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "creation-event-interpretations.md": {
           "_title": "Creation Event Interpretations Across Religions",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "creation",
+            "event",
+            "interpretations",
+            "across",
+            "religions"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "etana-sumerian-king-list-saturnian-investigation.md": {
           "_title": "Investigation: Etana, the Sumerian King List, and \"Wheels in the Sky\" Testimony (Open)",
-          "_updated": "2026-04-04T14:44:57Z"
+          "_keywords": [
+            "etana",
+            "sumerian",
+            "king",
+            "list",
+            "saturnian",
+            "wheels",
+            "sky"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "etana-sumerian-king-list-saturnian-investigation.png": {
           "_width": 1536,
@@ -5567,7 +6737,16 @@
         },
         "giants-infantry-guerrilla-etymology-investigation.md": {
           "_title": "Giants, Infantry, Guerrilla, and the Children's Crusade \u2014 Lexical Investigation",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "giants",
+            "infantry",
+            "guerrilla",
+            "etymology",
+            "children",
+            "crusade",
+            "lexical"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "giants-infantry-guerrilla-etymology-investigation.png": {
           "_width": 1536,
@@ -5577,57 +6756,174 @@
         },
         "gnostic-vs-agnostic-theism-atheism-after-planet-gods.md": {
           "_title": "Investigation: Gnosis vs Agnosticism \u2014 Theism, Atheism, and Post\u2013Planet-God Religion",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "gnostic",
+            "vs",
+            "agnostic",
+            "theism",
+            "atheism",
+            "planet",
+            "gods",
+            "gnosis",
+            "agnosticism",
+            "post",
+            "planet-god",
+            "religion"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "golden-age-event-dates.md": {
           "_title": "Investigation: Golden Age Event Dates (Jno Cook / Talbott)",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "golden",
+            "event",
+            "dates",
+            "jno",
+            "cook",
+            "talbott"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "illig-fomenko-boundary.md": {
           "_title": "Illig vs Fomenko Phantom Time Boundary \u2014 Investigation",
-          "_updated": "2026-03-10T13:08:00Z"
+          "_keywords": [
+            "illig",
+            "fomenko",
+            "boundary",
+            "vs",
+            "phantom",
+            "time"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "index-chronologia.md": {
           "_title": "chronologia.org \u2014 Site Index",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "chronologia",
+            "org",
+            "site"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "index-investigations.md": {
           "_title": "Chronology Investigations \u2014 Index",
-          "_updated": "2026-04-04T15:14:09Z"
+          "_keywords": [
+            "article"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "index-offenbarung.md": {
           "_title": "Die Offenbarung Johannis \u2014 English Index",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "offenbarung",
+            "die",
+            "johannis",
+            "english"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "indigenous-creation-dates.md": {
           "_title": "Indigenous Creation Chronologies \u2014 Investigation",
-          "_updated": "2026-03-11T18:20:08Z"
+          "_keywords": [
+            "indigenous",
+            "creation",
+            "dates",
+            "chronologies"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "jew-word-terminology-judas-judicial.md": {
           "_title": "Investigation: The Word *Jew* \u2014 Crucifixion Moment, Latin \u2192 Greek, Judas & the Latin Church",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "jew",
+            "word",
+            "terminology",
+            "judas",
+            "judicial",
+            "crucifixion",
+            "moment",
+            "latin",
+            "greek",
+            "church"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "myth-creatures-textual-record-human-extirpation-investigation.md": {
           "_title": "Investigation (concluded): Griffins and other \u201cmyth\u201d fauna in sober historical texts \u2014 extinction by human pressure?",
-          "_updated": "2026-04-01T19:42:26Z"
+          "_keywords": [
+            "griffin",
+            "griffins",
+            "priscus",
+            "huns",
+            "jordanes",
+            "extinction",
+            "extirpation",
+            "cryptozoology",
+            "megafauna",
+            "ethnography",
+            "dragons",
+            "dragon-fire",
+            "comet-venus",
+            "1492-bce",
+            "passover",
+            "exodus",
+            "chinese-dragon",
+            "long",
+            "fafnir",
+            "drakon",
+            "beowulf-dragon",
+            "sea-serpents",
+            "chimera",
+            "natural-history",
+            "fossils",
+            "anthropogenic"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "myth-creatures-textual-record-human-extirpation-investigation.png": {
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JagCdAEecv+HH2AA/SkkGMTxDhkbRg1J3+K2V/RG7Bb0OPXlNTdF61JvgSY7Hh6IAAAA",
-          "_updated": "2026-04-05T12:15:59Z"
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "new-world-naming-mfee-and-colonization-memory.md": {
           "_title": "Investigation (speculative): \u201cNew World,\u201d \u201cnew lands,\u201d and post\u2013mud-flood memory",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "new",
+            "world",
+            "naming",
+            "mfee",
+            "colonization",
+            "memory",
+            "lands",
+            "post",
+            "mud-flood"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "page.md": {
           "_title": "Chronology Investigations \u2014 Index",
-          "_updated": "2026-03-16T15:13:44Z"
+          "_keywords": [
+            "article"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "prester-john-presbyter-rus-horde-nc-investigation.md": {
           "_title": "Prester John, *Presbyter Ioannes*, and the Rus\u2013Horde Christian East \u2014 NC and author thesis",
-          "_updated": "2026-04-03T12:21:50Z"
+          "_keywords": [
+            "prester",
+            "john",
+            "presbyter",
+            "rus",
+            "horde",
+            "nc",
+            "ioannes",
+            "christian",
+            "east",
+            "author",
+            "thesis"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "prester-john-presbyter-rus-horde-nc-investigation.png": {
           "_width": 1536,
@@ -5637,7 +6933,16 @@
         },
         "radiocarbon-dating-investigation.md": {
           "_title": "Investigation: Radiocarbon Dating \u2014 Dogmatic Adoption and the Electrical Activity Problem",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "radiocarbon",
+            "dating",
+            "dogmatic",
+            "adoption",
+            "electrical",
+            "activity",
+            "problem"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "radiocarbon-dating-investigation.png": {
           "_width": 1536,
@@ -5647,34 +6952,103 @@
         },
         "rus-horde-english-political-lexicon-speculation.md": {
           "_title": "Rus-Horde echoes in English political and military vocabulary (open investigation)",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "rus",
+            "horde",
+            "english",
+            "political",
+            "lexicon",
+            "rus-horde",
+            "echoes",
+            "military",
+            "vocabulary"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "slow-ecological-collapse-mfee-through-donner-era.md": {
           "_title": "Investigation (speculative): Slow ecological collapse \u2014 MFEE through the Donner era",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "slow",
+            "ecological",
+            "collapse",
+            "mfee",
+            "donner"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "soul-science-investigation.md": {
           "_title": "Investigation: History of Soul Science \u2014 From First References to the Mind as Replacement",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "soul",
+            "science",
+            "first",
+            "references",
+            "mind",
+            "replacement"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "text.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "text"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "text_formatted.md": {
           "_title": "Die Offenbarung Johannis \u2014 Eine astronomisch-historische Untersuchung",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "text-formatted",
+            "die",
+            "offenbarung",
+            "johannis",
+            "eine",
+            "astronomisch-historische",
+            "untersuchung"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "two-branches-christianity-fomenko-vs-author.md": {
           "_title": "Two Branches of Christianity: Fomenko vs. Paradigm Threat",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "two",
+            "branches",
+            "christianity",
+            "fomenko",
+            "vs",
+            "author",
+            "paradigm",
+            "threat"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "wells-crystal-egg-1666-beast-speculation.md": {
           "_title": "Investigation (speculative): Crystal Eggs, Mass Influence, and 1666 \u2014 *The Crystal Egg* as Cover Story?",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "wells",
+            "crystal",
+            "egg",
+            "1666",
+            "beast",
+            "eggs",
+            "mass",
+            "influence",
+            "cover",
+            "story"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "wuxing-five-planets-dark-ages.md": {
           "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "wuxing",
+            "five",
+            "planets",
+            "dark",
+            "ages",
+            "observational",
+            "record"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 30
       },
@@ -5698,7 +7072,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "kremlin_2nd_jerusalem_boris_godunov.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "kremlin-2nd-jerusalem-boris-godunov"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "troy_1st_jerusalem.jpg": {
           "_width": 560,
@@ -5707,7 +7084,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "troy_1st_jerusalem.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "troy-1st-jerusalem"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "troy_1st_jerusalem_fall.jpg": {
           "_width": 640,
@@ -5722,7 +7102,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "troy_protected_from_mars_by_antonio_raffaele_calliano_1815.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "troy-protected-from-mars-by-antonio-raffaele-calliano-1815"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 8
       },
@@ -5740,7 +7123,10 @@
       },
       "page.md": {
         "_title": "Earth History Timeline based on Saturnian Cosmology",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "reconstruction"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "phantom_time_hypothesis.jpg": {
         "_width": 959,
@@ -5828,7 +7214,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "pyramiden_splitsbergen_1928.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "pyramiden-splitsbergen-1928"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "pyramids_around_the_world.jpg": {
           "_width": 1662,
@@ -5951,7 +7340,12 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "a.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "jno",
+            "cook",
+            "short"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "binding_of_isaac.jpg": {
           "_width": 1200,
@@ -5996,10 +7390,19 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "cathoderal.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "cathoderal"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "chat_saturnian_cosmology.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "chat-saturnian-cosmology",
+            "saturnian",
+            "cosmology",
+            "chat"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "chinese_dragon.jpg": {
           "_width": 1390,
@@ -6056,7 +7459,12 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "events.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "events",
+            "ancients",
+            "like"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "exodus.jpg": {
           "_width": 810,
@@ -6179,7 +7587,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "prometheus.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "prometheus"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "quos_ego_neptune_calming_the_flots.jpg": {
           "_width": 1200,
@@ -6338,7 +7749,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "vletter.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "vletter"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 74
       },
@@ -6350,11 +7764,24 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "_time_warp.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "time-warp",
+            "let",
+            "do",
+            "time",
+            "warp"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "chronology.md": {
           "_title": "Reasons the Roman Empire never existed",
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "reasons",
+            "roman",
+            "empire",
+            "existed"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "civil_war_conspiracy.jpg": {
           "_width": 1080,
@@ -6369,10 +7796,17 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "eight_pointed_star_and_crescent.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "eight-pointed-star-and-crescent"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "frankenstein.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "frankenstein",
+            "unmasked"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "galileo_facing_the_inquisition.jpg": {
           "_width": 1176,
@@ -6381,7 +7815,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "galileo_facing_the_inquisition.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "galileo-facing-the-inquisition"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "gog_magog.jpg": {
           "_width": 518,
@@ -6402,7 +7839,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "israel_fake_history.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "israel-fake-history"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "israel_fake_history2.jpg": {
           "_width": 480,
@@ -6429,7 +7869,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "map_1754_tartaria.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "map-1754-tartaria"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "map_khazar_khagnate.jpg": {
           "_width": 902,
@@ -6450,7 +7893,10 @@
           "_updated": "2026-01-16T01:04:59Z"
         },
         "painting_joan_of_arc_stake.md": {
-          "_updated": "2026-01-16T01:04:59Z"
+          "_keywords": [
+            "painting-joan-of-arc-stake"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "painting_ottoman_invades_vienna_1683.jpg": {
           "_width": 1280,
@@ -6554,42 +8000,97 @@
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
-      "_updated": "2026-03-30T13:04:38Z"
+      "_keywords": [
+        "common",
+        "questions",
+        "alternate"
+      ],
+      "_updated": "2026-04-05T12:17:42Z"
     },
     "joan_of_arc": {
       "naming-history.md": {
         "_title": "Joan of Arc Naming History \u2014 Investigation",
-        "_updated": "2026-03-10T13:08:00Z"
+        "_keywords": [
+          "naming",
+          "joan",
+          "arc"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 1
     },
     "kinkel": {
       "dickens.md": {
-        "_updated": "2026-03-10T13:08:00Z"
+        "_keywords": [
+          "dickens"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "gottfried-kinkel.md": {
         "_title": "Gottfried Kinkel (1815\u20131882)",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "gottfried",
+          "kinkel"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "index-de-jonge-gottfried-kinkel.md": {
         "_title": "Gottfried Kinkel as Political and Social Thinker \u2014 Index",
-        "_updated": "2026-03-10T13:08:00Z"
+        "_keywords": [
+          "de",
+          "jonge",
+          "gottfried",
+          "kinkel",
+          "political",
+          "social",
+          "thinker"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "index-ivan-kinkel-sources.md": {
         "_title": "Ivan Kinkel \u2014 Sources Index",
-        "_updated": "2026-03-10T13:08:00Z"
+        "_keywords": [
+          "ivan",
+          "kinkel",
+          "sources"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "index-psychologische-grundlagen-1922.md": {
         "_title": "Zur Frage der psychologischen Grundlagen und des Ursprungs der Religion \u2014 Index",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "psychologische",
+          "grundlagen",
+          "1922",
+          "zur",
+          "frage",
+          "der",
+          "psychologischen",
+          "und",
+          "des",
+          "ursprungs",
+          "religion"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "johanna-kinkel.md": {
         "_title": "Johanna Kinkel (1810\u20131858)",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "johanna",
+          "kinkel"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "nenovsky_Kinkel_EJHET_2015.md": {
         "_title": "Ivan Kinkel's (1883\u20131945) Theory of Economic Development",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "nenovsky-kinkel-ejhet-2015",
+          "ivan",
+          "kinkel",
+          "economic",
+          "development"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 7
     },
@@ -6619,7 +8120,12 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "chat_maps.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "chat-maps",
+          "maps",
+          "chatroom"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "europe-map.jpg": {
         "_width": 1500,
@@ -6820,7 +8326,10 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "map_tartaria_hondius.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "map-tartaria-hondius"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "map_tartaria_hondius_cataio.jpg": {
         "_width": 1581,
@@ -7527,11 +9036,35 @@
       "investigations": {
         "blood-rain-dust-ecological-disasters-investigation.md": {
           "_title": "Investigation: Blood rain, Passat dust, Dust Bowl, and large-scale ecological / atmospheric shocks (post\u2013mud-flood oddities)",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "blood",
+            "rain",
+            "dust",
+            "ecological",
+            "disasters",
+            "passat",
+            "bowl",
+            "large-scale",
+            "atmospheric",
+            "shocks",
+            "post",
+            "mud-flood",
+            "oddities"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "cargo-cults-investigation.md": {
           "_title": "Investigation: Cargo Cults \u2014 Official History, Human Behavior, and 18th\u201319th Century / Manna Redaction",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "cargo",
+            "cults",
+            "official",
+            "behavior",
+            "th",
+            "manna",
+            "redaction"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "cargo-cults-investigation.png": {
           "_width": 1536,
@@ -7541,11 +9074,28 @@
         },
         "mfee-investigation.md": {
           "_title": "MFEE Investigation \u2014 Evidence and Map Changes Over Time",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "mfee",
+            "evidence",
+            "map",
+            "changes",
+            "over",
+            "time"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "promised-land-investigation.md": {
           "_title": "Investigation: Deliverance to a Promised Land \u2014 1492 BCE/CE, Europe, America, and the Final Promised Lands",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "promised",
+            "land",
+            "deliverance",
+            "europe",
+            "america",
+            "final",
+            "lands"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "promised-land-investigation.png": {
           "_width": 1536,
@@ -7555,7 +9105,14 @@
         },
         "tartarian-maps-investigation.md": {
           "_title": "Tartarian Maps Investigation \u2014 Forbidden Maps, Disclosure, and Downloads",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "tartarian",
+            "maps",
+            "forbidden",
+            "disclosure",
+            "downloads"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 7
       },
@@ -8078,7 +9635,10 @@
       "notes": {
         "page.md": {
           "_title": "Notes:MudFlood Energetic Event Hypothesis",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "mudflood"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 1
       },
@@ -8159,7 +9719,10 @@
       },
       "page.md": {
         "_title": "The MudFlood Energetic Event Hypothesis",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "mudflood"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "petrified_ladder.jpg": {
         "_width": 640,
@@ -8280,24 +9843,49 @@
     "orphan_trains": {
       "orphan-trains-investigation.md": {
         "_title": "Orphan Trains, Mass Displacement, and the MFEE Thesis",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "orphan",
+          "trains",
+          "mass",
+          "displacement",
+          "mfee",
+          "thesis"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 1
     },
     "other_refs": {
       "index-other-references.md": {
         "_title": "Other Reference Texts \u2014 Index",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "references",
+          "reference",
+          "texts"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 1
     },
     "requerimiento-dating.md": {
       "_title": "Requerimiento 1513 Dating \u2014 Investigation",
-      "_updated": "2026-03-10T13:08:00Z"
+      "_keywords": [
+        "requerimiento",
+        "dating"
+      ],
+      "_updated": "2026-04-05T12:17:42Z"
     },
     "thunderbolts-forum-archives.md": {
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive",
-      "_updated": "2026-03-28T12:27:19Z"
+      "_keywords": [
+        "thunderbolts",
+        "forum",
+        "archives",
+        "deletions",
+        "evidence",
+        "archive"
+      ],
+      "_updated": "2026-04-05T12:17:42Z"
     },
     "_count": 552
   },
@@ -8321,6 +9909,12 @@
         "_lqip": "data:image/webp;base64,UklGRioAAABXRUJQVlA4IB4AAAAwAQCdASoQAAcABUB8JaQAA3AA/u3idv4JwQygAAA=",
         "_updated": "2026-02-24T12:57:03Z"
       },
+      "ai_censorship2.png": {
+        "_width": 949,
+        "_height": 575,
+        "_lqip": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAADwAQCdASoQAAoABUB8JZQC7AEPh9TH/IAA/uWJ8EfQPZwCAAA=",
+        "_updated": "2026-04-05T12:46:40Z"
+      },
       "apple_podcast.jpg": {
         "_width": 1080,
         "_height": 1289,
@@ -8342,7 +9936,14 @@
         },
         "page.md": {
           "_title": "Discord Server Suspended",
-          "_updated": "2026-03-30T14:02:57Z"
+          "_keywords": [
+            "new",
+            "rocket",
+            "chat",
+            "server",
+            "running"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 2
       },
@@ -8353,7 +9954,13 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "f.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "facebook",
+          "twitter",
+          "censor",
+          "speech"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "facebook_censorship.jpg": {
         "_width": 599,
@@ -8399,7 +10006,13 @@
       },
       "github-ban.md": {
         "_title": "GitHub: arbitrary restriction without notice",
-        "_updated": "2026-04-04T11:52:30Z"
+        "_keywords": [
+          "github",
+          "ban",
+          "happened",
+          "account"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "github-ban.png": {
         "_width": 1536,
@@ -8563,7 +10176,7 @@
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoPABAABUB8JaQAAudFrAAA/uf+VxJYgBDkgzNzH3PWm1gZpQx4AAAA",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 44
+      "_count": 45
     },
     "conspiracy": {
       "13_families.jpg": {
@@ -8591,7 +10204,11 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "A.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "fake",
+          "list"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "DoCvsDoE.jpg": {
         "_width": 1423,
@@ -8618,7 +10235,13 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "achat.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "achat",
+          "suppressed",
+          "tech",
+          "chat"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "activist.jpg": {
         "_width": 614,
@@ -8671,15 +10294,36 @@
       "celebrities": {
         "INDEX-identity-investigations.md": {
           "_title": "Identity Investigations \u2014 Index and Methodology",
-          "_updated": "2026-03-12T13:07:05Z"
+          "_keywords": [
+            "identity",
+            "methodology"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "brandy-vaughan.md": {
           "_title": "Brandy Vaughan: Investigation into Death of Merck Whistleblower and Anti-Vax Activist",
-          "_updated": "2026-03-12T13:07:05Z"
+          "_keywords": [
+            "brandy",
+            "vaughan",
+            "death",
+            "merck",
+            "whistleblower",
+            "anti-vax",
+            "activist"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "brett-gelman.md": {
           "_title": "Brett Gelman: Investigation into Conspiracy-Theorist Persona and Hollywood Encoding",
-          "_updated": "2026-03-12T13:07:05Z"
+          "_keywords": [
+            "brett",
+            "gelman",
+            "conspiracy-theorist",
+            "persona",
+            "hollywood",
+            "encoding"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "bruce-lee-wing-chun.png": {
           "_width": 1376,
@@ -8689,19 +10333,59 @@
         },
         "bruce-lee.md": {
           "_title": "Bruce Lee: Investigation into Death, Identity, Wing Chun, and British Suppression of Female Martial Arts",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "bruce",
+            "lee",
+            "death",
+            "identity",
+            "wing",
+            "chun",
+            "british",
+            "suppression",
+            "female",
+            "martial",
+            "arts"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "gal-gadot.md": {
           "_title": "Gal Gadot: Investigation into IDF Service, Hollywood Ascent, and Israeli Narrative",
-          "_updated": "2026-03-12T13:07:05Z"
+          "_keywords": [
+            "gal",
+            "gadot",
+            "idf",
+            "service",
+            "hollywood",
+            "ascent",
+            "israeli",
+            "narrative"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "gandhi.md": {
           "_title": "Gandhi: Investigation into British Loyalty, Racial Attitudes, and Assassination",
-          "_updated": "2026-03-12T13:07:05Z"
+          "_keywords": [
+            "gandhi",
+            "british",
+            "loyalty",
+            "racial",
+            "attitudes",
+            "assassination"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "golda.md": {
           "_title": "Golda Meir: Investigation into Identity, British Orchestration, and Israel's Creation",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "golda",
+            "meir",
+            "identity",
+            "british",
+            "orchestration",
+            "israel",
+            "creation"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "golda.png": {
           "_width": 1376,
@@ -8711,27 +10395,73 @@
         },
         "jackie-chan.md": {
           "_title": "Jackie Chan: Investigation into Political Allegiance and British Hong Kong",
-          "_updated": "2026-03-12T13:07:05Z"
+          "_keywords": [
+            "jackie",
+            "chan",
+            "political",
+            "allegiance",
+            "british",
+            "hong",
+            "kong"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "prince.md": {
           "_title": "Prince: Investigation into Androgyny, Death, and Identity",
-          "_updated": "2026-03-12T13:07:05Z"
+          "_keywords": [
+            "prince",
+            "androgyny",
+            "death",
+            "identity"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "richard-askwith.md": {
           "_title": "Richard Askwith: Investigation into British Establishment and Narrative Influence",
-          "_updated": "2026-03-12T13:07:05Z"
+          "_keywords": [
+            "richard",
+            "askwith",
+            "british",
+            "establishment",
+            "narrative",
+            "influence"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "ruth-gordon.md": {
           "_title": "Ruth Gordon: Investigation into Hollywood Identity and Late-Career Ascent",
-          "_updated": "2026-03-12T13:07:05Z"
+          "_keywords": [
+            "ruth",
+            "gordon",
+            "hollywood",
+            "identity",
+            "late-career",
+            "ascent"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "sheila-florance.md": {
           "_title": "Sheila Florance: Investigation into Australian Identity and Prisoner",
-          "_updated": "2026-03-12T13:07:05Z"
+          "_keywords": [
+            "sheila",
+            "florance",
+            "australian",
+            "identity",
+            "prisoner"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "shelley-winters.md": {
           "_title": "Shelley Winters: Investigation into Hollywood Identity and Name Change",
-          "_updated": "2026-03-12T13:07:05Z"
+          "_keywords": [
+            "shelley",
+            "winters",
+            "hollywood",
+            "identity",
+            "name",
+            "change"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 15
       },
@@ -8881,19 +10611,48 @@
       },
       "essays": {
         "Something_in_books.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "something-in-books",
+            "be",
+            "something",
+            "books"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "drugs.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "drugs",
+            "comfort",
+            "blanket",
+            "conspiracy"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "magic_history.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "magic-history",
+            "magic",
+            "silly",
+            "people"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "riding_the_bus.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "riding-the-bus",
+            "riding",
+            "bus",
+            "bigfoot"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "wake_up_neo.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "wake-up-neo",
+            "wake",
+            "neo"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 5
       },
@@ -8960,7 +10719,16 @@
       "investigations": {
         "toynbee-tiles-resurrect-dead-documentary-investigation.md": {
           "_title": "Investigation: Toynbee Tiles \u2014 *Resurrect Dead* (2011) and the street campaign",
-          "_updated": "2026-04-04T11:43:35Z"
+          "_keywords": [
+            "toynbee",
+            "tiles",
+            "resurrect",
+            "dead",
+            "documentary",
+            "street",
+            "campaign"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "toynbee-tiles-resurrect-dead-documentary-investigation.png": {
           "_width": 1536,
@@ -9062,7 +10830,11 @@
       },
       "page.md": {
         "_title": "Suppressed & Fake",
-        "_updated": "2026-04-04T11:29:51Z"
+        "_keywords": [
+          "suppressed",
+          "fake"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "planned_plane_crash.jpg": {
         "_width": 640,
@@ -9095,7 +10867,10 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "religion.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "religion"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "research_list.png": {
         "_width": 1200,
@@ -9291,16 +11066,37 @@
       },
       "topics": {
         "bitcoin.md": {
-          "_updated": "2026-03-12T13:07:05Z"
+          "_keywords": [
+            "bitcoin"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "circumcision_cult.md": {
-          "_updated": "2026-03-12T13:07:05Z"
+          "_keywords": [
+            "circumcision-cult",
+            "reality",
+            "no",
+            "person",
+            "like",
+            "abraham"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "criticism.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "criticism",
+            "plan",
+            "countering"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "zoot.md": {
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "zoot",
+            "suit",
+            "riot"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 4
       },
@@ -9332,10 +11128,18 @@
     },
     "controlled_opposition": {
       "00.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "qanon",
+          "controlled",
+          "opposition"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "alice.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "alice"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "assange.png": {
         "_width": 970,
@@ -9368,7 +11172,13 @@
         "_updated": "2026-03-12T12:46:11Z"
       },
       "chat_controlled_opposition.md": {
-        "_updated": "2026-03-12T12:46:11Z"
+        "_keywords": [
+          "chat-controlled-opposition",
+          "suppressed",
+          "tech",
+          "chat"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "co_definition.jpg": {
         "_width": 768,
@@ -9396,7 +11206,11 @@
       },
       "page.md": {
         "_title": "Controlled Opposition",
-        "_updated": "2026-03-30T14:02:57Z"
+        "_keywords": [
+          "controlled",
+          "opposition"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "qanon.jpg": {
         "_width": 707,
@@ -9435,7 +11249,10 @@
         "_updated": "2026-03-12T12:46:11Z"
       },
       "z.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "article"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 20
     },
@@ -9453,7 +11270,19 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "harry_potter_carnivals_of_life_and_death.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "harry-potter-carnivals-of-life-and-death",
+          "harry",
+          "potter",
+          "carnivals",
+          "life",
+          "death",
+          "tribute",
+          "james",
+          "shelby",
+          "downard"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "sex_cult.jpg": {
         "_width": 1280,
@@ -9490,7 +11319,18 @@
     "perspective": {
       "russian-perspective.md": {
         "_title": "Chronologia forum \u2014 resistance to Third Story\u2013style outreach",
-        "_updated": "2026-04-02T15:51:01Z"
+        "_keywords": [
+          "russian",
+          "perspective",
+          "chronologia",
+          "forum",
+          "resistance",
+          "third",
+          "story",
+          "style",
+          "outreach"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 1
     },
@@ -9511,87 +11351,187 @@
         "arnold": {
           "arnold-books-bibliography.md": {
             "_title": "Edwin Lester Arnold \u2014 Bibliography",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "arnold",
+              "books",
+              "bibliography",
+              "edwin",
+              "lester"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 1
         },
         "asimov": {
           "01-biography-and-context.md": {
             "_title": "Isaac Asimov: Biography and Context",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "biography",
+              "context",
+              "isaac",
+              "asimov"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "02-bibliography-and-major-works.md": {
             "_title": "Isaac Asimov: Bibliography and Major Works",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "bibliography",
+              "major",
+              "works",
+              "isaac",
+              "asimov"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "03-themes-for-timeline-study.md": {
             "_title": "Isaac Asimov: Themes for Timeline Study",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "themes",
+              "study",
+              "isaac",
+              "asimov"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "04-investigation-threads.md": {
             "_title": "Asimov: Investigation Threads",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "threads",
+              "asimov"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "README.md": {
             "_title": "Asimov Full Texts \u2014 Index",
-            "_updated": "2026-03-10T13:08:00Z"
+            "_keywords": [
+              "readme",
+              "asimov",
+              "full",
+              "texts"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "everest-index.md": {
             "_title": "Everest \u2014 Clue Index for Timeline Investigation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "everest",
+              "clue"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "foundation-index.md": {
             "_title": "Foundation \u2014 Clue Index for Timeline Investigation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "foundation",
+              "clue"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "i-robot-index.md": {
             "_title": "I, Robot \u2014 Clue Index for Timeline Investigation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "robot",
+              "clue"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "lets-get-together-index.md": {
             "_title": "Let's Get Together \u2014 Clue Index for Timeline Investigation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "lets",
+              "get",
+              "together",
+              "let",
+              "clue"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "magnificent-possession-index.md": {
             "_title": "The Magnificent Possession \u2014 Clue Index for Timeline Investigation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "magnificent",
+              "possession",
+              "clue"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "page.md": {
             "_title": "Isaac Asimov \u2014 Investigation",
-            "_updated": "2026-03-30T14:02:57Z"
+            "_keywords": [
+              "isaac",
+              "asimov"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "youth-index.md": {
             "_title": "Youth \u2014 Clue Index for Timeline Investigation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "youth",
+              "clue"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 12
         },
         "blackwood": {
           "index-blackwood.md": {
             "_title": "Algernon Blackwood \u2014 Downloaded Texts Index",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "blackwood",
+              "algernon",
+              "downloaded",
+              "texts"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 1
         },
         "card": {
           "index-card.md": {
             "_title": "Orson Scott Card \u2014 Enderverse Investigation Index",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "card",
+              "orson",
+              "scott",
+              "enderverse"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 1
         },
         "compromised-court-cases-declared-reality-investigation.md": {
           "_title": "Compromised Court Cases and Declared Reality \u2014 Investigation",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "compromised",
+            "court",
+            "cases",
+            "declared",
+            "reality"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "cslewis": {
           "index-cslewis.md": {
             "_title": "C. S. Lewis Collection \u2014 Index",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "cslewis",
+              "lewis",
+              "collection"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "investigation-narnia-planetary-encoding.md": {
             "_title": "Investigation: C. S. Lewis and Saturnian / Planetary Cosmology Encoding",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "narnia",
+              "planetary",
+              "encoding",
+              "lewis",
+              "saturnian",
+              "cosmology"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 2
         },
@@ -9604,107 +11544,237 @@
           },
           "index-ed-wood-plan9-investigation.md": {
             "_title": "Ed Wood and Plan 9 from Outer Space \u2014 Investigation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "ed",
+              "wood",
+              "plan9",
+              "plan",
+              "outer",
+              "space"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 2
         },
         "fiction-presented-as-fact-investigation.md": {
           "_title": "Science Fiction & Fantasy: Fiction Presented as Fact",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "fiction",
+            "presented",
+            "fact",
+            "science",
+            "fantasy"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "grrm": {
           "index-george-rr-martin-world-of-ice-and-fire-investigation.md": {
             "_title": "Investigation (speculative): George R. R. Martin, *The World of Ice & Fire*, and the \u201cfictional historian\u201d pattern",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "george",
+              "rr",
+              "martin",
+              "world",
+              "ice",
+              "fire",
+              "fictional",
+              "historian",
+              "pattern"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index.md": {
             "_title": "George R. R. Martin \u2014 investigation index",
-            "_updated": "2026-03-24T13:02:41Z"
+            "_keywords": [
+              "george",
+              "martin"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 2
         },
         "jules-verne": {
           "index-jules-verne.md": {
             "_title": "Jules Verne Collection \u2014 Index",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "jules",
+              "verne",
+              "collection"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 1
         },
         "lovecraft": {
           "index-lovecraft.md": {
             "_title": "H.P. Lovecraft \u2014 Complete Fiction Index",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "lovecraft",
+              "complete",
+              "fiction"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 1
         },
         "machen": {
           "index-machen.md": {
             "_title": "Arthur Machen \u2014 Downloaded Texts Index",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "machen",
+              "arthur",
+              "downloaded",
+              "texts"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 1
         },
         "princess-bride": {
           "index-princess-bride-andronicus-fezzik-investigation.md": {
             "_title": "Investigation (speculative): Fomenko\u2019s Andronicus-Christ, *The Princess Bride*, and \u201cColossus\u201d dialogue",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "princess",
+              "bride",
+              "andronicus",
+              "fezzik",
+              "fomenko",
+              "andronicus-christ",
+              "colossus",
+              "dialogue"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index.md": {
             "_title": "*The Princess Bride* \u2014 investigation index",
-            "_updated": "2026-03-24T13:38:05Z"
+            "_keywords": [
+              "princess",
+              "bride"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 2
         },
         "shelley": {
           "shelley-frankenstein-true-story-investigation.md": {
             "_title": "Mary Shelley \u2014 Frankenstein as Potential True Story: Investigation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "shelley",
+              "frankenstein",
+              "true",
+              "story",
+              "mary",
+              "potential"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 1
         },
         "stoker": {
           "index-bram-stoker-investigation.md": {
             "_title": "Bram Stoker \u2014 Investigation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "bram",
+              "stoker"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-dracula.md": {
             "_title": "Dracula \u2014 Index",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "dracula"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 2
         },
         "swift": {
           "index-battle-of-the-books.md": {
             "_title": "*The Battle of the Books* \u2014 Index stub",
-            "_updated": "2026-03-30T12:39:33Z"
+            "_keywords": [
+              "battle",
+              "books",
+              "stub"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-gullivers-travels.md": {
             "_title": "*Gulliver\u2019s Travels* \u2014 Index & summary",
-            "_updated": "2026-03-30T12:39:33Z"
+            "_keywords": [
+              "gullivers",
+              "travels",
+              "gulliver",
+              "summary"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-swift-corpus-and-editions.md": {
             "_title": "Swift \u2014 Corpus & edition map",
-            "_updated": "2026-03-30T12:39:33Z"
+            "_keywords": [
+              "swift",
+              "corpus",
+              "editions",
+              "edition",
+              "map"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-swift-select-works-vol1-1823.md": {
             "_title": "*Select Works* (Swift) \u2014 Volume I only, 1823",
-            "_updated": "2026-03-30T12:39:33Z"
+            "_keywords": [
+              "swift",
+              "select",
+              "works",
+              "vol1",
+              "1823",
+              "volume"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-tale-of-a-tub.md": {
             "_title": "*A Tale of a Tub* \u2014 Index stub",
-            "_updated": "2026-03-30T12:39:33Z"
+            "_keywords": [
+              "tale",
+              "tub",
+              "stub"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "page.md": {
             "_title": "Jonathan Swift \u2014 Investigation",
-            "_updated": "2026-03-30T14:02:57Z"
+            "_keywords": [
+              "jonathan",
+              "swift"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "swift-investigation-debate-rails-and-drift.md": {
             "_title": "Swift investigation \u2014 debate rails, drift, and sentiment (record)",
-            "_updated": "2026-03-30T12:39:33Z"
+            "_keywords": [
+              "swift",
+              "debate",
+              "rails",
+              "drift",
+              "sentiment",
+              "record"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "swift-mars-giants-publication-stance.md": {
             "_title": "Swift \u2014 Mars, scale beings, and how *Gulliver* was sold to readers",
-            "_updated": "2026-03-30T12:39:33Z"
+            "_keywords": [
+              "swift",
+              "mars",
+              "giants",
+              "publication",
+              "stance",
+              "scale",
+              "beings",
+              "gulliver",
+              "sold",
+              "readers"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "swift-mars-giants-publication-stance.png": {
             "_width": 1536,
@@ -9714,72 +11784,182 @@
           },
           "swift-tartary-rus-timeline-mirrors.md": {
             "_title": "Swift \u2014 Tartary / Rus-timeline mirrors (speculative thread)",
-            "_updated": "2026-03-30T12:39:33Z"
+            "_keywords": [
+              "swift",
+              "tartary",
+              "rus",
+              "mirrors",
+              "rus-timeline",
+              "thread"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 10
         },
         "thompson": {
           "README.md": {
             "_title": "Hunter S. Thompson \u2014 Books and Indexes",
-            "_updated": "2026-03-10T13:08:00Z"
+            "_keywords": [
+              "readme",
+              "hunter",
+              "thompson",
+              "books",
+              "indexes"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-curse-of-lono.md": {
             "_title": "The Curse of Lono \u2014 Index",
-            "_updated": "2026-03-10T13:08:00Z"
+            "_keywords": [
+              "curse",
+              "lono"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-fear-and-loathing-in-america.md": {
             "_title": "Fear and Loathing in America \u2014 Index",
-            "_updated": "2026-03-10T13:08:00Z"
+            "_keywords": [
+              "fear",
+              "loathing",
+              "america"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-fear-and-loathing.md": {
             "_title": "Fear and Loathing in Las Vegas \u2014 Index and Government-Antagonistic Highlights",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "fear",
+              "loathing",
+              "las",
+              "vegas",
+              "government-antagonistic",
+              "highlights"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-great-shark-hunt.md": {
             "_title": "The Great Shark Hunt \u2014 Index and Government-Antagonistic Highlights",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "great",
+              "shark",
+              "hunt",
+              "government-antagonistic",
+              "highlights"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-hells-angels.md": {
             "_title": "Hell's Angels \u2014 Index and Government-Antagonistic Highlights",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "hells",
+              "angels",
+              "hell",
+              "government-antagonistic",
+              "highlights"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-kitchen-readings.md": {
             "_title": "The Kitchen Readings: Untold Stories of Hunter S. Thompson \u2014 Index",
-            "_updated": "2026-03-10T13:08:00Z"
+            "_keywords": [
+              "kitchen",
+              "readings",
+              "untold",
+              "stories",
+              "hunter",
+              "thompson"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-playboy-interview.md": {
             "_title": "The Playboy Interview \u2014 Hunter S. Thompson",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "playboy",
+              "interview",
+              "hunter",
+              "thompson"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-thompson-main.md": {
             "_title": "Hunter S. Thompson \u2014 Main Index",
-            "_updated": "2026-03-10T13:08:00Z"
+            "_keywords": [
+              "thompson",
+              "main",
+              "hunter"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "thompson-managed-disclosure-investigation.md": {
             "_title": "Investigation: Hunter S. Thompson \u2014 Satan-Worshipper Bar Story as Potential Managed Disclosure",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "thompson",
+              "managed",
+              "disclosure",
+              "hunter",
+              "satan-worshipper",
+              "bar",
+              "story",
+              "potential"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 10
         },
         "tolkien": {
           "ARTICLE-palantir-analysis.md": {
             "_title": "The Palant\u00edri: Tolkien's Seeing-Stones \u2014 Analysis",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "article",
+              "palantir",
+              "analysis",
+              "palant",
+              "ri",
+              "tolkien",
+              "seeing-stones"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "INVESTIGATION-tolkien-redacted-fact.md": {
             "_title": "Investigation: Tolkien's Fiction as Redacted Fact",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "tolkien",
+              "redacted",
+              "fact",
+              "fiction"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "RESEARCH-three-tasks-source-mapping.md": {
             "_title": "Research: Three Tasks \u2014 Silmarillion Source Mapping, Heimskringla Euhemerism, Teutonic Mythology",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "research",
+              "three",
+              "tasks",
+              "source",
+              "mapping",
+              "silmarillion",
+              "heimskringla",
+              "euhemerism",
+              "teutonic",
+              "mythology"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 3
         },
         "urantia": {
           "index-urantia-book-investigation.md": {
             "_title": "Investigation: The Urantia Book (1955) -- Controlled Opposition and Predictive Programming (Open)",
-            "_updated": "2026-04-04T13:37:08Z"
+            "_keywords": [
+              "urantia",
+              "book",
+              "controlled",
+              "opposition",
+              "predictive",
+              "programming"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-urantia-book-investigation.png": {
             "_width": 1536,
@@ -9792,37 +11972,81 @@
         "wells": {
           "index-island-of-dr-moreau.md": {
             "_title": "The Island of Dr. Moreau (1896) \u2014 Index & Investigation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "island",
+              "moreau"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "index-wells.md": {
             "_title": "H.G. Wells \u2014 Downloaded Texts Index",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "wells",
+              "downloaded",
+              "texts"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "massacre-of-mankind-2017-reference.md": {
             "_title": "The Massacre of Mankind (2017) \u2014 Reference",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "massacre",
+              "mankind",
+              "2017",
+              "reference"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 3
         },
         "white": {
           "index-once-and-future-king.md": {
             "_title": "The Once and Future King (1958) \u2014 Index",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "once",
+              "future",
+              "king"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "white-excalibur-sulphur-mercury-investigation.md": {
             "_title": "White vs Excalibur: Sulphur + Mercury \u2014 Book vs Movie, Managed Disclosure?",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "white",
+              "excalibur",
+              "sulphur",
+              "mercury",
+              "vs",
+              "book",
+              "movie",
+              "managed",
+              "disclosure"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "white-saturnian-round-table-investigation.md": {
             "_title": "T.H. White, The Once and Future King: Saturnian Round Table Investigation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "white",
+              "saturnian",
+              "round",
+              "table",
+              "once",
+              "future",
+              "king"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 3
         },
         "zombies": {
           "index-zombie-genre-investigation.md": {
             "_title": "Zombie Genre \u2014 Investigation",
-            "_updated": "2026-03-30T13:04:38Z"
+            "_keywords": [
+              "zombie",
+              "genre"
+            ],
+            "_updated": "2026-04-05T12:17:42Z"
           },
           "_count": 1
         },
@@ -9872,7 +12096,11 @@
       },
       "page.md": {
         "_title": "Predictive Programming",
-        "_updated": "2026-04-04T13:37:08Z"
+        "_keywords": [
+          "predictive",
+          "programming"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "predictive_programming.png": {
         "_width": 1536,
@@ -9893,7 +12121,11 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "the_office.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "the-office",
+          "office"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "wotw.jpg": {
         "_width": 1200,
@@ -9912,7 +12144,16 @@
     "religion": {
       "1979-religious-revival-investigation.md": {
         "_title": "Investigation: The 1979 Religious Revival \u2014 CIA Backing and Global Phenomenon",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "1979",
+          "religious",
+          "revival",
+          "cia",
+          "backing",
+          "global",
+          "phenomenon"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "abracadabra.jpg": {
         "_width": 526,
@@ -9941,19 +12182,44 @@
         },
         "index-hairy-mary-one-more-time.md": {
           "_title": "Hairy Mary \u2013 One More Time",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "hairy",
+            "mary",
+            "one",
+            "time"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "index-hairy-mary-original.md": {
           "_title": "Hairy Mary",
-          "_updated": "2026-03-13T11:03:50Z"
+          "_keywords": [
+            "hairy",
+            "mary",
+            "original"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "index-met-museum-wild-woman-unicorn.md": {
           "_title": "Playing Card, with Wild Woman and Unicorn",
-          "_updated": "2026-03-13T11:03:50Z"
+          "_keywords": [
+            "met",
+            "museum",
+            "wild",
+            "woman",
+            "unicorn",
+            "playing",
+            "card"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "index-pregnant-mary-magdalene.md": {
           "_title": "Pregnant Mary Magdalene?",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "pregnant",
+            "mary",
+            "magdalene"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 6
       },
@@ -9968,87 +12234,196 @@
     "stolen_credit": {
       "beethoven-deafness.md": {
         "_title": "Beethoven / Deafness Narrative \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "beethoven",
+          "deafness",
+          "narrative"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "capcom.md": {
         "_title": "Capcom \u2014 Mega Man Franchise & Stolen Credit",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "capcom",
+          "mega",
+          "man",
+          "franchise",
+          "stolen",
+          "credit"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "dave-wise.md": {
         "_title": "Dave Wise \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "dave",
+          "wise"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "eveline-fischer.md": {
         "_title": "Eveline Fischer \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "eveline",
+          "fischer"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "fanny-mendelssohn.md": {
         "_title": "Fanny Mendelssohn (Fanny Hensel) \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "fanny",
+          "mendelssohn",
+          "hensel"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "ferde-grofe.md": {
         "_title": "Ferde Grof\u00e9 \u2014 Rhapsody in Blue Orchestration",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "ferde",
+          "grofe",
+          "grof",
+          "rhapsody",
+          "blue",
+          "orchestration"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "gershwin-kay-swift.md": {
         "_title": "Gershwin / Kay Swift \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "gershwin",
+          "kay",
+          "swift"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "jeremy-soule.md": {
         "_title": "Jeremy Soule \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "jeremy",
+          "soule"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "kinuyo-yamashita.md": {
         "_title": "Kinuyo Yamashita \u2014 Investigation",
-        "_updated": "2026-03-10T16:44:47Z"
+        "_keywords": [
+          "kinuyo",
+          "yamashita"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "koji-kondo.md": {
         "_title": "Koji Kondo \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "koji",
+          "kondo"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "minako-hamano.md": {
         "_title": "Minako Hamano \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "minako",
+          "hamano"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "mozart-nannerl.md": {
         "_title": "Mozart / Nannerl (Maria Anna Mozart) \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "mozart",
+          "nannerl",
+          "maria",
+          "anna"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "nintendo-sony-breakup.md": {
         "_title": "The Nintendo\u2013Sony Breakup and the Birth of PlayStation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "nintendo",
+          "sony",
+          "breakup",
+          "birth",
+          "playstation"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "nobuo-uematsu.md": {
         "_title": "Nobuo Uematsu \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "nobuo",
+          "uematsu"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "page.md": {
         "_title": "Stolen Credit in Media",
-        "_updated": "2026-03-30T14:02:57Z"
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "rare-nintendo-rd.md": {
         "_title": "Rare & Nintendo R&D \u2014 Credit Theft Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "rare",
+          "nintendo",
+          "rd",
+          "credit",
+          "theft"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "robin-beanland.md": {
         "_title": "Robin Beanland \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "robin",
+          "beanland"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "square-battle-system-lineage.md": {
         "_title": "Square / Final Fantasy \u2014 Battle System Lineage & Talent Exodus",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "square",
+          "battle",
+          "system",
+          "lineage",
+          "final",
+          "fantasy",
+          "talent",
+          "exodus"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "tommy-tallarico.md": {
         "_title": "Tommy Tallarico \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "tommy",
+          "tallarico"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "vgm-preservation-credits.md": {
         "_title": "VGM Preservation & Publisher Credit Policies",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "vgm",
+          "preservation",
+          "credits",
+          "publisher",
+          "credit",
+          "policies"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "yasunori-mitsuda.md": {
         "_title": "Yasunori Mitsuda \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "yasunori",
+          "mitsuda"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 21
     },
@@ -10056,30 +12431,65 @@
       "investigations": {
         "cathars-church-purge-khazar-split-investigation.md": {
           "_title": "Investigation: The Cathars \u2014 enemy memory, catharization, resistance to monotheism, and the Khazar\u2013Cathar split thesis",
-          "_updated": "2026-04-02T15:18:43Z"
+          "_keywords": [
+            "cathars",
+            "church",
+            "purge",
+            "khazar",
+            "split",
+            "enemy",
+            "memory",
+            "catharization",
+            "resistance",
+            "monotheism",
+            "cathar",
+            "thesis"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "eckhart-jacobs-ladder-hell-quote-attribution-investigation.md": {
           "_title": "Investigation: \u201cHell burns attachments\u201d \u2014 *Jacob\u2019s Ladder*, Eckhart (mis)attribution, Paradigm Threat read",
-          "_updated": "2026-04-02T15:18:43Z"
+          "_keywords": [
+            "eckhart",
+            "jacobs",
+            "ladder",
+            "hell",
+            "quote",
+            "attribution",
+            "burns",
+            "attachments",
+            "jacob",
+            "mis",
+            "paradigm",
+            "threat",
+            "read"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 2
       },
       "page.md": {
         "_title": "Suppression",
-        "_updated": "2026-04-02T15:18:43Z"
+        "_keywords": [
+          "article"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 3
     },
-    "_count": 322
+    "_count": 323
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
-    "_updated": "2026-03-30T14:02:57Z"
+    "_updated": "2026-04-05T12:17:42Z"
   },
   "science": {
     "5g": {
       "0.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "electric"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "5GMiniCellTowers.pdf": {
         "_updated": "2026-01-16T01:04:59Z"
@@ -10182,7 +12592,15 @@
     "ai": {
       "ai-control-investigation.md": {
         "_title": "Artificial Intelligence: Control and Predictive Programming Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "ai",
+          "control",
+          "artificial",
+          "intelligence",
+          "predictive",
+          "programming"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "ai-takeover.png": {
         "_width": 1536,
@@ -10192,13 +12610,28 @@
       },
       "page.md": {
         "_title": "Artificial Intelligence and the Ghost in the Machine",
-        "_updated": "2026-03-30T14:02:57Z"
+        "_keywords": [
+          "artificial",
+          "intelligence",
+          "ghost",
+          "machine"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 3
     },
     "anti_gravity": {
       "a.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "secret",
+          "electro-gravitic",
+          "thrusters",
+          "exist",
+          "passenger",
+          "cargo",
+          "jets"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "antigrav_research.jpg": {
         "_width": 1640,
@@ -10404,7 +12837,18 @@
       "investigations": {
         "dna-fingerprint-scalar-life-investigation.md": {
           "_title": "Investigation: DNA as Fingerprint, Not Blueprint \u2014 Scalar / ZPE Medium, First Life, and Ontogeny",
-          "_updated": "2026-04-02T15:18:43Z"
+          "_keywords": [
+            "dna",
+            "fingerprint",
+            "scalar",
+            "life",
+            "blueprint",
+            "zpe",
+            "medium",
+            "first",
+            "ontogeny"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 1
       },
@@ -10413,7 +12857,12 @@
     "cern_portal": {
       "page.md": {
         "_title": "CERN and Portal Technology \u2014 Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "cern",
+          "portal",
+          "technology"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 1
     },
@@ -10467,7 +12916,14 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "a.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "climate",
+          "change",
+          "george",
+          "soros",
+          "censorship"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "banned_2025-2.jpg": {
         "_width": 1170,
@@ -10633,24 +13089,64 @@
       },
       "tornado-power-station-investigation.md": {
         "_title": "Tornado\u2013Power Station Explosion: Investigation into Electromagnetic Tornado Suppression and Media Cover-up",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "tornado",
+          "power",
+          "station",
+          "explosion",
+          "electromagnetic",
+          "suppression",
+          "media",
+          "cover-up"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "weather-modification-investigation.md": {
         "_title": "Investigation: Weather Modification \u2014 From Cloud Seeding to Ionospheric Heaters",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "weather",
+          "modification",
+          "cloud",
+          "seeding",
+          "ionospheric",
+          "heaters"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 38
     },
     "havana_syndrome": {
       "havana-syndrome-investigation.md": {
         "_title": "Investigation: Havana Syndrome \u2014 Gaslighting the Public on Directed Energy Weapons",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "havana",
+          "syndrome",
+          "gaslighting",
+          "public",
+          "directed",
+          "energy",
+          "weapons"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 1
     },
     "health": {
       "a.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "you",
+          "entire",
+          "college",
+          "course",
+          "be",
+          "told",
+          "ph",
+          "stands",
+          "potential",
+          "hydrogen",
+          "atoms"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "cell-regen.png": {
         "_width": 533,
@@ -10727,53 +13223,130 @@
       "probiotics_chernobyl": {
         "soviet-probiotic-research-the-real-story.md": {
           "_title": "The Lost Soviet Probiotic: How a Bulgarian Cancer Discovery Became a Cold War Secret",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "soviet",
+            "probiotic",
+            "research",
+            "real",
+            "story",
+            "lost",
+            "bulgarian",
+            "cancer",
+            "discovery",
+            "became",
+            "cold",
+            "war",
+            "secret"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "ssstwitter.com_1772378839442-investigation.md": {
           "_title": "Investigation: David Straight's Chernobyl Probiotics Claims",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "ssstwitter-com-1772378839442",
+            "david",
+            "straight",
+            "chernobyl",
+            "probiotics",
+            "claims"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "ssstwitter.com_1772378839442-transcript.md": {
           "_title": "Transcript: ssstwitter.com_1772378839442.mp3",
-          "_updated": "2026-03-10T13:08:00Z"
+          "_keywords": [
+            "ssstwitter-com-1772378839442",
+            "transcript",
+            "ssstwitter",
+            "com1772378839442",
+            "mp3"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 3
       },
       "tennant": {
         "index-tennant-healing-voltage.md": {
           "_title": "Dr. Jerry Tennant \u2014 Healing is Voltage: Index of Research and Claims",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "tennant",
+            "healing",
+            "voltage",
+            "jerry",
+            "research",
+            "claims"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 1
       },
       "virus.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "virus"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 18
     },
     "maxwell_aether": {
       "01-burden-of-proof-debate.md": {
         "_title": "The Burden of Proof: Who Must Prove the Aether Does or Doesn't Exist?",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "burden",
+          "proof",
+          "debate",
+          "prove",
+          "aether",
+          "does",
+          "doesn",
+          "exist"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "02-did-maxwell-prove-the-aether.md": {
         "_title": "Did Maxwell's Work Actually Prove the Aether Exists?",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "did",
+          "maxwell",
+          "prove",
+          "aether",
+          "work",
+          "actually",
+          "exists"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "03-dayton-miller.md": {
         "_title": "Dayton Miller Interferometry \u2014 Investigation",
-        "_updated": "2026-03-10T13:08:00Z"
+        "_keywords": [
+          "dayton",
+          "miller",
+          "interferometry"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "04-steinmetz-heaviside-sources.md": {
         "_title": "Steinmetz and Heaviside Primary Sources \u2014 Verification",
-        "_updated": "2026-03-10T13:08:00Z"
+        "_keywords": [
+          "steinmetz",
+          "heaviside",
+          "sources",
+          "primary",
+          "verification"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "_count": 4
     },
     "microchips": {
       "microchips-shrinking-technology-investigation.md": {
         "_title": "Microchips: Shrinking Technology Investigation",
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "microchips",
+          "shrinking",
+          "technology"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "shrinking-tech.png": {
         "_width": 1536,
@@ -10785,7 +13358,13 @@
     },
     "nukes": {
       "A.md": {
-        "_updated": "2026-03-30T13:04:38Z"
+        "_keywords": [
+          "nuclear",
+          "scam",
+          "galen",
+          "winsor"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "Fireball.jpg": {
         "_width": 250,
@@ -10818,7 +13397,13 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "chat_nukes.md": {
-        "_updated": "2026-01-16T01:04:59Z"
+        "_keywords": [
+          "chat-nukes",
+          "nuclear",
+          "weapons",
+          "chat"
+        ],
+        "_updated": "2026-04-05T12:17:42Z"
       },
       "fake1.jpg": {
         "_width": 336,
@@ -10853,15 +13438,45 @@
       "investigations": {
         "marie-curie-radiation-cures-suppression-speculation.md": {
           "_title": "Marie Curie, battlefield radiation, and post-war nuclear narrative (open investigation)",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "marie",
+            "curie",
+            "radiation",
+            "cures",
+            "suppression",
+            "battlefield",
+            "post-war",
+            "nuclear",
+            "narrative"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "nuke-waste-is-safe-investigation.md": {
           "_title": "Investigation: Galen Winsor \u2014 \u201cNuclear Waste is Safe\u201d (alternative framework)",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "nuke",
+            "waste",
+            "safe",
+            "galen",
+            "winsor",
+            "nuclear",
+            "alternative",
+            "framework"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "nukes-dont-exist-investigation.md": {
           "_title": "Investigation: \"Nukes Don't Exist\" \u2014 Alternative Framework Analysis",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "nukes",
+            "dont",
+            "exist",
+            "don",
+            "alternative",
+            "framework",
+            "analysis"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 3
       },
@@ -10925,11 +13540,25 @@
       "remote_viewing": {
         "aether-consciousness.md": {
           "_title": "Remote Viewing as Aether Physics \u2014 Investigation",
-          "_updated": "2026-03-10T13:08:00Z"
+          "_keywords": [
+            "aether",
+            "consciousness",
+            "remote",
+            "viewing",
+            "physics"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "index-remote-viewing-fiction.md": {
           "_title": "Remote Viewing / Remote Control in Fiction \u2014 Master Index",
-          "_updated": "2026-03-30T13:04:38Z"
+          "_keywords": [
+            "remote",
+            "viewing",
+            "fiction",
+            "control",
+            "master"
+          ],
+          "_updated": "2026-04-05T12:17:42Z"
         },
         "_count": 2
       },
@@ -10979,6 +13608,6 @@
     },
     "_count": 153
   },
-  "_count": 1929,
-  "_version": "f9cca65"
+  "_count": 1930,
+  "_version": "7172dba"
 }
