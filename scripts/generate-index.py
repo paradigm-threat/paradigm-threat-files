@@ -14,6 +14,20 @@ from PIL import Image
 # All other tracked files use the committer date of the latest commit that touched
 # each path (one `git log` pass); untracked or missing paths fall back to mtime.
 _BLOG_DATED_MD = re.compile(r"^(\d{4}-\d{2}-\d{2})-.+\.md$")
+_KEYWORDS_LINE_RE = re.compile(r"^Keywords:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
+
+
+def _extract_keywords_from_markdown_file(full_path: str) -> list[str]:
+    """Parse hashtag tokens from a Keywords: line (append_article_keywords.py)."""
+    try:
+        with open(full_path, "r", encoding="utf-8") as f:
+            content = f.read()
+    except OSError:
+        return []
+    m = _KEYWORDS_LINE_RE.search(content)
+    if not m:
+        return []
+    return re.findall(r"#([a-zA-Z0-9\-]+)", m.group(1))
 
 
 def _git_last_commit_unix_times(repo_dir: str) -> Dict[str, int]:
@@ -161,7 +175,11 @@ def generate_index():
                     file_data = {}
                     if title:
                         file_data["_title"] = title
-                    
+                    if ext == '.md':
+                        kw = _extract_keywords_from_markdown_file(full_path)
+                        if kw:
+                            file_data["_keywords"] = kw
+
                     if ext in {'.jpg', '.jpeg', '.png', '.webp'}:
                         try:
                             with Image.open(full_path) as img:
