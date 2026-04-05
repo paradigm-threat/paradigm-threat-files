@@ -64,3 +64,8 @@ That is exactly how the process works.  A vile alchemy of degradation and cruelt
 
 .
 * Peiss, Kathy.  Zoot Suit:  The Enigmatic Career of an Extreme Style.  (Philadelphia:  University of Pennsylvania Press, 2011)10-11.
+
+---
+
+Keywords: #zoot #suit #riot
+

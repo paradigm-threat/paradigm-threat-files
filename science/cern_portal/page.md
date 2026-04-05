@@ -110,3 +110,8 @@ CERN has repeatedly denied that the LHC can "open portals," "create black holes 
 - Search for any CERN or member-state documents (FOIA, archives) mentioning "portal," "door," or "dimension" in an operational context.
 - Collect further primary-source quotes or institutional language that supports the portal interpretation (evidence of this type is gold).
 - No timeline or appendix subsection for CERN/portal yet; this investigation stands as the dedicated section.
+
+---
+
+Keywords: #cern #portal #technology
+

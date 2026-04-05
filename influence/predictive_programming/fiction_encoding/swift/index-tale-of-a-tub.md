@@ -9,3 +9,8 @@
 **Summary (one paragraph):** A narrator ostensibly recounts the will of a father who left coats (religion) to three sons with instructions not to alter them; they **innovate** anyway while claiming fidelity. The satire targets **scholasticism**, **biblical interpretation as fashion**, and **church politics**. For the Swift investigation, the work establishes Swift’s early pattern: **mock-scholarly apparatus** and **unreliable narrator**—the same toolkit readers later bring to *Gulliver*, without proving every *Gulliver* detail is only allegory.
 
 **Deeper corpus/edition notes:** [index-swift-select-works-vol1-1823.md](index-swift-select-works-vol1-1823.md) | [Swift hub](page.md)
+
+---
+
+Keywords: #tale #tub #stub
+

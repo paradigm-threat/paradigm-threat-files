@@ -136,3 +136,8 @@ Also captured: `en/seven/` (overview), `en/e_books/`, `en/articles/` (incl. Marf
 - Role of foreign historians in the 18th-century Russian Academy of Sciences
 - Previous critics of conventional chronology: Newton, Morozov, Velikovsky, et al.
 - The financial and social structure of the Great Empire
+
+---
+
+Keywords: #chronologia #org #site
+

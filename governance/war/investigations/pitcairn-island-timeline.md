@@ -70,3 +70,7 @@ Dates below mix **well-attested milestones** with items where **month/day or int
 - For **story contradictions** (who killed whom, when Adams became “respectable”), pair each bullet with **two independent primary types** (e.g. log + deposition + later missionary edition).
 - For **sovereignty**, the burning of the *Bounty* is **1790 fact** in the archive; the **2004** judgments are **21st c. fact** in UK law — the timeline does not by itself prove either romantic or cynical readings of the literature in between.
 
+---
+
+Keywords: #pitcairn #island #events
+

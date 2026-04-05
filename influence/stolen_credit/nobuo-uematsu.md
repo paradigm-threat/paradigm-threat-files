@@ -133,3 +133,8 @@
 - [SquareSound: Nobuo Uematsu](https://www.squareenixmusic.com/composers/uematsu.html)
 - [GameDeveloper: Uematsu cutback](https://gamedeveloper.com/audio/game-composer-nobuo-uematsu-will-retire-after-fantasian-s-console-launch)
 - [Square Insider: Uematsu leaves Square](https://squareinsider.com/articles/653/nobuo-uematsu-leaves-square-enix)
+
+---
+
+Keywords: #nobuo #uematsu
+

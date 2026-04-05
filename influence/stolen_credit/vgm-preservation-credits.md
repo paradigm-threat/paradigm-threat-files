@@ -65,3 +65,8 @@
 - [VGMPF: List of Games Without Credits](https://www.vgmpf.com/Wiki/index.php?title=List_of_Games_Without_Credits)
 - [TCRF: Battletoads in Battlemaniacs](https://tcrf.net/Battletoads_in_Battlemaniacs_(SNES))
 - [TCRF: PIN·BOT](https://tcrf.net/Pinbot_(NES))
+
+---
+
+Keywords: #vgm #preservation #credits #publisher #credit #policies
+

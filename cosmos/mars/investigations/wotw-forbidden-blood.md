@@ -205,3 +205,8 @@ Fifty workers, dead in their machines, killed by the one thing they had been tol
 - H.G. Wells, "The Things that Live on Mars," *Cosmopolitan* (March 1908) — Martian physiology
 - Companion: `wotw-timeline.md` — operational chronology
 - Companion: `wotw-martian-analysis.md` — slave theory and technical analysis
+
+---
+
+Keywords: #wotw #forbidden #blood #blood-feeding #discipline #collapse
+

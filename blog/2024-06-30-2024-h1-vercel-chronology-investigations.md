@@ -57,3 +57,8 @@ The shift toward Vercel and the image/embed pipeline set up the site for faster 
 
 ---
 *Topics:* [#conspiracy](https://paradigmthreat.net/search/conspiracy) · [#cosmos](https://paradigmthreat.net/search/cosmos) · [#influence](https://paradigmthreat.net/search/influence) · [#history](https://paradigmthreat.net/search/history) · [#mars](https://paradigmthreat.net/search/mars) · [#science](https://paradigmthreat.net/search/science)
+
+---
+
+Keywords: #2024 #h1 #vercel #mars
+

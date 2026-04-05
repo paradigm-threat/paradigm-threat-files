@@ -51,3 +51,8 @@ The appendix on celestial mechanics is specifically noted by Jno Cook for its te
 - [Solaria Binaria](solaria-binaria.md) — origins of the binary system that preceded the succession
 - [Disastrous Love Affair](disastrous-love-affair.md) — Moon-Mars encounter in the succession sequence
 - [Iron Age of Mars](iron-age-of-mars.md) — the final stage of the succession
+
+---
+
+Keywords: #divine #succession #science #gods #old #new
+

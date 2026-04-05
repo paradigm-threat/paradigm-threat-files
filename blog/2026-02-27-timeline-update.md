@@ -198,3 +198,8 @@ Primary article on Fomenko's Shakespeare identification ([SAK] analysis), placed
 
 ---
 *Topics:* [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history)
+
+---
+
+Keywords: #2026 #update #chapter #consolidation #new #articles #print-ready #pdf #chronological #corrections
+

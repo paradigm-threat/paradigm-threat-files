@@ -83,3 +83,8 @@
 | Foundation = empire collapse | Gibbon; Roman/British Empire decline; psychohistory |
 | Robots, Multivac, predictive crime | AI governance; pre-crime prediction; encoding of future tech |
 | Humanist/skeptic stance | Possible controlled opposition angle; mainstream "rational" voice |
+
+---
+
+Keywords: #biography #context #isaac #asimov
+

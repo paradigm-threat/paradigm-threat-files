@@ -237,3 +237,8 @@ The following are **open theories** — not asserted as fact, but proposed as le
 - Vril/Berann/Nazi maps: [vril-society](/governance/war/investigations/vril-society); Hollow Planet blog (Berann 1966); BetweenTwoPines, Ancient Code (Nazi maps).
 - Jan Lamprecht: [Hollow Planet Seismology](https://www.bibliotecapleyades.net/tierra_hueca/esp_tierra_hueca_9.htm) (A.md source).
 - Thunderbolts: [Atlantis: The Disappearing Homeland](https://www.thunderbolts.info/wp/2018/05/03/36-atlantis-the-disappearing-homeland/).
+
+---
+
+Keywords: #hollow #sources #maps #books #atlantis
+

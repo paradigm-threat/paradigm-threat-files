@@ -111,3 +111,8 @@ Late-1990s Toonami (Cartoon Network) included game review segments. Creators: Ja
 - **Sprite/engine schism:** Square refused to back-port to Nintendo engine; upgraded battle system in extra year; world vs. battle sprites never unified.
 - **Post-defection decline:** Square lost Nintendo partnership; FF8/9 showed they couldn't replicate FF7-level ambition.
 - **Talent exodus:** Gebelli, Sakaguchi, Matsuno; Square "collapsed" (Uematsu). See [square-battle-system-lineage.md](square-battle-system-lineage.md), [nobuo-uematsu.md](nobuo-uematsu.md).
+
+---
+
+Keywords: #nintendo #sony #breakup #birth #playstation
+

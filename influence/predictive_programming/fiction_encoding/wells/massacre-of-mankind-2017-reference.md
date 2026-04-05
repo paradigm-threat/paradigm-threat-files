@@ -290,3 +290,8 @@ The two-book franchise leaves these questions open:
 - *The Guardian* (Adam Roberts, 14 Jan 2017)
 - *Washington Post* (Aug 2017)
 - *Irish Times* (Peter Murphy, 21 Jan 2017)
+
+---
+
+Keywords: #massacre #mankind #2017 #reference
+

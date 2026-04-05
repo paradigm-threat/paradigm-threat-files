@@ -101,3 +101,8 @@ Roughly as *Resurrect Dead* presents it:
 ---
 
 *Last updated: 2026-04-04 — owner conclusion: sponsored CO, managed silly disclosure, hollowed plot; speculative vaccines/towers/Jupiter–Mars read.*
+
+---
+
+Keywords: #toynbee #tiles #resurrect #dead #documentary #street #campaign
+

@@ -85,3 +85,8 @@ The timeline is at [paradigmthreat.net/timeline](https://paradigmthreat.net/time
 
 ---
 *Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history)
+
+---
+
+Keywords: #2026 #update #atlantis #joan #arc #absu
+

@@ -52,3 +52,8 @@
 - [princess-of-mars-index.md](princess-of-mars-index.md)
 - [wotw-telepathic-purge](/cosmos/mars/investigations/wotw-telepathic-purge.md) — Kaldane, Rykor, host body
 - [Asimov: Marx in Space!](/timeline/evt-asimov-marx-in-space) — robots, Binder; Kaldane/Rykor predate Synthetic Men (1940)
+
+---
+
+Keywords: #chessmen #mars #clue
+

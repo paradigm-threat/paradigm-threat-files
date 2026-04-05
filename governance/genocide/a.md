@@ -53,3 +53,8 @@ _The_ [_Genocide Documentation Project_](http://nsarchive.gwu.edu/governance/gen
 
 1\. Major General [Maurice Barril](http://www.un.org/Depts/DPKO/Missions/unamir_b.htm) was the military advisor to UN Secretary General Boutros Boutros-Ghali and in charge of the Military Division of the Department of Peacekeeping Operations during the genocide.  
 [↩](#ref1"Jumpbacktofootnote 1 in the text.")
+
+---
+
+Keywords: #later #us #classifying #bombshell #plan #pull #peacekeepers #out #rwanda #genocide
+

@@ -263,3 +263,8 @@ The pattern repeats because the event was real.
 - `paradigm-threat-files/governance/war/page.md` — Child pilots / bombing campaigns
 - `paradigm-threat-files/history/mudflood/page.md` — MudFlood blow-back pattern
 - Brandenburg, J.E. *Death on Mars: The Discovery of a Planetary Nuclear Massacre*. Adventures Unlimited Press, 2015
+
+---
+
+Keywords: #card #orson #scott #enderverse
+

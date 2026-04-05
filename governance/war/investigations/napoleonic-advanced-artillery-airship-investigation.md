@@ -149,3 +149,8 @@ All remain low confidence until metallurgical acoustic modeling or a period tech
 - [French Revolution — investigation](french-revolution-investigation.md)
 - [Reverse Crusades — comparison](reverse-crusades-comparison.md)
 - [US Civil War — investigation](us-civil-war-investigation.md) (Verne / heavy artillery theme, different war)
+
+---
+
+Keywords: #napoleonic #advanced #artillery #airship #sound #cannons #lighter-than-air #technology
+

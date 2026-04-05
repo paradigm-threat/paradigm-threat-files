@@ -109,3 +109,8 @@ Espionage and "democracy promotion" did not alone cause the collapse — but the
 - Beissinger, M. *Nationalist Mobilization and the Collapse of the Soviet State*
 - BBC: *Pole to Pole* (1992) — Soviet leg, August 1991
 - Timeline: [Soviet Historiography](/content/14.ce-20th-the-1917-revolution/14.04.00-soviet-historiography-final-layer.md), [Reverse Crusades](reverse-crusades-comparison.md)
+
+---
+
+Keywords: #soviet #collapse #western #orchestration #media #post-wwii #isolation
+

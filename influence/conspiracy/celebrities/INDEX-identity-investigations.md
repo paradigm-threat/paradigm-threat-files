@@ -30,3 +30,8 @@ Part of a broader inquiry into: (1) the exploitation of LGBTQIA+ and gender-nonc
 | Ruth Gordon | [ruth-gordon.md](ruth-gordon.md) | Ongoing |
 | Sheila Florance | [sheila-florance.md](sheila-florance.md) | Ongoing |
 | Shelley Winters | [shelley-winters.md](shelley-winters.md) | Ongoing |
+
+---
+
+Keywords: #identity #methodology
+

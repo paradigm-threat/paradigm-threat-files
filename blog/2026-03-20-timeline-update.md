@@ -82,3 +82,8 @@ Timeline TTS slideshow updated with paragraph seek slider and playFromSentence f
 ---
 
 *Topics:* [#history](https://paradigmthreat.net/search/history) · [#science](https://paradigmthreat.net/search/science) · [#chronology](https://paradigmthreat.net/search/chronology)
+
+---
+
+Keywords: #2026 #update #radiocarbon #dating #updates
+

@@ -89,3 +89,8 @@ grep -n "vril\|underground\|subterranean\|Ana\|Vril-ya\|staff\|force\|energy\|ma
 # Dunsany — dreaming god
 grep -n "MANA-YOOD-SUSHAI\|Skarl\|drum\|dream\|sleep\|created\|unmake" other-refs/gods-of-pegana-dunsany.txt
 ```
+
+---
+
+Keywords: #references #reference #texts
+

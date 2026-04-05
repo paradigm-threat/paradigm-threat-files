@@ -53,3 +53,8 @@
 - [gods-of-mars-index.md](gods-of-mars-index.md) — Valley Dor, Therns
 - [mars-fiction-survey](/cosmos/mars/investigations/mars-fiction-survey.md) — polar forbidden zones
 - Oberon Zell Barsoom map — Okar, north polar region
+
+---
+
+Keywords: #warlord #mars #clue
+

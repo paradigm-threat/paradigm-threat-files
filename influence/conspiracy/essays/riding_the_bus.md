@@ -149,3 +149,8 @@ Cutchin, Joshua.  Where the Footprints End: High Strangeness and the Bigfoot Phe
 Mickoski, Howdie. Exposing the Expositions: 1851-1915  1970
 
 Lecouteux, Claude. Demons and Spirits of the Land:  Ancestral Lore and Practices.  (Inner Traditions)  2015.
+
+---
+
+Keywords: #riding-the-bus #riding #bus #bigfoot
+

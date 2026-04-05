@@ -99,3 +99,8 @@
 - [TCRF: PIN·BOT (NES)](https://tcrf.net/Pinbot_(NES))
 - [Wikipedia: Rare (company)](https://en.wikipedia.org/wiki/Rare_(company))
 - [Wikipedia: Donkey Kong Country](https://en.wikipedia.org/wiki/Donkey_Kong_Country)
+
+---
+
+Keywords: #rare #nintendo #rd #credit #theft
+

@@ -95,3 +95,8 @@ The Columbia Electronic Encyclopedia, 6th ed. Copyright © 2012, Columbia Univer
 See more Encyclopedia articles on: Chinese, Taiwanese, and Mongolian History
 
 ###### Reference: https://www.infoplease.com/encyclopedia/history/asia-africa/china-mongolia/manchurian-incident
+
+---
+
+Keywords: #encyclopedia #false #flag #staged #operations
+

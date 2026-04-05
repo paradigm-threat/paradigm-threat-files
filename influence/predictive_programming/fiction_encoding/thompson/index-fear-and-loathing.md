@@ -49,3 +49,8 @@ The bar scene (attorney + Georgia DA) describes Satan-worshippers, human sacrifi
 - [Main index](index-thompson-main.md)
 - [Great Shark Hunt](index-great-shark-hunt.md) — Nixon campaign, Watergate journalism
 - [Iacocca: Where Have All the Leaders Gone](../iacocca/index-where-have-all-the-leaders-gone.md) — Drug war as declared, never won; $40B/year
+
+---
+
+Keywords: #fear #loathing #las #vegas #government-antagonistic #highlights
+

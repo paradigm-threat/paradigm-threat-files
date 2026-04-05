@@ -116,3 +116,8 @@ Among **major** zombie works (Seabrook, Lovecraft, Romero, Brooks, Davis, Whiteh
 - [Bram Stoker investigation](/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md)
 - [Lovecraft index](/influence/predictive_programming/fiction_encoding/lovecraft/index-lovecraft.md)
 - [Fiction encoding index](../index.md)
+
+---
+
+Keywords: #zombie #genre
+

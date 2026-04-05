@@ -142,3 +142,8 @@ As an **open theory** for investigation (not asserted as fact):
 ---
 
 *Investigation file: `cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md`. Open theory only; no claim that hollow-earth encounter is proven.*
+
+---
+
+Keywords: #tham #luang #cave #rescue #2018 #cover-up #alternate #theories
+

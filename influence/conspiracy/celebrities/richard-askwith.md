@@ -36,3 +36,8 @@ Richard Askwith (b. 1960) is a British author and journalist—*The Independent*
 - [Richard Askwith official site](https://richardaskwith.co.uk/)
 - [Wikipedia: Richard Askwith](https://en.wikipedia.org/wiki/Richard_Askwith)
 - [Guardian: Running Free review](https://www.theguardian.com/books/2014/mar/16/running-free-northamptonshire-richard-askwith-review)
+
+---
+
+Keywords: #richard #askwith #british #establishment #narrative #influence
+

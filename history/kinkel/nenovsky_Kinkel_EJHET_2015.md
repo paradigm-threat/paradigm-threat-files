@@ -362,3 +362,8 @@ A companion paper by **Nikolay Bogatzky** (*Università degli studi Niccolò Cus
 ## Note on Portraits
 
 No photograph or portrait of Ivan Kinkel was found in any of the source documents (the Nenovsky 2015 paper, the Bogatzky 2015 paper, or the ResearchGate figure pages). The paper contains only two diagrams: *Figure 1 — Periodisation of economic development according to Ivan Kinkel* and *Figure 2 — Factors of economic development in Kinkel's model*. Given Kinkel's obscurity outside Bulgarian academic circles and his death in 1945, a photographic portrait may exist only in Bulgarian university archives or the National Archive holdings related to Mara Kinkel (fund 620/1/22).
+
+---
+
+Keywords: #nenovsky-kinkel-ejhet-2015 #ivan #kinkel #economic #development
+

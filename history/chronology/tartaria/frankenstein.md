@@ -66,3 +66,8 @@ Mary did write a novel once but it was so dreadful it was downright embarrassing
 The problem now is that Mary Shelley has been taken under the wing of "Women Studies" which means that all those bitchy women with tenure and royalty checks from their books about women writers will never even admit there might be a question of Mary's authorship.
 
 So today we find ourselves in a world run by people like Ray Kurzweil who wants to hook everybody up to machines to download their consciousness into machines so they can live forever.  If we had paid more attention to Percy Shelley and his alter ego Victor Frankenstein we might not be as taken unawares.  But I won't worry.  I know I won't be among the lucky elite chosen to accompany Mr. Kurzweil into this Cyber Heaven.  Somebody will have to stay behind to take out the trash and scrub the floors and it might as well be me.  It is what I do all day anyway..  And if I accidently trip over a wire and pull the plug on that big computer in the corner and the lights go out--oh well!
+
+---
+
+Keywords: #frankenstein #unmasked
+

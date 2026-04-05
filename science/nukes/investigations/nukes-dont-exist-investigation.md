@@ -162,3 +162,8 @@ Nuclear weapons are real but their effects—particularly the long-term health e
 - Hindin R, Brugge D, Panikkar B (2005), "Teratogenicity of depleted uranium aerosols," *Environmental Health* 4(1):17
 - Nair et al. (2009), Kerala background radiation study, *Health Physics* 96(1):55-66
 - Neumaier et al. (2012), DNA repair nonlinearity at low doses, *PNAS* 109(2):443-48
+
+---
+
+Keywords: #nukes #dont #exist #don #alternative #framework #analysis
+

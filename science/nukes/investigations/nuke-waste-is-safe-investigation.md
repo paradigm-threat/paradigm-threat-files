@@ -479,3 +479,8 @@ Three public figures staked **their own bodies** on how ionizing exposure and nu
 - Alaani et al. (2011), "Uranium and other contaminants in hair from the parents of children with congenital anomalies in Fallujah, Iraq," *Conflict and Health* 5(1):15 (finding of enriched, not depleted uranium)
 - RAND Corporation (1999), "A Review of the Scientific Literature as it Pertains to Gulf War Illnesses, Vol. 7 — Depleted Uranium"
 - Carbaugh, Eugene H. (2014), "The 1976 Hanford Americium Accident, Then and Now," 59th Annual Meeting of the Health Physics Society
+
+---
+
+Keywords: #nuke #waste #safe #galen #winsor #nuclear #alternative #framework
+

@@ -147,3 +147,8 @@ These sources **do not** meet academic evidence bars; they are recorded here as 
 - Khazar–Cathar thesis: evidence matrix—open; compare § VII prior art before claiming priority (primary thread: [Google Groups](https://groups.google.com/g/soc.culture.jewish/c/3FhNzfQVbtk)).  
 - Recover Nico de Jongh’s Dutch “fully documented” thesis via Wayback or other archives for `groups.msn.com/MormonsHistoricalRevival` if still extant.
 - Continuity to Rhine mysticism and Eckhart trial—conceptual and institutional threads (see companion Eckhart file).
+
+---
+
+Keywords: #cathars #church #purge #khazar #split #enemy #memory #catharization #resistance #monotheism #cathar #thesis
+

@@ -43,3 +43,8 @@ It is the most systematic linguistic and mythological reference in the Quantavol
 - [A Fire Not Blown](fire-not-blown.md) — companion linguistic study by de Grazia
 - [Chaos and Creation](chaos-and-creation.md) — foundational cosmological framework
 - [Divine Succession](divine-succession.md) — gods as celestial plasma bodies
+
+---
+
+Keywords: #ka #handbook #mythology #sacred #practices #electrical #phenomena #linguistic #connections #ancient #mediterranean #world
+

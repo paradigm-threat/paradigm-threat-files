@@ -28,3 +28,8 @@ Note: This section is **a work in progress**. Check back soon for more updates!
 ### [List of Controlled Opposition Agents in the Media](/influence/controlled_opposition)
 
 ### [Rise of the Global Police State](https://articles.mercola.com/sites/articles/archive/2023/10/17/rise-of-the-global-police-state.aspx)
+
+---
+
+Keywords: #fake #list
+

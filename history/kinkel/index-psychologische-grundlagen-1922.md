@@ -100,3 +100,8 @@ To **Dr. Nicolaus Krstnikoff** (founder of the Psychological Society of Sofia) a
 - [Nenovsky 2015](nenovsky_Kinkel_EJHET_2015.md) — Kinkel's economic theory; biography; Schmoller, psychoanalysis in Bulgaria
 - [Sources index](index-ivan-kinkel-sources.md) — All Ivan Kinkel materials
 - [Gottfried Kinkel](../gottfried-kinkel/gottfried-kinkel.md) — Possible family link (unresolved)
+
+---
+
+Keywords: #psychologische #grundlagen #1922 #zur #frage #der #psychologischen #und #des #ursprungs #religion
+

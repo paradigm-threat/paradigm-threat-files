@@ -302,3 +302,8 @@ grep -ril "non-Euclidean\|angle\|geometry\|portal\|gate\|door.*dimension" txt/
 # The Great Race / time travel
 grep -ril "great race\|Yith\|mind.*project\|forward.*time\|backward.*time" txt/
 ```
+
+---
+
+Keywords: #lovecraft #complete #fiction
+

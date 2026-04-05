@@ -111,3 +111,8 @@
 - [VGMO: David Wise Interview](http://www.vgmonline.net/davidwiseinterview/)
 - [Rare Wiki: David Wise](https://rarewiki.com/wiki/David_Wise)
 - [Wikipedia: David Wise (composer)](https://en.wikipedia.org/wiki/David_Wise_(composer))
+
+---
+
+Keywords: #dave #wise
+

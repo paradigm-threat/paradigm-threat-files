@@ -22,3 +22,8 @@ Seventh novel in sequence. By 1931 Burroughs had established: dead seas, canals,
 - [master-mind-of-mars-index.md](master-mind-of-mars-index.md) — Ras Thavas
 - Synthetic Men of Mars (1940, PG Australia) — Hormads, artificial humanoids; **critical for robots-on-Mars thesis**
 - [mars-fiction-survey](/cosmos/mars/investigations/mars-fiction-survey.md)
+
+---
+
+Keywords: #fighting #man #mars #clue
+

@@ -163,3 +163,8 @@ No claim here asserts final proof that The Urantia Book was designed as an opera
 - https://en.wikipedia.org/wiki/The_Urantia_Book
 - https://www.urantia.org/urantia-book/faqs
 - https://www.urantia.org/urantia-book-standardized/urantia-book
+
+---
+
+Keywords: #urantia #book #controlled #opposition #predictive #programming
+

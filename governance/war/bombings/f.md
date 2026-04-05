@@ -159,3 +159,8 @@ approximately 100,000 civilians in a single night. Almost 270,000 buildings were
 "The US firebombing campaign destroyed 180 square miles of 67 cities, killed more than 300,000 people and injured an
 additional 400,000, figures that exclude the atomic bombing of Hiroshima and Nagasaki"  
 [https://apjjf.org/-Mark-Selden/2414/article.html](https://apjjf.org/-Mark-Selden/2414/article.html)
+
+---
+
+Keywords: #citations
+

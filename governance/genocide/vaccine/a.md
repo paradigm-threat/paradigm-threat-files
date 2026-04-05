@@ -217,3 +217,8 @@ otherwise before they knew the facts.
 
 • Joseph Curl covered the White House and politics for a decade for The Washington Times. He can be reached at
 josephcurl@gmail.com and on Twitter @josephcurl
+
+---
+
+Keywords: #ensure #children #survive #thrive #boycott #vaccines
+

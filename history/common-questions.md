@@ -162,3 +162,8 @@ The paradigm-threat investigation treats the mainstream "Maya collapse 1000 year
 - *Trail of Tears: Century-Long Erasure* — paradigm-threat-timeline/content/12.ce-18th-mudflood-and-pugachev
 - *The MudFlood and World Cataclysm: Extended Evidence* — paradigm-threat-timeline/content/21.appendix-cataclysm-memory/21.53.00-mudflood-evidence.md
 - *Indigenous Creation Dates* — paradigm-threat-timeline/investigations/chronology
+
+---
+
+Keywords: #common #questions #alternate
+

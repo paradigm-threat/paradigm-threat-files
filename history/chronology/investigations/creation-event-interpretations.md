@@ -828,3 +828,8 @@ The Kojiki begins with divine emergence and island/deity formation. The checked 
    - Abrahamic traditions encode this as **Eden expulsion**.
    - Buddhist tradition encodes it as **loss of radiance** and descent into coarse existence.
    - Hindu/Jain encode it as **Kali Yuga** or **Avasarpini** — the dark half of the cosmic cycle.
+
+---
+
+Keywords: #creation #event #interpretations #across #religions
+

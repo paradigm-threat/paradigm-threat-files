@@ -3,3 +3,8 @@ and minarets. This hollow spire design routed electric current around the struct
 electrostatic discharge thus protecting its inhabitants. All cathederals originally provided sanctuary from
 interplanetary lightning storms. The rapid onset of technological invention provided by Mars would be remembered in the
 myth of Prometheus
+
+---
+
+Keywords: #cathoderal
+

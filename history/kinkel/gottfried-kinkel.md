@@ -159,3 +159,8 @@ See [index-de-jonge-gottfried-kinkel.md](index-de-jonge-gottfried-kinkel.md) for
 - Carl Schurz, *Reminiscences* (3 vols., New York: McClure, 1907)
 - A. Strodtmann, *Gottfried Kinkel* (2 vols., Hamburg, 1851)
 - Otto Henne am Rhyn, *G. Kinkel, ein Lebensbild* (Zürich, 1883)
+
+---
+
+Keywords: #gottfried #kinkel
+

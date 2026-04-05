@@ -34,3 +34,8 @@ I get you, but they have to trick us into legal slavery, not force us. If they c
 
 protricity
 The plan was to get us there - which meant the plan to defeat the plan was to keep as much sovereignty as possible
+
+---
+
+Keywords: #dead-at-sea
+

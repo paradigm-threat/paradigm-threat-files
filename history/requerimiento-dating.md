@@ -27,3 +27,8 @@ The Requerimiento (Spanish legal declaration read to indigenous peoples before c
 
 - Bibliographic search: Requerimiento + dating + manuscript history.
 - If evidence for backdating exists, add to timeline with appropriate caveat.
+
+---
+
+Keywords: #requerimiento #dating
+

@@ -53,3 +53,8 @@ grep -n "Plattner\|fourth dimension\|reversed\|left.*right\|passed through" well
 # Davidson's Eyes (remote viewing)
 grep -n "Davidson\|island\|south sea\|displaced.*eyes\|saw.*instead" wells/country-of-the-blind-and-other-stories.txt
 ```
+
+---
+
+Keywords: #wells #downloaded #texts
+

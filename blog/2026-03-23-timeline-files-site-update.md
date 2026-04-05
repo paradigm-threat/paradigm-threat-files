@@ -88,3 +88,8 @@ These changes apply across the timeline reader and related UI (not separate stat
 ---
 
 *Repository commits spanned March 21–23, 2026, across all three `paradigm-threat-*` repos; this entry follows the [blog process](https://paradigmthreat.net/blog/page) of listing changes since the prior dated post.*
+
+---
+
+Keywords: #2026 #site #update #golden #rollout #mfee #appendices #tts #polish
+

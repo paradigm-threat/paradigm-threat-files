@@ -46,3 +46,8 @@ Ferde Grofé (1892–1972). Paul Whiteman's staff arranger. Orchestrated Rhapsod
 - [Richard Howe: Who wrote Gershwin's Rhapsody in Blue?](https://richardhowe.com/2022/12/27/who-wrote-gershwins-rhapsody-in-blue/)
 - [Wikipedia: Rhapsody in Blue](https://en.wikipedia.org/wiki/Rhapsody_in_Blue)
 - [LOC: Rhapsody in Blue NRPB](https://loc.gov/static/programs/national-recording-preservation-board/documents/RhapsodyInBlue.pdf)
+
+---
+
+Keywords: #ferde #grofe #grof #rhapsody #blue #orchestration
+

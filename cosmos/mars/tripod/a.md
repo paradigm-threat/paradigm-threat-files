@@ -16,3 +16,8 @@ Note: This investigation is a work in progress. Check back soon for more updates
 * Powered by electricity
     * Mechanical arms and 'Heat Ray' are powered by battery source
     * Batteries explode when ruptured, leaving no power source behind
+
+---
+
+Keywords: #martian #tripod
+

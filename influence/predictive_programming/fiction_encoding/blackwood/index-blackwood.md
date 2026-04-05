@@ -49,3 +49,8 @@ grep -n "veil\|thin\|barrier\|peep-hole\|thought\|spiral\|mind.*feel\|mental\|hu
 # John Silence — psychic investigation
 grep -n "Silence\|psychic\|invisible\|entity\|plane\|astral\|occult\|transformation" blackwood/john-silence.txt
 ```
+
+---
+
+Keywords: #blackwood #algernon #downloaded #texts
+

@@ -62,3 +62,8 @@
 - [Video Game Music Daily: Rockface Rumble](https://vgmdaily.wordpress.com/2010/02/19/donkey-kong-country-3-rockface-rumble-eveline-fischer/)
 - [Nintendo Fandom: DKC3 soundtrack](https://nintendo.fandom.com/wiki/Donkey_Kong_Country_3:_Dixie_Kong's_Double_Trouble!/soundtrack)
 - [MusicBrainz: Donkey Kong Country — Wise, Fischer, Beanland](https://musicbrainz.org/release/7dfa5b47-8a96-4790-95e6-ca27cbe82638)
+
+---
+
+Keywords: #eveline #fischer
+

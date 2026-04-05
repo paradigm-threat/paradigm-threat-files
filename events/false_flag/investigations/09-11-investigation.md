@@ -128,3 +128,8 @@ Daniel Ellsberg knew. He leaked the Pentagon Papers. The pattern: spectacular cl
 - Document controlled-demolition evidence (AE911Truth, NIST critiques).
 - Trace predictive-programming references (films, TV) pre-2001.
 - ~~Verify WTC 7 tenant list and CIA floor allocations.~~ **Done:** CIA and DoD on floor 25; tenant list and citations above.
+
+---
+
+Keywords: #september #good-actor #historic #antibody #thesis
+

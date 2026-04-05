@@ -37,3 +37,8 @@ solution is to advocate that government stop the regulation that it’s currentl
 ## Censorship Chat
 
 <ChatRoom channel="influence/censorship" title="Censorship Chatroom"/>
+
+---
+
+Keywords: #facebook #twitter #censor #speech
+

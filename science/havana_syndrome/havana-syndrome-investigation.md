@@ -224,3 +224,8 @@ This is why the intelligence community cannot acknowledge Havana Syndrome withou
 - Strobel, Warren P. & Nakashima, Ellen. "Researcher skeptical of 'Havana syndrome' tested secret weapon on himself." *Washington Post*, Feb 14, 2026.
 - The Insider / 60 Minutes / Der Spiegel. Joint investigation linking GRU Unit 29155, Mar 2024.
 - Crawford, Rick. "Investigating the Intelligence Community's Conclusions on Anomalous Health Incidents." U.S. House Intelligence Committee, Dec 2024.
+
+---
+
+Keywords: #havana #syndrome #gaslighting #public #directed #energy #weapons
+

@@ -81,3 +81,8 @@ I was part of the first TV generation and maybe that means something.  I can loo
 Television and movies are not bad in themselves, any more than a gun is.  A gun is just a piece of metal.  Any technology can become a weapon in the hands of people who use it to lie to us.  We need to peel our eyes from the action on the stage and stand up and look behind the curtain or this play will be repeated over and over until the audience finally wakes up and leaves the theater.. .
 
 Each and every Elite family has to serve a term as a scapegoat, the pharmakos.  The individual members of the family probably don't realize this but each family has to pay the piper and offer up a person or even a generation to be sacrificed.  The Kennedys are a good example of this.  The families are willing to make this deal because they perceive the benefits far outweigh the death and misery of a few of its members.  Perhaps our families were not fooled by this and refused the deal if it was offered.  I have come to believe that is the real reason our families are being targeted, why our history is distorted and hidden.  The Nefarious Elite need to control us "common" "ordinary" "lower class" people.  We have the power to see that the Emperor garbed in gold is really naked.  We just need to learn to use our true sight.    .
+
+---
+
+Keywords: #prophet
+

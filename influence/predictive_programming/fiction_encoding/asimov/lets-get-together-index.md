@@ -81,3 +81,8 @@ Index of passages in `lets-get-together.txt` relevant to the Paradigm Threat inv
 
 - **Full text:** `lets-get-together.txt` (~1,180 lines)
 - **This index:** `lets-get-together-index.md`
+
+---
+
+Keywords: #lets #get #together #let #clue
+

@@ -123,3 +123,8 @@ Moreau's stated method is vivisection—"animals carven and wrought into new sha
 ## Status
 
 **Ongoing.** Documented; cross-book search incomplete (epub extraction limited). Next: primary-source search for Thompson/Acosta interviews; Malibu/LA ritual-violence claims pre-1980.
+
+---
+
+Keywords: #thompson #managed #disclosure #hunter #satan-worshipper #bar #story #potential
+

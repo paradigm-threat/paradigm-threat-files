@@ -42,3 +42,8 @@ This volume focuses on *cultural hologenesis* — the simultaneous emergence of 
 - [Author Index](../README.md)
 - [Homo Schizo II](homo-schizo-ii.md) — companion volume on human behavior
 - [Divine Succession](divine-succession.md) — gods as celestial bodies
+
+---
+
+Keywords: #homo #schizo #cultural #hologenesis
+

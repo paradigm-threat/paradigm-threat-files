@@ -9,3 +9,8 @@
 - [Princess Bride / Goldman / Morgenstern](../princess-bride/index-princess-bride-andronicus-fezzik-investigation.md) — fictional author and abridgement pattern
 - [Fiction presented as fact](../fiction-presented-as-fact-investigation.md)
 - Chronology: [Wuxing and the Five Planets — Dark Ages](/history/chronology/investigations/wuxing-five-planets-dark-ages.md); timeline [Golden Age](https://paradigmthreat.net/timeline/evt-4077-bce-the-golden-age) / Dark Ages entries
+
+---
+
+Keywords: #george #martin
+

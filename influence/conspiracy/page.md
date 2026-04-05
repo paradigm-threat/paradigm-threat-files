@@ -40,6 +40,11 @@ Investigations and essays on suppressed truth and manufactured narratives.
 - [Religion](/influence/conspiracy/religion)
 - [Suppressed Tech Chat](/influence/conspiracy/achat)
 
+
+---
+
+Keywords: #suppressed #fake
+
 ---
 
 ## Folder contents

@@ -159,3 +159,8 @@ Some alternate chronologies posit that the samurai/feudal system was part of a l
 - Document Unification Church–Yakuza links (if any)
 - Cross-reference British consular/commercial networks in Meiji Japan with Yakuza origins (tekiya, bakuto)
 - Add to OUTSTANDING_QUESTIONS (paradigm-threat-timeline) if gaps persist
+
+---
+
+Keywords: #yakuza #remote #control #british #influence #media #capture #technology #containment #japan
+

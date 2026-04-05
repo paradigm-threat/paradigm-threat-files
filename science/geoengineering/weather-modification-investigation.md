@@ -186,3 +186,8 @@ A separate investigation documents the December 9, 2023 Nashville NES substation
 - ENMOD Convention text: [UN Treaty Collection](https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-1&chapter=26&clang=_en)
 - Eastlund Patent US4686605: [Google Patents](https://patents.google.com/patent/US4686605)
 - Operation Popeye Senate hearings: *Prohibiting Military Weather Modification*, 93rd Congress (1974)
+
+---
+
+Keywords: #weather #modification #cloud #seeding #ionospheric #heaters
+

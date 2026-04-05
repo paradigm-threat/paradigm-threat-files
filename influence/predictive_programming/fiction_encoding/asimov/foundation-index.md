@@ -152,3 +152,8 @@ Index of passages in `foundation.txt` relevant to the Paradigm Threat investigat
 
 - **Full text:** `investigations/asimov/full/foundation.txt` (25,853 lines)
 - **This index:** `investigations/asimov/full/foundation-index.md`
+
+---
+
+Keywords: #foundation #clue
+

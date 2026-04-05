@@ -46,3 +46,8 @@ Jackie Chan (Chan Kong-sang) rose from Hong Kong stuntman to global action star.
 - [Vice: Why Jackie Chan Is Unpopular in Hong Kong](https://www.vice.com/en_us/article/wxqkn5/heres-why-jackie-chan-is-really-unpopular-in-hong-kong)
 - [Hollywood Reporter: Chan Calls for Curbs](https://www.hollywoodreporter.com/news/jackie-chan-calls-curbs-political-401946)
 - [IndieWire: Chan Hong Kong Protests](https://www.indiewire.com/features/general/jackie-chan-tony-leung-hong-kong-protests-1202166019/)
+
+---
+
+Keywords: #jackie #chan #political #allegiance #british #hong #kong
+

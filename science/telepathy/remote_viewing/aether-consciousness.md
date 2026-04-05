@@ -29,3 +29,8 @@ If the aether is a physical medium and fields can propagate through it (includin
 
 - Re-read Stargate Mars transcript for physics-relevant descriptors.
 - Search for academic or alternative papers linking ESP/RV to field theories.
+
+---
+
+Keywords: #aether #consciousness #remote #viewing #physics
+

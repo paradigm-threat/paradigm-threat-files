@@ -281,3 +281,8 @@ Radiocarbon dating was adopted dogmatically without adequate testing of its basi
 The evidence from Peter Mungo Jupp's instant fossilization research, E.R. Milton's Alberta power-line incident, Wal Thornhill's fulgurite demonstrations, and the SAFIRE Project's plasma transmutation experiments all point to the same conclusion: **electrical discharge can instantaneously transform organic matter and transmute elements in ways that radiocarbon dating cannot account for.**
 
 The scientific community's dogmatic adoption of radiocarbon dating, combined with its failure to test basic assumptions about electrical activity, represents a fundamental methodological failure that has shaped our understanding of Earth's history for over 75 years.
+
+---
+
+Keywords: #radiocarbon #dating #dogmatic #adoption #electrical #activity #problem
+

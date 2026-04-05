@@ -27,3 +27,8 @@ The name "Joan of Arc" (Jeanne d'Arc) may be a later attribution. Contemporary o
 
 - Library search: trial documents, 15th–16th c. chronicles.
 - Compile first attestation of "d'Arc" and "Joan of Arc" in French and English sources.
+
+---
+
+Keywords: #naming #joan #arc
+

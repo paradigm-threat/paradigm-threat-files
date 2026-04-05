@@ -100,3 +100,8 @@ The American Revolution was **financially enabled** by France (loans, military s
 - Bailyn, B. *The Ideological Origins of the American Revolution*
 - Wood, G.S. *The Creation of the American Republic*
 - Timeline: [London Financial Coup (1664–1694)](/timeline/evt-london-1664-1694-financial-coup), [British Empire](/timeline/evt-british-empire-as-deep-state-instrument)
+
+---
+
+Keywords: #american #revolution #tiny #piece #bigger #puzzle
+

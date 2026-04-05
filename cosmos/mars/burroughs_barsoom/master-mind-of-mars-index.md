@@ -25,3 +25,8 @@ Ras Thavas = "master mind"; brain transplantation; immortality via body-swapping
 - [chessmen-of-mars-index.md](chessmen-of-mars-index.md) — Kaldane/Rykor
 - [fighting-man-of-mars-index.md](fighting-man-of-mars-index.md)
 - Synthetic Men of Mars (PG Australia) — Hormads; Ras Thavas creates artificial humanoids
+
+---
+
+Keywords: #master #mind #mars #clue
+

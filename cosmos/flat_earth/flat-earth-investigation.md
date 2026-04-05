@@ -130,3 +130,8 @@ Flat Earth is referenced in **paradigm-threat-files** in these places:
 - **Who actually believed flat earth:** Lactantius, *Divine Institutes* (antipodes); Cosmas Indicopleustes, *Christian Topography* (c. 547–550); [RationalWiki: History of Flat Earth](https://rationalwiki.org/wiki/History_of_Flat_Earth); [Britannica: Flat Earth](https://www.britannica.com/topic/flat-Earth).
 - **Modern flat-earth movement:** Samuel Rowbotham ("Parallax"), *Zetetic Astronomy* (1849), *Earth Not a Globe*; Bedford Level experiment; Flat Earth Society (Shenton 1950s, Charles K. Johnson 1972); [Wikipedia: Modern flat Earth beliefs](https://en.wikipedia.org/wiki/Modern_flat_Earth_beliefs); [Smithsonian: Curious History of The International Flat Earth Society](https://www.smithsonianmag.com/smart-news/curious-history-international-flat-earth-society-180957969/).
 - **In-repo:** [co.md](./co.md), [history/chronology](/history/chronology), [history/chronology#Absu](/history/chronology#h3_the_absu_layers_surrounded_the_planets), [cosmos/mars](/cosmos/mars), [Flat Earth: Controlled Opposition or Psyop](https://flatearth.ws/controlled-opposition), [SOTT: The real conspiracy – Flat earth is a psyop](https://www.sott.net/article/327495-The-real-conspiracy-Flat-earth-is-a-psyop).
+
+---
+
+Keywords: #flat #myth #misinterpretation
+

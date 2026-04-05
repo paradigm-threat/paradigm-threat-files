@@ -292,3 +292,8 @@ Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: loca
 8. **Wallace's debunking.** Alfred Russel Wallace, co-discoverer of evolution, wrote an entire book (*Is Mars Habitable?*, 1907) debunking Lowell's inhabited-Mars thesis. Why? What institutional pressure would cause a naturalist of Wallace's stature to devote a book to attacking a colleague's Mars observations?
 
 9. **Heat ray adaptation erasure.** Wells described the Heat-Ray as *invisible*, generated in a chamber of "practically absolute non-conductivity" (capacitor-like) and projected by a parabolic mirror. Most WotW adaptations changed it to a visible sci-fi laser. The 2017 authorised sequel (*The Massacre of Mankind*) kept it invisible—published one year after Havana syndrome (2016) was attributed to directed-energy weapons. Coincidence? Was the sequel's primary function to re-insert an accurate DEW description under the guise of Wellsian fiction? See `wget/wells/massacre-of-mankind-2017-reference.md`.
+
+---
+
+Keywords: #mars #fiction #survey #nonfiction #literature #th
+

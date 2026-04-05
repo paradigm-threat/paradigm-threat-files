@@ -91,3 +91,8 @@ These lines **corroborate** reading the famine as **aggravated by state choices 
 ## Boundary
 
 This investigation **does not** claim that every 19th-century disaster was “only nature” or “only MFEE.” It proposes a **slow biological tail** that could **interact** with deliberate displacement, land seizure, and grain politics — and reserves the Irish case as the clearest example where **closing routes** during stress can be classified as **genocide** regardless of how much of the trigger was blight vs. policy.
+
+---
+
+Keywords: #slow #ecological #collapse #mfee #donner
+

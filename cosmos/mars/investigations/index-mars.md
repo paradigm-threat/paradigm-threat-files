@@ -145,3 +145,8 @@ Arnold has **River of the Dead** (one-way, carries corpses to falls) and **ice v
 - [wotw-telepathic-purge.md](wotw-telepathic-purge.md) — telepathic purge motif
 - [mars-earth-reincarnation-investigation.md](mars-earth-reincarnation-investigation.md) — Mars–Earth reincarnation; mass death on Mars, souls reborn on Earth, time-period correlation (open)
 - [Barsoom README](../burroughs_barsoom/README.md) — Barsoom index overview
+
+---
+
+Keywords: #mars #literature #downloaded #texts
+

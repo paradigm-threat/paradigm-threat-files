@@ -99,3 +99,7 @@ If yes to **off-rail** patterns, **name the drift** and return to **content and 
 
 - **2026-03-30:** Document created from working discussion: content-vs-form rail, drift/hallucination pattern, desperation as compliance, mixed provenance, Gulliver uniqueness vs. claim origin, programming stack vs. innocent tradition, non-universal managed disclosure, assistant checklist.
 
+---
+
+Keywords: #swift #debate #rails #drift #sentiment #record
+

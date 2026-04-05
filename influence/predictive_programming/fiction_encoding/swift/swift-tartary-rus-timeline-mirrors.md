@@ -128,3 +128,8 @@ On this site’s [chronology](/history/chronology/page.md) and [mudflood](/histo
 2. Compare Swift’s **implied map** (Tartary / Brobdingnag / Japan) to **period English maps** — **parallel** geography only.  
 3. If **Pugachev** or **Kulikovo** mirroring is used in prose, **label** the lever: **analogy**, **calendar shift**, **prophecy**, etc.  
 4. **Fomenko primary cite:** locate the **exact** New Chronology (or related) passage the user refers to on **gunpowder / artillery / duplicated medieval wars** and paste into §4.3 or `docs/OUTSTANDING_QUESTIONS.md` as appropriate.
+
+---
+
+Keywords: #swift #tartary #rus #mirrors #rus-timeline #thread
+

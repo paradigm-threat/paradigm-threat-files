@@ -58,3 +58,8 @@ After saving files to a folder, run:
 ./cosmos/cosmology/hollow_earth/scripts/index-downloaded-books.sh /path/to/your/downloads
 ```
 to unzip, extract text, and generate `INDEX.md`.
+
+---
+
+Keywords: #annas-archive-downloads-index #anna #archive #hollow #downloads
+

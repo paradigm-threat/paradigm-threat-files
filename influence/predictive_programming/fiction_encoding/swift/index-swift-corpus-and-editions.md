@@ -33,3 +33,8 @@ The *Select Works* ZIP here is **Volume I only** (see [index-swift-select-works-
 
 - Pull [Project Gutenberg #829](https://www.gutenberg.org/ebooks/829) (and related Swift IDs) into the same tree as a **single `.txt`** for line-stable citation.  
 - Add vols. II–V of *Select Works* 1823 if they surface in Downloads.
+
+---
+
+Keywords: #swift #corpus #editions #edition #map
+

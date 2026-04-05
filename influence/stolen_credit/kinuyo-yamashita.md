@@ -37,3 +37,8 @@ Kinuyo Yamashita — composer of Castlevania (1986), Power Blade, Pocky & Rocky,
 - [Capcom Fandom: Kinuyo Yamashita](https://capcom.fandom.com/wiki/Kinuyo_Yamashita)
 - [VGMO: Kinuyo Yamashita Profile](http://www.vgmonline.net/kinuyoyamashita/)
 - [Square Enix Music: Kinuyo Yamashita Interview](https://www.squareenixmusic.com/features/interviews/kinuyoyamashita.shtml)
+
+---
+
+Keywords: #kinuyo #yamashita
+

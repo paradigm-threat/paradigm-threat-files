@@ -73,3 +73,7 @@ Standard history: [Presbyterianism](https://en.wikipedia.org/wiki/Presbyterianis
 - Primary Ottoman-period embassy list (15th–17th c.) cross-checked with NC dates for “letters unanswered” thesis.
 - Academic monograph on Prester John (e.g. Silverberg, Beckingham, others) — page-level cites for Alexander III letter and Jacques de Vitry.
 
+---
+
+Keywords: #prester #john #presbyter #rus #horde #nc #ioannes #christian #east #author #thesis
+

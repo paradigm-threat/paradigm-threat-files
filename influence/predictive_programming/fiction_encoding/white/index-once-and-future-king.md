@@ -49,3 +49,8 @@ Arthur's life from boyhood (Wart, tutored by Merlin) through kingship, the Round
 
 - [white-saturnian-round-table-investigation.md](white-saturnian-round-table-investigation.md) — thesis: Arthur/Merlin = Jupiter (dual aspect); Grail = Tree of Life; Once and Future King = Sun emergence; Mars, Venus, Earth, Jupiter in "Round Table" nonlinear configuration.
 - [white-excalibur-sulphur-mercury-investigation.md](white-excalibur-sulphur-mercury-investigation.md) — **Sulphur + mercury**: White does *not* mention them; Excalibur (1981) adds an alchemical catechism (Merlin–Morgana). Book–movie differences; managed-disclosure hypothesis (suppressed gold-transmutation knowledge, British Empire / currency protection).
+
+---
+
+Keywords: #once #future #king
+

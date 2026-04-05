@@ -36,3 +36,8 @@ When editing timeline articles, **cite Fomenko only for Fomenko's branch definit
 Long-form pages in paradigm-threat-files — e.g. [mars/page.md](/cosmos/mars/page.md), [mudflood/page.md](/history/mudflood/page.md), [chronology/page.md](/history/chronology/page.md) — describe **Kulikovo** using **Fomenko's labels**: **Royal** = giant **Rus-Horde / Christ-kin** line; **Apostolic** = the **institutional church** that **canonized** and fielded **cannon** against giants. That is **consistent with Fomenko** and **compatible with the author's read** of the institution as Istanbul continuity: at Kulikovo, that **apparatus wins**.
 
 The **[First Crusade / Trojan War](https://paradigmthreat.net/timeline/evt-the-first-crusade-trojan-war)** article uses the **author relabel** for the **earlier** war: **Rus-Horde giants avenging Christ** vs **Istanbul–Troy deep state**, *not* "Royal DNA vs humble apostolic masses." **Do not merge the two battles into one branch diagram** without noting which vocabulary is in force.
+
+---
+
+Keywords: #two #branches #christianity #fomenko #vs #author #paradigm #threat
+

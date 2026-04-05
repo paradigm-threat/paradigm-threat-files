@@ -97,3 +97,8 @@ Per [mars-fiction-survey.md](mars-fiction-survey.md):
 - Lupoff, Richard A. (1965) *Edgar Rice Burroughs: Master of Adventure*
 - Green, Roger Lancelyn (1976) "Introduction" to NEL SF Master Series edition
 - Bleiler, Everett (1948) *The Checklist of Fantastic Literature*
+
+---
+
+Keywords: #arnold #gullivar #jones #reference #lieut #his #vacation #document
+

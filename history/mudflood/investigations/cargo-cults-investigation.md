@@ -168,3 +168,8 @@ Research on the open questions yielded the following. None of this proves the re
 ---
 
 *Investigation file: `history/mudflood/investigations/cargo-cults-investigation.md`. Open theory; no claim that manna = cargo or that 18th/19th c. cargo cults are proven.*
+
+---
+
+Keywords: #cargo #cults #official #behavior #th #manna #redaction
+

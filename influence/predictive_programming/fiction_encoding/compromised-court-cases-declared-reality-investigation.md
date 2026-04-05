@@ -108,3 +108,8 @@ From the Case for the Appellant (Deeks' narrative): Macmillan editor Saul, upon 
 - [Controlled Opposition / Managed Disclosure](/timeline/evt-controlled-opposition) — Disclosure in controlled channels; court outcome as control valve
 - [Investigative Strategy](../../docs/INVESTIGATIVE_STRATEGY.md) — Absence of evidence ≠ proof; burden on overturning party
 - [Investigations index](../index.md)
+
+---
+
+Keywords: #compromised #court #cases #declared #reality
+

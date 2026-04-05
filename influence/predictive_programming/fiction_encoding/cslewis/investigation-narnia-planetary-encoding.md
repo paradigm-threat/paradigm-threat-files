@@ -213,3 +213,8 @@ All of these encode a planetary hierarchy that predates the heliocentric model.
 - Lewis, C. S. *Out of the Silent Planet* (1938), *Perelandra* (1943), *That Hideous Strength* (1945).
 - Lewis, C. S. *The Chronicles of Narnia* (1950–1956).
 - Green, Roger Lancelyn & Hooper, Walter. *C. S. Lewis: A Biography*. HarperCollins, 2002.
+
+---
+
+Keywords: #narnia #planetary #encoding #lewis #saturnian #cosmology
+

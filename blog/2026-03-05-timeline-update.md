@@ -132,3 +132,8 @@ Complete indexes of the first seven Barsoom novels, plus overview:
 
 ---
 *Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#influence](https://paradigmthreat.net/search/influence) · [#mars](https://paradigmthreat.net/search/mars) · [#science](https://paradigmthreat.net/search/science)
+
+---
+
+Keywords: #2026 #update #flexner #report #weather #control #cern #mars #literature #asimov #new
+

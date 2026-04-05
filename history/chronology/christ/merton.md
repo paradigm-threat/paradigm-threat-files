@@ -41,3 +41,8 @@ Not a man to prevaricate, I can't imagine that Merton would remain in a life in 
 There is strong evidence that the Vatican did away with this "meddlesome priest" but will never be called to account.  No surprise there.  Recently I have been looking into the deaths of two other famous individuals who also were probably murdered by the Vatican.  One is Albino Luciani, better known at Pope John Paul I.  The other is Abraham Lincoln.
 
 Stay tuned for updates! .  .
+
+---
+
+Keywords: #merton #meddlesome #priest
+

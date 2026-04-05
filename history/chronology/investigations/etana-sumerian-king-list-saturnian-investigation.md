@@ -144,3 +144,8 @@ Do not collapse this material into either "just metaphor" or "definitely aliens.
 - [ ] Build a motif matrix: Etana ascent vs Ezekiel wheel/chariot imagery vs Vedic vimana reports vs later sky-bridge motifs.
 - [ ] Separate literal-observation claims from later theological overlays by manuscript age and redaction layer.
 - [ ] Add timeline-facing summary entry once this investigation moves from open to phase-2 synthesis.
+
+---
+
+Keywords: #etana #sumerian #king #list #saturnian #wheels #sky
+

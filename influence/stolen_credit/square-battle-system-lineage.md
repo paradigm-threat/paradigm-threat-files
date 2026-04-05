@@ -95,3 +95,8 @@
 - [Wikipedia: Hiroyuki Ito](https://en.wikipedia.org/wiki/Hiroyuki_Ito)
 - [Den of Geek: FF2, 3, 5 not released West](https://www.denofgeek.com/games/why-werent-the-real-final-fantasy-2-3-and-5-released-outside-of-japan/)
 - [Wikipedia: Crystal Tools](https://en.wikipedia.org/wiki/Crystal_Tools)
+
+---
+
+Keywords: #square #battle #system #lineage #final #fantasy #talent #exodus
+

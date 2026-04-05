@@ -169,3 +169,8 @@ The actual documented chain of events:
 - Food 4 Families Project Newsletter (Oct 2023) — https://food4familiesproject.com/newsletter/f/newsletter-october-2023
 - Facebook: QuestionAntiquity page — https://www.facebook.com/QuestionAntiquity/videos/960364731873059/
 - BitChute: "Chernobyl, Super Immune System and Cancer Secrets — David Straight" — https://www.bitchute.com/video/i9Bk4bpTg6TS/
+
+---
+
+Keywords: #ssstwitter-com-1772378839442 #david #straight #chernobyl #probiotics #claims
+

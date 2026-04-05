@@ -142,3 +142,8 @@
 - [Wal Thornhill](../paradigm-threat-timeline/content/15.02.00-wal-thornhill.md) — team member, Electric Universe theorist
 - [Donald Scott](../paradigm-threat-timeline/content/15.10.00-donald-scott.md) — team member, plasma astrophysicist
 - [Anthony Peratt](../paradigm-threat-timeline/content/15.07.00-anthony-peratt.md) — plasma physics context
+
+---
+
+Keywords: #safireproject #safire #project #site
+

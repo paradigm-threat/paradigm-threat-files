@@ -48,3 +48,8 @@ Presented before the *Kronos* and *SISR* journals (both founded later in the 197
 - [Author Index](../README.md)
 - [Velikovsky Affair](velikovsky-affair.md) — earlier history of the Velikovsky controversy
 - [Cosmic Heretics](cosmic-heretics.md) — de Grazia's memoir of the catastrophist movement
+
+---
+
+Keywords: #recollections #fallen #sky #velikovsky #cultural #amnesia
+

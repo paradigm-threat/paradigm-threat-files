@@ -212,3 +212,8 @@ of rock art and petroglyphs as cosmological records — the empirical foundation
 | Images | 17 |
 | PDFs (Peratt papers) | 3 |
 | Total files | ~135 |
+
+---
+
+Keywords: #mythsarehistory #www #com #site
+

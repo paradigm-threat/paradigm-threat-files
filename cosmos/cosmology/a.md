@@ -62,3 +62,8 @@ Note: This investigation is a work in progress. Check back soon for more updates
 ## Cosmology Chatroom
 
 <ChatRoom channel="cosmos/cosmology" title="Cosmology Chatroom"/>
+
+---
+
+Keywords: #plasma #physics #cosmology
+

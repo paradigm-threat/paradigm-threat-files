@@ -242,3 +242,8 @@ Thanks for your patience.
 ---
 
 *Investigation compiled for paradigm-threat-files. **Evidence:** `forum.chronologia.org`, March–April 2026. **§1 and §5 (your thesis paragraph)** are author-reported and are not claims about Russia as a whole. Update as new forum evidence arrives.*
+
+---
+
+Keywords: #russian #perspective #chronologia #forum #resistance #third #story #style #outreach
+

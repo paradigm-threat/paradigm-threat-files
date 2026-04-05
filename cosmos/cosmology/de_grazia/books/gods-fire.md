@@ -55,3 +55,8 @@ The book is a detailed chapter-by-chapter reading of Exodus through the lens of 
 - [Burning of Troy](burning-of-troy.md) — Bronze Age collapse companion
 - [Lately Tortured Earth](lately-tortured-earth.md) — Earth sciences framework
 - [Chaos and Creation](chaos-and-creation.md) — foundational cosmological framework
+
+---
+
+Keywords: #gods #fire #god #moses #management #exodus
+

@@ -93,3 +93,8 @@
 - [ ] Edgar Rice Burroughs—how many Barsoom/Tarzan books use the same framing?
 - [ ] Early science fiction pulps (Gernsback era)—preface conventions?
 - [ ] Horace Walpole *Castle of Otranto* — "found manuscript" claim?
+
+---
+
+Keywords: #fiction #presented #fact #science #fantasy
+

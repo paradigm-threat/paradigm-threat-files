@@ -49,3 +49,8 @@ De Grazia analyzes the iconography of Ares/Mars and lunar deities across Greek, 
 - [Iron Age of Mars](iron-age-of-mars.md) — the 8th–7th century BCE close approaches of Mars
 - [Chaos and Creation](chaos-and-creation.md) — foundational cosmological framework
 - [Divine Succession](divine-succession.md) — celestial mechanics companion
+
+---
+
+Keywords: #disastrous #love #affair #moon #mars
+

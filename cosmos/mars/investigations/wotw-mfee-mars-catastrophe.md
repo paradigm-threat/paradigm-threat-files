@@ -320,3 +320,8 @@ Together, they describe a single event: the catastrophic destruction of Martian 
 - *Ender's Game* (Orson Scott Card, 1985) — telepathic xenocide
 - *Jeff Wayne's The War of the Worlds* PC game (Rage Software, 1998) — "mass telepathic execution"
 - *Archon Defender* (dir. David Batchelor, 2009) — Shard Sensitive purge
+
+---
+
+Keywords: #wotw #mfee #mars #catastrophe #death #nuclear #massacre
+

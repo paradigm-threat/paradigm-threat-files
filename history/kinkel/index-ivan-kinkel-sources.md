@@ -26,3 +26,8 @@ Index of primary and secondary sources on Ivan Kinkel (1883–1945), Bulgarian e
 - [Nenovsky 2015 analysis](nenovsky_Kinkel_EJHET_2015.md) — Full index of Kinkel's economic theory
 - [Gottfried Kinkel (possible family link)](../gottfried-kinkel/gottfried-kinkel.md) — German revolutionary; surname coincidence
 - [Paradigm-threat Kinkel investigations](/home/ari/dev/paradigm-threat-timeline/investigations/kinkel/) — Nenovsky, Gottfried, Ivan
+
+---
+
+Keywords: #ivan #kinkel #sources
+

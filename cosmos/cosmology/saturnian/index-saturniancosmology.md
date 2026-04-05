@@ -304,3 +304,8 @@ proceedings stored as plain-text or HTML files.
 |------|-------------|
 | `bin/` | Main image library (~1 000+ JPG/PNG illustrations) |
 | `files/` | Research text archive (papers, books, transcripts) |
+
+---
+
+Keywords: #saturniancosmology #org #site
+

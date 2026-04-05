@@ -53,3 +53,8 @@ The book covers the founding of *Kronos* and *SISR* journals, conflicts with the
 - [Author Index](../README.md)
 - [Velikovsky Affair](velikovsky-affair.md) — earlier history of the Velikovsky controversy
 - [Recollections of a Fallen Sky](recollections-fallen-sky.md) — companion academic conference volume
+
+---
+
+Keywords: #cosmic #heretics
+

@@ -104,3 +104,8 @@ are not as weak and stupid as they keep telling us we are...
 
 People must be ready to Wake Up. Otherwise you can fire a cannon by their ear and they will not stir. But if they are
 ready, nothing in this world will keep them Asleep.
+
+---
+
+Keywords: #wake-up-neo #wake #neo
+

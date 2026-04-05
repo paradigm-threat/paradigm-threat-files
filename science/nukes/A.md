@@ -1911,3 +1911,8 @@ kg of Uranium.
 Question remains when will all parties agree that nuclear weapons are a hoax?
 
 [Heiwa Co home page](http://www.members.tripod.com/heiwaco/main.htm)
+
+---
+
+Keywords: #nuclear #scam #galen #winsor
+

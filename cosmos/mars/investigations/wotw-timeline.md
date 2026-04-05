@@ -429,3 +429,8 @@ Their masters on Mars watched through the crystal surveillance network as fifty 
 They were never going to be allowed to return.
 
 > See `wotw-forbidden-blood.md` for the full analysis of blood-feeding as discipline collapse.
+
+---
+
+Keywords: #wotw #war #worlds #technical
+

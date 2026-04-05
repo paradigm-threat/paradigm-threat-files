@@ -244,3 +244,8 @@ Fascism in Italy was sold as **restoration of Roman greatness**, not as a new id
 - Jesus in Japan: [Kirisuto no Haka](https://en.wikipedia.org/wiki/Kirisuto_no_Haka), [Nippon.com](https://www.nippon.com/en/japan-topics/g00658/), [Oddity Central](https://www.odditycentral.com/pics/ancient-documents-claim-jesus-lived-to-be-106-and-died-in-japan.html), Takenouchi documents (Kano 1935 — forgery assessment). “Christians dismiss as blasphemy”: [HuffPost](https://www.huffpost.com/entry/japanese-jesus-christ-legend_n_1844349). Occupation: [Bombing of Aomori](https://en.wikipedia.org/wiki/Bombing_of_Aomori_in_World_War_II), [Camp Hachinohe / Haugen](https://en.wikipedia.org/wiki/JGSDF_Camp_Hachinohe). [Shinto Directive](https://en.wikipedia.org/wiki/Shinto_Directive) (SCAPIN 448, Dec 1945).
 - Mussolini and Romanità: [History Rise](https://historyrise.com/how-mussolini-used-ancient-rome-in-fascist-propaganda/), [Wikipedia: Propaganda in Fascist Italy](https://en.wikipedia.org/wiki/Propaganda_in_Fascist_Italy), [Cambridge: Augustan Exhibition](https://www.cambridge.org/core/journals/modern-italy/article/abs/mussolini-and-the-idealisation-of-empire-the-augustan-exhibition-of-romanita/).
 - Nazi occult: [Wikipedia: Thule Society](https://en.wikipedia.org/wiki/Thule_Society), [Wikipedia: Nazi occultism](https://en.wikipedia.org/wiki/Nazi_occultism), [Ahnenerbe](https://allthatsinteresting.com/ahnenerbe); [Vril Society investigation](/governance/war/investigations/vril-society.md).
+
+---
+
+Keywords: #wwii #fascism #religious #apparatus #japan #italy #germany #religious-apparatus #takeover
+

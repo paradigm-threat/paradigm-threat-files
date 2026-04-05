@@ -120,3 +120,8 @@ Author's existing analysis (from MFEE article and chronology page):
 - [chronologia.org old_maps](https://chronologia.org/en/old_maps/index.html)
 - [chronologia.org 14_great_tartary](https://chronologia.org/en/e_books/14_great_tartary.html)
 - paradigm-threat-files: `history/maps/`, `history/chronology/tartaria/`
+
+---
+
+Keywords: #tartarian #maps #forbidden #disclosure #downloads
+

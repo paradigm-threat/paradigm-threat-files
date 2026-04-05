@@ -53,3 +53,8 @@
 ---
 
 *Topics:* [#history](https://paradigmthreat.net/search/history) · [#chronology](https://paradigmthreat.net/search/chronology) · [#book](https://paradigmthreat.net/search/book) · [#religion](https://paradigmthreat.net/search/religion) · [#influence](https://paradigmthreat.net/search/influence) · [#suppression](https://paradigmthreat.net/search/suppression)
+
+---
+
+Keywords: #2026 #prester #john #religious #edition #brand #slogans #nc #dossier #jacob #ladder #eckhart #cathar #khazar #suppression #chronologia #perspective #site #april
+

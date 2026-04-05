@@ -46,3 +46,8 @@ The Nefarious Elite are too smart to send men in black uniforms running into you
 However, this home book policing might occur in the future.  Who can tell?  If  so, I hope I'm dead by then.  If not, I fully intend to stand with my books and we'll all go up in flames together.
 
 By the way, please don't get in touch with me regarding David Icke.  I mention his book not to get into the question of his veracity but simply as an example.   And my house definitely would be much cleaner if I got rid of my books and stopped wasting time reading.  But that's not going to happen.
+
+---
+
+Keywords: #something-in-books #be #something #books
+

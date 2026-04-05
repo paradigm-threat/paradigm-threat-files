@@ -9,3 +9,8 @@ following generations of historians began to sincerely perceive Joan of Arc and 
 characters. In our reconstruction Deborah = Joan of Arc lived in the epoch of the Ottoman conquest in the world of the
 XV-XVI cc. That is why the original geography of the events connected to her campaigns was much wider than the modern
 version.
+
+---
+
+Keywords: #painting-joan-of-arc-stake
+

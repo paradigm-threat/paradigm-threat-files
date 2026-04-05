@@ -27,3 +27,8 @@ The flat content structure with consistent numbering, root-relative media paths,
 
 ---
 *Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#events](https://paradigmthreat.net/search/events) · [#history](https://paradigmthreat.net/search/history)
+
+---
+
+Keywords: #2026 #pre #launch #buildup #february #pre-launch #build #media #structure #content
+

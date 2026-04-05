@@ -26,3 +26,8 @@ Thompson's account of covering the Honolulu Marathon (1980) and a fishing expedi
 
 - [Main index](index-thompson-main.md)
 - [Fear and Loathing](index-fear-and-loathing.md) — Same gonzo/sports-assignment structure
+
+---
+
+Keywords: #curse #lono
+

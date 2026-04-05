@@ -109,3 +109,8 @@ Article TTS now matches timeline overlay capabilities:
 
 ---
 *Topics:* [#governance](https://paradigmthreat.net/search/governance) · [#influence](https://paradigmthreat.net/search/influence) · [#stolen_credit](https://paradigmthreat.net/search/stolen_credit) · [#war](https://paradigmthreat.net/search/war)
+
+---
+
+Keywords: #2026 #update #stolen #credit #suite #yakuza #site #ssr #tts #improvements
+

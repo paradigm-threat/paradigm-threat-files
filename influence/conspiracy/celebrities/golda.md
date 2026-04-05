@@ -135,3 +135,8 @@ Before partitioning Palestine, Britain imposed similar divide-and-rule structure
 - [GCHQ: Palestine Mandate](https://www.gchq.gov.uk/information/palestine-mandate)
 - [Pnina Lahav: The Only Woman in the Room](https://www.degruyter.com/document/doi/10.1515/9780691239316/html)
 - [History.com: Golda Meir Iron Lady](https://www.history.com/articles/golda-meir-israel-prime-minister-iron-lady-yom-kippur-war)
+
+---
+
+Keywords: #golda #meir #identity #british #orchestration #israel #creation
+

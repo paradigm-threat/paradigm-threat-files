@@ -13,6 +13,11 @@ Manufactured dissent designed to look like real opposition—led and controlled 
 
 If a good number of people know it—they most likely want them to know it.
 
+
+---
+
+Keywords: #controlled #opposition
+
 ---
 
 ## Folder contents

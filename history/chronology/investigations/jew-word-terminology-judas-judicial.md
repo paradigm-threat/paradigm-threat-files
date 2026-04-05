@@ -99,3 +99,8 @@ The thesis in §4 does not require overturning these roots; it claims **narrativ
 ---
 
 *Last updated: 2026-03-18. Thesis: Latin-first, Greek-second, crucifixion-only generative moment; mainstream chain in appendix.*
+
+---
+
+Keywords: #jew #word #terminology #judas #judicial #crucifixion #moment #latin #greek #church
+

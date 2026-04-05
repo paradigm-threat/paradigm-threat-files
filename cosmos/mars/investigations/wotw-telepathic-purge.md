@@ -358,3 +358,8 @@ This connects Brandenburg's hard nuclear physics directly to the telepathic purg
 - wotw-martian-analysis.md — Martian technical analysis
 - wotw-martian-civilization.md — Cross-source intelligence dossier
 - wotw-timeline.md — Invasion chronology
+
+---
+
+Keywords: #wotw #telepathic #purge #pattern #across #mars #fiction
+

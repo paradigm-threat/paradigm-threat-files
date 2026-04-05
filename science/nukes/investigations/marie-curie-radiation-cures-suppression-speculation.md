@@ -195,3 +195,8 @@ Byers **died** **two** **years** **before** **Curie**; together they **bookend**
 The book-facing timeline entry [Marie Curie: Field Radiography and the Radiation Martyr Arc](https://paradigmthreat.net/timeline/evt-marie-curie-radiography-radiation-narrative) now asserts the working conclusion this thread had kept provisional: Curie and Byers were very likely assassinated to bottle radiation knowledge leaking to the public through their visibility; competing story lines collapse to one hinge—do you believe them or the official indictments—and no adversarial study of military–industrial motives at the time has surfaced in this research (see §7.4–7.5). State communism’s habit of centralizing science and fear, plus the fiction / “cure” trope backlog (§4–§5), are treated there as the same cultural machinery that teaches people to fear the ray and never seek it outside authorized channels.
 
 The documented core of Curie’s WWI service remains mobile diagnostic X-ray support. The Byers case still anchors interwar radium commerce with autopsy, 1965 exhumation, and 1990 *JAMA* dosimetry—not newspapers alone. Isotopic or archival proof of contract killing or substituted poison is still absent; forensic re-analysis could support or weaken the timeline read. Next steps unchanged: archive-first work, DU site forensics, funding histories, fiction corpus for §5, and any remaining physical evidence chain for Byers if jurisdiction allows.
+
+---
+
+Keywords: #marie #curie #radiation #cures #suppression #battlefield #post-war #nuclear #narrative
+

@@ -301,3 +301,8 @@ tests, the presence of antibodies is considered an indication that the person is
 [**GNM Testimonials**](../documents/testimonials.html#Lungs)
 
 [SOURCE](https://learninggnm.com/SBS/documents/lungs.html#Bronchia_Mucosa_PCL_Pneumonia)
+
+---
+
+Keywords: #virus
+

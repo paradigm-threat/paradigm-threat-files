@@ -163,3 +163,8 @@ Key figures: **David Talbott** (founder; Saturn myth / mythology research), **Wa
 
 Files live at `thunderbolts.info/www.thunderbolts.info/` relative to this directory.
 The mirror was retrieved with `wget --mirror --convert-links --adjust-extension --page-requisites --no-parent`.
+
+---
+
+Keywords: #thunderbolts #info #site
+

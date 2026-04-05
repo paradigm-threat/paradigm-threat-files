@@ -27,3 +27,8 @@
 ## Site hub
 
 - [Predictive programming — fiction encoding](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/) (parent index on site mirrors `influence/predictive_programming/page.md`).
+
+---
+
+Keywords: #princess #bride
+

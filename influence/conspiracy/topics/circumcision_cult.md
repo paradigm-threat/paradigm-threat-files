@@ -36,3 +36,8 @@ Galatians 5:2–4
 3 Once again I testify to every man who lets himself be circumcised that he is obliged to obey the entire law.
 4 You who want to be justified by the law have cut yourselves off from Christ; you have fallen away from grace.
 ```
+
+---
+
+Keywords: #circumcision-cult #reality #no #person #like #abraham
+

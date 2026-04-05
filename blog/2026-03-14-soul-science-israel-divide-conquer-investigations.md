@@ -80,3 +80,8 @@ New timeline article in chapter 14 (20th century):
 
 ---
 *Topics:* [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history) · [#war](https://paradigmthreat.net/search/war)
+
+---
+
+Keywords: #2026 #soul #science #israel #divide #conquer #divide-and-conquer
+

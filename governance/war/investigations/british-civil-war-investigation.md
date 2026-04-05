@@ -139,3 +139,8 @@ Resources flowed from Crown and Church to Parliament's creditors, soldiers, and 
 - Kishlansky, M. *A Monarchy Transformed: Britain 1603–1714*
 - Parliament UK: [Overview of the Civil War](https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/overview/)
 - Timeline: [London Financial Coup](/timeline/evt-london-1664-1694-financial-coup), [British Empire](/timeline/evt-british-empire-as-deep-state-instrument), [French Revolution](french-revolution-investigation.md)
+
+---
+
+Keywords: #british #civil #war #societized #consolidation #template #western #governance
+

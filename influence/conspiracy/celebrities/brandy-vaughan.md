@@ -45,3 +45,8 @@ Anti-vax community members pointed to her 2019 statement as evidence of premonit
 - [Santa Barbara Independent: Coroner Report](https://independent.com/2021/02/18/santa-barbara-coroner-concludes-anti-vaxxer-brandy-vaughan-died-of-natural-causes)
 - [Learn The Risk: About Founder](https://learntherisk.org/about-us/)
 - [Wirral In It Together: Vaughan death](https://wirralinittogether.blog/2020/12/11/merck-whistleblower-brandy-vaughan-found-dead-cause-of-death-remains-unknown/)
+
+---
+
+Keywords: #brandy #vaughan #death #merck #whistleblower #anti-vax #activist
+

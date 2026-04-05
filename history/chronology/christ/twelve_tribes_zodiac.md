@@ -1,1 +1,6 @@
 12 Tribes of Israel/Disciples of Jesus are based on the 12 signs of the Zodiac
+
+---
+
+Keywords: #twelve-tribes-zodiac
+

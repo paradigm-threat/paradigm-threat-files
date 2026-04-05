@@ -217,3 +217,8 @@ Full-text extracts and `INDEX.md` summaries live next to other archived material
 - **Fed assassination thesis:** Very low in documented primary-source support per major fact-checks; **timing** remains a legitimate **pattern** for further research on **who benefited** from banking reform and maritime insurance — without equating correlation to proven causation.
 - **Titanic as structural precursor to Fed politics (silence of magnates + 1913 window):** **Unproven causation**; some researchers rate the **joint probability** of timing + cast of victims + Morgan’s absence as **highly suggestive** — this investigation records that **weighting** without endorsing it as fact.
 - **Astor survival + Hollywood family rebranding:** **Very low** on public evidence (recovered body; separate lineages for stage names); retained as a **traceable** extreme hypothesis pending forensic work.
+
+---
+
+Keywords: #titanic #sinking #rms #timing #alternative #narratives #aftermath
+

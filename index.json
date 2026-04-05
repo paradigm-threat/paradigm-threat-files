@@ -143,7 +143,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-04T15:14:09Z"
+    "_updated": "2026-04-04T16:11:39Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5608,8 +5608,14 @@
           "_updated": "2026-03-30T13:04:38Z"
         },
         "myth-creatures-textual-record-human-extirpation-investigation.md": {
-          "_title": "Investigation (open): Griffins and other \u201cmyth\u201d fauna in sober historical texts \u2014 extinction by human pressure?",
+          "_title": "Investigation (concluded): Griffins and other \u201cmyth\u201d fauna in sober historical texts \u2014 extinction by human pressure?",
           "_updated": "2026-04-01T19:42:26Z"
+        },
+        "myth-creatures-textual-record-human-extirpation-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JagCdAEecv+HH2AA/SkkGMTxDhkbRg1J3+K2V/RG7Bb0OPXlNTdF61JvgSY7Hh6IAAAA",
+          "_updated": "2026-04-05T12:15:59Z"
         },
         "new-world-naming-mfee-and-colonization-memory.md": {
           "_title": "Investigation (speculative): \u201cNew World,\u201d \u201cnew lands,\u201d and post\u2013mud-flood memory",
@@ -5670,7 +5676,7 @@
           "_title": "Investigation: Wuxing and the Five Planets \u2014 Dark Ages Observational Record",
           "_updated": "2026-03-30T13:04:38Z"
         },
-        "_count": 29
+        "_count": 30
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -6544,7 +6550,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 255
+      "_count": 256
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -8293,7 +8299,7 @@
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive",
       "_updated": "2026-03-28T12:27:19Z"
     },
-    "_count": 551
+    "_count": 552
   },
   "influence": {
     "censorship": {
@@ -10973,6 +10979,6 @@
     },
     "_count": 153
   },
-  "_count": 1928,
-  "_version": "3139081"
+  "_count": 1929,
+  "_version": "f9cca65"
 }

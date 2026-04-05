@@ -17,6 +17,11 @@ See the full [AI Control Investigation](/science/ai/ai-control-investigation) fo
 - **End game:** Voice-command dependency → ultimate remote control of all technology, government, militaries. Austin Powers villain–style takeover.
 - **AI chips:** Same pattern as [microchips](/science/microchips/investigations/microchips-shrinking-technology-investigation)—China cannot reproduce, falling behind. Strange for a major country.
 
+
+---
+
+Keywords: #artificial #intelligence #ghost #machine
+
 ---
 
 ## Folder contents
