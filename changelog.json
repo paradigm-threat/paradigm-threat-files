@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "d2a1491795cdc468e50a79b35142bd3ca270bee8",
+    "date": "2026-04-09T16:28:03.000Z",
+    "message": "fix(.relay): allowedKeys line must be valid for git allowed_signers (no @ in comment)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".relay.yaml",
+        "href": "/.relay.yaml"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "cd06a81befe5315368206c547bd0f47f3730dfb7",
     "date": "2026-04-09T16:25:25.000Z",
     "message": "Add .relay.yaml for relay branch policy (SSH-signed commits on main)",
@@ -2007,19 +2020,6 @@
         "status": "M",
         "path": "science/telepathy/remote_viewing/index-remote-viewing-fiction.md",
         "href": "/science/telepathy/remote_viewing/index-remote-viewing-fiction"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "f9cca65b3bbbd06c3820d00481590f251c188c26",
-    "date": "2026-04-04T16:11:39.000Z",
-    "message": "changelog: include per-file relative links",
-    "files": [
-      {
-        "status": "M",
-        "path": "scripts/generate-changelog.cjs",
-        "href": "/scripts/generate-changelog.cjs"
       }
     ]
   }
