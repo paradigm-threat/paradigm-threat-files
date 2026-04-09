@@ -1,6 +1,29 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "9e5ac401f7e49ae6c9edad5e960ebb9dbb5d53e8",
+    "date": "2026-04-09T15:52:19.000Z",
+    "message": "Add Jade Helm/Cruz and Cruz/Kevin investigations; index in war investigations page.",
+    "files": [
+      {
+        "status": "A",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/page.md",
+        "href": "/governance/war/investigations"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "9849f8aa4230a19e98499fb6c880d0c663171aa6",
     "date": "2026-04-05T17:24:09.000Z",
     "message": "blog: GitHub account and 72 repos deleted (not disabled)",
@@ -1997,19 +2020,6 @@
         "status": "A",
         "path": "history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.png",
         "href": "/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "4d8983a3654d15ba10c25bee2bae5c63c3ed0493",
-    "date": "2026-04-04T14:09:53.000Z",
-    "message": "docs: update linking and site paths",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/LINKING_AND_SITE_PATHS.md",
-        "href": "/docs/LINKING_AND_SITE_PATHS"
       }
     ]
   }

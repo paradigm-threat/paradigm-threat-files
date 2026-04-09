@@ -482,7 +482,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-05T17:24:09Z"
+    "_updated": "2026-04-09T15:52:19Z"
   },
   "cosmos": {
     "cosmology": {
@@ -2332,7 +2332,7 @@
             "velikovsky",
             "comet"
           ],
-          "_updated": "2026-04-09T14:00:09Z"
+          "_updated": "2026-04-09T15:59:35Z"
         },
         "venus-from-saturnian-to-venera-investigation.md": {
           "_title": "Investigation: Venus \u2014 From Saturnian Cosmology to Venera",
@@ -2345,7 +2345,7 @@
             "1982",
             "temperature"
           ],
-          "_updated": "2026-04-09T14:00:09Z"
+          "_updated": "2026-04-09T15:59:35Z"
         },
         "_count": 2
       },
@@ -5945,7 +5945,7 @@
             "jade-helm",
             "investigation-open"
           ],
-          "_updated": "2026-04-09T15:42:24Z"
+          "_updated": "2026-04-09T15:52:19Z"
         },
         "french-revolution-investigation.md": {
           "_title": "Investigation: French Revolution \u2014 Societized Consolidation and Political Reorganization",
@@ -5975,7 +5975,13 @@
             "conspiracy-theory",
             "investigation-open"
           ],
-          "_updated": "2026-04-09T15:51:59Z"
+          "_updated": "2026-04-09T15:52:19Z"
+        },
+        "jade-helm-texas-coup-cruz-hypothesis-investigation.png": {
+          "_width": 1200,
+          "_height": 400,
+          "_lqip": "data:image/webp;base64,UklGRiYAAABXRUJQVlA4IBoAAAAwAQCdASoQAAUABUB8JZwAA3AA/vAqWhAAAA==",
+          "_updated": "2026-04-09T16:01:10Z"
         },
         "jonestown-guyana-1978-cia-latin-america-pattern-investigation.md": {
           "_title": "Jonestown (18 November 1978): disputed narratives, CIA footprint, and Central American parallels",
@@ -6042,7 +6048,7 @@
           "_keywords": [
             "war"
           ],
-          "_updated": "2026-04-05T12:17:42Z"
+          "_updated": "2026-04-09T15:52:19Z"
         },
         "pitcairn-bounty-mutiny-sovereignty-and-narratives.md": {
           "_title": "Pitcairn: Bounty mutiny narratives, sovereignty, and modern law",
@@ -6162,7 +6168,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 21
+        "_count": 22
       },
       "military_police.jpg": {
         "_width": 960,
@@ -6273,9 +6279,9 @@
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 66
+      "_count": 67
     },
-    "_count": 501
+    "_count": 502
   },
   "history": {
     "chronology": {
@@ -13673,6 +13679,6 @@
     },
     "_count": 153
   },
-  "_count": 1935,
-  "_version": "9849f8a"
+  "_count": 1936,
+  "_version": "9e5ac40"
 }
