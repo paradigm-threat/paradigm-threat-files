@@ -482,7 +482,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-05T17:14:11Z"
+    "_updated": "2026-04-05T17:24:09Z"
   },
   "cosmos": {
     "cosmology": {
@@ -2322,7 +2322,36 @@
       },
       "_count": 3
     },
-    "_count": 267
+    "venus": {
+      "investigations": {
+        "index-venus.md": {
+          "_title": "Venus Investigations \u2014 Index",
+          "_keywords": [
+            "venus",
+            "venera",
+            "velikovsky",
+            "comet"
+          ],
+          "_updated": "2026-04-09T14:00:09Z"
+        },
+        "venus-from-saturnian-to-venera-investigation.md": {
+          "_title": "Investigation: Venus \u2014 From Saturnian Cosmology to Venera",
+          "_keywords": [
+            "venus",
+            "venera",
+            "velikovsky",
+            "comet",
+            "saturnian",
+            "1982",
+            "temperature"
+          ],
+          "_updated": "2026-04-09T14:00:09Z"
+        },
+        "_count": 2
+      },
+      "_count": 2
+    },
+    "_count": 269
   },
   "events": {
     "911": {
@@ -5904,6 +5933,20 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
+        "cruz-kevin-malone-deep-state-hypothesis-investigation.md": {
+          "_title": "Investigation: Ted Cruz, Kevin Malone (*The Office*), and the \u201cHijacked Plan\u201d Hypothesis",
+          "_keywords": [
+            "ted-cruz",
+            "kevin-malone",
+            "the-office",
+            "2016-primary",
+            "meme",
+            "deep-state-hypothesis",
+            "jade-helm",
+            "investigation-open"
+          ],
+          "_updated": "2026-04-09T15:42:24Z"
+        },
         "french-revolution-investigation.md": {
           "_title": "Investigation: French Revolution \u2014 Societized Consolidation and Political Reorganization",
           "_keywords": [
@@ -5915,6 +5958,24 @@
             "reorganization"
           ],
           "_updated": "2026-04-05T12:17:42Z"
+        },
+        "jade-helm-texas-coup-cruz-hypothesis-investigation.md": {
+          "_title": "Investigation: Jade Helm 15 \u2014 \u201cReal Op\u201d Hypothesis, Texas, and the 2016 GOP Field",
+          "_keywords": [
+            "jade-helm",
+            "texas",
+            "ted-cruz",
+            "2012",
+            "angry-birds",
+            "2016-primary",
+            "volcano",
+            "apocalyptic-rhetoric",
+            "deep-state-hypothesis",
+            "military-exercise",
+            "conspiracy-theory",
+            "investigation-open"
+          ],
+          "_updated": "2026-04-09T15:51:59Z"
         },
         "jonestown-guyana-1978-cia-latin-america-pattern-investigation.md": {
           "_title": "Jonestown (18 November 1978): disputed narratives, CIA footprint, and Central American parallels",
@@ -6101,7 +6162,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 19
+        "_count": 21
       },
       "military_police.jpg": {
         "_width": 960,
@@ -6212,9 +6273,9 @@
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 64
+      "_count": 66
     },
-    "_count": 499
+    "_count": 501
   },
   "history": {
     "chronology": {
@@ -13612,6 +13673,6 @@
     },
     "_count": 153
   },
-  "_count": 1931,
-  "_version": "bce5afd"
+  "_count": 1935,
+  "_version": "9849f8a"
 }
