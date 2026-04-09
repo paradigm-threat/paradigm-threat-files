@@ -5,6 +5,8 @@
 
 **Parallel file:** [Cruz / Kevin Malone / deep-state hypothesis](./cruz-kevin-malone-deep-state-hypothesis-investigation.md) (meme layer, compromise narrative, cross-links to this exercise).
 
+![Jade Helm 15 — investigation header graphic](/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png?w=1200 '{"className":"rounded-md m-auto"}')
+
 ---
 
 ## Investigator sentiment and core thesis (preserved)
