@@ -482,7 +482,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-09T16:28:03Z"
+    "_updated": "2026-04-09T16:28:35Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5978,9 +5978,9 @@
           "_updated": "2026-04-09T16:01:31Z"
         },
         "jade-helm-texas-coup-cruz-hypothesis-investigation.png": {
-          "_width": 1200,
-          "_height": 400,
-          "_lqip": "data:image/webp;base64,UklGRiYAAABXRUJQVlA4IBoAAAAwAQCdASoQAAUABUB8JZwAA3AA/vAqWhAAAA==",
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAAsABUB8JbACdACPWYAAANyHeKZIawziMvM6m6/1IeNFk8EP4EgImSTGK2xDo6r0OAAA",
           "_updated": "2026-04-09T16:01:31Z"
         },
         "jonestown-guyana-1978-cia-latin-america-pattern-investigation.md": {
@@ -13680,5 +13680,5 @@
     "_count": 153
   },
   "_count": 1936,
-  "_version": "d2a1491"
+  "_version": "ae56042"
 }
