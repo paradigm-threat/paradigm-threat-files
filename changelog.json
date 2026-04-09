@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "cd06a81befe5315368206c547bd0f47f3730dfb7",
+    "date": "2026-04-09T16:25:25.000Z",
+    "message": "Add .relay.yaml for relay branch policy (SSH-signed commits on main)",
+    "files": [
+      {
+        "status": "A",
+        "path": ".relay.yaml",
+        "href": "/.relay.yaml"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "d95fbdf80dc222a1da28d10b14206b8dc068a23f",
     "date": "2026-04-09T16:01:31.000Z",
     "message": "Jade Helm investigation: embed header PNG alongside markdown.",
@@ -2007,19 +2020,6 @@
         "status": "M",
         "path": "scripts/generate-changelog.cjs",
         "href": "/scripts/generate-changelog.cjs"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "31390817ca9ef6bf4ee26c28c458daa19bc64784",
-    "date": "2026-04-04T15:14:09.000Z",
-    "message": "Chronology: update investigations index.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
       }
     ]
   }
