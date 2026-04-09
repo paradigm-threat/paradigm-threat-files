@@ -482,7 +482,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-09T15:52:19Z"
+    "_updated": "2026-04-09T16:01:31Z"
   },
   "cosmos": {
     "cosmology": {
@@ -2332,7 +2332,7 @@
             "velikovsky",
             "comet"
           ],
-          "_updated": "2026-04-09T15:59:35Z"
+          "_updated": "2026-04-09T16:19:57Z"
         },
         "venus-from-saturnian-to-venera-investigation.md": {
           "_title": "Investigation: Venus \u2014 From Saturnian Cosmology to Venera",
@@ -2345,7 +2345,7 @@
             "1982",
             "temperature"
           ],
-          "_updated": "2026-04-09T15:59:35Z"
+          "_updated": "2026-04-09T16:19:57Z"
         },
         "_count": 2
       },
@@ -5975,13 +5975,13 @@
             "conspiracy-theory",
             "investigation-open"
           ],
-          "_updated": "2026-04-09T15:52:19Z"
+          "_updated": "2026-04-09T16:01:31Z"
         },
         "jade-helm-texas-coup-cruz-hypothesis-investigation.png": {
           "_width": 1200,
           "_height": 400,
           "_lqip": "data:image/webp;base64,UklGRiYAAABXRUJQVlA4IBoAAAAwAQCdASoQAAUABUB8JZwAA3AA/vAqWhAAAA==",
-          "_updated": "2026-04-09T16:01:10Z"
+          "_updated": "2026-04-09T16:01:31Z"
         },
         "jonestown-guyana-1978-cia-latin-america-pattern-investigation.md": {
           "_title": "Jonestown (18 November 1978): disputed narratives, CIA footprint, and Central American parallels",
@@ -13680,5 +13680,5 @@
     "_count": 153
   },
   "_count": 1936,
-  "_version": "9e5ac40"
+  "_version": "d95fbdf"
 }
