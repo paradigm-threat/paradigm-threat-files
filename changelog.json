@@ -1,6 +1,24 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "d95fbdf80dc222a1da28d10b14206b8dc068a23f",
+    "date": "2026-04-09T16:01:31.000Z",
+    "message": "Jade Helm investigation: embed header PNG alongside markdown.",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png",
+        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "9e5ac401f7e49ae6c9edad5e960ebb9dbb5d53e8",
     "date": "2026-04-09T15:52:19.000Z",
     "message": "Add Jade Helm/Cruz and Cruz/Kevin investigations; index in war investigations page.",
@@ -2002,24 +2020,6 @@
         "status": "M",
         "path": "history/chronology/investigations/index-investigations.md",
         "href": "/history/chronology/investigations/index-investigations"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "c8e53ac001d2ef23aacf25dd789ec55e57b3af09",
-    "date": "2026-04-04T14:44:57.000Z",
-    "message": "Add Etana investigation header image",
-    "files": [
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md",
-        "href": "/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.png",
-        "href": "/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.png"
       }
     ]
   }
