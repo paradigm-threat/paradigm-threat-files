@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-10T01:43:32Z"
+    "_updated": "2026-04-10T12:23:55Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5955,7 +5955,7 @@
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAAsABUB8JQBWACPRznrgdE0IAP4+T9d/z/0JRp9BAlHatPsZ1pBLXMPlERjxNWgFD8LODP6/lG4ISDTwT0lcAAA=",
-          "_updated": "2026-04-10T01:28:35Z"
+          "_updated": "2026-04-10T12:23:55Z"
         },
         "cruz-kevin-malone-deep-state-hypothesis-investigation2.png": {
           "_width": 1536,
@@ -5967,7 +5967,7 @@
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JZgC7ADGRmULSMAA/s8fFM8yIYsOd86dPhFN0aHgGKQMdtBoJjRGqJX2mnFz6F0amQowls4rAAAA",
-          "_updated": "2026-04-10T01:05:20Z"
+          "_updated": "2026-04-10T12:23:55Z"
         },
         "cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg": {
           "_width": 1584,
@@ -6003,7 +6003,7 @@
             "conspiracy-theory",
             "investigation-open"
           ],
-          "_updated": "2026-04-10T00:42:29Z"
+          "_updated": "2026-04-10T12:23:55Z"
         },
         "jade-helm-texas-coup-cruz-hypothesis-investigation.png": {
           "_width": 1536,
@@ -13708,5 +13708,5 @@
     "_count": 153
   },
   "_count": 1941,
-  "_version": "4f0128b"
+  "_version": "99d18d4"
 }
