@@ -459,6 +459,10 @@
       "_title": "Relay network engineering shift; GitHub and crates.io lockout; griffin timeline merge; site and files updates \u2014 April 5, 2026",
       "_updated": "2026-04-05T12:00:00Z"
     },
+    "2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md": {
+      "_title": "Jade Helm and Cruz / Kevin investigations; Venus probes; Relay branch policy; site TTS and mobile layout \u2014 April 2026",
+      "_updated": "2026-04-10T12:00:00Z"
+    },
     "page.md": {
       "_title": "Blog",
       "_keywords": [
@@ -466,7 +470,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 32
+    "_count": 33
   },
   "book": {
     "page.md": {
@@ -482,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-10T00:57:19Z"
+    "_updated": "2026-04-10T00:59:20Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5945,19 +5949,19 @@
             "jade-helm",
             "investigation-open"
           ],
-          "_updated": "2026-04-10T00:57:19Z"
+          "_updated": "2026-04-10T00:59:20Z"
         },
         "cruz-kevin-malone-deep-state-hypothesis-investigation.png": {
           "_width": 1536,
           "_height": 1024,
-          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAsABUB8JZQAApG3ywcSAAD+ztkGakQBmRcOh4KcLRJzZ37hlQFYbiuaEPPhMoI67F3X6DgQtDmQlwAAAA==",
-          "_updated": "2026-04-10T00:42:29Z"
+          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JZgC7ADGRmULSMAA/s8fFM8yIYsOd86dPhFN0aHgGKQMdtBoJjRGqJX2mnFz6F0amQowls4rAAAA",
+          "_updated": "2026-04-10T00:59:20Z"
         },
         "cruz-kevin-malone-deep-state-hypothesis-investigation2.png": {
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JZgCdADiTZGzkjjIAM4kMxUlzbXncNu7MleZ6UOEaiIwaANsUibdO8L+8Jsw8JKIu9kWUAA=",
-          "_updated": "2026-04-10T00:40:48Z"
+          "_updated": "2026-04-10T00:59:20Z"
         },
         "cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg": {
           "_width": 1584,
@@ -13697,6 +13701,6 @@
     },
     "_count": 153
   },
-  "_count": 1939,
-  "_version": "8b85aa5"
+  "_count": 1940,
+  "_version": "fe23cdc"
 }
