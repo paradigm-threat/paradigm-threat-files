@@ -1,10 +1,10 @@
-# Jade Helm and Cruz / Kevin investigations; Venus probes; Relay branch policy; site TTS and mobile layout — April 2026
+# Jade Helm and Cruz / Kevin investigations; Venus probes; Relay branch policy; Paradigm site TTS; Forgotten Future GitLab Pages — April 2026
 
 *April 10, 2026 — Paradigm Threat*
 
 ---
 
-**Summary.** Since the [April 5, 2026](https://paradigmthreat.net/blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates) post, `git log` from **2026-04-06** forward across **paradigm-threat-files**, **paradigm-threat-timeline**, and **paradigm-threat-site** shows major new **governance / war** investigations (Jade Helm–era Texas and a Ted Cruz / *Office* Kevin Malone hypothesis track), a **cosmos / Venus** investigations index plus a **Saturnian-to-Venera** probe article, **Relay**-aligned **`.relay.yaml`** on `main`, and **site** work on **Article TTS**, **resume** chrome, and **mobile** layout. **Relay** source repos (**relay-gateway** / **relay-master**, plus **relay-client-web**, **relay-runtime**, **relay-client-android**, **relay-template**): **no commits dated after 2026-04-05**—the latest gateway/master integration is still the **April 5** drop (listed below for a full **since-2026-04-05** inventory). **Paradigm** repos picked up **`.relay.yaml`** later in the week to match that policy.
+**Summary.** Since the [April 5, 2026](https://paradigmthreat.net/blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates) post, `git log` from **2026-04-06** forward across **paradigm-threat-files**, **paradigm-threat-timeline**, and **paradigm-threat-site** shows major new **governance / war** investigations (Jade Helm–era Texas and a Ted Cruz / *Office* Kevin Malone hypothesis track), a **cosmos / Venus** investigations index plus a **Saturnian-to-Venera** probe article, **Relay**-aligned **`.relay.yaml`** on `main`, and **Paradigm** **site** work on **Article TTS**, **resume** chrome, and **mobile** layout. Under **`/home/ari/dev/ff`**, **ff-story**, **ff-teaser**, and **forgotten-future-site** gained **GitLab Pages** static exports (mirroring the **paradigm-threat-files** pattern) and the public site was pointed at those origins, with follow-up **routing** and **git-history** hygiene. **Relay** source repos (**relay-gateway** / **relay-master**, plus **relay-client-web**, **relay-runtime**, **relay-client-android**, **relay-template**): **no commits dated after 2026-04-05**—the latest gateway/master integration is still the **April 5** drop (listed below). **Paradigm** repos picked up **`.relay.yaml`** later in the week to match that policy.
 
 ---
 
@@ -29,6 +29,25 @@ No **`content/`** or **`events.json`** changes landed in this window. The repo r
 ## paradigm-threat-site
 
 Commits refined **Article** text-to-speech **overlay** layout and the **resume** control cluster, improved **hub** bottom chrome (including **scroll-hide** behavior and a **1180px** large-layout breakpoint), and tightened **mobile** narrow layout: **footer** wrap, **overflow** clipping, **TTS** dock, and **navbar** behavior.
+
+---
+
+## Forgotten Future — `ff-story`, `ff-teaser`, `forgotten-future-site` (`/home/ari/dev/ff`)
+
+**Summary (`git log --since=2026-04-06`).** Narrative repos **[ff-story](https://gitlab.com/clevertree/ff-story)** and **[ff-teaser](https://gitlab.com/clevertree/ff-teaser)** each picked up a **GitLab CI** **Pages** job publishing a **static tree** (same general approach as **paradigm-threat-files**). The **[forgotten-future-site](https://gitlab.com/clevertree/forgotten-future-site)** Next app then added **static export** wiring, pointed the **lore / manuscript** stack at the **published Pages** origins for story and teaser, and refreshed **`git-history.json`** after those landings; a later commit tightened **same-origin** **API** base behavior, **UTC** commit times in history, and **apex → www** redirect handling.
+
+**Published Pages (defaults in site code):**
+
+- **ff-story:** [https://ff-story-6a84a5.gitlab.io](https://ff-story-6a84a5.gitlab.io) — raw manuscript tree for static builds.  
+- **ff-teaser:** [https://ff-teaser-12140e.gitlab.io](https://ff-teaser-12140e.gitlab.io) — teaser static tree.  
+
+**Public marketing / reader site:** [https://forgottenfuturebook.com](https://forgottenfuturebook.com) (canonical **www** behavior described in the `5e02a7a` fix commit).
+
+**Commits (newest first):**
+
+- **forgotten-future-site** — `5e02a7a` same-origin API base, UTC commit times, apex→www redirect; `ad796fa` / `374f841` / `ac9a7fc` **git-history.json** sync; `66b3c95` published GitLab Pages URLs for **ff-story** / **ff-teaser**; `9e4e030` GitLab Pages static export and lore stack → GitLab.  
+- **ff-story** — `86fa5c9` CI: GitLab Pages job (static tree).  
+- **ff-teaser** — `8e0692a` CI: GitLab Pages job (static tree).  
 
 ---
 
