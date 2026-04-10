@@ -1,6 +1,24 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "8b85aa58c60e043ff04cd1db788c28a9b524955d",
+    "date": "2026-04-10T00:57:19.000Z",
+    "message": "Cruz/Kevin investigation: Getty rally photo via PopSugar; investigator note on sign holder",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
+        "href": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "d01b577ad2e2e565ba5bd165e69b441a9312d011",
     "date": "2026-04-10T00:42:29.000Z",
     "message": "Investigations: Cruz/Kevin methodology, Gossip quote, header PNG; Jade Helm cross-link; index",
@@ -121,24 +139,6 @@
         "status": "M",
         "path": "governance/war/investigations/page.md",
         "href": "/governance/war/investigations"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "9849f8aa4230a19e98499fb6c880d0c663171aa6",
-    "date": "2026-04-05T17:24:09.000Z",
-    "message": "blog: GitHub account and 72 repos deleted (not disabled)",
-    "files": [
-      {
-        "status": "M",
-        "path": "blog/2026-03-30-github-ban-gitlab-migration-and-repo-updates.md",
-        "href": "/blog/2026-03-30-github-ban-gitlab-migration-and-repo-updates"
-      },
-      {
-        "status": "M",
-        "path": "blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md",
-        "href": "/blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates"
       }
     ]
   }

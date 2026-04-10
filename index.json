@@ -482,7 +482,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-10T00:42:29Z"
+    "_updated": "2026-04-10T00:57:19Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5945,19 +5945,25 @@
             "jade-helm",
             "investigation-open"
           ],
-          "_updated": "2026-04-10T00:42:29Z"
+          "_updated": "2026-04-10T00:57:19Z"
         },
         "cruz-kevin-malone-deep-state-hypothesis-investigation.png": {
           "_width": 1536,
           "_height": 1024,
-          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JZgCdADiTZGzkjjIAM4kMxUlzbXncNu7MleZ6UOEaiIwaANsUibdO8L+8Jsw8JKIu9kWUAA=",
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAsABUB8JZQAApG3ywcSAAD+ztkGakQBmRcOh4KcLRJzZ37hlQFYbiuaEPPhMoI67F3X6DgQtDmQlwAAAA==",
           "_updated": "2026-04-10T00:42:29Z"
+        },
+        "cruz-kevin-malone-deep-state-hypothesis-investigation2.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JZgCdADiTZGzkjjIAM4kMxUlzbXncNu7MleZ6UOEaiIwaANsUibdO8L+8Jsw8JKIu9kWUAA=",
+          "_updated": "2026-04-10T00:40:48Z"
         },
         "cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg": {
           "_width": 1584,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAoABUB8JYwAATIe9n4AAP4jJdUG0tbkRWkbKldzeqQyWed+QTf63iY+WxgAPoAC/8M6gAA=",
-          "_updated": "2026-04-10T00:56:09Z"
+          "_updated": "2026-04-10T00:57:19Z"
         },
         "french-revolution-investigation.md": {
           "_title": "Investigation: French Revolution \u2014 Societized Consolidation and Political Reorganization",
@@ -6180,7 +6186,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 24
+        "_count": 25
       },
       "military_police.jpg": {
         "_width": 960,
@@ -6291,9 +6297,9 @@
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 69
+      "_count": 70
     },
-    "_count": 504
+    "_count": 505
   },
   "history": {
     "chronology": {
@@ -13691,6 +13697,6 @@
     },
     "_count": 153
   },
-  "_count": 1938,
-  "_version": "d01b577"
+  "_count": 1939,
+  "_version": "8b85aa5"
 }
