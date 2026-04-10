@@ -104,6 +104,9 @@ The investigator’s **memory** of **bodysuit** accusations tied to **Kevin** wa
 | Server password “Big Boobs” / “big boobz” | **Crude** **signal** **inside** **serious** **system** — **leak** **or** **inside** **joke** **as** **plot** (not literal **Cruz**). |
 | “Jim’s gone” / “Who’s pickle?” | **Rival** **absence** / **nonsense** **identity** **—** **loose** **hooks** **for** **reading** **primary** **as** **soap** **opera**. |
 
+
+![Ted Cruz, Kevin Malone — investigation header graphic](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png?w=1200 '{"className":"rounded-md m-auto"}')
+
 ### Gossip quote: another person inside, controls (s06e01)
 
 **Context** (*The Office*, “Gossip”, 2009): Michael invents false rumors to flood the office so people will dismiss real gossip (Stanley’s affair). One planted story is that Kevin has another person inside his body working him with controls. Kevin confronts everyone: “Who’s been saying that there’s another person inside of me working me with controls?” (Wording varies slightly in subtitles; meaning is stable. Wikipedia and episode summaries document the beat.)
