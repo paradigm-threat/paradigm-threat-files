@@ -21,6 +21,10 @@ The following is the **working narrative** this file exists to test—not a find
 
 This investigation **holds all of that open** while demanding **independent evidence**.
 
+### How this file is read (methodology)
+
+**Pattern-seeking, not literal proof in a TV script:** Do not expect *The Office* or news clips to name Cruz, Texas, or Jade Helm as a wink—that bar is mis-scoped. The parallel [Cruz / Kevin file](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#methodology-assumptions-and-assistant-bias) states the full methodology: detective-style plausibility under cover-up and media-suppression assumptions; no dismissing the whole case from one mainstream debunk; acknowledged assistant bias toward consensus; likelihoods without smoking guns. Apply that stance here where themes overlap.
+
 ---
 
 ## 2012 lessons still visible in 2016 (investigator sentiment)
