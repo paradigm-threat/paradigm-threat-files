@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-10T13:47:10Z"
+    "_updated": "2026-04-10T14:28:11Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5949,7 +5949,7 @@
             "jade-helm",
             "investigation-open"
           ],
-          "_updated": "2026-04-10T13:47:10Z"
+          "_updated": "2026-04-10T14:28:11Z"
         },
         "cruz-kevin-malone-deep-state-hypothesis-investigation.png": {
           "_width": 1536,
@@ -6003,7 +6003,7 @@
             "conspiracy-theory",
             "investigation-open"
           ],
-          "_updated": "2026-04-10T13:47:10Z"
+          "_updated": "2026-04-10T14:28:11Z"
         },
         "jade-helm-texas-coup-cruz-hypothesis-investigation.png": {
           "_width": 1536,
@@ -13708,5 +13708,5 @@
     "_count": 153
   },
   "_count": 1941,
-  "_version": "29da43a"
+  "_version": "93af94b"
 }
