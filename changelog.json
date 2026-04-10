@@ -1,6 +1,24 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "c4a8a226b18cd9e80d50954699bab86668480569",
+    "date": "2026-04-10T13:27:35.000Z",
+    "message": "Cruz/Kevin + Jade Helm: addendum (overlap thread, Baumgartner credits, verification stance); sync master timeline with filming dates",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "99d18d4d2fcc9b404a84eee63434415138cb13a9",
     "date": "2026-04-10T12:23:55.000Z",
     "message": "Sort Jade Helm master timeline ascending by date; add investigation3 image; refresh Cruz/Kevin header PNG",
@@ -107,24 +125,6 @@
         "status": "A",
         "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
         "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "8b85aa58c60e043ff04cd1db788c28a9b524955d",
-    "date": "2026-04-10T00:57:19.000Z",
-    "message": "Cruz/Kevin investigation: Getty rally photo via PopSugar; investigator note on sign holder",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
-        "href": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg"
       }
     ]
   }
