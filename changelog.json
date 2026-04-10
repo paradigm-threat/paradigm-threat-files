@@ -1,6 +1,24 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "93af94b23c2a97554b400dd867c0d53035e8013e",
+    "date": "2026-04-10T14:28:11.000Z",
+    "message": "Cruz/Kevin: production-schedule feasibility, Hollywood opacity stance; Jade Helm timeline (s9 prod, senator-elect window)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "29da43a4af2cd3a30ac3a782e2a0aa865aae07fe",
     "date": "2026-04-10T13:47:10.000Z",
     "message": "Cruz/Kevin: Accountants trio, Oscar-senator thread, actor-name overlaps; Jade Helm cross-link",
@@ -105,19 +123,6 @@
     "files": [
       {
         "status": "M",
-        "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
-        "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "a3e9c7a63b5190b56544aed03d4378660eee12ca",
-    "date": "2026-04-10T01:07:05.000Z",
-    "message": "Blog: Jade Helm, Cruz/Kevin, Venus, Relay policy, site TTS (since 2026-04-05)",
-    "files": [
-      {
-        "status": "A",
         "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
         "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
       }
