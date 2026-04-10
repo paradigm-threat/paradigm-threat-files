@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "092b4f0d03cb486a6ceb38073f003c430e63c2b0",
+    "date": "2026-04-10T01:27:07.000Z",
+    "message": "Blog (2026-04-10): expand Relay inventory since 2026-04-05 (gateway/master SHAs)",
+    "files": [
+      {
+        "status": "M",
+        "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
+        "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "a3e9c7a63b5190b56544aed03d4378660eee12ca",
     "date": "2026-04-10T01:07:05.000Z",
     "message": "Blog: Jade Helm, Cruz/Kevin, Venus, Relay policy, site TTS (since 2026-04-05)",
@@ -119,19 +132,6 @@
     "files": [
       {
         "status": "M",
-        "path": ".relay.yaml",
-        "href": "/.relay.yaml"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "cd06a81befe5315368206c547bd0f47f3730dfb7",
-    "date": "2026-04-09T16:25:25.000Z",
-    "message": "Add .relay.yaml for relay branch policy (SSH-signed commits on main)",
-    "files": [
-      {
-        "status": "A",
         "path": ".relay.yaml",
         "href": "/.relay.yaml"
       }
