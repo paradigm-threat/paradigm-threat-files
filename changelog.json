@@ -1,6 +1,29 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "fe23cdc4b011c9fc2ace9fd07b70e6cd96ae7504",
+    "date": "2026-04-10T00:59:20.000Z",
+    "message": "Investigations: Cruz/Kevin doc tweak; header PNG assets",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "8b85aa58c60e043ff04cd1db788c28a9b524955d",
     "date": "2026-04-10T00:57:19.000Z",
     "message": "Cruz/Kevin investigation: Getty rally photo via PopSugar; investigator note on sign holder",
@@ -116,29 +139,6 @@
         "status": "A",
         "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png",
         "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "9e5ac401f7e49ae6c9edad5e960ebb9dbb5d53e8",
-    "date": "2026-04-09T15:52:19.000Z",
-    "message": "Add Jade Helm/Cruz and Cruz/Kevin investigations; index in war investigations page.",
-    "files": [
-      {
-        "status": "A",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/page.md",
-        "href": "/governance/war/investigations"
       }
     ]
   }
