@@ -1,9 +1,10 @@
 # Investigation: Jade Helm 15 — “Real Op” Hypothesis, Texas, and the 2016 GOP Field
 
-**Date:** 2026-04-09 (timeline / 2012→2016 / volcanoes context expanded); **2026-04-10** — master timeline: **May 2012–Mar 2013** s9 production, **~58-day** senator-elect, **prod. ≠ air order**; Cruz/Kevin addendum; **Kevin / Oscar / Angela** / *The Accountants* (parallel file); **2026-04-11** — **Angry Birds** / **media starvation**, **Bush–Epstein** blackmail frame, **Cruz** breakthrough vs **Trump** backup (investigator extension).  
+**Date:** 2026-04-09 (timeline / 2012→2016 / volcanoes context expanded); **2026-04-10** — master timeline: **May 2012–Mar 2013** s9 production, **~58-day** senator-elect, **prod. ≠ air order**; Cruz/Kevin addendum; **Kevin / Oscar / Angela** / *The Accountants* (parallel file); **2026-04-11** — **Angry Birds** / **media starvation**, **Bush–Epstein** blackmail frame, **Cruz** breakthrough vs **Trump** backup (investigator extension); **timeline** cross-link **[evt-trump](/timeline/evt-trump)**.  
 **Status:** Open — **hypothesis under investigation**, not asserted as proven. Awaiting dispositive evidence (see [What would confirm or falsify](#what-would-confirm-or-falsify-this-thesis)).
 
-**Parallel file:** [Cruz / Kevin Malone / deep-state hypothesis](./cruz-kevin-malone-deep-state-hypothesis-investigation.md) (meme layer, compromise narrative, cross-links to this exercise).
+**Parallel file:** [Cruz / Kevin Malone / deep-state hypothesis](./cruz-kevin-malone-deep-state-hypothesis-investigation.md) (meme layer, compromise narrative, cross-links to this exercise).  
+**Timeline synthesis:** [Trump and the MAGA Revolution](/timeline/evt-trump) — 2016 primary lane (book-facing summary of media filter, Jade Helm rhyme, backup logic; points here for detail).
 
 ![Jade Helm 15 — investigation header graphic](/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png?w=1200 '{"className":"rounded-md m-auto"}')
 
