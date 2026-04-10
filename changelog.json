@@ -1,6 +1,34 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "d01b577ad2e2e565ba5bd165e69b441a9312d011",
+    "date": "2026-04-10T00:42:29.000Z",
+    "message": "Investigations: Cruz/Kevin methodology, Gossip quote, header PNG; Jade Helm cross-link; index",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/page.md",
+        "href": "/governance/war/investigations"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "b7be36c91d78d8665e9eb74f2fb81b4a4ff8e59a",
     "date": "2026-04-09T19:50:25.000Z",
     "message": "cosmos/venus: add Venus investigations index and Saturnian-to-Venera probe article; refresh Jade Helm investigation header PNG",
@@ -109,19 +137,6 @@
       },
       {
         "status": "M",
-        "path": "blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md",
-        "href": "/blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "bce5afd82c773519c50b2647c0b79776b7219850",
-    "date": "2026-04-05T17:14:11.000Z",
-    "message": "blog: Apr 5 — relay focus after cloud purge; GitHub/crates.io gate",
-    "files": [
-      {
-        "status": "A",
         "path": "blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md",
         "href": "/blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates"
       }

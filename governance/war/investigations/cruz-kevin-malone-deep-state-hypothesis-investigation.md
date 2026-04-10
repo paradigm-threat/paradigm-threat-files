@@ -1,6 +1,6 @@
 # Investigation: Ted Cruz, Kevin Malone (*The Office*), and the “Hijacked Plan” Hypothesis
 
-**Date:** 2026-04-09 (updated: methodology for pattern-seeking; cryptic *Office* quote table)  
+**Date:** 2026-04-10 (rally photo + investigator note; methodology; *Office* quote table)  
 **Status:** Open — **hypothesis under investigation**, not asserted as proven. **Primary goal:** map **likelihoods** and **patterns** (see [Methodology](#methodology-assumptions-and-assistant-bias)); dispositive documents would strengthen or refute narrow claims (see [What would confirm or falsify](#what-would-confirm-or-falsify-this-thesis)).
 
 **Parallel file:** [Jade Helm / Texas / 2016 field hypothesis](./jade-helm-texas-coup-cruz-hypothesis-investigation.md) — includes **master timeline** (*The Office*, **2012**/**2016** **elections**, **Jade Helm**, **primaries**, **volcanoes** / **apocalyptic** **mood** **context**). That file shares the **methodology** stance below where overlapping.
@@ -60,6 +60,14 @@ These sources **do not** prove a **campaign stunt** or **deep-state op**; they p
 | Rally stunt, “Same Person?!?!” sign (Cruz vs Kevin Malone) | Comedian **Donnie Does**; side-by-side poster at **Cruz rally**; viral **Imgur** / social spread; hashtags **#cruziskevin**, **#thetruthisoutthere** in reporting | [PopSugar](https://www.popsugar.com/news/ted-cruz-looks-like-kevin-malone-40240539); [Mandatory — Feb 17, 2016](https://www.mandatory.com/fun/1065315-ted-cruz-may-really-be-kevin-from-the-office); [Mashable — Feb 18, 2016](https://mashable.com/2016/02/18/ted-cruz-kevin-office) |
 | Meme documentation | **Know Your Meme** gallery (“Ted Cruz Looks Like”) | [e.g. KYM photo](https://knowyourmeme.com/photos/1109396-ted-cruz-looks-like) |
 | **Brian Baumgartner** (actor, Kevin) responds | Distinguishes **himself** from **character**; finds rally video funny; **Instagram** joke that comparison **insults Kevin’s intelligence**; states **not** a Cruz **supporter** (policy: guns, religion quotes) | [Bustle — Mar 15, 2016](https://www.bustle.com/articles/148128-heres-what-the-offices-kevin-really-thinks-of-that-ted-cruz-meme) |
+
+### Investigator note — man with the “Same Person?!?!” sign (Feb 2016)
+
+**Impression only (not proof):** The investigator’s subjective read of footage and stills from this moment is that the man holding the side-by-side poster—widely reported as comedian Donnie Does at a Cruz rally—seemed oddly camera-aware, as if playing to the lens behind him to draw a reaction from Cruz. That does not establish that any faction staged the bit; it only records suspicion that the viral clip reads less like plain grassroots weirdness and more like performance by an eccentric figure—which outlets such as [PopSugar](https://www.popsugar.com/news/ted-cruz-looks-like-kevin-malone-40240539) then framed as another internet-conspiracy gag rather than a sober, grounded story. Proportionality ([Methodology](#methodology-assumptions-and-assistant-bias)): this gut reaction does not replace documentation; it flags tone and framing for readers who share the same unease.
+
+![Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar.](/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg?w=1200 '{"className":"rounded-md m-auto"}')
+
+**Image source:** File reproduced from [PopSugar — “Ted Cruz Might Actually Be Kevin From The Office”](https://www.popsugar.com/news/ted-cruz-looks-like-kevin-malone-40240539) (Feb 18, 2016), which credits **Getty Images** / **Alex Wong** (Getty **510840572**). Retain that credit if republishing; Getty may impose separate licensing for commercial reuse.
 
 **Timeline note:** This cluster is **Feb–Mar 2016** — **months after** the **active** **Jade Helm 15** window (**mid-2015**). Any **causal** link **Jade Helm → Kevin meme** is **not** supported by **dates** alone; **parallel** narrative **pressure** is **speculative**. **Full** **chronology** (*Office* **premiere**/finale, **2012**/**2016** **votes**, **Jade Helm**, **Indiana** **exit**, **volcano** **news** **cluster**) lives under **“Master timeline”** in the **[parallel Jade Helm file](./jade-helm-texas-coup-cruz-hypothesis-investigation.md)**.
 
