@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-10T01:28:35Z"
+    "_updated": "2026-04-10T01:43:32Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5949,12 +5949,12 @@
             "jade-helm",
             "investigation-open"
           ],
-          "_updated": "2026-04-10T00:59:20Z"
+          "_updated": "2026-04-10T01:43:32Z"
         },
         "cruz-kevin-malone-deep-state-hypothesis-investigation.png": {
           "_width": 1536,
           "_height": 1024,
-          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JZgC7ADGRmULSMAA/s8fFM8yIYsOd86dPhFN0aHgGKQMdtBoJjRGqJX2mnFz6F0amQowls4rAAAA",
+          "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAAsABUB8JQBWACPRznrgdE0IAP4+T9d/z/0JRp9BAlHatPsZ1pBLXMPlERjxNWgFD8LODP6/lG4ISDTwT0lcAAA=",
           "_updated": "2026-04-10T01:28:35Z"
         },
         "cruz-kevin-malone-deep-state-hypothesis-investigation2.png": {
@@ -5962,6 +5962,12 @@
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JZgCdADiTZGzkjjIAM4kMxUlzbXncNu7MleZ6UOEaiIwaANsUibdO8L+8Jsw8JKIu9kWUAA=",
           "_updated": "2026-04-10T00:59:20Z"
+        },
+        "cruz-kevin-malone-deep-state-hypothesis-investigation3.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JZgC7ADGRmULSMAA/s8fFM8yIYsOd86dPhFN0aHgGKQMdtBoJjRGqJX2mnFz6F0amQowls4rAAAA",
+          "_updated": "2026-04-10T01:05:20Z"
         },
         "cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg": {
           "_width": 1584,
@@ -6190,7 +6196,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 25
+        "_count": 26
       },
       "military_police.jpg": {
         "_width": 960,
@@ -6301,9 +6307,9 @@
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 70
+      "_count": 71
     },
-    "_count": 505
+    "_count": 506
   },
   "history": {
     "chronology": {
@@ -13701,6 +13707,6 @@
     },
     "_count": 153
   },
-  "_count": 1940,
-  "_version": "ad39ca9"
+  "_count": 1941,
+  "_version": "4f0128b"
 }
