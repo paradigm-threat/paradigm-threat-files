@@ -1,6 +1,24 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "29da43a4af2cd3a30ac3a782e2a0aa865aae07fe",
+    "date": "2026-04-10T13:47:10.000Z",
+    "message": "Cruz/Kevin: Accountants trio, Oscar-senator thread, actor-name overlaps; Jade Helm cross-link",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "c4a8a226b18cd9e80d50954699bab86668480569",
     "date": "2026-04-10T13:27:35.000Z",
     "message": "Cruz/Kevin + Jade Helm: addendum (overlap thread, Baumgartner credits, verification stance); sync master timeline with filming dates",
@@ -102,29 +120,6 @@
         "status": "A",
         "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
         "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "fe23cdc4b011c9fc2ace9fd07b70e6cd96ae7504",
-    "date": "2026-04-10T00:59:20.000Z",
-    "message": "Investigations: Cruz/Kevin doc tweak; header PNG assets",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png"
       }
     ]
   }
