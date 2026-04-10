@@ -1,9 +1,9 @@
 # Investigation: Ted Cruz, Kevin Malone (*The Office*), and the “Hijacked Plan” Hypothesis
 
-**Date:** 2026-04-10 (rally photo + investigator note; methodology; *Office* quote table)  
-**Status:** Open — **hypothesis under investigation**, not asserted as proven. **Primary goal:** map **likelihoods** and **patterns** (see [Methodology](#methodology-assumptions-and-assistant-bias)); dispositive documents would strengthen or refute narrow claims (see [What would confirm or falsify](#what-would-confirm-or-falsify-this-thesis)).
+**Date:** 2026-04-10 (rally photo + investigator note; methodology; *Office* quote table — *Stairmageddon* “secret so good”)  
+**Status:** Open — hypothesis under investigation, not asserted as proven. Primary goal: map likelihoods and **patterns** (see [Methodology](#methodology-assumptions-and-assistant-bias)); dispositive documents would strengthen or refute narrow claims (see [What would confirm or falsify](#what-would-confirm-or-falsify-this-thesis)).
 
-**Parallel file:** [Jade Helm / Texas / 2016 field hypothesis](./jade-helm-texas-coup-cruz-hypothesis-investigation.md) — includes **master timeline** (*The Office*, **2012**/**2016** **elections**, **Jade Helm**, **primaries**, **volcanoes** / **apocalyptic** **mood** **context**). That file shares the **methodology** stance below where overlapping.
+**Parallel file:** [Jade Helm / Texas / 2016 field hypothesis](./jade-helm-texas-coup-cruz-hypothesis-investigation.md) — includes master timeline (*The Office*, 2012/2016 elections, **Jade Helm**, primaries, volcanoes / apocalyptic mood). That file shares the methodology stance below where overlapping.
 
 ![Ted Cruz, Kevin Malone — investigation header graphic](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png?w=1200 '{"className":"rounded-md m-auto"}')
 
@@ -29,81 +29,87 @@
 
 The following is the **working narrative** this file exists to test—not a finding of fact.
 
-- **Youth / culture bridge:** There was a **calculable opportunity** (whether by Cruz’s camp, allies, or hostile actors) to use ***The Office***’s **Kevin Malone** as a **pop-culture proxy** to reach **younger** or **normie** voters during the **2016** Republican primary—**parallel** to serious **America-first** messaging. The investigator **does not** claim to have proof such a plan existed; only that **in hindsight** the **meme environment** made **Kevin** a **ready-made** body-double joke.
-- **“Kevin plan” hijack:** If **any** actor (campaign, super PAC, informal surrogates) **intended** to **lean into** resemblance humor **on purpose**, the investigator suspects a **deeper** faction could have **hijacked** that **lane**: forcing **Cruz** toward a **presidency-shaped outcome** that was **still** **controlled**—**Texas** as **base**, **movement energy** as **fuel**, but **narrative** and **compromise material** (opposition research, intelligence pressure, **blackmail** hypotheses) as **steering wheel**.
-- **Compromise:** Cruz was **“majorly compromised”** in this reading—not necessarily in a single documented scandal, but in the **structural** sense that **only** **Trump** and **Cruz** survived the **winnowing**, and **Cruz** then **folded** along **specific** **pressure lines** (including **public** **calming** of **Jade Helm**-style **grassroots panic** while **still** **dog-whistling distrust**—a **dual-use** message explored in the parallel investigation).
-- **Cryptic Kevin:** Dialogue from **Kevin Malone** in *The Office* is treated as **fiction**, but the investigator reserves the right to **catalogue** lines that **resonate** with **double meanings** (disguise, **president**, **outdoors**, **secrets**, **“he did it”**) as **cultural clues**—**not** as **evidence** Cruz wrote or received them. **Primary subtitle research** (SDH-labelled lines) is a **separate** technical track; see **Offline / sibling work** below.
+- **Youth / culture bridge:** There was a calculable opportunity (whether by Cruz’s camp, allies, or hostile actors) to use *The Office*’s Kevin Malone as a pop-culture proxy to reach younger or normie voters during the 2016 Republican primary—parallel to serious America-first messaging. The investigator does not claim proof such a plan existed; only that in hindsight the meme environment made Kevin a ready-made body-double joke.
+- **“Kevin plan” hijack:** If any actor (campaign, super PAC, informal surrogates) intended to lean into resemblance humor on purpose, the investigator suspects a deeper faction could have hijacked that lane: forcing Cruz toward a presidency-shaped outcome that was still controlled—Texas as base, movement energy as fuel, but narrative and compromise material (opposition research, intelligence pressure, blackmail hypotheses) as steering wheel.
+- **Compromise:** Cruz was “majorly compromised” in this reading—not necessarily in a single documented scandal, but in the structural sense that only Trump and Cruz survived the winnowing, and Cruz then folded along specific pressure lines (including public calming of Jade Helm–style grassroots panic while still dog-whistling distrust—a dual-use message explored in the parallel investigation).
+- **Cryptic Kevin:** Dialogue from Kevin Malone in *The Office* is treated as fiction, but the investigator reserves the right to catalogue lines that resonate with double meanings (disguise, president, outdoors, secrets, “he did it”) as cultural clues—not as evidence Cruz wrote or received them. Primary subtitle research (SDH-labelled lines) is a separate technical track; see Offline / sibling work below.
 
-**Emotional bottom line (preserved):** The investigator **knows** there is **no proven** chain from **Kevin** to **Cruz** to **Pentagon** to **Jade Helm**; the file **still** **refuses** to **close the door** on **cover-up**—**absence of evidence** is **not** treated as **evidence of absence** when **classification**, **media ridicule**, and **narrative flood** can **hide** **coordination**.
+**Emotional bottom line (preserved):** The investigator knows there is no proven chain from Kevin to Cruz to Pentagon to Jade Helm; the file still refuses to close the door on cover-up—absence of evidence is not treated as evidence of absence when classification, media ridicule, and narrative flood can hide coordination.
 
 ---
 
 ## Speculative “Cruz logic” — secret character, youth demo, mass recognition (counterfactual)
 
-**Framing:** This is **not** a claim that **Cruz** **played** **Kevin** or **colluded** with **NBC**. It is the **investigator’s** **reconstruction** of **what** **internal** **logic** **might** **have** **looked** **like** **if** a **faction** **had** **tried** to **weaponise** **pop** **culture** **for** **a** **presidential** **brand** **aimed** **partly** **at** **younger** **voters**:
+**Framing:** This is not a claim that Cruz played Kevin or colluded with NBC. It is the investigator’s reconstruction of what internal logic might have looked like if a faction had tried to weaponise pop culture for a presidential brand aimed partly at younger voters:
 
-1. **Long-bake familiarity:** ***The Office*** **ran** **nine** **seasons** (**2005–2013**) and **reached** **normie** **saturation**—**Democrats** **and** **Republicans** **alike** **knew** **Kevin** **Malone** **as** **a** **type** (**affable**, **awkward**, **meme-friendly**). **Anyone** **“revealing”** **as** **that** **archetype** **later** **would** **inherit** **years** **of** **affection** **and** **recognition** **without** **needing** **to** **win** **new** **IP** **from** **scratch**.
-2. **Youth-skewing pipeline:** **College** **and** **young** **adult** **cohorts** **binged** **the** **show** **in** **syndication** **and** **streaming**; **that** **demographic** **was** **exactly** **where** **the** **GOP** **primary** **bench** **often** **failed** **to** **register** **in** **2012** **and** **2016**. A **Kevin-shaped** **humour** **lane** **could** **theoretically** **soften** **the** **party** **for** **audiences** **immune** **to** **talk-radio** **tones**.
-3. **Reveal beats invention:** **“I** **am** **the** **guy** **you** **already** **loved** **on** **TV”** **beats** **introducing** **a** **new** **mascot** **from** **zero**—**if** **one** **could** **ever** **sell** **the** **joke** **as** **more** **than** **a** **meme**.
-4. **Intended shelf life (your guess):** You **suspect** **no** **serious** **operator** **would** **have** **planned** **to** **ride** **the** **bit** **past** **~two** **seasons’** **worth** **of** **narrative** **attention**—i.e. **a** **short** **burst** **of** **recognition** **then** **pivot** **to** **“serious”** **statesman** **mode**. **The** **actual** **show** **ran** **far** **longer** **than** **two** **seasons**; **this** **clause** **means** **the** **hypothetical** **political** **use** **of** **the** **Kevin** **image** **was** **meant** **to** **be** **disposable** **in** **campaign** **time**, **not** **that** **the** **sitcom** **should** **have** **ended** **early**.
+1. **Long-bake familiarity:** *The Office* ran nine seasons (2005–2013) and reached normie saturation—Democrats and Republicans alike knew Kevin Malone as a type (affable, awkward, meme-friendly). Anyone “revealing” as that archetype later would inherit years of affection and recognition without needing to win new IP from scratch.
+2. **Youth-skewing pipeline:** College and young adult cohorts binged the show in syndication and streaming; that demographic was exactly where the GOP primary bench often failed to register in 2012 and 2016. A Kevin-shaped humour lane could theoretically soften the party for audiences immune to talk-radio tones.
+3. **Reveal beats invention:** “I am the guy you already loved on TV” beats introducing a new mascot from zero—if one could ever sell the joke as more than a meme.
+4. **Intended shelf life (your guess):** You suspect no serious operator would have planned to ride the bit past ~two seasons’ worth of narrative attention—i.e. a short burst of recognition then pivot to “serious” statesman mode. The actual show ran far longer than two seasons; this clause means the hypothetical political use of the Kevin image was meant to be disposable in campaign time, not that the sitcom should have ended early.
 
-**Reality checks (keep on the page):** **Kevin** **was** **played** **by** **Brian** **Baumgartner**; **Cruz** **was** **a** **sitting** **senator** **during** **the** **show’s** **run** **and** **after**; **no** **credible** **source** **alleges** **identity** **swap**. **The** **paragraph** **above** **is** **scenario** **craft** **for** **investigation**, **not** **reportage**.
+**Reality checks (keep on the page):** Kevin was played by Brian Baumgartner; Cruz was a sitting senator during the show’s run and after; no credible source alleges identity swap. The paragraph above is scenario craft for investigation, not reportage.
 
 ---
 
-## Documented facts — the Cruz / Kevin **meme** (satire / viral culture)
+## Documented facts — the Cruz / Kevin meme (satire / viral culture)
 
-These sources **do not** prove a **campaign stunt** or **deep-state op**; they prove **what the internet did**.
+These sources do not prove a campaign stunt or deep-state op; they prove what the internet did.
 
 | Event | What the record shows | Citation |
 |--------|------------------------|----------|
-| Rally stunt, “Same Person?!?!” sign (Cruz vs Kevin Malone) | Comedian **Donnie Does**; side-by-side poster at **Cruz rally**; viral **Imgur** / social spread; hashtags **#cruziskevin**, **#thetruthisoutthere** in reporting | [PopSugar](https://www.popsugar.com/news/ted-cruz-looks-like-kevin-malone-40240539); [Mandatory — Feb 17, 2016](https://www.mandatory.com/fun/1065315-ted-cruz-may-really-be-kevin-from-the-office); [Mashable — Feb 18, 2016](https://mashable.com/2016/02/18/ted-cruz-kevin-office) |
-| Meme documentation | **Know Your Meme** gallery (“Ted Cruz Looks Like”) | [e.g. KYM photo](https://knowyourmeme.com/photos/1109396-ted-cruz-looks-like) |
-| **Brian Baumgartner** (actor, Kevin) responds | Distinguishes **himself** from **character**; finds rally video funny; **Instagram** joke that comparison **insults Kevin’s intelligence**; states **not** a Cruz **supporter** (policy: guns, religion quotes) | [Bustle — Mar 15, 2016](https://www.bustle.com/articles/148128-heres-what-the-offices-kevin-really-thinks-of-that-ted-cruz-meme) |
+| Rally stunt, “Same Person?!?!” sign (Cruz vs Kevin Malone) | Comedian Donnie Does; side-by-side poster at Cruz rally; viral Imgur / social spread; hashtags #cruziskevin, #thetruthisoutthere in reporting | [PopSugar](https://www.popsugar.com/news/ted-cruz-looks-like-kevin-malone-40240539); [Mandatory — Feb 17, 2016](https://www.mandatory.com/fun/1065315-ted-cruz-may-really-be-kevin-from-the-office); [Mashable — Feb 18, 2016](https://mashable.com/2016/02/18/ted-cruz-kevin-office) |
+| Meme documentation | Know Your Meme gallery (“Ted Cruz Looks Like”) | [e.g. KYM photo](https://knowyourmeme.com/photos/1109396-ted-cruz-looks-like) |
+| Brian Baumgartner (actor, Kevin) responds | Distinguishes himself from character; finds rally video funny; Instagram joke that comparison insults Kevin’s intelligence; states not a Cruz supporter (policy: guns, religion quotes) | [Bustle — Mar 15, 2016](https://www.bustle.com/articles/148128-heres-what-the-offices-kevin-really-thinks-of-that-ted-cruz-meme) |
 
 ### Investigator note — man with the “Same Person?!?!” sign (Feb 2016)
 
-**Impression only (not proof):** The investigator’s subjective read of footage and stills from this moment is that the man holding the side-by-side poster—widely reported as comedian Donnie Does at a Cruz rally—seemed oddly camera-aware, as if playing to the lens behind him to draw a reaction from Cruz. That does not establish that any faction staged the bit; it only records suspicion that the viral clip reads less like plain grassroots weirdness and more like performance by an eccentric figure—which outlets such as [PopSugar](https://www.popsugar.com/news/ted-cruz-looks-like-kevin-malone-40240539) then framed as another internet-conspiracy gag rather than a sober, grounded story. Proportionality ([Methodology](#methodology-assumptions-and-assistant-bias)): this gut reaction does not replace documentation; it flags tone and framing for readers who share the same unease.
+**Impression only (not proof):** The investigator’s subjective read of footage and stills from this moment is that the man holding the side-by-side poster—widely reported as comedian Donnie Does at a Cruz rally—seemed oddly camera-aware, as if playing to the lens behind him to draw a reaction from Cruz. That does not establish that any faction staged the bit; it only records suspicion that the viral clip reads less like plain grassroots weirdness and more like performance by an eccentric figure—which outlets such as [PopSugar](https://www.popsugar.com/news/ted-cruz-looks-like-kevin-malone-40240539) then framed as another internet-conspiracy gag rather than a sober, grounded story. Proportionality (see [Methodology](#methodology-assumptions-and-assistant-bias)): this gut reaction does not replace documentation; it flags tone and framing for readers who share the same unease.
 
 ![Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar.](/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg?w=1200 '{"className":"rounded-md m-auto"}')
 
-**Image source:** File reproduced from [PopSugar — “Ted Cruz Might Actually Be Kevin From The Office”](https://www.popsugar.com/news/ted-cruz-looks-like-kevin-malone-40240539) (Feb 18, 2016), which credits **Getty Images** / **Alex Wong** (Getty **510840572**). Retain that credit if republishing; Getty may impose separate licensing for commercial reuse.
+**Image source:** File reproduced from [PopSugar — “Ted Cruz Might Actually Be Kevin From The Office”](https://www.popsugar.com/news/ted-cruz-looks-like-kevin-malone-40240539) (Feb 18, 2016), which credits Getty Images / Alex Wong (Getty 510840572). Retain that credit if republishing; Getty may impose separate licensing for commercial reuse.
 
-**Timeline note:** This cluster is **Feb–Mar 2016** — **months after** the **active** **Jade Helm 15** window (**mid-2015**). Any **causal** link **Jade Helm → Kevin meme** is **not** supported by **dates** alone; **parallel** narrative **pressure** is **speculative**. **Full** **chronology** (*Office* **premiere**/finale, **2012**/**2016** **votes**, **Jade Helm**, **Indiana** **exit**, **volcano** **news** **cluster**) lives under **“Master timeline”** in the **[parallel Jade Helm file](./jade-helm-texas-coup-cruz-hypothesis-investigation.md)**.
+**Timeline note:** This cluster is Feb–Mar 2016—months after the active Jade Helm 15 window (mid-2015). Any causal link Jade Helm → Kevin meme is not supported by dates alone; parallel narrative pressure is speculative. Full chronology (*Office* premiere/finale, 2012/2016 votes, Jade Helm, Indiana exit, volcano news cluster) lives under “Master timeline” in the [parallel Jade Helm file](./jade-helm-texas-coup-cruz-hypothesis-investigation.md).
 
 ---
 
 ## “Bodysuit” and identity jokes — what actually appeared in search
 
-The investigator’s **memory** of **bodysuit** accusations tied to **Kevin** was **not** located in **mainstream** reporting in a **single** canonical story. **Adjacent** satirical material includes:
+The investigator’s memory of bodysuit accusations tied to Kevin was not located in mainstream reporting in a single canonical story. Adjacent satirical material includes:
 
-- **Ted Cruz / Zodiac Killer** meme — widely described as **joke**, not literal belief: [Wikipedia: Ted Cruz–Zodiac Killer meme](https://en.wikipedia.org/wiki/Ted_Cruz%E2%80%93Zodiac_Killer_meme).
-- **Student satire** with **“costume”** / dry-cleaner **fiction** (explicitly **false** on page): [Western Howl — humor](https://wou.edu/westernhowl/ted-cruz-allegedly-seen-picking-newly-dry-cleaned-zodiac-killer-costume/).
+- **Ted Cruz / Zodiac Killer** meme — widely described as joke, not literal belief: [Wikipedia: Ted Cruz–Zodiac Killer meme](https://en.wikipedia.org/wiki/Ted_Cruz%E2%80%93Zodiac_Killer_meme).
+- **Student satire** with “costume” / dry-cleaner fiction (explicitly false on page): [Western Howl — humor](https://wou.edu/westernhowl/ted-cruz-allegedly-seen-picking-newly-dry-cleaned-zodiac-killer-costume/).
 
-**Working note:** **Conflation** of **disguise memes** (Zodiac, rally props, **Maury** lookalike cycle per [Yahoo — history of “suspicious identity”](https://www.yahoo.com/news/a-brief-history-of-the-1413063394852918.html)) with **Kevin** **lookalike** is **psychologically plausible**; **documentation** should **separate** threads.
+**Working note:** Conflation of disguise memes (Zodiac, rally props, Maury lookalike cycle per [Yahoo — history of “suspicious identity”](https://www.yahoo.com/news/a-brief-history-of-the-1413063394852918.html)) with Kevin lookalike is psychologically plausible; documentation should separate threads.
 
 ---
 
 ## Possible cryptic *Office* lines (Kevin-heavy) — double-meaning search seeds
 
-**Framing:** *The Office* is **fiction**; **no** row is claimed as **author-intended** **encoding** of **Cruz** (see [Methodology](#methodology-assumptions-and-assistant-bias)). This table is a **pattern** **catalogue**: dialogue that **rhymes** with the **investigation’s** **themes** (identity, **layers**, **performance**, **compromise**) and can be **grep’d** against subtitles or transcripts **alongside** the **[Jade Helm](./jade-helm-texas-coup-cruz-hypothesis-investigation.md)** file. **Do not** **expect** **Cruz**, **Texas**, or **election** **keywords** **in** **the** **show** **text**; **hits** **are** **thematic**, **not** **literal** **proof**.
+**Framing:** *The Office* is fiction; no row is claimed as author-intended encoding of Cruz (see [Methodology](#methodology-assumptions-and-assistant-bias)). This table is a **pattern catalogue**: dialogue that rhymes with the investigation’s themes (identity, layers, performance, compromise) and can be grep’d against subtitles or transcripts alongside the [Jade Helm](./jade-helm-texas-coup-cruz-hypothesis-investigation.md) file. Do not expect Cruz, Texas, or election keywords in the show text; hits are thematic, not literal proof.
 
-**Order:** Rows are sorted by **descending investigative resonance** (how strongly the bit rhymes with bodysuit / rumor / identity / layers in *this* file), not by episode airdate.
+**Order:** Rows are sorted by descending investigative resonance (how strongly the bit rhymes with bodysuit / rumor / identity / layers / secrecy in *this* file), not by episode airdate. The **first two rows** are the tightest rumor-and-cover cluster; the rest follow.
 
 | Approx. line or bit | Why it might resonate with *this* investigation |
 |---------------------|--------------------------------------------------|
-| *Gossip* (s06e01) — “Who’s been saying that there’s another person inside of me working me with controls?” | **Strongest catalogue match:** in-universe **rumor** that Kevin is **piloted** — **person inside**, **working** him with **controls**. Same **vocabulary family** as **bodysuit** / **impostor** / **shell** themes **without** stretching metaphor. Episode context: Michael’s fabricated gossip ([detail below](#gossip-quote-another-person-inside-controls-s06e01)). |
+| *Stairmageddon* (s09e19) — “Yes! And I knew it the whole time! I kept a secret. I kept a secret so good. You didn’t know. You didn’t know. You didn’t freaking know. But I knew!” | **Excellent match:** Kevin crows about compartmentalized knowledge—who knew what, how long a secret held, performance of surprise versus private certainty. Rhymes cover-up, narrative embargo, and “the truth was visible all along” without naming politics ([Methodology](#methodology-assumptions-and-assistant-bias)). In-episode he means Oscar and the senator; **interpretive only** for this file. The scene continues with “He knew!” / “we did it” / “I did it” / “You did it, Kevin”—[author note](#stairmageddon-author-note-did-it-and-the-final-season) on “did it” and season 9 as the announced final season. |
+| *Gossip* (s06e01) — “Who’s been saying that there’s another person inside of me working me with controls?” | **Strongest catalogue match:** in-universe rumor that Kevin is piloted—person inside, working him with controls. Same vocabulary family as bodysuit / impostor / shell themes without stretching metaphor. Episode context: Michael’s fabricated gossip ([detail below](#gossip-quote-another-person-inside-controls-s06e01)). |
 | *Niagara: Part 2* (s06e05) — “The peeing is fast, Oscar. It’s getting my tie back on.” | **Major pattern match (author):** undressing / re-dressing next to a private function; tie as professional layer; wedding-trip spectacle. Not literal proof—competing readings [below](#niagara-quote-peeing-is-fast-tie-back-on-author-weighted). |
-| “Sometimes Batman’s gotta take off his cape.” / “I do deserve a vacation.” | **Self-myth** + **fatigue** — **statesman** **cosplay** vs **exiting** **the** **role**; **“take** **off** **his** **cape”** **is** **verbally** **close** **to** **“take** **off** **this** **bodysuit”** — **same** **undress-the-cover** **image** **as** **the** **bodysuit** / **costume** **memes** **earlier** **in** **this** **file**, **interpretive** **only**. |
-| “I wanted to eat a pig in a blanket, in a blanket.” | **Double** **cover** — **layered** **disguise** **metaphor** **as** **food** **joke**. |
-| “Why waste time say lot word when few word do trick” / “When me president, they see.” | **Message discipline** and **visibility** — **soundbite** politics; **presidential** **ambition** stated as blunt formula. |
-| “I got six numbers, one more and it would have been a complete phone number.” | **Almost** — **near-win** / **incomplete** **intel** as joke; rhymes with **runner-up** **primary** math. |
-| “I can’t do this forever.” / “Call it.” (CPR class) | **Stopping** a **performance** — **endurance** vs **quit**; loose metaphor for **campaign** **or** **narrative** **exhaustion**. |
-| “No. It’s not Ashton Kutcher. It’s Kevin Malone.” | **Reveal / unmasking** — the **lookalike** meme made literal in-universe; parallels **rally** “same person” jokes. |
-| “I have very little patience for stupidity.” | **Irony** layer — **Kevin** **as** **judge** of **intellect**; **surrogate** for **pundit** tone toward **primary** **field**. |
-| Server password “Big Boobs” / “big boobz” | **Crude** **signal** **inside** **serious** **system** — **leak** **or** **inside** **joke** **as** **plot** (not literal **Cruz**). |
-| “Jim’s gone” / “Who’s pickle?” | **Rival** **absence** / **nonsense** **identity** **—** **loose** **hooks** **for** **reading** **primary** **as** **soap** **opera**. |
+| “Sometimes Batman’s gotta take off his cape.” / “I do deserve a vacation.” | **Batman / cape:** self-myth and fatigue—statesman cosplay vs exiting the role; “take off his cape” is verbally close to “take off this bodysuit,” same undress-the-cover image as the bodysuit / costume memes earlier in this file, interpretive only. |
+| “I wanted to eat a pig in a blanket, in a blanket.” | **Double cover** — layered disguise metaphor as food joke. |
+| “Why waste time say lot word when few word do trick” / “When me president, they see.” | **Message discipline** and visibility—soundbite politics; presidential ambition stated as blunt formula. |
+| “I got six numbers, one more and it would have been a complete phone number.” | **Almost** — near-win / incomplete intel as joke; rhymes with runner-up primary math. |
+| “I can’t do this forever.” / “Call it.” (CPR class) | **Stopping a performance** — endurance vs quit; loose metaphor for campaign or narrative exhaustion. |
+| “No. It’s not Ashton Kutcher. It’s Kevin Malone.” | **Reveal / unmasking** — the lookalike meme made literal in-universe; parallels rally “same person” jokes. |
+| “I have very little patience for stupidity.” | **Irony layer** — Kevin as judge of intellect; surrogate for pundit tone toward primary field. |
+| Server password “Big Boobs” / “big boobz” | Crude signal inside a serious system—leak or inside joke as plot (not literal Cruz). |
+| “Jim’s gone” / “Who’s pickle?” | Rival absence / nonsense identity—loose hooks for reading primary as soap opera. |
 
+### Stairmageddon author note: “did it” and the final season
+
+In the same press-conference run (still *Stairmageddon*), dialogue right after the “secret so good” block stacks knew / secret / did it in one breath. Oscar says “He knew!”; Kevin answers “Yes. We did it.” then “Yes! Oh, I did it! Oh, I did it!”; Oscar tells him “You did it, Kevin.” (Subtitles vary slightly; meaning is stable.) If you remember it as “he did it,” that tracks Oscar’s “He knew!” (about Kevin) plus the whole we did it / I did it / you did it pile-up—Kevin is not limited to a single literal three-word line.
+
+**Author read (not proof):** Season 9 was the last season—NBC had already announced the show was ending, and this episode is late in that run. The investigator’s subjective meta rhyme: Kevin sounds as if he already knows the whole story is winding up and is still crowing “did it”—as if he could sense the finale coming—without asserting that the character or writers intended a fourth-wall wink ([Methodology](#methodology-assumptions-and-assistant-bias)). Pattern only: closure language in the actual final season.
 
 ![Ted Cruz, Kevin Malone — investigation header graphic](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png?w=1200 '{"className":"rounded-md m-auto"}')
 
@@ -142,41 +148,41 @@ The investigator’s **memory** of **bodysuit** accusations tied to **Kevin** wa
 
 ## Jade Helm — Cruz’s public role (factual anchor)
 
-Cruz’s **May 2015** statements on **Jade Helm** are summarised in the **parallel investigation**; they show **Pentagon contact** + **acceptance of “training exercise”** + **empathy** with **distrust**. That **pattern** is **compatible** with **either** (a) **responsible** **constituent politics** or (b) **narrative management** under **pressure**—**evidence** has **not** been cited here to **choose** between them.
+Cruz’s May 2015 statements on Jade Helm are summarised in the parallel investigation; they show Pentagon contact, acceptance of “training exercise,” and empathy with distrust. That pattern is compatible with either (a) responsible constituent politics or (b) narrative management under pressure—evidence has not been cited here to choose between them.
 
 ---
 
 ## Offline / sibling work (subtitles)
 
-A **machine-assisted** pass over **local OpenSubtitles mirror** English packs produced:
+A machine-assisted pass over local OpenSubtitles mirror English packs produced:
 
-- **Part A:** Speaker-tagged **`(Kevin)`** lines (high confidence, **small** count — many uploads lack SDH names).
-- **Part B:** Cues containing the word **Kevin** (includes others **addressing** Kevin).
+- **Part A:** Speaker-tagged `(Kevin)` lines (high confidence, small count — many uploads lack SDH names).
+- **Part B:** Cues containing the word Kevin (includes others addressing Kevin).
 
-Output path (developer machine): `~/dev/subs/the-office-us-kevin-malone-master.md` — **not** part of this repo; **re-import** excerpts here **if** the site maintainer wants them **canonical** on **paradigmthreat.net**.
+Output path (developer machine): `~/dev/subs/the-office-us-kevin-malone-master.md` — not part of this repo; re-import excerpts here if the site maintainer wants them canonical on paradigmthreat.net.
 
 ---
 
 ## What would confirm or falsify this thesis?
 
-**Scope:** This section separates **dispositive** **evidence** (would **force** **narrow** **claims** **to** **update**) from **ambient** **weakeners** (reduce **confidence** **on** **a** **thread**, **not** **automatic** **closure** **of** **the** **whole** **hypothesis**—see [Methodology](#methodology-assumptions-and-assistant-bias)).
+**Scope:** This section separates dispositive evidence (would force narrow claims to update) from ambient weakeners (reduce confidence on a thread, not automatic closure of the whole hypothesis—see [Methodology](#methodology-assumptions-and-assistant-bias)).
 
 **Would strengthen “planned Kevin stunt / hijack” (examples):**
 
-- **Authentic** **campaign** or **PAC** **documents** mentioning **Kevin** / *Office* **licensing** / **surrogate** **stunt** **strategy**.
-- **Leaked** **comms** showing **third-party** **coordination** between **entertainment** assets and **political** **timing**.
-- **Credible** witness: **staffer** states **under oath** **directed** **meme** **amplification** or **suppression** **orders**.
+- Authentic campaign or PAC documents mentioning Kevin, *Office* licensing, or surrogate stunt strategy.
+- Leaked comms showing third-party coordination between entertainment assets and political timing.
+- Credible witness: staffer states under oath directed meme amplification or suppression orders.
 
 **Would weaken specific sub-claims (not necessarily the entire investigation):**
 
-- **If** **archived** **campaign** **emails** (if **disclosed**) **show** **no** **internal** **Kevin** / *Office* **references** **anywhere**, **and** **independent** **reporting** **confirms** **only** **organic** **comedian** / **fan** **origin** **for** **the** **viral** **rally** **moment**, **that** **thread** **loses** **weight**—**without** **by** **itself** **proving** **no** **other** **lane** **of** **pressure** **or** **parallel** **narrative** **work** **existed**. **Current** **public** **record** **leans** **organic** **for** **that** **stunt** **only**.
+- If archived campaign emails (if disclosed) show no internal Kevin or *Office* references anywhere, and independent reporting confirms only organic comedian or fan origin for the viral rally moment, that thread loses weight—without by itself proving no other lane of pressure or parallel narrative work existed. Current public record leans organic for that stunt only.
 
 ---
 
 ## Cross-links
 
 - [Jade Helm — Texas coup / Cruz hypothesis](./jade-helm-texas-coup-cruz-hypothesis-investigation.md)
-- [CIA investigation](./cia-investigation.md) (institutional **“deep state”** framing elsewhere in this corpus)
+- [CIA investigation](./cia-investigation.md) (institutional “deep state” framing elsewhere in this corpus)
 
 ---
 

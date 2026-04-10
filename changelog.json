@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "ad39ca9341d5e76be4a04fcc217f9c11ccaffb2f",
+    "date": "2026-04-10T01:28:35.000Z",
+    "message": "Investigations: update Cruz/Kevin header PNG",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "437aceae464487016350194509c99f6bdd9f4db7",
     "date": "2026-04-10T01:28:09.000Z",
     "message": "Blog (2026-04-10): add Forgotten Future (ff-story, ff-teaser, site) GitLab Pages",
@@ -129,12 +142,5 @@
         "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "ae560420db9cf7a09d7556e9793b4874cfaad95f",
-    "date": "2026-04-09T16:28:35.000Z",
-    "message": "chore: confirm relay accepts SSH-signed push",
-    "files": []
   }
 ]
