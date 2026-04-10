@@ -1,6 +1,29 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "b7be36c91d78d8665e9eb74f2fb81b4a4ff8e59a",
+    "date": "2026-04-09T19:50:25.000Z",
+    "message": "cosmos/venus: add Venus investigations index and Saturnian-to-Venera probe article; refresh Jade Helm investigation header PNG",
+    "files": [
+      {
+        "status": "A",
+        "path": "cosmos/venus/investigations/index-venus.md",
+        "href": "/cosmos/venus/investigations/index-venus"
+      },
+      {
+        "status": "A",
+        "path": "cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation.md",
+        "href": "/cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png",
+        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "ae560420db9cf7a09d7556e9793b4874cfaad95f",
     "date": "2026-04-09T16:28:35.000Z",
     "message": "chore: confirm relay accepts SSH-signed push",
@@ -101,29 +124,6 @@
         "status": "A",
         "path": "blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md",
         "href": "/blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "b8d9e8321ba7f0dea352288874f06cf31dd575e4",
-    "date": "2026-04-05T17:11:20.000Z",
-    "message": "Index, investigations, censorship asset updates",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/jew-word-terminology-judas-judicial.md",
-        "href": "/history/chronology/investigations/jew-word-terminology-judas-judicial"
-      },
-      {
-        "status": "A",
-        "path": "influence/censorship/ai_censorship2.png",
-        "href": "/influence/censorship/ai_censorship2.png"
-      },
-      {
-        "status": "M",
-        "path": "scripts/generate-index.py",
-        "href": "/scripts/generate-index.py"
       }
     ]
   }
