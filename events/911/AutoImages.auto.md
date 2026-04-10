@@ -50,5 +50,5 @@
 
 ---
 
-Keywords: #autoimages-auto
+Keywords: #autoimagesauto
 

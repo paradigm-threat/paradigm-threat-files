@@ -5,5 +5,5 @@ art. [[source]](https://www.wga.hu/html_m/t/tintoret/3b/1albergo/2/index.html)
 
 ---
 
-Keywords: #crucifixion-descent-tintoretto-1565
+Keywords: #crucifixiondescenttintoretto1565
 

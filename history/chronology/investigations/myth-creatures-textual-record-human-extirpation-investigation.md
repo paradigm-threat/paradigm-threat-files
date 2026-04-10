@@ -124,5 +124,5 @@ This file **does not** promote treasure hunting, wildlife crime, or dismissal of
 
 ---
 
-Keywords: #griffin #griffins #priscus #huns #jordanes #extinction #extirpation #cryptozoology #megafauna #ethnography #dragons #dragon-fire #comet-venus #1492-bce #passover #exodus #chinese-dragon #long #fafnir #drakon #beowulf-dragon #sea-serpents #chimera #natural-history #fossils #anthropogenic
+Keywords: #griffin #griffins #priscus #huns #jordanes #extinction #extirpation #cryptozoology #megafauna #ethnography #dragons #dragonfire #cometvenus #1492bce #passover #exodus #chinesedragon #long #fafnir #drakon #beowulfdragon #seaserpents #chimera #naturalhistory #fossils #anthropogenic
 

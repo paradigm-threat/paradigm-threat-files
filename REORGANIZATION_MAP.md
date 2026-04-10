@@ -118,5 +118,5 @@ This document tracks the mapping of old directory paths to the new "Spheres of I
 
 ---
 
-Keywords: #reorganization-map #directory #reorganization #map
+Keywords: #reorganizationmap #directory #reorganization #map
 

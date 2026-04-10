@@ -4,5 +4,5 @@
 
 ---
 
-Keywords: #chat-nukes #nuclear #weapons #chat
+Keywords: #chatnukes #nuclear #weapons #chat
 

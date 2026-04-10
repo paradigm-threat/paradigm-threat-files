@@ -201,5 +201,5 @@ Primary article on Fomenko's Shakespeare identification ([SAK] analysis), placed
 
 ---
 
-Keywords: #2026 #update #chapter #consolidation #new #articles #print-ready #pdf #chronological #corrections
+Keywords: #2026 #update #chapter #consolidation #new #articles #printready #pdf #chronological #corrections
 

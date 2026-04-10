@@ -3,5 +3,5 @@ solar eclipse represented with the Nativity of Christ and the crucifixion of And
 
 ---
 
-Keywords: #eight-pointed-star-and-crescent
+Keywords: #eightpointedstarandcrescent
 

@@ -4,5 +4,5 @@
 
 ---
 
-Keywords: #chat-usury #usury #chatroom
+Keywords: #chatusury #usury #chatroom
 

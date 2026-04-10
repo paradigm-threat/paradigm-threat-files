@@ -49,5 +49,5 @@ By the way, please don't get in touch with me regarding David Icke.  I mention h
 
 ---
 
-Keywords: #something-in-books #be #something #books
+Keywords: #somethinginbooks #be #something #books
 

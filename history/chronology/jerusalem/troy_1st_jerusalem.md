@@ -6,5 +6,5 @@ number 6-6-6.
 
 ---
 
-Keywords: #troy-1st-jerusalem
+Keywords: #troy1stjerusalem
 

@@ -247,5 +247,5 @@ Fascism in Italy was sold as **restoration of Roman greatness**, not as a new id
 
 ---
 
-Keywords: #wwii #fascism #religious #apparatus #japan #italy #germany #religious-apparatus #takeover
+Keywords: #wwii #fascism #religious #apparatus #japan #italy #germany #religiousapparatus #takeover
 

@@ -62,3 +62,4 @@ End every blog post with relevant topic hashtags as links. Each tag links to the
 - Do **not** use `paradigm*`, `project*`, or other meta-terms
 - Use path-based URLs: `https://paradigmthreat.net/search/[topic]` (e.g. `/search/conspiracy`, `/search/stolen_credit`)
 - Avoid tags that don't exist as folders or file names
+- **Social / Instagram:** Hashtags there allow **letters, numbers, and underscores** in a single tag. Do **not** put **hyphens** inside the tag text (a hyphen ends the tag on Instagram). The same convention applies anywhere in this repo you end a file with a plain `Keywords:` hashtag line (investigations, notes, etc.): use `#jadehelm` or `#stolencredit`, not `#jade-helm` or `#stolen-credit`.

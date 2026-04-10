@@ -145,5 +145,5 @@ As an **open theory** for investigation (not asserted as fact):
 
 ---
 
-Keywords: #tham #luang #cave #rescue #2018 #cover-up #alternate #theories
+Keywords: #tham #luang #cave #rescue #2018 #coverup #alternate #theories
 

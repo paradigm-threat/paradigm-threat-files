@@ -1740,5 +1740,5 @@ Die Nachprüfung meiner Berechnungen von seiten der Astronomen M. M. Kamensky un
 
 ---
 
-Keywords: #text-formatted #die #offenbarung #johannis #eine #astronomisch-historische #untersuchung
+Keywords: #textformatted #die #offenbarung #johannis #eine #astronomischhistorische #untersuchung
 

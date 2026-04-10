@@ -30,5 +30,5 @@ The flat content structure with consistent numbering, root-relative media paths,
 
 ---
 
-Keywords: #2026 #pre #launch #buildup #february #pre-launch #build #media #structure #content
+Keywords: #2026 #pre #launch #buildup #february #prelaunch #build #media #structure #content
 

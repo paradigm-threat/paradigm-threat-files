@@ -12,5 +12,5 @@ version.
 
 ---
 
-Keywords: #painting-joan-of-arc-stake
+Keywords: #paintingjoanofarcstake
 

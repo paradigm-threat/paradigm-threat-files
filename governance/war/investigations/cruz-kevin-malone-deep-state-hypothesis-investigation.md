@@ -254,4 +254,4 @@ Output path (developer machine): `~/dev/subs/the-office-us-kevin-malone-master.m
 
 ---
 
-Keywords: #ted-cruz #kevin-malone #the-office #2016-primary #meme #deep-state-hypothesis #jade-helm #investigation-open
+Keywords: #tedcruz #kevinmalone #theoffice #2016primary #meme #deepstatehypothesis #jadehelm #investigationopen

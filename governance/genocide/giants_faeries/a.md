@@ -4,5 +4,5 @@ Check back soon!
 
 ---
 
-Keywords: #existence #cover-up #giant #humanoids
+Keywords: #existence #coverup #giant #humanoids
 

@@ -1,6 +1,24 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "557b612890f72d9a5cdcf1515891b19d60647c4a",
+    "date": "2026-04-10T16:34:19.000Z",
+    "message": "Investigations: link Jade Helm and Cruz/Kevin to evt-trump timeline synthesis",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "64e0060689d46b78a1ee5e738680601665769f88",
     "date": "2026-04-10T14:57:38.000Z",
     "message": "Investigations: Extended Jade Helm hypothesis (Angry Birds gate, Bush–Epstein frame, Cruz/Trump); cross-link Cruz file",
@@ -117,19 +135,6 @@
         "status": "M",
         "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
         "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "437aceae464487016350194509c99f6bdd9f4db7",
-    "date": "2026-04-10T01:28:09.000Z",
-    "message": "Blog (2026-04-10): add Forgotten Future (ff-story, ff-teaser, site) GitLab Pages",
-    "files": [
-      {
-        "status": "M",
-        "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
-        "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
       }
     ]
   }

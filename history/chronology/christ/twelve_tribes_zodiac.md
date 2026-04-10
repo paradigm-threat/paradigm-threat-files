@@ -2,5 +2,5 @@
 
 ---
 
-Keywords: #twelve-tribes-zodiac
+Keywords: #twelvetribeszodiac
 

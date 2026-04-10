@@ -22,5 +22,5 @@ I feel very fortunate that I grew up on farms with spring water. I've never had 
 
 ---
 
-Keywords: #ssstwitter-com-1772378839442 #transcript #ssstwitter #com1772378839442 #mp3
+Keywords: #ssstwittercom1772378839442 #transcript #ssstwitter #com1772378839442 #mp3
 

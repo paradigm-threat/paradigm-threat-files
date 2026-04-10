@@ -298,5 +298,5 @@ Coincidence (André + “colossus” + giant role) ≠ intent. Fomenko’s Chris
 
 ---
 
-Keywords: #princess #bride #andronicus #fezzik #fomenko #andronicus-christ #colossus #dialogue
+Keywords: #princess #bride #andronicus #fezzik #fomenko #andronicuschrist #colossus #dialogue
 

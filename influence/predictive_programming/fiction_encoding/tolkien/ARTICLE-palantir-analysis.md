@@ -145,5 +145,5 @@ Tolkien shows both phases; Wells shows only the perverted phase — Martian surv
 
 ---
 
-Keywords: #article #palantir #analysis #palant #ri #tolkien #seeing-stones
+Keywords: #article #palantir #analysis #palant #ri #tolkien #seeingstones
 
