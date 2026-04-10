@@ -1,6 +1,6 @@
 # Investigation: Jade Helm 15 — “Real Op” Hypothesis, Texas, and the 2016 GOP Field
 
-**Date:** 2026-04-09 (timeline / 2012→2016 / volcanoes context expanded); **2026-04-10** — master timeline rows for **Jan–Mar 2013** (*Office* **filming** vs Cruz **seated**), cross-links to [Cruz / Kevin](./cruz-kevin-malone-deep-state-hypothesis-investigation.md) addendum (epistemic threads, Baumgartner credits, ridicule/verification stance, Jade Helm as hypothetical instrument class).  
+**Date:** 2026-04-09 (timeline / 2012→2016 / volcanoes context expanded); **2026-04-10** — master timeline (**Jan–Mar 2013** filming vs Cruz seated); Cruz/Kevin addendum cross-links; **Kevin / Oscar / Angela**, *The Accountants* webisodes, season 9 Oscar–senator thread (parallel file).  
 **Status:** Open — **hypothesis under investigation**, not asserted as proven. Awaiting dispositive evidence (see [What would confirm or falsify](#what-would-confirm-or-falsify-this-thesis)).
 
 **Parallel file:** [Cruz / Kevin Malone / deep-state hypothesis](./cruz-kevin-malone-deep-state-hypothesis-investigation.md) (meme layer, compromise narrative, cross-links to this exercise).
@@ -164,6 +164,7 @@ The piece is labelled humour, but satire often states what insiders will not say
 
 - Meme-era **Kevin Malone** comparison to Cruz went **viral Feb 2016**—**after** Jade Helm’s **active window**. See [Cruz / Kevin Malone hypothesis](./cruz-kevin-malone-deep-state-hypothesis-investigation.md) for **timeline**, **sources**, and the **“hijacked Kevin plan”** narrative **as hypothesis**.
 - Same file’s **Investigator addendum** (2026 research pass): **filming vs broadcast** vs Cruz **Senate seating**; **Brian Baumgartner** post-*Office* credits (surface two-career debunk); **epistemic fork** on trusting trade-press dates; **left-leaning youth** evidence gap; **ridicule without verification** on Jade Helm and **cover-up** stance; **logic check** (Jade Helm as **hypothetical instrument class**, McCain/Romney **general** losses, **unprovability** of executive intent).
+- **Kevin / Oscar / Angela** cluster: ***The Accountants*** (10 webisodes, seasons **2→3** gap); **Oscar–senator** (Lipton) **season 9** arc; *Stairmageddon* / privy-cast speculation — see [Cruz / Kevin file — Kevin, Oscar, Angela](./cruz-kevin-malone-deep-state-hypothesis-investigation.md#kevin-oscar-angela--the-accountants-webisodes-and-season-9-senator-thread-speculation).
 
 ---
 
