@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "a3e9c7a63b5190b56544aed03d4378660eee12ca",
+    "date": "2026-04-10T01:07:05.000Z",
+    "message": "Blog: Jade Helm, Cruz/Kevin, Venus, Relay policy, site TTS (since 2026-04-05)",
+    "files": [
+      {
+        "status": "A",
+        "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
+        "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "fe23cdc4b011c9fc2ace9fd07b70e6cd96ae7504",
     "date": "2026-04-10T00:59:20.000Z",
     "message": "Investigations: Cruz/Kevin doc tweak; header PNG assets",
@@ -121,24 +134,6 @@
         "status": "A",
         "path": ".relay.yaml",
         "href": "/.relay.yaml"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "d95fbdf80dc222a1da28d10b14206b8dc068a23f",
-    "date": "2026-04-09T16:01:31.000Z",
-    "message": "Jade Helm investigation: embed header PNG alongside markdown.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png",
-        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png"
       }
     ]
   }
