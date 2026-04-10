@@ -99,5 +99,5 @@ There is **no single** `Einstein-vs-Marx` investigation in **paradigm-threat-fil
 
 ---
 
-Keywords: #gnostic #vs #agnostic #theism #atheism #planet #gods #gnosis #agnosticism #post #planet-god #religion
+Keywords: #gnostic #vs #agnostic #theism #atheism #planet #gods #gnosis #agnosticism #post #planetgod #religion
 

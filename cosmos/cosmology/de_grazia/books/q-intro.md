@@ -41,5 +41,5 @@ Essential reading before any other volume — it explains the vocabulary, the go
 
 ---
 
-Keywords: #intro #quantavolution #catastrophe #series #q-c #test
+Keywords: #intro #quantavolution #catastrophe #series #qc #test
 

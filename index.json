@@ -14,7 +14,7 @@
         "paradigm",
         "threat",
         "old",
-        "paradigm-threat-old",
+        "paradigmthreatold",
         "project",
         "beginnings",
         "maintenance"
@@ -28,7 +28,7 @@
         "old2",
         "sources",
         "content",
-        "paradigm-threat-old2",
+        "paradigmthreatold2",
         "rebuild",
         "submodule",
         "expansion"
@@ -81,7 +81,7 @@
         "end",
         "chat",
         "fixes",
-        "year-end",
+        "yearend",
         "updates"
       ],
       "_updated": "2024-12-31T12:00:00Z"
@@ -94,7 +94,7 @@
         "threat",
         "launch",
         "september",
-        "paradigm-threat-files",
+        "paradigmthreatfiles",
         "repository",
         "created"
       ],
@@ -108,7 +108,7 @@
         "project",
         "beginnings",
         "begins",
-        "paradigm-threat-files",
+        "paradigmthreatfiles",
         "refactor"
       ],
       "_updated": "2026-01-31T12:00:00Z"
@@ -121,7 +121,7 @@
         "launch",
         "buildup",
         "february",
-        "pre-launch",
+        "prelaunch",
         "build",
         "media",
         "structure",
@@ -190,7 +190,7 @@
         "consolidation",
         "new",
         "articles",
-        "print-ready",
+        "printready",
         "pdf",
         "chronological",
         "corrections"
@@ -291,7 +291,7 @@
         "update",
         "content",
         "reduction",
-        "fiction-encoding",
+        "fictionencoding",
         "arthurian",
         "cosmology",
         "new",
@@ -341,7 +341,7 @@
         "israel",
         "divide",
         "conquer",
-        "divide-and-conquer"
+        "divideandconquer"
       ],
       "_updated": "2026-03-14T12:00:00Z"
     },
@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-10T14:57:38Z"
+    "_updated": "2026-04-10T16:34:19Z"
   },
   "cosmos": {
     "cosmology": {
@@ -720,7 +720,7 @@
               "quantavolution",
               "catastrophe",
               "series",
-              "q-c",
+              "qc",
               "test"
             ],
             "_updated": "2026-04-05T12:17:42Z"
@@ -1168,7 +1168,7 @@
         "ANNAS_ARCHIVE_DOWNLOADS_INDEX.md": {
           "_title": "Anna's Archive \u2014 Hollow Earth Downloads Index",
           "_keywords": [
-            "annas-archive-downloads-index",
+            "annasarchivedownloadsindex",
             "anna",
             "archive",
             "hollow",
@@ -1261,7 +1261,7 @@
         },
         "hollow_earth_chat.md": {
           "_keywords": [
-            "hollow-earth-chat",
+            "hollowearthchat",
             "hollow",
             "chatroom"
           ],
@@ -1449,7 +1449,7 @@
             "cave",
             "rescue",
             "2018",
-            "cover-up",
+            "coverup",
             "alternate",
             "theories"
           ],
@@ -1889,7 +1889,7 @@
             "wotw",
             "forbidden",
             "blood",
-            "blood-feeding",
+            "bloodfeeding",
             "discipline",
             "collapse"
           ],
@@ -1914,7 +1914,7 @@
             "martian",
             "civilization",
             "wells",
-            "cross-source",
+            "crosssource",
             "intelligence",
             "dossier"
           ],
@@ -2493,7 +2493,7 @@
       },
       "AutoImages.auto.md": {
         "_keywords": [
-          "autoimages-auto"
+          "autoimagesauto"
         ],
         "_updated": "2026-04-05T12:17:42Z"
       },
@@ -2820,7 +2820,7 @@
           "_title": "Investigation: September 11, 2001 \u2014 Good-Actor Historic Antibody Thesis",
           "_keywords": [
             "september",
-            "good-actor",
+            "goodactor",
             "historic",
             "antibody",
             "thesis"
@@ -3045,7 +3045,7 @@
       },
       "Predictive_Programming_Archon_Defender_2009.md": {
         "_keywords": [
-          "predictive-programming-archon-defender-2009"
+          "predictiveprogrammingarchondefender2009"
         ],
         "_updated": "2026-04-05T12:17:42Z"
       },
@@ -3271,7 +3271,7 @@
         "a.md": {
           "_keywords": [
             "existence",
-            "cover-up",
+            "coverup",
             "giant",
             "humanoids"
           ],
@@ -3317,7 +3317,7 @@
           "_keywords": [
             "faeries",
             "existence",
-            "cover-up",
+            "coverup",
             "small",
             "humanoids",
             "like",
@@ -3441,7 +3441,7 @@
         },
         "giant_books.md": {
           "_keywords": [
-            "giant-books"
+            "giantbooks"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -5503,7 +5503,7 @@
       },
       "chat_usury.md": {
         "_keywords": [
-          "chat-usury",
+          "chatusury",
           "usury",
           "chatroom"
         ],
@@ -5591,7 +5591,7 @@
       },
       "dead_at_sea.md": {
         "_keywords": [
-          "dead-at-sea"
+          "deadatsea"
         ],
         "_updated": "2026-04-05T12:17:42Z"
       },
@@ -5913,7 +5913,7 @@
             "conquer",
             "israel",
             "empire",
-            "divide-and-conquer",
+            "divideandconquer",
             "india",
             "pakistan",
             "africa",
@@ -5940,16 +5940,16 @@
         "cruz-kevin-malone-deep-state-hypothesis-investigation.md": {
           "_title": "Investigation: Ted Cruz, Kevin Malone (*The Office*), and the \u201cHijacked Plan\u201d Hypothesis",
           "_keywords": [
-            "ted-cruz",
-            "kevin-malone",
-            "the-office",
-            "2016-primary",
+            "tedcruz",
+            "kevinmalone",
+            "theoffice",
+            "2016primary",
             "meme",
-            "deep-state-hypothesis",
-            "jade-helm",
-            "investigation-open"
+            "deepstatehypothesis",
+            "jadehelm",
+            "investigationopen"
           ],
-          "_updated": "2026-04-10T14:57:38Z"
+          "_updated": "2026-04-10T16:34:19Z"
         },
         "cruz-kevin-malone-deep-state-hypothesis-investigation.png": {
           "_width": 1536,
@@ -5990,20 +5990,20 @@
         "jade-helm-texas-coup-cruz-hypothesis-investigation.md": {
           "_title": "Investigation: Jade Helm 15 \u2014 \u201cReal Op\u201d Hypothesis, Texas, and the 2016 GOP Field",
           "_keywords": [
-            "jade-helm",
+            "jadehelm",
             "texas",
-            "ted-cruz",
+            "tedcruz",
             "2012",
-            "angry-birds",
-            "2016-primary",
+            "angrybirds",
+            "2016primary",
             "volcano",
-            "apocalyptic-rhetoric",
-            "deep-state-hypothesis",
-            "military-exercise",
-            "conspiracy-theory",
-            "investigation-open"
+            "apocalypticrhetoric",
+            "deepstatehypothesis",
+            "militaryexercise",
+            "conspiracytheory",
+            "investigationopen"
           ],
-          "_updated": "2026-04-10T14:57:38Z"
+          "_updated": "2026-04-10T16:34:19Z"
         },
         "jade-helm-texas-coup-cruz-hypothesis-investigation.png": {
           "_width": 1536,
@@ -6053,10 +6053,31 @@
             "airship",
             "sound",
             "cannons",
-            "lighter-than-air",
+            "lighterthanair",
             "technology"
           ],
           "_updated": "2026-04-05T12:17:42Z"
+        },
+        "occupy-wall-street-controlled-opposition-investigation.md": {
+          "_title": "Investigation: Occupy Wall Street \u2014 origins, collapse, surveillance, and the \u201ccontrolled opposition\u201d thesis",
+          "_keywords": [
+            "war",
+            "finance",
+            "protest",
+            "surveillance",
+            "occupy",
+            "2011",
+            "arabspring",
+            "fusioncenters",
+            "hypothesis"
+          ],
+          "_updated": "2026-04-10T22:26:19Z"
+        },
+        "occupy-wall-street-controlled-opposition-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JZQAAsfh69u9AAD+0FV5KbSZ0IdksCmq2Yhn8e7qVNFvAHh7oZNDf3i6R1YEAAA=",
+          "_updated": "2026-04-10T22:25:40Z"
         },
         "operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md": {
           "_title": "Investigation: Operation Paperclip, Nazi Continuity, and the WWII \u201cDefeat\u201d Narrative",
@@ -6119,7 +6140,7 @@
             "western",
             "orchestration",
             "media",
-            "post-wwii",
+            "postwwii",
             "isolation"
           ],
           "_updated": "2026-04-05T12:17:42Z"
@@ -6136,6 +6157,29 @@
             "aftermath"
           ],
           "_updated": "2026-04-05T12:17:42Z"
+        },
+        "us-citizens-vs-federal-armed-confrontations-investigation.md": {
+          "_title": "Investigation: Armed confrontations \u2014 U.S. citizens vs. federal government, military, and federal agents",
+          "_keywords": [
+            "war",
+            "investigationopen",
+            "jadehelm",
+            "bundystandoff",
+            "blm",
+            "militia",
+            "federalgovernment",
+            "ushistory",
+            "armedstandoff",
+            "movebombing",
+            "philadelphia"
+          ],
+          "_updated": "2026-04-10T22:27:15Z"
+        },
+        "us-citizens-vs-federal-armed-confrontations-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQAAsABUB8JZgCdACARbgA9oje1O333FSGBHqmE+ysEyFiicj+8HZqYQBP0hBqeBE7awgA",
+          "_updated": "2026-04-10T22:26:19Z"
         },
         "us-civil-war-investigation.md": {
           "_title": "Investigation: US Civil War \u2014 British Funding, Slavery as Instrument, and the DU Weapon Thesis",
@@ -6175,7 +6219,7 @@
             "japan",
             "italy",
             "germany",
-            "religious-apparatus",
+            "religiousapparatus",
             "takeover"
           ],
           "_updated": "2026-04-05T12:17:42Z"
@@ -6196,7 +6240,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 26
+        "_count": 30
       },
       "military_police.jpg": {
         "_width": 960,
@@ -6215,7 +6259,7 @@
           "using",
           "child",
           "pilots",
-          "anti-gravity",
+          "antigravity",
           "aircraft",
           "whole",
           "lotta",
@@ -6307,9 +6351,9 @@
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 71
+      "_count": 75
     },
-    "_count": 506
+    "_count": 510
   },
   "history": {
     "chronology": {
@@ -6483,7 +6527,7 @@
         },
         "chat_christ.md": {
           "_keywords": [
-            "chat-christ",
+            "chatchrist",
             "christ",
             "chat"
           ],
@@ -6575,7 +6619,7 @@
         },
         "crucifixion_descent_tintoretto_1565.md": {
           "_keywords": [
-            "crucifixion-descent-tintoretto-1565"
+            "crucifixiondescenttintoretto1565"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -6611,7 +6655,7 @@
         },
         "hans_bol_crucifixion_1587.md": {
           "_keywords": [
-            "hans-bol-crucifixion-1587"
+            "hansbolcrucifixion1587"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -6631,7 +6675,7 @@
         },
         "son_of_man.md": {
           "_keywords": [
-            "son-of-man"
+            "sonofman"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -6655,7 +6699,7 @@
         },
         "twelve_tribes_zodiac.md": {
           "_keywords": [
-            "twelve-tribes-zodiac"
+            "twelvetribeszodiac"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -6797,7 +6841,7 @@
         "GOLDEN_AGE_ADDITIONS_REPORT.md": {
           "_title": "Golden Age Additions Report",
           "_keywords": [
-            "golden-age-additions-report",
+            "goldenageadditionsreport",
             "golden",
             "additions",
             "report"
@@ -6866,7 +6910,7 @@
             "gnosis",
             "agnosticism",
             "post",
-            "planet-god",
+            "planetgod",
             "religion"
           ],
           "_updated": "2026-04-05T12:17:42Z"
@@ -6961,19 +7005,19 @@
             "megafauna",
             "ethnography",
             "dragons",
-            "dragon-fire",
-            "comet-venus",
-            "1492-bce",
+            "dragonfire",
+            "cometvenus",
+            "1492bce",
             "passover",
             "exodus",
-            "chinese-dragon",
+            "chinesedragon",
             "long",
             "fafnir",
             "drakon",
-            "beowulf-dragon",
-            "sea-serpents",
+            "beowulfdragon",
+            "seaserpents",
             "chimera",
-            "natural-history",
+            "naturalhistory",
             "fossils",
             "anthropogenic"
           ],
@@ -6996,7 +7040,7 @@
             "memory",
             "lands",
             "post",
-            "mud-flood"
+            "mudflood"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -7057,7 +7101,7 @@
             "english",
             "political",
             "lexicon",
-            "rus-horde",
+            "rushorde",
             "echoes",
             "military",
             "vocabulary"
@@ -7096,12 +7140,12 @@
         "text_formatted.md": {
           "_title": "Die Offenbarung Johannis \u2014 Eine astronomisch-historische Untersuchung",
           "_keywords": [
-            "text-formatted",
+            "textformatted",
             "die",
             "offenbarung",
             "johannis",
             "eine",
-            "astronomisch-historische",
+            "astronomischhistorische",
             "untersuchung"
           ],
           "_updated": "2026-04-05T12:17:42Z"
@@ -7172,7 +7216,7 @@
         },
         "kremlin_2nd_jerusalem_boris_godunov.md": {
           "_keywords": [
-            "kremlin-2nd-jerusalem-boris-godunov"
+            "kremlin2ndjerusalemborisgodunov"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -7184,7 +7228,7 @@
         },
         "troy_1st_jerusalem.md": {
           "_keywords": [
-            "troy-1st-jerusalem"
+            "troy1stjerusalem"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -7202,7 +7246,7 @@
         },
         "troy_protected_from_mars_by_antonio_raffaele_calliano_1815.md": {
           "_keywords": [
-            "troy-protected-from-mars-by-antonio-raffaele-calliano-1815"
+            "troyprotectedfrommarsbyantonioraffaelecalliano1815"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -7314,7 +7358,7 @@
         },
         "pyramiden_splitsbergen_1928.md": {
           "_keywords": [
-            "pyramiden-splitsbergen-1928"
+            "pyramidensplitsbergen1928"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -7496,7 +7540,7 @@
         },
         "chat_saturnian_cosmology.md": {
           "_keywords": [
-            "chat-saturnian-cosmology",
+            "chatsaturniancosmology",
             "saturnian",
             "cosmology",
             "chat"
@@ -7864,7 +7908,7 @@
         },
         "_time_warp.md": {
           "_keywords": [
-            "time-warp",
+            "timewarp",
             "let",
             "do",
             "time",
@@ -7896,7 +7940,7 @@
         },
         "eight_pointed_star_and_crescent.md": {
           "_keywords": [
-            "eight-pointed-star-and-crescent"
+            "eightpointedstarandcrescent"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -7915,7 +7959,7 @@
         },
         "galileo_facing_the_inquisition.md": {
           "_keywords": [
-            "galileo-facing-the-inquisition"
+            "galileofacingtheinquisition"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -7939,7 +7983,7 @@
         },
         "israel_fake_history.md": {
           "_keywords": [
-            "israel-fake-history"
+            "israelfakehistory"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -7969,7 +8013,7 @@
         },
         "map_1754_tartaria.md": {
           "_keywords": [
-            "map-1754-tartaria"
+            "map1754tartaria"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -7993,7 +8037,7 @@
         },
         "painting_joan_of_arc_stake.md": {
           "_keywords": [
-            "painting-joan-of-arc-stake"
+            "paintingjoanofarcstake"
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
@@ -8183,7 +8227,7 @@
       "nenovsky_Kinkel_EJHET_2015.md": {
         "_title": "Ivan Kinkel's (1883\u20131945) Theory of Economic Development",
         "_keywords": [
-          "nenovsky-kinkel-ejhet-2015",
+          "nenovskykinkelejhet2015",
           "ivan",
           "kinkel",
           "economic",
@@ -8220,7 +8264,7 @@
       },
       "chat_maps.md": {
         "_keywords": [
-          "chat-maps",
+          "chatmaps",
           "maps",
           "chatroom"
         ],
@@ -8426,7 +8470,7 @@
       },
       "map_tartaria_hondius.md": {
         "_keywords": [
-          "map-tartaria-hondius"
+          "maptartariahondius"
         ],
         "_updated": "2026-04-05T12:17:42Z"
       },
@@ -9143,11 +9187,11 @@
             "disasters",
             "passat",
             "bowl",
-            "large-scale",
+            "largescale",
             "atmospheric",
             "shocks",
             "post",
-            "mud-flood",
+            "mudflood",
             "oddities"
           ],
           "_updated": "2026-04-05T12:17:42Z"
@@ -10407,7 +10451,7 @@
             "death",
             "merck",
             "whistleblower",
-            "anti-vax",
+            "antivax",
             "activist"
           ],
           "_updated": "2026-04-05T12:17:42Z"
@@ -10417,7 +10461,7 @@
           "_keywords": [
             "brett",
             "gelman",
-            "conspiracy-theorist",
+            "conspiracytheorist",
             "persona",
             "hollywood",
             "encoding"
@@ -10534,7 +10578,7 @@
             "gordon",
             "hollywood",
             "identity",
-            "late-career",
+            "latecareer",
             "ascent"
           ],
           "_updated": "2026-04-05T12:17:42Z"
@@ -10711,7 +10755,7 @@
       "essays": {
         "Something_in_books.md": {
           "_keywords": [
-            "something-in-books",
+            "somethinginbooks",
             "be",
             "something",
             "books"
@@ -10729,7 +10773,7 @@
         },
         "magic_history.md": {
           "_keywords": [
-            "magic-history",
+            "magichistory",
             "magic",
             "silly",
             "people"
@@ -10738,7 +10782,7 @@
         },
         "riding_the_bus.md": {
           "_keywords": [
-            "riding-the-bus",
+            "ridingthebus",
             "riding",
             "bus",
             "bigfoot"
@@ -10747,7 +10791,7 @@
         },
         "wake_up_neo.md": {
           "_keywords": [
-            "wake-up-neo",
+            "wakeupneo",
             "wake",
             "neo"
           ],
@@ -11172,7 +11216,7 @@
         },
         "circumcision_cult.md": {
           "_keywords": [
-            "circumcision-cult",
+            "circumcisioncult",
             "reality",
             "no",
             "person",
@@ -11272,7 +11316,7 @@
       },
       "chat_controlled_opposition.md": {
         "_keywords": [
-          "chat-controlled-opposition",
+          "chatcontrolledopposition",
           "suppressed",
           "tech",
           "chat"
@@ -11370,7 +11414,7 @@
       },
       "harry_potter_carnivals_of_life_and_death.md": {
         "_keywords": [
-          "harry-potter-carnivals-of-life-and-death",
+          "harrypottercarnivalsoflifeanddeath",
           "harry",
           "potter",
           "carnivals",
@@ -11738,7 +11782,7 @@
               "andronicus",
               "fezzik",
               "fomenko",
-              "andronicus-christ",
+              "andronicuschrist",
               "colossus",
               "dialogue"
             ],
@@ -11888,7 +11932,7 @@
               "tartary",
               "rus",
               "mirrors",
-              "rus-timeline",
+              "rustimeline",
               "thread"
             ],
             "_updated": "2026-04-05T12:17:42Z"
@@ -11931,7 +11975,7 @@
               "loathing",
               "las",
               "vegas",
-              "government-antagonistic",
+              "governmentantagonistic",
               "highlights"
             ],
             "_updated": "2026-04-05T12:17:42Z"
@@ -11942,7 +11986,7 @@
               "great",
               "shark",
               "hunt",
-              "government-antagonistic",
+              "governmentantagonistic",
               "highlights"
             ],
             "_updated": "2026-04-05T12:17:42Z"
@@ -11953,7 +11997,7 @@
               "hells",
               "angels",
               "hell",
-              "government-antagonistic",
+              "governmentantagonistic",
               "highlights"
             ],
             "_updated": "2026-04-05T12:17:42Z"
@@ -11996,7 +12040,7 @@
               "managed",
               "disclosure",
               "hunter",
-              "satan-worshipper",
+              "satanworshipper",
               "bar",
               "story",
               "potential"
@@ -12015,7 +12059,7 @@
               "palant",
               "ri",
               "tolkien",
-              "seeing-stones"
+              "seeingstones"
             ],
             "_updated": "2026-04-05T12:17:42Z"
           },
@@ -12221,7 +12265,7 @@
       },
       "the_office.md": {
         "_keywords": [
-          "the-office",
+          "theoffice",
           "office"
         ],
         "_updated": "2026-04-05T12:17:42Z"
@@ -12723,7 +12767,7 @@
       "a.md": {
         "_keywords": [
           "secret",
-          "electro-gravitic",
+          "electrogravitic",
           "thrusters",
           "exist",
           "passenger",
@@ -13196,7 +13240,7 @@
           "electromagnetic",
           "suppression",
           "media",
-          "cover-up"
+          "coverup"
         ],
         "_updated": "2026-04-05T12:17:42Z"
       },
@@ -13342,7 +13386,7 @@
         "ssstwitter.com_1772378839442-investigation.md": {
           "_title": "Investigation: David Straight's Chernobyl Probiotics Claims",
           "_keywords": [
-            "ssstwitter-com-1772378839442",
+            "ssstwittercom1772378839442",
             "david",
             "straight",
             "chernobyl",
@@ -13354,7 +13398,7 @@
         "ssstwitter.com_1772378839442-transcript.md": {
           "_title": "Transcript: ssstwitter.com_1772378839442.mp3",
           "_keywords": [
-            "ssstwitter-com-1772378839442",
+            "ssstwittercom1772378839442",
             "transcript",
             "ssstwitter",
             "com1772378839442",
@@ -13497,7 +13541,7 @@
       },
       "chat_nukes.md": {
         "_keywords": [
-          "chat-nukes",
+          "chatnukes",
           "nuclear",
           "weapons",
           "chat"
@@ -13544,7 +13588,7 @@
             "cures",
             "suppression",
             "battlefield",
-            "post-war",
+            "postwar",
             "nuclear",
             "narrative"
           ],
@@ -13707,6 +13751,6 @@
     },
     "_count": 153
   },
-  "_count": 1941,
-  "_version": "64e0060"
+  "_count": 1945,
+  "_version": "557b612"
 }

@@ -126,5 +126,5 @@ Moreau's stated method is vivisection—"animals carven and wrought into new sha
 
 ---
 
-Keywords: #thompson #managed #disclosure #hunter #satan-worshipper #bar #story #potential
+Keywords: #thompson #managed #disclosure #hunter #satanworshipper #bar #story #potential
 

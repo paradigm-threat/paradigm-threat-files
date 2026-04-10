@@ -208,5 +208,5 @@ Fifty workers, dead in their machines, killed by the one thing they had been tol
 
 ---
 
-Keywords: #wotw #forbidden #blood #blood-feeding #discipline #collapse
+Keywords: #wotw #forbidden #blood #bloodfeeding #discipline #collapse
 

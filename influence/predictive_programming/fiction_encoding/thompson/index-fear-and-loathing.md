@@ -52,5 +52,5 @@ The bar scene (attorney + Georgia DA) describes Satan-worshippers, human sacrifi
 
 ---
 
-Keywords: #fear #loathing #las #vegas #government-antagonistic #highlights
+Keywords: #fear #loathing #las #vegas #governmentantagonistic #highlights
 

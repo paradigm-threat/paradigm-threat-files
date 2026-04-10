@@ -5,5 +5,5 @@ The medical screening was a lie, an excuse to identify the Shard Sensitive."
 
 ---
 
-Keywords: #predictive-programming-archon-defender-2009
+Keywords: #predictiveprogrammingarchondefender2009
 

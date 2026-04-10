@@ -173,5 +173,5 @@ Timeline follow-up: add `docs/OUTSTANDING_QUESTIONS.md` entry for the **English 
 
 ---
 
-Keywords: #blood #rain #dust #ecological #disasters #passat #bowl #large-scale #atmospheric #shocks #post #mud-flood #oddities
+Keywords: #blood #rain #dust #ecological #disasters #passat #bowl #largescale #atmospheric #shocks #post #mudflood #oddities
 

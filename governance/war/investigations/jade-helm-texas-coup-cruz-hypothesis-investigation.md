@@ -1,6 +1,6 @@
 # Investigation: Jade Helm 15 — “Real Op” Hypothesis, Texas, and the 2016 GOP Field
 
-**Date:** 2026-04-09 (timeline / 2012→2016 / volcanoes context expanded); **2026-04-10** — master timeline: **May 2012–Mar 2013** s9 production, **~58-day** senator-elect, **prod. ≠ air order**; Cruz/Kevin addendum; **Kevin / Oscar / Angela** / *The Accountants* (parallel file); **2026-04-11** — **Angry Birds** / **media starvation**, **Bush–Epstein** blackmail frame, **Cruz** breakthrough vs **Trump** backup (investigator extension); **timeline** cross-link **[evt-trump](/timeline/evt-trump)**.  
+**Date:** 2026-04-09 (timeline / 2012→2016 / volcanoes context expanded); **2026-04-10** — master timeline: **May 2012–Mar 2013** s9 production, **~58-day** senator-elect, **prod. ≠ air order**; Cruz/Kevin addendum; **Kevin / Oscar / Angela** / *The Accountants* (parallel file); **2014-2016** armed federal flashpoints as **supporting context** ([catalog](./us-citizens-vs-federal-armed-confrontations-investigation.md)); **2026-04-11** — **Angry Birds** / **media starvation**, **Bush–Epstein** blackmail frame, **Cruz** breakthrough vs **Trump** backup (investigator extension); **timeline** cross-link **[evt-trump](/timeline/evt-trump)**.  
 **Status:** Open — **hypothesis under investigation**, not asserted as proven. Awaiting dispositive evidence (see [What would confirm or falsify](#what-would-confirm-or-falsify-this-thesis)).
 
 **Parallel file:** [Cruz / Kevin Malone / deep-state hypothesis](./cruz-kevin-malone-deep-state-hypothesis-investigation.md) (meme layer, compromise narrative, cross-links to this exercise).  
@@ -120,6 +120,23 @@ These points are **widely sourced** and are **not** the hypothesis; they anchor 
 
 ---
 
+## 2014-2016: Armed federal flashpoints (supporting evidence for the main thesis)
+
+**Master catalog:** [U.S. citizens vs. federal government — armed confrontations](./us-citizens-vs-federal-armed-confrontations-investigation.md) (chronological table, **Bundy-like** / **Jade-Helm-like** tags).
+
+The **core hypotheses** above (SOF exercise as **possible** cover for **political** **battlespace prep**; **Cruz** as **credibility** **node** for **cooling** **panic**) are **not** proven by the episodes below. The investigator nonetheless treats **four** **2014–2016** **flashpoints** as **supporting evidence** in three **limited** senses: **(1)** they show a **precedent-dense** **news** environment in which **federal** **land agencies** and **armed** **citizen** **networks** **repeatedly** **collided** on **camera**; **(2)** **Jade Helm 15** **sits inside** that **window** **not** as an **isolated** Texas **oddity** but as **one** **of** **several** **national** **stories** about **federal** **power** on **U.S.** **soil**; **(3)** the **same** **movement** **infrastructure** (e.g. **Bundy**-adjacent **figures**, **Oath** **Keepers**, **Three** **Percent** channels) **carried** **narrative** **from** **Bunkerville** **into** **Sugar** **Pine** and **Malheur**, so **suspicion** **directed** at **Jade** **Helm** **did** **not** **arise** in a **vacuum**.
+
+| Window | Event | Support for this file’s thesis (hypothesis layer only) |
+|--------|--------|--------------------------------------------------------|
+| **Apr 2014** | [Bundy standoff](https://en.wikipedia.org/wiki/Bundy_standoff) — Bunkerville, Nevada; **BLM** roundup of trespass cattle; **armed** supporters; federal **halt** for safety | **Prequel:** largest **BLM** **armed** **face-off** **before** Jade Helm’s **2015** **active** **phase**; **primes** **national** **media** and **militia** **attention** to **federal** **land** **enforcement** **and** **“retreat”** **optics**; **same** **patriot** **ecosystem** that would **amplify** **Jade** **Helm** **maps** and **Abbott** **monitor** **story**. |
+| **Apr–May 2015** | [Sugar Pine Mine](https://hcn.org/issues/48-2/showdown-at-sugar-pine-mine) — Josephine County, Oregon; **Oath** **Keepers** “Operation Gold Rush”; **BLM** compliance dispute | **Concurrent** **ramp** to Jade Helm: **weeks** **before** **Jul–Sep** **2015** **exercise**; shows **2015** **BLM–militia** **friction** **outside** **Texas**, so **thesis** **need** **not** **rest** on **Texas-only** **exceptionalism**; **overlap** **with** **Cruz** **campaign** **launch** **window** (**Mar** **2015**). |
+| **Jul–Sep 2015** | **Jade Helm 15** | **Primary** **object** of this investigation — **SOF** **multi-state** **exercise** **including** **Texas**; **Abbott** **monitor** **order** **28** **Apr** **2015**; **Cruz** **Pentagon** **channel** **remarks** **2** **May** **2015**. |
+| **Jan–Feb 2016** | [Malheur occupation](https://en.wikipedia.org/wiki/Occupation_of_the_Malheur_National_Wildlife_Refuge) — Harney County, Oregon; **USFWS** refuge; **Ammon** **Bundy**; **LaVoy** **Finicum** **killed** **26** **Jan** **2016** | **Primary-season** **echo:** **occupation** **during** **GOP** **caucuses**/**primaries**; **Bundy** **family** **continuity** **ties** **2014** **arc** to **2016** **headlines**; keeps **federal** **land** **sovereignty** **in** **the** **feed** **alongside** **Cruz–Trump** **coverage** **after** Jade Helm **ended**. |
+
+**Epistemic guardrail:** A **skeptical** **reading** holds that these are **independent** **policy** **and** **law-enforcement** **episodes** **without** **hidden** **coordination**—i.e. **no** **extra** **support** for the **“real** **op”** **thesis** **beyond** **mood** **and** **audience** **priming**. This section claims **only** the **latter** **(priming** **+** **movement** **carryover)** as **supporting** **evidence** **for** **why** **Jade** **Helm** **theories** **spread** **when** they did, **not** as **proof** of **SOF** **political** **tasking**.
+
+---
+
 ## Online citations — Cruz and the “dispelling” narrative
 
 
@@ -184,6 +201,7 @@ The following extends the **Angry Birds** press image ([2012 — “Angry Birds�
 
 ## Cross-links to Kevin / Cruz investigation
 
+- **2014-2016 federal flashpoints** (Bundy, Sugar Pine, Malheur) as **supporting context** for the **main thesis**: [2014-2016: Armed federal flashpoints](#2014-2016-armed-federal-flashpoints-supporting-evidence-for-the-main-thesis); full table in [armed confrontations catalog](./us-citizens-vs-federal-armed-confrontations-investigation.md).
 - Meme-era **Kevin Malone** comparison to Cruz went **viral Feb 2016**—**after** Jade Helm’s **active window**. See [Cruz / Kevin Malone hypothesis](./cruz-kevin-malone-deep-state-hypothesis-investigation.md) for **timeline**, **sources**, and the **“hijacked Kevin plan”** narrative **as hypothesis**.
 - Same file’s **Investigator addendum** (2026 research pass): **filming vs broadcast** vs Cruz **Senate seating**; **Brian Baumgartner** post-*Office* credits (surface two-career debunk); **epistemic fork** on trusting trade-press dates; **left-leaning youth** evidence gap; **ridicule without verification** on Jade Helm and **cover-up** stance; **logic check** (Jade Helm as **hypothetical instrument class**, McCain/Romney **general** losses, **unprovability** of executive intent).
 - **Kevin / Oscar / Angela** cluster: ***The Accountants*** (10 webisodes, seasons **2→3** gap); **Oscar–senator** (Lipton) **season 9** arc; *Stairmageddon* / privy-cast speculation — see [Cruz / Kevin file — Kevin, Oscar, Angela](./cruz-kevin-malone-deep-state-hypothesis-investigation.md#kevin-oscar-angela--the-accountants-webisodes-and-season-9-senator-thread-speculation).
@@ -215,4 +233,4 @@ The following extends the **Angry Birds** press image ([2012 — “Angry Birds�
 
 ---
 
-Keywords: #jade-helm #texas #ted-cruz #2012 #angry-birds #2016-primary #volcano #apocalyptic-rhetoric #deep-state-hypothesis #military-exercise #conspiracy-theory #investigation-open
+Keywords: #jadehelm #texas #tedcruz #2012 #angrybirds #2016primary #volcano #apocalypticrhetoric #deepstatehypothesis #militaryexercise #conspiracytheory #investigationopen

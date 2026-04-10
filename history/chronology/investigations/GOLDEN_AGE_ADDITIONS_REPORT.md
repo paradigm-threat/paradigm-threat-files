@@ -129,5 +129,5 @@ If the summary table should mirror the documentary more closely, **additional ro
 
 ---
 
-Keywords: #golden-age-additions-report #golden #additions #report
+Keywords: #goldenageadditionsreport #golden #additions #report
 

@@ -4,5 +4,5 @@
 
 ---
 
-Keywords: #chat-controlled-opposition #suppressed #tech #chat
+Keywords: #chatcontrolledopposition #suppressed #tech #chat
 

@@ -61,5 +61,5 @@ to unzip, extract text, and generate `INDEX.md`.
 
 ---
 
-Keywords: #annas-archive-downloads-index #anna #archive #hollow #downloads
+Keywords: #annasarchivedownloadsindex #anna #archive #hollow #downloads
 

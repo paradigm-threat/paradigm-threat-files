@@ -152,5 +152,5 @@ All remain low confidence until metallurgical acoustic modeling or a period tech
 
 ---
 
-Keywords: #napoleonic #advanced #artillery #airship #sound #cannons #lighter-than-air #technology
+Keywords: #napoleonic #advanced #artillery #airship #sound #cannons #lighterthanair #technology
 

@@ -365,5 +365,5 @@ No photograph or portrait of Ivan Kinkel was found in any of the source document
 
 ---
 
-Keywords: #nenovsky-kinkel-ejhet-2015 #ivan #kinkel #economic #development
+Keywords: #nenovskykinkelejhet2015 #ivan #kinkel #economic #development
 
