@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "4f0128bba03adb9a3abdb7fb87c0dd1b3ad2337e",
+    "date": "2026-04-10T01:43:32.000Z",
+    "message": "Reduce excessive bold in Cruz/Kevin investigation; keep emphasis labels",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "ad39ca9341d5e76be4a04fcc217f9c11ccaffb2f",
     "date": "2026-04-10T01:28:35.000Z",
     "message": "Investigations: update Cruz/Kevin header PNG",
@@ -117,29 +130,6 @@
         "status": "M",
         "path": "governance/war/investigations/page.md",
         "href": "/governance/war/investigations"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "b7be36c91d78d8665e9eb74f2fb81b4a4ff8e59a",
-    "date": "2026-04-09T19:50:25.000Z",
-    "message": "cosmos/venus: add Venus investigations index and Saturnian-to-Venera probe article; refresh Jade Helm investigation header PNG",
-    "files": [
-      {
-        "status": "A",
-        "path": "cosmos/venus/investigations/index-venus.md",
-        "href": "/cosmos/venus/investigations/index-venus"
-      },
-      {
-        "status": "A",
-        "path": "cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation.md",
-        "href": "/cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png",
-        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png"
       }
     ]
   }
