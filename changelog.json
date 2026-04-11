@@ -1,6 +1,39 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "0c154b0bc7df3fd3899c157d9cd03e1d56021dfa",
+    "date": "2026-04-11T13:59:32.000Z",
+    "message": "Investigations: Libya stand-down/Benghazi file; war page index; Cruz, armed confrontations, blog, index",
+    "files": [
+      {
+        "status": "M",
+        "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
+        "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md",
+        "href": "/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/page.md",
+        "href": "/governance/war/investigations"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md",
+        "href": "/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "555dfa2d4821b4a0c7957f68ba46844b5f21c701",
     "date": "2026-04-11T12:53:42.000Z",
     "message": "Investigations: Cruz file TL;DR, Will Durst Angry Birds attribution; PNG trim",
@@ -570,6 +603,183 @@
         "status": "M",
         "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
         "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "4f0128bba03adb9a3abdb7fb87c0dd1b3ad2337e",
+    "date": "2026-04-10T01:43:32.000Z",
+    "message": "Reduce excessive bold in Cruz/Kevin investigation; keep emphasis labels",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "ad39ca9341d5e76be4a04fcc217f9c11ccaffb2f",
+    "date": "2026-04-10T01:28:35.000Z",
+    "message": "Investigations: update Cruz/Kevin header PNG",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "437aceae464487016350194509c99f6bdd9f4db7",
+    "date": "2026-04-10T01:28:09.000Z",
+    "message": "Blog (2026-04-10): add Forgotten Future (ff-story, ff-teaser, site) GitLab Pages",
+    "files": [
+      {
+        "status": "M",
+        "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
+        "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "092b4f0d03cb486a6ceb38073f003c430e63c2b0",
+    "date": "2026-04-10T01:27:07.000Z",
+    "message": "Blog (2026-04-10): expand Relay inventory since 2026-04-05 (gateway/master SHAs)",
+    "files": [
+      {
+        "status": "M",
+        "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
+        "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "a3e9c7a63b5190b56544aed03d4378660eee12ca",
+    "date": "2026-04-10T01:07:05.000Z",
+    "message": "Blog: Jade Helm, Cruz/Kevin, Venus, Relay policy, site TTS (since 2026-04-05)",
+    "files": [
+      {
+        "status": "A",
+        "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
+        "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "fe23cdc4b011c9fc2ace9fd07b70e6cd96ae7504",
+    "date": "2026-04-10T00:59:20.000Z",
+    "message": "Investigations: Cruz/Kevin doc tweak; header PNG assets",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "8b85aa58c60e043ff04cd1db788c28a9b524955d",
+    "date": "2026-04-10T00:57:19.000Z",
+    "message": "Cruz/Kevin investigation: Getty rally photo via PopSugar; investigator note on sign holder",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
+        "href": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "d01b577ad2e2e565ba5bd165e69b441a9312d011",
+    "date": "2026-04-10T00:42:29.000Z",
+    "message": "Investigations: Cruz/Kevin methodology, Gossip quote, header PNG; Jade Helm cross-link; index",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/page.md",
+        "href": "/governance/war/investigations"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "b7be36c91d78d8665e9eb74f2fb81b4a4ff8e59a",
+    "date": "2026-04-09T19:50:25.000Z",
+    "message": "cosmos/venus: add Venus investigations index and Saturnian-to-Venera probe article; refresh Jade Helm investigation header PNG",
+    "files": [
+      {
+        "status": "A",
+        "path": "cosmos/venus/investigations/index-venus.md",
+        "href": "/cosmos/venus/investigations/index-venus"
+      },
+      {
+        "status": "A",
+        "path": "cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation.md",
+        "href": "/cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png",
+        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "ae560420db9cf7a09d7556e9793b4874cfaad95f",
+    "date": "2026-04-09T16:28:35.000Z",
+    "message": "chore: confirm relay accepts SSH-signed push",
+    "files": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "d2a1491795cdc468e50a79b35142bd3ca270bee8",
+    "date": "2026-04-09T16:28:03.000Z",
+    "message": "fix(.relay): allowedKeys line must be valid for git allowed_signers (no @ in comment)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".relay.yaml",
+        "href": "/.relay.yaml"
       }
     ]
   }

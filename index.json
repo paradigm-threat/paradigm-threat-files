@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-11T12:53:42Z"
+    "_updated": "2026-04-11T13:59:32Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5953,7 +5953,7 @@
             "blackmail",
             "investigationopen"
           ],
-          "_updated": "2026-04-11T12:53:42Z"
+          "_updated": "2026-04-11T13:59:32Z"
         },
         "cruz-kevin-malone-deep-state-hypothesis-investigation.png": {
           "_width": 1536,
@@ -5990,7 +5990,7 @@
             "afghanistan",
             "13-hours"
           ],
-          "_updated": "2026-04-11T13:53:02Z"
+          "_updated": "2026-04-11T13:59:32Z"
         },
         "french-revolution-investigation.md": {
           "_title": "Investigation: French Revolution \u2014 Societized Consolidation and Political Reorganization",
@@ -6096,7 +6096,7 @@
           "_keywords": [
             "war"
           ],
-          "_updated": "2026-04-10T22:29:47Z"
+          "_updated": "2026-04-11T13:59:32Z"
         },
         "pitcairn-bounty-mutiny-sovereignty-and-narratives.md": {
           "_title": "Pitcairn: Bounty mutiny narratives, sovereignty, and modern law",
@@ -6182,7 +6182,7 @@
             "movebombing",
             "philadelphia"
           ],
-          "_updated": "2026-04-10T22:29:47Z"
+          "_updated": "2026-04-11T13:59:32Z"
         },
         "us-citizens-vs-federal-armed-confrontations-investigation.png": {
           "_width": 1536,
@@ -13761,5 +13761,5 @@
     "_count": 153
   },
   "_count": 1945,
-  "_version": "555dfa2"
+  "_version": "0c154b0"
 }
