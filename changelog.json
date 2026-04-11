@@ -1,6 +1,24 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "555dfa2d4821b4a0c7957f68ba46844b5f21c701",
+    "date": "2026-04-11T12:53:42.000Z",
+    "message": "Investigations: Cruz file TL;DR, Will Durst Angry Birds attribution; PNG trim",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.png",
+        "href": "/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "c94c8ab7d58990494f7c7b0b49dafe1476157c67",
     "date": "2026-04-10T22:29:47.000Z",
     "message": "Content sweep: Occupy Wall Street investigation, war investigations, blog, docs, cosmos/history/influence edits",
@@ -552,19 +570,6 @@
         "status": "M",
         "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
         "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "4f0128bba03adb9a3abdb7fb87c0dd1b3ad2337e",
-    "date": "2026-04-10T01:43:32.000Z",
-    "message": "Reduce excessive bold in Cruz/Kevin investigation; keep emphasis labels",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
       }
     ]
   }
