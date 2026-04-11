@@ -2,7 +2,7 @@ const { execSync } = require('child_process')
 const fs = require('fs')
 const path = require('path')
 
-const CHANGE_LIMIT = 8
+const CHANGE_LIMIT = 20
 const IGNORE_PATHS = new Set(['changelog.json', 'index.json'])
 
 function run(cmd) {
