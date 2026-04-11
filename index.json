@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-10T22:29:47Z"
+    "_updated": "2026-04-11T12:53:42Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5953,7 +5953,7 @@
             "blackmail",
             "investigationopen"
           ],
-          "_updated": "2026-04-10T22:29:47Z"
+          "_updated": "2026-04-11T12:53:42Z"
         },
         "cruz-kevin-malone-deep-state-hypothesis-investigation.png": {
           "_width": 1536,
@@ -5979,6 +5979,19 @@
           "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAoABUB8JYwAATIe9n4AAP4jJdUG0tbkRWkbKldzeqQyWed+QTf63iY+WxgAPoAC/8M6gAA=",
           "_updated": "2026-04-10T00:57:19Z"
         },
+        "dubious-stand-down-orders-libya-benghazi-investigation.md": {
+          "_title": "Investigation: Dubious \u201cStand Down\u201d Orders \u2014 Benghazi (2012), Libya\u2019s Breakup, and Pattern Echoes",
+          "_keywords": [
+            "war",
+            "libya",
+            "benghazi",
+            "stand-down",
+            "gaddafi",
+            "afghanistan",
+            "13-hours"
+          ],
+          "_updated": "2026-04-11T13:53:02Z"
+        },
         "french-revolution-investigation.md": {
           "_title": "Investigation: French Revolution \u2014 Societized Consolidation and Political Reorganization",
           "_keywords": [
@@ -5990,24 +6003,6 @@
             "reorganization"
           ],
           "_updated": "2026-04-05T12:17:42Z"
-        },
-        "jade-helm-texas-coup-cruz-hypothesis-investigation.md": {
-          "_title": "Investigation: Jade Helm 15 \u2014 \u201cReal Op\u201d Hypothesis, Texas, and the 2016 GOP Field",
-          "_keywords": [
-            "jadehelm",
-            "texas",
-            "tedcruz",
-            "2012",
-            "angrybirds",
-            "2016primary",
-            "volcano",
-            "apocalypticrhetoric",
-            "deepstatehypothesis",
-            "militaryexercise",
-            "conspiracytheory",
-            "investigationopen"
-          ],
-          "_updated": "2026-04-10T22:29:47Z"
         },
         "jade-helm-texas-coup-cruz-hypothesis-investigation.png": {
           "_width": 1536,
@@ -6168,6 +6163,16 @@
             "war",
             "investigationopen",
             "jadehelm",
+            "texas",
+            "tedcruz",
+            "2012",
+            "angrybirds",
+            "2016primary",
+            "volcano",
+            "apocalypticrhetoric",
+            "deepstatehypothesis",
+            "militaryexercise",
+            "conspiracytheory",
             "bundystandoff",
             "blm",
             "militia",
@@ -6183,7 +6188,7 @@
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAsABUB8JbACdAEDolz7nyGwAP1SRwaHUwzfS4iXGkxO0aZi0Ysf06eXLMtIvQNhqAAA",
-          "_updated": "2026-04-10T22:29:47Z"
+          "_updated": "2026-04-11T12:53:42Z"
         },
         "us-civil-war-investigation.md": {
           "_title": "Investigation: US Civil War \u2014 British Funding, Slavery as Instrument, and the DU Weapon Thesis",
@@ -13756,5 +13761,5 @@
     "_count": 153
   },
   "_count": 1945,
-  "_version": "c94c8ab"
+  "_version": "555dfa2"
 }
