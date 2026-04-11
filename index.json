@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-11T13:59:32Z"
+    "_updated": "2026-04-11T14:19:00Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5988,7 +5988,9 @@
             "stand-down",
             "gaddafi",
             "afghanistan",
-            "13-hours"
+            "13-hours",
+            "three-kings",
+            "iraq"
           ],
           "_updated": "2026-04-11T13:59:32Z"
         },
@@ -13761,5 +13763,5 @@
     "_count": 153
   },
   "_count": 1945,
-  "_version": "0c154b0"
+  "_version": "ccfa7b5"
 }

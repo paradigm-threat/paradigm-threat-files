@@ -1,12 +1,12 @@
 # Investigation: Dubious “Stand Down” Orders — Benghazi (2012), Libya’s Breakup, and Pattern Echoes
 
-> **TL;DR:** This file clusters **alleged and disputed “stand down”** or **hold** orders around **protective / rescue** missions: **11–12 Sep 2012 Benghazi** (Annex GRS **delay** vs **CIA base-chief** account); **Western-led 2011 Libya intervention** and **Muammar Gaddafi’s death** (including Secretary Clinton’s **“We came, we saw, he died”** clip); **parallel cases** in U.S. history where forces were **withheld** or **slowed** (catalog, not proof of single doctrine); **2021 Afghanistan withdrawal** criticism; **predictive programming / narrative** in film (**13 Hours**, ***Back to the Future***’s Libyan trope); **Gaddafi-era** **gold reserves**, **African gold-dinar** proposal, and **open questions** on **loot / accounting**; **mainstream human-rights** costs of the old regime; and a **Libya timeline** through **post-2011 chaos**, including **2017 CNN-documented migrant slave auctions**.
+> **TL;DR:** This file clusters **alleged and disputed “stand down”** or **hold** orders around **protective / rescue** missions: **11–12 Sep 2012 Benghazi** (Annex GRS **delay** vs **CIA base-chief** account); **Western-led 2011 Libya intervention** and **Muammar Gaddafi’s death** (including Secretary Clinton’s **“We came, we saw, he died”** clip); **parallel cases** in U.S. history where forces were **withheld** or **slowed** (catalog, not proof of single doctrine); **2021 Afghanistan withdrawal** criticism; **predictive programming / narrative** in film—***13 Hours*** (2016) read here as **full-spectrum** audience capture (subtitle-verified **“Stand down”** and **“Your country’s got to figure this shit out”**; Jack Silva interior line **“country that meant nothing to him”**; Tanto/Boon **Holy War** exchange vs **HPSCI / PolitiFact** record), compared to ***Lions for Lambs*** (2007) **stay-out / overstretch** framing and ***Three Kings*** (1999) **gold / necessity / “what we did here”** Gulf-War cynicism (contrast **2003** **Saddam** **takedown** and **Libya** **gold** themes below); ***Back to the Future***’s Libyan trope; **Gaddafi-era** **gold reserves**, **African gold-dinar** proposal, and **open questions** on **loot / accounting**; **mainstream human-rights** costs of the old regime; and a **Libya timeline** through **post-2011 chaos**, including **2017 CNN-documented migrant slave auctions**.
 
 ## Scope, evidence limits, and disclaimers
 
 - **Investigation, not adjudication:** Congressional reports, fact-checks, and witness disputes are summarized; this file does **not** reproduce classified material or resolve sworn contradictions.
 - **Stand down vs stand by:** Military and security usage distinguishes **“stand down”** (cease readiness / do not deploy) from **short tactical pauses** to gather intelligence or equipment. Official inquiries often frame Benghazi as the latter; critics including some Annex personnel frame it as the former.
-- **Speculation:** Sections on **gold motives**, **Hollywood intent**, and **Afghanistan “deliberate failure”** theses are **labeled** as interpretive; where possible, **primary or mainstream secondary** sources are cited for **facts** (dates, quotes, reported outcomes).
+- **Speculation:** Sections on **gold motives**, **Hollywood intent** (including *13 Hours* as **predictive programming**, *Lions for Lambs*, and *Three Kings*), and **Afghanistan “deliberate failure”** theses are **labeled** as interpretive; where possible, **primary or mainstream secondary** sources are cited for **facts** (dates, quotes, reported outcomes).
 
 ---
 
@@ -84,19 +84,96 @@ In **August 2021**, the **U.S. military** completed **withdrawal** from **Afghan
 
 ## 5. Predictive programming and film — Libya in the American imaginary
 
+**Working frame (this file):** *13 Hours* is read here as **predictive programming** in a strong sense: not merely “based on true events,” but a **timed narrative product** that re-channels mass attention already primed by years of **Benghazi headlines** (2012–2016) into conclusions about U.S. role, fault, and retrenchment. That is an interpretive lens; it does not claim every producer or actor consciously signed up for that brief.
+
 ### *13 Hours: The Secret Soldiers of Benghazi* (2016, Michael Bay)
 
-The film dramatizes the **Annex security team** and stresses **friction** with the **CIA chief of base**—including lines that **assign** **local** actors responsibility for **order** while portraying Americans as **guests** or **spies** in a **post-revolution** mess.
+The film dramatizes the Annex security team and stresses friction with the CIA chief of base—including lines that assign local actors responsibility for order while portraying Americans as guests or spies in a post-revolution mess.
 
-**Verified script lines (public transcript):** The **Chief** tells **Tyrone Woods** that **“Local faces need to resolve local conflicts”** and that **“We’re guests in this country”** (see [Scripts.com — screenplay excerpt](https://www.scripts.com/script/13_hours:_the_secret_soldiers_of_benghazi_1546)). Another line in the same cluster: **“We won the revolution for these people”** (Wikiquote / IMDb quote pages). Together, these lines **narratively** **minimize** Western **agency** in **Libya’s fracture** and **shift** **stabilization** duty onto **Libyans**—whether or not one agrees with that framing.
+#### Subtitle-verified lines (English retail `.srt`, checked 2026)
 
-**Note on a quoted line:** Some viewers recall a line like **“You people need to clean up your country.”** Standard **Wikiquote**, **IMDb**, and the **Scripts.com** draft checked for this file **do not** list that **exact** sentence; it may be **misremembered**, **paraphrased**, or from **ADR / alternate cut**. The **thematic** point above still holds from **documented** dialogue.
+Exact on-screen subtitle strings from a standard English SRT (timing approximate):
 
-**Title cards:** The film opens with text that **summarizes** **2011** Western **air attacks**, **Gaddafi’s** fall, **Benghazi** as **dangerous**, and a **CIA** presence—setting **intervention** as **background** to a **heroic defender** story rather than a **geopolitical** autopsy.
+| Approx. time | Text |
+|--------------|------|
+| ~00:49:25–00:49:28 | “Stand down.” / “Stand down!” (repeated; immediately followed by “Wait for my word!” and the delay / eyes-on beat.) |
+| ~02:10:09–02:10:11 | “Your country’s” / “got to figure” / “this shit out, amahl.” (Jack Silva to Amal; the file spells the name “amahl”—confirm by ear.) |
+
+Together with the roadblock / drone material earlier in the script, these are the lines many viewers carry away: one mirrors the national “stand down” controversy **by label**; the other mirrors “clean up your own country” **by sense** (fix your house—not ours).
+
+#### Script-cluster lines (same thematic package)
+
+The Chief tells Tyrone Woods that “Local faces need to resolve local conflicts” and “We’re guests in this country” ([Scripts.com — screenplay excerpt](https://www.scripts.com/script/13_hours:_the_secret_soldiers_of_benghazi_1546)); “We won the revolution for these people” appears in the same CIA-chief package. Together, those lines minimize Western agency in Libya’s breakup and shift order-making onto Libyans.
+
+#### Contrast — real-life documentation (same controversy, different finding)
+
+Official and bipartisan House work did **not** substantiate a Hollywood-simple “CIA ordered GRS to stand down and not go” story in the sense recycled in talk radio and campaign ads:
+
+- **HPSCI** (2014): no evidence of that kind of stand down or denial of air support as critics described ([HPSCI Benghazi report PDF](https://intelligence.house.gov/sites/intelligence.house.gov/files/documents/benghazi%20report.pdf)).
+- **PolitiFact** (2016), on convention-era “we defied stand down orders” rhetoric: **Mostly False** as stated—tactical pause and wording disputes, not a clean binary ([PolitiFact — stand-down fact-check](https://www.politifact.com/factchecks/2016/jul/19/mark-geist/stand-down-story-ignores-critical-facts-about-effo/)).
+
+**Investigative tension:** A mass-market film aimed at Americans who had lived through **years** of Benghazi coverage could hardly pretend the word “stand down” did not exist in the national vocabulary. Omitting the phrase entirely might have read as evasion to that audience; putting it in dialog satisfies the ear **whether or not** the beat matches HPSCI’s fine print on waits, equipment, and base-chief authority. The official record asks for nuance; the film delivers a two-word hook that resolves to outrage faster than any ARB appendix.
+
+#### Speculation — why these lines exist (gaslighting / audience capture)
+
+**Hypothesis lane (not proof):**
+
+1. **Keyword compliance:** “Stand down” was already a national keyword. Including it signals “we told the story you already know” to viewers who would have felt cheated if the controversy were airbrushed—**even if** the scene is not a documentary match for the intelligence committee record.
+2. **Fault re-export:** “Your country’s got to figure this shit out” performs the same moral move as “local faces” / “guests”: Libya’s disorder is Libyans’ to solve; the West is not the author of the post-2011 terrain in the film’s moral geometry. That flatters intervention skeptics and absolves viewers who do not wish to re-litigate NATO 2011.
+3. **Anti-intervention payload (this file’s reading):** The package pushes emotional conclusions compatible with stay out, overstretched, and this isn’t our mess to fix—the same affective band as retrenchment discourse that can feed real policy vacuums where order was already broken open (Libya) or later withdrawn under pressure (Afghanistan exit politics). Effect is not intent; effect is still worth mapping.
+
+#### Field note — performance (subjective)
+
+Subjective recollection: John Krasinski (Jack Silva) delivers the “your country…” beat as if the line sat on top of the character rather than rising from clear motivation—heavy, declamatory, as if aware of the weight of the sentence in the real world beyond the scene. Others may read it as naturalistic exhaustion.
+
+#### Jack Silva — interior monologue (heavy editorializing)
+
+The script gives Jack a self-talk / voiceover line that editorializes the entire war for the audience in one breath—it is not neutral “operator doubt”; it is **narrator-grade** judgment on the **meaninglessness** of Libya to the American at the center of the story:
+
+> **Jack Silva:** What would they say about me? “He died in a place he didn’t need to be, in a battle over something he doesn’t understand, in a country that meant nothing to him.”
+
+**Interpretive read (this file):** That line frames the deployment as absurd and the host society as void of claim on the American’s life. It does not argue from mission, oath, or ally obligation—it underwrites the same retreat affect as the Chief’s “guests” / “local faces” package. The character is written as not believing in his station; the film uses him as a mouthpiece for “this wasn’t worth it” regardless of who broke Libya open. Whether Krasinski’s performance reads as earnest or forced, the text is doing editorial work on the viewer.
+
+#### Kris “Tanto” Paronto and Dave “Boon” Benton — “Holy War”
+
+> **Kris “Tanto” Paronto:** Could be the start of the Holy War.  
+> **Dave “Boon” Benton:** You gonna fight the Holy War in your shorts? Strong move.
+
+The joke deflates Tanto’s escalation label (“Holy War”) into frat banter—but the phrase is still spoken in the same Libya context as real Salafi and jihad branding in the region. **Speculative lane (timeline cross-read, not proof):** A separate agenda—radicalizing Islam in spaces that might have stayed more stable without Western regime-change and covert edge—can be read as preparing a “Holy War” narrative large enough to serve as a macro tripwire toward a WW3-scale crisis architecture (managed coalitions, proxy layers, civilizational rhetoric). This investigation does not date that trigger; it flags the dialog as on-theme with that risk register.
+
+**Timeline hooks (same chronology project):** [21st Century: The Final Struggle — Reverse Crusade IV](/timeline/evt-2000-ce-21st-century-the-final-struggle-reverse-crusade-iv) (21st-century confrontation and WW3 blueprint discussion); [False Flags: Architecture of Manufactured War](/timeline/evt-false-flags-architecture-of) (manufactured-war and slow-burn Holy War framing in allied timeline prose); structural Reverse Crusade / WW3 proxy pattern in appendix form in the timeline repo (`content/19.appendix-conflict/19.50.01-reverse-crusades-structural-comparison.md`).
+
+### *Lions for Lambs* (2007, Robert Redford)
+
+This investigation groups *13 Hours* with *Lions for Lambs* as part of a **thematic cluster**: elite guilt, media complicity, and soldier sacrifice, steering the viewer toward disengagement and cynicism about U.S. capacity to order foreign societies—not because the films match in genre, but because both participate in a long arc of “responsible exit” and **keep our soldiers out** storytelling that coincides with actual instability in MENA and Central Asia. *Lions* sits on the Afghanistan / Iraq cycle; *13 Hours* on Libya blowback. Here they are paired as narrative pressure on the American public to treat overseas chaos as someone else’s inherent mess or as proof we should never have been there, rather than as second-order effects of policy choices already made—**an anti-America-as-stabilizer agenda** in the sense of **disowning** primary responsibility for regional order after **having** helped break or hollow it.
+
+**Speculative lane:** That narrative comfort for domestic audiences can track to further destabilization on the ground: lower political cost at home for abandonment or half-presence; more room for regional and great-power predation where order collapsed (Libya) or was suddenly withdrawn (Afghanistan 2021).
+
+### *Three Kings* (1999, David O. Russell)
+
+**Setting and contrast with other films in this section:** *Three Kings* is not Libya—it is Iraq at the 1991 Gulf War ceasefire window—but it belongs in the same predictive-programming cluster as *13 Hours* and *Lions for Lambs* because it front-loads cynicism about what American forces are actually doing in the Middle East. Where *13 Hours* sells virtuous contractors under political friction, and *Lions* sells elite guilt and stay-out morality, *Three Kings* sells mercenary clarity: the war is “horseshit,” the payoff is loot (gold), and necessity explains everything. That tone contrasts with official liberation narratives around later Iraq and Libya.
+
+#### Quoted lines (dialog labels as commonly cited)
+
+> **Archie Gates:** Necessity. People do what is most necessary to them at any given moment.
+
+> **Conrad Vig:** We three kings be stealin' the gold...
+
+> **Archie Gates:** One bunker of gold and we retire from this horseshit.
+
+**The mission query (Archie Gates):** “Just tell me what we did here!”—a demand for honest accounting of the operation’s meaning that refuses hero packaging.
+
+#### Contrast — U.S. situations and the Saddam Hussein arc
+
+- **In-film context (1991 Kuwait liberation / ceasefire Iraq):** Sanctions, uprising, and gold as spoils of chaos—morally ambiguous, not a sequel to 2003.
+- **Contrast with 2003 regime change (Saddam Hussein takedown):** A decade later, Washington sold “liberation” and WMD risk as the public case for invasion; the Ba’ath state was broken open in a way the 1991 war had not completed. *Three Kings* cannot reference 2003 directly—it predates it—but its questions (what did we do here? why gold?) rhyme with post-invasion buyer’s remorse and with investigator interest in who benefits when a regime’s vaults and reserves are up for grabs.
+- **Contrast with Libya (this file’s core):** Gaddafi-era gold and African currency ambitions and post-2011 accounting disputes ([§6](#6-libya-under-gaddafi-threat-to-the-west-gold-and-african-currency)) mirror the film’s central MacGuffin—bunker gold—as popular-culture preparation for thinking about war as theft and retirement from “horseshit” rather than as nation-building.
+
+**Interpretive lane:** *Three Kings* trains the audience to accept that American soldiers might be right to treat the mission as absurd—parallel to Jack Silva’s “country that meant nothing” line in *13 Hours*—while still centering American subjectivity. None of these films is a court document; together they map a decades-long Hollywood palette: guilt (*Lions for Lambs*), heroic friction (*13 Hours*), cynical loot honesty (*Three Kings*), comic Libya villainy (*Back to the Future*).
 
 ### *Back to the Future* (1985)
 
-The plot’s **Libyan terrorists** (seeking **stolen plutonium**) embed a **Cold War–era** **villain** trope: **Libya** as **chaotic**, **violent**, **anti-American** threat—**before** the **2011** war. Investigators tracking **predictive programming** sometimes cite such casting as **pre-seeding** **public** **affect** toward **later** **real-world** **Libya** stories. This file records the **cultural fact** only; it does **not** claim **Universal Pictures** **knew** **2011** events.
+The plot’s Libyan terrorists (seeking stolen plutonium) embed a Cold War–era villain trope: Libya as chaotic, violent, anti-American threat—before the 2011 war. Investigators tracking predictive programming sometimes cite such casting as pre-seeding public affect toward later real-world Libya stories. This file records the cultural fact only; it does not claim Universal Pictures knew 2011 events.
 
 ---
 
@@ -108,7 +185,7 @@ Under **Gaddafi**, **Libya** combined **large oil rents**, **central-bank reserv
 
 ### Gold reserves and the **African gold dinar** thesis
 
-**Reporting** and **analyst** literature discussed **Gaddafi’s** push for **African monetary** **independence**—a **gold-linked** **currency** **concept** that, in **geopolitical** **speculation**, could **reduce** **dollar** **hegemony** in **African** **trade**. This file treats that as **documented** **proposal-level** **tension**, not proof that **NATO** **invaded** **primarily** **to stop** **a gold note**.
+**Reporting** and **analyst** literature discussed **Gaddafi’s** push for **African monetary** **independence**—a **gold-linked** **currency** **concept** that, in **geopolitical** **speculation**, could **reduce** **dollar** **hegemony** in **African** **trade**. This file treats that as **documented** **proposal-level** **tension**, not proof that **NATO** **invaded** **primarily** **to stop** **a gold note**. **Popular-culture parallel:** bunker gold as war-spoil MacGuffin and “what are we doing here?” cynicism—[*Three Kings* (1999)](#three-kings-1999-david-o-russell)—predates the Libyan war but rehearses the same loot/accounting affect.
 
 ### Did interveners “steal the gold”? Accounting vs rumor
 
@@ -163,6 +240,6 @@ Under **Gaddafi**, **Libya** combined **large oil rents**, **central-bank reserv
 
 ---
 
-**Date:** 2026-04-11 — Initial file: Benghazi stand-down cluster; Gaddafi/West; Afghanistan; film narrative; gold/dinar; HR balance; Libya timeline; 2017 slavery reporting cites.
+**Date:** 2026-04-11 — Initial file: Benghazi stand-down cluster; Gaddafi/West; Afghanistan; film narrative; gold/dinar; HR balance; Libya timeline; 2017 slavery reporting cites. **2026-04-11 (later):** *13 Hours* section — subtitle-verified “Stand down” / “Your country’s got to figure this shit out”; contrast HPSCI/PolitiFact; gaslighting/keyword hypothesis; Krasinski performance note; *Lions for Lambs* cluster; destabilization speculative lane. **2026-04-11 (later still):** Jack Silva interior monologue (“country that meant nothing to him”); Tanto/Boon “Holy War” / shorts exchange; timeline cross-read (Reverse Crusade IV, false-flag architecture, reverse-crusades appendix). **2026-04-11 (addendum):** *Three Kings* (1999)—quotes (Archie Gates, Conrad Vig), contrast with *13 Hours* / *Lions*, 1991 vs 2003 Iraq / Saddam arc, link to §6 gold.
 
-Keywords: #war #libya #benghazi #stand-down #gaddafi #afghanistan #13-hours
+Keywords: #war #libya #benghazi #stand-down #gaddafi #afghanistan #13-hours #three-kings #iraq

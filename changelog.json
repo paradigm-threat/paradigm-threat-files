@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "ccfa7b5671edf0b00c696f9909302f2fefbe238f",
+    "date": "2026-04-11T14:19:00.000Z",
+    "message": "chore: changelog window 20; document autogen timing in hook",
+    "files": [
+      {
+        "status": "M",
+        "path": "scripts/generate-changelog.cjs",
+        "href": "/scripts/generate-changelog.cjs"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "0c154b0bc7df3fd3899c157d9cd03e1d56021dfa",
     "date": "2026-04-11T13:59:32.000Z",
     "message": "Investigations: Libya stand-down/Benghazi file; war page index; Cruz, armed confrontations, blog, index",
@@ -769,18 +782,5 @@
     "date": "2026-04-09T16:28:35.000Z",
     "message": "chore: confirm relay accepts SSH-signed push",
     "files": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "d2a1491795cdc468e50a79b35142bd3ca270bee8",
-    "date": "2026-04-09T16:28:03.000Z",
-    "message": "fix(.relay): allowedKeys line must be valid for git allowed_signers (no @ in comment)",
-    "files": [
-      {
-        "status": "M",
-        "path": ".relay.yaml",
-        "href": "/.relay.yaml"
-      }
-    ]
   }
 ]
