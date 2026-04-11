@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-11T14:19:00Z"
+    "_updated": "2026-04-11T14:37:31Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5992,7 +5992,13 @@
             "three-kings",
             "iraq"
           ],
-          "_updated": "2026-04-11T13:59:32Z"
+          "_updated": "2026-04-11T14:37:31Z"
+        },
+        "dubious-stand-down-orders-libya-benghazi-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAsABUB8JbACdAD6xCYAAAD+g154iMVJfJkM0BKjMIx44FijV9W0yH9AsjQRQx8X1yjeQuyd4gAA",
+          "_updated": "2026-04-11T16:03:47Z"
         },
         "french-revolution-investigation.md": {
           "_title": "Investigation: French Revolution \u2014 Societized Consolidation and Political Reorganization",
@@ -6098,7 +6104,7 @@
           "_keywords": [
             "war"
           ],
-          "_updated": "2026-04-11T13:59:32Z"
+          "_updated": "2026-04-11T14:37:31Z"
         },
         "pitcairn-bounty-mutiny-sovereignty-and-narratives.md": {
           "_title": "Pitcairn: Bounty mutiny narratives, sovereignty, and modern law",
@@ -6251,7 +6257,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 30
+        "_count": 31
       },
       "military_police.jpg": {
         "_width": 960,
@@ -6362,9 +6368,9 @@
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 75
+      "_count": 76
     },
-    "_count": 510
+    "_count": 511
   },
   "history": {
     "chronology": {
@@ -13762,6 +13768,6 @@
     },
     "_count": 153
   },
-  "_count": 1945,
-  "_version": "ccfa7b5"
+  "_count": 1946,
+  "_version": "d12438c"
 }
