@@ -1,6 +1,24 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "d12438c05fe7f9194f2fa1de0fa101b6cf69a81a",
+    "date": "2026-04-11T14:37:31.000Z",
+    "message": "Investigations: Three Kings (1999) PP cluster, prose cleanup, §6 gold cross-link",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md",
+        "href": "/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/page.md",
+        "href": "/governance/war/investigations"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "ccfa7b5671edf0b00c696f9909302f2fefbe238f",
     "date": "2026-04-11T14:19:00.000Z",
     "message": "chore: changelog window 20; document autogen timing in hook",
@@ -775,12 +793,5 @@
         "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "ae560420db9cf7a09d7556e9793b4874cfaad95f",
-    "date": "2026-04-09T16:28:35.000Z",
-    "message": "chore: confirm relay accepts SSH-signed push",
-    "files": []
   }
 ]
