@@ -1,7 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "hash": "f0b365d6fea9f66079841e7bfd8407e97c3401c2",
+    "hash": "353c7e9463134d1db86cb6080007be3ca135c936",
+    "date": "2026-04-12T12:42:01.000Z",
+    "message": "Investigations: remove duplicate AE911Truth header image embed",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
+        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "428fd6cb37b8beccfedf419627c55f4199aef9ff",
     "date": "2026-04-12T12:41:21.000Z",
     "message": "fix: sync changelog/index; add post-commit autogen amend",
     "files": [
@@ -763,29 +776,6 @@
         "status": "A",
         "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
         "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "fe23cdc4b011c9fc2ace9fd07b70e6cd96ae7504",
-    "date": "2026-04-10T00:59:20.000Z",
-    "message": "Investigations: Cruz/Kevin doc tweak; header PNG assets",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png"
       }
     ]
   }
