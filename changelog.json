@@ -1,6 +1,13 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "1724d62ba15513dcb798fcf596e0183ff6d5084a",
+    "date": "2026-04-12T12:51:26.000Z",
+    "message": "chore: regenerate index.json and changelog.json",
+    "files": []
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "0c719e96d2b87a2836f6f614b015051f056c9770",
     "date": "2026-04-12T12:51:16.000Z",
     "message": "chore: regenerate index.json and changelog.json",
@@ -757,19 +764,6 @@
         "status": "M",
         "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
         "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "437aceae464487016350194509c99f6bdd9f4db7",
-    "date": "2026-04-10T01:28:09.000Z",
-    "message": "Blog (2026-04-10): add Forgotten Future (ff-story, ff-teaser, site) GitLab Pages",
-    "files": [
-      {
-        "status": "M",
-        "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
-        "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
       }
     ]
   }
