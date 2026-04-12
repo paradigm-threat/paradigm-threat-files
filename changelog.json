@@ -1,7 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "hash": "a2e17e1321e1fe3d6bda61c11b630970cd6fe89a",
+    "date": "2026-04-12T14:10:25.125Z",
+    "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".husky/pre-commit",
+        "href": "/.husky/pre-commit"
+      },
+      {
+        "status": "M",
+        "path": "scripts/generate-changelog.cjs",
+        "href": "/scripts/generate-changelog.cjs"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-12T13:57:38.000Z",
+    "message": "Merge atlanta2/main into main: resolve relay divergence without losing content",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
+        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "date": "2026-04-12T13:54:18.000Z",
     "message": "Gage/AE911Truth investigation: nonprofit timeline, open-air prison thesis, third header image",
     "files": [
@@ -19,21 +47,18 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "1724d62ba15513dcb798fcf596e0183ff6d5084a",
     "date": "2026-04-12T12:51:26.000Z",
     "message": "chore: regenerate index.json and changelog.json",
     "files": []
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "0c719e96d2b87a2836f6f614b015051f056c9770",
     "date": "2026-04-12T12:51:16.000Z",
     "message": "chore: regenerate index.json and changelog.json",
     "files": []
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "e36ed2376eb0eaf688b718ece7c6dfb930f257d7",
     "date": "2026-04-12T12:51:02.000Z",
     "message": "docs: changelog staleness note; remove post-commit amend hook",
     "files": [
@@ -46,7 +71,23 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "6c44ca06f70dc5967aab4052777dc69e691264ec",
+    "date": "2026-04-12T12:42:01.000Z",
+    "message": "Investigations: remove duplicate AE911Truth header image embed",
+    "files": [
+      {
+        "status": "M",
+        "path": ".husky/post-commit",
+        "href": "/.husky/post-commit"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
+        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "date": "2026-04-12T12:42:01.000Z",
     "message": "Investigations: remove duplicate AE911Truth header image embed",
     "files": [
@@ -59,7 +100,6 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "428fd6cb37b8beccfedf419627c55f4199aef9ff",
     "date": "2026-04-12T12:41:21.000Z",
     "message": "fix: sync changelog/index; add post-commit autogen amend",
     "files": [
@@ -72,7 +112,6 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "5e747f273f5ab45d19bc8d9a0dfb4d44a34bffdc",
     "date": "2026-04-12T12:34:54.000Z",
     "message": "Add Richard Gage / AE911Truth 9/11 investigation and assets",
     "files": [
@@ -105,7 +144,6 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "ef063f99b28f3d9df97ebb9e3d9865c903abde47",
     "date": "2026-04-11T16:06:19.000Z",
     "message": "Investigations: header image for dubious stand-down / Benghazi file",
     "files": [
@@ -123,7 +161,6 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "d12438c05fe7f9194f2fa1de0fa101b6cf69a81a",
     "date": "2026-04-11T14:37:31.000Z",
     "message": "Investigations: Three Kings (1999) PP cluster, prose cleanup, §6 gold cross-link",
     "files": [
@@ -141,7 +178,6 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "ccfa7b5671edf0b00c696f9909302f2fefbe238f",
     "date": "2026-04-11T14:19:00.000Z",
     "message": "chore: changelog window 20; document autogen timing in hook",
     "files": [
@@ -154,7 +190,6 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "0c154b0bc7df3fd3899c157d9cd03e1d56021dfa",
     "date": "2026-04-11T13:59:32.000Z",
     "message": "Investigations: Libya stand-down/Benghazi file; war page index; Cruz, armed confrontations, blog, index",
     "files": [
@@ -187,7 +222,6 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "555dfa2d4821b4a0c7957f68ba46844b5f21c701",
     "date": "2026-04-11T12:53:42.000Z",
     "message": "Investigations: Cruz file TL;DR, Will Durst Angry Birds attribution; PNG trim",
     "files": [
@@ -205,7 +239,6 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "c94c8ab7d58990494f7c7b0b49dafe1476157c67",
     "date": "2026-04-10T22:29:47.000Z",
     "message": "Content sweep: Occupy Wall Street investigation, war investigations, blog, docs, cosmos/history/influence edits",
     "files": [
@@ -648,7 +681,6 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "557b612890f72d9a5cdcf1515891b19d60647c4a",
     "date": "2026-04-10T16:34:19.000Z",
     "message": "Investigations: link Jade Helm and Cruz/Kevin to evt-trump timeline synthesis",
     "files": [
@@ -666,7 +698,6 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "64e0060689d46b78a1ee5e738680601665769f88",
     "date": "2026-04-10T14:57:38.000Z",
     "message": "Investigations: Extended Jade Helm hypothesis (Angry Birds gate, Bush–Epstein frame, Cruz/Trump); cross-link Cruz file",
     "files": [
@@ -684,7 +715,6 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "93af94b23c2a97554b400dd867c0d53035e8013e",
     "date": "2026-04-10T14:28:11.000Z",
     "message": "Cruz/Kevin: production-schedule feasibility, Hollywood opacity stance; Jade Helm timeline (s9 prod, senator-elect window)",
     "files": [
@@ -702,7 +732,6 @@
   },
   {
     "repo": "paradigm-threat-files",
-    "hash": "29da43a4af2cd3a30ac3a782e2a0aa865aae07fe",
     "date": "2026-04-10T13:47:10.000Z",
     "message": "Cruz/Kevin: Accountants trio, Oscar-senator thread, actor-name overlaps; Jade Helm cross-link",
     "files": [
@@ -715,60 +744,6 @@
         "status": "M",
         "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
         "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "c4a8a226b18cd9e80d50954699bab86668480569",
-    "date": "2026-04-10T13:27:35.000Z",
-    "message": "Cruz/Kevin + Jade Helm: addendum (overlap thread, Baumgartner credits, verification stance); sync master timeline with filming dates",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "99d18d4d2fcc9b404a84eee63434415138cb13a9",
-    "date": "2026-04-10T12:23:55.000Z",
-    "message": "Sort Jade Helm master timeline ascending by date; add investigation3 image; refresh Cruz/Kevin header PNG",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation3.png",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation3.png"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "4f0128bba03adb9a3abdb7fb87c0dd1b3ad2337e",
-    "date": "2026-04-10T01:43:32.000Z",
-    "message": "Reduce excessive bold in Cruz/Kevin investigation; keep emphasis labels",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
       }
     ]
   }
