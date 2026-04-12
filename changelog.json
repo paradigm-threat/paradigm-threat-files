@@ -1,6 +1,24 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "ef063f99b28f3d9df97ebb9e3d9865c903abde47",
+    "date": "2026-04-11T16:06:19.000Z",
+    "message": "Investigations: header image for dubious stand-down / Benghazi file",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md",
+        "href": "/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png",
+        "href": "/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "d12438c05fe7f9194f2fa1de0fa101b6cf69a81a",
     "date": "2026-04-11T14:37:31.000Z",
     "message": "Investigations: Three Kings (1999) PP cluster, prose cleanup, §6 gold cross-link",
@@ -768,29 +786,6 @@
         "status": "M",
         "path": "governance/war/investigations/page.md",
         "href": "/governance/war/investigations"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "b7be36c91d78d8665e9eb74f2fb81b4a4ff8e59a",
-    "date": "2026-04-09T19:50:25.000Z",
-    "message": "cosmos/venus: add Venus investigations index and Saturnian-to-Venera probe article; refresh Jade Helm investigation header PNG",
-    "files": [
-      {
-        "status": "A",
-        "path": "cosmos/venus/investigations/index-venus.md",
-        "href": "/cosmos/venus/investigations/index-venus"
-      },
-      {
-        "status": "A",
-        "path": "cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation.md",
-        "href": "/cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png",
-        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png"
       }
     ]
   }

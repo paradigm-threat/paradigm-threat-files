@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-11T14:37:31Z"
+    "_updated": "2026-04-11T16:06:19Z"
   },
   "cosmos": {
     "cosmology": {
@@ -2872,7 +2872,35 @@
           "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAAsABUB8JZgCdAEXuEjfCwAAAP5aPOsalJUOKwB7xrHfy1yM4meLwQDpaHIyLhpgYEcYsPy/monEthwpkbfgvOGgAA==",
           "_updated": "2026-03-28T13:38:14Z"
         },
-        "_count": 5
+        "richard-gage-ae911truth-controlled-demolition-investigation.md": {
+          "_title": "Investigation: Richard Gage, AE911Truth, and the Controlled-Demolition Thesis (9/11)",
+          "_keywords": [
+            "richardgage",
+            "ae911truth",
+            "controlled",
+            "demolition",
+            "911",
+            "noplanes",
+            "wtc7",
+            "censorship",
+            "controlledopposition",
+            "covid"
+          ],
+          "_updated": "2026-04-12T12:34:32Z"
+        },
+        "richard-gage-ae911truth-controlled-demolition-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JYwAAXmzu8AwAP5M3IshRi85mjGlD+zqtkPYmmaLO6h0vbwSFoSvqAzwIne5kAA=",
+          "_updated": "2026-04-12T12:29:30Z"
+        },
+        "richard-gage-ae911truth-controlled-demolition-investigation2.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAsABUB8JQBdgBewH6PoAAD9wrJqdaiAgMpbHsKyuHRDMQ76fuNZtTtMrieAXC3jOnCj2JBv4AAA",
+          "_updated": "2026-04-12T12:33:22Z"
+        },
+        "_count": 8
       },
       "israel_false_flag.jpg": {
         "_width": 711,
@@ -2922,7 +2950,7 @@
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoQAAwABUB8JYwCw7EPAZe5HHAA/unqy0+jfrr0OMMdMPz5Ieg4AAAA",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 33
+      "_count": 36
     },
     "jfk": {
       "agent.md": {
@@ -3030,7 +3058,7 @@
       },
       "_count": 1
     },
-    "_count": 100
+    "_count": 103
   },
   "governance": {
     "genocide": {
@@ -5992,13 +6020,13 @@
             "three-kings",
             "iraq"
           ],
-          "_updated": "2026-04-11T14:37:31Z"
+          "_updated": "2026-04-11T16:06:19Z"
         },
         "dubious-stand-down-orders-libya-benghazi-investigation.png": {
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAsABUB8JbACdAD6xCYAAAD+g154iMVJfJkM0BKjMIx44FijV9W0yH9AsjQRQx8X1yjeQuyd4gAA",
-          "_updated": "2026-04-11T16:03:47Z"
+          "_updated": "2026-04-11T16:06:19Z"
         },
         "french-revolution-investigation.md": {
           "_title": "Investigation: French Revolution \u2014 Societized Consolidation and Political Reorganization",
@@ -8311,6 +8339,37 @@
         "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAsABUB8JYgCdADsqnxAAP3T8nLdRybpSgwsi2fAeUeFveW3YYRHixXAAA==",
         "_updated": "2026-01-16T01:04:59Z"
       },
+      "investigations": {
+        "fra-mauro-sahara-pre-mudflood-maps-investigation.md": {
+          "_title": "Pre-Mudflood Maps \u2014 Fra Mauro, the Sahara, and Under-500-Year Desert Claims",
+          "_keywords": [
+            "maps",
+            "fra",
+            "sahara",
+            "african",
+            "cartography",
+            "pre",
+            "1774",
+            "garamantes",
+            "organ",
+            "paleoclimate",
+            "investigation",
+            "british",
+            "colonialism",
+            "redaction",
+            "mudflood",
+            "mfee"
+          ],
+          "_updated": "2026-04-12T12:09:52Z"
+        },
+        "fra-mauro-sahara-pre-mudflood-maps-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsABUB8JagCsAEO5U+4voAAzedB2wL8zWtf7VAPQ6Qt0+zdftR81r4OfQObL8lvlua6aNAAAA==",
+          "_updated": "2026-04-12T12:09:23Z"
+        },
+        "_count": 2
+      },
       "map_1597_australia_part_of_antarctica.jpg": {
         "_width": 1614,
         "_height": 1098,
@@ -8827,7 +8886,7 @@
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAYABUB8JYwCdAEWaSptU9AA4hjyyUsry8aQyfeUKN62VZPz/fZb7clGuqeDGNHgpDxbqR5aciVwAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 95
+      "_count": 97
     },
     "mudflood": {
       "1557_lycosthenes_airship_on_fire.jpg": {
@@ -10047,7 +10106,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 552
+    "_count": 554
   },
   "influence": {
     "censorship": {
@@ -13768,6 +13827,6 @@
     },
     "_count": 153
   },
-  "_count": 1946,
-  "_version": "d12438c"
+  "_count": 1951,
+  "_version": "ef063f9"
 }
