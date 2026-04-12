@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-12T12:51:16Z"
+    "_updated": "2026-04-12T12:51:26Z"
   },
   "cosmos": {
     "cosmology": {
@@ -2884,7 +2884,10 @@
             "wtc7",
             "censorship",
             "controlledopposition",
-            "covid"
+            "covid",
+            "openairprison",
+            "nonprofitcontainment",
+            "501c3"
           ],
           "_updated": "2026-04-12T12:42:21Z"
         },
@@ -2900,7 +2903,13 @@
           "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAsABUB8JQBdgBewH6PoAAD9wrJqdaiAgMpbHsKyuHRDMQ76fuNZtTtMrieAXC3jOnCj2JBv4AAA",
           "_updated": "2026-04-12T12:34:54Z"
         },
-        "_count": 8
+        "richard-gage-ae911truth-controlled-demolition-investigation3.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAABwAQCdASoQAAsABUB8JYgCdAAhQAD+Vdbuvqjewh5+NR9dcykugEwKjJKrbCYulgS5y5jjXef1wAAA",
+          "_updated": "2026-04-12T13:51:03Z"
+        },
+        "_count": 9
       },
       "israel_false_flag.jpg": {
         "_width": 711,
@@ -2950,7 +2959,7 @@
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoQAAwABUB8JYwCw7EPAZe5HHAA/unqy0+jfrr0OMMdMPz5Ieg4AAAA",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 36
+      "_count": 37
     },
     "jfk": {
       "agent.md": {
@@ -3058,7 +3067,7 @@
       },
       "_count": 1
     },
-    "_count": 103
+    "_count": 104
   },
   "governance": {
     "genocide": {
@@ -13827,6 +13836,6 @@
     },
     "_count": 153
   },
-  "_count": 1951,
-  "_version": "0c719e9"
+  "_count": 1952,
+  "_version": "1724d62"
 }
