@@ -1,6 +1,52 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "f0b365d6fea9f66079841e7bfd8407e97c3401c2",
+    "date": "2026-04-12T12:41:21.000Z",
+    "message": "fix: sync changelog/index; add post-commit autogen amend",
+    "files": [
+      {
+        "status": "A",
+        "path": ".husky/post-commit",
+        "href": "/.husky/post-commit"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "hash": "5e747f273f5ab45d19bc8d9a0dfb4d44a34bffdc",
+    "date": "2026-04-12T12:34:54.000Z",
+    "message": "Add Richard Gage / AE911Truth 9/11 investigation and assets",
+    "files": [
+      {
+        "status": "A",
+        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
+        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
+      },
+      {
+        "status": "A",
+        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
+        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png"
+      },
+      {
+        "status": "A",
+        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation2.png",
+        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation2.png"
+      },
+      {
+        "status": "A",
+        "path": "history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.md",
+        "href": "/history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.png",
+        "href": "/history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "ef063f99b28f3d9df97ebb9e3d9865c903abde47",
     "date": "2026-04-11T16:06:19.000Z",
     "message": "Investigations: header image for dubious stand-down / Benghazi file",
@@ -740,52 +786,6 @@
         "status": "A",
         "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
         "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "8b85aa58c60e043ff04cd1db788c28a9b524955d",
-    "date": "2026-04-10T00:57:19.000Z",
-    "message": "Cruz/Kevin investigation: Getty rally photo via PopSugar; investigator note on sign holder",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
-        "href": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "d01b577ad2e2e565ba5bd165e69b441a9312d011",
-    "date": "2026-04-10T00:42:29.000Z",
-    "message": "Investigations: Cruz/Kevin methodology, Gossip quote, header PNG; Jade Helm cross-link; index",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/page.md",
-        "href": "/governance/war/investigations"
       }
     ]
   }
