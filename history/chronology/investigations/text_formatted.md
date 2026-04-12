@@ -45,7 +45,7 @@ Von dem Verfasser dieses Werkes sind früher erschienen: I. Periodische Systeme 
 <a name='page-9'></a>
 
 
-DIE OFFENBARUNG JOHANNIS EINE ASTRONOMISCH-HISTORISCHE UNTERSUCHUNG VON NIKOLAUS MOROSOW\ /\\C«\’ZZ'JV, //7". a\‘{/ "' ' . ‘\ MIT EINEM GELEITWORT VON PROFESSOR Dr. ARTHUR DREWS IN KARLSRUHE STUTTGART VERLAG VON W. SPEMANN 1912 \I \ t. ‘\\\ \ \
+DIE OFFENBARUNG JOHANNIS EINE ASTRONOMISCH-HISTORISCHE UNTERSUCHUNG VON NIKOLAUS MOROSOW\ /\\C«\’ZZ'JV, //7". a\‘&#123;/ "' ' . ‘\ MIT EINEM GELEITWORT VON PROFESSOR Dr. ARTHUR DREWS IN KARLSRUHE STUTTGART VERLAG VON W. SPEMANN 1912 \I \ t. ‘\\\ \ \
 
 
 <a name='page-10'></a>
@@ -60,9 +60,7 @@ Copyright 1912 by W. Spemauu in Stuttgart. Hoffmannxche Buchdruckerel Felix Krai
 57‘
 
 
-### Preface (Russian Edition) {#preface-russian-edition}
-
-
+<h3 id="preface-russian-edition">Preface (Russian Edition)</h3>
 zur ersten russischen Auﬂage. Im vorliegenden Buch ist; die astronomische Berechnung der Ent stehungszeit der Apokalypse die Hauptsache. Diese neue Methode der Zeitbestimmung, angewendet auf ein altes Buch, führte zu einem ganz unerwarteten Ergebnis. Das Jahr, der Tag, ja, sogar die Stunde der Johanneischen Beobachtung erschienen mit astronomischer Genauigkeit berechnungsfähig. Als Folge hieven ergab sich das weitere Resultat, dass die Apokalypse von dem berühmten Gegner des byzantinischen politisch-religiösen Absolutismus Johannes von Antiochien, Chrysostomus genannt, verfasst werden ist. Sollte aber der Leser diese letzte Folge rung nicht annehmen und einen anderen Verfasser suchen wollen, so ist das für die Frage selbst ohne Bedeutung. Jedenfalls wird er ihn in dem gleichen Jahr 395, das uns die astronomische Berechnung geliefert hat, suchen müssen. So lange diese Berechnung nicht umgestossen ist — und dies wird nach den Prüfungsrechnungen der Herren Astronomen M. M. Kamensky und N. M. Liapin von der Sternwarte in Pulkowa (bei St. Petersburg) kaum zu erwarten sein — bleibt das Fundament der vorliegenden Untersuchung, und mit ihm würden auch alle wesent lichen Folgerungen aus jener Zeitangabe bestehen bleiben. Einen anderen Verfasser der Apokalypse wird der Leser für jene Zeit nicht ﬁnden. Kleine Nebensächlichkeiten, über die man streiten kann, sind für mich belanglos. Ich bin bereit, solche bei der ersten Widerlegung fallen zu lassen; das Buch wird dadurch keine Einbusse erleiden. Nikolaus Morosow. n
 
 
@@ -72,9 +70,7 @@ zur ersten russischen Auﬂage. Im vorliegenden Buch ist; die astronomische Bere
 <a name='page-13'></a>
 
 
-### Preface to German Edition {#preface-to-german-edition}
-
-
+<h3 id="preface-to-german-edition">Preface to German Edition</h3>
 Ausgabe. Die alte theologische Literatur hat viel Aehnlichkeit mit der alchemistischen. Beim Durchlesen einer vor Ende des 19. Jahrhunderts ver fassten Geschichte der Alchemie erstaunt man über die Menge des von den ältesten Zeiten her auf uns gelangten Materials. Wir besitzen vor treffliche fortlaufende Berichte über das Suchen nach dem „Stein der Weisen“, es fehlt darin kein einziges Glied. Man ist geneigt, dem Ver fasser, da er aus den Urkunden, die ihm zur Verfügung standen, alles Wunderbare, offenbar Unglaubwürdige und Widersprechende sorgfältig ausgeschieden hat, aufs Wort zu glauben. Ist aber der von ihm benutzte Rest des Materials dadurch glaub würdiger geworden? Gewiss nicht! Auch aus den arabischen Märchen von „Tausend und eine Nacht“ könnte in ähnlicher Weise eine an sich glaub würdige, peudogeschichtliche Erzählung herausgezogen werden, in der aber natürlich kein Wort den historischen Tatsachen entspräche. Am Schlusse des 19. Jahrhunderts unternahm es der berühmte Chemiker B erth el ot, die Geschichte der Alchemie zu erforschen. Dank seinem grossen Namen öffneten sich vor ihm die Türen aller europäischen und asiatischen Bibliotheken. Er durchforschte fast alle bis auf uns ge langten Urkunden, musste sich dann aber sagen, dass keine einzige auf Zuverlässigkeit Anspruch machen konnte. Vielmehr ergab sich, dass alle diese schön aneinander gereihten Erzählungen nicht vor dem 17. Jahrhundert verfasst worden sind, obwohl sie dem grauesten Alter tums zugeschrieben waren. In den europäischen Bibliotheken stehen viele „lateinische Ueber setzungen“ von alten arabischen Schriftstellern, selten in Handschriften, meist in gedruckten Sammlungen der ersten Jahrzehnte der Buch druckerkunst, die alle früheren Geschichtsschreiber der Alchemie be nützt haben. Es stellte sich nun heraus, dass die arabischen Originale nicht bloss unaufﬁndbar waren, sondern Berthelot musste sich überzeugen, dass sie überhaupt nie vorhanden gewesen waren, weil in den meisten
 
 
@@ -87,9 +83,7 @@ VIII dieser Uebersetzungen nur griechische Schriftsteller zitiert wurden. Auch g
 <a name='page-15'></a>
 
 
-### Foreword by Prof. Arthur Drews {#foreword-drews}
-
-
+<h3 id="foreword-drews">Foreword by Prof. Arthur Drews</h3>
 Wenige Bücher der Weltliteratur sind so oft kommentiert und so häufig zum Gegenstande tiefsinniger oder abstruser Spekulationen gemacht worden, wie die sog. „Offenbarung Johannis“. Gelehrte und Ungelehrte, Männer der strengen Wissenschaft und einfache Leute aus dem Volke, die sich hierbei auf ihre „innerliche Erleuchtung“ be riefen, haben sich um den Sinn jenes Buches bemüht und die ver wirrende Fülle seiner phantastischen Bildersprache auf die ihr zugrunde liegende Wirklichkeit zurückzuführen versucht. Wie viele verschiedene Methoden hat man nicht schon angewandt, um Licht in dieses Dunkel zu bringen! Man hat die „Offenbarung“ als eine Art allegorischer Wiederholung der wichtigsten Epochen der Weltgeschichte aufgefasst: die sog. „Rekapitulationsmethode“. Man hat in ihr das Schicksal der christlichen Kirche dargestellt gefunden, wie sich diese im Laufe der Zeit entwickelt hat: die „kirchengeschichtliche“ Methode. Man hat sie auf die Zustände der jeweiligen Gegenwart bezogen und aus den An deutungen der Offenbarung die Zukunft, das nahe bevorstehende Ende der Welt berechnen wollen: die „endgeschichtliche“ Auslegung. Man hat ihre Schilderungen und Bilder auf Vorgänge der nächsten Ver gangenheit ihres Verfassers gedeutet und die Zukunftserwartungen des Sehers durch die Zustände seiner eigenen Zeit bedingt sein lassen: die „zeitgeschichtliche“ Auslegung. Oder aber man hat den Inhalt der Offenbarung aus der Anlehnung an das Alte Testament und andere ähnliche Offenbarungen abgeleitet und diese sog. „Anlehnungsmethode“ zur „literarkritischen“ Methode zugespitzt, indem man durch Quellen scheidung und Aufdeckung ihrer literarischen Beziehungen die Schwierig keiten der Komposition jenes Buches zu erklären versucht hat. Zu allen diesen schon früher angewandten Methoden ist dann neuerdings noch die durch Gunkel begründete sog. „Traditionsrnethode“ hinzu gekommen, deren Grundsatz lautet: Was man sich nicht erklären kann, das sieht man für Ueberlieferung an, wobei gegenwärtig die babylonische
 
 
@@ -120,7 +114,7 @@ XIII neues Licht. Sie enthüllt dem überraschten Leser dichterische Schön heit
 <a name='page-20'></a>
 
 
-XIV „Es war und ist nicht mehr und wird sein“: schon einmal haben die Christen mit diesem Nero den Kampf auf Leben und Tod gekämpft, und bald wird er aus dem Abyssus wiederkehren zu einer kurzen Zeit der Schreckensherrschaft und der allgemeinen Verfolgung (a. a. O. 158). Mit der Beobachtung, dass die Apokalypse im Kern ihrer Weis sagung durch die damals im Volke verbreitete Erwartung des Nero redivivus bestimmt sei, ist nach B 0 u s se t wirklich „ein fester Punkt“ gewonnen, „der nicht wieder aufgegeben werden darf, der rocher de bronce der zeitgeschichtlichen Deutung, an dem alle Widersprüche bis jetzt machtlos zerschellt sind“ (Ebd. 141). Allein so sicher ist die Sache doch nicht. Denn diese ganze Auf fassung hängt an der Tatsache einer blutigen Christenverfolgung unter Nero, und diese, mag sie den Theologen und gewissen Historikern noch so sympathisch sein, gehört ins Reich der Fabel. Das wird u. a. auch durch das gänzliche sonstige Schwei en der christlichen Schriftsteller über sie bezeugt (vgl. Hochart: tudes au sujet de 1a persecution sous Neron 1885; De l’Authenticit<ä des Annales et des Histoires de Tacite 1890; Nouvelles Consid6rations au sujet des Annales et des Histoires de Tacite 1894, bes. Kap. VII; ferner: Die Christusmythe II, 1911, 28—77). Sollte aber auch wirklich eine Verfolgung unter Nero statt gefunden haben, so war sie doch jedenfalls keine Christenverfolgung im religiösen Sinne des Wortes, wie dies ja übrigens auch von vielen Historikern zugestanden wird. Aber auch die domitianische Verfolgung sollte man endlich aufhören, als Christenverfolgung auszuwerten, da es sich bei ihr schlimmsten Falles nur um ein gelegentliches Vorgehen gegen solche gehandelt hat, die, wie Flavius Clemens, der Vetter des Kaisers, zum jüdischen Monotheismus hinneigten‘). Die Nachricht des Eusebius, dass damals der Apostel Johannes nach Patmos verbannt sei, ist sicher nur eine „fromme“ Legende. In dem viel zitierten Briefe des Plinius an Trajan werden zwar Zeitverhältnisse geschildert, in welche, wie Bousset sagt, „die Apokalypse so ungefähr (l) hinein passt“. Aber leider steht auch die Echtheit dieses Briefes keineswegs so fest, wie die deutschen Theologen, die sich selbst mit Vorliebe „Historiker“ nennen, es gerne möchten. (Literatur hierüber in Christus mythe II, 24 f.). Schon die Umstände seiner ersten Veröffentlichung im 16. Jahrhundert lassen den Verdacht gegen seine Echtheit nur zu ') Auch Wellhausen in seiner „Analyse der Offenbarung Johannes“ (1907) bezeichnet es (S. 34) als zweifelhaft, dass schon unter Domitian ein Attentat des Staates auf die Kirche stattgefunden habe: „Profanhistorische Nachrichten darüber gibt es nicht.“ Nichtsdestoweniger beruht seine ganze Erklärung der Apokalypse auf der domitianischen Christenverfolgung und der Erwartung des Nero redivivus!
+XIV „Es war und ist nicht mehr und wird sein“: schon einmal haben die Christen mit diesem Nero den Kampf auf Leben und Tod gekämpft, und bald wird er aus dem Abyssus wiederkehren zu einer kurzen Zeit der Schreckensherrschaft und der allgemeinen Verfolgung (a. a. O. 158). Mit der Beobachtung, dass die Apokalypse im Kern ihrer Weis sagung durch die damals im Volke verbreitete Erwartung des Nero redivivus bestimmt sei, ist nach B 0 u s se t wirklich „ein fester Punkt“ gewonnen, „der nicht wieder aufgegeben werden darf, der rocher de bronce der zeitgeschichtlichen Deutung, an dem alle Widersprüche bis jetzt machtlos zerschellt sind“ (Ebd. 141). Allein so sicher ist die Sache doch nicht. Denn diese ganze Auf fassung hängt an der Tatsache einer blutigen Christenverfolgung unter Nero, und diese, mag sie den Theologen und gewissen Historikern noch so sympathisch sein, gehört ins Reich der Fabel. Das wird u. a. auch durch das gänzliche sonstige Schwei en der christlichen Schriftsteller über sie bezeugt (vgl. Hochart: tudes au sujet de 1a persecution sous Neron 1885; De l’Authenticit&lt;ä des Annales et des Histoires de Tacite 1890; Nouvelles Consid6rations au sujet des Annales et des Histoires de Tacite 1894, bes. Kap. VII; ferner: Die Christusmythe II, 1911, 28—77). Sollte aber auch wirklich eine Verfolgung unter Nero statt gefunden haben, so war sie doch jedenfalls keine Christenverfolgung im religiösen Sinne des Wortes, wie dies ja übrigens auch von vielen Historikern zugestanden wird. Aber auch die domitianische Verfolgung sollte man endlich aufhören, als Christenverfolgung auszuwerten, da es sich bei ihr schlimmsten Falles nur um ein gelegentliches Vorgehen gegen solche gehandelt hat, die, wie Flavius Clemens, der Vetter des Kaisers, zum jüdischen Monotheismus hinneigten‘). Die Nachricht des Eusebius, dass damals der Apostel Johannes nach Patmos verbannt sei, ist sicher nur eine „fromme“ Legende. In dem viel zitierten Briefe des Plinius an Trajan werden zwar Zeitverhältnisse geschildert, in welche, wie Bousset sagt, „die Apokalypse so ungefähr (l) hinein passt“. Aber leider steht auch die Echtheit dieses Briefes keineswegs so fest, wie die deutschen Theologen, die sich selbst mit Vorliebe „Historiker“ nennen, es gerne möchten. (Literatur hierüber in Christus mythe II, 24 f.). Schon die Umstände seiner ersten Veröffentlichung im 16. Jahrhundert lassen den Verdacht gegen seine Echtheit nur zu ') Auch Wellhausen in seiner „Analyse der Offenbarung Johannes“ (1907) bezeichnet es (S. 34) als zweifelhaft, dass schon unter Domitian ein Attentat des Staates auf die Kirche stattgefunden habe: „Profanhistorische Nachrichten darüber gibt es nicht.“ Nichtsdestoweniger beruht seine ganze Erklärung der Apokalypse auf der domitianischen Christenverfolgung und der Erwartung des Nero redivivus!
 
 
 <a name='page-21'></a>
@@ -164,12 +158,8 @@ XX Ende 1907 begann Morosow in den grösseren Städten Russlands auch öffentlic
 
 ---
 
-## Part I — Introduction {#part-i}
-
-
-### Introduction {#introduction}
-
-
+<h2 id="part-i">Part I — Introduction</h2>
+<h3 id="introduction">Introduction</h3>
 Morosow‚ Die Offenbarung Johannis.
 
 
@@ -179,8 +169,7 @@ Morosow‚ Die Offenbarung Johannis.
 <a name='page-29'></a>
 
 
-### Chapter I — On the Worldviews of the Past and the Difficulty of Understanding Them for Modern People {#chapter-i}
-
+<h3 id="chapter-i">Chapter I — On the Worldviews of the Past and the Difficulty of Understanding Them for Modern People</h3>
 *Ueber Weltanschauungen der Vergangenheit und die Schwierigkeit ihresVerständnisses für den modernen Menschen. Von*
 
 
@@ -205,8 +194,7 @@ allen schweren Aufgaben, die uns beim Studium einer uns fremden Vergangenheit en
 6 Lebens befanden. Wir müssen nie vergessen, dass jene die umliegende Natur nicht mit den Augen unserer Zeitgenossen betrachteten. Viele von uns können es sich nicht einmal vorstellen, dass vernünftige und bewusste Wesen aus etwas anderem als aus Eiweissstoﬂ‘en in der Form des Menschen und anderer höherer Tiere bestehen und wo anders als ausschliesslich auf dieser Erde existieren könnten. Die Oberﬂächen anderer Sterne scheinen ihnen ewig schweigende und unbewohnte Wüsten zu sein.
 
 
-### Chapter II — On Astrology and the Mysterious Phenomena of the Sky {#chapter-ii}
-
+<h3 id="chapter-ii">Chapter II — On Astrology and the Mysterious Phenomena of the Sky</h3>
 *Ueber die Astrologie und die geheimnisvollen Erscheinungen auf der Himmelskuppel. Die ganze Welt war für unsere Vorfahren voll verborgenen*
 
 
@@ -228,13 +216,13 @@ Lebens und geheimnisvoller Erscheinungen. In jedem Kometen mit seinem Schweif er
 <a name='page-35'></a>
 
 
-J ‚ J >< °' f ‘1 ’ x8 ‚ ‘7 > v-n=" ><(o >< 1‘: ‘ "5 < »|nl x 2 91 : __ .>'I < II h I -‘ f“ IM ‚ ‘ 4 ., .::Jm‘—' _' '\__" l' o -‚ . . . / \:ÄL‘ “ °’ W‘5’" -' ' t. ='ä ‘ . ‘_« 5 k ‚ Ä ‘ t. l ° 1 ‚.ä \ a ‘ x _ l‚' I xQ .. . "‘ o o ‘ ;_„ u )€ z X : .‘ ><„ “ 4 '3 ({l '. _j 2.— ‚4 ° Sternbilder: Sternbilder: Sternbilder: Die. Wage und der Skorpion. Der Krebs und die Zwillinge. Der Steinbock und der Wassermann. Bilder l. 2 u. 3. Beispiele alter Tierund Sternbilder des Zodiakalkreises nach dem lateinischen Manuskript Grienbergers, das in der Bibliothek der Pulkowa Sternwarte aufbewahrt wird.
+J ‚ J >&lt; °' f ‘1 ’ x8 ‚ ‘7 > v-n=" >&lt;(o >&lt; 1‘: ‘ "5 &lt; »|nl x 2 91 : __ .>'I &lt; II h I -‘ f“ IM ‚ ‘ 4 ., .::Jm‘—' _' '\__" l' o -‚ . . . / \:ÄL‘ “ °’ W‘5’" -' ' t. ='ä ‘ . ‘_« 5 k ‚ Ä ‘ t. l ° 1 ‚.ä \ a ‘ x _ l‚' I xQ .. . "‘ o o ‘ ;_„ u )€ z X : .‘ >&lt;„ “ 4 '3 (&#123;l '. _j 2.— ‚4 ° Sternbilder: Sternbilder: Sternbilder: Die. Wage und der Skorpion. Der Krebs und die Zwillinge. Der Steinbock und der Wassermann. Bilder l. 2 u. 3. Beispiele alter Tierund Sternbilder des Zodiakalkreises nach dem lateinischen Manuskript Grienbergers, das in der Bibliothek der Pulkowa Sternwarte aufbewahrt wird.
 
 
 <a name='page-36'></a>
 
 
-.10 halte z. B. eine kleine Kugel vor sich und bewege sie langsam um seinen Kopf in der Höhe des Auges, von rechts nach links, gleichzeitig mache man mit dem Kopf eine Bewegung in gleicher am. 01»... «T. 9h:v‚p ‚ Vh Iln. 9h I / |< l \ Du. 9b R‚ ß/(‘I'ILÖ/ill' ‘ _w. des .(0"1rcn j/ . / 16' ’‚il‘ﬂ/ J), b l <vw 1 _‚/°‘ ‘i /"@ ‘ “ des rebs'eas'. l IIIl*-l.t Bild 4. Der Weg des Saturn zwischen den Sternbildern des Krebses und des Löwen in den Jahren 1888—1889. Bild 5. Der Weg des Juplter im Sternbild des Schützen im Jahre 1889. “Los uhußL1n 7g"uhn.. ulm-. uk o... nhs-. I.L. / -r d”. " ‚ M-I Jf4 1. *‘ ' ‚ "“ I" /HP/‚ "" "“'i „u _„-" [Ä -‘ "“‘‚‘ ". .* knu:“’ ‚. '‚”'I:r‚ 15‘P“Iq ) K’„‚_‚ ""”” ‚ad-4% ‘ Äi-a / y/ s(‚rnlbl'ld 1' . „II. Bild 6. Der Weg des Mars im Sternbild der Jungfrau im Jahre 1888. Richtung , indem man vorher ein Auge zugemacht hat. Dann wird das andere geöffnete Auge die Erde darstellen, die sich auf ihrer Kreisbahn bewegt, die Kugel den Planeten, der sich auf einer andern, von der Sonne weiter entfernten Kurve bewegt. Man beachte dabei die Linien, welche die Projektion eines Fingers auf der Wand oder,
+.10 halte z. B. eine kleine Kugel vor sich und bewege sie langsam um seinen Kopf in der Höhe des Auges, von rechts nach links, gleichzeitig mache man mit dem Kopf eine Bewegung in gleicher am. 01»... «T. 9h:v‚p ‚ Vh Iln. 9h I / |&lt; l \ Du. 9b R‚ ß/(‘I'ILÖ/ill' ‘ _w. des .(0"1rcn j/ . / 16' ’‚il‘ﬂ/ J), b l &lt;vw 1 _‚/°‘ ‘i /"@ ‘ “ des rebs'eas'. l IIIl*-l.t Bild 4. Der Weg des Saturn zwischen den Sternbildern des Krebses und des Löwen in den Jahren 1888—1889. Bild 5. Der Weg des Juplter im Sternbild des Schützen im Jahre 1889. “Los uhußL1n 7g"uhn.. ulm-. uk o... nhs-. I.L. / -r d”. " ‚ M-I Jf4 1. *‘ ' ‚ "“ I" /HP/‚ "" "“'i „u _„-" [Ä -‘ "“‘‚‘ ". .* knu:“’ ‚. '‚”'I:r‚ 15‘P“Iq ) K’„‚_‚ ""”” ‚ad-4% ‘ Äi-a / y/ s(‚rnlbl'ld 1' . „II. Bild 6. Der Weg des Mars im Sternbild der Jungfrau im Jahre 1888. Richtung , indem man vorher ein Auge zugemacht hat. Dann wird das andere geöffnete Auge die Erde darstellen, die sich auf ihrer Kreisbahn bewegt, die Kugel den Planeten, der sich auf einer andern, von der Sonne weiter entfernten Kurve bewegt. Man beachte dabei die Linien, welche die Projektion eines Fingers auf der Wand oder,
 
 
 <a name='page-37'></a>
@@ -249,8 +237,7 @@ J ‚ J >< °' f ‘1 ’ x8 ‚ ‘7 > v-n=" ><(o >< 1‘: ‘ "5 < »|nl x 2 9
 12 (Bild 8 n. 9) und die auf ihnen auf der kristallenen Himmelskuppel herumritten, während auf der einen Seite des Pols der Thron des Himmels, die heutige Kassiopeia, auf der andern Seite die sieben Seelen, d. h. die Gruppe des grossen Bären, sich befanden. Alle 24 Stunden wanderten die Gestirne mit: der Sonne und dem Mond um den Himmels pol, begannen ihren Lauf an der östlichen Seite des Horizontes und beendigten ihn an der westlichen. Die vom Pol am weitesten ent fernten Planeten verschwanden eine Zeitlang irgend wohin unter den Horizont, um dann plötzlich wieder auf der Ostseite zu erscheinen und von neuem ihre tägliche Runde um die Sternbilder des Thrones und der sieben Seelen zu beschreiben. Quid moveant Pisces, animossque eigne Leonis? Lotus et Hesperis quid Capricornus aqua? (Was werden uns die Fische und die bösen Zeichen des Löwen: bringen? Was bringt uns der Steinbock, der ganz vom Wasser des Sonnenunterganges überﬂutet ist?)
 
 
-### Chapter III — On the Typical Forms of Storm Clouds During Autumn Thunderstorms {#chapter-iii}
-
+<h3 id="chapter-iii">Chapter III — On the Typical Forms of Storm Clouds During Autumn Thunderstorms</h3>
 *Einiges über die typischen Formen der Wolken zur Zeit der Herbstgewitter.*
 
 
@@ -278,7 +265,7 @@ Ich habe dies alles ins Gedächtnis gerufen und niedergeschrieben, um auf die ei
 <a name='page-42'></a>
 
 
-16 raumes zwischen den beiden Wolkenschichten, die übereinander lagen. Die schmale und bei gewöhnlichen Verhältnissen ganz unbemerkbare Teilung in den Schichten setzte sich auch weiter mit Verengerungen und Erweiterungen des Zwischenraumes fort, da die schrägen Sonnen strahlen von hinten durch die benachbarten Erweiterungen {hindurch gingen und auf beiden Seiten der ﬁnster dreinschauenden Sonne mehrere leuchtende Punkte bildeten, die wie rechts und links von dem zornigen Antlitz der Sonne aufgestellte ﬂammende Fackeln aussahen. Alles dies geschah so unerwartet, war so voll eigenen Lebens und Bewegung, dass, mag es auch lächerlich sein, es zu bekennen, ich geradezu erschreckt und nahe daran war, mit abergläubischer Furcht zu fragen: Was ist geschehen? Was willst du von mir? Diese Erscheinung, die uns buchstäblich im ersten Kapitel der Apokalypse begegnet, dauerte nicht länger als eine Minute. Dann ver schwand die Sonne hinter dem unteren Rande der Oeﬁ'nung und nahm dabei unter den sie immer mehr verschleiernden Dämpfen ein düsteres unheimliches Aussehen an. Schliesslich blieb an der Stelle der Sonne nur eine gewaltige Fackel heller Strahlen mitten in einem goldenen Büschel anderer Strahlen übrig. Eine halbe Stunde später kam das Gewitter heran, und was dann weiter geschah, dessen weiss ich mich nicht mehr zu erinnern. Ein anderes Mal, als ich während eines Gewitters zwischen zwei Regengüssen auf einen freien Platz hinausging, um die Bewegungen und Formen der Wolken bei diesem Stadium des Gewitters zu beob achten, erblickte ich hoch oben gegen Südwesten im Blau des teilweise aufgehellten Himmels eine lange Reihe schneeweisser spiralförmig gewundener Wolken. Sie ﬂogen schnell hintereinander her, den Weg eines in der Höhe tobenden Wirbelwindes bezeichnend, und ihre ganze Spirale deutete die Drehungszentra der entsprechenden Teile der Luft an, wobei infolge plötzlicher Luftverdünnung sich leichte Wasser dämpfe ausbreiteten. Aber von unten sah es unwillkürlich so aus, als ob am Himmel eine Reihe unsichtbarer Engel ﬂöge, die mitten im Gewitter ihre Posaunen bliesen. Als ich nach einiger Zeit noch einmal ins Freie trat, erblickte ich hoch im Norden ein anderes grossartiges Bild. Drei grosse weissliche Wolken, die sich über den ganzen oberen Teil des Himmels erstreckten, hatten ganz die Form riesenhafter Kröten angenommen, die einander an den Vorderpfoten hielten und sich eilends in einem wilden Tanz um den Nordpol schwangen. Diese Illusion eines Tanzes in der Luft wurde durch ihre krummlinigen Bewegungen hervorgerufen, indem sie während ihres Fluges bald diese, bald jene Pfote ausstreckten und
+16 raumes zwischen den beiden Wolkenschichten, die übereinander lagen. Die schmale und bei gewöhnlichen Verhältnissen ganz unbemerkbare Teilung in den Schichten setzte sich auch weiter mit Verengerungen und Erweiterungen des Zwischenraumes fort, da die schrägen Sonnen strahlen von hinten durch die benachbarten Erweiterungen &#123;hindurch gingen und auf beiden Seiten der ﬁnster dreinschauenden Sonne mehrere leuchtende Punkte bildeten, die wie rechts und links von dem zornigen Antlitz der Sonne aufgestellte ﬂammende Fackeln aussahen. Alles dies geschah so unerwartet, war so voll eigenen Lebens und Bewegung, dass, mag es auch lächerlich sein, es zu bekennen, ich geradezu erschreckt und nahe daran war, mit abergläubischer Furcht zu fragen: Was ist geschehen? Was willst du von mir? Diese Erscheinung, die uns buchstäblich im ersten Kapitel der Apokalypse begegnet, dauerte nicht länger als eine Minute. Dann ver schwand die Sonne hinter dem unteren Rande der Oeﬁ'nung und nahm dabei unter den sie immer mehr verschleiernden Dämpfen ein düsteres unheimliches Aussehen an. Schliesslich blieb an der Stelle der Sonne nur eine gewaltige Fackel heller Strahlen mitten in einem goldenen Büschel anderer Strahlen übrig. Eine halbe Stunde später kam das Gewitter heran, und was dann weiter geschah, dessen weiss ich mich nicht mehr zu erinnern. Ein anderes Mal, als ich während eines Gewitters zwischen zwei Regengüssen auf einen freien Platz hinausging, um die Bewegungen und Formen der Wolken bei diesem Stadium des Gewitters zu beob achten, erblickte ich hoch oben gegen Südwesten im Blau des teilweise aufgehellten Himmels eine lange Reihe schneeweisser spiralförmig gewundener Wolken. Sie ﬂogen schnell hintereinander her, den Weg eines in der Höhe tobenden Wirbelwindes bezeichnend, und ihre ganze Spirale deutete die Drehungszentra der entsprechenden Teile der Luft an, wobei infolge plötzlicher Luftverdünnung sich leichte Wasser dämpfe ausbreiteten. Aber von unten sah es unwillkürlich so aus, als ob am Himmel eine Reihe unsichtbarer Engel ﬂöge, die mitten im Gewitter ihre Posaunen bliesen. Als ich nach einiger Zeit noch einmal ins Freie trat, erblickte ich hoch im Norden ein anderes grossartiges Bild. Drei grosse weissliche Wolken, die sich über den ganzen oberen Teil des Himmels erstreckten, hatten ganz die Form riesenhafter Kröten angenommen, die einander an den Vorderpfoten hielten und sich eilends in einem wilden Tanz um den Nordpol schwangen. Diese Illusion eines Tanzes in der Luft wurde durch ihre krummlinigen Bewegungen hervorgerufen, indem sie während ihres Fluges bald diese, bald jene Pfote ausstreckten und
 
 
 <a name='page-43'></a>
@@ -293,8 +280,7 @@ Ich habe dies alles ins Gedächtnis gerufen und niedergeschrieben, um auf die ei
 18
 
 
-### Chapter IV — First Encounter with the Apocalypse {#chapter-iv}
-
+<h3 id="chapter-iv">Chapter IV — First Encounter with the Apocalypse</h3>
 *Die erste Begegnung mit der Apokalypse. Oft kam mir der Gedanke: kann man*
 
 
@@ -330,9 +316,7 @@ alle diese Wolkenbildungen im Mittelstadium eines Gewitters für ebenso charakte
 
 ---
 
-## Part II — The Revelation in Storm and Thunder on Patmos, 30 Sept 395 {#part-ii}
-
-
+<h2 id="part-ii">Part II — The Revelation in Storm and Thunder on Patmos, 30 Sept 395</h2>
 Offenbarung in Gewitter und Sturm in den vier Stössen des Erdbebens auf der Insel Patmos am 30. September 395.
 
 
@@ -345,7 +329,7 @@ Volkstümliche Wiedergabe nach der griechischen Ausgabe: 77;; Kanu}; Ata8ﬁxqg 
 <a name='page-51'></a>
 
 
-Karte der Lage der Sterne über der Insel Patmos ungefähr um 5 Uhr abends den 30. September 395 des julianischen Jahres und Erläuterungen zu ihr. ‚ *l \'2‚/’M«< ‚° J\ _ < o, (u‘ißtäf \ .‚ . {J . \ : J'r;rd(w ‚ ‚ Bild 10. Die Lage der Sternbilder über Patmos zur Zeit ihrer astronomischen Be stimmung durch Johannes in den Kap. 6—12 der Apokalypse. Zur Benutzung dieser Karte muss man sich denken, dass man auf dem südlichen Ufer der Insel Patmos mit dem Gesicht gegen Süden stehe, wobei die auf ihr dargestellten Sternbilder gewissermassen über den Kopf des Beobachters zurückgehoben werden. Man muss also die Karte über seinem Kopfe halten, gerade so, wie der Stemhimmel sich über uns be ﬁndet. Gesehen wurden nur die Sternbilder, die sich in dem unteren Kreise beﬁnden, der den Horizont von Patmos darstellt. Die senkrechte Linie ist der Meridian dieses Horizontes, und das Kreuz auf ihr ist der
+Karte der Lage der Sterne über der Insel Patmos ungefähr um 5 Uhr abends den 30. September 395 des julianischen Jahres und Erläuterungen zu ihr. ‚ *l \'2‚/’M«&lt; ‚° J\ _ &lt; o, (u‘ißtäf \ .‚ . &#123;J . \ : J'r;rd(w ‚ ‚ Bild 10. Die Lage der Sternbilder über Patmos zur Zeit ihrer astronomischen Be stimmung durch Johannes in den Kap. 6—12 der Apokalypse. Zur Benutzung dieser Karte muss man sich denken, dass man auf dem südlichen Ufer der Insel Patmos mit dem Gesicht gegen Süden stehe, wobei die auf ihr dargestellten Sternbilder gewissermassen über den Kopf des Beobachters zurückgehoben werden. Man muss also die Karte über seinem Kopfe halten, gerade so, wie der Stemhimmel sich über uns be ﬁndet. Gesehen wurden nur die Sternbilder, die sich in dem unteren Kreise beﬁnden, der den Horizont von Patmos darstellt. Die senkrechte Linie ist der Meridian dieses Horizontes, und das Kreuz auf ihr ist der
 
 
 <a name='page-52'></a>
@@ -360,8 +344,7 @@ Karte der Lage der Sterne über der Insel Patmos ungefähr um 5 Uhr abends den 3
 Die Offenbarung.
 
 
-### Chapter I — On the Worldviews of the Past and the Difficulty of Understanding Them for Modern People {#chapter-i}
-
+<h3 id="chapter-i">Chapter I — On the Worldviews of the Past and the Difficulty of Understanding Them for Modern People</h3>
 *Das zornige Antlitz der Sonne in der Wolke, der Vorbotin*
 
 
@@ -407,11 +390,10 @@ des Gewitters. Johannes — den sieben kleinasiatischen Gemeinden 1). 1 Gnade eu
 <a name='page-60'></a>
 
 
-34 N derten den ursprünglichen Ausdruck u1e'z;avov ;(gwoüv (goldene Krone) in srrupa'vovg 19110017; (goldene Kronen) um. Solch eine Neigung zu Verbesserungen hat viele Varianten in den biblischen Büchern verursacht. ’) rpwvui — Töne, Stimmen. ') Statt Meer steht in den griechischen Abschriften Thron, augenscheinlich ein Fehler des Abschreibers, wenn man nicht annehmen will, der Verfasser habe in diesem Falle die ganze Himmelskuppel Thron genannt. ') Das griechische Wort {der bedeutete im Altertum ein Säugetier und nicht einen Vogel. Folglich kann dieser Ausdruck sich nicht auf das Sternbild des Adlers beziehen (Bild 17), sondern auf das einzige Säugetierbild unter den dargestellten ge ﬂügelten Tieren — den Pegasus. Es ist zu bemerken, dass jedes von diesen vier Tieren beim Eintritt der betreffenden Jahreszeit in den Strahlen der Sonne verschwindet. '°) s"o'wßev :mi xuxlo'.9w‚ inwendig und ringsum. Schon dieser Ausdruck allein zeigt, dass es sich hier um die Bilder der alten Sterngruppen handelt. Bei welchen anderen Tieren können Augen inwendig und ringsum vorhanden sein? ") Die nördliche Krone steigt bei ihrer täglichen Bewegung in den Breiten der Insel Patmos bis zum Zenit und sinkt dann wieder im nördlichen Teil des Horizontes. Um die ganze Poesie dieses merkwürdigen Kapitels zu verstehen, ist es not wendig, nicht nur die Verteilung der Sternbilder auf der scheinbaren Himmelskuppel, sondern auch deren tägliche Bewegung sich klar vorzustellen. Denjenigen, die es nicht wissen, geht die ganze Schönheit des hier beschriebenen Bildes beinahe ganz verloren. Diesen kann ich nur folgendes sagen: Der gesamte Sternhimmel wurde seit jeher in vierundzwanzig ﬂügelartige Streifen eingeteilt, die an den Himmelspolen zusammen laufen (Bild 11), und die man Sternstunden oder die Stunden des geraden Auf stiegs der in ihnen beﬁndlichen Sterne nennt. In der nördlichen gemäßigten Zone der Erdkugel gehen die oberen Teile jeder Sternstunde (ungefähr bis zur Höhe der nördlichen Krone Bild 12) niemals unter, hingegen die unteren Teile, gewisser massen die Kniee dieser Streifen, sinken bald unter den Horizont hinab, bald steigen sie über ihn empor. In dieser Weise erhebt sich jede Sternstunde auf ihren Knien im östlichen Teile des Horizontes und fällt wiederum am westlichen Teile auf sie nieder, als ob sie sich vor dem Zentrum der ganzen Bewegung, dem nördlichen Himmelspol, verneigte. Dieses hier beschriebene Bild der täglichen Umdrehung des Sternbimmels mit seinen 24 Greisen, den Stunden, die der Reihe nach sich vor der Ewigkeit — symbolisiert im unbeweglichen Himmelspole — verbeugeu, ist ungemein poetisch.
+34 N derten den ursprünglichen Ausdruck u1e'z;avov ;(gwoüv (goldene Krone) in srrupa'vovg 19110017; (goldene Kronen) um. Solch eine Neigung zu Verbesserungen hat viele Varianten in den biblischen Büchern verursacht. ’) rpwvui — Töne, Stimmen. ') Statt Meer steht in den griechischen Abschriften Thron, augenscheinlich ein Fehler des Abschreibers, wenn man nicht annehmen will, der Verfasser habe in diesem Falle die ganze Himmelskuppel Thron genannt. ') Das griechische Wort &#123;der bedeutete im Altertum ein Säugetier und nicht einen Vogel. Folglich kann dieser Ausdruck sich nicht auf das Sternbild des Adlers beziehen (Bild 17), sondern auf das einzige Säugetierbild unter den dargestellten ge ﬂügelten Tieren — den Pegasus. Es ist zu bemerken, dass jedes von diesen vier Tieren beim Eintritt der betreffenden Jahreszeit in den Strahlen der Sonne verschwindet. '°) s"o'wßev :mi xuxlo'.9w‚ inwendig und ringsum. Schon dieser Ausdruck allein zeigt, dass es sich hier um die Bilder der alten Sterngruppen handelt. Bei welchen anderen Tieren können Augen inwendig und ringsum vorhanden sein? ") Die nördliche Krone steigt bei ihrer täglichen Bewegung in den Breiten der Insel Patmos bis zum Zenit und sinkt dann wieder im nördlichen Teil des Horizontes. Um die ganze Poesie dieses merkwürdigen Kapitels zu verstehen, ist es not wendig, nicht nur die Verteilung der Sternbilder auf der scheinbaren Himmelskuppel, sondern auch deren tägliche Bewegung sich klar vorzustellen. Denjenigen, die es nicht wissen, geht die ganze Schönheit des hier beschriebenen Bildes beinahe ganz verloren. Diesen kann ich nur folgendes sagen: Der gesamte Sternhimmel wurde seit jeher in vierundzwanzig ﬂügelartige Streifen eingeteilt, die an den Himmelspolen zusammen laufen (Bild 11), und die man Sternstunden oder die Stunden des geraden Auf stiegs der in ihnen beﬁndlichen Sterne nennt. In der nördlichen gemäßigten Zone der Erdkugel gehen die oberen Teile jeder Sternstunde (ungefähr bis zur Höhe der nördlichen Krone Bild 12) niemals unter, hingegen die unteren Teile, gewisser massen die Kniee dieser Streifen, sinken bald unter den Horizont hinab, bald steigen sie über ihn empor. In dieser Weise erhebt sich jede Sternstunde auf ihren Knien im östlichen Teile des Horizontes und fällt wiederum am westlichen Teile auf sie nieder, als ob sie sich vor dem Zentrum der ganzen Bewegung, dem nördlichen Himmelspol, verneigte. Dieses hier beschriebene Bild der täglichen Umdrehung des Sternbimmels mit seinen 24 Greisen, den Stunden, die der Reihe nach sich vor der Ewigkeit — symbolisiert im unbeweglichen Himmelspole — verbeugeu, ist ungemein poetisch.
 
 
-### Chapter V — A Lamb-Cloud Flies Across the Sky — Hymn to the Constellation of Aries {#chapter-v}
-
+<h3 id="chapter-v">Chapter V — A Lamb-Cloud Flies Across the Sky — Hymn to the Constellation of Aries</h3>
 *Ein Lämmerwölklein ﬂiegt über den Himmel. Hymne auf das Sternbild*
 
 
@@ -436,8 +418,7 @@ des Widders. In der Hand dessen, der auf dem Throne sass, war eine Papyrus rolle
 37
 
 
-### Chapter VI — The Positions of the Planets Among the Zodiacal Constellations During the Storm of 30 September 395 {#chapter-vi}
-
+<h3 id="chapter-vi">Chapter VI — The Positions of the Planets Among the Zodiacal Constellations During the Storm of 30 September 395</h3>
 *Die Lage der Planeten inmitten der Sternbilder des Zodialtus während des Gewitters am 30. September*
 
 
@@ -447,7 +428,7 @@ des Widders. In der Hand dessen, der auf dem Throne sass, war eine Papyrus rolle
 <a name='page-64'></a>
 
 
-38 5 Als aber der Widder das dritte Siegel öffnete (vom Sternbild der Wage), da sprach das dritte Tier: 6 Komm und sich! Ich schaute, und siehe da, auf derselben Stelle befand sich ein dunkles Boss (der in jenen Tagen unsichtbare Merkur‘), und der, der darauf sass (Bild 21), hatte eine Wage 5) in der Hand. Und ich hörte das Rauschen des Windes inmitten der 4 Tiere, der sprach (zu dem Planeten des Handels, dem Merkur): Eine Tagesportion für einen Denar 6) und für einen Denar drei tägliche Por _ ' tionen Gerste. Dem Oele aber und dem 7 ,‘3,1‘1,f,{;gﬂfdßiäi,;f,jjel3313321323123; Weine schade nicht. Als der Widder (Lamm) das vierte Siegel öffnete, hörte ich die Stimme (des Donners) des vierten Tieres (des Sternbildes, des Pegasus), das sagte: 3 Komm und sich! Ich schaute empor (auf die von Wolken be freite neue Stelle des Zodiakalstreifens), und siehe da: hier befand sich ein fahles 8) Boss (der unheilverkündende Planet Saturn), und der darauf steigende, hiess der Tod“) (der Skorpion, Bild 22), und das Totenreich folgte ihm nach (der Schütze, der Steinbock, der Wassermann und die Be wohner der Meerestiefe, die Fische), und es war ihnen“) Macht gegeben über das von ihnen bedeckte südöstliche Viertel der Erde, um dort die Menschen durch Schwert, Hunger, Pest und wilde Tiere zu töten. 9 Als der Widder das fünfte Siegel öffnete, da sah ich (in den zerfetzten Wolken?) unter dem Altar (Bild 23) die Seelen derer, die für die göttliche Lehre und für die Ver kündigung der Wahrheit hingeschlachtet waren. Die schrieen mit lauter Stimme (wahrschemlrch heulte ein klagender W1ndB„„„„_ S„„m(,l,nehen den K„„g„, ' des Skorpion in seiner Koplbrust am 813038). 30. September 395. 10 Wie lange, du unser heiliger und ge rechter Herr, richtest du nicht und rächest unser Blut an denen, die n auf der Erde wohnen? Und es war jeder von ihnen ein weisses Wolkengewand verliehen und es war ihnen gesagt, dass sie sich noch eine kleine Weile gedulden sollten, bis die Zahl ihrer Brüder und Mitarbeiter, die auch, wie sie, getötet werden sollten, voll sein werde.
+38 5 Als aber der Widder das dritte Siegel öffnete (vom Sternbild der Wage), da sprach das dritte Tier: 6 Komm und sich! Ich schaute, und siehe da, auf derselben Stelle befand sich ein dunkles Boss (der in jenen Tagen unsichtbare Merkur‘), und der, der darauf sass (Bild 21), hatte eine Wage 5) in der Hand. Und ich hörte das Rauschen des Windes inmitten der 4 Tiere, der sprach (zu dem Planeten des Handels, dem Merkur): Eine Tagesportion für einen Denar 6) und für einen Denar drei tägliche Por _ ' tionen Gerste. Dem Oele aber und dem 7 ,‘3,1‘1,f,&#123;;gﬂfdßiäi,;f,jjel3313321323123; Weine schade nicht. Als der Widder (Lamm) das vierte Siegel öffnete, hörte ich die Stimme (des Donners) des vierten Tieres (des Sternbildes, des Pegasus), das sagte: 3 Komm und sich! Ich schaute empor (auf die von Wolken be freite neue Stelle des Zodiakalstreifens), und siehe da: hier befand sich ein fahles 8) Boss (der unheilverkündende Planet Saturn), und der darauf steigende, hiess der Tod“) (der Skorpion, Bild 22), und das Totenreich folgte ihm nach (der Schütze, der Steinbock, der Wassermann und die Be wohner der Meerestiefe, die Fische), und es war ihnen“) Macht gegeben über das von ihnen bedeckte südöstliche Viertel der Erde, um dort die Menschen durch Schwert, Hunger, Pest und wilde Tiere zu töten. 9 Als der Widder das fünfte Siegel öffnete, da sah ich (in den zerfetzten Wolken?) unter dem Altar (Bild 23) die Seelen derer, die für die göttliche Lehre und für die Ver kündigung der Wahrheit hingeschlachtet waren. Die schrieen mit lauter Stimme (wahrschemlrch heulte ein klagender W1ndB„„„„_ S„„m(,l,nehen den K„„g„, ' des Skorpion in seiner Koplbrust am 813038). 30. September 395. 10 Wie lange, du unser heiliger und ge rechter Herr, richtest du nicht und rächest unser Blut an denen, die n auf der Erde wohnen? Und es war jeder von ihnen ein weisses Wolkengewand verliehen und es war ihnen gesagt, dass sie sich noch eine kleine Weile gedulden sollten, bis die Zahl ihrer Brüder und Mitarbeiter, die auch, wie sie, getötet werden sollten, voll sein werde.
 
 
 <a name='page-65'></a>
@@ -468,8 +449,7 @@ des Widders. In der Hand dessen, der auf dem Throne sass, war eine Papyrus rolle
 41
 
 
-### Chapter VII — The Dead Calm Before the Approaching Storm After the First Sharp Wind Gusts {#chapter-vii}
-
+<h3 id="chapter-vii">Chapter VII — The Dead Calm Before the Approaching Storm After the First Sharp Wind Gusts</h3>
 *Die Totenstille vor dem herannahenden Gewitter nach den ersten scharfen*
 
 
@@ -506,8 +486,7 @@ und kurzen Windstössen. Darauf sah ich (in den neuen Wolken am Horizont?) vier 
 46 3) Jeder starke Wind treibt das bitter-salzige Meerwasser in die Mündungen der Flüsse und verdrängt das Süsswasser nicht selten auf ganz bedeutende Entfernungen von der Mündung. ‘) Oﬂ‘enbar sind viele Stellen dieses Kapitels in ihrem Stil durch die Abschreiber entstellt worden. In einer der auf uns gekommenen Kopien steht hier xai r} m'5 o';soiw; — und die Nacht desgleichen. Ich übersetzte hier, wie auch den Ausdruck im vorherigen Verse, nach dem logischen Zusammenhang der Stelle. Es ist nicht schwer, zu ersehen, dass der Verfasser hier auf die von ihm zu dieser Zeit hinter den Wolken vermutete Sonnenfinsternis anspielt, wobei die Sonne und der Mond gegen seitig ein Drittel vom anderen bedecken; aber auch vom Sternhimmel war zu dieser Zeit ein Drittel durch die Gewitterwolken verhüllt. ") In den alten Texten steht hier u’rroü (des Adlers) gerade so wie der Ruf: Uni! Er gehört offenbar einem Vogel und ist der griechische Ausdruck für weh!
 
 
-### Chapter IX — The Image of the Sea Churned Up by the Storm {#chapter-ix}
-
+<h3 id="chapter-ix">Chapter IX — The Image of the Sea Churned Up by the Storm</h3>
 *Das Bild des vom Gewitter aufgewühlten Meeres. l Der fünfte Bote blies in*
 
 
@@ -523,7 +502,7 @@ die Posaune, und ich sah abermals eine 2 Gewitterfackel vom Himmel auf die Erde 
 <a name='page-74'></a>
 
 
-48 (in den Wellen, die plötzlich von den durch die Wolken brechenden Sonnenstrahlen zu glitzern anﬁngen) Bosse und Reiter in feurigen lila und schwefelgelben Licht-Panzern“). Die Köpfe der Bosse glichen Löwenköpfen, und aus ihren Mäulern ging Feuer der reflektierten Sonnenstrahlen, Rauch des Wasserstaubes und Schwefel — das mit aufgewühltem Sande vermischte gelbe Wasser. 18 Durch sie, so schien es mir, kam der dritte Teil der Menschen um, 19 denn die Kraft dieser Bosse war in ihren Mäulern und Schwänzen; die wenden sich gleich Schlangen, und mit ihren Köpfen schlugen sie 20um sich. Die übrig gebliebenen (in den vom Winde schwankenden Gräsern symbolisierten?) Menschen aber, die durch diese Plagen nicht getötet wurden, bekehrten sich nicht von den Werken ihrer Hände, 7'7' ‚rf‚fa..0 rf.f1asauf' I1Ä'b Vf' 1fwai'r"-lvrpp n<v<‚.?„v l'artl bgdvld (Arm la<=< -ß. ‘l>l_'eJl l'rv‘ rr.7mr‚'r l [mit Aqvn4rhs ‚man /7 J„ „gyü‚„ a f Bild 27. Die Erde nach Kosmos Indikopleustes im 6. Jahrhundert mit dem sie umgebenden Ozeaniluss und den Aeolen, den Beherrschern der “ﬁnde. hörten nicht auf, die Geister der Verstorbenen’), die goldenen, silber nen, ehernen, steinernen und hölzernen Götzen anzubeten, die weder 21 sehen, noch hören, noch gehen können, und taten auch nicht Busse wegen ihrer Mordtaten, ihrer Zaubereien, Ausschweifungen und Dieb stähle. x) 'r‚7.m; heisst auf griechisch nicht nur die Sonne, sondern wird auch meta phorisch im Sinne des Tageslichtes gebraucht, aber auch im Sinne des Wohl befi nd en s im allgemeinen. ’) Im griechischen Text steht a'xgid‘z; - Heuschrecken, als metaphorischer Aus druck der unzähligen Wellen, die auf das Ufer zustürmen. ') Nach den astronomischen Berechnungen stürmte dieses Gewitter über Patmos am 80. September 395. Die fünf Monate, die auf den September folgen, gelten als die stürmischsten auf dem Mittelmeere. ‘) ;1“1)R (awaddön) —- Vernichtung, Zerstörung.
+48 (in den Wellen, die plötzlich von den durch die Wolken brechenden Sonnenstrahlen zu glitzern anﬁngen) Bosse und Reiter in feurigen lila und schwefelgelben Licht-Panzern“). Die Köpfe der Bosse glichen Löwenköpfen, und aus ihren Mäulern ging Feuer der reflektierten Sonnenstrahlen, Rauch des Wasserstaubes und Schwefel — das mit aufgewühltem Sande vermischte gelbe Wasser. 18 Durch sie, so schien es mir, kam der dritte Teil der Menschen um, 19 denn die Kraft dieser Bosse war in ihren Mäulern und Schwänzen; die wenden sich gleich Schlangen, und mit ihren Köpfen schlugen sie 20um sich. Die übrig gebliebenen (in den vom Winde schwankenden Gräsern symbolisierten?) Menschen aber, die durch diese Plagen nicht getötet wurden, bekehrten sich nicht von den Werken ihrer Hände, 7'7' ‚rf‚fa..0 rf.f1asauf' I1Ä'b Vf' 1fwai'r"-lvrpp n&lt;v&lt;‚.?„v l'artl bgdvld (Arm la&lt;=&lt; -ß. ‘l>l_'eJl l'rv‘ rr.7mr‚'r l [mit Aqvn4rhs ‚man /7 J„ „gyü‚„ a f Bild 27. Die Erde nach Kosmos Indikopleustes im 6. Jahrhundert mit dem sie umgebenden Ozeaniluss und den Aeolen, den Beherrschern der “ﬁnde. hörten nicht auf, die Geister der Verstorbenen’), die goldenen, silber nen, ehernen, steinernen und hölzernen Götzen anzubeten, die weder 21 sehen, noch hören, noch gehen können, und taten auch nicht Busse wegen ihrer Mordtaten, ihrer Zaubereien, Ausschweifungen und Dieb stähle. x) 'r‚7.m; heisst auf griechisch nicht nur die Sonne, sondern wird auch meta phorisch im Sinne des Tageslichtes gebraucht, aber auch im Sinne des Wohl befi nd en s im allgemeinen. ’) Im griechischen Text steht a'xgid‘z; - Heuschrecken, als metaphorischer Aus druck der unzähligen Wellen, die auf das Ufer zustürmen. ') Nach den astronomischen Berechnungen stürmte dieses Gewitter über Patmos am 80. September 395. Die fünf Monate, die auf den September folgen, gelten als die stürmischsten auf dem Mittelmeere. ‘) ;1“1)R (awaddön) —- Vernichtung, Zerstörung.
 
 
 <a name='page-75'></a>
@@ -532,8 +511,7 @@ die Posaune, und ich sah abermals eine 2 Gewitterfackel vom Himmel auf die Erde 
 49 ’) Der Wind schlug jäh um und begann, von Südosten her zu blasen. Dass die Boten die östlichen Herrscher darstellen, ist direkt im Kap. 16, Vers 12 der Apo kalypse gesagt. Am Ende des 4. Jahrhunderts wurde das byzantinische Reich ständig von den Euphratvölkern, Armenien, Persern, Arabern, Sarazenen, überfallen. °) 0nou'd'q; -—- schwefelfarben. T) d‘aq.w'vur — Die Geister der Verstorbenen, die Schutzgenien. In „Dämonen“ verwandelten sie sich erst im Mittelalter.
 
 
-### Chapter X — The First Transient Rainbow — A Piece of Bark Thrown to John by the Storm {#chapter-x}
-
+<h3 id="chapter-x">Chapter X — The First Transient Rainbow — A Piece of Bark Thrown to John by the Storm</h3>
 *Der erste vorübergehend erscheinende Regenbogen. Der Sturm wirft dem Johannes*
 
 
@@ -552,8 +530,7 @@ ein Stück Rinde zu. Und ich sah einen andern gewaltigen Boten, der nicht zur de
 51
 
 
-### Chapter XI — The Sea Throws a Reed to John — Image of Two Gulls Fighting the Storm — Apparition of a New Figure {#chapter-xi}
-
+<h3 id="chapter-xi">Chapter XI — The Sea Throws a Reed to John — Image of Two Gulls Fighting the Storm — Apparition of a New Figure</h3>
 *Das Meer wirft dem Johannes ein Schilfrohr zu. Das Bild des Kampfes zweier*
 
 
@@ -578,8 +555,7 @@ Möven mit dem Sturm. Erscheinung eines neuen Regenbogens. Und es ward mir vom M
 54
 
 
-### Chapter XII — The Image of the Sun in the Constellation of Virgo — A New Battle of the Clouds {#chapter-xii}
-
+<h3 id="chapter-xii">Chapter XII — The Image of the Sun in the Constellation of Virgo — A New Battle of the Clouds</h3>
 *Das Bild der Sonne im Sternbilde der jungfrau. Ein neuer Kampf der Wolken. Und*
 
 
@@ -616,8 +592,7 @@ es erschien am Himmel inmitten d e r Wolken ein lneues Zeichen, gross und wunder
 59
 
 
-### Chapter XIII — Further Description of the Ghostly Cloud with Seven Heads and Another Cloud with Two Horns {#chapter-xiii}
-
+<h3 id="chapter-xiii">Chapter XIII — Further Description of the Ghostly Cloud with Seven Heads and Another Cloud with Two Horns</h3>
 *Weitere Beschreibung der gespenstischen Wolke mit den sieben*
 
 
@@ -633,7 +608,7 @@ Köpfen und einer andern Wolke mit zwei Hörnern, die vor ihr Gottesdienst verri
 <a name='page-87'></a>
 
 
-61 kaufen noch verkaufen dürfe (wie es ein Edikt des Kaisers Theodosius im Jahre 395 befahl), der nicht das Zeichen dieses Tieres oder seinen Namen (Lateiner) oder eine Darstellung seines Namens durch Zahlen —— der Summe der Buchstaben — seines Namens an sich trägt. Hier ist Weisheit. Wer es versteht, der berechne die Zahl des Tieres, weil dies dem Menschen zugänglich ist. Und seine Zahl ist sechshundertsechsundsechzig (Bild 34). 1) d'royo: ﬁlao'q:q|ufnzg — der Name (Benennung, Symbol) der Gotteslästerung. ") Wir sehen, wie der Verfasser mit allen möglichen Mitteln immer die gleiche Frist von 1260 Tagen hervorhebt, die bis zur Erfüllung seiner Prophezeiung am 13. März 399 verstreichen sollte, als ob er fürchtete, dass die Abschreiber und Fälscher seinen Text verderben könnten. a) ö'v0,uoz bedeutet bildlich Ruhm. ‘) Dieser Ausdruck ist augenscheinlich dadurch entstanden, dass das Bild des Widders in seinem Sternbild, mit dem die „Weltschöpfung“ begonnen haben sollte, auf den Karten mit einem nach hinten hängenden Kopfe dargestellt wurde, wie als ob er angeschnitten wäre. °) nur? — ordnet an, hier als Praesens und nicht als Futur-um. °) The merk + or the name Z.uretvo; er the number thereof 159 666 I. Newton opera tome V. Londini 1785. In meinem Besitz und im Besitz der Pulkowaer Sternwarte). Leider fand ich in dieser Auslegung der Apokalypse von Newton keine Andeutungen darüber, dass Newton die astronomische und meteorologische Bedeutung der apokalyptischen Tiere verstanden hat. Die griechischen Buchstaben bedeuteten zu gleicher Zeit die folgenden Zahlen: a'=l ;'=6 x'=20 o'= 70 1'=300 w=800 ß’:=2 C=7 Ä'=30 7f=80 v’=400 8'=900 y'=3 q': 8 y’=40 q'= 90 q<'=500 ß:1000 d'=4 3'=9 y'=50 Q'=IOO 1'=600 ß=2000 s'=5 f=10 S’=60 0’=200 IP=7OO .. So konnte man für jeden Namen auch „seine Zahl“, d. h. die Summe der Buchstaben ausrechnen, wie es denn hier Johannes auch tut. Rauen meinte, dass es die Summe der Buchstaben der hebräischen Worte Kaiser Neron (1Dp 711)) sei. In der Tat geben diese Worte die Zahl 666, aber der Fehler liegt darin, dass es kein einfacher Name ist, wie dies der Verfasser fordert, sondern zwei Worte: der Name und der Titel der Person, die ihn trägt. Das ist der Grund, warum die Erklärung Newtons mir die einzig richtige zu sein scheint. Das Zeichen des Tieres, das Kreuz (T) deutet darauf hin, dass das lateinisch-byzantinische Reich ein christliches war und dass die Heiden und alle, die nicht zur damaligen herrschenden Kirche (der nikolaitischen, wie wir später sehen werden) gehörten, starken Verfolgungen ausgesetzt waren, wie dies aus einem Edikt des Kaisers Theodosius, das zu Beginn des Jahres 395 erlassen wurde, zu ersehen ist. Hierdurch nämlich wurden alle Ketzer (zu denen offenbar auch Johannes zählte) der Bürgerrechte verlustig erklärt und ihnen sogar verboten, ihr Eigentum durch Erbschaft anderen Personen zu vermachen. (Schlossers Welt geschichte I. 2. S. 221).
+61 kaufen noch verkaufen dürfe (wie es ein Edikt des Kaisers Theodosius im Jahre 395 befahl), der nicht das Zeichen dieses Tieres oder seinen Namen (Lateiner) oder eine Darstellung seines Namens durch Zahlen —— der Summe der Buchstaben — seines Namens an sich trägt. Hier ist Weisheit. Wer es versteht, der berechne die Zahl des Tieres, weil dies dem Menschen zugänglich ist. Und seine Zahl ist sechshundertsechsundsechzig (Bild 34). 1) d'royo: ﬁlao'q:q|ufnzg — der Name (Benennung, Symbol) der Gotteslästerung. ") Wir sehen, wie der Verfasser mit allen möglichen Mitteln immer die gleiche Frist von 1260 Tagen hervorhebt, die bis zur Erfüllung seiner Prophezeiung am 13. März 399 verstreichen sollte, als ob er fürchtete, dass die Abschreiber und Fälscher seinen Text verderben könnten. a) ö'v0,uoz bedeutet bildlich Ruhm. ‘) Dieser Ausdruck ist augenscheinlich dadurch entstanden, dass das Bild des Widders in seinem Sternbild, mit dem die „Weltschöpfung“ begonnen haben sollte, auf den Karten mit einem nach hinten hängenden Kopfe dargestellt wurde, wie als ob er angeschnitten wäre. °) nur? — ordnet an, hier als Praesens und nicht als Futur-um. °) The merk + or the name Z.uretvo; er the number thereof 159 666 I. Newton opera tome V. Londini 1785. In meinem Besitz und im Besitz der Pulkowaer Sternwarte). Leider fand ich in dieser Auslegung der Apokalypse von Newton keine Andeutungen darüber, dass Newton die astronomische und meteorologische Bedeutung der apokalyptischen Tiere verstanden hat. Die griechischen Buchstaben bedeuteten zu gleicher Zeit die folgenden Zahlen: a'=l ;'=6 x'=20 o'= 70 1'=300 w=800 ß’:=2 C=7 Ä'=30 7f=80 v’=400 8'=900 y'=3 q': 8 y’=40 q'= 90 q&lt;'=500 ß:1000 d'=4 3'=9 y'=50 Q'=IOO 1'=600 ß=2000 s'=5 f=10 S’=60 0’=200 IP=7OO .. So konnte man für jeden Namen auch „seine Zahl“, d. h. die Summe der Buchstaben ausrechnen, wie es denn hier Johannes auch tut. Rauen meinte, dass es die Summe der Buchstaben der hebräischen Worte Kaiser Neron (1Dp 711)) sei. In der Tat geben diese Worte die Zahl 666, aber der Fehler liegt darin, dass es kein einfacher Name ist, wie dies der Verfasser fordert, sondern zwei Worte: der Name und der Titel der Person, die ihn trägt. Das ist der Grund, warum die Erklärung Newtons mir die einzig richtige zu sein scheint. Das Zeichen des Tieres, das Kreuz (T) deutet darauf hin, dass das lateinisch-byzantinische Reich ein christliches war und dass die Heiden und alle, die nicht zur damaligen herrschenden Kirche (der nikolaitischen, wie wir später sehen werden) gehörten, starken Verfolgungen ausgesetzt waren, wie dies aus einem Edikt des Kaisers Theodosius, das zu Beginn des Jahres 395 erlassen wurde, zu ersehen ist. Hierdurch nämlich wurden alle Ketzer (zu denen offenbar auch Johannes zählte) der Bürgerrechte verlustig erklärt und ihnen sogar verboten, ihr Eigentum durch Erbschaft anderen Personen zu vermachen. (Schlossers Welt geschichte I. 2. S. 221).
 
 
 <a name='page-88'></a>
@@ -642,12 +617,11 @@ Köpfen und einer andern Wolke mit zwei Hörnern, die vor ihr Gottesdienst verri
 62
 
 
-### Chapter XIV — The Rising of the Constellation of Aries — Joyful Expectation of a Calm Starry Night After Storm and Earthquake — Bloody Streaks of Light {#chapter-xiv}
-
+<h3 id="chapter-xiv">Chapter XIV — The Rising of the Constellation of Aries — Joyful Expectation of a Calm Starry Night After Storm and Earthquake — Bloody Streaks of Light</h3>
 *Der Aufgang des Sternbildes des Widders. Jubelnde Er*
 
 
-wartung einer stillen Sternnacht nach dem Gewitter und dem Erdbeben. Blutige Streifen des Abendrotes. 1 Ich schaute mich um; und siehe, ein Widder (Lamm) stand über 2dem Grabhügel') (Bild 35); ihm folgten 144 Tausend Sterne, auf deren Antlitz der Ruhm seines Vaters geschrieben stand. Und ich *l'*I c -;(. * -iß / A' ‚.' a ’ /l . u 1’” —. ‘ l. ' * |f ‘ 1 V _ \ ff“ /l /‚ ‘%g ‘><eä‚ * “ 1 / » ‘91. \_»\„_7 \ä„ ‚h\‚ \ ’/ g — ‚ — / " ' \ _‘‚} / Bild 35. Der Aufgang des Widders. hörte — im Tosen des Meeres und im Wiiten des Sturmes -— eine Stimme vom Himmel, wie das Rauschen vieler Wellen, wie das Rollen eines gewaltigen Donners, und ich hörte es im stillen Funkeln der ersten erscheinenden Sterne wie Musik von 3Harfenspielern, die auf ihren Harfen spielten. Die sangen ein neues Lied, einen Hymnus auf den Widder 2) vor dem Sternbilde des Thrones und vor den vier Tieren und vor den vier Greisen -— Stunden des Tages und der Nacht. Und niemand konnte dieses Lied singen 4 ausser den 144 Tausend Ueberirdischen. Sie sind jungfräulich rein in ihrer Seele und folgen darum dem Widder (Lamm), wohin er geht (bei
+wartung einer stillen Sternnacht nach dem Gewitter und dem Erdbeben. Blutige Streifen des Abendrotes. 1 Ich schaute mich um; und siehe, ein Widder (Lamm) stand über 2dem Grabhügel') (Bild 35); ihm folgten 144 Tausend Sterne, auf deren Antlitz der Ruhm seines Vaters geschrieben stand. Und ich *l'*I c -;(. * -iß / A' ‚.' a ’ /l . u 1’” —. ‘ l. ' * |f ‘ 1 V _ \ ff“ /l /‚ ‘%g ‘>&lt;eä‚ * “ 1 / » ‘91. \_»\„_7 \ä„ ‚h\‚ \ ’/ g — ‚ — / " ' \ _‘‚} / Bild 35. Der Aufgang des Widders. hörte — im Tosen des Meeres und im Wiiten des Sturmes -— eine Stimme vom Himmel, wie das Rauschen vieler Wellen, wie das Rollen eines gewaltigen Donners, und ich hörte es im stillen Funkeln der ersten erscheinenden Sterne wie Musik von 3Harfenspielern, die auf ihren Harfen spielten. Die sangen ein neues Lied, einen Hymnus auf den Widder 2) vor dem Sternbilde des Thrones und vor den vier Tieren und vor den vier Greisen -— Stunden des Tages und der Nacht. Und niemand konnte dieses Lied singen 4 ausser den 144 Tausend Ueberirdischen. Sie sind jungfräulich rein in ihrer Seele und folgen darum dem Widder (Lamm), wohin er geht (bei
 
 
 <a name='page-89'></a>
@@ -686,8 +660,7 @@ wartung einer stillen Sternnacht nach dem Gewitter und dem Erdbeben. Blutige Str
 68
 
 
-### Chapter XVI — Seven Brief Rain-Showers from Small Clouds Accompanying the Storm, Flying Past at Sunset {#chapter-xvi}
-
+<h3 id="chapter-xvi">Chapter XVI — Seven Brief Rain-Showers from Small Clouds Accompanying the Storm, Flying Past at Sunset</h3>
 *Sieben kurze Regengüsse aus den Wölkchen, den Begleitern des Gewitters, die während der Abendröte vorbeiﬂogen.*
 
 
@@ -706,8 +679,7 @@ wartung einer stillen Sternnacht nach dem Gewitter und dem Erdbeben. Blutige Str
 70 den Irrtum auch sogleich; da er aber das teure Pergaxnent nicht vernichten wollte, liess er den Vers dort. ’) D. h. in der Richtung gegen Konstantinopel. ') a'o‘tgnmmf — Donner-Pfeile, Blitze, abgekürzt von a'0'tegormi. ‘) Babylon (Bab Jlu) heisst Tor des Gottes. "') mies: yi;o'og— die ganze Insel. °) IaÄ.rwnaio; —- ein Talent schwer = 55 Pfund und 2Lot, etwa l‘/, Zentner.
 
 
-### Chapter XVII — The Cloud-Silhouette of a Woman with a Cup Against the Purple Background of the Fading Sunset {#chapter-xvii}
-
+<h3 id="chapter-xvii">Chapter XVII — The Cloud-Silhouette of a Woman with a Cup Against the Purple Background of the Fading Sunset</h3>
 *Die Wolkensilhouette des Weibes mit dem Kelche auf dem purpurnen Hintergrunde der verlöschenden Abendröte.*
 
 
@@ -717,7 +689,7 @@ l Und wiederum erschien am Himmel einer von den sieben Wol kenboten, die vorher 
 <a name='page-97'></a>
 
 
-71 sieben Häuptern und den zehn ‚Hörnern. Das Tier, das du gesehenß hast, war und ist nicht mehr (das Reich war schon zwischen Arkadius und Honorius geteilt) ‘) und wird wieder aus dem Abgrund heraufsteigen und ins Verderben gehen. Und staunen werden die Bewohner der Erde, deren Namen nicht von Anbeginn der Welt an 5) im Lebensbuche geschrieben stehen, wenn sie das Tier sehen, dass es früher war und jetzt nicht mehr ist und wieder erscheinen wird. Hier ist ein weiser 9 Sinn: Die sieben Häupter sind sieben Hügel, auf denen das Weib thront \» n r4EYI° . T" Fa .TF;_._ H 7*rK “""" 1.:;‚__A_‚ 1,. ’Qr w n ‚J y Iv{\'e ' m“ l\e f '‚Il'° Y Bild 39. Sternbild der weiblichen Hydra und des Bechers nach dem Manuskript Grienbergers l612. (die Staatskirche) und zu gleicher Zeit sind es auch sieben Könige 6). 10 Fünf von ihnen haben schon regiert (Konstantin, Konstantins, Julian, Valens, Theodosius), der sechste (Arkadius) herrscht noch, der siebente aber (J ovianus, der während des Feldzuges 363 zum Kaiser ausgerufen, aber ohne Konstantinopel erreicht zu haben, unterwegs gestorben war) ist noch nicht gekommen; wenn er aber kommt, so wird er nicht lange bleiben (nur bis zum 13. März 399). Das Tier aber, das vorher 11 (in den Wolken war) und jetzt nicht mehr vorhanden ist, ist der achte Herrscher (das Reich selbst); es besteht aus diesen sieben und geht ins Verderben. Die zehn Hörner, die du gesehen hast, sind zehn Könige, 12 welche die Herrschaft noch nicht angetreten haben, aber mit Hilfe des Tieres — des Reiches — auf eine Stunde die Macht erhalten werden. 13 Alle werden sie einmütig sein und ihre Macht und Gewalt dem Tiere zur Verfügung stellen. Sie werden mit dem Widder kämpfen, aber der 14
+71 sieben Häuptern und den zehn ‚Hörnern. Das Tier, das du gesehenß hast, war und ist nicht mehr (das Reich war schon zwischen Arkadius und Honorius geteilt) ‘) und wird wieder aus dem Abgrund heraufsteigen und ins Verderben gehen. Und staunen werden die Bewohner der Erde, deren Namen nicht von Anbeginn der Welt an 5) im Lebensbuche geschrieben stehen, wenn sie das Tier sehen, dass es früher war und jetzt nicht mehr ist und wieder erscheinen wird. Hier ist ein weiser 9 Sinn: Die sieben Häupter sind sieben Hügel, auf denen das Weib thront \» n r4EYI° . T" Fa .TF;_._ H 7*rK “""" 1.:;‚__A_‚ 1,. ’Qr w n ‚J y Iv&#123;\'e ' m“ l\e f '‚Il'° Y Bild 39. Sternbild der weiblichen Hydra und des Bechers nach dem Manuskript Grienbergers l612. (die Staatskirche) und zu gleicher Zeit sind es auch sieben Könige 6). 10 Fünf von ihnen haben schon regiert (Konstantin, Konstantins, Julian, Valens, Theodosius), der sechste (Arkadius) herrscht noch, der siebente aber (J ovianus, der während des Feldzuges 363 zum Kaiser ausgerufen, aber ohne Konstantinopel erreicht zu haben, unterwegs gestorben war) ist noch nicht gekommen; wenn er aber kommt, so wird er nicht lange bleiben (nur bis zum 13. März 399). Das Tier aber, das vorher 11 (in den Wolken war) und jetzt nicht mehr vorhanden ist, ist der achte Herrscher (das Reich selbst); es besteht aus diesen sieben und geht ins Verderben. Die zehn Hörner, die du gesehen hast, sind zehn Könige, 12 welche die Herrschaft noch nicht angetreten haben, aber mit Hilfe des Tieres — des Reiches — auf eine Stunde die Macht erhalten werden. 13 Alle werden sie einmütig sein und ihre Macht und Gewalt dem Tiere zur Verfügung stellen. Sie werden mit dem Widder kämpfen, aber der 14
 
 
 <a name='page-98'></a>
@@ -744,8 +716,7 @@ l Und wiederum erschien am Himmel einer von den sieben Wol kenboten, die vorher 
 75 Kunst noch Künstler wird man in dir ﬁnden, und das Geräusch der Mühlsteine wird verstummt sein! Das Licht der Lampe soll dir nicht 23 mehr scheinen, die Stimme des Bräutigams und der Braut soll in dir nicht mehr gehört werden, denn du hast die Machthaber der Erde mit dir handeln lassen, und durch dein Gemisch (im goldenen Kelche) sind betrogen worden alle Völker. Und gefunden ist in dir das Blut aller Verkünder der Wahrheit, 24 aller Unschuldigen und aller, die um der Wahrheit willen auf Erden zu Tode gemartert sind. l) J‘ai/Jury — heidnische Gottheit, Genius, Schutzgeist, der heimische Gott bei den Griechen und Römern. ’) Z'gyov — die Tat, das Werk, die Einbildung. ‘) ixe'gom'e von xegcx'vvvyc ich verdünne mit Wasser. ‘) 0vla — Thuja, Cypresse. l’) .9vpia,un — Weihrauch, hiervon .9vyrq8q'gwv -— die Weihrauchschale.
 
 
-### Chapter XIX — The Nocturnal Dreams of John {#chapter-xix}
-
+<h3 id="chapter-xix">Chapter XIX — The Nocturnal Dreams of John</h3>
 *Nächtliche Träume des Johannes. Hierauf vernahm ich im Flimmern der Sterne*
 
 
@@ -770,8 +741,7 @@ im Himmell etwas wie eine Hymne unzähliger Scharen, die sprachen: Gelobt sei, d
 78 3) Alles dies bezieht sich wiederum auf den Sonntag den 13. März 399, den von Johannes astrologisch berechneten Tag des Wiederkommens Jesu auf die Erde, weil das weisse siegreiche Rosa — Jupiter (Kapitel 6, 2), das ausgezogen war, um zu siegen“, zu dieser Zeit im Widder sein und der Widder sich auf ihm zur Erde herab lassen würde. ‘) In den kanonischen Kopien steht: n? Zähe; — ein Wort, das bei den kirch lichen Schriftstellern gleichzeitig die Völker, die Heiden und die Götzendiener bedeutet. Uebrigens ist am Schluss dieses Kapitels (V. 29) direkt gesagt, dass die Kaiser und die falschen Propheten, und nicht ganze Völker getötet werden. "') Wahrscheinlich die gleiche, von der im Kapitel 14, V. 20, und Kapitel 17 die Rede ist. °) Am Tage der von Johannes erwarteten Wiederkunft J esu, am 18. März 399, musste Perseus fast über der Sonne stehen.
 
 
-### Chapter XX — The Twilight Dreams of John {#chapter-xx}
-
+<h3 id="chapter-xx">Chapter XX — The Twilight Dreams of John</h3>
 *Dämmerungsträume des Johannes. In dieser Nacht sah ich einen neuen Boten (das Sternbild*
 
 
@@ -796,18 +766,17 @@ des Schlangenträgers) im Westen von der Höhe der Himmelskuppel, mit einer gros
 81 Erde in Schrecken. Sie überﬁelen unerwartet das byzantinische Reich im Jahre 875, genau 20 Jahre vor dem in diesem Buche beschriebenen Gewitter. ") äd„;=ätd„;—Hades oder Bluten, Gott des unterirdischen Reiches der alten (irischen, woher im Mittelalter auch das Wort Hades = Hölle entstanden ist.
 
 
-### Chapter XXI — The Morning of the New Day — John Measures with a Reed {#chapter-xxi}
-
+<h3 id="chapter-xxi">Chapter XXI — The Morning of the New Day — John Measures with a Reed</h3>
 *Der Morgen des neuen Tages. Johannes misst mit einem*
 
 
-Rohr, das ihm das Meer zugeworfen hat, die Grösse des Weltalls. Im Schimmer der Morgendämmerung sah ich einen neuem Himmel und eine neue Erde, denn der vorige, gestrige Himmel und die vorige, gestrige Erde waren vergangen, und das Meer war nicht mehr vor mir (da ich mich auf der Insel vom Ufer entfernt hatte). Da sah ich, Johannes, die heilige Stadt — das neue Reich des 2 Friedens‘) (den neuen blauen Himmelsvorhang) aus der Höhe von Gott herunterkommen, wie eine Braut, die sich für ihren Bräutigam ge< schmückt hat. Und ich vernahm eine mächtige Stimme vom Himmel, die sprach: 3 Siehe die Wohnstätte Gottes und der Menschen! In ihr wird er mit ihnen wohnen. Sie werden sein Volk sein, und Gott selbst, der mit ihnen leben wird, wird deren Gott sein. Gott wird alle Tränen 4 von ihren Augen abwischen, und der Tod wird nicht mehr sein. Und es wird weder Tränen noch Leid noch Krankheiten mehr geben, weil alles vorige vergangen ist. Und der auf dem Throne sass, sprach: 5 Siehe: ich mache alles neu . . . . Schreibe diese Worte auf, denn sie sind wahrhaftig und zuverlässig. Alles vergeht. Ich bin der erste und der letzte Buchstabe des Alphabetes, der Anfang und das Ende. Ich werde den Dürstenden aus der Wasserquelle des Lebens erquicken 2). 6 Der Sieger soll alles erben. Ich will sein Gott sein, und er soll mein 8 Sohn sein. Das Schicksal der Feiglinge und der Verräter aber, der sittlich Gefallenen, der Mörder, Betrüger und derjenigen, welche die Mischung im goldenen Kelche bereiten und die Bilder anbeten, und allen Betrügern soll ihr Teil werden im Pfuhl, darin Feuer und Schwefel brennen. Das ist ihr zweiter Tod! Und es erschien vor mir in der ersten rosigen Morgen-9 welke einer der sieben Boten, die gestern mit den sieben Vergeltungs schalen aufgetreten waren, und ﬂüsterte mir zu: Komm, ich werde dir die Braut zeigen, das Weib des Widders. Morosow, Die Offenbarung Johannis. 6
+Rohr, das ihm das Meer zugeworfen hat, die Grösse des Weltalls. Im Schimmer der Morgendämmerung sah ich einen neuem Himmel und eine neue Erde, denn der vorige, gestrige Himmel und die vorige, gestrige Erde waren vergangen, und das Meer war nicht mehr vor mir (da ich mich auf der Insel vom Ufer entfernt hatte). Da sah ich, Johannes, die heilige Stadt — das neue Reich des 2 Friedens‘) (den neuen blauen Himmelsvorhang) aus der Höhe von Gott herunterkommen, wie eine Braut, die sich für ihren Bräutigam ge&lt; schmückt hat. Und ich vernahm eine mächtige Stimme vom Himmel, die sprach: 3 Siehe die Wohnstätte Gottes und der Menschen! In ihr wird er mit ihnen wohnen. Sie werden sein Volk sein, und Gott selbst, der mit ihnen leben wird, wird deren Gott sein. Gott wird alle Tränen 4 von ihren Augen abwischen, und der Tod wird nicht mehr sein. Und es wird weder Tränen noch Leid noch Krankheiten mehr geben, weil alles vorige vergangen ist. Und der auf dem Throne sass, sprach: 5 Siehe: ich mache alles neu . . . . Schreibe diese Worte auf, denn sie sind wahrhaftig und zuverlässig. Alles vergeht. Ich bin der erste und der letzte Buchstabe des Alphabetes, der Anfang und das Ende. Ich werde den Dürstenden aus der Wasserquelle des Lebens erquicken 2). 6 Der Sieger soll alles erben. Ich will sein Gott sein, und er soll mein 8 Sohn sein. Das Schicksal der Feiglinge und der Verräter aber, der sittlich Gefallenen, der Mörder, Betrüger und derjenigen, welche die Mischung im goldenen Kelche bereiten und die Bilder anbeten, und allen Betrügern soll ihr Teil werden im Pfuhl, darin Feuer und Schwefel brennen. Das ist ihr zweiter Tod! Und es erschien vor mir in der ersten rosigen Morgen-9 welke einer der sieben Boten, die gestern mit den sieben Vergeltungs schalen aufgetreten waren, und ﬂüsterte mir zu: Komm, ich werde dir die Braut zeigen, das Weib des Widders. Morosow, Die Offenbarung Johannis. 6
 
 
 <a name='page-108'></a>
 
 
-82 ‘.v‘4erfqiäqä"“j ‘ « V‚—._-„'Vs ‘..i<.‚;‚-sn..r\.‚...;i '|aunugg wap im: aß[o;uaq|ag rang u} usq:uuq s:|p pun ss|muaH sap 's.|a8311u08u2|1pg sap ‘SBOIÖJOMS sep .lap|}qu1aß al(] ‘g‚ p||g 10 Da führte er mich im Schwunge der Begeisterung auf einen grossen hohen Berg und zeigte mir von dort in dem Halbdunkel der Morgen dämmerung die ganze heilige Feste, das neue Reich des Friedens -—
+82 ‘.v‘4erfqiäqä"“j ‘ « V‚—._-„'Vs ‘..i&lt;.‚;‚-sn..r\.‚...;i '|aunugg wap im: aß[o;uaq|ag rang u} usq:uuq s:|p pun ss|muaH sap 's.|a8311u08u2|1pg sap ‘SBOIÖJOMS sep .lap|}qu1aß al(] ‘g‚ p||g 10 Da führte er mich im Schwunge der Begeisterung auf einen grossen hohen Berg und zeigte mir von dort in dem Halbdunkel der Morgen dämmerung die ganze heilige Feste, das neue Reich des Friedens -—
 
 
 <a name='page-109'></a>
@@ -822,8 +791,7 @@ Rohr, das ihm das Meer zugeworfen hat, die Grösse des Weltalls. Im Schimmer der
 84 24 und ihre Leuchte ist der Widder selbst. Die Scharen der Geretteten 25 werden in seinem Lichte ") wandeln. Ihre Tore werden tagsüber nicht 26 geschlossen werden, und Nächte wird es dort nicht geben. Und in sie 27 hinein wird man den Ruhm und die Ehre der Völker bringen. Nichts Unreines wird in sie hineingehen, nichts, was der Gemeinheit und der Lüge zugetan ist, sondern nur die, deren Namen im Lebensbuche des Widders geschrieben stehen. ‘) Jerusalem heisst auf hebräisch das Reich des Friedens. Hier braucht Jo hannes dieses Wort als ein ausschmückendes Beiwort. ’) Allem Anschein nach versteht der Verfasser unter der Quelle des leben digen Wassers die Milchstrasse und unter dem Sieger den Schlangen träger, der mit den Füssen auf den Skorpion tritt. (Bild 45.) ') Früher in Anmerkung 2 zu Kapitel 7 haben wir schon den Zusammenhang zwischen dem Sinn der 12 Geschlechter des Volkes Gotteskämpfer und den Namen der 12 Zeichen des Zodiakus und der 12 astrologischen Häuser gesehen. ‘) 6 Au1a7y yet' 4'ßoü J,yr ist wahrscheinlich durch die Abschreiber, die den Sinn nicht verstanden haben, falsch berichtigt werden: aus o' 1a2.u3v eile ‚uu' r',uoö, oder aus 6 1u2.uiv prr' s'yoü 571! pn’ i,uoü, das heisst der mit mir Redende hatte durch meine Vermittlung ein goldenes Rohr (miiiu,uov 19vdoiiv). ‘) Kap. 11, Vers l. ') Ein Stadion ungefähr gleich 125 Schritten. ") Der Verfasser, der allem Anschein nach in einer reichen Familie aufgewachsen ist, kennt alle Schattierungen der Edelsteine so gut, dass er hier sich mit den blossen Benennungen derselben begnügt, ohne zu bedenken, dass der Mehrzahl der Leser diese unbekannt sind. Deshalb habe ich sie mit der Farbe jedes Steines cr giinzt, um das von Johannes beschriebene Himmelsbild dem Leser verständlich zu machen. Er zählt hier alle Farben des Horizontes auf, die er am l. Oktober 395 beobachtet hat, beginnend mit dem Westen, über den Norden nach dem Osten, Süden und zurück nach dem Westen gehend. ') Hierher ist von jemand der Vers 26 dieses Kapitels gebracht, nur statt u? i'd‘mz ist o! ﬂuuü.si; gesetzt worden, was ganz dem Kap. 19, Vers 18—19 und anderen derartigen Stellen widerspricht.
 
 
-### Chapter XXII — Closing Word {#chapter-xxii}
-
+<h3 id="chapter-xxii">Chapter XXII — Closing Word</h3>
 *Schlusswort. , Der Bote, der mir dies zuﬂüsterte, zeigte mir am Himmel einen*
 
 
@@ -847,9 +815,7 @@ leuchtenden Strom von Lebenswasser (die Milchstrasse) durchsichtig wie Kristall,
 
 ---
 
-## Part III — When Was the Revelation Written? (Astronomical Dating) {#part-iii}
-
-
+<h2 id="part-iii">Part III — When Was the Revelation Written? (Astronomical Dating)</h2>
 Wann ist „die Offenbarung in Gewitter und Sturm“ geschrieben worden? Bestimmung der Zeit ihrer Abfassung nach den in ihr selbst beﬁndlichen astronomischen Angaben.
 
 
@@ -993,9 +959,7 @@ Wie man in einfacher Weise auf astronomischem Wege die Zeit der Abfassung der Ap
 
 ---
 
-## Part IV — The Byzantine Empire in the Late 4th Century and the Letters to the Seven Churches {#part-iv}
-
-
+<h2 id="part-iv">Part IV — The Byzantine Empire in the Late 4th Century and the Letters to the Seven Churches</h2>
 Das byzantinische Reich am Ende des IV. Jahrhunderts und das Sendschreiben des Verfassers der Apokalypse an die sieben kleinasiatischen Gemeinden.
 
 
@@ -1089,7 +1053,7 @@ Die Hauptparteien der christlichen Gemeinde am Ende des vierten jahrhunderts. We
 <a name='page-153'></a>
 
 
-127 " g; ““‘. s I \ ‚ I . l: „ ’ gilt il: .r‘eqqy‘ : _. \ ’ an ‘& #i „,*‘i ‚g ‚* k '2 “C ‘l‘ * *i ‚v& y 'g "‘.g ll‘“lf .l )( :7 n 5 *'“ & _ _< “AR % 4„'. 0 \ Op/o|dxoy ‘ _ \_ . \\ ‘\‘\r 8 . .\ .‘ ‘ ‘ \\ .‚ E {t ‘, \ «* (_ „| g. . \ *"4 . ‘ \, 1: * \,‘ . . E90017 = 41K \ ‘ \s ‘3 O " ‘\ \\.l'8z _ ‘\ ‚ 'n J( " " ’ ":s'z;"""" u 0 g 1 „ 4', a -4"3’_’_7; s )k# "‘ * . l\\ J‘\ % l» zu? . l ;'\ ‘. E ‘ 3 VI r:ß) 3 2 I 5 Blld 47. Sternbild des Schlangentr‘a'gers, der mit dem Fass den Tod (den Skorpion), und das Sternbild des Herakles. der mit dem Fuss den rechten Hacke des Schlangenträgers und ist dort durch einen dunklen Punkt bezeichnet. Drachen zerdrückt; letzterer weidet mit der eisernen Keule seine Kinder. Sardes etliche Namen (öv6pam), die ihre Gewänder nicht beﬂeckt haben; die werden mit mir im Kreise wandeln (als neue Sterne um den Himmels pol), in hellen Gewändern, weil sie fehlerlos sind. Wer überwindet,
+127 " g; ““‘. s I \ ‚ I . l: „ ’ gilt il: .r‘eqqy‘ : _. \ ’ an ‘& #i „,*‘i ‚g ‚* k '2 “C ‘l‘ * *i ‚v& y 'g "‘.g ll‘“lf .l )( :7 n 5 *'“ & _ _&lt; “AR % 4„'. 0 \ Op/o|dxoy ‘ _ \_ . \\ ‘\‘\r 8 . .\ .‘ ‘ ‘ \\ .‚ E &#123;t ‘, \ «* (_ „| g. . \ *"4 . ‘ \, 1: * \,‘ . . E90017 = 41K \ ‘ \s ‘3 O " ‘\ \\.l'8z _ ‘\ ‚ 'n J( " " ’ ":s'z;"""" u 0 g 1 „ 4', a -4"3’_’_7; s )k# "‘ * . l\\ J‘\ % l» zu? . l ;'\ ‘. E ‘ 3 VI r:ß) 3 2 I 5 Blld 47. Sternbild des Schlangentr‘a'gers, der mit dem Fass den Tod (den Skorpion), und das Sternbild des Herakles. der mit dem Fuss den rechten Hacke des Schlangenträgers und ist dort durch einen dunklen Punkt bezeichnet. Drachen zerdrückt; letzterer weidet mit der eisernen Keule seine Kinder. Sardes etliche Namen (öv6pam), die ihre Gewänder nicht beﬂeckt haben; die werden mit mir im Kreise wandeln (als neue Sterne um den Himmels pol), in hellen Gewändern, weil sie fehlerlos sind. Wer überwindet,
 
 
 <a name='page-154'></a>
@@ -1148,9 +1112,7 @@ Die Hauptparteien der christlichen Gemeinde am Ende des vierten jahrhunderts. We
 
 ---
 
-## Part V — The Identity of the Author: John Chrysostom {#part-v}
-
-
+<h2 id="part-v">Part V — The Identity of the Author: John Chrysostom</h2>
 Die Persönlichkeit des Verfassers der „Offenbarung in Gewitter und Sturm“. johannes Chrysostomus als Revolutionär und Volksmann.
 
 
@@ -1349,7 +1311,7 @@ Die Hauptbedingungen, denen der Verfasser der „Offenbarung in Gewitter und Stu
 <a name='page-196'></a>
 
 
-170 | der ersten vier Jahrhunderte in Verbindung stehen, vor dieser Zeit ‘ konnten sie sich nicht beruhigen. Und wenn Johannes sie anlügt? Man lässt ihn aus der Stadt hinaus, und vielleicht wird Gott gerade dann alle vorausgesagten Leiden herabsenden. Nein, lieber möge er als Geisel dableiben. Gott wird sich seiner erbarmen und wird die Stadt durch das angekündigte Erdbeben nicht zerstören, durch ein Erdbeben, wie es noch nie, „seit dem Menschen auf der Erde wohnen, da war“. Ja, man kann sicher sein, dass alle ihn genau beobachteten, dass er nicht entwischte; war er doch auch mit Gewalt unter Bedeckung seinen zeit hierher gebracht werden! Uebrigens konnte ja Johannes selbst bis zu dieser Zeit nicht ganz sicher sein, dass Jesus gar nicht kommen werde. Er hätte ja vielleicht seinegWiederkunft auf die Erde bis zum Schluss der ersten vier Jahr hunderte verschieben können. Das aber entspricht durchaus den Vor stellungen, die nicht bloss der Verfasser der „Offenbarung“, sondern überhaupt das gesamte Altertum mit den Zahlen verband. Die Astrologie selbst widersprach dem keineswegs, weil der Durchgang der Sonne, des Mondes, des Merkur und vielleicht noch irgend eines Planeten durch das übeldrohende Sternbild des Skorpions ja erst am 8. Dezember 2) des Jahres 400 beendet sein musste. Und nun gingen auch diese gefährlichen Tage glücklich vorüber! Johannes beruhigte natürlich alle in Konstantinopel und erhielt schliess lich die Erlaubnis, nach Kleinasien zu reisen und persönlich die Sach lage in jenen sieben Städten zu erklären, an die er seine Prophe zeiung unmittelbar gerichtet hatte. Er begab sich schleunigst nach Ephesus und anderen Städten Klein asiens „ungeachtet der Winterszeit und seines schlechten Gesundheits zustandes.“ Die Gründe, die von den byzantinischen Geschichtsschreibern hierfür angegeben werden, sind ebenso widerspruchsvoll und un genügend, wie die Gründe aller andern ungewöhnlichen Vorkommnisse im Leben des Johannes nach dem Erscheinen der Apokalypse. Warum konnte er nicht die zwei bis drei Monate bis zum Sommer anfang abwarten? Warum reiste er trotz seiner Krankheit und. des „Rheumatismus in den Beinen?“ Darum, antwortet uns Palladius ‘), weil Eusebius, der Bischof von Valentinopol, den Bischof Antonius von Ephesus „des Eigennutzes“ beschuldigte, sich jedoch mit ihm versöhnte, noch bevor Johannes zur Untersuchung der Sache eintraf. Antonius selbst starb bald, aber die Gemeinde von Ephesus ﬂehte den Johannes trotzdem an, persönlich zu kommen, um die Ordnung bei ihr wieder herzustellen, und Johannes eilte (am 9. Januar 401) auf ihre ﬂehende Bitte dorthin‘). a. < _.4—\*-‘__
+170 | der ersten vier Jahrhunderte in Verbindung stehen, vor dieser Zeit ‘ konnten sie sich nicht beruhigen. Und wenn Johannes sie anlügt? Man lässt ihn aus der Stadt hinaus, und vielleicht wird Gott gerade dann alle vorausgesagten Leiden herabsenden. Nein, lieber möge er als Geisel dableiben. Gott wird sich seiner erbarmen und wird die Stadt durch das angekündigte Erdbeben nicht zerstören, durch ein Erdbeben, wie es noch nie, „seit dem Menschen auf der Erde wohnen, da war“. Ja, man kann sicher sein, dass alle ihn genau beobachteten, dass er nicht entwischte; war er doch auch mit Gewalt unter Bedeckung seinen zeit hierher gebracht werden! Uebrigens konnte ja Johannes selbst bis zu dieser Zeit nicht ganz sicher sein, dass Jesus gar nicht kommen werde. Er hätte ja vielleicht seinegWiederkunft auf die Erde bis zum Schluss der ersten vier Jahr hunderte verschieben können. Das aber entspricht durchaus den Vor stellungen, die nicht bloss der Verfasser der „Offenbarung“, sondern überhaupt das gesamte Altertum mit den Zahlen verband. Die Astrologie selbst widersprach dem keineswegs, weil der Durchgang der Sonne, des Mondes, des Merkur und vielleicht noch irgend eines Planeten durch das übeldrohende Sternbild des Skorpions ja erst am 8. Dezember 2) des Jahres 400 beendet sein musste. Und nun gingen auch diese gefährlichen Tage glücklich vorüber! Johannes beruhigte natürlich alle in Konstantinopel und erhielt schliess lich die Erlaubnis, nach Kleinasien zu reisen und persönlich die Sach lage in jenen sieben Städten zu erklären, an die er seine Prophe zeiung unmittelbar gerichtet hatte. Er begab sich schleunigst nach Ephesus und anderen Städten Klein asiens „ungeachtet der Winterszeit und seines schlechten Gesundheits zustandes.“ Die Gründe, die von den byzantinischen Geschichtsschreibern hierfür angegeben werden, sind ebenso widerspruchsvoll und un genügend, wie die Gründe aller andern ungewöhnlichen Vorkommnisse im Leben des Johannes nach dem Erscheinen der Apokalypse. Warum konnte er nicht die zwei bis drei Monate bis zum Sommer anfang abwarten? Warum reiste er trotz seiner Krankheit und. des „Rheumatismus in den Beinen?“ Darum, antwortet uns Palladius ‘), weil Eusebius, der Bischof von Valentinopol, den Bischof Antonius von Ephesus „des Eigennutzes“ beschuldigte, sich jedoch mit ihm versöhnte, noch bevor Johannes zur Untersuchung der Sache eintraf. Antonius selbst starb bald, aber die Gemeinde von Ephesus ﬂehte den Johannes trotzdem an, persönlich zu kommen, um die Ordnung bei ihr wieder herzustellen, und Johannes eilte (am 9. Januar 401) auf ihre ﬂehende Bitte dorthin‘). a. &lt; _.4—\*-‘__
 
 
 <a name='page-197'></a>
@@ -1606,9 +1568,7 @@ Anhänge.
 
 ---
 
-## Appendix I — Verification of Calculations by Astronomers Kamensky & Ljapin (Pulkowa) {#appendix-i}
-
-
+<h2 id="appendix-i">Appendix I — Verification of Calculations by Astronomers Kamensky & Ljapin (Pulkowa)</h2>
 Die Nachprüfung meiner Berechnungen von seiten der Astronomen M. M. Kamensky und N. M. Ljapin von der Sternwarte zu Pulkowa. (Aus den Briefen N. M. Ljapins.) I. Ohne eine Minute Zeit zu verlieren, beeile ich mich, Ihnen die von uns zur Nachprüfung Ihrer Feststellungen gemachten Berechnungen über die Lage des Merkur, der Venus, des Mars und der Sonne mitzu teilen. Die Berechnungen wurden von Herrn Kamensky und mir, vollkommen unabhängig von einander, nach den Tabellen von L everrier vorgenommen. Ich bemerke, dass wir bei den Berechnungen die plane tarischen Störungen (Perturbationen) und Ungleichheiten von längeren Perioden nicht berücksichtigt und nur die säkularen Störungen in An schlag gebracht haben. Wir haben folgende Elementsysteme (für die Tag- und Nachtgleiche des Jahres 395) bekommen: Die Länge Die Länge des desAufgangsNeigung Periheliums knotens Merkur . . 298° 1' 4 52O3G'0 29°22'6 6°58' 8 0,40530 Venus . . 285°44' 7 109° 7'5 62° 8’0 3°22' 25” 0,72886 Mars . . . 9° 52’ 32" 306° 36’6 36° 57'8 1°51' 58 1,45090 Sonne. . . 187° 29’ 6 255° 32'4 — — 0,99323 Auf Grund dieser Elemente haben wir folgende geozentrische Längen und Breiten für den 30. September des Jahres 395 0h der mittleren Pariser Zeit erhalten: Radius vector Wirkliche Länge Längen (Ä) Breiten (ß) Merkur . . . . 211° 20’ —3° 1' Venus . . . . 226° 31' —-1° 29' Tag- und Nachtgleiche Mars . . . . . 15° 3’ —2° 40’ des Jahres 395 Sonne . . . . 187°30' 0° 0'
 
 
@@ -1626,9 +1586,7 @@ Die Nachprüfung meiner Berechnungen von seiten der Astronomen M. M. Kamensky un
 
 ---
 
-## Appendix II — Newton on the Apocalypse {#appendix-ii}
-
-
+<h2 id="appendix-ii">Appendix II — Newton on the Apocalypse</h2>
 (Zur 2. russischen Auﬂage.) Newton über die Apokalypse. (Isaaci Newtoni Opera quae estant omnia. Commentariis illustrabat Samuel Horsley. T. V. Londini, 1785. In englischer Sprache. Biblio thek der Sternwarte zu Pulkowa.) Als ich im Herbst 1905 aus der Schlüsselburger Festung freikam und mich ein wenig in dem neuen Leben orientiert hatte, war eine meiner ersten Unternehmungen, den Kommentar zur Apokalypse von Newton aufzusuchen. Der grosse Astronom, so schien es mir, konnte
 
 
@@ -1658,9 +1616,7 @@ Die Nachprüfung meiner Berechnungen von seiten der Astronomen M. M. Kamensky un
 
 ---
 
-## Appendix III — Ancient Books Whose Inauthenticity Is Revealed by Astronomical Dating {#appendix-iii}
-
-
+<h2 id="appendix-iii">Appendix III — Ancient Books Whose Inauthenticity Is Revealed by Astronomical Dating</h2>
 (Zur 2. russischen Auﬂage.) Alte Bücher, deren Unechtheit und Anachronismus durch die astronomische Berechnung der Enstehungszeit der Apokalypse bewiesen wird. Nachdem die erste Auﬂage meines Buches erschienen war, wurde von zwei oder drei Kritikern der Ausdruck gebraucht, ich hätte nicht gewusst, dass mehrere Urkunden, worin die Apokalypse erwähnt wird, von den Theologen den ersten drei Jahrhunderten der christlichen Zeitrechnung zugeschrieben werden, d. h. einer Zeit, welche der von mir berechneten vorhergeht. Diese Behauptung ist unrichtig. Noch während meiner Gefangenschaft in der Schlüsselburger Festung wusste ich dies alles aus den theologischen „Exegeten“, die in ausgiebigster Weise in unserer Bibliothek vorhanden waren. Ich habe sogar darüber, wie der Leser sich selbst überzeugen kann, an verschiedenen Stellen des V. Teiles der „Offenbarung in Gewitter und Sturm“ gesprochen und am Schlusse des Buches selbst eine Hypothese darüber aufgestellt, wie solche historischen Missverständnisse und Fälschungen entstanden sein könnten. Alles dies ist auch in der zweiten Auﬂage unverändert stehen geblieben. Die Sache verhielt sich ganz anders, als meine Gegner glauben. Nachdem ich mich von der Richtigkeit meiner Berechnung und von der Zuverlässigkeit meines astronomischen Fundamentes 1) überzeugt hatte, erkannte ich sofort, dass, je mehr es mir durch meine Arbeit gelingen werde, unechte Dokumente aufzudecken, welche die Wahrheit in der Entwicklungsgeschichte der religiösen Ideen in den ersten Jahr hunderten unserer Zeitrechnung verdunkeln, um so grösser auch der wissenschaftliche Wert meines Buches sein werde. Nach meiner Frei lassung habe ich es viele Male versucht, urkundlich nachzuforschen, wie weit sich die Wurzeln dieses Aberglaubens in die Tiefe der Jahrhunderte verlaufen, aber fast überall stiess ich auf dieselbe undurchdringliche Mauer — das 16. und 17. Jahrhundert —, hinter der ich nichts mehr wahrnehmen konnte. Fast alle lateinischen und griechischen Ur kunden, auf welche die modernen Theologen die Zugehörigkeit unserer biblischen Apokalypse zu den ersten drei Jahrhunderten begründet haben, ergeben sich (als ich diese in der Petersburger Staatsbibliothek und in anderen speziellen Büchereien untersuchte) als nur in den Ausgaben des 16. Jahrhunderts vorhanden, d. h. als Bücher, die and erthalb tausen d Jahre nach dem Tode ihrer Verfasser erschienen, ohne An gabe, wo die Manuskripte sich befinden, nach denen sie gedruckt wurden,
 
 
@@ -1730,7 +1686,7 @@ Die Nachprüfung meiner Berechnungen von seiten der Astronomen M. M. Kamensky un
 <a name='page-258'></a>
 
 
-55 2.7.9.5“ 57Y"<3 ‚M6/5’ Illllllllllllllllllll|lllllll ADUÜIJEB??ÜQH7
+55 2.7.9.5“ 57Y"&lt;3 ‚M6/5’ Illllllllllllllllllll|lllllll ADUÜIJEB??ÜQH7
 
 
 <a name='page-259'></a>

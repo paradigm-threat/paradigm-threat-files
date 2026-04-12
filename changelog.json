@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-12T14:45:39.060Z",
+    "date": "2026-04-12T19:43:36.979Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/text_formatted.md",
+        "href": "/history/chronology/investigations/text_formatted"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-12T14:45:29.000Z",
+    "message": "Add Keywords line to High Poppy investigation (parity with sibling files)",
     "files": [
       {
         "status": "M",
@@ -711,23 +723,6 @@
         "status": "M",
         "path": "science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md",
         "href": "/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-10T16:34:19.000Z",
-    "message": "Investigations: link Jade Helm and Cruz/Kevin to evt-trump timeline synthesis",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
       }
     ]
   }
