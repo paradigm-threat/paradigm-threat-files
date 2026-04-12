@@ -1,16 +1,21 @@
 #!/usr/bin/env sh
 set -e
 # pre-commit runs *before* the commit exists, so generate-changelog's `git log`
-# cannot see the commit being created — changelog.json would stay one behind.
-# After commit, HEAD is correct; regenerate and amend into the same commit.
+# cannot see the commit being created — artifacts lag one commit until refreshed.
+# After commit, HEAD is correct; regenerate and amend until index/changelog match HEAD.
 if [ "${PARADIGM_FILES_POST_COMMIT:-}" = "1" ]; then
   exit 0
 fi
 export PARADIGM_FILES_POST_COMMIT=1
 cd "$(dirname "$0")/.." || exit 1
-npm run autogen
-git add index.json changelog.json
-if git diff --cached --quiet; then
-  exit 0
-fi
-git commit --amend --no-edit --no-verify
+n=0
+while [ "$n" -lt 4 ]; do
+  n=$((n + 1))
+  npm run autogen
+  git add index.json changelog.json
+  if git diff --cached --quiet; then
+    exit 0
+  fi
+  git commit --amend --no-edit --no-verify
+done
+exit 0
