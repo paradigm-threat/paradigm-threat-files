@@ -1,6 +1,13 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "0c719e96d2b87a2836f6f614b015051f056c9770",
+    "date": "2026-04-12T12:51:16.000Z",
+    "message": "chore: regenerate index.json and changelog.json",
+    "files": []
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "e36ed2376eb0eaf688b718ece7c6dfb930f257d7",
     "date": "2026-04-12T12:51:02.000Z",
     "message": "docs: changelog staleness note; remove post-commit amend hook",
@@ -758,19 +765,6 @@
     "hash": "437aceae464487016350194509c99f6bdd9f4db7",
     "date": "2026-04-10T01:28:09.000Z",
     "message": "Blog (2026-04-10): add Forgotten Future (ff-story, ff-teaser, site) GitLab Pages",
-    "files": [
-      {
-        "status": "M",
-        "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
-        "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "092b4f0d03cb486a6ceb38073f003c430e63c2b0",
-    "date": "2026-04-10T01:27:07.000Z",
-    "message": "Blog (2026-04-10): expand Relay inventory since 2026-04-05 (gateway/master SHAs)",
     "files": [
       {
         "status": "M",
