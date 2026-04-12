@@ -1,6 +1,24 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "hash": "a2e17e1321e1fe3d6bda61c11b630970cd6fe89a",
+    "date": "2026-04-12T13:54:18.000Z",
+    "message": "Gage/AE911Truth investigation: nonprofit timeline, open-air prison thesis, third header image",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
+        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
+      },
+      {
+        "status": "A",
+        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png",
+        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "hash": "1724d62ba15513dcb798fcf596e0183ff6d5084a",
     "date": "2026-04-12T12:51:26.000Z",
     "message": "chore: regenerate index.json and changelog.json",
@@ -751,19 +769,6 @@
         "status": "M",
         "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
         "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "hash": "ad39ca9341d5e76be4a04fcc217f9c11ccaffb2f",
-    "date": "2026-04-10T01:28:35.000Z",
-    "message": "Investigations: update Cruz/Kevin header PNG",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png"
       }
     ]
   }

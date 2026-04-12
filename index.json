@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-12T12:51:26Z"
+    "_updated": "2026-04-12T13:54:18Z"
   },
   "cosmos": {
     "cosmology": {
@@ -2889,7 +2889,7 @@
             "nonprofitcontainment",
             "501c3"
           ],
-          "_updated": "2026-04-12T12:42:21Z"
+          "_updated": "2026-04-12T13:54:18Z"
         },
         "richard-gage-ae911truth-controlled-demolition-investigation.png": {
           "_width": 1536,
@@ -2907,7 +2907,7 @@
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAABwAQCdASoQAAsABUB8JYgCdAAhQAD+Vdbuvqjewh5+NR9dcykugEwKjJKrbCYulgS5y5jjXef1wAAA",
-          "_updated": "2026-04-12T13:51:03Z"
+          "_updated": "2026-04-12T13:54:18Z"
         },
         "_count": 9
       },
@@ -13837,5 +13837,5 @@
     "_count": 153
   },
   "_count": 1952,
-  "_version": "1724d62"
+  "_version": "a2e17e1"
 }
