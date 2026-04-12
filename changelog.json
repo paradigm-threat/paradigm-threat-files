@@ -1,8 +1,8 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-12T14:10:25.125Z",
-    "message": "(staged)",
+    "date": "2026-04-12T14:10:13.000Z",
+    "message": "changelog: paths-first JSON without commit hash; optional staged row in pre-commit",
     "files": [
       {
         "status": "M",
