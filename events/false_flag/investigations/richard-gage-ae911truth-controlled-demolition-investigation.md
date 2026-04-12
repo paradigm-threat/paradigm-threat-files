@@ -2,8 +2,6 @@
 
 ![Richard Gage / AE911Truth — investigation header graphic](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png?w=1200 '{"className":"rounded-md m-auto"}')
 
-![Richard Gage / AE911Truth — investigation graphic (2)](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation2.png?w=1200 '{"className":"rounded-md m-auto"}')
-
 > **TL;DR:** This file focuses on **structural and forensic claims** associated with architect **Richard Gage** and **Architects & Engineers for 9/11 Truth (AE911Truth)**—controlled demolition of WTC 1, 2, and 7—alongside **mainstream rebuttals** (NIST, *Popular Mechanics*, engineering consensus), **documented platform actions** against Gage and aligned figures, a **project thesis** that **AE911Truth** operated as **controlled opposition** from the outset (sabotaging Gage; **2021** break over **COVID-19**), **steel removal and chain-of-custody** issues (including what reached **Arizona**), **Twin Towers and Building 7** history, and the project’s **sponsored** lines on **no-planes / broadcast CGI** with **local image evidence**. It cross-reads [9/11 Investigation — Good-Actor Thesis](09-11-investigation.md) but does **not** resolve which meta-narrative is correct.
 
 ## Scope, evidence limits, and cross-links
