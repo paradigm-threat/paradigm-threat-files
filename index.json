@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-12T14:10:13Z"
+    "_updated": "2026-04-12T14:11:21Z"
   },
   "cosmos": {
     "cosmology": {
@@ -12657,6 +12657,16 @@
     },
     "suppression": {
       "investigations": {
+        "canceling-the-high-poppy-founder-board-ousting-investigation.md": {
+          "_title": "Investigation: Canceling the High Poppy \u2014 founders, mandatory boards, and removal by the governance layer they had to adopt",
+          "_updated": "2026-04-12T14:20:51Z"
+        },
+        "canceling-the-high-poppy-founder-board-ousting-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAgCdASoQAAsABUB8JbACdAEedLgsE0h4AAD3ULfsdZIXbSP9S5VsafAb+QMBLQsnkf0SbJDIYZ25xWJR97EFiMM/ZWcAAAA=",
+          "_updated": "2026-04-12T14:19:58Z"
+        },
         "cathars-church-purge-khazar-split-investigation.md": {
           "_title": "Investigation: The Cathars \u2014 enemy memory, catharization, resistance to monotheism, and the Khazar\u2013Cathar split thesis",
           "_keywords": [
@@ -12694,7 +12704,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 2
+        "_count": 4
       },
       "page.md": {
         "_title": "Suppression",
@@ -12703,9 +12713,9 @@
         ],
         "_updated": "2026-04-05T12:17:42Z"
       },
-      "_count": 3
+      "_count": 5
     },
-    "_count": 323
+    "_count": 325
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
@@ -13836,6 +13846,6 @@
     },
     "_count": 153
   },
-  "_count": 1952,
-  "_version": "3d9e0af"
+  "_count": 1954,
+  "_version": "5e78c3d"
 }
