@@ -1,6 +1,29 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "date": "2026-04-12T14:21:05.716Z",
+    "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md",
+        "href": "/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation"
+      },
+      {
+        "status": "A",
+        "path": "influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.png",
+        "href": "/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-12T14:11:21.000Z",
+    "message": "chore: refresh changelog.json after validation",
+    "files": []
+  },
+  {
+    "repo": "paradigm-threat-files",
     "date": "2026-04-12T14:10:13.000Z",
     "message": "changelog: paths-first JSON without commit hash; optional staged row in pre-commit",
     "files": [
@@ -700,40 +723,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-10T14:57:38.000Z",
     "message": "Investigations: Extended Jade Helm hypothesis (Angry Birds gate, Bush–Epstein frame, Cruz/Trump); cross-link Cruz file",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-10T14:28:11.000Z",
-    "message": "Cruz/Kevin: production-schedule feasibility, Hollywood opacity stance; Jade Helm timeline (s9 prod, senator-elect window)",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-10T13:47:10.000Z",
-    "message": "Cruz/Kevin: Accountants trio, Oscar-senator thread, actor-name overlaps; Jade Helm cross-link",
     "files": [
       {
         "status": "M",
