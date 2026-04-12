@@ -1,3 +1,10 @@
+/**
+ * Builds changelog.json from `git log`. Husky pre-commit runs *before* the new
+ * commit exists, so the tip commit is often missing until you run
+ * `npm run autogen` again after the commit (or once before push). A post-commit
+ * amend cannot reliably embed the new hash in the same commit object without
+ * oscillation; refresh manually or in CI.
+ */
 const { execSync } = require('child_process')
 const fs = require('fs')
 const path = require('path')
