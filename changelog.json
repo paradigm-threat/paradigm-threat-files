@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-12T14:21:05.716Z",
+    "date": "2026-04-12T14:45:39.060Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md",
+        "href": "/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-12T14:20:56.000Z",
+    "message": "Add High Poppy investigation with header image",
     "files": [
       {
         "status": "A",
@@ -706,23 +718,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-10T16:34:19.000Z",
     "message": "Investigations: link Jade Helm and Cruz/Kevin to evt-trump timeline synthesis",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-10T14:57:38.000Z",
-    "message": "Investigations: Extended Jade Helm hypothesis (Angry Birds gate, Bush–Epstein frame, Cruz/Trump); cross-link Cruz file",
     "files": [
       {
         "status": "M",

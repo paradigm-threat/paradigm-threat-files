@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-12T14:11:21Z"
+    "_updated": "2026-04-12T14:20:56Z"
   },
   "cosmos": {
     "cosmology": {
@@ -12659,13 +12659,31 @@
       "investigations": {
         "canceling-the-high-poppy-founder-board-ousting-investigation.md": {
           "_title": "Investigation: Canceling the High Poppy \u2014 founders, mandatory boards, and removal by the governance layer they had to adopt",
-          "_updated": "2026-04-12T14:20:51Z"
+          "_keywords": [
+            "suppression",
+            "governance",
+            "founder",
+            "board",
+            "directors",
+            "nonprofit",
+            "501c3",
+            "tall-poppy",
+            "high-poppy",
+            "cancel-culture",
+            "corporate",
+            "ae911truth",
+            "gage",
+            "openai",
+            "investigation",
+            "article"
+          ],
+          "_updated": "2026-04-12T14:20:56Z"
         },
         "canceling-the-high-poppy-founder-board-ousting-investigation.png": {
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAgCdASoQAAsABUB8JbACdAEedLgsE0h4AAD3ULfsdZIXbSP9S5VsafAb+QMBLQsnkf0SbJDIYZ25xWJR97EFiMM/ZWcAAAA=",
-          "_updated": "2026-04-12T14:19:58Z"
+          "_updated": "2026-04-12T14:20:56Z"
         },
         "cathars-church-purge-khazar-split-investigation.md": {
           "_title": "Investigation: The Cathars \u2014 enemy memory, catharization, resistance to monotheism, and the Khazar\u2013Cathar split thesis",
@@ -13847,5 +13865,5 @@
     "_count": 153
   },
   "_count": 1954,
-  "_version": "5e78c3d"
+  "_version": "38f1952"
 }
