@@ -1,1 +1,1 @@
-npm run autogen && git add index.json changelog.json
+PARADIGM_CHANGELOG_STAGED_TOP=1 npm run autogen && git add index.json changelog.json

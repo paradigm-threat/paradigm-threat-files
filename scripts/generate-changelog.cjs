@@ -1,9 +1,7 @@
 /**
- * Builds changelog.json from `git log`. Husky pre-commit runs *before* the new
- * commit exists, so the tip commit is often missing until you run
- * `npm run autogen` again after the commit (or once before push). A post-commit
- * amend cannot reliably embed the new hash in the same commit object without
- * oscillation; refresh manually or in CI.
+ * Builds changelog.json from `git log` (paths-first; no commit hash in output).
+ * Optional: PARADIGM_CHANGELOG_STAGED_TOP=1 prepends one row from `git diff --cached`
+ * so pre-commit can list paths before the commit object exists.
  */
 const { execSync } = require('child_process')
 const fs = require('fs')
@@ -28,10 +26,8 @@ function toArticleHref(filePath) {
     return `/${clean}`
 }
 
-function parseChangedFiles(hash) {
-    const output = run(`git show --pretty="" --name-status --find-renames ${hash}`)
+function parseNameStatusOutput(output, hrefForPath) {
     if (!output) return []
-
     const changes = []
     for (const rawLine of output.split('\n')) {
         const line = rawLine.trim()
@@ -50,28 +46,55 @@ function parseChangedFiles(hash) {
         changes.push({
             status: code,
             path: filePath,
-            href: toArticleHref(filePath)
+            href: hrefForPath(filePath)
         })
     }
     return changes
 }
 
+function parseChangedFiles(hash) {
+    const output = run(`git show --pretty="" --name-status --find-renames ${hash}`)
+    return parseNameStatusOutput(output, toArticleHref)
+}
+
+function maybeStagedTopEntry() {
+    if (process.env.PARADIGM_CHANGELOG_STAGED_TOP !== '1') return null
+    try {
+        const output = run('git diff --cached --name-status --find-renames')
+        const files = parseNameStatusOutput(output, toArticleHref)
+        if (files.length === 0) return null
+        return {
+            repo: 'paradigm-threat-files',
+            date: new Date().toISOString(),
+            message: '(staged)',
+            files
+        }
+    } catch {
+        return null
+    }
+}
+
 function generateChangelog() {
     try {
+        const stagedTop = maybeStagedTopEntry()
         const logData = run(`git log -n ${CHANGE_LIMIT} --pretty=format:"%H|%at|%s"`)
-        const entries = logData
+        const fromLog = logData
             .split('\n')
             .filter(Boolean)
             .map((line) => {
                 const [hash, timestamp, ...msgParts] = line.split('|')
                 return {
                     repo: 'paradigm-threat-files',
-                    hash,
                     date: new Date(Number(timestamp) * 1000).toISOString(),
                     message: msgParts.join('|'),
                     files: parseChangedFiles(hash)
                 }
             })
+
+        let entries = fromLog
+        if (stagedTop) {
+            entries = [stagedTop, ...fromLog].slice(0, CHANGE_LIMIT)
+        }
 
         const outputPath = path.resolve(__dirname, '../changelog.json')
         fs.writeFileSync(outputPath, JSON.stringify(entries, null, 2) + '\n')
