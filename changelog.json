@@ -1,8 +1,25 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-13T00:18:44.563Z",
+    "date": "2026-04-13T12:12:27.956Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md",
+        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.png",
+        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-13T00:18:34.000Z",
+    "message": "Remove oversized markdown dumps and regenerate index",
     "files": [
       {
         "status": "M",
@@ -276,23 +293,6 @@
         "status": "M",
         "path": "governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md",
         "href": "/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-11T12:53:42.000Z",
-    "message": "Investigations: Cruz file TL;DR, Will Durst Angry Birds attribution; PNG trim",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.png",
-        "href": "/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.png"
       }
     ]
   }

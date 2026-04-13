@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-12T19:43:26Z"
+    "_updated": "2026-04-13T00:18:34Z"
   },
   "cosmos": {
     "cosmology": {
@@ -7111,6 +7111,27 @@
           "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JagCdAEDHtRPZLgAAPuWCioa/VxZ8nwYTauApwP40YrQRvtFdRQPqJge/qo7U3IlNzsSAAA=",
           "_updated": "2026-04-03T12:20:03Z"
         },
+        "pyramid-energy-kerrell-goggin-1977-investigation.md": {
+          "_title": "Investigation: Pyramid \u201cEnergy\u201d \u2014 Kerrell & Goggin (1977) and Large Stone Geometry",
+          "_keywords": [
+            "pyramid",
+            "energy",
+            "kerrell",
+            "goggin",
+            "1977",
+            "dowsing",
+            "great-pyramid",
+            "cathedral",
+            "investigation"
+          ],
+          "_updated": "2026-04-13T12:11:41Z"
+        },
+        "pyramid-energy-kerrell-goggin-1977-investigation.png": {
+          "_width": 1031,
+          "_height": 1678,
+          "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAwAgCdASoKABAABUB8JbACdLoAAZv9tCv0AAD0UyS/G9GopmsNeKzZzMhOD6JZCX6GExwmt7jzqDPiAU3298EDedNYLSxEZnOAAA==",
+          "_updated": "2026-04-13T12:10:47Z"
+        },
         "radiocarbon-dating-investigation.md": {
           "_title": "Investigation: Radiocarbon Dating \u2014 Dogmatic Adoption and the Electrical Activity Problem",
           "_keywords": [
@@ -7211,7 +7232,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 28
+        "_count": 30
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -8157,7 +8178,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 254
+      "_count": 256
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -10079,7 +10100,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 552
+    "_count": 554
   },
   "influence": {
     "censorship": {
@@ -13534,7 +13555,7 @@
           "actually",
           "exists"
         ],
-        "_updated": "2026-04-05T12:17:42Z"
+        "_updated": "2026-04-13T00:18:34Z"
       },
       "03-dayton-miller.md": {
         "_title": "Dayton Miller Interferometry \u2014 Investigation",
@@ -13828,6 +13849,6 @@
     },
     "_count": 153
   },
-  "_count": 1950,
-  "_version": "f33a7ea"
+  "_count": 1952,
+  "_version": "8861108"
 }
