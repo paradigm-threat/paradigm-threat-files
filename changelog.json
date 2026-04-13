@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:54:33.742Z",
+    "date": "2026-04-13T12:57:40.257Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/view-over-atlantis-michell-investigation.md",
+        "href": "/history/chronology/investigations/view-over-atlantis-michell-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-13T12:54:24.000Z",
+    "message": "docs(investigations): Michell View Over Atlantis editions and timeline fit",
     "files": [
       {
         "status": "A",
@@ -246,38 +258,6 @@
         "status": "A",
         "path": ".husky/post-commit",
         "href": "/.husky/post-commit"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-12T12:34:54.000Z",
-    "message": "Add Richard Gage / AE911Truth 9/11 investigation and assets",
-    "files": [
-      {
-        "status": "A",
-        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
-        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
-      },
-      {
-        "status": "A",
-        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
-        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png"
-      },
-      {
-        "status": "A",
-        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation2.png",
-        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation2.png"
-      },
-      {
-        "status": "A",
-        "path": "history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.md",
-        "href": "/history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.png",
-        "href": "/history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.png"
       }
     ]
   }
