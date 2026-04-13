@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-13T12:15:48Z"
+    "_updated": "2026-04-13T12:36:59Z"
   },
   "cosmos": {
     "cosmology": {
@@ -7122,7 +7122,7 @@
             "chapter",
             "summary"
           ],
-          "_updated": "2026-04-13T12:36:38Z"
+          "_updated": "2026-04-13T12:36:59Z"
         },
         "pyramid-energy-kerrell-goggin-1977-investigation.md": {
           "_title": "Investigation: Pyramid \u201cEnergy\u201d \u2014 Kerrell & Goggin (1977) and Large Stone Geometry",
@@ -7132,12 +7132,12 @@
             "kerrell",
             "goggin",
             "1977",
-            "dowsing",
+            "habitability",
             "great-pyramid",
-            "cathedral",
+            "dark-ages",
             "investigation"
           ],
-          "_updated": "2026-04-13T12:12:17Z"
+          "_updated": "2026-04-13T12:36:59Z"
         },
         "pyramid-energy-kerrell-goggin-1977-investigation.png": {
           "_width": 1536,
@@ -13863,5 +13863,5 @@
     "_count": 153
   },
   "_count": 1953,
-  "_version": "f2ccc09"
+  "_version": "1e30158"
 }

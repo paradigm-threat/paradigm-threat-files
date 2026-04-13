@@ -1,8 +1,25 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:37:10.084Z",
+    "date": "2026-04-13T12:41:21.375Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-chapter-summaries.md",
+        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-chapter-summaries"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md",
+        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-13T12:36:59.000Z",
+    "message": "Add Kerrell/Goggin chapter summaries beside investigation; CO framing for meter scams.",
     "files": [
       {
         "status": "A",
@@ -261,23 +278,6 @@
         "status": "A",
         "path": "governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png",
         "href": "/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-11T14:37:31.000Z",
-    "message": "Investigations: Three Kings (1999) PP cluster, prose cleanup, §6 gold cross-link",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md",
-        "href": "/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/page.md",
-        "href": "/governance/war/investigations"
       }
     ]
   }
