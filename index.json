@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-12T14:45:29Z"
+    "_updated": "2026-04-12T19:43:26Z"
   },
   "cosmos": {
     "cosmology": {
@@ -1147,16 +1147,7 @@
           "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACQAQCdASoIABAABUB8JQBOgBqo2gAAzBxWtis09NWUnPC1ij5P0ZqIAAA=",
           "_updated": "2026-01-16T01:04:59Z"
         },
-        "z.md": {
-          "_keywords": [
-            "uncovering",
-            "missing",
-            "secrets",
-            "magnetism"
-          ],
-          "_updated": "2026-04-05T12:17:42Z"
-        },
-        "_count": 62
+        "_count": 61
       },
       "hollow_earth": {
         "A.md": {
@@ -1564,7 +1555,7 @@
       "va_3.pdf": {
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 165
+      "_count": 164
     },
     "flat_earth": {
       "co.md": {
@@ -2355,7 +2346,7 @@
       },
       "_count": 2
     },
-    "_count": 269
+    "_count": 268
   },
   "events": {
     "911": {
@@ -3611,14 +3602,6 @@
         "_count": 50
       },
       "holocaust": {
-        "A.md": {
-          "_keywords": [
-            "holocaust",
-            "really",
-            "holodomor"
-          ],
-          "_updated": "2026-04-05T12:17:42Z"
-        },
         "b84cb74ee4642ece.jpg": {
           "_width": 530,
           "_height": 642,
@@ -3784,7 +3767,7 @@
         "revisionism.pdf": {
           "_updated": "2026-01-16T01:04:59Z"
         },
-        "_count": 29
+        "_count": 28
       },
       "mayan_aztec_genocide.jpg": {
         "_width": 720,
@@ -5486,7 +5469,7 @@
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoLABAABUB8JZQAAtz3jx8gAAD+6yXofKC7qCyZLimghMNJDK1HwIxAguHp/6/hQ5j166fQMEfJ8AAA",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 397
+      "_count": 396
     },
     "slavery": {
       "slave-trades-and-moor-etymology-investigation.md": {
@@ -6407,7 +6390,7 @@
       },
       "_count": 76
     },
-    "_count": 511
+    "_count": 510
   },
   "history": {
     "chronology": {
@@ -7185,25 +7168,6 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "text.md": {
-          "_keywords": [
-            "text"
-          ],
-          "_updated": "2026-04-05T12:17:42Z"
-        },
-        "text_formatted.md": {
-          "_title": "Die Offenbarung Johannis \u2014 Eine astronomisch-historische Untersuchung",
-          "_keywords": [
-            "textformatted",
-            "die",
-            "offenbarung",
-            "johannis",
-            "eine",
-            "astronomischhistorische",
-            "untersuchung"
-          ],
-          "_updated": "2026-04-10T22:29:47Z"
-        },
         "two-branches-christianity-fomenko-vs-author.md": {
           "_title": "Two Branches of Christianity: Fomenko vs. Paradigm Threat",
           "_keywords": [
@@ -7247,7 +7211,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 30
+        "_count": 28
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -8193,7 +8157,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 256
+      "_count": 254
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -10115,7 +10079,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 554
+    "_count": 552
   },
   "influence": {
     "censorship": {
@@ -13864,6 +13828,6 @@
     },
     "_count": 153
   },
-  "_count": 1954,
-  "_version": "5ff0c2c"
+  "_count": 1950,
+  "_version": "f33a7ea"
 }
