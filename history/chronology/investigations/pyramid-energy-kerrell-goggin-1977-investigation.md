@@ -2,6 +2,8 @@
 
 ![Pyramid energy — Kerrell & Goggin (1977) investigation](pyramid-energy-kerrell-goggin-1977-investigation.png)
 
+**Book structure and per-chapter notes:** [pyramid-energy-kerrell-goggin-1977-chapter-summaries.md](./pyramid-energy-kerrell-goggin-1977-chapter-summaries.md) (same folder as this file).
+
 ## Summary
 
 **Claim (from source):** The pyramid form is an **accumulator or antenna** for a mix of influences—magnetic alignment, ion effects, high-frequency / “microwave-scale” coupling to water dipoles, and possibly other bands—producing **repeatable household effects** (food preservation, blade maintenance, plant growth, subjective wellness) when models are **properly proportioned, completed (including base), and oriented**, especially to **magnetic north**.
@@ -56,7 +58,22 @@ The authors do **not** develop Gothic cathedral physics. They **quote** comparat
 
 ---
 
-## 5. Weaknesses and red flags
+## 5. Secret box scam and controlled opposition (investigation framing)
+
+Kerrell and Goggin document a concrete grift: **“pyramid energy meters”** that are **empty theater**—either **non-functional** panels or, in one case they dissected, a **thermistor** (temperature sensor) **reboxed** as a secret instrument and sold at a huge markup, useless for the claimed effect. Honest debunkers in the book use this to warn buyers.
+
+**Controlled-opposition reading (this project):** The same class of device serves **several** obvious institutional goals if seeded or tolerated at scale:
+
+1. **Guilt by association** — Anyone who later argues for *any* anomalous coupling through pyramid geometry can be lumped with **hucksters** and **thermistor boxes**.
+2. **Topic poisoning** — One exposed scam becomes “proof” that **pyramid energy is nonsense in toto**, so serious EM / telluric / historical questions never get funded or replicated.
+3. **Attention capture** — Money and credibility flow to **gadgets** instead of **shielded replication**, **magnetometry**, or **structure-scale** work on real monuments.
+4. **Dismissal shortcut** — “They already debunked pyramid energy” (meaning: debunked **fraudulent meters**), used to **close** inquiry on large-stone **function** and **Pyramidal Empire** logistics.
+
+This does **not** require believing every scam was run by a single agency; it only notes that **the scam’s structure** matches **controlled opposition** outcomes whether or not intent was centralized. Kerrell/Goggin’s own chapter is still evidence that **some** sellers were knowingly selling junk.
+
+---
+
+## 6. Weaknesses and red flags
 
 - **Selection bias and commerce:** Authors ran a pyramid products company; conflicts of interest are inherent.
 - **Mariner “pyramids” / lunar “runways”:** Presented as NASA fact; later research and image analysis **dispute artificiality**. Treat as **historical curiosity**, not settled proof.
@@ -65,7 +82,7 @@ The authors do **not** develop Gothic cathedral physics. They **quote** comparat
 
 ---
 
-## 6. Open questions
+## 7. Open questions
 
 - [ ] Locate **primary documents** for Drbal patent **91304** (Czech archives / patent database).
 - [ ] Literature review: **peer-reviewed** attempts to replicate razor, milk, or seed studies under **shielded** and **unshielded** conditions.
@@ -74,7 +91,7 @@ The authors do **not** develop Gothic cathedral physics. They **quote** comparat
 
 ---
 
-## 7. Related site and timeline material
+## 8. Related site and timeline material
 
 - [Pyramids: Myths vs Reality](/timeline/evt-pyramids-myths-vs-reality)
 - [Pyramids: Myths vs Evidence (appendix)](/timeline/evt-pyramids-myths-evidence)
@@ -86,9 +103,9 @@ The authors do **not** develop Gothic cathedral physics. They **quote** comparat
 
 ---
 
-## 8. Local working copy (author workspace)
+## 9. Local working copy (author workspace)
 
-A PDF scan, chapter summaries, and exported illustration pages live under **`~/dev/wget/pyramids/`** (not part of this repo): `guide-to-pyramid-energy-kerrell-goggin-1977.pdf`, `CHAPTER_SUMMARIES.md`, `extracted-images/*.png`.
+PDF scan and exported illustration PNGs from the digitized book live under **`~/dev/wget/pyramids/`** (not part of this repo): `guide-to-pyramid-energy-kerrell-goggin-1977.pdf`, `extracted-images/*.png`. The **chapter summary** for the repo lives **next to this file**: [pyramid-energy-kerrell-goggin-1977-chapter-summaries.md](./pyramid-energy-kerrell-goggin-1977-chapter-summaries.md).
 
 **Catalog:** OCLC 1035147634 — Kerrell, Bill; Goggin, Kathy. *The Guide to Pyramid Energy.* Forces, Santa Monica, Calif., 1977.
 

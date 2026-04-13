@@ -1,8 +1,25 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:15:58.671Z",
+    "date": "2026-04-13T12:37:10.084Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-chapter-summaries.md",
+        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-chapter-summaries"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md",
+        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-13T12:15:48.000Z",
+    "message": "Update pyramid energy investigation cover image.",
     "files": [
       {
         "status": "M",
@@ -261,18 +278,6 @@
         "status": "M",
         "path": "governance/war/investigations/page.md",
         "href": "/governance/war/investigations"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-11T14:19:00.000Z",
-    "message": "chore: changelog window 20; document autogen timing in hook",
-    "files": [
-      {
-        "status": "M",
-        "path": "scripts/generate-changelog.cjs",
-        "href": "/scripts/generate-changelog.cjs"
       }
     ]
   }
