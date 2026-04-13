@@ -1,8 +1,25 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:41:21.375Z",
+    "date": "2026-04-13T12:54:33.742Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/view-over-atlantis-michell-chapter-summaries.md",
+        "href": "/history/chronology/investigations/view-over-atlantis-michell-chapter-summaries"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/view-over-atlantis-michell-investigation.md",
+        "href": "/history/chronology/investigations/view-over-atlantis-michell-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-13T12:41:11.000Z",
+    "message": "docs(investigations): habitability-first Kerrell/Goggin pyramid energy",
     "files": [
       {
         "status": "M",
@@ -261,23 +278,6 @@
         "status": "A",
         "path": "history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.png",
         "href": "/history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-11T16:06:19.000Z",
-    "message": "Investigations: header image for dubious stand-down / Benghazi file",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md",
-        "href": "/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png",
-        "href": "/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png"
       }
     ]
   }
