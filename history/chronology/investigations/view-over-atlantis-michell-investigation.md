@@ -1,5 +1,7 @@
 # Investigation: John Michell — *The View Over Atlantis* / *The New View Over Atlantis*
 
+![View Over Atlantis — John Michell investigation](view-over-atlantis-michell-investigation.png)
+
 **Chapter-by-chapter summaries:** [view-over-atlantis-michell-chapter-summaries.md](./view-over-atlantis-michell-chapter-summaries.md)
 
 **Local source mirror:** `~/dev/wget/michell/` (PDFs, `pdftotext` extracts, `INDEX.md`). Not served as site assets; investigations in this repo are the reader-facing notes.

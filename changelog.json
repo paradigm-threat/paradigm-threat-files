@@ -1,8 +1,25 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:57:40.257Z",
+    "date": "2026-04-13T12:59:48.146Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/view-over-atlantis-michell-investigation.md",
+        "href": "/history/chronology/investigations/view-over-atlantis-michell-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/view-over-atlantis-michell-investigation.png",
+        "href": "/history/chronology/investigations/view-over-atlantis-michell-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-13T12:57:30.000Z",
+    "message": "docs(investigations): expand Michell ley-line account and sources",
     "files": [
       {
         "status": "M",
@@ -246,18 +263,6 @@
         "status": "M",
         "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
         "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-12T12:41:21.000Z",
-    "message": "fix: sync changelog/index; add post-commit autogen amend",
-    "files": [
-      {
-        "status": "A",
-        "path": ".husky/post-commit",
-        "href": "/.husky/post-commit"
       }
     ]
   }
