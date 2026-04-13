@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-13T12:36:59Z"
+    "_updated": "2026-04-13T12:41:11Z"
   },
   "cosmos": {
     "cosmology": {
@@ -7122,7 +7122,7 @@
             "chapter",
             "summary"
           ],
-          "_updated": "2026-04-13T12:36:59Z"
+          "_updated": "2026-04-13T12:41:11Z"
         },
         "pyramid-energy-kerrell-goggin-1977-investigation.md": {
           "_title": "Investigation: Pyramid \u201cEnergy\u201d \u2014 Kerrell & Goggin (1977) and Large Stone Geometry",
@@ -7137,7 +7137,7 @@
             "dark-ages",
             "investigation"
           ],
-          "_updated": "2026-04-13T12:36:59Z"
+          "_updated": "2026-04-13T12:41:11Z"
         },
         "pyramid-energy-kerrell-goggin-1977-investigation.png": {
           "_width": 1536,
@@ -7216,6 +7216,14 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
+        "view-over-atlantis-michell-chapter-summaries.md": {
+          "_title": "John Michell \u2014 *The View Over Atlantis* / *The New View Over Atlantis* \u2014 chapter list and summaries",
+          "_updated": "2026-04-13T12:54:02Z"
+        },
+        "view-over-atlantis-michell-investigation.md": {
+          "_title": "Investigation: John Michell \u2014 *The View Over Atlantis* / *The New View Over Atlantis*",
+          "_updated": "2026-04-13T12:54:08Z"
+        },
         "wells-crystal-egg-1666-beast-speculation.md": {
           "_title": "Investigation (speculative): Crystal Eggs, Mass Influence, and 1666 \u2014 *The Crystal Egg* as Cover Story?",
           "_keywords": [
@@ -7245,7 +7253,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 31
+        "_count": 33
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -8191,7 +8199,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 257
+      "_count": 259
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -10113,7 +10121,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 555
+    "_count": 557
   },
   "influence": {
     "censorship": {
@@ -13862,6 +13870,6 @@
     },
     "_count": 153
   },
-  "_count": 1953,
-  "_version": "1e30158"
+  "_count": 1955,
+  "_version": "23db228"
 }
