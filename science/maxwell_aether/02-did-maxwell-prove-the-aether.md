@@ -230,7 +230,7 @@ Modern physics has effectively reintroduced the aether under other names — qua
 ### Sources
 
 - Maxwell, J.C. — *Treatise on Electricity and Magnetism*
-- Wheeler, Ken Lee — *Uncovering the Missing Secrets of Magnetism* (paradigm-threat-files: `cosmos/cosmology/electric_universe/z.md`)
+- Wheeler, Ken Lee — *Uncovering the Missing Secrets of Magnetism* ([PDF](http://argos.vu/wp-content/uploads/2017/02/magnetism1small.pdf))
 - Dollard, Eric P. — various writings, as quoted in Wheeler
 - Steinmetz, C.P. — *Electric Discharges, Waves and Impulses*
 - Tesla, Nikola — "Experiments with Alternate Currents of High Potential and High Frequency"; various interviews
