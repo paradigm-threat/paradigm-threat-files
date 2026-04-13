@@ -6,11 +6,13 @@
 
 ## Summary
 
-**Claim (from source):** The pyramid form is an **accumulator or antenna** for a mix of influences—magnetic alignment, ion effects, high-frequency / “microwave-scale” coupling to water dipoles, and possibly other bands—producing **repeatable household effects** (food preservation, blade maintenance, plant growth, subjective wellness) when models are **properly proportioned, completed (including base), and oriented**, especially to **magnetic north**.
+**What this timeline prioritizes in the book:** Arguments for **habitability-oriented design**—especially in the **Great Pyramid of Giza** chapter—rather than razor tests, dowsing, or Mars photos. Kerrell and Goggin **quote Paul Brunton’s “not a tomb” case**, which turns on **ventilation, access, and chamber layout** inconsistent with a sealed burial only: **long air channels** linking the King’s Chamber complex to the outside (**“the dead do not breathe”**), an **elevated** King’s Chamber where pharaonic practice was usually **subterranean**, a **Grand Gallery** far larger than needed for a minimal passage, a **second** major chamber (Queen’s) without tomb trappings, and **sealed air shafts** at the Queen’s Chamber. They note the Great Pyramid’s **internal chambers and passages above ground** as unusual among Egyptian pyramids. Separately, **Bovis** is cited for **small animals** dying inside the monument without normal decay—an **environmental preservation** hint inside the volume. None of this requires the authors to date the structure; it supplies **design-intent questions** that align with reading pyramids as **occupied, high-value shells** rather than vanity tombs.
 
-**Relation to this project:** The timeline and `docs/CONCLUSIONS.md` treat pyramids as **networked, EM/plasma-relevant architecture** (e.g. “quantum gates,” ley-line placement, Pyramidal Empire logistics). Kerrell/Goggin’s popular 1977 handbook does **not** use Saturnian or BCE Dark Ages chronology; it is a **late–New Age / pyramid-power** synthesis. It is still useful as a **primary-period catalog** of **claims, experiments, and cultural framing** (including Drbal’s patent narrative, biofeedback anecdotes, dowsing, and Great Pyramid numerology) that can be cross-checked against physical and historical investigations.
+**Other material in the book (secondary for us):** The handbook’s bulk is **small-scale models** as **accumulator/antenna** (magnetic north, food, blades, sleep, plants, biofeedback). That layer is **modern folk experiment**—useful as **weak analogy** (people choosing to **sleep and store food** under a frame), **not** proof of Birkeland physics.
 
-**Status:** Open. This file documents the book’s arguments and maps them to site questions; it does **not** assert that all effects are established physics.
+**Relation to this project:** [Pyramids: Myths vs Reality](/timeline/evt-pyramids-myths-vs-reality) treats **[3147–670 BCE](/timeline/evt-3147-bce-the-dark-ages)** pyramids as **civilizational technology**: **ley-node** placement, **cathodic / Faraday-like** grounding when interplanetary arcs raged—**safest** built environments and effective **centers of order** in surface chaos. Habitability-oriented design arguments **fit that reading** without requiring Kerrell/Goggin to name the BCE Dark Ages: **ventilated, monumental interior volume** matches **shelter for people and stores** at the EM focal points that mattered for survival and command.
+
+**Status:** Open. This file maps source arguments to site questions; it does **not** assert that all modern “pyramid power” effects are established physics.
 
 ---
 
@@ -29,19 +31,34 @@
 
 ---
 
-## 2. Fit with Paradigm Threat chronology (Pyramidal Empire, BCE Dark Ages)
+## 2. Habitability-oriented design → BCE Dark Ages thesis (timeline use)
 
-- **Pyramidal Empire / gates:** The project hypothesis is that **equatorial and ley-aligned pyramids** participated in **communication or transport** and imperial coordination. Kerrell/Goggin instead describe **small models** as **personal and agricultural devices**. The **bridge hypothesis** is shared geometry: if large structures couple to **telluric or atmospheric electricity**, small aligned frames might couple **weakly** to the same modes—**speculative** unless measured with agreed instruments.
+| Source thread (via Kerrell/Goggin / Brunton) | Why the timeline cares |
+|----------------------------------------------|-------------------------|
+| **Air channels** to outer air from chambers described as tombs | Ventilation implies **breathable interior use** or at least **non-sealed** design; inconsistent with “seal forever and forget.” |
+| **King’s Chamber** high in masonry vs **underground** royal burial norm | Suggests **priority for volume and access** in the stack, not only a hole in rock. |
+| **Grand Gallery** as large works vs narrow ascending passage | Suggests **processional or service access** at scale—**infrastructure**, not minimal interment. |
+| **Two major chambers** without tomb iconography | Undercuts **single-interment** reading; room for **operation, ritual, or residence** in the model they summarize. |
+| **Great Pyramid** as the Egyptian pyramid with major **above-ground** internal works (per their contrast to others) | Supports **functional interior** as a design exception worth explaining. |
+| **Bovis** animals inside: dehydration / no rot | Points to a **strong interior environment** (whatever mechanism)—**habitability-adjacent** for organic preservation. |
 
-- **Dark Ages (BCE vs medieval):** The book’s Part II introduction uses **“The Dark Ages” after Rome** to mean **suppression of knowledge in Europe** (medieval period). That is **not** the same as the timeline’s **[3147–670 BCE Dark Ages](/timeline/evt-3147-bce-the-dark-ages)** (planet-god chaos). Only the **general motif**—“institutions bury inconvenient knowledge”—aligns thematically.
-
-- **Exodus / collapse (~1492 BCE in site theory):** Not discussed in this handbook.
-
-- **Fomenko / Horde construction window:** The book’s **Great Pyramid** chapter assumes **conventional Khufu dating** and Khufu quarry marks. The timeline’s **[Pyramids: Myths vs Reality](/timeline/evt-pyramids-myths-vs-reality)** and **[Fomenko and the Pyramid Question](/timeline/evt-fomenko-and-the-pyramid-question)** separate **dating fights** from **function** (EM role may hold regardless of construction century).
+**Synthesis (this site):** During the **[Dark Ages BCE](/timeline/evt-3147-bce-the-dark-ages)**, pyramids sit at **electromagnetic nodes**; the chronology holds them as **engineered shells**—**most defensible** built form when plasma weather and arcs made open settlements lethal or unstable. **Habitability-oriented** massing (chambers, air, vertical access) reads as **civilizational headquarters**: **stores, personnel, and continuity** at the **safest** locations, **not** optional mausolea. Kerrell/Goggin do **not** spell out that history; they still preserve **tomb-inadequacy** arguments that **converge** with this functional reading.
 
 ---
 
-## 3. Cathedrals and other large stone structures
+## 3. Fit with Paradigm Threat chronology (other notes)
+
+- **Pyramidal Empire / gates:** [Pyramids: Myths vs Reality](/timeline/evt-pyramids-myths-vs-reality) — ley-line **portals / quantum tunnels** and imperial logistics. Small models in the book are **not** proof of gates; **shared geometry** remains a separate, instrumented question.
+
+- **Dark Ages (BCE vs medieval):** The book’s Part II intro uses **post-Rome “Dark Ages”** (medieval Europe). Ignore for BCE; the **habitability** material is **structure-level**, not period-labeled.
+
+- **Exodus / collapse (~1492 BCE in site theory):** Not in this handbook.
+
+- **Fomenko dating:** The book assumes **conventional Khufu** framing in places. **[Fomenko and the Pyramid Question](/timeline/evt-fomenko-and-the-pyramid-question)** separates **dating** from **function**; **habitability** arguments apply to **whoever** built the interior layout.
+
+---
+
+## 4. Cathedrals and other large stone structures
 
 The authors do **not** develop Gothic cathedral physics. They **quote** comparative statistics: the Great Pyramid contains **more stone than all English cathedrals combined since Christ** (a scale comparison). They include a **photograph of a United Methodist church** built in a **pyramidal** floor plan (late 20th c. California context).
 
@@ -49,7 +66,7 @@ The authors do **not** develop Gothic cathedral physics. They **quote** comparat
 
 ---
 
-## 4. Strengths of the source
+## 5. Strengths of the source
 
 - **Wide inventory** of **testable kitchen-scale protocols** (alignment, base completeness, EM hygiene).
 - **Honest debunking chapter** on fraudulent meters and exaggerated yields.
@@ -58,7 +75,7 @@ The authors do **not** develop Gothic cathedral physics. They **quote** comparat
 
 ---
 
-## 5. Secret box scam and controlled opposition (investigation framing)
+## 6. Secret box scam and controlled opposition (investigation framing)
 
 Kerrell and Goggin document a concrete grift: **“pyramid energy meters”** that are **empty theater**—either **non-functional** panels or, in one case they dissected, a **thermistor** (temperature sensor) **reboxed** as a secret instrument and sold at a huge markup, useless for the claimed effect. Honest debunkers in the book use this to warn buyers.
 
@@ -73,7 +90,7 @@ This does **not** require believing every scam was run by a single agency; it on
 
 ---
 
-## 6. Weaknesses and red flags
+## 7. Weaknesses and red flags
 
 - **Selection bias and commerce:** Authors ran a pyramid products company; conflicts of interest are inherent.
 - **Mariner “pyramids” / lunar “runways”:** Presented as NASA fact; later research and image analysis **dispute artificiality**. Treat as **historical curiosity**, not settled proof.
@@ -82,7 +99,7 @@ This does **not** require believing every scam was run by a single agency; it on
 
 ---
 
-## 7. Open questions
+## 8. Open questions
 
 - [ ] Locate **primary documents** for Drbal patent **91304** (Czech archives / patent database).
 - [ ] Literature review: **peer-reviewed** attempts to replicate razor, milk, or seed studies under **shielded** and **unshielded** conditions.
@@ -91,7 +108,7 @@ This does **not** require believing every scam was run by a single agency; it on
 
 ---
 
-## 8. Related site and timeline material
+## 9. Related site and timeline material
 
 - [Pyramids: Myths vs Reality](/timeline/evt-pyramids-myths-vs-reality)
 - [Pyramids: Myths vs Evidence (appendix)](/timeline/evt-pyramids-myths-evidence)
@@ -103,7 +120,7 @@ This does **not** require believing every scam was run by a single agency; it on
 
 ---
 
-## 9. Local working copy (author workspace)
+## 10. Local working copy (author workspace)
 
 PDF scan and exported illustration PNGs from the digitized book live under **`~/dev/wget/pyramids/`** (not part of this repo): `guide-to-pyramid-energy-kerrell-goggin-1977.pdf`, `extracted-images/*.png`. The **chapter summary** for the repo lives **next to this file**: [pyramid-energy-kerrell-goggin-1977-chapter-summaries.md](./pyramid-energy-kerrell-goggin-1977-chapter-summaries.md).
 
@@ -111,4 +128,4 @@ PDF scan and exported illustration PNGs from the digitized book live under **`~/
 
 ---
 
-Keywords: #pyramid #energy #kerrell #goggin #1977 #dowsing #great-pyramid #cathedral #investigation
+Keywords: #pyramid #energy #kerrell #goggin #1977 #habitability #great-pyramid #dark-ages #investigation
