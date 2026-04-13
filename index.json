@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-13T00:18:34Z"
+    "_updated": "2026-04-13T12:12:17Z"
   },
   "cosmos": {
     "cosmology": {
@@ -7124,13 +7124,13 @@
             "cathedral",
             "investigation"
           ],
-          "_updated": "2026-04-13T12:11:41Z"
+          "_updated": "2026-04-13T12:12:17Z"
         },
         "pyramid-energy-kerrell-goggin-1977-investigation.png": {
-          "_width": 1031,
-          "_height": 1678,
-          "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAwAgCdASoKABAABUB8JbACdLoAAZv9tCv0AAD0UyS/G9GopmsNeKzZzMhOD6JZCX6GExwmt7jzqDPiAU3298EDedNYLSxEZnOAAA==",
-          "_updated": "2026-04-13T12:10:47Z"
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsABUB8JagCdAEefxAdHnAAAPiyGNGGK0CWXS/I5bJwNJgmOzYoEqbqecHMjw1GJrse1wAAAA==",
+          "_updated": "2026-04-13T12:12:17Z"
         },
         "radiocarbon-dating-investigation.md": {
           "_title": "Investigation: Radiocarbon Dating \u2014 Dogmatic Adoption and the Electrical Activity Problem",
@@ -13850,5 +13850,5 @@
     "_count": 153
   },
   "_count": 1952,
-  "_version": "8861108"
+  "_version": "09bc525"
 }

@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:12:27.956Z",
+    "date": "2026-04-13T12:15:58.671Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.png",
+        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-13T12:12:17.000Z",
+    "message": "Add Kerrell & Goggin investigation cover image and timeline author links.",
     "files": [
       {
         "status": "A",
@@ -261,38 +273,6 @@
         "status": "M",
         "path": "scripts/generate-changelog.cjs",
         "href": "/scripts/generate-changelog.cjs"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-11T13:59:32.000Z",
-    "message": "Investigations: Libya stand-down/Benghazi file; war page index; Cruz, armed confrontations, blog, index",
-    "files": [
-      {
-        "status": "M",
-        "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
-        "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md",
-        "href": "/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/page.md",
-        "href": "/governance/war/investigations"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md",
-        "href": "/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation"
       }
     ]
   }
