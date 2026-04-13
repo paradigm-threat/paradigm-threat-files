@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-13T12:54:24Z"
+    "_updated": "2026-04-13T12:57:30Z"
   },
   "cosmos": {
     "cosmology": {
@@ -7222,13 +7222,13 @@
         },
         "view-over-atlantis-michell-investigation.md": {
           "_title": "Investigation: John Michell \u2014 *The View Over Atlantis* / *The New View Over Atlantis*",
-          "_updated": "2026-04-13T12:54:24Z"
+          "_updated": "2026-04-13T12:57:30Z"
         },
         "view-over-atlantis-michell-investigation.png": {
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAsABUB8JbACdADMhTSzkgAA8oicnJxU2MsH9H05RBOeSnp0hAC6UJhq6QVozMNHUow4ZiajS1EAAAA=",
-          "_updated": "2026-04-13T12:57:07Z"
+          "_updated": "2026-04-13T12:59:26Z"
         },
         "wells-crystal-egg-1666-beast-speculation.md": {
           "_title": "Investigation (speculative): Crystal Eggs, Mass Influence, and 1666 \u2014 *The Crystal Egg* as Cover Story?",
@@ -13877,5 +13877,5 @@
     "_count": 153
   },
   "_count": 1956,
-  "_version": "f3791f5"
+  "_version": "ae86260"
 }
