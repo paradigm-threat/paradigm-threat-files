@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-14T13:26:21.856Z",
+    "date": "2026-04-14T13:27:42.232Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
+        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-14T13:26:11.000Z",
+    "message": "Artemis II §5.5: cite X viral post, quote, archived phone-preview screenshot",
     "files": [
       {
         "status": "M",
@@ -278,18 +290,6 @@
         "status": "M",
         "path": "scripts/generate-changelog.cjs",
         "href": "/scripts/generate-changelog.cjs"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-12T13:57:38.000Z",
-    "message": "Merge atlanta2/main into main: resolve relay divergence without losing content",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
-        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
       }
     ]
   }
