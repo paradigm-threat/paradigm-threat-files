@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-14T23:41:39.095Z",
+    "date": "2026-04-14T23:54:26.542Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
+        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-14T23:41:28.000Z",
+    "message": "Investigation: TL;DR; §13 IRS legality, First Fruits 1534, Cold War/MIC",
     "files": [
       {
         "status": "M",
@@ -274,18 +286,6 @@
         "status": "M",
         "path": "history/chronology/investigations/text_formatted.md",
         "href": "/history/chronology/investigations/text_formatted"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-12T14:45:29.000Z",
-    "message": "Add Keywords line to High Poppy investigation (parity with sibling files)",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md",
-        "href": "/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation"
       }
     ]
   }
