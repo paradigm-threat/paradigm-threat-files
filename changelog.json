@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-14T23:32:30.088Z",
+    "date": "2026-04-14T23:41:39.095Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
+        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-14T23:32:16.000Z",
+    "message": "Investigation: §13 NASA institutional sentiment; fix hero image markdown",
     "files": [
       {
         "status": "M",
@@ -274,23 +286,6 @@
         "status": "M",
         "path": "influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md",
         "href": "/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-12T14:20:56.000Z",
-    "message": "Add High Poppy investigation with header image",
-    "files": [
-      {
-        "status": "A",
-        "path": "influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md",
-        "href": "/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.png",
-        "href": "/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.png"
       }
     ]
   }
