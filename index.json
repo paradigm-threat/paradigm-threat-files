@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-13T12:59:37Z"
+    "_updated": "2026-04-14T11:53:58Z"
   },
   "cosmos": {
     "cosmology": {
@@ -6885,6 +6885,27 @@
           ],
           "_updated": "2026-04-10T22:29:47Z"
         },
+        "artemis-ii-faith-test-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAsABUB8JaACdAD50GSggAD+v7EJkDkygBqXkknFBGduNfXOGnAeWaL8KlbSqMOqy7bEjfpaPaAA",
+          "_updated": "2026-04-14T12:18:55Z"
+        },
+        "artemis-ii-mission-as-faith-test-investigation.md": {
+          "_title": "Investigation: Artemis II \u2014 Mission as Faith Test, Staged-Production Readings, and Foreign-Press Patterns",
+          "_keywords": [
+            "artemis",
+            "nasa",
+            "moon",
+            "faith",
+            "hoax",
+            "divide",
+            "conquer",
+            "chronology",
+            "investigation"
+          ],
+          "_updated": "2026-04-14T12:19:31Z"
+        },
         "creation-event-interpretations.md": {
           "_title": "Creation Event Interpretations Across Religions",
           "_keywords": [
@@ -7030,7 +7051,7 @@
         },
         "les-brown-pyramid-chapter-summaries.md": {
           "_title": "Les Brown \u2014 *The Pyramid: How to Build It, How to Use It* \u2014 chapter index and summaries",
-          "_updated": "2026-04-14T11:52:51Z"
+          "_updated": "2026-04-14T11:53:58Z"
         },
         "myth-creatures-textual-record-human-extirpation-investigation.md": {
           "_title": "Investigation (concluded): Griffins and other \u201cmyth\u201d fauna in sober historical texts \u2014 extinction by human pressure?",
@@ -7208,13 +7229,13 @@
         },
         "the-pyramid-les-brown-investigation.md": {
           "_title": "Investigation: Les Brown \u2014 *The Pyramid: How to Build It, How to Use It*",
-          "_updated": "2026-04-14T11:52:56Z"
+          "_updated": "2026-04-14T11:53:58Z"
         },
         "the-pyramid-les-brown-investigation.png": {
           "_width": 1224,
           "_height": 1584,
           "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoMABAABUB8JQAAXa/t8hQAAP7giOgxdostxzrzN/tk7xAAAAA=",
-          "_updated": "2026-04-14T11:52:42Z"
+          "_updated": "2026-04-14T11:53:58Z"
         },
         "two-branches-christianity-fomenko-vs-author.md": {
           "_title": "Two Branches of Christianity: Fomenko vs. Paradigm Threat",
@@ -7273,7 +7294,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 37
+        "_count": 39
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -8219,7 +8240,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 263
+      "_count": 265
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -10141,7 +10162,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 561
+    "_count": 563
   },
   "influence": {
     "censorship": {
@@ -13890,6 +13911,6 @@
     },
     "_count": 153
   },
-  "_count": 1959,
-  "_version": "a45285e"
+  "_count": 1961,
+  "_version": "55f7b71"
 }
