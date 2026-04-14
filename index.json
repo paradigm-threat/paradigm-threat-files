@@ -490,7 +490,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-14T23:41:28Z"
+    "_updated": "2026-04-14T23:54:13Z"
   },
   "cosmos": {
     "cosmology": {
@@ -6911,10 +6911,11 @@
             "hoax",
             "divide",
             "conquer",
+            "revelation-of-the-method",
             "chronology",
             "investigation"
           ],
-          "_updated": "2026-04-14T23:41:28Z"
+          "_updated": "2026-04-14T23:54:13Z"
         },
         "artemis-ii-walkout-phone-preview-discrepancy-illustration.png": {
           "_width": 1536,
@@ -13934,5 +13935,5 @@
     "_count": 153
   },
   "_count": 1965,
-  "_version": "57ef180"
+  "_version": "5b80813"
 }
