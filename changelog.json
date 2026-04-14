@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-14T13:30:04.264Z",
+    "date": "2026-04-14T23:32:30.088Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
+        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-14T13:29:53.000Z",
+    "message": "Artemis II §5.5: add X longer-mirror URL for phone-preview walkout clip",
     "files": [
       {
         "status": "M",
@@ -281,11 +293,5 @@
         "href": "/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.png"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-12T14:11:21.000Z",
-    "message": "chore: refresh changelog.json after validation",
-    "files": []
   }
 ]
