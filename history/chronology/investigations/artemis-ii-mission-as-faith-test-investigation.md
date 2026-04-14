@@ -141,7 +141,66 @@ These are **political-strategic** extensions, not technical proofs:
 
 - [April First and the Test of Faith — illustration companion copy & annotated callouts](/history/chronology/investigations/artemis-ii-april-first-faith-test-illustration-article.md) (wide image prompt block + six label texts)
 - [British divide-and-conquer — pattern frame](/governance/war/investigations/british-divide-conquer-israel-investigation.md)
-- [Gnosis vs agnosticism — faith after “planet gods”](/history/chronology/investigations/gnostic-vs-agnostic-theism-atheism-after-planet-gods.md)
+- [Gnosis vs agnosticism — faith after “planet gods”](/history/chronology/investigations/gnostic-vs-agnostic-theism-after-planet-gods.md)
+
+---
+
+## 10. Debunk corpus — extended citations and debunkers’ main stated reasons
+
+### 10.1 Additional online citations (pro–official narrative / anti–hoax claim)
+
+These sources **defend** the mission’s authenticity or **explain away** viral “evidence” of staging. Listed for **inventory**; inclusion is **not** endorsement by this file.
+
+| Source | URL |
+|--------|-----|
+| **AFP Fact Check** — Rise plush / broadcast overlay | [Artemis II broadcast error… staged](https://factcheck.afp.com/doc.afp.com.A6WV668) |
+| **AFP Fact Check** — AI “Apollo vs Artemis” Earth juxtaposition | [AI Earth images drive Artemis mission conspiracy theories](https://factcheck.afp.com/doc.afp.com.A7233KE) |
+| **FRANCE 24** — *Truth or Fake* (article) | [NASA's Artemis II: conspiracy theories… staged green screen](https://www.france24.com/en/tv-shows/truth-or-fake/20260409-nasa-s-artemis-ii-conspiracy-theories-take-off-about-staged-green-screen) |
+| **ITV News** — overview + expert quotes | [Moon mission or massive hoax? Why Artemis II reignited space conspiracy theories](https://www.itv.com/news/2026-04-10/moon-mission-or-massive-hoax-why-artemis-ii-reignited-space-conspiracy-theories) |
+| **IBTimes UK** — Rise clip mechanics | [Artemis II green screen glitch conspiracy](https://www.ibtimes.co.uk/artemis-ii-green-screen-glitch-conspiracy-1790582) |
+| **Digital Camera World** — AI “evidence” | [Viral photos… are actually AI fakes](https://www.digitalcameraworld.com/tech/artificial-intelligence/viral-photos-being-used-to-claim-artemis-ii-footage-is-fake-are-actually-ai-fakes-themselves-oh-the-irony) |
+| **Snopes** — moon rumor collection (Artemis II–era update) | [Fly me to the truth: 15 moon claims, fact-checked](https://www.snopes.com/collections/moon-rumors/) |
+| **Reuters Fact Check** — trajectory / Apollo comparison meme | [Artemis I trajectory vs Apollo 11 not proof of hoax](https://www.reuters.com/article/fact-check/lengthier-artemis-i-trajectory-toward-moon-compared-to-apollo-11-is-not-proof-that-space-travel-is-a-hoax-idUSL1N32W1KI/) (notes flat-Earth-adjacent meme spread) |
+| **Reuters Fact Check** — no stars in spacecraft photos | [Stars not routinely visible… exposure](https://www.reuters.com/article/factcheck-artemis-space/fact-check-stars-not-routinely-visible-in-photographs-taken-from-spacecraft-due-to-light-exposure-on-earth-and-moon-idUSL1N32X1XR/) |
+| **Third-party blog** — chroma / Rise (aggregated tone) | [Debunking the Artemis II Green Screen Hoax — Allimmunology.org](https://allimmunology.org/article/debunking-the-artemis-ii-green-screen-hoax-what-really-happened) |
+
+**Already listed in §4:** CBS19/AFP wire, FRANCE 24 YouTube segment, NPR/Space.com/BBC Sky at Night as **mainstream** mission narrative.
+
+### 10.2 Synthetic checklist — what debunkers **most often** assert (reasons the mission was *not* fake)
+
+Drawn from the sources above; **grouped by claim type**:
+
+1. **Rise plush / “text on toy”:** Not present on **primary** CNN / VideoFromSpace uploads; anomaly = **broadcaster overlay failure** or chroma interaction with **blue** on the toy (expert: Hany Farid, AFP). **Not** NASA camera master.
+2. **Viral path:** Clip is **second-generation** (phone → TV) and/or **re-encoded / edited** before share; **not** the clean feed (IBTimes, FRANCE 24).
+3. **Wire-suspension / harness videos:** **AI-generated**; **SynthID** or similar flags (ITV, AFP, Digital Camera World, FRANCE 24).
+4. **Far-side / lunar stills “wrong light”:** **NASA** statement on **Sun–Moon–spacecraft alignment** and visible fraction of far side; not “proof” of studio lighting (ITV).
+5. **Apollo comparison memes (timing, trajectory):** Different **mission design** vs Apollo; meme is **missing context** (Reuters, Artemis I fact check).
+6. **No stars:** **Exposure** / dynamic range; bright foreground washes faint stars (Reuters, standard astronomy explanation).
+7. **Side-by-side Earth “same clouds”:** Image **not** from official NASA galleries; **AI / Gemini** watermarking (AFP A7233KE).
+8. **Green screen as technique:** **Chroma key** is normal **TV production** vocabulary; conspiracy accounts **misread** studio grammar as if it implied Orion was on a soundstage (IBTimes explainer tone).
+9. **Meta narrative:** Spike in theories reflects **institutional distrust** and **AI-fueled** doubt of **real** footage (ITV academic framing), not a independent proof of hoax.
+
+**Investigation use:** This checklist is the **debunk industry’s** shared playbook as of April 2026. It is the baseline against which **§11** asks whether the **same economy** that funds **conspiracy entertainment** also funds **debunk entertainment**.
+
+---
+
+## 11. For-profit debunk vs for-profit conspiracy (controlled opposition hypothesis)
+
+**Author thesis (hypothesis):** The **attention economy** does not cleanly separate **“responsible debunkers”** from **“irresponsible conspiracists.”** Both live on **views, shares, subscriptions, donations, and ad impressions**. Packages like **ITV’s** explainer, **FRANCE 24** (*Truth or Fake*), **Snopes** listicles, and **AFP** fact-check articles are **professionally produced content** with **entertainment pacing** (hook → viral clip → expert → resolution). **Serious forensic closure** (primary-feed chain of custody, independent ranging) is **not** the product being sold; **emotional resolution** for one faction is.
+
+**Controlled opposition read (speculative):** Outlets that **appear** to oppose the hoax narrative may still **function** as **managed pressure release**—the same **algorithmic trough** where a viewer, after **accepting** the debunk, is **recommended** toward **flat Earth**, **Mandela Effect**, **ancient aliens**, **time travel**, etc., and where a viewer who **rejects** the debunk is **recommended** toward **the same** fringe cluster from the **opposite** door. **Neither** path produces **coalition** or **primary-source discipline**; both produce **engagement**.
+
+**Pattern (author):** Hosts who **gain** an audience among **NASA-skeptical** viewers often **migrate** those viewers to **adjacent** high-engagement hoaxes—**not** because of a single provable handler, but because **platform incentives** and **content bundles** **reward** **topic drift**. **Investigation label:** **economic isomorphism** between debunk and conspiracy channels, **not** proof any named journalist is a **literal** agent.
+
+---
+
+## 12. April 1 launch timing; “fool-proof” rollout; Trump / Iran (speculative)
+
+**April 1 (author):** Given the **degree of narrative packaging** (viral contradictions + **immediate** fact-check saturation), there is **no compelling reason** in this file to treat **April 1** as **accidental** symbolism. **Fool’s Day** alignment is recorded as **plausibly intentional**—a **wink** to **in-group** confidence that the **public** can be **sorted** into predictable buckets (**faith**, **mockery**, **debunk virtue**). **Not** a cryptographic proof.
+
+**“Fool-proof” audience model (author):** The **aggression** of the rollout (volume of **AI slop**, **clip** volume, **speed** of institutional debunk) suggests **confidence** that **audience behavior** stays within **modeled** bands: **cheer**, **meme**, **debunk share**, **fringe argue**—with **no** mass **primary-source** pivot. **Hypothesis** only.
+
+**Trump / Iran / credibility (speculative, April 2026 context):** A sitting president who **needs** maximum **credibility** on a **hot** **Middle East / Iran** file may **rationally avoid** picking a fight with **NASA** and **allied** space narratives—**independent** of what he **privately** believes. This file **does not** claim knowledge of any leader’s **inner belief**; it notes **incentive** not to **amplify** moon-hoax discourse when **other** crises **consume** political capital. **Open:** public statements by **White House** / **campaign** on Artemis II during the window (to be sourced if added later).
 
 ---
 

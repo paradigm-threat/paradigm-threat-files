@@ -486,7 +486,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-14T11:53:58Z"
+    "_updated": "2026-04-14T12:20:37Z"
   },
   "cosmos": {
     "cosmology": {
@@ -6889,7 +6889,7 @@
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAsABUB8JaACdAD50GSggAD+v7EJkDkygBqXkknFBGduNfXOGnAeWaL8KlbSqMOqy7bEjfpaPaAA",
-          "_updated": "2026-04-14T12:18:55Z"
+          "_updated": "2026-04-14T12:20:37Z"
         },
         "artemis-ii-mission-as-faith-test-investigation.md": {
           "_title": "Investigation: Artemis II \u2014 Mission as Faith Test, Staged-Production Readings, and Foreign-Press Patterns",
@@ -6904,7 +6904,7 @@
             "chronology",
             "investigation"
           ],
-          "_updated": "2026-04-14T12:19:31Z"
+          "_updated": "2026-04-14T12:20:37Z"
         },
         "creation-event-interpretations.md": {
           "_title": "Creation Event Interpretations Across Religions",
@@ -7011,7 +7011,7 @@
           "_keywords": [
             "article"
           ],
-          "_updated": "2026-04-05T12:17:42Z"
+          "_updated": "2026-04-14T12:20:37Z"
         },
         "index-offenbarung.md": {
           "_title": "Die Offenbarung Johannis \u2014 English Index",
@@ -13912,5 +13912,5 @@
     "_count": 153
   },
   "_count": 1961,
-  "_version": "55f7b71"
+  "_version": "8a00796"
 }
