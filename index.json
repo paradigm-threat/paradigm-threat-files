@@ -463,6 +463,10 @@
       "_title": "Jade Helm and Cruz / Kevin investigations; Venus probes; Relay branch policy; Paradigm site TTS; Forgotten Future GitLab Pages \u2014 April 2026",
       "_updated": "2026-04-10T12:00:00Z"
     },
+    "2026-04-14-pyramid-artemis-investigations-ae911truth-site-share-og.md": {
+      "_title": "Pyramid-stack and Artemis II investigations; AE911Truth file; war and suppression files; timeline appendix cites; site share modal, `/files` proxy, and OG descriptions \u2014 April 2026",
+      "_updated": "2026-04-14T12:00:00Z"
+    },
     "page.md": {
       "_title": "Blog",
       "_keywords": [
@@ -470,7 +474,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 33
+    "_count": 34
   },
   "book": {
     "page.md": {
@@ -486,7 +490,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-14T12:30:30Z"
+    "_updated": "2026-04-14T12:59:23Z"
   },
   "cosmos": {
     "cosmology": {
@@ -6840,6 +6844,12 @@
         "_lqip": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAQCdASoQAAwABUB8JZwAAveIhXaAAP7pIYLAlK/NOgi42AAAAA==",
         "_updated": "2026-01-16T01:04:59Z"
       },
+      "giant-mountains.png": {
+        "_width": 1440,
+        "_height": 1440,
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQABAABUB8JQBdgCP9+G0SgAD5Ugfh7NnPEW8OJSX6/he+qXIWE6/X0E/570WwfnpbH3h9XD940mpaAAA=",
+        "_updated": "2026-04-14T13:03:39Z"
+      },
       "global-atlantean-maritime-empire.jpg": {
         "_width": 1365,
         "_height": 2048,
@@ -6904,7 +6914,7 @@
             "chronology",
             "investigation"
           ],
-          "_updated": "2026-04-14T12:30:30Z"
+          "_updated": "2026-04-14T12:59:23Z"
         },
         "creation-event-interpretations.md": {
           "_title": "Creation Event Interpretations Across Religions",
@@ -8240,7 +8250,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 265
+      "_count": 266
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -10162,7 +10172,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 563
+    "_count": 564
   },
   "influence": {
     "censorship": {
@@ -13911,6 +13921,6 @@
     },
     "_count": 153
   },
-  "_count": 1961,
-  "_version": "71ff3b8"
+  "_count": 1963,
+  "_version": "08bc13a"
 }

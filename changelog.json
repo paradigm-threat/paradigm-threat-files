@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-14T12:59:35.247Z",
+    "date": "2026-04-14T13:20:51.319Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "blog/2026-04-14-pyramid-artemis-investigations-ae911truth-site-share-og.md",
+        "href": "/blog/2026-04-14-pyramid-artemis-investigations-ae911truth-site-share-og"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-14T12:59:23.000Z",
+    "message": "Artemis II §5.5: repeat search negative; call for witnesses to contact maintainer",
     "files": [
       {
         "status": "M",
@@ -280,11 +292,5 @@
         "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-12T12:51:26.000Z",
-    "message": "chore: regenerate index.json and changelog.json",
-    "files": []
   }
 ]
