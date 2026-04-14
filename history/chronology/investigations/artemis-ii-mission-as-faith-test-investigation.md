@@ -111,7 +111,14 @@ Crew video is **downlinked, encoded, re-broadcast, re-compressed**. A smartphone
 - **Scene:** Astronauts in **bright orange / International Orange** suits (reading as **red-orange** on camera) **among spectators** at walkout-style event; people hold **phones** to film.
 - **Claimed anomaly:** On at least one phone’s **live preview** / viewfinder, the **framing does not match** what the eye sees—**little or no orange/red**; instead a **dark silhouette** or **single figure** reading as **generic** vs the **vivid suited crew** in the real scene. Annotated reposts circle the phone and zoom the preview to stress the mismatch.
 
-**Primary citation (X / Twitter):** [Post status `2043936717103665271`](https://x.com/i/status/2043936717103665271) — **archive this URL** (e.g. archive.today) when possible; X links **rot**.
+**Primary citations (X / Twitter) — same walkout / phone-preview issue, different posts:**
+
+| Role | Status ID | Link |
+|------|-----------|------|
+| Annotated / quoted repost | `2043936717103665271` | [x.com/i/status/2043936717103665271](https://x.com/i/status/2043936717103665271) |
+| **Longer mirror** (fuller clip / context) | `2043861546057773398` | [x.com/i/status/2043861546057773398](https://x.com/i/status/2043861546057773398) |
+
+**Archive** both (e.g. archive.today); X links **rot**.
 
 **Quoted overlay / caption from the viral chain (English translation of the thesis, not independent verification):**
 
@@ -136,7 +143,7 @@ Crew video is **downlinked, encoded, re-broadcast, re-compressed**. A smartphone
 
 **Search log (open web, April 2026):**
 
-- The **X status ID** for [the primary post](https://x.com/i/status/2043936717103665271) did **not** surface in generic web search indexes (common for **ephemeral** social URLs). Discovery remains **direct link**, **screenshot**, or **in-repo** archive.
+- The **X status IDs** for [post 1](https://x.com/i/status/2043936717103665271) and [post 2 (longer mirror)](https://x.com/i/status/2043861546057773398) did **not** surface in generic web search indexes (common for **ephemeral** social URLs). Discovery remains **direct link**, **screenshot**, or **in-repo** archive.
 - **Artemis II — “glitch” / hoax coverage** in mainstream and fact-check outlets **does not** address the **walkout + spectator phone preview** thesis. Articles cluster on **(a)** **Rise / CNN** interview and **phone-filming-TV**, **(b)** **AI** green-screen **stills**, **(c)** **SynthID**. Examples (same cluster as §4 / §10): [AFP — broadcast error / staged claim](https://factcheck.afp.com/doc.afp.com.A6WV668); [FRANCE 24 — Truth or Fake](https://www.france24.com/en/tv-shows/truth-or-fake/20260409-nasa-s-artemis-ii-conspiracy-theories-take-off-about-staged-green-screen); [PRIMETIMER — “video glitch” / false claims](https://www.primetimer.com/features/artemis-ii-video-glitch-sparks-false-claims-that-nasa-mission-was-fake) (still **Rise/broadcast-layer** framing in the fact-check ecosystem, **not** walkout preview); [Digital Camera World — AI “evidence”](https://www.digitalcameraworld.com/tech/artificial-intelligence/viral-photos-being-used-to-claim-artemis-ii-footage-is-fake-are-actually-ai-fakes-themselves-oh-the-irony).
 
 **General smartphone “preview vs what you get” (not NASA-specific):** Users often report **live preview** differing from **saved** image—**HDR**, **exposure**, **compression**, **display** gamut. Discussion threads (illustrative, not peer-reviewed): [Quora — preview vs saved quality](https://www.quora.com/Is-it-just-me-who-thinks-the-quality-of-photos-is-better-in-preview-of-camera-particularly-smartphone-camera-and-the-quality-decreases-when-you-see-the-saved-image); [Straight Dope — preview vs final](https://boards.straightdope.com/t/why-do-my-phone-digital-camera-pictures-look-different-from-the-preview-screen/660535). **Apple Support Community** threads on **washed / wrong colors** in close-ups and **HDR** rendering (e.g. [washed color close-ups](https://discussions.apple.com/thread/254601222), [Photos HDR rendering](https://discussions.apple.com/thread/251965469)) — **lock exposure** is a common mitigation. **Adobe / Premiere** community notes on **iPhone HDR (HLG)** vs **SDR monitors** explain **systematic** “looks wrong off-phone” effects ([example thread](https://community.adobe.com/questions-729/making-your-iphone-12-and-13-footage-look-normal-avoiding-blown-out-footage-1387063)).
@@ -173,7 +180,7 @@ These are **political-strategic** extensions, not technical proofs:
 2. **Primary foreign ministry statements:** Did any **G20** foreign ministry or **space agency** issue **congratulations or silence** that diverges from expected diplomacy?
 3. **Leak taxonomy:** Can viral artifacts be **fully explained** by **broadcast chains** + **AI slop**, or is there a **residual set** that survives **highest-quality primary feed** comparison?
 4. **Workforce sociology:** Analogy to fiction aside, what **contractor incentives** and **NDA / clearance** structures shape **what ground crews can say**?
-5. **Crowd / phone-preview clip (§5.5):** **Primary:** [X post](https://x.com/i/status/2043936717103665271); **screenshot** in-repo. Optional: **archive.today** snapshot of URL; **independent** frame analysis vs official walkout **broadcast** if primary video file obtained.
+5. **Crowd / phone-preview clip (§5.5):** **X:** [annotated repost](https://x.com/i/status/2043936717103665271), [longer mirror](https://x.com/i/status/2043861546057773398); **screenshot** in-repo. Optional: **archive.today** of both URLs; **independent** frame analysis vs official walkout **broadcast** if primary video file obtained.
 
 ---
 
