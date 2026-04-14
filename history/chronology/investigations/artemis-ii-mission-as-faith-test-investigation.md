@@ -104,29 +104,33 @@ Crew video is **downlinked, encoded, re-broadcast, re-compressed**. A smartphone
 
 - If ambiguity were **useful**, **no additional** stage fakery would be **required** for every row of pixels—**distribution** alone manufactures **fight fodder**. The public still **never** gets **unmediated** phone video **from orbit** in Twitter threads; it gets **products**.
 
-### 5.5 Maintainer “HARD LIE” clip — crowd, phones, preview vs orange/red suits (**citation search: not found in major press**)
+### 5.5 “HARD LIE” clip — crowd, phones, preview vs orange/red suits (**primary post located**)
 
-**What the maintainer describes (eyewitness to a specific viral video, not the Rise/CNN line):**
+**What the maintainer describes (the viral line, not the Rise/CNN story):**
 
-- **Scene:** Four astronauts in **orange/red** launch-and-entry suits (Orion **International Orange** reads as reddish-orange on many screens) **standing before a crowd**; people in the crowd hold up **phones** filming.
-- **Claimed anomaly:** On the **phone preview screens** (the live viewfinder / rear-screen), the **scene does not show** the four suited figures in color as the eye sees them—e.g. **no orange/red** in-frame; instead a **generic graphic of a single person** (or one figure) that **stays locked** so that **tilting or moving** the phone **does not change** the relationship—always that **one** synthetic-looking subject.
+- **Scene:** Astronauts in **bright orange / International Orange** suits (reading as **red-orange** on camera) **among spectators** at walkout-style event; people hold **phones** to film.
+- **Claimed anomaly:** On at least one phone’s **live preview** / viewfinder, the **framing does not match** what the eye sees—**little or no orange/red**; instead a **dark silhouette** or **single figure** reading as **generic** vs the **vivid suited crew** in the real scene. Annotated reposts circle the phone and zoom the preview to stress the mismatch.
+
+**Primary citation (X / Twitter):** [Post status `2043936717103665271`](https://x.com/i/status/2043936717103665271) — **archive this URL** (e.g. archive.today) when possible; X links **rot**.
+
+**Quoted overlay / caption from the viral chain (English translation of the thesis, not independent verification):**
+
+> We knew that astronauts didn't actually board the rocket and that the footage inside the rocket was studio work, but this footage is legendary:  
+> In the scene where the astronauts begin their journey toward the rocket, the spectators are taking photos, but the astronauts aren't visible in the camera view of their phones. Even this scene isn't real.
+
+**Screenshot archived in this repo** (annotated still: crowd, **Space.com**-branded source corner, phone circled “here,” inset zoom on preview showing **dark silhouette** vs **orange suits** in-scene):
+
+![Artemis II walkout — phone preview vs suits (annotated viral still)](artemis-ii-walkout-phone-preview-discrepancy-screenshot.png)
 
 **Investigation status:** This is the **specific** incident behind the maintainer’s **HARD LIE** reaction to **glib** “phones filming TVs / subpixels” debunks when applied to **this** clip: the objection is **not** “moiré on a TV,” it is **preview pipeline vs physical scene** in a **crowd** context.
 
-**Citation search (web + fact-check inventory, April 2026):**
+**Fact-check gap (unchanged in kind):** As of this writing, **no** AFP / Reuters / BBC Verify / FRANCE 24 / ITV / IBTimes / Digital Camera World / Snopes article has been seen that **names this walkout-preview claim** or **debunks it under this description** (they still cluster on Rise, AI stills, SynthID). That **absence** is **not** proof the claim is true; it is a **catalogue** gap.
 
-- **No** AFP, Reuters, BBC Verify, FRANCE 24, ITV, IBTimes, Digital Camera World, or Snopes article was found that **names** this exact **crowd + phone preview + wrong single-subject graphic** video or **debunks** it under that description.
-- Press and fact-check **clusters** instead center on: **(a)** the **Rise** plush / CNN interview / **phone filming a TV**, **(b)** **AI** green-screen / harness **still images** (often **TikTok**), **(c)** **SynthID**-flagged fakes. Examples touching **four astronauts + green screen** language but **not** preview behavior: [Digital Camera World — AI fakes](https://www.digitalcameraworld.com/tech/artificial-intelligence/viral-photos-being-used-to-claim-artemis-ii-footage-is-fake-are-actually-ai-fakes-themselves-oh-the-irony), [Yahoo Tech reprint](https://tech.yahoo.com/science/articles/oh-irony-viral-photos-being-075500607.html) (same story).
+**Closest “official” video of the *same kind of scene* (four suited crew, crowd, phones—April 1, 2026 walkout):** [NBC News — crew greets crowds](https://www.youtube.com/watch?v=rxUtgfltbu4), [VideoFromSpace — walkout and drive to pad](https://www.youtube.com/watch?v=fJBHhDx5ZoY), [NASA still — Artemis II Walkout](https://www.nasa.gov/image-detail/artemis-ii-walkout/). Compare **primary** broadcast **to** the viral post **frame-by-frame** if disputing compositing.
 
-**Closest “official” video of the *same kind of scene* (four suited crew, crowd, phones—April 1, 2026 walkout):** No fact-check discusses phone-preview behavior; these are **primary-adjacent** for **setting** only: [NBC News — crew greets crowds](https://www.youtube.com/watch?v=rxUtgfltbu4), [VideoFromSpace — walkout and drive to pad](https://www.youtube.com/watch?v=fJBHhDx5ZoY), [NASA still — Artemis II Walkout](https://www.nasa.gov/image-detail/artemis-ii-walkout/). A maintainer-claimed **preview defect** would have to be demonstrated against **crowd-sourced** or **reuploaded** material, not necessarily these **broadcast** exports.
+**Non-committal technical hypotheses (not conclusions):** Odd preview behavior could in principle include **exposure / HDR** crushing color on the **rear screen** while the **saved file** differs, **portrait / subject-tracking** UI, **reflection** of a different subject, **compression** in a **reupload chain**, or **edited** viral still—each needs **file-level** analysis. This file **does not** pick one without **primary** video file and **sensor** metadata.
 
-**Conclusion for the file until primary evidence arrives:** Treat this clip as **unindexed** by establishment debunkers—either **too niche**, **non-English / short-lived**, **delisted**, or **only on private shares**.
-
-**Repeat search:** A **later** pass (same query family: Artemis II, crowd, phones, preview, walkout, astronauts) **again** did **not** surface this specific viral video in the open web or in fact-check corpora.
-
-**Call for witnesses:** If **you** have seen **this** video—or **anything that matches** the bullet description above (four suited crew, crowd with phones, preview/viewfinder **not** matching the real scene, generic single-subject graphic, etc.)—please **contact the maintainer who authored this investigation** through your **usual Paradigm Threat** site or **paradigm-threat-files** repo channel (same path you would use for other contributions or corrections). Send **URL**, **archive.org** link, **platform + date + title**, or offer a **file** so it can be cited and archived here. Without primary media, this subsection stays **witness-only** and **does not** validate or invalidate the preview claim.
-
-**Non-committal technical hypotheses (not conclusions):** If a genuine video existed, odd preview behavior could in principle include **depth / portrait segmentation** bugs, **demo or AR layer** left on, **screen-recording of another app**, or **fully synthetic** viral fabrication—each would need **file-level** analysis. This file **does not** pick one without **primary** media.
+**Witnesses:** Additional **mirrors**, **archives**, or **provenance** for the X post are still welcome via usual **Paradigm Threat** / repo channels.
 
 ---
 
@@ -158,7 +162,7 @@ These are **political-strategic** extensions, not technical proofs:
 2. **Primary foreign ministry statements:** Did any **G20** foreign ministry or **space agency** issue **congratulations or silence** that diverges from expected diplomacy?
 3. **Leak taxonomy:** Can viral artifacts be **fully explained** by **broadcast chains** + **AI slop**, or is there a **residual set** that survives **highest-quality primary feed** comparison?
 4. **Workforce sociology:** Analogy to fiction aside, what **contractor incentives** and **NDA / clearance** structures shape **what ground crews can say**?
-5. **Crowd / phone-preview clip (§5.5):** Still **not** relocated in repeat search; obtain **archived URL** or **file** via **witness contact** (see §5.5 call for witnesses); optional **independent** frame analysis if primary media is available.
+5. **Crowd / phone-preview clip (§5.5):** **Primary:** [X post](https://x.com/i/status/2043936717103665271); **screenshot** in-repo. Optional: **archive.today** snapshot of URL; **independent** frame analysis vs official walkout **broadcast** if primary video file obtained.
 
 ---
 

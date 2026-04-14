@@ -1,8 +1,25 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-14T13:20:51.319Z",
+    "date": "2026-04-14T13:26:21.856Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
+        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-screenshot.png",
+        "href": "/history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-screenshot.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-14T13:20:40.000Z",
+    "message": "blog: 2026-04-14 pyramid, Artemis, AE911Truth, site share/OG (git log since 2026-04-11)",
     "files": [
       {
         "status": "A",
@@ -273,23 +290,6 @@
         "status": "M",
         "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
         "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-12T13:54:18.000Z",
-    "message": "Gage/AE911Truth investigation: nonprofit timeline, open-air prison thesis, third header image",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
-        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
-      },
-      {
-        "status": "A",
-        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png",
-        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png"
       }
     ]
   }
