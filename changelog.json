@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:59:48.146Z",
+    "date": "2026-04-14T11:54:09.058Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/les-brown-pyramid-chapter-summaries.md",
+        "href": "/history/chronology/investigations/les-brown-pyramid-chapter-summaries"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/the-pyramid-les-brown-investigation.md",
+        "href": "/history/chronology/investigations/the-pyramid-les-brown-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/the-pyramid-les-brown-investigation.png",
+        "href": "/history/chronology/investigations/the-pyramid-les-brown-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-13T12:59:37.000Z",
+    "message": "docs(investigations): hero image for Michell View Over Atlantis",
     "files": [
       {
         "status": "M",
@@ -247,18 +269,6 @@
         "path": ".husky/post-commit",
         "href": "/.husky/post-commit"
       },
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
-        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-12T12:42:01.000Z",
-    "message": "Investigations: remove duplicate AE911Truth header image embed",
-    "files": [
       {
         "status": "M",
         "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
