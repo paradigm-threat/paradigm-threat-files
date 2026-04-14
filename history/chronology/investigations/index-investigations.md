@@ -4,7 +4,7 @@ Investigations in this folder address chronology-related claims, creation dates,
 
 | Investigation | Topic |
 |---------------|-------|
-| [Artemis II — mission as faith test, staged-production readings](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) | **Open:** NASA Artemis II media event as loyalty test vs science milestone; viral “green screen” wave; AFP/BBC/France 24 debunks; phone-off-TV; foreign-press hoax silence; divide-and-conquer |
+| [Artemis II — mission as faith test, staged-production readings](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) | **Open:** §0 Revelation of the Method spine (predictive compliance, sloppiness-as-engine, tax lock); faith test vs science milestone; viral green-screen wave; HARD LIE / phone-preview thread; debunk corpus; April 1; institutional NASA §13 (IRS, church/Crown, MIC) |
 | [April First & test of faith — illustration article + generator paste-block](/history/chronology/investigations/artemis-ii-april-first-faith-test-illustration-article.md) | Companion essay, six annotated callouts for wide art, safe `<content>` paragraph for image tools |
 | [Creation Event Interpretations](/history/chronology/investigations/creation-event-interpretations.md) | How religions describe creation; order of creation; first human |
 | [Creation Dates Validation](/history/chronology/creation-dates-validation.md) | Validation of Jno Cook's creation date claims |

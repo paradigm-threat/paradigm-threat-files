@@ -2,7 +2,7 @@
 
 ![Artemis II — April 1st / test of faith (illustration)](artemis-ii-faith-test-investigation.png)
 
-> **TL;DR:** This file models Artemis II’s **media surface** as a **test of faith** whose **output** is a **predictable, compliant reaction across the whole audience**—**cheerleaders**, **neutrals**, and **skeptics** alike—without requiring everyone to **believe** the same thing. **How it works:** the rollout **front-loads** **sloppiness**, **contradictions**, and **hoax-readable** glitches so that **exposure** (real or apparent) becomes the **engine** of engagement: supporters **resolve** doubt with institutional narrative; skeptics **burn cycles** on **complaint**, **debunk**, and **forensics** that **never** **default** to **withholding** **federal** **tax** **from** **NASA’s** **share** of the **budget**. That split is **aggressive Revelation of the Method**: **partial disclosure**—**sloppy** **seams** **and** **contradictions** **on** **display**—that **still** **predicts** **compliance** **across** **roles**: **believers** **rally** **again** **to** **narrative**; **skeptics** **amplify** **outrage** **yet** **remain** **compulsory** **tax** **funders** of the **same** **agency** they **attack** **online**. The rest of the file (**§1–§12**) maps **mainstream**, **debunk**, **foreign press**, and **April 1** packaging; **§13** covers **institutional NASA**, **IRS**/**tax** **coercion**, and **church**/**Crown** **analogies**. **Not** a proof that any **launch** was **staged**.
+> **TL;DR:** **§0** states the **Revelation of the Method (RoM)** **spine** in full; this block compresses it. Artemis II’s **media surface** is modeled as a **test of faith** whose **designed output** is **predictable, role-wise compliance** across **cheerleaders**, **neutrals**, and **skeptics**—**without** **shared** **belief**. **Mechanism:** **front-loaded** **sloppiness**, **contradictions**, and **hoax-readable** glitches so **exposure** (real or apparent) **drives** engagement; supporters **take** institutional **closure**; skeptics **burn** **cycles** on **complaint** / **debunk** / **forensics** that **rarely** **convert** into **lawful** **tax** **withholding** against **NASA’s** **budget** **share**. That is **aggressive RoM**: **partial disclosure** with **seams** **visible**, **behavior** still **locked**—**outrage** **online**, **tax** **still** **flows** (**§13**). **§1–§12** carry **mainstream** coverage, **viral**/**debunk** **forensics**, **foreign** **press**, **debunk** **corpus**, **April** **1**, **attention** **economy**; **§13** carries **institutional NASA**, **IRS** **frame**, **church**/**Crown**, **MIC**. **Not** a proof any **launch** was **staged**.
 
 ## Summary
 
@@ -10,7 +10,38 @@
 
 **Addendum (faith-test mechanics):** The same episode can offer **footage that reads as plainly contradictory** *and* a **ready-made official explanation** that **sounds** technical and convinces **a large public**—while **failing to add up** for viewers who **already saw** the contradiction as **semantic** (e.g. text-like structure where it should not appear), not as “noise.” In that split, **persuasive debunk** is not the opposite of the thesis; it **is** part of the **test of faith** (which side you join after the explanation lands).
 
-**Status:** Open. This file documents the thesis, mainstream and fact-check accounts, and web citations **for and against** a “staged mission” reading. It does **not** adjudicate physics or flight hardware; it maps **information dynamics** and **foreign press** behavior. **§13** records **institutional NASA** as the author reads it—**rhetoric**, **tax**, **IRS/legal** sketch, **church**/**Crown** historical analogy, **Cold War**/**MIC** sentiment—not a duplicate of the Artemis II hardware question.
+**Status:** Open. This file documents the thesis, mainstream and fact-check accounts, and web citations **for and against** a “staged mission” reading. It does **not** adjudicate physics or flight hardware; it maps **information dynamics** and **foreign press** behavior. **§0** lays out **Revelation of the Method** as the **organizing strategic lens** (predictive compliance, sloppiness-as-engine, tax lock). **§1–§12** are **evidence and pattern** blocks under that lens; **§13** records **institutional NASA**—**rhetoric**, **tax**, **IRS/legal** sketch, **church**/**Crown** analogy, **Cold War**/**MIC** sentiment—not a duplicate of the Artemis II hardware question.
+
+---
+
+## 0. Revelation of the Method — strategic spine (organizing lens)
+
+**Definition (author, this file):** *Revelation of the Method* (RoM) names a **media-state** pattern: **partial disclosure** of the **operation**—**contradictions**, **sloppy** **seams**, **hoax-readable** **glitches**, **distribution-layer** **weirdness**—so that **exposure** itself becomes the **engine** of **engagement**, while **outcomes** stay **modelable** **without** requiring **everyone** to **believe** the **same** **story**.
+
+**Test of faith → predictive compliance:** The **public layer** is treated as a **test of faith** whose **output** is **not** unanimous **assent**, but a **partitioned** **equilibrium** that still **funds** the **same** **institution**:
+
+- **Cheerleaders** **recommit** after **institutional** **closure** (narrative **resolution**).
+- **Neutrals** **consume** **spectacle** and **algorithmic** **feeds** (**low** **friction** **exit** from **primary-source** **duty**).
+- **Skeptics** **enter** **complaint**, **debunk**, **meme**, and **forensic** **argument**—often **high** **intensity**—yet **remain** **locked** **into** **federal** **tax** **flows** that **support** **NASA-class** **lines** **unless** they **take** **rare**, **legally** **high-risk** **tax** **positions** (**§13**; [IRS frivolous-argument publications](https://www.irs.gov/privacy-disclosure/the-truth-about-frivolous-tax-arguments-section-i-d-to-e)).
+
+**Aggressive RoM:** The **aggressive** form **foregrounds** **sloppiness** and **contradiction** so that **critics** **stay** **busy** **on** **exposure**—**the** **primary** **driver** **of** **their** **“compliance”** **with** **the** **budget** **status** **quo**—while **institutional** **money** **and** **prestige** **continue**. **Complaint** **without** **fiscal** **opt-out** is **still** **compliance** **with** **Treasury** **mechanics**.
+
+**How the numbered sections attach (do not skip if you want the full argument):**
+
+| Section | Role under RoM in this file |
+|--------|-----------------------------|
+| **§1** | **Baseline** official and wire **narrative** the **spectacle** **orbits** (schedule, delays, success framing). |
+| **§2** | **Vocabulary**: **faith event** vs **science event**; **divide-and-conquer**; **Lex Luthor** analogy; **sloppy stage** as **signal** (**overlaps** **RoM** **engine**—details stay here). |
+| **§3** | **Fuel**: what **circulated** virally (Rise/CNN, harness/green-screen, AI slop)—**raw** **material** **for** **contradiction** **loops**. |
+| **§4–§5** | **Two-step** **mechanics**: **contradiction** + **canned** **technical** **closure**; **HARD** **LIE** **mark** on **totalizing** **pop-debunk**; **imaging** **citations**; **§5.5** walkout **phone-preview** **thread**; **§5.6** **search** **/ preview** **tech**. |
+| **§6** | **Foreign** **debunk** **cluster** and **hoax** **endorsement** **gap**; **silence** **≠** **proof**. |
+| **§7** | **Strategic** **hypotheses** (fog, **stall**, **gatekeeping** **rhymes**) **compatible** **with** **permanent** **interpretive** **war**. |
+| **§8–§9** | **Open** **questions**; **related** **in-repo** **files**. |
+| **§10–§11** | **Debunk** **corpus** **inventory**; **for-profit** **debunk** vs **conspiracy** **economy** (**controlled** **opposition** **read**). |
+| **§12** | **April** **1** **/ fool-proof** **audience** **model**; **Trump**/**Iran** **incentive** **sketch**—**packaging** **as** **predictable** **sorting**. |
+| **§13** | **Institutional** **NASA**: **dismissiveness** **since** **Apollo**; **taxpayer** **proportionality**; **no** **checkbox**; **IRS** **/ conscience**; **First** **Fruits** **/** **Crown**; **Cold** **War** **/** **MIC**; **church** **parallel**—**why** **skeptic** **outrage** **can** **coexist** **with** **compulsory** **funding**. |
+
+**Boundary:** RoM **here** is an **analytic** **lens** on **media**, **attention**, and **fiscal** **structure**. It does **not** **assert** that **every** **glitch** **was** **planned**, or that **no** **real** **flight** **occurred**; it **asks** whether **the** **rollout** **structure** **predicts** **partitioned** **compliance** **including** **funded** **critics**.
 
 ---
 
@@ -31,6 +62,8 @@ Official and wire-level reporting describe Artemis II as the **first crewed flig
 
 ## 2. Thesis: “Science event” vs “faith event”
 
+**RoM cross-ref:** **§0** **states** the **strategic** **spine** (**Revelation of the Method**, **predictive** **compliance**, **tax** **lock**). **This** **section** **keeps** the **thesis** **vocabulary** **and** **hypotheses** **in** **full**; **it** **does** **not** **replace** **§0**.
+
 **Author framing (recorded here as hypothesis):**
 
 - **Primary reframing:** Treat Artemis II’s **public-facing layer** as a **test of faith** in NASA and the Western space-state story—analogous to how religious liturgies test adherence when empirical ambiguity exists.
@@ -38,11 +71,13 @@ Official and wire-level reporting describe Artemis II as the **first crewed flig
 - **Generational targeting:** The campaign speaks to **young people** who might once have dreamed of crewed flight the way an older cohort dreamed in the Apollo era—**aspiration capture** as loyalty capture.
 - **Lex Luthor parallel (cultural analogy):** In the 2025 *Superman* film, allies assist Luthor under **money, ideology, and fear** despite the operation’s moral color. The analogy here: **contractors, broadcasters, and secondary narrators** can be threaded into a deceptive production **without** each participant holding a single shared “script”—**incentives and fear** suffice. *Analogy only; not a claim about any named individual.*
 
-**“Sloppy stage” hypothesis:** Viral anomalies (below) are read by some as **incompetent staging**—**low-grade actors** and **bad compositing**. The investigation adds an alternative: **sloppiness as signal**—just enough for **factional warfare**, not enough for **forensic conviction**.
+**“Sloppy stage” hypothesis:** Viral anomalies (below) are read by some as **incompetent staging**—**low-grade actors** and **bad compositing**. The investigation adds an alternative: **sloppiness as signal**—just enough for **factional warfare**, not enough for **forensic conviction**. **Same** **idea** **under** **RoM** **(§0):** **sloppiness** **and** **contradiction** **as** **fuel** **for** **partitioned** **compliance**, **not** **only** **accidental** **error**.
 
 ---
 
 ## 3. Viral “hoax” strand — what circulated (April 2026)
+
+**RoM:** **§3** **lists** **what** **fed** **the** **contradiction** **engine** (**§0**).
 
 Skeptical narratives clustered around:
 
@@ -60,6 +95,8 @@ Treat influencer quotes therein as **claims**, not independent verification.
 
 ## 4. Debunking strand — official fact-checks and tech press
 
+**RoM:** **Institutional** **debunk** **=** **closure** **package** **for** **the** **faithful** **faction**; **skeptics** **may** **reject** **it** **while** **staying** **inside** **the** **same** **attention** **/ tax** **structures** (**§0**, **§11**, **§13**).
+
 **Core debunk:** The **Rise** anomaly is widely attributed to **broadcast graphics / failed text overlay** on syndicated feeds, **not** to NASA’s master camera files—and secondarily to **re-capture** (e.g. phone pointed at a TV), which fact-check copy often bundles with **moiré / compression / overlay stacking**. **§5** marks the **totalizing** “phone/TV/subpixel” **comfort explanation** as **HARD LIE** (faith-test closure) **while** citing **imaging literature** that **does** document **real** phone–display artifact classes—**without** equating them to any **particular** viral clip’s **meaning-level** contradiction.
 
 - [Artemis II broadcast error used to stoke false claims mission was staged — AFP Fact Check](https://factcheck.afp.com/doc.afp.com.A6WV668) (quotes UC Berkeley’s Hany Farid on overlay failure; compares viral clip to CNN YouTube upload)
@@ -73,6 +110,8 @@ Treat influencer quotes therein as **claims**, not independent verification.
 ---
 
 ## 5. Contradiction + canned explanation; the “phone / TV” debunk (author mark: **HARD LIE** as totalizing story)
+
+**RoM:** **§5** **is** **the** **case** **study** **for** **“contradiction** **+** **pre-cooked** **explanation”** **and** **critic** **capture** **via** **forensic** **busywork** (**§0**).
 
 ### 5.1 Two-step pattern (author thesis)
 
@@ -156,6 +195,8 @@ Crew video is **downlinked, encoded, re-broadcast, re-compressed**. A smartphone
 
 ## 6. Foreign sources — hoax endorsement vs debunk (search log, April 2026)
 
+**RoM:** **Non-U.S.** **desks** **still** **participate** **in** **the** **same** **debunk** **cluster** **/ silence** **pattern** **(§0** **partitioned** **closure**).
+
 **What we found:**
 
 - **Non-U.S. outlets debunking or contextualizing** the green-screen viral wave include **AFP** (France), **FRANCE 24** (French international English service), and **BBC**-linked verification cited via UK-oriented tech press—not state ministries, but clearly **non-American** editorial desks participating in the **debunk** cluster.
@@ -168,6 +209,8 @@ Record as **open**: If readers have **primary non-English** sources that **asser
 ---
 
 ## 7. Strategic reads (hypotheses — low confidence until sourced)
+
+**RoM-compatible:** **Permanent** **fog** **extends** **the** **interpretive** **war** **without** **forcing** **a** **single** **global** **belief** **state** (**§0**).
 
 These are **political-strategic** extensions, not technical proofs:
 
@@ -195,6 +238,8 @@ These are **political-strategic** extensions, not technical proofs:
 ---
 
 ## 10. Debunk corpus — extended citations and debunkers’ main stated reasons
+
+**RoM:** **Inventory** **of** **closure** **products** **the** **faith** **faction** **consumes**; **baseline** **for** **§11** (**§0**).
 
 ### 10.1 Additional online citations (pro–official narrative / anti–hoax claim)
 
@@ -237,6 +282,8 @@ Drawn from the sources above; **grouped by claim type**:
 
 ## 11. For-profit debunk vs for-profit conspiracy (controlled opposition hypothesis)
 
+**RoM:** **Same** **trough** **feeds** **both** **sides** **of** **partitioned** **compliance** (**§0**): **engagement** **without** **coalition** **or** **primary-source** **discipline**.
+
 **Author thesis (hypothesis):** The **attention economy** does not cleanly separate **“responsible debunkers”** from **“irresponsible conspiracists.”** Both live on **views, shares, subscriptions, donations, and ad impressions**. Packages like **ITV’s** explainer, **FRANCE 24** (*Truth or Fake*), **Snopes** listicles, and **AFP** fact-check articles are **professionally produced content** with **entertainment pacing** (hook → viral clip → expert → resolution). **Serious forensic closure** (primary-feed chain of custody, independent ranging) is **not** the product being sold; **emotional resolution** for one faction is.
 
 **Controlled opposition read (speculative):** Outlets that **appear** to oppose the hoax narrative may still **function** as **managed pressure release**—the same **algorithmic trough** where a viewer, after **accepting** the debunk, is **recommended** toward **flat Earth**, **Mandela Effect**, **ancient aliens**, **time travel**, etc., and where a viewer who **rejects** the debunk is **recommended** toward **the same** fringe cluster from the **opposite** door. **Neither** path produces **coalition** or **primary-source discipline**; both produce **engagement**.
@@ -247,6 +294,8 @@ Drawn from the sources above; **grouped by claim type**:
 
 ## 12. April 1 launch timing; “fool-proof” rollout; Trump / Iran (speculative)
 
+**RoM:** **Calendar** **/** **symbolism** **as** **extra** **sorting** **layer** **on** **top** **of** **the** **same** **predictive** **audience** **model** (**§0** **“fool-proof”** **rhyme**).
+
 **April 1 (author):** Given the **degree of narrative packaging** (viral contradictions + **immediate** fact-check saturation), there is **no compelling reason** in this file to treat **April 1** as **accidental** symbolism. **Fool’s Day** alignment is recorded as **plausibly intentional**—a **wink** to **in-group** confidence that the **public** can be **sorted** into predictable buckets (**faith**, **mockery**, **debunk virtue**). **Not** a cryptographic proof.
 
 **“Fool-proof” audience model (author):** The **aggression** of the rollout (volume of **AI slop**, **clip** volume, **speed** of institutional debunk) suggests **confidence** that **audience behavior** stays within **modeled** bands: **cheer**, **meme**, **debunk share**, **fringe argue**—with **no** mass **primary-source** pivot. **Hypothesis** only.
@@ -256,6 +305,8 @@ Drawn from the sources above; **grouped by claim type**:
 ---
 
 ## 13. NASA as institution — dismissiveness since Apollo, taxpayer proportionality, and “church” parallel (author sentiment)
+
+**RoM:** **§13** **answers** **why** **“skeptic** **compliance”** **(§0)** **is** **fiscally** **stable**: **no** **opt-out**, **IRS** **frame**, **coerced** **funding**, **MIC** **/ Congress** **inertia**, **institutional** **dismissal** **of** **core** **challenges**.
 
 **Framing (author):** The **decisive** public issue is **not only** whether any **particular** mission claim is true. It is whether **NASA-as-institution** has ever, since the **first Apollo-era accusations**, treated **primary** skeptical claims with **good-faith, on-the-record, adversarial** engagement. In this reading, **every** major institutional response pattern sorts into **dismissal**: **labeling** (fringe, **flat Earth**, crank, “science denier”) **without** conceding the **specific** evidentiary prompts; **no** sustained, funded forum where **core** challenges are **named and answered** in the same vocabulary the challengers use. **Acknowledgement** of the **strongest** opposing case is **avoided**; **boundary work** replaces **inquiry**.
 
@@ -273,8 +324,8 @@ Drawn from the sources above; **grouped by claim type**:
 
 **“Church” parallel (author):** NASA is argued to **behave like a national church**: it **teaches** one **cosmology** and one **history** as **authorized**; it does **not** use its **platform** and **treasury** to **teach** **everyone** “everything,” including **alternate** frameworks **as equals**—e.g. **Saturnian cosmology** (this site’s chronology), **young-Earth** readings, or **Judeo-Christian creation** narratives—while still **extracting** **tax** from communities who **hold** those views. **Tithe** language is **metaphorical** (withholding is **not** legally available to most filers); the claim is **cultural**: **revenue** and **authority** **without** **line-item** **consent** and **without** the **full** **public audit** skeptics would recognize as **closure**.
 
-**Investigation boundary:** This is **political-strategic** **sentiment** and **institutional** **critique**, **not** a proof that any **specific** launch was **faked**. It **rhymes** with **§2** (faith event) and **§11** (attention economy).
+**Investigation boundary:** This is **political-strategic** **sentiment** and **institutional** **critique**, **not** a proof that any **specific** launch was **faked**. It **rhymes** with **§0** (RoM **/ tax** **lock**), **§2** (faith event), and **§11** (attention economy).
 
 ---
 
-Keywords: #artemis #nasa #moon #faith #hoax #divide #conquer #chronology #investigation
+Keywords: #artemis #nasa #moon #faith #hoax #divide #conquer #revelation-of-the-method #chronology #investigation
