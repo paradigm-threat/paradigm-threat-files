@@ -1,6 +1,6 @@
 # Investigation: Artemis II — Mission as Faith Test, Staged-Production Readings, and Foreign-Press Patterns
 
-Artemis II — April 1st / test of faith (illustration)
+![Artemis II — April 1st / test of faith (illustration)](artemis-ii-faith-test-investigation.png)
 
 ## Summary
 
@@ -8,7 +8,7 @@ Artemis II — April 1st / test of faith (illustration)
 
 **Addendum (faith-test mechanics):** The same episode can offer **footage that reads as plainly contradictory** *and* a **ready-made official explanation** that **sounds** technical and convinces **a large public**—while **failing to add up** for viewers who **already saw** the contradiction as **semantic** (e.g. text-like structure where it should not appear), not as “noise.” In that split, **persuasive debunk** is not the opposite of the thesis; it **is** part of the **test of faith** (which side you join after the explanation lands).
 
-**Status:** Open. This file documents the thesis, mainstream and fact-check accounts, and web citations **for and against** a “staged mission” reading. It does **not** adjudicate physics or flight hardware; it maps **information dynamics** and **foreign press** behavior.
+**Status:** Open. This file documents the thesis, mainstream and fact-check accounts, and web citations **for and against** a “staged mission” reading. It does **not** adjudicate physics or flight hardware; it maps **information dynamics** and **foreign press** behavior. **§13** records **institutional NASA** as the author reads it—**rhetoric**, **tax**, and **church** parallels—not a duplicate of the Artemis II hardware question.
 
 ---
 
@@ -250,6 +250,20 @@ Drawn from the sources above; **grouped by claim type**:
 **“Fool-proof” audience model (author):** The **aggression** of the rollout (volume of **AI slop**, **clip** volume, **speed** of institutional debunk) suggests **confidence** that **audience behavior** stays within **modeled** bands: **cheer**, **meme**, **debunk share**, **fringe argue**—with **no** mass **primary-source** pivot. **Hypothesis** only.
 
 **Trump / Iran / credibility (speculative, April 2026 context):** A sitting president who **needs** maximum **credibility** on a **hot** **Middle East / Iran** file may **rationally avoid** picking a fight with **NASA** and **allied** space narratives—**independent** of what he **privately** believes. This file **does not** claim knowledge of any leader’s **inner belief**; it notes **incentive** not to **amplify** moon-hoax discourse when **other** crises **consume** political capital. **Open:** public statements by **White House** / **campaign** on Artemis II during the window (to be sourced if added later).
+
+---
+
+## 13. NASA as institution — dismissiveness since Apollo, taxpayer proportionality, and “church” parallel (author sentiment)
+
+**Framing (author):** The **decisive** public issue is **not only** whether any **particular** mission claim is true. It is whether **NASA-as-institution** has ever, since the **first Apollo-era accusations**, treated **primary** skeptical claims with **good-faith, on-the-record, adversarial** engagement. In this reading, **every** major institutional response pattern sorts into **dismissal**: **labeling** (fringe, **flat Earth**, crank, “science denier”) **without** conceding the **specific** evidentiary prompts; **no** sustained, funded forum where **core** challenges are **named and answered** in the same vocabulary the challengers use. **Acknowledgement** of the **strongest** opposing case is **avoided**; **boundary work** replaces **inquiry**.
+
+**Taxpayer proportionality (author):** Federal **space** budgets and **public-affairs** spend are **not** distributed as if **all** taxpayers were **represented** stakeholders. **Propaganda**, **education**, and **mission** lines are **large**; there is **no** sense in public accounting that a **proportional** slice is reserved for **skeptics**—for **independent verification** budgets, **adversarial** review panels, or **plain** outreach to people who **reject** the official story. **Counterfactual (speculative):** A **small** fraction of cumulative spend, directed at **substantive** engagement rather than **ridicule**, might have **reduced** the **daily** war of **sketchy** releases vs **endless** critics—**unprovable**, but raised as a **governance** question.
+
+**Coercion / consent (author, parallel only):** There is **no** **checkbox** on typical **tax** instruments to **withhold** one’s share from **NASA** (or from other **morally contested** federal lines—**abortion-related** spending is named here **only** as the **same structural** pattern: **controversy** persists because **objectors still pay**). This file does **not** litigate abortion policy; it notes **fiscal** **non-consent** as **parallel** to **forced** **subsidy** of a **narrative** agency.
+
+**“Church” parallel (author):** NASA is argued to **behave like a national church**: it **teaches** one **cosmology** and one **history** as **authorized**; it does **not** use its **platform** and **treasury** to **teach** **everyone** “everything,” including **alternate** frameworks **as equals**—e.g. **Saturnian cosmology** (this site’s chronology), **young-Earth** readings, or **Judeo-Christian creation** narratives—while still **extracting** **tax** from communities who **hold** those views. **Tithe** language is **metaphorical** (withholding is **not** legally available to most filers); the claim is **cultural**: **revenue** and **authority** **without** **line-item** **consent** and **without** the **full** **public audit** skeptics would recognize as **closure**.
+
+**Investigation boundary:** This is **political-strategic** **sentiment** and **institutional** **critique**, **not** a proof that any **specific** launch was **faked**. It **rhymes** with **§2** (faith event) and **§11** (attention economy).
 
 ---
 
