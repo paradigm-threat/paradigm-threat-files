@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-14T12:30:41.091Z",
+    "date": "2026-04-14T12:59:35.247Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
+        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-14T12:30:30.000Z",
+    "message": "Artemis II investigation: debunk corpus, for-profit opposition thesis, April 1 / Trump notes",
     "files": [
       {
         "status": "M",
@@ -272,12 +284,6 @@
   {
     "repo": "paradigm-threat-files",
     "date": "2026-04-12T12:51:26.000Z",
-    "message": "chore: regenerate index.json and changelog.json",
-    "files": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-12T12:51:16.000Z",
     "message": "chore: regenerate index.json and changelog.json",
     "files": []
   }
