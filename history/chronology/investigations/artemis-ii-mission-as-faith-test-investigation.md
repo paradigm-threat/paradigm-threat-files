@@ -1,6 +1,6 @@
 # Investigation: Artemis II — Mission as Faith Test, Staged-Production Readings, and Foreign-Press Patterns
 
-![Artemis II — April 1st / test of faith (illustration)](artemis-ii-faith-test-investigation.png)
+Artemis II — April 1st / test of faith (illustration)
 
 ## Summary
 
@@ -104,6 +104,30 @@ Crew video is **downlinked, encoded, re-broadcast, re-compressed**. A smartphone
 
 - If ambiguity were **useful**, **no additional** stage fakery would be **required** for every row of pixels—**distribution** alone manufactures **fight fodder**. The public still **never** gets **unmediated** phone video **from orbit** in Twitter threads; it gets **products**.
 
+### 5.5 Maintainer “HARD LIE” clip — crowd, phones, preview vs orange/red suits (**citation search: not found in major press**)
+
+**What the maintainer describes (eyewitness to a specific viral video, not the Rise/CNN line):**
+
+- **Scene:** Four astronauts in **orange/red** launch-and-entry suits (Orion **International Orange** reads as reddish-orange on many screens) **standing before a crowd**; people in the crowd hold up **phones** filming.
+- **Claimed anomaly:** On the **phone preview screens** (the live viewfinder / rear-screen), the **scene does not show** the four suited figures in color as the eye sees them—e.g. **no orange/red** in-frame; instead a **generic graphic of a single person** (or one figure) that **stays locked** so that **tilting or moving** the phone **does not change** the relationship—always that **one** synthetic-looking subject.
+
+**Investigation status:** This is the **specific** incident behind the maintainer’s **HARD LIE** reaction to **glib** “phones filming TVs / subpixels” debunks when applied to **this** clip: the objection is **not** “moiré on a TV,” it is **preview pipeline vs physical scene** in a **crowd** context.
+
+**Citation search (web + fact-check inventory, April 2026):**
+
+- **No** AFP, Reuters, BBC Verify, FRANCE 24, ITV, IBTimes, Digital Camera World, or Snopes article was found that **names** this exact **crowd + phone preview + wrong single-subject graphic** video or **debunks** it under that description.
+- Press and fact-check **clusters** instead center on: **(a)** the **Rise** plush / CNN interview / **phone filming a TV**, **(b)** **AI** green-screen / harness **still images** (often **TikTok**), **(c)** **SynthID**-flagged fakes. Examples touching **four astronauts + green screen** language but **not** preview behavior: [Digital Camera World — AI fakes](https://www.digitalcameraworld.com/tech/artificial-intelligence/viral-photos-being-used-to-claim-artemis-ii-footage-is-fake-are-actually-ai-fakes-themselves-oh-the-irony), [Yahoo Tech reprint](https://tech.yahoo.com/science/articles/oh-irony-viral-photos-being-075500607.html) (same story).
+
+**Closest “official” video of the *same kind of scene* (four suited crew, crowd, phones—April 1, 2026 walkout):** No fact-check discusses phone-preview behavior; these are **primary-adjacent** for **setting** only: [NBC News — crew greets crowds](https://www.youtube.com/watch?v=rxUtgfltbu4), [VideoFromSpace — walkout and drive to pad](https://www.youtube.com/watch?v=fJBHhDx5ZoY), [NASA still — Artemis II Walkout](https://www.nasa.gov/image-detail/artemis-ii-walkout/). A maintainer-claimed **preview defect** would have to be demonstrated against **crowd-sourced** or **reuploaded** material, not necessarily these **broadcast** exports.
+
+**Conclusion for the file until primary evidence arrives:** Treat this clip as **unindexed** by establishment debunkers—either **too niche**, **non-English / short-lived**, **delisted**, or **only on private shares**.
+
+**Repeat search:** A **later** pass (same query family: Artemis II, crowd, phones, preview, walkout, astronauts) **again** did **not** surface this specific viral video in the open web or in fact-check corpora.
+
+**Call for witnesses:** If **you** have seen **this** video—or **anything that matches** the bullet description above (four suited crew, crowd with phones, preview/viewfinder **not** matching the real scene, generic single-subject graphic, etc.)—please **contact the maintainer who authored this investigation** through your **usual Paradigm Threat** site or **paradigm-threat-files** repo channel (same path you would use for other contributions or corrections). Send **URL**, **archive.org** link, **platform + date + title**, or offer a **file** so it can be cited and archived here. Without primary media, this subsection stays **witness-only** and **does not** validate or invalidate the preview claim.
+
+**Non-committal technical hypotheses (not conclusions):** If a genuine video existed, odd preview behavior could in principle include **depth / portrait segmentation** bugs, **demo or AR layer** left on, **screen-recording of another app**, or **fully synthetic** viral fabrication—each would need **file-level** analysis. This file **does not** pick one without **primary** media.
+
 ---
 
 ## 6. Foreign sources — hoax endorsement vs debunk (search log, April 2026)
@@ -134,6 +158,7 @@ These are **political-strategic** extensions, not technical proofs:
 2. **Primary foreign ministry statements:** Did any **G20** foreign ministry or **space agency** issue **congratulations or silence** that diverges from expected diplomacy?
 3. **Leak taxonomy:** Can viral artifacts be **fully explained** by **broadcast chains** + **AI slop**, or is there a **residual set** that survives **highest-quality primary feed** comparison?
 4. **Workforce sociology:** Analogy to fiction aside, what **contractor incentives** and **NDA / clearance** structures shape **what ground crews can say**?
+5. **Crowd / phone-preview clip (§5.5):** Still **not** relocated in repeat search; obtain **archived URL** or **file** via **witness contact** (see §5.5 call for witnesses); optional **independent** frame analysis if primary media is available.
 
 ---
 
@@ -151,18 +176,20 @@ These are **political-strategic** extensions, not technical proofs:
 
 These sources **defend** the mission’s authenticity or **explain away** viral “evidence” of staging. Listed for **inventory**; inclusion is **not** endorsement by this file.
 
-| Source | URL |
-|--------|-----|
-| **AFP Fact Check** — Rise plush / broadcast overlay | [Artemis II broadcast error… staged](https://factcheck.afp.com/doc.afp.com.A6WV668) |
-| **AFP Fact Check** — AI “Apollo vs Artemis” Earth juxtaposition | [AI Earth images drive Artemis mission conspiracy theories](https://factcheck.afp.com/doc.afp.com.A7233KE) |
-| **FRANCE 24** — *Truth or Fake* (article) | [NASA's Artemis II: conspiracy theories… staged green screen](https://www.france24.com/en/tv-shows/truth-or-fake/20260409-nasa-s-artemis-ii-conspiracy-theories-take-off-about-staged-green-screen) |
-| **ITV News** — overview + expert quotes | [Moon mission or massive hoax? Why Artemis II reignited space conspiracy theories](https://www.itv.com/news/2026-04-10/moon-mission-or-massive-hoax-why-artemis-ii-reignited-space-conspiracy-theories) |
-| **IBTimes UK** — Rise clip mechanics | [Artemis II green screen glitch conspiracy](https://www.ibtimes.co.uk/artemis-ii-green-screen-glitch-conspiracy-1790582) |
-| **Digital Camera World** — AI “evidence” | [Viral photos… are actually AI fakes](https://www.digitalcameraworld.com/tech/artificial-intelligence/viral-photos-being-used-to-claim-artemis-ii-footage-is-fake-are-actually-ai-fakes-themselves-oh-the-irony) |
-| **Snopes** — moon rumor collection (Artemis II–era update) | [Fly me to the truth: 15 moon claims, fact-checked](https://www.snopes.com/collections/moon-rumors/) |
-| **Reuters Fact Check** — trajectory / Apollo comparison meme | [Artemis I trajectory vs Apollo 11 not proof of hoax](https://www.reuters.com/article/fact-check/lengthier-artemis-i-trajectory-toward-moon-compared-to-apollo-11-is-not-proof-that-space-travel-is-a-hoax-idUSL1N32W1KI/) (notes flat-Earth-adjacent meme spread) |
-| **Reuters Fact Check** — no stars in spacecraft photos | [Stars not routinely visible… exposure](https://www.reuters.com/article/factcheck-artemis-space/fact-check-stars-not-routinely-visible-in-photographs-taken-from-spacecraft-due-to-light-exposure-on-earth-and-moon-idUSL1N32X1XR/) |
-| **Third-party blog** — chroma / Rise (aggregated tone) | [Debunking the Artemis II Green Screen Hoax — Allimmunology.org](https://allimmunology.org/article/debunking-the-artemis-ii-green-screen-hoax-what-really-happened) |
+
+| Source                                                          | URL                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **AFP Fact Check** — Rise plush / broadcast overlay             | [Artemis II broadcast error… staged](https://factcheck.afp.com/doc.afp.com.A6WV668)                                                                                                                                                                                |
+| **AFP Fact Check** — AI “Apollo vs Artemis” Earth juxtaposition | [AI Earth images drive Artemis mission conspiracy theories](https://factcheck.afp.com/doc.afp.com.A7233KE)                                                                                                                                                         |
+| **FRANCE 24** — *Truth or Fake* (article)                       | [NASA's Artemis II: conspiracy theories… staged green screen](https://www.france24.com/en/tv-shows/truth-or-fake/20260409-nasa-s-artemis-ii-conspiracy-theories-take-off-about-staged-green-screen)                                                                |
+| **ITV News** — overview + expert quotes                         | [Moon mission or massive hoax? Why Artemis II reignited space conspiracy theories](https://www.itv.com/news/2026-04-10/moon-mission-or-massive-hoax-why-artemis-ii-reignited-space-conspiracy-theories)                                                            |
+| **IBTimes UK** — Rise clip mechanics                            | [Artemis II green screen glitch conspiracy](https://www.ibtimes.co.uk/artemis-ii-green-screen-glitch-conspiracy-1790582)                                                                                                                                           |
+| **Digital Camera World** — AI “evidence”                        | [Viral photos… are actually AI fakes](https://www.digitalcameraworld.com/tech/artificial-intelligence/viral-photos-being-used-to-claim-artemis-ii-footage-is-fake-are-actually-ai-fakes-themselves-oh-the-irony)                                                   |
+| **Snopes** — moon rumor collection (Artemis II–era update)      | [Fly me to the truth: 15 moon claims, fact-checked](https://www.snopes.com/collections/moon-rumors/)                                                                                                                                                               |
+| **Reuters Fact Check** — trajectory / Apollo comparison meme    | [Artemis I trajectory vs Apollo 11 not proof of hoax](https://www.reuters.com/article/fact-check/lengthier-artemis-i-trajectory-toward-moon-compared-to-apollo-11-is-not-proof-that-space-travel-is-a-hoax-idUSL1N32W1KI/) (notes flat-Earth-adjacent meme spread) |
+| **Reuters Fact Check** — no stars in spacecraft photos          | [Stars not routinely visible… exposure](https://www.reuters.com/article/factcheck-artemis-space/fact-check-stars-not-routinely-visible-in-photographs-taken-from-spacecraft-due-to-light-exposure-on-earth-and-moon-idUSL1N32X1XR/)                                |
+| **Third-party blog** — chroma / Rise (aggregated tone)          | [Debunking the Artemis II Green Screen Hoax — Allimmunology.org](https://allimmunology.org/article/debunking-the-artemis-ii-green-screen-hoax-what-really-happened)                                                                                                |
+
 
 **Already listed in §4:** CBS19/AFP wire, FRANCE 24 YouTube segment, NPR/Space.com/BBC Sky at Night as **mainstream** mission narrative.
 
