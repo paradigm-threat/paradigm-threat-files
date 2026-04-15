@@ -490,7 +490,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-14T23:54:13Z"
+    "_updated": "2026-04-14T23:57:09Z"
   },
   "cosmos": {
     "cosmology": {
@@ -6898,8 +6898,14 @@
         "artemis-ii-faith-test-investigation.png": {
           "_width": 1536,
           "_height": 1024,
-          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAsABUB8JaACdAD50GSggAD+v7EJkDkygBqXkknFBGduNfXOGnAeWaL8KlbSqMOqy7bEjfpaPaAA",
+          "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JaACdAEUkopYAAD+P/gDc9+IMzPF1fu8PIFSKqAFbyKPObMNXu2xCfz0QAAA",
           "_updated": "2026-04-14T12:20:37Z"
+        },
+        "artemis-ii-faith-test-investigation2.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAsABUB8JaACdAD50GSggAD+v7EJkDkygBqXkknFBGduNfXOGnAeWaL8KlbSqMOqy7bEjfpaPaAA",
+          "_updated": "2026-04-14T12:18:55Z"
         },
         "artemis-ii-mission-as-faith-test-investigation.md": {
           "_title": "Investigation: Artemis II \u2014 Mission as Faith Test, Staged-Production Readings, and Foreign-Press Patterns",
@@ -6915,13 +6921,13 @@
             "chronology",
             "investigation"
           ],
-          "_updated": "2026-04-14T23:54:13Z"
+          "_updated": "2026-04-14T23:57:09Z"
         },
         "artemis-ii-walkout-phone-preview-discrepancy-illustration.png": {
           "_width": 1536,
           "_height": 1024,
-          "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAsABUB8JZQAAudCsXBwKEAA/uVhQhFhhant6O04uiLnnQ+CFLswx+wB4AAA",
-          "_updated": "2026-04-14T13:26:14Z"
+          "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAsABUB8JZQAAudCsXBwvlAA/uVvrVM3jmULPLcPxJTkXxdk61WTZCSOMwHgAAA=",
+          "_updated": "2026-04-15T01:33:28Z"
         },
         "artemis-ii-walkout-phone-preview-discrepancy-screenshot.png": {
           "_width": 879,
@@ -7034,7 +7040,7 @@
           "_keywords": [
             "article"
           ],
-          "_updated": "2026-04-14T12:20:37Z"
+          "_updated": "2026-04-14T23:57:09Z"
         },
         "index-offenbarung.md": {
           "_title": "Die Offenbarung Johannis \u2014 English Index",
@@ -7317,7 +7323,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 41
+        "_count": 42
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -8263,7 +8269,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 268
+      "_count": 269
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -10185,7 +10191,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 566
+    "_count": 567
   },
   "influence": {
     "censorship": {
@@ -10889,6 +10895,12 @@
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoMABAABUB8JaQAAtqcnNQAAP6KHwKB427d+8rG4tThwuP1Ew8Fd0r+8E8AA46Pq98UegAA",
         "_updated": "2026-01-16T01:04:59Z"
       },
+      "eldorado.png": {
+        "_width": 526,
+        "_height": 677,
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoMABAABUB8JYgCdAEO4p8ZEAD+2tXR0SICaSvEgFAsZXdDCQL8Fgl5aiqUuzVLDFP/RhkHgAA=",
+        "_updated": "2026-04-15T01:12:05Z"
+      },
       "embedding.jpg": {
         "_width": 1280,
         "_height": 858,
@@ -11422,7 +11434,7 @@
         "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADwAQCdASoHABAABUB8JaQAAvqolqtuUEAA/uuBLv6j7KHCptuke6CLOwAAAA==",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 136
+      "_count": 137
     },
     "controlled_opposition": {
       "00.md": {
@@ -12803,7 +12815,7 @@
       },
       "_count": 5
     },
-    "_count": 325
+    "_count": 326
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
@@ -13934,6 +13946,6 @@
     },
     "_count": 153
   },
-  "_count": 1965,
-  "_version": "5b80813"
+  "_count": 1967,
+  "_version": "e589e49"
 }
