@@ -1,6 +1,6 @@
 # Investigation: Artemis II — Mission as Faith Test, Staged-Production Readings, and Foreign-Press Patterns
 
-![Artemis II — April 1st / test of faith (illustration)](artemis-ii-faith-test-investigation.png)
+Artemis II — April 1st / test of faith (illustration)
 
 > **TL;DR:** **§0** states the **Revelation of the Method (RoM)** **spine** in full; this block compresses it. Artemis II’s **media surface** is modeled as a **test of faith** whose **designed output** is **predictable, role-wise compliance** across **cheerleaders**, **neutrals**, and **skeptics**—**without** **shared** **belief**. **Mechanism:** **front-loaded** **sloppiness**, **contradictions**, and **hoax-readable** glitches so **exposure** (real or apparent) **drives** engagement; supporters **take** institutional **closure**; skeptics **burn** **cycles** on **complaint** / **debunk** / **forensics** that **rarely** **convert** into **lawful** **tax** **withholding** against **NASA’s** **budget** **share**. That is **aggressive RoM**: **partial disclosure** with **seams** **visible**, **behavior** still **locked**—**outrage** **online**, **tax** **still** **flows** (**§13**). **§1–§12** carry **mainstream** coverage, **viral**/**debunk** **forensics**, **foreign** **press**, **debunk** **corpus**, **April** **1**, **attention** **economy**; **§13** carries **institutional NASA**, **IRS** **frame**, **church**/**Crown**, **MIC**. **Not** a proof any **launch** was **staged**.
 
@@ -28,18 +28,20 @@
 
 **How the numbered sections attach (do not skip if you want the full argument):**
 
-| Section | Role under RoM in this file |
-|--------|-----------------------------|
-| **§1** | **Baseline** official and wire **narrative** the **spectacle** **orbits** (schedule, delays, success framing). |
-| **§2** | **Vocabulary**: **faith event** vs **science event**; **divide-and-conquer**; **Lex Luthor** analogy; **sloppy stage** as **signal** (**overlaps** **RoM** **engine**—details stay here). |
-| **§3** | **Fuel**: what **circulated** virally (Rise/CNN, harness/green-screen, AI slop)—**raw** **material** **for** **contradiction** **loops**. |
-| **§4–§5** | **Two-step** **mechanics**: **contradiction** + **canned** **technical** **closure**; **HARD** **LIE** **mark** on **totalizing** **pop-debunk**; **imaging** **citations**; **§5.5** walkout **phone-preview** **thread**; **§5.6** **search** **/ preview** **tech**. |
-| **§6** | **Foreign** **debunk** **cluster** and **hoax** **endorsement** **gap**; **silence** **≠** **proof**. |
-| **§7** | **Strategic** **hypotheses** (fog, **stall**, **gatekeeping** **rhymes**) **compatible** **with** **permanent** **interpretive** **war**. |
-| **§8–§9** | **Open** **questions**; **related** **in-repo** **files**. |
-| **§10–§11** | **Debunk** **corpus** **inventory**; **for-profit** **debunk** vs **conspiracy** **economy** (**controlled** **opposition** **read**). |
-| **§12** | **April** **1** **/ fool-proof** **audience** **model**; **Trump**/**Iran** **incentive** **sketch**—**packaging** **as** **predictable** **sorting**. |
-| **§13** | **Institutional** **NASA**: **dismissiveness** **since** **Apollo**; **taxpayer** **proportionality**; **no** **checkbox**; **IRS** **/ conscience**; **First** **Fruits** **/** **Crown**; **Cold** **War** **/** **MIC**; **church** **parallel**—**why** **skeptic** **outrage** **can** **coexist** **with** **compulsory** **funding**. |
+
+| Section     | Role under RoM in this file                                                                                                                                                                                                                                                                                                                  |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **§1**      | **Baseline** official and wire **narrative** the **spectacle** **orbits** (schedule, delays, success framing).                                                                                                                                                                                                                               |
+| **§2**      | **Vocabulary**: **faith event** vs **science event**; **divide-and-conquer**; **Lex Luthor** analogy; **sloppy stage** as **signal** (**overlaps** **RoM** **engine**—details stay here).                                                                                                                                                    |
+| **§3**      | **Fuel**: what **circulated** virally (Rise/CNN, harness/green-screen, AI slop)—**raw** **material** **for** **contradiction** **loops**.                                                                                                                                                                                                    |
+| **§4–§5**   | **Two-step** **mechanics**: **contradiction** + **canned** **technical** **closure**; **HARD** **LIE** **mark** on **totalizing** **pop-debunk**; **imaging** **citations**; **§5.5** walkout **phone-preview** **thread**; **§5.6** **search** **/ preview** **tech**.                                                                      |
+| **§6**      | **Foreign** **debunk** **cluster** and **hoax** **endorsement** **gap**; **silence** **≠** **proof**.                                                                                                                                                                                                                                        |
+| **§7**      | **Strategic** **hypotheses** (fog, **stall**, **gatekeeping** **rhymes**) **compatible** **with** **permanent** **interpretive** **war**.                                                                                                                                                                                                    |
+| **§8–§9**   | **Open** **questions**; **related** **in-repo** **files**.                                                                                                                                                                                                                                                                                   |
+| **§10–§11** | **Debunk** **corpus** **inventory**; **for-profit** **debunk** vs **conspiracy** **economy** (**controlled** **opposition** **read**).                                                                                                                                                                                                       |
+| **§12**     | **April** **1** **/ fool-proof** **audience** **model**; **Trump**/**Iran** **incentive** **sketch**—**packaging** **as** **predictable** **sorting**.                                                                                                                                                                                       |
+| **§13**     | **Institutional** **NASA**: **dismissiveness** **since** **Apollo**; **taxpayer** **proportionality**; **no** **checkbox**; **IRS** **/ conscience**; **First** **Fruits** **/** **Crown**; **Cold** **War** **/** **MIC**; **church** **parallel**—**why** **skeptic** **outrage** **can** **coexist** **with** **compulsory** **funding**. |
+
 
 **Boundary:** RoM **here** is an **analytic** **lens** on **media**, **attention**, and **fiscal** **structure**. It does **not** **assert** that **every** **glitch** **was** **planned**, or that **no** **real** **flight** **occurred**; it **asks** whether **the** **rollout** **structure** **predicts** **partitioned** **compliance** **including** **funded** **critics**.
 
@@ -154,10 +156,12 @@ Crew video is **downlinked, encoded, re-broadcast, re-compressed**. A smartphone
 
 **Primary citations (X / Twitter) — same walkout / phone-preview issue, different posts:**
 
-| Role | Status ID | Link |
-|------|-----------|------|
-| Annotated / quoted repost | `2043936717103665271` | [x.com/i/status/2043936717103665271](https://x.com/i/status/2043936717103665271) |
+
+| Role                                      | Status ID             | Link                                                                             |
+| ----------------------------------------- | --------------------- | -------------------------------------------------------------------------------- |
+| Annotated / quoted repost                 | `2043936717103665271` | [x.com/i/status/2043936717103665271](https://x.com/i/status/2043936717103665271) |
 | **Longer mirror** (fuller clip / context) | `2043861546057773398` | [x.com/i/status/2043861546057773398](https://x.com/i/status/2043861546057773398) |
+
 
 **Archive** both (e.g. archive.today); X links **rot**.
 
@@ -165,6 +169,10 @@ Crew video is **downlinked, encoded, re-broadcast, re-compressed**. A smartphone
 
 > We knew that astronauts didn't actually board the rocket and that the footage inside the rocket was studio work, but this footage is legendary:  
 > In the scene where the astronauts begin their journey toward the rocket, the spectators are taking photos, but the astronauts aren't visible in the camera view of their phones. Even this scene isn't real.
+
+**Illustration (in-repo, wide):** same walkout / **phone preview vs orange suits** thesis as a **diagram-style** figure (crowd, phones, preview mismatch)—companion to the annotated viral still below.
+
+![Artemis II walkout — phone preview discrepancy (illustration)](artemis-ii-walkout-phone-preview-discrepancy-illustration.png)
 
 **Screenshot archived in this repo** (annotated still: crowd, **Space.com**-branded source corner, phone circled “here,” inset zoom on preview showing **dark silhouette** vs **orange suits** in-scene):
 
@@ -189,7 +197,7 @@ Crew video is **downlinked, encoded, re-broadcast, re-compressed**. A smartphone
 
 **General smartphone “preview vs what you get” (not NASA-specific):** Users often report **live preview** differing from **saved** image—**HDR**, **exposure**, **compression**, **display** gamut. Discussion threads (illustrative, not peer-reviewed): [Quora — preview vs saved quality](https://www.quora.com/Is-it-just-me-who-thinks-the-quality-of-photos-is-better-in-preview-of-camera-particularly-smartphone-camera-and-the-quality-decreases-when-you-see-the-saved-image); [Straight Dope — preview vs final](https://boards.straightdope.com/t/why-do-my-phone-digital-camera-pictures-look-different-from-the-preview-screen/660535). **Apple Support Community** threads on **washed / wrong colors** in close-ups and **HDR** rendering (e.g. [washed color close-ups](https://discussions.apple.com/thread/254601222), [Photos HDR rendering](https://discussions.apple.com/thread/251965469)) — **lock exposure** is a common mitigation. **Adobe / Premiere** community notes on **iPhone HDR (HLG)** vs **SDR monitors** explain **systematic** “looks wrong off-phone” effects ([example thread](https://community.adobe.com/questions-729/making-your-iphone-12-and-13-footage-look-normal-avoiding-blown-out-footage-1387063)).
 
-**Segmentation / “subject” pipeline (possible rhyme with **silhouette**-like previews):** Phone **Portrait** modes rely on **alpha matting** and **depth**; **Google Research** describes **silhouette / illuminated-background** capture for training matting ([Accurate Alpha Matting for Portrait Mode — Pixel 6](https://research.google/blog/accurate-alpha-matting-for-portrait-mode-selfies-on-pixel-6/)). That does **not** prove any **specific** walkout phone was in Portrait mode; it only shows **commercial** pipelines **do** separate **subject** from **background** in ways that can look **unlike** a naive optical view.
+**Segmentation / “subject” pipeline (possible rhyme with silhouette-like previews):** Phone **Portrait** modes rely on **alpha matting** and **depth**; **Google Research** describes **silhouette / illuminated-background** capture for training matting ([Accurate Alpha Matting for Portrait Mode — Pixel 6](https://research.google/blog/accurate-alpha-matting-for-portrait-mode-selfies-on-pixel-6/)). That does **not** prove any **specific** walkout phone was in Portrait mode; it only shows **commercial** pipelines **do** separate **subject** from **background** in ways that can look **unlike** a naive optical view.
 
 ---
 
@@ -314,7 +322,7 @@ Drawn from the sources above; **grouped by claim type**:
 
 **Coercion / consent (author, parallel only):** There is **no** **checkbox** on typical **tax** instruments to **withhold** one’s share from **NASA** (or from other **morally contested** federal lines—**abortion-related** spending is named here **only** as the **same structural** pattern: **controversy** persists because **objectors still pay**). This file does **not** litigate abortion policy; it notes **fiscal** **non-consent** as **parallel** to **forced** **subsidy** of a **narrative** agency.
 
-**Legality of a “conscience opt-out” (U.S., sourced sketch—not tax advice):** The **IRS** publishes that **taxpayers may not** lawfully **refuse** to pay **federal income tax** on **religious or moral** grounds or because **taxes fund programs** they **oppose**; such **contentions** are **treated as frivolous** in [*The Truth About Frivolous Tax Arguments*](https://www.irs.gov/privacy-disclosure/the-truth-about-frivolous-tax-arguments-section-i-d-to-e) (Section **I.D.1**), with **civil** and **criminal** consequences **surveyed** in [Section III](https://www.irs.gov/privacy-disclosure/the-truth-about-frivolous-tax-arguments-section-iii). **Supreme Court** precedent cited there includes *United States v. Lee*, 455 U.S. 252 (1982) (broad **public interest** in a **uniform** tax **system** over **individual** **withholding** of **tax** on **conscience**). **Author read:** any **practical** attempt to **redirect** or **withhold** **payment** **along** **NASA-related** **moral** lines **runs into** **tax-protest** **law**, not a **clean** **opt-out**—so **debate** stays **cultural** while **Treasury** **mechanics** stay **compulsory**.
+**Legality of a “conscience opt-out” (U.S., sourced sketch—not tax advice):** The **IRS** publishes that **taxpayers may not** lawfully **refuse** to pay **federal income tax** on **religious or moral** grounds or because **taxes fund programs** they **oppose**; such **contentions** are **treated as frivolous** in *[The Truth About Frivolous Tax Arguments](https://www.irs.gov/privacy-disclosure/the-truth-about-frivolous-tax-arguments-section-i-d-to-e)* (Section **I.D.1**), with **civil** and **criminal** consequences **surveyed** in [Section III](https://www.irs.gov/privacy-disclosure/the-truth-about-frivolous-tax-arguments-section-iii). **Supreme Court** precedent cited there includes *United States v. Lee*, 455 U.S. 252 (1982) (broad **public interest** in a **uniform** tax **system** over **individual** **withholding** of **tax** on **conscience**). **Author read:** any **practical** attempt to **redirect** or **withhold** **payment** **along** **NASA-related** **moral** lines **runs into** **tax-protest** **law**, not a **clean** **opt-out**—so **debate** stays **cultural** while **Treasury** **mechanics** stay **compulsory**.
 
 **English First Fruits and Tenths; Pope vs Crown (author analogy):** The **Act of First Fruits and Tenths** (**1534**, **England**) **diverted** **first fruits** and **tenths** from the **Papacy** to the **English Crown**—a **revenue** **reroute** at **court** and **statute** level, **not** a **popular** **line-item** **budget** **vote**. The author **also** cites **1199** as **epochal** **shorthand** for **high-medieval** **papal** **fiscal** **claims** on **national** **church** **income** (e.g. **Innocent III**–era **instruments**); **this file** does **not** **collapse** **1199** and **1534** into one **statute**. **Metaphor:** **state** **capturing** **ecclesiastical** **dues** **without** **doctrinal** **minorities** **scheduling** **their** **own** **exemptions**.
 
