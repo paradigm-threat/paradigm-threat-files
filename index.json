@@ -490,7 +490,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-14T23:57:09Z"
+    "_updated": "2026-04-15T01:35:27Z"
   },
   "cosmos": {
     "cosmology": {
@@ -6921,13 +6921,13 @@
             "chronology",
             "investigation"
           ],
-          "_updated": "2026-04-14T23:57:09Z"
+          "_updated": "2026-04-15T01:35:27Z"
         },
         "artemis-ii-walkout-phone-preview-discrepancy-illustration.png": {
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAsABUB8JZQAAudCsXBwvlAA/uVvrVM3jmULPLcPxJTkXxdk61WTZCSOMwHgAAA=",
-          "_updated": "2026-04-15T01:33:28Z"
+          "_updated": "2026-04-15T01:35:27Z"
         },
         "artemis-ii-walkout-phone-preview-discrepancy-screenshot.png": {
           "_width": 879,
@@ -9407,6 +9407,40 @@
           "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAsABUB8JaACdAEM0U79/HQA+TJ+a91MQecJPdzstxT31f4U7ny4662jLQIivN7PhZGSm3nthaX+d4AAAA==",
           "_updated": "2026-03-17T13:54:56Z"
         },
+        "spore-ecological-disaster-martian-cylinders-investigation.md": {
+          "_title": "Investigation: Spore / aerial biological disaster \u2014 post\u2013MFEE ecology, sanitization, Martian cylinders, and fiction parallels",
+          "_keywords": [
+            "spores",
+            "ecological",
+            "disaster",
+            "martian",
+            "cylinders",
+            "mudflood",
+            "pern",
+            "nausicaa",
+            "chestnut",
+            "blight",
+            "redweed",
+            "predictive",
+            "programming",
+            "ballard",
+            "disch",
+            "genocides",
+            "bradbury",
+            "cellar",
+            "wells",
+            "panspermia",
+            "lineage",
+            "register"
+          ],
+          "_updated": "2026-04-17T12:46:02Z"
+        },
+        "spore-ecological-disaster-martian-cylinders-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwAgCdASoQAAsABUB8JbACdAEC1xE1B5VQAAD2LZcVKODANO1UrdNwVuHQwGCCuq7qB4CaUvCPGevWls2W8Q7JCUAAAA==",
+          "_updated": "2026-04-17T12:39:12Z"
+        },
         "tartarian-maps-investigation.md": {
           "_title": "Tartarian Maps Investigation \u2014 Forbidden Maps, Disclosure, and Downloads",
           "_keywords": [
@@ -9418,7 +9452,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 7
+        "_count": 9
       },
       "istanbul_periods.jpg": {
         "_width": 502,
@@ -10142,7 +10176,7 @@
         "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAA4ABUB8JbACdAD6OkT8RhAA/nUkmfqWhjPiJ5ohHwGbzy4LMWeibIizLda38aMwKlmK5dQnl5PFWOr+t/Hx6aRPm79CwYdzv33DGagAAA==",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 188
+      "_count": 190
     },
     "orphan_trains": {
       "orphan-trains-investigation.md": {
@@ -10191,7 +10225,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 567
+    "_count": 569
   },
   "influence": {
     "censorship": {
@@ -13946,6 +13980,6 @@
     },
     "_count": 153
   },
-  "_count": 1967,
-  "_version": "e589e49"
+  "_count": 1969,
+  "_version": "bb0c128"
 }
