@@ -1,8 +1,25 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-15T01:35:38.982Z",
+    "date": "2026-04-17T12:46:15.939Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md",
+        "href": "/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.png",
+        "href": "/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-15T01:35:27.000Z",
+    "message": "Investigation: embed walkout phone-preview illustration; fix screenshot markdown",
     "files": [
       {
         "status": "M",
@@ -277,23 +294,6 @@
     "files": [
       {
         "status": "M",
-        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.png",
-        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:12:17.000Z",
-    "message": "Add Kerrell & Goggin investigation cover image and timeline author links.",
-    "files": [
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md",
-        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation"
-      },
-      {
-        "status": "A",
         "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.png",
         "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.png"
       }
