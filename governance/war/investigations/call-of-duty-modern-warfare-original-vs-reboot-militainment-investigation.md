@@ -14,7 +14,7 @@
 2. **Paradigm Threat synthesis** — site “two camps” / antibody vs deep-state frame (Israel–Iran script).
 3. **§§1–2** — why the 2019 SKU is a reboot; original trilogy (Russia / WWIII tone) vs reboot (Iran, proxies, PMCs).
 4. **§3** — Glasco / Activision “Iran attacks Israel” pitch (games press only).
-5. **§4** — Alex actor, Krasinski, audience, war-film pattern, *Office* clues, closing thesis on archetypes.
+5. **§4** — Alex actor, Krasinski, audience, war-film pattern, *Office* clues (**§4.6** includes a table of **extra espionage rhymes** — Golden Ticket, *The Lover*, beside Booze Cruise / Benihana), closing thesis on archetypes.
 6. **§5** — 2025–26 arms headlines (real-world context for game premises).
 7. **§6** — militainment; **who paid** (taxpayer/sim vs Activision); sentiment on overlap.
 8. **§7** — gaps and research TODOs.
@@ -181,7 +181,14 @@ Hollywood has long cast familiar faces into uniform for Vietnam and Civil War ep
 
 **Supplementary checks (secondary sources first):** Booze Cruise dialogue above follows [Wikipedia — “Booze Cruise”](https://en.wikipedia.org/wiki/Booze_Cruise_(The_Office)) and [IMDb — episode quotes](https://www.imdb.com/title/tt0664511/). Spot-checks of English subtitles for the episode (including a longer “Superfan” extended cut) align: on-screen text includes *Titanic* and *The Hunt for Red October* in the same joke — treat extended vs broadcast as potentially different timings, not different thesis. For “A Benihana Christmas,” subtitle tracks reproduce Pam’s line about **letters from the CIA**, Michael’s bit about the CIA needing Dwight at **Langley** for “training” and an “ice cream social,” and the **helicopter** quip — i.e. **office comedy** rehearsing **CIA + Langley + air asset**, the same institutional vocabulary the *Jack Ryan* series uses seriously (clue thread; not proof 2006 writers knew casting).
 
-**Other espionage rhymes (same episodes / era):** S05E17 “Golden Ticket” cold open — knock-knock “KGB” / “The KGB will wait for no one” (Jim in scene). S06E07 “The Lover” — Jim admits he put a mallard in the office “to surveil” Dwight, then “you're not equipped for / espionage. I'm equipped…” Russia/KGB + CIA/Langley + surveillance jokes are **sitcom stock** in the same era; they read as uncanny only **after** Krasinski plays a CIA analyst.
+**Extra espionage rhymes (same clue thread, beyond Booze Cruise / Benihana):** Other episodes put **Russia/KGB**, **CIA/Langley**, or **surveillance / espionage** in Jim’s orbit as **jokes** — sitcom stock that only *feels* prophetic after Krasinski plays a CIA analyst. They are **not** presented as foreknowledge; they widen the pattern.
+
+| Episode | What rhymes with later *Jack Ryan* / spy-fiction grammar |
+|---------|-----------------------------------------------------------|
+| S02E11 “Booze Cruise” | *The Hunt for Red October* + *Titanic* mix-up (Pam/Jim); Clancy title on camera — see above. [Wikipedia](https://en.wikipedia.org/wiki/Booze_Cruise_(The_Office)) |
+| S03E10 “A Benihana Christmas” | Fake **CIA** letters; **Langley** “training”; **helicopter** gag — see above. [Wikipedia](https://en.wikipedia.org/wiki/A_Benihana_Christmas) |
+| S05E17 “Golden Ticket” | Cold open: knock-knock **“KGB”** / “The **KGB** will wait for no one” (Jim in scene). [Wikipedia — “Golden Ticket” (*The Office*)](https://en.wikipedia.org/wiki/Golden_Ticket_(The_Office)) |
+| S06E07 “The Lover” | Jim: mallard in Dwight’s office to **“surveil”** him; “you're not equipped for **espionage**. I'm equipped…” [Wikipedia — “The Lover” (*The Office*)](https://en.wikipedia.org/wiki/The_Lover_(The_Office)) |
 
 **“Perfect match” and the time-machine feeling (no literal time travel):** When Prime *Jack Ryan* **later** adopts *Hunt for Red October* as Season 3 structure on purpose ([Looper — Dec 2022](https://www.looper.com/1255171/jack-ryan-season-3-john-krasinski-finds-shows-real-story-heartbreaking/)), and when Benihana’s bit names **Langley** and **CIA** in straight-faced fake memos, the overlap with serious spy-show dialogue can feel like **verbatim prophecy**. This file **rules out** precognition or physics: the mechanism is **shared American spy-movie vocabulary**, **retrospective pattern-matching**, and **2018+ authorial choices** — not *The Office* in 2005 writing toward Amazon’s 2023 writers’ room.
 
@@ -261,7 +268,7 @@ Use this list to strengthen the file over time; items overlap Limits where noted
 
 ---
 
-**Date:** 2026-04-18 — **Consolidation pass:** [Reader Guide](#guide-read-order); merged duplicate “Cross-links” into [Related investigations](#related-investigations); §4 renumbered (sample list §4.5; *Office* clues §4.6; thesis §4.7); §6 references §2.2 instead of repeating premise; synthesis hook folded into §6.3 end. Author instructions: [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md). **2026 session:** §4.6 *Office* clue thread (Krasinski / Jack Ryan / Red October / CIA); “time machine feeling” vs no literal precognition; local path details moved to [Investigator notes](#investigator-notes) (not for web readers). Earlier edits: git history.
+**Date:** 2026-04-18 — **Consolidation pass:** [Reader Guide](#guide-read-order); merged duplicate “Cross-links” into [Related investigations](#related-investigations); §4 renumbered (sample list §4.5; *Office* clues §4.6; thesis §4.7); §6 references §2.2 instead of repeating premise; synthesis hook folded into §6.3 end. Author instructions: [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md). **2026 session:** §4.6 *Office* clue thread (Krasinski / Jack Ryan / Red October / CIA); **extra rhymes** table (Golden Ticket, *The Lover* + Booze/Benihana); “time machine feeling” vs no literal precognition; local path details in [Investigator notes](#investigator-notes). Earlier edits: git history.
 
 Keywords: #war #call-of-duty #modern-warfare #militainment #iran #russia #infinity-ward #activision #benghazi #13-hours #proxy-war #video-games #antibody #deep-state #israel #cia
 

@@ -490,7 +490,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-18T14:50:58Z"
+    "_updated": "2026-04-18T14:53:15Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5967,12 +5967,12 @@
             "israel",
             "cia"
           ],
-          "_updated": "2026-04-18T14:50:58Z"
+          "_updated": "2026-04-18T14:53:15Z"
         },
         "call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png": {
           "_width": 1536,
           "_height": 1024,
-          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAsABUB8JZACdADcpvDUbUAA/j/yiCipUIMK2kPHBLkH5+Ypy+Re0xVI7W1pXtJvreB1zKNTItxNAe2AAA==",
+          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JbACdAB81l40uAAA/kh8HiZoKoLotSGeNguIyEozXG/KEyusqZjA9ztPkuuxUdLPNERfXzYXkAAA",
           "_updated": "2026-04-18T13:59:14Z"
         },
         "call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation2.png": {
@@ -14026,5 +14026,5 @@
     "_count": 153
   },
   "_count": 1973,
-  "_version": "8f47e52"
+  "_version": "be6fef0"
 }

@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:53:26.001Z",
+    "date": "2026-04-18T14:54:19.652Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T14:53:15.000Z",
+    "message": "docs: move local paths to Investigator notes appendix; instruct editors",
     "files": [
       {
         "status": "M",
@@ -854,18 +866,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-14T23:32:16.000Z",
     "message": "Investigation: §13 NASA institutional sentiment; fix hero image markdown",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
-        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-14T13:29:53.000Z",
-    "message": "Artemis II §5.5: add X longer-mirror URL for phone-preview walkout clip",
     "files": [
       {
         "status": "M",
