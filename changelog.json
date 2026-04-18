@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:30:51.129Z",
+    "date": "2026-04-18T14:32:50.540Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T14:30:41.000Z",
+    "message": "Reduce bold markup in CoD MW investigation; keep emphasis on thesis and negations",
     "files": [
       {
         "status": "M",
@@ -839,28 +851,6 @@
         "status": "M",
         "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
         "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-14T12:20:37.000Z",
-    "message": "Add Artemis II faith-test investigation, illustration, and index entries.",
-    "files": [
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/artemis-ii-faith-test-investigation.png",
-        "href": "/history/chronology/investigations/artemis-ii-faith-test-investigation.png"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
-        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
       }
     ]
   }
