@@ -1,0 +1,33 @@
+<!-- category: Category:Call_of_Duty_4:_Modern_Warfare_Transcripts -->
+<!-- title: Aftermath (Call of Duty 4)/Transcript -->
+
+{{game|cod4|mwr}}
+
+== Cutscene ==
+''The satellite tracks the [[Shock and Awe|nuclear detonation]] in the Middle East.''
+
+'''Male Newscaster''': Something has happened...
+
+'''British Newscaster''': What appears to be an explosion of an epic proportion...
+
+'''Female Newscaster 1''': Reports remain sketchy and unconfirmed at this time...
+
+'''Male Newscaster''': Damage appears to be total... to set off what appears to have been a nuclear explosion in his own country...
+
+'''British Newscaster''': Maybe the start of something larger that on whether [[Khaled Al-Asad|Al-Asad]] was among the victims in what may have been a suicidal...
+
+'''Female Newscaster 2''': What I can see from the hotel here is a mushroom cloud, about 45 by...
+
+'''Female Newscaster 3''': ...Continue to burn across a massive wasteland, that was once a capital for this thriving nation...
+
+''The satellite uploads a list of 30,000 Marines that are MIA or KIA in the explosion, including Sgt. Paul Jackson, whose name is highlighted. The satellite then tracks Jackson somewhere in the blast radius.''
+
+== Gameplay ==
+''Sgt. [[Paul Jackson]] wakes up in the crashed [[CH-46 Sea Knight|Sea Knight]]. Severely injured from the crash, he slowly crawls out of the wreck. A radio can be heard, faintly transmitting chatter.''
+
+'''Man''': Flash. NBC-1 Nuclear. Bravo - NB-0 6-2, 6-3-4. Charlie - 90 degree grid. Hotel - surface. Juliet - 90 seconds... 10 degrees. Romeo - 2.3 centigrade.
+
+''The radio gets garbled up with a strong wave of noises, and a woman begins transmitting.''
+
+'''Woman''': ...Be advised, nuclear detonation detected, fallout predicted within a radius of 7.4 miles, epicenter located at N-B-0-5-8-6-8-0. Personnel within primary affected zone are ordered to commence immediate evacuation. Contamination centers are being established at this time, and should be operational within 2 hours. Personnel are advised to (unreadable), I am (static). Personnel with highly elevated levels are advised to seek medical attention at the first available opportunity. {{Tabber2|Modern Warfare|''The transmission ends. He falls out of the wreck and gets hurt mildly. He stands up and looks out at the darkened city. A massive white mushroom cloud is seen rising in the horizon from the nuclear explosion. Radioactive dust blows all around him and the city. The bodies of his fellow Marines including [[Pelayo|Cpt. Pelayo]] are seen on the ground around the crash site. A building can be seen crumbling down as a result of the nuclear detonation. As Jackson weakly walks up to a school playground, his hearing begins to deafen with the ghostly sounds of children playing. He falls to the ground, looks up, and the player's vision whites out. Jackson dies from either wounds sustained during the crash or radiation poisoning.''|Modern Warfare Remastered|''The transmission ends. As he crawls out of the Seaknight, buildings in front of him collapse due to the explosion. He falls out of the wreck and gets hurt mildly. He stands up and looks out at the destroyed city. A massive white mushroom cloud is seen rising in the horizon from the nuclear explosion. Radioactive dust blows all around him and the city. To his right, a corpse of Bravo Team is seen, one Marine crawls a few meters before slumping over, [[Pelayo|Cpt. Pelayo]] coughs out blood before dying, and [[Vasquez|Lt. Vasquez]] is seen limping towards the mushroom cloud before collapsing, crawling, and then finally dying. Moments after, Jackson collapses, looks up, whimpering in agony, whiting out, and dies from either wounds sustained during the crash or radiation poisoning.''
+}}{{CoD4 CampaignT}}

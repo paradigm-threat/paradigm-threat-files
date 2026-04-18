@@ -1,0 +1,336 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_2_Transcripts -->
+<!-- title: Second Sun/Transcript -->
+
+{{game|mw2|mw2r}}
+
+== Cutscene ==
+''The satellite tracks the nuclear missile launched from Russia by [[John Price|Captain Price]] during "[[Contingency (mission)|Contingency]]". The satellite then analyzes the NORAD nuclear shelter and command center in the Cheyenne Mountains in Colorado Springs where [[General Shepherd]] and the Secretary of Defense discuss the matter.''
+
+'''SecDef''': Gentlemen, the missile's vector puts it en route to the East Coast. We will lose the White House.
+
+'''[[Shepherd]]''': We've rebuilt it before, we'll rebuild it again.
+
+'''SecDef''': Casualties?
+
+'''Shepherd''': Possibly 30,000 to 50,000. Depends on the exact location of the detonation. All systems will go down.
+
+'''SecDef''': General Shepherd, you warned us. We should've listened.
+
+'''Shepherd''': When they speak of this moment, we will not be the ones who stood guard while America died. [[World War III|One man is responsible for all this]]. [[Vladimir Makarov|Makarov]] must be brought to light.
+
+'''SecDef''': Whatever you need General. You've got a blank check.
+
+''The satellite tracks Private [[James Ramirez]] in Washington D.C.''
+
+== Gameplay ==
+'''["Second Sun"]'''
+
+'''[Day 5 - 18:57:20]'''
+
+'''[Pvt. James Ramirez]'''
+
+'''[1st Bn., 75th Ranger Regiment]'''
+
+'''[Washington D.C., U.S.A.]'''
+
+'''[[Overlord]]''': [[Dagger Two-One]], this is Overlord. Do you copy, over? Dagger Two-One, this is Overlord, how copy, over?
+
+''Ramirez wakes up shell-shocked in the wreckage. Outside, [[Foley (Modern Warfare 2)|Sgt. Foley]], [[Dunn|Cpl. Dunn]], [[McCord (Modern Warfare 2)|Pvt. McCord]], [[Sandler (Modern Warfare 2)|Pvt. Sandler]], [[Wade|Pvt. Wade]] and a miscellaneous Ranger fend off hostiles from the crash site. Ramirez looks at his hands, which have sustained major injuries. His gloves are torn and his watch is damaged and no longer functioning.''
+
+'''Cpl. Dunn''': Sandler, target 2 o'clock!
+
+'''[[McCord (Modern Warfare 2)|Pvt. McCord]]''': Two mags left!
+
+'''Sgt. Foley''': Dunn, talk to me!
+
+'''Cpl. Dunn''': I'm okay!
+
+'''[[Sandler (Modern Warfare 2)|Pvt. Sandler]]''': Watch your flank!
+
+'''Cpl. Dunn''': Target 9 o'clock, range, 50 meters!
+
+''Wade turns around and hands Ramirez an [[M4A1]] [[M203|Grenedier]] w/ [[Holographic Sight|Holographic]].''
+
+'''[[Wade|Pvt. Wade]]''': Take this and stay down!
+
+''Wade is shot in the back of the head and killed.''
+
+'''Sgt. Foley''': Wade's down!
+
+''Ramirez loads his M4A1 and begins taking out targets from inside the wreckage.''
+
+'''Pvt. Sandler''': McCord, reloading, cover me!
+
+'''Pvt. McCord''': McCord covering!
+
+'''Pvt. Sandler''': Last mag!
+
+''Sgt. Foley throws a mag at Ramirez.''
+
+'''Sgt. Foley''': Ramirez! Last mag! Make it count! Team, ammo check!
+
+'''Pvt. Sandler''': I'm good!
+
+''Enemy helicopters drop off more troops.''
+
+'''Cpl. Dunn''': There's too many of them!
+
+'''Pvt. McCord''': Sean! Last mag!
+
+'''Sgt. Foley''': Sandler, sound off!
+
+'''Pvt. Sandler''': New target, range, 80 meters!
+
+'''Pvt. McCord''': Got it, got it!
+
+'''Cpl. Dunn''': Tracer! Three rounds left!
+
+''Cpl. Dunn is shot and wounded.''
+
+'''Sgt. Foley''': Corporal! Hang on!
+
+'''Cpl Dunn''': Oh shit...
+
+'''Sgt. Foley''': Defend this position!
+
+''Ramirez runs out of ammo. A [[Mi-28|Havoc]] with a searchlight blinds him as a [[BTR-80|BTR]] approaches the crash site from down the street on the right...''
+
+''[[Sat1|A U.S. astronaut]] is on a space walk, looking down on the half-lit earth. The bright East Coast is visible on the dark side of the earth.''
+
+'''ISS Control''': Come in, Sat1. This is ISS Control. Houston's requesting a feed from your helmet cam, over. Uh... they want you to look over towards the dark side of the earth. It should be cresting the horizon about 15 degrees east of the starboard PV arrays.
+
+''If the player does not look towards the right:''
+
+'''ISS Control''': Uhh, Sat1. Could you rotate a bit more to the right, will ya?
+
+''Sat1 looks to his right. The ICBM is in sight as it orbits towards the East Coast.''
+
+'''ISS Control''': There it is, we're getting your feed Sat1. Come in, Houston, (uh) are you getting this?
+
+'''Houston Command''': Copy that, ISS, video feed from Sat1 is clear. Sat1, keep tracking the bogey. We're looking into it, standby.
+
+'''ISS Control''': Houston, we're not scheduled for any satellite launches today are we?
+
+'''Houston Command''': ISS, Houston. Standby. We may have a problem here.
+
+''Sat1 continues to track the ICBM.''{{Tabber2|Modern Warfare 2|'''ISS Control''': Houston, this is ISS Control, uh... (any word on...)|Modern Warfare 2 Remastered|'''ISS Control''': Houston, this is ISS-
+}}''Suddenly the missile explodes in space over the East Coast, a dark radius blacks out over the earth. The shockwave from the explosion destroys the International Space Station and knocks away Sat1. A solar panel hits Sat1, killing him.''
+
+''Back as Ramirez, an explosion is seen in the sky. A rush of wind comes down on the city. The shockwave from the ICBM blacks out the streets and electronically knocks all aircraft out of the sky, turning off lights in the buildings, and shorting out traffic lights and the BTR's electronics, disabling it. The choppers go down and a MiG is seen crashing into a building. Sandler opens the chopper door then Ramirez steps out.''
+
+'''Cpl. Dunn''': What the hell's goin' on?
+
+'''Sgt. Foley''': Get off the street now! Go!
+
+''Sgt. Foley, Cpl. Dunn, Ramirez, Pvt. Sandler, Pvt. McCord, and the Ranger run for shelter, dodging falling helicopters that rain on the streets, including Havocs, Little Birds, and even friendly Black Hawks. One Little Bird crashes right on top of a disabled BTR, destroying it.''
+
+'''Cpl. Dunn''': This isn't good, man! WHOA!
+
+'''Sgt. Foley''': Don't stop! Keep moving!
+
+'''Cpl. Dunn''': HOLY SHIT!
+
+'''Sgt. Foley''': Go go go!
+
+'''Ranger''': What the hell's goin' on?!
+
+'''Cpl. Dunn''': EMP!
+
+'''Sgt. Foley''': Just keep moving!
+
+'''Cpl. Dunn''': LOOK OUT!
+
+'''Sgt. Foley''': Go! Go!
+
+''They reach a bookstore just as a Little Bird crashes near the opening, shell-shocking Ramirez, and blocking the opening with flames. Ramirez finds some spare ammo, reloads his M4, and grabs an [[M9]] pistol.''
+
+'''Cpl. Dunn''': What the hell are we gonna do now, man? Russians got us out numbered, shit's falling from the sky, we're screwed, man! We're totally -{{Tabber2|Modern Warfare 2|'''Sgt. Foley''': Shut up! Get a grip, Corporal! Our weapons still work, which means we can still kick some ass.|Modern Warfare 2 Remastered|'''Sgt. Foley''': Shut up! Get a grip, Corporal! Our weapons still work, which means we can still kick some ass, hooah?
+}}''A passenger plane crashes on the street. One of its engines slides into a piece of wreckage, blocking the street between the bookstore and Dagger Two-One's crash site. The player must move forward from here. All becomes quiet.''
+
+'''Ranger''': What the hell was that?!
+
+'''Sgt. Foley''': Stay here.
+
+'''Cpl. Dunn''': You're goin' out there? Are you nuts?
+
+''Sgt. Foley goes out of the building and scans the area. The chaos from the EMP is over.''
+
+'''Sgt. Foley''': It's over. Come on, we still have a war to fight.
+
+'''Ranger''': What the hell happened here?
+
+'''Cpl. Dunn''': Oh, man it's quiet. Hey is your red dot working? Mine's out.
+
+'''Ranger''': Mine's down too. This is weird, bro.
+
+''The player can look through his M4A1's Holographic Sight which no longer has the red dot crosshair due to the ICBM's EMP. Inside a building on the right, an M4A1 Grenadier with iron sights can be found and exchanged (switching the pistol grants double maximum ammo capacity: 1260 rounds and 21 grenade rounds). The ammo crate helps refill Ramirez's ammo.''
+
+'''Sgt. Foley''': [[EMP|Looks like optics are down... comms too. There's not even a street light for blocks.]]
+
+'''Cpl. Dunn''': Wow... check it out, man. (noting the passenger plane wreck)
+
+''Sgt. Foley checks a downed Ranger who is dead.''
+
+'''Sgt. Foley''': Dammit. All right. We gotta regroup with whoever's left out there. Corporal Dunn, take point.
+
+'''Cpl. Dunn''': Hooah.
+
+''Cpl. Dunn moves up to a large building ahead on the left as it starts to rain. A person is seen coming out of it.''
+
+'''Cpl. Dunn''': Star! Star, or we will fire on you!
+
+'''Ranger ([[Vaughan|Pvt. Vaughan]])''': I don't remember the damn countersign, alright? I'm just a runner! Don't shoot!
+
+''The person, a fellow Ranger, Pvt. Vaughan, armed with an [[MP5K]], meets up with Foley and his squad.''
+
+'''Sgt. Foley''': The proper response is 'Texas', soldier. What'dya got?
+
+'''Ranger (Pvt. Vaughan)''': [[Marshall (Modern Warfare 2)|Colonel Marshall]]'s assembling a task force at Whiskey Hotel. You guys need to keep heading north,
+
+'''Cpl. Dunn''': So where are you goin' then?
+
+'''Ranger (Pvt. Vaughan)''': To tell everyone else! Get to Whiskey Hotel! Go!
+
+'''Sgt. Foley''': You heard the man. Let's go.
+
+''As Pvt. Vaughan moves on to look for more American troops and pass on his message, the team makes their way to Whiskey Hotel. They move into the building. Due to the EMP, comms are down, so they whisper.''
+
+'''Sgt. Foley''': Dunn, you're up.
+
+'''Cpl. Dunn''': Hooah. Clear.
+
+'''Ranger (McCord/Sandler)''': I got our six.
+
+'''Sgt. Foley''': Copy that.
+
+''They move up the stairs. Clatter is heard from behind the door. At Foley's signal, a Ranger opens the door.''
+
+'''Ranger''': Star.
+
+''He is shot and killed.''
+
+'''Cpl. Dunn''': Son of a...!
+
+'''Sgt. Foley''': Contact!
+
+''Cpl. Dunn kicks down the door while Foley tosses in a [[flashbang]]. They engage and eliminate the Russians inside the office. After clearing the room, they move on to another office room, engage and eliminate Russians.''
+
+'''Cpl. Dunn''': They're dead, right?!
+
+'''Ranger (McCord/Sandler)''': Clear!
+
+'''Sgt. Foley''': Room clear! Let's go!
+
+''They move out of the building and out into the rain.''
+
+'''Sgt. Foley''': There's the Eisenhower Building. Whiskey Hotel's on the other side.
+
+'''Cpl. Dunn''': Aw man, we gotta go out there...?
+
+''They see a body of a Ranger.''
+
+'''Sgt. Foley''': Dunn. Check for vitals. We'll cover you.
+
+''Cpl. Dunn checks him.''
+
+'''Cpl. Dunn''': He's a goner.
+
+'''Sgt. Foley''': Keep quiet.
+
+''They see three Russians on top of a BTR. They're trying to free the Russians trapped inside due to the BTR having its electronics shorted out by the EMP.''
+
+'''Trapped 1''': Эй! Меня кто-нибудь слышит? Есть там живые? Эй! (Hey! Can somebody hear me? Is there anyone alive? Hey!)
+
+'''Trapped 2''': Заткнись! Голова раскалывается! (Shut up! My head hurts!)
+
+'''Russian 1''': Слышим, держитесь! Мы вас вытащим! (We hear you, hold on! We'll pull you out!)
+
+'''Russian 2''': Ёб тебя, как откроем этот люк? Тут же электронный замок! (Fuck how do we open that hatch? There is an electronic lock!)
+
+'''Russian 3''': Заткнись и помогай! (Shut up and help me!)
+
+'''Trapped 1''': Выпусти нас! (Let us out!)
+
+'''Trapped 2''': Ну что так долго? Давайте, пошли! (What's taking so long? Let's go!)
+
+'''Russian 3''': Сиди тихо и не паникуй! Мы вас вытащим! (Sit quietly and don't panic! We'll get you out!)
+
+'''Russian 1''': Не поддается! *illegibly*, нам так их не вытащить! (It doesn't budge! *Illegibly*, we won't get them out this way!)
+
+'''Russian 2''': Нам нужен лом, чтобы открыть люк. Давайте искать, ребята. (We need a crowbar to open the hatch. Let's find it, guys.)
+
+'''Russian 3''': Некогда инструменты искать. Тяни давай! (We have no time to look for tools! Push it, come on!)
+
+'''Trapped 2''': А, твою мать! Нихрена не видно! (Ah, fuck! Can't see squat!)
+
+'''Trapped 1''': Ну, давайте! Открой люк! (Come on! Open the hatch!)
+
+'''Ranger (McCord/Sandler)''': Got a visual on three tangos.
+
+'''Sgt. Foley''': Stay low, move into position.
+
+''They move up and take aim.''
+
+'''Ranger (McCord/Sandler)''': Clear shot.
+
+'''Sgt. Foley''': Smoke 'em.
+
+''They (automatically) take out the three Russians.''
+
+'''Sgt. Foley''': Move up.
+
+'''Cpl. Dunn''': What about the guys inside?
+
+'''Sgt. Foley''': What about 'em?
+
+''They continue their way to the Eisenhower Building. As they pass the BTR, more muffled Russian is heard from inside.''
+
+'''Ranger (McCord/Sandler)''': I got our six.
+
+'''Cpl. Dunn''': It's clear. I don't know what's worse, man - dodging falling helicopters or freezing my ass off in this monsoon.
+
+'''Ranger (McCord/Sandler)''': Hooah.
+
+''A group of people are seen on the street in front of the Eisenhower Building.''
+
+'''Sgt. Foley''': Quiet - I think I see something. Hold your fire.
+
+'''Cpl. Dunn''': Are they friendly?
+
+'''Sgt. Foley''': I don't know... Star! Cover me. Star!
+
+''Sgt. Foley throws a flare towards them.''
+
+'''Cpl. Dunn''': Say Texas, dammit... just say it.
+
+''When the flare reaches said group, it is actually Russian soldiers. The Russians fire at them.''
+
+'''Cpl. Dunn''': Contact!
+
+''They engage them on the street.''
+
+'''Ranger (McCord/Sandler)''': Street clear!
+
+'''Sgt. Foley''': We're Oscar Mike, let's go! Watch for movement. Move up.
+
+''They move up and into the Eisenhower Building.''
+
+'''Ranger (McCord/Sandler)''': Feet dry.
+
+'''Cpl. Dunn''': Hooah.
+
+'''Sgt. Foley''': Cut the chatter. Ramirez, take point.
+
+''Ramirez moves down the stairs into a basement. A door with the President's seal is seen.''
+
+'''Cpl. Dunn''': (Whoa) Check out the seal on this door... I thought the President's bunker was under the West Wing. Is it the real thing?
+
+'''Sgt. Foley''': No, that's just for tourists. This must be the real thing. Open it up.
+
+''Cpl. Dunn opens the door, but sees the bunker inside having been severely damaged.''
+
+'''Cpl. Dunn''': (whistles) Real or not man, this place is history. Hope they got out in time.
+
+''They move down into the President's bunker.''
+
+{{CoD6 CampaignT}}

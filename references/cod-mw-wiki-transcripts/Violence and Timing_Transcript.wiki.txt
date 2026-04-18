@@ -1,0 +1,724 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_II_Transcripts -->
+<!-- title: Violence and Timing/Transcript -->
+
+{{game|1=mwii}}
+== Cutscene ==
+''[[John Price (Reboot)|Captain John Price]] and Sergeant [[Kyle "Gaz" Garrick]] watch a video on their laptop of [[Kate Laswell]] in a moving vehicle, held at gunpoint a masked [[Al-Qatala]] fighter. General [[Herschel Shepherd|Shepherd]] is on the other line.''
+
+'''Gaz''': This is proof of life.
+
+'''Price''': Where did this come from?
+
+'''Shepherd''': [[Urzikstan]].
+
+'''Price''': Look... They're pointing east.
+
+'''Shepherd''': Likely at [[Al Mazrah]].
+
+'''Gaz''': They get her underground there, we'll lose her for good.
+
+'''Price''': We'll lead the rescue team.
+
+''Price starts to move before Shepherd interjects.''
+
+'''Shepherd''': That's not gonna happen, John.
+
+''Price stops in his tracks.''
+
+'''Gaz''': Say again, General?
+
+'''Shepherd''': This is a tug o' war, boys. We need to pull back, not lean forward.
+
+'''Gaz''': Since when?
+
+'''Shepherd''': Since now. We can't just send in the cavalry. These things take planning and preparation.
+
+'''Price''': These things take violence and timing, I can do both. Kate's life is in a fuckin' hourglass.
+
+''An airborne [[UH-60 Blackhawk|UH-60]] Black Hawk approaches, which Gaz waves down.''
+
+'''Shepherd''': I know you're upset, Captain. [[Recon by Fire|This happened on your mission]] and that's a tough pill to swallow.
+
+'''Price''': Are you telling me, we leave her?
+
+'''Shepherd''': I'm telling you I can't help you... But I won't stop you.
+
+''Price and Gaz look at each other for a moment.''
+
+'''Price''': I'll have her back in twelve hours.
+
+''Price closes the laptop.''
+
+'''Shepherd''': Don't die doin' this, John. Laswell wouldn't want that. I don't either.
+
+'''Gaz''': General, I thought Kate was your friend?
+
+'''Shepherd''': War isn't about friends. It's about enemies. Good luck.
+
+''Price hands Gaz the laptop and they start walking toward the helicopter that's just landing.''
+
+'''Gaz''': We'd be going head to head with AQ on their home turf. They're going to have hundreds more protecting Laswell. We need an army.
+
+'''Price''': I can get us an army.
+
+''Price and Gaz board the helicopter as Price turns to the cockpit.''
+
+'''Price''': Nik!
+
+''[[Nikolai (Reboot)|Nikolai]] turns to greet Price and Gaz.''
+
+'''Nikolai:''' Where to?
+
+''The scene shifts to Urzikstan.''
+
+'''URZIKSTAN'''
+
+''A convoy of vehicles drives on the road through the desert. In one of the vehicles, Laswell sits in her seat under guard from Al Qatala fighters. On top of a mesa, a motorcycle comes to a stop. The driver lifts her goggles, revealing herself to be [[Farah Karim]]. A [[Urzikstan Liberation Force|Liberation Force]] fighter speaks with Farah through the radio.''
+
+'''LF Fighter''': (in Arabic) Commander, Al-Qatala's here.
+
+'''Farah''': (in Arabic) Copy, I see them. Go to the rally point and wait for us.
+
+'''LF Fighter''': (in Arabic) Yes, Ma'am.
+
+''Farah looks up to the skies to see Nikolai's helicopter fly by.''
+
+'''Farah''': Captain- It's Farah. It's time.
+
+'''Price''': Rog. Wheels down in one.
+
+''Farah replaces her goggles and mask, and then revs up her motorcycle as she drives down the mesa.''
+
+== Gameplay ==
+'''Price''': Nik, convoy's inbound. We're on.
+
+'''Nikolai''': Copy that.
+
+''Nikolai's Black Hawk flies over the desert to the road that the enemy convoy is driving on.''
+
+'''Nikolai''': Over the HLZ now.
+
+'''Price''': Good. Set 'er down and hold.
+
+''Inside the helicopter, Price walks over to the helicopter hatch where Gaz is standing.''
+
+'''Price''': Gaz, you stay in the heli on overwatch. We'll work our way up the line.
+
+'''Gaz''': Roger that. Let's thin the herd, get Laswell back.
+
+''Price and Gaz trade fist bumps before Price dismounts from the helicopter and walks over to Farah on her motorcycle.''
+
+'''Farah''': Hey, old man.
+
+'''Price''': Farah, thanks for the assist.
+
+'''Farah''': We share a common enemy.
+
+'''Price''': And a friend in need. Are you ready?
+
+''Farah replaces her mask and goggles.''
+
+'''Farah''': All set. See you down the road!
+
+''Farah drives off.''
+
+'''Price''': All stations... we're on the move!
+
+'''Farah''': Copy!
+
+''Price runs over to a pickup truck and joins an attack force of Urzikstan Liberation Force fighters on motorcycles and pickup trucks.''
+
+'''Gaz''': Rog! Nik - green to go!
+
+'''KYLE "GAZ" GARRICK - [[Task Force 141 (Reboot)|TF-141]], LF'''
+
+'''VIOLENCE AND TIMING'''
+
+'''URZIKSTAN'''
+
+'''01 NOV 2022, 1600'''
+
+''The rescue team drives at high speed to the road.''
+
+'''Farah''': All station, we're up -- comms check...
+
+'''Price''': Good copy.
+
+'''Gaz''': Check.
+
+'''Nikolai''': Loud and clear.
+
+'''Farah''': The Al-Qatala convoy just passed us. We'll be right behind them.
+
+'''Price''': Copy. Nik, use the ravines for cover. We've got one shot to rescue Laswell.
+
+'''Nikolai''': Roger that.
+
+'''Gaz''': What vehicle is she in?
+
+'''Farah''': Al-Qatala has her in a black SUV, near the front of the convoy.
+
+'''Price''': We hit the escort vehicles first. Then, we secure Laswell before AQ can reach the border.
+
+'''Farah''': Watch your fire - There's civilians on the highway.
+
+''The rescue force reaches the very rear of the enemy convoy.''
+
+'''Nikolai''': Captain, we are in range.
+
+'''Price''': All stations, weapons free.
+
+'''Farah''': (in Arabic) Soldiers, move in!
+
+''Al-Qatala's escort vehicles open fire on the rescue force.''
+
+'''Gaz''': They know we're here now!
+
+''Gaz provides fire from the Black Hawk and shoots down the first rear vehicle's occupants.''
+
+'''Farah''': They're down, keep pushing!
+
+''Gaz continues to provide cover fire for the rescue force as they reach the first truck full of AQ fighters.''
+
+'''Farah''': (in Arabic) You two, take the truck!
+
+'''LF Fighter 2''': (in Arabic) Yes, Commander!
+
+''Farah's soldiers take control of the first truck.''
+
+'''Farah''': Two AQ trucks ahead. AQ in the pick-up truck!
+
+'''Gaz''': Got a visual!
+
+''Farah drives up to one of the AQ trucks with a [[Molotov Cocktail|Molotov cocktail]].''
+
+'''Farah''': Throwing molotov!
+
+''Farah successfully throws the Molotov at the truck. burning the occupants inside.''
+
+'''Nikolai''': Heh-heh... I missed Farah!
+
+''The rescue forces reaches another truck with an armored fighter inside it.''
+
+'''Farah''': Bastard's armored! Aim for his head, Sergeant!
+
+''Gaz shoots the armored AQ fighter in the head.''
+
+'''Gaz''': Slotted 'em!
+
+'''Farah''': Good shots, Sergeant!
+
+''(If Gaz's ammunition starts to run low...)''
+
+'''Gaz''': Running low!
+
+'''Nikolai''': Ammo is next to you!
+
+''Another armored AQ fighter in the next truck aims a missile launcher at Nikolai's Black Hawk, causing the onboard alarm to sound.''
+
+'''Nikolai''': Shit-! Enemy missile lock!
+
+'''Farah''': He's going to fire! Hit him now!
+
+''Gaz successfully kills the missile launcher.''
+
+'''Gaz''': Launcher's down!
+
+'''Nikolai''': Fucking hell.
+
+'''Price''': Move up!
+
+'''Farah''': Check fire on the pickup truck! There's a friendly aboard!
+
+'''Price''': Thinning the herd, Farah!
+
+'''Farah''': Like old times, Captain!
+
+''The rescue force progresses through the mission, killing the AQ fighters in the convoy.''
+
+'''Farah''': (in Arabic) Brothers, attack the next vehicle!
+
+''The Liberation Force pickup truck drives alongside the AQ vehicle, but the enemy vehicle swerves left, forcing the rescue vehicle to drives straight into a civilian vehicle and explode.''
+
+'''Farah''': No-!
+
+'''Gaz''': Bloody hell!
+
+'''Nikolai''': More AQ, two trucks ahead!
+
+''Two AQ fighters with missile launchers aims at Nikolai's helicopter.''
+
+'''Nikolai''': [Fuck!] AQ's locking on to us!
+
+''Gaz fires at the missile launchers, only to find that they're armored.''
+
+'''Gaz''': Fuckers are wearin' armor!
+
+'''Nikolai''': Deploying countermeasures!
+
+''The missile launchers lock on to the helicopter and fire a missile.''
+
+'''Gaz''': Nik! Incoming!
+
+'''Nikolai''': Hold on!
+
+''The missile hits the Black Hawk, causing the helicopter to rock back and forth.''
+
+'''Nikolai''': Fuck! We're hit!
+
+''The helicopter's erratic movements cause Gaz to lose his [[SCAR-L|TAQ-56]] assault rifle and fall out of the helicopter.''
+
+'''Nikolai''': Sergeant!
+
+''Gaz misses hitting the ground due to being tied off from the helicopter. He hangs upside down as a red civilian vehicle narrowly misses Gaz.''
+
+'''Gaz''': Fuck-
+
+''Four Liberation Force motorcycles speed past Gaz as well.''
+
+'''Gaz''': -ING HELL!
+
+''Gaz looks up to see Gas's helicopter stable in the air, but trailing smoke. He then pulls out his [[X12]] pistol.''
+
+'''Price''': Nik - What's your status?
+
+'''Nikolai''': Captain, Gaz fell out!
+
+'''Price''': Say again?
+
+'''Nikolai''': The Sergeant! He's gone!
+
+'''Gaz''': I'm not dead, Nik! I'm hanging from a bloody rope!
+
+'''Nikolai''': (in Russian) Holy shit!
+
+''Gaz fires his [[X12]] pistol at the AQ fighters in the next truck while hanging upside down.''
+
+'''Gaz''': Pull up! Pull up!
+
+'''Nikolai''': Trying to...!
+
+'''Farah''': Throwing molotov!
+
+''Farah successfully throws another Molotov at the next AQ truck, burning the enemy fighters inside.''
+
+'''Gaz''': Oh shit, shit-! Shit-!
+
+'''Price''': Gaz, what's your status?!
+
+'''Gaz''': A little busy right now, Captain!
+
+''(If Gaz shoots at any of his allies...)''
+
+'''Nikolai''': Check fire! You're shooting friendlies!
+
+'''LF Fighter 2''': (in Arabic) Rocket out!
+
+''A Liberation Force fighter fires a rocket and successfully destroys the next AQ vehicle. Another civilian vehicle drives right past Gaz, narrowly missing him by a couple of inches.''
+
+'''Gaz''': Nik, pull up! PULL UP!
+
+''Another civilian truck narrowly avoids hitting Gaz.''
+
+'''Gaz''': Ho-ly-fuuuuuck-!
+
+''Another AQ fighter with a missile launcher aims at Nikolai's helicopter.''
+
+'''Nikolai''': Shit-! Enemy missile lock!
+
+''Gaz successfully kills the missile launcher.''
+
+'''Nikolai''': Outstanding, Gaz!
+
+''Another AQ vehicle forces a Liberation Force truck to drive straight into a civilian vehicles and explode.''
+
+'''Nikolai''': NOOOooo--!
+
+''Gaz spots an Al-Qatala truck ahead.''
+
+'''Gaz''': There's a truck ahead - get us over it!
+
+'''Nikolai''': I can try... Hang on!
+
+''Nikolai flies his Black Hawk over the enemy truck.''
+
+'''Nikolai''': High as I can go -- you'll have to cut loose!
+
+''Gaz takes out his knife and cuts the rope he's hanging from, causing him to drop and land right on top of the truck.''
+
+'''Gaz''': I'm free...!
+
+'''Price''': Get back in the fight, Sergeant!
+
+'''Farah''': The convoy's gaining distance, we have to keep moving up!
+
+''Gaz spots an Al-Qatala pickup truck, leaps onto it, and then hijacks the vehicle by throwing an enemy driver out onto the road.''
+
+'''Gaz''': All stations, I secured a vehicle. AQ convoy's still in sight!
+
+'''Price''': Solid copy, Gaz! Keep thinning the herd and push up to Laswell.
+
+'''Farah''': I have some soldiers with you, Sergeant.
+
+'''Gaz''': Rog! What's your position?
+
+'''Price''': We're catching up. 6 out.
+
+''Gaz spots some of Farah's men ahead.''
+
+'''Nikolai''': You're coming up on a green truck. Those are Farah's soldiers.
+
+'''Gaz''': Rog, I see 'em!
+
+''Gaz watches as an Al Qatala truck forces another one of Farah's trucks to collide with another civilian vehicle and explode..''
+
+'''Gaz''': Dammit! Farah's mates just got hit!
+
+'''Farah''': We came to fight, Sergeant... Focus on the enemy and get up to Laswell.
+
+''Gaz alternates between driving his truck and shooting at the Al Qatala soldiers as he continues to move up the convoy. He spots another Al Qatala vehicle with an [[Light Machine Gun|LMG]] onboard.''
+
+'''Gaz''': Nik - what are you seeing...?
+
+'''Nikolai''': LMG ahead!
+
+''Gaz manages to kill the LMG soldier and then encounters more Al Qatala vehicles.''
+
+'''Nikolai''': More AQ trucks! Careful! That one carries fuel drums!
+
+'''Gaz''': Bad move!
+
+''Gaz shoots the fuel drums, causing the truck to explode in a massive fireball.''
+
+'''Gaz''': Tracking the convoy north-
+
+'''Price''': Solid copy. Stay on 'em. We're heading your way.
+
+'''Farah''': Gaz, Nik -- my spotters are reporting an AQ roadblock ahead.
+
+'''Nikolai''': Affirm, I see it. You might have to ram through.
+
+'''Farah''': Crash it -- Kill as many as you can...
+
+'''Gaz''': Shock and awe.
+
+''Gaz spots the enemy roadblock ahead as Al Qatala soldiers open fire on him. Gaz plows right through the roadblock, killing many of the enemy soldiers.''
+
+'''Gaz''': Not today, boys... Nik, I punched through!
+
+'''Nikolai''': Copy, Sergeant. Be advised, there's a situation up the road...
+
+''Gaz continues to drive down the road and move up through the convoy until he spots several burning civilian vehicles ahead.''
+
+'''Gaz''': What the hell is this?
+
+'''Nikolai''': AQ is deploying mines own the highway.
+
+'''Gaz''': These are civilians, Nik. AQ will burn for this.
+
+'''Farah''': I'll bring the matches...
+
+'''Nikolai''': Mines ahead, Sergeant.
+
+''Gaz spots the enemy planting mines on the highway. Several civilian vehicles hit the mines and explode violently.''
+
+'''Gaz''': Where are these mines coming from?
+
+'''Nikolai''': Off a truck forward of your position.
+
+''Gaz drives past a civilian vehicle as it hits a mine and explodes.''
+
+'''Nikolai''': Watch out!
+
+'''Gaz''': Damn! AQ's hitting civilians. We have to take out that truck!
+
+'''Nikolai''': You're closing on the mine-truck now!
+
+'''Gaz''': Solid copy.
+
+''Gaz reaches the truck carrying the mines and shoots the soldier deploying those mines.''
+
+'''Gaz''': Mines are done!
+
+''Gaz drives up the highway as he pushes through the convoy.''
+
+'''Gaz''': All stations, what's your status?
+
+'''Price''': Check fire - check fire, Sergeant. I'm in a cargo truck on your six about to pass.
+
+'''Farah''': Just passed the roadblock!
+
+''Gaz spots the cargo truck carrying Price and Farah's soldiers.''
+
+'''Price''': Gaz!
+
+'''Gaz''': Captain!
+
+'''Price''': AQ's got reinforcements. You'll need some firepower! Hop in, Sergeant, let's go!
+
+''(If Gaz doesn't immediately board Price's truck..)''
+
+'''Price''': Get in the truck!
+
+''Gaz drives up to Price's truck and leaps onto it.''
+
+'''Price''': Good to see you in one piece. Take the grenade launcher.
+
+''Gaz grabs the [[War Machine|grenade launcher]] from off of Price's back.''
+
+'''Gaz''': Sweet heat, Captain... What's the word?
+
+'''Price''': We're getting close to Laswell, so they're changing tactics. 
+
+'''Gaz''': How so?
+
+'''Price''': We were chasing them... Now they're gonna chase us.
+
+'''Gaz''': Let 'em try, sir... Let 'em bloody try...
+
+'''Price''': Check rear- It's Farah.
+
+''Price and Gaz look to the rear and find Farah driving up to them on her motorcycle.''
+
+'''Gaz''': Gang's all here. Let's bring this home!
+
+''Farah drives alongside Price and Gaz.''
+
+'''Farah''': Captain! Al Qatala's coming back this way... They'll try to box us in!
+
+'''Gaz''': Not if we can help it.
+
+''Gaz spots an incoming Al Qatala truck about to hit Farah.''
+
+'''Gaz''': Here they come. Farah, watch it!
+
+''Farah swerves to the side in the nick of time as the Al Qatala vehicle speeds past them.''
+
+'''Price''': Gaz, hit 'em with the launcher!
+
+'''Gaz''': Copy, I'm on 'em!
+
+''Gaz fires the grenade launcher and destroys the enemy pursuers' vehicles.''
+
+'''Price''': Direct hit!; Good round!; Proper aim, Gaz!
+
+''(If Gaz hits Farah's team by mistake...)''
+
+'''Nikolai''': Cease fire! That is Farah's team!
+
+''An armored Al Qatala vehicle attacks the rescue force, destroying one the vehicles.''
+
+'''Nikolai''': LMG, on the right!
+
+'''Farah''': (in Arabic) Soldiers! Attack that machine gun!
+
+''Gaz helps his allies destroy the armored vehicle.''
+
+'''Gaz''': Got the bastard!
+
+'''Price''': Nice work!
+
+''The rescue force faces off against the enemy convoy and then notices the convoy driving left off the road.''
+
+'''Nikolai''': Captain, the convoy is diverting left!
+
+'''Farah''': They're taking a shortcut to the border!
+
+'''Price''': Copy, Nik! Stay on 'em!
+
+'''Farah''': Watch your backs!
+
+'''Price''': Dust 'em! Farah, stay close!
+
+'''Farah''': We're with you!
+
+'''Price''': Keep hitting the vehicles!
+
+''Gaz destroys the enemy vehicles with the grenade launcher.''
+
+'''Gaz''': Clear in the back!
+
+'''Price''': Nik, do you have a visual on Laswell's vehicle?
+
+'''Nikolai''': Affirmative, Captain. But there's a lot of Al Qatala between you.
+
+'''Gaz''': Leave that to us!
+
+'''Price''': Just don't lose her, Nik. 6 out.
+
+'''Farah''': AQ's best soldiers will guard Laswell. We're getting close!
+
+'''Price''': We need to spread out. Gaz, secure a vehicle. We'll hit 'em from every angle we can.
+
+''(If Gaz doesn't immediately board an enemy vehicle:)''
+
+'''Price''': Take another vehicle, Gaz. We need to spread out.; Gaz, load up and secure a vehicle.
+
+''Gaz takes control of an enemy vehicle.''
+
+''(If Gaz's vehicle takes enough damage...)''
+
+'''Price/Nikolai''': Sergeant, you need new wheels.
+
+''Gaz moves up through the convoy, alternating between shooting the enemy soldiers and driving his vehicle. He comes upon another group of Al-Qatala vehicles, one of which aims a missile launcher at Gaz.''
+
+'''Farah''': Enemy missile! He's on you, Sergeant!
+
+'''Price''': He's looking on to you, Gaz!; Take him down, Sergeant!
+
+''Gaz successfully shoots the missile launcher soldier.''
+
+'''Farah''': He's down! Move up!
+
+'''Nikolai''': All stations, AQ is deploying bomb drones ahead!
+
+'''Price''': Solid copy, Nik!
+
+'''Gaz''': How did AQ get bomb drones?
+
+'''Farah''': Major [[Hassan Zyani|Hassan]]! (in Arabic) Soldiers! Careful, bombs in the sky!
+
+'''LF Fighter 2''': (in Arabic) Yes, Commander!
+
+'''Farah''': I see them! Up ahead!
+
+'''Price''': Take 'em out fast or we're done!
+
+''Gaz alternates between shooting down the drones and driving his vehicle.''
+
+'''Nikolai''': Gaz, the drone pilot is in the rear of the truck! Take him out-!
+
+''(If one of the drones manages to hit Gaz's vehicle...)''
+
+'''Farah''': Gaz, you wounded?
+
+'''Gaz''': Not yet!
+
+'''Price''': Another hit like that and you will be!
+
+''Gaz kills the drone pilot.''
+
+'''Gaz''': Got the drone pilot!
+
+''Gaz drives up to find an enemy [[APC]] ahead of him.''
+
+'''Nikolai''': Be advised, enemy APC ahead!
+
+'''Gaz''': We don't have the firepower to take on an APC!
+
+'''Farah''': Get in close! When you're ready, I'll draw its fire so you can board!
+
+'''Gaz''': Copy that!
+
+''Gaz drives after the enemy APC, which fires on Gaz with its machine gun and deploys mines at the same time.''
+
+'''Gaz''': Bloody hell-!
+
+'''Price''': Keep moving, Gaz! Don't get caught in its fire!
+
+'''Farah''': Sergeant, you have to get close to the APC!
+
+''Gaz drives up to the rear of the APC.''
+
+'''Gaz''': I'm in position!
+
+'''Farah''': Okay, get ready!
+
+''Farah drives up in front of the APC, drawing its fire from Gaz.''
+
+'''Farah''': Now, Sergeant! Board the APC!
+
+''Gaz leaps from his vehicle and onto the APC, shooting an Al-Qatala soldier that pops up out of the hatch.''
+
+'''Price''': Plant a charge and get out of there, Sergeant!
+
+''Gaz places an explosive charge on the dead enemy soldier's body and shoves the body back into the APC, before closing the hatch.''
+
+'''Gaz''': Charges set!
+
+''Price's allied vehicle drives alongside the APC on the left side.''
+
+'''Price''': On the left! Jump across!
+
+''Gaz jumps off the APC and onto Price's vehicle. The APC explodes and flips onto the ground.''
+
+'''Gaz''': Good det.
+
+'''Price''': Copy that.
+
+'''Farah''': Captain, we're approaching the border!
+
+'''Price''': Rog - Nikolai, block 'em with the helo!
+
+'''Nikolai''': I'm on it, Captain!
+
+''Nikolai flies his Black Hawk ahead of the group as Farah drives ahead and reaches the front of the convoy.''
+
+'''Farah''': Contact!
+
+'''Price''': Check fire! Laswell and Nikolai are ahead of us!
+
+'''Gaz''': Copy that!
+
+''Price and Gaz join Farah and her soldiers as they attack and kill the Al Qatala fighters.''
+
+'''Price''': Laswell's in the black SUV, Sergeant. Move in.
+
+''The rescue force eliminates all the remaining Al Qatala soldiers.''
+
+'''Price''': Black SUV, Gaz. Move yer arse.
+
+''Gaz approaches the black SUV ahead.'' 
+
+''(If Gaz doesn't immediately move to secure the SUV...)''
+
+'''Price''': Gaz, open it.
+
+''Gaz reaches for the passenger side door. Suddenly, Laswell leaps out from the vehicle with an Al Qatala fighter, whom she elbows in the face and puts into a chokehold with the soldier's rifle.''
+
+'''Gaz''': Kate!
+
+'''Farah''': (in Arabic) Let go -- drop your weapon!!
+
+'''Price''': Laswell, clear! Kate - move!
+
+'''Laswell''': No-! He's mine...!
+
+''Laswell snaps the soldier's neck, killing him.''
+
+'''Price''': Check it.
+
+''Gaz checks out the SUV for any more soldiers. Laswell gets up to her feet as Price tries to calm her down.''
+
+'''Gaz''': All clear!
+
+'''Price''': Kate - It's over... It's over.
+
+''Laswell calms down.''
+
+'''Laswell''': It's a family reunion.
+
+'''Gaz''': Wouldn't miss it.
+
+''Laswell looks at Farah gratefully.''
+
+'''Laswell''': Farah.
+
+'''Farah''': Nice moves, Laswell.
+
+'''Laswell''': You too... All of you.
+
+'''Price''': We're in Al Mazrah - we gotta get somewhere safe... now.
+
+'''Farah''': Captain's right. 
+
+''Price and Gaz escort Laswell to Nikolai's helicopter and Farah goes to rejoin her troops.''
+
+'''Farah''': (in Arabic) Back over the border, I'll take point.
+
+''The rescue force leaves the area.''
+
+''Cut to black. End of level.''
+
+{{CoD19 CampaignT}}
+[[Category:Call of Duty: Modern Warfare II Transcripts]]

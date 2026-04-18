@@ -1,0 +1,296 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_3_Transcripts -->
+<!-- title: Hunter Killer/Transcript -->
+
+{{game|MW3}}
+
+==Cutscene==
+
+''The jamming tower on top of the Stock Exchange has been [[Black Tuesday|destroyed]] and guidance systems go back online as a flight of [[F-15 Eagle|F-15s]] and a few F-22s prepare to launch missiles at various targets all across New York City.''
+
+'''F-22 Pilot''': This is Lightning 3-1. Guidance systems are back online. Standing by with a full payload of JDAMs. Requesting clearance.
+
+'''[[Overlord]]''': Lightning 3-1, you are cleared to engage.
+
+'''F-22 Pilot''': Breaking the hard deck. T.O.T. 5 seconds. Weapons away.
+
+''Lightning 3-1 launches airstrikes on a SAM site on a rooftop and on a convoy of Russian trucks. The other fighter jets destroy other targets throughout Lower Manhattan.''
+
+'''Overlord''': Verify initial strikes on the Predator feed.
+
+''The Predator feed screen shows destroyed targets.''
+
+'''Battle Captain''': Sir – appears all sites have been neutralized.
+
+''Battle analysis shows the Russians have been pushed back to the Hudson River, which is crowded with many Russian war ships.''
+
+'''Overlord''': Good work, Sandman. We've regained air dominance over Manhattan and pushed the front line back to the river.
+
+'''[[Sandman]]''': What's our next target?
+
+''The satellite tracks a Russian [[Oscar II|Oscar-II]] submarine underneath the river. Analysis shows its payload of 12 cruise missile silos on its side.''
+
+'''Overlord''': The Russian command vessel is an Oscar-II submarine carrying enough cruise missiles to level the entire Eastern seaboard. We need to strike fast before they can launch a counter attack.
+
+'''Sandman''': Roger, what's the mission?
+
+''The satellite simulates missile trajectories on the Russian fleet.''
+
+'''Overlord''': Infiltrate the vessel, take over the bridge, then turn their weapons against their own fleet. I need you to link up with the SEALs and get it done. Good luck.
+
+''The Black Hawk carrying the [[Delta Force|Delta team]] makes its way to the Brooklyn-Battery Tunnel infil point where the [[U.S. Navy SEALs/Modern Warfare|Navy SEALs]] are waiting.''
+
+'''Sandman''': Kit up, boys.
+
+'''[[Grinch (Modern Warfare 3)|Grinch]]''': Where's our infil point?
+
+'''Sandman''': Brooklyn-Battery Tunnel.
+
+'''[[Truck]]''': I thought it collapsed.
+
+'''Sandman''': It did.
+
+==Gameplay==
+
+'''Grinch''': In position.
+
+'''Sandman''': SDV Team 4, this is Metal 0-1. Radio check in the blind, over.
+
+'''[[SEAL Leader]]''': Roger, 0-1. We have you five-by-five. Phase line Echo secure. We have execute authority.
+
+'''[“Hunter Killer”]'''
+
+'''[August 17th – 16:32:12]'''
+
+'''[Sgt. Derek “Frost” Westbrook]'''
+
+'''[Delta Force]'''
+
+'''[New York Harbor]'''
+
+'''Sandman''': We're one minute out.
+
+'''SEAL Leader''': Copy that.
+
+'''Grinch''': Just don't start the party without us.
+
+'''Sandman''': Almost through.
+
+''Master Sergeant "Sandman" and Sgt. [[Derek "Frost" Westbrook]] are cutting through a vent in a flooded tunnel under the Hudson River. Sandman finishes cutting with the torch and Frost pushes open the vent.''
+
+'''Sandman''': Primary entry point is open, stay tight, easy to get separated down here.
+
+''They man their [[Diver Propulsion Vehicle|SDVs]], they turn left and enter the flooded tunnel, which is filled with vehicles, debris and some floating dead bodies.''
+
+'''Grinch''': Damn. Think anyone got out?
+
+'''Sandman''': Nothing we can do for them now. Maintain 2,9,5 degrees. 300 meters to link up.
+
+''The team nears a hole at the end of the tunnel, which leads to the Hudson River.''
+
+'''SEAL Leader''': Metal 0-1, got you on the tracker.
+
+'''Sandman''': Roger, approaching rendezvous.
+
+''They come out of the tunnel.''
+
+'''Sandman''': SEAL team should be up ahead.
+
+'''Grinch''': I see them.
+
+''They link up with the SEALs.''
+
+'''SEAL Leader''': Sub's on the move. Intercept window is closing fast.
+
+'''Sandman''': Roger that, lead the way.
+
+''They move under a pipe and follow it on their way to intercept the Russian sub.''
+
+'''SEAL Leader''': Watch your sonar. Russians are laying mines.
+
+'''Sandman''': Eyes on your sonar.
+
+''The team sees an underwater mine chained to the river floor floating ahead.''
+
+'''Grinch''': Mine!
+
+'''Sandman''': Keep it steady.
+
+''As the player nears the mine, the sonar blinks red indicating the direction of the mine. The team avoids it and continues on. As they pass a second mine, the hull of a ship is seen being blown apart, possibly from a torpedo.''
+
+'''Sandman''': Right, right!
+
+''They pass underneath it and encounter a third mine.''
+
+'''Sandman''': Got another mine!
+
+''They pass it.''
+
+'''Sandman''': Clear.
+
+''When they pass under another pipe, they power down their SDVs.''
+
+'''Sandman''': Power down, here we go.
+
+''As the two teams power down, two torpedoes shoot past above them as the sub approaches from behind.''
+
+'''SEAL Leader''': Target approaching. Oscar-2, eight o'clock.
+
+''A long red figure appears on the sonar as the sub moves above them, passing them.''
+
+'''SEAL Leader''': Steady.
+
+''They wait as the sub passes over them.''
+
+'''Sandman''': Wait till she passes.
+
+''The sub's tail appears. The team powers up their SDVs and moves in to intercept.''
+
+'''Sandman''': Okay, go! Get in position.
+
+'''SEAL Leader''': Planting.
+
+'''Grinch''': Planting.
+
+'''Sandman''': Frost, plant the mine on the sub.
+
+''(If the player stalls:''
+
+'''Sandman''': Frost, move!; Hurry up.'')''
+
+''Frost catches up to the sub and comes up to the bottom of the sub's tail rudder. He plants a mine on it, activates it, and moves away from it.''
+
+'''Sandman''': Mine's armed. Clear out.
+
+'''SEAL Leader''': Good job. We'll prep the exfil.
+
+'''Sandman''': Going explosive. Hit it.
+
+''Frost looks back as the mines detonate and the sub begins to float to the surface. The team comes up to the surface.''
+
+'''Sandman''': Overlord, this is Metal 0-1. Sub is surfacing. Commencing assault.
+
+'''Overlord''': Roger, 0-1. Continue to Primary Objective. We need control of the sub's missiles.
+
+''As the team breaks the surface, the player sees the damaged Lower Manhattan in front of him (the Freedom Tower can be see and is likely untouched from the war). Two missiles hit a building.''
+
+'''Sandman''': Hold position.
+
+''The sub comes up to the surface and the team climbs up the tail. Frost takes off his diving mask and takes out his [[MP5]][[Silencer|SD]] [[Red Dot Sight]] and the team moves up the sub.''
+
+'''Sandman''': Hatch opening! Contact coming out of the hatch!
+
+''A few Russian sailors climb out from the hatch, and the team kills them.''
+
+'''Sandman''': [[M67 Grenade|Frag]] out!
+
+''Sandman then tosses a frag down the hatch and clears it.''
+
+'''Sandman''': Clear. Head down.
+
+'''Truck''': Deck secured. We'll hold topside.
+
+'''Grinch''': Deck secured! Head down!
+
+''Sandman and Frost slide down the hatch and enter the sub.''
+
+'''Sandman''': Alright Frost, sweep and clear. All unknowns are hostile. Rendezvous downstairs.
+
+''Sandman opens a hatch door and they enter the barracks. They encounter hostiles.''
+
+'''Sandman''': Frost, head down the stairs.
+
+''Frost takes out two enemies in the hall while Sandman goes right. As Frost goes downstairs, Sandman beats down an enemy and kicks him in the head, killing him.''
+
+'''Sandman''': Stairs clear. Take left.
+
+''They move down to a flooded hall and encounter more hostiles. As they go up a stairway, a Russian announcement is heard and an alarm begins to blare.''
+
+'''Sandman''': They're going to scuttle the sub. We gotta move, now! Frost, take point.
+
+''They engage more hostiles through the halls.''
+
+'''Sandman''': We have to get to the bridge!
+
+''They reach the end of the hall and move up to the door to the bridge.''
+
+'''Sandman''': Hold position at the door! OK. Put a [[Breaching Charge|kicker charge]] on the door.
+
+''Frost places a large C4-rigged charge while Sandman places two detonating bars on the door. Sandman detonates the charge and they breach and clear the bridge.''
+
+'''Sandman''': Area secure.
+
+''Sandman takes a pair of keys from one of the dead bodies. He and Frost go to the control pad.''
+
+'''Sandman''': Alright, I got the launch keys. Overlord, this is Metal 0-1. I send checkpoint Neptune, over.
+
+'''Overlord''': Roger, 0-1, copy Neptune.
+
+'''Sandman''': I have the missile key and I'm accessing the launch codes now.
+
+'''Overlord''': Grid coordinates follow: Tango Whiskey 0 5 6 6 2 8.
+
+'''Sandman''': Coordinates confirmed! Firing on Russian fleet in 30 seconds! Frost, get on the console!
+
+''Frost gets on the right side of the console. Sandman tosses him one of the launch keys and Frost inserts it into the console.''
+
+'''Sandman''': 3, 2, 1, Turn!
+
+''They turn their keys and Frost presses the launch button.''
+
+'''Sandman''': Overlord, missiles armed and launching!
+
+'''Overlord''': Roger. SEAL team is in position for exfil.
+
+'''Sandman''': Go! Go!
+
+''Sandman and Frost climb up the ladder and out of the sub. As Frost comes out, two F-15s fly above him.''
+
+'''Sandman''': Grinch, Truck, let's roll!
+
+'''Grinch''': Amen to that!
+
+''They slide down the side of the sub and board a Zodiac and begin to make their way for exfil.''
+
+'''Sandman''': Frost, punch it!
+
+''As Frost begins to drive the boat and follows Grinch and Truck, the sub's silo doors open and launches its cruise missiles on the Russian fleet stationed at the river.''
+
+'''Sandman''': Missiles launching! Keep up with that zodiac!
+
+''All throughout the harbor, Russian ships are firing cruise missiles on Lower Manhattan, and Russian Hinds and American F-15s swarm the skies.''
+
+'''Sandman''': Gun it!
+
+''As Frost drives between two Russian ships, two of the launched missiles destroy them.''
+
+'''Truck''': Missiles coming in!
+
+'''Sandman''': Keep on going, Frost!
+
+''A third Russian ship on the left is also destroyed. As Frost comes up to the listing USS Nimitz, a Russian Super Dvora Mk II pushes the Zodiac up the flight deck.''
+
+'''Truck''': Look out!
+
+'''Sandman''': Shoot the mines!
+
+''Frost takes out his weapon and shoots at the boat's mines, destroying it, and the Zodiac slides back down into the water. Frost resumes driving the boat and goes under the carrier's lifted bow. As Frost continues to follow Grinch and Truck, two Chinooks are seen flying past them to meet them at the exfil point.''
+
+'''Sandman''': There's our bird!
+
+''Frost goes under a burning pier and ramps up a slab of concrete.''
+
+'''Sandman''': There she is! Go! Go!
+
+'''Sea Knight Pilot''': Metal 0-1, we are feet wet!
+
+''Frost drives the boat into the back of the [[CH-46 Sea Knight|Sea Knight]]. As Sandman and a crew member drag the boat in, the two Sea Knights take off and escape New York Harbor.''
+
+'''Sandman''': Overlord, mission complete. All Eagles accounted for.
+
+'''Overlord''': Roger, Metal 0-1, missile strikes confirmed on multiple Russian hard targets in your AO. All primary threats neutralized. Good work, team, that's one for the books.
+
+'''Sandman''': Easy day, Overlord. Sandman out.
+
+''The player looks out of the Sea Knight and sees a burning Lower Manhattan as F-15s fly around it.''
+
+{{CoD8 CampaignT}}

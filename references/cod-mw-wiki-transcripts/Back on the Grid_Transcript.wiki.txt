@@ -1,0 +1,417 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_3_Transcripts -->
+<!-- title: Back on the Grid/Transcript -->
+
+{{Game|mw3}}
+
+==Cutscene==
+
+''The TV news shows that the Russian President, Boris Vorshevsky, has gone missing.''
+
+“''RUSSIAN PRESIDENT IS MISSING; Disappeared only hours ago... US Government are in talks. Evidence points to extremist groups.”''
+
+'''News Reporter''': The [[Boris Vorshevsky|Russian President]] never arrived in Hamburg for the peace summit. With his whereabouts currently unknown, no one is certain what this means for the peace treaty...
+
+''As Price, a recovered Soap, and Yuri discuss Makarov's next move, intel - maps, pictures, and notes, are placed on the wall.''
+
+'''[[John "Soap" MacTavish|Soap]]''': Looks like [[Vladimir Makarov|Makarov]] just [[Turbulence|played his next hand]].
+
+'''[[John Price|Price]]''': If he puts himself back on the grid, he wants it to be known.
+
+'''Soap''': So where do we start hunting?
+
+''A computer shows images of the PRF, an African militia group in Sierra Leone.''
+
+'''[[Yuri (Modern Warfare 3)|Yuri]]''': Africa. Makarov's been using (a) [[African Militia|local paramilitary group]] to move shipments into Sierra Leone. From there, they go towards Morocco, and into Spain.
+
+''Yuri draws key locations of Makarov's shipments on the map – Sierra Leone, to Morocco, to Spain, indicating his next target is London, UK.''
+
+'''Soap''': He's moving north...
+
+'''Price''': Right towards [[United Kingdom|her majesty's doorstep]]. What's the cargo?
+
+''A manifest is shown highlighting Makarov's cargo.''
+
+'''Yuri''': I don't know... but it's important to him.
+
+'''Price''': Then I want it.
+
+''Soap points on the map an airport in Sherbro, Sierra Leone, and marks a river that goes inland. Pictures of a factory in a camp are shown holding Makarov's cargo.''
+
+'''Soap''': We can use the river to get in close. There's a factory in the camp where they store the shipments...
+
+''Pictures of the PRF are shown.''
+
+'''Soap''': The PRF's been waging genocide in the highlands for months. They'll be everywhere.
+
+''Price links pictures of Makarov's associates and security feeds from [[No Russian|the massacre]] are shown.''
+
+'''Price''': Makarov wouldn't let this travel lightly if it didn't serve a greater purpose... and chances are the bastard will be there personally to see things off. If he's back on the grid, then so are we.
+==Gameplay==
+
+''Yuri surfaces in a river in Sierra Leone. He pulls out his [[M14 EBR]] [[Sniper Scope|Scoped]] [[Suppressor|Suppressed]] and quietly locks and loads. Soap and Captain Price emerge from the water.''
+
+'''Price''': Nikolai, we're just outside the village.
+
+'''[[Nikolai (Modern Warfare)|Nikolai]]''': Copy. I'll pick you up in one hour.
+
+'''Price''': The factory isn't far from here. Makarov's cargo should be there. Keep it silent. Let's move.
+
+''They begin to move out of the river and make their way to the village.''
+
+'''Soap''': Maintain a low profile. The militia's all over this area.
+
+'''Price''': Soap, try not to die this time.
+
+'''Soap''': (''chuckles'') You worry about yourself, old man.
+
+<p style="margin-top:0.4em;margin-bottom:0.5em;">'''[“Back on the Grid”]'''</p>
+
+'''[October 5<sup>th</sup> – 18:27:39]'''
+
+'''[Yuri]'''
+
+'''[Task Force 141 - Disavowed]'''
+
+'''[Sierra Leone, Africa]'''
+
+''They come to a small bridge, a couple vehicles carrying militia come from the road.''
+
+'''Soap''': Vehicles approaching.
+
+'''Price''': Get down.
+
+''(If the player is spotted:''
+
+'''Price:''' We're spotted! Open fire!'')''
+
+''They hide in the tall grass. The player has to crouch to remain hidden. The vehicles stop and drop off one militiaman.''
+
+'''Militia''': (in Temne, Mende, or Krio) I think I saw something. You guys go on ahead. I'll stay and patrol.
+
+''The vehicles leave and the militiaman walks towards the river. The militiaman sees Soap, but before he could react, Soap sticks a knife into the militiaman's throat and throws his body into the river.''
+
+'''Price''': Move.
+
+''They move up the road but remain hidden in the tall grass. They see two militiamen near a shed moving bodies.''
+
+'''Soap''': Two x-rays, eleven o'clock.
+
+'''Price''': Take 'em out.
+
+''They quietly snipe them out. The player can also kill the [[Hyena|hyena]] growling behind the fence.''
+
+'''Soap''': Clear.
+
+''As they move through the shed, they can hear a group of militiamen preparing to execute a villager.''
+
+'''Soap''': They're gonna torch the [[African Villager|poor bastard]].
+
+'''Price''': Let's light them up before they light him up.
+
+''They fire on the militiamen and engage.''
+
+'''Price''': Take them out.
+
+''The militiamen are eliminated.''
+
+'''Price''': Move.
+
+''(If the player does nothing and just watches, the militiaman in front soaks the villager with petrol gasoline and lights him on fire. The militiaman speaks down on him as he burns to death. When it's over, they walk back into the house behind them.''
+
+'''Soap''': Bastards.
+
+'''Price''': We'll handle them later. Focus on staying alive. Move.'')''
+
+''As they move up, Price sees two militiamen and a couple villagers, hands tied.''
+
+'''Price''': Tangos up ahead.
+
+''But vehicles come from the left.''
+
+'''Price''': Hold your fire. There's too many of them.
+
+''(If the player opens fire:''
+
+'''Price''': We're compromised!'')''
+
+''The vehicles drive down the road.
+
+'''Price''': Don't do anything stupid, lads.
+
+''After the vehicles drive away, they see a third militiaman talking to the bound villagers and executing them one by one with a [[Five-seven|Five-Seven]]. He stops to taunt the last one, who pleads for mercy, before plugging him as well. The militiamen move on to rejoin the others.''
+
+'''Price''': Alright, get ready. Move.
+
+''They sneak past them. The vehicles from earlier appear on the road ahead.''
+
+'''Price''': Get off the road! Get down! Now!
+
+''They hide in the tall grass to the left and go prone.''
+
+'''Price''': Easy.
+
+''The vehicles pass them, their stereos booming with rap music. A few more militiamen follow behind them on foot, chatting to each other.''
+
+'''Price''': All clear.
+
+''They come out of the grass and into a shed by the road.''
+
+'''Soap''': Hold up.
+
+''A group of militiamen walk past.''
+
+'''Soap''': Clear.
+
+''They see two militiamen standing on a bridge.''
+
+'''Soap''': Two more on the bridge. We'll have to take them down.
+
+'''Price''': Wait for the truck to pass.
+
+''The truck drives past the bridge.''
+
+'''Price''': Drop 'em.
+
+''They snipe the two militiamen.''
+
+'''Price''': Move up.
+
+''Price and Soap drag the two bodies off the bridge and hide them in the river. They come to the edge of the village. Soap motions Yuri to hold as Price holds at the entrance and a militiaman patrols by. Price takes out his knife, throws the militiaman at the wall and knifes him at the back of the neck, killing him. They enter the village.''
+
+'''Soap''': I see the factory. It's just up the road.
+
+'''Price''': Right. Soap and I will advance. Yuri, you're on overwatch. Get to a position on the roof and cover us.
+
+''Price and Soap move further into the village while Yuri climbs the ladder to the roof. On top, a militiaman is sleeping in a chair. Yuri takes out his knife and slits his throat. Yuri gets in position and sees Price and Soap take out a couple more militiamen and hide in a house.''
+
+'''Price''': Hostiles approaching, 5 meters.
+
+''Two militiamen walk out of a house ahead. Yuri takes them out.''
+
+'''Soap''': Two more from the west. Take 'em down.
+
+''Two more walk out of a house on the left. Yuri takes them down.''
+
+'''Soap''': Moving up.
+
+''Price and Soap move further into the village.''
+
+'''Soap''': Another patrol on the road. Take 'em out quick.
+
+''Three militiamen walk in on the road ahead from the left. Yuri takes them out.''
+
+'''Soap''': Moving.
+
+'''Price''': Moving.
+
+''Price and Soap run up to the factory at the end of the village.''
+
+'''Price''': Breaching now.
+
+''Price kicks in the door and he and Soap enter the factory.''
+
+'''Price''': Clear.
+
+'''Soap''': Clear? This place is bloody empty.
+
+'''Price''': Nikolai, the factory is a dead end. No sign of Makarov.
+
+'''Nikolai''': He must have moved to the militia's headquarters at the center of town.
+
+'''Price''': We're moving there now.
+
+'''Soap''': Heads up, we've got company.
+
+''Large numbers of militia come out of the village and move in towards the factory.''
+
+'''Price''': We're compromised!
+
+''Yuri jumps off the roof and moves to regroup with Price.''
+
+'''Price''': Switch to your AK.
+
+''Yuri takes out his [[AK-47]] [[Suppressor|Suppressed]] w/ [[Red Dot Sight]]. Militia appear in front of him and he engages.''
+
+'''Price''': Yuri, run! Rally on me!
+
+''Yuri makes his way to the factory. He meets up with Price and Soap, who jump-rolls away from an explosion, and they engage more militia.''
+
+'''Price''': Yuri, push forward!
+
+''They continue to engage militia and push forward into the village.''
+
+'''Soap''': Area clear. Through here! Let's go!
+
+''They move into a house and climb up a ladder.''
+
+'''Price''': Yuri, this way!
+
+'''Soap''': I think they know we're here.
+
+'''Price''': All that matters is Makarov's cargo. Keep moving.
+
+''A truck appears from the left.''
+
+'''Price''': [[Technical]] dead ahead!
+
+''Yuri fires on the gunner and kills him. More militia are coming from the right.''
+
+'''Price''': Yuri, man the .50 cal. and lay down cover fire! Put fire on the technical!
+
+''Yuri climbs up the back of the truck, pushes the dead body away, and mans the .50 cal. turret. He fires on the incoming militia.''
+
+'''Price''': Enemy, rooftop, right!
+
+''Yuri shifts fire at the enemies on the rooftop on the right side. More militia appear ahead.''
+
+'''Price''': Contact front!
+
+''Yuri shifts fire to the front at incoming militia. More militia appear on his left.''
+
+'''Price''': Contact left!
+
+''Yuri shifts fire to the left.''
+
+'''Soap''': Another technical incoming! Take it out!
+
+'''Price''': Contact front!
+
+'''Soap''': Right! Right!
+
+''Yuri aims at the technical, killing the gunner and destroying the vehicle. He continues to fire the machine gun at the militia. Then large explosions blow up around him.''
+
+'''Soap''': Mortar fire inbound! Hold on!
+
+''A mortar explodes on Yuri's vehicle, knocking him off. The wrecked vehicle lands feet in front of him. Soap runs to him.''
+
+'''Soap''': Get up! We gotta get the hell out of here!
+
+''Yuri gets on his feet. He sees a large group of militia coming.''
+
+'''Soap''': The whole militia is headed straight for us!
+
+'''Price''': Don't stop moving, or they'll dial in on us!
+
+''They begin to run through the village, dodging incoming mortar fire.''
+
+'''Soap''': Mortar incoming right!
+
+''A mortar blows up a house on the right corner as they turn left. They go through a shed.''
+
+'''Price''': Incoming left!
+
+''A mortar blows up a house ahead. They continue to run through the village.''
+
+'''Soap''': Go, go, go!
+
+''They climb up a ladder.''
+
+'''Soap''': Keep moving!
+
+''They run on rooftops dodging more mortar fire.''
+
+'''Soap''': Mortar incoming left!
+
+''Yuri jumps down on another rooftop, but it collapses and he falls to the ground. When Yuri looks up, a militiaman raises up a machete blade.''
+
+'''Soap''': Yuri!
+
+''Yuri fires and kills the militiaman.''
+
+'''Price''': Yuri, I see you! Just keep moving!
+
+''Yuri runs up the slope and regroups with Price and Soap. As they come up Soap sees a tower where the militia are firing mortars.''
+
+'''Soap''': They're firing mortars from that tower!
+
+'''Price''': Yuri, slot the bastards!
+
+''Yuri fires and kills the two militiamen at the tower.''
+
+'''Soap''': They're down. We got a large group of militia headed our way.
+
+'''Price''': Then let's give them a proper welcome. Yuri – man the [[mortar]] on the roof.
+
+''Yuri runs up the stairs to the tower.''
+
+'''Soap''': Start putting shells downrange!
+
+'''Price''': Use the mortar and hose those bastards down!
+
+''Yuri mans the [[M2 Mortar|mortar cannon]]. He turns it, aims it, and fires a mortar on a group of militia.''
+
+'''Price''': Looks like two technicals and a bunch of troops. Light 'em up!
+
+''Yuri sees two trucks moving in from the left. He aims the mortar and fires.''
+
+'''Price''': All targets in the village are hostile! If it moves, put a mortar shell on it!
+
+'''Soap''': Keep firing the mortar!
+
+''Yuri eliminates everything in the village (destroy all four targets with only four mortars to get [[Achievements/Call of Duty: Modern Warfare 3|achievement]]: “[[For Whom the Shell Tolls]]”).''
+
+'''Price''': That's good for now! Let's move! We need to hit the church. We're running out of time.
+
+'''Soap''': Through here.
+
+''Yuri rejoins Price and Soap at a drain tunnel. Soap removes the cover and goes in.''
+
+'''Price''': Nikolai, approaching the church now. And you're sure the cargo will be there?
+
+'''Nikolai''': It's the only area they could have moved it to. If not there, then it's already on its way to Europe.
+
+'''Soap''': Let's hope he's right.
+
+''They come out of the tunnel and move further into the village. They engage more militia, but they are eliminated by the time they reach the end of the area.''
+
+'''Soap''': Area clear.
+
+'''Price''': Soap, get the door!
+
+''They come to a house on the left corner. Soap rams down the door and they enter a burned basement. They come out of the other side, the church is ahead.''
+
+'''Soap''': There's the church!
+
+''A [[Mi-8|helicopter]] is seen flying above towards the back of the church.''
+
+'''Soap''': Price! There's the bird! They're moving the cargo!
+
+'''Price''': We're out of time! Get to that church now!
+
+''Militia come out of the surrounding buildings. They engage.''
+
+'''Price''': Push forward to the church!
+
+''They near the entrance of the church.''
+
+'''Price''': Yuri, push forward.
+
+''They reach the church. Militia and a couple hyenas come out of the building.''
+
+'''Price''': Push forward to the church!
+
+''The militia and hyenas in the church are eliminated.''
+
+'''Soap''': Church is clear!
+
+'''Price''': Stack up on the door! Alright, lads. Let's do this.
+
+''They stack up on the door and Yuri kicks it down. As soon as he does, a hyena jumps and grabs his right hand. Yuri frees his hand, holds back the hyena with his left and with his right pulls out his Five-Seven. He kills two militiamen and then fires three bullets into the hyena's head. As Yuri gets back up, the helicopter takes off with a load of boxes underneath it. As he recovers, Price and Soap advance, with Price pumping one militiaman full of bullets before both turn their attention and try to shoot down the helicopter.''
+
+'''Price''': They're getting away with the cargo!
+
+''They fire at the helicopter in an attempt to shoot it down, but to no avail. The helicopter escapes. Price executes the militiaman he severely wounded moments ago in frustration when he sees the guy pathetically try to reach for his weapon despite his condition.''
+
+'''Price''': Damn! Nikolai, the shipment's gone. We missed our window.
+
+'''Nikolai''': What about Makarov?
+
+'''Price''': Must've done a runner. Just get us out of here.
+
+''Soap opens a crate, only to find it empty.''
+
+'''Soap''': Empty. What do you think Makarov was after?
+
+'''Price''': We'll ask the bastard when we find him.
+
+{{CoD8 CampaignT}}

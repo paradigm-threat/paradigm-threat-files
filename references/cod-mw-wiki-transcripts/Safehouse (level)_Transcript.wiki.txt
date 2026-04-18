@@ -1,0 +1,123 @@
+<!-- category: Category:Call_of_Duty_4:_Modern_Warfare_Transcripts -->
+<!-- title: Safehouse (level)/Transcript -->
+
+{{game|cod4|mwr}}
+
+== Cutscene ==
+''The satellite tracking Sgt. [[Paul Jackson]] labels him as K.I.A. as a result of the [[Shock and Awe|nuclear detonation]] in the Middle East. As Nikolai contacts Captain Price from Hamburg, Germany, a safehouse in Azerbaijan is analyzed as the [[Special Air Service/Modern Warfare|SAS]] team prepares to move in and capture [[Khaled Al-Asad|Al-Asad]].''
+
+'''[[Nikolai (Modern Warfare)|Nikolai]]''': The man is a coward, Captain Price. Al-Asad would never sacrifice himself. There is a safehouse in Azerbaijan that Al-Asad has used in the past. I am sending you the coordinates.
+
+'''[[John Price|Captain Price]]''': Understood Nikolai. Gaz, assemble the team. We're going to Azerbaijan.
+
+'''[[Gaz]]''': Yes sir. I hear it's lovely this time of the year...
+
+''The satellite tracks Sgt. [[John "Soap" MacTavish|"Soap" MacTavish]] in Northern Azerbaijan.''
+
+== Gameplay ==
+'''["Safehouse"]'''
+
+'''[Day 4 - 02:00:34]'''
+
+'''[Northern Azerbaijan]'''
+
+'''[Sgt. "Soap" MacTavish]'''
+
+'''[22nd SAS Regiment]'''
+
+''The SAS team groups up near the abandoned gas station. A Russian [[Loyalists|Loyalist]] flashes a signal to the team with his flashlight.''
+
+'''Captain Price''': There's [[Kamarov]]'s man. Let's go.
+
+''They link up with the Loyalist.''
+
+'''Russian Loyalist''': Al-Asad is in the village. The [[Ultranationalists]] are protecting him.
+
+'''Captain Price''': Perfect. Move out.
+
+''As they head up the hill, screams and gunshots can be heard from a distance.''
+
+'''Gaz''': What the bloody hell's going on up there?
+
+'''Russian Loyalist''': It's the Ultranationalists. They're killing the villagers.
+
+'''Gaz''': Yeah well, not for long they're not.
+
+''They come up the hill and encounter the first groups of Ultranationalists. A shootout ensues.''
+
+'''Captain Price''': Soap! Call in air support on that building.
+
+''Sgt. "Soap" MacTavish targets an Ultranationalist-occupied building.''
+
+'''[[Mosin 2-5|Havoc Pilot]]''': Mosin 2-5 here. We're on the way. Standby for air support.
+
+''The [[Mi-28|Mi-28 Havoc]] suppresses enemy forces in the house.''
+
+'''Havoc Pilot''': This is 2-5. We have to refuel and rearm. We will not be available for some time.
+
+''The team clears the first set of buildings in the village.''
+
+'''Gaz''': Building clear. No sign of Al-Asad. Move on.
+
+''They continue to push into the village.''
+
+'''Havoc Pilot''': Mosin 2-5 here. We are ready to attack and are standing by for new orders.
+
+''Soap continues calling air support.''
+
+'''Havoc Pilot''': Mosin 2-5 here. We're on the way. Standby for air support.; The helicopter is on the way. We'll handle it. Out.; This is 2-5, we have the target. Standby.
+
+''The Havoc arrives and suppresses the targets.''
+
+'''Havoc Pilot''': This is 2-5. We have to refuel and rearm. We will not be available for some time.
+
+''If the player calls the Havoc during their refueling:''
+
+'''Havoc Pilot''': Negative. We are refueling at this time. Standby.; We are rearming at this time. Standby.
+
+''One by one, houses are cleared of enemy troops.''
+
+'''Gaz''': Building is clear. Move on to the next one.; This building's clear! Let's check the other buildings!; Building clear. No sign of Al-Asad. Move on.; Building clear. Let's check the next one.
+
+''They push up the hill, eliminate the hostiles there, and reach a barn at the end of the village.''
+
+'''Captain Price''': Remember, we want Al-Asad alive. He's no good to us dead. Let's go.
+
+''Price tosses a [[flashbang]] in the barn, pulls out his [[M1911]] pistol and kills two Ultranationalist soldiers. He begins to torture and interrogate Al-Asad. The screen goes black as the player hears Price punching Al-Asad.''{{Tabber2|Modern Warfare|'''Captain Price''': Why'd you do it?! Where did you get the bomb?
+
+'''Al-Asad''': !مو أني دا أكولك (I'm telling you it wasn't me!)
+
+'''Captain Price''': Who then?
+
+'''Al-Asad''': !مو أني دا أكولك (I'm telling you it wasn't me!)
+
+'''Captain Price''': Who?! Give me a name! A name! I want his name!
+
+''The player's vision returns. Al-Asad is seen tied to a chair as Price gives a hard jabbing punch to Al-Asad's ribs and punches him some more. A cell phone rings, and Price stops. Gaz picks up the cell phone from the ground.''
+
+'''Gaz''': Sir, it's his cellphone.
+
+''Gaz tosses the cellphone to Price. Price listens to the voice on the phone, his facial expressions change to seemingly agitated. Al-Asad starts to struggle on his bindings.
+
+'''Al-Asad''': !لأ (No!) Agh...!
+
+''Price hangs up and drops Al-Asad's phone, pulls out his M1911, and executes Al-Asad. The screen blacks out.''|Modern Warfare Remastered|'''Captain Price''': Why'd you do it?! Where did you get the bomb?
+
+'''Al-Asad''': !لم أكن وراء ذلك (I wasn't behind that!)
+
+'''Captain Price''': Who then?
+
+'''Al-Asad''': !لم أكن وراء ذلك (I wasn't behind that!)
+
+'''Captain Price''': Who?! Give me a name! A name! I want his name!
+
+''The player's vision returns. Al-Asad is seen tied to a chair as Price punches him twice in the face and once in the stomach. A cell phone rings. Price drags Al-Asad, picks up a belt and starts choking him. Gaz picks up the cell phone from the ground.''
+
+'''Gaz''': Sir, it's his cellphone.
+
+''Price drops the belt and Gaz tosses him the cellphone. Price listens to the voice on the phone. He then pulls out his M1911, executes Al-Asad, and drops the phone. The screen blacks out.''
+}}'''Gaz''': Who was that, sir?
+
+'''Captain Price''': Zakhaev. [[Imran Zakhaev]].
+
+{{CoD4 CampaignT}}

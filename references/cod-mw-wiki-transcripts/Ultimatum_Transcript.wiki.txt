@@ -1,0 +1,242 @@
+<!-- category: Category:Call_of_Duty_4:_Modern_Warfare_Transcripts -->
+<!-- title: Ultimatum/Transcript -->
+
+{{game|cod4|mwr}}
+
+== Cutscene ==
+''[[Imran Zakhaev]] broadcasts his speech against the [[Special Air Service/Modern Warfare|allied]] [[United States Marine Corps/Modern Warfare|forces]].''
+
+'''Imran Zakhaev''': Our so-called leaders prostituted us to the west... Destroyed our culture... Our economies... Our honor. Our blood has been spilled on our soil.
+
+''His son, [[Victor Zakhaev|Viktor]]'s dead body is shown.''
+
+'''Imran Zakhaev''': [[The Sins of the Father|My blood... On their hands]].
+
+''In the photo of the "Four Horsemen," Viktor is X-ed out.''
+
+'''Imran Zakhaev''': They are the invaders.
+
+''Videofeed shows Imran Zakhaev and his [[Ultranationalists|Ultranationalist]] army at a nuclear launch facility arming a nuclear missile.''
+
+'''Imran Zakhaev''': All U.S. and British forces will leave Russia immediately... Or suffer the consequences...
+
+''The satellite tracks the SAS/Marine joint strike team as they drop down onto the Altay Mountains from a [[C-130 Hercules|C-130]].''
+
+'''[[John Price|Captain Price]]''': It's quite simple. Either we retake the launch facility or we won't recognize the world tomorrow. Green light to HALO. Charlie Team go. Second drop approaching. Bravo Team stay tight. Go.
+
+''While the satellite tracks [[John "Soap" MacTavish|Sgt. "Soap" MacTavish]] and his team, [[Griggs|SSgt. Griggs]] is tracked landing half a mile away from the group.''
+
+== Gameplay ==
+'''["Ultimatum"]'''
+
+'''[Day 6 - 06:19:34]'''
+
+'''[Altay Mountains, Russia]'''
+
+'''[Sgt. "Soap" MacTavish]'''
+
+'''[22nd SAS Regiment]'''
+
+''The team lands.''
+
+'''Captain Price''': Regroup on me.
+
+''Captain Price, [[Gaz]], Sgt. "Soap" MacTavish, and an S.A.S. soldier gather.''
+
+'''Captain Price''': Where's Griggs?
+
+'''Gaz''': No idea sir.
+
+'''[[Overlord|Command]]''': Bravo Six, Griggs just activated his emergency transponder. He's half a klick to your southwest, over.
+
+'''Captain Price''': We're on our way. Bravo Six out. Let's go.
+
+''They head southwest. An enemy truck comes along the road.''
+
+'''Gaz''': Contact front. Enemy vehicle.
+
+''They engage the vehicle.''
+
+'''SAS''': Tango Down.
+
+'''Captain Price''': Move.
+
+''They encounter a group of hostiles with tac lights.''
+
+'''SAS''': Enemy in sight.
+
+''They engage.''
+
+'''Gaz''': All clear.
+
+''They move through the woods, they come to a house.''
+
+'''Captain Price''': The must have Griggs in one of those houses. There's an entry point through that basement door. We'll go room to room from there. Keep it quiet. Move out.
+
+''They enter the first house. They come up from the basement to the first floor. Price quietly knifes the first hostile he sees (if the player doesn't kill the hostile first)''.
+
+'''Captain Price''': Enemy down.; One down.; That's a kill.
+
+'''Gaz''': Room clear. This floor's clear. Move up to the second.
+
+''They move up to the second floor, they eliminate hostiles.''
+
+'''Gaz''': Griggs isn't here.
+
+'''Captain Price''': Roger that, regroup on me downstairs.
+
+'''Gaz''': Copy that.
+
+''They regroup on the first floor.''
+
+'''Captain Price''': Moving to the next house, keep it quiet. Soap, go take a look.
+
+''Soap takes point. The player may look to the right and quietly take out the two guards outside. Should the guards notice the player, the team will engage hostiles and dogs coming from the house across them.''
+
+'''Captain Price''': The sun's coming up. We're running out of time.
+
+''They proceed to the next house.''
+
+'''Gaz''': Floor clear. Proceed upstairs.
+
+''They come up the second floor and hear SSgt. Griggs being interrogated by an Ultranationalist.''
+
+'''Ultranationalist 1''': Where are the others?
+
+'''SSgt. Griggs''': Griggs. 678452056.
+
+'''Ultranationalist 1''': You know, товарищ (comrade), the Geneva Convention is a nice idea in theory, you know? Why don't you save yourself the trouble and simply answer my question. How many others are there?
+
+'''SSgt. Griggs''': Griggs. 678...
+
+'''Ultranationalist 1''': Who is your commanding officer?
+
+'''SSgt. Griggs''': It's gonna get real busy here soon. And hey, if I was you, I'd get my ass outta here.
+
+'''Ultranationalist 1''': Юра! Где ножовка? ([[Yura]]! Where is the hacksaw?)
+
+'''Yura (Ultranationalist 2)''': Я думал, она у тебя! (I thought, it was with you!)
+
+'''Ultranationalist 1''': Если бы у меня была ножовка, я бы тебя не спрашивал, кретин! (If I had the hacksaw, I would not ask you, asshole!)
+
+'''Captain Price''': Looks like this is the place. Get ready to breach.
+
+''Gaz places a [[Breaching Charge|breaching charge]] on the door. The charge explodes.''
+
+'''Captain Price''': Go go go!
+
+''They kill the interrogators. Griggs is seen tied to a chair.''
+
+'''Gaz''': All clear.
+
+'''Captain Price''': Soap, cut Griggs loose. Move.
+
+''Soap unties Griggs free from the chair. Griggs picks up his [[M249 SAW]] from the table beside him.''
+
+'''SSgt. Griggs''': Bout damn time... I was starting to think you guys were gonna leave me behind.
+
+'''Captain Price''': That was my first thought, but your arse had all the [[C4]]. You all right?
+
+'''SSgt. Griggs''': Yeah I'm good to go.
+
+'''Captain Price''': Ok Team One, we got Griggs and we're coming out of building two.
+
+''They move out of the house with Griggs.''
+
+'''Captain Price''': We need to knock out that tower so the advance teams can breach the electrified perimeter.
+
+''They head to the power tower.''
+
+'''Gaz''': Enemy helicopters.
+
+''They go prone in the grass, the [[Mi-8|helicopters]] fly past.''
+
+'''Captain Price''': Move. [[Charlie Six]], what's your status over?
+
+'''Charlie Six''': Team two in position at the perimeter. Waiting on you to kill the power, over.
+
+'''Captain Price''': Roger. Soap. Plant the charges. Go.
+
+''Soap plants C4 on the legs of the tower.''
+
+'''SSgt. Griggs''': Charges set. Everyone get clear!
+
+'''Captain Price''': Soap - do it!
+
+''Soap blows the charges. The tower falls, disabling the facility's power.''
+
+'''Captain Price''': Charlie Six, the tower's down and the power's out. Twenty seconds.
+
+'''Charlie Six''': Roger. We're breaching the perimeter. Standby.
+
+'''SSgt. Griggs''': Backup power in ten seconds....
+
+'''Charlie Six''': Standby.
+
+'''SSgt. Griggs''': Five seconds...
+
+'''Charlie Six''': Ok, we're through. Bravo Six, we'll wait for you at the rally point. Out.
+
+'''Captain Price''': Roger Team Two, we're on our way. Out. Get that fence open.
+
+''Gaz sprays the fence and cuts a hole in it for the team to move through.''
+
+'''Captain Price''': Move.
+
+''As they move on, an alarm can be heard from the launch facility and helicopters are seen flying overhead.''
+
+'''Gaz''': Enemy helicopters.
+
+'''SSgt. Griggs''': Gonna get real busy around here soon...
+
+'''Captain Price''': Gaz, take Soap and the rest and scout through this base. Griggs and I will look for an alternate route.
+
+''They engage enemy foot-mobiles.''
+
+'''SAS''': Enemy [[RPG-7|RPGs]] on the rooftops!
+
+'''SAS''': Heads up! Choppers inbound!
+
+'''Captain Price''': Troops dropping in!
+
+''Enemy helicopters drop troops. They clear the area.''
+
+'''Gaz''': All clear.
+
+''They continue to engage enemy troops through buildings and alleyways.''
+
+'''SAS''': Heads up! Watch for those RPGs on the rooftops!
+
+'''[[Smith (Modern Warfare)|Kilo Four Foxtrot]]''': Bravo Six, be advised, three trucks packed with shooters are headed your way.
+
+''They engage the vehicles and eliminates all enemy troops. As they head towards the facility, sirens are heard from a distance.''
+
+'''Kilo Four Foxtrot''': Bravo Six, [[Sniper Team Two]]. We're coming out of the treeline to the south.
+
+''Sniper Team Two meets up with Bravo Team.''
+
+'''Captain Price''': Hold your fire, it's one of the American sniper teams.
+
+'''Kilo Four Foxtrot''': Good to see you guys made it. We'll give you sniper cover once you're inside the perime-what the hell is that?
+
+''A nuclear missile is seen being launched from the facility.''
+
+'''SSgt. Griggs''': Uhh we got a problem here!
+
+'''Captain Price''': Delta One X-Ray, we have a missile launch, I repeat we have a missile -
+
+''A second missile is launched.''
+
+'''SSgt. Griggs''': There's another one!
+
+'''Captain Price''': Delta One X-Ray - we have two missiles in the air over!
+
+'''Command''': Uh... roger Bravo Six, our satellites are tracking them now. Get your team inside the facility and retake the launch control center. We're working on getting the abort codes from the Russians at this time. Out.
+
+'''Captain Price''': Roger that.
+
+'''SSgt. Griggs''': It's on now, Captain.
+
+''They move to the front gate fence of the facility.''
+
+{{CoD4 CampaignT}}

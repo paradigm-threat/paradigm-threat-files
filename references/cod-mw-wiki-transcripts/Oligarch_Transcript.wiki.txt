@@ -1,0 +1,798 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_III_Transcripts -->
+<!-- title: Oligarch/Transcript -->
+
+{{game|1=mwiii}}
+== Cutscene ==
+''In the present day, Captain [[John Price (Reboot)|Price]], [[Kyle "Gaz" Garrick|Gaz]], [[Johnny "Soap" MacTavish|Soap]], [[Simon "Ghost" Riley (Reboot)|Ghost]], [[Kate Laswell|Laswell]], and [[Nikolai (Reboot)|Nikolai]] discuss the situation with [[Vladimir Makarov (Reboot)|Makarov]] and the consequences of their [[Flashpoint|past actions regarding his capture]].''
+
+'''Price''': I shouldn't have stopped you.
+
+'''Soap''': Was the right thing at the time, Captain.
+
+'''Ghost''': At the time...
+
+''An incoming call alert sounds on Laswell's laptop.''
+
+'''Laswell''': Secure transmission, Pentagon ID.
+
+'''Nikolai''': I don't have a clearance, I'll go.
+
+''Nikolai prepares to leave, but Price holds up his hand.''
+
+'''Price''': No, Nik. Stay.
+
+''Nikolai sits back down. General [[Herschel Shepherd|Shepherd]] appears on both the laptop and projector screens in full uniform.''
+
+'''Shepherd''': Kate. Let's talk.
+
+''Price appears in front of the laptop.''
+
+'''Price''': I've been lookin' for you.
+
+'''Shepherd''': John... It's a family affair. Even better.
+
+'''Price''': What do you want?
+
+'''Shepherd''': Vladimir Makarov, same as you.
+
+'''Laswell''': Go on, General.
+
+'''Shepherd''': I got a lead on Makarov's bankroll- 
+
+'''Soap''': We're not looking for money.
+
+''Price gestures for Soap to relax.''
+
+'''Shepherd''': Soap, you find the money, you find the man.
+
+'''Gaz''': Where are you gettin' intel? Without an army, you got nothin'.
+
+'''Graves''': Wrong again, boys.
+
+''[[Phillip Graves]], the commander of [[Shadow Company (Reboot)|Shadow Company]], appears next to Shepherd.''
+
+'''Soap''': Un-fucking-believable...
+
+'''Graves''': Soap... you miss me? Well, [[Ghost Team|technically, you did]], didn't you?
+
+'''Ghost''': Laswell, if you're tracking this, let's call an [[airstrike]].
+
+''Laswell motions for Ghost to calm down.''
+
+'''Graves''': Ghost, that is not nice.
+
+'''Soap''': What are you up to?
+
+'''Graves''': I'm up to doing my fuckin' job, kid, you should try it sometime.
+
+'''Soap''': My fuckin' job is to kill the enemy... Guess what you are.
+
+''Laswell gently nudges Soap aside.''
+
+'''Shepherd''': Let's keep this professional, boys. Captain, let me paint you the bigger picture... You need Makarov in a pine box and I've got the nails.
+
+'''Laswell''': In exchange for what?
+
+'''Shepherd''': A way back. 
+
+''Price mouths "No" to Laswell, who shrugs her hand. Price walks away from the laptop.''
+
+'''Shepherd''': I'm not goin' out like this. I want my name on a win. Check your inbox, Kate. I'll be in touch.
+
+''Shepherd ends the video transmission. Laswell opens her email and sees information from Shepherd concerning [[Milena Romanova]] on her association with Makarov and current whereabouts. Laswell walks over to Price.''
+
+'''Laswell''': I got a name and a location.
+
+'''Price''': I am not sending my men on a mission from him.
+
+'''Laswell''': This isn't a mission, John, this is intel.
+
+'''Price''': No way. He is a fucking liar, Kate.
+
+'''Laswell''': I'm [[Central Intelligence Agency|CIA]], John, I know all about lies. So do you.
+
+''Price shakes his head.''
+
+'''Gaz''': Captain... We do deals for intel all the time. This is no different.
+
+'''Soap''': He's right. Road to hell or not, Garrick's right.
+
+'''Ghost''': Boss, we got this. Johnny, you with me?
+
+'''Soap''': You know it, L.T.
+
+'''Price''': You watch your backs. Alright?
+
+''Soap and Ghost nod in agreement. Price taps Ghost's arm and walks away.''
+
+''The scene shifts to a computer screen for the mission briefing. A display of Shepherd's email to Laswell is displayed.''
+
+'''Ghost''': What did we get from Shepherd?
+
+''Graves' headshot appears next to the email message.''
+
+'''Soap''': How much of it came from Graves?
+
+'''Laswell''': They're partners in crime, boys.
+
+'''Ghost''': Literally.
+
+''Shepherd's headshot appears next to Graves'.''
+
+'''Soap''': Right now, they're our partners.
+
+'''Laswell''': I vetted their intel... It's good.
+
+''The screen displays Romania's image and dossier file.''
+
+'''Laswell''': They found Makarov's financier. She's an oligarch named Milena Romanova. Been doing Makarov's bidding behind the scenes for years.
+
+''Makarov's mugshot appears next, followed by the globe rotating until the screen zooms in on Plutus Island in the Mediterranean Sea.''
+
+'''Ghost''': Where is she?
+
+'''Laswell''': A private island.
+
+'''Soap''': Isolated and remote...
+
+'''Laswell''': It's a fortress in paradise. Guess who runs security...
+
+''A photo of [[Konni Group]] appears.''
+
+'''Ghost''': Konni Group.
+
+''A set of blueprints and video surveillance of the island displays next.''
+
+'''Laswell''': The intel included blueprints and the lay o' the land.
+
+'''Soap''': What are we looking for? We can't roll up Milena.
+
+'''Laswell''': Not legally. But, we can roll up her money.
+
+''The computer displays a list of banking institutions and a satellite relay dish.''
+
+'''Laswell''': Island's got servers that can get us into her banking.
+
+'''Ghost''': We need to get past her security protocols.
+
+''Surveillance images of the island's security guards and bunker appear next.''
+
+'''Laswell''': Someone out there has a FOB key. We find him, I can get a live line and crack it.
+
+''An image of a zodiac boat shows up next on the screen along with a tab for Soap and Ghost.''
+
+'''Soap''': We'll infil from the water and split up. I'll go for the FOB key. Ghost secures the rear perimeter.
+
+'''Ghost''': We'll need eyes.
+
+''An image of a [[Recon Drone|recon drone]] is displayed.''
+
+'''Laswell''': I'll pilot a drone and coordinate from the air.
+
+'''Ghost''': I like what I'm hearin'.
+
+'''Soap''': Let's go follow the money.
+
+''The screen transitions to black.''
+
+== Gameplay ==
+''The sun sets over Plutus Island amid the storm clouds in the sky and thunder.''
+
+'''Ghost''': Weapons hot, Johnny... Storm's coming.
+
+''Ghost and Soap approach the island by zodiac.''
+
+'''Laswell''': Gimme a strep, boys...
+
+'''Ghost''': On target, Watcher - 'bout to split up...
+
+'''Laswell''': I got eyes in the sky - let's go to work, Bravo...
+
+'''Soap''': Goin' in...
+
+''Soap dives in the water. Ghost drives the boat away.''
+
+'''Laswell''': Copy. Primary objective is the FOB-key. Milena's security officer has it. He's our HVI right now...
+
+''Soap's head rises above the water as he surveys the area.''
+
+'''Laswell''': Soap, he'll be on your side of the island.
+
+'''JOHN "SOAP" MACTAVISH - [[Task Force 141 (Reboot)|TF-141]], CIA'''
+
+'''OLIGARCH'''
+
+'''PLUTUS ISLAND, MEDITTERANEAN SEA'''
+
+'''12 NOVEMBER 2023, 1900'''
+
+'''Soap''': His unlucky day - I'll track him.
+
+'''Laswell''': I'm tracking the location of our HVI. Signal isn't great, but his location will update as he moves.
+
+'''Soap''': Check.
+
+''Soap swims toward the shore and finds an enemy guard on the dock.''
+
+'''Laswell''': 7-1 -- You got a hostile on the dock.
+
+'''Soap''': I see him.
+
+''Soap dispatches the guard on the dock.''
+
+'''Ghost''': Moving to secure the perimeter - I'll be on comms.
+
+'''Soap''': Good luck, L.T.
+
+'''Ghost''': Yeah... they're gonna need it.
+
+''Soap spots a small boat anchored to the dock.''
+
+'''Laswell''': No time for a boat ride, Sergeant.
+
+'''Soap''': Not a bad place to go fishing someday.
+
+''Soap spots a yacht in the distance.''
+
+'''Soap''': Big fucking boat.
+
+'''Ghost''': Money can't buy happiness, Johnny...
+
+'''Laswell''': I wouldn't mind being sad on that boat.
+
+'''Soap''': I probably wouldn't cry myself to sleep either, Laswell.
+
+''(Every time Konni guards notice a dead body or become suspicious...)''
+
+'''Konni Soldier''': ''(in Russian)'' Did you see that?; Heard something near me...; I heard something...; You get eyes on that?; You catch that?; Nothing. Nobody.
+
+''(Every time Soap alerts the enemy to his presence in the area...)''
+
+'''Konni Soldier''': ''(in Russian)'' Contact! Enemy here!; Enemy! My position!; Hey!; Got enemy here!
+
+'''Laswell''': You're compromised!; You're exposed.; Watch it - they see you.; Heads up, you got company, Sergeant!
+
+''(If Soap alerts the enemy to his presence...)''
+
+'''Laswell''': HVI went interior.
+
+'''Soap''': Rog.
+
+''(Every time Konni soldiers engage Soap...)''
+
+'''Konni Soldier''': ''(in Russian)'' Repositioning behind the enemy!; Attacking from the rear!; Moving behind the enemy!; Engage!; Give 'em some!; Dump 'em!; Go hot!; Start smokin' 'em!; You're cleared hot!
+
+''(If Soap breaches the perimeter while the alarm is raised...)''
+
+'''Konni Soldier''': ''(in Russian)'' An enemy has breached the perimeter and is extremely dangerous. Kill them on sight. Hold your position at all costs.; All soldiers, perimeter is compromised. You are cleared to kill on sight. Hold your position at all costs.
+
+''(If Soap kills enough enemies while the alarm is raised...)''
+
+'''Laswell''': All stations - Eyes high, we got a Konni helo in the AO.
+
+'''Ghost''': They're on high alert all over the island, right now.
+
+''(If Konni soldiers start searching for Soap...)''
+
+'''Konni Soldier''': ''(in Russian)'' Where are they?! They're still here somewhere...; We lost them!; Locate the target, now!; We lost track of 'em!
+
+''(If Soap manages to evade Konni guards...)''
+
+'''Laswell''': They lost you for now.; They're looking for you, 7-1.
+
+''(If Soap doesn't start moving immediately...)''
+
+'''Ghost''': No fuckin' about, Soap - Time to work.
+
+'''Soap''': Don't mind if I do...
+
+''Soap swims to the shore and reaches the beach.''
+
+'''Soap''': Sweeping the beach.
+
+'''Laswell''': When Shadow scouted the island, they left supplies. See what you can find.
+
+'''Soap''': Copy that. Might come in handy.
+
+''Soap moves to check the cabanas on the island.''
+
+'''Soap''': I'm near some small rooms... What would you call these, Watcher?
+
+'''Laswell''': I believe those are cabanas, 7-1.
+
+'''Ghost''': Not much for the beach, Johnny...?
+
+'''Soap''': Prefer the snow, L.T.
+
+'''Laswell''': Ski or snowboard?
+
+'''Soap''': Snowboard.
+
+'''Ghost''': Snowboarding's for savages, Johnny.
+
+'''Soap''': What say you, Laswell?
+
+'''Laswell''': Snowmobile. Internal combustion... case closed.
+
+'''Soap''': Can't argue with that.
+
+''Laswell will chime in with info about the HVI.''
+
+'''Laswell''': Be advised - did some digging. HVI's name is [[Nestor Gustev|Nestor Gustav]].
+
+'''Soap''': Tell his family he won't be home for dinner...
+
+'''Ghost''': Watcher, escape vehicles confirmed on the perimeter.
+
+'''Soap''': There's a cove with four inflatable soft-skin boats. One bird near the east beach. Minimal guards.
+
+'''Laswell''': We can't risk an evac... Take 'em out.
+
+'''Ghost''': Roger that. No escape...
+
+'''Soap''': Laswell - You prefer the mountains or the beach?
+
+'''Laswell''': Do I have to choose?
+
+'''Ghost''': Little o' both... That's the way, Laswell.
+
+''Soap has the option to explore a cave on the beach.''
+
+'''Soap''': Searching the cave, far west side.
+
+'''Laswell''': I'll lose visual - will relay any movement outside.
+
+'''Soap''': Dark in here...
+
+'''Ghost''': Good update. Is the water still wet?
+
+'''Soap''': Checking, standby...
+
+'''Laswell''': Good to have a laugh while we can, boys. Let's keep it tight...
+
+'''Soap''': Do you tan or burn, LT?
+
+'''Ghost''': An impeccable bronze, Johnny.
+
+'''Soap''': Tan lines around the eyes?
+
+'''Ghost''': Naturally...
+
+''(Every time Soap enters one of the buildings...)''
+
+'''Soap''': Makin' entry.; Moving interior.; Inside.; Interior now.; Sweeping a cabana.
+
+'''Laswell''': Sweep for anything we may need in there, Soap.
+
+''(Alternatively...)''
+
+'''Ghost''': Clear it and sweep for ammo.; Rog. Take anything useful.; Sweep it for anything that moves.
+
+''(After Soap exits a building...)''
+
+'''Soap''': Exiting.; Moving exterior.; Outside.; Leaving the structure.
+
+'''Laswell''': Copy, I see you.; Copy.
+
+''Laswell gives away the HVI's location.''
+
+'''Laswell''': HVI is at the fountain, Soap./Check near the fountain for the HVI./HVI's not far, Soap./HVI disappeared inside. Pursue him, 7-1.; Gustev is inside a structure now./HVI's exterior.
+
+'''Soap''': Copy./Affirm./Roger that./Understood.
+
+'''Ghost''': Took down the guards on the rear perimeter.
+
+'''Laswell''': Sabotage all boats and vehicles- no one gets in or out, Ghost.
+
+'''Ghost''': Count on it. You need to take down that HVI, Sergeant. Get after it./HVI, Johnny - Stalk him and drop him./Get down to business, Johnny - find the HVI and chalk him.
+
+'''Soap''': On my way.../With pleasure, LT.
+
+'''Ghost''': Boats are down. Going for the helo.
+
+'''Laswell''': Nice work, Ghost.
+
+'''Soap''': What's the intel on Mak and Milena-?-How far back they go, Watcher?
+
+'''Laswell''': Her husband and Makarov go way back.
+
+'''Ghost''': What happened to the husband?
+
+'''Laswell''': He fell... on a knife... nine times...
+
+'''Soap''': Figures.
+
+'''Laswell''': Milena got his fortune and Mak got an army.
+
+'''Ghost''': How convenient.
+
+''Soap kills a few guards on route to the HVI.''
+
+'''Soap''': Island's crawling with Konni!
+
+'''Ghost''': Burn through 'em, Johnny.
+
+'''Soap''': With fuckin' pleasure...
+
+''Soap gets closer to the HVI's location.''
+
+'''Laswell''': You're close.
+
+'''Soap''': Copy.
+
+''Soap sees the HVI.''
+
+'''Soap''': In sight.
+
+'''Laswell''': He's got two Konni with him!
+
+'''Soap''': Better than three...
+
+'''Ghost''': Take him alone if you can, Johnny.
+
+''Soap reaches the HVI and kills him.''
+
+'''Soap''': HVI's down!/HVI's out. Clean and quiet.
+
+'''Laswell''': Get his FOB-key!/You'll need his FOB-key to get us into the terminal.
+
+'''Soap''': Working on it!
+
+''Soap retrieves the HVI's FOB-key.''
+
+'''Soap''': Got it!/ Got the key. 
+
+'''Laswell''': That's it. Head to the open bunker and get access to the terminal./ Good job, 7-1. Terminal is inside a bunker nearby - push to it with the Key. 
+
+'''Ghost''': Get to the open bunker, Johnny! 
+
+''(If Soap didn't open the bunker doors earlier...)''
+
+'''Laswell''': Terminal's in a bunker, location's marked on your tac-map, 7-1.
+
+''Soap reaches the bunker.''
+
+'''Soap''': At the terminal bunker. Door's sealed.
+
+'''Laswell''': Must open from somewhere else.
+
+'''Ghost''': Security house or a control room.
+
+'''Soap''': That'd be my bet.
+
+'''Laswell''': Good call, Bravo. Locate it.
+
+''Soap reaches a security building in the complex.''
+
+'''Soap''': I'm at a security building!/I'm outside a building across from the bunker./Made it to a building near the bunker
+
+'''Laswell''': I see you - Move in and check it./Copy - I see you. Check inside for bunker door controls.
+
+''Soap enters the security building and clears out the guards inside.''
+
+'''Soap''': Room clear!
+
+'''Laswell''': Search it.
+
+''(If Soap still hasn't open the bunker door...)''
+
+'''Laswell''': Find a way to open that bunker door. The terminal's inside!
+
+''Soap pushes a button that opens the bunker door.''
+
+'''Soap''': Just opened the bunker doors!/The bunker door is opening./Bunker door opened right up.
+
+'''Ghost''': Copy.
+
+''(If Soap didn't kill the HVI yet...)''
+
+'''Ghost''': Rog - Get after that HVI.
+
+'''Laswell''': -You'll need his FOB-key once you're in.
+
+'''Soap''': Copy. Need the HVI to proceed.
+
+''(If the alarm was raised when the bunker is opened...)''
+
+'''Konni Soldier''': ''(in Russian)'' All soldiers, perimeter is compromised. You are cleared to kill on sight. Hold your position at all costs.
+
+''(If Soap doesn't move to his objective...)''
+
+'''Ghost''': Get into the bunker, Johnny!/Bunker's open and USB's in hand. Terminal's waiting, hustle up, Soap.
+
+''Soap enters the bunker.''
+
+'''Soap''': I'm in the bunker./All stations - Inside the bunker.
+
+'''Laswell''': Clear it before accessing the terminal./Copy. Access the terminal, Soap.
+
+''Soap clears out the bunker of all enemies.''
+
+'''Ghost''': All perimeter assets are down. No movement.
+
+'''Laswell''': Copy./Copy. Stay put and keep it secure.
+
+''(If Soap still hasn't taken the HVI's FOB-key...)''
+
+'''Laswell''': You cannot access that terminal without the FOB-key, 7-1.; You need the HVI and his USB key before accessing the terminal, Bravo 7-1.; We need his FOB-key to access Milena's accounts
+
+''Soap reaches the terminal and activates it.''
+
+'''Soap''': Alright, terminal's booting up...
+
+'''Laswell''': Good work, Soap. I see multiple accounts, banks, routing numbers... It's a start, but it's all locked under biometric authentication.
+
+'''Ghost''': SIGINT shows multiple calls from the main house.
+
+'''Soap''': Milena must be inside.
+
+'''Laswell''': We need her face, eyes, prints...
+
+'''Ghost''': Check. Soap- Rally at the mansion. We'll take Milena alive.
+
+'''Laswell''': Konni will protect Milena to the death, boys.
+
+'''Soap''': Death it is... Let's do this, L.T.
+
+''Soap proceeds to the main house. Laswell chimes in when Soap reaches the courtyard outside.''
+
+'''Laswell''': Heads up, Bravo - I'm seeing new drone activity on the island./I'm seeing drones incoming to your location, Soap.
+
+'''Ghost''': Eyes high, Johnny - Dust 'em when you see 'em./Konni's turning up the heat.
+
+'''Soap''': Roger, L.T./Copy that.
+
+'''Ghost:''' Bring em' down, Johnny!
+
+'''Soap:''' Thanks for the update!
+
+'''Laswell''': Soap, Romanov's making calls from her office. I intercepted the signal. It's worth a listen... stand by.
+
+''MIlena's voice is broadcast over the comms.''
+
+'''Milena''': Who is accessing the terminal, find Gustev, now!!
+
+'''Soap''': Gustev is... no longer available, lass. Be advised. Milena's spooked. She loves that money...
+
+'''Laswell''': Good. We'll weaponize that.
+
+''(Every time Laswell reminds Soap about the drones...)''
+
+'''Laswell''': Watch those drones, 7-1!
+
+''Soap can enter a garage filled with high-priced cars.''
+
+'''Soap''': Bloody hell...
+
+'''Ghost''': What are you on about, Johnny?
+
+'''Soap''': It's like a freakin' car museum in the garage.
+
+'''Ghost''': Marry yourself an Oligarch with an island and this too shall be yours.
+
+'''Laswell''': Milena won't be in the mood to marry when we're done with her.
+
+''(If Soap obtains an ascender...)''
+
+'''Soap''': Found an [[ascender]].
+
+'''Laswell''': Could be useful.
+
+''(If Soap finds a [[Cluster Mine|cluster mine]]...)''
+
+'''Soap''': Found a cluster spike.
+
+'''Laswell''': High damage, wide radius. Thing of beauty right there...
+
+''(If Soap finds a [[UAV Recon|UAV]] drone package...)''
+
+'''Soap''': UAV's usable.
+
+'''Ghost''': Nowhere to hide...
+
+''Eventually, Soap enters the main house.''
+
+'''Soap''': Main house - Moving interior.
+
+'''Laswell''': Copy - Be advised, I'll lose visual.
+
+'''Soap''': Check - Where's Romanova?
+
+'''Laswell''': Holed up in her office. Third floor behind a secure locked door.
+
+'''Soap''': How do we breach it?
+
+'''Laswell''': Ghost. If you cut power to the security system, I can open the door remotely.
+
+'''Ghost''': Copy. Killing the power should kill the drones too.
+
+'''Laswell''': Even if we do get to Romanova, Konni won't stop...
+
+'''Soap''': They'll stop when they're dead.
+
+'''Laswell''': Good point. Soap, you know what to do.
+
+'''Soap''': Clean and clear, Watcher. My specialty.
+
+''Soap makes his way through the main house, killing any enemy soldiers that stand in his way.''
+
+'''Soap''': Ghost - what's the power update?!
+
+'''Ghost''': Breakers located - Stay on it, Johnny...
+
+'''Soap''': Killing the security system kills the drones, yeah?
+
+'''Ghost''': That's the idea...
+
+''Soap continues to kill any guards in his way.''
+
+'''Soap''': L.T. - Gimme a sitrep...
+
+'''Ghost''': Nearly done, keep pressing!
+
+''Soap reaches the door to Milena's office. At the same time, Ghost succeeds in shutting the system down. The drones outside fall and crash into the ground.''
+
+'''Ghost''': All stations - power is down!
+
+'''Laswell''': Copy that - Drones are out too.
+
+'''Soap''': Right on time - Pop the lock on Milena's door, Laswell...
+
+'''Laswell''': On it - Stand by... Door's open, boys - We're in...
+
+''Soap opens the door and barges in with his weapon raised at Milena, who turns to face Soap.''
+
+'''Soap''': Special Forces! Show your hands!
+
+''Milena raises her hands. Soap moves a chair over to Milena's side.''
+
+'''Soap''': Sit!
+
+'''Milena''': Fuck you.
+
+'''Soap''': Sit down, Milena.
+
+''Milena sits down sullenly.''
+
+'''Soap''': Where's your boss?
+
+'''Milena''': I don't have a boss. No one tells me what to do.
+
+''Ghost enters the office with his weapon and a laptop.''
+
+'''Laswell''': How we doin', boys?
+
+'''Soap''': She's not talking.
+
+'''Ghost''': She's about to.
+
+''Ghost places the laptop on the table. Soap opens the laptop and holds out his hand to Milena.''
+
+'''Soap''': Give my your hand.
+
+'''Milena''': Why? Or else you'll cut it off?
+
+'''Soap''': Not my style. ''(at Ghost)'' He might.
+
+'''Milena''': Why the mask?
+
+'''Ghost''': To hide my face.
+
+''Soap grabs another chair to sit down and gestures once more for Milena to comply. Milena gives her hand to Soap, who uses her prints to access the banking accounts. Milena snaps back her hand. Ghost looks through the windows to survey the area.''
+
+'''Laswell''': We're in. 
+
+'''Milena''': ''(scoffs)'' Nothing in my banking will get you any closer to Vladimir.
+
+'''Soap''': We'll see about that.
+
+'''Laswell''': There's multiple Konni Group accounts hiding in plain sight. Several recent transfers to Zordaya Prison...
+
+'''Ghost''': The gulag...
+
+'''Soap''': Money for [[Operation 627|Makarov's escape]].
+
+''Milena shrugs.''
+
+'''Milena''': Wealth opens doors.
+
+'''Soap''': Let's withdraw a few rubles from Makarov's coffers then, shall we?
+
+''Soap types in a command on the laptop.''
+
+'''Laswell''': Done. Let me know if we hit a nerve.
+
+'''Soap''': 85 million of Makarov's transferred to a CIA black fund.
+
+'''Milena''': ''(smirks)'' Vladimir's... work... is already bought and paid for. You're not very good at this.
+
+'''Soap''': Neither are you. All your men are dead and your accounts are wide open.
+
+'''Milena''': You're stealing from Makarov's future, not mine.
+
+'''Laswell''': Ahh... Soap, do you hear that?
+
+''Soap's face brightens at this.''
+
+'''Soap''': I did. 
+
+'''Laswell''': Let's make this more personal.
+
+'''Ghost''': We need to get off the X. Make this happen or we take her with us.
+
+''Soap uses the laptop to access Milena's banking account.''
+
+'''Laswell''': Suisse National Bank...
+
+''Soap turns the laptop around to show Milena's account.''
+
+'''Soap''': This is your personal account, huh?
+
+'''Ghost''': Money's hardly been touched.
+
+'''Soap''': It will be...
+
+'''Milena''': ''(in Russian)'' Who the hell do you think you are?
+
+'''Laswell''': Looks like we found our pressure point, boys.
+
+'''Soap''': Let's drain it.
+
+''Soap moves to grab Milena's hand, who recoils violently.''
+
+'''Milena''': Don't - don't you fucking dare!
+
+'''Soap''': Something wrong, Ms. Romanova?
+
+'''Milena''': I don't know Makarov's plans. I am a financier, nothing more!
+
+'''Ghost''': Give him your print.
+
+'''Soap''': Or tell us where to find Makarov.
+
+'''Milena''': Fuck you. And that little birdie in your ear. That account is MY money! I fought for it! I earned it!
+
+'''Laswell''': One more push and we got her...
+
+''Soap inclines his head to Ghost.''
+
+'''Soap''': Last call or he takes over.
+
+''Soap stands up.''
+
+'''Milena''': He'll know you were here. I'm as good as dead without my money. I need my money!
+
+''Ghost leans in threateningly.''
+
+'''Ghost''': We need Makarov. Where is he?
+
+''Milena caves in under pressure.''
+
+'''Milena''': Vostok! There's a wire transfer to Vostok Capital in St. Petersburg. 
+
+''Soap sits back down and looks at the laptop to confirm Milena's info. Soap nods at Ghost.''
+
+'''Milena''': Vladimir buys old properties, abandoned buildings... I don't know how he uses them. That's all I can tell you!
+
+'''Laswell''': I see it. That's all we need.
+
+''Soap closes the laptop and offers a handshake to Milena.''
+
+'''Soap''': Pleasure doin' business with you.
+
+''Milena doesn't oblige. Soap gets up and takes the laptop with him as he and Ghost exit the office.''
+
+'''Ghost''': Good chat.
+
+''Milena stands up.''
+
+'''Milena''': When you beg him for your lives, he won't let you have them! ''Увидимся в аду!'' (I'll see you all in hell!)
+
+''Milena pushes her chair to the floor in frustration.'' 
+
+''The level ends.''
+
+''Cut to black.''
+
+{{CoD20 CampaignT}}
+[[Category:Call of Duty: Modern Warfare III Transcripts]]

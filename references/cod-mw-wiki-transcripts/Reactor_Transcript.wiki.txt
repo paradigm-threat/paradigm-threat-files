@@ -1,0 +1,753 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_III_Transcripts -->
+<!-- title: Reactor/Transcript -->
+
+{{game|1=mwiii}}
+== Cutscene ==
+''[[Vladimir Makarov (Reboot)|Vladimir Makarov]] and his men from the prison escape enter the hangar where [[Konni Group]] is headquartered. [[Milena Romanova]] walks down the stairs to greet an overjoyed Makarov with arms wide open.''
+
+'''Makarov''': Milena.
+
+''Milena and Makarov lovingly clasp hands as they converse in Russian.''
+
+'''Milena''': Welcome back, Vladimir.
+
+'''Makarov''': You built us an army.
+
+'''Milena''': Money well spent. And for the right cause.
+
+''Makarov hums in agreement before turning to his soldiers gathered around.''
+
+'''Makarov''': ''(in English)'' My comrades... We stand reunited!
+
+''Konni soldiers raise their fists.''
+
+'''Konni Soldiers''': Ura! Ura!!
+
+'''Makarov''': For your efforts in my absence, and our success today, I offer you praise. 
+
+''Makarov's face turns sour as he turns to [[Ivan "Ares" Alexxeve]].''
+
+'''Makarov''': (in Russian) ''И наказание... Иван....'' (And punishment... Ivan...) By not trusting my plan...
+
+''Makarov place this hand on Ivan's shoulder.''
+
+'''Makarov''': You wasted precious time. And timing is everything...
+
+'''Ivan''': Commander, respectfully, I-
+
+'''Makarov''': Shhhhh, Shhh.... Everyone should own their mistakes.
+
+''Makarov rips off the team leader patch from Ivan's shoulder. A gunshot rings out, killing Ivan in the head. Makarov turns to [[Andrei Nolan]], who held the pistol at Ivan.''
+
+'''Makarov''': Andrei... You've proven yourself. From here on, you're team leader.
+
+''Makarov plants the team leader patch on Andrei's shoulder. Andrei looks gratefully at Makarov.''
+
+'''Andrei Nolan''': ''Спасибо, командир.'' (Thank you, commander.)
+
+''Makarov turns to address his men in English.''
+
+'''Makarov''': My [[Konni Group|fellow warriors]]... I wasn't here, but I was always with you. Since then, our enemies have grown stronger. The [[Urzikstan Liberation Force|ULF]] have stolen back control of [[Urzikstan]]. The time has come for us to show them the meaning of true power. This is a battle of perception. A lie flies, while the truth... it only crawls. If you control what people believe, you control the world. This is our weapon. And we will use it as a tool of war to restore glory to [[Russia]]! The REAL Russia!!
+
+'''Konni Soldiers''': Ura! Ura!!
+
+'''Makarov''': The West... they love their choices. They will have only one... To respond on our terms.
+
+''Makarov turns to Andrei and points at his own watch in Russian.''
+
+'''Makarov''': ''Каждая секунда имеет значение'' (Every second counts.)
+
+''The scene transitions to a computer screen of Makarov's mugshot.''
+
+'''[[Kate Laswell|Laswell]]''': When Makarov [[Operation 627|escaped]], he mobilized his army on multiple fronts.
+
+''The computer displays Makarov's forces at various points of [[Urzikstan|Urzikstan's]] map along with a photo of Konni Group.''
+
+'''Laswell''': Konni Group [[Precious Cargo|hit the Urzikstan Port before sunrise]].
+
+''A photo of [[Farah Karim|Farah]] props up on the screen.''
+
+'''Laswell''': Farah was there.
+
+'''[[John Price (Reboot)|Price]]''': She hurt?
+
+''The Urzikstan flag appears with a photo of [[Urzikstan Liberation Force|Farah's forces]] in combat.''
+
+'''Laswell''': Negative. Her team engaged, took casualties - left Konni with a kill count of her own.
+
+'''[[Kyle "Gaz" Garrick|Gaz]]''': Good on ya, Farah. What'd they get from the port?
+
+''Photos of cargo containers and missiles schematics appear.''
+
+'''Laswell''': A shipment of American missiles.
+
+'''[[Johnny "Soap" MacTavish|Soap]]''': Konni's got their own missiles... What does Makarov want these for?
+
+'''Laswell''': We need to find out. I'm tracking them now. Once I get a fix, we'll action it.
+
+''The GPS trackers are displayed on Urzikstan's map.''
+
+'''[[Simon "Ghost" Riley (Reboot)|Ghost]]''': You said multiple fronts, Laswell... Give us a target.
+
+''The map displays a nuclear power plant.''
+
+'''Laswell''': Konni forces are converging on a nuclear power plant in Urzikstan as we speak.
+
+'''Price''': Is the plant active?
+
+'''Laswell''': Abandoned when the ULF [[Into the Furnace|beat]] [[Roman Barkov|Barkov]].
+
+'''Gaz''': Then what's there?
+
+'''Laswell''': All four of you - as soon as you can.
+
+''The computer screen displays tabs of all four [[Task Force 141 (Reboot)|TF-141]] members assigned to their tasks.''
+
+'''Price''': Rog. Ghost and I will recce the plant. Soap and Gaz secure the perimeter. If Makarov's going nuclear, we'll stop him in his tracks.
+
+'''Soap''': Solid copy. Let's get after it, Bravo.
+
+''The screen fades to black.''
+
+== Gameplay ==
+''Captain Price, Gaz, Soap, and Ghost stand inside the loading area of a military plane and prepare a chuted crate full of weapons and supplies while the jumpmaster signals them.''
+
+'''Jumpmaster''': One minute!
+
+''Soap and Gaz push the crate forward until it locks into place.''
+
+'''Soap''': Tight!
+
+'''Gaz''': Crate's all good to go.
+
+'''Ghost''': That's our gear on the ground if we need it.
+
+'''Price''': We will.
+
+''The jumpmaster slams a button and the lights turn green as the alarm sounds.''
+
+'''Jumpmaster''': Ramp!
+
+''The loading ramp opens up, revealing the reactor facility below them.''
+
+'''Jumpmaster''': 30 seconds!
+
+'''Price''': Pull altitude is 2000 AGL!
+
+'''Soap''': Cuttin' it close!
+
+'''Gaz''': That's how we do...
+
+'''Ghost''': Roger up at the rally point!
+
+'''Gaz''': Check!
+
+''Soap and Ghost fist bump each other. Price fist bumps Gaz in the arm. The crate's parachute deploys, pulling the crate out of the plane. The jumpmaster signals the team.''
+
+'''Jumpmaster''': Standby!
+
+''The team stands near the edge of the ramp.''
+
+'''Jumpmaster''': Go!
+
+''Price and Ghost leap off the ramp and free fall down the sky.''
+
+'''JOHN PRICE - TF141, [[Central Intelligence Agency|CIA]]'''
+
+'''REACTOR'''
+
+'''NUCLEAR POWER PLANT, URZIKSTAN'''
+
+'''10 NOVEMBER 2023, 0900'''
+
+''Price free falls through the sky until he deploys his parachute. Laswell speaks over the radio.''
+
+'''Laswell''': Watcher-1 to Bravo. ISR is overhead. Be advised, Konni has three helos on the ground. Locations marked with orange smoke.
+
+'''Ghost''': Extract points for the nuclear material.
+
+'''Laswell''': Affirmative. Those helos are your primary targets. Destroy them and we can keep this threat contained.
+
+'''Ghost''': Roger. Moving to overhead/overwatch.
+
+''Price lands on the ground within the reactor facility.''
+
+'''Price''': Six on the ground. Moving...
+
+'''Laswell''': Got eyes on you, Captain. I'll relay what I see from overhead.
+
+'''Price''': Thanks for the assist, Watcher.
+
+'''Laswell''': Makarov means all hands on deck, John.
+
+'''Price''': Ghost, you picking up radiation spikes?
+
+'''Ghost''': Negative. All the helos scan clear. Should be safe to use explosives on them.
+
+'''Price''': Copy.
+
+''Price can use his [[Spotter Scope|spotter scope]] to find a weapons cache nearby.''
+
+'''Price''': Picking up a transponder code for an armaments cache.
+
+'''Laswell''': Useful if you can get your hands on it.
+
+''Soap chimes in.''
+
+'''Soap''': We're at our primary set points.
+
+'''Gaz''': Konni in sight. Working to secure perimeter...
+
+'''Ghost''': Work quietly until the Captain kicks things off.
+
+'''Soap''': No promises, L.T.
+
+'''Gaz''': All stations, we're seeing Konni patrols on the outer perimeter. They're searching the area.
+
+'''Price'''; Stay on 'em.
+
+'''Soap''': No radiation gear. Doesn't add up.
+
+'''Laswell''': They could be after more than nuclear material. Stay on 'em.
+
+'''Gaz''': Copy, Watcher.
+
+'''Soap''': Bravo 7-1, in position.
+
+'''Gaz''': 6-1, in position. Outer perimeter secure.
+
+'''Ghost''': 0-7, ready.
+
+'''Laswell''': Bravo's set. Six, you're clear to proceed.
+
+''Price spots the first helo nearby.''
+
+'''Price''': Visual on helo.
+
+'''Laswell''': Copy, Six. That's your target.
+
+'''Ghost''': Price, multiple Konni near that helo. Keep it quiet.
+
+'''Price''': Copy. Watching my six.
+
+''(If Price picks up [[C4]] explosives...)''
+
+'''Price''': Picked up charges to ground the birds.
+
+'''Ghost''': That'll punch 'em a one-way ticket...
+
+''(Every time Ghost gives some advice...)''
+
+'''Ghost''': Saw a pallet at the fire station. There if you need it, Price.; Captain, I see a pallet on the turbine building.
+
+''(If Price finds a SAM turret package...)''
+
+'''Price''': Found a [[SAM Turret|SAM]] turret.
+
+'''Ghost''': If there's an enemy helo in the AO, target it...
+
+''(If Price deploys the SAM turret...)''
+
+'''Price''': Placing SAM turret.; SAM turret's set!
+
+'''Ghost''': Should knock that helo out of the sky!
+
+''(If Price deploys a [[VTOL]] jet...)''
+
+'''Price''': Helo site marked for VTOL fire.
+
+'''Pilot''': Striker-3, approaching. Target locked- Shots out, shots out...
+
+''(Or...)''
+
+'''Laswell''': Target acquired. VTOL inbound.
+
+''(When the VTOL jet stays long enough...)''
+
+'''Pilot''': Be advised: Striker is bingo fuel. Mark your final targets, ground.
+
+''Eventually, the VTOL jet runs out of fuel.''
+
+'''Pilot''': Striker-3 is bingo! Moving off station... Out here...
+
+''(If Price hacks into an enemy sentry turret...)''
+
+'''Price''': Enemy turret's offline. 
+
+'''Ghost''': Advise getting it back online, Price.
+
+'''Price''': Turret's hacked.
+
+''(If Price signals for resupply...)''
+
+'''Price''': Location marked.
+
+'''Laswell''': Received- Comin' to ya - Stand by...
+
+''Price attacks the first helo.''
+
+'''Price''': Putting effective fire on the helo...; Helo's taking damage...
+
+''(Every time Price kills an enemy...)''
+
+'''Ghost''': Clean. Still undetected.; Nice and quiet, boss.
+
+''(If Price alerts Konni forces to his presence...)''
+
+'''Konni Soldier''': Hostile spotted in containment!; Target spotted!; He's at containment!; All units! Hostile in the parking lot!; Found 'em!; Got 'em!; All units! He's in the spray zone!; Enemy! My position!; I got you!; I found you!
+
+'''Price''': Going loud!; Getting loud!
+
+''(If Price manages to lose the Konni soldiers...)''
+
+'''Konni Soldier''': Where the fuck're they at?!; Does anyone have a visual?!; Where are they?!
+
+''(Every time Price fires on a Konni Soldier...)''
+
+'''Konni Soldier''': I'm getting shot at!; Man down!; Damn it! Man down!; Taking fire!
+
+''(Every time Konni soldiers engage in combat...)''
+
+'''Konni Soldier''': Attacking from the rear!; Moving behind the enemy!; Repositioning behind the enemy!; Dump 'em!; Go hot!; You're cleared hot!; Start smokin' 'em!; Engage!; Give 'em some!
+
+''(Every time Price kills a Konni soldier...)''
+
+'''Price''': Enemy down!
+
+''(If Price kills enough Konni soldiers...)''
+
+'''Laswell''': Konni reinforcements incoming, Six.; Bravo, be advised, Konni birds approaching with reinforcements.; Six, another helo is near your location. Multiple Konni on target.; They're closing on you, Captain. Defend yourself!; You're in their sights, Six!
+
+'''Price''': Solid copy, Watcher!
+
+''(Alternatively...)''
+
+'''Gaz''': Boss, Konni reinforcements heading your way.; Konni scrambling more guards.
+
+''(Or...)''
+
+'''Soap''': Bravo-6, you've got Konni reinforcements heading your way.; You poked a bear, Six. More Konni headed your way.
+
+''(If Price manages to evade Konni soldiers long enough...)''
+
+'''Laswell''': Careful, they're looking for you.; You're clear, Captain.
+
+''(If Price obtained a mortar strike package earlier...)''
+
+'''Price''': Sending mortar coordinates!
+
+'''Laswell''': Coordinates confirmed. Artillery inbound.
+
+''(If Price obtained a cruise missile package earlier...)''
+
+'''Price''': Launching cruise missile!
+
+''(If the cruise missile doesn't hit any targets...)''
+
+'''Laswell''': Shot foul - No impact.
+
+''(If Price deploys an air strike package...)''
+
+'''Price''': Airstrike coming danger close!
+
+'''Laswell''': Six - get to safety!
+
+''(If the airstrike missed its target...)''
+
+'''Price''': Miss - No impact.
+
+''Price eventually destroys the first helo.''
+
+'''Price''': All Stations, first helo's down!/All stations, first target's down!/All stations, first target's down./All stations, helo destroyed! Done being quiet!
+
+'''Laswell''': Solid work. Move to the next target./Good work, Six. Two targets to go./Good work. Two to go.
+
+''Price makes his way to the second target.''
+
+'''Ghost''': Captain, still not picking up any radiation. Johnny, Garrick... anything?
+
+'''Soap''': Negative. Neither has Konni.
+
+'''Gaz''': If there's no radioactive material, what's Konni after?
+
+'''Price''': Stay on it! Find out!
+
+'''Ghost''': Tons of Konni on target...
+
+'''Price''': Makarov's got plenty of [[Ultranationalists (Reboot)|ultranationalists]] in his rank.
+
+'''Ghost''': Enough to start a war...
+
+''(If Price commandeers an ATV...)''
+
+'''Price''': Got an [[ATV]].
+
+''(If Price commandeers a JLTV...)''
+
+'''Price''': In a Konni [[LTV|JLTV]].
+
+'''Ghost''': Watch the rooftops for enemies./All stations, eyes high for enemies on the roof.
+
+'''Price''': Copy, good looking out, Ghost.
+
+''Price reaches the second helo.''
+
+'''Price''': Eyes on a second helo.
+
+'''Laswell''': Copy, Six. Set charges and confirm detonation.
+
+'''Ghost''': All stations, still not picking up radiation spikes. That might not be why they're here...
+
+'''Laswell''': Nuclear may be a smokescreen to keep us off their trail.
+
+'''Soap''': What the hell are they movin' then...?
+
+'''Laswell''': Something that packs a punch...
+
+''Price destroys the second helo.''
+
+'''Price''': Second helo's down!/Two helos down!
+
+'''Laswell''': Good work. One more to go./Copy, Six. One target to go. Let's keep Konni on the ground.
+
+''(If Price tries to access the reactor before destroying all the helos...)''
+
+'''Price''': Watcher, found an airlock. Sealed tight.
+
+'''Laswell''': That's the reactor, Six. No entry without power.
+
+'''Price''': Whatever keeps Konni out...
+
+''An alarm sounds in the area.''
+
+'''Konni Leader''': An enemy has breached the perimeter and is extremely dangerous. Kill them on sight. Hold you position at all costs.; All soldiers, perimeter is compromised. You are cleared to kill on sight. Hold your position at all costs.; All soldiers, enemy is inside the perimeter. You are cleared to kill. Take them out. Hold your position at all costs.
+
+''A Konni attack helicopter arrives on the scene.''
+
+'''Laswell''': Bravo Six, be advised, a Konni armored helo is overhead.
+
+''Eventually, Konni soldiers begin moving to another part of the area.''
+
+'''Gaz''': More Konni's breaking off. What your back, Cap.
+
+''(Alternatively...)''
+
+'''Ghost''': Be advised, Konni's regrouping all over.; Konni's on full alert.; We're on their radar now.; That's a lot of noise.
+
+''Price makes his way to the third and final helo.''
+
+'''Price''': Eyes on another helo!/Eyes on the last helo!
+
+'''Laswell''': Copy, Six, take it out./Copy. Take it down.
+
+''Price moves to attack the helo.''
+
+'''Price''': Almost there...
+
+'''Laswell''': Six, you're approaching the last helo. Enemy activity is high.
+
+'''Price''': Copy that, Watcher!
+
+'''Laswell''': 0-7, any change in radiation?
+
+'''Ghost''': Negative, Watcher.
+
+'''Soap''': Doesn't make sense. They should be in the reactor by now.
+
+'''Gaz''': Power's off, doors are sealed.
+
+'''Price''': Let's keep it that way!
+
+'''Laswell''': John - got a mounted MG incoming your way on an armored vehicle./Six - JLTV's approaching the area.
+
+''Konni Group sends in more reinforcements to the helo.''
+
+'''Laswell''': Six, Konni's sending reinforcement to the helo.
+
+''(If Price uses an airstrike marker...)''
+
+'''Price''': Watcher- Requesting fire - target marked!
+
+'''Laswell''': Copy your mark- sending fire!
+
+''Price destroys the third helo.''
+
+'''Price''': Last helo's destroyed!/All targets destroyed!
+
+'''Laswell''': Nice work. Whatever Konni's after stays on the ground./Good work, Six.
+
+''Price engages any remaining Konni soldiers outside.''
+
+'''Laswell''': Be advised, Bravo-Six, Konni has entered the reactor. You need to get down there.
+
+'''Price''': Moving to the reactor! Still in contact!
+
+'''Laswell''': Copy that. All Bravo, collapse on the reactor now.
+
+''(If Price still hasn't dispatched the Konni attack helo...)''
+
+'''Price''': Attack helo is still overhead...; Enemy bird's not backin' off.
+
+'''Laswell''': Find cover in the construction sites and hit back harder, Captain.
+
+''(If the helo continues to attack Price...)''
+
+'''Price''': Attack helo's pressing hard!; Helo's got me pinned!
+
+'''Laswell''': Press back! Use anti-air measures!; Hit it with a launcher, John - Should be one down there...
+
+''(If Price hides in the construction sites long enough...)''
+
+'''Laswell''': Attack helo's lost you, you're good to move, Captain.
+
+''Eventually, the attack helo is destroyed.''
+
+'''Ghost''': Bird down, Price. Nice one!
+
+''(If Price doesn't move immediately...)''
+
+'''Laswell''': Entrance to the reactor is by the central building. Get moving.
+
+'''Price''': Am I clear to move?
+
+'''Laswell''': Affirmative. No activity at this time.
+
+''Konni soldiers begin withdrawing deeper into the reactor.''
+
+'''Gaz''': Think you scared 'em, boss./Konni must've gotten new orders. They've stopped searching and are headed your way.
+
+'''Soap''': Could be they found what they're looking for.
+
+'''Ghost''': Got eyes. Looks like they're converging on the reactor dome.
+
+'''Price''': Then, that's where we need to be. Bravo, weapons hot. Push to the reactor!
+
+'''Soap''': Headed to you!
+
+''(If Price has not yet entered the next area...)''
+
+'''Price''': Need to locate an entryway.
+
+''Price finds an airlock.''
+
+'''Price''': Got an airlock.
+
+'''Laswell''': Copy, Six. That's your entry point.
+
+''Price enters the airlock room that leads into the reactor core.'' 
+
+'''Price''': Watcher, I'm at the entrance./At the entrance.
+
+'''Laswell''': Copy that.
+
+''Price pushes the button that closes the outer doors.''
+
+'''Price''': Making entry...
+
+''Laswell's voice breaks up over the radio.''
+
+'''Laswell''': Say again? John -- you're breaking up. Losing signal--!
+
+'''Gaz''': Cap, you've got an enemy helo overhead. It's at the reactor, deploying ropes-!
+
+'''Soap''': Konni found something! They're bringing in secondary extraction! We have to stop them now!
+
+''The inner airlock doors leading into the reactor open. Konni soldiers are seen loading canisters onto a pallet that's being lifted up by the helicopter overhead.''
+
+'''Price''': Airlock's open.
+
+'''Konni Soldier''': Keep it steady!
+
+'''Konni Soldier''': Pallet's going up!
+
+'''Konni Soldier''': Copy, We found 'em. They're ready for transport out.
+
+''Price engages the enemy soldiers inside the reactor.''
+
+'''Konni Soldier''': 141! 141 in the reactor! Weapons free!
+
+'''Konni Soldier''': We have another angle! Catch him in a crossfire!
+
+'''Price''': All stations, Konni's extracting canisters from the reactor!
+
+'''Laswell''': Six, can you confirm the contents?
+
+'''Price''': Negative! All Bravo, put fire on that helo! Bring it down!
+
+'''Soap''': Copy, engaging!
+
+''Task Force 141 opens fire on the extraction helicopter, causing it to weave back and forth as the pallet sways around.''
+
+'''Konni Soldier''': Pallet's compromised!
+
+'''Konni Soldier''': Get it out of here!
+
+''The pallet drops some of the canisters to the floor, spilling out chemical gas.''
+
+'''Konni Soldier''': We've got spillage!
+
+'''Konni Soldier''': The canister's compromised!
+
+'''Konni Soldier''': I can contain it!
+
+''A Konni soldier tries to use his equipment to contain the gas, but the canisters instead explode. The reactor core starts to fill with gas.''
+
+'''Price''': Fuckin hell-! All stations, Konni's extracting chemical weapons!
+
+'''Gaz''': Konni's taking the gas out on that helo! We're gonna lose 'em!
+
+'''Ghost''': Watcher, can you track 'em?
+
+'''Laswell''': On it, Ghost. Stand by...
+
+''The reactor doors all close up, trapping Price inside.''
+
+'''Price''': This is Six! Reactor's sealed! I'm locked in!
+
+'''Laswell''': Six, ISR shows Konni personnel entering the reactor.
+
+'''Gaz''': Find cover, Cap! We're on our way!/Take cover, we're moving your way!
+
+'''Laswell''': Six, visual on Konni reinforcements. They're making entry.
+
+'''Konni Soldier''': How is he still alive?!
+
+'''Konni Leader''': Shit! Bring me his head!
+
+'''Konni Soldier''': We have another angle! Catch him in a crossfire!
+
+''Price runs up to the higher catwalks, but can go no further.'' 
+
+'''Laswell''': Bravo-6, multiple Konni heading your way.
+
+''Price engages Konni soldiers without any cover.''
+
+'''Price''': There's no cover up here...!
+
+'''Gaz''': Konni wasn't after nuclear material.
+
+'''Ghost''': Never were...
+
+'''Soap''': Chems were stashed here...
+
+'''Price''': Fuck the high ground...!
+
+'''Soap''': Check high for Konni, Captain. Stay sharp!/Check high, Konni smoking up top!
+
+'''Price''': I can't stay up here, there's no cover.
+
+'''Gaz''': Take cover, Captain, we're almost there!
+
+'''Price''': I'm exposed up here. I need to move.
+
+''Price continues to hold off Konni troops as the gas comes closer to enveloping him. Price starts coughing.''
+
+'''Price''': There's no cover up here...! Gas is closing, Bravo, what's your status?
+
+'''Gaz''': Captain! We're up top!
+
+''A rope drops down to Price's position.''
+
+'''Ghost''': Grab the rope!
+
+'''Gaz''': Gas is closing in! Get on the rope, Captain!
+
+''Price reaches the rope and attaches his [[ascender]] to it.''
+
+'''Price''': Got it!
+
+''A disfigured Konni soldier exposed to the gas runs up to Price and grabs hold of him as they start ascending. Price kicks off the soldier, sending him plunging to the ground and screaming. Price ascends up through the dome opening where Gaz, Soap, and Ghost wait for him. Soap reaches out to help Price.''
+
+'''Soap''': Grab my hand!
+
+'''Price''': Humf!
+
+''Price takes hold of Soap's hand.''
+
+'''Soap''': Got him!
+
+'''Price''': Hurrr!
+
+'''Soap''': Pull!
+
+''Gaz helps Soap pull up Price from the reactor.''
+
+'''Price''': Ghhh!
+
+'''Gaz''': Urgh!! We got you, Cap!
+
+''Price hacks and coughs as he doubles over.''
+
+'''Soap''': Stay with us, sir-
+
+'''Price''': Gouh!!
+
+''Gaz clasps Price's hand as the latter starts to lose consciousness.''
+
+'''Gaz''': Cap! Cap!!
+
+'''Soap''': Stay with us, sir!
+
+'''Gaz''': Ugh!
+
+''Price blacks out completely and collapses. The screen cuts to black.''
+
+'''Gaz''': 6-2 to Watcher, we need medevac now!
+
+''The level ends.''
+
+== <u>Cutscene</u> ==
+''Price wakes up inside a military chopper and comes to.''
+
+'''Price''': [gasps]
+
+''Price sees Gaz, Soap, and Ghost sitting across from him.''
+
+'''Soap''': Mornin', sir.
+
+''Gaz hands Price a headset, which the latter promptly puts on while wheezing from the gas.''
+
+'''Price''': [labored breathing]
+
+'''Gaz''': Take it easy, Cap. You beat the gas, but you still need some time to recover.
+
+'''Price''': I'm fine.
+
+'''Gaz''': Got a headache? Nausea?
+
+'''Price''': Always.
+
+''Gaz turns to Soap and Ghost.''
+
+'''Gaz''': He's good.
+
+'''Soap''': Was worried your face was gonna melt off like those other poor bastards.
+
+'''Ghost''': If you ask me, it'd be an improvement.
+
+''Price chuckles.''
+
+'''Price''': Konni got away with the chemicals?
+
+'''Ghost''': Affirmative.
+
+'''Price''': Makarov has been out of prison for six hours, and he's already ahead of us.
+
+'''Soap''': The fuck is in that gas?
+
+'''Gaz''': Remnants of Barkov's program.
+
+'''Soap''': Sarin?
+
+'''Ghost''': Highly concentrated... Far more lethal.
+
+'''Gaz''': One pod contaminated the whole area.
+
+'''Soap''': They made off with enough to kill a whole country.
+
+'''Price''': Right now, it's in Farah's backyard... We've gotta find her.
+
+''Cut to black.''
+
+{{CoD20 CampaignT}}
+[[Category:Call of Duty: Modern Warfare III Transcripts]]

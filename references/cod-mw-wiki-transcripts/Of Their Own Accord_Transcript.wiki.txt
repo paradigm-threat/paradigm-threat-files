@@ -1,0 +1,404 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_2_Transcripts -->
+<!-- title: Of Their Own Accord/Transcript -->
+
+{{game|mw2|mw2r}}
+==Cutscene==
+
+''A TV screen displays an Emergency Broadcast System announcement.''
+
+'''Emergency Broadcast System''': PRINCE GEORGE'S COUNTY RESIDENTS ARE INSTRUCTED TO GO DIRECTLY TO THE HEALTH DEPARTMENT AT 147 KIRKWOOD AVE. PICK-UPS EVERY 15 MINUTES FROM COMMUNITY COLLEGE CAMPUS IN UNIVERSITY TOWN. /// EMERGENCY EVACUATION IN PROGRESS. /// HEAD IMMEDIATELY TO YOUR NEAREST SERVICE SHELTER. TROOPS WILL BE THERE TO MEET YOU. BRING A PHOTO ID AND NO MORE THAN ONE BAGGAGE ITEM PER PERSON. /// BE AWARE OF YOUR SURROUNDINGS. REMAIN ALERT.
+==Gameplay==
+
+'''Stalker 2-1''': Goliath, Goliath, this is Stalker 2-1. Standby for report 1-3, over.
+
+'''Goliath''': Stalker 2-1, this is Goliath, send traffic, over.
+
+''(Transmissions can be continually heard if the player stays at the spawn point of the level: [[Russo-American War Radio Chatter]])''
+
+''Private [[James Ramirez]] starts in a bunker and pulls out his [[M4A1]] [[M203|Grenadier]] w/ [[Holographic Sight|Holographic]]. As he walks through the bunker explosions shake the room and soldiers are seen overlooking electronics and wounded soldiers. [[Macey|Sgt. Macey]] and [[Keating (Modern Warfare 2)|Cpl. Keating]] are standing near two soldiers. If the player notices, a medic is tending to another critically injured soldier on a hospital bed, performing CPR on the injured soldier. If the player stayed long enough, the medic performing CPR can be seen looking at his watch, presumably taking note of the time of death as the soldier remained motionless. A medic is carrying a wounded soldier on his back, while there is a conversation between two Rangers.''
+
+'''Ranger''': We've got wounded!
+
+'''Ranger 1''': Wounded man coming through!
+
+'''Ranger 2''': Is he alright?
+
+'''Ranger 1''': Yeah, he got hit by a mortar and shot in the foot, but its not too bad.
+
+'''Ranger 3''': He'll be alright, but he needs treatment now.
+
+'''Ranger 4''': I need to rest, man. It's too much up there.
+
+'''Ranger 5''': We all feel the same way man. (Note: This is really hard to hear!)
+
+''As Ramirez approaches where [[Dunn|Cpl. Dunn]] is resting against the wall, a barely audible transmission comes in from Overlord to [[Foley (Modern Warfare 2)|Sgt. Foley]]:''
+
+'''[[Overlord]]''': Ensure all weapons are Condition One and get topside to provide support. Casevac birds are taking heavy fire.
+
+''Ramirez meets up with Sgt. Foley, Cpl. Dunn and the team at the entrance. A Ranger tosses Dunn his [[SCAR-H]] [[Thermal Sight]].''
+
+'''Ranger''': On your feet - we're Oscar Mike.
+
+'''Sgt. Foley''': Roger, Two-One Actual out. Listen up! This evac site is getting hit hard and we need to buy 'em some time! Hooah?
+
+'''Rangers''': Hooah!
+
+''The team moves out of the bunker through a trench.''
+
+'''Overlord''': All callsigns, the LZ is under heavy fire. Uncover enemy positions and engage any potential targets.
+
+''As Ramirez comes out of the bunker he sees the damaged Washington Monument, American evac choppers are evacuating wounded while supported by American Apaches. Russian forces occupying various buildings including the Department of Commerce rain gunfire, [[RPG-7|RPGs]], and mortar fire down on U.S. ground forces in Washington D.C. The team heads towards the Department of Commerce. A [[FGM-148 Javelin|Javelin]] missile is seen fired from the top corner of the building and flying down towards an Abrams tank on the street. A Ranger is wounded by an explosion and crawls forward before dying whilst another Ranger signals for troops to move up before taking cover. A squad of [[F-15 Eagle]]'s and F-35's are seen soaring past as several Rangers board [[MH-6 Little Bird]] helicopters whilst several [[CH-46 Sea Knight]] helicopters are seen taking off.''
+
+''<nowiki/><nowiki/>''
+
+'''["Of Their Own Accord"]'''
+
+'''[Day 5 - 18:35:34]'''
+
+'''[Pvt. James Ramirez]'''
+
+'''[1st Bn., 75th Ranger Regiment]'''
+
+'''[Washington D.C., U.S.A.]'''
+
+'''[[Dunn|Cpl. Dunn]]''': They got optics on us. Snipers, RPG teams, and heavy arms fire, all floors, 12 o'clock due west of our position.
+
+'''Ranger''': Move your men up! Go!
+
+'''Ranger 2''': Hooah!
+
+'''Ranger 3''': We're taking too much Fire!
+
+'''Ranger''': Incoming! Take cover!
+
+'''Ranger''': Let's go, let's go! We're taking too much fire! BCT One is rollin' up! We're in deep shit here!
+
+'''Sgt. Foley''': Overlord, this is Hunter Two-One Actual. Requesting airstrike, over!
+
+'''Overlord''': Uh, negative Two-One Actual, all available air units are currently tasked with multiple casevacs along the Potomac. Proceed west to the target building and provide support, out.
+
+''As they head to the Department of Commerce building, Rangers all around the field get killed by explosions.''
+
+'''Ranger''': INCOMING!!!!!
+
+'''Sgt. Foley''': Everyone move up, get out of the killzone! We gotta buy some time for those casevac birds! Overlord, Two-One Actual! We're screening west with no adjacent support, and friendly victors from BCT One are hauling ass past us, over!
+
+'''Overlord''': Roger. Brigade Combat Team One has already peeled off an LAV to provide suppression, over.
+
+''If the player waits:''
+
+'''Overlord''': Hunter Two-One, this is Overlord. [[Navy SEALs|SEAL]] teams are maneuvering into position on the northwest corner of the target building. Link up with them on the top floor and eliminate enemy fire teams, over.
+
+''As they move up to the front of the building an [[M2A2 Bradley|M2 Bradley IFV]] is seen firing at the upper floors, suppressing the enemy.''
+
+'''Sgt. Foley''': All right! BCT One's LAV has them suppressed! Get ready to move on my mark! Ready! Go go go! Move up! Move up!
+
+''(If the player stalls:''
+
+'''Sgt. Foley''': Ramirez! Move up and stay outta that LAV's line of fire! Move! Move! Ramirez! The LAV has them suppressed! Move in, MOVE IN! Push! Push, push! We're sitting ducks out here! RAMIREZ! GET OUTTA THE KILLZONE BEFORE YOU GET YOUR ASS BLOWN OFF! MOVE UP! Ramirez! Move up! Get outta the killzone! RAMIREZ! Get your ass outta the killzone and into the target building, NOW!)
+
+''Under cover fire, they enter the Department of Commerce.''
+
+'''Sgt. Foley''': Move up! Go! Go!
+
+''They engage foot-mobiles in the building.''
+
+'''Sgt. Foley''': Use your grenade launchers! Move in!
+
+''They pass the lobby into the hallway.''
+
+'''Sgt. Foley''': Overlord, this is Two-One Actual, be advised, we're inside and proceeding to the upper floors.
+
+'''Overlord''': Roger, Overlord copies all.
+
+''A Ranger is seen dragging a wounded fellow soldier before they are both shot dead. They engage hostiles in the hallway. A barely audible radio transmission is heard.''
+
+'''Three-Two Bravo''': Goliath, this is Three-Two Bravo! We have a man down! I repeat: we have a man down, requesting CASEVAC! How copy, over?
+
+'''Goliath''': Solid copy, Three-Two Bravo! Negative on CASEVAC, do whatcha can, out!
+
+'''Sgt. Foley''': Fire team has been suppressed in Section One-Alpha.
+
+'''Overlord''': Solid copy, Two-One.
+
+'''Sgt. Foley''': Overlord, this is Hunter Two-One Actual. Proceeding to the mezzanine. Tell the LAV from BCT One to hold their fire, over.
+
+'''Overlord''': Copy that, Two-One, good hunting.
+
+''They go up the stairs to the second floor. They engage more hostiles.''
+
+'''Sgt. Foley''': Hostiles suppressed in Section Two-Echo.
+
+'''Overlord''': Roger that, Two-One.
+
+''They move up a pile of rubble up to the fourth floor. The damaged Capitol Building is seen out in the distance.''
+
+'''Cpl. Dunn''': That was the freakin' Capitol Building, man...
+
+'''Delta Four-One''': This is Delta Four-One at the Lincoln Memorial! We are taking heavy fire! Request arty and air strike on our position! Send whatever ya got! Broken Arrow, Broken Arrow!!!
+
+'''Overlord''': Hunter Two-One be advised, hostiles on the southwest corner of the fifth floor are hammering the evac site, over.
+
+'''Sgt. Foley''': Solid copy, Overlord. We are Oscar Mike to the fifth floor. Out.
+
+''They engage more hostiles on the fourth floor and on a balcony across them. Ramirez plants [[C4]] on a [[SAM]] site sitting outside and destroys it. The hostiles are eliminated.''
+
+'''Gator Two-Five''': Gator Two-Six, Gator Two-Five! Be advised: We are pulling outta D.C.! BCT 4 has taken 90% losses! Our position is untenable! We are outta here! I repeat: We are getting the FUCK outta Dodge!!!
+
+'''Goliath Actual''': All Goliath victors fall back from the MSR! Delta Four-One is callin' in a Broken Arrow! Fall back to the MSR now! WE ARE LEAVING!
+
+'''Ranger''': Darkstar One-Three, we do not have enough shells remaining in the battery to provide effective supporting fire to your position! We are pulling outta DC in five mikes, out!
+
+'''Ranger''': Rhino Two-One, GET YOUR TEAM OUTTA THEIR PRONTO! We CAN NOT hold this position ANY LONGER! WE ARE LEAVING DC, I REPEAT: '''WE ARE LEAVING DC!!!!'''
+
+'''Sgt. Foley''': Enemy fire team eliminated in Section Four-Charlie.
+
+'''Overlord''': Copy that, Two-One.
+
+''They head up the stairs to the fifth floor.''
+
+'''Sgt. Foley''': Overlord, We're on the fifth floor, proceeding to the southwest corner.
+
+'''Overlord''': Copy that, Hunter Two-One.
+
+''Shadows are seen across the hall.''
+
+'''Cpl. Dunn''': I got movement.
+
+'''Sgt. Foley''': Watch your sectors. Check those corners.
+
+''The player can hear Rangers arguing on the radio.''
+
+'''Ranger 1''': Hunter Two-One needs support.
+
+'''Ranger 2''': We are leaving!
+
+'''Ranger 3''': Take out that [[BTR-80|BTR]]!
+
+'''Ranger 4''': We need reinforcements at the Potomac! WE ARE CUT OFF! WOLVERINE ONE-TWO IS FUCKING KIA! I REPEAT: WOLVERINE ONE-TWO IS KIA! OUT!!!
+
+'''Ranger 4''': Hunter Three, WE ARE LEAVING! Man down!
+
+''They engage hostiles on the fifth floor. The enemy's crow's nest on the southwest corner is in sight.''
+
+'''Sgt. Foley''': All Hunter units, I have a visual on the enemy's crow's nest on the southwest corner. Move forward and clear it out.
+
+''A Ranger is heard on the radio.''
+
+'''Ranger''': Mystic Two-One, [[Overlord|CENTCOM]] just gave the order to abandon all evac sites to the East of the Potomac! Get your ass out of there!!!
+
+''They clear the enemy crow's nest.''
+
+'''Sgt. Foley''': Overlord, this is Hunter Two-One Actual. We have secured the enemy's crow's nest on the southwest corner.
+
+'''Overlord''': Overlord copies all. The evac site at the Washington Monument reports several transports away, but they are still vulnerable. Can you provide support from your position, over?
+
+'''Sgt. Foley''': Roger that! We're sittin' on a stockpile of enemy munitions! We'll dig in and burn through their ammo! Out! Ramirez, get on that [[M82|sniper rifle]]! Scan for targets to the south of the Washington Monument!
+
+'''Evac Site''': All callsigns on this net, this is the Washington Monument Evac Site! We're holding our own but have glassed enemies to the west and are taking fire from that direction!
+
+'''Sgt. Foley''': We got foot-mobiles firing Javelin rockets on the evac site! Ramirez, get on the Barrett and take them out!
+
+''(If the player does not man the sniper rifle:''
+
+'''Evac Site''': We're taking fire at the Washington Monument, we're down to 80 percent combat effectiveness! Request immediate Sniper Rifle support on targets West of the Monuments, over!
+
+''If player stalls more:''
+
+'''Sgt. Foley''': Ramirez! Get your ass on the Sniper Rifle! Move!
+
+''If the player continues to stall:''
+
+'''Evac Site''': All callsigns, be advised, enemies to the west are attempting to force-in detail assault on the Washington Monument evac site.
+
+''If the player still stalls:''
+
+'''Sgt. Foley''': The Washington Monument is still taking fire! Get on Barrett and take them out!
+
+'''Evac Site''': Washington Monument to all callsigns! Enemy fire from the west is threatening our position! We can't take much more of this!'')''
+
+''The entire dialogue if the player doesn't protect the Washington Monument evac site, most were cut from the game, but still exists and can be found in the game files.''
+
+'''Evac Site''': All callsigns on this net, be advised, we are taking heavy fire from the west. Enemy infantry and artillery spotters confirmed due west of our position. All callsigns on this net, this is the Washington Monument Evac site. We're holding our own but have glassed enemies to the west and are taking fire from that direction! Request you engage all targets west of the Washington Monument, I repeat, request you engage all enemy targets west of the Washington Monument, over. All snipers, enemy fire is interfering with the evac of civilians, request additional sniper fire on enemy targets west of the monument, over. We're waking fire at the Washington Monument, we are down to 80 percent combat effectiveness. Request immediate sniper fire on targets west of the monument, over. This is the Washington Monument evac site, be advised, we are taking heavy fire from enemy armor and aircraft. We're down to 80% combat effectiveness. All callsigns, be advised, enemies to the west are attempting a force in detail assault on the Washington Monument evac site. Be advised, hostile forces are attacking the Washington Monument evac site. We are requesting support from any units in the area, over. We're taking major casualties, military and civilian. Request you engage targets west of the monument, over! All callsigns be advised, we are taking concentrated fire at the evac site and are losing vehicles and armor. We're down to 60 percent combat effectiveness, over! Washington Monument Evac Site to all callsigns, enemy fire from the west is threatening to destroy our position, we can't take much more of this! Washington Monument evac site to all callsigns, enemy fire is threatening to destroy our position, we can't take much more of this! Washington Monument evac site is taking heavy fire. We're down to 50 percent combat effectiveness, we gotta get more fire support or this evac site is going to fall, over! Washington Monument evac site is taking heavy fire from enemy armor and aircraft, we're down to 50 percent combat effectiveness! All callsigns, this is the Washington Monument evac site, be advised, our situation is critical, we can't take much more of this! We need more time to get these civvies out of here! All callsigns, this is the Washington Monument evac site, our status is critical, we're still taking fire from enemy armor and aircraft, please assist. We're taking heavy casualties at the evac site, combat effectiveness is at 30 percent, We can't sustain much more damage, All callsigns, be advised, we have civilians taking up arms to defend the evac site but their totally untrained! We're on the verge of being overrun, we need help NOW! This is the Whiskey Mike evac site, combat personnel are mostly dead, we're below 10% combat effectiveness, request additional fire support over! Whiskey Mike evac site to all callsigns, enemies are closing rapidly on our position, we're hanging on by a thread here, over!! ALL CALLSIGNS, BE ADVISED, WHISKEY MIKE EVAC SITE IS COMBAT INEFFECTIVE, WE'RE TOTALLY PINNED DOWN!! THEY'RE COMING AT ANY SECOND NOW! Enemy troops are inside the evac site! Repeat, enemy troops are inside the evac site! We lost the civvies, NOOOOOOOOOOO!!!!
+
+''Ramirez mans an "[[Barrett .50cal|M82 .50 Caliber]] Sniper Rifle with [[Thermal Scope]]" and begins to target hostiles armed with Javelin missile launchers''.
+
+'''Overlord''': Hunter Two-One, be advised, you have enemy foot mobiles converging on your position... stay frosty.
+
+''After about 4 or 5 kills:''
+
+'''Cpl. Dunn''': Hostiles in the perimeter! Open fire! Open fire!
+
+''They engage incoming hostiles.''
+
+'''Cpl. Dunn''': Taking fire! Taking fire! Foot mobiles in the perimeter!
+
+''They manage to hold them off.''
+
+'''Overlord''': Hunter Two-One, recommend you clear outta there... I see a mass of foot-mobiles converging on your position...
+
+'''Sgt. Foley''': Negative, negative! I have eyes on enemy armor and helicopters advancing on the evac site from the south and southwest! Ramirez, use some of this ordnance to take out the enemy vehicles! Move! Ramirez! Take out those vehicles! The evac site is taking heavy fire! Enemy vehicles are closing in! Take 'em out!
+
+''Ramirez and his team grab Javelins and fire on enemy helicopters and BTRs, providing support for the evac site.''
+
+'''Overlord''': Hunter Two-One, you've bought the evac site valuable time! Well done! Now get your ass to the roof ASAP... you are in danger of being overrun!
+
+'''Sgt. Foley''': Roger that, we're headed to the rooftops! Everyone, move out! Get to the roof and RV with the SEAL Team! Move! Move! Ramirez let's move out! Let's go, this sector's gonna be crawlin' with hostiles! We gotta go, now! We're outnumbered! We gotta get to the roof ASAP! Go! GO! GO!!!!
+
+'''Overlord''': Atlas Two-Six is now away. All remaining evacuation units, execute level three evacuation protocols. Urgent surgicals ONLY.
+
+''They begin to evacuate from the crow's nest. A Ranger destroys a door with a shotgun and kicks it down. They head up the stairs. At the second set of stairs, a Russian crashes in from the door and attacks. Ramirez kills him. The team moves around the balcony and climb up the rubble to the roof.''
+
+'''Ranger''': We just lost Atlas Two-Three from Triple A from the Capitol Building! Get those civvies back in their seats!!!
+
+'''Sgt. Foley''': We're out of time! GO!
+
+'''Cpl. Dunn''': Hostiles closing in!
+
+'''Sgt. Foley''': Move up! Go! Go!
+
+''(If you don't get to the roof after a small amount of time:''
+
+'''Sgt. Foley''': There's no time! WE GOTTA GET TO THE ROOF! RAMIREZ, GET YOUR ASS TO THE HELICOPTER! GO!! Get to the roof! Go! GO!!!'')''
+
+''They reach the rooftop where a [[UH-60 Blackhawk|Black Hawk]] is waiting. Russian soldiers are seen coming up from below.''
+
+'''Ranger''': I've got a major hydraulic leak! We're barely gonna make it over the MSR! We gotta touch down! We gotta la- (static)
+
+'''[[Dagger Two-One]]''': Hunter, this is Dagger Two-One. We are in position at the LZ on the rooftop, what's your status?
+
+'''Sgt. Foley''': We're on our way. Hostiles following close behind!
+
+''(If the player does not enter the Black Hawk:''
+
+'''Sgt. Foley''': We gotta move! Ramirez, get on that [[M61 Vulcan Cannon|minigun]]! Ramirez, get on the Minigun!'')''
+
+''They board the helicopter and Ramirez mans the minigun. As they take off, across from them, a Russian [[Mi-28]] helicopter fires its missiles but misses. A Ranger fires a [[FIM-92 Stinger|Stinger]] and shoots it down. Dagger Two-One takes off and flies towards the Washington Monument.''
+
+'''Sgt. Foley''': Overlord, we've linked up with the SEALs on the rooftop and are heading out. Interrogative - has the Washington Monument site been evacuated, over?
+
+'''Overlord''': Negative, Two-One! They're still pinned down by infantry and light armor from the World War 2 Memorial. Doesn't look good from here, over!
+
+'''Sgt. Foley''': Copy Overlord, we'll do what we can from the air, out!
+
+'''Overlord''': First wave of civilian transports is away. [[Reaver Two]], proceed with second stage evacuation. Litter urgent personnel only.
+
+''Dagger Two-One carrying Hunter Two-One flies towards the WWII Memorial.''
+
+'''Dagger Two-One''': Dagger Two, SAM launch! Break left break left!
+
+''SAM missiles are launched from the WWII Memorial. Little Bird [[Dagger Two-Two]] is shot down.''
+
+'''Sgt. Foley''': Overlord, Dagger Two-Two is hit and going down!
+
+''Dagger Two-One flies over and around the WWII Memorial.''
+
+'''Dagger Two-One''': RPG teams at the World War 2 memorial... pull that trigger till they don't get up.
+
+''Ramirez fires the minigun and obliterates everything at the Memorial, spraying at RPG teams and light armor vehicles''.
+
+'''Overlord''': Atlas Two-Three, Two-Four, and Two-Five are all away. Ground units at LZ four, fall back now.
+
+''An enemy Havoc takes off from the Memorial.''
+
+'''Dagger Two-One''': Enemy gunship lifting off twelve o'clock, War Memorial.
+
+''Ramirez shoots down the Havoc and continues to wipe out remaining enemies at the Memorial.''
+
+'''Atlas Two-Five''': This is Atlas Two-Five at LZ one! Engines at thirty percent! We can't carry any more people! We're gonna have to leave some of them behind!
+
+'''Evac Site''': Dagger Two, the Washington Monument is taking fire from the main road!
+
+''Ramirez turns and sprays the minigun at enemies behind cars all over the main road.''
+
+'''Overlord''': Overlord to all units, Evacuation Order April, I repeat, Evacuation Order April! Everyone get the hell outta there!
+
+'''Ranger''': Get your men on that transport now! We are leaving!
+
+'''Atlas One-One''': This is Atlas One-One, civilian transport going down two clicks West of Dupont Circle! We are-
+
+''SAM missiles are launched from the John F. Kennedy Department of Justice, shooting down Little Bird Dagger Two-Three and damaging Dagger Two-One.''
+
+'''Dagger Two-One''': Incoming! Incoming!
+
+'''Sgt. Foley''': Overlord, we're hit, but still in the air. We've got a massive SAM battery at the Department of Justice... we're going in!
+
+''Dagger Two-One hovers along the fourth floor of the Dept. of Justice. Ramirez sprays the minigun at RPG teams all along the floor.''
+
+'''Dagger Two-One''': We're losing attitude control!
+
+'''Sgt. Foley''': Take us up! If we're going down, we're takin' those SAM sites with us!
+
+''Dagger Two-One flies over the roof of the building. Ramirez fires at the SAM battery, but the Russians have launched their missiles.''
+
+'''Dagger Two-One''': SAM launch! Hang on!
+
+''Dagger Two-One is hit and starts to spin towards the ground.''
+
+'''Dagger Two-One''': We're hit! Mayday mayday, this is Dagger Two-One. We are going down at grid square Papa Bravo 2...
+
+''Dagger Two-One crashes. The player's vision blacks out.''
+
+'''Overlord''': Dagger Two-One, this is Overlord. Do you copy, over? Dagger Two-One, this is Overlord, how copy, over?
+
+''Ramirez wakes up shell-shocked in the wreckage. Outside, Sgt. Foley, Cpl. Dunn, Pvt. [[McCord (Modern Warfare 2)|McCord]], Pvt. [[Sandler (Modern Warfare 2)|Sandler]], and Pvt. [[Wade]] fend off hostiles from the crash site. Ramirez looks at his hands, which have sustained major injuries. His gloves are torn and his watch is damaged and no longer functioning.''
+
+'''Cpl. Dunn''': Sandler, target 2 o'clock!
+
+'''[[McCord (Modern Warfare 2)|Pvt. McCord]]''': Two mags left!
+
+'''Sgt. Foley''': Dunn, talk to me!
+
+'''Cpl. Dunn''': I'm okay!
+
+'''[[Sandler (Modern Warfare 2)|Pvt. Sandler]]''': Watch your flank!
+
+'''Cpl. Dunn''': Target, 11 o'clock! Range, 50 meters!
+
+''Wade turns around and hands Ramirez an M4A1 Grenadier w/ Holographic.''
+
+'''[[Wade|Pvt. Wade]]''': Take this and stay down!
+
+''Wade is shot in the back of the head and killed.''
+
+'''Sgt. Foley''': Wade's down!
+
+''Ramirez loads his M4A1 and begins taking out targets from inside the wreckage.''
+
+'''Pvt. Sandler''': McCord, reloading, cover me!
+
+'''Pvt. McCord''': McCord covering!
+
+'''Pvt. Sandler''': Last mag!
+
+''Sgt. Foley throws a mag at Ramirez.''
+
+'''Sgt. Foley''': Ramirez! Last mag! Make it count! Team, ammo check!
+
+'''Pvt. Sandler''': I'm good!
+
+''Enemy helicopters drop off more troops.''
+
+'''Cpl. Dunn''': There's too many of them!
+
+'''Pvt. McCord''': Sean! Last mag!
+
+'''Sgt. Foley''': Sandler, sound off!
+
+'''Pvt. Sandler''': New target, range, 80 meters!
+
+'''Pvt. McCord''': Got it, got it!
+
+'''Cpl. Dunn''': Tracer! Three rounds left!
+
+''Cpl. Dunn is shot and wounded.''
+
+'''Sgt. Foley''': Corporal! Hang on!
+
+'''Cpl. Dunn''': Oh shit...
+
+'''Sgt. Foley''': Defend this position!
+
+''Ramirez runs out of ammo. An Mi-28 Havoc with a searchlight blinds him...''
+
+{{CoD6 CampaignT}}

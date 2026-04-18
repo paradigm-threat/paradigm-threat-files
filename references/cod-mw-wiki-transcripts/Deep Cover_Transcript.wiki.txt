@@ -1,0 +1,380 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_III_Transcripts -->
+<!-- title: Deep Cover/Transcript -->
+
+{{game|1=mwiii}}
+== Cutscene ==
+'''THREE HOURS EARLIER'''
+
+''[[Nikolai (Reboot)|Nikolai]] is in a hangar working on maintenance for his helicopter while the song "'''Bonebreaker'''" by Slaughter to Prevail plays in the background. [[Kate Laswell]] calls out to him from behind.''
+
+'''Laswell''': Nik... Nikolai!
+
+''Nikolai stops working.''
+
+'''Nikolai''': Laswell...
+
+'''Laswell''': Really...?
+
+''Laswell walks over to Nikolai's laptop and switches off the music player. Nikolai turns to face Laswell.''
+
+'''Nikolai''': [[Vladimir Makarov (Reboot)|Makarov]]?
+
+'''Laswell''': Word travels fast.
+
+'''Nikolai''': Only if he wants it too...
+
+''Nikolai climbs down from the helicopter fuselage.''
+
+'''Laswell''': You think he's working for the [[Kremlin]]?
+
+'''Nikolai''': I wouldn't be surprised.
+
+'''Laswell''': I have [[Yuri Volkov|a contact]] who might know the answer. I need transport.
+
+'''Nikolai''': Where?
+
+'''Laswell''': Arklov Military Base.
+
+'''Nikolai''': It's heavily guarded.
+
+'''Laswell''': Can you do it?
+
+'''Nikolai''': To stop Makarov... Of course.
+
+'''Laswell''': I need to get in and back out. Could go upside down quickly.
+
+'''Nikolai''': I specialize in upside down, Laswell.
+
+''A spark bursts from Nikolai's helicopter, prompting Nikolai to bang his hand against the fuselage.''
+
+'''Laswell''': That's what I'm afraid of...
+
+'''Nikolai''': Who's your contact?
+
+'''Laswell''': Yuri Volkov.
+
+''Nikolai chuckles.''
+
+'''Nikolai''': Yuri's on the payroll?
+
+''Laswell smiles.''
+
+'''Laswell''': Yuri never took a dime.
+
+'''Nikolai''': That's Yuri... When do we leave?
+
+'''Laswell''': How's now...?
+
+''The scene shifts to [[Verdansk]] as Nikolai's helicopter flies above the mountains below. Suddenly, Nikolai pilots his helicopter into a sharp dive and flies close to the ground. Inside the cockpit, Laswell wears [[Soviet Armed Forces|Russian army]] fatigues as she steadies herself.''
+
+'''Laswell''': Nice...
+
+'''Nikolai''': We need to fly low...
+
+'''Laswell''': Under the radar...
+
+'''Nikolai:''' Exactly.
+
+''Laswell gives a thumbs up.''
+
+'''Nikolai''': Exactly. We are a mile out...
+
+'''Laswell''': Don't get compromised. Dust off and go... Call you when I need you.
+
+'''Nikolai''': Roger.
+
+''Laswell looks out the window and sees the Arklov military base in the distance. Nikolai lands his helicopter on the ground.''
+
+'''Nikolai''': Go-go-go!
+
+''Laswell jumps out of the chopper.''
+
+'''Laswell''': I'm clear!
+
+'''Nikolai''': Copy!
+
+''Nikolai takes off and flies away.''
+
+''Cut to black.''
+
+== Gameplay ==
+'''KATE LASWELL - [[Central Intelligence Agency|CIA]]'''
+
+'''DEEP COVER'''
+
+'''ARKLOV PEAK MILITARY BASE - VERDANSK, [[Kastovia|KASTOVIA]]'''
+
+'''11 NOVEMBER 2023, 1500'''
+
+''Laswell crouches down and overlooks the Arkov Base while prepping her [[X12|X-12]] pistol with a [[Silencer|suppressor]].''
+
+'''Laswell''': Watcher to Yankee... Eyes on the base. Approaching now...
+
+'''Nikolai''': Copy, Watcher. Shit's about to get real... Keep a low profile...
+
+''Laswell makes her way through the military base post many Russian soldiers and guards.''
+
+'''Laswell''': Yuri should have sent you his location by now.
+
+'''Nikolai''': Affirmative. Arklov Administrative Building. Near the hangar. Look for a satellite dish on the roof...
+
+'''Laswell''': Copy, dish on the roof.
+
+'''Nikolai''': Yuri's delegation will be looking for him. You'll have to be quick...
+
+'''Laswell''': In and out, nobody gets hurt.
+
+'''Nikolai''': I know Arklov well. I'll do my best to help you./I know Arklov well. Tell me what you see and I'll do my best to help you.
+
+''(If Laswell attracts attention the wrong way...)''
+
+'''Female Kastovian Soldier''': Hey! Stop right there!; Come here right now!
+
+''(If Laswell blows her cover in any way, the Russian Army troops will attack Laswell.)''
+
+'''Laswell''': Cover's blown! I'm compromised! They spotted me! Taking fire!
+
+'''Nikolai''': Get to safety, Laswell.
+
+'''Laswell''': They see me! Nik, I'm made! Have to shake these guys!
+
+'''Nikolai''': Get out of there, Watcher!
+
+'''Laswell''': Shit, they're on to me!
+
+'''Nikolai''': Find cover, Laswell!
+
+''Laswell continues on her way to the admin building.''
+
+'''Laswell''': Approaching the admin building.
+
+'''Nikolai''': So far so good.
+
+''Laswell overhears a conversation between two soldiers.''
+
+'''Kastovian Soldier''': Anything?
+
+'''Kastovian Soldier''': Negative.
+
+'''Kastovian Soldier''': Guess we'll check with them again in an hour.
+
+'''Kastovian Soldier''': Everyone is exceptionally busy right now.
+
+'''Kastovian Soldier''': To be expected; we have important guests on the base.
+
+''(If Laswell hasn't reached the administrative building...)''
+
+'''Nikolai''': Look for the sliding glass doors and the flags over the entrance, Laswell.
+
+''Laswell sees the administrative building nearby.''
+
+'''Laswell''': Closing on the entrance, Nik.
+
+'''Nikolai''': That's the place - Yuri is inside.
+
+''Laswell reaches the entrance to the administrative building and sees guards and a keycard panel.''
+
+'''Laswell''': Got a problem. Need a security keycard to access.
+
+'''Nikolai''': You'll need to borrow one.../Good thing you're a spy.
+
+'''Laswell''': Bet I could find one on an officer. Anyone entering or exiting likely has one./I'll snag a card from an officer. Anyone entering or exiting likely has one.
+
+'''Nikolai''': Good call - Look for an officer leaving the building...
+
+''Laswell spots a Russian Major leaving the building with an armed escort.''
+
+'''Laswell''': I see a Major leaving the entrance. He's not alone.
+
+'''Nikolai''': Sounds like you found your mark. Follow him and get his keycard./Wait 'til he's alone and do what needs to be done for his keycard.
+
+''Laswell sees the Major leave his escort behind and walk upstairs to an office building.''
+
+'''Laswell''': Major's breaking away. Heading upstairs towards an office.
+
+'''Nikolai''': Could be a good place to catch him alone.
+
+''Laswell follows the Major inside the building as the Major speaks to a female Russian soldier.''
+
+'''Kastovian Major''': Status on the communications array?
+
+'''Female Kastovian Soldier''': Upgrades are currently being installed.
+
+''Laswell guns down the Major and the female soldier quietly.''
+
+'''Laswell''': He's down.
+
+''(If the Major spots Laswell...)''
+
+'''Kastovian Major''': Show me your ID, soldier.
+
+''Laswell takes the keycard from the dead Major's body.''
+
+'''Laswell''': Target eliminated. Keycard secured.
+
+'''Nikolai''': He took one for the team...
+
+'''Laswell''': Had to be done.
+
+'''Nikolai''': That one's on Makarov, not you...
+
+'''Laswell''': Yuri better make this worth our while...
+
+''A Russian guard notices Laswell nearby and gets suspicious.''
+
+'''Kastovian Soldier''': Who's that?
+
+'''Laswell''': Got some unwanted attention, here...
+
+''Laswell uses the keycard to enter the administrative building and takes off her military cover.''
+
+'''Laswell''': I'm in.
+
+'''Nikolai''': Laswell, Yuri is in the storage room. Take the hallway to the right of the entrance. It should be there.
+
+''Laswell goes down the hallway and opens the door to the storage room.''
+
+'''Laswell''': Makin' entry./I'm there, Nik. Out.
+
+''Laswell carefully enters the darkened storage room with her pistol drawn and closes it behind her. She then spots Yuri smoking a cigarette behind a set of shelves.''
+
+'''Laswell''': Yuri...
+
+'''Yuri''': Watcher... I'm impressed, but... Not surprised. 
+
+''Laswell and Yuri walk around the shelves to greet each other.''
+
+'''Yuri''': Any issues?
+
+'''Laswell''': Several.
+
+'''Yuri''': Collateral damage?
+
+'''Laswell''': I hope it's worth their sacrifice.
+
+''Yuri offers his cigarette to Laswell, who accepts it. He chuckles.''
+
+'''Laswell''': What do you have?
+
+''Yuri walks over to a desk and drops a USB device on it.''
+
+'''Yuri''': FSB files on [[Roman Barkov|Barkov's]] research.
+
+'''Laswell''': Chemical weapons.
+
+'''Yuri''': As a soldier, Makarov was... enamored with their potential. 
+
+'''Laswell''': Can they be neutralized?
+
+'''Yuri''': I'm giving you everything we know.
+
+''Laswell takes a drag from the cigarette.''
+
+'''Laswell''': Why? 
+
+'''Yuri''': [[Russia/Modern Warfare|Russia]] and the West face similar threats from within. It is imperative we collaborate to control them. ''Противник моего противника — мой союзник.'' (The opponent of my opponent is my ally.)
+
+''Yuri gives Laswell the USB device.''
+
+'''Laswell''': ''Николай бы согласился'' (Nikolai would agree.)
+
+''Laswell hands back Yuri his cigarette. He takes a drag from it.''
+
+'''Yuri''': ''[chuckles]'' ''Настоящий патриот''. (A true patriot.) The Kremlin is not behind these chemicals.
+
+'''Laswell''': That doesn't mean Makarov isn't working with Moscow.
+
+'''Yuri''': There are extremists in [[United States of America/Modern Warfare|both]] our governments...
+
+''Laswell's radio crackles with the voice of Captain [[John Price (Reboot)|Price]].''
+
+'''Price''': ''[over comms]'' 6 to Watcher... ''[static]'' 6 to Watcher! 
+
+''Laswell touches her earpiece.''
+
+'''Laswell''': Come again, Bravo?
+
+'''Price''': Kate- ''[static]'' Laswell, are you there!?
+
+'''Laswell''': Bravo, your signal's weak. Come again.
+
+'''Price''': This is 6, in the blind! We have two missiles incoming to the Arklov Base! They have chemical warheads! If you are there, get out!
+
+''The base alarm sounds.''
+
+'''Yuri''': This could be a drill.
+
+'''Laswell''': It's not...
+
+''An explosion shakes the base, causing Laswell and Yuri to stumble.''
+
+'''Laswell''': There's another one coming!
+
+'''Yuri''': [Blyat.] We have to go! We cannot be seen together! Laswell, go! ''Удачи...'' [Good luck...]
+
+''Yuri exits the room, leaving Laswell alone as she looks at the USB device for a second. Laswell exits the storage room a moment after Yuri and spots him leaving in the elevator. Outside, Russian soldiers are trapped with the gas as they suffocate to death.'' ''The chemical gas from the missile begins seeping into the administrative building and choking anyone caught in it. Russian soldiers can be heard screaming.''
+
+'''Kastovian Soldier''': ''(in Russian)'' We need to get inside!
+
+'''Kastovian Soldier''': ''(in Russian)'' Can't breathe!
+
+'''Kastovian Soldier''': ''(in Russian)'' We're going to die out here!
+
+'''Kastovian Soldier''': ''(in Russian)'' Open the door!
+
+'''Kastovian Soldier''': ''(in Russian)'' Help us!
+
+'''Kastovian Soldier''': ''(in Russian)'' Let us in!
+
+'''Kastovian Soldier''': ''(in Russian)'' It burns!
+
+'''Kastovian Soldier''': ''(in Russian)'' Let us inside!
+
+'''Kastovian Soldier''': ''(in Russian)'' The gas is everywhere!
+
+'''Nikolai''': Yankee to Watcher... Laswell! Come in! Are you alive?
+
+''Laswell coughs as she tries to evade the gas by running upstairs.''
+
+'''Laswell''': For now... Missile attack -- Chemical warheads...
+
+'''Nikolai''': Get to the high ground. Look for a way up to the roof for extraction!
+
+''Laswell runs up the stairwell.''
+
+'''Laswell''': Need an ETA, Nik!/Comin' up now, Nik. You here?
+
+'''Nikolai''': Circling now. People are dying down there... Hurry, Laswell! Is Yuri with you?
+
+'''Laswell''': Negative. We went separate ways.
+
+'''Nikolai''': He's a survivor. Like you.
+
+''Laswell climbs up the ladder to the next floor.''
+
+'''Laswell''': Going up the ladder.
+
+'''Nikolai''': Hurry! The cloud is rising!
+
+''Laswell continues running up the stairs to the roof.''
+
+'''Laswell''': I'm almost to you, Nik! Stand by!/Still pushing up, Nik! Hold for me...
+
+'''Nikolai''': Of course, Laswell. Just come quickly!!
+
+''Laswell reaches the door to the roof just as the gas rises up around her. Nikolai lands his helicopter on the roof.''
+
+'''Nikolai''': Laswell! I see you! Jump! The ladder, Laswell, use it!
+
+''Laswell jumps off the roof ladder and lands inside Nikolai's chopper.''
+
+'''Nikolai''': You good?
+
+'''Laswell''': Yeah. Let's get outta here!
+
+'''Nikolai''': Hold on!
+
+''Nikolai flies his chopper away from the destroyed military base.''
+
+''The level ends. Cut to black.''{{CoD20 CampaignT}}
+[[Category:Call of Duty: Modern Warfare III Transcripts]]

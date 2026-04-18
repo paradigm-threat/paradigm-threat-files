@@ -1,0 +1,424 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_3_Transcripts -->
+<!-- title: Stronghold (Mission)/Transcript -->
+
+{{Game|mw3}}
+
+==Cutscene==
+
+''Soap's dog tags are pinned to the wall of intel with his knife, along with his patches and photos.''
+
+'''[[John Price|Price]]''': There's a clocktower in Hereford where the names of the dead are inscribed. We try to honor their deeds even as their faces fade from our memory. Those memories are all that's left, when the bastards have taken everything else.
+
+''Soap is labeled KIA on the laptop.''
+
+'''[[Baseplate]]''': What happened?
+
+'''Price''': [[Vladimir Makarov|He]] [[Blood Brothers|killed]] [[John "Soap" MacTavish|Soap]]. He's gone, [[MacMillan|Mac]].
+
+'''Baseplate''': What do you need from me, son?
+
+''Images of a castle in Prague is shown.''
+
+'''Price''': A location. [[Yuri (Modern Warfare 3)|Our Russian]] says [[Vladimir Makarov|Makarov]] used to cache weapons at an old castle near Prague. He's got nothing more solid than that.
+
+'''Baseplate''': Can you trust him?
+
+'''Price''': What choice do I have? [[No Russian|He's got his own reasons for wanting Makarov dead]]. Place ring any bells?
+
+''Drone video feeds are uploaded – “Incoming Transmission. Complete - Run Drone Simulation.”''
+
+'''Baseplate''': Aye. We ran drones over a suspect castle back in [[Imran Zakhaev|Zakhaev's]] day, but we never got wind of our targets visiting the area.
+
+'''Price''': What am I up against?
+
+''The castle is analyzed in the video feed.''
+
+'''Baseplate''': The place is a fortress. Only one way in or out, unless you've learnt to fly.
+
+''A security office and a command center are highlighted.''
+
+'''Baseplate''': Security office on the far side of the compound, and a command center north of that. Both were heavily guarded. If Makarov's there, he'll be in that control room.
+
+''An equipment list is sent to Baseplate: helmet-mounted AN/AVS-6 vision goggles, standard issue parachute, [[C4]] plastic explosive, [[M67 Grenade|frag grenades]], [[MP5]], [[P99]]. Baseplate responds to the list with "???".''
+
+'''Baseplate''': What's this you're sending me?
+
+'''Price''': Equipment list.
+
+'''Baseplate''': That's a lot of hardware, John. What'd you plan on doin'?
+
+'''Price''': What you taught me to do. Kill 'em all.
+
+==Gameplay==
+
+'''[“Stronghold”]'''
+
+'''[October 12<sup>th</sup> – 22:48:12]'''
+
+'''[Yuri]'''
+
+'''[Task Force 141 - Disavowed]'''
+
+'''[Prague, Czech Republic]'''
+
+''Price and Yuri are gliding with parachutes towards the castle in Prague. Using [[Night Vision Goggles|night vision goggles]], they guide themselves to an open area and Price kills the two guards. As they land, their parachutes detach, and Yuri takes out an MP5 [[Silencer|Suppressed]] [[Red Dot Sight]].''
+
+'''Price''': Keep up or I leave you behind.
+
+''They start their way through the castle grounds. Price sees two guards with flashlights. They hide behind a small wall.''
+
+'''Price''': Get down. Get caught in those lights and we're done before we've started.
+
+''(If the guards see the player:''
+
+'''Price''': They're onto us! Light 'em up!
+
+''Price and Yuri kill the two guards.''
+
+'''Price''': Next time, I let them kill you.'')''
+
+''The two guards patrol past them.''
+
+'''Price''': Move.
+
+''They sneak behind another two guards and hide behind another wall.''
+
+'''Price''': Wait...
+
+''Yuri and Price wait for guards to pass as they start a conversation.''
+
+'''Guard''': Эй, Лёха! Как жизнь? (Hey, Lyokha! How's life?)
+
+'''Lyokha''': Холодная, тёмная и сырая. (Cold, dark and humid.)
+
+'''Guard''': Ха! Да, я не говорил про твою любовную жизнь. (Ha! Yeah, I'm not talking about your sex life.)
+
+'''Lyokha''': Ха-ха. Очень смешно. (Ha-ha. Very funny.)
+
+''(If the player gets caught again:''
+
+'''Price''': We're compromised! Take 'em down!
+
+''They kill the guards.''
+
+'''Price''': No more mistakes. Let's go.'')''
+
+''The guards pass.''
+
+'''Price''': This way. Now.
+
+''(If the player stalls a while:''
+
+'''Price''': You're lagging behind, Yuri. Stop slowing me down. Keep falling behind, and you’re on your own. I don’t have time for this, Yuri. Get over here.'')''
+
+''They move down to the edge of the courtyard filled with vehicles and patrols.''
+
+'''Price''': When we're down there, you move when I move. Do as I do. Understand? Let's go.
+
+''They go down and hide behind a truck. A single patrol is ahead.''
+
+'''Price''': Hold... Only shoot at what you can kill.
+
+''They sneak behind the guard.''
+
+'''Price''': Go. Under the trucks.
+
+''They prone and crawl under the trucks, hiding from several patrols.''
+
+'''Price''': Wait!
+
+''Price plants a C4 under the truck.''
+
+'''Price''': We'll plant C4 to cover our escape. We'll burn this place down if we have to.
+
+''They come out from under the truck and hide behind a jeep, a single patrol just in front of them.''
+
+'''Guard 1''': Блин, я никак не пойму - почему ты не обратишься к врачу? (Damn, I don't get it - why won't you see the doctor?)
+
+'''Guard 2''': Что я ему скажу? (What will I tell him?)
+
+'''Guard 1''': Правду! Или... что-то, близко к правде. (The truth! Or... something close to truth.)
+
+'''Guard 2''': А если он рапорт подаст? Мне же тогда кирдык! (What if he files a report? I'm done then!)
+
+'''Guard 1''': Лучше ж... это же, чем так мучаться?.. Ну чё, он... по-прежнему меняет цвет? (Well, it's better than... suffer like this? So what, does it still... change its color?)
+
+'''Guard 2''': Уже нет. Со вторника синий. (Not anymore. It's blue since Tuesday.)
+
+'''Guard 1''': Ну... может, он поправляется? (Well... maybe it's recovering?)
+
+'''Guard 2''': Спасибо. (Thanks.)
+
+'''Guard 1''': Или просто отвалится скоро! (Or maybe it will fall off soon!)
+
+'''Price''': Take him out, but don't get caught in that spotlight.
+
+''Yuri sneaks up from behind and slits the guard's throat. Price drags the body and hides it under a nearby truck.''
+
+''(If the player doesn’t kill the guard, Price will kill the guard instead…''
+
+'''Price''': Lost your edge? Let me show you how it’s done.
+
+''Price then drags the body and hides it under a nearby truck.)''
+
+'''Price''': Wait for it...
+
+''The tower's searchlight moves across the courtyard.''
+
+'''Price''': Now!
+
+''They sprint across the grass.''
+
+'''Price''': Over here.
+
+''They see a bunch of guards standing on a platform, talking.'' 
+
+'''Guard''': *chuckles* Пытаешься выглядеть занятым, Миша? (Trying to look busy, Misha?)
+
+'''Misha''': Ты о чём? Делать-то нечего! (What are you talking about? There's nothing to do here!)
+
+'''Guard''': По крайней мере, некоторым хоть какое-то дело припало... (At least some have something to make themselves busy...)
+
+'''Misha''': Да уж я скорее со скуки подохну! (I'll die of boredom before that!)
+
+''Yuri and Price go prone again and crawl under the platform. One of the guards has a flashlight, which he shines through the platform.''
+
+'''Price''': Stop. Don't move.
+
+''He passes.''
+
+'''Price''': Alright. C'mon. Plant C4 on the platform. 
+
+''Yuri places a C4 under the platform. If the player doesn't plant the C4 charge, Price will plant it instead.''
+
+'''Price''': Yuri, plant the C4. Nevermind, I'll handle it.
+
+''Price stops just by the edge of the platform. A guard is just above them.''
+
+'''Price''': Easy...
+
+''The guard jumps off the platform and walks away.''
+
+'''Price''': Clear. Go.
+
+''They crawl out from under the platform and hide behind a few crates.''
+
+'''Price''': We're good. Keep moving. There's the security office. C'mon.
+
+''They come to the door of the security office.''
+
+'''Price''': I'll handle this.
+
+''Price takes out his [[USP .45]] Suppressed w/ [[Tactical Knife]] and knocks on the door. The guard opens it and Price shoves in, knifing the first guard and silently killing the other three inside.''
+
+'''Price''': Clear.
+
+''Price looks at the security feed.''
+
+'''Price''': They've got cameras outside the command center. Both sides – here, and here. Eh, well, we'll just have to knock on the door.
+
+''Price holds a dead guard's hand up to the number pad and opens the door.''
+
+'''Price''': Cheers.
+
+''They move down the stairs to the dungeons.''
+
+'''Price''': Quiet... Night-vision on. I'll take care of the lights.
+
+''They stack up by the entrance. Yuri puts on his night-vision.''
+
+'''Price''': Ready?
+
+''Price knifes the fuse box and the lights go out.''
+
+'''Price''': Weapons free!
+
+''Yuri takes out the first guards. The player can knife only to avoid using his pistol.''
+
+'''Price''': Sweep through this area fast. They won't know how few we are in the dark.
+
+''Yuri moves through the dungeons and takes out the guards. At the hall, a guard tosses a flare, lighting up the room and flaring up the night-vision.''
+
+'''Price''': They're using flares! Take your night-vision off. We'll do this the old way.
+
+''Yuri removes his night-vision and resumes engaging the Russians at the halls.'' 
+
+'''Prisoners''': Что здесь, чёрт побери, происходит?!; Они освободят нас!; Помогите нам, пожалуйста!; Мы ни в чём не виноваты!; Смерть Макарову!; Убить! Убить их всех! (What the hell is going on here?!; They will set us free!; Help us, please!; We're innocent!; Death to Makarov!; Kill them! Kill them all!)
+
+''They clear the dungeons.''
+
+'''Price''': You're on point. Go.
+
+''They move to the next room, where a Russian attempts to use a prisoner as a human shield. Yuri kills the guard, allowing the prisoner to flee.''
+
+'''Price''': ''(to the prisoner)'' Get out of here! Go!
+
+''They keep moving through the castle until they come to a door that leads back outside.''
+
+'''Price''': We have about ten minutes until they find their dead.
+
+''Price opens the door and they move out. They climb up the construction ladders.''
+
+'''Price''': This bridge is the only way in or out of the base. Plant some more C4 on the column.
+
+''(If the player stalls:''
+
+'''Price''': Plant the damn C4, Yuri. Hurry.'')''
+
+''Yuri plants a C4 charge on the bridge column. They come to a narrow plank and move across.''
+
+'''Price''': This whole thing looks like it's about to collapse... so take it slow.
+
+''They continue moving on the bridge, up another ladder, and up the stairs. Price sees a line of cables leading into a wall and starts putting a string charge on it.''
+
+'''Price''': Hold on... Change of plan. The control center is just above us. Looks like we won't have to shoot our way in.
+
+''He finishes placing the charge and gets to a wall.''
+
+'''Price''': The thunder will hide the sound of the blast. Wait for my signal.
+
+''Yuri takes out the detonator. Price waits for the thunder. The thunder is heard and Price signals.''
+
+'''Price''': Now.; Blow it.; Go.
+
+''(If the player does not detonate the C4 after the lightning strike:''
+
+'''Price''': Are you dim? You're going to get us killed!; Focus, Yuri!'')'' 
+
+''(If the player detonates the C4 before the lightning strike:''
+
+'''Price''': Your timing is piss poor.'')''
+
+''Yuri detonates the wall charge. They move in and see logs holding together between two walls.''
+
+'''Price''': We can climb up here. C'mon.
+
+''They climb the logs up the walls and come to a boarded hole that looks into the control room. The guards watch a live video feed of Russian [[Boris Vorshevsky|President Vorshevsky]] held hostage by Makarov.''
+
+'''President Vorshevsky''': For the last... time... I will not bow... to the demands... of [[Inner Circle|terrorist thugs]]! I will die... before I surrender the nuclear launch codes.
+
+'''Price''': Makarov.
+
+'''Makarov''': I see... This is what we are dealing with, brothers. A stubborn old man, hopelessly out of step with the changing world. You too, will change.
+
+''A guard walks in.''
+
+'''Guard''': Sir, still no response from the security room.
+
+'''[[Alexi]]''': Get down there. Find out what's going on.
+
+'''Makarov''': Alexi, has your Intel been confirmed?
+
+'''Alexi''': Yes sir. Our men are already on their way to Berlin.
+
+''Makarov turns to Vorshevsky.''
+
+'''Makarov''': Are you listening?
+
+'''Alexi''': The [[Alena Vorshevsky|daughter]] is there. [[Scorched Earth (mission)|We will have her in a matter of hours]].
+
+''Hearing his daughter is in danger, the President begins to struggle.''
+
+'''Makarov''': Keep me updated.
+
+''The feed turns off.''
+
+'''Price''': Time to go.
+
+''An alarm sounds. ''
+
+'''Alexi''': Что здесь происходит? Вы получили ответ от охраны или нет? Обыскать людей, обыскать территорию! (What’s going on there? Have you got the response from the security or not? Search the people, search the grounds!)
+
+'''Price''': They must have found the bodies. This should buy us some time.
+
+''Price pulls out a frag grenade, pulls the pin, and tosses it into the control room. Alexi and two guards soon notice it.''
+
+'''Guard''': Граната! (Grenade!)
+
+''They scatter to get clear of the impending blast.''
+
+'''Price''': Down! Now!
+
+''They slide down the walls and they land on the bottom as the grenade explodes, shell shocking Yuri. The impact has knocked down a wall into the kitchen. Yuri pulls out his weapon and fires at the stove, burning one of the hostiles.''
+
+'''Price''': On your feet! We are leaving!
+
+''They engage hostiles and move through the kitchen.''
+
+'''Price''': [[Nikolai (Modern Warfare)|Nikolai]], the daughter is in Berlin! Makarov has men on their way!
+
+'''Nikolai''': I'll contact [[Sandman|the American]].
+
+'''Price''': Vorshevsky will break if they threaten the girl!
+
+'''Nikolai''': Да (Yes), Captain Price. I won't let you down.
+
+''They move through the cellar and back up outside.''
+
+'''Price''': [[Flashbang]]!
+
+''A flashbang goes off, but Yuri still manages to take out hostiles.''
+
+'''Price''': Keep moving! Left side!
+
+''They go up the stairs and into the next floor inside the building. They engage more hostiles.''
+
+'''Price''': Yuri! Don't slow down now! Sort 'em out!
+
+''They eliminate the hostiles in the room and move on to an office room.''
+
+'''Price''': Through here! Move! On me!
+
+''They clear the office and go outside.''
+
+'''Price''': [[RPG-7|RPGs]]!
+
+''They move through the courtyard, taking out more hostiles. An [[Mi-8]] arrives and troops rappel down into the yard. Yuri and Price dispatch of them all.''
+
+'''Price''': Stay with me, Yuri!
+
+''They move through another part of the building and outside again. On the bridge are a group of infantry and a [[BTR-80|BTR]] trying to get across.''
+
+'''Price''': They're just in time.
+
+''Yuri takes out the detonator.''
+
+'''Price''': Do it.
+
+''(If Yuri doesn't detonate the C4 charge, Price will do it instead.''
+
+'''Price''': Fine. I'll do it. You're a sloppy bastard, y'know that?'')''
+
+''The C4 on the bridge is detonated, and the BTR falls off the bridge and into the river, exploding.''
+
+'''Price''': Move!
+
+''They come to a window above the bridge.''
+
+'''Price''': Jump! Go!
+
+''Yuri jumps out the window and safely lands on the truck below, Price follows. They cross the bridge and engage hostiles and a BTR at the courtyard.''
+
+'''Price''': That BTR is blocking our way out! On me!
+
+''They get in a jeep and Price begins to drive.''
+
+'''Price''': Detonating C4! Now!
+
+''The C4 planted all around the courtyard explode, allowing them to break out of the gates and escape. As Price drives, he nears the side edge of the cliff road.''
+
+'''Price''': Hold on!
+
+''BTR cannon fire hits the jeep and the engine begins to go on fire.''
+
+'''Price''': BTRs! Hope you're still carrying your reserve, Yuri! Get your chute ready!
+
+''Price drives past the BTRs and off the cliff. They jump out of the jeep and open their reserve chutes just as the jeep crashes and explodes below them.''
+
+'''Price''': Nikolai, get us out of here.
+
+'''Nikolai''': Roger. I'm on the way.
+
+''They glide safely across the river.''
+
+{{CoD8 CampaignT}}

@@ -1,0 +1,357 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_2_Transcripts -->
+<!-- title: The Gulag/Transcript -->
+
+{{game|mw2|mw2r}}
+==Cutscene==
+
+''The satellite displays the [[Vikhorevka 36 Oil Platform|oil rigs]] going offline, since during [[The Only Easy Day... Was Yesterday|the previous level]], the SAM sites have been dismantled by the Marines. The gulag where Prisoner #627 is being held is analyzed.''
+
+'''Captain MacTavish''': Sixth Fleet's mopping up. Time to move in. Long history of [[Petropavlovsk Gulag|this building]]. Not much of it pretty. Started out as a castle. With an actual dungeon. Built to withstand any siege. Building survived every brutal winter. The occupants... they weren't so lucky. The Monastery. Didn't survive the purges. Over the last century it's played host to anyone the government didn't want, but couldn't kill. Place is filled with living casualties of the last war... which I swear I thought we'd won. But I suppose it's all a day at the races: you back the losing horse, and this is where you end up. Six-Two-Seven is the piece of meat [[Vladimir Makarov|Makarov]] wants, so let's cut him loose.
+
+''The satellite tracks [[Task Force 141]] on [[MH-6 Little Bird|Little Birds]] heading towards the gulag.''
+==Gameplay==
+
+''Four Little Birds fly Captain MacTavish, [[Gary "Roach" Sanderson|Sgt. Gary "Roach" Sanderson]], [[Simon "Ghost" Riley|Ghost]], and the rest of the team towards the gulag.''
+
+'''Captain MacTavish''': Thirty seconds.
+
+''Two [[F-15 Eagle|F-15s]] fly in.''
+
+'''[[Jester One-One]]''': Hornet Two-One, this is Jester One-One, flight of two F-15s, four HARMs for the section. Standby for SEAD, over.
+
+'''[[Hornet Two-One]]''': Solid copy, Jester. Go get 'em.
+
+'''Jester One-One''': Good tone. Good tone. Fox-Three. Fox-Three.
+
+''The F-15s fire and destroy a radio station and fly off. (In the Remastered version, the F-15 missiles cause the glacier the radio station was based on to collapse into the sea while the tower falls over, thus preventing the gulag from knowing of the impending attack.)''
+
+'''Jester One-One''': Good kill. Good kill. Hornet Two-One, you're clear all the way. Good luck. Out.
+
+'''Hornet Two-One''': Hornet Two-One copies.
+
+'''[[Hornet Two-Two]]''': Two-Two copies all.
+
+'''Hornet Two-Three''': Two-Three, solid copy.
+
+''They approach the gulag.''
+
+'''["The Gulag"]'''
+
+'''[Day 5 - 07:42:52]'''
+
+'''[Sgt. Gary "Roach" Sanderson]'''
+
+'''[Task Force 141]'''
+
+'''[40 miles east of Petropavlovsk, Russia]'''
+
+'''Hornet Two-Two''': Two going in hot.
+
+'''Hornet Two-One''': Roger.
+
+'''Hornet Two-Two''': Guns guns guns. Guns guns guns.
+
+''Hornet Two-Two fires its guns and takes out a watch tower. The entire gulag is alerted of their presence as Russians are seen moving all around the gulag as the alarms sound.''
+
+'''Hornet Two-One''': Two-Two, Two-One. Good effect on target.
+
+'''Captain MacTavish''': All snipers, this is MacTavish, standby to engage. Stabilize.
+
+'''Hornet Two-One''': Roger.
+
+'''Captain MacTavish''': All snipers - clear to engage.
+
+''Hornet Two-One hovers across the first guard tower. Roach takes out his [[M14 EBR]] [[Sniper Scope|Scoped]] and eliminates foot-mobiles on the tower.''
+
+'''Captain MacTavish''': Shift right.
+
+'''Hornet Two-One''': Shifting.
+
+''Hornet Two-One hovers to the right to the next tower.''
+
+'''Captain MacTavish''': Stabilize.
+
+'''Hornet Two-One''': Ready.
+
+''They take out more hostiles on the second tower.''
+
+'''Worm''': On target.
+
+'''Captain MacTavish''': Shift right.
+
+'''Hornet Two-One''': Shifting.
+
+'''Captain MacTavish''': I see four hostiles on the next tower!
+
+''Hornet Two-One hovers to the right to the next tower. Before the snipers can engage, an F-15 fires on the tower and quickly flies past Hornet Two-One. The resulting air draft causes Two-One to wobble.''
+
+'''Hornet Two-One''': Hang on!
+
+'''Captain MacTavish''': Shepherd! Get those fighters to cease fire immediately! That was too close!
+
+'''[[Shepherd]]''': I'll try to buy you some time. One man in a gulag doesn't mean much to the [[United States Navy|Navy]] at this point.
+
+'''Ghost''': Bloody Yanks... I thought they were the good guys!
+
+'''Captain MacTavish''': Ghost cut the chatter. Stay frosty.
+
+''The Little Birds begin to land on the gulag, dropping off MacTavish and his TF-141 team.''
+
+'''Hornet Two-One''': Second wave going in, standby. Two-One touching down on target. Team One is deployed. Going into holding pattern.
+
+'''Captain MacTavish''': Go! Go! Go!
+
+''(Remastered version only:''
+
+'''Hornet Two-Three''': Five-Three going into overhead pattern to provide sniper cover, over.
+
+'''Hornet Two-One''': Five-Three, this is Two-One. Solid copy on all.'')''
+
+''The team engages enemy foot-mobiles positioned on the second levels and on the ground on the way to the entrance of the gulag.''
+
+'''Hornet Two-One''': Two-One is in position for gun run.
+
+'''Captain MacTavish''': Copy Two-One, lasing target on the second floor!
+
+'''Hornet Two-One''': Two-One copies, got a tally on six tangos, inbound hot.
+
+''Hornet Two-One fires its guns on the second floor. The team reaches the entrance.''
+
+'''Captain MacTavish''': The entrance is up ahead, keep moving!
+
+''(This occurs occasionally) MacTavish sees hostiles on the third floor.''
+
+'''Captain MacTavish''': Hostiles on the third floor! Roach, use your [[M203]]!
+
+''They eliminate hostiles defending the entrance and enter the gulag.''
+
+'''Captain MacTavish''': This is it! We go in, grab Prisoner 627, and get out! Check your corners! Let's go!
+
+''As they enter into the control room, they engage the few hostiles positioned there.''
+
+'''Ghost''': That's the control room up ahead! I can use it to find the prisoner! I'll tap into their system and look for the prisoner! It's gonna take some time!
+
+'''Captain MacTavish''': Copy that! Roach, we're on cell duty! Follow me!
+
+''Ghost hacks into the gulag's control systems. The rest of the team goes down the first level and engages foot-mobiles while looking for #627.''
+
+'''Ghost''': All right, I'm patched in. I'm tracking your progress on the security cameras.
+
+'''Captain MacTavish''': Copy that! Do you have the location of Prisoner 627?
+
+'''Ghost''': Negative, but I've got a searchlight tracking hostiles on your floor. That should make your job easier.
+
+''Ghost turns on the searchlight to track hostiles for the team to eliminate.''
+
+'''Captain MacTavish''': Roger that! Stay sharp! The prisoner may be in one of these cells! Ghost, we've hit a security door, get it open!
+
+'''Ghost''': Workin' on it... this hardware is ancient!
+
+''The door on the other side of the next room opens.''
+
+'''Captain MacTavish''': Ghost, you opened the wrong door!
+
+'''Ghost''': Roger, standby... Got it!
+
+''The door in front of the team opens.''
+
+'''Captain MacTavish''': That's better, let's go!
+
+''As they continue to engage the enemy, team members search the cells, but they are empty.''
+
+'''TF-141 Soldier''': Cell 4-D is clear.
+
+'''TF-141 Soldier''': Cell clear. Move.
+
+'''Captain MacTavish''': Talk to me Ghost... these cells are deserted!
+
+'''Ghost''': Got it! Prisoner 627's been transferred to the east wing! Head through the armory in the center - that's the fastest way there.
+
+'''Captain MacTavish''': Roger that! Squad, head for that armory down there! Move!
+
+''The team heads downstairs to the armory. The player has a wide variety of assault rifles, shotguns, and pistols to choose from if he has not switched out his M14 yet.''
+
+'''Captain MacTavish''': See anything you like?
+
+''(Remastered only: MacTavish holsters his M4A1 on his back as he then selects and arms an [[MP5K]] from the armory.)''
+
+'''Ghost''': Bad news mate. I'm tracking three, no, four hostile squads converging on your position!
+
+''Russian is heard from a distance as hostiles are moving in.''
+
+'''Captain MacTavish''': I can hear them coming... let's go! We're too exposed! Ghost! Open the door!
+
+''From the control room Ghost tries to open the door in the armory, but it locks and gets stuck.''
+
+'''Ghost''': Bloody hell, they've locked it from the hardline. I'll have to run a bypass.
+
+'''Captain MacTavish''': Too late! They're already here!
+
+''Hostiles surround the armory, firing at the team from all directions. They shoot back.''
+
+'''Ghost''': Be advised - you've got more tangos headed your way.
+
+'''Captain MacTavish''': We're gonna need more cover - grab a riot shield!
+
+''They grab [[Riot Shield|riot shields]] in the armory and defend themselves from large numbers of hostiles.''
+
+'''Captain MacTavish''': Open the door!
+
+'''Ghost''': Almost there! Routing through the auxiliary circuit...
+
+''The armory door opens.''
+
+'''Captain MacTavish''': Go go go!
+
+''If the player holds on to the riot shield...''
+
+'''Captain MacTavish''': Use your riot shield to draw their fire!
+
+''If the player drops or puts away the riot shield...''
+
+'''Captain MacTavish''': I'll draw their fire with the riot shield! You take them out!
+
+''They advance across the floor engaging enemy targets. They reach the window at the end of the floor.''
+
+'''Ghost''': Ghost here. Recommend you bypass the lower floors by rappelling out that window.
+
+'''Captain MacTavish''': Copy that! Roach, follow me!
+
+'''TF-141 Soldier''': Captain MacTavish, last floor clear. We'll link up with you at the bottom.
+
+''They rappel out the window down to the bottom floor.''
+
+'''Ghost''': The camera feed in solitary confinement is dead. The power must be down in that section.
+
+'''Captain MacTavish''': Roger that. Squad, switch to night vision.
+
+''They switch on [[Night Vision Goggles|night vision goggles]] as they enter the bottom floor. They engage hostiles in a dark hallway.''
+
+'''Captain MacTavish''': Check these cells for stragglers.
+
+''They check and clear the cells.''
+
+'''TF-141 Soldier 1''': This one's empty.
+
+'''TF-141 Soldier 2''': This one's empty, too.
+
+'''TF-141 Soldier 1''': Clear.
+
+'''TF-141 Soldier 2''': Clear.
+
+''At the end of the tunnel an explosion blows a hole on the ceiling, lighting up the floor, briefly shell-shocking Roach (In the Remastered version, Roach was knock down from the explosion as he is briefly shell-shocked and coughs). The player turns off his night vision.''
+
+'''Captain MacTavish''': Shepherd, what the hell was that? Get the navy to cease fire!
+
+'''Shepherd''': The Navy isn't in a talking mood right now. Standby. Bravo Six - they've agreed to stop firing for now. Keep going, I'll keep you posted. Out.
+
+''They continue through the floor. They reach the end of the hallway.''
+
+'''Captain MacTavish''': Go go go!
+
+'''Ghost''': The old shower room's about thirty feet ahead on your left. You'll have to breach the wall to get in.
+
+'''Captain MacTavish''': Roach - plant the breaching charge on the wall, we're taking a shortcut.
+
+''If Roach walks past the door:''
+
+'''Captain MacTavish''': Roach, not the door! Plant the breaching charge of the wall over here!
+
+''If Roach stays at the door:''
+
+'''Captain MacTavish: '''Roach, forget that door! Plant the breaching charge on the wall, we're taking a shortcut.
+
+''Roach plants a [[Breaching Charge|breaching charge]] on the wall. The charge explodes, throwing an enemy across the room as the team breaches the shower room.''
+
+'''Captain MacTavish''': Spread out!
+
+''Enemies appear above them from the upper floor.''
+
+'''Captain MacTavish''': Hostiles on the second floor! Take them out!
+
+''As the team reaches the middle of the showers, hostiles with riot shields arrive.''
+
+'''Captain MacTavish''': Heavy assault troops up ahead! Don't attack them head on! Move quickly and hit them from the side! Cook your [[M67 Grenade|grenades]] to detonate behind them!
+
+''The player can use his M203 and Frags to make easy work on the riot shield enemies. The team pushes through, they move across the shower room.''
+
+'''Captain MacTavish''': Use the lockers for cover!
+
+''The enemies are eliminated and they reach the end of the showers.''
+
+'''Captain MacTavish''': I'm heading for that hole in the far end of the showers! Follow me! Let's go! Go go go!
+
+''They jump down the hole into a tunnel.''
+
+'''Captain MacTavish''': Ghost, we're in the old tunnel system heading south-southwest.
+
+'''Ghost''': Ok. Keep going along that tunnel.
+
+'''Captain MacTavish''': Talk to me Ghost... I don't want to be down here when those ships start firing again.
+
+'''Ghost''': Keep going, you're almost there.
+
+''They slide down a slope and move to the end of the tunnel.''
+
+'''Ghost''': I'm detecting two heat signatures - one of them should be Prisoner 627.{{Tabber2|Modern Warfare 2|''Roach plants a breaching charge on the wall. The charge explodes. In slow motion, Prisoner 627 is seen getting off a chair, strangles the guard with his handcuffs, and then moves towards Roach. The prisoner punches Roach down to the floor and aims an [[AK-47]] at him. Looking at the prisoner, the name tag appears:'' "'''Captain Price'''". ''MacTavish points his [[M1911]] pistol at him.''|Modern Warfare 2 Remastered|''Roach and MacTavish both plant breaching charges and MacTavish arms both. After they detonate and Roach enters the room, the prisoner is choking the guard with his cuffs, using him as a human shield to move forward and punch Roach, knocking him down. As Roach recovers, the prisoner, still wearing his handcuffs, picks up the guard's [[AK-47]] and aims it at Roach, before MacTavish then points his [[M1911]] at the back of the prisoner's head. Prisoner 627's name doesn't appear until MacTavish recognizes him.''
+}}'''Captain MacTavish''': Drop it!
+
+'''[[John Price|Captain Price]]''': Soap?
+
+'''[[John "Soap" MacTavish|Captain MacTavish]]''': Price? (He grabs his M1911's barrel with his other hand and hands it back to Price, which is the same pistol MacTavish received from Price to kill [[Imran Zakhaev]] [[Game Over|5 years ago]]) This belongs to you, sir.
+
+'''[[Worm (Modern Warfare 2)|Worm]]''': Who's Soap?
+
+''An explosion shakes the room. (Remastered version: Worm helps Roach to his feet as the alarm blares as the U.S. Navy begin tearing the gulag apart.)''
+
+'''Captain MacTavish''': Come on, we gotta get outta here! Move! Move!
+
+'''Shepherd''': Bravo Six - be advised, they've started the bombardment early! Get the hell outta there now! ''(With subtitled in the Remastered version)''
+
+'''Captain MacTavish''': Go go go!
+
+''"Soap", Price, Roach, and Worm move through the tunnel system. At the end of the tunnel a Little Bird hovers across from them.''
+
+'''Captain MacTavish''': There's the chopper! Get ready to jump!
+
+''Before they could reach the chopper, the tunnel collapses.''
+
+'''Captain MacTavish''': Go back go back! We'll find another way out! This way this way!
+
+''They run back the other way through the halls and reach a cafeteria. An undetonated bomb lies on the floor where it has made a hole on the ceilings above.''
+
+'''Worm''': It's a dead end!
+
+'''Captain MacTavish''': Six-Four, where the hell are you, over?
+
+'''Pave Low Pilot''': Bravo Six, there's too much smoke, I can't see you I can't see you -
+
+''Pieces of rubble knock down Roach. The player's vision briefly blacks out.''
+
+'''Captain MacTavish''': Roach is down! Roach!
+
+''Price helps Roach out of the rubble.''
+
+'''Captain Price''': Whatever you're gonna do Soap, do it fast!
+
+''Soap fires a [[flare]] from his M203.''
+
+'''Pave Low Pilot''': Bravo Six, I see your flare. SPIE rig on the way.
+
+''A rope is lowered down. Price helps up Roach.''
+
+'''Captain Price''': Let's go! Let's go!
+
+'''Captain MacTavish''': Hook up! Go go!
+
+''They hook up on the line.''
+
+'''Captain Price''': Hang on!
+
+''They are extracted out of the gulag as the [[Pave Low]] rises into the air to lift them to safety.''
+
+'''Captain Price''': YEEEEEEEES! (Remastered: Yeeeeeah!)
+
+''The gulag explodes as the Navy completely decimates it with artillery fire. Worm shields himself with his arms as a fireball roars up out of where they were retrieved.''
+
+{{CoD6 CampaignT}}

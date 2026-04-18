@@ -1,0 +1,824 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_(2019)_Transcripts -->
+<!-- title: Old Comrades/Transcript -->
+
+{{game|mw}}
+==Cutscene==
+''Lieutenant Price stands outside a truck as he and his men secure the area. He speaks to the truck driver with instructions on where to go.''
+
+'''[[John Price (Reboot)|Price]]''': Go north. Avoid the highway. ''(on radio)'' Bravo Six to Cobalt Four. Confirming station time.
+
+'''UK Pilot''': Ten minutes.
+
+'''Price''': Rog. Hold orbit.
+
+''Price walks over to Farah and Hadir, who are consolidating their resources and people. Farah hands an [[AK-47]] to a militia fighter.''
+
+'''Price''': Hurry, now. Even [[Roman Barkov|Barkov]]'s going to come and claim his dead.
+
+'''[[Farah Karim|Farah]]''': (ARABIC) Go, wait for us.
+
+'''Militia Fighter''': (ARABIC) Yes, Farah.
+
+'''Price''': You know he's gonna make you pay for this.
+
+'''[[Hadir Karim|Hadir]]''': We will make them pay.
+
+'''Farah''': We'll be ready.
+
+'''Price''': My men have cleared the road to the north. You can camp there, it's safe.
+
+'''Farah''': Thank you.
+
+''Price hands Hadir a compass for him to use.''
+
+'''Hadir''': The revolution begins now, sister.
+
+'''Farah''': The war begins now, brother.
+
+'''Price''': Even war has a high ground. Stay on it.
+
+''A Black Hawk helicopter appears in the sky, signaling for Price to leave. Farah watches Price leave.''
+
+'''Price''': ''(on radio)'' Bravo Six, wheels up in two.
+
+''Price boards the helicopter and looks back at Farah. The scene cuts forward to the present time where Price is walking with Laswell as they discuss their current situation with Hadir and the Russians.''
+
+'''[[Kate Laswell|Laswell]]''': Twenty years of civil war.
+
+'''Price''': Eh, there's nothing civil about it.
+
+'''Laswell''': Hadir's well trained... Teamed up, kidnapped, it doesn't matter. He took the gas to Russia, John.
+
+'''Price''': He did that with [[Al-Qatala]]'s help.
+
+'''Laswell''': He's got the network and the manpower.
+
+'''Price''': Yeah, well, can you blame him, eh?
+
+'''Laswell''': Unofficially, no, but this is bigger than Hadir now. We've got two options.
+
+'''Price''': What, we warn Moscow?
+
+'''Laswell''': Or we let Mother Russia have a taste of her own medicine.
+
+'''Price''': A lot of innocent people are gonna die.
+
+'''Laswell''': At the hands of a Western asset.
+
+'''Price''': Okay, so let's cut to the chase.
+
+'''Laswell''': What do you suggest?
+
+'''Price''': A business trip.
+
+'''Laswell''': Unsanctioned?
+
+'''Price''': Black.
+
+'''Laswell''': Who's your team?
+
+'''Price''': Some old comrades.
+
+'''Laswell''': And the Sergeant?
+
+''Price and Laswell turn around to see Kyle Garrick checking his weapons.''
+
+'''Price''': He's ready.
+
+'''Laswell''': I can get you in. After that you're on your own. Host nation weapons only.
+
+'''Price''': Leave it to me.
+
+''The screen cuts to black.''
+==Gameplay==
+''The camera pans down to reveal the city of St. Petersburg.''
+
+''Text appears.''
+
+'''ST. PETERSBURG'''
+
+'''Price''': ''(offscreen) ''That's a hell of a view, Nikolai.
+
+'''[[Nikolai (Reboot)|Nikolai]]''': ''(offscreen) ''Was the capital before Moscow.
+
+'''Price''': The good ol' days.
+
+'''[[Kyle "Gaz" Garrick|Kyle]]''': I got two on the door.
+
+''The camera pans down further to the street where two Al-Qatala agents stand outside.''
+
+'''Nikolai''': More Al-Qatala inside.
+
+''A vehicle drives up the street to the agents.''
+
+'''Kyle''': Vehicle inbound...
+
+'''Price''': Watch 'em.
+
+'''Nikolai''': Good spot. Parking here sucks.
+
+''The vehicle comes to a stop as two more Al-Qatala agents step out of the truck and check the streets before giving the all-clear. Jamal "The Butcher" Rahar steps out and directs his men accordingly.''
+
+'''Price''': That's the Butcher in the yellow shirt.
+
+'''Kyle''': ''(grits teeth) ''[[The Embassy|Bastard from the embassy]].
+
+'''Nikolai''': No gas.
+
+'''Price''': No Hadir.
+
+'''[[Jamal "The Butcher" Rahar|The Butcher]]''': ''(in Arabic) ''You, watch the alley.
+
+''Price, Nikolai, and Kyle are seen from an upper level apartment staking out the scene.''
+
+'''Kyle''': Easy shot.
+
+'''Nikolai''': Hm, tempting.
+
+'''Price''': Hold fast. The Butcher gets us to Hadir.
+
+'''Kyle''': Or the gas attack goes off.
+
+'''Price''': Well, if that happens then we're all fucked. Let's gear up, get evil - clock's ticking.
+
+'''Nikolai''': This way.
+
+''Text appears.''
+
+'''Old Comrades'''
+
+'''31 OCT 2019 1700'''
+
+'''Sgt. Kyle Garrick'''
+
+'''SAS Unsanctioned'''
+
+'''St. Petersburg, Russia'''
+
+'''Kyle''': What's our timeframe?
+
+'''Price''': Hours or less. ''(to Nikolai) ''You get the gear?
+
+'''Nikolai''': Best I could do on a short notice...
+
+''Nikolai shows Price and Garrick a crate which he opens, revealing two [[M19]]<nowiki/>s, the [[Desert Eagle|.50 GS]], and the [[X16]] equipped with [[Silencer|silencers]].''
+
+'''Nikolai''': Suppressors, ammo - No [[Flashbang|flashbangs]]...
+
+''Price grabs an M19.''
+
+'''Price''': Nice job, Nik.
+
+''Price looks more closely at his chosen sidearm's ammo.''
+
+'''Price''': .40 cal hollow points...
+
+'''Nikolai''': 150 grain, your favorite. 
+
+''Price chuckles and puts away his sidearm.''
+
+''(If Kyle hasn't yet chosen a sidearm...)''
+
+'''Nikolai''': Please, Sergeant Garrick, don't be shy... take what you like...; Pick your poison, Sergeant.
+
+'''Price''': These guns don't shoot themselves, Kyle, dig in.
+
+''Kyle picks up his sidearm.''
+
+''(If Kyle chose the Desert Eagle...)''
+
+'''Nikolai''': Good stopping power.
+
+'''Price''': Conceal it for now.
+
+''Kyle conceals his sidearm.''
+
+'''Nikolai''': Rally at the warehouse.
+
+'''Price''': Rog'. Bring the package.
+
+'''Nikolai''': On my way, Captain.
+
+''(If Kyle doesn't move immediately...)''
+
+'''Price''': Let's go, Kyle, now...
+
+'''Nikolai''': Captain Price doesn't like to wait, Sergeant.
+
+''Price and Garrick exit their stakeout location and walk down the stairs of the apartment complex.''
+
+'''Price''': I know you want another shot at the Butcher.
+
+'''Kyle''': No grave deep enough for that sick bastard, sir...
+
+'''Price''': You'll have your chance, alright, but right now, we need the Butcher alive.
+
+''As Price and Kyle walk down the stairs, they pass a Russian civilian male who steps outside his apartment to pick up a box. They greet each other.''
+
+'''Russian Civilian Male 1''': Привет. [Hello.]
+
+'''Price''': Привет. [Hello.]
+
+'''Kyle''': Доброе утро. [Good morning...]
+
+''Price and Kyle walk far enough out of earshot to speak with each other.''
+
+'''Price''': That's not bad.
+
+'''Kyle''': That's all I got...
+
+''(Alternatively, Kyle can reveal his sidearm and scare away the civilian.)''
+
+'''Price''': We sweep the guards up so they can't alert the others, then move in on the rear door...
+
+'''Kyle''': Rog'.
+
+'''Price''': Guns on my signal, not before...
+
+''Price and Kyle reach the ground level and step outside of the apartment complex. They approach the Al-Qatala agents who glare at them threateningly.''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Hey! Hey you!
+
+'''Price''':'' (hands up) ''Easy. Easy, mate, we've got permits, alright?
+
+''The lead AQ agent steps forward to threaten them.''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' You're not welcome here!
+
+'''Price''': Show him, Kyle - Now...!
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Go away!
+
+''Price and Garrick quickly draw out their firearms and gun down the Al-Qatala fighters.''
+
+'''Price''': Nicely done. ''(on radio)'' Nikolai - Trash in the alley...
+
+'''Nikolai''': ''(over radio)'' I brought bags...
+
+'''Price''': You think of everything...
+
+''Price and Kyle reach the door leading into another building.''
+
+'''Price''': Door, Sergeant, take point...
+
+''Kyle opens the door and leads the way into the basement leading to the Butcher.''
+
+'''Price''': Check your shots. Butcher gets us to Hadir. We need him breathing until he does.
+
+''Price and Kyle make their way to a room in the basement where the Butcher is holding a conference with several Al-Qatala associates. Price and Kyle hide behind some shelves and watch the conference.''
+
+'''Price''': There he is...
+
+'''Kyle''': Affirm. Yellow, behind the table...
+
+'''The Butcher:''' This is retaliation... Today, the pain and suffering is not ours, but theirs... We give special thanks to our new soldier, whose strong will is our good fortune.
+
+'''Kyle''': New soldier...
+
+'''Price''': Hadir...
+
+'''The Butcher''': If [[Omar "The Wolf" Sulaman|the Wolf]] is alive, he'll be proud of you... and if he is gone, we deliver his truth to those who intervene where they are not invited.
+
+'''Price''': There he is...
+
+'''Kyle''': Affirm. Yellow, behind the table...
+
+'''Price''': All yours, Garrick. Do not hit the Butcher.
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Glory to Al-Qatala.
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Glory to Al-Qatala.
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' Glory to Al-Qatala.
+
+'''The Butcher''': ''(in Arabic)'' Glory to Al-Qatala.
+
+'''Price''': Clean shots Kyle, take 'em...
+
+'''The Butcher''': Tonight, we send our message to the world. Get your teams in place and we'll reconvene by sundown...
+
+''(If Kyle waits long enough, one of the AQ fighters will walk over to Price and Kyle before he notices them.)''
+
+'''Price''': Hell are you waiting for, Sergeant?
+
+''Kyle shoots the AQ fighters, sparking a gunfight between him and Price, and Al-Qatala.'' 
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Who's there?! 
+
+''The Butcher starts running away.''
+
+'''The Butcher''': Back of the room - Kill them!
+
+'''Price''': Butcher is running!
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' How many are there?!
+
+''Price and Kyle mop up the last of the fighters in the basement.''
+
+'''Price''': Clear!
+
+'''Kyle''': All clear!
+
+'''Price''': Get after him! Keep close, Garrick, don't lose him!
+
+''Price and Kyle take off in pursuit of the Butcher as they enter a bar filled with Al-Qatala fighters. The Butcher orders his men to cover his escape.''
+
+'''The Butcher''': Don't let them follow! Kill them!
+
+'''Price''': Kyle, watch your shot!
+
+'''Kyle''': Door! Behind the bar!
+
+'''Price''': Force it! Got your six...
+
+''Price and Kyle clear out the bar of the militants.''
+
+'''Kyle''': Last call, boys...
+
+'''Price''': Don't let him get away!
+
+''Price and Garrick chase the Butcher through the kitchen as they encounter an AQ agent by the stairwell.''
+
+'''Price''': Take him!
+
+''Kyle shoots the agent down.''
+
+'''Kyle''': Down.
+
+''Price and Kyle run up the stairs and through the door leading back outside on the streets.''
+
+'''Kyle''': Street door's open...
+
+'''Price''': Butcher's on the run...
+
+''Civilians are seen running and screaming as Al-Qatala agents open fire on Price and Garrick, inadvertently hitting some of the civilians.''
+
+'''Price''': Civilians, check your fire!
+
+'''Kyle''': Fuckin' hell!
+
+'''The Butcher''': ''(in Arabic)'' Stop them, brothers, STOP THEM!!
+
+''Price and Garrick dispatch the Al-Qatala militants on the street, taking care not to hit any civilians.''
+
+'''Price''': ''(on radio) ''Nikolai! Target is moving south, stand by for extract!
+
+'''Nikolai''': ''(over radio)'' Copy! I'm tracking you.
+
+'''Price''': How?
+
+'''Nikolai''': The gunshots, of course...
+
+'''Price''': Stay with us - out.
+
+''Price and Kyle split up to cut off the Butcher's escape.''
+
+'''Price''': Stay on him. I'll circle around for intercept.
+
+'''Kyle''': Roger.
+
+''Kyle cuts through a building and avoids gunfire from the Butcher as the latter runs and calls out behind him.''
+
+'''The Butcher''': I'll take your head, motherfucker, you hear me?!
+
+''The Butcher shoots a couple civilians and leaves a live grenade behind as he jumps out an apartment window.''
+
+'''The Butcher''': They die, because of you...!
+
+''The grenade goes off, but Kyle survives the explosion and continues chasing the Butcher out on the streets as Price rejoins him.''
+
+'''Price''': Sergeant...?!
+
+'''Kyle''': I'm good, sir - Target's on the move, river side...
+
+'''Price''': Butcher going over the bridge, Sergeant!
+
+''The Butcher opens fire on Price and Garrick as he continues running.''
+
+'''The Butcher''': You are dead men - You hear me! Whoever you are, I will cook your fucking corpse!!
+
+''More of the Butcher's men appear on the streets, including an enemy vehicle armed with an [[RPG-7|RPG]].''
+
+'''Price''': Contact! Vehicle, left side!
+
+''The RPG fires, hitting a streetlight.''
+
+'''Price''': Shit! They got an RPG! Take it out!; Hit that RPG!
+
+''Kyle takes out the RPG gunner.''
+
+'''Kyle''': RPG's down!
+
+'''Price''': Clear! Butcher's running for it, get him! Step it up!
+
+'''The Butcher''': If you come close, you will die!
+
+'''Price''': He's cornered, watch the perimeter!
+
+''Price and Garrick cut through an alleyway as they eliminate any AQ fighters that appear.''
+
+'''Price''': Don't let him get away!
+
+''Price and Kyle see the Butcher hop a fence.''
+
+'''Price''': There! Just beyond the fence! ''(on radio)'' Nik, he's cutting through the cafe, river side, south! Where are you?
+
+'''Nikolai''': ''(over radio)'' Inbound, Captain...
+
+'''Price''': Get after him or we'll lose him! Watch for reinforcements!
+
+''Price and Garrick enter an indoor café as more Al-Qatala fighters engage with them in a fierce firefight.''
+
+'''The Butcher''': You will never catch me!
+
+'''Kyle''': Where the hell are they coming from?!
+
+''An Al-Qatala militant throws a [[Molotov Cocktail|Molotov cocktail]] inside the café at Price and Garrick.''
+
+'''Price''': Molotov - Heads up!
+
+''Price and Garrick narrowly avoid the flames from the Molotov. Price brushes off the fire on his clothes.''
+
+'''Kyle''': He's getting away!
+
+'''Price''': Alright, find a way through.
+
+''Kyle shoots down three more AQ militants in the café.''
+
+'''Kyle''': Three down!
+
+'''Price''': Don't lose him! He's headed for the river!
+
+''Price and Garrick exit the café and chase after the Butcher as he runs along the river.''
+
+'''The Butcher''': Stay away from me--!
+
+''A pickup van suddenly barrels down the street and hits the Butcher, sending him backwards on the ground and rendering him injured. Nikolai emerges from the van to help grab the Butcher and throw him in the vehicle.''
+
+'''Price''': Nikolai!
+
+'''Nikolai''': We got him! ''(to the Butcher)'' Is hard to run with concussion, no?
+
+'''Price''': Ah, it's only a scratch, get him in the fucking van...
+
+''Nikolai drags the Butcher into the van and throws him in.''
+
+'''The Butcher''': Who are you? So my men can send your heads home to your families...
+
+'''Kyle''': Fuck off, shit-pouch...
+
+''Kyle enters the van with the Butcher detained and grabs an [[M91]] machine gun. Price and Nikolai enter the van, but Nikolai has difficulty turning on the engine.''
+
+'''Nikolai''': Uh, small problem!
+
+'''Price''': What?
+
+'''Nikolai''': Engine is a little bit cranky!
+
+'''Price''': Ah, sing it a bloody lullaby, we gotta go!
+
+''Al-Qatala vehicles appear in the street and try to attack the van.''
+
+'''Price''': Cover us, Kyle, light 'em up!
+
+''Kyle uses the M91 and an RPG to fend off the enemy attackers. Russian police vehicles appear as well.''
+
+'''Price''': The police are here!
+
+''Nikolai eventually gets the van's engine to start up again.''
+
+'''Nikolai''': There she is...!
+
+'''Price''': Floor it - GO!
+
+''Price, Kyle, and Nikolai get away with the Butcher just as the Russian police show up. The camera fades to black.''
+
+''Some time later, the sound of fists hitting the Butcher can be heard as well as [[Yegor Novak]] and the Butcher's voices.''
+
+'''Yegor''': Where are the chemicals?!
+
+'''The Butcher''': Up your fucking Russian ass!
+
+''The screen fades in to reveal a warehouse where Yegor is beating up the Butcher while Price and Garrick watch. The Butcher laughs it off.''
+
+'''The Butcher''': You can't hurt me, you weak piece of shit! ''(to Price)'' But you, Captain. Oh, you can do better than that... You think I forgot your face, [[Special Air Service/Modern Warfare (Reboot)|SAS]]? Eh?! ''(to Garrick)'' Or you, Sergeant?
+
+''Kyle, enraged, lunges towards the Butcher before Price holds him back.''
+
+'''Kyle''': You motherfucker! Sir, this fucking prick!
+
+'''Price''': Hey! Get your head in the game, Sergeant!
+
+'''Kyle''': We need to break this bastard, Captain.
+
+'''Price''': We're about to... ''(on radio)'' Nikolai, where's the package?
+
+'''Nikolai''': ''(over radio)'' Pulling in now, Captain.
+
+'''Price''': Okay. ''(to Kyle)'' You go to Nikolai, you get the package, you come back here. Alright?
+
+''Kyle nods and walks out of the room and into the warehouse where he sees Nikolai's van pull up. Nikolai steps out of the van with a smoking cigarette.''
+
+'''Nikolai''': Sergeant Garrick. Package is in the van.
+
+'''Kyle''': What is it?
+
+'''Nikolai''': Truth serum.
+
+''Kyle opens the van's rear doors to reveal a woman and a boy.''
+
+'''[[Ousa Rahar|Ousa]]''': Please! Please, let us go! We know nothing!
+
+'''Nikolai''': Bargaining chips... for 'negotiation'. Perhaps, the Butcher will have a change of heart.
+
+''Nikolai walks away.''
+
+'''[[Amon Rahar|Amon]]''': Momma, what's happening??
+
+'''Ousa''': Shh... shh... it is okay. It's okay, my son. It's okay, baby, just... we'll be out of here soon. Don't worry, okay?
+
+''Kyle reaches into the van to grab both Ousa and Amon, but Ousa struggles to break free of Kyle's grip.''
+
+'''Ousa''': ''(scared)'' Please. Just don't hurt my son - We'll do what you say.
+
+''Kyle drags both Ousa and Amon out of the van and walks them towards the interrogation room as Nikolai stands by a police cruiser.''
+
+'''Amon''': I'm scared, mama...
+
+'''Ousa''': Don't be afraid, you're Momma's brave boy... ''(to Kyle)'' Where are you taking us...?
+
+'''Amon''': Where are we going, mama?
+
+'''Ousa''': We are going to talk to some men, and then we will go home, okay?
+
+'''Nikolai''': I'll be on a standby when he breaks.
+
+'''Ousa''': ''(to Kyle)'' Let us go, we will go home and tell no one...
+
+''Kyle forces Ousa and Amon forward when Price steps outside the interrogation room.''
+
+'''Ousa''': What you're doing is unforgivable. We are innocent people... I know nothing. I can't help you. ''(to Price)'' I demand to know why we are here...!
+
+''Price lifts a finger to his mouth to shush them.''
+
+'''Price''': Shhh... Kyle, you don't have to do this. You in or out?{{Tabber2|I'm in.|'''Kyle''': I'm in, sir... All in.
+
+'''Price''': Good. Hand them off to Yegor.
+
+'''Ousa''': No! no, no, no! Please!
+
+''Price opens the door and Kyle forces Ousa and Amon into the room. The Butcher is shocked to see them, as is Yegor.''
+
+'''The Butcher''': Ousa, Amon?! 
+
+'''Amon''': Baba!
+
+'''The Butcher''': D-Did they hurt you, my son?! Ousa, did they hurt you?!
+
+'''Ousa''': He won't let us leave - what have you done?!
+
+'''The Butcher''': ''(to Price)'' Did you hurt my family you dirty, shit-eating dog?! Huh?! Did you?!
+
+'''Price''': ''(to Garrick)'' Hand them over, Sergeant. 
+
+''(If Kyle doesn't move immediately...)''
+
+'''Price''': Sergeant, give them to Yegor.
+
+'''The Butcher''': No, no, no, let them go!
+
+'''Price''': Hand them off - You don't have to stay...
+
+'''The Butcher''': No! Let them go!
+
+''Garrick hands Ousa and Amon to Yegor, who grabs them both and forces them into a chair while he places bags over their heads.''
+
+'''The Butcher''': Hey, be careful with them, you son of a bitch! ARGHHH...!!
+
+''Kyle turns to face Price.''
+
+'''Price''': You wanted the gloves off? They're off.
+
+'''Ousa''': What did you do?! Your own son is here! Your own child!
+
+'''Price''': He's got no problem hurting children... Isn't that right, Sergeant?
+
+'''Kyle''': None...
+
+'''The Butcher''': Shut up!
+
+'''Ousa''': ''(whimpering)'' What have you done?! You promised you'd keep this away from us!
+
+'''Yegor''': Captain, I can't do this.
+
+'''Price''': You're excused.
+
+''Yegor walks out of the room while the Butcher spits at him and Price lays down a [[.357 Magnum|revolver]] on the table.''
+
+'''Price''': Pick it up, Sergeant.
+
+'''Ousa''': What are you going to do to us...?
+
+'''The Butcher''': Nobody's going to do anything to you, my loves. ''(to Kyle)'' Sergeant, if you hurt my family, I will burn your fucking corpse, do you hear me?! ''(growls louder)'' Do you hear me?!
+
+'''Price''': Sergeant, take it.
+
+''Kyle picks up the revolver and starts aiming it at the Butcher.''
+
+'''The Butcher''': Don't... don't... don't-Hey, hey, hey, hey! Hey, no! No! No!
+
+'''Ousa''': Please, please... We are not involved with any of this, I assure you...
+
+'''Amon''': ''(frightened)'' Baba, make it stop...
+
+'''The Butcher''': It's okay, it's okay, Baba's here. It's okay. No one's going to hurt you...
+
+''Kyle aims the revolver at the Butcher.''
+
+'''The Butcher''': Yeah... go ahead. Shoot me. Go ahead, kill me. Kill me. Go on! Kill me... and you will never get what you're looking for. Go ahead, shoot me. Yeah, shoot me! Go ahead! Show your Captain how tough you are!; Take a shot. Do it. Do it. Do it! Do it!
+
+''Kyle moves to aim the revolver at the Butcher's wife and son.''
+
+'''The Butcher''': Hey! Hey! Hey! Stop! Stop! They- they know nothing about this! Okay? Stop!
+
+''Kyle aims back at the Butcher.''
+
+'''Ousa''': Please, please, please, no... no.; Do something! For your son...!; Tell the truth! If you know the truth, tell them! TELL THEM!
+
+''Kyle now fully aims his revolver at Ousa and Amon.''
+
+'''The Butcher''': Hey! Hey! Hey! Hey! Look at me! Stop! Stop! Stop! They have nothing to do with this!
+
+'''Kyle''': ''(tense)'' You tell that to the boy in the embassy.
+
+''Kyle aims his revolver back at the Butcher.''
+
+'''The Butcher''': Okay, okay! Stop! Please! Please, leave them alone. Sergeant. Captain. Leave them alone, they have no information for you.
+
+'''Price''': We want Hadir and we want the gas. Where are they?
+
+'''The Butcher''': You cannot fix these things, they will happen. Nothing here will change that!
+
+'''Ousa''': Shh, shh, shh, shh - it's okay. It's okay. Yes, such a good boy, eh? Yes, your momma's good boy, eh? Shh... it's okay.
+
+''(If Kyle doesn't pull the trigger yet...)''
+
+'''Price''': He's right there, Sergeant.
+
+''Kyle pulls the trigger, but only a click is heard. Ousa and Amon let out a short scream.''
+
+'''Kyle''': What the hell?!
+
+'''The Butcher''': ''(relieved)'' Hah! Hah-hah-hah!
+
+'''Price''': You pulled the hammer, Sergeant, not me.
+
+''If the player aims and pulls the trigger at Price...''
+
+'''Price''': Would be a shame if that was loaded, wouldn't it?; You trigger happy, Sergeant?
+
+'''Price''': ''(to the Butcher)'' Rest assured, I wouldn't let the Sergeant brandish a loaded weapon indoors... Unless he had to... Now...
+
+''Price lays out the revolver bullets on the table.''
+
+'''Price''': ...last chance - Where's the gas?
+
+'''The Butcher''': Fuck you!
+
+'''Price''': Load the gun, Sergeant.
+
+'''Ousa''': Sergeant, please, I am begging you! Don't hurt my son, please! Please!
+
+''Kyle takes the bullets and loads them into the revolver's chamber. Price grabs Amon out of his chair and holds him still for Kyle to aim the revolver.''
+
+'''The Butcher''': Hey, hey, hey! No, no, no! Leave him, leave him, leave him! Listen! Listen!
+
+'''Ousa''': No! No, please! Please! Leave him alone! No!
+
+'''The Butcher''': Listen to me! Listen to me! Karetka Theater!
+
+'''Price''': Lying! Lying!
+
+'''The Butcher''': No, I am not! I swear to you, I'm not! The gas is there. Karetka Theater. I swear to you!
+
+'''Kyle''': Where's Hadir?
+
+'''The Butcher''': The 'youngblood'? You- you're too late too stop him. Go, Sergeant. Save some fucking Russians. General Barkov will already be dead.
+
+''Prize realizes what the Butcher means. ''
+
+''(If the player kills The Butcher before Price hands Amon back to his mother:)''
+
+'''Price''': Hadir - He's going after Barkov. He had it coming. We are leaving!
+
+''(If the player lets the Butcher live before Price hands Amon back to his mother:)''
+
+'''Price''': Hadir - He's going after Barkov. We're done with him. You take a minute.
+
+''Price steps out of the interrogation chamber, leaving Kyle alone with the Butcher and his family. At this point, the player can choose to either spare the Butcher or hill him.''
+
+''(If Kyle doesn't kill the Butcher...)''
+
+'''The Butcher''': Russia and the West will go to war... and leave our land alone. Go, Sergeant. I told you everything, Sergeant. Do what you want with me, but let my family live.
+
+'''Ousa''': Go... you have what you want!
+
+'''The Butcher''': if you're going to shoot me, kill me, please.
+
+'''Ousa''': Stop it!
+
+'''The Butcher''': You tried to be a hero... but you're just an angry boy.
+
+'''Kyle''': Don't call me 'boy'...
+
+''Ousa hums a song to calm Amon.''
+
+'''Amon''': More, Momma... more...
+
+'''Ousa''': Okay... okay, baby...
+
+'''The Butcher''': If you're going to kill someone... Kill me, not them. If you plan to hurt my family, you better plan to kill me, Sergeant. Go, Sergeant. Your work is through here. Threatening my family will not solve your considerable fucking problem! Go, Sergeant. The world... is going to burn. Get a good seat.
+
+'''Ousa''': Sergeant... Thank you for not hurting my son. He is a good boy...
+
+'''Amon''': Momma...
+
+'''Ousa''': Yes, that's you. You are a good boy, huh? Momma is very proud of you, yes.
+
+''(If Kyle chooses to kill the Butcher and walks out of the room where Price and Nikolai are waiting...)''
+
+'''Ousa''': No!
+
+'''Price''': There's a fine line between right and wrong.
+
+''(If the player doesn’t leave the interrogation room...)''
+
+'''Price''': Sergeant. Party’s over - time to go…
+
+''(If the player still doesn’t leave the interrogation room...)''
+
+'''Price''': Let’s go, Kyle - we’re behind schedule…
+
+''Kyle exits the room.''
+
+'''Price''': Gas is at the Karetka Theater. Secure it and call it in, you know the drill.
+
+'''Nikolai''': Will do.
+
+''Price, Kyle, and Nikolai walk back into the garage where Nikolai points out a police cruiser.''|I'm out.|'''Kyle''': I'm out, sir...
+
+''Price grabs Ousa and Amon while Yegor opens the door.''
+
+'''Price''': Well, sit tight. Won't take long. Yegor! Seat our guests.
+
+''The screen fades to black.''
+
+'''The Butcher''': Ousa! Amon!
+
+''Some time later, Kyle checks his watch before he sees Nikolai opening the door. After Price exits the room, Nikolai closes the door.''
+
+'''Price''': Gas is at the Karetka Theater. Secure it and call it in, you know the drill.
+
+'''Nikolai''': Will do.
+
+''Price and Nikolai walk back into the garage where Nikolai points out a police cruiser.''
+}}'''Nikolai''': Cruiser is yours. It'll get you out of the city.
+
+'''Price''': Hadir's at Barkov's Estate. He's gonna kill him.
+
+'''Nikolai''': And start the world war.
+
+'''Price''': Not if we get him first.
+
+''Nikolai walks off while Price and Garrick walk to their cruiser.''
+
+'''Price''': Garrick, get in the car. Cover us.
+
+'''Kyle''': Rog'.
+
+''Price and Garrick enter the police cruiser and the screen fades to black.''
+
+''A short time later, Russian policemen are heard preparing to breach a door.''
+
+'''Russian Policeman 1''': Три, два, один! Входим! [Three, two, one! Entry!] (subtitles are "Breach in 3, 2, 1--!")
+
+''The screen cuts to the Russian Police bringing down the door into the room where the Butcher, dead or alive, and his family are in.'' 
+
+'''Russian Policeman 1''': Полиция! Всем стоять, не двигаться! [Police! Don't move! Nobody move!]
+
+'''Russian Policeman 2''': Тихо, тихо! [Quiet! Quiet!]
+
+'''The Butcher''' '''(if alive)''': Fuck! Untie me, you little fucks! Untie me!
+
+''The camera closes in past the police and the Butcher to reveal the Russian gas with a note taped to it. The note says in Russian, "For the love of Russia, destroy immediately, Nikolai."''
+
+'''Russian Policeman 2''': Контактов нет, вижу химикаты! Внимание всем, заложники в безопасности, химикаты целы! Мясник здесь! [No threats... Visual on the chemicals. All units, hostages secure, chemicals intact, PID on the Butcher...]
+
+'''Russian Commander''': Принято. Расчёты химзащиты уже в пути. [Copy that. Hazmat teams are inbound. ] (subtitles say "Copy that. Crisis averted. Hazmat teams are inbound. The city is safe again...")
+
+''The screen cuts to black.''
+
+''(End of level.)''
+
+{{CoD16 CampaignT}}
+[[Category:Call of Duty: Modern Warfare (2019) Transcripts]]

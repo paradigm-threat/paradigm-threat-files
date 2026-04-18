@@ -1,0 +1,226 @@
+<!-- category: Category:Call_of_Duty_4:_Modern_Warfare_Transcripts -->
+<!-- title: Hunted (Call of Duty 4)/Transcript -->
+
+{{game|cod4|mwr}}
+
+== Cutscene ==
+''The satellite tracks the [[UH-60 Blackhawk|Black Hawk]] carrying the [[Special Air Service/Modern Warfare|S.A.S.]] team and [[Nikolai (Modern Warfare)|Nikolai]] flying over western Russia, heading west towards Hamburg, Germany.''
+
+'''[[Gaz]]''': [[Blackout (Call of Duty 4)|We've got Nikolai]]! We're taking him to the safehouse in Hamburg! E.T.A., Oh-seven hundred hours! Out!
+
+''The camera views into [[John "Soap" MacTavish|Sgt. "Soap" MacTavish.]]''
+
+== Gameplay ==
+'''["Hunted"]'''
+
+'''[Day 2 - 03:02:39]'''
+
+'''[Western Russia]'''
+
+'''[Sgt. "Soap" MacTavish]'''
+
+'''[22nd SAS Regiment]'''
+
+''The Black Hawk is traveling across the countryside when suddenly the missile lock alert begins sounding and a [[FIM-92 Stinger|Stinger]] missile begins to close in.''
+
+'''[[John Price|Captain Price]]''': What the bloody hell is that?! Incoming missile! Hang on!
+
+''The helicopter is hit and begins to spin towards the ground.''
+
+'''[[Hammer Two-Six]]''': Mayday mayday, this is Hammer 6-4, we are going down, I repeat, we are going down 2 miles south of Waypoint 5...
+
+''The helicopter crashes. Sgt. "Soap" MacTavish comes to having been thrown away from the chopper in the crash. Captain Price sees him and sprints over, helping him up.''
+
+'''Captain Price''': You're still in one piece. Get up.
+
+''The wrecked helicopter explodes, presumably from the fuel tank igniting.''
+
+'''Captain Price''': Come on, we need to get moving before the search parties get here.
+
+''Price helps Soap back up his feet and the two run back to the survivors. Soap pulls out his [[M1911]]. The player can grab and switch between a [[G36C]], an [[M4A1]], and an [[MP5]] at the wreck.''
+
+'''Captain Price''': Casualty report.
+
+'''Gaz''': [[Paulsen]] and both pilots are dead, Sir.
+
+'''Captain Price''': Bugger... All right, the extraction point's not far from here. Let's move out.
+
+''Price, Gaz, Soap and Nikolai begin to make their way towards the extraction point.''
+
+'''[[Baseplate]]''': Bravo Six, this is Baseplate. [[AC-130|AC-130 Gunship]] support is on the way, but it will take some time before they will be in a position to assist, over.
+
+'''Captain Price''': Copy. Bravo Six, out.
+
+'''Gaz''': An AC-130, eh? Haven't worked with one of those in a while.
+
+'''Captain Price''': Keep a low profile. Let's stay out of trouble.
+
+''They group up with a scout watching out for vehicles from behind a fence by the highway.''
+
+'''SAS''': Sir, vehicles coming from the north.
+
+'''Captain Price''': Get under that bridge - move it.
+
+''They sprint to take cover under the bridge as a convoy speeds past. A [[Mi-8]] helicopter with a search beam also arrives and flies overhead to scout the crash site.''
+
+'''Captain Price''': Alright, let's move.
+
+''They come across the back door of an old wooden garage. Russian voices can be heard from the other side of the building.''
+
+'''Ultranationalist 1''': Это место как свалка. Хахаха. (This place is a dump. Hahaha.)
+
+'''Captain Price''': Hold up. We've got company.
+
+''Price silently opens the door. The room is clear but looks out onto a farmyard. A group of [[Ultranationalists]] asks a [[farmer]] where the crash survivors are. One of them becomes aggressive on him.''
+
+'''Farmer''': Что здесь происходит? Что тебе надо? (What is going on here? What do you want?)
+
+'''Ultranationalist 1''': Не надо прикидываться дурачком. Мы знаем, что вы их где-то прячете. (Do not pretend to be a fool. We know that you have them hiding somewhere.)
+
+'''Farmer''': Прячем? Кого? (Hiding? Who?)
+
+'''Ultranationalist 1''': Там у вас британские солдаты? (You have British soldiers in there?)
+
+'''Farmer''': Британцы? (British?)
+
+'''Ultranationalist 1''': *spittle* Вы напрасно тратите моё время. (You are wasting my time.)
+
+'''Captain Price''': Alright, let's top these bastards before the kill the old man.
+
+''If the player doesn't fire, the Russian will execute the Farmer. They fire on them on Price's command (Xbox 360/PC only; save the farmer to get achievement: "Man of the People"). The hostiles are eliminated.''
+
+'''Gaz''': Area clear.
+
+'''Captain Price''': All right. Let's keep moving.
+
+''As they make their way through a field of long grass, the helicopter returns.''
+
+'''Captain Price''': Spotlight. Hit the deck.
+
+''They go prone using the grass for cover.''
+
+'''Captain Price''': Stay down... Stay - Down.
+
+''The helicopter passes over them.''
+
+'''Captain Price''': The heli's moving away. Let's go.
+
+''If the player is not prone and is spotted, or fires a shot by mistake:''
+
+'''Captain Price''': Bloody hell, they're onto us. Get to cover! Move!
+
+''As they sprint towards a wooden house at the far end of the field, angry shouting is heard as they are spotted by an enemy patrol who open fire as soon as they bring their truck about to block the road and pile out of it.''
+
+'''Gaz''': Contact, six o'clock.
+
+'''Captain Price''': Return fire.
+
+''The helicopter returns and enemy reinforcements begin rappelling down at the opposite end of the field. Another Ultranationalist fires his [[RPD]] from the open door of the helicopter.''
+
+'''Captain Price''': Gaz, we'll hold them off! Get that basement door open now!
+
+'''Gaz''': I'm on it!
+
+''The shootout continues while Gaz works on the door.''
+
+'''Gaz''': The door's open, Sir.
+
+'''Captain Price''': Get in the house! Go! Go!
+
+''If Soap or anyone else stalls:''
+
+'''Captain Price''': What the bloody hell are you waiting for! Get down those stairs!
+
+''If the player waits more:''
+
+'''Captain Price''': Get in the basement!
+
+''They barricade the door behind them.''
+
+'''Captain Price''': Soap! Take point and scout ahead for an exit.
+
+''Soap and Gaz head through the house towards the exit when a couple enemies storm the back door and throw a flashbang.''
+
+'''Gaz''': [[Flashbang]]!
+
+''They continue to fight through the house and proceed into another deserted farmyard.''
+
+'''SAS''': It's too quiet... where the hell did they go?
+
+'''Gaz''': They're probably regrouping. Trying to cut us off somewhere up ahead.
+
+'''Captain Price''': Stay sharp.
+
+''They move into the courtyard. Enemies can be heard shouting and dogs barking. The dogs come running towards Soap. (The player faces dogs for the first time in the entire "Call of Duty" series.) If the player doesn't kill the dog before it reaches him, the dog will jump at the player and knock him down to the ground. The dog then goes for the player's throat. If the player does not "melee" in time, the dog will tear out the players throat and kill him, failing the mission. Soap reaches for the dog's head before it bites down, he twists and breaks its neck, killing it. He gets up and back into the fight. They fight their way through the courtyard.''
+
+'''Gaz''': Hold on - the helicopter's back.
+
+'''Captain Price''': It doesn't look like they know where we are (subs erroneously read "It looks like they don't know where we are."). Let's keep it that way.
+
+''The helicopter moves away and Price opens the courtyard gate.''
+
+'''Captain Price''': Alright let's press on. Move.
+
+''They make their way down a shallow riverbed.''
+
+'''Captain Price''': Hold up, sentries on the bridge up ahead. Stay out of the spotlight.
+
+''The enemy vehicles roll past, the helicopter's search light moves past them.''
+
+'''Captain Price''': Let's move, but stay low.
+
+''They sneak through a field using haystacks and the darkness as cover to try and avoid the enemies patrolling the field with flashlights. Suddenly...''
+
+'''Ultranationalist 1''': Вижу врага! Они в поле! (Here they are! They are crossing the field!)
+
+'''Gaz''': We're compromised! Open fire!
+
+''If the team is far from the complex of greenhouses:''
+
+'''Captain Price''': Return fire and head to the far end of the field! Move!
+
+''The helicopter flies above and its gunner fires down on the field.''
+
+'''Captain Price''': Watch out for the helicopter!
+
+''They reach the greenhouses and engage enemies. They fight their way through the greenhouses to some abandoned houses.''
+
+'''Captain Price''': That helicopter's making another pass. Find some overhead cover!
+
+''They engage enemies at the barn at the end of the complex. They enter the barn and kill enemies inside. Stinger missiles are laying on top of the ammo crates.''
+
+'''Gaz''': Captain Price! We've got Stinger missiles in the barn!
+
+'''Captain Price''': Soap! Grab a Stinger and take out that chopper. Move!
+
+''Soap grabs a Stinger, locks on the helicopter, and fires a missile. The helicopter avoids it by popping flares.''
+
+'''Gaz''': Bloody hell, he's popping flares! This won't be easy! Soap, grab another Stinger and fire again! Let's put him to the test!
+
+''Soap grabs another Stinger and fires, this time scoring a direct hit. The helicopter begins spinning before crashing into the ground. Bits and pieces of the wrecked helicopter fly everywhere following the crash.''
+
+'''Gaz''': Bloody nice shooting there, Soap!
+
+'''Captain Price''': Good work, Soap. Everyone on me. Let's move out.
+
+''After leaving the barn, they approach a main road, where a T72 and a large convoy of trucks are unloading troops.''
+
+'''Baseplate''': Bravo Six, be advised, that AC-130 is entering your airspace at this time. Out.
+
+'''AC-130 FCO''': Bravo Six, this is [[Warhammer]] standing by. Heard you could use some help down there. Call the shot.
+
+'''Captain Price''': Warhammer - Fire mission - danger close! Enemy armour and infantry, 100 metres to the southwest of our location, over.
+
+'''AC-130 FCO''': Copy. Comin' down.
+
+''Cannon fire can be seen raining down from the sky, obliterating the convoy, and the nearby gas station. The team cheers as the convoy is destroyed.''
+
+'''Gaz''': Ah, that's bloody outrageous, mate!
+
+'''AC-130 FCO''': Bravo Six, we'll cover you all the way to the way to the extraction zone. You'd better get movin'.
+
+'''Captain Price''': Roger that, Warhammer. We're moving now. Out. (To the squad) Come on, let's go!
+
+''They continue on through western Russia and make their way to the extraction zone.''
+
+{{CoD4 CampaignT}}

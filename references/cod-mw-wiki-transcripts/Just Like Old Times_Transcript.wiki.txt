@@ -1,0 +1,365 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_2_Transcripts -->
+<!-- title: Just Like Old Times/Transcript -->
+
+{{game|mw2|mw2r}}
+
+== Cutscene ==
+''Captains John Price and "Soap" MacTavish have been labeled most wanted war criminals due to [[Loose Ends|Shepherd's betrayal]].''
+
+'''[[John "Soap" MacTavish|MacTavish]]''': We've got one good [[UMP45|UMP]]. [[Shadow Company|They've]] got a thousand. We don't even know if [[Vladimir Makarov|Makarov's]] intel is any good. Price. ...Price?
+
+''The screen shows Price's "inventory" as he and Soap prepare to assault Site Hotel Bravo and kill Shepherd: a CheyTac [[Intervention (weapon)|Intervention Bolt-Action Anti-Materiel Rifle]], a pair of [[Night Vision Goggles|Night-Vision Goggles]], a [[Silencer|Suppressed]] [[Vector]] w/ [[ACOG Scope]], an [[M1911|M1911 Colt .45]] pistol, 4 [[Flashbang|Flashbangs]], 4 [[M67 Grenade|Frag Grenades]], and a [[Combat Knife]].''
+
+'''[[John Price|Price]]''': The healthy human mind doesn't wake up in the morning thinking this is its last day on Earth. But I think that's a luxury. Not a curse. To know you're close to the end is a kind of freedom. Good time to take... inventory. Outgunned. Outnumbered. Out of our minds. On a suicide mission. But the sand and rocks here, stained with thousands of years of warfare... They will remember us. For this. Because out of our vast array of nightmares, this is the one we choose for ourselves. We go forward like a breath exhaled from the Earth. With vigor in our hearts and one goal in sight: We. Will. Kill [[Shepherd|him]].
+
+''The satellite tracks Soap at Site Hotel Bravo, Afghanistan.''
+
+== Gameplay ==
+'''[[Nikolai (Modern Warfare)|Nikolai]]''': I'll wait for you at the exfil point. Three hours.
+
+'''Price''': Don't bother. This was a one-way flight, mate.
+
+'''Nikolai''': Then good luck my friend. Слава Богу. (Thank God.)
+
+'''["Just Like Old Times"]'''
+
+'''[Day 7 - 17:32:36]'''
+
+'''["Soap" MacTavish]'''
+
+'''[<nowiki/>[[Site Hotel Bravo]], Afghanistan]'''
+
+''Captains John Price and "Soap" MacTavish crawl out of their desert camos in a sandstorm and move up a ridge overlooking Site Hotel Bravo.''
+
+''If the player takes too long to get up:''
+
+'''Price''': Move out.
+
+'''Price''': Soap, I'm picking up a thermal spike up ahead. The cave must be somewhere over the edge.
+
+''They spot a [[Shadow Company]] patrol on the road below.''
+
+'''Price''': Hold up. Enemy patrol. Hold your fire. Looks like Makarov's intel was solid. This is it.
+
+''The patrol splits its group and begins its patrol.''
+
+'''Price''': Good, they're splitting up. Let them separate. This decryption code better be worth the price we paid...
+
+''Shadow Company is heard in the comms.''
+
+'''[[Oxide]] (Shadow Company HQ)''': Go ahead, Alpha.
+
+'''[[Disciple (callsign)|Disciple One]] (Alpha)''': Riverbed all clear, over.
+
+'''Oxide (Shadow Company HQ)''': Bravo?
+
+'''Disciple Two (Bravo)''': Sandstorm. Not much to see right now, over.
+
+'''Oxide (Shadow Company HQ)''': Zulu?
+
+'''Disciple Four (Zulu)''': Uh, we're starting our patrol east along the canyon. North-side access road, over.
+
+'''Price''': Focus on the group on the right, directly beneath us. Let's take them out first. I'll take the two on the left. On my mark. Three... Two... One... Mark.
+
+''They snipe out the four men and the dog on the right side of the road.''
+
+'''Price''': Just like old times.
+
+''If the player doesn't kill the dog, Price does it.''
+
+'''Price''': Dog neutralized. I count five tangos down.
+
+''(If the player misses, or kills one of the troops before or as they are splitting, they will notice and engage Price and Soap.''
+
+'''Price''': They're onto us - go loud.
+
+''Price and Soap kill them.''
+
+'''Price''': Soap, these aren't your average muppets. No more mistakes, let's go.
+
+''​If the player kills the two guards on the left in the right group first before killing them all:''
+
+'''Price''': Close enough.
+
+''If the player does not take out the guards along with Price's mark:''
+
+'''Price''':''' '''We have to work together, Soap. Stick to the plan next time.
+
+''If the player kills the two men and the dog walking away and then kills the rest before they notice, Price will say the second previous line and then the third previous line.)''
+
+''They slide down the hill onto the road.''
+
+'''Price''': All right, we've got to take out the other group before they come back. Move.   
+
+'''Price''': Quickly, let's move up and take the others.
+
+''They take position behind the two guards and dog.''
+
+'''Price''': I'm in position - Take the shot.
+
+''They kill them.''
+
+'''Price''': We don't have much time before they find the bodies. Let's keep moving. Here we go - hook up here.
+
+''(If the player stalls:''
+
+'''Price''': Soap, what’s the problem? Hook up to the railing.)
+
+''(If the player switches with an enemy weapon:''
+
+'''Price''': Make sure you're using a suppressed weapon. Otherwise we're dead.)
+
+'''Oxide (Shadow Company HQ)''': Disciple Four, Oxide. What's your status, over?
+
+''They hook up on the railing on the edge of the cliff.''
+
+'''Oxide (Shadow Company HQ)''': Disciple Four, Oxide, do you copy, over?
+
+'''Price''': Go.
+
+'''Oxide (Shadow Company HQ)''': Hey, I'm not getting anything from Disciple Four, north-ridge road. Could be a bad transmitter.
+
+''They steadily rappel down the cliff (the player must brake or he will fall into the river and die).''
+
+'''Price''': Got two tangos down below.
+
+''They pull out knives when they are right above them.''
+
+'''Price''': Do it.
+
+''Both silently take out the two guards at the cave entrance.''
+
+'''Price''': Let's go.
+
+''Soap switches to his Suppressed Vector w/ ACOG Sight. They enter the cave. A soldier is seen in front of a security cam TV.''
+
+'''Price''': Tango up ahead. Do not engage.
+
+''(If the player kills/injures the guard or is spotted:)''
+
+'''Shadow Company''': Hostile at my location!; Intruder spotted!; I see him, he's over here!
+
+'''Price''': They're onto us - go loud.
+
+''All the Shadow Company soldiers in the cave will move towards the player and Price. The two will have to take them all out before continuing to the steam room.''
+
+'''Price''': Let's keep moving.
+
+''Occasionally, Price says the following line.''
+
+'''Price''': We got lucky that time.
+
+''The lines skip to "lost contact with Disciple Five.")''
+
+'''Price''': Patrol coming our way - go left, quickly! Let them pass.
+
+''They hide behind a covering while a group of 9 Shadow Company soldiers walks towards the entrance.''
+
+'''Oxide (Shadow Company HQ)''': Butcher Seven, Oxide. We've lost contact with Disciple Five.
+
+'''Shadow Company HQ''': Probably just the sandstorm that's rollin' in or a bad transmitter. Send a team to check it out, over.     
+
+'''Shadow Company ([[Butcher (Modern Warfare 2)|Butcher Seven]])''': Roger that, Oxide. I'll send [[Vinson]] and [[Lambert]]. Butcher Seven out.
+
+'''Price''': Take out the guard having a smoke, or wait for him to move along.
+
+''If Soap kills the guard with his suppressed weapon or knife:''
+
+'''Price''': Good night.
+
+''Regardless if the guard is dead or if he moves:''
+
+'''Price''': Let's go.
+
+''If the player goes to the right (probably to retrieve the Intel laptop) instead of the left:''
+
+'''Price''': Soap, that area's full of hostiles. Keep to the left.
+
+''They move up. There is a large group of SC soldiers.''
+
+'''Price''': Easy now... Two tangos in this corridor. Hold your fire and stay to the left.
+
+''They go around the left into a corridor.''
+
+'''Oxide (Shadow Company HQ)''': Disciple Five, Oxide. Give me a sitrep, over.
+
+'''Price''': Soap, we've got two tangos with taclights coming down the stairs under that red light, dead ahead.
+
+''If the player waits, Price takes position.''
+
+'''Price''': I'll take the one on the right. On my mark. Three... Two... One... Mark.
+
+''They take out the two tangos.''{{Tabber2|Soap takes out left tango|'''Price''': Clear. Go.|Soap takes out right tango instead|'''Price''': Close enough. Move.|Soap takes out both tangos early|'''Price''': Impressive. Clear. Go.
+}}''They move up towards the stairs.''
+
+'''Oxide (Shadow Company HQ)''': Disciple Six, we've lost all contact with Disciple Five. Check it out, over.
+
+'''Price''': Top of the staircase - he's mine.
+
+''Price knifes the soldier up top. If the player kills him right before Price does:''
+
+'''Price''': Never mind, then. ''(sometimes said)''
+
+'''Disciple Six''': Roger that Oxide, we're on the catwalk, heading to the steam room. Standby.
+
+''They reach a steam room. It goes dark, they prepare to engage.''
+
+'''Oxide (Shadow Company HQ)''': Disciple Six, go dark, breach and clear.
+
+'''Price''': Here we go - get ready.
+
+'''Disciple Six''': [[Breaching Charge|Door charge]] planted. Ready to breach.
+
+'''Shadow Company''': Hit it.
+
+'''Disciple Six''': Breaching, breaching!
+
+'''Shadow Company''': Move it!
+
+''Shadow Company Disciple Six blows a hole into the steam room.''
+
+'''Shadow Company''': Foxtrot Element, sweep left. Search pattern Echo Charlie, go. Door area clear. Check your corners.
+
+'''Price''': Go loud! Open fire!
+
+''They fire on them, a dark shootout ensues.''
+
+'''Shadow Company''': They're here! Open fire! Stay frosty, hunt them down!
+
+''They kill all members of Shadow Company's Disciple Six.''
+
+'''Price''': Move.
+
+'''Oxide (Shadow Company HQ)''': Disciple Nine, your rear guard just flatlined!
+
+'''Disciple Six''': Not possible. We just cleared that area. Nobody's that good Oxi-
+
+'''[[Shepherd]]''': It's Price. Backup priority items and burn the rest. Fireteams, just delay 'em until we're ready to pull out.
+
+''They come out of the steam room and move along the catwalk.''
+
+'''Price''': Grab a [[Riot Shield|riot shield]]... we'll need cover out here.
+
+''(If the player does not grab a riot shield:''
+
+'''Price''': Soap, grab a riot shield and lead the way. I'll take care of any shooters!
+
+''If the player still dawdles, Price will repeat the first line and eventually say the following line.''
+
+'''Price''': Soap, grab a riot shield and lead the way.'')''
+
+''Soap grabs a riot shield while Price goes prone. To the right, helicopters, a UAV drone, and two [[F-15 Eagle|F-15s]] fly by.''
+
+'''Shadow Company ([[Avatar One]])''': Oxide, Avatar One. We have unauthorized personnel on the catwalk. I repeat, we have unauthorized personnel on the catwalk- you gettin' this?
+
+'''Price''': Take point with the riot shield. I'll take care of any resistance.
+
+''(If the player has a riot shield but equips their other weapon:''
+
+'''Price''': Switch to the shield, we're exposed out here!
+
+''If the player still does not use a riot shield:''
+
+'''Price''': Soap, bring up the riot shield! (Subtitles say "bring up the riot shield, Soap!")'')''
+
+''Soap moves along the catwalk under cover with a riot shield drawing fire from Shadow Company soldiers from across the catwalk. Price takes them out as Soap moves forward. He comments whenever he takes an enemy out.''
+
+'''Price''': Good night.; Got 'em.; He's down.
+
+''(If the player stands up with the riot shield equipped:''
+
+'''Price''': Stay low with that shield so I can get a clean shot.
+
+''If the player continues to stand up:''
+
+'''Price''': Keep low with that shield!
+
+''If the player stops moving on the catwalk:''
+
+'''Price''': Move up.'')''
+
+'''Shadow Company (Disciple Nine)''': Oxide, Disciple Nine, we've got hostile contact approximately 50 meters from the nest, over.
+
+'''Oxide (Shadow Company HQ)''': Terminate with extreme prejudice. All personnel - be advised, we have two enemy foot-mobiles on the catwalk heading to the crow's nest.
+
+''They reach the "nest". Soap also uses the shield to down any remaining enemies near the nest's entrance.''
+
+'''Price''': We're clear. Move in.
+
+'''Oxide (Shadow Company HQ)''': Butcher One-Five, rendezvous at the nest and prepare to escort Gold Eagle to the LZ.
+
+'''Price''': Gold Eagle must be Shepherd! We're running out of time, let's go!
+
+''They enter the nest. [[UH-60 Blackhawk|Choppers]] drop off troops with [[Riot Shield|riot shields]].''
+
+'''Price''': They're using shields! Use frags! Flank them!
+
+''They fight their way further into the cave, fighting more Shadow Company soldiers using shields and popping [[Smoke Grenade|smoke]].''
+
+'''Shadow Company (Butcher Two)''': Butcher Two roping into sector Papa Quebec!
+
+'''Price''': They're using thermal through the smoke! They're digging in, Shepherd must be close! We have to break through! I'll draw their fire through the smoke! Watch for flanking routes!
+
+''Price draws hostile fire while Soap goes around the cave, picks up a [[SCAR-H]] [[Thermal Scope]], and flanks them in a thermal shootout.'' 
+
+''If the player does not flank the enemies:''
+
+'''Price''': Switching to Thermal! Keep an eye on our flanks!
+
+''They eventually eliminate all the hostiles.''
+
+'''Shadow Company (Butcher Five-Actual)''': Oxide, Butcher Five-Actual. I've got a severed det cord - we're gonna need ten mikes to get the trunk rigged and the EBC primed, over.
+
+'''Oxide (Shadow Company HQ)''': Negative, [[Shepherd|Gold Eagle]] wants those charges hot in less than three mikes. Get it done, out.
+
+''They reach a door to the control room. A Shadow Company soldier sees Price and Soap coming and quickly locks the door.''
+
+'''Price''': They've sealed the control room. Get a frame charge on the door!
+
+''If the player stalls:''
+
+'''Price''': Soap, we gotta go now. Breach the door!
+
+''Soap breaches and clears the control room which is wired and rigged with tons of explosives.''
+
+'''Shepherd''': All units be advised this is Gold Eagle. The site has been compromised. I am executing directive one-one-six bravo. If you're still inside, your service will be honored. Shepherd out.
+
+''A timer begins counting down from 20 seconds.''
+
+'''Price''': Override the door controls, use the keyboard! Override the door controls! Hurry!
+
+''They unlock the doors and escape the cave, just as the explosives go off and knocks out Soap.''
+
+'''Price''': Run! Keep moving! This place is gonna blow!
+
+''Soap wakes up lying at the exit. Price is seen shooting at Shadow Company soldiers outside.''
+
+'''Shepherd''': Excalibur, this is Gold Eagle. Fire mission - target package Romeo - danger close.
+
+'''[[Excalibur|Excalibur (Shadow Company HQ)]]''': That's within a hundred meters of your position, sir!
+
+'''Shepherd''': That's not a suggestion! Send it!
+
+'''Excalibur (Shadow Company HQ)''': Roger, fire mission danger close!
+
+'''Price''': Soap! Incoming! Get down! Get down!
+
+''Artillery fire lands all over Site Hotel Bravo, killing, wounding, and dazing many of Shadow Company's soldiers.''
+
+'''Price''': Since when does Shepherd care about danger close... Let's go! Stay close and follow me! To the west, Soap. Go!
+
+''They move out of the caves, outside they engage more Shadow Company soldiers dropping in from helicopters.''
+
+'''Shadow Company HQ''': Sir, sandstorm activity is picking up here. It's too risky for flight ops.
+
+'''Shepherd''': Understood. Head for the tunnel. We'll take the [[Zodiac|Zodiacs]].
+
+'''Shadow Company HQ''': Yes sir! (''It's unknown whether this is [[Oxide]] or [[Excalibur]] talking'')
+
+''They push through Site Hotel Bravo, eliminating SC soldiers along the way to the tunnel where General Shepherd is escaping.''
+
+'''Price''': Head for the tunnel! He's getting away! Shepherd mentioned Zodiacs... there must be river access nearby - let's go!
+
+''End of mission, screen fades to black.''
+
+{{CoD6 CampaignT}}

@@ -1,0 +1,1130 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_III_Transcripts -->
+<!-- title: Trojan Horse/Transcript -->
+
+{{game|1=mwiii}}
+== Cutscene ==
+''General [[Herschel Shepherd]] and [[Phillip Graves]] are seated before a panel of congressmen and women at a public hearing in [[Washington, D.C.|Washington DC]]. [[Kate Laswell]] sits among the audience behind Shepherd and Graves.''
+
+'''[[Herschel Shepherd|Shepherd]]''': ...We owe a debt of gratitude to our [[Task Force 141 (Reboot)|Task Force]] and to the [[Urzikstan Liberation Force|ULF]] for [[Danger Close (level)|our success]] against [[Vladimir Makarov (Reboot)|Vladimir Makarov]] and his [[Konni Group|private army]].
+
+'''[[Huston|Congress Person]]''': Much has been said about the ULF. Are [[Farah Karim]] and her soldiers a terror organization?
+
+'''Shepherd''': No. Farah Karim is and always has been an ally to the [[United States of America|United States]] and our Western partners in the [[Middle East|region]].
+
+''The audience murmurs.''
+
+'''Congress Person''': How did Commander Karim obtain American armaments?
+
+'''Shepherd''': For nearly a decade, I sent weapons to Commander Karim to support her missions against [[Al-Qatala]] and [[Russian Ground Forces|Russian]] [[Invasion of Urzikstan|incursions]] into Urzikstan.
+
+'''Congress Person''': Were those shipments legal...?
+
+'''Shepherd''': No... In order to save lives, I commissioned illegal shipments with funds I approved myself.
+
+''The audience whispers in disgust.''
+
+'''Congress Person''': Quiet... Quiet, please... General Shepherd, in October of 2022, did you authorize [[Shadow Company (Reboot)|Shadow Company]] to [[Alone (level)|fire]] on a task force under your command in [[Las Almas]], Mexico?
+
+'''Shepherd''': No, I did not.
+
+''Laswell listens with disbelief.''
+
+'''Congress Person''': Mr. Graves, were you given orders to use lethal force against TF-141?
+
+'''[[Phillip Graves|Graves]]''': Yes, I was.
+
+''The audience murmurs loudly.''
+
+'''Congress Person''': Quiet. Quiet in this chamber... Who gave you those orders?
+
+'''Graves''': General Herschel Shepherd.
+
+'''Congress Person''': Did you act on those orders, Mr. Graves?
+
+'''Graves''': No... Absolutely not, sir.
+
+''Shepherd gives a side glance to Graves while the audience murmurs once again.''
+
+'''Congress Person''': Quiet... Quiet...
+
+''The scene shifts to the desert in Urzikstan as [[John Price (Reboot)|Captain Price]], [[Kyle "Gaz" Garrick|Gaz]], [[Johnny "Soap" MacTavish|Soap]], [[Simon "Ghost" Riley (Reboot)|Ghost]], and Farah watch the hearing on a laptop placed in [[Nikolai (Reboot)|Nikolai]]'s helicopter.''
+
+'''[[Kyle "Gaz" Garrick|Gaz]]''': Fuck me. They stabbed each other in the back...
+
+'''[[Johnny "Soap" MacTavish|Soap]]''': Still saving their own skins.
+
+'''[[Simon "Ghost" Riley (Reboot)|Ghost]]''': Every man for himself.
+
+'''[[Farah Karim|Farah]]''': That's the difference between us... and them.
+
+''Farah places two separate photos of Shepherd and Vladimir Makarov on the helicopter floor.''
+
+'''Ghost''': We gonna let this stand, Boss?
+
+'''[[John Price (Reboot)|Price]]''': Best way to end a war... is to win it.
+
+''Soap nods in agreement.''
+
+'''Farah''': No prisoners...
+
+'''Price''': Good hunting, Commander.
+
+''Price and Farah shake hands.''
+
+'''Farah''': You too, Captain.
+
+''Price turns to Nikolai, who leans against his helicopter.''
+
+'''Price''': Nik - Take Farah back, will ya?
+
+'''[[Nikolai (Reboot)|Nikolai]]''': Straight away, Captain.
+
+''Nikolai and Farah board the helicopter and prepare to take off.''
+
+'''Price''': Alright - Let's prep for exfil... We're going [[London|home]]...
+
+''Price, Gaz, Soap, and Ghost walk away from the helicopter as Nikolai closes the hatch.''
+
+''Cut to black.''
+
+'''[[Kate Laswell|Laswell]]''': Watcher to Bravo...
+
+''The scene shifts to the mission briefing screen. The globe is overlayed with lines of communications.''
+
+'''Price''': Send traffic, Watcher.
+
+'''Laswell''': MI6 is relaying waves of Konni chatter to us...
+
+'''Price''': Bottom line it, Kate - where are they?
+
+''The globe rotates to [[London]], [[United Kingdom|England]].''
+
+'''Laswell''': Konni's in London.
+
+''The globe zooms in on the city of London.''
+
+'''Soap''': Steamin' hell--
+
+''A mugshot of Vladimir Makarov is displayed.''
+
+'''Soap''': Is Makarov alive?
+
+'''Laswell''': There's comms from a Czar 9-0...
+
+'''Ghost''': That's his callsign.
+
+'''Gaz''': What are they doing in London, Kate?
+
+''The map zooms in further on Greensbury Park where a security image of a person of interest pops up.''
+
+'''Laswell''': Signals intelligence shows Konni's meeting with a known black hat tomorrow in Greensbury Park.
+
+'''Gaz''': A hacker...
+
+'''Ghost''': That's our mark.
+
+'''Soap''': What's Konni want access to?
+
+'''Laswell''': We need to find that out and stop it.
+
+''Makarov's headshot appears next to the hacker's.''
+
+'''Price''': That hacker can lead us to Makarov.
+
+'''Soap''': Konni's in London, he can't be far behind...
+
+'''Ghost''': We get solid intel, we'll have to move quickly...
+
+''Photos of barricade tape and an [[Metropolitan Police Service|SFO]] agent are seen next.''
+
+'''Gaz''': I'll coordinate with London Metro and get SFO standing by...
+
+''A photo of a security camera is revealed along with more security cameras with their outlines in an area.''
+
+'''Price''': Ghost, you plug into London's CCTV network, be our eyes. The rest of us tail the mark on the ground. Makarov could be in our backyard. We get wind of where he is, we'll move on it. For now... let's follow our mark and find him...
+
+''The briefing screen dissolves.''
+
+== Gameplay ==
+''Ghost sits in the CCTV room with camera monitors set up before him.''
+
+'''Ghost''': Bravo 0-7 to Watcher, CCTV is online.
+
+''Ghost views Greensbury Park through one of the camera monitors.''
+
+'''Laswell''': Copy - Visual. Radio check?
+
+'''Price''': Check. Six in position.
+
+''The camera switches to a POV overlooking Gas's position in the park.''
+
+'''Soap''': Soap - loud and clear.
+
+''The scene shifts to the park with Gaz smoking a cigarette and spying on the hacker.''
+
+'''Gaz''': Affirm. Eyes on the mark, black hoodie...
+
+'''Laswell''': Good check - Let's go to work, Bravo.
+
+'''Ghost''': Rog'. Get ready to move, Soap.
+
+'''Laswell''': Keep a low profile. We lose her, we lose Makarov.
+
+''Gaz shifts his gaze over to Soap, who sits at a cafe drinking from a mug. Soap stands up and leaves behind some money on the table.''
+
+'''Soap''': Solid copy.
+
+'''JOHN "SOAP" MACTAVISH - TF-141, CIA, SFO'''
+
+'''TROJAN HORSE'''
+
+'''LONDON, ENGLAND'''
+
+'''21 NOVEMBER 2023, 1600'''
+
+'''Laswell''': Be advised: She looks skittish. She sees military-age males on her tail, she's gonna bolt.
+
+'''Soap''': Understood.
+
+'''Ghost''': Solid. Now press up to Gaz, Soap - you're good to go...
+
+''Soap walks over to Gaz and pretends to blend in with him by smoking with him.''
+
+'''Soap''': Got a light?
+
+'''Ghost''': Smoking, Johnny?
+
+'''Soap''': Blending in, L.T. ...
+
+''Gaz takes out his lighter and lights Soap's cigarette.''
+
+'''Ghost''': You say so...
+
+''The hacker is seen over Gaz's shoulder as she starts walking away.''
+
+'''Ghost''': Target's moving, Sergeants.
+
+'''Laswell''': Stay with her, Soap. Just don't get too close.
+
+'''Soap''': On it.
+
+''(Alternatively...)''
+
+'''Laswell''': If she takes a call or talks to anyone- we need to hear it, Soap.
+
+'''Soap''': Copy that- she talks, we listen.
+
+''The hacker stops walking and stoops down to lower her shoe.''
+
+'''Ghost''': Wait. She's tying her shoe, likely checking if she's being followed. 
+
+''(If Soap doesn't blend in yet...)''
+
+'''Ghost''': Make yourself look busy, Johnny.
+
+''Soap walks over to a domesticated dog and pets it to blend in.''
+
+'''Soap''': Good doggy...
+
+''Soap looks up and glances at the hacker for a second.''
+
+'''Soap''': Yeah... She's cautious.
+
+'''Laswell''': She's in over her head with Makarov...
+
+''The hacker resumes walking again.''
+
+'''Ghost''': Mark's moving. Keep on her.
+
+''Soap follows the hacker cautiously from a distance. Then, the hacker hears her phone ringing.''
+
+'''Soap''': Her phone's ringing.
+
+'''Laswell''': Get close and listen in.
+
+''Soap walks up to a postcard stand and pretends to browse its selection just to blend in while the hacker talks on her phone.''
+
+'''Hacker''': Kept it secure - it's plug and play. Hey, I got the payment. Dropped the flash drive behind the rubbish bins. Yeah, between Bistro 43 and Tea Café. Pleasure doing business.
+
+''The hacker ends the call and puts away her phone before walking away.''
+
+'''Laswell''': What's the word?
+
+'''Soap''': She made a dead drop for a buyer. Flash drive. Alley between Bistro 43 and Tea Café. 
+
+'''Price''': We need eyes...
+
+''The scene shifts back to Ghost in the camera room.''
+
+'''Laswell''': Ghost, take point on CCTVs.
+
+'''Ghost''': Rog.
+
+''Ghost operates the CCTV cameras and looks through the camera on King Street overlooking the alley between Bistro 43 and Tea Café.''
+
+'''Ghost:''' Eyes on the alley exit. No sign of Konni. Must've already left.
+
+'''Laswell''': Good. Scrub the footage for anyone leaving the alley, 0-7.  They'll likely be the buyer.
+
+''Ghost plays back the video until he finds a lone Konni agent leaving the alley.''
+
+'''Ghost''': Found him.
+
+'''Laswell''': Stay on him, Ghost. Whatever he's got, we need.
+
+''Ghost reviews the footage to watch the agent go in Bistro 43.'' 
+
+'''Ghost''': Buyer went interior - lost visual.
+
+'''Laswell''': Switch to a different camera.
+
+''Ghost switches cameras to get a better angle on the restaurant. He spots the agent walking inside the restaurant through the windows.''
+
+'''Ghost''': Reacquired, I see him.
+
+''A bus enters the camera POV, obscuring Ghost's view of the bistro's windows.''
+
+'''Ghost''': Got a bus obscuring my view.
+
+'''Laswell''': Find a new angle, then. 
+
+''(If Ghost hasn't yet reacquired the target...)''
+
+'''Laswell''': Try a different camera.; Find another angle and reacquire the target.
+
+'''Ghost''': You seein' this, Laswell?
+
+'''Laswell''': Affirm - Buyer exited Bistro 43.
+
+''Ghost watches the agent cross the street.''
+
+'''Ghost''': Target's crossing the street.
+
+'''Soap''': Keep on him, L.T., we're countin' on ya.
+
+''Ghost keeps switching cameras to continue watching the agent. The agent is seen entering a pedestrian tunnel filled with graffiti.''
+
+'''Ghost''': Regained visual. All Bravo - Target's heading into the pedestrian tunnel.
+
+'''Laswell''': Tunnel's a dead end.
+
+'''Gaz''': Good place for Konni to hide.
+
+'''Price''': And Makarov.
+
+''The scene shifts back to Ghost in the CCTV room.''
+
+'''Gaz''': We have Metro and SFO ready to mobilize. I say we call them in.
+
+'''Ghost''': Copy. All stations, gear up and prepare to breach.
+
+'''Price''': Rog. Six en route.
+
+''The scene now switches to the pedestrian tunnel where Price meets with the Metro Police Service and SFO.''
+
+'''Price''': Cordon off the perimeter. Rest of you, with me.
+
+''Price and the SFO team move in.''
+
+'''SFO 1''': Tunnel's clear. There's a locked door leading to the old train station. At the door prepping for breach.
+
+''Price readies his [[Origin 12 Shotgun|Haymaker]] as he, Gaz and Soap, and the SFO team stack up by the door.''
+
+'''SFO 1''': Breach is up. On your signal, Captain.
+
+'''Price''': Ready. Let's get this done.
+
+'''SFO 1''': Breach in 3, 2, 1...! Execute!
+
+''TF-141 and the SFO team burst open the door and pour into the next area.''
+
+'''SFO 2''': Pushing in!
+
+'''SFO 1''': Sweeping left.
+
+'''SFO 2''': Sweeping right.
+
+'''SFO 1''': Clear.
+
+''Price and his teammates sweep the corridor and reach a stairwell.''
+
+'''Price''': Laswell - We're in...
+
+'''Laswell''': Copy - find that buyer and get that drive, John...
+
+'''Price''': Team 1, push downstairs with us.
+
+'''SFO 1''': Copy.
+
+'''SFO 2''': Team 2 will hold position upstairs.
+
+''TF-141 and the SFO team move down the stairwell to the sub level. They encounter a Konni soldier, who raises his weapon at Price.''
+
+'''Konni Soldier''': ''(in Russian)'' Shit!
+
+'''Price''': Contact!
+
+''The soldier tries to run, but Price shoots him.''
+
+'''Price''': Clear.
+
+''Price and his teams move further through the tunnels until they encounter an automated [[Sentry Gun|machine gun turret]] in the corridor.''
+
+'''Price''': Contacts in the hallway. Gaz, move to flank!
+
+'''Gaz''': Rog! Moving right side.
+
+''Price throws a [[Smoke Grenade|smoke grenade]] to cover their movements.''
+
+'''Price''': Throwing smoke!/Popping smoke!
+
+'''Soap''': Need to disable the turret!
+
+''Price and Gaz sprint across the corridor to the lavatory on the right side.''
+
+'''Konni Soldier''': ''(in Russian)'' Contact! Enemies are here!
+
+'''Price''': On me, Gaz! Lavatory right side.
+
+'''Gaz''': Roger that.
+
+''Price and Gaz move through the lavatory.''
+
+'''Konni Soldier''': ''(in Russian)'' They are getting closer!
+
+'''Konni Soldier''': ''(in Russian)'' We need heavy weapons!
+
+''Price and Gaz encounter Konni soldiers in the lavatory.''
+
+'''Konni Soldier''': ''(in Russian)'' They're in here!
+
+''Price and Gaz take out the threats in the lavatory.''
+
+'''Price''': Clear. Moving up.
+
+'''Soap''': Copy that.
+
+''Price and Gaz exit the lavatory as they flank the machine gun turret.''
+
+'''Price''': Pushing in, right side. Watch your fire!
+
+''Price and Gaz reach the machine gun emplacement and destroy the turret.''
+
+'''Soap''': Turret downed, moving up.
+
+''Price, Gaz, and Soap encounter a group of Konni soldiers in the abandoned shops.''
+
+'''Soap''': Konni shooters in the shops!
+
+''Price helps his team clear out the shops of Konni soldiers, before more enemy troops descend down the escalators outside.''
+
+'''Gaz''': More Konni, descending the escalators!
+
+''(When Price shoots down enough Konni soldiers...)''
+
+'''Konni Soldier''': ''(in Russian)'' Fall back!
+
+'''Soap''': Got more Konni in the next room! SFO, take point! Let's push forward, kill these fuckers, and get that drive off the buyer.
+
+''Price, Gaz, and Soap engage the enemy in the next room with the SFO team.'' 
+
+'''Gaz''': We're pushing 'em back. Let's keep on it.
+
+''Price can flank left to defeat the Konni troops.''
+
+'''Price''': Taking left!
+
+''A Konni soldier opens fire with an [[RPG-7|RPG]].''
+
+'''Soap''': RPG!; RPG on the second floor, left side!
+
+'''Gaz''': RPG reloading, take him out!
+
+''Eventually, the RPG soldier is killed.''
+
+'''Soap''': RPG down!
+
+''The team encounters another automated gun turret.''
+
+'''Gaz''': Another enemy turret, back of the room!
+
+'''Soap''': Turret's pinning us, Captain!
+
+'''Gaz''': Cap, if you got smoke - pop it and we'll use it for cover!
+
+''Eventually, the turret is destroyed.''
+
+'''Soap''': Turret's down.
+
+'''Price''': Focus fire upstairs!
+
+'''Soap''': Rog'!
+
+''Eventually, all the enemy soldiers in the room are killed.''
+
+'''Gaz''': We clear?
+
+'''Price''': All clear.
+
+'''Gaz''': Must've been guarding something important.
+
+'''Price''': We need to find it- SFO, lock it down. Bravo- We sweep the office, second floor.
+
+''Price heads up the stairs to the upper level.''
+
+'''Price''': Moving upstairs!
+
+'''Konni Soldier''': ''(in Russian)'' They are getting closer!; Do not let them advance!
+
+'''Price''': Contact!
+
+''Price engages Konni soldiers on the upper level until they are all eliminated, including the Konni buyer.''
+
+''(Alternatively...)''
+
+'''Price''': Clear.
+
+'''Soap''': Clear.
+
+'''Price''': Rog'. Spread out! Find that buyer with the flash drive!
+
+''Price enters a makeshift Konni operations room where a laptop is rested on the table. They find the Konni buyer's dead body on the ground.''
+
+'''Price''': Watcher, Konni buyer is down.
+
+'''Laswell''': Find that flash drive.
+
+'''Soap''': There's gotta be intel on that laptop.
+
+''Price inspects the laptop and finds the flash drive plugged into the computer. Price looks at the flash drive's program on the laptop.''
+
+'''Price''': Flash drive acquired. Whatever was on it uploaded into the station's train network.
+
+''The scene shifts to...''
+
+== Cutscene ==
+''...the mission briefing screen.''
+
+'''Laswell''': Trojan horse.
+
+''The words "OVERRIDE SUCCESSFUL" flash across the tunnel network on the screen.''
+
+'''Gaz''': Konni has control of the trains.
+
+''The screen displays CCTV footage of Makarov boarding a train.''
+
+'''Laswell''': There's more... Face recognition found this... They boarded ten minutes ago.
+
+''Makarov's mugshot pops up.''
+
+'''Ghost''': Makarov. 
+
+''A video of civilians in the metro area plays back.''
+
+'''Soap''': On a train full of civilians...
+
+'''Ghost''': Hostages.
+
+''The map displays the Channel Tunnel linking Great Britain with [[France]].''
+
+'''Price''': Victims... That tunnel's 500ft. deep and 30 miles long...
+
+''A photo of civilians on the train is shown.''
+
+'''Soap''': There's thousands of people down there at any given time, Bravo...
+
+'''Ghost''': He's gonna trap the trains.
+
+''A photo of inside the tunnel is displayed.''
+
+'''Gaz''': And destroy the tunnel.
+
+'''Laswell''': We have no proof of that.
+
+'''Price''': Not yet...
+
+''The computer reveals Makarov's position stopping at a point inside the tunnel.''
+
+'''Laswell''': Makarov's train just stopped at a cross-over platform 20 miles in.
+
+''An image of an SFO agent appears next.''
+
+'''Gaz''': I'll have SFOs dispatch a second team.
+
+'''Soap''': We need all the help we can get.
+
+''A tab of Gaz, Soap, and Ghost pops up.''
+
+'''Ghost''': We'll take the service tunnel.
+
+'''Price''': Let's move. We may already be too late.
+
+''Fade to black.''
+
+== Gameplay ==
+''Price, Gaz, Soap, and Ghost drive down the Channel Tunnel and come to a stop. They hop out of the vehicle and rally up with the SFO team as they speak with the team's leader.''
+
+'''Gaz''': Boys.
+
+'''SFO Leader''': Captain Price - At your service, sir...
+
+'''Price''': Right, I need half of your men with my Lieutenant. The rest of you on me!
+
+'''SFO Leader''': Copy that. Form up!
+
+'''Price''': Alright, stay close -- follow my orders. Let's get on those doors... yeah?
+
+''Price and Soap move with half the SFO team, and Gaz and Soap take the other half as they move out to their objectives.''
+
+'''Price''': Six to Watcher -- We are on the X... Going for Makarov.
+
+'''Laswell''': Solid copy. Go get him, John.
+
+'''Soap''': This bastard won't go down easy.
+
+'''JOHN PRICE - TF-141, [[Central Intelligence Agency|CIA]], SFO'''
+
+'''TROJAN HORSE'''
+
+'''LONDON, ENGLAND'''
+
+'''21 NOVEMBER 2023, 1700'''
+
+'''Price''': Yeah, well neither will we, sunshine - alright. Come on.
+
+''Price and Soap walk up to a yellow access hatch and open it up. They move through into the service corridor as Price readies his [[UMP45|Striker]].''
+
+'''SFO 4''': SFO Team in position.
+
+'''Soap''': On you, sir.
+
+''Price and Soap move down the corridor and reach a tunnel just as a train speeds past them, narrowly missing them.''
+
+'''Soap''': Steamin' Jesus...!
+
+''The train passes after a moment, allowing Price and Soap to proceed further.''
+
+'''Price''': Watcher - If Makarov's controlling trains, can we regain access?
+
+'''Laswell''': Attempting to breach their firewall. That hacker was good.
+
+'''Soap''': Good at helping a mad bastard for money...
+
+'''Gaz''': On the move, Cap. Good hunting, Bravo...
+
+''Price and his team spot Konni soldiers ahead in the darkened tunnels.''
+
+'''SFO 4''': Konni spotted ahead.
+
+'''Soap''': They don't see us.
+
+'''Price''': Let's keep it that way, yeah...?
+
+''The team moves left into a side tunnel as they overhear Konni soldiers.''
+
+'''Konni Soldier''': ''(in Russian)'' Need that last part to assemble the turret.
+
+'''Konni Soldier''': ''(in Russian)'' Should be coming soon.
+
+'''Konni Soldier''': ''(in Russian)'' ETA?
+
+'''Konni Soldier''': ''(in Russian)'' Another five minutes.
+
+'''Konni Soldier''': ''(in Russian)'' We need it in three. Enemy forces will be upon us soon.
+
+'''Konni Soldier''': ''(in Russian)'' Yes sir.
+
+'''Soap''': They're assembling a turret.
+
+''Soap calls out another incoming train.''
+
+'''Soap''': Another train comin'.
+
+''The train speeds down the tunnel.''
+
+'''Soap''': Hostiles are unaware. Let's seize the advantage, Captain.
+
+''Price kills the first Konni soldier.''
+
+'''Price''': Engage, Sergeant!
+
+''Price and Soap take out the first group of Konni troops.''
+
+'''Soap''': Clear.
+
+'''Price''': Six to Watcher, train tunnel is clear. Advancing to Crossover.
+
+'''Laswell''': Copy. Advise using the ventilation passage to get to the crossover.
+
+'''Price''': Check. WILCO...
+
+'''Ghost''': All Bravo - This is 0-7, taking effective fire. Konni has hostages.
+
+'''Price''': Secure them, Seven!
+
+'''Gaz''': We're workin' on it, Six!
+
+''Price and Soap discover dead civilian workers in the ventilation passage.''
+
+'''Price''': Watcher, we're seeing dead civilians.
+
+'''Laswell''': They may be the first of many, Bravo, unless we stop Makarov.
+
+'''Price''': Bloody right, Watcher-- Ghost, Gaz, what's your status?
+
+'''Ghost''': We are in the line of fire and cannot advance at this time, Price.
+
+'''Price''': Give 'em all you got - we're all leaving here alive, Bravo...
+
+''Price and Soap continue through the passage until they reach a door. On the other side, civilian voices are heard.''
+
+'''Civilian''': Please, let us go!
+
+'''Konni Soldier''': Stay quiet!
+
+'''Konni Soldier''': ''(in Russian)'' I can think of a good way to shut him up...
+
+'''Konni Soldier''': ''(in Russian)'' Not a bad idea.
+
+'''Price''': Hostages in the next room. Watch your fire.
+
+'''SFO 4''': Roger that.
+
+''Price, Soap, and the SFO team move through the door and engage the three Konni soldiers holding the workers hostage.''
+
+'''Price''': Fire!
+
+'''Konni Soldier''': ''(in Russian)'' Enemy!
+
+''Price and Soap kill the Konni soldiers, freeing the hostages in the process.''
+
+'''SFO 4''': Garage clear! Securing the hostages. No casualties.
+
+'''Price''': Get them to safety.
+
+'''Civilian''': Oh God, oh my God...
+
+'''SFO 4''': We'll handle them - Rest take six.
+
+''Part of the SFO team secures the hostages while the rest stack up at the crossover door with Price and Soap.''
+
+'''Soap''': This is 7-1. We're at the crossover now, Watcher.
+
+'''Laswell''': That's Makarov's last known position, Six... Stay sharp.
+
+'''Price''': Let's ready up -- Makarov may be behind these doors.
+
+'''Soap''': On your go, sir.
+
+''Price opens the doors.''
+
+'''Price''': Moving.
+
+''Price and Soap move through the door with the SFO team and into the next area where Konni soldiers have set up defense fortifications and bombs.''
+
+'''Konni Soldier''': ''(in Russian)'' You heard from the other teams?
+
+''Price and Soap open fire on the Konni soldiers.''
+
+'''Konni Soldier''': ''(in Russian)'' Enemy's here!; They're here! Open fire!; Got enemy here!
+
+'''Price''': Push forward! Fire for effect!
+
+'''Soap''': You heard him! Move!
+
+''A train speeds through on the tracks, killing any Konni soldiers unfortunate enough to be in its way.''
+
+'''Price''': Can't walk that one off.
+
+''More Konni troops appear.''
+
+'''Soap''': I see 'em! They're taking cover in the center platform!
+
+''Price moves up into the area by crossing the train tracks.''
+
+'''Price''': Crossing! Watch for trains.
+
+'''Soap''': Stay off the tracks!
+
+'''SFO 4''': Advancing behind you.
+
+'''Soap''': More Konni up ahead, Captain!; Got more Konni in our path, let's burn through 'em, sir!; Enemies in front. Let's press up and drop 'em!
+
+'''Konni Soldier''': ''(in Russian)'' Deploying turret!
+
+'''SFO 3''': Contact. Enemy turret!
+
+''Price destroys the turret.''
+
+'''Soap''': Turret's destroyed!
+
+'''Soap''': Move forward, let's stay together...!
+
+''Konni soldiers move up and attack the TF-141-SFO joint team.''
+
+'''Soap''': They're moving close!
+
+''Eventually, all the Konni soldiers in the area are killed.''
+
+'''Soap''': We're making progress!
+
+'''Price''': Ghost, Gaz-, troops in contact - What's your position?
+
+'''Ghost''': Pushing up the train tunnel. Got wounded civilians.
+
+'''Gaz''': No shortage of hostiles, either...
+
+'''Price''': Copy. We're moving ahead. Makarov has to be close.
+
+''Price, Soap, and their SFO teammates push up into the next area of the tunnels.''
+
+'''SFO 4''': Advancing!
+
+''The team encounters a pair of Konni [[Juggernaut (character)|juggernauts]], one of them firing on the team from up on the scaffold.''
+
+'''Soap''': Watch that Jugg!
+
+'''Price''': He's heavily armored. Take him!
+
+''Price takes down the first juggernaut.''
+
+'''Price''': Enemy Juggernaut is down!
+
+'''Soap''': Bigger they are...
+
+''Price and Soap turn their attention to the second juggernaut.''
+
+'''Soap''': We need to finish him!
+
+''Price and Soap work together to defeat the juggernaut until that one is killed.''
+
+'''Price''': He's down!
+
+'''Soap''': Time to end this!
+
+''Price narrowly misses getting hit by a speeding train.''
+
+'''Price''': That was a close one.
+
+'''Soap''': Almost there, Captain!
+
+''Price, Soap, and the SFO agents continue to encounter more Konni troops.''
+
+'''Soap''': Just a little further, Captain!
+
+''Price and Soap eliminate several more Konni troops.''
+
+'''Soap''': Only a few left!
+
+''Eventually, all the Konni troops in the area are eliminated.''
+
+'''SFO 4''': Clear!
+
+'''Price''': Soap, let's move. We don't rest until Makarov's in the dirt.
+
+'''Soap''': He's not gettin' out alive this time, sir...
+
+''Price, Soap, and the remainder of the SFO team move down the tunnel to the next area.''
+
+'''Gaz''': Gaz to Six-- Konni's pressing hard...! We're pinned down.
+
+'''Price''': Means Makarov's still here.
+
+'''Ghost''': Watch your backs. They've got shooters at every turn...
+
+'''Soap''': Roger that, L.T. No surrender!
+
+''Price, Soap, and the SFO team encounter another group of Konni soldiers in the next area by a bomb wired to detonate. The teams kill the enemy soldiers.''
+
+'''Soap''': Captain, Konni's guarding a bomb...
+
+'''Price''': I see it-- SFO, secure a perimeter!
+
+'''SFO 4''': Yes sir!
+
+''The SFO teams set up a perimeter around the bomb.''
+
+'''Price''': Soap -- Get on that bomb!
+
+'''Soap''': Aye...!
+
+''Soap moves to disarm the bomb and notices the timer.''
+
+'''Soap''': 2 minutes, sir...!
+
+'''Price''': All Bravo -- Bomb located in crossover platform! I need cover here -- NOW!
+
+'''Gaz''': Rog - Pushing your way!
+
+''Smoke grenades go off, creating a huge plume of smoke.''
+
+'''SFO 3''': Contact-
+
+'''Price''': Fuckin' hell -- Get to work, Soap...!
+
+''A group of Konni soldiers emerges from the smoke and engages the joint task force. Price and the SFO agents hold off the enemy troops while Soap works to disarm the bomb.''
+
+'''Soap''': Six, bomb is a two-man job... work with me...!
+
+''(If Price doesn't immediately move to assist Soap...)''
+
+'''Soap''': Captain, I need you with me on the bomb, now...!; Finish 'em, sir - We're running out of time, here!; We're losing time! I can't do this alone.
+
+''Eventually, Price finishes off the remaining enemy troops. However, most of the SFO agents are killed as well. Price goes to assist Soap.''
+
+'''Price''': Can we disarm it?
+
+'''Soap''': Affirm - It'll take both of us. Get a snake cam on that right side. 
+
+''Price slips a snake camera inside the bomb to reveal its inner workings.''
+
+'''Price''': I'm in. Talk to me, Soap.
+
+'''Soap:''' Bomb's dirty, Captain -- [[C4]] and radioactive powder...
+
+'''Price''': It'll implode the tunnel and hit Europe... How do we disarm it?
+
+'''Soap''': I need the manufacturer logo on the large circuit board.
+
+''At this point, the player must select the correct answer. The correct answer is a bear.''
+
+''(If Price doesn't answer immediately...)''
+
+'''Soap''': Give me something, sir - the logo on the board...
+
+'''Price''': Logo is a bear...; The logo on the circuit board is a bear.
+
+'''Soap''': Copy - Bear. Cutting the wire...
+
+''Soap cuts the wire.''
+
+'''Soap''': Got it! That bought us some time!
+
+'''Ghost''': Price, be advised: Makarov's in the chunnel - He's heading your way!
+
+'''Price''': Soap, you hear that?!
+
+'''Soap''': Affirm - I'm not leavin' this bomb, Captain...
+
+''Suddenly, gunfire rings out and a bullet hits Soap, although he still manages to hold on to the bomb. More Konni soldiers appear and kill the remaining SFO agents.''
+
+'''Soap''': Ughhh...!! I'm hit...
+
+'''Price''': SOAP--! Get your gun up...!
+
+'''Soap''': It'll blow if I let go, Captain! Cover me!
+
+'''Price''': Fuuuck... Bravo - we need suppressive fire here, NOW!
+
+'''Gaz''': We're pinned down, Cap! Konni's blocking the tunnels!
+
+'''Price''': Push through 'em!!
+
+'''Soap''': Keep 'em off me, Captain!
+
+'''Price''': Stay down, Sergeant!
+
+''Price defends Soap from Konni troops in the tunnel.''
+
+'''Soap''': Finish 'em, sir!; Clear 'em out, Captain!; I can do this, sir...! Cover me...
+
+'''Price''': On 'em...!
+
+''Price kills all but the last of the attackers.''
+
+'''Price''': One left - Almost clear!
+
+''Eventually, Price kills the last Konni soldier. However, the remaining SFO agents are dead too.''
+
+'''Price''': We're clear - Police are KIA.
+
+'''Soap''': Need you back on that snake cam, Captain!
+
+''Price returns to help Soap. He picks up the snake cam and looks at the bomb's inner workings.''
+
+'''Ghost''': 0-7 to Six - We're punching through now!
+
+'''Price''': Get here!! What's next, Soap?
+
+'''Soap''': Locate the blasting cap. Bottom lefthand corner...
+
+''Price moves the snake cam to reveal the blasting cap, although the blasting cap serial numbers are turned upside-down.''
+
+'''Price''': Copy. Blasting cap. Attached to the C4...
+
+'''Soap''': Aye. There's a serial number on it. Gimme the third number...
+
+''At this point, the player must select the correct number. The correct answer is nine.''
+
+''(If Price doesn't answer immediately...)''
+
+'''Soap''': Third number, Captain, find it...
+
+'''Price''': Number nine.; The third number is a nine.
+
+'''Soap''': Copy - good work- This bomb has two fuses! We need to cut both wires at the same time. Red wire.
+
+'''Price''': Red wire, got it.
+
+''Soap nods at Price, but then notices something behind him. He turns around just as Makarov himself storms into the room with his men and shoots Soap in the shoulder.''
+
+'''Price''': SOAP...!! 
+
+''Makarov shoots Price as well, knocking him to the ground. Makarov shouts to his men.''
+
+'''[[Vladimir Makarov (Reboot)|Makarov]]''': ''Оставайся позади - они мои.'' (Stay back - They're mine...!!)
+
+''Price looks at Soap, who lies unmoving, presumably dead or unconscious.''
+
+'''Price''': Soap...
+
+''Price reaches for the [[P890]] pistol nearby, but Makarov stomps his boot on Price's hand, pinning the captain down. Price looks up to see Makarov standing over him with his [[G18|X13 Auto]] pistol pointed at Price's head.''
+
+'''Makarov''': Take this to hell with you, Captain... Never [[Flashpoint|bury your enemies alive]].
+
+''Suddenly, Soap gets back up and stabs Makarov form behind in the shoulder. Price tries to take this opportunity to get back up as well, but Makarov twists Soap's arm and kicks Price back down, before shooting Soap straight in the head. Soap goes down as his body lifelessly hits the floor.''
+
+'''Price''': NO...!!
+
+''Gaz and Ghost arrive and open fire on Makarov and his men.'' 
+
+'''Konni Soldier''': ''(in Russian)'' Enemy's moving up!
+
+'''Konni Soldier''': ''(in Russian)'' Opening heavy fire!
+
+''A wounded Makarov retreats while his men return fire at Gaz and Ghost.'' 
+
+'''Gaz''': Captain...!!
+
+'''Ghost''': Price, Johnny...!!
+
+'''Konni Soldier''': ''(in Russian)'' I got you! Move!
+
+'''Gaz''': He's on the move!!
+
+''Price picks up the P890 and joins Gaz and Ghost in the fight.''
+
+'''Konni Soldier''': ''(in Russian)'' Slow them down!
+
+''The remaining Konni troops are killed. The player can try to shoot at Makarov as well, but a passing train will block them from doing so as well as run over one of the Konni soldiers. Makarov runs out the exit and shuts the door behind him, leaving Task Force 141 unable to pursue.''
+
+'''Gaz''': Captain! They've gone.
+
+''Ghost sees Soap's body and rushes over to check him.''
+
+'''Ghost''': Bloody hell. Johnny...!
+
+'''Gaz''': Captain - the bomb-- How do we stop it?
+
+''(If Price doesn't immediately move to assist Gaz...)''
+
+'''Gaz''': He's gone, Captain- I need you with me or it's gonna go.
+
+''(If Price still doesn't move to assist Gaz...)''
+
+'''Gaz''': 20 Seconds. Sir - the tunnel and everyone in it is dead if we don't stop this! We're out of time, cutting wire now!
+
+''(Gaz cuts the red wire, but because the other red wire was not cut at the same time, the bomb is not defused.)''
+
+'''Gaz''': Shit-!
+
+''(The bomb then explodes, destroying the tunnel and killing everyone inside; obviously, this will result in a game over.)''
+
+''Price walks over to assist Gaz with defusing the bomb.''
+
+'''Price''': Alright - Find the red wire. RED ONLY - Soap said we cut together - On "3" - Copy??
+
+'''Gaz''': Rog - On "3"...
+
+''Price takes out his wire cutters and prepares to cut the red wire.''
+
+'''Price''': 1... 2... 3!
+
+''Price and Gaz cut the red wire simultaneously. The bomb shuts off completely.''
+
+'''Gaz''': Disarmed... Disarmed. We're clear...
+
+''Price and Gaz stand up and take a moment to relax before turning their attention over to Ghost and Soap's dead body.''
+
+'''Price''': All stations - this is Bravo in the blind. Threat neutralized. Bomb is safe... One KIA...
+
+''Price, Gaz, and Ghost gather around Soap's body to mourn him.''
+
+''End of level.''
+
+''Cut to black.''
+
+== Cutscene ==
+''Laswell sits in a darkened room with only the laptop giving off any light as she types up her after-action report on the Trojan Horse operation. She highlights certain sensitive pieces of information in the paragraphs before redacting'' ''them by covering them with black ink. Makarov is listed as "INJURED" and his status and location are listed as "UNKNOWN". Next, Laswell types in John "Soap" MacTavish as the KIA.''
+
+''Cut to black.''
+
+''The scene shifts to the Scottish Highlands at sunset as Price, Gaz, and Ghost stand on a cliff overlooking the vast water.''
+
+'''Price''': He was the best of us.
+
+'''Gaz''': The toughest.
+
+'''Ghost''': He'd have fought the world bare-handed...
+
+''Ghost reaches into his backpack and takes out an urn containing Soap's cremated ashes. Price and Gaz place their hands on the urn.''
+
+'''Price''': Who dares wins... Sleep easy, soldier.
+
+'''Gaz''': See you down range, brother... We'll take it from here...
+
+'''Ghost''': Rest in peace, Johnny...
+
+''Ghost opens the urn and pours out the ashes. The trio watch as the ashes scatter into the wind before leaving.''
+
+''Cut to black.''
+
+''Roll credits.''
+
+== Post-Credits Scene ==
+''General Shepherd opens the door to his office and enters at night. He looks out the window to the Washington D.C. area before going to his desk and sitting down. He switches on the lamp and starts writing when Price, sitting in his chair, leans out of the shadows. Shepherd looks up to see him.''
+
+'''Shepherd''': John.
+
+'''Price''': General.
+
+'''Shepherd''': How did you get in here?
+
+'''Price''': Mutual friend.
+
+'''Shepherd''': Hmm... Laswell...
+
+''Shepherd reaches for his pistol strapped underneath his desk, but Price stands up to stop him with his suppressed pistol drawn.''
+
+'''Price''': Eh-eh...
+
+''Price calmly walks over to Shepherd's desk.''
+
+'''Shepherd''': You're better than this, Cap'n.
+
+'''Price''': Hmm... We both were...
+
+''Price stops in front of Shepherd's desk and faces him.''
+
+'''Shepherd''': This job is about making sacrifices for the greater good.
+
+'''Price''': Agreed.
+
+'''Shepherd''': You got a body-count o' your own, John.
+
+''Price aims his pistol at Shepherd.''
+
+'''Shepherd''': It'll come back to haunt you...
+
+''Price cocks his pistol's hammer.''
+
+'''Shepherd''': Oh, I am not gonna beg for my life. Not from you or anybody else, Cap'n.
+
+'''Price''': Wouldn't do you any good.
+
+''Price shoots Shepherd in the head and leaves the office with Shepherd slumped over his desk. The door closes behind Price.''
+
+''Cut to black.''
+
+{{CoD20 CampaignT}}
+[[Category:Call of Duty: Modern Warfare III Transcripts]]

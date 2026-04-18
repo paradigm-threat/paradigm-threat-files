@@ -1,0 +1,294 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_2_Transcripts -->
+<!-- title: The Only Easy Day... Was Yesterday/Transcript -->
+
+{{game|mw2|mw2r}}
+
+== Cutscene ==
+''The satellite tracks [[Gary "Roach" Sanderson|Sgt. Gary "Roach" Sanderson]] somewhere in the Pacific south of Hawaii, where [[Task Force 141]] is in a sub with General Shepherd.''
+
+'''[[John "Soap" MacTavish|Captain MacTavish]]''': Seems we're headed the wrong direction, Sir. Shouldn't we be coming back to the fight?
+
+'''[[Shepherd|General Shepherd]]''': Plenty of fight to go around, MacTavish. [[The Hornet's Nest|Glad you made it outta South America]]. You're meeting up with the 6th Fleet. Leadin' the counter-strike.
+
+''The satellite traces an individual known as Prisoner #627 incarcerated in a Russian Gulag near Petropavlovsk, Russia''.
+
+'''General Shepherd''': [[John Price|Prisoner Six-Two-Seven]]. We believe that's who [[Vladimir Makarov|Makarov]]'s got the mad-on for. But we can't get to him.
+
+''The satellite detects four oil rigs off the Russian east coast and locates the eastern most rig, analyzing SAM sites all around the rig and oil workers held hostage by the Russians.''
+
+'''Captain MacTavish''': [[Vikhorevka 36 Oil Platform|Oilrigs]], sir?
+
+'''General Shepherd''': Russians are using them as [[SAM]] sites. Oil workers are human shields so we can't just blow up the rigs wholesale. And this one is the least defended. Boys, I know I'm sending you into the meat grinder in this one...
+
+'''Captain MacTavish''': They're defending it, so it means we want it. Especially if it gets us to Six-Two-Seven.
+
+''The satellite locates the U.S.S. Chicago submarine below the oil rig.''
+==Gameplay==
+
+''Sgt. Gary "Roach" Sanderson and a joint task force of Task Force 141 and [[U.S. Navy SEALs/Modern Warfare|U.S. Navy Seals]] are on SDVs inside the U.S.S. Chicago.''
+
+'''[[USS Chicago|U.S.S. Chicago]]''': U.S.S. Chicago Actual to dry-dock shelter, we have a go.
+
+'''Dry-Dock Shelter''': DDS hangar flooded, full pressure.
+
+'''U.S.S. Chicago''': Begin deployment.
+
+''Team One is launched from the U.S.S. Chicago.''
+
+'''Dry-Dock Shelter''': Team One SDV is away.
+
+'''U.S.S. Chicago''': [[Hotel Team|Hotel Six]], bearing zero one-niner.
+
+''They pass the U.S.S. Dallas.''
+
+'''[[USS Dallas|U.S.S. Dallas]]''': U.S.S. Dallas deploying Team Two. RV at the objective.
+
+''U.S.S. Dallas launches Team Two.''
+
+'''U.S.S. Dallas''': Hotel Six, depth 20 meters.
+
+''One member from Team Two gives a thumbs up at the guy in front of Roach, who responds. Both SDVs arrive at the oil rig.''
+
+'''U.S.S. Dallas''': Team Two at the objective.
+----
+'''["The Only Easy Day... Was Yesterday"]'''
+
+'''[Day 5 - 05:48:43]'''
+
+'''[Sgt. Gary "Roach" Sanderson]'''
+
+'''[Task Force 141]'''
+
+'''[<nowiki/>[[Vikhorevka 36 Oil Platform]], Russia]'''
+----
+''The guy in front signals Roach as TF-141 members and Navy SEALs begin to surface. Roach and Captain MacTavish reach the surface. They see two guards on the platform who are talking to each other.''
+
+'''Guard 1''': Хватит курить эту дрянь. Лёгкие посадишь. (You smoke too much. Your lungs are gonna go bad.)
+
+'''Guard 2''': Отвали. (Fuck off.)
+
+'''Guard 1''': Чёрт, поделись хоть! (Damn it, share it though!)
+
+'''Guard 2''': Хватит ныть, а? (Enough whining, eh?)
+
+'''Guard 1''': Эх, ненавижу морской воздух... (Oh, I hate the sea air...)<ref>This dialogue has continued, in which a security guard 1 complains of Chechens who have joined their squad. But it is pronounced with the accent that parse anything is impossible, so the continuation is not presented here. Security guard 2 answers like: "Нужно быть осторожнее с этими ребятами. Они тоже ненавидят это государство. Хорошую работу трудно найти в эти дни (You need to watch out with those guys. They also hate our government. It's hard to find a good job nowadays)". The oilrig.gsc file has fully translated dialogue, though judging by its content and how it describes the guards as being German mercenaries it is doubtful that this translation has any relation to the actual ingame dialogue:
+
+*//ENEMY COMMAND (German radio): Team one patroling (sic) the perimeter. We've got two on the lower deck.
+
+*//ENEMY COMMAND (German radio): Switch patrols at 08:00. Teams three, five and seven will return to the crew quarters on deck 3.
+
+*//MERC 1 (in German): Those unfiltered pieces of shit will kill you.
+
+*//MERC 1 (in German): Alright, give me one.
+
+*//MERC 2 (in German): Fuck off.
+
+*//MERC 1 (in German): This sea air makes me sick. Preferred the last job. Private security in a limo all day.
+
+*//MERC 2 (in German): You complain too much.
+
+*//MERC 1 (in German): yeah, well, not as much as the Italians. Who hired those lazy fucks anyways? Did you see that one guy the other day? Didn't even know how to clean his gun.
+
+*//MERC 1 (in German): Yeah, too much spent on gear but no clue how to use it.
+
+*//You know what they call a cheeseburger in Russian?
+
+*//You've got to be kidding me. You think this is a Tarantino movie or something?
+
+*//(laughs) Alright, well at least the Russians pay well. I was hesitant to take the job till I saw the bottom line. I don't know where their financing comes from, but I don't really care either. Still...they're pretty damn secretive.
+
+*//As long as I get paid, I could care less. They can be as secretive as they like. It's none of my business what their politics are.
+
+*//(YAWNS) How much longer until the patrol changes. I've gotta take a piss.
+</ref>
+
+'''Captain MacTavish''': In position... on your go.; In position. Let's take them out together... on your go.; We'll take them out at the same time... on your go.; We'll take them out together... on your go.
+
+''They drag the two guards underwater and kill them. They are helped up by the SEALs onto the platform.''
+
+'''Captain MacTavish''': Two hostiles down in section One-Alpha. Moving up to section Two.
+
+'''[[Sub Commander]]''': Roger that, Hotel Six.
+
+''Team One moves up to Deck One.''
+
+'''Captain MacTavish''': Keep it tight people. Ready weapons. Move up.
+
+''They spot an enemy leaning on the rail while taking a smoke.''
+
+'''[[Simon "Ghost" Riley|Ghost]]''': Got a visual by the railing.
+
+'''Captain MacTavish''': Free to engage. [[Silencer|Suppressed]] weapons only.
+
+''The enemy is shot and falls into the sea.''
+
+'''Ghost''': We're clear.
+
+'''Sub Commander''': Civilian hostages at your position, watch your fire.
+
+'''Captain MacTavish''': Roger that. Team One moving to breach.
+
+''They plant [[Breaching Charge|breaching charges]] on the doors of the first room. The charges explode and the team moves into the room.''
+
+'''Guard''': Убейте их! (Kill them!); Противники!!! ОГОНЬ!!! (Enemies!!! FIRE!!!); Убить их всех!!! Казнить их всех!!! (Kill them all!!! Execute them all!!!)
+
+''In slow motion, Roach kills the guards and the room is clear (kill 4 enemies with 4 shots during breach to get achievement: "[[Knock-knock]]").''
+
+'''Ghost''': Clear.
+
+'''Captain MacTavish''': We're clear. Hostages secured in section Two-Echo.
+
+'''Sub Commander''': Roger that Hotel Six, Team 2 will secure and evac, continue your search topside.
+
+'''Captain MacTavish''': Ok, moving upstairs. Control - We're advancing to Deck Two.
+
+''If the player stays for a little while:''
+
+'''TF-141 Soldier''': Get topside, we got this area covered.
+
+''They move up the stairs to Deck Two.''
+
+'''Captain MacTavish''': Eyes open. Watch your sectors.
+
+'''Sub Commander''': Enemy helo patrolling the perimeter. Keep a low profile, Hotel Six.
+
+'''Captain MacTavish''': Roger that.
+
+''An enemy [[MH-6 Little Bird|Little Bird]] flies around.''
+
+'''Captain MacTavish''': Enemy helo, get out of sight.
+
+'''Ghost''': Enemy helo. Get down.
+
+''They hide as it flies past.''
+
+'''Captain MacTavish''': Ok, move.; Move.; Clear, go.
+
+''They reach another room.''
+
+'''Sub Commander''': Hotel Six, more hostages are at your position.
+
+'''Captain MacTavish''': Copy that.
+
+''The team moves up to the next room. They breach...''
+
+'''Guard''': Убейте их! (Kill them!); Противники!!! ОГОНЬ!!! (Enemies!! FIRE!!!); Убить их всех!!! Казнить их всех!!! (Kill them all!!! Execute them all!!!)
+
+''...and clear the room.''
+
+'''Ghost''': Clear.
+
+'''Captain MacTavish''': Clear. Control - all Deck Two hostages secured.
+
+''Russian is heard on the radio.''
+
+'''Radio''': Группа 5, приём. Ответьте Базе. Ваня, ты там? Ответь Базе! Высылаем группу вниз. (Group 5, . Respond to base. Vanya, are you there? Respond to base! We send a group down.)
+
+'''Ghost''': Enemy radio.... I think we're going to have company sir...
+
+'''Captain MacTavish''': Set up for Plan B. Get some [[C4]] on those bodies, go.
+
+''If the player stalls...''
+
+'''Captain MacTavish''': Get that C4 planted ASAP. We don't have much time.
+
+''They plant C4 on the dead bodies. Ghost plants some on the wall as an added measure.''
+
+'''Ghost''': C4 placed, sir.
+
+'''Captain MacTavish''': Get to an elevated position. We'll ambush them when they discover the bodies.
+
+''They position themselves as the patrol arrives.''
+
+'''Captain MacTavish''': There's the patrol. Hold your fire until they're closer. Standby.... Standby....
+
+''The patrol enters the room and discovers what had happened. Loud chatter is heard on their radio.''
+
+'''Captain MacTavish''': Plan B. Do it.
+
+''Roach detonates the C4. An alarm sounds. The team engages the enemy.''
+
+'''Captain MacTavish''': Control, this is Hotel Six. Our cover is blown.
+
+'''Sub Commander''': Copy that, intel still indicates hostages and possible explosives on the top deck. Your team needs to secure that location before we can send in reinforcements to handle the SAM sites, over.
+
+'''Captain MacTavish''': Roger that. Will call for exfil in LZ Bravo. (To the team) CentCom needs us to take the top deck ASAP so they can send in the Marines. Move.
+
+''They continue to engage the enemy.''
+
+'''Captain MacTavish''': Move.
+
+''They clear the deck of hostiles and move up a flight of stairs. On the water below, two Zodiacs depart from the rig carrying the rescued hostages along with TF141 members and Navy SEALs as guards.''
+
+'''Sub Commander''': Hotel Six, hostages from the lower decks are being extracted by Team 2. Proceed to the top deck ASAP to secure the rest, over.
+
+'''Captain MacTavish''': Copy that, we're working on it. Out.
+
+''They encounter enemy reinforcements. The enemy Little Bird shows up.''
+
+'''Ghost''': Attack heli 12 o'clock, find some cover!; Enemy helo! Take cover! Take cover!
+
+''[or]''
+
+'''Ghost/Captain MacTavish''': Enemy helicopter! Get down, get down!
+
+''The Little Bird's guns start to spin. Roach shoots it down (the player can use either an [[AT4]] or his [[M203]]).''
+
+'''Ghost''': Nice shot, Roach.; Enemy helo neutralized.; That helo is history. Nice shot.
+
+'''Captain MacTavish''': The clock's ticking. We need to get topside and secure any remaining hostages before we call in the Marines.
+
+''They push through around the rig.''
+
+'''Captain MacTavish''': Split up. We can flank through these hallways.
+
+''MacTavish goes up the stairs while Ghost moves on below. They eliminate foot-mobiles on the way to the top deck.''
+
+'''Captain MacTavish''': Move up. Let's go! Those hostages aren't going to rescue themselves.
+
+''On the top deck, enemies pop [[Smoke Grenade|smoke]].''
+
+'''Ghost''': Smokescreen.; Enemy's popping smoke.; Hostiles are popping smoke.
+
+'''Captain MacTavish''': These guys have thermal optics. Stay clear of the smoke.; All teams be advised: these guys are a step up - they're using thermal to see through the smoke.
+
+''They engage the enemy in a [[Thermal Scope|thermal scope]] shootout within the smoke.''
+
+'''Sub Commander''': Hotel Six, be advised, hostages have been confirmed at your location along with possible explosives, over.
+
+'''Captain MacTavish''': Copy that. All teams check your fire - we don't know what's behind these doors.
+
+''They eliminate enemy foot-mobiles and push through the smoke. They reach the room.''
+
+'''Captain MacTavish''': Get a frame charge on the door. We'll hit the room from both sides.
+
+''They breach and clear the room, taking extra care not to hit any of the explosive barrels strapped with C4 or the C4 strapped to the hostages as explosive bandoliers.''
+
+'''Ghost''': Clear.
+
+'''Captain MacTavish''': Room clear. Control, all hostages have been secured. I repeat - all hostages secured. proceeding to LZ Bravo... Over.
+
+'''Sub Commander''': Good job, Hotel Six. Marine reinforcements are inserting now to dismantle the SAM sites. Get your team ready for phase two of the operation. Out.
+
+'''Phoenix 1-1''': Punisher, this is Phoenix 1-1. Flight of 2 F-15s enroute to grid 257221. Proceed with mission. Requesting sitrep, over.
+
+'''[[Punisher]]''': Phoenix 1-1, Punisher, Blue Sky. I repeat: Blue Sky. Come to heading 240 and continue on course to target area. Good hunting, over.
+
+'''Phoenix 1-1''': Phoenix 1-1 copies, out.
+
+''As the hostages are secured, they come out of the room and rally at LZ Bravo where two [[F-15 Eagle|F-15s]] fly overhead en route for a fire mission. The TF-141 team begins to boards Little Bird helicopters that land on the platform. Roach boards and pulls out his [[M14 EBR]] [[Sniper Scope|Scoped]] (After boarding a Little Bird, MacTavish gives Roach an M14 EBR Scoped in the Remastered version). As they take off, Punisher begins to speak via the radio.''
+
+'''Punisher''': Punisher to all flights in the vicinity of grid 255202, local airspace is secure. I repeat, local airspace is secure. Proceed on course to target area on route November-Two.
+
+''Marines begin to rope down from [[UH-60 Blackhawk|UH-60 Blackhawks]] all over the oil rig.''
+
+'''Marine''': I want these SAMs secured in five! Let's go! Move, move!
+
+'''Hunter Actual''': Punisher, this is Hunter Actual, Hunter Two-Two is moving to secure the SAM site at the south-west corner of main deck. Hunter Two-Three is proceeding toward the nearest building to disarm the explosives.
+
+'''Punisher''': Punisher Actual to all strike teams. All SAM sites neutralized. Repeat, all SAM sites have been neutralized. Blue Sky in effect.
+
+''As the 141 fly from the oil rig, additional Little Birds carrying more men fly along with them.''
+
+<references />
+{{CoD6 CampaignT}}

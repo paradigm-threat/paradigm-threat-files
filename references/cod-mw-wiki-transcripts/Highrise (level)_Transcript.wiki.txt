@@ -1,0 +1,454 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_III_Transcripts -->
+<!-- title: Highrise (level)/Transcript -->
+
+{{game|1=mwiii}}
+== Cutscene ==
+''[[Vladimir Makarov (Reboot)|Vladimir Makarov]] and [[Andrei Nolan]] exit an interrogation room filled with dead [[Shadow Company (Reboot)|Shadow troops]]. They walk down a hallway while conversing in Russian about [[Milena Romanova|Milena's]] [[Oligarch|interrogation]].''
+
+'''Andrei Nolan''': Даже Shadow можно сломать. (Even Shadow breaks).
+
+'''Vladimir Makarov''': Сломать можно кого угодно. (Everyone breaks).
+
+'''Andrei Nolan''': Если не Shadow добрались до Милены, то кто...? (If Shadow didn't get to Milena, who did...?)
+
+'''Vladimir Makarov''': [[John Price (Reboot)|Прайс]] и вся его [[Task Force 141 (Reboot)|королевская рать]]. ([[John Price (Reboot)|Price]] and his [[Task Force 141 (Reboot)|royal minions]].)
+
+'''Andrei Nolan''': Не без помощи Shadow. (With a little help from Shadow).
+
+'''Vladimir Makarov''': Это просто взаимовыгодные отношения, уверяю тебя. (That relationship is strictly transactional, I can assure you).
+
+'''Andrei Nolan''': Нам нужно немедленно проработать информацию полученную от пленного... Поручите это мне. (The information we obtained from [[Herschel Shepherd|the captive]] needs to be actioned immediately... Let me handle it).
+
+''Makarov and Nolan step out onto the roof of a high-rise building in St. Petersburg. A helicopter nearby is heard preparing to take off.''
+
+'''Vladimir Makarov''': Нет. Ты мне нужен здесь... (latin) Divide et impera... Раз они нашли Милену, то они могут найти и нас. (No. I need you here... Divide and conquer... If they found Milena, they could find [[Konni Group|us]]).
+
+'''Andrei Nolan''': А Вы думаете им что-то ещё известно? (You think they know more?)
+
+'''Vladimir Makarov''': Считай, что известно и обезвредь их. (Assume they do and make sure they don't).
+
+'''Andrei Nolan''': Если они придут, то мы их встретим. (If they come, we'll be ready to meet them).
+
+'''Vladimir Makarov''': Я хочу, чтобы все знали, что мы не перед кем не остановимся... Мужчины они, женщины или дети. Ясно?(I want everyone to know that we won't be stopped by anyone... Men, women, or children. Is that clear?)
+
+''Andrei looks at Konni troops securing the bomb in a helicopter briefly before looking back at Makarov.''
+
+'''Andrei Nolan''': Предельно ясно. (Crystal clear).
+
+'''Vladimir Makarov''': Если разведданные от нашего друга Shadow подтвердятся -- ты первый об этом узнаешь. (If the intel from our Shadow friend is good -- You'll be the first to know).
+
+'''Andrei Nolan''': А если нет? (And if it isn't?)
+
+''Makarov enters the helicopter and sits down facing Nolan.''
+
+'''Vladimir Makarov''': Убей его, блядь... (Fucking kill him...)
+
+''The helicopter takes off with Makarov onboard and flies off into the night skies.''
+
+''The scene shifts to the mission briefing screen. A headshot of Romanova appears.''
+
+'''[[Johnny "Soap" MacTavish|Soap]]''': We broke Romanova.
+
+'''Price''': How?
+
+''A list of financial banking groups is displayed.''
+
+'''[[Kate Laswell|Laswell]]''': Enhanced financial interrogation.
+
+'''[[Kyle "Gaz" Garrick|Gaz]]''': [[Herschel Shepherd|Shepherd's]] intel paid off.
+
+'''Laswell''': It's our intel now...
+
+'''Price''': What do we have that's actionable?
+
+''The globe shifts to a spot on the map indicating St. Petersburg.''
+
+'''Laswell''': One of Romanova's many shell companies purchased an abandoned apartment complex in St. Petersburg for the Konni group.
+
+'''Gaz''': When?
+
+'''[[Simon "Ghost" Riley (Reboot)|Ghost]]''': Recently.
+
+''A list of money transactions appears next.''
+
+'''Price''': Probably a Konni outpost.
+
+'''Ghost''': That'd be my bet, Captain.
+
+''The map zooms in on the aforementioned apartment complex.''
+
+'''Laswell''': I located the building.
+
+''Satellite images reveal a recovery balloon in the sky.''
+
+'''Laswell''': Recent Sat-imagery shows a recovery balloon on the roof.
+
+'''Gaz''': Only good reason for that is quick removal of something you don't want found.
+
+''Makarov's mugshot is displayed.''
+
+'''Soap''': Or someone...
+
+''Images of the apartment complex show up next.''
+
+'''Laswell''': The complex is a maze.
+
+''Tabs of Price and Gaz are revealed on the apartment complex with "OVERWATCH" and "EXTRACTION", respectively.''
+
+'''Price''': Gaz'll sweep from the bottom up. I'll overwatch the rooftop with fire support.
+
+'''Gaz''': How do we extract?
+
+'''Laswell''': Helo's too risky. You boys catch anything worth bringing home, Nik'll pull you out via fixed wing.
+
+''An image of [[Nikolai (Reboot)|Nikolai's]] plane is displayed.''
+
+'''Gaz''': The balloon...
+
+'''Price''': Skyhook.
+
+'''Laswell''': If Makarov's there. Get him, Bravo...
+
+''The scene shifts to a POV of a surveillance drone over the apartment complex. The drone spots armed groups of Konni soldiers on the roof.''
+
+'''Price''': Six to Watcher - drone is up, you should have visual.
+
+'''Laswell''': Eyes on, John.
+
+'''Price''': Got multiple Konni troops on the roof of the north building.
+
+''The drone zooms in on Nolan briefing his men with a map.''
+
+'''Price''': No sign of Makarov.
+
+'''Laswell''': Who's our boy holding court?
+
+''The camera zooms out from the tablet screen of the drone's POV to reveal Price on the roof of a nearby building.''
+
+'''Price''': He appears to be in charge.
+
+'''Laswell''': I'll run it down. See if we can identify him.
+
+'''Price''': Copy. Gaz - you in position?
+
+== Gameplay ==
+'''Laswell''': Check - let's see who and what we find here. Do not leave empty-handed. Watcher out.
+
+''Gaz moves to cover at a corner wall inside the apartment complex.''
+
+'''Gaz''': Affirmative - Good to go...
+
+'''KYLE "GAZ" GARRICK - TF-141, [[Central Intelligence Agency|CIA]]'''
+
+'''HIGHRISE'''
+
+'''SAINT PETERSBURG, [[Russia/Modern Warfare|RUSSIA]]'''
+
+'''13 NOVEMBER 2023, 1100'''
+
+'''Price''': Gaz, press up - Let me know when you're at the elevator shaft.
+
+'''Gaz''': Rog - on the move.
+
+''Gaz equips his [[Remington 870 MCS|Lockwood 680]] shotgun and makes his way to the elevator shaft. He encounters a lone Konni guard in front of the shaft and kills him.''
+
+'''Gaz''': Cap - At the elevator shaft. Got a ladder here.
+
+'''Price''': Copy - use it./Take advantage of any [[Ascender|ascenders]] you find. It'll save you some time.
+
+'''Laswell''': Bravo -- Got a hit on our HVI. Name's Andrei Nolan. Goes back to the [[Inner Circle]] days with Makarov. High up the Konni food chain.
+
+'''Gaz''': Sounds like a guy I'd like to chat with. Copy - how do we extract him?
+
+'''Price''': Alive- - I'll secure exfil, meet you up top.
+
+''Gaz climbs up the ladder inside the shaft until he reaches the next floor above.''
+
+'''Price''': 2 -- seeing hostiles moving on your floor.
+
+'''Konni Soldier''': We've already cleared this hall. No one's down here.
+
+'''Konni Soldier''': Then, we clear it again. Nolan's orders.
+
+''Gaz deals with the Konni soldiers on the floor.''
+
+''(Every time Konni soldiers become suspicious of unusual activity...)''
+
+'''Konni Soldier''': I heard a noise...; I heard something...
+
+''(Every time Gaz alerts the enemy to his presence...)''
+
+'''Konni Soldier''': All units!; Found 'em!; All units! Enemy! My position!; Enemy's right here!; Contact! Enemy!; Enemy! My position!; Enemy!; Enemy's here!
+
+'''Price''': They're calling reinforcements! Clear them out and move! Now!
+
+''(Every time Konni soldiers engage in combat...)''
+
+'''Konni Soldier''': He's in the container!; Behind us!; Attacking from the rear!; Moving behind the enemy!; Repositioning behind the enemy!; Popping smoke!; Smoke out!; Dump 'em!; Go hot!; You're cleared hot!; Start smokin' 'em!; Engage!; Give 'em some!; Take him out!; Shoot him!
+
+'''Price''': Enemies to the right.
+
+''(Every time Gaz kills an enemy soldier...)''
+
+'''Gaz''': Erased.; Nap time.; Goner...; Lights out, lad...; He's toasted.; R.I.P. - asshole.; Lead poisoning.
+
+''(Every time Konni soldiers search for Gaz...)''
+
+'''Konni Soldier''': ''(in Russian)'' Where are they?!; Where the fuck're they at?!; Does anyone have eyes on the intruder?; Does anyone have a visual?!
+
+''(If Gaz alerted the enemy to his presence earlier...)''
+
+'''Price''': Keep alert, Gaz - they're looking high and low for you...
+
+''Gaz proceeds down the hall to a stairway.''
+
+'''Price''': Hostiles coming down the stairs.; Gaz, you got hostiles on the stairs. 
+
+'''Konni Soldier''': Heading to level 5!
+
+''Gaz can descend down the stairwell to find a supply cache.''
+
+'''Gaz''': Jackpot. More gear in here.
+
+'''Price''': Take what you need. Konni won't have much use for it when we're done with 'em...
+
+''At this point, Gaz can take an alternate route through the complex that leads him outside.''
+
+'''Price''': Taking the scenic route?
+
+'''Gaz''': I like to be thorough.
+
+''(If Gaz doesn't move immediately...)''
+
+'''Price''': Clock's tickin', Garrick.; Step it up, Sergeant - target's still on the roof.
+
+''Gaz eliminates the soldiers in his way and moves up the stairs to the 6th floor.''
+
+'''Gaz''': Moving up to the sixth floor.
+
+'''Price''': You're halfway there, Gaz.
+
+''(If Gaz alerted the enemy to his presence up to this point...)''
+
+'''Konni Leader''': All soldiers, enemy is inside the perimeter. You are cleared to kill. Take them out. Hold your position at all costs.; An enemy has breached the perimeter and is extremely dangerous. Kill them on sight. Hold your position at all costs.; All soldiers, perimeter is compromised. You are cleared to kill on sight. Hold your position at all costs.
+
+''Gaz kills more Konni troops.''
+
+''(If Gaz remained stealthy up to this point...)''
+
+'''Gaz''': Knee deep in Konni here, sir- Won't be a walk in the park...
+
+'''Price''': Never is.
+
+''(If the enemy is on high alert up to this point...)''
+
+'''Gaz''': The place is crawling with Konni, sir!
+
+'''Price''': I'll cover where I can. You got this, Garrick.
+
+''(Every time Gaz moves outside...)''
+
+'''Gaz''': Heading outside.; Moving outside the structure.; ''(If alerted...)'' Heading outside!
+
+''Gaz reaches a stairwell leading up to the seventh floor, but the stairs are blocked.''
+
+'''Gaz''': Stairs are blocked!
+
+''Gaz makes his way up to the seventh floor.'' 
+
+'''Gaz''': Going up to the seventh floor.; On the 7th floor.
+
+'''Price''': Keep pushin'/pushing.
+
+''Nolan's voice rings over the comms.''
+
+'''Nolan''': Внимание! Всем подразделениям [All personnel], the enemy is located on the sixth floor. Find him and kill him.
+
+'''Price''': Nolan has alerted his team, they know we're/you're coming.
+
+''Gaz notices the booby traps set up throughout the complex.''
+
+'''Gaz''': There are traps everywhere.
+
+'''Price''': If you get close, you can disable them.
+
+''(If Gaz gets too close to a trap...)''
+
+'''Price''': Gaz- Keep watch for [[Claymore|claymores]].; Stay frosty for claymores in there.
+
+''Nolan can be heard above ordering his men around.''
+
+'''Nolan''': We have a schedule to keep! Let's go!; Keep it moving - we leave before sundown.; We'll meet our ground team at the target.
+
+''Eventually, Gaz reaches the eighth floor of the complex.''
+
+'''Gaz''': Pressing up to eight now.
+
+'''Price''': Few more to go. Let's get this guy.
+
+''(If Gaz finds an ascender rope he can use...)''
+
+'''Gaz''': Got an ascender rope!; Found an ascender rope, here...
+
+'''Price''': That'll save you a hike.
+
+''Gaz reaches the ninth floor.''
+
+'''Gaz''': Ascending to the ninth floor./On the 9th floor.
+
+'''Price''': Nearly there, Gaz./Copy that.
+
+''Gaz reaches the eleventh floor.''
+
+'''Gaz''': Moving to the 11th floor.
+
+'''Price''': Check./Copy that.
+
+''Gaz reaches a cargo container hanging across the gap between him and Price.''
+
+'''Gaz''': Found a shortcut. 
+
+'''Price''': Gaz, you got one on top of you!
+
+'''Gaz''': Appreciate the cover, boss.
+
+'''Price''': Rog.
+
+''Gaz makes it across the container to the other side of the complex.''
+
+'''Price''': Gaz, you're almost to the roof. Expect heavy resistance.
+
+''Gaz continues on his way to the roof, encountering Konni soldiers. He reaches a hole in the wall with a balcony leading outside.''
+
+'''Price''': Threats, your left, Gaz.
+
+''Gaz steps out onto the balcony with an enemy behind him.''
+
+'''Price''': Enemies behind you.
+
+'''Gaz''': Solid shots, Six.
+
+'''Price''': Copy - Comin' your way now, Gaz.
+
+''Price and Gaz meet up.''
+
+'''Price''': Light up everything that moves - But we take Nolan alive.
+
+'''Gaz''': Check...
+
+''Price and Gaz make it to the roof and spot Nolan in the distance preparing his men to fight.''
+
+'''Gaz''': Eyes on Nolan. Be advised - Target is heavily armored, Cap.
+
+'''Price''': Check- Shoot to incapacitate - Do not kill this bastard...
+
+'''Gaz''': You're a buzz-kill, sir.
+
+'''Nolan''': Get on those perches! Extraction teams are inbound! Let's get this done!
+
+''Price and Gaz open fire on Nolan and his team.''
+
+'''Nolan''': There he is! Bring him down! Charlie Team, this is 2-1. I want reinforcements in here, now! Hostiles on the roof! All units, hostiles on the roof! All teams, we've got hostiles on the roof! I count two hostiles! Light 'em up! We hold this roof until they're both dead!!
+
+''Price and Gaz continue killing more of Nolan's men.''
+
+'''Laswell''': Watcher to Bravo. Watcher to Bravo - Be advised: Radar's picking up enemy helos incoming to your location.
+
+'''Price''': Copy that. Gaz, let's get a move on.
+
+''Price and Gaz pursue Nolan as he retreats further away to the farthest corner of the roof. Konni troops use [[Smoke Grenade|smoke grenades]] to cover their movements.''
+
+'''Price''': They're throwing smoke!
+
+''Eventually, Price and Gaz eliminate the last of the soldiers.'' ''Gaz opens fire on Nolan long enough to wound him.''
+
+'''Gaz''': Six -- Target is down.
+
+'''Price''': Copy - HVI down. Clean work, Gaz.
+
+''Gaz approaches Nolan.''
+
+'''Gaz''': Got eyes on Andrei Nolan, Makarov's number two. He's down.
+
+'''Price''': Gaz, move to secure. If he's still alive, he's still dangerous...
+
+''(If Gaz hasn't secured Nolan, yet...)''
+
+'''Price''': Take him alive - we need what's in his head.
+
+'''Nolan''': Finish what you started, soldier. Come closer, admire your work. Don't keep me waiting, you fucking fuck!
+
+'''Price''': Watcher, securing HVI. Calling for exfil. Rooftop - Southeast corner of the building...
+
+''Gaz grabs Nolan as the latter painfully grunts.''
+
+'''Nolan''': Heh-heh-heh... There he is... Kill me... I won't help you.
+
+'''Gaz''': That's what they all say.
+
+'''Nolan''': Пошёл ты на хуй... Пошли вы все на хуй, блядь... (Fuck -- you... Fuck all of you...)
+
+''Nolan spits at Gaz.''
+
+'''Price''': I can see his mouth moving from here. Shut him up.
+
+''Gaz punches Nolan in the face and knocks him out unconscious. Gaz then carries him on his shoulders. Kooni helicopters arrive in the area and deploy more enemy soldiers.''
+
+'''Price''': Gaz, we got enemy helos converging on the roof.
+
+'''Gaz''': Bravo to Watch - Target secure. We're Oscar Mike for extract.
+
+'''Laswell''': Copy that, Yankee inbound, two mikes. Prep for skyhook.
+
+'''Gaz''': Copy.
+
+'''Price''': Let's hope we got enough mags to hold 'em off until Nik gets here.
+
+''Gaz lowers Nolan to the ground and helps Price fight off the reinforcements.''
+
+'''Gaz''': They really want their boss back.
+
+'''Price''': Well, they can't have him.
+
+''After dispatching the first wave of enemies, Gaz picks up Nolan and follows Price to the recovery balloon that is tethered to the roof.''
+
+'''Price''': Latch the target up to that line.
+
+''Gaz latches Nolan to the balloon's line. More Konni helicopters arrive with the second wave of soldiers.''
+
+'''Price''': More helos inbound. Keep our HVI secure.
+
+'''Nikolai''': Skyhook two clicks out!
+
+'''Price''': Helos are dropping more reinforcements.
+
+''Gaz helps Price hold off the enemy soldiers on the roof.''
+
+'''Nikolai''': Skyhook one click out!; Skyhook two mikes out!; Skyhook one mike out!
+
+''Yet again, Konni helicopters arrive in the area and deploy a third and final wave of enemy reinforcements.''
+
+'''Price''': We're about to be overrun!
+
+'''Nikolai''': Yankee coming on station, stay near the exfil point.
+
+''Eventually, Nikolai arrives in the area with his plane.''
+
+'''Nikolai''': Skyhook imminent! Bravo, hook yourselves in!
+
+''Gaz grabs the latches.''
+
+'''Gaz''': We're set, sir./Ready, Cap.
+
+''Price sets his riot shield down.''
+
+'''Price''': Neat and complete, Kyle!- Hold tight!/Job well done, Sergeant! Hang tight!
+
+''Gaz looks up at the sky and sees Nikolai's plane flying overhead as it catches the balloon line and hauls up Price, Gaz, and Nolan into the air. They fly away from the complex.''
+
+''End of level.''
+
+''Fade to black.''
+
+{{CoD20 CampaignT}}
+[[Category:Call of Duty: Modern Warfare III Transcripts]]

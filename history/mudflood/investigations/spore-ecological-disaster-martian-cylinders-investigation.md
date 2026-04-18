@@ -1,6 +1,6 @@
 # Investigation: Spore / aerial biological disaster — post–MFEE ecology, sanitization, Martian cylinders, and fiction parallels
 
-> **TL;DR:** This note assembles an **investigative frame** (not a single proved mechanism) for **spore-like or aerial biological shocks** after the [MudFlood Energetic Event](/timeline/evt-the-mudflood-world-cataclysm) (MFEE): **sanitization** of surface locations, hypothetical **Martian cylinders** carrying **non-terrestrial** plant/animal life, and **cross-planetary contamination** as a recurring theme in **predictive programming** and **redacted-history** fiction. *The Burning World* is developed as **Mars-scale drought encoded as Earth** ([§I](#i-j-g-ballard--the-burning-world-1964--the-drought-1965-earth-as-redacted-fiction-cover-for-mars--drought-ecology-not-spore-primary)); **official space-agency Mars narratives are not treated as authoritative here** — same skepticism as for managed fiction ([§B](#b-predictive-programming--redacted-history--citations)). Cross-references: [blood rain, dust, and ecological shocks](/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md), [American chestnut blight](/timeline/evt-american-chestnut-blight-martian), [predictive programming — literature](/timeline/evt-predictive-programming-literature). **§M** is the master register; **§N–P** contrast PP readings and trace lineage.
+> **TL;DR:** This note assembles an **investigative frame** (not a single proved mechanism) for **spore-like or aerial biological shocks** after the [MudFlood Energetic Event](/timeline/evt-the-mudflood-world-cataclysm) (MFEE): **sanitization** of surface locations, hypothetical **Martian cylinders** carrying **non-terrestrial** plant/animal life, and **cross-planetary contamination** as a recurring theme in **predictive programming** and **redacted-history** fiction. *The Burning World* is developed as **Mars-scale drought encoded as Earth** ([§I](#i-j-g-ballard--the-burning-world-1964--the-drought-1965-earth-as-redacted-fiction-cover-for-mars--drought-ecology-not-spore-primary)) and, in [§I.6](#i6-cascading-martian-collapse-phased-dieoffs-biomass-pulses-terrestrial-analogues), as the **late-phase hydrology** of a **~200-year-order cascading Martian ecological collapse** whose **earlier phases** may have fed **fossil** narratives, **famine/war** dieoffs, and **successive** biota loss — each phase a candidate for **atmospheric biomass** and **propagule** surges (termite–dead-log analogy). **Official space-agency Mars narratives are not treated as authoritative here** — same skepticism as for managed fiction ([§B](#b-predictive-programming--redacted-history--citations)). Cross-references: [blood rain, dust, and ecological shocks](/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md), [American chestnut blight](/timeline/evt-american-chestnut-blight-martian), [slow ecological collapse — MFEE through Donner](/history/chronology/investigations/slow-ecological-collapse-mfee-through-donner-era.md), [predictive programming — literature](/timeline/evt-predictive-programming-literature). **§M** is the master register; **§N–P** contrast PP readings and trace lineage.
 
 ## Status
 
@@ -19,6 +19,8 @@
 3. **Martian cylinders** (Wells + paradigm-threat Mars line): physical **incursion** vehicles double as **unsterile sample return** — any closed environment carrying **Martian** flora/fauna is a **ballistic seed/spore reservoir** if breached on Earth.
 
 **Cross-link to blood rain:** Red or “organic” rain episodes can be read (in the alternate frame) as **atmospheric washout** of **mixed mineral + biological** debris — same **instrument class** as spore storms, different **particle size and pathology**.
+
+**Why *The Burning World* belongs beside spore-primary fiction:** Ballard’s novel is **not** lexically spore-driven, but this file treats **Mars** as having undergone a **long, phased ecological collapse** (order of magnitude **~200 years** — not a fixed calendar). *Burning World* then encodes a **late** phase — **global drought** / **failed water cycle** — while **spore storms**, **blood rain**, and **invasive** episodes are read as **other phases** or **feedback pulses**: each mass dieoff adds **substrate** and **selection pressure** for **fast-cycling** microbes, **sporulating** fungi, and **aerial** **propagule** export. The **termite on a dead log after rain** model (local boom → **swarm** into the air) is the **intuitive analogue** developed in [§I.6](#i6-cascading-martian-collapse-phased-dieoffs-biomass-pulses-terrestrial-analogues).
 
 ---
 
@@ -40,7 +42,7 @@
 
 ### C.3 Lexicon scan — *Dragonflight* text (EPUB extract)
 
-- `**spore` (whole word):** **none** — McCaffrey does not use mycological *spore* for the menace; she uses **Thread** / **silver threads**, **Dust Fall**, and **char** (dragon flame vs falling Thread).
+- **`spore` (whole word):** **none** — McCaffrey does not use mycological *spore* for the menace; she uses **Thread** / **silver threads**, **Dust Fall**, and **char** (dragon flame vs falling Thread).
 - `**Thread`:** pervasive — including ballad lines (“When **Threads** are in the sky”), **Part III** title **Dust Fall**, and the prologue’s “**silver threads**” / bridge from the **stranger-planet**.
 - **Implication for this investigation:** The **parallel** to **spore rain** / **blood-rain microbiology** is **functional** (aerial, cyclic, biological **rain** fought with **fire** and **bare rock**), not terminological.
 
@@ -176,6 +178,36 @@ Same **story grammar** (dying world, **failed water**, **last habitable strips**
 **There isn’t a signature Ballard novel built around *spores* the way *The Genocides* is** (§J). Ballard’s early catastrophe quartet is ***The Drowned World*** → ***The Burning World* / *The Drought*** → ***The Crystal World*** — **flood**, **drought**, **crystallization**; the last involves **morphogenetic** / **botanical** transformation but **not** “spore invasion” as the stated engine ([Wikipedia — *The Crystal World*](https://en.wikipedia.org/wiki/The_Crystal_World)). For **explicit** spore-from-space **rhetoric** in classic SF, **Ray Bradbury**’s *Come into My Cellar* is the usual short-fiction anchor — [§K](#k-ray-bradbury--come-into-my-cellar-1962-explicit-spores-from-space-rhetoric).
 
 **Companion note:** [`~/dev/wget/J-G-Ballard/The-Burning-World-notes.md`](/home/ari/dev/wget/J-G-Ballard/The-Burning-World-notes.md)
+
+### I.6 Cascading Martian collapse (phased dieoffs, biomass pulses, terrestrial analogues)
+
+**Investigative thesis (hypothesis):** **Mars ecological collapse** is not a **single** catastrophe but a **cascade** over roughly **two centuries** (order of magnitude only — align with [slow ecological collapse — MFEE through Donner era](/history/chronology/investigations/slow-ecological-collapse-mfee-through-donner-era.md)). **Different intervals** see **different** dominant dieoffs; *The Burning World* / *The Drought* is one **terminal** expression — **planetary drought** and **broken hydrology** — while **spore**, **Thread**, and **blood-rain** lines in this file address **aerial biology** that may spike in **other** phases.
+
+**Phased sketch (not a rigid timeline):**
+
+| Phase (conceptual) | Dieoff / process (investigative language) | Tie to this file |
+| ------------------ | ---------------------------------------- | ---------------- |
+| **Early** | **First major** biotic crash → vast **buried organics** — in some chronologies paired with how **oil**, **coal**, and **fossil** “pits” accumulate (**many** mainstream models use buried biomass; here the **same image** supports a **Mars** **long-death** narrative, not a proof of mechanism) | Explains why **hydrocarbon** and **fossil** strata are discussed beside **planet-scale** death |
+| **Middle** | **Food** and **water** failure → **war**, **displacement**, **starvation** | Wellsian **invasion** / **desperation** motifs; human population as **competing** **trophic** load |
+| **Late** | **Flora** and **fauna** **succession** of losses — each **trophic** **layer** removes **buffer** for the next | Chestnut-style **pathogen** windows; **naïve** hosts |
+| **Terminal (Ballard)** | **Ocean–atmosphere** coupling breaks — **drought** as **end-state** | *Burning World* **encoded** as **Earth** |
+
+**Bridge to spores and “mutant” strains:** Any phase dumps **dead biomass**, **ash**, **salt**, **disturbed** **soil**, and **new** **niches**. **Saprotrophs** (fungi, bacteria), **plant** **stress** responses, and **insect** **irruptions** routinely **spike** after **pulse** **resources** or **moisture** returns — producing **spores**, **conidia**, **pollen**, **fragments**, and **bioaerosols** at **mass** **scale**. In the **investigative** frame, **post-MFEE** **Earth** (or **cross-talk** from **Mars** **debris**) selects for **short-generation** lineages and **extreme** **tolerances** — **popularly** called **mutants**, in ecology **rapid adaptation** to **harsh** **residual** **conditions**.
+
+**Termite / dead-log analogy (user template):** **Termites** (and analogous **social** **insects**) colonize **dead** **wood**; after **rain** or **seasonal** **cues**, colonies **mature** and release **swarms** of **winged** **reproductives** — **local** **population** **explosion** followed by **mass** **export** **into** **the** **air**. The same **grammar** applies to **post-fire** **morels**, **bark-beetle** **+** **ophiostomatoid** **fungal** **spore** **clouds** on **drought-killed** **timber**, and **locust** **plagues** after **drought-breaking** **rains**: **substrate** + **trigger** → **reproduction** **storm** → **aerial** **phase**.
+
+**Terrestrial parallels (mass propagule / irruption after collapse or pulse)** — mainstream ecology; **analogy only**:
+
+| Example | Rough trigger | “Spore / sky” moment |
+| ------- | ------------- | -------------------- |
+| **Locusts** (*Schistocerca* and related) | Drought then **vegetation** **flush** | **Swarming** migration — continent-scale **biomass** **in** **motion** ([Wikipedia — locust](https://en.wikipedia.org/wiki/Locust)) |
+| **Bark beetles** + **blue-stain** fungi | **Drought-stressed** **stands** | Beetle + **Ophiostoma** **spores** — **regional** **aerosol** from **dead** **forest** ([Wikipedia — mountain pine beetle](https://en.wikipedia.org/wiki/Mountain_pine_beetle)) |
+| **Termites** | **Colony** **maturity**, **moisture** | **Nuptial** **flight** — **alates** **fill** **the** **air** locally ([Wikipedia — termite](https://en.wikipedia.org/wiki/Termite#Life_cycle)) |
+| **Rodent** **irruptions** (e.g. Australian **mice**) | **Drought** **break**, **grain** | Less **spore**-like but same **pulse**→**mass** **reproduction** logic |
+| **Post-fire** **saprotrophs** (morels, cup fungi) | **Fire** + **rain** | **Spore** **rain** onto **ash** **beds** |
+| **Harmful** **algal** **blooms** | **Nutrient** **pulse** after **disturbance** | **Toxin** and **cell** **fragments** **loftable** in **wind** and **spray** |
+
+**Mars ↔ Earth (same file):** If **Mars** **collapsed** in **stages**, **each** **stage** is a **candidate** for **lifting** **biomass** into **atmosphere** or **generating** **novel** **stressed** **lineages**; **Earth** **post-MFEE** may **receive** **washout** or **mirror** the **process** **locally**. *Burning World* supplies the **drought** **image**; **§J–L** supply **explicit** **spore** **fiction** — **one** **investigation**, **two** **modalities** of the **same** **hypothesis**.
 
 ---
 
@@ -334,7 +366,8 @@ See `[~/dev/wget/Thomas-M-Disch/The-Genocides-chapter-index.md](/home/ari/dev/wg
 
 1. **Atmospheric:** Blood rain / dust / spore rain — **Ehrenberg–Darwin** line plus modern aerobiology ([§A](#a-thesis-sketch--why-spores-belong-in-the-same-folder-as-blood-rain)); full index [§M.1](#m1-science-history-and-non-fiction-anchors).
 2. **Invasive biology:** Chestnut blight — **documented** **continental tree loss** with **Asian introduction** narrative ([§E](#e-american-chestnut-blight-deep-dive-timeline-article-and-asia-vs-centuries-earlier-objection)); Martian alternate reading [§M.2](#m2-timeline--repo-martian-or-pp-narratives).
-3. **Fiction stack:** **Red weed** + **Bradbury** (*Come into My Cellar*) + **Pern Thread** + **Nausicaä** + ***The Genocides*** + corpus in [§L](#l-spores-from-space--selected-fiction-corpus-mechanism-varies) — **predictive programming** contrasts [§N](#n-predictive-programming--contrasts-and-implications); **why it spreads** [§O](#o-why-so-many-creators-returned-to-biology-from-the-sky); **credit / lineage** [§P](#p-lineage-and-credit--who-popularized-it-no-single-author); **Ballard** *Burning World* / *Drought* — **Mars** **collapse** **as** **redacted** **Earth** ([§I](#i-j-g-ballard--the-burning-world-1964--the-drought-1965-earth-as-redacted-fiction-cover-for-mars--drought-ecology-not-spore-primary)); **master register** [§M](#m-master-register--all-examples-in-this-investigation-thread).
+3. **Cascading collapse (hypothesis):** **Mars** **biosphere** failure as **multi-century**, **multi-phase** dieoff — **fossil** **burial**, **famine/war**, **trophic** **succession**, **terminal** **drought** (*Burning World*); **spore**/**aerosol** **pulses** and **termite-flight** **analogy** [§I.6](#i6-cascading-martian-collapse-phased-dieoffs-biomass-pulses-terrestrial-analogues).
+4. **Fiction stack:** **Red weed** + **Bradbury** (*Come into My Cellar*) + **Pern Thread** + **Nausicaä** + ***The Genocides*** + corpus in [§L](#l-spores-from-space--selected-fiction-corpus-mechanism-varies) — **predictive programming** contrasts [§N](#n-predictive-programming--contrasts-and-implications); **why it spreads** [§O](#o-why-so-many-creators-returned-to-biology-from-the-sky); **credit / lineage** [§P](#p-lineage-and-credit--who-popularized-it-no-single-author); **Ballard** *Burning World* / *Drought* — **Mars** **collapse** **as** **redacted** **Earth** ([§I](#i-j-g-ballard--the-burning-world-1964--the-drought-1965-earth-as-redacted-fiction-cover-for-mars--drought-ecology-not-spore-primary)); **master register** [§M](#m-master-register--all-examples-in-this-investigation-thread).
 
 ---
 
@@ -345,4 +378,4 @@ See `[~/dev/wget/Thomas-M-Disch/The-Genocides-chapter-index.md](/home/ari/dev/wg
 
 ---
 
-Keywords: #spores #ecological #disaster #martian #cylinders #mudflood #pern #nausicaa #chestnut #blight #redweed #predictive #programming #ballard #disch #genocides #bradbury #cellar #wells #panspermia #lineage #register
+Keywords: #spores #ecological #disaster #martian #cylinders #mudflood #pern #nausicaa #chestnut #blight #redweed #predictive #programming #ballard #disch #genocides #bradbury #cellar #wells #panspermia #lineage #register #cascade #dieoff #termites #burning #world

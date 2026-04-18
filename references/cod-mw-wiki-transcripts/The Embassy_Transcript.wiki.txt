@@ -1,0 +1,1385 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_(2019)_Transcripts -->
+<!-- title: The Embassy/Transcript -->
+
+{{game|mw}}
+
+== Cutscene ==
+''The camera opens up to reveal a rioting crowd of [[Al-Qatala]] fighters and supporters outside the main barrier of the US embassy, chanting for the release of [[Omar "The Wolf" Sulaman]]. [[Jamal "The Butcher" Rahar]] stands up over the crowd and points his [[Desert Eagle|.50 GS]] at the US embassy.''
+
+'''Butcher''': ''(in Arabic) ''Give us the Wolf! Or we will take him!
+
+''Alex stands by a window inside an interrogation cell on the third level of the embassy and observes the growing crowd. He talks into the radio with Kyle Garrick on the other end.''
+
+'''[[Alex Keller]]''': 2-6, Echo is on the third deck for RV... Be advised, primary exfil point is clear but that window is rapidly closing.
+
+'''[[Kyle Garrick|Kyle]]''': ''(on radio) ''Roger. Wheels down in 3 mikes. 2-6, out.
+
+''Alex walks away from the window. Farah is inside the cell with the Wolf sitting at a table and his hands bound.''
+
+'''Alex''': 3 minutes.
+
+'''Wolf''': In 3 minutes, my people will be inside. They will kill all of you.
+
+'''Alex''': ''(glaringly) ''I chose to take you alive - I can still change my mind.
+
+'''Wolf''': You have the wrong man.
+
+'''[[Farah Karim|Farah]]''': ''(harshly) ''Lies - Tell them what you've done.
+
+'''Wolf''': [[Fog of War (level)|We did not steal the gas]].
+
+'''Farah''': Who did?
+
+'''Wolf''': Someone very dangerous.
+
+'''Alex''': Where is it?
+
+'''Wolf''': I wish I knew...
+
+''The door to the cell opens. Hadir walks in urgently.''
+
+'''[[Hadir Karim|Hadir]]''': The Butcher is outside. They'll burn the city if they have to.
+
+'''Wolf''': Save yourself, daughter... Join us.
+
+''Hadir pulls out his [[X16]] and forces it against the side of the Wolf's head.''
+
+'''Hadir''': Do not talk to her!
+
+''Alex holds up a hand to calm Hadir.''
+
+'''Alex''': Hey - Tap the brakes.
+
+'''Farah''': ''(leans forward)'' I am not your child, old man. I lead soldiers. You train killers.
+
+'''Wolf''': But we are all killers here, no?
+
+''Suddenly, the embassy alarm sounds and muffled gunfire is heard. Alex runs over to the window.''
+
+'''Alex''': They're gonna breach!
+
+''Alex looks outside the window and observes the crowd breaching the perimeter.''
+
+'''Alex''': We gotta move, now! ''(on radio)'' 3-1 to 2-6. Shots fired, moving to secure the HVI, will advise...
+
+''Alex and Farah move to the door to leave with Hadir escorting the Wolf.''
+
+==Gameplay==
+''The camera switches to Sgt. Garrick and Capt. Price in a Black Hawk helicopter (call sign Lifter 1) as they fly towards the embassy.''
+
+'''Kyle''': Copy, 3-1. Bravo's on station. Reposition and prep for evac.
+
+'''UK Pilot 1''': 30 seconds.
+
+'''[[John Price (Reboot)|Price]]''': Roger, 30 seconds.
+
+''Price opens the outer door of the helicopter as they fly over Sakhra, the capital of Urzikstan.''
+
+''Text appears.''
+
+'''The Embassy'''
+
+'''28 OCT 2019 2100'''
+
+'''Sgt. Kyle Garrick'''
+
+'''SAS, CIA, Urzik Militia'''
+
+'''Sakhra, Urzikstan'''
+
+'''UK Pilot 1''': There's a large group of unknowns moving on the front gate.
+
+''Price and Garrick witness the large crowd gathered at the front gate as a firebomb is thrown over the fence.''
+
+'''Price''': Al-Qatala's down there.
+
+''The crowd breaks through the front gate and spills into the main courtyard.''
+
+'''UK Pilot 1''': They've breached the perimeter.
+
+'''Price''': ''(to pilot)'' Put us on the roof.
+
+'''UK Pilot 1''': Roger.
+
+'''Price''': ''(to Kyle)'' We have to reach Echo fast. They've got a lot of hell headed their way.
+
+''Price hooks a rappelling rope to the door frame. The crowd opens fire on the helicopter with their rifles. Price and Garrick duck their heads a little.''
+
+'''UK Pilot 1''': Taking small-arms fire.
+
+''On a rooftop across from the embassy, an Al-Qatala fighter fires an [[RPG-7|RPG]] at the helicopter. Price spots the RPG barreling towards the helicopter.''
+
+'''Price''': RPG!
+
+''The RPG strikes the helicopter and causes it to spin out of control.''
+
+'''UK Pilot 1''': Lifter 1 is hit - we're hit! Power up! Stay on the collective!
+
+''Price kicks the rappelling rope out of the helicopter.''
+
+'''Price''': Ropes! Go! Bail out! Bail out!
+
+''Kyle crawls forward with great effort to reach the rope. He stretches out with his hand and manages to grab on to the rope, exiting the helicopter with Price. Price and Kyle hold on to the rope tightly as the Black Hawk pilots fail to keep Lifter 1 in the air.''
+
+'''UK Pilot 1''': Shit - I can't hold her. I can't hold her!
+
+''Price and Kyle manage to land on the roof and slide for a little before coming to a stop as Lifter 1 finally crashes down. The tail rotor hits a door hatch, comes loose and flies dangerously close to Price and Garrick, just missing them by inches as the two SAS soldiers duck their heads. The Black Hawk explodes in a big fireball.''
+
+'''Price''': ''(to Kyle)'' You broken?
+
+'''Kyle''': I'm good.
+
+''Price grabs his [[M13]] and talks to Alex on the radio.''
+
+'''Price''': Echo 3-1, primary extraction failed. We're down on the roof.
+
+''Price grabs his boonie hat and places on his head.''
+
+'''Alex''': ''(on radio) ''Understood. What's the call, Captain?
+
+'''Price''': There's a saferoom in the basement. Head there - we'll be right behind you.
+
+'''Alex''': ''(on radio)'' Roger. We're moving.
+
+''Kyle gets up on his feet armed only with his X16 pistol and follows Price through the nearby door and down a flight of stairs.''
+
+'''Price''': We have to reach the saferoom before Al-Qatala does.
+
+'''Kyle''': And the embassy personnel?
+
+'''Price''': Al-Qatala's here for the Wolf. So are we.
+
+''Price and Kyle open a door leading to the personnel floor where the staff are in the midst of evacuating the embassy. The staff is seen moving all important materials out and one of the staff is seen shredding confidential documents. The floor manager is leading the evacuation when he notices Price.''
+
+'''Floor Manager''': Let's hustle! Come on! This isn't a drill! ''(sees Price) ''Good, you're here. They need five minutes to finish up? What can I do to help?
+
+'''Price''': Find weapons. Barricade the doors.
+
+''Price and Kyle continue on, leaving the floor manager behind.''
+
+'''Floor Manager''': ''(indignant)'' But you're the extraction team!
+
+'''Price''': Not yours.
+
+'''Floor Manager''': Shit.
+
+''Price finds an embassy staff member.''
+
+'''Price''': You! Open this door. Lock it behind us.
+
+''The staff member opens the door with his keycard, allowing Price and Garrick through. They descend the stairs as the door closes behind them. They pass by a window where they witness a car explode, Al-Qatala fighters killing Marines, and an Al-Qatala fighter dragging'' ''a man out of a car and beating him with his [[AK-47]]. The crowd swarms the outside of the embassy. ''
+
+'''Alex''': ''(on radio)'' 0-6, Echo 3-1. Wolf is secured in the basement saferoom. Be advised, the Butcher is outside - yellow shirt.
+
+''Price and Garrick come to another window where they see the Butcher with a huge group of at least 10-20 armed Al-Qatala fighters trying to break into the embassy.''
+
+'''Price''': I have eyes on him. They're breaking through now. We need a new extraction point, fast.
+
+''The nearby door opens, where an Urzik civilian female runs out nearly into Price. Price raises his weapon for an instant, but lowers it upon seeing her. An Al-Qatala fighter noticing the commotion turns and sprays AK-47 gunfire into the window.''
+
+'''Civilian Female''':''' '''Oh my god!
+
+'''Alex''': Roger that.
+
+''The Al-Qatala fighters charge into the lobby. A bulletproof glass separates the embassy personnel from the terrorists. Dozens of gunshots are heard in rapid succession as an Al-Qatala insurgent sprays ammo into a Marine. A fighter charges into the lobby before grabbing a chair and smashing it against the bulletproof glass. The Butcher wounds a Marine with his [[Desert Eagle|.50 GS]] before gunning him down, despite his pleas. Another fighter shoots a Marine, and despite the Marine begging for his life, the fighter mercilessly fires bullet after bullet into the Marine, killing him instantly, before reloading. The same fighter sprays his rifle into the ceiling. Another Al-Qatala fighter is seen killing a Marine by smashing his face in.''
+
+'''Al-Qatala Fighter 1''': (In Arabic) Hey! There's two people in the next room!
+
+'''Kyle''': Shit... We need to engage these guys, sir!
+
+'''Price''': Negative. They get to this side of the glass, they'll reach the Wolf before we do. We clear?
+
+'''Kyle''': Yes, sir.
+
+'''Price''': Good. Take point.
+
+''Price and Garrick move through a door and into another room. A fighter is seen threateningly shoving a woman into a chair and punching her in the face. The player can see two Al-Qatala insurgents threatening a few civilians. Despite the massive amount of smoke, the player can just barely see a fighter questioning multiple civilians.''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Go to Hell! FUCK YOU! 
+
+'''Al-Qatala Fighter 3''': Give us The Wolf! Where is he?!
+
+'''Civilian Female 1''': I don't know! Please, I just want to leave!
+
+'''Al-Qatala Fighter 3''': YOU WILL NOT LEAVE UNTIL YOU TELL ME, BECAUSE YOU AND I BOTH KNOW THAT THE WOLF IS HERE SOMEWHERE, AND YOU WILL TELL ME WHERE HE IS! WHERE IS HE?! FUCK YOU!!! You want to live, yes?
+
+'''Civilian Female 1''': Yes, but I have family. We all do-
+
+'''Al-Qatala Fighter 3''': I do not care! You will not leave until you reveal the Wolf's location, and you know where he is, SO WHERE IS HE?! Fuck you!
+
+'''Civilian Female 1''': Please - I'm begging you! I don’t know where he is, and even if I did I wouldn't tell you...
+
+'''Al-Qatala Fighter 3''': ...You know where he is… tell me, or I will rip your tongue from your face, and your heart from your chest!
+
+'''Al-Qatala Fighter 4''': Hey, Sa'ir! The hell do we do?
+
+'''Al-Qatala Fighter 3 (Sa'ir)''': ''(to other AQ fighter in Arabic)'' The Wolf is here somewhere. These rats are not useful - they do not know the location of the Wolf. ''(to civilian)'' This is the last time I am asking you. ''(enraged)'' Where is the Wolf?! You know he is in here somewhere!
+
+'''Civilian Female 3''': I don't know where he is. Please!
+
+'''Al-Qatala Fighter 3''': ...You have left me no choice...
+
+''The fighter executes the woman, as another terrorist does the same. A terrorist shoves a civilian to the floor and kills him. A woman tried running away, only for the fighter to shoot her dead.'' 
+
+''Inside the next room, a bulletproof glass window separates the embassy staff from Al-Qatala as a fighter brings forward a man and his son to the door, with The Butcher holding them hostage. The Butcher fires two shots into the ceiling with his pistol.'' 
+
+'''Civilian Female 2''': Daiyaan! Zahir! My loves!
+
+''A female staff member tries to open the door to reach them, but is stopped by several US Marines who restrain and hold her back.''
+
+'''US Marine 1''': Get away from the door!
+
+'''Butcher''': You! Open this now!
+
+'''Price''': Everyone back!
+
+'''Butcher''': We only want the Wolf!
+
+'''Civilian Female 2''': No... no! That's my family! He has my family!
+
+'''US Marine 1''': Ma'am - you can't help them! You need to stay right here!
+
+'''US Marine 3''': Motherfuckers! 
+
+'''Butcher''': No one else has to die today!
+
+'''Price''': Who has a keycard?!
+
+'''Civilian Male 1''': I do!
+
+'''Civilian Female 2''': He's going to kill him! ''(sobbing)'' Please, help him! Save my husband!
+
+'''Butcher''': How about you, Captain?! Are you gonna let them die?
+
+''The Butcher shoots the man in the head with his pistol. The boy rushes over to his side to wake him up.''
+
+'''Civilian Female 2''': Zahir!
+
+''The woman tries to rush over to the door, but two Marines hold her back.''
+
+'''US Marine 1''': Ma'am, stop! Stop!
+
+'''US Marine 3''': Ma'am, stop! Please!
+
+'''Civilian Child 1''': ''(in Arabic) ''Daddy?! Daddy! Wake up! Don't leave, Daddy! Wake up!
+
+''Price points to a staff member. The Butcher grabs the boy and holds him against the window trying to force the staff to let him and his men through.''
+
+'''Price''': You. Come with me.
+
+''The staff member follows Price to the door leading into the next area.''
+
+'''Butcher''': Save his life, Sergeant.
+
+'''Price''': Kyle, we're moving!
+
+'''Civilian Child 1''': Mommy! Mommy!
+
+'''Civilian Female 2''': Don't let him do this! You can't let him! That's my son! My son is right there!
+
+'''US Marine 1''': Just - I can't, I'm sorry...
+
+'''US Marine 3''': ...I'm sorry...
+
+'''Price''': Now, Sergeant!
+
+'''Butcher''': Give us the Wolf!
+
+''The boy breaks free and tries to run...'' 
+
+'''Butcher''': Mercy is weak.
+
+''...only for the Butcher to shoot him down.''
+
+''(If the player opens the door, they will be shot and wounded by the Butcher, before seeing the insurgents charge into the room and presumably kill everyone else, and being shot in the face and killed instantly, which reverts the player to the last checkpoint.)''
+
+''The mother collapses to her knees, sobbing over the loss of her family. The other staff member opens the door for Price and Garrick to proceed through. Several Al-Qatala insurgents shoot at the glass, only to discover that it's bulletproof. A fighter grabs a chair and throws it at the glass. Others are seen smashing the glass with their rifles, while others are seen tackling the glass with their bodies, and another is even smashing a chair into it.''
+
+'''Butcher''': Bring the truck around!
+
+''The Butcher and some of his men leave. The woman tries to reach for her dead family with the Marine holding her back.''
+
+'''US Marine 1''': Ma'am, we have to go! You need to come with me, right now!
+
+'''Civilian Female 2''': Just let me hold them... I need to hold them!
+
+'''US Marine 1''': They're gone! C'mon, ma'am, please!
+
+''Kyle follows Price out the door and further down the hallway.''
+
+'''Price''': Hey, we'll get him. Count on it. ''(on radio)'' 3-1, enemy vehicle is inbound. What's the status of extraction?
+
+'''Alex''': ''(on radio)'' Building's locked down. No way out, Captain.
+
+''Price and Garrick reach another holding area where US soldiers are trying to guide and calm the embassy staff.''
+
+'''US Soldier 1''': We're working on getting everyone out. For now, just sit tight and stay calm.
+
+'''Civilian Male 1''': They're trying to break in here and kill us! You should be getting us the hell out of here!
+
+'''US Soldier 1''': Right now, this is the safest place you can be. We're coordinating extraction, but it's gonna take some time!
+
+''(If Kyle doesn't move...)''
+
+'''Price''': Let's move, Kyle!
+
+''The soldiers communicate with the military commander on the other end of the radio.''
+
+'''US Soldier 1''': Romeo 3 Actual, Emerald 2-4. I need an ETA on that evac bird, over?
+
+'''US Commander''': ''(on radio)'' Negative, 2-4. No air assets are available for tasking. You'll just have to hold out for now.
+
+'''US Soldier 1''': Son of a bitch!
+
+''Suddenly, a Technical crashes through the wall at the other end of the area, running down some of the staff. Al-Qatala fighters come pouring through the new opening and open fire on the civilians and soldiers alike. At least five insurgents come sprinting out of the truck.''
+
+'''US Soldier 2''': Holy shit! Contact! AQ's flooding in!
+
+'''US Soldier 1''': Romeo 3-1, this is Emerald 2-4! Breach! Breach! Our position in compromised!
+
+''The Marines are shot dead. Price and Garrick are forced to open fire on the terrorists and defend the staff. After eliminating the intruders, Price and Garrick continue on.''
+
+'''Price''': Move up! ''(on radio)'' 3-1, AQ's breached! They're inside and headed your way!
+
+'''Alex''': ''(over radio)'' Roger that.
+
+''Price and Garrick encounter Al-Qatala fighters threatening and killing the embassy staff in order to find the Wolf.''
+
+'''Al-Qatala Fighter 2''': We want the Wolf! Give him to us!
+
+''An AQ fighter kills two embassy staff with a [[Remington 870 MCS|Model 680]]. Price/Kyle kills him.''
+
+'''Al-Qatala Fighter 1''': Where is the Wolf?! Tell me now!
+
+'''Civilian Female 1''': Don't do this! Don't do this!
+
+''An AQ fighter grabs a female staff member and holds an [[M1911]] to her head. Kyle manages to kill the insurgent after which the woman runs away. If the player doesn't kill the terrorist, the woman will be executed. An Al-Qatala fighter is seen threatening two civilians about The Wolf's location.''
+
+'''Al-Qatala Fighter 1''': Give us the [[Omar "The Wolf" Sulaman|Wolf]]! Where is he?!
+
+''He spots Price and Kyle.''
+
+'''Al-Qatala Fighter 1''': ''(In Arabic)'' Oh shit!
+
+''The fighter kills the two civilians. Price and Garrick move through the various offices and cubicles, eliminating any Al-Qatala fighters they encounter.''
+
+'''Price''': Clear! Let's get to the basement, Kyle. Take point.
+
+''Price and Kyle reach the door leading into the basement. Kyle tries to open the door, but finds it locked.''
+
+'''Kyle''': Locked.
+
+'''Price''': I've got it...
+
+''Price takes out his [[Halligan Bar]] and uses it to pry open the door, only to be surprised by an Al-Qatala fighter who bursts forward from the door and attacks. Price stabs him in the neck with the Halligan bar.''
+
+'''Price''': Fuck off.
+
+''(If Kyle defeats the fighter instead, Price will commend him.)''
+
+'''Price''': Good aim, Sergeant.
+
+''Price and Garrick head through the door, down the stairs, and into the basement. Kyle notices a dead Marine slumped over next to the stairs with blood and bullet holes on the wall. Another Marine is also dead on the floor. Kyle sees a wounded Al-Qatala fighter trying to crawl away, firing his [[M1911]]. Kyle either lets him die of his wounds, or he/Price kills the fighter. Price speaks with Alex on the radio.''
+
+'''Price''': 3-1, we're in the basement.
+
+'''Alex''': ''(over radio)'' Rog'. Be advised, we have hostiles outside the saferoom.
+
+'''Price''': We'll take care of it.
+
+''An Al-Qatala fighter is seen dead on the floor. Another Marine is dead as well. An AQ fighter is seen trying to open the safe room door with a crowbar, while another one is threatening a Marine. Another US Marine is seen dead on the floor.'' 
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Open the door! I know he is in there! Open the door, you bitch!
+
+'''US Marine 3''': No... NO!
+
+'''Al-Qatala Fighter 1''': Open the fucking door!
+
+'''US Marine 3''': Please... NO!
+
+''The Marine is executed.''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Fuck you!
+
+''Several Al-Qatala fighters shoot and smash the saferoom door with their rifles, demanding the Wolf be given to them.'' 
+
+'''Al-Qatala Fighter 3''': Open the door! Hey! I know you can hear me, you sons of bitches! Listen, you pieces of shit - give us the Wolf or we'll rip your fucking throats out! Answer me! FUCK YOU!
+
+''Kyle and Price kill the group of fighters, but Kyle notices the grim sight of a dead Marine on the floor.''
+
+'''Price''': ''(to Kyle)'' Let 'em know we're here, Sergeant.
+
+''Kyle pushes the intercom button by the door.''
+
+'''Kyle''': 3-1, we're here.
+
+''The door to the safehouse opens, revealing Farah and Hadir who raise their guns for a moment before lowering them after they see Price and Garrick.''
+
+'''Price''': Farah, still fighting the good fight...
+
+'''Farah''': Always, Captain.
+
+''Price and Garrick walk into the saferoom. Alex and Price walk over to the communications station nearby.''
+
+'''Alex''': The ambassador's still inside, sir, he's trapped.
+
+'''Price''': Okay, keep him on the line, he might be our way out of here. Hadir - thanks for the assist.
+
+'''Hadir''': Our pleasure, sir.
+
+'''Price''': ''(to the Wolf)'' Omar Sulaman.
+
+'''Wolf''': ''(confused) ''Have we met?
+
+'''Price''': Yeah, back when you were on our side.
+
+'''Hadir''': ''(surprised) ''The Wolf was a freedom fighter?
+
+'''Wolf''': I still am, brother.
+
+'''Farah''': The Butcher's men are closing on the Ambassador, Captain.
+
+'''Price''': Rog'. ''(to Kyle)'' Kyle, man these cameras. Direct the ambassador to safety. We'll need his keycard to open the rear doors. Rest of you, on me.
+
+''Kyle walks over to the communications station, which consists of a security camera screen and a microphone for communication. Kyle activates the microphone and talks into it to speak with the Ambassador.''
+
+'''Kyle''': Mr. Ambassador, can you hear me?
+
+''The camera switches to a POV of the security camera showing Ambassador Harris hiding in his office with his assistant, Stacy Davidson.''
+
+'''[[Harris (Modern Warfare)|Ambassador]]''': I'm going to lock the door! Stacy, hide!
+
+'''Kyle''': Ambassador?!
+
+''Just as the Ambassador moves toward the door, an Al-Qatala fighter who was patrolling the hallway outside spots him outside the window.''
+
+'''Ambassador''': Oh my god! No, no, no... no!
+
+'''Al-Qatala Fighter 1''': ''(in Arabic) ''Got you!
+
+''The fighter shoots through the glass door, hitting Harris who falls to the ground. The fighter steps into the office and stands over the wounded ambassador with his rifle aimed at him.''
+
+'''Ambassador''': Wait... wait, don't!
+
+''The Al-Qatala insurgent shoots the ambassador dead, before he rejoins the other fighters outside the hallway and moves on. The assistant, Stacy, comes out of hiding and crawls over to the Harris' body. She takes his cell phone and hides back behind the desk.''
+
+'''Kyle''': Shit! ''(to Price)'' Captain, the ambassador is down, but I can lead his assistant to you.
+
+'''Price''': ''(over radio)'' Do it. We need the keycard.
+
+'''Kyle''': ''(to Stacy)'' Hello? Hello, can you hear me?
+
+'''[[Stacy Davidson|Stacy]]''': ''(answers the phone) ''Hello?!
+
+'''Kyle''': This is Sergeant Kyle Garrick.
+
+'''Stacy''': Stacy... Stacy Davidson.
+
+'''Kyle''': Just do exactly as I say, and we'll get you safe.
+
+''At this point, the player uses the security camera to direct Stacy to various hiding points.''
+
+'''Kyle''': Take the ambassador's keycard and move to the door.
+
+''Stacy does exactly as she's told and moves by the door, keeping low as she goes. She spots the Al-Qatala fighter in the hall.''
+
+'''Stacy''': Okay, I have the keycard. What now? That man is in the hall. He could see me...
+
+'''Kyle''': Just sit tight. I need to switch to the hallway camera.
+
+''Kyle switches to various cameras throughout the area in order to direct Stacy to safety. He sees the Al-Qatala fighter shoot down two more embassy workers before he shoots his way through a locked door and exit the hallway.''
+
+'''Kyle''': Go right. There's a cabinet at the end of the hall.
+
+''Stacy goes exactly where she is directed. Each time, Kyle switches to another camera for a different POV.''
+
+'''Kyle''': Pillar.
+
+'''Stacy''': Okay, I'm going...
+
+''Stacy enters another room and hides behind the pillar. The camera shows the Butcher and an insurgent interrogating an embassy staff member about the Wolf's location.''
+
+'''Butcher''': Where is he? Where is the Wolf?!
+
+'''Kyle''': That's the fucking Butcher...
+
+'''Civilian Male 1''': I don't know!
+
+'''Butcher''': Do not lie to me - The Wolf is here! Tell me where?
+
+''The Butcher slams the staff member into the table and punches him. Stacy remains in hiding and talks to Garrick on the phone.''
+
+''(Whenever Stacy remains in one place long enough...)''
+
+'''Stacy''': Hello?! Sergeant Garrick?; Sergeant Garrick?; What do I do?; Where do I go now?
+
+'''Civilian Male 1''': I'm just an analyst! Someone else... someone else knows.
+
+''The Butcher grabs the man and hauls him to a shelf opposite the table away from Stacy's sight.''
+
+'''Butcher''':''' '''I do not have someone else. I have you. You, who does not belong in my country! This is not your land!
+
+'''Kyle''': Go to that shelf. Now.; The shelf. Move.
+
+''Stacy moves from behind the pillar to behind the shelf, while the Butcher continues to beat up the man.''
+
+'''Civilian Male 1''': No, wait... please!
+
+'''Butcher''': You don't want me to come to your country and take your people.
+
+'''Civilian Male 1''': No, but... I can't help you...
+
+'''Butcher''': That is too bad for you!
+
+'''Stacy''': They're killing him!
+
+''Kyle directs the camera to the next hiding place out of the Butcher's sight.''
+
+'''Kyle''': Go to that middle desk. Stay low.; Hide near that body.
+
+''Stacy moves past the unsuspecting insurgents and hides behind the nearby desk. Another Al-Qatala insurgent enters the office and patrols the area, walking past the desk without seeing Stacy.'' ''Once the insurgent passes by the desk, Kyle directs Stacy out of the office.''
+
+'''Kyle''': Other side of the desk. Go.; Go to the hallway. Now.; Hide by the door.
+
+''Stacy crouches by the door leading into another office. Kyle switches security cameras to observe the office.''
+
+'''Kyle''': Go to that cubicle! Now!; Go! Now!
+
+''Stacy crouches low and moves into the office, only to spot a wounded staff member nearby. A fighter is seen brutally murdering a staff member by punching her in the face with his rifle before punching her twice in the face and killing her.''
+
+'''Stacy''': Oh my god - Adam?!
+
+''Stacy moves over to Adam to try and help him.''
+
+'''Kyle''': No, no, no!
+
+'''Stacy''':''' '''Adam?
+
+'''Kyle''': Stacy, pick up the phone!
+
+'''Civilian Male 2''': St... Stacy...
+
+'''Stacy''': ''(to Adam)'' We have to get you out of here.
+
+''A nearby Al-Qatala insurgent patrols the office and is closing in on Stacy's position.''
+
+'''Kyle''': Damnit, Stacy! Leave him!
+
+'''Stacy''': I-I'm sorry, Adam.
+
+''Stacy leaves Adam and hides behind a cubicle, just in time for the insurgent to happen upon Adam.''
+
+'''Kyle''': Don't scream, Stacy...
+
+''The insurgent shoots Adam dead and walks by Stacy's hiding spot.''
+
+'''Kyle''': Don't. Move.
+
+'''Stacy''': ''(fearfully)'' I want to go home.
+
+'''Kyle''': We'll get you there, Stacy. You're almost out.
+
+''The insurgent moves on past the dead staff member and into another area.'' 
+
+'''Kyle''': He's gone.
+
+''Kyle continues to use the cameras to guide Stacy.''
+
+'''Kyle''': The cubicle. Go.; Move to the cubicle.
+
+'''Stacy''': ''(frightened) ''Oh my god, oh my god... They're going to find me...
+
+''Stacy hides behind the cubicles while Al-Qatala fighters patrol the office. A fighter is seen rummaging through storage cabinets.''
+
+'''Kyle''': Go to the other cubicle.; Down the line. Next one.; Alright. Nest cubicle. Go.
+
+''Kyle switches over to a camera at the other end of the office area directs Stacy onward.''
+
+'''Kyle''': The shredder. Go now.; Move to the printer...
+
+'''Stacy''': Okay.
+
+''Stacy moves quickly to the shredder and hides by the machine. A nearby insurgent stands guard over the only exit out of the area.''
+
+'''Kyle''': There's a guard blocking the exit. You'll have to distract him.
+
+'''Stacy''': What do I need to do?
+
+''Kyle points out the shredder for Stacy.''
+
+'''Kyle''': Get to that shredder.
+
+'''Stacy''': Okay, here I go...
+
+''Stacy moves to the shredder.''
+
+'''Kyle''': Now, turn it on.
+
+''Stacy activates the shredder. The noise attracts the guard's attention, causing him to go investigate.''
+
+'''Kyle''': Go around the corner. Hug the wall.
+
+''Stacy goes around the cubicle and reaches the corner. The guard reaches the shredder away from the exit.''
+
+'''Kyle''': Get to the exit! Run!
+
+''(If Stacy is spotted...)''
+
+'''Al-Qatala Fighter 1''': ''(In Arabic)'' There is another one! Shoot her!; I see you, rat!
+
+''Stacy is shot dead, which reverts the player to last checkpoint.''
+
+'''Kyle''': Shit!
+
+''Stacy moves quickly to the door and swipes her keycard on the scanner, causing the door to open. At the same time, the guard hears the door opening and spots Stacy. Suddenly, Price and Farah come charging through the door and shoot the guard down.''
+
+'''Price''': Get back!
+
+'''Stacy''': Holy shit! Holy shit!
+
+''Stacy runs through the exit, while Price and Farah cover her escape and shoot any Al-Qatala insurgents who attack.''
+
+'''Price''': ''(to Farah)'' Get her out! 
+
+''Price and Farah take Stacy, sealing the door shut.''
+
+'''Price''': Sergeant, we got her. Let's regroup in the parking lot!
+
+''The camera switches back to Kyle's POV.''
+
+'''Kyle''': Roger that, boss.
+
+''A US soldier, presumably the acting commander for the Marines, announces over the radio that the embassy has fallen to Al-Qatala.''
+
+'''US Soldier 1''': ''(over radio)'' All stations this net, the embassy has fallen. Marines are setting up a rally point at the Ambassador Residence.
+
+'''Price''': ''(over radio)'' This is Captain Price, SAS. We're working our way to you.
+
+'''US Soldier 1''': Roger that, Captain, my Marines will keep an eye out for you.
+
+''Kyle exits the safehouse and reaches the garage where Price, Farah, Hadir, and Alex are with Stacy and the Wolf.''
+
+'''Price''': Garrick, we're leaving!
+
+'''Kyle''': Roger that.
+
+'''Price''': Hadir - Watch on Sulaman.
+
+'''Hadir''': ''(acknowledged)'' Captain.
+
+'''Farah''': What's the plan?
+
+'''Price''': Link up with the Marines at the southern compound.
+
+'''Kyle''': Where's the compound?
+
+'''Stacy''': Not far - Through the alley across the street.
+
+'''Alex''': Let's get there.
+
+''The player follows his allies to a door at the other end of the garage.''
+
+'''Price''': Alright, Garrick - open it up.
+
+''Stacy hands the keycard over to Kyle.''
+
+'''Stacy''': Here. Thank you, Sergeant, you saved my life.
+
+'''Kyle''': This keycard may save all of us.
+
+''Kyle swipes the ambassador's keycard, allowing the garage door to slide open.''
+
+'''Price''': Ready up, expect contact.
+
+''Soon enough, the player and his allies encounter Al-Qatala soldiers outside.''
+
+'''Farah''': They're here...
+
+''The player and his allies eliminate the fighters and make their way to the compound.''
+
+'''Alex''': Stay behind me, ma'am.
+
+'''Price''': Moving!
+
+'''Alex''': Watch the road!
+
+'''Price''': Alley across the street! Move!
+
+''Price, Kyle, and the other allies move across the street and into the alley, passing by an apartment complex. An Urzikstani civilian opens a door and steps outside briefly, spotting the player and his team before going back inside.''
+
+'''Price''': Echo 3-1, you're clear to move up.
+
+'''Alex''': Rog'. Coming to you.
+
+'''Price''': Watch for movement...
+
+''Farah spots two children in the alley and tries to warn them off.''
+
+'''Farah''': ''(in Arabic)'' Go! it's not safe out here!
+
+''The two young children run off.''
+
+'''Civilian Child 1''': ''(in Arabic) ''Soldiers are here! Soldiers are here!
+
+'''Civilian Child 2''': ''(in Arabic) ''They are in the alley!
+
+'''Alex''': We're compromised.
+
+'''Price''': Reposition -- Now!
+
+'''Farah''': There's the compound!
+
+''The team reaches the southern compound, which is protected by a high barrier.''
+
+'''Price''': Garrick, use the keycard. Get us in.
+
+''Kyle swipes the keycard through the scanner and opens the door, where several US Marines greet the team.''
+
+'''Kyle''': This is Bravo 6, SAS.
+
+'''US Soldier 3''': Didn't think you'd make it.
+
+'''Price''': We need a secure room to store a prisoner.
+
+'''US Soldier 3''': Yes, sir. Secure room in the residence, follow me.
+
+''The player and his allies follow the troops into the residence building where they reach a secure room.''
+
+'''Price''': This'll have to do. Stand guard. Watch him.
+
+'''Hadir''': We will be back for him.
+
+'''Wolf''': I will be gone, brother, but we will meet again.
+
+''Hadir shoves the Wolf into the room, which a US Marine seals shut and stands guard over. Price talks to Laswell on the radio as he and his allies head outside to defend the compound from Al-Qatala.''
+
+'''Price''': Watcher, this is 0-6. I need air support and I need it now.
+
+'''[[Kate Laswell|Laswell]]''': ''(over radio)'' Negative, 0-6, can't risk another bird.
+
+'''Price''': Fuck, fuck, fu— Kate, get me something! We'll be fighting the whole bloody city!
+
+'''Laswell''': The only drone in range needs a refuel. Can't stay up for long.
+
+'''Price''': Just get it here. 0-6, out.
+
+''The team reaches a building overlooking the east end of the compound.''
+
+'''Price''': Alex, Hadir, go north, cover that roof. Kyle, Farah, you're with me.
+
+'''Alex''': Roger, Captain.
+
+'''Kyle''': Rog'.
+
+''Kyle follows Price and Farah up to the roof of the building where several US soldiers are posted.''
+
+'''US Soldier 1''': Captain, Marines have got the embassy covered if they followed.
+
+'''US Soldier 2 ([[Davidson (Modern Warfare)|Davidson]])''': Nothin' out there, sir.
+
+'''Farah''': They'll be back. They'll come from the other side.
+
+'''US Soldier 1''': How do you know?
+
+'''Farah''': 'Cause I would.
+
+'''Price''': She's right. Reposition across the roof, now.
+
+''Price, Kyle, and Farah lead the Marines to the other end of the roof where they take up positions overlooking a large grass field.''
+
+'''Price''': Dig in. I want a line of sight across that field. Get eyes on the cafe. Straight across the field.
+
+''Kyle takes an [[M14 EBR|EBR-14]] with a [[Sniper Scope]] and uses it to peer across the field. He spots a group of Urzik males gathered around a café.''
+
+'''Kyle''': Check 12. Café - Multiple military age males.
+
+'''Price''': Unarmed. Stay with 'em.
+
+''Kyle watches two more Urzik males approach the group.''
+
+'''Kyle/US Marine 2''': ''(over radio)'' Two more.
+
+''Kyle watches the group as the Urziks point in the player's direction.''
+
+'''Price''': Farah?
+
+'''Farah''': They're messengers.
+
+'''Alex''': Looking our way - No bueno.
+
+'''Price''': Track 'em.
+
+'''Kyle/Alex''': On it.
+
+''The locals close the café door and disperse.''
+
+'''US Soldier 2''': Something's got 'em spooked.
+
+''Two more Urzik males can be seen approaching the café from the right.''
+
+'''Alex''': Check right. Two more...
+
+''The two Urzik males stop in their tracks and run off in the direction that they came from.''
+
+'''US Soldier 1 (Davidson)''': They're buggin' out... This ain't right.
+
+''More Urzikstan locals can be seen at the far end of the field.''
+
+'''US Soldier 2''': Hey, we got more unknowns, far end of the field, probing.
+
+'''Farah''': Fighters. They're here for us.
+
+'''Price''': They're moving on us.
+
+''The native group moves out of sight of the Marines.''
+
+'''US Soldier 1 (Davidson)''': Shit, lost 'em...
+
+'''Price''': Alex?
+
+'''Alex''': All quiet.
+
+''Suddenly, a flock of birds flies out of the grass and scatters into the air.''
+
+'''US Soldier 2''': Hang on, got movement, mid-field, 11 o'clock.
+
+'''Kyle''': Where?
+
+'''US Soldier 2''': Negative, just the wind.
+
+'''Price''': Hold your mud.
+
+'''US Soldier 1 (Davidson)''': They're watching us, Captain.
+
+'''Price''': Another word and I'll send you out there.
+
+'''US Soldier 1 (Davidson)''': Yes, sir.
+
+''Gunfire erupts from the other end of the field, hitting the street lights around the field.''
+
+'''US Soldier 1 (Davidson)''': They're targeting the lights!
+
+'''US Soldier 2''': Clear to engage?
+
+'''Price''': Engage what? We're blind.
+
+'''Farah''': Quiet!
+
+'''Price''': Eyes on the grass.
+
+'''Farah''': Launch a flare. We'll pick them off in the light.
+
+''Price indicates the nearby mortar.''
+
+'''Price''': Illumination rounds. Light us up, Kyle.
+
+''Kyle goes over to the mortar and inserts an illumination round, which the mortar fires into the air.''
+
+'''Kyle''': Fire in the hole!
+
+''The illumination round flies in the air and gives off a dazzling light which illuminates the field, revealing Al-Qatala fighters approaching the compound.''
+
+'''Alex''': Got movers! Back of the field!
+
+'''Price''': Engage! Engage!
+
+''The embassy defenders open fire on the Al-Qatala attackers.''
+
+'''Farah''': Attack!
+
+'''US Soldier 2''': Incoming from the east!
+
+'''US Soldier 1 (Davidson)''': They're swarming the field!
+
+''Eventually, the illumination round runs out of light and the field grows dark again.''
+
+'''US Soldier 1 (Davidson)''': Shit!
+
+'''US Soldier 2''': Keep your head down!
+
+'''US Soldier 1 (Davidson)''': Where the hell are they? I don't see shit out there!
+
+'''US Soldier 2''': The whole field's crawlin' with AQ, dude!
+
+'''US Soldier 1 (Davidson)''': We need a flare pronto!
+
+'''US Soldier 2''': Yeah, no shit!
+
+''Kyle fires another illumination round into the sky.''
+
+'''Kyle''': Illum out!
+
+''The flare lights up in the air, revealing more Al-Qatala fighters having approached closer to the compound. The embassy defenders are forced to engage the insurgents once again.''
+
+'''Alex''': AQ! Center of the field!
+
+'''Farah''': They're getting closer!
+
+'''Hadir''': Hold them back!
+
+'''Farah''': ''(to Al-Qatala) ''You'll find only death here!
+
+''The illumination flare eventually runs out, covering the field in darkness.''
+
+'''US Soldier 1 (Davidson)''': Shit, you good, dude?
+
+'''US Soldier 2''': I can't see where they're shooting from! 
+
+'''US Soldier 1 (Davidson)''': Someone send up a flare!
+
+'''US Soldier 2''': That field's full of 'em...
+
+'''US Soldier 1 (Davidson)''': Yeah, we need to hold 'em off or we'll get overrun.
+
+'''Hadir''': They're moving closer. We need a flare!
+
+'''Price''': Get to the mortar and send up another flare, Kyle!
+
+''Kyle launches another illumination round into the air through the mortar.''
+
+'''Kyle''': Fire in the hole!
+
+''The illumination round fires into the air and lights up the field again. This time, the Al-Qatala fighters have gotten much closer than before to the compound.''
+
+'''US Soldier 1 (Davidson)''': Holy shit!
+
+'''US Soldier 2''': They're at the walls!
+
+'''Farah''': Across the street!
+
+'''Price''': Hold the perimeter!
+
+''Kyle fires off one last flare.''
+
+'''Kyle''': Last one, Captain...
+
+'''Price''': Send it.
+
+''The embassy defenders hold their ground and fight off the Al-Qatala fighters. An enemy vehicle drives through the field, which Kyle shoots down with his scoped marksman rifle. After a fierce firefight, every last Al-Qatala insurgent has been killed.''
+
+'''US Soldier 2''': Oorah! Hell yeah!
+
+'''US Soldier 1 (Davidson)''': Fuckin' field out here, bro!
+
+'''Farah''': It's not over, there'll be more.
+
+'''Price''': Give me a round count.
+
+'''US Soldier 2''': Gettin' low.
+
+'''US Soldier 1 (Davidson)''': About half...
+
+'''Farah''': Almost out...
+
+'''Price''': Check your shots. Make em' count.
+
+''Kyle looks through his sniper scope and spots two trucks entering the area from the far left.''
+
+'''Alex''': Two trucks, moving south, far end of the field.
+
+'''Price''': Copy.
+
+'''US Soldier 2''': Probably getting the fuck out of Dodge.
+
+''The trucks enter through a fence at the far end of the area and place themselves behind the café building.''
+
+'''Farah''': They're repositioning...
+
+''From behind the café building, mortar shells are launched in the air and fired at the compound.''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Fire!; Fire mortar!; Launch mortar!
+
+'''Farah''': Get down!
+
+''The mortars strike the compound area.''
+
+'''US Soldier 2:''' Incoming! Davidson, run!
+
+''[[Davidson (Modern Warfare)|Davidson]] is killed by a mortar explosion.''
+
+'''US Soldier 2''': Man down! We gotta help!
+
+'''Price''': Leave him! Get off the roof!
+
+'''Price''': Alex! We need flares!
+
+'''Alex''': On it!
+
+''Alex launches illumination flares from his position, allowing the defenders to see where the enemy is.''
+
+'''Alex''': Fire in the hole!; Popping a flare!; Flare's up!
+
+''(If Kyle stays on the roof...)''
+
+'''Price''': Drop down, Kyle, or you're gonna get yourself killed! Kyle, they've got the roof targeted! Get down, now! Kyle, get off the bloody roof, now!
+
+''Kyle, Price, Farah, and the Marine jump off the roof. The mortar strike causes the east gate to be breached, allowing Al-Qatala insurgents to pour into the compound. The defenders are forced to engage in another fierce firefight with Al-Qatala.''
+
+'''Farah''': The east gate's down!
+
+'''US Soldier 2''': We can't stay here! We gotta move!
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Fire!
+
+''A US Marine rushes to the wall. A mortar hits him. He falls and drops his gun.''
+
+'''US Soldier 3 ([[Mikey]])''': I'm hit, I'm hit!
+
+'''US Soldier 2''': Mikey!
+
+'''US Soldier 3 (Mikey)''': I'm sorry, man, they got me - I'm sorry.
+
+'''US Soldier 2''': I'll get you inside, buddy!
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' For our leader!
+
+'''Price''': No - leave him!
+
+''Both Marines are shot dead.''
+
+'''Price''': Damn it!
+
+'''Farah''': They're inside the compound!
+
+'''Price''': ''(to Kyle) ''Get clear of the breach, Sergeant! Watch your flanks! Cut 'em off! Keep 'em occupied or they'll roll us over! Nearly there!
+
+'''US Soldier 2''': Our position's compromised! We're getting overrun!
+
+''After some time, the defenders manage to eliminate all the remaining Al-Qatala fighters in the area.''
+
+'''Alex''': All stations. No movement in the field. Go black.
+
+'''Price''': Okay, move to the north building for resupply.
+
+'''Alex''': We'll set security.
+
+'''Price''': Roger. ''(to Kyle)'' Let's top off and gear up inside, Sergeant.
+
+''Kyle meets up with Price at the north building where the armory is and finds the door locked.''
+
+'''Price''': ''(knocks)'' Open up!
+
+''An embassy staff member opens the door, allowing Price and Garrick access inside the armory.''
+
+'''Civilian Male 1''': The Army's here! Thank God...!
+
+'''Price''': ''(to staff member)'' Stay low and do not leave this building. ''(to Kyle)'' Sergeant, load up. Come and see me.
+
+'''Kyle''': Roger.
+
+''Kyle takes the opportunity to resupply and stock up on ammunition and weapons.''
+
+''A UAV drone enters the area, remote-controlled by an operator.''
+
+'''US UAV Operator''': ''(on radio) ''Bravo 6, this is Jaguar 4-1 on station for close air, guns hot...
+
+'''Price''': Copy, 4-1, stand by for targets...
+
+''Price opens up a crate, revealing a laser sight for guiding the drone.''
+
+'''Alex''': Birds inbound for close air?
+
+'''Price''': One drone, low fuel.
+
+'''Alex''': Roger, Actual.
+
+''(If Kyle doesn't pick up the laser immediately...)''
+
+'''Price''': Pick it up.
+
+''Kyle picks up the laser as Price speaks to him.''
+
+'''Price''': We have a drone on station. I need you to mark targets.
+
+'''Kyle''': We should roll up the Wolf and get off the X.
+
+'''Price''': Negative, we defend this position, we live to fight another day.
+
+'''Kyle''': Cut bait?!
+
+'''Price''': We may have to.
+
+''A mortar strike hits close to the armory, interrupting the conversation.''
+
+'''Alex''': ''(over radio) ''Bravo - We need that drone, ASAP! 
+
+'''Price''': ''(on radio)'' Rog', on my way. ''(to Kyle) ''Roof, now!
+
+''Price and Garrick head back outside and meet up with Farah.''
+
+'''Farah''': This way!
+
+''Farah spots a ladder and plants it upright against the building for Price and Kyle.''
+
+'''Price''': Good eye, Farah - Go! Follow up, Sergeant!
+
+''(If Kyle doesn't immediately go to the roof...)''
+
+'''Price''': Roof, let's go!
+
+''Price, Farah, and Kyle climb up the ladder to the roof and take up positions overlooking the northern area. They see a building under construction being occupied by Al-Qatala fighters, who fire upon the defenders.''
+
+'''US UAV Operator''': 0-6, Jaguar 4-1 is overhead for fire mission - Waiting on your mark.
+
+'''Price''': Copy, Jaguar, stand by! ''(to Kyle)'' Garrick, put a Hellfire on that building! Mark it with the beam!
+
+''Kyle uses the laser to guide the Hellfire drone's missiles on the enemy attackers.''
+
+'''Kyle''': Target marked.; Beam is up, send it.; Marked another target.
+
+'''US UAV Operator''': Firing.; Missile out.; Copy. Missile inbound.
+
+''(If the missile doesn't strike its intended target:)''
+
+'''Price''': Negative impact!
+
+''(If the missile strikes its intended target:)''
+
+'''US UAV Operator''': Impact.; Splash out.; Direct.; Splash.
+
+'''Alex''': Hell yeah!
+
+''(After the Jaguar has reloaded its missiles...)''
+
+'''US UAV Operator''': Bravo, Jaguar is ready for tasking. Mark a target.
+
+''Eventually, all the attackers have been eliminated.''
+
+'''Alex''': We're clear!
+
+'''Farah''': Not for long.
+
+'''Price''': East side!
+
+''The embassy defenders turn their attention to the east where a truck appears.''
+
+'''Alex''': Unknown vehicle across the field.
+
+'''Hadir''': A civilian?
+
+'''Kyle''': Or a car bomb.
+
+''The vehicle turns in the direction of the compound.''
+
+'''Hadir''': It's headed our way!
+
+'''Farah''': Are they armed?!
+
+'''Alex''': No visual.
+
+''The vehicle drives down the street and slows for a short time before it speeds back up and drives away.''
+
+'''Alex''': They moved on. We're good.
+
+'''US UAV Operator''': 0-6, Jaguar 4-1. You've got enemies inbound from the east, over?
+
+''Another vehicle approaches. This time, it drives through the grass field towards the compound at high speed.''
+
+'''Price''': Solid copy! Mark targets for the UAV!
+
+''Kyle marks the vehicle with the laser beam.''
+
+'''US UAV Operator''': Rifle.
+
+''The missile hits the vehicle.''
+
+'''Alex''': Solid shot, Garrick!; Nice fuckin' hit, Kyle!
+
+''Another enemy vehicle drives down the road at high speed.''
+
+'''Price''': Secondary vehicle! On the road!
+
+'''Farah''': End of the street!
+
+'''Alex''': Rog'!
+
+'''Price''': Take 'em out!; Garrick, mark the target with the green beam!; Sergeant, use the green beam!
+
+'''Alex''': Target 'em with the green beam.
+
+'''Kyle''': Marked another target.; Rog', marking.; Target marked.
+
+''Al-Qatala soldiers appear in the area and attack the compound. Kyle continues using the drone's missiles to hit both insurgents and their vehicles.''
+
+''(If the missile misses its target...)''
+
+'''Hadir''': No good! Hit it again!
+
+'''US UAV Operator''': 0-6, Jaguar 4-1 is bingo fuel. Egressing at this time.
+
+'''Price''': Roger, 4-1. Thanks for the assist.
+
+'''Hadir''': What does this mean?
+
+'''Alex''': He's outta gas, we're on our own again.
+
+'''Price''': Focus up!
+
+''Suddenly, sniper fire rings out and a Marine is shot in the face. Another Marine with an [[M91]] tries to save him only to get shot in the face and fall, wounded. He tries getting up only to get shot again. He crawls for a few seconds before dying.''
+
+'''Price''': Friendly down!
+
+''More Al-Qatala fighters attack the compound from the north, forcing the defenders to engage them.''
+
+'''Alex''': Up in the building -- Drop a hellfire on these motherfuckers!
+
+'''Price''': Sniper!; At the building!
+
+''Al-Qatala fighters launch another mortar attack on the compound.''
+
+'''Farah''': Mortar!!
+
+''Price identifies the origin of the mortar strikes.''
+
+'''Price''': Two-story building. Northeast!
+
+'''Farah''': No shot!
+
+'''Alex''': We gotta take 'em out!
+
+'''Hadir''': I'll go!
+
+'''Farah''': Not alone.
+
+'''Price''': Garrick, go with Hadir. Take out that mortar team, then get your arses back here.
+
+'''Alex''': We'll cover you from here. Marines! Back them up!
+
+'''US Soldier 1''': Yes, sir!
+
+'''US Soldier 2''': Oorah!
+
+''The Marines provide cover for Kyle and Hadir as they move up the street towards the mortar team's position.''
+
+'''US Soldier 1''': We're pushing up! Move!
+
+'''US Soldier 2''': Watch left! Watch left!
+
+'''Hadir''': That's the mortar house! Left side!
+
+''As Kyle and Hadir push through the street, they come to a high barrier separating them from the house. The only way in is through the wooden door.''
+
+'''Hadir''': The mortar team is inside. Get the door, Sergeant!; Sergeant Garrick, the door!
+
+''Kyle tries to open the door only to find it locked.''
+
+'''Kyle''': It's locked!
+
+'''Hadir''': Boost me over the wall, I'll get us inside!
+
+''Kyle and Hadir stand by the wall, with Kyle giving Hadir a boost over the wall as he scrambles over it to the other side. Hadir opens the door by shooting through it and killing an insurgent at the same time.''
+
+'''Hadir''': This way!
+
+'''Kyle''': ''(on radio) ''0-6, we're at the target building. Moving interior.
+
+'''Price''': ''(over radio) ''Roger./Roger that. We'll hold fire.
+
+''(If Kyle doesn't move immediately...)''
+
+'''Hadir''': Sergeant, we have to take out this mortar team! Hurry!
+
+''Hadir opens the door into the house and wrestles with an Al-Qatala insurgent before he and Kyle kill him.''
+
+'''Hadir''': ''(in Arabic)'' Stay frosty...
+
+''Kyle and Hadir clear out the house on the ground level before moving up the stairs.''
+
+'''Hadir''': Upstairs.
+
+'''Al Qatala Fighter 2''': ''(in Arabic) ''They are here!
+
+''Kyle and Hadir clear out the insurgents on the second floor and eliminate the mortar team that is positioned on the balcony.''
+
+'''Kyle''': All stations - Bravo 2-6, all mortars down, building is clear.
+
+'''Price''': Rally back at the compound.
+
+''Kyle and Hadir reunite with the other defenders.''
+
+'''Hadir''': Sister, they're bringing in more fighters.
+
+'''Alex''':''' '''In the field!
+
+''The team engages with more insurgents who pour into the grass field inside their vehicles. The attackers breach the compound.''
+
+'''Alex''': They're inside the compound!
+
+'''Kyle''': They'll get to the Wolf!
+
+'''Price''': Fall back to the residence!
+
+'''Alex''': They're inside, Captain! AQ breached the residence building!; We're taking fire from the residence!
+
+'''US Soldier 1''': Man down!
+
+'''Kyle''': They're going for the Wolf!
+
+'''Price''': Get over there now! Secure the Wolf!
+
+''The embassy defenders rush back into the compound and retreat to the residence building, while dealing with Al-Qatala fighters along the way.''
+
+'''Price''': Kyle, get to the Wolf's safe room in the residence building!; Sergeant, residence building! Wolf saferoom, now! Everyone, get back to the residence before they free the Wolf!; Get to the residence! They're trying to break out the Wolf!; All Bravo to the residence building now!
+
+''Inside the residence building, an Al-Qatala fighter is holding Stacy hostage and threatening to kill her. A [[Suicide Bomber]] rushes out of the building.''
+
+'''Al-Qatala Fighter 2''': Where is the Wolf?! Tell me now!
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' For our leader! You will die here! For the Wolf!
+
+''Kyle kills the fighter who suddenly falls dead and explodes.''
+
+'''Price''': Get in there, Garrick!
+
+''Kyle follows the team through the courtyard and into the building.''
+
+'''Price''': The Wolf's through here!
+
+''(If Kyle waits long enough...)''
+
+'''Price''': Move your arse, Sergeant!
+
+''The team comes upon Stacy being held hostage by an insurgent.''
+
+'''Stacy''': No, no! Let me go! Let me GO!!
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' I will kill her! I will fucking kill her!
+
+'''Stacy''': Sergeant Garrick!
+
+''Kyle manages to shoot the terrorist and save Stacy's life.''
+
+'''Kyle''': Stacy, get out of here now!
+
+''The defenders run over to the safe room and try to open the door, to no avail.''
+
+'''Kyle''': Door's jammed, I need help!
+
+''Price and Garrick push open the door together and enter the safe room. The camera switches to the 3rd-person view to reveal Price and Garrick securing the safe room.''
+
+'''Price''': Clear!
+
+'''Kyle''': All clear?
+
+''Price, Garrick, Alex, Farah, and Hadir enter the room and see a huge breach in the room and no sign of the Wolf.''
+
+'''Farah''': He's gone...
+
+'''Alex''': They breached the wall.
+
+'''Kyle''': Fuckin' hell, they got him, Captain...
+
+'''Hadir''': We will find him.
+
+'''Farah''': Hadir - Get your team to the crossroads. Bring everything you've got.
+
+'''Hadir''': Yes, sister...
+
+'''Price''': What's the plan, Farah?
+
+''The screen cuts to black.''
+
+''(End of level)''
+
+{{CoD16 CampaignT}}
+[[Category:Call of Duty: Modern Warfare (2019) Transcripts]]

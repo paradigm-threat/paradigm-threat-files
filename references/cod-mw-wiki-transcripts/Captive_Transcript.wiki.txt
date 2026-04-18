@@ -1,0 +1,814 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_(2019)_Transcripts -->
+<!-- title: Captive/Transcript -->
+
+{{game|mw}}
+== Cutscene ==
+''Two soldiers are seen carrying the bodybag that contains [[Omar "The Wolf" Sulaman]] with Alex and the others following behind. The two soldiers load the body onto one of the MH-6 Little Birds.''
+
+''Kyle approaches Alex as he is getting on another helicopter.''
+
+'''[[Kyle Garrick|Kyle]]''': Alex! If it wasn't me - I'm glad it was you.
+
+'''[[Alex Keller]]''': Too bad we couldn't kill him twice.
+
+''Alex pats him on the arm.''
+
+'''Kyle''': Thanks, mate.
+
+''Three'' ''MH-6 Little Birds are seen flying back to base and land. Alex and some soldiers dismount from off the helicopter, and a soldier is seen taking the bodybag off the helicopter.''
+
+'''[[Kate Laswell|Laswell]]''': ''(offscreen)'' Congratulations on a job well done.
+
+''Alex, Price, Farah, and Garrick are standing in an operations tent with Laswell and Colonel Norris.''
+
+'''Laswell''': As much as we can all hear the ice in the glass, I'm afraid our toast has to wait. Hadir and his new friends are on the move.
+
+'''Farah''': Where are they?
+
+'''Laswell''': One step at a time.
+
+'''Alex''': No one said they're friends.
+
+'''[[Norris]]''': The [[Lyons|general]] would tend to disagree.
+
+'''Laswell''': Norris, I asked you to let me-
+
+''Norris interrupts her.''
+
+'''Norris''': Tell them, Laswell, or I will.
+
+'''Laswell''': ''(reluctantly)'' Command has officially redesignated Farah's forces.
+
+'''Kyle''': You want to translate that from bullshit to English?
+
+'''[[John Price (Reboot)|Price]]''': It means they're on the list.
+
+'''[[Farah Karim|Farah]]''': What list?
+
+'''Norris''': Foreign terror organization list. I've ordered my Marines to treat Farah's army as hostiles.
+
+'''Alex''': ''(shocked)'' What?! They're our allies.
+
+'''Norris''': Not anymore.
+
+'''Price''': You keep your moppets on a short string, Colonel.
+
+'''Norris''': ''(antagonizing Price) ''Or what?
+
+''Price approaches Norris threateningly.''
+
+'''Price''': ''(angrily) ''Or I'll fucking hang you from it.
+
+''Norris then leaves.''
+
+'''Alex''': ''(to Laswell) ''Kate, these people need our support.
+
+'''Laswell''': There's nothing else we can do.
+
+'''Kyle''': There's plenty we can do.
+
+'''Alex''': I'm tired of being told who my friends are.
+
+'''Farah''': Alex, don't...
+
+'''Alex''': I'm going to Urzikstan. I'm staying with Farah's army.
+
+'''Laswell''': What you're doing is illegal.
+
+''Alex walk away from Laswell and grabs his gear.''
+
+'''Alex''': ''(to Laswell)'' I'm pretty sure everything we do is illegal.
+
+''Kyle approaches.''
+
+'''Kyle''': Only the good stuff. You got friends nearby.
+
+''Alex shakes Kyle's hand.''
+
+'''Alex''': You too.
+
+'''Farah''': ''(to Price) ''Thank you. For everything.
+
+'''Price''': Oh, it's not over yet. Trust me.
+
+'''Farah''': I always have.
+
+''The screen fades to goes black.''
+==Gameplay==
+''A flashcard fades in, indicating it is 10 years ago in the past.''
+
+''Text appears''
+
+'''Captive '''
+
+'''Imprisoned since 1999 '''
+
+'''Cmdr. Farah Karim '''
+
+'''POW Leader '''
+
+'''Tobrak, Urzikstan'''
+
+'''[[Hadir Karim|Hadir]]''': Farah! Sister, wake up!
+
+''Farah is slowly waking up from her sleep in her cell.''
+
+'''Farah''': Hadir, is that you?
+
+'''Hadir''': Yes, Let me see you!
+
+''Farah gets off her bed to talk to Hadir who is in a cell across the hall.''
+
+'''Hadir''': How long have you been in solitary?
+
+'''Farah''': ''(weakly)'' Ten days...
+
+'''Hadir''': You look sick...
+
+'''Farah''': No food or water... 
+
+'''Hadir''': ''(pained)'' Sister...
+
+'''Farah''': It's okay - I can take it...
+
+'''Hadir''': Why have they put us together like this?
+
+'''Farah''': They're using you to get to me...
+
+'''Hadir''': They would have to kill me first. I-
+
+'''Farah''': No, Hadir, I need you alive.
+
+''Hadir grabs a key out of his pants pocket and shows it to Farah.''
+
+'''Hadir''': Look. I stole a key.
+
+'''Farah''': To what?
+
+'''Hadir''': We will find out... Here take it. Catch...
+
+''Hadir throws her the key across the hall. Farah catches it.''
+
+'''Farah''': Got it.
+
+'''Hadir''': Good. Hide it...
+
+''A door is heard slamming shut.''
+
+'''Hadir''': General Barkov is coming. He knows about the messages. Does he know that you are Karim?
+
+'''Farah''': We'll see.
+
+''Barkov is heard whistling down the hallway with a stun gun in his hand. Barkov and two Russian camp guards appear in front of them.''
+
+'''[[Roman Barkov|Barkov]]''': (to Farah) Oh look, a family reunion... How nice...
+
+'''Hadir''': Go fu-!
+
+''Barkov uses his stun gun on Hadir. Hadir grimaces in pain.''
+
+'''Farah''': Hadir!
+
+'''Barkov''': You want this to stop, you tell me the truth!
+
+'''Barkov''': ''(to a soldier)'' Отведите его на склад. [Take him to the warehouse]'' (in English)'' Make him talk. This one's all mine...''(to Farah)'' Step back.
+
+''(If Farah hesitates before backing up, Barkov will stun her...)''
+
+'''Barkov''': Back, I said!
+
+''Farah complies with Barkov's order.''
+
+'''Barkov''':'' (to a soldier)'' Двери! [Doors!]
+
+''Farah and Hadir's cell doors opens up. A soldier is seen punching Hadir in the face and dragging him from his cell.''
+
+'''Farah''': No...!
+
+'''Hadir''': ''(to Barkov) ''Keep your hands off her you sick bastard! I'll kill you! All of you!
+
+''Barkov enters Farah's cell.''
+
+'''Barkov''': I hope you had a nice visit with your brother. You might never see him again.
+
+''The cell doors close.''
+
+'''Farah''': Yes I will...
+
+'''Barkov''': Shut up and go in the corner.
+
+''(If Farah does not follow his command, he will use the stun gun.)''
+
+'''Barkov''': Do not face me, Farah.; Turn around, I said.; Farah, in the corner, now!
+
+''Farah faces the corner.''
+
+'''Barkov''': Any plans you have to escape... you will soon forget. Face me now.<p class="MsoNormal">''Barkov sits on her bed.''</p><p class="MsoNormal">'''Barkov''': It’s hotter than hell in this shit-hole country… You must be so thirsty…</p><p class="MsoNormal">''Barkov grabs his canteen and takes a big swig of water. He then offers her a drink of water.''</p><p class="MsoNormal">'''Barkov''': Want some?</p><p class="MsoNormal">''Barkov dumps the water to the floor.''</p><p class="MsoNormal">'''Barkov''': None left.</p><p class="MsoNormal">''Barkov gets off the bed.''</p><p class="MsoNormal">'''Barkov''': Let’s get you some water.</p><p class="MsoNormal">''Barkov orders a soldier to open the cell.''</p><p class="MsoNormal">'''Barkov''': Двери! [Doors!]</p><p class="MsoNormal">''The cell doors open.''</p><p class="MsoNormal">'''Barkov''': ''(to Farah) ''Follow me.</p><p class="MsoNormal">''Farah walks out of her cell and into the hall where Barkov points to a room.''</p><p class="MsoNormal">'''Barkov''': Come get your water, Farah. In there.</p><p class="MsoNormal">''The room is filled with torture equipment and a chair in the center of the room. Noise can be heard in a another room.''</p><p class="MsoNormal">'''Camp Guard 1''': Tell me!</p><p class="MsoNormal">'''[[Azadeh]]''': No!</p><p class="MsoNormal">'''Camp Guard 1''': Then you do this to yourself! Learn your fucking lesson, girl...</p><p class="MsoNormal">'''Azadeh''': I don't know anything!</p><p class="MsoNormal">'''Camp Guard 1''': Stop lying! Did you change your mind?</p><p class="MsoNormal">'''Azadeh''': No.</p><p class="MsoNormal">'''Camp Guard 1''': You can tell me or you can tell the general... Do you want to talk to the general...?</p><p class="MsoNormal">'''Azadeh''': I will tell him what I told you...</p><p class="MsoNormal">'''Camp Guard 1''': You told me nothing!</p><p class="MsoNormal">'''Azadeh''': Because there is nothing to tell you!</p><p class="MsoNormal">'''Camp Guard 1''': Do you know what's next for you?</p><p class="MsoNormal">'''Azadeh''': You are wasting your time!</p><p class="MsoNormal">'''Camp Guard 1''': You are running out of time...</p><p class="MsoNormal">'''Azadeh''': I am not a rat, so even if I knew something, I wouldn't tell you...</p><p class="MsoNormal">'''Camp Guard 1''': This is your last chance, bitch... You hear me, after this, I can't help you... Give me the NAME...</p><p class="MsoNormal">'''Azadeh''': I don't know the name!</p><p class="MsoNormal">'''Camp Guard 1''': Do you want someone else to die for you... Is that what you want...?</p><p class="MsoNormal">'''Azadeh''': NO, no, I don't want anyone to die!</p><p class="MsoNormal">'''Camp Guard 1''': Then don't be a fool, say the name! All you have to do is say this name and this will be over...</p><p class="MsoNormal">'''Azadeh''': Never... I won't help you... no one will help you...</p><p class="MsoNormal">''(If Farah doesn't move to the chair...)''</p><p class="MsoNormal">'''Barkov''': The chair, Farah…; In the chair, Farah. Now.; Sit down, Farah!; I can do this all day. Get in the chair now, Farah.</p><p class="MsoNormal">''Farah sits down in the chair and the guard chains her legs up. Barkov approaches her and kneels in front of her.''</p><p class="MsoNormal">'''Barkov''': There will be no escape, Farah. No one is coming to rescue you. I am in control here, and I can make your life much, much easier… Now, tell me about “Commander Karim” and the failed message… Answer me…</p>
+{{Tabber2|If Farah spits in Barkov's face...|''Farah spits in Barkov's face.''
+
+'''Barkov''': Playing rough, eh Farah? Exactly what I had in mind, I’ve been patient with you, but no more…
+
+|...|''Farah remains silent.''
+
+'''Barkov''': So stubborn. You will pay for your silence. I have been patient with you, but no more…
+
+|I am Karim.|'''Farah''': The messages are from me. I am Karim.
+
+'''Barkov''': No. Karim is the leader. You're just a messenger. I've been patient with you, but no more...
+
+|Karim is dead.|'''Farah''': Karim is dead.
+
+'''Barkov''': Stop protecting him! Protect yourself! I have been patient with you, but no more...
+
+|Go fuck yourself.|'''Farah:''' Go fuck yourself.
+
+'''Barkov''': Watch your mouth, girl. I’ve been patient with you, but no more…
+}}
+
+''Barkov gestures to the guard behind Farah to pull her head back. Barkov brings over a black cloth.''
+
+'''Barkov''': Stay awake and you might see your brother one last time.
+
+''Barkov'' ''gestures Farah to the guard.''
+
+'''Barkov''': He's going to give you a drink.
+
+''Barkov places the cloth on her face.''
+
+'''Barkov''': Try to breathe.
+
+''The guard grabs a gas can filled with water and proceeds to waterboard Farah.''
+
+'''Barkov''': Breathe, Farah - you can do it.
+
+''Farah continues to breathe during the waterboarding.''
+
+'''Barkov''': That's it!; There you go!; Nice, you're pretty good at this!
+
+''The guard stops waterboarding Farah.''
+
+'''Barkov''': Good! That's enough for now. So, strong, Farah. Keep it up and you will see Hadir. One more time, who is Karim?
+
+{{Tabber2|...|''Farah remains silent.''
+
+'''Barkov''': You will learn to obey me, Farah - I promise.
+
+|Farah spits in Barkov's face.|''Farah spits in Barkov's face.''
+
+'''Barkov''': So you do like to play rough. So do I.
+
+|Fuck you.|'''Farah''': Fuck you.
+
+'''Barkov''': Such a filthy girl.
+
+|Karim is dead.|'''Farah''': I told you - Karim is dead.
+
+'''Barkov''': Lying for him again. That will cost you...
+
+|I am Karim.|'''Farah''': The messages are from me. I am Karim.
+
+'''Barkov''': No. Karim is your leader. You're just a messenger.
+}}
+
+''Barkov calls out to another guard.''
+
+'''Barkov''': Заводи! [Let's go!; lit. "bring [her] in"]
+
+''The second camp guard brings forward a prisoner named Azadeh.''
+
+'''Barkov''': I found one of your "sisters".
+
+'''Azadeh''': I said nothing, Farah...
+
+'''Farah''': It's okay, Azadeh...
+
+''Barkov cocks his [[.357 Magnum|revolver]].''
+
+'''Barkov''': Quiet...! Her life is in your hands now, Farah... Stay awake, she lives... Pass out - she dies. Ещё раз! [One more time!]
+
+''Barkov shouts in Russian for the guard to pull Farah backwards and resume the waterboarding. The guards pours more water over Farah's face.''
+
+'''Barkov''': I'll make it tougher this time.
+
+''Farah keeps breathing throughout the waterboarding.''
+
+'''Barkov''': Damn, you're good.; Not that way, Farah!; Other way!; Other side, Farah!; Hold still!; You can't hold your breath forever!; Trying to move your head?!; Trouble breathing, Farah?; Again, another breath...?!; Stop moving, Farah!; Don't move!
+
+''Barkov orders the guard to stop the torture.''
+
+'''Barkov''': Enough! No more...!
+
+''The guard stops with the waterboarding and Farah snaps back upright, breathing heavily.''
+
+''(If Farah fails to stay awake during the waterboarding, Barkov will execute Azadeh.)''
+
+'''Barkov''': Congratulations, Farah. You saved a life. I want you to tell me the truth... or she dies.
+
+'''Farah''': I did what you asked!
+
+'''Barkov''': No, I said the truth! Who is Karim?! Say it!
+
+{{Tabber2|Eat shit, you fucking dog.|'''Farah''': Eat shit, you fucking dog.
+
+'''Barkov''': I gave you a chance to save a life. Now, let me show how to take one.
+
+'''Farah''': Don't - she is harmless!
+
+'''Azadeh''': No! No! Please, no-!
+
+''Barkov shoots Azadeh at her head - killing her.''
+
+'''Barkov''': ''(to guard) Уберите это.'' [Clean that up.] ''(to Farah)'' See what you made me do, huh?
+
+|There is no Karim.|'''Farah''': There is no Karim.
+
+'''Barkov''': I gave you a chance to save a life. Now, let me show how to take one.
+
+'''Farah''': Don't - she is harmless!
+
+'''Azadeh''': No! No! Please, no-!
+
+''Barkov shoots Azadeh at her head - killing her.''
+
+'''Barkov''': ''(to guard) Уберите это.'' [Clean that up.] ''(to Farah)'' See what you made me do, huh?
+
+|Farah spits in Barkov's direction.|''Farah spits in Barkov's direction.''
+
+'''Barkov''': I gave you a chance to save a life. Now, let me show how to take one.
+
+'''Farah''': Don't - she is harmless!
+
+'''Azadeh''': No! No! Please, no-!
+
+''Barkov shoots Azadeh at her head - killing her.''
+
+'''Barkov''': ''(to guard) Уберите это.'' [Clean that up.] ''(to Farah)'' See what you made me do, huh?
+
+|I am Karim.|'''Farah''': The messages are from me - I am Karim. I am responsible.
+
+'''Barkov''': ''(chuckles)'' Of course you are... I knew all along. Уведите. [Get her out.]
+
+'''Azadeh''': ''(dismayed)'' Farah, no...
+
+''Barkov orders the guard to take Azadeh away. Farah watches as Azadeh is dragged out of the room.''
+
+'''Barkov''': Tell the others, their fearless leader has broken...
+}}
+''Barkov pistol-whips Farah in the face. The screen goes to black.''
+
+''A short time later, Farah groggily wakes up in her cell to see Barkov chaining her back to the bed. Barkov holds a bowl of food in his hand and extends it to Farah.''
+
+'''Barkov''': You must be hungry, Farah, hm? Eat, then we'll talk.
+
+''(If Farah does nothing...)''
+
+'''Barkov''': Come on...
+
+''After a moment, Barkov throws the bowl of food at the wall in frustration.''
+
+'''Barkov''': You think this is a game, huh?! You think you can beat me?
+
+''Barkov grabs her and holds her down.''
+
+'''Barkov''': Enough games! Your brother took a key from me. Where is it, hm?
+
+'''Farah''': Did you lose a key?
+
+'''Barkov''': One is missing, but we have others.
+
+'''Farah''': What does the key open?
+
+'''Barkov''': You think you're so smart... "Karim".
+
+'''Barkov''': Yes, I know. I've known all along. ''(If Farah didn't reveal herself as "Karim" during the interrogation.)''
+
+'''Barkov''': Now... where is the key your brother stole from me?; Go on...
+
+''(Depending on whether Azadeh lives or dies, Farah can include Hadir's cell as a dialogue option.)''
+
+{{Tabber2|What key?|'''Farah''': What key?
+
+'''Barkov''': The one you are hiding.
+
+''Barkov strikes Farah in the face with his elbow.''
+
+|Farah spits in Barkov's face.|''Farah spits in Barkov's face.''
+
+'''Barkov''':  It's okay! I like it, Farah!
+
+''Barkov strikes Farah in the face with his elbow.''
+
+|I have it.|'''Farah''': I have it.
+
+'''Barkov''': I know you do. You have been hiding it all along.
+
+''Barkov strikes Farah in the face with his elbow.''
+
+|Azadeh had it.|'''Farah''': Azadeh had it.
+
+'''Barkov''': Lies! We checked her! Thoroughly!
+
+''Barkov strikes Farah in the face with his elbow.''
+
+|...|''Farah remains silent.''
+
+'''Barkov''': Silence? I can fix that...
+
+''Barkov strikes Farah in the face.''
+
+|It's in Hadir's cell.|'''Farah''': Hadir had it in his cell.
+
+'''Barkov''': Lies - we checked his cell.
+
+''Barkov strikes Farah in the face with his elbow.''
+}}
+
+''Next, Barkov puts on his gloves.''
+
+'''Barkov''': ''(yells)'' This country is a breeding ground for terrorists. I am here to bring law and order to this land and no terrorist thief will harm my country! I will protect Russia!
+
+''Barkov starts to choke Farah. Farah struggles to breathe.''
+
+'''Barkov''': ''(snarls)'' Quiet!
+
+''Suddenly, the sound of an explosion is heard in the prison cell that causes Barkov to stop choking Farah. He turns to face the soldiers by the cell door.''
+
+'''Barkov''': Что, чёрт возьми, происходит?! [What the hell is happening?!]
+
+'''Russian Soldier 1''': На нас напали! [We are under attack!]
+
+'''Barkov''': Запереть их на складе и спалить его нахер! [Lock them in the warehouse and burn it to the ground!]
+
+''Barkov turns to face Farah.''
+
+'''Barkov''': You didn't save your people, Farah Karim. You killed them!
+
+''Barkov walks out of the cell and shouts at his guards in Russian.''
+
+'''Barkov''': Вертолёты, быстро! Все к оружию! К бою все, к бою! [Choppers, now! Everyone, to arms! Get ready for combat!]
+
+''The doors close, leaving Farah alone as she looks over her restraints.''
+
+'''Farah''': Loose. Not tight.
+
+''Farah slips her hands out of the restraints and looks for a way to escape her cell. She tries the grating by the floor.''
+
+'''Farah''': Mmph... I need a tool.
+
+''Farah walks over to where Barkov threw the bowl of food and grabs the spoon lying on the ground.''
+
+'''Farah''': The spoon... perfect.
+
+''Farah breaks off the spoon head, creating an improvised shiv.''
+
+'''Farah''': Nice little shiv... Okay, I must go, now.
+
+''Farah walks back to the grating and pries it open successfully with the shiv.''
+
+'''Farah''': Yes... Umph...
+
+''Farah crawls through the opening and into the vent. She finds another grating nearby ad pries it open, allowing her to enter an adjacent cell.''
+
+'''Farah''': Good...
+
+''Farah notices a few rocks around the cell and sees the release button across from the cell. Farah throws the rock at the button and succeeds in opening the cell doors in the hall.''
+
+'''Farah''': Yes, it worked...
+
+''Farah steps out of the cell and walks down the hallway to the interrogation room. She hears a soldier speaking in Russian.''
+
+'''Russian Soldier 1''': Эй, ты! Очистить здание! Приказ генерала! [Hey, you! Clear this building! General's orders.]
+
+''Farah walks over to a door and uses the key Hadir gave her earlier. She tries unsuccessfully to open the door.''
+
+'''Farah''': Doesn't fit. Have to get in there.
+
+''Farah notices the chair she was sitting in earlier and grabs it.''
+
+'''Farah''': I can use this to climb.
+
+''Farah walks out of the room and uses the chair to climb through an upper vent and jump down into the other side. She crawls into the sewer tunnels and starts making her way out. She hears more voices in Russian.''
+
+'''Camp Guard 1''': Я заберу бунтарку из подвала. [I'll get the troublemaker from the basement.]
+
+'''Camp Guard 2''': Быстрее! Потом заберём других наверху! [Quickly, then we'll collect the others upstairs.]
+
+''Farah stops crawling before reaching a grate above the tunnel and sees the guards moving about in the hall. One of the guards notices the chair that Farah used a moment ago.''
+
+'''Camp Guard 2''': Кто передвинул этот стул? [Who moved that chair?]
+
+''The guards notice the open cell doors.''
+
+'''Camp Guard 1''': Двери камер открыты! [The cell doors are open!]
+
+'''Camp Guard 2''': Твою мать, она сбежала! [Sonovabitch, she escaped!]
+
+'''Camp Guard 1''': Барков тебя убьёт! [Barkov will kill you!]
+
+'''Camp Guard 2''': Почему меня? [Why me?]
+
+'''Camp Guard 1''': Это же твоя секция! ''[''This is your section!]
+
+'''Camp Guard 2''': Чёрт! Найди её и убей! [Shit! Find her and kill her!]
+
+''Farah reaches the end of the sewer and climbs up through the vent into the locker room. She sees a patrolling Russian guard and tries to sneak up on him.''
+
+'''Camp Guard 1''': ''(in Russian)'' I hear movement.
+
+'''Camp Guard 2''': ''(in Russian)'' It's her...
+
+'''Camp Guard 1''': ''(in Russian)'' Find her, you idiot!
+
+'''Camp Guard 2''': ''(in Russian)'' I'm trying!
+
+'''Camp Guard 1''': ''(in Russian)'' Try harder!
+
+''Farah ambushes the guard and stabs him in the neck with her shiv. He tries to retaliate until Farah stabs him multiple times. The guard drops to the floor dead and Farah takes the guard's [[X16]] pistol.''
+
+'''Camp Guard 1''': Эй, ты там! Где ты? Опять на работе спишь?! Найди девчонку! Ты меня слышишь? Чёрт, она достала тебя? Вот чёрт! [Hey, you there...? Where are you?; Sleeping on the job again...?!; Find that girl... you hear me-?! Damnit. Did she get you...? Shit!]
+
+''The second camp guard realizes that Farah has escaped and stands by the stairwell ready to shoot Farah.''
+
+'''Camp Guard 1''': ''(in English)'' If you're in here, there's only one way out- You won't get past me. You may as well give up...!
+
+''Guards are heard over the radio.''
+
+'''Camp Guard 3''': Они прорвались! [They've breached!]
+
+'''Camp Guard 4''': Сколько человек? [How many men?]
+
+'''Camp Guard 3''': Небольшой отряд! [Small team.]
+
+'''Camp Guard 4''': ''(in Russian)'' Impossible...
+
+'''Camp Guard 3''': ''(in Russian)'' Go see for yourself...
+
+'''Camp Guard 4''': ''(in Russian)'' Why don't you?
+
+'''Camp Guard 3''': ''(in Russian)'' How'd they find us?
+
+'''Camp Guard 4''': ''(in Russian)'' Someone sent a message.
+
+'''Camp Guard 3''': ''(in Russian)'' It's a rescue...
+
+'''Camp Guard 4''': ''(in Russian)'' Or an escape...
+
+''Farah shoots the guard and moves through the prison looking for her sisters.''
+
+'''Farah''': I'm coming, sisters...
+
+''Farah walks up the stairs to the door leading into the upper level where she sees her sisters in the cells. They rush to the bars, overjoyed to see her. Depending on the player's dialogue choices, Azadeh will either be alive or dead.''
+
+'''Darine''': Farah!
+
+'''Azadeh/Ayah''': Over here!
+
+'''Farah''': Sisters!
+
+'''Ayah''': You escaped!
+
+'''Darine''': I knew she would...
+
+'''Ayah''': The guards left. What's happening?
+
+'''Farah''': [[Barkov's Forces]] are under attack. We have to go...
+
+'''Darine''': Open the door, sister.
+
+'''Ayah''': The button will open the cells.
+
+''Farah walks over to the cell door release button and pushes it, allowing her sisters to walk out of their cells.''
+
+'''Ayah''': Thank you, sister...
+
+'''Darine''': Farah, come, the guns are over here...
+
+''Farah and her sisters walk over to a storage locker, which Farah opens with Hadir's stolen key.''
+
+'''Farah''': Thanks, Hadir...
+
+''Farah and her sisters arm themselves with [[AK-47|AK-47s]] and [[M67 Grenade|grenades]].''{{Tabber2|Azadeh alive|'''Azadeh''': Barkov almost killed us down there.
+
+'''Farah''': Yes, Azadeh. Now let's kill him!|Azadeh dead|'''Darine''': Did Barkov kill Azadeh down there?
+
+'''Farah''': Yes. Let's kill him!
+}}'''Ayah''': The guards are coming back!
+
+'''Darine''': Quickly! We'll ambush them!
+
+'''Ayah''': How?
+
+'''Farah''': Point and shoot until they fall... Like we said.
+
+''The women set up their ambush by the door until a camp guard comes through. The women shoot him down and dispatch the rest of the guards in the hallway outside.''
+
+'''Farah''': Well done, sisters! Barkov locked the others in a warehouse. Let's get there before they're all dead.
+
+'''Ayah''': Okay.
+
+'''Darine''': Yes, Farah...
+
+'''Ghalia''': Karim...
+
+''Farah leads her sisters through the corridors, eliminating any Russian soldiers and camp guards they encounter.''
+
+'''Farah/Darine''': We have the upper hand, sisters!!
+
+'''Ayah''': Kill them all!!
+
+'''Farah''': Good work, cousins... You're all very brave!
+
+'''Ghalia''': So are you, sister!
+
+'''Darine''': We are trying!
+
+'''Nadia''': Thank you, Karim!
+
+''Eventually, the women make their way outside and spot a helicopter flying overhead.''
+
+'''Ayah''': Helicopter!
+
+'''Farah''': It's Barkov!
+
+'''Darine''': The coward is leaving!
+
+'''Farah''': What do you expect from a spineless dog...?! Let's free the others from the warehouse before it's too late... On me, sisters.
+
+''A camp guard broadcasts an alert throughout the prison.''
+
+'''Camp Guard 1''': (RUSSIAN) We are under attack! South wall has been breached! Reinforce the perimeter! Man your stations! The south gate has been breached! We're under attack! Set up defensive positions! Man the towers! Reinforcements are coming!
+
+''Farah leads her sisters towards the warehouse.''
+
+'''Ayah''': The warehouse! Come on!; Let's go, Farah!
+
+''A sniper shot rings out from a nearby tower.''
+
+'''Ayah''': Look, top of the tower!
+
+'''Darine''': It's a sniper! He's protecting the warehouse!
+
+'''Farah''': That's where the prisoners are!
+
+'''Ayah''': Let's get there!
+
+'''Ghalia''': Follow Karim...!
+
+'''Nadia''': Go!
+
+''A Russian troop vehicle drives forward and offloads several soldiers who engage the women in a firefight.''
+
+'''Darine''': Russian vehicle!!
+
+'''Farah''': Aim for it!
+
+'''Camp Guard 1''': (RUSSIAN) Set up defensive positions! Man the towers! Reinforcements are coming!
+
+''(If Azadeh is killed...)''
+
+'''Darine''': They shot Azadeh!
+
+'''Ayah''': In the name of the cause!
+
+''Farah and her sisters try to flank and defeat the sniper.''
+
+'''Ayah''': Look out - They've got a rocket grenade!; Watch out for the sniper!
+
+''More Russian reinforcements arrive.''
+
+'''Darine''': Reinforcements!
+
+'''Farah''': Shoot them!
+
+'''Ghalia''': We have to kill that sniper...!
+
+'''Ayah''': We need to get across to the warehouse!
+
+'''Ghalia''': Shoot those trucks...!
+
+'''Nadia''': We're getting close to the warehouse!
+
+'''Darine''': He's up there. Take him out!
+
+'''Ayah''': Watch out for the sniper!
+
+''(If Farah winds up in the sniper's crosshairs:)''
+
+'''Darine''': He's aiming for you, Farah!; Come on, Karim!
+
+'''Ayah''': Let's go, Farah!
+
+'''Nadia''': The sniper is holding us back!
+
+''Eventually, Farah manages to kill the sniper. (If Farah kills the sniper without ever getting hit, the player will earn the achievement "Dodged a Bullet.")''
+
+'''Darine''': You killed the sniper, Farah!
+
+'''Ayah''': Good shot, Karim!!
+
+''Farah and her sisters enter the warehouse and reach an interior door.''
+
+'''Ayah''': There's a way through here, Karim - The others must be inside.
+
+''(If Farah does nothing...)''
+
+'''Ayah''': Karim, we're at the storage door, lead us in...
+
+''Farah enters through the storage door only to be hit by Russian soldiers who ambush her and her sisters. The Russians force the women to surrender.''
+
+'''Russian Soldier 3''': Вот ты где! А ну стой! [Got you now - don't move!]
+
+'''Russian Soldier 4''': Бросить оружие! [Drop your guns!]
+
+'''Ayah''': No! Don't shoot! Please!
+
+''Farah lies on the ground and looks up to see shadows on the roof windows. The windows explode, causing the Russian soldiers to look up. Three [[Special Air Service/Modern Warfare (Reboot)|SAS]] troops slide down the ropes and shoot the three Russian soldiers, while the women raise their hands up to mark themselves as friendly. The SAS in the middle steps forward.''
+
+'''[[John Price (Reboot)|Price]]''': Who's "Commander Karim"?
+
+'''Farah''': I'm Karim.
+
+''The SAS soldier steps forward and lowers his weapon before taking his gas mask off. The soldier is revealed to be a young Lieutenant Price.''
+
+'''Price''': We got your messages. Lieutenant John Price. Where are the rest?
+
+''Price helps Farah up to her feet.''
+
+'''Farah''': In there, straight ahead!
+
+'''Price''': Stay close!
+
+''Price puts his gas mask back on as he and the SAS lead the women further in.''
+
+'''Price''': Let's go, boys...
+
+''Two Russian soldiers appear.''
+
+'''SAS Soldier 1''': Got two...
+
+''The SAS dispatch the Russians quickly.''
+
+'''SAS Soldier 1''': Clear.
+
+'''Price''': Push up.
+
+''Price leads the SAS and Farah to another part of the warehouse. They reach a locked room to find Hadir and the other prisoners trapped inside the burning chamber.''
+
+'''Farah''': Hadir...! Hadir!
+
+'''Price''': This is the gas factory! He's burning the evidence!
+
+'''Farah''': And the prisoners...!
+
+'''Price''': We're gonna breach - Stay back! Go...!
+
+''Price and the SAS plant an explosive charge on the door and step back. The explosive goes off, allowing the doors to open. The SAS push through the doors and dispatch the Russian guards inside. The team reaches the door into the chamber where the women recognize some of the dying prisoners.''
+
+'''Ayah''': Fahd, no!
+
+'''Darine''': Amro!
+
+'''Ghalia''': Kierran! Hadir!!
+
+'''Azadeh''': Mardik, can you hear me... Mardik!!!
+
+'''Nadia''': Help them!
+
+'''Price''': All clear! Okay, let's get them out of here! I'll open the sprinklers - Get that door open, Karim...!
+
+''Farah hurries to opens the door while she sees a struggling Hadir through the window.''
+
+'''Hadir''': Sister! Si-Sister! Sister, help! Help!
+
+''Farah tries to open the door, but to no avail.''
+
+'''Farah''': I can't - It's locked...!
+
+'''Price''': Hooley! Pry!
+
+''Price plants a [[Halligan Bar]] which he and Farah use to bust open the door.''
+
+'''Farah''': Hadir! Hadir!
+
+'''Price''': Keep pulling!
+
+'''Hadir''': Farah! Th-the door, Farah, hurry! Hurry! Hurry, Farah!
+
+''Farah and Price manage to break the locks and open the door, allowing Hadir and the prisoners to get out. Hadir staggers on his feet to Farah as they hold each other in their arms.''
+
+'''Hadir''': Sister...
+
+'''Farah''': Hadir... It's okay....
+
+'''Hadir''': They came...
+
+'''Farah''': Yes.
+
+'''Hadir''': We did it... You did it...
+
+''The screen fades to black.''
+
+'''Farah''': Catch your breath, collect survivors and supplies... We're leaving...
+
+''(End of level)''{{CoD16 CampaignT}}
+[[Category:Call of Duty: Modern Warfare (2019) Transcripts]]

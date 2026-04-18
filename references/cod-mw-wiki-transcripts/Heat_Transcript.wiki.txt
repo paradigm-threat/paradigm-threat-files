@@ -1,0 +1,200 @@
+<!-- category: Category:Call_of_Duty_4:_Modern_Warfare_Transcripts -->
+<!-- title: Heat/Transcript -->
+
+{{game|cod4|mwr}}
+
+== Cutscene ==
+''The satellite tracks the village in Azerbaijan where the [[Special Air Service/Modern Warfare|S.A.S.]] have recently [[Safehouse (level)|captured and executed]] [[Khaled Al-Asad|Al-Asad]].''
+
+'''[[Gaz]]''': E.T.A. on the chopper's at least a half hour, Captain Price.
+
+'''[[John Price|Captain Price]]''': No good. We'll be corpses for ten minutes by then. Every [[Ultranationalists|Ultranationalist]] psycho in [[Imran Zakhaev|Zakhaev]]'s pocket is about to show up on our doorstep, coming to claim Al-Asad.
+
+'''Gaz''': Or what's left of him.
+
+''Anti-personnel mines are seen placed throughout the hill as their strategy is analyzed.''
+
+'''Captain Price''': Right. We'll set charges along phase line Alpha on the southern hill... ...and more along phase line Bravo. We'll delay them all the way back to the top, and hold our ground at the extraction point in the fields around the farm. Any questions?
+
+'''Gaz''': Let's do this.
+
+== Gameplay ==
+'''[Present day - eight hours after Al-Asad's death.]'''
+
+'''["Heat"]'''
+
+'''[Day 4 - 09:40:28]'''
+
+'''[Northern Azerbaijan]'''
+
+'''[Sgt. "Soap" MacTavish]'''
+
+'''[22nd SAS Regiment]'''
+
+'''Ultranationalist''': ''(on a loudspeaker)'' Surrender at once and your lives will be spared! I am sure you will make right choice given the circumstances! ''(pause)'' Drop your weapons and surrender at once! You will not be harmed if you surrender!
+
+''Captain Price, Gaz, Sgt. [[John "Soap" MacTavish|"Soap" MacTavish]], and the S.A.S. team move out to face the Ultranationalist counterattack.''
+
+'''Captain Price''': Ignore that load of bollocks. Their counterattack is imminent. Spread out and cover the southern approach.
+
+'''SAS''': Sir, they're slowly coming up the hill. Just say when.
+
+'''Ultranationalist''': ''(on a loudspeaker)'' We know you are hiding in the village! You are surrounded! There is nowhere to run! Surrender and make it easy on yourselves!
+
+''The team prones on the edge of a fenced cliff at the south end of the hill. The player has the option to climb up the church tower where there are [[RPG-7|RPG]]<nowiki/>s he can use from there. Ultranationalists are seen walking up the hill, unaware they've walked right into the S.A.S. trap.''
+
+'''Captain Price''': Do it.
+
+'''SAS''': Ka-boom.
+
+''Gaz detonates phase line Alpha. The Ultranationalists quickly realize they've been duped and panic.''
+
+'''Ultranationalist''': ААААА!!! Аайй, я не могу двигаться! Где мои ноги, помогите, кто-нибудь!!! (AAAAA!!! Aaa, I can't move! Where are my feet, help me, somebody!)
+
+'''Captain Price''': OPEN FIRE!
+
+''They begin to open fire as the Ultranationalists attack the hill after being caught by surprise by the ambush. The player fires the RPGs to hold them off with 4 rockets. After running out, Soap fires his [[M249 SAW]] or his [[M21]].''
+
+'''Gaz''': Nice shot, mate. (commenting the team's accuracy)
+
+'''Ultranationalist''': Захватить с фланга на запад! (Flank them from the west!)
+
+'''Gaz''': Goodbye. (killing targets)
+
+'''Ultranationalist''': Их, там наверное, 2 взвода! (There must be two platoons of them!)
+
+'''Captain Price''': Squad, hold your ground, they think we're a larger force than we really are.
+
+'''Gaz''': Copy.
+
+''Wave after wave, they hold their ground. ''
+
+'''Ultranationalist''': Устройте дымовую завесу! Бросайте свои дымовые гранаты! (Put up a smokescreen! Throw your [[Smoke Grenade|smoke grenades]]!)
+
+''Smoke starts to pour in front of the hill.''
+
+'''SAS''': They're putting up smokescreens. Mac - you see anything?
+
+'''[[Mac]]''': Not much movement on the road. They might be moving to our west.
+
+''Mortar fire suddenly lands on the hill.''
+
+'''Gaz''': They're targeting our position with mortars. It's time to fall back.
+
+'''Captain Price''': Right. Soap, get to the [[minigun]] and cover our western flank. Go.
+
+'''SAS''': Two falling back.
+
+'''Gaz''': Three on the move.
+
+''They fall back up the hill. Soap heads for the minigun in the downed helicopter.''
+
+'''Gaz''': Three here. Two's in the far eastern building. We've got the eastern road locked down.
+
+''Soap mans the minigun and covers the west flank.''
+
+'''Captain Price''': Soap, keep the minigun spooled up. Fire in bursts.
+
+''Soap holds back a wave of Ultranationalists with the minigun. Suddenly about 5 [[Mi-8]] helicopters arrive to drop off enemy reinforcements.''
+
+'''SAS''': We've got a problem here... heads up!
+
+'''Gaz''': Bloody hell, that's a lot of helis innit?
+
+''The player can shoot down the helicopters with the minigun.''
+
+'''Captain Price''': Soap, fall back to the tavern and man the detonators. The rest of us will keep them busy from the next defensive line. Everyone move.
+
+''If the player stays on the minigun for too long...''
+
+'''Gaz''': Soaap! Get off the miniguun! We're faalling baack! Forget the minigun! We have to go NOW!
+
+''The team falls back to the next phase line.''
+
+'''Gaz''': Soap! We're falling back to the next phase line. Let's go! Let's go! You're gonna get left behind! Soap! Use the detonators! There's four of them in the tavern! Move!
+
+''Soap heads into the tavern and reaches the detonators. The player must be careful not to hurt any of his allies if there are any in the way. Soap detonates phase line Bravo and holds off a wave of enemies.''
+
+'''Mac''': We have [[T-72|enemy tanks]] approaching from the north. Bloody hell I'm hit! Arrgh -
+
+'''Captain Price''': Mac's in trouble! Soap! Get to the barn at the northern end of the village and stop those tanks. Use the [[FGM-148 Javelin|Javelin]] in the barn! Fall back to the farm at the top of the hill. Let's go. Now.
+
+''If the player doesn't fall back...''
+
+'''Gaz''': FALL BACK! FALL BACK!
+
+''The player falls back to the farm.''
+
+'''Gaz''': Soap! The Javelin's in the barn! Move! Move!
+
+''They fall back to the barn at the top of the hill in the north. Soap heads to the barn, grabs the Javelin, and takes out the four enemy tanks. As they continue to hold off hostiles, a flight of three [[AV-8B Harrier II|AV-8 Harriers]] flies overhead.''
+
+'''[[Falcon One|Harrier Pilot]]''': Bravo-Six, this is Falcon One standing by to provide close air support, over.
+
+''The team holds their ground at the barn.''
+
+'''[[Gryphon Two-Seven|Sea Knight Pilot]]''': Bravo-Six, this is Gryphon Two-Seven. We've just crossed Azerbaijani airspace. E.T.A. is four minutes. Be ready for pickup.
+
+''As soon Gryphon Two-Seven tries to pick them up, they are unable to because of the presence of many RPG wielders and to make matters worse, SAM sites threatening to shoot them down.''
+
+'''Sea Knight Pilot''': Bravo-Six, the LZ is too hot! We cannot land at the farm! I repeat, we CANNOT land at the farm! We're picking up SAM sites all over these mountains!
+
+'''Gaz''': Oh, that's just great! Now where are they gonna land now?
+
+'''Sea Knight Pilot''': Bravo-Six, we're getting a lot of enemy radar signatures, we'll try to land closer to the bottom of the hill to avoid a lock-on.
+
+'''Gaz''': (Oh, he's gotta be takin' the piss!) Is he takin' the piss? We just busted our arses to get to this LZ and now they want us to go all the way back down?!
+
+'''Captain Price''': Forget it, Gaz! We've got to get to the new LZ at the bottom of the hill! Now! Soap! Take point! Go!
+
+''They begin to push towards the bottom of the hill.''
+
+'''Sea Knight Pilot''': Bravo-Six, be advised, we're gonna come in low from the south across the river. Recommend you haul ass to LZ Foxtrot at the base of the hill. Out.
+
+'''Captain Price''': Copy, Two-Seven. Everyone - head for the landing zone! It's our last chance! Move!
+
+''Soap calls targets for air support, clearing a path to the new LZ.''
+
+'''Harrier Pilot''': Roger, standby for airstrike.; Target confirmed. Standby for airstrike.; Roger that, we're coming in hot.
+
+'''Sea Knight Pilot''': Bravo-Six, be advised we're almost there but we're low on fuel. You guys have three minutes before we have to leave without you, Over.
+
+'''Gaz''': We're gonna get left behind! We've got to get to the landing zone!
+
+''Two minutes left on the clock.''
+
+'''Sea Knight Pilot''': You got two minutes, over!
+
+'''Captain Price''': Copy that, we're on our way! We've got to break through their lines to reach the LZ! Keep pushing downhill!
+
+'''Gaz''': Let's go! Let's go! (Come on!) Get down the hill!
+
+''90 seconds left.''
+
+'''Sea Knight Pilot''': Ninety seconds to dustoff.
+
+''One minute left.''
+
+'''Sea Knight Pilot''': One minute to bingo fuel.
+
+'''Captain Price''': Get to the bottom of the hill! Move move!
+
+''30 seconds left.''
+
+'''Sea Knight Pilot''': Thirty seconds.
+
+'''Gaz''': Get to the LZ! Go! Go!
+
+''The team finally reaches the [[CH-46 Sea Knight|Sea Knight]] helicopter. As is moves into position to pick them up, the back opens, and once it touches down, Staff Sergeant Griggs and his [[United States Marine Corps/Modern Warfare|Marine]] squad emerge to lay down cover fire for the S.A.S. team.''
+
+'''[[Griggs|SSgt. Griggs]]''': Heard you guys need a ride outta here. Get on board! Move! Move! Let's go! Let's go!
+
+''The S.A.S. team boards the helicopter. Once they are on board, Griggs and his Marines fall back into the helicopter as well.''
+
+'''SSgt. Griggs''': Alright, we're all aboard! Go! Go!
+
+'''Sea Knight Pilot''': Ok, we're outta here. [[Baseplate]], this is Gryphon Two-Seven. We got 'em and we're coming home. Out.
+
+''The helicopter takes off and evacuates out of Azerbaijan.''
+
+{{CoD4 CampaignT}}

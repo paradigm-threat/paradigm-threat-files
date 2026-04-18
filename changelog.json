@@ -1,8 +1,580 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-17T12:46:15.939Z",
+    "date": "2026-04-18T13:50:19.650Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "history/chronology/giant-mountains.png",
+        "href": "/history/chronology/giant-mountains.png"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/artemis-ii-faith-test-investigation.png",
+        "href": "/history/chronology/investigations/artemis-ii-faith-test-investigation.png"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/artemis-ii-faith-test-investigation2.png",
+        "href": "/history/chronology/investigations/artemis-ii-faith-test-investigation2.png"
+      },
+      {
+        "status": "M",
+        "path": "history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md",
+        "href": "/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md",
+        "href": "/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation"
+      },
+      {
+        "status": "A",
+        "path": "influence/censorship/instagram_censorship6.png",
+        "href": "/influence/censorship/instagram_censorship6.png"
+      },
+      {
+        "status": "A",
+        "path": "influence/conspiracy/eldorado.png",
+        "href": "/influence/conspiracy/eldorado.png"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Aftermath (Call of Duty 4)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Aftermath (Call of Duty 4)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/All Ghillied Up_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/All Ghillied Up_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/All In_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/All In_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Alone (level)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Alone (level)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Back on the Grid_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Back on the Grid_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Bag and Drag_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Bag and Drag_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Big Brother_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Big Brother_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Black Tuesday_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Black Tuesday_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Blackout (Call of Duty 4)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Blackout (Call of Duty 4)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Blood Brothers_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Blood Brothers_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Borderline_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Borderline_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Captive_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Captive_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Cartel Protection_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Cartel Protection_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Charlie Don't Surf_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Charlie Don't Surf_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Clean House_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Clean House_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Cliffhanger (mission)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Cliffhanger (mission)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Close Air_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Close Air_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Contingency (mission)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Contingency (mission)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Countdown (Modern Warfare II)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Countdown (Modern Warfare II)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Crash Site (Modern Warfare III)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Crash Site (Modern Warfare III)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Crew Expendable_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Crew Expendable_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Danger Close_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Danger Close_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Dark Water_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Dark Water_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Davis Family Vacation_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Davis Family Vacation_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Death From Above_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Death From Above_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Deep Cover_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Deep Cover_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Down the Rabbit Hole_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Down the Rabbit Hole_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Dust to Dust_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Dust to Dust_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/El Sin Nombre (level)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/El Sin Nombre (level)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Embedded_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Embedded_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Endgame_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Endgame_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Exodus (Modern Warfare 2)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Exodus (Modern Warfare 2)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Eye of the Storm_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Eye of the Storm_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/F.N.G._Original_Modern Warfare Remastered Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/F.N.G._Original_Modern Warfare Remastered Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/F.N.G._Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/F.N.G._Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Flashpoint_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Flashpoint_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Fog of War (level)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Fog of War (level)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Frozen Tundra_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Frozen Tundra_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Game Over_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Game Over_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Ghost Team_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Ghost Team_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Goalpost (mission)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Goalpost (mission)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Going Dark_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Going Dark_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Gora Dam_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Gora Dam_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Hardpoint (level)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Hardpoint (level)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Heat_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Heat_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Highrise (level)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Highrise (level)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Highway of Death_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Highway of Death_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Hindsight_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Hindsight_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Hometown_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Hometown_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Hunted (Call of Duty 4)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Hunted (Call of Duty 4)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Hunter Killer_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Hunter Killer_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Hunting Party_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Hunting Party_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Into the Furnace_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Into the Furnace_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Iron Lady_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Iron Lady_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Just Like Old Times_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Just Like Old Times_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Kill or Capture_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Kill or Capture_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Loose Ends_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Loose Ends_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Mile High Club_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Mile High Club_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Mind the Gap_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Mind the Gap_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/No Fighting In The War Room_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/No Fighting In The War Room_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/No Russian_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/No Russian_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Of Their Own Accord_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Of Their Own Accord_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Old Comrades_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Old Comrades_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Oligarch_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Oligarch_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/One Shot, One Kill_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/One Shot, One Kill_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Operation 627_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Operation 627_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Passenger_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Passenger_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Payload (level)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Payload (level)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Persona Non Grata_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Persona Non Grata_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Piccadilly (level)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Piccadilly (level)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Precious Cargo_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Precious Cargo_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Prison Break (Modern Warfare II)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Prison Break (Modern Warfare II)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Prologue (Modern Warfare 3)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Prologue (Modern Warfare 3)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Proxy War_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Proxy War_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Reactor_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Reactor_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Recon by Fire_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Recon by Fire_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Return To Sender_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Return To Sender_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Russo-American War Radio Transmissions.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Russo-American War Radio Transmissions.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/S.S.D.D._Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/S.S.D.D._Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Safehouse (level)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Safehouse (level)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Scorched Earth (mission)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Scorched Earth (mission)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Second Sun_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Second Sun_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Shock and Awe_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Shock and Awe_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Strike (level)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Strike (level)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Stronghold (Mission)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Stronghold (Mission)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Takedown (mission)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Takedown (mission)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Team Player_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Team Player_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/The Bog_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/The Bog_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/The Coup_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/The Coup_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/The Embassy_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/The Embassy_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/The Enemy of My Enemy_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/The Enemy of My Enemy_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/The Gulag_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/The Gulag_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/The Hornet's Nest_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/The Hornet's Nest_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/The Only Easy Day... Was Yesterday_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/The Only Easy Day... Was Yesterday_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/The Sins of the Father_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/The Sins of the Father_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/The Wolf's Den (level)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/The Wolf's Den (level)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Tradecraft_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Tradecraft_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Trojan Horse_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Trojan Horse_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Turbulence_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Turbulence_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Ultimatum_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Ultimatum_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Violence and Timing_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Violence and Timing_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/War Pig (level)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/War Pig (level)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Wetwork (level)_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Wetwork (level)_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Whiskey Hotel_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Whiskey Hotel_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/Wolverines!_Transcript.wiki.txt",
+        "href": "/references/cod-mw-wiki-transcripts/Wolverines!_Transcript.wiki.txt"
+      },
+      {
+        "status": "A",
+        "path": "references/cod-mw-wiki-transcripts/transcript-titles-all.txt",
+        "href": "/references/cod-mw-wiki-transcripts/transcript-titles-all.txt"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-17T12:46:05.000Z",
+    "message": "Add spore ecological investigation hero image and embed in note.",
     "files": [
       {
         "status": "A",
@@ -284,18 +856,6 @@
         "status": "M",
         "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md",
         "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:15:48.000Z",
-    "message": "Update pyramid energy investigation cover image.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.png",
-        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.png"
       }
     ]
   }

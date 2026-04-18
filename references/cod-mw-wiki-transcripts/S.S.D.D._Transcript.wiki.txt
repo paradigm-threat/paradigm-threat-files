@@ -1,0 +1,260 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_2_Transcripts -->
+<!-- title: S.S.D.D./Transcript -->
+
+{{game|mw2|mw2r}}
+
+== Cutscene ==
+''A satellite looks over Russia, which has been under the [[Ultranationalists]]' control since their victory during the Second Russian Civil War.''
+
+'''[[Shepherd]]''': The more things change, the more they stay the same. Boundaries shift, new players step in, but power always finds a place to rest its head.
+
+''A rally at the Red Square, Moscow is shown on the video screen.''
+
+'''Shepherd''': We fought and bled alongside the Russians. We shoulda known they'd hate us for it. History is written by the victor. And here I am, thinking we'd won. But you bring down one enemy and they find someone even worse to replace him.
+
+''The Russians celebrate the unveiling of the statue of [[Imran Zakhaev]], who was [[Game Over|killed]] within the first week of the war.''
+
+'''Shepherd''': Locations change, the rationale, the objective. Yesterday's enemies are today's recruits. Train them to fight alongside you, and pray they don't eventually decide to hate you for it too.
+
+''Zakhaev has been labeled a martyr for his leadership and sacrifice during the war. The statue reads: Имран Захаев герой новой России (Imran Zakhaev - Hero of the New Russia)''
+
+'''Shepherd''': Same shit, different day. You know what I'm looking for Sergeant Foley. Keep your eyes open.
+
+'''Sgt. Foley''': Got a new batch hittin' the pit today, Sir. I'll send you the best I find.
+
+''The satellite tracks Private First Class [[Joseph Allen]] of the [[U.S. Army Rangers/Modern Warfare|U.S. Army Rangers]] in Fire Base Phoenix, Afghanistan.''
+
+== Gameplay ==
+'''["S.S.D.D."]'''
+
+'''[Day 1 - 15:30:27]'''
+
+'''[PFC Joseph Allen]'''
+
+'''[1st Bn., 75th Ranger Regiment]'''
+
+'''[Fire Base Phoenix, Afghanistan]'''
+
+''Private First Class Joseph Allen and Sgt. Foley are at a shooting range training Afghan locals. As Sgt. Foley speaks, [[Hamed|Pvt. Hamed]] translates for the locals.''
+
+'''[[Foley (Modern Warfare 2)|Sgt. Foley]]''': Welcome to 'Pull the Trigger 101'. Private Allen here is gonna do a quick weapons demonstration to show you locals how its done. No offense, but I see a lot of you guys firing from the hip and spraying bullets all over the range. You don't end up hitting a damn thing and it makes you look like an ass. Private Allen, show 'em what I'm talking about. Grab the weapon off the table and fire at the targets behind you.
+
+''Allen picks up the [[M4A1]] sitting on the table.''
+
+'''Sgt. Foley''': Turn around and fire the targets.
+
+''If the player tries to shoot the targets by aiming down the sights:''
+
+'''Sgt. Foley''': Don't aim down the sight yet. I'm trying to make a point here. Just fire from the hip.
+
+''If the player still tries to hit the targets from down the sights:''
+
+'''Sgt. Foley''': From the hip, Private. Just like in the movies.
+
+''Allen shoots the targets by firing from the hip. The player is asked if they want to invert the looking controls. If he does:''
+
+'''Sgt. Foley''': Let's try a few more.
+
+''Allen shoots the targets while aiming from the hip (again).''
+
+'''Sgt. Foley''': See what I mean? He sprayed bullets all over the damn place. You've got to pick your targets by aiming deliberately down your sights from a stable stance. Private Allen, show our friends here how the Rangers take down a target. Crouch first, then aim down your sight at the targets.
+
+''If the player shoots a target without crouching:''
+
+'''Sgt. Foley''': Allen, adopt a crouching stance and aim down your sights.
+
+''If the player still fires without crouching:''
+
+'''Sgt. Foley''': I need you to fire while crouched, Private.
+
+''If the player crouches but fires from the hip:''
+
+'''Sgt. Foley''': Private Allen, aim down your sights before engaging the target.
+
+''If the player still fires from the hip while crouched:''
+
+'''Sgt. Foley''': Don't forget to aim down your sights, Private.
+
+''(The following lines are said when playing the Xbox 360 or PS3 consoles.'')
+
+''Allen crouches, aims down the sights, and shoots all the targets. ''
+
+'''Sgt. Foley''': That's all there is to it. You want your targets to go down? You gotta aim down your sights. Aiming down your sights also works for switching quickly between targets. Aim down your sights, then pop in and out to acquire new targets. Show 'em Private. If your target is close to where you are aiming, you can snap to it quickly by aiming down your sights.
+
+''Again, Allen aims down the sights and quickly shoots as many targets as they pop out. If the player shoots too slow:''
+
+'''Sgt. Foley''': That was too slow. You need to engage and release your aim quickly to snap to new targets.
+
+''Once more, Allen shoots the targets but much faster.''
+
+'''Sgt. Foley''': Now that's how you do it. You want to take down your targets quickly and with control. Now if your target is behind light cover, remember that certain weapons can penetrate and hit your target. The Private here will demonstrate.
+
+''If the player hits the target's portion that is not covered by the wood panel:''
+
+'''Sgt. Foley''': Private, hit the target through the wood panel.
+
+''If the player still hits the non-covered portion:''
+
+'''Sgt. Foley''': Private Allen, hit the target through the wood panel.
+
+''Allen shoots through some wood and hits a target.''
+
+'''Sgt. Foley''': Last but not least, you need to know how to toss a frag grenade. Private Allen, pick up some frag grenades from the table.
+
+''Allen picks up four [[M67 Grenade|frag grenades]] from the table.''
+
+'''Sgt. Foley''': Toss the grenade down range and take out several targets at once.
+
+''If the player waits for a while:''
+
+'''Sgt. Foley''': Private, throw a grenade and take out those targets.
+
+''If the player waits more:''
+
+'''Sgt. Foley''': Private, let's go. Throw a grenade at the targets!
+
+''Allen throws a grenade at the targets to "destroy" them.''
+
+'''Sgt. Foley''': Good. Note that frags tend to roll on sloped surfaces. So think twice before throwing one up hill. (To Allen) All right, thanks for the help, Private Allen. Now get over to The Pit... [[General Shepherd]] wants to see you run the course. (To the locals) All right, who here wants to go first? Show me what you've learned so far.
+
+''Allen heads for the Pit. U.S. Army Rangers can be seen playing basketball, repairing an HMMWV, on guard towers, exercising, looking at a phone, and eating chocolate. If the player gets close enough, they can hear their conversations. If the player stays in the basketball court:''
+
+'''Ranger''': Get off the court dude.
+
+''If the player continues to stand there:''
+
+'''Ranger''': Come on man wait your turn.
+
+''If the player still stands there:''
+
+'''Ranger''': Allen, what the Hell?
+
+''Allen enters The Pit. Corporal Dunn, Foley's right hand man, is seen sitting on an ammo crate fiddling with a [[Desert Eagle]].''
+
+'''[[Dunn|Cpl. Dunn]]''': Hey Private. Welcome back to The Pit. Heard General Shepherd wants to pull a shooter from our unit for some special op. Anyway he's up there in observation.
+
+''If the player picks up the Desert Eagle early:''
+
+'''Cpl. Dunn''': Okay, good. So you already got your sidearm.
+
+''Otherwise:''
+
+'''Cpl. Dunn''': Go ahead and grab a pistol.
+
+''Allen picks up the Desert Eagle.''
+
+'''Cpl. Dunn''': Alright, try switching to your rifle.
+
+''Allen switches back to his M4A1.''
+
+'''Cpl. Dunn''': Good, now switch to your sidearm again.
+
+''Allen switches back to the Desert Eagle.''
+
+'''Cpl. Dunn''': See how fast that was? Remember... switching to your pistol is always faster than reloading. Well, smile for the cameras and don't miss... Shepherd's gonna be watching. Best shooter gets to join the prima donna squad... if that's your thing. Ok, head on in. Timer starts as soon as the first target pops up.
+
+''If the player stays for a moment...''
+
+'''Cpl. Dunn''': I don't know why they don't put us in first Allen. Pretty much The Rangers can't do SF and Delta can, but whatever man... That's SOCOM brass for ya. And all these freaking blocking positions? When are we gonna see some real action instead of babysitting [[U.S. Navy SEALs|SEALs]] and [[Delta Force|D-Boys]], hooah? ''(with subtitles in the remastered)''
+
+''(Dunn sighs)''
+
+''Allen enters the first area and the first set of targets pop up while Dunn speaks to him through the speakers.''
+
+'''Cpl. Dunn''': Clear the first area. Go! Go! Go!
+
+''If the player shoots the target from the hip:''
+
+'''Cpl. Dunn''': Stop firing from the hip! Aim down your sights!
+
+''And continues to fire from the hip:''
+
+'''Cpl. Dunn''': Aim down your sights, Private!
+
+''And firing from the hip again:''
+
+'''Cpl. Dunn''': You need to aim down your sights, Allen!
+
+''If the player uses a [[SPAS-12]] and runs out of ammo:''
+
+'''Cpl. Dunn''': Change weapons! The other weapons has a faster reload!
+
+''If the player shoots a "civilian":''
+
+'''Cpl. Dunn''': Watch for civilians!
+
+''Allen clears the first area.''
+
+'''Cpl. Dunn''': Area cleared! Move into the building!
+
+''If Allen misses some enemies:''
+
+'''Cpl. Dunn''': You missed some, keep carry on!
+
+''Allen clears the building. ''
+
+'''Cpl. Dunn''': Up the stairs!
+
+''Allen runs up the stairs.''
+
+'''Cpl. Dunn''': Melee with your [[knife]]!
+
+''Allen knifes the target and shoots more targets.''
+
+'''Cpl. Dunn''': Area cleared! Jump down!
+
+''Allen jumps off the ledge.''
+
+'''Cpl. Dunn''': Last area! Move! Move!
+
+''Allen clears the last area.''
+
+'''Cpl. Dunn''': Sprint to the exit! Clock's ticking!
+
+''If the player doesn’t sprint to the exit...''
+
+'''Cpl. Dunn''': You need to sprint to complete the course! Go back to the red circle and try again!
+
+''If the player still doesn’t sprint to the exit..''
+
+'''Cpl. Dunn''': You didn’t sprint Private! Go back to the red circle and sprint to the exit!
+
+''When Allen reaches the exit, Cpl. Dunn will comment on the player's run depending on how well he ran it (run The Pit in less than 30 seconds to get achievement: "Pit Boss"). The following is just an example.''
+
+'''Cpl. Dunn''': Alright, I've seen worse. You've got a few rough edges though.; Alright, that wasn't horrible, but it wasn't amazing either.; Amazing work, dude. Okay, now that's how you run the Pit.; Very impressive, my man. You made that course your bitch!
+
+''When the player turns around, he will be given difficulty options.''
+
+'''Cpl. Dunn''': Ok, head upstairs and regroup with your team, or you can go back in and run the course again.
+
+''If the player decides run the course again:''
+
+'''Cpl. Dunn''': All right head back in and give another go.
+
+''There are also extra voice lines which are never used in-game. These probably would be have been used if the player decides to run the course several times, Cpl. Dunn will have different comments. The player runs the course for the second time.''
+
+'''Cpl. Dunn''': (with bored voice) All right head back in and give another go.
+
+''The third time.''
+
+'''Cpl. Dunn''': All right Prima Donna head back in and give another go.
+
+''Fourth time.''
+
+'''Cpl. Dunn''': Hey it's Shepherd's lapdog back to give another go.
+
+''Fifth time.''
+
+'''Cpl. Dunn''': Who you trying impress? All right go ahead run it again.
+
+''If the player decides not to run the course again, Allen runs out of The Pit. Some Humvees arrive. Wounded soldiers are being carried out of them. The alarm rings. Blackhawks, Apaches, and Pave Lows take off and head airborne upon hearing the alarm.''
+
+'''[[Arnett|Sgt. Arnett]]''': They blew the damn bridge! We gotta move!
+
+'''[[Overlord]]''': All Hunter units, get to your victors. We're heading out.
+
+'''[[Walden|Pvt. Walden]]''': BCT One is trapped across the river in the red zone! We've lost contact!
+
+'''Sgt. Foley''': Everyone get to your vehicles! We're moving out!
+
+{{CoD6 CampaignT}}

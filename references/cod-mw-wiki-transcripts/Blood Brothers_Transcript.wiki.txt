@@ -1,0 +1,406 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_3_Transcripts -->
+<!-- title: Blood Brothers/Transcript -->
+
+{{Game|mw3}}
+
+==Cutscene==
+
+''As time passes since [[Eye of the Storm|the infiltration]], the clock on the hotel fast forwards from 10pm to 6am. Later it is 7am, Makarov still has not arrived for his meeting.''
+
+'''[[John "Soap" MacTavish|Soap]]''': Which vehicle will he be in?
+
+'''[[Yuri (Modern Warfare 3)|Yuri]]''': They constantly rotate for security. We won't know until he steps out.
+
+'''Soap''': You seem to know a lot about Makarov.
+
+''Soap and Yuri still wait in the church tower.''
+
+'''[[John Price|Price]]''': Alpha One, radio check, over.
+
+'''Soap''': Bravo One, copy. We're dug in with line of sight.
+
+'''Price''': Right. Kamarov's our eyes and ears inside the hotel. Once he gives us the nod, we'll kick this off. What do you see?
+
+'''Soap''': Bugger-all, mate. Looks like Makarov's late for his own funeral.
+
+'''Price''': Sit tight until we can get a clean shot. Then you can put as many rounds on him as you like.
+
+'''Soap''': It'll only take one.
+
+==Gameplay==
+
+'''[“Blood Brothers”]'''
+
+'''[October 11th – 07:01:33]'''
+
+'''[Yuri]'''
+
+'''[Task Force 141 - Disavowed]'''
+
+'''[Prague, Czech Republic]'''
+
+''Soap and Yuri are in the church tower overlooking the hotel where Makarov is suppose to be meeting. As they get ready, Yuri loads a sniper round into a magazine. Soap locks his [[RSASS]] ready.''
+
+'''Soap''': It's almost time, Yuri. The meeting will be on the second floor.
+
+''Soap turns outside and aims. Yuri sees a convoy of vehicles arriving just outside the hotel. He loads the magazine into his RSASS, locks it ready, and aims at the convoy, consisting of two [[BTR-80|BTR-80s]] and two armored black SUVs.''
+
+'''Price''': Heads up. Makarov's convoy is arriving now.
+
+'''Soap''': I see it. Four armored vehicles. No visual on Makarov yet.
+
+''(If the player shoots at the convoys or the hotel...''
+
+'''Soap''': Yuri! What the hell are we doing?!
+
+''[or]''
+
+'''Price''': You're gonna get us compromised, Yuri!
+
+''...it will result in a failed mission saying "Your cover is blown!" and the player will have to restart from the latest checkpoint.)''
+
+''The vehicles drive up to the entrance of the hotel and stop.''
+
+'''Soap''': They're stopping in front of the hotel.
+
+'''Price''': Do you see him?
+
+'''Soap''': Aye. There's the bastard. Third vehicle.
+
+''Yuri zooms in. Makarov can be seen sitting behind the driver of the third vehicle. He speaks to the guard, and momentarily looks up at Soap and Yuri's direction.''
+
+'''Soap''': Shite. I think he's looking right at us.
+
+'''Price''': Easy. Just sit tight.
+
+''The vehicles drive and pull in to the hotel's garage. The lead BTR pulls ahead of the garage entrance while the SUVs go in and the rear BTR then blocks the entrance.''
+
+'''Soap''': They're pulling in to the garage now.
+
+'''Price''': Alright, Kamarov. You're up.
+
+''There's no response.''
+
+'''Price''': Kamarov, do you read me?
+
+'''Soap''': Probably forgot to switch it on.
+
+'''Price''': Doesn't matter. Makarov's here. We move forward with the plan. I'm in position. Ready?
+
+'''Soap''': Yuri, find Price in your scope. He's on the top of the hotel.
+
+''Yuri aims up at the top of the hotel. A blinking light shines from the tower. Yuri zooms in and sees Price.''
+
+'''Soap''': We got you.
+
+''Price rappels down from the tower and stops short of the bottom of the clock.''
+
+'''Soap''': We got some activity on the balcony. We'll take them out together, Yuri. On you.
+
+''Yuri aims at the guards patrolling the balcony. Yuri fires, and Soap fires, taking out the guards.''
+
+'''Price''': Breaching.
+
+''Price rappels down to the balcony, pulls down the windows curtains and enters the room. As more hostiles appear, Yuri and Soap take them out.''
+
+'''Soap''': Target down.; Got 'em.
+
+''The hostiles are eliminated. The elevator doors in front of Price open, revealing a man strapped to a chair with [[C4]].''
+
+'''Soap''': What the hell? Price, who is that?
+
+'''Price''': Kamarov.
+
+'''[[Kamarov]]''': I'm sorry, Price.
+
+'''[[Vladimir Makarov|Makarov]]''': Captain Price. Ад ждёт тебя. (Hell awaits you.)
+
+''The C4 begins to beep.''
+
+'''Soap''': Price! Get out of there!
+
+''Price runs out of the room just as the C4 detonates and Kamarov is killed. The explosion's shockwave scares off all the pigeons in the area.''
+
+'''Makarov''': Yuri, my friend. You never should have come here.
+
+'''Soap''': What the hell's he talking about?!
+
+''Suddenly, a device in the tower beeps.''
+
+'''Soap''': Get out! Now!
+
+''Soap pushes Yuri out the tower. Soap jumps, but gets caught in the explosion from the C4 Makarov has detonated which was trying to kill his former friend. They roll off the roof and fall onto the construction boards and to the ground. Yuri gets shell-shocked from the impact, the church bell and debris fall next to them. Yuri sees Soap partially covered in debris, and tries to reach out to help him, but couldn't. Price runs in.''
+
+'''Price''': Soap!
+
+''Under fire, Price fires an M203 round before clearing the debris off a bleeding Soap.''
+
+'''Price''': Look at me! You're alright!
+
+''Price pulls Yuri to his feet.''
+
+'''Price''': Yuri! Grab him! We have to move now!
+
+''Yuri helps Soap up, who continues to bleed badly.''
+
+'''Soap''': Yuri... Makarov... he said...
+
+''They start to run through the streets under heavy fire from infantry and armored vehicles.''
+
+'''Price''': Don't stop! Keep moving!
+
+''As they continue through the streets, Soap stumbles.''
+
+'''Price''': Pick him up! We can't stay here. C'mon, this way. We have to get off the street!
+
+''Price tosses a [[Smoke Grenade|smoke grenade]] for cover. Yuri helps Soap back up.''
+
+'''Soap''': Ah, shite.
+
+''A [[Mi-28|helicopter]] flies above.''
+
+'''Price''': Enemy bird! Get off the road!
+
+''They get off the street. Price blows a hole in a building with his M203.''
+
+'''Price''': This way!
+
+''They move through the building and out the other side.''
+
+'''Price''': Set him down.
+
+''Yuri sets down Soap next to a dumpster.''
+
+'''Soap''': Just patch me up. Get me back in this.
+
+''Price gives Yuri his [[M4A1]] [[M203|Grenadier]] w/ [[Red Dot Sight]].''
+
+'''Price''': It's not safe here. We have to move.
+
+''Price picks up Soap, who is trailing blood behind him.''
+
+'''Price''': C'mon.
+
+'''Soap''': We need... [[Nikolai (Modern Warfare)|Nikolai]]... get us out...
+
+''Price kicks down a door into a store.''
+
+'''Price''': That chopper's circling back around! We have to move!
+
+''Soap stumbles a bit and Price helps him up.''
+
+'''Price''': C'mon, Soap! You can make it! Yuri, take point and cover us.
+
+''Russians enter the store. Yuri engages.''
+
+'''Price''': Yuri, clear the store! We need to get the hell out of here!
+
+''As Yuri clears the store, a Russian comes at the door and Soap shoots him with his [[P99]].''
+
+'''Price''': Nice shot, son.
+
+'''Soap''': I can still teach you a thing or two, old man.
+
+''They move outside.''
+
+'''Price''': We're moving up to the statue! Keep 'em off of us!
+
+''Yuri engages the Russians firing at them. More infantry and the helicopter appear above the right rooftop.''
+
+'''Soap''': On the roof! Right side!
+
+'''Price''': We can't stay here. C'mon, this way.
+
+''They move to an office building.''
+
+'''Price''': Through here! Let's go!
+
+''They move out to the street. Yuri engages more Russians.''
+
+'''Price''': Keep moving!
+
+'''Soap''': There's more... on the street!
+
+''Two armored SUVs drive into the intersection.''
+
+'''Price''': Yuri, take care of 'em! Go left! Cut through the building!
+
+''As they cut the corner through the building, Yuri clears the area.''
+
+'''Soap''': They'll just keep coming.
+
+'''Price''': Don't stop! Keep moving!
+
+'''Soap''': Just leave me, Price!
+
+'''Price''': No! I'm getting you out of this! Head for that building to the northwest!
+
+''More enemy fire come from behind.''
+
+'''Price''': Behind us! Cover our six!
+
+''Yuri turns around and fires back at the hostiles. They cut through the basketball court. More vehicles appear.''
+
+'''Soap''': Price! [[UAZ-3151|UAZ]]!
+
+'''Price''': We made it, Soap! Just hold on!
+
+''The UAZ drives into the basketball court and more infantry move in. Yuri fires back and holds them off. [[Czech Resistance]] soldiers run in and help.''
+
+'''Price''': It's the Resistance! Hold them back! Yuri! We need to move Soap! Get over here and cover us! We've got wounded! Get him inside! Let's go! Let's go!
+
+''Yuri falls back while two soldiers carry Soap into the building.''
+
+'''[[Resistance Leader]]''': We'll get him! Just fall back!
+
+''They bring Soap into the building. If the player stalls:''
+
+'''Price''': Dammit, Yuri! Move your ass!
+
+''Yuri enters the building, where the soldiers lay Soap on a table.''
+
+'''Price''': Clear the table!
+
+''The soldiers put Soap on the table and Price tries to help Soap.''
+
+''(If the player stalls:''
+
+'''Price''': Soap! Medic! Put pressure on the wound! Yuri! Over here, now!'')''
+
+(''If the player does not put pressure on the wound, the message "Help Soap" will be displayed and the player will have to restart from the latest checkpoint.'')
+
+''Yuri tries to help and puts pressure on Soap's wounds.''
+
+'''Soap''': Price... Yuri...
+
+'''Price''': Not now, Soap. Just rest. Get a medic! C'mon, stay with me, son!
+
+'''Soap''': Price... You need to know...
+
+''Soap pulls Price to speak his last words.''
+
+'''Soap''': Makarov... knows... Yuri...
+
+''Captain John “Soap” MacTavish dies.''
+
+''Yuri moves his hands away from his body.''
+
+'''Price''': ''(Unsubtitled)'' Oh, no, no, no no no! SOAP! NO, NO! NO! SOAP! 
+
+''Price desperately shakes his body and has a breakdown.''
+
+''The Resistance leader runs over to Price, and grabs him by the shoulder.''
+
+'''Resistance Leader''': Price! You have to go, now!
+
+''Price pushes him away.''
+
+'''Price''': Get off me!
+
+''Price takes out his [[M1911]] pistol. This was the same pistol that was given to Soap [[Game Over|to kill Imran Zakhaev]], which was then given back to him after he was [[The Gulag|rescued from the Russian gulag]]. He lays the pistol on Soap's chest.''
+
+'''Price''': I'm sorry...
+
+''Price takes [[Soap's Journal]] and puts it in his pocket. A BTR outside fires at the building, shattering the glass in the windows and shredding the blinds.''
+
+'''Resistance Leader''': Price! This way!
+
+''Price and Yuri come to a door at the back of the bar.''
+
+'''Price''': Yuri! Open it!
+
+''(If the player stalls:''
+
+'''Price''': Yuri! Get over here!; Dammit Yuri! Move your ass!
+
+''As soon as Yuri opens it, Price turns Yuri around and gives him a hard punch to the face, causing him to fall down the stairs all the way to the bottom of cellar, shell-shocked. When Yuri recovers, Price goes down the stairs after him, pulling out his [[Desert Eagle]].''
+
+'''Price''': Soap TRUSTED you. I thought I could too.
+
+''Price locks his pistol and points it at Yuri.''
+
+'''Price''': SO WHY IN BLOODY HELL, DOES MAKAROV KNOW YOU?!!
+
+''Yuri flashbacks as he explains his former association with Makarov.''
+
+'''Yuri (voiceover)''': I was young and patriotic when I first met Vladimir Makarov...
+
+''Yuri wakes up from his nap. He is in the back seat of a jeep, Makarov is in the driver's seat.''
+
+'''Makarov''': Yuri, wake up. Zakhaev wouldn't want you to miss this. This deal will generate millions for our cause. Money can buy many things. Even power. The road to our future begins here, my friend.
+
+'''[Yuri]'''
+
+'''[Winter - 1996]'''
+
+'''[Pripyat, Ukraine]'''
+
+''Yuri looks out the seat window. Outside, [[One Shot, One Kill|Imran Zakhaev is arguing with his arms dealer]].''
+
+'''[[Imran Zakhaev|Zakhaev]]''': Что значит, "маловато"? Я думал, мы договорились! (What do you mean, "it's not enough"? I thought we had a deal!)
+
+''The hotel where [[John Price|“Leftenant” John Price]] and [[Captain MacMillan]] are can be seen at the distance. A flash is seen from the top floor. A [[Barrett .50cal|sniper round]] hits Zakhaev, tearing off his left arm, and the shot is heard, sending all the [[Ultranationalists]] there into a panic. Yuri takes cover in the jeep as another round shatters the window. Bleeding, Zakhaev gets in the jeep and Makarov drives away from the meeting area, running over an Ultranationalist soldier as he evacuates Zakhaev from the area.''
+
+'''Yuri (voiceover)''': Zakhaev never forgot what we did for him that day. Our reward was power. But power corrupts...
+
+''Yuri flashbacks ahead.''
+
+'''[Year - 2011]'''
+
+'''[Al-Asad's Safehouse]'''
+
+'''[Middle East]'''
+
+''Makarov and Yuri walk up the steps outside from an underground bunker. The city where the U.S. Marines are fighting [[Khaled Al-Asad]]'s [[OpFor]] is seen at a distance.''
+
+'''Makarov''': Today, we show the world our true strength. Perhaps it will give you some as well.
+
+''His cell phone rings and he answers.''
+
+'''Makarov''': Is everything ready? Do it.
+
+''Makarov hangs up the phone and watches the city.''
+
+'''Yuri (voiceover)''': [[United States Marine Corps|Thousands of souls...]] [[Shock and Awe|extinguished... by the push of a button...]]
+
+''The nuclear device detonates in the city, Yuri shades his eyes from the blast flash. The helicopters trying to get away are knocked down by the blast, the entire area gets covered by dust from the blast. Makarov turns to face Yuri as the mushroom cloud begins to rise from ground zero.''
+
+'''Makarov''': Understand, Yuri. This is only the beginning.
+
+''Yuri flashbacks ahead.''
+
+'''Yuri (voiceover)''': This wasn't war. It was madness...
+
+''Yuri is held back by [[Kiril]] and [[Lev (Modern Warfare 2)|Lev]] in a parking garage under [[Zakhaev International Airport|the airport]]. Makarov walks towards him.''
+
+'''Makarov''': I know what you have done, Yuri. I know what you have told [[Federal Security Service|them]]. My friend. My ally. My betrayer. What happens here today, will change the world forever. Nothing can stop this. Not even you.
+
+''Makarov pulls out his Desert Eagle and shoots Yuri in the abdomen, point-blank. Yuri falls to the floor. Makarov and his men step over him and proceed with the terrorist attack. Later, Yuri crawls, bleeding, to the elevator. In his earpiece, he can hear the sounds of Makarov and [[Inner Circle|his men]] getting ready in the other elevator.''
+
+'''Makarov''': Remember – [[No Russian|no Russian]].
+
+''The sounds of gunfire and screaming are heard. The elevator opens and Yuri stumbles out.''
+
+'''[Year - 2016]'''
+
+'''[Zakhaev International Airport]'''
+
+'''[Moscow, Russia]'''
+
+''Next to a dead security guard, he takes the P99 pistol and gets on his feet. Using whatever strength he has left, he tries to follow Makarov and his men, who have gone up the stairs and disabled escalators. Yuri aims, but cannot aim right due to his wounds. He passes out from blood loss, and falls to the floor.''
+
+'''Yuri (voiceover)''': I was a soldier of Russia, not a taker of innocent lives. But in his eyes, this marked me as the enemy.
+
+''Yuri opens his eyes to find a security guard looking down at him. Realizing he's still alive, the guard signals for a medic and puts an oxygen mask on him.''
+
+'''Medic''': Эй! У нас есть один выживший! (Hey! We've got a live one here!)
+
+''Yuri's flashback ends, Price still has his Desert Eagle aimed at Yuri.''
+
+'''Price''': Okay, Yuri. You've bought yourself some time...
+
+''Price helps Yuri up.''
+
+'''Price''': ...for now.
+
+{{CoD8 CampaignT}}
