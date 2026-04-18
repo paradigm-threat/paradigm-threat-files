@@ -2,7 +2,7 @@
 
 **Purpose:** Inventory all paradigm-threat-files investigations that have unfinished work or TODOs an agent could do; validate claims where reasonable; record dead ends; give objective likelihood on key claims; list remaining todos and **books/full texts to obtain** as original sources.
 
-**Date:** 2026-03-16 (updated 2026-03-27: Jonestown / CIA Latin America pattern investigation added; 2026-04-18: *Call of Duty* MW investigation + [investigation writing instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md))
+**Date:** 2026-03-16 (updated 2026-03-27: Jonestown / CIA Latin America pattern investigation added; 2026-04-18: *Call of Duty* MW investigation + [investigation writing instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md); 2026-04-18: §5 editor note — no absolute OS paths in investigation bodies; use end-of-file Investigator notes)
 
 ---
 
@@ -190,5 +190,5 @@ Consolidated list for agent-assisted acquisition or linking. Priority: CIA (expl
 ## 5. How to Use This Doc
 
 - **Agents:** Prefer “High priority” and “Medium priority” TODOs; use “Books and full texts” to request or link sources; update investigation files when tasks are done and tick boxes here or in the investigation’s own checklist.
-- **Editors:** When adding new investigations, add a row to §1, a block to §2 (validation/likelihood/dead ends), and any books/TODOs to §3–4. Keep dead ends explicitly listed.
+- **Editors:** When adding new investigations, add a row to §1, a block to §2 (validation/likelihood/dead ends), and any books/TODOs to §3–4. Keep dead ends explicitly listed. Follow [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md): **do not** embed author-machine absolute paths (`/home/…`, `/media/…`, etc.) in investigation bodies — online viewers cannot access them; put maintainer/LLM-only paths in a single **Investigator notes** section at the **end** of the investigation file.
 - **Links:** All paths in this doc are site-relative (e.g. `/governance/war/investigations/cia-investigation.md`). On site they resolve to paradigmthreat.net.

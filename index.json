@@ -490,7 +490,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-18T14:47:57Z"
+    "_updated": "2026-04-18T14:50:58Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5967,13 +5967,19 @@
             "israel",
             "cia"
           ],
-          "_updated": "2026-04-18T14:47:57Z"
+          "_updated": "2026-04-18T14:50:58Z"
         },
         "call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png": {
           "_width": 1536,
           "_height": 1024,
-          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JbACdAB81l40uAAA/kh8HiZoKoLotSGeNguIyEozXG/KEyusqZjA9ztPkuuxUdLPNERfXzYXkAAA",
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAsABUB8JZACdADcpvDUbUAA/j/yiCipUIMK2kPHBLkH5+Ypy+Re0xVI7W1pXtJvreB1zKNTItxNAe2AAA==",
           "_updated": "2026-04-18T13:59:14Z"
+        },
+        "call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation2.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JbACdAB81l40uAAA/kh8HiZoKoLotSGeNguIyEozXG/KEyusqZjA9ztPkuuxUdLPNERfXzYXkAAA",
+          "_updated": "2026-04-18T13:56:31Z"
         },
         "cia-investigation.md": {
           "_title": "Investigation: CIA \u2014 OSS Rebrand, Nazi Gold, Iran, 9/11, and the Antibody Thesis",
@@ -6309,7 +6315,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 33
+        "_count": 34
       },
       "military_police.jpg": {
         "_width": 960,
@@ -6420,9 +6426,9 @@
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkABUB8JZQAApPN/aAA/r+OD/RJIbmlSX0Qypzh9X3Ua8n7RhWEAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 78
+      "_count": 79
     },
-    "_count": 512
+    "_count": 513
   },
   "history": {
     "chronology": {
@@ -14019,6 +14025,6 @@
     },
     "_count": 153
   },
-  "_count": 1972,
-  "_version": "11ffc9d"
+  "_count": 1973,
+  "_version": "8f47e52"
 }
