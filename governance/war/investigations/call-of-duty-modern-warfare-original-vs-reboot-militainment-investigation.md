@@ -1,12 +1,12 @@
 # Investigation: *Call of Duty: Modern Warfare* — Original Trilogy vs. Soft Reboot, Militainment, Iran–Russia Framing, and Cross-Media Operator Archetypes
 
-> **TL;DR:** This file compares **Infinity Ward’s original *Modern Warfare* trilogy (2007–2011)** with the **2019–2023 soft reboot** (MW 2019, MWII 2022, MWIII 2023): **Russia** as **peer / invader / WWIII driver** in the old arc vs **arms dealer, PMC, and terror-adjacent vectors** in the new; **Iran** elevated in the reboot (**Quds**, **HVT strike**, **proxy** framing). It cites **developer/publisher tension** (alleged **Activision** pitch for **Iran → Israel** story, rejected by **IW** devs — mainstream games press), **casting** (**Alex** = **Chad Michael Collins**, not **John Krasinski** — fan demand ≠ screen reality), **in-repo transcript mirrors** under [`/references/cod-mw-wiki-transcripts/`](/references/cod-mw-wiki-transcripts/), and **cross-reads** with [Benghazi / *13 Hours*](./dubious-stand-down-orders-libya-benghazi-investigation.md), [CIA / Iran pipeline](./cia-investigation.md), and [Reverse Crusades / 2022 proxy frame](./reverse-crusades-comparison.md). **Open press** on **China–Iran** arms (**2025–2026**) is summarized as **real-world echo**, not proof the game “predicted” policy.
+![Call of Duty Modern Warfare — investigation header graphic](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png?w=1200 '{"className":"rounded-md m-auto"}')
+
+> **TL;DR:** This file compares **Infinity Ward’s original *Modern Warfare* trilogy (2007–2011)** with the **2019–2023 soft reboot** (MW 2019, MWII 2022, MWIII 2023): **Russia** as **peer / invader / WWIII driver** in the old arc vs **arms dealer, PMC, and terror-adjacent vectors** in the new; **Iran** elevated in the reboot (**Quds**, **HVT strike**, **proxy** framing). It cites **developer/publisher tension** (alleged **Activision** pitch for **Iran → Israel** story, rejected by **IW** devs — mainstream games press), **casting** (**Alex** = **Chad Michael Collins**, not **John Krasinski** — fan demand ≠ screen reality), and **cross-reads** with [Benghazi / *13 Hours*](./dubious-stand-down-orders-libya-benghazi-investigation.md), [CIA / Iran pipeline](./cia-investigation.md), and [Reverse Crusades / 2022 proxy frame](./reverse-crusades-comparison.md). **Open press** on **China–Iran** arms (**2025–2026**) is summarized as **real-world echo**, not proof the game “predicted” policy.
 
 ## Status
 
-**Open.** Assembles **documented** franchise facts (release years, official reboot rationale, wiki transcript text), **reported** labour/publisher claims (**Chance Glasco**), and **interpretive** lanes (**militainment**, **two-audience** war narrative) without asserting a single hidden author of geopolitics.
-
-**Primary local evidence:** Wikitext transcripts pulled from Call of Duty Wiki (Fandom) via MediaWiki API — [`references/cod-mw-wiki-transcripts/`](/references/cod-mw-wiki-transcripts/) (original trilogy + reboot campaigns).
+**Open.** Assembles **documented** franchise facts (release years, official reboot rationale, widely summarized campaign beats), **reported** labour/publisher claims (**Chance Glasco**), and **interpretive** lanes (**militainment**, **two-audience** war narrative) without asserting a single hidden author of geopolitics.
 
 ---
 
@@ -53,13 +53,13 @@
 | **MW2** | **Makarov**, **No Russian**, **US–Russia** escalation | Peripheral to core **Russia** plot |
 | **MW3** | **WWIII**, **European** war, **Ultranationalists** | Not the driver |
 
-**Transcript hooks (local):** [*No Russian*](/references/cod-mw-wiki-transcripts/No%20Russian_Transcript.wiki.txt) — **Moscow** airport attack, **“all of Russia will cry for war”**; [*Wolverines!*](/references/cod-mw-wiki-transcripts/Wolverines!_Transcript.wiki.txt) — **US soil** invasion beat. Tone: **great-power** **catastrophe**, not **proxy** **sanctions** discourse.
+**Illustrative missions (original trilogy):** *No Russian* — **Moscow** airport mass-casualty attack, escalation to **“all of Russia will cry for war”**; *Wolverines!* — **CONUS** invasion beat. Tone: **great-power** **catastrophe**, not **proxy** **sanctions** discourse.
 
 ### 2.2 Reboot (2019+) — proxy war, composite states, Iran–Russia nexus
 
-**2019 — *Modern Warfare*:** **Russian** general **Barkov** occupies **Urzikstan**; player threads **CIA** **Alex**, **Farah** **ULF**, **Al-Qatala**-type terror. **Religion** rarely doctrinal; **families** and **local** resistance **humanized**. Transcript example: [*Proxy War*](/references/cod-mw-wiki-transcripts/Proxy%20War_Transcript.wiki.txt) — **Russian** airbase, **drone** strike on **Russian** helicopters.
+**2019 — *Modern Warfare*:** **Russian** general **Barkov** occupies **Urzikstan**; player threads **CIA** **Alex**, **Farah** **ULF**, **Al-Qatala**-type terror. **Religion** rarely doctrinal; **families** and **local** resistance **humanized**. Mission *Proxy War*: **Russian** airbase, **drone** strike on **Russian** helicopters.
 
-**2022 — *Modern Warfare II*:** Opening **Strike** — **Iranian** **Quds** **General Ghorbrani** killed during **arms deal** with **Russian** forces; **Hassan** revenge arc; **cartel** / **missile** plot. In-repo text: [*Strike (level)*](/references/cod-mw-wiki-transcripts/Strike%20(level)_Transcript.wiki.txt) — **Laswell**: “Supplying Iran. It's an arms deal.” **Shepherd**: “What the hell are the Russians doin' with Ghorbrani?”
+**2022 — *Modern Warfare II*:** Opening **Strike** — **Iranian** **Quds** **General Ghorbrani** killed during **arms deal** with **Russian** forces; **Hassan** revenge arc; **cartel** / **missile** plot. Radio beat (paraphrase): **Laswell** — “Supplying Iran. It's an arms deal.” **Shepherd** — “What the hell are the Russians doin' with Ghorbrani?”
 
 **Interpretive synthesis:** Reboot **does not** need **Red Dawn**-style **Russia invades CONUS** for sales; it **imports** **Soleimani-strike** **echo**, **Russia** as **supplier**, and **later** **Konni** / **Makarov** **terror** (MWIII) — **closer** to **post-2014** **real** **headlines** than to **2007** **Russian** **peer** fantasy.
 
@@ -128,6 +128,6 @@
 
 ---
 
-**Date:** 2026-04-18 — Initial file: original vs reboot premise; Iran–Russia framing; Glasco/Activision cite bundle; Krasinski vs Collins; China–Iran **2025–26** press; cross-links to Benghazi, CIA, Reverse Crusades, Artemis §12, Paperclip index; local transcript paths under `/references/cod-mw-wiki-transcripts/`.
+**Date:** 2026-04-18 — Initial file: original vs reboot premise; Iran–Russia framing; Glasco/Activision cite bundle; Krasinski vs Collins; China–Iran **2025–26** press; cross-links to Benghazi, CIA, Reverse Crusades, Artemis §12, Paperclip index. **2026-04-18 (later):** Header PNG; removed in-repo wiki transcript mirrors.
 
 Keywords: #war #call-of-duty #modern-warfare #militainment #iran #russia #infinity-ward #activision #benghazi #13-hours #proxy-war #video-games

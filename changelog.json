@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T13:54:16.156Z",
+    "date": "2026-04-18T13:59:23.503Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/page.md",
+        "href": "/governance/war/investigations"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T13:54:05.000Z",
+    "message": "Investigation: CoD Modern Warfare original vs reboot militainment",
     "files": [
       {
         "status": "A",
@@ -854,23 +876,6 @@
         "status": "A",
         "path": "history/chronology/investigations/view-over-atlantis-michell-investigation.md",
         "href": "/history/chronology/investigations/view-over-atlantis-michell-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:41:11.000Z",
-    "message": "docs(investigations): habitability-first Kerrell/Goggin pyramid energy",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-chapter-summaries.md",
-        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-chapter-summaries"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md",
-        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation"
       }
     ]
   }
