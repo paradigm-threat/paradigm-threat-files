@@ -1,0 +1,238 @@
+<!-- category: Category:Call_of_Duty_4:_Modern_Warfare_Transcripts -->
+<!-- title: The Sins of the Father/Transcript -->
+
+{{game|cod4|mwr}}
+
+== Cutscene ==
+''After the [[United States Marine Corps/Modern Warfare|U.S. Marines]] [[Heat|evacuate]] the [[Special Air Service/Modern Warfare|S.A.S.]] team, they join together in a joint operation to take down [[Ultranationalists|Ultranationalist]] leader, Imran Zakhaev. A picture with the "Four Horsemen" is shown. [[Khaled Al-Asad|Al-Asad]] is "X"ed out.''
+
+'''[[Griggs|SSgt. Griggs]]''': [[Safehouse (level)|Well, we got that bastard]].
+
+'''[[John Price|Captain Price]]''': Still, he's not the one responsible for [[Shock and Awe|killing your Marines.]] Sorry mate.
+
+'''[[Gaz]]''': [[Imran Zakhaev]] huh? Man's a ghost. Intel says he's gone underground.
+
+'''Captain Price''': Well I got a plan to find him.
+
+'''SSgt. Griggs''': I'm listening.
+
+''A profile of [[Victor Zakhaev|Viktor Zakhaev]], Imran Zakhaev's son, is shown.''
+
+'''SSgt. Griggs''': Daddy's boy.
+
+'''Captain Price''': Zakhaev's son. Commander of the Ultranationalist forces in the field. Rotten apple doesn't fall far from the tree. The [[Loyalists|loyalist]] [[Kamarov]] has got a location on the kid.
+
+'''SSgt. Griggs''': Ah, and the little punk'll know how to find Zakhaev.
+
+'''Gaz''': The sins of our fathers...
+
+'''SSgt. Griggs''': Heh, ain't it a bitch?
+
+== Gameplay ==
+'''["The Sins of the Father"]'''
+
+'''[Day 5 - 06:34:26]'''
+
+'''[Southern Russia]'''
+
+'''[Sgt. "Soap" MacTavish]'''
+
+'''[22nd SAS Regiment]'''
+
+''The joint team of S.A.S., U.S. Marines, and Russian Loyalists move up to the vehicle checkpoint.''
+
+'''Sgt. Kamarov''': This is the best way in. The vehicle checkpoint is directly ahead.
+
+'''Captain Price''': Not bad, Kamarov. This'll do nicely. [[Vulture One-Six]], we're in position.
+
+'''Vulture One-Six''': Bravo-Six, this is Vulture One-Six. Radio jammers are active, you're cleared to engage the guard station. Out.
+
+'''Captain Price''': Soap, get on that dumpster and prepare to take out the guards in the tower on my mark. The rest of you follow me.
+
+''Sgt. [[John "Soap" MacTavish|"Soap" MacTavish]] positions himself on the dumpster with his [[R700]] Sniper Rifle. Captain Price and the rest of the team move up towards the guard station.''
+
+'''Captain Price''': Soap, take them out now.
+
+''Soap kills the guards at the tower.''
+
+'''Captain Price''': Move move move! Go loud.
+
+''The team eliminates the Ultranationalists and secure the checkpoint.''
+
+'''SSgt. Griggs''': Area secure.
+
+'''Captain Price''': All right, let's get this place sorted out. Change into enemy uniforms and douse the fires. Kamarov, I need your men on the ground if the drivers start asking questions. Just keep them busy until we locate Zakhaev's son. We don't have much time, so get to it.
+
+'''[Two hours later...]'''
+
+''Soap and SSgt. Griggs are positioned at the guard tower.''
+
+'''SSgt. Griggs''': Man, you look like a clown in that outfit. Good thing you're up here, 'cuz you look nothin' like a Russian.
+
+'''Vulture One-Six''': Bravo-Six, this is Vulture One-Six, we're tracking an enemy convoy headed your way. I count six vehicles in the convoy, over.
+
+'''Captain Price''': Roger that. Nobody fires a shot until I give the order.
+
+''A convoy of three trucks, two [[BMP-2|BMPs]], and a jeep arrive and stop at the checkpoint. Gaz, in disguise, sees Viktor Zakhaev in the jeep.''
+
+'''Gaz''': Wanker... Sir, I have a visual on the target in the third vehicle, I'm walking by it right now.
+
+'''Captain Price''': Copy that. All teams standby. The target is in the jeep in front of the BMP. We need to take him alive, so watch your fire. Standby. Standby... Smoke 'em.
+
+''The team ambushes the enemy convoy. The two BMPs along with the third truck are destroyed. Enemy reinforcements arrive.''
+
+'''Gaz''': We got company sir... enemy reinforcements to the south...
+
+''Zakhaev's son drives the jeep into the tower.''
+
+'''SSgt. Griggs''': He's gonna hit the tower! Hang on! Oh, shit! ''(If the player hits all targets without missing when he attacked the guard station earlier in the mission'' - "Oh, fuck!"'')''
+
+''The tower falls. Soap lies shell-shocked from the fall. He sees Zakhaev's son getting out of the jeep, just in time as it explodes shortly after he escaped it, and running into the junkyard after switching his pistol for his suppressed [[Mini-Uzi]].''
+
+'''Captain Price''': The target's is making a run for it! Soap! Take Griggs and chase him down. We'll handle the enemy reinforcements and catch up. Go go!
+
+''Soap and Griggs pursue Zakhaev's son through the junkyard.''
+
+'''Vulture One-Six''': Bravo Team, this is Vulture One-Six I'm tracking the target. Damn this guy moves fast. Ok he's leaving the junkyard to the northwest. Get his ass, move move!
+
+''(If the player fails to keep up...''
+
+'''Vulture One-Six''': Damn! We lost him!
+
+''and if Zakhaev's son runs too far away...''
+
+'''Vulture One-Six''': He's long gone! We lost him! Abort the mission!
+
+...''it results failed the mission. Then the player restarts from the checkpoint.)''
+
+''A dog runs out of the building towards Soap and Griggs at the junkyard. They kill it.''
+
+'''SSgt. Griggs''': Down boy.
+
+''They come to an outskirt.''
+
+'''Vulture One-Six''': Ok, the target is moving... north... he's headed towards the outskirts of the city. Be advised, this area is crawling with hostile forces, over.
+
+''(If the player stalls…''
+
+'''Vulture One-Six''': This guy’s really hauling ass. Don’t let him get away.'')''
+
+''Soap and Griggs engage enemy forces in the city.''
+
+'''SSgt. Griggs''': Soap. Friendlies six o'clock.
+
+''Price, Gaz, and the rest of the team join up the fight. The Ultranationalists attempt to protect Viktor, as he himself returns fire with his suppressed Mini-Uzi.''
+
+'''Vulture One-Six''': Check your fire check your fire. We gotta take this guy alive.
+
+''Zakhaev's son continues to run. At the end of the street, more Ultranationalists, including a BMP and dogs, arrive to protect him.''
+
+'''Vulture One-Six''': The target is moving again. There's a side alley to the left that might let you cut him off.
+
+'''Captain Price''': Soap! Griggs! Gaz! Go after him! We'll stay here and keep these bastards off your back.
+
+'''SSgt. Griggs''': Roger that! Soap! Go through the alley on the left!
+
+''Soap, Griggs, and Gaz continue on pursuit through the alley.''
+
+'''Vulture One-Six''': Multiple hostiles on the other side of that iron fence.
+
+''They encounter enemy foot-mobiles.''
+
+'''Vulture One-Six''': Two hostiles coming up on your right flank.
+
+''Soap takes out the two hostiles and continues on. He goes up a stairway.''
+
+'''Vulture One-Six''': Hostiles on the second floor to your right.
+
+''Soap takes them out.''
+
+'''Vulture One-Six''': Yeah, you got 'em. I got movement on the rooftops.
+
+'''SSgt. Griggs''': Movement of rooftops, copy!
+
+''They eliminate troops on the rooftop.''
+
+'''Vulture One-Six''': Nice one.
+
+''If the player takes a while...''
+
+'''Vulture One-Six''': You better hurry, the target is getting away.
+
+''They continue their chase on Zakhaev's son.''
+
+'''Vulture One-Six''': One guy behind the overturned dumpster.
+
+'''SSgt. Griggs''': Enemy by the dumpster, copy!
+
+''The dumpster enemy is killed. They continue through the alley.''
+
+'''Vulture One-Six''': Enemies comin' your way - alley on your left side. Two tangos - watch for the green car around the corner. You're gonna lose him! Go go!
+
+''They take out enemy foot-mobiles.''
+
+'''Vulture One-Six''': Yeah, all clear. Hostiles moving across the parking lot towards the five-story building.
+
+''They come up to a small stair leading to a parking lot, but get pinned down by heavy enemy fire from the building across from them, including [[RPD|RPDs]] and a fortified machine gun nest.''
+
+'''Gaz''': Vulture One-Six, we're taking heavy fire from a fortified position on the fifth floor!
+
+'''Vulture One-Six''': Roger that, first one's free, standby.
+
+''Vulture One-Six fires it miniguns, taking out machine guns positioned in the building.''
+
+'''Vulture One-Six''': Ok, all targets neutralized. You're good to go. Bravo Team, do you have a visual on the target, over?
+
+'''Gaz''': Affirmative, target spotted entering the five-story building.
+
+''They enter the building and start climbing the stairs, encountering foot-mobiles along the way.''
+
+'''Vulture One-Six''': Target is on the move in the northeast part of the building, second floor.
+
+''Zakhaev's son is seen above the player.''
+
+'''Vulture One-Six''': Target on your left one floor above. There's a staircase in the north corner.
+
+''They go up the stairs and encounter a machine gun pit.''
+
+'''Vulture One-Six''': Target has moved deeper into the building. Hold on, I got these guys.
+
+''Vulture One-Six sprays its minigun, taking out the pit.''
+
+'''Vulture One-Six''': Ok, all targets neutralized, you're good to go. I have movement on the roof, standby. Yeah, positive ID. Target is on the roof. He's all yours.
+
+''The player moves up the stairs towards the roof. There they surround and aim their guns at Zakhaev's son on the rooftop.''
+
+'''Gaz''': Drop the bloody gun! Now, drop it!
+
+'''SSgt. Griggs''': I can put one in his leg sir!
+
+'''Captain Price''': No! We can't risk it, hold your fire! Soap, take his weapon and restrain him!
+
+'''Gaz''': Drop it!
+
+''If the player waits for a bit before going up to restrain him:''
+
+'''Gaz''': You've got nowhere to run! Drop it now!
+
+'''Captain Price''': Soap, restrain him now! 
+
+''The player waits longer, Zakhaev's son steps down.''
+
+'''Viktor Zakhaev''': Вы всё равно все скоро сдохнете... (You will all die soon anyway...)
+
+''Zakhaev's son points his [[M1911]] up at his chin.''
+
+'''Gaz''': No! (in slow motion if the player approaches him early)
+
+''In slow motion, Zakhaev's son pulls the trigger, killing himself. His body collapses and bleeds.''
+
+'''SSgt. Griggs''': Sheeit... kid's got some issues...
+
+'''Captain Price''': [[Baseplate]] this is Bravo-Six. Zakhaev's son is dead. We're comin' home.
+
+'''Gaz''': Ah bloody hell, his son was our only lead, sir.
+
+'''Captain Price''': Forget it. I know the man... he won't let this go unanswered. Let's go.
+
+{{CoD4 CampaignT}}

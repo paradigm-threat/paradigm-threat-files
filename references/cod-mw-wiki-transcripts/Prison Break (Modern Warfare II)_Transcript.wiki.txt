@@ -1,0 +1,1119 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_II_Transcripts -->
+<!-- title: Prison Break (Modern Warfare II)/Transcript -->
+
+{{game|mwii}}
+== Cutscene ==
+''[[Johnny "Soap" MacTavish]] and [[Simon "Ghost" Riley (Reboot)|Simon "Ghost" Riley]] arrive at a stables building in the Mexican countryside and walk towards it in the early morning.''
+
+'''Soap''': Where are we?
+
+'''Ghost''': [[Alejandro Vargas|Alejandro]]'s safehouse. Gave me the location just in case.
+
+'''Soap''': Why didn't he tell me?
+
+'''Ghost''': It was need to know.
+
+'''Soap''': What if I needed to know--?
+
+'''Ghost''': --Shhh.
+
+''Soap and Ghost find a rigged booby trap on the ground covered with cardboard.''
+
+'''Soap''': Pressure plate...
+
+'''Ghost''': Alejandro rigged it.
+
+'''Soap''': Smart bastard.
+
+'''Ghost''': There.
+
+''Soap and Ghost look up at a window leading into the safehouse. Soap jumps through first with Ghost climbing through the window behind him. In the shadows, a hidden figure aims a rifle with a laser dot at Soap.''
+
+'''Ghost''': Don't move.
+
+''Ghost throws a knife at the figure and misses, hitting a wooden board instead. Soap aims his rifle at the hidden figure.''
+
+'''[[Rodolfo Parra|Rodolfo]]''': ''¿Quién está ahí?'' (Who's there?)
+
+''Soap lowers his rifle.''
+
+'''Soap''': Rodolfo!
+
+''Rodolfo peeks out of the shadows and spots the two soldiers.''
+
+'''Rodolfo''': Soap! Ghost! You're alive!
+
+'''Ghost''': Affirmative.
+
+''Rodolfo removes the knife from the board and walks over to Soap and Ghost.''
+
+'''Rodolfo''': Good to see you, amigos.
+
+'''Soap''': ''Igual, amigo.'' (Same, friend.)
+
+''Rodolfo gives Ghost his knife back.''
+
+'''Rodolfo''': Nice throw. Where were you guys?
+
+'''Ghost''': [[Alone (level)|On the run]].
+
+'''Soap''': I was on the run. Ghost waited for me.
+
+'''Rodolfo''': Of course, no?
+
+'''Soap''': No.
+
+'''Ghost''': Yes- 
+
+''Soap looks at Ghost, surprised.''
+
+'''Ghost''': We're a team... All of us. This happened on my watch and I'll need help to fix it. No one fights alone.
+
+''Soap nods.''
+
+'''Rodolfo''': Why did [[Phillip Graves|Graves]] turn?
+
+'''Soap''': We don't know.
+
+'''Rodolfo''': [[Las Almas]] can corrupt anyone.
+
+'''Soap''': Not us.
+
+'''Ghost''': For now, General [[Herschel Shepherd|Shepherd]], [[Kate Laswell|Laswell]], and anyone else outside this room is considered a hostile. With one exception.
+
+'''Soap''': Alejandro...?
+
+'''Ghost''': We need him back.
+
+'''Rodolfo''': ''Ven...'' (Come...)
+
+''Soap and Ghost follow Rodolfo to a desk with a map on top.''
+
+'''Rodolfo''': Graves is holding him here.
+
+'''Soap''': His own personal black site prison.
+
+'''Rodolfo''': My [[Los Vaqueros|team]] is locked in there too.
+
+'''Soap''': How do we get 'em back?
+
+'''Ghost''': By breaking in.
+
+'''Soap''': And that's why I love the Ghost.
+
+'''Ghost''': It's gonna take more than this.
+
+''Rodolfo walks over to a door and slides it open, revealing an armory full of weapons and gear.''
+
+'''Rodolfo''': It's well-stocked.
+
+'''Ghost''': Alright.
+
+'''Soap''': My man - We're gonna need new wheels. Preferably up-armored.
+
+''Rodolfo tosses Ghost a set of keys and turns on the lights. The overhead lights in the stables reveal an armored vehicle.''
+
+'''Ghost''': Alejandro thought of everything.
+
+'''Soap''': Yeah, he did. Let's go get him.
+
+''Soap, Ghost, and Rodolfo walk towards their vehicle. The scene changes to reveal a map of the Mexican territory with an area circled and the words "prison" and "Las Almas" written on it.''
+
+'''Rodolfo''': The old prison is in a remote area outside Las Almas. It was maximum security until the [[Las Almas Cartel|narcos]] took over, and it was permanently closed.
+
+''The camera pans left to reveal bullets and shells on top of a prison schematic with markings and Alejandro's headshot photo on it.''
+
+'''Rodolfo''': There is no airstrip, but expect helos for security and resupply.
+
+''The camera reveals another map with the words "entry" and guard tower" written on it.''
+
+'''Ghost''': We'll drive to an offset and ruck up to our infil - here. If the security towers are manned, we'll need to take them out first and rope up the wall for entry.
+
+'''Soap''': What about cameras?
+
+''A shot of the prison schematics reveals the security room with the word "CCTV" written on it.''
+
+'''Rodolfo''': There's CCTVs in the security room.
+
+'''Ghost''': We'll use them to locate Alejandro and the rest of your men.
+
+''Another shot of Alejandro and Los Vaqueros lies on the schematics, along with the words "Soap/Rudy" written by the security room layout.''
+
+'''Soap''': Let's divide and conquer. While Rudy finds Al, I'll use the cams to help Ghost plant charges in key areas.
+
+''The camera pans up to reveal an explosive charge.''
+
+'''Ghost''': Diversions and sabotage. Nice, Johnny.
+
+'''Soap''': I learned from the best, L.T. Once we pinpoint Alejandro and Los Vaqueros, we regroup and pry 'em loose.
+
+''The camera pans down from Alejandro and Los Vaqueros to the bottom of the prison schematics where the word "exfil" is written.''
+
+'''Rodolfo''': We'll carry extra guns in to arm my men and fight our way out the way we came in.
+
+'''Ghost''': Any questions?
+
+'''Soap''': What are we waiting for...?
+
+''Cut to black.''
+
+== Gameplay ==
+'''JOHN "SOAP" MACTAVISH - [[Task Force 141 (Reboot)|TF-141]], LOS VAQUEROS'''
+
+'''PRISON BREAK'''
+
+'''LAS ALMAS, MEXICO'''
+
+'''03 NOV 2022, 0400'''
+
+''Soap, Ghost, and Rodolfo exit their vehicle on the road and offload their equipment and weapons into their rucksacks.''
+
+'''Rodolfo''': Graves'll have this place locked down.
+
+'''Ghost''': Expect patrols on the outside.
+
+'''Soap''': No doubt.
+
+'''Ghost''': We geared up?
+
+'''Soap''': Guns, ammo, and charges in the packs.
+
+'''Rodolfo''': I've got the [[Ascender Gun|plummet-gun]]. [[Ascender]]s?
+
+'''Ghost''': Check.
+
+'''Soap''': Check. Let's hope Alejandro's alive.
+
+'''Rodolfo''': Count on it.
+
+'''Ghost''': On me...
+
+''The camera switches to Soap's POV as he deploys his suppressed [[M14 EBR|EBR-14]] marksman rifle. The three soldiers move out towards the prison.''
+
+'''Rodolfo''': Go left.
+
+'''Ghost''': Trail.
+
+'''Rodolfo''': Let's follow it.
+
+''Soap, Ghost, and Rodolfo hike up the rocky trail.''
+
+'''Soap''': Rudy, how long've ya known Alejandro?
+
+'''Rodolfo''': 20 years. Signed up together. Toughest dude in the regiment.
+
+'''Soap''': I wouldn't wanna mess with him...
+
+'''Rodolfo''': We used to say "el unico que puede matar a Alejandro es Alejandro..."
+
+'''Ghost''': What's it mean?
+
+'''Rodolfo''': "The only thing that can kill Alejandro is Alejandro..."
+
+'''Soap''': Glad he's on our side.
+
+'''Rodolfo''': A huevo... 
+
+''The three soldiers reach a cliff overlooking the prison.''
+
+'''Ghost''': Hold up. Eyes on the prison. Patrols on the outside...
+
+'''Rodolfo''': We'll have to take them out to get in.
+
+'''Ghost''': Two snipers, first tower. Soap - you take one, I'll get the other.
+
+''Soap aims his rifle at the first guard tower and shoots a [[Shadow Company (Reboot)|Shadow]] down. Ghost shoots the second Shadow immediately.''
+
+'''Soap''': Shadows down.
+
+'''Rodolfo''': Good shots, hermanos.
+
+'''Ghost''': I'll flank around and we'll clear the field... Rudy, give us a hand. Hold fire, Soap.
+
+''Rodolfo helps Ghost up a rock wall. They hear an incoming helicopter approaching the prison.''
+
+'''Ghost''': Got a heli incoming. Looks like a supply drop.
+
+'''Rodolfo''': Copy.
+
+''The helicopter passes over the three soldiers and flies to the prison. Down below, the soldiers spot six Shadows outside the prison walls.''
+
+'''Rodolfo''': Eyes on six Shadows...
+
+'''Ghost''': Affirm... three at the vehicle, two behind it/the rocks, one solo on the right/your right side.
+
+'''Rodolfo''': Take the two at the vehicle first and the others won't see...
+
+''Ghost sneaks down the cliff and stealthily approaches the Shadows.''
+
+'''Ghost''': Good call. Soap - On my mark, drop the one in the cap.
+
+''Soap aims his rifle at the Shadow wearing the cap.''
+
+'''Soap''': Set.
+
+'''Ghost''': Check - 3, 2, 1...
+
+''Soap shoots the cap-wearing Shadow at the same time that Ghost sneaks up and kills the other Shadow standing next to him.''
+
+'''Ghost''': Solid. Two down. On the move.
+
+''Ghost sneaks around the left of the vehicle and stops near an oblivious Shadow.''
+
+'''Ghost''': Take the two, right of the vehicle, I'll hit the one on the other side.
+
+''Soap aims his rifle at the two Shadows right of the vehicle and snipes them, while Ghost sneaks up behind the other Shadow and stabs him. Rodolfo shoots the last Shadow.''
+
+'''Rodolfo''': Clear.
+
+'''Ghost''': All clear. Push up to the base of the tower, that's our entry point. Stay quiet.
+
+''Soap, Ghost, and Rodolfo leave their vantage points and move up to the base of the tower.''
+
+'''Ghost''': Let's get up there.
+
+''Rodolfo fires the plummet-gun and hooks an ascension line up to the tower.''
+
+'''Ghost''': Good hook.
+
+'''Rodolfo''': Take point, Lieutenant.
+
+''Ghost hooks up to the rope and uses it to ascend to the top of the tower.''
+
+'''Rodolfo''': Soap, cover him. On you, Soap.
+
+''Soap hooks up his ascender.''
+
+'''Rodolfo''': Check fire on top- Keep us quiet.
+
+'''Soap''': Aye...
+
+''Soap ascends up the line to the tower and joins Ghost.''
+
+'''Soap''': Up.
+
+'''Rodolfo''': Copy. Behind you.
+
+'''Ghost''': Let's get to the security room. Stay close.
+
+'''Rodolfo''': Look for a hatch with a ladder.
+
+'''Ghost''': Got it.
+
+''Ghost and Soap enter the tower and find a hatch with a ladder leading down. Ghost climbs down first.''
+
+'''Ghost''': On me, Soap. Down and in.
+
+'''Soap''': Aye. Comin' down.
+
+''Soap climbs down the ladder with Rodolfo following behind.''
+
+'''Rodolfo''': Above you...
+
+'''Ghost''': All in. Let's move.
+
+''The three soldiers reach the bottom of the tower.''
+
+'''Rodolfo''': Security building is straight ahead. CCTV's inside.
+
+'''Ghost''': Move fast and stay low.
+
+''The three soldiers cross a roadway and reach the outside of the security building.''
+
+'''Rodolfo''': Two inside. Let's take them out before they call their amigos.
+
+'''Ghost''': You'll want to use a close-range weapon for interior.
+
+'''Soap''': Good call, L.T.
+
+'''Ghost''': Let's get in there.
+
+'''Rodolfo''': On you, Soap.
+
+''Soap arms his suppressed [[X12]] pistol and opens the door into the building. He kills the two Shadows inside.''
+
+'''Rodolfo''': We're clear. We'll use the closed-circuit to locate my men.
+
+'''Soap''': And find Alejandro.
+
+'''Ghost''': We'll need diversions when we move. I'll plant charges on the outside. Soap, your eyes'll guide me.
+
+'''Soap''': Aye.
+
+'''Ghost''': Get on those cameras.
+
+'''Soap''': On it.
+
+''Soap and Rodolfo each man a CCTV security computer.''
+
+'''Rodolfo''': Same.
+
+'''Ghost''': I'm out, watch for me.
+
+'''Soap''': Rog. Good luck, L.T.
+
+''Ghost exits the security building. Soap must now use the CCTV computer to switch cameras and watch over Ghost as the latter makes his way through the outside.''
+
+'''Ghost''': Soap, let me know when I'm clear to move in past the gate.
+
+''Soap points the camera at the wall nearby.''
+
+''(Every time Soap tells Ghost to move forward....)''
+
+'''Soap''': Clear, go...; Good to go.; Go, L.T.; Go, now.; Go now, Ghost.; Push up.; No threats, move.; Appears clear.; You're good.; Clear to move.; All clear.; Move, Ghost.; Move up.; Go to the crate.; Go to the truck.
+
+''Ghost opens the gate and moves out.''
+
+'''Ghost''': Access the camera ahead and check for threats.
+
+''Soap points the camera at another camera in order to access it and switch in between them. He then uses the camera to spot one Shadow standing by a trailer.''
+
+'''Soap''': One Shadow, easy kill.; Shadow, left.
+
+''(If Ghost is too far away to kill a Shadow...)''
+
+'''Ghost''': Get me near 'em.
+
+''The player has the option to choose whether an enemy is dispatched by gun or by knife for a silent kill.''
+
+''(Every time Soap orders Ghost to use a gun to kill any Shadows...)''
+
+'''Soap''': Advise you trigger him.; Pull the trigger on him.; Take a shot on him.; Pop him.; Shoot him.; Go for the gun, L.T.; Shoot to kill.; Gun him.; Gun him down, sir.; Put a bullet in him.; Put a round in him.; Go with the gun.
+
+''(Every time Soap orders Ghost to use his knife on a Shadow...)''
+
+'''Soap''': Cut him down, L.T.; Dump him.; Use your knife.; Use your blade.; Show him something sharp.; Cut n' paste him, Ghost.; Knife him.; Cut n' run, L.T.; Take a stab at him.; Draw blood and drop him, sir.; Recommend your blade.
+
+''(Every time Ghost kills a Shadow...)''
+
+'''Soap''': Sleep tight, shithole.; Layin' down on the job, aye...?; Dropped 'em.; Good kill.; Another dead Shadow.; Shadow down.; Lookin' good, L.T.; Nighty-night, fuck-head.; He's down.; Good night.; Down.; Sleep well, asshole.; Got 'em.; Classic Ghost...
+
+''Ghost kills the Shadow. Soap then switches cameras and uses it to spot three armored Shadows in another area.''
+
+'''Soap''': Multiple Shadows, they're armored. Stay low.
+
+'''Ghost''': Good copy.
+
+''Soap spots a Shadow on the balcony nearby.''
+
+'''Soap''': Shadow on the balcony.
+
+''(If Soap doesn't issue any orders yet...)''
+
+'''Ghost''': Need to get closer, talk me on.; Waitin' on you, Sergeant.; Johnny, gimme the go-ahead.
+
+''Ghost moves to the truck. Soap points out the Shadow.''
+
+'''Soap''': One on your left. 
+
+''Ghost dispatches the Shadow on the balcony.''
+
+'''Soap''': A little help's not so bad, eh, L.T.?
+
+'''Ghost''': Stay focused, Johnny.
+
+'''Soap''': Just sayin'...
+
+'''Ghost''': Keep it tactical, Sergeant.
+
+''Soap points his camera at a crate.'' ''Ghost moves up to the crate. Soap switches cameras and spots a Shadow in the next area.''
+
+'''Soap''': One, around the corner.
+
+''Soap points at a ladder leading up to a vantage point.'' 
+
+'''Soap''': Go up.
+
+''Ghost moves up the ladder and reaches the roof.''
+
+'''Soap''': I see ya, on the roof- One down below.
+
+''Soap points at the ground below Ghost's position.''
+
+'''Soap''': Go down.
+
+''Ghost moves down to the ground and spots the Shadow.''
+
+'''Ghost''': Wearing body armor, I'll have to get in close.
+
+''Ghost sneaks up on the armored Shadow and kills him with his knife. He then dumps the dead Shadow into the dumpster bin on his right.''
+
+'''Soap''': Trash bin on your right. Time to take out the trash...
+
+'''Ghost''': Shut up, Soap - Fucking hell...
+
+''Soap points his camera at another Shadow on patrol within a razor-wire area.''
+
+'''Soap''': One on patrol inside the razor wire.
+
+''Soap has Ghost dispatch the Shadow and then points at another area for Ghost to move to. Soap spots another Shadow with his guard down.''
+
+'''Soap''': One in the corner, his gun's down.
+
+''Ghost kills the Shadow. Soap points at a truck nearby.''
+
+'''Soap''': Move to the truck. 
+
+''Ghost reaches the truck.''
+
+'''Ghost''': Good place to plant a charge. How's it look?
+
+''(If Soap orders Ghost to move on without planting a bomb under the truck...)''
+
+'''Ghost''': Went past a good vehicle there for a bomb. Get me back to it, Soap.
+
+''Soap points at the truck to have Ghost plant a bomb.''
+
+'''Soap''': Go for it, L.T.; You're good to plant that charge.
+
+'''Ghost''': Rog.; Solid copy.
+
+''Ghost plants a bomb under the truck.''
+
+'''Ghost''': Bomb planted. On the move...
+
+''Ghost moves to cover while Soap spots more Shadows in the next area.''
+
+'''Soap''': Three Shadows ahead, one at the truck, two around the bend. You'll need a diversion.
+
+''Ghost moves to an electrical generator. Soap points out the generator.''
+
+'''Soap''': Time for a distraction, L.T.; You'll need a diversion.
+
+''Soap points at the generator for Ghost to turn off.''
+
+'''Soap''': Your bread 'n butter, sir.
+
+'''Ghost''': Lights out.
+
+''Ghost switches off the generator, causing the lights in the area to go dark. Ghost quickly moves to cover behind a crate while the two Shadows split off in opposite directions to investigate. One of them goes towards the generator.''
+
+'''Soap''': He's heading toward the electrical.
+
+'''Ghost''': Unless he runs into me on the way.
+
+''The Shadow gets close enough to the generator for Ghost to ambush him.''
+
+'''Soap''': Now...
+
+''Ghost springs out of hiding and kills the Shadow.''
+
+'''Soap''': I'm pretty good at this, eh, L.T.?
+
+'''Ghost''': I've seen better.
+
+'''Soap''': Who...?
+
+'''Ghost''': Me...
+
+''Soap spots a Shadow by the truck. Ghost kills the Shadow by the truck. Soap aims his camera at the truck.''
+
+'''Soap''': Head left.
+
+''Ghost moves to cover at the truck. Soap then uses the camera to guide Ghost to the next cover area. Soap has Ghost dispatch the next Shadow on patrol. Soap points out another Shadow.''
+
+'''Soap''': Shadow, left.
+
+''Ghost kills the next Shadow. Soap marks the last Shadow in the area that is rummaging through a cargo container.''
+
+'''Soap''': One to your right.; One on your left.
+
+''Ghost kills the Shadow by the cargo container. Soap guides Ghost through the next cover. Soap switches camera and spots a pickup truck nearby.''
+
+'''Soap''': Seeing a pickup you can sabotage.
+
+'''Ghost''': Good call, Sergeant.
+
+''Soap has Ghost dispatch the Shadow by the second pickup truck. Ghost moves to the truck and takes out an explosive bomb.''
+
+'''Ghost''': Planting charge.
+
+''Ghost plants the second bomb under the truck and moves to the next cover.''
+
+'''Ghost''': Two down. Moving...
+
+''Soap spots another place for Ghost to advance.''
+
+'''Soap''': Move right.
+
+''Soap spots a Shadow by a concrete barrier.''
+
+'''Soap''': One on your left.
+
+''Ghost kills the Shadow by the barrier. Soap switches cameras and sends Ghost to the next area for cover. Soap waits for a Shadow to move away from Ghost's line of sight.''
+
+'''Soap''': Move left.
+
+''Ghost moves out of cover and kills the Shadow on patrol. Two more Shadows appear on patrol and Ghost dispatches them accordingly through Soap's instructions.''
+
+'''Soap''': One in your way.; Heads up, two Shadows.; Got two closing in on you.; Got two, closing on you.
+
+''After Ghost kills the two Shadows, Soap has Ghost move to the next area. Soap points out a Shadow.'' 
+
+'''Soap''': Heads up, one Shadow.; Eyes on one ahead.; Shadow ahead.
+
+''Soap spots a Shadow on the roof of a building.''
+
+'''Soap''': One on the roof, Ghost.
+
+''Soap guides Ghost up a ladder to a balcony. Once up there, Soap spots another Shadow working on a computer below Ghost's position.''
+
+'''Ghost''': Gonna do this one my way, watch...
+
+''If Soap orders Ghost to shoot the Shadow below his position:''
+
+'''Ghost''': No, got somethin' else in mind.
+
+''Ghost leaps down from the balcony, pounces onto the Shadow, and stabs him with his knife - killing him.''
+
+'''Soap''': Fucking beautiful, sir.
+
+''Soap spots an [[APC]] nearby.''
+
+'''Soap''': APC looks ripe for a bomb, L.T.
+
+''Ghost plants a bomb under the APC.'' 
+
+'''Ghost''': Done. On to the next.
+
+''Soap guides Ghost to the next area, where a Shadow stands guard.'' 
+
+'''Soap''': One, left.
+
+''Soap spots two Shadows walking off the road.''
+
+'''Soap''': Two comin' in off the road. Let 'em pass.
+
+''Ghost kills the Shadow and reaches another APC where he plants a bomb.''
+
+'''Soap''': Four less to give us chase.
+
+'''Ghost''': We're all set here, Johnny. Have we located Alejandro?
+
+'''Rodolfo''': Perfect timing. I found him.
+
+'''Soap''': Where?
+
+'''Rodolfo''': Stand by...
+
+''The camera switches to a four-way screen of the prison level. One of the screens reveals Alejandro pacing in his cell and shouting at the guards outside. Another screen shows two Shadows guarding his cell.''
+
+'''Soap''': Bloody fucking hell, that's him.
+
+'''Rodolfo''': He's in solitary. Two on the door.
+
+'''Soap''': I see 'em. Ghost, we got him. He's alone. Two Shadows on guard.
+
+'''Ghost''': Not for long. RV outside the cellblock, we'll pry him loose.
+
+'''Soap''': Roger that, on the move.
+
+''The scene changes to the security room as Soap looks at Rodolfo.''
+
+'''Soap''': Good work.
+
+'''Rodolfo''': ''Igual, amigo.'' (Same, friend.) Alejandro would've come for us.
+
+'''Soap''': ''Eso que ni que''. (Definitely.)
+
+''Soap and Rodolfo exchange a bro handshake.''
+
+'''Rodolfo''': ''Vamos por unos Vaqueros, cabrón.'' (Let's get some Vaqueros...)
+
+''Soap and Rodolfo leave the security building. The sound of an approaching helicopter is heard as it passes overhead.''
+
+'''Soap''': Ghost, what's your status?
+
+'''Ghost''': Comin' your way.
+
+'''Soap''': Copy. We're on the move.
+
+'''Rodolfo''': Heads up on the helo.
+
+'''Ghost''': Looks like we're out of his line of sight.
+
+''Soap and Rodolfo move through the courtyard as they reach the entrance to the cell block. The entrance is guarded by Shadows.''
+
+'''Rodolfo''': Cell block. Entry's ahead. Shadows blocking the way.
+
+'''Soap''': Let's send 'em to hell and get inside.
+
+''Soap and Rodolfo kill the Shadows guarding the entrance to the cell block.''
+
+'''Rodolfo''': All clear.
+
+''Soap and Rodolfo reach the entrance as Ghost joins them. Soap tries to open the door, but to no avail.''
+
+'''Soap''': It's locked.
+
+'''Rodolfo''': We'll need to breach it.
+
+'''Ghost''': No, Rudy - Knock.
+
+'''Rodolfo''': On me...
+
+''Soap and Ghost get into position as Rodolfo knocks on the doors. A Shadow opens up and steps outside, only to be ambushed by Ghost and Rodolfo. The three soldiers burst through the entrance and engage the other Shadows inside the cell block.''
+
+'''Rodolfo''': Enemies on the second deck-!
+
+'''Ghost''': More comin' down the stairs-!
+
+'''Rodolfo''': Soap, we'll keep 'em busy up top, press forward...!
+
+''Soap pushes forward as he shoots and Shadows in his way.''
+
+'''Ghost''': Coming up behind you, Sergeant.
+
+'''Rodolfo''': Alejandro's up here, let's go...
+
+''Soap, Ghost, and Rodolfo climb up the stairs to the second level.''
+
+'''Rodolfo''': Alejandro's down the hall, right side.
+
+'''Ghost''': Expect contact...
+
+''The three soldiers enter the second level and encounter the two Shadows guarding Alejandro's cell.''
+
+'''Ghost''': Light 'em up-!
+
+'''Rodolfo''': ''¡¡Mueran, pinches sombras!!'' (Come on, you Shadow fucks--!!)
+
+''The two Shadows are shot dead.''
+
+'''Rodolfo''': There's Alejandro's cell... Open it up, I'll cover you.
+
+''Soap and Ghost stand by the door to Alejandro's cell as Ghost takes out his bolt cutters.''
+
+'''Ghost''': Johnny, when I pop this lock, you push in. This is what we came for...
+
+''Ghost pops open the lock with his cutters and opens the cell door. Soap enters the cell.''
+
+'''Soap''': Alejandro-
+
+''Suddenly, Alejandro grabs Soap from behind and shoves him against the wall, ready to punch him. Rodolfo steps in and stops Alejandro.''
+
+'''Soap''': Al - It's me, hermano.
+
+'''Rodolfo''': ''Coronel, relájate, cabrón, somos nosotros.'' (Colonel, relax, it's us...)
+
+''Alejandro calms down, happy to see his rescuers.''
+
+'''Alejandro''': Soap!! Rudy, Ghost...!
+
+'''Soap''': Didn't think we'd leave you, did you...?
+
+''Soap and Alejandro shake hands.''
+
+'''Alejandro''': What the fuck took you so long, pendejos?
+
+'''Ghost''': Place is crawling with Shadows. There'll be hell ahead.
+
+''Rodolfo hands Alejandro a [[KF5|BAS-P]] submachine gun.''
+
+'''Alejandro''': Let's fight fire with fire.
+
+'''Rodolfo''': There's more Vaqueros in the cells upstairs.
+
+'''Soap''': Time to get 'em out.
+
+'''Alejandro''': Órale, on you, Rodolfo.
+
+''Soap, Ghost, Alejandro, and Rodolfo make their way to the next objective.''
+
+'''Soap''': You seen Graves here?
+
+'''Alejandro''': No, but I plan to pay that ''cabrón'' a special visit.
+
+'''Soap''': Me too...
+
+''They reach the third level where Los Vaqueros are being held.''
+
+'''Alejandro''': They have guards on all the floors, be ready.
+
+''The four soldiers encounter the Shadows by the cells. The Shadows are using [[Riot Shield|riot shields]] to protect themselves.''
+
+'''Alejandro''': Riot shields-!
+
+'''Ghost''': Soap, throw whatever you got at them!
+
+'''Alejandro''': ''¡Hijos de puta!'' (Motherfuckers!) Kill everything that moves!
+
+''Soap uses whatever weapons or tools to dispatch the Shadows until the area is secured.''
+
+'''Soap''': Think we're clear.
+
+'''Alejandro''': Los Vaqueros are locked in these cells.
+
+'''Rodolfo''': ''Aquí estamos, Vaqueros... ¡hora de ir a casa!'' (Here we are, Vaqueros... time to go home!!
+
+'''Alejandro''': ''¡Estamos aquí, hermanos! Los sacaremos!'' (We're here, my brothers, we'll get you out!)
+
+'''Ghost''': We breaching the doors?
+
+'''Alejandro''': Doors are powered. Controls are in the command post across the hall.
+
+''Soap moves down the hall to the command post and opens the doors through a console.''
+
+'''Soap''': Doin' it...
+
+''The cell doors open, allowing Los Vaqueros to escape and meet with Alejandro and Rodolfo.''
+
+'''Alejandro''': ''Órale, mis hermanos hasta la muerte... el Sargento Parra tiene armas, tomen una y esperen aquí.'' (My brothers in arms... Sergeant Parra has guns, take one and hold here.)
+
+'''Vaquero 1''': ''Comandante, estás vivo. Bendito sea.'' (Commander, Thank God you're alive.)
+
+'''Alejandro''': Rest of you with me...
+
+'''Soap''': Right with ya.
+
+'''Vaquero 3''': ''¡Ninguna prision puede detener a Los Vaqueros...!'' (No prison can hold the cowboys...!)
+
+'''Vaquero 2''': ''El unico que puede matar a Alejandro es Alejandro...'' (The only thing that can kill Alejandro is Alejandro...)
+
+''(If Soap doesn't start moving immediately...)''
+
+'''Ghost''': Soap, come on, clock's tickin' now, we gotta move.
+
+'''Soap''': Right with ya.
+
+''The escapees and their rescuers reach the darkened mess hall.''
+
+'''Alejandro:''' This was the mess hall. 
+
+'''Soap''': Let's make a mess...
+
+'''Alejandro''': Órale.
+
+''Suddenly, the lights in the mess hall turn on.''
+
+'''Rodolfo''': Shadows know we're here, stay sharp.
+
+''Shadows arrive on the scene and open fire on Los Vaqueros and TF-141.''
+
+'''Alejandro''': Movement-! Open fire-!
+
+'''Rodolfo''': Check high!
+
+'''Ghost''': Watch the catwalk!
+
+''Soap helps his teammates eliminate all the Shadows in the mess hall.''
+
+'''Alejandro''': Big room, make sure we're clear...!
+
+'''Rodolfo''': ''Despejado, Coronel. (''Appears clear, Colonel.)
+
+'''Ghost:''' No threats.
+
+'''Alejandro''': Re-group on the door.
+
+''Soap and his team reach the doors leading outside only to find it is locked.''
+
+'''Alejandro''': It's padlocked.
+
+''Ghost moves to open the doors with his bolt cutters.''
+
+'''Ghost''': I got it.
+
+'''Alejandro''': (chuckles) ''El fantasma, siempre preparado.'' (The Ghost, always prepared.)
+
+'''Ghost''': On you, Colonel.
+
+''Alejandro kicks open the doors.''
+
+'''Alejandro''': Weapons hot, hermanos. Stairwell leads down and out... We'll link up with the other and exfil the fuck out of here.
+
+'''Rodolfo''': Exfil vehicles are set. Ghost planted charges to help us get out.
+
+'''Ghost''': With Johnny's help.
+
+'''Alejandro''': I can't call Soap "Johnny"...
+
+'''Soap''': Don't. Only Ghost can pull that off.
+
+''The escapees move down the stairs and reach another command post with some supplies.''
+
+'''Alejandro''': Supplies there... Take what you need. There'll be serious resistance getting out.
+
+'''Rodolfo''': We'll have to cross the yard to get everyone out.
+
+''The escapees reach the doors leading out into the prison exterior, but come under fire from the Shadows.''
+
+'''Alejandro''': The roof, right side-!
+
+''Soap and the escapees return fire and kill the Shadows, but an enemy sniper fires on them.''
+
+'''Alejandro''': Sniper on the roof.
+
+''Soap kills the sniper.''
+
+'''Soap''': Sniper down.
+
+'''Alejandro''': Good shot, hermano!
+
+''Soap, Ghost, and Alejandro lead Los Vaqueros down the road, but a pickup truck arrives and offloads the Shadows.''
+
+'''Ghost''': Johnny - That truck's got one of our charges on it. Detonate it.
+
+'''Soap''': Here it comes.
+
+''Soap detonates the truck, causing an explosion the kills the Shadows around it.''
+
+'''Soap''': Ka-freakin-boom, baby-!
+
+'''Ghost''': Good effect, let's move up!
+
+''The escapees continue on their way, but come across an enemy truck with a manned minigun mounted on top.''
+
+'''Ghost''': Turret gun in our way-! Use the detonator to take it out, Soap!
+
+''(If Soap doesn't immediately detonate the trick...)''
+
+'''Ghost''': Johnny, that turret's near our truck bomb, hit it-!!
+
+''Soap prepares to detonate the truck.''
+
+'''Soap''': Stand clear!
+
+''Soap detonates and the truck explodes, killing any enemies around it.''
+
+'''Soap''': Gaun yersel, ya scum!
+
+'''Alejandro''': ''¡Órale, qué belleza!'' (That's a thing of beauty!)
+
+''Soap and his team eliminate any Shadows remaining.''
+
+'''Soap''': We clear?
+
+'''Alejandro''': For now... Rodolfo, where to...?
+
+'''Rodolfo''': Cut through the building, left side.
+
+''The escapees enter the left side building and reach the armory. They encounter an armored Shadow that Soap kills.''
+
+'''Soap''': These Shadows are crazy.
+
+'''Ghost''': Mercenaries, Johnny. Bloody wannabes.
+
+''Soap finds some weapons and equipment to refill.''
+
+'''Ghost''': Appears quiet, take anything we can use to stay in the fight, Johnny.
+
+''Soap takes what he needs from the equipment.''
+
+'''Soap''': I'm good.
+
+'''Alejandro''': I'll get an OP up top and cover by fire. Rest of you, wait for my signal.
+
+'''Ghost''': Copy.
+
+''Alejandro climbs up a ladder to the roof.'' 
+
+''(If Soap decides to follow Alejandro up to the roof...)''
+
+'''Soap''': On your six, Alejandro.
+
+'''Alejandro''': Always good to hold the high-ground, Sergeant.
+
+''Soap and Ghost lead the escapees to the next area to exfil. Alejandro encounters more Shadows on the second floor.''
+
+'''Alejandro''': Second floor-! Push out, Vaqueros!
+
+'''Ghost''': Rog. Moving out...
+
+''Soap, Ghost, and Los Vaqueros encounter more Shadows in the courtyard.''
+
+'''Rodolfo''': We'll have to clear the courtyard to get across!
+
+'''Alejandro''': They're in cover, draw them out!
+
+''Soap helps his teammates to kill the Shadows in the courtyard. But, more Shadows arrive with riot shields to attack the prisoners.''
+
+'''Alejandro''': More coming, they have shields!
+
+'''Ghost''': We got grenades!
+
+'''Alejandro''': Break through!
+
+''Soap helps to kill the Shadows.''
+
+'''Rodolfo''': They're down. 
+
+'''Alejandro''': More will be posted near the cell block entry, stay alert.
+
+''The escapees encounter more Shadows entering the yard.''
+
+'''Ghost''': Alejandro was right-!
+
+'''Rodolfo''': We need to finish them off or they'll give chase.
+
+'''Alejandro''': Good call, Rudy!
+
+'''Rodolfo''': Push through, there's a field we can use to flank up...
+
+'''Ghost''': We need to get up and over that wall...
+
+''Soap, Ghost, and Los Vaqueros leave the courtyard and continue making their way to the exfil point. They hear the sound of an approaching helicopter.''
+
+'''Soap''': You hear that?
+
+'''Alejandro''': Helicopter — Searching for us!
+
+''An enemy helicopter appears and opens fire on Los Vaqueros.''
+
+'''Ghost''': We'll need more than this to take it out.
+
+'''Price''': (over radio) All stations, this is Bravo-6 - Get down!
+
+''On the wall, Captain [[John Price (Reboot)|Price]] fires a rocket at the helicopter, hitting it and causing the aircraft to crash on the ground in an explosion. Price waves a green flare at Los Vaqueros.''
+
+'''Ghost''': It's Price!
+
+'''Soap''': Hell fucking yeah!
+
+'''Price''': All Bravo and Vaqueros... Top o' the wall. Get here and I'll get you out. How copy?
+
+'''Ghost''': Loud and clear, Price. Comin' to ya...!
+
+'''Rodolfo''': Who is he?!
+
+'''Soap''': A friend...
+
+'''Alejandro''': I like him already. ''¡Vaqueros, vayan al muro, entre las torres, ya!'' (Vaqueros, get to the wall, between the towers, now!)
+
+''Soap, Ghost, and Los Vaqueros head to the wall where Price lowers ropes for them to use.''
+
+'''Price''': Be advised. Ropes deployed. Find 'em and climb.
+
+'''Ghost''': Roger that.
+
+''Soap hooks up the ascender to the rope.'' 
+
+'''Ghost''': We're clear for now, but Shadows are on the way, count on it...
+
+''Soap and Ghost move up the ropes with their ascenders. Price and [[Kyle "Gaz" Garrick|Gaz]] help Soap and Ghost up.''
+
+'''Price''': Sergeant MacTavish...
+
+'''Soap''': Good to see you, Captain.
+
+'''Gaz''': Ghost...
+
+'''Ghost''': Garrick... Price.
+
+'''Soap''': How'd you know...?
+
+'''Gaz''': Laswell.
+
+'''Price''': Soon as Shepherd went dark, she called us.
+
+'''Ghost''': Laswell, still solid as a rock.
+
+''Soap helps Alejandro up to the wall.''
+
+'''Soap''': Colonel Vargas, meet Captain Price and Sergeant Garrick.
+
+'''Alejandro''': Thanks for the assist - my men need cover fire.
+
+'''Price''': Gaz, Soap, Ghost - overwatch - now!
+
+''More Shadow reinforcements arrive and attack the escaping prisoners. Soap helps his teammates to cover Los Vaqueros' escape. Enemy vehicles arrive on the scene.''
+
+'''Price''': Vehicles incoming, right side.
+
+'''Ghost''': Soap- that vehicle is rigged - detonate it!
+
+''(If Soap doesn't immediately destroy the vehicle...)''
+
+'''Ghost''': Sergeant - detonate that vehicle, now!
+
+'''Rodolfo''': Copy. ''¡Escalen, Vaqueros! ¡Es su oportunidad!'' (Climb up, Vaqueros, now's your chance!)
+
+''Soap detonates the vehicle.''
+
+'''Ghost''': Vehicle destroyed-!
+
+'''Price''': Shadows in the right side tower, watch your backs!!
+
+''Soap kills the attacking Shadows in the towers. He can also go inside the tower and find additional weapons.''
+
+'''Price''': Soap, if there's weapons in that tower, use 'em...
+
+''Soap finds a [[War Machine|REV G-80]] grenade launcher.''
+
+'''Soap''': Steamin' Jesus, look at this. Got a grenade launcher!
+
+'''Rodolfo''': More vehicles incoming from the front!
+
+''Soap destroys the vehicles.''
+
+'''Gaz''': Suppressive fire, friendlies comin' up the ropes! Once they're up, we're pulling out!
+
+''Enemy snipers fire on Los Vaqueros nearby.''
+
+'''Price''': Got snipers on the roofs, take 'em out!
+
+''Soap kills the enemy snipers on the rooftops. An enemy APC arrives.''
+
+'''Ghost''': Johnny - detonate that APC!
+
+''Soap detonates and destroys the APC.''
+
+'''Ghost''': Good effect.
+
+'''Alejandro''': ''¡Vamos, avancen rapido - mientras está despejado!!'' (Move, move, quickly - While the coast is clear!!)
+
+''The last of the prisoners climbs up the ropes with help from Price and his team.''
+
+'''Rodolfo''': We're good to go, ''Coronel''. (Colonel.)
+
+'''Alejandro''': Let's get the fuck out of here, hermanos.
+
+'''Price''': Down the wall... WE ARE LEAVING!
+
+''TF-141 and Los Vaqueros rappel down the wall to their escape vehicles.''
+
+'''Ghost''': Sergeant, get on the rope, we're going...
+
+''Soap takes a nearby rope and rappels down after his team. Price is the last to follow. He descends down to the ground and points to two vehicles.''
+
+'''Price''': Those two are ours.
+
+'''Alejandro''': Check.
+
+''TF-141 and Los Vaqueros head for their escape vehicles.''
+
+'''Soap''': Rodolfo - You take the truck we came with!
+
+'''Rodolfo''': Roger that.
+
+'''Alejandro''': ''¡Vaqueros, siganme...! ¡Rudy, nos vemos en el rancho!'' (Vaqueros, on me...! Rudy, meet me at the house!)
+
+'''Rodolfo''': ''Sale, Coronel, suerte.'' (Will do, Colonel, good luck.)
+
+'''Alejandro''': Captain, follow me.
+
+'''Price''': Copy. Gaz, drive!
+
+'''Gaz''': On it. Ghost, Soap, this is us.
+
+''Price, Gaz, Soap, and Ghost get in their vehicle.''
+
+'''Price''': Load in... Hit it, Gaz.
+
+''Gaz starts up the vehicle and drives away from the prison.''
+
+'''Ghost''': Shepherd burned us.
+
+'''Soap''': He sent Graves and his Shadows to kill us and round up Los Vaqueros.
+
+'''Price''': We know why.
+
+'''Gaz''': Laswell did a bit of digging.
+
+'''Ghost''': What did she find?
+
+'''Price''': The truth...
+
+''Cut to black. End of level.''
+{{CoD19 CampaignT}}
+[[Category:Call of Duty: Modern Warfare II Transcripts]]

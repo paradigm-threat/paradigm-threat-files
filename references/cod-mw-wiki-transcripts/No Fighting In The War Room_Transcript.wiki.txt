@@ -1,0 +1,176 @@
+<!-- category: Category:Call_of_Duty_4:_Modern_Warfare_Transcripts -->
+<!-- title: No Fighting In The War Room/Transcript -->
+
+{{game|cod4|mwr}}
+
+== Cutscene ==
+''The satellite tracks the two missiles as they break off parts and launch each of their six warheads, which will detonate all along the U.S. East Coast in 15 minutes and thirty seconds. The satellite then tracks the [[Special Air Service/Modern Warfare|SAS]]/[[United States Marine Corps/Modern Warfare|Marine]] teams that have [[All In|breached the facility]], which is being analyzed. The team will have to go from the vents down to the barracks, go through the storage area, go across the launch silos, pass a heavy blast door, and finally into the launch control room.''
+
+'''[[Gaz]]''': Team One moving in.
+
+'''Marine''': Team Two heading for base security.
+
+'''SAS''': Team Three has entered the base.
+
+'''[[Overlord|Command]]''': Bravo Team, we got good news and bad news. Launch control is located southwest of your position, less than half a klick away. That's where you'll need to upload the abort codes to destroy the missiles in flight.
+
+'''[[John Price|Captain Price]]''': Gaz, go with the Yanks and hit the security station. [[John "Soap" MacTavish|Soap]], [[Griggs]], and I will head for launch control.
+
+'''Gaz''': Roger. Command, what's the bad news?
+
+'''Command''': Uh..the bad news is we're still trying to get those abort codes, over.
+
+'''Captain Price''': The hell with it. We'll give it our best shot. Out.
+
+''The satellite tracks Sgt. "Soap" MacTavish in the facility's air vents.''
+
+== Gameplay ==
+'''["No Fighting In The War Room]'''
+
+'''[Day 6 - 07:35:17]'''
+
+'''[Altay Mountains, Russia]'''
+
+'''[Sgt. "Soap" MacTavish]'''
+
+'''[22nd SAS Regiment]'''
+
+''Captain Price, SSgt. Griggs, and Sgt. "Soap" MacTavish make their way through the vents in the facility.''
+
+'''Captain Price''': Alright, let's move.
+
+'''Marine (Five-Delta Six)''': Captain Price, this is Five-Delta Six, we're clearing the east wing heading for base security, over.
+
+'''Captain Price''': Roger, Delta Six, we're right above you in the vents, watch your fire.
+
+'''Marine (F-D6)''': Copy that sir.
+
+'''Marine (Two-Yankee Six)''': Captain Price, Two-Yankee six reporting in. We're meeting with heavy resistance in the south wing. They've locked down our access point over here, over.
+
+'''Captain Price''': Roger Yankee Six. Regroup with Team Two and help them gain control of base security, over.
+
+'''Marine (T-Y6)''': Roger that sir. We're pulling back to regroup with Team Two. Yankee Six out.
+
+''They come down from the vents into a shower room of the barracks.''
+
+'''Command''': Captain Price, we're sending your team the abort codes you'll need to auto-destruct the missiles in flight. You have fifteen (''on Recruit, eleven on regular,''' '''nine''' '''on Hardened/Veteran'') minutes before those missiles reach the eastern seaboard, over.
+
+'''Captain Price''': Copy that.
+
+''They start to fight their way to the launch control room. As they fight, they come down the second and third lower levels into the storage area.''
+
+''Ten minutes left on the clock...''
+
+'''SSgt. Griggs''': We got ten minutes left.
+
+''Eight minutes left on the clock...''
+
+'''SSgt. Griggs''': We got eight minutes left.
+
+''They continue fighting through the storage area.''
+
+'''SSgt. Griggs''': We're runnin' outta time. We gotta move.
+
+''As they fight through the third level into the launch silos, Russian is heard on the P.A.''
+
+'''Russian PA''': Десять, девять, восемь, семь, шесть, пять, четыре, три, два, один, ноль, взлетать. (Ten, Nine, Eight, Seven, Six, Five, Four, Three, Two, One, Zero, Blast Off.)
+
+'''SSgt. Griggs''': Sir what's goin' on? What are they sayin'?
+
+'''Captain Price''': They've started a bloody countdown! [[Imran Zakhaev|Zakhaev]]'s going to launch the remaining missiles! Keep moving!
+
+''They clear the launch silos and enter a small room. Price closes the door behind them as flames come towards them.''
+
+'''Captain Price''': Go go go! Move! Move!
+
+''They come to the heavy blast door.''
+
+'''Gaz''': Captain Price, this is Gaz. We've taken over base security. What's your status, over?
+
+'''Captain Price''': Gaz (''subtitles erroneously say "Team Two" in the Original version''), we're in position. Open the outer door to launch control.
+
+'''Gaz''': Roger, we're on it. Standby. Almost there. Got it. Doors coming online now.
+
+''Price and Griggs get ready. The door slowly opens...''
+
+'''SSgt. Griggs''': Oh, you gotta be shittin' me.
+
+'''Captain Price''': Gaz, can't you make it open faster?
+
+'''Gaz''': Negative sir. But you can try pulling it if it'll make you feel better.
+
+'''Captain Price''': Eh, cheeky bastard...
+
+''Six minutes left on the clock...''
+
+'''SSgt. Griggs''': We got six minutes left.
+
+''Five minutes left on the clock...''
+
+'''SSgt. Griggs''': Five minutes...
+
+''Four minutes left on the clock...''
+
+'''SSgt. Griggs''': Four minutes...
+
+''The doors open wide enough for them to move through. They continue fighting their way to the far wall of the control room.''
+
+'''Captain Price''': Team Three, what's your status, over?
+
+'''Marine''': Team Three in position, at the southeast side of the launch control room. Standing by. Are you at the far wall over?
+
+'''Captain Price''': Affirmative. Preparing to breach. Soap - plant the explosives, go!
+
+''Soap plants a [[C4]] charge on the wall and detonates it.''
+
+'''Captain Price''': Go go go.
+
+'''Marine''': Moving in.
+
+''The two teams breach and clear the control room.''
+
+'''SSgt. Griggs''': Clear!
+
+'''Captain Price''': Soap, enter the codes! We'll watch for enemy reinforcements.
+
+''Soap uploads the abort codes on the computer.''
+
+'''Command''': Standby for confirmation. Standby... standby... Bravo Six, all warheads have been confirmed destroyed in flight. We got a ton of debris, but most of it is landing in the ocean.
+
+''The screen shows Zakhaev outside the launch facility leaving in a helicopter.''
+
+'''Marine''': Sir, check the security feed! It's Zakhaev. He's takin' off!
+
+'''Gaz:''' Captain Price, this is Gaz at the security station. They came in by trucks. I'm thinking we can all use them to get the hell outta here. I'm sending you the coordinates to the vehicle depot.
+
+'''Captain Price''': Roger that. We'll meet you at the vehicle depot! Out! Everyone follow me let's go!
+
+'''Command''': All teams this is Command, recommend you exfil from the area immediately. Large numbers of hostiles are converging on your position. Get outta there now.
+
+''The team moves out of the room. They encounter enemy foot-mobiles at the hallways.''
+
+'''SSgt. Griggs''': We got company! Enemy reinforcements movin' in!
+
+''They eliminate all hostiles.''
+
+'''Captain Price''': Move! Move!
+
+''They ride the elevator up to the vehicle depot.''
+
+'''Gaz''': This is Gaz. We're takin' some fire up here at the vehicle depot. Where the hell are you guys?
+
+'''Captain Price''': We're coming up the lift. Standby.
+
+'''SSgt. Griggs''': You know sir, I wouldn't mind gettin' a shot at Zakhaev.
+
+'''Captain Price''': Yeah... well... get in line mate... if he doesn't find us first...
+
+''The elevator reaches the ground floor. Price, Griggs, and Soap head for the vehicle depot and meet with the rest of the team. They encounter heavy resistance, but manage to eliminate all hostiles.''
+
+'''Captain Price''': All right, get in the trucks! Let's go!
+
+'''SSgt. Griggs''': You heard the man! Move!
+
+''The teams get in the vehicles and escape from the launch facility.''
+
+{{CoD4 CampaignT}}

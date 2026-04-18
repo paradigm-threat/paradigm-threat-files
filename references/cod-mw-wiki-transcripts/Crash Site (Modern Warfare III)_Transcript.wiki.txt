@@ -1,0 +1,344 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_III_Transcripts -->
+<!-- title: Crash Site (Modern Warfare III)/Transcript -->
+
+{{game|1=mwiii}}
+== Cutscene ==
+''A TV screen displays the words "CHANNEL 7 BREAKING NEWS" with a radar background.''
+
+'''News Anchor 5''': We need to update you on the breaking news of a [[Passenger|Russian passenger jet that crashed]]...
+
+''The TV displays news footage of a map with Russian Flight 761 marked on it and travelers in an airport with the words "BREAKING NEWS: 133 PASSENGERS AND 9 CREW".''
+
+'''News Anchor 1''': A hundred and thirty-three passengers and nine crew members were on board that flight...
+
+''A man in a suit is seen giving a press release.''
+
+'''News Anchor 2''': ...suspected it may have been deliberately crashed...
+
+''An air control panel displays a radar screen.''
+
+'''News Anchor 3''': ...descending very rapidly...
+
+'''News Anchor 5''': ...Unexplained descent...
+
+''An airplane is seen preparing to depart from the runway. Next, the headlines on the news reads "SEARCH FOR FLIGHT RECORDER".''
+
+'''News Anchor 4''': ... the cockpit voice recorder, that is a crucial part of the investigative process...
+
+''The news footage shows a smartphone held in a person's hand and another passenger holding up a smartphone to record footage. The headlines read "PASSENGER FOOTAGE MAY REVEAL DETAILS" and "PASSENGER CELL PHONES".''
+
+'''News Anchor 2''': ...video from passenger cell phones could also shed light...
+
+''The news displays the aftermath of the [[Deep Cover|recent chemical warhead attack]] on Arklov Military Base in Verdansk.''
+
+'''News Anchor 3''': Just hours after a missile attack on Arklov Military Base...
+
+'''News Anchor 4''': ...suffered massive casualties when they...
+
+''The news footage displays one of the hooded hijackers walking through [[Verdansk International Airport]] with the headlines displayed "[[Urzikstan Liberation Force|ULF]] DENIES RESPONSIBILITY".''
+
+'''News Anchor 5''': ...this could be related in what looks to be a possible terrorist attack...
+
+'''News Anchor 1''': ...will not tolerate terrorists of any sort...
+
+'''News Anchor 4''': Moscow is investigating. But tensions haven't been this high since...
+
+''The news footage fades out. The scene shifts to a computer screen with [[Vladimir Makarov (Reboot)|Vladimir Makarov]]'s mugshot displayed over a map of the [[Middle East]].''
+
+'''[[John Price (Reboot)|Price]]''': This has got Makarov written all over it.
+
+'''[[Kate Laswell|Laswell]]''': He's done more damage in 72 hours than [[Konni Group]] did in five years without him.
+
+''An image of Konni Group appears next along with the name "URZIKSTAN" on the map.''
+
+'''[[Farah Karim|Farah]]''': That airliner went down in my country.
+
+'''Price''': It was no accident.
+
+'''Farah''': I need to get to that crash site and prove it.
+
+''The screen zooms in to show Russian Flight 761 flying across the border between [[Kastovia]] and [[Urzikstan]].''
+
+'''Laswell''': ICAO data shows that it was a flight out of Kastovia bound for Sochi.
+
+''The plane is seen disappearing on the map of Urzikstan.''
+
+'''Laswell''': It lost contact in this region.
+
+'''Farah''': That's all I need.
+
+'''Laswell''': You'll have to get there before authorities arrive.
+
+''An image of Konni Group appears once more.''
+
+'''Farah''': It's not the authorities I'm worried about...
+
+'''Price''': Good luck, Farah...
+
+''The scene shifts to the Urzikstan desert in nighttime.''
+
+'''URZIKSTAN'''
+
+''Two motorcycles driven by Farah Karim and [[Alex Keller]] race through the desert canyon, side by side. They stop at the edge of a ridge overlooking the plane crash site.''
+
+'''Alex''': Crash site - over the ridge.
+
+''Alex takes out his binoculars and surveys the site.''
+
+'''Farah''': I see it. ''(in Arabic)'' Poor souls.
+
+'''Alex''': Somebody beat us here.
+
+''Alex hands his binoculars over to Farah. She looks through them to see Konni Group scavenging their way through the burning wreckage of the fuselage.'' 
+
+'''Farah''': Russian PMCs. Konni Group.
+
+''Farah hands back Alex's binoculars.''
+
+'''Alex''': Makarov...
+
+'''Farah''': He'll blame us for this too. We need to find out what happened on that flight. Show the world it wasn't us. I won't have them call us terrorists... [[Captive|Not again]].
+
+''Farah puts on her mask and goggles.''
+
+'''Alex''': What're you doin'...?
+
+'''Farah''': Going down there...
+
+'''Alex''': Farah, there's at least 20 guns holding that area. What do you need from me?
+
+'''Farah''': Overwatch. Take some high ground and cover me.
+
+'''Alex''': Yes, ma'am.
+
+''Alex and Farah ride out to complete their mission.''
+
+''Cut to black.''
+
+== Gameplay ==
+''Farah approaches the crash site on foot.''
+
+'''Alex''': You in position?
+
+'''Farah''': Affirmative. Eyes on multiple Konni squads picking at the wreckage.
+
+'''Alex''': Looks like they're securing the site.
+
+'''FARAH KARIM - ULF'''
+
+'''CRASH SITE'''
+
+'''URZIKSTAN BORDER'''
+
+'''11 NOVMEBER 2023, 2130'''
+
+'''Farah''': The ULF didn't do this. We need to find anything we can to prove it.
+
+''Farah readies her suppressed [[Striker 9]] submachine gun.''
+
+'''Alex''': Laswell ran a TRACER to lasso signals in the area. We can locate passenger cell phones and track down the flight recorder.
+
+'''Farah''': Copy - On the move.
+
+'''Alex''': I see you. Got your six. I'll relay what I see from here...
+
+''Farah makes her way to the crash site, dispatching any Konni soldiers who stand in her way.''
+
+'''Farah''': These men are not welcome in my country.
+
+'''Alex''': Let 'em know...
+
+'''Farah''': I intend to...
+
+''(If Farah finds a supply box nearby...)''
+
+'''Farah''': Got a box of Konni equipment. Could have something useful.
+
+'''Alex''': Use it against 'em, Kilo.
+
+'''Farah''': I intend to...
+
+''Farah moves closer to the crash site.''
+
+'''Farah''': Pressing up./Pushing out.
+
+'''Alex''': I see you. Still plenty more patrols ahead.
+
+''(Every time Farah stealthily kills an enemy...)''
+
+'''Alex''': That's one down.; Quick and quiet.; Good hit.; Bagged 'em, Kilo.; Good kill.
+
+''(If Farah leaves a dead body behind...)''
+
+'''Alex''': Kilo - You're leaving a trail of bodies down there. Don't get compromised.; That high body count can get you compromised, Kilo - Be careful.
+
+''(If Konni soldiers become suspicious of any activity...)''
+
+'''Konni Soldier''': ''(in Russian)'' Did you see that?; You get eyes on that?; You catch that?
+
+''(If Farah alerts the enemy to her presence in the area...)''
+
+'''Konni Soldier''': ''(in Russian)'' Enemy's here!; Got enemy here!; I see 'em!; Contact! Enemy's here!; I got you!; I found you!
+
+''(Every time Konni soldiers engage Farah...)''
+
+'''Konni Soldier''': ''(in Russian)'' Engage!; Give 'em some!; Dump 'em!; Go hot!; Repositioning behind the enemy!; You're cleared hot!; Start smokin' 'em!; Someone's shooting at me!
+
+'''Farah''': Engaging!
+
+''(Every time Konni soldiers search for Farah...)''
+
+'''Konni Soldier''': ''(in Russian)'' Where are they?!; Where the fuck're they at?!
+
+''(Every time Alex shoots an enemy from afar...)''
+
+'''Alex''': I've got your back!; Bagged him!; Downed that one!; Got that one!; Got him!; Covering!; Dropped one!
+
+''(If Konni soldiers raise the alarm...)''
+
+'''Konni Leader''': ''(in Russian)'' All soldiers, perimeter is compromised. You are cleared to kill on sight. Hold your position at all costs.; All soldiers, enemy is inside the perimeter. You are cleared to kill. Take them out. Hold your position at all costs.
+
+''(Every time Farah loses enemy soldiers on her tail...)''
+
+'''Alex''': Looks like you're in the clear for now, but watch your step.; They've lost you, but don't let your guard down.; Stay on the move. Konni's regrouping.; Don't get too cozy - Got more Konni moving in.; Konni's sending reinforcements in.; Heads up, Farah. You got Konni reinforcements moving on your position.; You bought yourself some time, but more are moving on your position.; Kilo - Be advised, enemy reinforcements heading your way.
+
+''(Every time Farah reaches an area near the crash site...)''
+
+'''Alex''': Saw Konni digging there. Look around when you can.; Heaps of scrap and debris in your area! Take a look around!; Lots of debris near you. Good place to search.; There's debris on the ground. Could be a phone in there.; Saw Konni was digging around there. Maybe they missed something.; Got eyes on crash debris near you. Could be worth looking around.; There's a vehicle parked outside. Worth a search around.
+
+'''Farah''': Acknowledged!; Roger that.; Acknowledged.; Affirm, Echo...; Copy.; Good call, Echo.
+
+''Farah moves through a building and clears it of all enemy troops.''
+
+'''Farah''': Building looks empty.
+
+'''Alex''': Keep searching, Kilo -- Tracer shows a signal in the vicinity.
+
+'''Farah''': Rog, good eye.
+
+''Farah spots a cell phone in the area and starts scanning it with a tablet.''
+
+'''Farah''': I got something!/Konni's on me! Sending to you now!/Alex, I've found a cell phone./Picked up a phone.
+
+'''Alex''': Hope we got something.; Hope it helps.; Let's hope it's useful.
+
+'''Farah''': It's shaky... shouting in Arabic. Panic. That's all there is... I'll have to find another cell phone.
+
+''(Alternatively...)''
+
+'''Farah''': Contact! Sending video! Tell me what you see!
+
+'''Alex''': Scared passengers. Some shouting in Arabic... Looks like a hijacking, Farah...
+
+''Farah finds another cell phone in the area and scans with a tablet.''
+
+'''Farah''': Found another.../Alex, I found another one.
+
+'''Alex''': What do you see?
+
+'''Farah''': One of my fighters is on the plane... she has a gun.../I see a woman with a [[G18|gun]]. [[Samara "Pathfinder" Jalal|Samara]]... She's...one of my soldiers...
+
+'''Alex''': You sure?!
+
+'''Farah''': Yes. She would never do this.
+
+'''Alex''': This is no good, Farah.../Farah... People change... [[Hadir Karim|Your brother]]...
+
+'''Farah''': I know, Alex. Something's very wrong here.../This is different, Alex...
+
+'''Alex''': I hope so... Let's see what else you can find...
+
+''Farah surveys the carnage.''
+
+'''Farah''': Makarov's men will die here with his victims...
+
+'''Alex''': Gettin' what they deserve...
+
+'''Farah''': If only we could kill them all twice...
+
+''Farah scans another cell phone with her tablet.''
+
+'''Farah''': I see my soldier, Samara - In a bomb vest... This doesn't make sense...
+
+'''Alex''': A gun, now a vest?/Same woman - your soldier. Wearing a bomb vest.
+
+'''Farah''': She looks afraid. She doesn't want to do this.../She was forced to do this.
+
+'''Alex''': We both know the world won't see it that way./You don't know that, Farah.
+
+'''Farah''': Makarov wants the world to see this... We can't let them.../I do, Alex. I know it.
+
+'''Alex''': Understood. Flight data will help us or damn us- either way - we need to secure it, Kilo.../Flight recorder's still out there! We need that data.
+
+''Farah comes across the plane's jet engines.''
+
+'''Alex''': How do the engines look?
+
+'''Farah''': Shredded. Some blast residue, but could've just been from the crash.
+
+'''Alex''': What the hell happened up there? If Makarov did this - he murdered Russians.
+
+''Farah makes her way to the flight recorder's location, killing any Konni troops in her way.''
+
+'''Alex''': Serious firepower and a nearby signal. Might be guarding the flight recorder./That building was heavily guarded. Flight recorder could be close.
+
+'''Farah''': Searching.
+
+''Farah eventually locates the black box in the building.''
+
+'''Farah''': Black box located./Eyes on the black box./I'm at the flight recorder.
+
+''Farah prepares to wipe out the black box data.''
+
+'''Farah''': Found the flight recorder. I'm frying the data. I will not allow Konni to tamper with it and frame the ULF./I have the flight recorder. I'm frying the data. We can't allow Konni to use any of it against the ULF.
+
+'''Alex''': Affirmative. Fry it, Kilo...
+
+''Farah uses her tablet to sabotage the black box.''
+
+'''Alex''': That's all we needed, Kilo. Think the site's clean./No signals left. We got whatever was here. Crash site sanitized...
+
+'''Farah''': Let's get off the X -- We link up at our infil point...
+
+'''Alex''': Copy that, Commander.
+
+''Farah leaves the crash site.''
+
+'''Alex''': Kilo - I got a problem.
+
+'''Farah''': Copy, what is it?
+
+'''Alex''': Got Konni converging on my position... I'm compromised -- Stand by...!! 
+
+'''Farah''': Alex, where are you?! 3-1, how copy? Echo 3-1 - Do you read...?!
+
+'''Alex''': Contact-! They're on me! Farah, go - Get out of here, now! <Static>
+
+'''Farah''': No, Alex - I'll find you...
+
+''Farah makes her way to Alex. She sees Alex on the ground with hands on his head as Konni soldiers hold him captive by an armored vehicle.''
+
+'''Farah''': Echo - get down!
+
+''Farah dispatches the Konni soldiers, freeing Alex in turn.''
+
+'''Alex''': The truck! Get to the truck!
+
+''Farah and Alex enter the truck as they start the vehicle up.''
+
+'''Alex''': What's next?
+
+'''Farah''': We need to find where those Konni came from and where they're headed. I want you to track them. Do not engage unless absolutely necessary.
+
+''Alex and Farah drive off.''
+
+'''Alex''': I'll keep my distance.
+
+'''Farah''': Try not to get caught this time.
+
+'''Alex''': [chuckle] No promises.
+
+''The level ends.'' 
+
+''Cut to black.''{{CoD20 CampaignT}}
+[[Category:Call of Duty: Modern Warfare III Transcripts]]

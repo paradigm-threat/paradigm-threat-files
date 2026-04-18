@@ -1,0 +1,127 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_2_Transcripts -->
+<!-- title: The Enemy of My Enemy/Transcript -->
+
+{{game|mw2}}
+
+== <u>Cutscene</u> ==
+''The satellite tracks Roach and labels him "KIA" at Makarov's safehouse. The satellite then tracks Captain "Soap" MacTavish and Captain Price at the U.S. Vehicle Disposal Yard in Afghanistan.''
+
+'''[[John "Soap" MacTavish|MacTavish]]:''' [[Gary "Roach" Sanderson|Roach]]? [[Simon "Ghost" Riley|Ghost]]? Come in, Ghost. Do you copy? Does anyone copy?
+
+'''[[John Price|Price]]:''' They're dead, Soap. [[Shepherd|Shepherd's]] cleaning house. I'm working my way back to you.
+
+'''MacTavish:''' Shepherd [[Loose Ends|betrayed]] us.
+
+'''Price:''' Have to trust someone to be betrayed. I never did. Nikolai, come in. Do you have our location?
+
+''The satellite tracks Nikolai's [[C-130 Hercules|C-130]] inbound to the boneyard.''
+
+'''[[Nikolai (Modern Warfare)|Nikolai]]:''' Da. Inbound, Price. But I am not the only one. You've got [[Shadow Company|Shepherd's men]] on one side, [[Inner Circle|Makarov's]] on the other.
+
+''Soap and Price's video feeds show Shepherd's and Makarov's men fighting in the boneyard.''
+
+'''Price:''' We'll have to take them all out then.
+
+'''Nikolai:''' Or let them take each other out. Either way, I'll see you on the other side, my friend.
+
+''The satellite traces the runway of the boneyard where Soap and Price are making their way to be picked up by Nikolai. The satellite tracks Soap in the boneyard in Eastern Afghanistan.''
+
+== Gameplay ==
+''Captain "Soap" MacTavish starts at the boneyard in Afghanistan. All around him Shepherd's [[Shadow Company]] soldiers are battling Makarov's [[Ultranationalist]] army.''
+
+'''Captain Price:''' Soap! Shepherd's trying to wipe out us and Makarov at the same time! Head for rally point Bravo to the west! Trust no one!
+
+'''["The Enemy of My Enemy"]'''
+
+'''[Day 6 - 16:03:35]'''
+
+'''[Cpt. "Soap" MacTavish]'''
+
+'''[160 miles SW of Kandahar, Afghanistan]'''
+
+'''[U.S. Vehicle Disposal Yard 437]'''
+
+''Soap makes his way to the rally point while shootouts occur all around him. He switches between his [[MP5K]] Silenced Red Dot and [[M14 EBR]] Silenced to make engaging hostiles easier. [[MH-6 Little Bird|Little Birds]] spin their guns while BTRs fire their cannons, cars driving in and out of the area.
+
+'''Captain Price:''' Head for the rally point! Go! Go! Go! Nikolai! This is Price! Be advised, the LZ it hot, I repeat, the LZ is hot!
+
+'''Nikolai:''' Ok, Captain Price, I am on the way! Try to get the situation under control before I get there, ok?
+
+'''Captain Price:''' Right, whatever you say, Nikolai! Just get here sharpish! Soap, let Makarov and Shepherd's men kill each other off as much as you can. We can use their comms to listen in on their radio traffic. I'm going to try to contact Makarov.
+
+''Soap continues his way to the rally point while Price contacts Makarov over the radio.''
+
+'''Captain Price:''' Makarov, this is Price. Shepherd's a war hero now. He's got your operations playbook and he's got a blank check. Give me what you got on Shepherd, and I'll take care of the rest. I know you can hear me on this channel Makarov. You and I both know you won't last a week.
+
+'''[[Vladimir Makarov|Makarov]]:''' And neither will you.
+
+'''Captain Price:''' Makarov...you ever hear the old saying...the enemy of my enemy is my friend?
+
+'''Makarov:''' Price, one day you're going to find that cuts both ways. Shepherd is using [[Site Hotel Bravo]]. You know where it is. I'll see you in hell.
+
+'''Captain Price:''' Looking forward to it. Give my regards to [[Imran Zakhaev|Zakhaev]] if you get there first.
+
+''Soap and Price continue to make their way to rally point Bravo to the west. The battle continues to ensue all around them.''
+
+'''Captain Price:''' Soap! Don't get pinned down out there! Keep heading west for the runway area! Nikolai, where the hell are you?
+
+'''Nikolai:''' Sand storms around Kandahar, Captain Price. I have to fly around them. I am not getting paid enough to crash my plane.
+
+''Soap comes out of a plane's fuselage and reaches a valley where more shootouts are occurring everywhere. Nikolai's C-130 flies over the scene popping its angel flares.''
+
+'''Nikolai:''' Price, I am approaching the boneyard. I see you do not have situation under control. Very unsafe to land. It looks like when I was in [[Soviet War in Afghanistan|Afghanistan with the Soviets]]!
+
+'''Captain Price:''' Nikolai! Just shut up and land the bloody plane! We're on our way!
+
+'''Nikolai:''' Вот дерьмо! Нет, мне явно недоплачивают за эту работу! Одни ракеты сколько стоят! Твою мать! Пизда! (Vot dyermo! Net, mnye yavno nedoplachivayut za etu rabotu! Odni rakyety skolko stoyat! Tvoyu mat! Pizda!) (Holy shit! No, I'm really not paid enough for this job! The missiles alone cost so much! Your mother! Cunt!)<ref>The boneyard.gsc file gives an alternative translation of "This is such bullshit! I'm not getting paid nearly enough for these missions! These flares are expensive!! FUCK!!!", though this does not correlate as well with Nikolai's dialogue.</ref>
+
+''Soap slides down the valley, up a hill, and continues to make his way west to the runway.''
+
+'''Captain Price:''' Soap! Hurry! We've gotta get to Nikolai's plane! Keep moving west! Soap! I'm going to get some transport! Make your way west towards the runway! Soap! I've found some transport! Keep moving west! I'll meet you en route!
+
+''As Soap nears the rally point, an SUV crashes close to him and a BTR gets destroyed by an RPG.''
+
+'''Nikolai:''' Captain Price, I am taking off in one minute! You better hurry if you want a ride out of here!
+
+'''Captain Price:''' Soap! We don't have much time! Nikolai's not going to wait around for us! Hurry!
+
+''Soap finally meets up with Price and [[Rook (Modern Warfare 2)|Rook]] in a jeep. (If the player does not get in, the jeep will drive away and fail the mission: "You failed to get in the jeep.")''
+
+'''Captain Price:''' Soap! We are leaving! Get in the jeep!
+
+''Rook begins to drive the jeep to the runway where Nikolai's plane is waiting. Trucks from Shadow Company appear all around them.''
+
+'''Captain Price:''' Take out that gunner!
+
+''Soap takes out the SC SUV's minigunner.''
+
+'''Captain Price:''' Hang on!
+
+''Trucks appear behind them.''
+
+'''Captain Price:''' Behind us!
+
+''Soap shoots at the truck. Another truck drives up to their right side.''
+
+'''Captain Price:''' Right side! Right side! Hold on! Hang on!
+
+''As the jeep reaches the runway, trucks collide and flip over all around the jeep. Nikolai is about to take off.''
+
+'''Captain Price:''' Nikolai, drop the bloody ramp! We're coming in!
+
+''As they speed up to catch up to Nikolai's plane trucks appear all over the runway in front of them.''
+
+'''Captain Price:''' Vehicles at 12 o'clock! Hold on!
+
+''Rook is shot and killed.''
+
+'''Captain Price:''' Soap! [[Rook (Modern Warfare 2)|Rook]] is down! Take the wheel!
+
+''Soap reaches for the steering wheel with his left hand and steers the jeep.''
+
+'''Captain Price:''' Aim for the ramp!
+
+''Soap steers the jeep into the plane's hangar. They escape.''
+
+<references />
+{{CoD6 CampaignT}}

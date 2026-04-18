@@ -1,0 +1,427 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_(2019)_Transcripts -->
+<!-- title: Clean House/Transcript -->
+
+{{game|mw}}
+==Cutscene==
+
+''The camera zooms out on the wreckage of General Barkov's Forward Operations Base in the aftermath of its [[Proxy War|invasion]].''
+
+'''[[John Price (Reboot)|Price]]''': [[Alex Keller|Alex]] and [[Farah Karim|Commander Karim's]] forces have destroyed [[Roman Barkov|General Barkov's]] Forward Operations Base, temporarily limiting Russian air capability in [[Urzikstan]].
+
+''The map slides over the city of London. Footage of the Piccadilly attacks plays as the identifications of those responsible for the attacks slide across.''
+
+'''Price''': We need to move fast. Sgt. Garrick, thanks to your intel, we've tracked the [[Al-Qatala]] cell responsible for the [[2019 London Terrorist Attack|Piccadilly attack]] to a townhouse in North London.
+
+''Price shows a blueprint schematic of the townhouse building, displaying the insertion points of each team, followed by photos of the Wolf and the Russian chlorine gas.''
+
+'''Price''': Three [[Special Air Service|SAS]] will get inside and connect the dots. If the [[Omar "The Wolf" Sulaman|Wolf]] is in possession of the stolen Russian gas in Urzikstan, we need to find him...
+
+''Photos of a woman wheeling a stroller are showcased.''
+
+'''Price''': Be advised, there may be non-combatants on target. Check your shots. Targets are up, boys. Let's kick this off.
+
+''Captain Price and his team drop down and approach a gate. [[Kyle Garrick]] produces bolt cutters and cuts the chain after seeing Price's nod. The team continues into the alleyway.''
+
+==Gameplay==
+
+'''Clean House'''
+
+'''27 OCT 2019 - 0100'''
+
+'''Sgt. Kyle Garrick'''
+
+'''SAS Anti-terror Wing'''
+
+'''Camden Town, UK'''
+
+''The two Alpha teams silently link up at a gateway, and an operative reaches over the fence to open it.''
+
+'''Price''':''' '''Bravo 6, moving on the rear garden.
+
+''(If the player takes too long to reach the gateway...)''
+
+'''Price''':''' '''Kyle, rear gate. Now, Sergeant; We're at the rear gate, Sergeant. Move up.
+
+''(If the player fires at the building or throws a [[M67 Grenade|grenade]] or [[flashbang]] before entering it...)''
+
+'''Price''': We're compromised; abort the mission!; Shit! Break contact; abort the mission!; All teams, fall back; abort mission.
+
+''Kyle follows Alpha 1 team to the back entrance. The team splits up into different insertion points, with Kyle using a ladder to climb into the kitchen window.'' 
+
+'''Alpha 2-1''':''' '''Bravo 6, this is Alpha 2. About to enter the west alley.
+
+'''Price''':''' '''Copy.
+
+''Alpha 2 team approaches from the alley.''
+
+''(If the player waits without climbing...)''
+
+'''Price''':''' '''Take the window; Use the ladder; You've got the window, Sergeant.
+
+''Kyle extends a ladder and places it below the window to enter the kitchen.''
+
+'''Price''':''' '''Bravo 6, moving interior.
+
+''(If the player waits after placing the ladder...)''
+
+'''Alpha 2-2''':''' '''You're on the window, mate; Take the window, Sergeant; Your window, Sergeant.
+
+''Kyle enters the kitchen as the rest of the team walks inside.''
+
+'''Al-Qatala Male 1''': Get us more tea.
+
+'''[[Jessica Ramirez|Unknown Female 1]]''':''' '''Isn't it a bit late for tea?
+
+'''Al-Qatala Male 1''': We're not done talking yet.
+
+'''Unknown Female 1''':''' '''I'll get the kettle on.
+
+''An unknown female walks into the kitchen, where she is immediately tackled and restrained by Alpha 1-1.''
+
+'''Alpha 1-1''':''' '''Quiet!
+
+''(If the player deliberately kills her...)''
+
+'''Alpha 1-1''':''' '''Are you fucking mad?!
+
+'''Price''':''' '''Focus up!
+
+''Price equips his night vision goggles and enters the hallway.''
+
+'''Al-Qatala Male 3''':''' '''Attacking [[Russia]] is the wrong move.
+
+'''Al-Qatala Male 1''': It's what he wants.
+
+'''Al-Qatala Male 3''': Won't that encourage them to align? We'll be fighting everyone.
+
+'''Al-Qatala Female 1''':''' '''We're working with an [[Ultranationalists (Reboot)|Ultranationalist]] group. They'll handle operations in the East after the attacks.
+
+'''Al-Qatala Male 1''':''' '''Trust the Wolf.
+
+'''Al-Qatala Male 3''':''' '''You know I do, but this operation failed, so why are we doing this?
+
+'''Al-Qatala Female 1''':''' '''It did not fail. Your dead brothers made sure of that.
+
+'''Al-Qatala Male 3''':''' '''We were supposed to have double the body count. It's all over the flippin' tele-!
+
+'''Al-Qatala Male''' '''1''':''' '''That's the point! This is the [[United Kingdom/Modern Warfare (Reboot)|United Kingdom]]. Do you think anyone walks around worried that they're gonna get blown up? Well, now they do. Al-Qatala is a household fucking name. We need to coordinate with the other groups. [[Paris]], [[Moscow (location)|Moscow]], Munich...
+
+'''Al-Qatala Female 1''':''' '''And the Yanks?
+
+'''Al-Qatala Male 1''':''' '''Soon.
+
+'''Price''':''' '''Take the front room.; Drop 'em.
+
+''(If the player waits until the end of their conversation:)''
+
+'''Al-Qatala Male 1''':''' '''Where the hell is that tea? Jess?! The hell is she doing in there?
+
+'''Price''':''' '''Do it.
+
+''The male will get up and walk towards the kitchen, eventually spotting the group.''
+
+'''Al-Qatala Male 2''':''' '''Oh shit, oh shit-!
+
+'''Al-Qatala Male 1''':''' '''They're here!
+
+'''Al-Qatala Female 1''':''' '''Oh, FUCK!
+
+''(If the player allows them to survive long enough, they may hear these following quotes:)''
+
+'''Al-Qatala Male 1''': Oh shit-!
+
+'''Al-Qatala Male 2''':''' '''They're here! The hallway! The kitchen!
+
+'''Al-Qatala Female 1''':''' '''Soldiers!
+
+''Kyle kills all three members as they frantically try to arm themselves.'' 
+
+'''Kyle''': Secure.
+
+''Price gathers his team at the staircase as Alpha 3 enters through the front doorway.''
+
+'''Alpha 3-1''':''' '''Alpha 3, entering through the front door.
+
+''Al-Qatala members can be heard panicking upstairs.''
+
+'''Al-Qatala Male 4''':''' '''Mark? Mark, what's going on?
+
+'''[[Mark Davies|Al-Qatala Male 5]]''':''' '''They're here!
+
+'''Al-Qatala Male 4''': What do we do?!
+
+'''Al-Qatala Male 5''':''' '''Get your gun and go to the bedroom!
+
+''(If the player stalls before going to the stairs:)''
+
+'''Price''':''' '''Get to the stairs; Holding at the stairs; Sergeant, get to the stairs.
+
+''(If the player doesn't follow:)''
+
+'''Price''':''' '''Rally up; On me; We're at the stairs.
+
+''Kyle rallies with Price and the other troops at the stairs.''
+
+'''Price''': Bravo 6. moving to the first floor.
+
+'''Al-Qatala Female 1''':''' '''What are you doing?!
+
+'''Al-Qatala Male 5''':''' '''Shut up! Do as I say!
+
+'''Al-Qatala Male 6''':''' '''Where do you need me?!
+
+'''Al-Qatala Male 5''': Hide in the bathroom! Get the shotgun!
+
+'''Al-Qatala Female 1''':''' '''Let me go!
+
+'''Al-Qatala Male 5''': Stay in front of me! Understand?! Don't fucking move!
+
+''The team reaches the top of the stairs, splitting up to handle different rooms.''
+
+'''Al-Qatala Male 5''': They're coming! 
+
+'''Al-Qatala Female 1''':''' '''Don't do this! Please - don't do this!
+
+''An Alpha 3 member creaks opens a door to a bedroom, and is met by gunfire.''
+
+'''[[Derek Watson|Al-Qatala Male 4]]''': Bastards!
+
+''Alpha 3-1 proceeds into the bedroom and eliminates the member.''
+
+'''Alpha 3-1''':''' '''X-ray down.
+
+'''Price''':''' '''Target behind the door.
+
+'''Al-Qatala Male 5''':''' '''Derrick?! You get 'em?! You fuckers are gonna die here! Just like [[Piccadilly (level)|your mates at Piccadilly]]!
+
+''(If the player waits before entering the room...)''
+
+'''Al-Qatala Male 5''':''' '''Call to them! Do it!
+
+'''Al-Qatala Female 2''':''' '''Help! HELP ME!
+
+'''Al-Qatala Male 5''':''' '''I got a hostage in here! You gonna kill her too?! ''(to his woman) ''Say you don't want to die!
+
+'''Al-Qatala Female 2''': I-I don't want to die!
+
+''Kyle breaches the room to find a female being chokeheld by an Al-Qatala member. The female struggles as the member points a gun at Garrick.''
+
+'''Al-Qatala Female 2''': No! No, don't shoot! Don't kill me! Please! Please!
+
+''Garrick shoots the assailant, releasing the hostage. She then runs over to the bed, reaching for an [[AK-47]].''
+
+'''Al-Qatala Female 2''':''' '''Mark! No-!
+
+''Kyle shoots the female before she can open fire.''
+
+'''Kyle''':''' '''Two X-rays down.
+
+'''Alpha 3-1''':''' '''Copy.
+
+'''Price''':''' '''Make sure this floor is secure.
+
+'''Al-Qatala Male 6''': C'mon, I'm ready for ya... c'mon...
+
+''Kyle approaches the bathroom, where a member can be heard cocking a shotgun and preparing to attack him.''
+
+''(If the player stalls before reaching the bathroom:)''
+
+'''Price''':''' '''Secure the floor; Clear this floor; Make sure this floor is secure.
+
+''Kyle opens the door, causing the member behind it to fire blindly at the doorway with his shotgun.''
+
+'''Al-Qatala Male 6''':''' '''Sod off!
+
+''Kyle avoids the gunfire and kills the attacker.''
+
+'''Kyle''':''' '''First floor secure.
+
+'''Price''':''' '''On me.
+
+''(If the player waits behind before or during the stair rally...)''
+
+'''Price''':''' '''Holding for you, Kyle; Stairs. rally up; On me; Rally at the stairs.
+
+''The team rallies up at the staircase as Price leads them to the next floor.''
+
+'''Price''':''' '''Bravo 6, moving to the second floor.
+
+''Price proceeds to the end of the hallway as Kyle and the other two operatives proceed in the other direction.''
+
+''(If the player fires through the door before the breach:)''
+
+'''Alpha 1-1''':''' '''2-6 engaged...
+
+'''Alpha 3-1''':''' '''Hope he hit the bad guys...
+
+'''Al-Qatala Male 7 (mislabeled as 2)''':''' '''Outside the door!
+
+''A member opens fire from the other side of the door, severely wounding Alpha 3-2. Alpha 3-3 drags his wounded teammate aside.''
+
+'''Price''':''' '''Get a flashbang in there! 3-1, get up here now!
+
+'''Alpha 3-1''':''' '''Roger! Moving!
+
+''(If the player stalls in the hallway:)''
+
+'''Price''':''' '''Move in! Go!; Get in there!; Clear that room!
+
+''Garrick clears the room of hostiles, including the one who injured Alpha 3-2, one hiding behind a corner and behind a couch, and one bursting in from the another bedroom.''
+
+''(If the player stalls before securing the floor:)''
+
+'''Price''': Get those rooms cleared; Secure this floor; Check every room.
+
+''Garrick checks the remaining rooms.''
+
+'''Kyle''': Bedroom clear. Floor secure.
+
+''Garrick rallies up with Price and Alpha 3-1 at the staircase. Alpha 3-2 is dragged by Alpha 3-3 away and given medical attention. The sound of a crying baby is heard.''
+
+'''Alpha 3-3 (mislabeled as Alpha 3-1)''':''' '''Hang in there, mate. I got you.
+
+''(Alternatively, if the player shoots the attacker before Alpha 3-2 is downed, Price will say a unique line after clearing the floor):''
+
+'''Price''':''' '''Good call on the door, Garrick.
+
+''(If the player stalls before the staircase...)''
+
+'''Price''':''' '''We need to keep moving, Sergeant; Let's move, Kyle; Holding for you, Kyle; Waiting on you; Rally on the stairs. Let's go; Get to the stairs, now.
+
+'''Price''':''' '''Bravo 6, taking the third floor.
+
+'''Unknown Female 3''':''' '''They will kill you!
+
+'''[[Danny (Modern Warfare)|Al-Qatala Male 8]] (mislabeled as 4)''':''' '''I swore an oath! I will not betray the [[Omar "The Wolf" Sulaman|Wolf]]!
+
+'''Unknown Female 3''':''' '''Then let me help! I don't want to be here if you're gone...
+
+'''Al-Qatala Male 8''':''' '''Come on, just let me go! They're here! Let me go!
+
+'''Unknown Female 3''':''' '''Don't do this! Danny! Danny, please!
+
+''The team reaches the top of the stairs.''
+
+'''Price''':''' '''Check your shots.
+
+''(If the player stalls at the door...)''
+
+'''Price''':''' '''Let's move!; Get in there; Move in.
+
+''Kyle bursts into the room to see a woman running over to a cradle. The woman reaches in and pulls out her crying baby.''
+
+'''Kyle''':''' '''Hands up! Now!
+
+'''Unknown Female 3''':''' '''No, no... please! No, no... no, please... please, please, wait! No... don't shoot... my baby... please!
+
+''The woman reaches her hand out while holding her baby, and Alpha 3-1 secures her. Kyle reaches out his hand as Alpha 3-1 exclaims for her not to move.''
+
+'''Alpha 3-1''':''' '''Don't move!
+
+'''Kyle''':''' '''Secure 'em. Shut that kid up.
+
+''(If the player shoots the baby or the mother as she is running to pick it up...)''
+
+'''Alpha 3-1''':''' '''What the fuck are you doing?!
+
+'''Price''':''' '''Sort yourself out, or I will!
+
+''If the mother was shot, Alpha 3-1 will then walk over to the baby and pick it up from their mother's body. Alpha 3-1 then proceeds to gently place the baby back in the crib and stand aside.''
+
+'''Unknown Female 3''':''' '''Shh... Shh...
+
+''(If the player aims their weapon at the woman...)''
+
+'''Unknown Female 3''':''' '''Don't... please... don't...; No... No!;
+
+''Kyle prepares to breach into the adjacent room. A member peeks out from behind the corner and ducks back behind. As Garrick approaches the bed, the member attempts to hide under the bed to shoot at him, but is quickly shot before he can do so.''
+
+'''Kyle''':''' '''Secure.
+
+'''Price''':''' '''Last floor. Take point, Sergeant.
+
+''(If the player waits before doing do...)''
+
+'''Price''':''' '''Let's secure the last floor; One floor left, Sergeant; We've got one more floor, Sergeant.
+
+''Price and Garrick proceed to the attic. Kyle attempts to open the door, but finds out it's locked.''
+
+'''Kyle''':''' '''Locked...
+
+''Price grabs his [[Halligan Bar]] and pries open the door.''
+
+'''Price''': I've got it. Try and take 'em alive.
+
+'''Unknown Female 4''':''' '''Where is it?! Where is it?! Come in, where is it?!
+
+''(If the player stalls...)''
+
+'''Price''':''' '''Let's take it; Get in there!; Clear the room, Sergeant!
+
+''Garrick and Price enter the room and encounter a lone woman frantically searching a file cabinet.''
+
+'''Kyle''':''' '''Down! Get down, get down!
+
+'''Unknown Female 4''':''' '''Don't shoot! Don't shoot, please!
+
+''The woman puts her hands up and slowly backs away, looking back at the desk behind her.''
+
+'''Unknown Female 4''': They were going to kill me! They locked me in here!
+
+'''Kyle''':''' '''Don't move! Stop!
+
+''The woman makes a run for the desk behind her.''
+
+'''Price''':''' '''Drop her.
+
+'''Kyle''':''' '''I said stop!
+
+''The woman attempts to reach for an object on the desk, but Price and/or Garrick shoot her before she does so.''
+
+'''Kyle''':''' '''Clear! ''(If Price shoots her, he will say it instead.)''
+
+'''Price''':''' '''All teams, townhouse secure. Commence SSE.
+
+'''Alpha 3-1''':''' '''Copy boss.
+
+'''Alpha 2-1''':''' '''Roger.
+
+'''Price''':''' '''Toss the place, Sergeant. See what you can find.
+
+''(If the player waits long enough...)''
+
+'''Price''':''' '''She was moving towards the table. Start there; Well, let's get at it; I want this placed turned upside down, Sergeant.
+
+''Garrick picks up a detonator from the table the woman was running to and shows it to Price.''
+
+'''Kyle''': Fuckin' hell... She was going for a bloody detonator.
+
+'''Price''':''' '''Good job we dropped her, then.
+
+'''Kyle''':''' '''We made the right call, sir?
+
+'''Price''': Bet your arse... We got a location on The Wolf.
+
+''Price places a laptop on the table showing valuable intel.''
+
+''(End of level)''
+
+== Miscellaneous ==
+''(If the player tosses a flashbang at an inappropriate time:)''
+
+'''Alpha 3-1''':''' '''Flash out from 2-6...; Cut the shit, Sergeant; Britain's finest over 'ere...
+
+'''Price''':''' '''Flashbang!; Are you fuckin' stupid?! ('''daft''' in the subtitles); Get your head on straight, Kyle.
+
+''(If the player throws a grenade at any time during the level:)''
+
+'''Alpha 1-1''':''' '''Grenade - look out!
+
+'''Alpha 3-1''':''' '''2-6 used a grenade!
+
+'''Price''': Watch out - grenade!
+
+'''Alpha 1-1''':''' '''Garrick, what are you doing?; You fucking what?!; Those are for the bad guys, Sergeant...
+
+{{CoD16 CampaignT}}
+[[Category:Call of Duty: Modern Warfare (2019) Transcripts]]

@@ -1,0 +1,360 @@
+<!-- category: Category:Call_of_Duty_4:_Modern_Warfare_Transcripts -->
+<!-- title: Crew Expendable/Transcript -->
+
+{{game|1=cod4|2=mwr}}
+
+== Cutscene ==
+''The satellite tracks and analyzes a cargo freighter ship in the Bering Strait.''
+
+'''[[John Price|Captain Price]]''': [[Bravo Team]], the intel on this Op comes from [[Nikolai (Modern Warfare)|our informant]] in Russia... ...The package is aboard a medium freighter. Estonian registration number 52775... There is a small crew and a security detail on board.
+
+'''[[Gaz]]''': Rules of engagement, Sir?
+
+'''Captain Price''': Crew expendable.
+
+''The satellite tracks [[John "Soap" MacTavish|Sgt. "Soap" MacTavish]] and the [[Special Air Service|SAS team]] in a [[UH-60 Blackhawk|Black Hawk]] helicopter flying towards the ship.''
+
+== Gameplay ==
+'''["Crew Expendable"]'''
+
+'''[Day 1 - 1:23:36]'''
+
+'''[Somewhere near the Bering Strait]'''
+
+'''[Sgt. "Soap" MacTavish]'''
+
+'''[22nd SAS Regiment]'''
+
+''The helicopter carrying Captain Price, Sgt. "Soap" MacTavish, Gaz, and the SAS team flies towards the cargo ship. Price is smoking a cigar on the way.''
+
+'''[[Hammer Two-Four]]''': Baseplate, this is Hammer Two-Four. We have visual on the target. E.T.A sixty seconds.
+
+'''[[Baseplate]]''': Copy Two-Four.
+
+''After (supposedly) sixty seconds (in real time there is only thirty seconds between Hammer Two-Four's beginning transmission to the squad's fast-roping)''
+
+'''Hammer Two-Four''': Thirty seconds. Going dark.
+
+''The helicopter flies alongside the ship. After twenty seconds.''
+
+'''Hammer Two-Four''': Ten seconds. Radio check. Go to secure channel.
+
+''Price tosses out his cigar. The team gets ready by putting on their gas masks. Sgt. "Soap" MacTavish pulls out his [[MP5]][[Silencer|SD]] and readies it.''
+
+'''Captain Price''': Lock and load.
+
+''After ten seconds. They reach the bridge and main deck.''
+
+'''Hammer Two-Four''': Green light! Go! Go! Go!
+
+''Price, Soap, and an SAS fast-rope down from helicopter, landing on the main deck and outside bridge with crew members inside.''
+
+'''Captain Price''': Weapons free.
+
+''They take out the bridge members.''
+
+'''SAS''': Bridge secure.
+
+'''Captain Price''': Hold your fire! Gaz - stay in the bird till we secure the deck, over.
+
+'''Gaz''': Roger that.
+
+''Price kicks the bridge door open. They make their way inside and down the stairs.''
+
+'''Captain Price''': Squad on me! Stairs clear.
+
+''They go down the stairway to find a drunken crew member.''
+
+'''Crew Member''': Пей на здоровье, полковник! (Drink to health, Colonel!)
+
+''They quickly kill him.''
+
+'''Captain Price''': Last call.; Bottoms up. Hallway clear!
+
+''They enter the crew's quarters and kill two sleeping crew members.''
+
+'''SAS''': Sweet dreams.; Sleep Tight.
+
+'''Captain Price''': Crew quarters clear. Move up.
+
+''They move out.''
+
+'''Hammer Two-Four''': Forward deck is clear! Green light on alpha, go!
+
+''Gaz, [[Wallcroft]], and [[Griffen]] rappel down from the helicopter and group up with Price.''
+
+'''Gaz''': Ready sir.
+
+'''Captain Price''': Fan out. Three metre spread.
+
+''They move up the ship. They see two crew members with flashlights on patrol on a platform.''
+
+'''Gaz''': Got two on the platform.
+
+'''Captain Price''': I see 'em.
+
+''They approach the platform.''
+
+'''Captain Price''': Weapons free.
+
+'''Gaz''': Roger that.
+
+''Soap kills one of them.''
+
+'''Gaz''': Tango down.
+
+''Soap kills the other.''
+
+'''SAS''': Target neutralized.
+
+''They reach the end of the ship. They are engaged by crew members on the second floor.''
+
+'''Gaz''': We got company.
+
+'''Captain Price''': Hammer Two-Four, we got tangos on the 2nd floor.
+
+'''Hammer Two-Four''': Copy, engaging.
+
+''Hammer Two-Four sprays its minigun across the floor, killing all enemies. Two-Four takes off and heads back to base.''
+
+'''Hammer Two-Four''': Bravo Six, Hammer is at bingo fuel. We're buggin out. Big Bird will be on station for evac in ten.
+
+'''Captain Price''': Copy Hammer. Wallcroft, Griffen, cover our six. The rest of you, on me.
+
+'''Gaz''': Roger that.
+
+''Wallcroft and Griffen stay behind the watch for enemy crew members while the others stack up at a doorway. Gaz pulls out a [[W1200]] shotgun.''
+
+'''Gaz''': I like to keep this for close encounters.
+
+'''SAS''': Too right mate.
+
+'''Captain Price:''' On my mark - go.
+
+''Price opens the door. They enter inside.''
+
+'''Captain Price''': Check your corners! Move. Check those corners!
+
+'''Gaz''': Clear left.
+
+'''SAS''': Clear right.
+
+'''Captain Price''': Hallway clear! Move up!
+
+'''SAS''': Clear right.
+
+'''Captain Price''': Stairs clear.
+
+''They head down the stairs.''
+
+'''SAS''': Movement right.
+
+''They kill a small group of crew members at the end of the hall.''
+
+'''Gaz''': Tango down.
+
+'''Captain Price''': Hallway clear! Check your corners!
+
+'''SAS''': Clear left.
+
+'''Gaz''': Ready, Sir.
+
+'''Captain Price''': Move up!
+
+''They stack up at a doorway.''
+
+'''Captain Price''': Standby. On my go.
+
+'''SAS''': Standing by.
+
+''The SAS peeks around the door, but moves away as hostile bullets almost hit him. Price throws a [[flashbang]] into the room.''
+
+'''Captain Price''': Flashbang out. Go.
+
+''They clear the room and then move up and clear a catwalk.''
+
+'''SAS''': Catwalk clear. Gotcha covered, move up.
+
+''They clear the room.''
+
+'''Captain Price''': Squad on me!
+
+''If the player does not rush ahead of the group:''
+
+'''Gaz''': Forward area clear.
+
+'''SAS''': No tangos in sight.
+
+'''Captain Price''': Move up! Keep it tight.
+
+''If the player still stays behind the team:''
+
+'''Gaz''': Zero movement.
+
+'''SAS''': Looks quiet.
+
+'''Captain Price''': Stay frosty.
+
+''The team moves up.''
+
+'''Captain Price''': Gaz, right side.
+
+'''Gaz''': I'm on it.
+
+''The team moves up.''
+
+'''Gaz''': No tangos in sight.
+
+''If the player rushes ahead of the team, a hostile with a [[Desert Eagle]] will appear behind a crate and attempt to kill the player. Soap kills the hostile. They stack up at a door to the next compartment.''
+
+'''Captain Price''': Stack up.
+
+'''Gaz''': Ready sir.
+
+''Price kicks open the door.''
+
+'''Captain Price''': Go.
+
+'''Gaz''': Clear left.
+
+'''SAS''': Clear right.
+
+'''Captain Price''': Move.
+
+''They move up to the catwalk.''
+
+'''Gaz''': Movement right.
+
+''They open fire on crew members on the opposite catwalk.''
+
+'''Captain Price''': Move up!
+
+''They move across the catwalk and engage some hostiles as they come down the stairs. They clear the room.''
+
+'''SAS''': Forward area clear.
+
+'''Captain Price''': Move.
+
+'''Gaz''': Clear right.
+
+'''SAS''': Clear left.
+
+'''Captain Price''': Stack up.
+
+''They stack up at a door.''
+
+'''Captain Price''': Stand by. On my go.
+
+'''Gaz''': One ready.
+
+'''SAS''': Two ready.
+
+''Price throws another flashbang into the next room.''
+
+'''Captain Price''': On my mark - go.
+
+''They move in and engage hostiles spread throughout the compartment. They clear the room.''
+
+'''SAS''': Tango down.
+
+'''Captain Price''': Report - all clear?
+
+'''Gaz''': Roger that.
+
+''Gaz gets a radiation reading from one of the crates at the end of the room.''
+
+'''Gaz''': I'm getting a strong reading sir. You might want to take a look at this.
+
+''Gaz opens the crate to reveal a nuclear device covered by an Arabic flag.''
+
+'''Captain Price''': Hmm... its in Arabic... Baseplate, this is Bravo Six. We've found it. Ready to secure package for transport.
+
+'''Baseplate''': No time, Bravo Six. Two bogies headed your way fast. Grab what you can and get the hell outta there.
+
+'''Gaz''': Fast movers. Probably [[MiG-29|MiGs]]. We'd better go.
+
+'''Captain Price''': Soap, grab the manifest in the container. Move.
+
+''Soap grabs the manifest.''
+
+'''Captain Price''': Alright - Everyone topside! Double time!
+
+''They begin to head out.''
+
+'''Captain Price''': Wallcroft, Griffen, what's your status?
+
+'''SAS (Pvt. Griffen/Sgt. Wallcroft)''': Already in the helicopter sir. Enemy aircraft inbound... Shit! They've opened fire! Get out of there! Now!
+
+''An explosion erupts in the ship as the MiGs open fire on the ship. The team falls to the ground briefly.''
+
+'''[[Big Bird]]''': Bravo Six! Come in! Bravo Six, what's your status?
+
+'''SAS''': Shit! What the hell happened?!
+
+''The ship begins to tilt and water starts to flood into the ship.''
+
+'''Gaz''': The ship's sinking! We've got to go, now!
+
+'''Big Bird''': Bravo Six, come in, damn it!
+
+''Price helps up Soap.''
+
+'''Captain Price''': Big Bird, this is Bravo Six we're on our way out! On your feet, soldier! We are leaving! Get to the catwalks! Move move move!
+
+'''Gaz''': Move your asses! Come on, let's go!
+
+''They begin to make their way off the ship. They reach the catwalks. Water bursts in, making them lose balance.''
+
+'''Captain Price''': Back on your feet! Let's go!
+
+''Parts of the compartment begin to fall apart all around them.''
+
+'''SAS''': Watch yer (your) head!
+
+'''Gaz''': Go! Go! Keep moving!
+
+''The catwalk begins to break away.''
+
+'''Gaz''': It's breakin' away!
+
+'''Captain Price''': Come on, come on!
+
+''They enter the hallway, the pipes on the walls begin to burst.''
+
+'''Gaz''': Watch the pipes!
+
+''They continue moving through the ship.''
+
+'''Big Bird''': Talk to me Bravo Six, where the hell are you?!
+
+'''Captain Price''': Stand by. We're almost there!
+
+''They move up the stairs out of lower hall.''
+
+'''SAS''': Which way?! Which way to the helicopter?!
+
+'''Captain Price''': To the right to the right!
+
+'''Gaz''': We're runnin' outta time! Come on! Let's go!
+
+''They turn to the right towards the exit. Objects begin to roll as the ship capsizes further. They reach outside.''
+
+'''Captain Price''': Keep moving!
+
+'''Gaz''': Where the hell is it?!
+
+''The [[CH-46 Sea Knight|Sea Knight]] helicopter arrives and they board just as it takes off.''
+
+'''SAS''': Jump for it!
+
+''Soap jumps. He begins to lose his grip on the ramp. (Remastered: Gaz notices and frantically points at Soap. Price notices and turns around, dropping his weapon, rushing to grab him) Price grabs Soap and pulls him aboard. (Achievement: [[Make the Jump|Make The Jump]])''
+
+'''Captain Price''': Gotcha! We're all aboard! Go!
+
+'''Big Bird''': Roger that, we're outta here. Baseplate, this is Big Bird. Package secure, returning to base. Out.
+
+''The helicopter flies away as the ship sinks.''
+
+'''[Infinity Ward presents - CALL OF DUTY 4: MODERN WARFARE]'''
+
+{{CoD4 CampaignT}}

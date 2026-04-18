@@ -1,0 +1,192 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_2_Transcripts -->
+<!-- title: Exodus (Modern Warfare 2)/Transcript -->
+
+{{game|mw2|mw2r}}
+
+== Cutscene ==
+''The Emergency Broadcast System is heard buzzing.''
+
+'''[[Shepherd]]''': Someone turn off that damn TV.
+
+''The TV is turned off. Satellite pictures are shown of the CIA Headquarters, Camp David, and the Pentagon, all attacked by the Russians.''
+
+'''Shepherd''': My [[Task Force 141|Task Force]] is out of the country. I'm commandeering your unit, Sergeant Foley.
+
+'''[[Foley (Modern Warfare 2)|Sgt. Foley]]''': Yes, Sir. All yours, Sir.
+
+''The cutscene introduces and analyzes an IAV Stryker, which is armed with a turret and can shield itself from RPGs with its Anti-Missile Defense System.''
+
+'''Shepherd''': I've requisitioned a [[Stryker (vehicle)|Stryker]] from the 8th Armored.
+
+'''Sgt. Foley''': [[Honey Badger (callsign)|Honey Badger's]] a mean bitch, Sir.
+
+'''Shepherd''': She'll walk you in. The Russians are burning through our defenses and our intel. Can't let 'em take this corner.
+
+'''Sgt. Foley''': Just point it out on the map, Sir. They won't take it.
+
+''The satellite tracks Private [[James Ramirez]] in Northeastern Virginia.''
+
+== Gameplay ==
+'''["Exodus"]'''
+
+'''[Day 4 - 18:51:30]'''
+
+'''[Pvt. James Ramirez]'''
+
+'''[1st Bn., 75th Ranger Regiment]'''
+
+'''[Northeastern Virginia, U.S.A.]'''
+
+''Private James Ramirez, Sgt. Foley, and Cpl. Dunn move down the streets of Northeastern Virginia under support of the Stryker. They engage Russian forces in the streets.''
+
+'''Sgt. Foley''': Hunter 2-1, this is Hunter 2-1 Actual. Our evac choppers are taking heavy losses from ground fire. We gotta destroy those triple-A positions so they can get the rest of the civvies outta here! Let's go!
+
+'''[[Dunn|Cpl. Dunn]]''': Move up!
+
+'''Sgt. Foley''': Get off the streets! Squad! Protect the Stryker! Watch for foot-mobiles with [[RPG-7|RPG]]<nowiki/>s! We got hostiles in the yellow house! Squad, put suppressing fire on that house! Get off the streets, use the houses for cover! Squad! They're targeting the Stryker! Watch for RPGs! Get outta the street!
+
+''The team fights the Russians taking cover in civilian houses as they push through the street.''
+
+'''Stryker Gunner''': All Hunter units, this is Badger One. Laze the target, over.
+
+''Ramirez uses his laser designator and targets the yellow house.''
+
+'''Stryker Gunner''': Roger, we have a lock. Engaging house.; Roger, attacking your target.
+
+''The Stryker eliminates the Russians in the yellow house.''
+
+'''Stryker Gunner''': Badger One to Hunter Two, area suppressed.
+
+'''Sgt. Foley''': Flank 'em through the houses! Go go go!
+
+'''Cpl. Dunn''': Enemies in the grey house!
+
+'''Sgt. Foley''': Squad, we got hostiles in that grey house! Take 'em out! Squad, move up through these houses, let's go, let's go!
+
+''They continues to push through the street, eliminating the Russians in each house, providing a clear path for the Stryker as it provides ground support. Ramirez lazes the grey house.''
+
+'''Stryker Gunner''': Copy. Targeting infantry at the grey house.
+
+''The Stryker takes out targets.''
+
+'''Stryker Gunner''': Badger One to Hunter Two, area suppressed.; Badger One to Hunter Two, target area suppressed.; Nice work, Hunter Two-One. Thanks for the assist.; Thanks for the assist, Hunter Two-One.
+
+''They reach an apartment complex. Three enemy choppers drop more troops.''
+
+'''Cpl. Dunn''': Enemy foot-mobiles by the apartments!
+
+'''Sgt. Foley''': Roger that, enemy foot-mobiles by the apartments, take 'em out!
+
+''Ramirez lazes enemy foot-mobiles at the apartments.''
+
+'''Stryker Gunner''': Solid copy. Engaging infantry.; Roger. Engaging infantry at the apartment office.
+
+''Ramirez targets a chopper.''
+
+'''Stryker Gunner''': Roger. Engaging chopper.
+
+''If the player is in front of the Stryker:''
+
+'''Stryker Gunner''': Be advised, we're movin' up. Stand clear.
+
+'''Sgt. Foley''': Ramirez! You're gonna get run over! Get outta their way!
+
+'''Cpl. Dunn''': Ramirez! Honey Badger's moving! Get your ass outta the way!
+
+''Hostiles at the apartment complex are eliminated.''
+
+'''Cpl. Dunn''': Let's go, let's go!
+
+''They pass the apartments and continue on towards an intersection. RPGs begin to overwhelm Honey Badger.''
+
+'''Stryker Gunner''': Hunter Two-One Actual, this is Badger One! Our anti-missile system cannot handle the volume of RPG fire, we need your team to thin 'em out, how copy, over?
+
+'''Sgt. Foley''': Solid copy, Badger One, we're on it! Out!
+
+''The team takes out RPGs at the apartments and the small house across it.''
+
+'''Sgt. Foley''': Take out that [[Sentry Gun|sentry gun]]!
+
+''They take out the sentry gun positioned at the intersection. They reach Checkpoint Lima and continue to engage Russian forces positioned in the offices and the streets. Badger One holds to provide support.''
+
+'''Stryker Gunner''': Badger One holding position.
+
+''Ramirez targets foot-mobiles at the checkpoint.''
+
+'''Stryker Gunner''': Confirmed, engaging infantry at checkpoint.; Roger, engaging targets near the fire truck.
+
+''The hostiles are eliminated. Hunter 2-1 and Badger One pass the checkpoint.''
+
+'''[[Overlord]]''': Hunter Two-One-Actual, Overlord. Gimme a sitrep over.
+
+'''Sgt. Foley''': We're just past the enemy blockade at Checkpoint Lima. Now proceeding into [[Arcadia]], over.
+
+'''Overlord''': Roger that. I have new orders for you. This comes down from the top, over.
+
+'''Sgt. Foley''': Solid copy, Overlord, send it.
+
+'''Overlord''': Your team is to divert to 4677 Brookmere Road after you have eliminated the triple-A.
+
+'''Sgt. Foley''': Solid copy, Overlord. Divert to 4677 Brookmere Road once the guns are destroyed. Got it.
+
+'''Overlord''': Check back with me when you've completed your main objective. Overlord out.
+
+''Through this conversation, a [[C-130 Hercules|C-130]] is seen going down in flames and crashes near 4677 Brookmere Road.''
+
+'''Cpl. Dunn''': Hey, look, I bet that's an [[AC-130]], man. (Dunn mistakenly identifies this as an AC-130).
+
+'''Ranger''': That's why they don't fly during the day, soldier.
+
+'''Cpl. Dunn''': Damn, sucks to be them.
+
+'''Ranger''': Hooah.
+
+''They pass a bridge tunnel into Arcadia. They encounter more Russian forces at the houses.''
+
+'''Sgt. Foley''': Everyone, move up!
+
+'''Stryker Gunner''': Badger One holding position.
+
+''They fight through the houses, one by one, killing Russians inside each house while supported by Badger One. The team comes to the backyard of a mansion where anti-aircraft guns are stationed on a golf course, supported by mobile SAM launchers and [[BMP-2|BMPs]].''
+
+'''Sgt. Foley''': Ramirez, use your laser designator to call in artillery on those vehicles!
+
+''Ramirez uses his laser to target the first set of anti-aircraft guns.''
+
+'''Artillery Battery''': Fire mission received, artillery inbound.
+
+''The gun battery is destroyed. Ramirez targets the second set of anti-aircraft guns.''
+
+'''Artillery Battery''': Coordinates confirmed. Firing!
+
+''The second anti-aircraft battery is eliminated. They move on to the house of 4677 Brookmere Road.''
+
+'''Sgt. Foley''': Overlord, Hunter-Two-One-Actual. Triple-A has been neutralized. We're heading to 4677 Brookmere Road. Interrogative - what exactly are we looking for, over?
+
+'''Shepherd''': Sergeant Foley, this is General Shepherd. Your objective is to extract a [[High Value Individual|high value individual]] from a 'panic room' on the second floor of that house.
+
+'''Sgt. Foley''': Yes sir!
+
+'''Shepherd''': He'll be expecting you. Challenge is "Icepick", countersign is "Phoenix". Get him outta there and report back to Overlord. Shepherd out.
+
+'''Sgt. Foley''': All right, you heard the man - 4677 Brookmere Road. Move!
+
+''They arrive at 4677 Brookmere Road, the house's front yard blazing from the wreck of the earlier-downed (A)C-130. At a baseball field, two [[AV-8B Harrier II|AV8 Harriers]] are seen taking off vertically. Inside the house, a Russian is seen scavenging through a refrigerator. He is shot and killed by the team. They move upstairs.''
+
+'''Sgt. Foley''': Icepick. Icepick! Something's not right here... Check the panic room - move!
+
+''They arrive at the 'panic room' which is open, and a couple bodies are lying on the floor.''
+
+'''Sgt. Foley''': Hmph. No sign of forced entry... Ramirez, get that briefcase... what's left of it.
+
+''Ramirez retrieves the briefcase. Dunn discovers [[Viktor (Modern Warfare 2)|a dead Russian soldier]] with tattoos.''
+
+'''Cpl. Dunn''': Sarge, check out these tats. Not your average trooper, hooah?
+
+'''Sgt. Foley''': Hooah. Get a couple of photos for G-2 and check the bodies for intel.
+
+'''Cpl. Dunn''': Hooah.
+
+'''Sgt. Foley''': Shepherd's not gonna like this. Overlord, the HVI is dead.
+
+{{CoD6 CampaignT}}

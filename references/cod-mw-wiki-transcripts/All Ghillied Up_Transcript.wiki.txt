@@ -1,0 +1,438 @@
+<!-- category: Category:Call_of_Duty_4:_Modern_Warfare_Transcripts -->
+<!-- title: All Ghillied Up/Transcript -->
+
+{{game|1=cod4|2=mwr}}
+
+== Cutscene ==
+''The screen shows an old map of [[Pripyat]], Ukraine, as well as photos of the Chernobyl disaster. The photos show that the facility was still accessed for its nuclear material. Imran Zakhaev is shown to be the leader of the Ultranationalist rebels.''
+
+'''[[John Price|Captain Price]]''': I was just a "Leftenant" back then... doing some wetwork. Chernobyl. Christmas for the bad guys. Even a decade later, lot of them still used it to get their hands on nuclear material. A lot of 'em... including one, [[Imran Zakhaev]]. Of course we couldn't just let that happen. Cash for spent fuel rods? That's one hell of a recipe for destruction. It was the first time our government had authorized an assassination order since the [[World War II|Second World War]]... I was under the command of [[Captain MacMillan]]...
+
+== Gameplay ==
+'''[15 Years Ago]'''
+
+'''["All Ghillied Up"]'''
+
+'''[Pripyat, Ukraine]'''
+
+'''[Lt. Price]'''
+
+'''[22nd SAS Regiment]'''
+
+''Captain MacMillan is proning in the grass and "Leftenant" Price is crouching next to him. Both men are wearing ghillie suits. Price takes out his [[M21]] [[Silencer|Suppressed]].''
+
+'''[[Cpt. MacMillan]]''': Too much radiation. We'll have to go around.
+
+''MacMillan comes out of the grass.''
+
+'''Cpt. MacMillan''': Follow me, and keep low. Careful... there's pockets of radiation all over this area. If you absorb too much, you're a dead man.
+
+''(If the player moves too close to a radioactive area, the [[Geiger Counter|Geiger counter]] starts to crackle.''
+
+'''Cpt. MacMillan''': Are you daft? Stay out of the radioactive areas.
+
+''If the player stays in the radioactive area for too long, they will eventually succumb to radiation poisoning and die, rendering the mission a failure saying "Avoid the radiation zone. Listen for the clicks of the Geiger counter." and the player will have to restart from the latest checkpoint.)''
+
+''They move up to a shack.''
+
+'''Cpt. MacMillan''': Standby.
+
+''There are two guards ahead of them.''
+
+'''Cpt. MacMillan''': Contact. Enemy patrol dead ahead. Stay low and move slowly, we'll be impossible to spot in our [[Ghillie Suit|ghillie suits]].
+
+''They slowly move through the grass. A conversation between the two guards can be heard.''
+
+'''Guard''': Эй! Сергей! Зачем мы бродим по этому району? (Hey! Sergei! Why do we wander around this area?)
+
+'''Sergei''': Мы не бродим, мы патрулируем здесь, идиот. (We're not wandering, we are patrolling, idiot.)
+
+'''Guard''': Зачем патрулировать? Здесь никого нет на 120 километров. Пустынная местность! (Why are we on patrol? There's nobody around for 120 kilometers. It's a desert terrain!)
+
+'''Sergei''': Слушай! Захаев платит нам хорошие деньги, чтобы патрулировать эту территорию. Если бы ты знал, что для тебя хорошо - ты бы заткнулся. А если он параноик - то это его дело. (Listen! Zakhaev is paying us good money to patrol the area. If you knew what's good for you - you would shut up. And if he is paranoid, that is his business.)
+
+'''Cpt. MacMillan''': Take one out when the other's not looking.
+
+''If cover is nearly blown:''
+
+'''Cpt. MacMillan''': Don't move... They're not onto us yet; Patience, don't do anything stupid; Just wait, let them move on.
+
+''(If cover is blown:''
+
+'''Cpt. MacMillan''': We're spotted! Take cover!; Bugger! Our cover's blown!; They're onto us! Open Fire!; We've been spotted! Take 'em out!
+
+''The guards come out of a house next to another shack, and dogs start to chase the player.''
+
+'''Cpt. MacMillan''': Dogs in the tall grass!
+
+''The guards and dogs are killed.''
+
+'''Cpt. MacMillan''': The word stealth doesn't mean anything to you does it? Move up.; We won’t get very far trying to shoot our way out of every situation, move up.'')''
+
+''Price shoots one of the guards without letting the other see.''
+
+'''Cpt. MacMillan''': He's down.
+
+''MacMillan takes out the other.''
+
+'''Cpt. MacMillan''': Good night. Move.
+
+''They move up to another shack by a house.''
+
+'''Cpt. MacMillan''': Hold up. There's more cover if we go around.
+
+''They go around the shack. MacMillan sees four [[Ultranationalists]] playing some sort of card game inside the house, and a dog sleeping on a couch.''
+
+'''Cpt. MacMillan''': Four tangos inside. Don't even think about it...
+
+'''Russian 1''': Передай сигареты. (Pass me the cigarettes.)
+
+'''Russian 2 (Anatoly)''': Чей ход? (Whose turn is it?)
+
+'''Russian 1''': Это ход, Юрий! Эй, Юра! Не спи, твой ход, Анатолий поднял ставку на два доллара! (It's your turn, Yuri! Hey, Yura! Don't sleep, it's your turn! Anatoly has raised the bet by two dollars!)
+
+'''Russian 3 (Yuri)''': Слишком дорого для меня. Я сворачиваюсь. (Too much for me. I'll pass.)
+
+'''Russian 1''': Слишком дорого? Захаев платит нам вдвойне за эту работу! Лёгкие деньги, нет никакой опасности, нет шанса перестрелки. Кто сюда приедет? Это ядерная зона бедствия! Здесь скорее умрёшь от рака, чем от пули. (Too much? Zakhaev pays us twice as much for this job! Easy buck, no danger at all, no chance of firefight. Who will visit this place? It's a nuclear disaster area! You'll die from cancer rather than from a bullet.)
+
+''He peeks around the corner.''
+
+'''Cpt. MacMillan''': Wait there. Tango by the car. Take him out quietly, or just let him pass. Your call.
+
+''(If the player decides to stay put and let the guard pass, he will walk back into the house.''
+
+'''Cpt. MacMillan''': He's going back inside''.)''
+
+''The player takes out the guard.''
+
+'''Cpt. MacMillan''': Ok - go! Move up.
+
+''(If the player sprints past through the opened door and jumps over a fence, the guards will investigate, and may inadvertently discover the body.''
+
+'''Cpt. MacMillan''': They won't forget a dead body, this will get messy; They've found a body, there's no quiet way out of this one, it's your move; We're gonna have to go loud, they've found a body.'')''
+
+''They hop over a fence and head towards a church. MacMillan spots a guard in the church tower and another ahead. He gets behind a tree, they stop.''
+
+'''Cpt. MacMillan''': Don't move. We've got a lookout in the church tower, and a patrol coming from the north. Let's move up for a better view.
+
+''(If the player quickly and early takes out the tower lookout:''
+
+'''Cpt. MacMillan''': Nice shot, Leftenant, but we still got a patrol coming from the north.'')''
+
+''They move up to the next tree.''
+
+'''Cpt. MacMillan''': Do you have a shot at the lookout?
+
+''(If the player aims for the round tower:''
+
+'''Cpt. MacMillan''': No, the square tower.; The other tower.; You're looking at the wrong one, it's to your right.'')''
+
+''If the player takes out the patrol before the lookout...''
+
+'''Cpt. MacMillan''': Bloody hell, the lookout's gonna see the body.
+
+''(If the lookout notices the body but every other hostile is already dead:''
+
+'''Cpt. MacMillan''': He can call for help all he likes. Good thing there's no-one left.'')''
+
+''(If the lookout does not notice the body:''
+
+'''Cpt. MacMillan''': I guess he can't see the body from there. Whooh, that was a close one.
+
+''If the lookout still doesn't notice the body:''
+
+'''Cpt. MacMillan''': Get ready to move. Wait for the spotter to turn around. Ready? Go!'')''
+
+''(If cover is blown again:''
+
+'''Cpt. MacMillan''': We're spotted! Take cover!; Bugger! Our cover's blown!; They're onto us! Open Fire!; We've been spotted! Take 'em out!
+
+''The patrol and lookout are killed.''
+
+'''Cpt. MacMillan''': That was close, you lead a charmed life, Leftenant. Move!'')''
+
+''Price takes out the lookout in the square tower.''
+
+'''Cpt. MacMillan''': Beautiful. Target approaching from the north. Take him out quietly, or just let him pass. Your call.
+
+''If the player lets the guard pass, the guard may come across the body of the guard who stepped outside.''
+
+'''Cpt. MacMillan''': He can call for help all he likes, good thing there's no one left.
+
+''If the player takes out the guard:''
+
+'''Cpt. MacMillan''': Tango down. Go. Forward area clear.
+
+''If the player goes to the door after the guard passes:''
+
+'''Cpt. MacMillan''': The patrol won't be coming back for a while. Now's our chance.
+
+''MacMillan slowly opens the church door and they enter the church. If all hostiles are dead, he'll kick it open as if he was mad at the player for blowing their cover. They move through and out of the church.''
+
+'''Cpt. MacMillan''': The coast is clear.
+
+''A helicopter is heard flying overhead.''
+
+'''Cpt. MacMillan''': You hear that? Enemy [[Mi-24 Hind|helicopter]], get down! Stay in the shadows.
+
+''They lie prone in the shadows in the grass. If the player reveals themself by standing, the helicopter can be seen flying around again.''
+
+'''Cpt. MacMillan''': He's circling back around. Don't... move.
+
+''(If the player is not prone and is seen, or if the player grabs a [[FIM-92 Stinger|Stinger]] and attempts to shoot it down, the helicopter will pop flares, turn around, and fire at the player.''
+
+'''Cpt. MacMillan''': Bugger! Our cover's blown!
+
+''The helicopter circles around and fires down at the player. It can level the roof of the church or the nearby building, and can only be destroyed using the Stinger missiles. The player successfully hits the helicopter, and it crashes nearby.''
+
+'''Cpt. MacMillan''': All right, now you're just showin' off.'')''
+
+''The helicopter flies past.''
+
+'''Cpt. MacMillan''': Let's go.
+
+''They move through the field and up the road. As they come up to another field, a large convoy can be heard ahead.''
+
+'''Cpt. MacMillan''': Get down, now!
+
+''They immediately go prone and begin to crawl through the grass. The convoy is seen moving towards them but the two remain unseen.''
+
+'''Cpt. MacMillan''': Easy lad... There's too many of them, let them go. Keep a low profile and hold your fire. Try to anticipate their paths. If you have to maneuver, do it slow and steady, no quick movements.
+
+''They keep still as the convoy unknowingly walks past them.''
+
+'''Cpt. MacMillan''': OK, let's move. Nice and slow.
+
+''They move clear of the convoy and approach a junkyard.''
+
+'''Cpt. MacMillan''': Follow me.
+
+''Two soldiers are seen tossing bodies into the river, near a truck. A conversation can be heard from them.''
+
+'''Ultranationalist 1''': Ничего себе! Это тяжёлое! (Wow! It's hard!)
+
+'''Ultranationalist 2''': Когда Андрей принесёт еду? (When will Andrew bring food?)
+
+'''Ultranationalist 1''': Я не знаю, я надеюсь, что скоро... (*illegibly*) я не ел на завтрак... (I do not know, I hope that soon... (*illegibly*) I have not eaten for breakfast ...)
+
+'''Ultranationalist 2''': Давай сделаем это как можно быстрее! Трупы начинают вздуваться! (Let's do it as fast as possible! The corpses are beginning to deflate!)
+
+'''Ultranationalist 1''': Дураки! Лучше бы согласились на предложение Захаева! (Fools! They should have agreed to Zakhaev's offer.)
+
+'''Cpt. MacMillan''': Looks like they've already eliminated the men they couldn't buy out. Let's move up for a better view.
+
+''Another two soldiers are seen patrolling the area while MacMillan spots another group sitting around a table inside a container.''
+
+'''Cpt. MacMillan''': Taking 'em out without alerting the rest isn't going to be easy... ...But then again, neither is sneaking past them. Your call.
+
+''(The player can sneak past the junkyard undetected by going prone. If the player is able to maneuver successfully past the truck, MacMillan will also go prone. If the player gets too far ahead of him:''
+
+'''Cpt. MacMillan''':''' '''We work as a team, remember? Wait for me.'')''
+
+''If the player decides to take out the two patrolling guards, he kills the first one.''
+
+'''Cpt. MacMillan''': Target eliminated.
+
+''The other guard is killed.''
+
+'''Cpt. MacMillan''': Topped him. Don't fire on the two by the lorry. We'll have to take them out at the same time. Wait for me to get into position.
+
+''MacMillan crawls into position.''
+
+'''Cpt. MacMillan''': I'm in position. Take the shot when you're ready.
+
+''(If the player doesn't shoot:''
+
+'''Cpt. MacMillan''': Hold your fire. I'm moving to a new position.
+
+''MacMillan crawls into another position.''
+
+'''Cpt. MacMillan''': Ok... ready when you are.'')''
+
+''The two guards are eliminated.''
+
+'''Cpt. MacMillan''': Good night.
+
+''They move further into the junkyard.''
+
+'''Cpt. MacMillan''': Stay in the shadows.
+
+''MacMillan sees a guard.''
+
+'''Cpt. MacMillan''': Stay back.
+
+''The player has the option to kill the guard to move on. If not:''
+
+'''Cpt. MacMillan''': Stay low, he's mine.
+
+''MacMillan sneaks up to the guard.''
+
+'''Cpt. MacMillan''': Oi, Suzy!
+
+''The guard turns to look for MacMillan after hearing him. MacMillan runs up and melees him unconscious with the butt of his M21 before he can react.''
+
+'''Cpt. MacMillan''': That's how it's done, let's go.
+
+''Around the containers, another guard patrols the area.''
+
+'''Cpt. MacMillan''': Hold up. Wait here. We should wait a bit, let's see if the guard makes another pass... Patrol coming this way, stay back.
+
+''MacMillan moves behind the shadows between the containers across him and hides. The guard walks into a container. MacMillan snipes him.''
+
+'''Cpt. MacMillan''': Tango down. Forward area clear. Go.
+
+''MacMillan spots a group of soldiers taking a smoke and playing card game.''
+
+'''Russian 1''': Никто не видел, здесь бегают дикие собаки? Я слышал, украинцы вчера ночью потеряли пару своих возле плавательного комплекса. (Did anyone see wild dogs running around here? I've heard that Ukrainians lost a couple of their men by the swimming pool last night.)
+
+'''Russian 2''': Эти украинские наёмники такие некомпетентные. Они получили, что заслужили. Любой с боевым опытом убил бы этих собак без проблем, ха-ха! (Those Ukrainian mercs are so incompetent. They got what they've deserved. Anyone with combat experience would kill those dogs without problems, ha-ha!)
+
+'''Russian 3''': Радиация делает этих собак сумасшедшими и сильными. Ты их недооцениваешь, товарищ. Какая ставка? (Radiation makes these dogs crazy and strong. You are underestimating them, comrade. What's the bet?)
+
+'''Russian 2''': Пять долларов. Ты хочешь оставить или поднять ставку? Или хочешь сдаться, как слабак? (5 dollars. You want to leave it or raise the bet? Or you want to give up like a pussy?)
+
+'''Russian 3''': *laughs* Посмотрим, что у тебя. 20 долларов - значит, блеф! (Let's see what you got. 20 dollars say you're bluffing!)
+
+'''Russian 2''': У меня пара валетов. (I got couple of jacks.)
+
+'''Russian 3''': Три короля! (Three kings!)
+
+'''Russian 1''': Дурак! Это похоже на человека, который может быть побит вальтами? (Fool! Does he look like a man who could be won by jacks?)
+
+'''Russian 3''': Хорошо сыграл, товарищ! Хочешь выпить? (Nice play, comrade! Want a drink?)
+
+'''Russian 2''': Удачники! Но я плачу вам с вашего же кармана, ха-ха! (Luckers! But I'm paying you from your own pocket, ha-ha!)
+
+'''Russian 3''': Мы ещё посмотрим! Раздавай карты! (We'll see about that! Pass the cards!)
+
+'''Russian 1''': Call.
+
+'''Russian 3''': Больше ставку. (Raise the bet.) [after a couple of seconds] Я выхожу из игры. (I quit.)
+
+'''Russian 2''': Невероятно! Я проиграл свою партию в игре! Заплати парню его деньги, он выиграл честно. (Unbelievable! I've lost my game! Pay the boy his money, he won them fairly.)
+
+'''Cpt. MacMillan''': Shhh. Stay hidden. Move up. This way. Let's go.
+
+''(If the player goes around and retrieves the laptop intel from where the soldiers are by either going to prone or eliminating them:''
+
+'''Cpt. MacMillan''': Are you daft?
+
+''The player has to pick up a [[P90]]-[[Silencer|S]][[Red Dot Sight|D]] to quietly eliminate the guards before retrieving the laptop, but if the player manages to retrieve the laptop without being detected:''
+
+'''Cpt. MacMillan''': I'll say one thing, you certainly got the minerals.'')''
+
+''They move through an empty shipping container. Outside the other end is a large convoy of Ultranationalists.''
+
+'''Russian 1''': Приготовить грузовики до 2 часов! (Get the trucks ready until 2 o'clock!)
+
+'''Russian 2''': Слушаюсь, товарищ командир! (Yes, sir!)
+
+'''Russian 1''': Вертолёт в пути? (Is helicopter en route?)
+
+'''Russian 3''': Он ждёт сигнала! Посадочная полоса безопасна! (They are waiting for the signal! LZ is secure!)
+
+'''Russian 1''':''' '''Хорошо, присылай вертолёт! Здесь всё спокойно! (All right, send the helicopter! Everything's quiet here!)
+
+'''Russian 2''': Смотри винт вертолёта! (Watch for the blades!)
+
+'''Russian 1''': Эй, ты! Обойди лес и иди на восток! Я не хочу, чтобы эти дикие собаки свободно здесь бегали! (Hey, you! Circle around the forest and move towards east! I don't want those wild dogs to run around here!)
+
+'''Russian 2''': А ты уверен, что эти дозиметры радиации работают? Я не хочу заболеть! (Are you sure those dosimeters work? I don't want to catch something!)
+
+'''Russian 1''': Я примерял батареи, когда мы были в Киеве! Не беспокойся! (I've checked the batteries when we were in Kiev! Don't worry!)
+
+'''Russian 3''': Как я понимаю, чем дальше вы отходите от Чернобыля, там радиация становится сильнее! (As I know, the further you get from Chernobyl, the stronger the radiation gets!)
+
+'''Russian 2''': Я вообще этому не верю! (I don't believe it at all!)
+
+'''Russian 3''': Верь чему хочешь! Но, направляясь, я не хочу, чтобы эти собаки приближались близко! (Believe all you want! But I don't want those dogs to come any closer!)
+
+'''Russian 2''': Хорошо! (All right!)
+
+'''Russian 4''': Я только что получил сообщение из разведки! У нас, кажется, проблема! (I've got the message from intelligence right now! I think we have a problem!)
+
+'''Russian 1''': Что случилось? (What happened?)
+
+'''Russian 2''': Некоторые из наших ребят были убиты! Это похоже было на профессиональную работу! (Some of our guys got killed! It looks like a professional work!)
+
+'''Russian 1''': Украинские спецвойска? (Ukrainian special forces?)
+
+'''Russian 2''': Возможно! Наверное, это был спецназ! Кому-то Захаев не нравится! (Probably! Maybe it was Spetsnaz! Someone doesn't like Zakhaev!)
+
+'''Russian 4''': Может, отменить сделку с украинцами? (Shall we call off the deal with Ukrainians?)
+
+'''Russian 1''': Это Захаеву решать! Наша работа... *illegible* (It's up to Zakhaev! Our job is...)
+
+'''Russian 2''': Я в сортир на минутку! (I'll take a piss, give me a minute!)
+
+'''Cpt. MacMillan''': It's a bloody convention out there. Get ready to move on my signal. Stay right behind me. Hold.... Ok - go.
+
+''They quickly sprint through the convoy undetected and hide behind the jeeps. They lie prone and crawl under the vehicles.''
+
+'''Cpt. MacMillan''': Let's go. There's a truck coming, we'll use it as cover. Keep moving.
+
+''The truck parks behind the vehicle they're crawling under, they crawl further in. MacMillan sees another convoy arriving, the enemy infantry exit their vehicles.''
+
+'''Cpt. MacMillan''': Just wait here a moment. When they leave, crawl out and stay low. Patience... Don't do anything stupid.
+
+''The soldiers leave, providing an opening.''
+
+'''Cpt. MacMillan''': Standby. Standby... Go!
+
+''They crawl out from underneath the vehicles.''
+
+'''Cpt. MacMillan''': Ready? Go!
+
+''They sprint away from the convoy and hide behind a shipping container.''
+
+'''Cpt. MacMillan''': Hold fast. No one saw us, let's keep moving. This way...
+
+''They come up to a wall as they approach Pripyat. A sniper shows up at the top of an apartment building''
+
+'''Cpt. MacMillan''': Don't move. Sniper. Fire escape, fourth floor, dead ahead. Take him out, or he'll give away our position.
+
+''The player takes out the sniper.''
+
+'''Cpt. MacMillan''': Beautiful. Move out. Go.
+
+''(If the player goes to the top floor where the sniper was, retrieves the enemy Intel, and eliminates the entire convoy including the helicopter:''
+
+'''Cpt. MacMillan''': What the bloody hell was that? You trying to get us killed?! Move up, and don't do that again.'')''
+
+''They move through the apartment building.''
+
+'''Cpt. MacMillan''': Area clear.
+
+''They come out of the building. They continue to move through the city.''
+
+'''Cpt. MacMillan''': Don't let your guard down. We're not there yet.
+
+''MacMillan spots a dog feeding on a dead body.''
+
+'''Cpt. MacMillan''': Stop. Leave it alone. It's a wild dog. Pooch doesn't look too friendly. Keep your distance. No need to attract unnecessary attention.
+
+''They move around the dog which barks and growls at them for a moment before going back to its meal. They continue to move through.''
+
+''(If the player shoots the dog, distant mournful howls can be heard in the distance and the music used for the part where Price and MacMillan have to go prone after the church, Surrounded OST, starts playing.''
+
+'''Cpt. MacMillan''': That doesn't sound good...
+
+''Suddenly, about 13 dogs start rushing towards MacMillan and Price, barking and howling. They kill all the dogs.''
+
+'''Cpt. MacMillan''': Whew, that was close.'')''
+
+''They move up through the building.''
+
+'''Cpt. MacMillan''': Clear right. Go. Forward area clear. Move up.
+
+''For a moment, the same ghostly sounds of children playing as the ones in Aftermath can be heard as they move through the Palace of Culture with a clear view of some abandoned buildings across Pripyat.''
+
+'''Cpt. MacMillan''': Look at this place... Fifty thousand people used to live in this city. Now it's a ghost town... I've never seen anything like it. Move.
+
+''They continue through the building and see the Polissya Hotel.''
+
+'''Cpt. MacMillan''': This way. Let's go. There's the hotel. We should be able to observe the exchange from the top floor up there. Let's move.
+
+''They head to the hotel.''
+
+{{CoD4 CampaignT}}

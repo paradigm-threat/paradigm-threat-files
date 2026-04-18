@@ -1,0 +1,1128 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_II_Transcripts -->
+<!-- title: Recon by Fire/Transcript -->
+
+{{game|1=mwii}}
+== Cutscene==
+''Two vehicles are parked in the desert at night. [[Johnny "Soap" MacTavish]] and [[Alejandro Vargas]] haul a captured and blindfolded [[Hassan Zyani]] and force him to his knees.''
+
+'''Soap''': On your knees.
+
+''[[Phillip Graves]] sets up a laptop with a video uplink to [[Kate Laswell]] and General [[Herschel Shepherd|Shepherd]] while Hassan's hood is removed by Alejandro.''
+
+'''Graves''': Y'all got a clear picture?
+
+''General Shepherd and Laswell are in their respective offices watching the video uplink.''
+
+'''Shepherd''': Crystal.
+
+'''Laswell''': All set.
+
+'''Graves''': All right, we are live, folks.
+
+'''Hassan''': Do you speak Arabic?
+
+'''Graves''': No.
+
+'''Hassan''': Farsi.
+
+'''Graves''': No.
+
+'''Hassan''': Course not. Then I'll speak your bastardized medieval English because you are all uneducated street dogs.
+
+''Graves shakes his head.''
+
+'''Graves''': Ahh, see... we're getting off to a bad start here, Hassan.
+
+'''Hassan''': You are talking to a [[Quds Force]] officer.
+
+'''Graves''': You're the commander of a foreign terrorist organization.
+
+'''Hassan''': I can say the same to you.
+
+'''Graves''': What's your target, "Major"?
+
+'''Hassan''': What was your target when they sent missiles to my land?
+
+'''Graves''': Oh well, wild guess... To nail your ass.
+
+'''Hassan''': So insolent and foul-mouthed. You will learn to respect me when your nation sees fire.
+
+''Graves walks up to Hassan, menacingly.''
+
+'''Graves''': You are in bed with the cartel, Hassan. If you disappeared, no one would know where to look for the fuckin' stain.
+
+'''Hassan''': (chuckles) I have no doubt you'll take pleasure in torturing me.
+
+'''Soap''': Who'd you get American missiles from?
+
+'''Shepherd''': I don't care who they're from, I wanna know where they're going.
+
+''The sounds of coyotes howl in the distance.''
+
+'''Graves''': Take a look around, Hassan. Now you can either become part of the food chain or you can start talking.
+
+'''Hassan''': I'm a hostage here. This is illegal.
+
+'''Alejandro''': You are a prisoner of war.
+
+''Hassan looks back and forth between his captors and the video uplink.''
+
+'''Hassan''': Iran is not at war with Mexico. I've broken no laws. These men and their commanders are the law-breakers.
+
+'''Soap''': You and your beloved General [[Ghorbrani]] broke every--
+
+'''Hassan''': DO NOT SPEAK HIS NAME! [[Strike (level)|You executed him]] and you will pay for your crimes... (In Arabic) Only God can help you now...
+
+'''Shepherd''': I want this bastard in permanent custody or looking up at the goddamn grass.
+
+'''Laswell''': General, killing Hassan is an act of war, keeping him is illegal. Right now, he is too hot to hold.
+
+'''Shepherd''': Tell me you're getting something actionable, Laswell.
+
+'''Laswell''': Working on it. Stand by.
+
+''Graves places the laptop on the hood of a vehicle.''
+
+'''Graves''': Actual, let me finish this. 
+
+'''Shepherd''': There is nothing I would like more. But Laswell's right. Without proof, we need to turn him loose. See where he leads us.
+
+'''Soap''': He's right here. You can't be serious.
+
+'''Shepherd''': I'm afraid I am, son.
+
+''Hassan chuckles. Ghost looks at Hassan's phone in his hand.''
+
+'''[[Simon "Ghost" Riley (Reboot)|Ghost]]''': Did we get anything from his phone?
+
+''Laswell looks on her computer screen at a map displayed.''
+
+'''Laswell''': Affirmative. We got a hit.
+
+'''Shepherd''': Good. Now, take him back and let him go.
+
+''The team exchanges looks and then Alejandro places Hassan's blindfold back on.''
+
+'''Alejandro''': (in Spanish) Up, asshole. Let's go.
+
+''Alejandro hauls Hassan to his feet as Ghost slips Hassan's cell phone back into his jacket. Soap closes the laptop and cancels the video uplink. The scene switches to a computer screen displaying the globe. Images of Hassan's phone and a cell tower appear along with a line tracing to Spain.''
+
+'''Laswell''': The data hacked from Hassan's phone in Mexico went through a cell tower off the Coast of Spain. Hassan was communicating with someone there when we caught him.
+
+''The computer displays the coordinates of the phone call and the text "Approximate Location Determined". The computer then displays the hatchery on the Coast of Spain with blueprints for the building and a map of the complex.''
+
+'''Laswell''': Signals track to a hatchery used by the [[Las Almas Cartel|cartel]] as a smuggling front. It's remote and on the water.
+
+'''[[John Price (Reboot)|Price]]''': Perfect to move illegal cargo.
+
+'''[[Kyle "Gaz" Garrick|Gaz]]''': Including missiles.
+
+''Images of a barge full of cargo containers appear with a missile propped up from a container.''
+
+'''Laswell''': We need to get on the ground and see if the missiles are there.
+
+''The computer displays schematics of a missile and photos of the hatchery complex.''
+
+'''Laswell''': Imagery shows at least 4 structures and a lighthouse. We need eyes inside, but it's heavily guarded by cartel.
+
+'''Price''': The high grass lends itself to concealment in the right gear.
+
+''An image of a sniper in a [[Ghillie Suit|ghillie suit]] is displayed.''
+
+'''Gaz''': Ghillie suits.
+
+''A satellite image of Laswell on a boat in the water appears next.''
+
+'''Laswell''': Exactly. I'll watch the coast for movement and provide exfil by boat.
+
+'''Price''': You shouldn't be alone out there, Kate. One is none.
+
+''A photo of a document detailing the rules of engagement is displayed with black ink covering certain text.''
+
+'''Laswell''': Three's already a crowd. We have no jurisdiction here, John. We roll low and slow. This is unauthorized recon by fire. We're off the books. I'll call you when I'm in position. Let's find these missiles before Hassan puts them in our backyard.
+
+''The satellite image zooms in on Laswell's boat.''
+
+== Gameplay==
+''Laswell's boat floats off the coastal area. Laswell lays low on the boat, grabs and arms her scoped [[MR23|TAQ-M]] rifle, and places herself on overwatch.''
+
+'''Laswell''': Watcher-1 to Bravo - I'm in position, half a click off the coast. Structures are visible. What's your status?
+
+''The scene switches to the countryside where a truck drives down the road toward the hatchery.''
+
+'''Price''': (over radio) We're set at our firing point. Eyes on a pair of armed targets hiding in the field.
+
+'''Laswell''': You're green-lit. Execute when able.
+
+'''Price''': (over radio) Rog'. Stand by... Gaz?
+
+''The camera pulls back to reveal two snipers in ghillie suits overlooking the field.''
+
+'''Gaz''': (over radio) No wind. 200 meters. On me.
+
+''The first sniper is shot and killed, followed a second later by the second sniper.''
+
+'''Laswell''': (over radio) Bravo, what do you have? Bravo, how copy?
+
+''The camera pans left to reveal Captain John Price and Sgt. Kyle "Gaz" Garrick in their own ghillie suits and using their suppressed [[MCPR-300]] sniper rifles.''
+
+'''Price''': Solid, Watcher. Two down.
+
+'''Laswell''': (over radio) Good work. Push forward, see what you can fine.
+
+''The camera switches to Gaz's POV.''
+
+'''KYLE "GAZ" GARRICK- TF-141, CIA'''
+
+'''RECON BY FIRE'''
+
+'''SPAIN'''
+
+'''31 OCT 2022, 1100'''
+
+'''Price''': Eyes on mobile patrols and a group team ahead of us. Scope in, Sergeant and let's see what we're dealing with.
+
+''Gaz looks through his scope at the enemy team ahead.''
+
+'''Gaz''': I see 'em. Cartel?
+
+'''Price''': Likely. Let's low crawl around them, see what they're trying to keep us away from us.
+
+''(Alternatively, Gaz can open fire on the patrols, thereby alerting the enemy and forcing him and Price to break their cover. This will force the convoy to drive down the road while enemy reinforcements arrive to face Price and Gaz.)''
+
+'''Price''': He's alerted! Ah, fuck. Here they come. Watcher, we are engaging the convoy.
+
+''Price and Gaz shoot all the cartel guards in the area.''
+
+'''Price''': Not bad, Sergeant. A long way from your days on the Police force. Let's keep moving.
+
+''The player has the option for two dialogue choices.''
+{{Tabber2|I miss my old job.|'''Gaz''': I miss my old job.
+
+'''Price''': Well, I'd hate to lose you, but you could always go back.
+
+'''Gaz''': Thank you, sir.|That wasn't for me.|'''Gaz''': That wasn't for me.
+
+'''Price''': I knew that the moment I saw you in [[Piccadilly (level)|Picadilly Circus]].
+
+'''Gaz''': Thank you, sir.
+}}
+''The player now has the option to engage in further dialogue between Price and Laswell.''
+{{Tabber2|How did you and Captain Price meet, Laswell?|'''Gaz''': How did you and Captain Price meet, Laswell?
+
+'''Laswell''': I like street food. John and I met at a falafel stand in Lebanon.
+
+'''Gaz''': Seriously?
+
+'''Laswell''': No. It was an airport bar in Lisbon.
+
+'''Gaz''': For real now?
+
+'''Price''': She's pulling your leg, Sergeant.|How did you and Laswell meet, Captain?|'''Gaz''': How did you and Laswell meet, Captain?
+
+'''Price''': We met at a poker game in Tel Aviv.
+
+'''Gaz''': Really?
+
+'''Price''': No. It was a museum in Monte Carlo.
+
+'''Gaz''': Sounds possible at least.
+
+'''Laswell''': It does, doesn't it...
+}}
+''After either dialogue option, the player can choose to either pursue the conversation further or cut it off altogether.''
+
+{{Tabber2|Alright, you can both piss off- I don't even wanna know how.|'''Gaz''': Alright, you can both piss off- I don't even wanna know how.
+
+'''Price''': Suit yourself.
+
+'''Laswell''': You're missing out, Gaz - it was actually quite pedestrian.
+
+'''Gaz''': You met crossing the street?
+
+'''Price''': Oh, that's funny, Gaz...
+
+|Fucking hell, come on...|'''Gaz''': Fucking hell, come on...
+
+'''Laswell''': Okay... for real. We met in London at a soccer game...
+
+'''Price''': It's football, Laswell- it's football...
+
+'''Laswell''': And that is exactly how I got him to talk to me...
+
+'''Price''': She was recruiting me for an Op in Bosnia. War criminal capture.
+
+'''Gaz''': Yeah - How'd that go?
+
+'''Laswell''': Not well... John does not like to be bothered watching soccer.
+
+'''Price''': Football, Laswell...
+
+'''Laswell''': Works every time.
+
+'''Gaz''': How'd the op go?
+
+{{Tabber2|Dialogue One|'''Price''': Not well. I dressed a guy in a gorilla suit to distract the target. It worked, but I slipped on the ice trying to roll him up. So, Laswell nabbed him. Put him away for life.
+
+'''Laswell''': Target told the gorilla story at trial. No one believed him...
+
+|Dialogue Two|'''Laswell''': Perfectly. John put a cardboard cow in the road. Every vehicle stopped to see what it was... John pulled the target out, flew him directly to the Hague for trial.
+
+'''Price''': Yeah, well, it wasn't as simple as that, was it Laswell?
+
+'''Laswell''': That's how I like to tell it, John. You can tell it your way.
+
+}}
+}}
+
+''Price and Gaz crawl forward through the grass.''
+
+'''Price''': Keep down, stick to the grass. We don't need to fight them.
+
+'''Laswell''': Watcher to Bravo - how we doing, boys?
+
+'''Price''': On the move, Laswell. Cartel guards in the field.
+
+'''Laswell''': Anything that can hold a missile?
+
+'''Price''': Negative.
+
+'''Laswell''': Copy, keep pushing. Out.
+
+''Price and Gaz stop crawling and spot two guards.''
+
+'''Price''': Hold up - there are two on the left side. Use your thermal to spot my laser.
+
+''Gaz looks through his scope and sees Price's laser spotting the two guards.''
+
+'''Gaz''': Eyes on.; I've got 'em.; See 'em. 
+
+''Gaz shoots the first guard and Price kills the second one.''
+
+''After killing the two guards...''
+
+'''Price''': Let's push up. Stick close.
+
+''Price and Gaz crawl forward through the field.''
+
+'''Laswell''': Bravo, this is Watcher - what's your status?
+
+'''Price''': Near the wind turbines.
+
+'''Laswell''': Copy. Get to the tree-line forward of your position. It'll give you some cover.
+
+'''Price''': Copy.
+
+''Price and Gaz keep crawling forward until they hear enemy vehicles inbound.''
+
+'''Price''': Hold it. Vehicles incoming.
+
+''A container truck drives down the road, followed closely by two troop transport trucks.''
+
+'''Price''': See that? Container truck.
+
+'''Gaz''': Yep. Right size for a missile.
+
+'''Price''': Let's track it. Bravo to Watcher. We have transports moving north of our position.
+
+'''Gaz''': One's hauling a container. It may have the missiles.
+
+'''Laswell''': Copy - that's what we're here for- Moving along the coast for a better view, stay on it.
+
+'''Price''': Rog. Out. 
+
+''Price and Gaz approach a tunnel under the road.''
+
+'''Price''': Tunnel, under the roadway, let's use it to cross to the other side.
+
+'''Gaz''': Yep - on you.
+
+''Price and Gaz crawl through the tunnel to the other side.''
+
+'''Gaz''': Cartels and terrorists... Strange bedfellows, huh?
+
+'''Price''': Terrorists are all about the past. Narcos are all about the future.
+
+'''Gaz''': What's the common ground?
+
+'''Laswell''': Territory and fresh blood - They both attract the youth. Always a long line of recruits.
+
+''Price and Gaz reach an area with taller grass.''
+
+'''Price''': Grass is higher. We're more concealed. Crouch and keep a low profile.
+
+''Price and Gaz crouch forward through the field until they come to a halt.''
+
+'''Price''': Hold up. Got movement, approaching. Small patrol - dead ahead.
+
+''Price and Gaz drop down to a prone position as an enemy patrol appears over the horizon.''
+
+'''Price''': Hide your gun, Gaz.
+
+''The player has the option to conceal his weapon. Gaz does so.''
+
+'''Price''': Try to anticipate their paths. If you have to maneuver, do it slow and steady. No quick movements. Keep your head still, it's gonna be close. 
+
+''Price and Gaz stay low in the grass, moving only when necessary to avoid being detected by the enemy patrol. Eventually, the enemy patrol completely passes by Price and Gaz.''
+
+'''Price''': Hold here - Got two more ahead. Use thermal for a visual.
+
+''Gaz takes out his rifle and looks through the scope to see the two guards. He'' ''aims at and shoots one of the guards while Price does likewise with the other, killing them both.''
+
+'''Price''': We're safe to move.
+
+''Price and Gaz continue onward until they come to small building ahead.''
+
+'''Price''': Gaz, structure ahead. No one outside.
+
+'''Gaz''': Could be men inside.
+
+''(If Gaz stands up while in the field:)''
+
+'''Price''': Get down, Gaz.; Keep low, Sergeant.; Gaz, get down.
+
+''Price and Gaz move through the field stealthily until they reach the building.''
+
+'''Price''': Use your [[Heartbeat Sensor|heartbeat sensor]], check if the building's clear.
+
+''Gaz takes out this heartbeat sensor and sees no signs of enemy on the screen.''
+
+'''Gaz''': Clear. Nothing inside.
+
+'''Price''': Roger. Let's keep moving.
+
+''Price and Gaz continue on with their mission until they reach a stone wall. They spot the transports from before and an enemy patrol nearby.''
+
+'''Price''': Looks like they stopped for a chat. No need to engage, we can pass by undetected.
+
+''Price and Gaz watch as the transports resume driving down the road.''
+
+'''Price''': It's on the move again, no visual.
+
+'''Laswell''': Copy. I'll watch for it.
+
+'''Price''': Let's keep moving.
+
+''Price and Gaz move down the stone wall and reach the trees ahead.''
+
+'''Price''': Tree-line ahead. Let's get up there.
+
+''Price and Gaz reach the tree-line, allowing them to stand up.''
+
+'''Price''': Trees'll give us some better cover but let's stay sharp.
+
+'''Laswell''': Be advised - container truck has pulled in. They may be loading it into the warehouse. Multiple armed personnel in proximity.
+
+'''Gaz''': Copy.
+
+''At this point, the player can engage in dialogue with Laswell if they choose.''
+{{Tabber2|Kate...?|'''Gaz''': Kate...?
+
+'''Laswell''': Kyle, what's up?|Laswell?|'''Gaz''': Laswell?
+
+'''Laswell''': Talk to me, Garrick.|Watcher...?|'''Gaz''': Watcher...?
+
+'''Laswell''': Go for Watcher.
+}}
+''If the player engages in dialogue with Laswell, several options appear.''
+
+{{Tabber2|Good to be back in the field?|'''Gaz''': Good to be back in the field?
+
+'''Laswell''': I'm here because this happened on my watch. I need to know how.
+
+'''Price''': We go after known, likely and suspected targets, Kate. This one's all three...
+
+'''Gaz''': I'd get in a foxhole with you two any day. Let's get this unfucked.
+
+'''Laswell''': One of these missiles hits a city... people are gonna die.
+
+|You done this before?|'''Gaz''': You done this before?
+
+'''Laswell''': Hmmm. Many times, Sergeant. Since you were in diapers.
+
+'''Price''': Well, in fairness, he was probably potty-trained by then, Kate...
+
+'''Gaz''': Still am, sir.
+
+'''Price''': Well, we'll check your ghillie suit when this is over.
+
+'''Gaz''': We'll check yours too, Captain...
+
+'''Price''': You're on.
+
+'''Laswell''': This will all be on my final report, boys...
+
+|What's your favorite weapon?|'''Gaz''': What's your favorite weapon?
+
+'''Laswell''': I don't have one. Gotta use the right tool for the job.
+
+'''Price''': Said like a true warrior, Laswell.
+
+'''Laswell''': What's yours, Kyle?
+
+{{Tabber2|LMG.|'''Gaz''': LMG.
+
+'''Laswell''': Firepower and high mag capacity. I like your style, Gaz.
+
+'''Gaz''': Oh, yeah. Didn't know you were such an enthusiast, Laswell.
+
+'''Laswell''': I'm not a marksman, but I know me some guns, Gaz.
+
+|SMG.|'''Gaz''': SMG.
+
+'''Laswell''': Control and mobility... Offense and defense. I'm down with that.
+
+|AR.|'''Gaz''': ARs.
+
+'''Laswell''': Close-range, mid-range. Great platform, highly adaptable.
+
+|DMR.|'''Gaz''': DMR.
+
+'''Laswell''': Rapid engagement of multiple mid to long range targets. Interesting.
+
+|Shotgun.|'''Gaz''': Shotgun.
+
+'''Laswell''': The shotty... Stopping power up close and personal. Gotta watch that reload time...
+
+|Sniper rifle.|'''Gaz''': Sniper rifle.
+
+'''Laswell''': Bolt-action or semi-auto?
+
+{{Tabber2|Bolt action - more reliable, lighter, fewer moving parts.|'''Gaz''': Bolt action - more reliable, lighter, fewer moving parts.
+
+'''Laswell''': Fieldcraft... Know where the word sniper came from?
+
+|Semi-auto - Love me that volume of fire.|'''Gaz''': Semi-auto - Love me that volume of fire.
+
+'''Laswell''': Fieldcraft... Know where the word sniper came from?
+
+}}
+
+{{Tabber2|No. Where?|'''Gaz''': No. Where?
+
+'''Laswell''': From bird hunting. Bird called a Snipe. Highly camouflaged from predators. If you could hit one, you were called a sniper...
+
+|You, Captain?|'''Gaz''': You, Captain?
+
+'''Price''': Little bird with a long bill called a Snipe. Blends in perfectly with its surroundings. Hit one and you were designated a sniper.
+
+|Matter of fact, I do.|'''Gaz''': Matter of fact, I do.
+
+'''Gaz''': Bird Hunting. Little camouflaged bugger called a Snipe. If you got one, they called you a sniper...
+
+}}
+}}
+}}
+
+''Price and Gaz make their way to a ridge overlooking the hatchery.''
+
+'''Price''': Well, we're nearly there, just past this ridge, we'll have a sightline to the main building. If the missiles are here, they might be inside...
+
+''Price and Gaz move past the wind turbines in the area.''
+
+'''Price''': Moving along the wind turbines, closing in on the ridge, Laswell.
+
+'''Laswell''': Good, you're coming up on the main buildings. You'll see it from the top of the hill.
+
+'''Price''': Weather's on our side. Plenty of fog, low vis.
+
+'''Gaz''': That and the Ghillies should keep us hidden.
+
+''Price and Gaz reach the top of the ridge looking down on the main building.''
+
+'''Price''': Eyes on the main building, 400 meters at 1 o'clock.
+
+'''Laswell''': Copy that.
+
+'''Price''': Find a spot in the grass, let's see who's who in the zoo...
+
+''Price and Gaz take up sniping positions in the grass and looks rough their scopes to scout out the enemy,''
+
+'''Price''': Get on your scope and scout the area.
+
+''Gaz looks through his scope and sees the entire main building is full of cartel guards.''
+
+'''Gaz''': Holy hell, Captain. Target rich environment.
+
+'''Price''': Affirmative. Cartel all over the place. Use your variable zoom from here. It's a long way down...
+
+''Gaz zooms in on scope.''
+
+'''Price''': Hold fire. Don't engage until I help us adjust for distance.
+
+''After a brief moment, Price chimes in to Laswell.''
+
+'''Price''': Watcher - we're set.
+
+'''Laswell''': Take out as many as you can from that OP. Start with the outliers.
+
+'''Gaz''': Solid copy. Let's get to it, sir.
+
+'''Price''': On you...
+
+''Gaz zooms in on a group of civilians.''
+
+'''Price''': Those are civilians. They're unarmed.
+
+'''Gaz''': The fuck are civilians doing here?
+
+'''Price''': It's a working hatchery. Someone's gotta feed the fish...
+
+''(Every time Gaz zooms in on a lone guard:)''
+
+'''Price''': It's just him.; It's only him.; He's all alone.
+
+''(Every time Gaz zooms in on a two-man patrol:)''
+
+'''Price''': Take him, I'll drop the other.; Burn him- I'll take the other.; Take one- I'll dump the other.; Other guy left, he's all yours.; On your go. Dump him- his mate's mine.; I've got his friend.
+
+''(Every time Gaz zooms in on a three-man patrol:)''
+
+'''Price''': Two others can see him. Try moving to a spot where you can take out two with one bullet.; Two others can sight on him. Shift your position to take out two with one bullet.; He's in sight of two others. Can you shift your position to take out two in one shot?; He's in sight of two others.
+
+''(Every time Gaz zooms in on a four-man group:)''
+
+'''Price''': Hold up, three others got sight of him. Some may break off.; Patience, Sergeant. Several cartel guards can see him. They may split up, stand by...; Careful, he's in sight of others. Some may split off.; Wait for it...
+
+''One of the guards breaks off from the group.''
+
+'''Price''': One split off, three left. Can you relocate to line up two in one shot?
+
+''(Every time Gaz gets into a position where he can take out two guards in a three-man patrol:)''
+
+'''Gaz''': I'm lined up.; I'm in position.
+
+'''Price''': Take out two in one shot. I got the other.; Take those two out with one bullet. I got their friend.; I've got his friend.; Burn him - I'll take the other.
+
+''(If Gaz doesn't shoot two men at the same time:)''
+
+'''Price''': Listen for my distance callout, and lead your target if they are moving.
+
+''(Every time Price measures the distance from their position to a targeted enemy soldier:)''
+
+'''Price''': Four notches.; Compensate three and a half notches for bullet drop.; Three and a half notches for bullet drop.; Three and a half notches.; Three notches.; Three notches for bullet drop.; Compensate two and a half notches for bullet drop.; Two and a half notches for bullet drop.; Two and a half notches.; Two notches.; One notch.
+
+''Price and Gaz get to work on eliminating the enemy guards.''
+
+''(Every time Price and Gaz successfully snipe an enemy:)''
+
+'''Gaz''': Cartel kickin' the bucket.; Clean hit.; Finished him.; Dumped him. Hit him.; Dusted.; Ahh, fallen' down on the job... That's a fatality.; Got him.; Dropped him.; Right on target.; Dirt nap.; Bullseye.; Smoked him.; Smoked 'em.; 
+
+'''Price''': We still got it.; Open season on sicarios.; Another dead narco.; Nice shot.; Good shooting.; Clean shots.; Early retirement.; Nice fucking shot.; Done like a professional.; Nice one.; Las Almas cartel is hiring.; Bad day to be a narco.; Bad day at the office.; He's down.; Good shit. Looks like the scout sniper course is still worth a damn.; His day's over...
+
+''(Every time Gaz misses a shot:)''
+
+'''Price''': (sighs) Seriously, Kyle. Have you had your eyes checked recently?; You're lucky I'm here.; That was close, how about we be more careful.
+
+''Price spots moving patrols down below.''
+
+'''Price''': Stay sharp... We can't let them reach the bodies of the other patrol.
+
+''(If Gaz tries to enter the main building before eliminating the guards outside:)''
+
+'''Price''': We need to take out all exterior cartel before you can make entry, Kyle.; You're getting a bit too close, we're stronger from a distance.
+
+''(If Gaz waits long enough to zoom in on the guards:)''
+
+'''Price''': Use your thermal, see what I'm lined up on.
+
+''(If Gaz zooms back in on the civilians...)''
+
+'''Price''': You're looking at unarmed individuals, Sergeant.
+
+''Eventually, Price and Gaz eliminate all the guards on the outside.''
+
+'''Price''': Looks like we're clear. Time to head down and find a way inside. I'll cover you from here.
+
+''The player can engage in dialogue choices with Price.''{{Tabber2|Why me and not you, Captain?|'''Gaz''': Why me and not you, Captain?
+
+'''Price''': That's why they call me Captain and you Sergeant. Get moving...
+You go, sir. I'll cover you.|You go, sir. I'll cover you.|'''Gaz''': You go, sir. I'll cover you.
+
+'''Price''': Appreciate the offer, Gaz, but let me be clear - move your ass, Sergeant.|Let's go together - Two's better than one, right, sir?|'''Gaz''': Let's go together - Two's better than one, right, sir?
+
+'''Price''': Negative, you need cover and I'm the better shot, Sergeant. Now get going.
+}}'''Gaz''': Roger, copy and check, sir...
+
+'''Laswell''': Be advised - no movement on my side. If they're transporting missiles, they're either long gone or somewhere in these structures.
+
+'''Price''': Let's hope it's the latter...
+
+''Gaz makes his way down to the main building.''
+
+'''Laswell''': You there yet, Sergeant?
+
+'''Gaz''': Bloody hell, Laswell, it's a long way.
+
+'''Price''': We didn't all run cross country in college, Kate.
+
+'''Laswell''': I still run, John. Just gotta stop smoking.
+
+'''Gaz''': You smoke, Laswell?
+
+'''Laswell''': I do... my wife hates it. Tryin'a quit. Jonesing, big-time.
+
+'''Price''': Can I interest you in a cigar, perhaps?
+
+'''Laswell''': No thanks, John.
+
+'''Price''': Hold up. Gaz, you got vehicles headed your way from the rear of the building.
+
+''Gaz spots two enemy vehicles leaving the main building.''
+
+'''Price''': Appears they haven't seen you, go easy. Use the grass to stay concealed. 
+
+''The enemy vehicles park on the road ahead and cartel guards dismount.''
+
+'''Price''': Lay on the grass and hide your weapon. They're exiting the vehicles. You can evade them if you're still. If you're looking for a gunfight, you'll get one.
+
+''(If Gaz chooses to keep his weapon revealed, he can zoom in on a three-man patrol.)''
+
+'''Price''': Careful - He's got sight of three others. Some may split off.; They're wearing armor. Aim for the head if you engage...; Aim for the head.
+
+''If Gaz chooses not to engage, he can hide and slip by the patrols.''
+
+'''Price''': You're clear. Well done, Sergeant.
+
+'''Gaz''': Thanks for the assist, Captain.
+
+'''Price''': Well, you're doing the hard part.
+
+'''Gaz''': Glad you noticed.
+
+'''Price''': It's good training.
+
+'''Gaz''': Are we training, sir? 
+
+'''Price''': We're always training, Sergeant.
+
+'''Gaz''': Word.
+
+''Gaz approaches the hatchery complex.''
+
+'''Price''': Appears you're clear to cross the road and look for a way in.
+
+'''Gaz''': Roger that. On the move.
+
+'''Price''': Several gates open around the main building.
+
+''Alternatively, Gaz chooses to engage the patrol and he will kill them with Price's assistance.''
+
+''(If Gaz throws a grenade...)''
+
+'''Price''': Damn! They saw your grenade!
+
+''Gaz enters the main building through the gate.''
+
+'''Gaz''': Through the gate...
+
+'''Laswell''': Copy. Find a way inside, we need to know if missiles are hidden in those structures.
+
+''Gaz reaches the first building. He tries to open a door, but finds it locked.''
+
+'''Gaz''': Fuckin' hell. 
+
+''Gaz climbs up to the roof where he spots several cartel guards through the skylight windows.'' 
+
+'''Price''': Those skylights should give you the upper hand.
+
+'''Gaz''': Literally...
+
+''Gaz then reaches a ventilation duct.''
+
+'''Price''': Put [[Gas Grenade|tear gas]] in the ventilation, they'll run out like rats. I can help you pick 'em off from here.
+
+''Gaz rips open the duct grating.''
+
+'''Gaz''': Deploying tear gas, get ready, Cap...
+
+'''Price''': Copy, I'm set.
+
+''Gaz throws a tear gas grenade down the duct. It explodes, causing the men to run out in a disoriented state. Gaz shoots down the guards from above. Price snipes an enemy guard.''
+
+'''Price''': Shooter down.; He's down.; Hit one!
+
+''Alternatively, Gaz can simply shoot the enemies through the skylights.''
+
+'''Gaz''': Hot on the roof, cover me...; Roof's leaking.; Heads up, asshole.; Sky is falling, fucker.; Death from above.; Down!; Hit one!; Got another!
+
+''Gaz eventually eliminates the guards inside the first warehouse.''
+
+'''Gaz''': Warehouse is clear.
+
+'''Price''': That container's inside. Check it and inspect the warehouse for any sign of Hassan's missiles.
+
+''Gaz enters the warehouse and opens up the cargo container. Inside, he finds only guns and drugs.''
+
+'''Gaz''': Holy hell... This is definitely a cartel outpost.
+
+'''Laswell''': What do you see?
+
+'''Gaz''': Metric shit-ton of drugs. Warehouse is full of firearms, pills, raw materials.
+
+'''Laswell''': Hassan's in deep with the cartel - But this isn't a drug bust. If those missiles are here, we need to find them.
+
+'''Price''': Gaz, be advised - you got armored patrols moving in from the other building. Appears there's five of them. Suggest using your heartbeat sensor and taking headshots with your suppressed sniper rifle.
+
+''Gaz moves through the area, watching for the armored guards..''
+
+'''Price''': Watch the doors, Gaz.
+
+''Gaz spots an armored guard.''
+
+'''Price''': It's only him.; Aim for the head.; Other guy left, he's all yours.
+
+''Every time an armored guard is killed...''
+
+'''Price''': One down.; That's two.; Three gone.; Four.; Five...
+
+''Once all the armored guards are dead...''
+
+'''Gaz''': Appears you can do math, sir.
+
+'''Price''': Gettin' cheeky, are you?
+
+'''Gaz''': Eh, just taking the piss, Captain.
+
+'''Price''': Good to laugh while we still can.
+
+'''Laswell''': Stay on point, boys...
+
+'''Gaz''': Yes, ma'am.
+
+'''Laswell''': Don't ma'am me... Remember, I can still outrun you...
+
+'''Price''': Area clear of cartel. All dead from rapid onset of holes in the head.
+
+'''Laswell''': I wanna know if it's clear of missiles - check the next building.
+
+'''Price''': Same drill, Gaz... You can breach in, use the skylights or deploy tear gas into the ventilation and watch 'em run for it... You got breachers for the doors if you need 'em, Sergeant.
+
+''Whichever method Gaz chooses to clear the building, he will eventually eliminate all the cartel guards in the second building.''
+
+'''Gaz''': Hatchery building is clear. No containers big enough for a missile.
+
+'''Laswell''': Not sure if that's good news or bad news.
+
+'''Price''': Poke around, and see what else you can find.
+
+'''Gaz''': Rog. On it.
+
+''Gaz enters the hatchery building and searches for anything relevant.'' 
+
+'''Gaz''': What the fuck... This place stinks to high heaven.
+
+'''Price''': It's a fish breeding factory.
+
+'''Gaz''': Well, now I know why you sent me down here alone...
+
+''Gaz continues searching through the building.''
+
+'''Gaz''': Be advised, this is not like the other room- This place is for real with the fish...
+
+''Gaz continues searching.''
+
+'''Laswell''': Watcher to Gaz - Find anything?
+
+'''Gaz''': Negatory.
+
+'''Laswell''': Keep searching.
+
+''Gaz eventually comes upon a stack of documents from maps to schematics of an underground complex beneath the lighthouse. He slams his fist on the table and points to the schematics on the wall ahead.''
+
+'''Gaz''': Found something.
+
+'''Laswell''': What is it?
+
+'''Gaz''': A rendering with schematics. More to this place than we thought. There's tunnels under the lighthouse.
+
+'''Price''': Well, let's circle up and head for the lighthouse, then. Meet me outside.
+
+'''Gaz''': Copy that.
+
+''If Gaz waits too long to meet with Price...''
+
+'''Price''': Outside the hatchery, waitin' on you, Sergeant.
+
+''Gaz meets up with Price at the gates.''
+
+'''Price''': Lighthouse, on me.
+
+'''Laswell''': Guys, let's push. We're a small team - They call in outside reinforcements, this goes real bad real quick. We don't belong here in the first place. If we did, there'd be more of us...
+
+'''Price''': Good call, Kate. Well, let's assume cartel's alerted all guns in the AO. Expect heavy resistance ahead. With the mist and these ghillies, they'll never see us coming.
+
+'''Gaz:''' Scout sniper... This is your jam, Captain.
+
+'''Price''': Like ridin' a bike...
+
+''Price and Gaz make their way to the lighthouse until they reach a ridge overlooking it.''
+
+'''Price''': Let's set up over the ridge. We'll need to account for bullet drop. 
+
+''Price and Gaz spot the lighthouse ahead.''
+
+'''Price''': Bravo to Watcher - We have a visual on the base of the lighthouse. Setting up here.
+
+''Price and Gaz set up position on the ridge.''
+
+'''Price''': I recommend using your sniper rifle, Sergeant. This is prime for it.
+
+''Gaz equips his sniper rifle.''
+
+'''Price''': Scope in and scan the area.
+
+''Price and Gaz scout out the place and find armed guards throughout. As before, they work together to eliminate all the guards in the area.''
+
+'''Price''': Variable zoom comes in handy at this long distance...; We'll need to clear the cartel off this target and move in.
+
+''(If Gaz winds up alerting the enemy, the Cartel guards will run inside the buildings.)''
+
+'''Price''': They're retreating inside for cover. Watch the windows.
+
+''Eventually, Price and Gaz snipe all the guards outside the warehouse.''
+
+'''Price''': You push forward to the lighthouse, and I'll cover you from here.
+
+'''Gaz''': Ah, my turn again, sir.
+
+'''Price''': Well, you were so good at it the first time...
+
+''Gaz moves down the ridge and heads for the lighthouse.''
+
+'''Price''': Bravo to Watcher - Sergeant Garrick is advancing to the lighthouse structures.
+
+'''Laswell''': Copy. Getting your cardio in today, Kyle...
+
+''Price spots enemy movement ahead.''
+
+'''Price''': Gaz - Got movement on the road down there...
+
+''An enemy vehicle drives down the road and parks.''
+
+'''Price''': They're stopping and exiting the vehicle.
+
+''Several armed guards dismount from the vehicle and patrol. Gaz watches from his hiding spot as they approach.''
+
+'''Gaz''': Captain - these guys aren't cartel.
+
+'''Price''': Laswell, you copying this...?
+
+'''Laswell''': Affirm. Gaz, they speaking Arabic?{{Tabber2|Check.|'''Gaz''': Check.
+
+'''Laswell''': AQ - Those are Hassan's men. We found the right address.|Not sure.|'''Gaz''': Not sure.
+
+'''Laswell''': Gotta be Al Qatala. Hassan's men.||
+}}''Gaz can either eliminate the patrol or sneak past them. If Gaz engages the patrol, he will shoot them dead.''
+
+'''Price''': You're clear, Gaz. Good shots, Sergeant.
+
+'''Gaz''': Thanks, sir.
+
+''If Gaz leaves the patrol alone the entire time, they will eventually get back into their vehicle and drive off.''
+
+'''Price''': They're gone. You're safe to move. 
+
+'''Gaz''': That was close.
+
+'''Laswell''': Copy. My guess is they're [[Al-Qatala|AQ]]. Hassan's men. If Hassan's got soldiers here, then something's going down.
+
+'''Gaz''': Or did...
+
+'''Laswell''': There's several outbuildings around the lighthouse. Get up there and check them.
+
+''Gaz makes it to the lighthouse outbuildings.'' 
+
+'''Price''': Clear those buildings, Sergeant.
+
+''Gaz clears out the garage first.''
+
+'''Gaz''': Garage clear.
+
+'''Laswell''': Search it.
+
+''Gaz searches the garage until he finds a stack of Russian crates.''
+
+'''Gaz''': Got something. Cases and crates... All Russian.
+
+'''Laswell''': What's in them?
+
+'''Gaz''': They're empty... Recently unpacked.
+
+'''Laswell''': [[Russia]]'s aligned with Iran.
+
+'''Price''': They may be helping Hassan directly.
+
+'''Laswell''': This is getting bigger, John.
+
+'''Price''': Buildings across the way are still locked down. Let's clear them and find the entrance to those tunnels.
+
+'''Gaz''': Rog. On it.
+
+''Gaz exits the garage and reaches the next outbuilding.'' 
+
+'''Price''': Seeing several options to get inside, Sergeant. Lemme know if you need assistance.{{Tabber2|Tell me.|'''Gaz''': Tell me.
+
+'''Price''': Explosive breach, pick 'em off through the skylights, and tear gas through the vents to flush 'em out.
+
+'''Gaz''': Roger that. Workin' on it...|I'm good, sir.|'''Gaz''': I'm good, sir.
+
+'''Price''': Copy. Get after it and stay sharp.||
+}}''Just like before, he clears out the building of all cartel guards.''
+
+'''Gaz''': Interior clear.
+
+''Gaz enters an office room and finds stacks of drugs and boxes throughout.''
+
+'''Gaz''': Smugglers' paradise in here.
+
+'''Laswell''': What's in there?
+
+'''Gaz''': Enemy KIA and enough parcels of god knows what - Definitely drug related.
+
+'''Price''': Missiles?
+
+'''Gaz''': Negative. Looks like their living quarters as well.
+
+'''Price''': Hold there, Gaz. I'm comin' to ya. We need to find an entrance to those tunnels.
+
+''Price enters the building.''
+
+'''Price''': Coming in, Gaz... Check fire.
+
+'''Gaz''': Copy that.
+
+'''Price''': Search for a way in to the tunnels. Could be something, behind the walls, or hidden in the floor.
+
+'''Laswell''': Find that tunnel entrance, boys.
+
+''(If Gaz still hasn't found the tunnel entrance...)''
+
+'''Price''': Keep searching, tunnel entrance has to be here somewhere.
+
+''Price and Gaz search a laundry room until they find a washing machine propped up against the wall.''
+
+'''Gaz''': May have found something here, Captain. Give us a hand, yeah...?
+
+'''Price''': I'll push, you pull.
+
+'''Gaz''': Yep.
+
+''Price and Gaz work together to move the washing machine aside, revealing a secret entrance to a passageway. Inside the passageway is a hole in the floor and a rope leading down the hole.''
+
+'''Price''': Kate, we found a passageway.
+
+'''Laswell''': Good work.
+
+'''Price''': Look at this.
+
+'''Gaz''': Jackpot.
+
+'''Laswell''': Be advised. Multiple boats approaching my position.
+
+'''Gaz''': Need help?
+
+'''Laswell''': Could be fishermen. Stay on mission.
+
+'''Price''': On me.
+
+''Price grabs the rope and rappels down the hole. Gaz follows after.''
+
+'''Gaz''': Descending...
+
+''Just as Gaz reaches the bottom of the hole, Price swiftly kills a cartel guard with his knife.''
+
+'''Price''': Cartels love their tunnels.
+
+'''Gaz''': Wish I could say the same. Age before beauty, Captain.
+
+''Price and Gaz make their way down the tunnels.''
+
+'''Gaz''': Bloody extensive.
+
+'''Price''': Must lead out to the water.
+
+''Price and Gaz jump down another hole and into another tunnel.''
+
+'''Price''': Kate, I'm in the tunnels, heading toward the coastline. You okay?
+
+'''Laswell''': Boats are still closing, no trouble yet.
+
+'''Price''': I don't like this, Kate.
+
+'''Laswell''': Comes with the territory, John--
+
+'''Price''': You shouldn't be out there alone.
+
+'''Laswell''': I'm not alone - I'm armed and dangerous, Captain. Out.
+
+''Price and Gaz reach a cavern that's been converted into a submarine docking pen. They encounter more cartel guards and kill them.''
+
+'''Gaz''': All clear.
+
+'''Price''': End o' the line... Hey - have a look at this. Submarine.
+
+'''Gaz''': Fuckin' hell.
+
+'''Price''': Cartels use them for transport.
+
+'''Gaz''': Thing's big enough for a missile.
+
+'''Price''': Barely. You couldn't cross the Atlantic in that heap. Kate, we're in a cave, just off the coast. No personnel, no missiles.
+
+'''Laswell''': Copy. I'm directly across... I think I've got problems here, John.
+
+'''Price''': Copy, stand by. Gaz - get your gun up toward the ocean.
+
+'''Gaz''': What is it...?
+
+''Gaz looks through his sniper scope and sees Laswell's boat under siege.''
+
+'''Laswell''': Boats are closing in. Looks like AQ - They have weapons... Contact-! Engaging...
+
+'''Price''': KATE-!!
+
+''Al Qatala's boats approach Laswell's and several fighters board.''
+
+'''Price''': FUCK, they're boarding! KATE...! KATE...!
+
+'''Gaz''': LASWELL-! Fuck! What the fuck-! I can't see what's happening...!
+
+'''Price''': They have her hemmed in - she's surrounded.
+
+'''Laswell''': Al Qatala's on the boat, they're taking it or me...
+
+'''AQ Abductor 1''': (in Arabic) Drop your weapon, drop your weapon or you will die without mercy-!
+
+'''Laswell''': (in Arabic) I will not surrender.
+
+''The Al-Qatala soldiers restrain Laswell as she struggles against them.''
+
+'''AQ Abductor 1''': (in Arabic) Take her, take her!
+
+'''AQ Abductor 2''': (in Arabic) Let's go, brothers, take her now, now!
+
+''Al Qatala's boats leave with Laswell in their custody.''
+
+'''AQ Abductor 2''': (in Arabic) Comply, comply, you are a prisoner in the name of Al Qatala.
+
+'''Laswell''': ---Get your fucking hands off of me--!!
+
+'''Price''': Laswell, Laswell...! She's on the AQ boat -- They're taking her...
+
+'''Gaz''': They got her, Captain. They took Laswell...
+
+'''Price''': Well, let's get off the X and talk to Shepherd. Let's go.
+
+''Price gives Gaz a hand up to the platform.''
+
+'''Gaz''': We need to get Laswell back.
+
+'''Price''': Let's move.
+
+''Price and Gaz leave the area.''
+
+''Cut to black. End of level.''
+{{CoD19 CampaignT}}
+
+[[Category:Call of Duty: Modern Warfare II Transcripts]]

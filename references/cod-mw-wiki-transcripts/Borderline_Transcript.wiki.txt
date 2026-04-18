@@ -1,0 +1,493 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_II_Transcripts -->
+<!-- title: Borderline/Transcript -->
+
+{{game|mwii}}
+==Cutscene==
+''A GPS map of Amsterdam is seen being zoomed out on a computer. [[Kate Laswell]] contacts Colonel'' ''[[Alejandro Vargas]], a member of [[Task Force 141 (Reboot)|Task Force 141]], and head of the [[Los Vaqueros]] unit of the Mexican Special Forces.'' 
+
+'''Laswell''': Colonel Vargas... 
+
+'''Alejandro''': Station Chief Laswell... I thought we were on a first name basis... This must be serious.
+
+'''Laswell''': It is. I need your help, Alejandro.
+
+''GPS map zooms on the [[United States of America|US]] border between Mexico.''
+
+'''Alejandro''': ''Dime''. (Tell me.)
+
+'''Laswell''': The [[Las Almas Cartel|Las Almas cartel]] is smuggling an [[Iran|Iranian]] terrorist over the border.
+
+''The computer screen shows three surveillance images in Amsterdam and one of the images circled in red with a ship sporting the Las Almas cartel logo. The display then shows a surveillance drone flying around the border between the United States and Mexico and the drone is unable to locate the thermal signatures.''  
+
+'''Alejandro''': Laswell, terrorists don't cross the southern border.
+
+'''Laswell''': We know that, and they know that, and that is exactly why they're gonna do it. I need you to stop it.
+
+'''Alejandro''': Who's my target?
+
+''A photo of [[Hassan Zyani]] appears.''
+
+'''Laswell''': Major Hassan Zyani. 
+
+'''Alejandro''': Copy. When?
+
+'''Laswell''': Tonight. Tapped into a surveillance drone. Eyes on.  ''(Not subtitled but heard in the cutscene)''
+
+''The GPS map zooms in and screen transitions to US-Mexico border at night. [[Law Enforcement|United States Border Patrol]] vehicles are seen rushing to the scene with their light and sirens on. The United States Border Patrol arrives on scene and converges on the migrants in the river who have crossed the border illegally.''
+
+'''US/MEXICO BORDER'''
+
+'''Laswell''': ''(on radio)'' You've got movement down there, Alejandro.
+
+'''Alejandro''': Migrants are in the water - Border Patrol's responding.
+
+'''Laswell''': Narcos use the migrants as a distraction. They could be moving Hassan as we speak.
+
+''Alejandro and his associate [[Rodolfo Parra]] are seen in a speed boat heading down the river.''
+
+'''Alejandro''': Copy. Where's [[Federal Bureau of Investigation|FBI]] on this?
+
+'''Laswell''': FBI's an hour out. Right now you're all we got.
+
+'''Alejandro''': Stand by.
+
+''Alejandro turns to talk to Rodolfo.''
+
+'''Alejandro''': ''Rodolfo - Los migrantes son una distracción. Sujeto está en movimiento. (''Rodolfo - Migrants are a diversion. Target's on the move.) 
+
+'''Rodolfo''': ''Parece que cruzaron el río en una lancha.'' ''Vamos a buscarlos.'' (They probably crossed the river in a boat. Let's find it.)
+
+'''Alejandro''': ''Órale.'' (Good call.) ''(to Laswell)'' We're on it, Watcher.
+
+'''Laswell''': Alejandro - Do not let Hassan cross the border.
+
+'''Alejandro''': Solid copy. Out.
+
+'''Rodolfo''': ''Si cruza la frontera, güey, no tenemos jurisdicción.'' (If he gets over, we have no jurisdiction in the US.)
+
+'''Alejandro''': ''Nos encargaremos de que no pase.'' (Let's make sure that doesn't happen.)
+
+''They continue down the river and spot an abandoned boat on the border.''
+
+'''Rodolfo''': ''Mira, Coronel... ahí, hacia el norte.'' (Look, Colonel... there, north side...)
+
+'''Alejandro''': ''Esa es su lancha. Párate aquí.'' (That's their boat. Stop here.)
+
+''They moor their boat next to the abandoned boat and Alejandro pulls it towards the shore.  The camera swaps to Rodolfo's point of view. They hear a group of people speaking Spanish. Alejandro and Rodolfo pull out their weapons.''
+
+==Gameplay==
+'''RODOLFO PARRA - [[Los Vaqueros|LOS VAQUEROS]]'''
+
+'''BORDERLINE'''
+
+'''US/MEXICO BORDER'''
+
+'''29 OCT 2022, 2200'''
+
+'''Alejandro''': ''Órale, escucha. El cartel está moviendo rápido a Hassan.'' (Hey, listen- Cartel's moving Hassan fast.)
+
+'''Rodolfo''': ''Todavía lo podemos agarrar antes de que crucen.'' (We can still catch them before they cross.)
+
+'''Alejandro''': ''Entendido''. ''El muro está adelante. Prepárate.'' (Roger that. The wall is up ahead. Be ready.)
+
+'''Rodolfo''': ''El Cartel de Las Almas está trabajando con Iran. Esto es nuevo. ¿Y si Hassan cruza?'' (Las Almas Cartel working with Iran...this is new ground. And if Hassan crosses?)
+
+'''Alejandro''': ''Cambiamos la estrategia .'' (Tactics change.)  
+
+''A cartel member is heard speaking to other cartel members.''
+
+'''Cartel Member 1''': ''(in Spanish)'' Get him to the stash house. 
+
+'''Cartel Member 2''': ''(in Spanish) (to Cartel Member 1)'' Are the ferrymen on their way? 
+
+'''Cartel Member 1''': ''(to Hassan)'' Pickup is at Flores and Barajas''.'' 
+
+'''Cartel Member 2''': ''Estaremos ahi.'' (We'll be there.) 
+
+'''Alejandro''': ''¡Escucha-!'' ''Voces...'' (Listen-! Voices..)
+
+''They turn off their flashlights as they approach the border wall.''
+
+'''Alejandro''': ''Yo veo a cuatro vándalos. Apaga la luz.'' (I count four hostiles. Kill your light.)
+
+''A large ladder is being set against the border wall. Two people are seen climbing up the ladder while two other cartel members stand guard.''
+
+'''Alejandro''': ''Veo a Hassan. Arriba del muro.'' (Visual on Hassan. Top of the wall.)
+
+''Hassan crosses into the US side of the border.'' 
+
+'''Alejandro''': ''¡Mierda - acaba de cruzar! No lo podemos perder... Tenemos que interceptarlo.'' (Shit - he just crossed! We can't lose him... We have to engage.)
+
+''Cartel member 1 climbs back down the ladder and informs the two other cartel members that Hassan has made to other side.''
+
+'''Cartel Member 1''': ''(in Spanish)'' He's over, grab the ladder.
+
+'''Cartel Member 2''': ''(in Spanish)'' Easy Money.
+
+'''Cartel Member 1''': ''(in Spanish)'' (''to Cartel Member 2)'' Moving the Iranian is always easier - and pays a lot more.
+
+'''Alejandro''': ''¡Es tuyo!'' (On you!)
+
+'''Cartel Member 1''': ''(in Spanish) (When getting attacked)'' Oh fuck-!
+
+''Rodolfo and Alejandro take out the three cartel members.''
+
+'''Alejandro''': ''¡Despejado!'' (Clear!)
+
+'''Rodolfo''': ''¡Despejado!'' (Clear!)
+
+'''Alejandro''': Watcher, the target crossed. He's on the move. We're pursuing.
+
+'''Laswell''': Colonel, that is not advisable. You have no authority or assets in the area.
+
+'''Alejandro''': I know. Just keep pushing FBI - and contact local PD. Out. ''Rodolfo, usa la escalera. ¡Ándale!'' (Rodolfo, use the ladder. Move!)
+
+''They climb the ladder over the steel wall into Texas. Rodolfo looks around the area for Hassan.''
+
+'''Alejandro''': ''¿Echaste un ojo?'' (Any visual?)
+
+'''Rodolfo''': ''Negativo. Se fue corriendo...'' (Negative. He ran...)
+
+'''Alejandro''': ''Vamos a perseguirlo. Órale. (''We're going after him. Let's go.)
+
+''They climb down and begin searching.''
+
+'''Alejandro''': ''El cartel lo va a llevar a una casa de seguridad en el pueblo. Tenemos que encontrarlo.'' (Cartel will move him to a stash house in town. We'll have to find it.)
+
+'''Rodolfo''': ''Entendido''. (Roger.)
+
+'''Alejandro''': ''Hassan tiene más amigos aquí que nosotros. Esté atento.'' (Hassan has more friends here than we do. Stay sharp.)
+
+''A dog is heard barking and man in a trailer home sees a cartel member crossing through his yard. Alejandro quietly opens a yard door into the trailer park.''
+
+'''Trailer Male''': ''(to Cartel Member 4)'' Hey! Get the fuck out of my yard!
+
+'''Cartel Member 4''': ''¿Quieres que te mate, gringo? ¡Entonces retrocede!'' (You want a bullet, gringo?! Back the fuck off!)
+
+'''Trailer Male''': Piece of shit!
+
+'''Alejandro''': ''Por aquí. ¡Vamos!'' (Hassan's moving this way. C'mon!)
+
+''The trailer male's wife looks out the window and sees Alejandro and Rodolfo in their backyard.''
+
+'''Trailer Female''': Someone's out there.
+
+'''Trailer Male''': ''(looks through window)'' Motherfuckers.
+
+'''Alejandro''': ''Por acá.'' (This way''.'')
+
+''The trailer male and his wife decide to step outside to confront the two men.''
+
+'''Trailer Male''': Hey! What the hell are you doing?!
+
+'''Alejandro''': We're Special Forces. Stay inside.
+
+'''Trailer Male:''' You're in my yard, asshole!
+
+''Rodolfo points his weapon to de-escalate the man.''
+
+'''Rodolfo''': Get back inside!
+
+'''Trailer Male''': ''(sees the weapon)'' Oh shit!
+
+''The man and his wife get inside and close the door.''
+
+'''Alejandro''': ''El campo está libre. Muévete.'' (Yard's clear. Move up.)
+
+''Alejandro noticed that someone was hurrying to close a garage door across the street.''
+
+'''Alejandro''': ''La casa de la esquina.'' (House at the corner.)
+
+'''Rodolfo''': ''Entendido. Lo veo.'' (Copy. Visual.)
+
+'''Alejandro:''' (in Spanish) Over here. At the gate.
+
+''They approach the garage of a house.''
+
+'''Alejandro''': ''Abrela. Yo lo cubro.'' (Open it. I'll cover.)
+
+''Rodolfo lift the garage door open and they both enter.'' ''An angry man can be heard screaming in the house.''
+
+'''Civilian Male 2''': ''(to cartel member)'' Get the fuck out! ''(to wife)'' Donna, get the shotgun!
+
+'''Alejandro''': ''Cuidado, Sargento.'' (Careful, Sergeant.)
+
+'''Civilian Male 2''': ''(to cartel member)'' Police are on their way!
+
+'''Cartel Member 4''': ''(to man)'' Fuck off, gringo! This way, Major!
+
+'''Alejandro''': ''Párate en la puerta. Hay gente que vive en estas casas – y nosotros no somos de aquí, güey.'' (Get on the door. These are people's homes - and we don't belong here.)
+
+''Rodolfo opens the door and they get inside the house. They let the inhabitants in the house know that they are present. Alejandro searches the bedroom for cartel members.''
+
+'''Alejandro''': Special Forces! 
+
+'''Rodolfo''': Special Forces! 
+
+''A window shatters as some cartel members can be heard fleeing the house. Alejandro clears a room and gives the thumbs up to Rodolfo.''
+
+'''Alejandro:''' ''El cuarto está vacío. Muévete.'' (Bedroom clear. Move up.)
+
+''The male owner of the home spots Rodolfo and starts swinging his baseball bat at him.''
+
+'''Civilian Male 2''': Mother fuckers! You want some too?!
+
+''Rodolfo points his weapon at the man.''
+
+'''Rodolfo''': Drop your weapon!
+
+'''Civilian Male 2''': Fuck you! Get outta my house! You got three seconds to fuck off!
+
+<tabber>
+
+If the player continues to de escalate= 
+'''Rodolfo''': ''(more assertive)'' Get the fuck back! Now!
+
+''The man puts his hands up and drops the bat.''
+
+'''Civilian Male 2''': ''(scared)'' Okay, don't shoot! Don't shoot!
+
+'''Alejandro''': ''(to male civilian)'' The men who came through here, where did they go?
+
+'''Civilian Male 2''': T-they went that way!
+|-|
+If the player leads the man to Alejandro=
+
+''Alejandro will charge out the bedroom. He tackles the man against the wall and disarm man from his bat. Alejandro then knocks the man unconscious to ground the with butt of his rifle.''  
+
+'''Civilian Female 2''': Matt! NO, no, no!
+
+''Rodolfo and Alejandro continue moving through the house.''
+</tabber>
+<br>''The cartel members can be heard stumbling onto stuff outside.''
+
+'''Alejandro''': ''Rodolfo, vamos.'' (Rodolfo, let's go.)
+
+''They head down a narrow alleyway.''
+
+'''Alejandro''': ''Hassan se escapó. Hay que moverse.'' (Hassan's gone. We gotta move.) 
+
+''(If Rodolfo hesitates to move...)''
+
+'''Alejandro''': ''(in Spanish)'' Down the alley, Sergeant. Move.
+
+''Alejandro and Rodolfo continue on.''
+
+'''Alejandro''': Watcher- We're at the corner of Flores and Barajas. Target is moving west to stash house.
+
+'''Laswell''': Copy. I've got local PD comin' your way.
+
+'''Alejandro:''' Roger. Out.
+
+''Rodolfo and Alejandro run down the alley way. A truck can be seen heading down the alley and the two cartel members inside the truck spot them.'' 
+
+'''Cartel Member 2''': ''¡Oigan! ¡Están por allá!'' (Hey! They're right there!)
+
+'''Cartel Member 3''': ''¡Oigan! ¡Los veo!'' (I see them!)
+
+'''Cartel Member 2''': ''(in Spanish)'' Move your ass!  
+
+''The driver of the truck speeds down the alley and attempts run over them.''
+
+'''Alejandro''': ''¡Patrullas del cartel-! ¡Chingatelos!'' (Cartel patrols-! Take 'em out!)
+
+''Rodolfo and Alejandro gun down both cartel members in the truck. Another cartel patrol comes along and they take out the cartel members.''
+
+'''Alejandro''': ''¡Despejado!'' (All clear!)
+
+'''Rodolfo''': ''¡Despejado!'' (Clear!)
+
+''Alejandro notices that objects in somebody's yard are spilled all over the place.'' 
+
+'''Alejandro''': ''Mira - se fueron por allí.'' (Look - they went this way.)
+
+''Alejandro moves a fallen shelf out of the way.''
+
+'''Alejandro''': ''¿Estás bien?'' (You good?)
+
+'''Rodolfo''': ''No es nada./Ni un rasguño. ¿Y tú?'' (It's nothing./Not a scratch. You?)
+
+'''Alejandro''': ''Estoy listo, güey. Por aquí...'' (Good to go. Through here...)
+
+''Alejandro and Rodolfo move past the shelf.''
+
+'''Alejandro''': ''Es mío.'' (On me.)
+
+'''Rodolfo''': ''Puede que Hassan esté solo.'' (Hassan may be alone.)
+
+''Alejandro and Rodolfo enter the house.''
+
+'''Alejandro''': ''Pero no por mucho tiempo.'' (Not for long.) Special Forces! Get down!
+
+'''Rodolfo''': Special Forces! 
+
+''A man and a woman spot Alejandro and Rodolfo entering the house.''
+
+'''Civilian Male 3''': What the fuck?! Get the fuck outta my house!
+
+'''Alejandro''': I'm not here to hurt you, I'm looking for someone...!
+
+''The woman is scared and runs into a bedroom. Alejandro chases after her. Another man comes into the living room to hear the commotion.'' 
+
+'''Alejandro''': ''¡A la verga-! ¡No los pierdas de vista!'' (Shit-! Stay on 'em!)
+
+''Rodolfo pulls out his gun on the two men to de-escalate the extremely hostile situation.''  
+
+'''Rodolfo''': ''(to the two men)'' The man who came through here, where is he?!
+
+'''Alejandro''': ''(to woman)'' Hey! Hold it!
+
+'''Civilian Male 4''': (to woman) Yessenia!
+
+''Rodolfo notices the two men trying to reach for their weapons.''
+
+<tabber>
+''If the player is able to keep an eye on both men''=
+
+'''Rodolfo''': Hands up!
+
+'''Civilian Male 3''': Don't fucking touch her!
+
+''Rodolfo notices civilian male 4 attempting to grab the shotgun that is mounted  to the wall.''
+
+'''Rodolfo''': On the right!/On the left! Stop moving! Don't fucking move! ''(to the two men)'' Answer the question! I'm talking to you!; You deaf?!; I said hands up!
+
+'''Civilian Male 3''': Outside! He ran to the stash house!
+
+'''Rodolfo''': Which one's the stash house?
+
+''Rodolfo points his weapon at civilian male 4.''
+
+'''Civilian Male 4''': Blue, two-story. End of the street! You got what you want, now leave!
+
+''Alejandro leaves the woman. He picks up the wall mounted [[Bryson 800]] shotgun and ejects the shells, He then throws it on the floor. He orders the civilian male 3 to turn around and takes man's [[P890]] handgun out of his waistband. Alejandro pushes the two men back.''
+
+'''Alejandro''': ''(to Male Civilian 3)'' You should think about moving.
+
+''Alejandro empties the handgun and tosses it to ground.'' 
+|-|
+
+If the player fails to keep an eye on both men''=
+
+''If not watched, both or one of them grab their weapons and start shooting at Alejandro and Rodolfo.''
+
+'''Alejandro''': ''A la verga.'' (Fuck.)
+
+'''Alejandro''': (radios Laswell) Watcher- Send medical. Civilian down.''
+</tabber>
+<br>'''Alejandro''': ''Rodolfo - vamanos.'' (Rodolfo - let's roll.)
+
+'''Rodolfo''': ''Entendido''. (Roger that.)<br /><br>''Alejandro and Rodolfo exit the house and head to the stash house.''
+
+''(If Rodolfo wound up shooting the two civilians...)'' 
+
+'''Rodolfo''': ''¿Cuál casa es nuestro objetivo?'' (Which house is our target?)
+
+'''Alejandro''': ''Empezamos con la azul de dos pisos.'' (Start with the blue two-story.)
+
+'''Rodolfo''': ''¿Por qué?'' (Why?)
+
+'''Alejandro''': ''La luz de seguridad se acaba de apagar.'' (Their security light just turned off.)
+
+''Police sirens can be heard approaching the area.''
+
+'''Alejandro''': ''(in Spanish)'' Local PD! Laswell came through.
+
+''Two police cars arrive and the four cops have their weapons drawn at them. A police officer shouts commands at them.'' 
+
+'''Local Police''': Drop your fucking weapons! Right now!
+
+'''Local Police 2''': Freeze! Drop the gun!
+
+'''Alejandro''': ''Solo haz lo que te dicen. Nosotros lo arreglamos.'' (Just do what they say. We'll clear it up.) 
+
+'''Rodolfo''': The hell is this?! 
+
+''Alejandro and Rodolfo drop their weapons on the ground and raise their hands.''
+
+'''Local Police''': Do exactly what I say, or I'll fuckin' shoot you! Understand?! 
+
+'''Alejandro''': We're on the same side!
+
+'''Local Police''': Step forward to me! I want to see empty hands above your head! I will shoot you if I have to!
+
+'''Alejandro''': I'm Colonel Alejandro Vargas, Special Forces! We're after a known terrorist!
+
+''One of the officers named Gomez is about to cuff Alejandro, but a higher ranking police officer with a cowboy hat intervenes.''
+
+'''Local Police''': Gomez, hold up. These are her guys. Heh. Hard to tell you boys apart from the cartel. Where's your suspect?
+
+'''Alejandro''': We tracked him to that house-
+
+''A cartel member fires an RPG-7 from the stash house. The blast blows up the police cars, knocking everyone to the ground and killing two cops. Two cartel members are seen approaching who gun down the two wounded cops.'' ''Rodolfo grabs an'' ''[[X12]] pistol off the dead cowboy hat cop's duty belt and Alejandro picks up a gun off the ground and they shoot the two cartel members. Rodolfo and Alejandro get up as the cartel members fire at them from the stash house.''
+
+'''Alejandro''': ''¡Rodolfo, vamos!'' (Rodolfo! We gotta move!) 
+
+''Alejandro and Rodolfo take cover behind the burning police cruisers.''
+
+'''Alejandro''': ''Vienen dos más. Dispárales cuando se acerquen.'' (Two more incoming. Engage when they're close.)
+
+''They gun down the last remaining cartel members outside.''
+
+'''Alejandro''': ''Encargate del interior. Yo bloqueo las salidas.'' (Sweep the interior. I'll lockdown the exits. Make entry. I've got the exterior.)
+
+''Rodolfo enters the house.''
+
+'''Rodolfo''': ''Entrando.'' (Making entry.)
+
+''Rodolfo sweeps the house of cartel members.'' ''A cartel woman appears from the hallway. She drops her rifle on the ground and puts her hands up as she sees Rodolfo and shouts to her comrade who is in the kitchen.''
+
+'''Cartel Woman''': ''¡Guillermo! ¡Policia!'' (Guillermo! Police!)
+
+''Rodolfo shoots her associate and she begins to panic. (She will try to grab her gun if not held at gun point.)''
+
+'''Cartel Woman''': ''¡No dispare! ¡No dispare!'' (Don't shoot! Don't shoot!) 
+
+''She will be seen running out the back door.''
+
+'''Rodolfo''': ''Cuidado con los enemigos. Vamos para el segundo piso.'' (Watch for squirters. Moving to second floor.) 
+
+''Rodolfo sweeps the second floor and clears some rooms of cartel members. Rodolfo enters the last room where Hassan may be hiding in. Rodolfo fires at a cartel member but is injured by a cartel member in another room. Another cartel member sneaks up behind Rodolfo and hits him with an'' ''assault rifle, knocking Rodolfo to the ground. One of the cartel members then raises his gun to fire, but Hassan shows up.''
+
+'''Hassan''': ''(to cartel members)'' Burn everything,
+
+''Hassan grab Rodolfo by the head.''
+
+'''Hassan''': Do you know who I am?
+
+'''Rodolfo''': You're a terrorist, pendejo.
+
+'''Hassan''': I'm a soldier. And I'm here to fight.
+
+''Hassan slaps him.'' ''A cartel member is seen dumping gas on Hassan's plans and lights it on fire. One of the cartel members is ready to shoot Rodolfo.''
+
+'''Hassan''': No. Let him burn, as [[Ghorbrani]] [[Strike (level)|burned]]. 
+
+''The cartel member bashes Rodolfo in the head with the butt of his rifle. The three men rush out the house as the fire begins spreading.''
+
+'''Alejandro''': ''Oye, veo humo. ¿Cuál es el estatus? (on radio)'' (Hey, I'm seeing smoke. What's your status?)
+
+''An injured Rodolfo wakes up and tries to move.''
+
+'''Alejandro''': ''¿Rodolfo? ¡Me muevo pa' adentro! (on radio)'' (Rodolfo? I'm moving interior!)
+
+'''Rodolfo''': ''No, Coronel- no puedo salir.'' (Colonel, don't - I'm not getting out...)
+
+'''Alejandro''': ''¿Dónde estás compa? (on radio)'' (Rodolfo! Where are you?!)
+
+'''Rodolfo''': ''Escuchame, Hassan se fue. Lo están moviendo pa' afuera...'' (Listen, Hassan is gone. They're moving him...)
+
+'''Alejandro''': ''(in Spanish) (on radio)'' --Rudy!?
+
+''Rodolfo looks at the burning plans and tries to relay the information to Alejandro.''
+
+'''Rodolfo''': ''Algo está cruzando el Atlántico... Hay un barco, entregando algo.'' (Something crossing the Atlantic... There's a ship, delivering something.)
+
+''Alejandro rushes in where Rodolfo is and helps him up.''
+
+'''Alejandro''': ''¡Fuerza, compa! ¡Aquí te apoyo!'' (Hang on, brother! I got you!)
+
+''They both exit the house. Mission ends.''
+
+{{CoD19 CampaignT}}
+[[Category:Call of Duty: Modern Warfare II Transcripts]]

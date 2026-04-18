@@ -1,0 +1,549 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_III_Transcripts -->
+<!-- title: Precious Cargo/Transcript -->
+
+{{game|mwiii}}
+== Cutscene ==
+''Captain [[John Price (Reboot)|John Price]], Sergeants [[Kyle "Gaz" Garrick]] and [[Johnny "Soap" MacTavish]], and Lieutenant [[Simon "Ghost" Riley (Reboot)|Simon "Ghost" Riley]] sit in the loading area of a military airplane. Price is smoking a cigar while a jumpmaster stands by the loading ramp's controls.''
+
+'''Jumpmaster''': 30 seconds to the DZ!
+
+''The jumpmaster hits a button as the lights inside go green and the ramp opens up. Price puts out his cigar as he and the other three members of [[Task Force 141 (Reboot)|Task Force 141]] stand up and walk up to the ramp opening. [[Kate Laswell]]'s voice rings over the radio.''
+
+'''Laswell''': Watcher-1 to Bravo-6... Watcher to bravo, over.
+
+'''Captain John Price''': Laswell, go for 6.
+
+'''Laswell''': John - [[Vladimir Makarov (Reboot)|Makarov]] is out!
+
+'''Captain John Price''': ''(alarmed)'' Say again, Laswell.
+
+'''Laswell''': [[Operation 627|Makarov is OUT]]! He's on the move, John.
+
+''Price turns to the jumpmaster.''
+
+'''Captain John Price''': ABORT! Turn us around! Turn us around, NOW!
+
+''Price, Gaz, Soap, and Ghost walk away from the ramp.''
+
+''The scene changes to...''
+
+'''URZIKSTAN'''
+
+''A jeep drives up to the gates of a seaport. The guard signals for the jeep to halt. [[Farah Karim]] and [[Alex Keller]] exit the jeep. Farah whistles to her comrades of the [[Urzikstan Liberation Force]] as two more jeeps with her soldiers drive up. Farah talks over the radio to [[Phillip Graves]], the commander of [[Shadow Company (Reboot)|Shadow Company]].''
+
+'''Farah''': Shadow 2, Kilo Actual. At the port now. Will confirm when cargo is in my possession, stand by.
+
+'''Graves''': Roger that, Kilo.
+
+'''Alex''': We good to go?
+
+'''Farah''': So far.
+
+'''Alex''': This is a game changer.
+
+'''Farah''': Let's hope we never have to use them. ''(in Arabic, over radio)'' Hold a perimeter. ''(in English, to Alex)'' Stay on comms.
+
+'''Alex''': Roger that.
+
+''Alex and the ULF soldiers enter their jeeps and drive off as Farah walks up to [[Dena]].''
+
+'''Farah''': Dena...
+
+'''Dena''': Farah.
+
+''Farah and Dena hug as they converse in Arabic.''
+
+'''Farah''': Your mother is well?
+
+'''Dena''': She's a fighter. Like you. Come.
+
+''Farah and Dena walk over to Dena's jeep. They drive through the seaport as they continue talking in Arabic.''
+
+'''Dena''': I've done everything you've asked. Your containers are secure. The port's empty except for us.
+
+'''Farah''': And the harbor? 
+
+'''Dena''': Closed since yesterday.
+
+'''Farah''': Good.
+
+'''Dena''': Farah... This is not my business, but...
+
+'''Farah''': Tell me.
+
+'''Dena''': This cargo must be very powerful...
+
+'''Farah''': It is...
+
+'''Dena''': After all these years, Urzikstan has peace again. We are living our lives.
+
+''Dena and Farah clasp hands.''
+
+'''Dena''': Please... Do what you must to keep it that way. We're all with you.
+
+'''Farah''': Of course.
+
+'''Dena''': Your containers are on the-
+
+''A shot rings out all of a sudden and hits Dena in the head. Dena slumps lifelessly as the vehicle spirals out of control. Farah grabs hold of the steering wheel and tries to regain control of the jeep.''
+
+'''Farah''': Dena! Dena!! Fuck! Fuck!!
+
+''The jeep flips upside down and crashes.'' 
+
+''Cut to black.''
+
+== Gameplay ==
+''Farah lies unconscious on the ground as the radio crackles with Alex's voice.''
+
+'''Alex''': This is Echo 3-1! Troops in contact! Kilo's vehicle is down!
+
+''Farah regains consciousness.''
+
+'''Alex''': ...I say again--! Troops in the open--! Taking effective fire from multiple locations...
+
+'''Graves''': Copy that, hold your position.
+
+''Farah props herself up as an explosion flares in the distance.''
+
+'''FARAH KARIM - ULF, SHADOW'''
+
+'''PRECIOUS CARGO'''
+
+'''NORTH PORT, URZIKSTAN'''
+
+'''10 NOVEMBER, 2023, 0600'''
+
+'''Graves''': Shadow 0-1 to Kilo, do you read me?
+
+''Farah crawls forward and picks up a combat knife''
+
+'''Graves''': Kilo... Farah, do you copy?
+
+''Several shots fly nearby as [[Konni Group]] troops assault the port.''
+
+'''Farah''': This is Kilo. We were ambushed. Dena is KIA...
+
+'''Alex''': It's Konni! They're everywhere, Commander!
+
+'''Farah''': The missiles. They're going for the missiles...!
+
+'''Graves''': We can't let them do that, Farah.
+
+'''Farah''': I need weapons.
+
+'''Graves''': Look for containers with a Shadow insignia. They'll have what you need to fight Konni./Find containers marked with Shadow insignia. They'll have what you need to hunt Konni.
+
+'''Farah''': You were shipping more than just missiles?
+
+'''Graves''': Plenty more...Lucky for you.
+
+''(If Farah doesn't start moving immediately...)''
+
+'''Graves''': Konni's not waiting for you, Kilo. Gear up and get evil on these sumbitches.; Move fast, Kilo. Time ain't on our side here...
+
+''Farah makes her way through the port until she reaches the cargo container marked by Shadow Company.''
+
+'''Farah''': I'm at the container.
+
+'''Graves''': Copy. That gear gives you an edge, but there's still an army of Konni between you and those missiles.
+
+'''Farah''': I will not allow Konni to steal these missiles. Whatever it takes.
+
+'''Graves''': We're gonna need a contingency. Commander, I have GPS trackers on my ship. You plant those on the missiles, we'll never lose visual. 
+
+'''Farah''': I still need to locate the containers. Dena would've known where to find them...
+
+'''Graves''': Shipping manifest would be in the harbormaster's office.
+
+'''Farah''': The tower.
+
+'''Graves''': Affirmative.
+
+'''Farah''': Copy that.
+
+'''Graves''': Could still make a direct play for the missiles. [[GPS]] is our insurance policy.
+
+'''Farah''': Copy that, Graves. No retreat, no surrender.
+
+'''Graves''': Like I said, Farah, I like your style.
+
+''Farah can equip herself with all the weapons and gear in the container.''
+
+'''Graves''': [[Knife]]'s not gonna be enough, Commander. Even for you.
+
+''(If Farah finds another Shadow container...)''
+
+'''Farah''': Found a Shadow container I can access.
+
+'''Graves''': Urzikstan is our go-to port of call in this region. Take what suits ya.
+
+'''Farah'''; What will I owe you, Graves? I pay my debts...
+
+'''Graves''': Not a thing. I want these bastards eradicated, much as you do...
+
+''(If Farah finds another supply container...)''
+
+'''Farah'''; Spotted a container I could open.
+
+''(If Farah finds a [[Recon Drone|recon drone]] in a supply box...)''
+
+'''Farah''': There's a drone, if I need to survey the area.
+
+'''Graves''': Good find.
+
+''(If Farah finds a [[Bomb Drone|bomb drone]]...)''
+
+'''Farah''': Grabbed a bomb drone.
+
+'''Graves''': Flyin' [[C4]]. Be careful with that one, it means business.
+
+''Farah launches a bomb drone.''
+
+'''Farah''': Deploying bomb drone!
+
+''(If Farah finds a [[Mosquito Drone|mosquito drone]]...)''
+
+'''Farah''': Looks like a mosquito drone.
+
+'''Graves''': That's exactly what it is. That thing'll dive bomb with lethal precision.
+
+''Farah launches the mosquito.''
+
+'''Farah''': Activated the mosquito!
+
+''The mosquito drone hits its target.''
+
+'''Graves''': Body bag time.
+
+''(If Farah finds a [[Cruise Missile|cruise missile]] package...)''
+
+'''Farah''': Is a cruise missile usually necessary?
+
+'''Graves''': You tell me.
+
+''Farah launches a cruise missile.''
+
+'''Farah''': Cruise missile moving!
+
+''(Every time Farah kills a Konni soldier...)''
+
+'''Graves''': Sat him the fuck down...; Good kill, Kilo!; Good attack, Farah.; Good takedown, Kilo!; Thing o' damn beauty...; Sent him packin'...; Konni exterminated.; Solid shots, Farah.; Vaporizin' shit now, Farah...; Burning shit down, Kilo.; That's termination.; Eradicated.
+
+''Eventually, Farah will kill enough soldiers to arouse Konni's suspicions.''
+
+'''Konni Soldier''': Did you see that?; You get eyes on that?
+
+'''Graves''': Konni knows something's up, stay quiet.; They're looking for you. Keep it quiet.; Stay out of sight - Konni's on the hunt.; Konni's on the hunt. Watch your ass out there.; They're hunting for ya. Stay low.; They're sweeping the area. Stay quiet.; Konni's investigating, stay alert.; Heads up. You might be compromised.; Kilo, enemy might be onto you.; You got Konni on edge. Watch out.; They may suspect someone's there.; They know you're still alive and they wanna change that.
+
+''(If Farah alerts Konni soldiers in the area to her presence...)''
+
+'''Konni Soldier''': Enemy! My position!; Enemy!; I got you!; Enemy's here!; Target spotted!; Got 'em!; I see 'em!; I found you!; Found 'em!; Hey!; Visual!; Got you!; There you are! 
+
+'''Graves''': Think you're made, Kilo!; There's enemy fire!; Sounds like they found you!; Watch your ass, they'll alert the whole damn port!
+
+''(If Farah alerts the enemy to her whereabouts...)''
+
+'''Konni Leader''': An enemy has breached the perimeter and is extremely dangerous. Kill them on sight. Hold your position at all costs.; All soldiers, perimeter is compromised. You are cleared to kill on sight. Hold your position at all costs.; All soldiers, enemy is inside the perimeter. You are cleared to kill. Take them out. Hold your position at all costs.
+
+'''Graves''': Be advised, Konni's on high alert! They're comin' for ya!; Konni's comin' for ya, Farah!; Konni's comin' to get ya, Farah! Expect heavy contact!; Enemy reinforcements incoming!
+
+''(Every time Konni soldiers engage Farah...)''
+
+'''Konni Soldier''': Dump 'em!; Go hot!; You're cleared hot!; Moving behind the enemy!; Start smokin' 'em!; Moving being the enemy!; Repositioning behind the enemy!; Engage!; Attacking from the rear!; Give 'em some!
+
+''(Every time Farah loses Konni soldiers on her tail...)''
+
+'''Konni Soldier''': Where are they?!; Does anyone have a visual?!; Where the fuck're they at?!; They're still here somewhere...; Fuck! I lost 'em!; Hunt 'em down!; They were here...
+
+'''Graves''': I'd say they don't know your position right now.; Farah, they don't see you.; Don't think they know where you are.; Things seem quieter down there.; You may be hidden, for now...
+
+''(Every time Graves has to remind Farah about her objectives...)''
+
+'''Graves''': Look for a manifest in the tower building, trackers are on the ship. Let's get moving.; Head to the ship or the tower. You'll need to hit both, Time's running out.; The ship and the tower have what we need. Get yourself goin' there, Kilo.; We need the GPS trackers off the boat and the manifest from the tower, Kilo.; Trackers are the only way we're gonna get those missiles back. Get to the ship and find 'em.; Without the trackers, we won't be able to recover the missiles.
+
+''Farah reaches the tower.''
+
+'''Farah''': Approaching the harbor tower!; Almost to the tower!; Nearing the tower!/Closing on the tower. Konni's inside.
+
+'''Graves''': Gotcha. Not pickin' up much enemy movement.
+
+''(If Farah reaches an [[ascender]] cable...)''
+
+'''Farah''': I see an ascender cable!; Eyes on ascender cable!
+
+''Farah enters the harbor tower.''
+
+'''Farah''': Inside tower!/In the tower!/In the tower, 0-1.
+
+''Farah searches inside the tower.''
+
+'''Farah''': The shipping manifest must be around here...
+
+'''Graves''': Tower's third floor office, likely has the records./Harbormaster's office should be on the third floor. Check there.
+
+''Farah reaches the third floor.''
+
+'''Farah''': On the third floor near the office!; Third floor! Going for the manifest in the office!/Searching third floor for Dena's office.
+
+'''Graves''': I'd start with the desk, manifest should be there./Harbormasters are organized, desk should be easy to comb through./Check around the desk, manifest could be on it.
+
+''Farah searches the third floor.''
+
+'''Graves''': If you lose the missiles, who's got the tech to track 'em?
+
+'''Farah''': I have contacts who can help me.
+
+'''Graves''': Can they be trusted, Farah? This is a covert shipment.
+
+'''Farah'''; Very much so.
+
+'''Graves''': Roger that.
+
+''Farah enters the harbormaster's office and retrieves the shipping manifest on the desk.''
+
+'''Farah''': Manifest located!/Located the manifest!/I found the manifest, Graves.
+
+'''Graves''': Excellent. The GPS trackers are on the ship. Time to get 'em.
+
+''Farah makes her way out of the tower and to the ship.''
+
+'''Farah''': Heading to the ship!
+
+'''Graves''': Gotcha.
+
+''(If Farah commandeers a vehicle...)''
+
+'''Farah''': Behind the wheel!; Going for a drive!
+
+''(If Farah cannot use a vehicle any longer...)''
+
+'''Farah''': Vehicle's dead!
+
+''Farah spots the cargo ship.''
+
+'''Farah''': Konni hasn't stolen your ship, Graves./Shadow's cargo ship is still moored. 
+
+'''Graves''': You see any of my people?
+
+'''Farah''': Negative.
+
+'''Graves''': Hm. Not what I wanted to hear.
+
+'''Farah''': Konni's got shooters on your boat.
+
+''Farah approaches the cargo ship.''
+
+'''Farah''': Nearing the cargo ship!
+
+''Farah looks everywhere for a way onboard the ship.''
+
+'''Farah''': Not seeing a way onto the ship from here!
+
+'''Graves''': I'd wager Konni brought ascenders to board. Should be some nearby.
+
+''(Alternatively...)''
+
+'''Farah''': Found a cable.
+
+'''Graves''': An ascender'd make quick work of that.
+
+''In any case, Farah manages to board the cargo ship.''
+
+'''Farah''': I'm on the ship!/ Made it to the ship!/On deck.
+
+'''Graves''': The trackers should be in the control room on the bridge. GPS should be there somewhere. Konni's looking for missiles, not trackers.
+
+''Farah starts searching the ship.''
+
+'''Farah''': Looking for trackers!/Trackers must be around here!/Trackers should be close./Trackers must be nearby./GPS trackers should be around here./Trackers must be somewhere in the area...
+
+'''Graves''': Head towards the bridge, check the control room./The trackers should be in the control room on the bridge./Go to the bridge, check for the trackers in the control room.
+
+'''Farah''': I'll keep an eye out for any Shadow survivors.
+
+'''Graves''': Wasn't my ship or crew, Farah. We were security only. 'Fraid they're all dead.
+
+''Farah enters the ship.''
+
+'''Farah''': Moving to the bridge for the trackers./Nearing the bridge and the trackers!/Getting close to the bridge for the trackers.
+
+'''Graves''': Check the table, they're probably right there.; Trackers won't be hidden, should be easy to spot.; They should be out in the open, maybe on a table.
+
+''Farah moves through the ship and discovers the bodies of dead workers.''
+
+'''Farah''': Half the dead are Dena's workers. Urzikstan was free of violence like this. Konni brought it back.
+
+'''Graves''': Peace through strength, Farah. This isn't your fault./Konni Group is full of war criminals, Farah. They target civilians, that's how they roll...
+
+''Farah enters the bridge and retrieves the GPS trackers from a case resting on the table.''
+
+'''Farah''': GPS in my possession, 0-1. Graves, sending you the info from the manifest./Graves, I have the trackers.
+
+'''Graves''': Got it, cross-referencing with our container numbers...okay. Time to plant those trackers on the missiles. Check the cranes, they may be loading another one of those containers now. 
+
+'''Farah''': Copy. I'lll check high and low and find both.
+
+''(Alternatively, if Farah retrieved the trackers first...)''
+
+'''Farah''': Graves, I have the trackers.
+
+'''Graves''': Great, now get to the tower and grab that manifest.
+
+''Outside the ship, Farah spots one of the containers being moved by Konni soldiers.''
+
+'''Farah''': Kilo to Shadow, Konni found one of our trackers. They're taking it now./Kilo to Shadow! They're leaving with one of our containers!
+
+'''Graves''': Dammit! That's one missile, gone for good. Only two left./Dammit! That's one missile lost. Get trackers on the others, Kilo!
+
+'''Farah''': If the missiles are all headed to the same direction, I can still track them.
+
+'''Graves''': Big "if", Kilo. Hope you're right. 
+
+''(If Farah tries to search for the right containers without the manifest...)''
+
+'''Graves''': Don't search blind for the containers. Find that manifest.; Manifest should tell us exactly where those containers are.
+
+''Farah makes her way to the containers.''
+
+'''Farah''': Kilo to 3-1, what's your status?
+
+'''Alex''': We're holding 'em off, but they got reinforcements heading your way!
+
+'''Farah''': I'll take care of them. Hold your ground out there, Alex. I need you alive...
+
+'''Alex''': Same, Kilo! Echo out!
+
+''(If Farah doesn't head to the containers immediately...)''
+
+'''Graves''': Keep at it, Farah. We can't let Konni leave without a way to track those missiles.; Don't let Konni leave before we plant those trackers.
+
+''Farah notices gantries throughout the area.''
+
+'''Farah''': Gantries everywhere.
+
+'''Graves''': Automated cranes'll stay active.
+
+'''Farah''' ''dispatches any Konni soldiers until she finds the first container.''
+
+'''Farah''': Moving to container!; Going for a container!; Container's up above!/Container spotted. It'll be a climb.
+
+''Farah ascends up to the container by the crane.''
+
+'''Farah''': Ascending.; Going high.
+
+''Farah reaches the container.''
+
+'''Farah''': Found the first container!
+
+''Farah reaches the container and plants the first GPS tracker.''
+
+'''Farah''': One down!/Tracker on the container./Tracker's on the missile container.
+
+'''Graves''': Get that next now planted before they leave./Halfway there. One container left. You got this, Kilo./Second one's still unmarked, get to it.
+
+''(If Farah doesn't move immediately...)''
+
+'''Graves''': Get that tracker on. We already lost one.;KIlo, plant that tracker.; Plant that tracker, Kilo. Step it up. 
+
+''Farah starts moving to the second container.''
+
+'''Farah''': Moving to the next!/Close to the second one!
+
+''Farah spots a Konni military light tactical vehicle.''
+
+'''Farah''': Visual on [[LTV|JLTV]]!; Konni JLTV on the ground!
+
+''Farah notices more Konni soldiers in the area.''
+
+'''Farah''': They aren't letting up.
+
+'''Graves''': Konni's got serious numbers.
+
+'''Farah''': Whoever's funding them has deep pockets.
+
+'''Graves''': [[Milena Romanova|She]] does...
+
+'''Farah''': Who is this person?
+
+'''Graves''': We're working on that...
+
+'''Farah''': That's valuable intel.
+
+'''Graves''': Yes it is...
+
+''Farah encounters Konni soldiers by the second container.''
+
+'''Farah''': More guards by the second one!
+
+''Farah finds the second container.''
+
+'''Farah''': Located the other one!
+
+''After killing more Konni soldiers, Farah places the second GPS tracker on the next cargo container and leaves.''
+
+''The level ends.''
+
+''Cut to black.''
+
+== <u>Cutscene</u> ==
+''One of the cargo containers holding the missile is being lowered down onto a flatbed truck as Konni soldiers leave the area in helicopters and humvees.''
+
+'''Farah''': All stations, last tracker on. Konni's leaving with both missiles.
+
+'''Graves''': Solid copy. You did what needed to be done, Farah. Make sure you do the rest.
+
+'''Farah''': Echo, how copy?
+
+'''Alex''': Loud and clear, Farah. Konni's pulling up stakes. They got what they wanted.
+
+'''Farah''': We live to fight another day... It's not over.
+
+''Some time later, Farah is seen deep in contemplation and kneeling down over the covered corpse of Dena.''
+
+'''Alex''': Echo to Kilo, you clear?
+
+''Farah pauses for a second before responding.''
+
+'''Farah''': All clear. Press up.
+
+'''Alex''': Roger. Comin' your way.
+
+''Farah looks at Dena's body.''
+
+'''Farah''': ''(in Arabic)'' I'm sorry, Dena. I will make them pay.. I promise.
+
+'''Alex''': Commander?
+
+''Alex and two ULF soldiers arrive. Alex kneels down beside Farah.''
+
+'''Farah''': Our missiles were meant to be a deterrent. Peace through strength.
+
+'''Alex''': War always finds it way back to this place.
+
+'''Farah''': It never left.
+
+'''Alex''': [[Russia/Modern Warfare|Russia]] wants this country.
+
+'''Farah''': They can't have it.
+
+'''Alex''': What's next?
+
+''Farah walks away, determined. Alex follows after her.''
+
+'''Farah''': Tracking those containers.
+
+'''Alex''': I'm comin' with you.
+
+'''Farah''': No. Take care of our KIA and alert our forces. Tell them Russia's back in Urzikstan.
+
+'''Alex''': Shadow Company's got skin in the game... They're gonna want a piece of this.
+
+'''Farah''': True. There's someone else I have to contact first.
+
+''Farah resumes walking. Alex whistles to the two ULF soldiers to dispose of their dead.''
+
+''End cutscene.''
+
+{{CoD20 CampaignT}}
+[[Category:Call of Duty: Modern Warfare III Transcripts]]

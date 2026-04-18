@@ -1,0 +1,420 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_3_Transcripts -->
+<!-- title: Bag and Drag/Transcript -->
+
+{{Game|mw3}}
+
+==Cutscene==
+
+''Price makes a phone call from Somalia.''
+
+'''Operator''': Caller, please authenticate.
+
+'''[[John Price|Price]]''': Access code: Black Viking. Get me a secure line to asset Metal 0-1.
+
+''[Access: DENIED → GRANTED]''
+
+''Price's call is connected to Sandman, who is taking off from a carrier on a Little Bird in the North Sea/Northern Europe.''
+
+'''[[Sandman]]''': Price, thanks for the tip on Kingfish. You should know Uncle Sam's got a Kill / Capture order on your head.
+
+'''Price''': Tell 'em to join the bloody queue.
+
+''Volk's profile is shown, where he located somewhere in Paris.''
+
+'''Price''': [[Vladimir Makarov|Makarov's]] bomb-maker, [[Viktor "Volk" Khristenko|Volk]], is in Paris. We need to act before he bolts and I can't make the window. You're the only one I trust with this.
+
+'''Sandman''': I'm on it.
+
+''The satellite shows the assembling of WMDs stored in Fregata's shipping crates.''
+
+'''Price''': The bastard used [[Fregata Industries]] as a front to distribute the WMDs, I'm en route to their European HQ.
+
+''The satellite locates the French GIGN operative, Sabre, trapped in a building somewhere in Paris.''
+
+'''[[Overlord]]''': French special forces have located Volk. [[GIGN]] tracked him deep behind enemy lines, but they're pinned down.
+
+'''Sandman''': And you want us to unpin them?
+
+'''Overlord''': Prosecute the target as needed, but Volk comes back alive.
+
+''The [[MH-6 Little Bird|Little Bird]] flies into Paris where several parts of the city have been contaminated by the chemical attacks.''
+
+==Gameplay==
+
+'''["Bag and Drag"]'''
+
+'''[October 9<sup>th</sup> – 14:10:05]'''
+
+'''<nowiki>[</nowiki>[[Derek "Frost" Westbrook|Sgt. Derek "Frost" Westbrook]]<nowiki>]</nowiki>'''
+
+'''<nowiki>[</nowiki>[[Delta Force]]<nowiki>]</nowiki>'''
+
+'''[Montmartre Hill, Paris]'''
+
+''Somewhere in Paris, Sandman, Frost, and Grinch are being dropped off on a rooftop from their Little Bird. The helicopter emerges from a cloud of green toxins. They are wearing gas masks to protect themselves from [[Mind the Gap|the chemicals which are still spilling from the attacks the previous day]]. In the skies, transport planes are parachuting US reinforcements to help the French.''
+
+'''ODA 595''': Any station, any station, this is ODA 595. All civilians at The Louvre are dead. Requesting decon units and medivac.
+
+'''Overlord''': 595, this is Overlord actual. Negative. All US forces in Paris are engaged. Triage the civilians and move your team upwind of the plume.
+
+''Sandman's team lands on the roof. Aerial transports can be seen deploying troops, as well as AA and rocket fire. Frost pulls out his [[SCAR-L]] [[ACOG Scope|ACOG Sight]]. Delta gets off the chopper, and the Little Bird flies away.''
+
+'''Sandman''': This area's still dirty from the chemical attack. Keep your masks on. Truck, we're on the deck and moving.
+
+'''[[Truck]]''': Roger. I'll meet you at the LZ in one hour. Good luck.
+
+''They jump down from the roof to the floor below and begin to move through the building which is filled with toxic fumes.''
+
+'''Overlord''': Metal 0-1, GIGN is pinned down at the Palme d'or restaurant. Get there fast or we'll lose the only shot we've got at finding Makarov.
+
+'''Sandman''': Roger wilco.
+
+''A civilian is seen dead at the end of the hall, lying against the wall. Sandman checks for his vitals, but gets nothing. They move left.''
+
+'''[[Grinch (Modern Warfare 3)|Grinch]]''': 595 sounds like they got hit hard. Lot of rooks in that unit.
+
+'''Sandman''': No one's a rook today.
+
+''They move towards the edge of the building where a hole is blown out on the wall, the street down below littered with dead civilians. A wrecked emergency vehicle still spins its red and blue lights. Sandman pushes off a piece of debris and they slowly make their way across the edge of the building. Looking down, Frost sees multiple dead civilians littering the ground, as well as clouds of the chemical agent.''
+
+'''Grinch''': Watch your step.
+
+'''Overlord''': 0-1, be advised, GIGN is taking heavy casualties. They won't last long. You'll need to double time it to make the RV.
+
+'''Sandman''': Patch me through to 'em.
+
+'''[[Sabre]]''': This is Sabre! How much longer?
+
+'''Sandman''': Three minutes out. Just keep your perimeter secure. We're almost there.
+
+'''Sabre''': Please just hurry!
+
+'''Sandman''': Let's go. This way! Move!
+
+''They move down and up a slope of rubble. As they move down the stairs, gunfire from across the building shatter the windows.''
+
+'''Grinch''': We're compromised! Contact! Building across the street!
+
+'''Sandman''': Go loud!
+
+''They briefly engage the hostiles and continue their way down.''
+
+'''Sandman''': Down the stairs!
+
+''They make it to the first floor and move out of the building.''
+
+'''Sandman''': Frost, with me! Hit the bookstore!
+
+''Frost engages hostiles inside the bookstore. They move inside and Grinch spots hostiles on balcony.''
+
+'''Grinch''': On the balcony!
+
+''If the top floor clear first:''
+
+'''Sandman''': Top floor clear!
+
+''(If Grinch was pinned down while Frost and Sandman are on top floor:''
+
+'''Grinch''': Taking heavy fire!'')''
+
+''They clear the store.''
+
+'''Grinch''': Clear! Check the door!
+
+''Grinch pushes open a metal door. They stack up by another.''
+
+'''Grinch''': The restaurant's at the end of this alley.
+
+'''Sandman''': Sabre, this is Sandman. Watch your fire to the north. We are coming to you.
+
+'''Sabre''': Copy that. Merde (Shit), we're glad to see you.
+
+''They open the door to the alley. Some Russians get taken out from the right.''
+
+'''GIGN''': À la, dépêchez! (In here, hurry up!)
+
+'''Grinch''': It's the GIGN!
+
+'''GIGN''': Allez! (Go!)
+
+'''Grinch''': That all of 'em?
+
+''They run into the restaurant where Sabre and his men are waiting, some are wounded, others are dead. There is an ammo crate where the player can refill ammo. Sabre carries in one of his wounded men and places him down against a wall next to the counter.''
+
+'''Sandman''': What's your status?
+
+'''Sabre''': Seven men standing.
+
+'''Sandman''': Where's Volk?
+
+'''Sabre''': The Russians launched the chemical attack from a staging ground in the catacombs. We believe Volk is still there.
+
+'''Sandman''': We got your six. Lead the way. Overlord, this is Metal 0-1. Link-up complete. We're en route to the HVI's location now.
+
+''They move into the dining area and are engaged by Russians outside.''
+
+'''Sandman''': We gotta get across the courtyard! Frost, Grinch, lay down cover fire. Move! Move!
+
+'''Grinch''': Moving!
+
+''They move outside and engage more Russians at the street.''
+
+'''Sandman''': Go! Go! [[RPG-7|RPG]]! Top of the stairs!
+
+''They clear the area and push forward to the stairs. At the next street, there is a wrecked Charity Worldwide truck still spilling chemicals. A Russian armor column moves on the street behind it.''
+
+'''Sabre''': Follow me!
+
+'''Sandman''': This way! Move!
+
+''They turn into a building to the right. Across the building, they engage more Russians. They move down the building, out to the street, and down another set of stairs. Ahead is a large group of Russians as more arrive in their [[GAZ-2975]] armored vans.''
+
+'''Grinch''': Boss, we got bad guys inbound.
+
+'''Sandman''': How many we got?
+
+'''Grinch''': Looks like Moscow down there! We're gonna need air support!
+
+'''Sandman''': [[Warhammer]], this is Metal 0-1. Request fire mission, over.
+
+'''AC-130 Pilot''': Roger, Metal 0-1. Established in orbit at 12,000 feet. Full load. Mark your targets.
+
+''(If Frost stalls:''
+
+'''Sandman''': Frost! Put smoke down the targets!; Frost, ID the targets with smoke!'')''
+
+''Frost throws a purple smoke grenade towards the Russians.''
+
+'''AC-130 Pilot''': Roger, spot.; Target acquired. Going hot.; Target confirmed. Standby.; Good mark.; Firing; Rounds on deck.; On the way.; Roger mark. Engaging.; Firing; Shout out. Danger close, repeat. Danger close.
+
+''(If the smoke was off target and the [[AC-130]] misses:''
+
+'''Sandman''': No hits!; Zero kills!)
+
+''Cannon fire rain down on the street, wiping out the Russians, along with a couple of their GAZ-2975s.''
+
+'''Sabre''': Down the alley!
+
+'''Sandman''': Let's go.
+
+''They come around the alley and up to a plaza. They engage Russian chopper troops and a [[BTR-80|BTR]].''
+
+'''AC-130 Pilot''': Established overhead. Ready for targets.; Adjustments complete. Ready for mark.; Sensors back up. Standing by.; Orbit re-established. Ready for targets.; Visual friendlies, call targets.
+
+'''Grinch''': Russians roping from the [[Mi-8|choppers]]!
+
+''(Take down a chopper with an AC-130 smoke grenade (the player tosses it, the AC-130 fires and destroys the helicopter) to earn achievement: "Danger Close".)''
+
+'''Sandman''': Frost, BTR at the end of the alley! Put smoke on it!
+
+''(If Frost stalls a while:''
+
+'''Sandman''': Frost, get in the damn game! We need to destroy that BTR!'')''
+
+''Frost tosses a smoke grenade. The AC-130 destroys the BTR.''
+
+'''Sandman''': BTR destroyed!
+
+''(If the player picks up an RPG from the ground and destroys the BTR:''
+
+'''Sandman''': BTR destroyed! Way to improvise, Frost.'')''
+
+''Frost tosses another smoke grenade. The AC-130 wipes out the infantry.''
+
+'''Sandman''': Multiple hits confirmed!; Direct hit! Good work!; Good hit!; That's a hit!
+
+''If the AC-130 misses or not hitting any Russian target by smoke grenade:''
+
+'''Sandman''': Negative! That's a miss!
+
+''The plaza is cleared.''
+
+'''Grinch''': We're clear!
+
+'''Sabre''': The entrance is up ahead.
+
+'''AC-130 Pilot''': Metal 0-1, I am bingo on fuel. Give me ten mikes to gas up and rearm, over.
+
+'''Sandman''': Copy that. Thanks for the assist, Warhammer.
+
+'''Sabre''': Over here. The entrance to the catacombs!
+
+''They come to a manhole. Sandman removes the cover. Sabre goes down the ladder into the catacombs.''
+
+'''Sandman''': Frost, get down the ladder.
+
+''Frost gets in the manhole and climbs down the ladder. When he gets to the bottom, Sandman uses a device to scan the air for chemicals. Sabre's fellow GIGN agent, Faucon, keeps a lookout nearby.''
+
+'''Sandman''': Checking for toxins. Hold up.
+
+''The device beeps clear of toxins.''
+
+'''Sandman''': I've got negative contamination in this area. Masks off – but keep your eyes open.
+
+''Faucon nods and they remove their gas masks.''
+
+'''Sandman''': We need to minimize our signature. One light source only.
+
+'''Sabre''': Understood. Follow me. Stay close.
+
+''Sabre turns on his helmet flashlight, takes point, and the team move through the sewers.''
+
+'''Overlord''': Metal 0-1, Blue Force Tracker dropped the fix on your position.
+
+'''Sandman''': We're in the catacombs. Proceeding to possible target location.
+
+'''Overlord''': Roger, 0-1. We're sending a Ranger QRF to your location. Mark your route with flares so they can locate your position.
+
+'''Sandman''': Roger your last. 0-1, out.
+
+''They move down the stairs further into the sewers. As they move, Sandman mark flares behind them.''
+
+'''Grinch''': Smells like shit down here.
+
+'''Sandman''': Yeah, but at least it won't kill you.
+
+''Sabre comes to water way. He signals to wait as he looks both ways and moves right.''
+
+'''Sabre''': All clear. Move up.
+
+'''Sandman''': Where's the rest of the GIGN?
+
+''Sandman lights a flare and puts in on the ground.''
+
+'''Sabre''': A chemical strike hit our barracks at Satory last night. Most of my men died within minutes.
+
+'''Sandman''': A friend of mine was at Satory.
+
+'''Sabre''': Je suis désolé (I'm sorry).... this is why Volk must pay for what he's done.
+
+'''Grinch''': He will. I'll see to that.
+
+''Sandman lights another flare on the bridge above the water. They continue through the sewers until they see a door marked “Danger”. [[Faucon]] takes a crowbar and yanks the lock off. Sabre kicks opens the door.''
+
+'''Sabre''': Bienvenue. (Welcome.)
+
+'''Sandman''': Stay sharp.
+
+''They now move into a tunnel. The team makes their way through a narrow crevice. They move under a bar and continue to look for Volk. They go left. An explosion above ground shakes the tunnel.''
+
+'''Sabre''': This way. Approaching suspected location of HVI. 100 meters.
+
+''They come to a dungeon like room where the walls are made of hundreds of skulls and skeletons. Sandman lights another flare.''
+
+'''Grinch''': How many bodies do you think are buried down here?
+
+'''Sandman''': Don't know. Let's make sure we don't join them.
+
+''They move to a hall. As Sabre moves up, a Russian slams down a gate onto Sabre. Sabre kills him as he was about to fire. Sabre pushes away the gate and they engage Russians at the other end of the hall.''
+
+'''Sandman''': Let's go!
+
+''Frost moves up to the next room.''
+
+'''Grinch''': [[Flashbang]]!
+
+''A flashbang goes off. As Frost recovers his eyes, Volk is seen running away as he fires at them with his pistol while the Russian troops with him cover his retreat.''
+
+'''Grinch''': We got a runner! It's Volk!
+
+'''Sandman''': Overlord! We have a positive ID on the HVI. In hot pursuit!
+
+'''Overlord''': Roger, 0-1. Remember we need Volk captured alive. He holds the only actionable intel on Makarov.
+
+''They engage the Russians in the room.''
+
+'''Sandman''': Move! Move!
+
+''(If the player stalls:''
+
+'''Sandman:''' We can't let him escape! (Out of subtitle)'')''
+
+''They move up the metal stairs. They come to another hall, Volk is seen climbing up a ladder.''
+
+'''Grinch''': He's heading up the ladder!
+
+''They clear the area and pursue up the ladder. They run up the stairs and out to the street. Volk is seen getting in a grey car which drives away, escorted by two Russian [[GAZ-2975]]s.''
+
+'''Grinch''': Volk's getting in the grey sedan!
+
+'''Sandman''': Get in the blue van! Move!
+
+'''Sabre''': You go! I'll cover you!
+
+''They clear the street of Russians and run to the van while Sabre and Faucon provide cover for them from the building. Russian choppers are seen dropping more troops.''
+
+'''Sandman''': Frost, hurry. We gotta roll! The HVI is getting away!
+
+''Grinch takes the wheel, Sandman rides in the back, and Frost climbs into the passenger seat. He pushes out the cracked windshield, the glass shattering onto the hood of the van.''
+
+'''Sandman''': Keep laying down fire!
+
+''Frost fires at Russians on the street.''
+
+'''Sandman''': Gun it!
+
+''Grinch goes pedal to the metal and drives the van. At the intersection, he drives between two Russian armored cars that try to roadblock their pursuit, a body tumbles on the hood of the van.''
+
+'''Sandman''': Frost! I need you back here now!
+
+''Frost gets to the back of the van and kicks the doors open.''
+
+'''Grinch''': Enemy tank coming out of the alley!
+
+''While in the back of the vehicle, the player can switch his weapon for an [[L86 LSW]] [[Red Dot Sight]] (switch one with low ammo) and lay down cover fire. A Russian [[T-72]] tank comes from behind and begins chasing them down the streets.''
+
+'''Grinch''': They're targeting us!
+
+''Just as the T-72 fires, the van drives down a set of stairs, making it miss. They bump into a store, the T-72 fires from the left but misses, blowing out the storefront with the tank round instead. Frost holds off Russians, and Sandman shoots one attempting to enter the van.''
+
+'''Sandman''': Step on it!
+
+''Grinch gets the van moving again. As armored vehicles chase them, Frost takes out the gunners, or kills the drivers instead, causing the vehicles to swerve out of control and crash soon after. A Russian Hind appears behind them, flying above the river.''
+
+'''Grinch''': Hind incoming!
+
+''The van takes heavy fire from the chopper's nose cannon.''
+
+'''Sandman''': Drive! Drive!
+
+'''Grinch''': Taking a shortcut!
+
+''Grinch drives down a ledge down to another street. As they drive through a hall of stores, the Hind fires its guns through the glass ceilings.''
+
+'''Sandman''': That helo's making another run at us!
+
+''Grinch sees Volk's vehicle.''
+
+'''Grinch''': Got him!
+
+'''Sandman''': Frost, ride shotgun!
+
+''Frost moves back into the front of the van.''
+
+'''Sandman''': We're gaining on him! Floor it!
+
+''They drive out of the stores into the street and catch up to Volk.''
+
+'''Grinch''': Target is dead ahead!
+
+'''Sandman''': Frost, take the shot!
+
+''Frost fires and takes out the car's back tires. The car starts to veer out of control.''
+
+'''Grinch''': He's hit! He's hit!
+
+''Grinch takes advantage of Volk's crippled car and rams it from behind, crumping the trunk and back bumper. Volk's car veers to the right and hits a wall. Grinch rams the van to the side of the sedan and pushes it through the street. Frost takes out the gunmen in the rear seat of the car. They crash through a fence and the sedan is thrown toward a garbage bin. The van hits it, pinning it in, totaling both Volk's car and the front of the van, and stops. Volk's driver is already dead as he lies lifeless in the driver's seat.''
+
+'''Sandman''': Rabbit vehicle is down! Get out!
+
+''They get out of the van. Sandman runs to the car and pulls out Volk through the shattered windshield, punching him and slamming him on the car and drags him out.''
+
+'''Sandman''': C'mere, asshole! This is Metal 0-1! Jackpot! Volk secure! Aren't you, you son of a bitch!?
+
+'''Overlord''': Bring him in for interrogation. We'll extract any intel he has on Makarov.
+
+'''Grinch''': Truck, we've got Volk! We're on our way!
+
+'''Truck''': Copy. Raptor 2's spinnin' up now.
+
+{{CoD8 CampaignT}}

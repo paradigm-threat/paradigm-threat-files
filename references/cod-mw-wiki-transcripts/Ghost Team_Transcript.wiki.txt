@@ -1,0 +1,919 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_II_Transcripts -->
+<!-- title: Ghost Team/Transcript -->
+
+{{game|1=mwii}}
+== Cutscene ==
+''Captain [[John Price (Reboot)|Price]] talks with General [[Herschel Shepherd|Shepherd]] through a video uplink on Price's laptop. Shepherd is in his office in Washington DC.''
+
+'''Price''': [[Hindsight|You hid this]]- Why...?
+
+'''Shepherd''': We all keep secrets, Captain.
+
+'''Price''': Why the hell wasn't I informed?
+
+'''Shepherd''': Consider yourself well-informed now, John.
+
+'''Price''': Oh, that's really fuckin' helpful, General. Thank you. But you're a day late and a missile short. There's three of them - [[Kill or Capture|we only]] [[Dark Water|found two]].
+
+''[[Kyle "Gaz" Garrick|Gaz]], [[Johnny "Soap" MacTavish|Soap]], [[Simon "Ghost" Riley (Reboot)|Ghost]], and [[Alejandro Vargas|Alejandro]] listen in on the conversation inside Alejandro's safehouse.''
+
+'''Shepherd''': Then point yourself in that direction and fix it.
+
+'''Price''': And who fixes you, eh?
+
+'''Shepherd''': I don't need fixing. I'm a patriot protecting my country.
+
+''Price stands up.''
+
+'''Price''': You're protecting your own ass.
+
+'''Shepherd''': I do what needs to be done and no one holds me down with a roll of red tape. I know what's best for the cause.
+
+'''Price''': Ha ha. You've lost your mind, General.
+
+'''Shepherd''': And you've forgotten what you're fighting for, John. To do good, you gotta do some bad. When we shit, we bury it, that's how it works.
+
+'''Price''': Yeah... But we don't bury each other with it, do we?
+
+'''Shepherd''': You need to turn off that side o' your head and face down the real enemy.
+
+'''Price''': You need to call off your Shadow.
+
+'''Shepherd''': Graves...?
+
+'''Price''': Yeah.
+
+'''Shepherd''': Hahaha... '''(His name turns red)''' He's a dog with a bone, and I highly recommend you don't try and take it.
+
+'''Price''': This is your last chance to change your mind.
+
+'''Shepherd''': Then what?
+
+'''Price''': Then after I go for him... I'm coming for you.
+
+''Price closes the laptop, shutting off the uplink. He then nods to the other four soldiers in the room.''
+
+''The scene shifts to another part of Alejandro's safehouse where [[Los Vaqueros]] are prepping their vehicles, equipment, and weapons. The song "141" by Banda MS de Sergio Lizárraga can be heard faintly in the background. Alejandro opens the doors and walks through the stables with [[Task Force 141 (Reboot)|TF-141]] behind him.'' 
+
+'''Alejandro''': (whistles) ''Órale - Vaqueros, pongan atención.'' (Hey - Vaqueros, pay attention.)
+
+''All of Los Vaqueros gathers around Alejandro and TF-141 at a table as the background music stops.''
+
+'''Price''': Alright, listen - We are taking back your HQ. We are getting our [[Valeria Garza|prisoner]]. We are killing Commander [[Phillip Graves|Graves]].
+
+'''[[Rodolfo Parra|Rodolfo]]''': When?
+
+'''Ghost''': Now.
+
+'''Price''': This is a fight against our own... We are not 141 and Los Vaqueros on this. We're a team...
+
+''Ghost empties a bag full of skull masks onto the table.''
+
+'''Price''': ...[[Joint Task Force - Ghost Team|Ghost Team]].
+
+''Ghost removes his mask in front of everyone, although the camera shows only the back of his head. Price nods and smiles at Ghost.''
+
+'''Price''': Good to see you again, Simon. 
+
+''Price removes his boonie hat.''
+
+'''Price''': If you're in, take a mask... If you're not... Don't.
+
+''Everyone around the table takes a skull mask. The camera circles around Rodolfo, Gaz, Soap, Alejandro, Price, and finally Ghost as they put on their masks.''
+
+''The scene shifts to a computer display of Los Vaqueros' captured base.''
+
+'''Alejandro''': My troops know the Fuerzas Especiales facility better than [[Shadow Company (Reboot)|Shadow]]. So we'll have the advantage.
+
+''A photo displays Los Vaqueros on their previous mission to capture [[Hassan Zyani]] in [[Las Almas]] before shifting to an overhead view of the raided prison.''
+
+'''Alejandro''': Be advised, they'll be on high alert because of the [[Prison Break (Modern Warfare II)|prison break]]. We'll infiltrate the base with two Ghost Teams.
+
+''The computer displays an overhead view of Los Vaqueros' base with two teams. One Ghost Team consists of Gaz, Alejandro, a Los Vaquero soldier, and Price.''
+
+'''Alejandro''': Team-1 is Captain Price, Gaz, me, and one pilot.
+
+''The second team displayed consists of Los Vaqueros, Rodolfo, Soap, and Ghost.''
+
+'''Alejandro''': Team-2 is Ghost, Soap, Rudy, and Los Vaqueros.
+
+''The computer displays the route for Team-1 to take under the base and reach the tarmac.''
+
+'''Alejandro''': Team-1 will use the tunnels to get to the tarmac and commandeer a helo. My pilot will take the Captain up.
+
+''The computer displays the planned route for Team-2 to take the entry gate. A photo of Graves is displayed.''
+
+'''Alejandro''': Team-2 will stand by outside until Price fires on the entry gate and lets them in to fight their way to Graves. I suspect he'll be in my HQ defended by his best shooters.
+
+''The computer displays Los Vaqueros' HQ building and members of Shadow Company. It then displays Team-1 moving on a blue-colored route to the area where Valeria Garza is being held.''
+
+'''Alejandro''': While Gaz and me locate and secure Valeria... Ghost Team-2 will find Graves... And kill him...
+
+''The word "NEUTRALIZE" is displayed over Graves' photo.''
+
+== Gameplay ==
+
+=== <u>Gameplay 1.1</u> ===
+''Price, Gaz, Alejandro, and Alejandro's pilot move through the tunnels underneath the base.''
+
+'''KYLE "GAZ" GARRICK, JOHN "SOAP" MACTAVISH - JTF - GHOST TEAM'''
+
+'''GHOST TEAM'''
+
+'''LAS ALMAS, MEXICO'''
+
+'''03 NOV 2022, 1630'''
+
+'''Alejandro''': Four Ghosts in the tunnel.
+
+'''Rodolfo''': (over radio) Copy - our codes still work.
+
+'''Alejandro''': Affirmative. What's your status?
+
+'''Rodolfo''': 1 klick from the gate with Soap and Ghost.
+
+''Team-1 stops in the tunnels.''
+
+'''Alejandro''': Copy. Hold tight. Out.
+
+'''Price''': Good work, Alejandro. Gaz, take his six, let's move.
+
+''Gaz readies his suppressed [[MP5|Lachmann Sub SMG]] and moves down the tunnel.''
+
+'''Alejandro''': Weapons hot, hermanos...
+
+''Team-1 ducks under some pipes.''
+
+'''Alejandro''': Heads up.
+
+'''Gaz''': Yep.
+
+''Team-1 moves down the tunnel until Alejandro signals the team to stop.''
+
+'''Alejandro''': Hold up. Listen...
+
+''The sound of buzzing rings out.''
+
+'''Gaz''': Traps...
+
+'''Price''': Alerts - Likely connected to charges.
+
+'''Alejandro''': ''Pinche güero, Graves...'' (Asshole, Graves...) Let's see... Smoke out.
+
+''Alejandro tosses a [[Smoke Grenade|smoke grenade]] down the tunnel. The smoke deploys, revealing a series of trip-wire lasers.''
+
+'''Gaz''': Fucking hell.
+
+'''Price''': It's a fucking gauntlet.
+
+'''Alejandro''': We'll have to disable them.
+
+'''Gaz''': Roger that.
+
+'''Alejandro''': ''Cuidado''... (Careful...)
+
+''Gaz ducks under a laser wire and reaches a switch that disarms the lasers.'' 
+
+''(If Gaz doesn't disarm the laser trap immediately...)''
+
+'''Price''': Gaz, disarm it. Let's go.
+
+''Gaz switches off the traps.''
+
+'''Gaz''': Done.
+
+'''Alejandro''': Good. There'll be more ahead. Listen for the sound.
+
+''Team-1 moves further down the tunnel and reaches another series of trip-wire lasers.'' 
+
+'''Alejandro''': Deploy smoke, Sergeant, let's go.
+
+''Gaz uses a smoke grenade to reveal the lasers.''
+
+'''Alejandro''': The lasers are moving. The pipes block them. We can time it...
+
+'''Gaz''': Good call, Colonel.
+
+''Team-1 times their movements to avoid the lasers.''
+
+'''Alejandro''': I hate to see this in my base. When we find Graves... ''lo matamos despacio.'' (let's kill him slowly.)
+
+'''Price''': Move when it's clear.
+
+''Gaz reaches the next switch for the lasers.''
+
+'''Alejandro''': All you, Gaz.
+
+''Gaz switches off the lasers.''
+
+'''Gaz''': Got it.
+
+'''Alejandro''': Expect more ahead.
+
+'''Price''': Let's move up.
+
+'''Alejandro''': My men use these tunnels. We practice escape and evasion down here... ''¿Recuerdan el simulacro, Vaqueros?'' (Remember your drills, Vaquero...?)
+
+'''Vaquero 1''': ''¿Cómo olvidarlo, comandante? Nos entrenaste bien.'' (How can I forget, Commander? You trained us well.)
+
+'''Alejandro''': ''Eres un buen soldado. Cuando todo esto termine, vendras a mi rancho. Cocinamos una asada.'' (You're a good soldier. When this is over, we'll cook asada at my ranch.)
+
+'''Vaquero 1''': ''Me encantaría...'' (My favorite...)
+
+'''Alejandro''': ''Órale...'' (Mine too...)
+
+''Team-1 reaches another set of laser traps that they avoid by using smoke grenades to reveal them.''
+
+'''Alejandro''': Heads up for the pack.
+
+''Gaz reaches another switch for the lasers that he shuts off.''
+
+'''Gaz''': We're good.
+
+'''Price''': Press forward.
+
+''Team-1 reaches a green door up ahead.''
+
+'''Alejandro''': See that door, take a left.
+
+''Team-1 goes left past the door. They hear noises further down the tunnel.''
+
+'''Alejandro''': Psssst... We're not alone.
+
+''Team-1 finds three Shadows ahead who are working on fortifying the tunnels, oblivious to Team-1's presence.''
+
+'''Price''': Shadows...
+
+'''Gaz''': How many?
+
+'''Price''': Three. Take the guy on the right.
+
+''(If Gaz doesn't immediately shoot the Shadow on the right...)''
+
+'''Price''': Take one. I'll get the others.
+
+''Gaz shoots one of the Shadows and Price eliminates the other two.''
+
+'''Alejandro''': Good shooting.
+
+'''Gaz''': It's a bloody maze down here.
+
+'''Alejandro''': Good thing you got me-- This way.
+
+''Team-1 reaches a door with a keypad next to it. Alejandro goes over to the keypad and inputs a code.''
+
+'''Alejandro''': Graves set traps - but he didn't change the codes.
+
+''The keypad flashes green and the door opens.''
+
+'''Price''': Never expected to see us...
+
+'''Gaz''': What's in here?
+
+'''Alejandro''': Takes us up to the ground level...
+
+''Team-1 moves through the door.''
+
+'''Price''': Stay sharp for more charges.
+
+''Team-1 hears the sound of more lasers.''
+
+'''Alejandro''': Hear that...?
+
+'''Price''': Smoke it up, Gaz...
+
+''Gaz deploys another smoke grenade.''
+
+'''Gaz''': Out...
+
+''The smoke reveals lasers in the tunnels.''
+
+'''Gaz''': Right again, Captain.
+
+'''Alejandro''': On you.
+
+'''Price''': Get low, go under.
+
+''Gaz ducks under the lasers and encounters a Shadow that he shoots dead.''
+
+'''Gaz''': Contact...!
+
+''(If Gaz wounds the Shadow before shooting him dead...)''
+
+'''Gaz''': They know we're here.
+
+'''Price''': We'll assume they do, but he may not have had time to call it in.
+
+'''Alejandro''': Once we're topside, there'll be birds on the tarmac. My pilot will take you up, Captain.
+
+'''Price''': Rog. Let's kill these traps and get moving.
+
+''Gaz ducks under a laser and reaches a switch that he uses to shut off the lasers.''
+
+'''Gaz''': Got it. Let's go.
+
+'''Alejandro''': Follow me... Ahead and to the right.
+
+''Team-1 moves further down the tunnel and reach a junction, whereby they go right and reach a ladder at the end of that tunnel.''
+
+'''Alejandro''': Hold your fire, we're in the center of the base. We'll secure a helicopter and get you airborne, Captain. Gaz, you're with me...
+
+''Alejandro climbs up the ladder and Gaz follows.''
+
+'''Gaz''': Right behind you.
+
+'''Price''': On your six.
+
+''Price and the Vaquero pilot follow behind Gaz. Alejandro reaches the top of the ladder and opens up a hatch leading to the ground level. Team-1 emerges from the hatch and reach the tarmac where they spot two Shadows standing by a helicopter.''
+
+'''Alejandro''': Two by the bird. Let's drop 'em.; Multiple Shadows at the helo. Take 'em.
+
+''Gaz shoots a shadow while Alejandro shoots the other.''
+
+'''Alejandro''': Good shot. Bravo-6 -- Bird's all yours. ''Despega y mantente comunicado.'' (Take him up and stay on comms.)
+
+'''Vaquero 1''': ''Sí, señor.'' (Yes, sir.)
+
+'''Price''': Alejandro, your pilot any good?
+
+'''Alejandro''': He's my best... Good luck, Captain.
+
+''Price and the pilot reach the helicopter and prepare to fly it while Gaz and Alejandro move to a door with a keypad leading inside a hangar.''
+
+'''Alejandro''': Gaz, we're moving interior, on me.
+
+'''Gaz''': What's the code?
+
+'''Alejandro''': 6-2-7 -- Let's hope it still works.
+
+''Gaz types in the code and the door unlocks.''
+
+'''Gaz''': Aces. We're in...
+
+'''Alejandro''': Órale! On me...
+
+''Gaz and Alejandro enter the building. Price and the pilot start up the helicopter and take off into the air.''
+
+'''Alejandro''': All Ghosts, One is inside.
+
+'''Rodolfo''': Copy.
+
+''Gaz closes the door.''
+
+'''Gaz''': Get him, sir.
+
+''The scene shifts to the helicopter cockpit with Price and the pilot flying over the main entry gate where several Shadows stand guard.''
+
+'''Price''': All Ghosts - I'm wheels up with eyes on.
+
+'''Ghost''': Copy that. Two is inbound to the gate. You're cleared hot when target is marked.
+
+''Two vehicles consisting of Team-2 drive down the road towards the entry gate.''
+
+=== <u>Gameplay 1.2</u> ===
+''The scene shifts to one of Team-2's vehicles where Ghost, Soap, Rodolfo, and Los Vaqueros ride.''
+
+'''Ghost''': We think Graves is in the HQ, holding his ground.
+
+'''Rodolfo''': Once we're in, we split up. Close air clears the way.
+
+'''Ghost''': With Shadows on the run, we locate Graves and kill him. ''¿Comprende?'' (Understand?)
+
+'''Rodolfo''': ''Claro y fuerte, teniente. Ghosts, preparados para atacar.'' (Completely, Lieutenant. All Ghosts, stand by for breach.)
+
+'''Ghost''': Soap, get the designator and mark targets for Price in the helo.
+
+'''Soap''': Roger that.
+
+''Team-2 parks just a short distance from the main gate. The Shadows take notice of Team-2 and move to investigate their presence.''
+
+'''Ghost''': Soap, you're up - get the marker and spot the entrance for the Captain.
+
+''Soap grabs the [[Spotter Scope|spotter scope]] nearby.''
+
+'''Soap''': Good to go.
+
+'''Rodolfo''': Security gate is off our left side.
+
+'''Ghost''': Multiple Shadows on guard.
+
+'''Rodolfo''': That's our target.
+
+'''Ghost''': Let's get pre-assault fires on it- Mark the gate for fire, Soap.
+
+''Soap uses the scope to mark targets for Price.''
+
+'''Soap''': Request for fire. Target marked.
+
+'''Price''': Acquired - Rounds down.
+
+''Price swoops in on the helicopter and fires missiles at the main gate, killing the Shadows around it.'' 
+
+'''Ghost''': Good guns, Bravo-6.
+
+'''Price''': Copy, get to the HQ and find Graves. Alejandro, use the chaos for cover and get to Valeria.
+
+''Team-2 drives through the destroyed gate and offloads from the vehicles.''
+
+'''Rodolfo''': On me -- Go, go...!
+
+''Team-2 engages the Shadows inside the base as they move to the HQ.''
+
+'''Ghost''': If Graves is in the HQ, we need to find him, keep pushing up.
+
+''(Every time Price is ready to provide air support...)''
+
+'''Price''': Ready for gun run, Soap, mark us.; Soap, air support standing by.; Soap, Bravo-6. Standing by for fire mission.; Weapons hot for gun run, waiting for your mark, Soap.
+
+''(Every time Soap makes a target with the scope...)''
+
+'''Soap''': Requesting fire - Grid is marked.; Requesting fire, target tagged.; Target marked.; Target marked, you're cleared hot.; Target marked for fire.; Target marked- fire when ready. 
+
+'''Price''': Copy - Engaging your mark.; Target acquired, shots out.; Copy your mark, weapons loose.; Mark acquired- attacking position.; Copy, shots out.; Copy- Engaging your mark.
+
+''Price fires on the building and kills the Shadows nearby.''
+
+'''PMC Soldier 3''': They breached the perimeter!
+
+''Team-2 moves through the base.''
+
+'''Ghost''': Pick it up, Soap. We need to locate Graves somewhere in the HQ.
+
+''Team-2 comes under fire from a machine gun under the tower nearby.''
+
+'''Ghost''': Taking belt-fed fire from beneath the tower! Take it out!
+
+''Soap marks the target for Price to fire on. Price blows up the tower, causing it to collapse on the ground.''
+
+'''Ghost''': Tower, comin' down!
+
+''Team-2 fights its way to the tower.''
+
+'''PMC Soldier 1''': Listen - All Shadows, I need sniper support up on the second floor.; Hey! Get every first floor doorway covered.
+
+'''Rodolfo''': Go through the barracks to the main building. That's the HQ. Graves would be there.
+
+'''Ghost''': That tower looks like it could get us closer to the HQ.
+
+''Team-2 fights its way to the command center and engages more Shadows.''
+
+'''PMC Soldier 4''': They're inside the wire! We hold this position!; Dig in here, keep 'em off the HQ!!; We hold this position!
+
+''Team-2 reaches the main courtyard outside the HQ. An armored Shadow vehicle appears.''
+
+'''Ghost''': Hit that vehicle with the heli, Soap!
+
+''Shadow snipers appear on the rooftop.''
+
+'''Ghost''': Snipers on the roof. Soap, call for fire.
+
+''Soap marks the building for Price to fire on.''
+
+'''Ghost''': Push up to the main entrance.
+
+''Team-2 reaches the main building.''
+
+'''Rodolfo''': That's the Fuerzas Especiales building. Graves may be inside.
+
+'''Ghost''': Still got your flag up on the HQ.
+
+'''Rodolfo''': Let's keep it that way.
+
+'''Ghost''': Soap, check that door.
+
+''Soap moves up to the main doors of the HQ building and tries to open it, only to find it locked.''
+
+'''Soap''': It's locked. Rudy, what do you got?
+
+'''Rodolfo''': Breacher charge.
+
+''Rodolfo takes out an explosive charge and plants it on the doors.''
+
+'''Soap''': Nice.
+
+'''Ghost''': Clear to engage all threats inside. If you see Graves, drop him.
+
+'''Soap''': Hey - Rudy... Sorry about your base.
+
+'''Rodolfo''': ''Yo también, amigo.'' (Me too, brother.)
+
+'''Ghost''': Hit it.
+
+'''Rodolfo''': 3, 2, 1 -- Execute!
+
+''Rodolfo detonates the charge just as the screen goes black.''
+
+=== <u>Gameplay 1.3</u> ===
+''The scene shifts to Gaz and Alejandro at an earlier point.''
+
+'''Gaz''': Aces. We're in...
+
+'''Alejandro''': Órale! On me...
+
+''Gaz and Alejandro enter the building. Price and the pilot start up the helicopter and take off into the air.''
+
+'''Alejandro''': All Ghosts, One is inside.
+
+'''Rodolfo''': Copy.
+
+''Gaz closes the door.''
+
+'''Gaz''': Get him, sir.
+
+'''Alejandro''': Place will be full of Shadows. Stay quiet if you wanna live.
+
+'''Gaz''': Solid copy. On you, Colonel.
+
+''Alejandro opens another door and shoots a Shadow in the head. Gaz follows after as they enter a maintenance garage and find Shadows inside.'' 
+
+'''Alejandro''': Psssst... Heads up.
+
+''Graves' voice rings out over the loudspeaker.''
+
+'''Graves''': I sent a crew down to fortify the tunnels and they went dark.
+
+'''Shadow 6-5''': We can check up on 'em.
+
+'''Graves''': Negative - hold your position. I want everything locked down. If anyone's here, let 'em come to us -- 1 out.
+
+''(If Gaz equips a weapon without an attached silencer on it...)''
+
+'''Alejandro''': Careful, Sergeant, they'll hear you if you use that.
+
+''Gaz and Alejandro kill the Shadows inside.'' 
+
+'''Alejandro''': Clear. Good shooting. Time to get to Valeria. 
+
+''Gaz and Alejandro reach the other side of the garage. They hear the sound of an airborne helicopter.''
+
+'''Alejandro''': Shadow is heads up on a helo.
+
+'''Gaz''': That'll give us a chance to move.
+
+'''Alejandro''': Exactly. They're holding Valeria in Hangar 3. Stay outta sight and we'll work our way there.
+
+'''Gaz''': Hangar 3. Roger that.
+
+''Alejandro opens the garage door as they hear Shadows' voices on the other side. The Shadows are seen mobilizing and moving to engage Team-2.''
+
+'''Shadow 6-7''': Let's go, asses in gear, on me...!
+
+'''Shadow 6-6''': We need guns on the main gate, it's wide open!
+
+'''Shadow 6-7''': They're taking contact at the barracks, we should cut up and reinforce!
+
+'''Alejandro''': Clear to move.
+
+''Gaz and Alejandro exit the garage and move through the grounds of the base.''
+
+'''Alejandro''': We can use the vehicles for cover. Stay low.
+
+''Gaz and Alejandro spot several Shadows running past them.''
+
+'''Alejandro''': Watch out - got Shadows moving through.
+
+''(If Gaz and Alejandro alert the Shadows to their position...)''
+
+'''Gaz''': Contact!
+
+'''Alejandro''': Right behind you!
+
+''(If Gaz and Alejandro kill all the Shadows...)''
+
+'''Alejandro''': Think we're clear.
+
+'''Gaz''': Affirm.
+
+''Gaz and Alejandro come across a few Shadows unloading ammo crates from the truck nearby.''
+
+'''Shadow 6-2''': They're taking contact near the HQ!
+
+'''Shadow 6-3''': Let's get up there!
+
+'''Shadow 6-4''': How many of them are there?
+
+'''Shadow 6-1''': Who the fuck cares? They got air support.
+
+'''Shadow 6-4:''' Damn, bro! This thing's gone pear-shaped!! We taking casualties?!
+
+'''Shadow 6-8''': Where the hell are we taking all this?
+
+'''Shadow 6-9''': They want ammo at the gate.
+
+'''Shadow 6-8''': This ain't gonna do shit against that bird.
+
+'''Shadow 6-9''': We're wide open up here, dude.
+
+'''Shadow 6-1''': Multiple.
+
+'''Shadow 6-8''': Shit. Good call - let's go to ground...
+
+'''Shadow 6-4''': F
+
+''G'', dude...''az and Alejandro move through the vehicles towards Valeria's position.''
+
+'''Alejandro''': Stay sharp - couple runners nearby.
+
+'''Gaz''': You have any clue Graves was up to no good?
+
+'''Alejandro''': I always keep my eyes on the gringos, but, no - I trusted him.
+
+'''Gaz''': Bad men can do good things.
+
+'''Alejandro''': Good men can do bad too.
+
+'''Gaz''': For real.
+
+''Gaz and Alejandro spot more Shadows moving towards the firefight as they continue with their mission.''
+
+'''Gaz''': What does "gringo" actually mean?
+
+'''Alejandro''': In the Mexican-American War, the Americans wore green coats...
+
+'''Gaz''': When was this?
+
+'''Alejandro''': 1847. Mexicans wanted them to leave - "Green go home..." gringo.
+
+'''Gaz''': Huh... Never knew that.
+
+'''Alejandro''': If we make it out of here alive, I'll teach you some good Mexican curse words.
+
+'''Gaz''': Fuck yeah, you will.
+
+'''Alejandro''': (chuckle)
+
+''Alejandro moves up behind Gaz.''
+
+'''Alejandro''': Approaching your position.
+
+'''Gaz''': I see you.
+
+'''Alejandro''': Let's get the lay of the land.
+
+'''Gaz''': We nearly there?
+
+'''Alejandro''': Not too far. Hangar is this way... Stay close.
+
+'''Gaz''': Check.
+
+''Gaz and Alejandro hear the sounds of the firefight nearby.''
+
+'''Gaz''': Sounds like the boys are givin' 'em hell out there.
+
+'''Alejandro''': Bad day to be a Shadow...
+
+'''Gaz''': Bloody right.
+
+''Gaz and Alejandro hear voices inside the hangar.''
+
+'''Shadow 7-4''': Isn't this all hands on deck?
+
+'''Shadow 7-3''': All but ours...
+
+'''Shadow 7-4''': What'd we do to deserve this?
+
+'''Shadow 7-3''': Shooting yourself in the foot didn't help...
+
+'''Shadow 7-4''': That was five years ago, dude.
+
+'''Shadow 7-3''': Nobody forgets that shit.
+
+'''Shadow 7-4''': This sucks.
+
+'''Shadow 7-3''': Agh - Just do what you're told.
+
+'''Shadow 7-4''': I mean - How many freakin' guns are in here...?
+
+'''Shadow 7-3''': I know, right...?
+
+''Gaz and Alejandro reach the outside of Hangar 3 and find a door opened.''
+
+'''Alejandro''': Careful, outside door is open.
+
+''The two soldiers move through the door and reach a locked door with a keypad.''
+
+'''Gaz''': Code.
+
+'''Alejandro''': 6-2-7--
+
+''Gaz enters the code on the keypad and the door unlocks.''
+
+'''Alejandro''': Valeria is in a container across the hangar. She'll be well protected. Let's roll in quiet.
+
+''Gaz and Alejandro go through the door and enter the hangar. Graves' voice is heard over the loudspeaker.''
+
+'''Graves''': We got an assault team outside the HQ, they're gonna breach.
+
+'''Shadow 7-7''': We should move in and plus you up, sir.
+
+'''Graves''': No, I want all shooters holding their sectors - I got what I need here. We're going on the offensive -- That clear?
+
+'''Shadow 7-7''': Yep yep!
+
+'''Graves''': Out here.
+
+'''Alejandro''': Did you hear that?
+
+'''Gaz''': Affirm. Team 2 made it.
+
+''Gaz and Alejandro move through the hangar and kill all the Shadows inside.''
+
+'''Alejandro''': Clear.
+
+'''Gaz''': All clear.
+
+'''Alejandro''': Get to the container.
+
+''Gaz and Alejandro reach the container.''
+
+'''Alejandro''': Bang on the door, Sergeant. Let's make sure Valeria's inside.
+
+''Gaz knocks on the container doors.''
+
+'''Alejandro''': Valeria...!
+
+'''Valeria''': Alejandro...
+
+'''Gaz''': Jackpot.
+
+'''Alejandro''': Now, we secure this position until Soap, Ghost, and Rudy take Graves.
+
+'''Gaz''': Gaz to Bravo-6. Prisoner secure.
+
+'''Price''': Rog. Stay sharp. We're going for Graves.
+
+'''Gaz''': Does Rodolfo have the door codes?
+
+'''Alejandro''': No - he has something a little stronger... (chuckle).
+
+''The screen cuts to black.''
+
+=== <u>Gameplay 1.4</u> ===
+''The scene shifts back to Soap's POV from when his team breaches the doors.''
+
+'''Soap''': It's locked. Rudy, what do you got?
+
+'''Rodolfo''': Breacher charge.
+
+''Rodolfo takes out an explosive charge and plants it on the doors.''
+
+'''Soap''': Nice.
+
+'''Ghost''': Clear to engage all threats inside. If you see Graves, drop him.
+
+'''Soap''': Hey - Rudy... Sorry about your base.
+
+'''Rodolfo''': ''Yo también, amigo.'' (Me too, brother.)
+
+'''Ghost''': Hit it.
+
+'''Rodolfo''': 3, 2, 1 -- Execute!
+
+''Rodolfo detonates the charge and the doors blow open. Team-2 spots Graves running away on the second floor.''
+
+'''Soap''': Contact! Second deck.
+
+'''Ghost''': He's on the run, clear in! Go, go, go-!
+
+'''Rodolfo''': Second floor! Move!
+
+''Team-2 moves up to the second floor as they engage the Shadows under Graves' command. Soap helps his team eliminate all the Shadows inside an office.''
+
+'''Ghost''': Looks like we're clear.
+
+'''Rodolfo''': Graves is getting away!
+
+'''Ghost''': He won't go far. He'll dig in somewhere...!
+
+'''Rodolfo''': Head for the control room - There's an exit in back.
+
+''Team-2 moves to the control room and find an exit.''
+
+'''Soap''': Graves must've used it.
+
+'''Ghost''': Haul arse, let's find him.
+
+''Team-2 moves through the exit and heads back outside.''
+
+'''Price''': All stations, be advised, Graves went over the wall.
+
+''An RPG fires at Price's helicopter, causing the aircraft to spin out of control.''
+
+'''Ghost''': RPG!
+
+'''Price''': We're hit! We're hit!
+
+'''Ghost''': Price-!
+
+'''Price''': Going down. We're going down!
+
+''Price's helicopter crashes to the ground.''
+
+'''Soap''': Steamin' hell... Captain...!
+
+'''Rodolfo''': ''Ese hijo de puta, Graves...'' (That fucking bastard, Graves...) Let's get over and stop him.
+
+'''Soap''': Rodolfo, what’s on the other side?
+
+'''Rodolfo''': The training area.
+
+'''Soap''': The hell’s he doin’ back there?
+
+''Soap and Rodolfo reach the wall.''
+
+'''Soap''': I gotcha, go on...
+
+''Soap helps Rodolfo boost up to the top of the wall.''
+
+'''Soap''': Let's end this asshole.
+
+''Rodolfo reaches the top of the wall and gives Soap his hand.''
+
+'''Rodolfo''': ''Toma mi mano...'' (Take my hand...)
+
+''Soap reaches up to the wall with Rodolfo's help and turns to Ghost.''
+
+'''Soap''': Ghost, you coming?
+
+'''Ghost''': No. Price and the pilot need help. You two finish this.
+
+''Soap and Rodolfo spot an armored tank over the wall inside the training area.''
+
+'''Soap''': Look!
+
+'''Rodolfo''': That's not ours...
+
+'''Soap''': Holy shit... Graves brought a fuckin' tank.
+
+''Soap and Rodolfo scramble down the wall and into the training area.''
+
+'''Soap''': You ready for this?
+
+'''Rodolfo''': Hell yeah...
+
+'''Graves''': Looks like the hunters are gettin' hunted now, huh? Ain't that a kick in the ass...?
+
+'''Soap''': Can't wait to bake this bastard.
+
+'''Rodolfo''': We'll need something stronger to kill Graves in that tank. This is our training area - plenty we can use, look around.
+
+''Soap and Rodolfo move through the area, killing any Shadows they encounter and searching for weapons to destroy Graves' tank.''
+
+'''Rodolfo''': Soap - find some [[C4]] we can use on the tank.; The C4, Soap, use it on Graves' tank!; Look around, Sergeant. There should be some C4. Find it.
+
+'''Graves''': You and your Mexicano friends fucked with the wrong hombre, MacTavish.
+
+'''Soap''': Come on out and let's talk about it.
+
+'''Graves''': You think this is a fucking game out here? You wanna play war? Let's play some fuckin' war, chicos! One o' you dipshits needs to die last -- who's it gonna be...?
+
+'''Soap''': Go fuck yourself, Graves.
+
+'''Graves''': You got a healthy disrespect for authority, Soap. I like that about you...
+
+'''Soap''': You're Shepherd's lapdog. You get paid to break the rules.
+
+'''Graves''': There's only two rules here, boys. Walk away or win. Guess which one I choose? Shoulda gone home when you had the chance, Soap - you and that asshole with the mask, hiding behind that uniform...
+
+'''Soap''': You wore that uniform.
+
+'''Graves''': That uniform was a limitation. I shed that skin...
+
+'''Soap''': Like a fuckin' snake-
+
+'''Graves''': Like a fucking soldier, son.
+
+'''Soap''': You had to make your own little army, 'cause you couldn't hack it in the real one.
+
+'''Graves''': Hahahah! That's almost funny comin' from you, but then again, I remember my first rodeo too. You're on the short road to hell now, son. [[Alone (level)|I told you to go home]], but you didn't listen.
+
+'''Soap''': You'll hang for this...
+
+'''Graves''': Knock that honor shit off, Johnny. I'll be sipping tequila, forgetting where I buried your ass in a week. That goes for both of you. Can you say the same? Hey - Rodolfo! Don't go thinking los ''UNO, Cuatro, Unos'' (141) are su amigos, Rodolfo, 'cause they ain't. ''Ellos no le gusta usted.'' (They don't like you.) ''Cuando estees completo'', (When they're done,) los amigos will drop los vaqueros like a bad fucking habit, brother. ''¿Comprende?'' (Understand?)
+
+'''Rodolfo''': Got Graves' attention now...
+
+''Soap throws the C4 on Graves' tank and detonates it.''
+
+'''Rodolfo''': Tank is taking damage, hit him again!; Good effect on target!; Tank's getting hurt, Soap - blast him with another!; Doing damage, Soap, keep going!; Graves is on the run, stay after him!; Boom, roasted!!
+
+''Eventually, Soap destroys Graves' tank with the C4. Soap and Rodolfo inspect the destroyed vehicle.''
+
+'''Rodolfo''': You did it, Soap.
+
+'''Soap''': You and me, hermano.
+
+'''Rodolfo''': Brought a gun to a tank fight...
+
+'''Soap''': Yeah, we did. Soap to Ghost, I'm with Rudy. Graves is KIA. How's Price?
+
+'''Ghost''': Angry. Lost a good cigar in the crash... Pilot's okay, too. Out.
+
+'''Rodolfo''': ''Alejandro - La base está asegurada. Graves está muerto. Vamos en camino.'' (Alejandro ‐ Base secured. Graves is dead. We're coming your way.)
+
+''Soap and Rodolfo walk away from the burning tank.''
+
+''Cut to black. End of level.''
+
+{{CoD19 CampaignT}}
+[[Category:Call of Duty: Modern Warfare II Transcripts]]

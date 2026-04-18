@@ -490,7 +490,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-15T01:35:27Z"
+    "_updated": "2026-04-17T12:46:05Z"
   },
   "cosmos": {
     "cosmology": {
@@ -9431,15 +9431,20 @@
             "wells",
             "panspermia",
             "lineage",
-            "register"
+            "register",
+            "cascade",
+            "dieoff",
+            "termites",
+            "burning",
+            "world"
           ],
-          "_updated": "2026-04-17T12:46:02Z"
+          "_updated": "2026-04-17T12:46:05Z"
         },
         "spore-ecological-disaster-martian-cylinders-investigation.png": {
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwAgCdASoQAAsABUB8JbACdAEC1xE1B5VQAAD2LZcVKODANO1UrdNwVuHQwGCCuq7qB4CaUvCPGevWls2W8Q7JCUAAAA==",
-          "_updated": "2026-04-17T12:39:12Z"
+          "_updated": "2026-04-17T12:46:05Z"
         },
         "tartarian-maps-investigation.md": {
           "_title": "Tartarian Maps Investigation \u2014 Forbidden Maps, Disclosure, and Downloads",
@@ -10424,6 +10429,12 @@
         "_lqip": "data:image/webp;base64,UklGRioAAABXRUJQVlA4IB4AAAAwAQCdASoFABAABUB8JaQAA3AA/vCKpsdi8tUAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
+      "instagram_censorship6.png": {
+        "_width": 715,
+        "_height": 744,
+        "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoPABAABUB8JZwAAudGseKMgAD+zgYgq6pFUpIIInvIvbtGFAA=",
+        "_updated": "2026-04-17T13:28:49Z"
+      },
       "linkedin_censorship1.jpg": {
         "_width": 540,
         "_height": 503,
@@ -10514,7 +10525,7 @@
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoPABAABUB8JaQAAudFrAAA/uf+VxJYgBDkgzNzH3PWm1gZpQx4AAAA",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 45
+      "_count": 46
     },
     "conspiracy": {
       "13_families.jpg": {
@@ -12849,11 +12860,335 @@
       },
       "_count": 5
     },
-    "_count": 326
+    "_count": 327
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
     "_updated": "2026-04-05T12:17:42Z"
+  },
+  "references": {
+    "cod-mw-wiki-transcripts": {
+      "Aftermath (Call of Duty 4)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:33Z"
+      },
+      "All Ghillied Up_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:33Z"
+      },
+      "All In_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:33Z"
+      },
+      "Alone (level)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:20Z"
+      },
+      "Back on the Grid_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:50Z"
+      },
+      "Bag and Drag_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:50Z"
+      },
+      "Big Brother_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:42Z"
+      },
+      "Black Tuesday_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:51Z"
+      },
+      "Blackout (Call of Duty 4)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:34Z"
+      },
+      "Blood Brothers_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:51Z"
+      },
+      "Borderline_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:20Z"
+      },
+      "Captive_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:14Z"
+      },
+      "Cartel Protection_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:21Z"
+      },
+      "Charlie Don't Surf_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:34Z"
+      },
+      "Clean House_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:14Z"
+      },
+      "Cliffhanger (mission)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:42Z"
+      },
+      "Close Air_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:21Z"
+      },
+      "Contingency (mission)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:42Z"
+      },
+      "Countdown (Modern Warfare II)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:21Z"
+      },
+      "Crash Site (Modern Warfare III)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:27Z"
+      },
+      "Crew Expendable_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:35Z"
+      },
+      "Danger Close_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:27Z"
+      },
+      "Dark Water_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:22Z"
+      },
+      "Davis Family Vacation_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:51Z"
+      },
+      "Death From Above_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:35Z"
+      },
+      "Deep Cover_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:28Z"
+      },
+      "Down the Rabbit Hole_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:52Z"
+      },
+      "Dust to Dust_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:52Z"
+      },
+      "El Sin Nombre (level)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:22Z"
+      },
+      "Embedded_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:15Z"
+      },
+      "Endgame_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:43Z"
+      },
+      "Exodus (Modern Warfare 2)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:43Z"
+      },
+      "Eye of the Storm_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:53Z"
+      },
+      "F.N.G._Original_Modern Warfare Remastered Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:35Z"
+      },
+      "F.N.G._Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:36Z"
+      },
+      "Flashpoint_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:28Z"
+      },
+      "Fog of War (level)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:15Z"
+      },
+      "Frozen Tundra_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:28Z"
+      },
+      "Game Over_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:36Z"
+      },
+      "Ghost Team_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:23Z"
+      },
+      "Goalpost (mission)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:53Z"
+      },
+      "Going Dark_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:15Z"
+      },
+      "Gora Dam_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:29Z"
+      },
+      "Hardpoint (level)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:23Z"
+      },
+      "Heat_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:37Z"
+      },
+      "Highrise (level)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:29Z"
+      },
+      "Highway of Death_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:16Z"
+      },
+      "Hindsight_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:23Z"
+      },
+      "Hometown_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:16Z"
+      },
+      "Hunted (Call of Duty 4)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:37Z"
+      },
+      "Hunter Killer_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:53Z"
+      },
+      "Hunting Party_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:17Z"
+      },
+      "Into the Furnace_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:17Z"
+      },
+      "Iron Lady_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:54Z"
+      },
+      "Just Like Old Times_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:44Z"
+      },
+      "Kill or Capture_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:24Z"
+      },
+      "Loose Ends_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:44Z"
+      },
+      "Mile High Club_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:37Z"
+      },
+      "Mind the Gap_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:54Z"
+      },
+      "No Fighting In The War Room_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:38Z"
+      },
+      "No Russian_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:44Z"
+      },
+      "Of Their Own Accord_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:45Z"
+      },
+      "Old Comrades_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:18Z"
+      },
+      "Oligarch_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:30Z"
+      },
+      "One Shot, One Kill_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:38Z"
+      },
+      "Operation 627_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:30Z"
+      },
+      "Passenger_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:30Z"
+      },
+      "Payload (level)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:31Z"
+      },
+      "Persona Non Grata_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:55Z"
+      },
+      "Piccadilly (level)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:18Z"
+      },
+      "Precious Cargo_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:31Z"
+      },
+      "Prison Break (Modern Warfare II)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:24Z"
+      },
+      "Prologue (Modern Warfare 3)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:55Z"
+      },
+      "Proxy War_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:19Z"
+      },
+      "Reactor_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:32Z"
+      },
+      "Recon by Fire_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:25Z"
+      },
+      "Return To Sender_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:56Z"
+      },
+      "Russo-American War Radio Transmissions.wiki.txt": {
+        "_updated": "2026-04-18T13:48:45Z"
+      },
+      "S.S.D.D._Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:46Z"
+      },
+      "Safehouse (level)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:39Z"
+      },
+      "Scorched Earth (mission)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:56Z"
+      },
+      "Second Sun_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:46Z"
+      },
+      "Shock and Awe_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:39Z"
+      },
+      "Strike (level)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:25Z"
+      },
+      "Stronghold (Mission)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:56Z"
+      },
+      "Takedown (mission)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:47Z"
+      },
+      "Team Player_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:47Z"
+      },
+      "The Bog_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:40Z"
+      },
+      "The Coup_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:40Z"
+      },
+      "The Embassy_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:19Z"
+      },
+      "The Enemy of My Enemy_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:47Z"
+      },
+      "The Gulag_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:48Z"
+      },
+      "The Hornet's Nest_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:48Z"
+      },
+      "The Only Easy Day... Was Yesterday_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:49Z"
+      },
+      "The Sins of the Father_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:40Z"
+      },
+      "The Wolf's Den (level)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:19Z"
+      },
+      "Tradecraft_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:26Z"
+      },
+      "Trojan Horse_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:32Z"
+      },
+      "Turbulence_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:57Z"
+      },
+      "Ultimatum_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:41Z"
+      },
+      "Violence and Timing_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:26Z"
+      },
+      "War Pig (level)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:41Z"
+      },
+      "Wetwork (level)_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:26Z"
+      },
+      "Whiskey Hotel_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:49Z"
+      },
+      "Wolverines!_Transcript.wiki.txt": {
+        "_updated": "2026-04-18T13:48:49Z"
+      },
+      "transcript-titles-all.txt": {
+        "_updated": "2026-04-18T13:47:54Z"
+      },
+      "_count": 106
+    },
+    "_count": 106
   },
   "science": {
     "5g": {
@@ -13980,6 +14315,6 @@
     },
     "_count": 153
   },
-  "_count": 1969,
-  "_version": "bb0c128"
+  "_count": 2076,
+  "_version": "c45b5ce"
 }

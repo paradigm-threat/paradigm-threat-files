@@ -1,0 +1,653 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_(2019)_Transcripts -->
+<!-- title: Fog of War (level)/Transcript -->
+
+{{game|mw}}
+==Cutscene==
+''Omar "The Wolf" Sulaman gives a speech on a cell phone showing video footage of himself beside Jamal "The Butcher" Rahar.''
+
+'''[[Omar "The Wolf" Sulaman|The Wolf]]''':''' '''Our war is not for our faith. We fight to remove all foreign power from our soil...
+
+''The camera zooms out, revealing a van full of terrorists arming themselves.''
+
+'''[[Jamal "The Butcher" Rahar|The Butcher]]''': We are [[Al-Qatala]]. We are The Killers.
+
+'''The Wolf''':''' '''We fight without sorrow. We wage war without sympathy. This is the only way to live... and die... A true soldier.
+
+''The terrorists exit the van into a crowd of pedestrians in Piccadilly Circus in London. The pedestrians step back and scream as a man strapped with a C4 vest reaches his hand out, about to trigger a detonator. The screen cuts to...''
+
+''Title Card:''
+
+'''MODERN WARFARE'''
+
+'''''24 Hours Earlier'''''
+
+'''''Verdansk'''''
+
+''Two [[UH-60 Blackhawk]] helicopters transport a team of [[Marine Raiders|U.S. Marine Raiders]] above the hills of Verdansk. Joining them is [[Central Intelligence Agency/Modern Warfare (Reboot)|C.I.A.]] operative Alex, who contacts Colonel Norris.''
+
+'''[[Alex Keller]]''': Echo 3-1 to Charlie 2-Actual-
+
+'''[[Norris]]''': Go for Actual...
+
+'''Alex''': LZ is in sight. Looks like our boys are right on time, Colonel.
+
+''Colonel Norris is seen in the operations tent watching the mission on a screen.''
+
+'''Norris''': Roger, 3-1. Hitman teams are locked and loaded for assault. You are green to go.
+
+''CIA Station Chief Kate Laswell enters the tent.''
+
+'''[[Kate Laswell|Laswell]]''': Colonel, we may have a problem.
+
+'''Norris''': Too late, Laswell. We're live...
+
+'''Laswell''': Not until I say so.
+
+''Laswell heads to a radio and speaks into the mic to contact Alex.''
+
+'''Laswell''': Watcher to 3-1, how copy-?
+
+'''Alex''': Station chief Laswell, send traffic...
+
+''A computer screen showing a map is seen. A picture of Russian General Roman Barkov appears on the screen with a picture of the shipment of the chlorine gas weapons.''
+
+'''Laswell''':''' '''General [[Roman Barkov|Barkov]] has sent a new shipment of chlorine gas to his depot... but his mercs are prepping to move the chems into Urzikstan via convoy, tonight.
+
+''The camera pans from one computer screen to another showing the operation.''
+
+'''Laswell''': You're still clear to engage, but live fire on Russian military is prohibited- We cannot have an international incident.
+
+''The helicopter crew chief is seen opening the helicopter doors. A soldier hooks up the rope and kicks it down to rappel from the helicopter.''
+
+'''Alex''': No guarantees Russian army won't respond on this, Kate.
+
+'''Laswell''': Understood, Alex. Just locate the gas, commandeer Barkov's trucks, and get off the X before the tide turns.
+
+''Alex and some of the Marine Raiders are seen rappelling down from the helicopter. A camera switches to Alex's point of view.''
+
+'''Alex''': Copy, Watcher. We'll handle it.
+
+''The helicopter crew chief notifies the pilot that the last man is out of the helicopter.''
+
+'''U.S Crew Chief''': Last man's out!
+
+''Alex and Marine Raiders land in the forest of Verdansk. The helicopter pilot informs Col. Norris that the team is on the ground.''
+
+'''Hammer 2-1''': Charlie-Two-Actual, this Hammer 2-1. Hitman chalks are on deck. We're RTB.
+
+''Alex readies his [[M4A1]] and text appears.''
+
+==Gameplay==
+
+'''Fog of War'''
+
+'''24 OCT 2019 0530'''
+
+'''"Alex"'''
+
+'''CIA with Marine Raiders'''
+
+'''Verdansk, Kastovia'''
+
+'''Alex''': Let's move.
+
+'''[[Hoyt|Hitman 7-1]]''': All Hitman teams, push to your set point.
+
+'''[[Davis (Modern Warfare)|Hitman 7-2]]''': Roger, on the move.
+
+''Alex and the Marines move out from their insertion point.''
+
+'''Alex''': We need to keep this on a tight loop. Barkov's men are moving the gas tonight.
+
+'''Hitman 7-2''': Hey, what are the odds we run into General Barkov?
+
+'''Hitman 7-1''': Russian General wouldn't be caught dead out here.
+
+''(Alex is in possession of a flashlight which, while useful in the dark, can give away the team's position. If therefore he turns it on at an inappropriate time, such as now, the following is said.)''
+
+'''Hitman 7-1''': Cut that light off, 3-1.
+
+''The team keeps moving until Hitman 7-1 signals a halt.''
+
+'''Hitman 7-1''': Psst - Heads up.
+
+''A patrol of two mercenaries is heard coming their way.''
+
+'''Merc 1''': Туда, наверх! [This way, up here!]
+
+'''Merc 2''': Я слышал, за гребнем! [I heard it, over the ridge!]
+
+'''Hitman 7-2''': Hearing two.
+
+'''Hitman 7-1''': Lookin' for us.
+
+'''Hitman 7-1''': Two mercs, no uniforms.
+
+''A third mercenary is heard making radio contact with the patrol.''
+
+'''Merc 3''':  ''(in Russian, over radio)'' Team three, report, over...?
+
+'''Merc 1''':  Я что-то слышал... [I hear something...]
+
+'''Merc 2''':  Сейчас... Эй! Кто здесь? Выйди, покажись! [Stand by... Hey! Who's there?! Come forward, show yourself!]
+
+''The two mercs begin moving in the team's direction.''
+
+'''Hitman 7-2''': They're game, drop 'em.
+
+''If Alex kills the two mercs before Hoyt gives the order:''
+
+'''Alex:''' Down.
+
+''Either way, the two mercenaries are killed.''
+
+'''Hitman 7-1''': We're clear.
+
+'''Hitman 7-2''': Copy. Post up on the ridge and let's get the lay o' the land.
+
+''The group see the depot from the ridge and Alex contacts a U.S. aircraft.''
+
+'''Alex''': Echo 3-1 to Blue Viking 5, call for fire. Stand by for target confirmation...
+
+'''Blue Viking 5-1''': Copy 3-1, Viking is standing by...
+
+'''Hitman 7-1''': ''(to Alex)'' Let's recce the area, make sure there's no Russian Army down there.
+
+''Alex takes out his night vision binoculars to observe the depot.''
+
+''(If Alex hasn't started to observe the depot after a short while:)''
+
+'''Hitman 7-1''': Look around, 3-1. Confirm there's no uniformed Army down there.; Dial in, Echo. Verify we're clear of Russian Army.
+
+''(If Alex still isn't observing the depot:)''
+
+'''Blue Viking 5-1''': Blue Viking 5 to Echo 3-1, waiting on your clearance for fire mission...; Echo 3-1, Blue Viking 5 is prepared for tasking.
+
+''(If Alex is observing the depot, but not looking at the specific targets:)''
+
+'''Hitman 7-1''': Roll your glass over the main gate.
+
+'''Alex''': ''(if he starts observing specific targets after this prompt)'' Targets in the loading depot - Eyes on...
+
+''Alex starts viewing the targets in and around the depot. He does not have to observe the various parts of the depot in any given order, however if he were to start by observing the main gate.''
+
+'''Hitman 7-1''': Vehicle comin' in the main gate.
+
+'''Alex''': Medium transport truck.
+
+'''Hitman 7-1''': Transport for the gas.
+
+''Alex can also observe a watchtower that is next to the main gate and the depot rail yard, again in no particular order. If and when he moves his binoculars over to the watchtower, he sees an armed guard.''
+
+'''Alex''': One in the tower, left side high, not Army.
+
+'''Hitman 7-1''': Copy. Checkpoint, that's the entry.
+
+''If and when Alex moves his binoculars over to the rail yard, he sees additional men down there.''
+
+'''Alex''': Movement in the rail yard.
+
+'''Hitman 7-1''': That's how the gas comes in.
+
+''A few more vehicles are seen down below heading towards the depot.''
+
+'''Hitman 7-1''': Vehicle's on the move.
+
+''Alex moves his binoculars over to the main gate if he wasn't already looking there.''
+
+'''Alex''': Patrol vehicle. Contractors.
+
+'''Hitman 7-1''': Security. Good targets.
+
+''After observing the patrol vehicle, or if Alex spends enough time observing the depot without actually seeing the vehicle, it is determined that there is no Russian Army presence on site.''
+
+'''Hitman 7-1''': No Russian military presence, call it in CIA...
+
+''Alex lowers his binoculars and talks into his communication wristwatch.''
+
+'''Alex''': Blue Viking 5, this is Echo 3-1, troops in the open, south gate. You are cleared hot...
+
+'''Blue Viking 5-1''': Roger, 3-1, target acquired. Weapons free in 5 seconds.
+
+'''Alex''': 5 seconds!
+
+''(Alternatively, Hitman 7-1 will call in the airstrike themselves if Alex is taking too long to do so.)''
+
+'''Hitman 7-1''': Blue Viking 5, Hitman 7-1, enemies in the open, you are cleared hot. 
+
+'''Blue Viking 5-1''': Roger, 7-1, target acquired, weapons free in 5 seconds.
+
+''Blue Viking 5-1 flies over the depot in a stealth bomber and releases several air-to-ground missiles on the depot.''
+
+'''Hitman 7-2''': Thunder and lightning, heads up!
+
+''(If the player engages before the Marines do:)''
+
+'''Hitman 7-1''': Shit 3-1! We haven't confirmed that there's no Russian Army presence! This goes upside down it's on your ass CIA! Blue Viking 5, we need close air on target, now! 
+
+''The missiles strike the depot causing multiple explosions throughout the area. A klaxon alarm can be heard going off down below.''
+
+'''Blue Viking 5-1''': Echo 3-1, good effect on target. Viking is RTB, good hunting...
+
+'''Alex''': Much obliged, Viking, we'll take it from here.
+
+''Two of the Marine Raiders walk to a nearby metal door and pry it open with a crowbar. Radio traffic is heard as the mercenaries realize that something has happened to the patrol from earlier.''
+
+'''Merc 3''': ''(in Russian, over radio) ''Team three, do you read! What the hell is going on up there?!
+
+'''Merc 4''': ''(in Russian, over radio) ''We lost contact!
+
+''Alex and the Marines walk through the newly opened door and drop down below to the ground. Several mercenaries are seen up ahead scouring through the area for intruders.''
+
+'''Hitman 7-1''': Heads up... Multiple guns, on foot...
+
+''One of the mercs is heard giving orders to the others who then start moving towards the Marines, unaware of their presence.''
+
+'''Merc 3''': Чёрт! Мы под обстрелом! [Damn! We're under attack!] (subtitles say: "We're under attack! Find our missing guys, rest of you secure the shipment!")
+
+'''Hitman 7-1''': Hold up, let 'em approach...
+
+'''Merc 4''': Здесь люди! Найдите их и убейте, иначе генерал убьёт нас! Рассредоточиться! Если что увидите, стреляйте! [There are men on these grounds, find them and kill them or the General will kill us! Spread out, if you see something, shoot it!]
+
+''The mercs get close enough before Hitman 7-1 gives the kill order.''
+
+'''Hitman 7-1''': Smoke 'em, now!
+
+''Alex and the Marines shoot the mercenaries dead.''
+
+'''Hitman 7-1''': Clear! Force up!
+
+''(If Alex had opened fire at any point prior to the kill order being given, one of the following remarks is made.)''
+
+'''Hitman 7-2''': CIA's quick on that draw.; Damn! CIA bringin' the heat today!; Be advised, CIA is not a patient man.; CIA has a zero-tolerance policy for these assholes.
+
+''Alex and the Marines move through the trees past the dead mercs.''
+
+'''Hitman 7-2''': Looks like someone was playin' with fire...
+
+'''[[Randolf|Hitman 7-4]]''': Serves 'em right, hawkin' this chemical shit...
+
+''(If Alex walks into any of the fires created by the airstrike:)''
+
+'''Hitman 7-1''': Watch the flames!
+
+''The team moves past the destroyed vehicle and through the main gate. The main tower that had been damaged by the airstrike comes crashing down to the ground.''
+
+'''[[Gonzavi|Hitman 7-3]]''': Timber!!
+
+''A badly wounded Russian mercenary comes walking along slowly burning on fire.''
+
+'''Merc 1''': Пожалуйста, помогите! [Please! Help me...]
+
+'''Hitman 7-1''': Burner!
+
+''The merc can either be shot dead or allowed to die from fire. In the event of the former, the following is said.''
+
+'''Alex''': Ugh...
+
+'''Hitman 7-1''': You did right, they got radios and guns.
+
+''The following is said regardless of how the first burning mercenary is dealt with.''
+
+'''Hitman 7-1''': Put 'em outta their misery!
+
+''Another burning mercenary is encountered as the team continues on through the depot. He can either be shot dead by Alex or left to be shot by one of the Marines. In the latter case, the following is said:''
+
+'''Hitman 7-1''': Finish 'em off...
+
+''The team approaches a guardhouse where a few Russian mercs are struggling to put out the flames.''
+
+'''Alex''': Got enemies inside.
+
+'''Merc 1''': Потуши огонь! [Put out these flames!]
+
+'''Hitman 7-1''': Comin' your way, Echo.
+
+'''Merc 2''': Я пытаюсь! [I'm trying!]
+
+'''Hitman 7-1''': Doorway. On me.
+
+'''Merc 2''': Мне платят, чтобы я воевал, а не пожары тушил!'' ''[I'm paid to fight men, not fires!]
+
+'''Merc 1''': Если сдохнешь, тебе никто не заплатит! [You don't get paid if you're dead!]
+
+''The Marines take up breaching positions on either side of the door.''
+
+'''Hitman 7-1''': Now!
+
+''The Marines burst through the door and open fire on the Russians inside the guardhouse.''
+
+'''Merc 1''': О, чёрт!'' ''[Oh shit!]
+
+''(Alternatively, Alex can open fire on the Russians before the Marines are in position to breach.)''
+
+'''Alex''': Takin' 'em...
+
+'''Hitman 7-1''': Roger. Hitman's comin' to ya...
+
+''Either way, the team clears the guardhouse of enemies.''
+
+'''Hitman 7-1''': Watch the flames!
+
+'''Merc 3''': Укрепить периметр, все на посты!  [Tighten the perimeter, everyone man your stations!]
+
+'''Hitman 7-1''': Element of surprise is not on our side, boys. Stay frosty...
+
+''The Marines get ready to exit out the other side of the building as they pry open the doors with their crowbar.''
+
+'''Hitman 7-1''': Stay sharp - we're blind on this breach...
+
+''The doors open as the Marines cautiously walk outside into the railyard. Just as Hitman 7-2 steps further out, a searchlight turns on and illuminates him.''
+
+'''Hitman 7-2''': Contact!
+
+''A machine gun opens fire from the upper level of a building across the yard and, with the searchlight's aid, hits Hitman 7-2 squarely causing him to drop to the ground dead.''
+
+'''Hitman 7-2''':''' '''Arghh!
+
+'''Hitman 7-1''': Man down!
+
+''Hitman 7-1 grabs his fallen comrade and drags him back behind cover.''
+
+'''Hitman 7-5''': Got an MG nest on that second deck!
+
+'''Hitman 7-1''': He's dug in! Lay suppression and get up there! 
+
+''(If the player does not mount their weapon:)''
+
+'''Hitman 7-1''': Use the door frame to mount your gun and stay in cover, Echo! Echo 3-1, stabilize your weapon on the door frame!
+
+''Alex or Hoyt opens fire on the searchlight where the machine gun is located and forces gunner down behind cover.''
+
+'''Hitman 7-1''': Good suppression, flank up and take him out!
+
+'''Alex''': Force out! We need to secure the gas before they move it!
+
+''Alex and the Marines move through the railyard and eliminate any Russian mercenaries they encounter, while at the same time having to deal with the machine gun.''
+
+''(Every time the searchlight comes on:)''
+
+'''Hitman 7-3''': We're too exposed!
+
+'''Hitman 7-1''': We need to nullify that gun nest!
+
+'''Hitman 7-1''': He's got a mounted light, watch his aim point!
+
+'''Hitman 7-3''': Gunner's holding that second deck!
+
+'''Hitman 7-1''': Get up there and shut him down!
+
+'''Hitman 7-1:''' Suppress that MG! Push up!
+
+'''Hitman 7-1''': Suppress that MG! Move when his light's out!
+
+'''Hitman 7-1''': Suppress him and close your distance!
+
+''(Every time Alex shoots the spotlight and suppresses the machine gun:)''
+
+'''Hitman 7-1''': Move when his light's offline!
+
+'''Hitman 7-1''': He's off target, move, now!
+
+'''Hitman 7-1''': High light's off, flank up on him!!
+
+'''Hitman 7-1''': Nest is up top! Get up there!
+
+'''Hitman 7-1''': Flank on him, Echo!
+
+'''Hitman 7-3''': Go up and flank him!
+
+''Alex and the Marines move closer and closer to the machine gun up top.''
+
+'''Hitman 7-1''': Let's get up behind that gun nest and flatten that fucker out!
+
+'''Hitman 7-3''': Blast a grenade through his ass!
+
+''Eventually, Alex or Hoyt/Gonzavi succeed in taking down the machine gunner.'' 
+
+'''Alex''': MG down!
+
+'''Hitman 7-1''': Nicely done, CIA!
+
+''Alex and the Marines proceed out of the railyard and into another section of the depot where they encounter more Russian mercenaries.''
+
+'''Merc 4''': К складу!'' ''[To the warehouse!]
+
+'''Merc 1''':''' '''Быстро! [Quickly!]
+
+''A few of the mercs run towards the nearby warehouse.''
+
+'''Hitman 7-4''':''' '''Got runners!
+
+'''[[Myers (Modern Warfare)|Hitman 7-5]]''':''' '''They're breaking for the warehouse!
+
+''The team shoots down the runners and makes their way through the area.''
+
+'''Hitman 7-3''': Clear!
+
+'''Alex''': Gas must be inside!
+
+'''Hitman 7-4''': Unless we're too late!
+
+''The Marines enter the warehouse and check for signs of any enemies.''
+
+'''Hitman 7-5''': Clear!
+
+'''Hitman 7-4''':''' '''Clear!
+
+'''Hitman 7-1''': Clear! Chems may be inside -- Masks up!
+
+''Alex and the Raiders throw on their gas masks and prepare to enter deeper into the warehouse as they take up positions by a sliding door.''
+
+'''Hitman 7-1''': Let's do this...
+
+''Just as they barely open the door wide enough, the lights in the warehouse go out leaving the team temporarily blind.''
+
+'''Hitman 7-1''': The fuck?!
+
+'''Alex''': They killed the power.
+
+'''Hitman 7-1''': Go white light! On me...
+
+''(If Alex doesn't immediately go white-light:)''
+
+'''Hitman 7-4''': You got some kind of X-ray vision, 3-1?
+
+'''Alex''': I eat a lotta carrots.
+
+'''Hitman 7-3''': That shit works.
+
+''Alex and the Marines turn on their flashlights and walk through the door clearing through the many crates and boxes inside.''
+
+'''Hitman 7-4''': It's pitch black in here.
+
+''Suddenly, the team hears a clanging sound inside the storage room.''
+
+'''Hitman 7-4''': You hear that?
+
+'''Hitman 7-3''': Whoever killed the power's in here, I'm tellin' you...
+
+'''Hitman 7-4''': Could have been the airstrike...
+
+'''Hitman 7-1''': No, they're here...
+
+''As Alex proceeds through the room, a silhouette runs behind the crates quickly.''
+
+'''Hitman 7-4''': Shit, you see that?!
+
+'''Hitman 7-1''': Contact!
+
+''Alex finds the Russian merc and shoots him down.''
+
+'''Hitman 7-1''': He's down!
+
+''Alex moves through the room and finds another Russian mercenary that he dispatches.''
+
+'''Alex''': Got him!
+
+''The team notices some movement on the upper catwalk and the shelves.''
+
+'''Hitman 7-1''': Movement on the catwalk! Got one moving through the shelves!
+
+'''Merc 2''': Долбаный Янки! Какого хрена ты тут надо?! [Fucking Americans! What the fuck are you doing here?!]
+
+'''Hitman 7-1''': We lost him, he moved!
+
+''A firefight breaks out between the Marines and the Russians. Eventually, the Marines eliminate the hidden threats in the shadows.''
+
+'''Hitman 7-1''': Clear!
+
+'''Alex''': All clear! Let's get the power up... shed some light, find this gas.
+
+'''Hitman 7-1''': Roger, 3-1.
+
+'''Hitman 7-3''': Lookin'...
+
+'''Hitman 7-5''': On it, checkin' for power...
+
+'''Hitman 7-1''': Find the power, locate the gas, and let's hit the road!
+
+'''Hitman 7-3''': We need light in here! Let's get that power up. 
+
+'''Hitman 7-5''': Anyone seeing the box?
+
+'''Hitman 7-4''': Still lookin'.
+
+'''Hitman 7-1''': Look faster. 
+
+'''Hitman 7-3''': Find that power box! Let there be light! Find the switch!
+
+''If Alex turns on the button before switching the power, but didn't work:''
+
+'''Alex:''' Door needs power.
+
+''Alex finds the light switch nearby and turns it on.''
+
+'''Alex''': Lights, comin' on.
+
+''The lights in the warehouse turn back on.''
+
+'''Hitman 7-1''': Power's up.
+
+'''Hitman 7-3''': Hey-!
+
+''Hitman 7-3 spots a dead Russian on the ground nearby and kicks him over, revealing the Russian to be a [[Spetsnaz/Modern Warfare (Reboot)|Spetsnaz]] special forces soldier.''
+
+'''Hitman 7-3''': We got a problem - These guys are Russian army...
+
+'''Hitman 7-1''': Spetsnaz.
+
+''Alex contacts Laswell via his wristwatch communicator.''
+
+'''Alex''': 3-1 to Watcher... Barkov's hired guns are Spetsnaz. We got Russian army KIA - We need to bug out now.
+
+''The Marines open the sliding door leading into the garage and enter that same garage.''
+
+'''Laswell''': ''(on radio) ''Negative. Command wants mission accomplished on this. Not our choice.
+
+'''Alex''': Never is. 3-1 out.
+
+''The Marines secure a truck with several barrels inside the rear.''
+
+'''Hitman 7-1''': Verify this is what we came for, we'll set the trucks for egress.
+
+'''Alex''': Rog.
+
+'''Hitman 7-1''': 3-1, check the barrels in the back of the truck. Test these barrels verify that's the gas and let's un-ass this place. Test those barrels and let's get the fuck outta here, 3-1. 
+
+''Alex inspects the truck's contents by taking a small marking device and rubbing it against the barrels to measure the gas content. After sealing the device, he squeezes it, revealing the gas to be what Alex and the Marines came for.''
+
+'''Alex''': Jackpot. PID on the gas.
+
+'''Laswell''': ''(on radio) ''Solid copy, 3-1. Load up and get back to base.
+
+'''Alex''': Roger that, let's move out!
+
+''Alex and the Marines exit the garage and enter the nearby trucks they appropriated. ''
+
+'''Hitman 7-4''': You're with me, 3-1, take shotgun. Come on, Echo, got a front row seat for ya... Ride shotgun, 3-1, I've got the wheel, let's make time while we still can... 
+
+''(If the player approaches the wrong vehicle:)'' 
+
+'''Hitman 7-3''': Wrong vehicle, CIA...
+
+''Alex enters the same vehicle as Hitman 7-4 on the front passenger side.''
+
+'''Alex''': All stations, we are Oscar Mike to the RV, watch your sectors...
+
+'''Laswell''': Good work, Alex. Rally at the hook point for egress.
+
+''The team drives their trucks out of the depot and into the countryside with Alex in the middle vehicle. Suddenly, a burning vehicle comes barreling down a hill and crashes into the lead truck. The lead truck flips over and explodes.''
+
+'''Hitman 7-4''': Truck!
+
+''As quickly as it happened, enemy fire opens up on the other vehicles and forces them to drive in reverse.''
+
+'''Alex''': Back up, back up!!
+
+''The remaining vehicles drive in reverse back to the depot under heavy fire.''
+
+'''Hitman 7-1''': All stations, we are under attack, hitman is taking heavy contact from unknown forces...!!
+
+''An RPG launches from the hill right as Alex's vehicle.''
+
+'''Hitman 7-4''': RPG!
+
+''Too late. The RPG strikes Alex vehicle, causing it to flip on its sides with Alex and Hitman 7-4 still inside. The screen cuts to black as the vehicle crashes to the ground.''
+
+''A short moment later, Alex is on the ground outside his vehicle as enemy fire continues to fly over him.''
+
+'''Laswell''': Watcher to 3-1 - How copy?! Alex, do you read - over!
+
+''Hitman 7-4 runs over to Alex and grabs him, intending to get him to safety.''
+
+'''Hitman 7-4 (called 7-5)''': I got you, I got you, 3-1...
+
+''Hitman 7-4 drags Alex to safety while Hitman 7-1 provides covering fire only to get shot at and dropped to the ground.''
+
+'''Hitman 7-1''': Urgh...!!
+
+'''Alex''': Shit...
+
+''Hitman 7-1 is badly wounded and struggles to get up. Behind him, an insurgent comes out from behind the gas truck and raises his rifle at Hitman 7-1.''
+
+'''Hitman 7-1 (mistakenly called Hitman 7-4)''': Who the fuck is this?!
+
+''The insurgent shoots Hitman 7-1 in the chest and kills him.''
+
+'''Hitman 7-1 (labeled as Hitman 7-2)''': '''Arghh!'''
+
+''Then, the same insurgent goes to inspect the dead Marine's corpse by turning the body on its back. After seeing what kind of soldier this is, the insurgent calls to his leader.''
+
+'''Insurgent''': ''(in Arabic)'' Lieutenant, come quickly...!
+
+''Another insurgent, the Lieutenant, walks over to his subordinate and looks at the dead Marine.''
+
+'''Insurgent''': ''(in Arabic) ''Not Russian.
+
+'''Insurgent Leader ([[Hadir Karim|Hadir]])''': ''(in Arabic)'' Marines... American.
+
+''He glances at Alex.''
+
+'''Insurgent Leader''': ''(in Arabic)'' We have to go -- Now!!
+
+''The insurgents take the truck filled with chemical weapons and board it.''
+
+'''Insurgent Leader''': ''(in Arabic)'' Move out -- Go, go, go!
+
+''The truck drives away with the chemical weapons, leaving Alex as the sole survivor of the attack. The camera pulls back to the 3rd-person view as Alex takes off his gas mask and breathes heavily from his wounds.''
+
+'''Alex''': Echo 3-1 to Watcher--
+
+'''Laswell''': Alex - what happened?
+
+'''Alex''': Terrorist attack - Multiple Marines KIA - Gas stolen - We need EVAC, now!
+
+'''Laswell''': Roger - Tracking multiple Russian forces headed your way. Sit tight. We're pushing to you for fast exfil. Watcher out.
+
+''Alex stands on his feet with great effort as the camera fades to black.''
+
+''(End of level.)''
+
+{{CoD16 CampaignT}}
+[[Category:Call of Duty: Modern Warfare (2019) Transcripts]]

@@ -1,0 +1,564 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_(2019)_Transcripts -->
+<!-- title: Hunting Party/Transcript -->
+
+{{game|mw}}== Cutscene ==
+''The camera shows a laptop screen displaying valuable intel on the location of [[Omar "The Wolf" Sulaman|the Wolf]] and [[Al-Qatala]]'s activities. The screen zooms into an IP address that a message was sent to and scrolls down to text saying, "Ramaza General Hospital".''
+
+'''[[Kate Laswell|Laswell]]''': The attic of the [[Clean House|Al-Qatala townhouse]] was a gold mine. It looks like we found the Wolf.
+
+''The screen switches over to a map of [[Urzikstan]] and to a specific area with pictures of Ramaza Hospital.''
+
+'''Laswell''': Communications from the laptop were tracked to Ramaza Hospital in Urzikstan, where the Al-Qatala leader is believed to be holed-up.
+
+''The screen shows a picture of the Wolf and then switches to bird's-eye view of [[Farah Karim|Farah's]] [[Urzikstan Liberation Force|militia forces]] and [[United States Marine Corps/Modern Warfare (Reboot)|US Marines]].''
+
+'''Laswell''': Farah's forces will track terror activity at the hospital while a Marine ground force can be mobilized to advance on the complex.
+
+''The screen displays Alex's picture.''
+
+'''Laswell''': Echo 3-1 will capture the Wolf for interrogation about [[Fog of War (level)|the stolen Russian gas]].
+
+''The camera cuts to black.''
+
+''Farah is resting on the roof of a safehouse in Rammaza and puts a cigarette in her mouth as one of her people radios in with news about Al-Qatala activity in the city. Farah lights her cigarette as she listens to the radio.''
+
+'''Militia Fighter''': ''(in Arabic)'' Commander, Al-Qatala was shooting in the hospital. It's quiet again now.
+
+''Farah grabs the walkie-talkie and talks into it.''
+
+'''[[Farah Karim|Farah]]''': ''(in Arabic) ''Copy. Keep us posted.
+
+''Farah puts down the walkie-talkie and turns to face Alex.''
+
+'''Farah''': My soldiers confirm that the hospital is under siege. Al-Qatala is taking civilians as human shields. They're protecting someone.
+
+'''[[Alex Keller|Alex]]''': Or some thing.
+
+'''Farah''': ''(shrugs)'' The more we find out...
+
+''Hadir, who was manning a sniper rifle, lets out a signaling whistle. A militia fighter nearby responds with a counter-signal whisper. Alex and Farah gaze out into the cityscape itself.''
+
+'''[[Hadir Karim|Hadir]]''': All clear, sister.
+
+'''Farah''': Hadir is my best sniper. You can rely on him... and all my fighters.
+
+''Farah hands her cigarette over to Alex, who graciously receives it.''
+
+'''Alex''': Marines want their pound of flesh. They're leading the charge on this.
+
+'''Farah''': I told you we would help you.
+
+'''Alex''': ''(shrugs)'' And you're keeping your word.
+
+'''Farah''': ''(hesitantly)'' I don't do this to... keep my word. The invaders of my country have no regard for human life. The gas kills all things. Even food in our gardens. If you use these tactics, you are my enemy.
+
+'''Alex''': No exceptions?
+
+'''Farah''': None. Al-Qatala has given my people a bad name, and we have paid dearly for their crimes. I want to see the Wolf punished.
+
+''Alex hands back Farah her cigarette.''
+
+'''Alex''': I'll make sure you're at the embassy for the handoff to [[John Price (Reboot)|Price]].
+
+'''Farah''': And you? Where will you go when this is over?
+
+'''Alex''': Wherever [[Central Intelligence Agency/Modern Warfare (Reboot)|they]] send me.
+
+'''Farah''': ''(slight smile) ''You don't choose?
+
+'''Alex''': ''(chuckles)'' Not exactly.
+
+'''Farah''': Rest up. Tomorrow is a big day.
+
+''Farah tosses her cigarette to the ground.''
+
+'''Alex''': What about you and your men?
+
+'''Farah''': We'll be here until sunrise.
+
+''Farah takes her [[AK-47]] and stands watch for signs of trouble.''
+
+'''Alex''': I'll cover the open corner.
+
+''Farah briefly turns to watch Alex go before resuming her watch. Alex grabs an AK-47 and whistles to a militia fighter, who then responds with his own counter-whistle.''
+==Gameplay==
+''Text appears.''
+
+'''Hunting Party'''
+
+'''28 OCT 2019 0630'''
+
+'''"Alex"'''
+
+'''CIA with Demon Dogs'''
+
+'''Rammaza, Urzikstan'''
+
+''The camera opens to reveal Ramaza Hospital under siege by American forces as Marine helicopters approach the complex. The camera pans down to the alley where Alex, Farah, and Hadir are sitting in the back of a truck.''
+
+'''Farah''': The hospital is at the end of the road.
+
+'''Hadir''': Half a klick.
+
+'''Alex''': I'll be hoofin' it with the Marines.
+
+''A group of Marines approaches the trio, led by Sergeant Griggs.''
+
+'''[[Marcus Griggs|Griggs]]''': Echo 3-1...?
+
+'''Alex''': Sergeant Griggs...
+
+'''Griggs''': All day.
+
+'''Alex''': Call me Alex.
+
+'''Griggs''': No locals on this one. Not my call. ''(to Farah)'' You Karim?
+
+'''Farah''': All day.
+
+'''Griggs''': [[Proxy War|Nice work hitting the Russians.]]
+
+'''Farah''': We share friends and enemies.
+
+'''Hadir''':''' '''''(to Alex, in Arabic) ''Good luck.
+
+'''Alex''': ''(in Arabic)'' See you soon.
+
+''Alex hops off of the truck and goes to join the Marines on the raid.''
+
+'''Griggs''': Let's roll, Alex... [[Demon Dogs]], time to take this shit to the fan...!
+
+'''US Marine 1''': Oorah!
+
+'''US Marine 2''': Oorah!
+
+''A few Marines are preparing to breach a building.''
+
+'''US Marine 1''': Breacher up!
+
+'''US Marine 2''': 3, 2, 1 - Go, go go!
+
+'''US Marine 4''': Right behind you!
+
+'''US Marine 1''': All clear!
+
+''Alex and the Marines begin making their way to the hospital as they pass through the war-torn streets.''
+
+'''Griggs''': You'll find this a target-rich environment - Watch the windows...
+
+'''Griggs''': Good guys look like bad guys out here, shit's fucked up.
+
+'''US Driver 1''': Demon 1-2, Viper 3-5...
+
+'''Griggs''': Viper, where ya at?
+
+'''US Driver 1''': Viper is rollin' northbound to checkpoint Omaha, 1-2...
+
+'''Griggs''': Copy. Rally at the intersection in one mike...
+
+'''US Driver 1''': Solid - Viper, out.
+
+''(If Alex doesn't move immediately...)''
+
+'''Griggs''': Stay close, Alex.; Tighten up, Alex.
+
+''In the sky, a group of [[A-10 Thunderbolt II|A-10 Thunderbolt]] planes fly overhead and unleash their bombs on their target in the distance.''
+
+'''US Marine 1''': Fire in the hole! Warheads on foreheads! Get some...!!
+
+'''US Marine 2''': Woo-hoo-hoo!! Clean up on aisle six, baby!
+
+'''Griggs''': Hustle, 3-1, let's go.
+
+''The Marines notice a civilian watching them from a window before closing it. They then find booby traps in some of the alcoves and alleys, and encounter one such in their way.''
+
+'''US Marine 1''': Got tripwires on the alcove, Sergeant!
+
+'''Griggs''': What's the word, 3-1? Can you disarm it?
+
+''(If Alex stalls:)''
+
+'''Griggs''': Handle these wire traps, 3-1...; Clock's ticking, 3-1, shut that shit down.; Tripwires are all you, Echo!
+
+'''US Marine 1''': Work it, CIA, you got this.; Waitin' on you, CIA. Get 'er done!
+
+''Alex moves up to disarm the tripwire.''
+
+'''Alex''': Check, on it!
+
+''Alex carefully disarms the tripwire.''
+
+'''Alex''': We're clear!
+
+'''Griggs''': Demons - Ribbon's cut, let's move! 
+
+''The Marines meet up with Bradley Fighting Vehicles and armored troop transports.''
+
+'''Griggs''': Follow the armor and stick close.
+
+'''US Marine 2''': Marines! Move up!
+
+'''US Marine 1''': Ooh-rah!
+
+'''US Marine 2''': Ooh-rah!
+
+'''US Marine 3''':''' '''Ooh-rah!
+
+'''US Marine 4''':''' '''Ooh-rah!
+
+''As the Marines make their way down a street, one of the Bradleys is struck by an [[I.E.D. (equipment)|IED]] (Improvised Explosive Device) and explodes, killing a couple Marines..''
+
+'''Griggs''': IED! IED!
+
+''Al-Qatala forces ambush the Marines and open fire, forcing Alex and the others to take cover and engage.''
+
+'''US Marine 1''': Get cover!
+
+'''US Marine 2''': MG, 12 o'clock! Blue building! Third floor!
+
+'''Griggs''': Pop smoke and flank, up the high side!
+
+''Alex throws a [[Smoke Grenade|smoke grenade]] at the enemy forces.''
+
+'''Alex''': Popping smoke!
+
+''The grenade lets out a thick plume of smoke, allowing the Marines to move up under cover from enemy fire.''
+
+'''Griggs''': Move! Move-! Push up! Push up!
+
+''The Marines flank around the machine guns and encounter Al-Qatala forces, whom they are forced to engage. An Al-Qatala vehicle with a mounted machine-gun rolls onto the scene and attacks the Marines.''
+
+'''US Marine 1''': Enemy vehicle rolling in!
+
+'''Griggs''': 3-1, throw a smoke grenade and push up that flank!
+
+''Al-Qatala forces appear on the rooftops and open fire on the Marines, including a machine gunner.''
+
+'''US Marine 3''': Eyes high, they're all over the rooftop!
+
+'''US Marine 2''': He's pinning us down!
+
+'''Griggs''': Get rounds up there!
+
+''(If Alex stays in one place for long enough...)''
+
+'''Griggs''': Close the distance, 3-1, push up!
+
+''(If Alex tries shooting at the machine gunner without forcing entry...)''
+
+'''Griggs''': 3-1, he's not in range - You're wasting good ammo!; Small arms won't do shit on that MG, Echo! We gotta flank!
+
+''Alex helps the Marines to take down the machine gunner by using smoke grenades.''
+
+'''Griggs''': Advance!; Make entry and clear out that MG!
+
+'''US Marine 1''': Throwing smoke!
+
+''A Marine throws a smoke grenade, allowing the Marines to move up.''
+
+'''Griggs''': Throw smoke and go, Echo!
+
+''Griggs throws a smoke grenade.''
+
+'''Griggs''': Smoke, out! Move! Move-!
+
+''(If Alex is close to the machine gunner but not stacking up...)''
+
+'''Griggs''': Force entry and take out that gunner, 3-1!; Get up there, Echo! Show us how it's done!
+
+''Alex and the Marines stack up by the door leading to the machine gunner and prepare to breach.''
+
+'''US Marine 1''': All yours, 3-1. Get in there and roll up that shooter!
+
+'''US Marine 2''': Right behind you, Echo!
+
+''Alex enters the building and clears out any Al-Qatala fighters he encounters on the first level.''
+
+'''Alex''': First deck - Clear!
+
+''Alex tries moving up to the second level, but the staircase is tripwired.''
+
+'''Alex''':: Be advised, traps on the steps...
+
+''(If Alex stalls...)''
+
+'''US Marine 1''': Dismantle it, 3-1, got you covered!
+
+'''US Marine 2''': There a problem, 3-1?
+
+''Alex disarms the staircase tripwires and proceeds to the second level.''
+
+'''Alex''': 3-1, moving to second deck!
+
+'''Griggs''': Copy, 3-1, watch yourself!
+
+'''US Marine 2''': Behind you.
+
+''Alex checks a nearby room for enemy soldiers.''
+
+'''Alex''': Clear!
+
+'''US Marine 1''': Rear.
+
+''The Marines find an unarmed dead woman.''
+
+'''US Marine 1''': Unarmed...
+
+'''US Marine 2''': Damn.
+
+''Alex heads up the stairs to the third level where the machine gunner is.''
+
+'''Alex''': Moving to third deck.
+
+'''Griggs''': That's your target floor - get in there and whoop some.
+
+'''Alex''': I intend to...
+
+''Alex enters the room on the third floor where the machine gun emplacement is and eliminates the Al-Qatala fighters in there.''
+
+'''Alex''': Clear!
+
+''Alex and the Marines exit the building and continue on to the hospital. They encounter fierce resistance on the road.''
+
+'''Griggs''': Copy that! All teams, rally with the convoy. Demon 1-2 to Red Hammer 7 - We're taking fire from troops defending the south entrance of the hospital - Request immediate suppression, over...
+
+'''US Gunship Pilot''':''' '''''(over radio)'' Roger, Demon 1-2 - Hammer is visual on that position. Target is acquired. Stand by for danger close.
+
+'''Griggs''': Marines! Hold up! We have overhead ordnance comin' hot on this grid!
+
+'''US Gunship Pilot''': Shots out, shots out...!
+
+'''Griggs''': Incoming!
+
+''The Apache gunships appear in the sky and release a volley of missiles on the hospital building.''
+
+'''US Marine 2''': Oh hell yeah!
+
+'''US Marine 4''': Feel that burn, baby!
+
+'''US Marine 3''': Holy fuckin' shit!
+
+''The Apaches cease firing on the hospital and fly off into the distance.''
+
+'''US Gunship Pilot''': Demon 1-2, Red Hammer 7, target destroyed, vector is cleared. I repeat, vector is clear.
+
+'''Griggs''': All Demon Dogs -- Road is clear! You are green to get some!
+
+'''US Marine 1''': Ooh-rah!
+
+'''US Marine 2''':''' '''Ooh-rah!
+
+'''US Marine 3''':''' '''Ooh-rah!
+
+'''US Marine 4''':''' '''Ooh-rah!
+
+'''Griggs''': Hospital lobby's our entry point!
+
+''Alex and Griggs lead the Marines through the open field and towards the hospital's lobby where Al-Qatala fighters open fire on the Marines.''
+
+'''US Marine 2''': Hospital entrance is visual, appears to be fortified.
+
+''An Al-Qatala fighter inside the hospital launches an [[RPG-7|RPG]] missile from the window above the lobby entrance.''
+
+'''US Marine 1''': RPG!
+
+'''US Marine 2''': Get heat on 'em!
+
+'''Griggs''': Focus fire on the entry!
+
+''Alex helps Griggs and the Marines lay down fire on the hospital's firing points as Al-Qatala fighters emerge from the hospital to engage the Marines.''
+
+'''US Marine 1''': Hostiles inbound!
+
+'''Griggs''': Drop his ass!
+
+''Eventually, the Marines manage to kill the Al-Qatala fighter carrying the RPG.''
+
+'''US Marine 1''': RPG down!
+
+'''Griggs''': All Demons, move in! Move! Move-!
+
+''Alex and the Marines move in on the hospital lobby entrance and clear out any fighters they encounter.''
+
+'''Griggs''': All stations! Lobby secure, no sign of the Wolf. Demons are on the hunt!
+
+'''Alex''': Let's bag this son of a bitch, Griggs!
+
+'''Griggs''': Long as we take him alive, 3-1!
+
+'''Alex''': Roger that.
+
+''Alex and Griggs lead the Marines through to the other side of the lobby where they open the door leading further into the hospital. Through the doors, they encounter both Al-Qatala fighters and civilians in the hallways.''
+
+'''Griggs''': Civilians! Check fire! Check fire!
+
+'''US Marine 1''': Shit! Who the fuck is who in here?!
+
+'''Griggs''': Check your shots! Keep it tight!
+
+''Alex and the Marines proceed through the hallways and adjacent rooms, clearing out and Al-Qatala fighters they encounter another trip wire that Alex disarms.''
+
+'''Alex''': Secure!
+
+''Alex and the Marines come to a flight of stairs which they use to move up on the second floor.''
+
+'''US Marine 1''': All clear!
+
+'''Griggs''': All stations, Demons are moving up to second deck. No sign of the Wolf...
+
+'''Alex''': They're tryin' to keep us away from something...
+
+'''Griggs''': That's for damn sure.
+
+''Alex and Griggs lead the Marines through the second floor where they see various dead or wounded civilians on stretchers and beds.''
+
+'''US Marine 1''': Place is a freakin' morgue...
+
+'''Griggs''': Could be an ambush...
+
+'''US Marine 2''': Like some zombie shit?
+
+'''Griggs''': Just check 'em... All of 'em...
+
+'''US Marine 1''': Damn...
+
+''One of the civilians tries to sit up straight in his bed only for one Marine to hold him down.''
+
+'''US Marine 1''': Sit-the-fuck-down!; Don't move -- Do-not-fucking-move!; Sit, sit...
+
+'''Alex:''' (in Arabic) You, hands...!; Show me your hands!
+
+'''Civilian Male 1:''' (in Arabic) Don't Shoot!; Please, I am sick!; I have nothing!
+
+'''Griggs''': ''(on radio)'' Demon 3, this is 1-2, what's your status...?
+
+''The radio only crackles with static.''
+
+'''Griggs''': Take point on this, 3-1...
+
+'''US Marine 2''': Get down! Get down!; Down! Get down!
+
+''Suddenly, one of the civilians springs into action with a hidden rifle and tries to shoot the Marines.''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Die!; Burn in hell!; For The Wolf!
+
+'''Alex''': He's got a weapon!; Got a gun!; Gun!
+
+'''Griggs''': Shooter!; Gunner!
+
+''Alex dispatches the shooter quickly.''
+
+'''Griggs''': Clear! ''(on radio)'' 1-2 to Demon 3, how copy?
+
+'''US Marine 2''': Demon 3 dropped off, Sergeant.
+
+'''Griggs''': Shit -- Find them...!
+
+''Alex and the Marines move down a hallway only to encounter another ambush by Al-Qatala fighters with a machine gun firing on them.''
+
+'''US Marine 2''': MG!
+
+'''US Marine 1''': Get cover!
+
+'''Griggs''': Push up! Push up!; Cover! Take cover!
+
+''(If Alex is out of smoke grenades...)''
+
+'''Griggs''': I got smoke grenades if you're out, Echo...
+
+''The Marines take cover and attempt to eliminate the machine gunner.''
+
+'''Griggs''': That fucker's tucked in hard! Pop smoke and get up on him! Cover and move! Close your distance!
+
+''The machine gunner stops to reload his weapon.''
+
+'''US Marine 1''': Enemy MG is reloading!
+
+''Alex uses the adjacent rooms in the hallway to take cover and flank the machine gunner. He encounters an improvised tripwire that he promptly disarms.''
+
+'''Alex''': Secure!
+
+''Alex moves up and manages to eliminate the machine gunner.''
+
+'''Griggs''': Nest is clear! Nicely done, Echo!
+
+'''Alex''': My fuckin' pleasure, Sergeant.
+
+''Alex and Griggs lead the Marines down the hallway to a room that's been secured with a padlocked chain. Alex defuses yet another tripwire.''
+
+'''Griggs''': You got any word from Demon 3?
+
+'''US Marine 1''': Nothing, Sergeant.
+
+'''Griggs''': Get eyes in that room.
+
+'''US Marine 3''': Roger.
+
+''The Marines stand by the door and slip a snake cam underneath them to see what's on the other side.''
+
+'''US Marine 3''': Cam set!
+
+''Alex looks through the snake camera and sees several Al-Qatala fighters holding Demon 3 and two other Marines hostage while the Wolf stands in front of a camera and records a message.''
+
+'''Wolf''': Your men cannot save you! You were sent here to kill me but you will die because of your continued bombings and your proxy wars...
+
+''An Al-Qatala fighter kicks a Marine forward for the Wolf to grab and display in front of the camera for an execution.''
+
+'''Griggs''': What do you see, 3-1?; What's the sit-rep?; 3-1, what do we got?
+
+''The Wolf grabs the Marine and raises a machete before putting it to his neck, preparing to kill him.''
+
+'''Wolf''': Just as your missiles and bullets continue to strike our people, our knives will continue to slash your throats in retaliation! Those governments that come to our land uninvited will perish! We will never again be captive to a foreign power!
+
+'''Alex''': PID on the Wolf, three Marine hostages - He's gonna kill 'em, we gotta breach...
+
+'''Griggs''': Motherfuckers! Flank 'em from the rear, I'll take the main. Alex, take the window. Find a way around.
+
+'''Alex''': Copy that.
+
+''One of the Marines pushes a metal cabinet that's been blocking the window aside so Alex can climb out that window. Alex and a couple Marines wind up outside on a pathway leading to a door ahead.''
+
+'''US Marine 1''': Door ahead.
+
+''(If Alex takes a while to approach the door...)''
+
+'''Griggs''': Hustle, 3-1, let's go.
+
+''Alex and the Marines approach the door.''
+
+'''Alex''': Griggs, we're heading inside. Stand by.
+
+''Alex opens the door only to notice another tripwire planted just inches away from being triggered.''
+
+'''Alex''': Hold.
+
+''Alex disables the tripwire, allowing him and the Marines to go through the door and prepare to assault the room where the Wolf is.''
+
+'''Griggs''': Demons set. Take this animal alive, Alex... Don't shoot him, get him on the ground. 
+
+''Alex crouches down behind cover and gets close enough to the Wolf to see him raise his machete in the air. Just as the Wolf is about to execute the Marine, Alex springs out of hiding and attacks the Wolf by grabbing his weapon arm and pinning him to the ground. The Al-Qatala fighters that were observing the planned execution raise their weapons to defend the Wolf.''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Protect the Wolf!
+
+''Suddenly, Griggs and his Marines burst down the doors and shoot the Wolf's men.''
+
+'''Griggs''': Clear.
+
+''The Marines secure the room and help the hostages out, just as Griggs kneels down beside the hostage who was about to be executed.''
+
+'''Griggs''': We gotchya, brother-man, you're alright... You good, Alex?
+
+''Alex hauls the Wolf up to his feet and looks the terrorist leader in the eye.''
+
+'''Alex''': Good, Griggs... Omar Sulaman, you are now in custody of Special Operations Force. Do exactly as you're told, or you're a dead man.
+
+''Griggs takes a pair of zipties and restrains the Wolf's hands.''
+
+'''Griggs''': Hell, yeah- All Demon teams, Marines are secure! Wolf is in the bag, let's move him to the Embassy.
+
+''The camera fades to black.''
+
+''(End of level)''
+
+{{CoD16 CampaignT}}
+[[Category:Call of Duty: Modern Warfare (2019) Transcripts]]

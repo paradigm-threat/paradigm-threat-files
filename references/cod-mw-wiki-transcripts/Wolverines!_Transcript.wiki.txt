@@ -1,0 +1,393 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_2_Transcripts -->
+<!-- title: Wolverines!/Transcript -->
+
+{{game|mw2|mw2r}}
+
+==Cutscene==
+''NORAD HQ's satellite tracks three 6-triangle formations of bogeys approaching around the U.S. One group over the Bering Strait near Alaska.''
+
+'''NORAD HQ''': [[Sand Bravo]], we're reading 70 bogeys in your sector, please verify.
+
+'''Nome AFB''': Very funny, Station. That's a big negative, over.
+
+'''NORAD Controller''': Yeah, it might be a glitch in one of the ACS modules. ''(With subtitled in the Remastered version)''
+
+''["Running A.C.S. diagnostics..."]''
+
+'''NORAD HQ''': Sand Bravo, be advised, running diagnostics to scan for malfunction.
+
+'''Nome AFB''': The skies are clear, Station. You got yourself some phantom dots. Over.
+
+''Another large group over the Pacific near the West Coast.''
+
+'''NORAD HQ''': [[Zulu X-Ray 6]]. Signs in your sector of some 100 bogeys, please advise.
+
+'''Vandenberg AFB''': Negatory, Station. Scope is clear. I dunno what to tell ya. Solar interference? Heavy sunspot activity today.
+
+'''NORAD HQ''': Sierra Delta, uh... we may have a minor ACS fault here. Do you have anything on your scope?
+
+'''Air Traffic Controller''': THEY'RE EVERYWHERE!
+
+''And a massive group of bogeys on the East Coast all over I-95.''
+
+'''NORAD HQ''': Sierra Delta, repeat!
+
+'''Air Traffic Controller''': ''(Civil Defense Siren blaring in background)'' I'm lookin' at fighter jets over I-95! How the hell did they get through?!
+
+'''NORAD HQ''': Standby! Attempting to contact the nearest unit in that sector.
+
+''Sgt. Foley answers the call.''
+
+'''[[Foley (Modern Warfare 2)|Sgt. Foley]]''': I read you. This is First Battalion, 75th Ranger Regiment, Sergeant Foley, acting commander of Hunter Two-One. Do you copy, over?
+
+''["A.C.S. Diagnostic Complete: FAULT"]''
+
+'''NORAD HQ''': All stations, be advised - satellite surveillance has been disabled! [[wikipedia:SOSUS|SOSUS]] and [[wikipedia:PAVE PAWS|PAVE PAWS]] arrays are inoperative at this time!
+
+''The satellite tracks U.S. Army Ranger Private James Ramirez in Northeastern Virginia.''
+
+==Gameplay==
+'''["Wolverines!"]'''
+
+'''[Day 4 - 17:45:34]'''
+
+'''[Pvt. James Ramirez]'''
+
+'''[1st Bn., 75th Ranger Regiment]'''
+
+'''[Northeastern Virginia, U.S.A.]'''
+
+''Private [[James Ramirez]], Sgt. Foley, [[Dunn|Cpl. Dunn]], and [[Morgan|Pvt. Morgan]] start off in a Humvee together. As they drive through a small town, radio chatter is heard of U.S. forces unpreparedly engaging the Russian Federation Army. (In the Remastered version, the scene opens as an air raid siren blares loudly to alert everyone that the United States is under attack.)''
+
+'''Soldier 1 (on radio)''': The Russians have everything east of I-95! My sector's gonna fall within the hour! 
+
+'''Soldier 2 (on radio)''': We've lost contact with Annapolis! Where's the air support?! 
+
+'''Soldier 3 (on radio)''': Counter battery fire is unable to engage! Enemy paratroopers have infiltrated their position! We are CUT OFF! I REPEAT: WE ARE CUT OFF!! (''short pause)'' Broken Arrow, Broken Arrow! Drop that thousand pounder on the red smoke! NOW!!! 
+
+'''Soldier 4 (on radio)''': Interrogative: Can your Harriers take out the interchange at I-495 and US-50, over?!{{Tabber2|Modern Warfare 2|''Up above in the sky, Russian MiGs are flying low and fast and transport planes are dropping paratroopers and armored vehicles. The front Humvee's gunner spools his minigun at one paratrooper attempting to land on the roof of a house. The team drives down the street until they approach some roadblocks. A BTR-80 is at the end of the street, appearing from behind a tall hedge to catch the convoy by surprise.''
+
+'''Sgt. Foley''': We got a [[BTR-80|BTR]]! Get out, get out!
+
+''They get out of their Humvee and follow Sgt. Foley behind some houses, out of the fire of the BTR, which destroys their Humvees, killing the Rangers in the lead one and wounding Ramirez if he was too close when his Humvee exploded.''|Modern Warfare 2 Remastered|''Up above in the sky, Russian MiGs are flying low and fast and transport planes are dropping paratroopers and armored vehicles. The front Humvee's gunner spools his minigun at one paratrooper attempting to land on the roof of a house. The team drives down the street until they approach some roadblocks. A BTR-80 appears from behind a tall hedge at the end of the street and the lead Humvee's gunner fires at it, but the minigun's bullets do little to damage the BTR before it retaliates with its heavy auto-cannon, destroying the Humvee easily.''
+
+'''Sgt. Foley''': We got a [[BTR-80|BTR]]! Get out, get out!
+
+''Ramirez barely abandons his Humvee before it gets blown to pieces, knocking him to the grass. Panting heavily in shock, he gets back to his feet and runs to cover as the BTR blasts the house he, Foley, Dunn, and Morgan take cover behind to pieces.''
+}}'''Sgt. Foley''': Team, this way! Let's go let's go!
+
+''They move along the street behind the houses. Ramirez pulls out the new [[SCAR-H]] with a [[Red Dot Sight]] and [[Shotgun (attachment)|Masterkey Shotgun]] attachment.''
+
+'''Sgt. Foley''': Overlord, this is Hunter 2-1 requesting air support, over!
+
+'''[[Overlord]]''': Hunter 2-1, all air support is already engaged. Additional ground support is en route to your position but has encountered heavy resistance, over.
+
+'''Sgt. Foley''': Roger that Overlord. Be advised, we've encountered enemy armor and are proceeding on foot, over.
+
+'''Overlord''': Overlord copies all. Good luck. Out.
+
+''They continue down the back way until they reach a street. ''
+
+'''Cpl. Dunn''': Sarge, did HQ just tell us to go 'F' ourselves?
+
+'''Sgt. Foley''': Pretty much, Corporal!
+
+'''Sgt. Foley''': I got a fix on Raptor! 300 meters to the east!
+
+'''Cpl. Dunn''': (over radio) Roger that.
+
+''The BTR approaches from down the opposite street, blowing up houses and cars as it goes with its heavy auto-cannon.''
+
+'''Sgt. Foley''': Hold your fire! Don't engage the BTR - they haven't acquired us! Hang right and stay behind it!
+
+''They run behind another backyard to the right of the BTR.''
+
+'''Sgt. Foley''': I got a visual on smoke coming from the crash site. That's where Raptor went down!
+
+''They follow Sgt. Foley up the road after the BTR has passed. The BTR stops at a roadblock. Its doors open and troops exit the vehicle.''
+
+'''Sgt. Foley''': We're spotted! Ramirez - use your [[Smoke Grenade|smoke grenades]]! Dunn, Morgan - cover him!
+
+''If the player doesn't immediately throw a smoke grenade:''
+
+'''Sgt. Foley''': Throw a smoke grenade on that BTR!; Team, get some smoke on that BTR! Move!
+
+''Ramirez throws smoke grenades on the BTR.''
+
+'''Sgt. Foley''': Use the cover of the smoke to run past the BTR into the alley!
+
+''If the player stalls:''
+
+'''Sgt. Foley''': Ramirez! Come to the alley!
+
+''They avoid the BTR and the troops coming out of it and run into a side alley, including as the BTR backs up to try and shoot them before withdrawing. A Russian paratrooper is seen attempting to untangle himself free from his parachute, but to no avail as Ramirez easily kills him. More hostiles come out from the alley and they engage them. They run to the end of the alley.''
+
+'''Sgt. Foley''': Incoming! Truck 12 o'clock!
+
+''They kill the hostiles from the truck and run into the parking lot of the Nova Gas Station. A few more Russians are killed at the gas station's convenience store.''
+
+'''Sgt. Foley''': On me! Go! Go! Go!
+
+''They cross the street and into the parking lot of Nate's Restaurant as another BTR fires on Nate's with its auto-cannon as it circles through Burger Town's parking lot, damaging the roof.''
+
+''If Ramirez aims at the BTR:''
+
+'''Sgt. Foley''': Team! Don't engage that BTR! Our objective is the crash site!
+
+''If the player shoots at Nate's Restaurant:''
+
+'''Sgt. Foley''': Check your fire, check your fire! Friendlies coming in at 1 o'clock at the Tan and Brown building!
+
+''If the player is not at Foley's position:''
+
+'''Sgt. Foley''': Ramirez, we're at the crash site! Get over here!
+
+''If the player is still not there:''
+
+'''Sgt. Foley''': The crash site is on the north side of Nate's Restaurant!
+
+''Ramirez stacks up with Foley. They approach a downed helicopter, where Pvt. Wells is fighting off Russian forces at CRB Financial from behind a wrecked police car.''
+
+'''Sgt. Foley''': Private! Gimme a sitrep! Where's [[Raptor]]?
+
+'''[[Wells (Modern Warfare 2)|Pvt. Wells]]''': We moved him to the meat locker, it's practically bulletproof!
+
+'''Sgt. Foley''': What's his status?
+
+'''Pvt. Wells''': He's still unconscious, you got a medic?
+
+'''Sgt. Foley''': Corporal Dunn, check it out! What else?
+
+'''Pvt. Wells''': We got a supply drop on the roof with a M-5 [[Sentry Gun|sentry gun]]!
+
+'''Sgt. Foley''': Ramirez - get to the roof and check out the supply drop!
+
+''If the player stays long enough:''
+
+'''Sgt. Foley''': What about anti-tank weapons? Air support?
+
+'''Pvt. Wells''': We're all out.
+
+''Dunn goes to the meat locker which is being guarded by a Ranger. He checks on Raptor.''
+
+''If the player still stalls:''
+
+'''Sgt. Foley''': Ramirez, use the ladder in the kitchen to get to the roof!
+
+''If the player still stalls:''
+
+'''Sgt. Foley''': Ramirez, this is Foley. Get to the roof, there's a maintenance ladder in the kitchen.; Ramirez, this is Foley. Get to the roof and check out the supply drop.
+
+''Ramirez heads inside the restaurant, and finds a ladder in the kitchen. He climbs to the top of the roof. There is an ammo crate which the player can refill his ammo.''
+
+'''Sgt. Foley''': Heads up ladies, we got trucks to the south.
+
+'''Cpl. Dunn''': They're using smoke to cover their advance!
+
+'''Sgt. Foley''': Squad, this is Hunter 2-1 Actual. Switch to thermal optics if you got 'em.
+
+'''Sgt. Foley''': Incoming from the south! Two dozen plus foot mobiles!
+
+''Ramirez picks up an [[M14 EBR]] with [[Thermal Scope]] and takes out the incoming troops from the south (kill 6 enemies in a row using thermal to get achievement: "Some Like it Hot").''
+
+'''Sgt. Foley''': Tangos on the roof behind us!
+
+''The player can turn towards the Burger Town rooftop and take out a few more hostiles there. After Ramirez and the team clear the south side of Nate's Restaurant of troops, the team runs to the other side of the roof.''
+
+'''Cpl. Dunn''': Incoming, north side!
+
+'''Sgt. Foley''': Roger that!
+
+''Ramirez moves the sentry gun to the north side of Nate's Restaurant. ''
+
+'''Cpl. Dunn''': Contact to the north!
+
+'''Sgt. Foley''': Team, we got contacts to the north.
+
+'''Sgt. Foley''': Team, shift your fire north.
+
+'''Cpl. Dunn''': They're layin' down a smokescreen to the north.
+
+'''Sgt. Foley''': Roger. Switch to thermal if you got it.
+
+''Ramirez takes out the troops coming from the north with an M14 EBR with a Thermal Scope. If the hostiles make their way to the rooftop:''
+
+'''Sgt. Foley''': Our perimeter is breached! Enemies on the roof!; Contact! Hostiles on the roof! Inside our perimeter!; Squad! Hostiles on the roof! Turn around!; Tangos on the roof behind us!
+
+''Ramirez takes out the troops climbing the two ladders to the roof. The hostiles are eliminated.''
+
+'''Sgt. Foley''': Looks like Ivan's had enough. Corporal Dunn, gimme a sitrep on Raptor, over.
+
+'''Cpl. Dunn''': Raptor is secure and stable.
+
+'''Sgt. Foley''': Roger that. Everyone check your weapons and ammo. They'll be back.
+
+'''Sgt. Foley''': Two-One-Delta, be advised, two BTRs coming in from the north.
+
+'''Cpl. Dunn''': Roger that.
+
+''Suddenly, missiles explode in the parking lot of Nate's Restaurant. ''
+
+'''Cpl. Dunn''': What the hell was that?!
+
+'''Sgt. Foley''': Get off the roof!; Get off the roof, now!
+
+''If Ramirez does not immediately get off the roof:'' 
+
+'''Sgt. Foley''': Ramirez! Get the fuck off the roof! ''(the word "fuck" is censored by a BTR blast in the original game)''
+
+''Ramirez and the team jump down the ladder into the kitchen. ''
+
+'''Cpl. Dunn''': I have a visual on an enemy UAV operator remote-piloting those missiles! He's inside that diner to the west, over!<ref>Rendered as two separate sentences in the subtitles, can actually be said as two separate sentences if the player completes objectives before being prompted and/or out of sequence</ref>
+
+'''Sgt. Foley''': Ramirez! Get over there, and kill that SOB! I'm sending part of the squad to help you out! Go!<ref>Rendered as two separate sentences in the subtitles, can actually be said as two separate sentences if the player completes objectives before being prompted and/or out of sequence</ref>
+
+''Ramirez, Dunn, and a small group of Rangers run across Nate's parking lot to Joe's Diner.''
+
+''If a BTR acquires the player as a target:''
+
+'''Sgt. Foley''': Get down! One of the BTRs has a visual on you!; Take cover! That BTR's spotted you!; Get behind something solid! That BTR's got you in his sights!
+
+''Ramirez takes cover while the BTR passes him.''
+
+''Ramirez makes his way into the diner. There he engages Russian soldiers inside, with additional hostiles entering the diner through the back door and attacking from outside the gas station.''
+
+'''Cpl. Dunn''': Incoming! Back door!
+
+''Ramirez and the other Rangers clear the diner of hostiles.''
+
+'''Cpl. Dunn''': Ramirez - get the control rig for the [[UAV]]!
+
+''Ramirez grabs the UAV control rig off the counter. If the BTRs are still operational:''
+
+'''Sgt. Foley''': Ramirez, neutralize that enemy armor.
+
+''Ramirez uses the UAV rig to take out the first BTR in the area.''
+
+'''Sgt. Foley''': Good effect on target. That's a kill. One more to go.
+
+''Ramirez uses the UAV rig to destroy the second BTR (or both BTRs if they're within the blast radius at the same time).''
+
+'''Sgt. Foley''': Nice work team. Regroup over here.
+
+''If Ramirez stalls:''
+
+'''Sgt. Foley''': Ramirez, regroup in the restaurant.
+
+''Ramirez and the other Rangers leave the diner and begin moving back to Nate's Restaurant to regroup.''
+
+'''Sgt. Foley''': Enemy fast movers! Take cover!
+
+''Two [[MiG-29|MiGs]] fly overhead and bomb Nate's Restaurant before Ramirez can reach it. The sign goes flying off before crashing to the ground on the curb across from the wrecked restaurant.''
+
+'''Cpl. Dunn''': Two-One-Actual you still there?
+
+'''Sgt. Foley''': (coughs) Roger that. Everyone listen up - new plan. Ramirez! (coughs) Take your team and secure Burger Town! We're gonna move Raptor over there! This location has been compromised!
+
+'''Sgt. Foley''': Everyone else listen up! We're moving Raptor ASAP! Stack up by the south entrance of Nate's! We need to get the hell out of this building before those fast movers make another pass.
+
+''Ramirez and his squad run across the parking lot to Burger Town and engages the tangos inside. ''
+
+'''Sgt. Foley''': Ramirez! We still got hostiles near the Burger Town, we need to move!<ref>Written as "Ramirez! We still have hostiles near the Burger Town, we need to move!" in the subtitles</ref>
+
+''The tangos inside are killed.''
+
+'''Sgt. Foley''': Squad be advised, we’re gonna move Raptor from Nate’s to the Burger Town as a group! On three!
+
+'''Sgt. Foley''': One! Two! Three!
+
+'''Sgt. Foley''': Go go go!
+
+''Sgt. Foley and his team, carrying Raptor, make their way over to Burger Town from Nate’s Restaurant.''
+
+'''Sgt. Foley''': Team, this way! Let’s go let’s go!
+
+'''Sgt. Foley''': Keep these guys off me!
+
+''They engage hostiles positioned at Taco To Go. ''
+
+'''Cpl. Dunn''': Tango down.
+
+''Sgt. Foley secures Raptor in a meat locker inside Burger Town and shuts the door locked.''
+
+'''Sgt. Foley''': Squad, I've made it to the Burger Town meat locker. Raptor is inside and secure. The door is shut - you guys keep Ivan out. Friendly convoy is oscar mike.
+
+''Waves of hostiles drop on various locations, Overlord advises the player of their presence. The following lines are examples spoken in-game.''
+
+'''Overlord''': Hunter 2-1, this is Overlord Actual, we're seeing a large group of enemy reinforcements to your north, over.; Be advised, Hunter 2-1, you have an enemy patrol by that bank to the north, over.; Hunter 2-1, fifteen-plus tangos approaching near the diner to the west, over.; Hunter 2-1, relay from Goliath Two, enemy reinforcements approaching from the west, over.; Hunter 2-1, be advised, fifteen-plus enemy foot-mobiles approaching north of your location, over.; Hunter 2-1, Goliath One has a visual on a hostile patrol coming from the southeast, over.; Hunter 2-1, Hunter Four has a visual on a hostile group near the Nova gas station, over.; Hunter 2-1, be advised, multiple enemy foot-mobiles have been sighted near the taco joint, over.; Hunter 2-1, Overlord. Estimate twenty enemy foot-mobiles approaching you from the southeast, over.; Hunter 2-1, Hunter 4 has identified a large hostile group near the Burger Town, over.
+
+'''Sgt. Foley''': Ramirez, we got hostiles! Use your Predator Drone control rig to protect Raptor.; Ramirez, use the remote controlled Predator Missiles! We got incoming infantry! Keep them away from Burgertown!
+
+''Pvt. Ramirez takes out targets with the Predator Drone. Depending on how many kills he gets per missile, Overlord remarks his performance with the following lines:''
+
+'''Overlord''': That's a direct hit, Hunter 2-1. Keep up the fire.<ref>Written as "Thats a direct hit hunter two one. Keep up the fire." in the subtitles</ref>; He's down.; You got 'em. Good kill.; Good kills, Hunter 2-1. Good kills.<ref>Written as "Good kills hunter two one. Good kills." in the subtitles</ref>
+
+''If Ramirez gets five plus KIAs with any missile'':
+
+'''Overlord''': Five plus confirmed kills. Nice work, Hunter 2-1.<ref>Written as "Five plus confirmed kills. Nice work, Hunter two one." in the subtitles</ref>; Hunter 2-1, that's another five plus confirmed.<ref>Written as "Hunter two one, that's another five plus confirmed." in the subtitles</ref>; Good hit. More than five KIAs.
+
+''If Ramirez gets ten plus KIAs with any missile (earns achievement: Ten Plus Foot-Mobiles):''
+
+'''Overlord''': Ten plus KIAs. Good hit. Good hit.; Oh, man, that's another ten plus confirmed, Hunter 2-1. Good shootin'.<ref>Written as "Oh, man, that's another ten plus confirmed, Hunter two one. Good shootin'." in the subtitles</ref>; That's gotta be at least five, no, ten plus KIAs.; Oh man that's at least ten more confirms, Hunter 2-1. Good shootin'.<ref>Written as "Oh man that's at least ten more confirms hunter two one. Good shooting." in the subtitles</ref>; That looks to be at least five, no, ten kills, Hunter 2-1. Keep it up.<ref>Written as "That looks to be at least five no, ten kills, hunter two one. Keep it up." in the subtitles</ref>
+
+''The Predator Drone gets shot down after the second wave.''
+
+'''Ranger''': Someone just took out our Predator! Be advised, the Predator is offline! I repeat, the Predator is offline!
+
+''The Rangers are forced to hold off the third wave without the Predator. If Ramirez tries to use the Predator Drone''.
+
+'''Overlord''': [[Predator Missile|AGMs]] are offline.; The UAV is offline.; The Predator Drone is offline.; Predator Drone is offline.; AGMs are down, Hunter 2-1.; UAV is offline.
+
+''The third wave is held off.''
+
+'''Overlord''': Hunter 2-1 this is Overlord. We got a visual on a pair of enemy attack helicopters headed for your area, over.
+
+'''Sgt. Foley''': Solid copy, Overlord. Team! Take down that helicopter! Go!
+
+'''Sgt. Foley''': Team! I saw a Stinger missile in that diner to the west!
+
+''If the player hasn't acquired a Stinger missile after a while:''
+
+'''Sgt. Foley''': There's a [[FIM-92 Stinger|Stinger]] missile in that stockpile to the west!
+
+''Ramirez heads to Joe's Diner, retrieves a Stinger missile from inside, and shoots down the first Mi-28 Havoc that shows up.''
+
+'''Sgt. Foley''': Nice work! That heli is down.
+
+''An additional hostile wave appears from a random location; Overlord advises the player of their presence using the same lines as before. Soon afterwards, a second Havoc arrives.''
+
+'''Overlord''': Hunter 2-1, relay from Goliath One: you got an enemy helicopter loaded for bear approaching your area, over.
+
+'''Cpl. Dunn''': Eyes up! Enemy gunship comin' in hot!
+
+'''Sgt. Foley''': The second helo just showed up! Take it down!
+
+'''Sgt. Foley''': Team! I saw a couple of Stingers on the roof of Nate's!
+
+''If the player hasn't acquired a Stinger missile after a while:''
+
+'''Sgt. Foley''': There's Stingers on the roof of Nate's restaurant!
+
+''Ramirez heads to the roof of Nate's, grabs another Stinger missile, and shoots down the second Havoc. A convoy of Humvees and [[M2A2 Bradley|M2 Bradleys]] arrives to the south of Burger Town a few seconds later.''
+
+'''Sgt. Foley''': The convoy's here! Everyone on me! We're getting the hell outta here! Let's go, let's go!
+
+''If the player stalls:''
+
+'''Sgt. Foley''': Ramirez! The convoy is just to the south of Burger Town, get your ass over here! Move!
+
+'''Cpl. Dunn''': Ramirez! We gotta get back to the convoy! Let's go!
+
+''Ramirez and the other Rangers reach the convoy and begin to evacuate the area. (In the Remastered version, Ramirez grabs a SCAR-H with Red Dot Sight waiting for him in the backseat of the open air Humvee.)''
+
+'''Overlord''': Hunter 2-1, this is Overlord, gimme a sitrep, over.
+
+'''Sgt. Foley''': Overlord, Hunter 2-1. Be advised: precious cargo is secure, repeat, precious cargo is secure. We're Oscar Mike.
+
+'''Overlord''': Overlord copies all. Good job. Out.
+
+'''Sgt. Foley''': Squad, we still got 2,000 civvies in Arcadia. If you got family there, it's your lucky day - we're gonna go save their lives!
+
+<references />
+{{CoD6 CampaignT}}
+[[Category:Call of Duty: Modern Warfare 2 Transcripts]]

@@ -1,0 +1,806 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_(2019)_Transcripts -->
+<!-- title: Going Dark/Transcript -->
+
+{{game|mw}}
+== Cutscene ==
+''A Russian police cruiser is seen driving on a road. [[John Price (Reboot)|Price]] drives the police car and [[Kyle "Gaz" Garrick|Kyle]] is seated in the back of the car.''
+
+'''Price''': ''(to Kyle)'' Hey... There's a checkpoint.
+
+'''Kyle''': For us?
+
+''Kyle pulls out his [[M13]] assault rifle.''
+
+'''Price''': What - is there a difference?
+
+'''Kyle''': Road's blocked. What's the plan...?
+
+''Price is thinking.''
+
+'''Price''': Shock and awe.
+
+''Price turns on the lights and the sirens.''
+
+[POLICE SIRENS WAIL]
+
+'''Kyle''': What if they don't move?
+
+'''Price''': Then all hell's going to break loose...
+
+''Price loads his [[Kilo 141]] assault rifle and puts it down.'' ''Two Russian police cars are parked at the checkpoint and two Russian police officers are trying to stop the car. ''
+
+'''Kyle''': Three seconds...
+
+'''Price''': That's plenty of time...
+
+''The two police officers get out of the way in the nick of time. Kyle looks back at the police checkpoint.''
+
+'''Price''': [LAUGHS]
+
+'''Kyle''': (''relieved) ''Holy shit, Captain...
+
+'''Price''': [[Nikolai (Reboot)|Nikolai]] saved our bacon.
+
+'''Kyle''': What if they follow?
+
+'''Price''': They won't.
+
+''Price drives the police car off the main road and turns off the police lights.'' ''Price smokes a cigar.''
+
+'''Kyle''': Boss... What the hell are we doing here?
+
+'''Price''': We're cleaning up a mess.
+
+'''Kyle''': With [[Ousa Rahar|women]] and [[Amon Rahar|children]]?
+
+'''Price''': They were leverage.
+
+'''Kyle''': They were hostages.
+
+'''Price''': When you take the gloves off, you get blood on your hands, Kyle. That's how it works.
+
+'''Kyle''': ''(sighs) ''Where do we draw the line on this, sir?
+
+'''Price''': You draw the line wherever you need it, Sergeant. End of the day someone has to make the enemy scared of the dark. We get dirty and the world stays clean. That's the mission. Now if you're having second thoughts, then I can do this on my own...
+
+'''Kyle''': No, sir. No second thoughts.
+
+'''Price''': Good. Now let's get [[Hadir Karim|Hadir]] before he kills [[Roman Barkov|Barkov]].
+
+''Price smokes a cigar.''
+
+''The screen cuts to black.''
+
+== Gameplay ==
+''Text appears.''
+
+'''Going Dark'''
+
+'''01 NOV 2019 2300'''
+
+'''Sgt. Kyle Garrick'''
+
+'''SAS'''
+
+'''Baurci, Moldova'''
+
+''The camera pans down to the forest as a patrol vehicle drives on the road with a spotlight on. Price and Kyle are sitting in their police cruiser off the road dressed in tactical gear as they watch the vehicle pass by undetected.''
+
+'''Kyle''': [[Al-Qatala]] search party.
+
+'''Price''': Hadir brought AQ.
+
+'''Kyle''': They're still looking.
+
+'''Price''': We're not too late then... Let's get Hadir, before he starts a third world war in Barkov's basement.
+
+''Price and Garrick get out of the cruiser and start moving towards Barkov's estate.''
+
+'''Price''': Stay close.
+
+''Price and Garrick continue walking through the woods as they notice the quiet of the night.''
+
+'''Kyle''': It's quiet.
+
+'''Price''': Means Hadir's already in control.
+
+'''Kyle''': Barkov may not be home.
+
+'''Price''': Assume he is... If he's not - he will be... Barkov's place will be crawling with Al-Qatala. Best advantage we'll have is the dark. Stay hidden and only engage when you have to. If Hadir's in Barkov's house, we need a chance to find him.
+
+''The sound of gunshots can be heard in the distance.''
+
+'''Price''': Shots fired. Let's go.
+
+''Price and Kyle see a locked gate up ahead of them.''
+
+'''Price''': That gate's our entry point. Shoot the light. We'll use the dark for cover.
+
+''Kyle shoots out the light, concealing him and Price in darkness as they equip their [[Night Vision Goggles|night-vision goggles]]. Price used his bolt cutter to cut off the lock from the gate.''
+
+'''Price''': Let's move.
+
+''Price and Garrick walk through the gate and spot several Al-Qatala fighters nearby.''
+
+'''Price''': AQ ahead. Hold fire. 
+
+'''Al-Qatala Fighter 4''': ''(in Arabic)'' This one said he worked for Barkov.
+
+'''Price''': Too many. Stay hidden.
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' Well? Where is he?
+
+'''Al-Qatala Fighter 4''': ''(in Arabic)'' He said there's a security room and wished us luck on getting inside.
+
+'''Price''': Keep out of the light.
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' What a cunning little rat.
+
+''Price and Kyle sneak past the militants and stay out of the light.''
+
+'''Al-Qatala Fighter 4''': ''(in Arabic)'' Should we tell Hadir?
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' I will. For now, look for a key or something that can get us inside.
+
+'''Al-Qatala Fighter 4''': ''(in Arabic)'' Okay, brother.
+
+'''Price''': Move up. Just stay hidden...
+
+''If Kyle engaged the Al-Qatala fighters, Price will criticize Kyle's speedy actions.''
+
+'''Price:''' Very sloppy, Kyle.
+
+''Price and Garrick reach a building with a fusebox next to a door.''
+
+'''Price''': We need to kill the power. Use the fusebox on the wall.
+
+''Kyle switches the fusebox off, killing the lights. They hear an Al-Qatala fighter inside, complaining about the darkness.''
+
+''(If Kyle shoots the fusebox instead:''
+
+'''Price:''' Heh... That'll do.)
+
+'''Al-Qatala Fighter 4''': ''(in Arabic)'' Oh, man... come on...!
+
+''One of the fighters comes out through the door only to be shot by Kyle or Price.'' 
+
+(''If Kyle picks up an enemy weapon:''
+
+'''Price:''' Careful, un-suppressed firearms will atract a lot of attention.)
+
+''Price and Kyle cut through the building and head back outside where they hear more Al-Qatala fighters. The fighters are illuminated by a headlight above them.''
+
+'''Price''': Our exit's blocked... Kill the light. It'll distract them...
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' I heard we took prisoners...
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Hadir found three officers. He says one will have the information for us.
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Can we trust him?
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' He hates the Russians more than we do, brother. Sometimes, you have to go with the devil you know.
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' So where are they now?
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' At the pool, the church, and courtyard near the front.
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' How long will it take to break them? The longer we stay here, the bigger the risk...
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' [[Abu Sa'ir]] is in charge. So... a few minutes?
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' [[Abu Sa'ir]]? Heh, okay...
+
+''(If Kyle waits for a moment before shooting the light:)''
+
+'''Price''': Take out the light.
+
+''Kyle shoots out the light, causing the Al-Qatala fighters to go investigate.''
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' Huh? What's going on?
+
+'''Price''': Wait for 'em to move...
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' Something's not right. Go take a look around.
+
+'''Al-Qatala Fighter 4''': ''(in Arabic)'' Okay, brother.
+
+''The Al-Qatala fighters split up to investigate.''
+
+'''Price''': Okay, they're splitting up.
+
+'''Al-Qatala Fighter 4''': ''(in Arabic)'' The light's busted...
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' What the hell?...
+
+'''Price''': Two on the right. Let's hit them first.
+
+'''Al-Qatala Fighter 4''': ''(in Arabic)'' I don't know... it just blew up.
+
+''Price and Kyle shoot two of the fighters in the dark.''
+
+'''Price''': Now, let's take the others.
+
+''Price and Kyle take out the last two fighters.''
+
+'''Price''': All clear. Move up. Overlook's ahead...
+
+''Price and Garrick reach the overlook and see Barkov's estate in the distance along with the pool, the church, and the clocktower.''
+
+'''Price''': There's the General's compound. Let's see what we're up against.
+
+''Price and Kyle scope out the area.''
+
+'''Kyle''': What we got, boss?
+
+'''Price''': Main house looks quiet... Got movement in the clocktower... church... and pool. 
+
+''Price lays some rappelling rope on the ground for Kyle to use.''
+
+'''Price''': Rope down, I'll provide overwatch.
+
+''Kyle hooks the rope to an anchor point and throws the rope down the overwatch. He readies his [[X16]] [[Silencer|suppressed]] pistol and starts rappelling down the cliff. Two Russian soldiers are seen being threatened by two Al-Qatala fighters.''
+
+'''Russian Soldier 1''': I don't know what you're talking about!
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Then you're useless to us!
+
+''The Al-Qatala fighters shoot the Russian soldiers dead.''
+
+'''Price''': Take 'em out.
+
+''Kyle shoots the Al-Qatala fighters from above.''
+
+'''Price''': You're clear.
+
+''Kyle reaches the ground below and starts moving towards the compound.''
+
+'''Price''': Careful, you're outnumbered, but you can try to disengage if things go loud.
+
+''At this point, the player can choose which of the three locations to investigate.''
+
+''(If Kyle goes to investigate the church...)''
+
+'''Price''': You're coming up on the church.; They're interrogating a prisoner in the church.; Church is to the south.
+
+''(If Kyle goes to investigate the clocktower...)''
+
+'''Price''': Clocktower to the east.; Search by the clocktower for the prisoner.; Clocktower to the north.; Clocktower's ahead.
+
+''(If Kyle goes to investigate the pool...)''
+
+'''Price''': Pool's to the south.; Pool is to the north.; They're holding a prisoner at the pool area.; You're approaching the pool.
+
+''(If the Al-Qatala fighters find no trace of an intruder...)''
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' Brother, I think we got them all. Nothing's out there.
+
+''(If Kyle shoots an AQ fighter in the dark undetected...)''
+
+'''Price''': Nice work.; Good night.; Good kill.; Nice shot.; He's down.; Clean kill.
+
+''(If Price gives Kyle new information or advice...)''
+
+'''Price''': Keep low. You'll be harder to spot that way.; Keep an eye out for a fusebox. Killing the lights will give us an advantage...; You can kill the lights to the building if you use that fusebox.; A fusebox is to the West. You can use it to cut the power.
+
+''(If Price shoots the lights to keep Kyle stay hidden:'')
+
+'''Price''': That'll help you stay hidden.; You're welcome.; Got the light for you.
+
+''(Whenever Kyle approaches an enemy...)''
+
+'''Price''': You've got multiple targets up ahead. Watch it... He's not alone.; Careful-! There's another target next to him...; More AQ ahead of you.; Enemies on the right.; Enemies on your right.; Spotted enemies to the right.; You've got a target behind you.; You've got a target ahead of you.; More AQ ahead of you.; Spotted a target ahead.
+
+''(If Price shoots an Al-Qatala fighter for Kyle...)''
+
+'''Price''': He's mine.'' (shoots the fighter.) ''You're welcome''.''; I've got this one. ''(shoots the fighter)'' He's down.; This one's mine. ''(shoots the fighter)'' Tango down.\
+
+''(If Kyle eliminates Price's target first...)''
+
+'''Price''': Never mind...; Cheeky bastard...
+
+''(If Kyle steps out of Price's line of sight...)''
+
+'''Price''': I've lost visual. You're on your own for now.; No visual. You're on your own in there, mate.; I've lost visual on you. Stay frosty, yeah?
+
+''(If Kyle steps back into Price's line of sight...)''
+
+'''Price''': I have a visual on you.; Got a visual on you, Kyle.
+
+''Kyle happens upon a group of Al-Qatala militants.''
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' How many did you get, brother?
+
+'''Al-Qatala Leader''': ''(in Arabic)'' Only four. Hamid got over ten, that dog!
+
+'''Al-Qatala Leader''': ''(in Arabic)'' Ahmed, you see anything?
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' All quiet over here...
+
+'''Al-Qatala Leader''': ''(in Arabic) ''Don't let your guard down. They'll hide anywhere, I promise you.
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Hey, how much longer does Hadir need?
+
+'''Al-Qatala Leader''': ''(in Arabic) ''He's still searching. Sit tight for now.
+
+''The AQ leader calls in Rasheed over the radio.''
+
+'''Al-Qatala Leader''': ''(in Arabic)'' Rasheed, come in. Give me a sitrep...
+
+'''Al-Qatala Fighter 3 ([[Rasheed]])''': ''(in Arabic)'' All quiet over here, brother.; I'm good. Nothing to report, brother.
+
+''Price/Kyle shoots Rasheed dead.''
+
+''Kyle shuts off the lights with the fusebox, causing the Al-Qatala fighters to investigate.''
+
+'''Al-Qatala Fighter 2''': Lights are out. I'm going to take a look...; Power has been cut. I'm going to go check it out.; Power's out. I'm going to check the fusebox.
+
+''The Al-Qatala fighter goes to investigate the fusebox.''
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' Commander, someone flipped the circuit breaker. It looks jammed...
+
+''Kyle shoots the Al-Qatala fighters. Then, he enters the church and sees an Al-Qatala fighter interrogating another Russian officer by shocking him with a taser.''
+
+'''Al-Qatala Fighter 3 ([[Abu Sa'ir]])''':''' '''Is this what you want?!? All you have to do is tell me where Barkov is! I want the location! Give me the location!
+
+'''Hostage''': I don't know.
+
+'''Al-Qatala Fighter 3''': You will tell me!
+
+'''Hostage''': You attack us!
+
+'''Al-Qatala Fighter 3''': We know about the chemical weapon your people made. Where is it? You cannot keep track of your own killing instruments?
+
+'''Hostage''': There is... no lab. 
+
+'''Al-Qatala Fighter 3''':''' '''Where is the lab? Get up! I can do this all night. 
+
+'''Kyle''': Negative on Hadir.
+
+'''Price''': Find out if the hostage gave up Barkov...
+
+''Kyle kills the Al-Qatala fighter and goes to check on the badly-beaten hostage. ''
+
+'''Hostage''': ''(dazed)'' My family... will come for me...
+
+'''Kyle''': Poor bastard's done in.
+
+'''Price''': Still got AQ at the pool and clocktower. See if Hadir's there...; There's still activity around the church and pool area. Hadir could be there.
+
+''Kyle leaves the hostage behind.''
+
+'''Hostage''': No... no! Where are you going!?! Please don't leave me here! Please! Don't leave me here!  Don't leave! Please! Don't go! Please, DON'T GO!!! They're going to kill me!! Please, just, just free... just free me! I'll do anything! Just- don't leave me like this...
+
+''Kyle spots a group of militants nearby.''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Hadir wants a report. What have you found?
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Nothing. They're clean.
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Finish up here. We still have to search the rest of this place.
+
+''Kyle goes outside to check on the other two locations and spots an enemy patrol vehicle.''
+
+'''Price''': Heads up. AQ's on patrol in that technical. Keep your distance.; Enemy technical. Do not engage.; Careful. They've got a bigger gun. Enemy technical on the right.
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Hey, boss. Have you heard from [[Abu Sa'ir]] at all? They were handling the church.
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' We should get over there. See what the problem is.
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Okay, let's go.
+
+''(Alternatively...)''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic) ''The courtyard group hasn't checked in yet.
+
+'''Al-Qatala Fighter 2''': ''(in Arabic) ''You think something's wrong?
+
+'''Al-Qatala Fighter 1''': ''(in Arabic) ''Let's head over there just to be sure.
+
+'''Price''': They know something's wrong. Maintain a low profile and they won't know where you are.
+
+''Kyle makes his way to the next location. He spots another AQ group nearby.''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic) ''What's taking so long with the prisoners?
+
+'''Al-Qatala Leader''': ''(in Arabic)'' One group isn't responding. Stand by.
+
+''Kyle shoots out the lights around the place and shuts off the fusebox, forcing the Al-Qatala militants to investigate.''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic) ''I don't see anything out here. What do you want me to do?
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Lights are out. I'm going to take a look...
+
+''Kyle moves inside the clocktower and eliminates any Al-Qatala militants he encounters. He sees an Al-Qatala fighter interrogating another Russian officer.''
+
+'''Al-Qatala Fighter 2''': I am going to beat you to death, even after you give me the location! Idiot... You have a few more ribs I can break. Where is the lab? Where is it? Where is it!? Go ahead. Keep lying. You're only making things worse! Bad move, you piece of shit! Look at me. Where is the man you work for?
+
+''The hostage can be heard moving defiantly.''
+
+'''Al-Qatala Fighter 2''': Bad move, you piece of shit.
+
+'''Hostage''': Shit sucker!; I don't know where it is...; I don't have a location...
+
+'''Kyle''': Still no visual on Hadir. It's another hostage...
+
+'''Price''': See if they can still talk...
+
+''Kyle shoots the Al-Qatala fighter and goes to question the hostage.''
+
+'''Hostage''': ''(dazed)'' I won't... betray... my family...
+
+'''Kyle''': Shit. Captain, the hostages are Barkov's family...
+
+'''Price''': Barkov's men came into Hadir's house, now he's in theirs. Get to the pool now. If they have a hostage, he won't last long...
+
+''Kyle leaves the hostage behind.''
+
+'''Hostage''': No... no... no, no! Where are you going?! Where are you going?! Don't leave... please! Don't leave me here! They're going to kill me! Don't go!! Please, '''DON'T GO!!!''' Come back!! Don't leave me here! Please... just free me... I'll do anything.... just... don't leave me like this!...; You have to get me out of here!
+
+''Kyle sneaks by another group of Al-Qatala fighters who have gone to investigate their men's disappearance.''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Where are we with the interrogations?
+
+'''Al-Qatala Leader''': ''(in Arabic)'' Still waiting on one group to check in.
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Can you reach the courtyard group?
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' No. Our men at the church aren't responding either...
+
+'''Al-Qatala Fighter 4''': ''(in Arabic)'' Abu Sa'ir, finish with the prisoner. We have to get going. Uh, Abu Sa'ir, hey, are you there?
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Has anyone heard from Abu Sa'ir? He's not responding...
+
+'''Al-Qatala Leader''': ''(in Arabic)'' He hasn't checked in yet...
+
+''As Kyle gets close to the pool, another AQ group is heard nearby.''
+
+'''Al-Qatala Leader''': ''(in Arabic)'' Two interrogation teams aren't responding. Some prisoners could have escaped.
+
+'''Al-Qatala Fighter 3''': ''(in Arabic) ''Don't worry. We'll find them.
+
+''Price informs Kyle that Al-Qatala is increasing its patrols.''
+
+'''Price''': They're tightening security. AQ patrols are headed your way from the main house.
+
+'''Al-Qatala Fighter 2''': ''(in Arabic) ''What the hell is going on? Why aren't they responding?
+
+'''Al-Qatala Fighter 1''': ''(in Arabic) ''Hey, another prisoner team hasn't checked in. Something's wrong...
+
+'''Al-Qatala Leader''': ''(in Arabic)'' We're sending over a group to check it out.
+
+''Kyle heads to the main house.''
+
+'''Price''': Not much activity at Barkov's main house. You can bypass it for now.
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Two prisoner teams aren't responding. What do you want us to do?
+
+'''Al-Qatala Leader''': ''(in Arabic) ''Stay alert. We might be compromised.
+
+'''Al-Qatala Fighter 1''': ''(In Arabic)'' Nothing's here!
+
+'''Al-Qatala Fighter 4''': ''(in Arabic)'' Where is it?!! We're going to be here all fucking night! Anyone find it!?! This room's empty! 
+
+''Kyle sneaks up on a couple of Al-Qatala fighters lifting dead bodies into a dumpster.''
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Okay, that's good enough. Let's dump 'em...
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' Is Hadir finished with the prisoners?
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Not yet. They're still being worked on.
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' We need to get moving. Barkov will come for them...
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' You want things to move faster? After we dump them, find some gasoline.
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' How will that help?
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' When they smell their friends burning, they'll change their minds. After they empty their stomachs first...
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' What will happen to them after?
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Same as these.
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' We could sell them. The other groups would pay for Russians.
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Get his arms...
+
+''The AQ fighters dump the last body into the dumpster.''
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' I'll mention it to Hadir. Let's do another check around the perimeter.
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' Okay, brother.
+
+''Kyle shoots the two AQ fighters. He continues to the pool. Inside, an Al-Qatala fighter is interrogating a Russian officer for access to Barkov's intel, while others are seen searching dead bodies.''
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Useless rat.
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' Nothing on this one.
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Who was this one?
+
+'''Al-Qatala Fighter 4''': ''(in Arabic)'' Doesn't matter, brother. Let's keep searching these rats.
+
+'''Al-Qatala Fighter 1''': You will bleed, as our children have bled! And your blood will carry our message to the world! 
+
+'''Price''': Sounds like our man inside. Get in there and sort him out.
+
+'''Al-Qatala Fighter 1''':'' ''Where is he?! Tell me! Where is he?!
+
+'''Hostage''': He's not...here...
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' You were warned! Go to hell!
+
+'''Kyle''': Sounds like Al-Qatala's got a hostage!
+
+'''Price''': See if Hadir's there. He could have Barkov...
+
+''Kyle switches off the lights around the pool area, causing the Al-Qatala fighters to investigate.''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Lights are out. I'm going to take a look...
+
+''The AQ fighters discover the sabotaged breaker system.''
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Hey, something's up with the lights. I can't get them back on...
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Stay alert. Keep your eyes open.
+
+'''Price''': There's a skylight over the pool. You can use it to get to the prisoner.
+
+''Kyle makes his way to the pool and sees the Al-Qatala fighter interrogating the officer. Kyle also sees that the AQ fighter is not Hadir.''
+
+'''Kyle''': No sign of Hadir... but they have a hostage...
+
+'''Price''': Find out what the hostage knows. Any intel could lead us to Barkov!
+
+''(If Kyle waits for a moment before speaking to the hostage...)''
+
+'''Price''': See if the hostage can still talk...
+
+''Kyle kills the guard and goes to check on the hostage.''
+
+'''Hostage''': ''(dazed)'' Third floor... 4-5-1... third floor... 4-5-1...
+
+'''Kyle''': They broke him. He's saying 'Third floor - 451.'
+
+'''Price''': It's all we got to go on. Get to the top floor of the estate. I'll meet you there.
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' I can't reach the two prisoner teams. Did something go wrong?
+
+'''Al-Qatala Leader''': ''(in Arabic)'' We're sending over a group to check it out.
+
+'''Al-Qatala Fighter 1''': ''(in Arabic) ''I've lost contact with another prisoner team. What's going on?
+
+'''Al-Qatala Leader''': ''(in Arabic)'' Some Russians might have escaped. Keep your eyes open, brother.
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' You three, let's go!
+
+'''Al-Qatala Leader''': ''(in Arabic)'' A prisoner team was attacked. Hostiles are near by. Keep your eyes open. We are not alone.
+
+''Kyle makes his way over to the main building, only to see the lights in the area go up.''
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' Finally, we have lights!
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' Lights will not stop this devil slaughtering our brothers! Too many have died in the dark already! We are running out of time. Hadir–
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Hadir is aware of the time! We need to kill this "ghost" to buy him more. He will find the lab.
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' You place a lot of faith in him.
+
+'''Al-Qatala Fighter 3''': ''(in Arabic)'' So did the [[Omar "The Wolf" Sulaman|Wolf]], and the [[Jamal "The Butcher" Rahar|Butcher]]...
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Hadir has gotten us this far, closer than we've ever been. There is no other way. 
+
+'''Al-Qatala Fighter 2''': ''(in Arabic)'' And no other one?
+
+'''Al-Qatala Fighter 1''': ''(in Arabic)'' Time will tell. Now shut up and stay alert!
+
+'''Kyle''': Goddamnit, Hadir! 
+
+'''Price''': Place just lit up like a bloody football ground. Get to the third floor, now!
+
+'''Kyle''': Working on it.
+
+''Kyle makes his way over to the main house, sneaking past or killing any Al-Qatala fighters in his way. Eventually, he manages to enter the house.''
+
+'''Kyle''': Alright, I'm inside.
+
+'''Price''': Head to the third floor, we need to move.; Get to the third floor.; Third floor, Kyle, let's go.
+
+''Kyle walks up the stairs to the second floor.''
+
+'''Kyle''': Moving to the third floor.
+
+'''Price''': Watch your fire. I'm up top.
+
+''Kyle makes his way up to the third floor where he sees Price standing by the door leading to Barkov's office.''
+
+'''Price''': Get the door open. I'll cover you.
+
+''Kyle presses the keypad on the door using the code he got from the prisoner.''
+
+'''Kyle''': 4-5-1...
+
+'''Price''': Take him alive - Go!
+
+''Price and Kyle bust through the door and into Barkov's office where they see Hadir raiding the room. Hadir sees Price and Garrick, but raises his hands in surrender.''
+
+'''Hadir''': Captain, please... I didn't know it was you!
+
+''Price pushes Hadir up against the wall and threatens him with his Kilo 141.''
+
+'''Price''': ''(furious) ''You stupid bastard! Where's Barkov?!
+
+'''Hadir''': He's not here!
+
+'''Price''': But his family was here!
+
+'''Hadir''': Are you protecting him?
+
+'''Kyle''': No - We're taking you...
+
+'''Price''': Come.
+
+''Price hauls Hadir away, but Hadir breaks free of his grip and grabs a piece of intel from the desk.''
+
+'''Hadir''':''' '''Wait-! I'm not your enemy, look... I know where the gas is made. I have the location...
+
+''Price snatches the intel from Hadir's hands.''
+
+'''Price''': This is Barkov's chemical factory?
+
+'''Hadir''': Yes. I'm taking it down. We're on the same side, Captain...
+
+'''Price''': ''(shakes head) ''Not like this...
+
+'''Hadir''': Then help us... Please. Help my sister...
+
+''A moment passes before the sound of a helicopter is heard from outside.''
+
+'''Hadir''': Listen-!
+
+''Price and Kyle look outside the window as a Russian attack helicopter flies outside with weapons ready.''
+
+'''Price''': Get down!
+
+''A Russian soldier's voice is heard from the helicopter outside the house.''
+
+'''Russian Soldier 2''': ''(in Russian)'' They're inside the main house!
+
+'''Price''': It's Barkov's men! 
+
+''The helicopter opens fire on the office as Price, Garrick, and Hadir duck and take cover.''
+
+'''Kyle''': We need to leave!
+
+'''Hadir''': I know a way out. The north side tunnels.
+
+''Price hauls Hadir to his feet and moves him out as the house starts to catch fire.''
+
+'''Price''': You're in my custody, Hadir. Don't fuck about!
+
+''Price and Hadir move to the door only to find it stuck closed.''
+
+'''Hadir''': The door is stuck!
+
+'''Price''': Kyle, the door is stuck! Quick!
+
+''Kyle goes to help Price and Hadir push open the door forcefully. They make it back into the hallway and stop just short of a burning stairway.''
+
+'''Price''': Keep moving!
+
+''Price and Garrick run with Hadir in their custody down the hall.''
+
+'''Price''': Move right! GO!
+
+''The three turn right into another stairwell leading down to the second floor.''
+
+'''Price''': Down the stairs! You've stirred the hornet's nest, Hadir! Barkov will want heads for this! Incoming!!!!!
+
+''Just as Price, Garrick, and Hadir reach the second floor landing and start running down the stairs to the first floor, the Russian helicopter opens fire on their position and causes the stairs to collapse. Kyle tries to grab something to hold on to, but slides down the collapsed stairs and hits the ground floor. Several wooden planks come crashing down on Kyle, hurting him. Kyle looks to his right to see Price on the ground trying to collect himself. Just then, a Russian soldier approaches Price, who quickly springs to his feet and attacks the Russian soldier by knocking his rifle out of his hands. The Russian soldier performs a takedown on Price and pins him to the floor before taking out a knife to stab Price. Price blocks the knife and struggles to keep it away before Hadir walks up behind the Russian and hits him with a broken piece of wood. The wood breaks off harmlessly while the Russian turns his attention and his knife to Hadir, who blocks the knife. Price uses the distraction to grab his [[M19]] and shoot the Russian soldier in the head.''
+
+'''Hadir''': We have to go - now!
+
+'''Price:''' Just keep your gun on the Russians.
+
+''Hadir helps Price up to his feet.''
+
+'''Hadir''': Help Garrick, I'll cover.
+
+''Price goes to help Garrick by lifting the wood off him.''
+
+'''Price''': You done in, Sergeant?
+
+'''Kyle''': Never.
+
+'''Hadir''': Incoming!
+
+'''Price''': On your feet - we are leaving! (''An obvious reference to the [[Call of Duty 4: Modern Warfare|Call Of Duty 4]] mission - [[Crew Expendable]].)''
+
+''Hadir throws Kyle his weapon, an [[Oden]] assault rifle with a [[Monocle Reflex Sight]].''
+
+'''Hadir''': Sergeant! Your weapon!
+
+''Hadir runs to cover in time just as the Russians open fire. Price and Garrick work with Hadir to dispatch the Russian soldiers. Eventually, they make it outside where they see the Russian helicopter gunning for them.''
+
+'''Price''': Watch out for that searchlight!!
+
+'''Russian Soldier 2''': ''(in Russian)'' They're moving outside the main house!
+
+'''Price''': Cut through the buildings! Go!
+
+'''Russian Soldier 2''': ''(in Russian)'' No visual on the target!; We've lost them!; We've lost the target!
+
+''Kyle moves outside.''
+
+'''Russian Soldier 2''': ''(in Russian)'' One's out in the open!; Enemy spotted!; We see him!
+
+''Price, Kyle, and Hadir move back inside.''
+
+'''Price''': Get inside! Stay out of the open!; We need cover! Get inside!; That helo's targeting you!
+
+''Price, Garrick, and Hadir move from cover to cover to avoid the Russian helicopter's weapons and spotlight.''
+
+'''Russian Soldier 2''':''' '''Lethal force has been authorized. We will fire on you.
+
+''If Kyle tries to fire on the helicopter...''
+
+'''Price''': Don't shoot that helo, just run!
+
+''Kyle spots the north-side tunnel nearby.''
+
+'''Kyle''': Got a visual on the tunnel!
+
+'''Hadir''': I see the tunnel! This way!
+
+''Price, Garrick, and Hadir make a run for the tunnel but come under heavy fire from the helicopter.''
+
+'''Price''': Missiles incoming!
+
+''The helicopter's missiles fire, just missing Price, Kyle, and Hadir. The three enter the tunnel, but are blocked from going further by a locked gate.''
+
+'''Hadir''': It's locked! Captain, I need something to open it!
+
+''Price hands a set of heavy-duty cutters to Hadir.''
+
+'''Price''': Take these!
+
+''Hadir uses the cutters to remove the lock from the gate and open it.''
+
+'''Hadir''': It's open! Let's go!
+
+'''Price''': Missiles incoming!
+
+''Price, Kyle, and Hadir run through the gate just as the helicopter fires another salvo of missiles at the tunnel, causing a cave-in that collapses as Garrick blacks out. A short time later, Garrick comes to as he sees Price lying right next to him.''
+
+'''Price''': Clear your head, son.
+
+'''Kyle''': Never been more clear, sir...
+
+''Hadir helps Kyle to his feet.''
+
+'''Hadir''': You'll help me attack the lab, yes?
+
+''Kyle grabs Hadir's hands and moves to restrain him quickly, causing Hadir to yelp in pain.''
+
+'''Kyle''': Not on your life. You're going down for this.
+
+'''Hadir''': Captain--?
+
+'''Price''': This was a one-way trip, Hadir, you knew that.
+
+'''Hadir''': But you'll do the right thing, yes?
+
+'''Kyle''': Boss, tell me we're gonna finish this.
+
+'''Price''': We need support. Let's hope we get it...
+
+''Kyle shoves Hadir down the tunnel as they follow Captain Price.''
+
+'''Kyle''': Move!
+
+''The screen fades to black.''
+
+''(End of level.)''
+
+{{CoD16 CampaignT}}
+[[Category:Call of Duty: Modern Warfare (2019) Transcripts]]

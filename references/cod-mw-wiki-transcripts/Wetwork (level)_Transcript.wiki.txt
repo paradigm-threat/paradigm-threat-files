@@ -1,0 +1,342 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_II_Transcripts -->
+<!-- title: Wetwork (level)/Transcript -->
+
+{{game|1=mwii}}
+== Cutscene ==
+''[[Kate Laswell]] is gathered in a situation room with several military and civilian advisors. General [[Herschel Shepherd|Shepherd]] walks into the room.''
+
+'''Shepherd''': All right, clear the room. 
+
+''No one moves.''
+
+'''Shepherd''': (annoyed) Let's go - everybody out, now.
+
+''This time, everyone leaves the room except for Laswell. Shepherd switches off the lights in the room, leaving only the large computer wall display.''
+
+'''Shepherd''': [[Iran]] is in possession of American missiles.
+
+'''Laswell''': American missiles in [[Al-Qatala|AQ's]] hands.
+
+'''Shepherd''': [[Hassan Zyani|Hassan]] has been passing out our ballistic missiles like it's fucking Halloween and we didn't know about it?
+
+'''Laswell''': Gives Iran plausible deniability.
+
+'''Shepherd''': Oh, deniability my ass - Iran's all over this. I wanna know how many they have and where they intend to use 'em.
+
+'''Laswell''': If Hassan is moving missiles, he has a smuggling partner.
+
+'''Shepherd''': Well then, I would advise you to find out who that is.
+
+'''Laswell''': Give my team two hours with those missiles, sir. I will know everybody who's ever breathed on them.
+
+'''Shepherd''': Negative. I want 'em destroyed.
+
+'''Laswell''': General, there's valuable intel there.
+
+'''Shepherd''': This is an intelligence failure, Laswell... It's not gonna be a tactical one. There will be 500 enemy soldiers on that site by sunrise. We need a win fast. 
+
+''Shepherd gets on the radio to [[Simon "Ghost" Riley (Reboot)|Ghost]]. Laswell looks at a computer display of the map.''
+
+'''Shepherd''': Gold Eagle Actual to Ghost - Move your team and call for fire. I want those weapons destroyed.
+
+'''Ghost''': (on radio) Roger that, Actual.
+
+'''Laswell''': [[Amsterdam (map)|Amsterdam]].
+
+'''Shepherd''': What the hell's Amsterdam got to do with this?
+
+''Laswell turns to face Shepherd.''
+
+'''Laswell''': It's a smuggling hub. Ports and canals are insecure. Iran has friends there... We do too.
+
+'''Shepherd''': Who?
+
+'''Laswell''': [[John Price (Reboot)|The Captain]].
+
+''Laswell brings up images of Captain Price and Sergeant [[Kyle "Gaz" Garrick|Kyle Garrick]] AKA Gaz.''
+
+'''Laswell''': He's tracking an AQ cell in country as we speak.
+
+'''Shepherd''': (pleased) Well, that's the first good news I've heard all day.
+
+'''Laswell''': I'll link up with him and handle this myself, sir.
+
+'''Shepherd''': Kate Laswell back in the field...?
+
+'''Laswell''': I want this done right. No mistakes.
+
+''Laswell takes her laptop and walks to the exit.''
+
+'''Shepherd''': My sentiments exactly. Kate...
+
+''Laswell turns to face Shepherd.''
+
+'''Shepherd''': I want Hassan boxed up and gift-wrapped. Until then... you keep this tight.
+
+'''Laswell''': (nods) Naturally. Sir.
+
+''Laswell leaves.''
+
+''The scene shifts to the city of Amsterdam.''
+
+'''AMSTERDAM'''
+
+'''Price''': What's your ETA?
+
+'''Laswell''': Less than an hour. Where are you now?
+
+''Captain Price is seen in the water hiding behind a pillar by a pier and watching an incoming boat sail down the water toward his position.''
+
+'''Price''': Canals. Under a bridge, watching an AQ boat.
+
+'''Laswell''': Is it carrying missile container?
+
+'''Price''': Negative, not this one.
+
+'''Laswell''': Well, let's hope it leads us to the one that does.
+
+'''Price''': I'll be in touch. Gaz- You set?
+
+''Gaz is hiding behind a pillar across from Price's position.''
+
+'''Gaz''': Good here, Cap.
+
+'''Price''': Let's get after it.
+
+''The boat passes by Price and Gaz as they hook onto the sides of the boat and submerge, trailing closely behind it.''
+
+== Gameplay ==
+'''KYLE "GAZ" GARRICK - TF-141'''
+
+'''WETWORK'''
+
+'''AMSTERDAM'''
+
+'''28 OCT 2022, 0600'''
+
+''The Al-Qatala boat sails into a harbor. Price and Gaz pop their heads out of the water and hide behind a buoy beacon, watching the boat as they do.''
+
+'''Price''': All right, Laswell, we're in position.
+
+'''Laswell''': Copy, John, what do ya got?
+
+''Price looks through his binoculars and spots several armed Al-Qatala agents on the docks guiding a barge to a dock.''
+
+'''Price''': I got AQ loading cargo into a barge.
+
+'''Laswell''': That's your target. Get aboard and find out who they're working with.
+
+''Price spots Al-Qatala guards nearby.''
+
+'''Price''': Rog. Got sentries on the perimeter.
+
+''Price hands Gaz the binoculars to look through.''
+
+'''Gaz''': Yeah - AQ guards all over the docks.
+
+'''Laswell''': You'll need to take 'em out to get to the barge. You two get to work. Out.
+
+''Gaz hands Price his binoculars back. Price turns to Gaz.''
+
+'''Price''': All right, let's split up. I'll take the outside, you clean up the docks. Stay quiet. I'll meet you at the barge.
+
+'''Gaz''': Check. On you, Cap.
+
+''Price dives under. Gaz follows him to the first pier where two guards are stationed. Price grabs one of them and forces him underwater, killing him.'' 
+
+'''Gaz''': Nice one, boss.
+
+''Gaz dives under and sneaks up to the guard at the edge of the pier.''
+
+'''Price''': One more on the first pier. Start with him.
+
+''Gaz grabs the second guard, drags him underwater, and stabs him. He then grabs the guard's [[P890]] pistol with a silencer and emerges out of the water.''
+
+'''Gaz''': Captain, I got a gun.
+
+'''Price''': Go easy with it. Any AQ left alive could be trouble. Kill 'em quiet- Work our way to the barge... Let's get this done. Don't get compromised.   
+
+''Gaz climbs up onto the pier.''
+
+'''Gaz''': I'm topside.
+
+'''Price''': Don't stay up there for long.
+
+''Gaz makes his way across the docks to another pair of guards. He can either use his throwing knife or his acquired pistol to kill them, which he does.''
+
+'''Gaz''': One down.; Dropped one.; One down.; AQ down.; Enemy down.; Got another.; Got one on the dock.; Bloody Hell.; AQ down.; Eyes on one.; Good mornin' and good night.
+
+'''Price''': Keep it up.; Well done, mate.; Stay on it.; More where they came from.; Good work, Sergeant.; Good on ya, Gaz.
+
+''(If Gaz doesn't make much progress...)''
+
+'''Price''': Gaz, you alright?
+
+'''Gaz''': Never better, boss.
+
+''Price and Gaz get closer to the barge.''
+
+'''Laswell''': (over radio) Watcher-1 to Bravo. Gimme a sitrep.
+
+'''Price''': Working our way to the barge, burying Al-Qatala at sea.
+
+'''Laswell''': Get in there as soon as you can. We may not have much time, John.
+
+''Two Al-Qatala guards patrol the water with a boat.''
+
+'''Price''': Gaz, that patrol boat needs attention. Take it if you can.; Gaz, that patrol boat could be a problem.; They've got a patrol boat in the harbor.
+
+'''Gaz''': Roger that.
+
+''Gaz shoots the men on the boat.''
+
+''(Every time an AQ soldier spots Gaz...)''
+
+'''AQ Soldier 1''': (in Arabic) Oh fuck!; Enemy! Enemy!
+
+'''Aq Soldier 3''': (in Arabic) I got them!; Hey! They're swimming that way!; Oh shit!; Someone's here!
+
+'''AQ Soldier 4''': (in Arabic) Oh God!
+
+'''AQ Soldier 5''': (in Arabic) Oh no!; Oh fuck!; Enemy here!; Oh shit!; Enemy!
+
+''Another patrol boat appears in the area.''
+
+'''Price''': AQ's got another patrol boat. Take it.
+
+''Gaz approaches the patrol boat and shoots both men on it like before. He'' ''then'' ''makes his way across the area and kills more guards stealthily.'' ''Gaz gets closer to the barge.''
+
+'''Price''': Gaz, I'm near the barge, get here when you can but don't get careless.
+
+'''Gaz''': Check, almost there.
+
+''Gaz shoots an enemy guard near the barge and'' ''clears the pier of all Al-Qatala guards.''
+
+'''Gaz''': Clear.
+
+'''Price''': Clear. Right with you, Sergeant.
+
+''(If Gaz didn't clear the pier of all enemy guards...)''
+
+'''Price''': You've got guards behind you, circle back and get 'em.; Clear all the docks, scrub this place clean.; You got a few more, don't leave anyone out.; Only survivors here should be you and me, mate.; Turn back, we can't leave any stragglers.; Any survivors out here could come back to bite us in the arse.
+
+''(If Gaz alerted the guards in the area...)''
+
+'''Gaz''': Bloody hell.
+
+'''Price''': They know you're there.
+
+''(If the guards lob grenades in the water...)''
+
+'''Gaz''': What the bloody hell was that?
+
+'''Price''': They're using grenades in the water, watch your arse.
+
+''Gaz meets up with Price on the pier.''
+
+''(If Price helped Gaz to clear the docks...)''
+
+'''Gaz''': All clear. Bloody clockwork, sir. Appreciate the help, sir.
+
+'''Price''': Let's get onto that barge.
+
+''Price and Gaz reach the gate leading onto the barge and try to open it, but the gate is locked.''
+
+'''Gaz''': It's locked.
+
+''Alternatively, if Gaz doesn't try to open the gate...''
+
+'''Price:''' Gate's locked.
+
+''Price uses a lock picking set to unlock the gate.''
+
+'''Price''': On me. Laswell, we're about to board.
+
+'''Laswell''': Copy, tell me what you find.
+
+'''Price''': Rog. Out.
+
+''Price and Gaz board the barge. They hear Spanish voices from below decks.''
+
+'''Price''': Listen... Spanish...
+
+'''Gaz''': Sounds like it.
+
+''Price and Gaz stack up by the door leading into the bridge.''
+
+'''Price''': You set?
+
+'''Gaz''': Good to go.
+
+''Price and Gaz breach through the door, killing two drug cartel members.''
+
+'''Cartel Member 1''': ''Qué chingado'' (What the fuck?!)
+
+'''Cartel Member 2''': (in Spanish) Get 'em, Get 'em!!
+
+''Price moves down the stairs and shoots another cartel member, before searching the body and finding the tattoos of the Las Almas cartel.''
+
+'''Price''': Look at this... [[Las Almas Cartel|Las Almas]]. Mexican Cartel.
+
+'''Gaz''': What the hell are they doin' here?
+
+'''Price''': Laswell, Iran's using the cartel for transport.
+
+'''Laswell''': (over radio) Give me a name, John.
+
+'''Price''': Las Almas.
+
+'''Laswell''': Hassan's working with narcos...
+
+'''Price''': Stand by...
+
+''Price opens the door to another room filled with Las Almas members, drugs, money, and guns. He and Gaz shoot the cartel members down.''
+
+'''Gaz''': Sonuvabitch.
+
+'''Price''': Barge is all narcos.
+
+''Gaz moves down the hallway and shoots another cartel member.''
+
+'''Gaz''': More cartel...
+
+''Gaz reaches a bedroom and opens a door leading into the bathroom. Inside, a cartel member ambushes Gaz.''
+
+'''Cartel Member 3''': ''Hijo de la puta'' (You fucking son of a--!!)
+
+''Gaz kills the cartel member, who slumps down into the shower.''
+
+'''Gaz''': All clear.
+
+''Gaz hears a phone ringing on the dead cartel member's body.''
+
+'''Gaz''': It's his phone.
+
+'''Price''': Get it. Go on...
+
+''Gaz searches the cartel member's body and finds a smartphone, which rings with text messages. The messages reveal the location and time of an upcoming meeting. It reads, in English:'' 
+
+''["La entrega de Al Qatala esta a tiempo."] Al Qatala delivery is on time''
+
+''["Hay algunos problemos en los muelles"] There are some problems at the docks''
+
+''["No Podemos perdemos el encuentro con Al Qatala"] We can't miss the meeting with Al Qatala''
+
+''["Libacacion confirmada"] Location confirmed''
+
+''Cafe Gracht @8AM”''
+
+'''Gaz''': Cartel's meeting with AQ.
+
+''Gaz checks his watch to see that it's 0700 and hands the phone to Price.''
+
+'''Price''': Laswell - find Café Gracht. Something's about to go down.
+
+'''Laswell''': When?
+
+'''Price''': One hour...
+
+''The screen fades to black. End of level.''
+
+{{CoD19 CampaignT}}
+[[Category:Call of Duty: Modern Warfare II Transcripts]]

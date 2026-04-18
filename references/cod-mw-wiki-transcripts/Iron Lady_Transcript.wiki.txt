@@ -1,0 +1,507 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_3_Transcripts -->
+<!-- title: Iron Lady/Transcript -->
+
+{{Game|mw3}}
+
+==Cutscene==
+
+''Russian forces continue to move west to conquer all of Europe. Overlord connects with the U.S. President at the White House in Washington D.C., which is now recovering and being rebuilt from the [[Whiskey Hotel|Russian invasion]] a few months earlier.''
+
+'''Presidential Aide''': General, you're now online with the President and the National Security Council.
+
+'''[[Overlord]]''': Mr. President...
+
+''The President is connected with Overlord from a war room bunker under the East Wing of the damaged White House.''
+
+'''[[President of the United States (Modern Warfare 3)|U.S. President]]''': General. Have you found [[Vladimir Makarov|Makarov]] yet?
+
+'''Overlord''': No, but we received actionable intel on his [[Viktor "Volk" Khristenko|bomb-maker]]. The situation is developing.
+
+'''U.S. President''': Developing? Do you have him or not?
+
+'''Overlord''': [[Team Metal|A Delta team]] [[Bag and Drag|just took him down]]. I'm sending you the footage now.
+
+''[[Delta Force]] is located is Paris. Frost's footage shows Volk being captured.''
+
+'''U.S. President''': What's their status?
+
+'''Overlord''': They have Volk in custody, but their OP-SEC's been compromised.
+
+'''U.S. President''': In English, General. Please.
+
+'''Overlord''': They're gonna have to shoot their way to the extraction point.
+
+''An [[Warhammer|AC-130 in orbit over Paris is located]].''
+
+'''U.S. President''': General, I want this man Volk alive. I don't care what it takes. You bring those men home in one piece.
+
+''The camera zooms into the [[AC-130]]'s camera feed.''
+==Gameplay==
+
+'''[“Iron Lady”]'''
+
+'''[October 9<sup>th</sup> – 7:42:20]'''
+
+'''[Sgt. [[Derek "Frost" Westbrook|Derek “Frost” Westbrook]]]'''
+
+'''[Delta Force]'''
+
+'''[Paris, France]'''
+
+''Delta Force Team Metal has captured Volk and are now waiting for extraction. A V-22 Osprey flies in at the LZ.''
+
+'''[[Sandman]]''': There's our ride. Get Volk! Let's go!
+
+'''[[Grinch (Modern Warfare 3)|Grinch]]''': Move! Move!
+
+'''Volk''': Убери от меня свои руки, ублюдок! (Get your hands off me, you bastard!)
+
+'''Sandman''': Let's go! Come on!
+
+''Sandman, Truck, and Frost move towards the [[V-22 Osprey|V-22]], but it gets hit by a rocket.''
+
+'''Raptor 2-4''': Whoa! This is 2-4, we're hit! We're going down! We're going down! Brace!
+
+''They move away from the LZ as Raptor 2-4 crashes into a pile of cars.''
+
+'''Sandman''': Overlord, primary LZ is compromised. Raptor is down. Moving to alternate.
+
+''The camera zooms out to the AC-130 orbiting above the LZ.''
+
+'''AC-130 Pilot''': Descending, crew. Targeting system online. TV, verify you see our friendlies.
+
+'''AC-130 TV Operator''': Roger that. Friendlies are marked with white diamonds.
+
+'''AC-130 Pilot''': Just to, uh, confirm crew, we are not clear to fire on the buildings. We suspect there are civilians still inside at this point.
+
+'''AC-130 FCO''': Do not engage the buildings.
+
+'''AC-130 Pilot''': Metal 0-1, established in orbit over AO Hammer. Request mark, over.
+
+'''Sandman''': Red smoke on the LZ! Need you to service targets North of that location! Everything else except danger close is clear to shoot.
+
+'''AC-130 Pilot''': Copy that, Metal 0-1. We gotcha.
+
+''The AC-130 fires down on the large groups of infantry, tanks, and helicopters in the roundabout, providing air cover for Metal 0-1 to move through the streets of Paris with Volk in custody.''
+
+'''AC-130 TV Operator''': Good kill. Good kill.; Nice.; Wicked.; You got 'em.; There we go.; Yeah, he's toast.; Woah!; Enemies crossing in the open.
+
+''The player destroys a tank.''
+
+'''AC-130 TV Operator''': Yeah, that tank isn't going anywhere.
+
+'''AC-130 FCO''': Good shot.; Yeah, direct hits right there.
+
+'''AC-130 Pilot''': Set scan range.; Target reset.; Recalibrate azimuth sweep angle. Adjust elevation scan.; Clean up that signal.
+
+''The AC-130 fires its 105mm.''
+
+'''[[AC-130 Gunner]]''': Shot out!
+
+''The 105mm is reloaded for another shot.''
+
+'''AC-130 Gunner''': Gun ready!
+
+'''AC-130 Pilot''': Crew, you are clear to engage any enemy personnel you see. Keep fire south of the red smoke.
+
+''The AC-130 continues firing at targets all over the roundabout.''
+
+'''Sandman''': [[Warhammer]], targets destroyed. Thanks for the assist.
+
+'''AC-130 Pilot''': Solid copy, Metal 0-1. Overlord, Metal 0-1 is clear. Greenlight bomb run on target area West to East. I repeat, West to East.
+
+'''Overlord''': Copy. West to East. Odin 6, you are cleared for bomb run TRP 5, 0, 0, 1.
+
+'''AC-130 Pilot''': Crew, hold fire to the south. Friendly birds are entering the airspace.
+
+''A flight of three A-10 Warthogs fly in and bomb the entire roundabout, wiping out the remaining enemy tanks in the area, resulting in a massive display of explosions.''
+
+'''AC-130 TV Operator''': That's one hell of a fireworks display.
+
+'''AC-130 Pilot''': Metal 0-1, we're seeing enemy activity headed your way. Recommend you hold your position until we've swept up, over.
+
+'''Sandman''': Roger. Wilco.
+
+''The AC-130 starts flying in orbit along the streets, clearing the area of more enemy infantry, tanks, and choppers.''
+
+'''AC-130 FCO''': Cleared to engage all those guys.
+
+'''AC-130 TV Operator''': There's a [[BTR-80|BTR]] moving down the street ahead of 'em.
+
+''The BTR is taken out. Metal 0-1 moves along the street.''
+
+'''Sandman''': We've got smoke on the targets! You're cleared hot, Warhammer!
+
+''The AC-130 clears enemies ahead of them.''
+
+'''Sandman''': Alright, they're falling back! Move up, move up!
+
+'''AC-130 Pilot''': Neutralizing targets, Metal 0-1. Danger close. Repeat, danger close.
+
+''(The player fires close to the buildings.''
+
+'''AC-130 Pilot''': Crew, we are not authorized to fire on the buildings.
+
+'''AC-130 FCO''': Careful. We're not cleared to fire on any buildings.
+
+''The player fires too close to Metal 0-1.''
+
+'''AC-130 FCO''': Watch your fire. That was too close to our guys.'')''
+
+'''Sandman''': Enemies on our flank!
+
+''The AC-130 takes out a group of enemies behind Metal 0-1 and more ahead of them.''
+
+'''Sandman''': Good work, Warhammer. We're Oscar Mike.
+
+'''AC-130 Pilots''': Metal 0-1, we're engaging targets ahead of you. Hold your position.
+
+''Two [[Mi-8|helicopters]] fly in at the fork.''
+
+'''AC-130 FCO''': Two enemy birds in the center of the fork, there.
+
+''The player takes out the helicopters.''
+
+'''AC-130 FCO''': Vehicles neutralized.
+
+'''Sandman''': Warhammer, we've got some enemy armor moving in.
+
+'''AC-130 Pilot''': Copy that, Metal 0-1. Engaging enemy armor.
+
+''The AC-130 clears the area of armor.''
+
+'''AC-130 Pilot''': Metal 0-1, looks like you're clear to move up. We'll keep an eye on you.
+
+'''Sandman''': We're going to keep left at the fork, over.
+
+''A video feed shows Sandman moving up the street. [[RPG-7|RPG]] fire suddenly rain down on them from the building in the middle of the fork.''
+
+'''AC-130 TV Operator''': Woah!
+
+'''Sandman''': Warhammer, we got RPG fire from the building in front of us! Need you to hit it now!
+
+'''AC-130 FCO''': Copy that, we got smoke trails from RPG fire to the North West.
+
+'''AC-130 Pilot''': Overlord, we're seeing small-arms, RPG fire from the corner building to the North West. Request permission to engage.
+
+'''Overlord''': Copy. Standby... Affirmative, Warhammer. You are cleared to fire on any buildings with enemy personnel.
+
+'''AC-130 Pilot''': Crew, you are cleared to engage the corner building.
+
+''(The player stalls.''
+
+'''AC-130 TV Operator''': Switch to the 105. We need to hit it with something big.
+
+'''AC-130 FCO''': Hit that building.'')''
+
+''The Gunner fires a 105mm round on the building, which explodes in a mass of sparks.''
+
+'''AC-130 TV Operator''': That building is done.
+
+'''Sandman''': Thanks for the assist! We're gonna cut through the hotel across the street!
+
+''Cannon fire and missiles streak past the AC-130, causing the video feed to fuzz.''
+
+'''Jester 2-5''': [[MiG-29|MiG]] inbound! Ten o'clock!
+
+'''AC-130 Pilot''': Incoming missile!
+
+'''Jester 2-5''': Shit! Broke lock!
+
+''The missile warning alarm blares: [MISSILE WARNING]. The screen briefly fuzzes as the AC-130 takes evasive action, barely dodging incoming fire from enemy MiGs.''
+
+'''AC-130 FCO''': Flares, flares!
+
+'''AC-130 TV Operator''': Flares away, flares away.
+
+'''AC-130 Pilot''': Clean up that signal.
+
+''The AC-130 pops flares and banks hard right to dodge the missiles and MiGs.''
+
+'''Jester 2-5''': Jester 2-5, breaking away! In pursuit!
+
+'''Jester 2-4''': Stay on him!
+
+'''Jester 2-5''': Air speed 300. Going for missile lock.
+
+'''Jester 2-4''': Warhammer, LANTIRN is pinging all over the place. We need to clear out.
+
+'''AC-130 Pilot''': Copy that, 6-2.
+
+''The Gunner aims down at a bunch of enemies dug in the embassy across the hotel where Metal 0-1 is pinned down. ''
+
+'''Sandman''': We're taking more fire from the embassy! Give us a hand!
+
+'''AC-130 Pilot''': Metal 0-1, we can give you one pass and one pass only. Okay. Go ahead and hit 'em.
+
+''The Gunner fires a 40mm or 105mm round at the embassy, the camera zooms in with the shot and gameplay view switches to Frost inside the hotel.''
+
+'''Sandman''': Building across the courtyard! Give me a 105 round right through it!
+
+'''AC-130 Pilot''': Negative, Metal 0-1. We're under heavy enemy fire. Give us five mikes to circle back around.
+
+'''Sandman''': Alright. We'll draw fire. Truck and Frost, flank that MG so we can keep moving. Get ready. Go! Go! Go!
+
+''Frost and Truck sprint up the stairs and into a hallway. They engage the couple Russians there and continue moving.''
+
+'''Sandman''': We're taking heavy fire! Get that [[DShK|MG]] down, now!
+
+''They come to a balcony with the courtyard in view.''
+
+'''[[Truck]]''': Alright, tag him.
+
+''Frost aims and fires at the machine gunner at the center of the courtyard.''
+
+'''Sandman''': Alright, he's down! Let's go! On me!
+
+''The team moves out of the hotel and into the courtyard. They take more enemy fire as they move forward.''
+
+'''Sandman''': Move! Move! C'mon! Grinch, keep Volk behind cover!
+
+'''Grinch''': Affirmative!
+
+''As the courtyard is being cleared, they move forward.''
+
+'''Sandman''': Let's go! Let's go! We're gonna strongpoint that monument just ahead! Grinch, bring Volk up when we're secure!
+
+'''Grinch''': I'll be right behind you!
+
+'''Truck''': The convoy will be here any second!
+
+''As they reach the end of the courtyard, a tank appears.''
+
+'''Truck''': [[T-72|Tank]]!
+
+'''Sandman''': Talk to me, Warhammer, where we at?!
+
+'''AC-130 Pilot''': Metal 0-1, we're back on station and available for ten mikes.
+
+'''Sandman''': We have enemy armor right in front of us! We're marking with smoke!
+
+''Frost throws a smoke grenade towards the tank.''
+
+'''AC-130 Pilot''': Ok. Got your mark. Danger close.
+
+''The AC-130 fires down and destroys the tank. The camera zooms out of the courtyard and back in the AC-130.''
+
+'''Uniform 6-2''': Metal 0-1, this is Uniform 6-2. En route to your location.
+
+'''Sandman''': Copy that! We're almost at the intersection! One minute out!
+
+''The Delta team move out of the courtyard and make their way to the intersection. Large groups of enemy infantry, tanks, and helicopters surround the area.''
+
+'''AC-130 TV Operator''': Enemies crossing in the open.
+
+'''AC-130 FCO''': Go ahead and take em out before Delta gets there.
+
+''Two Humvees drive into the intersection.''
+
+'''AC-130 FCO''': Do not fire on the humvees, those are our guys.
+
+'''AC-130 Pilot''': Crew, we have friendly vehicles on the ground. West of the fountain. That's West of the fountain.
+
+'''AC-130 TV Operator''': Lots of guys moving in. We've stirred up a hornet's nest. Heh. I think we got their attention.
+
+''The Delta team is seen moving towards the Humvees.''
+
+'''Uniform 6-2''': The LZ is two clicks North of here. Let's get a move on!
+
+'''Sandman''': Get Volk in the Humvee, let's go!
+
+'''AC-130 Pilot''': Going as fast as we can, crew.
+
+''The AC-130 clears the intersection and all the Delta and Volk get in the Humvees.''
+
+'''Uniform 6-2''': We secure?!
+
+'''Sandman''': Secure! Let's roll!
+
+''The Humvees leave the intersection and move out. Video feed shows Sandman in the Humvee as it drives.''
+
+'''Uniform 6-2''': Warhammer, this is Uniform 6-2! We're moving out!
+
+'''AC-130 Pilot''': Copy that, 6-2.
+
+''A pair of MiGs drop rockets on them, barely missing them.''
+
+'''Truck''': Damn that was close!
+
+'''Sandman''': Grinch, get on that .50!
+
+'''Grinch''': On it!
+
+''Video feed shows Grinch manning the Humvee's minigun, firing at vehicles that are chasing them.''
+
+'''AC-130 Pilot''': Metal 0-1, you have two enemy vehicles on your six, over.
+
+'''AC-130 TV Operator''': This should be interesting...
+
+'''Uniform 6-2''': Get these guys off our tail!
+
+'''AC-130 TV Operator''': Go ahead and take em out.
+
+''The AC-130 fires rounds behind the Humvees, taking out enemy vehicles and helicopters chasing them. They turn left at an intersection.''
+
+'''Sandman''': Going left! We got enemy armor behind us! Take em out!
+
+''They make another left avoiding armored vehicles.''
+
+'''Sandman''': Making hard left!
+
+'''AC-130 FCO''': Enemy armor up the road there. Clear to engage all those.
+
+''They cut through a couple demolished buildings.''
+
+'''Sandman''': Going left! They're right on us! Take care of em!
+
+''They make another left.''
+
+'''Sandman''': Making a hard left!
+
+''The Gunner sees three tanks at a intersection firing at the Humvees and fires a 105mm round at them (destroy 3 tanks with a single 105mm round to get achievement: "Ménage à Trois").''
+
+'''AC-130 FCO''': Yeah, direct hits right there.
+
+''The Humvees make a right.''
+
+'''Sandman''': Go right! Go right!
+
+''Enemy helicopters fly towards the convoy.''
+
+'''AC-130 Pilot''': [[Mi-24 Hind|Enemy birds]] inbound.
+
+'''AC-130 TV Operator''': Multiple enemy birds are engaging the convoy.
+
+'''AC-130 Pilot''': Wait for a clear shot. We don't wanna hit our guys.
+
+''The Humvees come to the road by the Seine River.''
+
+'''Sandman''': Floor it!
+
+''Enemy Hinds chase the Humvees.''
+
+'''Sandman''': Get these choppers off our ass, Warhammer! Take out those choppers! Hit those birds, now!
+
+''The player destroys a Hind with a 40mm round.''
+
+'''AC-130 TV Operator''': That hind's toast.
+
+''The Humvees turn into the Pont d'Iéna, but the front Humvee gets hit by a tank round and flips over. The convoy stops short of the bridge.''
+
+'''Sandman''': (Whoa!) Stop! Stop! Stop!
+
+'''AC-130 TV Operator''': One of our vehicles is down. Yep, I see em.
+
+'''AC-130 FCO''': One of the humvees has just been hit.
+
+'''Sandman''': Warhammer, the convoy is stalled. Armor on the bridge! Need you to hit it now!
+
+'''AC-130 Pilot''': Metal 0-1, any ordnance on that bridge is gonna prevent you from getting to the LZ.
+
+'''Sandman''': Too late. This is the LZ now.
+
+'''AC-130 Pilot''': Crew, you are cleared to engage the armor on the bridge.
+
+'''AC-130 FCO''': Hit that armor.
+
+''The Gunner fires a 105mm round at one of the three tanks at the bridge. The camera zooms in with the shot and gameplay switches back to Frost, who gets out of the Humvee.''
+
+'''Sandman''': Get a [[FGM-148 Javelin|Javelin]] from the Humvee and finish off those tanks!
+
+'''AC-130 Pilot''': Standby, 0-1, making adjustments.
+
+''Frost grabs a Javelin.''
+
+'''Sandman''': Use the javelin and take out those tanks!
+
+''Frost aims the Javelin, locks on a tank, and fires. The missile travels straight up, arcs, and streaks down on the tank, destroying it.''
+
+'''Sandman''': One down! Now get the other one! Take out that other tank!
+
+''Frost aims, fires again, and destroys the other tank.''
+
+'''Truck''': Tanks are down!
+
+''The team engages the enemy and moves forward on the bridge.''
+
+'''Sandman''': Let's go! Let's go!
+
+'''AC-130 Pilot''': Metal 0-1, mark targets with smoke and we'll give you some breathing room.
+
+''Frost tosses a smoke grenade as the team moves up.''
+
+'''Grinch''': Movin' up! Cover me!
+
+'''Truck''': Got you covered!
+
+'''AC-130 Pilot''': Roger that. Taking out targets ahead of you.
+
+''The AC-130 takes out targets on the bridge and the team moves up.''
+
+'''Sandman''': On me!
+
+'''Truck''': Incoming!
+
+''A fiery Russian MiG flies in and crashes on the bridge. The Eiffel Tower can be heard losing its balance for a brief moment.''
+
+'''Sandman''': Overlord, this is Metal 0-1! Black LZ at grid 2, 7, 7, 5. Hold this position! We got three minutes until CAS gets here!
+
+''Frost throws another smoke grenade ahead on the bridge.''
+
+'''AC-130 Pilot''': Metal 0-1, engaging the target. Danger close.
+
+''The AC-130 fires ahead on the bridge. They move forward onto the bridge, but they encounter more enemy troops''.
+
+'''Sandman''': Red smoke on the LZ! Need you to service targets North of that location! Mark the target with smoke Frost!
+
+''Frost tosses his last smoke grenade. Helicopters fly in and drop more troops.''
+
+'''Sandman''': Warhammer, we have enemy air support coming in! Need you to take care of 'em.
+
+''The AC-130 takes out the helicopters.''
+
+'''AC-130 Pilot''': 0-1, we're bingo on fuel. CAS support will be here in thirty seconds. Just hold on.
+
+'''Sandman''': Roger! Thirty seconds, gentlemen!
+
+'''Grinch''': I don't think we'll last that long!
+
+''A large group of armor roll in from the Eiffel Tower. The Delta team hold their position.''
+
+'''Truck''': They got a ton of armor rollin' in from the tower!
+
+'''Grinch''': Last mag!
+
+'''[[Odin 6-1]]''': 0-1, Odin 6. Can't tell who's who down there. Need you to mark the targets.
+
+'''Sandman''': Negative! Nothing left to use! We're dead center on the bridge! Hit anything North of us with everything you've got!
+
+'''Odin 6-1''': Overlord, bomb run is going to level everything in that area. Requesting clearance.
+
+'''Overlord''': Odin, you do whatever you have to, to get those men back home.
+
+'''Odin 6-1''': Metal 0-1, this is Odin 6. Bombs away.
+
+'''Grinch''': The tower's not gonna take much more that!
+
+'''[[Odin 6-2]]''': Odin 6-2, bombs away, bombs away.
+
+''Two A-10's fly in and drop bombs on the bridge, obliterating everything near the Tower. Having sustained a lot of damage before, the bombs cause the Tower to tip over and crash into the river. A large flight of [[UH-60 Blackhawk|Black Hawks]], [[MH-6 Little Bird|Little Birds]], and [[CH-46 Sea Knight|Sea Knights]] fly in to the LZ.''
+
+'''[[Vandal 3-1]]''': Metal 0-1, this is Vandal 3. Heard you boys wanted a lift back to base.
+
+'''Sandman''': Sounds good, Vandal. Anywhere but here.
+
+'''Truck''': What about Volk?
+
+'''Grinch''': I'll take him. Make sure he gets on the next bird.
+
+'''Sandman''': Alright, do it! ...and Grinch, we need him alive.
+
+'''Grinch''': Have a nice ride, gentlemen.
+
+'''Sandman''': Let's go! We're getting the hell out of here. Frost, get on board!
+
+''The Delta team except Grinch, holding on to Volk, get on the Little Birds and they take off. They can see the destroyed Eiffel Tower as they fly away.''
+
+{{CoD8 CampaignT}}

@@ -1,0 +1,210 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_2_Transcripts -->
+<!-- title: The Hornet's Nest/Transcript -->
+
+{{game|mw2|mw2r}}
+
+== Cutscene ==
+''The U.S. is under lockdown due to the Russian invasion on the East Coast.''
+
+'''Female Phone Operator''': We're sorry. All lines are busy at the moment. Please hang up and try to call again later.
+
+'''[[Simon "Ghost" Riley|Ghost]]''': I can't get anyone on the horn.
+
+''The satellite downloads the newsfeed of war in the U.S. (the videos are actually parts of the reveal trailer of the game).''
+
+'''Male News Reporter''': War has been brought to the shores of the United States.
+
+'''Female News Reporter''': Troops are already stretched to... scattered all over the world...
+
+'''Newsroll''': DOWNLOADING. U.S. DENIED PASSAGE THROUGH BRAZILIAN AIRSPACE - U.S. CONDEMNED FOR MOSCOW AIRPORT MASSACRE - CIA "BLOWBACK" TRIGGERS HARSH U.N. RESPONSE.
+
+'''[[John "Soap" MacTavish|Captain MacTavish]]''': The Russians must've [[Cliffhanger (mission)|copied the ACS module]]. Got the key to every lock in America.
+
+'''Ghost''': And they're killing a thousand Americans [[No Russian|for every dead civilian in Moscow]]. Look's like we're all out of friends.
+
+''A picture of Nikolai appears.''
+
+'''Captain MacTavish''': I know [[Nikolai (Modern Warfare)|a guy]] Let's find a payphone. They still exist?
+
+''The satellite tracks [[Gary "Roach" Sanderson|Sgt. Gary "Roach" Sanderson]] in Rio de Janeiro, Brazil.''
+
+'''Ghost''': All we got outta Rojas is that the only [[John Price|guy]] [[Vladimir Makarov|Makarov]] hates worse than Americans is locked up in a gulag.
+
+'''Captain MacTavish''': It's all we got. If this con's the bait to catch that psychopath, let's hang him from a tree.
+
+== Gameplay ==
+'''["The Hornet's Nest"]'''
+
+'''[Day 4 - 16:19:42]'''
+
+'''[Sgt. Gary "Roach" Sanderson]'''
+
+'''[Task Force 141]'''
+
+'''[Rio de Janeiro, 1700&nbsp;ft A.S.L.]'''
+
+''Sgt. Gary "Roach" Sanderson, Captain MacTavish, Ghost, and the [[Task Force 141]] see a large group of [[Brazilian Militia]] moving towards them. If the player looks around, one can find Rojas, who was interrogated in [[Takedown (mission)|the previous mission]], and is able to kill him without receiving a Mission Failure notification.''
+
+'''Ghost''': Sir, the militia's closing in. Almost 200 of them, front and back.
+
+'''Captain MacTavish''': We’re gonna have to fight our way to the LZ. Let’s go!
+
+'''Ghost''': What about [[Alejandro Rojas|Rojas]]?
+
+'''Captain MacTavish''': The streets'll take care of him.
+
+'''Ghost''': Works for me.
+
+'''Captain MacTavish''': Nikolai! We’re at the top level of the favela surrounded by militia! Bring the chopper to the market, do you copy, over!
+
+'''Nikolai''': Ok my friend, I am on the way!
+
+'''Captain MacTavish''': Everyone get ready! Lock and load!
+
+'''Ghost''': Let's do this!
+
+''The team runs up the hill. They are ambushed by militia. They engage.''
+
+'''Ghost''': Tangos at the ground level dead ahead!
+
+'''Captain MacTavish''': We've gotta get to the helicopter - head through the gate to the market! Move!
+
+'''Ghost''': Contact! Foot-mobiles on the rooftops, closing in fast from the south!
+
+'''Captain MacTavish''': Tangos moving in low from the southeast!
+
+''They fight the militia through the favela.''
+
+'''Ghost''': Militia coming out of the shack on the left.
+
+''Two Technicals enter the fray.''
+
+'''Ghost''': Technical comin' in from the south!
+
+'''Captain MacTavish''': We got another technical! Take it out!
+
+''The technicals are taken out; the team pushes towards a street.''
+
+'''Captain MacTavish''': Head through that gate! Keep pushing to the evac point!
+
+'''Ghost''': Go! Go! Go!
+
+''They kill militia at the street and move down hill to a yard where they encounter more militia. The yard is cleared.''
+
+'''Captain MacTavish''': Let's go, let's go! We've gotta push through these streets to the market! Watch for flanking routes!
+
+''They face more resistance at a street hill.''
+
+''(If the player goes trough the buildings on the left:''
+
+'''Captain MacTavish''': Roach! Lay down some fire on the intersection!'')''
+
+'''Captain MacTavish''': Heads up! Alley on the left! Keep moving! We're almost at the market!
+
+''A shootout rages at a grassy yard. Another technical appears but is destroyed. They eliminate the militia and reach the market.''
+
+'''Captain MacTavish''': Squad! Spread out and cut through the market! Move!
+
+''At the market there are more militia who fire at them.''
+
+'''Ghost''': Contacts above us at 11 o'clock, firing blind!
+
+'''Captain MacTavish''': Tango coming out of the shack on the right!
+
+''They push through the market (kill 7 chickens under 10 seconds to get achievement: "Colonel Sanderson"). Nikolai arrives in a [[Pave Low]] helicopter. The team moves through a couple houses on their way to the LZ.''
+
+'''Captain MacTavish''': There's Nikolai's Pave Low! Let's go! Nikolai! ETA 20 seconds! Be ready for immediate dustoff!
+
+'''Nikolai''': That may not be fast enough! I see more militia closing in on the market!
+
+'''Captain MacTavish''': Pick up the pace! Let's go!
+
+''The Pave Low becomes surrounded by [[RPG-7|RPGs]] and gunfire at a small soccer field.''
+
+'''Nikolai''': It's too hot! We will not survive this landing!
+
+'''Captain MacTavish''': Nikolai wave off, wave off! We'll meet you at the secondary LZ instead! Go!
+
+'''Nikolai''': Very well, I will meet you there! Good luck!
+
+''Nikolai flies the Pave Low away towards the secondary LZ.''
+
+'''Captain MacTavish''': Come on! We've got to get to the rooftops, this way!
+
+''The team eliminates the militia who come out of the doors across from them. If the player stalls:''
+
+'''Captain MacTavish''': Roach! Get over here and climb up to the rooftops!
+
+''If the player stalls longer:''
+
+'''Captain MacTavish''': Roach! Get up here on the rooftops, let's go!; Roach! You can climb up over here!
+
+''They climb up the rooftops and head towards the Pave Low.''
+
+'''Captain MacTavish''': Let's go, let's go!
+
+'''Nikolai''': My friend, from up here, it looks like the whole village is trying to kill you!
+
+'''Captain MacTavish''': Tell me something I don't know! Just get ready to pick us up!
+
+'''Ghost''': We're running out of rooftop!
+
+'''Captain MacTavish''': We can make it! Go go go!
+
+''They jump across the rooftops and reach Nikolai's Pave Low. If the player does not jump:''
+
+'''Captain MacTavish''': Roach, what's the hold up, let's go!
+
+''If the player stalls:''
+
+'''Captain MacTavish''': We've got to get out of here, Roach, come on!
+
+''If the player stalls longer:''
+
+'''Captain MacTavish''': C'mon Roach, we're almost at the chopper!
+
+''Roach jumps, but barely makes it. He slips and falls (before MacTavish can catch him). The player's vision blacks out.''
+
+'''Captain MacTavish''': Roach! Roach! Wake up!
+
+''Roach wakes up. The player's vision is blurred, but gradually sharpens.''
+
+'''Ghost''': Roach! We can see them from the chopper! They're coming for you, dozens of 'em!
+
+''All around him, Roach can see large groups of militia converging on him.''
+
+'''Captain MacTavish''': Roach! There's too many of them! Get the hell out of there and find a way to the rooftops! Move! Run for it! Get to the rooftops!
+
+''Roach starts to sprint through the buildings with the militia's guns firing at him.''
+
+'''Captain MacTavish''': Roach, we're circling the area but I can't see you! You've got to get to the rooftops!
+
+''If the player stalls:''
+
+'''Captain MacTavish''': Roach, we're running low on fuel! Where the hell are you?!
+
+''Roach heads down a narrow alley, up through a house, and reaches the rooftops.''
+
+'''Captain MacTavish''': Roach! I see you! Jump down to the rooftops and meet us south of your position! Go!
+
+'''Nikolai''': Gas is very low! I must leave in thirty seconds!
+
+'''[Time to dustoff: 0:30:0]'''
+
+'''Captain MacTavish''': Roach! We're running on fumes here! You got thirty seconds! Run! Left! Turn left and jump down! Come on!
+
+''Roach sprints and slides down the rooftops and reaches Nikolai's Pave Low.''
+
+'''Captain MacTavish''': Jump for it!
+
+''Roach jumps and grabs the ladder.''
+
+'''Captain MacTavish''': Nikolai! We got him! Get us out of here!
+
+'''Nikolai''': Where to, my friend?
+
+'''Captain MacTavish''': Just get us to the sub...
+
+''The Pave Low flies out of Rio de Janeiro, Brazil. Fade to black.''
+
+{{CoD6 CampaignT}}

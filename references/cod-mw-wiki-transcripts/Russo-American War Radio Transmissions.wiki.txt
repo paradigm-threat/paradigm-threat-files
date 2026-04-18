@@ -1,0 +1,752 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_2_Transcripts -->
+<!-- title: Russo-American War Radio Transmissions -->
+
+{{game|mw2}}Throughout the campaign levels in ''[[Call of Duty: Modern Warfare 2]]'' that depict [[Russo-American War|the invasion of the United States of America]] by [[Russia]], radio traffic can be frequently heard in areas of each level. The majority of this traffic is heard in the bunker at the beginning of "[[Of Their Own Accord]]", however other radio chatter can also be heard during "[[Wolverines!]]" and "[[Exodus (Modern Warfare 2)|Exodus]]".
+
+Audio of the below texts can be found at the bottom of this page.
+
+==Callsigns==
+The following are the callsigns for military units that can be identified in the Radio Transmissions.
+
+'''Broadsword''': Most likely the callsign for an armored unit that was requested by 2-1 Alpha to destroy a [[T-72]] and to sweep enemy in the area A-AO.
+
+'''Goliath''': Callsign for what appears to be a commanding unit, similar to [[Overlord]].
+
+'''3-2 Echo''': The callsign for an armored unit, most likely an APC or an [[M1A2 Abrams|M1 Abrams]], that discovered a [[BMP-2]] surrounded by enemy personnel intending on entering a residential area in the vicinity of the Main Supply Route.
+
+'''Wolverine''': Callsign for presumed [[U.S. Army Ranger]] Company. Wolverine units can be heard to be in defensive combat during the transmissions. They also state that they are in defensive positions around the Capitol Building, but the units at this position appear to be overrun. This results in Wolverine taking the most casualties of the units heard in the radio transmissions.
+
+'''Mongoose-1''': The callsign for a dedicated anti-armor unit equipped with [[FGM-148 Javelin]]s. They are requested to assist Wolverine Actual's Unit, presumably because they were being attacked by enemy armor.
+
+'''[[Cujo Two-One|Cujo 2-1]]''': The callsign for a flight of two F-35 Joint Strike Fighters. Cujo 2-1 checks in with Vulture upon arriving at the combat area and is instructed to give CAS to Stalker-2, who had spotted enemy armor near a large three-story factory building.
+
+'''[[Cujo Five-One|Cujo 5-1]]''': The callsign for a flight of two A-10s, with four [https://en.wikipedia.org/wiki/BLU-97/B_Combined_Effects_Bomb BLU-97] cluster munitions and 3000 rounds. Cujo 5-1 checks in with Overlord upon arriving at IP Buick and is instructed to give CAS to Stalker 2 Actual, who had previously neutralized 350 mechanized infantry, and gave a heads up to 5-1 about the separate armor teams who later met up as an armor column of 25 T-72s moving from east to west of the White House. After both A-10s used rounds only to completely destroy all 25 tanks, Cujo told Stalker 2 that they are Winchester Ammo, meaning all of their rounds have been expended. Cujo later checks in with Vulture and mention they have four BLU-97s left but Vulture tells them they are no more targets to kill and that they're free to return to base and refuel and rearm.
+
+'''Vulture''': Little information, but appears to be a callsign for a commanding unit similar to Overlord.
+
+'''Viper''': Most likely a callsign for another U.S. Army company similar to Wolverine. (Note: The callsign "Viper 6-1" is a flight of [[AH-1 Cobra|Cobra]] attack helicopters in part two of the invasion. However, 6-1 is not to be confused with other Viper elements in Part 1 of the DC invasion and the DC evac.)
+
+'''Stalker''': Callsign for [[United States Marine Corps|Marine First Recon units]]. The majority of Stalker units provide recon and intel for main U.S combatants.
+
+'''Grizzly''': Most likely the callsign for a motorized unit, using light vehicles such as [[M1026 HMMWV|Humvees]] to move. Equipped with heavy weaponry. They encounter enemy snipers in the Federal Reserve Building and decide to level the building before they attempt to pass it with their heavy weaponry.
+
+'''Darkstar''': Callsign for a support {{w|Airborne early warning and control|AWACS}}, in most cases a {{w|Boeing E-3 Sentry}} which would provide early warning and control. Darkstar would generally provide support for all units on the battlefield. 
+
+'''[[Hunter "1st Company" (Modern Warfare 2)|Hunter]]''': Callsign for a company of U.S Army Rangers. They are known to be in a defensive role and work alongside Wolverine, whilst being supported by Stalker. They engage the advancing enemy at Logan Circle Park and the Washington Monument, where they encounter heavy resistance. [[Hunter Two-One|Hunter 2-1]] is the callsign of [[Foley (Modern Warfare 2)|Sgt. Foley]]'s unit, who storm the Department of Commerce with [[Navy SEALs]] in order to also assist in the defense of the evacuation sites.
+
+'''Rhino''': Callsign for what appears to be an armored unit; most likely APCs or Infantry Fighting Vehicles. They use thermal vision to locate and engage enemy targets, as well as call in fire support.
+
+'''Warhammer''': Callsign for an artillery unit made up of at least twelve artillery guns. Warhammer is requested for fire-missions, and provides fire support for Rhino when the latter spots enemy infantry in a distant building.
+
+'''Warpig''': Callsign for Heavy Armour at the Washington Monument. They engage enemy infantry and armor. Warpig 2-2 is hit (and presumably destroyed) and Warpig 2-1 is cut off during a transmission leading to believe that they too were destroyed.
+
+'''Warhorse 5-1''': Callsign for a flight of two [[A-10 Thunderbolt II]]'s, who provide close air support for Stalker-2, who spot enemy armour engaging a Convention Center filled with civilians. Despite being carefully guided down to the target and opening fire, enemy fighter jets intercept and destroy both aircraft before they can destroy the T-72s. Not to be confused with [[Warhorse 5-1]], the callsign of a [[Pave Low]] used by [[Shadow Company]].
+
+== Radio Transmissions ==
+
+''The following transmissions are heard at the beginning of "[[Wolverines!]]".''
+
+'''Unidentified station 1''': ''"The Russians have everything east of I-95! My sector's gonna fall within the hour!"''
+
+'''Unidentified station 2''': ''"We've lost contact with Annapolis. Where's the air support?"''
+
+'''Unidentified station 3''': ''"Counter-battery fire is unable to engage! [[Russian Airborne Troops|Enemy paratroopers]] have infiltrated their positions! We are cut off, I repeat, we are cut off!"''' ''(After a while.)'' '''"[https://en.wiktionary.org/wiki/Broken_Arrow Broken Arrow]! Broken Arrow! Drop that thousand-pounder on the red smoke, now''!" 
+
+'''Unidentified station 4''':'' "Interrogative, can your [[AV-8B Harrier II|Harriers]] take out the interchange at I-495 and US-50? Over!"''
+
+''The following transmissions are heard throughout "Wolverines!", "[[Exodus (Modern Warfare 2)|Exodus]]", and "[[Of Their Own Accord]]".''
+
+'''3-2 Echo''': ''"Goliath, this is 3-2 Echo. We are in sector, gunner up scanning with thermals. Break. I have visual on enemy armor in the vicinity of the MSR. How copy? Over."''
+
+'''Goliath''': ''"Roger 3-2. Goliath copies all, go ahead."''
+
+'''3-2 Echo''': ''"Roger. Uhh... We have a [[BMP-2]] at map grid: 315298. Target is surrounded by multiple personnel carrying small arms, uhh... entering what appears to be a residential area. Uhhh....Requesting permission to engage. Over."''
+
+'''Goliath''': ''"Uhh, negative 3-2. The ROE for that area prohibits engaging enemies in close proximity to civilian dwellings at this time. Out."''
+
+'''2-1 Alpha''': ''"2-1 Bravo, 2-1 Alpha... Interrogative:... What is the status of the man down? Over."''
+
+'''2-1 Bravo''': ''"2-1 Alpha, this is 2-1 Bravo... It's minor. we'll take care of it here. Out."''
+
+'''Wolverine 3-2''': ''"Wolverine 3, Wolverine 3-2... possible foot mobiles with RPGs approaching from your 4 o'clock".''
+
+'''Stalker 2-2 Bravo''': (panicked) ''"3 o'clock, 3 o'clock! Check your fire, check your fire!"''
+
+'''3-2 Bravo''': ''"Contact left! Contact left!"''
+
+'''Stalker 2-2 Bravo''': (panicked) ''"2-3, 2-2! I need a [[M249 SAW|SAW]] to cover the left side right now or we're going to get pinned down!"''
+
+'''3-2 Bravo''': ''"Goliath, this is 3-2 Bravo, we have a man down, I repeat, we have a man down! Requesting CASEVAC. How copy? Over."''
+
+'''Goliath''': ''"Solid copy 3-2 Bravo, negative on CASEVAC, do what you can. Out."''
+
+'''Stalker 3-2''': ''"3-1, 3-2! Get half your squad over the left side and take out that RPG!"''
+
+'''2-1 Bravo''': ''"2-1, 2-1, get the hell up here, I need suppressive fire on the left side, left side!"''
+
+'''Wolverine Actual''': ''"Mongoose 1, this is Wolverine Actual. Request [[FGM-148 Javelin|Javelin]] support on the north ridge at map grid: 225313. How copy? Over."''
+
+'''Mongoose 1''': ''"Roger Wolverine, Mongoose. Solid copy on all, Javelin support is moving into position in this time. Stand by."''
+
+'''[[Cujo Two-One|Cujo 2-1]]''': ''"Vulture, Cujo 2-1 Checking in a flight of two F-35s, motoring west, 20 miles, at Angels 12. Ordnance to follow:... uhh, 4 laser Mavericks, 2 HARMs, 6 by GBU-12s, 600 rounds a piece. 0+40 Time on Station. Ready for tasking."''
+
+'''Vulture''': ''"Cujo 2-1, this is Vulture, solid copy on all. Break. We are in contact with Stalker 2; a Marine Recon Platoon north of the MSR. They've glassed 3 [[T-72 Tank|T-72s]] in the area. I need you to push 16 klicks north of MSR Knife to map grid: 257798, how copy over?"''
+
+'''Cujo 2-1''': ''"Vulture, Cujo 2-1 Solid copy. Errr... pushing north of MSR Knife to map grid: 257798... err... I understand we are operating under restricted ROE? Over."''
+
+'''Vulture''': ''"Uhh, negative on that restricted ROE Cujo 2-1. You are cleared to prosecute any other targets of opportunity in that grid square. Over."''
+
+'''Cujo 2-1''': ''"Cujo 2-1 copies."''
+
+'''Vulture''': ''"Stalker 2, this is Vulture. You have Cujo 2-1: flight of two F-35s at Angels 12 pushing north of the MSR."''
+
+'''Stalker 2''': ''"Stalker 2 copies."''
+
+'''Stalker 2''': ''"Cujo 2-1, this is Stalker 2. Stand-by for 9 Line, how copy over?"''
+
+'''Cujo 2-1''': ''"Stalker 2, Cujo 2-1. Solid Copy, standing by."''
+
+'''Stalker-2''': ''"Cujo 2-1, Stalker 2. 9 Line follows: IP Hammer. Heading: 225 magnetic. Distance: 5 nautical miles. Target elevation: 215 [http://en.wikipedia.org/wiki/Sea_level MSL]. Three T-72s near a large green three story factory buildings. Grid: 257788. Marked with laser. Friendlies south; one mile. Danger Close. Egress north-west. End 9 line. Over."''
+
+'''Cujo 2-1''': ''"IP inbound."''
+
+'''Stalker 2''': ''"Laser on. Call contact? Over"''
+
+'''Cujo 2-1''': ''"Contact, Cujo 2-1 in the POT."''
+
+'''Stalker 2''': ''"Roger. Solid copy, continue. Over?"''
+
+'''Cujo 2-1''': ''"Wings level"''
+
+'''Stalker 2''': "Cleared hot."''
+
+'''Cujo 2-1''': ''"Roger. {{w|AGM-65 Maverick|Maverick}} away, maverick away."''
+
+'''Cujo 2-2''': ''"Dash 2 wings level."''
+
+'''Stalker 2''':"Roger. Dash 2 cleared hot."''
+
+'''Cujo 2-2''': ''"Maverick away."''
+
+'''Cujo 2-1''': ''"Cujo 2-1, egressing north-west, standing by for BDA, over."''
+
+'''Stalker 2''': ''"Roger Cujo 2-1. Standby... BDA: 100 over 100. Good shooting, Cujo. Stalker 2 out."''
+
+'''2-3 Charlie''': ''"Overlord, 2-3 Charlie. We've engaged multiple enemy contacts at map grid: 257195. Break. Be advised: tangos are near a restricted area according to the ROE. 2-3 requests permission to engage, how copy, over?"''
+
+'''[[Overlord]]''': ''"Roger 2-3 Charlie, Overlord copies all, you are cleared to engage."''
+
+'''2-3 Charlie''': ''"2-3 Charlie engaging. Out."''
+
+'''Grizzly''': ''"Darkstar, this is Grizzly, {{w|Suppression of Enemy Air Defenses|SEAD}}, over."''
+
+'''Darkstar''': ''"Grizzly, this is Darkstar. SEAD, out."''
+
+'''Grizzly''': ''"Route to suppress, uhh: Bravo Whiskey 552911. Grid to mark: Bravo Whiskey 553978, over."''
+
+'''Darkstar''': ''"Darkstar copies all, go ahead."''
+
+'''Grizzly''': ''"SA-6 [[2K12 Kub|Gainful]], non-standard, -1 to -20, +20 to +2. Marked smoke on the deck. 5 rounds, HEVT. CAS, TOT 62. Request splash, over."''
+
+'''Darkstar''': ''"Message to Observer. Alpha, three rounds, HE delay in effect. Three guns. Bravo, two rounds, two guns, smoke on the deck. SEAD, CAS, TOT 62. Target number: Hotel November 5209. Request Splash, out."''
+
+'''Darkstar''': ''"Shot. Over."''
+
+'''Grizzly''': ''"Shot. Out."''
+
+'''Grizzly''': ''"Splash. Over."''
+
+'''Darkstar''': ''"Splash. Out."''
+
+'''Grizzly''': ''"Record this target, end of mission. target suppressed. Over."''
+
+'''Darkstar''': ''"Record this target, end of mission. target suppressed. Out."''
+
+'''Hunter 2-1 Alpha''': ''"Overlord, this is 2-1 Alpha. Relay to Broadsword, good effect on target. Break. T-72 destroyed. Break. Request that Broadsword push west to sweep, flank, and search for potential targets in Alpha's AO. Over."''
+
+'''Overlord''': ''"2-1 Alpha, Overlord copies all. Roger on relay. Out."''
+
+'''Grizzly 1''': ''"Grizzly 1 to all Grizzly Victors, maintain speed and interval, 50 metres".''
+
+'''Grizzly 1-2''': ''"1-2 copies".''
+
+'''Grizzly 1-3''': ''"Roger, 1-3 copies all."''
+
+'''Stalker 2''': ''"Stalker 2 to all Stalker 2 Victors, be advised... Hunter and Terminator are in enemy contact to our rear, how copy over?"''
+
+'''Stalker 2-1  Bravo''': ''"2-1 Bravo copies all, over."''
+
+'''Stalker 2-2 Bravo''': ''"Stalker 2, 2-2 Bravo, solid on our own sector over."''
+
+'''Hunter 2-1 Alpha''': ''"Stalker, this is Hunter. Gimme a SITREP, over."''
+
+'''Stalker Actual''':"Hunter, Stalker Actual. We are taking very sporadic small arms fire from the vicinity of Twin Pines Mall. Break. Grid to follow: Mike November 296539. We're gonna push past the 43rd northing and call in the Cobras to weed 'em out. Over."''
+
+'''Hunter 2-1 Alpha''': ''"Roger, Hunter copies all. Out."''
+
+'''Grizzly''': ''"All Grizzly 1 Victors, this is Grizzly. Be advised: we have elements of Task Force Muse strongpointing intersections north of the overpass. Break. Be advised: reports of biological threats north of the overpass have been confirmed as false. Break. All Grizzly teams return to [[wikipedia:MOPP (protective gear)|MOPP]] 2 posture. Over."''
+
+'''Grizzly 1-2''': ''"1-2 copies."''
+
+'''Grizzly 1-3''': ''"1-3, roger that."''
+
+'''Hunter 2-2 Alpha''': ''"Stalker, Stalker, this is Hunter 2-2. We took a few rounds from a department store at 11 o'clock, 1200 meters. Pushing through."''
+
+'''Stalker''': ''"Roger that Hunter, Stalker copies all. Out."''
+
+'''Stalker''': ''"All Stalker Victors, this is Stalker. Be advised: Alpha reports rounds fired from a department store rooftop at 11 o'clock, range 1200 meters. Continue scanning with thermals and proceed with caution. Stay frosty."''
+
+'''Stalker 2''': ''"This is Stalker 2. Roger that."''
+
+'''Stalker 3-1 Bravo''': ''"This is Stalker 3, copy."''
+
+'''Rhino 2-2 Echo''': ''"Rhino, this is Rhino 2. We are halting to engage possible foot mobiles near the National Archives. How copy? Over."''
+
+'''Rhino''': ''"This is Rhino, solid copy. Interrogative: are you able to determine their disposition and strength from your current position? Over."''
+
+'''Rhino 2-2 Echo''': ''"Standby. Uhhhhh..... negative.... the fires burning inside the Archives are blocking our thermals; we can't get a good look from where we are."''
+
+'''Rhino''': ''"Rhino 2, hold your position and standby for the 6. How copy? Over."''
+
+'''Rhino 2-2 Echo''': ''"Rhino 2 solid copy."''
+
+'''Rhino Actual''': ''"Rhino 2, this is Rhino Actual... err... fall back 2 klicks from your current position. Break. Be advised: err... I'm calling in a strike on that building. Over."''
+
+'''Rhino 2-2 Echo''': ''"Roger, Rhino 2 copies all, we're Oscar Mike. Out."''
+
+'''Rhino Actual''': ''"Warhammer, this is Rhino. How copy over?"''
+
+'''Warhammer''': ''"Rhino, you're coming in weak and unreadable. Switch to backup frequency and try again."''
+
+'''Rhino Actual''': ''"Warhammer, this is Rhino. How do you read me now?"''
+
+'''Warhammer''': ''"Warhammer has you loud and clear, go ahead over."''
+
+'''Rhino Actual''': ''"Fire Mission. Grid: Juliet November 159683. Twelve guns, two rounds, HE delay in effect. Target number: November Alpha Bravo 2602, over."''
+
+'''Warhammer''': ''"Warhammer copies all. Message to Observer: Juliet November 159683, twelve guns, two rounds, HE delay in effect, Target number: November Alpha Bravo 2602. Splash in seven seconds."''
+
+'''Warhammer''': ''"Shot, over."''
+
+'''Rhino Actual''': ''"Shot out."''
+
+'''Rhino Actual''': ''"Splash, over."''
+
+'''Warhammer''': ''"Splash out."''
+
+'''Rhino Actual''': ''"Warhammer, this is Rhino. Good effect on target: building destroyed. Over."''
+
+'''Warhammer''': ''"Warhammer copies. Good effect, one building destroyed. Out."''
+
+'''Wolverine 2 Bravo Actual''': ''"Wolverine 2-3, this is Wolverine 2. What's your status? Over."''
+
+'''Wolverine 2-3 Bravo Echo-5-Foxtrot''': ''"Wolverine 2. Wait one. Over."''
+
+'''Wolverine 2-3 Bravo Echo-5-Foxtrot''': ''"2, 2-3. Be advised: we have a visual on enemy paratroopers at grid: Papa Uniform 259119. They don't know we're onto them. Break. Request permission to engage with intent to conduct a snatch. Over."''
+
+'''Wolverine 2 Bravo Actual''': ''"2-3 standby."''
+
+'''Wolverine 2 Bravo Actual''':"Goliath, this is 2 Bravo. Request permission to engage enemy paratroopers and attempt to snatch at grid: Papa Uniform 259119. Break. Enemy is unaware of our presence at this time, over."''
+
+'''Goliath''': ''"Wolverine 2, this is Goliath. You are approved to engage those targets."''
+
+'''Wolverine 2 Bravo Actual''': ''"Solid copy."''
+
+'''Wolverine 2 Bravo Actual''': ''"Wolverine 2-3 Echo-5 Foxtrot, this is Wolverine 2 Actual. You are approved to engage in 5 mikes. 3-1 Delta will be in position to provide flanking support at that time, how copy? Over."''
+
+'''Wolverine 2-3 Bravo Echo-5-Foxtrot''': ''"Wolverine 2-3, solid copy on all. We'll engage in 5 mikes unless we hear from you. Out."''
+
+'''Wolverine 2 Bravo Actual''': ''"Warpig 3-1, Wolverine 2 Actual. Alter your approach and begin manuever to the west at map grid Papa Uniform 259119. Break. 2-3 Bravo will attempt to snatch in that position in five mikes. Break. You're cleared to engage any hostile foot mobiles in the area. How copy? Over."''
+
+'''Warpig 3-1 Delta''': ''"Roger, 3-1 Delta copies all. We're Oscar Mike. In position in five. Out."''
+
+'''Warpig 3-1 Delta''': ''"All Warpig victors, all Warpig victors. Be advised: Wolverine-2 has a visual on enemy paratroopers assembling two klicks north-north-east of Washington Monument. Veer left on route Sierra. Expect enemy foot mobiles to be on the right side. Break. We're cleared to engage. Time on target, five mikes. Out."''
+
+'''Warpig 3-2''': ''"Warpig 3, this is Warpig 3-2. Are these the same paratroopers that engaged 2-1 in the shopping center?...Uhh..Where we found all the dead civvies, over?"''
+
+'''Warpig 3-1 Delta''': ''"Unknown at this time. Out."''
+
+'''Terminator 3''': ''"Terminator, this is Terminator 3. Interrogative: What's the hold up? Over."''
+
+'''Terminator''': ''"Terminator 3, this is Terminator. Stalker's CASEVACing a [[Pave Low]] crew that went down in the area. Over."''
+
+'''Stalker Actual''': ''"All Stalker 3 victors, this is Stalker Actual. Radio check. Over."''
+
+'''Stalker 3-1 Alpha''': ''"This is 3-1 Alpha, up 400 and up."''
+
+'''Stalker 3-1 Bravo''': ''"3-1 Bravo is up, 700 and up."''
+
+'''Stalker 3-2''': ''"Stalker, this is Stalker 3-2, up 500 and up."''
+
+'''Stalker 3-3''': ''"This is Stalker 3-3, up 300 and up."''
+
+'''Stalker Actual''': ''"All Stalker 3 victors, this is Stalker Actual. Roger."''
+
+'''Deadly 3-1''': ''"Deadly 3-1 egressing north. Standing by for BDA."''
+
+'''Mongoose 2''': ''"Vulture, this is Mongoose 2. Relay to Deadly: BDA 60 over 100. Personnel suppressed. Receiving no fire from the target structure, over."
+
+'''Vulture''': ''"Mongoose 2, this is Vulture. Solid copy on all. Roger on relay, out."''
+
+'''Vulture''': ''"Deadly 3-1, this is Vulture. Relay from Mongoose 2. BDA: 60 over 100. Personnel suppressed. Receiving no fire from target structure, out."''
+
+'''Stalker 2-2''': ''"Stalker 2, this is Stalker 2-2. We have a possible sniper at our 10 o'clock. Over."''
+
+'''Stalker 2''': ''"Stalker 2-2, this is Stalker 2. Negative on sniper, we already glassed it. Just a metal support in the rubble. Trick o' the light. Over."''
+
+'''Stalker 2-2''': ''"Roger that."''
+
+'''Wolverine''': ''"All Wolverine 3 victors. Be advised: We are rolling FREQs to TAC 295 at 1800 ZULU. How copy?"''
+
+'''Wolverine 3-1 Bravo''': ''"3-1 Bravo copies."''
+
+'''Wolverine 3-2 Bravo''': ''"3-2 Bravo, solid copy. Over."''
+
+'''Wolverine 3-3''': ''"Wolverine 3-3, roger."''
+
+'''Viper 6-1''': "''Vulture, this is Viper 6-1, checking in. Flight of two 1-Zulu Cobras, time on station two-five mikes. Holding at Angels 2, northwest. Holding area Irene. Armed with eight Hellfires, four TOWs, eighteen-hundred rounds between us. Ready for your work, over."''
+
+'''Recon 1''': ''"Viper 6-1, this is Recon 1. Solid copy on check in. Standby for 6 Line."''
+
+'''Viper 6-1''': ''"Stalker 2-1, Viper 6-1. I have a visual on the position. Tally to target: Ten seconds''."
+
+'''Stalker 2-1''': ''"6-1, laser on."''
+
+'''Viper 6-1''': ''"Laser on."''
+
+'''Stalker 2-1''': ''"Splat."''
+
+'''Viper 6-1''': ''"Viper 6-1 is in the POT. Heading: 220. Wings level."''
+
+'''Stalker 2-1''': ''"Cleared hot."''
+
+'''Viper 6-1''': ''"6-1, Maverick away."''
+
+'''Hunter 2-3''': ''"Hunter, this is Hunter 2-3. Uhh, who cleared those [[AH-1 Cobra|Cobras]] to shot?"''
+
+'''Hunter 2-1 Alpha''': ''"Hunter 2-3, no one on the net, over."''
+
+'''Hunter 2-3''': ''"Roger. Interrogative: Do you have a possible ID on any enemy personnel there?"''
+
+'''Hunter 2-1 Alpha''': ''"Unaware at this time, over"''
+
+'''Viper 6-1''': ''"Viper 6-1 is off-ride, egressing west. Standing by for BDA."''
+
+'''Stalker 2-1''': ''"Roger. BDA is 100 over 100. Good shooting Viper, that's one enemy OP destroyed, over."''
+
+'''Viper 6-1''': ''"Viper 6-1 copies, 100 over 100. One enemy OP destroyed."''
+
+'''Stalker 2-2''': ''"Overlord [https://en.wikipedia.org/wiki/Forward_air_control FAC], this is Stalker 2-2!"''
+
+'''Overlord FAC''': ''"Stalker-2, this is Overlord FAC. Send it."''
+
+'''Stalker 2-2''': ''"This is Stalker 2 Actual! We've engaged 25 enemy armor ten klicks due east of the Capitol building! Armor is supported by at least 350 mechanized infantry, grids to follow! Over"''
+
+'''Overlord FAC''': ''"Stalker 2, this is Overlord FAC. Standing by to copy grids. Over."''
+
+'''Stalker 2-2''': ''"Roger. Grid: Charlie Alpha 315992, over!"''
+
+'''Overlord FAC''': ''"Solid copy, Stalker 2 stand by."''
+
+'''Hunter 3-3''': ''"3-1, this is 3-3. T-72 at your 2 o'clock."''
+
+'''Hunter 3-1''': ''"Roger! Engaging with Javelin!"''
+
+'''Hunter 2-2''': ''"Hunter 2-1, this is 2-2. Multiple contacts on the mall."''
+
+'''Hunter 2-3''': ''"2-1, 2-3! 2-2 is down! Repeat, 2-2 is down!"''
+
+'''Stalker 3-1 Alpha''': ''"3-3, this is 3-1! Interrogative: Where's the air support, over?!"''
+
+'''Hunter Actual''': ''"All Hunter teams! 2-Bravo is in contact with Overlord FAC! Break! Retrograde to the Capitol Building but continue to delay the enemy in your sectors, out!"''
+
+'''Wolverine Actual''': ''"Wolverine 3 Actual, this is Wolverine Actual, Gimme a SITREP, over?"''
+
+'''Wolverine 3 Bravo Echo 4 Sierra''': ''"Wolverine Actual this is 3 Bravo Echo 4 Sierra! 3 Bravo Actual is KIA! Repeat: 3 Bravo Actual is KIA! Break! We are down to the last Javelin, I repeat, we are down for the last Javelin! How copy, over?!"''
+
+'''Wolverine Actual''': ''"Solid copy 3 Bravo. Be advised: I have Warhammer standing by. Switch to Tac Freq. 279 and go to town, over."''
+
+'''Wolverine 3 Bravo Echo 4 Sierra''': ''"Roger that. Switching to 279, out!"''
+
+'''Rhino 2-1 Alpha''': ''"Rhino 2, this is Rhino 2-1. I have visual on enemy armor closing 12 klicks due north of the Washington Monument. Supported by infantry and attack helos. How copy, over?"''
+
+'''Hunter 2-3''': ''"Contact left! Contact left!"''
+
+'''Stalker 3-1 Alpha''': ''"Taking fire! 11 o'clock! 100 meters!"''
+
+'''Rhino 2-2 Alpha''': "2-1'' Alpha, 2-2 Alpha! One of Rhino 2's victors just took a hit! Repeat! One of Rhino 2's victors has been hit!"''
+
+'''Grizzly 2''': ''"Rhino 2, this is Grizzly 2! What's your status, over?!"''
+
+'''Rhino 2-2 Alpha''': ''"Grizzly 2, this is Rhino 2-1! We are taking heavy fire from all across our forward arc, break! 2-2 Echo's Victor is gone! They took a direct hit from an RPG!"''
+
+'''Hunter 2-3''': ''"Ambush! Right side! Right side!"''
+
+'''Stalker 3-1 Alpha''': ''"Contact right! Contact right!"''
+
+'''Rhino 2-2 Alpha''': ''"2-3! RPG at your 3 o'clock!"''
+
+'''Grizzly 1-3''': ''"Get the [[Mk 19]] on that sector! Cover that sector!"''
+
+'''Wolverine 3 Bravo Echo 4 Sierra''': ''"Warhammer, this is Wolverine 3! Fire mission, over!"''
+
+'''Warhammer''': ''"Wolverine, Warhammer. Send it, over."''
+
+'''Wolverine 3 Bravo Echo 4 Sierra''': ''"Grid to suppress: Charlie Oscar 258792! Grid to mark: Charlie Oscar 272569, over!"''
+
+'''Warhammer''': ''"Grid to suppress: Charlie Oscar 258792. Grid to mark: Charlie Oscar 272569, out."''
+
+'''Wolverine 3 Bravo Echo 4 Sierra''': ''"Column of BTR-60s with attached infantry! Request splash, over!"''
+
+'''Warhammer''': ''"Column of BTR-60s with attached infantry. Request splash, out."''
+
+'''Warhammer''': ''"MTO: Bravo, 2 rounds, 3 guns in effect. Target number: Sierra Tango 205, over."''
+
+'''Wolverine 3 Bravo Echo 4 Sierra''': ''"MTO: Bravo, 2 rounds, 3 guns in effect. Target number: Sierra Tango 205, out!"''
+
+'''Warhammer''': ''"Shot, over."''
+
+'''Wolverine 3 Bravo Echo 4 Sierra''': ''"Shot, out!"''
+
+'''Wolverine 3 Bravo Echo 4 Sierra''': "''Splash'','' over!"''
+
+'''Warhammer''': ''"Splash, out."''
+
+''(Now Wolverine 3 Bravo stops using Warhammer and directs Warhammer to Wolverine's area, system aiding Wolverine.)''
+
+'''Wolverine''': ''"Warhammer, this is Wolverine! Adjust fire, system aided, over!"''
+
+'''Warhammer''': ''"Wolverine, this Warhammer. Adjust fire, system aided, out."''
+
+'''Wolverine''': ''"Ten digit grid: Charlie Oscar 2587923165, over!"''
+
+'''Warhammer''': ''"Ten digit grid: Charlie Oscar 2587923165, out."''
+
+'''Wolverine''': ''"6 BMPs! Danger close! Request splash, over!"''
+
+'''Warhammer''': ''"6 BMPs. Danger close. Request splash, out."''
+
+'''Warhammer''': ''"Message to Observer: Bravo, 3 rounds, 4 guns in effect. Target number: Sierra Tango 256, over."''
+
+'''Wolverine''': ''"Message to Observer: Bravo, 3 rounds, 4 guns in effect. Target number: Sierra Tango 256, out."''
+
+'''Warhammer''': ''"Shot, over."''
+
+'''Wolverine''': ''"Shot, out."''
+
+'''Wolverine''': ''"Splash, over."''
+
+'''Warhammer''': ''"Splash, out."''
+
+'''Wolverine''': ''"Warhammer, this is Wolverine. Ten digit impact grid follows: Charlie Oscar 2576812254. Danger close, correct and fire for effect, over."''
+
+'''Warhammer''': ''"Ten digit impact grid, Charlie Oscar 2576812254. Danger close, correct and fire for effect, out."''
+
+'''Warhammer''': ''"Shot, over."''
+
+'''Wolverine''': ''"Shot out."''
+
+'''Wolverine''': ''"Splash over."''
+
+'''Warhammer''': ''"Splash out."''
+
+'''Wolverine''': ''"Good effects on target: 6 BMPs destroyed, 80 enemy foot mobiles KIA. All targets suppressed, end of mission. Good shooting Warhammer, and thanks, over."''
+
+'''Warhammer''': ''"Roger, Warhammer copies all. 6 BMPs destroyed, 80 enemy foot mobiles KIA. All targets suppressed, end of mission, out."''
+
+'''[[Cujo Five-One|Cujo 5-1]]''': ''"Overlord, this is Cujo 5-1 checking in with you. Flight of two A-10s, holding area Lima, at Angels 10. Four by BLU-97s, three thousand rounds for this section. Ready for tasking."''
+
+'''Overlord''': ''"Roger Cujo 5-1, I have Stalker 2 on the ground requesting immediate CAS at map grid: Chalie Alpha 315992. Break. Push to IP Buick. How copy, over?"''
+
+'''Cujo 5-1''': ''"Solid copy. Map grid: Charlie Alpha 315992, pushing to IP Buick."''
+
+'''Overlord''': ''"Stalker 2, you have Cujo 5-1, flight two A-10s at Angels 10, pushing to IP Buick."''
+
+'''Stalker 2 Actual''': ''"Stalker copies all, out."''
+
+'''Stalker 2''': ''"Cujo 5-1, this is Stalker, stand by for information."''
+
+'''Cujo 5-1''': ''"Cujo, standing by."''
+
+'''Stalker 2''': ''"TOT 20. Close-in fire support, non-standard, -1 to -12, then +4 to +2, gun target line 050. I'm gonna talk you on to the target, how copy? Over."''
+
+'''Cujo 5-1''': ''"Solid copy on all, go ahead, over."''
+
+'''Stalker 2''': ''"North-east of the Washington Monument, one-point-five clicks, there's a stadium. Call contact?"''
+
+'''Cujo 5-1''': ''"Contact."''
+
+'''Stalker 2''': ''"At the south edge of the stadium is a road running along an east-west axis to the White House. Call contact?"''
+
+'''Cujo 5-1''': ''"Contact."''
+
+'''Stalker 2''': ''"We're observing from a structure directly to the east of the White House, looking east down that road. Call contact?"''
+
+'''Cujo 5-1''': ''"Contact."''
+
+'''Stalker 2''': ''"Your target is a column of two-five enemy T-72s moving from east to west along that road. They appear to be turning into it from the north adjacent to the railroad track that goes north to south-east of the stadium."''
+
+'''Cujo 5-1''': ''"Cujo has contact on all. We're are passing IP Buick, rolling into heading 090."''
+
+'''Stalker 2''': ''"Roger that, bring the rain."''
+
+'''Cujo 5-1''': ''"Cujo off safe. Guns, guns, guns."''
+
+''(The lead A-10 opens fire on the target)''
+
+'''Cujo 5-1''': ''"Guns, guns, guns."''
+
+'''Cujo 5-2''': ''"Dash-2 off safe, rolling in. Guns, guns, guns."''
+
+''(The second A-10 opens fire on the target)''
+
+'''Cujo 5-2''': ''"Guns, guns, guns."''
+
+'''Cujo 5-1''': ''"Cujo 5-1, egressing south-east. Standing by for BDA''."
+
+'''Stalker 2''': ''"Cujo, this is Stalker. BDA: Good effect on target, Eleven tanks destroyed, seven tanks immobilized, seven tanks blockaded by the wreckage. Break. Can you make another pass, over?"''
+
+'''Cujo 5-1''': ''"Roger, stand by."''
+
+''(The lead A-10 opens fire again)''
+
+'''Cujo 5-1''': ''"Guns, guns, guns. Guns, guns, guns. Cujo 5-1 is Winchester ammo."''
+
+'''Cujo 5-2''': ''"5-2 rolling in. Guns, guns guns. Dash-2 is out."''
+
+'''Cujo 5-1''': ''"Stalker, this is Cujo 5-1. Egressing south-west, awaiting BDA."''
+
+'''Stalker 2''': ''Cujo 5-1, this is Stalker-2. BDA is 100 over 100. Enemy armored column on route F has been suppressed. We owe you one, over.''
+
+'''Cujo 5-1''': ''"Cujo copies. BDA 100 over 100. Enemy armored column suppressed on route foxtrot, out."''
+
+'''Cujo 5-1''': ''"Vulture, this is Cujo 5-1 checking in with you. Flight of two A-10s, four BLU-97s remaining."''
+
+'''Vulture''': ''"Copy Cujo 5-1. We have no valid target package for that ordinance at this time. RTB and reload your guns, how copy? Over."''
+
+'''Cujo 5-1''': ''"Solid copy on all, we are RTB, out."''
+
+==Other Transmissions==
+
+'''Stalker 2-1''': ''"Goliath, Goliath, this is Stalker 2-1. Standby for report 1-3, over."''
+
+'''Goliath''': ''"Stalker 2-1, this is Goliath, send your traffic, over."''
+
+'''Stalker 2-1''': ''"Line Whiskey: 40 personnel, Line X-Ray: 3 columns of mechanized infantry, break. Line Yankee: 20 Bravo Tango Romeos 525639. Line Zulu: [[Russian Airborne Troops|Russian paratroopers]], break. Line Alpha: 1915 Zulu. Line Echo: AK-47s and RPGs. How copy so far, over?"''
+
+'''Goliath''': ''"Yeah, say again Line Yankee. Over."''
+
+'''Stalker 2-1''': ''"Roger, I say again Line Yankee. Line Yankee: 20 Bravo Tango Romeos 525639. How copy?"''
+
+'''Goliath''': ''"Solid copy. Do you have anymore marks? Over."''
+
+'''Stalker 2-1''': ''"Negative, no further marks at this time, over."''
+
+'''Goliath''': ''"Roger, solid copy on all. Stalker, do not engage unless compromised and continue to report every ten mikes on enemy disposition. We need all the intel we can get on any grid north of the White House. Goliath out."''
+
+'''Wolverine 2-3''': ''"Grizzly Actual, this is Wolverine 2, we are currently engaging enemy paratroopers, how copy? Over."''
+
+'''Grizzly 2 Actual''': ''"This is Grizzly, solid copy. All Grizzly teams be advised, Wolverine is now engaged with foot mobiles to our 9 o'clock."''
+
+'''Grizzly 2-3''': ''"Grizzly, this is Grizzly 2. Interrogative: Are we cleared to use our thermobaric [[M72 LAW|LAWs]], over?"''
+
+'''Grizzly 2 Actual''': ''"2, 3. What's your target?"''
+
+'''Grizzly 2-3''': ''"Snipers confirmed in the building Alpha 2-5. It'll be easier if we drop the whole building, over."''
+
+'''Grizzly 2 Actual''': ''"2-3, confirm Alpha 2-5 is the Federal Reserve Building, over?"''
+
+'''Grizzly 2-3''': ''"2, 2-3, roger that. They are all over the top floor."''
+
+'''Grizzly 2 Actual''': ''"I'm going to have to check in with Overlord, standby."''
+
+'''Grizzly 2-3''': ''"2-3, roger."''
+
+'''Grizzly 2 Actual''': ''"Overlord, Overlord... this is Grizzly Actual. Grizzly 2 has confirmed enemy snipers in building Alpha 2-5 and is requesting permission to engage with thermobaric LAWs, over."''
+
+'''[[Overlord]]''': ''"Overlord copies all, standby."''
+
+'''Grizzly 2 Actual''': ''"Roger, standing by."''
+
+'''Overlord''': ''"Grizzly this is Overlord, use of thermobaric weapons is now authorized. Go ahead and level the building, out."''
+
+'''Grizzly 2 Actual''': ''"Grizzly 2, this is Grizzly Actual. We are approved to level the building. Over."''
+
+'''Grizzly 2-3''': ''"Solid copy."''
+
+'''Grizzly 2-3''': ''"Grizzly 2-2-Echo-5-Kilo, this is Grizzly 2. You are approved to engage the snipers in building Alpha 2-5."''
+
+'''Grizzly 2-2-Echo-5-Kilo''': ''"Roger that, engaging targets with thermobaric LAWs."''
+
+''(Short pause)''
+
+'''Grizzly 2-3''': ''"Grizzly 2, target has been suppressed."''
+
+'''Grizzly 2 Actual''': ''"All Grizzly personnel, this is Grizzly Actual. We have neutralized the snipers in building Alpha 2-5. Saddle up, we're Oscar Mike, out."''
+
+'''Viper''' '''3-3''': ''"3-1, this is 3-3! [[BTR-60]] at your 2 o'clock!"''
+
+'''Viper''' '''3-1''': ''"Roger! Engaging with thermal rocket!"''
+
+'''Hunter 2-2''': ''"Hunter 2-1, this is 2-2! We have engaged the enemy at Logan Circle Park!"''
+
+'''Hunter 2-3''': ''"2-1, 2-3! 2-2 is down, I repeat, 2-2 is down!"''
+
+'''Viper 3-1''': ''"3-3, this is 3-1, interrogative: where is the air support, over?!"''
+
+'''Grizzly''''' '''''1-2''': ''"1-3, 1-2, be advised: our [[Mk 19]] is down, I repeat: our Mk 19 is down, over!"''
+
+'''Hunter:''' ''"All Hunter teams! 2 Bravo is in contact with Overlord FAC, break. Retrograde to Franklin Square, but continue to delay the enemy in your sectors, out!"''
+
+'''Wolverine 2-3''': ''"2, 2-3, be advised, we have a visual on enemy paratroopers at grid Papa Uniform 259119. We're low on ammo and have sustained major casualties!" ''
+
+'''Wolverine 2-3''': ''"100 Enemy foot mobiles and one column of 5 BTR-60s will be on top of us in less than two minutes, break. Enemy is unaware of our presence at this time, how copy over?"''
+
+'''Wolverine 2-1 Bravo Actual''': ''"Solid copy on all... 2-3 standby: I'm calling it in. Warhammer, this is 2 Bravo, standby for fire mission."''
+
+'''Warhammer''': ''"Wolverine 2, this is Warhammer. Standing by for fire mission."''
+
+'''Wolverine 2-1 Bravo Actual''': ''"Grid to suppress: Golf Foxtrot 279316. Grid to mark: Golf Foxtrot 278569, over."''
+
+'''Warhammer''': ''"Grid to suppress: Golf Foxtrot 279316. Grid to mark: Golf Foxtrot 278569, out."''
+
+'''Wolverine 2-1 Bravo Actual''': ''"Column of BTR-60s with attached infantry, request splash: Danger Close. Over."''
+
+'''Warhammer''': ''"Column of BTR-60s with attached infantry, request splash: danger close. Out."''
+
+'''Warhammer''': ''"Message to observer: Bravo, 2 rounds. 2 guns in effect. Target number: Alpha Whiskey 323, over."''
+
+'''Wolverine 2-1 Bravo Actual''': ''"Message to observer: Bravo, 2 rounds. 2 guns in effect. Target number: Alpha Whiskey 323, out."''
+
+'''Warhammer''': ''"Shot, over."''
+
+'''Wolverine 2-1 Bravo Actual''': ''"Shot out."''
+
+'''Wolverine 2-1 Bravo Actual''': ''"Splash, over."''
+
+'''Warhammer''': '''"'''''Splash out."''
+
+'''Wolverine 2-3''': ''"2, 2-3! Target practically suppressed but moving in quickly! Hit the BTR with the [[M72 LAW|LAW]]! Take it out! Take it out!"''
+
+'''Wolverine 2-1 Bravo Actual''': ''"Wolverine 1-2, this is Wolverine 2 Actual. Give me a SITREP, how far are you from 2-3's position, over?"''
+
+'''Wolverine 1-2''': ''"2 Actual, 1-2! We're dug in by the Capitol Building and we're taking heavy fire from the East! 2-3 is about 600 metres to the south of us, over!"''
+
+'''Wolverine 2-1 Bravo Actual''': ''"1-2, can you link up with 2-3 from where you are, over?"''
+
+'''Wolverine 1-2''': ''(shouting) "Negative, Negative! Gray! (name of a soldier) Get the [[M240|240]] guns over to the right flank, move, move! (back on radio) They're rolling us with a couple platoons of T-80s! Request Broken Arrow, I repeat, Broken Arrow!"''
+
+'''Wolverine 2-1 Bravo Actual''': ''"Roger that, solid copy on Broken Arrow. Major it's been an honor, out."''
+
+'''Viper Actual''': ''"Viper 3 Actual, this is Viper Actual. Give me a SITREP over."''
+
+'''Viper 3 Bravo Echo 4 Sierra''': ''(shouting) "Viper Actual, this is 3 Bravo Echo 4 Sierra! 3 Bravo Actual is KIA!... repeat! 3 Bravo Actual is KIA, break! We are down to three men! I repeat, we are down to THREE men! How copy over?!"''
+
+'''Viper Actual''': ''"Solid copy 3 Bravo, be advised: I have Warhammer standing by. Switch to TAC Freq.179 and go to town, over."''
+
+'''Viper 3 Bravo Echo 4 Sierra''': ''"Roger that, switching to 179, out."''
+
+'''Warpig 2-1 Alpha''': ''"Warpig 2! This is Warpig 2-1! I have visual on enemy armor closing 12 clicks due north of the Washington Monument! Supported by infantry, APCs and attack helos! How copy? Over!"''
+
+'''Hunter 2-3''': ''(shouting) "Contact left! Contact LEFT!"''
+
+'''Viper 3-1''': ''"Taking fire! 11 o'clock, 400 meters!"''
+
+'''Warpig 2-2 Alpha''': ''"2-1 Alpha, 2-2 Alpha! One of Warpig-2 Victors just took a hit! Repeat, one of Warpig 2's Victors has been hit!"''
+
+'''Wolverine 2''': ''"Warpig 2! This is Wolverine 2! What's your status over?"''
+
+'''Warpig 2-1 Alpha''': ''"Wolverine 2, this is Warpig 2-1! We are taking heavy fire along the Potomac, break. 2-2 Echo's Victor is gone. They took a direct hit from a h- (transmission is cut off)''
+
+'''Hunter 2-3''': ''"Ambush! Left side, left side!"''
+
+'''Viper 3-1''': ''"Contact left, contact left!"''
+
+'''Unknown''': ''"2-3! RPG at your 3 o'clock!"''
+
+'''Grizzly 1-2''': ''"Get the Mk 19 on the sector! Cover that sector!"''
+
+'''Warhorse 5-1''': ''"Overlord, this is Warhorse 5-1, checking in with ya: flight of two [[A-10 Thunderbolt II|A-10s]], holding area Lima. Angels 10. 4 BLU-97s. 2000 rounds for this section. Ready for tasking."''
+
+'''Overlord''': ''"Roger Warhorse 5-1, I have Stalker 2 on the ground requesting immediate CAS (Close Air Support) at map grid Charlie Alpha 315992, break. Push to IP Buick, how copy over?"''
+
+'''Warhorse 5-1''': ''"Solid Copy. Map grid Charlie Alpha 315992, pushing to IP Cadillac."''
+
+'''Overlord''': ''"Stalker-2, you have Warhorse 5-1: flight of 2 A-10s and Angels 10: pushing to IP Cadillac."''
+
+'''Stalker 2''': ''"Stalker copies all, out."''
+
+'''Stalker 2''': ''"Warhorse 5-1, this is Stalker. Standby for information."''
+
+'''Warhorse 5-1''': ''"Warhorse standing by."''
+
+'''Stalker 2''': ''"TOT 20, close in fire support, non-standard. Minus 1 to minus 12, then plus 4 to plus 2. Gun Target Line 050, I'm gonna talk you down to the target, how copy over?"''
+
+'''Warhorse 5-1''': ''"Solid copy on all, go ahead over."''
+
+'''Stalker 2''': ''"North-North-West of Union Station about 800 meters. There's an oval track, call contact?"''
+
+'''Warhorse 5-1''': ''"Contact."''
+
+'''Stalker 2''': ''"At the south edge of that over-track is a road running along the East-West Axis to the White House, call contact?"''
+
+'''Warhorse 5-1''': ''"Contact."''
+
+'''Stalker 2''': ''"We're observing from position 200 meters south of Logan Circle Park. Looking east down that road, call contact?"''
+
+'''Warhorse 5-1''': ''"Contact."''
+
+'''Stalker 2''': ''"Your target is a column of 6 enemy T-72s moving from East to West along that road. Convention Center is about halfway between our OP and the oval track: be advised, major civvies are packed into that Convention Center awaiting evac."''
+
+'''Warhorse 5-1''': ''"Warhorse has contact on all, we are are passing IP Cadillac rolling into heading 090."''
+
+'''Stalker 2''': ''"Roger that. Bring the rain!"''
+
+'''Warhorse 5-1''': ''"Warhorse off safe. Guns, guns guns."''
+
+''(The lead A-10 opens fire on the target)''
+
+'''Warhorse 5-1''': ''"Guns... Guns... Guns..."''
+
+'''Warhorse 5-2''': ''"Dash-2 (Second A-10) off safe ... rolling in."''
+
+'''Warhorse 5-1''': ''"[[wikipedia:R-23_(missile)|Apex]] inbound. Break right, break right! I'm hit! Ejecting!"''
+
+'''Warhorse 5-2''': ''"I can't see, I can't se- (Both A-10s are hit)"''
+
+'''Stalker 2''': ''"Overlord, this is Stalker-2. Warhorse 5-1: flight of two A-10s is down. I see only one chute deploying... BDA is 80 over 15... Convention Center is taking HEAT rounds from T-72s... it uhhh... doesn't look good from where we are, how copy over?"''
+
+'''Overlord''': ''"Stalker-2, this is Overlord, solid copy on all. We do not have any other close air support in the area at this time. Displace to a more secure location south of K Street and await further instructions. Out."''
+
+''The following transmissions are heard over the course of "Of Their Own Accord" as American forces in Washington D.C. are gradually overrun.''
+
+'''Delta 4-1''':''' '''''"This is Delta 4-1 at the Lincoln Memorial! We are taking heavy fire! Request arty and airstrike on our position! Send whatever you got! Broken Arrow! Broken Arrow!"''
+
+'''Gator 2-5''': ''"Gator 2-6, Gator 2-5! Be advised: We are pulling outta D.C.! BCT-4 took 90% losses! Our position is untenable! We are outta here! I repeat: We are getting the fuck outta dodge!"''
+
+'''Goliath Actual''': ''"All Goliath victors, pull back from the MSR! Delta 4-1 is calling in a Broken Arrow! Pull back from the MSR now! We are leaving!"''
+
+'''Ranger''': ''"Mystic 2-1! CENTCOM just gave the order to abandon all evac sites to the east of the Potomac! Get your ass out of there!"''
+
+'''Ranger''': ''"Darkstar 1-3! We do not have enough shells remaining in the battery to provide effective supporting fire for your position! We are pulling outta D.C. in five mikes, out!"''
+
+'''Gator 2-5''': ''"Rhino 2-1, get your team out of there pronto! We cannot hold this position any longer! We are leaving D.C.! I repeat, we are leaving D.C.!"''
+
+'''Ranger''': "Get those civvies back in their seats!"
+
+'''Ranger''': "I've got a major hydraulic leak! We're barely gonna make it over the MSR! We gotta touchdown! We gotta la-"
+
+'''Ranger''': "Get your men on that transport now! WE, ARE LEAVING!"
+
+==Audio of Radio Chatter==
+<gallery>
+5YearsOfMW2 "Ivasion" Radio chatter w subtitles (Part 1)|Invasion Radio Chatter (Part 1)
+5YearsOfMW2 "Ivasion" Radio chatter w subtitles (Part 2)|Invasion Radio Chatter (Part 2)
+5YearsOfMW2 "DC Evac" Radio chatter w subtitles|DC Evacuation Radio Chatter
+</gallery>
+
+==Trivia==
+*''[[Call of Duty: Modern Warfare 3]]'' and ''[[Call of Duty: Ghosts]]'' both feature several ambient radio transmissions which, upon close examination, can be heard to be based on the Russo-American War transmissions (albeit with different voice actors, different radio transmission effects, and certain modifications to the script to better suit the setting of these two games).<ref>https://www.youtube.com/watch?v=6t-wjO6gdm8</ref><ref>https://youtu.be/QL_kf4_Khec?t=136</ref>
+*The "[[Euphrates Bridge]]" map in ''[[Call of Duty: Modern Warfare (2019)]]'' features radio sets which play snippets of the ''Modern Warfare 2'' transmissions.<ref>https://www.reddit.com/r/modernwarfare/comments/dyemkf/radios_on_euphrates_bridge_play_radio_chatter/</ref>
+{{Reflist}}
+{{CoD6 CampaignT}}

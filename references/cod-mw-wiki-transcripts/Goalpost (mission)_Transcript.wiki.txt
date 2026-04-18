@@ -1,0 +1,404 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_3_Transcripts -->
+<!-- title: Goalpost (mission)/Transcript -->
+
+{{Game|mw3}}
+
+== Cutscene ==
+''TV News: “CHEMICAL ATTACK ACROSS EUROPE; Chemical weapons used in coordinated attacks across Europe. CHEMICAL ATTACK IN WESTMINSTER; A “dirty bomb” explodes in London.”''
+
+'''British Male News Reporter''': At 6:22 Greenwich Mean Time, [[October 6, 2016 Terrorist Attacks|chemical attacks were triggered across Europe]].
+
+''One of the chemical attacks is located in London; “Chemical attack, Central London, 4M contamination radius.”''
+
+'''[[Wallcroft]]''': I repeat: Downing Street is within the contamination radius, over!
+
+''Many of the European cities and their intelligence defenses go offline as a result of the chemical attacks.''
+
+'''British Female News Reporter''': It's been called the worst terror event in history.
+
+''The GIGN HQ is located in Paris. A GIGN commander sends a distress video feed.''
+
+'''GIGN Commander ([[Morel|Cmdr Morel]])''': (coughing) This is [[GIGN]] HQ. My men are dead or dying! (coughing) I've been exposed!
+
+''The satellite locates Ramstein A.F.B., US Airforce European Headquarters in Germany.''
+
+'''Ramstein AFB''': This is Ramstein! We're under attack!
+
+'''[[Overlord]]''': Roger – we are aware of the gas attack and are sending decon units your way.
+
+'''Ramstein AFB''': Not the gas! We're under attack by Russian ground forces!
+
+'''Overlord''': Say again, Ramstein. What Russian forces?
+
+''The satellite tracks the Russian army from Moscow moving in all across the attacked European cities.''
+
+'''Ramstein AFB''': The entire [[Russian Ground Forces|Russian army]]! Request immediate assistance!
+
+''A video feed shows a Russian tank moving into Paris and more video feeds of the Russian army invading Europe.''
+
+'''European News Reporter''': Eyewitnesses are now reporting Russian tanks rolling down the Champs-Élysées.
+
+'''Overlord''': This was no act of terrorism. The attacks were intended to cripple our defenses and pave the way for an invasion. We need to hit them now with everything we've got.
+
+''A video feed shows the Hamburg City Hall under attack.''
+
+'''Battle Captain''': Sir, we've lost contact with the delegation in Hamburg.
+
+''Five flights of [[C-130 Hercules|C-130]] troop carriers fly to Hamburg from the US East Coast.''
+
+'''Overlord''': Metal 0-1, this is Overlord actual. You are being re-routed for Hamburg. We've got a principal level hostage rescue.
+
+''Locating the World Peace Delegation in Hamburg, Delta Force is given “Hostage Rescue Order: U.S. Vice President, codename: Goalpost”''
+
+'''[[Sandman]]''': Who is it?
+
+'''Overlord''': [[Vice President of the United States|The Vice President]].
+
+== Gameplay ==
+'''[“Goalpost”]'''
+
+'''[October 6<sup>th</sup> – 13:01:38]'''
+
+'''[Sgt. Derek “Frost” Westbrook]'''
+
+'''[Delta Force]'''
+
+'''[Hamburg, Germany]'''
+
+''[[Delta Force]] and [[U.S. Army Rangers/Modern Warfare|U.S. Army Rangers]] are being sent to Hamburg on [[UH-60 Blackhawk|Black Hawks]], [[V-22 Osprey|V-22 Ospreys]], and U.S. Navy [[LCAC|LCACs]] and they are taking fire from flak and anti-air fire.''
+
+'''Helix 2-3''': This is Helix 2-3, we're one minute out.
+
+'''Delta Forcer''': Copy that, 2-3.
+
+''An alarm sounds. Helix 3-2 gets hit and goes down.''
+
+'''Helix 3-2''': This is 3-2, I'm hit, I'm hit!
+
+'''Delta Forcer''': Helix 3-2 is hit, he's going down!
+
+'''Helix 3-2''': Stay with it!
+
+''Helix 3-2 goes under Helix 2-3 and crashes into the sea.''
+
+'''???''' [static]: Send in a stormbird and get a relay exchange inside. Check for some relays.
+
+'''Raptor 2-4''': Raptor 2, rollin' in ETA 30 seconds.
+
+'''Raptor 4''': Roger. Raptor 4 inbound.
+
+'''Raptor 2-6''': Raptor 2-6, troops on the deck. Going into holding pattern.
+
+'''???''' [static]: Helix Three-Three, recommend that you change your approaching. Start your TOT. Minimize HEAT signature.
+
+'''Helix Three-Three''': Copy that, Three-Three movin'.
+
+'''Drifter Five-Five''': Jackals egressing north to tango. Goin' hot.
+
+'''Vizor One''': Vizor One is inbound.
+
+'''Drifter Five-Six''': Eagle Six, Fox Three. Impact.
+
+'''Helix Three-Three''': Roger, adjustin' heading ways for running.
+
+'''Vizor One''': Copy, we're cleared hot.
+
+'''Slider Three-One''': Slider Three-One approaching staging area.
+
+'''Slider Three-Two''': Three-Two on the deck. Dropping off Rhinos.
+
+'''Slider Three-One''': Slider Three-One approaching staging area.
+
+''A flight of V-22 Ospreys fly in. One of them gets hit on the right engine and crashes into the sea. As they near the beach, Sgt. [[Derek "Frost" Westbrook|Derek “Frost” Westbrook]] pulls out his [[M4A1]] [[M203|Grenadier]] w/ [[ACOG Scope|ACOG]]. The Black Hawks and V-22s land at the beach and drop their troops while the LCACs land on shore and drop off US Marine-crewed [[M1A2 Abrams|M1A1 Abrams]] tanks to support the troops. Once the Abrams are deployed, the LCACs reinflate their airbags and withdraw back upriver.''
+
+'''Sandman''': The convoy never made it to the extraction point. Let's find it and get these guys home.
+
+'''Helix 2-3''': Helix 2-3, chalk deployed, going into cover pattern.
+
+''Delta Force, Ranger soldiers and tanks move up the beach. An [[AH-64 Apache]] can be seen firing on the left. A Russian [[T-90]] appears ahead.''
+
+'''[[Rhino 1]]''': Rhino 1-1, we're rolling out.
+
+'''Sandman''': Rhino 1, you've got a T90 on your left side!
+
+'''[[Rhino 2]]''': Rhino 2 moving up.
+
+''Rhino 1 and 2 destroy the T-90, and the team move up the beach.''
+
+'''[[Rhino 3]]''': This is Rhino 3, we're moving.
+
+''A Russian [[Mi-28|Havoc]] appears out in front of them between the beach and the city.''
+
+'''Rhino 2 Gunner''': Hind! Hind!
+
+''They move up the beach towards the city.''
+
+'''Sandman''': Move with the tanks! Keep going!
+
+''The beach gets hammered by mortar fire. Rhinos 4, 5, and 6 are destroyed before they can join Rhinos 1, 2, and 3.''
+
+'''Ranger 1''': Mortars!
+
+'''Ranger 2''': Shit, man, we're getting pinned down with mortars!
+
+'''Sandman''': Keep moving! Use whatever cover you can find!
+
+'''Ranger 3''': Take cover behind the rocks!
+
+'''Sandman''': Don't stop! Get off this beach!
+
+'''Ranger 4''': Get off the beach, now!
+
+'''Sandman''': Don't slow down!
+
+'''Ranger 5''': Hey, just get to the wall! That's where the rally point is!
+
+''They move up to a brick wall by the edge of the city.''
+
+'''Rhino 1''': Deploying smoke.
+
+''Rhino 1 pops smoke.''
+
+'''Sandman''': Move! Move!
+
+''The tanks move up with the soldiers.''
+
+'''Rhino 1''': We're going to need you boys to sweep the forward area. Make sure we're good to move up.
+
+'''Sandman''': Copy, we'll clear you a path!
+
+''Enemy Russian forces appear out of the smoke, but the Americans eliminate them. They move up to the road at the end of the beach.''
+
+'''Sandman''': You're good, Rhino 1! We'll take the right flank!
+
+''They begin to move to the right to get around and allow the tanks to move up. Rhino 1 moves up.''
+
+'''Sandman''': Going right! Stick to the right flank!
+
+''As they move up to the wall at the edge of the city, rockets bombard the area.''
+
+'''Rhino 2 Gunner''': Incoming!
+
+''Rhino 3 is taken out. An Apache attempts to give air support, but is shot down. Another one that hung back over the beach is shot down as well.''
+
+'''Sandman''': Move! Move!
+
+''Rhino 1 or Rhino 2 is aiming to one of T-90's on the road (this is out of subtitle chat)''
+
+'''Rhino 1 or Rhino 2''': (Loading Ammo) Arming! Armed! (Searching the target) Acquiring Target!
+
+''Two T90s appear in front of them.''
+
+'''Rhino 2''': Got two more T90s! Left side!
+
+'''Rhino 1''': Alright stand clear. We're gonna get some rounds in that direction.
+
+'''Rhino 2''': Copy that, Rhino 1. We're right behind you.
+
+'''Sandman''': Move! Move!
+
+''They move into the city and engage the invading Russian army forces. Delta/Rangers take out incoming infantry, while Rhino shoots at the enemy T-90s. Another Apache can be seen behind the team shooting with its nose cannon. They push forward for about 150 meters before turning left at the corner of the street. After pushing forward about another 50 meters, the tanks stop at a small barricade.''
+
+'''Sandman''': What's the hold up?
+
+'''[[Carter (Rhino 2)|Carter]]''': The only way through is in to that parking garage and out the other side! We're going to have to take it slow – not sure if it can handle the wei-
+
+''Carter is shot and killed by a sniper round.''
+
+'''Sandman''': Sniper!
+
+'''Rhino 2 Gunner''': Carter's hit! He's hit!
+
+'''Rhino 2''': Where are the targets?
+
+'''Sandman''': Top floor of the building in front of you! Hit it now!
+
+''Rhino 2 fires a round at the front building, killing the sniper.''
+
+'''Sandman''': Frost, get up on that [[Minigun|mini-gun]]!
+
+''(If the player stalls:''
+
+'''Sandman''': Up you go, Frost! Get up on that mini-gun!'')''
+
+''Frost climbs up the tank's side railing and mans the mini-gun. As the tank moves over the barricade, Frost sprays at incoming Russian infantry. Two [[Mi-28|Havocs]] appear behind the building.''
+
+'''Rhino 2 Gunner''': Hind! Hind!
+
+'''Rhino 1''': Back it up! Now!
+
+''The tanks go in reverse. Frost engages the Havocs with the minigun.''
+
+'''Rhino 2 Gunner''': Trophy system online!
+
+''The Havocs fire rockets at the tanks.''
+
+'''Rhino 2''': Get down!
+
+''Frost barely ducks into the tank when a rocket explodes in front of him. Shell shocked, Frost recovers from the blast. A loader can be seen loading a shell, another driving the tank.''
+
+'''Rhino 1''': Everyone OK?! Talk to me, 2-2!
+
+'''Rhino 2''': We're good!
+
+'''Rhino 1''': Alright, let's roll!
+
+''Frost climbs back out and mans the mini-gun. Large groups of Russian infantry and a T-90 appear ahead.''
+
+'''Rhino 1''': Got more inbound! Twelve o'clock!
+
+'''Sandman''': Another T90 is pulling up in front!
+
+''The tanks move up and Frost covers them with the mini-gun. The Russians retreat. A pair of Apaches, Helix Eight One and Helix Eight Two, can be seen.''
+
+'''Rhino 2''': They're falling back to the garage.
+
+'''Rhino 1''': Yeah, they're scared shitless.
+
+''One Apache fires missiles into the garage. A few Russians try to escape, but Frost mows them down with the minigun. The tanks reach the intersection and enter the parking garage.''
+
+'''Rhino 1''': Let's move in. They ran further down in to the garage.
+
+'''Rhino 2''': Alright, let's get this show on the road!
+
+'''Rhino 1''': Just move fast. Don't let 'em swarm you.
+
+''As they move into the interior of the garage, they engage the Russians taking cover behind cars. Frost sprays his mini-gun at them.''
+
+'''Rhino 2''': Hold on!
+
+''Rhino 2 drives right through a security office, startling a group of infantry and circles around the floor of the garage to rejoin Rhino 1.''
+
+'''Rhino 2''': Right there! Right there!
+
+''They come up to a tunnel, not big enough to allow both tanks through.''
+
+'''Rhino 1''': Saw another group headed through here.
+
+'''Rhino 2''': After you, 2-1.
+
+''Rhino 1 moves in first and Rhino 2 follows. As they come to the ramps, a truck appears on the right. Frost engages. The tanks both move up the ramp, but it begins to crack from their weight.''
+
+'''Rhino 1''': Woah! Woah! Wait!
+
+'''Rhino 2''': Back it up! Back up!
+
+''The floor breaks underneath Rhino 2.''
+
+'''Rhino 2''': Oh shit!
+
+''Rhino 2 falls through three floors of the garage. When Rhino 2 lands, cars from above floors fall down around the tank. Frost looks up and sees a car tip over. He quickly drops inside the tank just as the car hits the top of it and gets stunned.''
+
+'''Sandman''': Frost!
+
+''Frost looks around inside the tank. The Marine crew are shell-shocked, but alright.''
+
+'''Rhino 1''': 2-2, you alright?! 2-2, come in!
+
+'''Rhino 2 Gunner''': You ok? You alright, man?
+
+''Frost and 2-2 crew climb out of the wrecked tank.''
+
+'''Rhino 2 Gunner''': C'mon, man. Let's get out of there. Systems are dead... that shit was crazy, man...
+
+''Sandman drops down to check on them.''
+
+'''Sandman''': You guys ok?!
+
+'''Rhino 2 Gunner''': Yeah. We're good.
+
+'''Sandman''': Can you shoot?
+
+'''Rhino 2 Gunner''': Yeah, I can hold my own.
+
+'''Sandman''': Alright, basics fellas. Find cover, return fire. Let us know if you need any help. Now we move fast, so keep your heads up. Let's go.
+
+''As they move out, they are engaged by more Russians.''
+
+'''Rhino 2 Gunner''': Contact!
+
+''The hostiles are eliminated, and the team moves on.''
+
+'''Overlord''': Metal 0-1, ISR has spotted the convoy half a click from your position. Get there fast and secure a perimeter around that site.
+
+'''Sandman''': Copy. We're on our way.
+
+''They move up the ramp and out of the garage. A V-22 Osprey is seen getting chased by a Russian Havoc. They come under fire from a T90 surrounded by infantry.''
+
+'''Rhino 2 Gunner''': Tank!
+
+'''Sandman''': Take cover!
+
+''They engage the Russians on the streets.''
+
+'''Rhino 2 Gunner''': Rhino 1, where the hell are you?!
+
+''Rhino 1 crashes out from a brick building on the right. Rhino 1 and the T-90 turn to each other, but Rhino 1 gets the shot first and destroys the T-90.''
+
+'''Rhino 1''': Threat neutralized. We're moving up.
+
+''They push on through the street as they engage the Russians. Javelin Rockets fire from the rooftops on the other side of the street, and Rhino 1 is destroyed.''
+
+'''Rhino 2 Gunner''': Incoming!
+
+'''Sandman:''' Get inside! Go! Go!
+
+''They get into an office building and engage more Russians inside. They reach the end of the building.''
+
+'''Drifter 5-5''': This is Drifter 5-5, engaging targets on the capital building.
+
+''An [[F-15 Eagle|F-15]] strafes the Russians on the roof across the street, wiping them out and stopping the artillery strikes.''
+
+'''Sandman''': Rooftop's clear! Let's move! The convoy should be at the end of the street!
+
+''They come out of the building and engage Russians in the streets. They reach the corner.''
+
+'''Overlord''': Metal Zero One, have you reached the convoy?
+
+'''Sandman''': Affirmative, Overlord, but we can't get to it yet! Watch the left side!
+
+''They turn the corner and engage Russians taking cover behind several vehicles. They are eliminated.''
+
+'''Rhino 2 Gunner''': We're clear!
+
+'''Sandman''': Check the vehicles.
+
+''They arrive at the Vice Presidential motorcade. Four heavily-damaged SUVs, horns blaring, are scattered across the road. The bodies of several Secret Service agents are still in the vehicles, but codename "Goalpost" is not among them. One of Rhino 2's gunners lifts the driver off the steering wheel of one to stop the horn.''
+
+'''Rhino 2 Gunner''': Nothin' here!
+
+'''Sandman''': They're not here... Overlord, negative precious cargo. I say again - they're not at the convoy.
+
+'''Overlord''': Copy. Check the area for any sign of the delegates, but be advised - Raptor 4 will be on station for exfil in ten minutes, over.
+
+'''Sandman''': Copy your last.
+
+''They see a bloody trail from the vehicles leading into the building.''
+
+'''Rhino 2 Gunner''': Hey! There's a lot of blood over here. It's going up those stairs.
+
+'''Sandman''': Easy.
+
+''Shadows appear up the stairs.''
+
+'''Rhino 2 Gunner''': Contact!
+
+''They enter the building on the left and go up the stairs. They hear Russian voices. When they get up the third floor, a Russian is seen quickly closing the door and two gunshots are heard. Frost quickly plants a breaching charge at the door. The charge explodes and Frost kills the Russians just before they could execute a seated hostage. The team enters and secures the room. Sandman immediately checks on the seated hostage.''
+
+''If the player stalls and lets the enemy execute the hostage, the screen will fade and say "Mission failed. A hostage was executed." and the player will have to restart from the latest checkpoint.''
+
+'''Sandman''': Look at me, look at me. It's him.
+
+''Sandman helps up the U.S. Vice President.''
+
+'''Sandman''': Overlord, P.I.D. on the Vice President. We're ready for extraction.
+
+'''Overlord''': Solid Copy, 0-1. Great work. Raptor 4 is arriving on scene now.
+
+''They move up to the balcony where a V-22 Osprey is hovering in to extract the team. Black Hawks are deploying more troops, and Apaches are overlooking the area.''
+
+'''Sandman''': [[Truck]], [[Grinch (Modern Warfare 3)|Grinch]] – we got our guy. We're on our way to LZ Neptune. Meet us there.
+
+'''Grinch''': Nice. I guess the first round's on us.
+
+{{CoD8 CampaignT}}

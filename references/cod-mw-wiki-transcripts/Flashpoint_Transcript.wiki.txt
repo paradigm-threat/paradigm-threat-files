@@ -1,0 +1,884 @@
+<!-- category: Category:Call_of_Duty:_Modern_Warfare_III_Transcripts -->
+<!-- title: Flashpoint/Transcript -->
+
+{{game|1=mwiii}}
+== Cutscene ==
+''Cell phone footage of the [[Passenger|Russian Flight 761 hijacking]] is displayed on the computer, along with a video of [[Samara "Pathfinder" Jalal|Samara Jalal]] strapped with a bomb vest and a [[G18|gun]] in her hand.''
+
+'''[[Kate Laswell|Laswell]]''': A former [[Urzikstan Liberation Force|ULF]] soldier wearing a suicide vest on a Russian airliner.
+
+''Images of Samara as a ULF soldier with Farah show up next.''
+
+'''[[Farah Karim|Farah]]''': She was forced. I'm sure of it. Samara. She was a good fighter. Joined [[Urzikstan Liberation Force|my forces]] during the [[Invasion of Urzikstan|occupation]]. Left to raise her family.
+
+''A satellite image of the [[Crash Site (Modern Warfare III)|crash site]] is displayed.''
+
+'''Laswell''': What happened at the crash-site?
+
+''An image of the crash site on the ground appears.''
+
+'''Farah''': [[Konni Group|They]] were planting evidence to frame us... And collecting the rest. We killed as many as we could and took the phones.
+
+'''Laswell''': And the black box...?
+
+''The computer displays the black box's vitals being wiped out.''
+
+'''Farah''': Wiped it clean.
+
+''A mugshot of [[Vladimir Makarov (Reboot)|Vladimir Makarov]] appears.''
+
+'''Laswell''': Smart. You stopped Makarov from controlling the narrative.
+
+''An image of Konni Group pops up next.''
+
+'''Laswell''': If Konni operatives were on that plane - they got off somehow. Makarov wouldn't leave that loose end...
+
+''An image of the Urzikstan Liberation Force is shown.''
+
+'''Farah''': Some people will believe the ULF was responsible.
+
+'''Laswell''': Thanks to you - No one can prove it.
+
+''A news article with the headline "Russian Airline Hijacking: Another Suspected ULF Attack" appears.''
+
+'''Laswell''': People will speculate, but you beat Makarov at his own game.
+
+''[[Alex Keller]]'s headshot displays next and the computer zooms out to display a map of [[Urzikstan]].''
+
+'''Farah''': It's not enough... I sent Alex after Konni. If they're in Urzikstan, he'll find them.
+
+''Images of Captain [[John Price (Reboot)|Price]], [[Kyle "Gaz" Garrick|Gaz]], [[Johnny "Soap" MacTavish|Soap]], and [[Simon "Ghost" Riley (Reboot)|Ghost]] are revealed next.''
+
+'''Laswell''': Copy. When I regroup with [[Task Force 141 (Reboot)|141]], whatever we know, you'll know... And, Farah...
+
+'''Farah''': Yes, Laswell.
+
+'''Laswell''': I'm sorry about Samara.
+
+'''Farah''': Me too...
+
+''The scene shifts to a hangar in the countryside where a helicopter lands outside. Price, Gaz, Soap, and Ghost hop out of the chopper and meet up with Kate Laswell and [[Nikolai (Reboot)|Nikolai]] inside the hangar.'' 
+
+'''Price''': How ya holding up?
+
+'''Laswell''': Still here.
+
+'''Nikolai''': My brothers...
+
+'''Gaz''': Nik!
+
+''Gaz and Nikolai greet each other and chuckle. Price and Nik shake hands next.''
+
+'''Price''': How ya doin', comrade?
+
+'''Nikolai''': Better now, Captain... Fucking [[Ultranationalists (Reboot)|Ultranationalists]]...
+
+''A short time later, Laswell displays security footage from [[Verdansk International Airport]] before the hijacking of Russian Flight 761. The footage reveals a man walking through the security checkpoint.''
+
+'''Laswell''': Security feed from the airport. Passenger had a boarding pass for Flight 761.
+
+'''Soap''': Fake passport...
+
+'''Gaz''': Or inside job...
+
+'''Ghost''': More likely.
+
+'''Nikolai''': No one stopped him...
+
+'''Gaz''': Walk in the bloody park.
+
+''The footage reveals the man to be Makarov as it zooms in on his face. Soap stands up, seething.''
+
+'''Soap''': That's Makarov.
+
+'''Gaz''': Farah and Alex - what'd they get?
+
+'''Laswell''': Not enough to prove anything.
+
+'''Soap''': Sick bastard's topping [[United States of America|American]] missiles with chemical weapons and killing his own people. He's killing civilians.
+
+'''Gaz''': Pinning the blame on Farah...
+
+'''Laswell''': And the United States.
+
+'''Nikolai''': He's playing with fire.
+
+'''Price''': False flag operations. He wants a war.
+
+'''Ghost''': East vs West. The title fight.
+
+'''Gaz''': Is the world fallin' for this, Kate?
+
+'''Laswell''': We're on the brink, boys.
+
+''Soap angrily points at the airport footage of Makarov.''
+
+'''Soap''': Had him right in our fuckin' hands...
+
+'''Price''': I shoulda killed him when we had the chance.
+
+'''Laswell''': What stopped you...?
+
+''Cuts to black.''
+
+== Gameplay ==
+'''FOUR YEARS AGO'''
+
+''Cut to the city of [[Verdansk]], [[Kastovia]].''
+
+'''VERDANSK'''
+
+''A lone jeep speeds through the city streets toward the Acropolis National Arena.''
+
+'''[[Herschel Shepherd|Shepherd]]''': Gold Eagle to Bravo-6. Security confirms gunfire and at least one explosion in the stadium with multiple injuries, over...
+
+''The camera tracks with the jeep until it moves up to reveal Captain Price driving, Soap in the front seat, and one Corporal [[Burns (Modern Warfare III)|Burns]] in the backseat.''
+
+'''Price''': Copy, we're inbound now.
+
+'''Shepherd''': Be advised, Makarov and his men may still be inside. If he's there, you bring him out - alive.
+
+'''Soap''': Roger that. Where's medical?
+
+'''Shepherd''': First responders will not enter until the scene is clear. The third-floor VIP Lounge may be Makarov's next target.
+
+'''Soap''': Christ Almighty.
+
+'''Shepherd''': You said it, son. Ghost and I are ten mikes out. Let's bag this bastard. Out here.
+
+'''JOHN "SOAP" MACTAVISH - BRAVO'''
+
+'''FLASHPOINT'''
+
+'''VERDANSK STADIUM, KASTOVIA'''
+
+'''6 APRIL 2019, 1500'''
+
+''The jeep approaches the stadium ahead where multiple cars and [[Civilian|civilians]] are seen fleeing the area, nearly causing some traffic accidents as well.''
+
+'''Soap''': Makarov threatened the airport and he hit the stadium instead.
+
+'''Burns''': He's a fuckin' madman.
+
+''Price slows down the jeep to avoid a vehicle collision.''
+
+'''Price''': Fuckin' hell!
+
+'''Burns''': Civilians are everywhere.
+
+''Bravo descends down the ramp into the stadium as the jeep passes by a crashed car and civilians stumbling to the ground while trying to flee.''
+
+'''Price''': Alright, check your shots. We'll have a lot of unknowns inside.
+
+'''Soap''': And Makarov?
+
+'''Price''': You heard the order. ROE still stands. We take him alive.
+
+''Two civilian vehicles crash into each other and a female pedestrian runs out in front of the jeep.''
+
+'''Soap''': STOP! STOP!
+
+''Price slams hard on the brakes and narrowly misses the woman who stands there in shock.''
+
+'''Price''': Get out of here! Go!
+
+''The woman quickly runs aside, allowing Price and his team to continue into the stadium.''
+
+'''Soap''': Christ, Almighty.
+
+''The jeep enters the parking level and another vehicle comes barreling out fast towards the jeep.''
+
+'''Soap''': Watch out!/Price, look out!/Incoming!/Watch it, Watch it!
+
+''Price deftly turns the wheel and misses the vehicle, while another vehicle ahead hits the brakes to avoid the jeep.''
+
+'''Soap''': Close one.
+
+'''Price''': We're still in one piece.
+
+''An ambulance comes speeding down the parking tunnel.''
+
+'''Burns''': Watch it!
+
+''Price swerves up the side ramp, misses the ambulance, and drives back down the ramp. Bravo Team spots a vehicle hitting an unfortunate pedestrian.''
+
+'''Soap''': Fucking hell!
+
+'''Burns''': This is chaos!
+
+'''Price''': Yeah, it's what Makarov wants.
+
+''Bravo Team drives further down the tunnel and spots two policemen with their vehicles parked.''
+
+'''Soap''': [[Law Enforcement|Police]] up ahead. 
+
+'''Burns''': They got here fast...
+
+''The policemen start firing on and slaughtering civilians.''
+
+'''Soap''': They're killing civilians!
+
+''The policemen spot Bravo Team in their jeep and fire on them.''
+
+'''Soap''': Contact! 
+
+'''Price''': Return fire!
+
+''Bravo Team exits their jeep and engages the fake policemen. Soap readies his [[FSS Hurricane]] and assists his teammates. Eventually, the imposters are killed.''
+
+'''Price''': Clear!
+
+'''Soap''': [[Inner Circle (Reboot)|Inner Circle]]'s posing as police.
+
+'''Burns''': They'd have access to the VIP area.
+
+'''Price''': It's on the third floor. Let's move.
+
+''Price, Soap, and Burns move up the stairs to exit the parking level and encounter more Inner Circle terrorists dressed as policemen up top.''
+
+'''Price''': Contact! Top o' the stairs! Targets! Up top!
+
+''Soap kills the terrorists.''
+
+'''Soap''': Stairs, clear! Concourse is up ahead.
+
+'''Burns''': Stairwell's on the other end. It'll get us to the third floor.
+
+''Bravo Team exits the stairwell and enters the stadium's first floor. They spot civilians being gunned down by more Inner Circle terrorists.''
+
+'''Soap''': Contact front!
+
+'''Burns''': Down! Stay down!
+
+'''Price''': Move! Move!
+
+''(Every time civilians scream because of the terrorists...)''
+
+'''Civilian''': ''(in Russian)'' The police are shooting at us!; It's the police!; They're shooting people!; Run! The police are here!; The police are shooting at us!; Get away from the police!; They're behind us! Run!; Get out! The police are here!; The police are coming! Run!
+
+''Bravo Team engages the terrorists and shoots them dead.''
+
+'''Price''': Gold Eagle, Bravo-6, we're internal and pushing to the VIP area. Be advised, Inner Circle is posing as police, over.
+
+'''Shepherd''': Copy. All police on-target are considered hostile.
+
+'''Price''': Roger that!
+
+''Bravo Team sees more civilians trying to flee while under fire from Inner Circle terrorists.''
+
+''(Every time Price and Burns call out to the civilians...)''
+
+'''Burns''': Run! Go!; Get to safety! Run!; C'mon! Let's go! Let's go!
+
+'''Price''': Stay down!; Get down!; Get out of here!
+
+''Bravo Team continues to help the civilians where they can.''
+
+'''Price''': Keep moving through the concourse.
+
+''Bravo Team engages the terrorists.''
+
+''(Every time Price and Burns say they're advancing...)''
+
+'''Price''': Forcing up!''';''' I'm moving!; Moving!; Moving up!
+
+'''Burns''': I'm forcing up!; Pushing forward!; Moving!
+
+''The civilians run and hide amid the gunfire.''
+
+'''Price''': Clear 'em out fast!
+
+''Inner Circle terrorists throw [[M67 Grenade|grenades]] at people and kill them.''
+
+'''Soap''': Fuckers are using grenades!
+
+'''Price''': Move up, Sergeant. We're pushing to the stairwell.
+
+''(Every time Soap accidentally shoots near or hits civilian...)''
+
+'''Burns''': Watch for civilians!
+
+'''Soap''': Dammit!
+
+''After killing more terrorists, Bravo Team continues through the concourse until they see a plume of smoke in front of them and a terrorist shooting at civilians from a balcony above.''
+
+'''Price''': Smoke ahead, careful.
+
+''Bravo Team engages the terrorists until the area is clear.''
+
+'''Price''': Clear, secure the stairwell. We need to reach the upper floor.
+
+''Soap moves through the side shops.''
+
+'''Soap''': Cutting through the shop!
+
+''Soap spots the stairwell ahead.''
+
+'''Soap''': Visual on the stairwell.
+
+'''Price''': Stairwell. Right side.
+
+''The doors to the stairwell burst open as civilians flee only to be gunned down by more false policemen. Bravo Team eliminates the terrorists.''
+
+'''Soap''': X-rays down!
+
+'''Price''': Third floor's our target. Take point, Soap.
+
+''Bravo Team enters the stairwell.''
+
+'''Soap''': Moving on the stairwell.
+
+''Soap encounters two more policemen firing on civilians and dispatches them accordingly.''
+
+'''Soap''': Two down, on the stairs.
+
+'''Price''': Copy. Next floor, Sergeant.
+
+''Upstairs, two fake policemen use a woman for a human shield and shoot a man.''
+
+'''Civilian''': (in Russian) Please! No! Why are you doing this? Why?!
+
+'''Konni Soldier''': (in Russian) Shut the fuck up!
+
+'''Civilian''': (in Russian) I have children! Please, I don't want to die!
+
+'''Konni Soldier''': (in Russian) They'll be soldiers of the true Russia!
+
+'''Civilian''': (in Russian) Let me just go home! Please, I want to go home!
+
+'''Konni Soldier''': (in Russian) Go hot!; Engage!
+
+''Soap kills the terrorists.'' 
+
+'''Soap''': X-rays down.
+
+''Next, Soap reaches the door to the third floor but finds it locked.''
+
+'''Soap''': Exit's locked.
+
+'''Price''': On it.
+
+''Price takes out his [[Halligan Bar]] and uses it to pry open the doors.''
+
+'''Burns''': Executive level. VIP area is close.
+
+'''Price''': Let's get in there.
+
+''Price leads the way into the third floor, followed by Soap and Burns.''
+
+'''Soap''': Clear.
+
+'''Price''': Eyes on the VIP area. Got movement inside. Stay sharp. On you, Sergeant.
+
+''Soap takes point and opens the door to the VIP lounge. Inside are five paramedics with two dead bodies.''
+
+'''Price''': Special Forces!
+
+'''Soap''': Hands! Show me your hands!
+
+''The paramedics raise their hands in compliance.''
+
+'''Paramedic''': First responders! Don't shoot!
+
+'''Price''': How did you get in here?
+
+'''Paramedic''': Security. Security let us in.
+
+'''Price''': Who are you with?
+
+'''Paramedic''': Please, we are trying to save lives.
+
+''One of the paramedics kneels next to a body lying on a gurney and calls out to Soap.''
+
+'''Paramedic''': Shit! I need help over here! Soldier - help, please!
+
+'''Price''': Stand fast, Sergeant.
+
+'''Paramedic''': These people need to get to a hospital now.
+
+'''Price''': Who are you with?!
+
+''The lead paramedic steps forward at Price.''
+
+'''Paramedic''': Just let us do our jobs.
+
+''Price raises his [[M4A1|M4]] at the paramedic.''
+
+'''Price''': Stand back! ''(to Soap)'' They're Inner Circle.
+
+'''Paramedic''': Please, these people are dying!
+
+'''Price''': Where is Makarov?
+
+''If Soap makes no move, the paramedic makes a break for a weapon only for Price to gun him down. The rest of the paramedics draw weapons and a firefight breaks out between them and Bravo Team.''
+
+''(If Soap shoots the paramedics first, a firefight breaks out between Bravo Team and the paramedics.)''
+
+'''Price''': Secure!
+
+'''Soap''': Fuckers were Inner Circle.
+
+'''Price''': Good call, then.
+
+''If Soap goes over to check the victim's vitals, he will notice the paramedic drawing a concealed pistol on Soap.'' 
+
+'''Price''': Gun!
+
+''Burns shoots the paramedic, but not before the latter shoots Soap in the chest, throwing him down to the floor. The other paramedics draw their weapons and fire on Bravo Team.''
+
+'''Paramedic''': '''(his name turns red)''' Kill them!
+
+''Soap recovers quickly and helps Bravo Team kill their attackers.''
+
+'''Burns''': Secure!
+
+'''Price''': Sergeant, you broken?
+
+'''Soap''': Just the plate.
+
+''Burns examines the fake paramedics' first aid satchel. The satchel is filled with explosives.''
+
+'''Burns''': Check it. They had explosives. This was their next target.
+
+''Price gets on the radio to Shepherd.''
+
+'''Price''': Gold Eagle Actual, explosives located in the VIP area. No sign of Makarov.
+
+'''Shepherd''': Copy, make it safe. Local set up a cordon, so Makarov will have to exfil fast. We're five mikes out. Don't let him escape, son.
+
+'''Price''': Roger that.
+
+'''Burns''': The garage.
+
+'''Price''': A-firm. Secure the explosives, then get to secondary exfil.
+
+'''Burns''': Copy.
+
+''Burns stays behind while Price and Soap exit the lounge and make their way to the elevator.''
+
+'''Price''': Here. We'll use the lift.
+
+''Price pushes the elevator button, but it doesn't respond. Price and Soap use their hands to open the doors.''
+
+'''Price''': Pull-!
+
+''Price and Soap force the doors open and slide down the elevator cables to the garage. The parking level lights up with red alarms.''
+
+'''Price''': Eyes peeled for Makarov.
+
+''Price and Soap move past the parked buses and spot a pedestrian running away.''
+
+'''Price''': Check fire. That's a civilian. ''(to civilian)'' Get to safety! Go!
+
+''A first responder vehicle appears.''
+
+'''Price''': Vehicle incoming. 
+
+''(If Soap tries to move up while the vehicle is ahead...)''
+
+'''Price''': Maintain distance, Soap.
+
+''The ambulance slows down to a stop.''
+
+'''Price''': Get to cover. It could be Makarov.
+
+''The ambulance doesn't move.''
+
+'''Price''': Step out of the vehicle! Out of the vehicle NOW!
+
+''The ambulance suddenly speeds up towards Price and Soap.''
+
+'''Price''': Incoming!
+
+''Price and Soap fire on the ambulance and kill its driver, causing the vehicle to flip and turn on its side until it crashes.''
+
+'''Soap''': It's down! 
+
+'''Price''': Move to secure!
+
+''Price and Soap move up to the ambulance.'' 
+
+'''Price''': Holding at the ambulance. Open it.
+
+''Soap opens the door to reveal a man dressed in a paramedic uniform covering his face with his hands.''
+
+'''Price''': HANDS! HANDS!
+
+'''Soap''': ''Покажи руки'' (Show your hands!)
+
+''The man reveals himself as Vladimir Makarov as he shows his hands.''
+
+'''Soap''': Bleeding Jesus... It's him.
+
+'''Price''': Vladimir Makarov! Get out of the vehicle! Now!
+
+''Makarov starts crawling out of the ambulance.''
+
+'''Soap''': Nice and easy...
+
+''Makarov exits the ambulance completely, before Soap motions for him to halt.''
+
+'''Soap''': That's far enough.
+
+'''Price''': Now, don't fuckin' move! ''(to Soap)'' Search him.
+
+''Soap walks up to Makarov.''
+
+'''Makarov''': You scared, Captain?... You should be.
+
+'''Price''': Shut up.
+
+''Soap disarms Makarov of his pistol.''
+
+'''Soap''': Get on your fucking knees!
+
+''Soap forces Makarov to his knees and searches his body for any more weapons or explosives.''
+
+'''Soap''': He's clean.
+
+''Soap restrains Makarov's hands with zip ties. Price keeps his weapon aimed at Makarov.''
+
+'''Makarov''': You going to kill me?
+
+'''Price''': Oh, I thought about it, yeah.
+
+'''Makarov''': I recommend you do...
+
+'''Price''': And I recommend you tell your men to stand down...
+
+'''Makarov''': They're not trained to stand down... That's more... Your strategy.
+
+'''Price''': ''(to Soap)'' Keep him close. ''(on radio)'' All stations. We have Makarov. We're moving to the extract.
+
+'''Shepherd''': Roger that, John. They'll fight to get him back...
+
+'''Soap''': We're countin' on it...
+
+'''Price''': Alright, take him left - We clear these vehicles, we move up.
+
+'''Soap''': Rog.
+
+''Soap hauls Makarov to his feet.''
+
+'''Soap''': Get goin'...
+
+''Soap takes Makarov down the left side of the ambulance while Price sweeps the right side and checks the front end of the ambulance.''
+
+'''Price''': Clear. On me.
+
+''Soap shoves Makarov forward.'' 
+
+'''Soap''': Move!
+
+''Soap follows Price through the garage, keeping Makarov in sight at all times.''
+
+'''Price''': Keep Makarov moving.
+
+''(Every time Soap doesn't move...)''
+
+'''Price''': We need to hit extraction fast. Let's move.
+
+''(If the player turns their back on Makarov, Price will give a warning not to.)''
+
+'''Price''': Don't take your eyes off Makarov; Keep your eyes on him, Seargent; Keep Makarov in front of you. Don't let your guard down.
+
+''(If the player ignores the warning, Makarov will suddenly break out of his zip ties, grab Soap, and throw him to the ground.)''
+
+'''Makarov''': I'm here-
+
+''(Makarov stomps on Soap's face, causing him to scream in pain. Although he is nearby, Price makes no attempt to intervene (which is likely an oversight by the developers))''
+
+'''Makarov''': to send- a message.
+
+''(Makarov stomps on Soap's face a second time, instantly killing him and resulting in a game over.)''
+
+''(Every time Soap pushes Makarov forward...)''
+
+'''Soap''': Move!; Go!; Move.; Walk!; Move your ass!; Move.
+
+'''Makarov''': You're walking into a trap. You think you'll just walk me out of here?
+
+'''Soap''': We can drag you out as well.
+
+'''Makarov''': Capturing me... it means nothing.
+
+'''Soap''': It means we beat you, Vlad.
+
+'''Makarov''': Hahaha... Don't be a fool. You can't beat me unless you beat my plan, and I regret to inform you - that simply won't happen. You will die by the dozens to kill only one. Such a flawed philosophy.
+
+'''Soap''': Says the madman who slaughters his own people.
+
+'''Makarov''': Those who came here today bought a ticket to hell. East and West, side by side? A disgusting lie. I am here to show the truth.
+
+''Price and Soap are attacked up front by more of Makarov's men.'' 
+
+'''Price''': Contact! 
+
+''Price moves to secure Makarov.''
+
+'''Price''': I've got Makarov! Return fire!
+
+''Soap engages the terrorists. Makarov screams out to his men.''
+
+'''Makarov''': ''(in Russian)'' I'm here!; We're behind the car!; There are two of them!
+
+'''Soap''': No-!
+
+'''Price''': Soap!
+
+''Makarov's men start using [[Molotov Cocktail|Molotov cocktails]] on Price and Soap.''
+
+'''Price''': Molotov! They're using Molotovs!; Molotov! Incoming!
+
+'''Konni Soldier''': Start smokin' em!
+
+''Eventually, Soap kills all the attackers.''
+
+'''Price''': We clear?
+
+'''Soap''': A-firm.
+
+'''Price''': Grab Makarov and let's move.
+
+'''Soap''': I'll take him.
+
+''Soap takes Makarov from Price as they continue on through the parking level.''
+
+'''Price''': It's not safe here. We need to move.
+
+'''Makarov''': You're not safe anywhere.
+
+'''Soap''': Your luck's running dry, Makarov.
+
+'''Makarov''': I don't believe in luck. I believe in planning. Bad luck is just poor planning. 
+
+'''Soap''': What part of your plan includes rotting in a prison?
+
+'''Makarov''': A man can be locked up. An idea cannot. We are men of action. Our purpose lives from within us. Its thirst cannot be quenched, until the last man standing has fallen. You will have to hunt us all.
+
+'''Soap''': We're good at that.
+
+'''Makarov''': Certain men have an enthusiastic determination to cut their own throats. I simply step aside and allow them room to work.
+
+'''Price''': Found a way through, Sergeant. Let's move.
+
+'''Makarov''': I bestow my blessings on your courage, but curse your stupidity.
+
+'''Soap''': Worry about yourself.
+
+'''Makarov''': Every man is replaceable. Even me.
+
+''(If Soap waits:)''
+
+'''Price''': We need to hit extraction fast! Let's move.
+
+'''Makarov''': He's going to get you killed.
+
+''Price and Soap squeeze their way between a bus and a wall with Makarov in tow.''
+
+'''Price''': Christ. You're not a soldier -- you're a war criminal.
+
+''Soap notices badly wounded civilians inside the bus.''
+
+'''Soap''': These people need medical.
+
+'''Makarov''': What's stopping you from helping them, Sergeant?
+
+'''Soap''': You...
+
+'''Makarov''': That's your choice.
+
+'''Price''': You did this, not us...
+
+'''Soap''': They're innocent people.
+
+'''Makarov''': No one is innocent. War is treachery.
+
+'''Soap''': Enough of this shite!
+
+''Price closes a bus door to clear the way through.''
+
+'''Price''': I'm through. It's clear.
+
+''Price and Soap get out of the tight passageway with Makarov.''
+
+'''Price''': Visual on the exit. This way.
+
+'''Soap''': Time for you to meet some friends of mine.
+
+'''Makarov''': Where are they?
+
+'''Soap''': Close.
+
+'''Makarov''': So are mine.
+
+'''Soap''': You should know when you've lost.
+
+'''Makarov''': You're still thinking about victory. Think about success. The wicked prosper. They always will. Peace is invisible. War you can see...
+
+'''Soap''': When people see what you've done, they'll want revenge - not war.
+
+'''Makarov''': Revenge is like a ghost.
+
+'''Soap''': You'll meet him too.
+
+''Price and Soap reach the exit. Price takes hold of Makarov.''
+
+'''Price''': I've got Makarov. Move up.
+
+''Suddenly, vehicles are heard approaching from behind them.''
+
+'''Price''': Incoming!
+
+''The vehicles stop as more of Makarov's men engage Price and Soap.''
+
+'''Price''': I've got Makarov. Clear 'em out!
+
+''Soap returns fire at Makarov's men until they are all dead.''
+
+'''Soap''': We're clear!
+
+'''Price''': Rally at the gate. We're moving external.
+
+''Soap returns to the gate where Price forces Makarov to his knees.''
+
+'''Price''': On your knees! Don't fucking move. Get on the gate, Sergeant!
+
+''Soap gets his hands under the gate and looks at Price.''
+
+'''Price''': Lift it!
+
+''Soap lifts up the gate with his hands.''
+
+'''Price''': Other side, Vladimir. Move!
+
+''Makarov moves under the gate with Price pointing his pistol at him. Price and Soap walk outside the stadium with their quarry.''
+
+'''Price''': Gold Eagle Actual, we're external. East side of the stadium. What's your status?
+
+''A helicopter arrives by air with Shepherd and Ghost on board.''
+
+'''Shepherd''': Bravo-6, we're on station. Be advised, you have enemy personnel moving in from the North. Ghost will provide sniper support.
+
+'''Price''': Copy. We'll meet you at primary exfil. Six out. ''(to Soap)'' I'll handle Makarov, you clear a path.
+
+''(If Soap doesn't move immediately...)''
+
+'''Price''': Secure the area, Sergeant. Let's get to exfil.; Make sure it's clear up ahead. Move.
+
+''Soap moves ahead of Price and Makarov to scout out the area. More of Makarov's men appear and attack. Ghost opens fire from the helicopter to support Soap and Price.''
+
+'''Ghost''': Engaging.; Taking the shot.; Round incoming!; Sending.; Sending rounds.; Target spotted.; Got a target.; Firing.
+
+''(Every time Ghost snipes an enemy...)''
+
+'''Ghost''': Dusted 'em. X-ray down.; They're down.; Chalked 'em.; One's down.; Dropped one.
+
+''(If Soap kills an enemy before Ghost can snipe them...)''
+
+'''Ghost''': That one was mine.; I had that one.; Nevermind.
+
+'''Konni Soldier''': Engage!; Give 'em some!
+
+''(Every time Ghost calls out an enemy position to Soap...)''
+
+'''Ghost''': Check left!; Check right!; X-rays! Left side!; Watch your left!
+
+''(Every time Ghost calls out the number of enemies remaining...)''
+
+'''Ghost''': Five threats remaining.; Four x-rays still moving.; Visual on three x-rays.; Two threats remaining.; One threat's still down there.
+
+''Soap eventually finishes off the last of Makarov's men.''
+
+'''Ghost''': We're clear. No visible threats.
+
+'''Price''': Moving up with Makarov.
+
+'''Shepherd''': Bravo-6, we're inbound to the HLZ now.
+
+'''Price''': Solid copy, we're moving.
+
+''The extraction helicopter lands in a parking area. Ghost steps outside to cover Price and Soap, wearing his iconic mask from the Original Modern Warfare trilogy. Shepherd lends his hand out to Soap.''
+
+'''Ghost''': Let's move! Let's move!
+
+''Shepherd helps Soap get onboard while Price hands Makarov to Soap. Price then taps Ghost on the shoulder, signaling for them both to withdraw into the helicopter. Ghost shuts the door as the helicopter lifts off from the ground.''
+
+''End of level.''
+
+''Cut to black.''
+
+== Cutscene ==
+''Ghost and Soap watch over Makarov.''
+
+'''Makarov''': Simon Riley.... I expected you to stay at the airport... And die there.
+
+'''Shepherd''': If you wanna live, do not threaten my men, Vladimir.
+
+''Makarov scoffs.''
+
+'''Makarov''': Are we on first name basis... Herschel?
+
+'''Soap''': So you know names - anyone can read a bloody dossier.
+
+'''Ghost''': What's the rest of your plan?
+
+'''Makarov''': This.
+
+'''Price''': What do you mean, "this"?
+
+'''Makarov''': Amazing. You're all dumber than you look.
+
+''Ghost leans in threateningly.''
+
+'''Ghost''': I asked you a question.
+
+'''Makarov''': And I have a question for you... What time is it?
+
+'''Shepherd''': What the hell do you care what time it is?
+
+'''Makarov''': Timing is everything, General. I think we'll remember this moment. Some... More fondly than others.
+
+''A rumbling sound is heard in the distance as Price and the others look outside to see explosions ripping through Verdansk International Airport.''
+
+'''Ghost''': The airport!!
+
+'''Price''': He pulled us off target!
+
+'''Soap''': You fuckin' sonuvabitch!!
+
+''An enraged Soap shoves Makarov against the bulkhead and throws him down to the floor, drawing his pistol and aiming it at his head.''
+
+'''Soap''': I'll blow your fuckin' brains out, Makarov - you hear me, I swear to god I'll do it.
+
+'''Price''': Soap... Soap! Don't do it!
+
+'''Makarov''': Do it, come on!
+
+'''Price''': ''(to Makarov)'' You shut your mouth!!
+
+'''Soap''': Let me finish him!
+
+''Makarov laughs.''
+
+'''Price''': John, we have him! He's in custody. He's not going anywhere. Stand down, Sergeant.
+
+''Soap calms down and lowers his pistol.''
+
+'''Makarov''': Tsk, tsk, tsk...
+
+''Price hauls Makarov into his seat and Soap holsters his sidearm.''
+
+'''Makarov''': I thought you were the good guys.
+
+'''Shepherd''': You gon' rot in hell for this.
+
+'''Soap''': You'll die in a gulag with the rest o' the Russian rats.
+
+'''Makarov''': I'll be seeing you again, MacTavish... I promise.
+
+''Price keeps his eyes on Makarov.''
+
+''End cutscene.''
+{{CoD20 CampaignT}}
+[[Category:Call of Duty: Modern Warfare III Transcripts]]
