@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:48:07.223Z",
+    "date": "2026-04-18T14:51:08.893Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T14:47:57.000Z",
+    "message": "docs(CoD): Office local SRT clue scan, Benihana CIA/Langley lines, time-machine framing",
     "files": [
       {
         "status": "M",
@@ -849,23 +861,6 @@
         "status": "M",
         "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
         "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-14T13:26:11.000Z",
-    "message": "Artemis II §5.5: cite X viral post, quote, archived phone-preview screenshot",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
-        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-screenshot.png",
-        "href": "/history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-screenshot.png"
       }
     ]
   }
