@@ -176,6 +176,33 @@ Hollywood and AAA shooters trade in a shared stock character: the American SOF /
 
 **Working frame:** Original MW trilogy popularized a Russian peer-enemy fantasy; reboot emphasizes Iran + non-state + PMC as antagonists while centering TF141 as moral anchor. Causal links to recruitment or policy are **not** claimed here (Limits, item 7).
 
+### 6.1 Taxpayer and defense-agency money on game tech (parallel track, not “CoD’s checkbook”)
+
+There is documented public spending on game engines and game-derived training, mostly for simulation and recruitment, not for underwriting Activision’s consumer SKU budgets. Treat this as a related ecosystem — shared cultural appetite for realism, licensed engines, and personnel moving between defense and entertainment — **not** as proof the Pentagon financed *Modern Warfare*’s campaign modes.
+
+| Thread | What is documented | Citations |
+|--------|--------------------|-----------|
+| U.S. Army — *America’s Army* | Recruitment/education FPS; ~$32.8M over a decade (FOIA), spend from 2000; early dev ~$5M; built on licensed Unreal (first major Unreal Engine 2 use per wiki). | [GameSpot — FOIA budget](https://www.gamespot.com/articles/americas-army-bill-328-million/1100-6242635/); [WIRED summary](https://www.wired.com/2009/12/americas-army-budget/); [Wikipedia — *America’s Army*](https://en.wikipedia.org/wiki/America%27s_Army) |
+| DARPA — DARWARS (from 2003) | Program to field low-cost, PC-based training; DARWARS Ambush! built on Bohemia / *Operation Flashpoint* technology — explicit reuse of commercial game-engine stack for serious games. | [Wikipedia — DARWARS](https://en.wikipedia.org/wiki/DARWARS) |
+| U.S. Army — Games for Training / VBS | Long Bohemia Interactive Simulations relationship (VBS2 from 2009, VBS3 2014, enterprise VBS contract 2022, VBS4 rollout 2025); 80+ Army training sites — game-based training at scale, not retail *Arma*. | [PR Newswire / BAE — VBS4 & GFT](https://www.prnewswire.com/news-releases/us-army-selects-bohemia-interactive-simulations-newest-virtual-battlespace-4-to-extend-virtual-game-based-training-across-the-force-302514116.html); [Military Embedded Systems](https://militaryembedded.com/avionics/displays/us-army-adopts-virtual-battlespace-4-to-expand-game-based-training-program) |
+| DARPA — Gamebreaker | Research program applying AI to commercial open-world games to study balance and imbalance for wargaming intuition — meta-level, not engine subsidies for *Call of Duty*. | [DARPA — Gamebreaker](https://www.darpa.mil/program/gamebreaker) |
+
+So: yes — tax and defense R&D dollars did flow into games and game engines, mainly for training, analysis, and recruitment. That is **not** the same accounting line as Activision’s AAA cinematic budget.
+
+### 6.2 Where the “Hollywood” money for consumer war shooters actually came from (2000s–2010s)
+
+For mass-market FPS that feel like films, the primary funding story on the record is publisher + platform + retail economics, **not** classified military investment:
+
+- Activision → Infinity Ward: initial $1.5M for 30%, full buyout after *Call of Duty* (2003); Microsoft pursued *Call of Duty 2* as Xbox 360 launch — studio tripled headcount for parity and engine work ([Wikipedia — Infinity Ward](https://en.wikipedia.org/wiki/Infinity_Ward)).
+- *Modern Warfare 2* (2009) — *Los Angeles Times* (Nov 2009): ~$40–50M to produce, ~$200M launch budget including marketing and disc distribution, “on par with a summer popcorn movie” ([LAT](http://articles.latimes.com/2009/nov/18/business/fi-ct-duty18); [mirror blog summary](http://latimesblogs.latimes.com/money_co/2009/11/-video-game-call-of-duty-modern-warfare-2-gets-hollywoodscale-launch.html)).
+- Later CoD — court / industry reporting: development costs in the hundreds of millions per title (e.g. 2019 *Modern Warfare* ~$640M+, *Black Ops Cold War* ~$700M+ cited from filings — publisher risk, microtransaction and live-service revenue later amortizing risk) ([Sports Illustrated / Game File reporting](https://www.si.com/esports/call-of-duty/budget-report-reveal)).
+
+Sports titles in the same era similarly rode broadcast licensing, annual franchise economics, and console transition — parallel commercial logic, not a mystery Pentagon wallet.
+
+### 6.3 Site sentiment — “better than greedy investors betting on gore”
+
+The skepticism is fair: venture capital alone does not explain why certain franchises hit peak cinematic craft. Talent density, engine iteration (e.g. IW’s id Tech lineage and heavily modified console-generation leaps), Hollywood-style production pipelines (editing, score, mocap, marketing as event cinema), and feedback loops from mass sales reinvested into next budgets are the documented commercial mechanism. Defense money did help normalize military-simulation literacy and fund adjacent engine R&D (serious games, VBS, DARWARS), which feeds a cultural and talent ecosystem — but on paper, Call of Duty’s blockbuster production is Activision’s balance sheet, not a line item in Army recruitment FOIA for *America’s Army*. The unease this file names is the overlap: same decades, same realism aesthetic, same engine families in some rooms — **without** collapsing into the conspiracy that DOD storyboarded MW missions (Limits 1, 7).
+
 **Hook to synthesis:** The shift of enemy imagery from Russian total war to Iran/proxy headlines tracks the same rough fault line as **§ Paradigm Threat synthesis** — which story mass culture is asked to rehearse when real policy turns toward the Gulf (Limits, items 4, 9).
 
 ---
@@ -195,6 +222,7 @@ Use this list to strengthen the file over time; items overlap Limits where noted
 | White House CoD clip 2026 | Militainment/policy bleed flagged only | Archive URL, date, Activision comment if any |
 | Ukraine war absent | 2022 invasion changed Russia discourse mid reboot cycle | Paragraph on whether MWII/WZ narrative shifted post-launch or DLC |
 | Competing FPS (Battlefield, etc.) | CoD treated in isolation | Optional contrast row or footnote |
+| DOD → consumer CoD pipeline | §6.1–6.3 stress *parallel* ecosystems; no public evidence DOD funded IW campaign budgets | Keep defense cites (America’s Army, VBS, DARWARS) separate from Activision financial cites |
 
 **Checkbox TODOs** (subset of table):
 
@@ -216,6 +244,6 @@ Use this list to strengthen the file over time; items overlap Limits where noted
 
 ---
 
-**Date:** 2026-04-18 — Initial file: original vs reboot premise; Iran–Russia framing; Glasco/Activision cite bundle; Krasinski vs Collins; China–Iran 2025–26 press; cross-links; header PNG; transcript bundle removed. 2026-04-18 (later): single Limits section; §7 weak-points table; redundant disclaimers stripped from body. 2026-04-18 (later still): § Paradigm Threat synthesis — two camps ↔ antibody/deep-state virus; pro-Israel operational lane as antibody-aligned sentiment; CIA/9-11 cross-links. 2026-04-18 (§4 expansion): GameByte + Reddit as documented mass Krasinski demand; timeline (Jack Ryan 2018, MW2019 2019-10-25, article 2019-11-22); Krasinski Office → *13 Hours* → *Jack Ryan*; war-film casting citations (Glory/Travers, *Platoon* casting section, Hanks); illustrative star table. 2026-04-18: reduced bolding body-wide for readability.
+**Date:** 2026-04-18 — Initial file: original vs reboot premise; Iran–Russia framing; Glasco/Activision cite bundle; Krasinski vs Collins; China–Iran 2025–26 press; cross-links; header PNG; transcript bundle removed. 2026-04-18 (later): single Limits section; §7 weak-points table; redundant disclaimers stripped from body. 2026-04-18 (later still): § Paradigm Threat synthesis — two camps ↔ antibody/deep-state virus; pro-Israel operational lane as antibody-aligned sentiment; CIA/9-11 cross-links. 2026-04-18 (§4 expansion): GameByte + Reddit as documented mass Krasinski demand; timeline (Jack Ryan 2018, MW2019 2019-10-25, article 2019-11-22); Krasinski Office → *13 Hours* → *Jack Ryan*; war-film casting citations (Glory/Travers, *Platoon* casting section, Hanks); illustrative star table. 2026-04-18: reduced bolding body-wide for readability. 2026-04-18 (§6.1–6.3): defense/tax vs commercial AAA funding (America’s Army FOIA, DARWARS, VBS/GFT, DARPA Gamebreaker; Activision/IW, *LAT* MW2 budget, SI/Game File); sentiment on engines and “Hollywood” production.
 
 Keywords: #war #call-of-duty #modern-warfare #militainment #iran #russia #infinity-ward #activision #benghazi #13-hours #proxy-war #video-games #antibody #deep-state #israel #cia
