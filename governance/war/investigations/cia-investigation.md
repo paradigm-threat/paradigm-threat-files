@@ -161,6 +161,7 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 
 ## X. Related Timeline and Site Links
 
+- [Call of Duty *Modern Warfare* — original vs reboot militainment](./call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) — **fiction** **SAD** / **TF141** / **Iran** proxy framing vs § **IV** **Iran** pipeline thesis; **militainment** audience capture
 - [1947 CE — Central Intelligence Agency: OSS Rebrand and Cold War Deep State](/timeline/evt-1947-ce-central-intelligence-agency-oss-rebrand) (timeline article)
 - [False Flags: Architecture](/timeline/evt-false-flags-architecture)
 - [Historical Antibodies](/timeline/evt-historical-antibodies)
