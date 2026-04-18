@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T13:59:23.503Z",
+    "date": "2026-04-18T14:15:03.102Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T13:59:14.000Z",
+    "message": "CoD investigation: header PNG; drop wiki transcript bundle from repo",
     "files": [
       {
         "status": "M",
@@ -857,23 +869,6 @@
     "files": [
       {
         "status": "M",
-        "path": "history/chronology/investigations/view-over-atlantis-michell-investigation.md",
-        "href": "/history/chronology/investigations/view-over-atlantis-michell-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:54:24.000Z",
-    "message": "docs(investigations): Michell View Over Atlantis editions and timeline fit",
-    "files": [
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/view-over-atlantis-michell-chapter-summaries.md",
-        "href": "/history/chronology/investigations/view-over-atlantis-michell-chapter-summaries"
-      },
-      {
-        "status": "A",
         "path": "history/chronology/investigations/view-over-atlantis-michell-investigation.md",
         "href": "/history/chronology/investigations/view-over-atlantis-michell-investigation"
       }

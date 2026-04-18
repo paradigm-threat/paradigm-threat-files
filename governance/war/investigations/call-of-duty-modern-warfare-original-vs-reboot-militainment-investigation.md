@@ -2,20 +2,33 @@
 
 ![Call of Duty Modern Warfare — investigation header graphic](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png?w=1200 '{"className":"rounded-md m-auto"}')
 
-> **TL;DR:** This file compares **Infinity Ward’s original *Modern Warfare* trilogy (2007–2011)** with the **2019–2023 soft reboot** (MW 2019, MWII 2022, MWIII 2023): **Russia** as **peer / invader / WWIII driver** in the old arc vs **arms dealer, PMC, and terror-adjacent vectors** in the new; **Iran** elevated in the reboot (**Quds**, **HVT strike**, **proxy** framing). It cites **developer/publisher tension** (alleged **Activision** pitch for **Iran → Israel** story, rejected by **IW** devs — mainstream games press), **casting** (**Alex** = **Chad Michael Collins**, not **John Krasinski** — fan demand ≠ screen reality), and **cross-reads** with [Benghazi / *13 Hours*](./dubious-stand-down-orders-libya-benghazi-investigation.md), [CIA / Iran pipeline](./cia-investigation.md), and [Reverse Crusades / 2022 proxy frame](./reverse-crusades-comparison.md). **Open press** on **China–Iran** arms (**2025–2026**) is summarized as **real-world echo**, not proof the game “predicted” policy.
+> **TL;DR:** **Infinity Ward’s** original ***Modern Warfare*** **trilogy (2007–2011)** vs **2019–2023 soft reboot**: **Russia** as **peer / WWIII** driver in the old arc vs **arms supplier, PMC, terror** vectors in the new; **Iran** foregrounded in the reboot (**Quds**, **HVT**). **Chance Glasco**–era **Activision** pitch (Iran→Israel game) is **reported**, not adjudicated. **Alex** = **Chad Michael Collins** (wiki). Cross-reads: [Benghazi / *13 Hours*](./dubious-stand-down-orders-libya-benghazi-investigation.md), [CIA / Iran](./cia-investigation.md), [Reverse Crusades](./reverse-crusades-comparison.md). **All interpretive claims are qualified in § Limits and disclaimers.**
 
 ## Status
 
-**Open.** Assembles **documented** franchise facts (release years, official reboot rationale, widely summarized campaign beats), **reported** labour/publisher claims (**Chance Glasco**), and **interpretive** lanes (**militainment**, **two-audience** war narrative) without asserting a single hidden author of geopolitics.
+**Open.** Mixes **citable** developer interviews and games press with **site** **hypothesis** lanes; **does not** close the case on **who** steers **popular war imagination**.
 
 ---
 
-## Scope, evidence limits, and disclaimers
+## Limits and disclaimers
 
-- **Games are fiction:** Levels mix **composite** countries (**Urzikstan**, **Al Mazrah** / **United Republic of Adal**), **renamed** factions, and **“ripped from the headlines”** tone — not court-admissible depictions of **IRGC**, **CIA**, or **Russian** order of battle.
-- **Allegations vs. proof:** **Glasco’s** account of **Activision** pressure on **Infinity Ward** is **third-party journalism** and **social media** quotation; **Activision** responses (if any) should be checked for updates before treating the story as closed.
-- **Prediction claims:** Similarity between **2022** mission beats (**missile** on **Quds** general during **Russia–Iran** arms deal) and **real** **Jan 2020** **Soleimani** strike or **2025–2026** **Gulf** reporting is **pattern resonance**, not demonstrated **foreknowledge**.
-- **“Two camps” framing:** Useful **analytic** lens (audiences who want **peer Russia war** vs **proxy / MENA** focus); **not** a claim that two **literal** propaganda shops each “own” one game line.
+Read this section once; later sections **do not** repeat these points except where **new** nuance is required.
+
+1. **Fiction.** Campaigns use **composite** states (**Urzikstan**, **Al Mazrah** / **U.R.A.**), **renamed** factions, and **“ripped from the headlines”** tone. Nothing here is **court-admissible** as depiction of **IRGC**, **CIA**, or **Russian** **OOB**.
+
+2. **Evidence tiers.** **Developer** quotes (**Verge**, **Charlie INTEL**) are **secondary** **press**. **Chance Glasco’s** Activision **Iran→Israel** pitch story reaches us via **games journalism** and **social** posts — **not** a sworn filing; seek **Activision / Microsoft** **primary** **response** before treating as settled.
+
+3. **No prediction / foreknowledge.** Similarity between **MWII 2022** beats (e.g. **missile** on **Quds** general; **Russia–Iran** arms deal frame) and **real** events (**Jan 2020** strike; **2025–2026** Gulf press) is **pattern resonance** — **not** evidence the studio **knew** future policy.
+
+4. **“Two camps” / audience split.** Used as a **lens** on **competing** **Cold War vs proxy-war** **imaginaries** — **not** that two **literal** **propaganda** shops **own** **old** vs **new** **SKU**.
+
+5. **Cross-investigation links** ([Benghazi](./dubious-stand-down-orders-libya-benghazi-investigation.md), [CIA](./cia-investigation.md), [Reverse Crusades](./reverse-crusades-comparison.md), [Paperclip](./operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md)) are **thematic** **rhymes** — **Konni**/**Makarov** **≠** **documented** **history**; **Krasinski** **≠** **Alex** **actor**.
+
+6. **Marketing vs mandate.** **2019** **reboot naming** and **Minkoff**/**Kurosaki** **interviews** explain **SKU** **reset** and **“realism”** — they **do not** **prove** or **disprove** a **hidden** **pro-Israel / anti-Iran** **brief**; that line stays **separate** from **Glasco** **allegations** (**different** **year** **band**).
+
+7. **Militainment.** Label **depends** on **academic**/**press** **usage**; **FPS** **blockbusters** sit in **spectacle** **economies**. **“Trained millions”** / **recruitment-adjacent** **culture** are **sociological** **shorthands** — **not** claims of **Pentagon** **storyboard** **control** or **measured** **enlistment** **effect**.
+
+8. **Real-world arms** (**§5**). **Reuters**/**CNN** **2025–2026** **sourcing** is **contested** by **quoted** **denials** and **intel** **opacity**; use as **context** for **plausibility** of **game** **premise**, **not** as **verified** **order** **of** **battle**.
 
 ---
 
@@ -23,12 +36,12 @@
 
 | Thread in this file | Paradigm Threat investigation | Why link |
 |---------------------|------------------------------|----------|
-| **Benghazi**, **contractors**, **operator hero** cinema, **Krasinski**, **“Holy War”** dialogue in film | [Dubious stand-down orders — Libya / Benghazi](./dubious-stand-down-orders-libya-benghazi-investigation.md) | Same **PMC/CIA/SOF** narrative ecology; ***13 Hours*** treated there as **predictive-programming cluster**; **Krasinski** performance notes **do not** equal CoD casting |
-| **Iran**, **CIA SAD**, **covert war**, **blowback** | [CIA investigation](./cia-investigation.md) | Reboot **Laswell** / **TF141** lane rhymes with **covert action** file’s **Iran** pipeline thesis (engineered threat perception vs. material reality) |
-| **Russia** as **NATO / media** adversary **2022+** vs game **PMC / not peer war** | [The Four Reverse Crusades](./reverse-crusades-comparison.md) | Structural read of **Western coalition vs Russia**; reboot **avoids** full **US–Russia** peer war as **campaign spine** (compare **2009–2011** arc) |
-| **Federal exercise / ROE / public war mood** (weak tie) | [U.S. citizens vs federal armed confrontations](./us-citizens-vs-federal-armed-confrontations-investigation.md) | Shared theme: **military entertainment** and **homeland** security culture — **not** direct plot overlap |
-| **Trump / credibility / Iran** news cycle vs **space** narrative (tangential) | [Artemis II as faith test](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) | **§12** incentive sketch — **leader** may avoid **splitting** public attention when **Iran** file is **hot** |
-| **Ukraine**, **far-right**, **asset** continuity | [Operation Paperclip — Nazi continuity](./operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) | Index row cites **Ukraine** downstream; CoD **Konni** / **Makarov** reboot thread is **fiction** — link is **theme**, not identity |
+| **Benghazi**, **contractors**, **operator** cinema, **Krasinski** | [Dubious stand-down orders — Libya / Benghazi](./dubious-stand-down-orders-libya-benghazi-investigation.md) | Shared **PMC/CIA/SOF** **narrative** **ecology**; ***13 Hours*** **cluster** |
+| **Iran**, **SAD**, **covert** **war** | [CIA investigation](./cia-investigation.md) | **TF141**/**Laswell** **lane** **vs** **§IV** **Iran** **pipeline** **thesis** |
+| **Russia** **2022** **media** **adversary** **vs** **game** **PMC** | [The Four Reverse Crusades](./reverse-crusades-comparison.md) | **NATO–Russia** **frame** **beside** **fictional** **arc** |
+| **Homeland** **security** **culture** | [U.S. citizens vs federal armed confrontations](./us-citizens-vs-federal-armed-confrontations-investigation.md) | Militainment / exercise mood (loose) |
+| **Trump** **/ Iran** **news** **vs** **credibility** | [Artemis II as faith test](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) | **§12** **incentive** **sketch** |
+| **Ukraine** **/** **asset** **threads** | [Operation Paperclip](./operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) | **Site** **index** **themes** **only** |
 
 ---
 
@@ -38,8 +51,6 @@
 
 - **Soft reboot**, not sequel number: after **MW3**, the old arc (**nuclear** stakes, **Russian invasion of US**) was judged **too far** from **contemporary** plausibility for a straight **MW4**. [The Verge — May 30, 2019](https://www.theverge.com/2019/5/30/18644568/call-of-duty-modern-warfare-4-sequel-title) quotes **Jacob Minkoff**: old story “bear no resemblance to the world we see today”; new game is **same brand**, **new continuity** (likened to **Daniel Craig** **Bond** reset).
 - **Charlie INTEL** interview with **Taylor Kurosaki**: new **MW** is **not** tied to **CoD4/MW2/MW3** story; **“ripped from the headlines”** authenticity goal. [Charlie INTEL](https://www.charlieintel.com/modern-warfare/infinity-ward-explains-why-2019-game-is-not-call-of-duty-modern-warfare-4-54416/)
-
-**Interpretive note (this file):** Marketing **reset** explains **SKU** and **engine** choices; it **does not** by itself prove a **pro-Israel / anti-Iran** mandate — see **§4** for **publisher** pitch allegations **separate** from **2019** public rationale.
 
 ---
 
@@ -75,7 +86,7 @@
 - [Eurogamer](https://www.eurogamer.net/call-of-duty-co-founder-claims-activision-put-very-awkward-pressure-on-infinity-ward-to-make-a-game-about-iran-attacking-israel)
 - [Kotaku](https://kotaku.com/call-of-duty-activision-iran-israel-trump-white-house-2000676269)
 
-**Relation to reboot:** If the **allegation** is accurate, it shows **publisher appetite** for **hot** **Middle East** **scenarios** **>10 years** before **MW 2019** — **not** that **MW 2019** **is** that game. **IW’s** **2019** **public** story is **composite** fiction and **“not specific events”** (Verge, **Minkoff**).
+If accurate, the story indicates **publisher** **interest** in a **hot** **Middle East** **scenario** in the **early** **2010s** — **orthogonal** to whether **MW 2019** was **written** to **that** **brief** (see **Limits**, items **2** and **6**).
 
 ---
 
@@ -93,31 +104,44 @@
 
 ## 5. Real-world arms reporting (2025–2026) — China, Russia, Iran
 
-**Not** used here to prove **game** **prediction** — only **context** for whether **“Russia supplies Iran; China also sells”** was **pure** **fantasy** in **2022**.
-
 - **Reuters** (Feb 2026) — sources: Iran **near deal** for **Chinese** **CM-302** anti-ship missiles; talks said to have **accelerated** after **June 2025** **Israel–Iran** war. [Reuters](https://www.reuters.com/world/china/iran-nears-deal-buy-supersonic-anti-ship-missiles-china-2026-02-24/)
 - **CNN** (Apr 2026) — **US intelligence** sources: China **preparing** **air-defence** transfers (e.g. **MANPADS** class); **Chinese Embassy** denial quoted. [CNN](https://www.cnn.com/2026/04/11/politics/us-intelligence-iran-china-weapons)
-- **Russia “staying out”:** **Not** supported by **long-run** **Russia–Iran** **military** **cooperation** reporting; **CNN** piece **notes** **Moscow** **support** to **Iran** in **same** **region** **story** — treat **headline** **claims** as **contested**.
+- **Russia** **and** **Iran:** **Long-run** **military** **cooperation** is **reported** in **mainstream** **coverage**; **simple** **“Russia** **stayed** **out”** **headlines** **misfit** **that** **record**. See **Limits**, item **8**.
 
 ---
 
 ## 6. Militainment, youth demographic, and “two audiences” (interpretive)
 
-**Mainstream** academic and journalistic **literature** uses **“militainment”** for **war** as **consumable** **spectacle**; **FPS** **blockbusters** sit in that **economy**. This site’s **closest** **paired** **analysis** is [Benghazi investigation](./dubious-stand-down-orders-libya-benghazi-investigation.md) **§** on ***13 Hours*** / ***Lions for Lambs*** / ***Three Kings*** — **Hollywood** **steering** **guilt**, **heroism**, and **exit** **myths**.
+**Militainment** (war as **consumable** **spectacle**) is **discussed** in **academic** and **journalistic** **literature**; **FPS** **blockbusters** participate in that **economy**. This site’s **closest** **paired** **analysis** is [Benghazi investigation](./dubious-stand-down-orders-libya-benghazi-investigation.md) on ***13 Hours*** / ***Lions for Lambs*** / ***Three Kings***.
 
-**Working frame (this file):** **Original** **MW** **trilogy** **trained** **millions** on **Russian** **as** **existential** **peer** **enemy**; **reboot** **trains** **Iran** **+** **non-state** **+** **PMC** **as** **manageable** **targets** **while** **preserving** **TF141** **as** **moral** **anchor**. **Both** **serve** **recruitment-adjacent** **culture** **without** **proving** **Pentagon** **storyboards**.
-
----
-
-## 7. Open questions / TODO
-
-- [ ] **Primary** **Activision** or **Microsoft** **post-merger** **statement** on **Glasco** **claims** (if published).
-- [ ] **Archive** **White House** / **political** **use** of **CoD** **footage** **2026** (context for **militainment** **bleed** into **policy** **comms** — **ethics** **note**, **not** **game** **content**).
-- [ ] **Compare** **MWIII** **Makarov** **arc** to [Reverse Crusades](./reverse-crusades-comparison.md) **narrative** **Russia** — **fiction** **vs** **site** **thesis** **on** **2022**.
+**Working frame:** **Original** **MW** **trilogy** **popularized** a **Russian** **peer** **enemy** **fantasy**; **reboot** **emphasizes** **Iran** **+** **non-state** **+** **PMC** **as** **antagonists** **while** **centering** **TF141** **as** **moral** **anchor**. **Causal** **links** to **recruitment** or **policy** **are** **not** **claimed** here (**Limits**, item **7**).
 
 ---
 
-## 8. Cross-links (repeat)
+## 7. Weak points, gaps, and research TODOs
+
+Use this list to **strengthen** the file over time; items overlap **Limits** where noted.
+
+| Gap | Why it weakens the investigation | Possible strengtheners |
+|-----|-----------------------------------|-------------------------|
+| **Glasco** **unchallenged** **primary** | Story is **press**/**X** **relay**; **no** **corroborating** **IW** **names** or **Activision** **on-record** **denial**/**confirm** | FOIA **unlikely**; **trade** **press** **archives**; **watch** **Microsoft** **acquisition** **era** **statements** |
+| **No** **sales**/**demographic** **data** | **“Youth”**/**boys** **thesis** is **intuitive**, **not** **measured** here | **ESA**, **industry** **reports**, **peer** **papers** on **militainment** **+** **age** |
+| **MWIII** **underdeveloped** | **Konni**/**Makarov** **thread** **named** in **TODO** **only** | **Playthrough** **summary** **or** **secondary** **plot** **recap** **vs** [Reverse Crusades](./reverse-crusades-comparison.md) |
+| **Soleimani** **echo** **asserted**, **not** **sourced** **to** **dev** | **Resemblance** **to** **Jan 2020** **is** **reader** **obvious**; **no** **design** **interview** **cited** | **Search** **post-2022** **interviews** **(Ghorbrani**/**Strike**)** |
+| **China–Iran** **rows** **single-newspaper** | **Intel** **leaks** **and** **denials** **need** **triangulation** | **Add** **Reuters**/**AP**/**IISS**/**SIPRI** **where** **available** |
+| **White House** **CoD** **clip** **2026** | **Militainment**/**policy** **bleed** **flagged** **only** | **Archive** **URL**, **date**, **Activision** **comment** **if** **any** |
+| **Ukraine** **war** **absent** | **2022** **invasion** **changed** **Russia** **discourse** **mid** **reboot** **cycle** | **Paragraph** on **whether** **MWII**/ **WZ** **narrative** **shifted** **post-launch** **or** **DLC** |
+| **Competing** **FPS** (**Battlefield**, **etc.**)** | **CoD** **treated** **in** **isolation** | **Optional** **contrast** **row** **or** **footnote** |
+
+**Checkbox TODOs** (subset of table):
+
+- [ ] **Primary** **Activision** or **Microsoft** **statement** on **Glasco** **claims** (if published).
+- [ ] **Archive** **White House** / **political** **use** of **CoD** **footage** **2026** (URL, date).
+- [ ] **MWIII** **Makarov**/**Konni** **arc** **paragraph** **vs** [Reverse Crusades](./reverse-crusades-comparison.md).
+
+---
+
+## 8. Cross-links
 
 - [Dubious stand-down orders — Benghazi / *13 Hours*](./dubious-stand-down-orders-libya-benghazi-investigation.md)
 - [CIA investigation](./cia-investigation.md)
@@ -128,6 +152,6 @@
 
 ---
 
-**Date:** 2026-04-18 — Initial file: original vs reboot premise; Iran–Russia framing; Glasco/Activision cite bundle; Krasinski vs Collins; China–Iran **2025–26** press; cross-links to Benghazi, CIA, Reverse Crusades, Artemis §12, Paperclip index. **2026-04-18 (later):** Header PNG; removed in-repo wiki transcript mirrors.
+**Date:** 2026-04-18 — Initial file: original vs reboot premise; Iran–Russia framing; Glasco/Activision cite bundle; Krasinski vs Collins; China–Iran **2025–26** press; cross-links; header PNG; transcript bundle removed. **2026-04-18 (later):** Single **Limits** section; **§7** **weak** **points** **table**; redundant **disclaimers** **stripped** from **body**.
 
 Keywords: #war #call-of-duty #modern-warfare #militainment #iran #russia #infinity-ward #activision #benghazi #13-hours #proxy-war #video-games
