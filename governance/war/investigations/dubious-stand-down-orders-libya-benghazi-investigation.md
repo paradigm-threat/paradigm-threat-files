@@ -239,6 +239,7 @@ Under **Gaddafi**, **Libya** combined **large oil rents**, **central-bank reserv
 - [U.S. citizens vs federal armed confrontations](./us-citizens-vs-federal-armed-confrontations-investigation.md) — federal **posture**, **Jade Helm**, **rules** **of** **engagement** **culture**
 - [CIA investigation](./cia-investigation.md) — **covert** **action**, **blowback**, **Middle East** **pattern**
 - [British divide-and-conquer Israel investigation](./british-divide-conquer-israel-investigation.md) — **empire** **playbook** **echoes** **in** **MENA** **borders**
+- [Call of Duty *Modern Warfare* — original vs reboot militainment](./call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) — FPS **operator** archetype vs ***13 Hours*** **Krasinski** lane; **Iran**/**Russia** **proxy** framing; **Soleimani**-echo **HVT** mission; **militainment** **economy**
 
 ---
 

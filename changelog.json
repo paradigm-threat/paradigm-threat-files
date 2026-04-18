@@ -1,8 +1,40 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T13:50:19.650Z",
+    "date": "2026-04-18T13:54:16.156Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cia-investigation.md",
+        "href": "/governance/war/investigations/cia-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md",
+        "href": "/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/page.md",
+        "href": "/governance/war/investigations"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/reverse-crusades-comparison.md",
+        "href": "/governance/war/investigations/reverse-crusades-comparison"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T13:50:09.000Z",
+    "message": "Investigations: spore martian cylinders, blood rain; chronology artemis assets",
     "files": [
       {
         "status": "A",
@@ -832,23 +864,6 @@
     "files": [
       {
         "status": "M",
-        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-chapter-summaries.md",
-        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-chapter-summaries"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md",
-        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:36:59.000Z",
-    "message": "Add Kerrell/Goggin chapter summaries beside investigation; CO framing for meter scams.",
-    "files": [
-      {
-        "status": "A",
         "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-chapter-summaries.md",
         "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-chapter-summaries"
       },

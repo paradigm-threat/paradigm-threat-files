@@ -156,5 +156,11 @@ Each iteration learns from the previous failure. The progression from visible fi
 
 ---
 
+## Cross-links (site)
+
+- [Call of Duty *Modern Warfare* — original vs reboot militainment](./call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) — **game** **Russia** as **supplier/PMC** vs **peer invasion** (original trilogy); **2022** **proxy** **narrative** **rhyme** with **§** **WW3/Proxy (2022)** column — **fiction**, not proof of **site** **thesis**
+
+---
+
 Keywords: #reverse #crusades #comparison #four #structural
 
