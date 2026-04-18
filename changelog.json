@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:19:03.495Z",
+    "date": "2026-04-18T14:27:54.463Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T14:18:54.000Z",
+    "message": "CoD investigation: antibody vs deep-state synthesis; Israel-Iran sentiment",
     "files": [
       {
         "status": "M",
@@ -859,23 +871,6 @@
         "status": "A",
         "path": "history/chronology/investigations/the-pyramid-les-brown-investigation.png",
         "href": "/history/chronology/investigations/the-pyramid-les-brown-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:59:37.000Z",
-    "message": "docs(investigations): hero image for Michell View Over Atlantis",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/view-over-atlantis-michell-investigation.md",
-        "href": "/history/chronology/investigations/view-over-atlantis-michell-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/view-over-atlantis-michell-investigation.png",
-        "href": "/history/chronology/investigations/view-over-atlantis-michell-investigation.png"
       }
     ]
   }

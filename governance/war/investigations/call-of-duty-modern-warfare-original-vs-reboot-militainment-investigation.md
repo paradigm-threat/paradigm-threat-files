@@ -2,7 +2,7 @@
 
 ![Call of Duty Modern Warfare — investigation header graphic](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png?w=1200 '{"className":"rounded-md m-auto"}')
 
-> **TL;DR:** **Infinity Ward’s** original ***Modern Warfare*** **trilogy (2007–2011)** vs **2019–2023 soft reboot**: **Russia** as **peer / WWIII** driver in the old arc vs **arms supplier, PMC, terror** vectors in the new; **Iran** foregrounded in the reboot (**Quds**, **HVT**). **Chance Glasco**–era **Activision** pitch (Iran→Israel game) is **reported**, not adjudicated. **Alex** = **Chad Michael Collins** (wiki). Cross-reads: [Benghazi / *13 Hours*](./dubious-stand-down-orders-libya-benghazi-investigation.md), [CIA / Iran](./cia-investigation.md), [Reverse Crusades](./reverse-crusades-comparison.md). **§ Paradigm Threat synthesis** maps **media “two camps”** to **antibody vs deep-state “virus”** (see [CIA](./cia-investigation.md), [9/11 good-actor antibody](/events/false_flag/investigations/09-11-investigation.md)): **pro-Israel / anti-Iran operational** lane read here as **antibody-aligned**—not **mere** ideology. **All** hedges in **§ Limits and disclaimers.**
+> **TL;DR:** **Infinity Ward’s** original ***Modern Warfare*** **trilogy (2007–2011)** vs **2019–2023 soft reboot**: **Russia** as **peer / WWIII** driver in the old arc vs **arms supplier, PMC, terror** vectors in the new; **Iran** foregrounded in the reboot (**Quds**, **HVT**). **Chance Glasco**–era **Activision** pitch (Iran→Israel game) is **reported**, not adjudicated. **Alex** = **Chad Michael Collins** (wiki). **Audience** demand to cast **John Krasinski** as an operator (**GameByte** Nov 2019; **Reddit** thread **~17k** upvotes) sits on a **primed** timeline: ***Jack Ryan*** **S1 (from Aug 2018)** and ***13 Hours*** **(2016)** before **MW 2019** launch — not proof of **intent**, but **documented** mass **“Jim / operator”** overlap. Cross-reads: [Benghazi / *13 Hours*](./dubious-stand-down-orders-libya-benghazi-investigation.md), [CIA / Iran](./cia-investigation.md), [Reverse Crusades](./reverse-crusades-comparison.md). **§ Paradigm Threat synthesis** maps **media “two camps”** to **antibody vs deep-state “virus”** (see [CIA](./cia-investigation.md), [9/11 good-actor antibody](/events/false_flag/investigations/09-11-investigation.md)): **pro-Israel / anti-Iran operational** lane read here as **antibody-aligned**—not **mere** ideology. **All** hedges in **§ Limits and disclaimers.**
 
 ## Status
 
@@ -105,15 +105,60 @@ If accurate, the story indicates **publisher** **interest** in a **hot** **Middl
 
 ---
 
-## 4. Casting — Alex Keller, Krasinski, *13 Hours*, and the “everyman” operator
+## 4. Casting — Alex Keller, Krasinski, *13 Hours*, audience “Jim” overlap, and the war-film star pattern
+
+### 4.1 Documented facts (still)
 
 | Question | Documented answer |
 |----------|-------------------|
 | Who plays **Alex** in **MW 2019**? | **Chad Michael Collins** — [Call of Duty Wiki — Alex Keller](https://callofduty.fandom.com/wiki/Alex_Keller) |
-| Did “official” sources accuse the model of copying **Jim** / **Krasinski**? | **No** solid **accusation** in **reliable** press; **fan** / **games media** wished for **Krasinski** as operator (**Jack Ryan** overlap) — e.g. [GameByte — Nov 2019](https://gamebyte.com/modern-warfare-players-really-really-want-john-krasinski-in-the-game/) |
-| *13 Hours* | **Krasinski** stars as **Jack Silva** — analysed in [Benghazi / film cluster](./dubious-stand-down-orders-libya-benghazi-investigation.md) as **operator-hero** **cinema**, not as **CoD** **canon** |
+| Did **Activision** / **IW** say Alex was **modeled on** Krasinski? | **No** on-record **claim** found here; **Limits** item **5** stands (**Krasinski** **≠** **voice/performance** **actor**). |
+| *13 Hours* | **Krasinski** as **Jack Silva** — [Benghazi / film cluster](./dubious-stand-down-orders-libya-benghazi-investigation.md) treats it as **operator-hero** cinema, not **CoD** canon. |
 
-**Thesis (open):** **Hollywood** and **games** **share** an **archetype** — **American** **SOF/contractor**, **international** **friends**, **moral** **ambiguity** with **player** **identification**. Same **actor** across **film** and **game** is **not** required for **demographic** **overlap**.
+### 4.2 “Solid hit” — mass audience, not lone hot take
+
+[GameByte — *Modern Warfare Players Really, Really Want John Krasinski In The Game*](https://gamebyte.com/modern-warfare-players-really-really-want-john-krasinski-in-the-game/) (**published 2019-11-22**, per page metadata) summarizes **r/modernwarfare** demand: it links [this Reddit thread](https://www.reddit.com/r/modernwarfare/comments/dz2pup/only_celebrity_operator_i_would_want_is_john/) (user **Torryan**) and reports **“over 17k”** upvotes; the piece itself notes a **Jack Ryan** still **“could be straight out of Modern Warfare.”** That is **secondary** games press, but it **aggregates** what thousands of players already did in public — the same **intuition** informal commentary often voices (“Alex looks like Jim”): **everyman face** + **tactical kit** + **prior** **Krasinski-as-operator** **imagery**.
+
+### 4.3 Timeline — why the overlap was *already* loaded before Nov. 2019
+
+| Milestone | Date (sourced) |
+|-----------|----------------|
+| ***Tom Clancy’s Jack Ryan*** **S1** premiere (**Krasinski** title role) | **2018-08-31** — [Wikipedia — *Jack Ryan* (TV series)](https://en.wikipedia.org/wiki/Jack_Ryan_(TV_series)) |
+| ***13 Hours: The Secret Soldiers of Benghazi*** (Bay; Krasinski **Navy SEAL**–type role) | **2016** — [Wikipedia — John Krasinski](https://en.wikipedia.org/wiki/John_Krasinski) |
+| ***Call of Duty: Modern Warfare* (2019)** release | **2019-10-25** — [Wikipedia — *CoD: MW* (2019)](https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(2019_video_game)) |
+| **GameByte** / **Reddit** Krasinski-as-operator **roundup** | **2019-11-22** (article) — [GameByte](https://gamebyte.com/modern-warfare-players-really-really-want-john-krasinski-in-the-game/) |
+
+**Read:** By **retail launch**, many buyers had already seen **more than a decade** of **Jim Halpert** plus **~14 months** of **Jack Ryan** **S1** and **press images**. The **GameByte** piece lands **after** launch — it **documents** sentiment **in the wild**, not **invention** by one blog.
+
+### 4.4 Career arc — comedy / “regular guy” → prestige war operator (Krasinski)
+
+[Wikipedia — John Krasinski](https://en.wikipedia.org/wiki/John_Krasinski) summarizes the arc this file cares about: breakout **Jim Halpert** on ***The Office*** **(2005–2013)**; then ***13 Hours*** **(2016)** with **physical transformation** for a **former SEAL** role; then ***Jack Ryan*** **(2018–2023)**. That is **exactly** the **non-war → war** **star path** the user section asks to flag: **audiences** had **multiple** **high-budget** **data points** for **Krasinski in plate carrier** before **MW 2019**.
+
+### 4.5 Pattern — bankable / “everyman” males in prestige war films (not a new thesis, but citable hooks)
+
+Hollywood has long **cast familiar faces** into **uniform** for **Vietnam** and **Civil War** epics; **reception** sometimes **attacks** the **fit** when the star’s **prior** **persona** **clashes** with **gravitas**.
+
+- ***Glory* (1989)** — **Matthew Broderick** as Col. **Robert Gould Shaw** **three years** after ***Ferris Bueller’s Day Off* (1986)**. [Wikipedia — *Glory* (1989 film)](https://en.wikipedia.org/wiki/Glory_(1989_film)) **reception** quotes **Peter Travers** (**Rolling Stone**) calling Broderick **“catastrophically miscast as Shaw”** and **Desson Howe** (**Washington Post**) on **“amiable non-presence”** — i.e. critics **noticed** the **star-persona** **tension** in a **war drama**.
+- ***Platoon* (1986)** — [Wikipedia — *Platoon* (film), § Casting](https://en.wikipedia.org/wiki/Platoon_(film)#Casting) reports **Oliver Stone** telling **Entertainment Weekly** (2011) that **Mickey Rourke**, **Emilio Estevez**, **Kevin Costner** were **considered** for **Barnes**, and **Keanu Reeves** / **Kyle MacLachlan** **turned down** **Taylor** — a **snapshot** of **A-list** **names** **circulating** a **gritty** **Vietnam** script.
+- **Tom Hanks** — mainstream **comedy** stardom (**e.g.** ***Splash***, ***Big***) before **Oscar** **dramatic** **turn** and ***Saving Private Ryan* (1998)**; [Wikipedia — Tom Hanks](https://en.wikipedia.org/wiki/Tom_Hanks) ties **1980s** **comedies** to **later** **Spielberg** **war** work (**SPR**, **Band of Brothers** EP, etc.).
+- **Michael J. Fox** in ***Casualties of War* (1989)** — **teen / time-travel** **icon** cast as **Pvt. Eriksson** opposite **Sean Penn**; trade and retrospective pieces routinely note **Fox’s** **prior** **persona** when discussing the film (e.g. [Rotten Tomatoes — *Casualties of War*](https://www.rottentomatoes.com/m/casualties_of_war) synopsis and critical blurbs referencing **Fox**’s **role**).
+
+**Caveat:** We did **not** locate a **single peer-reviewed** paper that **names** “**1990s–2000s heartthrobs in war movies**” as a **formal trend**. The **pattern** here is **assembled** from **film-history** **facts** + **casting** **revelations** + **review** **language** — useful for **this investigation’s** **cross-media** **archetype** **claim**, **not** as **social-science** **proof**.
+
+### 4.6 Sample list — war / military prestige roles and **lasting** careers (illustrative, not exhaustive)
+
+| Figure | Rough “non-war → war / uniform” beat | Why it matters for **lasting career** |
+|--------|--------------------------------------|----------------------------------------|
+| **Tom Hanks** | 1980s comedy → ***Saving Private Ryan*** → decades as **producer** of **WWII** television (**Band of Brothers**, **The Pacific**, **Masters of the Air**) | [Wikipedia — Tom Hanks](https://en.wikipedia.org/wiki/Tom_Hanks) |
+| **Matthew Broderick** | ***Ferris Bueller*** → ***Glory*** | **Broderick** remained a **bankable** **name** for **decades**; **Glory** **reception** shows **critics** **noticed** **casting** friction ([Wikipedia — *Glory*](https://en.wikipedia.org/wiki/Glory_(1989_film))). |
+| **Denzel Washington** | ***Glory*** (Supporting Actor Oscar) → sustained **A-list** **dramatic** career | Same film as **Broderick**; **Washington** **breakout** **military** **role** per [Wikipedia — *Glory*](https://en.wikipedia.org/wiki/Glory_(1989_film)). |
+| **Charlie Sheen** | ***Platoon*** lead after **Brat Pack** / **Wall Street** era | [Wikipedia — *Platoon*](https://en.wikipedia.org/wiki/Platoon_(film)); career **long** but **later** **notoriety** **outside** scope. |
+| **Michael J. Fox** | ***Casualties of War*** alongside **Back to the Future** **era** | [Rotten Tomatoes — *Casualties of War*](https://www.rottentomatoes.com/m/casualties_of_war). |
+| **John Krasinski** | ***The Office*** → ***13 Hours*** → ***Jack Ryan*** | [Wikipedia — John Krasinski](https://en.wikipedia.org/wiki/John_Krasinski). |
+
+### 4.7 Thesis (open)
+
+**Hollywood** and **AAA shooters** **trade** in a **shared** **stock character**: the **American** **SOF / contractor / CIA** **everyman** with **moral** **ambiguity** and **gear fidelity**. **Krasinski** **fan** **demand** in **late 2019** is **evidence** that **cross-media** **priming** **works** on **a mass** **player base** — **without** requiring **Infinity Ward** to **admit** **deliberate** **resemblance** (**Limits** **1**, **5**).
 
 ---
 
@@ -171,6 +216,6 @@ Use this list to **strengthen** the file over time; items overlap **Limits** whe
 
 ---
 
-**Date:** 2026-04-18 — Initial file: original vs reboot premise; Iran–Russia framing; Glasco/Activision cite bundle; Krasinski vs Collins; China–Iran **2025–26** press; cross-links; header PNG; transcript bundle removed. **2026-04-18 (later):** Single **Limits** section; **§7** **weak** **points** **table**; redundant **disclaimers** **stripped** from **body**. **2026-04-18 (later still):** **§ Paradigm Threat synthesis** — **two** **camps** **↔** **antibody**/**deep-state** **virus**; **pro-Israel** **operational** **lane** **as** **antibody-aligned** **sentiment**; **CIA**/**9-11** **cross-links**.
+**Date:** 2026-04-18 — Initial file: original vs reboot premise; Iran–Russia framing; Glasco/Activision cite bundle; Krasinski vs Collins; China–Iran **2025–26** press; cross-links; header PNG; transcript bundle removed. **2026-04-18 (later):** Single **Limits** section; **§7** **weak** **points** **table**; redundant **disclaimers** **stripped** from **body**. **2026-04-18 (later still):** **§ Paradigm Threat synthesis** — **two** **camps** **↔** **antibody**/**deep-state** **virus**; **pro-Israel** **operational** **lane** **as** **antibody-aligned** **sentiment**; **CIA**/**9-11** **cross-links**. **2026-04-18 (§4 expansion):** **GameByte** + **Reddit** as **documented** **mass** **Krasinski** demand; **timeline** (**Jack Ryan** **2018**, **MW2019** **2019-10-25**, article **2019-11-22**); **Krasinski** **Office** → ***13 Hours*** → ***Jack Ryan***; **war-film** **casting** **citations** (**Glory**/**Travers**, ***Platoon*** **casting** **section**, **Hanks**); **illustrative** **star** **table**.
 
 Keywords: #war #call-of-duty #modern-warfare #militainment #iran #russia #infinity-ward #activision #benghazi #13-hours #proxy-war #video-games #antibody #deep-state #israel #cia
