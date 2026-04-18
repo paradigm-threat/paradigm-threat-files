@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:39:45.554Z",
+    "date": "2026-04-18T14:48:07.223Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T14:39:36.000Z",
+    "message": "docs: CoD MW investigation consolidation, instructions, deep dive, 2026 Glasco press",
     "files": [
       {
         "status": "M",
@@ -854,18 +866,6 @@
         "status": "A",
         "path": "history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-screenshot.png",
         "href": "/history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-screenshot.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-14T13:20:40.000Z",
-    "message": "blog: 2026-04-14 pyramid, Artemis, AE911Truth, site share/OG (git log since 2026-04-11)",
-    "files": [
-      {
-        "status": "A",
-        "path": "blog/2026-04-14-pyramid-artemis-investigations-ae911truth-site-share-og.md",
-        "href": "/blog/2026-04-14-pyramid-artemis-investigations-ae911truth-site-share-og"
       }
     ]
   }
