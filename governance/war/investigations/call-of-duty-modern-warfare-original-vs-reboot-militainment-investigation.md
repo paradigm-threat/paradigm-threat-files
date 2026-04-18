@@ -2,7 +2,7 @@
 
 ![Call of Duty Modern Warfare — investigation header graphic](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png?w=1200 '{"className":"rounded-md m-auto"}')
 
-> **TL;DR:** **Infinity Ward’s** original ***Modern Warfare*** **trilogy (2007–2011)** vs **2019–2023 soft reboot**: **Russia** as **peer / WWIII** driver in the old arc vs **arms supplier, PMC, terror** vectors in the new; **Iran** foregrounded in the reboot (**Quds**, **HVT**). **Chance Glasco**–era **Activision** pitch (Iran→Israel game) is **reported**, not adjudicated. **Alex** = **Chad Michael Collins** (wiki). Cross-reads: [Benghazi / *13 Hours*](./dubious-stand-down-orders-libya-benghazi-investigation.md), [CIA / Iran](./cia-investigation.md), [Reverse Crusades](./reverse-crusades-comparison.md). **All interpretive claims are qualified in § Limits and disclaimers.**
+> **TL;DR:** **Infinity Ward’s** original ***Modern Warfare*** **trilogy (2007–2011)** vs **2019–2023 soft reboot**: **Russia** as **peer / WWIII** driver in the old arc vs **arms supplier, PMC, terror** vectors in the new; **Iran** foregrounded in the reboot (**Quds**, **HVT**). **Chance Glasco**–era **Activision** pitch (Iran→Israel game) is **reported**, not adjudicated. **Alex** = **Chad Michael Collins** (wiki). Cross-reads: [Benghazi / *13 Hours*](./dubious-stand-down-orders-libya-benghazi-investigation.md), [CIA / Iran](./cia-investigation.md), [Reverse Crusades](./reverse-crusades-comparison.md). **§ Paradigm Threat synthesis** maps **media “two camps”** to **antibody vs deep-state “virus”** (see [CIA](./cia-investigation.md), [9/11 good-actor antibody](/events/false_flag/investigations/09-11-investigation.md)): **pro-Israel / anti-Iran operational** lane read here as **antibody-aligned**—not **mere** ideology. **All** hedges in **§ Limits and disclaimers.**
 
 ## Status
 
@@ -20,7 +20,7 @@ Read this section once; later sections **do not** repeat these points except whe
 
 3. **No prediction / foreknowledge.** Similarity between **MWII 2022** beats (e.g. **missile** on **Quds** general; **Russia–Iran** arms deal frame) and **real** events (**Jan 2020** strike; **2025–2026** Gulf press) is **pattern resonance** — **not** evidence the studio **knew** future policy.
 
-4. **“Two camps” / audience split.** Used as a **lens** on **competing** **Cold War vs proxy-war** **imaginaries** — **not** that two **literal** **propaganda** shops **own** **old** vs **new** **SKU**.
+4. **“Two camps” / audience split (games and film).** Used as a **lens** on **competing** **Cold War vs proxy-war** **imaginaries** — **not** that two **literal** **propaganda** shops **own** **old** vs **new** **SKU**. **§ Paradigm Threat synthesis** **extends** this **pair** into the **site’s** **antibody / deep-state** **frame** (**hypothesis**, **not** **mainstream** **consensus**).
 
 5. **Cross-investigation links** ([Benghazi](./dubious-stand-down-orders-libya-benghazi-investigation.md), [CIA](./cia-investigation.md), [Reverse Crusades](./reverse-crusades-comparison.md), [Paperclip](./operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md)) are **thematic** **rhymes** — **Konni**/**Makarov** **≠** **documented** **history**; **Krasinski** **≠** **Alex** **actor**.
 
@@ -30,14 +30,29 @@ Read this section once; later sections **do not** repeat these points except whe
 
 8. **Real-world arms** (**§5**). **Reuters**/**CNN** **2025–2026** **sourcing** is **contested** by **quoted** **denials** and **intel** **opacity**; use as **context** for **plausibility** of **game** **premise**, **not** as **verified** **order** **of** **battle**.
 
+9. **Paradigm Threat synthesis** (**§** below). **Antibody**/**deep-state** **read** of **Israel**/**Iran** is **speculative** **site** **thesis** tied to [CIA investigation](./cia-investigation.md) **§IV** **Iran** **pipeline**; it **does** **not** **rest** on **Activision** **fiction** or **FPS** **sales** **data**.
+
+---
+
+## Paradigm Threat synthesis — “two camps,” antibody vs deep-state virus, and the Israel–Iran–nuclear script
+
+Elsewhere on this site, **antibodies** are theorized as counter-forces to a deep-state institutional “virus”: e.g. **NSA** and **good-actor** vectors beside **CIA** covert parasitism — see [CIA investigation](./cia-investigation.md) §§III–IV — and **historic antibody** operations in tension with slow-burn plans — see [9/11 investigation (good-actor historic antibody thesis)](/events/false_flag/investigations/09-11-investigation.md). The **two camps** this file uses for **game/film audiences** (original-trilogy **Russian peer-war fantasy** vs reboot **Iran / proxy / headline realism**) **also map onto** that **antibody vs virus** vocabulary **as metaphor only**: mass culture channels competing fears and loyalties; **Call of Duty** is not forensic evidence for or against covert state theses.
+
+**Author sentiment (site hypothesis, not journalistic fact):** On the reading developed in [CIA §IV — Iran pipeline](./cia-investigation.md), **Washington and London** (with partners) **set up** **both** **Israel** and **Iran** across decades so that **later extremes could collide** in **holy-war** and **nuclear** crisis — the **endgame** the **parasite** needs. In *this* frame, the camp that **looks** **pro-Israel** and **operationally anti-Iran** (pressure to **defuse the bomb**, **strike Quds**, **absorb coalition costs** and **bad press**) is **not** reduced to **Zionist ideology alone**; it is **read here as antibody-aligned** because those moves **target the Iranian nuclear / regional trigger** the deep-state script would **weaponize** for **maximum civilizational damage**.
+
+**Trade-offs the antibody read accepts as unavoidable in any scenario:** erosion of **international standing**, **surge in antisemitism**, **ugly headlines** — not celebrated, but weighed as the **price of playing on a rigged board** instead of **letting the worst timeline run unopposed**. Antibodies in this sentiment **do not claim** to **cancel** deep-state plans wholesale; they aim to **see the script through where it cannot be avoided**, **clip tail risk**, **preserve sovereignty** where possible, and **steer away from maximum-kill outcomes** (nuclear exchange, unbounded regional holy war).
+
+**Interface with *Modern Warfare* fiction:** The reboot’s **Iran / Russia / cartel** plot **rhymes** with **real** **headline war** (HVT, missile, proxy) and is **useful for asking what audiences are trained to fear and cheer** — **not** proof that antibody actors wrote the game or that **Infinity Ward** holds classified knowledge. **IW** developers who **rejected** an **Iran-invades-Israel** pitch (§3) can be read as refusing **one provocation template** while the reboot still delivers **another** MENA pressure cooker (see **Limits**, item 1).
+
 ---
 
 ## Related investigations (cross-reference map)
 
 | Thread in this file | Paradigm Threat investigation | Why link |
 |---------------------|------------------------------|----------|
+| **Antibody** vs **deep-state virus**; **Iran**/**Israel** **pipeline**; **TF141** fiction | [CIA investigation](./cia-investigation.md) | **§§III–IV** (antibody/**NSA**, **Iran** setup) — substrate for **§ Paradigm Threat synthesis**; **Laswell**/**TF141** **vs** pipeline **thesis** |
+| **Historic antibody** vs slow-burn plan | [9/11 — good-actor historic antibody](/events/false_flag/investigations/09-11-investigation.md) | Parallel **antibody** vocabulary |
 | **Benghazi**, **contractors**, **operator** cinema, **Krasinski** | [Dubious stand-down orders — Libya / Benghazi](./dubious-stand-down-orders-libya-benghazi-investigation.md) | Shared **PMC/CIA/SOF** **narrative** **ecology**; ***13 Hours*** **cluster** |
-| **Iran**, **SAD**, **covert** **war** | [CIA investigation](./cia-investigation.md) | **TF141**/**Laswell** **lane** **vs** **§IV** **Iran** **pipeline** **thesis** |
 | **Russia** **2022** **media** **adversary** **vs** **game** **PMC** | [The Four Reverse Crusades](./reverse-crusades-comparison.md) | **NATO–Russia** **frame** **beside** **fictional** **arc** |
 | **Homeland** **security** **culture** | [U.S. citizens vs federal armed confrontations](./us-citizens-vs-federal-armed-confrontations-investigation.md) | Militainment / exercise mood (loose) |
 | **Trump** **/ Iran** **news** **vs** **credibility** | [Artemis II as faith test](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) | **§12** **incentive** **sketch** |
@@ -116,6 +131,8 @@ If accurate, the story indicates **publisher** **interest** in a **hot** **Middl
 
 **Working frame:** **Original** **MW** **trilogy** **popularized** a **Russian** **peer** **enemy** **fantasy**; **reboot** **emphasizes** **Iran** **+** **non-state** **+** **PMC** **as** **antagonists** **while** **centering** **TF141** **as** **moral** **anchor**. **Causal** **links** to **recruitment** or **policy** **are** **not** **claimed** here (**Limits**, item **7**).
 
+**Hook to synthesis:** The **shift** **of** **enemy** **imagery** **from** **Russian** **total** **war** **to** **Iran**/**proxy** **headlines** **tracks** **the** **same** **rough** **fault** **line** **as** **§ Paradigm Threat synthesis** — **which** **story** **mass** **culture** **is** **asked** **to** **rehearse** **when** **real** **policy** **turns** **toward** **the** **Gulf** **(Limits**, **items** **4**, **9**)**.
+
 ---
 
 ## 7. Weak points, gaps, and research TODOs
@@ -124,6 +141,7 @@ Use this list to **strengthen** the file over time; items overlap **Limits** whe
 
 | Gap | Why it weakens the investigation | Possible strengtheners |
 |-----|-----------------------------------|-------------------------|
+| **Antibody** synthesis untested against named actors | § Paradigm Threat synthesis is not attributed to specific governments or persons | Optional: public speeches, sanctions timeline vs game release windows |
 | **Glasco** **unchallenged** **primary** | Story is **press**/**X** **relay**; **no** **corroborating** **IW** **names** or **Activision** **on-record** **denial**/**confirm** | FOIA **unlikely**; **trade** **press** **archives**; **watch** **Microsoft** **acquisition** **era** **statements** |
 | **No** **sales**/**demographic** **data** | **“Youth”**/**boys** **thesis** is **intuitive**, **not** **measured** here | **ESA**, **industry** **reports**, **peer** **papers** on **militainment** **+** **age** |
 | **MWIII** **underdeveloped** | **Konni**/**Makarov** **thread** **named** in **TODO** **only** | **Playthrough** **summary** **or** **secondary** **plot** **recap** **vs** [Reverse Crusades](./reverse-crusades-comparison.md) |
@@ -143,8 +161,9 @@ Use this list to **strengthen** the file over time; items overlap **Limits** whe
 
 ## 8. Cross-links
 
+- [CIA investigation](./cia-investigation.md) — **Iran** **pipeline**, **antibody**/**NSA** **thesis**
+- [9/11 — good-actor historic antibody](/events/false_flag/investigations/09-11-investigation.md)
 - [Dubious stand-down orders — Benghazi / *13 Hours*](./dubious-stand-down-orders-libya-benghazi-investigation.md)
-- [CIA investigation](./cia-investigation.md)
 - [Reverse Crusades comparison](./reverse-crusades-comparison.md)
 - [U.S. citizens vs federal armed confrontations](./us-citizens-vs-federal-armed-confrontations-investigation.md)
 - [Artemis II faith test](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md)
@@ -152,6 +171,6 @@ Use this list to **strengthen** the file over time; items overlap **Limits** whe
 
 ---
 
-**Date:** 2026-04-18 — Initial file: original vs reboot premise; Iran–Russia framing; Glasco/Activision cite bundle; Krasinski vs Collins; China–Iran **2025–26** press; cross-links; header PNG; transcript bundle removed. **2026-04-18 (later):** Single **Limits** section; **§7** **weak** **points** **table**; redundant **disclaimers** **stripped** from **body**.
+**Date:** 2026-04-18 — Initial file: original vs reboot premise; Iran–Russia framing; Glasco/Activision cite bundle; Krasinski vs Collins; China–Iran **2025–26** press; cross-links; header PNG; transcript bundle removed. **2026-04-18 (later):** Single **Limits** section; **§7** **weak** **points** **table**; redundant **disclaimers** **stripped** from **body**. **2026-04-18 (later still):** **§ Paradigm Threat synthesis** — **two** **camps** **↔** **antibody**/**deep-state** **virus**; **pro-Israel** **operational** **lane** **as** **antibody-aligned** **sentiment**; **CIA**/**9-11** **cross-links**.
 
-Keywords: #war #call-of-duty #modern-warfare #militainment #iran #russia #infinity-ward #activision #benghazi #13-hours #proxy-war #video-games
+Keywords: #war #call-of-duty #modern-warfare #militainment #iran #russia #infinity-ward #activision #benghazi #13-hours #proxy-war #video-games #antibody #deep-state #israel #cia

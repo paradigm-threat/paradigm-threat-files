@@ -490,7 +490,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-18T13:59:14Z"
+    "_updated": "2026-04-18T14:14:52Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5961,9 +5961,13 @@
             "benghazi",
             "13-hours",
             "proxy-war",
-            "video-games"
+            "video-games",
+            "antibody",
+            "deep-state",
+            "israel",
+            "cia"
           ],
-          "_updated": "2026-04-18T13:59:14Z"
+          "_updated": "2026-04-18T14:14:52Z"
         },
         "call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png": {
           "_width": 1536,
@@ -14016,5 +14020,5 @@
     "_count": 153
   },
   "_count": 1972,
-  "_version": "54c81fe"
+  "_version": "00cc5a6"
 }

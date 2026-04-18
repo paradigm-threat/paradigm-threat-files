@@ -1,8 +1,25 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:15:03.102Z",
+    "date": "2026-04-18T14:19:03.495Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/page.md",
+        "href": "/governance/war/investigations"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T14:14:52.000Z",
+    "message": "CoD investigation: consolidate disclaimers; add weak-points table",
     "files": [
       {
         "status": "M",
@@ -859,18 +876,6 @@
         "status": "A",
         "path": "history/chronology/investigations/view-over-atlantis-michell-investigation.png",
         "href": "/history/chronology/investigations/view-over-atlantis-michell-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-13T12:57:30.000Z",
-    "message": "docs(investigations): expand Michell ley-line account and sources",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/view-over-atlantis-michell-investigation.md",
-        "href": "/history/chronology/investigations/view-over-atlantis-michell-investigation"
       }
     ]
   }
