@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:51:08.893Z",
+    "date": "2026-04-18T14:53:26.001Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T14:50:58.000Z",
+    "message": "docs(CoD): note Booze Cruise Superfan SRT path on media volume",
     "files": [
       {
         "status": "M",
@@ -844,18 +866,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-14T13:29:53.000Z",
     "message": "Artemis II §5.5: add X longer-mirror URL for phone-preview walkout clip",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
-        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-14T13:27:30.000Z",
-    "message": "Artemis II §5.6: web search log for walkout preview claim + general preview tech cites",
     "files": [
       {
         "status": "M",

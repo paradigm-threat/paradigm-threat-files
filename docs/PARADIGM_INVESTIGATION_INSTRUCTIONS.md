@@ -16,6 +16,13 @@
 8. **Weak points / TODOs** — table + short checkbox list.
 9. **Keywords** — hashtags for index/search.
 10. **Date line** — last substantive update; trim verbose changelog if git history suffices.
+11. **Investigator notes (optional, end of file)** — single appendix for **maintainers and LLMs**: local machine paths, subtitle file locations, grep/session hints, scratch items **specific to continuing this investigation**. Do **not** put these through §§1–7 or the Guide. See **Online vs local content** below.
+
+### Online vs local content
+
+- **Online readers** (static site, GitLab browse, strangers cloning the repo) have **no access** to the author’s OS paths (`/home/…`, `/media/…`, `C:\…`, etc.). Those paths **do not belong** in the main investigation text, Limits, Related table, or scattered footnotes.
+- Keep the body to **repo-relative links** (`/docs/…`, `/governance/…`), public URLs, and citable secondary sources.
+- Put machine-local paths and assistant-only reminders in **one block at the end** of the `.md` file (after Keywords is fine), clearly titled (e.g. **Investigator notes**) so everyday readers can stop after Keywords.
 
 ### Reorganization (when asked to simplify)
 
@@ -55,4 +62,4 @@ When discussing defense budgets vs commercial games: cite **parallel ecosystems*
 
 ---
 
-**Date:** 2026-04-18 — Initial instructions from *Call of Duty: Modern Warfare* investigation session (reorg, citations, clue threads, funding sections). **Update:** reorganization rules (no data loss, deep dive + page.md on close, push all remotes).
+**Date:** 2026-04-18 — Initial instructions from *Call of Duty: Modern Warfare* investigation session (reorg, citations, clue threads, funding sections). **Updates:** reorganization rules (no data loss, deep dive + page.md on close, push all remotes); **online vs local** — no absolute OS paths in body; optional **Investigator notes** appendix at file end for LLM/maintainer paths.
