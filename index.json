@@ -490,7 +490,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-18T14:14:52Z"
+    "_updated": "2026-04-18T14:18:54Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5967,7 +5967,7 @@
             "israel",
             "cia"
           ],
-          "_updated": "2026-04-18T14:14:52Z"
+          "_updated": "2026-04-18T14:18:54Z"
         },
         "call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png": {
           "_width": 1536,
@@ -6156,7 +6156,7 @@
           "_keywords": [
             "war"
           ],
-          "_updated": "2026-04-18T13:59:14Z"
+          "_updated": "2026-04-18T14:18:54Z"
         },
         "pitcairn-bounty-mutiny-sovereignty-and-narratives.md": {
           "_title": "Pitcairn: Bounty mutiny narratives, sovereignty, and modern law",
@@ -14020,5 +14020,5 @@
     "_count": 153
   },
   "_count": 1972,
-  "_version": "00cc5a6"
+  "_version": "d6e53c2"
 }
