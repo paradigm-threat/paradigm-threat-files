@@ -490,7 +490,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-18T13:54:05Z"
+    "_updated": "2026-04-18T13:59:14Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5963,13 +5963,13 @@
             "proxy-war",
             "video-games"
           ],
-          "_updated": "2026-04-18T13:54:05Z"
+          "_updated": "2026-04-18T13:59:14Z"
         },
         "call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png": {
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JbACdAB81l40uAAA/kh8HiZoKoLotSGeNguIyEozXG/KEyusqZjA9ztPkuuxUdLPNERfXzYXkAAA",
-          "_updated": "2026-04-18T13:56:31Z"
+          "_updated": "2026-04-18T13:59:14Z"
         },
         "cia-investigation.md": {
           "_title": "Investigation: CIA \u2014 OSS Rebrand, Nazi Gold, Iran, 9/11, and the Antibody Thesis",
@@ -6152,7 +6152,7 @@
           "_keywords": [
             "war"
           ],
-          "_updated": "2026-04-18T13:54:05Z"
+          "_updated": "2026-04-18T13:59:14Z"
         },
         "pitcairn-bounty-mutiny-sovereignty-and-narratives.md": {
           "_title": "Pitcairn: Bounty mutiny narratives, sovereignty, and modern law",
@@ -14016,5 +14016,5 @@
     "_count": 153
   },
   "_count": 1972,
-  "_version": "793f6bd"
+  "_version": "54c81fe"
 }
