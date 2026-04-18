@@ -70,6 +70,7 @@ Elsewhere on this site, antibodies are theorized as counter-forces to a deep-sta
 | Homeland security culture | [U.S. citizens vs federal armed confrontations](./us-citizens-vs-federal-armed-confrontations-investigation.md) | Militainment / exercise mood (loose) |
 | Trump / Iran news vs credibility | [Artemis II as faith test](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) | §12 incentive sketch |
 | Ukraine / asset threads | [Operation Paperclip](./operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) | Site index themes only |
+| U.S. *Office*, media GOP gridlock, Cruz breakthrough | [Ted Cruz, Kevin Malone — hijacked plan](./cruz-kevin-malone-deep-state-hypothesis-investigation.md) | Site treats **American** *The Office* (not U.K.) as **antibody** vs media-driven primary gridlock; full author frame in that file — rhymes with **§ Paradigm Threat synthesis** |
 
 ---
 
@@ -168,6 +169,8 @@ Hollywood has long cast familiar faces into uniform for Vietnam and Civil War ep
 | John Krasinski | *The Office* → *13 Hours* → *Jack Ryan* | [Wikipedia — John Krasinski](https://en.wikipedia.org/wiki/John_Krasinski). |
 
 ### 4.6 *The Office* — *Hunt for Red October*, Jim, and “pretend CIA” (clue thread)
+
+**Paradigm Threat site frame (GOP / Cruz):** This site treats the **entire U.S. *The Office*** (2005–2013; **not** the U.K. original) as operating in part as an **antibody**—counter-programming relative to **Ted Cruz’s attempt to break through media-driven GOP political gridlock**. Author positioning and limits: **[Ted Cruz, Kevin Malone (*The Office*), and the “Hijacked Plan” Hypothesis](./cruz-kevin-malone-deep-state-hypothesis-investigation.md#author-frame--us-the-office-not-uk-as-antibody)**. That lens **does not** change the citable on-screen clue work below; it **does** tie Krasinski’s Jim arc to the same **antibody / “two camps”** vocabulary as **§ Paradigm Threat synthesis**.
 
 **What is on screen (citable):** Season 2, “Booze Cruise” (aired 2006-01-05). Michael invokes *Titanic*; Pam says “I think you're thinking of *The Hunt for Red October*.” Jim piles on: “Not really sure what movie you're talking about. Are you sure you got the title right?” — part of a bit where Pam and Jim pretend ignorance of *Titanic*. Surface reading: Michael has mixed up two boat movies. [Wikipedia — “Booze Cruise”](https://en.wikipedia.org/wiki/Booze_Cruise_(The_Office)) (cultural references); [IMDb — episode quotes](https://www.imdb.com/title/tt0664511/).
 
@@ -268,7 +271,7 @@ Use this list to strengthen the file over time; items overlap Limits where noted
 
 ---
 
-**Date:** 2026-04-18 — **Consolidation pass:** [Reader Guide](#guide-read-order); merged duplicate “Cross-links” into [Related investigations](#related-investigations); §4 renumbered (sample list §4.5; *Office* clues §4.6; thesis §4.7); §6 references §2.2 instead of repeating premise; synthesis hook folded into §6.3 end. Author instructions: [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md). **2026 session:** §4.6 *Office* clue thread (Krasinski / Jack Ryan / Red October / CIA); **extra rhymes** table (Golden Ticket, *The Lover* + Booze/Benihana); “time machine feeling” vs no literal precognition; local path details in [Investigator notes](#investigator-notes). Earlier edits: git history.
+**Date:** 2026-04-18 — **§4.6 / Related:** U.S. *Office* as antibody vs Cruz / media GOP gridlock (link to [Cruz–Kevin investigation](./cruz-kevin-malone-deep-state-hypothesis-investigation.md#author-frame--us-the-office-not-uk-as-antibody); U.K. out of scope). **Consolidation pass (earlier 2026-04-18):** [Reader Guide](#guide-read-order); merged duplicate “Cross-links” into [Related investigations](#related-investigations); §4 renumbered (sample list §4.5; *Office* clues §4.6; thesis §4.7); §6 references §2.2 instead of repeating premise; synthesis hook folded into §6.3 end. Author instructions: [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md). **2026 session:** §4.6 *Office* clue thread (Krasinski / Jack Ryan / Red October / CIA); **extra rhymes** table (Golden Ticket, *The Lover* + Booze/Benihana); “time machine feeling” vs no literal precognition; local path details in [Investigator notes](#investigator-notes). Earlier edits: git history.
 
 Keywords: #war #call-of-duty #modern-warfare #militainment #iran #russia #infinity-ward #activision #benghazi #13-hours #proxy-war #video-games #antibody #deep-state #israel #cia
 
