@@ -8,6 +8,18 @@
 
 **Open.** Mixes citable developer interviews and games press with site hypothesis lanes; does not close the case on who steers popular war imagination.
 
+## Guide (read order)
+
+1. **Limits and disclaimers** — how this file uses evidence vs fiction; cross-links are thematic.
+2. **Paradigm Threat synthesis** — site “two camps” / antibody vs deep-state frame (Israel–Iran script).
+3. **§§1–2** — why the 2019 SKU is a reboot; original trilogy (Russia / WWIII tone) vs reboot (Iran, proxies, PMCs).
+4. **§3** — Glasco / Activision “Iran attacks Israel” pitch (games press only).
+5. **§4** — Alex actor, Krasinski, audience, war-film pattern, *Office* clues, closing thesis on archetypes.
+6. **§5** — 2025–26 arms headlines (real-world context for game premises).
+7. **§6** — militainment; **who paid** (taxpayer/sim vs Activision); sentiment on overlap.
+8. **§7** — gaps and research TODOs.
+9. **Related investigations** — table of other site files (same links as a former duplicate list; merged here).
+
 ---
 
 ## Limits and disclaimers
@@ -46,7 +58,7 @@ Elsewhere on this site, antibodies are theorized as counter-forces to a deep-sta
 
 ---
 
-## Related investigations (cross-reference map)
+## Related investigations
 
 | Thread in this file | Paradigm Threat investigation | Why link |
 |---------------------|------------------------------|----------|
@@ -101,6 +113,8 @@ Elsewhere on this site, antibodies are theorized as counter-forces to a deep-sta
 - [Eurogamer](https://www.eurogamer.net/call-of-duty-co-founder-claims-activision-put-very-awkward-pressure-on-infinity-ward-to-make-a-game-about-iran-attacking-israel)
 - [Kotaku](https://kotaku.com/call-of-duty-activision-iran-israel-trump-white-house-2000676269)
 
+**2026 press cycle (White House video / Iran strikes context):** Glasco’s posts were widely quoted again after a White House social clip used Call of Duty–style UI over strike footage (Mar 2026). Example: [VGC — 2026-03-05](https://www.videogameschronicle.com/news/call-of-duty-co-founder-alleges-activision-pressured-infinity-ward-to-make-game-about-iran-invading-israel/). [Eurogamer](https://www.eurogamer.net/call-of-duty-co-founder-claims-activision-put-very-awkward-pressure-on-infinity-ward-to-make-a-game-about-iran-attacking-israel) states it **contacted Activision for comment**; **no quoted Activision response** appears in that article as consolidated here — still treat publisher silence vs allegation as an open evidence gap (§7).
+
 If accurate, the story indicates publisher interest in a hot Middle East scenario in the early 2010s — orthogonal to whether MW 2019 was written to that brief (see Limits, items 2 and 6).
 
 ---
@@ -119,7 +133,7 @@ If accurate, the story indicates publisher interest in a hot Middle East scenari
 
 [GameByte — *Modern Warfare Players Really, Really Want John Krasinski In The Game*](https://gamebyte.com/modern-warfare-players-really-really-want-john-krasinski-in-the-game/) (published **2019-11-22**, per page metadata) summarizes r/modernwarfare demand: it links [this Reddit thread](https://www.reddit.com/r/modernwarfare/comments/dz2pup/only_celebrity_operator_i_would_want_is_john/) (user Torryan) and reports “over 17k” upvotes; the piece itself notes a Jack Ryan still “could be straight out of Modern Warfare.” That is secondary games press, but it aggregates what thousands of players already did in public — the same intuition informal commentary often voices (“Alex looks like Jim”): everyman face + tactical kit + prior Krasinski-as-operator imagery.
 
-### 4.3 Timeline — why the overlap was *already* loaded before Nov. 2019
+### 4.3 Timeline and career arc — why the overlap was loaded before Nov. 2019
 
 | Milestone | Date (sourced) |
 |-----------|----------------|
@@ -128,13 +142,9 @@ If accurate, the story indicates publisher interest in a hot Middle East scenari
 | *Call of Duty: Modern Warfare* (2019) release | 2019-10-25 — [Wikipedia — *CoD: MW* (2019)](https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(2019_video_game)) |
 | GameByte / Reddit Krasinski-as-operator roundup | 2019-11-22 (article) — [GameByte](https://gamebyte.com/modern-warfare-players-really-really-want-john-krasinski-in-the-game/) |
 
-**Read:** By retail launch, many buyers had already seen more than a decade of Jim Halpert plus ~14 months of Jack Ryan S1 and press images. The GameByte piece lands after launch — it documents sentiment in the wild, not invention by one blog.
+By retail launch, many buyers had already seen more than a decade of Jim Halpert plus ~14 months of Jack Ryan S1 and press images; the GameByte piece after launch documents sentiment already in public. [Wikipedia — John Krasinski](https://en.wikipedia.org/wiki/John_Krasinski) lays out the star path: *The Office* (2005–2013) → *13 Hours* (2016), then *Jack Ryan* (2018–2023) — i.e. multiple high-budget “operator” data points before MW 2019.
 
-### 4.4 Career arc — comedy / “regular guy” → prestige war operator (Krasinski)
-
-[Wikipedia — John Krasinski](https://en.wikipedia.org/wiki/John_Krasinski) summarizes the arc this file cares about: breakout Jim Halpert on *The Office* (2005–2013); then *13 Hours* (2016) with physical transformation for a former SEAL role; then *Jack Ryan* (2018–2023). That is exactly the non-war → war star path the user section asks to flag: audiences had multiple high-budget data points for Krasinski in plate carrier before MW 2019.
-
-### 4.5 Pattern — bankable / “everyman” males in prestige war films (not a new thesis, but citable hooks)
+### 4.4 Pattern — bankable “everyman” males in prestige war films (citable hooks; sample table in §4.5)
 
 Hollywood has long cast familiar faces into uniform for Vietnam and Civil War epics; reception sometimes attacks the fit when the star’s prior persona clashes with gravitas.
 
@@ -145,7 +155,7 @@ Hollywood has long cast familiar faces into uniform for Vietnam and Civil War ep
 
 **Caveat:** We did **not** locate a single peer-reviewed paper that names “1990s–2000s heartthrobs in war movies” as a formal trend. The pattern here is assembled from film-history facts, casting revelations, and review language — useful for this investigation’s cross-media archetype claim, **not** as social-science proof.
 
-### 4.6 Sample list — war / military prestige roles and lasting careers (illustrative, not exhaustive)
+### 4.5 Sample list — war / military prestige roles and lasting careers (illustrative, not exhaustive)
 
 | Figure | Rough “non-war → war / uniform” beat | Why it matters for lasting career |
 |--------|--------------------------------------|----------------------------------------|
@@ -156,7 +166,7 @@ Hollywood has long cast familiar faces into uniform for Vietnam and Civil War ep
 | Michael J. Fox | *Casualties of War* alongside *Back to the Future* era | [Rotten Tomatoes — *Casualties of War*](https://www.rottentomatoes.com/m/casualties_of_war). |
 | John Krasinski | *The Office* → *13 Hours* → *Jack Ryan* | [Wikipedia — John Krasinski](https://en.wikipedia.org/wiki/John_Krasinski). |
 
-### 4.7 *The Office* — *Hunt for Red October*, Jim, and “pretend CIA” (clue thread)
+### 4.6 *The Office* — *Hunt for Red October*, Jim, and “pretend CIA” (clue thread)
 
 **What is on screen (citable):** Season 2, “Booze Cruise” (aired 2006-01-05). Michael invokes *Titanic*; Pam says “I think you're thinking of *The Hunt for Red October*.” Jim piles on: “Not really sure what movie you're talking about. Are you sure you got the title right?” — part of a bit where Pam and Jim pretend ignorance of *Titanic*. Surface reading: Michael has mixed up two boat movies. [Wikipedia — “Booze Cruise”](https://en.wikipedia.org/wiki/Booze_Cruise_(The_Office)) (cultural references); [IMDb — episode quotes](https://www.imdb.com/title/tt0664511/).
 
@@ -166,7 +176,7 @@ Hollywood has long cast familiar faces into uniform for Vietnam and Civil War ep
 
 **Author note:** The moment plays funny but not in the same “clear joke” register as flagship Office bits; it exemplifies a pattern this file cares about — top-tier gags intercut with odd, flat, or confusing lines that may carry double meaning for long-arc irony.
 
-### 4.8 Thesis (open)
+### 4.7 Thesis (open)
 
 Hollywood and AAA shooters trade in a shared stock character: the American SOF / contractor / CIA everyman with moral ambiguity and gear fidelity. Krasinski fan demand in late 2019 is evidence that cross-media priming works on a mass player base — **without** requiring Infinity Ward to admit deliberate resemblance (Limits 1, 5).
 
@@ -184,7 +194,7 @@ Hollywood and AAA shooters trade in a shared stock character: the American SOF /
 
 **Militainment** (war as consumable spectacle) is discussed in academic and journalistic literature; FPS blockbusters participate in that economy. This site’s closest paired analysis is [Benghazi investigation](./dubious-stand-down-orders-libya-benghazi-investigation.md) on *13 Hours* / *Lions for Lambs* / *Three Kings*.
 
-**Working frame:** Original MW trilogy popularized a Russian peer-enemy fantasy; reboot emphasizes Iran + non-state + PMC as antagonists while centering TF141 as moral anchor. Causal links to recruitment or policy are **not** claimed here (Limits, item 7).
+The Russia-vs-Iran/proxy **premise contrast** is already stated in **§2.2**; this section adds the militainment label, **money flows** (§6.1–6.2), and **sentiment** on defense vs commercial overlap (§6.3). Causal links to recruitment or policy are **not** claimed here (Limits, item 7). For the site’s **Israel–Iran “two camps”** read, see **§ Paradigm Threat synthesis** above.
 
 ### 6.1 Taxpayer and defense-agency money on game tech (parallel track, not “CoD’s checkbook”)
 
@@ -211,9 +221,7 @@ Sports titles in the same era similarly rode broadcast licensing, annual franchi
 
 ### 6.3 Site sentiment — “better than greedy investors betting on gore”
 
-The skepticism is fair: venture capital alone does not explain why certain franchises hit peak cinematic craft. Talent density, engine iteration (e.g. IW’s id Tech lineage and heavily modified console-generation leaps), Hollywood-style production pipelines (editing, score, mocap, marketing as event cinema), and feedback loops from mass sales reinvested into next budgets are the documented commercial mechanism. Defense money did help normalize military-simulation literacy and fund adjacent engine R&D (serious games, VBS, DARWARS), which feeds a cultural and talent ecosystem — but on paper, Call of Duty’s blockbuster production is Activision’s balance sheet, not a line item in Army recruitment FOIA for *America’s Army*. The unease this file names is the overlap: same decades, same realism aesthetic, same engine families in some rooms — **without** collapsing into the conspiracy that DOD storyboarded MW missions (Limits 1, 7).
-
-**Hook to synthesis:** The shift of enemy imagery from Russian total war to Iran/proxy headlines tracks the same rough fault line as **§ Paradigm Threat synthesis** — which story mass culture is asked to rehearse when real policy turns toward the Gulf (Limits, items 4, 9).
+The skepticism is fair: venture capital alone does not explain why certain franchises hit peak cinematic craft. Talent density, engine iteration (e.g. IW’s id Tech lineage and heavily modified console-generation leaps), Hollywood-style production pipelines (editing, score, mocap, marketing as event cinema), and feedback loops from mass sales reinvested into next budgets are the documented commercial mechanism. Defense money did help normalize military-simulation literacy and fund adjacent engine R&D (serious games, VBS, DARWARS), which feeds a cultural and talent ecosystem — but on paper, Call of Duty’s blockbuster production is Activision’s balance sheet, not a line item in Army recruitment FOIA for *America’s Army*. The unease this file names is the overlap: same decades, same realism aesthetic, same engine families in some rooms — **without** collapsing into the conspiracy that DOD storyboarded MW missions (Limits 1, 7). The shift of enemy imagery (§2.2) toward Iran/proxy headlines sits on the same rough fault line as **§ Paradigm Threat synthesis** — which story mass culture rehearses when real policy turns Gulf-ward (Limits, items 4, 9).
 
 ---
 
@@ -236,24 +244,12 @@ Use this list to strengthen the file over time; items overlap Limits where noted
 
 **Checkbox TODOs** (subset of table):
 
-- [ ] Primary Activision or Microsoft statement on Glasco claims (if published).
+- [ ] Primary Activision or Microsoft statement on Glasco claims (Eurogamer Mar 2026 reported contacting Activision; no on-record reply cited there—still flag if a statement appears).
 - [ ] Archive White House / political use of CoD footage 2026 (URL, date).
 - [ ] MWIII Makarov/Konni arc paragraph vs [Reverse Crusades](./reverse-crusades-comparison.md).
 
 ---
 
-## 8. Cross-links
-
-- [CIA investigation](./cia-investigation.md) — Iran pipeline, antibody/NSA thesis
-- [9/11 — good-actor historic antibody](/events/false_flag/investigations/09-11-investigation.md)
-- [Dubious stand-down orders — Benghazi / *13 Hours*](./dubious-stand-down-orders-libya-benghazi-investigation.md)
-- [Reverse Crusades comparison](./reverse-crusades-comparison.md)
-- [U.S. citizens vs federal armed confrontations](./us-citizens-vs-federal-armed-confrontations-investigation.md)
-- [Artemis II faith test](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md)
-- [Operation Paperclip / WWII narrative](./operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md)
-
----
-
-**Date:** 2026-04-18 — Initial file: original vs reboot premise; Iran–Russia framing; Glasco/Activision cite bundle; Krasinski vs Collins; China–Iran 2025–26 press; cross-links; header PNG; transcript bundle removed. 2026-04-18 (later): single Limits section; §7 weak-points table; redundant disclaimers stripped from body. 2026-04-18 (later still): § Paradigm Threat synthesis — two camps ↔ antibody/deep-state virus; pro-Israel operational lane as antibody-aligned sentiment; CIA/9-11 cross-links. 2026-04-18 (§4 expansion): GameByte + Reddit as documented mass Krasinski demand; timeline (Jack Ryan 2018, MW2019 2019-10-25, article 2019-11-22); Krasinski Office → *13 Hours* → *Jack Ryan*; war-film casting citations (Glory/Travers, *Platoon* casting section, Hanks); illustrative star table. 2026-04-18: reduced bolding body-wide for readability. 2026-04-18 (§6.1–6.3): defense/tax vs commercial AAA funding (America’s Army FOIA, DARWARS, VBS/GFT, DARPA Gamebreaker; Activision/IW, *LAT* MW2 budget, SI/Game File); sentiment on engines and “Hollywood” production. 2026-04-18 (§4.7): *The Office* “Booze Cruise” *Hunt for Red October* beat + Jim/Pam CIA-adjacent bits; clue thread and author note on odd intercut jokes.
+**Date:** 2026-04-18 — **Consolidation pass:** [Reader Guide](#guide-read-order); merged duplicate “Cross-links” into [Related investigations](#related-investigations); §4 renumbered (sample list §4.5; *Office* clues §4.6; thesis §4.7); §6 references §2.2 instead of repeating premise; synthesis hook folded into §6.3 end. Author instructions: [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md). Earlier edits: see git history.
 
 Keywords: #war #call-of-duty #modern-warfare #militainment #iran #russia #infinity-ward #activision #benghazi #13-hours #proxy-war #video-games #antibody #deep-state #israel #cia

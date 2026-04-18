@@ -1,8 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:35:03.062Z",
+    "date": "2026-04-18T14:39:45.554Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "A",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/page.md",
+        "href": "/governance/war/investigations"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T14:34:53.000Z",
+    "message": "§4.7: Office Booze Cruise Red October + Jim CIA-adjacent clues; thesis → §4.8",
     "files": [
       {
         "status": "M",
@@ -839,18 +866,6 @@
         "status": "A",
         "path": "blog/2026-04-14-pyramid-artemis-investigations-ae911truth-site-share-og.md",
         "href": "/blog/2026-04-14-pyramid-artemis-investigations-ae911truth-site-share-og"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-14T12:59:23.000Z",
-    "message": "Artemis II §5.5: repeat search negative; call for witnesses to contact maintainer",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
-        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
       }
     ]
   }
