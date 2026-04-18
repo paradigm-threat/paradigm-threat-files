@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:32:50.540Z",
+    "date": "2026-04-18T14:35:03.062Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T14:32:41.000Z",
+    "message": "§6.1–6.3: defense vs commercial funding for game engines and cinematic AAA",
     "files": [
       {
         "status": "M",
@@ -834,18 +846,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-14T12:59:23.000Z",
     "message": "Artemis II §5.5: repeat search negative; call for witnesses to contact maintainer",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
-        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-14T12:30:30.000Z",
-    "message": "Artemis II investigation: debunk corpus, for-profit opposition thesis, April 1 / Trump notes",
     "files": [
       {
         "status": "M",
