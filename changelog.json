@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:27:54.463Z",
+    "date": "2026-04-18T14:30:51.129Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T14:27:44.000Z",
+    "message": "Expand §4: Krasinski timeline, GameByte/Reddit, war-film casting pattern",
     "files": [
       {
         "status": "M",
@@ -849,28 +861,6 @@
         "status": "M",
         "path": "history/chronology/investigations/index-investigations.md",
         "href": "/history/chronology/investigations/index-investigations"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-14T11:53:58.000Z",
-    "message": "docs(investigations): Les Brown The Pyramid (1978) chapter notes",
-    "files": [
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/les-brown-pyramid-chapter-summaries.md",
-        "href": "/history/chronology/investigations/les-brown-pyramid-chapter-summaries"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/the-pyramid-les-brown-investigation.md",
-        "href": "/history/chronology/investigations/the-pyramid-les-brown-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/the-pyramid-les-brown-investigation.png",
-        "href": "/history/chronology/investigations/the-pyramid-les-brown-investigation.png"
       }
     ]
   }
