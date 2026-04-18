@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:57:29.251Z",
+    "date": "2026-04-18T16:00:34.337Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "blog/2026-04-18-cod-mw-militainment-spore-blood-rain-tts-unicode.md",
+        "href": "/blog/2026-04-18-cod-mw-militainment-spore-blood-rain-tts-unicode"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T14:57:19.000Z",
+    "message": "Investigations: U.S. The Office as antibody; CoD file links Cruz thesis",
     "files": [
       {
         "status": "M",
@@ -859,18 +871,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-14T23:54:13.000Z",
     "message": "Investigation: rewrite TL;DR around faith test, Revelation of the Method, tax compliance",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
-        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-14T23:41:28.000Z",
-    "message": "Investigation: TL;DR; §13 IRS legality, First Fruits 1534, Cold War/MIC",
     "files": [
       {
         "status": "M",

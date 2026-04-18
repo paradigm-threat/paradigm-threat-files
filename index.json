@@ -467,6 +467,10 @@
       "_title": "Pyramid-stack and Artemis II investigations; AE911Truth file; war and suppression files; timeline appendix cites; site share modal, `/files` proxy, and OG descriptions \u2014 April 2026",
       "_updated": "2026-04-14T12:00:00Z"
     },
+    "2026-04-18-cod-mw-militainment-spore-blood-rain-tts-unicode.md": {
+      "_title": "*Call of Duty* Modern Warfare militainment investigation; spore / blood-rain mudflood files; Cruz / Office cross-reads; editor docs; timeline PP links; TTS Unicode arrows \u2014 April 2026",
+      "_updated": "2026-04-18T12:00:00Z"
+    },
     "page.md": {
       "_title": "Blog",
       "_keywords": [
@@ -474,7 +478,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 34
+    "_count": 35
   },
   "book": {
     "page.md": {
@@ -490,7 +494,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-18T14:54:10Z"
+    "_updated": "2026-04-18T14:57:19Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5967,7 +5971,7 @@
             "israel",
             "cia"
           ],
-          "_updated": "2026-04-18T14:54:10Z"
+          "_updated": "2026-04-18T14:57:19Z"
         },
         "call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png": {
           "_width": 1536,
@@ -6011,7 +6015,7 @@
             "blackmail",
             "investigationopen"
           ],
-          "_updated": "2026-04-11T13:59:32Z"
+          "_updated": "2026-04-18T14:57:19Z"
         },
         "cruz-kevin-malone-deep-state-hypothesis-investigation.png": {
           "_width": 1536,
@@ -14025,6 +14029,6 @@
     },
     "_count": 153
   },
-  "_count": 1973,
-  "_version": "14f18e4"
+  "_count": 1974,
+  "_version": "d540c96"
 }
