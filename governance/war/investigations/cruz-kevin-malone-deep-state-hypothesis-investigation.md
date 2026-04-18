@@ -14,7 +14,11 @@ This investigation treats a **21st-century American national-security class of p
 
 The sections below document **memes**, **timelines**, ***Office*** **dialogue patterns**, and **mainstream calendar facts** (actors, shoots, oaths) as **supporting material** for that arc. This file’s **narrow** focus is **Cruz**, **Kevin**, and **Jade Helm**; the **macro** blackmail-and-Angry-Birds stack is developed in the **[armed confrontations investigation](./us-citizens-vs-federal-armed-confrontations-investigation.md#jade-helm-hypothesis-stack)** and the **[extended hypothesis](./us-citizens-vs-federal-armed-confrontations-investigation.md#extended-hypothesis-angry-birds-gate-bush-epstein-frame-cruz-and-trump)**.
 
-**Date:** 2026-04-10 (theory block; *Office* quote table; timing addendum; Kevin / Oscar / Angela); edits **2026-04-11** — national-security thesis at top; disclaimers consolidated; TL;DR (**Will Durst** / **Angry Birds**); cross-ref extended hypothesis; **“George Bush 1”** / early-2026 Epstein tranche cite (Roya News). **Timeline:** [Trump and the MAGA Revolution](/timeline/evt-trump).
+### Author frame — U.S. *The Office* (not U.K.) as antibody
+
+**Site positioning:** The **entire American** *The Office* (2005–2013) is treated here as operating in part as an **antibody**—counter-programming or narrative immune response—**relative to Ted Cruz’s attempt to break through media-driven GOP political gridlock** (the same starvation / “Angry Birds” filter described above). The **U.K.** *Office* is **out of scope** for this frame. **Interpretive**; not a claim of documented writers’ intent or network brief.
+
+**Date:** 2026-04-10 (theory block; *Office* quote table; timing addendum; Kevin / Oscar / Angela); edits **2026-04-11** — national-security thesis at top; disclaimers consolidated; TL;DR (**Will Durst** / **Angry Birds**); cross-ref extended hypothesis; **“George Bush 1”** / early-2026 Epstein tranche cite (Roya News). **Timeline:** [Trump and the MAGA Revolution](/timeline/evt-trump). **2026-04-18** — author frame: U.S. *Office* as antibody vs Cruz / media gridlock (not U.K.).
 
 ![Ted Cruz, Kevin Malone — investigation header graphic](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png?w=1200 '{"className":"rounded-md m-auto"}')
 

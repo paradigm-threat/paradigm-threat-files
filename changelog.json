@@ -1,8 +1,25 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:54:19.652Z",
+    "date": "2026-04-18T14:57:29.251Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T14:54:10.000Z",
+    "message": "docs(CoD): table of extra Office espionage rhymes (Golden Ticket, The Lover)",
     "files": [
       {
         "status": "M",
@@ -854,18 +871,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-14T23:41:28.000Z",
     "message": "Investigation: TL;DR; §13 IRS legality, First Fruits 1534, Cold War/MIC",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
-        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-14T23:32:16.000Z",
-    "message": "Investigation: §13 NASA institutional sentiment; fix hero image markdown",
     "files": [
       {
         "status": "M",
