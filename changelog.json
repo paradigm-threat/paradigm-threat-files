@@ -1,8 +1,20 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-19T13:01:02.928Z",
+    "date": "2026-04-19T13:21:36.156Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
+        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-19T13:00:53.000Z",
+    "message": "Refactor Trump-era Hollywood investigation: PP scorecard, CA:BNW vs 2025-26 blockade news, session sentiment; link PP hub.",
     "files": [
       {
         "status": "M",
@@ -874,23 +886,6 @@
         "status": "A",
         "path": "references/cod-mw-wiki-transcripts/transcript-titles-all.txt",
         "href": "/references/cod-mw-wiki-transcripts/transcript-titles-all.txt"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-17T12:46:05.000Z",
-    "message": "Add spore ecological investigation hero image and embed in note.",
-    "files": [
-      {
-        "status": "A",
-        "path": "history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md",
-        "href": "/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.png",
-        "href": "/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.png"
       }
     ]
   }
