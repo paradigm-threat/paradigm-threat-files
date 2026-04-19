@@ -14,6 +14,8 @@ This investigation treats a **21st-century American national-security class of p
 
 The sections below document **memes**, **timelines**, ***Office*** **dialogue patterns**, and **mainstream calendar facts** (actors, shoots, oaths) as **supporting material** for that arc. This file’s **narrow** focus is **Cruz**, **Kevin**, and **Jade Helm**; the **macro** blackmail-and-Angry-Birds stack is developed in the **[armed confrontations investigation](./us-citizens-vs-federal-armed-confrontations-investigation.md#jade-helm-hypothesis-stack)** and the **[extended hypothesis](./us-citizens-vs-federal-armed-confrontations-investigation.md#extended-hypothesis-angry-birds-gate-bush-epstein-frame-cruz-and-trump)**.
 
+**See also (fiction / PP):** [Trump-era Hollywood — predictive programming investigation](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) (*Simpsons* 2000, *The Boys* / Homelander, scorecard) — **optional** **read** **for** **how** **satire** **and** **tropes** **may** **rhyme** **with** **this** **thesis** **without** **proving** **shared** **briefs**.
+
 ### Author frame — U.S. *The Office* (not U.K.) as antibody
 
 **Site positioning:** The **entire American** *The Office* (2005–2013) is treated here as operating in part as an **antibody**—counter-programming or narrative immune response—**relative to Ted Cruz’s attempt to break through media-driven GOP political gridlock** (the same starvation / “Angry Birds” filter described above). The **U.K.** *Office* is **out of scope** for this frame. **Interpretive**; not a claim of documented writers’ intent or network brief.
