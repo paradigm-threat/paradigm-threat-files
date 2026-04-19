@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-18T16:00:34.337Z",
+    "date": "2026-04-19T12:43:44.875Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation2.png",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation2.png"
+      },
+      {
+        "status": "A",
+        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
+        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-18T16:00:23.000Z",
+    "message": "blog: 2026-04-18 CoD MW, spore/blood rain, timeline PP links, TTS Unicode",
     "files": [
       {
         "status": "A",
@@ -864,18 +886,6 @@
         "status": "M",
         "path": "history/chronology/investigations/index-investigations.md",
         "href": "/history/chronology/investigations/index-investigations"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-14T23:54:13.000Z",
-    "message": "Investigation: rewrite TL;DR around faith test, Revelation of the Method, tax compliance",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
-        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
       }
     ]
   }

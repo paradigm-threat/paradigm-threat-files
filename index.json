@@ -494,7 +494,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-18T14:57:19Z"
+    "_updated": "2026-04-18T16:00:23Z"
   },
   "cosmos": {
     "cosmology": {
@@ -11701,7 +11701,11 @@
         "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkABUB8JZwAAutGqb2NPAAA/tKkNdman6IKxxkcEAORU1MzZL/QY1XWW0c2GMz+jIjEquJHzyPSR1QAAA==",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 7
+      "trump-era-hollywood-political-media-investigation.md": {
+        "_title": "Investigation: Trump-era cinema, satire, and \u201cplausible deniability\u201d \u2014 media vs political trend (2016\u20132026)",
+        "_updated": "2026-04-19T12:39:43Z"
+      },
+      "_count": 8
     },
     "kgb_fear.jpg": {
       "_width": 502,
@@ -12898,7 +12902,7 @@
       },
       "_count": 5
     },
-    "_count": 327
+    "_count": 328
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
@@ -14029,6 +14033,6 @@
     },
     "_count": 153
   },
-  "_count": 1974,
-  "_version": "d540c96"
+  "_count": 1975,
+  "_version": "a186d84"
 }
