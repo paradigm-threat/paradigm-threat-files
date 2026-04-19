@@ -4,27 +4,18 @@
 
 ## Status
 
-**Open.** Cultural-political pattern work; not a claim of subpoena-grade proof of coordinated “attacks.”
+**Open.**
 
 ## Guide (read order)
 
-1. [Scope, evidence limits, and disclaimers](#scope-evidence-limits-and-disclaimers) — how to read “attack” vs “rhyme.”
-2. [Burden of proof — who owes whom what?](#burden-of-proof--who-owes-whom-what) — epistemic frame.
-3. [Case studies with citations](#case-studies-with-citations) — Boss Baby, *Brave New World*, *Space Force*, *The Boys*, *Superman* (2025).
-4. [“Pro-America / pro-military” blockbusters and late-Trump / transition window](#pro-america--pro-military-blockbusters-and-late-trump--transition-window).
-5. [Captain America thread — Civil War origins, *Endgame*, Evans vs “America” in the MCU](#captain-america-thread--civil-war-origins-endgame-evans-vs-america-in-the-mcu).
-6. [Ten-year trend thesis (2016–2026) — what open sources do and do not support](#ten-year-trend-thesis-20162026--what-open-sources-do-and-do-not-support).
-7. [Weak points / TODOs](#weak-points--todos) — primary sources to chase.
-8. [Keywords](#keywords)
-
----
-
-## Scope, evidence limits, and disclaimers
-
-- **Not adjudication:** This file does not prove **RICO**, **election interference**, or **writers’ room intent** in a legal sense. It collates **public statements**, **press analysis**, and **audience reception** narratives.
-- **Rhyme ≠ receipt:** Similarity in tone or imagery is **not** proof a producer “targeted” a politician unless **corroborated** (contracts, emails, depositions — usually absent).
-- **Showrunner / director quotes matter:** When a creator **affirms** a political reading (**Kripke** on **Homelander**), **deniability** for *that* claim is **much weaker** than when a creator **denies** a reading (**McGrath** on *Boss Baby*, **Gunn** on Boravia).
-- **Predictive programming:** References here are **thematic** only; they do not assert that fiction **caused** later events.
+1. [Burden of proof — who owes whom what?](#burden-of-proof--who-owes-whom-what)
+2. [Case studies with citations](#case-studies-with-citations) — *Boss Baby*, *Brave New World*, *Space Force*, *The Boys*, *Superman* (2025)
+3. [“Pro-America / pro-military” blockbusters](#pro-america--pro-military-blockbusters-and-late-trump--transition-window)
+4. [Captain America thread — *Civil War*, *Endgame*, Evans vs “America”](#captain-america-thread--civil-war-origins-endgame-evans-vs-america-in-the-mcu)
+5. [Ten-year trend thesis (2016–2026)](#ten-year-trend-thesis-20162026--what-open-sources-do-and-do-not-support)
+6. [Weak points / TODOs](#weak-points--todos)
+7. [Keywords](#keywords)
+8. [Limits and disclaimers](#limits-and-disclaimers) — evidence discipline (end of file)
 
 ---
 
@@ -36,8 +27,6 @@ The investigation question can be restated in two incompatible legal metaphors:
 |--------|-------------------------|----------------|
 | **Deliberate “attack”** | Accuser must show intent + targeting | Without leaks, audiences rely on **circumstance + creator talk** |
 | **Artistic coincidence / generic archetype** | Studio says “generic CEO / generic strongman” | Works best when **timing** and **casting** are awkward but not dispositive |
-
-**Practical rule for this file:** Treat **on-the-record creator intent** as **Tier A** for *intent*; treat **reviewer hot takes** as **Tier B**; treat **social posts** as **Tier C** unless archived and attributable.
 
 ---
 
@@ -79,11 +68,9 @@ The investigation question can be restated in two incompatible legal metaphors:
 
 **Actor distance:** **Antony Starr** has publicly called direct Trump mapping **“low-hanging fruit”** and resisted collapsing the character into one politician ([EW](https://ew.com/the-boys-antony-starr-donald-trump-comparisons-low-hanging-fruit-8759970), [Independent](https://www.independent.co.uk/arts-entertainment/tv/news/antony-starr-the-boys-trump-homelander-b2666953.html)).
 
-**Marketing that reaches non-viewers:** Season **4** promo material leaned into **trial / indictment** imagery parallel to Trump’s legal season; trades covered it ([ComicBook.com — season 4 promo / indictment joke](https://comicbook.com/tv-shows/news/the-boys-season-4-promo-teaser-trump-indictment-joke-homelander-free/)). **Reuters** framed Season **4** as diving into **political polarization** ([Reuters, Jun 2024](https://www.reuters.com/lifestyle/the-boys-season-4-plunges-into-political-polarization-2024-06-11/)).
+**Marketing that reaches non-viewers:** Season **4** promo material leaned into **trial / indictment** imagery parallel to Trump’s legal season; trades covered it ([ComicBook.com — season 4 promo / indictment joke](https://comicbook.com/tv-shows/news/the-boys-season-4-promo-teaser-trump-indictment-joke-homelander-free/)). **Reuters** framed Season **4** as diving into **political polarization** ([Reuters, Jun 2024](https://www.reuters.com/lifestyle/the-boys-season-4-plunges-into-political-polarization-2024-06-11/)). Press also documents **conservative backlash** and **late recognition** of the show’s politics ([Screenshot Media](https://screenshot-media.com/culture/entertainment/the-boys-conservative-backlash-season-four/); [Winter Is Coming](https://winteriscoming.net/posts/the-boys-was-always-anti-authoritarian-and-anti-trump-but-some-conservative-fans-are-only-now-seeing-it-01j0pn1yqe21)).
 
-**“Offended from previews alone” — what we can cite:** There is **extensive** press on **conservative backlash** and **late recognition** of the show’s politics ([Screenshot Media on conservative reaction](https://screenshot-media.com/culture/entertainment/the-boys-conservative-backlash-season-four/); [Winter Is Coming — “always anti-Trump,” some fans “only now seeing it”](https://winteriscoming.net/posts/the-boys-was-always-anti-authoritarian-and-anti-trump-but-some-conservative-fans-are-only-now-seeing-it-01j0pn1yqe21)). That is **not** identical to a peer-reviewed survey of “people who only saw a trailer,” but it **documents** **political offense** **without** full-series engagement as a **cultural phenomenon**.
-
-**Synthesis:** For ***The Boys***, **plausible deniability of anti-Trump intent is weak** at the **showrunner statement** tier — **Kripke** affirms the **analogue**. What remains **debatable** is **how far** each viewer thinks **satire** should track **real politicians** (actor + audience disagreement).
+**Synthesis:** **Kripke** affirms the **Trump analogue** — weak deniability at the **showrunner** tier. **Starr** resists flattening the role to one politician; audience mapping stays contested.
 
 ---
 
@@ -93,7 +80,7 @@ The investigation question can be restated in two incompatible legal metaphors:
 
 **Gunn’s denials:** Multiple outlets quote **James Gunn** insisting the film is **not** a deliberate Israel–Palestine allegory and that the script predated **Oct 2023** escalation — while critics note the **long history** of that conflict makes “predates” arguments **politically contested** ([Tribune (Pakistan) summary of Gunn quote](https://tribune.com.pk/story/2569428/james-gunn-denies-superman-reflects-israelpalestine-says-script-finished-before-genocide-began); [Cinemablend — Gunn on what audiences “refuse to believe”](https://www.cinemablend.com/superheroes/superman/one-truth-about-making-superman-james-gunn-says-internet-refuses-to-believe)).
 
-**User’s Trump / “fake news” overlay:** Press and commentators **do** connect **“fake news”** phrasing and **media warfare** to **Trump-era** vocabulary; that is **interpretive**. **Gunn’s** public stance offers **deniability** on **Middle East intent**; **reception** still **split** the audience **politically**.
+**Trump-era vocabulary overlay:** Commentators connect **“fake news”** and media-warfare beats to **Trump-era** discourse; **Gunn** denies Middle East allegory intent — reception split regardless.
 
 ---
 
@@ -101,7 +88,7 @@ The investigation question can be restated in two incompatible legal metaphors:
 
 **Top Gun: Maverick (2022)** arrived as a **massive** **military aviation** blockbuster; **right-leaning** outlets championed it as **patriotic** / **“non-woke”** culture-war fodder, while other columns debated that framing ([Vanity Fair — culture-war crusade](https://www.vanityfair.com/news/2022/05/top-gun-maverick-culture-war)). **Release timing** overlaps **Biden**’s presidency (**May 2022**), after **COVID** delays — so it is a **weak** datapoint for “**end of Trump term only**,” but a **strong** datapoint for **“post-2016 resurgent gung-ho aviation IP.”**
 
-**Other common name-checks (calendar facts, not proof of White House coordination):** **American Sniper** (2014 — pre-Trump); **13 Hours** (2016 — election year); **Midway** (2019). This file does **not** claim those were **commissioned** to reward a specific administration; they illustrate **persistent** Hollywood **war / patriot** lanes across presidencies.
+**Other calendar anchors:** **American Sniper** (2014), **13 Hours** (2016), **Midway** (2019) — illustrate persistent war / patriot lanes; not used here as proof a White House **commissioned** them.
 
 ---
 
@@ -111,7 +98,7 @@ The investigation question can be restated in two incompatible legal metaphors:
 
 **Documented development story:** **Kevin Feige** told **io9** that early **Captain America 3** ideas continued the **Bucky** thread but many outlines did **not** feel **“worthy of a follow up to Winter Soldier”**; the **Civil War** pivot followed once the scope could include **Iron Man** and the **registration** conflict ([io9, Apr 2016](https://io9.gizmodo.com/how-captain-america-3-got-transformed-into-civil-war-1771691777)). **Russo** brothers elsewhere describe an early **Madbomb**-style concept (comic device driving crowds violent) as one **pre–Civil War** exploration ([Collider — Cap 3 wasn’t always Civil War](https://collider.com/captain-america-civil-war-avengers-infinity-war-ghostbusters-russo-brothers/); [ComicBookMovie — Madbomb](https://www.comicbookmovie.com/captain_america/captain_america_civil_war/russo-brothers-reveal-original-story-a144804)).
 
-**Falsifier for the specific “literal U.S. civil war movie” theory:** Open **press** accounts center on **superhero registration** and **Winter Soldier fallout**, **not** on a scrapped **domestic insurrection** epic. **Absence of reporting** is not **proof of absence**, but **no major trade piece** surfaced here that framed the **abandoned** film as **“ACW 2.0.”**
+**Vs. “literal ACW 2.0” pitch:** Trades center **registration** and **Bucky** fallout, not a scrapped **domestic-insurrection** epic; none of the pieces gathered here framed the abandoned Cap 3 as **ACW 2.0** (see [Limits](#limits-and-disclaimers) on negative evidence).
 
 ### *Avengers: Endgame* (2019) — title “reflects the times”?
 
@@ -133,7 +120,7 @@ Public **Russo** explanations tie **Endgame** to **Doctor Strange**’s **“end
 
 **Partially supported:** **Delays** and **greenlight churn** across **2020–2025** often trace to **COVID**, **2023 WGA/SAG-AFTRA strikes**, and **franchise economics** — e.g. **Fast & Furious 11** pushed toward **2026** with **press** citing **strikes** and **ensemble schedules** ([Screen Rant — Leterrier / delay reporting](https://screenrant.com/fast-furious-11-release-delay-filming-start-date-confirmed-louis-leterrier/); [CBR — scheduling / Ritchson comment chain](https://www.cbr.com/fast-and-furious-11-holding-back-filming-alan-ritchson)).
 
-**Weak / speculative:** A **coordinated** **“could not reemerge pro-Americana for Trump 2024 because producers feared Trump would protect movies”** thesis is **not** corroborated by **trade reporting** in the samples gathered here. It would need **studio correspondence** or **on-the-record producer** admissions.
+**Uncorroborated here:** A coordinated “Hollywood held back pro-Americana for Trump 2024” thesis — no trade reporting in the samples below; would need studio-side sources ([Limits](#limits-and-disclaimers)).
 
 ---
 
@@ -152,7 +139,24 @@ Public **Russo** explanations tie **Endgame** to **Doctor Strange**’s **“end
 
 #influence #hollywood #governance #trump #predictive_programming #media #satire #marvel #dc #streaming
 
-**Date:** 2026-04-19 — Initial compile: case studies with **web citations**; **Kripke** primary thread; **Feige/io9** **Civil War** development; **Gunn** **Superman** denial chain; **Fast** delay **labor** context; **MCU** fact check **Sam Wilson / America Chavez**; **Knives Out** Evans counterexample.
+**Date:** 2026-04-19 — Initial compile: case studies with **web citations**; **Kripke** primary thread; **Feige/io9** **Civil War** development; **Gunn** **Superman** denial chain; **Fast** delay **labor** context; **MCU** fact check **Sam Wilson / America Chavez**; **Knives Out** Evans counterexample. **2026-04-19** — **Limits** consolidated to file end per [PARADIGM_INVESTIGATION_INSTRUCTIONS](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md).
+
+---
+
+## Limits and disclaimers
+
+Single block for evidence discipline; everyday readers may skim. Cross-investigation links are **thematic rhymes**, not proof that fiction equals documented history.
+
+- **Not adjudication:** No RICO, election interference, or subpoena-grade proof of writers’-room intent. Material here is **public statements**, press analysis, and reception narratives.
+- **Rhyme ≠ targeted intent** unless corroborated (contracts, leaks — usually absent).
+- **Creator affirmations vs denials:** On-the-record **intent** (e.g. **Kripke** on Homelander) weighs more heavily than generic “it’s just fiction” for **that IP**; still not courtroom evidence.
+- **Predictive programming:** Thematic only; no claim that fiction **caused** later events.
+- **Evidence tiers:** Creator / primary interview → **A**; trade and serious press → **B**; social → **C** unless archived and attributable.
+- **Trailer-only offense (*The Boys*):** No random-sample survey cited; press documents backlash and polarization narratives, not controlled “preview-only” cohorts.
+- **Patriot blockbusters / calendars:** Release years and box-office culture wars do not prove White House or campaign **commissioning**.
+- **Negative evidence:** Absence of a reported scrapped plot (e.g. literal **ACW 2.0** Cap 3) is **not** dispositive that no one ever pitched it.
+- **Speculative macro theses** (e.g. Trump “protecting” or chilling Hollywood output): require producer-side or studio records — not established in the cites gathered here.
+- **Assistant bias:** Default pressure is toward “nothing to see here”; separate **falsifiers** for specific sub-claims from generic dismissal of the whole arc.
 
 ---
 

@@ -494,7 +494,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-18T16:00:23Z"
+    "_updated": "2026-04-19T12:43:34Z"
   },
   "cosmos": {
     "cosmology": {
@@ -5983,7 +5983,7 @@
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JbACdAB81l40uAAA/kh8HiZoKoLotSGeNguIyEozXG/KEyusqZjA9ztPkuuxUdLPNERfXzYXkAAA",
-          "_updated": "2026-04-18T13:56:31Z"
+          "_updated": "2026-04-19T12:43:34Z"
         },
         "cia-investigation.md": {
           "_title": "Investigation: CIA \u2014 OSS Rebrand, Nazi Gold, Iran, 9/11, and the Antibody Thesis",
@@ -11703,7 +11703,7 @@
       },
       "trump-era-hollywood-political-media-investigation.md": {
         "_title": "Investigation: Trump-era cinema, satire, and \u201cplausible deniability\u201d \u2014 media vs political trend (2016\u20132026)",
-        "_updated": "2026-04-19T12:39:43Z"
+        "_updated": "2026-04-19T12:43:34Z"
       },
       "_count": 8
     },
@@ -14034,5 +14034,5 @@
     "_count": 153
   },
   "_count": 1975,
-  "_version": "a186d84"
+  "_version": "44deb5d"
 }
