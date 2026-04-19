@@ -309,6 +309,7 @@ Media identified as containing predictive programming by external sources or our
 ## Additional Media
 
 - [The Office](the_office.md)
+- [Trump-era Hollywood — predictive programming / political trend investigation](../hollywood/trump-era-hollywood-political-media-investigation.md) — **2026** — PP scorecard; ***Captain America: Brave New World*** (2025) vs **2025–2026** maritime **blockade** news cluster; session-captured author stance; trends over studio-proof.
 
 
 ---

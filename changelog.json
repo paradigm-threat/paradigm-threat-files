@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-19T12:55:12.879Z",
+    "date": "2026-04-19T13:01:02.928Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
+        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/page.md",
+        "href": "/influence/predictive_programming"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-19T12:55:03.000Z",
+    "message": "Consolidate investigation disclaimers at file end; update PARADIGM investigation instructions.",
     "files": [
       {
         "status": "M",
@@ -869,23 +891,6 @@
         "status": "A",
         "path": "history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.png",
         "href": "/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-15T01:35:27.000Z",
-    "message": "Investigation: embed walkout phone-preview illustration; fix screenshot markdown",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
-        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-illustration.png",
-        "href": "/history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-illustration.png"
       }
     ]
   }
