@@ -1,6 +1,6 @@
 # Investigation: Trump-era Hollywood as predictive programming — trends, rhymes, and scorecard (2016–2026)
 
-> **TL;DR:** This file treats **Trump-adjacent** mass media as **predictive-programming data** — **recurrent themes and timing** worth logging **without** requiring producer confessions or courtroom-grade intent. **Anchor:** ***Captain America: Brave New World*** (**Feb 2025**) centers a **U.S. president** (**Ross** / **Red Hulk**) in **geopolitical military spectacle** — **Indian Ocean** **Celestial Island** standoff, **U.S. pilots** used against a **foreign fleet** ([Wikipedia plot summary](https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World)). **Real world:** the **Trump** administration ordered a **maritime blockade** of **sanctioned oil tankers** around **Venezuela** (**Dec 2025** onward) with **Navy** presence ([Reuters](https://www.reuters.com/world/americas/trump-orders-blockade-sanctioned-oil-tankers-leaving-entering-venezuela-2025-12-16/)); **Apr 2026** reporting on a **Strait of Hormuz** **blockade** order ([Defense News](https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/)). That is **not** a literal “same script” match — it is a **macro-rhyme** (**sitting president + coercive naval posture + international flashpoint**) that **landed after** the film. Other threads (**Homelander**, **Superman** Boravia/**fake news**, **Space Force** naming) are scored in [§ Scorecard](#scorecard-predictions--partial-hits--misses). Full **author stance** from the originating session is preserved in [§ Author sentiment](#author-sentiment--session-capture).
+> **TL;DR:** This file treats **Trump-adjacent** mass media as **predictive-programming data** — **recurrent themes and timing** worth logging **without** requiring producer confessions or courtroom-grade intent. **Anchor:** ***Captain America: Brave New World*** (**Feb 2025**) vs **2025–2026** maritime **blockade** news ([Reuters](https://www.reuters.com/world/americas/trump-orders-blockade-sanctioned-oil-tankers-leaving-entering-venezuela-2025-12-16/), [Defense News](https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/)) — **macro-rhyme**, not scene-for-scene ([Wikipedia — *Brave New World* plot](https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World)). **Premise (author):** real forces **predict** and **encode** politics in tentpole fiction **despite** plausible deniability; a **rational** reader can **see** the **rhyme** even under “nothing to see here.” The **central mythic parallel** for this investigation is ***Avengers: Infinity War* / *Endgame*** — **Doctor Strange** surveys **fourteen million** futures; the **only** winning branch **requires** preserving **Tony Stark / Iron Man** (read here as **Trump**), including **Strange** surrendering the **Infinity Stone** he guards (**Time Stone**) so **Thanos** spares **Stark** — trading short-term loss for the one timeline that avoids **total annihilation**. That maps, in the author’s reading, to **giving the “rogue executive” the chance to save the situation** — a brief **pro-Stark** narrative hinge inside a **larger** **MCU** **arc** that had often **rhymed** with **anti-Trump** **satire** elsewhere. [§ Author thesis — *Infinity War* / *Endgame*](#author-thesis--avengers-infinity-war--endgame-iron-man-trump-and-the-only-timeline) states this **in full**; [§ Scorecard](#scorecard-predictions--partial-hits--misses) scores it as **interpretive**. Earlier **session bullets** stay in [§ Author sentiment](#author-sentiment--session-capture).
 
 ## Status
 
@@ -10,13 +10,14 @@
 
 1. [Paradigm PP methodology (this file)](#paradigm-pp-methodology-for-this-investigation)
 2. [Author sentiment — session capture](#author-sentiment--session-capture)
-3. [Anchor case — *Brave New World* (2025) vs real maritime presidency](#anchor-case--captain-america-brave-new-world-2025-vs-real-maritime-presidency-20252026)
-4. [Scorecard — predictions / partial hits / misses](#scorecard-predictions--partial-hits--misses)
-5. [Supporting clusters — Boss Baby, *Space Force*, *The Boys*, *Superman*](#supporting-clusters--brief)
-6. [Cap franchise arc, pro-military blockbusters, ten-year trend](#cap-franchise-arc-pro-military-blockbusters-ten-year-trend)
-7. [Weak points / TODOs](#weak-points--todos)
-8. [Keywords](#keywords)
-9. [Limits and disclaimers](#limits-and-disclaimers)
+3. [Author thesis — *Infinity War* / *Endgame* (Iron Man / Trump, “only timeline”)](#author-thesis--avengers-infinity-war--endgame-iron-man-trump-and-the-only-timeline)
+4. [Anchor case — *Brave New World* (2025) vs real maritime presidency](#anchor-case--captain-america-brave-new-world-2025-vs-real-maritime-presidency-20252026)
+5. [Scorecard — predictions / partial hits / misses](#scorecard-predictions--partial-hits--misses)
+6. [Supporting clusters — Boss Baby, *Space Force*, *The Boys*, *Superman*](#supporting-clusters--brief)
+7. [Cap franchise arc, pro-military blockbusters, ten-year trend](#cap-franchise-arc-pro-military-blockbusters-ten-year-trend)
+8. [Weak points / TODOs](#weak-points--todos)
+9. [Keywords](#keywords)
+10. [Limits and disclaimers](#limits-and-disclaimers)
 
 ---
 
@@ -49,6 +50,30 @@ This block is **sentiment and hypothesis**; the **scorecard** and **citations** 
 
 ---
 
+## Author thesis — *Avengers: Infinity War* / *Endgame* (Iron Man, Trump, and the “only timeline”)
+
+**Nature of this section:** Author premise and interpretive synthesis. It does not depend on Russo or Feige interviews naming Trump. It is the kind of pattern read this investigation privileges when official silence or promotional deniability is the norm and when enough time has passed to compare fiction to lived politics without needing a citation for every intuition.
+
+### Investigation premise (author)
+
+Forces that shape mass fiction are not neutral about real power. In the Paradigm sense, predictive programming includes forward familiarization: the public sees outcomes staged as myth before they arrive, or dismisses real rhymes afterward as coincidence. Plausible deniability protects studios legally and socially; it does not decide whether the rhyme was meaningful to a sane, rational viewer who weights institutional media bias and release timing. The author’s stance: something can be visibly there even when narrators say there is nothing to see — look away.
+
+### The *Infinity War* / *Endgame* parallel as stated by the author
+
+In the MCU two-parter, Doctor Strange uses the Time Stone to survey on the order of fourteen million futures — a mythic stand-in for Earth’s branches and stakes (“everything the universe would go through”). Nearly all paths fail. One wins. That winning branch requires Tony Stark / Iron Man: the rogue billionaire executive, vain and unpredictable, resented by parts of the “team,” to stay alive and later to carry the final move that ends the cosmic threat (at ultimate personal cost). Strange does not award victory in a speech; he makes the only trade that keeps the winning branch open. On Titan he yields the Infinity Stone he swore to protect — canonically the Time Stone — to Thanos so that Thanos spares Stark’s life. From Strange’s angle, preserving Stark and nothing less is the bitter hinge: the only timeline that eventually avoids total loss across the snap era and its aftermath.
+
+The author maps Stark to Trump not because Marvel issued a casting memo, but because the dramaturgy — only this flawed executive can close the arc — tracks a story the author sees in real politics: the figure many love to hate, dismissed by “serious” institutions, yet left by circumstance as the only instrument in the one branch that does not end in annihilation for the story’s world.
+
+### Bias, “pro-Trump” hinge, and *Endgame* as zeitgeist
+
+Once mainstream media bias against Trump is treated as a known lens, the author reads much Hollywood output of the era as carrying the same bias in satire and villain coding, whatever creators say on press tours. Against that backdrop, the *Infinity War* / *Endgame* arc briefly inverts: the story says the narcissist must get the chance to “save the universe” — not because he earns it morally, but because the branch count allows no other path. The author is not aware of another franchise hit that executes that exact move at that scale; comparative precedents remain an open thread ([Weak points](#weak-points--todos)). The title *Endgame* — whatever the Russos gave journalists about Doctor Strange’s line and Korean localization — still reads as zeitgeist for this author: last moves in a closed game.
+
+### “The storm,” two sides, birthright versus brains
+
+The author ties Trump’s “here comes the storm” rhetoric to the predictable backlash from entrenched power (deep state in the author’s vocabulary) against a disruptive presidency — a storm implicit after 2016. In that storm, the narrative extracted from Strange’s choice is: the only workable timeline hands the keys to the one actor who can finish the sequence — not because of IQ or credentials, but because of birthright, position, and the way unresolved past conflicts collapse into two aligned sides worldwide. That geopolitical and cultural polarization — not a single film beat — is what this investigation is trying to describe.
+
+---
+
 ## Anchor case — *Captain America: Brave New World* (2025) vs real maritime presidency (2025–2026)
 
 **Fiction (mainstream plot summary):** After **Ross** is elected **president**, he deploys **Captain America** to **foreign** operations (**Mexico**), drives **White House** **geopolitical** summits, and the story escalates to **Celestial Island** in the **Indian Ocean** — a **strategic** **resource** race with **Japan**, including **U.S. pilots** directed against a **foreign fleet** ([Wikipedia — *Captain America: Brave New World* plot](https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World)). **Ross** is **Harrison Ford**; press discussed **Trump** parallels and **political Marvel** readings ([IMDb news — Ford](https://www.imdb.com/news/ni65091706/); [MovieWeb — Mackie on comparisons](https://movieweb.com/anthony-mackie-captain-america-red-hulk-donald-trump-comparison)).
@@ -63,6 +88,7 @@ This block is **sentiment and hypothesis**; the **scorecard** and **citations** 
 
 | Thread | Fiction / timing | Real-world convergence | Score |
 |--------|-------------------|-------------------------|-------|
+| Strange timelines → only Stark / Iron Man can win; Time Stone traded for Stark’s life | *Infinity War* / *Endgame* (2018–2019) — author maps Stark → Trump; Strange yields Time Stone to Thanos so Stark lives | No direct news metric; retrospective political reading only | Author interpretive — not a falsifiable prediction row |
 | **President + naval / fleet crisis + international coercion** | *Brave New World* **2025** — president, **Indian Ocean** showdown, **fleet** attack beat ([Wikipedia plot](https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World)) | **2025–2026** **maritime blockades** / **Navy-led** coercion (**Venezuela** tankers; **Hormuz** reporting) ([Reuters](https://www.reuters.com/world/americas/trump-orders-blockade-sanctioned-oil-tankers-leaving-entering-venezuela-2025-12-16/), [Defense News](https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/)) | **Strong partial** — thematic / structural, not scene-for-scene |
 | **Red Hulk president / narcissism / spectacle** | Same film; **Ford**; **Red Hulk** **White House** rage | Real **Trump** **media** **spectacle** and **strongman** **coverage** (constant); no **literal** **Hulk** | **Thematic** — interpretive |
 | **Homelander ↔ Trump** | *The Boys* — showrunner **Kripke** **affirms** **analogue** ([CBR / Rolling Stone](https://www.cbr.com/the-boys-showrunner-homelander-absolutely-donald-trump-analogue/)) | **MAGA** rally **costume** crossovers reported in same cultural cycle | **Intent** **on record** for satire layer; **not** a “prediction” of a future event |
@@ -85,7 +111,7 @@ This block is **sentiment and hypothesis**; the **scorecard** and **citations** 
 ## Cap franchise arc, pro-military blockbusters, ten-year trend
 
 - ***Civil War* (2016) development:** **Feige** / **io9** — **Cap 3** **became** **Civil War** when **Bucky** **thread** **needed** **scale**; **Madbomb** **alt** discussed ([io9](https://io9.gizmodo.com/how-captain-america-3-got-transformed-into-civil-war-1771691777), [Collider](https://collider.com/captain-america-civil-war-avengers-infinity-war-ghostbusters-russo-brothers/)). **Trend:** **Registration** **fight**, **not** **documented** **“ACW 2.0”** **pitch** in **trades** — investigator’s **“national** **fracture** **movie”** **hypothesis** **not** **surfaced** **as** **abandoned** **logline** **here**.
-- ***Endgame* (2019) title:** **Russos** tie to **Strange** **“endgame”** / **title** **localization** ([ComicBook.com](https://comicbook.com/marvel/news/avengers-endgame-directors-russo-brothers-title-infinity-gauntlet/)) — **trend**: **official** **story** **is** **in-universe**, **not** **electoral**; **sentiment** **overlay** **still** **possible** **for** **audiences**.
+- ***Endgame* (2019) title:** Russos tie the title to Strange’s “we’re in the endgame now” line and localization ([ComicBook.com](https://comicbook.com/marvel/news/avengers-endgame-directors-russo-brothers-title-infinity-gauntlet/)) — official story is in-universe, not electoral. The author’s **zeitgeist** read of the same films is developed in [§ Author thesis — *Infinity War* / *Endgame*](#author-thesis--avengers-infinity-war--endgame-iron-man-trump-and-the-only-timeline).
 - **Evans / Sam Wilson / America Chavez:** **Mantle** to **Sam Wilson** (**Mackie**); **America Chavez** **separate** (**Multiverse of Madness**); **Evans** **Ransom** in ***Knives Out*** — **trend** **facts** **vs** **investigator** **“name** **theft”** **unease** ([CBR](https://www.cbr.com/chris-evans-shouldve-returned-as-human-torch-doctor-strange-2-mcu/)).
 - **Pro-military blockbuster anchor:** ***Top Gun: Maverick*** **2022** **culture-war** **reception** ([Vanity Fair](https://www.vanityfair.com/news/2022/05/top-gun-maverick-culture-war)) — **post-COVID**, **Biden-era** **release**; **useful** **as** **patriot** **lane** **data**, **not** **Trump-term-only**.
 
@@ -99,6 +125,7 @@ This block is **sentiment and hypothesis**; the **scorecard** and **citations** 
 | 2 | **Primary** **Navy** **orders** / **White House** **contemporaneous** **film** **development** **records** | **Redaction** **zone** — **would** **sharpen** **causal** **vs** **coincidence** |
 | 3 | **Marvel** **writers’** **room** **timeline** **2019–2024** vs **Trump** **2024** **campaign** | **Tests** **macro** **Hollywood** **alignment** **thesis** |
 | 4 | **Archival** **press** **for** **“ACW** **2.0”** **Cap** **3** **pitch** | **Falsify** **or** **support** **investigator** **Civil** **War** **origin** **suspicion** |
+| 5 | Comparative fiction: “only the narcissist / rogue executive can save everyone” at blockbuster scale | Tests author claim that *Infinity War* / *Endgame* is unusually explicit on that hinge |
 
 ---
 
@@ -106,7 +133,7 @@ This block is **sentiment and hypothesis**; the **scorecard** and **citations** 
 
 #influence #hollywood #governance #trump #predictive_programming #media #marvel #dc #streaming #war
 
-**Date:** 2026-04-19 — PP/trend refactor; **Limits** at end. **2026-04-19** — **anchor** **CA:BNW** **vs** **2025–2026** **maritime** **blockade** **cluster**; **author** **sentiment** **block**; **scorecard**; **hub** **link**; **session** **capture**.
+**Date:** 2026-04-19 — PP/trend refactor; Limits at end. 2026-04-19 — CA:BNW vs maritime blockade cluster; hub link. 2026-04-19 — § Author thesis *Infinity War* / *Endgame* (Strange / Stark / Trump); scorecard row; TODO comparative “narcissist savior” precedents.
 
 ---
 
@@ -117,6 +144,7 @@ This block is **sentiment and hypothesis**; the **scorecard** and **citations** 
 - **Redaction** **and** **studio** **secrecy** **are** **assumed** **possible**; **absence** **of** **leaks** **does** **not** **prove** **absence** **of** **coordination**, **nor** **does** **it** **prove** **coordination**.
 - **Rhyme** **≠** **receipt**; **creator** **quotes** (**Kripke**) **weigh** **on** **intent** **for** ***The Boys*** **only** **as** **stated** **interviews**, **not** **as** **legal** **fact**.
 - **Brave New World** **vs** **blockades:** **Thematic** **parallel** **only**; **Wikipedia** **plot** **is** **not** **a** **contract** **for** **real** **war** **plans**.
+- *Infinity War* / *Endgame* / Iron Man as Trump: [§ Author thesis](#author-thesis--avengers-infinity-war--endgame-iron-man-trump-and-the-only-timeline) is premise and literary-political reading — not a claim that Marvel endorsed it or that box office proves politics.
 - **Assistant** **bias:** **Separate** **sub-claim** **tests** **from** **dismissal** **of** **whole** **arc**.
 
 ---
