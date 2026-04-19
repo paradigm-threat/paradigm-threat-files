@@ -9,13 +9,13 @@
 ## Guide (read order)
 
 1. [Paradigm PP methodology (this file)](#paradigm-pp-methodology-for-this-investigation)
-2. [Author sentiment — session capture](#author-sentiment--session-capture)
-3. [Author thesis — *Infinity War* / *Endgame* (Iron Man / Trump, “only timeline”)](#author-thesis--avengers-infinity-war--endgame-iron-man-trump-and-the-only-timeline)
-4. [Author note — rigidity, misunderstanding, patterns vs “prove it”](#author-note--rigidity-misunderstanding-patterns-vs-prove-it)
+2. [Author note — rigidity, misunderstanding, patterns vs “prove it”](#author-note--rigidity-misunderstanding-patterns-vs-prove-it)
+3. [Author sentiment — session capture](#author-sentiment--session-capture)
+4. [Author thesis — *Infinity War* / *Endgame* (Iron Man / Trump, “only timeline”)](#author-thesis--avengers-infinity-war--endgame-iron-man-trump-and-the-only-timeline)
 5. [Anchor case — *Brave New World* (2025) vs real maritime presidency](#anchor-case--captain-america-brave-new-world-2025-vs-real-maritime-presidency-20252026)
-6. [Scorecard — predictions / partial hits / misses](#scorecard-predictions--partial-hits--misses)
-7. [Supporting clusters — Boss Baby, *Space Force*, *The Boys*, *Superman*](#supporting-clusters--brief)
-8. [Cap franchise arc, pro-military blockbusters, ten-year trend](#cap-franchise-arc-pro-military-blockbusters-ten-year-trend)
+6. [Supporting clusters — Boss Baby, *Space Force*, *The Boys*, *Superman*](#supporting-clusters--brief)
+7. [Cap franchise arc, pro-military blockbusters, ten-year trend](#cap-franchise-arc-pro-military-blockbusters-ten-year-trend)
+8. [Scorecard — predictions / partial hits / misses](#scorecard-predictions--partial-hits--misses) — roll-up after evidence sections
 9. [Weak points / TODOs](#weak-points--todos)
 10. [Keywords](#keywords)
 11. [Limits and disclaimers](#limits-and-disclaimers)
@@ -31,7 +31,15 @@ Aligned with the site hub [Predictive Programming](/influence/predictive_program
 - **Chronology caveat:** The hub notes that if **official timelines** are wrong or **history redacted**, comparisons stall; this file still records **visible** mainstream dates for film release and news ([hub — chronology as comparator](https://paradigmthreat.net/influence/predictive_programming/page.md)).
 - **Second-hand encoding:** Not every rhyme is **orders from above**; some is **genre copying** — effect on audiences can still parallel **forward programming** (hub TL;DR).
 
-This methodology assumes readers can hold [§ Author note — rigidity and “prove it”](#author-note--rigidity-misunderstanding-patterns-vs-prove-it) alongside citations: patterns first, rigid gotcha second.
+---
+
+## Author note — rigidity, misunderstanding, patterns vs “prove it”
+
+**Session capture — epistemic frustration (humans and LLMs).** Across a lifetime, the author has met a rigidity from interlocutors who insist “you’re wrong” while, under that pretense, failing to hear what was actually said. A typical misfire: the author argues media bias or pattern; the reply fixes on a date — for example, “that was 2019, during Trump’s term, so you’re incorrect” — which does not engage the claim. The author was not always asserting a mistaken calendar; they were pointing at slant, selection, and interpretive windows. Without clear forensic proof of who moved what behind the scenes, the author cannot always demonstrate why events seem to fall outside the windows their series of readings would predict. Yet if hidden coordination were real, one would expect operators to work inside the windows where they are officially denied, and counteractors to move in zones where they believe themselves safe — human agency makes the signal chaotic. What remains is patterns, and a judgment whether plausible deniability is structurally sound or a last-resort fog to make people look away.
+
+**Corrections fatigue.** The author is tired of re-teaching both people and models that flatten theories they have not imagined — correcting misconceptions that stem from lack of imagination and refusal to step outside accepted reality borders. That block — rigid listener, rigid rules — is the hardest obstacle to this kind of work.
+
+**Media as territory, not forum.** The author reads mass media less as an arena for debating ideas than as territory where influence is mass-canceled, narrative fixtures behave as if their minds closed long ago, power sits without election, popularity and ratings matter less, and tone grows openly hostile — fuel for fights inside households and a possible American civil conflict downstream. That sentiment feeds the same investigation arc as [§ Author sentiment](#author-sentiment--session-capture) (fracture / Civil War hypothesis) and [§ Author thesis — *Infinity War* / *Endgame*](#author-thesis--avengers-infinity-war--endgame-iron-man-trump-and-the-only-timeline) (two sides, storm), developed in the sections that follow.
 
 ---
 
@@ -49,7 +57,7 @@ The investigator’s **full stance** from the session that spawned this file —
 - **Cap arc:** **Captain America** **dominates** the MCU through **Endgame** (**2019**) — title investigator reads as **zeitgeist**; **Chris Evans** later plays **non-Cap** roles with **profanity**; **America Chavez** and mantle shifts investigator finds **suspicious** in the **Biden** window — **not** claimed as **proven coordination**, but as **cultural** **handoff** discomfort.
 - **Macro thesis:** **2016** surprise **changed** **cinema** toward **pro-American** energy for **~four years**; **Biden 2020** **ended** that wave; **Trump 2024** did **not** restore the same **on-screen** alignment — investigator hypothesizes **anticipation** that **Trump** might again **influence** or **protect** certain stories, and ties **inexplicable** **delays** (e.g. **Fast & Furious**) to that **unease** — **trend** only here, not established in trades.
 
-This block is **sentiment and hypothesis**; the **scorecard** and **citations** below separate **what converged in reality** from **what remains interpretive**.
+This block is **sentiment and hypothesis**; the [scorecard](#scorecard-predictions--partial-hits--misses) (after anchor + supporting + Cap arc) and cited sections separate **what converged in reality** from **what remains interpretive**.
 
 ---
 
@@ -77,16 +85,6 @@ The author ties Trump’s “here comes the storm” rhetoric to the predictable
 
 ---
 
-## Author note — rigidity, misunderstanding, patterns vs “prove it”
-
-**Session capture — epistemic frustration (humans and LLMs).** Across a lifetime, the author has met a rigidity from interlocutors who insist “you’re wrong” while, under that pretense, failing to hear what was actually said. A typical misfire: the author argues media bias or pattern; the reply fixes on a date — for example, “that was 2019, during Trump’s term, so you’re incorrect” — which does not engage the claim. The author was not always asserting a mistaken calendar; they were pointing at slant, selection, and interpretive windows. Without clear forensic proof of who moved what behind the scenes, the author cannot always demonstrate why events seem to fall outside the windows their series of readings would predict. Yet if hidden coordination were real, one would expect operators to work inside the windows where they are officially denied, and counteractors to move in zones where they believe themselves safe — human agency makes the signal chaotic. What remains is patterns, and a judgment whether plausible deniability is structurally sound or a last-resort fog to make people look away.
-
-**Corrections fatigue.** The author is tired of re-teaching both people and models that flatten theories they have not imagined — correcting misconceptions that stem from lack of imagination and refusal to step outside accepted reality borders. That block — rigid listener, rigid rules — is the hardest obstacle to this kind of work.
-
-**Media as territory, not forum.** The author reads mass media less as an arena for debating ideas than as territory where influence is mass-canceled, narrative fixtures behave as if their minds closed long ago, power sits without election, popularity and ratings matter less, and tone grows openly hostile — fuel for fights inside households and a possible American civil conflict downstream. That sentiment feeds the same investigation arc as [§ Author sentiment](#author-sentiment--session-capture) (fracture / Civil War hypothesis) and [§ Author thesis — *Infinity War* / *Endgame*](#author-thesis--avengers-infinity-war--endgame-iron-man-trump-and-the-only-timeline) (two sides, storm).
-
----
-
 ## Anchor case — *Captain America: Brave New World* (2025) vs real maritime presidency (2025–2026)
 
 **Fiction (mainstream plot summary):** After **Ross** is elected **president**, he deploys **Captain America** to **foreign** operations (**Mexico**), drives **White House** **geopolitical** summits, and the story escalates to **Celestial Island** in the **Indian Ocean** — a **strategic** **resource** race with **Japan**, including **U.S. pilots** directed against a **foreign fleet** ([Wikipedia — *Captain America: Brave New World* plot](https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World)). **Ross** is **Harrison Ford**; press discussed **Trump** parallels and **political Marvel** readings ([IMDb news — Ford](https://www.imdb.com/news/ni65091706/); [MovieWeb — Mackie on comparisons](https://movieweb.com/anthony-mackie-captain-america-red-hulk-donald-trump-comparison)).
@@ -94,21 +92,6 @@ The author ties Trump’s “here comes the storm” rhetoric to the predictable
 **Real (post-release):** **December 16, 2025** — **Trump** orders a **“total and complete blockade”** of **sanctioned oil tankers** **into and out of** **Venezuela**; reporting ties **Navy** assets and **interdiction** to the policy ([Reuters](https://www.reuters.com/world/americas/trump-orders-blockade-sanctioned-oil-tankers-leaving-entering-venezuela-2025-12-16/)). **Wikipedia** summarizes **Operation Southern Spear**–era **U.S. oil blockade** and **tanker** seizures ([United States blockade during Operation Southern Spear](https://en.wikipedia.org/wiki/United_States_blockade_during_Operation_Southern_Spear)). **April 12, 2026** — headlines report **Trump** stating **U.S. Navy** would **blockade** the **Strait of Hormuz** “effective immediately” ([Defense News](https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/)).
 
 **Trend read:** The film **did not** have to predict **Venezuela** or **Hormuz** by name. The **convergent pattern** is: **U.S. president** + **naval coercion** + **global flashpoint** + **media cycle** — **fiction first** (**Feb 2025** wide U.S. release), **maritime blockade politics** **intensifying** **after**. That is the **strongest calendar cluster** in this investigation for **forward rhyme**.
-
----
-
-## Scorecard — predictions / partial hits / misses
-
-| Thread | Fiction / timing | Real-world convergence | Score |
-|--------|-------------------|-------------------------|-------|
-| Strange timelines → only Stark / Iron Man can win; Time Stone traded for Stark’s life | *Infinity War* / *Endgame* (2018–2019) — author maps Stark → Trump; Strange yields Time Stone to Thanos so Stark lives | No direct news metric; retrospective political reading only | Author interpretive — not a falsifiable prediction row |
-| **President + naval / fleet crisis + international coercion** | *Brave New World* **2025** — president, **Indian Ocean** showdown, **fleet** attack beat ([Wikipedia plot](https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World)) | **2025–2026** **maritime blockades** / **Navy-led** coercion (**Venezuela** tankers; **Hormuz** reporting) ([Reuters](https://www.reuters.com/world/americas/trump-orders-blockade-sanctioned-oil-tankers-leaving-entering-venezuela-2025-12-16/), [Defense News](https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/)) | **Strong partial** — thematic / structural, not scene-for-scene |
-| **Red Hulk president / narcissism / spectacle** | Same film; **Ford**; **Red Hulk** **White House** rage | Real **Trump** **media** **spectacle** and **strongman** **coverage** (constant); no **literal** **Hulk** | **Thematic** — interpretive |
-| **Homelander ↔ Trump** | *The Boys* — showrunner **Kripke** **affirms** **analogue** ([CBR / Rolling Stone](https://www.cbr.com/the-boys-showrunner-homelander-absolutely-donald-trump-analogue/)) | **MAGA** rally **costume** crossovers reported in same cultural cycle | **Intent** **on record** for satire layer; **not** a “prediction” of a future event |
-| **Space Force** naming / negligent POTUS | Netflix **2020**; **Daniels** “parallel universe” ([Syfy](https://www.syfy.com/syfy-wire/space-force-netflix-showrunner-greg-daniels)) | **Real** **Space Force** branch under **Trump** | **Rhyme** — institutional |
-| **Superman** — **Boravia/Jarhanpur**, **fake news**, **home front** split | DC **2025**; **Gunn** denies **Israel–Palestine** intent ([Cinemablend](https://www.cinemablend.com/superheroes/superman/one-truth-about-making-superman-james-gunn-says-internet-refuses-to-believe)) | Ongoing **Middle East** **news**; **“fake news”** **politics** | **Thematic** — contested reception |
-| **Boss Baby** ↔ Trump | **2017**; director **denies** ([Gulf News / THR](https://gulfnews.com/entertainment/boss-baby-trump-resemblance-total-coincidence-1.2006094)) | None required — **cultural** **joke layer** only | **Unverified intent**; **timing** **rhyme** only |
-| **2016 → pro-Americana wave → Biden dip → 2024** | Investigator macro thesis | **Top Gun: Maverick** **2022** **patriot** **culture-war** reception ([Vanity Fair](https://www.vanityfair.com/news/2022/05/top-gun-maverick-culture-war)); **strikes** explain **Fast 11** delays ([Screen Rant](https://screenrant.com/fast-furious-11-release-delay-filming-start-date-confirmed-louis-leterrier/)) | **Mixed** — **some** **patriot** **blockbusters**; **labor** **explains** delays **without** **Trump** **hypothesis** |
 
 ---
 
@@ -130,6 +113,23 @@ The author ties Trump’s “here comes the storm” rhetoric to the predictable
 
 ---
 
+## Scorecard — predictions / partial hits / misses
+
+Roll-up after the anchor case and supporting sections above.
+
+| Thread | Fiction / timing | Real-world convergence | Score |
+|--------|-------------------|-------------------------|-------|
+| Strange timelines → only Stark / Iron Man can win; Time Stone traded for Stark’s life | *Infinity War* / *Endgame* (2018–2019) — author maps Stark → Trump; Strange yields Time Stone to Thanos so Stark lives | No direct news metric; retrospective political reading only | Author interpretive — not a falsifiable prediction row |
+| **President + naval / fleet crisis + international coercion** | *Brave New World* **2025** — president, **Indian Ocean** showdown, **fleet** attack beat ([Wikipedia plot](https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World)) | **2025–2026** **maritime blockades** / **Navy-led** coercion (**Venezuela** tankers; **Hormuz** reporting) ([Reuters](https://www.reuters.com/world/americas/trump-orders-blockade-sanctioned-oil-tankers-leaving-entering-venezuela-2025-12-16/), [Defense News](https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/)) | **Strong partial** — thematic / structural, not scene-for-scene |
+| **Red Hulk president / narcissism / spectacle** | Same film; **Ford**; **Red Hulk** **White House** rage | Real **Trump** **media** **spectacle** and **strongman** **coverage** (constant); no **literal** **Hulk** | **Thematic** — interpretive |
+| **Homelander ↔ Trump** | *The Boys* — showrunner **Kripke** **affirms** **analogue** ([CBR / Rolling Stone](https://www.cbr.com/the-boys-showrunner-homelander-absolutely-donald-trump-analogue/)) | **MAGA** rally **costume** crossovers reported in same cultural cycle | **Intent** **on record** for satire layer; **not** a “prediction” of a future event |
+| **Space Force** naming / negligent POTUS | Netflix **2020**; **Daniels** “parallel universe” ([Syfy](https://www.syfy.com/syfy-wire/space-force-netflix-showrunner-greg-daniels)) | **Real** **Space Force** branch under **Trump** | **Rhyme** — institutional |
+| **Superman** — **Boravia/Jarhanpur**, **fake news**, **home front** split | DC **2025**; **Gunn** denies **Israel–Palestine** intent ([Cinemablend](https://www.cinemablend.com/superheroes/superman/one-truth-about-making-superman-james-gunn-says-internet-refuses-to-believe)) | Ongoing **Middle East** **news**; **“fake news”** **politics** | **Thematic** — contested reception |
+| **Boss Baby** ↔ Trump | **2017**; director **denies** ([Gulf News / THR](https://gulfnews.com/entertainment/boss-baby-trump-resemblance-total-coincidence-1.2006094)) | None required — **cultural** **joke layer** only | **Unverified intent**; **timing** **rhyme** only |
+| **2016 → pro-Americana wave → Biden dip → 2024** | Investigator macro thesis | **Top Gun: Maverick** **2022** **patriot** **culture-war** reception ([Vanity Fair](https://www.vanityfair.com/news/2022/05/top-gun-maverick-culture-war)); **strikes** explain **Fast 11** delays ([Screen Rant](https://screenrant.com/fast-furious-11-release-delay-filming-start-date-confirmed-louis-leterrier/)) | **Mixed** — **some** **patriot** **blockbusters**; **labor** **explains** delays **without** **Trump** **hypothesis** |
+
+---
+
 ## Weak points / TODOs
 
 | # | Gap | Why it matters |
@@ -146,7 +146,7 @@ The author ties Trump’s “here comes the storm” rhetoric to the predictable
 
 #influence #hollywood #governance #trump #predictive_programming #media #marvel #dc #streaming #war
 
-**Date:** 2026-04-19 — PP/trend refactor; Limits at end. 2026-04-19 — CA:BNW vs maritime blockade cluster; hub link. 2026-04-19 — § Author thesis *Infinity War* / *Endgame* (Strange / Stark / Trump); scorecard row; TODO comparative “narcissist savior” precedents. 2026-04-19 — § Author note (rigidity, humans/LLMs, media as territory); Limits: author meta-disclaimer first, technical bullets shortened.
+**Date:** 2026-04-19 — PP/trend refactor; Limits at end. 2026-04-19 — CA:BNW vs maritime blockade cluster; hub link. 2026-04-19 — § Author thesis *Infinity War* / *Endgame* (Strange / Stark / Trump); scorecard row; TODO comparative “narcissist savior” precedents. 2026-04-19 — § Author note (rigidity, humans/LLMs, media as territory); Limits: author meta-disclaimer first, technical bullets shortened. 2026-04-19 — **Order:** methodology → author note (epistemic) → session capture → IW/Endgame thesis → anchor → supporting → Cap arc → **scorecard** → weak points → keywords → limits.
 
 ---
 
