@@ -1,8 +1,25 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-19T12:43:44.875Z",
+    "date": "2026-04-19T12:55:12.879Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
+        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-19T12:43:34.000Z",
+    "message": "Add Trump-era Hollywood political media investigation; index deep dive; CoD MW header PNG.",
     "files": [
       {
         "status": "M",
@@ -869,23 +886,6 @@
         "status": "A",
         "path": "history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-illustration.png",
         "href": "/history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-illustration.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-14T23:57:09.000Z",
-    "message": "Investigation: §0 RoM strategic spine; section map; cross-refs; index blurb",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
-        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
       }
     ]
   }
