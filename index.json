@@ -494,7 +494,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-19T12:43:34Z"
+    "_updated": "2026-04-19T12:55:03Z"
   },
   "cosmos": {
     "cosmology": {
@@ -11702,8 +11702,8 @@
         "_updated": "2026-01-16T01:04:59Z"
       },
       "trump-era-hollywood-political-media-investigation.md": {
-        "_title": "Investigation: Trump-era cinema, satire, and \u201cplausible deniability\u201d \u2014 media vs political trend (2016\u20132026)",
-        "_updated": "2026-04-19T12:43:34Z"
+        "_title": "Investigation: Trump-era Hollywood as predictive programming \u2014 trends, rhymes, and scorecard (2016\u20132026)",
+        "_updated": "2026-04-19T12:55:03Z"
       },
       "_count": 8
     },
@@ -14034,5 +14034,5 @@
     "_count": 153
   },
   "_count": 1975,
-  "_version": "44deb5d"
+  "_version": "8b2bc15"
 }

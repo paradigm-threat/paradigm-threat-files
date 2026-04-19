@@ -2,7 +2,7 @@
 
 **Purpose:** Inventory all paradigm-threat-files investigations that have unfinished work or TODOs an agent could do; validate claims where reasonable; record dead ends; give objective likelihood on key claims; list remaining todos and **books/full texts to obtain** as original sources.
 
-**Date:** 2026-03-16 (updated 2026-04-19: Trump-era Hollywood / political media investigation added; 2026-03-27: Jonestown / CIA Latin America pattern investigation added; 2026-04-18: *Call of Duty* MW investigation + [investigation writing instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md); 2026-04-18: §5 editor note — no absolute OS paths in investigation bodies; use end-of-file Investigator notes)
+**Date:** 2026-03-16 (updated 2026-04-19: Trump-era Hollywood investigation refactored to PP scorecard + CA:BNW / blockade cluster; 2026-03-27: Jonestown / CIA Latin America pattern investigation added; 2026-04-18: *Call of Duty* MW investigation + [investigation writing instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md); 2026-04-18: §5 editor note — no absolute OS paths in investigation bodies; use end-of-file Investigator notes)
 
 ---
 
@@ -26,7 +26,7 @@
 | 14 | RMS Titanic (1912) | [titanic-sinking-investigation.md](/governance/war/investigations/titanic-sinking-investigation.md) | 5 open questions (primary sources) | US Senate / UK inquiry reports; Gardiner; critical surveys |
 | 15 | Jonestown 1978 + CIA Latin America pattern | [jonestown-guyana-1978-cia-latin-america-pattern-investigation.md](/governance/war/investigations/jonestown-guyana-1978-cia-latin-america-pattern-investigation.md) | §6 checklist (hearings, Dwyer cables, forensics, La Penca files) | SDSU Jonestown Institute; House hearings; NSArchive Chile; CEH Guatemala |
 | 16 | *Call of Duty: Modern Warfare* original vs reboot / militainment | [call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) | §7 table + checkboxes (Glasco corroboration, WH CoD clip 2026, MWIII arc, Soleimani echo sourcing, etc.) | Games/Activision primary statements as they appear |
-| 17 | Trump-era Hollywood / political media — deniability vs intent | [trump-era-hollywood-political-media-investigation.md](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) | § Weak points — archives for creator quotes; survey on trailer-only offense; Marvel dev docs; strike attribution per tentpole | Rolling Stone (Kripke) primary; io9 Feige; Gunn interviews as cited |
+| 17 | Trump-era Hollywood — PP trends, scorecard, CA:BNW vs maritime blockade news | [trump-era-hollywood-political-media-investigation.md](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) | § Weak points — scene-level script vs blockade wording; Marvel dev timelines; archival ACW 2.0 pitch | Reuters Venezuela; Defense News Hormuz 2026; Wikipedia CA:BNW plot |
 
 **Total:** 17 investigations with explicit unfinished work. Others (e.g. false-flag catalog, Iran 2026, nukes, mars, mudflood) may have shorter or no checklist sections; they are not omitted from validation below where applicable.
 

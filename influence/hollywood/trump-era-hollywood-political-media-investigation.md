@@ -1,126 +1,93 @@
-# Investigation: Trump-era cinema, satire, and “plausible deniability” — media vs political trend (2016–2026)
+# Investigation: Trump-era Hollywood as predictive programming — trends, rhymes, and scorecard (2016–2026)
 
-> **TL;DR:** Mainstream **trade and general-interest press** repeatedly asked whether specific releases “rhymed” with **Donald Trump** (voice casting, branch naming, narcissist-in-chief tropes, Middle East–coded allegory). **Creators’ public statements split cleanly:** some projects lean **hard on deniability** (*Boss Baby*, *Superman* Boravia/Jarhanpur, *Space Force* as “parallel universe”), while ***The Boys*** showrunner **Eric Kripke** has **explicitly** called **Homelander** a **Trump analogue** — which **weakens** “nobody meant politics” as a universal shield for that IP. **Captain America: Civil War** development histories (e.g. **io9** on **Feige** / **Markus & McFeely**) describe a pivot from **non–Civil War** plots toward the **registration / Avengers split** because prior outlines “weren’t feeling worthy” of following ***Winter Soldier*** — **not** a documented studio pivot away from a **literal U.S. civil war** film. **Avengers: Endgame**’s title is **publicly** tied to **Doctor Strange**’s “endgame” line and **localization**, not to election politics. **Fast & Furious 11** delays are **widely** attributed to **2023 strikes** and **ensemble scheduling**, not to a Trump-linked “protection” of Hollywood product. This file maps **citations**, **interpretive** readings, and **falsifiers** where open sources allow.
+> **TL;DR:** This file treats **Trump-adjacent** mass media as **predictive-programming data** — **recurrent themes and timing** worth logging **without** requiring producer confessions or courtroom-grade intent. **Anchor:** ***Captain America: Brave New World*** (**Feb 2025**) centers a **U.S. president** (**Ross** / **Red Hulk**) in **geopolitical military spectacle** — **Indian Ocean** **Celestial Island** standoff, **U.S. pilots** used against a **foreign fleet** ([Wikipedia plot summary](https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World)). **Real world:** the **Trump** administration ordered a **maritime blockade** of **sanctioned oil tankers** around **Venezuela** (**Dec 2025** onward) with **Navy** presence ([Reuters](https://www.reuters.com/world/americas/trump-orders-blockade-sanctioned-oil-tankers-leaving-entering-venezuela-2025-12-16/)); **Apr 2026** reporting on a **Strait of Hormuz** **blockade** order ([Defense News](https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/)). That is **not** a literal “same script” match — it is a **macro-rhyme** (**sitting president + coercive naval posture + international flashpoint**) that **landed after** the film. Other threads (**Homelander**, **Superman** Boravia/**fake news**, **Space Force** naming) are scored in [§ Scorecard](#scorecard-predictions--partial-hits--misses). Full **author stance** from the originating session is preserved in [§ Author sentiment](#author-sentiment--session-capture).
 
 ## Status
 
-**Open.**
+**Open** — trend catalog; forward comparison as new administrations and releases accumulate.
 
 ## Guide (read order)
 
-1. [Burden of proof — who owes whom what?](#burden-of-proof--who-owes-whom-what)
-2. [Case studies with citations](#case-studies-with-citations) — *Boss Baby*, *Brave New World*, *Space Force*, *The Boys*, *Superman* (2025)
-3. [“Pro-America / pro-military” blockbusters](#pro-america--pro-military-blockbusters-and-late-trump--transition-window)
-4. [Captain America thread — *Civil War*, *Endgame*, Evans vs “America”](#captain-america-thread--civil-war-origins-endgame-evans-vs-america-in-the-mcu)
-5. [Ten-year trend thesis (2016–2026)](#ten-year-trend-thesis-20162026--what-open-sources-do-and-do-not-support)
-6. [Weak points / TODOs](#weak-points--todos)
-7. [Keywords](#keywords)
-8. [Limits and disclaimers](#limits-and-disclaimers) — evidence discipline (end of file)
+1. [Paradigm PP methodology (this file)](#paradigm-pp-methodology-for-this-investigation)
+2. [Author sentiment — session capture](#author-sentiment--session-capture)
+3. [Anchor case — *Brave New World* (2025) vs real maritime presidency](#anchor-case--captain-america-brave-new-world-2025-vs-real-maritime-presidency-20252026)
+4. [Scorecard — predictions / partial hits / misses](#scorecard-predictions--partial-hits--misses)
+5. [Supporting clusters — Boss Baby, *Space Force*, *The Boys*, *Superman*](#supporting-clusters--brief)
+6. [Cap franchise arc, pro-military blockbusters, ten-year trend](#cap-franchise-arc-pro-military-blockbusters-ten-year-trend)
+7. [Weak points / TODOs](#weak-points--todos)
+8. [Keywords](#keywords)
+9. [Limits and disclaimers](#limits-and-disclaimers)
 
 ---
 
-## Burden of proof — who owes whom what?
+## Paradigm PP methodology (this file)
 
-The investigation question can be restated in two incompatible legal metaphors:
+Aligned with the site hub [Predictive Programming](/influence/predictive_programming/page.md):
 
-| Frame | Who must persuade whom? | Why it matters |
-|--------|-------------------------|----------------|
-| **Deliberate “attack”** | Accuser must show intent + targeting | Without leaks, audiences rely on **circumstance + creator talk** |
-| **Artistic coincidence / generic archetype** | Studio says “generic CEO / generic strongman” | Works best when **timing** and **casting** are awkward but not dispositive |
-
----
-
-## Case studies with citations
-
-### 1. *The Boss Baby* (DreamWorks, March 2017 — early Trump term)
-
-**Why people drew the parallel:** The baby executive wears a suit; **Alec Baldwin** (then central to **SNL**’s Trump impression) voices him; reviews noted a **“You’re fired”**–style register and **businessman-baby** tropes. **Vanity Fair** asked outright whether the film was “a cartoon about an infant Donald Trump” ([Vanity Fair, Mar 2017](https://www.vanityfair.com/hollywood/2017/03/boss-baby-alec-baldwin-donald-trump-dreamworks-movie)).
-
-**Studio / director deniability:** Director **Tom McGrath** told press the Trump resemblance was a **“total coincidence,”** that most of the film was **written in 2012**, and animation was largely complete before Trump was a **“serious contender,”** and that overlap was **“business guy”** tropes — not a Trump portrait ([Gulf News, citing THR / Guardian chain, Nov 2018](https://gulfnews.com/entertainment/boss-baby-trump-resemblance-total-coincidence-1.2006094)). **The Guardian** summarized McGrath: **not Trump** — **“immature, sometimes greedy businessman”** ([The Guardian, Apr 2017](https://www.theguardian.com/film/2017/apr/01/donald-trump-boss-baby-alec-baldwin-film)).
-
-**Synthesis:** **Plausible deniability** is **strong on paper** if one credits the **2012 writing** timeline and generic **CEO-baby** premise; **weak in cultural reception** because **Baldwin + businessman-baby + 2017 release** was an unavoidable **press magnet**.
+- **PP as data, not verdict:** Repeated fiction–news **rhymes** are logged; **interpretation stays open** where evidence is ambiguous (hub: *“We treat predictive programming as data, not proof or disproof.”*).
+- **Trends over “gotcha” proof:** This investigation **does not** optimize for **studio admissions** or **single smoking-gun documents**. Those channels are **often opaque**; **redaction**, **NDAs**, and **promotional framing** can hide or distort development history — so **pattern strength** and **calendar convergence** carry weight here **under that caveat**.
+- **Chronology caveat:** The hub notes that if **official timelines** are wrong or **history redacted**, comparisons stall; this file still records **visible** mainstream dates for film release and news ([hub — chronology as comparator](https://paradigmthreat.net/influence/predictive_programming/page.md)).
+- **Second-hand encoding:** Not every rhyme is **orders from above**; some is **genre copying** — effect on audiences can still parallel **forward programming** (hub TL;DR).
 
 ---
 
-### 2. *Captain America: Brave New World* (2025) — Red Hulk President / “fleet” / narcissism readings
+## Author sentiment — session capture
 
-**Public political reading:** Trade and fan media widely discussed whether **President Thaddeus “Thunderbolt” Ross** (**Harrison Ford**) as **Red Hulk** maps onto **Trump**-era strongman / military-display themes; **Anthony Mackie** publicly pushed back on simplistic color-mapping readings in some outlets ([MovieWeb — Mackie reaction, summarized](https://movieweb.com/anthony-mackie-captain-america-red-hulk-donald-trump-comparison)).
+The investigator’s **full stance** from the session that spawned this file — preserved **verbatim in spirit**, not debated here:
 
-**Ford / “political Marvel”:** **IMDb News** and similar aggregators quote **Ford** acknowledging the film could land as a **“political Marvel movie”** in audience interpretation ([IMDb news clip, Harrison Ford talks Red Hulk / presidents](https://www.imdb.com/news/ni65091706/)).
+- **Core question:** Were releases such as ***Boss Baby***, ***Captain America: Brave New World***, ***Space Force***, ***The Boys*** (**Homelander**), and ***Superman*** (**2025**) **deliberate attacks** on **Trump** / **MAGA**, or is **plausible deniability** total? The investigator would place the **burden on producers** to show they were **not** thinking about **Trump** when those works were shaped — especially where casting, naming, and **narcissist-commander** imagery pile up.
+- ***Boss Baby*:** Dropped **early first term**; **Baldwin** + businessman-baby; reads as **ambient** Trump-era satire whether or not writers “intended” it.
+- ***Brave New World*:** **Harrison Ford** as **Red Hulk president** **ordering force** and **revealing** **narcissistic** / **volatile** leadership in a **high-production** Marvel vehicle — **not** subtle. Investigator reads **presidential military display** and **fleet-level** crisis as **on the nose** for the era.
+- ***Space Force*:** **Named** after **Trump’s** branch; **POTUS** as **negligent**, **narcissistic**, **backward on tech** — **direct** cultural rhymes.
+- ***The Boys* / Homelander:** **Heavy** **predictive programming** feel; **offensive** to **America / Trump** fans at first glance, yet **plausibly deniable** to everyone else — investigator reads **divide-and-conquer** audience strategy.
+- ***Superman* (2025):** **Baravia** / **Jarhanpur**-style **intervention**, **U.S.-backed** militarized state vs **weaker** neighbor; **Superman** unpopular at home for **foreign** choices; **“fake news”** line; fight with **Lois** as **template for real-world** audience fights — again **divide-and-conquer**.
+- **Pro-America / pro-Trump counter-wave:** Investigator notes **patriotic** tentpoles toward the **end** of Trump’s first term and asks whether **Captain America: Civil War** was **once** pointed at a **real national fracture** before it became **Avengers** infighting — and whether **Trump’s 2016** win **bent** Hollywood toward **more pro-America** product for several years.
+- **Cap arc:** **Captain America** **dominates** the MCU through **Endgame** (**2019**) — title investigator reads as **zeitgeist**; **Chris Evans** later plays **non-Cap** roles with **profanity**; **America Chavez** and mantle shifts investigator finds **suspicious** in the **Biden** window — **not** claimed as **proven coordination**, but as **cultural** **handoff** discomfort.
+- **Macro thesis:** **2016** surprise **changed** **cinema** toward **pro-American** energy for **~four years**; **Biden 2020** **ended** that wave; **Trump 2024** did **not** restore the same **on-screen** alignment — investigator hypothesizes **anticipation** that **Trump** might again **influence** or **protect** certain stories, and ties **inexplicable** **delays** (e.g. **Fast & Furious**) to that **unease** — **trend** only here, not established in trades.
 
-**Synthesis:** This case is **split:** **Cast interviews** admit **political temperature**; **star pushback** warns against **one-to-one** mapping. **Deniability** remains **arguable** because **Ross** is a **long-running Marvel character** independent of Trump; **rhyme** is still **invited** by **presidential military spectacle** in a **release-year** election culture.
-
----
-
-### 3. *Space Force* (Netflix, 2020) — same name as the branch; negligent / narcissistic “POTUS” tones
-
-**Origin story (press):** Outlets recount the pitch emerging after Trump’s **Space Force** announcement; **Steve Carell** phoned **Greg Daniels** with **“Space Force,”** Netflix moved quickly ([BGR / Syfy Wire–style coverage summarized in searches](https://www.bgr.com/entertainment/space-force-show-netflix-greg-daniels-interview-steve-carell/)).
-
-**Daniels’ frame:** **Syfy Wire** quotes **Daniels** that the show is **not** the real branch one-to-one; it is a **“parallel universe”** “version” ([Syfy — “Space Force isn’t exactly about the real Space Force”](https://www.syfy.com/syfy-wire/space-force-netflix-showrunner-greg-daniels)). Reviews noted **Trump is never named** while **Twitter-era** president behavior is **clearly evoked** ([BGR headline on not naming Trump](https://www.bgr.com/entertainment/space-force-show-netflix-greg-daniels-interview-steve-carell/)).
-
-**Synthesis:** **Deniability** is **medium:** the show **signals** contemporary White House media habits without **naming** Trump; creators **describe** a **parallel** satire, not a **documentary attack order**.
+This block is **sentiment and hypothesis**; the **scorecard** and **citations** below separate **what converged in reality** from **what remains interpretive**.
 
 ---
 
-### 4. *The Boys* — Homelander; previews; “offended without watching”
+## Anchor case — *Captain America: Brave New World* (2025) vs real maritime presidency (2025–2026)
 
-**Showrunner intent (Tier A):** **Eric Kripke** told **Rolling Stone** (via **CBR** summary) that **Homelander** has **“always been a Trump analogue”** for him, while noting the satire got **bolder** as real-world politics got coarser ([CBR, Kripke quotes + Rolling Stone link](https://www.cbr.com/the-boys-showrunner-homelander-absolutely-donald-trump-analogue/); primary interview: [Rolling Stone](https://www.rollingstone.com/tv/tv-features/boys-penis-homelander-trump-billy-joel-season-3-1369258/)).
+**Fiction (mainstream plot summary):** After **Ross** is elected **president**, he deploys **Captain America** to **foreign** operations (**Mexico**), drives **White House** **geopolitical** summits, and the story escalates to **Celestial Island** in the **Indian Ocean** — a **strategic** **resource** race with **Japan**, including **U.S. pilots** directed against a **foreign fleet** ([Wikipedia — *Captain America: Brave New World* plot](https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World)). **Ross** is **Harrison Ford**; press discussed **Trump** parallels and **political Marvel** readings ([IMDb news — Ford](https://www.imdb.com/news/ni65091706/); [MovieWeb — Mackie on comparisons](https://movieweb.com/anthony-mackie-captain-america-red-hulk-donald-trump-comparison)).
 
-**Actor distance:** **Antony Starr** has publicly called direct Trump mapping **“low-hanging fruit”** and resisted collapsing the character into one politician ([EW](https://ew.com/the-boys-antony-starr-donald-trump-comparisons-low-hanging-fruit-8759970), [Independent](https://www.independent.co.uk/arts-entertainment/tv/news/antony-starr-the-boys-trump-homelander-b2666953.html)).
+**Real (post-release):** **December 16, 2025** — **Trump** orders a **“total and complete blockade”** of **sanctioned oil tankers** **into and out of** **Venezuela**; reporting ties **Navy** assets and **interdiction** to the policy ([Reuters](https://www.reuters.com/world/americas/trump-orders-blockade-sanctioned-oil-tankers-leaving-entering-venezuela-2025-12-16/)). **Wikipedia** summarizes **Operation Southern Spear**–era **U.S. oil blockade** and **tanker** seizures ([United States blockade during Operation Southern Spear](https://en.wikipedia.org/wiki/United_States_blockade_during_Operation_Southern_Spear)). **April 12, 2026** — headlines report **Trump** stating **U.S. Navy** would **blockade** the **Strait of Hormuz** “effective immediately” ([Defense News](https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/)).
 
-**Marketing that reaches non-viewers:** Season **4** promo material leaned into **trial / indictment** imagery parallel to Trump’s legal season; trades covered it ([ComicBook.com — season 4 promo / indictment joke](https://comicbook.com/tv-shows/news/the-boys-season-4-promo-teaser-trump-indictment-joke-homelander-free/)). **Reuters** framed Season **4** as diving into **political polarization** ([Reuters, Jun 2024](https://www.reuters.com/lifestyle/the-boys-season-4-plunges-into-political-polarization-2024-06-11/)). Press also documents **conservative backlash** and **late recognition** of the show’s politics ([Screenshot Media](https://screenshot-media.com/culture/entertainment/the-boys-conservative-backlash-season-four/); [Winter Is Coming](https://winteriscoming.net/posts/the-boys-was-always-anti-authoritarian-and-anti-trump-but-some-conservative-fans-are-only-now-seeing-it-01j0pn1yqe21)).
-
-**Synthesis:** **Kripke** affirms the **Trump analogue** — weak deniability at the **showrunner** tier. **Starr** resists flattening the role to one politician; audience mapping stays contested.
+**Trend read:** The film **did not** have to predict **Venezuela** or **Hormuz** by name. The **convergent pattern** is: **U.S. president** + **naval coercion** + **global flashpoint** + **media cycle** — **fiction first** (**Feb 2025** wide U.S. release), **maritime blockade politics** **intensifying** **after**. That is the **strongest calendar cluster** in this investigation for **forward rhyme**.
 
 ---
 
-### 5. *Superman* (2025, DC) — Boravia / Jarhanpur; “fake news”; Superman unpopular at home
+## Scorecard — predictions / partial hits / misses
 
-**Plot contour (public discussion):** Commentary and controversy tracks focus on **Boravia** (U.S.-aligned, militarized) vs **Jarhanpur**, **Superman** intervening, and **Lex**-driven **misinformation** angles — summarized across entertainment outlets (e.g. [Screen Rant — Gunn / Israel–Palestine debates](https://screenrant.com/superman-movie-james-gunn-israel-palestine-explained/)).
-
-**Gunn’s denials:** Multiple outlets quote **James Gunn** insisting the film is **not** a deliberate Israel–Palestine allegory and that the script predated **Oct 2023** escalation — while critics note the **long history** of that conflict makes “predates” arguments **politically contested** ([Tribune (Pakistan) summary of Gunn quote](https://tribune.com.pk/story/2569428/james-gunn-denies-superman-reflects-israelpalestine-says-script-finished-before-genocide-began); [Cinemablend — Gunn on what audiences “refuse to believe”](https://www.cinemablend.com/superheroes/superman/one-truth-about-making-superman-james-gunn-says-internet-refuses-to-believe)).
-
-**Trump-era vocabulary overlay:** Commentators connect **“fake news”** and media-warfare beats to **Trump-era** discourse; **Gunn** denies Middle East allegory intent — reception split regardless.
-
----
-
-## “Pro-America / pro-military” blockbusters and late-Trump / transition window
-
-**Top Gun: Maverick (2022)** arrived as a **massive** **military aviation** blockbuster; **right-leaning** outlets championed it as **patriotic** / **“non-woke”** culture-war fodder, while other columns debated that framing ([Vanity Fair — culture-war crusade](https://www.vanityfair.com/news/2022/05/top-gun-maverick-culture-war)). **Release timing** overlaps **Biden**’s presidency (**May 2022**), after **COVID** delays — so it is a **weak** datapoint for “**end of Trump term only**,” but a **strong** datapoint for **“post-2016 resurgent gung-ho aviation IP.”**
-
-**Other calendar anchors:** **American Sniper** (2014), **13 Hours** (2016), **Midway** (2019) — illustrate persistent war / patriot lanes; not used here as proof a White House **commissioned** them.
+| Thread | Fiction / timing | Real-world convergence | Score |
+|--------|-------------------|-------------------------|-------|
+| **President + naval / fleet crisis + international coercion** | *Brave New World* **2025** — president, **Indian Ocean** showdown, **fleet** attack beat ([Wikipedia plot](https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World)) | **2025–2026** **maritime blockades** / **Navy-led** coercion (**Venezuela** tankers; **Hormuz** reporting) ([Reuters](https://www.reuters.com/world/americas/trump-orders-blockade-sanctioned-oil-tankers-leaving-entering-venezuela-2025-12-16/), [Defense News](https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/)) | **Strong partial** — thematic / structural, not scene-for-scene |
+| **Red Hulk president / narcissism / spectacle** | Same film; **Ford**; **Red Hulk** **White House** rage | Real **Trump** **media** **spectacle** and **strongman** **coverage** (constant); no **literal** **Hulk** | **Thematic** — interpretive |
+| **Homelander ↔ Trump** | *The Boys* — showrunner **Kripke** **affirms** **analogue** ([CBR / Rolling Stone](https://www.cbr.com/the-boys-showrunner-homelander-absolutely-donald-trump-analogue/)) | **MAGA** rally **costume** crossovers reported in same cultural cycle | **Intent** **on record** for satire layer; **not** a “prediction” of a future event |
+| **Space Force** naming / negligent POTUS | Netflix **2020**; **Daniels** “parallel universe” ([Syfy](https://www.syfy.com/syfy-wire/space-force-netflix-showrunner-greg-daniels)) | **Real** **Space Force** branch under **Trump** | **Rhyme** — institutional |
+| **Superman** — **Boravia/Jarhanpur**, **fake news**, **home front** split | DC **2025**; **Gunn** denies **Israel–Palestine** intent ([Cinemablend](https://www.cinemablend.com/superheroes/superman/one-truth-about-making-superman-james-gunn-says-internet-refuses-to-believe)) | Ongoing **Middle East** **news**; **“fake news”** **politics** | **Thematic** — contested reception |
+| **Boss Baby** ↔ Trump | **2017**; director **denies** ([Gulf News / THR](https://gulfnews.com/entertainment/boss-baby-trump-resemblance-total-coincidence-1.2006094)) | None required — **cultural** **joke layer** only | **Unverified intent**; **timing** **rhyme** only |
+| **2016 → pro-Americana wave → Biden dip → 2024** | Investigator macro thesis | **Top Gun: Maverick** **2022** **patriot** **culture-war** reception ([Vanity Fair](https://www.vanityfair.com/news/2022/05/top-gun-maverick-culture-war)); **strikes** explain **Fast 11** delays ([Screen Rant](https://screenrant.com/fast-furious-11-release-delay-filming-start-date-confirmed-louis-leterrier/)) | **Mixed** — **some** **patriot** **blockbusters**; **labor** **explains** delays **without** **Trump** **hypothesis** |
 
 ---
 
-## Captain America thread — Civil War origins, *Endgame*, Evans vs “America” in the MCU
+## Supporting clusters — brief
 
-### Was *Civil War* (2016) going to be “American civil war 2.0” before it became an Avengers fight?
-
-**Documented development story:** **Kevin Feige** told **io9** that early **Captain America 3** ideas continued the **Bucky** thread but many outlines did **not** feel **“worthy of a follow up to Winter Soldier”**; the **Civil War** pivot followed once the scope could include **Iron Man** and the **registration** conflict ([io9, Apr 2016](https://io9.gizmodo.com/how-captain-america-3-got-transformed-into-civil-war-1771691777)). **Russo** brothers elsewhere describe an early **Madbomb**-style concept (comic device driving crowds violent) as one **pre–Civil War** exploration ([Collider — Cap 3 wasn’t always Civil War](https://collider.com/captain-america-civil-war-avengers-infinity-war-ghostbusters-russo-brothers/); [ComicBookMovie — Madbomb](https://www.comicbookmovie.com/captain_america/captain_america_civil_war/russo-brothers-reveal-original-story-a144804)).
-
-**Vs. “literal ACW 2.0” pitch:** Trades center **registration** and **Bucky** fallout, not a scrapped **domestic-insurrection** epic; none of the pieces gathered here framed the abandoned Cap 3 as **ACW 2.0** (see [Limits](#limits-and-disclaimers) on negative evidence).
-
-### *Avengers: Endgame* (2019) — title “reflects the times”?
-
-Public **Russo** explanations tie **Endgame** to **Doctor Strange**’s **“endgame”** line and **international title / translation** considerations (e.g. Korean rendering of **“Infinity Gauntlet”**), not to electoral politics ([ComicBook.com — Russos on title](https://comicbook.com/marvel/news/avengers-endgame-directors-russo-brothers-title-infinity-gauntlet/); [Okayplayer — alternate titles](https://www.okayplayer.com/the-russo-brothers-reveal-what-avengers-endgame-was-almost-titled/312424)).
-
-### Chris Evans after Steve Rogers — “another character,” cursing, “America” name
-
-**Canonical MCU fact check:** After **Steve**’s arc, the **Captain America mantle** passes in-story to **Sam Wilson** (**Anthony Mackie**) in **Disney+** continuity leading to ***Brave New World*** — not to **America Chavez**. **America Chavez** (**Xochitl Gomez**) is a **separate** hero introduced in **Doctor Strange in the Multiverse of Madness** (2022).
-
-**Chris Evans — non-Cap star roles:** Evans plays **Ransom Drysdale**, a **vulgar** **villain**, in **Rian Johnson**’s ***Knives Out*** (2019 — **still Trump-era** calendar). That supports a **narrow** claim (“Evans post-Cap leaned into a foul-mouthed jerk role”) **without** requiring **Biden**-specific timing. **Rumors** that Evans would cameo in **Multiverse of Madness** as **Human Torch** / **Hydra Cap** were **widespread but false** — he **did not** appear ([CBR post-release summary](https://www.cbr.com/chris-evans-shouldve-returned-as-human-torch-doctor-strange-2-mcu/)).
-
-**Synthesis:** The **“America”** **handoff** the user points at maps more cleanly onto **Sam Wilson’s Cap** than onto **America Chavez**; treating **Chavez** as **“replacing Evans’ America”** is **narratively imprecise** even if **thematic** discomfort with the **name “America”** in a **Latinx** hero is **discussed in fandom**.
+- ***Boss Baby*:** Press and reviews asked the **Trump** question outright ([Vanity Fair](https://www.vanityfair.com/hollywood/2017/03/boss-baby-alec-baldwin-donald-trump-dreamworks-movie)); **McGrath** **coincidence** defense — **trend**: **ambient** **satire** **layer** whether or not **greenlit** as **attack**.
+- ***Space Force*:** **Carell/Daniels** pitch after **Trump** **announcement** ([BGR](https://www.bgr.com/entertainment/space-force-show-netflix-greg-daniels-interview-steve-carell/)); **parallel** **satire** — **trend**: **branch** **name** **collision** **with** **real** **institution**.
+- ***The Boys*:** **Kripke** on **Homelander** as **Trump** **analogue**; **Season 4** **promo** / **trial** **imagery** ([ComicBook.com](https://comicbook.com/tv-shows/news/the-boys-season-4-promo-teaser-trump-indictment-joke-homelander-free/)); **Reuters** on **polarization** ([Reuters](https://www.reuters.com/lifestyle/the-boys-season-4-plunges-into-political-polarization-2024-06-11/)) — **trend**: **satire** **locks** **to** **news** **cycle**.
+- ***Superman* (2025):** **Boravia/Jarhanpur** **debates** ([Screen Rant](https://screenrant.com/superman-movie-james-gunn-israel-palestine-explained/)); **trend**: **foreign** **intervention** **+** **domestic** **media** **fight** **mirrors** **polarized** **audience**.
 
 ---
 
-## Ten-year trend thesis (2016–2026) — what open sources do and do not support
+## Cap franchise arc, pro-military blockbusters, ten-year trend
 
-**Supported (soft):** There is **no shortage** of articles framing **Hollywood** as **responding** to **Trump** through **satire**, **casting**, and **release-window politics**; several **creators** **confirm** political **intent** for specific works (**Kripke**).
-
-**Partially supported:** **Delays** and **greenlight churn** across **2020–2025** often trace to **COVID**, **2023 WGA/SAG-AFTRA strikes**, and **franchise economics** — e.g. **Fast & Furious 11** pushed toward **2026** with **press** citing **strikes** and **ensemble schedules** ([Screen Rant — Leterrier / delay reporting](https://screenrant.com/fast-furious-11-release-delay-filming-start-date-confirmed-louis-leterrier/); [CBR — scheduling / Ritchson comment chain](https://www.cbr.com/fast-and-furious-11-holding-back-filming-alan-ritchson)).
-
-**Uncorroborated here:** A coordinated “Hollywood held back pro-Americana for Trump 2024” thesis — no trade reporting in the samples below; would need studio-side sources ([Limits](#limits-and-disclaimers)).
+- ***Civil War* (2016) development:** **Feige** / **io9** — **Cap 3** **became** **Civil War** when **Bucky** **thread** **needed** **scale**; **Madbomb** **alt** discussed ([io9](https://io9.gizmodo.com/how-captain-america-3-got-transformed-into-civil-war-1771691777), [Collider](https://collider.com/captain-america-civil-war-avengers-infinity-war-ghostbusters-russo-brothers/)). **Trend:** **Registration** **fight**, **not** **documented** **“ACW 2.0”** **pitch** in **trades** — investigator’s **“national** **fracture** **movie”** **hypothesis** **not** **surfaced** **as** **abandoned** **logline** **here**.
+- ***Endgame* (2019) title:** **Russos** tie to **Strange** **“endgame”** / **title** **localization** ([ComicBook.com](https://comicbook.com/marvel/news/avengers-endgame-directors-russo-brothers-title-infinity-gauntlet/)) — **trend**: **official** **story** **is** **in-universe**, **not** **electoral**; **sentiment** **overlay** **still** **possible** **for** **audiences**.
+- **Evans / Sam Wilson / America Chavez:** **Mantle** to **Sam Wilson** (**Mackie**); **America Chavez** **separate** (**Multiverse of Madness**); **Evans** **Ransom** in ***Knives Out*** — **trend** **facts** **vs** **investigator** **“name** **theft”** **unease** ([CBR](https://www.cbr.com/chris-evans-shouldve-returned-as-human-torch-doctor-strange-2-mcu/)).
+- **Pro-military blockbuster anchor:** ***Top Gun: Maverick*** **2022** **culture-war** **reception** ([Vanity Fair](https://www.vanityfair.com/news/2022/05/top-gun-maverick-culture-war)) — **post-COVID**, **Biden-era** **release**; **useful** **as** **patriot** **lane** **data**, **not** **Trump-term-only**.
 
 ---
 
@@ -128,39 +95,33 @@ Public **Russo** explanations tie **Endgame** to **Doctor Strange**’s **“end
 
 | # | Gap | Why it matters |
 |---|-----|----------------|
-| 1 | **Writers’ room emails** for *Boss Baby*, *Space Force*, *Brave New World* | Would elevate / falsify **intent** claims |
-| 2 | **Survey data** on “**offended by trailer only**” for *The Boys* | Current cites are **press narrative**, not **random-sample** studies |
-| 3 | **Marvel development archives** on early **Cap 3** treatments | Could confirm / deny **non-public** alternate plots |
-| 4 | **WGA strike impact statements** per tentpole | Separates **labor** from **political** delay theories |
+| 1 | **Scene-level** script vs **exact** **blockade** **wording** | **Brave New World** is **fleet**/**pilot** **crisis**, **not** **labeled** **“blockade”** — **precision** **score** **stays** **partial** |
+| 2 | **Primary** **Navy** **orders** / **White House** **contemporaneous** **film** **development** **records** | **Redaction** **zone** — **would** **sharpen** **causal** **vs** **coincidence** |
+| 3 | **Marvel** **writers’** **room** **timeline** **2019–2024** vs **Trump** **2024** **campaign** | **Tests** **macro** **Hollywood** **alignment** **thesis** |
+| 4 | **Archival** **press** **for** **“ACW** **2.0”** **Cap** **3** **pitch** | **Falsify** **or** **support** **investigator** **Civil** **War** **origin** **suspicion** |
 
 ---
 
 ## Keywords
 
-#influence #hollywood #governance #trump #predictive_programming #media #satire #marvel #dc #streaming
+#influence #hollywood #governance #trump #predictive_programming #media #marvel #dc #streaming #war
 
-**Date:** 2026-04-19 — Initial compile: case studies with **web citations**; **Kripke** primary thread; **Feige/io9** **Civil War** development; **Gunn** **Superman** denial chain; **Fast** delay **labor** context; **MCU** fact check **Sam Wilson / America Chavez**; **Knives Out** Evans counterexample. **2026-04-19** — **Limits** consolidated to file end per [PARADIGM_INVESTIGATION_INSTRUCTIONS](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md).
+**Date:** 2026-04-19 — PP/trend refactor; **Limits** at end. **2026-04-19** — **anchor** **CA:BNW** **vs** **2025–2026** **maritime** **blockade** **cluster**; **author** **sentiment** **block**; **scorecard**; **hub** **link**; **session** **capture**.
 
 ---
 
 ## Limits and disclaimers
 
-Single block for evidence discipline; everyday readers may skim. Cross-investigation links are **thematic rhymes**, not proof that fiction equals documented history.
-
-- **Not adjudication:** No RICO, election interference, or subpoena-grade proof of writers’-room intent. Material here is **public statements**, press analysis, and reception narratives.
-- **Rhyme ≠ targeted intent** unless corroborated (contracts, leaks — usually absent).
-- **Creator affirmations vs denials:** On-the-record **intent** (e.g. **Kripke** on Homelander) weighs more heavily than generic “it’s just fiction” for **that IP**; still not courtroom evidence.
-- **Predictive programming:** Thematic only; no claim that fiction **caused** later events.
-- **Evidence tiers:** Creator / primary interview → **A**; trade and serious press → **B**; social → **C** unless archived and attributable.
-- **Trailer-only offense (*The Boys*):** No random-sample survey cited; press documents backlash and polarization narratives, not controlled “preview-only” cohorts.
-- **Patriot blockbusters / calendars:** Release years and box-office culture wars do not prove White House or campaign **commissioning**.
-- **Negative evidence:** Absence of a reported scrapped plot (e.g. literal **ACW 2.0** Cap 3) is **not** dispositive that no one ever pitched it.
-- **Speculative macro theses** (e.g. Trump “protecting” or chilling Hollywood output): require producer-side or studio records — not established in the cites gathered here.
-- **Assistant bias:** Default pressure is toward “nothing to see here”; separate **falsifiers** for specific sub-claims from generic dismissal of the whole arc.
+- **Not adjudication** of **conspiracy** **or** **RICO**; **no** **claim** **of** **proven** **Hollywood** **orders** **from** **political** **actors** **without** **sources**.
+- **PP** **here** **means** **pattern** **logging** **per** [Predictive Programming hub](/influence/predictive_programming/page.md) — **not** **assertion** **that** **fiction** **caused** **later** **events**.
+- **Redaction** **and** **studio** **secrecy** **are** **assumed** **possible**; **absence** **of** **leaks** **does** **not** **prove** **absence** **of** **coordination**, **nor** **does** **it** **prove** **coordination**.
+- **Rhyme** **≠** **receipt**; **creator** **quotes** (**Kripke**) **weigh** **on** **intent** **for** ***The Boys*** **only** **as** **stated** **interviews**, **not** **as** **legal** **fact**.
+- **Brave New World** **vs** **blockades:** **Thematic** **parallel** **only**; **Wikipedia** **plot** **is** **not** **a** **contract** **for** **real** **war** **plans**.
+- **Assistant** **bias:** **Separate** **sub-claim** **tests** **from** **dismissal** **of** **whole** **arc**.
 
 ---
 
 ## Investigator notes
 
-- Re-run searches annually; entertainment URLs **rot**.
-- If the site ingests this file, mirror **Tier A** quotes (**Rolling Stone** interview for **Kripke**) in **PDF or archive** where policy allows.
+- Refresh **Reuters** / **Defense News** URLs if **headlines** **move**; **archive** **key** **quotes**.
+- If **timeline** **site** **links** **this** **file**, **mirror** **hub** **definition** **of** **PP** **in** **one** **sentence** **in** **metadata**.
