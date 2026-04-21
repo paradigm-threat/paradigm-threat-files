@@ -1,8 +1,114 @@
 # Investigations Deep Dive — Status, Validation, and Remaining Work
 
-**Purpose:** Inventory all paradigm-threat-files investigations that have unfinished work or TODOs an agent could do; validate claims where reasonable; record dead ends; give objective likelihood on key claims; list remaining todos and **books/full texts to obtain** as original sources.
+**Purpose:** List every investigation in §0; focus unfinished work and TODOs in §1; validate claims where reasonable in §2; record dead ends; give objective likelihood on key claims; list remaining todos and **books/full texts to obtain** as original sources.
 
-**Date:** 2026-03-16 (updated 2026-04-19: Trump-era Hollywood investigation refactored to PP scorecard + CA:BNW / blockade cluster; 2026-03-27: Jonestown / CIA Latin America pattern investigation added; 2026-04-18: *Call of Duty* MW investigation + [investigation writing instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md); 2026-04-18: §5 editor note — no absolute OS paths in investigation bodies; use end-of-file Investigator notes)
+**Date:** 2026-03-16 (updated 2026-04-21: §0 complete investigation inventory; 2026-04-19: Trump-era Hollywood investigation refactored to PP scorecard + CA:BNW / blockade cluster; 2026-03-27: Jonestown / CIA Latin America pattern investigation added; 2026-04-18: *Call of Duty* MW investigation + [investigation writing instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md); 2026-04-18: §5 editor note — no absolute OS paths in investigation bodies; use end-of-file Investigator notes)
+
+---
+
+## 0. Complete investigation inventory
+
+Every paradigm-threat-files investigation that uses the `*investigation.md` filename convention, plus [reverse-crusades-comparison.md](/governance/war/investigations/reverse-crusades-comparison.md), [vril-society.md](/governance/war/investigations/vril-society.md), and [wuxing-five-planets-dark-ages.md](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) (same treatment as site indexes). Deep-dive validation in §2 below applies only where a subsection exists; the rest are listed here so nothing is orphaned.
+
+**Count:** 78 files in the lists below.
+
+**Supplementary** (same research lane, different filename): [Chronology investigations index](/history/chronology/investigations/index-investigations.md) lists companion articles (e.g. Rus–Horde lexicon, New World naming). [War investigations hub](/governance/war/investigations/page.md) lists thematic clusters. Fiction-encoding threads: [Narnia planetary encoding](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md), [Tolkien redacted fact](/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md), [Swift investigation](/influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift.md), [Asimov investigation threads](/influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads.md).
+
+### Cosmos
+
+- [Investigation: Hollow Earth — Sources, Maps, Books, and Atlantis](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md)
+- [Investigation: Tham Luang Cave Rescue (2018) — Cover-up and Alternate Theories](/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md)
+- [Investigation: Flat Earth — History, Myth, and Misinterpretation](/cosmos/flat_earth/flat-earth-investigation.md)
+- [Investigation: Mars–Earth Reincarnation — Mass Death on Mars and Souls Reborn on Earth](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md)
+- [Investigation: Pluto — The Unseen Planet, Lost to Hell](/cosmos/pluto/investigations/pluto-origin-visibility-investigation.md)
+- [Investigation: Venus — From Saturnian Cosmology to Venera](/cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation.md)
+
+### Events
+
+- [Investigation: September 11, 2001 — Good-Actor Historic Antibody Thesis](/events/false_flag/investigations/09-11-investigation.md)
+- [Investigation: Would Netanyahu Want a Faked Death Here? — Motive, Timeline, and Iran Narrative](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md)
+- [Investigation: Richard Gage, AE911Truth, and the Controlled-Demolition Thesis (9/11)](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md)
+- [Investigation: Trump, Historic Antibodies, and the Uncompromised Dynasty Thesis](/events/trump/index-trump-investigation.md)
+
+### Governance & slavery
+
+- [Slave Trades of Earth History & Moor Etymology](/governance/slavery/slave-trades-and-moor-etymology-investigation.md)
+- [Investigation: American Revolution — A Tiny Piece in a Much Bigger Puzzle](/governance/war/investigations/american-revolution-investigation.md)
+- [Investigation: British Civil War — Societized Consolidation and the Template for Western Governance](/governance/war/investigations/british-civil-war-investigation.md)
+- [Investigation: British Empire Divide-and-Conquer — Israel, India/Pakistan, Africa, and the Deep State Hypothesis](/governance/war/investigations/british-divide-conquer-israel-investigation.md)
+- [Investigation: *Call of Duty: Modern Warfare* — Original Trilogy vs. Soft Reboot, Militainment, Iran–Russia Framing, and Cross-Media Operator Archetypes](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md)
+- [Investigation: CIA — OSS Rebrand, Nazi Gold, Iran, 9/11, and the Antibody Thesis](/governance/war/investigations/cia-investigation.md)
+- [Investigation: Ted Cruz, Kevin Malone (*The Office*), and the “Hijacked Plan” Hypothesis](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md)
+- [Investigation: Dubious “Stand Down” Orders — Benghazi (2012), Libya’s Breakup, and Pattern Echoes](/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md)
+- [Investigation: French Revolution — Societized Consolidation and Political Reorganization](/governance/war/investigations/french-revolution-investigation.md)
+- [Jonestown (18 November 1978): disputed narratives, CIA footprint, and Central American parallels](/governance/war/investigations/jonestown-guyana-1978-cia-latin-america-pattern-investigation.md)
+- [Investigation: The Word "Martyr" — Etymology, Mars/Murder, and the Real Nature of a Martyr](/governance/war/investigations/martyr-word-history-investigation.md)
+- [Investigation: Napoleonic Artillery, “Sound Cannons,” and Lighter-Than-Air Technology](/governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md)
+- [Investigation: Occupy Wall Street — origins, collapse, surveillance, and the “controlled opposition” thesis](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md)
+- [Investigation: Operation Paperclip, Nazi Continuity, and the WWII “Defeat” Narrative](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md)
+- [The Four Reverse Crusades: A Structural Comparison](/governance/war/investigations/reverse-crusades-comparison.md)
+- [Investigation: Soviet Collapse — Western Orchestration, Media, and Post-WWII Isolation](/governance/war/investigations/soviet-collapse-investigation.md)
+- [Investigation: RMS Titanic (1912) — Timing, Alternative Narratives, and Aftermath](/governance/war/investigations/titanic-sinking-investigation.md)
+- [Investigation: Armed confrontations — U.S. citizens vs. federal government, military, and federal agents](/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md)
+- [Investigation: US Civil War — British Funding, Slavery as Instrument, and the DU Weapon Thesis](/governance/war/investigations/us-civil-war-investigation.md)
+- [Vril Society: Claim, Debunk, and Redaction Potential](/governance/war/investigations/vril-society.md)
+- [Investigation: Why Japan, Italy, and Germany — Fascism as Religious-Apparatus Takeover](/governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md)
+- [Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan](/governance/war/investigations/yakuza-remote-control-investigation.md)
+
+### History
+
+- [Investigation: Artemis II — Mission as Faith Test, Staged-Production Readings, and Foreign-Press Patterns](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md)
+- [Investigation: Etana, the Sumerian King List, and "Wheels in the Sky" Testimony (Open)](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md)
+- [Giants, Infantry, Guerrilla, and the Children's Crusade — Lexical Investigation](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md)
+- [Investigation (concluded): Griffins and other “myth” fauna in sober historical texts — extinction by human pressure?](/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md)
+- [Prester John, *Presbyter Ioannes*, and the Rus–Horde Christian East — NC and author thesis](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md)
+- [Investigation: Pyramid “Energy” — Kerrell & Goggin (1977) and Large Stone Geometry](/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md)
+- [Investigation: Radiocarbon Dating — Dogmatic Adoption and the Electrical Activity Problem](/history/chronology/investigations/radiocarbon-dating-investigation.md)
+- [Investigation: History of Soul Science — From First References to the Mind as Replacement](/history/chronology/investigations/soul-science-investigation.md)
+- [Investigation: Les Brown — *The Pyramid: How to Build It, How to Use It*](/history/chronology/investigations/the-pyramid-les-brown-investigation.md)
+- [Investigation: John Michell — *The View Over Atlantis* / *The New View Over Atlantis*](/history/chronology/investigations/view-over-atlantis-michell-investigation.md)
+- [Investigation: Wuxing and the Five Planets — Dark Ages Observational Record](/history/chronology/investigations/wuxing-five-planets-dark-ages.md)
+- [Pre-Mudflood Maps — Fra Mauro, the Sahara, and Under-500-Year Desert Claims](/history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.md)
+- [Investigation: Blood rain, Passat dust, Dust Bowl, and large-scale ecological / atmospheric shocks (post–mud-flood oddities)](/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md)
+- [Investigation: Cargo Cults — Official History, Human Behavior, and 18th–19th Century / Manna Redaction](/history/mudflood/investigations/cargo-cults-investigation.md)
+- [MFEE Investigation — Evidence and Map Changes Over Time](/history/mudflood/investigations/mfee-investigation.md)
+- [Investigation: Deliverance to a Promised Land — 1492 BCE/CE, Europe, America, and the Final Promised Lands](/history/mudflood/investigations/promised-land-investigation.md)
+- [Investigation: Spore / aerial biological disaster — post–MFEE ecology, sanitization, Martian cylinders, and fiction parallels](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md)
+- [Tartarian Maps Investigation — Forbidden Maps, Disclosure, and Downloads](/history/mudflood/investigations/tartarian-maps-investigation.md)
+- [Orphan Trains, Mass Displacement, and the MFEE Thesis](/history/orphan_trains/orphan-trains-investigation.md)
+
+### Influence
+
+- [Investigation: Toynbee Tiles — *Resurrect Dead* (2011) and the street campaign](/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md)
+- [Investigation: Trump-era Hollywood as predictive programming — trends, rhymes, and scorecard (2016–2026)](/influence/hollywood/trump-era-hollywood-political-media-investigation.md)
+- [Compromised Court Cases and Declared Reality — Investigation](/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md)
+- [Ed Wood and Plan 9 from Outer Space — Investigation](/influence/predictive_programming/fiction_encoding/ed-wood-plan9/index-ed-wood-plan9-investigation.md)
+- [Science Fiction & Fantasy: Fiction Presented as Fact](/influence/predictive_programming/fiction_encoding/fiction-presented-as-fact-investigation.md)
+- [Investigation (speculative): George R. R. Martin, *The World of Ice & Fire*, and the “fictional historian” pattern](/influence/predictive_programming/fiction_encoding/grrm/index-george-rr-martin-world-of-ice-and-fire-investigation.md)
+- [Investigation (speculative): Fomenko’s Andronicus-Christ, *The Princess Bride*, and “Colossus” dialogue](/influence/predictive_programming/fiction_encoding/princess-bride/index-princess-bride-andronicus-fezzik-investigation.md)
+- [Mary Shelley — Frankenstein as Potential True Story: Investigation](/influence/predictive_programming/fiction_encoding/shelley/shelley-frankenstein-true-story-investigation.md)
+- [Bram Stoker — Investigation](/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md)
+- [Investigation: Hunter S. Thompson — Satan-Worshipper Bar Story as Potential Managed Disclosure](/influence/predictive_programming/fiction_encoding/thompson/thompson-managed-disclosure-investigation.md)
+- [Investigation: The Urantia Book (1955) -- Controlled Opposition and Predictive Programming (Open)](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md)
+- [White vs Excalibur: Sulphur + Mercury — Book vs Movie, Managed Disclosure?](/influence/predictive_programming/fiction_encoding/white/white-excalibur-sulphur-mercury-investigation.md)
+- [T.H. White, The Once and Future King: Saturnian Round Table Investigation](/influence/predictive_programming/fiction_encoding/white/white-saturnian-round-table-investigation.md)
+- [Zombie Genre — Investigation](/influence/predictive_programming/fiction_encoding/zombies/index-zombie-genre-investigation.md)
+- [Investigation: The 1979 Religious Revival — CIA Backing and Global Phenomenon](/influence/religion/1979-religious-revival-investigation.md)
+- [Investigation: Canceling the High Poppy — founders, mandatory boards, and removal by the governance layer they had to adopt](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md)
+- [Investigation: The Cathars — enemy memory, catharization, resistance to monotheism, and the Khazar–Cathar split thesis](/influence/suppression/investigations/cathars-church-purge-khazar-split-investigation.md)
+- [Investigation: “Hell burns attachments” — *Jacob’s Ladder*, Eckhart (mis)attribution, Paradigm Threat read](/influence/suppression/investigations/eckhart-jacobs-ladder-hell-quote-attribution-investigation.md)
+
+### Science
+
+- [Artificial Intelligence: Control and Predictive Programming Investigation](/science/ai/ai-control-investigation.md)
+- [Investigation: DNA as Fingerprint, Not Blueprint — Scalar / ZPE Medium, First Life, and Ontogeny](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md)
+- [Tornado–Power Station Explosion: Investigation into Electromagnetic Tornado Suppression and Media Cover-up](/science/geoengineering/tornado-power-station-investigation.md)
+- [Investigation: Weather Modification — From Cloud Seeding to Ionospheric Heaters](/science/geoengineering/weather-modification-investigation.md)
+- [Investigation: Havana Syndrome — Gaslighting the Public on Directed Energy Weapons](/science/havana_syndrome/havana-syndrome-investigation.md)
+- [Investigation: David Straight's Chernobyl Probiotics Claims](/science/health/probiotics_chernobyl/ssstwitter.com_1772378839442-investigation.md)
+- [Microchips: Shrinking Technology Investigation](/science/microchips/microchips-shrinking-technology-investigation.md)
+- [Investigation: Galen Winsor — “Nuclear Waste is Safe” (alternative framework)](/science/nukes/investigations/nuke-waste-is-safe-investigation.md)
+- [Investigation: "Nukes Don't Exist" — Alternative Framework Analysis](/science/nukes/investigations/nukes-dont-exist-investigation.md)
 
 ---
 
@@ -28,7 +134,7 @@
 | 16 | *Call of Duty: Modern Warfare* original vs reboot / militainment | [call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) | §7 table + checkboxes (Glasco corroboration, WH CoD clip 2026, MWIII arc, Soleimani echo sourcing, etc.) | Games/Activision primary statements as they appear |
 | 17 | Trump-era Hollywood — PP trends, scorecard, CA:BNW vs maritime blockade news | [trump-era-hollywood-political-media-investigation.md](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) | § Weak points — scene-level script vs blockade wording; Marvel dev timelines; archival ACW 2.0 pitch | Reuters Venezuela; Defense News Hormuz 2026; Wikipedia CA:BNW plot |
 
-**Total:** 17 investigations with explicit unfinished work. Others (e.g. false-flag catalog, Iran 2026, nukes, mars, mudflood) may have shorter or no checklist sections; they are not omitted from validation below where applicable.
+**Total in §1 table:** 17 investigations with explicit unfinished work. **Full corpus:** 78 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
 
 ---
 
@@ -191,5 +297,5 @@ Consolidated list for agent-assisted acquisition or linking. Priority: CIA (expl
 ## 5. How to Use This Doc
 
 - **Agents:** Prefer “High priority” and “Medium priority” TODOs; use “Books and full texts” to request or link sources; update investigation files when tasks are done and tick boxes here or in the investigation’s own checklist.
-- **Editors:** When adding new investigations, add a row to §1, a block to §2 (validation/likelihood/dead ends), and any books/TODOs to §3–4. Keep dead ends explicitly listed. Follow [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md): **do not** embed author-machine absolute paths (`/home/…`, `/media/…`, etc.) in investigation bodies — online viewers cannot access them; put maintainer/LLM-only paths in a single **Investigator notes** section at the **end** of the investigation file.
+- **Editors:** When adding a new `*investigation.md` (or vril / reverse-crusades / wuxing-style entry), add a bullet to §0 with site-relative link and title; add a line with short description to [site front page — Investigation Categories — All investigations (master list)](/page.md#investigation-categories); if the file has agent-doable unfinished work, add a row to §1, a block to §2 (validation/likelihood/dead ends), and any books/TODOs to §3–4. Keep dead ends explicitly listed. Follow [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md): **do not** embed author-machine absolute paths (`/home/…`, `/media/…`, etc.) in investigation bodies — online viewers cannot access them; put maintainer/LLM-only paths in a single **Investigator notes** section at the **end** of the investigation file.
 - **Links:** All paths in this doc are site-relative (e.g. `/governance/war/investigations/cia-investigation.md`). On site they resolve to paradigmthreat.net.

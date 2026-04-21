@@ -57,41 +57,105 @@ To understand the motivations behind *predictive programming*,
 allows us to determine precisely what the viewer is being compelled into believing,
 or *not* believing.
 
-## My Articles
-
-* [MudFlood Energetic Event Hypothesis](/history/mudflood)
-* [The Deep State is on Mars](/cosmos/mars)
-* [Earth History Timeline Reconstruction](/history/chronology)
-* [Rus-Horde echoes in English political and military lexicon (open speculation)](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) — *rush* / *Rus*, *rat* / *рать*, Protestant print and word bias, *King Arthur* (2004); dictionary facts vs. low-confidence parallels
-* [Stolen Credit in Media — Plagiarism as Control](/influence/stolen_credit)
-* [Microchips: Nobody Knows How They're Made](/science/microchips/microchips-shrinking-technology-investigation) — Major finding: deliberate worldwide system of control
-* [Artificial Intelligence and the Ghost in the Machine](/science/ai/page) — Deliberate bad software; AI as deep-state endgame
-
-<figure className="sm:float-left clear-left m-auto sm:m-1 sm:mr-6 sm:max-w-sm">
-  <iframe width="360" height="200" src="https://www.youtube.com/embed/yi2zdXQ7A5o"
-        title="YouTube video player"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowFullScreen
-        className="max-w-full m-auto"/>
-  <figcaption className="flex justify-center">
-    Part 1 of my Alternate Timeline of Earth History video
-  </figcaption>
-</figure>
-
-## My Walking Series
-
-* [What's the deal with Presidential assassination attempts?](https://youtu.be/k_EEF794wvY)
-* [When did children first learn about Planets?](https://youtu.be/oKFNRdPvCA8)
-* [What's up with the last ten years?](https://youtu.be/BFMciKm5Aqw)
-* [What's the deal with Jesus Christ?](https://youtu.be/2RyDOup06d8)
-* [Why we're at war with Russia](https://www.youtube.com/watch?v=rYYH-90ROaQ)
-* [Why 21st Century Gaming Sucks](https://www.youtube.com/watch?v=1-ODWjw0C-0)
-* [Tripods in Human History](https://youtu.be/YM0FKKthRh8)
-* [Airplanes are a Suppressed Technology](https://youtu.be/3xY9kHfwizA)
-* [When did these Mountains Form?](https://youtu.be/TmIELm3gdng)
-* [9/11 Was Staged by "Good" Actors](https://old.bitchute.com/video/FofnBvnG0ELE/)
-
 ## Investigation Categories
+
+### All investigations (master list)
+
+#### Cosmos
+
+* [Hollow Earth](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md) — Sources, maps, books, and Atlantis framing.
+* [Tham Luang Cave Rescue (2018)](/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md) — Cover-up threads and alternate rescue narratives.
+* [Flat Earth](/cosmos/flat_earth/flat-earth-investigation.md) — History, myth, and misinterpretation of the flat-Earth idea.
+* [Mars–Earth Reincarnation](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) — Mass death on Mars and souls reborn on Earth.
+* [Pluto](/cosmos/pluto/investigations/pluto-origin-visibility-investigation.md) — Visibility, naming, and “lost to hell” cosmology read.
+* [Venus](/cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation.md) — From Saturnian cosmology to the Venera program.
+
+#### Events
+
+* [September 11, 2001](/events/false_flag/investigations/09-11-investigation.md) — Good-actor historic antibody thesis; WTC 7 and narratives.
+* [Would Netanyahu Want a Faked Death Here?](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md) — Motive, timeline, and Iran narrative angles.
+* [Richard Gage / AE911Truth](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md) — Controlled-demolition thesis for 9/11; organization and debates.
+* [Trump, historic antibodies, dynasty thesis](/events/trump/index-trump-investigation.md) — Trump as antibody / “uncompromised elite” political-media reading.
+
+#### Governance & slavery
+
+* [Slave trades & Moor etymology](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) — Historical slave systems and Moor / Morocco naming threads.
+* [American Revolution](/governance/war/investigations/american-revolution-investigation.md) — Atlantic context; a small piece of a larger puzzle.
+* [British Civil War](/governance/war/investigations/british-civil-war-investigation.md) — Societized consolidation; template for Western governance.
+* [British Empire Divide-and-Conquer](/governance/war/investigations/british-divide-conquer-israel-investigation.md) — Israel, India/Pakistan, Africa; deep-state hypothesis.
+* [*Call of Duty: Modern Warfare*](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) — Original trilogy vs soft reboot; militainment; Iran–Russia framing.
+* [CIA](/governance/war/investigations/cia-investigation.md) — OSS rebrand, Nazi gold, Iran pipeline, 9/11, antibody thesis.
+* [Ted Cruz, Kevin Malone, ‘hijacked plan’](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md) — Pop-culture juxtaposition and deep-state metaphor (speculative).
+* [Dubious “Stand Down” Orders](/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md) — Benghazi (2012), Libya breakup, pattern echoes.
+* [French Revolution](/governance/war/investigations/french-revolution-investigation.md) — Societized consolidation and political reorganization.
+* [Jonestown (18 November 1978)](/governance/war/investigations/jonestown-guyana-1978-cia-latin-america-pattern-investigation.md) — Disputed narratives, CIA footprint, Central American parallels.
+* [The Word "Martyr"](/governance/war/investigations/martyr-word-history-investigation.md) — Etymology; Mars/murder; nature of martyrdom.
+* [Napoleonic artillery & airships](/governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md) — Sound cannons, artillery, lighter-than-air tech claims.
+* [Occupy Wall Street](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) — Origins, collapse, surveillance, controlled-opposition thesis.
+* [Operation Paperclip & Nazi continuity](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) — US absorption of German science; WWII defeat narrative vs continuity.
+* [The Four Reverse Crusades](/governance/war/investigations/reverse-crusades-comparison.md) — Structural comparison (1812, 1914, 1941, 2022-style arcs).
+* [Soviet Collapse](/governance/war/investigations/soviet-collapse-investigation.md) — Western orchestration, media, post-WWII isolation.
+* [RMS Titanic (1912)](/governance/war/investigations/titanic-sinking-investigation.md) — Timing, alternative narratives, inquiries and aftermath.
+* [Armed confrontations](/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md) — Citizens vs federal government, military, and agents.
+* [US Civil War](/governance/war/investigations/us-civil-war-investigation.md) — British funding, slavery as instrument, DU-weapon thesis.
+* [Vril Society](/governance/war/investigations/vril-society.md) — Claim, debunk, redaction, and literary lineage.
+* [Why Japan, Italy, and Germany](/governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) — Fascism as religious-apparatus takeover.
+* [Yakuza Remote Control](/governance/war/investigations/yakuza-remote-control-investigation.md) — British influence, media capture, technology containment in Japan.
+
+#### History
+
+* [Artemis II](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) — Faith test vs science milestone; staged-production readings; press patterns.
+* [Etana, the Sumerian King List, and "Wheels in the Sky" Testimony](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md) — Open: king list, sky wheels, Saturnian reinterpretation.
+* [Giants, Infantry, Guerrilla, and the Children's Crusade](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) — Lexical and Horde–infantry thesis.
+* [Griffins and other “myth” fauna in sober historical texts](/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md) — Extinction by human pressure? (concluded file.)
+* [Prester John, *Presbyter Ioannes*, and the Rus–Horde Christian East](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md) — NC and author thesis; medieval letters and envoys.
+* [Pyramid “Energy”](/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md) — Kerrell & Goggin (1977) and large stone geometry.
+* [Radiocarbon Dating](/history/chronology/investigations/radiocarbon-dating-investigation.md) — Dogmatic adoption; electrical activity and calibration debates.
+* [History of Soul Science](/history/chronology/investigations/soul-science-investigation.md) — First references through mind-as-replacement.
+* [Les Brown](/history/chronology/investigations/the-pyramid-les-brown-investigation.md) — *The Pyramid: How to Build It, How to Use It*.
+* [John Michell](/history/chronology/investigations/view-over-atlantis-michell-investigation.md) — *The View Over Atlantis* / *The New View Over Atlantis*.
+* [Wuxing and the Five Planets](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) — Dark Ages observational record; five phases and planets.
+* [Pre-Mudflood Maps](/history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.md) — Fra Mauro, Sahara, under-500-year desert claims.
+* [Blood rain](/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md) — Passat dust, Dust Bowl, post–mud-flood ecological shocks.
+* [Cargo Cults](/history/mudflood/investigations/cargo-cults-investigation.md) — Official history vs manna redaction and behavior.
+* [MFEE Investigation](/history/mudflood/investigations/mfee-investigation.md) — Map evidence and boundary changes over time.
+* [Deliverance to a Promised Land](/history/mudflood/investigations/promised-land-investigation.md) — 1492 BCE/CE threads; Europe, America, promised lands.
+* [Spore / aerial biological disaster](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md) — Post–MFEE ecology, sanitization, Martian cylinders, fiction parallels.
+* [Tartarian Maps Investigation](/history/mudflood/investigations/tartarian-maps-investigation.md) — Forbidden maps, disclosure, downloads.
+* [Orphan trains & MFEE](/history/orphan_trains/orphan-trains-investigation.md) — Mass child relocation and MFEE-aligned displacement thesis.
+
+#### Influence
+
+* [Toynbee Tiles](/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md) — *Resurrect Dead* (2011) and the street campaign.
+* [Trump-era Hollywood as predictive programming](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) — Trends, rhymes, scorecard (2016–2026).
+* [Compromised Court Cases and Declared Reality](/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md) — Court rulings vs what institutions declare “real.”
+* [Ed Wood and Plan 9 from Outer Space](/influence/predictive_programming/fiction_encoding/ed-wood-plan9/index-ed-wood-plan9-investigation.md) — Camp, saucer myth, and disclosure-layer reading.
+* [Science Fiction & Fantasy](/influence/predictive_programming/fiction_encoding/fiction-presented-as-fact-investigation.md) — Fiction presented as fact; genre as soft disclosure.
+* [G.R.R. Martin — *World of Ice & Fire*](/influence/predictive_programming/fiction_encoding/grrm/index-george-rr-martin-world-of-ice-and-fire-investigation.md) — Speculative “fictional historian” / encoding read.
+* [*Princess Bride* / Andronicus–Christ](/influence/predictive_programming/fiction_encoding/princess-bride/index-princess-bride-andronicus-fezzik-investigation.md) — Fomenko–Fezzik and “Colossus” dialogue (speculative).
+* [Mary Shelley](/influence/predictive_programming/fiction_encoding/shelley/shelley-frankenstein-true-story-investigation.md) — *Frankenstein* as potential true-story layer.
+* [Bram Stoker](/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md) — *Dracula* and encoding / managed narrative reads.
+* [Hunter S. Thompson](/influence/predictive_programming/fiction_encoding/thompson/thompson-managed-disclosure-investigation.md) — Satan-worshipper bar story as managed disclosure.
+* [The Urantia Book (1955) -- Controlled Opposition and Predictive Programming](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md) — Open: CO and PP read of the text.
+* [White vs Excalibur: Sulphur + Mercury](/influence/predictive_programming/fiction_encoding/white/white-excalibur-sulphur-mercury-investigation.md) — Book vs movie; managed disclosure question.
+* [T.H. White, The Once and Future King](/influence/predictive_programming/fiction_encoding/white/white-saturnian-round-table-investigation.md) — Saturnian round table and Arthur encoding.
+* [Zombie Genre](/influence/predictive_programming/fiction_encoding/zombies/index-zombie-genre-investigation.md) — Genre history, plague imagery, managed disaster narratives.
+* [The 1979 Religious Revival](/influence/religion/1979-religious-revival-investigation.md) — CIA backing and global revival phenomenon.
+* [Canceling the High Poppy](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md) — Founders, boards, removal by governance layers.
+* [The Cathars](/influence/suppression/investigations/cathars-church-purge-khazar-split-investigation.md) — Enemy memory, catharization, Khazar–Cathar split thesis.
+* [“Hell burns attachments”](/influence/suppression/investigations/eckhart-jacobs-ladder-hell-quote-attribution-investigation.md) — *Jacob’s Ladder*, Eckhart misattribution, site read.
+
+#### Science
+
+* [Artificial Intelligence](/science/ai/ai-control-investigation.md) — Control, PP, and “ghost in the machine” governance.
+* [DNA as Fingerprint, Not Blueprint](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) — Scalar / ZPE medium, first life, ontogeny.
+* [Tornado–Power Station Explosion](/science/geoengineering/tornado-power-station-investigation.md) — EM tornado suppression thesis and media silence.
+* [Weather Modification](/science/geoengineering/weather-modification-investigation.md) — Cloud seeding through ionospheric heaters.
+* [Havana Syndrome](/science/havana_syndrome/havana-syndrome-investigation.md) — Directed energy and gaslighting of the public narrative.
+* [Chernobyl probiotics (Straight)](/science/health/probiotics_chernobyl/ssstwitter.com_1772378839442-investigation.md) — Transcript-led fact-check of probiotic / Chernobyl claims.
+* [Microchips](/science/microchips/microchips-shrinking-technology-investigation.md) — Shrinking tech, supply opacity, control thesis.
+* [Galen Winsor](/science/nukes/investigations/nuke-waste-is-safe-investigation.md) — “Nuclear waste is safe” alternative framework.
+* ["Nukes Don't Exist"](/science/nukes/investigations/nukes-dont-exist-investigation.md) — Alternative framework vs standard nuclear model.
 
 <figure className="sm:float-left clear-left m-auto sm:m-1 sm:mr-6 sm:max-w-sm">
   <a href="https://americanfreepress.net/dhs-fishing-on-the-internet-for-dissidents-truthseekers/" target="_blank">
@@ -237,6 +301,42 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 * [Inquiries of our Reality #2](https://redcircle.com/shows/2b1cc21c-b902-4316-b149-caa1672e888f/ep/67e47abb-1009-4710-bee0-e711e4705dfb)
 * [Inquiries of our Reality #3](https://www.spreaker.com/episode/266-the-world-s-alternative-history-pt-3-with-ari-asulin--62565153)
 * [Inquiries of our Reality #4](https://www.spreaker.com/episode/279-the-world-s-alternative-history-pt-4-with-ari-asulin--63313553)
+
+## My Walking Series
+
+* [What's the deal with Presidential assassination attempts?](https://youtu.be/k_EEF794wvY)
+* [When did children first learn about Planets?](https://youtu.be/oKFNRdPvCA8)
+* [What's up with the last ten years?](https://youtu.be/BFMciKm5Aqw)
+* [What's the deal with Jesus Christ?](https://youtu.be/2RyDOup06d8)
+* [Why we're at war with Russia](https://www.youtube.com/watch?v=rYYH-90ROaQ)
+* [Why 21st Century Gaming Sucks](https://www.youtube.com/watch?v=1-ODWjw0C-0)
+* [Tripods in Human History](https://youtu.be/YM0FKKthRh8)
+* [Airplanes are a Suppressed Technology](https://youtu.be/3xY9kHfwizA)
+* [When did these Mountains Form?](https://youtu.be/TmIELm3gdng)
+* [9/11 Was Staged by "Good" Actors](https://old.bitchute.com/video/FofnBvnG0ELE/)
+
+## My Articles
+
+* [MudFlood Energetic Event Hypothesis](/history/mudflood)
+* [The Deep State is on Mars](/cosmos/mars)
+* [Earth History Timeline Reconstruction](/history/chronology)
+* [Rus-Horde echoes in English political and military lexicon (open speculation)](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) — *rush* / *Rus*, *rat* / *рать*, Protestant print and word bias, *King Arthur* (2004); dictionary facts vs. low-confidence parallels
+* [Stolen Credit in Media — Plagiarism as Control](/influence/stolen_credit)
+* [Microchips: Nobody Knows How They're Made](/science/microchips/microchips-shrinking-technology-investigation) — Major finding: deliberate worldwide system of control
+* [Artificial Intelligence and the Ghost in the Machine](/science/ai/page) — Deliberate bad software; AI as deep-state endgame
+
+## My original timeline video (Part 1)
+
+<figure className="sm:float-left clear-left m-auto sm:m-1 sm:mr-6 sm:max-w-sm">
+  <iframe width="360" height="200" src="https://www.youtube.com/embed/yi2zdXQ7A5o"
+        title="YouTube video player"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowFullScreen
+        className="max-w-full m-auto"/>
+  <figcaption className="flex justify-center">
+    Part 1 of my Alternate Timeline of Earth History video
+  </figcaption>
+</figure>
 
 ## Controlled Opposition Podcast Appearances
 
