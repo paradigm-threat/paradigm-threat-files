@@ -494,7 +494,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-21T14:56:46Z"
+    "_updated": "2026-04-21T15:01:58Z"
   },
   "cosmos": {
     "cosmology": {
@@ -2855,15 +2855,23 @@
             "philadelphi",
             "kadima",
             "2005",
-            "2006"
+            "2006",
+            "iran",
+            "1979",
+            "cia",
+            "wmd",
+            "globalist",
+            "nationalist",
+            "assassination",
+            "author-thesis"
           ],
-          "_updated": "2026-04-21T14:56:46Z"
+          "_updated": "2026-04-21T15:01:58Z"
         },
         "ariel-sharon-gaza-coma-controlled-opposition-investigation.png": {
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAsABUB8JZwAAp0fI8AAAP68XVsHGAmZJSfmGEziY3iwkMb3LxEzM6cmhsAA",
-          "_updated": "2026-04-21T15:00:56Z"
+          "_updated": "2026-04-21T15:01:58Z"
         },
         "iran-2026-propaganda-thesis.md": {
           "_title": "Investigation: Iran 2026 \u2014 Propaganda War Thesis",
@@ -14066,5 +14074,5 @@
     "_count": 153
   },
   "_count": 1978,
-  "_version": "ed1081b"
+  "_version": "2a96593"
 }
