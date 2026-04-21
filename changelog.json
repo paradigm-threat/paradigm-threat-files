@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-21T14:56:56.228Z",
+    "date": "2026-04-21T15:02:08.913Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md",
+        "href": "/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation"
+      },
+      {
+        "status": "A",
+        "path": "events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.png",
+        "href": "/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-21T14:56:46.000Z",
+    "message": "Add Ariel Sharon investigation (Gaza disengagement, coma, references); index and cross-links",
     "files": [
       {
         "status": "M",
@@ -513,24 +535,6 @@
         "status": "M",
         "path": "governance/war/investigations/page.md",
         "href": "/governance/war/investigations"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
-        "alt": "Call of Duty Modern Warfare — investigation header graphic"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:34:53.000Z",
-    "message": "§4.7: Office Booze Cruise Red October + Jim CIA-adjacent clues; thesis → §4.8",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
-        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
       }
     ],
     "images": [
