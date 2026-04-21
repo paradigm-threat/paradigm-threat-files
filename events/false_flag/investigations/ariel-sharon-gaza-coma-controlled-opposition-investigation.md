@@ -1,5 +1,7 @@
 # Investigation: Ariel Sharon — Timeline, Gaza Disengagement, Coma Secrecy, and “Controlled Opposition” Threads
 
+![Gaza disengagement / Sharon search context — Philadelphi Corridor, withdrawal narrative, and related results (illustrative)](ariel-sharon-gaza-coma-controlled-opposition-investigation.png)
+
 > **TL;DR:** Ongoing case file on **Ariel Sharon** (1928–2014): Mandate-era youth through 1948 war, decades as settlement champion and then architect of the **2005 Gaza disengagement**, **stroke and coma (2005–2006)** with extreme medical privacy, and the **2010 Noam Braslavsky gallery installation** that gave the public a *substitute* “Sharon in a coma” to see. The thesis under review: whether Sharon’s arc—especially withdrawal—fits **British / deep-state divide-and-conquer** or **controlled-opposition** patterns (parallel in spirit to the [CIA Iran pipeline thesis](/governance/war/investigations/cia-investigation.md): **withdrawal leaving a vacuum filled by militants**). **No claim** here that documentary proof exists for recruitment by British intelligence; the file separates **documented facts**, **mainstream debate**, and **speculative pattern-matching**.
 
 **Date:** 2026-04-21 (references and Weisglass/Philadelphi sequence added same session)  
@@ -191,4 +193,4 @@ This file **mixes** established history with **hypothesis** and **pattern-matchi
 
 ## Investigator notes
 
-- Optional header image: add a repo-relative asset under `events/false_flag/investigations/` and reference it from the title block if desired.
+- Header image: `ariel-sharon-gaza-coma-controlled-opposition-investigation.png` (same directory as this file).
