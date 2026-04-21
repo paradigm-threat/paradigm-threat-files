@@ -494,7 +494,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-21T15:01:58Z"
+    "_updated": "2026-04-21T15:36:44Z"
   },
   "cosmos": {
     "cosmology": {
@@ -2863,9 +2863,14 @@
             "globalist",
             "nationalist",
             "assassination",
-            "author-thesis"
+            "author-thesis",
+            "epstein",
+            "bush-letter",
+            "cruz",
+            "bibi",
+            "un-2012"
           ],
-          "_updated": "2026-04-21T15:01:58Z"
+          "_updated": "2026-04-21T15:36:44Z"
         },
         "ariel-sharon-gaza-coma-controlled-opposition-investigation.png": {
           "_width": 1536,
@@ -12946,7 +12951,7 @@
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
-    "_updated": "2026-04-21T14:56:46Z"
+    "_updated": "2026-04-21T15:36:44Z"
   },
   "science": {
     "5g": {
@@ -14074,5 +14079,5 @@
     "_count": 153
   },
   "_count": 1978,
-  "_version": "2a96593"
+  "_version": "eedd7b2"
 }

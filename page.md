@@ -74,7 +74,7 @@ or *not* believing.
 
 * [September 11, 2001](/events/false_flag/investigations/09-11-investigation.md) — Good-actor historic antibody thesis; WTC 7 and narratives.
 * [Would Netanyahu Want a Faked Death Here?](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md) — Motive, timeline, and Iran narrative angles.
-* [Ariel Sharon — Gaza, coma, British/CO threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md) — Author verbatim pattern thesis (Gaza ∥ Iran/Iraq/Libya, CIA/media/WMD/Mossad rhymes, globalist vs nationalist, assassination hook), plus sourced history and review questions.
+* [Ariel Sharon — Gaza, coma, British/CO threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md) — Author thesis: 2004–2006 Epstein-network revelation window, Bush letter “bullseye,” Cruz/Bibi echoes, Bushes as wedges; Gaza ∥ Iran/Iraq/Libya; sourced history and review questions.
 * [Richard Gage / AE911Truth](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md) — Controlled-demolition thesis for 9/11; organization and debates.
 * [Trump, historic antibodies, dynasty thesis](/events/trump/index-trump-investigation.md) — Trump as antibody / “uncompromised elite” political-media reading.
 
