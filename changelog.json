@@ -1,13 +1,63 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-20T21:25:54.158Z",
+    "date": "2026-04-21T12:10:31.174Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "M",
+        "path": "page.md",
+        "href": "/page"
+      },
+      {
+        "status": "M",
+        "path": "scripts/generate-changelog.cjs",
+        "href": "/scripts/generate-changelog.cjs"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/conspiracy/embedding.jpg",
+        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
+      },
+      {
+        "src": "/influence/conspiracy/scientific_truth.jpg",
+        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
+        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
+      },
+      {
+        "src": "/cosmos/mars/mars_life.jpg",
+        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
+      },
+      {
+        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
+        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-20T21:25:44.000Z",
+    "message": "CoD MW: §2.3 MWIII 2023 Makarov/No Russian controversy, cites, author note",
     "files": [
       {
         "status": "M",
         "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
         "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — investigation header graphic"
       }
     ]
   },
@@ -26,6 +76,24 @@
         "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
         "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
       }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
+        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
+      },
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      },
+      {
+        "src": "/influence/hollywood/trump-era-hollywood-political-media-investigation.png",
+        "alt": "Trump-era Hollywood — predictive programming investigation (cover)"
+      }
     ]
   },
   {
@@ -43,6 +111,11 @@
         "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.png",
         "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation.png"
       }
+    ],
+    "images": [
+      {
+        "src": "/influence/hollywood/trump-era-hollywood-political-media-investigation.png"
+      }
     ]
   },
   {
@@ -55,7 +128,8 @@
         "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
         "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
       }
-    ]
+    ],
+    "images": []
   },
   {
     "repo": "paradigm-threat-files",
@@ -67,7 +141,8 @@
         "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
         "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
       }
-    ]
+    ],
+    "images": []
   },
   {
     "repo": "paradigm-threat-files",
@@ -79,7 +154,8 @@
         "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
         "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
       }
-    ]
+    ],
+    "images": []
   },
   {
     "repo": "paradigm-threat-files",
@@ -91,7 +167,8 @@
         "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
         "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
       }
-    ]
+    ],
+    "images": []
   },
   {
     "repo": "paradigm-threat-files",
@@ -113,6 +190,60 @@
         "path": "influence/predictive_programming/page.md",
         "href": "/influence/predictive_programming"
       }
+    ],
+    "images": [
+      {
+        "src": "/influence/predictive_programming/predictive_programming.png",
+        "alt": "Predictive Programming"
+      },
+      {
+        "src": "/influence/predictive_programming/comics.jpg",
+        "alt": "9/11 predictive programming in comics"
+      },
+      {
+        "src": "/influence/predictive_programming/doom.jpg",
+        "alt": "Doom — quantum teleport between Earth and Mars"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_women.jpg",
+        "alt": "Mars Needs Women — breeding programme theme"
+      },
+      {
+        "src": "/influence/predictive_programming/stargate.jpg",
+        "alt": "Stargate — pyramid as portal"
+      },
+      {
+        "src": "/influence/predictive_programming/wotw.jpg",
+        "alt": "War of the Worlds — heat ray, red weed, Mars inversion"
+      },
+      {
+        "src": "/influence/predictive_programming/simpsons_space_laser.jpg",
+        "alt": "The Simpsons — 9/11 imagery"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_movies.jpg",
+        "alt": "Mars movies"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin.jpg",
+        "alt": "Marvin the Martian"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin2.jpg",
+        "alt": "Marvin the Martian (2)"
+      },
+      {
+        "src": "/influence/predictive_programming/megaman.jpg",
+        "alt": "Mega Man"
+      },
+      {
+        "src": "/influence/predictive_programming/nazis_hollow_earth.jpg",
+        "alt": "Nazis in Hollow Earth"
+      },
+      {
+        "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
+        "alt": "Fire on the Mountain"
+      }
     ]
   },
   {
@@ -130,7 +261,8 @@
         "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
         "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
       }
-    ]
+    ],
+    "images": []
   },
   {
     "repo": "paradigm-threat-files",
@@ -152,6 +284,11 @@
         "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
         "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
       }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation2.png"
+      }
     ]
   },
   {
@@ -164,7 +301,8 @@
         "path": "blog/2026-04-18-cod-mw-militainment-spore-blood-rain-tts-unicode.md",
         "href": "/blog/2026-04-18-cod-mw-militainment-spore-blood-rain-tts-unicode"
       }
-    ]
+    ],
+    "images": []
   },
   {
     "repo": "paradigm-threat-files",
@@ -181,6 +319,24 @@
         "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
         "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
       }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
+        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
+      },
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      }
     ]
   },
   {
@@ -192,6 +348,12 @@
         "status": "M",
         "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
         "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — investigation header graphic"
       }
     ]
   },
@@ -215,6 +377,12 @@
         "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
         "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
       }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — investigation header graphic"
+      }
     ]
   },
   {
@@ -227,6 +395,12 @@
         "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
         "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
       }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — investigation header graphic"
+      }
     ]
   },
   {
@@ -238,6 +412,12 @@
         "status": "M",
         "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
         "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — investigation header graphic"
       }
     ]
   },
@@ -266,6 +446,12 @@
         "path": "governance/war/investigations/page.md",
         "href": "/governance/war/investigations"
       }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — investigation header graphic"
+      }
     ]
   },
   {
@@ -277,6 +463,12 @@
         "status": "M",
         "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
         "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — investigation header graphic"
       }
     ]
   },
@@ -290,17 +482,11 @@
         "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
         "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
       }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:30:41.000Z",
-    "message": "Reduce bold markup in CoD MW investigation; keep emphasis on thesis and negations",
-    "files": [
+    ],
+    "images": [
       {
-        "status": "M",
-        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
-        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — investigation header graphic"
       }
     ]
   }
