@@ -2,10 +2,10 @@
 
 ![Gaza disengagement / Sharon search context — Philadelphi Corridor, withdrawal narrative, and related results (illustrative)](ariel-sharon-gaza-coma-controlled-opposition-investigation.png)
 
-> **TL;DR:** Ongoing case file on **Ariel Sharon** (1928–2014), centered on the **2005 Gaza disengagement** and **2006–2014 coma**. This file treats **two layers** equally seriously: (1) **documented** diplomacy, law, and press (§5–6, §11); (2) the **author’s originating pattern thesis** (§3, §7–9) — that **Gaza withdrawal rhymes** with **US–Iran** dynamics after **1979**, **Iraq**, and **Libya** as episodes where **vacuums** favor **extremists** and **media–WMD** narratives exhaust public trust, with **CIA** and **allied** agencies as plausible **hands** in the story the public does not see; and that **globalist** vs **nationalist** camps may contest **US military** and **Israeli** leadership, with Sharon hypothetically **removed** before further **nationalist**-aligned damage. **Evidence tier** for the author’s unique claims is **low** until investigated; they are **on the record here** because they define the **pattern** this site is tracking—not as proven fact.
+> **TL;DR:** Ongoing case file on **Ariel Sharon** (1928–2014), centered on **2004–2006** (Bush letter, disengagement, stroke) as a **possible revelation window** for an **Epstein-style blackmail/control network** hooking **Israeli** and **American** elites—read alongside **[Cruz / GOP gridlock investigation](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md)**. **Two layers:** (1) **documented** diplomacy and press (§5–6, §11); (2) **author pattern thesis** (§3, §5 author read, §7–9, §12–13)—Gaza ∥ Iran/Iraq/Libya, **WMD/media exhaustion**, **globalist vs nationalist** struggle, **Bushes** and **Sharon** as **wedges**, **Bibi**’s **2012** UN **“bomb”** speech as **later echo**, and **hypothesized** **assassination**/**compromise** **dynamics**. **Evidence tier** for unique claims stays **low** until investigated; **pattern language** is **first-class** per [Paradigm investigation instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md).
 
-**Date:** 2026-04-21 (author thesis and instruction-alignment pass)  
-**Status:** Ongoing — **§5–6** and **§11** anchor **verifiable** sources; **§3**, **§7–8**, **§12–13** hold **author pattern thesis**, **expanded parallels**, **globalist/nationalist** **read**, **open** **claims**, and **review** **questions** (see [Paradigm investigation instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md)).
+**Date:** 2026-04-21 (Epstein-window + Bush-letter author read)  
+**Status:** Ongoing — **§5–6**, **§11** anchor **sources**; **§3**, **§5** (author), **§7–9**, **§12–13** hold **Epstein-network**, **Bush–Sharon**, **Cruz/Bibi echo**, and **wedge** **theses** (see instructions).
 
 ---
 
@@ -16,7 +16,7 @@
 3. **§4** — British / divide-and-conquer **pattern** (ambient history, not recruitment proof).  
 4. **§5** — Gaza disengagement (Bush letter, UN plan, Weisglass, Philadelphi, High Court).  
 5. **§6** — Coma and Braslavsky installation.  
-6. **§7** — **Gaza ∥ Iran / Iraq / Libya** — resemblances, media, WMD exhaustion, **Mossad-bunker rhyme**.  
+6. **§7** — **Gaza ∥ Iran / Iraq / Libya**; **§7.5** **2004–2006** **Epstein-network** **revelation** **hypothesis** (Bush letter, Cruz/Bibi echoes).  
 7. **§8** — **Globalist vs nationalist** read; **assassination** hypothesis.  
 8. **§9** — Right-wing “betrayal” debate (mainstream).  
 9. **§10** — Cross-links.  
@@ -66,14 +66,20 @@ This investigation exists to **hold** the author’s **pattern language** in ful
 
 > I think we're seeing a clear parallel between Gaza / Iran / Iraq and even potentially Libya as the US army is used by two camps wrestling for its control — pro globalist and pro nationalist. Globalists had Ariel carve out a bloody creation of Israel and then set the stage for religious war against Israel, and nationalists had to clean up the mess and put Ariel down before he could make any more damage to the pro-nationalist version of Israel. Among other things, I'm suggesting Ariel Sharon was assassinated.
 
-### 3.3 What the author is asking the reader to hold in mind
+### 3.3 Author addition — Epstein network, 2005-era revelation, Bush letter, Cruz, Bibi (Paradigm Threat)
+
+> We're already looking — the timeline of the **2005 era** as a **potential revelation** of the **original Epstein network** of **blackmail and control**. The point here is that if it was at all possible that such a network existed and had hooked people in the **Israeli government** as well as in **America**, such a revelation would have hit the **pro-nationalists** around this time… I find the letter that **Bush** wrote to **Sharon** **VERY suspicious** and it represents **hitting the bullseye** in this investigation — exactly what we're looking for. If **Bush** and **Sharon** were both **compromised**, then the **reaction** to this revelation of compromise would have presented itself within these years **2004–2006**, exemplified by **Cruz** trying to break through the **GOP gridlock** and by later echoes like **2012** (the **“Bomb” Speech**) by **Bibi** at the UN. These may all be **reactions** not well understood in our time to **deep state plans** that were becoming evident. **Bush** and **his father** both show clear signs of being the **exact same kind of wedge** as **Ariel**!
+
+### 3.4 What the author is asking the reader to hold in mind
 
 - **Parallel, not identity:** **Gaza 2005** is read as **structurally** similar to **post-1979 Iran** — a **strategic space** left to **non-liberal** or **militant** successors — with **causal** threads the author believes run toward **2026** crises.  
 - **Agency:** “**We**” in the Iran sentence means **CIA** (see [CIA investigation](/governance/war/investigations/cia-investigation.md)); the author treats **Western intelligence** as **author** of outcomes mainstream narratives attribute to **locals alone**.  
 - **Media:** A **double** pattern — sympathy or **non-intervention** framing that **defangs** Western response, alongside **certainty** that **enemy** WMD programs are **harmless**, while **official** Western briefs say the **opposite**.  
 - **WMD exhaustion:** **Iraq**-style **intervention fatigue** after claims **failed** in the **press**; the author’s **counter-hypothesis** is that **weapons or traces** could still have been **real** in a **non-Hollywood** sense, **placed** by **agencies** rather than **invented** by **target regimes** alone.  
 - **Gaza rhyme:** **Mossad** / **Israeli** side — **bunkers** **near** or **under** **hospitals** — offered as a **pattern analogy** to **CIA-placed** WMD **traces**: **state** or **allied** **assets** **pre-positioned** so **later** **narratives** can **attach** to **terrain**. This is **not** asserted here as **forensically proven**; it is **essential** to the **author’s** **threat model**.  
-- **Two camps:** **Globalist** vs **nationalist** **struggle** over **US military** **use**; **Sharon** cast as **instrument** of a **bloody** **state-building** and **religious** **conflict** **architecture**, then **neutralized** so a **nationalist**-leaning **Israel** (or **faction**) is **not** further **damaged**. **Assassination** of Sharon (**stroke** **2006**) is **hypothesis**, not **finding**.
+- **Two camps:** **Globalist** vs **nationalist** **struggle** over **US military** **use**; **Sharon** cast as **instrument** of a **bloody** **state-building** and **religious** **conflict** **architecture**, then **neutralized** so a **nationalist**-leaning **Israel** (or **faction**) is **not** further **damaged**. **Assassination** of Sharon (**stroke** **2006**) is **hypothesis**, not **finding**.  
+- **Epstein-network revelation window:** The **2004–2006** corridor is read as when **pro-nationalist** circles—**if** a **transatlantic** **compromise** **network** **existed**—would have **felt** **exposure** **pressure**. The **Bush–Sharon** **letter** (**April** **2004**) is treated as a **smoking-gun-shaped** **artifact** for that **thesis** (§5 author read, §7.5).  
+- **Echoes:** **Ted** **Cruz** and **GOP** **gridlock** **breakthrough** (see **[Cruz investigation](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md)**—site thesis places **~2005** **GOP** **crisis** **and** **media** **filter** **around** **Epstein**-**adjacent** **leverage**); **Netanyahu** **27** **Sep** **2012** **UN** **“Bibi** **bomb”** **speech** ([Reuters](https://www.reuters.com/article/world/netanyahus-iran-cartoon-bomb-timed-to-make-big-impact/idUSBRE88R12L/)) as **later** **theatrical** **counter** **signal**. **Timeline nuance:** Cruz’s **national** **profile** **peaks** **after** **2006**; the **author** **clusters** **2004–2006** **with** **Cruz** **as** **prologue** **to** **2012** **echoes** **unless** **narrower** **evidence** **surfaces**.
 
 ---
 
@@ -102,6 +108,12 @@ This investigation exists to **hold** the author’s **pattern language** in ful
 - **Elections:** **Mahmoud Abbas** had succeeded Arafat (2005); **Hamas** won **2006** legislative elections — post-withdrawal dynamics fuel **Israeli right** and **neocon** criticism that **withdrawal empowered extremists** (causation contested).
 
 **Neocon / US commentator split (sample, not exhaustive):** **Charles Krauthammer** argued for **pragmatic** acceptance of withdrawal in **2005** while warning against further **unilateral concessions** ([Washington Post, Dec 2005](https://www.washingtonpost.com/wp-dyn/content/article/2005/12/01/AR2005120101172.html)); other **American** hawks **opposed** or **qualified** the move — the map is **not** “all neocons vs Sharon.”
+
+**Author read — Bush letter to Sharon (14 Apr 2004) as “bullseye” for the compromise / deep-state pattern**
+
+- The author treats this **single** **public** **diplomatic** **object**—Bush **thanking** Sharon for the **disengagement** **plan**, **embedding** **two-state** **vision**, **refugee** **language**, and **“major Israeli population centers”** **(1949** **lines** **not** **expected** **as** **full** **return**)—as **suspiciously** **on-the-nose**: it **locks** **US** **prestige** **to** **Sharon’s** **pivot** **at** **exactly** **the** **moment** **the** **Gaza** **exit** **becomes** **irreversible** **policy**.  
+- **If** **both** **leaders** were **subject** **to** **the** **same** **class** **of** **leverage** (see §3.3–3.4, §7.5), the **letter** **reads** **less** **like** **neutral** **alliance** **management** **and** **more** **like** **mutual** **visibility** **of** **a** **shared** **controller**—**not** **proven** **here**, **but** **exactly** **the** **shape** **of** **artifact** **the** **author** **expects** **from** **a** **revelation** **window**.  
+- **Verifiability:** **Text** **is** **official** **(White** **House** **archives)**; **author’s** **interpretation** **is** **pattern** **claim** **(§12)**.
 
 **“External order” / controlled opposition hypothesis (speculative):**
 
@@ -151,6 +163,14 @@ This section **unpacks** §3 in **analytic** form: it **does not** merge author 
 - The author **explicitly** **analogizes** **Mossad**/**Israeli** **side** **placement** of **bunkers** **adjacent** to or **under** **hospitals** in **Gaza** to **CIA** **placement** of **WMD**-**related** **material** elsewhere: **state** **agency** **pre-seeds** **terrain** so **later** **war** **narratives** **attach** to **civilian** **infrastructure**.  
 - **Status here:** **Allegation** **tier** — **war** **reporting**, **NGO** **claims**, and **denials** **vary** by **source** and **year**; **this** **investigation** **does not** **adjudicate** **battlefield** **forensics**. **Purpose** of **including** it: **reader** **understands** the **author’s** **full** **parallel** **structure** (§3.1). **Dedicated** **Gaza** **war** **forensics** belong in a **Palestine** **conflict** **dossier**, not **resolved** **inside** **Sharon** **biography**.
 
+### 7.5 2004–2006 as Epstein-network “revelation window”; Cruz, Bibi echo; Bushes as wedge (author synthesis)
+
+- **Premise (author):** **If** an **Epstein-style** **blackmail** **and** **control** **network** **hooked** **figures** **in** **Washington** **and** **Jerusalem**, **then** **pro-nationalist** **factions**—those **least** **comfortable** **with** **compromised** **leadership**—would **show** **stress** **behavior** **as** **plans** **(Gaza** **withdrawal**, **Road** **Map** **pressure**, **public** **alignment** **with** **Bush**) **became** **undeniable** **2004–2006**.  
+- **Repo cross-read:** The **[Cruz / Kevin Malone / hijacked-plan investigation](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md)** **already** **develops** **~2005** **GOP** **panic**, **Epstein**-**adjacent** **leverage**, **media** **starvation** **of** **candidates**, **and** **Cruz** **as** **breakthrough** **against** **gridlock**—on a **timeline** **that** **extends** **through** **2012** **and** **beyond**. **This** **file** **does** **not** **re-prove** **that** **thesis**; it **stitches** **Sharon**/**Bush**/**Gaza** **into** **the** **same** **pattern** **language**.  
+- **Cruz vs calendar:** **Ted** **Cruz** **was** **not** **yet** **a** **national** **face** **in** **2004**; **the** **author** **uses** **“Cruz”** **as** **shorthand** **for** **the** **anti-gridlock**/**national-security** **insurgency** **lane** **the** **Cruz** **file** **describes**, **with** **early** **seeds** **in** **Bush-era** **Texas**/**policy** **work**. **Tighter** **2004–2006** **proxies** (other names, funding fights, primary noise) **are** **open** **(§13)**.  
+- **Bibi 2012:** **Netanyahu**’s **UN** **General** **Assembly** **speech** **(27** **Sep** **2012**) **with** **the** **cartoon** **“bomb”** **diagram** **on** **Iranian** **enrichment** is **treated** **by** **the** **author** **as** **a** **later** **echo**—**public** **theatrical** **hardline** **after** **the** **Sharon**/**Olmert** **era** **and** **Obama**/**Iran** **diplomacy** **pressure**. **Press** **context:** [Reuters — “Netanyahu's Iran cartoon bomb timed to make big impact”](https://www.reuters.com/article/world/netanyahus-iran-cartoon-bomb-timed-to-make-big-impact/idUSBRE88R12L/) (28 Sep 2012).  
+- **George W. Bush & George H. W. Bush as “same wedge as Ariel”:** **Author** **claim**—**both** **presidents** **function** **as** **right-coded** **executors** **who** **nonetheless** **advance** **globalist** **or** **deep-state** **border**/**trade**/**war** **architecture** **(Gulf** **War**, **NAFTA** **era**, **Iraq** **2003**, **Palestinian** **state** **language** **with** **Sharon**) **—** **wedge** **leaders** **who** **fracture** **their** **own** **nationalist** **base**. **Evidence** **tier:** **interpretive**; **not** **a** **claim** **they** **are** **identical** **to** **Sharon** **as** **individuals**.
+
 ---
 
 ## 8. Globalist vs nationalist camps; US military as prize; assassination hypothesis
@@ -184,6 +204,7 @@ This section **unpacks** §3 in **analytic** form: it **does not** merge author 
 
 ## 10. Cross-reference
 
+- [Ted Cruz, Kevin Malone (*The Office*), and the “Hijacked Plan” Hypothesis](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md) — **Epstein**-**adjacent** **leverage**, **~2005** **GOP** **crisis**, **Cruz** **vs** **media**/**Angry** **Birds** **filter**; **pairs** **with** **§7.5** **here**.  
 - [Would Netanyahu Want a Faked Death Here? — Motive, Timeline, and Iran Narrative](netanyahu-faked-death-shiva-rumors-investigation.md) — **successor-era** leadership rumors.  
 - [British Empire Divide-and-Conquer — Israel, India/Pakistan, Africa](/governance/war/investigations/british-divide-conquer-israel-investigation.md) — **Mandate** and **partition** template.  
 - [CIA — OSS Rebrand, Nazi Gold, Iran, 9/11, and the Antibody Thesis](/governance/war/investigations/cia-investigation.md) — **Iran** **pipeline**, **DU**/**nuclear** **blind** **spots**, **extremist** **inheritance** thesis.  
@@ -245,7 +266,11 @@ These are **first-class** **pattern** **stakes** for **Paradigm Threat**; they a
 4. **WMD** **interventions** ( **e.g.** **Iraq** ) **exhausted** **trust**; **media**-**debunked** **claims** may **still** **admit** **alternate** **interpretations** where **threat** **material** was **not** **indigenously** **invented** **by** **the** **target** **state** **alone** — **CIA** **may** have **placed** **it**.  
 5. **Mossad** / **Israeli** **side** **placement** of **bunkers** **near** or **under** **Gaza** **hospitals** **rhymes** with ( **4** ) — **agency**-**seeded** **terrain** **for** **later** **narrative** **war**.  
 6. **Globalist** **vs** **nationalist** **camps** **wrestle** **over** **US** **military** **use**; **Sharon** **served** **globalist**-**aligned** **bloody** **state**/**religious** **war** **staging**; **nationalists** **needed** **him** **“down”** **to** **limit** **damage** **to** **a** **nationalist** **Israel**.  
-7. **Ariel** **Sharon** **was** **assassinated** ( **Jan** **2006** **stroke** **as** **cover** **or** **instrument** ).
+7. **Ariel** **Sharon** **was** **assassinated** ( **Jan** **2006** **stroke** **as** **cover** **or** **instrument** ).  
+8. The **2005**-**era** **window** **reveals** **(or** **could** **reveal)** **the** **original** **Epstein** **network** **of** **blackmail** **and** **control**, **with** **hooks** **in** **Israel** **and** **America**; **pro-nationalists** **would** **take** **the** **hit** **first**.  
+9. **George** **W.** **Bush**’s **April** **2004** **letter** **to** **Sharon** **is** **highly** **suspicious** **and** **central** **(“bullseye”)** **to** **testing** **joint** **compromise** **of** **both** **leaders**.  
+10. **Reactions** **to** **emerging** **deep-state** **visibility** **2004–2006** **include** ( **by** **family** **resemblance**) **Cruz**-**lane** **GOP** **gridlock** **breakthrough** **and** **later** **echoes** **such** **as** **Bibi**’s **2012** **UN** **“bomb”** **speech**—**misunderstood** **in** **standard** **history** **as** **mere** **politics**.  
+11. **George** **H.** **W.** **Bush** **and** **George** **W.** **Bush** **are** **the** **same** **kind** **of** **wedge** **figure** **as** **Ariel** **Sharon** **(right-coded** **executors** **who** **advance** **architecture** **nationalists** **reject**).
 
 ---
 
@@ -261,16 +286,20 @@ These are **first-class** **pattern** **stakes** for **Paradigm Threat**; they a
 | **Q6** | **Full** **medical** **record** **or** **credible** **leak** **re** **Jan** **2006** **stroke** — **natural** **vs** **induced**? | **Debunk** **or** **support** **(7)**. |
 | **Q7** | **Weisglass** **“formaldehyde”** **interview** **vs** **Sharon** **stated** **reasons** — **single** **strategy** **or** **internal** **split**? | **Separate** **personal** **from** **structural** **explanations**. |
 | **Q8** | Should a **dedicated** **Gaza** **2005–2026** **causal** **chain** **file** **link** **here**? | **Repo** **architecture** ([Palestine](/governance/genocide/palestine/a.md)). |
+| **Q9** | What **documentary** **or** **testimonial** **evidence** **ties** **Epstein-network** **access** **to** **Israeli** **cabinet**/**PMO** **circles** **2003–2006** **specifically**? | **Test** **(8)** **without** **conflating** **unrelated** **scandals**. |
+| **Q10** | Does **Bush**’s **2004** **letter** **differ** **materially** **from** **prior** **US** **presidential** **letters** **to** **Israeli** **PMs** **on** **settlements**/**final** **borders**—**or** **is** **it** **only** **suspicious** **in** **hindsight**? | **Separate** **pattern** **read** **from** **diplomatic** **norm**. |
+| **Q11** | Which **events** **2004–2006** **(names,** **votes,** **funding** **fights)** **best** **proxy** **“nationalist** **reaction”** **if** **Cruz** **is** **an** **imperfect** **fit** **for** **that** **window**? | **Sharpen** **(10)** **timeline**. |
+| **Q12** | **Netanyahu** **2012** **UN** **speech** — **continuity** **or** **break** **from** **Sharon**-**era** **Iran**/**Palestinian** **policy**? | **Link** **or** **delink** **echo** **claim**. |
 
 ---
 
-Keywords: #ariel #sharon #gaza #disengagement #coma #braslavsky #controlled #opposition #british #mandate #philadelphi #kadima #2005 #2006 #iran #1979 #cia #wmd #globalist #nationalist #assassination #author-thesis
+Keywords: #ariel #sharon #gaza #disengagement #coma #braslavsky #controlled #opposition #british #mandate #philadelphi #kadima #2005 #2006 #iran #1979 #cia #wmd #globalist #nationalist #assassination #author-thesis #epstein #bush-letter #cruz #bibi #un-2012
 
 ---
 
 ## Limits and disclaimers
 
-This file **mixes** **four** **layers**: **documented** **history** (§5–6, §11); **repo** **thematic** **investigations** (§4, §10); **author** **verbatim** **pattern** **thesis** (§3, §7–8, §12); and **review** **questions** (§13). **Thematic** **rhymes** **are** **not** **proof** **of** **identity** **between** **Gaza**, **Iran**, **Iraq**, **or** **Libya**. **Author** **claims** **(§12)** **are** **included** **because** **they** **establish** **the** **pattern** **Paradigm Threat** **tracks**, **not** **because** **each** **is** **proven** **here**. **Mossad**/**hospital** **and** **CIA**/**WMD** **placement** **claims** **are** **allegation**-**tier** **until** **cited** **to** **primary** **or** **peer**-**reviewed** **sources** **in** **this** **repo** **or** **linked** **dossiers**. **Assassination** **hypothesis** **has** **no** **public** **evidence** **in** **this** **file**. Readers should **use** **§13** **to** **pressure**-**test** **§12**. [Paradigm investigation instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md) **govern** **how** **future** **investigations** **treat** **author** **sentiment** **vs** **verification**.
+This file **mixes** **four** **layers**: **documented** **history** (§5–6, §11); **repo** **thematic** **investigations** (§4, §10); **author** **verbatim** **pattern** **thesis** (§3, §5 **author** **read**, §7–8, §7.5, §12); and **review** **questions** (§13). **Thematic** **rhymes** **are** **not** **proof** **of** **identity** **between** **Gaza**, **Iran**, **Iraq**, **or** **Libya**. **Epstein-network** **and** **Bush–Sharon** **compromise** **claims** **(§3.3,** **§7.5,** **§12)** **are** **not** **adjudicated** **here**; **they** **bind** **to** **[Cruz** **investigation](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md)** **thesis** **by** **reference**, **not** **by** **merged** **evidence** **docket**. **Author** **claims** **(§12)** **establish** **the** **pattern** **Paradigm Threat** **tracks**, **not** **court** **findings**. **Mossad**/**hospital** **and** **CIA**/**WMD** **placement** **claims** **remain** **allegation**-**tier**. **Assassination** **hypothesis** **has** **no** **public** **evidence** **in** **this** **file**. Readers should **use** **§13** **to** **pressure**-**test** **§12**. [Paradigm investigation instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md) **govern** **author** **sentiment** **vs** **verification**.
 
 ---
 
