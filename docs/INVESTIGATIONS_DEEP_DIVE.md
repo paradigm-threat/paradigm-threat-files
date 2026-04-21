@@ -2,7 +2,7 @@
 
 **Purpose:** List every investigation in §0; focus unfinished work and TODOs in §1; validate claims where reasonable in §2; record dead ends; give objective likelihood on key claims; list remaining todos and **books/full texts to obtain** as original sources.
 
-**Date:** 2026-03-16 (updated 2026-04-21: §0 complete investigation inventory; 2026-04-19: Trump-era Hollywood investigation refactored to PP scorecard + CA:BNW / blockade cluster; 2026-03-27: Jonestown / CIA Latin America pattern investigation added; 2026-04-18: *Call of Duty* MW investigation + [investigation writing instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md); 2026-04-18: §5 editor note — no absolute OS paths in investigation bodies; use end-of-file Investigator notes)
+**Date:** 2026-03-16 (updated 2026-04-21: Ariel Sharon Gaza/coma investigation added; §0 complete investigation inventory; 2026-04-19: Trump-era Hollywood investigation refactored to PP scorecard + CA:BNW / blockade cluster; 2026-03-27: Jonestown / CIA Latin America pattern investigation added; 2026-04-18: *Call of Duty* MW investigation + [investigation writing instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md); 2026-04-18: §5 editor note — no absolute OS paths in investigation bodies; use end-of-file Investigator notes)
 
 ---
 
@@ -10,7 +10,7 @@
 
 Every paradigm-threat-files investigation that uses the `*investigation.md` filename convention, plus [reverse-crusades-comparison.md](/governance/war/investigations/reverse-crusades-comparison.md), [vril-society.md](/governance/war/investigations/vril-society.md), and [wuxing-five-planets-dark-ages.md](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) (same treatment as site indexes). Deep-dive validation in §2 below applies only where a subsection exists; the rest are listed here so nothing is orphaned.
 
-**Count:** 78 files in the lists below.
+**Count:** 79 files in the lists below.
 
 **Supplementary** (same research lane, different filename): [Chronology investigations index](/history/chronology/investigations/index-investigations.md) lists companion articles (e.g. Rus–Horde lexicon, New World naming). [War investigations hub](/governance/war/investigations/page.md) lists thematic clusters. Fiction-encoding threads: [Narnia planetary encoding](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md), [Tolkien redacted fact](/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md), [Swift investigation](/influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift.md), [Asimov investigation threads](/influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads.md).
 
@@ -27,6 +27,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 
 - [Investigation: September 11, 2001 — Good-Actor Historic Antibody Thesis](/events/false_flag/investigations/09-11-investigation.md)
 - [Investigation: Would Netanyahu Want a Faked Death Here? — Motive, Timeline, and Iran Narrative](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md)
+- [Investigation: Ariel Sharon — Timeline, Gaza Disengagement, Coma Secrecy, and “Controlled Opposition” Threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md)
 - [Investigation: Richard Gage, AE911Truth, and the Controlled-Demolition Thesis (9/11)](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md)
 - [Investigation: Trump, Historic Antibodies, and the Uncompromised Dynasty Thesis](/events/trump/index-trump-investigation.md)
 
