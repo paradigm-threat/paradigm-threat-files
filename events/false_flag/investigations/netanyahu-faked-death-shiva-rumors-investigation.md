@@ -76,6 +76,7 @@ Early **March 2026**, amid **Israel–Iran escalation**, social and some state-a
 
 ## Cross-reference
 
+- [Ariel Sharon — Gaza, coma, controlled-opposition threads](ariel-sharon-gaza-coma-controlled-opposition-investigation.md) — prior PM era; **Gaza** **disengagement** and **coma** **mediation**; **pattern** comparison only
 - [Iran 2026 — Propaganda War Thesis](iran-2026-propaganda-thesis.md)
 - [False Flags: 20th–21st Century Catalog](20th-21st-century-catalog.md)
 

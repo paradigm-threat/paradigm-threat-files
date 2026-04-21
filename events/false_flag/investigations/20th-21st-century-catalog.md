@@ -109,6 +109,9 @@ See [Iran 2026 Propaganda Thesis](iran-2026-propaganda-thesis.md). **Project the
 ### Israel 2026 (Netanyahu — motive for faked death at rumor window)
 See [Netanyahu Faked Death / Shiva Rumors Investigation](netanyahu-faked-death-shiva-rumors-investigation.md). Assesses **likelihood he would *want*** a faked death at the March 2026 juncture (political relief, goals plateau, Iran narrative if exposed); rumor chain and fact-checks are **context only**, not evidence scoring.
 
+### Israel — Ariel Sharon (Gaza 2005, coma, mediated “body politic”)
+See [Ariel Sharon — Gaza, Coma, Controlled-Opposition Threads](ariel-sharon-gaza-coma-controlled-opposition-investigation.md). **Documented:** disengagement timeline, Philadelphi/legal-debate summary, stroke-to-death arc, **Noam Braslavsky** 2010 Kishon Gallery installation. **Speculative:** British/deep-state **pattern** fit, **rhyme** with [CIA Iran pipeline thesis](/governance/war/investigations/cia-investigation.md) (withdrawal → militant-filled space). Not scored as proof of recruitment or substitution.
+
 ---
 
 ## Cross-Reference
@@ -117,6 +120,7 @@ See [Netanyahu Faked Death / Shiva Rumors Investigation](netanyahu-faked-death-s
 - [9/11 Investigation](09-11-investigation.md)
 - [Iran 2026 Propaganda Thesis](iran-2026-propaganda-thesis.md)
 - [Netanyahu Faked Death / Shiva Rumors Investigation](netanyahu-faked-death-shiva-rumors-investigation.md)
+- [Ariel Sharon — Gaza, Coma, Controlled-Opposition Threads](ariel-sharon-gaza-coma-controlled-opposition-investigation.md)
 - [Appendix: False Flags Evidence Dossier](/timeline/evt-false-flags-appendix)
 
 ---

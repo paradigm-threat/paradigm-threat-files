@@ -120,6 +120,7 @@ This investigation examines the hypothesis that the British Empire (and other co
 
 ## VIII. References
 
+- Israeli leadership / withdrawal pattern (case file, not proof of Mandate-era recruitment): [Ariel Sharon — Gaza, coma, controlled-opposition threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md)
 - Paradigm-threat: [Jesuit pilgrimage to Palestine](https://paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to-jerusalem), [Golda Meir investigation](/influence/conspiracy/celebrities/golda), [Deep State Steals Russian History](https://paradigmthreat.net/history/chronology#deep-state-steals-russian-history)
 - PEF Survey of Palestine (1872–1877); British maps of Palestine (19th c.)
 - History Rise: British divide-and-rule in India; Belgian colonialism in Rwanda

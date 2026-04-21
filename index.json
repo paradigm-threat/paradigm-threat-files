@@ -494,7 +494,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-20T21:25:44Z"
+    "_updated": "2026-04-21T12:10:18Z"
   },
   "cosmos": {
     "cosmology": {
@@ -2839,6 +2839,26 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
+        "ariel-sharon-gaza-coma-controlled-opposition-investigation.md": {
+          "_title": "Investigation: Ariel Sharon \u2014 Timeline, Gaza Disengagement, Coma Secrecy, and \u201cControlled Opposition\u201d Threads",
+          "_keywords": [
+            "ariel",
+            "sharon",
+            "gaza",
+            "disengagement",
+            "coma",
+            "braslavsky",
+            "controlled",
+            "opposition",
+            "british",
+            "mandate",
+            "philadelphi",
+            "kadima",
+            "2005",
+            "2006"
+          ],
+          "_updated": "2026-04-21T14:55:23Z"
+        },
         "iran-2026-propaganda-thesis.md": {
           "_title": "Investigation: Iran 2026 \u2014 Propaganda War Thesis",
           "_keywords": [
@@ -2908,7 +2928,7 @@
           "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAABwAQCdASoQAAsABUB8JYgCdAAhQAD+Vdbuvqjewh5+NR9dcykugEwKjJKrbCYulgS5y5jjXef1wAAA",
           "_updated": "2026-04-12T13:54:18Z"
         },
-        "_count": 9
+        "_count": 10
       },
       "israel_false_flag.jpg": {
         "_width": 711,
@@ -2958,7 +2978,7 @@
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoQAAwABUB8JYwCw7EPAZe5HHAA/unqy0+jfrr0OMMdMPz5Ieg4AAAA",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 37
+      "_count": 38
     },
     "jfk": {
       "agent.md": {
@@ -3066,7 +3086,7 @@
       },
       "_count": 1
     },
-    "_count": 104
+    "_count": 105
   },
   "governance": {
     "genocide": {
@@ -12912,7 +12932,7 @@
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
-    "_updated": "2026-04-05T12:17:42Z"
+    "_updated": "2026-04-21T12:10:18Z"
   },
   "science": {
     "5g": {
@@ -14039,6 +14059,6 @@
     },
     "_count": 153
   },
-  "_count": 1976,
-  "_version": "b064732"
+  "_count": 1977,
+  "_version": "30aaec6"
 }
