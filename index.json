@@ -494,7 +494,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-21T15:36:44Z"
+    "_updated": "2026-04-21T15:54:52Z"
   },
   "cosmos": {
     "cosmology": {
@@ -2870,7 +2870,7 @@
             "bibi",
             "un-2012"
           ],
-          "_updated": "2026-04-21T15:36:44Z"
+          "_updated": "2026-04-21T15:54:52Z"
         },
         "ariel-sharon-gaza-coma-controlled-opposition-investigation.png": {
           "_width": 1536,
@@ -6972,6 +6972,22 @@
           ],
           "_updated": "2026-04-10T22:29:47Z"
         },
+        "afterlife-purgatory-protestant-rus-horde-nc-investigation.md": {
+          "_title": "Investigation: Afterlife Maps (Heaven / Hell / Purgatory), Tibetan Bardo, and Protestantism \u2014 Rus-Horde New Chronology Lens",
+          "_keywords": [
+            "afterlife",
+            "purgatory",
+            "bardo",
+            "protestantism",
+            "reformation",
+            "fomenko",
+            "rus-horde",
+            "new-chronology",
+            "ship-of-fools",
+            "comparative-religion"
+          ],
+          "_updated": "2026-04-22T11:50:35Z"
+        },
         "artemis-ii-faith-test-investigation.png": {
           "_width": 1536,
           "_height": 1024,
@@ -7400,7 +7416,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 42
+        "_count": 43
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -8346,7 +8362,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 269
+      "_count": 270
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -10307,7 +10323,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 569
+    "_count": 570
   },
   "influence": {
     "censorship": {
@@ -12951,7 +12967,7 @@
   },
   "page.md": {
     "_title": "Welcome to Paradigm Threat",
-    "_updated": "2026-04-21T15:36:44Z"
+    "_updated": "2026-04-21T15:54:52Z"
   },
   "science": {
     "5g": {
@@ -14078,6 +14094,6 @@
     },
     "_count": 153
   },
-  "_count": 1978,
-  "_version": "eedd7b2"
+  "_count": 1979,
+  "_version": "41cf317"
 }
