@@ -494,7 +494,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-22T11:57:20Z"
+    "_updated": "2026-04-22T12:01:28Z"
   },
   "cosmos": {
     "cosmology": {
@@ -6986,13 +6986,19 @@
             "ship-of-fools",
             "comparative-religion"
           ],
-          "_updated": "2026-04-22T11:57:20Z"
+          "_updated": "2026-04-22T12:01:28Z"
         },
         "afterlife-purgatory-protestant-rus-horde-nc-investigation.png": {
-          "_width": 1376,
-          "_height": 768,
-          "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAAkABUB8JZQAAlwy6CAAAP7jRmm/NanRTEkx/ER6lAookMAAAA==",
-          "_updated": "2026-04-22T12:01:26Z"
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAsABUB8JZgCdAEel3QsiAD+o2VAKT82jcMAtO1s+kSN4a0eC2XFWMZFx6mmEzg+DNvcygtD9tir96WrCAAA",
+          "_updated": "2026-04-22T12:01:28Z"
+        },
+        "afterlife-purgatory-protestant-rus-horde-nc-investigation2.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQAAsABUB8JQBOgCHZ613iVoAA/VPWIY0Im/JxhngQURjnsy3nJhJtbe1YvmMJv65lhQ1a8ZF4geZcVTHs7b20Hw71sAAA",
+          "_updated": "2026-04-22T12:02:03Z"
         },
         "artemis-ii-faith-test-investigation.png": {
           "_width": 1536,
@@ -7422,7 +7428,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 44
+        "_count": 45
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -8368,7 +8374,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 271
+      "_count": 272
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -10329,7 +10335,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 571
+    "_count": 572
   },
   "influence": {
     "censorship": {
@@ -14100,6 +14106,6 @@
     },
     "_count": 153
   },
-  "_count": 1980,
-  "_version": "b44d254"
+  "_count": 1981,
+  "_version": "757e735"
 }
