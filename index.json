@@ -494,7 +494,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-22T12:07:42Z"
+    "_updated": "2026-04-22T13:01:48Z"
   },
   "cosmos": {
     "cosmology": {
@@ -6998,7 +6998,7 @@
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQAAsABUB8JQBOgCHZ613iVoAA/VPWIY0Im/JxhngQURjnsy3nJhJtbe1YvmMJv65lhQ1a8ZF4geZcVTHs7b20Hw71sAAA",
-          "_updated": "2026-04-22T12:02:03Z"
+          "_updated": "2026-04-22T13:01:48Z"
         },
         "artemis-ii-faith-test-investigation.png": {
           "_width": 1536,
@@ -7083,15 +7083,16 @@
             "psrl",
             "accessibility",
             "open-science",
+            "critique",
             "investigation"
           ],
-          "_updated": "2026-04-22T13:01:25Z"
+          "_updated": "2026-04-22T13:01:48Z"
         },
         "fomenko-new-chronology-verification-accessibility-investigation.png": {
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoQAAsABUB8JYwC7AEPDuI4EAD+1LiB/OVAbwkgJkg8EwlBG9wAAA==",
-          "_updated": "2026-04-22T13:00:45Z"
+          "_updated": "2026-04-22T13:01:48Z"
         },
         "giants-infantry-guerrilla-etymology-investigation.md": {
           "_title": "Giants, Infantry, Guerrilla, and the Children's Crusade \u2014 Lexical Investigation",
@@ -7168,7 +7169,7 @@
           "_keywords": [
             "article"
           ],
-          "_updated": "2026-04-22T11:57:20Z"
+          "_updated": "2026-04-22T13:01:48Z"
         },
         "index-offenbarung.md": {
           "_title": "Die Offenbarung Johannis \u2014 English Index",
@@ -14130,5 +14131,5 @@
     "_count": 153
   },
   "_count": 1983,
-  "_version": "8768caa"
+  "_version": "6a780b5"
 }
