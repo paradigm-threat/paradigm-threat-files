@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-21T15:55:02.430Z",
+    "date": "2026-04-22T11:57:32.008Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.md",
+        "href": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-21T15:54:52.000Z",
+    "message": "Sharon investigation: Epstein-window thesis, Bush letter bullseye, Cruz/Bibi/Bushes pattern; index blurb",
     "files": [
       {
         "status": "M",
@@ -553,24 +571,6 @@
         "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
         "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
       },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
-        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
-        "alt": "Call of Duty Modern Warfare — investigation header graphic"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:50:58.000Z",
-    "message": "docs(CoD): note Booze Cruise Superfan SRT path on media volume",
-    "files": [
       {
         "status": "M",
         "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
