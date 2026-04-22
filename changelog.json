@@ -1,8 +1,43 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-22T12:07:53.251Z",
+    "date": "2026-04-22T13:01:58.171Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation2.png",
+        "href": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation2.png"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.md",
+        "href": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.png",
+        "href": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.png"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation2.png"
+      },
+      {
+        "src": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-22T12:07:42.000Z",
+    "message": "Update afterlife investigation header PNG (re-exported asset)",
     "files": [
       {
         "status": "M",
@@ -541,40 +576,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:57:19.000Z",
-    "message": "Investigations: U.S. The Office as antibody; CoD file links Cruz thesis",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
-        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
-        "alt": "Call of Duty Modern Warfare — investigation header graphic"
-      },
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      },
-      {
-        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
-        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
-      },
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      }
-    ]
   }
 ]

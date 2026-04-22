@@ -494,7 +494,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-22T12:01:28Z"
+    "_updated": "2026-04-22T12:07:42Z"
   },
   "cosmos": {
     "cosmology": {
@@ -6992,7 +6992,7 @@
           "_width": 1536,
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAsABUB8JZgCdAEel3QsiAD+o2VAKT82jcMAtO1s+kSN4a0eC2XFWMZFx6mmEzg+DNvcygtD9tir96WrCAAA",
-          "_updated": "2026-04-22T12:01:28Z"
+          "_updated": "2026-04-22T12:07:42Z"
         },
         "afterlife-purgatory-protestant-rus-horde-nc-investigation2.png": {
           "_width": 1536,
@@ -7069,6 +7069,29 @@
           "_height": 1024,
           "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JbACdADaTcutoAD2Qbe2OcpU5rWUp3iG2dUC/Qp9bIdPqZyqoBVlUYagq30cL0EHxMAAAAA=",
           "_updated": "2026-04-04T14:44:57Z"
+        },
+        "fomenko-new-chronology-verification-accessibility-investigation.md": {
+          "_title": "Fomenko New Chronology \u2014 Partial Verification, Access, and Public Reproducibility",
+          "_keywords": [
+            "fomenko",
+            "new-chronology",
+            "verification",
+            "reproducibility",
+            "volume-functions",
+            "rachev",
+            "diacu",
+            "psrl",
+            "accessibility",
+            "open-science",
+            "investigation"
+          ],
+          "_updated": "2026-04-22T13:01:25Z"
+        },
+        "fomenko-new-chronology-verification-accessibility-investigation.png": {
+          "_width": 1536,
+          "_height": 1024,
+          "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoQAAsABUB8JYwC7AEPDuI4EAD+1LiB/OVAbwkgJkg8EwlBG9wAAA==",
+          "_updated": "2026-04-22T13:00:45Z"
         },
         "giants-infantry-guerrilla-etymology-investigation.md": {
           "_title": "Giants, Infantry, Guerrilla, and the Children's Crusade \u2014 Lexical Investigation",
@@ -7428,7 +7451,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 45
+        "_count": 47
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -8374,7 +8397,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 272
+      "_count": 274
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -10335,7 +10358,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 572
+    "_count": 574
   },
   "influence": {
     "censorship": {
@@ -14106,6 +14129,6 @@
     },
     "_count": 153
   },
-  "_count": 1981,
-  "_version": "757e735"
+  "_count": 1983,
+  "_version": "8768caa"
 }
