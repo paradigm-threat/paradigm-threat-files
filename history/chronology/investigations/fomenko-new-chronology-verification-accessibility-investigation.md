@@ -139,28 +139,28 @@ Interactive verification is slated for **[paradigm-threat-site](https://github.c
 Use **both** of the following in any markdown that will later become site MDX:
 
 1. **Visible callout** (readers see intent).
-2. **Machine tag** — HTML comment on its own line (safe on GitHub; grep-friendly):
+2. **Machine tag** — MDX **block comment** on its own line (grep-friendly; **do not** use `<!-- … -->` in site MDX — the compiler treats `<` as JSX and errors on `!`):
 
-```html
-<!-- pt-site:mdx name=ComponentPascalCase status=planned props=json-or-none -->
+```mdx
+{/* pt-site:mdx name=ComponentPascalCase status=planned props=json-or-none */}
 ```
 
 When implemented, each name is registered in **`paradigm-threat-site/components/ArticleContentSSR.tsx`** and **`paradigm-threat-site/components/RemoteMDX.tsx`** inside `mdxComponents()` (same pattern as `EmbedFile`, `PopImage`, …) and exported from **`paradigm-threat-site/components/index.ts`** if needed.
 
 > **Planned MDX:** `FomenkoVolumeSeriesChart` — plot `year` vs `volume` from uploaded or preset CSV.  
-<!-- pt-site:mdx name=FomenkoVolumeSeriesChart status=planned props={"preset":["psrl-tom1-sample","user-csv"]} -->
+{/* pt-site:mdx name=FomenkoVolumeSeriesChart status=planned props={"preset":["psrl-tom1-sample","user-csv"]} */}
 
 > **Planned MDX:** `FomenkoNasWeibullPanel` — NAS curve + Weibull–Gnedenko fit and reported **\(r\)** per Fomenko–Rachev (1990) regression.  
-<!-- pt-site:mdx name=FomenkoNasWeibullPanel status=planned props={"method":"1990-linearization"} -->
+{/* pt-site:mdx name=FomenkoNasWeibullPanel status=planned props={"method":"1990-linearization"} */}
 
 > **Planned MDX:** `FomenkoPairShiftExplorer` — two series, user-chosen **lag** (years), maxima / amplitude correlation summary.  
-<!-- pt-site:mdx name=FomenkoPairShiftExplorer status=planned -->
+{/* pt-site:mdx name=FomenkoPairShiftExplorer status=planned */}
 
 > **Planned MDX:** `FomenkoShuffleNullSummary` — within-window shuffle null for splash / correlation (seeded).  
-<!-- pt-site:mdx name=FomenkoShuffleNullSummary status=planned -->
+{/* pt-site:mdx name=FomenkoShuffleNullSummary status=planned */}
 
 > **Planned MDX:** `FomenkoTable1Reference` — read-only table of published Table 1 rows + links to DOI / local PDF (no claim of recomputation until raw `vol(t)` exists).  
-<!-- pt-site:mdx name=FomenkoTable1Reference status=planned -->
+{/* pt-site:mdx name=FomenkoTable1Reference status=planned */}
 
 ### 7.2 MVP stack (unchanged intent, now site-scoped)
 
@@ -172,6 +172,12 @@ When implemented, each name is registered in **`paradigm-threat-site/components/
 
 - LICENSE: code MIT; **datasets** tagged by provenance and rights.
 - **No** claim that the UI “proves” NC; **yes** claim it “implements or cites described statistics.”
+
+### 7.4 Deep link `#img=/history/...` — missing image (fixed in site)
+
+**Cause:** (1) The **fullscreen gallery** used `highResSrc` (`https://paradigmthreat.net/files/...`) before `src`, or raw root-relative `src` for ChangeLog-only items — on **localhost**, the CDN can **lag** GitLab Pages, and `/history/...png` is **not** served as a static file on the Next origin. (2) **ChangeLog strip thumbnails** used `changelogPublicImageSrc()` directly as `<img src>`, so the same root-relative paths **404** on `localhost:3000`.
+
+**Fix:** (1) `galleryOverlayDisplaySrc()` in `components/Image/ImageGalleryContext.tsx`. (2) `changelogThumbSrc()` in `components/ChangeLog/ChangeLog.js` — repo-relative images use **`/api/image?path=...&w=160`** (thumbs) or **`w=1600`** (overlay), proxied to files mirrors.
 
 ---
 
@@ -275,9 +281,10 @@ Fomenko & Nosovskiy list **S. P. Novikov**, **A. A. Zaliznyak**, **V. L. Yanin**
 | Date | Note |
 |------|------|
 | 2026-04-22 | Investigation opened: partial vs complete verification ladder; access; classification; lay + academic sections; calculator roadmap. Local `wget` paths and Diacu DOI cited. |
-| 2026-04-22 | Site delivery plan: `<!-- pt-site:mdx … -->` tags + planned `paradigm-threat-site` components; **Section 8 empirical validation** — Table 1 spot transcription, synthetic Pearson demo, `pdftotext` word-count audit, OCR TODOs. |
+| 2026-04-22 | Site delivery plan: `{/* pt-site:mdx … */}` tags (MDX-safe; HTML `<!-- -->` breaks `next-mdx-remote`) + planned `paradigm-threat-site` components; **Section 8 empirical validation** — Table 1 spot transcription, synthetic Pearson demo, `pdftotext` word-count audit, OCR TODOs. |
 | 2026-04-22 | **Section 1.1–1.2:** clarify digitization vs packaging vs unreleased outputs; speculative reasons full validatable dataset never appeared. |
 | 2026-04-22 | **Section 9:** external critiques (Diacu, Halperin, Wikipedia), advocate-hosted Russian critic index (chronologia), arXiv Baiget Orts (astronomy / reproducibility); references renumbered to **Section 10**. |
+| 2026-04-22 | **Section 7.4:** local 404s for `#img=` + ChangeLog thumbs — `galleryOverlayDisplaySrc` (`ImageGalleryContext.tsx`) + `changelogThumbSrc` (`ChangeLog.js`). |
 
 ---
 

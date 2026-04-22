@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-22T13:15:55.103Z",
+    "date": "2026-04-22T13:48:55.853Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.md",
+        "href": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.png",
+        "alt": "Fomenko New Chronology — verification, accessibility, and reproducibility (illustrative header)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-22T13:15:45.000Z",
+    "message": "chronology: Fomenko investigation — external critiques and citations",
     "files": [
       {
         "status": "M",
@@ -559,32 +577,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-19T12:43:34.000Z",
-    "message": "Add Trump-era Hollywood political media investigation; index deep dive; CoD MW header PNG.",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
-        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation2.png",
-        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation2.png"
-      },
-      {
-        "status": "A",
-        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
-        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation2.png"
-      }
-    ]
   }
 ]
