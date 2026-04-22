@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-22T11:57:32.008Z",
+    "date": "2026-04-22T12:01:39.015Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.md",
+        "href": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png",
+        "href": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-22T11:57:20.000Z",
+    "message": "Add afterlife/purgatory/Bardo vs Protestantism NC investigation",
     "files": [
       {
         "status": "A",
@@ -543,34 +565,6 @@
     "date": "2026-04-18T14:54:10.000Z",
     "message": "docs(CoD): table of extra Office espionage rhymes (Golden Ticket, The Lover)",
     "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
-        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
-        "alt": "Call of Duty Modern Warfare — investigation header graphic"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-18T14:53:15.000Z",
-    "message": "docs: move local paths to Investigator notes appendix; instruct editors",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
-        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
-      },
-      {
-        "status": "M",
-        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
-        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
-      },
       {
         "status": "M",
         "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
