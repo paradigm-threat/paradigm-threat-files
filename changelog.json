@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-22T13:01:58.171Z",
+    "date": "2026-04-22T13:15:55.103Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.md",
+        "href": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.png",
+        "alt": "Fomenko New Chronology — verification, accessibility, and reproducibility (illustrative header)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-22T13:01:48.000Z",
+    "message": "chronology: Fomenko NC verification investigation and index",
     "files": [
       {
         "status": "A",
@@ -563,18 +586,5 @@
         "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation2.png"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-18T16:00:23.000Z",
-    "message": "blog: 2026-04-18 CoD MW, spore/blood rain, timeline PP links, TTS Unicode",
-    "files": [
-      {
-        "status": "A",
-        "path": "blog/2026-04-18-cod-mw-militainment-spore-blood-rain-tts-unicode.md",
-        "href": "/blog/2026-04-18-cod-mw-militainment-spore-blood-rain-tts-unicode"
-      }
-    ],
-    "images": []
   }
 ]

@@ -16,7 +16,32 @@ Fomenko–Nosovskiy “New Chronology” (NC) combines (a) **empirico-statistics
 - **Partial verification** is possible today: re-implement the published method and run it on **named texts** and on **PSRL-class chronicles** you digitize yourself.
 - **Complete verification** of “everything NC ever computed” would require **authoritative raw outputs** (or full reconstruction from primary editions with identical preprocessing), which are **not publicly catalogued**.
 
-This investigation records **progress**, **gaps**, **access friction**, and a **roadmap** toward an **open, simulated “calculator”** on **`paradigm-threat-site`** (see **Section 7**) so the **mathematical layer** can be tested without endorsing every historical conclusion. **Empirical numbers run to date** are logged in **Section 8**.
+This investigation records **progress**, **gaps**, **access friction**, and a **roadmap** toward an **open, simulated “calculator”** on **`paradigm-threat-site`** (see **Section 7**) so the **mathematical layer** can be tested without endorsing every historical conclusion. **Empirical numbers run to date** are logged in **Section 8**. **Published counter-arguments and replication-adjacent work** are listed in **Section 9**.
+
+### 1.1 Digitization, packaging, and “missing outputs” are different problems
+
+It is **easy to conflate** three barriers; separating them explains why “nothing is online” is **only half true**.
+
+| Barrier | What it means | Status for NC today |
+|--------|----------------|---------------------|
+| **A. Prose digitization** | Are the *books* or chronicles available as **searchable text** or only **scan PDFs**? | Many mirrors (including our seed PDFs) are **image scans**: `pdftotext` can yield **zero** extractable words without **OCR**. That blocks **automatic** `year → volume` tables. |
+| **B. Corpus packaging** | Even when text exists (libraries, IA, PSRL projects), is it **aligned** to annalistic **years**, **same edition** Fomenko used, and **licensed** for redistribution? | Often **no single public bundle** meets all four; volunteers must **build** CSVs. |
+| **C. Released numerical outputs** | Did the authors publish **raw matrices** (all chronicle pairs, scores, shifts) as they computed them? | **Not as an open dataset.** The 1990 paper gives **methods + a small Table 1–style sample**; the book line gives **narrative + selected tables**, not a turnkey dump. |
+
+**Conclusion:** Lack of **easy digitization** explains why *we* could not immediately recompute on those PDFs. It does **not** by itself explain absence of **their** internal spreadsheets: those could have been released (even partially) regardless of whether Delamere PDFs were born-digital. **Both** A/B **and** C matter for “full validation against what they actually ran.”
+
+### 1.2 Speculation — why a complete, validatable public dataset never appeared
+
+Everything below is **inference and guesswork**, not attributed to any named source. It mixes **boring institutional causes** with **incentive** effects; several can be true at once.
+
+1. **Era and genre (most boring)** — Pre-2000s computational humanities rarely shipped **code + data** with monographs. “The article is the artifact” was normal; **reproducibility packages** are a **recent norm**, not a retroactive obligation.
+2. **Nobody was paid to replicate** — Mainstream history and Slavic studies had little incentive to **re-run** a controversial pipeline at scale; **dismissal** is cheaper than **multi-year OCR + alignment**. Conversely, NC sympathizers may prefer **popular synthesis** over **maintaining a data warehouse**.
+3. **Technical entropy** — Internal runs may have lived on **tape/disk**, one-off Fortran or early PC jobs, **undocumented** file formats; **loss** and **bit-rot** are common for 1970s–1990s lab work everywhere, not unique to Moscow.
+4. **Rights and redistributability** — Even if matrices existed, publishing **full derivative statistics** on **PSRL** and other in-copyright editions could have looked **legally risky** without publisher clearance; safer to publish **figures** inside books.
+5. **Strategic ambiguity (weak speculation)** — A **partially specified** empirical halo can be **harder to falsify** than a full dump that independent teams could mine for **negative controls**. This is **not** proof that anyone thought that way; it is a **rational-choice** possibility in controversial science-adjacent work.
+6. **“Nobody did the work” in one sense, yes** — The **community** never produced a **neutral, edition-keyed, year-segmented open corpus** labeled “for NC replication,” because that is **thankless infrastructure**, not a career default for either camp.
+
+**Net:** The gap is **overdetermined**: **scan-heavy sources**, **no cultural habit of data deposit**, **possible loss of originals**, **copyright caution**, and **low prestige for adversarial replication** together explain the vacuum better than any single story.
 
 ---
 
@@ -202,22 +227,58 @@ Optional toy “peak spacing” (difference between successive local maxima, tru
 
 ---
 
-## 9. References (citable)
+## 9. External critiques, replication-adjacent work, and where the literature is thin
+
+This section answers: *Has anyone published an online attempt to reproduce Fomenko’s statistics and failed, or shown his numbers don’t add up?*
+
+### 9.1 What is **not** easy to find
+
+A **famous English paper** of the form *“we re-segmented the same chronicles, re-ran the 1990 NAS/Weibull pipeline, and Table 1 disagrees”* is **not** prominently catalogued. That is consistent with **missing public `vol(t)` inputs** (Section 1.1): outsiders cannot **disprove a specific run** they cannot load.
+
+### 9.2 Methodological and mathematical pushback (online, citable)
+
+| Work | What it challenges | URL |
+|------|-------------------|-----|
+| **Florin Diacu** (2013), *Notices of the AMS* | Mathematics + historical dating; discusses Fomenko-style approaches and where **statistics meet historiography** without endorsing NC conclusions. | [DOI 10.1090/noti962](https://doi.org/10.1090/noti962) |
+| **Charles J. Halperin** (2005), *Carl Beck Papers* | Argues NC is **bad humanities dressed as natural science** — methodology and use of evidence, not a line-by-line reprint of Table 1. | [PDF (Pitt OJS)](https://carlbeckpapers.pitt.edu/ojs/index.php/cbp/article/download/160/156); [article landing](https://carlbeckpapers.pitt.edu/ojs/index.php/cbp/article/view/160) |
+| **Wikipedia** (secondary) | Aggregates mainstream dismissal and **further references**; useful as a **bibliography hub**, not a primary authority. | [New chronology (Fomenko)](https://en.wikipedia.org/wiki/New_chronology_(Fomenko)) |
+
+### 9.3 Russian polemic and named critics (advocate-hosted index)
+
+Fomenko & Nosovskiy list **S. P. Novikov**, **A. A. Zaliznyak**, **V. L. Yanin**, **B. A. Rybakov**, and others in their “answers to critics” material. English bibliography / extracts: [chronologia.org/en/answers_bib_rus.html](https://chronologia.org/en/answers_bib_rus.html). **Caveat:** this is **NC’s own site** — treat as **evidence of who they answer**, then chase **original Russian articles** (e.g. Novikov in *Priroda*, 1997) in libraries or scans.
+
+### 9.4 Replication-adjacent **computational** contradiction (astronomy branch, not 1990 chronicle stats)
+
+**Carlos Baiget Orts**, *Astronomical Refutation of the New Chronology by Fomenko and Nosovsky: The 1151-Year Planetary Cycle and Dating of the Almagest via Speed/Error Correlation*, [arXiv:2504.12962](https://arxiv.org/abs/2504.12962) (submitted 17 Apr 2025). Abstract states **reproducible, data-driven** methods, results **contradicting** key NC dating claims, and **open-source code** for independent verification. **Scope note:** this targets **astronomical / Almagest-style** arguments, **not** the Fomenko–Rachev **volume-function** paper. **Status:** **arXiv preprint** — check whether a **journal version** exists before treating as peer-reviewed in your own writing.
+
+### 9.5 Summary sentence
+
+**Dismissal and method criticism:** reasonably well linked online (Diacu, Halperin, Wikipedia, Russian names via chronologia). **Hard numerical replication failure** for the **1990 text statistics** on **shared raw inputs:** **scarce** in public English literature, largely because **those inputs were never released as data.**
+
+---
+
+## 10. References (citable)
 
 1. A. T. Fomenko and S. T. Rachev, “Volume Functions of Historical Texts and the Amplitude Correlation Principle,” *Computers and the Humanities* 24 (1990): 187–206. DOI: [10.1007/BF00117342](https://doi.org/10.1007/BF00117342). Local mirror: `wget/chronologia.org/en/volume_functions_of_historical_texts.pdf`.
 2. Florin Diacu, “Mathematical Methods in the Study of Historical Chronology,” *Notices of the American Mathematical Society*, April 2013. [https://doi.org/10.1090/noti962](https://doi.org/10.1090/noti962). Local: `wget/chronologia.org/en/2013_florin_diacu_math_methods.pdf`.
 3. A. T. Fomenko (preface), “New Chronology” project overview (English), e.g. `wget/chronologia.org/en/seven/preface_fomenko.html` — **primary advocate statement**; not independent verification.
 4. Isaac Newton, *The Chronology of Ancient Kingdoms Amended* (1728; many modern reprints) — **context** for chronology skepticism in canonical science history (cite edition used).
+5. Charles J. Halperin, “Musings on the ‘New Chronology’,” *The Carl Beck Papers in Russian & East European Studies*, University of Pittsburgh (2005). Open access: [article download](https://carlbeckpapers.pitt.edu/ojs/index.php/cbp/article/download/160/156), [article view](https://carlbeckpapers.pitt.edu/ojs/index.php/cbp/article/view/160).
+6. Carlos Baiget Orts, *Astronomical Refutation of the New Chronology by Fomenko and Nosovsky: The 1151-Year Planetary Cycle and Dating of the Almagest via Speed/Error Correlation*, arXiv:2504.12962 [astro-ph.EP] (2025). [https://arxiv.org/abs/2504.12962](https://arxiv.org/abs/2504.12962) — preprint; abstract claims open-source reproducibility for **astronomical** NC claims.
+7. A. T. Fomenko & G. V. Nosovskiy, “Answers to our critics” bibliography / extracts (English), chronologia.org — [answers_bib_rus.html](https://chronologia.org/en/answers_bib_rus.html) (advocate-hosted index of Russian and other critics).
+8. Wikipedia contributors, [“New chronology (Fomenko)”](https://en.wikipedia.org/wiki/New_chronology_(Fomenko)) — secondary survey (check page history before heavy citation).
 
 ---
 
-## 10. Changelog (investigation maintenance)
+## 11. Changelog (investigation maintenance)
 
 | Date | Note |
 |------|------|
 | 2026-04-22 | Investigation opened: partial vs complete verification ladder; access; classification; lay + academic sections; calculator roadmap. Local `wget` paths and Diacu DOI cited. |
 | 2026-04-22 | Site delivery plan: `<!-- pt-site:mdx … -->` tags + planned `paradigm-threat-site` components; **Section 8 empirical validation** — Table 1 spot transcription, synthetic Pearson demo, `pdftotext` word-count audit, OCR TODOs. |
+| 2026-04-22 | **Section 1.1–1.2:** clarify digitization vs packaging vs unreleased outputs; speculative reasons full validatable dataset never appeared. |
+| 2026-04-22 | **Section 9:** external critiques (Diacu, Halperin, Wikipedia), advocate-hosted Russian critic index (chronologia), arXiv Baiget Orts (astronomy / reproducibility); references renumbered to **Section 10**. |
 
 ---
 
-Keywords: #fomenko #new-chronology #verification #reproducibility #volume-functions #rachev #diacu #psrl #accessibility #open-science #investigation
+Keywords: #fomenko #new-chronology #verification #reproducibility #volume-functions #rachev #diacu #psrl #accessibility #open-science #critique #investigation
