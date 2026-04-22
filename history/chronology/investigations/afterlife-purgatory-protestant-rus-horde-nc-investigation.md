@@ -1,5 +1,7 @@
 # Investigation: Afterlife Maps (Heaven / Hell / Purgatory), Tibetan Bardo, and Protestantism — Rus-Horde New Chronology Lens
 
+![Afterlife maps, Bardo / purgatory transition, and Reformation-era ship allegory — illustrative header](afterlife-purgatory-protestant-rus-horde-nc-investigation.png)
+
 > **TL;DR:** Comparative sketch of **modern** afterlife doctrines across major traditions; **Fomenko / Nosovskiy** read that world religion **radiated from a Rus–Horde imperial center** and earlier **sun / polytheistic** layers; **purgatory** contrasted with **Tibetan Bardo**; **Protestant** rejection of purgatory paired with **sanctification** exceptions (**C.S. Lewis**); **author thesis** that **Protestant “protest”** targeted **popular indulgence** and **eastern imperial Christianity** more than **clerical indulgences alone**, and that **mockery** (*Ship of Fools*) and **schism** were **weapons against what could not be reformed in place** — cross-read [two branches](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md), [Prester John / Ship of Fools](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md), [soul science](/history/chronology/investigations/soul-science-investigation.md), [Rus-Horde lexicon](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md), [gnosis vs agnosticism](/history/chronology/investigations/gnostic-vs-agnostic-theism-atheism-after-planet-gods.md).
 
 **Date:** 2026-04-22  

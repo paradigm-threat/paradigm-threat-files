@@ -494,7 +494,7 @@
     "_count": 2
   },
   "changelog.json": {
-    "_updated": "2026-04-21T15:54:52Z"
+    "_updated": "2026-04-22T11:57:20Z"
   },
   "cosmos": {
     "cosmology": {
@@ -6986,7 +6986,13 @@
             "ship-of-fools",
             "comparative-religion"
           ],
-          "_updated": "2026-04-22T11:50:35Z"
+          "_updated": "2026-04-22T11:57:20Z"
+        },
+        "afterlife-purgatory-protestant-rus-horde-nc-investigation.png": {
+          "_width": 1376,
+          "_height": 768,
+          "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAAkABUB8JZQAAlwy6CAAAP7jRmm/NanRTEkx/ER6lAookMAAAA==",
+          "_updated": "2026-04-22T12:01:26Z"
         },
         "artemis-ii-faith-test-investigation.png": {
           "_width": 1536,
@@ -7133,7 +7139,7 @@
           "_keywords": [
             "article"
           ],
-          "_updated": "2026-04-14T23:57:09Z"
+          "_updated": "2026-04-22T11:57:20Z"
         },
         "index-offenbarung.md": {
           "_title": "Die Offenbarung Johannis \u2014 English Index",
@@ -7416,7 +7422,7 @@
           ],
           "_updated": "2026-04-05T12:17:42Z"
         },
-        "_count": 43
+        "_count": 44
       },
       "islam_in_early_america.jpg": {
         "_width": 666,
@@ -8362,7 +8368,7 @@
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoNABAABUB8JYwAAvvQEm4loAD+jgds5irc5wCxMAVNrpXW51SgT2du9bDhh8TUvA9XApB5xxR3PKIxUatqXCV9AD1gR9RQs9He9oaAAAA=",
         "_updated": "2026-01-16T01:04:59Z"
       },
-      "_count": 270
+      "_count": 271
     },
     "common-questions.md": {
       "_title": "Common Questions About Alternate Chronology",
@@ -10323,7 +10329,7 @@
       ],
       "_updated": "2026-04-05T12:17:42Z"
     },
-    "_count": 570
+    "_count": 571
   },
   "influence": {
     "censorship": {
@@ -14094,6 +14100,6 @@
     },
     "_count": 153
   },
-  "_count": 1979,
-  "_version": "41cf317"
+  "_count": 1980,
+  "_version": "b44d254"
 }
