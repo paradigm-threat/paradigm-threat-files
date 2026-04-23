@@ -34,10 +34,6 @@ which (possibly unintentionally) destroyed Martian surface cities as well.
 
 > **TL;DR:** Connects “martial” state power to a Mars-associated deep state: surface evidence read as massacre and geometry, CIA remote viewing, biomechanical Martian hosts in fiction, and consolidation after the MudFlood discharge—JFK’s “monolithic conspiracy” as terrestrial framing.
 
-<h2 className="no-index">Index</h2>
-
-<DynamicIndex/>
-
 ## What is the Deep State?
 
 The **Deep State** is an international technocratic cabal that imposes systems of control over

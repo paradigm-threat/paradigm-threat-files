@@ -22,10 +22,7 @@ Use **`name-asc`** unless a hub already standardizes on **`name-desc`** (e.g. so
 
 Under **`blog/`**, keep the existing pattern on `blog/page.md`: `<AutoIndex ... format="blog" />` per **`docs/BLOG.md`** (dated filenames, sort, title).
 
-### DynamicIndex vs AutoIndex
-
-- **`<AutoIndex />`** — lists **files in the current directory** from `index.json` (same mechanism as the bare folder view). This is what prevents “hidden” siblings.
-- **`<DynamicIndex />`** — scans **headings inside the current page** for an inline TOC. It does **not** list other files in the folder. A page can use both: DynamicIndex for long on-page TOC, AutoIndex at the end for folder contents.
+On article pages, the site shell can also show a **folder index** (same `AutoIndex` data) in the wide-layout right column when the route maps to a files directory.
 
 ## Example hub
 
