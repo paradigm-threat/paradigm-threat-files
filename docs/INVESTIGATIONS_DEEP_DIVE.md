@@ -2,7 +2,7 @@
 
 **Purpose:** List every investigation in §0; focus unfinished work and TODOs in §1; validate claims where reasonable in §2; record dead ends; give objective likelihood on key claims; list remaining todos and **books/full texts to obtain** as original sources.
 
-**Date:** 2026-03-16 (updated 2026-04-21: Ariel Sharon Gaza/coma investigation added; §0 complete investigation inventory; 2026-04-19: Trump-era Hollywood investigation refactored to PP scorecard + CA:BNW / blockade cluster; 2026-03-27: Jonestown / CIA Latin America pattern investigation added; 2026-04-18: *Call of Duty* MW investigation + [investigation writing instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md); 2026-04-18: §5 editor note — no absolute OS paths in investigation bodies; use end-of-file Investigator notes)
+**Date:** 2026-03-16 (updated 2026-04-23: Great Awakening / alien-savior / RV cluster controlled-opposition investigation added; 2026-04-21: Ariel Sharon Gaza/coma investigation added; §0 complete investigation inventory; 2026-04-19: Trump-era Hollywood investigation refactored to PP scorecard + CA:BNW / blockade cluster; 2026-03-27: Jonestown / CIA Latin America pattern investigation added; 2026-04-18: *Call of Duty* MW investigation + [investigation writing instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md); 2026-04-18: §5 editor note — no absolute OS paths in investigation bodies; use end-of-file Investigator notes)
 
 ---
 
@@ -10,7 +10,7 @@
 
 Every paradigm-threat-files investigation that uses the `*investigation.md` filename convention, plus [reverse-crusades-comparison.md](/governance/war/investigations/reverse-crusades-comparison.md), [vril-society.md](/governance/war/investigations/vril-society.md), and [wuxing-five-planets-dark-ages.md](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) (same treatment as site indexes). Deep-dive validation in §2 below applies only where a subsection exists; the rest are listed here so nothing is orphaned.
 
-**Count:** 79 files in the lists below.
+**Count:** 80 files in the lists below.
 
 **Supplementary** (same research lane, different filename): [Chronology investigations index](/history/chronology/investigations/index-investigations.md) lists companion articles (e.g. Rus–Horde lexicon, New World naming). [War investigations hub](/governance/war/investigations/page.md) lists thematic clusters. Fiction-encoding threads: [Narnia planetary encoding](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md), [Tolkien redacted fact](/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md), [Swift investigation](/influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift.md), [Asimov investigation threads](/influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads.md).
 
@@ -80,6 +80,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 
 ### Influence
 
+- [Investigation: “Great Awakening” / alien savior / RV / lightworker cluster — controlled opposition and the human “reset” thesis (Open)](/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md)
 - [Investigation: Toynbee Tiles — *Resurrect Dead* (2011) and the street campaign](/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md)
 - [Investigation: Trump-era Hollywood as predictive programming — trends, rhymes, and scorecard (2016–2026)](/influence/hollywood/trump-era-hollywood-political-media-investigation.md)
 - [Compromised Court Cases and Declared Reality — Investigation](/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md)
@@ -134,8 +135,9 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 | 15 | Jonestown 1978 + CIA Latin America pattern | [jonestown-guyana-1978-cia-latin-america-pattern-investigation.md](/governance/war/investigations/jonestown-guyana-1978-cia-latin-america-pattern-investigation.md) | §6 checklist (hearings, Dwyer cables, forensics, La Penca files) | SDSU Jonestown Institute; House hearings; NSArchive Chile; CEH Guatemala |
 | 16 | *Call of Duty: Modern Warfare* original vs reboot / militainment | [call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) | §7 table + checkboxes (Glasco corroboration, WH CoD clip 2026, MWIII arc, Soleimani echo sourcing, etc.) | Games/Activision primary statements as they appear |
 | 17 | Trump-era Hollywood — PP trends, scorecard, CA:BNW vs maritime blockade news | [trump-era-hollywood-political-media-investigation.md](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) | § Weak points — scene-level script vs blockade wording; Marvel dev timelines; archival ACW 2.0 pitch | Reuters Venezuela; Defense News Hormuz 2026; Wikipedia CA:BNW plot |
+| 18 | Great Awakening / alien savior / RV cluster — CO vs human “reset” | [great-awakening-alien-savior-rv-nwo-cluster-investigation.md](/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) | §9–§10: algorithm cluster study, phrase timeline, SEC/FBI URL pin list, “conspirituality” secondary sources | Briones *Conspirituality* (2020 working paper / book); WEF *Great Reset* edition cited in-file |
 
-**Total in §1 table:** 17 investigations with explicit unfinished work. **Full corpus:** 78 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
+**Total in §1 table:** 18 investigations with explicit unfinished work. **Full corpus:** 80 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
 
 ---
 
