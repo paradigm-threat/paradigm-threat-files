@@ -13,7 +13,7 @@
 
 1. **§1** — What this file is / is not (scope, evidence tiers).  
 2. **§2** — The cluster (entities, pipes, how nodes fuse).  
-3. **§3** — Documented anchors: *Ancient Aliens*, WEF “Great Reset,” RV/dinar, Wilcock, **§3.5** Fulford / Drake / Ventura, **§3.6** missing/dead scientists cycle (**§3.6.6** working conclusion), **§3.7** QAnon (timeline, claims, debunks, pattern fit).  
+3. **§3** — Documented anchors: *Ancient Aliens*, WEF “Great Reset,” RV/dinar (**§3.3.1** dollar / intervention lore), Wilcock, **§3.5** Fulford / Drake / Ventura, **§3.6** missing/dead scientists cycle (**§3.6.6** working conclusion), **§3.7** QAnon (timeline, claims, debunks, pattern fit).  
 4. **§4** — Mechanics (psychographics, rewarded behaviors, guru / insider avatar).  
 5. **§5** — Cover vs truth — Mars breakaway rhymes (repo cross-links).  
 6. **§6** — Two “resets” — spiritual waiting room vs Davos branding.  
@@ -107,6 +107,22 @@ The table below is a schematic. In practice, edges blur: Q readers also hold din
 **Counter-narrative (honest dinar holders’ point):** Iraq is a real country with a real central bank; exchange rates move for macro reasons unrelated to forum intel. Small legal currency purchases as souvenirs or speculation are **not** automatically the same as joining a fraud ring—but this file cares about the RV story when it becomes guaranteed wealth, secret military pipes, and moving deadlines: that shape matches enforcement cases.
 
 **Investigative use:** RV lore behaves like **controlled opposition** in outcome—it taxes hope, immobilizes political economy literacy, and anchors trust to secret timing messages.
+
+#### 3.3.1 “Gold-backed / anti-dollar” states and Western intervention — what happened, what the RV–GCR basin *claims*, and author sentiment (speculation flagged)
+
+**Why this sits under RV / GCR:** Dinarian and “global currency reset” subcultures routinely fuse the IQD RV fantasy with a morality play: any leader who prices commodities outside the dollar or talks gold gets hit by NATO / coalition forces so the cabal can save fiat and the petrodollar. That bundle is **emotionally** load-bearing even when the historical ledger is messier.
+
+**Iraq — documented layer (not the same headline as “gold RV”):** Under the UN Oil-for-Food framework, Iraq obtained UN approval (2000) to invoice a portion of oil sales in **euros** instead of **dollars**—widely reported as a political jab at U.S. sanctions policy and dollar pricing habit, **not** as Iraq having launched an independent gold-backed global reserve currency. See contemporary coverage ([CNN — UN to let Iraq sell oil for euros, 2000](https://www.cnn.com/2000/WORLD/meast/10/30/iraq.un.euro.reut/); [RFE/RL — Baghdad moves to euro](https://www.rferl.org/a/1095057.html)). The 2003 invasion had stated official rationales (WMD / terrorism / regime change) that dominate Western government records; whether euro pricing mattered at the margin to any decision-maker is **not** adjudicated here from open sources.
+
+**Libya — documented vs rumor:** Muammar Gaddafi and Libyan / AU circles did talk in public and diplomatic channels about African financial integration and commodity-backed ideas (often popularized as a “gold dinar”) in the years before 2011. [Africa Check — Gaddafi gold currency plan](https://africacheck.org/fact-checks/meta-programme-fact-checks/did-gaddafi-plan-introduce-african-currency-backed-gold) summarizes the evidentiary situation as weak for the strongest causal claim (“NATO intervened primarily because of the gold dinar”)—their headline read is **“maybe, but little evidence.”** The 2011 war also sat inside Arab Spring politics, UNSC language, and civil-conflict dynamics sufficient to explain intervention without importing a single-secret-cause model.
+
+**Would gold-backed or non-dollar oil invoicing “bankrupt” Western fiat or end USD reserve status?** Mainstream macro (as usually taught): reserve currency status rests on deep capital markets, convertibility, rule-of-law perceptions, and network effects—not only on whether one mid-sized producer uses a different numeraire on some invoices. A real regional gold-settlement bloc clearing at scale could shift pricing and sanctions-leverage margins over **decades**; that is a long-horizon institutional contest, **not** an overnight “RV” that zeros the dollar because Baghdad or Tripoli flipped a switch. Fear—in policy circles and in conspiracy commerce—is often about **precedent** and **sanctions evasion** more than about literal instant insolvency of the United States.
+
+**Other states often pasted into the same map** (internet lore / sanctions journalism mix): Iran (bilateral non-dollar trade, sanctions architecture); Venezuela (collapse + sanctions; “resource currency” threads); Russia / China dedollarization and BRICS settlement experiments (real policy tracks, usually misread in RV chat as imminent GCR proof); Syria (often bundled with pipeline memes—high dispute density). This file does **not** vouch for a single “they all did X therefore Y” chain.
+
+**Author / desk speculation — fingerprints: “patriot” primacy vs **§3.2** “globalist” reset:** Hard interventions (Iraq 2003, Libya 2011) can simultaneously (a) advance what critics call U.S. / allied primacy—order projection, alliance cohesion, dollar-plumbing habits—a read often sold as nationalist security—and (b) open space for postwar reconstruction, IMF conditionality, and multilateral “rules-based order” language overlapping the transnational elite layer the author calls **globalist**. Those labels are **not** mutually exclusive at the outcome tier: national-security state action and Davos-branded governance reboots can sequence (shock → recontracting) without a smoking-gun memo that says “invade for the dinar RV.” **9/11** (2001) is its own evidentiary universe in this repo—see [AE911Truth / Gage investigation](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md) for the repo’s separate 9/11 lane—RV–GCR storytellers often stitch tower collapse, Iraq invasion, and “reset” finance into **one felt timeline** so the listener never has to choose between a domestic crime story and a macroeconomic savior fantasy.
+
+**Author sentiment (Paradigm Threat):** When leaders signal commodity pricing or regional blocs outside U.S.-centric settlement, Western hard power shows up fast—not only “aliens” or “Q white hats”—while the official story stays humanitarian or terror or WMD; the same structural fear (losing pricing power and sanctions grip) feeds both Pentagon-forward “national interest” narratives and later WEF-style recontracting language, **without** giving ordinary citizens a clean lever—you are told to wait for patriots or a new financial Genesis rather than audit who got paid on which contract after which vote.
 
 ### 3.4 David Wilcock — public arc, collaborations, and documented controversy
 
@@ -321,6 +337,7 @@ Newsweek’s April 2026 summary table (journalistic inventory; check dates again
 | 4 | Can Mars breakaway claims be pinned to primary docs independent of UFO entertainment? | Separates this repo’s Mars lane from AA lane. |
 | 5 | Historiography: when did “Great Awakening” attach to Q and to New Age revival separately? | Disambiguates terms. |
 | 6 | For each name in **§3.6.3**, what do coroner / sheriff / employer primary releases actually say (manner / cause / missing-person status)? | Moves the table from journalism to adjudicated fact per case. |
+| 7 | For Iraq 2003 and Libya 2011, what do **primary** cables / NSC / Treasury contemporaneous records say about settlement currency vs humanitarian or WMD rationales (where declassified)? | Separates **§3.3.1** speculation from adjudicated state paper. |
 
 ---
 
@@ -368,6 +385,13 @@ Newsweek’s April 2026 summary table (journalistic inventory; check dates again
 - CFTC — ALJ opinion PDF (Dinar Corp. line): https://www.cftc.gov/media/3481/enfdinarcorpincopinion021420/download  
 - Iraq Business News — long-form debunk of persistent dinar claims: https://www.iraq-businessnews.com/2024/08/29/the-iraqi-dinar-revaluation-scam-false-hope-financial-deception/
 
+### Dollar / petrodollar / Oil-for-Food / Libya currency lore (**§3.3.1**)
+
+- Wikipedia — Oil-for-Food Programme (UN escrow / pricing context): https://en.wikipedia.org/wiki/Oil-for-Food_Programme  
+- CNN — UN to let Iraq sell oil for euros (2000): https://www.cnn.com/2000/WORLD/meast/10/30/iraq.un.euro.reut/  
+- RFE/RL — Baghdad moves to euro (2000): https://www.rferl.org/a/1095057.html  
+- Africa Check — Gaddafi gold-backed African currency claim: https://africacheck.org/fact-checks/meta-programme-fact-checks/did-gaddafi-plan-introduce-african-currency-backed-gold
+
 ### Wilcock / Gaia / criticism
 
 - Vice — Wilcock / “ascension” pricing reporting: https://www.vice.com/en/article/4ayyqw/david-wilcock-ufo-conspiracy-theorist-covid-19-deep-state-ascension  
@@ -407,9 +431,9 @@ Newsweek’s April 2026 summary table (journalistic inventory; check dates again
 
 ---
 
-Keywords: #controlled-opposition #great-awakening #david-wilcock #lightworkers #rv #dinar #gcr #nesara #ancient-aliens #wef #great-reset #new-world-order #disclosure #conspirituality #mars #deep-state #drake-bailey #benjamin-fulford #qanon #jesse-ventura #iraqi-dinar #missing-scientists #april-2026
+Keywords: #controlled-opposition #great-awakening #david-wilcock #lightworkers #rv #dinar #gcr #nesara #ancient-aliens #wef #great-reset #new-world-order #disclosure #conspirituality #mars #deep-state #drake-bailey #benjamin-fulford #qanon #jesse-ventura #iraqi-dinar #missing-scientists #april-2026 #petrodollar #dedollarization #oil-for-food #libya
 
-**Last substantive update:** 2026-04-23 — **§3.6.6** working conclusion (vanished-scientists narrative vs anti-gravity lore; exotic gating + “best humans” departure beat); **§3.5** Fulford / Drake / Ventura; **§3.7** QAnon; **§7** memory cut; **§8** claim 6 Fulford; **§9**/**§10** cleanup; **§11** Q hub; **§12** refs; prose de-bold pass.
+**Last substantive update:** 2026-04-23 — **§3.3.1** Iraq euro Oil-for-Food / Libya gold-dinar lore vs RV–GCR basin; nationalist primacy vs **§3.2** reset speculation + **9/11** timeline stitch note; **§9** Q7; **§12** dollar/petrodollar refs; **§3.6.6** scientists; **§3.5**/**§3.7**; prose style.
 
 ---
 
