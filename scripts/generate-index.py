@@ -1,8 +1,6 @@
 import os
 import re
 import json
-import base64
-import io
 import subprocess
 from datetime import datetime, timezone
 from typing import Dict, Optional
@@ -15,6 +13,9 @@ from PIL import Image
 # each path (one `git log` pass); untracked or missing paths fall back to mtime.
 _BLOG_DATED_MD = re.compile(r"^(\d{4}-\d{2}-\d{2})-.+\.md$")
 _KEYWORDS_LINE_RE = re.compile(r"^Keywords:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
+
+# Minified JSON (smaller index for fetch/PWA). Images keep _width/_height only.
+_JSON_DUMP_KW = {"separators": (",", ":"), "ensure_ascii": False}
 
 
 def _extract_keywords_from_markdown_file(full_path: str) -> list[str]:
@@ -87,23 +88,6 @@ def _index_updated_iso(full_path: str, repo_dir: str, basename: str) -> Optional
         return None
     return f"{ymd}T12:00:00Z"
 
-def get_lqip(image_path):
-    """Generates a 16x16 base64-encoded WebP LQIP string for an image."""
-    try:
-        with Image.open(image_path) as img:
-            img.thumbnail((16, 16))
-            
-            if img.mode in ("RGBA", "P"):
-                img = img.convert("RGBA")
-            else:
-                img = img.convert("RGB")
-            
-            buffer = io.BytesIO()
-            img.save(buffer, format="WEBP", quality=20)
-            base64_str = base64.b64encode(buffer.getvalue()).decode('utf-8')
-            return f"data:image/webp;base64,{base64_str}"
-    except Exception:
-        return None
 
 def generate_index():
     # Get the directory where the script is located and go up to the repo root
@@ -186,9 +170,6 @@ def generate_index():
                                 file_data["_width"], file_data["_height"] = img.size
                         except Exception:
                             pass
-                        lqip = get_lqip(full_path)
-                        if lqip:
-                            file_data["_lqip"] = lqip
 
                     updated_iso = _index_updated_iso(full_path, repo_dir, item)
                     if updated_iso:
@@ -227,8 +208,8 @@ def generate_index():
         version = datetime.now(timezone.utc).strftime('%Y%m%d%H%M')
     tree['_version'] = version
 
-    with open(output_file, 'w') as f:
-        json.dump(tree, f, indent=2)
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(tree, f, **_JSON_DUMP_KW)
     
     print(f"Generated index.json with {count} files at {output_file}")
 

@@ -1,8 +1,52 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-23T12:01:37.598Z",
+    "date": "2026-04-23T12:58:15.948Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/astronomy/page.md",
+        "href": "/cosmos/cosmology/astronomy"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/tartaria/chronology.md",
+        "href": "/history/chronology/tartaria/chronology"
+      },
+      {
+        "status": "M",
+        "path": "scripts/generate-index.py",
+        "href": "/scripts/generate-index.py"
+      }
+    ],
+    "images": [
+      {
+        "src": "/cosmos/cosmology/astronomy/black-hole-hoax.jpg",
+        "alt": "Black hole hoax"
+      },
+      {
+        "src": "/cosmos/cosmology/astronomy/dark_matter.960x0.gif",
+        "alt": "Dark matter"
+      },
+      {
+        "src": "/cosmos/cosmology/astronomy/fake_sun_chart.jpg",
+        "alt": "Fake sun chart"
+      },
+      {
+        "src": "/cosmos/cosmology/astronomy/page_1.jpg",
+        "alt": "Page 1"
+      },
+      {
+        "src": "/cosmos/cosmology/astronomy/thedarkmatte.jpg",
+        "alt": "The dark matter"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-23T12:01:27.000Z",
+    "message": "Remove inline DynamicIndex; update AutoIndex docs and hub pages",
     "files": [
       {
         "status": "M",
@@ -1206,81 +1250,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-19T13:00:53.000Z",
-    "message": "Refactor Trump-era Hollywood investigation: PP scorecard, CA:BNW vs 2025-26 blockade news, session sentiment; link PP hub.",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
-        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
-        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/predictive_programming/page.md",
-        "href": "/influence/predictive_programming"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/predictive_programming/predictive_programming.png",
-        "alt": "Predictive Programming"
-      },
-      {
-        "src": "/influence/predictive_programming/comics.jpg",
-        "alt": "9/11 predictive programming in comics"
-      },
-      {
-        "src": "/influence/predictive_programming/doom.jpg",
-        "alt": "Doom — quantum teleport between Earth and Mars"
-      },
-      {
-        "src": "/influence/predictive_programming/mars_women.jpg",
-        "alt": "Mars Needs Women — breeding programme theme"
-      },
-      {
-        "src": "/influence/predictive_programming/stargate.jpg",
-        "alt": "Stargate — pyramid as portal"
-      },
-      {
-        "src": "/influence/predictive_programming/wotw.jpg",
-        "alt": "War of the Worlds — heat ray, red weed, Mars inversion"
-      },
-      {
-        "src": "/influence/predictive_programming/simpsons_space_laser.jpg",
-        "alt": "The Simpsons — 9/11 imagery"
-      },
-      {
-        "src": "/influence/predictive_programming/mars_movies.jpg",
-        "alt": "Mars movies"
-      },
-      {
-        "src": "/influence/predictive_programming/marvin.jpg",
-        "alt": "Marvin the Martian"
-      },
-      {
-        "src": "/influence/predictive_programming/marvin2.jpg",
-        "alt": "Marvin the Martian (2)"
-      },
-      {
-        "src": "/influence/predictive_programming/megaman.jpg",
-        "alt": "Mega Man"
-      },
-      {
-        "src": "/influence/predictive_programming/nazis_hollow_earth.jpg",
-        "alt": "Nazis in Hollow Earth"
-      },
-      {
-        "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
-        "alt": "Fire on the Mountain"
-      }
-    ]
   }
 ]

@@ -47,8 +47,6 @@ https://en.wikipedia.org/wiki/Anatoly_Fomenko#Historical_revisionism
 
 ## Other Images:
 
-<assetRenderer source="unused"></assetRenderer>
-
 ---
 
 Keywords: #reasons #roman #empire #existed
