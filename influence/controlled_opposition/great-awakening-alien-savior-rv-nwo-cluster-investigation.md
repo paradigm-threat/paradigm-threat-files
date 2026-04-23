@@ -1,6 +1,6 @@
 # Investigation: “Great Awakening” / Alien Savior / RV / Lightworker Cluster — Controlled Opposition and the Human “Reset” Thesis
 
-![Composite “Great Awakening” style mind map — SSP, Q, lightworkers, solar flash, and related nodes (illustrative context only; not evidence of coordination)](great-awakening-mind-map-infographic.png)
+![“Great Awakening” cluster illustration for this investigation — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); illustrative context only, not evidence of coordination](great-awakening-alien-savior-rv-nwo-cluster-investigation.png)
 
 > **TL;DR:** Case file treating the **online convergence** of **David Wilcock–style disclosure**, **“Great Awakening”** spirituality, **lightworker / starseed / frequency** language, **Iraqi dinar–style “RV”** (global currency reset) lore, ***Ancient Aliens*–style** extraterrestrial historiography, and adjacent **Q / “white hats” / tribunals** memes as a **single recruitment basin** for **managed dissent**—**not** proven as one operation, but **structurally** similar: it **promises** redemption through **non-human or occulted** benefactors and **patience**, while **parallel public** programs (e.g. **WEF “Great Reset”** framing) advance **human** **long-horizon governance** rebrands. **Pre-Q rhymes:** **2012**-era **“mass arrests”** **briefings** (e.g. **Drake** **Bailey** **×** **Wilcock** **transcript** on [Divine Cosmos](https://divinecosmos.com/davids-blog/1043-massarrests/)) and **mainstream** **celebrity-hosted** **conspiracy TV** (***Conspiracy Theory with Jesse Ventura***, 2009–2012 — [Wikipedia series summary](https://en.wikipedia.org/wiki/Conspiracy_Theory_%28TV_series%29)) **serialized** **state-threat** **content** **without** **organizing** **reciprocity**. **Author conclusion (pattern):** the **beneficiaries** of any real “reset” are **terrestrial power** **networks** (deep state / **NWO** vocabulary in repo idiom), **not** aliens; the **alien–savior** lane may **cover** hypotheses the repo treats separately—e.g. a **human** **breakaway** presence associated with **Mars** that is **neither ancient nor benevolent** ([Mars / deep state hub](/cosmos/mars/page.md)). Cross-read: [Etana / “Ancient Aliens” trap](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md), [Urantia CO + PP](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md), [Artemis II debunk-vs-conspiracy trough](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md), [Occupy OWS CO thesis](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md).
 
@@ -299,7 +299,7 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 
 Keywords: #controlled-opposition #great-awakening #david-wilcock #lightworkers #rv #dinar #gcr #nesara #ancient-aliens #wef #great-reset #new-world-order #disclosure #conspirituality #mars #deep-state #drake-bailey #jesse-ventura #iraqi-dinar
 
-**Last substantive update:** 2026-04-23 — expanded §1–§6; deep §3.3 RV and §3.4 Wilcock; new §3.5 pre-Q military-entertainment; author §7.3–7.4; §8–§12 refresh.
+**Last substantive update:** 2026-04-23 — header image set to `great-awakening-alien-savior-rv-nwo-cluster-investigation.png`; expanded §1–§6; deep §3.3 RV and §3.4 Wilcock; new §3.5 pre-Q military-entertainment; author §7.3–7.4; §8–§12 refresh.
 
 ---
 
@@ -313,5 +313,5 @@ Keywords: #controlled-opposition #great-awakening #david-wilcock #lightworkers #
 
 ### Investigator notes (maintainers / LLMs)
 
-- Header image: `influence/controlled_opposition/great-awakening-mind-map-infographic.png`.  
+- Header image: `influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png` (companion copy: `great-awakening-mind-map-infographic.png`).  
 - If **author** **names** **a** **different** **celebrity** **for** **§7.3**, **duplicate** **§3.5** **row** **rather** **than** **deleting** **Ventura** **(keep** **as** **parallel** **unless** **author** **rejects** **it)**.

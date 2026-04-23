@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-23T13:35:33.298Z",
+    "date": "2026-04-23T13:36:27.438Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md",
+        "href": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png",
+        "href": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-23T13:35:32.000Z",
+    "message": "Expand Great Awakening CO investigation: RV, Wilcock, pre-Q Drake/Ventura cites",
     "files": [
       {
         "status": "M",
@@ -1253,19 +1275,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-19T14:11:18.000Z",
     "message": "Polish pre-2016 Simpsons section: readable prose, fixed illusory truth link, compact table",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
-        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-19T13:37:30.000Z",
-    "message": "Reorder investigation: epistemic author note after methodology; evidence then scorecard rollup.",
     "files": [
       {
         "status": "M",
