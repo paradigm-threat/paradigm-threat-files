@@ -21,10 +21,6 @@ description: "Before the first memories of Earth"
 - George Santayana
 ```
 
-<h2 className="no-index">Index</h2>
-
-<DynamicIndex/>
-
 ## Part 1 An Ancient History we can all agree on (Q & A)
 
 ### Q: How old is planet Earth, or our Sun, or the Universe according to NASA?
@@ -867,6 +863,10 @@ and where, without exception, peace and revelation always prevail in the end.
 ![WW2 was won by cheating](../../../governance/war/ww2meme.jpg?w=768 '{"className":"rounded-md m-auto"}')
 
 ---
+
+## Folder contents
+
+<AutoIndex sort="name-asc" />
 
 Keywords: #article
 

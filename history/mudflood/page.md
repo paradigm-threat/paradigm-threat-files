@@ -72,9 +72,6 @@ Note: This investigation is a work in progress. Check back soon for more updates
   some kind of [mass hysteria](https://en.wikipedia.org/wiki/Bosnian_pyramid_claims).](/history/mudflood/mudflood_energetic_event_hypothesis.png?w=800)
 
 
-<h1 className="no-index">Index</h1>
-<DynamicIndex></DynamicIndex>
-
 ## Updates to the MudFlood Energetic Event Hypothesis
 
 After a re-reading of Fomenko's New Chronology,

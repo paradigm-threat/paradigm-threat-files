@@ -56,8 +56,6 @@ Plagiarism and misattribution in 20th-century media function as a control mechan
 
 ## Full Index
 
-<DynamicIndex/>
-
 
 ---
 
@@ -67,6 +65,6 @@ Keywords: #stolen #credit #plagiarism #control
 
 ## Folder contents
 
-The site does not auto-list sibling files when `page.md` is shown; **DynamicIndex** only mirrors headings on this page—**AutoIndex** lists every file in this directory.
+The site does not auto-list sibling files when `page.md` is shown; **AutoIndex** lists every file in this directory.
 
 <AutoIndex sort="name-asc" />
