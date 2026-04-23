@@ -13,7 +13,7 @@
 
 1. **§1** — What this file is / is not (scope, evidence tiers).  
 2. **§2** — The cluster (entities, pipes, how nodes **fuse**).  
-3. **§3** — **Documented** anchors: *Ancient Aliens*, WEF “Great Reset,” **RV/dinar** (mechanics + fraud record), **Wilcock** (career + **Gaia** / **Goode** controversy + **2012** **mass-arrest** **promotion**), **pre-Q** **“Pentagon** **white** **hats”** **entertainment** (**Ventura** / **Drake**).  
+3. **§3** — **Documented** anchors: *Ancient Aliens*, WEF “Great Reset,” **RV/dinar** (mechanics + fraud record), **Wilcock** (career + **Gaia** / **Goode** controversy + **2012** **mass-arrest** **promotion**), **pre-Q** **“Pentagon** **white** **hats”** **entertainment** (**Ventura** / **Drake**), **§3.6** **missing**/**dead** **scientists** **news** **cycle** **(April** **2026)** **/** **Wilcock** **livestream** **/** **validation** **vs** **debunk**.  
 4. **§4** — **Mechanics** (psychographics, rewarded behaviors, **celebrity** **avatar**).  
 5. **§5** — **Cover vs truth** — Mars breakaway rhymes (repo cross-links).  
 6. **§6** — **Two “resets”** — spiritual waiting room vs Davos branding.  
@@ -131,6 +131,55 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 
 **Why pair Ventura with Drake/Wilcock:** **Different** **production** **scale** **and** **demographics**, **same** **moral** **hazard** **class** **for** **this** **investigation**: **the** **viewer** **is** **trained** **to** **wait** **for** **a** **named** **champion** **or** **off-screen** **patriot** **plan** **rather** **than** **to** **build** **durable** **local** **power**. **Ventura** **is** **the** **closest** **fit** **to** **the** **author’s** **memory** **of** **a** **“celebrity”** **breaking** **Q-style** **news** **before** **Q**; **if** **the** **author** **meant** **a** **different** **name** **(e.g.** **a** **late-night** **host** **bit,** **a** **rapper’s** **tweetstorm,** **a** **particular** **actor),** **§9** **asks** **them** **to** **pin** **it** **so** **the** **row** **can** **be** **corrected**.
 
+### 3.6 Missing / dead U.S. scientists (2024–2026 news cycle) — Wilcock, specialties, validation, and counter-claims
+
+**Why this belongs in the file:** In **April** **2026**, **mainstream** **political** **press** **and** **the** **White** **House** **acknowledged** **a** **cluster** **of** **deaths** **and** **disappearances** **among** **people** **tied** **to** **defense,** **DOE** **labs,** **NASA** **JPL,** **and** **related** **contractors**—**then** **disclosure** **influencers** **layered** **UFO** **and** **“something** **big”** **framing** **on** **top**. **David** **Wilcock** **referenced** **the** **same** **headline** **environment** **on** **YouTube** **shortly** **before** **his** **death** (**April** **20,** **2026** per **law** **enforcement** **and** **obituary** **chains** **cited** **below**).
+
+#### 3.6.1 What Wilcock said (secondary press quoting the livestream)
+
+**Meaww** **attributes** **these** **lines** **to** **his** **final** **livestream** **(~day** **before** **death):** *“People are disappearing. Scientists are going missing … The president himself is saying they’re gonna look into this … It’s a little bit scary.”* — [Meaww — Wilcock livestream / Boulder Sheriff summary](https://news.meaww.com/ufo-expert-david-wilcock-said-he-felt-grateful-to-be-alive-in-livestream-a-day-before-his-death). **Treat** **as** **press** **paraphrase** **/** **quote** **until** **matched** **to** **a** **stable** **primary** **transcript** **or** **timestamped** **video** **archive**.
+
+**Older** **Divine** **Cosmos** **(website)** **content** **about** **“missing** **…** **scientists”** **is** **not** **the** **same** **story:** **Wilcock** **summarized** **a** ***Sun*** **tabloid** **line** **about** **a** **“missing** **team** **of** **scientists”** **in** **Antarctica** **(2002)** **in** [Antarctic “LIVE Intel” post](https://divinecosmos.com/davids-blog/1212-antarctic-atlantis/) — **third-party** **paper**, **not** **a** **U.S.** **criminal** **docket**.
+
+#### 3.6.2 What the news cycle actually alleged (validated: officials commented; link unproven)
+
+- **White** **House** **/** **FBI** **review:** **Press** **secretary** **Karoline** **Leavitt** **said** **the** **administration** **was** **“actively** **working** **with** **all** **relevant** **agencies** **and** **the** **FBI”** **to** **review** **cases** **“together”** **and** **find** **“commonalities”** — [Fox News — Leavitt statement / Doocy exchange](https://www.foxnews.com/politics/white-house-reviewing-cases-missing-dead-scientists-possible-links-11th-person-identified). **President** **Trump** **called** **the** **matter** **“pretty** **serious** **stuff”** **and** **hoped** **it** **was** **“random”** **(same** **Fox** **piece).**  
+- **DOE** **/** **NNSA:** **Fox** **reports** **NNSA** **aware** **and** **“looking** **into** **the** **matter”** **(statement** **quoted** **in** **article** **above).**  
+- **NASA** **pushback** **on** **“security** **threat”** **framing:** **NASA** **spokesperson** **Bethany** **Stevens** **told** **Newsweek** **that** **at** **that** **time** **“nothing** **related** **to** **NASA** **indicates** **a** **national** **security** **threat”** **while** **coordinating** **with** **agencies** — [Newsweek — NASA statement vs. Oversight rhetoric](https://www.newsweek.com/nasa-issues-update-missing-nuclear-rocket-scientists-probe-11857798). **James** **Comer** **(House** **Oversight)** **had** **called** **the** **pattern** **a** **possible** **“national** **security** **concern”** **in** **the** **same** **coverage** **cycle** **(Newsweek** **quotes** **him** **via** **Fox).**  
+- **What** **remains** **unvalidated** **in** **public** **sources** **read** **for** **this** **file:** **A** **single** **proven** **conspiracy** **or** **one** **foreign** **hand** **behind** **all** **listings**; **officials** **explicitly** **note** **no** **confirmed** **connection** **between** **cases** **(Fox** **closing** **graphs).**
+
+#### 3.6.3 Specialties / roles on the circulating lists (documented inventory — not proof of pattern)
+
+**Newsweek’s** **April** **2026** **summary** **table** **(journalistic** **inventory,** **check** **dates** **against** **primary** **obits** **/** **police** **releases)** **includes** **e.g.:**
+
+| Name (as listed) | Role / specialty (as reported) | Status |
+|------------------|--------------------------------|--------|
+| **Amy Eskridge** | Scientist tied to **anti-gravity** **claims** **in** **some** **lists** | Died **2022** |
+| **Michael David Hicks** | **NASA** **JPL**; **DART**, **Deep** **Space** **1** | Died **July** **2023** |
+| **Frank Maiwald** | **NASA** **JPL** **principal** **researcher** | Died **July** **2024** |
+| **Anthony Chavez** | **Former** **Los** **Alamos** | Missing **from** **May** **2025** |
+| **Monica Reza** | **JPL** **materials** **processing** | Missing **June** **2025** **(hiking)** |
+| **Melissa Casias** | **Los** **Alamos** **administrative** | Missing **June** **2025** |
+| **Steven Garcia** | **Contractor**, **Kansas** **City** **National** **Security** **Campus** **(NM)** | Missing **Aug** **2025** |
+| **Nuno Loureiro** | **MIT** **plasma** **/** **fusion** **(Nuclear** **Science** **/** **Engineering)** | Died **Dec** **2025** |
+| **Carl Grillmair** | **Caltech** **astrophysicist**; **NASA** **NEOWISE** **/** **NEO** **Surveyor** | Died **Feb** **2026** |
+| **William** **“Neil”** **McCasland** | **Retired** **USAF** **major** **general**; **SAP** **/** **space** **portfolio** | Missing **Feb** **2026** |
+| **Jason Thomas** | **Pharmaceutical** **researcher** | Found **dead** **Mar** **2026** |
+
+**Source:** [Newsweek — list and NASA statement](https://www.newsweek.com/nasa-issues-update-missing-nuclear-rocket-scientists-probe-11857798). **Interpretation:** **the** **mix** **spans** **astrophysics,** **planetary** **defense** **missions,** **materials** **science,** **fusion,** **nuclear** **lab** **admin** **/** **legacy** **staff,** **defense** **contracting,** **pharma,** **and** **retired** **flag** **officers** — **i.e.** **“sensitive”** **employment** **is** **a** **selection** **filter** **for** **who** **gets** **bundled** **into** **viral** **lists,** **not** **by** **itself** **proof** **of** **one** **enemy** **or** **one** **motive.**
+
+#### 3.6.4 Counter-claims and “debunk” / skeptical analysis (still read each case file)
+
+- [The Debrief — “Are Scientists with Knowledge of U.S. Secrets Disappearing? The Facts Tell a Different Story”](https://thedebrief.org/are-scientists-with-knowledge-of-u-s-secrets-disappearing-the-facts-tell-a-different-story/) **(Micah** **Hanks,** **Intelligence** **Brief):** **argues** **(1)** **correlation** **≠** **causation;** **(2)** **not** **everyone** **on** **lists** **is** **a** **“scientist”** **or** **same** **agency;** **(3)** **cases** **span** **years** **and** **mix** **missing** **persons,** **undetermined** **deaths,** **and** **homicides;** **(4)** **little** **evidence** **most** **had** **meaningful** **“UFO** **secrets”;** **(5)** **McCasland** **911** **/** **family** **context** **(medical** **/** **mental** **health** **stress,** **missing** **firearm)** **suggests** **mundane** **tragedy** **hypotheses** **compete** **with** **espionage** **theater;** **(6)** **Grillmair** **killing** **tied** **by** **law** **enforcement** **to** **a** **named** **suspect** **/** **property** **dispute** ([KABC 7](https://abc7.com/post/man-charged-killing-caltech-astrophysicist-carl-grillmair-llano-carjacking-own-relative-burglarizing-home/18626990/) **via** **Debrief),** **not** **a** **shadow** **program.**  
+- **Hiking** **/** **outdoor** **missing** **person** **base** **rate:** **Debrief** **cites** **NPS** **mortality** **data** **and** **search-rescue** **scale** **to** **contextualize** **Reza**-type **disappearances** **(same** **article).**  
+- **Newsweek** **sidebar** **links** **to** **family** **/** **colleague** **pushback** **on** **misinformation** **(e.g.** **“wife** **of** **missing** **UFO** **expert,”** **“colleague** **speaks** **out”)** — **see** **URLs** **embedded** **in** [Newsweek NASA piece](https://www.newsweek.com/nasa-issues-update-missing-nuclear-rocket-scientists-probe-11857798).
+
+#### 3.6.5 Investigation posture (Paradigm Threat)
+
+- **Validated:** **Official** **and** **major** **press** **layers** **exist** **(White** **House** **review,** **agency** **statements,** **named** **individuals** **in** **news** **tables).**  
+- **Not** **validated** **here:** **Single** **operator** **/** **alien** **angle** **/** **“all** **one** **plot”** **—** **explicitly** **disputed** **by** **skeptical** **analysis** **and** **by** **“no** **confirmed** **connection”** **language** **in** **Fox** **reporting.**  
+- **Wilcock** **fit** **to** **cluster** **thesis:** **He** **imported** **headline** **fear** **into** **a** **disclosure** **livestream** **—** **same** **attention** **economy** **as** **§4** **(wait** **for** **authority** **to** **resolve** **dread)** **whether** **or** **not** **the** **underlying** **crimes** **prove** **coordinated.**
+
 ---
 
 ## 4. Mechanics — why the cluster captures “open-minded” state-fear
@@ -163,7 +212,7 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 
 **Pattern claim (this file):** **Alien–benevolence** **stories** **and** **frequency** **soteriology** **can** **function** as **topcover** **for** **human** **continuity** **projects**—**especially** when **they** **tell** **the** **listener** that **redemption** **is** **incoming** **if** **consciousness** **is** **right**.
 
-**Interaction with §3.5:** If **listeners** **believe** **“arrests** **are** **queued”** **or** **“RV** **is** **the** **economic** **justice** **event,”** **they** **may** **discount** **banal** **but** **real** **levers**—**tax** **policy**, **zoning**, **procurement** **contracts**, **base** **closures**, **sanctions** **evasion** **networks**—that **actually** **move** **power** **on** **Earth** **and** **in** **orbit**.
+**Interaction with §3.5–3.6:** If **listeners** **believe** **“arrests** **are** **queued,”** **“RV** **is** **the** **economic** **justice** **event,”** **or** **“the** **missing** **scientists** **story** **proves** **off-world** **/** **deep** **continuity** **without** **primary** **dockets,”** **they** **may** **discount** **banal** **but** **real** **levers**—**tax** **policy**, **zoning**, **procurement** **contracts**, **base** **closures**, **sanctions** **evasion** **networks**—that **actually** **move** **power** **on** **Earth** **and** **in** **orbit**.
 
 ---
 
@@ -228,6 +277,7 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 | 4 | Can **Mars** **breakaway** **claims** be **pinned** to **primary** **docs** **independent** of **UFO** **entertainment**? | **Separates** **this** **repo’s** **Mars** **lane** from **AA** **lane**. |
 | 5 | **Historiography**: when did **“Great Awakening”** **attach** to **Q** **and** to **New Age** **revival** **separately**? | **Disambiguates** **terms**. |
 | 6 | **Which** **specific** **celebrity** **did** **the** **author** **remember** **(name** **+** **year** **+** **show** **/ tweet**)? | Lets us **swap** **Ventura** **for** **the** **correct** **row** **without** **guessing**. |
+| 7 | For **each** **name** **in** **§3.6.3**, **what** **do** **coroner** **/** **sheriff** **/** **employer** **primary** **releases** **actually** **say** **(manner** **/** **cause** **/** **missing** **person** **status**)? | **Moves** **the** **table** **from** **journalism** **to** **adjudicated** **fact** **per** **case**. |
 
 ---
 
@@ -238,7 +288,8 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 - [ ] Add **timeline** **graphic** **of** **“Great Awakening”** **phrase** **usage** (religious history vs **Q** vs **New Age**).  
 - [ ] Pull **academic** **sociology** on **“conspirituality”** (Yoga **+** **conspiracy** **blend**) **as** **neutral** **third-party** **vocabulary**.  
 - [ ] Cross-map **Robert David Steele** / **Jones** **adjacency** **where** **repo** **already** **touches** **Mars** **media** **([Mars page](/cosmos/mars/page.md))** **without** **duplicate** **theory** **essays**.  
-- [ ] **Author** **clarification** **on** **§9** **Q6** **→** **update** **§3.5** **if** **a** **different** **celebrity** **fits** **better**.
+- [ ] **Author** **clarification** **on** **§9** **Q6** **→** **update** **§3.5** **if** **a** **different** **celebrity** **fits** **better**.  
+- [ ] **§3.6.3** **inventory** **→** **attach** **one** **primary** **document** **per** **row** **(coroner,** **missing** **person** **case** **file,** **NASA** **/** **LANL** **employee** **statement** **where** **public)** **—** **§9** **Q7**.
 
 ---
 
@@ -290,6 +341,16 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 - Wikipedia — *Conspiracy Theory with Jesse Ventura*: https://en.wikipedia.org/wiki/Conspiracy_Theory_%28TV_series%29  
 - IMDb — series hub: https://www.imdb.com/title/tt1572498/
 
+### April 2026 — “missing / dead scientists” news cycle (Wilcock + validation + pushback)
+
+- Meaww — Wilcock final livestream quote + Boulder Sheriff death summary: https://news.meaww.com/ufo-expert-david-wilcock-said-he-felt-grateful-to-be-alive-in-livestream-a-day-before-his-death  
+- Fox News — White House / FBI review, Doocy exchange, Trump “pretty serious stuff”: https://www.foxnews.com/politics/white-house-reviewing-cases-missing-dead-scientists-possible-links-11th-person-identified  
+- Newsweek — name/specialty table, NASA “no national security threat” statement, Comer quotes: https://www.newsweek.com/nasa-issues-update-missing-nuclear-rocket-scientists-probe-11857798  
+- The Debrief — skeptical analysis (“correlation,” case-by-case mundane explanations): https://thedebrief.org/are-scientists-with-knowledge-of-u-s-secrets-disappearing-the-facts-tell-a-different-story/  
+- KABC 7 — Grillmair homicide charging / law-enforcement frame (via Debrief): https://abc7.com/post/man-charged-killing-caltech-astrophysicist-carl-grillmair-llano-carjacking-own-relative-burglarizing-home/18626990/  
+- Divine Cosmos — older “missing team of scientists” *Sun* cite (Antarctica post): https://divinecosmos.com/davids-blog/1212-antarctic-atlantis/  
+- TMZ — Wilcock death notice (Wikipedia cites as secondary): https://www.tmz.com/2026/04/22/david-wilcock-dead/
+
 ### Methodology
 
 - Caitlin Johnstone — controlled opposition explainer (linked from site ecosystem): https://caitlinjohnstone.com/2019/02/11/how-to-tell-if-someone-is-controlled-opposition/  
@@ -297,9 +358,9 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 
 ---
 
-Keywords: #controlled-opposition #great-awakening #david-wilcock #lightworkers #rv #dinar #gcr #nesara #ancient-aliens #wef #great-reset #new-world-order #disclosure #conspirituality #mars #deep-state #drake-bailey #jesse-ventura #iraqi-dinar
+Keywords: #controlled-opposition #great-awakening #david-wilcock #lightworkers #rv #dinar #gcr #nesara #ancient-aliens #wef #great-reset #new-world-order #disclosure #conspirituality #mars #deep-state #drake-bailey #jesse-ventura #iraqi-dinar #missing-scientists #april-2026
 
-**Last substantive update:** 2026-04-23 — header image set to `great-awakening-alien-savior-rv-nwo-cluster-investigation.png`; expanded §1–§6; deep §3.3 RV and §3.4 Wilcock; new §3.5 pre-Q military-entertainment; author §7.3–7.4; §8–§12 refresh.
+**Last substantive update:** 2026-04-23 — **§3.6** missing/dead scientists cycle (specialties table, Fox/Newsweek validation, Debrief debunk, Meaww Wilcock quote); §5 cross-link; §9 Q7 + §12 URLs; guide refresh.
 
 ---
 
@@ -309,7 +370,8 @@ Keywords: #controlled-opposition #great-awakening #david-wilcock #lightworkers #
 - **People are not case files:** **Named** **public** **figures** appear as **cultural** **signposts**; **no** **final** **moral** **verdict** **is** **required** for **pattern** **analysis**.  
 - **Author thesis sections** are **first-class** **and** **not** **automatically** **factual** (per repo instructions).  
 - **“Globalist”** here follows **author** **usage** as **shorthand** for **transnational** **elite** **governance** **networks**; it is **not** a **dogwhistle** **map** **to** **any** **ethnic** **group** **in** **this** **file**.  
-- **Medical / financial:** This file **does** **not** **give** **investment** **advice**; **RV** **materials** tied to **guaranteed** **returns** **and** **“top** **secret”** **pipes** **overlap** **documented** **fraud** **patterns** **in** **§3.3**.
+- **Medical / financial:** This file **does** **not** **give** **investment** **advice**; **RV** **materials** tied to **guaranteed** **returns** **and** **“top** **secret”** **pipes** **overlap** **documented** **fraud** **patterns** **in** **§3.3**.  
+- **§3.6** **(deaths** **/** **missing** **persons):** **News** **tables** **and** **debunk** **articles** **are** **not** **substitutes** **for** **reading** **families’** **stated** **preferences** **and** **official** **case** **files**; **avoid** **harassing** **survivors** **or** **treating** **grief** **as** **content** **fuel**.
 
 ### Investigator notes (maintainers / LLMs)
 
