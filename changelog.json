@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-23T13:25:44.151Z",
+    "date": "2026-04-23T13:35:33.298Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md",
+        "href": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/great-awakening-mind-map-infographic.png",
+        "alt": "Composite “Great Awakening” style mind map — SSP, Q, lightworkers, solar flash, and related nodes (illustrative context only; not evidence of coordination)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-23T13:25:43.000Z",
+    "message": "Add Great Awakening / RV / alien-savior CO cluster investigation",
     "files": [
       {
         "status": "M",
@@ -1248,19 +1266,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-19T13:37:30.000Z",
     "message": "Reorder investigation: epistemic author note after methodology; evidence then scorecard rollup.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
-        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-19T13:27:26.000Z",
-    "message": "Author note: rigidity, date-misfire debunking, media as territory; Limits: meta-disclaimer first, shorter technical bullets.",
     "files": [
       {
         "status": "M",
