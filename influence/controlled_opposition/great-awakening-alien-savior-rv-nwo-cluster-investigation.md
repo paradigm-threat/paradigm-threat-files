@@ -2,7 +2,7 @@
 
 ![“Great Awakening” cluster illustration for this investigation — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); illustrative context only, not evidence of coordination](great-awakening-alien-savior-rv-nwo-cluster-investigation.png)
 
-> **TL;DR:** Case file treating the **online convergence** of **David Wilcock–style disclosure**, **“Great Awakening”** spirituality, **lightworker / starseed / frequency** language, **Iraqi dinar–style “RV”** (global currency reset) lore, ***Ancient Aliens*–style** extraterrestrial historiography, and adjacent **Q / “white hats” / tribunals** memes as a **single recruitment basin** for **managed dissent**—**not** proven as one operation, but **structurally** similar: it **promises** redemption through **non-human or occulted** benefactors and **patience**, while **parallel public** programs (e.g. **WEF “Great Reset”** framing) advance **human** **long-horizon governance** rebrands. **Pre-Q rhymes:** **2012**-era **“mass arrests”** **briefings** (e.g. **Drake** **Bailey** **×** **Wilcock** **transcript** on [Divine Cosmos](https://divinecosmos.com/davids-blog/1043-massarrests/)) and **mainstream** **celebrity-hosted** **conspiracy TV** (***Conspiracy Theory with Jesse Ventura***, 2009–2012 — [Wikipedia series summary](https://en.wikipedia.org/wiki/Conspiracy_Theory_%28TV_series%29)) **serialized** **state-threat** **content** **without** **organizing** **reciprocity**. **Author conclusion (pattern):** the **beneficiaries** of any real “reset” are **terrestrial power** **networks** (deep state / **NWO** vocabulary in repo idiom), **not** aliens; the **alien–savior** lane may **cover** hypotheses the repo treats separately—e.g. a **human** **breakaway** presence associated with **Mars** that is **neither ancient nor benevolent** ([Mars / deep state hub](/cosmos/mars/page.md)). Cross-read: [Etana / “Ancient Aliens” trap](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md), [Urantia CO + PP](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md), [Artemis II debunk-vs-conspiracy trough](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md), [Occupy OWS CO thesis](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md).
+> **TL;DR:** Case file treating the **online convergence** of **David Wilcock–style disclosure**, **“Great Awakening”** spirituality, **lightworker / starseed / frequency** language, **Iraqi dinar–style “RV”** (global currency reset) lore, ***Ancient Aliens*–style** extraterrestrial historiography, and adjacent **Q / “white hats” / tribunals** memes as a **single recruitment basin** for **managed dissent**—**not** proven as one operation, but **structurally** similar: it **promises** redemption through **non-human or occulted** benefactors and **patience**, while **parallel public** programs (e.g. **WEF “Great Reset”** framing) advance **human** **long-horizon governance** rebrands. **Pre-Q rhymes:** **[Benjamin Fulford](https://benjaminfulford.net/about/)**-style **weekly** **“secret** **war”** **/** **mass-arrest** **forecasting**; **Drake** **Bailey** **×** **Wilcock** ([Divine Cosmos transcript](https://divinecosmos.com/davids-blog/1043-massarrests/)); **§3.7** **QAnon** **(“Trust** **the** **plan,”** **Storm)** as **scaled-up** **same** **grammar**. **Cable** **parallel:** ***Conspiracy Theory with Jesse Ventura*** ([Wikipedia](https://en.wikipedia.org/wiki/Conspiracy_Theory_%28TV_series%29)). **Author conclusion (pattern):** the **beneficiaries** of any real “reset” are **terrestrial power** **networks** (deep state / **NWO** vocabulary in repo idiom), **not** aliens; the **alien–savior** lane may **cover** hypotheses the repo treats separately—e.g. a **human** **breakaway** presence associated with **Mars** that is **neither ancient nor benevolent** ([Mars / deep state hub](/cosmos/mars/page.md)). Cross-read: [Etana / “Ancient Aliens” trap](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md), [Urantia CO + PP](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md), [Artemis II debunk-vs-conspiracy trough](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md), [Occupy OWS CO thesis](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md), [QAnon CO hub](/influence/controlled_opposition/00).
 
 **Date:** 2026-04-23  
 **Status:** Open — **pattern synthesis** and **author stakes** are first-class; **no single agency** running the whole cluster is **claimed** as **fact** here.
@@ -13,11 +13,11 @@
 
 1. **§1** — What this file is / is not (scope, evidence tiers).  
 2. **§2** — The cluster (entities, pipes, how nodes **fuse**).  
-3. **§3** — **Documented** anchors: *Ancient Aliens*, WEF “Great Reset,” **RV/dinar** (mechanics + fraud record), **Wilcock** (career + **Gaia** / **Goode** controversy + **2012** **mass-arrest** **promotion**), **pre-Q** **“Pentagon** **white** **hats”** **entertainment** (**Ventura** / **Drake**), **§3.6** **missing**/**dead** **scientists** **news** **cycle** **(April** **2026)** **/** **Wilcock** **livestream** **/** **validation** **vs** **debunk**.  
-4. **§4** — **Mechanics** (psychographics, rewarded behaviors, **celebrity** **avatar**).  
+3. **§3** — **Documented** anchors: *Ancient Aliens*, WEF “Great Reset,” **RV/dinar**, **Wilcock**, **§3.5** **Fulford** **/** **Drake** **/** **Ventura**, **§3.6** **missing**/**dead** **scientists** **cycle**, **§3.7** **QAnon** **(timeline,** **claims,** **debunks,** **pattern** **fit)**.  
+4. **§4** — **Mechanics** (psychographics, rewarded behaviors, **guru** **/** **insider** **avatar**).  
 5. **§5** — **Cover vs truth** — Mars breakaway rhymes (repo cross-links).  
 6. **§6** — **Two “resets”** — spiritual waiting room vs Davos branding.  
-7. **§7** — **Author’s originating thesis** (verbatim + unpack + **celebrity-hero** **addendum**).  
+7. **§7** — **Author’s originating thesis** (verbatim + unpack).  
 8. **§8** — **Author’s open claims** (registry).  
 9. **§9** — **Questions** to clarify, verify, or debunk.  
 10. **§10** — **Weak points / TODOs**.  
@@ -114,7 +114,7 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 
 **2012 “mass arrests” promotion (primary source on his site):** In **2012**, **Wilcock** **published** **a** **long** **interview** **transcript** with **“Drake,”** **presented** **as** **a** **whistleblower** **channel** **for** **U.S.** **Patriots** **/** **military** **and** **civil** **authority** **planning** **against** **“cabal”** **figures**—including **claims** **of** **large-scale** **arrests** **and** **operational** **necessity** **for** **military** **support**. The **canonical** **URL** on **his** **domain** is still indexed as: [Divine Cosmos — “MASS ARRESTS: David Interviews Drake — Transcript!”](https://divinecosmos.com/davids-blog/1043-massarrests/). **Follow-on** **posts** in the **same** **season** **framed** **“divine** **intervention”** **and** **briefings** (e.g. [“Mass Arrests / Divine Intervention: New Briefings”](https://divinecosmos.com/davids-blog/1060-massdivine/)). **Falsifiable** **historical** **note:** **No** **such** **mass** **arrest** **wave** **materialized** **as** **public** **fact** **in** **the** **predicted** **shape**; **the** **episode** **is** **therefore** **central** **to** **any** **“pre-Q** **trust** **the** **plan”** **genealogy**.
 
-**Benjamin Fulford overlap (context only):** **Wilcock** **also** **amplified** **/** **cross-interviewed** **Fulford**-style **“Asian** **secret** **society** **/”** **white** **dragon**” **narratives** in **the** **same** **era**—another **branch** of **“imminent** **cabal** **takedown”** **story** **economy**. **This** **file** **does** **not** **merge** **Fulford** **and** **Wilcock** **into** **one** **claim**; it **notes** **shared** **audience** **plumbing**.
+**Benjamin Fulford overlap:** **Cross-promotion** **with** **Fulford** **(§3.5.1)** **fed** **the** **same** **“imminent** **cabal** **takedown”** **story** **economy** **without** **merging** **the** **two** **men** **into** **one** **thesis** **here**.
 
 **Documented controversy (third-party press):**
 
@@ -123,13 +123,23 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 
 **Pattern read (investigation-level, not a verdict on intent):** **Wilcock** **functions** **as** **a** **high-trust** **narrator** **node** **between** **spiritual** **soteriology** **and** **“Pentagon** **will** **save** **us”** **briefings**—**exactly** **the** **fusion** **described** **in** **§2**. Whether **that** **fusion** **was** **cynical**, **sincere**, **or** **mixed** **is** **not** **something** **this** **desk** **file** **resolves**; **the** **structural** **effect** **on** **attention** **and** **posture** **is** **the** **target**.
 
-### 3.5 Pre-Q “military / patriots will fix Washington” — celebrity avatars and the Drake template
+### 3.5 Pre-Q “insider war” briefings — Benjamin Fulford, Drake, Wilcock, Ventura
 
-**Drake Bailey (not an A-list celebrity, but the clearest pre-Q “mass arrests” source Wilcock validated):** **Bailey** **was** **promoted** **in** **2012** **as** **a** **veteran** **with** **access** **to** **plans** **for** **large-scale** **detentions** **of** **“cabal”** **actors**, **sometimes** **described** **with** **military** **and** **media** **shutdown** **color** **in** **forum** **summaries** **of** **the** **era**. **Wilcock’s** **transcript** **post** **(§3.4)** **is** **the** **best** **single** **primary** **citation** **for** **what** **the** **lane** **actually** **said**. **Secondary** **retrospectives** **link** **Drake** **→** **Wilcock** **→** **later** **Q** **grammar** (e.g. [The Last American Vagabond — Drake Bailey piece](https://www.thelastamericanvagabond.com/drake-bailey-a-coup-of-the-us-empire/); [Steemit / community retrospective](https://steemit.com/qanon/@sadcorp/david-wilcock-drake-bailey-and-qanon-the-plan-4bcc83d3ea243) — **use** **as** **tertiary** **culture** **history**, **not** **as** **fact** **sources**).
+#### 3.5.1 Benjamin Fulford — long-running fixture and narrative shape
 
-**Jesse Ventura (mainstream celebrity parallel):** From **2009–2012**, **truTV** aired ***Conspiracy Theory with Jesse Ventura***—**mainstream** **cable** **with** **millions** of **viewers**, **hosted** by a **former** **governor** **and** **wrestling** **star** **with** **real** **Navy** **UDT** **background**. Episodes **treated** **police-state**, **HAARP**, **9/11**, **FEMA** **camp** **lore**, **and** **other** **“secret** **government** **power”** **topics** **as** **serialized** **entertainment** ([Wikipedia — *Conspiracy Theory* (TV series)](https://en.wikipedia.org/wiki/Conspiracy_Theory_%28TV_series%29); [IMDb title page](https://www.imdb.com/title/tt1572498/)). **This** **is** **not** **legally** **“disclosure”**; it **is** **television** **product** **that** **personalizes** **dread** **and** **hope** **through** **Ventura’s** **hero** **body** **on** **camera**.
+**Resume (self- and third-party documented):** **[benjaminfulford.net — About](https://benjaminfulford.net/about/)** **lists** **Forbes** **Asia-Pacific** **Bureau** **Chief** **(1998–2005),** **prior** **Nikkei** **/** **SCMP** **/** **Knight-Ridder** **work,** **and** **states** **that** **weekly** **reports** **draw** **on** **sources** **including** **“yakuza,** **MI6,** **…** **Freemasons,** **the** **CIA,** **…** **Japanese** **military** **intelligence”** **while** **claiming** **independence** **from** **corporations** **and** **governments.** **That** **mix** **—** **legacy** **business** **press** **credibility** **+* occulted** **“secret** **war”** **framing** **—** **positions** **him** **as** **a** **durable** **insider** **avatar** **for** **readers** **who** **reject** **mainstream** **U.S.** **foreign** **policy** **storylines** **but** **still** **want** **a** **named** **scribe** **with** **a** **calendar** **of** **imminent** **elite** **defeats**.
 
-**Why pair Ventura with Drake/Wilcock:** **Different** **production** **scale** **and** **demographics**, **same** **moral** **hazard** **class** **for** **this** **investigation**: **the** **viewer** **is** **trained** **to** **wait** **for** **a** **named** **champion** **or** **off-screen** **patriot** **plan** **rather** **than** **to** **build** **durable** **local** **power**. **Ventura** **is** **the** **closest** **fit** **to** **the** **author’s** **memory** **of** **a** **“celebrity”** **breaking** **Q-style** **news** **before** **Q**; **if** **the** **author** **meant** **a** **different** **name** **(e.g.** **a** **late-night** **host** **bit,** **a** **rapper’s** **tweetstorm,** **a** **particular** **actor),** **§9** **asks** **them** **to** **pin** **it** **so** **the** **row** **can** **be** **corrected**.
+**Typical content class (pattern, not adjudicated here):** **“White** **Dragon** **Society”** **/** **Asian** **secret-society** **allies** **vs** **Western** **cabal;** **predicted** **mass** **arrests** **of** **bankers** **/** **Illuminati** **figures;** **geopolitical** **bombshells** **(including** **Fukushima** **and** **9/11** **as** **deliberate** **attacks** **in** **some** **years** **of** **output).** **Skeptical** **secondary** **catalogues** **note** **failed** **dated** **predictions** — e.g. **[Skeptophilia — Benjamin Fulford tag](https://www.skeptophilia.com/search/label/Benjamin%20Fulford)**.
+
+**How he relates to this investigation:** **Same** **structural** **slot** **as** **Drake** **(§3.5.2)** **and** **later** **Q** **(§3.7):** **outsourced** **hope** **to** **off-stage** **patriots** **and** **“secret”** **coalitions,** **episodic** **“we’re** **winning”** **morale** **without** **electoral** **or** **labor** **discipline.** **Cross-interviews** **with** **Wilcock** **were** **part** **of** **the** **2010s** **disclosure** **economy** **(tertiary** **genealogy** **note:** [Steemit — Drake / Wilcock / Q “plan”](https://steemit.com/qanon/@sadcorp/david-wilcock-drake-bailey-and-qanon-the-plan-4bcc83d3ea243)).
+
+#### 3.5.2 Drake Bailey + Wilcock (2012 “mass arrests” lane)
+
+**Drake Bailey** **was** **promoted** **in** **2012** **as** **a** **veteran** **with** **access** **to** **plans** **for** **large-scale** **detentions** **of** **“cabal”** **actors**, **sometimes** **described** **with** **military** **and** **media** **shutdown** **color** **in** **forum** **summaries** **of** **the** **era**. **Wilcock’s** [Divine Cosmos transcript](https://divinecosmos.com/davids-blog/1043-massarrests/) **is** **the** **best** **single** **primary** **citation** **for** **what** **that** **lane** **said** **on** **his** **site**. **Retrospectives** **link** **Drake** **→** **Wilcock** **→** **later** **Q** **grammar** (e.g. [The Last American Vagabond — Drake Bailey](https://www.thelastamericanvagabond.com/drake-bailey-a-coup-of-the-us-empire/); [Steemit](https://steemit.com/qanon/@sadcorp/david-wilcock-drake-bailey-and-qanon-the-plan-4bcc83d3ea243)) — **tertiary** **culture** **history** **only**.
+
+#### 3.5.3 Jesse Ventura (*Conspiracy Theory with Jesse Ventura*, 2009–2012)
+
+**Mainstream** **cable** **parallel** **at** **scale:** **truTV** **serialized** **“secret** **government** **power”** **topics** **(police** **state,** **HAARP,** **9/11,** **FEMA** **lore,** **etc.)** **through** **a** **former** **governor** **/** **wrestler** **host** **body** ([Wikipedia — *Conspiracy Theory* (TV series)](https://en.wikipedia.org/wiki/Conspiracy_Theory_%28TV_series%29); [IMDb](https://www.imdb.com/title/tt1572498/)). **Same** **moral** **hazard** **class** **as** **§3.5.1–3.5.2:** **spectacle** **of** **exposure** **without** **institutional** **reciprocity** **for** **the** **viewer**.
 
 ### 3.6 Missing / dead U.S. scientists (2024–2026 news cycle) — Wilcock, specialties, validation, and counter-claims
 
@@ -180,6 +190,40 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 - **Not** **validated** **here:** **Single** **operator** **/** **alien** **angle** **/** **“all** **one** **plot”** **—** **explicitly** **disputed** **by** **skeptical** **analysis** **and** **by** **“no** **confirmed** **connection”** **language** **in** **Fox** **reporting.**  
 - **Wilcock** **fit** **to** **cluster** **thesis:** **He** **imported** **headline** **fear** **into** **a** **disclosure** **livestream** **—** **same** **attention** **economy** **as** **§4** **(wait** **for** **authority** **to** **resolve** **dread)** **whether** **or** **not** **the** **underlying** **crimes** **prove** **coordinated.**
 
+### 3.7 QAnon — timeline, claims, debunks, and fit to this file
+
+**Repo hub:** [QAnon is Controlled Opposition](/influence/controlled_opposition/00) **(stub** **/** **working** **notes** **in** **repo).** **This** **subsection** **adds** **neutral** **timeline** **anchors** **and** **mainstream** **synthesis** **so** **§2’s** **“Q-adjacent”** **row** **has** **citations** **here**.
+
+#### 3.7.1 Timeline (compressed; mainstream consensus)
+
+| Phase | What happened (documented) |
+|-------|------------------------------|
+| **2016** | **Pizzagate** **precursor** **(DNC** **emails** **→** **Comet** **Ping** **Pong** **violence)** — **feeds** **Q’s** **later** **child-trafficking** **frame** ([Wikipedia — QAnon § Pizzagate](https://en.wikipedia.org/wiki/QAnon)). |
+| **Oct** **2017** | **“Q** **Clearance** **Patriot”** **posts** **on** **4chan** **/** **pol** **in** **“Calm** **Before** **the** **Storm”** **thread**; **moves** **to** **8chan** **/** **8kun** ([Wikipedia — QAnon](https://en.wikipedia.org/wiki/QAnon)). |
+| **2017–2020** | **“Drops”** **aggregated** **;** **influencers** **(**Patriots’** **Soapbox,** **QMap,** **etc.**)** **;** **Trump** **rally** **Q** **shirts** **;** **platform** **moderation** **waves** **(same** **source).** |
+| **Jan** **6** **2021** | **Capitol** **attack** **cluster** **includes** **Q-adherents** **;** **post-attack** **deplatforming** **intensifies** **(same** **source).** |
+| **Post-2020** | **Some** **themes** **persist** **in** **politics** **under** **new** **brands** **;** **original** **Q** **posting** **cadence** **/** **centrality** **declines** **per** **scholarly** **/** **press** **summaries** **in** **Wikipedia** **and** **ADL** **(below).** |
+
+#### 3.7.2 Core claims (as summarized by Wikipedia)
+
+- **Hidden** **cabal** **(**Satanic** **/** **cannibalistic** **/** **pedophilic** **elite** **+** **“deep** **state”)** **vs** **Donald** **Trump** **as** **secret** **savior** **figure.**  
+- **“The** **Storm”** **/** **mass** **arrests** **/** **military** **tribunals** **imminent.**  
+- **Cryptic** **“Q** **drops”** **requiring** **community** **decoding** **(**“Trust** **the** **plan,”** **“Nothing** **can** **stop** **what** **is** **coming”).**  
+- **Antisemitic** **tropes** **often** **adjacent** **(Soros,** **Rothschild** **fixation)** **per** [Wikipedia — QAnon](https://en.wikipedia.org/wiki/QAnon).
+
+#### 3.7.3 Counter-claims, debunks, and institutional responses
+
+- **Failed** **predictions** **and** **moving** **goalposts** **(Clinton** **arrest,** **dated** **DoD** **“events,”** **etc.)** — **see** [Wikipedia — QAnon](https://en.wikipedia.org/wiki/QAnon) **(“Q’s** **posts”** **/** **failed** **predictions”** **sections).**  
+- **Identity** **of** **Q** **disputed** **;** **8chan** **/** **8kun** **ownership** **and** **moderation** **controversies** **(same** **article).**  
+- **ADL** **backgrounder** **on** **movement** **harms** **and** **antisemitism:** [ADL — QAnon](https://www.adl.org/resources/backgrounder/qanon).  
+- **FBI** **/** **DHS** **warnings** **on** **domestic** **violent** **extremism** **often** **name** **Q-adjacent** **radicalization** **vectors** **(search** **FBI** **press** **releases** **“QAnon”** **for** **primary** **statements** **as** **they** **age).**
+
+#### 3.7.4 How QAnon fits this investigation’s pattern
+
+- **Same** **grammar** **as** **§3.5** **(Fulford** **/** **Drake)** **and** **§3.3** **(RV):** **imminent** **justice,** **insider** **chain,** **cabal** **blocks** **the** **plan** **this** **week,** **stay** **ready** **not** **organized.**  
+- **Difference** **in** **scale:** **Q** **merged** **chan** **culture,** **evangelical** **apocalyptic** **tones,** **and** **U.S.** **electoral** **politics** **into** **one** **mass** **movement** **—** **bigger** **blast** **radius** **than** **newsletter** **subcultures** **alone.**  
+- **Controlled** **opposition** **read** **(outcome** **tier):** **Whether** **or** **not** **“run”** **by** **any** **agency,** **it** **functionally** **captured** **distrust** **of** **elites** **into** **waiting** **rooms** **and** **Jan** **6-style** **high-risk** **spectacle** **rather** **than** **durable** **left** **/** **right** **coalitions** **with** **auditable** **demands** **(see** [Occupy CO thesis](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) **for** **parallel** **mechanics).**
+
 ---
 
 ## 4. Mechanics — why the cluster captures “open-minded” state-fear
@@ -197,7 +241,7 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 - **Reduce** **local** **political** **risk** (no **picketing**, no **FOIA** **clubs**, no **union** **density** **plan**).  
 - **Wait** for **disclosure** / **RV** / **tribunals** / **flash** / **the** **next** **Wilcock** **briefing** / **the** **next** **season** **finale**.
 
-**Celebrity / guru avatar mechanism (add-on to author stakes):** When **fear** **is** **large-scale** **(finance,** **war,** **police** **power,** **pandemic)** **but** **action** **feels** **forbidden** **or** **futile**, **media** **offers** **individual** **heroes** **who** **“know”** **more**. **The** **hero’s** **move** **is** **always** **next** **episode** **/ next** **post** **/ next** **donor** **tier**—**not** **your** **move** **as** **citizen** **organizer**. **That** **does** **not** **require** **villainy** **by** **the** **host**; **it** **is** **often** **how** **attention** **markets** **price** **hope**.
+**Guru / insider avatar mechanism:** When **fear** **is** **large-scale** **(finance,** **war,** **police** **power,** **pandemic)** **but** **action** **feels** **forbidden** **or** **futile**, **feeds** **offer** **named** **guides** **(**Fulford,** **Q** **decoders,** **RV** **“elders,”** **disclosure** **hosts**)** **who** **“know”** **more**. **The** **avatar’s** **move** **is** **always** **next** **episode** **/** **next** **post** **/** **next** **donor** **tier**—**not** **your** **move** **as** **citizen** **organizer**. **That** **does** **not** **require** **villainy** **by** **the** **host**; **it** **is** **often** **how** **attention** **markets** **price** **hope**.
 
 **Outcome class (CO-shaped):** **Calm** **within** **dread**—**affective** **management** **whether** **or** **not** **any** **node** **is** **consciously** **“run.”**
 
@@ -212,7 +256,7 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 
 **Pattern claim (this file):** **Alien–benevolence** **stories** **and** **frequency** **soteriology** **can** **function** as **topcover** **for** **human** **continuity** **projects**—**especially** when **they** **tell** **the** **listener** that **redemption** **is** **incoming** **if** **consciousness** **is** **right**.
 
-**Interaction with §3.5–3.6:** If **listeners** **believe** **“arrests** **are** **queued,”** **“RV** **is** **the** **economic** **justice** **event,”** **or** **“the** **missing** **scientists** **story** **proves** **off-world** **/** **deep** **continuity** **without** **primary** **dockets,”** **they** **may** **discount** **banal** **but** **real** **levers**—**tax** **policy**, **zoning**, **procurement** **contracts**, **base** **closures**, **sanctions** **evasion** **networks**—that **actually** **move** **power** **on** **Earth** **and** **in** **orbit**.
+**Interaction with §3.5–3.7:** If **listeners** **believe** **“arrests** **are** **queued,”** **“RV** **is** **the** **economic** **justice** **event,”** **“Q** **drops** **map** **to** **tomorrow’s** **news,”** **or** **“the** **missing** **scientists** **story** **proves** **off-world** **/** **deep** **continuity** **without** **primary** **dockets,”** **they** **may** **discount** **banal** **but** **real** **levers**—**tax** **policy**, **zoning**, **procurement** **contracts**, **base** **closures**, **sanctions** **evasion** **networks**—that **actually** **move** **power** **on** **Earth** **and** **in** **orbit**.
 
 ---
 
@@ -227,7 +271,7 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 
 **Conclusion (author, pattern-level):** **Neither** column **needs** **aliens** for **real** **world** **effects**; **column A** **may** **soften** **resistance** **to** **column B** **by** **relocating** **hope** **off** **Earth**.
 
-**Cable-TV footnote:** **Column A** **also** **includes** **commercial** **television** **that** **looks** **like** **investigation** **but** **sells** **ads** **against** **your** **stayed** **attention**—**see** **§3.5**.
+**Cable-TV footnote:** **Column A** **also** **includes** **commercial** **television** **that** **looks** **like** **investigation** **but** **sells** **ads** **against** **your** **stayed** **attention**—**see** **§3.5.3**.
 
 ---
 
@@ -244,16 +288,6 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 - **Political cost:** **Waiting** **replaces** **organizing**.  
 - **Lexical rhyme:** **Online** “**reset**” **spirituality** ↔ **Davos** “**Great Reset**” **rhetoric** — **beneficiary** **suspected** to be **terrestrial** **elites**, **not** **exotic** **saviors**.
 
-### 7.3 Author addition — celebrity “Q-before-Q” memory (Paradigm Threat)
-
-> I remember a **celebrity** who broke **QAnon-style** news **before** QAnon — **not** Q itself. The person would talk about the **US military** staging **coups** in **DC** and all kinds of things. It was **relevant to the news at the time**, but it felt like a **fictional narrative** **loosely tied to the truth**, with the same motivation: **keep people calm** into thinking **something is being done** in their country about the dangers they perceive. The idea was to create **individual celebrity heroes** who will **save us all**, rather than teaching us **how to resist** the threat — it teaches us to be **calm and wait** for the **celebrities** to make their moves.
-
-### 7.4 Unpack — celebrity hero vs Drake vs Ventura
-
-- **If** **the** **memory** **points** **to** **internet** **“insiders”** **more** **than** **Hollywood:** **Drake** **Bailey** **(2012)** **matches** **the** **military**/**mass-arrest** **story** **shape** **and** **predates** **Q**, **but** **is** **not** **a** **household** **celebrity** **until** **amplified** **by** **Wilcock**’s **platform** **(which** **is** **celebrity-like** **inside** **the** **niche)**.  
-- **If** **the** **memory** **points** **to** **actual** **cable** **fame:** **Jesse** **Ventura’s** **show** **matches** **the** **“something** **big** **is** **being** **exposed”** **tone** **and** **the** **pre-Q** **timeline**, **with** **real** **production** **budget**.  
-- **Neither** **option** **proves** **CO** **intent**; **both** **illustrate** **the** **author’s** **mechanism**: **hero** **substitution** **for** **collective** **practice**.
-
 ---
 
 ## 8. Author’s open claims (unique or not fully grounded in this file)
@@ -263,7 +297,7 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 3. **Alien-benevolence** **narratives** **topcover** a **human** **Mars** **breakaway** **that** is **not** **benevolent**.  
 4. **Globalist** **human** **actors** **are** the **real** **“reset”** **beneficiaries**; **spiritual** **disclosure** **culture** **prepares** **affect** **for** **that** **shock**.  
 5. **RV** **culture** is **financialized** **parallel** to **the same** **waiting** **posture**.  
-6. **Pre-Q** **“military** **will** **fix** **DC”** **content** **(celebrity** **or** **guru-hosted)** **trained** **audiences** **to** **wait** **for** **heroes** **instead** **of** **building** **resistance** **literacy**.
+6. **Benjamin** **Fulford–style** **weekly** **insider** **“secret** **war”** **briefings** **(**mass-arrest** **forecasts,** **Asian** **secret** **society** **allies**)** **occupy** **the** **same** **waiting** **/** **deferral** **slot** **as** **Drake** **(2012)** **and** **scaled** **Q** **drops** **(pattern** **claim).**
 
 ---
 
@@ -276,8 +310,7 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 | 3 | Do **WEF** **authors** **ever** **borrow** **spiritual** **or** **disclosure** **lexicon** **deliberately**? | **Lexical** **bridge** **hypothesis**. |
 | 4 | Can **Mars** **breakaway** **claims** be **pinned** to **primary** **docs** **independent** of **UFO** **entertainment**? | **Separates** **this** **repo’s** **Mars** **lane** from **AA** **lane**. |
 | 5 | **Historiography**: when did **“Great Awakening”** **attach** to **Q** **and** to **New Age** **revival** **separately**? | **Disambiguates** **terms**. |
-| 6 | **Which** **specific** **celebrity** **did** **the** **author** **remember** **(name** **+** **year** **+** **show** **/ tweet**)? | Lets us **swap** **Ventura** **for** **the** **correct** **row** **without** **guessing**. |
-| 7 | For **each** **name** **in** **§3.6.3**, **what** **do** **coroner** **/** **sheriff** **/** **employer** **primary** **releases** **actually** **say** **(manner** **/** **cause** **/** **missing** **person** **status**)? | **Moves** **the** **table** **from** **journalism** **to** **adjudicated** **fact** **per** **case**. |
+| 6 | For **each** **name** **in** **§3.6.3**, **what** **do** **coroner** **/** **sheriff** **/** **employer** **primary** **releases** **actually** **say** **(manner** **/** **cause** **/** **missing** **person** **status**)? | **Moves** **the** **table** **from** **journalism** **to** **adjudicated** **fact** **per** **case**. |
 
 ---
 
@@ -288,8 +321,7 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 - [ ] Add **timeline** **graphic** **of** **“Great Awakening”** **phrase** **usage** (religious history vs **Q** vs **New Age**).  
 - [ ] Pull **academic** **sociology** on **“conspirituality”** (Yoga **+** **conspiracy** **blend**) **as** **neutral** **third-party** **vocabulary**.  
 - [ ] Cross-map **Robert David Steele** / **Jones** **adjacency** **where** **repo** **already** **touches** **Mars** **media** **([Mars page](/cosmos/mars/page.md))** **without** **duplicate** **theory** **essays**.  
-- [ ] **Author** **clarification** **on** **§9** **Q6** **→** **update** **§3.5** **if** **a** **different** **celebrity** **fits** **better**.  
-- [ ] **§3.6.3** **inventory** **→** **attach** **one** **primary** **document** **per** **row** **(coroner,** **missing** **person** **case** **file,** **NASA** **/** **LANL** **employee** **statement** **where** **public)** **—** **§9** **Q7**.
+- [ ] **§3.6.3** **inventory** **→** **attach** **one** **primary** **document** **per** **row** **(coroner,** **missing** **person** **case** **file,** **NASA** **/** **LANL** **employee** **statement** **where** **public)** **—** **§9** **Q6**.
 
 ---
 
@@ -303,6 +335,7 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 | [Urantia — CO + PP](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md) | **Long** **precedent** for **spiritual** **download** **narrative** **capture** |
 | [Artemis II — debunk vs conspiracy trough](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) | **Algorithmic** **clustering** **of** **outcomes** |
 | [Occupy — CO thesis](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) | **Spectacle** **and** **managed** **dissent** **mechanics** |
+| [QAnon — CO hub](/influence/controlled_opposition/00) | **Repo** **stub** **/** **working** **notes** **on** **Q** **as** **CO-shaped** **outcome** **(cross-read** **§3.7)** |
 | [AE911Truth / Gage](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md) | **Different** **topic** — **shared** **“movement** **containment”** **language** |
 | [MudFlood notes — CO agents](/history/mudflood/notes/page.md) | **Flat** **Earth** / **5D** / **Ancient Aliens** **named** in **repo** **warnings** |
 
@@ -336,6 +369,12 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 - The Last American Vagabond — Drake Bailey retrospective: https://www.thelastamericanvagabond.com/drake-bailey-a-coup-of-the-us-empire/  
 - Steemit — Drake / Wilcock / Q “plan” genealogy (tertiary): https://steemit.com/qanon/@sadcorp/david-wilcock-drake-bailey-and-qanon-the-plan-4bcc83d3ea243
 
+### Benjamin Fulford + QAnon (primary / mainstream synthesis)
+
+- Benjamin Fulford — self-described career / beat (About): https://benjaminfulford.net/about/  
+- Wikipedia — QAnon (timeline, claims, failed predictions): https://en.wikipedia.org/wiki/QAnon  
+- ADL — QAnon backgrounder: https://www.adl.org/resources/backgrounder/qanon
+
 ### Mainstream celebrity parallel — Ventura show
 
 - Wikipedia — *Conspiracy Theory with Jesse Ventura*: https://en.wikipedia.org/wiki/Conspiracy_Theory_%28TV_series%29  
@@ -358,9 +397,9 @@ The table below is a **schematic**. In **practice**, **edges** **blur**: **Q** r
 
 ---
 
-Keywords: #controlled-opposition #great-awakening #david-wilcock #lightworkers #rv #dinar #gcr #nesara #ancient-aliens #wef #great-reset #new-world-order #disclosure #conspirituality #mars #deep-state #drake-bailey #jesse-ventura #iraqi-dinar #missing-scientists #april-2026
+Keywords: #controlled-opposition #great-awakening #david-wilcock #lightworkers #rv #dinar #gcr #nesara #ancient-aliens #wef #great-reset #new-world-order #disclosure #conspirituality #mars #deep-state #drake-bailey #benjamin-fulford #qanon #jesse-ventura #iraqi-dinar #missing-scientists #april-2026
 
-**Last substantive update:** 2026-04-23 — **§3.6** missing/dead scientists cycle (specialties table, Fox/Newsweek validation, Debrief debunk, Meaww Wilcock quote); §5 cross-link; §9 Q7 + §12 URLs; guide refresh.
+**Last substantive update:** 2026-04-23 — **§3.5** **Fulford** **/** **Drake** **/** **Ventura** **rewrite;** **§3.7** **QAnon** **(timeline,** **claims,** **debunks,** **pattern** **fit);** **§7** **memory** **subsections** **removed;** **§8** **claim** **6** **→** **Fulford** **rhyme;** **§9** **/** **§10** **renumber** **/** **cleanup;** **§11** **Q** **hub** **row;** **§12** **Fulford** **+** **Q** **refs;** **§3.6** **scientists** **cycle** **(prior)**.
 
 ---
 
@@ -376,4 +415,4 @@ Keywords: #controlled-opposition #great-awakening #david-wilcock #lightworkers #
 ### Investigator notes (maintainers / LLMs)
 
 - Header image: `influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png` (companion copy: `great-awakening-mind-map-infographic.png`).  
-- If **author** **names** **a** **different** **celebrity** **for** **§7.3**, **duplicate** **§3.5** **row** **rather** **than** **deleting** **Ventura** **(keep** **as** **parallel** **unless** **author** **rejects** **it)**.
+- **Named** **“insider** **/** **weekly** **briefing”** **parallel** **for** **pre-Q** **mass-arrest** **grammar:** **Benjamin** **Fulford** **(§3.5.1);** **cable** **parallel** **only** **in** **§3.5.3** **(Ventura).**
