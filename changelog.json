@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-23T13:36:27.438Z",
+    "date": "2026-04-23T14:10:18.090Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md",
+        "href": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png",
+        "alt": "“Great Awakening” cluster illustration for this investigation — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); illustrative context only, not evidence of coordination"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-23T13:36:26.000Z",
+    "message": "Use investigation-named header PNG for Great Awakening CO file",
     "files": [
       {
         "status": "M",
@@ -1270,18 +1288,5 @@
         "src": "/influence/hollywood/trump-era-hollywood-political-media-investigation.png"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-19T14:11:18.000Z",
-    "message": "Polish pre-2016 Simpsons section: readable prose, fixed illusory truth link, compact table",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
-        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
-      }
-    ],
-    "images": []
   }
 ]
