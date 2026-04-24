@@ -390,6 +390,7 @@ Newsweek’s April 2026 summary table (journalistic inventory; check dates again
 | [QAnon — CO hub](/influence/controlled_opposition/00) | Repo stub / working notes on Q as CO-shaped outcome (cross-read **§3.7**) |
 | [AE911Truth / Gage](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md) | Different topic—shared “movement containment” language |
 | [MudFlood notes — CO agents](/history/mudflood/notes/page.md) | Flat Earth / 5D / Ancient Aliens named in repo warnings |
+| [Lacatski / AAWSAP viral post — consciousness vs craft](/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.md) | Pentagon-name + disclosure feed; frequency / DMT comment rhymes; Mars / embedding thesis cross-read |
 
 ---
 
