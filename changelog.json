@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-24T11:42:10.952Z",
+    "date": "2026-04-24T12:12:33.544Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.md",
+        "href": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.png",
+        "href": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-24T11:42:10.000Z",
+    "message": "Lacatski: §6 verbatim politics/conditional-tech fork; §3.7 spine; GA cross-links",
     "files": [
       {
         "status": "M",
@@ -1143,23 +1165,5 @@
         "src": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-22T11:57:20.000Z",
-    "message": "Add afterlife/purgatory/Bardo vs Protestantism NC investigation",
-    "files": [
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.md",
-        "href": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
-      }
-    ],
-    "images": []
   }
 ]
