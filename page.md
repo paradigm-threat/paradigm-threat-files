@@ -144,6 +144,7 @@ or *not* believing.
 * [Zombie Genre](/influence/predictive_programming/fiction_encoding/zombies/index-zombie-genre-investigation.md) — Genre history, plague imagery, managed disaster narratives.
 * [The 1979 Religious Revival](/influence/religion/1979-religious-revival-investigation.md) — CIA backing and global revival phenomenon.
 * [Canceling the High Poppy](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md) — Founders, boards, removal by governance layers.
+* [Indigenous control systems (open)](/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md) — Why people won’t talk (retaliation/suspicion); witchcraft accusation ecologies; Vodou “work” vs Hollywood; containment hypotheses.
 * [The Cathars](/influence/suppression/investigations/cathars-church-purge-khazar-split-investigation.md) — Enemy memory, catharization, Khazar–Cathar split thesis.
 * [“Hell burns attachments”](/influence/suppression/investigations/eckhart-jacobs-ladder-hell-quote-attribution-investigation.md) — *Jacob’s Ladder*, Eckhart misattribution, site read.
 
