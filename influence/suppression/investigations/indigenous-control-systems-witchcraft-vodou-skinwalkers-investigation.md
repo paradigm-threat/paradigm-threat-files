@@ -1,5 +1,7 @@
 # Investigation (open): Indigenous control systems — witchcraft discourse, Vodou “work,” and reservation containment hypotheses
 
+![Indigenous control systems — witchcraft discourse, Vodou “work,” and reservation containment hypotheses](indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.png)
+
 > **TL;DR:** This investigation runs in parallel to the skinwalkers/cryptids deep-dive. It asks a control-systems question: **why do some Indigenous communities refuse to discuss certain beings/forces with outsiders?** Beyond appropriation/tourism, classic ethnography on Navajo witchcraft records concrete deterrents: talking can mark the speaker as suspicious, invite retaliation, or be believed to draw danger (Kluckhohn 1944/1962; Keene 2016; KSUT 2024). The file then explores (as hypotheses) whether “supernatural” reputations function as **individualized psychological governance** (fear, rumor, punishment), whether post‑WWII state systems sometimes **tolerate** or **instrumentalize** local terror ecologies in underdeveloped or reservation settings, and how Vodou/obeah “work” is described by serious sources (wanga/travay as private efficacy objects, not Hollywood stagecraft).
 
 **Date:** 2026-04-25  
