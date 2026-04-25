@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-25T10:47:14.410Z",
+    "date": "2026-04-25T10:49:17.234Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".gitignore",
+        "href": "/.gitignore"
+      },
+      {
+        "status": "A",
+        "path": "blog/2026-04-25-netanyahu-health-disclosure-controlled-opposition-fomenko-site-toc.md",
+        "href": "/blog/2026-04-25-netanyahu-health-disclosure-controlled-opposition-fomenko-site-toc"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-25T10:47:13.000Z",
+    "message": "Investigations: update Netanyahu faked-death analysis",
     "files": [
       {
         "status": "M",
@@ -1151,23 +1169,6 @@
       },
       {
         "src": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-22T12:07:42.000Z",
-    "message": "Update afterlife investigation header PNG (re-exported asset)",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png",
-        "href": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png"
       }
     ]
   }

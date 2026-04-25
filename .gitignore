@@ -44,3 +44,7 @@ public/
 !public/site/header.png
 
 .idea
+
+# python
+__pycache__/
+*.pyc
