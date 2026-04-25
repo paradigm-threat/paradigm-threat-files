@@ -109,6 +109,7 @@ or *not* believing.
 * [Etana, the Sumerian King List, and "Wheels in the Sky" Testimony](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md) — Open: king list, sky wheels, Saturnian reinterpretation.
 * [Giants, Infantry, Guerrilla, and the Children's Crusade](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) — Lexical and Horde–infantry thesis.
 * [Griffins and other “myth” fauna in sober historical texts](/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md) — Extinction by human pressure? (concluded file.)
+* [Skinwalkers and cryptids — Rus–Horde lineage hypothesis + a no-sorcery model (open)](/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md) — Definitions, Navajo protocol/sensitivity citations, “cryptids became cryptic” survivorship thesis, and a non-sorcery perception model.
 * [Prester John, *Presbyter Ioannes*, and the Rus–Horde Christian East](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md) — NC and author thesis; medieval letters and envoys.
 * [Pyramid “Energy”](/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md) — Kerrell & Goggin (1977) and large stone geometry.
 * [Radiocarbon Dating](/history/chronology/investigations/radiocarbon-dating-investigation.md) — Dogmatic adoption; electrical activity and calibration debates.
