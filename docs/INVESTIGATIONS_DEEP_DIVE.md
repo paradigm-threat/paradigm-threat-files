@@ -86,6 +86,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: Toynbee Tiles — *Resurrect Dead* (2011) and the street campaign](/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md)
 - [Investigation: Trump-era Hollywood as predictive programming — trends, rhymes, and scorecard (2016–2026)](/influence/hollywood/trump-era-hollywood-political-media-investigation.md)
 - [Investigation (open): Indigenous control systems — witchcraft discourse, Vodou “work,” and reservation containment hypotheses](/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md)
+- [Investigation (open): Giants of Japan — “archival footage” aesthetics, *Big Man Japan* (2007), and debunk-overreach as a perception-management tactic](/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md)
 - [Compromised Court Cases and Declared Reality — Investigation](/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md)
 - [Ed Wood and Plan 9 from Outer Space — Investigation](/influence/predictive_programming/fiction_encoding/ed-wood-plan9/index-ed-wood-plan9-investigation.md)
 - [Science Fiction & Fantasy: Fiction Presented as Fact](/influence/predictive_programming/fiction_encoding/fiction-presented-as-fact-investigation.md)

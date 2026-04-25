@@ -155,8 +155,8 @@ If “giants” are treated as a suppressed minority category, Japan is a useful
 
 - A widely circulated “giant in Japan” clip is commonly debunked as a scene from *Big Man Japan* (2007).  
   — Snopes, “Giants in Japan” (`https://www.snopes.com/fact-check/giants-in-japan/`)
-- WWII-era Japan also has a documented special-effects pipeline where propaganda footage could later be mistaken for documentary (important context for how “it’s fake” and “it’s real” can coexist in the public archive).  
-  — see the parallel investigation’s Japan section: [/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md](/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md)
+- Full deep-dive lane (provenance rules, “slippery logic” debunk-overreach pattern, WWII SFX context) now lives here:  
+  — [/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md](/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md)
 
 **What’s missing (evidence gap):**
 
