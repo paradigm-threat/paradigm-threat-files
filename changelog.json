@@ -1,8 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-24T12:12:33.544Z",
+    "date": "2026-04-25T10:47:14.410Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md",
+        "href": "/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.md",
+        "href": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.png",
+        "alt": "March 2026 rumor window — Yair Netanyahu X silence, shiva framing, and strike chatter (illustrative)"
+      },
+      {
+        "src": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.png",
+        "alt": "AAWSAP / Lacatski investigation — accompanying figure"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-24T12:12:32.000Z",
+    "message": "Lacatski investigation: embed companion PNG beside article",
     "files": [
       {
         "status": "M",
@@ -1134,28 +1161,6 @@
     "files": [
       {
         "status": "M",
-        "path": "history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png",
-        "href": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-22T12:01:28.000Z",
-    "message": "Add header image to afterlife/purgatory NC investigation",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.md",
-        "href": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation"
-      },
-      {
-        "status": "A",
         "path": "history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png",
         "href": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png"
       }
