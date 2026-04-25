@@ -1,8 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-25T12:05:33.656Z",
+    "date": "2026-04-25T12:17:19.218Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md",
+        "href": "/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md",
+        "href": "/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.png",
+        "alt": "Skinwalkers and cryptids — Rus–Horde survivorship thesis and no-sorcery model"
+      },
+      {
+        "src": "/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.png",
+        "alt": "Indigenous control systems — witchcraft discourse, Vodou “work,” and reservation containment hypotheses"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-25T12:05:33.000Z",
+    "message": "Images: add indigenous control systems header",
     "files": [
       {
         "status": "M",
@@ -487,50 +514,6 @@
     "images": [
       {
         "src": "/influence/controlled_opposition/great-awakening-mind-map-infographic.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-23T12:58:15.000Z",
-    "message": "generate-index: minified JSON without LQIP; fix MDX in astronomy page",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/cosmology/astronomy/page.md",
-        "href": "/cosmos/cosmology/astronomy"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/tartaria/chronology.md",
-        "href": "/history/chronology/tartaria/chronology"
-      },
-      {
-        "status": "M",
-        "path": "scripts/generate-index.py",
-        "href": "/scripts/generate-index.py"
-      }
-    ],
-    "images": [
-      {
-        "src": "/cosmos/cosmology/astronomy/black-hole-hoax.jpg",
-        "alt": "Black hole hoax"
-      },
-      {
-        "src": "/cosmos/cosmology/astronomy/dark_matter.960x0.gif",
-        "alt": "Dark matter"
-      },
-      {
-        "src": "/cosmos/cosmology/astronomy/fake_sun_chart.jpg",
-        "alt": "Fake sun chart"
-      },
-      {
-        "src": "/cosmos/cosmology/astronomy/page_1.jpg",
-        "alt": "Page 1"
-      },
-      {
-        "src": "/cosmos/cosmology/astronomy/thedarkmatte.jpg",
-        "alt": "The dark matter"
       }
     ]
   }
