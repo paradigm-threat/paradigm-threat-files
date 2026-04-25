@@ -130,11 +130,39 @@ Paradigm Threat already maintains a concluded investigation that treats some “
 
 This investigation adopts (for exploration) the author’s claim that the Rus–Horde era included a non-homogenous imperial ecology in which “hairy humans” and other phenotypes existed openly enough to enter iconography and story, then were hunted down as political order shifted.
 
+**There isn’t much evidence — but there is some.** The strongest “hairy human” evidence already present in your repos is iconographic + legend material clustered under **Hairy Mary** (Mary Magdalene as a hirsute “wild woman” figure in late medieval art/legend, and the broader Wild Woman iconography tradition).
+
+#### 5.2.1 Evidence cluster: “Hairy Mary” (Mary Magdalene as hirsute wilderness figure)
+
+- **Art-historical explanation (external citation, already mirrored in-repo):** Magdalena Łanuszka’s “Hairy Mary” notes that later legend says Mary Magdalene lived as a desert hermit so long her clothes turned to dust, and her long hair covered her nudity; medieval artists interpreted this literally as a body “covered with hair.”  
+  — Local mirror: [/influence/religion/hairy_mary/index-hairy-mary-original.md](/influence/religion/hairy_mary/index-hairy-mary-original.md) (source: `https://en.posztukiwania.pl/2014/07/19/hairy-mary/`)
+- **This still counts as evidence for the investigation’s narrow claim:** even if an allegory or an artistic misunderstanding, it demonstrates a durable cultural image: **a human saint depicted as hirsute / wild / outside civilization**, overlapping the “hairy human” cryptid phenotype category this file is trying to track.
+- **Repository cross-link (timeline treatment):** the timeline expands this into a Rus’/Horde lineage thesis (“Wild People” / “Mary of Rus’”) and treats hirsute “wild woman” iconography as memory of a real phenotype. This is an internal thesis (not mainstream), but it is a concrete in-repo anchor for the “hairy human” track.  
+  — Timeline article: [`Hairy Mary`](https://paradigmthreat.net/timeline/evt-hairy-mary) (repo source: `paradigm-threat-timeline/content/06.ce-12th-birth-of-christianity/06.01.01-hairy-mary.md`)
+- **Second Rus–Horde anchor (internal thesis):** “The Giants of the Rus‑Horde” explicitly describes the Rus‑Horde leadership caste as “giant, hairy humans” and ties that to the “Wild People” / Hairy Mary thread.  
+  — Timeline article: [`The Giants of the Rus-Horde`](https://paradigmthreat.net/timeline/evt-the-giants-of-the-rus-horde) (repo source: `paradigm-threat-timeline/content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.02-the-giants-of-the-rus-horde.md`)
+
+#### 5.2.2 Evidence cluster: Wild Woman iconography (non-saint “hairy human” normalization)
+
+Even without the Rus‑Horde layer, the broader medieval Wild Woman tradition matters as “thin evidence” that hairy-humanoid imagery was a known iconographic category:
+
+- Met Museum object: “Playing Card, with Wild Woman and Unicorn” (Master ES, 15th c.).  
+  — Local mirror: [/influence/religion/hairy_mary/index-met-museum-wild-woman-unicorn.md](/influence/religion/hairy_mary/index-met-museum-wild-woman-unicorn.md) (source: `https://www.metmuseum.org/art/collection/search/364585`)
+
+#### 5.2.3 Japan parallel (control-ecology + predictive-programming lane)
+
+If “giants” are treated as a suppressed minority category, Japan is a useful parallel lane to track:
+
+- A widely circulated “giant in Japan” clip is commonly debunked as a scene from *Big Man Japan* (2007).  
+  — Snopes, “Giants in Japan” (`https://www.snopes.com/fact-check/giants-in-japan/`)
+- WWII-era Japan also has a documented special-effects pipeline where propaganda footage could later be mistaken for documentary (important context for how “it’s fake” and “it’s real” can coexist in the public archive).  
+  — see the parallel investigation’s Japan section: [/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md](/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md)
+
 **What’s missing (evidence gap):**
 
 - Specific **primary sources** (chronicles, hagiography, travel accounts) that describe **hairy humans** as contemporaries (not allegories), with dates, locations, and manuscript context.
 - Specific **iconographic corpora** (shield rolls, heraldry catalogs) where “griffins” and “hairy humans” are tracked to institutions and regions that can plausibly be tied to a Rus–Horde frame rather than generic medieval heraldry.
-- Specific **art-historical** citations for the “Mary with a hairy body in the wilderness” motif (if it exists as described, it should be traceable via catalog entries).
+- Specific **primary / catalog** citations for the “hairy Magdalene” depictions (object records, museum catalog entries) and (separately) for any “Mary wandered into the wilderness / went mad” narrative (edition and chapter), if this is distinct from the “desert hermit” legend described above.
 
 ### 5.3 “Cryptids became cryptic” as a survivorship mechanism
 
