@@ -54,7 +54,22 @@ Also note the inverse risk:
 
 ---
 
-## 4. Where this note currently applies
+## 4. Author sentiment note (prediction): “debunked” will drift away from “disproven”
+
+Author sentiment captured: the word **debunk** is predicted to shift from its current “disprove / show false” meaning toward a newer meaning closer to **denied / dismissed** (including “dismissed under the guise of having investigated”).
+
+In this projected future usage:
+
+- **Debunked** increasingly means “socially permissioned to ignore” rather than “evidentially resolved.”
+- **Disproven** becomes the higher bar term, because audiences require more direct evidence and learn to scrutinize doublespeak, dismissive rhetoric, and other non-evidentiary suppression behaviors.
+
+Operational implication for investigations:
+
+- Avoid using “debunked” as a terminal label. Always restate the **specific claim** that was evaluated and the **evidence** used, so “debunk” cannot function as a conversation-stopper.
+
+---
+
+## 5. Where this note currently applies
 
 - `/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md`
 
