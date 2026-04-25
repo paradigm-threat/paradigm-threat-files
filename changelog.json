@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-25T12:44:39.168Z",
+    "date": "2026-04-25T14:49:06.855Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
+        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/hollywood/trump-era-hollywood-political-media-investigation.png",
+        "alt": "Trump-era Hollywood — predictive programming investigation (cover)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-25T12:44:38.000Z",
+    "message": "Images: add Giants of Japan header",
     "files": [
       {
         "status": "M",
@@ -536,28 +554,6 @@
       {
         "src": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png",
         "alt": "“Great Awakening” cluster illustration for this investigation — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); illustrative context only, not evidence of coordination"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-23T13:36:26.000Z",
-    "message": "Use investigation-named header PNG for Great Awakening CO file",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md",
-        "href": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png",
-        "href": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png"
       }
     ]
   }
