@@ -1,8 +1,38 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-25T11:07:26.422Z",
+    "date": "2026-04-25T11:09:43.678Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md",
+        "href": "/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.png",
+        "href": "/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.png"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation2.png",
+        "href": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation2.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation2.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-25T11:07:25.000Z",
+    "message": "Investigation: skinwalkers/cryptids deep dive",
     "files": [
       {
         "status": "M",
@@ -1149,29 +1179,6 @@
         "status": "M",
         "path": "history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.md",
         "href": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.png",
-        "alt": "Fomenko New Chronology — verification, accessibility, and reproducibility (illustrative header)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-22T13:15:45.000Z",
-    "message": "chronology: Fomenko investigation — external critiques and citations",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.md",
-        "href": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
       }
     ],
     "images": [
