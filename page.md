@@ -145,6 +145,7 @@ or *not* believing.
 * [The 1979 Religious Revival](/influence/religion/1979-religious-revival-investigation.md) — CIA backing and global revival phenomenon.
 * [Canceling the High Poppy](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md) — Founders, boards, removal by governance layers.
 * [Indigenous control systems (open)](/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md) — Why people won’t talk (retaliation/suspicion); witchcraft accusation ecologies; Vodou “work” vs Hollywood; containment hypotheses.
+* [Giants of Japan — archival “evidence footage” + *Big Man Japan* (open)](/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) — Provenance rules; debunk-overreach/adjacent-discard tactic; WWII SFX pipeline context.
 * [The Cathars](/influence/suppression/investigations/cathars-church-purge-khazar-split-investigation.md) — Enemy memory, catharization, Khazar–Cathar split thesis.
 * [“Hell burns attachments”](/influence/suppression/investigations/eckhart-jacobs-ladder-hell-quote-attribution-investigation.md) — *Jacob’s Ladder*, Eckhart misattribution, site read.
 

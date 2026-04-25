@@ -164,61 +164,19 @@ If a fear-ecology (cryptids/skinwalkers/witchcraft actors) functions as an enfor
 
 ---
 
-## 7. Giants of Japan: WWII media, kaiju, and “it was CGI” debunks (parallel control-ecology)
+## 7. Giants of Japan (pointer): archival-footage aesthetics + debunk-overreach lane
 
-This section threads your “giants of Japan” hypothesis into two distinct, documentable strands:
+This investigation uses the “giants of Japan” lane as a **control-ecology** example: a clip that reads like “evidence” circulates, then a debunk is used to trigger mockery and category-wipe thinking (“throw it all out”).
 
-1. **A specific ‘giant in Japan’ clip** that circulates online and is commonly debunked as modern special effects.
-2. A **real, historically documented Japanese WWII special-effects propaganda pipeline** that produced footage convincing enough to be mistaken for documentary, and that directly precedes **Godzilla**.
+To keep this file focused, the full lane (Big Man Japan attribution, provenance rules, “slippery logic,” and the WWII SFX pipeline context) now lives here:
 
-### 7.1 The circulating “giant in Japan” clip: *Big Man Japan* (2007) as the source (debunk track)
+- Giants of Japan — archival footage, *Big Man Japan* (2007), and debunk-overreach  
+  — `/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md`
 
-One widely shared “giant in Japan” video (sometimes mislabeled as old footage) has been traced by fact-checking outlets to a scene from the 2007 film *Big Man Japan* (*Dai Nipponjin*).  
-— Snopes, “Giants in Japan” (`https://www.snopes.com/fact-check/giants-in-japan/`)
+Reusable method note (used across investigations):
 
-**What this establishes (even if one rejects the debunk):**
-
-- The “giant footage” lane functions as an **information sink**: a visually persuasive clip circulates; then an authoritative outlet labels it “special effects”; then the entire category “giants” becomes safe to mock.
-- That mechanism can coexist with the author’s hypothesis that other, rarer material exists but is pre-discredited by the meme-layer.
-
-### 7.2 WWII Japan special effects as documentary: an evidence-backed precedent for “confusing footage”
-
-Separately from giant-humans claims, Japan’s wartime film apparatus produced special effects realistic enough to be mistaken for genuine combat footage. A frequently cited case is the 1942 propaganda epic *The War at Sea from Hawaii to Malaya* (*Hawai Mare oki kaisen*), directed by Kajirō Yamamoto with special effects by Eiji Tsuburaya.
-
-Two key facts relevant to this investigation’s “control of perception” theme:
-
-- The film was produced with support from the Navy Ministry and used miniatures and special effects to represent Pearl Harbor sequences.  
-— “The War at Sea from Hawaii to Malaya” (overview) (`https://en.wikipedia.org/wiki/The_War_at_Sea_from_Hawaii_to_Malaya`)
-- After the war, the film was confiscated by SCAP and some of its effects footage was later released/used as if it were real attack footage (per multiple secondary summaries).  
-— World War II Multimedia Database entry (`https://www.worldwar2database.com/hawai-mare-oki-kaisen/`)  
-— IMDb trivia summary (secondary) (`http://www.imdb.com/title/tt0035533/trivia`)
-
-**Why this matters here:** it shows a real, documented wartime pathway where “what looks like documentary” can be manufactured and later misfiled as documentary—meaning debunks about “CGI” are not the only relevant lens; older analog special effects + reuse pipelines exist too.
-
-### 7.3 Godzilla as postwar conversion layer (hypothesis track + partial historical anchors)
-
-Your thesis is that:
-
-- WWII Japan’s imperial phase may have convinced “cryptid/giant” populations to become visible; after defeat, Allied occupation suppressed imperial media and giants went back underground.
-- Kaiju cinema (Godzilla) then served as a **predictive-programming / ridicule channel** that converts “giants” into “monsters,” ensuring disbelief.
-
-Two grounded anchors that support at least the **media lineage** portion:
-
-- Eiji Tsuburaya, the special-effects figure credited on the 1942 propaganda film above, is also tied in mainstream histories to the special-effects lineage that culminates in *Godzilla* (1954) in the postwar studio system.
-- The pattern “special-effects war realism → kaiju realism” is historically plausible as a craft and studio-economy continuum even without accepting the “real giants” claim.
-
-### 7.4 Princess Mononoke: “kill a god” dialogue as an on-the-nose encoding of elimination logic
-
-This project’s predictive-programming frame already fits cleanly with *Princess Mononoke*’s dialogue about killing ancient gods to render animals “dumb beasts” and to take the land. For example:
-
-- “Without that ancient god, the animals here would be nothing but dumb beasts once more.”  
-— script mirror (`https://transcripts.simpleremix.com/script.php/princess-mononoke-1997-V8c`)  
-- “When you're going to kill a god, let someone else do your dirty work.”  
-— IMDb quotes (`https://www.imdb.com/title/tt0119698/quotes/`)  
-- “Now watch closely, everyone. I'm going to show you how to kill a god. A god of life and death. The trick is not to fear him.”  
-— IMDb quotes (`https://www.imdb.com/title/tt0119698/quotes/`)
-
-**Investigation stance:** these are cited as *textual evidence of a narrative template* (“eliminate the god/giant → dominate the ecosystem”), not as proof of a literal history. But they do map onto your control-system hypothesis: remove a higher-order protector/authority, and the population becomes governable.
+- Debunk overreach + “adjacent discard”  
+  — `/docs/METHODS_DEBUNK_OVERREACH_ADJACENT_DISCARD.md`
 
 ---
 
