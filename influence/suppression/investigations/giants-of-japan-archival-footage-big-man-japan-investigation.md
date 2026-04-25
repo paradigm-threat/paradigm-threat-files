@@ -1,5 +1,7 @@
 # Investigation (open): Giants of Japan — “archival footage” aesthetics, *Big Man Japan* (2007), and debunk-overreach as a perception-management tactic
 
+![Giants of Japan — archival footage, Big Man Japan, and debunk-overreach](giants-of-japan-archival-footage-big-man-japan-investigation.png)
+
 > **TL;DR:** This file isolates the “giants of Japan” lane so it can be reused across investigations. It tracks (A) the circulating “giant parade” clip often labeled “1890” / “top secret,” (B) the mainstream attribution to *Big Man Japan* (2007), (C) why a modern production can still *feel* like archival evidence (mockumentary framing + deliberate degradation cues + frame-rate mismatch), and (D) the **debunk-overreach / adjacent-discard** tactic where one debunk is used to force the dismissal of everything nearby. It also records author sentiment: “a 2007 doctored copy” does **not** logically disprove an earlier original, and the absence of an explicit creator statement about the “old-reel” styling is treated as suspicious until addressed.
 
 **Date:** 2026-04-25  
