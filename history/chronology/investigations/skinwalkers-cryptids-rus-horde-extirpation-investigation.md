@@ -1,5 +1,7 @@
 # Investigation (open): Skinwalkers, cryptids, and the “cryptic” survival mechanism — a Rus–Horde lineage hypothesis + a no-sorcery model
 
+![Skinwalkers and cryptids — Rus–Horde survivorship thesis and no-sorcery model](skinwalkers-cryptids-rus-horde-extirpation-investigation.png)
+
 > **TL;DR:** This investigation defines **cryptid** and **skinwalker** with citations, then records (A) an **author-originating** thesis that many “cryptids” are **human-lineage peoples** (hairy / nonstandard phenotypes) whose survival strategy became **cryptic** under post–Rus–Horde collapse hunting pressure, and (B) a **no-sorcery** model for “skinwalker” accounts (misidentification, tactics, and physiology) while preserving the fact that **Diné/Navajo people treat witchcraft discourse as culturally sensitive** and often **not for outsiders** (Keene 2016; KSUT 2024). Cross-read: [Griffins / myth fauna extirpation](/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md), [Hollow Earth master investigation](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md), [Thompson bar-scene managed disclosure](/influence/predictive_programming/fiction_encoding/thompson/thompson-managed-disclosure-investigation.md), and [Rus–Horde lexicon (word bias)](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md).
 
 **Date:** 2026-04-25  
