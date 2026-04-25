@@ -62,6 +62,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: Etana, the Sumerian King List, and "Wheels in the Sky" Testimony (Open)](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md)
 - [Giants, Infantry, Guerrilla, and the Children's Crusade — Lexical Investigation](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md)
 - [Investigation (concluded): Griffins and other “myth” fauna in sober historical texts — extinction by human pressure?](/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md)
+- [Investigation (open): Skinwalkers, cryptids, and the “cryptic” survival mechanism — a Rus–Horde lineage hypothesis + a no-sorcery model](/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md)
 - [Prester John, *Presbyter Ioannes*, and the Rus–Horde Christian East — NC and author thesis](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md)
 - [Investigation: Pyramid “Energy” — Kerrell & Goggin (1977) and Large Stone Geometry](/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md)
 - [Investigation: Radiocarbon Dating — Dogmatic Adoption and the Electrical Activity Problem](/history/chronology/investigations/radiocarbon-dating-investigation.md)
