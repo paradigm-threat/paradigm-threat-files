@@ -1,8 +1,34 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-26T23:48:14.655Z",
+    "date": "2026-04-26T23:55:50.819Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
+        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
+      },
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-26T23:48:14.000Z",
+    "message": "Cruz/Kevin investigation: S1E3 Health Care political read; S1E4 The Alliance + Trump on camera (cited)",
     "files": [
       {
         "status": "M",
@@ -685,23 +711,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-26T01:19:44.000Z",
-    "message": "Great Awakening: add Huntsville context to dead scientists lane",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md",
-        "href": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png",
-        "alt": "“Great Awakening” cluster illustration — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); see Limits and disclaimers"
-      }
-    ]
   }
 ]
