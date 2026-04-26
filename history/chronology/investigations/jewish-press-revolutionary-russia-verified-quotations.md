@@ -1,6 +1,6 @@
 # Investigation: Jewish Press on Revolutionary Russia — Verified Quotations Only
 
-> **TL;DR:** Contemporary **Anglo–Jewish periodicals** (1919–1920) contain editorial language that **parallel** parts of Bolshevik rhetoric with **Jewish ethical idealism** and, in one American weekly, celebrate Jewish participation in the Russian revolution as a model for world transformation. This dossier cites **digitized primaries** (Internet Archive). **§5** reproduces **every bullet** from a circulating graphic titled *A Collection of Quotes from Jewish Periodicals on Bolshevism*, each with an **evidence assessment**. **§8** surveys **major modern “working” definitions** of antisemitism (IHRA, Nexus, JDA and their lineages) and **why they clash**—relevant whenever the same historical material is labeled hate speech or defended as scholarship. Interpretation here is **standard historical sociology**: Tsarist **legal disability**, **pogrom waves**, and **WWI dislocation** help explain why **some** Jewish intellectuals and communities **experimented with** revolutionary politics as a possible exit from violence — a hope that **failed in practice** when civil war, **counter-revolutionary pogroms**, Soviet state violence, and later Stalinism showed the revolution in **exterminatory or assimilatory “wrong hands.”** Nothing here implies a single Jewish intent, “Judaism = Marxism,” or collective guilt.
+> **TL;DR:** Contemporary **Anglo–Jewish periodicals** (1919–1920) contain editorial language that **parallel** parts of Bolshevik rhetoric with **Jewish ethical idealism** and, in one American weekly, celebrate Jewish participation in the Russian revolution as a model for world transformation. This dossier cites **digitized primaries** (Internet Archive). **§5** reproduces **every bullet** from a circulating graphic titled *A Collection of Quotes from Jewish Periodicals on Bolshevism*, each with an **evidence assessment**. **§8** surveys **major modern “working” definitions** of antisemitism (IHRA, Nexus, JDA and their lineages) and **why they clash**—relevant whenever the same historical material is labeled hate speech or defended as scholarship. **Companion:** this repo’s **in-house** counter-frame—**anti-monolith historiography** and **speech norms**—is in [Paradigm Threat — working definition of antisemitism](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md). Interpretation here is **standard historical sociology**: Tsarist **legal disability**, **pogrom waves**, and **WWI dislocation** help explain why **some** Jewish intellectuals and communities **experimented with** revolutionary politics as a possible exit from violence — a hope that **failed in practice** when civil war, **counter-revolutionary pogroms**, Soviet state violence, and later Stalinism showed the revolution in **exterminatory or assimilatory “wrong hands.”** Nothing here implies a single Jewish intent, “Judaism = Marxism,” or collective guilt.
 
 ## 1. Method
 
@@ -93,6 +93,14 @@ The following reproduces **each item** as it appears on the graphic (wording may
 
 This annex is **not** legal advice. It maps **formal, published frameworks** that institutions use today when they adjudicate speech, policy, or discipline. **Older** usage (Christian anti-Judaism, racial pseudoscience, Soviet “rootless cosmopolitanism” campaigns, Islamist propaganda, far-right street violence) differs in **shape** from **codified** “working definitions,” but those histories feed **why** definitional fights feel existential to different communities.
 
+> **Author sentiment (linked dossier):** The maintainer treats **IHRA-style** adoption—when used as a **blunt speech code**—as **often negligent** for **honest history**: it can **chill** exactly the kind of **sourced, disaggregated** work this file does (who wrote what, who **opposed** what), and it can **worsen** the **holy-war** mood by **forcing** secretive reading. That is **why** a **separate in-repo definition** exists—not to **deny** that **classical antisemitism** is real, but to **preserve** room for **Jewish disagreement**, **non-religious power analysis**, and **imperial-decline** narratives **without** automatic **collective guilt**.
+
+### 8.0 Paradigm Threat — in-repo working definition (companion)
+
+For a **single-paragraph norm** sized alongside IHRA/JDA **cores**, plus premises (monolithing vs dissent, Israel criticism, ancestry research, optional NC/imperial frame, Protestant/CIA wedge thesis), see:
+
+**[Paradigm Threat — working definition of antisemitism](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md)**
+
 ### 8.1 Pre-codification senses (still in ordinary language)
 
 | Sense | Rough content | Note |
@@ -157,4 +165,4 @@ The JDA adds **fifteen guidelines**, including sections that list conduct that i
 
 ---
 
-Keywords: #investigation #jewish-chronicle #american-hebrew #bolshevism #1919 #1920 #primary-sources #verified #quote-graphic #inventory #antisemitism #IHRA #JDA #Nexus #definitions
+Keywords: #investigation #jewish-chronicle #american-hebrew #bolshevism #1919 #1920 #primary-sources #verified #quote-graphic #inventory #antisemitism #IHRA #JDA #Nexus #definitions #paradigm-threat-working-definition-antisemitism

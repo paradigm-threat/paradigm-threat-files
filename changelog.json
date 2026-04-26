@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-26T12:20:21.177Z",
+    "date": "2026-04-26T12:41:30.320Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/jewish-press-revolutionary-russia-verified-quotations.md",
+        "href": "/history/chronology/investigations/jewish-press-revolutionary-russia-verified-quotations"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md",
+        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-26T12:20:16.000Z",
+    "message": "Investigation: annex on antisemitism definition lineages (IHRA, Nexus, JDA) and modern controversy.",
     "files": [
       {
         "status": "M",
@@ -531,24 +554,6 @@
       {
         "src": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png",
         "alt": "“Great Awakening” cluster illustration — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); see Limits and disclaimers"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-23T23:07:19.000Z",
-    "message": "Great Awakening investigation: §3.3.2 Iraq wars and gold working finding; §8 claim 7",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md",
-        "href": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png",
-        "alt": "“Great Awakening” cluster illustration for this investigation — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); illustrative context only, not evidence of coordination"
       }
     ]
   }
