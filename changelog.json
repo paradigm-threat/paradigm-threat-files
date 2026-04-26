@@ -1,8 +1,34 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-26T22:20:36.498Z",
+    "date": "2026-04-26T22:22:29.895Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
+        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
+      },
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-26T22:20:35.000Z",
+    "message": "Cruz/Kevin investigation: Basketball (S1) curiosity with cited sources; omit unverified 2K13",
     "files": [
       {
         "status": "M",
@@ -709,33 +735,6 @@
       {
         "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
         "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-25T12:17:18.000Z",
-    "message": "Investigations: add Japan giants control-system section",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md",
-        "href": "/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md",
-        "href": "/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.png",
-        "alt": "Skinwalkers and cryptids — Rus–Horde survivorship thesis and no-sorcery model"
-      },
-      {
-        "src": "/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.png",
-        "alt": "Indigenous control systems — witchcraft discourse, Vodou “work,” and reservation containment hypotheses"
       }
     ]
   }
