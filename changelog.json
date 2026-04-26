@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-26T11:55:59.132Z",
+    "date": "2026-04-26T11:57:11.991Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-26T11:55:54.000Z",
+    "message": "Add Bolshevism quote graphic inventory with per-line assessments; expand Jewish press investigation.",
     "files": [
       {
         "status": "M",
@@ -525,24 +538,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-23T23:01:34.000Z",
     "message": "Great Awakening investigation: §3.3.1 petrodollar, Iraq euro, Libya gold lore, author sentiment",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md",
-        "href": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png",
-        "alt": "“Great Awakening” cluster illustration for this investigation — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); illustrative context only, not evidence of coordination"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-23T19:19:53.000Z",
-    "message": "Great Awakening investigation: §3.6.6 working conclusion on vanished-scientists narrative",
     "files": [
       {
         "status": "M",
