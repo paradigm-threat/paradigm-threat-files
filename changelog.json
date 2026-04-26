@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-26T13:14:33.000Z",
+    "date": "2026-04-26T13:20:34.452Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md",
+        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png",
+        "alt": "Paradigm Threat — working definition of antisemitism (illustrative header)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-26T13:14:31.000Z",
+    "message": "Antisemitism working definition: embed illustrative header PNG (same folder)",
     "files": [
       {
         "status": "M",
@@ -497,28 +520,6 @@
       {
         "src": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.png",
         "alt": "AAWSAP / Lacatski investigation — accompanying figure"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-24T12:12:32.000Z",
-    "message": "Lacatski investigation: embed companion PNG beside article",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.md",
-        "href": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.png",
-        "href": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.png"
       }
     ]
   }

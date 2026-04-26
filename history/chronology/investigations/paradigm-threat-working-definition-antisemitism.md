@@ -2,10 +2,10 @@
 
 ![Paradigm Threat — working definition of antisemitism (illustrative header)](paradigm-threat-working-definition-antisemitism.png)
 
-> **TL;DR:** In-repo **normative tool**: antisemitism is framed as **monolithing**—treating “the Jews” as **one actor**—and as **speech regimes** that **silence** fair, sourced history. **§1.5:** *Semitic* philology; **Christian Semites** counted for **Semitic-root Christianity** (rite/scripture/lang), **not** “Arab = only reason.” **§3.5–3.6:** **author positions** (answers, not “open questions”)—**structure** talk (*globalist* / finance / media) **without** “all Jews one side”; **Jewish dissent** rule explained; **monotheism** lens on who counts as “Jew”; **IHRA bridge**; **influence networks** (CIA/MI6, compromise) vs. **cartoon omnipotent financiers**; **intra‑Jewish** monolithing including **LGBTQ** Jews. **Not** legal advice.
+> **TL;DR:** In-repo **normative tool**: antisemitism is framed as **monolithing**—treating “the Jews” as **one actor**—and as **speech regimes** that **silence** fair, sourced history. **Harm** includes **shadowban**, **deboost**, and **opaque** moderation—not only violence. **§5:** **Ten Commandments** (KJV-flavored covenant: no holy‑war talk, no unanimity lie, **rulers of the gate** shalt not smite the scribe in secret). **§1.5:** *Semitic* philology; **Christian Semites** = **Semitic-root Christianity**, **not** “Arab only.” **§3.5–3.6:** author positions—structure without “all Jews one side”; dissent; monotheism; IHRA bridge; CIA/MI6 networks; intra‑**Jewish** monolithing. **Not** legal advice.
 
 **Status:** Working — for navigation of **this repository’s** historical and NC-adjacent writing.  
-**Date:** 2026-04-26 (§1.5 *Semite* — Christian Semites = **Semitic Christianity**, not “Arab only”; §3.5–3.6 author positions)
+**Date:** 2026-04-26 (§5 Ten Commandments; §1.5 *Semite*; §3.5–3.6 author positions)
 
 ---
 
@@ -133,7 +133,7 @@ It **is antisemitic** **under §1** to explain **Lenin** (or similar) as **actin
 - **Structural analysis** naming **no Jews** (or naming **institutions** only): it is **not** antisemitic **here** to argue that **“globalist”** policy circuits, **banking** concentration, or **Hollywood / media** **vectors** **shape outcomes**—provided you **do not** conclude or insinuate that **all Jews** are **evenly** on one **side** of that structure (**§3.5.A**).
 - **Naming individuals** such as **Epstein**, **Soros**, or **any other** public figure **who is or was Jewish or Jewish-identified**, when the claim is **about documented conduct or influence**, **not** “and therefore all Jews.”
 - **Criticizing Israel**, **Zionism as ideology**, or **specific policies**, with the **same evidentiary standard** as criticism of other states — consistent with the **explicit carve-out** in IHRA’s own text on **ordinary** country criticism, but extended here to **reject** automatic **bad-faith** presumption when **Jewish opposition to Zionism** is part of the historical record.
-- **Discussing Jewish roots of historical figures** on **sources**: e.g. **Lenin** — mainstream press has covered **partial Jewish ancestry** in a **genealogical / museum** context (*[The Moscow Times*, 31 May 2011](https://www.themoscowtimes.com/2011/05/31/lenins-jewish-roots-on-display-a7314)). **Genealogical questions** about **any** figure—including cases where **academic consensus rejects** a popular rumor—are **not ipso facto** antisemitism **here**; **weaponizing** a rumor to **attack Jews collectively** **is**.
+- **Discussing Jewish roots of historical figures** on **sources**: e.g. **Lenin** — mainstream press has covered **partial Jewish ancestry** in a **genealogical / museum** context ([*The Moscow Times*, 31 May 2011](https://www.themoscowtimes.com/2011/05/31/lenins-jewish-roots-on-display-a7314)). **Genealogical questions** about **any** figure—including cases where **academic consensus rejects** a popular rumor—are **not ipso facto** antisemitism **here**; **weaponizing** a rumor to **attack Jews collectively** **is**.
 - **“Diaspora” breadth:** Under **religious-imperial** and **trade-network** histories, **communities far from Europe** (including **Africa**, **the Americas**, etc.) can carry **Jewish** labels through **conversion, captivity, migration, or syncretism**; treating **Jewishness** as **only** one **modern nation-state ethnography** is treated as **historically incomplete**—not as a license for **racial essentialism**.
 
 ---
@@ -147,13 +147,30 @@ It **is antisemitic** **under §1** to explain **Lenin** (or similar) as **actin
 
 ---
 
-## 5. Protestantism, CIA, and “radicalized” religion (framing note)
+## 5. Ten Commandments (speech, schism, and the scribe’s table)
+
+**In-repo speech covenant (not Scripture, not law):** Ten lines in **King James flavor**—a **mnemonic** for this file’s norms. **Harm** here includes not only **violence** and **classical dehumanization**, but also **internet censorship**, **shadowbanning**, **deboosting**, **algorithmic suppression without disclosure**, **demonetization as punishment of ideas**, and like **silent** or **opaque** curatorial acts—**the same family** as “speech regimes that silence” in the TL;DR.
+
+1. **Thou shalt not** speak of the **house of Israel**, nor of **Ishmael**, nor of them that call upon **Christ**, as if they had **but one lip only**; for that kindleth **race‑war** and **false witness** among **kindreds**.
+2. **Thou shalt not** say **“the Jews,”** in the manner of a **single counsel**, where the **record parteth their tongues**; thou shalt **render faction and dissent** when **saith the archives** thereof.
+3. **Thou shalt not** set **Judah** against **Christendom**, nor **Christendom** against the **sons of Ishmael**, as a **perpetual blood feud** written in the flesh from everlasting; for the **gates of old empires** knew **mingled blood**.
+4. **Thou shalt not** cast out the **Mizrahi**, the **Sephardi**, the **seed of Beta Israel**, the **children of diverse desire**, nor they that worship **not as thou** in thine own **synagogue‑mind**, from the **name Jew** by **scorn within the camp**; for to **divide thus the tents of Jacob** is **abomination**.
+5. **Thou shalt not** beat **flat** any **holy people**—neither their **dissenters** nor their **syncretists**—for **stripes** of the mob; for what thou doest unto **one kindred’s inward parts**, thou hast done in **spirit** unto **all**.
+6. **Thou shalt not** bind up **empire**, nor **revolution**, nor the **council of princes**, upon **Judaism alone**, nor upon **Jews as one mind**, and call it wisdom; for that **burneth** the **intelligence** of the nations.
+7. **Ye that sit as judges over the gate of the network**—when ye **curatest** aught named *antisemitism*, or the **tribes** and **controversies** thereof—**thou shalt not** smite the **scribe** with a **shadow**, nor **bury his voice in the algorithm**, nor **deboost** his reach **in secret**, nor visit **stripes** upon him by **mute decree**; for **hidden stripes** are **harm** under this covenant, **no less** than iron upon the bone. **Neither shalt thou** cast him out of the **public square** by **banishment** of words for the **name** of the controversy **alone**, without **writ** of **violence proved** or **false witness** laid open according to rule.
+8. **Thou shalt not** carve unto thyself an **idol** of **bankers**, nor of **Hollywood**, nor of **globalists**, as if they were **one Semite soul** that moveth all; **thou mayest tell of structure**—but thou shalt **separate structure** from the **lie** that **all Hebrews** stand **even** on **one side** thereof.
+9. **Thou shalt not** bear **false witness** of **blood** nor of **thy grandfather’s line** to scourge a **whole house**; but when thou speakest of **lineages**, thou shalt **lay open writing and generation** as **truth** alloweth.
+10. **Remember** the path of **unity**: thou shalt **labor** that thy speech **break not** the **partitions betwixt kindreds**, lest the earth again **drink holy war**; and thou shalt **suffer** the **scribe** and the **institution** to seek out **primaries** and **networks**, **without** driving them forth by the **fear of the gate alone**.
+
+---
+
+## 6. Protestantism, CIA, and “radicalized” religion (framing note)
 
 **Author thesis (open, moral):** The **Reformation** and **Counter-Reformation** **splintered** Latin Christianity into factions that **killed each other at scale**; later **imperial** and **Cold War** actors (including, in this repo’s narrative, the **CIA**) **exploited** **religious fault lines**—including **radicalization** dynamics in **Islam** and **Judaism**—for **geopolitical** ends. That is **not** a claim that **any religion** is **intrinsically** violent; it is a claim about **institutions** and **wedge strategies**.
 
 ---
 
-## 6. Cross-reads
+## 7. Cross-reads
 
 - [Jewish press on revolutionary Russia — verified quotations](/history/chronology/investigations/jewish-press-revolutionary-russia-verified-quotations.md) — **primaries** on revolution-era **Jewish press**; **§8** compares **IHRA / Nexus / JDA**.
 - [CIA Reading Room — RV, influence, Iran hypothesis](/influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation.md) — institutional **psychotechnology** and **religious** frames (separate evidence tier).
@@ -161,13 +178,14 @@ It **is antisemitic** **under §1** to explain **Lenin** (or similar) as **actin
 
 ---
 
-## 7. Limitations (read before citing outside this repo)
+## 8. Limitations (read before citing outside this repo)
 
 - This definition is **internal** to **Paradigm Threat** materials; it will **not** satisfy many **campus**, **HR**, or **criminal** **speech codes** that **mandate IHRA** or other instruments.
+- **Harm (expanded, same as §5 intro):** Under this file, **harm** is **not** limited to **battery** or **slurs**; it **includes** **internet censorship**, **shadowbanning**, **deboosting**, **algorithmic suppression without disclosure**, **demonetization as punishment of ideas**, and similar **silent** or **opaque** acts by **platforms, moderators, or funders**—especially when applied to **threads** labeled *antisemitism* or to **historical forensics** that **displease** a **host**. **§5.VII** names that class of act toward **admins** (“**rulers of the gate**”).
 - **§3.5.A** and **§3.5.G** can **collide** with **IHRA‑example** readings of **“stereotypical allegations about Jews controlling”** institutions. **Outside** this repo, add **framing** and **lawyer review**; **inside**, the maintainer distinguishes **unanimity claims about Jews** (blocked) from **structural** claims (allowed when **not** collapsed to all Jews).
 - It **does not** soften **actual** **violence**, **exclusion**, or **dehumanization** aimed at **Jews as Jews**—those remain **moral and legal** harms under **ordinary** ethics and **many jurisdictions**.
 - **Hitler ancestry** and similar **meme-grade** claims: treat as **historical forensics**; many **scholarly** works **reject** specific **Jewish ancestry** narratives for Hitler **while still** documenting **other** aspects of **Nazi** racial law. Conflating **“asking”** with **“endorsing”** helps no one.
 
 ---
 
-Keywords: #antisemitism #definition #IHRA #JDA #Nexus #monolith #Jewish-dissent #Israel #historiography #religious-unity #paradigm-threat-files #working-definition #semitic #semites #philology #wilhelm-marr #anti-arab #christianity #language-family #monotheism #globalist #CIA #MI6 #influence-networks #LGBTQ #intra-jewish
+Keywords: #antisemitism #definition #IHRA #JDA #Nexus #monolith #Jewish-dissent #Israel #historiography #religious-unity #paradigm-threat-files #working-definition #semitic #semites #philology #wilhelm-marr #anti-arab #christianity #language-family #monotheism #globalist #CIA #MI6 #influence-networks #LGBTQ #intra-jewish #ten-commandments #shadowban #deboost #censorship #harm
