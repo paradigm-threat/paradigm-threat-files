@@ -3,7 +3,7 @@
 > **TL;DR:** In-repo **normative tool**: antisemitism is framed as **monolithing**—treating “the Jews” as **one actor**—and as **speech regimes** that **silence** fair, sourced history. **§1.5:** *Semitic* philology vs. conventional **anti‑Jewish** use of *antisemitism*. **§3.5–3.6:** **author positions** (answers, not “open questions”)—**structure** talk (*globalist* / finance / media) **without** “all Jews one side”; **Jewish dissent** rule explained; **monotheism** lens on who counts as “Jew”; **IHRA bridge**; **influence networks** (CIA/MI6, compromise) vs. **cartoon omnipotent financiers**; **intra‑Jewish** monolithing including **LGBTQ** Jews. **Not** legal advice.
 
 **Status:** Working — for navigation of **this repository’s** historical and NC-adjacent writing.  
-**Date:** 2026-04-26 (§1.5 *Semite*; §3.5–3.6 author positions on structure, dissent, monotheism, IHRA bridge, networks)
+**Date:** 2026-04-26 (§1.5 *Semite* — Christian Semites = **Semitic Christianity**, not “Arab only”; §3.5–3.6 author positions)
 
 ---
 
@@ -27,8 +27,15 @@
 
 **Who counts as “Semitic” in a defensible, non‑racial sense today**
 
-- **Arab Muslims and Arab Christians** (and other **Arabic‑speaking** minorities) are **Semitic‑language** communities in the **linguist’s** sense.
-- **Many Eastern Christians** belong to churches whose **liturgical or vernacular** languages are **Semitic**: e.g. **Syriac/Aramaic** traditions (**Assyrian**, **Chaldean**, **Syriac Orthodox/Catholic**), **Arabic**‑rite Catholics and Orthodox across the Levant and North Africa, **Maltese** Catholics, **Ethiopian and Eritrean** Christians whose classical and vernacular layers include **Geʽez** and **Amharic** (both **Semitic**). In that **language‑community** sense, these Christians are **uncontroversially “Semitic”** to a philologist.
+**Explicit correction (Christian Semites):** This file groups **many Eastern and African Christians** under **“Semitic”** because **Christianity itself is rooted in a Semitic milieu**—**Hebrew / Aramaic** scripture context, **Semitic** or **Semitic‑layered** **liturgies**, and (where present) **Arabic**, **Syriac**, **Geʽez**, **Amharic**, **Maltese**, etc. **They are not counted as “Semitic” only because they are Arabs.** **Arabic** is a **Semitic language**, so **Arabic‑speaking** Christians **also** sit on a **Semitic** branch **linguistically**—but the **deeper** point for this definition is **Christian = carrying a Semitic-origin religion** in **text, rite, and names**, whether or not the believer identifies as **ethnically Arab**. Many communities below **do not** use **“Arab”** as their primary **ethnic** label (e.g. **Assyrian / Aramean / Chaldean**; **Ethiopian Habesha**; **many Copts** who distinguish **Egyptian** from **Arab** identity) yet remain **Semitic** in the **religious‑linguistic** sense above.
+
+**Modern scale (illustrative; not a census)**
+
+- **Arabic‑speaking Christians (often called “Arab Christians” in English):** **Millions** across the **Middle East**—with large populations in **Lebanon** (e.g. **Maronite**, **Greek Orthodox**), **Syria**, and **Jordan**; also in **Egypt** alongside **Coptic** and other communities where **Arabic** is widely used in **daily and civic** life.
+- **Other Christian Semites (non‑“Arab” label or mixed):** **Assyrians**, **Arameans**, and **Chaldeans** in **Iraq** and **Syria**; **Ethiopian** Christians (**Habesha**) and **Eritrean** Christians with **Geʽez** / **Amharic** **Semitic** layers; plus **Syriac/Aramaic** churches (**Syriac Orthodox/Catholic**, etc.) already noted.
+
+- **Arabic‑speaking Muslims** (and other **Arabic‑speaking** non‑Christians) remain **Semitic‑language** communities in the **linguist’s** sense—**orthogonal** to the **Christian‑Semitic** point above, but relevant to **anti‑Arab** bigotry and **etymology** of *antisemitism*.
+- **Maltese** Catholics (**Semitic** **Maltese** vernacular) and other **Arabic‑rite** or **Semitic‑liturgy** Christians in **North Africa** and the **diaspora** follow the **same logic**.
 - **Global Christianity as a whole** is **not** “a Semitic religion” in the same **genealogical** sense: hundreds of millions of Christians **neither speak nor descend from** Semitic‑language regions—yet Christianity **originated** in a **Semitic‑linguistic milieu** (Hebrew/Aramaic **context**, Greek **koiné** transmission). So it is **arguable in a cultural‑historical sense**—not a DNA label—that **all Christians** stand in a **Semitic** **line of tradition** (scriptures, names, geography of origin) **while** most **ethnolinguistic** Christians today are **not** “Semites” in **race‑science** jargon. **We reject** race‑science; we **note** the **tension** between **etymology** and **actual usage**.
 
 **Why this matters for *antisemitism***
