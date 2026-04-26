@@ -5,7 +5,7 @@
 > **TL;DR:** In-repo **normative tool**: antisemitism is framed as **monolithing**—treating “the Jews” as **one actor**—and as **speech regimes** that **silence** fair, sourced history. **Harm** includes **shadowban**, **deboost**, and **opaque** moderation—not only violence. **§5:** **Ten Commandments** (KJV-flavored covenant: no holy‑war talk, no unanimity lie, **rulers of the gate** shalt not smite the scribe in secret). **§1.5:** *Semitic* philology; **Christian Semites** = **Semitic-root Christianity**, **not** “Arab only.” **§3.5–3.6:** author positions—structure without “all Jews one side”; dissent; monotheism; IHRA bridge; CIA/MI6 networks; intra‑**Jewish** monolithing. **Not** legal advice.
 
 **Status:** Working — for navigation of **this repository’s** historical and NC-adjacent writing.  
-**Date:** 2026-04-26 (§5 Ten Commandments; §1.5 *Semite*; §3.5–3.6 author positions)
+**Date:** 2026-04-26 (§5 Ten Commandments + second figure; §1.5 *Semite*; §3.5–3.6 author positions)
 
 ---
 
@@ -161,6 +161,8 @@ It **is antisemitic** **under §1** to explain **Lenin** (or similar) as **actin
 8. **Thou shalt not** carve unto thyself an **idol** of **bankers**, nor of **Hollywood**, nor of **globalists**, as if they were **one Semite soul** that moveth all; **thou mayest tell of structure**—but thou shalt **separate structure** from the **lie** that **all Hebrews** stand **even** on **one side** thereof.
 9. **Thou shalt not** bear **false witness** of **blood** nor of **thy grandfather’s line** to scourge a **whole house**; but when thou speakest of **lineages**, thou shalt **lay open writing and generation** as **truth** alloweth.
 10. **Remember** the path of **unity**: thou shalt **labor** that thy speech **break not** the **partitions betwixt kindreds**, lest the earth again **drink holy war**; and thou shalt **suffer** the **scribe** and the **institution** to seek out **primaries** and **networks**, **without** driving them forth by the **fear of the gate alone**.
+
+![Paradigm Threat — working definition of antisemitism (supplementary illustration)](paradigm-threat-working-definition-antisemitism2.png)
 
 ---
 
