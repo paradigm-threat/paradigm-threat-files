@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-26T13:08:13.692Z",
+    "date": "2026-04-26T13:09:11.322Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md",
+        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-26T13:08:10.000Z",
+    "message": "Antisemitism definition: §3.5–3.6 author positions (dissent, monotheism, networks, IHRA bridge); §4.5 positive list",
     "files": [
       {
         "status": "M",
@@ -519,18 +532,5 @@
         "alt": "“Great Awakening” cluster illustration — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); see Limits and disclaimers"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-24T11:36:21.000Z",
-    "message": "Lacatski investigation: §3.6 distinctive on-record claims vs meme stack.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.md",
-        "href": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation"
-      }
-    ],
-    "images": []
   }
 ]
