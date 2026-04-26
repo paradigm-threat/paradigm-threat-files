@@ -1,6 +1,6 @@
 # Investigation: Jewish Press on Revolutionary Russia — Verified Quotations Only
 
-> **TL;DR:** Contemporary **Anglo–Jewish periodicals** (1919–1920) contain editorial language that **parallel** parts of Bolshevik rhetoric with **Jewish ethical idealism** and, in one American weekly, celebrate Jewish participation in the Russian revolution as a model for world transformation. This dossier cites **digitized primaries** (Internet Archive). **§5** reproduces **every bullet** from a circulating graphic titled *A Collection of Quotes from Jewish Periodicals on Bolshevism*, each with an **evidence assessment**. Interpretation here is **standard historical sociology**: Tsarist **legal disability**, **pogrom waves**, and **WWI dislocation** help explain why **some** Jewish intellectuals and communities **experimented with** revolutionary politics as a possible exit from violence — a hope that **failed in practice** when civil war, **counter-revolutionary pogroms**, Soviet state violence, and later Stalinism showed the revolution in **exterminatory or assimilatory “wrong hands.”** Nothing here implies a single Jewish intent, “Judaism = Marxism,” or collective guilt.
+> **TL;DR:** Contemporary **Anglo–Jewish periodicals** (1919–1920) contain editorial language that **parallel** parts of Bolshevik rhetoric with **Jewish ethical idealism** and, in one American weekly, celebrate Jewish participation in the Russian revolution as a model for world transformation. This dossier cites **digitized primaries** (Internet Archive). **§5** reproduces **every bullet** from a circulating graphic titled *A Collection of Quotes from Jewish Periodicals on Bolshevism*, each with an **evidence assessment**. **§8** surveys **major modern “working” definitions** of antisemitism (IHRA, Nexus, JDA and their lineages) and **why they clash**—relevant whenever the same historical material is labeled hate speech or defended as scholarship. Interpretation here is **standard historical sociology**: Tsarist **legal disability**, **pogrom waves**, and **WWI dislocation** help explain why **some** Jewish intellectuals and communities **experimented with** revolutionary politics as a possible exit from violence — a hope that **failed in practice** when civil war, **counter-revolutionary pogroms**, Soviet state violence, and later Stalinism showed the revolution in **exterminatory or assimilatory “wrong hands.”** Nothing here implies a single Jewish intent, “Judaism = Marxism,” or collective guilt.
 
 ## 1. Method
 
@@ -89,11 +89,72 @@ The following reproduces **each item** as it appears on the graphic (wording may
 
 ---
 
-## 8. Sources (this dossier)
+## 8. Annex: “Versions” of antisemitism — lineages and the modern definition fight
+
+This annex is **not** legal advice. It maps **formal, published frameworks** that institutions use today when they adjudicate speech, policy, or discipline. **Older** usage (Christian anti-Judaism, racial pseudoscience, Soviet “rootless cosmopolitanism” campaigns, Islamist propaganda, far-right street violence) differs in **shape** from **codified** “working definitions,” but those histories feed **why** definitional fights feel existential to different communities.
+
+### 8.1 Pre-codification senses (still in ordinary language)
+
+| Sense | Rough content | Note |
+|--------|----------------|------|
+| **Religious anti-Judaism** | Theological polemic, conversionary pressure, exclusion from guilds or office | Not identical to modern racial antisemitism, but **overlaps** in violence and stereotype. |
+| **Racial / political “antisemitism” (late 19th c.)** | Pseudoscientific “Jewish race,” conspiracy tropes, party antisemitism (e.g. Wilhelm Marr’s political coinage in German) | Supplies **iconography** later copied by flyers and memes. |
+| **State antisemitism** | Legal disabilities (Tsarist Pale, numerus clausus), quotas, pogroms, genocide | **Material** context for §2 of this dossier. |
+| **Anti-Zionism / anti-Israel politics (contested boundary)** | Opposition to a state or ideology vs. hostility to **Jews as Jews** | Precisely where **modern definitions disagree** (§8.5). |
+
+### 8.2 Lineage: European Monitoring Centre (2005) → IHRA (2016)
+
+- **2005 — European Monitoring Centre on Racism and Xenophobia (EUMC) “working definition.”** A short core text plus **illustrative examples** (including several on **Israel**). The document was later **withdrawn** as an EUMC “working definition” but its text **carried forward** in civil-society use and informed later drafting. (See historical overview at [Working Definition of Antisemitism — Wikipedia](https://en.wikipedia.org/wiki/Working_Definition_of_Antisemitism) and primary-adjacent discussion in human-rights literature.)
+
+- **2016 — International Holocaust Remembrance Alliance (IHRA) “non-legally binding working definition of antisemitism,”** adopted at the Bucharest plenary (**26 May 2016**). Official consolidated text and examples: [IHRA PDF](https://holocaustremembrance.com/wp-content/uploads/2024/01/IHRA-non-legally-binding-working-definition-of-antisemitism-1.pdf).
+
+**IHRA core (verbatim):**
+
+> Antisemitism is a certain perception of Jews, which may be expressed as hatred toward Jews. Rhetorical and physical manifestations of antisemitism are directed toward Jewish or non-Jewish individuals and/or their property, toward Jewish community institutions and religious facilities.
+
+The IHRA instrument adds **eleven examples** (some concern **speech about Israel**). It explicitly states that **“criticism of Israel similar to that leveled against any other country cannot be regarded as antisemitic.”** Adoption is **voluntary** (governments, universities, sports bodies); it is **not** a treaty and **not** by itself criminal law—though jurisdictions may **reference** it in policy or hate-crime guidance.
+
+### 8.3 Nexus (United States, ~2021–2023)
+
+The **Nexus Document** and related **Nexus Project** materials (University of California–affiliated scholarship; white paper **May 2023**) offer a **complementary** framework: how to tell **when** criticism of Israel or Zionism **crosses** into antisemitism **in context**, without equating **all** political anti-Zionism with bigotry. The **U.S. National Strategy to Counter Antisemitism** (May 2023) names IHRA as one useful tool and **welcomes Nexus** as a resource for **education and clarity**. See [Nexus Project — definitions](https://nexusproject.us/nexus-resources/nexus-definition/) and the strategy PDF via [White House archive copy](https://www.whitehouse.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf).
+
+**Contrast in one sentence:** IHRA lists **stand-alone examples** (hotly debated as to scope); Nexus stresses **nexus**—**linked harms**, patterns, and **Jewish-targeting**—rather than treating single slogans as dispositive.
+
+### 8.4 Jerusalem Declaration on Antisemitism (JDA) — March **2021**
+
+Issued by a large group of **scholars** in Jewish studies, Holocaust studies, and Middle East studies as a **non-legally binding alternative** to IHRA. Official site: [jerusalemdeclaration.org](https://jerusalemdeclaration.org/).
+
+**JDA core definition (verbatim):**
+
+> Antisemitism is discrimination, prejudice, hostility or violence against Jews as Jews (or Jewish institutions as Jewish).
+
+The JDA adds **fifteen guidelines**, including sections that list conduct that is **on the face of it antisemitic** versus conduct that is **on the face of it not antisemitic** in Israel–Palestine debates (e.g. it states that **BDS is not, in and of itself, antisemitic**; that **“double standard”** criticism alone is **not** sufficient; that **evidence-based** state criticism is permissible). The preamble argues IHRA is **unclear**, **over-broad in application**, and has **fuelled controversy** that **weakens** anti-antisemitism work.
+
+### 8.5 Why the definitions war matters for historical quotation
+
+| Axis | IHRA-aligned concern | JDA / civil-liberties-aligned concern |
+|------|----------------------|--------------------------------------|
+| **Flyers like §5** | Recycling **Jewish power / Bolshevik** tropes can fall under **conspiracy** and **collective blame** examples. | **Context:** academic or forensic **reproduction** of primary sources may still need **framing** so it is not read as **endorsement** of the trope. |
+| **Scholarly or NC writing** | Some argue **sharp criticism of Israel** or **Zionism** should be monitored with IHRA examples. | JDA/Nexus warn against **chilling** legitimate **rights-based** or **anti-nationalist** speech; dispute whether **certain** IHRA examples **conflate** policy opposition with antisemitism. |
+| **Institutional adoption** | Many states and bodies **endorse IHRA** for training and diplomacy. | **Faculty unions**, **human-rights lawyers**, and **Palestine-solidarity** networks often **oppose mandatory IHRA** on **speech and hiring** grounds. |
+
+**Takeaway for this dossier:** Verifying **what a 1919 newspaper actually said** (§3–4) is **orthogonal** to, but **politically entangled** with, which **definition** a reader uses to classify **reprinting** that material today. Cite **primaries**; separate **historical description** from **normative accusation**; when operating inside an IHRA-adopting institution, add **scholarly framing** explicit enough to pass **context-sensitive** review.
+
+### 8.6 Further reading (selected)
+
+- IHRA: [Working definition PDF](https://holocaustremembrance.com/wp-content/uploads/2024/01/IHRA-non-legally-binding-working-definition-of-antisemitism-1.pdf).
+- JDA: [jerusalemdeclaration.org](https://jerusalemdeclaration.org/).
+- Nexus: [nexusproject.us — Nexus definition](https://nexusproject.us/nexus-resources/nexus-definition/).
+- U.S. National Strategy (2023): [White House PDF](https://www.whitehouse.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf).
+- Historical line on EUMC → IHRA: [Wikipedia — Working Definition of Antisemitism](https://en.wikipedia.org/wiki/Working_Definition_of_Antisemitism) (convenient chronology; follow footnotes to primary sources for serious work).
+
+---
+
+## 9. Sources (this dossier)
 
 - *Jewish Chronicle*, London, **4 April 1919**, leader “Peace, War – and Bolshevism,” p. 7 — [Internet Archive full text](https://archive.org/details/B-001-018-446).
 - *The American Hebrew*, New York, **10 September 1920** (date per IA clipping artifact) — quoted paragraph: [Internet Archive image item](https://archive.org/details/the-bolshevik-revolution-was-the-product-of-jewish-brains-american-hebrew); full serial: [HathiTrust catalog](https://catalog.hathitrust.org/Record/100113118).
 
 ---
 
-Keywords: #investigation #jewish-chronicle #american-hebrew #bolshevism #1919 #1920 #primary-sources #verified #quote-graphic #inventory
+Keywords: #investigation #jewish-chronicle #american-hebrew #bolshevism #1919 #1920 #primary-sources #verified #quote-graphic #inventory #antisemitism #IHRA #JDA #Nexus #definitions
