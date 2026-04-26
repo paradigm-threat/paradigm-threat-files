@@ -1,9 +1,9 @@
 # Paradigm Threat — Working Definition of Antisemitism (Religious-Unity Frame)
 
-> **TL;DR:** In-repo **normative tool**: antisemitism is framed as **monolithing**—treating “the Jews” as **one actor**—and as **speech regimes** that **silence** fair, sourced history. **Not** antisemitism here: naming **Jewish-identified individuals** in documented power roles **alongside** Jewish **opposition** to the same events; **policy criticism** of Israel or other states; **ancestry research** on public figures when **decoupled** from collective guilt. This is **not** legal advice, **not** an institutional adoption, and **does not** deny that **classical** antisemitism (pogrom ideology, racial conspiracy, dehumanization) **exists and kills**.
+> **TL;DR:** In-repo **normative tool**: antisemitism is framed as **monolithing**—treating “the Jews” as **one actor**—and as **speech regimes** that **silence** fair, sourced history. **§1.5:** *Semitic* in **linguistics** covers many **Arab and Eastern Christian** communities and more; ***antisemitism*** in law and daily use still means **anti‑Jewish** harm—see **etymology vs. practice**. **Not** antisemitism here: naming **Jewish-identified individuals** in documented power roles **alongside** Jewish **opposition** to the same events; **policy criticism** of Israel or other states; **ancestry research** on public figures when **decoupled** from collective guilt. This is **not** legal advice, **not** an institutional adoption, and **does not** deny that **classical** antisemitism (pogrom ideology, racial conspiracy, dehumanization) **exists and kills**.
 
 **Status:** Working — for navigation of **this repository’s** historical and NC-adjacent writing.  
-**Date:** 2026-04-26
+**Date:** 2026-04-26 (§1.5 *Semite* / *Semitic* expansion)
 
 ---
 
@@ -16,6 +16,27 @@
 **Paradigm Threat — working definition (in-repo, single paragraph):**
 
 > **Antisemitism** here means **collapsing Jews into one intent**—past or present—or **punishing** discourse that names **Jewish-identified actors** in consequential history while **erasing Jewish dissent** in the same record. It is **not** antisemitism under this frame to pursue **evidence-based** accounts of **who did what**; to research **ancestry or affiliation** of public figures **without** collective blame; or to criticize **states, policies, or intellectual projects** (including where Jewish thought shaped them) **without** equating **all Jews** to those projects.
+
+---
+
+## 1.5 *Semite*, *Semitic*, and who can fall under the label (including many Christians)
+
+**Philology (still current):** In linguistics, **Semitic** names a branch of **Afro-Asiatic**: **Hebrew, Aramaic, Arabic, Geʽez, Amharic, Maltese**, and several smaller languages. “**Semitic**” here describes **language families and speech communities**—**not** a blood essence.
+
+**Race science (obsolete, but it coined the politics):** In **19th‑century European** scholarship, “**Semites**” were often grouped as a **“race”** or **“culture type”** contrasted with “**Aryans**.” That typology is **discredited** as biology, but it **stuck** in political language when **Wilhelm Marr** and others popularized ***Antisemitismus***—which in practice meant **anti‑Jewish** politics, **not** hostility to every **Semitic‑language** people.
+
+**Who counts as “Semitic” in a defensible, non‑racial sense today**
+
+- **Arab Muslims and Arab Christians** (and other **Arabic‑speaking** minorities) are **Semitic‑language** communities in the **linguist’s** sense.
+- **Many Eastern Christians** belong to churches whose **liturgical or vernacular** languages are **Semitic**: e.g. **Syriac/Aramaic** traditions (**Assyrian**, **Chaldean**, **Syriac Orthodox/Catholic**), **Arabic**‑rite Catholics and Orthodox across the Levant and North Africa, **Maltese** Catholics, **Ethiopian and Eritrean** Christians whose classical and vernacular layers include **Geʽez** and **Amharic** (both **Semitic**). In that **language‑community** sense, these Christians are **uncontroversially “Semitic”** to a philologist.
+- **Global Christianity as a whole** is **not** “a Semitic religion” in the same **genealogical** sense: hundreds of millions of Christians **neither speak nor descend from** Semitic‑language regions—yet Christianity **originated** in a **Semitic‑linguistic milieu** (Hebrew/Aramaic **context**, Greek **koiné** transmission). So it is **arguable in a cultural‑historical sense**—not a DNA label—that **all Christians** stand in a **Semitic** **line of tradition** (scriptures, names, geography of origin) **while** most **ethnolinguistic** Christians today are **not** “Semites” in **race‑science** jargon. **We reject** race‑science; we **note** the **tension** between **etymology** and **actual usage**.
+
+**Why this matters for *antisemitism***
+
+- Taken **literally**, “antisemitism” could suggest **bigotry against all “Semites”**—which would **include** much **anti‑Arab** violence and stereotype. **Scholars** sometimes stress that parallel; **law and policy** almost always use ***antisemitism*** to mean **anti‑Jewish** harm (and sometimes **institutions** read as Jewish), **not** a blanket “anti‑all‑Semitic‑speakers” tort.
+- **This file** follows **that conventional narrow sense** for **norms and headings**—because pogrom and **Nazi** machinery targeted **Jews as Jews**—**while** acknowledging that **“Semite”** is **wider** than **Ashkenazi** caricature and that **anti‑Arab** and **anti‑Palestinian** harms deserve **their own** precise vocabulary (**Islamophobia**, **anti‑Palestinian racism**, etc.), not **collapse** into a **misread** etymology.
+
+**Implication:** Broadening “**Semitic**” to **language and Levantine/Mesopotamian/Ethiopian Christian worlds** clarifies why **“Jews vs Christians”** as a **timeless racial duel** is **bad history**: **overlap**, **conversion**, **shared languages**, and **imperial borders** cut across **simple** binaries—**without** erasing that **modern antisemitism** has a **specific** **anti‑Jewish** history.
 
 ---
 
@@ -69,4 +90,4 @@
 
 ---
 
-Keywords: #antisemitism #definition #IHRA #JDA #Nexus #monolith #Jewish-dissent #Israel #historiography #religious-unity #paradigm-threat-files #working-definition
+Keywords: #antisemitism #definition #IHRA #JDA #Nexus #monolith #Jewish-dissent #Israel #historiography #religious-unity #paradigm-threat-files #working-definition #semitic #semites #philology #wilhelm-marr #anti-arab #christianity #language-family

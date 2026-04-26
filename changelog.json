@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-26T12:41:30.320Z",
+    "date": "2026-04-26T12:49:26.758Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md",
+        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-26T12:41:25.000Z",
+    "message": "Add Paradigm Threat working definition of antisemitism; link from Jewish press §8",
     "files": [
       {
         "status": "M",
@@ -536,24 +554,6 @@
     "images": [
       {
         "src": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-23T23:30:33.000Z",
-    "message": "Investigation: Iraq/Libya financial-reset read, Limits caveats, §9 Q8, §12 CBS",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md",
-        "href": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png",
-        "alt": "“Great Awakening” cluster illustration — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); see Limits and disclaimers"
       }
     ]
   }
