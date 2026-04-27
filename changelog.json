@@ -1,8 +1,77 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-27T15:25:39.634Z",
+    "date": "2026-04-27T15:44:59.891Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/mars-earth-reincarnation-investigation.md",
+        "href": "/cosmos/mars/investigations/mars-earth-reincarnation-investigation"
+      },
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md",
+        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.md",
+        "href": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png",
+        "alt": "Paradigm Threat — working definition of antisemitism (illustrative header)"
+      },
+      {
+        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism2.png",
+        "alt": "Paradigm Threat — working definition of antisemitism (supplementary illustration)"
+      },
+      {
+        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-journey.png",
+        "alt": "Mars Exploration 1984 — RV session journey / coordinate path"
+      },
+      {
+        "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
+        "alt": "CIA Reading Room — Mars RV, two-way influence, Iran / religious-revival investigation (header)"
+      },
+      {
+        "src": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.png",
+        "alt": "AAWSAP / Lacatski investigation — accompanying figure"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-27T15:25:38.000Z",
+    "message": "Mars CIA RV: FOIA/declass chain (§7.4.7); missing file-specific intent → RoM default",
     "files": [
       {
         "status": "M",
@@ -3922,19 +3991,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-27T12:26:09.000Z",
     "message": "Investigation: identify author Mars RV slide with CIA MARS EXPLORATION PDF.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-27T12:24:19.000Z",
-    "message": "Investigation: add Forecast II / Super Cockpit §7.6 (two-way HMI analogy).",
     "files": [
       {
         "status": "M",
