@@ -50,5 +50,5 @@ So that's my cautionary tale about comfort blankets.  If people want to call me 
 
 ---
 
-Keywords: #drugs #comfort #blanket #conspiracy
+Keywords: #Drugs #Comfort #Blanket #Conspiracy
 

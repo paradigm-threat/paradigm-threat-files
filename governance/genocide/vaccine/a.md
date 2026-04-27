@@ -220,5 +220,5 @@ josephcurl@gmail.com and on Twitter @josephcurl
 
 ---
 
-Keywords: #ensure #children #survive #thrive #boycott #vaccines
+Keywords: #Ensure #Children #Survive #Thrive #Boycott #Vaccines
 

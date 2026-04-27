@@ -378,4 +378,4 @@ See `[~/dev/wget/Thomas-M-Disch/The-Genocides-chapter-index.md](/home/ari/dev/wg
 
 ---
 
-Keywords: #spores #ecological #disaster #martian #cylinders #mudflood #pern #nausicaa #chestnut #blight #redweed #predictive #programming #ballard #disch #genocides #bradbury #cellar #wells #panspermia #lineage #register #cascade #dieoff #termites #burning #world
+Keywords: #Spores #Ecological #Disaster #Martian #Cylinders #Mudflood #Pern #Nausicaa #Chestnut #Blight #Redweed #Predictive #Programming #Ballard #Disch #Genocides #Bradbury #Cellar #Wells #Panspermia #Lineage #Register #Cascade #Dieoff #Termites #Burning #World

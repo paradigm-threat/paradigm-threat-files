@@ -137,5 +137,5 @@ Without Western extraction, immunity, and sanctuary choices, National Socialist 
 
 ---
 
-Keywords: #operation #paperclip #nazi #continuity #wwii #narrative #defeat
+Keywords: #Operation #Paperclip #Nazi #Continuity #Wwii #Narrative #Defeat
 

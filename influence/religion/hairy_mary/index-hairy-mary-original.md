@@ -27,5 +27,5 @@ Anyway, Mary Magdalene still keeps her image of a tempting beauty. Of course, sh
 
 ---
 
-Keywords: #hairy #mary #original
+Keywords: #Hairy #Mary #Original
 

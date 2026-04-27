@@ -128,4 +128,4 @@ PDF scan and exported illustration PNGs from the digitized book live under **`~/
 
 ---
 
-Keywords: #pyramid #energy #kerrell #goggin #1977 #habitability #great-pyramid #dark-ages #investigation
+Keywords: #Pyramid #Energy #Kerrell #Goggin #1977 #Habitability #GreatPyramid #DarkAges #Investigation

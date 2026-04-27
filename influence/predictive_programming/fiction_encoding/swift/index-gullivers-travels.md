@@ -60,5 +60,5 @@ Under `39015078565861/` and surrounding pages in the combined `Gulliver_s_travel
 
 ---
 
-Keywords: #gullivers #travels #gulliver #summary
+Keywords: #Gullivers #Travels #Gulliver #Summary
 

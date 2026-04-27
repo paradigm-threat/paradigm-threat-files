@@ -142,5 +142,5 @@ Resources flowed from Crown and Church to Parliament's creditors, soldiers, and 
 
 ---
 
-Keywords: #british #civil #war #societized #consolidation #template #western #governance
+Keywords: #British #Civil #War #Societized #Consolidation #Template #Western #Governance
 

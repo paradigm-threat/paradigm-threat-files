@@ -20,7 +20,7 @@ See the full [AI Control Investigation](/science/ai/ai-control-investigation) fo
 
 ---
 
-Keywords: #artificial #intelligence #ghost #machine
+Keywords: #Artificial #Intelligence #Ghost #Machine
 
 ---
 

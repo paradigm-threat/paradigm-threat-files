@@ -4,5 +4,5 @@
 
 ---
 
-Keywords: #achat #suppressed #tech #chat
+Keywords: #Achat #Suppressed #Tech #Chat
 

@@ -102,5 +102,5 @@
 
 ---
 
-Keywords: #rare #nintendo #rd #credit #theft
+Keywords: #Rare #Nintendo #Rd #Credit #Theft
 

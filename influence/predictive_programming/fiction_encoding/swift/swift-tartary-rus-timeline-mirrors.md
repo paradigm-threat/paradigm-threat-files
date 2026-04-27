@@ -131,5 +131,5 @@ On this site’s [chronology](/history/chronology/page.md) and [mudflood](/histo
 
 ---
 
-Keywords: #swift #tartary #rus #mirrors #rustimeline #thread
+Keywords: #Swift #Tartary #Rus #Mirrors #Rustimeline #Thread
 

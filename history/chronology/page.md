@@ -2590,5 +2590,5 @@ original location of the Biblical Jerusalem.
 
 ---
 
-Keywords: #reconstruction #antisemitism-disclaimer #IHRA #study-copies
+Keywords: #Reconstruction #AntisemitismDisclaimer #IHRA #StudyCopies
 

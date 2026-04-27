@@ -84,5 +84,5 @@ Each and every Elite family has to serve a term as a scapegoat, the pharmakos.  
 
 ---
 
-Keywords: #prophet
+Keywords: #Prophet
 

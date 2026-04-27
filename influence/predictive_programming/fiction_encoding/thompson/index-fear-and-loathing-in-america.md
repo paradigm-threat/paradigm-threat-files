@@ -31,5 +31,5 @@ Volume of Thompson's letters and correspondence from the 1960s–2000s. Covers h
 
 ---
 
-Keywords: #fear #loathing #america
+Keywords: #Fear #Loathing #America
 

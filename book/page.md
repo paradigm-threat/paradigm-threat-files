@@ -65,7 +65,7 @@ The public site mirrors these paths under **paradigmthreat.net** (and related do
 
 ---
 
-Keywords: #paradigm #threat #third #story
+Keywords: #Paradigm #Threat #Third #Story
 
 ---
 

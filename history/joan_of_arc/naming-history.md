@@ -30,5 +30,5 @@ The name "Joan of Arc" (Jeanne d'Arc) may be a later attribution. Contemporary o
 
 ---
 
-Keywords: #naming #joan #arc
+Keywords: #Naming #Joan #Arc
 

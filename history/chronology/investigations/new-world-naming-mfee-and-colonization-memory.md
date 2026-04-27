@@ -103,5 +103,5 @@ These materials **strengthen** a **general** argument that imperial language of 
 
 ---
 
-Keywords: #new #world #naming #mfee #colonization #memory #lands #post #mudflood
+Keywords: #New #World #Naming #MFEE #Colonization #Memory #Lands #Post #Mudflood
 

@@ -12,5 +12,5 @@ version.
 
 ---
 
-Keywords: #paintingjoanofarcstake
+Keywords: #Paintingjoanofarcstake
 

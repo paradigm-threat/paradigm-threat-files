@@ -32,5 +32,5 @@ Heribert Illig's "phantom time" (297 years, 614–911 CE) and Fomenko's ~1053-ye
 
 ---
 
-Keywords: #illig #fomenko #boundary #vs #phantom #time
+Keywords: #Illig #Fomenko #Boundary #Vs #Phantom #Time
 

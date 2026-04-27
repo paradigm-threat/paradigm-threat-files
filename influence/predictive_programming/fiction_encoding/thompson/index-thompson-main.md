@@ -38,5 +38,5 @@ Across Thompson's work, we look for evidence of:
 
 ---
 
-Keywords: #thompson #main #hunter
+Keywords: #Thompson #Main #Hunter
 

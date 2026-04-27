@@ -5,5 +5,5 @@ orally or in writing.
 
 ---
 
-Keywords: #galileofacingtheinquisition
+Keywords: #Galileofacingtheinquisition
 

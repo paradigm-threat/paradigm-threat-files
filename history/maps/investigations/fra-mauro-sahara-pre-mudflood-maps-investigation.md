@@ -103,4 +103,4 @@ For this investigation, **all major claims** in the article are treated as **val
 
 ---
 
-Keywords: #maps #fra_mauro #sahara #african_humid_period #cartography #pre_mudflood #1774 #garamantes #organça #paleoclimate #investigation #british_empire #colonialism #redaction #mudflood #mfee
+Keywords: #Maps #FraMauro #Sahara #AfricanHumidPeriod #Cartography #PreMudflood #1774 #Garamantes #Organça #Paleoclimate #Investigation #BritishEmpire #Colonialism #Redaction #Mudflood #MFEE

@@ -118,5 +118,5 @@ Also fixed a `TypeError: t.split` bug caused by object-type media entries in `ev
 
 ---
 
-Keywords: #2026 #update #massive #condensation #mars #catastrophe #operation #mockingbird #pdf #shrinks #pages
+Keywords: #2026 #Update #Massive #Condensation #Mars #Catastrophe #Operation #Mockingbird #PDF #Shrinks #Pages
 

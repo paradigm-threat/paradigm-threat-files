@@ -64,5 +64,5 @@ Beethoven's deafness is one of the most enduring myths in classical music: the i
 
 ---
 
-Keywords: #beethoven #deafness #narrative
+Keywords: #Beethoven #Deafness #Narrative
 

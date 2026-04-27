@@ -39,5 +39,5 @@ See also:
 
 ---
 
-Keywords: #article
+Keywords: #Article
 

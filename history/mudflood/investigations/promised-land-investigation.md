@@ -145,5 +145,5 @@ Research on the open questions and on **Fomenko/chronologia** material in the **
 
 ---
 
-Keywords: #promised #land #deliverance #europe #america #final #lands
+Keywords: #Promised #Land #Deliverance #Europe #America #Final #Lands
 

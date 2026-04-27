@@ -46,5 +46,5 @@ perhaps, be that their ideas, beliefs, and solutions are weak from the start?
 
 ---
 
-Keywords: #climate #change #george #soros #censorship
+Keywords: #Climate #Change #George #Soros #Censorship
 

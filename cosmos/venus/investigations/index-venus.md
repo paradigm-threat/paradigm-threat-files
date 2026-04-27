@@ -8,4 +8,4 @@ See also: [Mars investigations](/cosmos/mars/investigations/index-mars.md), [Plu
 
 ---
 
-Keywords: #venus #venera #velikovsky #comet
+Keywords: #Venus #Venera #Velikovsky #Comet

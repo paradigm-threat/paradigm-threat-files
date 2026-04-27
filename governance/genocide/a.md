@@ -56,5 +56,5 @@ _The_ [_Genocide Documentation Project_](http://nsarchive.gwu.edu/governance/gen
 
 ---
 
-Keywords: #later #us #classifying #bombshell #plan #pull #peacekeepers #out #rwanda #genocide
+Keywords: #Later #Us #Classifying #Bombshell #Plan #Pull #Peacekeepers #Out #Rwanda #Genocide
 

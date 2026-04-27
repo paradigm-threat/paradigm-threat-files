@@ -121,5 +121,5 @@ These changes apply to the **timeline reader**, **landing**, and **index** UI:
 
 ---
 
-Keywords: #2026 #tldr #split #site #book #sweep #xvi #xxii #war #fiction #exports #reader
+Keywords: #2026 #Tldr #Split #Site #Book #Sweep #Xvi #Xxii #War #Fiction #Exports #Reader
 

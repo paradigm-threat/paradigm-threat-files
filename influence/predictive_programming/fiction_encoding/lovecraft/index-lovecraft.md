@@ -305,5 +305,5 @@ grep -ril "great race\|Yith\|mind.*project\|forward.*time\|backward.*time" txt/
 
 ---
 
-Keywords: #lovecraft #complete #fiction
+Keywords: #Lovecraft #Complete #Fiction
 

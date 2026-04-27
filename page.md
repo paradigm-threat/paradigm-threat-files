@@ -401,5 +401,5 @@ At `/`, `page.md` replaces the automatic directory listing for the repository ro
 
 ---
 
-Keywords: #welcome #paradigm #threat #antisemitism-disclaimer #IHRA #study-copies
+Keywords: #Welcome #Paradigm #Threat #AntisemitismDisclaimer #IHRA #StudyCopies
 

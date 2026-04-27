@@ -120,5 +120,5 @@ Reddit is not evidence of Martin’s intent. Wikipedia and fan wikis are seconda
 
 ---
 
-Keywords: #george #rr #martin #world #ice #fire #fictional #historian #pattern
+Keywords: #George #Rr #Martin #World #Ice #Fire #Fictional #Historian #Pattern
 

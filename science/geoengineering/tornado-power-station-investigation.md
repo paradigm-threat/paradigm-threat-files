@@ -113,5 +113,5 @@ The tornado *did* continue—it caused three deaths in Madison and moved to Hend
 
 ---
 
-Keywords: #tornado #power #station #explosion #electromagnetic #suppression #media #coverup
+Keywords: #Tornado #Power #Station #Explosion #Electromagnetic #Suppression #Media #Coverup
 

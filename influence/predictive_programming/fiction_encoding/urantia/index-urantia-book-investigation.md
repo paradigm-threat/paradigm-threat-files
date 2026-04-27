@@ -166,5 +166,5 @@ No claim here asserts final proof that The Urantia Book was designed as an opera
 
 ---
 
-Keywords: #urantia #book #controlled #opposition #predictive #programming
+Keywords: #Urantia #Book #Controlled #Opposition #Predictive #Programming
 

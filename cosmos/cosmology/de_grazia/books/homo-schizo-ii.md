@@ -45,5 +45,5 @@ Where Volume I focused on culture and origins, this volume focuses on the indivi
 
 ---
 
-Keywords: #homo #schizo #ii #nature #behavior
+Keywords: #Homo #Schizo #II #Nature #Behavior
 

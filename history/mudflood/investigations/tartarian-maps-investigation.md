@@ -123,5 +123,5 @@ Author's existing analysis (from MFEE article and chronology page):
 
 ---
 
-Keywords: #tartarian #maps #forbidden #disclosure #downloads
+Keywords: #Tartarian #Maps #Forbidden #Disclosure #Downloads
 

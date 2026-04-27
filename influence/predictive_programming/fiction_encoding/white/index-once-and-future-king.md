@@ -52,5 +52,5 @@ Arthur's life from boyhood (Wart, tutored by Merlin) through kingship, the Round
 
 ---
 
-Keywords: #once #future #king
+Keywords: #Once #Future #King
 

@@ -19,5 +19,5 @@ Pluto is treated here as an **investigation** rather than a settled fact: whethe
 
 ---
 
-Keywords: #pluto
+Keywords: #Pluto
 

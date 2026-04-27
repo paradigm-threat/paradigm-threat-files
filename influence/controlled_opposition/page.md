@@ -18,7 +18,7 @@ If a good number of people know it—they most likely want them to know it.
 
 ---
 
-Keywords: #controlled #opposition
+Keywords: #Controlled #Opposition
 
 ---
 

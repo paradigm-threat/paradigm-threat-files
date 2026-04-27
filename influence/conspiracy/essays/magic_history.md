@@ -56,5 +56,5 @@ So, the narratives the Nefarious Elite insert into the media about magic should 
 
 ---
 
-Keywords: #magichistory #magic #silly #people
+Keywords: #Magichistory #Magic #Silly #People
 

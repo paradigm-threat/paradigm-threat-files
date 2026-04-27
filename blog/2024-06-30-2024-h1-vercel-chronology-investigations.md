@@ -60,5 +60,5 @@ The shift toward Vercel and the image/embed pipeline set up the site for faster 
 
 ---
 
-Keywords: #2024 #h1 #vercel #mars
+Keywords: #2024 #H1 #Vercel #Mars
 

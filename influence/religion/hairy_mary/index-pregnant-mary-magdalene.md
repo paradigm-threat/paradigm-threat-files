@@ -42,5 +42,5 @@ If you are interested in details of the analysis made by professor Jolly, check 
 
 ---
 
-Keywords: #pregnant #mary #magdalene
+Keywords: #Pregnant #Mary #Magdalene
 

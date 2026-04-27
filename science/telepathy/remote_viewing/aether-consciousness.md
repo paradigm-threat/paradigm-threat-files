@@ -34,5 +34,5 @@ If the aether is a physical medium and fields can propagate through it (includin
 
 ---
 
-Keywords: #aether #consciousness #remote #viewing #physics
+Keywords: #Aether #Consciousness #Remote #Viewing #Physics
 

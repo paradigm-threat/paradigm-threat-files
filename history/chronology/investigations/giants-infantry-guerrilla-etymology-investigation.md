@@ -31,5 +31,5 @@ Do not merge **First Crusade (~1196)** polemics with **Kulikovo (1380)** branch 
 
 ---
 
-Keywords: #giants #infantry #guerrilla #etymology #children #crusade #lexical
+Keywords: #Giants #Infantry #Guerrilla #Etymology #Children #Crusade #Lexical
 

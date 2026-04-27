@@ -84,5 +84,5 @@ Index of passages in `lets-get-together.txt` relevant to the Paradigm Threat inv
 
 ---
 
-Keywords: #lets #get #together #let #clue
+Keywords: #Lets #Get #Together #Let #Clue
 

@@ -158,5 +158,5 @@ The timeline's [Passover of Comet Venus](/timeline/evt-the-passover-of-comet-ven
 
 ---
 
-Keywords: #white #excalibur #sulphur #mercury #vs #book #movie #managed #disclosure
+Keywords: #White #Excalibur #Sulphur #Mercury #Vs #Book #Movie #Managed #Disclosure
 

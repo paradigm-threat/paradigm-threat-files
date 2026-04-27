@@ -73,5 +73,5 @@ Come and investigate with us.
 
 ---
 
-Keywords: #2026 #new #project #dedicated #hidden
+Keywords: #2026 #New #Project #Dedicated #Hidden
 

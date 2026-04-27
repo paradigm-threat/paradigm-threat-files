@@ -52,5 +52,5 @@ grep -n "Silence\|psychic\|invisible\|entity\|plane\|astral\|occult\|transformat
 
 ---
 
-Keywords: #blackwood #algernon #downloaded #texts
+Keywords: #Blackwood #Algernon #Downloaded #Texts
 

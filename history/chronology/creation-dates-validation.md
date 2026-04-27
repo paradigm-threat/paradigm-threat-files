@@ -165,5 +165,5 @@ The article [timeline-synchronization.md](../articles/project-objective/timeline
 
 ---
 
-Keywords: #creation #dates #validation #jno #cook #date #claims
+Keywords: #Creation #Dates #Validation #Jno #Cook #Date #Claims
 

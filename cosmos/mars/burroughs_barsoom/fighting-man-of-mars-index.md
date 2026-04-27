@@ -25,5 +25,5 @@ Seventh novel in sequence. By 1931 Burroughs had established: dead seas, canals,
 
 ---
 
-Keywords: #fighting #man #mars #clue
+Keywords: #Fighting #Man #Mars #Clue
 

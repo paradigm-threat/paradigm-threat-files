@@ -98,5 +98,5 @@ The timeline is at [paradigmthreat.net/timeline](https://paradigmthreat.net/time
 
 ---
 
-Keywords: #2026 #update #new #articles #restructure #media #audit
+Keywords: #2026 #Update #New #Articles #Restructure #Media #Audit
 

@@ -83,5 +83,5 @@ New timeline article in chapter 14 (20th century):
 
 ---
 
-Keywords: #2026 #soul #science #israel #divide #conquer #divideandconquer
+Keywords: #2026 #Soul #Science #Israel #Divide #Conquer #Divideandconquer
 

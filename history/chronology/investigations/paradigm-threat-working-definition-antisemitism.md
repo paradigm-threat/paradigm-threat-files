@@ -190,4 +190,4 @@ It **is antisemitic** **under §1** to explain **Lenin** (or similar) as **actin
 
 ---
 
-Keywords: #antisemitism #definition #IHRA #JDA #Nexus #monolith #Jewish-dissent #Israel #historiography #religious-unity #paradigm-threat-files #working-definition #semitic #semites #philology #wilhelm-marr #anti-arab #christianity #language-family #monotheism #globalist #CIA #MI6 #influence-networks #LGBTQ #intra-jewish #ten-commandments #shadowban #deboost #censorship #harm
+Keywords: #Antisemitism #Definition #IHRA #JDA #Nexus #Monolith #JewishDissent #Israel #Historiography #ReligiousUnity #ParadigmThreatFiles #WorkingDefinition #Semitic #Semites #Philology #WilhelmMarr #AntiArab #Christianity #LanguageFamily #Monotheism #Globalist #CIA #MI6 #InfluenceNetworks #LGBTQ #IntraJewish #TenCommandments #Shadowban #Deboost #Censorship #Harm

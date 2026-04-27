@@ -59,5 +59,5 @@ Kay Swift (1897–1993), first woman to compose an entire Broadway score (*Fine 
 
 ---
 
-Keywords: #gershwin #kay #swift
+Keywords: #Gershwin #Kay #Swift
 

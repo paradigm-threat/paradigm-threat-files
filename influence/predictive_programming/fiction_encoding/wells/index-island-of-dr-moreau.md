@@ -198,5 +198,5 @@ grep -n -i "blood\|taste.*blood\|law\|revert\|beast\|sayer" wells/the-island-of-
 
 ---
 
-Keywords: #island #moreau
+Keywords: #Island #Moreau
 

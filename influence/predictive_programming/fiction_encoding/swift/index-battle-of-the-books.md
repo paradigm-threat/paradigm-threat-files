@@ -12,5 +12,5 @@
 
 ---
 
-Keywords: #battle #books #stub
+Keywords: #Battle #Books #Stub
 

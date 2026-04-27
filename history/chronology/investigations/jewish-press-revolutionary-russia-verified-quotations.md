@@ -165,4 +165,4 @@ The JDA adds **fifteen guidelines**, including sections that list conduct that i
 
 ---
 
-Keywords: #investigation #jewish-chronicle #american-hebrew #bolshevism #1919 #1920 #primary-sources #verified #quote-graphic #inventory #antisemitism #IHRA #JDA #Nexus #definitions #paradigm-threat-working-definition-antisemitism
+Keywords: #Investigation #JewishChronicle #AmericanHebrew #Bolshevism #1919 #1920 #PrimarySources #Verified #QuoteGraphic #Inventory #Antisemitism #IHRA #JDA #Nexus #Definitions #ParadigmThreatWorkingDefinitionAntisemitism

@@ -74,5 +74,5 @@ Index of passages in `youth.txt` relevant to the Paradigm Threat investigation. 
 
 ---
 
-Keywords: #youth #clue
+Keywords: #Youth #Clue
 

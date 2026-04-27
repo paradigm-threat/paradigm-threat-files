@@ -245,4 +245,4 @@ Under **Gaddafi**, **Libya** combined **large oil rents**, **central-bank reserv
 
 **Date:** 2026-04-11 — Initial file: Benghazi stand-down cluster; Gaddafi/West; Afghanistan; film narrative; gold/dinar; HR balance; Libya timeline; 2017 slavery reporting cites. **2026-04-11 (later):** *13 Hours* section — subtitle-verified “Stand down” / “Your country’s got to figure this shit out”; contrast HPSCI/PolitiFact; gaslighting/keyword hypothesis; Krasinski performance note; *Lions for Lambs* cluster; destabilization speculative lane. **2026-04-11 (later still):** Jack Silva interior monologue (“country that meant nothing to him”); Tanto/Boon “Holy War” / shorts exchange; timeline cross-read (Reverse Crusade IV, false-flag architecture, reverse-crusades appendix). **2026-04-11 (addendum):** *Three Kings* (1999)—quotes (Archie Gates, Conrad Vig), contrast with *13 Hours* / *Lions*, 1991 vs 2003 Iraq / Saddam arc, link to §6 gold.
 
-Keywords: #war #libya #benghazi #stand-down #gaddafi #afghanistan #13-hours #three-kings #iraq
+Keywords: #War #Libya #Benghazi #StandDown #Gaddafi #Afghanistan #13Hours #ThreeKings #Iraq

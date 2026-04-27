@@ -129,5 +129,5 @@ Index of passages in `Asimov-Isaac-I-Robot.pdf` relevant to the Paradigm Threat 
 
 ---
 
-Keywords: #robot #clue
+Keywords: #Robot #Clue
 

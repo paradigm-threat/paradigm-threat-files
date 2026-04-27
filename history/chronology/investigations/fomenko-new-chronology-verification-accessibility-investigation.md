@@ -288,4 +288,4 @@ Fomenko & Nosovskiy list **S. P. Novikov**, **A. A. Zaliznyak**, **V. L. Yanin**
 
 ---
 
-Keywords: #fomenko #new-chronology #verification #reproducibility #volume-functions #rachev #diacu #psrl #accessibility #open-science #critique #investigation
+Keywords: #Fomenko #NewChronology #Verification #Reproducibility #VolumeFunctions #Rachev #Diacu #PSRL #Accessibility #OpenScience #Critique #Investigation

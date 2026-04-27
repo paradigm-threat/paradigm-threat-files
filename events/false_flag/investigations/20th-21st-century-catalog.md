@@ -125,5 +125,5 @@ See [Ariel Sharon — Gaza, Coma, Controlled-Opposition Threads](ariel-sharon-ga
 
 ---
 
-Keywords: #20th #21st #catalog #false #flags #th #st
+Keywords: #20th #21st #Catalog #False #Flags #Th #St
 

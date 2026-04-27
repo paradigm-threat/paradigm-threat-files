@@ -41,5 +41,5 @@ Ruth Gordon Jones (1896–1985) had a seven-decade career—Broadway at 19, Lond
 
 ---
 
-Keywords: #ruth #gordon #hollywood #identity #latecareer #ascent
+Keywords: #Ruth #Gordon #Hollywood #Identity #Latecareer #Ascent
 

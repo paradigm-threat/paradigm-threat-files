@@ -48,7 +48,7 @@ Isaac Asimov (1920–1992) was born in Petrovichi, Soviet Russia (Smolensk Oblas
 
 ---
 
-Keywords: #isaac #asimov
+Keywords: #Isaac #Asimov
 
 ---
 

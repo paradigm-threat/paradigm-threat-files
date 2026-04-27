@@ -345,5 +345,5 @@ here: http://www.israelnationalnews.com/Articles/Article.aspx/15326#.VCLljPldXTo
 
 ---
 
-Keywords: #genocide #palestinian #people #international #law #rights #perspective
+Keywords: #Genocide #Palestinian #People #International #Law #Rights #Perspective
 

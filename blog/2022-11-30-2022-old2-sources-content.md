@@ -76,5 +76,5 @@ Hairy Mary became one of the early influence/religion investigations.
 
 ---
 
-Keywords: #2022 #old2 #sources #content #paradigmthreatold2 #rebuild #submodule #expansion
+Keywords: #2022 #Old2 #Sources #Content #Paradigmthreatold2 #Rebuild #Submodule #Expansion
 

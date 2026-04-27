@@ -53,5 +53,5 @@ The book is structured around:
 
 ---
 
-Keywords: #chaos #creation
+Keywords: #Chaos #Creation
 

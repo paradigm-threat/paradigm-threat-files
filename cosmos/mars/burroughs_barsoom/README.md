@@ -40,5 +40,5 @@ Burroughs had no known intelligence connections. Where did he obtain: polar forb
 
 ---
 
-Keywords: #readme #barsoom #series #clue #paradigm #threat
+Keywords: #Readme #Barsoom #Series #Clue #Paradigm #Threat
 

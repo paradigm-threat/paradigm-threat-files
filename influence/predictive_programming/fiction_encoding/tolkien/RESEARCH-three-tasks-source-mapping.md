@@ -455,5 +455,5 @@ He argues that the euhemeristic approach (gods were originally real kings) is no
 
 ---
 
-Keywords: #research #three #tasks #source #mapping #silmarillion #heimskringla #euhemerism #teutonic #mythology
+Keywords: #Research #Three #Tasks #Source #Mapping #Silmarillion #Heimskringla #Euhemerism #Teutonic #Mythology
 

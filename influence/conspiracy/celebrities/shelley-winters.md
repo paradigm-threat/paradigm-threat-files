@@ -40,5 +40,5 @@ Shelley Winters was born Shirley Schrift (1920) to Jewish immigrants in St. Loui
 
 ---
 
-Keywords: #shelley #winters #hollywood #identity #name #change
+Keywords: #Shelley #Winters #Hollywood #Identity #Name #Change
 

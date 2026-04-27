@@ -246,4 +246,4 @@ See **§5.2** — **`09.html`**: **first strike on Christianity** + **splinter r
 
 ---
 
-Keywords: #afterlife #purgatory #bardo #protestantism #reformation #fomenko #rus-horde #new-chronology #ship-of-fools #comparative-religion
+Keywords: #Afterlife #Purgatory #Bardo #Protestantism #Reformation #Fomenko #RusHorde #NewChronology #ShipOfFools #ComparativeReligion

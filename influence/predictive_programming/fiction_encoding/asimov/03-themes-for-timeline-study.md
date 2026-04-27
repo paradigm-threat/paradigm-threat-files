@@ -123,5 +123,5 @@ Analytical angles for studying Asimov's work in light of the Paradigm Threat tim
 
 ---
 
-Keywords: #themes #study #isaac #asimov
+Keywords: #Themes #Study #Isaac #Asimov
 

@@ -55,5 +55,5 @@
 
 ---
 
-Keywords: #chessmen #mars #clue
+Keywords: #Chessmen #Mars #Clue
 

@@ -57,5 +57,5 @@ Until then: **speculation only; leave open.**
 
 ---
 
-Keywords: #wells #crystal #egg #1666 #beast #eggs #mass #influence #cover #story
+Keywords: #Wells #Crystal #Egg #1666 #Beast #Eggs #Mass #Influence #Cover #Story
 

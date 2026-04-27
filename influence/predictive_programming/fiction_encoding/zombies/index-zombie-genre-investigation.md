@@ -119,5 +119,5 @@ Among **major** zombie works (Seabrook, Lovecraft, Romero, Brooks, Davis, Whiteh
 
 ---
 
-Keywords: #zombie #genre
+Keywords: #Zombie #Genre
 

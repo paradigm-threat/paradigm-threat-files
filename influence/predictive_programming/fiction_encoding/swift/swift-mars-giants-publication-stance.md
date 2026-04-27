@@ -127,5 +127,5 @@ Arguments about **genre precursors** or **literary “tradition”** do **not** 
 
 ---
 
-Keywords: #swift #mars #giants #publication #stance #scale #beings #gulliver #sold #readers
+Keywords: #Swift #Mars #Giants #Publication #Stance #Scale #Beings #Gulliver #Sold #Readers
 

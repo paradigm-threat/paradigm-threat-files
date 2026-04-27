@@ -49,5 +49,5 @@ Jackie Chan (Chan Kong-sang) rose from Hong Kong stuntman to global action star.
 
 ---
 
-Keywords: #jackie #chan #political #allegiance #british #hong #kong
+Keywords: #Jackie #Chan #Political #Allegiance #British #Hong #Kong
 

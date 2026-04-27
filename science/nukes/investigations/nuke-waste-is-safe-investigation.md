@@ -482,5 +482,5 @@ Three public figures staked **their own bodies** on how ionizing exposure and nu
 
 ---
 
-Keywords: #nuke #waste #safe #galen #winsor #nuclear #alternative #framework
+Keywords: #Nuke #Waste #Safe #Galen #Winsor #Nuclear #Alternative #Framework
 

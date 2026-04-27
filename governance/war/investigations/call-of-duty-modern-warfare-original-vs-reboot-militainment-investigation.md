@@ -285,7 +285,7 @@ Use this list to strengthen the file over time; items overlap Limits where noted
 
 **Date:** 2026-04-18 — **§2.3** *MWIII* (2023): Makarov, *No Russian* revival, press controversy (GameSpot, PCGamesN, Guardian, Eurogamer “propaganda,” Kyiv Independent counter-read, Bloomberg timeline); author note first-camp / media environment. **§4.6 / Related:** U.S. *Office* as antibody vs Cruz / media GOP gridlock (link to [Cruz–Kevin investigation](./cruz-kevin-malone-deep-state-hypothesis-investigation.md#author-frame--us-the-office-not-uk-as-antibody); U.K. out of scope). **Consolidation pass (earlier 2026-04-18):** [Reader Guide](#guide-read-order); merged duplicate “Cross-links” into [Related investigations](#related-investigations); §4 renumbered (sample list §4.5; *Office* clues §4.6; thesis §4.7); §6 references §2.2 instead of repeating premise; synthesis hook folded into §6.3 end. Author instructions: [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md). **2026 session:** §4.6 *Office* clue thread (Krasinski / Jack Ryan / Red October / CIA); **extra rhymes** table (Golden Ticket, *The Lover* + Booze/Benihana); “time machine feeling” vs no literal precognition; local path details in [Investigator notes](#investigator-notes). Earlier edits: git history.
 
-Keywords: #war #call-of-duty #modern-warfare #militainment #iran #russia #infinity-ward #activision #benghazi #13-hours #proxy-war #video-games #antibody #deep-state #israel #cia
+Keywords: #War #CallOfDuty #ModernWarfare #Militainment #Iran #Russia #InfinityWard #Activision #Benghazi #13Hours #ProxyWar #VideoGames #Antibody #DeepState #Israel #CIA
 
 ---
 

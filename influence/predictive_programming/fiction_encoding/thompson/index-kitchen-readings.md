@@ -31,5 +31,5 @@ Memoir by Thompson's friends — Cleverly (longtime Woody Creek neighbor) and Br
 
 ---
 
-Keywords: #kitchen #readings #untold #stories #hunter #thompson
+Keywords: #Kitchen #Readings #Untold #Stories #Hunter #Thompson
 

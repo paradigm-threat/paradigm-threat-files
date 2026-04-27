@@ -213,5 +213,5 @@ The Plan 9 variant—**aliens resurrect dead → zombie armies → overwhelm cap
 
 ---
 
-Keywords: #ed #wood #plan9 #plan #outer #space
+Keywords: #Ed #Wood #Plan9 #Plan #Outer #Space
 

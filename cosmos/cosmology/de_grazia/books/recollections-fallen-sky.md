@@ -51,5 +51,5 @@ Presented before the *Kronos* and *SISR* journals (both founded later in the 197
 
 ---
 
-Keywords: #recollections #fallen #sky #velikovsky #cultural #amnesia
+Keywords: #Recollections #Fallen #Sky #Velikovsky #Cultural #Amnesia
 

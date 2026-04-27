@@ -120,5 +120,5 @@ mercy of anyone who knows how to manipulate those frequencies, and us..
 
 ---
 
-Keywords: #gus
+Keywords: #Gus
 

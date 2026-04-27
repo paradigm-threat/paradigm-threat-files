@@ -80,5 +80,5 @@ GitHub has been **shipping Copilot and AI surfaces aggressively**; user pushback
 
 ---
 
-Keywords: #github #ban #happened #account
+Keywords: #Github #Ban #Happened #Account
 

@@ -53,5 +53,5 @@ Collection of Thompson's journalism from 1968–1976: Nixon campaigns, Watergate
 
 ---
 
-Keywords: #great #shark #hunt #governmentantagonistic #highlights
+Keywords: #Great #Shark #Hunt #Governmentantagonistic #Highlights
 

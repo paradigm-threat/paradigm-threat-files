@@ -188,5 +188,5 @@ Under this assumption, the cyclic world changes (market crashes, wars, regime sh
 
 ---
 
-Keywords: #mars #stock #market #correlation #celestial
+Keywords: #Mars #Stock #Market #Correlation #Celestial
 

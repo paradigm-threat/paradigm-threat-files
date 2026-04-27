@@ -33,5 +33,5 @@ Part of a broader inquiry into: (1) the exploitation of LGBTQIA+ and gender-nonc
 
 ---
 
-Keywords: #identity #methodology
+Keywords: #Identity #Methodology
 

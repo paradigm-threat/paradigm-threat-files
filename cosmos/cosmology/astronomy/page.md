@@ -176,7 +176,7 @@ nope!
 
 ---
 
-Keywords: #astronomy #simulated #universe
+Keywords: #Astronomy #Simulated #Universe
 
 ---
 

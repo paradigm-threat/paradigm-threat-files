@@ -4,5 +4,5 @@
 
 ---
 
-Keywords: #chatchrist #christ #chat
+Keywords: #Chatchrist #Christ #Chat
 

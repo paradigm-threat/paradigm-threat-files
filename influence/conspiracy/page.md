@@ -43,7 +43,7 @@ Investigations and essays on suppressed truth and manufactured narratives.
 
 ---
 
-Keywords: #suppressed #fake
+Keywords: #Suppressed #Fake
 
 ---
 

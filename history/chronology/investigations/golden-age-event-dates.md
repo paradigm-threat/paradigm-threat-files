@@ -140,5 +140,5 @@ Two Golden-Age-themes pages — **revolving-crescent.htm** (Revolving Crescent o
 
 ---
 
-Keywords: #golden #event #dates #jno #cook #talbott
+Keywords: #Golden #Event #Dates #Jno #Cook #Talbott
 

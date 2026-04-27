@@ -39,5 +39,5 @@ Galatians 5:2–4
 
 ---
 
-Keywords: #circumcisioncult #reality #no #person #like #abraham
+Keywords: #Circumcisioncult #Reality #No #Person #Like #Abraham
 

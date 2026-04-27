@@ -4,5 +4,5 @@
 
 ---
 
-Keywords: #achat #genocide #chatroom
+Keywords: #Achat #Genocide #Chatroom
 

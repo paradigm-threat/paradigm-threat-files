@@ -56,5 +56,5 @@ grep -n "Davidson\|island\|south sea\|displaced.*eyes\|saw.*instead" wells/count
 
 ---
 
-Keywords: #wells #downloaded #texts
+Keywords: #Wells #Downloaded #Texts
 

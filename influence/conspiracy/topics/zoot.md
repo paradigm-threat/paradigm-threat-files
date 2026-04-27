@@ -67,5 +67,5 @@ That is exactly how the process works.  A vile alchemy of degradation and cruelt
 
 ---
 
-Keywords: #zoot #suit #riot
+Keywords: #Zoot #Suit #Riot
 

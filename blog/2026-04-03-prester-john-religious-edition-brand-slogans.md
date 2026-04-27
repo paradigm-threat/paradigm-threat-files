@@ -56,5 +56,5 @@
 
 ---
 
-Keywords: #2026 #prester #john #religious #edition #brand #slogans #nc #dossier #jacob #ladder #eckhart #cathar #khazar #suppression #chronologia #perspective #site #april
+Keywords: #2026 #Prester #John #Religious #Edition #Brand #Slogans #Nc #Dossier #Jacob #Ladder #Eckhart #Cathar #Khazar #Suppression #Chronologia #Perspective #Site #April
 

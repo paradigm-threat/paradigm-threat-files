@@ -78,5 +78,5 @@
 
 ---
 
-Keywords: #koji #kondo
+Keywords: #Koji #Kondo
 

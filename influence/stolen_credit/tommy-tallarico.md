@@ -59,5 +59,5 @@
 
 ---
 
-Keywords: #tommy #tallarico
+Keywords: #Tommy #Tallarico
 

@@ -166,5 +166,5 @@ The mirror was retrieved with `wget --mirror --convert-links --adjust-extension 
 
 ---
 
-Keywords: #thunderbolts #info #site
+Keywords: #Thunderbolts #Info #Site
 

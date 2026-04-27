@@ -59,5 +59,5 @@ Contributors include Ralph Juergens (electromagnetic basis for Velikovsky's clai
 
 ---
 
-Keywords: #velikovsky #affair #scientism #vs #science
+Keywords: #Velikovsky #Affair #Scientism #Vs #Science
 

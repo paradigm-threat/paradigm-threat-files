@@ -115,5 +115,5 @@
 
 ---
 
-Keywords: #minako #hamano
+Keywords: #Minako #Hamano
 

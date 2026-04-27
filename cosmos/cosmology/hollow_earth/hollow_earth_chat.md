@@ -4,5 +4,5 @@
 
 ---
 
-Keywords: #hollowearthchat #hollow #chatroom
+Keywords: #Hollowearthchat #Hollow #Chatroom
 

@@ -432,5 +432,5 @@ For a much more thorough explanation of Solar Mythology and how it parallels the
 
 ---
 
-Keywords: #astrology #solar #mythology #jesus #story
+Keywords: #Astrology #Solar #Mythology #Jesus #Story
 

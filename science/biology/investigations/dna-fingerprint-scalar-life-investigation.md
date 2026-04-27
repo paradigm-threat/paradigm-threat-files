@@ -179,5 +179,5 @@ The [Cathars](https://en.wikipedia.org/wiki/Catharism) (Albigensians) of medieva
 
 ---
 
-Keywords: #dna #fingerprint #scalar #life #blueprint #zpe #medium #first #ontogeny
+Keywords: #Dna #Fingerprint #Scalar #Life #Blueprint #Zpe #Medium #First #Ontogeny
 

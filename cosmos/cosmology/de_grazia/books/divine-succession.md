@@ -54,5 +54,5 @@ The appendix on celestial mechanics is specifically noted by Jno Cook for its te
 
 ---
 
-Keywords: #divine #succession #science #gods #old #new
+Keywords: #Divine #Succession #Science #Gods #Old #New
 

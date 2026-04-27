@@ -100,5 +100,5 @@ Per [mars-fiction-survey.md](mars-fiction-survey.md):
 
 ---
 
-Keywords: #arnold #gullivar #jones #reference #lieut #his #vacation #document
+Keywords: #Arnold #Gullivar #Jones #Reference #Lieut #His #Vacation #Document
 

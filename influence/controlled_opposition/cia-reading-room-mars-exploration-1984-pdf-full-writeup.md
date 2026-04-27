@@ -276,6 +276,4 @@ Approximate order as **MON** issues moves (all **in the time on the card** unles
 
 ---
 
-## Keywords
-
-#MarsExploration1984 #MARSExploration #RemoteViewing #Stargate #ReadingRoom #CIAReadingRoom #MONSUB #SealedEnvelope #MarsCoordinates #DeclassifiedPDF #FOIA #May221984 #RDP96MarsSession
+Keywords: #MarsExploration1984 #MARSExploration #RemoteViewing #Stargate #ReadingRoom #CIAReadingRoom #MONSUB #SealedEnvelope #MarsCoordinates #DeclassifiedPDF #FOIA #May221984 #RDP96MarsSession

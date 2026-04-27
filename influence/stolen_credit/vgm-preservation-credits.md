@@ -68,5 +68,5 @@
 
 ---
 
-Keywords: #vgm #preservation #credits #publisher #credit #policies
+Keywords: #Vgm #Preservation #Credits #Publisher #Credit #Policies
 

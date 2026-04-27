@@ -58,5 +58,5 @@ grep -n "bowmen\|angels\|Mons\|fiction\|true\|invented\|legend" machen/the-angel
 
 ---
 
-Keywords: #machen #arthur #downloaded #texts
+Keywords: #Machen #Arthur #Downloaded #Texts
 

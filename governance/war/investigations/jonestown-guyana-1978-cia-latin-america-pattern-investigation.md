@@ -122,5 +122,5 @@ After the Church Committee and **Hughes–Ryan (1974)**, official and semi-offic
 
 ---
 
-Keywords: #jonestown #guyana #1978 #cia #latin #america #pattern #november #disputed #narratives #footprint #central #american #parallels
+Keywords: #Jonestown #Guyana #1978 #CIA #Latin #America #Pattern #November #Disputed #Narratives #Footprint #Central #American #Parallels
 

@@ -50,5 +50,5 @@ Asset stat generation and VideoAsset refactor were among the last significant ch
 
 ---
 
-Keywords: #2023 #q1 #q2 #asset #overhaul #final #old2 #iteration
+Keywords: #2023 #Q1 #Q2 #Asset #Overhaul #Final #Old2 #Iteration
 

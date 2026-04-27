@@ -10,5 +10,5 @@ description: "Investigations into misattribution, narrative capture, and documen
 
 ---
 
-Keywords: #article
+Keywords: #Article
 

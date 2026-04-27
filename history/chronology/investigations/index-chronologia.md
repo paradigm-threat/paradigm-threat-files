@@ -139,5 +139,5 @@ Also captured: `en/seven/` (overview), `en/e_books/`, `en/articles/` (incl. Marf
 
 ---
 
-Keywords: #chronologia #org #site
+Keywords: #Chronologia #Org #Site
 

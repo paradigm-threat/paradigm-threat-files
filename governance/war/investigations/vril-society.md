@@ -148,5 +148,5 @@ The dominant Vril narrative attributes channeled contact to **Aldebaran** (68 li
 
 ---
 
-Keywords: #vril #society #claim #debunk #redaction #potential
+Keywords: #Vril #Society #Claim #Debunk #Redaction #Potential
 

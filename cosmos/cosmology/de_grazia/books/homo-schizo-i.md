@@ -45,5 +45,5 @@ This volume focuses on *cultural hologenesis* — the simultaneous emergence of 
 
 ---
 
-Keywords: #homo #schizo #cultural #hologenesis
+Keywords: #Homo #Schizo #Cultural #Hologenesis
 

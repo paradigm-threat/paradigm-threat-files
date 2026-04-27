@@ -109,5 +109,5 @@ Lee trained under Ip Man from age 13 for approximately four and a half years. [U
 
 ---
 
-Keywords: #bruce #lee #death #identity #wing #chun #british #suppression #female #martial #arts
+Keywords: #Bruce #Lee #Death #Identity #Wing #Chun #British #Suppression #Female #Martial #Arts
 

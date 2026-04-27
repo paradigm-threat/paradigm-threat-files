@@ -101,5 +101,5 @@ If yes to **off-rail** patterns, **name the drift** and return to **content and 
 
 ---
 
-Keywords: #swift #debate #rails #drift #sentiment #record
+Keywords: #Swift #Debate #Rails #Drift #Sentiment #Record
 

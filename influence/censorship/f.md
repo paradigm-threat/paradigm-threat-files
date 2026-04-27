@@ -40,5 +40,5 @@ solution is to advocate that government stop the regulation that it’s currentl
 
 ---
 
-Keywords: #facebook #twitter #censor #speech
+Keywords: #Facebook #Twitter #Censor #Speech
 

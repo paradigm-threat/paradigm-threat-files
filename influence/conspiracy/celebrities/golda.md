@@ -138,5 +138,5 @@ Before partitioning Palestine, Britain imposed similar divide-and-rule structure
 
 ---
 
-Keywords: #golda #meir #identity #british #orchestration #israel #creation
+Keywords: #Golda #Meir #Identity #British #Orchestration #Israel #Creation
 

@@ -99,5 +99,5 @@ The Russian Orthodox Church had this book banned as *'harmful to the Orthodox Ch
 
 ---
 
-Keywords: #offenbarung #die #johannis #english
+Keywords: #Offenbarung #Die #Johannis #English
 

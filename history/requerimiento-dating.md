@@ -30,5 +30,5 @@ The Requerimiento (Spanish legal declaration read to indigenous peoples before c
 
 ---
 
-Keywords: #requerimiento #dating
+Keywords: #Requerimiento #Dating
 

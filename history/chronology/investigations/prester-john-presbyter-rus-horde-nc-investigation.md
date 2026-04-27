@@ -75,5 +75,5 @@ Standard history: [Presbyterianism](https://en.wikipedia.org/wiki/Presbyterianis
 
 ---
 
-Keywords: #prester #john #presbyter #rus #horde #nc #ioannes #christian #east #author #thesis
+Keywords: #Prester #John #Presbyter #Rus #Horde #Nc #Ioannes #Christian #East #Author #Thesis
 

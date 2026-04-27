@@ -55,5 +55,5 @@ New and updated content since the previous blog entry (2026-03-16): this post; h
 
 ---
 
-Keywords: #2026 #authors #cataclysm #controlled #opposition #read
+Keywords: #2026 #Authors #Cataclysm #Controlled #Opposition #Read
 

@@ -2349,5 +2349,5 @@ philologist who traced the words backward to their origins.
 
 ---
 
-Keywords: #tolkien #redacted #fact #fiction
+Keywords: #Tolkien #Redacted #Fact #Fiction
 
