@@ -263,9 +263,10 @@ Approximate order as **MON** issues moves (all **in the time on the card** unles
 
 ## 8. Related in-repo files
 
-- [CIA Reading Room — Mars, RV, two-way, Iran / revival investigation](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md) — **hypothesis frame**, **§7.4.2** local mirror negative find, **Super Cockpit** rhyme.
+- [CIA Reading Room — Mars, RV, two-way, Iran / revival investigation](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md) — **hypothesis frame**, **§7.4.2** local mirror negative find, **Super Cockpit** rhyme, **§7.4.5** **Mars MFEE** phase correlation (before / pulse / after).
 - [Plain transcript (.txt)](cia-reading-room-mars-exploration-1984-transcript.txt) — **MON/SUB** + acquisition block (machine extract).
 - Local mirror ops (outside **paradigm-threat-files**): `~/dev/wget/cia/cia-reading-room-local-mirror-and-ocr-operations.md`
+- **Timeline:** [The MudFlood & World Cataclysm](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm) (paradigm-threat-timeline) cites this PDF for **MFEE phenomenology** cross-read.
 
 ---
 
