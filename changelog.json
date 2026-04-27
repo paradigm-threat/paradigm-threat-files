@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-27T11:46:24.882Z",
+    "date": "2026-04-27T12:19:56.490Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-27T11:46:24.000Z",
+    "message": "Reading Room investigation: online deep dive, wget paths; æther LLM canon",
     "files": [
       {
         "status": "A",
@@ -758,18 +776,5 @@
         "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-26T13:09:09.000Z",
-    "message": "Antisemitism §1.5: Christian Semites = Semitic Christianity + demographics; not Arab-only hook",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md",
-        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism"
-      }
-    ],
-    "images": []
   }
 ]
