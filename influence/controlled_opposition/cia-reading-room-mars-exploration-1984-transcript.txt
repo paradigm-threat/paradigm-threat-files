@@ -27,7 +27,8 @@ Rebuild from PDF with the investigator note in the Mars investigation
 Companion markdown in this directory:
   cia-reading-room-mars-exploration-1984-pdf-full-writeup.md
   cia-reading-room-mars-exploration-1984-rv-investigation.md
-  cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md
+  cia-reading-room-rv-two-way-iran-revival-investigation.md
+  cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md (stub → canonical Iran/two-way file)
 ================================================================================
 
 
