@@ -18,7 +18,10 @@ This file normalizes • to "." and middle-dot separators in release banners
 
 Reflow: each MON/SUB/MaN turn is one paragraph (line breaks from pdftotext
 removed); "Approved For Release" page banners stay on their own lines between
-chunks. Rebuild from PDF with the investigator note in the Mars investigation.
+chunks. **Page splits:** if one speaker’s sentence continues after a banner,
+merge the fragments (see MON block before “who you are … predicament?”).
+**PDF text-layer typo:** “comet’s **tailor**” → read **tail or** (comet’s tail).
+Rebuild from PDF with the investigator note in the Mars investigation.
 
 Companion markdown in this directory:
   cia-reading-room-mars-exploration-1984-pdf-full-writeup.md
@@ -335,18 +338,13 @@ The raw data?
 
 SUB:
 
-Oh, I get a globe ..... ah ... it's like a globe that goes through a comet's tailor .... it's through a river of something, but it's all very cosmic. It's like space pictures.
+Oh, I get a globe ..... ah ... it's like a globe that goes through a comet's tail or .... it's through a river of something, but it's all very cosmic. It's like space pictures.
 
 MON:
 
-All right, now before you leave this individual, ask him if there is any way that you, ask him if he knows
+All right, now before you leave this individual, ask him if there is any way that you, ask him if he knows who you are and is there any way you can help him in his present predicament?
 
 Approved For Release 2000/08/08 : CIA-RDP96-00788R001900760001-9
-
-
-Approved For Release 2000/08/08 : CIA-RDP96-00788R001900760001-9
-
-who you are and is there any way you can help him in his present predicament?
 
 SUB:
 

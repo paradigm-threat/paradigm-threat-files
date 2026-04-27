@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-27T13:58:12.229Z",
+    "date": "2026-04-27T14:02:51.430Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
+        "alt": "CIA Reading Room — Mars RV, two-way influence, Iran / religious-revival investigation (header)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-27T13:58:11.000Z",
+    "message": "Mars CIA RV: §7.4.5 MFEE-phase reinterpretation + cross-links",
     "files": [
       {
         "status": "M",
@@ -454,32 +477,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-26T23:55:50.000Z",
     "message": "Cruz/Kevin investigation: The Alliance optional survival-alliance political read",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      },
-      {
-        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
-        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
-      },
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-26T23:48:14.000Z",
-    "message": "Cruz/Kevin investigation: S1E3 Health Care political read; S1E4 The Alliance + Trump on camera (cited)",
     "files": [
       {
         "status": "M",
