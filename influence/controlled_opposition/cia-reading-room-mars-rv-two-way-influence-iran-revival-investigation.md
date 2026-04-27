@@ -132,7 +132,7 @@ Under the **author frame**: **Mars 1984** → life / migration / shelter / craft
 
 ### 7.4 Mars RV — canonical PDF, mirrors, search noise
 
-**A-tier:** [*MARS EXPLORATION, May 22, 1984* (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [document landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9). **C-tier** (checksum vs A): [Giza Death Star essay](https://gizadeathstar.com/2019/11/the-cia-remote-viewed-mars-in-1984/); [Black Vault mirror PDF](https://documents2.theblackvault.com/documents/cia/CIA-RDP96-00788R001900760001-9.pdf); [THOLONIA HTML](https://tholonia.github.io/material/material_MARS_EXPLORATION_MAY_22_1984.html). Broad search returns **many unrelated** PDFs — use **direct** URLs. **In-repo digest:** **§7.4.1–§7.4.4**; companion [**full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
+**A-tier:** [*MARS EXPLORATION, May 22, 1984* (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [document landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9). **C-tier** (checksum vs A): [Giza Death Star essay](https://gizadeathstar.com/2019/11/the-cia-remote-viewed-mars-in-1984/); [Black Vault mirror PDF](https://documents2.theblackvault.com/documents/cia/CIA-RDP96-00788R001900760001-9.pdf); [THOLONIA HTML](https://tholonia.github.io/material/material_MARS_EXPLORATION_MAY_22_1984.html). Broad search returns **many unrelated** PDFs — use **direct** URLs. **In-repo digest:** **§7.4.1–§7.4.5**; companion [**full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
 
 #### 7.4.1 Primary identification: author slide and official *Mars Exploration* PDF
 
@@ -163,6 +163,27 @@ The acquisition block quotes the sealed **3×5 card** as targeting time **“app
 **Declassification caveat:** redaction is often imagined as **black rectangles** on a scan; in practice, reviewers also produce **clean re-typings**, **summary sheets**, or **substituted prose** so the **public PDF line** need not match what sat on the **original card** (hypothesis bucket, **unproven** here): **digits + era marker inserted** for narrative effect; **entire date line replaced** with a **dummy**; or the phrase was **always in-protocol fiction** — none of which converts the English clause into **independent Martian chronology**.
 
 **Bar:** treat the **million-year B.C.** line as **tasking rhetoric in the released file**, not as **constraint on what happened** unless **non-PDF** chain-of-custody ties the quote to an **imaged physical card** (open question **§6** item **7**).
+
+#### 7.4.5 Mars **MFEE** read — whole transcript as **before / pulse / after** on Mars (correlation map)
+
+> **Framing:** This subsection applies the repo’s **MudFlood Energetic Event (MFEE)** vocabulary for **Mars** (surface **cataclysm**, **hydraulic / aeolian** tail, **population** under **collapse**, **evacuation** / **fallback** ecologies) — see [Mud flood & MFEE hub](/history/mudflood/page.md), [MFEE investigation](/history/mudflood/investigations/mfee-investigation.md), [cosmos Mars — MFEE damage to surface cities](/cosmos/mars/page.md), [slow ecological collapse — MFEE tail](/history/chronology/investigations/slow-ecological-collapse-mfee-through-donner-era.md), [spore / post-MFEE Martian ecology (fiction + evidence)](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md). It **does not** treat the RV file as **independent proof** of the MFEE timeline on Mars; it records **how the dialogue lines up** if the session is read as **witness phenomenology** around a **recent** planet-scale event rather than as **literal deep-time tourism**.
+
+Under that read, the **coordinate walk** is less “random sci-fi tour” and more **sampling the same wound at different scales** (monument → basin → channel → storm shell → interior survival volume), while **MON’s time discipline** holds the viewer on a **fixed catastrophe epoch** (card text remains **provenance-suspect** per **§7.4.4**).
+
+| Phase (Mars-local) | MFEE / post-MFEE construct (site vocabulary) | What the transcript is doing (SUB / MON) |
+|--------------------|---------------------------------------------|-------------------------------------------|
+| **Still baseline** | Intact **megalithic** civil surface — pyramids, engineered **depressions**, warm-mineral palette | **Pyramid / okra** opening; **megalithic** walls when MON rolls **back** from the **storm** — explicit **before** picture |
+| **Pulse / strike** | Atmosphere–regolith coupling: the same class of **world-scale energetic** episode that, on Earth, throws **mud**, **dust**, and **instant geomorph** signatures | **Severe dust storm**, **geologic problem**, **“after effect of a major”** geologic crisis language; **cosmic** **globe / comet tail** metaphor when pushed for **cause** — matches **discharge / coupling** diction used elsewhere for MFEE |
+| **Shadow population** | Telepath / tall-form culture under stress (cf. [cosmos Mars — telepathic factions vs technocrats](/cosmos/mars/page.md)) | **Shadow** → **very large thin** figures; **fitted** garments; later **ancient**, **dying**, **philosophic** — **end-state population** not tourists |
+| **Shelter / hibernation** | Post-strike **surface abandonment** logic — stripped interiors, **wait out** savage weather | **Pyramids / structures “filtered from storms”**, **sleep through storms**, **stripped chambers**, **functional** only — **bunker / hibernation** read |
+| **Corruption tail** | **Slow collapse** after the acute pulse | **Corruption of their environment**, **failing very rapidly**, **can’t find a way out** — same **tail grammar** as Earth-side **post-MFEE ecology** files |
+| **Evacuation column** | **Party sent** to find **viable band** elsewhere | **Group … went … a long way** to find **another place to live** — **evacuation corridor**, not tourism |
+| **Fallback biome** | **Secondary hazard** band: **volcanism**, **gas**, **novel** stressed flora — “**frying pan into the fire**” as **worse** niche than dead plain | **Volcanos**, **gas pockets**, **strange plants**, **volatile**, **different storm** after the **boat** transition — lines up with **post-MFEE “sanitization / new weed”** investigative layer in [spore / cylinders file](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md) |
+| **Metal hull transition** | Mass off-surface or **subsurface** movement of survivors / assets (repo rhymes: **craft**, **tunnels**, **CERN** threads on [cosmos Mars](/cosmos/mars/page.md) — **hypothesis only**) | **Inside a larger boat**, **rounded walls**, **shiny metal** — **pressure hull** phenomenology, not a wooden **boat** in the archaeological sense |
+
+**Why this belongs in the Iran / revival file:** MFEE-scale **collapse + evacuation** on Mars is the **material underside** of the same century where this file tests **“two-way”** influence and **religious-revival** phenomenology on Earth: not **identity** of mechanisms, but **shared disaster grammar** (storm → shelter → remnant → migration story) worth **cross-indexing** when evaluating **how literally** to take RV language.
+
+**Plain-text for grep / LLM chunking:** [`.txt` transcript](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt). **Timeline cross-index:** [MudFlood & World Cataclysm](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm) (paradigm-threat-timeline) now cites this anchor.
 
 ### 7.5 MKULTRA (Reading Room anchors)
 
@@ -198,7 +219,7 @@ The acquisition block quotes the sealed **3×5 card** as targeting time **“app
 
 ## Keywords
 
-CIA Reading Room, Mars, remote viewing, STARGATE, Iran, Islamic revolution, Ayatollah, religious revival, influence, beacon, Mars RV, MARS EXPLORATION 1984, life on Mars, technology on Mars, hollow Earth fork, FOIA, CREST, AIR evaluation, disclosure, MKULTRA, Project Forecast II, Super Cockpit, Thomas Furness, Wright-Patterson, human–machine interface, two-way perception, tasking card provenance, declassification substitution
+CIA Reading Room, Mars, remote viewing, STARGATE, Iran, Islamic revolution, Ayatollah, religious revival, influence, beacon, Mars RV, MARS EXPLORATION 1984, life on Mars, technology on Mars, hollow Earth fork, FOIA, CREST, AIR evaluation, disclosure, MKULTRA, Project Forecast II, Super Cockpit, Thomas Furness, Wright-Patterson, human–machine interface, two-way perception, tasking card provenance, declassification substitution, MFEE, MudFlood Energetic Event, Mars catastrophe, post-MFEE ecology
 
 ---
 
@@ -206,7 +227,7 @@ CIA Reading Room, Mars, remote viewing, STARGATE, Iran, Islamic revolution, Ayat
 
 **Author frame** (literal Mars read of `CIA-RDP96-00788R001900760001-9`, provisional **Super Cockpit–class two-way** as **real**, CIA **deception** as background) applies **inside this `.md` only** — not **settled science**, **court fact**, or **default** elsewhere in the repo.
 
-No operational or medical claims. **Author** blocks = **stakes**; not automatic fact for strangers. Cross-links = **thematic**. **§7.4.1** keeps **skeptical** read for readers who reject the author frame; **§7.4.3** + companion writeup state **what the PDF text contains** without requiring the author frame; **§7.4.4** flags the **card epoch line** as **provenance-suspect**, not **precision science**.
+No operational or medical claims. **Author** blocks = **stakes**; not automatic fact for strangers. Cross-links = **thematic**. **§7.4.1** keeps **skeptical** read for readers who reject the author frame; **§7.4.3** + companion writeup state **what the PDF text contains** without requiring the author frame; **§7.4.4** flags the **card epoch line** as **provenance-suspect**, not **precision science**; **§7.4.5** gives a **Mars MFEE** correlation map (pattern-tier, not proof).
 
 ---
 

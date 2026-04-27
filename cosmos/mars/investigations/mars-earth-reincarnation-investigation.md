@@ -66,7 +66,7 @@ For correlation: if we treat his **birth (1996)** as a possible reincarnation wi
 
 | Document / program | Date | Content | Relevance to reincarnation / population |
 |--------------------|------|---------|----------------------------------------|
-| **CIA Stargate — Mars Exploration** | May 22, 1984 | Remote viewing session; coordinates 40.89°N, 9.55°W on Mars, **1 million years B.C.**; subject reported pyramid-like structures, dust storms, megalithic walls, **tall thin figures (ancient Martians)**, environmental collapse, shelters, channels. | **Consciousness accessing Mars** (RV); “ancient Martians” + collapse; no explicit soul transfer—documents **official interest in Mars + consciousness** in same timeframe as Boriska narrative (b. 1996). |
+| **CIA Stargate — Mars Exploration** | May 22, 1984 | Remote viewing session; coordinates 40.89°N, 9.55°W on Mars, **1 million years B.C.**; subject reported pyramid-like structures, dust storms, megalithic walls, **tall thin figures (ancient Martians)**, environmental collapse, shelters, channels. | **Consciousness accessing Mars** (RV); “ancient Martians” + collapse; no explicit soul transfer—documents **official interest in Mars + consciousness** in same timeframe as Boriska narrative (b. 1996). **MFEE-phase correlation map** (before / pulse / after on Mars): [CIA Mars RV investigation §7.4.5](/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md). |
 | **Stargate Collection (CIA)** | 1984 | 36 items on Mars exploration research (1984). | Full set to be searched for population, migration, or “transfer” language. |
 
 **FOIA / correlation checklist (action items):**
