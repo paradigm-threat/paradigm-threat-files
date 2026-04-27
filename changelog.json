@@ -1,8 +1,34 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-27T14:02:51.430Z",
+    "date": "2026-04-27T14:11:05.953Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-journey.png",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-journey.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-journey.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
+        "alt": "Mars Exploration 1984 — declassified PDF digest (figure)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-27T14:02:50.000Z",
+    "message": "Mars transcript: fix MON split at page break; comet tail or wording",
     "files": [
       {
         "status": "M",
@@ -451,32 +477,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-27T10:53:02.000Z",
     "message": "Cruz/Kevin investigation: basketball major-find sentiment; Cruz Kimmel 2018; table row",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      },
-      {
-        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
-        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
-      },
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-26T23:55:50.000Z",
-    "message": "Cruz/Kevin investigation: The Alliance optional survival-alliance political read",
     "files": [
       {
         "status": "M",
