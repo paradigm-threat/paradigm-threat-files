@@ -19,7 +19,7 @@ Mars Exploration 1984 — declassified PDF digest (figure)
 | **A-tier PDF**            | [cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf)                                    |
 | **Landing**               | [document page](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9)                                                                                  |
 | **Form**                  | Cover / acquisition instructions + **MON/SUB** **TRANSCRIPT**                                                                                                             |
-| **Release line (banner)** | “Approved For Release 2000/08/08 : CIA-RDP96-00788R001900760001-9” (appears on pages)                                                                                     |
+| **Release line (banner)** | “Approved For Release 2000/08/08 : CIA-RDP96-00788R001900760001-9” (appears on pages) — **date stamp only**; not a FOIA case narrative (**parent §7.4.7**)                                                                                     |
 | **Plain text (in-repo)**  | `[cia-reading-room-mars-exploration-1984-transcript.txt](cia-reading-room-mars-exploration-1984-transcript.txt)` — `**pdftotext`** extract; verify against **A-tier PDF** |
 
 

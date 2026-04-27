@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-27T15:22:59.887Z",
+    "date": "2026-04-27T15:25:39.634Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
+        "alt": "CIA Reading Room — Mars RV, two-way influence, Iran / religious-revival investigation (header)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-27T15:22:59.000Z",
+    "message": "Mars CIA RV investigation: author conclusion (1984 present civ, misdirection, RV memory); trim body disclaimers",
     "files": [
       {
         "status": "M",
@@ -3913,24 +3936,6 @@
     "date": "2026-04-27T12:24:19.000Z",
     "message": "Investigation: add Forecast II / Super Cockpit §7.6 (two-way HMI analogy).",
     "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-27T12:19:55.000Z",
-    "message": "Slim CIA Reading Room investigation; document local ops outside repo.",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
-        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
-      },
       {
         "status": "M",
         "path": "influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation.md",
