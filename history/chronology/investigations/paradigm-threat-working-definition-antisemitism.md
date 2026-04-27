@@ -175,7 +175,7 @@ It **is antisemitic** **under §1** to explain **Lenin** (or similar) as **actin
 ## 7. Cross-reads
 
 - [Jewish press on revolutionary Russia — verified quotations](/history/chronology/investigations/jewish-press-revolutionary-russia-verified-quotations.md) — **primaries** on revolution-era **Jewish press**; **§8** compares **IHRA / Nexus / JDA**.
-- [CIA Reading Room — RV, influence, Iran hypothesis](/influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation.md) — institutional **psychotechnology** and **religious** frames (separate evidence tier).
+- [CIA Reading Room — Mars, RV, influence, Iran hypothesis](/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md) — institutional **psychotechnology** and **religious** frames (separate evidence tier).
 - [The word *Jew* — terminology investigation](/history/chronology/investigations/jew-word-terminology-judas-judicial.md) — linguistic **Judas / judicial** strand.
 
 ---
