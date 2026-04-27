@@ -6,10 +6,10 @@
 
 > **Author sentiment (explicit):** The main investigative target is whether **U.S. intelligence exploration of anomalous cognition** (remote viewing and adjacent programs) could overlap—organizationally, doctrinally, or in popular interpretation—with **events framed in religious terms** (e.g. late‑1970s / 1980s **Islamic revolution in Iran**, broader **religious revival** discourse), including the **speculative** possibility of **two-way** or **affect-rich** phenomenology (not only passive “viewing”). That is a **historical and epistemic** question: we look for **convergent clues** (language, program structure, contemporaneous programs, routing of “beacon” concepts, etc.), not a single smoking-gun paragraph.
 
-> **Parallel track (same evidence bar):** We also collect **Reading Room PDFs** surfaced by searches for **Mars, Moon, planets, space, coordinates, UFO / anomalous craft, “off-world,”** and named viewers (e.g. Pat Price, Ingo Swann) in combination with RV program names. Session language about **non‑Earth locations or craft** is **primary evidence for what was tasked or narrated**, not proof those places or objects exist as described.
+> **Parallel track (same evidence bar):** We also collect **Reading Room PDFs** surfaced by searches for **Mars, Moon, planets, space, coordinates, UFO / anomalous craft, “off-world,”** and named viewers (e.g. Pat Price, Ingo Swann) in combination with RV program names. The **canonical Mars transcript** (§7.4.1) is **primary evidence for what the monitor and subject said under protocol**, including **technology- and life-like metaphors** (“larger boat,” “shiny metal,” “strange plants,” storms). That is **not** proof those things existed on Mars ~1 Ma B.P.; see **mainstream reading** there.
 
-**Date:** 2026-04-28 (§7.6 Forecast II / Super Cockpit analogy)  
-**Status:** Open — **online** Reading Room + AIR anchors + hypothesis map; machine-assisted corpus work is **documented outside this repo** (see Investigator notes).
+**Date:** 2026-04-28 — §7.4.1: author Mars-slide transcript **matched** to primary Reading Room PDF `CIA-RDP96-00788R001900760001-9`; §7.6 Forecast II / Super Cockpit analogy.  
+**Status:** Open — **Mars 1984 session** is the **anchored primary** for “technology + life” *language* in declassified RV text until a superseding document appears; Iran / two-way threads remain separate. Machine-assisted corpus work is **outside this repo** (Investigator notes).
 
 > **LLM vocabulary (æther):** project-wide assistant rules for substrate language vs pop-physics labels are in [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) (Apr 2026 debate capture).
 
@@ -98,7 +98,7 @@ No single folder or keyword crawl equals “everything CIA posted.”
 ## 6. Open questions (investigation backlog)
 
 1. **Co-occurrence mining:** within **full text** derived from released PDFs (including from scans when converted off-site), extract windows around `Iran`, `hostage`, `Khomeini`, `INSCOM`, `DIA`, `SUN STREAK`, `GRILL FLAME` within N tokens of `remote viewing` / `session`.
-2. **Mars / off-world / craft:** mine Reading Room hits for planetary / craft language and **read** each hit in context (training coordinate vs operational claim vs third-party rumor).
+2. **Mars / off-world / craft:** the **1984 *Mars Exploration*** PDF (§7.4.1) is the **default anchor** for Mars + **technology / life-like** session language; extend to **other** Reading Room hits only after close read in context (training coordinate vs operational claim vs third-party rumor).
 3. **AIR vs session claims:** compare AIR report language to **specific session transcript** language about **targets** (does the program ever *task* “effect,” or only “describe”?).
 4. **Counter-deception:** when a memo uses religious vocabulary, is it **analysis of third-party belief** rather than operational intent?
 5. **Forecast II / Super Cockpit pull-quote (§7.6):** locate **primary** print or PDF (DTIC, AF history office, symposium proceedings, or named magazine issue) carrying the **exact** “THE SUPER COCKPIT” block or the **Forecast II** sentence attributed in the author’s screenshot; file page number for the investigation table.
@@ -149,6 +149,20 @@ The **canonical** Mars RV release everyone cites is still the **same CIA-hosted 
 - **Official document landing (A):** [CIA Reading Room document page (same ID)](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9)
 
 **Third-party interpretations / mirrors (C — useful for search, checksum against A):** e.g. [Giza Death Star — essay framing “CIA remote viewed Mars in 1984”](https://gizadeathstar.com/2019/11/the-cia-remote-viewed-mars-in-1984/) (blog); [The Black Vault mirror PDF](https://documents2.theblackvault.com/documents/cia/CIA-RDP96-00788R001900760001-9.pdf); independent HTML renditions such as [THOLONIA material page](https://tholonia.github.io/material/material_MARS_EXPLORATION_MAY_22_1984.html).
+
+#### 7.4.1 Primary identification: author slide and official *Mars Exploration* PDF
+
+An author-supplied graphic (“CIA Remote viewing experiments, 1984”) overlaid **MON/SUB** lines on a **Mars rover** photograph with a **© 2017** credit. **The dialogue in the white box is not orphaned:** it matches, line-for-line (allowing OCR spacing), the **declassified transcript** inside the CIA Reading Room release **[*MARS EXPLORATION, MAY 22, 1984*](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf)** — **filename `CIA-RDP96-00788R001900760001-9.pdf`**, document page [CIA landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9). Representative strings verified in that PDF include **“when the others left, how did they go?”**, **“inside of a larger boat”**, **“Very rounded walls and shiny metal”**, **“frying pan into the fire”**, and **“strange plants”** / **“vegetation”** in the same exchange before **“END OF INTERVIEW”** and the **22 May 1984** close-out cue.
+
+**Session setup (what the file itself records — A-tier):** method described as **sealed envelope** plus **geographic coordinates**; card in envelope: **planet Mars**, time of interest **~1 million years B.C.**, coordinates **40.89° N, 9.55° W** given verbally during the interview; transcript dated **22 May 1984**, 10:09 AM block. Earlier in the same session the subject reports **pyramid / okra-colored** forms, **dust storm**, **megalithic** surfaces, etc., before the monitor drives **“when the others left”** follow-ups that yield the **boat / volcano / plants** language.
+
+**Mainstream / skeptical reading (“what it’s supposed to be” if not taken as literal Mars history):**
+
+- **Document type:** A **controlled remote-viewing style interview transcript** (MON prompts, SUB free-report), preserved as a **historical FOIA release**, not a peer-reviewed planetary science paper.
+- **Epistemic bar:** The text proves **the program recorded these words** under the stated protocol; it does **not** establish independent corroboration that a **million-year-old Martian civilization**, **interior of a boat**, or **that** vegetation existed at those coordinates. Standard critiques: **demand bias**, **sensory metaphor**, **narrative elaboration** under repeated monitor questions, and **no falsifiable tie** to Viking / MGS / rover ground truth at 1 Ma.
+- **AIR / agency posture (see §4):** Even where lab RV work was argued anomalous, **operational intelligence utility** remained contested; treat this session as **primary for RV culture and language**, not for **solar-system fact**.
+
+**Slide vs CIA:** The **rover panorama** and **2017 copyright** are **presentation-layer** choices by whoever composed the slide; they are **not** part of the 1984 CIA PDF. For provenance of **words only**, cite **`cia.gov/readingroom`** (or checksum a mirror against the **A** PDF).
 
 **Why articles and broad search diverge:** broad Reading Room or third-party **search** surfaces return **many unrelated PDFs** alongside the famous session. If your goal is **this** file, use the **official document or `/docs/` URL** above (or the same ID in the Reading Room UI) rather than assuming the first search page is exhaustive.
 
