@@ -219,7 +219,7 @@ Under that read, the **coordinate walk** is less “random sci-fi tour” and mo
 
 ## Keywords
 
-CIA Reading Room, Mars, remote viewing, STARGATE, Iran, Islamic revolution, Ayatollah, religious revival, influence, beacon, Mars RV, MARS EXPLORATION 1984, life on Mars, technology on Mars, hollow Earth fork, FOIA, CREST, AIR evaluation, disclosure, MKULTRA, Project Forecast II, Super Cockpit, Thomas Furness, Wright-Patterson, human–machine interface, two-way perception, tasking card provenance, declassification substitution, MFEE, MudFlood Energetic Event, Mars catastrophe, post-MFEE ecology
+#CIAReadingRoom #Mars #RemoteViewing #Stargate #Iran #IslamicRevolution #Ayatollah #ReligiousRevival #Influence #Beacon #MarsRV #MARSExploration1984 #LifeOnMars #TechnologyOnMars #HollowEarthFork #FOIA #CREST #AIREvaluation #Disclosure #MKULTRA #ProjectForecastII #SuperCockpit #ThomasFurness #WrightPatterson #HumanMachineInterface #TwoWayPerception #TaskingCardProvenance #DeclassificationSubstitution #MFEE #MudFloodEnergeticEvent #MarsCatastrophe #PostMFEEcology #ControlledOpposition #May221984
 
 ---
 
