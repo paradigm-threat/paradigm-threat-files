@@ -46,6 +46,14 @@
 
 ---
 
+## Physics / æther vocabulary (all `paradigm-threat*` repos)
+
+- **Canon:** [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) — debate summary, **Maxwell** cite path, **one-line** disclaimer template, and Copilot/Cursor **`.cursor/rules/paradigm-threat-aether-vocabulary.mdc`** mirror.
+- **Running voice:** **æther** (or **aether** in slugs) for the substrate; do **not** use **quantum / ZPE / dark matter** as silent “mainstream-complete” substitutes except in **citation / definition / debate**.
+- **Optional bridge:** one sentence may note mainstream **fields in vacuum + relativity + QED** as **translation**, not **replacement** of the author’s ontology.
+
+---
+
 ## Money / engines / militainment
 
 When discussing defense budgets vs commercial games: cite **parallel ecosystems** (America’s Army, VBS, DARWARS, DARPA programs) **separately** from publisher AAA budgets (Activision, platform deals, court filings). Do not collapse into “Pentagon funded Call of Duty” without a specific line-item source.
@@ -66,4 +74,4 @@ When discussing defense budgets vs commercial games: cite **parallel ecosystems*
 
 ---
 
-**Date:** 2026-04-18 — Initial instructions from *Call of Duty: Modern Warfare* investigation session (reorg, citations, clue threads, funding sections). **Updates:** reorganization rules (no data loss, deep dive + page.md on close, push all remotes); **online vs local** — no absolute OS paths in body; optional **Investigator notes** appendix at file end for LLM/maintainer paths. **2026-04-19** — **Limits/disclaimers** placement: **consolidated at end of file** (after Keywords, before Investigator notes); body sections stay lean. **2026-04-21** — **Author’s originating thesis**, **open claims**, and **questions to clarify/debunk** added to **Structure** and **Evidence and tone**; applies **repo-wide** so investigations **preserve** **author** **pattern** **language** **alongside** **verification**.
+**Date:** 2026-04-18 — Initial instructions from *Call of Duty: Modern Warfare* investigation session (reorg, citations, clue threads, funding sections). **Updates:** reorganization rules (no data loss, deep dive + page.md on close, push all remotes); **online vs local** — no absolute OS paths in body; optional **Investigator notes** appendix at file end for LLM/maintainer paths. **2026-04-19** — **Limits/disclaimers** placement: **consolidated at end of file** (after Keywords, before Investigator notes); body sections stay lean. **2026-04-21** — **Author’s originating thesis**, **open claims**, and **questions to clarify/debunk** added to **Structure** and **Evidence and tone**; applies **repo-wide** so investigations **preserve** **author** **pattern** **language** **alongside** **verification**. **2026-04-27** — **æther vocabulary + Maxwell debate** canon (`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`, `.cursor/rules/paradigm-threat-aether-vocabulary.mdc` in each `paradigm-threat*` repo).
