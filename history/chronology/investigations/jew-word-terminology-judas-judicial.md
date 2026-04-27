@@ -105,5 +105,5 @@ The thesis in §4 does not require overturning these roots; it claims **narrativ
 Authors note:
 Jews are afraid of genocide in history but many understand it's God who is causing the genocide, as part of a necessary purging of some unknowable plan. This makes them susceptable to some horrible conspiracies. Those who mess with them (MI6,CIA) only have to convince them this is happening - god is working through them etc. I traced this influence to non Jews too but it was mostly communists and Jews who talked like that. All world events came down to a war with Jews on both sides, and that's where most antisemites get lost!
 
-Keywords: #jew #word #terminology #judas #judicial #crucifixion #moment #latin #greek #church
+Keywords: #Jew #Word #Terminology #Judas #Judicial #Crucifixion #Moment #Latin #Greek #Church
 

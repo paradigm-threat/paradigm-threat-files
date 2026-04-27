@@ -98,5 +98,5 @@
 
 ---
 
-Keywords: #square #battle #system #lineage #final #fantasy #talent #exodus
+Keywords: #Square #Battle #System #Lineage #Final #Fantasy #Talent #Exodus
 

@@ -225,5 +225,5 @@ _Translation: Amy Translations_
 
 ---
 
-Keywords: #pyramidensplitsbergen1928
+Keywords: #Pyramidensplitsbergen1928
 

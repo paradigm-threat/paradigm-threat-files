@@ -133,5 +133,5 @@ Flat Earth is referenced in **paradigm-threat-files** in these places:
 
 ---
 
-Keywords: #flat #myth #misinterpretation
+Keywords: #Flat #Myth #Misinterpretation
 

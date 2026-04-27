@@ -54,5 +54,5 @@ This volume is one of the most historically specific in the series, engaging dir
 
 ---
 
-Keywords: #burning #troy
+Keywords: #Burning #Troy
 

@@ -272,9 +272,7 @@ This irony is recorded as a **cultural observation** about iconography, expectat
 
 ---
 
-## Keywords
-
-#skinwalkers #skinwalker #cryptids #cryptid #cryptozoology #rus-horde #horde #tartaria #controlled-opposition #managed-disclosure #thompson #fearandloathing #adrenochrome #hollowearth #giants #extirpation #mythcapture
+Keywords: #Skinwalkers #Skinwalker #Cryptids #Cryptid #Cryptozoology #RusHorde #Horde #Tartaria #ControlledOpposition #ManagedDisclosure #Thompson #Fearandloathing #Adrenochrome #Hollowearth #Giants #Extirpation #Mythcapture
 
 ---
 

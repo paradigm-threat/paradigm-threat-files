@@ -29,5 +29,5 @@ Index of primary and secondary sources on Ivan Kinkel (1883–1945), Bulgarian e
 
 ---
 
-Keywords: #ivan #kinkel #sources
+Keywords: #Ivan #Kinkel #Sources
 

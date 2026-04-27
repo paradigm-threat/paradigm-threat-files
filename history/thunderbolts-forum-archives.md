@@ -32,5 +32,5 @@ The Thunderbolts Project (Electric Universe / Saturnian cosmology) has deleted o
 
 ---
 
-Keywords: #thunderbolts #forum #archives #deletions #evidence #archive
+Keywords: #Thunderbolts #Forum #Archives #Deletions #Evidence #Archive
 

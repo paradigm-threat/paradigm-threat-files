@@ -179,5 +179,5 @@
 
 ---
 
-Keywords: #tennant #healing #voltage #jerry #research #claims
+Keywords: #Tennant #Healing #Voltage #Jerry #Research #Claims
 

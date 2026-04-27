@@ -831,5 +831,5 @@ The Kojiki begins with divine emergence and island/deity formation. The checked 
 
 ---
 
-Keywords: #creation #event #interpretations #across #religions
+Keywords: #Creation #Event #Interpretations #Across #Religions
 

@@ -19,7 +19,7 @@ _JSON_DUMP_KW = {"separators": (",", ":"), "ensure_ascii": False}
 
 
 def _extract_keywords_from_markdown_file(full_path: str) -> list[str]:
-    """Parse hashtag tokens from a Keywords: line (append_article_keywords.py)."""
+    """Parse hashtag tokens from a Keywords: line (Option B: no hyphens inside tags)."""
     try:
         with open(full_path, "r", encoding="utf-8") as f:
             content = f.read()
@@ -28,7 +28,8 @@ def _extract_keywords_from_markdown_file(full_path: str) -> list[str]:
     m = _KEYWORDS_LINE_RE.search(content)
     if not m:
         return []
-    return re.findall(r"#([a-zA-Z0-9\-]+)", m.group(1))
+    # One token per #… run; disallow '-' so kebab tags fail indexing until fixed.
+    return re.findall(r"#([^\s#\-]+)", m.group(1))
 
 
 def _git_last_commit_unix_times(repo_dir: str) -> Dict[str, int]:

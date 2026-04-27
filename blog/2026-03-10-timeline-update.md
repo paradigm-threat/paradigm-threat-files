@@ -104,5 +104,5 @@ Investigations now live in **paradigm-threat-files** (see [Fiction Encoding](htt
 
 ---
 
-Keywords: #2026 #update #content #reduction #fictionencoding #arthurian #cosmology #new #overflow
+Keywords: #2026 #Update #Content #Reduction #Fictionencoding #Arthurian #Cosmology #New #Overflow
 

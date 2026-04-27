@@ -336,4 +336,4 @@ Drawn from the sources above; **grouped by claim type**:
 
 ---
 
-Keywords: #artemis #nasa #moon #faith #hoax #divide #conquer #revelation-of-the-method #chronology #investigation
+Keywords: #Artemis #NASA #Moon #Faith #Hoax #Divide #Conquer #RevelationOfTheMethod #Chronology #Investigation

@@ -39,5 +39,5 @@ The **[First Crusade / Trojan War](https://paradigmthreat.net/timeline/evt-the-f
 
 ---
 
-Keywords: #two #branches #christianity #fomenko #vs #author #paradigm #threat
+Keywords: #Two #Branches #Christianity #Fomenko #Vs #Author #Paradigm #Threat
 

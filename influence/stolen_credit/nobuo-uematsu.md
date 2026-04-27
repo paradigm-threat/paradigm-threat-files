@@ -136,5 +136,5 @@
 
 ---
 
-Keywords: #nobuo #uematsu
+Keywords: #Nobuo #Uematsu
 

@@ -227,5 +227,5 @@ This is why the intelligence community cannot acknowledge Havana Syndrome withou
 
 ---
 
-Keywords: #havana #syndrome #gaslighting #public #directed #energy #weapons
+Keywords: #Havana #Syndrome #Gaslighting #Public #Directed #Energy #Weapons
 

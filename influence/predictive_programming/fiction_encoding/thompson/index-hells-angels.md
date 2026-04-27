@@ -50,5 +50,5 @@ Thompson embedded with the Hell's Angels for a year to write this book. He docum
 
 ---
 
-Keywords: #hells #angels #hell #governmentantagonistic #highlights
+Keywords: #Hells #Angels #Hell #Governmentantagonistic #Highlights
 

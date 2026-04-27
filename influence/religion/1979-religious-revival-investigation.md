@@ -165,5 +165,5 @@ Across its history, CIA behaviour appears consistently oriented toward **routing
 
 ---
 
-Keywords: #1979 #religious #revival #cia #backing #global #phenomenon
+Keywords: #1979 #Religious #Revival #CIA #Backing #Global #Phenomenon
 

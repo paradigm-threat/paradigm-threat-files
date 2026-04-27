@@ -155,5 +155,5 @@ Index of passages in `foundation.txt` relevant to the Paradigm Threat investigat
 
 ---
 
-Keywords: #foundation #clue
+Keywords: #Foundation #Clue
 

@@ -86,5 +86,5 @@ White wrote a Cambridge thesis on Malory and used *Le Morte d'Arthur* as his mai
 
 ---
 
-Keywords: #white #saturnian #round #table #once #future #king
+Keywords: #White #Saturnian #Round #Table #Once #Future #King
 

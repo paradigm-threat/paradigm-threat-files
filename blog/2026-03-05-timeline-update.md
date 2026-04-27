@@ -135,5 +135,5 @@ Complete indexes of the first seven Barsoom novels, plus overview:
 
 ---
 
-Keywords: #2026 #update #flexner #report #weather #control #cern #mars #literature #asimov #new
+Keywords: #2026 #Update #Flexner #Report #Weather #Control #Cern #Mars #Literature #Asimov #New
 

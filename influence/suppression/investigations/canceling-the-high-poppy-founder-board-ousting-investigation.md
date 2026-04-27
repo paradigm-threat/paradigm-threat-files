@@ -123,4 +123,4 @@ These reinforce the **501(c)(3) / public-benefit** pattern: **formal board,** **
 
 *Last updated: 2026-04-12 (IV-B/IV-C deep-dive expansion)*
 
-Keywords: #suppression #governance #founder #board #directors #nonprofit #501c3 #tall-poppy #high-poppy #cancel-culture #corporate #ae911truth #gage #openai #investigation #article
+Keywords: #Suppression #Governance #Founder #Board #Directors #Nonprofit #501c3 #TallPoppy #HighPoppy #CancelCulture #Corporate #Ae911truth #Gage #Openai #Investigation #Article

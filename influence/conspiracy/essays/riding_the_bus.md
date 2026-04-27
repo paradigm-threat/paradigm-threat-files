@@ -152,5 +152,5 @@ Lecouteux, Claude. Demons and Spirits of the Land:  Ancestral Lore and Practices
 
 ---
 
-Keywords: #ridingthebus #riding #bus #bigfoot
+Keywords: #Ridingthebus #Riding #Bus #Bigfoot
 

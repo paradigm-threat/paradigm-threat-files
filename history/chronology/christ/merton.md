@@ -44,5 +44,5 @@ Stay tuned for updates! .  .
 
 ---
 
-Keywords: #merton #meddlesome #priest
+Keywords: #Merton #Meddlesome #Priest
 

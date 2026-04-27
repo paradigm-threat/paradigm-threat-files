@@ -199,9 +199,7 @@ Reusable method note (used across investigations):
 
 ---
 
-## Keywords
-
-#indigenous #control #suppression #witchcraft #vodou #voodoo #wanga #travay #obeah #africa #navajo #dine #reservations #skinwalkers #cryptids #fear #socialcontrol #retaliation #taboo #yakuza
+Keywords: #Indigenous #Control #Suppression #Witchcraft #Vodou #Voodoo #Wanga #Travay #Obeah #Africa #Navajo #Dine #Reservations #Skinwalkers #Cryptids #Fear #Socialcontrol #Retaliation #Taboo #Yakuza
 
 ---
 

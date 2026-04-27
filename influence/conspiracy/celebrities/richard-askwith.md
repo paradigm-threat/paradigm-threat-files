@@ -39,5 +39,5 @@ Richard Askwith (b. 1960) is a British author and journalist—*The Independent*
 
 ---
 
-Keywords: #richard #askwith #british #establishment #narrative #influence
+Keywords: #Richard #Askwith #British #Establishment #Narrative #Influence
 

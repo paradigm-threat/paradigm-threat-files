@@ -140,5 +140,5 @@ By the end, that position had shifted — not because of rhetoric, but because A
 
 ---
 
-Keywords: #burden #proof #debate #prove #aether #does #doesn #exist
+Keywords: #Burden #Proof #Debate #Prove #Aether #Does #Doesn #Exist
 

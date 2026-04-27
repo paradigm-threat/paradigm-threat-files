@@ -66,5 +66,5 @@ English writer. Best known for *Lieut. Gullivar Jones: His Vacation* (1905), an 
 
 ---
 
-Keywords: #arnold #books #bibliography #edwin #lester
+Keywords: #Arnold #Books #Bibliography #Edwin #Lester
 

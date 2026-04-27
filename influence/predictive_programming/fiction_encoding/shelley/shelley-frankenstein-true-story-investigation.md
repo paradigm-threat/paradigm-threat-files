@@ -155,5 +155,5 @@ Mary Shelley was 5 in 1803 but would have known of Aldini's demonstrations—the
 
 ---
 
-Keywords: #shelley #frankenstein #true #story #mary #potential
+Keywords: #Shelley #Frankenstein #True #Story #Mary #Potential
 

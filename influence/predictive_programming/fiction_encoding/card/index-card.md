@@ -266,5 +266,5 @@ The pattern repeats because the event was real.
 
 ---
 
-Keywords: #card #orson #scott #enderverse
+Keywords: #Card #Orson #Scott #Enderverse
 

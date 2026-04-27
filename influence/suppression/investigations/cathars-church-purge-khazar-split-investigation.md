@@ -150,5 +150,5 @@ These sources **do not** meet academic evidence bars; they are recorded here as 
 
 ---
 
-Keywords: #cathars #church #purge #khazar #split #enemy #memory #catharization #resistance #monotheism #cathar #thesis
+Keywords: #Cathars #Church #Purge #Khazar #Split #Enemy #Memory #Catharization #Resistance #Monotheism #Cathar #Thesis
 

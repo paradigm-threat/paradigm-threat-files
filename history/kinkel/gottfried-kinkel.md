@@ -162,5 +162,5 @@ See [index-de-jonge-gottfried-kinkel.md](index-de-jonge-gottfried-kinkel.md) for
 
 ---
 
-Keywords: #gottfried #kinkel
+Keywords: #Gottfried #Kinkel
 

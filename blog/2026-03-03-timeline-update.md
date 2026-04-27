@@ -140,5 +140,5 @@ Six new appendix articles providing the detailed evidence dossiers behind the Ch
 
 ---
 
-Keywords: #2026 #update #library #maxwell #aether #nuclear #myths #browser #mode #new #articles
+Keywords: #2026 #Update #Library #Maxwell #Aether #Nuclear #Myths #Browser #Mode #New #Articles
 

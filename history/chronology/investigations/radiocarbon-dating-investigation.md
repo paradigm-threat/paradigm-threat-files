@@ -284,5 +284,5 @@ The scientific community's dogmatic adoption of radiocarbon dating, combined wit
 
 ---
 
-Keywords: #radiocarbon #dating #dogmatic #adoption #electrical #activity #problem
+Keywords: #Radiocarbon #Dating #Dogmatic #Adoption #Electrical #Activity #Problem
 

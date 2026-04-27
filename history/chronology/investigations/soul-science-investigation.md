@@ -174,5 +174,5 @@ Western reception of Russian literature from the 1880s onward heightened awarene
 
 ---
 
-Keywords: #soul #science #first #references #mind #replacement
+Keywords: #Soul #Science #First #References #Mind #Replacement
 

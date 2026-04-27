@@ -142,5 +142,5 @@ One of Square's most successful and impressive games ever had a sequel that:
 
 ---
 
-Keywords: #yasunori #mitsuda
+Keywords: #Yasunori #Mitsuda
 

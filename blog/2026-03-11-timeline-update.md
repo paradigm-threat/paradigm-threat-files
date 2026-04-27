@@ -112,5 +112,5 @@ Article TTS now matches timeline overlay capabilities:
 
 ---
 
-Keywords: #2026 #update #stolen #credit #suite #yakuza #site #ssr #tts #improvements
+Keywords: #2026 #Update #Stolen #Credit #Suite #Yakuza #Site #Ssr #Tts #Improvements
 

@@ -19,5 +19,5 @@ Note: This investigation is a work in progress. Check back soon for more updates
 
 ---
 
-Keywords: #martian #tripod
+Keywords: #Martian #Tripod
 

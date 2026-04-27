@@ -240,5 +240,5 @@ The following are **open theories** — not asserted as fact, but proposed as le
 
 ---
 
-Keywords: #hollow #sources #maps #books #atlantis
+Keywords: #Hollow #Sources #Maps #Books #Atlantis
 

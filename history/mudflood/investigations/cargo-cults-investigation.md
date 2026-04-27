@@ -171,5 +171,5 @@ Research on the open questions yielded the following. None of this proves the re
 
 ---
 
-Keywords: #cargo #cults #official #behavior #th #manna #redaction
+Keywords: #Cargo #Cults #Official #Behavior #Th #Manna #Redaction
 

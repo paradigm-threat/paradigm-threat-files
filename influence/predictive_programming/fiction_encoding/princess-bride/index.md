@@ -30,5 +30,5 @@
 
 ---
 
-Keywords: #princess #bride
+Keywords: #Princess #Bride
 

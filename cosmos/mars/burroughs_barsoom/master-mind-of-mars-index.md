@@ -28,5 +28,5 @@ Ras Thavas = "master mind"; brain transplantation; immortality via body-swapping
 
 ---
 
-Keywords: #master #mind #mars #clue
+Keywords: #Master #Mind #Mars #Clue
 

@@ -85,4 +85,4 @@ Rendered page PNGs from the PDF scan live under **`~/dev/wget/pyramids/extracted
 
 ---
 
-Keywords: #pyramid #energy #kerrell #goggin #1977 #chapter #summary
+Keywords: #Pyramid #Energy #Kerrell #Goggin #1977 #Chapter #Summary

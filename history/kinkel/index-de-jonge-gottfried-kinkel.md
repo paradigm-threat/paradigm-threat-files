@@ -30,5 +30,5 @@ Academic monograph on Gottfried Kinkel (1815–1882) as political and social thi
 
 ---
 
-Keywords: #de #jonge #gottfried #kinkel #political #social #thinker
+Keywords: #De #Jonge #Gottfried #Kinkel #Political #Social #Thinker
 

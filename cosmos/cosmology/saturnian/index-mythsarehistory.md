@@ -215,5 +215,5 @@ of rock art and petroglyphs as cosmological records — the empirical foundation
 
 ---
 
-Keywords: #mythsarehistory #www #com #site
+Keywords: #Mythsarehistory #Www #Com #Site
 

@@ -2,5 +2,5 @@ A painting by Antonio Raffaele Calliano, 1815. Protected by Ares, Achilles Overw
 
 ---
 
-Keywords: #troyprotectedfrommarsbyantonioraffaelecalliano1815
+Keywords: #Troyprotectedfrommarsbyantonioraffaelecalliano1815
 

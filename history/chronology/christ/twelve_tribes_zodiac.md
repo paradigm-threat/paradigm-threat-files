@@ -2,5 +2,5 @@
 
 ---
 
-Keywords: #twelvetribeszodiac
+Keywords: #Twelvetribeszodiac
 

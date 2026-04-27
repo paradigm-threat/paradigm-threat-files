@@ -50,5 +50,5 @@ of growth, as was the case back in 2006 and 2007, the IMF doesn't do so well bot
 
 ---
 
-Keywords: #wars #banker
+Keywords: #Wars #Banker
 

@@ -103,5 +103,5 @@ To **Dr. Nicolaus Krstnikoff** (founder of the Psychological Society of Sofia) a
 
 ---
 
-Keywords: #psychologische #grundlagen #1922 #zur #frage #der #psychologischen #und #des #ursprungs #religion
+Keywords: #Psychologische #Grundlagen #1922 #Zur #Frage #Der #Psychologischen #Und #Des #Ursprungs #Religion
 

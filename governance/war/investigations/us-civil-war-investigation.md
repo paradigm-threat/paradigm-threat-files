@@ -136,5 +136,5 @@ Depleted uranium as a military technology is conventionally dated to the **20th 
 
 ---
 
-Keywords: #us #civil #war #british #funding #slavery #instrument #du #weapon #thesis
+Keywords: #Us #Civil #War #British #Funding #Slavery #Instrument #Du #Weapon #Thesis
 

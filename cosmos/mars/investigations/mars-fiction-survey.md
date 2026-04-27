@@ -295,5 +295,5 @@ Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: loca
 
 ---
 
-Keywords: #mars #fiction #survey #nonfiction #literature #th
+Keywords: #Mars #Fiction #Survey #Nonfiction #Literature #Th
 

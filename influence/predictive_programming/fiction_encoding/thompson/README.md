@@ -34,5 +34,5 @@ Gonzo journalism and books by Hunter S. Thompson. Indexes focus on **evidence of
 
 ---
 
-Keywords: #readme #hunter #thompson #books #indexes
+Keywords: #Readme #Hunter #Thompson #Books #Indexes
 

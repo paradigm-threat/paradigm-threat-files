@@ -106,5 +106,5 @@ Yamashita composed X3 and Wily Wars via Minakuchi Engineering. Capcom credited "
 
 ---
 
-Keywords: #capcom #mega #man #franchise #stolen #credit
+Keywords: #Capcom #Mega #Man #Franchise #Stolen #Credit
 

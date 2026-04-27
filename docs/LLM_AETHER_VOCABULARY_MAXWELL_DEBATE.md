@@ -69,4 +69,4 @@ It **can** read **faith-like** when stated as belief—and the author **accepts*
 ---
 
 **Date:** 2026-04-27  
-**Keywords:** #æther #aether #maxwell #cursor #copilot #llm-instructions #vocabulary #remote-viewing #paradigm-threat
+Keywords: #Æther #Aether #Maxwell #Cursor #Copilot #LlmInstructions #Vocabulary #RemoteViewing #ParadigmThreat

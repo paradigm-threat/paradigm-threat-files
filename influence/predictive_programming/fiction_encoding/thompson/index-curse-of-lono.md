@@ -29,5 +29,5 @@ Thompson's account of covering the Honolulu Marathon (1980) and a fishing expedi
 
 ---
 
-Keywords: #curse #lono
+Keywords: #Curse #Lono
 

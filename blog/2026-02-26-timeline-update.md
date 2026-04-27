@@ -141,5 +141,5 @@ PDF and DOCX exports were regenerated twice during this session — once after t
 
 ---
 
-Keywords: #2026 #update #author #profiles #third #story #core #concepts #major #restructure
+Keywords: #2026 #Update #Author #Profiles #Third #Story #Core #Concepts #Major #Restructure
 

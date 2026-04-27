@@ -59,7 +59,7 @@ Plagiarism and misattribution in 20th-century media function as a control mechan
 
 ---
 
-Keywords: #stolen #credit #plagiarism #control
+Keywords: #Stolen #Credit #Plagiarism #Control
 
 ---
 

@@ -94,5 +94,5 @@ This investigation **does not** claim that every 19th-century disaster was “on
 
 ---
 
-Keywords: #slow #ecological #collapse #mfee #donner
+Keywords: #Slow #Ecological #Collapse #MFEE #Donner
 

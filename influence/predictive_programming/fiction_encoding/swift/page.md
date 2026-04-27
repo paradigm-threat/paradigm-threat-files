@@ -30,7 +30,7 @@ Jonathan Swift (1667–1745) published *Travels into Several Remote Nations of t
 
 ---
 
-Keywords: #jonathan #swift
+Keywords: #Jonathan #Swift
 
 ---
 

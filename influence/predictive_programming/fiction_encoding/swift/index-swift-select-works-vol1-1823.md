@@ -51,5 +51,5 @@ Later volumes (not in this download) were advertised to include *Gulliver’s Tr
 
 ---
 
-Keywords: #swift #select #works #vol1 #1823 #volume
+Keywords: #Swift #Select #Works #Vol1 #1823 #Volume
 

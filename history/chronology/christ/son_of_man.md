@@ -32,5 +32,5 @@ When you become as much of a threat as Christ had become, your enemies *will* li
 
 ---
 
-Keywords: #sonofman
+Keywords: #Sonofman
 

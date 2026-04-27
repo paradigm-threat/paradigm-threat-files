@@ -37,7 +37,7 @@ Atlantic context, societized consolidation, British funding, Western orchestrati
 
 ---
 
-Keywords: #war
+Keywords: #War
 
 ---
 

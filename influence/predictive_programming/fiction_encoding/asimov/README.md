@@ -38,5 +38,5 @@ Full-text Project Gutenberg sources and clue indexes for the Paradigm Threat Asi
 
 ---
 
-Keywords: #readme #asimov #full #texts
+Keywords: #Readme #Asimov #Full #Texts
 

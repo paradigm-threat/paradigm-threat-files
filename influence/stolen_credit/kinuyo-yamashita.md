@@ -40,5 +40,5 @@ Kinuyo Yamashita — composer of Castlevania (1986), Power Blade, Pocky & Rocky,
 
 ---
 
-Keywords: #kinuyo #yamashita
+Keywords: #Kinuyo #Yamashita
 

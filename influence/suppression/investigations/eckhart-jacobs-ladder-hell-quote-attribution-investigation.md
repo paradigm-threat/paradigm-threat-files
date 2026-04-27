@@ -109,5 +109,5 @@ Long before 1990, many lineages framed afflictive afterlife as stripping clingin
 
 ---
 
-Keywords: #eckhart #jacobs #ladder #hell #quote #attribution #burns #attachments #jacob #mis #paradigm #threat #read
+Keywords: #Eckhart #Jacobs #Ladder #Hell #Quote #Attribution #Burns #Attachments #Jacob #Mis #Paradigm #Threat #Read
 

@@ -79,5 +79,5 @@ than to convince them that they have been fooled.
 
 ---
 
-Keywords: #funny #thing #happened #way #moon #faked #mission #documentary
+Keywords: #Funny #Thing #Happened #Way #Moon #Faked #Mission #Documentary
 

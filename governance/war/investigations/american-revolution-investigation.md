@@ -103,5 +103,5 @@ The American Revolution was **financially enabled** by France (loans, military s
 
 ---
 
-Keywords: #american #revolution #tiny #piece #bigger #puzzle
+Keywords: #American #Revolution #Tiny #Piece #Bigger #Puzzle
 

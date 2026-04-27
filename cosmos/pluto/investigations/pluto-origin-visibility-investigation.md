@@ -116,5 +116,5 @@ The **primary** investigation is whether Pluto—the unseen planet, never really
 
 ---
 
-Keywords: #pluto #origin #visibility #unseen #planet #lost #hell
+Keywords: #Pluto #Origin #Visibility #Unseen #Planet #Lost #Hell
 

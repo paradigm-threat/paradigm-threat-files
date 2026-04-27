@@ -49,5 +49,5 @@ Ferde Grofé (1892–1972). Paul Whiteman's staff arranger. Orchestrated Rhapsod
 
 ---
 
-Keywords: #ferde #grofe #grof #rhapsody #blue #orchestration
+Keywords: #Ferde #Grofe #Grof #Rhapsody #Blue #Orchestration
 

@@ -114,5 +114,5 @@ Late-1990s Toonami (Cartoon Network) included game review segments. Creators: Ja
 
 ---
 
-Keywords: #nintendo #sony #breakup #birth #playstation
+Keywords: #Nintendo #Sony #Breakup #Birth #Playstation
 

@@ -162,5 +162,5 @@ additional 400,000, figures that exclude the atomic bombing of Hiroshima and Nag
 
 ---
 
-Keywords: #citations
+Keywords: #Citations
 

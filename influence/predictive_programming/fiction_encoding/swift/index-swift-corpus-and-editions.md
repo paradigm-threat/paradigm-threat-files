@@ -36,5 +36,5 @@ The *Select Works* ZIP here is **Volume I only** (see [index-swift-select-works-
 
 ---
 
-Keywords: #swift #corpus #editions #edition #map
+Keywords: #Swift #Corpus #Editions #Edition #Map
 

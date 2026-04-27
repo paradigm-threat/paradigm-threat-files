@@ -46,5 +46,5 @@ Thompson's Playboy interview is one of his most direct statements on **American 
 
 ---
 
-Keywords: #playboy #interview #hunter #thompson
+Keywords: #Playboy #Interview #Hunter #Thompson
 

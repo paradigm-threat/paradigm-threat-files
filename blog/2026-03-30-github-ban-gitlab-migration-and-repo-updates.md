@@ -76,5 +76,5 @@ This repo absorbed the **censorship dossier**, the **Swift / *Gulliver*** invest
 
 ---
 
-Keywords: #2026 #github #ban #gitlab #migration #repo #updates #deleted #repos #swift #gulliver #mars #dossier #site
+Keywords: #2026 #Github #Ban #Gitlab #Migration #Repo #Updates #Deleted #Repos #Swift #Gulliver #Mars #Dossier #Site
 

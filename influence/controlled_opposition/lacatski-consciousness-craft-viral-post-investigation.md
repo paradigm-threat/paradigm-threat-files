@@ -309,7 +309,7 @@ Full paths for quick maintainer grep (duplicate of **§3.5** / **§10** is inten
 
 ---
 
-Keywords: #controlled-opposition #uap #ufo #aawsap #lacatski #skinwalker #consciousness #disclosure #viral #social-media #pear #gateway-process #orch-or #donald-hoffman #grusch #mars #deep-state #conspirituality #weaponized #bigelow #stargate #remote-viewing #aether #paradigm-threat-files #insider-program #bureaucracy #kona-blue #conditional-disclosure #reverse-engineering #great-awakening
+Keywords: #ControlledOpposition #UAP #UFO #AAWSAP #Lacatski #Skinwalker #Consciousness #Disclosure #Viral #SocialMedia #Pear #GatewayProcess #OrchOr #DonaldHoffman #Grusch #Mars #DeepState #Conspirituality #Weaponized #Bigelow #Stargate #RemoteViewing #Aether #ParadigmThreatFiles #InsiderProgram #Bureaucracy #KonaBlue #ConditionalDisclosure #ReverseEngineering #GreatAwakening
 
 **Last substantive update:** 2026-04-24 — **§3.7** insider mechanics / politics table; **§6.1** verbatim session (conditional tech, RE fork, “real alien” bureaucracy); **§6.2–§6.3** unpack + Great Awakening rhyme table; **§6.4–§6.5** prior embedding thesis + contrast row; **§5** spine note; **§7–§8** registry + appropriations/Kona/RE questions; cross-link refresh **§10** / GA **§11**.
 

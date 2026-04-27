@@ -32,5 +32,5 @@ paradigm-threat-site (the main web presence) had been live since October 2023. T
 
 ---
 
-Keywords: #2025 #paradigm #threat #launch #september #paradigmthreatfiles #repository #created
+Keywords: #2025 #Paradigm #Threat #Launch #September #Paradigmthreatfiles #Repository #Created
 

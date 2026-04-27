@@ -201,5 +201,5 @@ The Soviet state classified this research not because it didn't work, but becaus
 
 ---
 
-Keywords: #soviet #probiotic #research #real #story #lost #bulgarian #cancer #discovery #became #cold #war #secret
+Keywords: #Soviet #Probiotic #Research #Real #Story #Lost #Bulgarian #Cancer #Discovery #Became #Cold #War #Secret
 

@@ -220,5 +220,5 @@ Full-text extracts and `INDEX.md` summaries live next to other archived material
 
 ---
 
-Keywords: #titanic #sinking #rms #timing #alternative #narratives #aftermath
+Keywords: #Titanic #Sinking #Rms #Timing #Alternative #Narratives #Aftermath
 

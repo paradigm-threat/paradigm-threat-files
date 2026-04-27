@@ -55,5 +55,5 @@
 
 ---
 
-Keywords: #wuxing #five #planets #dark #ages #observational #record
+Keywords: #Wuxing #Five #Planets #Dark #Ages #Observational #Record
 

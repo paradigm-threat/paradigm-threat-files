@@ -36,5 +36,5 @@ The site continued to serve the existing article catalog. The dedicated timeline
 
 ---
 
-Keywords: #2024 #h2 #events #end #chat #fixes #yearend #updates
+Keywords: #2024 #H2 #Events #End #Chat #Fixes #Yearend #Updates
 

@@ -93,5 +93,5 @@ Author's analysis in `paradigm-threat-files` includes:
 
 ---
 
-Keywords: #mfee #evidence #map #changes #over #time
+Keywords: #MFEE #Evidence #Map #Changes #Over #Time
 

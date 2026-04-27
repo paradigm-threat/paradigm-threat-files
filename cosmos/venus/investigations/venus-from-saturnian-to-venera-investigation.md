@@ -119,4 +119,4 @@ Authoritative tabular history: NASA Science, [Venus exploration timeline](https:
 
 ---
 
-Keywords: #venus #venera #velikovsky #comet #saturnian #1982 #temperature
+Keywords: #Venus #Venera #Velikovsky #Comet #Saturnian #1982 #Temperature

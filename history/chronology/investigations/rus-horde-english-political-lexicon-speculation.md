@@ -177,5 +177,5 @@ Do not merge **Fomenko’s** geographic and identity equations with **Paradigm T
 
 ---
 
-Keywords: #rus #horde #english #political #lexicon #rushorde #echoes #military #vocabulary
+Keywords: #Rus #Horde #English #Political #Lexicon #Rushorde #Echoes #Military #Vocabulary
 

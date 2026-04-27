@@ -26,7 +26,7 @@ or the <a href="https://t.me/historyisalie">Paradigm Threat Telegram channel.</a
 
 ---
 
-Keywords: #new #rocket #chat #server #running
+Keywords: #New #Rocket #Chat #Server #Running
 
 ---
 

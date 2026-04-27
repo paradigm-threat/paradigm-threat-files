@@ -58,5 +58,5 @@ The book is a detailed chapter-by-chapter reading of Exodus through the lens of 
 
 ---
 
-Keywords: #gods #fire #god #moses #management #exodus
+Keywords: #Gods #Fire #God #Moses #Management #Exodus
 

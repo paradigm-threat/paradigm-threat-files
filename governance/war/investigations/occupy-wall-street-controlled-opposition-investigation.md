@@ -190,4 +190,4 @@ The **“controlled opposition”** **reading** **adds**: **if** **power** **pre
 
 ---
 
-Keywords: #war #finance #protest #surveillance #occupy #2011 #arabspring #fusioncenters #hypothesis
+Keywords: #War #Finance #Protest #Surveillance #Occupy #2011 #Arabspring #Fusioncenters #Hypothesis

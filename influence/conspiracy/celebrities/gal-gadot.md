@@ -47,5 +47,5 @@ Gal Gadot served two years in the Israeli Defense Forces (IDF) as a combat fitne
 
 ---
 
-Keywords: #gal #gadot #idf #service #hollywood #ascent #israeli #narrative
+Keywords: #Gal #Gadot #Idf #Service #Hollywood #Ascent #Israeli #Narrative
 

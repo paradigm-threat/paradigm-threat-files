@@ -52,5 +52,5 @@ De Grazia analyzes the iconography of Ares/Mars and lunar deities across Greek, 
 
 ---
 
-Keywords: #disastrous #love #affair #moon #mars
+Keywords: #Disastrous #Love #Affair #Moon #Mars
 

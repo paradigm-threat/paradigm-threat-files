@@ -98,5 +98,5 @@ See more Encyclopedia articles on: Chinese, Taiwanese, and Mongolian History
 
 ---
 
-Keywords: #encyclopedia #false #flag #staged #operations
+Keywords: #Encyclopedia #False #Flag #Staged #Operations
 

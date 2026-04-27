@@ -165,5 +165,5 @@ The paradigm-threat investigation treats the mainstream "Maya collapse 1000 year
 
 ---
 
-Keywords: #common #questions #alternate
+Keywords: #Common #Questions #Alternate
 

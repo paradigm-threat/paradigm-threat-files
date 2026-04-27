@@ -198,5 +198,5 @@ The documented core of Curie’s WWI service remains mobile diagnostic X-ray sup
 
 ---
 
-Keywords: #marie #curie #radiation #cures #suppression #battlefield #postwar #nuclear #narrative
+Keywords: #Marie #Curie #Radiation #Cures #Suppression #Battlefield #Postwar #Nuclear #Narrative
 

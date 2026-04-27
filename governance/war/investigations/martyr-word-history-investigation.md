@@ -123,5 +123,5 @@ This distinction is already drawn in the paradigm-threat timeline and files:
 
 ---
 
-Keywords: #martyr #word #etymology #mars #murder #real #nature
+Keywords: #Martyr #Word #Etymology #Mars #Murder #Real #Nature
 

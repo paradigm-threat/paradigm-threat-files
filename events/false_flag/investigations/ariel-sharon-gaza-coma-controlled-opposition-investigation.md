@@ -293,7 +293,7 @@ These are **first-class** **pattern** **stakes** for **Paradigm Threat**; they a
 
 ---
 
-Keywords: #ariel #sharon #gaza #disengagement #coma #braslavsky #controlled #opposition #british #mandate #philadelphi #kadima #2005 #2006 #iran #1979 #cia #wmd #globalist #nationalist #assassination #author-thesis #epstein #bush-letter #cruz #bibi #un-2012
+Keywords: #Ariel #Sharon #Gaza #Disengagement #Coma #Braslavsky #Controlled #Opposition #British #Mandate #Philadelphi #Kadima #2005 #2006 #Iran #1979 #CIA #WMD #Globalist #Nationalist #Assassination #AuthorThesis #Epstein #BushLetter #Cruz #Bibi #UN2012
 
 ---
 

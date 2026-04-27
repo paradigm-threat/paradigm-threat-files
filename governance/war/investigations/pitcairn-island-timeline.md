@@ -72,5 +72,5 @@ Dates below mix **well-attested milestones** with items where **month/day or int
 
 ---
 
-Keywords: #pitcairn #island #events
+Keywords: #Pitcairn #Island #Events
 

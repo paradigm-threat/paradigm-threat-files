@@ -54,5 +54,5 @@ This is the most technically dense volume in the series and serves as the quanta
 
 ---
 
-Keywords: #lately #tortured #exoterrestrial #forces #quantavolution #solar #system
+Keywords: #Lately #Tortured #Exoterrestrial #Forces #Quantavolution #Solar #System
 

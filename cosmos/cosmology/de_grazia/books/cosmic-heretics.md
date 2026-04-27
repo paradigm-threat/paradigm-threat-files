@@ -56,5 +56,5 @@ The book covers the founding of *Kronos* and *SISR* journals, conflicts with the
 
 ---
 
-Keywords: #cosmic #heretics
+Keywords: #Cosmic #Heretics
 

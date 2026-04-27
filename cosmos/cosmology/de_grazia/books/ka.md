@@ -46,5 +46,5 @@ It is the most systematic linguistic and mythological reference in the Quantavol
 
 ---
 
-Keywords: #ka #handbook #mythology #sacred #practices #electrical #phenomena #linguistic #connections #ancient #mediterranean #world
+Keywords: #Ka #Handbook #Mythology #Sacred #Practices #Electrical #Phenomena #Linguistic #Connections #Ancient #Mediterranean #World
 

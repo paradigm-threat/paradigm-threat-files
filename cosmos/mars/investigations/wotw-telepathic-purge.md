@@ -361,5 +361,5 @@ This connects Brandenburg's hard nuclear physics directly to the telepathic purg
 
 ---
 
-Keywords: #wotw #telepathic #purge #pattern #across #mars #fiction
+Keywords: #Wotw #Telepathic #Purge #Pattern #Across #Mars #Fiction
 

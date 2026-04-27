@@ -48,5 +48,5 @@ Anti-vax community members pointed to her 2019 statement as evidence of premonit
 
 ---
 
-Keywords: #brandy #vaughan #death #merck #whistleblower #antivax #activist
+Keywords: #Brandy #Vaughan #Death #Merck #Whistleblower #Antivax #Activist
 

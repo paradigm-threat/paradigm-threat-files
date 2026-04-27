@@ -425,4 +425,4 @@ Analogues are **imperfect**; they help **pattern** thinking only.
 
 ---
 
-Keywords: #war #investigationopen #jadehelm #texas #tedcruz #2012 #angrybirds #2016primary #volcano #apocalypticrhetoric #deepstatehypothesis #militaryexercise #conspiracytheory #bundystandoff #blm #militia #federalgovernment #ushistory #armedstandoff #movebombing #philadelphia
+Keywords: #War #Investigationopen #Jadehelm #Texas #Tedcruz #2012 #Angrybirds #2016primary #Volcano #Apocalypticrhetoric #Deepstatehypothesis #Militaryexercise #Conspiracytheory #Bundystandoff #Blm #Militia #Federalgovernment #Ushistory #Armedstandoff #Movebombing #Philadelphia

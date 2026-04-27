@@ -52,5 +52,5 @@ Prince Rogers Nelson (1958–2016) embraced androgyny as both artistic expressio
 
 ---
 
-Keywords: #prince #androgyny #death #identity
+Keywords: #Prince #Androgyny #Death #Identity
 

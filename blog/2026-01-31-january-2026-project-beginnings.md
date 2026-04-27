@@ -46,5 +46,5 @@ The January work established the timeline's data model, the files repo's structu
 
 ---
 
-Keywords: #2026 #january #project #beginnings #begins #paradigmthreatfiles #refactor
+Keywords: #2026 #January #Project #Beginnings #Begins #Paradigmthreatfiles #Refactor
 

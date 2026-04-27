@@ -63,5 +63,5 @@ Index of passages in `magnificent-possession.txt` relevant to the Paradigm Threa
 
 ---
 
-Keywords: #magnificent #possession #clue
+Keywords: #Magnificent #Possession #Clue
 

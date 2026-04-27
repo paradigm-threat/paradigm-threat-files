@@ -43,5 +43,5 @@ Brett Gelman (b. 1976) plays Murray Bauman in *Stranger Things*—a conspiracy t
 
 ---
 
-Keywords: #brett #gelman #conspiracytheorist #persona #hollywood #encoding
+Keywords: #Brett #Gelman #Conspiracytheorist #Persona #Hollywood #Encoding
 

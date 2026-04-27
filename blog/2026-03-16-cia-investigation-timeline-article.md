@@ -57,5 +57,5 @@ New timeline article in chapter 14 (20th century), with image `cia-to-oss.png`:
 
 ---
 
-Keywords: #2026 #cia #article
+Keywords: #2026 #CIA #Article
 

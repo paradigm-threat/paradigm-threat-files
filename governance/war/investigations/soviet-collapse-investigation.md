@@ -112,5 +112,5 @@ Espionage and "democracy promotion" did not alone cause the collapse — but the
 
 ---
 
-Keywords: #soviet #collapse #western #orchestration #media #postwwii #isolation
+Keywords: #Soviet #Collapse #Western #Orchestration #Media #Postwwii #Isolation
 

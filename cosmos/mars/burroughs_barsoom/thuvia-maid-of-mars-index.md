@@ -46,5 +46,5 @@ Thuvia extends established geography (dead seas, Okar) and introduces telepathic
 
 ---
 
-Keywords: #thuvia #maid #mars #clue
+Keywords: #Thuvia #Maid #Mars #Clue
 

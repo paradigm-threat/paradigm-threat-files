@@ -232,5 +232,5 @@ The portrait image (`Johanna_Kinkel.jpg`) is a faithful photographic reproductio
 
 ---
 
-Keywords: #johanna #kinkel
+Keywords: #Johanna #Kinkel
 

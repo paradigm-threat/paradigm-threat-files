@@ -58,5 +58,5 @@ Fanny Mendelssohn (1805–1847), later Fanny Hensel. Virtuosic pianist; composed
 
 ---
 
-Keywords: #fanny #mendelssohn #hensel
+Keywords: #Fanny #Mendelssohn #Hensel
 

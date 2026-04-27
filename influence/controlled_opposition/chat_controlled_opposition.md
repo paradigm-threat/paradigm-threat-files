@@ -4,5 +4,5 @@
 
 ---
 
-Keywords: #chatcontrolledopposition #suppressed #tech #chat
+Keywords: #Chatcontrolledopposition #Suppressed #Tech #Chat
 

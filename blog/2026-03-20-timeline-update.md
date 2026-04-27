@@ -85,5 +85,5 @@ Timeline TTS slideshow updated with paragraph seek slider and playFromSentence f
 
 ---
 
-Keywords: #2026 #update #radiocarbon #dating #updates
+Keywords: #2026 #Update #Radiocarbon #Dating #Updates
 

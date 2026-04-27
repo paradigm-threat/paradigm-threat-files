@@ -8,5 +8,5 @@ See also: [Pluto page](/cosmos/pluto), [Mars](/cosmos/mars), [History/Chronology
 
 ---
 
-Keywords: #pluto
+Keywords: #Pluto
 

@@ -216,5 +216,5 @@ All of these encode a planetary hierarchy that predates the heliocentric model.
 
 ---
 
-Keywords: #narnia #planetary #encoding #lewis #saturnian #cosmology
+Keywords: #Narnia #Planetary #Encoding #Lewis #Saturnian #Cosmology
 

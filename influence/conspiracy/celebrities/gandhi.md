@@ -50,5 +50,5 @@ Mohandas K. Gandhi (1869–1948) is celebrated as an anti-colonial icon, but his
 
 ---
 
-Keywords: #gandhi #british #loyalty #racial #attitudes #assassination
+Keywords: #Gandhi #British #Loyalty #Racial #Attitudes #Assassination
 

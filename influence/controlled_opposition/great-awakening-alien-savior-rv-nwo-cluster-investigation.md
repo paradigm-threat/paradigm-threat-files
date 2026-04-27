@@ -490,7 +490,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 
 ---
 
-Keywords: #controlled-opposition #great-awakening #david-wilcock #lightworkers #rv #dinar #gcr #nesara #ancient-aliens #wef #great-reset #new-world-order #disclosure #conspirituality #mars #deep-state #drake-bailey #benjamin-fulford #qanon #jesse-ventura #iraqi-dinar #missing-scientists #april-2026 #petrodollar #dedollarization #oil-for-food #libya
+Keywords: #ControlledOpposition #GreatAwakening #DavidWilcock #Lightworkers #RV #Dinar #GCR #NESARA #AncientAliens #WEF #GreatReset #NewWorldOrder #Disclosure #Conspirituality #Mars #DeepState #DrakeBailey #BenjaminFulford #Qanon #JesseVentura #IraqiDinar #MissingScientists #April2026 #Petrodollar #Dedollarization #OilForFood #Libya
 
 **Last substantive update:** 2026-04-23 — **§3.3** Iraq/Libya reset read, timeline **§3.3.2**, gold stress-test **§3.3.3**; **§8** claims 7–9; **§9** Q7–Q8; **Limits** war-causation / media / Boko caveats; **§12** CBS Libya clip + Africa Check; **§3.6.6**; **§3.5**/**§3.7**.
 

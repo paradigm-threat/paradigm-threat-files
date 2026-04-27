@@ -156,5 +156,5 @@ After the fracture:
 
 ---
 
-Keywords: #slave #trades #moor #etymology
+Keywords: #Slave #Trades #Moor #Etymology
 

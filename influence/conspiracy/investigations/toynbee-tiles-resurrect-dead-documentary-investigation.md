@@ -104,5 +104,5 @@ Roughly as *Resurrect Dead* presents it:
 
 ---
 
-Keywords: #toynbee #tiles #resurrect #dead #documentary #street #campaign
+Keywords: #Toynbee #Tiles #Resurrect #Dead #Documentary #Street #Campaign
 

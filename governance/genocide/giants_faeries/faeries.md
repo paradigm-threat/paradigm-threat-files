@@ -18,5 +18,5 @@ sprites told in the Ryukyuan religion of Okinawa.
 
 ---
 
-Keywords: #faeries #existence #coverup #small #humanoids #like #fairies
+Keywords: #Faeries #Existence #Coverup #Small #Humanoids #Like #Fairies
 

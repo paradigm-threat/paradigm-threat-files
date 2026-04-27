@@ -4,5 +4,5 @@
 
 ---
 
-Keywords: #chatmaps #maps #chatroom
+Keywords: #Chatmaps #Maps #Chatroom
 

@@ -141,5 +141,5 @@ A complete set of war investigations examining Western conflicts through the tim
 
 ---
 
-Keywords: #2026 #update #six #wars #world #trump #pyramids #seven #days #population #control #major #restructuring
+Keywords: #2026 #Update #Six #Wars #World #Trump #Pyramids #Seven #Days #Population #Control #Major #Restructuring
 

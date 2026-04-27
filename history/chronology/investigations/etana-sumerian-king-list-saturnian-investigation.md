@@ -147,5 +147,5 @@ Do not collapse this material into either "just metaphor" or "definitely aliens.
 
 ---
 
-Keywords: #etana #sumerian #king #list #saturnian #wheels #sky
+Keywords: #Etana #Sumerian #King #List #Saturnian #Wheels #Sky
 

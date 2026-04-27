@@ -293,5 +293,5 @@ The two-book franchise leaves these questions open:
 
 ---
 
-Keywords: #massacre #mankind #2017 #reference
+Keywords: #Massacre #Mankind #2017 #Reference
 

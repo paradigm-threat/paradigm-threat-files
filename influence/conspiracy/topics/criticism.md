@@ -125,5 +125,5 @@ theorists.
 
 ---
 
-Keywords: #criticism #plan #countering
+Keywords: #Criticism #Plan #Countering
 

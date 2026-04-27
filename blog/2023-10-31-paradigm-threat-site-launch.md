@@ -45,5 +45,5 @@ This launch established paradigmthreat.net as the home for the project's researc
 
 ---
 
-Keywords: #2023 #paradigm #threat #site #launch #october #launches
+Keywords: #2023 #Paradigm #Threat #Site #Launch #October #Launches
 

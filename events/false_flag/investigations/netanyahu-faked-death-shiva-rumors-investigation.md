@@ -132,5 +132,5 @@ This section does not require “deepfake sci-fi” to be plausible. It relies o
 
 ---
 
-Keywords: #netanyahu #faked #death #shiva #rumors #want #motive #iran #narrative
+Keywords: #Netanyahu #Faked #Death #Shiva #Rumors #Want #Motive #Iran #Narrative
 

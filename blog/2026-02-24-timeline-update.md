@@ -88,5 +88,5 @@ The timeline is at [paradigmthreat.net/timeline](https://paradigmthreat.net/time
 
 ---
 
-Keywords: #2026 #update #atlantis #joan #arc #absu
+Keywords: #2026 #Update #Atlantis #Joan #Arc #Absu
 

@@ -130,5 +130,5 @@ This investigation examines the hypothesis that the British Empire (and other co
 
 ---
 
-Keywords: #british #divide #conquer #israel #empire #divideandconquer #india #pakistan #africa #deep #state #hypothesis
+Keywords: #British #Divide #Conquer #Israel #Empire #Divideandconquer #India #Pakistan #Africa #Deep #State #Hypothesis
 

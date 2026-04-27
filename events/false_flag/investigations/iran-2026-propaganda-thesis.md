@@ -59,5 +59,5 @@ Ongoing. **Project theory** (not asserted as proven): Iran may be waging a propa
 
 ---
 
-Keywords: #iran #2026 #propaganda #thesis #war
+Keywords: #Iran #2026 #Propaganda #Thesis #War
 

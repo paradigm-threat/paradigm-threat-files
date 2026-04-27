@@ -76,5 +76,5 @@ This document tracks **which label** the chronology uses for the same continuity
 
 ---
 
-Keywords: #deep #state #terminology #pyramidal #empire #fallen #atlantean
+Keywords: #Deep #State #Terminology #Pyramidal #Empire #Fallen #Atlantean
 

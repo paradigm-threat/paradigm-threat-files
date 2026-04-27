@@ -217,9 +217,7 @@ Under that read, the **coordinate walk** is less “random sci-fi tour” and mo
 
 ---
 
-## Keywords
-
-#CIAReadingRoom #Mars #RemoteViewing #Stargate #Iran #IslamicRevolution #Ayatollah #ReligiousRevival #Influence #Beacon #MarsRV #MARSExploration1984 #LifeOnMars #TechnologyOnMars #HollowEarthFork #FOIA #CREST #AIREvaluation #Disclosure #MKULTRA #ProjectForecastII #SuperCockpit #ThomasFurness #WrightPatterson #HumanMachineInterface #TwoWayPerception #TaskingCardProvenance #DeclassificationSubstitution #MFEE #MudFloodEnergeticEvent #MarsCatastrophe #PostMFEEcology #ControlledOpposition #May221984
+Keywords: #CIAReadingRoom #Mars #RemoteViewing #Stargate #Iran #IslamicRevolution #Ayatollah #ReligiousRevival #Influence #Beacon #MarsRV #MARSExploration1984 #LifeOnMars #TechnologyOnMars #HollowEarthFork #FOIA #CREST #AIREvaluation #Disclosure #MKULTRA #ProjectForecastII #SuperCockpit #ThomasFurness #WrightPatterson #HumanMachineInterface #TwoWayPerception #TaskingCardProvenance #DeclassificationSubstitution #MFEE #MudFloodEnergeticEvent #MarsCatastrophe #PostMFEEcology #ControlledOpposition #May221984
 
 ---
 

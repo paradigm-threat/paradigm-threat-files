@@ -73,5 +73,5 @@ Index of passages in `everest.txt` relevant to the Paradigm Threat investigation
 
 ---
 
-Keywords: #everest #clue
+Keywords: #Everest #Clue
 

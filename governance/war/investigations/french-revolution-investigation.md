@@ -115,5 +115,5 @@ The French Revolution produced the conditions for [Napoleon's 1812 invasion of R
 
 ---
 
-Keywords: #french #revolution #societized #consolidation #political #reorganization
+Keywords: #French #Revolution #Societized #Consolidation #Political #Reorganization
 

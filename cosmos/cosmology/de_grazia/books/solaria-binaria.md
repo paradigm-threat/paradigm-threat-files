@@ -51,5 +51,5 @@ This book is a foundational precursor to the full Saturnian Cosmology model deve
 
 ---
 
-Keywords: #solaria #binaria #origins #sun #its #planets
+Keywords: #Solaria #Binaria #Origins #Sun #Its #Planets
 

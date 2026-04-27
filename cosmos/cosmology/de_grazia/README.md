@@ -143,5 +143,5 @@ The **Thunderbolts Project** (Talbott + Thornhill) is the contemporary heir to t
 
 ---
 
-Keywords: #readme #alfred #de #grazia #complete #works
+Keywords: #Readme #Alfred #De #Grazia #Complete #Works
 

@@ -133,5 +133,5 @@ A new `animation/` directory containing an interactive visualization framework b
 
 ---
 
-Keywords: #2026 #update #new #chapters #ch11 #reorganization #tier #export #hierarchy #animation #module
+Keywords: #2026 #Update #New #Chapters #Ch11 #Reorganization #Tier #Export #Hierarchy #Animation #Module
 

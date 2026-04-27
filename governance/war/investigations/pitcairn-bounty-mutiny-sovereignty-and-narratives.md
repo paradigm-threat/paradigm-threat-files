@@ -312,5 +312,5 @@ A second, similar **total-move** discontinuity occurs with **Norfolk (1856)** an
 
 ---
 
-Keywords: #pitcairn #bounty #mutiny #sovereignty #narratives #modern #law
+Keywords: #Pitcairn #Bounty #Mutiny #Sovereignty #Narratives #Modern #Law
 

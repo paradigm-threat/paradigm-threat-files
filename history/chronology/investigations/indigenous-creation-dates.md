@@ -31,5 +31,5 @@ Indigenous chronologies (e.g., Quiche Maya, Popol Vuh, other traditions) provide
 
 ---
 
-Keywords: #indigenous #creation #dates #chronologies
+Keywords: #Indigenous #Creation #Dates #Chronologies
 
