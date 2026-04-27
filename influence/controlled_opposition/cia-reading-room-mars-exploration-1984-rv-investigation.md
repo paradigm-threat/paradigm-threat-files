@@ -19,7 +19,7 @@
 2. **Scope + anchors** → §1–§2  
 3. **Reading Room / CREST** → §3  
 4. **AIR (institutional closure vs this read)** → §4  
-5. **Mars PDF** → §5 (`5.1` … `5.7`)  
+5. **Mars PDF** → §5 (`5.1` … `5.8`)  
 6. **Open questions** → §6  
 7. **References** → §7  
 8. **Limits**  
@@ -52,7 +52,8 @@
 **In scope**
 
 - Declassified **CIA FOIA Electronic Reading Room** (`cia.gov/readingroom`): scale, **AIR / Star Gate** evaluation (as **contested closure narrative**, not as oracle), disclosure gaps.  
-- **Primary anchor:** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) — **author conclusion** above; session digest **§5.3**; companion [**full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md); **plain transcript:** [**`.txt`**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt).
+- **Primary anchor:** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) — **author conclusion** above; session digest **§5.3**; companion [**full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md); **plain transcript:** [**`.txt`**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt).  
+- **Predictive-programming adjunct:** *Chrono Trigger* (**§5.8**) — **fiction-before-declass** timing + thematic **rhyme**; **not** A-tier proof of writer access to this RDP.
 
 **Out of scope (here)**
 
@@ -78,6 +79,9 @@
 | [Cosmos — Mars hub](/cosmos/mars/page.md) | Motif layer; **not** a substitute for this file’s verdict. |
 | [RV two-way / Iran / Super Cockpit](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md) | **Sibling** — revival + two-way + cockpit **rhyme** off this anchor. |
 | [Remote viewing / æther (stub)](/science/telepathy/remote_viewing/aether-consciousness.md) | Stargate-era RV framing hooks. |
+| [Predictive programming hub](/influence/predictive_programming/page.md) · [RV in fiction index](/science/telepathy/remote_viewing/index-remote-viewing-fiction.md) | PP as **data**; time/distance scrying cluster rhymes **§5.8**. |
+| [Mars–Earth reincarnation §4](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | Cultural markers / PP vs disclosure correlation checklist (adds **1984 RV** and media dates). |
+| [Yasunori Mitsuda / Chrono franchise notes](/influence/stolen_credit/yasunori-mitsuda.md) | **Different** thesis (credits / corporate arc); listed so **§5.8** is not mistaken for that file’s verdict. |
 
 **Also read:** [Great Awakening / RV cluster](/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [CIA institution file](/governance/war/investigations/cia-investigation.md)
 
@@ -193,6 +197,34 @@ These sources record **what the press and agency preferred** readers to believe;
 
 **Author read — absence as signal:** Batch declassification explains **the filing cabinet**, not **the conscience**. Without **file-specific** signed benign / drill labeling, **silence** folds into **Conclusion §4** — default **Revelation of the Method** until **§6** is answered with **primary** paper.
 
+### 5.8 Predictive programming — *Chrono Trigger* as **redacted-fact** fiction (author hypothesis)
+
+> **Method:** Per [Predictive Programming hub](/influence/predictive_programming/page.md) — we log **convergence as data**, not as **court proof** of briefing rooms or copy-paste leaks. This subsection states an **author hypothesis** that sits **beside** (not **inside**) the **A-tier** Mars PDF verdict: the video **game** *Chrono Trigger* (Square, **1995**, SNES) is an unusually tight **rhyme** for **predictive programming built on redacted fact**, with **Mars-shaped content** smuggled under **time-travel** dress — the same **science-fiction redaction** move that **conflates space travel with time travel** so audiences **feel** interplanetary disaster without **naming** the planet the cleared transcript would later name.
+
+
+**Hard dates (why this is not “retrofit after the PDF went public”):**
+
+- **Session:** 22 May **1984** (still classified operational reality on the author’s read — **Conclusion**).  
+- ***Chrono Trigger*:** Japan **1995-03-11**, North America **1995-08-22** per [Wikipedia — *Chrono Trigger*](https://en.wikipedia.org/wiki/Chrono_Trigger) (tertiary; cross-check [Square Enix product page](https://www.jp.square-enix.com/chronotrigger/en/about.html)).  
+- **This PDF’s public release banner:** **Approved For Release 2000/08/08** (**§5.7**).
+
+So the commercial fiction landed **roughly a decade after** the RV session and **about five years before** the scan many people treat as “when the public could read it.” That ordering is exactly what investigators mean when they say **secret knowledge (or operational truth) circulates in fiction and myth before the file is declassified for real** — not because every writer had a folder, but because **the same pattern** is **allowed** to move through **culture** while **institutions** keep **plausible deniability**. The **frustration** is rational: you are told the Mars text is a **curiosity** or a **joke**, yet **pop culture** had already **trained** you to **misfile** “dead future,” **dome survivors**, and **alien harvesters** under **fantasy** — so when the PDF surfaces, **disbelief is pre-installed**.
+
+**Thematic map (game ↔ this transcript — author read):**
+
+| *Chrono Trigger* layer (citable overview) | Mars PDF / **§5.3–§5.5** echo (author hypothesis) |
+|-------------------------------------------|---------------------------------------------------|
+| **2300 AD “Future”** — post-catastrophe Earth, ruined advanced civ, perpetual storm / ice, last humans in **domes**, “**destitute**” tone ([Wikipedia — Story / Setting](https://en.wikipedia.org/wiki/Chrono_Trigger#Setting)) | **Shelter / hibernation**, **storm-filtered** structures, **corruption** of environment, **migration** imagery, **“larger boat”** metal transition — **present-tense** Martian stress under **MFEE** grammar (**§5.5**). |
+| **Time gates + Epoch** — navigation by era, including hub at **End of Time** ([Wikipedia — Gameplay / Plot](https://en.wikipedia.org/wiki/Chrono_Trigger#Gameplay)) | **Science-fiction redaction:** **time travel as narrative proxy** for **off-world / non-local** access — same family as **remote contact** and **memory-field** walks (**Conclusion** point 3). |
+| **Survivors “subsisting off of machine energy in place of food”** ([Wikipedia — Plot](https://en.wikipedia.org/wiki/Chrono_Trigger#Plot)) + **Enertron** restores HP/MP but the game **explicitly** says you remain **hungry** ([Chrono Wiki — Enertron](https://www.chronowiki.org/wiki/Enertron); [Fandom — Enertron](https://chrono.fandom.com/wiki/Enertron)) | **People who have lost hope in the future** — **same emotional species** as the transcript’s **ancient**, **philosophic**, **waiting**, **stripped** survival: **no visible abundance**, **sleep**, **functional** shells; **Enertron** reads as **pop-culture rehearsal** for **“kept alive by energetic refresh that does not feed you”** — **hunger without meals**. |
+| **Lavos** — **extraterrestrial** parasite, **crashes from space**, burrows, **harvests** DNA / energy, **razes** the surface in **1999 AD**, and in lore **threatens other worlds** ([Wikipedia — Characters / Lavos](https://en.wikipedia.org/wiki/Chrono_Trigger#Characters)) | **Invasion / extraction** grammar aimed at **Earth** — the **common Mars-adjacent SF trope** (cf. Wells lineage, [Mars fiction encoding index](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/)): a **non-human** **ancient** **hungry** **power** **out of alignment** with surface humanity. **“From the future”** in-universe doubles as **deep-time / non-linear** threat — rhymes **§5.4** (**misdirection epoch**) + **memory-channel** RV (**Conclusion**). |
+
+**Author sentiment (preserved):** The match is **uncanny enough** to be **infuriating** — not because Square’s writers **must** have cited **CIA-RDP96-00788R001900760001-9**, but because **mass culture** keeps **rehearsing** **Mars-collapse**, **dome hunger**, and **planetary parasite** plots while **taxpayers** are **gaslit** about a **literal MON/SUB Mars worksheet** sitting in the **Reading Room**. Treating **2300 AD** as a **Mars analogue** (“anything in the **Future** is **really** on **Mars**”) is **intentionally** **hermeneutic** — it is how **redacted PP** is **decoded** when **official copy** still says **million-year archaeology** (**§5.4**).
+
+**Cross-index (other PP work in-repo):** [Trump-era Hollywood PP](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) (method: **rhyme logging**); [RV / remote contact in fiction](/science/telepathy/remote_viewing/index-remote-viewing-fiction.md); [Urantia CO/PP](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md); [AI control PP](/science/ai/ai-control-investigation.md); timeline [Predictive programming — RoM](https://paradigmthreat.net/timeline/evt-predictive-programming). **Not** merged with [Mitsuda investigation](/influence/stolen_credit/yasunori-mitsuda.md) — that file is **provenance / industry**, not this **Mars-RV** rhyme.
+
+**Limits:** Wikipedia and fan wikis are **not** primary game ROM text; for **dialogue exactness** (Enertron line), verify against a **licensed** cartridge / Square Enix build. No **documented** chain ties Square **1993–1995** development to **STARGATE** tasking — the claim here is **pattern**, not **FOIA receipt**.
+
 ---
 
 ## 6. Open questions (investigation backlog)
@@ -200,7 +232,8 @@ These sources record **what the press and agency preferred** readers to believe;
 1. **Mars / off-world:** extend beyond **`CIA-RDP96-00788R001900760001-9`** only after **context** read — **anchor verdict already fixed** in this file.  
 2. **Custody + intent brief:** any **primary** that **simultaneously** (a) **imaged physical 3×5** tasking card, (b) **custody log**, and (c) **signed administrative statement** of **benign release intent** or **disinfo drill labeling** for this exact PDF — **absent = default stands** (**Conclusion**).  
 3. **FOIA case / release decision for this RDP:** Reading Room **metadata** or **FOIA logs** naming **case number** and **reviewer decision** tied **uniquely** to **`CIA-RDP96-00788R001900760001-9`**.  
-4. **Corpus grep (STARGATE / RV):** mine declassified **MON/SUB** (and related) transcripts for **target-models-viewer** diction — e.g. **hallucination**, **doesn’t know who I am**, **aware of me**, **dismissed** / **ignored** the viewer — and log **RDP** IDs beside this anchor’s **§5.3** meta-line.
+4. **Corpus grep (STARGATE / RV):** mine declassified **MON/SUB** (and related) transcripts for **target-models-viewer** diction — e.g. **hallucination**, **doesn’t know who I am**, **aware of me**, **dismissed** / **ignored** the viewer — and log **RDP** IDs beside this anchor’s **§5.3** meta-line.  
+5. **PP / fiction survey:** extend [Mars–Earth reincarnation §4 checklist](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) with **1995** *Chrono Trigger* and other **dome / machine-food / alien harvester** games — **correlation only**, no causal claim without receipts.
 
 ---
 
@@ -213,11 +246,13 @@ These sources record **what the press and agency preferred** readers to believe;
 - **Declass / mandate (§5.7):** [FY 1995 CONGRESSIONAL BUDGET - STAR GATE](https://www.cia.gov/readingroom/document/cia-rdp96-00791r000300010003-2) · [Senate Appropriations — directed action (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002900010001-9.pdf) · [Black Vault — Mars Exploration page](https://www.theblackvault.com/documentarchive/stargate-collection-mars-exploration-may-22-1984/) (**C**)  
 - **RV channel theory (observer-at-site language, §5.3):** [CIA-RDP79-00999A000200010036-6.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010036-6.pdf)  
 - CREST: `https://www.cia.gov/stories/story/cia-posts-more-than-12-million-pages-of-crest-records-online/`  
-- **Sibling:** [RV two-way, Iran revival, Super Cockpit](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md)
+- **Sibling:** [RV two-way, Iran revival, Super Cockpit](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md)  
+- **§5.8 (*Chrono Trigger* / PP):** [Wikipedia — *Chrono Trigger*](https://en.wikipedia.org/wiki/Chrono_Trigger) · [Square Enix — ABOUT THIS GAME](https://www.jp.square-enix.com/chronotrigger/en/about.html) · [Chrono Wiki — 2300 AD](https://www.chronowiki.org/wiki/2300_AD) · [Chrono Wiki — Enertron](https://www.chronowiki.org/wiki/Enertron) · [Fandom — Enertron](https://chrono.fandom.com/wiki/Enertron)  
+- **PP hub + peers:** [Predictive programming](/influence/predictive_programming/page.md) · [Mars fiction encoding (site)](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/)
 
 ---
 
-Keywords: #CIAReadingRoom #Mars #RemoteViewing #Stargate #MarsRV #MARSExploration1984 #LifeOnMars #TechnologyOnMars #FOIA #CREST #AIREvaluation #Disclosure #CurrentMartianCivilization1984 #DeepTimeMisdirection #RVMemoryChannel #TwoWayRV #TargetSidePerception #ArchiveAudit #RevelationOfTheMethod #DeclassChain #MFEE #MudFloodEnergeticEvent #MarsCatastrophe #PostMFEEcology #May221984 #ParadigmThreatFiles
+Keywords: #CIAReadingRoom #Mars #RemoteViewing #Stargate #MarsRV #MARSExploration1984 #LifeOnMars #TechnologyOnMars #FOIA #CREST #AIREvaluation #Disclosure #CurrentMartianCivilization1984 #DeepTimeMisdirection #RVMemoryChannel #TwoWayRV #TargetSidePerception #ArchiveAudit #RevelationOfTheMethod #DeclassChain #MFEE #MudFloodEnergeticEvent #MarsCatastrophe #PostMFEEcology #May221984 #ParadigmThreatFiles #PredictiveProgramming #ChronoTrigger #ChronoTrigger2300AD #Enertron #Lavos #FictionBeforeDeclass #RedactedFact #SpaceVsTimeTravel #ScienceFictionRedaction
 
 ---
 
