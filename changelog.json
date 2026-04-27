@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-27T14:35:23.214Z",
+    "date": "2026-04-27T14:37:25.945Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.md",
+        "href": "/governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-27T14:35:22.000Z",
+    "message": "Add Trump assassination / Kimmel / WHCD / ballroom investigation",
     "files": [
       {
         "status": "M",
@@ -3904,32 +3917,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-27T11:15:03.000Z",
     "message": "Cruz/Kevin investigation: archive former Date line in Changelog",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      },
-      {
-        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
-        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
-      },
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-27T11:14:13.000Z",
-    "message": "Cruz/Kevin investigation: dedupe S1E4 block, restore Basketball, Changelog, table trim",
     "files": [
       {
         "status": "M",
