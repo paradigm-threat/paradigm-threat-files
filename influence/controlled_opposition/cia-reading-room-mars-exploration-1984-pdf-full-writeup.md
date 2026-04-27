@@ -28,6 +28,7 @@
 - **Canonical cite** for the **session words** is the **CIA-hosted** PDF or landing page (§1).
 - **Third-party PDFs** sometimes prepend **The Black Vault** boilerplate (FOIA clearinghouse advertisement). That block is **not** CIA session content; the **TRANSCRIPT** heading marks where the agency session record begins.
 - **THOLONIA** and other **HTML transcriptions** are handy but **C-tier** — checksum against **A-tier** before treating line breaks or punctuation as forensic.
+- **`pdftotext` quirk:** pause clusters in the PDF text layer often extract as **Unicode bullet** (`•`, U+2022), not ASCII `.` — the in-repo [`.txt`](cia-reading-room-mars-exploration-1984-transcript.txt) normalizes those to periods (see its header **Encoding note**).
 
 ---
 
