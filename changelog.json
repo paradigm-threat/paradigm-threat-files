@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-27T12:51:21.287Z",
+    "date": "2026-04-27T13:02:13.689Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-27T12:51:19.000Z",
+    "message": "Rename CIA Reading Room investigation to include Mars; trim redundancy.",
     "files": [
       {
         "status": "M",
@@ -446,32 +464,6 @@
       },
       {
         "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-26T13:26:36.000Z",
-    "message": "Antisemitism working definition: embed supplementary figure after Ten Commandments",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md",
-        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism2.png",
-        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism2.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism2.png"
-      },
-      {
-        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png",
-        "alt": "Paradigm Threat — working definition of antisemitism (illustrative header)"
       }
     ]
   }
