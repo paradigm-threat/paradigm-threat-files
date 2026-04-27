@@ -2,7 +2,7 @@
 
 ![Mars Exploration 1984 — RV session journey / coordinate path](cia-reading-room-mars-exploration-1984-journey.png)
 
-> **TL;DR:** Pop “debunk” packages (AIR closure narrative, late-night **nothing-to-see-here** glosses, **it was just deep-time protocol**) ask for **faith** that an agency with the CIA’s **record** would leave this transcript in the Reading Room **without** pull, **quarantine**, or **file-specific intent** documentation. **None of that has been produced.** We **lack** an **A-tier** FOIA **case + decision memo** naming **who** ordered **`CIA-RDP96-00788R001900760001-9`** public and **why** (**§5.7**); **that absence is suspicious**; pending a **positive** paper trail, release is modeled as **Revelation of the Method** (see **Conclusion** §4, [Mud flood — RoM](/history/mudflood/page.md)). This file **treats** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) as **evidence of a current Martian civilization alive in 1984**; **~1 Ma** on the card = **misdirection**; RV = **real-time imagery** + **real-time memory** (non-linear vs naive clocks). **Iran / revival / Super Cockpit “two-way”** rhymes live in the **sibling investigation:** [CIA Reading Room — RV two-way, Iran / religious revival](/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md).
+> **TL;DR:** Pop “debunk” packages (AIR closure narrative, late-night **nothing-to-see-here** glosses, **it was just deep-time protocol**) ask for **faith** that an agency with the CIA’s **record** would leave this transcript in the Reading Room **without** pull, **quarantine**, or **file-specific intent** documentation. **None of that has been produced.** We **lack** an **A-tier** FOIA **case + decision memo** naming **who** ordered **`CIA-RDP96-00788R001900760001-9`** public and **why** (**§5.7**); **that absence is suspicious**; pending a **positive** paper trail, release is modeled as **Revelation of the Method** (see **Conclusion** §4, [Mud flood — RoM](/history/mudflood/page.md)). This file **treats** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) as **evidence of a current Martian civilization alive in 1984**; **~1 Ma** on the card = **misdirection**; RV = **real-time imagery** + **real-time memory** (non-linear vs naive clocks). **Iran / revival / Super Cockpit “two-way”** rhymes live in the **sibling investigation:** [CIA Reading Room — RV two-way, Iran / religious revival](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md).
 
 **Date:** 2026-04-28 — split from Iran/two-way file (2026-04-26).  
 **Status:** Closed — **author conclusion** on **`CIA-RDP96-00788R001900760001-9`**.
@@ -41,7 +41,7 @@
 
 **Archive-audit bar:** Only a **complete** CIA archive — **no** missing volumes, **no** illegible redactions, **no** “reprocessed” shell games — could **morally** clear the agency for strangers who live with its **documented** harms. **Until then**, readers who rely on **what was actually released** get to **infer**, speculate, and **weight** the Mars file as **positive evidence** of what it **appears** to describe.
 
-**Sibling thread:** [RV two-way, Iran revival, Super Cockpit](/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md) — uses this PDF as **phenomenology substrate** for Earth-side **revival / affect / cockpit** rhymes.
+**Sibling thread:** [RV two-way, Iran revival, Super Cockpit](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md) — uses this PDF as **phenomenology substrate** for Earth-side **revival / affect / cockpit** rhymes.
 
 ---
 
@@ -54,7 +54,7 @@
 
 **Out of scope (here)**
 
-- **Iran / Islamic revival / Super Cockpit two-way** hypothesis map — **[sibling file](/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md)**.  
+- **Iran / Islamic revival / Super Cockpit two-way** hypothesis map — **[sibling file](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md)**.  
 - Peer-reviewed **planetary geology** or NASA **instrument validation** of SUB’s lines (see **Limits**).
 
 **Evidence tiers**
@@ -74,7 +74,7 @@
 | [Mars Exploration 1984 — PDF full writeup](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) | **`CIA-RDP96-00788R001900760001-9`**: acquisition + **MON/SUB** by segment. |
 | [Plain transcript (.txt)](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt) | **`pdftotext`** extract; checksum against [**A-tier PDF**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf). |
 | [Cosmos — Mars hub](/cosmos/mars/page.md) | Motif layer; **not** a substitute for this file’s verdict. |
-| [RV two-way / Iran / Super Cockpit](/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md) | **Sibling** — revival + two-way + cockpit **rhyme** off this anchor. |
+| [RV two-way / Iran / Super Cockpit](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md) | **Sibling** — revival + two-way + cockpit **rhyme** off this anchor. |
 | [Remote viewing / æther (stub)](/science/telepathy/remote_viewing/aether-consciousness.md) | Stargate-era RV framing hooks. |
 
 **Also read:** [Great Awakening / RV cluster](/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [CIA institution file](/governance/war/investigations/cia-investigation.md)
@@ -149,7 +149,7 @@ Under that read, the **coordinate walk** is **sampling the same wound at differe
 | **Fallback biome** | **Volcanism**, **gas**, **novel** stressed flora — “**frying pan into the fire**” | **Volcanos**, **gas pockets**, **strange plants**, **volatile**, **different storm** after the **boat** transition — [spore / cylinders file](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md) |
 | **Metal hull transition** | Mass off-surface or **subsurface** movement (hypothesis) | **Inside a larger boat**, **rounded walls**, **shiny metal** — **pressure hull** phenomenology |
 
-**Cross-index:** MFEE-scale **collapse + evacuation** on Mars is the **material substrate** for the **same century** where the **sibling** [Iran / two-way investigation](/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md) tests **religious-revival** and **two-way** phenomenology on Earth — **shared disaster grammar**, not **identity** of mechanisms.
+**Cross-index:** MFEE-scale **collapse + evacuation** on Mars is the **material substrate** for the **same century** where the **sibling** [Iran / two-way investigation](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md) tests **religious-revival** and **two-way** phenomenology on Earth — **shared disaster grammar**, not **identity** of mechanisms.
 
 **Plain-text for grep / LLM chunking:** [`.txt` transcript](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt). **Timeline cross-index:** [MudFlood & World Cataclysm](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm) (paradigm-threat-timeline) cites this anchor.
 
@@ -197,7 +197,7 @@ These sources record **what the press and agency preferred** readers to believe;
 - **Dismissal literature (§5.6):** [Slate (2017)](https://slate.com/technology/2017/03/did-the-cia-really-astrally-project-to-mars-in-1984.html) · [Boing Boing (2018)](https://boingboing.net/2018/01/03/transcript-of-the-armys-atte.html) · [Wikipedia — Remote viewing](https://en.wikipedia.org/wiki/Remote_viewing)  
 - **Declass / mandate (§5.7):** [FY 1995 CONGRESSIONAL BUDGET - STAR GATE](https://www.cia.gov/readingroom/document/cia-rdp96-00791r000300010003-2) · [Senate Appropriations — directed action (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002900010001-9.pdf) · [Black Vault — Mars Exploration page](https://www.theblackvault.com/documentarchive/stargate-collection-mars-exploration-may-22-1984/) (**C**)  
 - CREST: `https://www.cia.gov/stories/story/cia-posts-more-than-12-million-pages-of-crest-records-online/`  
-- **Sibling:** [RV two-way, Iran revival, Super Cockpit](/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md)
+- **Sibling:** [RV two-way, Iran revival, Super Cockpit](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md)
 
 ---
 

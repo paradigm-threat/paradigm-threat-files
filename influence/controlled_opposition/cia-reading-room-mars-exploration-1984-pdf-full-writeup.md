@@ -2,7 +2,7 @@
 
 Mars Exploration 1984 — session journey / coordinate path (header)
 
-**Companion** to **[Mars Exploration 1984 — RV investigation](cia-reading-room-mars-exploration-1984-rv-investigation.md)** — **author verdict (Mars anchor):** [**Conclusion (author verdict, Mars anchor)**](cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor). **Earth-side** two-way / Iran / **Super Cockpit** rhymes: [RV two-way, Iran revival investigation](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md). This file is a **section-by-section digest** of the declassified PDF text (protocol + transcript): **layout, order, coordinates, and quoted language**. Interpretive **meaning** (present Martian civilization in **1984**, **~1 Ma** card line as **misdirection**, RV as **real-time imagery + memory channel**) lives in the **Mars investigation** — not repeated here line-by-line. **Full plain text** (same directory, `pdftotext` + header): `[cia-reading-room-mars-exploration-1984-transcript.txt](cia-reading-room-mars-exploration-1984-transcript.txt)`.
+**Companion** to **[Mars Exploration 1984 — RV investigation](cia-reading-room-mars-exploration-1984-rv-investigation.md)** — **author verdict (Mars anchor):** [**Conclusion (author verdict, Mars anchor)**](cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor). **Earth-side** two-way / Iran / **Super Cockpit** rhymes: [RV two-way, Iran revival investigation](cia-reading-room-rv-two-way-iran-revival-investigation.md). This file is a **section-by-section digest** of the declassified PDF text (protocol + transcript): **layout, order, coordinates, and quoted language**. Interpretive **meaning** (present Martian civilization in **1984**, **~1 Ma** card line as **misdirection**, RV as **real-time imagery + memory channel**) lives in the **Mars investigation** — not repeated here line-by-line. **Full plain text** (same directory, `pdftotext` + header): `[cia-reading-room-mars-exploration-1984-transcript.txt](cia-reading-room-mars-exploration-1984-transcript.txt)`.
 
 Mars Exploration 1984 — declassified PDF digest (figure)
 
@@ -270,7 +270,7 @@ Approximate order as **MON** issues moves (all **in the time on the card** unles
 ## 8. Related in-repo files
 
 - [Mars Exploration 1984 — RV investigation](cia-reading-room-mars-exploration-1984-rv-investigation.md) — **closed author verdict (Mars anchor)**; **§5.2** local mirror negative find; **§5.5** **Mars MFEE** phase correlation (before / pulse / after); **§5.6** dismissal literature; **§5.7** FOIA / declass chain.
-- [RV two-way, Iran revival, Super Cockpit](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md) — **open** Earth-side **two-way** / revival / **Super Cockpit** rhyme (substrate = Mars file).
+- [RV two-way, Iran revival, Super Cockpit](cia-reading-room-rv-two-way-iran-revival-investigation.md) — **open** Earth-side **two-way** / revival / **Super Cockpit** rhyme (substrate = Mars file).
 - [Plain transcript (.txt)](cia-reading-room-mars-exploration-1984-transcript.txt) — **MON/SUB** + acquisition block (machine extract).
 - Local mirror ops (outside **paradigm-threat-files**): `~/dev/wget/cia/cia-reading-room-local-mirror-and-ocr-operations.md`
 - **Timeline:** [The MudFlood & World Cataclysm](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm) (paradigm-threat-timeline) cites this PDF for **MFEE phenomenology** cross-read.
