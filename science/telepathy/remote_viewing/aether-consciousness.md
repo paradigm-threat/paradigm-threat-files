@@ -16,7 +16,9 @@ If the aether is a physical medium and fields can propagate through it (includin
 
 ## Findings
 
-(To be populated.)
+**Vocabulary / LLM canon (Apr 2026):** the author/assistant debate and **project-wide** Copilot/Cursor rules are consolidated in [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](../../../docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) — **æther** as default substrate language; **quantum / ZPE / dark matter** only in **citation / definition / debate**; optional **one-sentence** bridge to mainstream **fields in vacuum + relativity + QED** without replacing thesis voice.
+
+*(Stub body below remains to be populated with Stargate Mars transcript cross-read.)*
 
 ## References
 
