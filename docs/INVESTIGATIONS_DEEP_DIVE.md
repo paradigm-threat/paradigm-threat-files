@@ -2,7 +2,7 @@
 
 **Purpose:** List every investigation in §0; focus unfinished work and TODOs in §1; validate claims where reasonable in §2; record dead ends; give objective likelihood on key claims; list remaining todos and **books/full texts to obtain** as original sources.
 
-**Date:** 2026-03-16 (updated 2026-04-24: Lacatski **§3.7** insider/politics mechanics + **§6.1** verbatim author block + GA **§11** cross-read; **§3.5** lattice + row 19; 2026-04-23: Great Awakening / alien-savior / RV cluster controlled-opposition investigation added; 2026-04-21: Ariel Sharon Gaza/coma investigation added; §0 complete investigation inventory; 2026-04-19: Trump-era Hollywood investigation refactored to PP scorecard + CA:BNW / blockade cluster; 2026-03-27: Jonestown / CIA Latin America pattern investigation added; 2026-04-18: *Call of Duty* MW investigation + [investigation writing instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md); 2026-04-18: §5 editor note — no absolute OS paths in investigation bodies; use end-of-file Investigator notes)
+**Date:** 2026-03-16 (updated 2026-04-28: Trump assassination attempts / Kimmel / WHCD / ballroom investigation added (§0 + §1 row 20); 2026-04-24: Lacatski **§3.7** insider/politics mechanics + **§6.1** verbatim author block + GA **§11** cross-read; **§3.5** lattice + row 19; 2026-04-23: Great Awakening / alien-savior / RV cluster controlled-opposition investigation added; 2026-04-21: Ariel Sharon Gaza/coma investigation added; §0 complete investigation inventory; 2026-04-19: Trump-era Hollywood investigation refactored to PP scorecard + CA:BNW / blockade cluster; 2026-03-27: Jonestown / CIA Latin America pattern investigation added; 2026-04-18: *Call of Duty* MW investigation + [investigation writing instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md); 2026-04-18: §5 editor note — no absolute OS paths in investigation bodies; use end-of-file Investigator notes)
 
 ---
 
@@ -10,7 +10,7 @@
 
 Every paradigm-threat-files investigation that uses the `*investigation.md` filename convention, plus [reverse-crusades-comparison.md](/governance/war/investigations/reverse-crusades-comparison.md), [vril-society.md](/governance/war/investigations/vril-society.md), and [wuxing-five-planets-dark-ages.md](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) (same treatment as site indexes). Deep-dive validation in §2 below applies only where a subsection exists; the rest are listed here so nothing is orphaned.
 
-**Count:** 81 files in the lists below.
+**Count:** 82 files in the lists below.
 
 **Supplementary** (same research lane, different filename): [Chronology investigations index](/history/chronology/investigations/index-investigations.md) lists companion articles (e.g. Rus–Horde lexicon, New World naming). [War investigations hub](/governance/war/investigations/page.md) lists thematic clusters. Fiction-encoding threads: [Narnia planetary encoding](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md), [Tolkien redacted fact](/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md), [Swift investigation](/influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift.md), [Asimov investigation threads](/influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads.md).
 
@@ -50,6 +50,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [The Four Reverse Crusades: A Structural Comparison](/governance/war/investigations/reverse-crusades-comparison.md)
 - [Investigation: Soviet Collapse — Western Orchestration, Media, and Post-WWII Isolation](/governance/war/investigations/soviet-collapse-investigation.md)
 - [Investigation: RMS Titanic (1912) — Timing, Alternative Narratives, and Aftermath](/governance/war/investigations/titanic-sinking-investigation.md)
+- [Investigation: Donald Trump — assassination & severe-security incidents, Kimmel / WHCD (April 2026), media framing (Charlie Kirk rhyme), White House ballroom](/governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.md)
 - [Investigation: Armed confrontations — U.S. citizens vs. federal government, military, and federal agents](/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md)
 - [Investigation: US Civil War — British Funding, Slavery as Instrument, and the DU Weapon Thesis](/governance/war/investigations/us-civil-war-investigation.md)
 - [Vril Society: Claim, Debunk, and Redaction Potential](/governance/war/investigations/vril-society.md)
@@ -141,8 +142,9 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 | 17 | Trump-era Hollywood — PP trends, scorecard, CA:BNW vs maritime blockade news | [trump-era-hollywood-political-media-investigation.md](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) | § Weak points — scene-level script vs blockade wording; Marvel dev timelines; archival ACW 2.0 pitch | Reuters Venezuela; Defense News Hormuz 2026; Wikipedia CA:BNW plot |
 | 18 | Great Awakening / alien savior / RV cluster — CO vs human “reset” | [great-awakening-alien-savior-rv-nwo-cluster-investigation.md](/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) | §9–§10: algorithm cluster study, phrase timeline, SEC/FBI URL pin list, “conspirituality” secondary sources | Briones *Conspirituality* (2020 working paper / book); WEF *Great Reset* edition cited in-file |
 | 19 | Lacatski / AAWSAP — insider mechanics, politics, conditional-tech / bureaucracy fork | [lacatski-consciousness-craft-viral-post-investigation.md](/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.md) | §8–§9: Weaponized verbatim; post provenance; appropriations/Kona/RE falsifiers (**§8** Q6–9); DIA 38 titles mirror; §3.5 drift check | None explicit |
+| 20 | Trump — assassination attempts, Kimmel/WHCD, ballroom national-security frame | [trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.md](/governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.md) | §10 table: ABC CC / docket / USSS after-action / appeals; §3.4 names to A-tier | House Task Force report (`CRPT-118hrpt873`); DOJ filings when posted |
 
-**Total in §1 table:** 19 investigations with explicit unfinished work. **Full corpus:** 81 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
+**Total in §1 table:** 20 investigations with explicit unfinished work. **Full corpus:** 82 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
 
 ---
 
