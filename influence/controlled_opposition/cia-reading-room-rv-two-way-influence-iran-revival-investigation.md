@@ -6,10 +6,12 @@
 
 > **Author sentiment (explicit):** The main investigative target is whether **U.S. intelligence exploration of anomalous cognition** (remote viewing and adjacent programs) could overlap—organizationally, doctrinally, or in popular interpretation—with **events framed in religious terms** (e.g. late‑1970s / 1980s **Islamic revolution in Iran**, broader **religious revival** discourse), including the **speculative** possibility of **two-way** or **affect-rich** phenomenology (not only passive “viewing”). That is a **historical and epistemic** question: we look for **convergent clues** (language, program structure, contemporaneous programs, routing of “beacon” concepts, etc.), not a single smoking-gun paragraph.
 
-> **Parallel track (same evidence bar):** We also collect **Reading Room PDFs** surfaced by searches for **Mars, Moon, planets, space, coordinates, UFO / anomalous craft, “off-world,”** and named viewers (e.g. Pat Price, Ingo Swann) in combination with RV program names. The **canonical Mars transcript** (§7.4.1) is **primary evidence for what the monitor and subject said under protocol**, including **technology- and life-like metaphors** (“larger boat,” “shiny metal,” “strange plants,” storms). That is **not** proof those things existed on Mars ~1 Ma B.P.; see **mainstream reading** there.
+> **Author working frame (2026-04-28 — this file only):** Treat [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) (`CIA-RDP96-00788R001900760001-9`) as the **main research piece** here: for **this investigation’s narrative line**, we read the transcript as **describing life and technology on Mars** under an environment **very unlike Earth** (megalithic / storm / “boat” / metal / vegetation language read **literally** for clue-hunting, not as “mere metaphor by default”). **Hollow Earth** or other subsurface frames are acknowledged as a **speculative fork** (“could be the same kind of cover-up”) but **Mars stays the default assumption** until something **definitively** displaces it. Given the **CIA’s documented reputation** for deception, compartmentalization, and contested disclosures, this file **provisionally assumes** both (a) **Super Cockpit–class two-way human–machine / perception loops** (§7.6) and (b) **RV contact with non‑ordinary life / tech** as **operationally real lines of effort** the state may not have fully declassified—**without** claiming that assumption is **settled fact** for science or courts. **Super Cockpit** is the **engineering-side rhyme** for the **two-way tech** intuition applied to **Ayatollah / religious-revival** phenomenology (crowd-scale affect, “beacon,” feedback) in §5–§7.
 
-**Date:** 2026-04-28 — §7.4.1: author Mars-slide transcript **matched** to primary Reading Room PDF `CIA-RDP96-00788R001900760001-9`; §7.6 Forecast II / Super Cockpit analogy.  
-**Status:** Open — **Mars 1984 session** is the **anchored primary** for “technology + life” *language* in declassified RV text until a superseding document appears; Iran / two-way threads remain separate. Machine-assisted corpus work is **outside this repo** (Investigator notes).
+> **Parallel track:** The Mars PDF above is the **canonical anchor**; other Reading Room pulls (Moon, coordinates, named viewers, etc.) support or complicate that spine. Skeptical / mainstream **counter-read** of the same PDF remains in **§7.4.1** so the file stays honest for readers who do **not** adopt the author frame.
+
+**Date:** 2026-04-28 — **Main anchor:** `CIA-RDP96-00788R001900760001-9` (author literal-Mars + Super Cockpit working frame).  
+**Status:** Open — **Iran / revival + two-way** thread is read **through** Mars session language + USAF **two-way interface** culture (§7.6). Machine-assisted corpus work is **outside this repo** (Investigator notes).
 
 > **LLM vocabulary (æther):** project-wide assistant rules for substrate language vs pop-physics labels are in [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) (Apr 2026 debate capture).
 
@@ -20,12 +22,13 @@
 **In scope**
 
 - Declassified **CIA FOIA Electronic Reading Room** materials (URLs under `cia.gov/readingroom`), **external** framing: how big the Reading Room is, what the **AIR / Star Gate** evaluation claimed, and why “missing downloads” still dominate the picture.
-- **Hypothesis map** and **open questions** that can be pursued with **released PDFs** (Reading Room search, STARGATE collection, Mars-adjacent hits) without assuming any private mirror is complete.
+- **Hypothesis map** and **open questions** pursued with **released PDFs**, centered on **`CIA-RDP96-00788R001900760001-9`** as the **primary narrative anchor** under the **author working frame** (header blockquote).
+- **Super Cockpit / Forecast II** (§7.6) as the **institutional two-way technology** rhyme for the **Ayatollah / revival** “affect + feedback” line.
 
 **Out of scope (here)**
 
-- Proving causality between RV programs and **specific** religious experiences in Iran or elsewhere.
-- Treating session narratives inside RV files as **verified intelligence** about the external world (they are **primary sources for what viewers wrote**, not for metaphysics).
+- Proving causality between RV programs and **specific** religious experiences in Iran or elsewhere **to a legal or scientific verdict**.
+- **Outside this file’s author frame:** treating the Mars transcript as **peer-reviewed planetary fact** or **court-ready proof** of past life on Mars; see **Limits** and **§7.4.1** mainstream read.
 
 **Evidence tiers**
 
@@ -35,9 +38,11 @@
 
 ---
 
-## 2. In-repo anchors (Mars + RV, not proof of off-world ops)
+## 2. In-repo anchors (Mars + RV)
 
-These files already tie **Stargate-era remote viewing** to **Mars** or **consciousness-at-target** framing before any Reading Room bulk work:
+**Main anchor (A-tier PDF, author literal read in this file):** [*MARS EXPLORATION, MAY 22, 1984*](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) — full transcript + tasking envelope description; see **§7.4.1**.
+
+These files also tie **Stargate-era remote viewing** to **Mars** or **consciousness-at-target** framing elsewhere in the repo:
 
 | Anchor | Why it matters here |
 |--------|---------------------|
@@ -93,6 +98,10 @@ No single folder or keyword crawl equals “everything CIA posted.”
 
 - **Cross-correlation** between peak RV program activity (late Cold War) and **Iran revolution / hostage crisis** timing is **chronologically possible** to *ask about*; establishing **operational co-tasking** requires **document-internal co-reference** (same memo routing, same project code, dated tasking), not keyword proximity across unrelated FOIA logs.
 
+### 5.4 Author-led **two-way** model (Mars RV + Super Cockpit → revival phenomenology)
+
+Under the **author working frame** (header): **Mars 1984** supplies **vocabulary of life, migration, shelter, craft-like interiors, and volatile environments** read as **real** for this investigation’s purposes; **Super Cockpit** (§7.6) supplies a **documented** (USAF / press trail) picture of **closed-loop, multimodal** control and perception—**voice, gaze, synthetic world replacement, eventual touch / “thinking” hooks in pop summaries**. The **hypothesis glue** for **Iran / Ayatollah / religious revival** is not “RV equals cockpit” but: **could crowd-scale religious affect be discussed or prototyped with the same *two-way feedback* intuition** (target ↔ perceiver, “beacon,” grid-like seating, non-uniform field) that appears in **both** RV protocol language and **advanced cockpit / battlespace UI** discourse? This section stays **pattern-tier** until one memo **names** both threads together.
+
 ---
 
 ## 6. Open questions (investigation backlog)
@@ -102,6 +111,7 @@ No single folder or keyword crawl equals “everything CIA posted.”
 3. **AIR vs session claims:** compare AIR report language to **specific session transcript** language about **targets** (does the program ever *task* “effect,” or only “describe”?).
 4. **Counter-deception:** when a memo uses religious vocabulary, is it **analysis of third-party belief** rather than operational intent?
 5. **Forecast II / Super Cockpit pull-quote (§7.6):** locate **primary** print or PDF (DTIC, AF history office, symposium proceedings, or named magazine issue) carrying the **exact** “THE SUPER COCKPIT” block or the **Forecast II** sentence attributed in the author’s screenshot; file page number for the investigation table.
+6. **Hollow Earth fork (optional):** if any **Reading Room** or **primary military** text **explicitly** ties Mars-session **vocabulary** to subsurface / “inner” geography, log it; otherwise leave as **non-default** branch per author frame.
 
 ---
 
@@ -156,6 +166,8 @@ An author-supplied graphic (“CIA Remote viewing experiments, 1984”) overlaid
 
 **Session setup (what the file itself records — A-tier):** method described as **sealed envelope** plus **geographic coordinates**; card in envelope: **planet Mars**, time of interest **~1 million years B.C.**, coordinates **40.89° N, 9.55° W** given verbally during the interview; transcript dated **22 May 1984**, 10:09 AM block. Earlier in the same session the subject reports **pyramid / okra-colored** forms, **dust storm**, **megalithic** surfaces, etc., before the monitor drives **“when the others left”** follow-ups that yield the **boat / volcano / plants** language.
 
+**Investigation read (author frame — see header):** For **this file**, that language is treated as **describing actual Martian (or Mars-local) life and technology** in a **hostile, non-Earth-like** setting—**gold** as a **primary-text spine** for the Ayatollah / revival + two-way inquiry, **even where** planetary science would demand independent instruments. **Hollow Earth** or other “hiding under cover” hypotheses stay **secondary forks**, not the default.
+
 **Mainstream / skeptical reading (“what it’s supposed to be” if not taken as literal Mars history):**
 
 - **Document type:** A **controlled remote-viewing style interview transcript** (MON prompts, SUB free-report), preserved as a **historical FOIA release**, not a peer-reviewed planetary science paper.
@@ -170,9 +182,11 @@ An author-supplied graphic (“CIA Remote viewing experiments, 1984”) overlaid
 
 For **“CIA technology + experiments”** outside RV, the Reading Room hosts **MKULTRA** landing pages and PDF bundles; start at the CIA’s own index page for the topic, e.g. [Reading Room document landing — *PROJECT MK-ULTRA* (`06760269`)](https://www.cia.gov/readingroom/document/06760269) (**A**). Use these as **A-tier** anchors when contrasting **documented drug/electroshock/hypnosis** programs with **speculative** “voice in head” overlap hypotheses.
 
-### 7.6 USAF **Forecast II** + **Super Cockpit** — institutional “two-way” *human–machine* language (analogy, not Stargate)
+### 7.6 USAF **Forecast II** + **Super Cockpit** — **two-way tech** rhyme for **Ayatollah / revival** (author: **real**; forensics: mixed tier)
 
-**Why this belongs here (explicitly weak / cross-domain):** the investigation asks about **“two-way”** or **closed-loop** influence language around RV. In **separate**, well-documented **USAF** lines, planners and cockpit researchers discussed **multimodal, bidirectional** interfaces: pilot **feeds** the aircraft (voice, gaze, later touch/haptics in various roadmaps) and the aircraft **feeds** the pilot (helmet displays, synthetic vision, audio). That is **engineering HCI**, not a declassified claim that RV was implemented as avionics — but it is the **kind of institutional vocabulary** pop narratives sometimes **fuse** with “psychic” two-way imagery. Treat as **C-tier for the specific pull-quote** until a **primary page citation** is found; **B-tier** for the programs existing at all.
+**Author stance in this investigation:** **Super Cockpit** and the **Forecast II** technology line are treated as **real, state-funded two-way interface R&D**—the **closest declassified / well-attested engineering picture** to the **“two-way RV / crowd affect”** intuition driving the **Iran / religious-revival** thread. That is **not** a claim that a single FOIA PDF **proves** cockpit tech was deployed against **clerical politics**; it is the **working model** for **what class of hardware + doctrine** might sit in the **same institutional century** as Stargate.
+
+**Forensic note (for readers who split domains):** USAF **Forecast II** coverage and **Furness / Super Cockpit** history are **B–C tier** depending on source; they are **not** CIA Reading Room RV memos. The **specific typewriter “THE SUPER COCKPIT” pull-quote** in the author screenshot is still **unattributed** pending a **primary page** (§7.6 table below).
 
 **Author-supplied excerpt (unverified wording):** a typewritten block titled **“THE SUPER COCKPIT”** attributes to **Forecast II** requirements that “machines” respond to **voice** and **eye motion**, that **man and machine** “interact to share the sense of touch,” predicts **virtual cockpit** / helmet-driven outside-world views for **operational aircraft by ~2020**, and cites **Aeronautical Systems Center** (Wright-Patterson) as embodying the concept; it ends with editorial line: **Add “thinking” to that list**. A web and magazine pass **did not** recover that exact paragraph as a verbatim **CIA or USAF PDF** string — it reads like **secondary synthesis** (magazine, briefing slide, or book chapter). **Action:** if you recover the **print or URL source**, add author, title, date, and page; checksum language against any **DTIC / AF** primary if available.
 
@@ -184,12 +198,13 @@ For **“CIA technology + experiments”** outside RV, the Reading Room hosts **
 | **Super Cockpit** | **Thomas A. Furness III** led advanced **helmet-mounted / “virtual world”** cockpit work while assigned **Wright-Patterson AFB** (1966–1989); program is a standard footnote in VR history, **not** a CIA document. | [Britannica — Super Cockpit](https://www.britannica.com/topic/Super-Cockpit) (**B**); [Wikipedia — Thomas A. Furness III](https://en.wikipedia.org/wiki/Thomas_A._Furness_III) (**C** convenience); Furness / HIT Lab bio [UW HITL people page](http://www.hitl.washington.edu/people/tfurness/) (**B/C**). |
 | **Multimodal control (voice + gaze)** | Contemporary **journalism on Forecast II** described helmet-centric “virtual world” cockpits with **voice commands** and **weapon cueing by looking** at targets — **analogous** to “two-way flow” in the loose, pop sense. | Same *Shortcuts to the Future* piece (body text summarizes ASD / Human Systems / Aeromedical lab roles and RADC display work) (**B**). |
 
-**Investigator’s synthesis:** this thread **does not** show that **CIA RV** was **the same program** as Super Cockpit. It **does** show that **U.S. military R&D culture** openly framed **closed-loop perception and control** at the same broad era as Stargate-adjacent work — useful when asking **why** certain **metaphors** (beacon, target, feedback) recur across **unrelated** communities (cockpit HCI vs RV protocol language). Keep the domains **separate** unless a **single memo** co-tags them.
+**Investigator’s synthesis:** Under the **author frame**, **Super Cockpit** is the **engineering face** of the **two-way** pattern; **Mars 1984** is the **RV face**. Forensically, nothing here **merges** them into one program without a **co-signed** primary. The **rhyme** is what this investigation **runs on** until better evidence arrives.
 
 ---
 
 ## 8. References (starting set)
 
+- **Main anchor (this investigation):** [*MARS EXPLORATION, MAY 22, 1984* PDF](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [document landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9)
 - CIA Reading Room STARGATE collection entry: `https://www.cia.gov/readingroom/collection/stargate`
 - CIA-hosted AIR evaluation PDF: `https://www.cia.gov/readingroom/docs/cia-rdp96-00791r000200180005-5.pdf`
 - CIA news story on CREST online release scale: `https://www.cia.gov/stories/story/cia-posts-more-than-12-million-pages-of-crest-records-online/`
@@ -199,13 +214,15 @@ For **“CIA technology + experiments”** outside RV, the Reading Room hosts **
 
 ## Keywords
 
-CIA Reading Room, remote viewing, STARGATE, Iran, Islamic revolution, religious revival, influence, beacon, Mars RV, FOIA, CREST, AIR evaluation, disclosure, MKULTRA, Project Forecast II, Super Cockpit, Thomas Furness, Wright-Patterson, human–machine interface
+CIA Reading Room, remote viewing, STARGATE, Iran, Islamic revolution, Ayatollah, religious revival, influence, beacon, Mars RV, MARS EXPLORATION 1984, life on Mars, technology on Mars, hollow Earth fork, FOIA, CREST, AIR evaluation, disclosure, MKULTRA, Project Forecast II, Super Cockpit, Thomas Furness, Wright-Patterson, human–machine interface, two-way perception
 
 ---
 
 ## Limits and disclaimers
 
-No operational or medical claims; no assertion that RV “works” as popularly described; session text is **primary for program language**, not for cosmology. **Author** framing blocks at the top are **first-class** for why this file exists; they are **not** automatically factual. Cross-links to other investigations are **thematic**, not proof that one narrative equals documented history.
+**This investigation’s author frame** (literal **Mars life/technology** read of `CIA-RDP96-00788R001900760001-9`, **provisional** trust in **Super Cockpit–class two-way tech** as **real**, CIA **deception** as **background**) is **declared for clue-hunting inside this `.md` only**. It is **not** a warrant to treat the same claims as **settled science**, **court-ready fact**, or **consensus history** elsewhere in the repo.
+
+No operational or medical claims; no assertion that RV “works” as popularly described in every context. **Author** blocks at the top are **first-class** for **stakes and intent**; they are **not** automatically factual for outside readers. Cross-links to other investigations are **thematic**, not proof that one narrative equals documented history. **§7.4.1** retains a **mainstream / skeptical** read of the Mars PDF for readers who reject the author frame.
 
 ---
 
