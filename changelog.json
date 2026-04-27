@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-27T12:19:56.490Z",
+    "date": "2026-04-27T12:24:19.727Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-27T12:19:55.000Z",
+    "message": "Slim CIA Reading Room investigation; document local ops outside repo.",
     "files": [
       {
         "status": "M",
@@ -752,28 +765,6 @@
       {
         "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png",
         "alt": "Paradigm Threat — working definition of antisemitism (illustrative header)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-26T13:14:31.000Z",
-    "message": "Antisemitism working definition: embed illustrative header PNG (same folder)",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md",
-        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png",
-        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png"
       }
     ]
   }

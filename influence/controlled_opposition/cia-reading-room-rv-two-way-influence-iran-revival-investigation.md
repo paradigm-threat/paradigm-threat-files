@@ -8,7 +8,7 @@
 
 > **Parallel track (same evidence bar):** We also collect **Reading Room PDFs** surfaced by searches for **Mars, Moon, planets, space, coordinates, UFO / anomalous craft, “off-world,”** and named viewers (e.g. Pat Price, Ingo Swann) in combination with RV program names. Session language about **non‑Earth locations or craft** is **primary evidence for what was tasked or narrated**, not proof those places or objects exist as described.
 
-**Date:** 2026-04-27  
+**Date:** 2026-04-28 (§7.6 Forecast II / Super Cockpit analogy)  
 **Status:** Open — **online** Reading Room + AIR anchors + hypothesis map; machine-assisted corpus work is **documented outside this repo** (see Investigator notes).
 
 > **LLM vocabulary (æther):** project-wide assistant rules for substrate language vs pop-physics labels are in [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) (Apr 2026 debate capture).
@@ -101,6 +101,7 @@ No single folder or keyword crawl equals “everything CIA posted.”
 2. **Mars / off-world / craft:** mine Reading Room hits for planetary / craft language and **read** each hit in context (training coordinate vs operational claim vs third-party rumor).
 3. **AIR vs session claims:** compare AIR report language to **specific session transcript** language about **targets** (does the program ever *task* “effect,” or only “describe”?).
 4. **Counter-deception:** when a memo uses religious vocabulary, is it **analysis of third-party belief** rather than operational intent?
+5. **Forecast II / Super Cockpit pull-quote (§7.6):** locate **primary** print or PDF (DTIC, AF history office, symposium proceedings, or named magazine issue) carrying the **exact** “THE SUPER COCKPIT” block or the **Forecast II** sentence attributed in the author’s screenshot; file page number for the investigation table.
 
 ---
 
@@ -155,6 +156,22 @@ The **canonical** Mars RV release everyone cites is still the **same CIA-hosted 
 
 For **“CIA technology + experiments”** outside RV, the Reading Room hosts **MKULTRA** landing pages and PDF bundles; start at the CIA’s own index page for the topic, e.g. [Reading Room document landing — *PROJECT MK-ULTRA* (`06760269`)](https://www.cia.gov/readingroom/document/06760269) (**A**). Use these as **A-tier** anchors when contrasting **documented drug/electroshock/hypnosis** programs with **speculative** “voice in head” overlap hypotheses.
 
+### 7.6 USAF **Forecast II** + **Super Cockpit** — institutional “two-way” *human–machine* language (analogy, not Stargate)
+
+**Why this belongs here (explicitly weak / cross-domain):** the investigation asks about **“two-way”** or **closed-loop** influence language around RV. In **separate**, well-documented **USAF** lines, planners and cockpit researchers discussed **multimodal, bidirectional** interfaces: pilot **feeds** the aircraft (voice, gaze, later touch/haptics in various roadmaps) and the aircraft **feeds** the pilot (helmet displays, synthetic vision, audio). That is **engineering HCI**, not a declassified claim that RV was implemented as avionics — but it is the **kind of institutional vocabulary** pop narratives sometimes **fuse** with “psychic” two-way imagery. Treat as **C-tier for the specific pull-quote** until a **primary page citation** is found; **B-tier** for the programs existing at all.
+
+**Author-supplied excerpt (unverified wording):** a typewritten block titled **“THE SUPER COCKPIT”** attributes to **Forecast II** requirements that “machines” respond to **voice** and **eye motion**, that **man and machine** “interact to share the sense of touch,” predicts **virtual cockpit** / helmet-driven outside-world views for **operational aircraft by ~2020**, and cites **Aeronautical Systems Center** (Wright-Patterson) as embodying the concept; it ends with editorial line: **Add “thinking” to that list**. A web and magazine pass **did not** recover that exact paragraph as a verbatim **CIA or USAF PDF** string — it reads like **secondary synthesis** (magazine, briefing slide, or book chapter). **Action:** if you recover the **print or URL source**, add author, title, date, and page; checksum language against any **DTIC / AF** primary if available.
+
+**Verified anchors (programs and coverage — not the screenshot’s exact quote):**
+
+| Topic | What is solid | Sources (tier) |
+|--------|----------------|----------------|
+| **Project Forecast II** | Late-1980s USAF **technology and systems** forecasting; dozens of initiatives (including **supercockpit** as a named line) portrayed as shaping 21st-century capability. | [Air & Space Forces Magazine — *Shortcuts to the Future* (Forecast II follow-on)](https://www.airandspaceforces.com/article/1087forecastii/) (**B**); companion overview [*USAF in the Twenty-first Century*](https://www.airandspaceforces.com/article/0886forecast/) (**B**). |
+| **Super Cockpit** | **Thomas A. Furness III** led advanced **helmet-mounted / “virtual world”** cockpit work while assigned **Wright-Patterson AFB** (1966–1989); program is a standard footnote in VR history, **not** a CIA document. | [Britannica — Super Cockpit](https://www.britannica.com/topic/Super-Cockpit) (**B**); [Wikipedia — Thomas A. Furness III](https://en.wikipedia.org/wiki/Thomas_A._Furness_III) (**C** convenience); Furness / HIT Lab bio [UW HITL people page](http://www.hitl.washington.edu/people/tfurness/) (**B/C**). |
+| **Multimodal control (voice + gaze)** | Contemporary **journalism on Forecast II** described helmet-centric “virtual world” cockpits with **voice commands** and **weapon cueing by looking** at targets — **analogous** to “two-way flow” in the loose, pop sense. | Same *Shortcuts to the Future* piece (body text summarizes ASD / Human Systems / Aeromedical lab roles and RADC display work) (**B**). |
+
+**Investigator’s synthesis:** this thread **does not** show that **CIA RV** was **the same program** as Super Cockpit. It **does** show that **U.S. military R&D culture** openly framed **closed-loop perception and control** at the same broad era as Stargate-adjacent work — useful when asking **why** certain **metaphors** (beacon, target, feedback) recur across **unrelated** communities (cockpit HCI vs RV protocol language). Keep the domains **separate** unless a **single memo** co-tags them.
+
 ---
 
 ## 8. References (starting set)
@@ -168,7 +185,7 @@ For **“CIA technology + experiments”** outside RV, the Reading Room hosts **
 
 ## Keywords
 
-CIA Reading Room, remote viewing, STARGATE, Iran, Islamic revolution, religious revival, influence, beacon, Mars RV, FOIA, CREST, AIR evaluation, disclosure, MKULTRA
+CIA Reading Room, remote viewing, STARGATE, Iran, Islamic revolution, religious revival, influence, beacon, Mars RV, FOIA, CREST, AIR evaluation, disclosure, MKULTRA, Project Forecast II, Super Cockpit, Thomas Furness, Wright-Patterson, human–machine interface
 
 ---
 
