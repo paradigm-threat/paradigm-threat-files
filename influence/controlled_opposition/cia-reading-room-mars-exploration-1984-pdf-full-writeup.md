@@ -46,6 +46,8 @@
 
 **Section purpose:** Establishes **blind / double-blind style** framing (envelope unopened until end) and ties the session to **Mars + deep time + coordinates** as **tasking**, not as an astronomical observation log.
 
+**Provenance / redaction (investigation note):** The quoted **“approximately 1 million years B.C.”** line is **suspiciously round** and **pop-register** (“B.C.,” **million** on the nose)—easier to read as **placeholder, summary label, or post-review substitution** than as serious **absolute-age** tasking. Declassification can mean **re-typed or replaced lines**, not only **masked** text; **tabular zeros** fit **template filler** better than a **real dated target** without **imaged card + custody** evidence. Do **not** treat that clause as **independent planetary chronology**. See parent file [**§7.4.4**](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md).
+
 ---
 
 ## 5. Transcript — segment summaries
