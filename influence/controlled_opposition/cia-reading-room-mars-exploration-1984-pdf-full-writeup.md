@@ -1,10 +1,10 @@
 # Mars Exploration, 22 May 1984 — full writeup (`CIA-RDP96-00788R001900760001-9`)
 
-Mars Exploration 1984 — session journey / coordinate path (header)
+![Mars Exploration 1984 — session journey / coordinate path](cia-reading-room-mars-exploration-1984-journey.png)
 
 **Companion** to **[Mars Exploration 1984 — RV investigation](cia-reading-room-mars-exploration-1984-rv-investigation.md)** — **author verdict (Mars anchor):** [**Conclusion (author verdict, Mars anchor)**](cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor). **Earth-side** two-way / Iran / **Super Cockpit** rhymes: [RV two-way, Iran revival investigation](cia-reading-room-rv-two-way-iran-revival-investigation.md). This file is a **section-by-section digest** of the declassified PDF text (protocol + transcript): **layout, order, coordinates, and quoted language**. Interpretive **meaning** (present Martian civilization in **1984**, **~1 Ma** card line as **misdirection**, RV as **real-time imagery + memory channel**) lives in the **Mars investigation** — not repeated here line-by-line. **Full plain text** (same directory, `pdftotext` + header): `[cia-reading-room-mars-exploration-1984-transcript.txt](cia-reading-room-mars-exploration-1984-transcript.txt)`.
 
-Mars Exploration 1984 — declassified PDF digest (figure)
+![Mars Exploration 1984 — declassified PDF digest (companion figure)](cia-reading-room-mars-exploration-1984-pdf-full-writeup.png)
 
 ---
 
