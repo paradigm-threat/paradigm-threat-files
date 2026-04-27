@@ -6,7 +6,7 @@
 
 > **Author sentiment (explicit):** The main investigative target is whether **U.S. intelligence exploration of anomalous cognition** (remote viewing and adjacent programs) could overlap—organizationally, doctrinally, or in popular interpretation—with **events framed in religious terms** (e.g. late‑1970s / 1980s **Islamic revolution in Iran**, broader **religious revival** discourse), including the **speculative** possibility of **two-way** or **affect-rich** phenomenology (not only passive “viewing”). That is a **historical and epistemic** question: we look for **convergent clues** (language, program structure, contemporaneous programs, routing of “beacon” concepts, etc.), not a single smoking-gun paragraph.
 
-> **Author working frame (2026-04-28 — this file only):** Treat [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) (`CIA-RDP96-00788R001900760001-9`) as the **main research piece** here: for **this investigation’s narrative line**, we read the transcript as **describing life and technology on Mars** under an environment **very unlike Earth** (megalithic / storm / “boat” / metal / vegetation language read **literally** for clue-hunting, not as “mere metaphor by default”). **Hollow Earth** or other subsurface frames are acknowledged as a **speculative fork** (“could be the same kind of cover-up”) but **Mars stays the default assumption** until something **definitively** displaces it. Given the **CIA’s documented reputation** for deception, compartmentalization, and contested disclosures, this file **provisionally assumes** both (a) **Super Cockpit–class two-way human–machine / perception loops** (§7.6) and (b) **RV contact with non‑ordinary life / tech** as **operationally real lines of effort** the state may not have fully declassified—**without** claiming that assumption is **settled fact** for science or courts. **Super Cockpit** is the **engineering-side rhyme** for the **two-way tech** intuition applied to **Ayatollah / religious-revival** phenomenology (crowd-scale affect, “beacon,” feedback) in §5–§7. Other Reading Room pulls (Moon, coordinates, named viewers) **support or complicate** this spine; skeptical **counter-read** of the Mars PDF is **§7.4.1**.
+> **Author working frame (2026-04-28 — this file only):** Treat [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) (`CIA-RDP96-00788R001900760001-9`) as the **main research piece** here: for **this investigation’s narrative line**, we read the transcript as **describing life and technology on Mars** under an environment **very unlike Earth** (megalithic / storm / “boat” / metal / vegetation language read **literally** for clue-hunting, not as “mere metaphor by default”). **Hollow Earth** or other subsurface frames are acknowledged as a **speculative fork** (“could be the same kind of cover-up”) but **Mars stays the default assumption** until something **definitively** displaces it. Given the **CIA’s documented reputation** for deception, compartmentalization, and contested disclosures, this file **provisionally assumes** both (a) **Super Cockpit–class two-way human–machine / perception loops** (§7.6) and (b) **RV contact with non‑ordinary life / tech** as **operationally real lines of effort** the state may not have fully declassified—**without** claiming that assumption is **settled fact** for science or courts. **Super Cockpit** is the **engineering-side rhyme** for the **two-way tech** intuition applied to **Ayatollah / religious-revival** phenomenology (crowd-scale affect, “beacon,” feedback) in §5–§7. Other Reading Room pulls (Moon, coordinates, named viewers) **support or complicate** this spine; skeptical **counter-read** of the Mars PDF is **§7.4.1**. **Primary-text layout** (protocol + transcript by segment): companion [**Mars Exploration 1984 — PDF full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
 
 **Date:** 2026-04-28 — **Main anchor:** `CIA-RDP96-00788R001900760001-9` (author literal-Mars + Super Cockpit working frame).  
 **Status:** Open — **Iran / revival + two-way** read **through** Mars session language + USAF two-way interface culture (§7.6). Machine-assisted corpus work is **outside this repo** (Investigator notes).
@@ -20,7 +20,7 @@
 **In scope**
 
 - Declassified **CIA FOIA Electronic Reading Room** (`cia.gov/readingroom`): scale, **AIR / Star Gate** evaluation, disclosure gaps.
-- **Hypothesis map** + **open questions** on released PDFs; **primary anchor** and author read: **header** + **§7.4.1**.
+- **Hypothesis map** + **open questions** on released PDFs; **primary anchor** and author read: **header** + **§7.4.1**; **session digest** **§7.4.3**; section-by-section primary text in [**Mars Exploration 1984 — PDF full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
 - **Super Cockpit / Forecast II** (§7.6) as institutional **two-way** rhyme for **Ayatollah / revival** “affect + feedback.”
 
 **Out of scope (here)**
@@ -42,6 +42,7 @@
 |--------|---------------------|
 | [Mars–Earth reincarnation investigation §2](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | **CIA Stargate — Mars Exploration** (22 May 1984); official PDF `CIA-RDP96-00788R001900760001-9.pdf`, FOIA checklist language (“Mars,” “population,” “civilization”). |
 | [Lacatski / consciousness / craft viral post investigation](/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.md) | Same Mars RV PDF as **institutional Mars + consciousness** vs AAWSAP claims. |
+| [Mars Exploration 1984 — PDF full writeup](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) | **`CIA-RDP96-00788R001900760001-9`**: acquisition block + **MON/SUB** transcript by **coordinate segment**; pull-quotes and **limits** (what the file is / is not). |
 | [Cosmos — Mars hub](/cosmos/mars/page.md) | Motif layer (incl. CIA RV caption); **not** session proof. |
 | [Remote viewing as aether physics (stub)](/science/telepathy/remote_viewing/aether-consciousness.md) | Stargate-era RV framing hooks. |
 
@@ -127,7 +128,7 @@ Under the **author frame**: **Mars 1984** → life / migration / shelter / craft
 
 ### 7.4 Mars RV — canonical PDF, mirrors, search noise
 
-**A-tier:** [*MARS EXPLORATION, May 22, 1984* (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [document landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9). **C-tier** (checksum vs A): [Giza Death Star essay](https://gizadeathstar.com/2019/11/the-cia-remote-viewed-mars-in-1984/); [Black Vault mirror PDF](https://documents2.theblackvault.com/documents/cia/CIA-RDP96-00788R001900760001-9.pdf); [THOLONIA HTML](https://tholonia.github.io/material/material_MARS_EXPLORATION_MAY_22_1984.html). Broad search returns **many unrelated** PDFs — use **direct** URLs; detail **§7.4.1**.
+**A-tier:** [*MARS EXPLORATION, May 22, 1984* (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [document landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9). **C-tier** (checksum vs A): [Giza Death Star essay](https://gizadeathstar.com/2019/11/the-cia-remote-viewed-mars-in-1984/); [Black Vault mirror PDF](https://documents2.theblackvault.com/documents/cia/CIA-RDP96-00788R001900760001-9.pdf); [THOLONIA HTML](https://tholonia.github.io/material/material_MARS_EXPLORATION_MAY_22_1984.html). Broad search returns **many unrelated** PDFs — use **direct** URLs. **In-repo digest:** **§7.4.1–§7.4.3**; companion [**full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
 
 #### 7.4.1 Primary identification: author slide and official *Mars Exploration* PDF
 
@@ -140,6 +141,16 @@ Author graphic (“CIA Remote viewing experiments, 1984”) overlaid **MON/SUB**
 **Mainstream read:** transcript = **controlled RV interview record**, not planetary science; proves **words under protocol**, not independent **1 Ma** biosphere / boat hardware; demand bias, metaphor, monitor steering; **AIR** posture (§4) — culture/language primary, not **solar-system fact**.
 
 **Slide vs CIA:** rover + 2017 credit = **presentation**; cite **`cia.gov`** for words.
+
+#### 7.4.2 Local corpus search — no second “Mars session transcript” in the mirror (2026-04)
+
+Machine-assisted work under **`~/dev/wget/cia`** (see **Investigator notes**, end of file) OCR’d and **keyword-indexed** the local **`collections/mars-offworld/`** PDF set, including **session-style regex hooks** (e.g. megalithic / sealed-envelope RV / “million years B.C.”–class phrasing, strange plants, gas pockets, “larger boat” metal). **Result:** in that indexed subset, **only** [**`CIA-RDP96-00788R001900760001-9`**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) scores the **full Mars-session-style cluster**; many other files hit **broader** tags (STARGATE, “Mars” in case logs, Iran/revival keywords, etc.) without reproducing this **MON/SUB narrative** pattern — see generated **`mars-theory-hits-summary.md`** there.
+
+**Limits:** this is **not** proof that **no** similar session exists anywhere on **`cia.gov`** — the mirror is **incomplete** (automation often hit redirect limits; collection is **not** the whole Reading Room), and one broad tag (**environmental collapse** language) picks up **false positives** outside the anchor. It **does** record that **we did not** pull another PDF in-folder that **reads like** this file under those filters.
+
+#### 7.4.3 Session summary (*MARS EXPLORATION*, 22 May 1984)
+
+Declassified **MON/SUB remote-viewing transcript** plus a one-page **site-acquisition** description. **Protocol (written):** **sealed envelope** (opened only **after** the session) contained a **3×5 card** naming **Mars**, **~1 million years B.P.**, and coordinates from the requesters; **MON** verbally gives **40.89° N, 9.55° W** to **SUB** at **10:09 AM** (22 May 1984), then drives the session by issuing **many further lat/long pairs** while holding time fixed on the card. **SUB** reports a **pyramid** in a **depression** (**okra**-colored), a **severe dust / geologic storm**, then **pre-catastrophe** **megalithic** walls; **tall thin** humanoids (shadow → solid) in **fitted** garments; a **carved canyon** with **huge interior** spaces; **obelisk**-like marker; **vast basin**; **reflecting square** pads; **deep cut channels** / **aqueduct** imagery; **pyramids** again (with **overlay** confusion); **storm shelters**; **stripped chambers** and **hibernation**-like waiting; inhabitants **ancient**, **philosophical**, environment **corrupting**; a **party** sent far to find a **new home**; **cosmic-scale** disturbance imagery; when asked how the others **left** — **inside a larger boat**, **rounded walls**, **shiny metal**; destination sketched as **volcanoes**, **gas pockets**, **strange plants**, **volatile**, **“frying pan into the fire”**, **more vegetation** and **different storms**. **MON** **recalls** **SUB** to the room on **22 May 1984**; **END OF INTERVIEW**. **Note:** lines documented as **monitor comments** in the PDF (parenthetical text followed by an asterisk in the original) were **not heard by the subject**. **Section-by-section** breakdown, coordinate table, and citation notes: [**Mars Exploration 1984 — PDF full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
 
 ### 7.5 MKULTRA (Reading Room anchors)
 
@@ -165,7 +176,7 @@ Author graphic (“CIA Remote viewing experiments, 1984”) overlaid **MON/SUB**
 
 ## 8. References (starting set)
 
-- **Anchor:** [*MARS EXPLORATION, May 22, 1984*](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9)
+- **Anchor:** [*MARS EXPLORATION, May 22, 1984*](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9) · [in-repo full writeup](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md)
 - STARGATE collection: `https://www.cia.gov/readingroom/collection/stargate`
 - AIR evaluation: `https://www.cia.gov/readingroom/docs/cia-rdp96-00791r000200180005-5.pdf`
 - CREST scale: `https://www.cia.gov/stories/story/cia-posts-more-than-12-million-pages-of-crest-records-online/`
@@ -183,7 +194,7 @@ CIA Reading Room, Mars, remote viewing, STARGATE, Iran, Islamic revolution, Ayat
 
 **Author frame** (literal Mars read of `CIA-RDP96-00788R001900760001-9`, provisional **Super Cockpit–class two-way** as **real**, CIA **deception** as background) applies **inside this `.md` only** — not **settled science**, **court fact**, or **default** elsewhere in the repo.
 
-No operational or medical claims. **Author** blocks = **stakes**; not automatic fact for strangers. Cross-links = **thematic**. **§7.4.1** keeps **skeptical** read for readers who reject the author frame.
+No operational or medical claims. **Author** blocks = **stakes**; not automatic fact for strangers. Cross-links = **thematic**. **§7.4.1** keeps **skeptical** read for readers who reject the author frame; **§7.4.3** + companion writeup state **what the PDF text contains** without requiring the author frame.
 
 ---
 
