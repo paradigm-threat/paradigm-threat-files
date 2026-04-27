@@ -11,6 +11,16 @@
 
 > **LLM vocabulary (æther):** [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md).
 
+**Graphics (Mars anchor chain, same directory):** figures below are **in-repo** siblings of this file; the **Mars investigation** embeds the first two as its primary art.
+
+![MARS EXPLORATION — coordinate journey (22 May 1984)](cia-reading-room-mars-exploration-1984-journey.png)
+
+![Mars Exploration 1984 — RV investigation composite](cia-reading-room-mars-exploration-1984-rv-investigation.png)
+
+[![Mars Exploration 1984 — PDF digest companion figure](cia-reading-room-mars-exploration-1984-pdf-full-writeup.png)](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md)
+
+![Legacy header export — pre-rename filename, same Iran / two-way thread](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png)
+
 ---
 
 ## Guide (read order)

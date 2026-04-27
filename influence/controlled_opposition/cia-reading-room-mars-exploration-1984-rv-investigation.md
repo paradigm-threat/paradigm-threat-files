@@ -2,6 +2,8 @@
 
 ![Mars Exploration 1984 — RV session journey / coordinate path](cia-reading-room-mars-exploration-1984-journey.png)
 
+![Mars Exploration 1984 — RV investigation composite (same release, alternate layout)](cia-reading-room-mars-exploration-1984-rv-investigation.png)
+
 > **TL;DR:** Pop “debunk” packages (AIR closure narrative, late-night **nothing-to-see-here** glosses, **it was just deep-time protocol**) ask for **faith** that an agency with the CIA’s **record** would leave this transcript in the Reading Room **without** pull, **quarantine**, or **file-specific intent** documentation. **None of that has been produced.** We **lack** an **A-tier** FOIA **case + decision memo** naming **who** ordered **`CIA-RDP96-00788R001900760001-9`** public and **why** (**§5.7**); **that absence is suspicious**; pending a **positive** paper trail, release is modeled as **Revelation of the Method** (see **Conclusion** §4, [Mud flood — RoM](/history/mudflood/page.md)). This file **treats** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) as **evidence of a current Martian civilization alive in 1984**; **~1 Ma** on the card = **misdirection**; RV = **real-time imagery** + **real-time memory** (non-linear vs naive clocks). **Iran / revival / Super Cockpit “two-way”** rhymes live in the **sibling investigation:** [CIA Reading Room — RV two-way, Iran / religious revival](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md).
 
 **Date:** 2026-04-28 — split from Iran/two-way file (2026-04-26).  
@@ -80,6 +82,10 @@
 **Also read:** [Great Awakening / RV cluster](/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [CIA institution file](/governance/war/investigations/cia-investigation.md)
 
 **Known PDFs:** save **`/readingroom/docs/…`** or **document/** URLs in a normal browser session; broad topic search is **noisy** next to famous releases.
+
+**Companion digest figure** (same directory as [**PDF full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md)):
+
+![Mars Exploration 1984 — PDF digest companion figure](cia-reading-room-mars-exploration-1984-pdf-full-writeup.png)
 
 ---
 
