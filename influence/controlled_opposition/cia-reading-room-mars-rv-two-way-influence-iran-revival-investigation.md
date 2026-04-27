@@ -102,6 +102,7 @@ Under the **author frame**: **Mars 1984** → life / migration / shelter / craft
 4. **Counter-deception:** religious vocabulary as **third-party belief analysis** vs operational intent?
 5. **Super Cockpit pull-quote (§7.6):** primary citation for the exact **“THE SUPER COCKPIT”** screenshot block.
 6. **Hollow Earth fork:** log only if a **primary** explicitly ties Mars-session vocabulary to subsurface / “inner” geography.
+7. **Mars tasking card — provenance:** any **primary** photograph or custody log for the **physical 3×5** vs the **released prose summary**; typography / re-flow vs **original** typing; imaging that could support or falsify **whole-line substitution** of the date field (§7.4.4).
 
 ---
 
@@ -130,13 +131,13 @@ Under the **author frame**: **Mars 1984** → life / migration / shelter / craft
 
 ### 7.4 Mars RV — canonical PDF, mirrors, search noise
 
-**A-tier:** [*MARS EXPLORATION, May 22, 1984* (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [document landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9). **C-tier** (checksum vs A): [Giza Death Star essay](https://gizadeathstar.com/2019/11/the-cia-remote-viewed-mars-in-1984/); [Black Vault mirror PDF](https://documents2.theblackvault.com/documents/cia/CIA-RDP96-00788R001900760001-9.pdf); [THOLONIA HTML](https://tholonia.github.io/material/material_MARS_EXPLORATION_MAY_22_1984.html). Broad search returns **many unrelated** PDFs — use **direct** URLs. **In-repo digest:** **§7.4.1–§7.4.3**; companion [**full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
+**A-tier:** [*MARS EXPLORATION, May 22, 1984* (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [document landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9). **C-tier** (checksum vs A): [Giza Death Star essay](https://gizadeathstar.com/2019/11/the-cia-remote-viewed-mars-in-1984/); [Black Vault mirror PDF](https://documents2.theblackvault.com/documents/cia/CIA-RDP96-00788R001900760001-9.pdf); [THOLONIA HTML](https://tholonia.github.io/material/material_MARS_EXPLORATION_MAY_22_1984.html). Broad search returns **many unrelated** PDFs — use **direct** URLs. **In-repo digest:** **§7.4.1–§7.4.4**; companion [**full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
 
 #### 7.4.1 Primary identification: author slide and official *Mars Exploration* PDF
 
 Author graphic (“CIA Remote viewing experiments, 1984”) overlaid **MON/SUB** on a **rover** image (**© 2017** — not CIA). **Dialogue matches** the declassified transcript in [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) (`CIA-RDP96-00788R001900760001-9`): e.g. **“when the others left, how did they go?”**, **“larger boat”**, **“rounded walls”**, **“shiny metal”**, **“frying pan into the fire”**, **“strange plants”** / **“vegetation”**, then **END OF INTERVIEW** / **22 May 1984** close-out.
 
-**A-tier setup (file text):** sealed envelope + coordinates; card: **Mars**, **~1 Ma B.P.**, **40.89° N, 9.55° W**; session **22 May 1984** (e.g. 10:09 AM block); earlier lines include **pyramid / okra**, **dust storm**, **megalithic** before **boat / volcano / plants** sequence.
+**A-tier setup (file text):** sealed envelope + coordinates; card: **Mars**, **~1 Ma B.P.** (released wording: **“approximately 1 million years B.C.”**), **40.89° N, 9.55° W**; session **22 May 1984** (e.g. 10:09 AM block); earlier lines include **pyramid / okra**, **dust storm**, **megalithic** before **boat / volcano / plants** sequence. **Epistemic:** treat that **epoch line** as **provenance-suspect** placeholder / possible **post-release substitution** — **§7.4.4**, not **geochronology**.
 
 **Investigation read (author frame):** treat as **actual Mars-local life and technology** in a **hostile** setting — primary-text spine for revival + two-way inquiry. **Hollow Earth** stays secondary fork.
 
@@ -153,6 +154,14 @@ Machine-assisted work under **`~/dev/wget/cia`** (see **Investigator notes**, en
 #### 7.4.3 Session summary (*MARS EXPLORATION*, 22 May 1984)
 
 Declassified **MON/SUB remote-viewing transcript** plus a one-page **site-acquisition** description. **Protocol (written):** **sealed envelope** (opened only **after** the session) contained a **3×5 card** naming **Mars**, **~1 million years B.P.**, and coordinates from the requesters; **MON** verbally gives **40.89° N, 9.55° W** to **SUB** at **10:09 AM** (22 May 1984), then drives the session by issuing **many further lat/long pairs** while holding time fixed on the card. **SUB** reports a **pyramid** in a **depression** (**okra**-colored), a **severe dust / geologic storm**, then **pre-catastrophe** **megalithic** walls; **tall thin** humanoids (shadow → solid) in **fitted** garments; a **carved canyon** with **huge interior** spaces; **obelisk**-like marker; **vast basin**; **reflecting square** pads; **deep cut channels** / **aqueduct** imagery; **pyramids** again (with **overlay** confusion); **storm shelters**; **stripped chambers** and **hibernation**-like waiting; inhabitants **ancient**, **philosophical**, environment **corrupting**; a **party** sent far to find a **new home**; **cosmic-scale** disturbance imagery; when asked how the others **left** — **inside a larger boat**, **rounded walls**, **shiny metal**; destination sketched as **volcanoes**, **gas pockets**, **strange plants**, **volatile**, **“frying pan into the fire”**, **more vegetation** and **different storms**. **MON** **recalls** **SUB** to the room on **22 May 1984**; **END OF INTERVIEW**. **Note:** lines documented as **monitor comments** in the PDF (parenthetical text followed by an asterisk in the original) were **not heard by the subject**. **Section-by-section** breakdown, coordinate table, and citation notes: [**Mars Exploration 1984 — PDF full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
+
+#### 7.4.4 Tasking-card date (“~1 million years B.C.”) — placeholder tone; redaction as rewrite, not only black bars
+
+The acquisition block quotes the sealed **3×5 card** as targeting time **“approximately 1 million years B.C.”** (companion writeup §4). Read **without** the Mars-literal author frame, that string is **poster-scale**, not **geochronology**: a **round million**, **“B.C.”** in the **Hollywood–headline** register, and none of the **mess** of real dating (uncertainty, **Ma** vs **ka** vs **before present**, which **event** is dated, etc.). **Tabular roundness** (“everything lands on zeros”) fits **template filler** or **sanitized summary** better than an **operational epoch** pulled from a lab notebook.
+
+**Declassification caveat:** redaction is often imagined as **black rectangles** on a scan; in practice, reviewers also produce **clean re-typings**, **summary sheets**, or **substituted prose** so the **public PDF line** need not match what sat on the **original card** (hypothesis bucket, **unproven** here): **digits + era marker inserted** for narrative effect; **entire date line replaced** with a **dummy**; or the phrase was **always in-protocol fiction** — none of which converts the English clause into **independent Martian chronology**.
+
+**Bar:** treat the **million-year B.C.** line as **tasking rhetoric in the released file**, not as **constraint on what happened** unless **non-PDF** chain-of-custody ties the quote to an **imaged physical card** (open question **§6** item **7**).
 
 ### 7.5 MKULTRA (Reading Room anchors)
 
@@ -188,7 +197,7 @@ Declassified **MON/SUB remote-viewing transcript** plus a one-page **site-acquis
 
 ## Keywords
 
-CIA Reading Room, Mars, remote viewing, STARGATE, Iran, Islamic revolution, Ayatollah, religious revival, influence, beacon, Mars RV, MARS EXPLORATION 1984, life on Mars, technology on Mars, hollow Earth fork, FOIA, CREST, AIR evaluation, disclosure, MKULTRA, Project Forecast II, Super Cockpit, Thomas Furness, Wright-Patterson, human–machine interface, two-way perception
+CIA Reading Room, Mars, remote viewing, STARGATE, Iran, Islamic revolution, Ayatollah, religious revival, influence, beacon, Mars RV, MARS EXPLORATION 1984, life on Mars, technology on Mars, hollow Earth fork, FOIA, CREST, AIR evaluation, disclosure, MKULTRA, Project Forecast II, Super Cockpit, Thomas Furness, Wright-Patterson, human–machine interface, two-way perception, tasking card provenance, declassification substitution
 
 ---
 
@@ -196,7 +205,7 @@ CIA Reading Room, Mars, remote viewing, STARGATE, Iran, Islamic revolution, Ayat
 
 **Author frame** (literal Mars read of `CIA-RDP96-00788R001900760001-9`, provisional **Super Cockpit–class two-way** as **real**, CIA **deception** as background) applies **inside this `.md` only** — not **settled science**, **court fact**, or **default** elsewhere in the repo.
 
-No operational or medical claims. **Author** blocks = **stakes**; not automatic fact for strangers. Cross-links = **thematic**. **§7.4.1** keeps **skeptical** read for readers who reject the author frame; **§7.4.3** + companion writeup state **what the PDF text contains** without requiring the author frame.
+No operational or medical claims. **Author** blocks = **stakes**; not automatic fact for strangers. Cross-links = **thematic**. **§7.4.1** keeps **skeptical** read for readers who reject the author frame; **§7.4.3** + companion writeup state **what the PDF text contains** without requiring the author frame; **§7.4.4** flags the **card epoch line** as **provenance-suspect**, not **precision science**.
 
 ---
 
