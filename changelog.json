@@ -1,8 +1,40 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-27T13:11:48.416Z",
+    "date": "2026-04-27T13:15:32.998Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
+        "alt": "Mars Exploration 1984 — declassified PDF digest (header)"
+      },
+      {
+        "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
+        "alt": "CIA Reading Room — Mars RV, two-way influence, Iran / religious-revival investigation (header)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-27T13:11:47.000Z",
+    "message": "Mars RV docs: §7.4.4 caveat on '1 million years B.C.' card line",
     "files": [
       {
         "status": "M",
@@ -439,32 +471,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-26T22:22:29.000Z",
     "message": "Cruz/Kevin investigation: Pilot curiosity (Kevin, vérité B-roll, ledger-secret read) with cites",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      },
-      {
-        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
-        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
-      },
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-26T22:20:35.000Z",
-    "message": "Cruz/Kevin investigation: Basketball (S1) curiosity with cited sources; omit unverified 2K13",
     "files": [
       {
         "status": "M",

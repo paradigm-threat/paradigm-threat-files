@@ -2,7 +2,7 @@
 
 ![Mars Exploration 1984 — declassified PDF digest (header)](cia-reading-room-mars-exploration-1984-pdf-full-writeup.png)
 
-**Companion** to [CIA Reading Room — Mars, RV, two-way, Iran / revival investigation](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md). This file is a **section-by-section digest** of the declassified PDF text (protocol + transcript). It **summarizes what appears on the page**; it does **not** assert planetary fact, operational success, or independent verification of SUB’s imagery.
+**Companion** to [CIA Reading Room — Mars, RV, two-way, Iran / revival investigation](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md). This file is a **section-by-section digest** of the declassified PDF text (protocol + transcript). It **summarizes what appears on the page**; it does **not** assert planetary fact, operational success, or independent verification of SUB’s imagery. **Full plain text** (same directory, `pdftotext` + header): [`cia-reading-room-mars-exploration-1984-transcript.txt`](cia-reading-room-mars-exploration-1984-transcript.txt).
 
 ---
 
@@ -17,6 +17,7 @@
 | **Landing** | [document page](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9) |
 | **Form** | Cover / acquisition instructions + **MON/SUB** **TRANSCRIPT** |
 | **Release line (banner)** | “Approved For Release 2000/08/08 : CIA-RDP96-00788R001900760001-9” (appears on pages) |
+| **Plain text (in-repo)** | [`cia-reading-room-mars-exploration-1984-transcript.txt`](cia-reading-room-mars-exploration-1984-transcript.txt) — **`pdftotext`** extract; verify against **A-tier PDF** |
 
 **Roles:** **MON** = monitor / interviewer; **SUB** = subject / remote viewer.
 
@@ -262,6 +263,7 @@ Approximate order as **MON** issues moves (all **in the time on the card** unles
 ## 8. Related in-repo files
 
 - [CIA Reading Room — Mars, RV, two-way, Iran / revival investigation](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md) — **hypothesis frame**, **§7.4.2** local mirror negative find, **Super Cockpit** rhyme.
+- [Plain transcript (.txt)](cia-reading-room-mars-exploration-1984-transcript.txt) — **MON/SUB** + acquisition block (machine extract).
 - Local mirror ops (outside **paradigm-threat-files**): `~/dev/wget/cia/cia-reading-room-local-mirror-and-ocr-operations.md`
 
 ---
