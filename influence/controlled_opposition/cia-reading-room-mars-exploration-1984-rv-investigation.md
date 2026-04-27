@@ -199,6 +199,8 @@ These sources record **what the press and agency preferred** readers to believe;
 
 ### 5.8 Predictive programming — *Chrono Trigger* as **redacted-fact** fiction (author hypothesis)
 
+![CIA Reading Room — *Chrono Trigger* / Mars RV predictive programming figure](cia-reading-room-chrono-trigger-pp.png)
+
 > **Method:** Per [Predictive Programming hub](/influence/predictive_programming/page.md) — we log **convergence as data**, not as **court proof** of briefing rooms or copy-paste leaks. This subsection states an **author hypothesis** that sits **beside** (not **inside**) the **A-tier** Mars PDF verdict: the video **game** *Chrono Trigger* (Square, **1995**, SNES) is an unusually tight **rhyme** for **predictive programming built on redacted fact**, with **Mars-shaped content** smuggled under **time-travel** dress — the same **science-fiction redaction** move that **conflates space travel with time travel** so audiences **feel** interplanetary disaster without **naming** the planet the cleared transcript would later name.
 
 

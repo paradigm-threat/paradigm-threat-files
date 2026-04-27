@@ -1,8 +1,42 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-27T20:56:57.798Z",
+    "date": "2026-04-27T20:57:46.997Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/cia-reading-room-chrono-trigger-pp.png",
+        "href": "/influence/controlled_opposition/cia-reading-room-chrono-trigger-pp.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-reading-room-chrono-trigger-pp.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-journey.png",
+        "alt": "Mars Exploration 1984 — RV session journey / coordinate path"
+      },
+      {
+        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation.png",
+        "alt": "Mars Exploration 1984 — RV investigation composite (same release, alternate layout)"
+      },
+      {
+        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
+        "alt": "Mars Exploration 1984 — PDF digest companion figure"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-27T20:56:56.000Z",
+    "message": "Mars RV investigation: PP §5.8 (Chrono Trigger), fiction-before-declass; VAME naming note (mistranslation of game).",
     "files": [
       {
         "status": "M",
@@ -4076,41 +4110,6 @@
       {
         "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
         "alt": "CIA Reading Room — Mars RV, two-way influence, Iran / religious-revival investigation (header)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-27T13:08:06.000Z",
-    "message": "Mars CIA articles: embed header PNGs next to companion figures",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png"
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png"
       }
     ]
   }
