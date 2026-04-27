@@ -1,8 +1,8 @@
 # Investigation: Donald Trump — Assassination & Severe-Security Incidents, Press vs. Trump, Kimmel / WHCD (April 2026), Media Framing (incl. Charlie Kirk Rhyme), and the White House Ballroom as “Secure Venue”
 
-> **TL;DR:** This file catalogs **reported physical attacks, charged plots, and major threats** targeting Donald Trump from **2016** through **April 2026**, with a **chronology** and, where citable, **press framing vs. Trump’s public framing**. It foregrounds the **2026-04-23** *Jimmy Kimmel Live!* mock White House Correspondents’ Association (WHCA) segment (**“expectant widow”** line about Melania Trump) **two days before** the **2026-04-25** **armed incident at the real WHCA dinner** (Washington Hilton / Secret Service checkpoint cluster). **Documented** mainstream “debunk” of *causal* prediction is **§6.2**. **Author sentiment** on Kimmel is **§6.3** (explicit: the author treats the joke as a **literal prediction**, “to a T”). **§8** reflects on **media treatment of political violence**, including the **Charlie Kirk (Sept 2025)** episode as a **discourse parallel** (different victim, same news ecosystem). **§9** ties **Trump’s repeated argument** that a **finished White House ballroom** (plus underground security work) is needed to host **large, controlled-audience events** — versus **legacy venues** like the WHCA dinner — and notes **judicial pushback** that the **above-ground ballroom** is **not** automatically a **national-security necessity**, a tension the author reads as **escalating** while **live attempts** continue.
+> **TL;DR:** This file catalogs **reported physical attacks, charged plots, and major threats** targeting Donald Trump from **2016** through **April 2026**, with a **chronology** and, where citable, **press framing vs. Trump’s public framing**. **§2.1** adds a **parallel timeline** of **celebrity / late-night / arts rhetoric** (bombing, mock execution, severed-head imagery, Booth-style lines, bounty jokes, Kimmel widow joke) — **not** equated to kinetic rows. **§8.1** contrasts the **2011 Sarah Palin SarahPAC “target district” map** episode (she denied **accessory-to-murder** framing; **“they’re not going to shut me up”**; **WaPo** later called the **causal** Palin→shooter story **bogus**) with that later celebrity lane and spells out the supporter read **“they did it [the panic], now we get to do it [the license].”** It foregrounds the **2026-04-23** *Jimmy Kimmel Live!* mock WHCA segment (**“expectant widow”** line about Melania Trump) **two days before** the **2026-04-25** **armed incident at the real WHCA dinner** (Washington Hilton / Secret Service checkpoint cluster). **Documented** mainstream “debunk” of *causal* prediction is **§6.2**. **Author sentiment** on Kimmel is **§6.3** (explicit: the author treats the joke as a **literal prediction**, “to a T”). **§8.2** reflects on **Charlie Kirk (Sept 2025)** as a **discourse parallel** (different victim, same news ecosystem). **§9** ties **Trump’s repeated argument** that a **finished White House ballroom** (plus underground security work) is needed to host **large, controlled-audience events** — versus **legacy venues** like the WHCA dinner — and notes **judicial pushback** that the **above-ground ballroom** is **not** automatically a **national-security necessity**, a tension the author reads as **escalating** while **live attempts** continue.
 
-**Date:** 2026-04-28 (author thesis block + §3.4 / §6.3 / §7 / §9 sentiment pass)  
+**Date:** 2026-04-28 — §2.1 / §8.1: celebrity rhetoric timeline + Sarah Palin crosshairs inversion (2026-04-26 pass)  
 **Status:** Open — breaking-news details (names, charges, manifesto contents) should be re-checked against **primary** court filings and **A-tier** outlets as they stabilize.
 
 > **Author originating thesis (verbatim capture from session intent):** The president has argued **many times** that the **White House ballroom must be finished** so he can host **large formal events** in a **“100% secure”** **on-campus** location under **Secret Service** control. **Legacy** settings — explicitly including the **real White House Correspondents’ Dinner** — are **not safe enough**; the **latest** WHCA-adjacent **armed** incident is **proof** of that gap. **Any further delays** by **judges or other actors** blocking ballroom construction should **continue to be read** (by the author and by **Trump supporters**) as edging into a **national security emergency**, **while** the president is **actively experiencing** repeated **kinetic threats** and attempts on his life. Separately: **Jimmy Kimmel** did **not** “randomly” joke; in the author’s judgment he **predicted** the **most recent** crisis **to a T**, **two days** before, via the **expectant widow** line aimed at **Melania** in a **mock WHCA** — the file still records mainstream **debunk** in **§6.2** without soft-pedaling **§6.3**.
@@ -11,11 +11,11 @@
 
 ## Guide (read order)
 
-1. **Master timeline** → §2  
+1. **Master timeline** → §2 (kinetic / plots) and **§2.1** (celebrity / arts rhetoric — not shootings)  
 2. **Event-by-event** (circumstances + press vs. Trump, compact) → §3  
 3. **Kimmel quote, timing, citation, debunk, author stance** → §6  
 4. **Supporter / conservative media reactions (sample)** → §7  
-5. **Charlie Kirk + “how the media treats assassination”** → §8  
+5. **Palin crosshairs inversion + Charlie Kirk + media asymmetry** → §8 (§8.1 Palin; then Kirk)  
 6. **Ballroom / “secure location” / judges** → §9  
 7. **Falsifiable hooks** → §10  
 
@@ -26,6 +26,7 @@
 **In scope**
 
 - **Chronology** of incidents commonly discussed as **assassination attempts**, **murder-for-hire plots**, **weaponized mail**, **armed breaches**, and **high-profile threats** involving Trump as target or nominal target.  
+- **Celebrity / entertainment rhetoric** toward Trump (assassination-adjacent jokes and imagery) in **§2.1**, for **discourse** comparison to **2011 Palin** map politics (**§8.1**).  
 - **Narrative politics:** what **major press** emphasized vs. what **Trump** (or his campaign / White House) **said**.  
 - **April 2026 cluster:** Kimmel segment ↔ WHCA dinner violence ↔ **ballroom / venue-security** politics.
 
@@ -68,6 +69,21 @@
 | 2026-03-29 | Mar-a-Lago airspace | Civil aircraft **no-fly violation**; intercept ([security incidents](https://en.wikipedia.org/wiki/Security_incidents_involving_Donald_Trump)). |
 | 2026-04-23 | *Jimmy Kimmel Live!* | Mock WHCA segment; **“expectant widow”** joke re Melania ([Fox News summary](https://www.foxnews.com/media/kimmel-calls-melania-trump-expectant-widow-days-before-white-house-correspondents-dinner-shooting); [Daily Mail](https://www.dailymail.com/news/article-15767215/jimmy-kimmel-joke-melania-widow-white-house-correspondents-dinner-shooting.html)). |
 | 2026-04-25 | WHCA dinner, D.C. | **Gunfire / checkpoint engagement**; dignitaries evacuated; agent reportedly struck in vest ([security incidents](https://en.wikipedia.org/wiki/Security_incidents_involving_Donald_Trump); [CBS / 60 Minutes–style recap](https://www.cbsnews.com/news/trump-white-house-correspondents-dinner-shooting-60-minutes-transcript/)). |
+
+### 2.1 Celebrity / late-night / arts rhetoric (Trump as target — not listed as “attempts” above)
+
+These rows are **press and culture** episodes where **public figures** used **assassination, execution, bombing, or bounty** imagery or **explicit one-liners** about **violence toward Trump** (or the **White House with Trump inside**). They are **not** the same evidentiary category as §2 gunfire rows; they matter here for **discourse symmetry** vs. **2011 Palin “target map”** treatment (**§8.1**).
+
+| Approx. date | Figure / venue | What was said or shown (one line) | Tier-B notes |
+|--------------|----------------|-----------------------------------|----------------|
+| 2017-01-21 | **Madonna** — Women’s March, D.C. | Said she had “thought an awful lot about **blowing up the White House**” (then pivoted to “choose love” in the same speech). | [CNN](https://www.cnn.com/2017/01/23/entertainment/madonna-white-house/) (context / backlash); Madonna later called it **metaphor**, not a violence plan ([Reuters](https://www.reuters.com/article/us-usa-trump-women-madonna/singer-madonna-defends-blowing-up-the-white-house-remark-idUSKBN15704A/)). |
+| 2017-03-13 | **Snoop Dogg** — “Lavender” (Nightfall Remix) video | Points a **toy gun** at a **clown** character styled as Trump (“Ronald Klump”); **mock gunshot** imagery. | [CNN](https://www.cnn.com/2017/03/14/entertainment/snoop-dogg-donald-trump-video/index.html); [AP](https://apnews.com/article/db353e7e4c734463acf0e74d0c5a4255). Sen. **Marco Rubio** warned presidents **have been assassinated** and urged caution ([CNN](https://www.cnn.com/2017/03/14/entertainment/snoop-dogg-donald-trump-video/index.html)). |
+| 2017-05-30 | **Kathy Griffin** — photo shoot | Posed with a **fake severed, bloodied head** modeled on Trump. **Secret Service** interest reported; career fallout. | [Reuters](https://www.reuters.com/article/us-usa-trump-head-idUSKBN18R28A/). |
+| 2017-06-22 | **Johnny Depp** — Glastonbury Festival, UK | Riffed on **John Wilkes Booth**, asked when an actor last assassinated a president, added **“maybe it’s time.”** | [Reuters](https://www.reuters.com/article/business/media-telecom/maybe-its-time-actor-johnny-depp-jokes-about-a-trump-assassination-idUSL8N1JK1DV/). |
+| 2020-01-05 | **George Lopez** — Instagram comment | On a **bounty** meme after **Soleimani** strike, commented **“We’ll do it for half.”** (treated by him / rep as a **joke**; conservatives read as assassination humor). | [CBS News](https://www.cbsnews.com/news/george-lopez-donald-trump-bounty-rumor-iran-bounty-to-kill-president-after-soleimani-killed-2020-01-06/); [People](https://people.com/politics/george-lopez-draws-conservative-anger-for-joke-about-assassinating-donald-trump/). |
+| 2026-04-23 | **Jimmy Kimmel** — *JKL* mock WHCA | **“Expectant widow”** line to **Melania** ahead of real WHCA; see **§6**. | Already cited in §2 / §6. |
+
+**Assistant note:** Many more **social posts**, **rap lyrics**, and **roast** clips exist; this table is a **spine** for the **Palin contrast** in §8.1, not a complete celebrity database.
 
 ---
 
@@ -159,7 +175,20 @@ These points are **epistemic guardrails**; they do **not** erase the **jarring t
 
 ---
 
-## 8. Reflection: media treatment of assassination / violence — especially the Charlie Kirk “rhyme”
+## 8. Reflection: media treatment of assassination / violence — Palin “crosshairs” vs. celebrity rhetoric, then the Charlie Kirk “rhyme”
+
+### 8.1 Sarah Palin, the SarahPAC district “target” map, and the inversion read (“they did it, now we get to do it”)
+
+**Background (2010–2011).** Sarah Palin’s **SarahPAC** published a **U.S. map** listing **Democratic-held House seats** targeted in the **2010 midterms** — graphics widely described in cable/print as **crosshairs** or **rifle sight** markers over districts, including **Gabrielle Giffords’** Arizona seat (headline tone: “take a stand” / “reload” election messaging). This was **electoral targeting collateral**, not a literal hit list; Democrats had used **similar bullseye / target maps** in their own committee graphics (Palin and allies later **mirrored** those examples in her defense). After the **2011-01-08 Tucson** mass shooting in which Giffords was gravely wounded, **some commentators** linked the **map’s tone** to a **climate of violence**; fact-checkers and prosecutors **did not** establish that the shooter acted **because of** Palin’s map ([WaPo Fact Checker — “bogus” causal claim](https://www.washingtonpost.com/news/fact-checker/wp/2017/06/15/the-bogus-claim-that-a-map-of-crosshairs-by-sarah-palins-pac-incited-rep-gabby-giffordss-shooting/); [Wikipedia — 2011 Tucson shooting](https://en.wikipedia.org/wiki/2011_Tucson_shooting) as neutral case summary).
+
+**Palin’s responses (documented).**
+
+1. **Video statement (2011-01-12):** Palin condemned the attack, rejected **“journalists and pundits”** who would **“manufacture a blood libel”** that **“serves only to incite the very hatred and violence they purport to condemn,”** and insisted **conservatives** must not be **silenced** as if they were **morally responsible** for a **criminal** act ([Spokesman-Review summary](https://www.spokesman.com/stories/2011/jan/13/palin-takes-on-critics-in-video/)). *(The phrase **blood libel** drew its own separate controversy; ADL asked for different wording — still part of the historical record.)*  
+2. **Fox News / Hannity (2011-01-17) and NPR recap:** Palin said the **map graphic was not original** to her team, had **“absolutely nothing to do with”** an **“apolitical or perhaps even left-leaning criminal,”** and that she was being **“falsely accused of being [an] accessory to murder.”** She added **“They’re not going to shut me up”** and rejected **censorship** of political speech ([NPR *The Two-Way*](https://www.npr.org/sections/thetwo-way/2011/01/18/133014233/palin-theyre-not-going-to-shut-me-up); [Observer / Hannity clip writeup](https://observer.com/2011/01/palin-on-ihannityi-my-crosshairs-werent-original-video/)).
+
+**Inversion (author-labeled pattern, not a legal finding).** In **2011**, a **Republican-aligned PAC map** was read by parts of the **opposition press** as **dangerous incitement**; Palin had to answer as though **rhetoric were causation**. From **2017** onward (see **§2.1**), **celebrities and late-night** repeatedly deployed **widow jokes**, **beheading props**, **John Wilkes Booth** riffs, **mock shootings**, and **bounty humor** aimed at **Trump** — often defended as **metaphor**, **art**, **comedy**, or **“just Instagram.”** Supporters summarize that asymmetry as: **when we used target icons on a midterm map, you called it incitement; when your side jokes about killing or widowing the president, you call it speech** — colloquially, **“they did it [the moral panic], now we get to do it [the same rhetorical license].”** This file **logs** the contrast for **timeline readers**; it **does not** equate any **single joke** with **Loughner’s** acts.
+
+### 8.2 Charlie Kirk — sniper attack as media-ecosystem hinge (parallel to Trump)
 
 **Charlie Kirk** was **murdered** on **2025-09-10** while speaking at **Utah Valley University** — a **sniper-from-distance** attack ([NPR — safety at outdoor events](https://www.npr.org/2025/09/14/nx-s1-5538095/charlie-kirks-assassination-raises-questions-of-safety-for-outdoor-events)). That is **not** an “attempt on Trump,” but it **reordered** how many audiences judge:
 
@@ -167,7 +196,7 @@ These points are **epistemic guardrails**; they do **not** erase the **jarring t
 - **Late-night lane:** Kimmel’s **Kirk** monologue vs **Trump/Melania** jokes becomes a **loyalty / cruelty** battleground ([NPR social split](https://www.npr.org/2025/09/20/nx-s1-5542353/charlie-kirk-jimmy-kimmel-social-media)).  
 - **Trump’s own bridge:** Trump **eulogized** Kirk as a **martyr** and tied Kirk’s work to **faith renewal** ([BBC on memorial](https://www.bbc.com/news/articles/ckgee0x9p40o)); at **SOTU 2026**, **Erika Kirk** appeared as guest — connecting **assassination politics** to **family spectacle** ([Pensacola News Journal summary](https://www.pnj.com/story/news/politics/arizona/2026/02/24/donald-trump-condemns-violence-honors-charlie-kirk-in-speech/88855587007/)).
 
-**Author synthesis (labeled):** The **same press economy** that **gamifies** Trump’s danger also **ritualizes** responses depending on **which** **body** is shot and **which** **tribe** is allowed to grieve loudly. Kirk’s death **raised the salience** of **outdoor speech security**; WHCA **raised** **black-tie + checkpoint + mixed press + protectee** security. Trump’s **ballroom** argument (§9) tries to **collapse** both into **one architectural fix** at **1600 Pennsylvania**.
+**Author synthesis (labeled):** The **same press economy** that **gamifies** Trump’s danger also **ritualizes** responses depending on **which** **body** is shot and **which** **tribe** is allowed to grieve loudly — and, per **§8.1**, which **metaphors** count as **incitement** vs. **entertainment**. Kirk’s death **raised the salience** of **outdoor speech security**; WHCA **raised** **black-tie + checkpoint + mixed press + protectee** security. Trump’s **ballroom** argument (§9) tries to **collapse** both into **one architectural fix** at **1600 Pennsylvania**.
 
 ---
 
@@ -198,16 +227,17 @@ Repeated public framing (speech + interview bits summarized across outlets): **l
 | **WHCA suspect** charging instrument | Confirms **weapon mix**, **intent**, **terror vs. mental health** frame | DOJ / DC Superior Court docket |
 | **USSS after-action** | **Perimeter doctrine** changes for **mixed press** events | USSS public statement or congressional briefing |
 | **Leon appeals / SCOTUS** | Whether **ballroom** can ride **security** exception | D.C. Circuit opinions |
+| **Palin primary video / Hannity** | Freeze **exact quotes** for §8.1 footnote bundle | Internet Archive captures of **2011-01-12** statement + **Hannity** segment |
 
 ---
 
-Keywords: #TrumpAssassinationAttempts #WhiteHouseCorrespondentsDinner #JimmyKimmel #MelaniaTrump #SecretService #WhiteHouseBallroom #CharlieKirk #PoliticalViolence #ParadigmThreatFiles
+Keywords: #TrumpAssassinationAttempts #WhiteHouseCorrespondentsDinner #JimmyKimmel #MelaniaTrump #SecretService #WhiteHouseBallroom #CharlieKirk #PoliticalViolence #SarahPalin #CrosshairsMap #CelebrityRhetoric #ParadigmThreatFiles
 
 ---
 
 ## Limits and disclaimers
 
-This investigation **mixes** **court-grade facts**, **breaking-news summaries**, and **author sentiment** (especially **§6.3** and **§9.3**). It **does not** accuse **Jimmy Kimmel** of **criminal complicity** or **prior knowledge**; **§6.3** is **pattern / rhetoric** **interpretation**, not a **prosecution theory**. Wikipedia rows are **C-tier checklist** convenience; **A-tier** should replace them for **legal claims**. **Charlie Kirk** material is **parallel discourse**, not a **Trump attempt**.
+This investigation **mixes** **court-grade facts**, **breaking-news summaries**, and **author sentiment** (especially **§6.3** and **§9.3**). It **does not** accuse **Jimmy Kimmel** of **criminal complicity** or **prior knowledge**; **§6.3** is **pattern / rhetoric** **interpretation**, not a **prosecution theory**. **§8.1** compares **press / political rhetoric regimes** (Palin map vs. later celebrity material); it **does not** re-litigate **Loughner**’s motive or accuse listed entertainers of **federal incitement** crimes. Wikipedia rows are **C-tier checklist** convenience; **A-tier** should replace them for **legal claims**. **Charlie Kirk** material is **parallel discourse**, not a **Trump attempt**.
 
 ---
 
