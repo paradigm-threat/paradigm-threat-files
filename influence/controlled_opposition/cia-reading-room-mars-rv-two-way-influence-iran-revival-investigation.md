@@ -22,7 +22,7 @@
 **In scope**
 
 - Declassified **CIA FOIA Electronic Reading Room** (`cia.gov/readingroom`): scale, **AIR / Star Gate** evaluation, disclosure gaps.
-- **Hypothesis map** + **open questions** on released PDFs; **primary anchor** and author read: **header** + **§7.4.1**; **session digest** **§7.4.3**; section-by-section primary text in [**Mars Exploration 1984 — PDF full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
+- **Hypothesis map** + **open questions** on released PDFs; **primary anchor** and author read: **header** + **§7.4.1**; **session digest** **§7.4.3**; section-by-section primary text in [**Mars Exploration 1984 — PDF full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md); **machine-readable transcript:** [**`.txt`**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt).
 - **Super Cockpit / Forecast II** (§7.6) as institutional **two-way** rhyme for **Ayatollah / revival** “affect + feedback.”
 
 **Out of scope (here)**
@@ -45,6 +45,7 @@
 | [Mars–Earth reincarnation investigation §2](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | **CIA Stargate — Mars Exploration** (22 May 1984); official PDF `CIA-RDP96-00788R001900760001-9.pdf`, FOIA checklist language (“Mars,” “population,” “civilization”). |
 | [Lacatski / consciousness / craft viral post investigation](/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.md) | Same Mars RV PDF as **institutional Mars + consciousness** vs AAWSAP claims. |
 | [Mars Exploration 1984 — PDF full writeup](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) | **`CIA-RDP96-00788R001900760001-9`**: acquisition block + **MON/SUB** transcript by **coordinate segment**; pull-quotes and **limits** (what the file is / is not). |
+| [Mars Exploration 1984 — plain transcript (.txt)](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt) | **`pdftotext`** extract (protocol + **TRANSCRIPT**); pages 1–2 omitted in this build when non-CIA front matter only — checksum against [**A-tier PDF**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf). |
 | [Cosmos — Mars hub](/cosmos/mars/page.md) | Motif layer (incl. CIA RV caption); **not** session proof. |
 | [Remote viewing as aether physics (stub)](/science/telepathy/remote_viewing/aether-consciousness.md) | Stargate-era RV framing hooks. |
 
@@ -187,7 +188,7 @@ The acquisition block quotes the sealed **3×5 card** as targeting time **“app
 
 ## 8. References (starting set)
 
-- **Anchor:** [*MARS EXPLORATION, May 22, 1984*](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9) · [in-repo full writeup](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md)
+- **Anchor:** [*MARS EXPLORATION, May 22, 1984*](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9) · [in-repo full writeup](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) · [in-repo plain transcript (.txt)](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt)
 - STARGATE collection: `https://www.cia.gov/readingroom/collection/stargate`
 - AIR evaluation: `https://www.cia.gov/readingroom/docs/cia-rdp96-00791r000200180005-5.pdf`
 - CREST scale: `https://www.cia.gov/stories/story/cia-posts-more-than-12-million-pages-of-crest-records-online/`
@@ -212,3 +213,6 @@ No operational or medical claims. **Author** blocks = **stakes**; not automatic 
 ## Investigator notes (maintainers / LLMs)
 
 - **Local mirror + OCR + Playwright + indexer:** **`~/dev/wget/cia/cia-reading-room-local-mirror-and-ocr-operations.md`** (not in **paradigm-threat-files**). Tree: **`~/dev/wget/cia/INDEX.md`**.
+- **Regenerate plain transcript** (after swapping local PDF):  
+  `pdftotext -f 3 -l 10 "/path/to/CIA-RDP96-00788R001900760001-9.pdf" -`  
+  then re-apply the **ASCII header** in **`cia-reading-room-mars-exploration-1984-transcript.txt`** (pages 1–2 skip = Black Vault–only front matter in typical mirror builds).
