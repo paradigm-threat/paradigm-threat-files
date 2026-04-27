@@ -92,7 +92,7 @@ No single folder or keyword crawl equals “everything CIA posted.”
 
 ## 5. Hypothesis map: “two-way / affect / religious overlap”
 
-**Material substrate:** The **[Mars file](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation.md)** treats **`CIA-RDP96-00788R001900760001-9`** as **present-tense Martian civilization + memory-field** contact and maps **MFEE-scale collapse / evacuation** language on the transcript (**§5.5** there). **This file** does **not** re-argue that verdict; it asks whether **Earth-side** **revival / crowd affect** rhymes with **two-way** feedback (target ↔ perceiver, beacon, non-uniform field) in **RV protocol talk** and **cockpit / battlespace UI** discourse.
+**Material substrate:** The **[Mars file](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation.md)** treats **`CIA-RDP96-00788R001900760001-9`** as **present-tense Martian civilization + memory-field** contact and maps **MFEE-scale collapse / evacuation** language on the transcript (**§5.5** there). The same **A-tier** transcript also carries **SUB’s** report that the **viewed party** “**perceives I’m a hallucination**” when asked if it knows **who SUB is** — **target-side stance toward the viewer**; see **Mars file §5.3**. **This file** does **not** re-argue the Mars **verdict**; it asks whether **Earth-side** **revival / crowd affect** rhymes with **two-way** feedback (target ↔ perceiver, beacon, non-uniform field) in **RV protocol talk** and **cockpit / battlespace UI** discourse.
 
 ### 5.1 Plausible **non-mystical** overlaps (strongest, documented-class)
 
