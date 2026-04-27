@@ -2,7 +2,7 @@
 
 Mars Exploration 1984 — session journey / coordinate path (header)
 
-**Companion** to [CIA Reading Room — Mars, RV, two-way, Iran / revival investigation](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md) — **author verdict (Mars anchor):** [**Conclusion (author verdict, Mars anchor)**](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md#conclusion-author-verdict-mars-anchor). This file is a **section-by-section digest** of the declassified PDF text (protocol + transcript): **layout, order, coordinates, and quoted language**. Interpretive **meaning** (present Martian civilization in **1984**, **~1 Ma** card line as **misdirection**, RV as **real-time imagery + memory channel**) lives in the **parent investigation** — not repeated here line-by-line. **Full plain text** (same directory, `pdftotext` + header): `[cia-reading-room-mars-exploration-1984-transcript.txt](cia-reading-room-mars-exploration-1984-transcript.txt)`.
+**Companion** to **[Mars Exploration 1984 — RV investigation](cia-reading-room-mars-exploration-1984-rv-investigation.md)** — **author verdict (Mars anchor):** [**Conclusion (author verdict, Mars anchor)**](cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor). **Earth-side** two-way / Iran / **Super Cockpit** rhymes: [RV two-way, Iran revival investigation](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md). This file is a **section-by-section digest** of the declassified PDF text (protocol + transcript): **layout, order, coordinates, and quoted language**. Interpretive **meaning** (present Martian civilization in **1984**, **~1 Ma** card line as **misdirection**, RV as **real-time imagery + memory channel**) lives in the **Mars investigation** — not repeated here line-by-line. **Full plain text** (same directory, `pdftotext` + header): `[cia-reading-room-mars-exploration-1984-transcript.txt](cia-reading-room-mars-exploration-1984-transcript.txt)`.
 
 Mars Exploration 1984 — declassified PDF digest (figure)
 
@@ -19,7 +19,7 @@ Mars Exploration 1984 — declassified PDF digest (figure)
 | **A-tier PDF**            | [cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf)                                    |
 | **Landing**               | [document page](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9)                                                                                  |
 | **Form**                  | Cover / acquisition instructions + **MON/SUB** **TRANSCRIPT**                                                                                                             |
-| **Release line (banner)** | “Approved For Release 2000/08/08 : CIA-RDP96-00788R001900760001-9” (appears on pages) — **date stamp only**; not a FOIA case narrative (**parent §7.4.7**)                                                                                     |
+| **Release line (banner)** | “Approved For Release 2000/08/08 : CIA-RDP96-00788R001900760001-9” (appears on pages) — **date stamp only**; not a FOIA case narrative (**Mars investigation §5.7**)                                                                                     |
 | **Plain text (in-repo)**  | `[cia-reading-room-mars-exploration-1984-transcript.txt](cia-reading-room-mars-exploration-1984-transcript.txt)` — `**pdftotext`** extract; verify against **A-tier PDF** |
 
 
@@ -52,7 +52,7 @@ Mars Exploration 1984 — declassified PDF digest (figure)
 
 **Section purpose:** Establishes **blind / double-blind style** framing (envelope unopened until end) and ties the session to **Mars + deep time + coordinates** as **tasking**, not as an astronomical observation log.
 
-**Tasking-card epoch (parent verdict):** The quoted **“approximately 1 million years B.C.”** string appears on the **released** acquisition summary. The **parent investigation** treats that clause as **deliberate deep-time misdirection** (readers steered away from **present** Martian civilization in **1984**), **not** as an honest geochronology label — while still logging the **administrative fork** that re-typing or substitution could have altered the **visible** line without clearing-document disclosure (**parent** §6 item **7**, §7.4.4). This writeup **quotes the PDF as-is** in §4–§6.
+**Tasking-card epoch (Mars investigation verdict):** The quoted **“approximately 1 million years B.C.”** string appears on the **released** acquisition summary. The **Mars investigation** treats that clause as **deliberate deep-time misdirection** (readers steered away from **present** Martian civilization in **1984**), **not** as an honest geochronology label — while still logging the **administrative fork** that re-typing or substitution could have altered the **visible** line without clearing-document disclosure (**Mars investigation** §6 item **2**, §5.4). This writeup **quotes the PDF as-is** in §4–§6.
 
 ---
 
@@ -255,7 +255,7 @@ Approximate order as **MON** issues moves (all **in the time on the card** unles
 | 8     | 80° S    | 64° E     | 5.10    |
 
 
-**Digest:** The session is **coordinate-hopping** while **MON** holds the viewer on the **card’s printed epoch string** in-protocol; under the **parent Conclusion**, that string is **misdirection**, and the **phenomenology** is **present-tense civilization + memory-field** contact — not “tourism to an extinct million-year biosphere.” A **late-phase** shift from **strict targeting** to **follow SUB’s salience** still appears in the dialogue (§5.10).
+**Digest:** The session is **coordinate-hopping** while **MON** holds the viewer on the **card’s printed epoch string** in-protocol; under the **[Mars investigation Conclusion](cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor)**, that string is **misdirection**, and the **phenomenology** is **present-tense civilization + memory-field** contact — not “tourism to an extinct million-year biosphere.” A **late-phase** shift from **strict targeting** to **follow SUB’s salience** still appears in the dialogue (§5.10).
 
 ---
 
@@ -263,13 +263,14 @@ Approximate order as **MON** issues moves (all **in the time on the card** unles
 
 **Is:** A **primary** CIA Reading Room **session record** — useful for **exact language**, **protocol**, **tasking structure**, and **public-declassification** provenance.
 
-**Is not (narrow digest role):** A **NASA** instrument paper; a **court** exhibit bundle; or a substitute for the **parent file’s** epistemic / political argument stack (**Conclusion**, **Limits**, **§7.4.6** dismissal literature). **AIR** program-evaluation PDFs address **whether RV was kept as intel** — **orthogonal** to how this investigation **weights** the Mars session as **evidence** (**parent Conclusion**).
+**Is not (narrow digest role):** A **NASA** instrument paper; a **court** exhibit bundle; or a substitute for the **Mars investigation file’s** epistemic / political argument stack (**Conclusion**, **Limits**, **§5.6** dismissal literature). **AIR** program-evaluation PDFs address **whether RV was kept as intel** — **orthogonal** to how that file **weights** the Mars session as **evidence** (**[Conclusion](cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor)**).
 
 ---
 
 ## 8. Related in-repo files
 
-- [CIA Reading Room — Mars, RV, two-way, Iran / revival investigation](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md) — **closed author verdict (Mars anchor)**, **§7.4.2** local mirror negative find, **Super Cockpit** rhyme, **§7.4.5** **Mars MFEE** phase correlation (before / pulse / after), **§7.4.6** dismissal literature.
+- [Mars Exploration 1984 — RV investigation](cia-reading-room-mars-exploration-1984-rv-investigation.md) — **closed author verdict (Mars anchor)**; **§5.2** local mirror negative find; **§5.5** **Mars MFEE** phase correlation (before / pulse / after); **§5.6** dismissal literature; **§5.7** FOIA / declass chain.
+- [RV two-way, Iran revival, Super Cockpit](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md) — **open** Earth-side **two-way** / revival / **Super Cockpit** rhyme (substrate = Mars file).
 - [Plain transcript (.txt)](cia-reading-room-mars-exploration-1984-transcript.txt) — **MON/SUB** + acquisition block (machine extract).
 - Local mirror ops (outside **paradigm-threat-files**): `~/dev/wget/cia/cia-reading-room-local-mirror-and-ocr-operations.md`
 - **Timeline:** [The MudFlood & World Cataclysm](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm) (paradigm-threat-timeline) cites this PDF for **MFEE phenomenology** cross-read.

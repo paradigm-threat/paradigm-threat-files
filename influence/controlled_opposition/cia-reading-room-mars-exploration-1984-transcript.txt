@@ -21,10 +21,12 @@ removed); "Approved For Release" page banners stay on their own lines between
 chunks. **Page splits:** if one speaker’s sentence continues after a banner,
 merge the fragments (see MON block before “who you are … predicament?”).
 **PDF text-layer typo:** “comet’s **tailor**” → read **tail or** (comet’s tail).
-Rebuild from PDF with the investigator note in the Mars investigation.
+Rebuild from PDF with the investigator note in the Mars investigation
+  (cia-reading-room-mars-exploration-1984-rv-investigation.md).
 
 Companion markdown in this directory:
   cia-reading-room-mars-exploration-1984-pdf-full-writeup.md
+  cia-reading-room-mars-exploration-1984-rv-investigation.md
   cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md
 ================================================================================
 
