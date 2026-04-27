@@ -1,25 +1,27 @@
 # Mars Exploration, 22 May 1984 — full writeup (`CIA-RDP96-00788R001900760001-9`)
 
-![Mars Exploration 1984 — session journey / coordinate path (header)](cia-reading-room-mars-exploration-1984-journey.png)
+Mars Exploration 1984 — session journey / coordinate path (header)
 
-**Companion** to [CIA Reading Room — Mars, RV, two-way, Iran / revival investigation](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md). This file is a **section-by-section digest** of the declassified PDF text (protocol + transcript). It **summarizes what appears on the page**; it does **not** assert planetary fact, operational success, or independent verification of SUB’s imagery. **Full plain text** (same directory, `pdftotext` + header): [`cia-reading-room-mars-exploration-1984-transcript.txt`](cia-reading-room-mars-exploration-1984-transcript.txt).
+**Companion** to [CIA Reading Room — Mars, RV, two-way, Iran / revival investigation](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md). This file is a **section-by-section digest** of the declassified PDF text (protocol + transcript). It **summarizes what appears on the page**; it does **not** assert planetary fact, operational success, or independent verification of SUB’s imagery. **Full plain text** (same directory, `pdftotext` + header): `[cia-reading-room-mars-exploration-1984-transcript.txt](cia-reading-room-mars-exploration-1984-transcript.txt)`.
 
-![Mars Exploration 1984 — declassified PDF digest (figure)](cia-reading-room-mars-exploration-1984-pdf-full-writeup.png)
+Mars Exploration 1984 — declassified PDF digest (figure)
 
 ---
 
 ## 1. Document identity
 
-| Field | Value |
-|--------|--------|
-| **Title (PDF)** | MARS EXPLORATION |
-| **Date (session)** | May 22, 1984 |
-| **CIA Reading Room ID** | `CIA-RDP96-00788R001900760001-9` |
-| **A-tier PDF** | [cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) |
-| **Landing** | [document page](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9) |
-| **Form** | Cover / acquisition instructions + **MON/SUB** **TRANSCRIPT** |
-| **Release line (banner)** | “Approved For Release 2000/08/08 : CIA-RDP96-00788R001900760001-9” (appears on pages) |
-| **Plain text (in-repo)** | [`cia-reading-room-mars-exploration-1984-transcript.txt`](cia-reading-room-mars-exploration-1984-transcript.txt) — **`pdftotext`** extract; verify against **A-tier PDF** |
+
+| Field                     | Value                                                                                                                                                                     |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Title (PDF)**           | MARS EXPLORATION                                                                                                                                                          |
+| **Date (session)**        | May 22, 1984                                                                                                                                                              |
+| **CIA Reading Room ID**   | `CIA-RDP96-00788R001900760001-9`                                                                                                                                          |
+| **A-tier PDF**            | [cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf)                                    |
+| **Landing**               | [document page](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9)                                                                                  |
+| **Form**                  | Cover / acquisition instructions + **MON/SUB** **TRANSCRIPT**                                                                                                             |
+| **Release line (banner)** | “Approved For Release 2000/08/08 : CIA-RDP96-00788R001900760001-9” (appears on pages)                                                                                     |
+| **Plain text (in-repo)**  | `[cia-reading-room-mars-exploration-1984-transcript.txt](cia-reading-room-mars-exploration-1984-transcript.txt)` — `**pdftotext`** extract; verify against **A-tier PDF** |
+
 
 **Roles:** **MON** = monitor / interviewer; **SUB** = subject / remote viewer.
 
@@ -30,7 +32,7 @@
 - **Canonical cite** for the **session words** is the **CIA-hosted** PDF or landing page (§1).
 - **Third-party PDFs** sometimes prepend **The Black Vault** boilerplate (FOIA clearinghouse advertisement). That block is **not** CIA session content; the **TRANSCRIPT** heading marks where the agency session record begins.
 - **THOLONIA** and other **HTML transcriptions** are handy but **C-tier** — checksum against **A-tier** before treating line breaks or punctuation as forensic.
-- **`pdftotext` quirk:** pause clusters in the PDF text layer often extract as **Unicode bullet** (`•`, U+2022), not ASCII `.` — the in-repo [`.txt`](cia-reading-room-mars-exploration-1984-transcript.txt) normalizes those to periods (see its header **Encoding note**).
+- `**pdftotext` quirk:** pause clusters in the PDF text layer often extract as **Unicode bullet** (`•`, U+2022), not ASCII `.` — the in-repo `[.txt](cia-reading-room-mars-exploration-1984-transcript.txt)` normalizes those to periods (see its header **Encoding note**).
 
 ---
 
@@ -50,7 +52,7 @@
 
 **Section purpose:** Establishes **blind / double-blind style** framing (envelope unopened until end) and ties the session to **Mars + deep time + coordinates** as **tasking**, not as an astronomical observation log.
 
-**Provenance / redaction (investigation note):** The quoted **“approximately 1 million years B.C.”** line is **suspiciously round** and **pop-register** (“B.C.,” **million** on the nose)—easier to read as **placeholder, summary label, or post-review substitution** than as serious **absolute-age** tasking. Declassification can mean **re-typed or replaced lines**, not only **masked** text; **tabular zeros** fit **template filler** better than a **real dated target** without **imaged card + custody** evidence. Do **not** treat that clause as **independent planetary chronology**. See parent file [**§7.4.4**](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md).
+**Provenance / redaction (investigation note):** The quoted **“approximately 1 million years B.C.”** line is **suspiciously round** and **pop-register** (“B.C.,” **million** on the nose)—easier to read as **placeholder, summary label, or post-review substitution** than as serious **absolute-age** tasking. Declassification can mean **re-typed or replaced lines**, not only **masked** text; **tabular zeros** fit **template filler** better than a **real dated target** without **imaged card + custody** evidence. Do **not** treat that clause as **independent planetary chronology**. See parent file **[§7.4.4](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md)**.
 
 ---
 
@@ -232,7 +234,7 @@ Opening timestamp (MON, monitor-heard): **ROJ for 5/22 (May 22nd), time 10:09 AM
 
 **END OF INTERVIEW**
 
-**NOTE (printed in file):** `()*` **Indicates monitor comment recorded but not heard by the subject.**
+**NOTE (printed in file):** `()`* **Indicates monitor comment recorded but not heard by the subject.**
 
 ---
 
@@ -240,16 +242,18 @@ Opening timestamp (MON, monitor-heard): **ROJ for 5/22 (May 22nd), time 10:09 AM
 
 Approximate order as **MON** issues moves (all **in the time on the card** unless noted). **SUB** does not read these from the sealed card during the interview; **MON** supplies them verbally.
 
+
 | Order | Latitude | Longitude | § above |
-|-------|-----------|------------|---------|
-| 1 | 40.89° N | 9.55° W | 5.1 |
-| 2 | 46.45° N | 353.22° E | 5.4 |
-| 3 | 45.86° N | 354.1° E | 5.5 |
-| 4 | 35.26° N | 213.24° E | 5.6 |
-| 5 | 34.6° N | 213.09° E | 5.7 |
-| 6 | 34.57° N | 212.22° E | 5.8 |
-| 7 | 15° N | 198° E | 5.9 |
-| 8 | 80° S | 64° E | 5.10 |
+| ----- | -------- | --------- | ------- |
+| 1     | 40.89° N | 9.55° W   | 5.1     |
+| 2     | 46.45° N | 353.22° E | 5.4     |
+| 3     | 45.86° N | 354.1° E  | 5.5     |
+| 4     | 35.26° N | 213.24° E | 5.6     |
+| 5     | 34.6° N  | 213.09° E | 5.7     |
+| 6     | 34.57° N | 212.22° E | 5.8     |
+| 7     | 15° N    | 198° E    | 5.9     |
+| 8     | 80° S    | 64° E     | 5.10    |
+
 
 **Digest:** The session is **coordinate-hopping** under fixed **deep-time Mars** tasking, with a **late-phase** shift from **strict targeting** to **follow SUB’s salience** (§5.10).
 
@@ -274,4 +278,4 @@ Approximate order as **MON** issues moves (all **in the time on the card** unles
 
 ## Keywords
 
-CIA-RDP96-00788R001900760001-9, MARS EXPLORATION 1984, remote viewing transcript, MON SUB, sealed envelope protocol, Mars coordinates, Stargate, Reading Room
+#MarsExploration1984 #MARSExploration #RemoteViewing #Stargate #ReadingRoom #CIAReadingRoom #MONSUB #SealedEnvelope #MarsCoordinates #DeclassifiedPDF #FOIA #May221984 #RDP96MarsSession
