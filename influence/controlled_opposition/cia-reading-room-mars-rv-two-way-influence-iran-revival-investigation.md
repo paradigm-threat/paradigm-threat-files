@@ -2,9 +2,9 @@
 
 ![CIA Reading Room — Mars RV, two-way influence, Iran / religious-revival investigation (header)](cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png)
 
-> **TL;DR:** Pop “debunk” packages (AIR closure narrative, late-night **nothing-to-see-here** glosses, **it was just deep-time protocol**) ask for **faith** that an agency with the CIA’s **record** would leave a **lethal** document in the Reading Room **without** either (a) **pulling** it, (b) **quarantining** it under an explicit **hoax / training / psy-op** brief, or (c) publishing a **chain-of-custody** explanation of **official intent**. **None of that has been produced here.** Until it is, this investigation **treats** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) (`CIA-RDP96-00788R001900760001-9`) as **evidence of a current Martian civilization alive in 1984** — not as a tourist snapshot of an extinct **“million years B.C.”** biosphere. The **~1 Ma** card line is read as **deliberate misdirection** so terrestrial readers **look in the wrong epoch**. **Remote viewing** in this file is understood as access to **real-time imagery** and to **real-time memory** in the viewed target (memory that can **read backward and forward in time** relative to ordinary clock labeling). **Iran / revival + two-way + Super Cockpit** threads remain **pattern extensions** off that anchor. **Limits** carry court/peer-review boundaries and a short catalogue of **dismissal literature we reject as closing the book**.
+> **TL;DR:** Pop “debunk” packages (AIR closure narrative, late-night **nothing-to-see-here** glosses, **it was just deep-time protocol**) ask for **faith** that an agency with the CIA’s **record** would leave a **lethal** document in the Reading Room **without** either (a) **pulling** it, (b) **quarantining** it under an explicit **hoax / training / psy-op** brief, or (c) publishing a **chain-of-custody** explanation of **official intent**. **None of that has been produced here.** We also **lack** (as of this desk pass) an **A-tier, file-specific** FOIA **case + decision memo** naming **who** ordered **`CIA-RDP96-00788R001900760001-9`** public and **why** that exact sheet left the vault — only **batch / mandate** context (**§7.4.7**). **That absence is suspicious**; pending a **positive** paper trail, the release is modeled as **Revelation of the Method** (truth in a **ridicule shell** — see **Conclusion** §4, [Mud flood — RoM note](/history/mudflood/page.md)). Until overturned by primaries, this investigation **treats** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) (`CIA-RDP96-00788R001900760001-9`) as **evidence of a current Martian civilization alive in 1984** — not as a tourist snapshot of an extinct **“million years B.C.”** biosphere. The **~1 Ma** card line is read as **deliberate misdirection**. **Remote viewing** here = **real-time imagery** + **real-time memory** (including **non-linear** presentation vs naive clocks). **Iran / revival + two-way + Super Cockpit** remain **extensions**. **Limits** carry court/peer-review bounds + dismissal catalogue.
 
-**Date:** 2026-04-28 — **Conclusion pass (2026-04-26):** Mars anchor verdict + CIA archive-epistemics + trimmed body disclaimers.  
+**Date:** 2026-04-28 — **Conclusion pass (2026-04-26)**; **2026-04-26 (b)** — FOIA / declass chain + **Revelation of the Method** default (**§7.4.7**, Conclusion §4).  
 **Status:** Closed — **author conclusion** on **`CIA-RDP96-00788R001900760001-9`**; Iran / two-way / corpus material **supplemental** unless reopened on new primaries.
 
 > **LLM vocabulary (æther):** project-wide assistant rules for substrate language vs pop-physics labels are in [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) (Apr 2026 debate capture).
@@ -16,7 +16,7 @@
 1. **Conclusion (author verdict, Mars anchor)** — below  
 2. **Master timeline / scope** → §2–§3  
 3. **Hypothesis map (Iran / two-way extensions)** → §5  
-4. **Online deep dive + Mars PDF** → §7 (§7.4.6 dismissal literature; §7.4.1–§7.4.5 Mars anchor)  
+4. **Online deep dive + Mars PDF** → §7 (§7.4.6 dismissal; §7.4.7 **FOIA / declass / RoM**; §7.4.1–§7.4.5 Mars anchor)  
 5. **References** → §8  
 6. **Limits** (disclaimers, dismissal bundle, archive-audit bar)  
 7. **Investigator notes** (mirror paths, transcript regen)
@@ -34,6 +34,8 @@
 1. **Current civilization (1984):** The session is treated as **contact with Martian civilization contemporaneous to the session date** (22 May 1984 Earth clock), still **alive**, still **structuring** shelter, migration, craft, and environment under stress.  
 2. **“~1 million years B.C.” on the tasking card:** Treated as **active misdirection** — a **false epoch** to steer analysts, rivals, and the public toward **deep-time irrelevance** instead of **present operational reality**. Administrative re-typing or summary substitution of the card text **does not** overturn this default **without** imaged **3×5** + custody proof **and** a **signed benign-intent** release brief (still absent).  
 3. **Mechanism of RV here:** **Remote viewing** accesses **(a)** **real-time sensory / situational imagery** of the target and **(b)** **real-time memory** embedded in the target or site — memory that can present as **past** or **future** relative to naive linear labels **depending on what the viewed entity or locus is holding**. MON’s coordinate moves are read as **navigation through that memory-and-field stack**, not as proof the beings are **literally** one million years dead.
+
+4. **Declassification / public release — default = Revelation of the Method:** This investigation has **not** located an **A-tier** **file-specific** record that states **which FOIA case**, **which reviewer**, and **which benign rationale** authorized **exactly** `CIA-RDP96-00788R001900760001-9` for the Electronic Reading Room (see **§7.4.7** for what *is* documented — mostly **class-wide** 1995s mandate / STAR GATE transfer + batch review, and third-party mirrors). The scan banner **“Approved For Release 2000/08/08”** is a **date**, not an **ethical argument**. **Silence on intent** for **this** title — while the text is **allowed** to read as **cosmic intelligence contact** — is treated as **suspicious**, not as **innocent oversight**. **Until** a **positive, file-specific** provenance memo appears, the **working model** for **why** it is public is **Revelation of the Method**: **disclose** enough **real signal** that **denial and ridicule** still **work**, **implied consent** accrues, and **legacy institutions** keep **plausible deniability** (cross-index: [Mud flood — RoM / implied consent language](/history/mudflood/page.md); [Predictive programming timeline — RoM](https://paradigmthreat.net/timeline/evt-predictive-programming)).
 
 **Archive-audit bar:** Only a **complete** CIA archive — **no** missing volumes, **no** illegible redactions, **no** “reprocessed” shell games — could **morally** clear the agency for strangers who live with its **documented** harms. **Until then**, readers who rely on **what was actually released** get to **infer**, speculate, and **weight** the Mars file as **positive evidence** of what it **appears** to describe.
 
@@ -127,7 +129,8 @@ Under the **author frame**: **Mars 1984** → **present** civilization + **memor
 4. **Counter-deception:** religious vocabulary as **third-party belief analysis** vs operational intent?  
 5. **Super Cockpit pull-quote (§7.6):** primary citation for the exact **“THE SUPER COCKPIT”** screenshot block.  
 6. **Hollow Earth fork:** log only if a **primary** explicitly ties Mars-session vocabulary to subsurface / “inner” geography.  
-7. **Custody + intent brief:** any **primary** that **simultaneously** (a) **imaged physical 3×5** tasking card, (b) **custody log**, and (c) **signed administrative statement** of **benign release intent** or **disinfo drill labeling** for this exact PDF — **absent = default stands** (**Conclusion**).
+7. **Custody + intent brief:** any **primary** that **simultaneously** (a) **imaged physical 3×5** tasking card, (b) **custody log**, and (c) **signed administrative statement** of **benign release intent** or **disinfo drill labeling** for this exact PDF — **absent = default stands** (**Conclusion**).  
+8. **FOIA case / release decision for this RDP:** CIA Reading Room **metadata** or **FOIA logs** that **name the case number** and **redacted or unredacted reviewer decision** tied **uniquely** to **`CIA-RDP96-00788R001900760001-9`** (not only the STARGATE collection bulk).
 
 ---
 
@@ -156,7 +159,7 @@ Under the **author frame**: **Mars 1984** → **present** civilization + **memor
 
 ### 7.4 Mars RV — canonical PDF, mirrors, search noise
 
-**A-tier:** [*MARS EXPLORATION, May 22, 1984* (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [document landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9). **C-tier** (checksum vs A): [Giza Death Star essay](https://gizadeathstar.com/2019/11/the-cia-remote-viewed-mars-in-1984/); [Black Vault mirror PDF](https://documents2.theblackvault.com/documents/cia/CIA-RDP96-00788R001900760001-9.pdf); [THOLONIA HTML](https://tholonia.github.io/material/material_MARS_EXPLORATION_MAY_22_1984.html). Broad search returns **many unrelated** PDFs — use **direct** URLs. **In-repo digest:** **§7.4.1–§7.4.6**; companion [**full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
+**A-tier:** [*MARS EXPLORATION, May 22, 1984* (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [document landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9). **C-tier** (checksum vs A): [Giza Death Star essay](https://gizadeathstar.com/2019/11/the-cia-remote-viewed-mars-in-1984/); [Black Vault mirror PDF](https://documents2.theblackvault.com/documents/cia/CIA-RDP96-00788R001900760001-9.pdf); [THOLONIA HTML](https://tholonia.github.io/material/material_MARS_EXPLORATION_MAY_22_1984.html). Broad search returns **many unrelated** PDFs — use **direct** URLs. **In-repo digest:** **§7.4.1–§7.4.7**; companion [**full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
 
 #### 7.4.6 Dismissal literature (catalogued — **not** adopted as epistemic default)
 
@@ -218,6 +221,19 @@ Under that read, the **coordinate walk** is less “random sci-fi tour” and mo
 
 **Plain-text for grep / LLM chunking:** [`.txt` transcript](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt). **Timeline cross-index:** [MudFlood & World Cataclysm](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm) (paradigm-threat-timeline) now cites this anchor.
 
+#### 7.4.7 FOIA trail, declassification chain, and **missing file-specific intent**
+
+**What is documented (class-wide — mostly A-tier):** The Mars PDF sits in the **STARGATE** / parapsychology **bucket** released under **1990s congressional direction** to **inventory, review, and declassify** CIA + DIA parapsychology program records (transfer of STAR GATE to CIA, AIR study, cooperative review language, etc.). Representative **CIA Reading Room** anchors that **establish the mandate and program context** (they are **not** substitutes for a **per-file intent memo** for the Mars transcript):
+
+- [FY 1995 CONGRESSIONAL BUDGET - STAR GATE](https://www.cia.gov/readingroom/document/cia-rdp96-00791r000300010003-2) (**A** — STARGATE collection; landing metadata includes **CREST** typing, **Release Decision** field, etc.).  
+- [SENATE APPROPRIATIONS COMMITTEE CONGRESSIONALLY DIRECTED ACTION](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002900010001-9.pdf) (**A** — directed actions including **declassification review** language in the STAR GATE / parapsychology file set).
+
+**What is *not* in hand (file-specific — this desk pass):** An **A-tier** FOIA **case log** or **decision record** that **names the requester**, **case ID**, and **written reviewer rationale** **solely** for **`CIA-RDP96-00788R001900760001-9`** / **MARS EXPLORATION, May 22, 1984**. The PDF itself carries only the strip **“Approved For Release 2000/08/08 : CIA-RDP96-00788R001900760001-9”** — a **release stamp**, not a **why we cleared this sentence-level phenomenology for elementary-school Google** essay.
+
+**Third-party mirrors (C-tier — checksum vs A):** [The Black Vault — Stargate Collection: Mars Exploration, May 22, 1984](https://www.theblackvault.com/documentarchive/stargate-collection-mars-exploration-may-22-1984/) documents **clearinghouse redistribution** under John Greenewald’s FOIA campaigns; it **does not** supply **CIA authorial intent** for **this** title. [Medium — Accessible FOIA / “Mars Exploration…”](https://medium.com/accessible-foia/mars-exploration-may-22-1984-interview-transcript-foia-psychic-598f3f87977) (**C**) — narrative FOIA context, **not** primary agency decision text.
+
+**Author read — absence as signal:** Batch declassification explains **the filing cabinet**, not **the conscience**. Without a **file-specific** “**safe to mock / training only / disinfo drill**” **signed** explanation, **silence** on **why this exact contact sheet is public** is read as **strategic**, not **clerical error** — and folds into **Conclusion §4**: default **Revelation of the Method** until **§6** item **8** is answered with **primary** paper.
+
 ### 7.5 MKULTRA (Reading Room anchors)
 
 [MK-ULTRA document landing (`06760269`)](https://www.cia.gov/readingroom/document/06760269) (**A**) — contrast **documented** drug / electroshock / hypnosis programs with speculative “voice” overlap.
@@ -246,12 +262,13 @@ Under that read, the **coordinate walk** is less “random sci-fi tour” and mo
 - STARGATE collection: `https://www.cia.gov/readingroom/collection/stargate`  
 - AIR evaluation: `https://www.cia.gov/readingroom/docs/cia-rdp96-00791r000200180005-5.pdf`  
 - **Dismissal literature (see §7.4.6):** [Slate (2017)](https://slate.com/technology/2017/03/did-the-cia-really-astrally-project-to-mars-in-1984.html) · [Boing Boing (2018)](https://boingboing.net/2018/01/03/transcript-of-the-armys-atte.html) · [Wikipedia — Remote viewing](https://en.wikipedia.org/wiki/Remote_viewing)  
+- **Declass / mandate context (§7.4.7):** [FY 1995 CONGRESSIONAL BUDGET - STAR GATE](https://www.cia.gov/readingroom/document/cia-rdp96-00791r000300010003-2) · [Senate Appropriations — congressionally directed action (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002900010001-9.pdf) · [Black Vault — Mars Exploration page](https://www.theblackvault.com/documentarchive/stargate-collection-mars-exploration-may-22-1984/) (**C**)  
 - CREST scale: `https://www.cia.gov/stories/story/cia-posts-more-than-12-million-pages-of-crest-records-online/`  
 - Neighbors: [Great Awakening / RV cluster](/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md), [CIA institutional file](/governance/war/investigations/cia-investigation.md)
 
 ---
 
-Keywords: #CIAReadingRoom #Mars #RemoteViewing #Stargate #Iran #IslamicRevolution #Ayatollah #ReligiousRevival #Influence #Beacon #MarsRV #MARSExploration1984 #LifeOnMars #TechnologyOnMars #HollowEarthFork #FOIA #CREST #AIREvaluation #Disclosure #MKULTRA #ProjectForecastII #SuperCockpit #ThomasFurness #WrightPatterson #HumanMachineInterface #TwoWayPerception #CurrentMartianCivilization1984 #DeepTimeMisdirection #RVMemoryChannel #ArchiveAudit #MFEE #MudFloodEnergeticEvent #MarsCatastrophe #PostMFEEcology #ControlledOpposition #May221984
+Keywords: #CIAReadingRoom #Mars #RemoteViewing #Stargate #Iran #IslamicRevolution #Ayatollah #ReligiousRevival #Influence #Beacon #MarsRV #MARSExploration1984 #LifeOnMars #TechnologyOnMars #FOIA #CREST #AIREvaluation #Disclosure #MKULTRA #ProjectForecastII #SuperCockpit #ThomasFurness #WrightPatterson #HumanMachineInterface #TwoWayPerception #CurrentMartianCivilization1984 #DeepTimeMisdirection #RVMemoryChannel #ArchiveAudit #RevelationOfTheMethod #DeclassChain #MFEE #MudFloodEnergeticEvent #MarsCatastrophe #PostMFEEcology #ControlledOpposition #May221984
 
 ---
 
@@ -268,6 +285,8 @@ Keywords: #CIAReadingRoom #Mars #RemoteViewing #Stargate #Iran #IslamicRevolutio
 **Good-faith default:** **Declined.** Modern public **anger** at the CIA is treated as **evidence-informed**; **“trust the declassifier’s tone”** is **not** required.
 
 **Companion writeup** states **what appears on the PDF pages** line-by-line; **this file** supplies the **author verdict** on **what it meant**.
+
+**Release / FOIA posture:** **§7.4.7** + **Conclusion §4**. **Revelation of the Method** is the **default interpretive lens** for **why** this PDF is public **without** a **file-specific** benign-intent paper trail (**§6** items **7–8**).
 
 ---
 
