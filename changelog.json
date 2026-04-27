@@ -1,8 +1,45 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-27T14:38:48.468Z",
+    "date": "2026-04-27T15:22:59.887Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/mars-earth-reincarnation-investigation.md",
+        "href": "/cosmos/mars/investigations/mars-earth-reincarnation-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
+        "href": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.md",
+        "href": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
+        "alt": "CIA Reading Room — Mars RV, two-way influence, Iran / religious-revival investigation (header)"
+      },
+      {
+        "src": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.png",
+        "alt": "AAWSAP / Lacatski investigation — accompanying figure"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-27T14:38:47.000Z",
+    "message": "Add header image to Trump WHCA assassination investigation; track PNG",
     "files": [
       {
         "status": "M",
@@ -3898,39 +3935,6 @@
         "status": "M",
         "path": "influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation.md",
         "href": "/influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-27T11:46:24.000Z",
-    "message": "Reading Room investigation: online deep dive, wget paths; æther LLM canon",
-    "files": [
-      {
-        "status": "A",
-        "path": ".cursor/rules/paradigm-threat-aether-vocabulary.mdc",
-        "href": "/.cursor/rules/paradigm-threat-aether-vocabulary.mdc"
-      },
-      {
-        "status": "A",
-        "path": "docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md",
-        "href": "/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE"
-      },
-      {
-        "status": "M",
-        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
-        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-rv-two-way-influence-iran-revival-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/telepathy/remote_viewing/aether-consciousness.md",
-        "href": "/science/telepathy/remote_viewing/aether-consciousness"
       }
     ],
     "images": []
