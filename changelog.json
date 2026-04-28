@@ -1,6 +1,52 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "date": "2026-04-28T23:04:16.886Z",
+    "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
+        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
+        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
+        "alt": "*Chrono Trigger* / Mars RV — predictive-programming composite (author)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
+        "alt": "Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png",
+        "alt": "Mars Exploration 1984 — RV investigation composite (same release, alternate layout)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
+        "alt": "Mars Exploration 1984 — PDF digest companion figure"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-28T22:55:38.000Z",
+    "message": "changelog: regenerate without (staged) stub.",
+    "files": [],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
     "date": "2026-04-28T22:55:34.000Z",
     "message": "Mars PP: X-Men Cerebro, Magneto vs Xavier, X2 two-way; Chrono 2300 mutants outside domes.",
     "files": [
@@ -37,6 +83,19 @@
         "alt": "Mars Exploration 1984 — PDF digest companion figure"
       }
     ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-28T16:17:35.000Z",
+    "message": "Disable .gitlab-ci.yml file",
+    "files": [
+      {
+        "status": "M",
+        "path": ".gitlab-ci.yml",
+        "href": "/.gitlab-ci.yml"
+      }
+    ],
+    "images": []
   },
   {
     "repo": "paradigm-threat-files",
@@ -643,191 +702,6 @@
       {
         "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
         "alt": "Legacy header export — pre-rename filename, same Iran / two-way thread"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-27T15:52:04.000Z",
-    "message": "Embed Mars/Iran Reading Room figures in investigations",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation.png",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation.png"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation.png"
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Mars Exploration 1984 — session journey / coordinate path"
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
-        "alt": "Mars Exploration 1984 — declassified PDF digest (companion figure)"
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.png",
-        "alt": "CIA Reading Room — RV two-way, Iran / religious-revival investigation (header)"
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png)](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
-        "alt": "Mars Exploration 1984 — PDF digest companion figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
-        "alt": "Legacy header export — pre-rename filename, same Iran / two-way thread"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-27T15:49:14.000Z",
-    "message": "Rename Iran/two-way investigation slug (drop Mars from filename)",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
-        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md",
-        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.png",
-        "href": "/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.png"
-      },
-      {
-        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png",
-        "alt": "Paradigm Threat — working definition of antisemitism (illustrative header)"
-      },
-      {
-        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism2.png",
-        "alt": "Paradigm Threat — working definition of antisemitism (supplementary illustration)"
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Mars Exploration 1984 — RV session journey / coordinate path"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-27T15:44:59.000Z",
-    "message": "Split Mars 1984 RV anchor from Iran two-way investigation",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/mars/investigations/mars-earth-reincarnation-investigation.md",
-        "href": "/cosmos/mars/investigations/mars-earth-reincarnation-investigation"
-      },
-      {
-        "status": "M",
-        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
-        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md",
-        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.md",
-        "href": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png",
-        "alt": "Paradigm Threat — working definition of antisemitism (illustrative header)"
-      },
-      {
-        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism2.png",
-        "alt": "Paradigm Threat — working definition of antisemitism (supplementary illustration)"
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Mars Exploration 1984 — RV session journey / coordinate path"
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
-        "alt": "CIA Reading Room — Mars RV, two-way influence, Iran / religious-revival investigation (header)"
-      },
-      {
-        "src": "/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.png",
-        "alt": "AAWSAP / Lacatski investigation — accompanying figure"
       }
     ]
   }
