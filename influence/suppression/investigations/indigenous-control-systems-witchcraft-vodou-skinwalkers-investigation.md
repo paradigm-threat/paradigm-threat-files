@@ -186,7 +186,7 @@ Reusable method note (used across investigations):
 |------|------|
 | Skinwalkers/cryptids core deep-dive | [/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md](/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md) |
 | Yakuza “remote control” (control system analogy) | [/governance/war/investigations/yakuza-remote-control-investigation.md](/governance/war/investigations/yakuza-remote-control-investigation.md) |
-| Controlled opposition clusters | [/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md](/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) |
+| Controlled opposition clusters | [/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) |
 
 ---
 

@@ -212,7 +212,7 @@ Opening timestamp (MON, monitor-heard): **ROJ for 5/22 (May 22nd), time 10:09 AM
 
 > All I get is that they must just wait. Doesn't know who I am. Think he perceives I'm a hallucination or something.
 
-**Summary:** **No consensual contact** framed as successful two-way dialogue; **epistemic break** between parties — yet **SUB** explicitly models **target-side discounting of the viewer** (**hallucination**), i.e. language on the **mutual-contact** surface. **Mars investigation:** [**§5.3**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation.md) **two-way epistemics** + sibling [**Iran / two-way file**](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md).
+**Summary:** **No consensual contact** framed as successful two-way dialogue; **epistemic break** between parties — yet **SUB** explicitly models **target-side discounting of the viewer** (**hallucination**), i.e. language on the **mutual-contact** surface. **Mars investigation:** [**§5.3**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) **two-way epistemics** + sibling [**Iran / two-way file**](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md).
 
 ---
 
