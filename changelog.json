@@ -1,8 +1,183 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-27T20:57:46.997Z",
+    "date": "2026-04-28T10:53:18.920Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "blog/2026-04-25-netanyahu-health-disclosure-controlled-opposition-fomenko-site-toc.md",
+        "href": "/blog/2026-04-25-netanyahu-health-disclosure-controlled-opposition-fomenko-site-toc"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/mars-earth-reincarnation-investigation.md",
+        "href": "/cosmos/mars/investigations/mars-earth-reincarnation-investigation"
+      },
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md",
+        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-transcript.txt",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-transcript.txt"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.png",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.png"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.png",
+        "href": "/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.png"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation2.png",
+        "href": "/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation2.png"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/great-awakening-mind-map-infographic.png",
+        "href": "/influence/controlled_opposition/investigations/great-awakening-mind-map-infographic.png"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.png",
+        "href": "/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      },
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md",
+        "href": "/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation2.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/great-awakening-mind-map-infographic.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.png"
+      },
+      {
+        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png",
+        "alt": "Paradigm Threat — working definition of antisemitism (illustrative header)"
+      },
+      {
+        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism2.png",
+        "alt": "Paradigm Threat — working definition of antisemitism (supplementary illustration)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png)](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
+        "alt": "Mars Exploration 1984 — PDF digest companion figure"
+      },
+      {
+        "src": "/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.png",
+        "alt": "Indigenous control systems — witchcraft discourse, Vodou “work,” and reservation containment hypotheses"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-27T20:57:46.000Z",
+    "message": "Mars RV investigation: embed Chrono Trigger PP figure (cia-reading-room-chrono-trigger-pp.png).",
     "files": [
       {
         "status": "A",
@@ -4068,33 +4243,6 @@
         "status": "A",
         "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt",
         "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
-        "alt": "Mars Exploration 1984 — declassified PDF digest (header)"
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
-        "alt": "CIA Reading Room — Mars RV, two-way influence, Iran / religious-revival investigation (header)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-27T13:11:47.000Z",
-    "message": "Mars RV docs: §7.4.4 caveat on '1 million years B.C.' card line",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup"
       },
       {
         "status": "M",

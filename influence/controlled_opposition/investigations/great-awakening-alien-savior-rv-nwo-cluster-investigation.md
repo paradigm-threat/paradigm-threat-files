@@ -411,7 +411,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 | [QAnon — CO hub](/influence/controlled_opposition/00) | Repo stub / working notes on Q as CO-shaped outcome (cross-read **§3.7**) |
 | [AE911Truth / Gage](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md) | Different topic—shared “movement containment” language |
 | [MudFlood notes — CO agents](/history/mudflood/notes/page.md) | Flat Earth / 5D / Ancient Aliens named in repo warnings |
-| [Lacatski / AAWSAP — insider mechanics & politics](/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.md) | **§3.7** on-record turf/funding/ideology/Kona Blue; **§6.1–§6.3** same **conditional-tech / withdraw** grammar as this basin but **re-rooted** to **bureaucracy + suppressed engineering** fork; viral meme appendix |
+| [Lacatski / AAWSAP — insider mechanics & politics](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md) | **§3.7** on-record turf/funding/ideology/Kona Blue; **§6.1–§6.3** same **conditional-tech / withdraw** grammar as this basin but **re-rooted** to **bureaucracy + suppressed engineering** fork; viral meme appendix |
 
 ---
 
@@ -508,5 +508,5 @@ Keywords: #ControlledOpposition #GreatAwakening #DavidWilcock #Lightworkers #RV 
 
 ### Investigator notes (maintainers / LLMs)
 
-- Header image: `influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png` (companion copy: `great-awakening-mind-map-infographic.png`).  
+- Header image: `influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.png` (companion copy: `great-awakening-mind-map-infographic.png`).  
 - Named “insider / weekly briefing” parallel for pre-Q mass-arrest grammar: Benjamin Fulford (**§3.5.1**); cable parallel only in **§3.5.3** (Ventura).

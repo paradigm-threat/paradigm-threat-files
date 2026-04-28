@@ -4,7 +4,7 @@
 
 ![Mars Exploration 1984 — RV investigation composite (same release, alternate layout)](cia-reading-room-mars-exploration-1984-rv-investigation.png)
 
-> **TL;DR:** Pop “debunk” packages (AIR closure narrative, late-night **nothing-to-see-here** glosses, **it was just deep-time protocol**) ask for **faith** that an agency with the CIA’s **record** would leave this transcript in the Reading Room **without** pull, **quarantine**, or **file-specific intent** documentation. **None of that has been produced.** We **lack** an **A-tier** FOIA **case + decision memo** naming **who** ordered **`CIA-RDP96-00788R001900760001-9`** public and **why** (**§5.7**); **that absence is suspicious**; pending a **positive** paper trail, release is modeled as **Revelation of the Method** (see **Conclusion** §4, [Mud flood — RoM](/history/mudflood/page.md)). This file **treats** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) as **evidence of a current Martian civilization alive in 1984**; **~1 Ma** on the card = **misdirection**; RV = **real-time imagery** + **real-time memory** (non-linear vs naive clocks). **Iran / revival / Super Cockpit “two-way”** rhymes live in the **sibling investigation:** [CIA Reading Room — RV two-way, Iran / religious revival](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md). On this **Mars** anchor, **SUB** reports the **viewed party** may treat **SUB** as a **hallucination** (**§5.3**) — **target-side stance** language compatible with **two-way** epistemics.
+> **TL;DR:** Pop “debunk” packages (AIR closure narrative, late-night **nothing-to-see-here** glosses, **it was just deep-time protocol**) ask for **faith** that an agency with the CIA’s **record** would leave this transcript in the Reading Room **without** pull, **quarantine**, or **file-specific intent** documentation. **None of that has been produced.** We **lack** an **A-tier** FOIA **case + decision memo** naming **who** ordered **`CIA-RDP96-00788R001900760001-9`** public and **why** (**§5.7**); **that absence is suspicious**; pending a **positive** paper trail, release is modeled as **Revelation of the Method** (see **Conclusion** §4, [Mud flood — RoM](/history/mudflood/page.md)). This file **treats** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) as **evidence of a current Martian civilization alive in 1984**; **~1 Ma** on the card = **misdirection**; RV = **real-time imagery** + **real-time memory** (non-linear vs naive clocks). **Iran / revival / Super Cockpit “two-way”** rhymes live in the **sibling investigation:** [CIA Reading Room — RV two-way, Iran / religious revival](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md). On this **Mars** anchor, **SUB** reports the **viewed party** may treat **SUB** as a **hallucination** (**§5.3**) — **target-side stance** language compatible with **two-way** epistemics.
 
 **Date:** 2026-04-28 — split from Iran/two-way file (2026-04-26).  
 **Status:** Closed — **author conclusion** on **`CIA-RDP96-00788R001900760001-9`**.
@@ -19,7 +19,7 @@
 2. **Scope + anchors** → §1–§2  
 3. **Reading Room / CREST** → §3  
 4. **AIR (institutional closure vs this read)** → §4  
-5. **Mars PDF** → §5 (`5.1` … `5.8`)  
+5. **Mars PDF** → §5 (`5.1` … `5.8`; **§5.3.1** horizon / optics conjecture under **§5.3**)  
 6. **Open questions** → §6  
 7. **References** → §7  
 8. **Limits**  
@@ -43,7 +43,7 @@
 
 **Archive-audit bar:** Only a **complete** CIA archive — **no** missing volumes, **no** illegible redactions, **no** “reprocessed” shell games — could **morally** clear the agency for strangers who live with its **documented** harms. **Until then**, readers who rely on **what was actually released** get to **infer**, speculate, and **weight** the Mars file as **positive evidence** of what it **appears** to describe.
 
-**Sibling thread:** [RV two-way, Iran revival, Super Cockpit](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md) — uses this PDF as **phenomenology substrate** for Earth-side **revival / affect / cockpit** rhymes.
+**Sibling thread:** [RV two-way, Iran revival, Super Cockpit](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md) — uses this PDF as **phenomenology substrate** for Earth-side **revival / affect / cockpit** rhymes.
 
 ---
 
@@ -52,12 +52,12 @@
 **In scope**
 
 - Declassified **CIA FOIA Electronic Reading Room** (`cia.gov/readingroom`): scale, **AIR / Star Gate** evaluation (as **contested closure narrative**, not as oracle), disclosure gaps.  
-- **Primary anchor:** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) — **author conclusion** above; session digest **§5.3**; companion [**full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md); **plain transcript:** [**`.txt`**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt).  
+- **Primary anchor:** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) — **author conclusion** above; session digest **§5.3**; companion [**full writeup**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md); **plain transcript:** [**`.txt`**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-transcript.txt).  
 - **Predictive-programming adjunct:** *Chrono Trigger* (**§5.8**) — **fiction-before-declass** timing + thematic **rhyme**; **not** A-tier proof of writer access to this RDP.
 
 **Out of scope (here)**
 
-- **Iran / Islamic revival / Super Cockpit two-way** hypothesis map — **[sibling file](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md)**.  
+- **Iran / Islamic revival / Super Cockpit two-way** hypothesis map — **[sibling file](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md)**.  
 - Peer-reviewed **planetary geology** or NASA **instrument validation** of SUB’s lines (see **Limits**).
 
 **Evidence tiers**
@@ -73,21 +73,21 @@
 | Anchor | Why it matters here |
 |--------|---------------------|
 | [Mars–Earth reincarnation investigation §2](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | **CIA Stargate — Mars Exploration** (22 May 1984); official PDF; **author Mars verdict** (current civ + misdirection). |
-| [Lacatski / consciousness / craft](/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.md) | Same Mars RV PDF as **institutional Mars + consciousness** vs AAWSAP claims. |
-| [Mars Exploration 1984 — PDF full writeup](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) | **`CIA-RDP96-00788R001900760001-9`**: acquisition + **MON/SUB** by segment. |
-| [Plain transcript (.txt)](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt) | **`pdftotext`** extract; checksum against [**A-tier PDF**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf). |
+| [Lacatski / consciousness / craft](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md) | Same Mars RV PDF as **institutional Mars + consciousness** vs AAWSAP claims. |
+| [Mars Exploration 1984 — PDF full writeup](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) | **`CIA-RDP96-00788R001900760001-9`**: acquisition + **MON/SUB** by segment. |
+| [Plain transcript (.txt)](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-transcript.txt) | **`pdftotext`** extract; checksum against [**A-tier PDF**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf). |
 | [Cosmos — Mars hub](/cosmos/mars/page.md) | Motif layer; **not** a substitute for this file’s verdict. |
-| [RV two-way / Iran / Super Cockpit](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md) | **Sibling** — revival + two-way + cockpit **rhyme** off this anchor. |
+| [RV two-way / Iran / Super Cockpit](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md) | **Sibling** — revival + two-way + cockpit **rhyme** off this anchor. |
 | [Remote viewing / æther (stub)](/science/telepathy/remote_viewing/aether-consciousness.md) | Stargate-era RV framing hooks. |
 | [Predictive programming hub](/influence/predictive_programming/page.md) · [RV in fiction index](/science/telepathy/remote_viewing/index-remote-viewing-fiction.md) | PP as **data**; time/distance scrying cluster rhymes **§5.8**. |
 | [Mars–Earth reincarnation §4](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | Cultural markers / PP vs disclosure correlation checklist (adds **1984 RV** and media dates). |
 | [Yasunori Mitsuda / Chrono franchise notes](/influence/stolen_credit/yasunori-mitsuda.md) | **Different** thesis (credits / corporate arc); listed so **§5.8** is not mistaken for that file’s verdict. |
 
-**Also read:** [Great Awakening / RV cluster](/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [CIA institution file](/governance/war/investigations/cia-investigation.md)
+**Also read:** [Great Awakening / RV cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [CIA institution file](/governance/war/investigations/cia-investigation.md)
 
 **Known PDFs:** save **`/readingroom/docs/…`** or **document/** URLs in a normal browser session; broad topic search is **noisy** next to famous releases.
 
-**Companion digest figure** (same directory as [**PDF full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md)):
+**Companion digest figure** (same directory as [**PDF full writeup**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md)):
 
 ![Mars Exploration 1984 — PDF digest companion figure](cia-reading-room-mars-exploration-1984-pdf-full-writeup.png)
 
@@ -114,7 +114,7 @@ No single folder or keyword crawl equals “everything CIA posted.”
 
 ## 5. Mars PDF — `CIA-RDP96-00788R001900760001-9`
 
-**A-tier:** [*MARS EXPLORATION, May 22, 1984* (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [document landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9). **C-tier** (checksum vs A): [Giza Death Star essay](https://gizadeathstar.com/2019/11/the-cia-remote-viewed-mars-in-1984/); [Black Vault mirror PDF](https://documents2.theblackvault.com/documents/cia/CIA-RDP96-00788R001900760001-9.pdf); [THOLONIA HTML](https://tholonia.github.io/material/material_MARS_EXPLORATION_MAY_22_1984.html). Broad search returns **many unrelated** PDFs — use **direct** URLs. **In-repo digest:** **§5.1–§5.7**; companion [**full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
+**A-tier:** [*MARS EXPLORATION, May 22, 1984* (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [document landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9). **C-tier** (checksum vs A): [Giza Death Star essay](https://gizadeathstar.com/2019/11/the-cia-remote-viewed-mars-in-1984/); [Black Vault mirror PDF](https://documents2.theblackvault.com/documents/cia/CIA-RDP96-00788R001900760001-9.pdf); [THOLONIA HTML](https://tholonia.github.io/material/material_MARS_EXPLORATION_MAY_22_1984.html). Broad search returns **many unrelated** PDFs — use **direct** URLs. **In-repo digest:** **§5.1–§5.7**; companion [**full writeup**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
 
 ### 5.1 Primary identification: author slide and official *Mars Exploration* PDF
 
@@ -134,15 +134,25 @@ Machine-assisted work under **`~/dev/wget/cia`** (see **Investigator notes**, en
 
 ### 5.3 Session summary (*MARS EXPLORATION*, 22 May 1984)
 
-Declassified **MON/SUB remote-viewing transcript** plus a one-page **site-acquisition** description. **Protocol (written):** **sealed envelope** (opened only **after** the session) contained a **3×5 card** naming **Mars**, **~1 million years B.P.**, and coordinates from the requesters; **MON** verbally gives **40.89° N, 9.55° W** to **SUB** at **10:09 AM** (22 May 1984), then drives the session by issuing **many further lat/long pairs** while holding time fixed on the card. **SUB** reports a **pyramid** in a **depression** (**okra**-colored), a **severe dust / geologic storm**, then **pre-catastrophe** **megalithic** walls; **tall thin** humanoids (shadow → solid) in **fitted** garments; a **carved canyon** with **huge interior** spaces; **obelisk**-like marker; **vast basin**; **reflecting square** pads; **deep cut channels** / **aqueduct** imagery; **pyramids** again (with **overlay** confusion); **storm shelters**; **stripped chambers** and **hibernation**-like waiting; inhabitants **ancient**, **philosophical**, environment **corrupting**; a **party** sent far to find a **new home**; **cosmic-scale** disturbance imagery; when asked how the others **left** — **inside a larger boat**, **rounded walls**, **shiny metal**; destination sketched as **volcanoes**, **gas pockets**, **strange plants**, **volatile**, **“frying pan into the fire”**, **more vegetation** and **different storms**. **MON** **recalls** **SUB** to the room on **22 May 1984**; **END OF INTERVIEW**. **Note:** lines documented as **monitor comments** in the PDF (parenthetical text followed by an asterisk in the original) were **not heard by the subject**. **Section-by-section** breakdown, coordinate table, and citation notes: [**Mars Exploration 1984 — PDF full writeup**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
+Declassified **MON/SUB remote-viewing transcript** plus a one-page **site-acquisition** description. **Protocol (written):** **sealed envelope** (opened only **after** the session) contained a **3×5 card** naming **Mars**, **~1 million years B.P.**, and coordinates from the requesters; **MON** verbally gives **40.89° N, 9.55° W** to **SUB** at **10:09 AM** (22 May 1984), then drives the session by issuing **many further lat/long pairs** while holding time fixed on the card. **SUB** reports a **pyramid** in a **depression** (**okra**-colored), a **severe dust / geologic storm**, then **pre-catastrophe** **megalithic** walls; **tall thin** humanoids (shadow → solid) in **fitted** garments; a **carved canyon** with **huge interior** spaces; **obelisk**-like marker; **vast basin**; **reflecting square** pads; **deep cut channels** / **aqueduct** imagery; **pyramids** again (with **overlay** confusion); **storm shelters**; **stripped chambers** and **hibernation**-like waiting; inhabitants **ancient**, **philosophical**, environment **corrupting**; a **party** sent far to find a **new home**; **cosmic-scale** disturbance imagery; when asked how the others **left** — **inside a larger boat**, **rounded walls**, **shiny metal**; destination sketched as **volcanoes**, **gas pockets**, **strange plants**, **volatile**, **“frying pan into the fire”**, **more vegetation** and **different storms**. **MON** **recalls** **SUB** to the room on **22 May 1984**; **END OF INTERVIEW**. **Note:** lines documented as **monitor comments** in the PDF (parenthetical text followed by an asterisk in the original) were **not heard by the subject**. **Section-by-section** breakdown, coordinate table, and citation notes: [**Mars Exploration 1984 — PDF full writeup**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
 
-**Two-way epistemics (same A-tier session):** Immediately before the **“larger boat”** / evacuation block, **MON** has **SUB** put a **meta-contact** question to the **viewed party** — identity of **SUB** and whether **SUB** can **help**. **SUB** then reports (plain text per [**`.txt` transcript**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt); wording matches the **CIA PDF** scan):
+**Two-way epistemics (same A-tier session):** Immediately before the **“larger boat”** / evacuation block, **MON** has **SUB** put a **meta-contact** question to the **viewed party** — identity of **SUB** and whether **SUB** can **help**. **SUB** then reports (plain text per [**`.txt` transcript**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-transcript.txt); wording matches the **CIA PDF** scan):
 
 > All I get is that they must just wait. Doesn't know who I am. Think he perceives I'm a hallucination or something.
 
-**Author read:** This is **not** a laboratory proof of **telepathy** or **action at a distance**; it **is** **in-protocol first-person language** where **SUB** attributes to the **Martian-side agent** a **stance toward the viewer**: **non-recognition** (“doesn’t know who I am”) plus **dismissal of the contact channel as non-real** (**hallucination**). That is **target-side modeling of the remote viewer** — the **same contact surface** that **[two-way / mutual-influence hypotheses](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md)** stress (perceiver ↔ target), even when **no stable dialogue** is achieved. Compare digest [**§5.12**](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) (“**epistemic break**”).
+**Author read:** This is **not** a laboratory proof of **telepathy** or **action at a distance**; it **is** **in-protocol first-person language** where **SUB** attributes to the **Martian-side agent** a **stance toward the viewer**: **non-recognition** (“doesn’t know who I am”) plus **dismissal of the contact channel as non-real** (**hallucination**). That is **target-side modeling of the remote viewer** — the **same contact surface** that **[two-way / mutual-influence hypotheses](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md)** stress (perceiver ↔ target), even when **no stable dialogue** is achieved. Compare digest [**§5.12**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) (“**epistemic break**”).
 
 **Program-level echo (STARGATE-era RV theory, separate RDP):** Declassified program prose describes the **channel** as possibly mixing **remote-site** perception with **observer-at-target** mental content — e.g. [**CIA-RDP79-00999A000200010036-6.pdf**](https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010036-6.pdf) (local OCR for garbled scan: `~/dev/wget/cia/derived/ocr-text/stargate/CIA-RDP79-00999A000200010036-6.txt`). **Not** the Mars session; cited as **doctrinal neighbor** for why **“SUB as hallucination”** lines are **on-topic** in **CIA RV** text, not stray poetry.
+
+#### 5.3.1 Conjecture — “scale is off,” huge horizon, and **weird sun** as **atmospheric optics** (“fishbowl” / refraction family)
+
+**Transcript hooks (same session; plain [**`.txt`**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-transcript.txt)):** **SUB** twice signals **scale anomaly** in **wide-open** views — a **huge** circular basin where **“scale seems to be off or something it's just really big, everything's big”** (MON acknowledges **“I understand the problem”**), and later **pointed tops on the horizon** where **“even the horizon looks funny and weird … misty … really far away … very vague.”** At another coordinate he notes the **sun** as **“weird”** while describing an oblique view of bright square reflectors.
+
+**Author conjecture (optics fork — does not replace the civil read):** Part of what **SUB** reports as **absurdly large** **megalithic** massing, **distant** **horizon** **wrongness**, and **odd solar** appearance may be **phenomenology of propagation through a dusty, layered, low-pressure column** — the same **family** of effects Earth observers know as **mirage**, **looming**, **flattened or stretched solar disk**, and **inferior / superior** **image** **stacking** near the horizon (often summarized in colloquial talk as a **“fishbowl”** feeling: the sky–ground interface **bends** what you think is straight). **Earth** already does this **to a real degree** (polar, desert, and marine horizons are famous for it); **this investigation conjectures** that on **Mars**, **combinations** of **thin bulk air**, **steep thermal gradients** near **regolith**, **high dust** **optical depth** during and after **storm** conditions (**§5.3** opening), and **long sight-lines** can make the **effect more subjectively pronounced** than temperate-Earth defaults — **magnifying** or **shearing** **distant** **silhouettes** so **buildings** and **terrain** **read oversized**, and the **sun** **read as a brilliant, extended, or unfamiliar spectacle** stretched along the **mirage layer**.
+
+**Why log it here:** Debunk scripts that stop at **“SUB was bad at scale”** ignore that **a real site** with **hostile optics** would **produce exactly this class of verbal report** alongside **real** **architecture**. Under **this file’s** **Conclusion**, **Martian civilization + memory channel** stays the **default interpretive load**; **§5.3.1** is a **partial de-confounder** — **overlap**, not **cancellation**.
+
+**Limits:** No ray-tracing or **in-situ** **1984** **met** bundle is in hand; this is **not** a substitute for **planetary-atmosphere science** review. If **SUB** is channeling **embodied** **perception**, optics at the **target** still matter; if the channel is **mixed**, optics may **fold** with **RV** **artefacts** in ways this desk does not resolve.
 
 ### 5.4 Tasking-card “~1 million years B.C.” — **misdirection** (author verdict); administrative fork (unresolved without custody)
 
@@ -167,9 +177,9 @@ Under that read, the **coordinate walk** is **sampling the same wound at differe
 | **Fallback biome** | **Volcanism**, **gas**, **novel** stressed flora — “**frying pan into the fire**” | **Volcanos**, **gas pockets**, **strange plants**, **volatile**, **different storm** after the **boat** transition — [spore / cylinders file](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md) |
 | **Metal hull transition** | Mass off-surface or **subsurface** movement (hypothesis) | **Inside a larger boat**, **rounded walls**, **shiny metal** — **pressure hull** phenomenology |
 
-**Cross-index:** MFEE-scale **collapse + evacuation** on Mars is the **material substrate** for the **same century** where the **sibling** [Iran / two-way investigation](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md) tests **religious-revival** and **two-way** phenomenology on Earth — **shared disaster grammar**, not **identity** of mechanisms.
+**Cross-index:** MFEE-scale **collapse + evacuation** on Mars is the **material substrate** for the **same century** where the **sibling** [Iran / two-way investigation](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md) tests **religious-revival** and **two-way** phenomenology on Earth — **shared disaster grammar**, not **identity** of mechanisms.
 
-**Plain-text for grep / LLM chunking:** [`.txt` transcript](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt). **Timeline cross-index:** [MudFlood & World Cataclysm](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm) (paradigm-threat-timeline) cites this anchor.
+**Plain-text for grep / LLM chunking:** [`.txt` transcript](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-transcript.txt). **Timeline cross-index:** [MudFlood & World Cataclysm](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm) (paradigm-threat-timeline) cites this anchor.
 
 ### 5.6 Dismissal literature (catalogued — **not** adopted as epistemic default)
 
@@ -235,20 +245,21 @@ So the commercial fiction landed **roughly a decade after** the RV session and *
 2. **Custody + intent brief:** any **primary** that **simultaneously** (a) **imaged physical 3×5** tasking card, (b) **custody log**, and (c) **signed administrative statement** of **benign release intent** or **disinfo drill labeling** for this exact PDF — **absent = default stands** (**Conclusion**).  
 3. **FOIA case / release decision for this RDP:** Reading Room **metadata** or **FOIA logs** naming **case number** and **reviewer decision** tied **uniquely** to **`CIA-RDP96-00788R001900760001-9`**.  
 4. **Corpus grep (STARGATE / RV):** mine declassified **MON/SUB** (and related) transcripts for **target-models-viewer** diction — e.g. **hallucination**, **doesn’t know who I am**, **aware of me**, **dismissed** / **ignored** the viewer — and log **RDP** IDs beside this anchor’s **§5.3** meta-line.  
-5. **PP / fiction survey:** extend [Mars–Earth reincarnation §4 checklist](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) with **1995** *Chrono Trigger* and other **dome / machine-food / alien harvester** games — **correlation only**, no causal claim without receipts.
+5. **PP / fiction survey:** extend [Mars–Earth reincarnation §4 checklist](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) with **1995** *Chrono Trigger* and other **dome / machine-food / alien harvester** games — **correlation only**, no causal claim without receipts.  
+6. **Horizon optics:** compare **§5.3.1** language to **Mars** **atmospheric refraction / mirage** literature and **dust-storm** visibility models (peer or engineering); note whether **SUB’s** phrasing clusters **predictably** with **wide-basin** vs **interior** coordinates in the [**full writeup**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
 
 ---
 
 ## 7. References (starting set)
 
-- **Anchor:** [*MARS EXPLORATION, May 22, 1984*](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9) · [full writeup](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) · [plain transcript (.txt)](/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt)  
+- **Anchor:** [*MARS EXPLORATION, May 22, 1984*](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) · [landing](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9) · [full writeup](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) · [plain transcript (.txt)](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-transcript.txt)  
 - STARGATE collection: `https://www.cia.gov/readingroom/collection/stargate`  
 - AIR evaluation: `https://www.cia.gov/readingroom/docs/cia-rdp96-00791r000200180005-5.pdf`  
 - **Dismissal literature (§5.6):** [Slate (2017)](https://slate.com/technology/2017/03/did-the-cia-really-astrally-project-to-mars-in-1984.html) · [Boing Boing (2018)](https://boingboing.net/2018/01/03/transcript-of-the-armys-atte.html) · [Wikipedia — Remote viewing](https://en.wikipedia.org/wiki/Remote_viewing)  
 - **Declass / mandate (§5.7):** [FY 1995 CONGRESSIONAL BUDGET - STAR GATE](https://www.cia.gov/readingroom/document/cia-rdp96-00791r000300010003-2) · [Senate Appropriations — directed action (PDF)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002900010001-9.pdf) · [Black Vault — Mars Exploration page](https://www.theblackvault.com/documentarchive/stargate-collection-mars-exploration-may-22-1984/) (**C**)  
 - **RV channel theory (observer-at-site language, §5.3):** [CIA-RDP79-00999A000200010036-6.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010036-6.pdf)  
 - CREST: `https://www.cia.gov/stories/story/cia-posts-more-than-12-million-pages-of-crest-records-online/`  
-- **Sibling:** [RV two-way, Iran revival, Super Cockpit](/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.md)  
+- **Sibling:** [RV two-way, Iran revival, Super Cockpit](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md)  
 - **§5.8 (*Chrono Trigger* / PP):** [Wikipedia — *Chrono Trigger*](https://en.wikipedia.org/wiki/Chrono_Trigger) · [Square Enix — ABOUT THIS GAME](https://www.jp.square-enix.com/chronotrigger/en/about.html) · [Chrono Wiki — 2300 AD](https://www.chronowiki.org/wiki/2300_AD) · [Chrono Wiki — Enertron](https://www.chronowiki.org/wiki/Enertron) · [Fandom — Enertron](https://chrono.fandom.com/wiki/Enertron)  
 - **PP hub + peers:** [Predictive programming](/influence/predictive_programming/page.md) · [Mars fiction encoding (site)](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/)
 
@@ -272,14 +283,8 @@ Keywords: #CIAReadingRoom #Mars #RemoteViewing #Stargate #MarsRV #MARSExploratio
 
 **Companion writeup** = **page layout + quotes**; **this file** = **author verdict** on **meaning**.
 
+**§5.3.1 (horizon / sun “fishbowl” optics):** **Conjecture** only — not **validated** **Martian** **seeing** physics in this repo.
+
 **Release / FOIA posture:** **§5.7** + **Conclusion §4**.
 
 ---
-
-## Investigator notes (maintainers / LLMs)
-
-- **Church-room footage (2026-04-26):** author still seeks **1970s–80s closed-circuit–style** church interior video — **not recovered**; does **not** retract **Mars Conclusion**.  
-- **Local mirror + OCR + Playwright + indexer:** **`~/dev/wget/cia/cia-reading-room-local-mirror-and-ocr-operations.md`**. Tree: **`~/dev/wget/cia/INDEX.md`**.  
-- **Regenerate plain transcript** (after swapping local PDF):  
-  `pdftotext -f 3 -l 10 "/path/to/CIA-RDP96-00788R001900760001-9.pdf" -`  
-  then re-apply the **ASCII header** in **`cia-reading-room-mars-exploration-1984-transcript.txt`** (pages 1–2 skip = Black Vault–only front matter in typical mirror builds). **Post-process:** **`•` → `.`**; **`·` → `-`** in `CIA·RDP96…` banners; **reflow** MON/SUB paragraphs; **hand-fix** PDF reorder issues per companion writeup encoding note.
