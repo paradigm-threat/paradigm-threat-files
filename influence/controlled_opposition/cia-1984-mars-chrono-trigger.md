@@ -72,6 +72,18 @@ The healthier response is not instant belief. It is **proportion**: reserve **in
 
 ---
 
+## Disclosure posture (author conjecture)
+
+Among the many threads this repo has pulled, the Mars transcript stands out as an unusually **clean overlap** with the investigation stack: **institutional RV**, **two-way-adjacent** language, **fiction-before-declass** timing when you set **1995** next to the scan’s visible **2000** release banner, and the wider question of **who controls the public frame** around anomalous material.
+
+The detail that still lands hardest is almost banal: the **file remains on cia.gov**. A skeptical mind can always imagine **forgery** or **staged release**; the counterweight is the document’s **procedural texture**—the boring parts are hard to fake without inventing an entire parallel bureaucracy. So far, **no second document** has shown up in the same **genre** with the same **weight**; treat that as a **search result**, not as proof of uniqueness for all time.
+
+A speculative historical read—again, **conjecture**—is that material like this **behaves as if something internal resisted total burial**: the “**good actor**” or **antibody** stratum inside large institutions may have understood a **Mars-class problem** (or its family of problems) **long before** the social web existed, may have fought for **partial daylight**, and may have lost the **headline war** once consolidated media had every incentive to **flatten or ridicule** the same motifs. If even a **sliver** of that story is true, the Reading Room entry is a **small** win: not enough to force consensus, but enough to leave **breadcrumbs** on the record.
+
+The catastrophic failure mode is not that independent readers entertain strange hypotheses. It is a future where **primary traces disappear** and **narrative monopoly** wins completely. **As of today**, enough **clues** remain that a **motivated researcher** can still **assemble the puzzle** without a gatekeeper’s permission. **That survivability of evidence**—not instant belief—is a large part of **why this file matters**.
+
+---
+
 ## Read next
 
 - [**Mars Exploration 1984 — RV investigation**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) — verdict, MFEE table, optics conjecture (§5.3.1), PP §5.8 (*Chrono Trigger*), FOIA posture.  
