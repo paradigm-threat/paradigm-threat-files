@@ -1,14 +1,18 @@
-# When the briefing was a game: the 1984 Mars session, *Chrono Trigger*, and a file you can still download
+# Was Chrono Trigger’s plot based on a 1984 CIA Mars RV session?
 
-![Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)](investigations/cia-reading-room-mars-exploration-1984-journey.png)
+When the briefing was a game: the 1984 Mars session, *Chrono Trigger*, and a file you can still download
 
-![*Chrono Trigger* / Mars RV — predictive-programming composite (author)](investigations/cia-reading-room-chrono-trigger-pp.png)
+![CIA 1984 Mars × *Chrono Trigger* — article hero figure](cia-1984-mars-chrono-trigger.png)
 
 **Updated:** 2026-04-27
 
 There is a kind of quiet outrage that arrives when two unrelated cultural lanes—**a government PDF** and **a JRPG**—say the same thing about **despair**, **domes**, and **a world stripped of ordinary hope**, yet only one lane is allowed to be “real.” This article is not a proof that Square’s writers saw a STARGATE folder. It *is* an invitation to read the convergence with steady eyes: **fiction that familiarized the pattern years before the transcript sat on cia.gov** is not automatically coincidence, and treating it as data does not require believing every clause of every hypothesis downstream.
 
 ---
+
+![Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)](investigations/cia-reading-room-mars-exploration-1984-journey.png)
+
+![*Chrono Trigger* / Mars RV — predictive-programming composite (author)](investigations/cia-reading-room-chrono-trigger-pp.png)
 
 ## The document
 
