@@ -17,7 +17,7 @@ Files under **`blog/`** still follow **`docs/BLOG.md`**: use **fully absolute** 
 
 ## Reader-facing articles (this repo)
 
-For **essay-style** Markdown in *paradigm-threat-files* (parent-folder pages that point into `investigations/` dossiers): voice, opening hook, lay citations, and discovery workflow — see **`docs/instructions/ARTICLES.md`**.
+For **essay-style** Markdown in *paradigm-threat-files* (parent-folder pages that point into `investigations/` dossiers): **first-person (*I*)** voice, **clinical-but-inspired** register, opening hook, lay citations, **bold** only for **emphasis** or **new terminology** (see ARTICLES), **heavy caveats in the dossier**, attribution footer, and discovery workflow — see **`docs/instructions/ARTICLES.md`**.
 
 ## Timeline cross-links
 
