@@ -49,6 +49,19 @@ If a claim needs **five citations** or a **multi-row table**, it belongs in the 
 
 ---
 
+## Length (Substack / email)
+
+**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (message size, not raw Markdown in this repo). You can still publish; readers may need **“View entire message.”** Source: [Substack Support — *Why does it say “Post too long” in the post editor?*](https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).
+
+**Paradigm Threat drafting targets (Markdown in-repo):**
+
+- **Default target for new flagship reader essays:** about **2,000–3,200 words** of body (tables and link lines count toward reading time). Shorter is fine when the argument is already complete.
+- **Reference implementation:** [`history/chronology/indigenous-creation-legends-and-geology.md`](../../history/chronology/indigenous-creation-legends-and-geology.md) (order of magnitude **~3k words** with sections + one comparison table)—use it as the **shape** for “Substack-ready depth” without pasting the whole dossier.
+- **Soft ceiling:** treat **~3,500 words** of prose in a **single** article as the **repo drafting stop** unless Ari explicitly splits across **Part II** or accepts email-clipping risk after a **send test** in Substack (images, embeds, and HTML bloat push toward the **102KB** clip faster than word count alone).
+- **If the piece must grow:** **push** tables, quote banks, and five-citation blocks into **`investigations/`**; add a **Part II** post for a second email rather than one mega-file.
+
+---
+
 ## Phrasing we are tired of (LLM tells)
 
 - **The “not A, it is B” teaching beat** — repeated contrasts of the form “**This is not** *chemistry / myth / debunk / a verdict*… **it is** *relationship / science / …*” work once; across many articles they read as the **same** canned cadence. **Rotate constructions**: lead with the **positive** claim; use **“Rather,”** **“Another name for that pressure:”** **“What I mean is simpler:”** a **question**, or a **concrete image**—anything that **breaks** the identical **not-this / but-that** rhythm.
@@ -84,4 +97,4 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 
 ---
 
-**Last updated:** 2026-04-30
+**Last updated:** 2026-04-29

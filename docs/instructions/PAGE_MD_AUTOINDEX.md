@@ -32,5 +32,5 @@ On article pages, the site shell can also show a **folder index** (same `AutoInd
 
 - `docs/LINKING_AND_SITE_PATHS.md` — repo path = URL path
 - `docs/BLOG.md` — blog listing and `_updated` behavior
-- `docs/instructions/ARTICLES.md` — **reader-facing article** voice (**I** sparingly, hook, lay citations, **clinical-but-inspired** stakes, **bold** = emphasis or new terms only, **disclaimers mostly in dossier**, attribution footer, article vs dossier)
+- `docs/instructions/ARTICLES.md` — **reader-facing article** voice (**I** sparingly, hook, lay citations, **clinical-but-inspired** stakes, **bold** = emphasis or new terms only, **Substack / email length** targets + **Gmail 102KB** cite, **disclaimers mostly in dossier**, attribution footer, article vs dossier)
 - `docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md` — investigations + **New article or hub — discovery checklist** (site root `page.md` **Investigation Categories**, topic hubs, `index-investigations.md`, cross-links, `npm run autogen`)

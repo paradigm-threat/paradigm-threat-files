@@ -1,8 +1,53 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-29T14:48:55.585Z",
+    "date": "2026-04-29T14:58:55.228Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "M",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      },
+      {
+        "status": "M",
+        "path": "docs/instructions/PAGE_MD_AUTOINDEX.md",
+        "href": "/docs/instructions/PAGE_MD_AUTOINDEX"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/indigenous-creation-legends-and-geology.md",
+        "href": "/history/chronology/indigenous-creation-legends-and-geology"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/indigenous-creation-legends-and-geology.png",
+        "href": "/history/chronology/indigenous-creation-legends-and-geology.png"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/indigenous-creation-legends-and-geology2.png",
+        "href": "/history/chronology/indigenous-creation-legends-and-geology2.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/indigenous-creation-legends-and-geology.png"
+      },
+      {
+        "src": "/history/chronology/indigenous-creation-legends-and-geology2.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-28T16:17:35.000Z",
+    "message": "Docs: ARTICLES.md voice, bold, attribution; de-bold indigenous essay",
     "files": [
       {
         "status": "M",
@@ -1504,32 +1549,6 @@
       {
         "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
         "alt": "Mars Exploration 1984 — PDF digest companion figure"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T12:02:51.000Z",
-    "message": "Mars×CT article: reorder figures—PP after intro, journey before document.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
-        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
-        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
-        "alt": "*Chrono Trigger* / Mars RV — predictive-programming composite (author)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)"
       }
     ]
   }
