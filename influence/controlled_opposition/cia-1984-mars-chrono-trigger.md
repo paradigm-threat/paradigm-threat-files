@@ -14,7 +14,7 @@ The transcript itself is the stranger object: it reads like **internal worksheet
 
 ---
 
-![Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)](investigations/cia-reading-room-mars-exploration-1984-journey.png)
+![*Chrono Trigger* / Mars RV — predictive-programming composite (author)](investigations/cia-reading-room-chrono-trigger-pp.png)
 
 ---
 
@@ -34,8 +34,6 @@ Timing sharpens the eyebrow-raise: the RV session is **1984**; the SNES game shi
 
 ---
 
-![*Chrono Trigger* / Mars RV — predictive-programming composite (author)](investigations/cia-reading-room-chrono-trigger-pp.png)
-
 ## Other science fiction, same pressure-release valve
 
 Mars-as-wounded-world is not proprietary to one game. The repo’s [Mars fiction encoding index](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/) collects how **novels and pulps** trained readers long before STARGATE. The point is not “every author had a clearance.” The point is **convergence**: when **many independent channels** sculpt **compatible nightmares**, the public arrives **pre-mapped**—so when a primary document appears, **laughter and dismissal are cheaper than thought**.
@@ -49,6 +47,8 @@ The Mars dossier maps transcript beats onto [**MFEE** (MudFlood Energetic Event)
 Treat that as **cross-domain illustration**, not a lab result: the [Mars investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) **MFEE mapping table** is where the mapping is argued in detail.
 
 ---
+
+![Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)](investigations/cia-reading-room-mars-exploration-1984-journey.png)
 
 ## The document
 
