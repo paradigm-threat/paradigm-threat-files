@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-29T16:11:36.788Z",
+    "date": "2026-04-29T16:23:19.940Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/indigenous-creation-legends-and-geology.md",
+        "href": "/history/chronology/indigenous-creation-legends-and-geology"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/indigenous-creation-legends-and-geology.png",
+        "alt": "How old is your house? — memory, geology, and the long argument (lead figure)"
+      },
+      {
+        "src": "/history/chronology/indigenous-creation-legends-and-geology2.png",
+        "alt": "Companion figure — islands, marks on stone, and the long argument over time"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-28T16:17:35.000Z",
+    "message": "Indigenous geology article: intro analogy — dad built the house, state disputes age",
     "files": [
       {
         "status": "M",
@@ -1527,12 +1549,5 @@
         "alt": "Mars Exploration 1984 — PDF digest companion figure"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T13:54:17.000Z",
-    "message": "changelog: regenerate without pre-commit (staged) stub.",
-    "files": [],
-    "images": []
   }
 ]
