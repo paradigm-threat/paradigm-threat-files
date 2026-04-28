@@ -1,6 +1,52 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "date": "2026-04-28T13:59:01.271Z",
+    "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
+        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
+        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
+        "alt": "*Chrono Trigger* / Mars RV — predictive-programming composite (author)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
+        "alt": "Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png",
+        "alt": "Mars Exploration 1984 — RV investigation composite (same release, alternate layout)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
+        "alt": "Mars Exploration 1984 — PDF digest companion figure"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-28T13:54:17.000Z",
+    "message": "changelog: regenerate without pre-commit (staged) stub.",
+    "files": [],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
     "date": "2026-04-28T13:53:28.000Z",
     "message": "Mars RV: PP §5.8.1—Minority Report, pre-crime SF, Fringe, AC Animus table + cites; article cluster section.",
     "files": [
@@ -798,40 +844,5 @@
         "alt": "AAWSAP / Lacatski investigation — accompanying figure"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-27T14:38:47.000Z",
-    "message": "Add header image to Trump WHCA assassination investigation; track PNG",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.md",
-        "href": "/governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.png",
-        "href": "/governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-27T14:37:25.000Z",
-    "message": "Trump WHCA investigation: celebrity rhetoric timeline and Palin inversion (§2.1, §8.1)",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.md",
-        "href": "/governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation"
-      }
-    ],
-    "images": []
   }
 ]
