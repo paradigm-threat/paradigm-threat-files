@@ -1,8 +1,39 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-28T11:25:32.778Z",
+    "date": "2026-04-28T11:32:32.396Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "blog/2026-04-27-cia-1984-mars-reading-room-find-restructure-chrono-article.md",
+        "href": "/blog/2026-04-27-cia-1984-mars-reading-room-find-restructure-chrono-article"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
+        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
+        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
+        "alt": "Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
+        "alt": "*Chrono Trigger* / Mars RV — predictive-programming composite (author)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-28T11:25:31.000Z",
+    "message": "Blog: late April 2026 (Mars PDF thesis hit, CO restructure); CT article: disclosure conjecture.",
     "files": [
       {
         "status": "A",
@@ -4240,29 +4271,6 @@
       {
         "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
         "alt": "Mars Exploration 1984 — declassified PDF digest (figure)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-27T14:02:50.000Z",
-    "message": "Mars transcript: fix MON split at page break; comet tail or wording",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
-        "alt": "CIA Reading Room — Mars RV, two-way influence, Iran / religious-revival investigation (header)"
       }
     ]
   }
