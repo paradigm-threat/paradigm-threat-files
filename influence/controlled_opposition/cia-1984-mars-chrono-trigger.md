@@ -10,7 +10,7 @@ When the briefing was a game: the 1984 Mars session, *Chrono Trigger*, and a fil
 
 There is a kind of quiet outrage that arrives when two unrelated cultural lanes—**a government PDF** and **a JRPG**—say the same thing about **despair**, **domes**, and **a world stripped of ordinary hope**, yet only one lane is allowed to be “real.” This article is not a proof that Square’s writers saw a STARGATE folder. It *is* an invitation to read the convergence with steady eyes: **fiction that familiarized the pattern years before the transcript sat on cia.gov** is not automatically coincidence, and treating it as data does not require believing every clause of every hypothesis downstream.
 
-The transcript itself is the stranger object: it reads like **internal worksheet prose**—roles, coordinates, time-of-day stamps—yet it keeps walking into **civilizational** language (shelter, migration, corruption, metal hulls) without a wink. **Article order:** *Chrono Trigger*, wider SF, and a short **MFEE** cross-read come first so the vocabulary is on the table; **The document** then gives **sequence and mood** in order, and **The two-way moment** states the interpretive hinge. Line-level analysis, FOIA chain, the full MFEE table, optics fork, and the expanded *Chrono Trigger* adjunct live in the linked dossiers.
+The transcript itself is the stranger object: it reads like **internal worksheet prose**—roles, coordinates, time-of-day stamps—yet it keeps walking into **civilizational** language (shelter, migration, corruption, metal hulls) without a wink. **Article order:** *Chrono Trigger*, a **remote-viewing / precrime-fiction** cluster (table), wider SF, then a short **MFEE** cross-read; **The document** gives **sequence and mood**; **The two-way moment** states the interpretive hinge. Line-level analysis, FOIA chain, the full MFEE table, optics fork, and the **full PP cluster** (including *Minority Report* and *Assassin’s Creed*) live in the [**Mars investigation**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md).
 
 ---
 
@@ -34,9 +34,29 @@ Timing sharpens the eyebrow-raise: the RV session is **1984**; the SNES game shi
 
 ---
 
+## Remote viewing, pre-crime fiction, and the “viewing session” trope
+
+The Mars file is not the only place **culture** has rehearsed **monitor + subject**, **machine-assisted seeing**, and **state or corporate custody** of **anomalous perception**. The **paradigmatic** pre-crime story is Philip K. Dick’s **“The Minority Report” (1956)**: three **precogs** are **“plugged into a great machine”** so **Precrime** can arrest people **before** acts occur ([Wikipedia — story](https://en.wikipedia.org/wiki/The_Minority_Report)). Spielberg’s ***Minority Report* (2002)** turns that into the **blockbuster** image of **visions** skimmed from a **controlled pool** and fed into **police workflow** ([Wikipedia — film](https://en.wikipedia.org/wiki/Minority_Report_(film)); [technologies / production frame](https://en.wikipedia.org/wiki/Technologies_in_Minority_Report)). **Same furniture as a bad FOIA dream:** the **session** is **official**, the **seers** are **assets**, and the **audience** learns to treat **psychic evidence** as **normal**.
+
+| Work | Viewer / operator | Target | Channel (short) | Cage | Mars worksheet rhyme (hypothesis) |
+|------|-------------------|--------|-----------------|------|-----------------------------------|
+| *The Minority Report* (PKD, 1956) | Precrime state | **Future** crime | Three precogs **in** a **machine** ([story](https://en.wikipedia.org/wiki/The_Minority_Report)) | Pre-crime law | **Institutionalized** **seers**; **disagreement** inside the channel |
+| *Minority Report* (2002) | Detectives + techs | **Pre-murder** visions | Precog pool + UI ([film](https://en.wikipedia.org/wiki/Minority_Report_(film))) | **Pre-crime** arrests | **Viewing room** as **everyday** **intel** hygiene |
+| *Next* (2007) | FBI + precog subject | **Seconds–ahead** futures | Personal foresight ([*Next*](https://en.wikipedia.org/wiki/Next_(2007_film))) | Security coercion | **Assetized** **viewer** with **hidden** limits |
+| *Psycho-Pass* | Inspectors | **Risk** scores | **Sibyl** / hue ([*Psycho-Pass*](https://en.wikipedia.org/wiki/Psycho-Pass)) | **Pre-crime** sorting | **Algorithmic** cousin—trains **guilt-before-act** |
+| *Fringe* | FBI + Bishop lab | **Psi** / **cross-world** | **Cortexiphan** trials ([*Fringe*](https://en.wikipedia.org/wiki/Fringe_(TV_series)); [Cortexiphan](https://fringe.fandom.com/wiki/Cortexiphan)) | Homeland **science** | **Classified** **programs**; **subjects** **lied to** |
+| *Chrono Trigger* (1995) | Party | **Eras** / ruined future | Time travel frame ([*Chrono Trigger*](https://en.wikipedia.org/wiki/Chrono_Trigger)) | JRPG quest | **Time-as-redaction** (section above) |
+| ***Assassin’s Creed*** (2007–) | **Animus** subject; **Abstergo** | **Ancestor** **past** | **Genetic memory** simulation ([series](https://en.wikipedia.org/wiki/Assassin%27s_Creed)) | Corp **intel** front | **Partial** match: **not** telepathic RV of **Mars**, but **same slot**—**machine** access to **contested history**, **operator** goals **≠** subject’s **full picture**, **sync** as **control** |
+
+***Assassin’s Creed*:** Treat it as a **structural** rhyme, **not** a claim that Ubisoft modeled **SUB**. The **Animus** is **genetic-memory** fiction: you **re-walk** **past** loci, often under **Abstergo** cover stories ([Wikipedia — *Assassin’s Creed*](https://en.wikipedia.org/wiki/Assassin%27s_Creed)). That is **different physics** from **telepathic** **real-time** Mars contact—yet it still **trains** the muscle: **strapped-in subject**, **corporate monitor**, **first-person catastrophe tourism**, **hidden purpose** of the **session**. For **19th–20th c. “device scrying”** (palantíri, crystals, etc.), see the repo’s [RV in fiction index](/science/telepathy/remote_viewing/index-remote-viewing-fiction.md).
+
+**Full prose, extra rows, and citations:** [**Mars investigation — §5.8.1**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md).
+
+---
+
 ## Other science fiction, same pressure-release valve
 
-Mars-as-wounded-world is not proprietary to one game. The repo’s [Mars fiction encoding index](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/) collects how **novels and pulps** trained readers long before STARGATE. The point is not “every author had a clearance.” The point is **convergence**: when **many independent channels** sculpt **compatible nightmares**, the public arrives **pre-mapped**—so when a primary document appears, **laughter and dismissal are cheaper than thought**.
+Mars-as-wounded-world is not proprietary to one game or one blockbuster. The repo’s [Mars fiction encoding index](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/) collects how **novels and pulps** trained readers long before STARGATE. The point is **convergence**: **many channels** sculpt **compatible nightmares** so the public arrives **pre-mapped**—and **laughter** stays cheaper than **thought** when a **primary** PDF appears.
 
 ---
 
@@ -100,11 +120,11 @@ The catastrophic failure mode is not that independent readers entertain strange 
 
 ## Read next
 
-- [**Mars Exploration 1984 — RV investigation**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) — verdict, MFEE table, optics fork, *Chrono Trigger* predictive-programming adjunct, FOIA posture.  
+- [**Mars Exploration 1984 — RV investigation**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) — verdict, MFEE table, optics fork, *Chrono Trigger* PP (section 5.8), **RV / precrime / Animus cluster** (5.8.1), FOIA posture.  
 - [**PDF full writeup**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) — segment-by-segment MON/SUB.  
 - [**Iran / two-way investigation**](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md) — Earth-side rhymes.  
 - [**Predictive programming hub**](/influence/predictive_programming/page.md) — method: **data**, not verdict.
 
 ---
 
-Keywords: #Mars #ChronoTrigger #CIAReadingRoom #RemoteViewing #PredictiveProgramming #STARGATE #ParadigmThreatFiles #TwoWayPerception #MFEE #FictionAndDeclass
+Keywords: #Mars #ChronoTrigger #CIAReadingRoom #RemoteViewing #PredictiveProgramming #STARGATE #ParadigmThreatFiles #TwoWayPerception #MFEE #FictionAndDeclass #MinorityReport #Precrime #AssassinsCreed #Animus #Fringe #PsychoPass
