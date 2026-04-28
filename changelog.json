@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-29T14:58:55.228Z",
+    "date": "2026-04-29T16:11:36.788Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/indigenous-creation-legends-and-geology.md",
+        "href": "/history/chronology/indigenous-creation-legends-and-geology"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/indigenous-creation-legends-and-geology.png",
+        "alt": "How old is your house? — memory, geology, and the long argument (lead figure)"
+      },
+      {
+        "src": "/history/chronology/indigenous-creation-legends-and-geology2.png",
+        "alt": "Companion figure — islands, marks on stone, and the long argument over time"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-28T16:17:35.000Z",
+    "message": "Docs: Substack/email length targets for articles; sync chronology assets",
     "files": [
       {
         "status": "M",
@@ -1512,44 +1534,5 @@
     "message": "changelog: regenerate without pre-commit (staged) stub.",
     "files": [],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T13:53:28.000Z",
-    "message": "Mars RV: PP §5.8.1—Minority Report, pre-crime SF, Fringe, AC Animus table + cites; article cluster section.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
-        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
-        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
-        "alt": "*Chrono Trigger* / Mars RV — predictive-programming composite (author)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png",
-        "alt": "Mars Exploration 1984 — RV investigation composite (same release, alternate layout)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
-        "alt": "Mars Exploration 1984 — PDF digest companion figure"
-      }
-    ]
   }
 ]
