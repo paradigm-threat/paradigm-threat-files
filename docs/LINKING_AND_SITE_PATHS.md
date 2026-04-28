@@ -15,6 +15,10 @@ So **root-relative** links of the form `/governance/...`, `/history/...`, etc. a
 
 Files under **`blog/`** still follow **`docs/BLOG.md`**: use **fully absolute** URLs (`https://paradigmthreat.net/...`) so posts work when viewed on GitHub, RSS, or other contexts where the site root is not implicit.
 
+## Reader-facing articles (this repo)
+
+For **essay-style** Markdown in *paradigm-threat-files* (parent-folder pages that point into `investigations/` dossiers): voice, opening hook, lay citations, and discovery workflow — see **`docs/instructions/ARTICLES.md`**.
+
 ## Timeline cross-links
 
 From **paradigm-threat-timeline** `content/*.md`, link to investigations with root-relative paths as above; see **paradigm-threat-timeline** `docs/CONTENT_MARKDOWN_STYLE.md` and `.cursor/rules/paradigm-threat-timeline.mdc`.
