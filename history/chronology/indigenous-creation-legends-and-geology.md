@@ -1,6 +1,6 @@
 # How old is your house? — memory, geology, and the long argument
 
-![Your house, a million years old — memory, geology, and the long argument](indigenous-creation-legends-and-geology.png)
+![How old is your house? — memory, geology, and the long argument (lead figure)](indigenous-creation-legends-and-geology.png)
 
 Imagine someone walked up to **your** door with clipboards, grant letters, and quiet confidence. They did not ask how your family **remembers** the place. They told you, kindly but firmly, that **the house itself** is roughly **a million years old**—that the timbers, the hearth, the stones you were raised to treat as **witnesses** to your grandparents’ hands are, in “real” time, almost entirely **pre-human**. You, they say, only **arrived very recently** to **inhabit** something that was never truly **yours** in the way you thought.
 
@@ -38,6 +38,8 @@ For **creation-year / cycle** surveys (another face of the same wound), see [**I
 ---
 
 ## Pitcairn — the island that already had people
+
+![Companion figure — islands, marks on stone, and the long argument over time](indigenous-creation-legends-and-geology2.png)
 
 On **Pitcairn**, the **material record** is blunt: **Polynesian** structures, tools, and **petroglyphs** sit under the **mutineer** story the wider world prefers. People were **there before** the *Bounty* party landed. That is not a fringe whisper; it is the **same kind of collision** this article keeps circling—**place-memory** and **marks on stone** versus a **new population** carrying **imperial paper** and **romance**.
 
@@ -77,4 +79,4 @@ If you want **voices who sharpen the “memory vs closure” case** in print—D
 
 Keywords: #IndigenousMemory #OralTradition #Geochronology #DeepTime #ParadigmThreatFiles #ColonialScience #Radiocarbon #PlaceMemory #Pitcairn
 
-**Last updated:** 2026-04-30
+**Last updated:** 2026-04-29
