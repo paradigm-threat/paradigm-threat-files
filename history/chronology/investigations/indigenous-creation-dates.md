@@ -20,6 +20,7 @@ Indigenous chronologies (e.g., Quiche Maya, Popol Vuh, other traditions) provide
 
 ## References
 
+- **[Indigenous creation dates, legends, and geology (chronology hub)](/history/chronology/indigenous-creation-legends-and-geology.md)** — entry page linking this file, the legends-vs-geology dossier, radiocarbon investigation, and timeline **Q2–Q3**.
 - **[Indigenous legends vs. geologic deep-time](/history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md)** — companion dossier: **place-origin** myths (e.g. Fuji overnight, Hawaiʻi chain) vs **radiometric / hotspot** timelines; C14 vs K-Ar; calibration limits; quote-bank TODOs.
 - Timeline rules: alternate chronology systems include "Indigenous — Quiche Maya, Popol Vuh, etc."
 - docs/CONTENT_STRATEGY.md — Topics to strengthen

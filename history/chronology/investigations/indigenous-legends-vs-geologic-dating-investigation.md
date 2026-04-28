@@ -4,13 +4,13 @@
 
 > **TL;DR:** This dossier tracks the **systematic mismatch** between **indigenous chronologies and place-memory** (Japan: Fuji “one night” / 286 BCE motif; Hawaiʻi: Pele chain narrative and caldera memory; **§1.4** Pacific / Philippine / Javanese / Māori island–volcano survey; **§1.5** petroglyphs + **pre–Golden Age** memory frame + **Pitcairn** anchor; **author’s general thesis §B:** colonial **world order** and **field geology** read as **persuasion against elder time**, not redundant sampling) and **institutional geochronology** (hotspot ages, radiometric stacks). It inventories **online sources that (a) dismiss or compress indigenous dates** and **(b) criticize radiometric calibration, excess argon, uniformitarian closure, or social closure of debate**. **Paradigm stance:** weight **oral and legendary testimony** as **good-faith collective memory** unless disproven; treat **extra–tree-ring calibration** and **non-dendro anchors** as **epistemically thin** where the author alleges dogma. **Files:** [Radiocarbon dating investigation](/history/chronology/investigations/radiocarbon-dating-investigation.md), [Indigenous creation dates](/history/chronology/investigations/indigenous-creation-dates.md), [Common Questions Q2–Q3](/history/common-questions.md). **Timeline:** [Instant fossilization & electric](/timeline/evt-instant-fossilization-electric), [MudFlood world cataclysm](/timeline/evt-the-mudflood-world-cataclysm), [Core concepts](/timeline/evt-core-concepts), [Golden Age](/timeline/evt-4077-bce-the-golden-age), [Before creation](/timeline/evt-before-creation), [Wuxing five planets](/timeline/evt-wuxing-five-planets-five-elements). Full cross-read tables below.
 
-**Status:** Open — citation harvest and primary ethnography pass incomplete.
+**Status:** Open — **2026-04-29 pass:** added **authors-who-make-the-case** block (§2.1), **Japanese textual layer** for Fuji–Biwa (§1.1), **Kānaka / Tongan primaries** (§1.2 / §1.4), **Peratt DOI** + locational rock-art hook (§1.5), **starter quote bank** (§6A). Long-tail §6 items (funding map, per-site colonial archives, full petroglyph GIS) still open.
 
 ## Guide (read order)
 
 1. **Author stakes** — **general thesis** (deep time + calibration + colonial geology / petroglyphs); how the dossier **uses** it.
 2. **§1 Documented forks** — Fuji, Hawaiʻi, **§1.4** island–volcano survey, **§1.5** petroglyphs + memory + Pitcairn; C14 vs K-Ar / Ar-Ar.
-3. **§2 Mainstream and bridge literature** — USGS / JVGR “oral tradition matches us” line; archaeology-orality dialogue.
+3. **§2 Mainstream and bridge literature** — **§2.1** authors who sharpen the **indigenous / decolonial / place-memory** side; Mason / NPS / *Radiocarbon* “dialogue” line; USGS / JVGR “oral tradition matches us” above in **§1.2**.
 4. **§3 Critics of deep-time dating** — YEC / ICR excess argon; EU / electrical; IntCal / marine reservoir (mainstream technical).
 5. **§4 Author open claims** — numbered; **§5** falsifiable questions; **§6** TODOs; **Related**; **Keywords**; **Limits**.
 
@@ -51,6 +51,7 @@ The same **colonial world order** that **forced indigenous peoples** into **impe
 
 - A widely repeated **Buddhist / folk** dating motif places **Fuji’s appearance** in connection with an **earthquake** and **286 BCE** (sometimes linked narratively to **Lake Biwa** in English-language summaries). Examples: [“Tales of Fuji” — *A History of Japan*](https://historyofjapan.co.uk/2019/09/27/tales-of-fuji/) (2019); site wiki page [Mount Fuji — *A History of Japan*](https://historyofjapan.co.uk/wiki/mount-fuji/) (editorial wiki, not peer review).
 - A **woodsman / “Never-Dying Mountain”** tale (Fuji-yama appears overnight after underground noise) is circulated in English **mythography** summaries; treat as **folklore indexing**, not a dated primary chronicle: [“The Legend of the Never-Dying Mountain Fujiyama”](https://japanesemythology.wordpress.com/the-legend-of-the-never-dying-mountain-fujiyama/) (WordPress).
+- **Japanese textual layer (not *Nihon Shoki* as “286 BCE” anchor):** The **Fuji + Biwa + overnight / one-night** cluster is attested in **medieval and early-modern compilations** that *reinterpret* regnal-year lore (often tied to **Emperor Kōryoku** 孝霊天皇), not as a single undisputed line in the oldest imperial chronicles. Survey paths include the ***Sendai kuji hongi*** (先代旧事本紀) strand (Ōmi land splits → lake; earth heaped → Fuji; remainder → **Mikami-yama** / “three peaks” variants—summarized in Japanese local history and folklore indices), plus later encyclopedic transmission (**e.g.** *Wakan sansai zue* 和漢三才図会, **Edo** guidebook literature such as *Tōkaidō meishoki*). For **typed motif indexing**, the National Institute for Japanese Literature **Yōkai / strange-event database** is a stable institutional entry point: [Nichibun 怪異・妖怪伝承データベース](https://www.nichibun.ac.jp/YoukaiDB/) (search **富士** / **琵琶湖**). **286 BCE** in English pages is usually **Gregorian back-calculation** from legendary regnal years—**Q1** (§5) updated: falsify by tracing **which edition** of which **compilation** first fixed the calendar arithmetic.
 
 **Institutional geology (contrast):**
 
@@ -66,6 +67,13 @@ The same **colonial world order** that **forced indigenous peoples** into **impe
 **Author’s Hawaiʻi fork (not the same as Swanson’s narrow Kīlauea window):**
 
 - Indigenous narrative of **Pele moving down-chain** is read here as **memory of recent formation** of **the chain as lived geography**, while **institutional ages** assign **millions of years** to northwestern islands. **Investigation task:** separate (i) **recent surface lava memory** (undisputed human observation possible), (ii) **mythic encoding of relative island age**, (iii) **absolute radiometric ages** for submerged/old shields — and tabulate **who claims impossibility** for whom.
+
+**Kānaka Maoli–authored / UH–press corpus (not USGS “validation” only):**
+
+- **Samuel M. Kamakau** — *Ka Poʻe Kahiko: The People of Old*, tr. Mary Kawena Pukui, B.P. Bishop Museum Press (1964 / reprints); *The Works of the People of Old* (same material, English titles vary) — **primary Hawaiian historian** on **kapu, land, gods, and narrative** as social fact. [Bishop Museum Press / distributor listings](https://www.bishopmuseum.org/) (purchase tier).
+- **David Malo** — *Hawaiian Antiquities* (*Moolelo Hawaii*, trans. N.B. Emerson, 1898; later eds.) — foundational **moʻolelo** of **cosmos, origins, Pele-class deities** in **19th c. Hawaiian** prose. [Internet Archive — *Hawaiian Antiquities* (Emerson trans.)](https://archive.org/details/hawaiianantiquit00malorich) (public domain scan tier).
+- **Martha Warren Beckwith** — *Hawaiian Mythology* (1940, Yale / repr. Univ. of Hawaiʻi Press) — **synthetic** but **full-text** survey of **Pele–Hiʻiaka cycle** and cognate motifs; use as **annotated index** to **older Hawaiian-language sources**, not as indigenous voice *per se*. [UH Press — catalog page](https://uhpress.hawaii.edu/title/beckwith-hawaiian-mythology/).
+- **Kuʻualoha hoʻomanawanui** — *Voices of Fire: Reweaving the Literary Lei of Pele and Hiʻiaka* (Univ. of Hawaiʻi Press, 2014) — **Native Hawaiian scholar**; treats **mele, oli, moʻolelo** as **literary and political continuity**, not raw “myth to be tested against USGS.” [DOI chapter sample — De Gruyter / UH distribution](https://doi.org/10.1515/9780824845698-010) (*The Coming of Pele* chapter).
 
 ### 1.3 Methods reality check (avoids talking past each other)
 
@@ -98,8 +106,8 @@ The same **colonial world order** that **forced indigenous peoples** into **impe
 | **Aotearoa (Māori)** | **Rangitoto**: ancestors **witnessed** the eruption; footprints in ash on Motutapu | Auckland **Rangitoto** scoria cone | [Te Ara — *Historic volcanic activity* (Rangitoto)](https://teara.govt.nz/en/historic-volcanic-activity/page-1); [volcanic eruptions map since 1300](https://teara.govt.nz/en/map/6824/volcanic-eruptions-in-new-zealand-since-1300) |
 | **Aotearoa (Māori)** | **Ngātoroirangi**; sisters **Te Hoata** and **Te Pupu** bring **fire** from Hawaiki — **geysers**, **hot pools**, **volcanoes** (e.g. Tongariro, Whakaari) | Central North Island **Taupō Volcanic Zone** | [Te Ara — *Whenua: how the land was shaped* (thermal / fire narrative)](https://teara.govt.nz/en/whenua-how-the-land-was-shaped/page-5); [Te Hoata and Te Pupu — music / story entry](https://teara.govt.nz/en/music/6733/te-hoata-and-te-pupu-bring-fire) |
 | **Hawaiʻi (Kānaka)** | **Pele** journey down chain; caldera / long eruption chants | Hawaiian chain, **Kīlauea** focus | Already **§1.2**; [USGS *Volcano Watch*](https://www.usgs.gov/observatories/hvo/news/volcano-watch-hawaiian-oral-tradition-describes-formation-kilaueas-caldera); [Swanson 2008 JVGR](https://doi.org/10.1016/j.jvolgeores.2008.01.033) |
-| **Tonga** | **Tangaloa** casts chips → first islands; **Hikuleʻo** throws stones → **volcanic** islands (e.g. Kao, Tofua, Fonualei); **Maui** fishhook for coral islands | **Tongatapu**, volcanic outliers | [Tongan mythology (Wikipedia summary)](https://en.wikipedia.org/wiki/Tongan_mythology); [Hikuleʻo](https://en.wikipedia.org/wiki/Hikule%CA%BBo) — treat as **secondary index**; chase **Gifford / Collocott** ethnographic primaries in §6 |
-| **Samoa** | **Tagaloa** rolls stones from heaven → **Savaiʻi** and **Upolu**; variants with **fishhook** | Two main high islands | [Tagaloa](https://en.wikipedia.org/wiki/Tagaloa) (overview + refs to **Turner**, *Samoa a hundred years ago*) |
+| **Tonga** | **Tangaloa** casts chips → first islands; **Hikuleʻo** throws stones → **volcanic** islands (e.g. Kao, Tofua, Fonualei); **Maui** fishhook for coral islands | **Tongatapu**, volcanic outliers | [Tongan mythology (Wikipedia summary)](https://en.wikipedia.org/wiki/Tongan_mythology); [Hikuleʻo](https://en.wikipedia.org/wiki/Hikule%CA%BBo) — **secondary index**. **Primaries:** Edward W. Gifford, *Tongan Society* (Bishop Museum **Publ. 16**, 1929) — [HathiTrust full view (partner libraries)](https://catalog.hathitrust.org/Record/001635234); E.E.V. Collocott, *Tales and Poems of Tonga* (Bishop Museum **Bull. 46**, 1928) — [Open Library](https://openlibrary.org/books/OL26537665M/Tales_and_poems_of_Tonga); [UH ScholarSpace PDF (bitstream)](https://scholarspace.manoa.hawaii.edu/bitstreams/f7cf1cea-afb0-4de1-bfe0-8ef7b6417326/download) |
+| **Samoa** | **Tagaloa** rolls stones from heaven → **Savaiʻi** and **Upolu**; variants with **fishhook** | Two main high islands | [Tagaloa](https://en.wikipedia.org/wiki/Tagaloa) (overview + refs to **George Turner**, *Samoa a hundred years ago and long before*, 1884 — [Internet Archive](https://archive.org/details/samoaonehundredy00turn)); **missionary-era** but **first-gen English corpus** |
 | **Philippines (Bikol etc.)** | **Daragang Magayon** legend: lovers’ grave **rises** → **Mayon** | **Mount Mayon**, Luzon | [Daragang Magayon](https://en.wikipedia.org/wiki/Daragang_Magayon); [Mayon Volcano](https://en.wikipedia.org/wiki/Mayon_Volcano) |
 | **Java (Javanese)** | **Merapi**–**South Sea Queen** axis; spirit lore tied to **Merapi–Opak–coast** line | **Mount Merapi** | Troll, Deegan, et al., *Geology Today* / Wiley: [“Ancient oral tradition… Merapi…”](https://doi.org/10.1111/gto.12350) (2015) — **mainstream** paper treating oral material as **hazard memory** with **tectonic** correlate |
 | **Iceland (Norse settlers)** | **Landnámabók** and lore name **Surtshellir** lava cave for **Surtr** (fire giant); eruption **~870s CE** in volcanic chronology | **Hallmundarhraun** lava field context | [Surtshellir](https://en.wikipedia.org/wiki/Surtshellir); [Landnámabók](https://en.wikipedia.org/wiki/Landn%C3%A1mab%C3%B3k) — **settler** narrative, not Pacific indigenous, but **same dossier question**: **recent lava** + **mythic nameplate** |
@@ -122,8 +130,8 @@ The same **colonial world order** that **forced indigenous peoples** into **impe
 
 | Topic | What is citable now | Tier |
 |-------|---------------------|------|
-| **Rock art ↔ plasma / Z‑pinch hypothesis (global, not only islands)** | Peratt‑line literature and in‑repo index: [`cosmos/cosmology/saturnian/index-mythsarehistory.md`](/cosmos/cosmology/saturnian/index-mythsarehistory.md); IEEE/plasma **rock art** comparison cited from [chronology page](/history/chronology/page.md) | Hypothesis + repo routing |
-| **“Thousands” / island concentration / south aspect** | **Not** yet pinned in this dossier to a **single peer inventory** — treat as **author pattern claim** until a **site‑by‑site GIS aspect** study is attached in §6 | **Open TODO** |
+| **Rock art ↔ plasma / Z‑pinch hypothesis (global, not only islands)** | Peratt, “Characteristics for the Occurrence of a High-Current, Z-Pinch Aurora as Recorded in Antiquity,” *IEEE Transactions on Plasma Science* **31**(6), Dec. 2003 — [DOI 10.1109/TPS.2003.820956](https://doi.org/10.1109/TPS.2003.820956); stable open full text often mirrored at [Zenodo 1232269](https://zenodo.org/record/1232269). In-repo routing: [`cosmos/cosmology/saturnian/index-mythsarehistory.md`](/cosmos/cosmology/saturnian/index-mythsarehistory.md); [chronology page](/history/chronology/page.md) (in-page **Peratt** / **petroglyph**). **Tier:** peer **hypothesis** (contested in mainstream geophysics). |
+| **“Thousands” / island concentration / south aspect** | **No** single **Pacific-wide** peer paper yet found that tests **“south‑facing majority”** as a GIS variable. **Related (not aspect):** McDonald-Glennie et al., “A Locational Analysis of Rock Art in the North Island, Aotearoa New Zealand,” *Journal of Pacific Archaeology* (site placement / geology bias) — [open journal article](https://pacificarchaeology.org/index.php/journal/article/view/300). Treat **south‑facing “thousands”** as **author synthesis** until a **regional aspect** study is cited in §6. | **Partial hook** |
 | **Pitcairn — prior Polynesian presence, petroglyphs, disruption** | Pacific Union College **Pre‑Mutineer** hub: [Pitcairn’s earlier history — LibGuide](https://puc.libguides.com/PISC-pre-mutineers); companion [pre‑mutineer history page](http://library.puc.edu/pitcairn/pitcairn/history-pre-mutineer.shtml) (Polynesian structures, tools, **rock drawings**; notes on **mutineer** arrival **1790**). [Pitcairn Island Museum](https://en.wikipedia.org/wiki/Pitcairn_Island_Museum) — collections context. | Educational / encyclopedia |
 
 **Correlation (author synthesis, not a closed proof):** **Petroglyph landscapes + oral volcano / island origin stories** are read as **layers of one memory system**; **colonial administration + mission + extractive science** as **successive passes** that **break lineage** and **substitute paper ages** for **place‑tied narrative**. The investigation **does not** yet equate every **geological expedition** with **conscious debunk** — it **logs** the author’s **uncompromising read** and **splits** testable **permit / archive / memoir** hooks into §5–§6.
@@ -131,6 +139,19 @@ The same **colonial world order** that **forced indigenous peoples** into **impe
 ---
 
 ## 2. Sources that privilege “science dating” over orality (or negotiate tension)
+
+### 2.1 Authors who sharpen the case (indigenous / decolonial / place-memory vs deep-time closure)
+
+These voices **do not prove** every clause in **Author’s general thesis**; they **raise the epistemic and political stakes** the dossier tracks—**oral and place-based knowledge**, **colonial research economies**, and **Western “scientific fact”** as contested authority.
+
+| Author / work | Why it belongs here | Stable entry |
+|-----------------|----------------------|--------------|
+| **Vine Deloria Jr.**, *Red Earth, White Lies: Native Americans and the Myth of Scientific Fact* (Scribner, 1995; repr. Fulcrum / dist. varies) | Landmark **indigenous critique** of **Beringia migration dogma**, **overkill hypothesis**, and **museum / lab “fact”** as **often incompatible** with **tribal memory**—**parallel grammar** to “legend vs geochronology” rows in §1. **Caveat:** Deloria’s **young-Earth / flood** sympathies are **contested**; use for **power/knowledge** argument, not as lab endorsement. | [Wikipedia — overview + reception](https://en.wikipedia.org/wiki/Red_Earth,_White_Lies); [Google Books record](https://books.google.com/books?id=Pz78tSwRAaUC) |
+| **Linda Tuhiwai Smith**, *Decolonizing Methodologies: Research and Indigenous Peoples* (Zed / Otago Press, 1999; 2nd–3rd eds.) | Frames **Western research** as **imperial “regime of truth”**—**discovery**, **naming**, **extraction**—that **prestructures** what counts as **evidence** against **indigenous lifeworlds**. **Directly supports** the dossier’s **§B** hook on **who is “informant” vs who is “object.”** | [Otago University Press — book page](https://www.otago.ac.nz/press/books/decolonizing-methodologies) |
+| **Julie Cruikshank**, *Do Glaciers Listen? Local Knowledge, Colonial Encounters, and Social Imagination* (UBC Press, 2005) | **Peer-respected ethnohistory**: Yukon **Tlingit / Athabaskan** **oral knowledge** of **ice, land, and time** in **friction** with **colonial natural science** narratives—**template** for how **“deep” earth stories** meet **expert glaciology**. | [UBC Press author page](https://ubcpress.ca/julie-cruikshank-1) |
+| **Keith H. Basso**, *Wisdom Sits in Places: Landscape and Language Among the Western Apache* (UNM Press, 1996) | **Place-names as moral memory**—shows **how landscape speech** carries **intergenerational obligation**; **analog** to **island / volcano moʻolelo** as **not optional “myth layer.”** | [Wikipedia — book overview](https://en.wikipedia.org/wiki/Wisdom_Sits_in_Places) (hub to publisher / reviews) |
+| **Kuʻualoha hoʻomanawanui**, *Voices of Fire: Reweaving the Literary Lei of Pele and Hiʻiaka* (UH Press, 2014) | **Native Hawaiian scholar** on **Pele / Hiʻiaka** as **literature and politics**, not **raw material for geology “fit tests.”** | [Project MUSE book record](https://muse.jhu.edu/book/31332); sample chapter DOI [10.1515/9780824845698-010](https://doi.org/10.1515/9780824845698-010) |
+| **Anthony L. Peratt** (see §1.5) | **Physical scientist** arguing **global petroglyph morphologies** match **high-current plasma instabilities**—**independent** of indigenous **intent** claims, but **central** to this repo’s **rock-art / catastrophe** lane. | [DOI 10.1109/TPS.2003.820956](https://doi.org/10.1109/TPS.2003.820956) |
 
 - Mason, *American Antiquity* — [“Archaeology and Oral Tradition: The Scientific Importance of Dialogue”](https://www.cambridge.org/core/journals/american-antiquity/article/abs/archaeology-and-oral-tradition-the-scientific-importance-of-dialogue/D7C20956B3FB216D7148F85BBD5627CB) — canonical **dialogue** frame: oral sources as **evidence class**, not mere myth (still **disciplinary** archaeology centric).
 - National Park Service technical brief — [PDF: Native American oral tradition and archaeology](https://www.nps.gov/subjects/ncptt/upload/1994-02b.pdf) — **1990s** issues of **structure, relevance, respect** (integration politics).
@@ -181,7 +202,7 @@ These are **not** “smoking gun racism” papers; they are **institutional** te
 
 | # | Question | What would falsify / strengthen |
 |---|----------|----------------------------------|
-| Q1 | Is **286 BCE** tied to a **named premodern Japanese text**, or mostly **English-language secondary** synthesis? | Locate **primary chronicle** line + translator chain |
+| Q1 | Is **286 BCE** anchored in **Nihon Shoki** itself, or in **medieval / early-modern compilations** (*Sendai kuji hongi* line, *Wakan sansai zue*, guidebooks) plus **Gregorian conversion** of **Kōryoku** regnal lore? | Edition-critical Japanese **textology** + English **secondary chain** (see **§1.1**) |
 | Q2 | For **Hawaiʻi**, what is the **strongest indigenous statement** (source, lineage, publication) that **islands rose** on **human** (not mythic) timescales? | Ethnographic primary + community authorship |
 | Q3 | Are **Hualālai / Kīlauea** “million-year” K-Ar anecdotes **documented outside ICR**? | Peer-reviewed **failed dating** case study or lab memo |
 | Q4 | Where do **geologists** or **popularizers** **explicitly** call **indigenous time** “impossible” vs **quietly** map myth to deep time? | Quote table with URL |
@@ -193,14 +214,23 @@ These are **not** “smoking gun racism” papers; they are **institutional** te
 
 ## 6. Weak points / remaining research TODOs
 
-- [ ] Build **two-column quote bank**: **indigenous / ally sources** vs **skeptical / dismissive** mainstream lines (with URLs).
-- [ ] Add **Japanese-language** primary references for **Fuji origin** myths (286 BCE trail).
-- [ ] Add **Kanaka Maoli** authored or **UH-ethnography** sources on **Pele** not filtered only through USGS “validation” framing.
-- [ ] Separate **author’s “C14 for billions”** wording from **methodologically accurate** critique (**which method, which sample matrix**).
-- [ ] Optional: **funding map** (NSF, USGS, oil/mineral surveys) as **separate table** — **claims about “corporate curated conclusion”** need **specific grants / panels** if upgraded from **sentiment** to **finding**.
-- [ ] **§1.4 expansion:** Primary ethnography for **Tonga / Samoa** (Collocott, Gifford, Turner), **Vanuatu** (Ambrym place–myth corpus, e.g. **Rio** ethnography), **Maluku / Banda**, **Taiwan Indigenous** volcanic toponyms; add rows only with **citable line + tier**.
-- [ ] **§1.5 — Petroglyphs:** Build **table**: region / island or archipelago / count estimate / citation / **aspect** if published; relate to **Peratt** IEEE parts I–II (URLs already on [chronology page](/history/chronology/page.md)) without **merging** author **intent** claims into **Peratt’s** physics claims.
-- [ ] **§1.5 — Colonial instruction thesis:** Case files (brief): **who funded**, **who permitted**, **who was quoted** as “informant,” **how dates entered school texts** — **per site** (Hawaiʻi, NZ, Pacific atolls, etc.) to test claim **6–7** without asserting **universal conscious conspiracy** unless sourced.
+### 6A Starter quote bank (expand in future passes)
+
+| Indigenous / ally / decolonial (paraphrase or short quote) | Skeptical / compressing / “science first” (paraphrase) |
+|-------------------------------------------------------------|--------------------------------------------------------|
+| Deloria: dominant **migration / extinction “facts”** can **contradict tribal memory** without **equal burden of proof** on the lab side — *Red Earth, White Lies* (see **§2.1**). | **Britannica / textbook** tone: **Lake Biwa** “**over 4 million years**” as **unmarked baseline** against which **origin legends** are **folklore** only — [Lake Biwa — natural history](https://en.wikipedia.org/wiki/Lake_Biwa#Natural_history) (convenience mirror of public deep-time). |
+| Tuhiwai Smith: **“Research”** is **imbricated in imperialism**; **indigenous peoples** are not **raw data** — *Decolonizing Methodologies* (**§2.1**). | Mason: **oral tradition** gains weight when **archaeology** treats it as **dialogue partner**—**discipline still centers** the **scientific** frame — [Mason *American Antiquity*](https://www.cambridge.org/core/journals/american-antiquity/article/abs/archaeology-and-oral-tradition-the-scientific-importance-of-dialogue/D7C20956B3FB216D7148F85BBD5627CB). |
+| hoʻomanawanui: **Pele / Hiʻiaka** corpus as **Hawaiian literary continuity**, not **ancillary color** for hazard bulletins — *Voices of Fire* (**§1.2 / §2.1**). | **ICR-style** excess-argon pages: **“anomalous” old K-Ar** on **historic lava** as **Achilles’ heel**—use **only** as **labeled advocacy** in debate map — [ICR article 8486](https://www.icr.org/article/8486). |
+
+**Done in this file (2026-04-29):** **§1.1** Japanese **compilation trail**; **§1.2** **Kānaka / UH** sources; **§1.4** **Gifford / Collocott / Turner** links; **§1.5** **Peratt DOI** + **NZ locational** rock-art paper hook; **§2.1** author roster; **§6A** starter bank; **§1.3** already splits **C14 vs basalt radiometry** (cross-claim **#3**).
+
+**Still open (heavy lifts):**
+
+- [ ] Optional: **funding map** (NSF, USGS, oil/mineral surveys) as **separate table** — upgrade **§4** claim **1** from **sentiment** to **finding** only with **grant / panel / memo** cites.
+- [ ] **§1.4 expansion:** **Vanuatu** (Ambrym / **Rio**-class ethnography), **Maluku / Banda**, **Taiwan Indigenous** volcanic toponyms — **new rows** only with **citable line + tier**.
+- [ ] **§1.5 — Petroglyphs:** Full **regional count / aspect** table (beyond Peratt + single **NZ** locational paper).
+- [ ] **§1.5 — Colonial instruction thesis:** **Per-site** case files (**Q7**): permits, curricula, who was quoted as **informant**.
+- [ ] **Q4:** URL **quote table** for **“impossible”** vs **silent remapping** of indigenous time in **popular science** and **consulting reports**.
 
 ---
 
@@ -208,6 +238,7 @@ These are **not** “smoking gun racism” papers; they are **institutional** te
 
 | File | Relation |
 |------|----------|
+| [Indigenous creation dates, legends, and geology (chronology hub)](/history/chronology/indigenous-creation-legends-and-geology.md) | **Entry page** for this lane—routes here, **indigenous creation dates**, radiocarbon, creation-event interpretations, and **Q2–Q3** |
 | [Radiocarbon dating investigation](/history/chronology/investigations/radiocarbon-dating-investigation.md) | C14 dogma, electrical activity, Libby assumptions; links to timeline instant fossilization |
 | [Indigenous creation dates](/history/chronology/investigations/indigenous-creation-dates.md) | Creation-cycle chronology survey (Mesoamerican, global); **pair** this dossier’s **place-origin / geology clash** with that file’s **cosmogonic dates** |
 | [Creation event interpretations](/history/chronology/investigations/creation-event-interpretations.md) | Cross-tradition creation ordering — **myth layer** the timeline reads as **witnessed sky history** |
@@ -238,7 +269,7 @@ Root-relative `/timeline/evt-…` links match how **paradigm-threat-timeline** `
 
 Keywords: #IndigenousLegends #Geochronology #Radiocarbon #Dendrochronology #OralTradition #MountFuji #HawaiiVolcanism #ParadigmThreatFiles #IntCal #KArDating #PacificMythology #IslandOrigins #Petroglyphs #ColonialGeology
 
-**Last updated:** 2026-04-30
+**Last updated:** 2026-04-29
 
 ---
 

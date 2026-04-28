@@ -32,3 +32,4 @@ On article pages, the site shell can also show a **folder index** (same `AutoInd
 
 - `docs/LINKING_AND_SITE_PATHS.md` — repo path = URL path
 - `docs/BLOG.md` — blog listing and `_updated` behavior
+- `docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md` — **New article or hub — discovery checklist** (site root `page.md` **Investigation Categories**, topic hubs, `index-investigations.md`, cross-links, `npm run autogen`)
