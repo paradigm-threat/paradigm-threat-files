@@ -1,8 +1,50 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-29T14:16:15.019Z",
+    "date": "2026-04-29T14:48:55.585Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/LINKING_AND_SITE_PATHS.md",
+        "href": "/docs/LINKING_AND_SITE_PATHS"
+      },
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "A",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      },
+      {
+        "status": "M",
+        "path": "docs/instructions/PAGE_MD_AUTOINDEX.md",
+        "href": "/docs/instructions/PAGE_MD_AUTOINDEX"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/indigenous-creation-legends-and-geology.md",
+        "href": "/history/chronology/indigenous-creation-legends-and-geology"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/indigenous-creation-legends-and-geology.png",
+        "alt": "How old is your house? — memory, geology, and the long argument (lead figure)"
+      },
+      {
+        "src": "/history/chronology/indigenous-creation-legends-and-geology2.png",
+        "alt": "Companion figure — islands, marks on stone, and the long argument over time"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-28T16:17:35.000Z",
+    "message": "Indigenous legends article: restore hero PNG, add companion figure",
     "files": [
       {
         "status": "M",
@@ -1488,32 +1530,6 @@
       {
         "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
         "alt": "Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T12:02:07.000Z",
-    "message": "Mars×CT article: reorder validation—intro matches section flow; link wording; Updated date.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
-        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
-        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
-        "alt": "*Chrono Trigger* / Mars RV — predictive-programming composite (author)"
       }
     ]
   }
