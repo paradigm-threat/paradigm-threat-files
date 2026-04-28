@@ -2,9 +2,9 @@
 
 ![How old is your house? — memory, geology, and the long argument (lead figure)](indigenous-creation-legends-and-geology.png)
 
-Imagine someone walked up to your door with clipboards, grant letters, and quiet confidence. They did not ask how your family remembers the place. They told you, kindly but firmly, that the house itself is roughly **a million years old**—that the timbers, the hearth, the stones you were raised to treat as witnesses to your grandparents’ hands are, in “real” time, almost entirely pre-human. You, they say, only arrived very recently to inhabit something that was never truly yours in the way you thought.
+Imagine you grew up on your father’s word: he built this house—raised the frame, set the door, paid the note, kept the story straight at the dinner table. You learned the place through his labor, not through a file number. Then the government shows up with maps and file codes and a calm voice: the structure is **far older** than any life he could have lived; the timbers, the hearth, the stones “predate” him; the official timeline does not leave room for him to have **built** what he said he built. Nobody has to call him a liar out loud. The form only implies it—and the hallway air starts to carry a second question: is he confused, nostalgic, or worse, for ever suggesting he was the builder?
 
-You might laugh them off once. You might answer with stories, songs, or silence. But if the same story returned year after year, in schoolbooks, on screens, in museum placards, in court maps, and in the tone ordinary people use when they say “science,” something else would happen: the house would stop feeling like yours—even if you still remember building it with people you loved.
+You might laugh it off once. If that ruling came back every season—in school copy, on a screen, in a court map, in the tone people use when they say “science”—something else would happen: the house would stop feeling like his gift to you, and he would start sounding, in public, like someone who “doesn’t understand.”
 
 Chemistry alone cannot touch what is happening here: a relationship to time and land being **rewritten from the outside**.
 
@@ -134,7 +134,7 @@ If you are editing for Substack-scale length: add a personal worked example (one
 
 Keywords: #IndigenousMemory #OralTradition #Geochronology #DeepTime #ParadigmThreatFiles #ColonialScience #Radiocarbon #PlaceMemory #Pitcairn #IslandOrigins #MountFuji #PacificMythology #SaturnianCosmology #ElectricUniverse
 
-**Last updated:** 2026-04-29
+**Last updated:** 2026-04-30
 
 ---
 
