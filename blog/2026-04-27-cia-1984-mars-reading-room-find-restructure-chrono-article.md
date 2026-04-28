@@ -2,6 +2,8 @@
 
 *April 27, 2026 — Paradigm Threat*
 
+**Official CIA source (no account):** open the scan directly — [**MARS EXPLORATION, May 22, 1984** (PDF on cia.gov)](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) — release id **`CIA-RDP96-00788R001900760001-9`**. Prefer a browser page first? Use the [CIA Reading Room **document** listing for the same file](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9); the PDF link there points to the same object.
+
 ---
 
 **Summary.** Since the [April 25, 2026](https://paradigmthreat.net/blog/2026-04-25-netanyahu-health-disclosure-controlled-opposition-fomenko-site-toc) roundup, work concentrated on a single **primary-document anchor** that lines up uncomfortably well with the investigation stack we have been building for years: the CIA Reading Room **MON/SUB Mars exploration** transcript from **22 May 1984** (`CIA-RDP96-00788R001900760001-9`), still retrievable from **cia.gov**. Around that spine we added depth (plain transcript in-repo, PDF segment writeup, MFEE-phase language, two-way “hallucination” epistemics, predictive-programming adjunct with ***Chrono Trigger***), moved the **controlled-opposition** long-form dossiers under **`investigations/`** with hub and cross-repo relinks, shipped a **readable parent article** (not a dossier) for the Mars × CT convergence, refreshed **investigation instructions** and the **Deep Dive** doc, and landed a large parallel batch of updates (Cruz/Kevin *Office* lines, a Trump/WHCA assassination curiosity file, antisemitism working-definition expansion with assets, keyword-index rules, timeline relinks). This post foregrounds **why the Mars PDF matters emotionally and structurally**, not only as a changelog.

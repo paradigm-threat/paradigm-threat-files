@@ -6,6 +6,8 @@ When the briefing was a game: the 1984 Mars session, *Chrono Trigger*, and a fil
 
 **Updated:** 2026-04-27
 
+**Official CIA PDF (direct link):** [**MARS EXPLORATION, May 22, 1984** — `CIA-RDP96-00788R001900760001-9.pdf`](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) on **cia.gov** (opens the scan; no login). **Same release, HTML/metadata page:** [Reading Room document page](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9) — use the PDF control on that page if the direct URL is blocked by your client.
+
 There is a kind of quiet outrage that arrives when two unrelated cultural lanes—**a government PDF** and **a JRPG**—say the same thing about **despair**, **domes**, and **a world stripped of ordinary hope**, yet only one lane is allowed to be “real.” This article is not a proof that Square’s writers saw a STARGATE folder. It *is* an invitation to read the convergence with steady eyes: **fiction that familiarized the pattern years before the transcript sat on cia.gov** is not automatically coincidence, and treating it as data does not require believing every clause of every hypothesis downstream.
 
 ---
