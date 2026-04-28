@@ -1,8 +1,38 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-29T14:11:55.146Z",
+    "date": "2026-04-29T14:16:15.019Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/indigenous-creation-legends-and-geology.md",
+        "href": "/history/chronology/indigenous-creation-legends-and-geology"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/indigenous-creation-legends-and-geology.png",
+        "href": "/history/chronology/indigenous-creation-legends-and-geology.png"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/indigenous-creation-legends-and-geology2.png",
+        "href": "/history/chronology/indigenous-creation-legends-and-geology2.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/indigenous-creation-legends-and-geology.png"
+      },
+      {
+        "src": "/history/chronology/indigenous-creation-legends-and-geology2.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-28T16:17:35.000Z",
+    "message": "Indigenous legends: Pitcairn §1.5.1, lay article, hubs and autogen",
     "files": [
       {
         "status": "M",
@@ -1465,32 +1495,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-28T12:02:07.000Z",
     "message": "Mars×CT article: reorder validation—intro matches section flow; link wording; Updated date.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
-        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
-        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
-        "alt": "*Chrono Trigger* / Mars RV — predictive-programming composite (author)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T11:59:08.000Z",
-    "message": "Mars×CT article: document timeline; two-way as real-time view under misdated tasking.",
     "files": [
       {
         "status": "M",
