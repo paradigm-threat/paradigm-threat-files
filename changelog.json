@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-28T11:07:36.412Z",
+    "date": "2026-04-28T11:08:29.203Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-28T11:07:35.000Z",
+    "message": "cia-1984-mars-chrono-trigger article: hero PNG; move journey and PP figures below lead.",
     "files": [
       {
         "status": "M",
@@ -4248,29 +4261,6 @@
         "src": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
         "alt": "Mars Exploration 1984 — declassified PDF digest (header)"
       },
-      {
-        "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
-        "alt": "CIA Reading Room — Mars RV, two-way influence, Iran / religious-revival investigation (header)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-27T13:42:09.000Z",
-    "message": "Mars transcript.txt: reflow paragraphs, fix PDF column artifacts",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-transcript.txt"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
-        "href": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
-      }
-    ],
-    "images": [
       {
         "src": "/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
         "alt": "CIA Reading Room — Mars RV, two-way influence, Iran / religious-revival investigation (header)"
