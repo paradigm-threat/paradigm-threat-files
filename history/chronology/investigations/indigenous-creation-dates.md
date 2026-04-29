@@ -20,9 +20,12 @@ Indigenous chronologies (e.g., Quiche Maya, Popol Vuh, other traditions) provide
 
 ## References
 
+- **[Indigenous legends vs. geologic deep-time](/history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md)** — companion dossier: **place-origin** myths (e.g. Fuji overnight, Hawaiʻi chain) vs **radiometric / hotspot** timelines; C14 vs K-Ar; calibration limits; quote-bank TODOs.
 - Timeline rules: alternate chronology systems include "Indigenous — Quiche Maya, Popol Vuh, etc."
 - docs/CONTENT_STRATEGY.md — Topics to strengthen
+- [Common Questions Q3 — Indigenous origin stories](/history/common-questions.md#q3-do-all-indigenous-civilizations-really-share-the-same-origin-story-or-are-the-similarities-just-universal-human-patterns); [Q2 — Physical dating](/history/common-questions.md#q2-can-physical-dating-methods-tree-rings-ice-cores-radiometric-dating-be-trusted-as-independent-checks-on-chronology)
 - [Common Questions Q4: Maya civilization collapse](https://paradigmthreat.net/history/common-questions#q4-why-did-the-maya-civilization-collapse-why-was-it-advanced-why-does-the-mainstream-record-say-they-collapsed-over-1000-years-ago) — redacted history analysis: why mainstream dates Maya collapse to 800–900 CE (denying pyramids/Horde, Catholic takeover, 18th century genocide)
+- [The Golden Age](/timeline/evt-4077-bce-the-golden-age) · [Before creation](/timeline/evt-before-creation) — timeline book nodes tied to **Q3** citations in Common Questions
 
 ## Next Steps
 

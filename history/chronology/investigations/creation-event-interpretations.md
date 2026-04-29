@@ -829,6 +829,8 @@ The Kojiki begins with divine emergence and island/deity formation. The checked 
    - Buddhist tradition encodes it as **loss of radiance** and descent into coarse existence.
    - Hindu/Jain encode it as **Kali Yuga** or **Avasarpini** — the dark half of the cosmic cycle.
 
+**Cross-read:** [Indigenous legends vs. geologic deep-time](/history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md) — where **sacred cosmogony** meets **institutional geochronology** on **named places** (volcanoes, island chains), not only **scriptural** creation order.
+
 ---
 
 Keywords: #Creation #Event #Interpretations #Across #Religions
