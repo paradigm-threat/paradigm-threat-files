@@ -1,0 +1,254 @@
+# Indigenous legends vs. geologic deep-time — dating clash investigation
+
+![Indigenous legends vs. geologic deep-time — investigation figure](indigenous-legends-vs-geologic-dating-investigation.png)
+
+> **TL;DR:** This dossier tracks the **systematic mismatch** between **indigenous chronologies and place-memory** (Japan: Fuji “one night” / 286 BCE motif; Hawaiʻi: Pele chain narrative and caldera memory; **§1.4** Pacific / Philippine / Javanese / Māori island–volcano survey; **§1.5** petroglyphs + **pre–Golden Age** memory frame + **Pitcairn** anchor; **author’s general thesis §B:** colonial **world order** and **field geology** read as **persuasion against elder time**, not redundant sampling) and **institutional geochronology** (hotspot ages, radiometric stacks). It inventories **online sources that (a) dismiss or compress indigenous dates** and **(b) criticize radiometric calibration, excess argon, uniformitarian closure, or social closure of debate**. **Paradigm stance:** weight **oral and legendary testimony** as **good-faith collective memory** unless disproven; treat **extra–tree-ring calibration** and **non-dendro anchors** as **epistemically thin** where the author alleges dogma. **Files:** [Radiocarbon dating investigation](/history/chronology/investigations/radiocarbon-dating-investigation.md), [Indigenous creation dates](/history/chronology/investigations/indigenous-creation-dates.md), [Common Questions Q2–Q3](/history/common-questions.md). **Timeline:** [Instant fossilization & electric](/timeline/evt-instant-fossilization-electric), [MudFlood world cataclysm](/timeline/evt-the-mudflood-world-cataclysm), [Core concepts](/timeline/evt-core-concepts), [Golden Age](/timeline/evt-4077-bce-the-golden-age), [Before creation](/timeline/evt-before-creation), [Wuxing five planets](/timeline/evt-wuxing-five-planets-five-elements). Full cross-read tables below.
+
+**Status:** Open — citation harvest and primary ethnography pass incomplete.
+
+## Guide (read order)
+
+1. **Author stakes** — **general thesis** (deep time + calibration + colonial geology / petroglyphs); how the dossier **uses** it.
+2. **§1 Documented forks** — Fuji, Hawaiʻi, **§1.4** island–volcano survey, **§1.5** petroglyphs + memory + Pitcairn; C14 vs K-Ar / Ar-Ar.
+3. **§2 Mainstream and bridge literature** — USGS / JVGR “oral tradition matches us” line; archaeology-orality dialogue.
+4. **§3 Critics of deep-time dating** — YEC / ICR excess argon; EU / electrical; IntCal / marine reservoir (mainstream technical).
+5. **§4 Author open claims** — numbered; **§5** falsifiable questions; **§6** TODOs; **Related**; **Keywords**; **Limits**.
+
+---
+
+## Author’s general thesis
+
+The text below **consolidates** the author’s earlier blockquoted sessions into a **single general thesis** (grammar and flow lightly edited; substance preserved). **Emotional stakes**—especially **anger** at how **indigenous time** is treated—are **part of the thesis**, not optional window dressing.
+
+### A. Deep time, calibration, and institutional closure
+
+Institutional geology is read as working from a **predetermined** picture of Earth—**corporate‑ and state‑curated** in practice—into which **every indigenous timeline** must be folded. Events are pushed to **millions or billions of years** on **thin conjecture**, while **radiocarbon** is treated publicly as if it **carried** that whole weight even where **other radiometric methods** do the heavy lifting. Where **annual, independent checks** (notably **dendrochronology**) **end**, the author holds that **calibration curves** and **substitute archives** become **load‑bearing** without a **second human memory line** of comparable resolution—so deep timelines **beyond the tree‑ring wall** are **under‑explained to lay publics** yet **socially mandatory**.
+
+That posture reads to the author as **dogmatic**: a **religion‑like** closure that punishes dissent through **reputation and distribution**—cancellation, deboosting, serial debunking, demonetization—more often than through patient adjudication. The moral charge is sharp: when **correlated indigenous** testimony is brushed aside as **make‑believe** while **uniformitarian deep time** is treated as **obvious**, the effect is **racist** in structure—**indigenous peoples** positioned as **liars about their own past**—even if no individual geologist intends that. On this read, the **fabricated** object is not **grandmother’s story** but the **paper Earth**: a **4.5‑billion‑year fossil** built from **models and authority**, **thin on the contested physics** the timeline elsewhere emphasizes.
+
+### B. Islands, petroglyphs, memory, and colonial instruction
+
+Across **islands worldwide**, **thousands of petroglyphs**—often described as **south‑facing** in the author’s framing—are treated as **durable memory**, indexing a **pre–Golden Age** visual order whose **exact carving dates** remain **unsettled** in the dossier. What *is* asserted is **continuity**: **indigenous islanders** are understood to carry a **full memory record** of **Earth history**, within which **volcano and island formation** are **ordinary events**—**witnessed**, then **settled** as **land became habitable**—until **catastrophe** or **colonialism** **broke lineages** and **attacked the media** (oral, ritual, rock) that held that record.
+
+The same **colonial world order** that **forced indigenous peoples** into **imperial institutions** and **dissolved prior tribal forms** is, on this thesis, the **motor** behind much **modern geology as a public project**: not because **every** basalt sample **must** be taken on **indigenous land** for **technical redundancy**—**any outcrop** could serve many mapping goals—but because **remote, indigenous‑marked places** are where **ancestral claims** are **loudest** and where a **state‑ and corporate‑backed “age of the rock”** **lands hardest on descendants’ obligation** to **believe elders**. The **strong form** is blunt: there is **no other honest motivation** for that **spectacle of dating**; the **weaker, testable form** is left to **§5–§6** (archives, permits, curricula, who is quoted as **informant** vs **object**). **Pitcairn** is offered as a **parable** of **prior Polynesian presence**, **marks on stone**, and **later replacement**—**memory interrupted**—not as proof that **every** lab shares one **conscious** intent.
+
+### C. How this dossier operationalizes the thesis (not endorsement of each clause as fact)
+
+- **Epistemic:** Treat **treering boundary + calibration dependence** as a **live weakness** in public justification, distinct from **every specialist’s** personal rigor.
+- **Moral / political:** Track where **indigenous time** is **ruled impossible** vs **selectively “validated”** when it **suits** risk or tourism narratives.
+- **Social:** Treat **platform punishment** and **debunk economies** as **data** in the **sociology of belief**, not as refutations.
+- **Colonial instruction (strong claim):** Register the author’s **causal** language; **split** it into **§4** open claims and **§5–§7** evidence hooks **before** upgrading to **documented finding**.
+
+**In-repo echo (not independent verification of the author’s intent claim):** The chronology hub already ties **Pacific petroglyphs** to **catastrophe / wipe** language and cites **Peratt**-class **Z‑pinch / rock art** work — see the **Z‑pinch aurora / petroglyphs** figure and surrounding paragraph on [Earth history timeline — chronology page](/history/chronology/page.md) (search in-page for **petroglyph** / **Peratt**).
+
+---
+
+## 1. Documented case forks (legend vs institutional chronology)
+
+### 1.1 Mount Fuji — “one night,” earthquake, 286 BCE motif
+
+**Legend / popular chronicle layer (secondary English summaries):**
+
+- A widely repeated **Buddhist / folk** dating motif places **Fuji’s appearance** in connection with an **earthquake** and **286 BCE** (sometimes linked narratively to **Lake Biwa** in English-language summaries). Examples: [“Tales of Fuji” — *A History of Japan*](https://historyofjapan.co.uk/2019/09/27/tales-of-fuji/) (2019); site wiki page [Mount Fuji — *A History of Japan*](https://historyofjapan.co.uk/wiki/mount-fuji/) (editorial wiki, not peer review).
+- A **woodsman / “Never-Dying Mountain”** tale (Fuji-yama appears overnight after underground noise) is circulated in English **mythography** summaries; treat as **folklore indexing**, not a dated primary chronicle: [“The Legend of the Never-Dying Mountain Fujiyama”](https://japanesemythology.wordpress.com/the-legend-of-the-never-dying-mountain-fujiyama/) (WordPress).
+
+**Institutional geology (contrast):**
+
+- **Volcanic substrate** of Fuji is dated on **geologic** (not “286 BCE”) timescales — see survey references in [Britannica — Mount Fuji](https://www.britannica.com/place/Mount-Fuji/Introduction) and general volcanic summaries. **Fork for the investigation:** either (A) legend encodes a **late-Holocene** eruptive or landslide **event** in mythic dress, or (B) legend preserves a **different chronology system** than plate-tectonic deep time — **not adjudicated here**.
+
+### 1.2 Hawaiian Islands — Pele, chain order, “remembered” basalt vs hotspot ages
+
+**Oral tradition / geology dialogue (mainstream “they agree” literature):**
+
+- USGS Hawaiian Volcano Observatory — [“Hawaiian oral tradition describes formation of Kīlauea’s caldera”](https://www.usgs.gov/observatories/hvo/news/volcano-watch-hawaiian-oral-tradition-describes-formation-kilaueas-caldera) (*Volcano Watch*, 22 Jan 2004) — frames **chant and story** as **consistent with** work on **~1500 CE** caldera formation and long eruptions (e.g. **ʻAilāʻau**).
+- Swanson, *Journal of Volcanology and Geothermal Research* (2008), DOI [10.1016/j.jvolgeores.2008.01.033](https://doi.org/10.1016/j.jvolgeores.2008.01.033) — academic bridge paper on **Kīlauea myths** vs **geologic reconstruction**; PDF mirror often cited: [Michigan Tech author copy](https://pages.mtu.edu/~raman/papers2/SwansonKilaueaMythsJVGR08.pdf).
+
+**Author’s Hawaiʻi fork (not the same as Swanson’s narrow Kīlauea window):**
+
+- Indigenous narrative of **Pele moving down-chain** is read here as **memory of recent formation** of **the chain as lived geography**, while **institutional ages** assign **millions of years** to northwestern islands. **Investigation task:** separate (i) **recent surface lava memory** (undisputed human observation possible), (ii) **mythic encoding of relative island age**, (iii) **absolute radiometric ages** for submerged/old shields — and tabulate **who claims impossibility** for whom.
+
+### 1.3 Methods reality check (avoids talking past each other)
+
+| Claim type | Typical method | Rough upper bound / role |
+|------------|----------------|---------------------------|
+| **Organic charcoal, wood, bone** in archaeological or young volcanic contexts | **Radiocarbon (C14)** | ~50 ka practical; needs **calibration** (IntCal); not used for **billions of years** |
+| **Crystallization age of basalt** (Hawaiʻi, Fuji basement) | **K-Ar, Ar-Ar,** sometimes **U-Pb** | **Millions of years** — **not** C14 |
+| **“Carbon in lava”** | If **charred organics** included in flow | C14 dates **the organic event**, not the **silicate crystallization**; **contamination / reservoir** debates apply |
+
+**Documented note:** The author sometimes **bundles C14 with “millions/billions” rock ages**. The dossier **splits** those methods so critics and defenders argue the **same object**. Deep-time **basalt** criticism targets **argon excess**, **open system**, **assumed initial daughter**, etc., not Libby chemistry.
+
+### 1.4 Comparative island traditions — volcanoes and “birth” of land
+
+**Purpose:** Expand beyond **Hawaiʻi** with **documented** traditions where **islands, mountains, or lava** are explained through **narrative** or **witnessed eruption memory**, so the investigation can test **cross-Pacific / archipelagic** pattern claims without assuming every row is the same kind of evidence.
+
+#### Motifs that recur (analytic labels — not proof of single event)
+
+| Motif | Examples below | Note |
+|-------|----------------|------|
+| **Fishing / lifting land** | Samoa, Tonga, wider Polynesian Maui cycle | Often **cosmic** actor + **hook** or **line**; sometimes mapped onto **real uplift / reef** by scholars |
+| **Throwing chips, stones, or bodies** | Tonga (Tangaloa, Hikuleʻo), Mayon (grave rises) | **Instant** landform change in story time |
+| **Fire under the land / siblings bring heat** | Māori (Ngātoroirangi, Te Hoata / Te Pupu), overlaps **Hawaiʻi Pele** lane | Strong **geothermal / volcanic** semantics |
+| **Spirit politics of the peak** | Java (Merapi, South Sea Queen axis) | **Hazard memory** encoded as myth; peer paper argues **real** volcano–earthquake coupling |
+| **Named historical witness + dating** | **Rangitoto** (~1400 CE) | Best **institutional** bridge: oral memory + archaeology + **RC / tephra** |
+
+#### Survey table (starter corpus — expand in §6)
+
+| Region / people | Tradition or corpus (short) | Volcano / island / landform | Tier‑note sources |
+|-----------------|----------------------------|-------------------------------|-------------------|
+| **Aotearoa (Māori)** | **Rangitoto**: ancestors **witnessed** the eruption; footprints in ash on Motutapu | Auckland **Rangitoto** scoria cone | [Te Ara — *Historic volcanic activity* (Rangitoto)](https://teara.govt.nz/en/historic-volcanic-activity/page-1); [volcanic eruptions map since 1300](https://teara.govt.nz/en/map/6824/volcanic-eruptions-in-new-zealand-since-1300) |
+| **Aotearoa (Māori)** | **Ngātoroirangi**; sisters **Te Hoata** and **Te Pupu** bring **fire** from Hawaiki — **geysers**, **hot pools**, **volcanoes** (e.g. Tongariro, Whakaari) | Central North Island **Taupō Volcanic Zone** | [Te Ara — *Whenua: how the land was shaped* (thermal / fire narrative)](https://teara.govt.nz/en/whenua-how-the-land-was-shaped/page-5); [Te Hoata and Te Pupu — music / story entry](https://teara.govt.nz/en/music/6733/te-hoata-and-te-pupu-bring-fire) |
+| **Hawaiʻi (Kānaka)** | **Pele** journey down chain; caldera / long eruption chants | Hawaiian chain, **Kīlauea** focus | Already **§1.2**; [USGS *Volcano Watch*](https://www.usgs.gov/observatories/hvo/news/volcano-watch-hawaiian-oral-tradition-describes-formation-kilaueas-caldera); [Swanson 2008 JVGR](https://doi.org/10.1016/j.jvolgeores.2008.01.033) |
+| **Tonga** | **Tangaloa** casts chips → first islands; **Hikuleʻo** throws stones → **volcanic** islands (e.g. Kao, Tofua, Fonualei); **Maui** fishhook for coral islands | **Tongatapu**, volcanic outliers | [Tongan mythology (Wikipedia summary)](https://en.wikipedia.org/wiki/Tongan_mythology); [Hikuleʻo](https://en.wikipedia.org/wiki/Hikule%CA%BBo) — treat as **secondary index**; chase **Gifford / Collocott** ethnographic primaries in §6 |
+| **Samoa** | **Tagaloa** rolls stones from heaven → **Savaiʻi** and **Upolu**; variants with **fishhook** | Two main high islands | [Tagaloa](https://en.wikipedia.org/wiki/Tagaloa) (overview + refs to **Turner**, *Samoa a hundred years ago*) |
+| **Philippines (Bikol etc.)** | **Daragang Magayon** legend: lovers’ grave **rises** → **Mayon** | **Mount Mayon**, Luzon | [Daragang Magayon](https://en.wikipedia.org/wiki/Daragang_Magayon); [Mayon Volcano](https://en.wikipedia.org/wiki/Mayon_Volcano) |
+| **Java (Javanese)** | **Merapi**–**South Sea Queen** axis; spirit lore tied to **Merapi–Opak–coast** line | **Mount Merapi** | Troll, Deegan, et al., *Geology Today* / Wiley: [“Ancient oral tradition… Merapi…”](https://doi.org/10.1111/gto.12350) (2015) — **mainstream** paper treating oral material as **hazard memory** with **tectonic** correlate |
+| **Iceland (Norse settlers)** | **Landnámabók** and lore name **Surtshellir** lava cave for **Surtr** (fire giant); eruption **~870s CE** in volcanic chronology | **Hallmundarhraun** lava field context | [Surtshellir](https://en.wikipedia.org/wiki/Surtshellir); [Landnámabók](https://en.wikipedia.org/wiki/Landn%C3%A1mab%C3%B3k) — **settler** narrative, not Pacific indigenous, but **same dossier question**: **recent lava** + **mythic nameplate** |
+
+#### Fiji (adjacent — **heat** cult, not island “birth”)
+
+- **Beqa / Sawau** **firewalking** origin stories (**veli** spirit grants walk on hot stones) — **sacred thermal** expertise tied to **one island** and lineage; useful for **“fire underfoot”** pattern comparisons, **not** a cosmogonic **fishing-up** of Fiji. See e.g. [Fiji Times — firewalking / Beqa](https://www.fijitimes.com.fj/walking-on-hot-stones/) (press; **low tier** for myth text — replace with **ethnography** when found).
+
+#### Correlation hooks for this repo
+
+- **Hawaiʻi (§1.2)** and **Māori fire-bringers** share a **Polynesian** grammar: **deity / ancestor** moves **fire** or **land** along a **path** (chain, isthmus, volcanic zone).
+- **Rangitoto** is the cleanest **“oral + archaeology agree on order of magnitude age”** case in the starter table — use it as a **control** when asking whether other rows are **witness memory**, **etiological myth**, or **mixed**.
+- **Merapi** shows **institutional science** sometimes **welcomes** oral tradition when framed as **risk**, while still dating **rock** to **deep time** elsewhere — **split epistemic posture** worth logging in the quote bank (§6).
+
+### 1.5 Petroglyphs, island memory, and Pitcairn (documented anchors for **Author’s general thesis §B**)
+
+**Author layer:** See **Author’s general thesis**, **§B** — **south‑facing** petroglyphs, **pre–Golden Age** memory frame, **full earth memory**, **colonial geology as persuasion**, **Pitcairn** parable.
+
+**Documented / institutional anchors (tiers mixed):**
+
+| Topic | What is citable now | Tier |
+|-------|---------------------|------|
+| **Rock art ↔ plasma / Z‑pinch hypothesis (global, not only islands)** | Peratt‑line literature and in‑repo index: [`cosmos/cosmology/saturnian/index-mythsarehistory.md`](/cosmos/cosmology/saturnian/index-mythsarehistory.md); IEEE/plasma **rock art** comparison cited from [chronology page](/history/chronology/page.md) | Hypothesis + repo routing |
+| **“Thousands” / island concentration / south aspect** | **Not** yet pinned in this dossier to a **single peer inventory** — treat as **author pattern claim** until a **site‑by‑site GIS aspect** study is attached in §6 | **Open TODO** |
+| **Pitcairn — prior Polynesian presence, petroglyphs, disruption** | Pacific Union College **Pre‑Mutineer** hub: [Pitcairn’s earlier history — LibGuide](https://puc.libguides.com/PISC-pre-mutineers); companion [pre‑mutineer history page](http://library.puc.edu/pitcairn/pitcairn/history-pre-mutineer.shtml) (Polynesian structures, tools, **rock drawings**; notes on **mutineer** arrival **1790**). [Pitcairn Island Museum](https://en.wikipedia.org/wiki/Pitcairn_Island_Museum) — collections context. | Educational / encyclopedia |
+
+**Correlation (author synthesis, not a closed proof):** **Petroglyph landscapes + oral volcano / island origin stories** are read as **layers of one memory system**; **colonial administration + mission + extractive science** as **successive passes** that **break lineage** and **substitute paper ages** for **place‑tied narrative**. The investigation **does not** yet equate every **geological expedition** with **conscious debunk** — it **logs** the author’s **uncompromising read** and **splits** testable **permit / archive / memoir** hooks into §5–§6.
+
+---
+
+## 2. Sources that privilege “science dating” over orality (or negotiate tension)
+
+- Mason, *American Antiquity* — [“Archaeology and Oral Tradition: The Scientific Importance of Dialogue”](https://www.cambridge.org/core/journals/american-antiquity/article/abs/archaeology-and-oral-tradition-the-scientific-importance-of-dialogue/D7C20956B3FB216D7148F85BBD5627CB) — canonical **dialogue** frame: oral sources as **evidence class**, not mere myth (still **disciplinary** archaeology centric).
+- National Park Service technical brief — [PDF: Native American oral tradition and archaeology](https://www.nps.gov/subjects/ncptt/upload/1994-02b.pdf) — **1990s** issues of **structure, relevance, respect** (integration politics).
+- *Radiocarbon* journal — [“We’re All Cultural Historians Now…”](https://www.cambridge.org/core/journals/radiocarbon/article/abs/were-all-cultural-historians-now-revolutions-in-understanding-archaeological-theory-and-scientific-dating/A47839251E1B54BCFBE613630A574EA7) — how **dating tech** reshaped **what counts as history**.
+
+These are **not** “smoking gun racism” papers; they are **institutional** texts the investigation uses to show **default hierarchies** the author disputes.
+
+---
+
+## 3. Critics of geochronology / calibration (selected online entry points)
+
+### 3.1 Radiocarbon beyond annual tree rings (mainstream technical = partial ally)
+
+- IntCal20 construction — [Reimer et al., *Radiocarbon* IntCal20 methodology](https://doi.org/10.1017/RDC.2020.41) (2020); **extensions beyond** continuous tree-ring coverage use **corals, speleothems, macrofossils, varves**, etc. (see overview discussion in Cambridge IntCal20 special-issue papers, e.g. [marine reservoir note](https://doi.org/10.1017/RDC.2020.90)).
+- **Marine reservoir / Marine20** — community Q&A style response: [Heaton et al., *Radiocarbon*](https://doi.org/10.1017/RDC.2021.59) — documents **spatial/temporal variability** that feeds **modelling**, not naive counting.
+
+**Investigation use:** these sources **support the author’s narrow technical point** (beyond treering, **curve shape** depends on **non-annual archives and models**) **without** adopting the author’s broader **funding / dogma** claims.
+
+### 3.2 Potassium-argon / argon-argon on basalts (young-Earth critic entry; mainstream rebuttal)
+
+- **ICR** — [“Excess argon” as “Achilles’ heel” of K-Ar / Ar-Ar on volcanic rocks](https://www.icr.org/article/8486) — compiles **anomalous old dates** on **historically observed** lava (claims include **Hawaiʻi** examples); **tier:** advocacy org, **not** independent replication summary in-file.
+- **Old Earth.org** — [“Creation Science Rebuttals — Woodmorappe’s shotgun attack on argon dating”](https://www.oldearth.org/shotgun.htm) — **mainstream-facing** rebuttal to **excess-argon** compilations; documents **Ar-Ar isochron / plateau** defenses.
+
+### 3.3 Electric Universe / catastrophist radiometry skepticism (repo-adjacent)
+
+- In-repo: [Radiocarbon dating investigation — §2, Wal Thornhill quotation](/history/chronology/investigations/radiocarbon-dating-investigation.md) — **transmutation / discharge** challenges to **steady assumptions**.
+
+### 3.4 Shroud of Turin (author’s analogy: disputed C14 “consensus”)
+
+- Wikipedia overview (convenience hub): [Shroud of Turin — dating section](https://en.wikipedia.org/wiki/Shroud_of_Turin#Dating) — **1988 C14** vs ongoing **method / contamination** disputes; useful as **“single primary numeric vs contested interpretation”** parallel **only**.
+
+---
+
+## 4. Author’s open claims (registry — not proven here)
+
+1. **Corporate / state curation** systematically **predetermines** Earth age and **forces** indigenous timelines into deep time **without** independent non-circular checks.
+2. **Hawaiian memory** of **raw lava** and **chain formation** is **incompatible** with **institutional** million-year island ages **if** both are read **literally** on the **same calendar layer**.
+3. **C14** is rhetorically treated as **backbone** for public “science says” messaging even where **K-Ar / cosmogenic / other** methods do the work — **public confusion** is **strategic or negligent** (author view).
+4. **Social sanctions** (cancellation, demonetization, algorithmic deboost) **replace** argument for **outsiders** — **documented as sentiment**; **case-by-case URLs** still needed in §6.
+5. **Island petroglyphs** (often **south‑facing**, worldwide in the **thousands**) encode **pre–Golden Age** visual memory; **indigenous islanders** therefore hold a **complete Earth history** in which **island and volcano formation** are **recent enough to witness** and **migrate into** — not **deep‑time** background noise.
+6. **Colonial world order** (same motor that **dissolved tribal systems**) **launched or steered** “**new geology**” so its **output** would **systematically undermine** indigenous belief — **remote rock dating** is **redundant as science** if the only goal were a **planet‑scale** age curve; the **author reads redundancy** as **rhetorical cover** for **intergenerational persuasion** on **indigenous ground**.
+7. **Field geochronology on indigenous land** is **primarily** **mind‑change toward descendants**, backed by **state / corporate** prestige — **“no other motivation”** in the **strong author form**; **weaker falsifiable form:** disproportionate **narrative use** of those dates in **education / courts / permits** vs **any** technical need for **that** outcrop.
+8. **Pitcairn** exemplifies **replacement + partial destruction of prior marks** + **new population story** — a **parable** for how **imperial time** sits on **indigenous place‑memory**.
+
+---
+
+## 5. Questions to clarify, verify, or debunk
+
+| # | Question | What would falsify / strengthen |
+|---|----------|----------------------------------|
+| Q1 | Is **286 BCE** tied to a **named premodern Japanese text**, or mostly **English-language secondary** synthesis? | Locate **primary chronicle** line + translator chain |
+| Q2 | For **Hawaiʻi**, what is the **strongest indigenous statement** (source, lineage, publication) that **islands rose** on **human** (not mythic) timescales? | Ethnographic primary + community authorship |
+| Q3 | Are **Hualālai / Kīlauea** “million-year” K-Ar anecdotes **documented outside ICR**? | Peer-reviewed **failed dating** case study or lab memo |
+| Q4 | Where do **geologists** or **popularizers** **explicitly** call **indigenous time** “impossible” vs **quietly** map myth to deep time? | Quote table with URL |
+| Q5 | **IntCal** segments: where does **1σ** width blow out relative to **calendar** events the timeline cares about? | Extract from IntCal graphs for key windows |
+| Q6 | Is there a **published inventory** of **island** petroglyphs with **aspect / orientation** statistics (**south‑facing** claim)? | GIS archaeology paper or regional synthesis |
+| Q7 | For **Pitcairn** (or another **paired** case), do **mission / colonial / survey archives** show **explicit** intent to **contradict** indigenous **time** claims, vs **resource mapping** only? | Primary letters, reports, curricula |
+
+---
+
+## 6. Weak points / remaining research TODOs
+
+- [ ] Build **two-column quote bank**: **indigenous / ally sources** vs **skeptical / dismissive** mainstream lines (with URLs).
+- [ ] Add **Japanese-language** primary references for **Fuji origin** myths (286 BCE trail).
+- [ ] Add **Kanaka Maoli** authored or **UH-ethnography** sources on **Pele** not filtered only through USGS “validation” framing.
+- [ ] Separate **author’s “C14 for billions”** wording from **methodologically accurate** critique (**which method, which sample matrix**).
+- [ ] Optional: **funding map** (NSF, USGS, oil/mineral surveys) as **separate table** — **claims about “corporate curated conclusion”** need **specific grants / panels** if upgraded from **sentiment** to **finding**.
+- [ ] **§1.4 expansion:** Primary ethnography for **Tonga / Samoa** (Collocott, Gifford, Turner), **Vanuatu** (Ambrym place–myth corpus, e.g. **Rio** ethnography), **Maluku / Banda**, **Taiwan Indigenous** volcanic toponyms; add rows only with **citable line + tier**.
+- [ ] **§1.5 — Petroglyphs:** Build **table**: region / island or archipelago / count estimate / citation / **aspect** if published; relate to **Peratt** IEEE parts I–II (URLs already on [chronology page](/history/chronology/page.md)) without **merging** author **intent** claims into **Peratt’s** physics claims.
+- [ ] **§1.5 — Colonial instruction thesis:** Case files (brief): **who funded**, **who permitted**, **who was quoted** as “informant,” **how dates entered school texts** — **per site** (Hawaiʻi, NZ, Pacific atolls, etc.) to test claim **6–7** without asserting **universal conscious conspiracy** unless sourced.
+
+---
+
+## Related investigations (paradigm-threat-files)
+
+| File | Relation |
+|------|----------|
+| [Radiocarbon dating investigation](/history/chronology/investigations/radiocarbon-dating-investigation.md) | C14 dogma, electrical activity, Libby assumptions; links to timeline instant fossilization |
+| [Indigenous creation dates](/history/chronology/investigations/indigenous-creation-dates.md) | Creation-cycle chronology survey (Mesoamerican, global); **pair** this dossier’s **place-origin / geology clash** with that file’s **cosmogonic dates** |
+| [Creation event interpretations](/history/chronology/investigations/creation-event-interpretations.md) | Cross-tradition creation ordering — **myth layer** the timeline reads as **witnessed sky history** |
+| [Golden Age event dates](/history/chronology/investigations/golden-age-event-dates.md) | Talbott sequence, **4077 BCE** class anchors — **“dark ages of creation” / world settling** language in the author thesis rhymes with this lane |
+| [Illig–Fomenko boundary](/history/chronology/investigations/illig-fomenko-boundary.md) | Phantom time vs NC — **where “official” years** are argued **fabricated or doubled** |
+| [Fomenko NC — verification & accessibility](/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.md) | **Scaligerian** weight and mainstream rejection — **calibration circularity** (see also [Common Questions Q1](/history/common-questions.md#q1-does-modern-chronology-rest-on-independent-science-or-does-it-ultimately-depend-on-the-framework-created-by-scaliger-and-the-church)) |
+| [Wuxing and the Five Planets](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) | **Dark Ages** observational record vs **institutional** periodization — parallel **“indigenous / early record vs textbook time”** fight |
+| [MFEE investigation](/history/mudflood/investigations/mfee-investigation.md) | **Single-catastrophe** and energetic **geology** readings — **deep-time as cover** motif |
+| [New World naming, MFEE, colonization memory](/history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md) | **Toponym + myth + geology** (e.g. Zealandia) — method for how **narrative** meets **official earth science** |
+
+### Paradigm Threat Timeline cross-reads
+
+Root-relative `/timeline/evt-…` links match how **paradigm-threat-timeline** `content/` is served beside **paradigm-threat-files** on **paradigmthreat.net**; see **paradigm-threat-files** [`docs/LINKING_AND_SITE_PATHS.md`](/docs/LINKING_AND_SITE_PATHS.md) and **paradigm-threat-timeline** `docs/CONTENT_MARKDOWN_STYLE.md` (timeline repo).
+
+| Timeline article | Why it touches this investigation |
+|------------------|-----------------------------------|
+| [Instant fossilization & electric](/timeline/evt-instant-fossilization-electric) | **Gradualist geology** vs **catastrophic / electrical** rock and fossil formation — same **“millions of years”** pressure-release the author names |
+| [The MudFlood & world cataclysm](/timeline/evt-the-mudflood-world-cataclysm) | **1774-cluster** catastrophic geology; institutional **deep time** as narrative **cover** |
+| [Core concepts](/timeline/evt-core-concepts) | Propositions tying **cosmology** to **how “history” and “prehistory” are sliced** |
+| [The Golden Age](/timeline/evt-4077-bce-the-golden-age) | **End of creation / stabilization** window — author explicitly tied **Fuji legend** to “dark ages of creation **when the world was settling**” |
+| [Before creation](/timeline/evt-before-creation) | Cosmogony book lane — **indigenous Q3** citations in [Common Questions](/history/common-questions.md) point here |
+| [Wuxing and the Five planets](/timeline/evt-wuxing-five-planets-five-elements) | **Observational** indigenous-class record vs **later** four-element reduction |
+| [Authors challenging the mainstream timeline](/timeline/evt-authors-challenging-chronology) | **Scaliger / chronology critique** roster — **upstream** of any “dates are political” read |
+
+**Hub:** [Earth history timeline / chronology page](/history/chronology/page.md) — master links into Saturnian narrative; pair with this dossier for **legendary land dates** vs **radiometric earth**.
+
+---
+
+Keywords: #IndigenousLegends #Geochronology #Radiocarbon #Dendrochronology #OralTradition #MountFuji #HawaiiVolcanism #ParadigmThreatFiles #IntCal #KArDating #PacificMythology #IslandOrigins #Petroglyphs #ColonialGeology
+
+**Last updated:** 2026-04-30
+
+---
+
+## Limits and disclaimers
+
+- **Evidence tiers:** Folklore blogs and editorial wikis are **convenience** for **English-language motif tracking**, not **primary history**. **USGS / JVGR / IntCal** are **institutional or peer** tiers. **ICR** and similar are **labeled advocacy**. Do not merge tiers in argument without saying so.
+- **Author thesis (opening section) is first-class voice, not automatic fact:** funding monoculture, racism-as-effect, “all made up,” and **§B** **strong causal language** (“**no other motivation**,” **geology as mind‑change mission**) are **moral–epistemic accusations** that may be **partially supported**, **partially unsupported**, or **contested** per item; this file **registers** them and **tables** verification hooks. Treat **§B** **strong form** as **author pattern thesis** until §6 **per‑campaign** evidence (**Q7**) is attached — **do not** merge with **Peratt rock‑art physics** or **mainstream dating QA** as if they were **one** claim.
+- **No blanket endorsement** of **young-Earth** or **EU** physics here: links are **for the investigation’s** “who said what” map.
+- **Cross-thematic rhymes** (Shroud, Catholic dispute) are **analogies**, not proofs that **Hawaiʻi basalt** is **dated by C14**.
+
+### Investigator notes (maintainers / LLMs)
+
+- Regenerate site index after substantive edits: from repo root, `npm run autogen` (keywords lint + index).

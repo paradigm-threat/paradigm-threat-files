@@ -85,6 +85,8 @@ Electric Universe theorists argue that radiometric dating assumes a uniformitari
 
 Our position is that carbon-14 dating became the primary means of rewriting Earth's natural history during the war-time scientific revolution, and that the "convergence" of dating methods is an artifact of mutual calibration against Scaligerian assumptions rather than genuine independence.
 
+Long-form dossier (physical methods **plus** indigenous legendary **place dates** vs geochronology, IntCal beyond treering, K-Ar critic entry points): [Indigenous legends vs. geologic deep-time investigation](/history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md).
+
 **Citations:**
 - *Radio-Carbon-Dating Q&A* — paradigm-threat-files/history/chronology/history-qa
 - *Electric Fossils and Thundercrabs* — Wal Thornhill interview (Thunderbolts Project)
@@ -121,6 +123,8 @@ Furthermore, the Saturn theory holds that ancient myth and ritual typically comm
 - *Eridu Genesis* (Sumerian/Mesopotamian) — Creation tradition; Inanna identified with Venus at the dawn of the historical period (c. 3300 BCE).
 
 **Project citations:**
+- [Indigenous legends vs. geologic deep-time investigation](/history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md) — where **oral land-memory** (e.g. volcanism, island chain order) collides with **institutional deep-time**; pair with Q2 on **dating independence**
+- [Indigenous creation chronologies investigation](/history/chronology/investigations/indigenous-creation-dates.md) — survey lane for **explicit creation/cycle dates** (Popol Vuh, etc.)
 - *The Saturn Theory* — Ev Cochrane
 - *The Saturn Myth* — David Talbott
 - *Before Creation* — paradigm-threat-timeline/events/bce-5000

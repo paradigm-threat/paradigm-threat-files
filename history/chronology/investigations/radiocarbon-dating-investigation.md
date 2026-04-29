@@ -268,6 +268,7 @@ The "convergence" of dating methods is an artifact of mutual calibration against
 
 ### Paradigm Threat Sources
 - [Common Questions About Alternate Chronology](/history/common-questions.md) — Q2: Physical dating methods
+- [Indigenous legends vs. geologic deep-time](/history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md) — oral / legendary **place dates** vs **geochronology**; IntCal beyond treering; K-Ar critic corpus; **Hawaiʻi / Fuji** forks
 - [History Q&A](/history/chronology/history-qa/page.md) — Carbon-14 dating critique
 - [Instant Fossilization Article](/timeline/evt-instant-fossilization-electric) — Peter Mungo Jupp, E.R. Milton
 - [Core Concepts](/timeline/evt-core-concepts) — Proposition 6
