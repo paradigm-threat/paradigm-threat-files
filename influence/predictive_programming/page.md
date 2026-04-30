@@ -103,6 +103,12 @@ Predictive programming presents AI in a very dim light: humans rely on robots as
 
 ---
 
+## Currency reset — *The Animatrix* (*The Second Renaissance*, 2003)
+
+*Matrix* ancillary fiction is indexed here when it **rehearses macro financial stress → siege → war** grammar that rhymes with **Iraqi dinar / GCR / “RV”** (revaluation) waiting rooms—not as proof of intent, but as **predictive programming** data. *The Animatrix* episode *The Second Renaissance* shows the machine nation (01) winning **economic autonomy**; the human coalition responds with **trade war and blockade**, then **Operation Dark Storm** and **total war**, ending in **surface ecological ruin**. The [Great Awakening / dinar–GCR investigation](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) **§3.3.4** states the author’s **allegorical** read (competitor settlement pole vs. reserve-currency West), notes how **retail** revaluation copy sells **universal upside** while macro fear layers argue **gold- or commodity-backed** alternatives would **stress** USD **reserve** circuits, and records **esoteric** “gold is not elementary Au” basin folklore with a **periodic-table caveat**. Plot anchor: [Wikipedia — *The Second Renaissance*](https://en.wikipedia.org/wiki/The_Second_Renaissance).
+
+---
+
 ## Investigations Index
 
 ### Fiction Encoding (Authors and Genres)
@@ -167,6 +173,7 @@ Media identified as containing predictive programming by external sources or our
 | *Stargate* | 1994 | Pyramid as portal; "ancient aliens" capture of pyramid function. | Ours |
 | *Terminator* | 1984 | AI takeover; machines assume rulership. | Ours, Common |
 | *The Matrix* | 1999 | "Resistance" as prepackaged control; Neo's passport expires 11 Sept 2001. | Ours, Carleton, Wikispooks |
+| *The Animatrix* — *The Second Renaissance* | 2003 | Machine nation economic autonomy → human blockade / trade war → scorched-sky escalation → ruined biosphere; rhymes with dinar/GCR / parallel-settlement stress ladder ([Great Awakening §3.3.4](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md)). | Ours |
 | *Tron* | 1982 | Digital reality; programs as entities; esoteric computing. | Jay Dyer |
 | *Total Recall* | 1990 | Mars pyramids; humans explode in Martian atmosphere. | Ours |
 | *V for Vendetta* | 2006 | Resistance allegory (Wikispooks: Hollywood-injected dissent). | Wikispooks |
@@ -314,7 +321,7 @@ Media identified as containing predictive programming by external sources or our
 
 ---
 
-Keywords: #Predictive #Programming
+Keywords: #Predictive #Programming #Animatrix #SecondRenaissance #GreatAwakening #IraqiDinar #GCR #Revaluation
 
 ---
 
