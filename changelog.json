@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-30T11:23:20.381Z",
+    "date": "2026-04-30T11:34:55.365Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/what-are-you-waiting-for.md",
+        "href": "/influence/controlled_opposition/what-are-you-waiting-for"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/what-are-you-waiting-for.png",
+        "alt": "What Are You Waiting For? — deferral, headlines, calm-by-waiting (article art)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-30T11:23:19.000Z",
+    "message": "Add What Are You Waiting For reader essay, hero PNG, and related repo updates.",
     "files": [
       {
         "status": "M",
@@ -1670,12 +1688,5 @@
         "alt": "Mars Exploration 1984 — PDF digest companion figure"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T22:55:38.000Z",
-    "message": "changelog: regenerate without (staged) stub.",
-    "files": [],
-    "images": []
   }
 ]
