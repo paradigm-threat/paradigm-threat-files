@@ -1,11 +1,13 @@
-# Investigation: “Great Awakening” / Alien Savior / RV / Lightworker Cluster — Controlled Opposition and the Human “Reset” Thesis
+# Investigation: “Great Awakening” / Alien Savior / Revaluation (Dinar) / Lightworker Cluster — Controlled Opposition and the Human “Reset” Thesis
 
 ![“Great Awakening” cluster illustration — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); see Limits and disclaimers](great-awakening-alien-savior-rv-nwo-cluster-investigation.png)
 
-> **TL;DR:** Case file treating the online convergence of David Wilcock–style disclosure, “Great Awakening” spirituality, lightworker / starseed / frequency language, Iraqi dinar–style “RV” (global currency reset) lore, *Ancient Aliens*–style extraterrestrial historiography, and adjacent Q / “white hats” / tribunals memes as a **single recruitment basin** for **managed dissent**—not proven as one operation, but **structurally** similar: it promises redemption through non-human or occulted benefactors and patience, while the same arc names a macro financial “reset” aligned with the **WEF Great Reset camp** (**§3.2**, **§3.3.1**). **Author hard-power corollary:** U.S.-led destruction of Iraq (1991 / 2003) and Libya (2011) and of gold / settlement forks is read as fear of a parallel financial reset outside that camp (timeline **§3.3.2**). WEF-style public programs advance human long-horizon governance rebrands in parallel. **Pre-Q rhymes:** [Benjamin Fulford](https://benjaminfulford.net/about/)-style weekly “secret war” / mass-arrest forecasting; Drake Bailey × Wilcock ([Divine Cosmos transcript](https://divinecosmos.com/davids-blog/1043-massarrests/)); **§3.7** QAnon (“Trust the plan,” Storm) as the same grammar at scale. **Cable parallel:** *Conspiracy Theory with Jesse Ventura* ([Wikipedia](https://en.wikipedia.org/wiki/Conspiracy_Theory_%28TV_series%29)). **Author conclusion (pattern):** the beneficiaries of any real “reset” are terrestrial power networks (deep state / NWO vocabulary in repo idiom), **not** aliens; the alien–savior lane may cover hypotheses the repo treats separately—e.g. a human breakaway presence associated with Mars that is **neither ancient nor benevolent** ([Mars / deep state hub](/cosmos/mars/page.md)). Cross-read: [Etana / “Ancient Aliens” trap](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md), [Urantia CO + PP](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md), [Artemis II debunk-vs-conspiracy trough](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md), [Occupy OWS CO thesis](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md), [QAnon CO hub](/influence/controlled_opposition/00).
+> **TL;DR:** Case file treating the online convergence of David Wilcock–style disclosure, “Great Awakening” spirituality, lightworker / starseed / frequency language, Iraqi dinar–style **revaluation** (global currency reset) lore — promoters often type **“RV”** in forums; that is **not** intelligence-community **remote viewing** ([Mars 1984 worksheet](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)) — *Ancient Aliens*–style extraterrestrial historiography, and adjacent Q / “white hats” / tribunals memes as a **single recruitment basin** for **managed dissent**—not proven as one operation, but **structurally** similar: it promises redemption through non-human or occulted benefactors and patience, while the same arc names a macro financial “reset” aligned with the **WEF Great Reset camp** (**§3.2**, **§3.3.1**). **Author hard-power corollary:** U.S.-led destruction of Iraq (1991 / 2003) and Libya (2011) and of gold / settlement forks is read as fear of a parallel financial reset outside that camp (timeline **§3.3.2**). WEF-style public programs advance human long-horizon governance rebrands in parallel. **Pre-Q rhymes:** [Benjamin Fulford](https://benjaminfulford.net/about/)-style weekly “secret war” / mass-arrest forecasting; Drake Bailey × Wilcock ([Divine Cosmos transcript](https://divinecosmos.com/davids-blog/1043-massarrests/)); **§3.7** QAnon (“Trust the plan,” Storm) as the same grammar at scale. **Cable parallel:** *Conspiracy Theory with Jesse Ventura* ([Wikipedia](https://en.wikipedia.org/wiki/Conspiracy_Theory_%28TV_series%29)). **Author conclusion (pattern):** the beneficiaries of any real “reset” are terrestrial power networks (deep state / NWO vocabulary in repo idiom), **not** aliens; the alien–savior lane may cover hypotheses the repo treats separately—e.g. a human breakaway presence associated with Mars that is **neither ancient nor benevolent** ([Mars / deep state hub](/cosmos/mars/page.md)). Cross-read: [Etana / “Ancient Aliens” trap](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md), [Urantia CO + PP](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md), [Artemis II debunk-vs-conspiracy trough](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md), [Occupy OWS CO thesis](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md), [QAnon CO hub](/influence/controlled_opposition/00).
 
 **Date:** 2026-04-23  
 **Status:** Open — pattern synthesis and author stakes are first-class; **no** single agency running the whole cluster is claimed as fact here.
+
+**Terminology:** This file centers **currency revaluation** (Iraqi dinar / GCR / NESARA–style waiting-room economy). That scene abbreviates **revaluation** as **“RV”** in chat — unrelated to CIA **remote viewing**, also abbreviated “RV” elsewhere in the repo ([1984 Mars remote-viewing investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)).
 
 ---
 
@@ -13,7 +15,7 @@
 
 1. **§1** — What this file is / is not (scope, evidence tiers).  
 2. **§2** — The cluster (entities, pipes, how nodes fuse).  
-3. **§3** — Case studies: *Ancient Aliens*, WEF “Great Reset,” RV/dinar (**§3.3.1–3.3.3** Iraq/Libya / financial reset read + timeline + gold conclusion), Wilcock, **§3.5** Fulford / Drake / Ventura, **§3.6** missing/dead scientists (**§3.6.6**), **§3.7** QAnon.  
+3. **§3** — Case studies: *Ancient Aliens*, WEF “Great Reset,” revaluation / dinar (**§3.3.1–3.3.3** Iraq/Libya / financial reset read + timeline + gold conclusion), Wilcock, **§3.5** Fulford / Drake / Ventura, **§3.6** missing/dead scientists (**§3.6.6**), **§3.7** QAnon.  
 4. **§4** — Mechanics (psychographics, rewarded behaviors, guru / insider avatar).  
 5. **§5** — Cover vs truth — Mars breakaway rhymes (repo cross-links).  
 6. **§6** — Two “resets” — spiritual waiting room vs Davos branding.  
@@ -31,9 +33,9 @@
 
 This investigation names a **cultural object**: the algorithmic and social graph where spiritually burned-out, state-skeptical, and future-pessimistic audiences meet disclosure entertainment, currency fantasies, and politics-as-script narratives.
 
-**What “controlled opposition” means here (outcome-first):** The phrase is **not** reserved for proven paid agents. In this file it marks narrative structures whose steady-state behavior is often indistinguishable from **containment**: hope is routed off electoral and labor institutions, risk is personalized as vibration or intel drops, and agency is outsourced to occulted rescuers (military tribunals soon, Galactic Federation soon, RV window soon). Emergent capture (grifters + platforms + audience desire) can produce the same curve as deliberate CO without a single director.
+**What “controlled opposition” means here (outcome-first):** The phrase is **not** reserved for proven paid agents. In this file it marks narrative structures whose steady-state behavior is often indistinguishable from **containment**: hope is routed off electoral and labor institutions, risk is personalized as vibration or intel drops, and agency is outsourced to occulted rescuers (military tribunals soon, Galactic Federation soon, revaluation window soon). Emergent capture (grifters + platforms + audience desire) can produce the same curve as deliberate CO without a single director.
 
-**In scope:** Pattern language, documented show/franchise and policy branding, fraud complaints and press on RV schemes, public statements and third-party reporting on named influencers, and repo hypotheses about what such patterns may obscure.
+**In scope:** Pattern language, documented show/franchise and policy branding, fraud complaints and press on revaluation / dinar schemes, public statements and third-party reporting on named influencers, and repo hypotheses about what such patterns may obscure.
 
 **Out of scope (here):** Proving Wilcock, Gaia, History Channel, or WEF hold standing meetings; proving every dinarian forum moderator is on payroll; resolving every UAP case.
 
@@ -50,11 +52,11 @@ The table below is a schematic. In practice, edges blur: Q readers also hold din
 | **“Great Awakening”** (meme bundle) | Consciousness / justice wave; hidden war between good and evil | Wait for the event / the plan |
 | **David Wilcock** (public career) | Insider “intel,” Law-of-One-flavored cosmology, disclosure timing, occasional Pentagon-flavored “mass arrest” briefings (see §3.4–3.5) | Episodic updates; insider chain; transcript culture |
 | **Lightworkers / starseeds / indigos** | Personal frequency change heals collective trauma | Inner work substitutes for coalition politics |
-| **RV / GCR / NESARA-style** lore | Sudden wealth redistribution after “reset” | Hold currency; NDA fantasy; tiered “intel”; moving date |
+| **Revaluation / GCR / NESARA-style** lore (forums often say “RV”) | Sudden wealth redistribution after “reset” | Hold currency; NDA fantasy; tiered “intel”; moving date |
 | *Ancient Aliens* / “AA” culture | Non-human explanation for anomalies | Stops at aliens; crowds out human agency and other chronologies |
 | **Q-adjacent** “military tribunals” etc. | Punishment of cabal imminent | Trust the plan |
 
-**Bridge phrases (observed in the wild):** “elevating the human race to a higher frequency,” “downloads” / “knowledge from higher beings,” “benevolent Galactic Federation,” “solar flash,” “for humanity” attached to macroeconomic miracles, “operation Green Light,” “RV any minute.”
+**Bridge phrases (observed in the wild):** “elevating the human race to a higher frequency,” “downloads” / “knowledge from higher beings,” “benevolent Galactic Federation,” “solar flash,” “for humanity” attached to macroeconomic miracles, “operation Green Light,” “RV any minute” (revaluation-window hype; **not** remote viewing).
 
 **Fusion mechanics (why it feels like one “map”):** Shared villain (cabal, BIS, Fed, deep state), shared savior (white hats, Sphere Beings, Jesus ship soon), shared temporality (imminent flip). Once those three match, content from disparate authors interlinks naturally in feeds without central authorship.
 
@@ -62,9 +64,9 @@ The table below is a schematic. In practice, edges blur: Q readers also hold din
 
 ---
 
-## 3. Case studies, public “products,” and author read — Iraq, Libya, RV, resets
+## 3. Case studies, public “products,” and author read — Iraq, Libya, revaluation, resets
 
-This section pairs what is on the record (shows, regulators, press, dates) with Paradigm Threat’s read of why the Great Awakening / RV / NESARA–GCR channel economy matters: those CO-shaped feeds name and rehearse a macro financial “reset” in lockstep with a clearly defined Davos / WEF “Great Reset” camp (**§3.2**)—globalist and anti-national-sovereignty in effect, whatever party holds the White House. The author treats U.S.-led destruction of Iraqi and Libyan governments (1991 / 2003; 2011) and of their gold, settlement, and parallel-currency vectors as driven—not exclusively, but substantially—by fear of a competing financial reset outside Anglo-American preference (**§3.3.1–§3.3.4**). Evidence-tier hedges and mono-cause caveats sit in **Limits and disclaimers**.
+This section pairs what is on the record (shows, regulators, press, dates) with Paradigm Threat’s read of why the Great Awakening / revaluation / NESARA–GCR channel economy matters: those CO-shaped feeds name and rehearse a macro financial “reset” in lockstep with a clearly defined Davos / WEF “Great Reset” camp (**§3.2**)—globalist and anti-national-sovereignty in effect, whatever party holds the White House. The author treats U.S.-led destruction of Iraqi and Libyan governments (1991 / 2003; 2011) and of their gold, settlement, and parallel-currency vectors as driven—not exclusively, but substantially—by fear of a competing financial reset outside Anglo-American preference (**§3.3.1–§3.3.4**). Evidence-tier hedges and mono-cause caveats sit in **Limits and disclaimers**.
 
 ### 3.1 *Ancient Aliens* (History Channel / A+E Networks)
 
@@ -82,13 +84,13 @@ This section pairs what is on the record (shows, regulators, press, dates) with 
 
 **Analytic point for this file:** The spiritual disclosure scene often uses “reset” and “awakening” language in parallel to Davos branding without sharing a mailing list. **Lexical overlap** still matters politically: both discourses train populations to think in epochal breaks rather than incremental accountability mechanisms (budget votes, union contracts, FOIA coalitions, local elections).
 
-### 3.3 RV / GCR / dinar — what promoters mean, how it works, and documented harm
+### 3.3 Revaluation / GCR / dinar — what promoters mean, how it works, and documented harm
 
 **Vocabulary:**
 
-- **RV** (*revaluation*): the claim that one or more currencies (classically the Iraqi dinar, IQD) will revalue upward by orders of magnitude, instantly enriching holders.  
+- **Revaluation** (dinar / GCR scene; chat shorthand **“RV”** — **not** [remote viewing](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)): the claim that one or more currencies (classically the Iraqi dinar, IQD) will revalue upward by orders of magnitude, instantly enriching holders.  
 - **GCR** (*global currency reset*): a macro myth in which many currencies reprice together, often tied to gold or a new financial architecture.  
-- **NESARA / GESARA** (internet lore): a bundle of legends about secret laws, debt forgiveness, and “prosperity packages”—frequently pasted onto RV chat rooms even when no verifiable statute matches the fantasy text.
+- **NESARA / GESARA** (internet lore): a bundle of legends about secret laws, debt forgiveness, and “prosperity packages”—frequently pasted onto revaluation chat rooms even when no verifiable statute matches the fantasy text.
 
 **Mechanics (generic scam pattern, not investment advice):**
 
@@ -97,7 +99,7 @@ This section pairs what is on the record (shows, regulators, press, dates) with 
 3. Rolling windows: banks “on alert,” “800 numbers” imminent, “rates on screens” then pulled—each failure re-explained as cabal interference or need for more prayers / higher frequency.  
 4. Community identity: years of shared waiting produce sunk social cost; exit feels like betraying friends.
 
-**Why this belongs beside “disclosure” and Q:** Same imminent-flip grammar, same insider chain, same villain (deep state blocked the RV again). Dinar forums and UFO disclosure channels overlap in audience graphs empirically (platform-dependent; **§9** asks for measurement).
+**Why this belongs beside “disclosure” and Q:** Same imminent-flip grammar, same insider chain, same villain (deep state blocked the revaluation again — forums: “they blocked the RV”). Dinar forums and UFO disclosure channels overlap in audience graphs empirically (platform-dependent; **§9** asks for measurement).
 
 **Documented controversy — law, regulators, press:**
 
@@ -106,21 +108,21 @@ This section pairs what is on the record (shows, regulators, press, dates) with 
 - **CFTC** — administrative law judge opinion re Dinar Corp. (2020) (fraud findings in commodity / forex adjacent marketing): [CFTC ALJ opinion PDF](https://www.cftc.gov/media/3481/enfdinarcorpincopinion021420/download).  
 - Trade press summaries of persistent false claims around IQD (useful for claim inventory, not as sole authority): e.g. [Iraq Business News — “The Iraqi Dinar Revaluation Scam”](https://www.iraq-businessnews.com/2024/08/29/the-iraqi-dinar-revaluation-scam-false-hope-financial-deception/).
 
-**Counter-narrative (honest dinar holders’ point):** Iraq is a real country with a real central bank; exchange rates move for macro reasons unrelated to forum intel. Small legal currency purchases as souvenirs or speculation are **not** automatically the same as joining a fraud ring—but this file cares about the RV story when it becomes guaranteed wealth, secret military pipes, and moving deadlines: that shape matches enforcement cases.
+**Counter-narrative (honest dinar holders’ point):** Iraq is a real country with a real central bank; exchange rates move for macro reasons unrelated to forum intel. Small legal currency purchases as souvenirs or speculation are **not** automatically the same as joining a fraud ring—but this file cares about the **revaluation** story when it becomes guaranteed wealth, secret military pipes, and moving deadlines: that shape matches enforcement cases.
 
-**Investigative use:** RV lore behaves like **controlled opposition** in outcome—it taxes hope, immobilizes political economy literacy, and anchors trust to secret timing messages.
+**Investigative use:** Revaluation lore behaves like **controlled opposition** in outcome—it taxes hope, immobilizes political economy literacy, and anchors trust to secret timing messages.
 
 #### 3.3.1 Great Reset camp, “official” Iraq, Libya’s bipartisan window, and the financial-reset fear
 
 **Great Reset camp (author definition):** The Davos / WEF-branded **Great Reset** (**§3.2**) is treated here as a **coherent camp**: multilateral rules, stakeholder capitalism, digitized and centralized financial governance, and—in practice—hostility to national settlement outside that lattice (gold blocs, parallel pricing, sanctions-proof pipes). It is not MAGA-style American nationalism; it is transnational elite continuity with **U.S. hard power** as enforcer when needed.
 
-**Iraq — official story vs. public plausibility:** The Bush administration’s 2003 bundle (WMD stockpiles, al-Qaeda links, “mushroom cloud,” mobile labs) collapsed in credibility for many Americans once the weapons did not materialize at scale. Desert Storm (1991) had a cleaner legal surface (Iraq invaded Kuwait) but still terminated in who held Gulf reserves and pricing power. For the author, the gap between televised rationales and what ordinary people find believable is where RV–GCR “real reason” narratives draw oxygen—and where this investigation places **gold**, **euro** settlement ([CNN 2000](https://www.cnn.com/2000/WORLD/meast/10/30/iraq.un.euro.reut/); [RFE/RL](https://www.rferl.org/a/1095057.html)), and **reserve custody** (**§3.3.3**).
+**Iraq — official story vs. public plausibility:** The Bush administration’s 2003 bundle (WMD stockpiles, al-Qaeda links, “mushroom cloud,” mobile labs) collapsed in credibility for many Americans once the weapons did not materialize at scale. Desert Storm (1991) had a cleaner legal surface (Iraq invaded Kuwait) but still terminated in who held Gulf reserves and pricing power. For the author, the gap between televised rationales and what ordinary people find believable is where revaluation–GCR “real reason” narratives draw oxygen—and where this investigation places **gold**, **euro** settlement ([CNN 2000](https://www.cnn.com/2000/WORLD/meast/10/30/iraq.un.euro.reut/); [RFE/RL](https://www.rferl.org/a/1095057.html)), and **reserve custody** (**§3.3.3**).
 
 **Libya 2011 — gold named where, and who cheered:** UNSC Resolution 1973 (no-fly / protection of civilians) does not list “gold dinar.” Gold and African currency integration appear in diplomatic and leaked-email circulation (e.g. Blumenthal threads summarized in press and in [Africa Check](https://africacheck.org/fact-checks/meta-programme-fact-checks/did-gaddafi-plan-introduce-african-currency-backed-gold))—tertiary for mono-cause proof, but real as discourse the author weights. Secretary of State Hillary Clinton was the face of intervention optics; on learning of Gaddafi’s death she said on camera, “We came, we saw, he died” ([CBS News](https://www.cbsnews.com/news/clinton-on-qaddafi-we-came-we-saw-he-died))—a rare moment where the “final word” tone matched destruction openly. The author reads 2011 Libya as **less heavily contested in liberal mass media** than Iraq 2003: Democratic establishment figures were largely on board or muted compared to anti-Bush street energy (qualitative pattern; quantification and counterexamples sit in **Limits**). Bipartisan comfort (R executes, D owns optics) with smashing a regime that had signaled parallel African / gold-settlement ambition fits the thesis that **both D.C. camps** could live with Tripoli’s ruin when the humanitarian banner was available.
 
 **Bait and blowback (author hypothesis):** After Iraq’s costly occupation and radicalization effects, the globalist layer (per author) had incentive to prefer a lighter-footprint Libya model that still killed the gold / AU vector yet risked state collapse and arms diffusion across the Sahel. Boko Haram’s escalation in Nigeria and wider jihadist entropy followed in the same arc; UN panels often cite Libyan spillover as one driver of regional instability (general linkage; direct Boko causation disputed—**Limits**). The author reads that as forecastable blowback accepted for the sake of killing a non–Great-Reset financial fork.
 
-**America’s fear (bottom line for this file):** The West—America first among enforcers—feared regimes that could anchor or symbolize a **parallel financial reset** outside the Great Reset camp. Destroying those governments and their gold-backed or gold-adjacent currency storylines was, for the author, part of the same strategic curve as flooding the public with spiritual “Great Awakening” / RV waiting rooms (**§2**, **§4**): different channels, one austerity of national options.
+**America’s fear (bottom line for this file):** The West—America first among enforcers—feared regimes that could anchor or symbolize a **parallel financial reset** outside the Great Reset camp. Destroying those governments and their gold-backed or gold-adjacent currency storylines was, for the author, part of the same strategic curve as flooding the public with spiritual “Great Awakening” / **revaluation** waiting rooms (**§2**, **§4**): different channels, one austerity of national options.
 
 #### 3.3.2 Timeline — U.S.-led Iraq interventions and gold / settlement columns
 
@@ -128,7 +130,7 @@ This section pairs what is on the record (shows, regulators, press, dates) with 
 |------|-------------------------|-------------------------------------|---------------------------------------------|
 | **Aug 1990** | Iraq invades Kuwait | Iraqi aggression vs. neighbor | Kuwait’s gold and reserves become loot / recovery object; *Three Kings* (1999) encodes Kuwaiti bullion in bunkers as pop-culture “known fact” about the conflict ([Wikipedia — *Three Kings*](https://en.wikipedia.org/wiki/Three_Kings_(1999_film))). |
 | **Jan–Feb 1991** | Operation Desert Storm | Liberate Kuwait; damage Iraqi military | Outcome tier: who holds Gulf reserves and pricing levers post-war (oil + hard assets). |
-| **2000** | UN allows Iraq to invoice some Oil-for-Food oil in euros | Sanctions politics; jab at dollar habit ([CNN](https://www.cnn.com/2000/WORLD/meast/10/30/iraq.un.euro.reut/)) | Monetary defiance layer before 2003 (not identical to “gold RV,” but same family of threat per author). |
+| **2000** | UN allows Iraq to invoice some Oil-for-Food oil in euros | Sanctions politics; jab at dollar habit ([CNN](https://www.cnn.com/2000/WORLD/meast/10/30/iraq.un.euro.reut/)) | Monetary defiance layer before 2003 (not identical to “gold revaluation” lore, but same family of threat per author). |
 | **Mar 2003 – 2011** | Iraq War + occupation | WMD / terror / regime change → nation-building | Regime change plus re-architecting Iraqi central bank and settlement; gold / reserve layer per **§3.3.3**. |
 
 Wikipedia overviews for dates and labels: [Gulf War](https://en.wikipedia.org/wiki/Gulf_War), [2003 invasion of Iraq](https://en.wikipedia.org/wiki/2003_invasion_of_Iraq).
@@ -286,7 +288,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 
 #### 3.7.4 How QAnon fits this investigation’s pattern
 
-- **Same grammar** as **§3.5** (Fulford / Drake) and **§3.3** (RV): imminent justice, insider chain, cabal blocks the plan this week, stay ready not organized.  
+- **Same grammar** as **§3.5** (Fulford / Drake) and **§3.3** (revaluation): imminent justice, insider chain, cabal blocks the plan this week, stay ready not organized.  
 - **Difference in scale:** Q merged chan culture, evangelical apocalyptic tones, and U.S. electoral politics into one mass movement—bigger blast radius than newsletter subcultures alone.  
 - **Controlled opposition read (outcome tier):** Whether or not “run” by any agency, it functionally captured distrust of elites into waiting rooms and Jan 6–style high-risk spectacle rather than durable left / right coalitions with auditable demands (see [Occupy CO thesis](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) for parallel mechanics).
 
@@ -305,9 +307,9 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 
 - Consume long video chains; share drops; debunk normies online.  
 - Reduce local political risk (no picketing, no FOIA clubs, no union density plan).  
-- Wait for disclosure / RV / tribunals / flash / the next Wilcock briefing / the next season finale.
+- Wait for disclosure / revaluation (“RV”) / tribunals / flash / the next Wilcock briefing / the next season finale.
 
-**Guru / insider avatar mechanism:** When fear is large-scale (finance, war, police power, pandemic) but action feels forbidden or futile, feeds offer named guides (Fulford, Q decoders, RV “elders,” disclosure hosts) who “know” more. The avatar’s move is always next episode / next post / next donor tier—**not** your move as citizen organizer. That does **not** require villainy by the host; it is often how attention markets price hope.
+**Guru / insider avatar mechanism:** When fear is large-scale (finance, war, police power, pandemic) but action feels forbidden or futile, feeds offer named guides (Fulford, Q decoders, revaluation-scene “elders,” disclosure hosts) who “know” more. The avatar’s move is always next episode / next post / next donor tier—**not** your move as citizen organizer. That does **not** require villainy by the host; it is often how attention markets price hope.
 
 **Outcome class (CO-shaped):** Calm within dread—affective management whether or not any node is consciously “run.”
 
@@ -322,7 +324,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 
 **Pattern claim (this file):** Alien–benevolence stories and frequency soteriology can function as **topcover** for human continuity projects—especially when they tell the listener that redemption is incoming if consciousness is right.
 
-**Interaction with §3.3–3.7:** If listeners believe “arrests are queued,” “RV is the economic justice event,” “Q drops map to tomorrow’s news,” or “the missing scientists story proves off-world / deep continuity without primary dockets,” they may discount banal but real levers—tax policy, zoning, procurement contracts, base closures, sanctions evasion networks—that actually move power on Earth and in orbit. **§3.3** names how hard wars on Iraq / Libya and soft CO “resets” in feeds can be one enclosure: destroy or wait out alternatives to the Great Reset camp.
+**Interaction with §3.3–3.7:** If listeners believe “arrests are queued,” “the **revaluation** is the economic justice event” (forums: “the RV”), “Q drops map to tomorrow’s news,” or “the missing scientists story proves off-world / deep continuity without primary dockets,” they may discount banal but real levers—tax policy, zoning, procurement contracts, base closures, sanctions evasion networks—that actually move power on Earth and in orbit. **§3.3** names how hard wars on Iraq / Libya and soft CO “resets” in feeds can be one enclosure: destroy or wait out alternatives to the Great Reset camp.
 
 ---
 
@@ -337,7 +339,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 
 **Conclusion (author, pattern-level):** Neither column needs aliens for real-world effects; column A may soften resistance to column B by relocating hope off Earth.
 
-**Great Reset camp vs. nationalism (author, ties §3.3):** The WEF “Great Reset” column (**§3.2**) is treated as a defined **globalist** pole—anti-national in the sense that it prefers transnational rules and settlement rails over gold / parallel blocs. The spiritual / RV / Q waiting room (column A) feeds the same curve by keeping populations out of national economic self-defense (**§3.3.1**).
+**Great Reset camp vs. nationalism (author, ties §3.3):** The WEF “Great Reset” column (**§3.2**) is treated as a defined **globalist** pole—anti-national in the sense that it prefers transnational rules and settlement rails over gold / parallel blocs. The spiritual / revaluation / Q waiting room (column A) feeds the same curve by keeping populations out of national economic self-defense (**§3.3.1**).
 
 **Cable-TV footnote:** Column A also includes commercial television that looks like investigation but sells ads against your stayed attention—see **§3.5.3**.
 
@@ -347,7 +349,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 
 ### 7.1 Verbatim author text (Paradigm Threat — consolidated from session language)
 
-> We’re investigating David Wilcock, the “Great Awakening,” lightworkers, the RV / revaluation-of-currency scene, *Ancient Aliens* (History Channel), and the wider online conspiracy ecology around “thank you,” “elevating the human race to a higher frequency,” and “receiving knowledge from aliens”—all as **controlled opposition** projects designed to lure open-minded people who are afraid of the state of humanity, who don’t see redemption in the future, and who would believe redemption will come from some ancient alien benevolent force waiting for us to attain the right mentality and receive their knowledge. I think there is **no truth** to any of it—but **more importantly**, it **covers up things that are true**, for example that there might be a **human breakaway civilization on Mars** that is **neither ancient nor benevolent**. They want us to believe their authority has always been there, maybe since the beginning of time. They want us to stay inactive in politics and society and wait for some “great reset.” In parallel there appears to have been a real attempt at a Great Reset in Davos. **Conclusion:** it is **not** aliens looking to benefit mankind with a great reset—it is humans, globalists, who have long-term plans for a new world order, using every kind of controlled opposition group to keep the population calm and prepared for a beneficiary “great reset” “in the name of all people” which in reality only benefits the **deep state / New World Order**.
+> We’re investigating David Wilcock, the “Great Awakening,” lightworkers, the **currency revaluation** scene (dinar / GCR — not remote viewing), *Ancient Aliens* (History Channel), and the wider online conspiracy ecology around “thank you,” “elevating the human race to a higher frequency,” and “receiving knowledge from aliens”—all as **controlled opposition** projects designed to lure open-minded people who are afraid of the state of humanity, who don’t see redemption in the future, and who would believe redemption will come from some ancient alien benevolent force waiting for us to attain the right mentality and receive their knowledge. I think there is **no truth** to any of it—but **more importantly**, it **covers up things that are true**, for example that there might be a **human breakaway civilization on Mars** that is **neither ancient nor benevolent**. They want us to believe their authority has always been there, maybe since the beginning of time. They want us to stay inactive in politics and society and wait for some “great reset.” In parallel there appears to have been a real attempt at a Great Reset in Davos. **Conclusion:** it is **not** aliens looking to benefit mankind with a great reset—it is humans, globalists, who have long-term plans for a new world order, using every kind of controlled opposition group to keep the population calm and prepared for a beneficiary “great reset” “in the name of all people” which in reality only benefits the **deep state / New World Order**.
 
 ### 7.2 What the author means (short unpack)
 
@@ -364,7 +366,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 2. Wilcock-tier disclosure (as a class) is part of that cluster regardless of any one person’s intent.  
 3. Alien-benevolence narratives topcover a human Mars breakaway that is **not** benevolent.  
 4. Globalist human actors are the real “reset” beneficiaries; spiritual disclosure culture prepares affect for that shock.  
-5. RV culture is a financialized parallel to the same waiting posture.  
+5. Revaluation culture is a financialized parallel to the same waiting posture.  
 6. Benjamin Fulford–style weekly insider “secret war” briefings (mass-arrest forecasts, Asian secret-society allies) occupy the same waiting / deferral slot as Drake (2012) and scaled Q drops (**pattern claim**).  
 7. A gold / hard-reserve / currency-back layer was **part of the real reason** for U.S.–led coalition wars against Iraq in **1991** and **2003**; official WMD-first rationales for 2003 fail ordinary plausibility for the author and many citizens (**§3.3.3**).  
 8. The **Great Reset camp** (**§3.2**, **§3.3.1**, **§6**) is a defined **globalist** pole, anti-national in settlement effect; America and allies smashed Iraq and Libya in part because those regimes symbolized a **parallel financial reset** (gold / AU / euro periphery) outside that camp.  
@@ -376,7 +378,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 
 | # | Question | Why it matters |
 |---|----------|----------------|
-| 1 | Where do engagement algorithms cluster Q, RV, spiritual, and UFO content empirically? | Tests “single basin” without asserting one operator. |
+| 1 | Where do engagement algorithms cluster Q, revaluation / dinar, spiritual, and UFO content empirically? | Tests “single basin” without asserting one operator. |
 | 2 | What fraction of dinarian losses map to repeat fraud rings vs true belief communities? | Separates crime from culture. |
 | 3 | Do WEF authors ever borrow spiritual or disclosure lexicon deliberately? | Lexical bridge hypothesis. |
 | 4 | Can Mars breakaway claims be pinned to primary docs independent of UFO entertainment? | Separates this repo’s Mars lane from AA lane. |
@@ -389,7 +391,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 
 ## 10. Weak points / remaining research TODOs
 
-- [x] Pin starter SEC / CNBC / CFTC URLs for RV (done in **§3.3** and **§12**).  
+- [x] Pin starter SEC / CNBC / CFTC URLs for revaluation / dinar (done in **§3.3** and **§12**).  
 - [x] Pin primary Divine Cosmos URL for Drake mass-arrests transcript (done).  
 - [ ] Add timeline graphic of “Great Awakening” phrase usage (religious history vs Q vs New Age).  
 - [ ] Pull academic sociology on “conspirituality” (Yoga + conspiracy blend) as neutral third-party vocabulary.  
@@ -412,6 +414,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 | [AE911Truth / Gage](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md) | Different topic—shared “movement containment” language |
 | [MudFlood notes — CO agents](/history/mudflood/notes/page.md) | Flat Earth / 5D / Ancient Aliens named in repo warnings |
 | [Lacatski / AAWSAP — insider mechanics & politics](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md) | **§3.7** on-record turf/funding/ideology/Kona Blue; **§6.1–§6.3** same **conditional-tech / withdraw** grammar as this basin but **re-rooted** to **bureaucracy + suppressed engineering** fork; viral meme appendix |
+| [What Are You Waiting For? — reader essay](/influence/controlled_opposition/what-are-you-waiting-for.md) | Lay synthesis: **deferral** keeps populations calm across religion, ideology, disclosure feeds, and spectacle timing; Rabbi Sacks **where were we** hinge; links **§3** / **§4** themes without duplicating dossier machinery |
 
 ---
 
@@ -425,7 +428,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 - Divine Cosmos — follow-on mass arrests / “divine intervention” briefings: https://divinecosmos.com/davids-blog/1060-massdivine/  
 - Divine Cosmos — Wilcock statement re Gaia: https://divinecosmos.com/gaia-statement/
 
-### RV / dinar — regulators and major press
+### Revaluation / dinar — regulators and major press
 
 - SEC — Litigation Release **LR-23509** (John Scott Clark / Iraqi “top secret” currency scheme): https://www.sec.gov/enforcement-litigation/litigation-releases/lr-23509  
 - CNBC — “Inside a $24 million investment scam: Buy the Iraqi dinar”: https://www.cnbc.com/2015/01/15/inside-a-24-million-investment-scam-buy-the-iraqi-dinar.html  
@@ -490,7 +493,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 
 ---
 
-Keywords: #ControlledOpposition #GreatAwakening #DavidWilcock #Lightworkers #RV #Dinar #GCR #NESARA #AncientAliens #WEF #GreatReset #NewWorldOrder #Disclosure #Conspirituality #Mars #DeepState #DrakeBailey #BenjaminFulford #Qanon #JesseVentura #IraqiDinar #MissingScientists #April2026 #Petrodollar #Dedollarization #OilForFood #Libya
+Keywords: #ControlledOpposition #GreatAwakening #DavidWilcock #Lightworkers #Revaluation #Dinar #GCR #NESARA #AncientAliens #WEF #GreatReset #NewWorldOrder #Disclosure #Conspirituality #Mars #DeepState #DrakeBailey #BenjaminFulford #Qanon #JesseVentura #IraqiDinar #MissingScientists #April2026 #Petrodollar #Dedollarization #OilForFood #Libya
 
 **Last substantive update:** 2026-04-23 — **§3.3** Iraq/Libya reset read, timeline **§3.3.2**, gold stress-test **§3.3.3**; **§8** claims 7–9; **§9** Q7–Q8; **Limits** war-causation / media / Boko caveats; **§12** CBS Libya clip + Africa Check; **§3.6.6**; **§3.5**/**§3.7**.
 
@@ -502,7 +505,7 @@ Keywords: #ControlledOpposition #GreatAwakening #DavidWilcock #Lightworkers #RV 
 - **People are not case files:** Named public figures appear as cultural signposts; no final moral verdict is required for pattern analysis.  
 - **Author thesis sections** are first-class and not automatically factual (per repo instructions).  
 - **“Globalist”** here follows author usage as shorthand for transnational elite governance networks; it is **not** a dogwhistle map to any ethnic group in this file.  
-- **Medical / financial:** This file does not give investment advice; RV materials tied to guaranteed returns and “top secret” pipes overlap documented fraud patterns in **§3.3**.  
+- **Medical / financial:** This file does not give investment advice; revaluation-scene materials tied to guaranteed returns and “top secret” pipes overlap documented fraud patterns in **§3.3**.  
 - **§3.6** (deaths / missing persons): News tables and debunk articles are not substitutes for reading families’ stated preferences and official case files; avoid harassing survivors or treating grief as content fuel.  
 - **§3.3 — war causation:** Real wars have multiple causes. “Gold-only” or “Great-Reset-only” mono-cause chains are **not** what this file asserts; it asserts **layered** incentives. [Africa Check](https://africacheck.org/fact-checks/meta-programme-fact-checks/did-gaddafi-plan-introduce-african-currency-backed-gold) is skeptical that public documentation alone proves NATO’s **primary** motivation was the gold dinar. Libya vs Iraq U.S. domestic media opposition (**§3.3.1**, **§8** claim 9, **§9** Q8) is qualitative here until polls or editorial counts are added. Boko Haram / Sahel radicalization after 2011: general Libyan spillover is often discussed; direct Boko causation is disputed. *Three Kings* is fiction, not a primary document. Header image: illustrative mind-map only (**§1**). Wilcock “pattern read” does not assign intent without separate evidence.
 

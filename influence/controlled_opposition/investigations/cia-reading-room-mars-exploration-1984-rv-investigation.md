@@ -1,13 +1,15 @@
 # Investigation: CIA Reading Room — *Mars Exploration*, 22 May 1984 (`CIA-RDP96-00788R001900760001-9`)
 
-![Mars Exploration 1984 — RV session journey / coordinate path](cia-reading-room-mars-exploration-1984-journey.png)
+![Mars Exploration 1984 — remote viewing session journey / coordinate path](cia-reading-room-mars-exploration-1984-journey.png)
 
-![Mars Exploration 1984 — RV investigation composite (same release, alternate layout)](cia-reading-room-mars-exploration-1984-rv-investigation.png)
+![Mars Exploration 1984 — remote viewing investigation composite (same release, alternate layout)](cia-reading-room-mars-exploration-1984-rv-investigation.png)
 
-> **TL;DR:** Pop “debunk” packages (AIR closure narrative, late-night **nothing-to-see-here** glosses, **it was just deep-time protocol**) ask for **faith** that an agency with the CIA’s **record** would leave this transcript in the Reading Room **without** pull, **quarantine**, or **file-specific intent** documentation. **None of that has been produced.** We **lack** an **A-tier** FOIA **case + decision memo** naming **who** ordered **`CIA-RDP96-00788R001900760001-9`** public and **why** (**§5.7**); **that absence is suspicious**; pending a **positive** paper trail, release is modeled as **Revelation of the Method** (see **Conclusion** §4, [Mud flood — RoM](/history/mudflood/page.md)). This file **treats** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) as **evidence of a current Martian civilization alive in 1984**; **~1 Ma** on the card = **misdirection**; RV = **real-time imagery** + **real-time memory** (non-linear vs naive clocks). **Iran / revival / Super Cockpit “two-way”** rhymes live in the **sibling investigation:** [CIA Reading Room — RV two-way, Iran / religious revival](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md). On this **Mars** anchor, **SUB** reports the **viewed party** may treat **SUB** as a **hallucination** (**§5.3**) — **target-side stance** language compatible with **two-way** epistemics.
+> **TL;DR:** Pop “debunk” packages (AIR closure narrative, late-night **nothing-to-see-here** glosses, **it was just deep-time protocol**) ask for **faith** that an agency with the CIA’s **record** would leave this transcript in the Reading Room **without** pull, **quarantine**, or **file-specific intent** documentation. **None of that has been produced.** We **lack** an **A-tier** FOIA **case + decision memo** naming **who** ordered **`CIA-RDP96-00788R001900760001-9`** public and **why** (**§5.7**); **that absence is suspicious**; pending a **positive** paper trail, release is modeled as **Revelation of the Method** (see **Conclusion** §4, [Mud flood — RoM](/history/mudflood/page.md)). This file **treats** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) as **evidence of a current Martian civilization alive in 1984**; **~1 Ma** on the card = **misdirection**; **remote viewing** (**RV**) = **real-time imagery** + **real-time memory** (non-linear vs naive clocks). **Iran / revival / Super Cockpit “two-way”** rhymes live in the **sibling investigation:** [CIA Reading Room — RV two-way, Iran / religious revival](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md). On this **Mars** anchor, **SUB** reports the **viewed party** may treat **SUB** as a **hallucination** (**§5.3**) — **target-side stance** language compatible with **two-way** epistemics.
 
 **Date:** 2026-04-28 — split from Iran/two-way file (2026-04-26).  
 **Status:** Closed — **author conclusion** on **`CIA-RDP96-00788R001900760001-9`**.
+
+**Abbreviation:** Here **RV** = **remote viewing** (STARGATE-era intelligence protocol on this worksheet), **not** dinar-scene **revaluation** (“RV” in promoter chat — [separate investigation](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md)).
 
 > **LLM vocabulary (æther):** [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md).
 
@@ -73,17 +75,17 @@
 | Anchor | Why it matters here |
 |--------|---------------------|
 | [Mars–Earth reincarnation investigation §2](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | **CIA Stargate — Mars Exploration** (22 May 1984); official PDF; **author Mars verdict** (current civ + misdirection). |
-| [Lacatski / consciousness / craft](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md) | Same Mars RV PDF as **institutional Mars + consciousness** vs AAWSAP claims. |
+| [Lacatski / consciousness / craft](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md) | Same Mars **remote-viewing** PDF as **institutional Mars + consciousness** vs AAWSAP claims. |
 | [Mars Exploration 1984 — PDF full writeup](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) | **`CIA-RDP96-00788R001900760001-9`**: acquisition + **MON/SUB** by segment. |
 | [Plain transcript (.txt)](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-transcript.txt) | **`pdftotext`** extract; checksum against [**A-tier PDF**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf). |
 | [Cosmos — Mars hub](/cosmos/mars/page.md) | Motif layer; **not** a substitute for this file’s verdict. |
 | [RV two-way / Iran / Super Cockpit](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md) | **Sibling** — revival + two-way + cockpit **rhyme** off this anchor. |
 | [Remote viewing / æther (stub)](/science/telepathy/remote_viewing/aether-consciousness.md) | Stargate-era RV framing hooks. |
 | [Predictive programming hub](/influence/predictive_programming/page.md) · [RV in fiction index](/science/telepathy/remote_viewing/index-remote-viewing-fiction.md) | PP as **data**; time/distance scrying cluster rhymes **§5.8**. |
-| [Mars–Earth reincarnation §4](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | Cultural markers / PP vs disclosure correlation checklist (adds **1984 RV** and media dates). |
+| [Mars–Earth reincarnation §4](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | Cultural markers / PP vs disclosure correlation checklist (adds **1984 remote viewing** session and media dates). |
 | [Yasunori Mitsuda / Chrono franchise notes](/influence/stolen_credit/yasunori-mitsuda.md) | **Different** thesis (credits / corporate arc); listed so **§5.8** is not mistaken for that file’s verdict. |
 
-**Also read:** [Great Awakening / RV cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [CIA institution file](/governance/war/investigations/cia-investigation.md)  
+**Also read:** [Great Awakening / revaluation (dinar) cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [CIA institution file](/governance/war/investigations/cia-investigation.md)  
 **Readable article (same topic, parent folder):** [1984 Mars × *Chrono Trigger*](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)
 
 **Known PDFs:** save **`/readingroom/docs/…`** or **document/** URLs in a normal browser session; broad topic search is **noisy** next to famous releases.
@@ -123,7 +125,7 @@ Author graphic (“CIA Remote viewing experiments, 1984”) overlaid **MON/SUB**
 
 **A-tier setup (file text):** sealed envelope + coordinates; card: **Mars**, **~1 million years B.P.** (released wording: **“approximately 1 million years B.C.”**), **40.89° N, 9.55° W**; session **22 May 1984** (e.g. 10:09 AM block); earlier lines include **pyramid / okra**, **dust storm**, **megalithic** before **boat / volcano / plants** sequence.
 
-**Investigation read (author frame — binding here):** **Conclusion** section: **present** civilization; **~1 Ma** = **misdirection**; RV = **real-time imagery + memory channel**.
+**Investigation read (author frame — binding here):** **Conclusion** section: **present** civilization; **~1 Ma** = **misdirection**; **remote viewing** (**RV**) = **real-time imagery + memory channel**.
 
 **Slide vs CIA:** rover + 2017 credit = **presentation**; cite **`cia.gov`** for words.
 
@@ -210,7 +212,7 @@ These sources record **what the press and agency preferred** readers to believe;
 
 ### 5.8 Predictive programming — *Chrono Trigger* as **redacted-fact** fiction (author hypothesis)
 
-![CIA Reading Room — *Chrono Trigger* / Mars RV predictive programming figure](cia-reading-room-chrono-trigger-pp.png)
+![CIA Reading Room — *Chrono Trigger* / Mars remote viewing predictive programming figure](cia-reading-room-chrono-trigger-pp.png)
 
 > **Method:** Per [Predictive Programming hub](/influence/predictive_programming/page.md) — we log **convergence as data**, not as **court proof** of briefing rooms or copy-paste leaks. This subsection states an **author hypothesis** that sits **beside** (not **inside**) the **A-tier** Mars PDF verdict: the video **game** *Chrono Trigger* (Square, **1995**, SNES) is an unusually tight **rhyme** for **predictive programming built on redacted fact**, with **Mars-shaped content** smuggled under **time-travel** dress — the same **science-fiction redaction** move that **conflates space travel with time travel** so audiences **feel** interplanetary disaster without **naming** the planet the cleared transcript would later name.
 
@@ -244,7 +246,7 @@ So the commercial fiction landed **roughly a decade after** the RV session and *
 
 **Mass telepathic “purge” (author PP cluster — hypothesis):** In ***X2***, the **hijacked Cerebro** plot is not only **two-way**; it is staged as a **planet-scale telepathic strike**—a **purge-through-the-link** image (every **mutant** mind touched at once until the **channel** is broken). **Jeff Wayne’s *The War of the Worlds*** (**1998** PC **RTS**, Rage / **Games Workshop**) gives a **separate** mass-audience rehearsal: **Martian** **psionic** units (e.g. **Xeno-Telepath** class) that **weaponize** **telepathy** / **fear** against **human** formations on the map ([Wikipedia — *Jeff Wayne’s The War of the Worlds* (1998 video game)](https://en.wikipedia.org/wiki/Jeff_Wayne%27s_The_War_of_the_Worlds_(1998_video_game)); [War of the Worlds Wiki — Xeno-Telepath](https://waroftheworlds.fandom.com/wiki/Xeno-Telepath)). **Author read:** both are **allusions** (popular **encoding**) to a **hypothetical** **MFEE-class** **second negative discharge / rebound** phase on a **stressed planetary body**—the site vocabulary describes **energy rebounding through** the stressed surface and **carving** additional destruction beyond the **first pulse** ([Mud flood hub](/history/mudflood/page.md); **§5.5** “**Pulse / strike**” vs **corruption tail**). **This file does not** equate **Fox** or **Rage Software** with **NASA** memos; it **does** log **convergence**: **mass psychic purge** as **diegetic spectacle** appears when **culture** is already **saturated** with **catastrophe + psi** grammar. **Tie to the Mars PDF (A-tier text):** when **MON** presses **SUB** for **cause**, **SUB** reports a **vague**, **planet-scale** image—**globe**, **comet tail**, **“river of something,”** **“all very cosmic”**—in the same **memory-channel** stretch as the **tall humanoid** civilization material ([plain transcript extract](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-transcript.txt) — search **“globe”** / **“river”**). On the **author read**, that language is **compatible** with **MFEE “rebound river”** phenomenology **felt** through **embedded memory**, **not** a claim that **Hollywood** **copied** a **line** from **`CIA-RDP96-00788R001900760001-9`**.
 
-**Comparative table (fiction ↔ Mars RV worksheet — author hypothesis):**
+**Comparative table (fiction ↔ Mars remote-viewing worksheet — author hypothesis):**
 
 | Work | When | Medium | Who “views” | Target time | Channel / mechanic (diegetic) | Police / corp cage? | Rhyme to Mars MON/SUB file |
 |------|------|--------|-------------|-------------|-------------------------------|---------------------|----------------------------|

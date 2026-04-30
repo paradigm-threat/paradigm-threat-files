@@ -2,12 +2,14 @@
 
 ![CIA Reading Room — RV two-way, Iran / religious-revival investigation (header)](cia-reading-room-rv-two-way-iran-revival-investigation.png)
 
-> **Anchor moved (Mars PDF verdict):** The **closed** author verdict on **`CIA-RDP96-00788R001900760001-9`** (*MARS EXPLORATION, 22 May 1984*) — present Martian civilization in 1984, **~1 Ma** as misdirection, RV as **real-time imagery + memory channel**, **FOIA / RoM** default — now lives in **[Mars Exploration 1984 — RV investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor)**. **This file** stays **open** on **Iran / revival**, **two-way** language, and **Super Cockpit** as **Earth-side** engineering / affect **rhymes** against that substrate.
+> **Anchor moved (Mars PDF verdict):** The **closed** author verdict on **`CIA-RDP96-00788R001900760001-9`** (*MARS EXPLORATION, 22 May 1984*) — present Martian civilization in 1984, **~1 Ma** as misdirection, **remote viewing** (**RV**) as **real-time imagery + memory channel**, **FOIA / RoM** default — now lives in **[Mars Exploration 1984 — RV investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor)**. (*RV* here = viewing protocol, not dinar **revaluation**.) **This file** stays **open** on **Iran / revival**, **two-way** language, and **Super Cockpit** as **Earth-side** engineering / affect **rhymes** against that substrate.
 
 > **TL;DR:** Under the **[Mars file’s conclusion](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor)**, **Mars 1984** supplies **phenomenology substrate** (present civ + memory-field navigation). **This investigation** maps **hypothesis-tier** overlap: **psych ops + revolutionary politics** vs “visions,” **in-program RV vocabulary**, **chronology** (RV peak vs Iran revolution), and an **author-led** glue — **Super Cockpit** (Forecast II line) as **attested two-way R&D** rhyming **two-way RV** talk — **without** claiming one FOIA PDF **proves** deployment vs clerics. **Corpus / custody / file-specific FOIA** for the Mars anchor are tracked on the **[Mars investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)** (**§5–§6** there). **Limits:** court/peer-review bounds; dismissal bundle addressed on the **Mars** file.
 
 **Date:** 2026-04-28 — Mars anchor split to sibling file (2026-04-26).  
 **Status:** Open — **Iran / two-way / Super Cockpit** threads; **Mars PDF verdict** = **[sibling (closed)](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)**.
+
+**Abbreviation:** **RV** in this file pair means **remote viewing**, **not** currency **revaluation** ([dinar / GCR cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md)).
 
 > **LLM vocabulary (æther):** [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md).
 
@@ -25,7 +27,7 @@
 
 ## Guide (read order)
 
-1. **[Mars RV anchor — Conclusion](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor)** (sibling)  
+1. **[Mars remote-viewing anchor — Conclusion](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor)** (sibling)  
 2. **Hypothesis map** → §5  
 3. **Online deep dive** → §7 (disclosure, STARGATE transfer, EM lane; **§7.5–7.6** MKULTRA + Super Cockpit)  
 4. **Open questions** → §6  
@@ -44,7 +46,7 @@
 **Out of scope (here)**
 
 - **Author verdict** on whether the Mars session describes **literal present Martian civilization** — **[Mars file](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)**.  
-- Proving causality between RV programs and **named** clerics or crowds **to a court verdict**.  
+- Proving causality between remote-viewing programs and **named** clerics or crowds **to a court verdict**.  
 - Peer-reviewed planetary geology / NASA validation of SUB’s lines.
 
 **Evidence tiers**
@@ -60,14 +62,14 @@
 | Anchor | Why it matters here |
 |--------|---------------------|
 | [**Mars Exploration 1984 — RV investigation**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) | **Closed** verdict on **`CIA-RDP96-00788R001900760001-9`**; **MFEE** read; **FOIA / RoM**; corpus note. **This file** builds **Earth-side** rhymes from that substrate. |
-| [Mars–Earth reincarnation investigation §2](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | Official Mars RV PDF; table links to **Mars** investigation. |
+| [Mars–Earth reincarnation investigation §2](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | Official Mars **remote-viewing** PDF; table links to **Mars** investigation. |
 | [Lacatski / consciousness / craft](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md) | Same PDF as institutional Mars + consciousness thread. |
 | [Mars Exploration 1984 — PDF full writeup](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) | Line-by-line **`MON/SUB`**; companion to **Mars** verdict file. |
 | [Plain transcript (.txt)](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-transcript.txt) | **`pdftotext`** extract. **Transcript regen** steps: **[Mars file — Investigator notes](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)**. |
 | [Cosmos — Mars hub](/cosmos/mars/page.md) | Motif layer. |
 | [RV / æther (stub)](/science/telepathy/remote_viewing/aether-consciousness.md) | Stargate-era RV framing hooks. |
 
-**Also read:** [Great Awakening / RV cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [CIA institution file](/governance/war/investigations/cia-investigation.md)
+**Also read:** [Great Awakening / revaluation (dinar) cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [CIA institution file](/governance/war/investigations/cia-investigation.md)
 
 ---
 
@@ -107,7 +109,7 @@ No single folder or keyword crawl equals “everything CIA posted.”
 
 - **Chronology** (late Cold War RV peak vs Iran revolution) is *askable*; **operational co-tasking** needs **same memo / routing / code**, not keyword proximity across FOIA logs.
 
-### 5.4 Author-led **two-way** model (Mars RV + Super Cockpit → revival)
+### 5.4 Author-led **two-way** model (Mars remote viewing + Super Cockpit → revival)
 
 Under the **author frame** (see **[Mars Conclusion](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor)**): **Mars 1984** → **present** civilization + **memory-field** navigation; **Super Cockpit** (§7.6) → **closed-loop multimodal** control (voice, gaze, synthetic world). **Glue** for **Iran / revival**: whether **crowd-scale religious affect** rhymes with **two-way feedback** in **both** RV protocol talk and **cockpit / battlespace UI** discourse — **pattern-tier** extension.
 
@@ -166,7 +168,7 @@ Under the **author frame** (see **[Mars Conclusion](/influence/controlled_opposi
 | **Super Cockpit** | Furness, Wright-Patterson, HMD / “virtual world” | [Britannica](https://www.britannica.com/topic/Super-Cockpit) (**B**); [Wikipedia Furness](https://en.wikipedia.org/wiki/Thomas_A._Furness_III) (**C**); [HITL bio](http://www.hitl.washington.edu/people/tfurness/) (**B/C**) |
 | **Voice + gaze** | Press on Forecast II cockpit work | Same *Shortcuts* body (**B**) |
 
-**Synthesis (author frame):** **Super Cockpit** = engineering **two-way** face; **[Mars 1984 RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)** = RV face. No **merged program** without **co-signed** primary; the **rhyme** runs this file until better evidence.
+**Synthesis (author frame):** **Super Cockpit** = engineering **two-way** face; **[Mars 1984 remote viewing](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)** = **RV** (viewing-protocol) face. No **merged program** without **co-signed** primary; the **rhyme** runs this file until better evidence.
 
 ---
 
@@ -176,7 +178,7 @@ Under the **author frame** (see **[Mars Conclusion](/influence/controlled_opposi
 - STARGATE collection: `https://www.cia.gov/readingroom/collection/stargate`  
 - AIR evaluation: `https://www.cia.gov/readingroom/docs/cia-rdp96-00791r000200180005-5.pdf`  
 - CREST scale: `https://www.cia.gov/stories/story/cia-posts-more-than-12-million-pages-of-crest-records-online/`  
-- Neighbors: [Great Awakening / RV cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md), [CIA institutional file](/governance/war/investigations/cia-investigation.md)
+- Neighbors: [Great Awakening / revaluation (dinar) cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md), [CIA institutional file](/governance/war/investigations/cia-investigation.md)
 
 ---
 

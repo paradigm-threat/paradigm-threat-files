@@ -20,7 +20,8 @@ If a claim needs **five citations** or a **multi-row table**, it belongs in the 
 
 ## Voice (who we are writing for)
 
-- **First person:** These articles are **Ari’s** voice. Use **I / me / my** when a sentence **genuinely** needs a speaker (commitment, pivot, risk)—**sparingly**. **Do not** write “**the author**.” The **attribution footer** (*Written and narrated by Ari Asulin…*) already tells the reader **who** is speaking; **do not** re-announce that every few paragraphs with “**in my view**,” “**my read**,” “**what I want to argue**,” or similar **frame labels**.
+- **First person:** These articles are **Ari’s** voice. Use **I / me / my** whenever that is the honest speaker—**memory, judgment, stakes, what I am tracing.** First person is **welcome**; what we trim is **stance chatter**, not **I** itself. **Do not** write “**the author**.” The **attribution footer** (*Written and narrated by Ari Asulin…*) names the speaker; **do not** pad every paragraph with “**in my view**,” “**my read**,” “**what I want to argue**,” or other **meta** that repeats what the sentence already does.
+- **Drop “this essay / this piece”:** Prefer **direct claims** or **I** (“**I** argue…”, “**I** name three patterns…”). Phrases like “**this essay** will show,” “**in this piece** we,” or “**what overlaps for this essay**” read like syllabus metal—**cut them** unless a single signpost truly helps.
 - **State the claim — drop the frame:** Prefer **direct** sentences over meta-leads. **Bad:** “My **hard moral read** stays blunt: **Polynesian continuity** was interrupted.” **Good:** “**Polynesian continuity** was interrupted.” Let **syntax** carry most of the weight, not a running commentary on your own stance.
 - **Bold — emphasis or new terms only:** Use `**bold**` for **(1)** real **emphasis** (one beat per sentence or so—a contrast, a risk, a hinge you need the eye to catch), and **(2)** **new terminology** the article **introduces** or **defines** for this read (first pass; often plain text on repeat). **Do not** bold **every** proper noun, institution, date, or ordinary stressed word—that reads as **sparkle fatigue** and **fake dossier** layout. When in doubt, **remove** the bold.
 - **Register — clinical but inspired:** Default to **cool, exact prose** that still **lands** the point—**tight claims**, **clean images**, **no** purple **grief-as-genre** layering. **Drive the argument home** with **structure and consequence**, not with repeated **mourning** or **elegy** cadence unless Ari **explicitly** wants a **lament** piece. Moral heat is fine **in short controlled bursts**; let **evidence links** carry weight alongside tone.
@@ -67,6 +68,7 @@ If a claim needs **five citations** or a **multi-row table**, it belongs in the 
 - **The “not A, it is B” teaching beat** — repeated contrasts of the form “**This is not** *chemistry / myth / debunk / a verdict*… **it is** *relationship / science / …*” work once; across many articles they read as the **same** canned cadence. **Rotate constructions**: lead with the **positive** claim; use **“Rather,”** **“Another name for that pressure:”** **“What I mean is simpler:”** a **question**, or a **concrete image**—anything that **breaks** the identical **not-this / but-that** rhythm.
 - Close cousin: **“X is not Y; it is Z”** every time you need nuance. Sometimes **Z alone** carries the point; sometimes **two short sentences** beat one negated compound.
 - **Stance meta** — “**In this piece I will**…”, “**My thesis is**…” every section (the title and flow already signal intent). **Bad** vs **good** examples live under **Voice → State the claim**.
+- **Essay / piece scaffolding** — “**This essay** argues…”, “**Below**, this article…”, “**In what follows** the reader…” Same cure as above: **say it** or use **I**; do not **announce** the document.
 
 ---
 
@@ -79,7 +81,7 @@ If a claim needs **five citations** or a **multi-row table**, it belongs in the 
 - **OS paths** (`/home/...`) in body text—**Investigator notes** at end of **dossiers** only.
 - **Mid-article** **Limits** voice: tier sermons, long “**not proven**” chains, claim-number callouts, **Epstein**-class analogy **legal fencing** repeated in prose—**park** that in the **dossier** (one link is enough).
 - **Lament-as-default** — stacked **mourning**, **wound**, **hurt** framing in **every** section when the same stakes could read **sharper** in **clinical** mode. Reserve **heavy elegy** for when the **topic** or **Ari** calls for it.
-- **Frame labels and stance chatter** — “**My read**,” “**hard moral read**,” “**here I want to**” before **every** claim. **State the claim**; use the footer + **sparing** **I** only where it **earns** its keep.
+- **Frame labels and stance chatter** — “**My read**,” “**hard moral read**,” “**here I want to**” before **every** claim. **State the claim**; use **I** when it **earns** its keep, not **meta** before every line.
 - **Sparkle bold** — bolding **most** nouns, proper names, or **whole** clauses to simulate “importance.” If a paragraph reads like a **highlighter ramp**, strip bold back to **Voice → Bold** rules.
 
 ---
@@ -97,4 +99,4 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 
 ---
 
-**Last updated:** 2026-04-29
+**Last updated:** 2026-04-30
