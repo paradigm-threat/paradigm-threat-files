@@ -137,7 +137,8 @@ or *not* believing.
 
 #### Influence
 
-* [Controlled opposition hub](/influence/controlled_opposition/page) — CO patterns, QAnon cluster, CIA Reading Room Mars RV dossier; readable [**Mars × *Chrono Trigger* article**](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md).
+* [Controlled opposition hub](/influence/controlled_opposition/page) — CO patterns, QAnon cluster, CIA Reading Room Mars **remote viewing** dossier; readable [**Mars × *Chrono Trigger* article**](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md).
+* [What Are You Waiting For?](/influence/controlled_opposition/what-are-you-waiting-for.md) — Deferral as calm technology; religion, disclosure, spectacle; links GA / Lacatski / Artemis reads.
 * [Toynbee Tiles](/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md) — *Resurrect Dead* (2011) and the street campaign.
 * [Trump-era Hollywood as predictive programming](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) — Trends, rhymes, scorecard (2016–2026).
 * [Compromised Court Cases and Declared Reality](/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md) — Court rulings vs what institutions declare “real.”
@@ -333,7 +334,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 
 ### Reader-facing articles
 
-* [Was Chrono Trigger’s plot based on a 1984 CIA Mars RV session?](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) — CIA Reading Room **MON/SUB** Mars transcript (1984) × *Chrono Trigger* / predictive programming (*X-Men* / Cerebro, *X2*, MFEE rhymes); links [full dossier](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md).
+* [Was Chrono Trigger’s plot based on a 1984 CIA Mars remote viewing session?](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) — CIA Reading Room **MON/SUB** Mars transcript (1984) × *Chrono Trigger* / predictive programming (*X-Men* / Cerebro, *X2*, MFEE rhymes); links [full dossier](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md). (**RV** here = viewing, not dinar **revaluation**.)
 * [Rus-Horde echoes in English political and military lexicon (open speculation)](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) — *rush* / *Rus*, *rat* / *рать*, Protestant print and word bias, *King Arthur* (2004); dictionary facts vs. low-confidence parallels
 
 ### Hubs and broad entry points

@@ -1,10 +1,12 @@
-# Was Chrono Trigger’s plot based on a 1984 CIA Mars RV session?
+# Was Chrono Trigger’s plot based on a 1984 CIA Mars remote viewing session?
 
 When the briefing was a game: the 1984 Mars session, *Chrono Trigger*, and a file you can still download
 
 ![CIA 1984 Mars × *Chrono Trigger* — article hero figure](cia-1984-mars-chrono-trigger.png)
 
 **Updated:** 2026-04-28
+
+**Terminology:** This article uses **remote viewing** and **RV** only in the intelligence/STARGATE sense — **not** Iraqi dinar **revaluation** (also called “RV” in promoter forums; [Great Awakening / revaluation cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md)).
 
 **Official CIA PDF (direct link):** [**MARS EXPLORATION, May 22, 1984** — `CIA-RDP96-00788R001900760001-9.pdf`](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) on **cia.gov** (opens the scan; no login). **Same release, HTML/metadata page:** [Reading Room document page](https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9) — use the PDF control on that page if the direct URL is blocked by your client.
 
@@ -14,7 +16,7 @@ The transcript itself is the stranger object: it reads like **internal worksheet
 
 ---
 
-![*Chrono Trigger* / Mars RV — predictive-programming composite (author)](investigations/cia-reading-room-chrono-trigger-pp.png)
+![*Chrono Trigger* / Mars remote viewing — predictive-programming composite (author)](investigations/cia-reading-room-chrono-trigger-pp.png)
 
 ---
 
@@ -73,7 +75,7 @@ Treat that as **cross-domain illustration**, not a lab result: the [Mars investi
 
 ---
 
-![Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)](investigations/cia-reading-room-mars-exploration-1984-journey.png)
+![Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)](investigations/cia-reading-room-mars-exploration-1984-journey.png)
 
 ## The document
 

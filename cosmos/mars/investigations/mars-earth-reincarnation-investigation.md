@@ -66,15 +66,15 @@ For correlation: if we treat his **birth (1996)** as a possible reincarnation wi
 
 | Document / program | Date | Content | Relevance to reincarnation / population |
 |--------------------|------|---------|----------------------------------------|
-| **CIA Stargate — Mars Exploration** | May 22, 1984 | Declassified **MON/SUB** session `CIA-RDP96-00788R001900760001-9`: coordinates **40.89°N, 9.55°W**; released card text includes **“~1 million years B.C.”** — [Mars investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) treats that epoch string as **misdirection**, the phenomenology as **present Martian civilization (1984)** + **RV memory / real-time imagery channel** (not literal deep-time tourism). Pyramid / storm / megalithic / migration / “boat” / metal / vegetation language in transcript. | **Consciousness + Mars** in official declass stream; **no** explicit soul-transfer wording—still anchors **population-under-stress + migration grammar** for reincarnation / wave hypotheses. **Author verdict + MFEE map:** [Mars Exploration 1984 — RV investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) (**[Conclusion](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor)**; **§5.5** MFEE correlation table). |
+| **CIA Stargate — Mars Exploration** | May 22, 1984 | Declassified **MON/SUB** session `CIA-RDP96-00788R001900760001-9`: coordinates **40.89°N, 9.55°W**; released card text includes **“~1 million years B.C.”** — [Mars investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) treats that epoch string as **misdirection**, the phenomenology as **present Martian civilization (1984)** + **remote-viewing (RV) memory / real-time imagery channel** (not literal deep-time tourism; **RV** here ≠ dinar **revaluation**). Pyramid / storm / megalithic / migration / “boat” / metal / vegetation language in transcript. | **Consciousness + Mars** in official declass stream; **no** explicit soul-transfer wording—still anchors **population-under-stress + migration grammar** for reincarnation / wave hypotheses. **Author verdict + MFEE map:** [Mars Exploration 1984 — RV investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) (**[Conclusion](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md#conclusion-author-verdict-mars-anchor)**; **§5.5** MFEE correlation table). |
 | **Stargate Collection (CIA)** | 1984 | 36 items on Mars exploration research (1984). | Full set to be searched for population, migration, or “transfer” language. |
 
 **FOIA / correlation checklist (action items):**
 
 1. **CIA Reading Room:** Retrieve and read [Mars Exploration, May 22, 1984](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf); search Stargate Collection for “Mars,” “population,” “civilization,” “ancient.”
-2. **DIA / other agencies:** Check for declassified RV or parapsychology reports mentioning Mars, consciousness transfer, or “past” Mars.
+2. **DIA / other agencies:** Check for declassified remote-viewing or parapsychology reports mentioning Mars, consciousness transfer, or “past” Mars.
 3. **Document non-hits:** If no docs mention reincarnation, souls, or migration, record that explicitly (gap to document per paradigm-threat practice).
-4. **Correlation:** Note that 1984 RV session (Mars, ancient civilization, collapse) predates Boriska’s birth (1996) and public emergence (2000s)—possible **predictive disclosure** or independent channel; add to correlation table.
+4. **Correlation:** Note that **1984** CIA Mars **remote viewing** session (Mars, ancient civilization, collapse) predates Boriska’s birth (1996) and public emergence (2000s)—possible **predictive disclosure** or independent channel; add to correlation table.
 
 ---
 
@@ -122,10 +122,10 @@ Question: Do **increases** in Mars–Earth reincarnation reports (or in cultural
 
 | Step | Action |
 |------|--------|
-| 1 | List **candidate Earth-side events** by decade (e.g. 1770s MFEE, 1898 WotW, 1961 *Stranger*, 1984 CIA Mars RV, 1990–1991 film cluster, 1996 Boriska birth, 2007 *Martian Child*, 2008 Boriska doc). |
+| 1 | List **candidate Earth-side events** by decade (e.g. 1770s MFEE, 1898 WotW, 1961 *Stranger*, 1984 CIA Mars remote viewing session, 1990–1991 film cluster, 1996 Boriska birth, 2007 *Martian Child*, 2008 Boriska doc). |
 | 2 | List **candidate Martian events** (MFEE ~1774, post-MFEE consolidation, invasion era ~1890s, ongoing 20th c. collapse). |
 | 3 | Map **reported cases** (Boriska b. 1996; any others) and **media release dates** onto a timeline. |
-| 4 | Check for **clusters**: e.g. do “Martian child” films (1990, 1991, 2007) cluster after postulated Martian stress events or after CIA RV (1984)? |
+| 4 | Check for **clusters**: e.g. do “Martian child” films (1990, 1991, 2007) cluster after postulated Martian stress events or after CIA Mars remote viewing (1984)? |
 | 5 | Cross-reference with **warfare/consolidation** dates (Napoleonic, Crimean, US Civil War, WWI, WWII, Cold War) and note any alignment with spikes in Mars–Earth motifs. |
 
 ---
