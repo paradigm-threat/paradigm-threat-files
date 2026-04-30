@@ -2,6 +2,8 @@
 
 ![What Are You Waiting For? — deferral, headlines, calm-by-waiting (article art)](what-are-you-waiting-for.png)
 
+![What Are You Waiting For? — alternate article art](what-are-you-waiting-for2.png)
+
 The first time I clocked the line was not in a stadium or a protest tape. It was the end of *The Matrix* (1999), in a dollar theater, sitting through the credits while the house lights stayed down. Rage Against the Machine’s “Wake Up” ([Wikipedia — song](https://en.wikipedia.org/wiki/Wake_Up_(Rage_Against_the_Machine_song))) landed over the scroll, and one phrase stuck: *“Networks at work, keepin' people calm.”* Same film that had just spent two hours telling you the world was a stitched lie—then handed you a true sentence about how the lie breathes: not only by hiding facts, but by scheduling your attention so the present never becomes urgent enough to break things.
 
 That scheduling habit is everywhere once you listen for it. It is not a single conspiracy; it is a shape—religious, political, scientific-marketing, and feed-native—where tomorrow carries the moral weight so today stays tolerable.
