@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-30T11:34:55.365Z",
+    "date": "2026-04-30T11:36:26.560Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/what-are-you-waiting-for.md",
+        "href": "/influence/controlled_opposition/what-are-you-waiting-for"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/what-are-you-waiting-for.png",
+        "alt": "What Are You Waiting For? — deferral, headlines, calm-by-waiting (article art)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-30T11:34:54.000Z",
+    "message": "What Are You Waiting For: closing section, lighter bold, index refresh.",
     "files": [
       {
         "status": "M",
@@ -1649,44 +1667,5 @@
     "message": "changelog: regenerate without (staged) stub.",
     "files": [],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T23:04:16.000Z",
-    "message": "Mars PP: X2 mass telepath purge, Jeff Wayne WOTW PC, MFEE rebound; transcript globe/river.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
-        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
-        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
-        "alt": "*Chrono Trigger* / Mars RV — predictive-programming composite (author)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png",
-        "alt": "Mars Exploration 1984 — RV investigation composite (same release, alternate layout)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
-        "alt": "Mars Exploration 1984 — PDF digest companion figure"
-      }
-    ]
   }
 ]

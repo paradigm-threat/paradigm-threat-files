@@ -109,9 +109,7 @@ In another sense, a lot has already been disclosed—just not settled. It sits i
 
 Mark my words: when a capstone disclosure ever does arrive in the wild, it will probably read as a small headline—easy to miss, easy to scroll past—while the argument stays loud somewhere else. So forget waiting on prophecy. Start weighing real plans you can touch: budgets, votes, contracts, bodies in rooms.
 
-Gandalf, in Tolkien’s *The Lord of the Rings*, puts the usable part without the sermon: “All we have to decide is what to do with the time that is given us.” That is enough of a closing for me.
-
-Cross-domain parallels here are pattern language, not proof that rabbis, agencies, and grifters share one room. For what *is* and *is not* claimed in the disclosure basin, use the Great Awakening file’s [Limits and disclaimers](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md#limits-and-disclaimers).
+As Gandalf would say: “All we have to decide is what to do”...yadda yadda...
 
 Keywords: #Deferral #Disclosure #Messianism #ControlledOpposition #ParadigmThreatFiles #WakeUp #Matrix1999 #ArtemisII #Chronology #RabbiSacks #GreatReset #IraqiDinar #Revaluation #GCR #PredictiveProgramming
 
