@@ -171,6 +171,7 @@ The [Cathars](https://en.wikipedia.org/wiki/Catharism) (Albigensians) of medieva
 
 **Internal / timeline**
 
+- [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — reader essay: scalar / æther bridge, bardos, reincarnation bands (links this dossier).
 - [Scalar Energy as the basis of Creation](https://paradigmthreat.net/timeline/evt-scalar-energy-as-the-basis-of-creation)
 - [Spawning of the First Life Forms](https://paradigmthreat.net/timeline/evt-spawning-of-the-first-life-forms)
 - [/science/maxwell_aether/](https://paradigmthreat.net/science/maxwell_aether/) — [02-did-maxwell-prove-the-aether.md](https://paradigmthreat.net/science/maxwell_aether/02-did-maxwell-prove-the-aether.md)

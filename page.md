@@ -164,6 +164,7 @@ or *not* believing.
 
 * [Artificial Intelligence](/science/ai/ai-control-investigation.md) — Control, PP, and “ghost in the machine” governance.
 * [DNA as Fingerprint, Not Blueprint](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) — Scalar / ZPE medium, first life, ontogeny.
+* [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — Reader essay: æther / scalar bridge, womb and first life, Bardo phenomenology, reincarnation bands; links DNA + afterlife dossiers.
 * [Tornado–Power Station Explosion](/science/geoengineering/tornado-power-station-investigation.md) — EM tornado suppression thesis and media silence.
 * [Weather Modification](/science/geoengineering/weather-modification-investigation.md) — Cloud seeding through ionospheric heaters.
 * [Havana Syndrome](/science/havana_syndrome/havana-syndrome-investigation.md) — Directed energy and gaslighting of the public narrative.
@@ -334,6 +335,8 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 
 ### Reader-facing articles
 
+* [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — Scalar / æther continuity, first life and womb, Bardo and afterlife phenomenology, reincarnation bands; links [DNA / scalar dossier](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md).
+* [What Are You Waiting For?](/influence/controlled_opposition/what-are-you-waiting-for.md) — Deferral as calm technology; religion, disclosure, spectacle; GA / Lacatski / Artemis reads.
 * [Was Chrono Trigger’s plot based on a 1984 CIA Mars remote viewing session?](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) — CIA Reading Room **MON/SUB** Mars transcript (1984) × *Chrono Trigger* / predictive programming (*X-Men* / Cerebro, *X2*, MFEE rhymes); links [full dossier](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md). (**RV** here = viewing, not dinar **revaluation**.)
 * [Rus-Horde echoes in English political and military lexicon (open speculation)](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) — *rush* / *Rus*, *rat* / *рать*, Protestant print and word bias, *King Arthur* (2004); dictionary facts vs. low-confidence parallels
 

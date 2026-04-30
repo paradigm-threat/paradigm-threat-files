@@ -1,8 +1,61 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-04-30T12:27:31.221Z",
+    "date": "2026-04-30T13:46:05.637Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.md",
+        "href": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation"
+      },
+      {
+        "status": "M",
+        "path": "page.md",
+        "href": "/page"
+      },
+      {
+        "status": "A",
+        "path": "science/biology/circle-of-life-and-how-it-began.md",
+        "href": "/science/biology/circle-of-life-and-how-it-began"
+      },
+      {
+        "status": "M",
+        "path": "science/biology/investigations/dna-fingerprint-scalar-life-investigation.md",
+        "href": "/science/biology/investigations/dna-fingerprint-scalar-life-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png",
+        "alt": "Afterlife maps, Bardo / purgatory transition, and Reformation-era ship allegory — illustrative header"
+      },
+      {
+        "src": "/influence/conspiracy/embedding.jpg",
+        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
+      },
+      {
+        "src": "/influence/conspiracy/scientific_truth.jpg",
+        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
+        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
+      },
+      {
+        "src": "/cosmos/mars/mars_life.jpg",
+        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
+      },
+      {
+        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
+        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-04-30T12:27:30.000Z",
+    "message": "What Are You Waiting For: add what-are-you-waiting-for2.png hero art.",
     "files": [
       {
         "status": "M",
@@ -1331,45 +1384,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-28T22:55:38.000Z",
     "message": "changelog: regenerate without (staged) stub.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
-        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
-        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
-        "alt": "*Chrono Trigger* / Mars RV — predictive-programming composite (author)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Coordinate journey — MON/SUB Mars RV session, 22 May 1984 (author graphic; not CIA)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png",
-        "alt": "Mars Exploration 1984 — RV investigation composite (same release, alternate layout)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
-        "alt": "Mars Exploration 1984 — PDF digest companion figure"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T22:55:34.000Z",
-    "message": "Mars PP: X-Men Cerebro, Magneto vs Xavier, X2 two-way; Chrono 2300 mutants outside domes.",
     "files": [
       {
         "status": "M",
