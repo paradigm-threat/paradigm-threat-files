@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-01T12:56:32.444Z",
+    "date": "2026-05-01T15:21:55.407Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".relay.yaml",
+        "href": "/.relay.yaml"
+      },
+      {
+        "status": "A",
+        "path": "hooks/server/get.cs",
+        "href": "/hooks/server/get.cs"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-01T12:56:31.000Z",
+    "message": "Ramectin → ivermectin: §7.1 quote, §12, §13 Q renumber, essay, deep dive",
     "files": [
       {
         "status": "M",
@@ -734,28 +752,6 @@
       {
         "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
         "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T16:17:35.000Z",
-    "message": "Indigenous geology article: intro — house that your father built",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/indigenous-creation-legends-and-geology.md",
-        "href": "/history/chronology/indigenous-creation-legends-and-geology"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/indigenous-creation-legends-and-geology.png",
-        "alt": "How old is your house? — memory, geology, and the long argument (lead figure)"
-      },
-      {
-        "src": "/history/chronology/indigenous-creation-legends-and-geology2.png",
-        "alt": "Companion figure — islands, marks on stone, and the long argument over time"
       }
     ]
   }
