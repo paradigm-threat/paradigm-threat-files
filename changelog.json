@@ -1,8 +1,44 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-01T12:14:10.297Z",
+    "date": "2026-05-01T12:37:18.752Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      },
+      {
+        "status": "M",
+        "path": "science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md",
+        "href": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/biology/the-cure-for-cancer.md",
+        "href": "/science/biology/the-cure-for-cancer"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.png",
+        "alt": "German New Medicine (LearningGNM) — cancer paradigm cluster investigation header"
+      },
+      {
+        "src": "/science/biology/the-cure-for-cancer.png",
+        "alt": "The Cure for Cancer — hope beyond the incurability chorus"
+      },
+      {
+        "src": "/science/biology/the-cure-for-cancer-meme.png",
+        "alt": "Return of the King (2003) frame: Frodo and Sam on the stairs — meme caption “No Sam, You’re the Cancer!” Same narrative trick: the sick voice accuses the loyal friend instead of the ring."
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-01T12:14:09.000Z",
+    "message": "Cancer article: move LOTR meme into incurability section; update meme image",
     "files": [
       {
         "status": "M",
@@ -744,36 +780,6 @@
       {
         "src": "/history/chronology/indigenous-creation-legends-and-geology2.png",
         "alt": "Companion figure — islands, marks on stone, and the long argument over time"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T16:17:35.000Z",
-    "message": "Indigenous legends article: restore hero PNG, add companion figure",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/indigenous-creation-legends-and-geology.md",
-        "href": "/history/chronology/indigenous-creation-legends-and-geology"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/indigenous-creation-legends-and-geology.png",
-        "href": "/history/chronology/indigenous-creation-legends-and-geology.png"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/indigenous-creation-legends-and-geology2.png",
-        "href": "/history/chronology/indigenous-creation-legends-and-geology2.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/indigenous-creation-legends-and-geology.png"
-      },
-      {
-        "src": "/history/chronology/indigenous-creation-legends-and-geology2.png"
       }
     ]
   }
