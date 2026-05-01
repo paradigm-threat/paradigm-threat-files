@@ -2,7 +2,7 @@
 
 ![German New Medicine (LearningGNM) — cancer paradigm cluster investigation header](gnm-learninggnm-cancer-paradigm-cluster-investigation.png)
 
-> **TL;DR:** [LearningGNM](https://learninggnm.com/home.html) presents **Ryke Geerd Hamer**’s **German New Medicine (GNM)** as a **non-ideological** teaching project centered on the **Five Biological Laws**, organismic self-healing, and dissociation from “misrepresentations.” This dossier **indexes** that public face, **maps** **documented external rebuttals** (medical societies, journal articles, skeptical press) **as bibliography**—not as the file’s moral spine—then **contrasts** GNM with **CIA-style remote viewing** (perception-at-a-distance programs), **scalar / structured-vacuum biology** in-repo, and **Jerry Tennant**’s **Healing is Voltage** (pH ↔ millivolts). It **preserves** the **author’s working cancer thesis** (man-made / control / multi-causal cures / epistemic turf war) **verbatim** in **§7.1** and **closes** with **§7.2**—**1838** **cell-oncology** **as** **pivot**, **evolution** **+** **eugenics** **continuity**, **inner** **blame** **vs** **terrain**, **post-1945** **diffusion** **of** **grammar**, **and** ***A** **Serious** **Man*** **as** **control** **metaphor**. **§7.3** **mirrors** **the** **[reader essay *The Cure for Cancer*](/science/biology/the-cure-for-cancer.md)** **“light** **stack”** (**environment,** **vaccine-manufacturing** **questions,** **RF** **proximity,** **chemotherapy** **as** **terrain** **stressor,** **parasite** **lane)** **as** **a** **hypothesis** **registry** **without** **duplicating** **§7.1** **verbatim**. **§9** **anchors** **phenomenology** **vs** **theory** **(humoral** **→** **Müller** **1838** **→** **molecular)**. **§10+** **threads** **money**, **ads**, **fiction**, **open** **claims**. Site root links **parasites–cancer** and **Tennant** ([`page.md`](/page.md)).
+> **TL;DR:** [LearningGNM](https://learninggnm.com/home.html) presents **Ryke Geerd Hamer**’s **German New Medicine (GNM)** as a **non-ideological** teaching project centered on the **Five Biological Laws**, organismic self-healing, and dissociation from “misrepresentations.” This dossier **indexes** that public face, **maps** **documented external rebuttals** (medical societies, journal articles, skeptical press) **as bibliography**—not as the file’s moral spine—then **contrasts** GNM with **scalar / structured-vacuum biology** in-repo and **Jerry Tennant**’s **Healing is Voltage** (pH ↔ millivolts). It **preserves** the **author’s working cancer thesis** (man-made / control / multi-causal cures / epistemic turf war) **verbatim** in **§7.1** and **closes** with **§7.2**—**1838** **cell-oncology** **as** **pivot**, **evolution** **+** **eugenics** **continuity**, **inner** **blame** **vs** **terrain**, **post-1945** **diffusion** **of** **grammar**, **and** ***A** **Serious** **Man*** **as** **control** **metaphor**. **§7.3** **mirrors** **the** **[reader essay *The Cure for Cancer*](/science/biology/the-cure-for-cancer.md)** **“light** **stack”** (**environment,** **vaccine-manufacturing** **questions,** **RF** **proximity,** **chemotherapy** **as** **terrain** **stressor,** **parasite** **lane)** **as** **a** **hypothesis** **registry** **without** **duplicating** **§7.1** **verbatim**. **§9** **anchors** **phenomenology** **vs** **theory** **(humoral** **→** **Müller** **1838** **→** **molecular)**. **§10+** **threads** **money**, **ads**, **fiction**, **open** **claims**. Site root links **parasites–cancer** and **Tennant** ([`page.md`](/page.md)).
 
 **Date:** 2026-05-01  
 **Status:** Open — **§7.2** **author** **closing** **synthesis** **landed** **(2026-05-03)**; **§7.3** **reader-essay** **terrain** **stack** **mirrored** **(2026-05-01)**; primary Hamer corpus still thin; pop-culture corpus study pending; optional *A Serious Man* scene dossier pending.
@@ -13,7 +13,7 @@
 
 1. **What LearningGNM says on tin** → §1  
 2. **Hamer/GNM claims in outline** → §2  
-3. **Contrast other paradigms (RV, scalar, voltage)** → §3  
+3. **Contrast other paradigms (scalar, voltage)** → §3  
 4. **Adjacent “cancer cure” and biology links in this repo** → §4  
 5. **Oncology money (market reports)** → §5  
 6. **Advertising (general pharma DTC; oncology-specific TBD)** → §6  
@@ -56,16 +56,14 @@ Biographical and doctrinal summaries are widely repeated in **secondary** source
 
 ---
 
-## 3. Contrast: GNM vs remote viewing vs scalar biology vs “Healing is Voltage”
+## 3. Contrast: GNM vs scalar biology vs “Healing is Voltage”
 
-| Axis | **GNM (Hamer)** | **Remote viewing (IC / SRI lineage)** | **Scalar / ZPE biology (in-repo)** | **Jerry Tennant — Healing is Voltage** |
-|------|------------------|----------------------------------------|--------------------------------------|------------------------------------------|
-| **Core metaphor** | **Psyche → organ-specific** biological program; **two-phase** somatic timeline tied to **conflict**. | **Psyche → target** coordinate or **descriptor** at a distance; tasking and feedback loops. | **Vacuum / medium / nested EM** organizes **form**; DNA as **fingerprint** not executive program. | **Cellular millivolts** and **pH** as **proxies** for **terrain**; chronic illness as **insufficient voltage** to make new cells. |
-| **Epistemic home** | Alternative medicine / **New Medicine** networks; **LearningGNM** as canonical English portal. | Declassified **STAR GATE** adjacent literature; **fiction encoding** and **CO** basins in-repo ([Mars 1984 RV dossier](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)). | Timeline + biology dossier ([DNA / scalar investigation](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md)). | Popular **energy medicine** + devices (e.g. Biomodulator); [Tennant Institute](https://tennantinstitute.com/healing-with-voltage/); commercial book line. |
-| **Overlap with author cancer thesis** | Strong on **psychogenic** and **narrative control** (who owns the meaning of “disease”). | Strong on **classified knowledge** and **spectacle** (what the public is allowed to believe about human capability). | Strong on **redacted physics** and **ontogeny** (what “life” is allowed to couple to). | Strong on **terrain** and **electrochemical** language — closest **numeric** rhyme to **pH / internal milieu** theses without importing Hamer’s **organ law table**. |
-| **Divergence** | **Conflict-specific organ maps** are **not** RV grids; **not** Maxwell medium; **not** voltmeter-first. | **No** standard claim that **cancer** is a **post-shock tissue program** in RV protocol sheets. | **No** requirement that **tumor** equals **conflict phase**; substrate physics is **orthogonal** to Hamer’s psychograms. | **Measurable** framing (mV, pH) invites a **different falsification path** than Hamer’s **HSN** typology. |
-
-**Repo link (RV):** [Great Awakening / dinar “RV” disambiguation](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) — **RV** = revaluation in that file; **remote viewing** is the intelligence-community sense in the Mars dossier.
+| Axis | **GNM (Hamer)** | **Scalar / ZPE biology (in-repo)** | **Jerry Tennant — Healing is Voltage** |
+|------|------------------|--------------------------------------|------------------------------------------|
+| **Core metaphor** | **Psyche → organ-specific** biological program; **two-phase** somatic timeline tied to **conflict**. | **Vacuum / medium / nested EM** organizes **form**; DNA as **fingerprint** not executive program. | **Cellular millivolts** and **pH** as **proxies** for **terrain**; chronic illness as **insufficient voltage** to make new cells. |
+| **Epistemic home** | Alternative medicine / **New Medicine** networks; **LearningGNM** as canonical English portal. | Timeline + biology dossier ([DNA / scalar investigation](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md)). | Popular **energy medicine** + devices (e.g. Biomodulator); [Tennant Institute](https://tennantinstitute.com/healing-with-voltage/); commercial book line. |
+| **Overlap with author cancer thesis** | Strong on **psychogenic** and **narrative control** (who owns the meaning of “disease”). | Strong on **redacted physics** and **ontogeny** (what “life” is allowed to couple to). | Strong on **terrain** and **electrochemical** language — closest **numeric** rhyme to **pH / internal milieu** theses without importing Hamer’s **organ law table**. |
+| **Divergence** | **Conflict-specific organ maps** are **not** Maxwell-medium models; **not** voltmeter-first. | **No** requirement that **tumor** equals **conflict phase**; substrate physics is **orthogonal** to Hamer’s psychograms. | **Measurable** framing (mV, pH) invites a **different falsification path** than Hamer’s **HSN** typology. |
 
 **Interpretive note (reader-essay alignment):** **GNM**, **Healing is Voltage**, and **scalar / DNA fingerprint** biology are **not** interchangeable falsifiers—**conflict-to-organ** tables are **not** millivolt readouts. The [reader essay *The Cure for Cancer*](/science/biology/the-cure-for-cancer.md) uses **triangulation**: each lane tries to restore **terrain** or **patient authorship** where **cell-fatalism** prefers passivity; **none** **alone** **settles** **the** **others**.
 
@@ -245,8 +243,6 @@ Evolutionary and **comparative** **oncology** discuss **neoplasia** **across** *
 |------|----------|
 | [The Cure for Cancer](/science/biology/the-cure-for-cancer.md) | **Reader essay** — hope / celebrity / terrain / **GNM** **primer** **(critical)** **+** **light** **stack** **(mirrored** **in** **§7.3)**; **points** **to** **this** **file** **and** **Limits**. |
 | [DNA as fingerprint, not blueprint](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) | Scalar / medium / ontogeny **neighbor** |
-| [Great Awakening / RV cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) | **RV** abbreviation disambiguation + **disclosure** basin |
-| [Mars 1984 RV dossier](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) | **Remote viewing** primary-adjacent documentation |
 | [Trump-era Hollywood PP](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) | Template for **spectacle frequency** methods |
 
 ---
@@ -296,7 +292,7 @@ Evolutionary and **comparative** **oncology** discuss **neoplasia** **across** *
 
 ---
 
-Keywords: #GermanNewMedicine #Learninggnm #CancerParadigm #OncologyMarket #ParadigmThreatFiles #RemoteViewing #ScalarBiology #HealingIsVoltage #TerrainThesis #DocumentedRebuttals #Eugenics #CellularPathology1838 #SeriousMan #IdeologyOfControl #TheCureForCancer #TerrainFirst
+Keywords: #GermanNewMedicine #Learninggnm #CancerParadigm #OncologyMarket #ParadigmThreatFiles #ScalarBiology #HealingIsVoltage #TerrainThesis #DocumentedRebuttals #Eugenics #CellularPathology1838 #SeriousMan #IdeologyOfControl #TheCureForCancer #TerrainFirst
 
 **Last updated:** 2026-05-01
 
