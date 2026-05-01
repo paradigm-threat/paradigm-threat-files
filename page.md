@@ -164,6 +164,7 @@ or *not* believing.
 
 * [Artificial Intelligence](/science/ai/ai-control-investigation.md) — Control, PP, and “ghost in the machine” governance.
 * [DNA as Fingerprint, Not Blueprint](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) — Scalar / ZPE medium, first life, ontogeny.
+* [German New Medicine (LearningGNM) — cancer paradigm cluster](/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md) — Hamer/GNM portal, terrain thesis, oncology money/ads, RV & scalar & Tennant contrasts; author cancer program preserved.
 * [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — Reader essay: æther / scalar bridge, womb and first life, Bardo phenomenology, reincarnation bands; links DNA + afterlife dossiers.
 * [Tornado–Power Station Explosion](/science/geoengineering/tornado-power-station-investigation.md) — EM tornado suppression thesis and media silence.
 * [Weather Modification](/science/geoengineering/weather-modification-investigation.md) — Cloud seeding through ionospheric heaters.
