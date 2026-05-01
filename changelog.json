@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-01T12:05:15.895Z",
+    "date": "2026-05-01T12:07:01.120Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/biology/the-cure-for-cancer.md",
+        "href": "/science/biology/the-cure-for-cancer"
+      },
+      {
+        "status": "A",
+        "path": "science/biology/the-cure-for-cancer.png",
+        "href": "/science/biology/the-cure-for-cancer.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/biology/the-cure-for-cancer.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-01T12:05:15.000Z",
+    "message": "Add reader article The Cure for Cancer; link from hub and GNM investigation",
     "files": [
       {
         "status": "M",
@@ -1439,12 +1461,5 @@
         "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T16:17:35.000Z",
-    "message": "Merge atlanta3/main: sync relay with GitLab main",
-    "files": [],
-    "images": []
   }
 ]
