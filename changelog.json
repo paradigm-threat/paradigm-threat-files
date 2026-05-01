@@ -1,8 +1,39 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-01T12:37:18.752Z",
+    "date": "2026-05-01T12:38:28.532Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md",
+        "href": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/biology/the-cure-for-cancer.md",
+        "href": "/science/biology/the-cure-for-cancer"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.png",
+        "alt": "German New Medicine (LearningGNM) — cancer paradigm cluster investigation header"
+      },
+      {
+        "src": "/science/biology/the-cure-for-cancer.png",
+        "alt": "The Cure for Cancer — hope beyond the incurability chorus"
+      },
+      {
+        "src": "/science/biology/the-cure-for-cancer-meme.png",
+        "alt": "Return of the King (2003) frame: Frodo and Sam on the stairs — meme caption “No Sam, You’re the Cancer!” Same narrative trick: the sick voice accuses the loyal friend instead of the ring."
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-01T12:37:17.000Z",
+    "message": "ARTICLES length targets ~3k; expand The Cure for Cancer",
     "files": [
       {
         "status": "M",
@@ -738,48 +769,6 @@
       },
       {
         "src": "/history/chronology/indigenous-creation-legends-and-geology2.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T16:17:35.000Z",
-    "message": "Docs: ARTICLES.md voice, bold, attribution; de-bold indigenous essay",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/LINKING_AND_SITE_PATHS.md",
-        "href": "/docs/LINKING_AND_SITE_PATHS"
-      },
-      {
-        "status": "M",
-        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
-        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
-      },
-      {
-        "status": "A",
-        "path": "docs/instructions/ARTICLES.md",
-        "href": "/docs/instructions/ARTICLES"
-      },
-      {
-        "status": "M",
-        "path": "docs/instructions/PAGE_MD_AUTOINDEX.md",
-        "href": "/docs/instructions/PAGE_MD_AUTOINDEX"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/indigenous-creation-legends-and-geology.md",
-        "href": "/history/chronology/indigenous-creation-legends-and-geology"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/indigenous-creation-legends-and-geology.png",
-        "alt": "How old is your house? — memory, geology, and the long argument (lead figure)"
-      },
-      {
-        "src": "/history/chronology/indigenous-creation-legends-and-geology2.png",
-        "alt": "Companion figure — islands, marks on stone, and the long argument over time"
       }
     ]
   }
