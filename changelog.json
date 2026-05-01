@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-01T12:38:28.532Z",
+    "date": "2026-05-01T12:41:54.719Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md",
+        "href": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.png",
+        "alt": "German New Medicine (LearningGNM) — cancer paradigm cluster investigation header"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-01T12:38:27.000Z",
+    "message": "GNM investigation: §7.3 mirrors Cure for Cancer essay; hub rows, §10/§13, Limits",
     "files": [
       {
         "status": "M",
@@ -724,51 +742,6 @@
       {
         "src": "/history/chronology/indigenous-creation-legends-and-geology2.png",
         "alt": "Companion figure — islands, marks on stone, and the long argument over time"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T16:17:35.000Z",
-    "message": "Docs: Substack/email length targets for articles; sync chronology assets",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
-        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
-      },
-      {
-        "status": "M",
-        "path": "docs/instructions/ARTICLES.md",
-        "href": "/docs/instructions/ARTICLES"
-      },
-      {
-        "status": "M",
-        "path": "docs/instructions/PAGE_MD_AUTOINDEX.md",
-        "href": "/docs/instructions/PAGE_MD_AUTOINDEX"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/indigenous-creation-legends-and-geology.md",
-        "href": "/history/chronology/indigenous-creation-legends-and-geology"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/indigenous-creation-legends-and-geology.png",
-        "href": "/history/chronology/indigenous-creation-legends-and-geology.png"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/indigenous-creation-legends-and-geology2.png",
-        "href": "/history/chronology/indigenous-creation-legends-and-geology2.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/indigenous-creation-legends-and-geology.png"
-      },
-      {
-        "src": "/history/chronology/indigenous-creation-legends-and-geology2.png"
       }
     ]
   }
