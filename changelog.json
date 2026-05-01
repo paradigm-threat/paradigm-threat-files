@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-01T12:41:54.719Z",
+    "date": "2026-05-01T12:50:29.568Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/biology/the-cure-for-cancer.md",
+        "href": "/science/biology/the-cure-for-cancer"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/biology/the-cure-for-cancer.png",
+        "alt": "The Cure for Cancer — hope beyond the incurability chorus"
+      },
+      {
+        "src": "/science/biology/the-cure-for-cancer-meme.png",
+        "alt": "Return of the King (2003) frame: Frodo and Sam on the stairs — meme caption “No Sam, You’re the Cancer!” Same narrative trick: the sick voice accuses the loyal friend instead of the ring."
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-01T12:41:53.000Z",
+    "message": "GNM investigation: drop remote-viewing column, links, and #RemoteViewing keyword",
     "files": [
       {
         "status": "M",
@@ -705,28 +727,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-28T16:17:35.000Z",
     "message": "Indigenous geology article: smoother intro (father built house vs state)",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/indigenous-creation-legends-and-geology.md",
-        "href": "/history/chronology/indigenous-creation-legends-and-geology"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/indigenous-creation-legends-and-geology.png",
-        "alt": "How old is your house? — memory, geology, and the long argument (lead figure)"
-      },
-      {
-        "src": "/history/chronology/indigenous-creation-legends-and-geology2.png",
-        "alt": "Companion figure — islands, marks on stone, and the long argument over time"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T16:17:35.000Z",
-    "message": "Indigenous geology article: intro analogy — dad built the house, state disputes age",
     "files": [
       {
         "status": "M",
