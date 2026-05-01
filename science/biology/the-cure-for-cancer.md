@@ -4,6 +4,8 @@
 
 For years the script was the same: another familiar face gone to cancer, another fundraiser color, another ribbon season that asks for obedience to a single emotional conclusion—that some losses are **structure**, not accident, and that the best you can do is hope your number comes up late. I do not accept that weather. I think we are living inside a **story about incurability** that purchases the industry underneath it, and I think that story is already cracking, because the details we are handed do not cohere once you listen with ordinary skepticism instead of programmed grief.
 
+![Return of the King (2003) frame: Frodo and Sam on the stairs — meme caption “No Sam, You’re the Cancer!” Same narrative trick: the sick voice accuses the loyal friend instead of the ring.](the-cure-for-cancer-meme.png)
+
 > **TL;DR:** Mainstream media trains us to hear “cancer” as a synonym for hopeless and random. I argue the narrative inverts what money and access would predict, especially around celebrities, and that indigenous and terrain-level medicines have been caricatured as hoaxes while curability is structurally unprofitable to admit. The heavy history sits in the linked investigation; here the claim is human: we are closer than we are told to ending this dystopian chorus.
 
 ## The incurability soundtrack
