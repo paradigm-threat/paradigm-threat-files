@@ -1,8 +1,34 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-01T12:10:32.467Z",
+    "date": "2026-05-01T12:14:10.297Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/biology/the-cure-for-cancer-meme.png",
+        "href": "/science/biology/the-cure-for-cancer-meme.png"
+      },
+      {
+        "status": "M",
+        "path": "science/biology/the-cure-for-cancer.md",
+        "href": "/science/biology/the-cure-for-cancer"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/biology/the-cure-for-cancer-meme.png"
+      },
+      {
+        "src": "/science/biology/the-cure-for-cancer.png",
+        "alt": "The Cure for Cancer — hope beyond the incurability chorus"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-01T12:10:31.000Z",
+    "message": "Add LOTR meme asset the-cure-for-cancer-meme.png to cancer article",
     "files": [
       {
         "status": "A",
@@ -748,377 +774,6 @@
       },
       {
         "src": "/history/chronology/indigenous-creation-legends-and-geology2.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-28T16:17:35.000Z",
-    "message": "Indigenous legends: Pitcairn §1.5.1, lay article, hubs and autogen",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
-        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
-      },
-      {
-        "status": "M",
-        "path": "docs/LINKING_AND_SITE_PATHS.md",
-        "href": "/docs/LINKING_AND_SITE_PATHS"
-      },
-      {
-        "status": "M",
-        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
-        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
-      },
-      {
-        "status": "M",
-        "path": "docs/instructions/PAGE_MD_AUTOINDEX.md",
-        "href": "/docs/instructions/PAGE_MD_AUTOINDEX"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/indigenous-creation-legends-and-geology.md",
-        "href": "/history/chronology/indigenous-creation-legends-and-geology"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/indigenous-creation-legends-and-geology.png",
-        "href": "/history/chronology/indigenous-creation-legends-and-geology.png"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/indigenous-creation-dates.md",
-        "href": "/history/chronology/investigations/indigenous-creation-dates"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md",
-        "href": "/history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/page.md",
-        "href": "/history/chronology"
-      },
-      {
-        "status": "M",
-        "path": "page.md",
-        "href": "/page"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/indigenous-creation-legends-and-geology.png"
-      },
-      {
-        "src": "/history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.png",
-        "alt": "Indigenous legends vs. geologic deep-time — investigation figure"
-      },
-      {
-        "src": "/history/chronology/tartaria/tartarian_structures.jpg",
-        "alt": "Tartarian neoclassical architecture exists world-wide"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon2.jpg",
-        "alt": "Earth may have been a satellite of planet Saturn in primordial times"
-      },
-      {
-        "src": "/history/chronology/fomenko_books.jpg",
-        "alt": "Fomenko books - USA has Issues with British Maps"
-      },
-      {
-        "src": "/cosmos/cosmology/hollow_earth/hollow_earth_EU_model.jpg",
-        "alt": "Electric Universe - hollow earth EU model"
-      },
-      {
-        "src": "/history/chronology/saturn/brown_dwarf.jpg",
-        "alt": "Before the Golden Age began, (Proto-)Saturn was once a Brown Dwarf System floating through our galaxy."
-      },
-      {
-        "src": "/history/chronology/saturn/plasma_discharge_recorded2.jpg",
-        "alt": "Plasmoids in Southern Hemisphere before Golden Age"
-      },
-      {
-        "src": "/history/chronology/saturn/golden_age_hieronimus_bosch.jpg",
-        "alt": "The Garden of Earthly Delights by Hieronymus Bosch depicting the Golden Age"
-      },
-      {
-        "src": "/history/chronology/saturn/cosmic_mountain.jpg",
-        "alt": "Sumerian Tablets - Cosmic Mountain and Wheel of Heaven"
-      },
-      {
-        "src": "/history/chronology/saturn/saturn_configuration_vortex.jpg",
-        "alt": "Z-pinch aurora research - petroglyphs and ancient symbols"
-      },
-      {
-        "src": "/history/chronology/saturn/norse_yggdrasil.jpg",
-        "alt": "Yggdrasil - the world tree unifying the 9 worlds in Norse cosmology"
-      },
-      {
-        "src": "/history/chronology/saturn/golden_age_absu.jpg",
-        "alt": "Golden Age Absu plasma layers surrounding the planets"
-      },
-      {
-        "src": "/history/chronology/saturn/saturnian_configuration_north.jpg",
-        "alt": "Northern view of Saturnian configuration - Mars, Venus, Saturn, Jupiter and Sun"
-      },
-      {
-        "src": "/history/chronology/saturn/saturnian_configuration_south.jpg",
-        "alt": "Muspelheim - the southern realm of fire in Norse cosmology"
-      },
-      {
-        "src": "/history/chronology/saturn/golden_age_jacobs_ladder.jpg",
-        "alt": "The appearance of Priori-Mars as the Cosmic Mountain during the Golden Age was also remembered as *Jacob's Ladder*"
-      },
-      {
-        "src": "/history/chronology/pyramids/wormhole.jpg",
-        "alt": "Egyptian Worm-Hole as depicted in egyptian mythology"
-      },
-      {
-        "src": "/history/chronology/atlantis/atlantis_first_jerusalem.jpg",
-        "alt": "Atlantis - First Jerusalem built on the north poles of Mars and Earth"
-      },
-      {
-        "src": "/history/chronology/saturn/golden_age_ends_kronos_devours.jpg",
-        "alt": "Kronos (Planet Saturn) consumes his children"
-      },
-      {
-        "src": "/history/chronology/saturn/golden_age_ends_great_deluge.jpg",
-        "alt": "The Golden Age ends in a Great Deluge"
-      },
-      {
-        "src": "/history/chronology/pyramids/pyramids_around_the_world.png",
-        "alt": "Pyramids built around the world in ancient and modern times"
-      },
-      {
-        "src": "/history/chronology/saturn/cosmic_thunderbolt.jpg",
-        "alt": "The Cosmic Thunderbolt was a series of electric discharges between Jupiter and other planetary bodies"
-      },
-      {
-        "src": "/history/chronology/saturn/planet_narnia.jpg",
-        "alt": "Planets and The Narnia Chronicles"
-      },
-      {
-        "src": "/history/chronology/pyramids/history_pyramid_gates1.jpg",
-        "alt": "Pyramids were functioning Star Gates during the Dark Ages. They no longer function today."
-      },
-      {
-        "src": "/history/chronology/saturn/planet_venus_as_medusa.jpg",
-        "alt": "Planet Venus's Terrible Aspect remembered as **Medusa**"
-      },
-      {
-        "src": "/history/chronology/saturn/venus_and_mars.jpg",
-        "alt": "Venus and Mars battle in the Earth's sky - William Blake and Botticelli"
-      },
-      {
-        "src": "/history/chronology/saturn/mount_sinai.jpg",
-        "alt": "Jupiter was remembered as the Burning Bush on top of Mount Sinai"
-      },
-      {
-        "src": "/history/chronology/saturn/binding_of_isaac.jpg",
-        "alt": "Binding of Isaac is an astrological allegory of the Sun crossing the Zodiac from Taurus to Aries"
-      },
-      {
-        "src": "/history/chronology/saturn/sodom_and_gomorrah.jpg",
-        "alt": "Close encounters with planet Mars destroyed the cities of Sodom and Gomorrah"
-      },
-      {
-        "src": "/history/chronology/saturn/exodus.jpg",
-        "alt": "Exodus from the Pyramidal Empire"
-      },
-      {
-        "src": "/history/chronology/plagues_of_venus.jpg",
-        "alt": "The Ten Plagues were caused by the 'Pass-over' of Planet Venus in Comet form"
-      },
-      {
-        "src": "/history/chronology/saturn/chinese_dragon.jpg",
-        "alt": "Venus as the Chinese Dragon / Comet"
-      },
-      {
-        "src": "/history/chronology/saturn/sun_stands_still_joshua_bayeux.jpg",
-        "alt": "Bayeux Tapestry: The Sun Stands Still for Joshua"
-      },
-      {
-        "src": "/history/chronology/saturn/cathoderal.jpg",
-        "alt": "Cathedrals are Cathodes"
-      },
-      {
-        "src": "/history/chronology/saturn/prometheus.jpg",
-        "alt": "Prometheus was the planet Mars"
-      },
-      {
-        "src": "/history/chronology/christ/christ_is_the_sun7.jpg",
-        "alt": "Christ as the Sun"
-      },
-      {
-        "src": "/history/chronology/lunar_calendar.jpg",
-        "alt": "Fixed Lunar Calendar"
-      },
-      {
-        "src": "/history/chronology/fomenko_new_chronology.jpg",
-        "alt": "Fomenko's New Chronology - scientific coherence and empirical confirmation"
-      },
-      {
-        "src": "/history/chronology/anatoly_fomenko.jpg",
-        "alt": "Anatoly Timofeevich Fomenko - Russian mathematician and New Chronology theorist"
-      },
-      {
-        "src": "/history/chronology/christ/twelve_tribes_zodiac.jpg",
-        "alt": "12 Tribes of Israel/Disciples of Jesus are based on the 12 signs of the Zodiac"
-      },
-      {
-        "src": "/history/chronology/jerusalem/troy_1st_jerusalem.jpg",
-        "alt": "Troy was also called Yoros short for Ierosalim a.k.a. Jerusalem (#1) a.k.a. Tsar-Grad"
-      },
-      {
-        "src": "/history/chronology/christ/hairy_mary.jpg",
-        "alt": "Hairy Mary - painting of Christ's hairy giant mother from Body and Soul exhibit"
-      },
-      {
-        "src": "/history/chronology/christ/conjunction.jpg",
-        "alt": "Jupiter and Saturn conjunction - Star of Bethlehem, 840-year Crucifixion anniversary"
-      },
-      {
-        "src": "/governance/genocide/giants_faeries/giant_books.jpg",
-        "alt": "Books created by giant humans"
-      },
-      {
-        "src": "/history/maps/map_tartaria_hondius.jpg",
-        "alt": "Map of Tartaria: Path of Christ's Family"
-      },
-      {
-        "src": "/history/chronology/christ/hans_bol_crucifixion_1587.jpg",
-        "alt": "Painting by Hans Bol: The Crucifixion 1587"
-      },
-      {
-        "src": "/history/chronology/christ/crucifixion_descent_tintoretto_1565.jpg",
-        "alt": "Painting by Tintoretto: The Descent from the Cross"
-      },
-      {
-        "src": "/history/chronology/christ/tomb_of_christ_and_brother.jpg",
-        "alt": "Shingō is the location of what is purported to be the resting place"
-      },
-      {
-        "src": "/history/chronology/jerusalem/troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg",
-        "alt": "Protected by Ares by Antonio Raffaele Calliano, 1815"
-      },
-      {
-        "src": "/history/chronology/jerusalem/kremlin_2nd_jerusalem_boris_godunov.png",
-        "alt": "Jerusalem #2 was the Kremlin in Moscow and was never located in Palestine"
-      },
-      {
-        "src": "/history/chronology/tartaria/israel_fake_history.jpg",
-        "alt": "Throughout history, the Jews (those most loyal to the church's"
-      },
-      {
-        "src": "/history/chronology/tartaria/tartarian_empire_emerges_14th_century.jpg",
-        "alt": "15th Century: The Tartarian Empire Invades Europe, Africa and India"
-      },
-      {
-        "src": "/history/chronology/apocalypse/pompeii_painting.jpg",
-        "alt": "Pompeii brothel fresco - Roman culture"
-      },
-      {
-        "src": "/history/chronology/reformation/extraordinary_black_book.jpg",
-        "alt": "John Wade's Extraordinary Black Book - church and state abuses"
-      },
-      {
-        "src": "/history/chronology/apocalypse/black_death.jpg",
-        "alt": "Black Death - devils and flagellant revival, 14th century Tuscany"
-      },
-      {
-        "src": "/history/chronology/tartaria/painting_joan_of_arc_stake.jpg",
-        "alt": "Even the supporters of the traditional version admit that the Maid"
-      },
-      {
-        "src": "/history/chronology/tartaria/painting_samson_and_delilah_by_rubens.jpg",
-        "alt": "When creating the Scaligerian history all of these large-scale"
-      },
-      {
-        "src": "https://www.superprof.com/blog/declensions-latin/)",
-        "alt": "Latin is a scientific, authoritarian language with [many rules"
-      },
-      {
-        "src": "/history/chronology/apocalypse/apocalypse_vasnetsov.jpg",
-        "alt": "In the apocalyptic imaginary, the great struggle of Horus is"
-      },
-      {
-        "src": "/history/chronology/apocalypse/apocalypse_b_west.jpg",
-        "alt": "Death on the Pale Horse - Benjamin West 1796"
-      },
-      {
-        "src": "/history/chronology/tartaria/painting_ottoman_invades_vienna_1683.jpg",
-        "alt": "The Ottoman Army surrounds Vienna by Frans Geffels. The Ottoman"
-      },
-      {
-        "src": "/history/chronology/reformation/painting_german_peasant_war_1525.jpg",
-        "alt": "**The German Peasant’s War (1525)**. Resistance to the Empire led to"
-      },
-      {
-        "src": "/history/chronology/tartaria/galileo_facing_the_inquisition.jpg",
-        "alt": "Galileo was called to Bellarmine's residence and ordered, to abstain"
-      },
-      {
-        "src": "/history/chronology/tartaria/jews_vs_gentiles.jpg",
-        "alt": "The “burning of the Jews” depiction during Europe’s Black Death"
-      },
-      {
-        "src": "https://en.wikipedia.org/wiki/Catharism)",
-        "alt": "Catharism was a [dualist gnostic"
-      },
-      {
-        "src": "/history/chronology/tartaria/1552-khazar-rebellion.png",
-        "alt": "In the middle of the XVI century the Kazan kingdom – aka the"
-      },
-      {
-        "src": "/history/chronology/tartaria/oprichniki_bish.jpg",
-        "alt": "The oprichnina was a state policy implemented by Tsar Ivan the"
-      },
-      {
-        "src": "https://en.wikipedia.org/wiki/King_James_Only_movement)",
-        "alt": "The [King James Only"
-      },
-      {
-        "src": "/history/chronology/tartaria/eight_pointed_star_and_crescent.jpg",
-        "alt": "Coins with Eight pointed star and crescent symbol"
-      },
-      {
-        "src": "https://en.wikipedia.org/wiki/Batoh_massacre)",
-        "alt": "The [Batih Massacre"
-      },
-      {
-        "src": "/history/chronology/fomenko_timeline_1633_1725.gif",
-        "alt": "Inter-religious dispute Judaism-Christianity 1633-1725"
-      },
-      {
-        "src": "/history/chronology/apocalypse/great_comet_of_1665.jpg",
-        "alt": "Great Comet of 1665 - Stanisław Lubieniecki's Theatrum cometicum"
-      },
-      {
-        "src": "/influence/conspiracy/embedding.jpg",
-        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
-      },
-      {
-        "src": "/influence/conspiracy/scientific_truth.jpg",
-        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
-        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
-      },
-      {
-        "src": "/cosmos/mars/mars_life.jpg",
-        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
-      },
-      {
-        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
-        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
       }
     ]
   }
