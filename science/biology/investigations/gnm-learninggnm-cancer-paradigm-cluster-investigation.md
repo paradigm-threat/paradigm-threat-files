@@ -221,6 +221,7 @@ Evolutionary and **comparative** **oncology** discuss **neoplasia** **across** *
 
 | File | Relation |
 |------|----------|
+| [The Cure for Cancer](/science/biology/the-cure-for-cancer.md) | **Reader essay** — hope / celebrity / terrain voice; links here for audit. |
 | [DNA as fingerprint, not blueprint](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) | Scalar / medium / ontogeny **neighbor** |
 | [Great Awakening / RV cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) | **RV** abbreviation disambiguation + **disclosure** basin |
 | [Mars 1984 RV dossier](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) | **Remote viewing** primary-adjacent documentation |
