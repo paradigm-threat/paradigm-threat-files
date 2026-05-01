@@ -68,6 +68,8 @@ Tabloid culture has already teased that the very famous stay uncannily young and
 
 ## What this repo suspects feeds the load (light stack)
 
+A **tabular mirror** of this stack—with cross-links to §9, §4, and open questions—lives in the [GNM / cancer paradigm cluster](/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md) dossier (**§7.3**).
+
 This section is **hypothesis**, not subpoena. I am naming what **Paradigm Threat** files keep pointing at while **excluding** one story I no longer treat as primary: cancer as **generational destiny** or **evolutionary mishap** that absolves the century we built. Mutation and inheritance are **real**; they are not a moral escape hatch from **terrain**.
 
 **Environmental load** stays first—food that isn’t food, chronic stress, sleep stripped, solvents and particulates, war residues, and the ordinary chemistry of **civil convenience** that never gets the cinematic blame a tumor does. When the milieu sores, I expect the **symptom** language downstream to multiply; the tumor is often the **loud** note, not the **only** injury.
