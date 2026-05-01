@@ -32,7 +32,7 @@ Satire is a powerful teacher because it slides under guardrails marked documenta
 
 ## What cannot all be hoax
 
-The world’s lineages of healing—plant, mineral, fast, sweat, light, electrochemical terrain, prayer-as-structure—did not survive millennia only to exist as fraud props for Western primetime. The paradigm-threat work on terrain, voltage, scalar medium, and parasite–cancer threads (begin at [site root](/page.md) Genocide / Science-is-Redacted links) is not a certificate for every claim made under sunlight or honey or THC or the author coinage “Ramectin” in the investigation’s verbatim block. It is an invitation to treat suppression as historical pattern, not as inevitable truth.
+The world’s lineages of healing—plant, mineral, fast, sweat, light, electrochemical terrain, prayer-as-structure—did not survive millennia only to exist as fraud props for Western primetime. The paradigm-threat work on terrain, voltage, scalar medium, and parasite–cancer threads (begin at [site root](/page.md) Genocide / Science-is-Redacted links) is not a certificate for every claim made under sunlight or honey or THC or **ivermectin** as listed in the investigation’s §7.1 voice capture. It is an invitation to treat suppression as historical pattern, not as inevitable truth.
 
 If money and fame cannot find “real” medicine, ask whether the constraint is geography or permission.
 
