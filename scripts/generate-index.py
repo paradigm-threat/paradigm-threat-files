@@ -18,6 +18,31 @@ _KEYWORDS_LINE_RE = re.compile(r"^Keywords:\s*(.+)$", re.MULTILINE | re.IGNORECA
 _JSON_DUMP_KW = {"separators": (",", ":"), "ensure_ascii": False}
 
 
+def _title_from_cs_file(full_path: str) -> str | None:
+    def _is_decorative(s: str) -> bool:
+        t = s.strip()
+        return bool(t) and len(set(t)) <= 2 and all(c in "=-#*_" for c in t)
+
+    try:
+        with open(full_path, "r", encoding="utf-8") as f:
+            for _ in range(40):
+                line = f.readline()
+                if not line:
+                    break
+                s = line.strip()
+                if s.startswith("//"):
+                    t = s[2:].strip()
+                    if t and not _is_decorative(t):
+                        return t[:240]
+                elif s.startswith("/*") or not s:
+                    continue
+                else:
+                    break
+    except OSError:
+        pass
+    return None
+
+
 def _extract_keywords_from_markdown_file(full_path: str) -> list[str]:
     """Parse hashtag tokens from a Keywords: line (Option B: no hyphens inside tags)."""
     try:
@@ -137,60 +162,66 @@ def generate_index():
                 total_files += count
             else:
                 ext = os.path.splitext(item)[1].lower()
-                if ext in include_exts:
-                    # Extract title for .md files
-                    title = None
-                    if ext == '.md':
-                        try:
-                            with open(full_path, 'r', encoding='utf-8') as f:
-                                for _ in range(20): # Check first 20 lines
-                                    line = f.readline()
-                                    if not line: break
-                                    line = line.strip()
-                                    if line.startswith('# '):
-                                        title = line[2:].strip()
-                                        break
-                                    # Handle YAML frontmatter title if no # header
-                                    if line.startswith('title:'):
-                                        title = line[6:].strip().strip('"').strip("'")
-                                        break
-                        except Exception:
-                            pass
-                    
-                    file_data = {}
-                    if title:
-                        file_data["_title"] = title
-                    if ext == '.md':
-                        kw = _extract_keywords_from_markdown_file(full_path)
-                        if kw:
-                            file_data["_keywords"] = kw
+                rel_posix = os.path.relpath(full_path, repo_dir).replace("\\", "/")
+                is_hooks_cs = ext == '.cs' and rel_posix.startswith('hooks/')
+                if ext not in include_exts and not is_hooks_cs:
+                    continue
+                # Extract title for .md files
+                title = None
+                if ext == '.md':
+                    try:
+                        with open(full_path, 'r', encoding='utf-8') as f:
+                            for _ in range(20): # Check first 20 lines
+                                line = f.readline()
+                                if not line: break
+                                line = line.strip()
+                                if line.startswith('# '):
+                                    title = line[2:].strip()
+                                    break
+                                # Handle YAML frontmatter title if no # header
+                                if line.startswith('title:'):
+                                    title = line[6:].strip().strip('"').strip("'")
+                                    break
+                    except Exception:
+                        pass
+                
+                file_data = {}
+                if title:
+                    file_data["_title"] = title
+                if is_hooks_cs:
+                    cs_title = _title_from_cs_file(full_path)
+                    if cs_title:
+                        file_data["_title"] = cs_title
+                if ext == '.md':
+                    kw = _extract_keywords_from_markdown_file(full_path)
+                    if kw:
+                        file_data["_keywords"] = kw
 
-                    if ext in {'.jpg', '.jpeg', '.png', '.webp'}:
-                        try:
-                            with Image.open(full_path) as img:
-                                file_data["_width"], file_data["_height"] = img.size
-                        except Exception:
-                            pass
+                if ext in {'.jpg', '.jpeg', '.png', '.webp'}:
+                    try:
+                        with Image.open(full_path) as img:
+                            file_data["_width"], file_data["_height"] = img.size
+                    except Exception:
+                        pass
 
-                    updated_iso = _index_updated_iso(full_path, repo_dir, item)
-                    if updated_iso:
-                        file_data["_updated"] = updated_iso
+                updated_iso = _index_updated_iso(full_path, repo_dir, item)
+                if updated_iso:
+                    file_data["_updated"] = updated_iso
+                else:
+                    ts = git_times.get(rel_posix)
+                    if ts is not None:
+                        dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+                        file_data["_updated"] = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
                     else:
-                        rel_posix = os.path.relpath(full_path, repo_dir).replace("\\", "/")
-                        ts = git_times.get(rel_posix)
-                        if ts is not None:
-                            dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+                        try:
+                            mtime = os.path.getmtime(full_path)
+                            dt = datetime.fromtimestamp(mtime, tz=timezone.utc)
                             file_data["_updated"] = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
-                        else:
-                            try:
-                                mtime = os.path.getmtime(full_path)
-                                dt = datetime.fromtimestamp(mtime, tz=timezone.utc)
-                                file_data["_updated"] = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
-                            except OSError:
-                                pass
-                    
-                    tree[item] = file_data
-                    total_files += 1
+                        except OSError:
+                            pass
+
+                tree[item] = file_data
+                total_files += 1
         
         return tree, total_files
 
