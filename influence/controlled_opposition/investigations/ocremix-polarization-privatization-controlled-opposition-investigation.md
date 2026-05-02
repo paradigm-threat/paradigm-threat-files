@@ -368,6 +368,8 @@ The notice **P.S.** (same **NeoGAF** quote) **asserts** staff **could not** main
 
 **Unpack (assistant):** **“Controlled opposition”** here is **not** a **spy-novel** **accusation** — it is the repo’s **pattern** label for **leadership** that **routes** **grassroots energy** toward **institutional** **power** (**publishers**, **career ladders**, **official soundtrack** logic) while **still wearing** **community** **colors**. **Marxist** / **capitalist** are **paired metaphors** for **two styles** of **capture** (**collective** **homogenization** vs **personal** **accumulation**), **not** claims about **either** **person’s** **real-world** **ideology** or **party**. **“Flip the switch”** on **projects** is **your summary** of **observed** **behavior** — document with **links** if challenged. **Generational** contrast is **cultural memory**, **not** **demographics**.
 
+**Cross-read (*Homestuck* dossier):** **[§3.6 — father / patents memoir](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md)** **records** **the** **repo** **author’s** **hypothesis** **that** **Andrew** **Hussie’s** **later** **first-person** **essay** **(**color** **software,** **family** **failure** **arc**)** **rhymes** **motivationally** **with** **the** **Lloyd** **site-operator** **pattern** **named** **above** **(**success-focused** ** enclosure** **of** **a** **fan-origin** **commons**)** **—** **pattern** **language** **only** **;** **Lloyd** **has** **no** **parallel** **memoir** **on** **file** **here.**
+
 ---
 
 ## 9. Unmod removal, 2007 policy formalization, and the HD Remix window
