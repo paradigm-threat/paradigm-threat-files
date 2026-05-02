@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-02T15:57:57.440Z",
+    "date": "2026-05-02T16:10:41.618Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-02T15:57:56.000Z",
+    "message": "Homestuck §3.6: father/patents memoir, author Marx/OCR/§3.4 synthesis; OCR §8.6 cross-read",
     "files": [
       {
         "status": "M",
@@ -631,24 +649,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-04-30T11:36:25.000Z",
     "message": "What Are You Waiting For: shorten closing Gandalf line.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/what-are-you-waiting-for.md",
-        "href": "/influence/controlled_opposition/what-are-you-waiting-for"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/what-are-you-waiting-for.png",
-        "alt": "What Are You Waiting For? — deferral, headlines, calm-by-waiting (article art)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-30T11:34:54.000Z",
-    "message": "What Are You Waiting For: closing section, lighter bold, index refresh.",
     "files": [
       {
         "status": "M",
