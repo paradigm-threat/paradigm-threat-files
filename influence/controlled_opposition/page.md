@@ -5,8 +5,12 @@ Manufactured dissent designed to look like real opposition—led and controlled 
 ## Contents
 
 - [1984 Mars session × *Chrono Trigger* — article](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) — readable overview; links dossier + official PDF
+- [What happened to our favorite fan projects?](/influence/controlled_opposition/what-happened-to-our-favorite-fan-projects.md) — Reader essay: **Protricity** / Ari; fan commons, enclosure, charity halo; bridges OC ReMix / *Homestuck* / SDA investigations.
 - [What Are You Waiting For?](/influence/controlled_opposition/what-are-you-waiting-for.md) — Reader essay: deferral, messianic/disclosure waiting rooms, Rabbi Sacks hinge, Artemis/chronology cross-reads
 - [QAnon is Controlled Opposition](/influence/controlled_opposition/00) — Core investigation: QAnon, Assange, Snowden, and the telltale signs
+- [OC ReMix — polarization, privatization, controlled opposition (open)](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) — VGMix / UnMod / Protricity lane; forum primaries; ban-chain unpack
+- [*Homestuck* / Andrew Hussie — controlled opposition & privatization (open)](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) — Canon / Viz / What Pumpkin / HS2 / Beyond Canon; ferociouscharm snapshot; cross-read [SDA/GDQ/MSF charity investigation](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md)
+- [SDA × GDQ × MSF — charity polarization, Mike Uyama, forum primaries (open)](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) — SDA HTML threads; PCF/percent semantics; **MSF** controversy table + author theses on opacity / sovereignty / routing **~$41M**
 - [Great Awakening / alien savior / revaluation (dinar) / lightworker cluster (open)](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) — Wilcock-adjacent disclosure, *Ancient Aliens*, dinar **revaluation** (chat “RV,” not remote viewing), frequency spirituality, Davos “Great Reset” rhyme; Mars breakaway topcover thesis; **§3.3.4** *Animatrix* / *Second Renaissance* as PP for currency-reset / blockade–war ladder + esoteric gold-basin note (chemistry caveat)
 - [Lacatski / AAWSAP — insider mechanics, politics, GA conditional-tech rhyme (open)](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md) — **§3.7** C2C/Knapp/Kona Blue; **§6** verbatim author fork; viral post appendix + **§4** science debunk
 - [CIA Reading Room — *Mars Exploration*, 22 May 1984 (RV; closed verdict)](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) — `CIA-RDP96-00788R001900760001-9`; MFEE map; PP adjunct **§5.8**
@@ -18,6 +22,10 @@ Manufactured dissent designed to look like real opposition—led and controlled 
 ## Key insight
 
 If a good number of people know it—they most likely want them to know it.
+
+## Investigations — publication hygiene
+
+Open investigations in this folder mix **cited primaries** with **labeled author hypothesis**. Each file ends with **Limits and disclaimers**: **not** legal advice, **not** court or regulator findings, and **no** defamatory intent; misread-as-fact passages should be treated as **labeling** defects pending revision. Examples: [OC ReMix investigation](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md), [*Homestuck* investigation](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md), [SDA × GDQ × MSF investigation](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md).
 
 
 ---
