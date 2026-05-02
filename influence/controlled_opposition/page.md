@@ -5,7 +5,7 @@ Manufactured dissent designed to look like real opposition—led and controlled 
 ## Contents
 
 - [1984 Mars session × *Chrono Trigger* — article](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) — readable overview; links dossier + official PDF
-- [What happened to our favorite fan projects?](/influence/controlled_opposition/what-happened-to-our-favorite-fan-projects.md) — Reader essay: **Protricity** / Ari; fan commons, enclosure, charity halo; bridges OC ReMix / *Homestuck* / SDA investigations.
+- [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) — Reader essay: early industry **landgrab**, fan labor → SKU, forum **alignment**; bridges OC ReMix / *Homestuck* / SDA investigations.
 - [What Are You Waiting For?](/influence/controlled_opposition/what-are-you-waiting-for.md) — Reader essay: deferral, messianic/disclosure waiting rooms, Rabbi Sacks hinge, Artemis/chronology cross-reads
 - [QAnon is Controlled Opposition](/influence/controlled_opposition/00) — Core investigation: QAnon, Assange, Snowden, and the telltale signs
 - [OC ReMix — polarization, privatization, controlled opposition (open)](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) — VGMix / UnMod / Protricity lane; forum primaries; ban-chain unpack
