@@ -6,7 +6,7 @@
 
 **Guide**
 
-**Reader-facing synthesis:** [**What happened to our favorite fan projects?**](/influence/controlled_opposition/what-happened-to-our-favorite-fan-projects.md) — cross-investigation essay (this file + OCR + SDA).
+**Reader-facing synthesis:** [**Success — by any means necessary**](/influence/controlled_opposition/success-by-any-means-necessary.md) — cross-investigation essay (this file + OCR + SDA).
 
 1. **Author thesis (*Homestuck*)** — controlled opposition / privatization **read**; optional **youth**-**influence** **/** **party**-**era** **rhyme** **(§1** **second** **block**).
 2. **Definitions** — terms **as used in this repo**.
@@ -292,7 +292,7 @@ Neither file claims **intel-agency** **controlled opposition** without sources. 
 
 | Investigation                                                                                                                                                        | Relation                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [**What happened to our favorite fan projects?**](/influence/controlled_opposition/what-happened-to-our-favorite-fan-projects.md) | Reader essay — privatization / CO pattern (**Homestuck** rhymes in-text) |
+| [**Success — by any means necessary**](/influence/controlled_opposition/success-by-any-means-necessary.md) | Reader essay — privatization / CO pattern (**Homestuck** rhymes in-text) |
 | [SDA / GDQ / MSF — charity polarization & Mike Uyama](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md)             | **Parallel** **polarization / charity** lane; **Mike** allegations                              |
 | [OC ReMix — polarization & privatization](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) | **§8.6** **Lloyd** **archetype** **/** **§3.6** **cross-read** **(**motivational** **parallel** **—** **hypothesis** **only** **)** |
 | [Controlled opposition hub](/influence/controlled_opposition/page.md)                                                                                                | Parent pattern language                                                                         |

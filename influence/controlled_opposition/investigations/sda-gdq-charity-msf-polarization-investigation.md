@@ -6,7 +6,7 @@
 
 **Guide**
 
-**Reader-facing synthesis:** [**What happened to our favorite fan projects?**](/influence/controlled_opposition/what-happened-to-our-favorite-fan-projects.md) — **Protricity** / Ari voice; charity-router + commons themes.
+**Reader-facing synthesis:** [**Success — by any means necessary**](/influence/controlled_opposition/success-by-any-means-necessary.md) — **Protricity** / Ari voice; charity-router + commons themes.
 
 1. **Author thesis** — SDA, Mike, charity **routing**.  
 2. **Definitions**  
@@ -338,7 +338,7 @@ Cross-reference **§1.1**. **Selection bias** in **pro-charity** press as **mone
 
 | Investigation | Relation |
 |---------------|----------|
-| [**What happened to our favorite fan projects?**](/influence/controlled_opposition/what-happened-to-our-favorite-fan-projects.md) | Reader essay — marathon / commons / **Protricity** lane |
+| [**Success — by any means necessary**](/influence/controlled_opposition/success-by-any-means-necessary.md) | Reader essay — marathon / commons / **Protricity** lane |
 | [*Homestuck* / Andrew Hussie — CO & privatization](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) | **Polarization / privatization** theme cross-read |
 | [OC ReMix — polarization & privatization](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) | **VGM** **commons** **→** **LLC** **/** **industry** **(**§3** **table** **rhyme** **here** **only** **)** |
 | [Controlled opposition hub](/influence/controlled_opposition/page.md) | Parent |

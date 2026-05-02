@@ -6,7 +6,7 @@
 
 **Guide**
 
-**Reader-facing synthesis:** [**What happened to our favorite fan projects?**](/influence/controlled_opposition/what-happened-to-our-favorite-fan-projects.md) — **Protricity** / Ari voice; cross-investigation essay (links **§8** firsthand + **Limits** discipline).
+**Reader-facing synthesis:** [**Success — by any means necessary**](/influence/controlled_opposition/success-by-any-means-necessary.md) — **Protricity** / Ari voice; cross-investigation essay (links **§8** firsthand + **Limits** discipline).
 
 1. **Seed spine** (third-party draft + disclaimer)  
 2. **Entity stack** — LLC, “not-for-profit” site language, **GMI**  
@@ -460,7 +460,7 @@ This file **does not** accuse any named person of **crime**. It tracks **governa
 
 | Investigation | Relation |
 |---------------|----------|
-| [**What happened to our favorite fan projects?**](/influence/controlled_opposition/what-happened-to-our-favorite-fan-projects.md) | Reader essay — **Protricity** / Ari synthesis (**§8** lane + cross-reads) |
+| [**Success — by any means necessary**](/influence/controlled_opposition/success-by-any-means-necessary.md) | Reader essay — **Protricity** / Ari synthesis (**§8** lane + cross-reads) |
 | [*Homestuck* / Hussie](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) | IP / canon privatization rhyme |
 | [SDA / GDQ / MSF](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) | Charity lane; OCR row in **§3** |
 | [CO hub](/influence/controlled_opposition/page.md) | Definitions |
