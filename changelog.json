@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-02T16:24:00.262Z",
+    "date": "2026-05-03T11:39:53.531Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/success-by-any-means-necessary.md",
+        "href": "/influence/controlled_opposition/success-by-any-means-necessary"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-02T16:23:59.000Z",
+    "message": "Add reader essay Success — by any means necessary; retire deleted essay links",
     "files": [
       {
         "status": "M",
@@ -612,95 +630,6 @@
       {
         "src": "/influence/controlled_opposition/what-are-you-waiting-for.png",
         "alt": "What Are You Waiting For? — deferral, headlines, calm-by-waiting (article art)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-04-30T12:12:16.000Z",
-    "message": "What Are You Waiting For: tighten dinar section, prophecy/chronology, closing; GA §3.3.4 Animatrix PP; PP hub + CO index; autogen.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/page.md",
-        "href": "/influence/controlled_opposition"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/what-are-you-waiting-for.md",
-        "href": "/influence/controlled_opposition/what-are-you-waiting-for"
-      },
-      {
-        "status": "M",
-        "path": "influence/predictive_programming/page.md",
-        "href": "/influence/predictive_programming"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.png",
-        "alt": "“Great Awakening” cluster illustration — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); see Limits and disclaimers"
-      },
-      {
-        "src": "/influence/controlled_opposition/what-are-you-waiting-for.png",
-        "alt": "What Are You Waiting For? — deferral, headlines, calm-by-waiting (article art)"
-      },
-      {
-        "src": "/influence/predictive_programming/predictive_programming.png",
-        "alt": "Predictive Programming"
-      },
-      {
-        "src": "/influence/predictive_programming/comics.jpg",
-        "alt": "9/11 predictive programming in comics"
-      },
-      {
-        "src": "/influence/predictive_programming/doom.jpg",
-        "alt": "Doom — quantum teleport between Earth and Mars"
-      },
-      {
-        "src": "/influence/predictive_programming/mars_women.jpg",
-        "alt": "Mars Needs Women — breeding programme theme"
-      },
-      {
-        "src": "/influence/predictive_programming/stargate.jpg",
-        "alt": "Stargate — pyramid as portal"
-      },
-      {
-        "src": "/influence/predictive_programming/wotw.jpg",
-        "alt": "War of the Worlds — heat ray, red weed, Mars inversion"
-      },
-      {
-        "src": "/influence/predictive_programming/simpsons_space_laser.jpg",
-        "alt": "The Simpsons — 9/11 imagery"
-      },
-      {
-        "src": "/influence/predictive_programming/mars_movies.jpg",
-        "alt": "Mars movies"
-      },
-      {
-        "src": "/influence/predictive_programming/marvin.jpg",
-        "alt": "Marvin the Martian"
-      },
-      {
-        "src": "/influence/predictive_programming/marvin2.jpg",
-        "alt": "Marvin the Martian (2)"
-      },
-      {
-        "src": "/influence/predictive_programming/megaman.jpg",
-        "alt": "Mega Man"
-      },
-      {
-        "src": "/influence/predictive_programming/nazis_hollow_earth.jpg",
-        "alt": "Nazis in Hollow Earth"
-      },
-      {
-        "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
-        "alt": "Fire on the Mountain"
       }
     ]
   }
