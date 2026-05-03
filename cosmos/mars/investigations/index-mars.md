@@ -141,6 +141,7 @@ Arnold has **River of the Dead** (one-way, carries corpses to falls) and **ice v
 - [Jonathan Swift — Mars moons & *Gulliver* framing](/influence/predictive_programming/fiction_encoding/swift/swift-mars-giants-publication-stance.md) — Laputan satellites (1726) vs telescopic discovery (1877); travel-hoax paratext
 - [mars-fiction-survey.md](mars-fiction-survey.md) — full Mars literature survey
 - [mars-stock-market-correlation.md](mars-stock-market-correlation.md) — Mars/Dow Jones correlation (1896–2020); *Ares Le Mandat* appendix
+- [anthony-of-boston-mars360-investigation.md](anthony-of-boston-mars360-investigation.md) — Anthony of Boston: *Ares Le Mandat*, Mars 360, sources and third-party citations
 - [arnold-gullivar-jones-reference.md](arnold-gullivar-jones-reference.md) — Arnold reference
 - [wotw-telepathic-purge.md](wotw-telepathic-purge.md) — telepathic purge motif
 - [mars-earth-reincarnation-investigation.md](mars-earth-reincarnation-investigation.md) — Mars–Earth reincarnation; mass death on Mars, souls reborn on Earth, time-period correlation (open)

@@ -165,6 +165,7 @@ Under this assumption, the cyclic world changes (market crashes, wars, regime sh
 
 ## Cross-References
 
+- [anthony-of-boston-mars360-investigation.md](anthony-of-boston-mars360-investigation.md) — Anthony Moore / *Ares Le Mandat* / Mars 360 corpus and citations
 - [mars-fiction-survey.md](mars-fiction-survey.md) — Mars in fiction and disclosure
 - [wotw-telepathic-purge.md](wotw-telepathic-purge.md) — Martian civilization, collective consciousness
 - paradigm-threat-timeline `docs/INVESTIGATIVE_STRATEGY.md` — Evidence, burden of proof, pattern-seeking
