@@ -8,6 +8,8 @@
 
 **Reader-facing synthesis:** [**Success — by any means necessary**](/influence/controlled_opposition/success-by-any-means-necessary.md) — **Protricity** / Ari voice; cross-investigation essay (links **§8** firsthand + **Limits** discipline).
 
+**Reader essay alignment:** Same file — **NDA** **/** **paycheck** **silence** **,** **black-box** **economics** **vis-à-vis** **paying** **audiences** **,** **leader** **responsibility** **(**potential** **suicide** **where** **support** **was** **absent** **)** **,** **active** **conflict** **resolution** **,** **no** **one** **is** **ever** **banned** **(**author** **moral** **standard** **—** **not** **a** **claim** **every** **host** **can** **lawfully** **run** **literal** **zero** **enforcement** **everywhere** **)** **.** **Moral** **ledger** **only** **unless** **sourced** **as** **law** **;** **see** **essay** **Honesty** **cap.**
+
 1. **Seed spine** (third-party draft + disclaimer)  
 2. **Entity stack** — LLC, “not-for-profit” site language, **GMI**  
 3. **2007 policy** + **Street Fighter** timeline  

@@ -8,6 +8,8 @@
 
 **Reader-facing synthesis:** [**Success — by any means necessary**](/influence/controlled_opposition/success-by-any-means-necessary.md) — **Protricity** / Ari voice; charity-router + commons themes.
 
+**Reader essay alignment:** Same file — **paying** **audiences** **shut** **out** **of** **internal** **visibility** **;** **leader** **responsibility** **for** **community** **harm** **(**including** **potential** **suicide** **where** **support** **/** **conflict** **repair** **were** **absent** **)** **;** **no-ban** **ethical** **bar** **(**author** **)** **—** **moral** **thesis** **in** **the** **essay** **,** **not** **a** **court** **finding** **(**see** **essay** **Honesty** **cap** **)** **.**
+
 1. **Author thesis** — SDA, Mike, charity **routing**.  
 2. **Definitions**  
 3. **Parallel communities** — SDA→GDQ, rhymes; **§3** expanded table + **§3.1** Discord / macro privatization + **§3.2** fan-edit / theater commons + engine-fork rhyme cross-read (see [OC ReMix §7.4](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) + [§7.5](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md)).  
