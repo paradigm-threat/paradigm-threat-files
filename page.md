@@ -137,7 +137,7 @@ or *not* believing.
 #### Influence
 
 * [Controlled opposition hub](/influence/controlled_opposition/page) — CO patterns, QAnon cluster, CIA Reading Room Mars **remote viewing** dossier; readable [**Mars × *Chrono Trigger* article**](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md).
-* [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) — Ari essay: early industry **landgrab**, fan labor → SKU, forum **alignment**; links OCR / *Homestuck* / SDA investigations.
+* [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) — Ari essay: **NDA** silence, commons subsidy, **no-ban** leadership ethics & accountability; links OCR / *Homestuck* / SDA investigations.
 * [*Homestuck* / Andrew Hussie — controlled opposition & privatization (open)](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) — Canon / IP / Beyond Canon; ferociouscharm snapshot.
 * [SDA × GDQ × MSF — charity polarization & Mike Uyama (open)](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) — Forum primaries, PCF/MSF, author grievances vs **~$41M** charity throughput.
 * [What Are You Waiting For?](/influence/controlled_opposition/what-are-you-waiting-for.md) — Deferral as calm technology; religion, disclosure, spectacle; links GA / Lacatski / Artemis reads.
@@ -342,7 +342,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 * [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — Scalar / æther continuity, first life and womb, Bardo and afterlife phenomenology, reincarnation bands; links [DNA / scalar dossier](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md).
 * [The Cure for Cancer](/science/biology/the-cure-for-cancer.md) — Hope, celebrity silence, terrain vs incurability marketing; links [GNM / cancer paradigm cluster](/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md).
 * [What Are You Waiting For?](/influence/controlled_opposition/what-are-you-waiting-for.md) — Deferral as calm technology; religion, disclosure, spectacle; GA / Lacatski / Artemis reads.
-* [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) — Ari on enclosure, buyer loop, **alignment** pressure; links OCR / *Homestuck* / SDA dossiers.
+* [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) — Ari on black-box payouts, leader responsibility, **no-ban** standard; links OCR / *Homestuck* / SDA dossiers.
 * [Was Chrono Trigger’s plot based on a 1984 CIA Mars remote viewing session?](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) — CIA Reading Room **MON/SUB** Mars transcript (1984) × *Chrono Trigger* / predictive programming (*X-Men* / Cerebro, *X2*, MFEE rhymes); links [full dossier](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md). (**RV** here = viewing, not dinar **revaluation**.)
 * [Rus-Horde echoes in English political and military lexicon (open speculation)](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) — *rush* / *Rus*, *rat* / *рать*, Protestant print and word bias, *King Arthur* (2004); dictionary facts vs. low-confidence parallels
 

@@ -270,6 +270,7 @@ Neither file claims **intel-agency** **controlled opposition** without sources. 
 8. **Early** **monetization** **/** **IP** **horizon** **(§3.1):** **July/August** **2009** **newsposts** **(**[homestuck.net** **mirror](https://homestuck.net/official/newsposts/)**)** **already** **announce** **merch** **for** **sale** **and** **paid** **Bandcamp** **music** **within** **~3.5–4** **months** **of** **launch** **—** **so** **later** **contributor** **/** **money** **/** **archive** **clashes** **(**§3.5**)** **read** **as** **continuity** **with** **that** **structure**, **not** **only** **as** **surprising** **proof** **of** **sudden** **corruption** **alone**.
 9. **Father** **/** **patents** **memoir** **(**§3.6**)** **:** **First-party** **essay** **(**Google** **Doc** **+** **Justia** **patents**)** **anchors** **the** **author’s** **psychological** **read** **(**failure** **→** **success-at-any-cost** **commercial** **comics** **lane**)** **and** **raises** **author** **confidence** **on** **the** **§3.4** **provenance** **fork** **pending** **released** **logs** **—** **hypothesis** **only**.
 10. **Contributor** **welfare** **/** **George** **Buzinkai** **(**§3.7**)** **:** **Public** **record** **(**wiki** **+** **memorial** **threads**)** **plus** **author** **pattern** **language** **—** **online** **communities** **that** **centralize** **credit** **/** **IP** **around** **for-profit** **actors** **shear** **edges** **(**expulsion,** **shunning,** **algorithmic** **obscurity**)** **unless** **deliberately** **built** **for** **mutual** **aid** **—** **ethical** **(**not** **proven** **legal**)** **questions** **about** **who** **could** **help** **embedded** **collaborators** **in** **crisis.**
+11. **Reader essay — leadership ethics (**[**Success — by any means necessary**](/influence/controlled_opposition/success-by-any-means-necessary.md)**):** **Ari** **assigns** **moral** **(**not** **adjudicated** **legal**)** **responsibility** **to** **visible** **community** **/** **project** **leaders** **for** **members** **who** **did** **not** **fare** **well** **—** **including** **potential** **suicide** **where** **adequate** **support** **/** **conflict** **repair** **were** **absent** **;** **public** **statements** **≠** **support** **;** **minimum** **ethical** **bar** **:** **no** **one** **is** **ever** **banned** **(**author** **standard** **)** **;** **“every** **leader** **failed”** **—** **moral** **ledger** **language** **in** **the** **essay** **only.**
 
 ---
 
@@ -325,7 +326,7 @@ Neither file claims **intel-agency** **controlled opposition** without sources. 
 
 Keywords: #Homestuck #AndrewHussie #ControlledOpposition #CommunityPrivatization #CanonFight #ParadigmThreatFiles
 
-**Last updated:** 2026-05-02 (**§3.7** **Buzinkai** **/** **suicide–community** **ethics** **lane**; **§3.6** **/** **§6** **/** **§7**)
+**Last updated:** 2026-05-02 (**§6** **item** **11** **reader** **essay** **alignment**; **§3.7** **/** **Limits**)
 
 ---
 
@@ -342,6 +343,8 @@ This file mixes **evidence-tier** references (Wikipedia, wikis, press, Internet 
 **§3.5** **does** **not** **assert** **that** **any** **named** **party** **was** **legally** **or** **morally** **correct** **in** **any** **dispute,** **nor** **that** **What** **Pumpkin** **/** **Hussie** **or** **others** **committed** **tort,** **crime,** **or** **breach** **—** **only** **that** **public** **episodes** **are** **indexed** **for** **the** **ownership** **/** **money** **/** **community-framing** **pattern** **aligned** **with** **§3.1**.
 
 **§3.7** **does** **not** **assert** **as** **fact** **the** **manner** **of** **George** **Buzinkai’s** **death** **(**medical** **examiner** **determination**)** **or** **that** **Andrew** **Hussie,** **What** **Pumpkin,** **or** **any** **named** **party** **caused** **or** **failed** **a** **legally** **recognized** **duty** **of** **care** **—** **only** **that** **public** **threads** **and** **author** **ethical** **/** **pattern** **language** **raise** **questions** **distinct** **from** **court** **findings.** **Suicide** **and** **bereavement** **are** **serious** **:** **do** **not** **use** **this** **section** **to** **harass** **survivors** **or** **to** **coordinate** **pile-ons** **against** **named** **people.**
+
+[**Success — by any means necessary**](/influence/controlled_opposition/success-by-any-means-necessary.md) **(**reader** **essay** **)** **advances** **a** **strong** **moral** **thesis** **on** **leader** **accountability** **(**potential** **suicide** **where** **support** **was** **absent** **;** **no-ban** **standard** **)** **—** **not** **a** **court** **finding** **against** **named** **individuals** **;** **see** **essay** **Honesty** **cap.**
 
 ---
 
