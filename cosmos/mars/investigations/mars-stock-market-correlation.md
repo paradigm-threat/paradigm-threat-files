@@ -86,6 +86,8 @@ Under this assumption, the cyclic world changes (market crashes, wars, regime sh
 
 **Methodology:** Daily percentage changes of the Dow Jones extrapolated from sources "believed to be reliable." Each trading day is tagged as Mars-in-node or not.
 
+**Omnibus context:** The appendix sits in Anthony Moore’s ***Ares Le Mandat*** lineage. For how the **full book** frames **Mars-linked influence** on Earth (666 / Mars 360, institutional “mandates,” Israel/Palestine preface) and how that connects to sibling investigations here, see [ares-le-mandat-mars-direct-earth-influence-investigation.md](ares-le-mandat-mars-direct-earth-influence-investigation.md). **First-edition chapter index:** [../ares-le-mandat-first-edition-chapter-index.md](../ares-le-mandat-first-edition-chapter-index.md).
+
 ---
 
 ## Online Citations and Follow-Up Research
@@ -165,7 +167,10 @@ Under this assumption, the cyclic world changes (market crashes, wars, regime sh
 
 ## Cross-References
 
+- [ares-le-mandat-mars-direct-earth-influence-investigation.md](ares-le-mandat-mars-direct-earth-influence-investigation.md) — Hub: omnibus thesis, mandates, Gaza preface vs quant lanes
+- [../ares-le-mandat-first-edition-chapter-index.md](../ares-le-mandat-first-edition-chapter-index.md) — 1st ed. TOC + one-line summaries
 - [anthony-of-boston-mars360-investigation.md](anthony-of-boston-mars360-investigation.md) — Anthony Moore / *Ares Le Mandat* / Mars 360 corpus and citations
+- [israel-gaza-mars-node-claim-timeline-investigation.md](israel-gaza-mars-node-claim-timeline-investigation.md) — Zenodo mirror loss; Israel–Gaza rocket windows vs Mars–node (timeline audit)
 - [mars-fiction-survey.md](mars-fiction-survey.md) — Mars in fiction and disclosure
 - [wotw-telepathic-purge.md](wotw-telepathic-purge.md) — Martian civilization, collective consciousness
 - paradigm-threat-timeline `docs/INVESTIGATIVE_STRATEGY.md` — Evidence, burden of proof, pattern-seeking
@@ -185,7 +190,7 @@ Under this assumption, the cyclic world changes (market crashes, wars, regime sh
 
 ---
 
-*Last updated: 2025-03-12*
+*Last updated: 2026-05-03*
 
 ---
 
