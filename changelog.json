@@ -1,8 +1,285 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-03T13:42:52.895Z",
+    "date": "2026-05-03T14:07:52.406Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "cosmos/mars/ares-le-mandat-first-edition-chapter-index.md",
+        "href": "/cosmos/mars/ares-le-mandat-first-edition-chapter-index"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/anthony-of-boston-mars360-investigation.md",
+        "href": "/cosmos/mars/investigations/anthony-of-boston-mars360-investigation"
+      },
+      {
+        "status": "A",
+        "path": "cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation.md",
+        "href": "/cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/index-mars.md",
+        "href": "/cosmos/mars/investigations/index-mars"
+      },
+      {
+        "status": "A",
+        "path": "cosmos/mars/investigations/israel-gaza-mars-node-claim-timeline-investigation.md",
+        "href": "/cosmos/mars/investigations/israel-gaza-mars-node-claim-timeline-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/mars-stock-market-correlation.md",
+        "href": "/cosmos/mars/investigations/mars-stock-market-correlation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/page.md",
+        "href": "/cosmos/mars"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/success-by-any-means-necessary-info.png",
+        "href": "/influence/controlled_opposition/success-by-any-means-necessary-info.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/success-by-any-means-necessary.png",
+        "href": "/influence/controlled_opposition/success-by-any-means-necessary.png"
+      },
+      {
+        "status": "M",
+        "path": "page.md",
+        "href": "/page"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/success-by-any-means-necessary-info.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/success-by-any-means-necessary.png"
+      },
+      {
+        "src": "/cosmos/mars/investigations/mars-stock-market.png",
+        "alt": "Mars, lunar node, and institutional Earth systems"
+      },
+      {
+        "src": "/cosmos/mars/massacre.jpg",
+        "alt": "# The Deep State is on Mars\n\nThis article has been rewritten with the following updates.\nOriginally I said the Martian appearances in the War of the Worlds book must have been a redaction by H.G. Wells,\nbut now I believe that the book's text was not redacted, and the human Martians were hidden\nwithin biomechanical host bodies - never seen outside the host.\nI originally thought a revolution of sorts must have occurred on Mars\nin order to consolidate enough power to issue an attack upon Earth.\nNow I believe the ability for one faction to assume rulership on Mars was a direct\nresult of telepaths being wiped out by the secondary discharge that occurred\nduring the MudFlood Energetic Event\nwhich (possibly unintentionally) destroyed Martian surface cities as well.\n\n<figure className=\"sm:float-right clear-right m-auto sm:m-1 sm:ml-4 sm:max-w-sm\">\n  <iframe width=\"360\" height=\"200\" src=\"https://www.youtube.com/embed/FWp9TfS8ny4\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowFullScreen=\"true\" className=\"max-w-full m-auto hidden sm:block\"/>\n  <iframe width=\"360\" height=\"200\" src=\"https://www.youtube.com/embed/9GyTNIh9Ffk\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowFullScreen=\"true\" className=\"max-w-full m-auto sm:hidden\"/>\n  <figcaption className='flex justify-center'>\n    Listen to an auto-generated version of this article\n  </figcaption>\n</figure>\n\n![Evidence of planet-wide massacre on Mars"
+      },
+      {
+        "src": "/cosmos/mars/life_on_mars_rules_earth.png",
+        "alt": "Evidence of planet-wide massacre can be found on the surface of Mars"
+      },
+      {
+        "src": "/cosmos/mars/geometric.jpg",
+        "alt": "Evidence of geometric patterns on Mars suggest intelligent construction"
+      },
+      {
+        "src": "/cosmos/mars/cia_remote_viewing.jpg",
+        "alt": "CIA remote viewing experiments on Mars in 1984 observe alien vehicles and environments"
+      },
+      {
+        "src": "/cosmos/mars/globalist_stranglehold.jpg",
+        "alt": "The City of London, Vatican City, and Washington D.C.\n  control the world through finance, religion, and military power respectively"
+      },
+      {
+        "src": "https://en.wikipedia.org/wiki/Sovereign_citizen_movement)",
+        "alt": "In [Sovereign Citizen"
+      },
+      {
+        "src": "https://teslauniverse.com/nikola-tesla/articles/tesla-sure-life-exists-other-planets-works-76-establish-his-belief)](/cosmos/mars/mars_life4.jpg",
+        "alt": "“I am in dead earnest. I feel certain of what I tell you.\n  The transmission of energy to another planet is only a matter of engineering.\n  I have solved the problem so well I don’t regard it as doubtful.\n  It is mathematically certain that other planets are inhabited.\"\n  [- Nicola\n  Tesla"
+      },
+      {
+        "src": "/history/chronology/pyramids/history_pyramid_gates1.jpg",
+        "alt": "Examples of Pyramid structures are found in Egyptian pyramids, Ziggurats in the Middle East, and temples in Southeast\n  Asia"
+      },
+      {
+        "src": "/influence/predictive_programming/stargate.jpg",
+        "alt": "The movie Star Gate (1994) attempts to categorically mythify the connection between real-life pyramids and\n  periodic star-gates into the realm of *science fiction*"
+      },
+      {
+        "src": "/history/chronology/pyramids/history_pyramid_gates2.jpg",
+        "alt": "The Bosnian pyramids have flattened tops, like Latin and South American pyramids, and are constructed with stone\n  slabs.\n  Thermal imaging suggests that they cool off more quickly than surrounding areas,\n  and they are believed to contain hollow areas"
+      },
+      {
+        "src": "/cosmos/cosmology/hollow_earth/hollow_earth_model4.jpg",
+        "alt": "Hollow Earth Theory suggests that the Earth is not solid,\n  but rather a hollow shell with a central sun and openings at both poles"
+      },
+      {
+        "src": "/cosmos/cosmology/hollow_earth/hollow_earth_EU_model.jpg",
+        "alt": "The Electric Universe Theory suggests that all planets and suns are hollow, and that plasma physics\n  (not gravity) played a central role in the creation of our solar system\n  illustrated by primordial electric-scarring seen across the surface of our Moon and Mars."
+      },
+      {
+        "src": "/cosmos/mars/mars_canals5.jpg",
+        "alt": "\"Mars and Its Canals\" by Percival Lowell, published in 1906 details Lowell's theories and observations about the\n  canals of Mars, which he believed were built by an intelligent civilization to transport water across the planet"
+      },
+      {
+        "src": "https://www.bbc.co.uk/newsround/45966335).",
+        "alt": "If Martians influenced War on Earth, it is logical that The Great War may have been *triggered or accelerated*\nby Lowell's announcement of Life on Mars.\nShortly after this, World War I changed the world in *negative* ways\nthat [nobody could have foreseen"
+      },
+      {
+        "src": "/cosmos/mars/melted_city.jpg",
+        "alt": "Melted ruins on mars resembles city with capitol building"
+      },
+      {
+        "src": "/cosmos/mars/mars_life.jpg",
+        "alt": "Areas resembling melted cities are found on the surface of Mars, sometimes with distinguishable buildings."
+      },
+      {
+        "src": "/history/mudflood/blood_rain2.jpg",
+        "alt": "The 'Comet' as a carrier of disease and deformity in the Lucerne Chronicle, Luzerner Schilling 61v.\n  allegedly 1513"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin2.jpg",
+        "alt": "Marvin the Martian known for his calm demeanor and often foiled attempts to destroy Earth"
+      },
+      {
+        "src": "/cosmos/mars/mars_canals.jpg",
+        "alt": "The artwork by Woodrow Edgar Nichols, Jr. shows an Atmosphere Factory,\n  a city with canals, and a sunset over a Martian landscape"
+      },
+      {
+        "src": "/cosmos/mars/mars_canals3.jpg",
+        "alt": "A historical depiction of Mars illustrates seasonal changes - particularly the flooding of canals"
+      },
+      {
+        "src": "/cosmos/mars/cern_stargate_mars1.jpg",
+        "alt": "CERN's facilities include a 27-kilometer ring of superconducting magnets and a series of accelerators"
+      },
+      {
+        "src": "/cosmos/mars/cern_stargate_plans.jpg",
+        "alt": "The proposed Future Circular Collider (FCC) is planned to be significantly larger and more powerful than the\n  existing Large Hadron Collider (LHC) at CERN"
+      },
+      {
+        "src": "https://www.bbc.com/news/in-pictures-36428799)",
+        "alt": "### The Gotthard Base Tunnel [Opening Ceremony"
+      },
+      {
+        "src": "/cosmos/mars/cern_religious_ritual_at5.jpg",
+        "alt": "CERN Ritual 4"
+      },
+      {
+        "src": "/cosmos/mars/cern_religious_ritual_at1.jpg",
+        "alt": "A winged baby, semi-naked dancers and a man with a bird's nest on his head:\n  How Switzerland decided to mark opening of world's longest rail tunnel"
+      },
+      {
+        "src": "/cosmos/mars/cern_religious_ritual_at2.jpg",
+        "alt": "A performance inside the Gotthard Base Tunnel in Switzerland demonstrates the obedient 'labor' class of Humanity"
+      },
+      {
+        "src": "/cosmos/mars/hollywood_ritual_eyes_wide_shut.jpg",
+        "alt": "The point of the CERN Ceremony was to show *the humans on the other side of the quantum tunnel*\nthat Earth is fully obedient and systematically under complete control. This system of control is demonstrated\nusing a cavalcade of puppet presidents, popes, celebrities,\nall the way down to the multitude of working-class laborers, also appearing obedient. The usage of occult\nsymbols also demonstrates obedience to various brands of control that existed throughout Earth's\nhistory. The purveyors of this ceremony had one clear message for the other side: Humanity\nis ready to be ruled.\n\n![Holywood Female reitual"
+      },
+      {
+        "src": "/cosmos/mars/cern_religious_ritual_at6.jpg",
+        "alt": "Eyes Wide Shut (1999) demonstrates a ceremony involving naked women following strange orders.\n  This may be evidence of a program on Earth which raises human females to be fully obedient and prepares\n  them to *voluntarily walk naked through a quantum gate* to Mars."
+      },
+      {
+        "src": "https://www.babbel.com/en/magazine/fact-vs-fiction-is-latin-a-dead-language)",
+        "alt": "### Martians speak Latin\n\nWhy else would\na [dead language"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_movies.jpg",
+        "alt": "Predictive Programming: Mars Movies"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_women.jpg",
+        "alt": "Science Fiction programs viewers to understand that all presented storylines and technology are completely made-up\n  and have no relationship to real life."
+      },
+      {
+        "src": "/influence/predictive_programming/marvin.jpg",
+        "alt": "Common predictive programming themes found in science fiction that may reflect reality\n  include the Martians need for Earth women, roman empire references, and the normalization of 'mutants'"
+      },
+      {
+        "src": "/influence/predictive_programming/doom.jpg",
+        "alt": "The movie Doom 2005 demonstrates an *instantaneous quantum teleport* between *Earth* and *Mars*."
+      },
+      {
+        "src": "/influence/predictive_programming/wotw.jpg",
+        "alt": "The planet Mars has been removed over time from the role of antagonizer of science fiction plots.\n  It has since been replaced by 'Ancient' or 'Galactic' aliens (much further away), or something else entirely."
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon5.jpg",
+        "alt": "\"The Saturn Myth\" by David N. Talbott, a book exploring the idea that\n  ancient myths and religious beliefs were based on a different celestial configuration where\n  Saturn, not the Sun, was the central figure in the sky."
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon2.jpg",
+        "alt": "Authors such as N. A. Morozov and Immanuel Velikovsky\n  suggested that ancient cultures may have viewed Saturn as a sun-like body"
+      },
+      {
+        "src": "/history/chronology/saturn/norse_yggdrasil.jpg",
+        "alt": "Yggdrasil, the World Tree from Norse mythology, was connected to Nine Realms i.e. planets"
+      },
+      {
+        "src": "/history/chronology/saturn/exodus.jpg",
+        "alt": "The events of the 'Exodus' were caused by shifting conditions within the solar system between 2193 and 1492 B.C.E.,\n  leading to natural disasters and mass die-off of life on Earth."
+      },
+      {
+        "src": "https://oll.libertyfund.org/title/wade-extraordinary-black-book-an-exposition-of-abuses-in-church-and-state-1832)",
+        "alt": "An [extraordinary\n  document"
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_album_cylinder.jpg",
+        "alt": "The objectives of the covert tripod incursions were to co-opt and reassert control over the governments of Earth.\n  What stories could not be kept hidden were instead published as 'science fiction'"
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_redaction_heatray.jpg",
+        "alt": "The original heat-ray was was invisible and non-linear.\n  In later media, the parabolic mirror was removed,\n  and the heat-ray became visible and linear."
+      },
+      {
+        "src": "/cosmos/mars/wotw_technology_heat_ray.jpg",
+        "alt": "Suppressed military secrets are often featured in 'Science Fiction' media in order to be dismissed by the\n  general public and remain secret."
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_monuments.jpg",
+        "alt": "A monument commemorating the Martian invasion in Woking, England, near Horsell Common"
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_real.jpg",
+        "alt": "This New York Times article from January 16, 1901, reports on a light flash observed from Mars.\n  This may have been a sign of yet another tripod incursion launched at Earth."
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_monuments2.jpg",
+        "alt": "Another angle of the monument in Woking, England"
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_battle_of_la.jpg",
+        "alt": "“Although reports were conflicting and every effort is being made to ascertain the facts,\n  it is clear that no bombs were dropped and no planes were shot down,”\n  read a statement from the Army’s Western Defense Command."
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_propaganda.jpg",
+        "alt": "The 1938 Orson Welles 'War of the Worlds' broadcast may have been a redacted version of a real\n  broadcast that occurred in that same location and date involving a real tripod incursion in the\n  East Coast."
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_censorship.jpg",
+        "alt": "The Orson Welles broadcast was used to justify suppression of similar radio broadcasts in the future."
+      },
+      {
+        "src": "/influence/conspiracy/embedding.jpg",
+        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
+      },
+      {
+        "src": "/influence/conspiracy/scientific_truth.jpg",
+        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
+        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
+      },
+      {
+        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
+        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-03T13:42:52.000Z",
+    "message": "Success essay: gloss MSF as Doctors Without Borders at first mention",
     "files": [
       {
         "status": "M",
@@ -603,54 +880,6 @@
     "images": [
       {
         "src": "/science/biology/the-cure-for-cancer.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-01T12:05:15.000Z",
-    "message": "Add reader article The Cure for Cancer; link from hub and GNM investigation",
-    "files": [
-      {
-        "status": "M",
-        "path": "page.md",
-        "href": "/page"
-      },
-      {
-        "status": "M",
-        "path": "science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md",
-        "href": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation"
-      },
-      {
-        "status": "A",
-        "path": "science/biology/the-cure-for-cancer.md",
-        "href": "/science/biology/the-cure-for-cancer"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/conspiracy/embedding.jpg",
-        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
-      },
-      {
-        "src": "/influence/conspiracy/scientific_truth.jpg",
-        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
-        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
-      },
-      {
-        "src": "/cosmos/mars/mars_life.jpg",
-        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
-      },
-      {
-        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
-        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
-      },
-      {
-        "src": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.png",
-        "alt": "German New Medicine (LearningGNM) — cancer paradigm cluster investigation header"
       }
     ]
   }

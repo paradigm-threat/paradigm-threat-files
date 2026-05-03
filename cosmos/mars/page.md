@@ -831,7 +831,7 @@ space-ship to the Sun's EM field would mean certain death, regardless of size.
 The only time it is safe to send a ship physically between planets is during opposition (every 26 months) when
 Mars and Earth are joined by their extended EM fields. This creates a temporary tunnel of energy which protects
 traveling craft and enables high-bandwidth communication. During each opposition,
-the stock market [increases in activity](/cosmos/mars/appendix_ares_le_mandat.pdf),
+the stock market [increases in activity](/cosmos/mars/appendix_ares_le_mandat.pdf) (see also [Mars/Dow correlation](/cosmos/mars/investigations/mars-stock-market-correlation.md); full-book hub [→](/cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation.md)),
 resources (human and otherwise) are transported, and remote-viewing (and control) is practiced.
 
 Martians can also safely get to Earth via man-made Quantum Gates (like CERN) which only operate when the
