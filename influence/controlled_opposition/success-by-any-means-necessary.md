@@ -2,7 +2,7 @@
 
 Every forum that ever felt like **open ground** had someone measuring it for title. The pattern is older than Discord and older than Bandcamp: an emerging scene produces **proof**—formats, desire, labor, controversy—that industry then treats as **inventory**. What looked like a commons becomes a **pipeline**. The operators who stay standing often sound less like conquerors than like **project managers**: tighten policy, route legitimacy, sell the banner the crowd already tested. I keep three dossiers open because they are the same story at different resolutions—video game remix culture, a webcomic empire, and marathon charity speedrunning—each with its own receipts and its own **Limits** block for what is documented versus guessed.
 
-> **TL;DR:** For-profit gravity **stakes claims early** on scenes still pretending they are pre-commercial; **fan labor** becomes **SKU** and **sequel economics**; **public channels** are **sorted** until **alignment** feels like weather. **Early enclosure**, **constant ethics friction** around **who made what**, **who gets paid**, and **who owns the microphone**, then **reconditioned channels**—hot, nasty fights over purity—while wallets stay open for the next drop. The detailed audit trails live in linked investigations—not here.
+> **TL;DR:** For-profit gravity stakes claims early on scenes still pretending they are pre-commercial; fan labor becomes SKU and sequel economics; public channels are sorted until alignment feels like weather. Early enclosure, ethics fights over credit and cash, then hot purity wars while wallets stay open. When central actors shear the rim instead of funding mutual aid, people who gave free work can end in public tragedy—see [**§3.7** in the *Homestuck* investigation](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) for George Buzinkai (2018), memorial record, and my ethics fork on suicide and who could help. Detailed audit trails live in linked investigations—not here.
 
 ---
 
@@ -37,6 +37,20 @@ In the OC ReMix lane, submission licenses and the shift toward **LLC / nonprofit
 *Homestuck*’s arc, in the investigation’s framing, includes **early monetization posture** in contemporaneous newsposts and **long-running IP / studio / successor-title** friction—**canon fights**, **Beyond Canon**, **who counts as author** when staff rotates. The reader-level insult is familiar: **you built the vibe**, **they sold the frame**.
 
 Charity speedrunning adds a halo that makes the routing harder to see: **percent semantics**, **router opacity**, **NGO partnership optics**, **millions moved** under branding that still feels like **a basement marathon**. The investigation tables **where money flows** and **where fights concentrate**; the sentiment I carry is colder—**good causes** can still **train audiences** to accept **managed spectacle** as **default civic participation**.
+
+---
+
+## The rim — suicide, free labor, and who could have helped
+
+Music contributor George Buzinkai died November 4, 2018. Fan-maintained references list Homestuck-associated tracks that became part of the serial’s signature sound—among them Showtime, Explore, Doctor, Endless Climb, Firefly, Castle, and Train—plus work outside the banner (including Spelunky). That is not gossip; it is credit fused into what millions remember as the product. Primary memorial framing and my full caveat stack live in [**§3.7**](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md).
+
+Community threads—for example [this r/homestuck memorial](https://www.reddit.com/r/homestuck/comments/9uh1bt/george_buzinkai_composer_of_the_doctor_theme_and/)—mixed crisis-care language with grief. A poster identifying as George’s brother described severe depression and bipolar-related difficulty, time in monitored housing, an apparent upturn, and family confusion about what triggered relapse, while thanking fans for hope through enthusiasm for the music. Many commenters used the word “suicide” plainly; in what I saw of the brother’s text, that exact word did not appear—journalistic precision still allows naming a downward trajectory before death. Where public narrative leans on “addiction” alone, I do not automatically accept that extremely dangerous substance use with suicidal motivation is “not suicide”: means and motive can overlap even when coroners and forums use different vocabulary.
+
+Circulating Tumblr-era claims—fact status open in §3.7—have alleged inadequate public memorial gestures from Andrew Hussie and no material support from Hussie or What Pumpkin during earlier hardship. I do not need those posts legally proven to ask the ethical fork: who else was positioned to help someone whose audio already lived inside a for-profit line if not the license-holder surface everyone treats as sovereign when merchandise ships? If adequate help did not arrive, the moral arc still poses its question. Contracts that satisfy courtrooms while routing revenue away from contributors can still leave ethical liability in the community ledger—the same community that mourned and still buys the banner.
+
+I see the same silhouette across online scenes, not only Homestuck: volunteers raise the ceiling; some contributors become synonymous with the main artifact; later, pseudo-automatic circumstances push them toward the rim and then off the map—mass shunning with retroactive “no reason” folklore—while private mail that might prove coordinated ostracism rarely survives archiving. Operators who pitched the tent before the crowd arrived can choose centralization that shears the edges off in flakes: people scatter into obscurity and moderation queues, mutual aid never gets budgeted. The alternative was always on the table—decentralize until the community feeds, heals, and protects itself.
+
+I am unapologetic about the question set. If a court ever wants to test how I frame it, I will answer there. Until then, this is the same success-by-any-means machine: profit rides embedded labor until the rim breaks, then invites everyone to forget who paid the creative invoice.
 
 ---
 
@@ -80,7 +94,7 @@ The three investigations each catch a different face of that squeeze: **license 
 
 ## Honesty cap
 
-This article is **thesis + synthesis**, not **evidence tier**. Where I imply **wrongdoing**, **neglect**, or **instrumental intent**, the **careful version**—with **primaries**, **timestamps**, **Limits**, and **what remains open**—is in the linked dossiers. I wrote it that way on purpose: **clinical documentary** voice belongs **above** the fold; **audit machinery** belongs **where readers who want dockets** already know to scroll.
+This article is **thesis + synthesis**, not **evidence tier**. Where I imply wrongdoing, neglect, or instrumental intent, the careful version—with primaries, timestamps, Limits, and what remains open—is in the linked dossiers. Suicide and mental-health material (§3.7 especially) carries real harm risk: nothing here is a court judgment on who “caused” a death; it is an ethical pressure map for who profits after free labor embeds. I wrote it that way on purpose: **clinical documentary** voice belongs above the fold; audit machinery belongs where readers who want dockets already know to scroll.
 
 ---
 
@@ -91,14 +105,14 @@ Start in the investigations if you want **tables**, **primaries**, **§ hooks**,
 | Lane | Entry |
 |------|--------|
 | Remix / policy / HD Remix window | [OC ReMix investigation](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) — begin around **§4**/**§8** for operator-pattern language |
-| Webcomic IP / newspost economy / canon fights | [*Homestuck* investigation](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) — **§3** clusters early commerce + clash index |
+| Webcomic IP / newspost economy / canon fights / contributor death ethics | [*Homestuck* investigation](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) — **§3** commerce + clash index **;** **§3.7** **George** **Buzinkai** **(**memorial** **record** **+** **suicide** **/** **community** **ethics** **)** |
 | Marathon charity / MSF / GDQ optics | [SDA × GDQ × MSF investigation](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) — **percent** / **router** rows |
 
 Hub context: [Controlled opposition — pattern definition](/influence/controlled_opposition/page.md).
 
 Legal gravity, **claim tiers**, and **what is not proven** live at the bottom of each dossier under **Limits and disclaimers**—not repeated here on purpose.
 
-Keywords: #ControlledOpposition #FanLabor #Privatization #Polarization #OCReMix #Homestuck #Speedrunning #CharityRouter #ParadigmThreatFiles
+Keywords: #ControlledOpposition #ContributorWelfare #FanLabor #Privatization #Polarization #OCReMix #Homestuck #Speedrunning #CharityRouter #ParadigmThreatFiles
 
 **Last updated:** 2026-05-02
 
