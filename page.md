@@ -73,6 +73,7 @@ or *not* believing.
 * [Hollow Earth](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md) — Sources, maps, books, and Atlantis framing.
 * [Tham Luang Cave Rescue (2018)](/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md) — Cover-up threads and alternate rescue narratives.
 * [Flat Earth](/cosmos/flat_earth/flat-earth-investigation.md) — History, myth, and misinterpretation of the flat-Earth idea.
+* [Anthony of Boston — Mars 360](/cosmos/mars/investigations/anthony-of-boston-mars360-investigation.md) — *Ares Le Mandat*, Mars–markets/Gaza thesis, Academia/Zenodo corpus; cross-links stock-market dossier.
 * [Mars–Earth Reincarnation](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) — Mass death on Mars and souls reborn on Earth.
 * [Pluto](/cosmos/pluto/investigations/pluto-origin-visibility-investigation.md) — Visibility, naming, and “lost to hell” cosmology read.
 * [Venus](/cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation.md) — From Saturnian cosmology to the Venera program.
