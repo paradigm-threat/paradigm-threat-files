@@ -9,7 +9,7 @@
 | **`…/investigations/*.md` (dossier)** | **Parent-folder `…/*.md` (article)** |
 |-------------------------------------|--------------------------------------|
 | Tables, long quote banks, FOIA chains, **Limits**, **Investigator notes**, granular **TODOs**, **Q** rows, **§4** open-claim registries, tier labels, “speculative / documented / legal analogy” splits. | **Readable essay**: stakes, flow, and **enough** links to enter the dossiers—**not** a second investigation file. |
-| Home for **heavy** caveat language: what is proven vs guessed, what is rhetoric vs docket, fiction vs evidence, assistant bias. | **Light touch**: trust the dossier for that machinery. **Do not** paste investigation-style disclaimer stacks into the **body**. If something must be said for honesty, **one** short closing note (after the main sections, **before** `Keywords:`) is enough—otherwise readers live in the linked **Limits** block. |
+| Home for **heavy** caveat language: what is proven vs guessed, what is rhetoric vs docket, fiction vs evidence, assistant bias. | **Light touch**: trust the dossier for that machinery. **Do not** paste investigation-style stacks into the **running narrative** or **pepper** mid-section caveats (“not every specialist,” “this is not a claim that…,” “scholars dispute…”) through every `##`. If honesty or scope boundaries matter, collect them in **one** dedicated **`## Framing and limits`** (or **`## Scope and limits`**) **after** **Where next** and **before** `Keywords:`—or link once to the dossier **Limits** anchor and skip in-file caveats entirely. |
 | **Guide (read order)** for very long files. | **Optional** short “where next” at the end; the **body** should read in order without a map unless you deliberately want a mini-guide. |
 
 If a claim needs **five citations** or a **multi-row table**, it belongs in the **dossier**; the **article** names the claim and **links once** (often to a **§** anchor).
@@ -33,7 +33,7 @@ Parent-folder reader essays are **thesis vehicles**, not primers. They may read 
 - **Heavy proof stays in companion files:** Multi-citation blocks, tier labels, and long **Limits** machinery stay in **`investigations/`** (or equivalent technical write-ups). The article **points**; the companion **prosecutes**.
 - **Pacing:** Short **`##` sections**, **one main idea** each, **momentum** over repetition.
 - **Sensitive targets:** When the author requests it, use **structural / institutional** framing (doctrine shapes, incentives, schooling) rather than naming modern groups—unless the author explicitly wants names.
-- **Honesty without dilution:** **At most one** short honesty cap near the close when needed (e.g. “this synthesis is not mainstream consensus,” link to **Limits**). Do not use caution as a substitute for **clarity**.
+- **Honesty without dilution:** When caveats are **necessary**, **do not** weave them into each section—that trains the reader to expect retreat after every claim. Prefer **one** consolidated **`## Framing and limits`** (or **`## Scope and limits`**) block **after** **Where next**, **before** `Keywords:`; keep the **body** declarative. Alternatively, **one** sentence plus a **Limits** link can suffice. Do not use caution as a substitute for **clarity**.
 
 Reference implementation for **generic surface + theory-led** shape: [`science/biology/circle-of-life-and-how-it-began.md`](../../science/biology/circle-of-life-and-how-it-began.md).
 
@@ -60,16 +60,17 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 ## Shape (how we open and move)
 
 1. **Title** — concrete; may use **em dash** or a strong image. Keep slug/path stable unless Ari explicitly requests a rename (URLs depend on paths).
-2. **Optional hero image** — immediately under the `#` title, repo-relative path, short **alt** that matches the article’s **central image or claim** (not only mood).
-3. **Hook** — a **scene**, **metaphor**, or **one sharp anecdote** before the reader hits dense links. This is the **contract**: why this file exists **before** apparatus.
-4. **`> **TL;DR:**`** — **optional** in articles. Use it when it **adds** a clean thesis line **without** cloning the dossier’s opening or sounding like a second **investigation header**. Skip it when the title + first two paragraphs already do that work.
-5. **Body** — **`##` sections** (typically **three to seven**). Each section **one main idea**. **Bold** only per **Voice → Bold** (emphasis or newly introduced terms)—**not** as default highlighting.
-6. **Citations in prose** — **Inline links** (`/history/...`, `/influence/...`, `/timeline/...`, stable public URLs). Each link: **what** the reader will find there (**one clause**). Avoid **hub-only** link dumps unless Ari wants a **routing sheet**; prefer **narrative + links**.
-7. **Closing** — short **“where next”**: Common Questions, timeline hubs, or **§** anchors in dossiers (e.g. “start in **§2.1**”).
-8. **Optional honesty cap** — **At most one** short section or paragraph **after** the main essay, **before** `Keywords:`, only when something **must** be said in-file (e.g. “legal gravity and analogy boundaries live in the dossier **Limits**”). **Do not** sprinkle investigation-style caveats through every section.
-9. **`Keywords:`** — one line, **Option B** (see `PARADIGM_INVESTIGATION_INSTRUCTIONS.md`): `#PascalCase` tokens only, **no** `## Keywords` heading.
-10. **`**Last updated:**`** — `YYYY-MM-DD` when the article changed materially.
-11. **Attribution footer (required for new or materially updated articles)** — After `**Last updated:**`, a horizontal rule `---`, then an *italic* one-liner, for example:  
+2. **Subtitle (required)** — add one short line **immediately under** the `#` title (before any hero image), summarizing the thesis in plain reader language. Aim for one sentence fragment or clause (roughly 8–20 words), no ending period, no markdown heading marker (`##`), and no `TL;DR` label.
+3. **Optional hero image** — immediately under the subtitle, repo-relative path, short **alt** that matches the article’s **central image or claim** (not only mood).
+4. **Hook** — a **scene**, **metaphor**, or **one sharp anecdote** before the reader hits dense links. This is the **contract**: why this file exists **before** apparatus.
+5. **`> **TL;DR:**`** — **optional** in articles. Use it when it **adds** a clean thesis line **without** cloning the dossier’s opening or sounding like a second **investigation header**. Skip it when the title + subtitle + first two paragraphs already do that work.
+6. **Body** — **`##` sections** (typically **three to seven**). Each section **one main idea**. **Bold** only per **Voice → Bold** (emphasis or newly introduced terms)—**not** as default highlighting.
+7. **Citations in prose** — **Inline links** (`/history/...`, `/influence/...`, `/timeline/...`, stable public URLs). Each link: **what** the reader will find there (**one clause**). Avoid **hub-only** link dumps unless Ari wants a **routing sheet**; prefer **narrative + links**.
+8. **Closing** — short **“where next”**: Common Questions, timeline hubs, or **§** anchors in dossiers (e.g. “start in **§2.1**”).
+9. **Optional `## Framing and limits` (or `## Scope and limits`)** — **At most one** such section, placed **after** **Where next** and **before** `Keywords:`, when in-file boundaries help (what is **not** being claimed, what lives in **Limits**, consensus vs synthesis). **Do not** scatter the same hedges through earlier `##` sections; that **muddies** the narrative. If the dossier already carries the full caveat stack, a **single** link line here is enough.
+10. **`Keywords:`** — one line, **Option B** (see `PARADIGM_INVESTIGATION_INSTRUCTIONS.md`): `#PascalCase` tokens only, **no** `## Keywords` heading.
+11. **`**Last updated:**`** — `YYYY-MM-DD` when the article changed materially.
+12. **Attribution footer (required for new or materially updated articles)** — After `**Last updated:**`, a horizontal rule `---`, then an *italic* one-liner, for example:  
     *Written and narrated by Ari Asulin, with drafting and research support from LLM agents.*  
     Minor wording drift is fine; **keep the name** and the fact that **LLM tools** helped produce the page. That line **replaces** the need for repeated “**as the writer**,” “**my position**,” or “**who is speaking**” throat-clearing in the body.
 
@@ -111,6 +112,7 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 - **`github.com/clevertree/...`** or other **dead** reader URLs (see `LINKING_AND_SITE_PATHS.md`).
 - **OS paths** (`/home/...`) in body text—**Investigator notes** at end of **dossiers** only.
 - **Mid-article** **Limits** voice: tier sermons, long “**not proven**” chains, claim-number callouts, **Epstein**-class analogy **legal fencing** repeated in prose—**park** that in the **dossier** (one link is enough).
+- **Sprinkled disclaimers** — repeated “this is not to say,” “not every X,” “scholars disagree” every few paragraphs. **Batch** into **`## Framing and limits`** or cut; the narrative should read as **continuous thesis**, not **alternating thrust-and-retreat**.
 - **Lament-as-default** — stacked **mourning**, **wound**, **hurt** framing in **every** section when the same stakes could read **sharper** in **clinical** mode. Reserve **heavy elegy** for when the **topic** or **Ari** calls for it.
 - **Frame labels and stance chatter** — “**My read**,” “**hard moral read**,” “**here I want to**” before **every** claim. **State the claim**; use **I** when it **earns** its keep, not **meta** before every line.
 - **Sparkle bold** — bolding **most** nouns, proper names, or **whole** clauses to simulate “importance.” If a paragraph reads like a **highlighter ramp**, strip bold back to **Voice → Bold** rules.
@@ -131,4 +133,4 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 
 ---
 
-**Last updated:** 2026-05-05
+**Last updated:** 2026-05-07

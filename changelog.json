@@ -1,8 +1,40 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-05T12:04:23.142Z",
+    "date": "2026-05-05T12:28:04.548Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "M",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      },
+      {
+        "status": "M",
+        "path": "science/biology/circle-of-life-and-how-it-began.md",
+        "href": "/science/biology/circle-of-life-and-how-it-began"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/biology/circle-of-life-and-how-it-began.png",
+        "alt": "The Circle of Life and How It Began — creation memory, scalar field, womb echo (article art)"
+      },
+      {
+        "src": "/science/biology/investigations/dna-fingerprint-scalar-life-investigation.png",
+        "alt": "DNA as fingerprint, not blueprint — scalar life investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-05T12:04:22.000Z",
+    "message": "Content: add de-LLM second-pass rule and expand planet-scale circle of life",
     "files": [
       {
         "status": "M",
@@ -1000,32 +1032,6 @@
       {
         "src": "/science/biology/the-cure-for-cancer-meme.png",
         "alt": "Return of the King (2003) frame: Frodo and Sam on the stairs — meme caption “No Sam, You’re the Cancer!” Same narrative trick: the sick voice accuses the loyal friend instead of the ring."
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-01T12:14:09.000Z",
-    "message": "Cancer article: move LOTR meme into incurability section; update meme image",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/biology/the-cure-for-cancer-meme.png",
-        "href": "/science/biology/the-cure-for-cancer-meme.png"
-      },
-      {
-        "status": "M",
-        "path": "science/biology/the-cure-for-cancer.md",
-        "href": "/science/biology/the-cure-for-cancer"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/biology/the-cure-for-cancer-meme.png"
-      },
-      {
-        "src": "/science/biology/the-cure-for-cancer.png",
-        "alt": "The Cure for Cancer — hope beyond the incurability chorus"
       }
     ]
   }
