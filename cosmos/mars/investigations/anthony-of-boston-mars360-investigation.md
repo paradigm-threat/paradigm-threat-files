@@ -91,7 +91,7 @@ Moore’s published descriptions (Substack, Academia abstracts, book blurbs) con
 | *Ares Le Mandat* — Mars “direct Earth influence” hub | [`ares-le-mandat-mars-direct-earth-influence-investigation.md`](ares-le-mandat-mars-direct-earth-influence-investigation.md) | **Omnibus** thesis: **666/Mars 360**, mandates, theology + same **statistics** audited in Dow/Gaza files |
 | *Ares Le Mandat* — 1st ed. chapter index | [`../ares-le-mandat-first-edition-chapter-index.md`](../ares-le-mandat-first-edition-chapter-index.md) | TOC for **IA** mirror; Gaza **Ch. 24** / Fed **Ch. 25** |
 | Mars / Dow / lunar node | [`mars-stock-market-correlation.md`](mars-stock-market-correlation.md) | Same author’s **Substack + Academia**; same **Zenodo appendix** lineage |
-| Israel–Gaza × Mars–node timeline + Zenodo mirrors | [`israel-gaza-mars-node-claim-timeline-investigation.md`](israel-gaza-mars-node-claim-timeline-investigation.md) | **Forecast windows vs rocket chronologies**; **Zenodo 410 tombstones**; **Internet Archive** full PDF |
+| *Ares Le Mandat* hub + Israel–Gaza audit + Zenodo mirrors | [`ares-le-mandat-mars-direct-earth-influence-investigation.md`](ares-le-mandat-mars-direct-earth-influence-investigation.md) | **Book thesis**; **forecast windows vs rocket chronologies**; **Zenodo 410 tombstones**; **Internet Archive** full PDF |
 | CIA RV Mars (1984) | [`/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md`](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) | **Mars** as intelligence / narrative object — thematic echo only |
 | Great awakening / RV cluster | [`/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md`](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) | Competing **planetary / disclosure** narrative ecology |
 | Mars fiction survey | [`mars-fiction-survey.md`](mars-fiction-survey.md) | Fiction lane vs Moore’s **non-fiction brand** |
@@ -112,7 +112,7 @@ Moore’s published descriptions (Substack, Academia abstracts, book blurbs) con
 - [ ] Manual **Anna’s Archive** query when the index is available; record MD5 if a clean PDF appears.
 - [ ] Confirm **Iowa Talk Guys** podcast episode title/URL if stable archive exists (mentioned on Substack biography — URL not fixed here).
 - [ ] Archive **thedowcast.com** references from Zenodo descriptions (historical **Israel/Gaza** prediction page) on Wayback.
-- [ ] Deep timeline + Zenodo censorship audit — see **[`israel-gaza-mars-node-claim-timeline-investigation.md`](israel-gaza-mars-node-claim-timeline-investigation.md)** (rocket lists vs Mars–node windows; IA **`areslemandat_20191110`** mirror).
+- [ ] Deep timeline + Zenodo censorship audit — see **[`ares-le-mandat-mars-direct-earth-influence-investigation.md`](ares-le-mandat-mars-direct-earth-influence-investigation.md)** §4–7 (rocket lists vs Mars–node windows; IA **`areslemandat_20191110`** mirror).
 
 ---
 

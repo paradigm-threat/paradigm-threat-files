@@ -318,7 +318,7 @@ influenced by the need to protect from the possibility of a future Mudflood even
 4. War of the Worlds
 5. Star wars
 6. James bond
-7. Final Fantasy (movie & games)
+7. Final Fantasy (movie & games) — pixel-era dossier: [/influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md](/influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md)
 8. [Ray gun melts cave in 50s movie](https://youtu.be/QYmSNy9kGhA?t=1893)
 
 ## Dinosaur bones & Carbon Dating deception

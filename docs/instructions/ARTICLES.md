@@ -16,18 +16,43 @@ If a claim needs **five citations** or a **multi-row table**, it belongs in the 
 
 **Default:** Articles **state stakes and thesis clearly**—**clinical but inspired** (precise, unsentimental, still alive); investigations **hold** the audit trail. When in doubt, **cut** the paragraph that sounds like **Limits** and **add** a link: “the careful version lives in [**Limits**](/path/to/investigation.md#limits-and-disclaimers).”
 
+### Reader-facing prose (generic surface)
+
+Articles are written so they can be **republished or read off-site** without sounding like internal documentation.
+
+- **No project or repository meta in the body:** Do **not** name the hosting project, the codebase, or “the repo.” Avoid phrases like **in-repo**, **this tree**, **our investigations**, **Paradigm Threat** (and close synonyms) in running prose. Use **neutral formulations**: “this reading,” “the argument below,” “linked notes,” “supporting write-up,” “technical companion piece.”
+- **Links are fine:** Repo-relative URLs and cross-links remain the navigation layer; describe targets by **topic**, not by filing system (“see the linked DNA **blueprint critique**,” not “see our biology dossier”).
+- **First person — personal lane only:** Use **I / me / my** only for **personal experience**, **direct memory**, or **explicit personal stance** the reader should attribute to a human speaker. Keep **theory, history, and physics claims** in **neutral / documentary** third person (“this model holds…,” “the record suggests…”).
+- **Neutral ≠ timid:** You may still write **hard thesis** and **manifesto** cadence; just separate **voice** (optional **I**) from **content** (documentary).
+
+### Theory-led pacing (default for parent-folder articles)
+
+Parent-folder reader essays are **thesis vehicles**, not primers. They may read as **strong manifesto** when the topic demands it.
+
+- **Lead with the unified theory:** Open with the **cross-cutting claim** and its **stakes**. Do not bury the thesis under throat-clearing. **Intelligent readers** can handle a sharp fork on page one.
+- **Heavy proof stays in companion files:** Multi-citation blocks, tier labels, and long **Limits** machinery stay in **`investigations/`** (or equivalent technical write-ups). The article **points**; the companion **prosecutes**.
+- **Pacing:** Short **`##` sections**, **one main idea** each, **momentum** over repetition.
+- **Sensitive targets:** When the author requests it, use **structural / institutional** framing (doctrine shapes, incentives, schooling) rather than naming modern groups—unless the author explicitly wants names.
+- **Honesty without dilution:** **At most one** short honesty cap near the close when needed (e.g. “this synthesis is not mainstream consensus,” link to **Limits**). Do not use caution as a substitute for **clarity**.
+
+Reference implementation for **generic surface + theory-led** shape: [`science/biology/circle-of-life-and-how-it-began.md`](../../science/biology/circle-of-life-and-how-it-began.md).
+
 ---
 
 ## Voice (who we are writing for)
 
-- **First person:** These articles are **Ari’s** voice. Use **I / me / my** whenever that is the honest speaker—**memory, judgment, stakes, what I am tracing.** First person is **welcome**; what we trim is **stance chatter**, not **I** itself. **Do not** write “**the author**.” The **attribution footer** (*Written and narrated by Ari Asulin…*) names the speaker; **do not** pad every paragraph with “**in my view**,” “**my read**,” “**what I want to argue**,” or other **meta** that repeats what the sentence already does.
-- **Drop “this essay / this piece”:** Prefer **direct claims** or **I** (“**I** argue…”, “**I** name three patterns…”). Phrases like “**this essay** will show,” “**in this piece** we,” or “**what overlaps for this essay**” read like syllabus metal—**cut them** unless a single signpost truly helps.
+- **Documentary default:** Prefer a **documentary** voice first—direct, factual, and scene-forward without constant speaker framing. Use **first person** only when personal experience, memory, judgment under uncertainty, or stakes genuinely require it. **Do not** write “**the author**.” **Stack with** **Reader-facing prose (generic surface)** above for **project-agnostic** body text and the **first-person-only-for-personal** lane.
+- **First person is selective, not constant:** `I / me / my` is valid when it adds signal (e.g. eyewitness memory, explicit personal inference), but avoid leading every section with self-reference. Rewrite default lines in documentary style when possible.  
+  - **Bad (over-framed):** “I still think in radio.”  
+  - **Better (documentary):** “Radio offers a useful model for layered signal bands.”  
+  - **Use first person when earned:** “I first noticed this pattern during …”
+- **Drop “this essay / this piece”:** Prefer **direct claims**; use **I** only when earned. Phrases like “**this essay** will show,” “**in this piece** we,” or “**what overlaps for this essay**” read like syllabus metal—**cut them** unless a single signpost truly helps.
 - **State the claim — drop the frame:** Prefer **direct** sentences over meta-leads. **Bad:** “My **hard moral read** stays blunt: **Polynesian continuity** was interrupted.” **Good:** “**Polynesian continuity** was interrupted.” Let **syntax** carry most of the weight, not a running commentary on your own stance.
 - **Bold — emphasis or new terms only:** Use `**bold**` for **(1)** real **emphasis** (one beat per sentence or so—a contrast, a risk, a hinge you need the eye to catch), and **(2)** **new terminology** the article **introduces** or **defines** for this read (first pass; often plain text on repeat). **Do not** bold **every** proper noun, institution, date, or ordinary stressed word—that reads as **sparkle fatigue** and **fake dossier** layout. When in doubt, **remove** the bold.
 - **Register — clinical but inspired:** Default to **cool, exact prose** that still **lands** the point—**tight claims**, **clean images**, **no** purple **grief-as-genre** layering. **Drive the argument home** with **structure and consequence**, not with repeated **mourning** or **elegy** cadence unless Ari **explicitly** wants a **lament** piece. Moral heat is fine **in short controlled bursts**; let **evidence links** carry weight alongside tone.
 - **Intelligent reader — no hand-holding:** Assume the audience **already grasps** why these topics matter. **Skip** “**you might be wondering**,” over-explaining basics they have heard before, and **tutorial** pacing unless the article is **explicitly** introductory. **Do not** soften or repeat the same caveat in three forms; **trust** the reader to **follow** and to **use** the dossier links when they want machinery.
 - **Audience:** A **curious lay reader**—someone who will not read fifty pages of apparatus on first visit. **Plain English**, **complete sentences**, **human rhythm** (vary sentence length; avoid encyclopedia monotone).
-- **You / we:** **Second person** or **inclusive we** still work for vignettes and shared situation (“imagine someone at your door…”). Do **not** overuse them as filler—every paragraph should **advance** something or **point** to evidence.
+- **You / we (optional):** **Second person** can substitute for first-person framing when it improves readability (“you can see this in…”) and **inclusive we** can frame shared situations. Keep both restrained; documentary voice remains default, and every paragraph should **advance** something or **point** to evidence.
 - **No cartoon villains:** Prefer **structural** language (“**schooling**,” “**press posture**,” “**museum caption**,” “**funding stack**”) over sentences that imply **every** individual scientist **intends** harm. Name **power** and **pattern**; if **documented** intent matters, the **dossier** carries the receipts.
 
 ---
@@ -54,7 +79,7 @@ If a claim needs **five citations** or a **multi-row table**, it belongs in the 
 
 **Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*](https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).
 
-**Paradigm Threat drafting targets (Markdown in-repo):**
+**Drafting targets (Markdown, in this collection):**
 
 - **Default target for new flagship reader essays:** about **2,600–3,400 words** of body (tables and link lines count toward reading time), with **~3,000** as the **nominal** aim. Shorter is fine when the argument is already complete.
 - **Reference implementation:** [`history/chronology/indigenous-creation-legends-and-geology.md`](../../history/chronology/indigenous-creation-legends-and-geology.md) (order of magnitude **~3k words** with sections + one comparison table)—use it as the **shape** for “Substack-ready depth” without pasting the whole dossier.
@@ -69,7 +94,7 @@ If a claim needs **five citations** or a **multi-row table**, it belongs in the 
 - **The “not A, it is B” teaching beat** — repeated contrasts of the form “**This is not** *chemistry / myth / debunk / a verdict*… **it is** *relationship / science / …*” work once; across many articles they read as the **same** canned cadence. **Rotate constructions**: lead with the **positive** claim; use **“Rather,”** **“Another name for that pressure:”** **“What I mean is simpler:”** a **question**, or a **concrete image**—anything that **breaks** the identical **not-this / but-that** rhythm.
 - Close cousin: **“X is not Y; it is Z”** every time you need nuance. Sometimes **Z alone** carries the point; sometimes **two short sentences** beat one negated compound.
 - **Stance meta** — “**In this piece I will**…”, “**My thesis is**…” every section (the title and flow already signal intent). **Bad** vs **good** examples live under **Voice → State the claim**.
-- **Essay / piece scaffolding** — “**This essay** argues…”, “**Below**, this article…”, “**In what follows** the reader…” Same cure as above: **say it** or use **I**; do not **announce** the document.
+- **Essay / piece scaffolding** — “**This essay** argues…”, “**Below**, this article…”, “**In what follows** the reader…” Same cure as above: **say it**; use **I** only when earned; do not **announce** the document.
 
 ---
 
@@ -97,7 +122,8 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 
 - **Article + dossier pair (controlled opposition):** [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`](../../influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) ↔ [`…/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md`](../../influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md).
 - **Lay reader essay + citations (chronology):** [`history/chronology/indigenous-creation-legends-and-geology.md`](../../history/chronology/indigenous-creation-legends-and-geology.md) ↔ [`…/investigations/indigenous-legends-vs-geologic-dating-investigation.md`](../../history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md).
+- **Theory-led flagship (biology / continuity):** [`science/biology/circle-of-life-and-how-it-began.md`](../../science/biology/circle-of-life-and-how-it-began.md) ↔ [`science/biology/investigations/dna-fingerprint-scalar-life-investigation.md`](../../science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) plus [`creation event interpretations`](../../history/chronology/investigations/creation-event-interpretations.md).
 
 ---
 
-**Last updated:** 2026-05-01
+**Last updated:** 2026-05-06

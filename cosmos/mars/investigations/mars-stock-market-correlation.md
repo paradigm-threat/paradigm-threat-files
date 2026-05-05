@@ -167,10 +167,9 @@ Under this assumption, the cyclic world changes (market crashes, wars, regime sh
 
 ## Cross-References
 
-- [ares-le-mandat-mars-direct-earth-influence-investigation.md](ares-le-mandat-mars-direct-earth-influence-investigation.md) — Hub: omnibus thesis, mandates, Gaza preface vs quant lanes
+- [ares-le-mandat-mars-direct-earth-influence-investigation.md](ares-le-mandat-mars-direct-earth-influence-investigation.md) — *Ares Le Mandat* hub: book thesis, mandates, Israel–Gaza audit, Zenodo/IA mirrors (§4–7)
 - [../ares-le-mandat-first-edition-chapter-index.md](../ares-le-mandat-first-edition-chapter-index.md) — 1st ed. TOC + one-line summaries
 - [anthony-of-boston-mars360-investigation.md](anthony-of-boston-mars360-investigation.md) — Anthony Moore / *Ares Le Mandat* / Mars 360 corpus and citations
-- [israel-gaza-mars-node-claim-timeline-investigation.md](israel-gaza-mars-node-claim-timeline-investigation.md) — Zenodo mirror loss; Israel–Gaza rocket windows vs Mars–node (timeline audit)
 - [mars-fiction-survey.md](mars-fiction-survey.md) — Mars in fiction and disclosure
 - [wotw-telepathic-purge.md](wotw-telepathic-purge.md) — Martian civilization, collective consciousness
 - paradigm-threat-timeline `docs/INVESTIGATIVE_STRATEGY.md` — Evidence, burden of proof, pattern-seeking
