@@ -2,10 +2,10 @@
 
 ![Afterlife maps, Bardo / purgatory transition, and Reformation-era ship allegory — illustrative header](afterlife-purgatory-protestant-rus-horde-nc-investigation.png)
 
-> **TL;DR:** Comparative sketch of **modern** afterlife doctrines across major traditions; **Fomenko / Nosovskiy** read that world religion **radiated from a Rus–Horde imperial center** and earlier **sun / polytheistic** layers; **purgatory** contrasted with **Tibetan Bardo**; **Protestant** rejection of purgatory paired with **sanctification** exceptions (**C.S. Lewis**); **author thesis** that **Protestant “protest”** targeted **popular indulgence** and **eastern imperial Christianity** more than **clerical indulgences alone**, and that **mockery** (*Ship of Fools*) and **schism** were **weapons against what could not be reformed in place** — cross-read [two branches](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md), [Prester John / Ship of Fools](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md), [soul science](/history/chronology/investigations/soul-science-investigation.md), [Rus-Horde lexicon](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md), [gnosis vs agnosticism](/history/chronology/investigations/gnostic-vs-agnostic-theism-atheism-after-planet-gods.md).
+> **TL;DR:** Comparative sketch of **modern** afterlife doctrines across major traditions; **Fomenko / Nosovskiy** read that world religion **radiated from a Rus–Horde imperial center** and earlier **sun / polytheistic** layers; **purgatory** contrasted with **Tibetan Bardo** and with **other “bardo-type”** **staged-between** maps (Indian **antarābhava**, **Zoroastrian** bridge timing, **barzakh**, **preta**-path lore, **Duat** literature, etc.); **how reincarnation-elsewhere differs** from **recognition-based** Bardo praxis; **Protestant** rejection of purgatory paired with **sanctification** exceptions (**C.S. Lewis**); **author thesis** that **Protestant “protest”** targeted **popular indulgence** and **eastern imperial Christianity** more than **clerical indulgences alone**, and that **mockery** (*Ship of Fools*) and **schism** were **weapons against what could not be reformed in place** — cross-read [two branches](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md), [Prester John / Ship of Fools](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md), [soul science](/history/chronology/investigations/soul-science-investigation.md), [Rus-Horde lexicon](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md), [gnosis vs agnosticism](/history/chronology/investigations/gnostic-vs-agnostic-theism-atheism-after-planet-gods.md).
 
-**Date:** 2026-04-22  
-**Status:** Open — synthetic; NC claims attributed to **Fomenko/chronologia**; author sentiment in **§3** and **§10**.
+**Date:** 2026-04-22 **(§6 Bardo deep-dive: 2026-05-07)**  
+**Status:** Open — synthetic; NC claims attributed to **Fomenko/chronologia**; author sentiment in **§3** and **§10**; **§6.4–§6.8** are **comparative-religion** synthesis (**not** NC-dependent).
 
 ---
 
@@ -15,7 +15,7 @@
 2. **§3** — Author sentiment (full pass — why this file exists).  
 3. **§4** — Afterlife **contrasts** (modern traditions, compressed).  
 4. **§5** — **New Chronology** frame: one imperial church → splinters; sun / polytheism **before** Christ in NC scheme.  
-5. **§6** — **Purgatory** and **Tibetan Bardo** (parallels and non-identity).  
+5. **§6** — **Purgatory**, **Tibetan Bardo**, **cross-cultural “bardo-type”** maps, **antarābhava** scholastic divide, **reincarnation** contrasts.  
 6. **§7** — **Protestants** and purgatory: rejection vs **Lewis**-style refinement.  
 7. **§8** — **Two Protestant origin stories** (reform vs “always existed”) + **Baptist successionism**.  
 8. **§9** — **Critics’ bundle** (sola scriptura practice, persecution, splintering).  
@@ -130,7 +130,54 @@ On **`how_it_was/09.html`**, the English site states that a **common Christian r
 | **Mediation** | **Church** **ministry** to dead | **Phowa**, **readings**, **merit dedication** |
 | **Parallel feel** | **Intermediate state** **with fire/cleansing imagery** | **Intermediate** **visions** **with** **peaceful/wrathful** **deities** |
 
-**Investigative use:** The **felt** parallel is **strong** for **comparative mysticism** and **thanatology**; the **institutional** and **soteriological** **identities** are **different**. NC would **invite** a **genealogical** question: could **splinter** **print-theologies** have **hardened** **exclusive** **maps** (either **eternal hell** or **single heaven**) **after** a **more** **bardo-like** **medieval** **elasticity**? That is **speculation** unless **textual** chains are shown.
+### 6.4 Working definition — “bardo-type” maps (family resemblance)
+
+For **comparison only** (no claim that traditions **mean** the same thing): a **bardo-type** map is a teaching that (a) puts the post-mortem subject in a **liminal interval** before final disposition *or* the next embodiment, (b) often **stages** that interval as visions, geographies, judgments, or time-marked ritual windows, and (c) ties ethical, karmic, or covenant status to what is **seen** or undergone next.
+
+Tibet’s famous **three bardos** (**Chikhai**, **Chönyi**, **Sipa**) are one highly elaborated instance of that pattern—anchored in Terma-associated literature (*Bardo Thödol* / *Liberation Through Hearing*) and commentarial practice—not the only instance on record.
+
+### 6.5 Indian **antarābhava** — same structural idea, different school outcomes
+
+The classical term **antarābhava** (“between-becoming”) names an intermediate existence between death and rebirth. Its history inside Buddhism is **not** Tibetan-only:
+
+- **Theravāda Abhidhamma:** positions crystallized in the *Kathāvatthu* **reject** a freestanding intermediate **life-span**; many manuals stress **rapid re-linking** (**paṭisandhi**) rather than an interval one “lives through” the way popular Bardo literature describes.
+- **Sarvāstivāda / scholastic India:** schools such as **Sarvāstivāda** defended **antarābhava** as **real**, with a subtle **gandharva**-type body—the line is argued at length in **Vasubandhu’s** *Abhidharmakośabhāṣya* (standard Indology editions).
+- **Mahāyāna / East Asia:** **Yogācāra** and East Asian receptions often **accept** an intermediate sojourn (Chinese **中有**; pastoral rites in e.g. some **Tendai** / **Shingon** contexts) that **guide** the deceased—**without** duplicating Nyingma **Dzogchen** “recognition of ground luminosity” emphasis.
+
+**Takeaway:** Tibetan **Bardo** is **continuous with** and **dramatically elaborates** Indian **antarābhava** discourse; **Theravāda mainstream** is the major **intra-Buddhist** counter-model (**§6.7**).
+
+### 6.6 Other cultures / books with parallel staging (not “Tibet lite”)
+
+| Cluster | Textual / ritual anchors (examples) | What rhymes with **Bardo** | What does **not** |
+|---------|--------------------------------------|------------------------------|---------------------|
+| **Ancient Egyptian** (royal mortuary) | *Amduat*, *Book of the Dead* cycle (gates, hours, **Duat** journey) | Staged underworld passage; transformative ordeal before renewal / Osirian union | Solar kingship theology; **not** Indic saṃsāra-style cyclical rebirth |
+| **Orphic / Greek** | Gold tablets (instructions at underworld gates); Plato *Republic* X **Myth of Er** | Liminal instruction; choice or verdict shaping next embodiment | Elite initiatory milieux; **not** Vajrayāna deity yoga |
+| **Zoroastrian** | Avestan / Pahlavi eschatology (**Chinvat** bridge; Mithra / Rashnu judgment imagery) | Multi-night interval (often **three** nights before crossing in Vendidad-linked exposition; overview: [Britannica — Chinvat](https://www.britannica.com/topic/Chinvat-peretu)) | Classical **linear** soul destiny (heaven / hell); **not** routine human reincarnation |
+| **Hindu** (śrāddha / smṛti lore) | *Garuda Purana*; śrāddha timing; **preta** lore | Journey of subtle body; ritual calendar (days ~1–13) mapping danger and offerings | Brāhmaṇical soteriology varies—often pairs pitṛ sojourn with rebirth or **mokṣa** discourse |
+| **Islam** | Qurʾān **barzakh** (e.g. 23:99–100); grave trial in fiqh / kalām; Sufi eschatology | Isthmus between death and resurrection; subject still “in relation” | Resurrection monotheism; **no** normative rebirth into new earthly bodies (Sunni / Imāmī mainstream) |
+| **Chinese syncretic** | Diyu iconography; **hun** / **po** soul talk | Bureaucratic hell scrolls = staged post-mortem process | Ancestor cult + cosmic bureaucracy—different default soteriology than Vajrayāna |
+| **Bon** (Himalayan) | Yungdrung Bon funerary cycles; Zhangzhung-phase texts (specialist editions) | Ritual guidance for deceased consciousness beside Tibetan Buddhism | Historical entanglement with Buddhist Terma—see overview [Treasury of Lives — Bon](https://treasuryoflives.org/bo/foundations/view/14); avoid flattening to “copy” |
+| **Mormon (LDS)** | *Doctrine and Covenants* 138; spirit prison / paradise | Compartmented intermediate state before embodied resurrection | Christian resurrection goal; **not** kuśala / akusala rebirth machinery |
+| **Dante** (literary-theological) | *Purgatorio* | Sequential purification ascent—structural rhyme with staged maps | Latin one-life salvation economy; **not** Indic rebirth science |
+
+**Headline:** bardo-type **geographies** are widespread. Tibetan practice adds **(i)** yoga **addressed** to the dying or dead consciousness, **(ii)** peaceful/wrathful **recognition** training, and **(iii)** the popular **~49-day** horizon—layers on top of Indian intermediate-state **disputes**.
+
+### 6.7 Reincarnation models that are **not** Bardo-first
+
+| Model | Typical move | Contrast to *Bardo Thödol* emphasis |
+|-------|--------------|-------------------------------------|
+| **Immediate re-linking** (Theravāda Abhidhamma mainstream) | **Cuti** → **paṭisandhi** without a lived interval as primary doctrine | Little normative multi-week vision navigation |
+| **Karmic continuity without cartography** | Some Hindu and Jain expositions stress residue and next birth over staged geography | Jain transmigration is highly structured (**leśyā**, karmic “color”) but **not** the Forty-two Peaceful / wrathful display logic |
+| **Gilgul** (kabbalistic reincarnation) | Soul-sparks re-enter bodies for **tikkun** | Usually lacks the same public bedside **reading** script for lights/sounds |
+| **Neoplatonic / esoteric metempsychosis** | Soul circuit through spheres (*Hermetica*, Plotinian legacy) | Ascent/descent without Indo-Tibetan **ground luminosity** praxis |
+
+### 6.8 Investigative synthesis
+
+The **family resemblance** among Latin **purgatory**, Tibetan **Bardo**, and other **staged-between** maps (**§6.3**, **§6.6**) is a serious object for comparative mysticism, thanatology, and history of images (bridge, mountain, gates, hours). **Ontology still forks:** one created soul vs mind-stream vs covenant person awaiting resurrection vs **jīva** in cyclical **saṃsāra** changes everything downstream.
+
+**NC (speculative):** could early modern print-theologies have hardened exclusive maps (eternal hell vs single heaven) after eras when popular Christianity still traded in more elastic liminal imagery? That needs documentary trails, not resemblance alone.
+
+**Shelf for school-level Buddhist detail:** surveys and reference works on **antarābhava** (e.g. *Princeton Dictionary of Buddhism* entry; Paul Williams; Padmanabh Jaini’s articles on **jīva** / intermediate existence)—use for cites beyond this sketch.
 
 ---
 
@@ -221,14 +268,18 @@ See **§5.2** — **`09.html`**: **first strike on Christianity** + **splinter r
 | **Sebastian Brant, *Das Narrenschiff*** (+ **modern** **art-historical** study) | **Primary** satire; compare **NC** **dating** claims to **standard** **woodcut** scholarship |
 | **C.S. Lewis, *Letters to Malcolm: Chiefly on Prayer*** | **Protestant** **sanctification**-like **purgatory** **metaphor** **in his own words** |
 | **Bardo Thödol** / **Liberation Through Hearing** (any critical edition with **translator** introduction) | **Stable** **Bardo** **terminology** |
+| **Vasubandhu**, *Abhidharmakośa* / *Abhidharmakośabhāṣya* (translation + Indology study) | **Antarābhava** debate; **Sarvāstivāda** vs **Theravāda** lines |
+| ***Garuda Purana*** (accessible translation + Hindu death-ritual primer) | **Preta** path, śrāddha timing—**Hindu** parallel to **staged-between** care |
+| **Wallis Budge** or **Faulkner** (etc.), *Book of the Dead* / **Duat** introductions | **Egyptian** hour-gate staging vs Indic **Bardo** (**compare only**) |
 | **Jacques Le Goff, *The Birth of Purgatory*** | **Standard** **medieval** **development** of **doctrine** (contrast to **NC**) |
 | **Alan F. Segal, *Life After Death*** | **Comparative** **Judaism/Christianity/Islam** **afterlife** **scholarship** |
+| ***Princeton Dictionary of Buddhism*** (s.v. **Antarābhava**) | **School-by-school** **pin** for intermediate existence |
 
 ---
 
 ## 13. Cross-links (in-repo)
 
-- [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — **reader essay:** scalar / æther bridge; **Bardo** phenomenology; **reincarnation** bands; points here for **doctrine** **contrasts** and **§6** **limits**.  
+- [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — **reader essay:** scalar / æther bridge; **Bardo** phenomenology; **reincarnation** bands; points here for **doctrine** **contrasts** and **§6** **cross-cultural** **maps**.  
 - [Two branches: Fomenko vs author](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md) — **Royal vs Apostolic** map; **author relabel**.  
 - [Prester John, Presbyter, Rus–Horde](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md) — ***Ship of Fools*** **cultural** **hook**; **Western** **ridicule** **climate**.  
 - [Soul science](/history/chronology/investigations/soul-science-investigation.md) — **Reformation** and **soul** → **mind** **shift**; **Russian** **dusha** **containment** thesis.  
@@ -244,7 +295,9 @@ See **§5.2** — **`09.html`**: **first strike on Christianity** + **splinter r
 1. Are there **manuscript** trails for **Protestant** **readers** of **Bardo**-like **limbo** language in **XVII c.** **polemic**?  
 2. Does **CHRON6** **anywhere** assert **suppressed** **reincarnation** in **“original”** **Horde** **Christianity** — **page-level** cites needed.  
 3. **Baptist successionism** vs **NC** **timeline**: **constructive** **tension** or **mutual** **refutation**?
+4. How did **antarābhava** **acceptance** differentially shape **East Asian** funeral **liturgy** (**Pure Land** vs **Chan** vs folk syncretism)—edition-level cites?
+5. Specialist **Bon** vs **Buddhist** **Terma** **genealogy** on **death** **instructions**: which **claims** of **priority** hold under **manuscript** **dating**?
 
 ---
 
-Keywords: #Afterlife #Purgatory #Bardo #Protestantism #Reformation #Fomenko #RusHorde #NewChronology #ShipOfFools #ComparativeReligion
+Keywords: #Afterlife #Purgatory #Bardo #Antarabhava #Barzakh #Reincarnation #IntermediateState #Protestantism #Reformation #Fomenko #RusHorde #NewChronology #ShipOfFools #ComparativeReligion
