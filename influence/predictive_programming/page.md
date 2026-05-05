@@ -134,6 +134,9 @@ Predictive programming presents AI in a very dim light: humans rely on robots as
 | **Mars convergence** | paradigm-threat-timeline, wget investigations | Arnold, Burroughs, Lewis, Wells — dying planet, telepathy, control structures; see [Mars Catastrophe](https://paradigmthreat.net/timeline/evt-mars-catastrophe-brandenburg) |
 | **Microchips / shrinking technology** | [microchips-shrinking-technology-investigation](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation) | **Major finding:** Nobody knows how chips are made; deliberate worldwide control. Objects vs lifeforms rule; predictive programming for shrinking |
 | **AI / deliberate bad software** | [ai-control-investigation](https://paradigmthreat.net/science/ai/ai-control-investigation) | Robots as slaves, turn on humans; "nothing works" so only AI can operate systems; ghost in machine = deep-state hijacking |
+| ***Final Fantasy* (I–VII)** | [investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md](investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md) | Tartaria / Prester John myth **echo** thesis; **VI** World of Ruin ↔ mud-flood grammar; **VII** eco-terror / Sector 7 blame game; buried airships |
+| ***Terranigma* / Beruga** | [investigations/terranigma-beruga-predictive-programming-investigation.md](investigations/terranigma-beruga-predictive-programming-investigation.md) | 1995 JRPG (PAL English): masked biotech savior, **Asmodeus** virus, robot triage, Asimov laws, eschatological city-kill; geo/name rhymes dossier |
+| ***Half-Life* series** | [investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md](investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md) | CERN/portal PP lane; **Combine** assimilation vs Borg-class SF; **Xen** border-world; transhumanism + ecocide texture; hollow-planet author read |
 
 ### Timeline Cross-References
 
@@ -226,7 +229,9 @@ Media identified as containing predictive programming by external sources or our
 
 | Title | Year | Description | Source |
 |-------|------|-------------|--------|
-| *Half-Life 2* | 2004 | Combine occupation; portal tech; suppression field; CERN resonance; transhumanism. | Ours |
+| *Final Fantasy* (I–VII) | 1987–1997 | Rus–Horde / Tartaria **echo** thesis; **VI** Catastrophe / World of Ruin; buried **Falcon** airship; **VII** AVALANCHE + Sector 7 narrative — [dossier](investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md). | Ours |
+| *Half-Life* series (*Half-Life*, *Half-Life 2*, Episodes, *Alyx*) | 1998–2020 | Resonance cascade / portals / **Xen**; Combine occupation (Borg-class assimilation grammar); suppression field; Stalker transhumanism; ecocide texture — [dossier](investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md). | Ours |
+| *Terranigma* | 1995 | Beruga arc: bioweapon/vaccine/triage, robot enforcement, **Asmodeus** virus, Three Laws cite, **NeoTokio** mass-casualty beat; Russia-name + north-map rhymes — [dossier](investigations/terranigma-beruga-predictive-programming-investigation.md). | Ours |
 | *EarthBound* | 1994 | Alien invader (Giygas) conquers Earth; styled on 1950s sci-fi B-movie themes; same alien-takeover template as Plan 9. | Ours |
 | *Jeff Wayne's War of the Worlds* (PC) | 1998 | "Mass telepathic execution"; technocrats wipe out spiritual faction. | Ours |
 | *Archon Defender* | 2009 | "Uprising was a lie. Epidemic was a lie. Medical screening to identify Shard Sensitive." | Ours |

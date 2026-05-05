@@ -74,7 +74,7 @@ or *not* believing.
 * [Tham Luang Cave Rescue (2018)](/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md) — Cover-up threads and alternate rescue narratives.
 * [Flat Earth](/cosmos/flat_earth/flat-earth-investigation.md) — History, myth, and misinterpretation of the flat-Earth idea.
 * [Anthony of Boston — Mars 360](/cosmos/mars/investigations/anthony-of-boston-mars360-investigation.md) — *Ares Le Mandat*, Mars–markets/Gaza thesis, Academia/Zenodo corpus; cross-links stock-market dossier.
-* [Israel–Gaza × Mars–node claim timeline](/cosmos/mars/investigations/israel-gaza-mars-node-claim-timeline-investigation.md) — Rocket chronology vs Moore windows; Zenodo **410** tombstones; **Internet Archive** full *Ares Le Mandat* PDF.
+* [*Ares Le Mandat* — Mars influence & Israel–Gaza audit](/cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation.md) — Book hub, rocket windows vs public lists, Zenodo **410** tombstones; **Internet Archive** full PDF.
 * [Mars–Earth Reincarnation](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) — Mass death on Mars and souls reborn on Earth.
 * [Pluto](/cosmos/pluto/investigations/pluto-origin-visibility-investigation.md) — Visibility, naming, and “lost to hell” cosmology read.
 * [Venus](/cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation.md) — From Saturnian cosmology to the Venera program.
@@ -153,7 +153,10 @@ or *not* believing.
 * [Mary Shelley](/influence/predictive_programming/fiction_encoding/shelley/shelley-frankenstein-true-story-investigation.md) — *Frankenstein* as potential true-story layer.
 * [Bram Stoker](/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md) — *Dracula* and encoding / managed narrative reads.
 * [Hunter S. Thompson](/influence/predictive_programming/fiction_encoding/thompson/thompson-managed-disclosure-investigation.md) — Satan-worshipper bar story as managed disclosure.
+* [*Final Fantasy* I–VII — Tartaria / mud-flood / Sector 7 PP (open)](/influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md) — Rus–Horde / Prester John echo thesis; **VI** Catastrophe; **VII** eco-false-flag grammar; buried airships; post-VII author stance.
+* [*Half-Life* — CERN/portal, Combine, Xen PP (open)](/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md) — Series: accelerator portals, Borg-class Combine, transhumanism + ruined biosphere; **Xen** author read ↔ hollow-planet hub.
 * [The Urantia Book (1955) -- Controlled Opposition and Predictive Programming](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md) — Open: CO and PP read of the text.
+* [*Terranigma* — Beruga, bioweapon & eschatology PP (open)](/influence/predictive_programming/investigations/terranigma-beruga-predictive-programming-investigation.md) — 1995 JRPG: cryo scientist, **Asmodeus** virus, robot triage, Mosque/NeoTokio & north-map rhymes; dossier.
 * [White vs Excalibur: Sulphur + Mercury](/influence/predictive_programming/fiction_encoding/white/white-excalibur-sulphur-mercury-investigation.md) — Book vs movie; managed disclosure question.
 * [T.H. White, The Once and Future King](/influence/predictive_programming/fiction_encoding/white/white-saturnian-round-table-investigation.md) — Saturnian round table and Arthur encoding.
 * [Zombie Genre](/influence/predictive_programming/fiction_encoding/zombies/index-zombie-genre-investigation.md) — Genre history, plague imagery, managed disaster narratives.

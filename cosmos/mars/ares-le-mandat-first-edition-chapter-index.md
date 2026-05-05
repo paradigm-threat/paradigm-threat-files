@@ -16,7 +16,7 @@
 | **Internet Archive** | **`Ares Le Mandat proof final exp6 full2.pdf`** (~120 MiB) — **SHA-1** `894436f12ddca5cf5ed926940e3182cf9c3809f3` (per IA file metadata). |
 | **This workspace (optional local copy)** | Some maintainers keep the same file under `~/wget/AnthonyOfBoston/`; verify checksum after any copy. |
 
-Later **Zenodo / SSRN** editions and **removal tombstones** are tracked in [israel-gaza-mars-node-claim-timeline-investigation.md](investigations/israel-gaza-mars-node-claim-timeline-investigation.md) and [anthony-of-boston-mars360-investigation.md](investigations/anthony-of-boston-mars360-investigation.md).
+Later **Zenodo / SSRN** editions and **removal tombstones** are tracked in [ares-le-mandat-mars-direct-earth-influence-investigation.md](investigations/ares-le-mandat-mars-direct-earth-influence-investigation.md) (§6–7) and [anthony-of-boston-mars360-investigation.md](investigations/anthony-of-boston-mars360-investigation.md).
 
 ---
 
