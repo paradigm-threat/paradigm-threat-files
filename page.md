@@ -179,6 +179,7 @@ or *not* believing.
 * [Havana Syndrome](/science/havana_syndrome/havana-syndrome-investigation.md) — Directed energy and gaslighting of the public narrative.
 * [Chernobyl probiotics (Straight)](/science/health/probiotics_chernobyl/ssstwitter.com_1772378839442-investigation.md) — Transcript-led fact-check of probiotic / Chernobyl claims.
 * [Microchips](/science/microchips/microchips-shrinking-technology-investigation.md) — Shrinking tech, supply opacity, control thesis.
+* [Quantum computer — infinitely indexed storage thesis](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) — Author: storage / frequency-addressing vs mainstream gate-qubit narrative; open questions.
 * [Galen Winsor](/science/nukes/investigations/nuke-waste-is-safe-investigation.md) — “Nuclear waste is safe” alternative framework.
 * ["Nukes Don't Exist"](/science/nukes/investigations/nukes-dont-exist-investigation.md) — Alternative framework vs standard nuclear model.
 
