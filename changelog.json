@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-05T11:36:55.389Z",
+    "date": "2026-05-05T12:04:23.142Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      },
+      {
+        "status": "M",
+        "path": "science/biology/circle-of-life-and-how-it-began.md",
+        "href": "/science/biology/circle-of-life-and-how-it-began"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/biology/circle-of-life-and-how-it-began.png",
+        "alt": "The Circle of Life and How It Began — creation memory, scalar field, womb echo (article art)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-05T11:36:54.000Z",
+    "message": "Content: Circle of Life hero art, article docs, Mars and predictive programming updates.",
     "files": [
       {
         "status": "M",
@@ -987,32 +1010,6 @@
     "files": [
       {
         "status": "M",
-        "path": "science/biology/the-cure-for-cancer-meme.png",
-        "href": "/science/biology/the-cure-for-cancer-meme.png"
-      },
-      {
-        "status": "M",
-        "path": "science/biology/the-cure-for-cancer.md",
-        "href": "/science/biology/the-cure-for-cancer"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/biology/the-cure-for-cancer-meme.png"
-      },
-      {
-        "src": "/science/biology/the-cure-for-cancer.png",
-        "alt": "The Cure for Cancer — hope beyond the incurability chorus"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-01T12:10:31.000Z",
-    "message": "Add LOTR meme asset the-cure-for-cancer-meme.png to cancer article",
-    "files": [
-      {
-        "status": "A",
         "path": "science/biology/the-cure-for-cancer-meme.png",
         "href": "/science/biology/the-cure-for-cancer-meme.png"
       },

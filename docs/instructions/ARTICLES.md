@@ -91,6 +91,11 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 
 ## Phrasing we are tired of (LLM tells)
 
+- **Required second pass (de-LLM sweep):** After finishing any article draft, run one clean edit pass that looks only for machine-sounding cadence and rewrites it to plain spoken prose. This pass is mandatory before shipping.
+  - **Primary target:** the contrast template **“not A, (but) B”** in one or two adjacent sentences (for example: “this is not a myth; it is a memory”).
+  - **Rewrite rule:** keep the meaning, remove the formula. Prefer one positive claim, a concrete image, or a direct sentence you would actually say out loud.
+  - **Fast checks:** search for patterns like **“not a”**, **“not an”**, **“not the”**, **“it is”**, **“but rather”**, **“this is not”** and inspect each hit for template-like contrast writing.
+  - **Acceptance bar:** if a sentence sounds like it is teaching a model contrast pattern instead of talking to a reader, rewrite it.
 - **The “not A, it is B” teaching beat** — repeated contrasts of the form “**This is not** *chemistry / myth / debunk / a verdict*… **it is** *relationship / science / …*” work once; across many articles they read as the **same** canned cadence. **Rotate constructions**: lead with the **positive** claim; use **“Rather,”** **“Another name for that pressure:”** **“What I mean is simpler:”** a **question**, or a **concrete image**—anything that **breaks** the identical **not-this / but-that** rhythm.
 - Close cousin: **“X is not Y; it is Z”** every time you need nuance. Sometimes **Z alone** carries the point; sometimes **two short sentences** beat one negated compound.
 - **Stance meta** — “**In this piece I will**…”, “**My thesis is**…” every section (the title and flow already signal intent). **Bad** vs **good** examples live under **Voice → State the claim**.
@@ -126,4 +131,4 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 
 ---
 
-**Last updated:** 2026-05-06
+**Last updated:** 2026-05-05
