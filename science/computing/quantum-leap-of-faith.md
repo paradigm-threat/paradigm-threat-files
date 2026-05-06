@@ -44,6 +44,10 @@ Every “digital” product rides analog carriers: modems, PHYs, filters, clock 
 
 If that sounds paranoid, state it as a design fact: any rich medium can carry steganographic or out-of-band energy unless you own the entire measurement chain. Nation-state and cartel incentives both point the same way: use what the bill of materials already contains. A civilization that can only read vendor APIs has jailed its senses inside someone else’s enumerated list.
 
+The deeper analog claim is simple: a database built for analog-resolved storage would not behave like binary lookup at all. In binary media, every cell is effectively yes/no and capacity scales by multiplying tiny decisions. In an analog-resolved model, each storage locus can carry a continuous waveform and therefore far denser descriptive structure than a single bit. Put plainly: optical-disc history could have gone very differently. CD, DVD, and Blu-ray are already analog physical systems constrained by digital encoding choices. A different standards path could have stored native signal fields directly (closer in spirit to magnetic tape), not only quantized yes/no streams. On this reading, one disc class could have held what now requires massive libraries.
+
+That is why bitmap-era “progress” looks backward from this angle: the industry chose a narrow coding regime on top of an analog substrate, then called the resulting scarcity inevitable physics.
+
 Escaping that jail is larger than swapping OS distribution. The current state of technology is a major problem that cannot be understated. In my view, the stack as deployed now will have to be dismantled and destroyed, then rebuilt under real audit from the substrate up. As a surveillance and privacy question alone, almost every electronic class now ships with exploitable seams or backdoor potential: phones, cars, planes, power plants, kids' toys, pacemakers. We have to do better than inheritance-by-default from compromised architecture.
 
 ## Where the “quantum” label points in my model
@@ -51,6 +55,10 @@ Escaping that jail is larger than swapping OS distribution. The current state of
 Public quantum computing is sold as qubit circuits, future speedups, and complexity-theory trophies. I treat much of that stack as misdirection that defers hope to a not-yet machine while avoiding storage and addressing physics.
 
 The real quantum computer, in my thesis, is closer to infinitely indexed memory: knowledge nested in frequency resolution, query-as-address, resonant lookup in principle—not faster transistors in the usual sense, but a different way information sits in a medium. Tables, mainstream contrast, Mars/Earth speculation, and science-fiction parallels sit in the [infinitely indexed storage / quantum computer investigation](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md); the preceding paragraphs only anchor vocabulary so narrative and technical notes stay aligned.
+
+One historical lane follows from that, and I treat it as solved in technological terms: reports of crystal-memory objects preserve storage technology memory, not only myth. The Joseph Smith episode is interpreted as interaction with a signal-bearing object where “reading” occurred by resonance/telepathic coupling, not by alphabetic inscription. In that frame, conflicting retellings track extraction from different frequency strata or source impressions rather than fabrication. The claim is direct: he found suppressed legacy technology once common.
+
+![Joseph Smith mystery solved — crystal-memory interpretation](quantum-leap-of-faith-smith-mystery-solved.png)
 
 ## The leap we still owe ourselves
 
@@ -71,7 +79,7 @@ What precedes is thesis and pattern language, not a chronological industry histo
 
 Keywords: #QuantumLeap #VectorGraphics #AnalogSignal #ComputingHistory #WalledGarden #QuantumComputer #KnowledgeAccess #ParadigmThreatFiles
 
-**Last updated:** 2026-05-08
+**Last updated:** 2026-05-06
 
 ---
 

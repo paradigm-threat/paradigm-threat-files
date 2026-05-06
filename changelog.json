@@ -1,8 +1,43 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-06T12:42:41.809Z",
+    "date": "2026-05-06T13:13:28.992Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md",
+        "href": "/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
+        "href": "/science/computing/quantum-leap-of-faith-smith-mystery-solved.png"
+      },
+      {
+        "status": "M",
+        "path": "science/computing/quantum-leap-of-faith.md",
+        "href": "/science/computing/quantum-leap-of-faith"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/computing/quantum-leap-of-faith-smith-mystery-solved.png"
+      },
+      {
+        "src": "/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
+        "alt": "Quantum computer / infinitely indexed storage — investigation header"
+      },
+      {
+        "src": "/science/computing/quantum-leap-of-faith.png",
+        "alt": "Quantum Leap (of faith) — article header"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-06T12:42:41.000Z",
+    "message": "Docs + computing article: preserve author tone and explicit surveillance risk.",
     "files": [
       {
         "status": "M",
@@ -1100,28 +1135,6 @@
         "src": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.png",
         "alt": "German New Medicine (LearningGNM) — cancer paradigm cluster investigation header"
       },
-      {
-        "src": "/science/biology/the-cure-for-cancer.png",
-        "alt": "The Cure for Cancer — hope beyond the incurability chorus"
-      },
-      {
-        "src": "/science/biology/the-cure-for-cancer-meme.png",
-        "alt": "Return of the King (2003) frame: Frodo and Sam on the stairs — meme caption “No Sam, You’re the Cancer!” Same narrative trick: the sick voice accuses the loyal friend instead of the ring."
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-01T12:50:28.000Z",
-    "message": "The Cure for Cancer: tighten GNM section and light-stack prose",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/biology/the-cure-for-cancer.md",
-        "href": "/science/biology/the-cure-for-cancer"
-      }
-    ],
-    "images": [
       {
         "src": "/science/biology/the-cure-for-cancer.png",
         "alt": "The Cure for Cancer — hope beyond the incurability chorus"
