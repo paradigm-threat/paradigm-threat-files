@@ -44,7 +44,7 @@ Every “digital” product rides analog carriers: modems, PHYs, filters, clock 
 
 If that sounds paranoid, state it as a design fact: any rich medium can carry steganographic or out-of-band energy unless you own the entire measurement chain. Nation-state and cartel incentives both point the same way: use what the bill of materials already contains. A civilization that can only read vendor APIs has jailed its senses inside someone else’s enumerated list.
 
-Escaping that jail is larger than swapping OS distribution. It may mean physical replacement of hardware and fresh software with audit rituals we never applied to the last cycle.
+Escaping that jail is larger than swapping OS distribution. The current state of technology is a major problem that cannot be understated. In my view, the stack as deployed now will have to be dismantled and destroyed, then rebuilt under real audit from the substrate up. As a surveillance and privacy question alone, almost every electronic class now ships with exploitable seams or backdoor potential: phones, cars, planes, power plants, kids' toys, pacemakers. We have to do better than inheritance-by-default from compromised architecture.
 
 ## Where the “quantum” label points in my model
 
