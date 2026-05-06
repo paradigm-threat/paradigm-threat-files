@@ -4,7 +4,7 @@
 
 ![Quantum computer / infinitely indexed storage — investigation header](quantum-computer-infinitely-indexed-storage-thesis-investigation.png)
 
-**Date:** 2026-05-07  
+**Date:** 2026-05-06  
 **Status:** Open — author-originating hypothesis; mainstream physics and engineering literature do not state the storage identity proposed here.
 
 **Guide (read order)**
@@ -92,6 +92,30 @@ The following is the **author-supplied** position for **Paradigm Threat**. It is
 
 ---
 
+### 2.3 Author extension — analog database model (binary scarcity vs signal depth)
+
+> Essentially, a database that is analog-driven would store data differently than one that stores everything in binary. Imagine every bit position on a hard drive, CD, DVD, or Blu-ray carrying analog signal structure instead of only yes/no state. The medium might need larger loci, but far fewer loci, because each analog locus can hold much richer structure—up to effectively infinite-resolution image/signal detail in the model.  
+>
+> If you follow that logic, Blu-ray and DVD look backward: the medium was already analog at the physical level, and standards still forced quantized binary streams. They could have stored audio/video fields directly, more like high-density signal memory than bitstream packing. In that path, one disc could hold what now takes huge libraries; potentially the whole released movie corpus in one object class.  
+>
+> This analog signal technology is not hypothetical in the author thesis. It is old and suppressed.
+
+**Unpack:** This reframes “capacity” as a **coding-policy** choice, not only a material limit. The author’s claim is that digital standards intentionally collapse a rich physical channel into impoverished binary addressing, preserving scarcity and control. Mainstream information theory would answer that analog channels remain noise-bounded and any reliable retrieval still requires coding/error-control tradeoffs. The author position rejects that as incomplete and points to suppressed media/physics pathways.
+
+| Storage model | What a single locus stores | Capacity intuition | Retrieval behavior | Author verdict |
+|---------------|----------------------------|--------------------|--------------------|----------------|
+| **Binary-addressed media (mainstream consumer stack)** | One quantized state (0/1, plus ECC/parity context) | Scales by multiplying discrete cells and compression layers | Indexed lookup + decode chains; many procedural steps | Useful but intentionally narrow; preserves scarcity and control markets |
+| **Analog-resolved media (author alternative path)** | Continuous waveform/field structure at each locus | Higher per-locus descriptive density; fewer loci needed for rich content | Query by resonance/parameter matching rather than only bit-address traversal | Suppressed branch that could have dominated optical-era storage |
+| **Infinite-index / quantum-storage thesis (author endpoint)** | Frequency-nested, effectively unbounded address depth | “Single object / class holds civilizational corpus” direction | Correct question maps directly to target region (near-instant lookup in model) | True suppressed architecture misnamed by public “qubit” narrative |
+
+### 2.4 Author extension — Joseph Smith crystal-memory interpretation (author conclusion)
+
+> The Joseph Smith case is interpreted here as solved in technological terms: he encountered a crystal-like memory object storing lived perspective at extreme resolution (audio/image/state), then decoded it through telepathic or resonance coupling. In this model, one pass can drain a signal layer, so later reads must pull from different strata, yielding the variant accounts (1820/1832/1838). The conclusion is not fraud; the conclusion is contact with suppressed legacy technology that was once common.
+
+**Unpack:** This section records the author's explicit solved-mystery stance, not a tentative maybe. It connects directly to §2.3 (analog signal memory), §2.2 (antiquity/suppression), and §7 (fiction/myth as storage-memory residue). Documentary adjudication remains open outside this file’s source base.
+
+---
+
 ## 3. Tension table — author storage narrative vs mainstream circuit narrative
 
 | Dimension | Mainstream public / textbook framing (§1) | Author thesis (§2) |
@@ -122,6 +146,9 @@ The following is the **author-supplied** position for **Paradigm Threat**. It is
 12. **Suppression motive:** Supposed inability to “invent” it in the modern open **narrative** is **social** **control**—universal knowledge access would be **uncontrollable** and would **threaten establishment** structures.  
 13. **LLM investigative rhyme:** **Limited LLMs** already let the author see **deeper** into **grounded** reality with **less** human time/effort/error in **cross-reference**; the **quantum machine** **(author model)** “**always**” had that affordance (**analogy only**—§2.2 unpack).  
 14. **Mars vs Earth:** Such computers were **prevalent on Mars** and **suppressed on Earth** (**author belief**; **not** **documented** here).
+15. **Analog database thesis:** Binary storage standards are an intentionally narrowed coding regime on top of analog-capable media; analog-resolved loci could hold vastly greater information density than yes/no bit cells.
+16. **Optical-media backwardness claim:** CD/DVD/Blu-ray represent constrained, backward encoding choices relative to what their analog physical substrate could have carried.
+17. **Crystal-memory historical lane:** Certain religious narratives (including Joseph Smith variants) preserve distorted memory of signal-bearing objects read by non-ordinary coupling, not mere invention.
 
 ---
 
