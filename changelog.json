@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-06T12:37:16.516Z",
+    "date": "2026-05-06T12:42:41.809Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      },
+      {
+        "status": "M",
+        "path": "science/computing/quantum-leap-of-faith.md",
+        "href": "/science/computing/quantum-leap-of-faith"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/computing/quantum-leap-of-faith.png",
+        "alt": "Quantum Leap (of faith) — article header"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-06T12:37:15.000Z",
+    "message": "Science/computing: quantum storage investigation, Quantum Leap article, assets",
     "files": [
       {
         "status": "A",
@@ -1106,24 +1129,6 @@
       {
         "src": "/science/biology/the-cure-for-cancer-meme.png",
         "alt": "Return of the King (2003) frame: Frodo and Sam on the stairs — meme caption “No Sam, You’re the Cancer!” Same narrative trick: the sick voice accuses the loyal friend instead of the ring."
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-01T12:41:53.000Z",
-    "message": "GNM investigation: drop remote-viewing column, links, and #RemoteViewing keyword",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md",
-        "href": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.png",
-        "alt": "German New Medicine (LearningGNM) — cancer paradigm cluster investigation header"
       }
     ]
   }
