@@ -180,6 +180,7 @@ or *not* believing.
 * [Chernobyl probiotics (Straight)](/science/health/probiotics_chernobyl/ssstwitter.com_1772378839442-investigation.md) — Transcript-led fact-check of probiotic / Chernobyl claims.
 * [Microchips](/science/microchips/microchips-shrinking-technology-investigation.md) — Shrinking tech, supply opacity, control thesis.
 * [Quantum computer — infinitely indexed storage thesis](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) — Author: storage / frequency-addressing vs mainstream gate-qubit narrative; open questions.
+* [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) — Reader essay: vector vs raster, analog substrate, commons capture, walled gardens; hooks the infinite-index thesis.
 * [Galen Winsor](/science/nukes/investigations/nuke-waste-is-safe-investigation.md) — “Nuclear waste is safe” alternative framework.
 * ["Nukes Don't Exist"](/science/nukes/investigations/nukes-dont-exist-investigation.md) — Alternative framework vs standard nuclear model.
 
@@ -347,6 +348,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 
 * [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — Scalar / æther continuity, first life and womb, Bardo and afterlife phenomenology, reincarnation bands; links [DNA / scalar dossier](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md).
 * [The Cure for Cancer](/science/biology/the-cure-for-cancer.md) — Hope, celebrity silence, terrain vs incurability marketing; links [GNM / cancer paradigm cluster](/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md).
+* [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) — Faith-vs-audit in consumer tech, vector and analog roads not taken, Jobs/commons read; links [infinitely indexed storage investigation](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md).
 * [What Are You Waiting For?](/influence/controlled_opposition/what-are-you-waiting-for.md) — Deferral as calm technology; religion, disclosure, spectacle; GA / Lacatski / Artemis reads.
 * [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) — Ari on black-box payouts, leader responsibility, **no-ban** standard; links OCR / *Homestuck* / SDA dossiers.
 * [Was Chrono Trigger’s plot based on a 1984 CIA Mars remote viewing session?](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) — CIA Reading Room **MON/SUB** Mars transcript (1984) × *Chrono Trigger* / predictive programming (*X-Men* / Cerebro, *X2*, MFEE rhymes); links [full dossier](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md). (**RV** here = viewing, not dinar **revaluation**.)

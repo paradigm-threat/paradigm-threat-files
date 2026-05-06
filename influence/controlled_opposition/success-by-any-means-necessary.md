@@ -28,7 +28,7 @@ That structural gift is the soil the industry strips after it proves fertile.
 
 Plausible deniability is the unit you get when ledgers are private and forums are curated: you can name alienation, poverty of belonging, hoarding at the top, and deaths in the news feeds of the same scenes—without a single line item that courts would treat as causation in a docket. I still total it morally anyway.
 
-Music contributor George Buzinkai died November 4, 2018; tracks that became part of *Homestuck*’s signature sound are on the record; memorial threads and family context are in [section 3.7](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md). I do not use a name to score points—I use it to refuse the cover story that no one was responsible for the shape of the room.
+Music contributor Usagi Buzinkai died November 4, 2018; tracks that became part of *Homestuck*’s signature sound are on the record; memorial threads and family context are in [section 3.7](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md). I do not use a name to score points—I use it to refuse the cover story that no one was responsible for the shape of the room.
 
 ---
 
@@ -127,7 +127,7 @@ The fork that still exists is smaller than utopia and larger than cynicism: prot
 | Lane | Start here |
 |------|----------------|
 | Remix / policy / HD Remix / firsthand lane | [OC ReMix investigation](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) — sections 4–8 |
-| Webcomic IP / commerce / contributor death record | [*Homestuck* investigation](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) — section 3; section 3.7 George Buzinkai |
+| Webcomic IP / commerce / contributor death record | [*Homestuck* investigation](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) — section 3; section 3.7 Buzinkai |
 | Marathon charity / opacity / router fights | [SDA × GDQ × MSF investigation](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) — sections 3–4 |
 
 Hub: [Controlled opposition](/influence/controlled_opposition/page.md).
