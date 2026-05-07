@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-07T12:55:18.270Z",
+    "date": "2026-05-07T13:06:50.274Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md",
+        "href": "/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/the-incorrectly-scaled-universe.png",
+        "href": "/cosmos/cosmology/the-incorrectly-scaled-universe.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/cosmos/cosmology/the-incorrectly-scaled-universe.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-07T12:55:17.000Z",
+    "message": "Cosmology: expand Incorrectly Scaled Universe article and investigation dossier.",
     "files": [
       {
         "status": "M",
@@ -1167,18 +1189,5 @@
         "alt": "German New Medicine (LearningGNM) — cancer paradigm cluster investigation header"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-01T15:31:08.000Z",
-    "message": "fix(relay): CleverScript ignores return inside if blocks; use ternary in GET hook.",
-    "files": [
-      {
-        "status": "M",
-        "path": "hooks/server/get.cs",
-        "href": "/hooks/server/get.cs"
-      }
-    ],
-    "images": []
   }
 ]
