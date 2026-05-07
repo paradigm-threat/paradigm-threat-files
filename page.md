@@ -73,6 +73,7 @@ or *not* believing.
 * [Hollow Earth](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md) — Sources, maps, books, and Atlantis framing.
 * [Tham Luang Cave Rescue (2018)](/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md) — Cover-up threads and alternate rescue narratives.
 * [Flat Earth](/cosmos/flat_earth/flat-earth-investigation.md) — History, myth, and misinterpretation of the flat-Earth idea.
+* [The Incorrectly Scaled Universe](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md) — Curved-light aether model: Maxwell lineage, gravity reinterpretation pressure, and cosmological scale-inference risk.
 * [Anthony of Boston — Mars 360](/cosmos/mars/investigations/anthony-of-boston-mars360-investigation.md) — *Ares Le Mandat*, Mars–markets/Gaza thesis, Academia/Zenodo corpus; cross-links stock-market dossier.
 * [*Ares Le Mandat* — Mars influence & Israel–Gaza audit](/cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation.md) — Book hub, rocket windows vs public lists, Zenodo **410** tombstones; **Internet Archive** full PDF.
 * [Mars–Earth Reincarnation](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) — Mass death on Mars and souls reborn on Earth.
@@ -353,6 +354,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 * [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) — Ari on black-box payouts, leader responsibility, **no-ban** standard; links OCR / *Homestuck* / SDA dossiers.
 * [Was Chrono Trigger’s plot based on a 1984 CIA Mars remote viewing session?](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) — CIA Reading Room **MON/SUB** Mars transcript (1984) × *Chrono Trigger* / predictive programming (*X-Men* / Cerebro, *X2*, MFEE rhymes); links [full dossier](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md). (**RV** here = viewing, not dinar **revaluation**.)
 * [Rus-Horde echoes in English political and military lexicon (open speculation)](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) — *rush* / *Rus*, *rat* / *рать*, Protestant print and word bias, *King Arthur* (2004); dictionary facts vs. low-confidence parallels
+* [The Incorrectly Scaled Universe](/cosmos/cosmology/the-incorrectly-scaled-universe.md) — Reader essay: curved-light aether thesis, cosmological over-scaling risk, and one-field connected-universe framing; links technical dossier.
 
 ### Hubs and broad entry points
 

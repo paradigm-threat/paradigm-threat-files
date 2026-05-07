@@ -224,6 +224,7 @@ Modern physics has effectively reintroduced the aether under other names — qua
 - Investigate Dollard's wireless power replications — does Ether-based engineering produce novel results?
 - Examine Sagnac experiment (1913) — this detected rotational motion through *something*, often cited as aether evidence but absent from the paradigm-threat-files archive
 - Investigate Dayton Miller's 1920s interferometry results — he claimed positive aether detection; his results were dismissed but never conclusively refuted
+- Cross-link with curved-light scale thesis and cosmology implications: [The Incorrectly Scaled Universe investigation](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md)
 
 ---
 
