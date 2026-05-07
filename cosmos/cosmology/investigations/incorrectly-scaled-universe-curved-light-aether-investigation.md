@@ -274,9 +274,78 @@ This chain does **not** prove astrology true or false; it states a **dependence 
 
 ---
 
-## 14. Provisional conclusion
+## 14. Minimal formalism scaffold (hypothetical)
 
-This investigation now has a coherent core: curved-light aether ontology, scale-electromagnetic reinterpretation pressure on gravity, and a direct challenge to cosmological scaling assumptions. The strongest immediate gap is not rhetoric but formalization: equation-level rules and decisive falsification tests (**§9**, **§12**).
+This section provides a first-pass equation scaffold that can be tested and revised. It is a modeling proposal, not a validated replacement.
+
+### 14.1 Field superposition layer
+
+For a charged body, define local total fields as:
+
+- \(\mathbf{E}_{\text{tot}}(\mathbf{r},t) = \sum_i \mathbf{E}_i(\mathbf{r},t)\)
+- \(\mathbf{B}_{\text{tot}}(\mathbf{r},t) = \sum_i \mathbf{B}_i(\mathbf{r},t)\)
+
+The particle update law uses Lorentz-force form:
+
+\[
+m\frac{d\mathbf{v}}{dt} = q\left(\mathbf{E}_{\text{tot}} + \mathbf{v} \times \mathbf{B}_{\text{tot}}\right) - \nabla U_{\text{other}}
+\]
+
+Where:
+
+- \(m\): mass \([kg]\)
+- \(q\): charge \([C]\)
+- \(\mathbf{v}\): velocity \([m/s]\)
+- \(\mathbf{E}\): electric field \([V/m]\)
+- \(\mathbf{B}\): magnetic flux density \([T]\)
+- \(U_{\text{other}}\): non-EM potential term \([J]\) if retained
+
+### 14.2 Ray/path layer for propagation
+
+For propagation paths parameterized by arc length \(s\), define tangent \(\hat{\mathbf{t}} = d\mathbf{r}/ds\), and effective index \(n_{\text{eff}}(\mathbf{r}, \omega)\):
+
+\[
+\frac{d}{ds}\left(n_{\text{eff}}\,\hat{\mathbf{t}}\right) = \nabla n_{\text{eff}}
+\]
+
+Equivalent curvature form (normal component):
+
+\[
+\frac{d\hat{\mathbf{t}}}{ds} \approx \nabla_{\perp}\ln n_{\text{eff}}
+\]
+
+One candidate decomposition is:
+
+\[
+n_{\text{eff}}(\mathbf{r},\omega) = n_0 + \alpha_E|\mathbf{E}|^2 + \alpha_B|\mathbf{B}|^2 + \alpha_{\rho}\rho_p + \alpha_J|\mathbf{J}| + \alpha_U U_g
+\]
+
+Where:
+
+- \(n_0\): baseline index (dimensionless)
+- \(\rho_p\): plasma density \([m^{-3}]\)
+- \(\mathbf{J}\): current density \([A/m^2]\)
+- \(U_g\): gravity-related potential term (chosen convention must be explicit)
+- \(\alpha_*\): calibration coefficients fixed by model family and units
+
+### 14.3 Asymptotic straight-line regime
+
+Straight-line behavior appears when \(n_{\text{eff}}\) is approximately constant over the local path:
+
+- \(\nabla n_{\text{eff}} \to 0 \Rightarrow d\hat{\mathbf{t}}/ds \to 0\)
+- This recovers practical local optics while preserving non-trivial long-path curvature under cumulative weak gradients.
+
+### 14.4 Immediate test hooks from the scaffold
+
+1. Estimate curvature budget for representative paths (atmosphere, heliosphere edge, interstellar medium) and compare with observed angular residuals.
+2. Fit one coefficient subset (for example \(\alpha_{\rho}, \alpha_J\)) on a training set and test whether holdout anomalies are reduced without per-object retuning.
+3. Pre-register a null test where gradients are near-zero; model must collapse to straight-ray predictions there.
+
+---
+
+## 15. Provisional conclusion
+
+This investigation now has a coherent core: curved-light aether ontology, scale-electromagnetic reinterpretation pressure on gravity, and a direct challenge to cosmological scaling assumptions. The strongest immediate gap is not rhetoric but formalization, now narrowed to calibration and empirical benchmarking of the scaffold in **§14** plus decisive falsification tests (**§12**).
 
 The original-theory claim currently stands as a synthesis claim, not an exclusivity claim. Adjacent frameworks exist, but no direct textual match has been found for the full package as stated here.
 
