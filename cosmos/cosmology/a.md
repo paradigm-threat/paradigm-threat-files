@@ -4,6 +4,11 @@
 Note: This investigation is a work in progress. Check back soon for more updates!
 ```
 
+### New related files
+
+- [The Incorrectly Scaled Universe](/cosmos/cosmology/the-incorrectly-scaled-universe.md) - Reader-facing thesis on curved-light aether scaling.
+- [Investigation: The Incorrectly Scaled Universe](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md) - Technical dossier, open claims, contradiction audit, and TODO map.
+
 
 > "There is nothing more powerful than a paradigm. When viewed through the lens of the standard gravitational and
 > magnetohydrodynamic paradigm the Sun blinds us with paradoxes. Meanwhile models based on
