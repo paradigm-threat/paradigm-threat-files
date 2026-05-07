@@ -2,8 +2,8 @@
 
 > **TL;DR:** This investigation formalizes an original synthesis: if light propagation is never perfectly straight over real astrophysical paths because it moves through structured aether (field-bearing medium), then modern distance, size, and count inferences can be systematically over-scaled. It stages the claim historically (Maxwell -> Newtonian gravity dominance -> Einstein-era reframing), documents adjacent but non-identical authors (Dowdye, Santilli, Thornhill/EU, Arp), and records the author's originating thesis as first-class input. Current status: open, high-theory, partially sourced, and explicitly falsifiable.
 
-**Status:** Open - framework assembled, source map started, model equations not yet derived.
-**Date:** 2026-05-07
+**Status:** Open - framework assembled; equation layer + catalog falsifiers still outstanding.
+**Date:** 2026-05-08
 
 ---
 
@@ -12,7 +12,10 @@
 1. If you want the core model fast: see **2** and **3**.
 2. If you want the historical framing: see **4**.
 3. If you want direct author-origin language: see **5**.
-4. If you want contradiction audit and test hooks: see **7**, **8**, and **9**.
+4. If you want adjacent authors plus mechanism taxonomy: see **6.4** and **6.5**.
+5. If you want open-claims registry and question audit: see **7** and **8**.
+6. If you want tier labels, pushback, and falsifiers: see **10**–**13**.
+7. If you want remaining gaps and next research steps: see **9** and **14**.
 
 ---
 
@@ -90,6 +93,14 @@ This dossier uses the terms **epistemic closure**, **methodological gatekeeping*
 
 > "Telepaths have suggested that travel between stars by remote viewing is common... we are in a very connected universe, with every atom connected to every other atom."
 
+> "Everything you see outside of Earth's atmosphere operates like a prism in the near-field of your vision... cumulative bend and split so that what you catalog as 'many galaxies' can be braided appearances of fewer birth systems."
+
+> "It is like a hall of mirrors... the deeper you stare, the easier it becomes to confuse reflection count with population count."
+
+> "Galaxies versus young solar systems can be systematically misclassified when distance is inferred from curvature-prone pipelines... scale error becomes object-type error."
+
+> "When plasma is modeled only as garnish... you lose the scaffold that bends paths and organizes filaments."
+
 ### 5.1 What this means in model terms
 
 - The author is not making a small correction to mainstream optics.
@@ -117,17 +128,20 @@ This dossier uses the terms **epistemic closure**, **methodological gatekeeping*
 - [Flat Earth - History, Myth, and Misinterpretation](/cosmos/flat_earth/flat-earth-investigation.md)
 - [Artemis II - mission as faith test](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md)
 - [DNA as Fingerprint, Not Blueprint](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) (for model style and originality framing)
+- [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — planetary-scale birth-cycle essay (bridges Saturnian/scalar ontology; **not identical** to this optics-distance thesis).
 
 ### 6.2 External adjacent-not-identical sources (current)
 
-- Edward H. Dowdye, *Gravitational Lensing in Empty Vacuum Space Does Not Take Place* (vacuum-lensing challenge):  
-  [plasmacosmology.net/dowdye_lensing_v_refraction.pdf](https://plasmacosmology.net/dowdye_lensing_v_refraction.pdf)
-- Santilli and collaborators on isoredshift / medium effects and refractive framing:  
-  [Isorelativity](https://santilli-foundation.org/docs/Isorelativity-final.pdf), [IRS confirmations](https://santilli-foundation.org/docs/IRS-confirmations-212.pdf)
-- Thornhill / Electric Universe line (electromagnetic cosmology framing):  
-  [The Electric Universe Illuminates Recent Discoveries](https://cosmology.info/models/non-expanding-cosmologies/eu-20120711.pdf)
-- Atmospheric refraction baseline references:
-  [Astronomical refraction explainer](https://aty.sdsu.edu/explain/atmos_refr/astr_refr.html), [Atmospheric refraction overview](https://en.wikipedia.org/wiki/Atmospheric_refraction)
+| Lane | Representative link | What it challenges (high level) |
+|------|------------------------|----------------------------------|
+| Dowdye lensing critique | [NPA PDF](https://plasmacosmology.net/dowdye_lensing_v_refraction.pdf) ; [SPIE Digital Library stub](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7421/742113/Experimental-evidence-supporting-the-absence-of-gravitational-lensing/10.1117/12.831833.short) | GR lensing in empty vacuum vs plasma-bound bending narratives |
+| Santilli IRS / medium metrics | [Isorelativity](https://santilli-foundation.org/docs/Isorelativity-final.pdf), [IRS confirmations](https://santilli-foundation.org/docs/IRS-confirmations-212.pdf) | Pure recession interpretation of some redshift classes |
+| Thornhill EU extension | [EU Illuminates discoveries PDF](https://cosmology.info/models/non-expanding-cosmologies/eu-20120711.pdf) | Gravity-only star/plasma narratives |
+| Arp atlas + association thesis | [STScI Arp atlas host](https://archive.stsci.edu/prepds/arpatlases/) ; [Arp 1987 *Science* bridge page (DOI landing)](https://doi.org/10.1126/science.2765309.1082) | Clean Hubble distance ladder from redshift alone |
+| Atmospheric / mirage baselines | [Andrew Young — astronomical refraction](https://aty.sdsu.edu/explain/atmos_refr/astr_refr.html); [WP atmospheric refraction](https://en.wikipedia.org/wiki/Atmospheric_refraction); [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)) | Naive horizon = straight wedge |
+| Textbook redshift bookkeeping | [Wikipedia — redshift](https://en.wikipedia.org/wiki/Redshift) | Single-channel oversimplification of *z* causality |
+| “Never perfectly straight line” pedagogy | [When does light travel in a straight line?](https://www.wtamu.edu/~cbaird/sq/mobile/2023/11/22/when-does-light-travel-in-a-straight-line/) | Overcertainty teaching of ray optics (**translation only**) |
+| QED magnetized vacuum curvature (minority physics) | [arXiv:1208.1319 bending in ultra-strong magnetic field](https://arxiv.org/abs/1208.1319) | Shows **non-trivial vacuum** regimes exist in mainstream fringe of QED—not identical to author aether ontology |
 
 ### 6.3 Originality note
 
@@ -139,6 +153,28 @@ Current sweep found no single author stating the full combined claim:
 4. astrology/astronomy inheritance from that scaling error.
 
 This dossier therefore records the synthesis as **author-original until contrary prior art is located**.
+
+### 6.4 Adjacent authors — one-line dossier (NOT equivalence)
+
+| Figure | Thesis snapshot | Relation to **this** file |
+|--------|-----------------|----------------------------|
+| **Dowdye** | Solar / vacuum lensing skepticism tied to plasma interaction | Shares “revisit lensing” DNA; differs on full cosmology scaffold |
+| **Santilli** | Medium/redshift coupling in generalized metrics | Shares “misread spectroscopic distance”; differs on ether vocabulary + politics |
+| **Thornhill / EU** | Electromagnetic scaffolding for stars/galaxies | Shares plasma foreground; seldom writes astrology bridge or hall-of-mirrors map |
+| **Alfvén** | Plasma realism vs collapse-only star birth | Credentialed ancestor discipline for EU motifs |
+| **Arp** | Associated systems vs clean Hubble | Feeds galaxy/solar scaling hazard; not a prism / near-field optics story |
+
+### 6.5 Mechanism taxonomy (what bends, shifts, or duplicates appearance)
+
+| Class | Canonical mainstream status | Typical scale | Investigation use |
+|-------|----------------------------|---------------|---------------------|
+| **Atmospheric refraction** | Accepted | Horizon-heavy | Sanity anchor — proves large bending already |
+| **Mirage ducts / looming** | Accepted | terrestrial to miles | Imagery multiplicity template |
+| **Plasma dispersion / scattering** | Partially modeled | heliosphere to galaxies | Candidate foreground for curved sightlines |
+| **Gravitational lensing (GR)** | Accepted macro tests | galaxy clusters etc. | Can be overstated—or mis-modeled foreground—depending on disputed papers |
+| **Diffraction / aperture** | Accepted | telescopes | Stellar spike artifacts; rejects naive point-ray idol |
+| **QED vacuum in extreme B-fields** | Niche relativistic QM | pulsars/magnetars | Shows “empty” is tricky in fringe mainstream math |
+| **Author aether gradient paths** | **Speculative thesis** | all claimed | Unifies prism + cosmos under one grammar—awaits equations |
 
 ---
 
@@ -164,26 +200,83 @@ This dossier therefore records the synthesis as **author-original until contrary
 | 4 | Can gravity-only and one-field models be empirically separated? | Core falsifiability | Comparative fit on lensing/redshift/anisotropy datasets |
 | 5 | Do duplicate deep-sky image candidates exist beyond chance? | Tests mirror-path claim | Morphology + spectrum + redshift congruence scans |
 | 6 | How do astrology workflows inherit astronomy scaling assumptions? | Required bridge for astrology claim | Audit of ephemeris and interpretive dependencies |
-| 7 | What single result would falsify this framework? | Scientific credibility | Explicit disconfirmation criteria section |
+| 7 | What single result would falsify this framework? | Scientific credibility | **§12** falsification checklist |
 
 ---
 
 ## 9. Weak points and remaining research TODOs
 
-- [ ] Draft a minimal path equation for light under net field gradients.
-- [ ] Build Tier ladder: documented / plausible / speculative / manifesto-only.
-- [ ] Produce a small candidate list of possibly duplicated deep-sky objects and define match criteria.
-- [ ] Add redshift-distance anomaly references (mainstream and dissent) with side-by-side scoring.
-- [ ] Separate atmospheric refraction, plasma refraction, diffraction, GR lensing, and magnetic vacuum effects in one terminology table.
-- [ ] Add one "strongest mainstream objections" section with direct response column.
-- [ ] Map one concrete astrology dependency chain (astronomy data -> astrological interpretation step).
+- [ ] Draft a minimal path equation for light under net field gradients (scalar potential on path, conserved quantities, asymptotic limits).
+- [ ] Produce a small candidate list of possibly duplicated deep-sky objects and define match criteria (morphology, spectrum, *z*, astrometric jitter tolerance).
+- [ ] Add redshift–distance anomaly references (mainstream and dissent) with side-by-side scoring in a spreadsheet or annex.
+- [x] Separate atmospheric refraction, plasma refraction, diffraction, GR lensing, and magnetic vacuum effects in one terminology table — **§6.5**.
+- [x] Build claim tier ladder — **§10**.
+- [x] Add one strongest mainstream objections section with response column — **§11** (stub; deepen with cites).
+- [x] Map one concrete astrology dependency chain — **§13**.
+- [x] Adjacent-author one-line dossier — **§6.4**.
 - [ ] Locate stronger prior-art search targets in non-English and pre-1970 literature.
 
 ---
 
-## 10. Provisional conclusion
+## 10. Claim tier ladder (how hard each piece is)
 
-This investigation now has a coherent core: curved-light aether ontology, scale-electromagnetic reinterpretation pressure on gravity, and a direct challenge to cosmological scaling assumptions. The strongest immediate gap is not rhetoric but formalization: equation-level rules and decisive falsification tests.
+| Tier | Meaning | Claims in **this** investigation |
+|------|---------|----------------------------------|
+| **A — Documented** | Mainstream or dissent literature agrees the effect exists somewhere | Atmospheric refraction; mirages; telescope diffraction/spikes; redshift has multiple physically distinct channels (see WP redshift lane in **§6.2**) |
+| **B — Plausible extrapolation** | Small step from A; needs quantification | Plasma foreground dispersion/scattering bends or blurs pathways; duplicated appearances in principle from multi-path or ducting metaphors |
+| **C — Speculative synthesis** | No single authoritative source bundles the inference | Curved-light *default*, aether ≡ EM substrate *identity*, cosmic over-scaling *as systematic outcome* |
+| **D — Manifesto / worldview** | Not adjudicable by astronomy papers alone | One-force gravity read; institutional epistemic-closure rhetoric; RV/telepathy as evidence class |
+
+Treat **C** and **D** as hypotheses for research design, not as settled physics.
+
+---
+
+## 11. Mainstream objections (stub)
+
+| Objection | One-line mainstream read | Investigation response (stub) |
+|-----------|---------------------------|-------------------------------|
+| **Occam / parsimony** | GR + ΛCDM already fit billions of datapoints without a global path-scaffold | Parsimony applies to parameters, not to uncorrected systematic error; curved-default thesis is about *bias class*, not extra knobs everywhere |
+| **Michelson–Morley & modern tests** | No preferred frame / luminiferous ether in standard Lorentz-covariant form | Thesis reframes substrate as EM field ontology, not 19th-century rigid ether wind; needs explicit relativistic-compat story or declared break |
+| **Lensing multiply imaged systems** | Time delays, spectra, morphology match GR lens models | Candidate for foreground mis-sort + disputed papers (Dowdye lane); needs case-by-case audit, not blanket dismissal |
+| **Stellar parallax & Gaia** | Geometric distances without cosmology | Local geometry can be tight while long-baseline *global* inversion still inherits path assumptions; tier **B/C** tension to quantify |
+| **Laboratory optics** | We engineer straight beams | Controlled short baselines sit in Tier **A** “approximately straight”; thesis targets cumulative long-path failure modes |
+
+Expand **§11** later with anchored textbook and review citations (GR lensing textbooks, cosmology inference reviews).
+
+---
+
+## 12. Falsification criteria (what would *hurt* this program)
+
+Fair tests should be staged by tier (**§10**).
+
+1. **Path formalism:** If a complete gradient-based path equation cannot reproduce any known anomaly band (beyond trivial atmospheric terms) without ad hoc per-object knobs, core **C** tier weakens.
+2. **Dup-object search:** A large blind survey finds *zero* high-confidence duplicates under pre-registered morphology + spectroscopic rules while standard cosmology predicts the null at same sensitivity — hurts **mirror-path** claim (**§7**, claim 6).
+3. **Substrate identity:** Decisive experimental regime where EM field ontology and propagation substrate are shown **not** to co-vary as the thesis requires — hurts claim 1 (**§7**).
+4. **One-force read:** If static/EM maps fail to recover inverse-square phenomenology in controlled scales without hidden fields, reinterpretation of gravity stalls at tier **D**.
+
+None of these are “one paper” kill shots; they are program-level stress tests.
+
+---
+
+## 13. Astrology dependency chain (sketch)
+
+Astrology in modern practice typically **does not** re-derive celestial mechanics from scratch; it **inherits** orbital elements, precession models, and object catalogs from astronomy-scale assumptions.
+
+**Chain (simplified):**
+
+1. **Observatory / catalog layer** — positions, distances (when used), brightness, and classifications from instruments and pipelines with straight-ray or weak-perturbation defaults.
+2. **Ephemeris layer** — time-varying geometric angles (e.g. ecliptic longitude, aspects) computed from those objects *as parameterized masses/points*.
+3. **Interpretive layer** — symbolic and timing maps from those angles to human-scale claims.
+
+If **(1)** carries systematic scale or multiplicity error, **(2)** remains internally consistent but **anchored to the wrong sky**, and **(3)** inherits the error without a separate empirical firewall.
+
+This chain does **not** prove astrology true or false; it states a **dependence structure** relevant to the astrology–astronomy bridge claim.
+
+---
+
+## 14. Provisional conclusion
+
+This investigation now has a coherent core: curved-light aether ontology, scale-electromagnetic reinterpretation pressure on gravity, and a direct challenge to cosmological scaling assumptions. The strongest immediate gap is not rhetoric but formalization: equation-level rules and decisive falsification tests (**§9**, **§12**).
 
 The original-theory claim currently stands as a synthesis claim, not an exclusivity claim. Adjacent frameworks exist, but no direct textual match has been found for the full package as stated here.
 
