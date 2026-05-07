@@ -1,5 +1,7 @@
 # Remote Viewing as Aether Physics — Investigation
 
+![Remote Viewing as Aether Physics — investigation header](aether-consciousness.png)
+
 **Status:** Open  
 **Triggered by:** Content strategy; [The Suppression of Maxwell and the Aether](/timeline/evt-suppression-of-maxwell-and-the-aether) links consciousness and action-at-a-distance to aether; Stargate targeted Mars.
 
