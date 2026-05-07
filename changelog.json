@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-07T13:25:26.529Z",
+    "date": "2026-05-07T15:38:03.956Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".relay.yaml",
+        "href": "/.relay.yaml"
+      },
+      {
+        "status": "A",
+        "path": "hooks/client/get.jsx",
+        "href": "/hooks/client/get.jsx"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-07T13:25:25.000Z",
+    "message": "Content: add missing investigation header images and wire remote viewing header.",
     "files": [
       {
         "status": "A",
@@ -1107,24 +1125,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-05-02T16:10:40.000Z",
     "message": "Homestuck §3.6: Lloyd/Tallarico parallels; trim Limits §3.6 hedges",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-02T15:57:56.000Z",
-    "message": "Homestuck §3.6: father/patents memoir, author Marx/OCR/§3.4 synthesis; OCR §8.6 cross-read",
     "files": [
       {
         "status": "M",
