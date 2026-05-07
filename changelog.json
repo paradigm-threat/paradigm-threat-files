@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-07T12:34:33.151Z",
+    "date": "2026-05-07T12:55:18.270Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md",
+        "href": "/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/the-incorrectly-scaled-universe.md",
+        "href": "/cosmos/cosmology/the-incorrectly-scaled-universe"
+      }
+    ],
+    "images": [
+      {
+        "src": "/cosmos/cosmology/the-incorrectly-scaled-universe.png",
+        "alt": "The Incorrectly Scaled Universe — curved-light aether cosmology"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-07T12:34:32.000Z",
+    "message": "Cosmology: add Incorrectly Scaled Universe dossier and article.",
     "files": [
       {
         "status": "M",
@@ -1152,24 +1175,6 @@
     "files": [
       {
         "status": "M",
-        "path": "hooks/server/get.cs",
-        "href": "/hooks/server/get.cs"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-01T15:21:54.000Z",
-    "message": "feat(relay): add server.hooks.get for raster WebP (?w=) and dynamic GET",
-    "files": [
-      {
-        "status": "M",
-        "path": ".relay.yaml",
-        "href": "/.relay.yaml"
-      },
-      {
-        "status": "A",
         "path": "hooks/server/get.cs",
         "href": "/hooks/server/get.cs"
       }
