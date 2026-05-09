@@ -1,0 +1,6 @@
+# Minimal theme for Relay themed-styler (optional)
+name: paradigm-files
+colors:
+  primary: '#111827'
+  border: '#e5e7eb'
+  bg: '#fafafa'
