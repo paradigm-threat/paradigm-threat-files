@@ -1,8 +1,173 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-09T15:19:30.539Z",
+    "date": "2026-05-09T19:25:27.281Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/the-incorrectly-scaled-universe.md",
+        "href": "/cosmos/cosmology/the-incorrectly-scaled-universe"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
+        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/indigenous-creation-legends-and-geology.md",
+        "href": "/history/chronology/indigenous-creation-legends-and-geology"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md",
+        "href": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
+        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md",
+        "href": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/success-by-any-means-necessary.md",
+        "href": "/influence/controlled_opposition/success-by-any-means-necessary"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/what-are-you-waiting-for.md",
+        "href": "/influence/controlled_opposition/what-are-you-waiting-for"
+      },
+      {
+        "status": "M",
+        "path": "science/biology/circle-of-life-and-how-it-began.md",
+        "href": "/science/biology/circle-of-life-and-how-it-began"
+      },
+      {
+        "status": "M",
+        "path": "science/biology/the-cure-for-cancer.md",
+        "href": "/science/biology/the-cure-for-cancer"
+      },
+      {
+        "status": "M",
+        "path": "science/computing/quantum-leap-of-faith.md",
+        "href": "/science/computing/quantum-leap-of-faith"
+      }
+    ],
+    "images": [
+      {
+        "src": "/cosmos/cosmology/the-incorrectly-scaled-universe.png",
+        "alt": "The Incorrectly Scaled Universe — curved-light aether cosmology"
+      },
+      {
+        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
+        "alt": "Richard Gage / AE911Truth — investigation header graphic"
+      },
+      {
+        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png",
+        "alt": "Richard Gage / AE911Truth — investigation graphic (charity envelope, open-air prison)"
+      },
+      {
+        "src": "/history/chronology/indigenous-creation-legends-and-geology.png",
+        "alt": "How old is your house? — memory, geology, and the long argument (lead figure)"
+      },
+      {
+        "src": "/history/chronology/indigenous-creation-legends-and-geology2.png",
+        "alt": "Companion figure — islands, marks on stone, and the long argument over time"
+      },
+      {
+        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png",
+        "alt": "Paradigm Threat — working definition of antisemitism (illustrative header)"
+      },
+      {
+        "src": "/history/chronology/investigations/paradigm-threat-working-definition-antisemitism2.png",
+        "alt": "Paradigm Threat — working definition of antisemitism (supplementary illustration)"
+      },
+      {
+        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
+        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
+        "alt": "*Chrono Trigger* / Mars remote viewing — predictive-programming composite (author)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
+        "alt": "Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png",
+        "alt": "Mars Exploration 1984 — remote viewing investigation composite (same release, alternate layout)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
+        "alt": "Mars Exploration 1984 — PDF digest companion figure"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png",
+        "alt": "Witness reconstruction — east Mesa, Arizona (Phoenix metro area), Tuesday April 22, 2014, ~1:24 AM: black triangle over a residential street; author-made reconstruction, not a photograph."
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
+        "alt": "33 Thomas Street / AT&T Long Lines Building in Lower Manhattan — a 550-foot windowless Brutalist slab that was a telecom switching center and turned out to also be the NSA's TITANPOINTE surveillance hub. The canonical example of a downtown windowless tower whose cover story was true and incomplete at the same time."
+      },
+      {
+        "src": "/influence/controlled_opposition/success-by-any-means-necessary.png",
+        "alt": "Success — by any means necessary — paying audience, black-box pipeline, NDAs, and leader accountability"
+      },
+      {
+        "src": "/influence/controlled_opposition/success-by-any-means-necessary-info.png",
+        "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
+      },
+      {
+        "src": "/influence/controlled_opposition/what-are-you-waiting-for.png",
+        "alt": "What Are You Waiting For? — deferral, headlines, calm-by-waiting (article art)"
+      },
+      {
+        "src": "/influence/controlled_opposition/what-are-you-waiting-for2.png",
+        "alt": "What Are You Waiting For? — alternate article art"
+      },
+      {
+        "src": "/science/biology/circle-of-life-and-how-it-began.png",
+        "alt": "The Circle of Life and How It Began — creation memory, scalar field, womb echo (article art)"
+      },
+      {
+        "src": "/science/biology/investigations/dna-fingerprint-scalar-life-investigation.png",
+        "alt": "DNA as fingerprint, not blueprint — scalar life investigation"
+      },
+      {
+        "src": "/science/biology/the-cure-for-cancer.png",
+        "alt": "The Cure for Cancer — hope beyond the incurability chorus"
+      },
+      {
+        "src": "/science/biology/the-cure-for-cancer-meme.png",
+        "alt": "Return of the King (2003) frame: Frodo and Sam on the stairs — meme caption “No Sam, You’re the Cancer!” Same narrative trick: the sick voice accuses the loyal friend instead of the ring."
+      },
+      {
+        "src": "/science/computing/quantum-leap-of-faith.png",
+        "alt": "Quantum Leap (of faith) — article header"
+      },
+      {
+        "src": "/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
+        "alt": "Joseph Smith mystery solved — crystal-memory interpretation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-09T15:19:29.000Z",
+    "message": "PURSUE 01 (article): sharpen Martians line + refresh hero image",
     "files": [
       {
         "status": "M",
@@ -621,41 +786,6 @@
       {
         "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
         "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-06T13:13:28.000Z",
-    "message": "Computing: expand analog-storage context and add Smith image.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md",
-        "href": "/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation"
-      },
-      {
-        "status": "A",
-        "path": "science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
-        "href": "/science/computing/quantum-leap-of-faith-smith-mystery-solved.png"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/quantum-leap-of-faith.md",
-        "href": "/science/computing/quantum-leap-of-faith"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/computing/quantum-leap-of-faith-smith-mystery-solved.png"
-      },
-      {
-        "src": "/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
-        "alt": "Quantum computer / infinitely indexed storage — investigation header"
-      },
-      {
-        "src": "/science/computing/quantum-leap-of-faith.png",
-        "alt": "Quantum Leap (of faith) — article header"
       }
     ]
   }

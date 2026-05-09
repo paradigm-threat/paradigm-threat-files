@@ -191,3 +191,5 @@ It **is antisemitic** **under §1** to explain **Lenin** (or similar) as **actin
 ---
 
 Keywords: #Antisemitism #Definition #IHRA #JDA #Nexus #Monolith #JewishDissent #Israel #Historiography #ReligiousUnity #ParadigmThreatFiles #WorkingDefinition #Semitic #Semites #Philology #WilhelmMarr #AntiArab #Christianity #LanguageFamily #Monotheism #Globalist #CIA #MI6 #InfluenceNetworks #LGBTQ #IntraJewish #TenCommandments #Shadowban #Deboost #Censorship #Harm
+
+**Substack:** [paradigmthreat2.substack.com/p/paradigm-threat-working-definition](https://paradigmthreat2.substack.com/p/paradigm-threat-working-definition)

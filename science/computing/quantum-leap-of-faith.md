@@ -79,6 +79,8 @@ What precedes is thesis and pattern language, not a chronological industry histo
 
 Keywords: #QuantumLeap #VectorGraphics #AnalogSignal #ComputingHistory #WalledGarden #QuantumComputer #KnowledgeAccess #ParadigmThreatFiles
 
+**Substack:** [paradigmthreat2.substack.com/p/quantum-leap-of-faith](https://paradigmthreat2.substack.com/p/quantum-leap-of-faith)
+
 **Last updated:** 2026-05-06
 
 ---

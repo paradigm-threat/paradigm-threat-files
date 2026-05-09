@@ -134,6 +134,8 @@ If you are editing for Substack-scale length: add a personal worked example (one
 
 Keywords: #IndigenousMemory #OralTradition #Geochronology #DeepTime #ParadigmThreatFiles #ColonialScience #Radiocarbon #PlaceMemory #Pitcairn #IslandOrigins #MountFuji #PacificMythology #SaturnianCosmology #ElectricUniverse
 
+**Substack:** [paradigmthreat2.substack.com/p/how-old-is-your-house](https://paradigmthreat2.substack.com/p/how-old-is-your-house)
+
 **Last updated:** 2026-04-30
 
 ---

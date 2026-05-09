@@ -117,6 +117,8 @@ As Gandalf would say: “All we have to decide is what to do”...yadda yadda...
 
 Keywords: #Deferral #Disclosure #Messianism #ControlledOpposition #ParadigmThreatFiles #WakeUp #Matrix1999 #Animatrix #SecondRenaissance #ArtemisII #Chronology #RabbiSacks #GreatReset #IraqiDinar #Revaluation #GCR #PredictiveProgramming #OCReMix #ForumGovernance
 
+**Substack:** [paradigmthreat2.substack.com/p/what-are-you-waiting-for](https://paradigmthreat2.substack.com/p/what-are-you-waiting-for)
+
 Last updated: 2026-05-08
 
 ---

@@ -140,6 +140,8 @@ Nothing here is a legal finding that any named person caused a death, stole spec
 
 Keywords: #ControlledOpposition #ContributorWelfare #FanLabor #LeadershipEthics #Privatization #Polarization #OCReMix #Homestuck #Speedrunning #CharityRouter #ParadigmThreatFiles #Unmod #FoundPapers #Moderation #ZeroBan
 
+**Substack:** [paradigmthreat2.substack.com/p/success-by-any-means-necessary](https://paradigmthreat2.substack.com/p/success-by-any-means-necessary)
+
 **Last updated:** 2026-05-04
 
 ---

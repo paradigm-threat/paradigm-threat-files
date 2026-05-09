@@ -149,3 +149,5 @@ The **deeper** grievance, in the author’s voice, is **not** “forums won’t 
 ---
 
 Keywords: #Mars #ChronoTrigger #CIAReadingRoom #RemoteViewing #PredictiveProgramming #STARGATE #ParadigmThreatFiles #TwoWayPerception #MFEE #FictionAndDeclass #MinorityReport #Precrime #AssassinsCreed #Animus #Fringe #PsychoPass #XMen #Cerebro #Magneto #ProfessorX #WarOfTheWorlds #JeffWayne #OCReMix #ForumGovernance #CollectivePunishment
+
+**Substack:** [paradigmthreat2.substack.com/p/was-chrono-triggers-plot-based-on](https://paradigmthreat2.substack.com/p/was-chrono-triggers-plot-based-on)

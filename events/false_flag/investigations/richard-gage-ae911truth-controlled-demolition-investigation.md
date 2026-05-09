@@ -205,3 +205,5 @@ Sources: [Wikipedia — Original World Trade Center (1973–2001)](https://en.wi
 ---
 
 Keywords: #Richardgage #Ae911truth #Controlled #Demolition #911 #Noplanes #Wtc7 #Censorship #Controlledopposition #Covid #Openairprison #Nonprofitcontainment #501c3
+
+**Substack:** [paradigmthreat2.substack.com/p/investigation-richard-gage-ae911truth](https://paradigmthreat2.substack.com/p/investigation-richard-gage-ae911truth)

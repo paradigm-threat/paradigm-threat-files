@@ -149,6 +149,8 @@ Adjacent critiques scatter across vacuum-lensing challenges, intrinsic redshift 
 
 Keywords: #IncorrectlyScaledUniverse #CurvedLight #Aether #Cosmology #ElectricUniverse #OriginalTheory #PlasmaCosmology #AstrologyVsAstronomy
 
+**Substack:** [paradigmthreat2.substack.com/p/the-incorrectly-scaled-universe](https://paradigmthreat2.substack.com/p/the-incorrectly-scaled-universe)
+
 **Last updated:** 2026-05-08
 
 ---

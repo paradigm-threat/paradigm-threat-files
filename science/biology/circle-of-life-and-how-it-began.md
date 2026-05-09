@@ -105,6 +105,8 @@ If there is hard news in this article, it is this. Earth is not guaranteed milli
 
 Keywords: #CircleOfLife #ScalarEnergy #Aether #GoldenAge #Creation #Dna #Reincarnation #Bardo #Afterlife
 
+**Substack:** [paradigmthreat2.substack.com/p/the-circle-of-life-and-how-it-began](https://paradigmthreat2.substack.com/p/the-circle-of-life-and-how-it-began)
+
 **Last updated:** 2026-05-07
 
 ---

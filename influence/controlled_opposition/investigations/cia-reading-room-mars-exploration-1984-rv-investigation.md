@@ -302,6 +302,8 @@ The readable [**Mars × *Chrono Trigger* article**](../cia-1984-mars-chrono-trig
 
 Keywords: #CIAReadingRoom #Mars #RemoteViewing #Stargate #MarsRV #MARSExploration1984 #LifeOnMars #TechnologyOnMars #FOIA #CREST #AIREvaluation #Disclosure #CurrentMartianCivilization1984 #DeepTimeMisdirection #RVMemoryChannel #TwoWayRV #TargetSidePerception #ArchiveAudit #RevelationOfTheMethod #DeclassChain #MFEE #MudFloodEnergeticEvent #MarsCatastrophe #PostMFEEcology #May221984 #ParadigmThreatFiles #PredictiveProgramming #ChronoTrigger #ChronoTrigger2300AD #Enertron #Lavos #FictionBeforeDeclass #RedactedFact #SpaceVsTimeTravel #ScienceFictionRedaction #MinorityReport #Precrime #AssassinsCreed #Animus #PsychoPass #Fringe #XMen #Cerebro #Magneto #ProfessorX #WarOfTheWorlds #JeffWayne #OCReMix #ForumCommons
 
+**Substack:** [paradigmthreat2.substack.com/p/investigation-cia-reading-room-mars](https://paradigmthreat2.substack.com/p/investigation-cia-reading-room-mars)
+
 ---
 
 ## Limits and disclaimers
