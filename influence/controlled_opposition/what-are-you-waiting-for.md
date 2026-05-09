@@ -75,7 +75,7 @@ If you need one clean distinction: magnetic reversal is a real, slow geophysical
 
 The [Artemis II investigation](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) treats one April 2026 window that way: a crewed lunar flyby campaign as public liturgy—faith test, viral forensics, polarization—while the file’s authors keep explicit distance from adjudicating flight hardware and focus on information dynamics. Whether you buy every clause there or not, the useful question I care about is narrower: why “we’re going back to the Moon” is an easy future to sell when Earth’s board is on fire. It is another soon—a civilizational side quest with souvenir patches.
 
-The [Mars × *Chrono Trigger* article](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) makes a different cut: fiction and declassification can share a corridor without proving writer access to a folder. The honest posture is proportion—pattern without proof-hijacking—which is the same discipline I want here.
+The [Mars × *Chrono Trigger* article](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) makes a different cut: fiction and declassification can share a corridor without proving writer access to a folder. The honest posture is proportion—pattern without proof-hijacking—which is the same discipline I want here. **Update (May 2026):** the same thesis was **stress-tested** on **OC ReMix**: a **CIA.gov-first** thread was **removed wholesale** after **unrelated** replies (**Israel/Palestine**, **vaccines**) the author **refused** to **amplify**—documented as **author firsthand** in that article and in [**OC ReMix §6.1**](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md). The lesson I take is not “they hate conspiracy overlap”; it is **commons governance without redress**—**collective punishment** and **plausible** **cover** **when** **a** **single** **disruptor** **could** **have** **been** **trimmed** **instead** **of** **the** **whole** **conversation**.
 
 I am not claiming a dated, measured correlation between every crisis week and every disclosure spike. I am saying the incentive is visible: futures sell calm when presents demand courage.
 
@@ -115,9 +115,9 @@ Mark my words: when a capstone disclosure ever does arrive in the wild, it will 
 
 As Gandalf would say: “All we have to decide is what to do”...yadda yadda...
 
-Keywords: #Deferral #Disclosure #Messianism #ControlledOpposition #ParadigmThreatFiles #WakeUp #Matrix1999 #Animatrix #SecondRenaissance #ArtemisII #Chronology #RabbiSacks #GreatReset #IraqiDinar #Revaluation #GCR #PredictiveProgramming
+Keywords: #Deferral #Disclosure #Messianism #ControlledOpposition #ParadigmThreatFiles #WakeUp #Matrix1999 #Animatrix #SecondRenaissance #ArtemisII #Chronology #RabbiSacks #GreatReset #IraqiDinar #Revaluation #GCR #PredictiveProgramming #OCReMix #ForumGovernance
 
-Last updated: 2026-04-30
+Last updated: 2026-05-08
 
 ---
 

@@ -4,7 +4,7 @@ When the briefing was a game: the 1984 Mars session, *Chrono Trigger*, and a fil
 
 ![CIA 1984 Mars × *Chrono Trigger* — article hero figure](cia-1984-mars-chrono-trigger.png)
 
-**Updated:** 2026-04-28
+**Updated:** 2026-05-08
 
 **Terminology:** This article uses **remote viewing** and **RV** only in the intelligence/STARGATE sense — **not** Iraqi dinar **revaluation** (also called “RV” in promoter forums; [Great Awakening / revaluation cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md)).
 
@@ -125,6 +125,20 @@ The catastrophic failure mode is not that independent readers entertain strange 
 
 ---
 
+## Afterposting note — OC ReMix forum experiment (**May 2026**, author firsthand)
+
+The author posted **this article** (forum-adapted **body**, same **cia.gov** **anchor** and **argument** **discipline**) on **OverClocked ReMix** — partly to see **what the venue would do** with a **CIA.gov-first** framing that **avoided** importing unrelated **conspiracy stacks**. **Ban-worthy?** On the author’s read, **no**: **primary** **government** **PDF** **+** **a** **commercial** **game** **+** **explicit** **“pattern** **not** **proof”** **limits** **is** **not** **the** **same** **object** **as** **hate,** **dox,** **or** **spam**. **Something** **they** **still** **do** **not** **want** **sitting** **on** **their** **community** **index?** **Yes** — **that** **is** **the** **hypothesis** **the** **removal** **supports**. A respondent using the display name **Master MI** introduced **Israel / Palestine** and **vaccine-injury** lanes **orthogonal** to the OP; the author **did not engage** those branches **by design** (anticipating **bait-and-bundle** dynamics).
+
+Within roughly **a week** of the author’s last check, the **entire thread** had been **removed**. **No** moderation message, **no** quoted rule text, and **no** **Wayback** / on-site permalink is in hand at this writing — **official stated reason unverified**. A **PM** **or** **notice** **with** **a** **citable** **rule** **would** **have** **been** **ordinary** **courtesy**; **silence** **plus** **whole-thread** **erase** **reads** **—** **author** **aside** **—** **as** **avoiding** **a** **written** **back-and-forth** **with** **someone** **they** **already** **know** **from** **years** **of** **OCR** **friction** (**cross-read** [**§8** **firsthand**](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) **in** **the** **same** **dossier**).
+
+**Author pattern read (hypothesis, not subpoena language):** volunteer forums often allow **intermediary actors** — **not** necessarily on payroll, **not** necessarily coordinated in a room — to **contaminate** a thread with **third-rail** topics so **staff** can later **delete the whole bundle** under **plausible cover** (“look what **someone** said about vaccines”) while **avoiding** **surgical** moderation (**single-post** removal, **warnings** to **named** disruptors, **OP** preservation). **Collective punishment** of the **opening post** plus **good-faith** readers is a **governance choice**; it sits in the same **family** as **twenty-plus years** of observed **OCR-adjacent** **moderation culture** (cross-read [**OC ReMix investigation §6.1**](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md)).
+
+The **deeper** grievance, in the author’s voice, is **not** “forums won’t host overlapping fringe topics.” It is **intent-revealing procedure**: when **challenge** to **in-group comfort** can be **routed** into **flame** **→** **whole-thread** **excision**, **without** a **petition** **→** **answer** **pipeline**, the **commons** is **performing** **power** **not** **justice** — the same **weakest-link** **classroom** reflex **Pink Floyd** catalogued for mass culture. **Next-generation** **networks** still have to **engineer** **redress** **visibility**; **subtle** **capture** **outlasts** **loud** **censorship** **headlines**.
+
+**Limits:** **Forum display name** only; **no** claim that **Master MI** **works for** **staff** **or** **any** **state** **actor**; **no** **archive** **URL** **because** **the** **thread** **is** **gone**.
+
+---
+
 ## Read next
 
 - [**Mars Exploration 1984 — RV investigation**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) — verdict, MFEE table, optics fork, *Chrono Trigger* PP (section 5.8), **RV / precrime / Animus cluster** (5.8.1), FOIA posture.  
@@ -134,4 +148,4 @@ The catastrophic failure mode is not that independent readers entertain strange 
 
 ---
 
-Keywords: #Mars #ChronoTrigger #CIAReadingRoom #RemoteViewing #PredictiveProgramming #STARGATE #ParadigmThreatFiles #TwoWayPerception #MFEE #FictionAndDeclass #MinorityReport #Precrime #AssassinsCreed #Animus #Fringe #PsychoPass #XMen #Cerebro #Magneto #ProfessorX #WarOfTheWorlds #JeffWayne
+Keywords: #Mars #ChronoTrigger #CIAReadingRoom #RemoteViewing #PredictiveProgramming #STARGATE #ParadigmThreatFiles #TwoWayPerception #MFEE #FictionAndDeclass #MinorityReport #Precrime #AssassinsCreed #Animus #Fringe #PsychoPass #XMen #Cerebro #Magneto #ProfessorX #WarOfTheWorlds #JeffWayne #OCReMix #ForumGovernance #CollectivePunishment

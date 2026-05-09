@@ -19,7 +19,9 @@ The source is treated as **firsthand** (participant/witness perspective), convey
 | **Long-lived niche forums hide backstage disorder** while preserving a tolerable **public face** | Compare **durability vs.** documented **[§5]** OCR/Wikipedia timeline rhythm (**forum-era accountability → incorporation/commercial lanes**) |
 | **Internet penetration rose**; criticism of beloved hubs became **more speakable** in later eras than in earlier forum norms | **Epistemic** note — falsify against dated threads (**Wayback**, archives), not vibes alone |
 | **Small moderator/admin circles** can **capture perceived sovereignty** over a volunteer commons | Parallel **[Homestuck §3](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md)** IP/canonical closure; **[SDA §3](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md)** forum→Discord migration of accountability geometry |
+| **Safety-risk visibility claim:** source reports repeated requests to remove highly personal posts due to feared hostile monitoring by an in-law; source says removals were declined | Governance question: when should moderators treat public posting as a **credible personal-safety** risk and intervene protectively? |
 | **Concern voiced before a tragic outcome**; afterward **exit/ban** and silence | **Not adjudicated here.** Requires primaries if ever pursued (**§4**) |
+| **Governance-transition grievance:** source describes dissatisfaction with later stewardship and says privacy posture tightened only after fatal harm | Cross-check against dated admin announcements / policy changes if archived |
 | **Contrast younger creator-led collectives** (**example cited:** modern creator-branded groups with messy **public** press arcs) vs older forums where dissent stayed quieter | Illustrative only unless sourced (**§6** hooks) |
 
 **Unpack:** These themes justify **questions** about **support norms**, **polarization after shocks**, and **money paths** — **not** automatic condemnation of named volunteers.
@@ -85,7 +87,7 @@ Public-facing forum taxonomy presents **The Shizz** as ** bulletin-board institu
 
 ## 4. Sensitive strand hygiene (**crime / death**) — **firsthand vs. independent proof**
 
-**Firsthand layer (identity protected):** The source describes (**themes §1**) **prior interpersonal escalation**, **calls for staff intervention**, a later **death** tied to **off-forum violence**, and **subsequent alienation from the board** (exit/ban dynamics — **not** re-litigated here).
+**Firsthand layer (identity protected):** The source describes (**themes §1**) **prior interpersonal escalation**, repeated **safety-warning messages to forum leadership**, a later **death** tied to **off-forum violence**, and **subsequent alienation from the board** (exit/ban dynamics — **not** re-litigated here). The source also alleges a hostile in-law monitored public posts and that reducing visibility earlier might have lowered risk; this is retained as **firsthand claim only**, not external finding.
 
 **Independent layer:** Indexed-web sweep pairing **[forum name]**, **[murder/death/member]** variants returned **no** obviously matching reputable court/report URLs **in preliminary passes**. **§2.4** records an expanded **controversy/drama** sweep outcome + **only** on-forum threads found. **Epistemic split:** this dossier **accepts** the firsthand tier **for thematic weight** while **withholding** identities and **avoiding** treating press silence as **disproof**.
 
@@ -127,6 +129,16 @@ These translate **§1 firsthand themes** into **audit prompts**:
 
 **Timeline:** The **only** dated public scaffold in this file is **§3** (**2003**, **2012** music credits); **no** timeline row connects those dates to the **§1**/**§4** bundle with a **citation**.
 
+**Causality argument (firsthand chain, not external adjudication):**
+
+1. **Public oversharing under real-world conflict pressure** (source says highly personal disclosures stayed visible despite warnings)  
+2. **Perceived hostile monitoring** by an antagonistic family actor (source claim)  
+3. **Risk escalation outside the forum** (source ties later fatal event to off-forum conflict)  
+4. **Post-event governance rupture** (source reports alienation/exit/ban dynamics)  
+5. **Memory split**: one lane frames events as unavoidable private tragedy; the other as preventable governance failure.
+
+This chain is included to show **how one situation can lead to another** in the source's argument structure; it is **not** a legal causation finding (**§4.3**).
+
 ### 6.3 Was **money made**? Could it have **recirculated**?
 
 **Anchor facts:** MusicBrainz credits tie **The Shizz** to **album-scale OC ReMix coordination** (**§2**). **Unknown without contracts:** whether **physical pressing**, **tips**, **donations**, or **side merch** produced pools **outside** transparent splits — parallel curiosity as **[OC ReMix §5](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md)** **(~artist revenue share)** discourse.
@@ -134,6 +146,15 @@ These translate **§1 firsthand themes** into **audit prompts**:
 ### 6.4 Did **for-profit actors leverage free contribution economies**?
 
 **Abstract pattern (documented elsewhere):** volunteer scenes generate **attention**, **skills**, and **reputation** convertible into **paid gigs**, **labels**, **streaming brands**. Whether **any named actor** “extracted” unfairly from **The Shizz specifically** is **unresolved** — avoid naming without primaries.
+
+**Industry-benefit argument when free-contribution communities go idle (pattern lane):**
+
+- **Talent arbitrage:** scenes do unpaid discovery/training; when the scene stalls, proven contributors are easier for employers/labels to recruit individually.
+- **Audience capture:** if forum commons activity decays, attention shifts to commercial platforms/channels that monetize distribution and recommendation.
+- **Catalog leverage:** community-created works and discourse remain reference material while new value capture happens in paid ecosystems (publishers, labels, sponsorship rails).
+- **Narrative reset:** once a commons is quieter/read-only, outside actors inherit less-contested authority to define history and market “official” successors.
+
+Cross-read anchors for this pattern language: **[OC ReMix §5](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md)** (commercial lane), **[SDA §3.1](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md)** (forum commons to private coordination geometry), **[Homestuck §3](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md)** (governance/canon recentralization).
 
 ---
 

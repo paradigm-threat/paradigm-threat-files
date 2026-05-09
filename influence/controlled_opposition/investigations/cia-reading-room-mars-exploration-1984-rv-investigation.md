@@ -6,7 +6,7 @@
 
 > **TL;DR:** Pop “debunk” packages (AIR closure narrative, late-night **nothing-to-see-here** glosses, **it was just deep-time protocol**) ask for **faith** that an agency with the CIA’s **record** would leave this transcript in the Reading Room **without** pull, **quarantine**, or **file-specific intent** documentation. **None of that has been produced.** We **lack** an **A-tier** FOIA **case + decision memo** naming **who** ordered **`CIA-RDP96-00788R001900760001-9`** public and **why** (**§5.7**); **that absence is suspicious**; pending a **positive** paper trail, release is modeled as **Revelation of the Method** (see **Conclusion** §4, [Mud flood — RoM](/history/mudflood/page.md)). This file **treats** [**MARS EXPLORATION, May 22, 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) as **evidence of a current Martian civilization alive in 1984**; **~1 Ma** on the card = **misdirection**; **remote viewing** (**RV**) = **real-time imagery** + **real-time memory** (non-linear vs naive clocks). **Iran / revival / Super Cockpit “two-way”** rhymes live in the **sibling investigation:** [CIA Reading Room — RV two-way, Iran / religious revival](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md). On this **Mars** anchor, **SUB** reports the **viewed party** may treat **SUB** as a **hallucination** (**§5.3**) — **target-side stance** language compatible with **two-way** epistemics.
 
-**Date:** 2026-04-28 — split from Iran/two-way file (2026-04-26).  
+**Date:** 2026-04-28 — split from Iran/two-way file (2026-04-26). **2026-05-08** — §5.8.2 **OC ReMix** commons note (author firsthand; thread removed).  
 **Status:** Closed — **author conclusion** on **`CIA-RDP96-00788R001900760001-9`**.
 
 **Abbreviation:** Here **RV** = **remote viewing** (STARGATE-era intelligence protocol on this worksheet), **not** dinar-scene **revaluation** (“RV” in promoter chat — [separate investigation](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md)).
@@ -267,6 +267,10 @@ So the commercial fiction landed **roughly a decade after** the RV session and *
 
 **Limits:** Wikipedia and fan wikis are **not** primary game ROM text; for **dialogue exactness** (Enertron line), verify against a **licensed** cartridge / Square Enix build. No **documented** chain ties Square **1993–1995** development to **STARGATE** tasking — the claim here is **pattern**, not **FOIA receipt**.
 
+#### 5.8.2 Public commons stress test — OC ReMix thread removal (**2026**, author)
+
+The readable [**Mars × *Chrono Trigger* article**](../cia-1984-mars-chrono-trigger.md) now records an **author firsthand**: the **OP** **was** **that** **article** (**adapted** **for** **the** **board**); **author** **read:** **not** **ban-tier** **material**, **still** **unwelcome** **enough** **to** **disappear** **without** **notice** — **plausibly** **consistent** **with** **avoiding** **a** **written** **moderation** **dispute** **with** **the** **same** **poster** **(**long** **prior** **site** **friction** **—** **OCR** **dossier** **§8** **firsthand**). The thread **centered** the **A-tier** [**PDF**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) and **game** **parallels** and was **later removed wholesale** after **off-topic** replies (**Israel**/**Palestine**, **vaccine** injury talk) that the **OP** **declined** **to** **feed**. **Epistemic posture:** this **does not** upgrade **§5.8** from **hypothesis** to **provenance** — it **documents** **who gets to keep a public square** when **institutional** **documents** **meet** **scene** **politics**. Pattern file: [**OC ReMix investigation §6.1**](ocremix-polarization-privatization-controlled-opposition-investigation.md).
+
 ---
 
 ## 6. Open questions (investigation backlog)
@@ -296,7 +300,7 @@ So the commercial fiction landed **roughly a decade after** the RV session and *
 
 ---
 
-Keywords: #CIAReadingRoom #Mars #RemoteViewing #Stargate #MarsRV #MARSExploration1984 #LifeOnMars #TechnologyOnMars #FOIA #CREST #AIREvaluation #Disclosure #CurrentMartianCivilization1984 #DeepTimeMisdirection #RVMemoryChannel #TwoWayRV #TargetSidePerception #ArchiveAudit #RevelationOfTheMethod #DeclassChain #MFEE #MudFloodEnergeticEvent #MarsCatastrophe #PostMFEEcology #May221984 #ParadigmThreatFiles #PredictiveProgramming #ChronoTrigger #ChronoTrigger2300AD #Enertron #Lavos #FictionBeforeDeclass #RedactedFact #SpaceVsTimeTravel #ScienceFictionRedaction #MinorityReport #Precrime #AssassinsCreed #Animus #PsychoPass #Fringe #XMen #Cerebro #Magneto #ProfessorX #WarOfTheWorlds #JeffWayne
+Keywords: #CIAReadingRoom #Mars #RemoteViewing #Stargate #MarsRV #MARSExploration1984 #LifeOnMars #TechnologyOnMars #FOIA #CREST #AIREvaluation #Disclosure #CurrentMartianCivilization1984 #DeepTimeMisdirection #RVMemoryChannel #TwoWayRV #TargetSidePerception #ArchiveAudit #RevelationOfTheMethod #DeclassChain #MFEE #MudFloodEnergeticEvent #MarsCatastrophe #PostMFEEcology #May221984 #ParadigmThreatFiles #PredictiveProgramming #ChronoTrigger #ChronoTrigger2300AD #Enertron #Lavos #FictionBeforeDeclass #RedactedFact #SpaceVsTimeTravel #ScienceFictionRedaction #MinorityReport #Precrime #AssassinsCreed #Animus #PsychoPass #Fringe #XMen #Cerebro #Magneto #ProfessorX #WarOfTheWorlds #JeffWayne #OCReMix #ForumCommons
 
 ---
 

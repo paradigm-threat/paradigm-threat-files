@@ -1,8 +1,83 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-09T00:28:10.984Z",
+    "date": "2026-05-09T13:50:09.108Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
+        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/success-by-any-means-necessary.md",
+        "href": "/influence/controlled_opposition/success-by-any-means-necessary"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/what-are-you-waiting-for.md",
+        "href": "/influence/controlled_opposition/what-are-you-waiting-for"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
+        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
+        "alt": "*Chrono Trigger* / Mars remote viewing — predictive-programming composite (author)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
+        "alt": "Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png",
+        "alt": "Mars Exploration 1984 — remote viewing investigation composite (same release, alternate layout)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
+        "alt": "Mars Exploration 1984 — PDF digest companion figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/success-by-any-means-necessary.png",
+        "alt": "Success — by any means necessary — paying audience, black-box pipeline, NDAs, and leader accountability"
+      },
+      {
+        "src": "/influence/controlled_opposition/success-by-any-means-necessary-info.png",
+        "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
+      },
+      {
+        "src": "/influence/controlled_opposition/what-are-you-waiting-for.png",
+        "alt": "What Are You Waiting For? — deferral, headlines, calm-by-waiting (article art)"
+      },
+      {
+        "src": "/influence/controlled_opposition/what-are-you-waiting-for2.png",
+        "alt": "What Are You Waiting For? — alternate article art"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-09T00:28:10.000Z",
+    "message": "PURSUE Release 01 reader article: What Am I Asking U FO?",
     "files": [
       {
         "status": "M",
@@ -199,11 +274,6 @@
     "date": "2026-05-07T15:38:03.000Z",
     "message": "feat(relay): add default client hook hooks/client/get.jsx",
     "files": [
-      {
-        "status": "M",
-        "path": ".relay.yaml",
-        "href": "/.relay.yaml"
-      },
       {
         "status": "A",
         "path": "hooks/client/get.jsx",
@@ -1071,28 +1141,6 @@
       {
         "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
         "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-03T13:42:52.000Z",
-    "message": "Success essay: gloss MSF as Doctors Without Borders at first mention",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/success-by-any-means-necessary.md",
-        "href": "/influence/controlled_opposition/success-by-any-means-necessary"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/success-by-any-means-necessary.png",
-        "alt": "Success — by any means necessary — paying audience, black-box pipeline, NDAs, and leader accountability"
-      },
-      {
-        "src": "/influence/controlled_opposition/success-by-any-means-necessary-info.png",
-        "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
       }
     ]
   }
