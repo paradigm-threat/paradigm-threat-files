@@ -1,6 +1,6 @@
 # Investigation: PURSUE Release 01 (May 8, 2026) — what the Trump-era UAP "declassification" actually is, and what it carefully isn't
 
-> **TL;DR:** On 8 May 2026 the **Department of War** (DOW, the renamed DoD) launched [war.gov/ufo](https://www.war.gov/ufo/) and posted **Release 01** of the **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** — **162 records, 161 CSV line items, ~3.6 GB**, framed as the first tranche in a rolling declassification ordered by Trump on 19 Feb 2026 ([Truth Social directive recap](https://www.war.gov/ufo/)). A full local mirror was built at `/media/ari/HD/uap/` (war.gov + AARO + ODNI/DoD reports + FBI Vault via Internet Archive + Black Vault CIA UFO collection + NARA RG 615 bulk zips), totaling **~440 GB / 1,634 PDFs / 28 MP4s** at time of writing. After full-text extraction (`pdftotext`) and theme keyword scans across that corpus, the substantive findings are: **(1)** PURSUE 01 is **almost entirely a republish** of FBI 62-HQ-83894, NASA Apollo material, State Department cables already *Released in Full* in **February 2026** (months before the announcement), and AARO unresolved-case MISREPs from 2022-2025 — **with fewer redactions and a CSV manifest** as the genuine novelty. **(2)** **Every PURSUE record is tagged "unresolved"**; no government conclusion of NHI, recovered tech, or ET visitation is asserted, consistent with [AARO Historical Record Vol. I (Mar 2024)](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf). **(3)** The single most underreported document in the corpus is AARO Vol. I's footnote describing **BAASS / Bigelow's 2010-era proposal to "hire supportive reporters and celebrity moderators"** to host "intellectual debates" that **assume "E.T. visitations are true"** and steer the public *toward* a disclosure narrative — a documented, government-found **influence-operation proposal** that fits the [Lacatski / AAWSAP insider-mechanics dossier](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md) and the [Great Awakening / alien-savior cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) grammar. **(4)** Critic consensus (TWZ, NYMag, Verge, Engadget, Defense News, Greenewald of *The Black Vault*) is **"transparency norm yes, revelation no — Batch 01 doesn't have the good stuff."** **(5)** Cross-reads with [CIA Reading Room Mars 1984 RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md), the [STAR GATE / remote viewing](/science/telepathy/remote_viewing/aether-consciousness.md) thread, and the [What Are You Waiting For?](/influence/controlled_opposition/what-are-you-waiting-for.md) deferral essay show PURSUE fits the **deferral / waiting-room** disclosure pattern Paradigm Threat already documents — **rolling release, "wait a few weeks for the next tranche," redactions only "for sources/methods,"** all the same affective grammar as Q's "trust the plan" and the Great Awakening lightworker basin.
+> **TL;DR:** On 8 May 2026 the **Department of War** (DOW, the renamed DoD) launched [war.gov/ufo](https://www.war.gov/ufo/) and posted **Release 01** of the **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** — **162 records, 161 CSV line items, ~3.6 GB**, framed as the first tranche in a rolling declassification ordered by Trump on 19 Feb 2026 ([Truth Social directive recap](https://www.war.gov/ufo/)). A full local mirror was built at `/media/ari/HD/uap/` (war.gov + AARO + ODNI/DoD reports + FBI Vault via Internet Archive + Black Vault CIA UFO collection + NARA RG 615 bulk zips), totaling **~440 GB / 1,634 PDFs / 28 MP4s** at time of writing. After full-text extraction (`pdftotext`) and theme keyword scans across that corpus, the substantive findings are: **(1)** PURSUE 01 is **almost entirely a republish** of FBI 62-HQ-83894, NASA Apollo material, State Department cables already *Released in Full* in **February 2026** (months before the announcement), and AARO unresolved-case MISREPs from 2022-2025 — **with fewer redactions and a CSV manifest** as the genuine novelty. **(2)** **Every PURSUE record is tagged "unresolved"**; no government conclusion of NHI, recovered tech, or ET visitation is asserted, consistent with [AARO Historical Record Vol. I (Mar 2024)](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf). **(3)** A new two-century timeline (19th-century airship waves → Battle of Los Angeles → Arnold/Roswell → Blue Book/DC 1952 → Phoenix Lights/black triangles → Nimitz/Gimbal/GoFast → Grusch/AARO/PURSUE) shows the same contradiction recurring: massive public testimony, periodic military seriousness, and very little released hard proof. **(4)** The single most underreported document in the corpus is AARO Vol. I's footnote describing **BAASS / Bigelow's 2010-era proposal to "hire supportive reporters and celebrity moderators"** to host "intellectual debates" that **assume "E.T. visitations are true"** and steer the public *toward* a disclosure narrative — a documented, government-found **influence-operation proposal** that fits the [Lacatski / AAWSAP insider-mechanics dossier](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md) and the [Great Awakening / alien-savior cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) grammar. **(5)** The author frame now being tracked explicitly: this investigation treats public UFO history as potentially covering **two categories** — a speculative **Mars breakaway-civilization / opposition-window / atmospheric-transfer** category, and a more terrestrial **reverse-engineered or classified military triangle / anti-gravity** category. The file does **not** claim those models are proven; it records them as the interpretive hypothesis that makes the witness/proof contradiction impossible to dismiss as "everyone is crazy." **(6)** Critic consensus (TWZ, NYMag, Verge, Engadget, Defense News, Greenewald of *The Black Vault*) is **"transparency norm yes, revelation no — Batch 01 doesn't have the good stuff."** **(7)** Cross-reads with [CIA Reading Room Mars 1984 RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md), the [STAR GATE / remote viewing](/science/telepathy/remote_viewing/aether-consciousness.md) thread, and the [What Are You Waiting For?](/influence/controlled_opposition/what-are-you-waiting-for.md) deferral essay show PURSUE fits the **deferral / waiting-room** disclosure pattern Paradigm Threat already documents — **rolling release, "wait a few weeks for the next tranche," redactions only "for sources/methods,"** all the same affective grammar as Q's "trust the plan" and the Great Awakening lightworker basin.
 
 **Date:** 2026-05-08
 **Status:** Open — corpus build complete; NARA Tier-3 mega-zips (~1 TB) still downloading in parallel; PURSUE Release 02 expected within ~30 days per Rep. Anna Paulina Luna; final integrity check + INDEX rebuild pending.
@@ -18,11 +18,13 @@
 5. **§5** — Theme deep-dive (Mars, teleportation, remote viewing, "aether"/zero-point, mind influence, demonology/spiritual, non-human, transmedium, Skinwalker, weather-control).
 6. **§6** — The **single most underreported finding**: BAASS's proposed paid-celebrity-moderator PR campaign to assume ET reality.
 7. **§7** — Critic / analyst consensus on Release 01.
-8. **§8** — Cross-references to existing Paradigm Threat investigations (Lacatski, Great Awakening, Mars RV, deferral essay, indigenous control systems, 1979 religious revival).
-9. **§9** — Author's open claims / pattern registry.
-10. **§10** — Questions to clarify, verify, or debunk.
-11. **§11** — Weak points / TODOs.
-12. **§12** — Related investigations + external references.
+8. **§8** — Two-century public UFO/UAP timeline (19th century through PURSUE).
+9. **§9** — Author framing: two UFO categories, Arizona triangle eyewitness account, managed-disclosure hypothesis, and § 9.4 windowless-towers candidate-buildings list.
+10. **§10** — Cross-references to existing Paradigm Threat investigations (Lacatski, Great Awakening, Mars RV, deferral essay, indigenous control systems, 1979 religious revival).
+11. **§11** — Author's open claims / pattern registry.
+12. **§12** — Questions to clarify, verify, or debunk.
+13. **§13** — Weak points / TODOs.
+14. **§14** — Related investigations + external references.
 13. **Keywords** → **Limits** → **Investigator notes**.
 
 ---
@@ -118,7 +120,7 @@ The full corpus exceeds local SSD capacity (NARA Tier-3 zips alone target ~1 TB 
 
 * The **`war.gov/ufo` site itself**, with a structured CSV manifest enabling bulk analysis (which is how this archive was built).
 * Several FBI 62-HQ-83894 pages with **fewer redactions** than the FBI Vault versions.
-* **DOW's commitment** to a rolling release on a "few weeks" cadence (a **deferral structure** — see § 8).
+* **DOW's commitment** to a rolling release on a "few weeks" cadence (a **deferral structure** — see § 10).
 * **A short list of recent AARO unresolved cases** (mostly 2022-2025 mission reports) packaged for public review.
 * **Zero genuinely new evidence about the *nature* of UAP.**
 
@@ -258,7 +260,7 @@ Pair this with the **Robertson Panel (1953)** language about *"demystifying"* UF
 | 1953 | CIA / Robertson Panel | **Demystify** / suppress | Press cooperation, Disney & Cinerama outreach to "debunk" |
 | 2010-2012 | BAASS / Bigelow (DIA-contracted) | **Mystify** / amplify | Paid celebrity moderators "assuming E.T. is true" |
 
-Both are explicit influence-on-public-affairs proposals; both are documented in this corpus. **PURSUE Release 01 itself is a third turn of the same wheel** — a centralised, branded, rolling-release "transparency" surface that controls cadence, redaction, framing, and which whistleblower gets access. See § 8 for the deferral-pattern read.
+Both are explicit influence-on-public-affairs proposals; both are documented in this corpus. **PURSUE Release 01 itself is a third turn of the same wheel** — a centralised, branded, rolling-release "transparency" surface that controls cadence, redaction, framing, and which whistleblower gets access. See § 10 for the deferral-pattern read.
 
 ---
 
@@ -296,15 +298,196 @@ Both are explicit influence-on-public-affairs proposals; both are documented in 
 
 ---
 
-## 8. Cross-references to existing Paradigm Threat investigations
+## 8. Two-century public UFO/UAP timeline
+
+This section is deliberately **public-event history**, not proof of the author model in § 9. It lists high-profile sightings, waves, official investigations, press events, and debunked or partially-debunked cases because the social pattern matters even when the object-level case collapses. The running contradiction is the same one PURSUE re-exposes: **the witness record is too large to laugh away, but the released proof is too thin to close the question.**
+
+### 8.1 Before the modern saucer era (1800s-1939)
+
+| Date | Event | Why it matters | Common explanation / status |
+|---|---|---|---|
+| **1561 / 1566** | Nuremberg and Basel broadsheet sky battles | Not in the two-century window, but useful pre-modern control sample: public sky-event reports are older than aircraft and older than modern UFO language. | Usually read as sun dogs, halos, broadsheet exaggeration, or apocalyptic visual culture. |
+| **1803** | Utsuro-bune legend, Japan | Often cited in UFO lore as a "pre-saucer craft" landing narrative. | Folklore; outside U.S. government corpus. |
+| **1820s-1880s** | Scattered "mystery lights," meteors, and airship-like reports in newspapers | Pre-aviation press already had a category for strange aerial phenomena, but reports are fragmentary and often not technologically specific. | Meteors, aurora, hoaxes, newspaper filler, misidentified balloons. |
+| **1896-1897** | **Mystery airship wave** across California, the Midwest, Texas, and other U.S. states | The most important 19th-century American UFO precursor: witnesses reported structured, dirigible-like craft before practical aircraft, with lights, searchbeams, pilots, anchors, and occasional crash/landing stories. It creates the first mass-media pattern of "advanced aerial technology just beyond public capability." | Likely mixture of hoaxes, Venus/meteor misidentification, experimental-airship rumors, press contagion, and genuine unknowns. Important because the *shape* followed the public's technological imagination: **airships**, not saucers. |
+| **April 1897** | Aurora, Texas "airship crash" legend | Roswell-before-Roswell story: alleged crash, alleged pilot body, local cemetery lore. | Local legend / newspaper hoax; no accepted physical evidence. |
+| **1909** | British / New Zealand / Australian "scareships" | Pre-WWI aerial-invasion anxiety: nocturnal airships over Britain and colonies. | Spy panic, press contagion, misidentification. |
+| **1910s-1930s** | "Phantom airships," "ghost planes," and Scandinavian mystery aircraft reports | Shows the category evolving from dirigibles to airplanes as real aviation matured. | Often blamed on smugglers, military secrecy, weather, or panic. |
+| **1933-1937** | Scandinavian "ghost flyers" | High-profile reports of unidentified aircraft over Sweden, Norway, and Finland. | Soviet/German reconnaissance rumors, weather, aircraft misidentification; unresolved residue remains in folklore. |
+| **1938** | *War of the Worlds* radio panic | Not a UFO sighting; key public-reception event. It demonstrates how Mars invasion, radio authority, and emergency realism can trigger mass fear. | Media panic / disputed scale; cross-read with Mars disclosure grammar, not evidence. |
+
+**Pattern read:** The 19th-century material matters because it shows that the public-UFO form adapts to the public's available technology vocabulary. In the 1890s, people saw **airships**. In the 1940s-50s, they saw **saucers** and **cigar craft**. In the 1980s-90s, they saw **black triangles**. In the 2000s-20s, the official language shifts to **UAP**, **drones**, **spheres**, **transmedium**, and **sensor ambiguity**.
+
+### 8.2 War and saucers (1940-1949)
+
+| Date | Event | Why it matters | Common explanation / status |
+|---|---|---|---|
+| **Feb 24-25, 1942** | **Battle of Los Angeles** | After Pearl Harbor, anti-aircraft batteries fired more than 1,400 rounds into the night over Los Angeles after radar/visual alerts. It remains one of the most famous "something in the sky + military overreaction" cases. | Officially weather balloon / war nerves; still debated in UFO culture. Important as **military fire directed at an ambiguous aerial target**, before "flying saucer" language. |
+| **1944-1945** | **Foo fighters** | Allied pilots in European and Pacific theaters reported balls of light pacing aircraft. | Often explained as St. Elmo's fire, ball lightning, reflections, enemy tech rumors, or combat stress. Important because experienced pilots reported something real enough to enter intelligence channels. |
+| **1946** | **Ghost rockets** over Sweden and Scandinavia | Hundreds of reports of rocket-like objects; Swedish military and U.S. intelligence showed interest. | Soviet captured-V-weapon tests were suspected; many cases unresolved or poor data. Bridge between WWII tech anxiety and saucer era. |
+| **June 24, 1947** | **Kenneth Arnold sighting near Mount Rainier** | Usually marks the start of the modern UFO era. Arnold reported nine fast objects moving "like saucers skipping on water"; press turned that into **"flying saucers."** | Unresolved; possible misidentified aircraft, birds, mirage, or hoax depending on critic. Historically decisive because it named the public category. |
+| **June 1947** | Maury Island incident | Early saucer-crash / debris / Men in Black-style story; two Army intelligence officers died in a plane crash after investigating. | Generally treated as hoax; culturally important because it prefigures debris/retrieval lore. |
+| **July 1947** | **Roswell** | The 509th Bomb Group initially announced recovery of a "flying disc," then retracted to weather balloon. Later became the central crash-retrieval myth. | USAF 1994/1995 reports: **Project Mogul** balloon debris; "bodies" memories linked to **Project High Dive** dummies and time-compressed witness memory. The cultural event matters even if the official explanation is accepted. |
+| **1948** | **Project Sign** | First formal USAF UFO investigation, created after the 1947 wave. | AARO lists it as official predecessor to Blue Book. Lore says an internal "Estimate of the Situation" favored an extraterrestrial hypothesis and was rejected/destroyed; hard archival status contested. |
+| **24 Jul 1948** | **Marvin the Martian debuts** in Chuck Jones's *Haredevil Hare* (Warner Bros.) | Parallel cultural lane to the Robertson-Panel demystification line: cartoon Martians enter American childhood as comedy register, in the same year as Project Sign and one year after Roswell/Arnold. Marvin recurs through the 1950s. ([Marvin the Martian](https://en.wikipedia.org/wiki/Marvin_the_Martian); [*Haredevil Hare*](https://en.wikipedia.org/wiki/Haredevil_Hare)) | Animation; not evidence of anything off-Earth. Treated here as **managed-disclosure-adjacent cultural infrastructure**: the word *Martian* is pre-laughed-at before children meet it as a question. |
+| **Jan 1948** | Mantell incident | Kentucky Air National Guard pilot Thomas Mantell died while pursuing an unknown object. | Often explained as a Skyhook balloon + hypoxia; high public impact because a pilot died chasing a UFO. |
+| **July 1948** | Chiles-Whitted case | Airline pilots reported a cigar/rocket-like object near their DC-3. | Unresolved in early USAF files; meteor explanation debated. |
+| **Oct 1948** | Gorman dogfight | North Dakota pilot chased a light in a prolonged aerial encounter. | Later explained as lighted balloon / misperception; important for pilot-chase pattern. |
+| **1949** | Project Grudge / Project Twinkle | USAF posture hardens toward explanation/debunking; green fireball studies in New Mexico. | Official study infrastructure expands; "unknowns" remain, but policy trend moves toward demystification. |
+
+### 8.3 Blue Book, Washington, contactees, and public control (1950-1969)
+
+| Date | Event | Why it matters | Common explanation / status |
+|---|---|---|---|
+| **1950** | McMinnville photos | Famous Oregon farm photos; among the most iconic early saucer images. | Still debated; models/hubcaps vs genuine unknown. |
+| **1950** | Farmington, New Mexico mass sighting | Hundreds reportedly saw large numbers of aerial objects. | Press-heavy case; weak physical evidence. |
+| **1952** | **Washington, D.C. radar-visual sightings** | Objects tracked on radar over the capital on two July weekends; jets scrambled; massive press attention. | Temperature inversions and radar anomalous propagation in official account; witnesses and some controllers disagreed. Catalyzed the Robertson Panel. |
+| **1952** | **Project Blue Book** | The USAF's longest-running UFO study begins under Edward Ruppelt. | Closed 1969 after 12,618 cases, 701 unidentified (official count). |
+| **Jan 1953** | **Robertson Panel** | CIA-convened panel recommended reducing public interest and "demystifying" UFO reports to prevent panic and channel overload. | Direct public-influence precedent for § 6's BAASS mirror-image proposal. |
+| **1953** | ***Duck Dodgers in the 24½th Century*** (Chuck Jones, Warner Bros.) | Same year as the Robertson Panel: Daffy Duck plays an interplanetary captain claiming Planet X for Earth, with Marvin the Martian as antagonist. Doubles down on the Martian-as-comic-figure programming for the post-war generation. ([*Duck Dodgers in the 24½th Century*](https://en.wikipedia.org/wiki/Duck_Dodgers_in_the_24½th_Century)) | Animation; not evidence. Pattern read paired with the Robertson Panel: official line says *demystify in the press*, parallel cultural line installs *Martian = laughable* in childhood. |
+| **1954** | European UFO wave | Large public wave in France/Italy; humanoid and landing narratives grow. | Mixed hoax/misidentification/unknown. Shows the mythology going global. |
+| **1955-1956** | Kelly-Hopkinsville encounter | Kentucky family reported small beings attacking farmhouse. | Owls / panic explanation common; major humanoid case. |
+| **1957** | Levelland, Texas | Drivers reported a glowing object and vehicle electrical interference. | Ball lightning / electrical storm explanations; became classic "EM effects" case. |
+| **1957** | Sputnik and Cold War air-defense anxiety | Not a UFO case, but it changes the sky: satellites, rockets, reentry debris, and secret aircraft become normal explanation candidates. | Public sighting pool becomes harder to interpret. |
+| **1961** | Betty and Barney Hill abduction claim | First widely publicized American alien-abduction narrative; hypnosis and missing time enter mainstream UFO discourse. | Contested; psychological, cultural, and hypnosis-suggestion explanations common. |
+| **1964** | **Lonnie Zamora / Socorro** | Police officer reported landed egg-shaped craft and occupants; Project Blue Book considered it among stronger cases. | Unresolved officially; hoax explanations proposed but not universally accepted. |
+| **1965** | Kecksburg, Pennsylvania | Fireball/crash-retrieval story with alleged military removal. | Often explained as Soviet Kosmos 96 reentry or meteor; retrieval lore persists. |
+| **1966** | Westall, Australia | School mass sighting near Melbourne; major non-U.S. public case. | Unresolved / possible balloon or aircraft; high witness volume. |
+| **1966** | Dexter/Hillsdale, Michigan sightings | J. Allen Hynek's "swamp gas" explanation became a public-relations disaster. | Important because official debunking itself became evidence of institutional contempt in UFO culture. |
+| **1966-1968** | **Condon Committee** | University of Colorado study contracted by USAF. | Concluded further UFO study unlikely to add scientific knowledge; National Academy endorsed; led to Blue Book closure. |
+| **1967** | Malmstrom / nuclear missile shutdown reports | Air Force personnel later alleged UFOs near missile sites during ICBM shutdowns. | Official explanations dispute UFO causality; important for nuclear-site mythology and later congressional testimony. |
+| **1969** | **Project Blue Book closes** | Official USAF public UFO office ends. | The closure creates the modern vacuum: official "nothing to see" posture plus civilian-investigator persistence. |
+
+### 8.4 Post-Blue-Book civilian era, abductions, triangles, and nuclear lore (1970-1999)
+
+| Date | Event | Why it matters | Common explanation / status |
+|---|---|---|---|
+| **1973** | Pascagoula abduction | Charles Hickson and Calvin Parker claimed abduction in Mississippi; became national news. | Contested; hypnosis / witness credibility debated. |
+| **1973** | Coyne helicopter incident | Army Reserve helicopter crew in Ohio reported near-collision with unknown object. | Classic pilot/military encounter; no hard proof. |
+| **1975** | Travis Walton case | Logging-crew abduction story later popularized in *Fire in the Sky*. | Contested; polygraph/media incentives debated. |
+| **1976** | Tehran UFO incident | Iranian Air Force pilots reported object and weapons/electronics interference; U.S. DIA memo circulated. | One of strongest international military cases in UFO literature; explanations include Jupiter, aircraft, equipment failure. |
+| **1977** | Close Encounters of the Third Kind | Cultural event, not evidence; normalizes benevolent-contact grammar. | Soft-disclosure / predictive-programming cross-read only. |
+| **1978** | Valentich disappearance | Australian pilot reported strange aircraft before vanishing. | Possible disorientation/suicide/crash; UFO lore persists. |
+| **1979** | Halted official posture; civilian groups rise | CUFOS, MUFON, NICAP legacy, tabloids, and local investigators become primary public archive. | Evidence quality becomes uneven; government silence strengthens suspicion. |
+| **1980** | **Rendlesham Forest** | U.S. Air Force personnel near RAF Bentwaters/Woodbridge reported lights/landing traces. | Lighthouse, fireball, prank, and misperception explanations; remains a flagship military-witness case. |
+| **1980** | Cash-Landrum incident | Texas witnesses reported diamond-shaped craft, heat/radiation injuries, and helicopters. | Contested medical and evidence chain; important because it alleges injury + military escort. |
+| **1986** | Japan Airlines Flight 1628 | Captain Terauchi and crew reported huge objects near Alaska; FAA radar discussion followed. | Official skepticism; Jupiter/Mars/radar confusion explanations; major pilot case. |
+| **1987-1992** | Gulf Breeze photos | Mass-media photo case in Florida. | Widely treated as hoax / model photos; still historically important for 1980s UFO media. |
+| **1989-1990** | **Belgian UFO wave** | Large black-triangle wave; police/military witnesses; F-16 scramble; famous triangle photo later admitted hoax. | Some data unresolved; photo hoax damaged case. Important because it crystallizes the **black triangle** as post-saucer archetype. |
+| **1994** | Ariel School, Zimbabwe | Dozens of schoolchildren reported landed craft/beings; investigated by John Mack. | Contested; child testimony and researcher framing debated. |
+| **1994-1995** | USAF Roswell reports | Official re-investigation: Mogul balloon + anthropomorphic dummies. | Critical because government tries to close Roswell while public belief hardens. |
+| **Mar 13, 1997** | **Phoenix Lights / Arizona Lights** | Thousands across Arizona/Nevada reported V/triangle lights; later lights over Phoenix explained as flares; Gov. Fife Symington later said he saw something that "defied logic." | Official: A-10 aircraft formation + LUU-2/B flares over Barry M. Goldwater Range. Many witnesses separate the early moving V-shaped object from later stationary flare line. Directly relevant to the author's 2015 Arizona triangle sighting (§ 9). |
+| **Late 1990s** | Black-triangle / TR-3B folklore grows | The triangle form becomes attached to secret U.S. aerospace theories. | No public proof of a TR-3B anti-gravity craft; plausible classified aircraft/drones can explain some reports, not all. |
+
+### 8.5 Sensor era, leaked videos, congressional era (2000-2026)
+
+| Date | Event | Why it matters | Common explanation / status |
+|---|---|---|---|
+| **2004** | **USS Nimitz / Tic Tac** | Navy pilots and radar operators reported a white Tic Tac object off San Diego; later one of the central UAPTF/AARO cases. | Officially unresolved in public; skeptics debate sensor interpretation and balloon/aircraft possibilities. |
+| **2007-2012** | **AAWSAP / AATIP** | DIA money flows to BAASS / Bigelow; Skinwalker, DIRDs, RV/consciousness anomalies, and UAP study overlap. | AARO says program lacked merit/utility and found no empirical ET/recovered-tech evidence. Program mechanics matter more than outcome. |
+| **2013** | Aguadilla / Puerto Rico video | Homeland Security aircraft video became popular "transmedium" case in civilian circles. | Skeptics argue balloons / parallax / thermal effects; believers cite apparent water entry/splitting. |
+| **2014-2015** | Roosevelt / Gimbal / GoFast era | Navy pilots off the East Coast report recurring objects; "Gimbal" and "GoFast" later released. | AARO/skeptics debate rotation, parallax, wind, balloons, sensor artifacts. |
+| **2015** | **Author Arizona triangle sighting** | Author reports two direct sightings of a loud, vibrational military-style flying triangle over an Arizona neighborhood, "exactly the same phenomenon as the Arizona lights" but smaller and later. | First-person witness testimony; not used as proof in § 8, but central to § 9's refusal to dismiss all witnesses as crazy. |
+| **2017** | *New York Times* AATIP story + leaked videos | Brings modern UAP issue into prestige press; Luis Elizondo, TTSA, Gimbal/GoFast/Nimitz enter mainstream. | Launches congressional era; evidence remains mostly sensor video + testimony. |
+| **2019** | Navy confirms leaked videos are real Navy videos | Important distinction: "real videos" does not mean "alien craft"; it means authentic sensor recordings of unresolved events. | Public proof remains ambiguous. |
+| **2020** | DoD officially releases three Navy videos | Institutionalizes Nimitz/Gimbal/GoFast. | Same ambiguity: public sees objects; government does not assert ET. |
+| **2020-2021** | UAP Task Force / ODNI Preliminary Assessment | 144 reports; 18 with unusual movement characteristics; most unresolved due to limited data. | Official position: no ET evidence; data quality problem. |
+| **2022** | AARO established | New central office for UAP. | Moves issue from ad hoc task force into permanent bureaucracy. |
+| **2023** | NASA UAP Independent Study | Recommends scientific data standards and better reporting. | No evidence of ET; important for reframing as data problem. |
+| **2023** | David Grusch testimony | Former intelligence official alleges crash-retrieval / NHI reverse-engineering programs; huge public impact. | AARO has not verified claims publicly; Grusch testimony intensifies disclosure politics. |
+| **2023** | Chinese balloon / drone confusion era | The Lake Huron / Yukon / Alaska shootdowns blur spy balloons, drones, and UAP discourse. | Reinforces TWZ point: adversary ISR and UFO lore are now mixed together. |
+| **2024** | AARO Historical Record Vol. I | Official historical review concludes no empirical evidence of ET visitation, recovered tech, or NHI reverse engineering. | Central contradiction hardens: government acknowledges study history, denies the core claim. |
+| **2025** | AARO UAP Workshop | UAP becomes an AI/ML data-infrastructure and collection-standard problem. | Signals bureaucratic normalization; not revelation. |
+| **May 8, 2026** | **PURSUE Release 01** | DOW creates a public UFO portal and releases 162 unresolved records. | Procedural novelty, substantive thinness; this investigation's core object. |
+
+### 8.6 Timeline synthesis
+
+The public UFO story is not one smooth march toward disclosure. It is a sequence of **shape-shifting explanatory regimes**:
+
+1. **Airship era:** "someone has secret dirigible technology."
+2. **War era:** "enemy weapons, rockets, or lights are in the combat sky."
+3. **Saucer era:** "something beyond known aircraft is violating airspace."
+4. **Contactee / abduction era:** "the phenomenon has occupants and messages."
+5. **Blue Book closure era:** "official study says not worth further study, which makes believers more suspicious."
+6. **Triangle / black-project era:** "it is ours, secret, military, and being hidden."
+7. **Sensor era:** "we have videos and radar tracks, but not enough context."
+8. **AARO / PURSUE era:** "we will release records and still not answer the ontological question."
+
+That sequence is why the current corpus's emptiness is not psychologically neutral. If there were only a handful of eccentrics, "no proof" might close the matter. But after two centuries of public reports, seventy-plus years of official study, large mass sightings, pilot cases, nuclear-site cases, and modern sensor videos, **"no proof" becomes an institutional fact about disclosure — not a complete fact about the sky.**
+
+---
+
+## 9. Author framing — two UFO categories and the witness/proof contradiction
+
+This section captures the author's supplied model and sentiment. It is **not** the same as § 8's public-event timeline and does not claim documentary proof in the PURSUE corpus. It is the interpretive frame that explains why this investigation continues after AARO says "no empirical evidence."
+
+### 9.1 Two categories being investigated
+
+**Category A — original UFO / Mars breakaway-civilization hypothesis.** The author's working model is that the original UFO phenomenon may come from a **breakaway human civilization on Mars**, not from "ancient aliens" in the standard alien-savior frame. On this model:
+
+* Transit is limited by **Earth-Mars opposition windows**, when the planets' larger electromagnetic environments — described here as "atmospheres" in the Van Allen-belt / magnetosphere sense — overlap or come close enough to permit safer passage.
+* A second transfer mode may involve **teleportation or forced atmospheric coupling**: a high-altitude vehicle in Earth's atmosphere generates enough energy that the flow routes to the nearest compatible location, in this case Earth/Mars. The public analog to check is the Eric Davis AFRL *Teleportation Physics Study* (not in PURSUE; see § 5.2), but the author model is not limited to that paper.
+* Humans born on Mars may not be able to exist freely in Earth's heavier, denser, bacteria-rich atmosphere: pressure, pathogens, sunlight exposure, and other environmental incompatibilities would require quarantine or controlled locations.
+* The author specifically flags **windowless downtown buildings** as a speculative hiding/quarantine environment to investigate elsewhere, not a claim this UFO timeline can prove. See § 9.4 below for the candidate-buildings list and the explicit "cover stories may be partially true and still incomplete" framing the [reader article](/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md) summarizes.
+
+**Category B — reverse-engineered / classified military aerial phenomenon.** The second category is more terrestrial: craft or platforms allegedly built by U.S. or world militaries from recovered, reverse-engineered, or independently developed technology. On this model:
+
+* The motive for secrecy is ordinary military advantage: warfare, espionage, airspace penetration, sensor defeat, and deterrence.
+* Suppression is therefore not only "hide aliens"; it is "hide capabilities from adversaries and citizens."
+* The public black-triangle tradition — Belgian wave, Phoenix Lights, late-1990s TR-3B folklore, and recurring American triangle reports — sits closest to this category, even though no released government document in this corpus proves a working anti-gravity / zero-point / aether-propulsion triangle.
+
+### 9.2 Author eyewitness statement (Arizona, 2015)
+
+The author reports two direct sightings in **Arizona in 2015** of a **military-style flying triangle**, loud and deeply vibrational, over a residential neighborhood. The author describes it as **the same phenomenon as the Arizona / Phoenix Lights**, but on a later date and on a smaller scale. This file treats that account as **first-person witness testimony**: not a substitute for instrumented proof, but not dismissible as "nothing" without doing the same violence to thousands of other witnesses.
+
+The author sentiment to preserve:
+
+> There is a contradiction: massive sighting testimony and zero released proof of what was seen. There is no released government document in this corpus describing a working or recovered anti-gravity / zero-point / aether-propulsion device. That makes 100% of witnesses, including me, seem crazy — and that is simply not a conclusion anyone should ever reach.
+
+That is the moral center of this file. The job is not to convert testimony into proof by force. The job is to keep the contradiction open long enough to investigate the political machinery that benefits from it.
+
+### 9.3 Managed disclosure / controlled opposition hypothesis
+
+The author's strategic read:
+
+* The last 70+ years of UFO disclosure may function as **controlled opposition** and **managed disclosure**.
+* The purpose is not necessarily to make everyone disbelieve. It may be to **prevent stable conclusions**, prevent political will, divide the population into believers/debunkers, and keep the witness record socially radioactive.
+* The eventual goal may be generational preparation for a reveal in which "Martians" are introduced **not** as a breakaway human civilization, but as **ancient aliens** with universal authority and ancient plans already at work.
+* On this model, the endgame is not concealment forever. It is **divide, conquer, exhaust, then reveal under the wrong ontology**.
+
+The file's limited task remains narrower: **public UFO/UAP events, the released corpus, and the contradiction between witness volume and proof scarcity.** The Mars civilization / atmospheric-transfer / quarantine model is kept here as context and cross-investigation signal, not investigated to conclusion in this dossier.
+
+### 9.4 Windowless downtown towers — candidate-buildings list
+
+This subsection captures the speculative architecture lane the author flagged in § 9.1, separately from the released-corpus analysis above. **None of the buildings below are alleged to house Martian visitors.** They are listed because each one already has a *partially-revised* cover story or an unusually opaque public file, which is the right epistemic posture to extend to the rest of the windowless-tower stock in major American downtowns.
+
+![33 Thomas Street / AT&T Long Lines Building / Titanpointe — the canonical example of a windowless downtown tower whose cover story turned out to be only part of the story](/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg)
+
+*Photo: 33 Thomas Street by Billie Grace Ward, 2017, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:33_Thomas_Street_(37125221130).jpg). Same image used in the [reader article](/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md).*
+
+| Building | Location | Public explanation | What complicates the public explanation |
+|---|---|---|---|
+| **33 Thomas Street** (AT&T Long Lines Building) | Lower Manhattan, NYC | 1974 Brutalist long-distance telephone-switching center designed by John Carl Warnecke; later one of the most secure data centers in NY | 2016 Snowden-document reporting in *The Intercept* identified it as **TITANPOINTE**, an NSA surveillance hub for monitoring international calls and internet traffic. The cover story was real *and* incomplete. ([*The Intercept* — "Titanpointe"](https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/); [Wikipedia — 33 Thomas Street](https://en.wikipedia.org/wiki/33_Thomas_Street)) |
+| **375 Pearl Street** | Lower Manhattan, NYC | Verizon-era telecom tower built nearly windowless in the 1970s; partial window cladding added during 2010s data-center retrofit | Repeatedly described as one of NYC's most opaque buildings; minimal public information about interior occupancy. |
+| **AT&T Long Lines Buildings** (Kansas City, St. Louis, Cleveland, Chicago, Atlanta, others) | Major U.S. downtowns | Hardened mid-century long-distance switching infrastructure | Same typology as 33 Thomas Street; same opportunity for under-disclosed reuse. The 33 Thomas precedent applies to the broader stock by analogy, not by proof. |
+| **AT&T Long Lines underground bunker network** | Continental U.S. | Cold War nuclear-survivable communications network ([AT&T Long Lines](https://en.wikipedia.org/wiki/AT%26T_Long_Lines)) | Sites and missions are partially declassified; full inventory is not in public hands. |
+| **Continuity-of-Government (COG) sites** | Multiple U.S. locations | Mt. Weather, Raven Rock, Cheyenne Mountain, plus presumed unlisted sites | Sealed, hardened, climate-controlled, with publicly-restricted access — the same architectural family as the towers above, with classified mission scope. |
+
+**Mainstream candidate explanations to keep on the table** before invoking anything more exotic: telecom switch climate stability, vibration isolation, minimum-envelope-penetration data-center design, Cold War nuclear hardening, NSA / domestic-intelligence reuse, financial-trading low-latency colocation, and archival storage. **Falsifier for the speculative-quarantine extension:** building-by-building floor plans, energy footprints, mechanical loads, staffing patterns, and after-hours occupancy that match the documented uses without residual capacity. Nothing in PURSUE Release 01 speaks to this lane; the reader-facing article uses it as one open-question example, not as a load-bearing claim about UAP origins.
+
+---
+
+## 10. Cross-references to existing Paradigm Threat investigations
 
 PURSUE Release 01 is **not** a standalone artifact — it sits inside the same disclosure-basin grammar Paradigm Threat already documents. The cross-reads:
 
 | Paradigm Threat investigation | Connection to PURSUE / this corpus |
 |---|---|
+| [PURSUE Release 01 — reader article (*"What Am I Asking U FO?"*)](/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md) | **Companion piece.** Same author, same release, reader-facing prose: triangle-over-the-house hook, witness-problem argument, compressed two-century timeline, two-category model (Mars breakaway vs reverse-engineered military), Marvin/Duck Dodgers managed-disclosure read, 33 Thomas Street / Titanpointe windowless-towers section, BAASS PR-campaign footnote as the lead corpus finding, managed-disclosure endgame thesis. The article points; this dossier prosecutes. |
 | [Lacatski / AAWSAP — insider program mechanics](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md) | **Direct overlap.** That dossier already documents AAWSAP / KONA BLUE / Bigelow / Knapp / Kelleher and the "tech after enlightenment" rhyme; this investigation provides the **AARO Vol. I primary text** corroborating the program's scope (Skinwalker + RV + inter-dimensional phenomena), the **KONA BLUE primary PDF** in the corpus, and the **§ 6 BAASS PR-campaign footnote** as documented influence-operation evidence. The Lacatski dossier's "real alien is unelected bureaucracy" thesis squares with PURSUE deferring everything novel to "future tranches." |
 | [Great Awakening / alien-savior / RV cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) | **Same affective grammar.** Wilcock-style "disclosure imminent," "trust the plan," "wait a few weeks" all map onto PURSUE's rolling-release cadence. § 6 here documents a contracted firm proposing to **assume the disclosure conclusion** before evidence — the Great Awakening basin's exact rhetorical move, but with a paper trail. |
 | [CIA Reading Room — Mars 1984 RV investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) | **Adjacent, not overlapping.** PURSUE has no Mars-on-the-ground anomaly content; the Mars-RV thread runs on the May 22 1984 STARGATE transcript on `cia.gov`, not on PURSUE. But § 5.3 here confirms PURSUE's only RV references are in **AARO Vol. I's AAWSAP description** + **Black Vault STAR GATE collateral**, which sets the on-record floor for what RV programs the U.S. will admit to in 2026. |
+| [Mars reincarnation / Boriska investigation](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | **Author-model overlap.** Boriska's Mars-collapse / underground-survivor / triangular- or tear-shaped craft claims are not evidence for PURSUE, but they sit in the same Mars-human continuity basin as § 9's breakaway-civilization category. |
 | [Mars × *Chrono Trigger* article](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) | **Pattern-only.** PURSUE doesn't touch the predictive-programming thesis, but the same epistemic stance (*"some unexplained, no extraterrestrial conclusion, treat fiction as data not proof"*) applies. |
 | [What Are You Waiting For?](/influence/controlled_opposition/what-are-you-waiting-for.md) | **Direct.** Deferral-as-calm-technology essay; PURSUE *is* deferral. *"Wait for Release 02. Wait for AARO Vol. II (target Aug 2026). Wait for the Disclosure Act. Wait for Luna's subpoenaed videos."* The release schedule itself does the work the essay names. |
 | [Indigenous control systems — witchcraft / vodou / skinwalkers](/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md) | **Frame for § 5.6 and § 5.9.** Navajo "skinwalker" protocols predate AAWSAP by centuries; the AARO Vol. I documentation matters mostly because it shows the **federal government** funded an exploration of phenomena indigenous communities have a longer ethnographic record on. |
@@ -318,7 +501,7 @@ PURSUE Release 01 is **not** a standalone artifact — it sits inside the same d
 
 ---
 
-## 9. Author's open claims (pattern registry)
+## 11. Author's open claims (pattern registry)
 
 Per [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md) **§7-9**, claims that are **not** yet evidenced by third-party sources but belong in the registry:
 
@@ -327,10 +510,14 @@ Per [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRU
 3. **The "Apollo 17 anomaly" overlay is theatre.** A field-photo with a hand-drawn ellipse around three dots is published as the most-shared image, captioned *"highlighted areas of interest do not constitute an analytical judgment."* That packaging is **performative disclosure**: visually striking, analytically empty. **Falsifier:** independent photogrammetric analysis showing structure inconsistent with optical artifact / dust / film grain.
 4. **The redaction-pattern shift (DOW *can* and *does* now release with selective redactions) destroys the prior DoD posture** that UAP videos *couldn't* be released because sensor capabilities couldn't be partially redacted. **Falsifier:** none expected; this one is documentary.
 5. **Bigelow → Lacatski → KONA BLUE → modern-influencer pipeline** is one continuous money-and-narrative arc. **Falsifier:** prosopographic analysis showing the principals don't actually overlap; the [Lacatski dossier](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md) already establishes substantial overlap.
+6. **The two-century public timeline is a managed-ambiguity record, not merely an error record.** If each famous case is isolated, debunking can appear sufficient; in aggregate, the sequence looks like a social machine that repeatedly produces witness seriousness without public closure. **Falsifier:** a systematic timeline study showing that high-profile cases cluster only around identifiable media contagion and known aircraft/astronomical triggers, with no institutional selection effect.
+7. **Two broad UFO categories should remain separate in analysis:** (A) the speculative Mars-breakaway / opposition-transfer / quarantine model and (B) classified or reverse-engineered military platforms. Collapsing them into "aliens" benefits managed disclosure. **Falsifier:** instrumented data showing the same performance envelope, material chain, and operator signatures across both categories.
+8. **The author's 2015 Arizona triangle sighting belongs in the black-triangle / Phoenix-Lights lineage.** This is not proof of anti-gravity, but it is evidence that the author has a direct witness stake in the contradiction this file names. **Falsifier:** contemporaneous aircraft / exercise / drone / flare records matching the time, route, sound, and vibration profile.
+9. **The possible endgame is not disbelief but wrong-ontology belief.** Managed disclosure may prepare a future reveal where a breakaway human / Martian continuity is reframed as ancient alien authority. **Falsifier:** future releases that clearly identify human, terrestrial, accountable institutions behind the technology and do not route the reveal through savior/ancient-authority language.
 
 ---
 
-## 10. Questions to clarify, verify, or debunk
+## 12. Questions to clarify, verify, or debunk
 
 | # | Question | How to falsify / verify |
 |---|---|---|
@@ -344,10 +531,16 @@ Per [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRU
 | 8 | Did **Sen. Reid / Sen. Rounds / Sen. Schumer's** UAP Disclosure Act (FY24 NDAA) pass with the Records-Review-Board mechanism intact? | Check final NDAA text; the records-review-board model directly follows the JFK Records Act. |
 | 9 | Are the **DVIDS metadata** for the 28 PURSUE videos consistent with the press-summary captions? | Already partially captured in `war.gov/dvids-videos/<id>.meta.txt`; needs systematic comparison. |
 | 10 | Is there a publicly-available list of **all named "supportive reporters and celebrity moderators"** approached by BAASS? | Currently no; would falsify or confirm Claim #2. |
+| 11 | Can the **1896-1897 airship wave** be mapped against Mars opposition windows or only against newspaper contagion / tech-imagination cycles? | Build a date/location table and compare to astronomical opposition dates plus newspaper syndication patterns. |
+| 12 | Can the **Phoenix Lights early moving V** be cleanly separated from the later flare line using witness time/location clusters? | Rebuild the case chronologically from NUFORC, local press, Symington statements, A-10 flight logs, and flare-drop timing. |
+| 13 | Can the author's **2015 Arizona triangle** sighting be matched to public flight tracks, military exercises, flares, drones, or known aircraft? | Needs exact date/time/location from author; then FAA/ADS-B archives, local base exercise schedules, and weather. |
+| 14 | Do black-triangle reports cluster near known military corridors and test ranges? | GIS map Belgian wave, Phoenix, Arizona, Nevada, California, Missouri/Illinois, and UK cases against bases/ranges. |
+| 15 | Is there any released document linking **opposition windows / Mars transfer** to aerospace, remote viewing, or teleportation research? | Search STARGATE, AFRL teleportation study, AAWSAP DIRDs, NARA RG 615, and CIA reading room for opposition / Mars / transfer language. |
+| 16 | Are windowless downtown buildings plausibly tied to quarantine / protected habitation, or are they explainable as telecom, data-center, archive, mechanical, or security architecture? | Separate architecture survey; do not load into UFO timeline until building-level evidence exists. |
 
 ---
 
-## 11. Weak points / TODOs
+## 13. Weak points / TODOs
 
 - [ ] NARA Tier-3 mega-zips (`542184.zip`, `566658.zip`, `542326.zip`, `45484701.zip`, `597821-images-1.zip`, `597821-images-2.zip`) still streaming; final integrity check pending.
 - [ ] OCR pass on Black Vault CIA CD-ROM JPGs (some are scanned images, not PDFs with text layers).
@@ -356,13 +549,17 @@ Per [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRU
 - [ ] Add the **STAR GATE archive** (12,000+ pages from CIA reading room collection `STARGATE`) as a separate tree; it is **not** in PURSUE and the corpus is incomplete without it.
 - [ ] Capture the COMETA Report (1999) at higher fidelity; PURSUE includes it as `255_413270_UFO's_and_Defense_What_Should_we_Prepare_For.pdf`, but the original VSD-magazine French text adds editorial framing.
 - [ ] Watch for Release 02 (~30 days from 8 May 2026 per Luna); update § 3 provenance table.
+- [ ] Build a rigorous event database for § 8: `date`, `location`, `shape`, `witness class`, `military involvement`, `official explanation`, `debunk status`, `repo cross-link`.
+- [ ] Add exact source links for every § 8 row (AARO historical report, CUFOS timeline, Condon Report, NARA, NUFORC, Britannica, primary press where available).
+- [ ] Ask author for exact 2015 Arizona sighting metadata (date/time, neighborhood or nearest cross streets, direction of travel, duration, weather, nearby bases/ranges) before trying to match records.
 
 ---
 
-## 12. Related investigations and references
+## 14. Related investigations and references
 
-### 12.1 Paradigm Threat (repo) — primary cross-reads (mirrors § 8)
+### 14.1 Paradigm Threat (repo) — primary cross-reads (mirrors § 10)
 
+- `/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md` — reader article (companion piece).
 - `/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md`
 - `/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md`
 - `/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md`
@@ -374,11 +571,12 @@ Per [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRU
 - `/influence/religion/1979-religious-revival-investigation.md`
 - `/governance/war/investigations/cia-investigation.md`
 - `/cosmos/mars/page.md`
+- `/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md`
 - `/science/telepathy/remote_viewing/aether-consciousness.md`
 - `/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`
 - `/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md`
 
-### 12.2 Primary government sources (canonical URLs)
+### 14.2 Primary government sources (canonical URLs)
 
 - DOW PURSUE — https://www.war.gov/ufo/
 - PURSUE CSV manifest — https://www.war.gov/Portals/1/Interactive/2026/UFO/uap-csv.csv
@@ -398,8 +596,13 @@ Per [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRU
 - CIA — Gerald K. Haines, *"CIA's Role in the Study of UFOs, 1947-90"* — https://www.cia.gov/static/CIAs-Role-in-Study-of-UFOs.pdf
 - Eric Davis — *Teleportation Physics Study* (AFRL, 2004) — https://apps.dtic.mil/sti/citations/ADA416108
 - U.S. House Oversight — George Knapp written testimony PDF — https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf
+- Center for UFO Studies — UFO timeline — https://cufos.org/resources/ufo-timeline/
+- Condon Report, Sec V, Chapter 2: UFOs 1947-1968 — http://files.ncas.org/condon/text/s5chap02.htm
+- Britannica — Unidentified flying object (UFO), history and facts — https://www.britannica.com/topic/unidentified-flying-object/Introduction
+- NUFORC — Phoenix Lights reference page — https://nuforc.org/phoenix/
+- Phoenix Lights overview / official explanation summary — https://en.wikipedia.org/wiki/Phoenix_Lights
 
-### 12.3 Press / analyst commentary (May 8 2026)
+### 14.3 Press / analyst commentary (May 8 2026)
 
 - The War Zone — *"DoD Drops First Of Its Promised UFO Files"* (TWZ, 2026-05-08).
 - New York Magazine — *"What's in Trump's First Big UFO Document Drop? Less Than You'd Hope."* (Intelligencer, 2026-05-08).
@@ -415,20 +618,24 @@ Per [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](/docs/PARADIGM_INVESTIGATION_INSTRU
 
 ---
 
-Keywords: #UAP #UFO #PURSUE #DepartmentOfWar #AARO #AAWSAP #AATIP #Lacatski #Bigelow #KonaBlue #Skinwalker #RemoteViewing #Stargate #Mars #Apollo #FbiVault #BlackVault #Nara #ProjectBlueBook #Roswell #ProjectMogul #Cometa #DisclosureAct #ControlledOpposition #InfluenceOps #Disclosure #ParadigmThreatFiles #CelebrityModerators #BaassPrCampaign #RobertsonPanel #JfkRecordsAct #TulsiGabbard #PeteHegseth #KashPatel #JaredIsaacman #AnnaPaulinaLuna #JohnGreenewald #InternetArchive #Aether #ZeroPoint #NonHumanIntelligence #Transmedium
+Keywords: #UAP #UFO #PURSUE #DepartmentOfWar #AARO #AAWSAP #AATIP #Lacatski #Bigelow #KonaBlue #Skinwalker #RemoteViewing #Stargate #Mars #Apollo #FbiVault #BlackVault #Nara #ProjectBlueBook #Roswell #ProjectMogul #Cometa #DisclosureAct #ControlledOpposition #InfluenceOps #Disclosure #ParadigmThreatFiles #CelebrityModerators #BaassPrCampaign #RobertsonPanel #JfkRecordsAct #TulsiGabbard #PeteHegseth #KashPatel #JaredIsaacman #AnnaPaulinaLuna #JohnGreenewald #InternetArchive #Aether #ZeroPoint #NonHumanIntelligence #Transmedium #AirshipWave #BattleOfLosAngeles #FooFighters #KennethArnold #PhoenixLights #BlackTriangles #Nimitz #TicTac #Gimbal #GoFast #DavidGrusch #BreakawayCivilization #ManagedDisclosure #MarsOpposition #Marvin #DuckDodgers #Titanpointe #ThirtyThreeThomasStreet #WindowlessTowers
 
-**Last substantive update:** 2026-05-08 — initial publication. Corpus build complete to ~440 GB / 1,634 PDFs / 28 MP4s. NARA Tier-3 mega-zips streaming in parallel; will refresh § 1.3 counts once those finish. § 6 (BAASS PR-campaign footnote) is the lead finding.
+**Last substantive update:** 2026-05-08 — added § 8 two-century public UFO/UAP timeline (now including 1948 *Haredevil Hare* / Marvin the Martian and 1953 *Duck Dodgers in the 24½th Century* as parallel managed-disclosure cultural lane), § 9 author framing (two-category model: Mars breakaway / opposition-transfer and reverse-engineered military triangles; 2015 Arizona eyewitness context; managed-disclosure endgame hypothesis), and § 9.4 windowless-towers candidate-buildings list (33 Thomas Street / Titanpointe, 375 Pearl Street, AT&T Long Lines stock, COG sites). Companion [reader article](/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md) shipped same day. Corpus build complete to ~440 GB / 1,634 PDFs / 28 MP4s. NARA Tier-3 mega-zips streaming in parallel; will refresh § 1.3 counts once those finish. § 6 (BAASS PR-campaign footnote) remains the lead corpus finding.
 
 ---
 
 ## Limits and disclaimers
 
 - **Fiction vs evidence:** PURSUE 01's "areas of interest" overlays and composite "ellipsoid bronze metallic object" are explicitly captioned as *not* analytical judgments. They are presentation artifacts; do not treat them as photographic evidence.
-- **Author thesis sections (§ 6 lead, § 9 registry):** The reading that PURSUE is a *managed deferral instrument* and that the BAASS PR-campaign footnote is a "Rosetta stone" for present-day disclosure-influencer rhetoric is **first-class** to this investigation's purpose, but is **not automatically factual**. The primary documents are; the synthesis is interpretation.
+- **Author thesis sections (§ 6 lead, § 9 frame, § 11 registry):** The reading that PURSUE is a *managed deferral instrument* and that the BAASS PR-campaign footnote is a "Rosetta stone" for present-day disclosure-influencer rhetoric is **first-class** to this investigation's purpose, but is **not automatically factual**. The primary documents are; the synthesis is interpretation.
+- **Two-category model (§ 9):** Mars breakaway civilization, opposition-window travel, Van Allen / magnetosphere coupling, quarantine buildings, and reverse-engineered military triangles are **author hypotheses** and **witness-context frames**, not findings proven by PURSUE, AARO, or NARA. They are preserved because they define what this investigation is testing.
+- **Windowless towers (§ 9.4):** The candidate-buildings list is a *speculative architecture* lane. The 33 Thomas Street / Titanpointe NSA reuse is well-documented; everything beyond it (other AT&T Long Lines sites, 375 Pearl Street, COG sites) is treated as analogy and as an open epistemic question, not as evidence that any building houses Mars-adapted visitors. Mainstream telecom / data-center / hardening / surveillance explanations stay first-class candidates.
+- **Marvin the Martian / *Duck Dodgers* timeline rows:** Animation history, not evidence of off-Earth life. They are tracked because the *Martian-as-comic-figure* register is a real cultural artifact that runs in parallel with the 1953 Robertson Panel demystification line. Causation is not claimed; co-occurrence is.
+- **Eyewitness testimony:** The author's 2015 Arizona triangle sighting is treated as a serious first-person account, not as instrumented proof. The file rejects "all witnesses are crazy" as an ethical/intellectual conclusion, but it also does not convert testimony into physics.
 - **Cross-investigations:** Links to [Lacatski / AAWSAP](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md), [Great Awakening](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md), [Mars 1984 RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md), and [What Are You Waiting For?](/influence/controlled_opposition/what-are-you-waiting-for.md) are **thematic rhymes** ([instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md)), not proofs that any single operator runs the whole disclosure space.
 - **Evidence tiers:** AARO official PDFs > FBI Vault primaries > NARA RG 615 textual material > CIA reading-room translations of foreign press > critic blog commentary > social-media reactions. Every § 5 finding is keyed to a specific extracted-text file path.
 - **Æther / zero-point vocabulary:** § 5.4 uses *aether / zero-point / anti-gravity* in the **author** sense per [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md); **mainstream** translation (vacuum-energy / QED) is **noted not substituted**.
-- **PURSUE Release 02+ may invalidate parts of this file.** The novelty audit (§ 3), themes (§ 5), and consensus (§ 7) reflect Release 01 only. Watch § 11 TODOs.
+- **PURSUE Release 02+ may invalidate parts of this file.** The novelty audit (§ 3), themes (§ 5), and consensus (§ 7) reflect Release 01 only. Watch § 13 TODOs.
 - **Not claimed:** that PURSUE is a coordinated single-operator psyop; that NHI exists or doesn't; that AAWSAP "found" anything; that any specific present-day disclosure influencer is a paid BAASS surrogate. Each of those would require evidence beyond what is in this corpus.
 
 ---
@@ -463,6 +670,6 @@ Author-machine local layout (not for online readers):
   bash /media/ari/HD/uap/scripts/extract-pdfs.sh
   bash /media/ari/HD/uap/scripts/theme-scan.sh
   python3 /media/ari/HD/uap/scripts/build-index.py
-  # then refresh § 1.3, § 3.1, § 5 here, and add a § 13 release-02 section.
+  # then refresh § 1.3, § 3.1, § 5 here, and add a Release-02 section before references.
   ```
 - Disk strategy notes: NARA Tier-3 `45484701.zip` (Project Blue Book, ~66 GB), `597821-images-1/2.zip` (textual + microfilm images, ~250 GB combined) and `542184.zip` / `566658.zip` (Blue Book photos / moving images) account for almost the entire ~1 TB target. Sequential download is bandwidth-bound; parallel-3 keeps the link saturated without S3 throttling.
