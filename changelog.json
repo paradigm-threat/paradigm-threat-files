@@ -1,8 +1,34 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-09T15:13:53.761Z",
+    "date": "2026-05-09T15:19:30.539Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md",
+        "href": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png",
+        "href": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
+        "alt": "33 Thomas Street / AT&T Long Lines Building in Lower Manhattan — a 550-foot windowless Brutalist slab that was a telecom switching center and turned out to also be the NSA's TITANPOINTE surveillance hub. The canonical example of a downtown windowless tower whose cover story was true and incomplete at the same time."
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-09T15:13:52.000Z",
+    "message": "PURSUE 01 (ninth pass): revise 2014 sighting duration to max-3-min envelope",
     "files": [
       {
         "status": "M",
@@ -627,29 +653,6 @@
         "src": "/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
         "alt": "Quantum computer / infinitely indexed storage — investigation header"
       },
-      {
-        "src": "/science/computing/quantum-leap-of-faith.png",
-        "alt": "Quantum Leap (of faith) — article header"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-06T12:42:41.000Z",
-    "message": "Docs + computing article: preserve author tone and explicit surveillance risk.",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/instructions/ARTICLES.md",
-        "href": "/docs/instructions/ARTICLES"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/quantum-leap-of-faith.md",
-        "href": "/science/computing/quantum-leap-of-faith"
-      }
-    ],
-    "images": [
       {
         "src": "/science/computing/quantum-leap-of-faith.png",
         "alt": "Quantum Leap (of faith) — article header"
