@@ -10,7 +10,7 @@
 
 - **Structural rhyme (community → enclosure):** [*Homestuck* §5.3](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md#53-fan-edits--video-derivatives--pattern-rhyme-ip-enclosure-adjacent) (DMCA / fan-edit lane; **OpenMW vs MWSE** fork sorting); [OC ReMix §7.4–§7.5](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) (engine fork / legal chill **geometry**).
 - **Reader essay alignment:** [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) — **NDA** silence, **fan commons** as **subsidy**, **leader** distance from **community** harm.
-- **Readable companion:** [You do not have to stop loving *Cave Story*](/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md) — **longform** **blog** **essay** (**primer-level** **explanations** **in** **prose**); **silver** **platter** **(commons** **→** **corporate)**; **media** **consolidation** **coda**; **§1.7** **/** **§1.8** **/** **§1.9** **themes**; **gated-sword** **figure**; **Limits** **at** **end** (**not** **table-first**).
+- **Readable companion:** [You do not have to stop loving *Cave Story*](/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md) — **longform** **reader** **essay** (**primer-level** **explanations** **in** **prose**); **silver** **platter** **(commons** **→** **corporate)**; **media** **consolidation** **coda**; **§1.7** **/** **§1.8** **/** **§1.9** **themes**; **gated-sword** **figure**; **Limits** **at** **end**; **full** **tables** **stay** **in** **this** **dossier**.
 - **Documented legal event (not hypothesis):** [GitHub DMCA — Nicalis, 19 Nov 2020](https://github.com/github/dmca/blob/master/2020/11/2020-11-19-nicalis.md) — takedown targeting **CSE2**-related repositories.
 
 ---
@@ -121,7 +121,7 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 | [*Homestuck* — CO & privatization](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) | **§5.3** — **DMCA** stress; **divide-and-sort** **pipelines**; **IP enclosure**. |
 | [SDA × GDQ × MSF](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) | **Community institution** → **branded** **LLC** **/** **opaque** **money** **routing** — **weaker** **direct** **rhyme**, **same** **temperature**. |
 | [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) | **NDA**, **black-box economics**, **leader** distance from **harm**. |
-| [You do not have to stop loving *Cave Story*](/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md) (blog essay) | **Longform** **Success**/**WYWF**-style **flow**; **primer-level** **explanations** **in** **prose**; **§1.9** **/** **SNES** **CD** **/** **R&D1** **“open** **hood”** **rhyme** **in** **essay** **form**; **silver** **platter** **/** **media** **coda** **with** **primary** **links**; **Limits** **/** **disclaimers** **at** **end** **only**—**synthesis**, **not** **new** **evidence** **tier**. |
+| [You do not have to stop loving *Cave Story*](/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md) (blog essay) | **Longform** **reader-essay** **cadence**; **primer-level** **explanations** **in** **prose**; **§1.9** **/** **SNES** **CD** **/** **R&D1** **“open** **hood”** **rhyme** **in** **essay** **form**; **silver** **platter** **/** **media** **coda** **with** **primary** **links**; **Limits** **/** **disclaimers** **at** **end** **only**—**synthesis**, **not** **new** **evidence** **tier**. |
 
 ---
 
@@ -227,7 +227,7 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 
 Keywords: #CaveStory #Undertale #StudioPixel #Nicalis #CSE2 #ControlledOpposition #FanLabor #ReverseEngineering #DMCA #Nintendo #N64 #OpenSource #ParadigmThreatFiles
 
-**Last updated:** 2026-05-11 (**§1.9** **SNES** **/** **CD** **fork** **+** **R&D1** **open-hood** **read**; **§5.6** **retail** **hygiene**; **§3** **reader** **article** **cross-row**; **§1.8** **N64** **/** **talent-routing** **heuristic** **+** **§5.5** **nuance**; **§1.7** **narration** **+** **gated-sword** **figure**; **§6–§7** **precedent** **/** **DMCA** **timeline**)
+**Last updated:** 2026-05-12 (**§3** **/** **Guide** **reader-essay** **row** **+** **WYWF-style** **drop**; **§1.9** **SNES** **/** **CD** **fork** **+** **R&D1** **open-hood** **read**; **§5.6** **retail** **hygiene**; **§1.8** **N64** **/** **talent-routing** **heuristic** **+** **§5.5** **nuance**; **§1.7** **narration** **+** **gated-sword** **figure**; **§6–§7** **precedent** **/** **DMCA** **timeline**)
 
 ---
 

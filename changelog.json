@@ -1,8 +1,65 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-10T12:20:41.871Z",
+    "date": "2026-05-10T12:49:05.990Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".cursor/rules/paradigm-threat-article-absolute-urls.mdc",
+        "href": "/.cursor/rules/paradigm-threat-article-absolute-urls.mdc"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",
+        "href": "/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
+        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (investigator metaphor figure)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
+        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (metaphor figure)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png",
+        "alt": "Open source as sword in the stone — gated exhibit, alternate framing (metaphor figure)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (wider still)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
+        "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-10T12:20:41.000Z",
+    "message": "Articles: self-reference as this article, not file/repo/page",
     "files": [
       {
         "status": "A",
@@ -727,33 +784,5 @@
         "alt": "33 Thomas Street / AT&T Long Lines Building / Titanpointe — the canonical example of a windowless downtown tower whose cover story turned out to be only part of the story"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-09T13:50:26.000Z",
-    "message": "Relay client hook: extract Layout, switch to Host.fetch + anchorOnClick navigation",
-    "files": [
-      {
-        "status": "A",
-        "path": "hooks.json",
-        "href": "/hooks.json"
-      },
-      {
-        "status": "A",
-        "path": "hooks/client/components/Layout.jsx",
-        "href": "/hooks/client/components/Layout.jsx"
-      },
-      {
-        "status": "M",
-        "path": "hooks/client/get.jsx",
-        "href": "/hooks/client/get.jsx"
-      },
-      {
-        "status": "A",
-        "path": "theme.yaml",
-        "href": "/theme.yaml"
-      }
-    ],
-    "images": []
   }
 ]
