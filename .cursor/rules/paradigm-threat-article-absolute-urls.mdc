@@ -1,0 +1,19 @@
+---
+description: Article-only URL policy for Paradigm Threat reader-facing markdown
+globs: **/*.md
+alwaysApply: false
+---
+
+# Article URL Policy
+
+Apply this rule only when editing reader-facing articles. Do not apply it to investigations, docs, index pages, generated files, or internal maintenance notes unless the user explicitly asks.
+
+- In reader-facing articles, every in-repo link must use the public absolute domain: `https://paradigmthreat.net/...`.
+- Convert root-relative site links like `(/influence/...)`, `(/cosmos/...)`, and `(/docs/...)` to `https://paradigmthreat.net/...`.
+- Convert local article assets like `(image.png)` or `(image.jpg)` to their public absolute URL at the asset's article directory, for example `https://paradigmthreat.net/influence/controlled_opposition/image.png`.
+- External URLs stay unchanged.
+- Investigation files may continue to use root-relative internal links unless separately requested.
+
+## Self-reference (voice)
+
+In reader-facing articles, refer to the piece as **this article**. Do not use **this file**, **this repo**, or **this page** for self-reference (e.g. prefer “tables in this article” / “figures in this article” over “this page”). Other works may still be called essays or investigations by their own titles.

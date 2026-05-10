@@ -1,8 +1,47 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-10T12:17:37.083Z",
+    "date": "2026-05-10T12:20:41.871Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": ".cursor/rules/paradigm-threat-article-absolute-urls.mdc",
+        "href": "/.cursor/rules/paradigm-threat-article-absolute-urls.mdc"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",
+        "href": "/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
+        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (metaphor figure)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png",
+        "alt": "Open source as sword in the stone — gated exhibit, alternate framing (metaphor figure)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (wider still)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
+        "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-10T12:17:36.000Z",
+    "message": "Cave Story essay: no diminishing that memory (opening)",
     "files": [
       {
         "status": "M",
@@ -716,80 +755,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-09T13:50:08.000Z",
-    "message": "OC ReMix §6.1 firsthand: whole-thread removal of CIA-RDP96 Mars × Chrono Trigger discussion",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
-        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/success-by-any-means-necessary.md",
-        "href": "/influence/controlled_opposition/success-by-any-means-necessary"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/what-are-you-waiting-for.md",
-        "href": "/influence/controlled_opposition/what-are-you-waiting-for"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
-        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
-        "alt": "*Chrono Trigger* / Mars remote viewing — predictive-programming composite (author)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png",
-        "alt": "Mars Exploration 1984 — remote viewing investigation composite (same release, alternate layout)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
-        "alt": "Mars Exploration 1984 — PDF digest companion figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/success-by-any-means-necessary.png",
-        "alt": "Success — by any means necessary — paying audience, black-box pipeline, NDAs, and leader accountability"
-      },
-      {
-        "src": "/influence/controlled_opposition/success-by-any-means-necessary-info.png",
-        "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
-      },
-      {
-        "src": "/influence/controlled_opposition/what-are-you-waiting-for.png",
-        "alt": "What Are You Waiting For? — deferral, headlines, calm-by-waiting (article art)"
-      },
-      {
-        "src": "/influence/controlled_opposition/what-are-you-waiting-for2.png",
-        "alt": "What Are You Waiting For? — alternate article art"
-      }
-    ]
   }
 ]
