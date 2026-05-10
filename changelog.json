@@ -1,8 +1,40 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-10T12:00:59.426Z",
+    "date": "2026-05-10T12:01:23.041Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      },
+      {
+        "status": "R",
+        "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",
+        "href": "/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
+        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (investigator metaphor figure)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-10T12:00:58.000Z",
+    "message": "Cave Story essay: blog voice, sentiment preserved, Limits at end only",
     "files": [
       {
         "status": "M",
@@ -755,32 +787,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-05-08T01:54:52.000Z",
     "message": "Cruz/Kevin investigation: add Dwight’s Speech coded revolution section",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      },
-      {
-        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
-        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
-      },
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-08T01:44:05.000Z",
-    "message": "Cruz/Kevin investigation: add Valentine\\u2019s Day giant-bear cryptic row\\n\\nAdd exact bear-delivery beat where Kevin says \"bigger than I am\" and\\n\"Oh zip it\"; note that the bear-delivery performer is in the show\\nwriter orbit (Lee Eisenberg) per cast/actor credit. Update\\nLast substantive reorganize and Changelog.",
     "files": [
       {
         "status": "M",
