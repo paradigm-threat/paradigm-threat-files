@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-10T01:33:05.714Z",
+    "date": "2026-05-10T01:47:12.989Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
+        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-10T01:33:04.000Z",
+    "message": "Add Cave Story × Nicalis CO investigation with header image; hub link",
     "files": [
       {
         "status": "A",
@@ -723,29 +741,6 @@
     "images": [
       {
         "src": "/cosmos/cosmology/the-incorrectly-scaled-universe.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-07T12:55:17.000Z",
-    "message": "Cosmology: expand Incorrectly Scaled Universe article and investigation dossier.",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md",
-        "href": "/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/cosmology/the-incorrectly-scaled-universe.md",
-        "href": "/cosmos/cosmology/the-incorrectly-scaled-universe"
-      }
-    ],
-    "images": [
-      {
-        "src": "/cosmos/cosmology/the-incorrectly-scaled-universe.png",
-        "alt": "The Incorrectly Scaled Universe — curved-light aether cosmology"
       }
     ]
   }
