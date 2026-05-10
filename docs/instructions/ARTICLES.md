@@ -4,6 +4,14 @@
 
 ---
 
+## URLs (same as blog entries)
+
+**Published reader-facing articles** (parent-folder `…/*.md` essays under `influence/`, `science/`, `history/`, etc.—the pieces that ship like site pages) use the **same link convention as `blog/*.md` posts:** every **in-repo** target is an **absolute public URL** on `https://paradigmthreat.net/...`, including **§** anchors and **images** under the article’s site subtree. Do **not** use root-relative markdown links like `(/influence/...)` or repo-relative asset paths in those files.
+
+**Investigations**, hub **`page.md`** indices, and internal **docs** may keep root-relative links unless a file is being promoted to “article” behavior.
+
+---
+
 ## Article vs dossier (division of labor)
 
 | **`…/investigations/*.md` (dossier)** | **Parent-folder `…/*.md` (article)** |
@@ -14,14 +22,14 @@
 
 If a claim needs **five citations** or a **multi-row table**, it belongs in the **dossier**; the **article** names the claim and **links once** (often to a **§** anchor).
 
-**Default:** Articles **state stakes and thesis clearly**—**clinical but inspired** (precise, unsentimental, still alive); investigations **hold** the audit trail. When in doubt, **cut** the paragraph that sounds like **Limits** and **add** a link: “the careful version lives in [**Limits**](/path/to/investigation.md#limits-and-disclaimers).”
+**Default:** Articles **state stakes and thesis clearly**—**clinical but inspired** (precise, unsentimental, still alive); investigations **hold** the audit trail. When in doubt, **cut** the paragraph that sounds like **Limits** and **add** a link: “the careful version lives in [**Limits**](https://paradigmthreat.net/influence/…/investigations/…#limits-and-disclaimers).”
 
 ### Reader-facing prose (generic surface)
 
 Articles are written so they can be **republished or read off-site** without sounding like internal documentation.
 
 - **No project or repository meta in the body:** Do **not** name the hosting project, the codebase, or “the repo.” Avoid phrases like **in-repo**, **this tree**, **our investigations**, **Paradigm Threat** (and close synonyms) in running prose. Use **neutral formulations**: “this reading,” “the argument below,” “linked notes,” “supporting write-up,” “technical companion piece.”
-- **Links are fine:** Repo-relative URLs and cross-links remain the navigation layer; describe targets by **topic**, not by filing system (“see the linked DNA **blueprint critique**,” not “see our biology dossier”).
+- **Links:** In **article** bodies, use **absolute** `https://paradigmthreat.net/...` URLs for every internal page and image (**same as `blog/`**). Describe targets by **topic**, not by filing system (“see the linked DNA **blueprint critique**,” not “see our biology dossier”).
 - **First person — personal lane only:** Use **I / me / my** only for **personal experience**, **direct memory**, or **explicit personal stance** the reader should attribute to a human speaker. Keep **theory, history, and physics claims** in **neutral / documentary** third person (“this model holds…,” “the record suggests…”).
 - **Neutral ≠ timid:** You may still write **hard thesis** and **manifesto** cadence; just separate **voice** (optional **I**) from **content** (documentary).
 
@@ -64,11 +72,11 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 
 1. **Title** — concrete; may use **em dash** or a strong image. Keep slug/path stable unless Ari explicitly requests a rename (URLs depend on paths).
 2. **Subtitle (required)** — add one short line **immediately under** the `#` title (before any hero image), summarizing the thesis in plain reader language. Aim for one sentence fragment or clause (roughly 8–20 words), no ending period, no markdown heading marker (`##`), and no `TL;DR` label.
-3. **Optional hero image** — immediately under the subtitle, repo-relative path, short **alt** that matches the article’s **central image or claim** (not only mood).
+3. **Optional hero image** — immediately under the subtitle, **`https://paradigmthreat.net/...`** image URL (same as `blog/`), short **alt** that matches the article’s **central image or claim** (not only mood).
 4. **Hook** — a **scene**, **metaphor**, or **one sharp anecdote** before the reader hits dense links. This is the **contract**: why this file exists **before** apparatus.
 5. **`> **TL;DR:**`** — **optional** in articles. Use it when it **adds** a clean thesis line **without** cloning the dossier’s opening or sounding like a second **investigation header**. Skip it when the title + subtitle + first two paragraphs already do that work.
 6. **Body** — **`##` sections** (typically **three to seven**). Each section **one main idea**. **Bold** only per **Voice → Bold** (emphasis or newly introduced terms)—**not** as default highlighting.
-7. **Citations in prose** — **Inline links** (`/history/...`, `/influence/...`, `/timeline/...`, stable public URLs). Each link: **what** the reader will find there (**one clause**). Avoid **hub-only** link dumps unless Ari wants a **routing sheet**; prefer **narrative + links**.
+7. **Citations in prose** — **Inline links** as **`https://paradigmthreat.net/...`** (and external `https://...`), **same convention as blog posts**—not bare `/history/...` paths. Each link: **what** the reader will find there (**one clause**). Avoid **hub-only** link dumps unless Ari wants a **routing sheet**; prefer **narrative + links**.
 8. **Closing** — short **“where next”**: Common Questions, timeline hubs, or **§** anchors in dossiers (e.g. “start in **§2.1**”).
 9. **Optional `## Framing and limits` (or `## Scope and limits`)** — **At most one** such section, placed **after** **Where next** and **before** `Keywords:`, when in-file boundaries help (what is **not** being claimed, what lives in **Limits**, consensus vs synthesis). **Do not** scatter the same hedges through earlier `##` sections; that **muddies** the narrative. If the dossier already carries the full caveat stack, a **single** link line here is enough.
 10. **`Keywords:`** — one line, **Option B** (see `PARADIGM_INVESTIGATION_INSTRUCTIONS.md`): `#PascalCase` tokens only, **no** `## Keywords` heading.
@@ -137,4 +145,4 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 
 ---
 
-**Last updated:** 2026-05-07
+**Last updated:** 2026-05-12

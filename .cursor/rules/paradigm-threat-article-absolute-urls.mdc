@@ -6,11 +6,11 @@ alwaysApply: false
 
 # Reader-facing articles (Paradigm Threat)
 
-Apply when editing **reader-facing articles** (personal essays, hub “reader article” entries). Do **not** apply the URL conversion rules to **investigations**, dossiers, `page.md` indices, generated files, or internal notes unless the user explicitly asks.
+Apply when editing **reader-facing articles** (personal essays under `influence/`, `science/`, `history/`, etc.—the Markdown that ships like site pages, same class as **`blog/*.md`** posts). Do **not** apply the URL conversion rules to **investigations**, dossiers, `page.md` indices, generated files, or internal notes unless the user explicitly asks.
 
-## URL policy (articles only)
+## URL policy (articles only — same as blog)
 
-- Every in-repo link must use the public absolute domain: `https://paradigmthreat.net/...`.
+- **Same rule as `blog/` entries:** every in-repo link and in-repo image in an article must use the public absolute domain: `https://paradigmthreat.net/...`.
 - Convert root-relative site links like `(/influence/...)`, `(/cosmos/...)`, and `(/docs/...)` to `https://paradigmthreat.net/...`.
 - Convert local article assets like `(investigations/foo.png)` to their public absolute URL, e.g. `https://paradigmthreat.net/influence/controlled_opposition/investigations/foo.png` when the article lives under `influence/controlled_opposition/`.
 - External URLs stay unchanged.
