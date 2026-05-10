@@ -2,7 +2,9 @@
 
 When *Cave Story* first came out, it was not really what the moment seemed to want—the wider scene had already filed two dimensions and visible pixels under “obsolete” and “legacy” as if the only serious future arrived in triangles and normal maps. Then this stubborn side-on island showed up anyway, and for old-school players it landed like every craving they had stopped saying out loud finally answered at once. I have no intention of taking that satisfaction away from you. I have been through Hell, in the player sense: the optional endgame gauntlet past the point where the story already feels complete—the long white-tile corridor where the game strips the excuse of exploration and asks only whether your hands and your routing survive (community shorthand “Hell,” not theology). If you never chased that room, you can read it as shorthand for “I did not bounce off the surface of this game; I lived in it.” I am writing now for a different reason—the packaging around the work, the solo-genius fairy tale and the “one person built the whole miracle” receipt—sits uneasy next to what the wider record supports, and next to what happened when fans tried to treat the game the way free software culture treats inspectable craft. The long tables, timelines, and falsifiers live in the companion dossier, [*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation](/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md); this file is the essay I would hand a friend who does not live inside forum archaeology.
 
-![Open source as sword in the stone — gated exhibit, after hours (metaphor figure)](investigations/cave-story-open-source-sword-gated-after-hours.png)
+![*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure](investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png)
+
+![Open source as sword in the stone — gated exhibit, after hours (metaphor figure)](investigations/cave-story-open-source-sword-gated-after-hours3.png)
 
 **Updated:** 2026-05-11
 
@@ -40,6 +42,8 @@ The CD-ROM episode everyone knows from business books is the broken Nintendo–S
 
 ## The N64-shaped hole I keep walking around
 
+![Open source as sword in the stone — gated exhibit, alternate framing (metaphor figure)](investigations/cave-story-open-source-sword-gated-after-hours2.png)
+
 After Nintendo 64, Nintendo’s living-room story leaned hard into polygon prestige—first- and third-person 3D as the headline future. Two-dimensional craft did not vanish from Earth; much of it migrated to handheld gravity—Game Boy Advance, Nintendo DS, later pocket hardware and spin-off lanes—while TV marketing often sold the future as analog sticks in 3D worlds. That routing is compatible, in my read, with pools of SNES-shaped talent—people who still thought in tile grids and side-view collision—being less central to the E3 story even while they still existed inside first-party culture. The dossier states this as a center-of-gravity thesis, not “zero 2D on TV after 1996”; Nintendo did ship 2D and hybrid hits on home consoles afterward, and the investigator collects that counterweight as [§5.5](/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md#55-home-console-nuance-2d-did-not-literally-vanish-from-tv-mainstream).
 
 From there I keep a working thesis I will drop the moment someone tables real primaries: the same first-party ecosystem that had already watched credit split, borrow, or front through partner publishers (Square, Rare—historical names, not reopened contract law in this essay) could plausibly host labor later worn as “one indie Pixel.” That is structural suspicion, not an accusation that any named person lied under oath.
@@ -54,6 +58,8 @@ The moral shape I see in the record the community actually built—freeware-orig
 
 ## The silver platter
 
+![Open source as sword in the stone — gated exhibit, after hours (wider still)](investigations/cave-story-open-source-sword-gated-after-hours.png)
+
 I call it the silver platter: free internet communities supply attention, testing, canon stress, mods, translations, and sometimes whole engine graphs—then industry stacks (IP, publisher, employment NDA, platform terms) plate that labor for entities that did not pay the full social cost of discovery. *Cave Story* advertised the viability of a non-corporate myth while the 2020 notice geometry showed where hard power sat once fan engines matured.
 
 The same geometry shows up elsewhere in this repo without me pasting their whole tables. OverClocked ReMix’s lane is fan labor routed through one legal interface, with engine-fork and chill language in [§7.4–§7.5](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) of that investigation—parallel to CSE2 at the “hosted source” layer. *Homestuck’s* lane is what felt like public culture re-centered under IP and employment ([§5.3](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md#53-fan-edits--video-derivatives--pattern-rhyme-ip-enclosure-adjacent)). The speedrun charity stack from Speed Demos Archive toward Games Done Quick is a weaker direct rhyme but the same temperature: community institution to branded LLC and opaque money routing ([SDA × GDQ × MSF investigation](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md)). For the human face of NDA silence, fan commons as subsidy, and leader distance from downstream harm, I wrote [*Success — by any means necessary*](/influence/controlled_opposition/success-by-any-means-necessary.md)—the essay this one is trying to sound like.
@@ -62,7 +68,9 @@ The same geometry shows up elsewhere in this repo without me pasting their whole
 
 ## Sword in the stone, then closing time
 
-Open source and open publication, at their best, behave like the sword in the stone: in principle anyone can walk up because the artifact and the rules are public. The figure at the top of this page is the after-hours read—the sword moved indoors behind glass, posted hours on the door, chain on the gate. The window still praises bedroom dreams; once closing time hits, the hands that needed to touch stone go home empty. Platform policy, employment IP clauses, anti-circumvention, and DMCA graphs are the real lockout. That is the same emotional machine as Steam discoverability paying rent on attention, or engine companies changing price rules overnight, or operating systems that demand notarization before binaries run: stacked gates that still talk like a free market.
+![Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)](investigations/cave-story-open-source-sword-gated-after-hours-portrait.png)
+
+Open source and open publication, at their best, behave like the sword in the stone: in principle anyone can walk up because the artifact and the rules are public. The gate-and-sword stills threaded through this page—including the after-hours variants above—are the after-hours read: the sword moved indoors behind glass, posted hours on the door, chain on the gate. The window still praises bedroom dreams; once closing time hits, the hands that needed to touch stone go home empty. Platform policy, employment IP clauses, anti-circumvention, and DMCA graphs are the real lockout. That is the same emotional machine as Steam discoverability paying rent on attention, or engine companies changing price rules overnight, or operating systems that demand notarization before binaries run: stacked gates that still talk like a free market.
 
 ---
 
