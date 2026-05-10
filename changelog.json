@@ -1,8 +1,40 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-10T11:33:48.139Z",
+    "date": "2026-05-10T11:54:22.189Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop.md",
+        "href": "/influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
+        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (investigator metaphor figure)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-10T11:33:47.000Z",
+    "message": "Cave Story CO: article, investigation §1.7, gated-sword figures, hub, changelog",
     "files": [
       {
         "status": "A",
@@ -751,35 +783,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-07T13:25:25.000Z",
-    "message": "Content: add missing investigation header images and wire remote viewing header.",
-    "files": [
-      {
-        "status": "A",
-        "path": "cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.png",
-        "href": "/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.png"
-      },
-      {
-        "status": "M",
-        "path": "science/telepathy/remote_viewing/aether-consciousness.md",
-        "href": "/science/telepathy/remote_viewing/aether-consciousness"
-      },
-      {
-        "status": "A",
-        "path": "science/telepathy/remote_viewing/aether-consciousness.png",
-        "href": "/science/telepathy/remote_viewing/aether-consciousness.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.png"
-      },
-      {
-        "src": "/science/telepathy/remote_viewing/aether-consciousness.png"
-      }
-    ]
   }
 ]

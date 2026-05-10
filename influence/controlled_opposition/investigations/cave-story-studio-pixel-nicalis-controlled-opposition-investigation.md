@@ -2,15 +2,15 @@
 
 ![*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure](cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png)
 
-**TL;DR:** **Author thesis (investigator-supplied):** *Doukutsu Monogatari* functioned as an **industry-grade** cultural product **misrepresented** as a **solo freeware legend** so that, once **community trust** and **open-engine labor** grew around it, **publisher-side IP enforcement** could **legally dismantle** competing fan/reverse-engineering pipelines — **mirroring** the **fan-labor → corporate capture** pattern tracked in **[OC ReMix](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md)** and **[*Homestuck*](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md)**. **§6** argues the **2020 Nicalis / CSE2** episode **helped normalize** aggressive **DMCA-first** posture for **fan reimplementations**; **§7** lists a **selective** **21st-century DMCA / anti-circumvention** timeline anchoring **Nintendo’s 2024–2026** emulator offensive. **§1.7** archives **narration** contrasting **genuine** *Undertale*-scale **solo** **proof** with **opaque** **“followable”** **process**, plus the **sword-in-the-stone** / **gated** **shop** metaphor for **open** **commons** **vs.** **present** **enclosure**. The same dossier holds **mainstream falsifiers** (public interviews, freeware provenance, **Nicalis** as distinct from **Nintendo**) and **does not** claim **court-grade proof** of **Nintendo**, **yakuza**, or **studio-faked timeline** without **independent primaries**.
+**TL;DR:** **Author thesis (investigator-supplied):** *Doukutsu Monogatari* functioned as an **industry-grade** cultural product **misrepresented** as a **solo freeware legend** so that, once **community trust** and **open-engine labor** grew around it, **publisher-side IP enforcement** could **legally dismantle** competing fan/reverse-engineering pipelines — **mirroring** the **fan-labor → corporate capture** pattern tracked in **[OC ReMix](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md)** and **[*Homestuck*](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md)**. **§6** argues the **2020 Nicalis / CSE2** episode **helped normalize** aggressive **DMCA-first** posture for **fan reimplementations**; **§7** lists a **selective** **21st-century DMCA / anti-circumvention** timeline anchoring **Nintendo’s 2024–2026** emulator offensive. **§1.7** archives **narration** contrasting **genuine** *Undertale*-scale **solo** **proof** with **opaque** **“followable”** **process**, plus the **sword-in-the-stone** / **gated** **shop** metaphor for **open** **commons** **vs.** **present** **enclosure**. **§1.8** adds an **industrial-history heuristic** (**N64** **/** **post-3D** **gravity**, **handheld** **routing** **of** **2D** **/** **platformer** **talent**, **working** **thesis** **Nintendo** **R&D** **→** **Studio** **Pixel** **mask** **until** **disproven**) **plus** **an** **extended** **containment** **read** **on** **2020-era** **community** **silence**; **§5.5** **states** **home-console** **counter-examples** **so** **§1.8** **cannot** **be** **misread** **as** **literal** **“zero** **2D** **on** **TV.”** The same dossier holds **mainstream falsifiers** (public interviews, freeware provenance, **Nicalis** as distinct from **Nintendo**) and **does not** claim **court-grade proof** of **Nintendo**, **yakuza**, or **studio-faked timeline** without **independent primaries**.
 
-**Status:** Open — **§1** is **verbatim investigator stance** (first-class **hypothesis** language); **§1.7** adds **narration capture** (*Undertale* contrast, **sword** / **gated shop** metaphor); **§2–§4** mix **documented events** with **labeled speculation**; **§5** lists **contradictions** explicitly; **§6–§7** add **investigator conclusion** + **illustrative legal-tech chronology** (**not** exhaustive legal history).
+**Status:** Open — **§1** is **verbatim investigator stance** (first-class **hypothesis** language); **§1.7** adds **narration capture** (*Undertale* contrast, **sword** / **gated shop** metaphor); **§1.8** adds **N64** **/** **3D-pivot** **talent-routing** **heuristic** **and** **Nintendo→Pixel** **working** **thesis**; **§2–§4** mix **documented events** with **labeled speculation**; **§5** lists **contradictions** explicitly (**§5.5** **home-console** **nuance**); **§6–§7** add **investigator conclusion** + **illustrative legal-tech chronology** (**not** exhaustive legal history).
 
 **Guide**
 
 - **Structural rhyme (community → enclosure):** [*Homestuck* §5.3](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md#53-fan-edits--video-derivatives--pattern-rhyme-ip-enclosure-adjacent) (DMCA / fan-edit lane; **OpenMW vs MWSE** fork sorting); [OC ReMix §7.4–§7.5](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) (engine fork / legal chill **geometry**).
 - **Reader essay alignment:** [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) — **NDA** silence, **fan commons** as **subsidy**, **leader** distance from **community** harm.
-- **Readable companion:** [*Undertale*, *Cave Story*, and the gated sword](/influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop.md) — **§1.7** **themes** in **article** **form** (**metaphor** **figure** **included**).
+- **Readable companion:** [*Undertale*, *Cave Story*, and the gated sword](/influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop.md) — **non-gamer** **primer**, **silver** **platter** **(commons** **→** **corporate)**, **media** **consolidation** **coda**, **§1.7** **/** **§1.8** **themes**, **gated-sword** **figure**.
 - **Documented legal event (not hypothesis):** [GitHub DMCA — Nicalis, 19 Nov 2020](https://github.com/github/dmca/blob/master/2020/11/2020-11-19-nicalis.md) — takedown targeting **CSE2**-related repositories.
 
 ---
@@ -71,6 +71,18 @@ The following **verbatim narration** is archived here as **sentiment** and **pol
 
 ![Open source as sword in the stone — gated exhibit, after hours (investigator metaphor figure)](cave-story-open-source-sword-gated-after-hours.png)
 
+### 1.8 Industrial-detour heuristic — N64 / 3D gravity, handheld routing of 2D & platformer craft, Nintendo→Studio Pixel working thesis (investigator-supplied)
+
+**Framing:** Macro-industry story, **not** a leaked org chart. **Purpose:** explain why the investigator treats **“Nintendo-adjacent R&D fingerprints”** as **plausible** even without **§2-grade** contracts.
+
+> **N64 inflection (hypothesis):** Something **structurally odd** lands, for this investigator, after Nintendo goes **all-in on polygon identity** for **living-room** consoles—not that **2D vanishes**, but that the **center of gravity** moves toward **first- and third-person 3D** pipelines as the **prestige** lane. **2D** and **side-scrolling platformer** craft **keeps shipping**, often **routed to handhelds** (GBA / DS era and successors) and to **lower-headline** SKUs relative to the **SNES** cadence—a pattern **compatible** with **“spare” pixel-native / collision-native talent** still inside **first-party** culture but **not** what **mainline** **press conferences** **sell** as the **future** of the **TV** **box**.
+
+> **Nintendo R&D → Studio Pixel mask (working thesis until falsified):** The investigator **sticks** to the argument that the **same Nintendo R&D ecosystem**—already accustomed, in this **moral** reading, to **credit** being **split**, **borrowed**, or **fronted** through **partner publishers** (Square, Rare, and similar historical names—not re-litigated here as contract facts)—**could** host labor later worn as **“one indie Pixel.”** **§5.1** remains decisive hygiene: **no primary employment / contract link** is in this dossier as of last update.
+
+> ***Donkey Kong Country Returns*** **(comfort read, not a review score):** **Wii** shake / waggle obligations are remembered as **hostile** to straight **platformer muscle memory** for part of the audience; **later HD-style ports** with **conventional inputs** are treated by the investigator as the **first time that design read as “just play the 2D platformer”** for that cohort—**subjective**, not evidence of **malice** in court.
+
+> **2020 / “automatic” non-defense extension:** **§6.1** already describes **acquiescence** while **DMCA** notices land. Here the investigator **extends** the moral charge: the recent record **reads** as what you would expect if **highest-level containment culture** treated the **freeware-origin community** as **expendable** once **IP routing** matured—not a claim that any **named** person **signed each PDF**. **Global clause (worldview language, not a country-by-country media survey):** the investigator suspects **no propagated media vertical** is fully outside **pressure patterns that reward enclosure**—still **not** a license to assert **individual criminal knowledge** without **primaries**.
+
 ---
 
 ## 2. Documented facts (minimal anchors — not the thesis)
@@ -95,6 +107,7 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 | [*Homestuck* — CO & privatization](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) | **§5.3** — **DMCA** stress; **divide-and-sort** **pipelines**; **IP enclosure**. |
 | [SDA × GDQ × MSF](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) | **Community institution** → **branded** **LLC** **/** **opaque** **money** **routing** — **weaker** **direct** **rhyme**, **same** **temperature**. |
 | [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) | **NDA**, **black-box economics**, **leader** distance from **harm**. |
+| [*Undertale*, *Cave Story*, and the gated sword](/influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop.md) (reader article) | **Non-gamer** **primer**; **silver** **platter** **(commons** **→** **corporate)** **metaphor**; **media** **consolidation** **coda** **with** **primary** **links** **and** **falsifier-style** **hygiene**—**prose** **synthesis**, **not** **new** **evidence** **tier**. |
 
 ---
 
@@ -105,6 +118,7 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 3. **WiiWare audio regression** — locate **contemporary reviews / tech write-ups** pinning **music bugs** or **mastering** issues (**March 2010** window).
 4. **Nicalis–community** correspondence — any **public** **counter-notification** or **settlement** narrative around **CSE2** (not compiled here).
 5. **Any** **primary** **employment / contract** **document** **linking** **Nintendo** **R&D** **to** **Studio Pixel** **or** **pre-release** *Cave Story* — **currently absent** from this dossier (**falsifier** if **never** found).
+6. **Quantified** **routing** **story** for **first-party** **2D** **/** **pixel** **talent** **post-** **N64** **vs** **handheld** **/** **partner** **SKUs** — **to** **stress-test** **§1.8** **without** **relying** **on** **impressionistic** **trade-show** **memory** **alone**.
 
 ---
 
@@ -129,6 +143,11 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 ### 5.4 Thematic reads
 
 - Occult name **rhymes** (**Ballos** / **Baal**) can be **literary** **or** **syncretic** **without** **central** **directors** **dictating** **global** **PP** — **§1.5** stays **interpretive**.
+
+### 5.5 Home-console nuance — 2D did not literally vanish from TV (mainstream)
+
+- **Counter to over-strong §1.8 readings:** Nintendo continued to ship **2D**, **hybrid**, and **retro-styled platformers** on **home consoles** after N64 (e.g. **New Super Mario Bros.** line, Wii / Wii U entries, other revivals)—so **§1.8** must be read as a **center-of-gravity / prestige-pipeline** thesis, not as “**zero 2D on TV after 1996**.”
+- **3D platformers** also remained a Nintendo home-console staple (Mario 3D line, etc.)—the investigator’s “**unused platformer programmers**” language targets a hypothesized **2D-native / pixel-native sub-pool**, not a claim that Mario teams went on vacation.
 
 ---
 
@@ -183,9 +202,9 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 
 ---
 
-Keywords: #CaveStory #Undertale #StudioPixel #Nicalis #CSE2 #ControlledOpposition #FanLabor #ReverseEngineering #DMCA #Nintendo #OpenSource #ParadigmThreatFiles
+Keywords: #CaveStory #Undertale #StudioPixel #Nicalis #CSE2 #ControlledOpposition #FanLabor #ReverseEngineering #DMCA #Nintendo #N64 #OpenSource #ParadigmThreatFiles
 
-**Last updated:** 2026-05-10 (**§1.7** **narration** **+** **gated-sword** **figure**; **§6–§7** **precedent** **/** **DMCA** **timeline**)
+**Last updated:** 2026-05-11 (**§3** **reader** **article** **cross-row**; **§1.8** **N64** **/** **talent-routing** **heuristic** **+** **§5.5** **nuance**; **§1.7** **narration** **+** **gated-sword** **figure**; **§6–§7** **precedent** **/** **DMCA** **timeline**)
 
 ---
 
@@ -198,6 +217,8 @@ Keywords: #CaveStory #Undertale #StudioPixel #Nicalis #CSE2 #ControlledOppositio
 **Evidence tiers:** **§2** lists **commonly reported** anchors; **§1** **overwrites** **none** **of** **them** **with** **proof**. **DMCA** **text** **on** **GitHub** **is** **primary** **for** **the** **notice** **itself**, **not** **for** **Pixel’s** **intent**.
 
 **§6–§7 causal discipline:** **§6.1** **does** **not** **establish** **that** **Nicalis** **2020** **legally** **caused** **Nintendo** **2024–2026** **actions** **or** **that** **Pixel** **had** **determinative** **power** **to** **rewrite** **fair-use** **outcomes** **for** **CSE2**. **§7** **is** **selective** **illustration** — **omissions** **are** **expected**.
+
+**§1.8** **/** **§5.5** **discipline:** **§1.8** **is** **industrial** **storytelling** **+** **working** **thesis**, **not** **a** **SKU** **inventory** **of** **every** **Nintendo** **home** **console** **2D** **title**; **§5.5** **blocks** **literal** **misreadings**. **§1.8’s** **“no** **innocent** **exceptions”** **clause** **is** **moral** **systems** **language** **—** **not** **a** **defamation** **vector** **against** **named** **individuals**.
 
 **Assistant / tooling:** File created with **drafting support** from **LLM** agents; **investigator** **supplied** **§1** **substance** **and** **directives**.
 
