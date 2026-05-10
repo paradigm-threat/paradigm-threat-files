@@ -1,8 +1,40 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-10T11:54:22.189Z",
+    "date": "2026-05-10T12:00:59.426Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop.md",
+        "href": "/influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
+        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (investigator metaphor figure)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-10T11:54:21.000Z",
+    "message": "Cave Story reader article: full plan (primer, tables, silver platter, media coda); §3 cross-row",
     "files": [
       {
         "status": "M",
@@ -770,18 +802,5 @@
         "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-07T15:38:03.000Z",
-    "message": "feat(relay): add default client hook hooks/client/get.jsx",
-    "files": [
-      {
-        "status": "A",
-        "path": "hooks/client/get.jsx",
-        "href": "/hooks/client/get.jsx"
-      }
-    ],
-    "images": []
   }
 ]

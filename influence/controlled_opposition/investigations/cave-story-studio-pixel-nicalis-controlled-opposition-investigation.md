@@ -10,7 +10,7 @@
 
 - **Structural rhyme (community → enclosure):** [*Homestuck* §5.3](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md#53-fan-edits--video-derivatives--pattern-rhyme-ip-enclosure-adjacent) (DMCA / fan-edit lane; **OpenMW vs MWSE** fork sorting); [OC ReMix §7.4–§7.5](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) (engine fork / legal chill **geometry**).
 - **Reader essay alignment:** [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) — **NDA** silence, **fan commons** as **subsidy**, **leader** distance from **community** harm.
-- **Readable companion:** [*Undertale*, *Cave Story*, and the gated sword](/influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop.md) — **non-gamer** **primer**, **silver** **platter** **(commons** **→** **corporate)**, **media** **consolidation** **coda**, **§1.7** **/** **§1.8** **themes**, **gated-sword** **figure**.
+- **Readable companion:** [*Undertale*, *Cave Story*, and the gated sword](/influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop.md) — **longform** **blog** **essay** (**primer-level** **explanations** **in** **prose**); **silver** **platter** **(commons** **→** **corporate)**; **media** **consolidation** **coda**; **§1.7** **/** **§1.8** **themes**; **gated-sword** **figure**; **Limits** **at** **end** (**not** **table-first**).
 - **Documented legal event (not hypothesis):** [GitHub DMCA — Nicalis, 19 Nov 2020](https://github.com/github/dmca/blob/master/2020/11/2020-11-19-nicalis.md) — takedown targeting **CSE2**-related repositories.
 
 ---
@@ -107,7 +107,7 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 | [*Homestuck* — CO & privatization](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) | **§5.3** — **DMCA** stress; **divide-and-sort** **pipelines**; **IP enclosure**. |
 | [SDA × GDQ × MSF](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) | **Community institution** → **branded** **LLC** **/** **opaque** **money** **routing** — **weaker** **direct** **rhyme**, **same** **temperature**. |
 | [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) | **NDA**, **black-box economics**, **leader** distance from **harm**. |
-| [*Undertale*, *Cave Story*, and the gated sword](/influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop.md) (reader article) | **Non-gamer** **primer**; **silver** **platter** **(commons** **→** **corporate)** **metaphor**; **media** **consolidation** **coda** **with** **primary** **links** **and** **falsifier-style** **hygiene**—**prose** **synthesis**, **not** **new** **evidence** **tier**. |
+| [*Undertale*, *Cave Story*, and the gated sword](/influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop.md) (blog essay) | **Longform** **Success**/**WYWF**-style **flow**; **primer-level** **explanations** **in** **prose**; **silver** **platter** **/** **media** **coda** **with** **primary** **links**; **Limits** **/** **disclaimers** **at** **end** **only**—**synthesis**, **not** **new** **evidence** **tier**. |
 
 ---
 
