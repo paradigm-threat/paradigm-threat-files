@@ -2,14 +2,15 @@
 
 ![*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure](cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png)
 
-**TL;DR:** **Author thesis (investigator-supplied):** *Doukutsu Monogatari* functioned as an **industry-grade** cultural product **misrepresented** as a **solo freeware legend** so that, once **community trust** and **open-engine labor** grew around it, **publisher-side IP enforcement** could **legally dismantle** competing fan/reverse-engineering pipelines — **mirroring** the **fan-labor → corporate capture** pattern tracked in **[OC ReMix](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md)** and **[*Homestuck*](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md)**. **§6** argues the **2020 Nicalis / CSE2** episode **helped normalize** aggressive **DMCA-first** posture for **fan reimplementations**; **§7** lists a **selective** **21st-century DMCA / anti-circumvention** timeline anchoring **Nintendo’s 2024–2026** emulator offensive. The same dossier holds **mainstream falsifiers** (public interviews, freeware provenance, **Nicalis** as distinct from **Nintendo**) and **does not** claim **court-grade proof** of **Nintendo**, **yakuza**, or **studio-faked timeline** without **independent primaries**.
+**TL;DR:** **Author thesis (investigator-supplied):** *Doukutsu Monogatari* functioned as an **industry-grade** cultural product **misrepresented** as a **solo freeware legend** so that, once **community trust** and **open-engine labor** grew around it, **publisher-side IP enforcement** could **legally dismantle** competing fan/reverse-engineering pipelines — **mirroring** the **fan-labor → corporate capture** pattern tracked in **[OC ReMix](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md)** and **[*Homestuck*](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md)**. **§6** argues the **2020 Nicalis / CSE2** episode **helped normalize** aggressive **DMCA-first** posture for **fan reimplementations**; **§7** lists a **selective** **21st-century DMCA / anti-circumvention** timeline anchoring **Nintendo’s 2024–2026** emulator offensive. **§1.7** archives **narration** contrasting **genuine** *Undertale*-scale **solo** **proof** with **opaque** **“followable”** **process**, plus the **sword-in-the-stone** / **gated** **shop** metaphor for **open** **commons** **vs.** **present** **enclosure**. The same dossier holds **mainstream falsifiers** (public interviews, freeware provenance, **Nicalis** as distinct from **Nintendo**) and **does not** claim **court-grade proof** of **Nintendo**, **yakuza**, or **studio-faked timeline** without **independent primaries**.
 
-**Status:** Open — **§1** is **verbatim investigator stance** (first-class **hypothesis** language); **§2–§4** mix **documented events** with **labeled speculation**; **§5** lists **contradictions** explicitly; **§6–§7** add **investigator conclusion** + **illustrative legal-tech chronology** (**not** exhaustive legal history).
+**Status:** Open — **§1** is **verbatim investigator stance** (first-class **hypothesis** language); **§1.7** adds **narration capture** (*Undertale* contrast, **sword** / **gated shop** metaphor); **§2–§4** mix **documented events** with **labeled speculation**; **§5** lists **contradictions** explicitly; **§6–§7** add **investigator conclusion** + **illustrative legal-tech chronology** (**not** exhaustive legal history).
 
 **Guide**
 
 - **Structural rhyme (community → enclosure):** [*Homestuck* §5.3](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md#53-fan-edits--video-derivatives--pattern-rhyme-ip-enclosure-adjacent) (DMCA / fan-edit lane; **OpenMW vs MWSE** fork sorting); [OC ReMix §7.4–§7.5](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) (engine fork / legal chill **geometry**).
 - **Reader essay alignment:** [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) — **NDA** silence, **fan commons** as **subsidy**, **leader** distance from **community** harm.
+- **Readable companion:** [*Undertale*, *Cave Story*, and the gated sword](/influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop.md) — **§1.7** **themes** in **article** **form** (**metaphor** **figure** **included**).
 - **Documented legal event (not hypothesis):** [GitHub DMCA — Nicalis, 19 Nov 2020](https://github.com/github/dmca/blob/master/2020/11/2020-11-19-nicalis.md) — takedown targeting **CSE2**-related repositories.
 
 ---
@@ -57,6 +58,18 @@ The investigator reads this as **continuous with** other **Paradigm Threat** lan
 > **Read:** That failure mode fits a model where **“Studio Pixel”** behaves like a **label for multiple IPs** **sold through** — **no durable creative control** after transfer — **not** like a **single human** **guardian** of every port.
 
 > **2020:** **Nicalis DMCA** activity against **CSE2**-family repos is read as **second betrayal geometry** — **same silence** / **same absence** of **creator-led defense** of **community reverse engineering** — aligned with **§1.1** thesis.
+
+### 1.7 Narration capture — *Undertale* contrast, open commons as “sword in the stone,” and the gated shop (investigator-supplied)
+
+The following **verbatim narration** is archived here as **sentiment** and **political theory language** — not a journalistic finding about named people beyond what **§1** already labels as **hypothesis**.
+
+> **Transcription (investigator):** Toby Fox’s *Undertale* is **precisely** what the investigator says the **industry** was trying to **prevent** from becoming the uncontested **public proof** — unless that proof could be **pre-colored** by a **controlled precedent**. *Cave Story*, on this read, served that **pre-coloring** role: sell the myth that **projects like this** exist **in the wild**, built by **individual fans alone** without anyone else’s help, and able to **challenge the biggest corporate products** of the era. **Toby’s version** is treated as **absolutely genuine** on that axis; **Studio Pixel’s** public process, by contrast, is read as **obscure**, **opaque**, and **useless as a how-to** for anyone who wanted to **actually follow** in those footsteps with only their own labor and **inspectable commons**.
+
+> **Open source / open publication metaphor:** Real open source behaves like the **sword in the stone** — in principle, **any kid** can walk up, grasp it, and inherit a **kingdom of possibility**. That is the power the investigator assigns to **inspectable code** and **public method**. The industry, on this thesis, **always understood** that threat and **always worked** to contain it.
+
+> **Gated “sword shop” (present state):** Official culture will still **feature the idea** that someone can **change the world with open source** or ship a game that **inspires everyone** the way older games did. Yet the system today is **jailed**, **walled**, **artificial**, and **legally constrained**: the sword is **on display** behind **hours**, **gates**, and **contracts** — after closing, **the kids go home** with **no stone left to touch**.
+
+![Open source as sword in the stone — gated exhibit, after hours (investigator metaphor figure)](cave-story-open-source-sword-gated-after-hours.png)
 
 ---
 
@@ -170,9 +183,9 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 
 ---
 
-Keywords: #CaveStory #StudioPixel #Nicalis #CSE2 #ControlledOpposition #FanLabor #ReverseEngineering #DMCA #Nintendo #ParadigmThreatFiles
+Keywords: #CaveStory #Undertale #StudioPixel #Nicalis #CSE2 #ControlledOpposition #FanLabor #ReverseEngineering #DMCA #Nintendo #OpenSource #ParadigmThreatFiles
 
-**Last updated:** 2026-05-10 (**§6–§7** **precedent** **/** **DMCA** **timeline**)
+**Last updated:** 2026-05-10 (**§1.7** **narration** **+** **gated-sword** **figure**; **§6–§7** **precedent** **/** **DMCA** **timeline**)
 
 ---
 

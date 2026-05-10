@@ -1,8 +1,68 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-10T01:47:12.989Z",
+    "date": "2026-05-10T11:33:48.139Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
+        "href": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
+        "href": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png",
+        "href": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png",
+        "href": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop.md",
+        "href": "/influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
+        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-10T01:47:11.000Z",
+    "message": "Cave Story CO dossier: §6 precedent conclusion, §7 DMCA timeline (2000s–2026)",
     "files": [
       {
         "status": "M",
@@ -719,28 +779,6 @@
       },
       {
         "src": "/science/telepathy/remote_viewing/aether-consciousness.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-07T13:06:49.000Z",
-    "message": "Cosmology: add minimal formalism scaffold and refresh article image.",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md",
-        "href": "/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/cosmology/the-incorrectly-scaled-universe.png",
-        "href": "/cosmos/cosmology/the-incorrectly-scaled-universe.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/cosmos/cosmology/the-incorrectly-scaled-universe.png"
       }
     ]
   }
