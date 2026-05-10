@@ -1,8 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-09T19:25:27.281Z",
+    "date": "2026-05-10T01:33:05.714Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
+        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-09T19:25:26.000Z",
+    "message": "add Substack mirror links to 12 published articles",
     "files": [
       {
         "status": "M",
@@ -719,73 +746,6 @@
       {
         "src": "/cosmos/cosmology/the-incorrectly-scaled-universe.png",
         "alt": "The Incorrectly Scaled Universe — curved-light aether cosmology"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-07T12:34:32.000Z",
-    "message": "Cosmology: add Incorrectly Scaled Universe dossier and article.",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/cosmology/a.md",
-        "href": "/cosmos/cosmology/a"
-      },
-      {
-        "status": "A",
-        "path": "cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md",
-        "href": "/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation"
-      },
-      {
-        "status": "A",
-        "path": "cosmos/cosmology/the-incorrectly-scaled-universe.md",
-        "href": "/cosmos/cosmology/the-incorrectly-scaled-universe"
-      },
-      {
-        "status": "A",
-        "path": "cosmos/cosmology/the-incorrectly-scaled-universe.png",
-        "href": "/cosmos/cosmology/the-incorrectly-scaled-universe.png"
-      },
-      {
-        "status": "M",
-        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
-        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
-      },
-      {
-        "status": "M",
-        "path": "page.md",
-        "href": "/page"
-      },
-      {
-        "status": "M",
-        "path": "science/maxwell_aether/02-did-maxwell-prove-the-aether.md",
-        "href": "/science/maxwell_aether/02-did-maxwell-prove-the-aether"
-      }
-    ],
-    "images": [
-      {
-        "src": "/cosmos/cosmology/the-incorrectly-scaled-universe.png"
-      },
-      {
-        "src": "/influence/conspiracy/embedding.jpg",
-        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
-      },
-      {
-        "src": "/influence/conspiracy/scientific_truth.jpg",
-        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
-        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
-      },
-      {
-        "src": "/cosmos/mars/mars_life.jpg",
-        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
-      },
-      {
-        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
-        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
       }
     ]
   }
