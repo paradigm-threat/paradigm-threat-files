@@ -85,6 +85,8 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
     *Written and narrated by Ari Asulin, with drafting and research support from LLM agents.*  
     Minor wording drift is fine; **keep the name** and the fact that **LLM tools** helped produce the page. That line **replaces** the need for repeated “**as the writer**,” “**my position**,” or “**who is speaking**” throat-clearing in the body.
 
+**Pre-publish pass (easy misses):** The line **immediately after** `# Title` must be the **subtitle** (plain text, before any `![` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede.
+
 ---
 
 ## Length (Substack / email)
@@ -145,4 +147,4 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 
 ---
 
-**Last updated:** 2026-05-12
+**Last updated:** 2026-05-10

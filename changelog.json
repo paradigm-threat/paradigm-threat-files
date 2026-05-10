@@ -1,8 +1,51 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-10T12:50:22.738Z",
+    "date": "2026-05-10T12:51:35.683Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",
+        "href": "/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
+        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
+        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (metaphor figure)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png",
+        "alt": "Open source as sword in the stone — gated exhibit, alternate framing (metaphor figure)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (wider still)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
+        "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-10T12:50:21.000Z",
+    "message": "docs: articles use absolute site URLs like blog posts",
     "files": [
       {
         "status": "M",
@@ -730,33 +773,6 @@
     "images": [
       {
         "src": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png"
-      },
-      {
-        "src": "/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
-        "alt": "33 Thomas Street / AT&T Long Lines Building / Titanpointe — the canonical example of a windowless downtown tower whose cover story turned out to be only part of the story"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-09T14:09:03.000Z",
-    "message": "PURSUE 01 (seventh pass): two-category UAP framing + CIA-1947 secrecy umbrella for Type B",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md",
-        "href": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/what-are-you-waiting-for-witness-2014.png",
-        "alt": "Witness reconstruction graphic — Phoenix, Arizona, Tuesday April 22, 2014, ~1:24 AM: stadium-sized fully opaque black triangle, ~7 lights, ~1,000 ft altitude, drifting on a constant heading along a residential street for ~5 minutes, watched by the author and two roommates, before receding into Phoenix's downtown light pollution and disappearing there. Pull-quote: \"I refuse to believe that my roommates and I simultaneously mistook a meteor shower for a stadium-sized black triangle drifting at a thousand feet on a constant heading for five minutes.\" Author-made reconstruction graphic, **not** a photograph of the 2014 event."
       },
       {
         "src": "/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
