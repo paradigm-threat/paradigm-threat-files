@@ -1,8 +1,78 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-10T12:51:35.683Z",
+    "date": "2026-05-11T13:51:22.061Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
+        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/success-by-any-means-necessary.md",
+        "href": "/influence/controlled_opposition/success-by-any-means-necessary"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/what-are-you-waiting-for.md",
+        "href": "/influence/controlled_opposition/what-are-you-waiting-for"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
+        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
+        "alt": "*Chrono Trigger* / Mars remote viewing — predictive-programming composite (author)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
+        "alt": "Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png",
+        "alt": "Mars Exploration 1984 — remote viewing investigation composite (same release, alternate layout)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
+        "alt": "Mars Exploration 1984 — PDF digest companion figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/success-by-any-means-necessary.png",
+        "alt": "Success — by any means necessary — paying audience, black-box pipeline, NDAs, and leader accountability"
+      },
+      {
+        "src": "/influence/controlled_opposition/success-by-any-means-necessary-info.png",
+        "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
+      },
+      {
+        "src": "/influence/controlled_opposition/what-are-you-waiting-for.png",
+        "alt": "What Are You Waiting For? — deferral, headlines, calm-by-waiting (article art)"
+      },
+      {
+        "src": "/influence/controlled_opposition/what-are-you-waiting-for2.png",
+        "alt": "What Are You Waiting For? — alternate article art"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-10T12:51:34.000Z",
+    "message": "articles: add required subtitle to Cave Story reader essay; doc pre-publish note",
     "files": [
       {
         "status": "M",
@@ -746,37 +816,6 @@
       {
         "src": "/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
         "alt": "33 Thomas Street / AT&T Long Lines Building in Lower Manhattan — a 550-foot windowless Brutalist slab that was a telecom switching center and turned out to also be the NSA's TITANPOINTE surveillance hub. The canonical example of a downtown windowless tower whose cover story was true and incomplete at the same time."
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-09T14:18:02.000Z",
-    "message": "PURSUE 01 (eighth pass): correct sighting location to east Mesa, not downtown Phoenix",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md",
-        "href": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png",
-        "href": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png"
-      },
-      {
-        "src": "/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
-        "alt": "33 Thomas Street / AT&T Long Lines Building / Titanpointe — the canonical example of a windowless downtown tower whose cover story turned out to be only part of the story"
       }
     ]
   }
