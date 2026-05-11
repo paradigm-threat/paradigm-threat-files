@@ -1,8 +1,39 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-11T13:51:22.061Z",
+    "date": "2026-05-11T14:04:30.928Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
+        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
+        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
+        "alt": "*Chrono Trigger* / Mars remote viewing — predictive-programming composite (author)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
+        "alt": "Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-11T13:51:20.000Z",
+    "message": "Document OC ReMix 2026 Chrono/CIA thread test, staff reply, and governance thesis",
     "files": [
       {
         "status": "M",
@@ -794,28 +825,6 @@
       {
         "src": "/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
         "alt": "33 Thomas Street / AT&T Long Lines Building / Titanpointe — the canonical example of a windowless downtown tower whose cover story turned out to be only part of the story"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-09T14:28:15.000Z",
-    "message": "PURSUE 01 (article): shorten 2014 east-Mesa testimony section",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md",
-        "href": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png",
-        "alt": "Witness reconstruction — east Mesa, Arizona (Phoenix metro area), Tuesday April 22, 2014, ~1:24 AM: black triangle over a residential street; author-made reconstruction, not a photograph."
-      },
-      {
-        "src": "/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
-        "alt": "33 Thomas Street / AT&T Long Lines Building in Lower Manhattan — a 550-foot windowless Brutalist slab that was a telecom switching center and turned out to also be the NSA's TITANPOINTE surveillance hub. The canonical example of a downtown windowless tower whose cover story was true and incomplete at the same time."
       }
     ]
   }
