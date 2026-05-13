@@ -4,7 +4,7 @@
 
 **Scope:** The Brantley Highway 82 fire (Atkinson / Pearson, GA — April 20–27, 2026), cross-referenced with the Lahaina, Maui fire (August 8, 2023), the Camp Fire (Paradise, CA — November 2018), and the January 2025 Los Angeles fires (Pacific Palisades, Eaton). The unifying claim: these are not organic wildfires; they are *radiation fires* — the signature of a directed-energy weapon (DEW) deployed against civilian populations, and subsequently attributed to mundane wildfire ignition sources.
 
-**Cross-ref:** [Weather Modification Investigation](weather-modification-investigation.md) | [Tornado–Power Station Investigation](tornado-power-station-investigation.md) | [Havana Syndrome — Gaslighting on Directed Energy](../havana_syndrome/havana-syndrome-investigation.md)
+**Cross-ref:** [Reader article — Rural Burn Zones Need a Density Moratorium, Not a DEW Investigation](../rural-burn-zones-density-moratorium-not-dew-investigation.md) | [GA moratorium action template](brantley-burn-zone-density-moratorium-template.md) | [Weather Modification Investigation](../weather-modification-investigation.md) | [Tornado–Power Station Investigation](../tornado-power-station-investigation.md) | [Havana Syndrome — Gaslighting on Directed Energy](../../havana_syndrome/havana-syndrome-investigation.md)
 
 ![Atkinson, Georgia / Brantley Highway 82 fire — radiation-weapon investigation: signature anomalies of vaporized structures adjacent to intact pine canopy](atkinson-georgia-radiation-weapon-investigation.png)
 
@@ -33,7 +33,7 @@
 - **Bernard Eastlund, US Patent 4,686,605** (1987): ionospheric heating, 40-mile-square HF transmitter — basis for HAARP.
 - **Active Denial System (ADS):** USAF/Raytheon truck-mounted 95 GHz millimeter-wave anti-personnel weapon. Public, deployed (briefly) Afghanistan 2010.
 - **NASEM (Dec 2020):** "directed RF energy" the most plausible cause of Havana Syndrome.
-- **HSI 2024 acquisition (reported January 2026, CBS News):** Homeland Security Investigations bought, with DoD funding, a backpack-sized pulsed-RF emitter containing Russian components; testing ongoing 12+ months. ([Havana Syndrome investigation](../havana_syndrome/havana-syndrome-investigation.md))
+- **HSI 2024 acquisition (reported January 2026, CBS News):** Homeland Security Investigations bought, with DoD funding, a backpack-sized pulsed-RF emitter containing Russian components; testing ongoing 12+ months. ([Havana Syndrome investigation](../../havana_syndrome/havana-syndrome-investigation.md))
 - **Norwegian self-experiment (reported February 2026, *Washington Post*):** a skeptical government scientist built a pulsed-microwave emitter intending to disprove the theory; tested it on himself; developed Havana Syndrome symptoms.
 
 ---
@@ -168,7 +168,7 @@ This is the strongest anomaly in the petition. The orthodox explanation requires
 
 **Official-side explanation:** **Documented count is 87 homes** (April 23 News4Jax, GPB). No subsequent reporting through April 27 increases that beyond ~100. The 1,000+ claim appears to conflate Atkinson with **Lahaina** (~2,200 structures destroyed) or the **2025 LA fires** (~16,000 structures).
 
-**Verdict:** The Atkinson-specific claim is **factually wrong**. This is one place where the petition overstates and is easy to refute. Brantley County was destructive but on the order of 87 structures, not 1,000+. *This kind of factual overshoot is the principal vector by which the broader signature claim gets dismissed in mainstream coverage — which is the same gaslighting mechanism documented in the [Havana Syndrome investigation](../havana_syndrome/havana-syndrome-investigation.md): mix one verifiable observation with one easily-falsified overstatement, and the entire claim can be retired by debunking the overstatement.*
+**Verdict:** The Atkinson-specific claim is **factually wrong**. This is one place where the petition overstates and is easy to refute. Brantley County was destructive but on the order of 87 structures, not 1,000+. *This kind of factual overshoot is the principal vector by which the broader signature claim gets dismissed in mainstream coverage — which is the same gaslighting mechanism documented in the [Havana Syndrome investigation](../../havana_syndrome/havana-syndrome-investigation.md): mix one verifiable observation with one easily-falsified overstatement, and the entire claim can be retired by debunking the overstatement.*
 
 ### Test 5: Glass vaporization temperature math (Claim A5)
 
@@ -194,7 +194,7 @@ This is the strongest anomaly in the petition. The orthodox explanation requires
 
 **Official-side explanation:** Not directly addressed in the MFD/ATF joint report. The 101 confirmed Lahaina dead include people who ran into the ocean and drowned; rigor mortis fixing a body in a swimming posture is a known forensic phenomenon, particularly with rapid death and cold-water immersion. The "radiated stiff" framing is the *witness's interpretation* of the same physical observation a coroner would call "rigor mortis in characteristic posture."
 
-**Where the official explanation has a gap:** No public release of the full Lahaina coroner findings, with cause-of-death distributions, posture observations, and any detection of **non-thermal injury patterns** (cataracts, characteristic burn distributions, RF-burn signature, blood chemistry anomalies). The data needed to discriminate "drowned with rigor mortis" from "directed-energy fatality" is exactly the data that has not been released. This is a managed-narrative pattern. Compare the [Havana Syndrome investigation](../havana_syndrome/havana-syndrome-investigation.md) — UPenn/JAMA documented objective brain injury, while FBI BAU diagnosed mass psychogenic illness *without interviewing the victims*. Same playbook.
+**Where the official explanation has a gap:** No public release of the full Lahaina coroner findings, with cause-of-death distributions, posture observations, and any detection of **non-thermal injury patterns** (cataracts, characteristic burn distributions, RF-burn signature, blood chemistry anomalies). The data needed to discriminate "drowned with rigor mortis" from "directed-energy fatality" is exactly the data that has not been released. This is a managed-narrative pattern. Compare the [Havana Syndrome investigation](../../havana_syndrome/havana-syndrome-investigation.md) — UPenn/JAMA documented objective brain injury, while FBI BAU diagnosed mass psychogenic illness *without interviewing the victims*. Same playbook.
 
 **Verdict:** The witness account is consistent with both rigor-mortis-in-drowning **and** DEW lethality. Without forensic data, neither can be excluded. The non-release of the forensic data is itself a data point.
 
@@ -230,6 +230,25 @@ The empirical content of this subhypothesis is **testable and partially supporte
 7. **Pacific Palisades (Jan 2025)** is the partial counter-example — wealthy and D-leaning. But the displacement pattern is the same: insurance-driven sell-offs to investor consolidators.
 
 The unifying empirical claim is not *partisan* in a narrow sense; it is **geographic-demographic.** The fires keep landing on **politically distinct, low-density, rooted, property-owning local electorates** — disproportionately Republican in the US cases, disproportionately conservative or culturally distinct in the non-US cases — and the post-fire rebuild frameworks favor **densification, investor consolidation, and demographic substitution** (whether via insurance-driven sell-offs, "approved reconstruction" rules that price out small holders, stacked-housing zoning changes, or rural-to-urban migration pressure).
+
+#### Test 8c: Gradual acclimation — smallest attack first, ramp by public reaction
+
+**Author strategic read (motivation context):** The operative model is not a single nationwide shock meant to look like apocalypse on the evening news. It is **the smallest credible version of the operation first** — enough damage to open parcels, stress insurance markets, and seed fear, but not so much that the county wakes up unified and organized. **Brantley fits that profile precisely:** ~22,600 acres scarred, **~87 structures** destroyed, **zero** reported civilian deaths — catastrophe at the scale of landscape, selective loss at the scale of homesteads. That is not the footprint of "erase the county." It is the footprint of **acclimate the county**.
+
+The escalation logic, if this model is correct, runs on a feedback loop:
+
+| Phase | What happens | What public perception is tested |
+|-------|----------------|----------------------------------|
+| **1 — Minimum viable event** | Large burn scar, relatively few homes lost, official ignition story ready, fringe DEW counter-narrative inflates and divides | Do people fight each other (believers vs. mockers) instead of watching permits? |
+| **2 — Rebuild window** | Insurance pressure, investor buyouts, first multifamily or upzoning proposals framed as "recovery" | Do locals accept density as inevitable humanitarian response? |
+| **3 — Calibration** | If Phase 1–2 pass without moratorium coalitions, county commission pushback, or cross-partisan permit watches — **repeat or intensify** in the next vulnerable county | Is the electorate habituated to post-disaster character replacement? |
+| **4 — Ramp** | Events scale in acreage, structure count, or frequency only where prior events did not produce organized resistance | Public reaction becomes the **control variable** for the next increment |
+
+This is why sensational petition language (**1,000 vaporized homes**, **9/11 scale**) is counterproductive to clear analysis *and* may be functionally aligned with the acclimation strategy: it trains the public to expect **total annihilation** as the only kind of attack worth responding to. When the actual event is **gradual and partial**, the public concludes "it wasn't that bad" — or fights over lasers while the rebuild proceeds. The **controlled-opposition comment thread** (mockery + inflation + blackpill) is not only divide-and-conquer; it is **perception management for a low-yield first pass**, measuring whether the county fractures before the next increment.
+
+**Implication for defenders:** The correct response to a *gradual* operation is not to wait for proof of the *maximal* operation. It is to treat **the first increment** as the policy battle — moratorium, parcel watch, unified county pressure — because that is the **cheapest point to stop the ramp**. If Brantley rebuilds without organized resistance, the feedback loop reads: proceed.
+
+**Verdict:** Unprovable as leaked doctrine without internal documents. **Strongly consistent** with the observed Brantley scale (huge scar / few homes), with the post-fire incentive stack, and with the managed public-discourse pattern documented in Section XI. This investigation adopts gradual acclimation as the **working escalation model** paired with Test 8b's consolidation outcome.
 
 This is a substantially **harder claim to dismiss** than the diffuse "smart island land grab" framing, because each of its components is *individually documented*:
 
@@ -273,7 +292,7 @@ Strip away the motive framing and the easily-falsified add-ons. What remains, as
 
 The official explanation **for each event individually** is internally consistent. The question is whether the **pattern across events** — four high-profile, attributed-to-utility, drought-and-wind-driven WUI conflagrations in 8 years, each with the same signature anomalies that mainstream science addresses only in part, in each case with social-media DEW claims that emerge within 48 hours and are uniformly debunked by the same handful of fact-check outlets — is **coincidence**, **convergent natural cause** (climate + grid + WUI sprawl), or **evidence of a deployed capability** that the public record is being managed against.
 
-The Havana Syndrome record (see the [companion investigation](../havana_syndrome/havana-syndrome-investigation.md)) demonstrates that **managed denial is the documented institutional response to an exposed directed-energy capability**, and that the same institutional actors do this *systematically and repeatedly* over years, alternating denial / psychogenic-illness diagnosis / foreign-actor attribution / silent compensation. There is no a priori reason the same actors would not deploy the same playbook for a different DEW-class capability deployed at a different scale.
+The Havana Syndrome record (see the [companion investigation](../../havana_syndrome/havana-syndrome-investigation.md)) demonstrates that **managed denial is the documented institutional response to an exposed directed-energy capability**, and that the same institutional actors do this *systematically and repeatedly* over years, alternating denial / psychogenic-illness diagnosis / foreign-actor attribution / silent compensation. There is no a priori reason the same actors would not deploy the same playbook for a different DEW-class capability deployed at a different scale.
 
 ---
 
@@ -302,11 +321,11 @@ The other tests have not been performed at public standard. The data exists in p
 
 This investigation is not a standalone. The same physics, the same institutional actors, and the same managed-denial playbook appear in three other files:
 
-1. **[Weather Modification Investigation](weather-modification-investigation.md)** — Operation Popeye proved the US runs classified weather warfare; ENMOD signatories produce 83% of global CO₂; HAARP-class HF heaters exist in every major military power. The ionospheric-heater + tropospheric-particulate dual-mechanism turns the lower atmosphere into a tunable resonant cavity. *Directed energy at continental scale.*
+1. **[Weather Modification Investigation](../weather-modification-investigation.md)** — Operation Popeye proved the US runs classified weather warfare; ENMOD signatories produce 83% of global CO₂; HAARP-class HF heaters exist in every major military power. The ionospheric-heater + tropospheric-particulate dual-mechanism turns the lower atmosphere into a tunable resonant cavity. *Directed energy at continental scale.*
 
-2. **[Tornado–Power Station Investigation](tornado-power-station-investigation.md)** — The December 9, 2023 Nashville NES substation event: a tornado passed over a substation, a massive discharge occurred, and witnesses reported the tornado appeared to weaken. Patents exist (US 10,433,408, US 11,825,776) for electromagnetic tornado suppression. *Directed energy at regional scale.*
+2. **[Tornado–Power Station Investigation](../tornado-power-station-investigation.md)** — The December 9, 2023 Nashville NES substation event: a tornado passed over a substation, a massive discharge occurred, and witnesses reported the tornado appeared to weaken. Patents exist (US 10,433,408, US 11,825,776) for electromagnetic tornado suppression. *Directed energy at regional scale.*
 
-3. **[Havana Syndrome — Gaslighting on Directed Energy](../havana_syndrome/havana-syndrome-investigation.md)** — The HSI 2024 device acquisition and the 2026 Norwegian self-experiment confirm a pulsed-RF emitter that produces neurological injury in human targets. The eight-year managed-denial timeline is the documented institutional response template for any exposed DEW capability. *Directed energy at individual scale.*
+3. **[Havana Syndrome — Gaslighting on Directed Energy](../../havana_syndrome/havana-syndrome-investigation.md)** — The HSI 2024 device acquisition and the 2026 Norwegian self-experiment confirm a pulsed-RF emitter that produces neurological injury in human targets. The eight-year managed-denial timeline is the documented institutional response template for any exposed DEW capability. *Directed energy at individual scale.*
 
 The Atkinson / Lahaina / Paradise / LA pattern is consistent with **directed energy at structure-and-vehicle scale** — sitting between the individual (Havana) and the regional (tornado / hurricane modification) scales — using the same underlying physics: pulsed or continuous RF coupling preferentially into conductive and water-bearing targets.
 
@@ -314,7 +333,56 @@ The pattern is also consistent with **mundane WUI-fire physics + correlated soci
 
 ---
 
-## VIII. Open Questions
+## VIII. Moratorium Policy Landscape — What Exists, What's Missing, and Georgia Action Steps
+
+The forensic questions in this dossier (Section IX) may take years to settle. The **rebuild zoning clock** does not wait. Readers who accept the working motive hypothesis in Section IV Test 8b — or who simply want honest rural recovery without investor-led densification — need a **policy path that does not require winning the DEW argument**.
+
+### What already exists (comparative landscape)
+
+| Jurisdiction | Effort | Relevance to Brantley |
+|--------------|--------|------------------------|
+| **Brantley County, GA (2026)** | WTOC: **Citizens United** organizer Tanya Tomanek and survivors — *"Brantley county's not for sale"* | Anti-developer sentiment; **no filed moratorium bill or public petition yet** |
+| **Brantley County, GA** | County **streamlining rebuild permits** via recovery website | Pro-rebuild window — attach **density conditions** before multifamily permits appear |
+| **Georgia HB 1315** (2025–26, **died** Apr 2026) | Would have **capped local moratoria at 180 days** | State trend runs **opposite** a ten-year burn-scar moratorium; expect preemption arguments |
+| **California — Newsom EO N-32-25** (Jul 2025) | Suspended **SB 9** lot-split/duplex rules in **VHFSZ within Palisades & Eaton burn scars** | Closest executive precedent for **local control inside burn zones** |
+| **Los Angeles — Mayor Bass EO 9** | Prohibited **SB 9 applications** in Palisades burn VHFSZ | Local burn-scar carve-out |
+| **San Diego — openPetition.org** | Emergency moratorium petition on **infill doubling density** in fire-hazard zones | Petition structure model |
+| **California — Change.org** | Multiple petitions to **halt SB 9 / growth mandates in high fire-hazard zones** | Coalition + signature model |
+| **Maui — Bill 105** | **Rebuild as-it-was** for nonconforming structures | Character preservation (not a moratorium) |
+| **Maui — Bill 103** | **Increase** density post-Lahaina; **opposed** by fire survivors | The outcome moratorium campaigns aim to block |
+| **Marshall Fire, CO** | Density-vs-wildfire tension; Boulder large-home cap | Burn-scar **multifamily** moratorium not adopted |
+| **Jasper, AB** | **Increased** density post-fire | Counterexample — what happens without a moratorium |
+| **Spokane, WA** | **1-year moratorium** on new subdivisions in wildfire-stressed Latah Valley | Moratorium mechanics (different rural context) |
+
+**Gap:** As of May 2026, no Georgia statute, county ordinance, or public petition implements a **rural burn-scar multifamily density moratorium**. The reader article and the **[Brantley moratorium action template](brantley-burn-zone-density-moratorium-template.md)** (draft resolution, petition text, commission letter, referendum question, speaker notes) fill that gap for local organizers.
+
+### Ten steps a Georgia reader can take
+
+1. **Map the scar and the ~87 structures** — Brantley GIS / tax assessor parcels inside the [Hwy 82 fire perimeter](https://fires.cornea.is/fire/georgia_hwy-82_2026-04-21-160117); publish a public spreadsheet (parcel ID, owner, pre-fire use, LLC acquisitions, permit status).
+
+2. **File Georgia Open Records Act requests** — all multifamily, apartment, or upzoning applications inside the burn perimeter since April 20, 2026; developer pre-application meetings; recovery-plan documents mentioning density or workforce housing.
+
+3. **Request a county commission agenda item** — first reading of a burn-zone density moratorium resolution (draft in template). Bring **unified speakers**: DEW skeptics + believers + landowners + survivors. Lead with scale: *22,600 acres / ~87 homes / zero reported civilian deaths* — and *"Brantley County is not for sale."*
+
+4. **Launch a county petition** (paper + online) — target 5–10% of registered voters in Brantley or county-counsel threshold; partner with existing **Citizens United** networks rather than splitting into rival factions.
+
+5. **Contact state legislators** — Brantley sits in **House District 177** / **Senate District 3** (verify current boundaries). Oppose revival of **HB 1315-style** moratorium caps for declared wildfire disaster counties; ask for a simple **enabling clause** if counsel says county moratoria are capped at 180 days.
+
+6. **Contact congressional offices** (constituent services) — request FEMA / HUD / USDA guidance letters supporting **owner-occupied single-family** recovery and **local zoning sovereignty** in disaster counties. Center **disaster capital and rezoning**, not DEW.
+
+7. **Run a monthly permit watch** — review new permits, LLC deed transfers, auction listings; invite skeptics and believers; post minutes publicly.
+
+8. **Pitch local media** — *"County-sized fire, gym-sized home count — why are we talking about lasers instead of what gets built next?"* Offer the [print handout PDF](../rural-burn-zones-density-moratorium-handout.pdf).
+
+9. **Pre-buttress HB 1315-style arguments** — a ten-year burn-scar moratorium is **disaster-recovery character protection with annual public review**, not a rolling permit delay; streamlining **owner** rebuild is not the same as inviting **investor** multifamily.
+
+10. **If the commission says no** — ask counsel about an **interim urgency ordinance** (90–180 days) freezing upzoning and multifamily while a **binding referendum** is prepared (ballot language in template).
+
+This path **unites** comment-section factions identified in Section XI: believers who see post-fire land grabs, skeptics who want honest wildfire recovery, and locals who already said the county is not for sale. It does not require adjudicating directed energy. It requires **organizing before the first multifamily permit hits the agenda**.
+
+---
+
+## IX. Open Questions
 
 1. **Will Chief Robbie Stone respond to the citizen petition?** Has any fire chief at Paradise, Maui, or Los Angeles publicly addressed the anomaly photo set in technical terms, or only at the *cause of fire* (utility infrastructure) level?
 
@@ -336,7 +404,7 @@ The pattern is also consistent with **mundane WUI-fire physics + correlated soci
 
 ---
 
-## IX. Assessment
+## X. Assessment
 
 **CONFIRMED:** A devastating wildfire occurred in Brantley County, Georgia from April 20–27, 2026, ignited near US Highway 82 and destroying ~87 homes across ~22,000 acres without civilian fatalities.
 
@@ -350,7 +418,7 @@ The pattern is also consistent with **mundane WUI-fire physics + correlated soci
 
 **CONFIRMED:** The Substack petition overstates the casualty count ("over 1,000 homes" vs. the documented 87) and includes an indefensible add-on ("DEWs don't like Blue"). These overstatements are the easy debunk vector that allows mainstream coverage to retire the entire pattern claim.
 
-**PROBABLE:** The institutional response to DEW claims about wildfires is the same managed-denial / mass-psychogenic-illness / debunking-the-easy-claim playbook that the [Havana Syndrome record documents](../havana_syndrome/havana-syndrome-investigation.md). This does not by itself prove an underlying capability is being concealed — but it is the same response shape that *was* found to be concealing the Havana Syndrome capability.
+**PROBABLE:** The institutional response to DEW claims about wildfires is the same managed-denial / mass-psychogenic-illness / debunking-the-easy-claim playbook that the [Havana Syndrome record documents](../../havana_syndrome/havana-syndrome-investigation.md). This does not by itself prove an underlying capability is being concealed — but it is the same response shape that *was* found to be concealing the Havana Syndrome capability.
 
 **UNDER INVESTIGATION:** Whether the ground-truth surface-vegetation distribution between unburned trees and razed structures at Brantley, Lahaina, Paradise, and LA matches the orthodox ember-storm model or shows a meaningful fraction of cases incompatible with surface-flame energy delivery.
 
@@ -364,7 +432,7 @@ The pattern is also consistent with **mundane WUI-fire physics + correlated soci
 
 ---
 
-## X. Comment-Section Field Analysis: Controlled Opposition in the Wild
+## XI. Comment-Section Field Analysis: Controlled Opposition in the Wild
 
 The *Protect and Alert* post drew **157 comments across 61 top-level threads** (snapshot May 12, 2026 via Substack's public comments API). This is a unusually rich field sample of how a directed-energy claim is received in real time on a sympathetic platform — and how *opposition* shows up in the comment section before any institutional debunk runs.
 
@@ -439,6 +507,8 @@ Roughly **80% of unique commenters accept or engage seriously with the DEW thesi
 
 **Verdict: CO pattern — demoralization + redirect.** The structure ("agree the problem is real, but redirect every action either to (a) my own substack or (b) the proposition that nothing works") is the most damaging CO mode because it is contagious in the comment section and saps mobilization energy. Whether Blue_French_Qtr is paid or merely temperamentally cynical, the *behavioral output* is identical to a paid demoralization agent.
 
+**Identity update (May 2026):** **Blue_French_Qtr** is the public brand of **Christopher Barton Julian** (**CB St. Julian of MalaCare**) at [brsinv.com](https://brsinv.com). The same operator publishes titles such as [US Federal Judicial zionist whoremongers of mammon](https://brsinv.com/2026/04/28/us-federal-judicial-zionist-whoremongers-of-mammon/) while demoralizing Brantley activists in-comment. Full argument/counter-argument tables: [BRSINV / St. Julian CO investigation](/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md); reader essay: [Captured courts, wrong villain](/influence/controlled_opposition/captured-courts-wrong-villain.md).
+
 **5. Michael Myrick** (newly identified). 6 comments, mockery-bracketing:
 
 - Opens: "🤔 you sure it wasn't a meth lab……" — mockery
@@ -500,7 +570,7 @@ The most important inference from this comment-section field analysis is one the
 
 The logic is symmetric. Resources — paid, ideological, or temperamental — are not deployed against claims that are *actually* fringe. Flat-Earth Substacks with 200 subscribers do not draw five distinct CO behavioral profiles in the first 156 comments. A post about a directed-energy weapon attack on rural Georgia draws Posey's antisemitism dog-whistle, Chlarson's thought-terminating cliché, Chronodamus's blackpill, Blue_French_Qtr's redirect-and-demoralize, and Myrick's mockery-bracketing **because the post is dangerous to a narrative that needs protecting.** If it were not dangerous, the same operators would be elsewhere.
 
-This is the same inference structure as the [Havana Syndrome investigation](../havana_syndrome/havana-syndrome-investigation.md): the *response shape* is the evidence. Eight years of oscillating denial-acknowledgment cycles by twelve federal agencies and seven intelligence services was not the response shape of a non-existent weapon — it was the response shape of an *exposed* weapon being managed. Identifying the response shape was how the underlying capability got recognized in the public record.
+This is the same inference structure as the [Havana Syndrome investigation](../../havana_syndrome/havana-syndrome-investigation.md): the *response shape* is the evidence. Eight years of oscillating denial-acknowledgment cycles by twelve federal agencies and seven intelligence services was not the response shape of a non-existent weapon — it was the response shape of an *exposed* weapon being managed. Identifying the response shape was how the underlying capability got recognized in the public record.
 
 The Atkinson comment thread is the **micro-scale** version of the same pattern. The five CO operators showed up within 48 hours of publication. They did not arrive to *discover* whether the claim was true. They arrived to *contain* it.
 
@@ -538,7 +608,7 @@ The author's instinct — to drive the trolls off her page — is correct in int
 1. **Name the pattern publicly.** Pin a comment that says "I see five behavioral patterns of controlled opposition in this thread: mockery without substance, antisemitism dog-whistles, thought-terminating clichés, blackpill demoralization, and self-promotion redirects. If you are doing any of these, you are not engaging in good faith and your comment will be ignored. If you are arguing in good faith — citing physics, sharing local knowledge, asking specific forensic questions — you are welcome here even if you disagree with me."
 2. **Engage the good-faith skeptics substantively and visibly.** Volonakis's sensor-detectability point and Boda's aluminum-siding-residue point are *better arguments than the mocker's mockery*. Engaging those publicly draws the audience's attention to the strongest counter-claims, demonstrates that the substance can withstand them, and **starves the mockers of the emotional fuel they need**.
 3. **Let the mockers mock into the void.** They cannot escalate without exposing themselves. Posey, having delivered "Jewish space lasers" and gotten no emotional response, would have to either *defend* the substance of his temperature numbers (in which case the substance becomes the conversation) or *leave* (in which case the audience watches him leave).
-4. **Aggregate the CO behavioral data.** This is what the present investigation does. Once a thread's CO operators are catalogued by name and behavioral signature, the *next* thread can be inoculated by linking to the catalogue: "We have seen this pattern before — see Section X of the Atkinson investigation."
+4. **Aggregate the CO behavioral data.** This is what the present investigation does. Once a thread's CO operators are catalogued by name and behavioral signature, the *next* thread can be inoculated by linking to the catalogue: "We have seen this pattern before — see Section XI of the Atkinson investigation."
 
 The general principle: **good-faith skeptics are an asset to a truthful claim; controlled opposition operators are a signal that the claim is hitting a nerve. Treat them differently.**
 
@@ -584,7 +654,7 @@ This is the form of epistemic ground-truth that institutional outlets have spent
 
 The implication for this investigation is concrete: **the working motive hypothesis adopted in Section IV Test 8b is not a paranoid extrapolation from sparse data. It is a synthesis the affected population has already produced, working from publicly available evidence, without expert input.** The professional investigative class — journalists, fact-checkers, academic disaster sociologists — has refused to articulate this synthesis. The people whose homes are being burned have articulated it for them. That asymmetry is itself a data point about who the professional investigative class is working for.
 
-When the institutional response is *managed denial* (as the [Havana Syndrome investigation](../havana_syndrome/havana-syndrome-investigation.md) documents in eight-year detail), the substitute for institutional analysis is **distributed lay synthesis from observable local evidence** — which is exactly what the *Protect and Alert* comment thread contains. It is not a substitute for forensic data (which still needs to be obtained from the burn scar, the coroner, the base-station logs, the satellite IR). But it is a *valid epistemic starting point* — and on the motive question specifically, it is **the only synthesis being offered at all.**
+When the institutional response is *managed denial* (as the [Havana Syndrome investigation](../../havana_syndrome/havana-syndrome-investigation.md) documents in eight-year detail), the substitute for institutional analysis is **distributed lay synthesis from observable local evidence** — which is exactly what the *Protect and Alert* comment thread contains. It is not a substitute for forensic data (which still needs to be obtained from the burn scar, the coroner, the base-station logs, the satellite IR). But it is a *valid epistemic starting point* — and on the motive question specifically, it is **the only synthesis being offered at all.**
 
 This investigation adopts that synthesis as its working motive hypothesis. No expert commentary required for the motive analysis. The forensic-evidence analysis (Section VI's discriminating tests) remains independent and still needs to be performed. Those are separate questions and should remain separate. Motive is testable from county-level zoning, voting, demographic, and insurance data — none of which require a physics laboratory. The forensic question of *who fired the shot* requires the lab. The motive question of *who benefits* does not.
 

@@ -56,6 +56,7 @@ This investigation compiles the documented history of deliberate weather modific
 | 2008 | **Beijing Olympics weather manipulation** | Beijing Weather Modification Office fires over 1,100 rockets to prevent rain during opening ceremony. China's program is the largest in the world. |
 | 2015 | **HAARP transferred to UAF** | Air Force transfers HAARP to University of Alaska Fairbanks. Conspiracy theorists note this puts the facility outside direct FOIA for military programs. |
 | 2024 | **Tennessee bans chemtrails** | HB 2063/SB 2691 signed into law April 2024. First U.S. state to explicitly ban "the intentional injection, release, or dispersion, by any means, of chemicals, chemical compounds, substances, or apparatus within the borders of this state into the atmosphere with the express purpose of affecting temperature, weather, or the intensity of the sunlight." |
+| 2025 | **Florida bans geoengineering / weather modification** | SB 56 → **Chapter 2025-157**, effective July 1, 2025. Third-degree felony to disperse substances/apparatus into Florida's atmosphere to affect temperature, weather, climate, or sunlight; repeals prior state weather-mod licensing. See repo image `banned_2025.jpg`. |
 
 ---
 
@@ -145,6 +146,76 @@ A separate investigation documents the December 9, 2023 Nashville NES substation
 
 ---
 
+## GeoengineeringWatch.org image corpus (repo archive)
+
+The `science/geoengineering/` folder holds **GeoengineeringWatch.org** booklet pages, flyers, and advocacy graphics (`Geoengineering-page-*.jpg`, `GeoengineeringWatch.org-*.jpg`, `feds.jpg`, `banned_2025.jpg`, etc.). They are **not** Paradigm Threat originals; they are **primary advocacy material** whose claims this section catalogs, tiers, and stress-tests.
+
+**Source posture:** The images mix **real policy history** (CRS/Senate weather-mod reports, ENMOD, SRM definitions) with **interpretive leaps** (persistent contrails = proof of current global spraying; NEXRAD rings = microwave weather steering). Treat each claim separately.
+
+### Claims extracted from images (by theme)
+
+| # | Claim (as stated in corpus) | Example asset | Tier | Validation notes |
+|---|----------------------------|---------------|------|------------------|
+| G1 | Governments run **covert climate intervention** without public consent | `Geoengineering-page-2.jpg`, `-19.jpg` | **C** (advocacy) | Consent/bypass is moral-political; **covert military weather warfare** is documented for **Popeye 1967–72** only at treaty-banned scale |
+| G2 | **Jet aerosol dispersions** of “electrically conductive heavy metal particulates” are the **primary** current method | `Geoengineering-page-3.jpg` | **C** | **SRM aerosol injection** is **proposed** in literature (Keith, NAS); **operational global military spraying program** not proven from booklet photos |
+| G3 | Programs **deployed & expanded 70+ years** (“Manhattan project”) | `Geoengineering-page-3.jpg` | **B→C** | **Cloud-seeding R&D since 1946** (**CONFIRMED**); “70-year continuous global SRM deployment” (**not proven**) |
+| G4 | Particulates enhance **OTHR radar, RF, EMP** weaponry | `Geoengineering-page-3.jpg` | **C** | Chaff/barium **military ECM** is **documented class**; **continental weather+EMP via chemtrail medium** = **speculative** |
+| G5 | **RF/microwave transmissions** “manipulate” **aerosolized** cloud cover (marine layer ripples, square clouds, storm steering) | `Geoengineering-page-2.jpg`, `-15.jpg`, `-16.jpg`, `GeoengineeringWatch.org-106.jpg` | **C** | Parallel cloud bands / ripples often match **gravity waves**, **ship tracks**, **convergence zones** on NASA Worldview — **natural or incidental** explanations exist per meteorology; **not dispositive proof of ground-based RF steering** |
+| G6 | **NEXRAD** “blooms,” fans, circles = unfiltered proof of **microwave precipitation manipulation**; mainstream radar is **filtered** to hide it | `Geoengineering-page-15.jpg` | **C / debunked as proof** | NOAA ROC documents **sun spikes**, **AP clutter**, **biological scatter**, **wind-farm clutter**, **anomalous propagation** ([Data Quality Oddities](https://www.roc.noaa.gov/public-documents/operations-branch/Data_Quality_Oddities_and_Anomalies.pdf)); fan-shaped returns tie to **known site geometry**, not secret weather weapons |
+| G7 | **Cell/microwave towers** + **HAARP** + **SBX-1** = climate-mod **transmission network** | `Geoengineering-page-16.jpg` | **C** | **HAARP** = ionospheric heater (**CONFIRMED facility**); **SBX-1** = **X-band missile-defense radar** (DoD); **cell towers** = telecom (**CONFIRMED**); **equating them to one weather-war grid** = **interpretive** |
+| G8 | Ongoing spray + RF is **wreaking havoc** on life support & health | `Geoengineering-page-16.jpg` | **C** | Health/ecology harm from **hypothetical covert global program** **not adjudicated** here; **aviation contrail cirrus** climate effect is **peer-reviewed** (distinct from “toxic metals” claim) |
+| G9 | **Chemtrails** = proper term for **SRM / stratospheric aerosol injection / marine cloud brightening** (Wikipedia definitions) | `Geoengineering-page-4.jpg` | **B** (definitions) / **C** (equivalence) | Wiki definitions of **proposed** SRM techniques are **accurate as proposals**; **equating every persistent contrail to operational SAI** is **not validated** |
+| G10 | **1978 ~750-page Senate report** + CRS chapter prove **ongoing national/global weather modification** | `feds.jpg` | **B** | Real document family: CRS **“Weather Modification: Programs, Problems, Policy, and Potential”** (1978) and federal seeding history (**CONFIRMED**); booklet **over-reads** 1970s **research/seeding** as proof of **2020s covert global SRM** |
+| G11 | **Florida SB 56** makes atmospheric geoengineering a **third-degree felony** (chemtrail ban) | `banned_2025.jpg` | **A** | **Chapter 2025-157**, effective **July 1, 2025** ([FL Senate Bill 56](https://www.flsenate.gov/Session/Bill/2025/56)); graphic date “on DeSantis’ desk May 12” is **campaign timing**, law **enacted** |
+| G12 | **Tennessee** first state **chemtrail** ban (2024) | (timeline § above) | **A** | HB 2063 / SB 2691 signed **April 2024** — already in timeline |
+| G13 | **Russia Duma** deputy suggests US **“climate weapons”** for Moscow warm winter 2019–20 | `geoengineering_weapons.jpg` | **B** | **Aleksey Zhuravlyov** quote to *Moscow Speaks*, **Jan 2020** — **political speculation**, not evidence of US weapon use |
+| G14 | Flyer: gov’t **chemical spraying** causes crop failure, weak immunity, no blue skies | `geoengineering_government.jpg` | **C** | Links **whyintheworldaretheyspraying.com** advocacy; **causal health/ag claims** **unverified** without chain-of-custody sampling |
+| G15 | **Hurricane Matthew** satellite shows **gravity waves @ 85–95 km** | `geoengineering_hurricane.jpg` | **B** | **Gravity waves** from intense convection are **documented**; altitude label is **atmospheric science**, **not** proof of external RF injection |
+| G16 | **Non-engine contrails** (wing-mounted plumes) prove spray nozzles | `not_contrails.jpg` | **C** | **Flap/track fairing vents**, **APU bleed**, **wing condensation**, and **perspective** explain many “between engines” plumes; **not proof** of geoengineering ports without aircraft ID + sampling |
+| G17 | **Weather warfare** / **biosphere collapse**; military used **against own citizens** | `Geoengineering-page-19.jpg` | **C** | Moral advocacy; **Popeye** was **foreign-theater** weather warfare (**documented**); **domestic “weather warfare assault” today** = **open claim** |
+| G18 | Book stack spans **Hess (1965)**, **Freeland (HAARP)**, **Thomas (chemtrails)** | `geoengineering_books.jpg` | **B** (bibliography) | Shows **literature lane** from academic weather mod to **conspiracy corpus** — useful map, **not** proof any one title is correct |
+
+**Tier key:** **A** = primary law/gov record; **B** = documented history/quote/science phenomenon; **C** = advocacy interpretation or unproven operational claim.
+
+### What can be falsified (explicit tests)
+
+| Claim cluster | Falsifier (if true, claim fails or must narrow) |
+|---------------|--------------------------------------------------|
+| **Global covert metal aerosol program** | Independent **flight-level sampling** of suspected tankers shows **only standard jet fuel combustion products**; no elevated **Ba/Sr/Al** in plume source vs background at scale matching booklet narrative |
+| **RF towers steer storms** | **Blinded prediction:** forecasters outperform “tower-on / tower-off” correlation for **tornado/hurricane track**; no correlation between **NEXRAD fan** geometry and **surface pressure/wind** beyond known clutter models |
+| **HAARP/SBX heats troposphere for hurricanes** | **Energy budget:** HAARP **ionospheric** deposition **≪** tropical cyclone latent-heat release; controlled **peer review** shows **no reproducible tropospheric steering** from HF heaters at documented ERP |
+| **Square/linear clouds = only artificial** | **Matched case studies** where **gravity waves / ship tracks / cloud streets** form with **no heater alignment**; reanalysis wind-shear fields explain orientation |
+| **1978 Senate report = current program** | **FOIA / budget lines** show **no** modern federal **operational** weather-mod line item beyond **research seeding** and **academic SRM studies**; **no** fleet of dedicated spray tankers in civil/military registry |
+| **Florida/Tennessee bans prove ongoing spraying** | Bans may be **prophylactic** (prohibit **intent** to modify atmosphere) **without** proving **current violations** — law is **not** admission of active program |
+
+### Verdict: weather modification — cloud seeding only, or energy too?
+
+**Short answer:** Weather modification **does not stop at cloud seeding** in the **documented public record** — but **energy’s role** splits by **scale** and **evidence quality**.
+
+**Tier 1 — CONFIRMED (stop here for court-grade certainty):**
+- **Cloud seeding** (AgI, dry ice, salt flares) — **civilian and military**, including **Operation Popeye**.
+- **State-sanctioned programs** today (China Olympics, UAE, many US states’ hail/rain projects).
+- **Ionospheric heater facilities** (HAARP, EISCAT, Sura) — **real**, **military-funded**, **megawatt-class HF ERP** into **ionosphere**, not tropospheric rainmaking per se.
+- **SRM aerosol injection** — **serious policy/science proposal** (stratospheric sulfate, marine cloud brightening); **not proven** as **full-scale deployed operations** disguised as contrails.
+
+**Tier 2 — PROBABLE (institutional, not booklet-proof):**
+- **Dual-use atmosphere:** particulates + EM matter for **radar/ECM** (chaff, plasma patches) — **documented military class**; extension to **continental weather steering** remains **hypothesis**.
+- **Post-ENMOD covert or dual-use programs** — **Popeye precedent** makes **outright denial** irrational; **specific 2020s global program** still **unproven**.
+
+**Tier 3 — GeoengineeringWatch-specific (energy as *weather steering*):**
+- **Ground cell towers + NEXRAD artifacts + NASA ripple clouds** as proof of **microwave weather manipulation** — **weakest lane**; mainstream meteorology and NOAA radar QC supply **mundane explanations** that must be **defeated case-by-case** before upgrading to **CONFIRMED**.
+- **HAARP → hurricanes/droughts** — **energy insufficient** at tropospheric coupling per published ionospheric-heater physics; remains **UNDER INVESTIGATION** only for **indirect** pathways (e.g., jet-stream nudging claims in Eastlund **patent rhetoric**, not operational proof).
+
+**Investigation verdict:**
+
+> **Weather modification is real.** The **floor** is **cloud seeding and stated research programs**. The **ceiling in open evidence** is **ionospheric heating + proposed SRM + documented weather-warfare history** — **energy is a factor** at least for **ionosphere/magnetosphere** and **military ECM**, and **probable** as **dual-use intent** in patents and doctrine (*Owning the Weather in 2025*).  
+>  
+> **It does not follow** that every **persistent contrail**, **NEXRAD ring**, or **gravity-wave cloud street** in the GeoengineeringWatch corpus is **proof** of **RF-steered toxic spraying today**. That jump is the **controlled-opposition-shaped** mistake: **real capability** (seeding, heaters, Popeye) welded to **weak visual “proof”** (radar blooms, booklet photos) so **serious upstream questions** (who dried the fuel load, who holds heater doctrine, who benefits from disaster rebuild) get **retired with the meme**.
+
+**Repo cross-reads:** [Havana Syndrome investigation](../havana_syndrome/havana-syndrome-investigation.md) (pulsed RF at **human** scale); [Tornado–power station](tornado-power-station-investigation.md) (EM **tornado** hypothesis); [Rural burn zones](rural-burn-zones-density-moratorium-not-dew-investigation.md) (redirect **upstream weather stress** vs laser hunt).
+
+---
+
 ## Open Questions
 
 1. **What is the full inventory of active ionospheric heater installations worldwide?** The known facilities are likely a fraction of the total. Submarine-based or mobile ship-based heaters are theoretically possible.
@@ -171,9 +242,13 @@ A separate investigation documents the December 9, 2023 Nashville NES substation
 
 **PROBABLE**: The dual mechanism (ionospheric heating + particulate seeding) represents the current state of weather modification technology, explaining both the chemtrail phenomenon and the global network of heater facilities.
 
+**PROBABLE (narrow)**: **Energy** is a **documented factor** for **ionospheric heaters** and **military ECM/chaff**; **tropospheric storm steering via cell towers + NEXRAD “blooms”** (GeoengineeringWatch corpus) is **not validated** by mainstream meteorology or NOAA radar QC — see **§ GeoengineeringWatch.org image corpus**.
+
 **UNDER INVESTIGATION**: The connection between Eastlund/HAARP technology and suppressed aether physics. The connection between Paperclip-transferred knowledge and the simultaneous emergence of cloud seeding programs in 1946.
 
 **UNDER INVESTIGATION**: Whether artificial weather events are being attributed to "climate change" to justify global governance structures.
+
+**DEBUNKED AS PROOF (not as capability)**: Using **NEXRAD sun spikes / AP clutter**, **gravity-wave cloud streets**, or **ship tracks** alone as **smoking-gun** evidence of **microwave precipitation manipulation** without defeating mundane explanations ([NOAA ROC anomalies guide](https://www.roc.noaa.gov/public-documents/operations-branch/Data_Quality_Oddities_and_Anomalies.pdf)).
 
 ---
 
@@ -189,5 +264,7 @@ A separate investigation documents the December 9, 2023 Nashville NES substation
 
 ---
 
-Keywords: #Weather #Modification #Cloud #Seeding #Ionospheric #Heaters
+Keywords: #Weather #Modification #Cloud #Seeding #Ionospheric #Heaters #GeoengineeringWatch #FloridaSB56
+
+**Last updated:** 2026-05-13 (GeoengineeringWatch image corpus §, G1–G18 claim table, falsifiers, energy verdict)
 
