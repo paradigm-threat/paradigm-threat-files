@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-13T23:38:22.668Z",
+    "date": "2026-05-13T23:40:02.792Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".relay.yaml",
+        "href": "/.relay.yaml"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-13T23:38:21.000Z",
+    "message": "feat(relay): chain markdownHtmlFromGetContext before raster in server GET hook",
     "files": [
       {
         "status": "M",
@@ -736,24 +749,6 @@
       {
         "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png"
       },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
-        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-10T01:47:11.000Z",
-    "message": "Cave Story CO dossier: §6 precedent conclusion, §7 DMCA timeline (2000s–2026)",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
-      }
-    ],
-    "images": [
       {
         "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
         "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
