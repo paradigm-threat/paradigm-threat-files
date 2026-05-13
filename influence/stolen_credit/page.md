@@ -1,9 +1,3 @@
----
-title: Stolen Credit in Media
-description: Plagiarism and misattribution as a control mechanism — consolidating fame into controlled personalities. Video game composers, classical music, and institutional credit theft.
-keywords: plagiarist, Tommy Tallarico, Final Fantasy, Nintendo, Square, Capcom, Mega Man, Chrono Trigger, Mitsuda, Dave Wise, Minako Hamano, Mozart, Gershwin, Beethoven, Fanny Mendelssohn
----
-
 # Stolen Credit — Plagiarism as Control
 
 Plagiarism and misattribution in 20th-century media function as a control mechanism. One objective: **consolidate world fame into a small number of controlled personalities**. Celebrities identified as the original benefactors of stolen credit often vanish from public view during or shortly after their fame (Beethoven, Mozart, Bruce Lee, etc.) and the public never finds out who was responsible for the works they love. 

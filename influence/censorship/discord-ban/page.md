@@ -1,8 +1,3 @@
----
-title: "Discord Server Suspended"
-description: "The Paradigm Threat Discord Server was taken down, after all these years"
----
-
 ## New Rocket Chat Server is running
 
 Please [click here](/chat) to join our chat server.

@@ -1,8 +1,3 @@
----
-title: "GitHub: arbitrary restriction without notice"
-description: "Personal account of GitHub disabling Actions for one repository with no warning, no rationale, and ineffective support—plus public references on opaque enforcement. Argues that without a stated reason, affected users are rationally entitled to infer ties (including geopolitical ones); honest bans would narrow speculation."
----
-
 ## What happened (this account)
 
 **Investigation stance on silence:** If GitHub will not put a **specific, contestable reason** in writing, the affected party is not obliged to treat the cause as “unknown forever.” Silence is itself a policy choice. **Honest bans**—rule name, object, and appeal path in one place—would shrink the space for guesswork. **As long as the platform stays silent, inference and speculation are fair game**; the author of this file reserves the right to connect dots (timing, subject matter, parallel state and corporate behavior) that GitHub refuses to confirm or deny.

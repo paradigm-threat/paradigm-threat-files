@@ -166,8 +166,9 @@ def generate_index():
                 is_hooks_cs = ext == '.cs' and rel_posix.startswith('hooks/')
                 if ext not in include_exts and not is_hooks_cs:
                     continue
-                # Extract title for .md files
+                # Extract title for .md files (prefer # heading over YAML title:)
                 title = None
+                yaml_title = None
                 if ext == '.md':
                     try:
                         with open(full_path, 'r', encoding='utf-8') as f:
@@ -178,10 +179,10 @@ def generate_index():
                                 if line.startswith('# '):
                                     title = line[2:].strip()
                                     break
-                                # Handle YAML frontmatter title if no # header
                                 if line.startswith('title:'):
-                                    title = line[6:].strip().strip('"').strip("'")
-                                    break
+                                    yaml_title = line[6:].strip().strip('"').strip("'")
+                        if not title and yaml_title:
+                            title = yaml_title
                     except Exception:
                         pass
                 

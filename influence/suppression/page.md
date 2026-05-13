@@ -1,8 +1,3 @@
----
-title: "Suppression"
-description: "Investigations into misattribution, narrative capture, and documented institutional suppression of ideas or texts."
----
-
 ## Investigations
 
 - [Cathars — enemy memory, catharization, Khazar split thesis](/influence/suppression/investigations/cathars-church-purge-khazar-split-investigation.md)

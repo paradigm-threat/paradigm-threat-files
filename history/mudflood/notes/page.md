@@ -1,8 +1,3 @@
----
-title: "Notes:MudFlood Energetic Event Hypothesis"
-description: "The MudFlood Energetic Event Hypothesis proposes a solution to the mystery of the world-wide ‘Mud Flood’ event and its alleged cover-up while attempting to answer: Who it happened to, What happened, When, Where, Why, and How did it happen?"
----
-
 # This section only contains MudFlood scratch notes and is still being worked on
 
 > **TL;DR:** Working scratch pad for the MudFlood energetic-event hypothesis—bullet lists, URLs, and prompts on terrain, architecture, cargo cults, and directed-energy echoes—not a finished narrative.

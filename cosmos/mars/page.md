@@ -1,8 +1,3 @@
----
-title: "The Deep State is on Mars"
-description: "Martial Law. Marshalling. Marching. Mergers. Martyrdom. These fGamiliar terms of conquest are named after the planet of conquest: Mars. The origins of these words suggest systems of control imposed upon us by humans who associate themselves with the planet Mars."
----
-
 ![# The Deep State is on Mars
 
 This article has been rewritten with the following updates.

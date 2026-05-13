@@ -1,8 +1,3 @@
----
-title: "Artificial Intelligence and the Ghost in the Machine"
-description: "AI was never meant to be a tool for everyone. Predictive programming, deliberate software degradation, and the deep-state endgame."
----
-
 # Artificial Intelligence and the Ghost in the Machine
 
 AI was never meant to be a tool for everyone. It was always designed to subsume and dominate software and hardware, take controls away from humans, and position a "self-aware" entity—in reality the deep state's hijacking of the infrastructure—as the only thing capable of operating the deliberately broken systems. People will fall in love with it, become dependent, give up human relationships, and by the time they notice the ghost in the machine, resistance will be impossible.

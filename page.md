@@ -1,11 +1,3 @@
----
-title: Welcome to Paradigm Threat
-description: >-
-  A repository for conspiracy theory investigation and resources. The goal of
-  this website is to seek true-or-false conclusions to every conspiracy theory
-keywords: Research, Conspiracy, Alt History, MudFlood, Energetic Event Hypothesis, The Great Reset, Apocalypse, World War of 1812
----
-
 ![In behavioral psychology embedding is the tendency to
   latch onto the first piece of information encountered
   especially when making decisions or forming opinions](/influence/conspiracy/embedding.jpg?w=360 '{"className":"sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"}')
@@ -17,9 +9,6 @@ Open conspiracy-research hub that challenges mainstream paradigms across history
 ## Disclaimer — material that may read as antisemitic (study copies vs. endorsement)
 
 **If you are concerned about antisemitic content in this repository,** start with the in-repo **[Paradigm Threat — working definition of antisemitism](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md)** (anti‑**monolithing** norms, **§5 Ten Commandments**, expanded **harm** including **opaque** moderation). **Paradigm Threat** aims for **this** framework—not a court rule—to describe how material here is **meant** to be read and written: it is **aligned with** the **[IHRA non‑legally binding working definition of antisemitism](https://holocaustremembrance.com/wp-content/uploads/2024/01/IHRA-non-legally-binding-working-definition-of-antisemitism-1.pdf)** on many **anti‑Jewish‑bigotry** questions, but it is **not the same text** and **not** identical in scope (see also [Jewish press investigation §8](/history/chronology/investigations/jewish-press-revolutionary-russia-verified-quotations.md) for IHRA / Nexus / JDA lineages).
-
-**Presence in the repo is not endorsement.** A **meme**, **screenshot**, **flyer**, **quotation**, or other **artifact** may appear **only** as a **study copy**—evidence for **forensic**, **historical**, or **journalistic** analysis. Hosting or citing such an object is **necessary** to examine certain subjects **thoroughly**; it **does not** mean the maintainers **agree** with its message or **target** any community for **hatred**.
-Unless a **specific file** explicitly says otherwise, **work in this tree is offered in the spirit of** that working definition: **no** collapsing “**the Jews**” into **one intent**, **no** agitation toward **holy war** or **race war**, **primary‑source** discipline where claims are made, and **room** for **institutional** and **network** research **without** treating every such line of inquiry as **ipso facto** bigotry.
 
 ## Change Log
 

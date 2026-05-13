@@ -1,8 +1,3 @@
----
-title: "The MudFlood Energetic Event Hypothesis"
-description: "The MudFlood Energetic Event Hypothesis proposes a solution to the mystery of the world-wide Mud Flood event and its alleged cover-up while attempting to answer: Who it happened to, What happened, When, Where, Why, and How did it happen?"
----
-
 ![The MudFlood Energetic Event Hypothesis proposes a solution to the mystery of the world-wide Mud-Flood event and its
 alleged cover-up while attempting to answer
 the [Journalistic Six](https://www.sessionlab.com/methods/the-journalistic-six)

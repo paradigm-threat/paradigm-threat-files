@@ -1,8 +1,3 @@
----
-title: "Earth History Timeline based on Saturnian Cosmology"
-description: "The objective of this timeline is to compile an accessible alternate history of Earth based on Saturnian Cosmology as a sequence of events from the first memory to modern day. Questioning the "
----
-
 # Earth History Timeline Reconstruction
 
 ![Tartarian neoclassical architecture exists world-wide](/history/chronology/tartaria/tartarian_structures.jpg?w=384)

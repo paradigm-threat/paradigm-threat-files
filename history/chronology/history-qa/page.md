@@ -1,8 +1,3 @@
----
-title: "Earth History Timeline based on Saturnian Cosmology"
-description: "Before the first memories of Earth"
----
-
 ![History is Redacted](../../redacted.jpg?w=768 '{"className":"rounded-md m-auto"}')
 
 # "I never cared much for studying Human History until I realized it was all lies"

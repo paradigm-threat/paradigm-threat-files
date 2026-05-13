@@ -1,8 +1,3 @@
----
-title: "Pluto — Origin, Visibility, and the Outer System"
-description: "Investigation into whether Pluto was part of the original or Dark Ages configuration, what early texts mentioned it, and whether it was ever in proximity to Earth."
----
-
 # Pluto
 
 Pluto is treated here as an **investigation** rather than a settled fact: whether it is a "planet" in the sense of having its own non-intersected energy band, when and how it entered human awareness, and whether it was ever visible in the sky in proximity to Earth.

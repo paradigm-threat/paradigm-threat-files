@@ -1,11 +1,3 @@
----
-title: 'Paradigm Threat: The Third Story'
-description: >-
-  Alternate Earth history as a structured timeline book — investigations in war,
-  chronology, and science — with online reader, audio slideshow, and exports (PDF/DOCX, Russian).
-keywords: timeline, alternate history, investigations, book, Paradigm Threat
----
-
 # Paradigm Threat: The Third Story
 
 *by Ari Asulin*

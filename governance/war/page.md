@@ -1,8 +1,3 @@
----
-title: "Boeing Bombers won WW2 by cheating by using Child Pilots, Suppressed Zero-Point Energy (ZPE) Technology, and a whole lotta Napalm"
-description: "Therefore, it is logical to conclude that the Great Wars of the 20th century were perpetuated through international conglomerates like the Boeing Corporation"
----
-
 ![WW2 Meme](/governance/war/ww2meme.jpg?w=800 '{"className":"rounded-md m-auto"}')
 
 > **TL;DR:** Argues Allied strategic bombing in WWII leaned on napalm, suppressed electro-gravitic or ZPE-capable aircraft, and institutional secrecy—including narratives about who actually flew—then traces the same pattern into passenger aviation, UFO cover stories, and endless postwar air war.
