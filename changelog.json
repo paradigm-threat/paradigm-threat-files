@@ -1,8 +1,39 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-13T11:28:21.332Z",
+    "date": "2026-05-13T11:30:28.102Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
+        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
+        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
+        "alt": "*Chrono Trigger* / Mars remote viewing — predictive-programming composite (author)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
+        "alt": "Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-13T11:28:20.000Z",
+    "message": "Add Atkinson Georgia radiation-weapon fire investigation",
     "files": [
       {
         "status": "A",
@@ -794,32 +825,6 @@
       {
         "src": "/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
         "alt": "Joseph Smith mystery solved — crystal-memory interpretation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-09T15:19:29.000Z",
-    "message": "PURSUE 01 (article): sharpen Martians line + refresh hero image",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md",
-        "href": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png",
-        "href": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png"
-      },
-      {
-        "src": "/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
-        "alt": "33 Thomas Street / AT&T Long Lines Building in Lower Manhattan — a 550-foot windowless Brutalist slab that was a telecom switching center and turned out to also be the NSA's TITANPOINTE surveillance hub. The canonical example of a downtown windowless tower whose cover story was true and incomplete at the same time."
       }
     ]
   }
