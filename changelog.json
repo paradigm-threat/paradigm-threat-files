@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-13T18:10:22.936Z",
+    "date": "2026-05-13T23:38:22.668Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "hooks/server/get.cs",
+        "href": "/hooks/server/get.cs"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-13T18:10:22.000Z",
+    "message": "Rural burn-zone moratorium: author weather-mod stance, local politics focus",
     "files": [
       {
         "status": "A",
@@ -744,33 +757,6 @@
       {
         "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
         "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-10T01:33:04.000Z",
-    "message": "Add Cave Story × Nicalis CO investigation with header image; hub link",
-    "files": [
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
-        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/page.md",
-        "href": "/influence/controlled_opposition"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png"
       }
     ]
   }
