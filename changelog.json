@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-11T14:04:30.928Z",
+    "date": "2026-05-13T11:28:21.332Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "science/geoengineering/atkinson-georgia-radiation-weapon-investigation.md",
+        "href": "/science/geoengineering/atkinson-georgia-radiation-weapon-investigation"
+      },
+      {
+        "status": "A",
+        "path": "science/geoengineering/atkinson-georgia-radiation-weapon-investigation.png",
+        "href": "/science/geoengineering/atkinson-georgia-radiation-weapon-investigation.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/geoengineering/atkinson-georgia-radiation-weapon-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-11T14:04:30.000Z",
+    "message": "OCR investigation: §6.1.1 Liontamer judge-era firsthand + Ari/lion irony",
     "files": [
       {
         "status": "M",
@@ -798,33 +820,6 @@
       {
         "src": "/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
         "alt": "33 Thomas Street / AT&T Long Lines Building in Lower Manhattan — a 550-foot windowless Brutalist slab that was a telecom switching center and turned out to also be the NSA's TITANPOINTE surveillance hub. The canonical example of a downtown windowless tower whose cover story was true and incomplete at the same time."
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-09T15:13:52.000Z",
-    "message": "PURSUE 01 (ninth pass): revise 2014 sighting duration to max-3-min envelope",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md",
-        "href": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png",
-        "alt": "Witness reconstruction graphic — east Mesa, Arizona (Phoenix metro area), Tuesday April 22, 2014, ~1:24 AM: stadium-sized fully opaque black triangle, ~7 lights, ~1,000 ft altitude, drifting on a constant heading along a residential street for at least ~1 minute of clear overhead motion (up to ~3 minutes total counting the slow recession into the city light pollution before final disappearance), watched by the author and two roommates, before receding into the standard city light pollution toward east Mesa and disappearing there. Pull-quote: \"I refuse to believe that my roommates and I simultaneously mistook a meteor shower for a stadium-sized black triangle drifting at a thousand feet on a constant heading for at least a minute, with another minute or so to recede and finally disappear.\" Author-made reconstruction graphic, **not** a photograph of the 2014 event."
-      },
-      {
-        "src": "/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
-        "alt": "33 Thomas Street / AT&T Long Lines Building / Titanpointe — the canonical example of a windowless downtown tower whose cover story turned out to be only part of the story"
       }
     ]
   }
