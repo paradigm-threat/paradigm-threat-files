@@ -25,13 +25,21 @@ The following is **preserved in the investigator’s voice** as the **load-beari
 
 The investigator reads this as **continuous with** other **Paradigm Threat** lanes where **communities** supplied **free labor**, **feedback**, **focus-group energy**, and **idea mining**, after which **commercial routing** **divided**, **conquered**, or **chilled** the **commons** — see **[OC ReMix](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md)** (**fan submission licenses**, **industry coordination**) and **[*Homestuck*](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md)** (**canon / IP recentralization**).
 
-### 1.2 Production thesis — studio, secrecy, fake timeline
+### 1.2 Production thesis — one-year plan, three-week build on existing engine, five-year cover (investigator)
 
-> **Theory:** The game was **actually produced in ~three weeks** by a **real studio** in **Japan**, not by one hobbyist over five years. **R&D-adjacent** talent (**hypothesis names Nintendo**) produced it **under the same operational discipline as typical first-party Nintendo development**: **absolute secrecy**, **minimal disclosure**, **heavy NDA**, with **yakuza oversight** and **post-WWII international vassalship** named as **macro-political context** (same thematic basin as other repo investigations — **not** documented here as **operational detail** for *Cave Story*).
+> **Refined timeline model (investigator, May 2026):** The shipped *Cave Story* **did not** emerge from **five years of weekly, auditable solo construction**. The investigator’s working read is a **two-phase industrial schedule** masked by a **retrofitted “five years in my spare time”** legend when **no inspectable ledger** could justify that span.
 
-> **Fake credit routing:** Interviews and celebrity-style **figurehead** credit were **deliberately routed** to **specific male Japanese public faces** so that **industry labor** could wear the **mask** of **indie authenticity**.
+> **Phase A — ~one year (plan + tooling + polish theater):** A **planned ~12-month window** covers **engine readiness**, **music engine / Organya-family tooling**, **score pipeline**, **design iteration**, **tester routing**, and **public-facing “indie grind”** performance. **Engine and music infrastructure** are treated as **professional-grade inputs** — **not** improvised in the same sprint as the final island content. On this read, the **densest dated public trace** — the **2004 “板‑裏” BBS** (`doukutsu2004bbs`) — is **exactly what you would expect** from **Phase A**: **months of bug, balance, and brush-up chatter** with **multiple handles**, **not** proof of **greenfield coding from zero** across half a decade.
 
-> **Five-year timeline:** The investigator suspects the **“five years”** narrative was **retrofitted** **after the fact** to **cover an industry-made game** — see **§5.1** for **mainstream counter-evidence**.
+> **Phase B — ~three weeks (actual game assembly):** The **playable game proper** — maps, encounter scripting, narrative lock, asset integration on top of an **already-existing engine** — was **built in a short sprint** (**~three weeks** in the investigator’s gut read, **rhyming with** the early **“three weeks” rumor**). **Content authoring on a mature stack** is a different job than **inventing the stack**; conflating them is how **“solo genius over five years”** becomes **morally legible** without **receipts**.
+
+> **Five-year cover story:** When **interviewers** and **fans** asked for **calendar proof**, the **“five years”** line (**TIGSource April 2005**, echoed in press) functioned as **narrative padding** — **plausible**, **emotionally flattering**, and **almost impossible to falsify** because **no weekly dev log** spans **1999→2004** in any mirror the investigator could download (**local evidence bundle:** `~/dev/wget/cave-story-timeline-evidence/` — **~11** sparse diary lines, **~215** BBS days in **2004 only**, **no** continuous five-year ledger).
+
+> **Credit routing (unchanged from prior §1.2):** Interviews and **figurehead** credit were **deliberately routed** to **specific male Japanese public faces** so **industry labor** could wear the **mask** of **indie authenticity** — **not** a **useful idiot**, on this read, but a **participant** in **timeline packaging**.
+
+> **Studio / secrecy context (unchanged macro):** **R&D-adjacent** talent (**hypothesis names Nintendo**) under **secrecy**, **NDA**, and **partner-publisher credit-splitting** culture — see **§1.8** — **not** documented here as **operational fact** for *Cave Story*.
+
+**Unpack (assistant):** Pixel’s own `doukutsu-index` text **admits** total work **~5 years including remakes** but publishes only the **final brush-up year** of board dialogue — **compatible** with **investigator Phase A** (**documented year**) **plus** **off-stage** claims (**five years**) **without** proving **Phase B** did **not** occur. **§5.1** and **§5.7** hold **counter-readings**.
 
 ### 1.3 Intent — not a “useful idiot”
 
@@ -110,6 +118,8 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 | **Commercial publisher** | **Nicalis** published **Cave Story+**, **WiiWare**, and other SKUs — **not** interchangeable with **“open source”** governance. |
 | **2020 DMCA** | **Nicalis** submitted **GitHub** notice listing **CSE2**-related repositories — [published notice text](https://github.com/github/dmca/blob/master/2020/11/2020-11-19-nicalis.md). |
 | **pxtone / Organya** | Public credit lines associate **Pixel** with **pxtone**/**Organya-family** audio tooling — **disputed by investigator** in **§1.3** but **documented** as **mainstream attribution**. |
+| **2004 BBS density** | **`doukutsu2004bbs`** — dated posts **2004/01/25→2004/12/28**; Pixel intro frames log as **final brush-up year** — local mirror under investigator **`~/dev/wget/cave-story-timeline-evidence/studiopixel/`**. |
+| **Evidence vacuum** | **No** accessible **weekly** progress ledger **1999→2004**; investigator **§1.2** **timeline model** **rests** on **pattern** + **sparse** **dated** **crumbs**, **not** **continuous** **audit** **trail**. |
 
 ---
 
@@ -134,6 +144,8 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 5. **Any** **primary** **employment / contract** **document** **linking** **Nintendo** **R&D** **to** **Studio Pixel** **or** **pre-release** *Cave Story* — **currently absent** from this dossier (**falsifier** if **never** found).
 6. **Quantified** **routing** **story** for **first-party** **2D** **/** **pixel** **talent** **post-** **N64** **vs** **handheld** **/** **partner** **SKUs** — **to** **stress-test** **§1.8** **without** **relying** **on** **impressionistic** **trade-show** **memory** **alone**.
 7. **Primary** **engineering** **/** **business** **memos** **on** **Super** **Famicom** **early** **compatibility** **targets** **vs.** **final** **silicon** **cuts** **and** **on** **SNES** **CD** **partner** **negotiations** — **to** **ground** **§1.9** **without** **leaning** **only** **on** **retrospective** **articles** **/** **oral** **history**.
+8. **§1.2** **timeline** **model** **—** **locate** **any** **third-party** **employment** **/** **contract** **/** **build** **farm** **record** **for** **a** **~3-week** **content** **sprint** **on** **pre-existing** **engine** **(**falsifier** **if** **never** **found** **)**.
+9. **Expand** **local** **mirror** **`~/dev/wget/cave-story-timeline-evidence/`** **—** **Wayback** **CDX** **when** **Archive.org** **rate** **limits** **lift**; **forum.cavestory.one** **threads**.
 
 ---
 
@@ -143,9 +155,17 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 
 ### 5.1 Timeline and authorship (mainstream)
 
-- **Long-horizon evidence:** **2004** Japanese **development BBS** activity (final-year polish) and **2005** English **interview** stating **multi-year** work — **contradicts** **“three weeks only”** unless **those sources** are **wholly fabricated** (**investigator allows** that possibility; **mainstream** treats them as **good-faith** records).
+- **Long-horizon evidence:** **2004** Japanese **development BBS** activity (final-year polish) and **2005** English **interview** stating **multi-year** work — **contradicts** **“three weeks only”** **if** **read** **as** **total** **calendar** **from** **zero** **without** **§1.2’s** **engine** **/** **plan** **split**; **mainstream** treats sources as **good-faith** **records** **of** **long** **project** **life** **including** **beta** **/** **remake** **phases**.
 - **Tooling:** **pxtone / Organya** ecosystem is **documented** as **Pixel-associated** music tooling — challenges **“didn’t make the music engine”** unless **credit is false**.
 - **No Nintendo smoking gun:** Standard industry reporting treats *Cave Story* as **indie freeware → commercial ports**, not **first-party Nintendo development**. **Absence of leak** is **not** **proof** **of** **absence**, but it **blocks** **easy** **confirmation** of **§1.2**.
+
+### 5.7 Investigator timeline model — what would confirm or break it
+
+| Claim (§1.2) | Supports in accessible mirror | Breaks or strains |
+|--------------|------------------------------|-------------------|
+| **~1 year documented polish / plan** | **2004 BBS** ~**215** unique days; Pixel intro: **“brush-up year”** | **Jan 2004** already **high** **post** **volume** — needs **Phase B** **before** **or** **very** **early** **in** **year** |
+| **~3 week content sprint on existing engine** | Early **“three weeks”** **rumor** (**TIGSource** intro); **professional** **finish** **vs.** **sparse** **construction** **log** | **No** **primary** **sprint** **receipt**; **2001–2002** **beta** **layer** **implies** **earlier** **builds** **unless** **dismissed** **as** **lore** |
+| **Five years as cover** | **No** **weekly** **5-year** **ledger** **downloaded**; **diary** **~11** **dated** **lines** **1998–2005** | **TIGSource** **April** **2005** **five-year** **quote** **+** **beta** **archaeology** **still** **argue** **long** **calendar** **somewhere** **off-board** |
 
 ### 5.2 Legal actor
 
@@ -227,7 +247,7 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 
 Keywords: #CaveStory #Undertale #StudioPixel #Nicalis #CSE2 #ControlledOpposition #FanLabor #ReverseEngineering #DMCA #Nintendo #N64 #OpenSource #ParadigmThreatFiles
 
-**Last updated:** 2026-05-12 (**§3** **/** **Guide** **reader-essay** **row** **+** **WYWF-style** **drop**; **§1.9** **SNES** **/** **CD** **fork** **+** **R&D1** **open-hood** **read**; **§5.6** **retail** **hygiene**; **§1.8** **N64** **/** **talent-routing** **heuristic** **+** **§5.5** **nuance**; **§1.7** **narration** **+** **gated-sword** **figure**; **§6–§7** **precedent** **/** **DMCA** **timeline**)
+**Last updated:** 2026-05-13 (**§1.2** **one-year** **plan** **+** **three-week** **build-on-engine** **timeline**; **§2** **/** **§4** **/** **§5.7** **evidence-mirror** **hooks**)
 
 ---
 
