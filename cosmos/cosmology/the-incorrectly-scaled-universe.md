@@ -136,6 +136,7 @@ Adjacent critiques scatter across vacuum-lensing challenges, intrinsic redshift 
 - Maxwell / aether spine: [Did Maxwell's Work Actually Prove the Aether Exists?](/science/maxwell_aether/02-did-maxwell-prove-the-aether.md)
 - Vocabulary rules: [Aether vocabulary and Maxwell debate](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md)
 - Big Bang / redshift religion-critique lane: [Astronomy: The Simulated Universe](/cosmos/cosmology/astronomy/page.md)
+- Consensus theater / APS survey: [Consensus theater and the stalled physics pipeline](/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md) · [investigation](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md)
 - Refraction and sky perception: [Flat Earth - History, Myth, and Misinterpretation](/cosmos/flat_earth/flat-earth-investigation.md)
 - Space narrative faith tests: [Artemis II mission as faith test](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md)
 - Planetary birth-cycle essay: [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md)

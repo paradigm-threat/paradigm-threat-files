@@ -181,6 +181,8 @@ Roll-up after the anchor case, supporting clusters, Cap arc, and [pre-2016 ficti
 
 ---
 
+**Cosmos cross-read:** [*Space Force*](#supporting-clusters--brief) satire ↔ real branch — extended in [Big Mysteries / consensus theater investigation](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md) §9 (science-community mockery vs domestic lift).
+
 Keywords: #Influence #Hollywood #Governance #Trump #PredictiveProgramming #Media #Marvel #DC #Streaming #War
 
 **Date:** 2026-04-19 — PP/trend refactor; Limits at end. 2026-04-19 — CA:BNW vs maritime blockade cluster; hub link. 2026-04-19 — § Author thesis *Infinity War* / *Endgame* (Strange / Stark / Trump); scorecard row; TODO comparative “narcissist savior” precedents. 2026-04-19 — § Author note (rigidity, humans/LLMs, media as territory); Limits: author meta-disclaimer first, technical bullets shortened. 2026-04-19 — **Order:** methodology → author note (epistemic) → session capture → IW/Endgame thesis → anchor → supporting → Cap arc → **scorecard** → weak points → keywords → limits.

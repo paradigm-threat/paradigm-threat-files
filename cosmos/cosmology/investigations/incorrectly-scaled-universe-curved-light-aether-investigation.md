@@ -129,6 +129,7 @@ This dossier uses the terms **epistemic closure**, **methodological gatekeeping*
 - [Artemis II - mission as faith test](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md)
 - [DNA as Fingerprint, Not Blueprint](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) (for model style and originality framing)
 - [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — planetary-scale birth-cycle essay (bridges Saturnian/scalar ontology; **not identical** to this optics-distance thesis).
+- [Big Mysteries Survey — consensus theater](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md) — APS poll fragmentation vs popular-science gloss; ΛCDM / black-hole confidence vs vote share.
 
 ### 6.2 External adjacent-not-identical sources (current)
 

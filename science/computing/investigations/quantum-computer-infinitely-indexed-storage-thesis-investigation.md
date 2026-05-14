@@ -202,6 +202,7 @@ The following is the **author-supplied** position for **Paradigm Threat**. It is
 | [Aether and consciousness (RV fiction lane)](/science/telepathy/remote_viewing/aether-consciousness.md) | Optional rhymes with nonlocal access / field-index language; not an equivalence to §2. |
 | [Mars hub — CERN, gates, hollow-world language](/cosmos/mars/page.md) | Site cosmology for breakaway / interplanetary narratives; locus for §2.2 Mars thread if pursued. |
 | [Mars–Earth reincarnation](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | Mass-death / soul-band hypothesis; optional rhyme with “lost Martian knowledge substrate” (speculative). |
+| [Big Mysteries Survey — consensus theater](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md) | Q10 quantum-gravity fragmentation; public deferral vs survey “no opinion” leaders. |
 | [*Ares Le Mandat* — Mars book hub](/cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation.md) | Mars–Earth influence thesis; pair if tech suppression is tied to present institutional geometry. |
 | [Anthony of Boston — Mars 360](/cosmos/mars/investigations/anthony-of-boston-mars360-investigation.md) | Mars–markets / academic corpus lane alongside exotic physics threads. |
 | [Predictive programming hub](/influence/predictive_programming/page.md) | Revelation-of-the-method reads when fiction habituates “impossible” tech; pair with §7. |

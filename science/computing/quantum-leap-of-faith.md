@@ -70,7 +70,8 @@ We gave industry something close to total faith and almost no audit—the way Be
 - [Homestuck / Hussie — controlled opposition investigation](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) — voluntary labor, fandom capture, parallel to repackaging commons.  
 - [OC ReMix — privatization investigation](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md).  
 - [SDA / GDQ / MSF — polarization investigation](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md).  
-- [Microchips — shrinking / suppression](/science/microchips/microchips-shrinking-technology-investigation.md) — complementary read on opaque silicon narrative.  
+- [Microchips — shrinking / suppression](/science/microchips/microchips-shrinking-technology-investigation.md) — complementary read on opaque silicon narrative.
+- [Consensus theater and the stalled physics pipeline](/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md) — fundamental-physics deferral parallel to qubit waiting-room grammar.  
 - [Mars hub](/cosmos/mars/page.md) — for readers threading breakaway tech with the Mars-versus-Earth hypothesis in the quantum storage dossier.
 
 ## Framing and limits

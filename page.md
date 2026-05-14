@@ -63,6 +63,7 @@ or *not* believing.
 * [Tham Luang Cave Rescue (2018)](/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md) — Cover-up threads and alternate rescue narratives.
 * [Flat Earth](/cosmos/flat_earth/flat-earth-investigation.md) — History, myth, and misinterpretation of the flat-Earth idea.
 * [The Incorrectly Scaled Universe](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md) — Curved-light aether model: Maxwell lineage, gravity reinterpretation pressure, and cosmological scale-inference risk.
+* [Big Mysteries Survey — consensus theater](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md) — APS 1,675-physicist poll vs Phys.org gloss; menu design, black holes, QG fracture, audit/ROI, Space Force.
 * [Anthony of Boston — Mars 360](/cosmos/mars/investigations/anthony-of-boston-mars360-investigation.md) — *Ares Le Mandat*, Mars–markets/Gaza thesis, Academia/Zenodo corpus; cross-links stock-market dossier.
 * [*Ares Le Mandat* — Mars influence & Israel–Gaza audit](/cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation.md) — Book hub, rocket windows vs public lists, Zenodo **410** tombstones; **Internet Archive** full PDF.
 * [Mars–Earth Reincarnation](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) — Mass death on Mars and souls reborn on Earth.
@@ -350,6 +351,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 * [PURSUE Release 01 — *What Am I Asking U FO?*](/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md) — Reader essay on the May 8 2026 DOW UAP file drop: 2015 Arizona triangle, witness-problem logic, two-century timeline incl. Marvin the Martian managed-disclosure lane, Mars-breakaway vs reverse-engineered military two-category frame, 33 Thomas Street / Titanpointe windowless-towers, BAASS paid-moderator footnote, managed-disclosure endgame; links [PURSUE 01 dossier](/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md).
 * [Rus-Horde echoes in English political and military lexicon (open speculation)](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) — *rush* / *Rus*, *rat* / *рать*, Protestant print and word bias, *King Arthur* (2004); dictionary facts vs. low-confidence parallels
 * [The Incorrectly Scaled Universe](/cosmos/cosmology/the-incorrectly-scaled-universe.md) — Reader essay: curved-light aether thesis, cosmological over-scaling risk, and one-field connected-universe framing; links technical dossier.
+* [Consensus theater and the stalled physics pipeline](/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md) — Big Mysteries Survey press read: terminology parade, creation fork, audit vs waiting room; links consensus-theater dossier.
 
 ### Hubs and broad entry points
 
