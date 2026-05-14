@@ -4,7 +4,7 @@
 
 **TL;DR:** **Author thesis (investigator-supplied):** *Doukutsu Monogatari* functioned as an **industry-grade** cultural product **misrepresented** as a **solo freeware legend** so that, once **community trust** and **open-engine labor** grew around it, **publisher-side IP enforcement** could **legally dismantle** competing fan/reverse-engineering pipelines — **mirroring** the **fan-labor → corporate capture** pattern tracked in **[OC ReMix](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md)** and **[*Homestuck*](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md)**. **§6** argues the **2020 Nicalis / CSE2** episode **helped normalize** aggressive **DMCA-first** posture for **fan reimplementations**; **§7** lists a **selective** **21st-century DMCA / anti-circumvention** timeline anchoring **Nintendo’s 2024–2026** emulator offensive. **§1.7** archives **narration** contrasting **genuine** *Undertale*-scale **solo** **proof** with **opaque** **“followable”** **process**, plus the **sword-in-the-stone** / **gated** **shop** metaphor for **open** **commons** **vs.** **present** **enclosure**. **§1.8** adds an **industrial-history heuristic** (**N64** **/** **post-3D** **gravity**, **handheld** **routing** **of** **2D** **/** **platformer** **talent**, **working** **thesis** **Nintendo** **R&D** **→** **Studio** **Pixel** **mask** **until** **disproven**) **plus** **an** **extended** **containment** **read** **on** **2020-era** **community** **silence**; **§1.9** **archives** **an** **SNES** **/** **CD-ROM** **fork** **read** (**R&D1** **“open** **hood”** **counterfactual** **vs.** **containment**, **Sony** **splinter** **as** **documented** **business** **lore** **+** **moral** **geometry**) **supporting** **the** **same** **macro** **rhyme**; **§5.5** **/** **§5.6** **state** **home-console** **/** **hardware-history** **counter-examples** **so** **§1.8** **/** **§1.9** **cannot** **be** **misread** **as** **flattened** **retail** **claims**. The same dossier holds **mainstream falsifiers** (public interviews, freeware provenance, **Nicalis** as distinct from **Nintendo**) and **does not** claim **court-grade proof** of **Nintendo**, **yakuza**, or **studio-faked timeline** without **independent primaries**.
 
-**Status:** Open — **§1** is **verbatim investigator stance** (first-class **hypothesis** language); **§1.7** adds **narration capture** (*Undertale* contrast, **sword** / **gated shop** metaphor); **§1.8** adds **N64** **/** **3D-pivot** **talent-routing** **heuristic** **and** **Nintendo→Pixel** **working** **thesis**; **§1.9** adds **SNES** **/** **CD-ROM** **fork** **counterfactual** **and** **R&D1** **“open** **hood”** **containment** **read**; **§2–§4** mix **documented events** with **labeled speculation**; **§5** lists **contradictions** explicitly (**§5.5** **/** **§5.6** **hardware** **nuance**); **§6–§7** add **investigator conclusion** + **illustrative legal-tech chronology** (**not** exhaustive legal history).
+**Status:** Open — **§1.10**: **no** **accessible** **disproof** **at** **investigator** **audit** **bar**; **remains** **open** **until** **Studio** **Pixel** **reverses** **open-source** **/** **community-engine** **posture** **and** **releases** **full** **holdings** **(investigator** **does** **not** **expect** **that** **clearance**)**. **§1** **is** **verbatim** **investigator** **stance**; **§2–§4** **mix** **documented** **events** **with** **labeled** **speculation**; **§5** **lists** **mainstream** **counter-readings** **(not** **treated** **as** **disproof** **at** **§1.10** **bar**)**; **§6–§7** **precedent** **/** **DMCA** **timeline**.
 
 **Guide**
 
@@ -39,7 +39,17 @@ The investigator reads this as **continuous with** other **Paradigm Threat** lan
 
 > **Studio / secrecy context (unchanged macro):** **R&D-adjacent** talent (**hypothesis names Nintendo**) under **secrecy**, **NDA**, and **partner-publisher credit-splitting** culture — see **§1.8** — **not** documented here as **operational fact** for *Cave Story*.
 
-**Unpack (assistant):** Pixel’s own `doukutsu-index` text **admits** total work **~5 years including remakes** but publishes only the **final brush-up year** of board dialogue — **compatible** with **investigator Phase A** (**documented year**) **plus** **off-stage** claims (**five years**) **without** proving **Phase B** did **not** occur. **§5.1** and **§5.7** hold **counter-readings**.
+**Unpack (assistant):** Pixel’s own `doukutsu-index` text **admits** total work **~5 years including remakes** but publishes only the **final brush-up year** of board dialogue — **compatible** with **investigator Phase A** (**documented year**) **plus** **off-stage** claims (**five years**) **without** proving **Phase B** did **not** occur. **§5.1**, **§5.7**, and **§1.10** hold **counter-readings** **vs.** **investigator** **clearance** **bar**.
+
+### 1.10 Investigation status — open; no disproof at audit bar; clearance requires full open release (investigator-supplied)
+
+> **No disproof on record (investigator):** As of the **evidence** **mirrored** **in** **this** **lane** **(including** **`~/dev/wget/cave-story-timeline-evidence/`**)**,** **nothing** **accessible** **disproves** **§1.2** **or** **the** **broader** **§1** **controlled-opposition** **read** **at** **the** **audit** **standard** **this** **dossier** **applies**: **continuous**, **inspectable**, **arms-length** **proof** **of** **five** **years** **of** **weekly** **solo** **construction**; **transparent** **open-source** **/** **engine** **stewardship**; **and** **good-faith** **defense** **of** **community** **reverse-engineering** **when** **publishers** **applied** **legal** **pressure**. **Mainstream** **interviews**, **sparse** **diary** **lines**, **beta** **crumbs**, **and** **one** **dense** **BBS** **year** **do** **not** **meet** **that** **bar** **—** **they** **remain** **compatible** **with** **§1.2** **when** **reframed** **(plan** **year** **+** **short** **build** **+** **five-year** **sticker**)**.
+
+> **Clearance condition — what would “clear” the public face (investigator):** This investigation **stays** **open** **until** **Studio** **Pixel** **(and** **successors** **/** **publishers** **in** **the** **chain** **where** **relevant**)** **reverses** **its** **posture** **toward** **open** **source** **and** **community** **engines**: **withdraw** **/** **repudiate** **support** **for** **2020-era** **legal** **chill** **against** **fan** **reimplementations**; **publish** **clear** **license** **posture** **for** **non-infringing** **tooling**; **and** **release** **everything** **held** **—** **engine** **source**, **music** **/** **Organya** **project** **files**, **dated** **build** **and** **commit-equivalent** **history**, **contract** **summaries** **redacted** **only** **where** **law** **requires** **—** **not** **curated** **HTML** **diaries** **or** **interview** **quotes** **alone**.
+
+> **Expectation (investigator):** **Does** **not** **expect** **that** **clearance** **to** **happen**. **Until** **it** **does**, **the** **named** **creator** **does** **not** **clear** **the** **timeline** **or** **controlled-opposition** **thesis** **in** **this** **file** **—** **not** **because** **guilt** **was** **adjudicated**, **but** **because** **the** **evidentiary** **burden** **the** **investigator** **assigns** **to** **exoneration** **was** **never** **met**.
+
+**Unpack (assistant):** **“Open”** **here** **means** **investigation** **status**, **not** **a** **court** **verdict**. **§5** **still** **lists** **mainstream** **counter-readings** **for** **readers** **who** **weight** **testimony** **and** **beta** **lore** **more** **heavily** **than** **the** **investigator’s** **audit** **bar**.
 
 ### 1.3 Intent — not a “useful idiot”
 
@@ -146,6 +156,7 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 7. **Primary** **engineering** **/** **business** **memos** **on** **Super** **Famicom** **early** **compatibility** **targets** **vs.** **final** **silicon** **cuts** **and** **on** **SNES** **CD** **partner** **negotiations** — **to** **ground** **§1.9** **without** **leaning** **only** **on** **retrospective** **articles** **/** **oral** **history**.
 8. **§1.2** **timeline** **model** **—** **locate** **any** **third-party** **employment** **/** **contract** **/** **build** **farm** **record** **for** **a** **~3-week** **content** **sprint** **on** **pre-existing** **engine** **(**falsifier** **if** **never** **found** **)**.
 9. **Expand** **local** **mirror** **`~/dev/wget/cave-story-timeline-evidence/`** **—** **Wayback** **CDX** **when** **Archive.org** **rate** **limits** **lift**; **forum.cavestory.one** **threads**.
+10. **§1.10** **clearance** **—** **track** **any** **Studio** **Pixel** **/** **rights-holder** **move** **toward** **full** **source** **release**, **CSE2** **non-opposition**, **or** **license** **clarity** **(**would** **trigger** **dossier** **re-review** **)**.
 
 ---
 
@@ -159,13 +170,15 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 - **Tooling:** **pxtone / Organya** ecosystem is **documented** as **Pixel-associated** music tooling — challenges **“didn’t make the music engine”** unless **credit is false**.
 - **No Nintendo smoking gun:** Standard industry reporting treats *Cave Story* as **indie freeware → commercial ports**, not **first-party Nintendo development**. **Absence of leak** is **not** **proof** **of** **absence**, but it **blocks** **easy** **confirmation** of **§1.2**.
 
-### 5.7 Investigator timeline model — what would confirm or break it
+### 5.7 Investigator timeline model — audit bar vs. mainstream counter-readings
 
-| Claim (§1.2) | Supports in accessible mirror | Breaks or strains |
-|--------------|------------------------------|-------------------|
-| **~1 year documented polish / plan** | **2004 BBS** ~**215** unique days; Pixel intro: **“brush-up year”** | **Jan 2004** already **high** **post** **volume** — needs **Phase B** **before** **or** **very** **early** **in** **year** |
-| **~3 week content sprint on existing engine** | Early **“three weeks”** **rumor** (**TIGSource** intro); **professional** **finish** **vs.** **sparse** **construction** **log** | **No** **primary** **sprint** **receipt**; **2001–2002** **beta** **layer** **implies** **earlier** **builds** **unless** **dismissed** **as** **lore** |
-| **Five years as cover** | **No** **weekly** **5-year** **ledger** **downloaded**; **diary** **~11** **dated** **lines** **1998–2005** | **TIGSource** **April** **2005** **five-year** **quote** **+** **beta** **archaeology** **still** **argue** **long** **calendar** **somewhere** **off-board** |
+**Investigator position (§1.10):** **No** **mirrored** **evidence** **disproves** **§1.2** **at** **the** **clearance** **bar** **defined** **there**. The table below maps **what** **exists** **vs.** **what** **mainstream** **readers** **sometimes** **treat** **as** **refutation** **—** **the** **investigator** **does** **not** **accept** **those** **rows** **as** **exoneration** **without** **full** **open** **release**.
+
+| Claim (§1.2) | Supports in accessible mirror | Mainstream counter-read (does **not** clear §1.10) |
+|--------------|------------------------------|-----------------------------------------------------|
+| **~1 year documented polish / plan** | **2004 BBS** ~**215** unique days; Pixel intro: **“brush-up year”** | **Jan 2004** **high** **volume** **—** **compatible** **with** **Phase** **B** **before** **board** **or** **fabricated** **thread** **(investigator** **allows** **latter** **only** **as** **hypothesis** **)** |
+| **~3 week content sprint on existing engine** | Early **“three weeks”** **rumor**; **professional** **finish** **vs.** **sparse** **construction** **log** | **Beta** **2001–2002** **—** **read** **as** **earlier** **iteration** **or** **lore**, **not** **weekly** **solo** **ledger** |
+| **Five years as cover** | **No** **weekly** **5-year** **ledger**; **diary** **~11** **lines** | **TIGSource** **five-year** **quote** **—** **testimony**, **not** **inspectable** **audit** **trail** |
 
 ### 5.2 Legal actor
 
@@ -247,7 +260,7 @@ These items are **widely cited** in **public sources** and serve as **shared rea
 
 Keywords: #CaveStory #Undertale #StudioPixel #Nicalis #CSE2 #ControlledOpposition #FanLabor #ReverseEngineering #DMCA #Nintendo #N64 #OpenSource #ParadigmThreatFiles
 
-**Last updated:** 2026-05-13 (**§1.2** **one-year** **plan** **+** **three-week** **build-on-engine** **timeline**; **§2** **/** **§4** **/** **§5.7** **evidence-mirror** **hooks**)
+**Last updated:** 2026-05-13 (**§1.10** **open** **status** **/** **no-disproof** **at** **audit** **bar** **/** **full-release** **clearance** **condition**)
 
 ---
 
@@ -264,6 +277,8 @@ Keywords: #CaveStory #Undertale #StudioPixel #Nicalis #CSE2 #ControlledOppositio
 **§1.8** **/** **§5.5** **discipline:** **§1.8** **is** **industrial** **storytelling** **+** **working** **thesis**, **not** **a** **SKU** **inventory** **of** **every** **Nintendo** **home** **console** **2D** **title**; **§5.5** **blocks** **literal** **misreadings**. **§1.8’s** **“no** **innocent** **exceptions”** **clause** **is** **moral** **systems** **language** **—** **not** **a** **defamation** **vector** **against** **named** **individuals**.
 
 **§1.9** **/** **§5.6** **discipline:** **§1.9** **mixes** **documented** **headline** **business** **history** **(SNES** **CD** **/** **Sony** **splinter)** **with** **counterfactual** **/** **moral** **systems** **reads** **—** **§5.6** **separates** **retail** **hardware** **facts** **from** **R&D1** **idealization**. **“Betrayal”** **toward** **open** **communities** **is** **political** **judgment**, **not** **a** **tort** **complaint** **against** **named** **executives** **without** **docket-grade** **filings**.
+
+**§1.10 clearance discipline:** **“Open”** **investigation** **status** **is** **not** **a** **criminal** **conviction**. **Mainstream** **material** **in** **§5** **is** **preserved** **for** **reader** **balance** **but** **does** **not**, **in** **the** **investigator’s** **view**, **disprove** **§1.2** **without** **the** **full** **release** **bar** **in** **§1.10**.
 
 **Assistant / tooling:** File created with **drafting support** from **LLM** agents; **investigator** **supplied** **§1** **substance** **and** **directives**.
 
