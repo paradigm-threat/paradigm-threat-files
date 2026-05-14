@@ -1,8 +1,51 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-14T01:15:06.254Z",
+    "date": "2026-05-14T01:34:33.384Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "blog/2026-05-13-md2ast-migration-downtime-cave-story-pursue-roundup.md",
+        "href": "/blog/2026-05-13-md2ast-migration-downtime-cave-story-pursue-roundup"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",
+        "href": "/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story"
+      }
+    ],
+    "images": [
+      {
+        "src": "/blog/...)`",
+        "alt": "..."
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (metaphor figure)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
+        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png",
+        "alt": "Open source as sword in the stone — gated exhibit, alternate framing (metaphor figure)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (wider still)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
+        "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-14T01:15:05.000Z",
+    "message": "Cave Story: §1.10 open status — no disproof at audit bar; full-release clearance",
     "files": [
       {
         "status": "M",
@@ -1672,24 +1715,6 @@
       {
         "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
         "alt": "Open source as sword in the stone — gated exhibit, after hours (investigator metaphor figure)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-10T12:04:27.000Z",
-    "message": "Cave Story essay: reopening paragraph (unexpected 2D return, Hell hint)",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",
-        "href": "/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (metaphor figure)"
       }
     ]
   }

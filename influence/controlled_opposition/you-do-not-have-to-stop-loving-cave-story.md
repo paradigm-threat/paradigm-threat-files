@@ -2,8 +2,6 @@
 
 Keep loving *Cave Story* while splitting credit packaging from the pixels you loved
 
-![*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure](https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png)
-
 ![Open source as sword in the stone — gated exhibit, after hours (metaphor figure)](https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png)
 
 When *Cave Story* first came out, it was not really what the moment seemed to want—the wider scene had already filed two dimensions and visible pixels under “obsolete” and “legacy” as if the only serious future arrived in triangles and normal maps. Then this stubborn side-on island showed up anyway, and for old-school players it landed like every craving they had stopped saying out loud finally answered at once. I myself have been through Hell in *Cave Story*—the optional late-game stage that actually goes by that name—so I have no intention of diminishing that memory. I am writing because community labor and inspectable craft norms keep colliding with a glossy “one genius did it” receipt, and because the companion dossier already gathers the timelines, interviews, and falsifiers I lean on here: [*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation](https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md). This article is what I would hand a friend who does not live inside forum archaeology.
@@ -13,6 +11,9 @@ When *Cave Story* first came out, it was not really what the moment seemed to wa
 > **TL;DR:** Keep loving *Cave Story* while splitting the credit packaging from the pixels you loved. This article moves from what the public record actually shows through Nintendo’s hardware arc, the 2020 GitHub enforcement beat, and the “silver platter” pattern into ethics and late-capital media choke points. For timelines, tables, and investigator falsifiers, use the companion dossier, [*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation](https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md).
 
 ---
+
+
+![*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure](https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png)
 
 ## What *Cave Story* is, and what the public record supports
 
