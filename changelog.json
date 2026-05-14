@@ -1,8 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-13T23:57:47.798Z",
+    "date": "2026-05-14T00:09:46.862Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "M",
+        "path": "scripts/fill_tldr_todo.py",
+        "href": "/scripts/fill_tldr_todo.py"
+      },
+      {
+        "status": "M",
+        "path": "scripts/generate-index.py",
+        "href": "/scripts/generate-index.py"
+      }
+    ],
+    "images": [
+      {
+        "src": "/docs/)`)."
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-13T23:57:46.000Z",
+    "message": "Remove YAML frontmatter from hub page.md files; prefer H1 in index",
     "files": [
       {
         "status": "M",
@@ -1608,38 +1635,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-05-10T12:00:58.000Z",
     "message": "Cave Story essay: blog voice, sentiment preserved, Limits at end only",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/page.md",
-        "href": "/influence/controlled_opposition"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop.md",
-        "href": "/influence/controlled_opposition/undertale-cave-story-open-source-sword-gated-shop"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
-        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (investigator metaphor figure)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-10T11:54:21.000Z",
-    "message": "Cave Story reader article: full plan (primer, tables, silver platter, media coda); §3 cross-row",
     "files": [
       {
         "status": "M",

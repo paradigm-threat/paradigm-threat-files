@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Replace `> **TL;DR:** TODO` in markdown: remove if <12 paragraph-blocks, else fill from body/frontmatter."""
+"""Replace `> **TL;DR:** TODO` in markdown: remove if <12 paragraph-blocks, else fill from body."""
 from __future__ import annotations
 
 import re
@@ -15,34 +15,6 @@ def strip_frontmatter(text: str) -> str:
         if end != -1:
             return text[end + 4 :].lstrip("\n")
     return text
-
-
-def frontmatter_block(text: str) -> str | None:
-    if not text.startswith("---"):
-        return None
-    end = text.find("\n---", 3)
-    if end == -1:
-        return None
-    return text[3:end]
-
-
-def frontmatter_description(text: str) -> str | None:
-    block = frontmatter_block(text)
-    if not block:
-        return None
-    # Single-line description: "key: value"
-    m = re.search(r"^description:\s*(.+?)\s*$", block, re.M)
-    if not m:
-        return None
-    val = m.group(1).strip()
-    if val in ("", '""', "''"):
-        return None
-    if val.startswith((">", "|", '"')):
-        return None  # multiline / folded YAML — skip
-    val = val.strip('"').strip("'")
-    if len(val) < 25:
-        return None
-    return val
 
 
 def count_paragraphs_without_tldr(text: str) -> int:
@@ -117,10 +89,6 @@ def body_without_tldr(text: str) -> str:
 
 
 def extract_summary(text: str) -> str:
-    desc = frontmatter_description(text)
-    if desc:
-        return clamp_summary(md_to_plain(desc))
-
     body = body_without_tldr(text)
     # Prefer ## Synopsis / Summary / Abstract section
     m = re.search(
