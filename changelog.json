@@ -1,8 +1,42 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-15T14:00:41.085Z",
+    "date": "2026-05-15T14:10:52.939Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/mission-accomplished-again-iran-2026.md",
+        "href": "/governance/war/mission-accomplished-again-iran-2026"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
+        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
+        "alt": "Iran war runner — timeline, dual track, and regional map"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map.png",
+        "alt": "Iran war runner — theater map (Hormuz, Gulf, and adjacent land)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
+        "alt": "Iran war runner — Strait of Hormuz detail (theater map)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/ww2-mission-failed.png",
+        "alt": "WW2 — mission failed vs victory story (Coda lane)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-15T14:00:39.000Z",
+    "message": "Sync Substack links, Iran flagship edits, and investigation assets.",
     "files": [
       {
         "status": "M",
@@ -1903,62 +1937,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-10T12:49:05.000Z",
-    "message": "Cave Story reader essay: dedupe, industrial merge, voice + URL rules",
-    "files": [
-      {
-        "status": "M",
-        "path": ".cursor/rules/paradigm-threat-article-absolute-urls.mdc",
-        "href": "/.cursor/rules/paradigm-threat-article-absolute-urls.mdc"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/page.md",
-        "href": "/influence/controlled_opposition"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",
-        "href": "/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
-        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (investigator metaphor figure)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
-        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (metaphor figure)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png",
-        "alt": "Open source as sword in the stone — gated exhibit, alternate framing (metaphor figure)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (wider still)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
-        "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
-      }
-    ]
   }
 ]

@@ -2,7 +2,7 @@
 
 Intelligence agencies shaped the Middle East. Now the world lives with the consequences.
 
-Mission Accomplished (Again) — Iran 2026, media split, and war ledger
+![Mission Accomplished (Again) — Iran 2026, media split, and war ledger](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png)
 
 MI6 had a huge hand in establishing Israel. The CIA had a huge hand in establishing the clerical Iranian state that followed the Shah. Both were helped toward nuclear capability from the Western side of the ledger. Now we are on the brink of a nuclear holy war.
 
@@ -124,7 +124,11 @@ The operational spine is written as a living runner: **28 February 2026** as the
 
 [Iran war runner — timeline, dual track, and current state](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md)
 
-Iran war runner — timeline, dual track, and regional mapIran war runner — theater map (Hormuz, Gulf, and adjacent land)Iran war runner — Strait of Hormuz detail (theater map)
+![Iran war runner — timeline, dual track, and regional map](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png)
+
+![Iran war runner — theater map (Hormuz, Gulf, and adjacent land)](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map.png)
+
+![Iran war runner — Strait of Hormuz detail (theater map)](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png)
 
 On the facts that runner emphasizes: the **heavy strike phase** largely paused after the **7–8 April** ceasefire window; what remains is **not** June **2025**-scale missile exchange into Israeli cities—it is **strait leverage**, **HEU custody politics**, and the **Lebanon seam** where Israeli security doctrine refuses to pretend Tehran is “only” a file on a desk. The same week can include a **brokered pause** language in one headline and a **Lebanon wave** in another; the runner reads that as **dual track**, not as proof that nobody is in control.
 
@@ -150,7 +154,7 @@ The runner’s read—aligned with this article—is that **conventional Iranian
 
 ## Coda
 
-WW2 — mission failed vs victory story (Coda lane)
+![WW2 — mission failed vs victory story (Coda lane)](https://paradigmthreat.net/governance/war/ww2-mission-failed.png)
 
 In my opinion, in World War II the West was tricked into getting involved in a war at the wrong time for the wrong reasons.
 
