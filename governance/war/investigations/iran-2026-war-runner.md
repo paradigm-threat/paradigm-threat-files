@@ -3,6 +3,10 @@
 **As of:** 14 May 2026  
 **Status:** Living runner. Primary sources: U.S. White House, State Department, CENTCOM, Trump direct statements; cross-checked against ISW/CRS where noted.
 
+![Iran war runner — timeline, dual track, and regional map read](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png)
+
+![Iran war runner — theater map (Hormuz, Gulf, and adjacent land)](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map.png)
+
 ---
 
 ## When this war starts (editorial call)
@@ -128,7 +132,7 @@ Official articulation: State Dept Apr 2026 legal memo — cannot wait until a ho
 
 ## Minab school — counter-narrative
 
-Linked investigation: [iran-2026-propaganda-thesis.md](./iran-2026-propaganda-thesis.md).
+Linked investigation: [Iran 2026 propaganda thesis — Minab school counter-narrative](https://paradigmthreat.net/events/false_flag/investigations/iran-2026-propaganda-thesis.md).
 
 **Project position:**
 

@@ -2,7 +2,7 @@
 
 Two nuclear poles built from Western intelligence lanes, one civilizational brink, one honest question
 
-![Atoms for Peace — civil nuclear cover, strategic stakes](https://paradigmthreat.net/governance/war/atoms_for_peace.jpg)
+![Mission Accomplished (Again) — Iran 2026, media split, and war ledger](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png)
 
 MI6 had a huge hand in establishing Israel. The CIA had a huge hand in establishing the clerical Iranian state that followed the Shah. Both were helped toward nuclear capability from the Western side of the ledger. Now we are on the brink of a nuclear holy war.
 
@@ -120,7 +120,11 @@ This article does not adjudicate every clip. It names the pressure: **when attri
 
 The operational spine is written as a living runner: **28 February 2026** as the public start of **Operation Epic Fury**, **June 2025** as the legal and material prequel, and May **2026** as **war by other means**—Hormuz, mines, blockade politics, and a negotiation track that can look dead while guns stay mostly cold.
 
-[Iran war runner — timeline, dual track, and current state](https://paradigmthreat.net/events/false_flag/investigations/iran-2026-war-runner.md)
+[Iran war runner — timeline, dual track, and current state](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md)
+
+![Iran war runner — timeline, dual track, and regional map](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png)
+
+![Iran war runner — theater map (Hormuz, Gulf, and adjacent land)](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map.png)
 
 On the facts that runner emphasizes: the **heavy strike phase** largely paused after the **7–8 April** ceasefire window; what remains is **not** June **2025**-scale missile exchange into Israeli cities—it is **strait leverage**, **HEU custody politics**, and the **Lebanon seam** where Israeli security doctrine refuses to pretend Tehran is “only” a file on a desk. The same week can include a **brokered pause** language in one headline and a **Lebanon wave** in another; the runner reads that as **dual track**, not as proof that nobody is in control.
 
@@ -146,7 +150,7 @@ So is this war being fought for the wrong reason? Comparing World War II to the 
 
 ## Where next
 
-- [Iran war runner](https://paradigmthreat.net/events/false_flag/investigations/iran-2026-war-runner.md) — dated operational spine and dual-track read
+- [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md) — dated operational spine and dual-track read
 - [CIA investigation — Iran endgame script](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md#iv-iran-nukes-shah-ayatollah-and-the-end-game-script) — evidence tiers and long thesis
 - [Iran 2026 propaganda thesis — Minab school counter-narrative](https://paradigmthreat.net/events/false_flag/investigations/iran-2026-propaganda-thesis.md) — attribution problem stated as a live hypothesis
 - [CRS — Israel-Iran conflict, U.S. strikes, ceasefire (June 2025)](https://www.everycrsreport.com/reports/IF13032.html) — Congressional Research Service map-era summary
