@@ -287,6 +287,8 @@ Use this list to strengthen the file over time; items overlap Limits where noted
 
 Keywords: #War #CallOfDuty #ModernWarfare #Militainment #Iran #Russia #InfinityWard #Activision #Benghazi #13Hours #ProxyWar #VideoGames #Antibody #DeepState #Israel #CIA
 
+**Substack:** [paradigmthreat2.substack.com/p/call-of-duty-modern-warfare-militainment](https://paradigmthreat2.substack.com/p/call-of-duty-modern-warfare-militainment)
+
 ---
 
 ## Investigator notes

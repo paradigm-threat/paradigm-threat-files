@@ -505,6 +505,8 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 
 Keywords: #ControlledOpposition #GreatAwakening #DavidWilcock #Lightworkers #Revaluation #Dinar #GCR #NESARA #AncientAliens #WEF #GreatReset #NewWorldOrder #Disclosure #Conspirituality #Mars #DeepState #DrakeBailey #BenjaminFulford #Qanon #JesseVentura #IraqiDinar #MissingScientists #April2026 #Petrodollar #Dedollarization #OilForFood #Libya #Animatrix #PredictiveProgramming #SecondRenaissance
 
+**Substack:** [paradigmthreat2.substack.com/p/investigation-great-awakening-alien](https://paradigmthreat2.substack.com/p/investigation-great-awakening-alien)
+
 **Last substantive update:** 2026-04-30 — **§3.3.4** *Animatrix* / *Second Renaissance* predictive-programming read for currency-reset / blockade–war ladder + esoteric “gold” basin note (chemistry caveat). Prior: 2026-04-23 — **§3.3** Iraq/Libya reset read, timeline **§3.3.2**, gold stress-test **§3.3.3**; **§8** claims 7–9; **§9** Q7–Q8; **Limits** war-causation / media / Boko caveats; **§12** CBS Libya clip + Africa Check; **§3.6.6**; **§3.5**/**§3.7**.
 
 ---

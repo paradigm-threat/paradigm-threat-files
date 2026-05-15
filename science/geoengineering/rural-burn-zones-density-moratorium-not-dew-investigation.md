@@ -150,6 +150,8 @@ We should be worried — the photos are strange and the rebuild clock is real. *
 
 Keywords: #Brantley #Georgia #RuralBurnZone #DensityMoratorium #WeatherModification #PredictiveProgramming #Wildfire #LandGrab #ControlledOpposition #Rebuild
 
+**Substack:** [paradigmthreat2.substack.com/p/rural-burn-zones-need-a-density-moratorium](https://paradigmthreat2.substack.com/p/rural-burn-zones-need-a-density-moratorium)
+
 **Last updated:** 2026-05-13
 
 ---

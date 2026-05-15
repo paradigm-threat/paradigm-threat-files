@@ -7,6 +7,8 @@
 
 ![Iran war runner — theater map (Hormuz, Gulf, and adjacent land)](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map.png)
 
+![Iran war runner — Strait of Hormuz detail (theater map)](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png)
+
 ---
 
 ## When this war starts (editorial call)
@@ -225,6 +227,16 @@ Use **U.S. official KIA** and **Israeli Home Front** totals for **Western-facing
 
 ---
 
+## “Mission Accomplished (again)” — title bridge (Iraq / Libya / Iran)
+
+![WW2 — mission failed vs victory story (title bridge)](https://paradigmthreat.net/governance/war/ww2-mission-failed.png)
+
+**Project author read (not a primary-source verdict):** The flagship essay’s title is **not** only about the **carrier-banner** meme. The rhyme is **George W. Bush’s return to Iraq**: **WMD** and **liberation** as the **public case**, sitting on top of a dissident stack this project tracks—**Western-lane weapons and files** that had to be **removed or denied** before they became leverage, **plus** a **hard-money** shock that would have **broken fiat pretenses** fast enough to threaten **American insolvency** as a political fact. **Libya** is the cleaner **dual-motive** parallel in this collection’s long work: **regime** removal **and** **[gold / African dinar pressure](https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md#6-libya-under-gaddafi-threat-to-the-west-gold-and-african-currency)** against the **dollarized** order, with the **Hollywood “loot / accounting”** primer in the same file’s [*Three Kings* / 2003 Saddam contrast](https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md#three-kings-1999-david-o-russell).
+
+**Iran (2026) on this scoreboard reads narrower:** **nukes**—**latency**, **custody**, **red lines**—as the **main** visible engine; **regime change** **conditional** on whether the **Ayatollah** apparatus **bent** on enrichment. When it **refused** to budge, removal became **necessary** alongside the nuclear file—not a charity nation-build from zero. **Fiat backdrop** (collection reader lane): [governance usury — JFK / E.O. 11110](https://paradigmthreat.net/governance/usury/d.md). **Institutional Iran pipeline:** [CIA investigation §IV](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md#iv-iran-nukes-shah-ayatollah-and-the-end-game-script). **Reader-facing essay:** [Mission Accomplished (Again): What the Media Will Not Admit About Iran, 2026](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md).
+
+---
+
 ## References (primary / official first)
 
 - [State Dept: Operation Epic Fury and International Law](https://www.state.gov/releases/office-of-the-legal-adviser/2026/04/operation-epic-fury-and-international-law) (Apr 2026)
@@ -233,6 +245,8 @@ Use **U.S. official KIA** and **Israeli Home Front** totals for **Western-facing
 - [Trump PBS interview, 6 May 2026](https://www.pbs.org/newshour/nation/trump-tells-pbs-news-that-iran-war-has-a-very-good-chance-of-ending)
 - [ISW Iran Update, 11 May 2026](https://understandingwar.org/research/middle-east/iran-update-special-report-may-11-2026/)
 - [Mission Accomplished (Again): What the Media Will Not Admit About Iran, 2026](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) — reader-facing flagship essay (media split, pipeline, coda)
+- [Dubious stand down — Libya, Benghazi, gold / dinar, *Three Kings* cluster](https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md) — Iraq 2003 / Libya 2011 comparative lane for the “again” title
+- [Governance usury — JFK / silver, Treasury vs Fed reader](https://paradigmthreat.net/governance/usury/d.md) — fiat backdrop (collection reader lane)
 
 ---
 

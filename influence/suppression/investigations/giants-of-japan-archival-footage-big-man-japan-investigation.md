@@ -153,3 +153,5 @@ What is documented cleanly is **recurring viral miscaptioning** (1890 / early-18
 
 Keywords: #Giants #Japan #Bigmanjapan #Dainipponjin #Archivalfootage #Debunk #Controlledopposition #Perceptionmanagement #Tokusatsu #Ww2 #FrameRate #Undercranking #Provenance
 
+**Substack:** [paradigmthreat2.substack.com/p/investigation-open-giants-of-japan](https://paradigmthreat2.substack.com/p/investigation-open-giants-of-japan)
+

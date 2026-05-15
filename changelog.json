@@ -1,8 +1,143 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-15T12:39:52.641Z",
+    "date": "2026-05-15T14:00:41.085Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "blog/2026-04-25-netanyahu-health-disclosure-controlled-opposition-fomenko-site-toc.md",
+        "href": "/blog/2026-04-25-netanyahu-health-disclosure-controlled-opposition-fomenko-site-toc"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md",
+        "href": "/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
+        "href": "/governance/war/investigations/iran-2026-war-runner-map-hormuz.png"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/iran-2026-war-runner.md",
+        "href": "/governance/war/investigations/iran-2026-war-runner"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/mission-accomplished-again-iran-2026.md",
+        "href": "/governance/war/mission-accomplished-again-iran-2026"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/ww2-mission-failed.png",
+        "href": "/governance/war/ww2-mission-failed.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",
+        "href": "/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story"
+      },
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md",
+        "href": "/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation"
+      },
+      {
+        "status": "A",
+        "path": "influence/suppression/investigations/trump-mobile-t1-media-trust-industrial-narrative-investigation.md",
+        "href": "/influence/suppression/investigations/trump-mobile-t1-media-trust-industrial-narrative-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.md",
+        "href": "/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/iran-2026-war-runner-map-hormuz.png"
+      },
+      {
+        "src": "/governance/war/ww2-mission-failed.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.png",
+        "alt": "Consensus theater and the stalled physics pipeline — Big Mysteries Survey, popular science, and audit"
+      },
+      {
+        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — investigation header graphic"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
+        "alt": "Iran war runner — timeline, dual track, and regional map read"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map.png",
+        "alt": "Iran war runner — theater map (Hormuz, Gulf, and adjacent land)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
+        "alt": "Iran war runner — Strait of Hormuz detail (theater map)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/ww2-mission-failed.png",
+        "alt": "WW2 — mission failed vs victory story (title bridge)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.png",
+        "alt": "“Great Awakening” cluster illustration — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); see Limits and disclaimers"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (metaphor figure)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
+        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png",
+        "alt": "Open source as sword in the stone — gated exhibit, alternate framing (metaphor figure)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (wider still)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
+        "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
+      },
+      {
+        "src": "/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.png",
+        "alt": "Giants of Japan — archival footage, Big Man Japan, and debunk-overreach"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.png",
+        "alt": "Rural burn zones need a density moratorium — article graphic"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png",
+        "alt": "Brantley Highway 82 burn scar — selective destruction adjacent to intact pine canopy"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-15T12:39:51.000Z",
+    "message": "Blog rotation, consensus-theater pass, BRSINV thread updates, and new lanes.",
     "files": [
       {
         "status": "M",
@@ -1822,45 +1957,6 @@
       },
       {
         "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
-        "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-10T12:20:41.000Z",
-    "message": "Articles: self-reference as this article, not file/repo/page",
-    "files": [
-      {
-        "status": "A",
-        "path": ".cursor/rules/paradigm-threat-article-absolute-urls.mdc",
-        "href": "/.cursor/rules/paradigm-threat-article-absolute-urls.mdc"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",
-        "href": "/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
-        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (metaphor figure)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png",
-        "alt": "Open source as sword in the stone — gated exhibit, alternate framing (metaphor figure)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (wider still)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
         "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
       }
     ]

@@ -128,6 +128,8 @@ The survey authors **partially agree** that popular “consensus” is overstate
 
 Keywords: #BigMysteriesSurvey #ConsensusTheater #LambdaCDM #BigBang #PopularScience #ScienceAudit #MaxwellAether #SpaceForce #ProtestantParallel
 
+**Substack:** [paradigmthreat2.substack.com/p/consensus-theater-and-the-stalled](https://paradigmthreat2.substack.com/p/consensus-theater-and-the-stalled)
+
 **Last updated:** 2026-05-14 (flagship length expansion)
 
 ---
