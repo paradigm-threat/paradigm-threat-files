@@ -507,7 +507,7 @@ Roughly **80% of unique commenters accept or engage seriously with the DEW thesi
 
 **Verdict: CO pattern — demoralization + redirect.** The structure ("agree the problem is real, but redirect every action either to (a) my own substack or (b) the proposition that nothing works") is the most damaging CO mode because it is contagious in the comment section and saps mobilization energy. Whether Blue_French_Qtr is paid or merely temperamentally cynical, the *behavioral output* is identical to a paid demoralization agent.
 
-**Identity update (May 2026):** **Blue_French_Qtr** is the public brand of **Christopher Barton Julian** (**CB St. Julian of MalaCare**) at [brsinv.com](https://brsinv.com). The same operator publishes titles such as [US Federal Judicial zionist whoremongers of mammon](https://brsinv.com/2026/04/28/us-federal-judicial-zionist-whoremongers-of-mammon/) while demoralizing Brantley activists in-comment. Full argument/counter-argument tables: [BRSINV / St. Julian CO investigation](/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md); reader essay: [Captured courts, wrong villain](/influence/controlled_opposition/captured-courts-wrong-villain.md).
+**Identity update (May 2026):** **Blue_French_Qtr** is the public brand of **Christopher Barton Julian** (**CB St. Julian of MalaCare**) at [brsinv.com](https://brsinv.com). The same operator publishes titles such as [US Federal Judicial zionist whoremongers of mammon](https://brsinv.com/2026/04/28/us-federal-judicial-zionist-whoremongers-of-mammon/) while demoralizing Brantley activists in-comment. Full argument/counter-argument tables: [BRSINV / St. Julian CO investigation](/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md); reader essay: [Captured courts, wrong villain](/influence/controlled_opposition/captured-courts-wrong-villain.md). **May 14 live exchange:** see [Two CO archetypes](#two-co-archetypes--professional-detachment-vs-unpaid-enthusiasm-may-2026-update) — Type B confirmation.
 
 **5. Michael Myrick** (newly identified). 6 comments, mockery-bracketing:
 
@@ -525,6 +525,46 @@ Roughly **80% of unique commenters accept or engage seriously with the DEW thesi
 - "Youre a nutcase thinking Trump did this"
 
 **Verdict: Drive-by name-calling.** Too small a sample to weight heavily, but the pattern is consistent with a Trump-defender CO sub-mode: redirect the framing to partisan defense rather than engage the physics.
+
+### Two CO archetypes — professional detachment vs. unpaid enthusiasm (May 2026 update) {#two-co-archetypes--professional-detachment-vs-unpaid-enthusiasm-may-2026-update}
+
+The Brantley thread is not only **mockers vs. believers**. Two **repeatable CO roles** showed up in the same ecosystem with opposite **affect** but the same **containment product**: keep the audience on an **unwinnable forensic ask** (fire chief / radiation weapon / ethnic theology) and off **county land-use levers** (moratorium, parcel registry, referendum).
+
+| Field | **Type A — professional / detached** | **Type B — unpaid / enthusiastic** |
+|-------|----------------------------------------|--------------------------------------|
+| **Compensation (tier)** | **Hypothesis: paid or institutionally aligned** — no receipt in dossier; phenotype matches hosted “expert” lane | **Unpaid / temperamental** — true-believer energy; may self-fund (Substack, documentary, donate buttons) |
+| **Tone** | Cool, pseudo-professional, “factual” | Hot, insulting, apocalyptic, personal |
+| **Rhetorical move** | Cite **program names** (FRACTL, ATHENA), Geneva Convention, hardware specs — as if briefing a jury | Slurs + theology + **ethnic monolith** (Rothschild, “synagogue of Satan”) + **demoralization catalog** |
+| **Engagement when challenged** | **Doubles down on device trivia**; rejects strategic reframing toward moratorium / act-of-God institutional reality | **Refuses bullet-by-bullet rebuttal**; attacks reader intelligence; redirects to own media |
+| **Audience effect** | Makes thread look **serious** to Carol-type readers (“thank you for the factual”) while keeping ask **politically unemployable** | Makes thread look **crazy** to moderates; lets fact-checkers retire **whole** thread including real anomalies |
+| **Primary operator in sample** | ***Protect And Alert* (OP)** — see §XI.6 | **Blue_French_Qtr / CB St. Julian** — §XI.4 + [BRSINV dossier](/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md) |
+
+**Type A — field evidence (*Protect And Alert*, May 9–14, 2026):**
+
+- **[Poll post](https://protectandalert.substack.com/p/poll-to-see-if-i-should-start-a-group)** (May 9): draft letter to Fire Chief Stone demands **radiation-weapon / microwave** investigation; claims **“a thousand homes”** (vs. press **87**); microwave-oven analogy; Robert Brame citation. **Engagement:** ~**400 likes**, **120 comments**, thousands of views — **26** poll signers. Author frames low uptake as American cowardice, not as a **bad ask**.
+- **Comment thread (May 13–14):** When corrected that **“Jewish space lasers”** is a **headline meme** (MTG’s 2018 post cited **lasers / blue beams**, PG&E, Rothschild Inc. — not that exact phrase), OP **did not pivot to moratorium language**. Replied in **detached expert register**: **FRACTL** (tripod form factor, dime at half mile at 60 MPH), **ATHENA** (“can be mounted on anything”), **Geneva Convention** — presented as the **factual** counter to strategic reframing. **Carol** thanked OP for “the factual”; **Protect And Alert** liked both the correction thread and Carol’s thanks — **rewarding device trivia over campaign geometry**.
+- **Institutional read (author):** Fire chief / insurer / senator offices already bucket anomalies under **act of God** — theological and legal umbrella where **beam vs. drought does not change the file**. Petitioning Chief Stone for radiation forensics is **outside authority** by design; Type A rhetoric **feels** rigorous while preserving that dead end.
+
+**Type B — field evidence (Blue_French_Qtr, May 12–14, 2026):**
+
+- **Brantley thread (May 12 snapshot):** demoralization catalog + **brsinv.com** redirect — §XI.4 above.
+- **Follow-up (May 14):** Paradigm Threat: “I read your material; name the wrong bullet.” **Blue_French_Qtr:** **“Classic Egidiot,”** “you have no clue about the reality of the world,” documentary attachment, **Bible as prescription**, **Roman Tower of Babel**, **synagogue of Satan**, **Jacob Israel Rothschild** — **zero** engagement with court-capture bullets or **county moratorium** counter-ask.
+
+**Why both types matter together:** Type A **lends credibility** to the unemployable petition (hardware names, “not a conspiracy theory,” legal-draft tone). Type B **taints** anyone still on the thread (ethnic exit, insults, blackpill). Moderates flee; believers stay radicalized; **commissioners face no organized moratorium pressure.** Same machine as [rural burn zones CO trap](../rural-burn-zones-density-moratorium-not-dew-investigation.md#the-trap-is-older-than-brantley): cover story + **two-flank** controlled opposition.
+
+**Diagnostic note:** Type A is **not** automatically CO — a forensic journalist can cite FRACTL calmly. The CO marker is **host + petition + rejection of winnable local politics** while amplifying **chief/insurer-dead-end** asks. Type B’s CO marker is **behavioral** (§CO-detection rule below): demoralize, redirect, ethnic shield, no update when challenged.
+
+**Compensation disclaimer (author):** **Paid vs. unpaid cannot be proven** from the public thread alone. The table’s compensation column is **speculation on phenotype**, not a receipt. What *is* documented is **joint containment**: two voices, opposite affect, same dead-end for county organizing.
+
+**Paradigm Threat ↔ Julian challenge (May 14, 2026) — bullet summary challenged:**
+
+1. Julian documents **real** court-capture grievances (RICO conversion, NAD, cert denial).
+2. He **routes** moral headlines through **Zionist / mammon** ethnic framing — associative taint parallel to “Jewish space lasers.”
+3. On Brantley he **demoralized** civic action and **redirected** to **brsinv.com**.
+4. When challenged, he **performed ethnic/theological exit** instead of policy counter.
+5. Counter-frame: engage dockets; refuse monolith; pivot to **moratorium** — [rural burn zones article](../rural-burn-zones-density-moratorium-not-dew-investigation.md).
+
+**Julian reply:** “Classic Egidiot,” documentary plug, **synagogue of Satan**, **Jacob Israel Rothschild**, Bible prescription — **confirmed bullets 2–4 live** without engaging bullet 1 on the merits or bullet 5 at all.
 
 ### Identified GOOD-FAITH SKEPTICS — *not* controlled opposition
 

@@ -1,6 +1,6 @@
 # Investigation: Big Mysteries Survey — consensus theater, menu design, and the stalled physics pipeline
 
-> **TL;DR:** In May 2026 the American Physical Society’s **Physics Magazine** published the **Big Mysteries Survey** ([arXiv:2605.11058](https://arxiv.org/html/2605.11058)): **1,675** physicist respondents on cosmology, black holes, quantum foundations, and quantum gravity. The **paper itself** argues that several “consensus” positions in popular accounts are **overstated** — yet the **press layer** ([Phys.org](https://phys.org/news/2026-05-largest-survey-physicists-standard-cosmology.html), [Gizmodo](https://gizmodo.com/one-of-the-largest-physics-surveys-ever-finds-no-one-agrees-on-anything-2000758137)) still narrates **ΛCDM under scrutiny** inside the **same vocabulary parade** (inflation, dark sectors, string theory) **without causal closure**. This dossier documents the **numbers**, the **instrument fence** (no “Big Bang never happened” option), **black-hole** and **QG** fracture, and cross-links to [Maxwell / æther](/science/maxwell_aether/02-did-maxwell-prove-the-aether.md), [incorrectly scaled universe](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md), [quantum deferral](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md), [warfare–science jumps](/history/chronology/history-qa/page.md), [Space Force mockery](/influence/hollywood/trump-era-hollywood-political-media-investigation.md), and [audit vs disclosure](/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md). **Author thesis (§11):** popular science is **faith-based entertainment** that **democratizes** truth by **consensus spectacle** while **foreclosing audit** and **older grounded electrodynamic lanes**.
+> **TL;DR:** In May 2026 the American Physical Society’s **Physics Magazine** published the **Big Mysteries Survey** ([arXiv:2605.11058](https://arxiv.org/html/2605.11058)): **1,675** physicist respondents on cosmology, black holes, quantum foundations, and quantum gravity. The **paper itself** argues that several “consensus” positions in popular accounts are **overstated** — yet the **press layer** still narrates **ΛCDM under scrutiny** inside the **same vocabulary parade** **without causal closure**. **Author isomorph (§10.1):** contemporary physics behaves like **Protestant denominationalism** — camps fixated on **badge differences** (string, inflation, dark sector, interpretation) while **assuming** the **whole** is handled elsewhere; **big-picture** challenge treated as **blasphemy** in both science and religion. This dossier documents **numbers**, **menu fence**, cross-links, and **audit** hooks. Reader essay: [consensus theater article](/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md).
 
 **Status:** Open — survey and press layers sourced; ROI budget archaeology and Space Force funding traces deferred (§14).
 **Date:** 2026-05-14
@@ -18,7 +18,7 @@
 7. **Stalled pipeline, ROI, audit (structural)** → §7.
 8. **Warfare and paradigm jumps** → §8.
 9. **Space Force posture** → §9.
-10. **Political isomorphs** → §10.
+10. **Political isomorphs + Protestant parallel** → §10–§10.1.
 11. **Author originating thesis + open claims** → §11–§12.
 12. **Questions, TODOs, Related** → §13–§15.
 
@@ -267,6 +267,25 @@ Polling **1,675** physicists is framed publicly as **science becoming more democ
 
 **Bubble thesis (author):** Careers spent **inside** the bubble never teach **older, more grounded** theory families; challengers with **paper, demo, or logic** are **not admitted** if they threaten **funding grammar**.
 
+### 10.1 Protestant denominationalism parallel (author, 2026-05-14)
+
+> The current state of science is just like the current state of Protestant Christianity. Essentially, you got a bunch of different churches all worshipping one or more specific things about Christianity, like baptism, or the tribal nature of their church history. And in the end of the day, all the churches are assuming that the bigger picture is handled by the rest, where in reality, it seems that nobody's looking at the bigger picture at all, and everyone is too finely focused on the individual faith they have that separate out their individual denominations from each other, and that they're being more careful to identify correctly than they are to bridge the gaps or even put up new challenges to the original church doctrine they were originally protesting — either Catholic or Greek Orthodox. There is no interest in new challenges or new bridges. Everything must stay the same forever in this new system. Looking at the big picture is now seen as blasphemy in both science and religion, especially if you suggest that reality is anything other than what everyone had assumed from the beginning without ever looking into it.
+
+**Unpack:** The parallel is **structural**, not a claim that every physicist is secretly Protestant. **Reformation** language fits: sub-camps define themselves against **siblings** more than against the **mother frame** they never fully escaped.
+
+| Protestant habit (author) | Rhyme in Big Mysteries / physics culture |
+|---------------------------|------------------------------------------|
+| Denominations fixate on **one sacrament or tribal history** | Sub-fields fixate on **one mystery** — inflation, axions, string, Copenhagen, MOND — as **identity** |
+| Each church **assumes** the **whole gospel** is covered **collectively** | Each camp **assumes** ΛCDM / hot-dense Bang / QFT+GR **scaffolding** is **someone else’s** settled job |
+| **Precision of belonging** beats **bridging** or **new protest** | Survey **correlated bundles** (§1.2 arXiv Table 1) — **coherent denominations**, not synthesis |
+| No sustained challenge to **Rome / Constantinople** | No instrument option to **reject** the Bang frame, steady-state, plasma-cosmos — **protest frozen** |
+| **Big-picture** question = **blasphemy** | **Audit**, **æther** rehabilitation, **ROI** tables, **steady-state** — **career risk** / ridicule |
+| **Forever** the same schismatics | Q5 **no opinion** **24.4%**; Q10 **no opinion** leads — **stalemate** as **feature** |
+
+**Survey read through §10.1:** Afshordi et al. document **denominational headcounts**; popular press still narrates a **unified church service**. The [reader article](/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md) opens on this parallel before the Phys.org walk-through.
+
+**Tier:** **Author** pattern language; **not** sociological proof that physicists self-identify as denominations — falsifiable via **ethnography of subfields** (§13) if pursued.
+
 ---
 
 ## 11. Author’s originating thesis (verbatim + unpack)
@@ -279,7 +298,7 @@ Polling **1,675** physicists is framed publicly as **science becoming more democ
 >
 > So my bottom line is this isn't how scientists should be behaving. They should be open-minded and they should be aware of everything that's happening in the community and not closed off into a rigid iron-hard bubble that no one is allowed to penetrate, no matter what they are able to challenge on paper, demonstrate in real life, or even demonstrate logically. They are simply not allowed to enter the bubble. And those who live in the science bubble their whole lives will never ever be taught that there was an entirely different range of science theories out there that were far more grounded and older than the pro-war, pro-corporate, pro-entertainment version of science that we know today.
 
-**Unpack (assistant, non-replacement):** The prosecution target is the **full stack** — survey **menu**, **press retelling**, **pedagogy**, **funding**, and **militainment** — not the Afshordi paper’s **narrow** claim that headlines overstate agreement. The survey **partially supports** the author on **fragmentation** while **contradicting** a literal read of “everyone agrees on ΛCDM” in **popular** summaries.
+**Unpack (assistant, non-replacement):** The prosecution target is the **full stack** — survey **menu**, **press retelling**, **pedagogy**, **funding**, and **militainment** — not the Afshordi paper’s **narrow** claim that headlines overstate agreement. The survey **partially supports** the author on **fragmentation** while **contradicting** a literal read of “everyone agrees on ΛCDM” in **popular** summaries. **§10.1** (2026-05-14) adds the **Protestant denominationalism** isomorph: **splinter precision** without **cathedral-level** audit.
 
 ---
 
@@ -297,6 +316,8 @@ Polling **1,675** physicists is framed publicly as **science becoming more democ
 10. **Space Force** **mocked** and **starved** to keep **spaceflight** **commercial / spectacle** — **Author**, needs budget cites.
 11. **Physics culture** **mirrors** political **divide-and-conquer** (secular/spiritual, grounded/hypothetical).
 12. **Epistemic bubble** — **grounded older** electrodynamic lanes **excluded** from **career pedagogy**.
+13. **Protestant parallel** — physics culture as **denominationalism**: **badge** fights, **assumed** whole, **no** new **protest** against mother frame; **big picture** = **blasphemy** (§10.1).
+14. **Science–religion isomorph** — same **taboo** on questioning **opening assumptions** without **ever** having **looked** (§10.1 verbatim).
 
 ---
 
@@ -311,6 +332,7 @@ Polling **1,675** physicists is framed publicly as **science becoming more democ
 | Q5 | DESI **press** volume vs Q4 **time-varying** bump — **causal** or **coincident**? | Timeline of DESI releases vs survey fielding window |
 | Q6 | Catalog **black-hole dissident** literature **cited** in Q8/Q9 **Other** buckets | arXiv/html qualitative supplement |
 | Q7 | **Lifetime public physics demos** — define metric (fusion gain, room-temp superconductor replication, etc.) and score | Explicit rubric + third-party replication logs |
+| Q8 | Does **subfield ethnography** show **denominational** identity **over** **synthesis** attempts (author §10.1)? | Interviews / citation-network studies across camps |
 
 ---
 
@@ -336,13 +358,13 @@ Polling **1,675** physicists is framed publicly as **science becoming more democ
 | Warfare – HR – Big Bang | [/history/chronology/history-qa/page.md](/history/chronology/history-qa/page.md) |
 | Space Force / Hollywood | [/influence/hollywood/trump-era-hollywood-political-media-investigation.md](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) |
 | Audit vs disclosure | [/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md](/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md) |
-| **This article pair** | [/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md](/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md) |
+| **This article pair** | [/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md](/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md) — flagship reader essay: press-vs-survey table, correlated-bundle section, Protestant parallel lede |
 | **Primary** | [arXiv:2605.11058](https://arxiv.org/html/2605.11058) |
 | **Press** | [Phys.org May 2026](https://phys.org/news/2026-05-largest-survey-physicists-standard-cosmology.html) · [APS Physics Magazine](https://physics.aps.org/articles/v19/34) |
 
 ---
 
-Keywords: #BigMysteriesSurvey #ConsensusTheater #LambdaCDM #BigBang #BlackHoles #QuantumGravity #MaxwellAether #SpaceForce #ScienceAudit #PopularScience
+Keywords: #BigMysteriesSurvey #ConsensusTheater #LambdaCDM #BigBang #BlackHoles #QuantumGravity #MaxwellAether #SpaceForce #ScienceAudit #PopularScience #ProtestantParallel
 
 ## Limits and disclaimers
 

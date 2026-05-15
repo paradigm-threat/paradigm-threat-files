@@ -1,8 +1,105 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-15T12:37:23.434Z",
+    "date": "2026-05-15T12:39:52.641Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".github/copilot-instructions.md",
+        "href": "/.github/copilot-instructions"
+      },
+      {
+        "status": "A",
+        "path": "blog/2026-05-14-md2ast-migration-downtime-cave-story-pursue-consensus-theater-roundup.md",
+        "href": "/blog/2026-05-14-md2ast-migration-downtime-cave-story-pursue-consensus-theater-roundup"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md",
+        "href": "/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md",
+        "href": "/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation"
+      },
+      {
+        "status": "M",
+        "path": "docs/BLOG.md",
+        "href": "/docs/BLOG"
+      },
+      {
+        "status": "A",
+        "path": "influence/conspiracy/do-you-believe-in-ghosts.md",
+        "href": "/influence/conspiracy/do-you-believe-in-ghosts"
+      },
+      {
+        "status": "A",
+        "path": "influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation.md",
+        "href": "/influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/captured-courts-wrong-villain.md",
+        "href": "/influence/controlled_opposition/captured-courts-wrong-villain"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation"
+      },
+      {
+        "status": "A",
+        "path": "influence/religion/exorcism-demonology-disease-colonial-memory-investigation.md",
+        "href": "/influence/religion/exorcism-demonology-disease-colonial-memory-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.md",
+        "href": "/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.md",
+        "href": "/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/blog/url)`",
+        "alt": "alt"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.png",
+        "alt": "Consensus theater and the stalled physics pipeline — Big Mysteries Survey, popular science, and audit"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.png",
+        "alt": "Captured courts and ethnic scapegoating — controlled opposition diagram (header)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.png",
+        "alt": "BRSINV / St. Julian — captured courts and Zionist framing investigation (header)"
+      },
+      {
+        "src": "/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png",
+        "alt": "Atkinson, Georgia / Brantley Highway 82 fire — radiation-weapon investigation: signature anomalies of vaporized structures adjacent to intact pine canopy"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.png",
+        "alt": "Rural burn zones need a density moratorium — article graphic"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png",
+        "alt": "Brantley Highway 82 burn scar — selective destruction adjacent to intact pine canopy"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-15T12:37:22.000Z",
+    "message": "Move Iran war runner to governance/war and ship hero assets.",
     "files": [
       {
         "status": "A",
@@ -1739,40 +1836,6 @@
         "path": ".cursor/rules/paradigm-threat-article-absolute-urls.mdc",
         "href": "/.cursor/rules/paradigm-threat-article-absolute-urls.mdc"
       },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",
-        "href": "/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
-        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (metaphor figure)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png",
-        "alt": "Open source as sword in the stone — gated exhibit, alternate framing (metaphor figure)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (wider still)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
-        "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-10T12:17:36.000Z",
-    "message": "Cave Story essay: no diminishing that memory (opening)",
-    "files": [
       {
         "status": "M",
         "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",

@@ -2,11 +2,11 @@
 
 ![BRSINV / St. Julian — captured courts and Zionist framing investigation (header)](brsinv-st-julian-captured-courts-zionist-framing-investigation.png)
 
-> **TL;DR:** **Christopher Barton Julian** (**CB St. Julian of MalaCare**; blog **Blue_French_Qtr** / [brsinv.com](https://brsinv.com)) documents **federal court capture** and **USDA/FSA administrative tyranny** across public dockets (**4:13-cv-00054**, **14-1051**, **1:15-cv-01344**). He simultaneously publishes **Zionist** / **mammon** headlines and ran **demoralization + redirect** CO behavior on the **Brantley** wildfire thread as **Blue_French_Qtr**. **Author counter-thesis:** ethnic monolithing is an **ideological shield**; the **deep state routes all religions**; **1979** is the documented holy-war pivot (**CIA–Khomeini**, Mecca, Moral Majority); **NSA** class functions as **institutional antibody** to **CIA** primacy. **Policy fork:** engage docket substance; refuse ethnic exit; link [moratorium campaign](https://paradigmthreat.net/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.md).
+> **TL;DR:** **Christopher Barton Julian** (**CB St. Julian of MalaCare**; blog **Blue_French_Qtr** / [brsinv.com](https://brsinv.com)) documents **federal court capture** and **USDA/FSA administrative tyranny** across public dockets (**4:13-cv-00054**, **14-1051**, **1:15-cv-01344**). He simultaneously publishes **Zionist** / **mammon** headlines and ran **demoralization + redirect** CO behavior on the **Brantley** wildfire thread as **Blue_French_Qtr** — the **Type B** (enthusiastic / danger-zone) flank in a **two-archetype** CO field documented alongside ***Protect And Alert***’s **Type A** (detached pseudo-professional) lane. **Compensation (paid vs. unpaid) is not provable here — speculative only.** **Author counter-thesis:** ethnic monolithing is an **ideological shield**; the **deep state routes all religions**; **1979** is the documented holy-war pivot (**CIA–Khomeini**, Mecca, Moral Majority); **NSA** class functions as **institutional antibody** to **CIA** primacy. **Policy fork:** engage docket substance; refuse ethnic exit; link [moratorium campaign](https://paradigmthreat.net/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.md).
 
-**Status:** Open — primary sources = Julian’s published posts + Substack comment API snapshot; institutional claims cross-read from in-tree investigations.
+**Status:** Open — primary sources = Julian’s published posts + Substack comment API snapshot + May 14 live comment exchange; institutional claims cross-read from in-tree investigations.
 
-**Date:** 2026-05-13
+**Date:** 2026-05-14
 
 **Guide (read order)**
 
@@ -151,15 +151,44 @@ Julian’s multi-year publishing arc treats the federal judiciary as **captured*
 
 ## 4. Brantley thread — CO field link (Blue_French_Qtr)
 
-Full behavioral profile: [Atkinson investigation §XI.4](https://paradigmthreat.net/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.md#4-blue_french_qtr-newly-identified).
+Full behavioral profile: [Atkinson investigation §XI.4](https://paradigmthreat.net/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.md#4-blue_french_qtr-newly-identified). **Two-archetype field map:** [Atkinson §XI — Two CO archetypes](https://paradigmthreat.net/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.md#two-co-archetypes--professional-detachment-vs-unpaid-enthusiasm-may-2026-update).
 
-**Symmetric inference (author):** Resources deploy against threads that **fringe on truth**. Julian’s simultaneous role as **demoralizer on Brantley** and **Zionist-framing publisher** suggests:
+### 4.1 Two CO archetypes on one thread (author field read)
+
+The Brantley *Protect and Alert* ecosystem is not only **mockers vs. believers**. Two **repeatable controlled-opposition roles** appeared with opposite **affect** but the same **containment product**: keep Georgians on an **unwinnable forensic ask** (fire chief / radiation weapon / ethnic theology) and off **county land-use levers** (moratorium, parcel registry, referendum).
+
+| Field | **Type A — detached / pseudo-professional** | **Type B — enthusiastic / danger-zone** |
+|-------|-----------------------------------------------|-------------------------------------------|
+| **Operator in sample** | ***Protect And Alert*** (OP / host) | **Blue_French_Qtr / CB St. Julian** |
+| **Compensation (tier)** | **Speculative: paid or institutionally aligned** — no receipt; phenotype matches hosted “expert briefing” lane | **Speculative: unpaid / temperamental** — true-believer energy; self-funded Substack, documentary plugs, donate buttons |
+| **Tone** | Cool, “factual,” legal-draft register | Hot, insulting, apocalyptic, personal |
+| **Rhetorical move** | **FRACTL**, **ATHENA**, Geneva Convention, microwave physics — hardware as if briefing a jury | **“Zionist whoremongers of mammon”** headlines; **Rothschild**, **synagogue of Satan**, **Roman Tower of Babel**, Bible-as-prescription; demoralization catalog |
+| **When challenged on strategy** | Doubles down on **device trivia**; does not pivot to moratorium / act-of-God institutional reality | Refuses bullet-by-bullet rebuttal; **“Classic Egidiot”**; attacks reader intelligence; redirects to own media |
+| **Audience effect** | Thread looks **serious** to moderates (“thank you for the factual”) while ask stays **politically unemployable** | Thread looks **crazy** to moderates; fact-checkers retire **whole** thread including real anomalies |
+| **Containment outcome** | **Credibility** without a **winnable petition** | **Taint** without needing to disprove anomalies |
+
+**Author limits:** Cannot prove Julian is unpaid or *Protect And Alert* is paid. **Can** document **behavioral phenotypes** and **joint effect** — same machine as [rural burn zones CO trap](https://paradigmthreat.net/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.md#the-trap-is-older-than-brantley): official cover story + **two-flank** opposition.
+
+### 4.2 Type A field notes — *Protect And Alert* (May 9–14, 2026)
+
+- **[Poll post](https://protectandalert.substack.com/p/poll-to-see-if-i-should-start-a-group)** (May 9): draft letter to Fire Chief Stone demands **radiation-weapon / microwave** investigation; claims **“a thousand homes”** (press: **87**); microwave-oven analogy; Robert Brame citation. **~400 likes**, **120 comments**, thousands of views — **26** poll signers. OP frames low uptake as American cowardice, not as a **structurally dead ask**.
+- **Main post comment thread (May 13–14):** External reader (**Paradigm Threat**) corrected that **“Jewish space lasers”** is a **headline meme** (MTG 2018 post: **lasers / blue beams**, PG&E, Rothschild Inc. — not that exact phrase); argued DEW/geoengineering/blue-house vocabulary is a **political non-starter** and **CO trap** vs. **county moratorium**. OP **did not adopt moratorium language**. Replied in **detached expert register**: **FRACTL** (tripod, dime at half mile at 60 MPH), **ATHENA** (mountable on anything), **Geneva Convention** — presented as the **factual** counter to strategic reframing. **Carol** thanked OP for “the factual”; OP **liked** both the correction and Carol’s thanks — **rewarding device trivia over campaign geometry**.
+- **Institutional counter-frame (same thread, reader):** Fire chief / insurer / senator offices already bucket catastrophe under **act of God** — legal and theological umbrella where **beam vs. drought does not change the file**; insurance policies spell out **act-of-God exclusions**; lines touching **demonology** / divine judgment are **outside formal authority** — “when God acted, they do not open a beam investigation.” Type A rhetoric **feels rigorous** while preserving that dead end.
+
+### 4.3 Type B field notes — Julian / Blue_French_Qtr (May 12–14, 2026)
+
+- **Brantley thread (May 12 API snapshot):** demoralization catalog + **brsinv.com** redirect — §2.4 / [Atkinson §XI.4](https://paradigmthreat.net/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.md#4-blue_french_qtr-newly-identified).
+- **Published headline lane:** [US Federal Judicial zionist whoremongers of mammon](https://brsinv.com/2026/04/28/us-federal-judicial-zionist-whoremongers-of-mammon/) — **danger-zone ethnic framing** in pseudo-legal costume.
+- **Live challenge (May 14):** Reader: “I read your material; [outlined CO bullets](https://paradigmthreat.net/influence/controlled_opposition/captured-courts-wrong-villain.md); name the wrong one.” **Blue_French_Qtr** reply to “I did so!” — **no docket rebuttal**: **“Classic Egidiot,”** “you have no clue about the reality of the world,” documentary attachment, **Bible as prescription for salvation from satanic despotism**, **Roman Tower of Babel**, **synagogue of Satan**, **Jacob Israel Rothschild** — **zero** engagement with court-capture bullets or **county moratorium** counter-ask. **Verdict:** live confirmation of Type B — enthusiasm + insult + ethnic/theological exit instead of policy counter.
+
+### 4.4 Why both types matter together
 
 1. **Parallel capture** — fire communities steered away from **winning zoning fights**; legal-reform readers steered into **ethnic blind alleys**.
-2. **Contagious cynicism** — “nothing works” lowers turnout for **moratorium** signatures and **court-reform** coalitions alike.
-3. **Identity reveal** — CO operator is not anonymous troll; is **published activist** with **opposite** stated mission (Spirit of the Laws / anti-apathy).
+2. **Contagious cynicism** — “nothing works” (Type B) + “here are the real weapons” without a winnable target (Type A) lowers **moratorium** turnout.
+3. **Identity reveal** — Type B is not an anonymous troll; is **published activist** with **opposite** stated mission (*Spirit of the Laws* / anti-apathy).
+4. **Two-flank geometry** — Type A **lends credibility** to unemployable petitions; Type B **taints** the thread; moderates flee; believers radicalize; **commissioners face no organized moratorium pressure.**
 
-**Correct counter-tactic (from Atkinson §XI):** Name pattern; engage **good-faith** skeptics; starve mockers; **do not** conflate Volonakis with Posey — same rule applies to **separating Julian’s dockets from his ethnic titles**.
+**Correct counter-tactic (from Atkinson §XI):** Name pattern; engage **good-faith** skeptics; starve mockers; **do not** conflate Volonakis with Posey — same rule applies to **separating Julian’s dockets from his ethnic titles** and to **separating real anomalies from Type A petition framing.**
 
 ---
 
@@ -201,11 +230,13 @@ flowchart LR
 
 | # | Question | Falsifier / next step |
 |---|----------|------------------------|
-| 1 | Is **Blue_French_Qtr** definitively Julian? | Substack byline match; Gravatar / WP identity; Julian reply to author comment |
-| 2 | Did Julian **profit** from Brantley demoralization? | Traffic analytics unavailable; track referral spikes |
-| 3 | Are **J1–J6** merits vindicated on appeal anywhere? | PACER pull; independent legal review |
-| 4 | Does Julian publish **non-ethnic** court-reform headlines that gained traction? | Archive scrape — test whether Zionist framing is **always** present |
-| 5 | Can **moratorium + court-reform** coalition form without ethnic split? | Organizing experiment in Brantley + legal-sovereignty lanes |
+| 1 | Is **Blue_French_Qtr** definitively Julian? | **Partially closed** — May 14 live reply under Julian handle; full identity forensics still useful |
+| 2 | Is either operator **paid** CO? | **Unprovable** from public thread; track referral spikes, coordinated timing, account age |
+| 3 | Did Julian **profit** from Brantley demoralization? | Traffic analytics unavailable; track referral spikes |
+| 4 | Are **J1–J6** merits vindicated on appeal anywhere? | PACER pull; independent legal review |
+| 5 | Does Julian publish **non-ethnic** court-reform headlines that gained traction? | Archive scrape — test whether Zionist framing is **always** present |
+| 6 | Will *Protect And Alert* **pivot** to moratorium poll after 26/400 signal? | Watch next post / petition object |
+| 7 | Can **moratorium + court-reform** coalition form without ethnic split? | Organizing experiment in Brantley + legal-sovereignty lanes |
 
 ---
 
@@ -220,7 +251,7 @@ flowchart LR
 
 Keywords: #ControlledOpposition #BRSINV #BlueFrenchQtr #CapturedCourts #ZionistFraming #1979 #CIA #NSA #Demoralization #Brantley
 
-**Last updated:** 2026-05-13
+**Last updated:** 2026-05-14
 
 ---
 
@@ -236,4 +267,5 @@ Keywords: #ControlledOpposition #BRSINV #BlueFrenchQtr #CapturedCourts #ZionistF
 
 - Brantley comment API snapshot referenced in Atkinson dossier (May 12, 2026).
 - BRSINV fetch May 13, 2026 — April 2026 post body minimal (image + video).
-- Suggested comment text for Julian post drafted in Cursor session 2026-05-13 (user-facing; not stored in repo unless appended).
+- May 14 Substack exchanges: Paradigm Threat ↔ *Protect And Alert* (FRACTL/ATHENA vs. moratorium); Paradigm Threat ↔ Blue_French_Qtr (CO bullet challenge → Egidiot/Rothschild reply).
+- Two-archetype CO typology (Type A detached / Type B enthusiastic) — author speculative on paid vs. unpaid; behavioral phenotype documented.

@@ -44,8 +44,40 @@ Create new posts in `blog/` with the naming convention `YYYY-MM-DD-slug.md`. Run
 **Cover all changed repos and list all changes.** After git review:
 
 1. **Check git for all three paradigm-threat* repos** — **paradigm-threat-timeline**, **paradigm-threat-files**, **paradigm-threat-site** — for commits and file changes since the **last blog entry** (by date: the most recent `YYYY-MM-DD-*.md` in `blog/` before this one), using the procedure above.
-2. **Start each repo section with a short summary (one paragraph)** that describes all updates in that repo in a few sentences; then list each new or updated item with a **link** — timeline events use `https://paradigmthreat.net/timeline/evt-<id>`, other content uses `https://paradigmthreat.net/<path>` (no `.md`). Group by repo: **paradigm-threat-timeline**, **paradigm-threat-files**, **paradigm-threat-site**. Omit a repo section only if it had no changes since the last post.
-3. When only one repo changed, a single section is fine. When two or three changed, the entry must have a section per changed repo, each beginning with a one-paragraph summary of that repo's updates, then links to all new/updated content.
+2. **Start each repo section with an expanded summary (two or three paragraphs)** that explains what landed, how the pieces connect, and why a reader should care — not just a commit inventory. Then list each new or updated item with a **link** and enough prose to say what the piece *covers* (thesis, scope, companion dossier, notable sections). Timeline events use `https://paradigmthreat.net/timeline/evt-<id>`; other content uses `https://paradigmthreat.net/<path>` (no `.md`). Group by repo: **paradigm-threat-timeline**, **paradigm-threat-files**, **paradigm-threat-site**. Omit a repo section only if it had no changes since the last post.
+3. When only one repo changed, a single section is fine. When two or three changed, the entry must have a section per changed repo, each beginning with the expanded summary, then links to all new/updated content.
+4. See **Length and depth** below for target size, subsectioning, and per-item detail.
+
+### Length and depth
+
+**Target roughly twice the length of typical 2026 roundup posts** (~50–85 lines before topics). Aim for **~100–170 lines** for a normal multi-repo window; scale up when the git window is heavy (many new essays, site migrations, downtime, or cross-repo infra). Thin weeks can be shorter, but **do not** ship link-only bullet lists when a prior post in the same month already used that shape — readers expect a catch-up narrative, not a sitemap.
+
+**Model:** [`blog/2026-05-13-md2ast-migration-downtime-cave-story-pursue-roundup.md`](../blog/2026-05-13-md2ast-migration-downtime-cave-story-pursue-roundup.md) (context section + themed subsections + reading order). Contrast with the shorter [`blog/2026-05-05-may-roundup-circle-of-life-cancer-success-site-updates.md`](../blog/2026-05-05-may-roundup-circle-of-life-cancer-success-site-updates.md) — acceptable as a bridge, but **not** the default target going forward.
+
+**Opening (above repo sections):**
+
+- **Summary** — two paragraphs when the window warrants it: (1) link the **previous** dated post and name the major themes; (2) reader-visible context (downtime, migration, editorial stance, catch-up for omitted work).
+- Optional **thematic H2** (e.g. “What broke, what shipped, and why it mattered”) when infra, deploy pain, or a cross-cutting story is part of the update — explain mechanics and impact in prose, not only in the site repo section.
+
+**Per-repo sections:**
+
+- **H2 per changed repo** (`## paradigm-threat-files`, etc.).
+- **Thematic H3 subsections** inside large files-repo drops (e.g. controlled opposition, cosmology, geoengineering) when three or more related items shipped — one short bridging paragraph per subsection before its link list.
+- **Site / timeline sections** — spell out user-visible behavior (search, TTS, rendering, redirects, tests), not only dependency names.
+- **“Expanded in place”** or **housekeeping** subsections when URLs stayed the same but dossiers or docs grew materially.
+
+**Per-item links:**
+
+- Prefer **one to three sentences** after each link (em-dash lead-in is fine): what argument or evidence tier the reader gets, which companion investigation to open next, notable § anchors or figures when git/commit messages surface them.
+- Major new essays and investigations deserve **full sentences**; minor hub or doc tweaks can stay one line.
+- Group related article + investigation pairs under the same bullet or adjacent bullets with cross-refs.
+
+**Closing (optional but encouraged for busy windows):**
+
+- **Reading order** — numbered paths through clusters (essay → dossier, or moratorium → captured-courts thread) when more than one narrative lane landed.
+- **Publication notes** — doc/workflow changes, Substack mirror, index/changelog passes, if not already covered.
+
+**Do not pad** with generic project mission text; length should come from **coverage and context**, not repetition.
 
 ## Topic hashtags
 
