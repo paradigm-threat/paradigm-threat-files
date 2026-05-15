@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-14T11:37:23.208Z",
+    "date": "2026-05-15T12:21:14.144Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "events/false_flag/investigations/iran-2026-war-runner.md",
+        "href": "/events/false_flag/investigations/iran-2026-war-runner"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/mission-accomplished-again-iran-2026.md",
+        "href": "/governance/war/mission-accomplished-again-iran-2026"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/governance/war/atoms_for_peace.jpg",
+        "alt": "Atoms for Peace — civil nuclear cover, strategic stakes"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-14T11:37:22.000Z",
+    "message": "Add Big Mysteries consensus-theater investigation, reader article, and hero image.",
     "files": [
       {
         "status": "A",
@@ -1728,40 +1751,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-05-10T12:17:06.000Z",
     "message": "Cave Story essay: Hell as in-game stage, not metaphor disclaimer",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",
-        "href": "/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
-        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (metaphor figure)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png",
-        "alt": "Open source as sword in the stone — gated exhibit, alternate framing (metaphor figure)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (wider still)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
-        "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-10T12:14:30.000Z",
-    "message": "Cave Story essay: dossier header + gated-sword figure set",
     "files": [
       {
         "status": "M",
