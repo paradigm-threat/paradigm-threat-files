@@ -1,9 +1,9 @@
 # Ghost Tourism, Memory Echo vs. Spirit — and the Suppression Hypothesis
 
-> **TL;DR:** Commercial ghost tours are a **real industry** with a **real debunk record** (Savannah is the clearest public lab). What you can take away tangibly is mostly **economic and epistemic**: tours sell **attention, narrative, and location**; “evidence” is often **secondary to story**; and when historians check primary sources, marquee tales frequently **collapse or shrink**. **§7** catalogs **instrumented parapsychology / meta-analysis** and **NAS 1988**; **§8** documents **1970s–1990s** **CIA/Army** RV lines (**documented**). **§9** carries **open speculation** through **§9.15** (*The Real GhostBusters* thesis: **ethereal noise**, **pineal/fluoride**, **program handoff**, **revival lock**, **political haunt**). **Reader essay:** `the-real-ghostbusters.md`. **Epistemic frame:** **§0.1–§0.3**; **§0.4** = published article pointer.
+> **TL;DR:** Commercial ghost tours are a **real industry** with a **real debunk record** (Savannah is the clearest public lab). What you can take away tangibly is mostly **economic and epistemic**: tours sell **attention, narrative, and location**; “evidence” is often **secondary to story**; and when historians check primary sources, marquee tales frequently **collapse or shrink**. **§7** catalogs **instrumented parapsychology / meta-analysis** and **NAS 1988**; **§8** documents **1970s–1990s** **CIA/Army** RV lines (**documented**). **§9** carries **open speculation** through **§9.17** (*The Real GhostBusters* thesis: **ethereal noise**, **World’s Fair / Tartarian register scrub**, **White House MEP gutting**, **pineal/fluoride**, **program handoff**, **revival lock**, **political haunt**, **EVP/microphone category error**). **Reader essay:** `the-real-ghostbusters.md`. **Epistemic frame:** **§0.1–§0.3**; **§0.4** = published article pointer.
 
 **Date:** 2026-05-15  
-**Status:** Open — primary debunk and industry scan logged; “countermeasures / suppression” sections explicitly hypothetical; **§9.4** expanded 2026-05-16; **§7–§8** expanded 2026-05-17; **§9.12–§9.14** + **§0.3** unified substrate **2026-05-15/16**; **§9.15** + reader essay *The Real GhostBusters* **2026-05-16**.
+**Status:** Open — primary debunk and industry scan logged; “countermeasures / suppression” sections explicitly hypothetical; **§9.4** expanded 2026-05-16; **§7–§8** expanded 2026-05-17; **§9.12–§9.14** + **§0.3** unified substrate **2026-05-15/16**; **§9.15** + reader essay *The Real GhostBusters* **2026-05-16**; **§9.16** EVP/microphone category error **2026-05-17**; **§9.17** World’s Fair + White House scrub **2026-05-18**.
 
 **Parallel (exorcism / demonology / disease / colonial discourse — overflow for demon-specific depth):** `../../religion/exorcism-demonology-disease-colonial-memory-investigation.md`
 
@@ -30,7 +30,7 @@ This repository’s **influence / conspiracy / investigations** lane often runs 
 
 1. **One force in nature, not four.** Pop science’s “**four fundamental forces**” is treated here as a **bookkeeping partition** invented to **contain contradictions** in what is **observable**, not as a **final** map of reality. The split **pins out** awkward scenarios so the **mainline observable** (e.g. **gravity** as mass–geometry coupling in public textbooks) can stay **“known,”** while **other** couplings are **relegated to hypothetical** status even when **instruments** and **programs** treat them as **operationally real** (telepathy rooms, biofield language, geophysical correlates — **§7–§8**).
 
-2. **Ionizing radiation is electromagnetic — same substrate, same investigation lane.** For **this repo**, **ionizing radiation**, **electromagnetic interference**, **grid harmonics**, **RF fill**, and **“radiation” in the public-health sense** are **not** separate magisteria connected by **institutional doublespeak** (“**sometimes** ionization **acts like** radiation or **creates** radiation”). That phrasing is logged as **category error**: a **scientist** working under a **single consistent substrate** does **not** build **permanent invisible bridges** between **detector regimes** and then **live forever** with **undetectable** hypothetical glue.
+2. **Ionizing radiation is electromagnetic — same substrate, same investigation lane.** For **this repo**, **ionizing radiation**, **electromagnetic interference**, **grid harmonics**, **RF fill**, and **“radiation” in the public-health sense** are **not** separate magisteria connected by **institutional doublespeak**. A **scientist** working under a **single consistent substrate** does **not** build **permanent invisible bridges** between **detector regimes** and then **live forever** with **undetectable** hypothetical glue.
 
 3. **Maxwell as shared language, not as permission to fork ontology.** **Maxwell’s equations** (and their extensions) supply **boundary conditions** — propagation, shielding, resonance, noise, dose where high-energy quanta matter — **on one field family**. **§9.12** (urban **EM** noise floor) and **§9.14** (20th-c. **background** step-change) are **one** countermeasure story at **different energy bands**, **not** two unrelated hypotheses that only rhyme by metaphor.
 
@@ -56,7 +56,7 @@ This repository’s **influence / conspiracy / investigations** lane often runs 
 6. **§6** — Categories: site-bound “playback” vs. “contactable anywhere” (SRT vs MEP).  
 7. **§7** — **Hard science lane:** mechanism buckets; Tandy infrasound (JSPR); RNG meta-analyses / PEAR; Persinger geophysical correlates (contested); clinical taxonomies; **NAS 1988** parapsychology evaluation; ball lightning drawer.  
 8. **§8** — **Government / intelligence (documented 1970s):** SCANATE → SRI → GRILL FLAME chronology; declassified CIA Reading Room; **not** ghost-SWAT proof.  
-9. **§9** — **Speculation block** through **§9.15** (*Real Ghostbusters* master thesis); **§0.4** — reader essay published; **§0.3** — one-force / one EM substrate.
+9. **§9** — **Speculation block** through **§9.17** (*Real Ghostbusters* master thesis + **World’s Fair** + **White House** + **EVP/mic**); **§0.4** — reader essay published; **§0.3** — one-force / one EM substrate.
 
 ---
 
@@ -172,6 +172,8 @@ When a lab or field team tries to **analyze** a “haunting,” the working spli
 | **Rare plasma / meteorology** | lightning physics, ball-lightning reports | Real **unknowns** in nature that **still** do not authenticate a specific haunt narrative |
 
 Your **SRT vs MEP** split (§6) sits **above** this table as **interpretation** of whatever survives subtraction.
+
+**Category error (author, cross-read §0.1–§0.3, §9.16):** the **microphone / EVP** row is where **commercial ghost hunting** most often **collides** with **mainstream debunk**—and, under this repo’s **telepathy + æther** ontology, **both sides can be talking past the claim**. **Acoustic transducers** measure **pressure in air** (plus **recorder noise**); they do **not**, without extra assumptions, sample **field-mediated perception**, **object-read**, or **telepathic coupling**. When investigators treat **null EVP** as **falsification of “supernatural,”** they often only falsify **“audible sound was present.”** **§9.16** formalizes that **mis-instrumentation** lane; it **does not** certify any specific haunt as **real**.
 
 ### 7.2 Infrasound and “felt presence” — instrumented field/lab work
 
@@ -431,7 +433,8 @@ Your original warning still stands for **field work and parish politics**: a hob
 | **Book of Mormon** — Moroni / plates | **Object retrieval** + **vision**; SRT vs MEP split (**§9.5**) | **DOC** LDS materials; theology **SPEC** overlay |
 | **Joan of Arc** — voices / mission | **Percipient-led** politics; institution cannot buy the channel | **DOC** history |
 | **American Civil War** — **Gettysburg** phantom soldiers / horses | Mass-death field + **continued occupation** reports post-war | **DOC** folklore + press tradition |
-| **White House** — **Lincoln** ghost; **Churchill** bedroom tale | Keeps **founding grief** in **elite** rooms; Churchill story **disputed** (Soames line in secondary sources) | **DOC** tradition; **SPEC** details |
+| **White House** — **Lincoln** ghost; **Churchill** bedroom tale; **Truman gutting** | **MEP** read for Lincoln (**§9.17.2**); **DOC** **1948–1952** interior reconstruction; **SPEC** **Churchill → gut** lag | **DOC** renovation + folklore; **SPEC** intent |
+| **World’s Fairs** (e.g. **1893**, **1904**) | **SPEC:** **Tartarian-style** register **demolition** under **temporary-fair** cover + **global science census** → later **tech suppression** (**§9.17.1**) | **DOC** fairs/demolitions; **SPEC** thesis |
 | **18th–19th c.** night walks → **1970s** tour **boom** | Author: many sites still **“in play”** before **identification + countermeasure + revival lock** | **SPEC** timing |
 
 **External anchors (examples):** Lincoln ghost summary — `https://en.wikipedia.org/wiki/Lincoln%27s_ghost` ; Churchill folklore discussion — `https://richardlangworth.com/lincolns-ghost-churchill-white-house-washington`
@@ -466,6 +469,7 @@ Your original warning still stands for **field work and parish politics**: a hob
 #### 9.15.5 Tour industry vs **real** hunters; revival **spiritual cleansing** (SPEC + partial **DOC** sociology)
 
 - **Tours** keep **tradition**; not **legitimate** instrument channel (**author**). **Not** blaming operators.  
+- **Cable / hobby ghost hunting** often ships **microphones + EVP review** as **default epistemology** — **wrong channel** under **§0.1–§0.3** (**§9.16**).  
 - **Real** sensitives map nodes → **hypothetical** “ghostbusters” follow → sites go **psychically dead** while tours persist (**SPEC**).  
 - **Timing:** activity **speculated** **before** **late-1970s / 1980s revival** (**§9.9**, **§9.11**); after revival, **ghost dogma** **forbidden** again — **demon conflation**, **secular scoffing**.  
 - **Worldwide lock (SPEC):** **Sunni/Shia**, **Protestant/Catholic**, **megachurches**, **Judeo-Christian** political resurgence — **unaudited** influence; **George Soros** named as **operator-class** example in author frame (**verify** before hardening as fact).  
@@ -485,6 +489,81 @@ Your original warning still stands for **field work and parish politics**: a hob
 
 **What would upgrade §9.15:** FOIA on **RF environment + bioeffects + perception** in one file; **dated** sensitive reports of **site fade**; **primary** fluoride policy + **pineal** study chain **if** author wants medical hardening; **named** historian for **Shakespeare redaction** lane (**§9.7**).
 
+### 9.16 Acoustic mis-instrumentation — microphones, EVP, and the **wrong null** (**author thesis**, 2026-05-17)
+
+**Status:** **Epistemic / instrumentation critique** under **§0.1–§0.3** — **not** a claim that **any** specific **EVP clip** is **authentic psi**; **is** a claim that **audible-only** capture is **misaligned** with the **telepathy + æther / Maxwell-boundary** model used in **§9.12–§9.15**.
+
+**Reader essay:** `https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.md` — section **“Ghost hunters and the wrong instrument.”**
+
+#### 9.16.1 The mismatch (compressed)
+
+| Channel (author model) | What a typical ghost-hunt mic actually samples |
+|------------------------|-----------------------------------------------|
+| **Telepathy / percipient coupling** | **Not** in **air-pressure** band unless **extra** coupling assumptions are added |
+| **MEP / object-read / place register** | **Touch + field** interaction — **not** a **condenser capsule** on a stick |
+| **Environmental playback (SRT-shaped)** | May involve **sensory** correlates — still **not** reducible to **“did the mic hear words?”** without **protocol** |
+| **Mechanical sound** (HVAC, footfall, infrasound) | **Yes** — **§7.2** lane; **legitimate** mic target |
+
+**Author conclusion:** modern **ghost-hunting** culture is **systematically misled** when it treats **EVP sessions** and **midnight recorders** as **primary detectors** for **haunt** under a **telepathic substrate**. There is **no inherent reason** a **supernatural effect framed as telepathic** should **also** appear as **intelligible audio** in the **environment**. Expecting that **double obligation** is **category error**, not **falsification discipline**.
+
+#### 9.16.2 Why the community keeps “proving nothing”
+
+1. **Instrument:** **audible-band** microphones + **gain-staged** recorders (**§7.1** **EM + recording chain** row).  
+2. **Interpretation:** **pattern completion** on noise → **“voice”** → **debunk** or **belief** swing — **without** testing **receiver-state** protocols (**§8**-class **tasking** is **different apparatus**).  
+3. **Distribution:** cable / social **formats** reward **whisper clips**, not **published chain-of-custody** or **negative controls** (**§2–§4**).  
+4. **Institutional irony (**SPEC**):** **§8** shows **states** funded **perception rooms** while **civilian** “science” of haunt stays on **mic kits** — **slow** public **instrumentation**, **fast** **classified** **tasking** (rhymes **§9.15** **We be fast / they be slow** inversion).
+
+**Net:** the **ghost-hunting community** is often **forced** to **re-run** a **null result** on **acoustic channel** and call it **closure** — **blind** to **Maxwell/æther** vocabulary and **telepathy-shaped** claims. That **does not** prove **every** report **true**; it **does** explain a **recurring** **epistemic failure mode** distinct from **Savannah debunk** (**§1**), which is **historical pedigree**, not **mic physics**.
+
+#### 9.16.3 What would **not** be mis-instrumentation (open, evidence-gated)
+
+- **Infrasound / vibration** mapping (**§7.2**) — **real** psychophysiology for **subset** sites.  
+- **Environmental health** differentials (**§7.1**) — worth fixing **regardless** of metaphysics.  
+- **Strict parapsychology protocols** (RNG, blind judging, pre-registered) — **different claim class** than **EVP**.  
+- **Declassified RV worksheets** (**§8**) — **documented** **perception tasking**, **not** **walk-around mics**.
+
+**Open work:** catalog **one** **high-profile** ghost-hunt **EVP** chain with **raw file + recorder metadata** and annotate **which hypothesis class** each test **actually** addresses; cross-link **reader essay** if expanded.
+
+### 9.17 World’s Fairs + White House gutting — **first ghost scrub** lane (**author thesis**, 2026-05-18)
+
+**Status:** **SPEC** synthesis integrated with **§6 MEP**, **§9.14–§9.15**, and repo **Tartary / mudflood** lanes — **not** a claim that **every** fair building was **pre-1890** without **per-structure** evidence.
+
+**Reader essay:** `https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.md` — sections **“World’s Fairs”** and **“White House — Lincoln as memory-echo.”**
+
+**Cross-read:** [MudFlood hub](https://paradigmthreat.net/history/mudflood/page.md) ; [Tartaria chronology folder](https://paradigmthreat.net/history/chronology/tartaria/chronology.md) (repo investigation spine — **work in progress**).
+
+#### 9.17.1 World’s Fairs as **register demolition** + **technology census** (**SPEC**)
+
+**Official narrative (DOC):** international expositions **erected** showcase architecture and **removed** many structures after the fair — especially **1893 Chicago** and **1904 St. Louis** cycles.
+
+**Author alternate read (SPEC):**
+
+1. **Demolition target** — buildings removed were often **older** **high-resonance** **stone/metal** **grammar** (Tartarian-style in community vocabulary), not **only** **seasonal** **stick-and-plaster** **pavilions**. **Trapdoors**, **sub-basements**, and **hidden stacks** modeled as **archive-in-architecture** — **real Earth history** **less findable** after **shell** loss even when **no** admitted **fire**.  
+2. **Material downgrade** — replacement urban fabric (**wood**, **sheetrock**, **thin steel**) modeled as **worse MEP substrate** than **pre-fair masonry** — **ghost busting** = **zeroing** **readable matter**, same **family** as **§9.14** **bleach** / **§9.12** **noise**, **earlier** and **more** **public**.  
+3. **Fair as census** — **world scientists** convened; **machinery**, **electric**, and **patent** rows **displayed** → author **SPEC:** **catalogue** for **twentieth-century** **classification** and **civilian** **suppression** (**display → catalogue → classify → suppress**), rhyming **§8** **handoff** template.  
+4. **Timeline placement** — **first** **“real Ghostbusters”** tranche **before** **RV rooms** and **franchise comedy** — **wrecking ball** **era**, not **K-II** **era**.
+
+**What would upgrade §9.17.1:** **dated** **construction** records for **one** **fair** structure claimed as **ancient**; **primary** **exposition** contracts mentioning **demolition** vs **relocation**; **archival** **inventories** of **scientific delegations** tied to **later** **classification** programs (**evidence-gated**).
+
+**What would shrink it:** **documented** **new-build-only** provenance for **marquee** fair halls with **no** **older** **substrate** — per building, not **global** null.
+
+#### 9.17.2 White House — **Lincoln MEP**, **Churchill**, **Truman gutting** (**DOC** + **SPEC**)
+
+**Documented (DOC):**
+
+- **Truman-era White House reconstruction** (~**1948–1952**): **interior** largely **removed** — **floors**, **basement**, **service volumes** — while **exterior** **stone shell** **retained**. Summary: [Wikipedia — White House Reconstruction](https://en.wikipedia.org/wiki/White_House_Reconstruction).  
+- **Lincoln ghost** tradition in **executive residence** — [Wikipedia — Lincoln’s ghost](https://en.wikipedia.org/wiki/Lincoln%27s_ghost).  
+- **Churchill** **Lincoln Bedroom** lore — **disputed**; **Soames**-family **skepticism** logged in **§9.15.1** ([Richard Langworth summary](https://richardlangworth.com/lincolns-ghost-churchill-white-house-washington)).
+
+**Author synthesis (SPEC):**
+
+1. **Lincoln “ghost” = MEP**, not **SRT** — **unfinished Civil War grief**: **failed unification** goals, **Reconstruction** **shortfall**, **fear of banker / money power** behind **war finance** — **pressure** that **impresses** **matter** (**§6**), **not** **post-mortem agency** required.  
+2. **Churchill as possible elite witness** — **early 1940s** stays vs **~decade-class** lag to **Truman gutting** — **hypothesis** that **operators** **reacted** to **non-dismissible** **playback** in **Lincoln Bedroom**; **not** proven **causation**.  
+3. **Parallel to §9.17.1** — **hollow** **readable** **interior**, **keep** **postcard façade** — **national** **register scrub** **without** **deleting** the **symbol** tourists still **photograph**.  
+4. **After gutting** — **modern** **interiors** = **lower** **MEP** **fidelity**; **midnight** **mic tours** **mis-aim** (**§9.16**) at **channels** already **structurally** **muted**.
+
+**Open work:** **primary** **White House** renovation **memos** mentioning **structure** vs **“ghost”** folklore (expect **absence**); **dated** **Churchill** **diary** lines on **Lincoln Bedroom**; **before/after** **photograph** set with **room-by-room** **substrate** notes (wood vs **plaster** vs **steel**).
+
 ---
 
 ## 10. Verification targets (next passes)
@@ -503,6 +582,9 @@ Your original warning still stands for **field work and parish politics**: a hob
 - [ ] **§9.14:** pick **one** standard **OSL/TL** reference for the **“zeroing / bleaching”** analogy and link it (equations only — no ghost claims in that source).  
 - [x] **§0.4 / article:** *The Real GhostBusters* published — `the-real-ghostbusters.md`.  
 - [ ] **§9.15:** FOIA / primary hunt for **environmental perception countermeasures**; harden or drop **HAARP / Soros / Israel–Iran** lines per evidence.  
+- [ ] **§9.16:** one **EVP** case study with **raw audio + metadata**; document **which claim** each test **actually** falsifies under **§0.1–§0.3**.  
+- [ ] **§9.17.1:** one **World’s Fair** structure — **construction date** primaries vs **Tartarian demolition** claim; fair **scientific congress** roster vs **later** suppression programs (**evidence-gated**).  
+- [ ] **§9.17.2:** **Truman renovation** primary photo set + **Churchill** date line for **Lincoln Bedroom**; avoid **causation** language unless **memo** surfaces.  
 - [ ] **§9.7:** **Shakespeare redaction** — named historian or keep **SPEC** only.  
 - [x] Retired `do-you-believe-in-ghosts.md`; sole reader essay: `the-real-ghostbusters.md`.
 

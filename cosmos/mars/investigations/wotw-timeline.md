@@ -39,6 +39,14 @@
 
 ---
 
+## 1896–1897: Mystery airship wave (Earth reporting vocabulary)
+
+Before Wells serialised *War of the Worlds*, the United States ran a nationwide **mystery airship** press wave (Nov 1896 – May 1897): structured hulls, searchlights, crews, anchors, crash lore, and **Mars-named occupants** in several accounts. Witnesses said **airship** because *UFO* and *flying saucer* did not exist until the 1940s–1950s — the same mass-witness / no-official-closure shape as modern UAP, half a century earlier.
+
+On this timeline's read, the wave is **visible overflight** during the opposition window, reported in period dirigible vocabulary; *Crystal Egg* (May 1897) and *WotW* (1897–98) follow as **managed-disclosure encoding**. See [Mystery airships — vocabulary bridge](/influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md) · [evt-1896-1897-mystery-airship-wave](/timeline/evt-1896-1897-mystery-airship-wave).
+
+---
+
 ## Pre-Invasion: Crystal Surveillance Phase (Unknown Duration)
 
 ### Date Unknown — Crystal Devices Seeded on Earth

@@ -50,6 +50,63 @@ Ongoing. **Project theory** (not asserted as proven): Iran may be waging a propa
 
 ---
 
+<a id="lego-cgi-thread"></a>
+
+## LEGO / toy-spectacle CGI thread (open — Western amplification; Disney; ISIS parallel)
+
+**Status:** **Investigation thread**, not a finding. This block exists because **social feeds** in the 2026 window have repeatedly carried **stylized, game-like, or “LEGO-brick”** war imagery — **high-contrast night cities**, **missile-trail porn**, **caption stacks that read like glitch-poetry** — that **feel** closer to **entertainment pipelines** than to **field verification**. The project needs a **clean place to log questions** without pretending **provenance** is solved.
+
+### Observable phenomenon (authorship optional)
+
+- **Toyification / blockbuster lighting:** visuals that scan as **trailer house** or **mobile-game ad** rather than **press pool** or **verified combat POV**.  
+- **Secondary circulation:** **Western-facing pages** (blue-state aesthetics, “both sides” deflection, or outright hawk accounts) **repost**, **duet**, or **quote** the same **spectacle grammar** — **distribution** becomes measurable even when **origin** is not.
+
+### Open question A — Disney (or “Disney-shaped” production)
+
+**Question:** Was **Disney** (or a **Disney-adjacent** vendor: **subsidiary**, **alumni shop**, **licensed toolchain**, **stock asset overlap**, **MCU-style color grading / VFX norms**) **involved in producing, funding, or blessing** Iranian-facing or Western-facing **“Iran LEGO”** style CGI?
+
+**Project default:** **unknown**. “Fingerprints” in casual discourse usually means **aesthetic clustering** (family-brand **spectacle literacy**), not **signed work orders**.
+
+**Evidence ladder (what would upgrade or falsify):**
+
+| Tier | What it would look like |
+|------|-------------------------|
+| **A — smoking paperwork** | Contracts, **credits**, **RFPs**, **invoices**, **W-2 / vendor IDs** tying a named reel to **DIS** entity or first-party vendor |
+| **B — forensic match** | Repeated **rig reuse**, **watermarks**, **pipeline signatures** (not “it looks cinematic”) |
+| **C — legal / platform trace** | **Takedown** correspondence showing **copyright claimant chain** back to a known studio |
+| **D — negative kill** | **Named independent** CGI shop (**stock**, **fan**, **Eastern European contract**) **admits** authorship with **predating timestamps** |
+
+Until **A–C**, treat **Disney** as a **hypothesis to stress-test**, not a **ledger entry**.
+
+### Open question B — Western complicity via retweet / re-host
+
+**Question:** When **Western** accounts (**media brands**, **influencers**, **aggregators**, **reply-guy politics pages**) **amplify** stylized conflict CGI **without chain-of-custody**, is that **second-order propaganda** — i.e. **laundering unverified pixels into trusted feeds**?
+
+**Useful split:**
+
+- **Amplification** is **observable** (retweet graph, view counts, **caption reframing**).  
+- **Intent** ranges from **cynical engagement farming** to **honest alarm** to **state-adjacent nudge** — **not readable from pixels alone**.
+
+**Project rule:** log **who boosted what, when**, on the **timeline tables** elsewhere in the repo; **do not** merge **boost** with **authorship** without **Tier A–C** above.
+
+### Historical parallel — Islamic State (ISIS) media, ~2014–2017 (structural, not moral equation)
+
+Between **2014** and **2017**, **ISIS** ran a **deliberate high-production media pipeline** (recruitment films, **staged** violence, **Hollywood-grade** editing in some releases). **Western ecosystems** — **newsrooms**, **researchers**, **platforms**, **terror-studies Twitter** — repeatedly **re-circulated** ISIS **primary materials** through **coverage**, **clips**, **thumbnails**, and **debate**.
+
+**Why cite it here:** not to say **Iran = ISIS**, but to import a **lesson in mechanics**:
+
+1. **Primary** actor optimizes for **shock + shareability**.  
+2. **Secondary** circulation **multiplies reach** even when the **secondary actor despises** the **primary actor**.  
+3. **Normalization of spectacle** can happen **accidentally** while **analysts think they are helping**.
+
+**Investigation takeaway:** ask the same **structural** questions of **2026 “LEGO Iran”** reels — **who benefits from the aesthetic**, **who pays for the seconds of attention**, and **whether Western boosts** are **complicity**, **stupidity**, or **both layered**.
+
+### Cross-links (session continuity)
+
+- **Trump Mobile / “spectacle vs reality”** media-trust dossier (pattern vs psyop framing): `../../../influence/suppression/investigations/trump-mobile-t1-media-trust-industrial-narrative-investigation.md`
+
+---
+
 ## References
 
 - Al Jazeera, 3 Mar 2026: "Questions over Minab girls' school strike as Israel, US deny involvement"

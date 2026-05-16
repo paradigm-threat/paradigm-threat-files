@@ -76,6 +76,8 @@ The runner’s blunt line—aligned with this article—is that Iran’s **open 
 
 None of that implies **clean hands** on the other side of the camera. It implies **asymmetric clarity**: the side with more **declassified-ish** reach into global wires sets more of the **default caption** for the median reader.
 
+**Sibling thread (open investigation):** **LEGO-brick / toy-spectacle** CGI of strikes, **Western amplification** (retweets / duets / “both sides” pages laundering spectacle into trusted feeds), and the **explicit question** whether **Disney-shaped production pipelines** touch the **Iran 2026** clip economy — plus a **structural parallel** to how **Western ecosystems circulated ISIS primary media (2014–2017)** even when the **circulators** opposed ISIS. **Not asserted as proven**; evidence ladder lives there: [Iran 2026 propaganda thesis — LEGO / Western amplification / ISIS parallel](https://paradigmthreat.net/events/false_flag/investigations/iran-2026-propaganda-thesis.md#lego-cgi-thread).
+
 ## What the media will not admit (the honest version)
 
 The honest version is smaller than the conspiracy version and more insulting to the audience.

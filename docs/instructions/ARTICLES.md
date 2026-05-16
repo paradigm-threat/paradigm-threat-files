@@ -22,6 +22,13 @@
 
 If a claim needs **five citations** or a **multi-row table**, it belongs in the **dossier**; the **article** names the claim and **links once** (often to a **§** anchor).
 
+### Tables and illustrations (articles vs investigations)
+
+- **Investigations** (`…/investigations/*.md`): **Markdown tables are fine**—tier matrices, chronologies, claim registries, comparison grids.
+- **Articles** (parent-folder reader essays): **Do not use Markdown pipe tables.** Substack’s editor (and most paste-from-Markdown workflows) **do not render** `| col | col |` grids; rows collapse into a broken vertical list.
+- **If an article needs a table or structured illustration:** export **`PNG`** or **`SVG`**, place the asset **beside the article** in the same folder (same pattern as hero images), and embed with an **absolute** `https://paradigmthreat.net/...` URL and descriptive **alt** text. Raster and vector images **transfer**; Markdown tables **do not**.
+- **In-article alternative (no image):** use a **short numbered list** or **bold lead-in lines** (`**Layer —** effect`) for two-column content; keep the full grid in the **dossier** and link to the **§** anchor.
+
 **Default:** Articles **state stakes and thesis clearly**—**clinical but inspired** (precise, unsentimental, still alive); investigations **hold** the audit trail. When in doubt, **cut** the paragraph that sounds like **Limits** and **add** a link: “the careful version lives in [**Limits**](https://paradigmthreat.net/influence/…/investigations/…#limits-and-disclaimers).”
 
 ### Reader-facing prose (generic surface)
@@ -76,7 +83,7 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 4. **Hook** — a **scene**, **metaphor**, or **one sharp anecdote** before the reader hits dense links. This is the **contract**: why this file exists **before** apparatus.
 5. **`> **TL;DR:**`** — **optional** in articles. Use it when it **adds** a clean thesis line **without** cloning the dossier’s opening or sounding like a second **investigation header**. Skip it when the title + subtitle + first two paragraphs already do that work.
 6. **Body** — **`##` sections** (typically **three to seven**). Each section **one main idea**. **Bold** only per **Voice → Bold** (emphasis or newly introduced terms)—**not** as default highlighting.
-7. **Citations in prose** — **Inline links** as **`https://paradigmthreat.net/...`** (and external `https://...`), **same convention as blog posts**—not bare `/history/...` paths. Each link: **what** the reader will find there (**one clause**). Avoid **hub-only** link dumps unless Ari wants a **routing sheet**; prefer **narrative + links**.
+7. **Citations in prose** — **Markdown link syntax** `[label](https://paradigmthreat.net/...)` (and external `https://...`), **same convention as blog posts**—not bare `/history/...` paths and **not** backtick-wrapped raw URLs (they are not clickable in Substack). Each link: **descriptive label** plus **what** the reader will find there (**one clause**). Avoid **hub-only** link dumps unless Ari wants a **routing sheet**; prefer **narrative + links**.
 8. **Closing** — short **“where next”**: Common Questions, timeline hubs, or **§** anchors in dossiers (e.g. “start in **§2.1**”).
 9. **Optional `## Framing and limits` (or `## Scope and limits`)** — **At most one** such section, placed **after** **Where next** and **before** `Keywords:`, when in-file boundaries help (what is **not** being claimed, what lives in **Limits**, consensus vs synthesis). **Do not** scatter the same hedges through earlier `##` sections; that **muddies** the narrative. If the dossier already carries the full caveat stack, a **single** link line here is enough.
 10. **`Keywords:`** — one line, **Option B** (see `PARADIGM_INVESTIGATION_INSTRUCTIONS.md`): `#PascalCase` tokens only, **no** `## Keywords` heading.
@@ -96,10 +103,10 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 **Drafting targets (Markdown, in this collection):**
 
 - **Default target for new flagship reader essays:** about **2,600–3,400 words** of body (tables and link lines count toward reading time), with **~3,000** as the **nominal** aim. Shorter is fine when the argument is already complete.
-- **Reference implementation:** [`history/chronology/indigenous-creation-legends-and-geology.md`](../../history/chronology/indigenous-creation-legends-and-geology.md) (order of magnitude **~3k words** with sections + one comparison table)—use it as the **shape** for “Substack-ready depth” without pasting the whole dossier.
+- **Reference implementation:** [`history/chronology/indigenous-creation-legends-and-geology.md`](../../history/chronology/indigenous-creation-legends-and-geology.md) (order of magnitude **~3k words**, section pacing)—use it as the **shape** for “Substack-ready depth” without pasting the whole dossier. **Tables in that file:** if present, treat as **legacy**; new articles use **lists** or **PNG/SVG** per **Tables and illustrations** above.
 - **Newsletter / inbox check:** Before sending a long flagship post, do a **real send test** (or preview at **View entire message**) when the piece combines **long prose** with **multiple large images**—**two hero-scale PNGs** can burn the **102KB** budget faster than **+500 words** of Markdown.
 - **Soft ceiling:** treat **~3,200–3,400 words** of prose in a **single** article as the **repo drafting stop** unless Ari explicitly splits across **Part II** or accepts clipping risk after that send test (images, embeds, and HTML bloat push toward the **102KB** clip faster than word count alone).
-- **If the piece must grow:** **push** tables, quote banks, and five-citation blocks into **`investigations/`**; add a **Part II** post for a second email rather than one mega-file.
+- **If the piece must grow:** **push** Markdown **tables**, quote banks, and five-citation blocks into **`investigations/`**; add a **Part II** post for a second email rather than one mega-file. For **tabular** material the reader must see in the newsletter, ship a **PNG/SVG** in the article or link to the dossier table anchor.
 
 ---
 
@@ -119,6 +126,7 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 
 ## What we avoid in articles
 
+- **Markdown pipe tables** — Substack and similar editors break them on paste; use **lists**, **dossier links**, or **PNG/SVG** embeds instead (see **Article vs dossier → Tables and illustrations**).
 - **Wall of acronyms** without gloss—spell out once, then abbreviate if needed.
 - **Paste-dump** of URLs with no integration in the sentence.
 - **Duplicating** half of a dossier “so this page stands alone”—**link** instead.
@@ -147,4 +155,4 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 
 ---
 
-**Last updated:** 2026-05-10
+**Last updated:** 2026-05-16

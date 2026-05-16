@@ -5,6 +5,8 @@
 
 **Key finding:** Before H.G. Wells's *War of the Worlds* (1898), nearly all Mars fiction portrayed Martians as **human or human-like** and **benign**. Wells deliberately inverted this tradition. The pre-Wells consensus — humans on Mars, inhabited canals, polar zones of power — persisted in pulp fiction (Burroughs, Brackett, Bradbury) but was filed safely under "fantasy" where no institutional authority would take it seriously.
 
+**1896–97 vocabulary bridge:** America's first mass aerial wave was reported as **mystery airships**, not UFOs — because *flying saucer* and *UFO* did not exist until the 1940s–1950s. That episode predates Roswell and the CIA; on this site's read it aligns with **Martian overflight** during the opposition window and with **Mars fiction** published **during and immediately after** the wave as **managed disclosure**. See [Mystery airships 1896–1897](/influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md), [timeline event](/timeline/evt-1896-1897-mystery-airship-wave), [PURSUE dossier § 8.1A](/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md#81a-deep-dive--the-18961997-mystery-airship-wave-americas-first-mass-uap-episode).
+
 ---
 
 ## I. Authors Who Described Humans on Mars

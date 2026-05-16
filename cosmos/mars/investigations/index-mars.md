@@ -3,6 +3,8 @@
 > **TL;DR:** Mars Literature — Index of Downloaded Texts: Where multiple authors independently describe the same or closely related elements, convergence is noted. Bold = strong convergence (2+ authors). Only Burroughs in this collection describes polar forbidden zones in detail:
 **Purpose:** Summarise all Mars-related fiction in the wget collection and highlight **convergence of facts** across authors. Assumes fiction-as-disclosure: repeated, independent descriptions of the same elements may encode suppressed truth.
 
+**Chronology anchor:** [1896–1897 mystery airship wave](/influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md) · [timeline](/timeline/evt-1896-1897-mystery-airship-wave) — pre-UFO mass sky reporting under *airship* vocabulary, then Wells/Lasswitz Mars fiction in the same window ([mars-fiction-survey § intro](/cosmos/mars/investigations/mars-fiction-survey.md)).
+
 ---
 
 ## I. Sources in This Collection

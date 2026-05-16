@@ -64,13 +64,11 @@ If Julian wants a biblical register of corruption, the modern desk calendar offe
 
 The [1979 Religious Revival investigation](https://paradigmthreat.net/influence/religion/1979-religious-revival-investigation.md) maps a synchronized global pivot:
 
-| Date | Event | Institutional read |
-|------|--------|-------------------|
-| Jan–Feb 1979 | Khomeini returns; Shah flees | U.S. contacts documented; **General Huyser** mission prevented military coup saving Pahlavi |
-| Jun 1979 | Moral Majority founded | U.S. Christian Right institutionalized same year |
-| Jun 1979 | John Paul II in Poland | Vatican–West alliance against communism — millions chant *We want God* |
-| Nov 1979 | Grand Mosque siege, Mecca | Saudi pivot to exported Wahhabism |
-| Nov 1979 | Tehran embassy hostages | 444-day rupture — **permanent** Muslim–West war script |
+1. **Jan–Feb 1979 — Khomeini returns; Shah flees.** Institutional read: U.S. contacts documented; **General Huyser** mission prevented military coup saving Pahlavi.
+2. **Jun 1979 — Moral Majority founded.** Institutional read: U.S. Christian Right institutionalized same year.
+3. **Jun 1979 — John Paul II in Poland.** Institutional read: Vatican–West alliance against communism — millions chant *We want God*.
+4. **Nov 1979 — Grand Mosque siege, Mecca.** Institutional read: Saudi pivot to exported Wahhabism.
+5. **Nov 1979 — Tehran embassy hostages.** Institutional read: 444-day rupture — **permanent** Muslim–West war script.
 
 **Guardian (2016)** and declassified chains document **extensive Carter-administration contact** with Khomeini’s camp before revolution. Khomeini’s January 1979 letter to Carter promised protection of American interests if Washington pressured the Iranian military. Whether you call that **orchestration** or **exploitation**, the **outcome** is holy-war infrastructure: Shiite theocracy vs. Sunni radicalization vs. American fundamentalism vs. Polish Catholic Solidarity — all in one calendar year.
 
@@ -78,7 +76,7 @@ The [Iran / two-way remote-viewing investigation](https://paradigmthreat.net/inf
 
 Pakistan’s **Zia-ul-Haq** Islamisation and the **December 1979** Soviet invasion of Afghanistan completed the arc Julian’s headlines avoid: **CIA–Pakistan–Saudi** pipelines funding **mujahideen** as religious proxy warriors while American television learned a new permanent enemy roster. Israel’s **Likud** moment and settlement acceleration sit in the same year — not proof of a Jewish quorum, proof that **every Abrahamic lane** got a wartime firmware update simultaneously.
 
-Julian names **mammon** and **Zionist** judges. The 1979 table names **Chevron**’s century-later cousin: agencies and courts sharing a single throat. The CIA’s consistent postwar behavior — Vatican alliances, mujahideen pipelines, Iranian revolution management — looks like **routing all religions**, not Judaism alone running the world.
+Julian names **mammon** and **Zionist** judges. The 1979 timeline names **Chevron**’s century-later cousin: agencies and courts sharing a single throat. The CIA’s consistent postwar behavior — Vatican alliances, mujahideen pipelines, Iranian revolution management — looks like **routing all religions**, not Judaism alone running the world.
 
 ## NSA antibodies — who actually broke CIA primacy
 
@@ -130,7 +128,7 @@ I drafted a comment for Julian’s April post along these lines. The point is no
 
 Keywords: #ControlledOpposition #CapturedCourts #BRSINV #BlueFrenchQtr #1979 #CIA #NSA #RuralBurnZone #Demoralization #ZionistFraming
 
-**Last updated:** 2026-05-13
+**Last updated:** 2026-05-16
 
 ---
 
