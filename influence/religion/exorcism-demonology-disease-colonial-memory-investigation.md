@@ -7,7 +7,7 @@
 
 **Parallel (ghosts / memory-echo tourism):** `../conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation.md`
 
-**Reader essay (Savannah hook, both threads):** `https://paradigmthreat.net/influence/conspiracy/do-you-believe-in-ghosts.md`
+**Reader essay (ghost / tour / Real Ghostbusters thesis):** `https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.md`
 
 ---
 

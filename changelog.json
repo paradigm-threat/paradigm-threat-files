@@ -1,8 +1,44 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-15T14:10:52.939Z",
+    "date": "2026-05-16T12:43:05.531Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation.md",
+        "href": "/influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation"
+      },
+      {
+        "status": "A",
+        "path": "influence/conspiracy/the-real-ghostbusters.md",
+        "href": "/influence/conspiracy/the-real-ghostbusters"
+      },
+      {
+        "status": "A",
+        "path": "influence/conspiracy/the-real-ghostbusters.png",
+        "href": "/influence/conspiracy/the-real-ghostbusters.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/religion/exorcism-demonology-disease-colonial-memory-investigation.md",
+        "href": "/influence/religion/exorcism-demonology-disease-colonial-memory-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/conspiracy/the-real-ghostbusters.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.png",
+        "alt": "The Real Ghostbusters — ethereal noise, proton-pack kitsch, and the counter-program beneath the comedy"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-15T14:10:52.000Z",
+    "message": "Fix Iran mission article: restore hero, runner, and Coda image embeds.",
     "files": [
       {
         "status": "M",
@@ -1919,23 +1955,5 @@
         "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-10T12:50:21.000Z",
-    "message": "docs: articles use absolute site URLs like blog posts",
-    "files": [
-      {
-        "status": "M",
-        "path": ".cursor/rules/paradigm-threat-article-absolute-urls.mdc",
-        "href": "/.cursor/rules/paradigm-threat-article-absolute-urls.mdc"
-      },
-      {
-        "status": "M",
-        "path": "docs/instructions/ARTICLES.md",
-        "href": "/docs/instructions/ARTICLES"
-      }
-    ],
-    "images": []
   }
 ]
