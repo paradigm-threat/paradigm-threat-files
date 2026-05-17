@@ -88,6 +88,8 @@ The OCR dossier’s **entity stack** — submission licenses, **LLC** distributi
 
 ## Satirical “Exodus 2” narrative (never presented seriously)
 
+![Second Exodus — four-panel satire: crowd stays, solo walk, “but the future refused to change”](https://paradigmthreat.net/influence/controlled_opposition/the-second-exodus-comic-strip.png)
+
 There is a **comic** layer — **Exodus 2** in my head — that must **never** be presented as straight history.
 
 It pretends the clock stopped around **2006**: banners, forum drama, virt’s gravity, the sense that if you **follow the right remix pope** the promised land appears. The joke is cruel because **so much time has passed** and the community is **considerably diminished** — stragglers in Discords, indexable quarrels gone, the same [**exodus-class**](https://paradigmthreat.net/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) trauma living as folklore.
