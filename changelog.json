@@ -1,8 +1,96 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-17T00:36:10.256Z",
+    "date": "2026-05-17T12:16:32.957Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/investigations/mel-gibson-post-2006-payback-form-unwilling-co-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/mel-gibson-post-2006-payback-form-unwilling-co-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/the-second-exodus-of-oc-remix.png",
+        "href": "/influence/controlled_opposition/the-second-exodus-of-oc-remix.png"
+      },
+      {
+        "status": "M",
+        "path": "page.md",
+        "href": "/page"
+      },
+      {
+        "status": "M",
+        "path": "science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md",
+        "href": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation"
+      },
+      {
+        "status": "A",
+        "path": "science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md",
+        "href": "/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation"
+      },
+      {
+        "status": "A",
+        "path": "science/health/viruses-were-never-found-only-aetheric-disease.md",
+        "href": "/science/health/viruses-were-never-found-only-aetheric-disease"
+      },
+      {
+        "status": "A",
+        "path": "science/health/viruses-were-never-found-only-aetheric-disease.png",
+        "href": "/science/health/viruses-were-never-found-only-aetheric-disease.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/the-second-exodus-of-oc-remix.png"
+      },
+      {
+        "src": "/science/health/viruses-were-never-found-only-aetheric-disease.png"
+      },
+      {
+        "src": "/influence/conspiracy/embedding.jpg",
+        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
+      },
+      {
+        "src": "/influence/conspiracy/scientific_truth.jpg",
+        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
+        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
+      },
+      {
+        "src": "/cosmos/mars/mars_life.jpg",
+        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
+      },
+      {
+        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
+        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
+      },
+      {
+        "src": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.png",
+        "alt": "German New Medicine (LearningGNM) — cancer paradigm cluster investigation header"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/viruses-were-never-found-only-aetheric-disease.png",
+        "alt": "Viruses were never found in the lab — ætheric disease, fingerprint not genome pathogen (article art)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-17T00:36:09.000Z",
+    "message": "OCR Exodus 1: catalog control, VGMix open-submit vs judge gate",
     "files": [
       {
         "status": "M",
@@ -1987,116 +2075,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-13T18:10:22.000Z",
-    "message": "Rural burn-zone moratorium: author weather-mod stance, local politics focus",
-    "files": [
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/captured-courts-wrong-villain.md",
-        "href": "/influence/controlled_opposition/captured-courts-wrong-villain"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/page.md",
-        "href": "/influence/controlled_opposition"
-      },
-      {
-        "status": "M",
-        "path": "page.md",
-        "href": "/page"
-      },
-      {
-        "status": "R",
-        "path": "science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.md",
-        "href": "/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation"
-      },
-      {
-        "status": "R",
-        "path": "science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png",
-        "href": "/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png"
-      },
-      {
-        "status": "A",
-        "path": "science/geoengineering/investigations/brantley-burn-zone-density-moratorium-template.md",
-        "href": "/science/geoengineering/investigations/brantley-burn-zone-density-moratorium-template"
-      },
-      {
-        "status": "A",
-        "path": "science/geoengineering/rural-burn-zones-density-moratorium-handout.html",
-        "href": "/science/geoengineering/rural-burn-zones-density-moratorium-handout.html"
-      },
-      {
-        "status": "A",
-        "path": "science/geoengineering/rural-burn-zones-density-moratorium-handout.pdf",
-        "href": "/science/geoengineering/rural-burn-zones-density-moratorium-handout.pdf"
-      },
-      {
-        "status": "A",
-        "path": "science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.md",
-        "href": "/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation"
-      },
-      {
-        "status": "A",
-        "path": "science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.png",
-        "href": "/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.png"
-      },
-      {
-        "status": "M",
-        "path": "science/geoengineering/weather-modification-investigation.md",
-        "href": "/science/geoengineering/weather-modification-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png"
-      },
-      {
-        "src": "/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.png",
-        "alt": "Captured courts and ethnic scapegoating — controlled opposition diagram (header)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.png",
-        "alt": "BRSINV / St. Julian — captured courts and Zionist framing investigation (header)"
-      },
-      {
-        "src": "/influence/conspiracy/embedding.jpg",
-        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
-      },
-      {
-        "src": "/influence/conspiracy/scientific_truth.jpg",
-        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
-        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
-      },
-      {
-        "src": "/cosmos/mars/mars_life.jpg",
-        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
-      },
-      {
-        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
-        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.png",
-        "alt": "Rural burn zones need a density moratorium — article graphic"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png",
-        "alt": "Brantley Highway 82 burn scar — selective destruction adjacent to intact pine canopy"
-      }
-    ]
   }
 ]

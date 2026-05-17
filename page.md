@@ -172,6 +172,8 @@ or *not* believing.
 * [Tornado–Power Station Explosion](/science/geoengineering/tornado-power-station-investigation.md) — EM tornado suppression thesis and media silence.
 * [Weather Modification](/science/geoengineering/weather-modification-investigation.md) — Cloud seeding through ionospheric heaters.
 * [Havana Syndrome](/science/havana_syndrome/havana-syndrome-investigation.md) — Directed energy and gaslighting of the public narrative.
+* [Viruses were never found in the lab — ætheric disease (reader essay)](/science/health/viruses-were-never-found-only-aetheric-disease.md) — Theory-led: fingerprint not pathogen; GoF passaging vs unproved genome engineering; political capture since eugenics; links full audit.
+* [Virus isolation — skeptical audit (dual-track)](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md) — Track 1 virology logged; Track 2 ætheric/fingerprint thesis; Cowan/Lanka Lane B; poison read; §5g GoF; no genetics/vaccine/physics-æther debunk pillars.
 * [Chernobyl probiotics (Straight)](/science/health/probiotics_chernobyl/ssstwitter.com_1772378839442-investigation.md) — Transcript-led fact-check of probiotic / Chernobyl claims.
 * [Microchips](/science/microchips/microchips-shrinking-technology-investigation.md) — Shrinking tech, supply opacity, control thesis.
 * [Quantum computer — infinitely indexed storage thesis](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) — Author: storage / frequency-addressing vs mainstream gate-qubit narrative; open questions.

@@ -242,6 +242,8 @@ Evolutionary and **comparative** **oncology** discuss **neoplasia** **across** *
 |------|----------|
 | [The Cure for Cancer](/science/biology/the-cure-for-cancer.md) | **Reader essay** — hope / celebrity / terrain / **GNM** **primer** **(critical)** **+** **light** **stack** **(mirrored** **in** **§7.3)**; **points** **to** **this** **file** **and** **Limits**. |
 | [DNA as fingerprint, not blueprint](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) | Scalar / medium / ontogeny **neighbor** |
+| [Virus isolation — skeptical audit (dual-track)](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md) | “Virus mania” / pandemic fear / terrain — **fingerprint not blueprint**; **ætheric disease** rhyme; **not** Hamer organ maps |
+| [Viruses never found — reader essay](/science/health/viruses-were-never-found-only-aetheric-disease.md) | Essay entry for audit; GoF / political capture |
 | [Trump-era Hollywood PP](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) | Template for **spectacle frequency** methods |
 
 ---
