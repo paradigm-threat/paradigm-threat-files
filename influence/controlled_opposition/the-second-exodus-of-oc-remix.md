@@ -1,6 +1,8 @@
 # The Second Exodus Of OC ReMix
 
-**Updated:** 2026-05-13
+![The Second Exodus Of OC ReMix — four-panel satire: crowd stays, solo walk, “but the future refused to change”](https://paradigmthreat.net/influence/controlled_opposition/the-second-exodus-of-oc-remix.png)
+
+**Updated:** 2026-05-16
 
 Unless somebody can explain to me what the hell happened with OverClocked ReMix after the first rupture, the arc still reads like this: I helped Dave put the site and the community back together, won his confidence, we took road trips, and within a few years a staff voice named Liontamer had grown central enough that my judge work, my process ideas, and eventually my seat on the panel were gone. I have told that story as memory and opinion in the dossier — not as a court finding. This article is different. It is the **forward** project I have been carrying for decades under the name **Second Exodus**: what a music community **should** do for its members when it is not trying to be a funnel for industry appetite.
 
@@ -83,20 +85,6 @@ Second Exodus is **not** “OCR but angrier.” Video game remixes remain centra
 - **Do not** create new legal challenges for sport; **do** study precedents, industry LLC enclosures, and how **volunteer labor** got **captured** into **for-profit** distribution shells.
 
 The OCR dossier’s **entity stack** — submission licenses, **LLC** distribution, later **501(c)(3)** umbrella — is the **enclosure** reference point: community contributions of **copyright-bearing** material routed into structures members did not audit. I intend a **legal deep dive** (with **LLM-assisted** research discipline and human review) on **what sharing is already tolerated** in comparable communities and **what OverClocked ReMix, LLC**-style capture did to the **free** layer. **No** claim here that I have finished that memo; **yes** claim that Second Exodus will not ship governance without it.
-
----
-
-## Satirical “Exodus 2” narrative (never presented seriously)
-
-![Second Exodus — four-panel satire: crowd stays, solo walk, “but the future refused to change”](https://paradigmthreat.net/influence/controlled_opposition/the-second-exodus-comic-strip.png)
-
-There is a **comic** layer — **Exodus 2** in my head — that must **never** be presented as straight history.
-
-It pretends the clock stopped around **2006**: banners, forum drama, virt’s gravity, the sense that if you **follow the right remix pope** the promised land appears. The joke is cruel because **so much time has passed** and the community is **considerably diminished** — stragglers in Discords, indexable quarrels gone, the same [**exodus-class**](https://paradigmthreat.net/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) trauma living as folklore.
-
-In the satire I do what the first exodus did in miniature: I tell everyone to **follow me on a Second Exodus**, the way many once followed **Jake Kaufman** toward **VGMix**. And — because I am **heavily blacklisted / shadowbanned** in the lanes that used to matter — **nobody even hears about it**. I end up **leaving alone**. That punchline is **not** fiction. It is the realistic shape of trying to start a commons under **streamlined, censored** discovery on the **present** internet.
-
-The satire does **not** mock Exodus imagery to mock Judaism. It mocks **fan-culture Exodus cosplay** — the way every scene reinvents “the walkout” and still rebuilds the same pyramid with different mods.
 
 ---
 

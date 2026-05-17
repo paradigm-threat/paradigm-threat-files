@@ -1,8 +1,34 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-17T00:30:25.181Z",
+    "date": "2026-05-17T00:34:41.580Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/the-second-exodus-of-oc-remix.md",
+        "href": "/influence/controlled_opposition/the-second-exodus-of-oc-remix"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/the-second-exodus-of-oc-remix.png",
+        "href": "/influence/controlled_opposition/the-second-exodus-of-oc-remix.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/the-second-exodus-of-oc-remix.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/the-second-exodus-of-oc-remix.png",
+        "alt": "The Second Exodus Of OC ReMix — four-panel satire: crowd stays, solo walk, “but the future refused to change”"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-17T00:30:24.000Z",
+    "message": "Second Exodus: HD wide satire comic strip + article embed",
     "files": [
       {
         "status": "A",
@@ -2065,28 +2091,6 @@
       {
         "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
         "alt": "Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-13T11:28:20.000Z",
-    "message": "Add Atkinson Georgia radiation-weapon fire investigation",
-    "files": [
-      {
-        "status": "A",
-        "path": "science/geoengineering/atkinson-georgia-radiation-weapon-investigation.md",
-        "href": "/science/geoengineering/atkinson-georgia-radiation-weapon-investigation"
-      },
-      {
-        "status": "A",
-        "path": "science/geoengineering/atkinson-georgia-radiation-weapon-investigation.png",
-        "href": "/science/geoengineering/atkinson-georgia-radiation-weapon-investigation.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/geoengineering/atkinson-georgia-radiation-weapon-investigation.png"
       }
     ]
   }
