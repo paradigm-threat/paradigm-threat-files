@@ -329,7 +329,7 @@ Another LLM pass flagged **disagreement, secrecy, and ethics** inside **[topic 9
 
 ### 8.2 Community compact → Unmod (author-supplied — not independently documented here)
 
-> **Firsthand thesis (repo author):** After a large share of active artists walked away over **David “djpretzel” Lloyd**’s **censorship / moderation** posture (below, **§8.3**), the community pressed for relief. **Lloyd** allegedly struck a **deal**: create **Unmod** (an **unmoderated** or minimally moderated forum) and **back off over-censorship**. **Unmod** is therefore framed here as a **treaty artifact** — a structural concession after an **exodus-class** crisis.
+> **Firsthand thesis (repo author):** After a large share of active artists walked away over **David “djpretzel” Lloyd**’s **censorship / moderation** posture **and** over **who controlled what could appear on the public catalog** (below, **§8.3**–**§8.4**), the community pressed for relief. **Lloyd** allegedly struck a **deal**: create **Unmod** (an **unmoderated** or minimally moderated forum) and **back off over-censorship**. **Unmod** is therefore framed here as a **treaty artifact** — a structural concession after an **exodus-class** crisis.
 
 This dossier has **not** located a **single canonical post** or policy page that phrases the compact exactly this way; treat it as **living memory** pending archivable primaries (**§10**).
 
@@ -352,6 +352,8 @@ The block below **extends** **§8.1** with narrative layers **mostly from an LLM
 #### Definition (synthesis)
 
 The **“VGMix exodus”** names the **early-2000s rupture** between **parts of the OCR community** and **Jake “virt” Kaufman**, overlapping **personal conflict with David “djpretzel” Lloyd** and **structural disagreement** about **gatekeeping**: OCR’s **judge-curated** model versus **VGMix’s** more **open-upload**, **community-review / tier** culture (**WIP** emphasis). Later posters shorthand it as the **“2002 remixer exodus”** or the **OCR–VGMix split**.
+
+> **Author read — Exodus 1 was also a catalog-control rupture (opinion):** The walkout was **not** reducible to **UnMod**-class **speech** alone. It was a break over **who may put work on the public index** without **staff/judge permission**. **VGMix** at launch targeted an **open pipeline**: **submit and be seen** — uploads **visible** under **community rating/review**, not held behind **judge acceptance**. **OCR** **then** ran **centralized curation**; in the author’s **present-tense** view it **still** has **no** equivalent **instant-public** submission surface (**Second Exodus** article — [**member-rights / web-DAW**](/influence/controlled_opposition/the-second-exodus-of-oc-remix.md) forward build). **Mirror/WP** summaries support **structural** fork language; **“still no open pipeline”** is **author judgment** pending product audit.
 
 #### Verified OCR-side anchors (priority pulls)
 
@@ -382,7 +384,7 @@ The **“VGMix exodus”** names the **early-2000s rupture** between **parts of 
 #### Three-layer map (controversy schema — LLM framing)
 
 1. **Personal:** **virt** ↔ **djpretzel** **feud** / **“beef”** language in **later** threads (**needs** 2002 primaries).  
-2. **Governance:** **Centralized judges** vs **open pipeline + community reviews / tiers**.  
+2. **Governance:** **Centralized judges** (**who** may enter the **public catalog**) vs **open pipeline + community reviews / tiers** (**submit → visible**, not **submit → wait for judge**).  
 3. **Legitimacy:** OCR-side **quality prestige** vs **VGMix-as-training-ground** positioning (**“crap conservatory”** rhetoric appears in **folk memory** — quote responsibly if citing).
 
 ### 8.5 Firsthand — **Protricity** on **VGMix 2** shutdown (technical reason vs. social collapse)
@@ -497,7 +499,7 @@ The notice **P.S.** (same **NeoGAF** quote) **asserts** staff **could not** main
 
 Keywords: #OCRemix #OverClockedReMix #GameMusicInitiative #ControlledOpposition #CommunityPrivatization #VGM #Capcom #ParadigmThreatFiles #Liontamer #MAGFest
 
-**Last updated:** 2026-02-06 (**§6.1** *Chrono*/CIA thread + **65360** staff quote + assistant article scan + PM paraphrase; **§6.2** paid-guardian / silver-platter universality **working** **model**); **2026-05-13** ([**Second Exodus**](/influence/controlled_opposition/the-second-exodus-of-oc-remix.md) reader article cross-refs; **§6.1.1** post-Exodus repair, educational-feature stall, MAGFest/housing memory — consolidated); **2026-05-08** (**§6.1.1** Liontamer judge-era firsthand + Ari / lion name irony); **2026-05-02** (**§7.5** Morrowind OpenMW vs MWSE / Nexus tone hook; **§7.4** fan-edit deep dive + firsthand *Final Fantasy: The Spirits Within* memory; **§7.1–§7.2**; **§8.5** NeoGAF VGMix notice; **§8.6** CO typology)
+**Last updated:** 2026-02-06 (**§6.1** *Chrono*/CIA thread + **65360** staff quote + assistant article scan + PM paraphrase; **§6.2** paid-guardian / silver-platter universality **working** **model**); **2026-05-16** (**§8.4** Exodus 1 — catalog control + VGMix open-submit vs OCR judge gate); **2026-05-13** ([**Second Exodus**](/influence/controlled_opposition/the-second-exodus-of-oc-remix.md) reader article cross-refs; **§6.1.1** post-Exodus repair, educational-feature stall, MAGFest/housing memory — consolidated); **2026-05-08** (**§6.1.1** Liontamer judge-era firsthand + Ari / lion name irony); **2026-05-02** (**§7.5** Morrowind OpenMW vs MWSE / Nexus tone hook; **§7.4** fan-edit deep dive + firsthand *Final Fantasy: The Spirits Within* memory; **§7.1–§7.2**; **§8.5** NeoGAF VGMix notice; **§8.6** CO typology)
 
 ---
 

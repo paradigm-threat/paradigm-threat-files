@@ -1,8 +1,44 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-17T00:34:41.580Z",
+    "date": "2026-05-17T00:36:10.256Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/success-by-any-means-necessary.md",
+        "href": "/influence/controlled_opposition/success-by-any-means-necessary"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/the-second-exodus-of-oc-remix.md",
+        "href": "/influence/controlled_opposition/the-second-exodus-of-oc-remix"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary.png",
+        "alt": "Success — by any means necessary — paying audience, black-box pipeline, NDAs, and leader accountability"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary-info.png",
+        "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/the-second-exodus-of-oc-remix.png",
+        "alt": "The Second Exodus Of OC ReMix — four-panel satire: crowd stays, solo walk, “but the future refused to change”"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-17T00:34:40.000Z",
+    "message": "Second Exodus article: embed the-second-exodus-of-oc-remix.png hero",
     "files": [
       {
         "status": "M",
@@ -2060,37 +2096,6 @@
       {
         "src": "https://paradigmthreat.net/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png",
         "alt": "Brantley Highway 82 burn scar — selective destruction adjacent to intact pine canopy"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-13T11:30:27.000Z",
-    "message": "OCR §6.1.1: post-Exodus repair, educational ideas, MAGFest memory",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
-        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
-        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
-        "alt": "*Chrono Trigger* / Mars remote viewing — predictive-programming composite (author)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)"
       }
     ]
   }
