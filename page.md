@@ -107,6 +107,7 @@ or *not* believing.
 
 * [Artemis II](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) — Faith test vs science milestone; staged-production readings; press patterns.
 * [Etana, the Sumerian King List, and "Wheels in the Sky" Testimony](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md) — Open: king list, sky wheels, Saturnian reinterpretation.
+* [Franklin “Palatine Moors” screenshot](/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md) — *Observations* (1751) text forensics; Boors vs Moors; book hunt; colonial/slave cross-links.
 * [Giants, Infantry, Guerrilla, and the Children's Crusade](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) — Lexical and Horde–infantry thesis.
 * [Griffins and other “myth” fauna in sober historical texts](/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md) — Extinction by human pressure? (concluded file.)
 * [Indigenous creation dates, legends, and geology](/history/chronology/indigenous-creation-legends-and-geology.md) — Lay reader: house-as-million-years metaphor; intergenerational science vs memory; links to legends-vs-geology dossier, C14 investigation, Common Questions.

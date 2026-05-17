@@ -82,6 +82,10 @@ The American Revolution was **financially enabled** by France (loans, military s
 
 ---
 
+## Related investigations
+
+- [Franklin “Palatine Moors” screenshot](/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md) — 1751 Franklin immigration/complexion essay; Palatine Germans in slave-colonial Pennsylvania (authentic **Boors** text).
+
 ## Open Questions
 
 - [ ] Fomenko's American Revolution thesis (Ch.8 §1) — cross-reference with chronologia.org full text

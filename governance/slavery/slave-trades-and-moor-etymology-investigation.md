@@ -135,6 +135,10 @@ After the fracture:
 
 ---
 
+## Related investigations
+
+- [Franklin “Palatine Moors” screenshot](/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md) — Circulated book page vs authentic *Observations* (1751); Boors/Moors forensics; Palatine settlers inside British colonial slavery; Anna’s Archive book hunt.
+
 ## Open Questions
 
 - [ ] Primary sources: contemporary Latin/Romance texts linking *Maurus*/*Moor* to *mors* or "death"
