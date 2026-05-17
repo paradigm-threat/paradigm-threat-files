@@ -112,6 +112,7 @@ Among **major** zombie works (Seabrook, Lovecraft, Romero, Brooks, Davis, Whiteh
 
 ## Cross-References
 
+- [Virus media PP — evolution, genome causality, zombie etiology (screen canon)](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md) — virus-zombie vs *Life Force* / Trioxin / voodoo; *Resident Evil*, *Contagion*
 - [Fiction presented as fact](../fiction-presented-as-fact-investigation.md) — Consolidated catalog of authors who presented fiction as fact
 - [Bram Stoker investigation](/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md)
 - [Lovecraft index](/influence/predictive_programming/fiction_encoding/lovecraft/index-lovecraft.md)

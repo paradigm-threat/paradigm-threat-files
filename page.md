@@ -173,6 +173,7 @@ or *not* believing.
 * [Weather Modification](/science/geoengineering/weather-modification-investigation.md) — Cloud seeding through ionospheric heaters.
 * [Havana Syndrome](/science/havana_syndrome/havana-syndrome-investigation.md) — Directed energy and gaslighting of the public narrative.
 * [Viruses were never found in the lab — ætheric disease (reader essay)](/science/health/viruses-were-never-found-only-aetheric-disease.md) — Theory-led: fingerprint not pathogen; GoF passaging vs unproved genome engineering; political capture since eugenics; links full audit.
+* [Virus media PP — evolution, genome causality, zombies](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md) — *Andromeda Strain*, *Resident Evil*, RNA/DNA-as-cause programming; §4.5 Capcom X2→RE1 hijack thesis, COVID rhymes/debunks, *Life Force* etiology tables.
 * [Virus isolation — skeptical audit (dual-track)](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md) — Track 1 virology logged; Track 2 ætheric/fingerprint thesis; Cowan/Lanka Lane B; poison read; §5g GoF; no genetics/vaccine/physics-æther debunk pillars.
 * [Chernobyl probiotics (Straight)](/science/health/probiotics_chernobyl/ssstwitter.com_1772378839442-investigation.md) — Transcript-led fact-check of probiotic / Chernobyl claims.
 * [Microchips](/science/microchips/microchips-shrinking-technology-investigation.md) — Shrinking tech, supply opacity, control thesis.

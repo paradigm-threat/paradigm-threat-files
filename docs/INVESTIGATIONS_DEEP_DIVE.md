@@ -10,7 +10,7 @@
 
 Every paradigm-threat-files investigation that uses the `*investigation.md` filename convention, plus [reverse-crusades-comparison.md](/governance/war/investigations/reverse-crusades-comparison.md), [vril-society.md](/governance/war/investigations/vril-society.md), and [wuxing-five-planets-dark-ages.md](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) (same treatment as site indexes). Deep-dive validation in §2 below applies only where a subsection exists; the rest are listed here so nothing is orphaned.
 
-**Count:** 90 files in the lists below.
+**Count:** 91 files in the lists below.
 
 **Supplementary** (same research lane, different filename): [Chronology investigations index](/history/chronology/investigations/index-investigations.md) lists companion articles and **chronology reader essays** under `history/chronology/` (e.g. [Indigenous creation dates, legends, and geology](/history/chronology/indigenous-creation-legends-and-geology.md)). [War investigations hub](/governance/war/investigations/page.md) lists thematic clusters. Fiction-encoding threads: [Narnia planetary encoding](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md), [Tolkien redacted fact](/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md), [Swift investigation](/influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift.md), [Asimov investigation threads](/influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads.md).
 
@@ -124,6 +124,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: Galen Winsor — “Nuclear Waste is Safe” (alternative framework)](/science/nukes/investigations/nuke-waste-is-safe-investigation.md)
 - [Investigation: "Nukes Don't Exist" — Alternative Framework Analysis](/science/nukes/investigations/nukes-dont-exist-investigation.md)
 - [Investigation: Virus isolation proof — skeptical audit (dual-track, author-boundary)](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md)
+- [Investigation: Virus media PP — evolution, genome causality, zombie etiology](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md)
 
 ---
 
@@ -159,8 +160,9 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 | 26 | Incorrectly Scaled Universe — curved-light aether model, gravity reinterpretation pressure | [incorrectly-scaled-universe-curved-light-aether-investigation.md](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md) | Equation draft for path curvature; duplicate-image tests; redshift/lensing comparison lanes; astrology dependency audit | Maxwell *Treatise* passage context; Santilli/Dowdye primaries; historical refraction monographs |
 | 27 | Big Mysteries Survey — consensus theater, menu fence, ROI audit hooks | [big-mysteries-survey-consensus-theater-investigation.md](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md) | §7.2 budget archaeology; Space Force funding vs mockery; Q1 Other re-code for non-BB cosmology; DESI vs Q4 timing | arXiv:2605.11058 supplemental spreadsheet; DoD SF budget books; APS survey instrument archive |
 | 28 | Virus isolation — skeptical audit (dual-track) | [virus-isolation-never-proven-thesis-skeptical-audit-investigation.md](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md) | §11 hooks: Enders 1954, Zhou/Wölfel COVID culture, Landsteiner 1908 route, Flexner primary; §5f synthesis chain-of-custody | Enders measles PDF; *Nature* 2020 COVID isolation papers |
+| 29 | Virus media PP — evolution, genome, zombies | [virus-media-predictive-programming-genome-zombie-etiology-investigation.md](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md) | §8 H1–H6: expand pre-1970 outbreak film; RE RNA primaries; *WWZ* book vs film; *Last of Us*; Terranigma cross-link | None explicit |
 
-**Total in §1 table:** 28 investigations with explicit unfinished work. **Full corpus:** 90 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
+**Total in §1 table:** 29 investigations with explicit unfinished work. **Full corpus:** 91 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
 
 ---
 
