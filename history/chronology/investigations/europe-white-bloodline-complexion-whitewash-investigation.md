@@ -2,10 +2,10 @@
 
 ![Europe white bloodline, complexion, and whitewash — investigation header](europe-white-bloodline-complexion-whitewash-investigation.png)
 
-> **TL;DR:** This dossier maps **every major “non-white” label** used in European sources (swarthy, Moor, tawny, serf, peasant, etc.) against **Fomenko’s New Chronology** and **mainstream** demography/genetics. **Author thesis (not Fomenko):** “white” is a **minority house-bloodline** (indoor elite), not indigenous pale demography; post–**Exodus / Dark Ages** a remnant **camped in Europe**, then **famines, Crusades, MFEE** winnowed those **outside houses**; the **same pattern** applies to **North America** — European monotheist exodus (**1492** frame), **house-builders** ill-adapted without indigenous help, then **replacement** of Native populations to an extreme minority, paralleling what likely happened in **Europe** first. **Documented:** chronology skepticism, Franklin §24, Moor/Barbary slavery, colonial dependence on Native aid, demographic collapse of indigenous nations. **Speculative:** Atlantis command, 1492 as literal flight date, gas-mask memory, WW precondition scripting.
+> **TL;DR:** Maps **white / non-white / Moor / swarthy / boor** labels against **Fomenko** and mainstream demography. **Author thesis:** indoor **bloodline minority**; **Palatine Boors** and **North African Moors** are a **forced split** — author read: **same ruling stratum** across Mediterranean–Rhine, **intermarried**, one imperial slaving order; later historians **disconnected** them so Germans look **autochthonous**; **mis-Atlantis** + autochthony myth **enabled** Nazi ideology (author causal stack, not sole cause). **Americas / 1492** parallel; **Boors/Moors** misquote is forensic sidebar — **Barbary + Atlantic + intermarriage zones** demonstrate links without the typo. **Documented:** Barbary slavery, Iberian admixture, nationalism’s invented antiquity, Franklin **Boors**. **Speculative:** unified Moor–German identity, Nazism counterfactual, Atlantis as Nazi prerequisite.
 
 **Status:** Open — taxonomy and cross-links built; primary archive targets listed.  
-**Date:** 2026-05-19
+**Date:** 2026-05-19 (author sentiment expanded 2026-05-20)
 
 ---
 
@@ -15,6 +15,7 @@
 |--------------|---------|
 | Author’s full sentiment in one place | §2 |
 | Americas parallel (1492, houses, indigenous replacement) | §2b |
+| Boors vs Moors — same lineage split, Nazism / autochthony | §2c |
 | Definitions: white / non-white / confused terms | §3 |
 | What Fomenko actually claims (and does not) | §4 |
 | Mainstream vs. Paradigm Threat | §5 |
@@ -30,13 +31,16 @@
 > White people actually represent a **minority bloodline** that could only survive in **houses** throughout history. Almost everyone else can be considered **non-white** because they lived **outside of houses** or in a more **rugged** situation without modern conveniences. The stereotype between white and non-white seems to be entirely a **status** thing. Europe was white because of a sequence of events tracing to **Atlantis**, when white people were in charge and everyone came for gifts and technology. After their fall they kept the bloodline alive with that same technology; almost every other race took over and became majorities. After the **Dark Ages**, after the **Exodus** event, white people **exodused to Europe**, set up camp, brought **slaves**. Later: **famines**, **incursions**, **Crusades**, **MudFlood** energetic events — anyone who could not survive **inside a house** perished in Europe especially. Science fiction remembers this as **ecosystem collapse**, **smog**, **gas masks**. Final read: Europe was **extraordinarily white** compared to the rest of the world **not** because of indigenous history but because of an **Atlantean monotheistic bloodline**, isolated, considering itself in charge, working to **enslave the world**; in modern times creating **preconditions for world war** as in the last two world wars. **Real nature of “white” is bloodline, not skin color.**  
 > The reason we find **white people in North America** is **not indigenous** either — **same reason** as Europe: **monotheists of Europe fled to America in 1492**. They were known for **building houses**, living in **extremely harsh conditions**, and **needing Native American help to survive**. Eventually they **replaced** Native Americans, reducing them to an **extreme minority** — and this is **most likely what happened in Europe as well**.
 
-**Unpack (assistant):** The investigation treats **three stacked layers**:
+> **Author (2026-05-20):** **Distinguishing** North African **Moors** from **white German peasants** (Palatine **Boors**) is **the problem**. These two lineages were **the same people** spread across a system where they **ran things**, **intermarried**, spanning a **very large region**. Later historians **disconnected** them so the public would believe **Germans** did not come from anywhere else — that they are **indigenous to Germany**. That disconnect was then **conflated with Atlantean mythology**, which **created the conditions for Nazism**. **Nazism would not have been possible** (author counterfactual) if Germans had understood their lineage was **spread all over the world**, not indigenous to Germany.
+
+**Unpack (assistant):** The investigation treats **four stacked layers**:
 
 1. **Semiotic layer** — Historical words (*swarthy*, *Moor*, *tawny*, *blackamoor*, *peasant*) are **not** stable synonyms for modern “people of color.”  
 2. **Structural layer** — **Indoor elite** vs **outdoor mass** as a **class/shelter** divide that later gets **frozen into pigment politics**.  
-3. **Timeline layer (author + NC-adjacent)** — Catastrophe → **European redoubt** → **Americas exodus (1492 frame)** → **replacement of prior majorities** → **cartographic and portrait whitewash** by **victors** (Romanov fracture, Scaligerian chronology, post-MFEE reordering). See §2b.
+3. **Timeline layer (author + NC-adjacent)** — Catastrophe → **European redoubt** → **Americas exodus (1492 frame)** → **replacement of prior majorities** → **cartographic and portrait whitewash** by **victors** (Romanov fracture, Scaligerian chronology, post-MFEE reordering). See §2b.  
+4. **Disconnect layer (author)** — **Moor** and **German boor** presented as unrelated “races”; author read: **elite continuity** across Mediterranean empire; **nationalist scholasticism** later invents **rooted German Volk** → vulnerable to **occult Atlantean / Aryan** overlays. See §2c.
 
-This file **does not** equate “non-white = inferior”; it documents how **labels moved** and how **author timeline** reinterprets them.
+This file **does not** equate “non-white = inferior”; it documents how **labels moved** and how **author timeline** reinterprets them. It **does not** claim Nazism was *only* an Atlantis misunderstanding — see §2c limits.
 
 ---
 
@@ -57,6 +61,65 @@ This file **does not** equate “non-white = inferior”; it documents how **lab
 **Contrast with Franklin (1751):** Franklin called **indigenous America** “**wholly**” tawny (§24) and feared **German Boors**, not “native whites” — supports **recent European “white” presence** as **immigrant politics**, not aboriginal identity. See [Franklin dossier](/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md).
 
 **MFEE layer (repo):** [New World naming](/history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md) separates **1492 propaganda stratum** from **post–~1774** “New World” inflation after cataclysm — both compatible with author “exodus + repopulation” without merging dates blindly.
+
+---
+
+## 2c. Boors, Moors, and the manufactured split — imperial one network, nationalist two peoples
+
+### Author thesis (2026-05-20)
+
+**The forensic fight over Boors vs. Moors misses the point if the goal is only quotation accuracy.** Author read: the deeper issue is that **modern categories** treat **Barbary Moors** and **Rhineland Palatine Boors** as unrelated — when they were **branches of one interconnected imperial class** (trade, war, slavery, marriage diplomacy) stretched across the **Mediterranean, Iberia, HRE, and Atlantic**.
+
+| Pole in modern textbooks | Author reframe |
+|------------------------|----------------|
+| **Moor** = North African, Muslim, “other,” Barbary slaver | **Maghrebi–Iberian–Mediterranean** ruling and trading stratum; [slave-trades dossier](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
+| **German boor** = white indigenous peasant of Central Europe | **Outdoor mass** in author status model; **Palatine** = migrant **subject** of same **British / imperial** machine that fought Barbary and ran Atlantic slavery |
+| **Never the twain** | **One degree of separation** on the **map of power** — ports, crowns, bankers, captives — not necessarily the same **village genealogy** |
+
+**Intermarriage / intermixing (tiered):**
+
+| Zone | Status |
+|------|--------|
+| **Iberia, Sicily, southern Italy, Balkan coasts** | **Documented** historical admixture and elite marriage across Christian–Muslim lines over centuries |
+| **HRE Palatinate peasantry ↔ Barbary corsair clans** | **Not documented** as mass intermarriage; author **infers** upper-stratum continuity, not that every Palatine farmer was “Moorish” |
+| **Franklin (1751)** | Treats **Spain’s Moors** (§21) and **Palatine Boors** (§23) in **one essay** — garbled reprints **merge** them; authentic text **keeps them separate** but in **one imperial worldview** |
+
+### “Later historians disconnected them” (author)
+
+**Author claim:** 19th–20th c. **nationalist historiography** (especially **German autochthony** and **Volk** ideology) **split** Mediterranean–Atlantic continuity into:
+
+- **Germans** as **ancient rooted soil people** (*Ur-German*, *deutsch*, archaeological patriotism), and  
+- **Moors / Muslims** as **foreign** civilization or threat,
+
+so the public forgets **migration, exodus, Horde fracture, and elite intermarriage** documented elsewhere in this repo ([history-qa](/history/chronology/history-qa/page.md), [chronology hub](/history/chronology/page.md), Fomenko **map erasure**).
+
+**Mainstream partial overlap:** Historians debate **migration age** of Germanic speakers, **Carolingian/Ottoman** frontiers, and **orientalism** — without endorsing “Moors = Germans.” **Romantic nationalism** really did invent **deep roots** for nation-states.
+
+### Atlantis conflation and Nazism (author causal stack — heavily qualified)
+
+**Author claim (interpretive, not proven):**
+
+1. Once **Moors** and **Germans** are taught as **unrelated**, Germans can be sold a **pure indigenous** myth.  
+2. **Atlantis / Aryan occult** strands (Thule Society, Ariosophy, popular occultism — **not** mainstream archaeology) supply a **fake deep past** when real **worldwide bloodline** memory is gone.  
+3. **Nazism** exploited **autochthony + racial hierarchy + Lebensraum**; author **counterfactual:** if Germans had retained a **global dispersed lineage** self-image (author’s “bloodline spread worldwide”), **Nazism would not have been possible** in the same form.
+
+**Documented (mainstream) — Nazism’s sources were plural:**
+
+- Volkisch nationalism, social Darwinism, antisemitism, Versailles, Weimar crisis, colonial race law precedents — see [WWII fascism investigation](/governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md).  
+- **Atlantis / Thule** were **fringe occult inputs**, later **appropriated** — not the sole genesis.  
+- Nazi ideology **explicitly ranked** peoples; it did **not** treat Germans and Moors as **one brotherhood**.
+
+**Repo stance:** Record author **moral-historical** argument; **reject** using it to **excuse** or **normalize** Nazi crimes; **reject** collapsing **Jews**, **Romanies**, or any group into a single “bloodline” enemy. See [antisemitism working definition](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md).
+
+**Contrast with Paradigm Threat Atlantis file:** [Atlantis Mars theory](/history/chronology/atlantis/theory.md) places Atlantis on **Mars pole** in **Saturnian cosmology** — **not** Nazi *Hörbuch* Atlantis. Author warns: **popular Atlantis kitsch** + **severed Moor–German history** = **toxic synthesis** in 20th c., distinct from repo cosmology chapter.
+
+### Why the Boors/Moors quote still matters — and does not
+
+| Role | Verdict |
+|------|---------|
+| **Structural argument** (one slaving imperium, Barbary + Atlantic + Palatine in same century) | **Can be demonstrated without misquote** — author is **right** that this is load-bearing |
+| **“Same people” literally** (every Moor = every German peasant) | **Overstated** — needs **elite genealogy** and regional nuance |
+| **Franklin “Palatine Moors”** | **Forensic sidebar** — shows **conflation** in modern books; **not** required for §2c |
 
 ---
 
@@ -125,6 +188,9 @@ Use this table when reading European sources, meme books, or Fomenko side by sid
 | World wars | Imperialism, treaties, industrial militarism | **Same apparatus** preconditions wars — [American Revolution](/governance/war/investigations/american-revolution-investigation.md), [WWII fascism](/governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md), [reverse crusades](/governance/war/investigations/reverse-crusades-comparison.md) |
 | Who are “white” Americans? | Immigrants + assimilation; indigenous prior occupancy | **Not indigenous white** — **1492 monotheist exodus** + house culture; same replacement pattern as **Europe hypothesis** |
 | Native American decline | Disease, conflict, policy, structural violence | **Replacement by house-bloodline majority** — outcome **documented**, author **causal stack** speculative |
+| Moors vs German Boors | Unrelated ethnic groups | **One imperial network**; **split by later nationalism** — intermarriage **regional** not universal |
+| German indigenous autochthony | Archaeology + migration studies | **Invented rootedness** after disconnecting Mediterranean past |
+| Nazism + Atlantis | Occult fringe + propaganda; multifactor extremism | **Author:** autochthony myth + Atlantis kitsch as **enabler** if worldwide lineage forgotten — **not** sole cause |
 
 ---
 
@@ -151,6 +217,12 @@ Use this table when reading European sources, meme books, or Fomenko side by sid
 | 17 | Settlers **house-builders**, needed **Native help** | **Partially documented** | Early starvation winters, indigenous crops/diplomacy widely attested |
 | 18 | Native Americans reduced to **extreme minority** | **Partially documented** | 20th–21st c. demographics; causation multi-factor |
 | 19 | **Same replacement** happened in **Europe** earlier | **Speculative** | Parallel model; aDNA / archaeology main falsifiers |
+| 20 | Moors + Palatine Boors = **same people** in one world-system | **Investigative / overstated if literal** | **Strong** at elite-network level; **weak** as mass ethnicity |
+| 21 | **Heavy intermarriage** across large region | **Partially documented** | Iberia/Mediterranean yes; Rhine peasantry — case by case |
+| 22 | Historians **disconnected** Moors from Germans for nationalist myth | **Partially documented** | Orientalism + Volkisch autochthony; not one conspiracy |
+| 23 | Disconnect + **Atlantis myth** → conditions for **Nazism** | **Speculative** | Occult Atlantis was **fringe**; Nazism **multifactor** |
+| 24 | Nazism **impossible** if Germans knew **worldwide dispersed lineage** | **Author counterfactual** | Moral-historical claim; not testable |
+| 25 | Boors/Moors misquote **does not matter** for empire argument | **Author position** | **Agree** structurally; **disagree** for citation hygiene |
 
 ---
 
@@ -175,6 +247,7 @@ Use this table when reading European sources, meme books, or Fomenko side by sid
 | Promised land / 1492 exodus echo | [/history/mudflood/investigations/promised-land-investigation.md](/history/mudflood/investigations/promised-land-investigation.md) |
 | Indigenous legends vs geology | [/history/chronology/indigenous-creation-legends-and-geology.md](/history/chronology/indigenous-creation-legends-and-geology.md) |
 | Antisemitism working definition | [/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md) |
+| WWII fascism / religious apparatus | [/governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md](/governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) |
 
 ---
 
@@ -192,6 +265,9 @@ Use this table when reading European sources, meme books, or Fomenko side by sid
 | 8 | Jamestown / Plymouth starvation records vs indigenous aid | Colonial primary sources |
 | 9 | Pre-1492 European aDNA vs modern pale regions | Population genetics |
 | 10 | Indigenous population estimates 1491 vs 1900 vs 2020 | Demography + historiography of disease |
+| 11 | 19th c. German **Volk** texts vs Mediterranean migration scholarship | Nationalist primary sources |
+| 12 | Thule / Ariosophy / Atlantis in NSDAP adjacency | Occult historiography (Evans, Goodrick-Clarke) |
+| 13 | Habsburg/Ottoman marriage diplomacy as “same system” case studies | Dynastic archives |
 
 ---
 
@@ -205,7 +281,7 @@ Use this table when reading European sources, meme books, or Fomenko side by sid
 
 ---
 
-Keywords: #Europe #NorthAmerica #WhiteBloodline #Complexion #Whitewash #Fomenko #NewChronology #MudFlood #Atlantis #RusHorde #Swarthy #Moor #Columbus1492 #Indigenous #ParadigmThreatFiles
+Keywords: #Europe #NorthAmerica #WhiteBloodline #Complexion #Whitewash #Fomenko #NewChronology #MudFlood #Atlantis #RusHorde #Swarthy #Moor #PalatineBoors #Columbus1492 #Indigenous #Nazism #ParadigmThreatFiles
 
 **Last updated:** 2026-05-20
 
@@ -218,6 +294,7 @@ Keywords: #Europe #NorthAmerica #WhiteBloodline #Complexion #Whitewash #Fomenko 
 - **Fomenko** is cited only where marked; mainstream historians reject NC.global conclusions.  
 - This investigation **does not** claim all Europeans were literally Black in modern sense, or that all modern “white” people are Atlantean — it documents **label confusion** and **timeline speculation**.  
 - **§2b** does **not** deny indigenous genocide or Native sovereignty; it reframes **who “white Americans” are** in author timeline (exodus + replacement), parallel to **Europe hypothesis**.  
+- **§2c** records author **Nazism counterfactual** and **Moor–German unity** thesis for investigation; **not** Holocaust revisionism, **not** minimization of Nazi antisemitism, **not** endorsement of Nazi racial science.  
 - See [antisemitism working definition](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md): critique **institutions and bloodline myths**, **no** monolithing ethnic communities.  
 - Fiction (gas masks, WotW) is **evidence of cultural memory**, not literal unless separately proved.
 

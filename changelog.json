@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-20T13:00:30.136Z",
+    "date": "2026-05-20T13:22:51.711Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md",
+        "href": "/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png",
+        "alt": "Europe white bloodline, complexion, and whitewash — investigation header"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-20T13:00:29.000Z",
+    "message": "Add Europe white bloodline complexion whitewash investigation.",
     "files": [
       {
         "status": "M",
@@ -1276,33 +1294,6 @@
       {
         "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
         "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-14T00:09:45.000Z",
-    "message": "Drop YAML frontmatter legacy from tooling and document body-only metadata",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
-        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
-      },
-      {
-        "status": "M",
-        "path": "scripts/fill_tldr_todo.py",
-        "href": "/scripts/fill_tldr_todo.py"
-      },
-      {
-        "status": "M",
-        "path": "scripts/generate-index.py",
-        "href": "/scripts/generate-index.py"
-      }
-    ],
-    "images": [
-      {
-        "src": "/docs/)`)."
       }
     ]
   }
