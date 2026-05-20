@@ -1,8 +1,8 @@
 # Franklin “Palatine Moors” Screenshot — Text Forensics, Colonial Context, and Book Hunt
 
-> **TL;DR:** A circulated book page (page **60**, Franklin portrait) quotes *Observations Concerning the Increase of Mankind* (1751) with **“Palatine Moors,”** **“black”** Europeans, and a **“black German King George II”** gloss. Every standard edition has **“Palatine Boors”** and omits the George II line. The screenshot is **most likely a real printed book** (compilation / hidden-history genre); **finding that edition** is the open forensic step. Substantive claims about **Palatines inside the slave empire**, **Moor–Barbary–Atlantic links**, and **curriculum whitewash** stand **without** treating the misquote as Franklin’s ur-text.
+![Franklin Palatine Moors screenshot investigation — header](franklin-palatine-boors-moors-screenshot-investigation.png)
 
-![Screenshot under investigation — Franklin page with “Palatine Moors” and George II gloss](franklin-palatine-boors-moors-screenshot-investigation.png)
+> **TL;DR:** A circulated book page (page **60**, Franklin portrait) quotes *Observations Concerning the Increase of Mankind* (1751) with **“Palatine Moors,”** **“black”** Europeans, and a **“black German King George II”** gloss. Every standard edition has **“Palatine Boors”** and omits the George II line. The screenshot is **most likely a real printed book** (compilation / hidden-history genre); **finding that edition** is the open forensic step. Substantive claims about **Palatines inside the slave empire**, **Moor–Barbary–Atlantic links**, and **curriculum whitewash** stand **without** treating the misquote as Franklin’s ur-text.
 
 **Status:** Open  
 **Date:** 2026-05-16  
@@ -48,6 +48,8 @@ Franklin mentions **“the Expulsion of the Moors”** only when discussing **Sp
 ---
 
 ## 2. Screenshot page vs authentic text
+
+![Book page under investigation — page 60, “Palatine Moors,” George II gloss](franklin-palatine-boors-moors-screenshot.png)
 
 | Element on screenshot | In Franklin (1751)? | Verdict |
 |------------------------|---------------------|---------|
@@ -114,6 +116,7 @@ Christian-adjacent and para-religious lanes often circulate similar pages: **Moo
 | American Revolution / 1775–76 context | [/governance/war/investigations/american-revolution-investigation.md](/governance/war/investigations/american-revolution-investigation.md) |
 | Fomenko vs author claims | [/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md) |
 | Redaction as project theme | [/history/chronology/history-qa/page.md](/history/chronology/history-qa/page.md) (First / Second / Third History) |
+| Europe white / non-white taxonomy | [/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) |
 | Anna’s Archive workflow | [/docs/ANNAS_ARCHIVE_HOLLOW_EARTH.md](/docs/ANNAS_ARCHIVE_HOLLOW_EARTH.md) |
 
 **Franklin §23 with *Boors*:** he feared **Germanization** of Pennsylvania in a colony already shaped by **slavery and settler hierarchy** — same document §24 ties immigration to **excluding “Blacks and Tawneys.”**
@@ -198,5 +201,5 @@ Keywords: #Franklin #PalatineMoors #PalatineBoors #Observations1751 #BenjaminFra
 
 ## Investigator notes
 
-- Session asset copied to `franklin-palatine-boors-moors-screenshot-investigation.png`.  
+- Hero: `franklin-palatine-boors-moors-screenshot-investigation.png`; study copy: `franklin-palatine-boors-moors-screenshot.png`.  
 - Columbia live URL may 403 bots; use Wayback: `https://web.archive.org/web/2020/https://www.columbia.edu/~lmg21/ash3002y/earlyac99/documents/observations.html`
