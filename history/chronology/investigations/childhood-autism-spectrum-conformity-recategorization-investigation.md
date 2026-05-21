@@ -1,9 +1,9 @@
 # Childhood “Autism Spectrum”: Conformity Grading, Diagnostic Umbrella, and Autodidactic Profiles
 
-> **TL;DR:** **★ §2c:** Teachers think curriculum is **organic/consensus**; author asserts **collectivism + warfare** → **fear-driven** mass grading, **single contradicted canon** (all subjects, one umbrella), world producing **antibodies** (indigenous/nativist knowledge, exits). **Autism spectrum** **congealed** in same era (collectivist grading, Prussian factory model, Flexner-style capture). **General education curriculum** was **not** assembled by neutral truth-seekers but by **victors, lobbies, and one-sided narratives** → binary of “educated” (believes the package) vs “uneducated.” **Main failure today:** children **visibly reject** false or age-inappropriate content — read as **Category 2** signal (conformity/abuse), not mere defiance. **Two categories only:** **(1) disease/environmental** or **(2) behavioral** (rejecting compromised conformity / coercion). **Autodidactic path:** interest-led learning + **real computers** (not tablet-only), reading/typing over performative writing, **curriculum audit** (teach Gulf of Tonkin, question Watergate packaging, cut unproven math), **kid-safe apps** and **AI** (with safety) for fullest early education + **information literacy after school**. **Montessori/Higher Ground tension:** even authentic guides assume a **trustworthy structured curriculum** led by “life itself” — author denies that curriculum’s legitimacy until audited (§2b, §10.1b). §13 = draft reply to [Higher Ground Substack](https://higherground.substack.com/p/friday-note-no-montessori-isnt-child).
+> **TL;DR:** **★ §2c:** Teachers think curriculum is **organic/consensus**; author asserts **collectivism + warfare** → **fear-driven** mass grading, **single contradicted canon**. **Lead child profile (§8.6):** **no verbal acknowledgment** of others (public **or** home); **rich private speech** (monologue, **songs**); **hyperlexia** (books + **environmental print**). **Historic literature:** Piaget/Vygotsky = **private speech** (normative); Kussmaul/Reed = **selective mutism** (speech **somewhere** with people); Treffert = **reading + minimal social speech**; **no pre-1940 unified syndrome** — psychiatry **lumped** under ASD (§5). **Curriculum audit (§2b.1):** Watergate vs Tonkin asymmetry. **Two categories:** **(1) disease/environmental** or **(2) behavioral** (conformity/coercion). **Autodidactic path:** print/typing, **no** forced verbal acknowledgment first. Lay article: [When your child won’t fit the grade](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md). §13 = [Higher Ground](https://higherground.substack.com/p/friday-note-no-montessori-isnt-child) reply draft.
 
 **Status:** Open — literature map and recategorization framework drafted; primary-source deep reads TODO.  
-**Date:** 2026-05-21
+**Date:** 2026-05-22
 
 ---
 
@@ -14,6 +14,7 @@
 | **★ Highlighted conclusion** — curriculum, warfare, collectivism, antibodies | **§2c** |
 | Author thesis in one place | §2 |
 | Compromised curriculum, Flexner, tech/AI path | §2b |
+| **Watergate vs Gulf of Tonkin** — asymmetric controversy | **§2b.1** |
 | Transcription note (*autodidactic*, etc.) | §2a |
 | vs Higher Ground “not child-led” article | §10.1b |
 | Draft Substack reply (copy-paste) | §13 |
@@ -24,6 +25,7 @@
 | How “autism” became one umbrella | §5 |
 | Two categories only: disease/environment vs behavioral (conformity/abuse) | §6 |
 | Hyperlexia + mutism + preserved home speech — explained | §8.5 |
+| **Private speech, no social acknowledgment** — historic literature map | **§8.6** |
 | Decision worksheet — you choose the category | §11 |
 | Gestalt learning vs forced drills | §7 |
 | The specific child profile — what diagnoses fit | §8 |
@@ -78,14 +80,49 @@
 
 | Topic area | Author stance | Notes |
 |------------|---------------|-------|
-| **Vietnam / Gulf of Tonkin** | Should be taught; often suppressed | Congressional records; escalation debate |
-| **Watergate** | Skeptical of current packaging | “What shouldn’t be taught at all” vs sanitized civics |
+| **Vietnam / Gulf of Tonkin** | Teach as **deception / false casus belli**, not only “attack → war” | Ellsberg / Pentagon Papers; NSA 2005 on second attack; [false-flag catalog](https://paradigmthreat.net/events/false_flag/investigations/20th-21st-century-catalog.md#gulf-of-tonkin-1964) |
+| **Watergate** | Taught widely — **contrast** with Tonkin silence | Domestic scandal safe; war-lie episode suppressed — see **§2b.1** |
 | **Slavery / violence / gender morality tales** | **Defer** until older **if** taught at all | Author’s retained harm from early exposure |
 | **Math beyond use** | Cut or defer unproven / non-applied strands | Needs per-topic list |
 | **Writing performance** | Reduce gatekeeping; **reading + typing** first | Hyperlexic channel (§8.5) |
 | **Civics “educated vs ignorant”** | Reject binary | Tied to victor narrative |
 
 **Link to autism investigation:** When schools **pathologize** children who **won’t swallow** the package, the system mislabels **Category 2** rejection as **Category 1** “disorder” and doubles coercion (§5, §11).
+
+---
+
+## 2b.1 Watergate vs Gulf of Tonkin — asymmetric controversy (author contrast)
+
+> **Author intent (2026-05-22):** The two topics are **not** interchangeable “scandals.” **Watergate** is taught as **political controversy** inside the republic. **Gulf of Tonkin** is usually taught as a **cause of war** — while the **government-sponsored deception** Ellsberg documented stays **off the lesson plan** or buried in an AP footnote. That asymmetry is what the author meant by wanting a **curriculum audit**.
+
+### Side-by-side — what the child actually gets
+
+| Dimension | **Watergate (1972–74)** | **Gulf of Tonkin (1964)** |
+|-----------|-------------------------|---------------------------|
+| **Typical placement** | Civics / U.S. history — **major unit** | Vietnam unit — **incident → Tonkin Resolution → escalation** |
+| **Controversy frame** | **Domestic** crime and cover-up; constitutional crisis; Nixon | Often **international** “enemy attack”; **Congress authorized** force |
+| **Moral packaged for students** | “Even presidents can break law; oversight matters” | “America responded to aggression” — **not** “leadership fabricated or misrepresented attack” |
+| **Ellsberg / Pentagon Papers** | Optional link to **secrecy** and **Vietnam** broadly | **Central** to Ellsberg: Tonkin deception as **why** he leaked |
+| **Documented post-hoc truth** | Senate hearings, tapes, impeachment process | **Second attack likely did not occur** — NSA historical review, declassified **2005**; catalogued **Confirmed** in [false-flag dossier](https://paradigmthreat.net/events/false_flag/investigations/20th-21st-century-catalog.md#gulf-of-tonkin-1964) |
+| **Author read** | **Safe controversy** — institution absorbs shame without delegitimizing **war state** | **Unsafe truth** — teaches that **casus belli** can be **staged or lied** — same machinery as Maine, Northwoods, etc. |
+
+### What Ellsberg adds (investigation tier)
+
+| Claim | Tier | Source lane |
+|-------|------|-------------|
+| Pentagon Papers documented **expanded secrecy** and **misleading** official history of Vietnam | **Documented** | Ellsberg leak (1971); *New York Times* publication |
+| Ellsberg understood Tonkin episode as part of **deception** justifying war | **Documented** (motivation) | Ellsberg interviews / memoir literature |
+| **Second Gulf of Tonkin attack** did not occur as reported | **Validated** in-repo | NSA declassification 2005; [09-11 investigation §Gulf of Tonkin template](https://paradigmthreat.net/events/false_flag/investigations/09-11-investigation.md#gulf-of-tonkin-the-template); [INVESTIGATIONS_DEEP_DIVE](https://paradigmthreat.net/docs/INVESTIGATIONS_DEEP_DIVE.md) |
+| K–12 **routinely** teaches Tonkin as **false flag / government deception** | **Author audit target** — verify per state standards (§19 D5) | Often **under-taught** vs Watergate depth |
+
+**Unpack:** Textbooks can host **Watergate** because it is **entirely political and controversial** without asking the student to hold “my government lied me into a war” as the **default civics lesson**. **Tonkin** threatens that — so the canon keeps **war cause** and drops **war lie**. That is **one-sided narrative assembly** (§2b), not missing “facts” by accident.
+
+### Link to child rejection (Category 2)
+
+- Child refuses **slavery morality cartoon** *and* senses **Tonkin ≠ Watergate** treatment → **integrity under contradicted canon**, not “oppositional defiant” by default (§6, §8.5).
+- Parent / autodidactic path: after audit, use **primary sources** (Tonkin Resolution text, NSA review summary, Ellsberg documentary) — not only the district’s Vietnam chapter order.
+
+**Lay article:** [When your child won’t fit the grade — Watergate vs Tonkin](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md#watergate-is-taught-gulf-of-tonkin-deception-is-not--and-that-contrast-is-the-point).
 
 ---
 
@@ -133,7 +170,7 @@ flowchart LR
 | Teachers often believe | Investigation read |
 |------------------------|-------------------|
 | Experts slowly agreed on best practices | **Victors + foundations + federal adoption** (Flexner **pattern**, §2b) |
-| Curriculum updates are science | **Political** textbook cycles, suppressed episodes (Tonkin vs packaged civics) |
+| Curriculum updates are science | **Political** textbook cycles — **Watergate taught as controversy**, **Tonkin often as war cause not govt deception** (§2b.1) |
 | Non-compliant child needs services | Child may be **rejecting false canon** (§8.5, §11 B11–B12) |
 | More SEL / compliance training fixes it | Doubles down on **fear** inside same umbrella |
 
@@ -292,9 +329,10 @@ This file **does not** use open-ended multi-track tagging. Each child is classif
 
 - Very **high intelligence** (observed reasoning, reading)
 - **Autodidactic** reading — minimal direct instruction
-- **Adequate or clear articulation** when chooses to speak (often **home**)
-- **Refusal** to use spoken language with **other children/adults** in many settings
+- **Adequate or clear articulation** on **private channel** (self-talk, songs, scripts) — **may not** speak to **any** adult or peer (**§8.6**), or may speak only at **home** (**§8.5**)
+- **Refusal** to use spoken language with **other children/adults** for **social acknowledgment** (many or **all** settings)
 - **Major emotional outburst** when subjected to **conformity exercises** (circle time compliance, forced speech, repetitive social drills)
+- **Environmental print reading** (“off the wall”) — optional but **strong** signal for **§8.6**
 
 ### 8.2 Best-fit historical and modern labels (literature map)
 
@@ -318,6 +356,8 @@ This file **does not** use open-ended multi-track tagging. Each child is classif
 - **Forcing speech** is **contraindicated** in modern SM treatment (pressure worsens silence).
 
 ### 8.5 Hyperlexia + mutism + preserved home speech (plain explanation)
+
+> **Variant:** If the child **never** speaks to **family** but has **private speech + reading** (§8.6), skip “preserved home speech” below and use the **§8.6** historic map — schools still often write **nonverbal autism**.
 
 Three pieces that often get **congealed** into “autism” but are **separate observations**:
 
@@ -343,7 +383,8 @@ Three pieces that often get **congealed** into “autism” but are **separate o
 
 | Pattern | Likely category |
 |---------|-----------------|
-| Home speech **good**, school silent, meltdown on forced participation | **2** — situational + conformity |
+| Home speech **good**, school silent, meltdown on forced participation | **2** — situational + conformity (**§8.5**) |
+| **Private speech + reading** rich, **no verbal reply to anyone** (incl. home) | **2** default after **Category 1** rule-out — **§8.6** |
 | Speech/pragmatics **equally** poor everywhere since infancy; medical signs | **1** — organic / global developmental |
 | Home speech good, then **suddenly** stops everywhere after illness | **1** — rule out neurological event |
 | Home speech good, silence **starts** after specific teacher/bullying/restraint | **2** — abuse/coercion timeline |
@@ -351,6 +392,55 @@ Three pieces that often get **congealed** into “autism” but are **separate o
 ### 8.4 Conformity exercises → eruption
 
 Matches **PDA** literature: imposed demand → escalation → meltdown when escape fails ([Child Mind Institute — PDA](https://childmind.org/article/pathological-demand-avoidance-in-kids/); [National Autistic Society — demand avoidance](https://www.autism.org.uk/advice-and-guidance/behaviour/demand-avoidance)). Also matches **overexcitability** + invalidation in **gifted** children (intensity read as immaturity).
+
+### 8.6 Private speech, hyperlexia, no social acknowledgment — historic literature map
+
+> **Lead scenario (2026-05-22):** Child **does not talk to people** (public **or** home). **Talks to self** extensively. **Knows many songs** (memorized scripts). **Reads** books and **environmental print** (“off the wall”) in **well-spoken English**. **No verbal acknowledgment or response** to others — while adults may still debate whether the child is “taking in” social input nonverbally.
+
+This is **not** the textbook **selective mutism** case (speech preserved with **specific** safe partners). It is a **compound profile** schools collapse into **“nonverbal ASD.”** Historic literature **mentions pieces**; **none** of the pre-psychiatric authors name this **exact cluster** as one syndrome.
+
+#### Phenotype checklist (author)
+
+| Signal | Notes |
+|--------|--------|
+| **Zero social speech** | No conversational return to parents, peers, teachers |
+| **High private speech** | Monologue, scripting, humming, **song lyrics** |
+| **Hyperlexia / environmental print** | Decoding signs, labels, walls — often **ahead** of assessed “communication” |
+| **Well-formed English when vocalizing alone** | Proves **phonology and grammar exist** on a **non-social channel** |
+| **Acknowledgment withheld** | May **look** “not taking in” adults; may **track** print and audio without **verbal** reply |
+
+**Category hint:** Rule out **Category 1** (hearing, seizures, global delay from infancy). If language is **rich in private** and **absent only as social performance**, default **Category 2** until medical signs say otherwise (§11).
+
+#### Do historic authors describe this **specifically**?
+
+| Author / tradition | Do they mention it? | What they **actually** said |
+|--------------------|---------------------|-----------------------------|
+| **Plato / Locke / Rousseau** | **No** named syndrome | Locke: speech via **hearing others**; Rousseau: **anti-forced performance** — neither maps **global non-response + rich solitary speech** |
+| **H. Taine (1876)** | **Partial** | Child’s **own initiative** in babble; adults **channel** — supports **not** forcing social speech; **does not** describe mute-to-all + self-talk + reading |
+| **Darwin (1877 infant diary)** | **No** | Association of sound and object; **observation** — not mutism profile |
+| **Kussmaul (1877) *aphonia voluntaria*** | **Partial** | **Voluntary mutism** — can speak, **won’t** in settings; assumes speech **somewhere** with humans, not **only** to self |
+| **Tramer / Reed — selective mutism (20th c.)** | **Partial** | **Failure to speak in specific situations** despite speaking **elsewhere** — **mismatch** if child **never** speaks to family |
+| **Piaget (1920s) — egocentric speech** | **Yes — different claim** | Young children talk **aloud while playing** for self; **normal stage**, expected to **fade** as socialized — **not** pathology, **not** paired with **no response to all humans** |
+| **Vygotsky / Luria (1930s) — private speech** | **Yes — closest normative match** | **Private speech** mediates thought; later **internalizes**; **social speech** still expected to develop — describes **self-talk**, **not** permanent **social mutism** |
+| **Montessori (1907+)** | **Indirect** | Child may work **alone**, **humming**; **auto-education** via environment — **not** a diagnostic category for **no acknowledgment** |
+| **Watson / Skinner** | **No** | Imitation + reinforcement — **fails** to explain rich **private** language without social reward |
+| **Kanner (1943)** | **Partial** | **Echolalia**, **islets of ability**, aloofness — **20th-c. autism** begins to **lump** pieces; **not** hyperlexia + environmental print as modern clinicians define it |
+| **Asperger (1944)** | **Partial** | Verbose **monologues** about special interests — sometimes **one-sided** talk **at** people; **not** classic **zero** acknowledgment |
+| **Treffert — hyperlexia (late 20th c.)** | **Yes — modern piece** | **Non-speaking** or minimally speaking children who **read** early — **closest medical line** to **reading + no social speech**; **private monologue** is **adjacent**, not always central in his essays |
+| **John Holt (1960s–80s)** | **Indirect** | **Fear/coercion** block performance; respects **quiet** learners — **no** clinical syndrome name |
+
+**Direct answer for parents:** Historic **pedagogical** authors (Rousseau, Montessori, Holt) argue against **forcing** speech and for **interest-led** channels — **compatible** with your child’s **refusal of performative dialogue**. Historic **clinical** writers **split** the signs: **mutism** (Kussmaul → selective mutism), **self-talk** (Piaget/Vygotsky as **normal** development), **reading gifts** (Treffert). **No pre-1940 author** lists **mute to everyone + sings + reads walls + no acknowledgment** as **one** entity. Psychiatry **later merged** overlapping presentations under **ASD** (§5) — which is why the school uses one acronym for a **multi-channel** child.
+
+#### What to do with the literature (investigation stance)
+
+| Move | Rationale |
+|------|-----------|
+| **Do not** treat “never speaks to family” as **selective mutism** without checking **any** human-directed speech | SM literature assumes **islands** of social speech |
+| **Do** treat **private speech + reading** as **proof of capacity** | Taine / Vygotsky / hyperlexia lane |
+| **Do not** force **social acknowledgment** as IEP goal | Contraindicated in SM; **worse** if child is **Category 2** |
+| **Do** offer **written/typed** bridge, **low-demand** environment, **print-rich** autodidactic path (§10.5) | Gestalt / Holt / Montessori **when curriculum audited** |
+
+**Lay article:** [When your child won’t fit the grade — opening scenario](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md).
 
 ---
 
@@ -366,9 +456,11 @@ Matches **PDA** literature: imposed demand → escalation → meltdown when esca
 | **Paolo Freire** | *Pedagogy of the Oppressed* | Anti-banking model — **political** parallel to anti-conformity |
 | **Dabrowski** | Theory of Positive Disintegration | **Overexcitability** in intense learners |
 | **Treffert / hyperlexia clinic** | Hyperlexia essays & cases | **Reading-first** channel children |
+| **Piaget** | *The Language and Thought of the Child* (1923) | **Egocentric speech** — self-talk while playing (**normative**) |
+| **Vygotsky / Luria** | *Thought and Language* (1934); private speech research | **Private speech** mediates cognition — **§8.6** anchor |
 | **Selective mutism** | Tramer, Reed, Kolvin & Fundudis (1981), SMRM.org lineage | **Mutism-specific**, not “spectrum” generic |
 
-**Gap:** Few historic texts use the word **autodidactic**; **Montessori “auto-education”** and Holt’s **“unschooling”** are the closest **pedagogical** literature. **Medical** literature addresses **mutism** and **hyperlexia** separately from **gifted** education.
+**Gap:** Few historic texts use the word **autodidactic**; **Montessori “auto-education”** and Holt’s **“unschooling”** are the closest **pedagogical** literature. **Medical** literature addresses **mutism** and **hyperlexia** **separately**; **§8.6 compound profile** is **parent-synthesized** — see historic table there. **Lay summary:** [article — Historic literature](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md#historic-literature--is-this-profile-named).
 
 ---
 
@@ -386,10 +478,12 @@ Matches **PDA** literature: imposed demand → escalation → meltdown when esca
 | 1907+ | Montessori | **Auto-education** in prepared environment | — |
 | 1920s | Watson/Skinner | **Imitation + reinforcement** | Chomsky: poverty of stimulus |
 | 1960s+ | Holt | Interest-led; fear blocks learning | — |
+| 1920s–30s | **Piaget / Vygotsky** | **Private / egocentric speech** — child talks **to self** while thinking | **Normative** stage — **not** §8.6 pathology label |
+| 1877 | **Kussmaul** | *Aphonia voluntaria* | Proto–**selective mutism** — partial fit §8.6 |
 
 **Taine (primary):** [Lingual Development in Babyhood](https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_9/June_1876/Lingual_Development_in_Babyhood) — “**Initiative all came from herself**”; imitation fixes attention on sounds already attempted. Conclusion: child “**original genius**” adapting to language form built by prior geniuses.
 
-**Profile link (§8.5):** Selective mutism = **can** speak, **won’t** in hostile setting — not failure to imitate.
+**Profile link:** **§8.5** selective mutism = **can** speak, **won’t** in hostile setting — not failure to imitate. **§8.6** = **private speech + hyperlexia** without **social** return — Piaget/Vygotsky describe **self-talk**; Treffert describes **reading**; **no** single pre-1940 syndrome name.
 
 ---
 
@@ -596,7 +690,7 @@ I agree “child-led” is often a lazy label, and I agree the guide’s job is 
 
 I don’t think the **general curriculum** your method delivers—math, civics, history, morality—was assembled in an auditable, neutral way. It was shaped for decades by **interest groups and victors**, funneled through foundations and federal standardization. The **Flexner Report** (1910) is the pattern I mean for medicine: one foundation-backed “science” closes alternatives and owns the word **educated**. K–12 did the same with different hands. Today you’re either “educated” (you believe the package) or not.
 
-So when a guide won’t let a child skip math or redirects play on the pink tower, that isn’t only development—it can be **enforcing a narrative the child correctly distrusts**. Many of us saw this with our own kids: they shut down, melt down, or go mute not because they can’t learn but because they **reject** what’s false, age-inappropriate, or one-sided. I was given heavy material on slavery and violence too young; what stuck was a morality cartoon—men evil, women victims—not real history. Topics like the **Gulf of Tonkin** and how Vietnam escalated are still barely taught, while other stories are mandatory. That’s not “life itself”; that’s **curriculum capture**.
+So when a guide won’t let a child skip math or redirects play on the pink tower, that isn’t only development—it can be **enforcing a narrative the child correctly distrusts**. Many of us saw this with our own kids: they shut down, melt down, or go mute not because they can’t learn but because they **reject** what’s false, age-inappropriate, or one-sided. I was given heavy material on slavery and violence too young; what stuck was a morality cartoon—men evil, women victims—not real history. **Watergate** gets the full **political controversy** treatment; **Gulf of Tonkin** usually does **not** get taught as **Daniel Ellsberg** and the **Pentagon Papers** framed it — **government-sponsored deception** and a **false casus belli**, not merely “an attack caused the war.” That asymmetry is the audit (§2b.1). That’s not “life itself”; that’s **curriculum capture**.
 
 I’m not asking for Rousseau-style neglect. I want **audit**: teach what’s true, defer what isn’t, drop math with no use, emphasize **reading and typing** on **real computers** (not tablet-only), and use **carefully built** kid apps and **AI**—with safety—to let **autodidactic** children learn faster than any classroom, including **how to find information after they leave school**. Banning devices and blaming “attention span” misses that bad tools and bad content fail; good tools work.
 
@@ -636,6 +730,7 @@ Happy to hear how your program handles that without the provocative packaging.
 | **Long-term consistent signals** | Triggers §11 Category **2** workup |
 | **Homeschool + autodidactic** | §10.5 tech/apps/AI; reading/typing channel |
 | **Socialization via parent networks** | Playdates, shared supervision, insurance — **not** forced classroom performance |
+| **§8.6 child** | **Do not** lead with “use your words” IEP goals; **reading/typing** bridge; treat **private speech** as **capacity**, not absence of language |
 | **Emotional carnage** | Cost of conformity §2c, §8.4 |
 | **Abuse equivalence (moral)** | **Author moral law** — institutional emotional harm ranked with sexual abuse; **not** a legal indictment of every teacher |
 
@@ -835,7 +930,7 @@ Wikipedia **already** cites Brown 2016 as precedent rhetoric — this investigat
 
 ---
 
-Keywords: #Autism #AutismSpectrum #SelectiveMutism #Hyperlexia #PDA #Autodidactic #Unschooling #Montessori #FakeMontessori #FlexnerReport #CurriculumAudit #GulfOfTonkin #HigherGround #AI #EdTech #Conformity #PrussianSchool #ParadigmThreatFiles
+Keywords: #Autism #AutismSpectrum #SelectiveMutism #Hyperlexia #PrivateSpeech #Vygotsky #Piaget #Treffert #PDA #Autodidactic #Unschooling #Montessori #FakeMontessori #FlexnerReport #CurriculumAudit #GulfOfTonkin #HigherGround #AI #EdTech #Conformity #PrussianSchool #ParadigmThreatFiles
 
 **Last updated:** 2026-05-21 (§18.1c 2022 midterms + Angry Birds parallel)
 
@@ -848,7 +943,8 @@ Keywords: #Autism #AutismSpectrum #SelectiveMutism #Hyperlexia #PDA #Autodidacti
 - **PDA** is debated (not in DSM); listed as **useful profile**, not settled science.  
 - **School–prison parallel** is **partially metaphorical**; cite Foucault/architecture critically.  
 - **“Communism”** in §2 is **author’s collectivist-grading metaphor**; do not reduce to anti-communist polemic without author clarification.  
-- **§2b curriculum claims** (Watergate, Tonkin, gender/race morality packaging) are **author audit targets** — verify per jurisdiction before asserting what is “forbidden” in a given school.  
+- **§2b / §2b.1 curriculum claims** (Watergate vs Tonkin **asymmetric** teaching; Tonkin as deception per Ellsberg/NSA 2005; gender/race morality packaging) are **author audit targets** — verify per jurisdiction before asserting what is “forbidden” in a given school (§19 D5).  
+- **§8.6 historic-literature map** is **synthesis** for parents — not a replacement for clinician workup (**Category 1** rule-out).  
 - **§2c** “single communist/collectivist doctrine,” **100% fear-driven**, and **Bible parallel** are **author highlighted conclusions** — cite as investigation thesis, not established historiography without separate dossiers.  
 - **Antibody / nativist** language must not be read as endorsing **ethnic exclusion** — preservation of local knowledge only.  
 - **§14 abuse equivalence** is **author moral rhetoric** — does **not** allege every educator committed sexual crimes; see lay article **Framing and limits**.  

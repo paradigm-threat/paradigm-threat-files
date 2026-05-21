@@ -1,8 +1,43 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-21T15:59:34.373Z",
+    "date": "2026-05-21T21:38:04.594Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md",
+        "href": "/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/when-your-child-wont-fit-the-grade-warfare.png",
+        "href": "/history/chronology/when-your-child-wont-fit-the-grade-warfare.png"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/when-your-child-wont-fit-the-grade.md",
+        "href": "/history/chronology/when-your-child-wont-fit-the-grade"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/when-your-child-wont-fit-the-grade-warfare.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png",
+        "alt": "When your child won’t fit the grade — schooling, conformity, and parent advice"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade-warfare.png",
+        "alt": "Mass schooling and warfare — collectivist grading, factory cohorts, fear-driven compliance"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-21T15:59:33.000Z",
+    "message": "Expand childhood schooling article and investigation; prose article guidelines.",
     "files": [
       {
         "status": "M",
@@ -1270,112 +1305,6 @@
       {
         "src": "https://paradigmthreat.net/governance/war/atoms_for_peace.jpg",
         "alt": "Atoms for Peace — civil nuclear cover, strategic stakes"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-14T11:37:22.000Z",
-    "message": "Add Big Mysteries consensus-theater investigation, reader article, and hero image.",
-    "files": [
-      {
-        "status": "A",
-        "path": "cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md",
-        "href": "/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline"
-      },
-      {
-        "status": "A",
-        "path": "cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.png",
-        "href": "/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.png"
-      },
-      {
-        "status": "A",
-        "path": "cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md",
-        "href": "/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md",
-        "href": "/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/cosmology/the-incorrectly-scaled-universe.md",
-        "href": "/cosmos/cosmology/the-incorrectly-scaled-universe"
-      },
-      {
-        "status": "M",
-        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
-        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
-        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
-      },
-      {
-        "status": "M",
-        "path": "page.md",
-        "href": "/page"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md",
-        "href": "/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/quantum-leap-of-faith.md",
-        "href": "/science/computing/quantum-leap-of-faith"
-      }
-    ],
-    "images": [
-      {
-        "src": "/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.png",
-        "alt": "Consensus theater and the stalled physics pipeline — Big Mysteries Survey, popular science, and audit"
-      },
-      {
-        "src": "/cosmos/cosmology/the-incorrectly-scaled-universe.png",
-        "alt": "The Incorrectly Scaled Universe — curved-light aether cosmology"
-      },
-      {
-        "src": "/influence/hollywood/trump-era-hollywood-political-media-investigation.png",
-        "alt": "Trump-era Hollywood — predictive programming investigation (cover)"
-      },
-      {
-        "src": "/influence/conspiracy/embedding.jpg",
-        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
-      },
-      {
-        "src": "/influence/conspiracy/scientific_truth.jpg",
-        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
-        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
-      },
-      {
-        "src": "/cosmos/mars/mars_life.jpg",
-        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
-      },
-      {
-        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
-        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
-      },
-      {
-        "src": "/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
-        "alt": "Quantum computer / infinitely indexed storage — investigation header"
-      },
-      {
-        "src": "/science/computing/quantum-leap-of-faith.png",
-        "alt": "Quantum Leap (of faith) — article header"
-      },
-      {
-        "src": "/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
-        "alt": "Joseph Smith mystery solved — crystal-memory interpretation"
       }
     ]
   }
