@@ -4,6 +4,7 @@ Investigations in this folder address chronology-related claims, creation dates,
 
 | Investigation | Topic |
 |---------------|-------|
+| [Childhood autism spectrum — conformity grading, recategorization, autodidactic profiles](/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md) | **Open:** **§2c ★** collectivism + warfare canon; 2 categories; §14 parent advice; tech/AI; Higher Ground §10.1b — **lay:** [When your child won’t fit the grade](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md) |
 | [Artemis II — mission as faith test, staged-production readings](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) | **Open:** §0 Revelation of the Method spine (predictive compliance, sloppiness-as-engine, tax lock); faith test vs science milestone; viral green-screen wave; HARD LIE / phone-preview thread; debunk corpus; April 1; institutional NASA §13 (IRS, church/Crown, MIC) |
 | [April First & test of faith — illustration article + generator paste-block](/history/chronology/investigations/artemis-ii-april-first-faith-test-illustration-article.md) | Companion essay, six annotated callouts for wide art, safe `<content>` paragraph for image tools |
 | [Creation Event Interpretations](/history/chronology/investigations/creation-event-interpretations.md) | How religions describe creation; order of creation; first human |

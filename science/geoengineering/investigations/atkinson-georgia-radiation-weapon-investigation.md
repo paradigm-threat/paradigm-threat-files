@@ -536,6 +536,7 @@ The Brantley thread is not only **mockers vs. believers**. Two **repeatable CO r
 | **Tone** | Cool, pseudo-professional, “factual” | Hot, insulting, apocalyptic, personal |
 | **Rhetorical move** | Cite **program names** (FRACTL, ATHENA), Geneva Convention, hardware specs — as if briefing a jury | Slurs + theology + **ethnic monolith** (Rothschild, “synagogue of Satan”) + **demoralization catalog** |
 | **Engagement when challenged** | **Doubles down on device trivia**; rejects strategic reframing toward moratorium / act-of-God institutional reality | **Refuses bullet-by-bullet rebuttal**; attacks reader intelligence; redirects to own media |
+| **Moderation / admin** | **Heavy thread hygiene** — selective **comment removal** on strategic counter-asks; keeps hardware / “factual” lane visible | **Low admin** — insults, ethnic exits, demoralization **left standing**; message continues in chaos |
 | **Audience effect** | Makes thread look **serious** to Carol-type readers (“thank you for the factual”) while keeping ask **politically unemployable** | Makes thread look **crazy** to moderates; lets fact-checkers retire **whole** thread including real anomalies |
 | **Primary operator in sample** | ***Protect And Alert* (OP)** — see §XI.6 | **Blue_French_Qtr / CB St. Julian** — §XI.4 + [BRSINV dossier](/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md) |
 
@@ -544,6 +545,7 @@ The Brantley thread is not only **mockers vs. believers**. Two **repeatable CO r
 - **[Poll post](https://protectandalert.substack.com/p/poll-to-see-if-i-should-start-a-group)** (May 9): draft letter to Fire Chief Stone demands **radiation-weapon / microwave** investigation; claims **“a thousand homes”** (vs. press **87**); microwave-oven analogy; Robert Brame citation. **Engagement:** ~**400 likes**, **120 comments**, thousands of views — **26** poll signers. Author frames low uptake as American cowardice, not as a **bad ask**.
 - **Comment thread (May 13–14):** When corrected that **“Jewish space lasers”** is a **headline meme** (MTG’s 2018 post cited **lasers / blue beams**, PG&E, Rothschild Inc. — not that exact phrase), OP **did not pivot to moratorium language**. Replied in **detached expert register**: **FRACTL** (tripod form factor, dime at half mile at 60 MPH), **ATHENA** (“can be mounted on anything”), **Geneva Convention** — presented as the **factual** counter to strategic reframing. **Carol** thanked OP for “the factual”; **Protect And Alert** liked both the correction thread and Carol’s thanks — **rewarding device trivia over campaign geometry**.
 - **Institutional read (author):** Fire chief / insurer / senator offices already bucket anomalies under **act of God** — theological and legal umbrella where **beam vs. drought does not change the file**. Petitioning Chief Stone for radiation forensics is **outside authority** by design; Type A rhetoric **feels** rigorous while preserving that dead end.
+- **Comment moderation (May 19, 2026):** After extended exchange proposing **moratorium / parcel-registry** reframes (and linking in-tree DEW investigations), OP **removed all comments** by external reader **Paradigm Threat / Ari Asulin** on the [Georgia radiation petition thread](https://protectandalert.substack.com/p/georgia-just-attacked-with-a-radiation/) — UI shows **“Comment removed”** placeholders while **Luna Basheve-Singer** (“Rod of God” / HAARP), **Carol** (“thank you for the factual”), and OP’s own **FRACTL / ATHENA** replies remain. At least one removed comment had been **liked by OP** before deletion. **Author read:** typical **Type A / paid-CO phenotype** — mechanical **thread curation** to preserve unemployable petition geometry; **unpaid** operators (Type B) rarely invest admin labor to **erase** the one comment that names the trap and offers a winnable alternative.
 
 **Type B — field evidence (Blue_French_Qtr, May 12–14, 2026):**
 
@@ -555,6 +557,8 @@ The Brantley thread is not only **mockers vs. believers**. Two **repeatable CO r
 **Diagnostic note:** Type A is **not** automatically CO — a forensic journalist can cite FRACTL calmly. The CO marker is **host + petition + rejection of winnable local politics** while amplifying **chief/insurer-dead-end** asks. Type B’s CO marker is **behavioral** (§CO-detection rule below): demoralize, redirect, ethnic shield, no update when challenged.
 
 **Compensation disclaimer (author):** **Paid vs. unpaid cannot be proven** from the public thread alone. The table’s compensation column is **speculation on phenotype**, not a receipt. What *is* documented is **joint containment**: two voices, opposite affect, same dead-end for county organizing.
+
+**Paid vs. unpaid — moderation heuristic (author, speculative):** **Paid / professional CO** tends toward **robotic housekeeping** — delete counter-strategy, keep “factual” hardware comments, issue **bow out** / **Liberty Warriors only** gatekeeping, edit long defensive posts. **Unpaid / enthusiastic CO** tends to **argue in public** (insults, theology, blackpill) and **leave** disruptive replies visible because the fight *is* the product. *Protect And Alert* **comment removal** after moratorium reframing is **consistent with Type A**, not Type B.
 
 **Paradigm Threat ↔ Julian challenge (May 14, 2026) — bullet summary challenged:**
 
@@ -664,8 +668,9 @@ A commenter is operating in a controlled-opposition mode (regardless of whether 
 6. Concedes the empirical claim but blackpills the response ("yes it happened — and nothing you do matters")
 7. Redirects to self-promotion ("see my substack / petition / project")
 8. Drive-by name-calls ("nutcase," "you're a nut") without follow-on argument
+9. **Host-side selective moderation** — removes comments that propose **winnable local politics** or document **CO trap geometry**, while retaining device-trivia / ethnic / mockery lanes (OP-only marker)
 
-Posey scores 4 (1, 2, 3, 8). Chlarson scores 3 (1 in spirit, 4, 5). Chronodamus scores 3 (2, 6, would-be 1). Blue_French_Qtr scores 4 (6, 7, and twice on 4). Myrick scores 3 (2, 3, 5). Volonakis scores 0; Boda scores 0; Jimmy Klein scores ~1 (the opening name-call, but his subsequent comments are substantive).
+Posey scores 4 (1, 2, 3, 8). Chlarson scores 3 (1 in spirit, 4, 5). Chronodamus scores 3 (2, 6, would-be 1). Blue_French_Qtr scores 4 (6, 7, and twice on 4). Myrick scores 3 (2, 3, 5). Volonakis scores 0; Boda scores 0; Jimmy Klein scores ~1 (the opening name-call, but his subsequent comments are substantive). ***Protect And Alert* (host)** scores on **9** when comment removal follows moratorium reframing — not applicable to drive-by commenters.
 
 The rule applied to this thread cleanly separates the CO operators from the honest skeptics. The same rule, applied broadly, would separate them in any comment thread on any directed-energy / suppressed-technology claim.
 

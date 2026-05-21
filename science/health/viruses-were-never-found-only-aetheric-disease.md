@@ -115,6 +115,12 @@ Older stacks still knew plague could be **possession** (*White Zombie*), **paras
 
 **Author read:** That split **protects** germ triumph. You may enjoy *Life Force* and still **believe** COVID was “the gene.” Predictive programming here is **not** proof every screenwriter was **briefed** — second-hand copying counts — but the **conditioning** is **load-bearing** for **vaccine obedience**, **GoF panic**, and **debunk-the-skeptic** theater after **Cowan/Lanka** set the wrong hook.
 
+**Trusted press does the same work.** The **New York Post** (28 November 2022, Ben Cost) ran under **LIFESTYLE**: scientists warn a long-frozen **“zombie virus”** is a **“public health threat”** amid thaw — ancient **“zombie” virus** in **melting Siberian permafrost**. That is not fringe blogging; it is a **mainstream tabloid** using **horror vocabulary** and **genome-era plague** grammar in the same breath. Bloomberg, the **Washington Post**, and Popular Science ran the same **late-2022 cycle** (ancient viruses **revived** by climate change; **pandemic** hooks). The templates **vary** — permafrost **zombie virus**, *Last of Us* **cordyceps**, lab-leak **T-virus** memes, rage-virus **fast zombies** — but the **institutional lane** stays **pathogen + outbreak + fear**.
+
+![New York Post 2022 — scientists warn long-frozen zombie virus is public health threat amid permafrost thaw (press exhibit)](https://paradigmthreat.net/governance/genocide/vaccine/zombie_virus.jpg)
+
+Full tables and syndication links: [§5.4 trusted press — zombie virus dogma](https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md#54-trusted-press--zombie-virus-dogma-news-not-only-fiction).
+
 See [predictive programming hub](https://paradigmthreat.net/influence/predictive_programming/page.md); title tables in [§2–§5 of the PP dossier](https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md).
 
 ## Capcom after Mega Man X2 — hijack, Resident Evil, and the script that mostly failed
@@ -172,6 +178,7 @@ The modern **political divide** is **load-bearing**. Left and right fund differe
 - [§5g gain-of-function — two methods](https://paradigmthreat.net/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md#5g-gain-of-function--two-advertised-methods-author-read) — passaging vs genome engineering.  
 - [§4.3 Cowan/Lanka memes — falsifiability + CO read](https://paradigmthreat.net/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md#43-two-social-memes--falsifiability-debunk-surface-controlled-opposition-read) — wrong fork, debunk surface, Maxwell bridge contrast.  
 - [Virus media PP — evolution, genome causality, zombies](https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md) — *Andromeda Strain*, *Resident Evil*, *Life Force* vs virus-zombie tables.  
+- [§5.4 NY Post / trusted press “zombie virus”](https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md#54-trusted-press--zombie-virus-dogma-news-not-only-fiction) — Ben Cost 2022, syndicated permafrost cycle.  
 - [§4.5 Capcom hijack — X2, RE1, COVID rhymes, plan-failure](https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md#45-capcom-hijack-thesis--mega-man-x2--resident-evil--covid-rhymes-author) — Retronauts X3, Snopes/Politifact debunks, Roboenza.  
 - [DNA fingerprint / scalar life](https://paradigmthreat.net/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) — blueprint critique spine.  
 - [GNM cancer cluster](https://paradigmthreat.net/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md) — pandemic fear, terrain, eugenics braid.  
@@ -192,7 +199,7 @@ The modern **political divide** is **load-bearing**. Left and right fund differe
 
 Keywords: #AethericDisease #VirusIsolation #FingerprintNotBlueprint #GainOfFunction #PredictiveProgramming #Capcom #MegaManX2 #ResidentEvil #Roboenza #MaxwellAether
 
-**Last updated:** 2026-05-17
+**Last updated:** 2026-05-17 (NY Post zombie-virus press note)
 
 ---
 

@@ -164,6 +164,7 @@ The Brantley *Protect and Alert* ecosystem is not only **mockers vs. believers**
 | **Tone** | Cool, “factual,” legal-draft register | Hot, insulting, apocalyptic, personal |
 | **Rhetorical move** | **FRACTL**, **ATHENA**, Geneva Convention, microwave physics — hardware as if briefing a jury | **“Zionist whoremongers of mammon”** headlines; **Rothschild**, **synagogue of Satan**, **Roman Tower of Babel**, Bible-as-prescription; demoralization catalog |
 | **When challenged on strategy** | Doubles down on **device trivia**; does not pivot to moratorium / act-of-God institutional reality | Refuses bullet-by-bullet rebuttal; **“Classic Egidiot”**; attacks reader intelligence; redirects to own media |
+| **Moderation / admin** | **Selective comment removal** on moratorium / CO-trap reframes; curates “factual” DEW lane | **Low admin** — demoralization and ethnic exits typically **left visible** |
 | **Audience effect** | Thread looks **serious** to moderates (“thank you for the factual”) while ask stays **politically unemployable** | Thread looks **crazy** to moderates; fact-checkers retire **whole** thread including real anomalies |
 | **Containment outcome** | **Credibility** without a **winnable petition** | **Taint** without needing to disprove anomalies |
 
@@ -174,6 +175,7 @@ The Brantley *Protect and Alert* ecosystem is not only **mockers vs. believers**
 - **[Poll post](https://protectandalert.substack.com/p/poll-to-see-if-i-should-start-a-group)** (May 9): draft letter to Fire Chief Stone demands **radiation-weapon / microwave** investigation; claims **“a thousand homes”** (press: **87**); microwave-oven analogy; Robert Brame citation. **~400 likes**, **120 comments**, thousands of views — **26** poll signers. OP frames low uptake as American cowardice, not as a **structurally dead ask**.
 - **Main post comment thread (May 13–14):** External reader (**Paradigm Threat**) corrected that **“Jewish space lasers”** is a **headline meme** (MTG 2018 post: **lasers / blue beams**, PG&E, Rothschild Inc. — not that exact phrase); argued DEW/geoengineering/blue-house vocabulary is a **political non-starter** and **CO trap** vs. **county moratorium**. OP **did not adopt moratorium language**. Replied in **detached expert register**: **FRACTL** (tripod, dime at half mile at 60 MPH), **ATHENA** (mountable on anything), **Geneva Convention** — presented as the **factual** counter to strategic reframing. **Carol** thanked OP for “the factual”; OP **liked** both the correction and Carol’s thanks — **rewarding device trivia over campaign geometry**.
 - **Institutional counter-frame (same thread, reader):** Fire chief / insurer / senator offices already bucket catastrophe under **act of God** — legal and theological umbrella where **beam vs. drought does not change the file**; insurance policies spell out **act-of-God exclusions**; lines touching **demonology** / divine judgment are **outside formal authority** — “when God acted, they do not open a beam investigation.” Type A rhetoric **feels rigorous** while preserving that dead end.
+- **Comment moderation (May 19, 2026):** On [Georgia radiation petition thread](https://protectandalert.substack.com/p/georgia-just-attacked-with-a-radiation/), OP **removed all** comments by **Paradigm Threat / Ari Asulin** after moratorium / CO-trap / 26-signatures reframing — **“Comment removed”** stubs remain; **Luna Basheve-Singer** (HAARP / “Rod of God”), **Carol** (“factual”), and OP **FRACTL / ATHENA** replies stay. At least one deleted comment had been **liked by OP** pre-removal. **Author read:** **paid-CO phenotype** — mechanical thread hygiene; **Type B** (Julian) does not show equivalent admin labor on same thread.
 
 ### 4.3 Type B field notes — Julian / Blue_French_Qtr (May 12–14, 2026)
 
@@ -187,6 +189,9 @@ The Brantley *Protect and Alert* ecosystem is not only **mockers vs. believers**
 2. **Contagious cynicism** — “nothing works” (Type B) + “here are the real weapons” without a winnable target (Type A) lowers **moratorium** turnout.
 3. **Identity reveal** — Type B is not an anonymous troll; is **published activist** with **opposite** stated mission (*Spirit of the Laws* / anti-apathy).
 4. **Two-flank geometry** — Type A **lends credibility** to unemployable petitions; Type B **taints** the thread; moderates flee; believers radicalize; **commissioners face no organized moratorium pressure.**
+5. **Moderation split** — Type A **deletes** the comment that names the trap and offers county levers; Type B **keeps arguing** in the open. **Paid vs. unpaid not provable**; **admin asymmetry** is documented.
+
+**Paid vs. unpaid heuristic (author, speculative):** Professional CO behaves like a **robot on housekeeping** — curate, delete, gatekeep (“Liberty Warriors only,” “bow out”). Unpaid enthusiastic CO behaves like a **street preacher** — insults, theology, demoralization left up because conflict *is* the engagement model.
 
 **Correct counter-tactic (from Atkinson §XI):** Name pattern; engage **good-faith** skeptics; starve mockers; **do not** conflate Volonakis with Posey — same rule applies to **separating Julian’s dockets from his ethnic titles** and to **separating real anomalies from Type A petition framing.**
 
@@ -251,7 +256,7 @@ flowchart LR
 
 Keywords: #ControlledOpposition #BRSINV #BlueFrenchQtr #CapturedCourts #ZionistFraming #1979 #CIA #NSA #Demoralization #Brantley
 
-**Last updated:** 2026-05-14
+**Last updated:** 2026-05-19
 
 ---
 
@@ -268,4 +273,5 @@ Keywords: #ControlledOpposition #BRSINV #BlueFrenchQtr #CapturedCourts #ZionistF
 - Brantley comment API snapshot referenced in Atkinson dossier (May 12, 2026).
 - BRSINV fetch May 13, 2026 — April 2026 post body minimal (image + video).
 - May 14 Substack exchanges: Paradigm Threat ↔ *Protect And Alert* (FRACTL/ATHENA vs. moratorium); Paradigm Threat ↔ Blue_French_Qtr (CO bullet challenge → Egidiot/Rothschild reply).
-- Two-archetype CO typology (Type A detached / Type B enthusiastic) — author speculative on paid vs. unpaid; behavioral phenotype documented.
+- May 19: *Protect And Alert* **removed all** Paradigm Threat / Ari Asulin comments on Georgia radiation thread after moratorium reframing; Luna/Carol/device-trivia lanes retained.
+- Two-archetype CO typology (Type A detached / Type B enthusiastic) — author speculative on paid vs. unpaid; **moderation asymmetry** added as Type A signal.
