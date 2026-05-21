@@ -1,8 +1,34 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-21T14:39:32.816Z",
+    "date": "2026-05-21T14:47:16.653Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/when-your-child-wont-fit-the-grade.md",
+        "href": "/history/chronology/when-your-child-wont-fit-the-grade"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/when-your-child-wont-fit-the-grade.png",
+        "href": "/history/chronology/when-your-child-wont-fit-the-grade.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/when-your-child-wont-fit-the-grade.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png",
+        "alt": "When your child won’t fit the grade — schooling, conformity, and parent advice"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-21T14:39:31.000Z",
+    "message": "Add childhood autism spectrum investigation and parent advice article.",
     "files": [
       {
         "status": "A",
@@ -1344,53 +1370,6 @@
       {
         "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
         "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png",
-        "alt": "Open source as sword in the stone — gated exhibit, alternate framing (metaphor figure)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (wider still)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
-        "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-14T01:15:05.000Z",
-    "message": "Cave Story: §1.10 open status — no disproof at audit bar; full-release clearance",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",
-        "href": "/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
-        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (investigator metaphor figure)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
-        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (metaphor figure)"
       },
       {
         "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png",

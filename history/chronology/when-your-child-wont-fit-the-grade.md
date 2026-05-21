@@ -2,6 +2,8 @@
 
 Listen when the kid says no — a short history of schooling and plain parent advice
 
+![When your child won’t fit the grade — schooling, conformity, and parent advice](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png)
+
 A child reads alone at home, talks in full sentences at the kitchen table, and goes silent at school. Circle time, “use your words,” the behavior chart — then a meltdown that adults file as disorder. Sometimes the machine is wrong. Sometimes the child is rejecting a package that was never built for truth.
 
 ---
