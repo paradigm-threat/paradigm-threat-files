@@ -22,12 +22,22 @@
 
 If a claim needs **five citations** or a **multi-row table**, it belongs in the **dossier**; the **article** names the claim and **links once** (often to a **§** anchor).
 
-### Tables and illustrations (articles vs investigations)
+### Tables, lists, and catalog prose (articles vs investigations)
 
-- **Investigations** (`…/investigations/*.md`): **Markdown tables are fine**—tier matrices, chronologies, claim registries, comparison grids.
+- **Investigations** (`…/investigations/*.md`): **Markdown tables are fine**—tier matrices, chronologies, claim registries, comparison grids. **Bullet and bold-lead catalogs** (literature maps, author lanes, tier rows) also belong here.
 - **Articles** (parent-folder reader essays): **Do not use Markdown pipe tables.** Substack’s editor (and most paste-from-Markdown workflows) **do not render** `| col | col |` grids; rows collapse into a broken vertical list.
 - **If an article needs a table or structured illustration:** export **`PNG`** or **`SVG`**, place the asset **beside the article** in the same folder (same pattern as hero images), and embed with an **absolute** `https://paradigmthreat.net/...` URL and descriptive **alt** text. Raster and vector images **transfer**; Markdown tables **do not**.
-- **In-article alternative (no image):** use a **short numbered list** or **bold lead-in lines** (`**Layer —** effect`) for two-column content; keep the full grid in the **dossier** and link to the **§** anchor.
+- **Default for structured content:** **paragraphs**, not lists. Weave names, dates, and contrasts into **complete sentences** with normal syntax (commas, semicolons, “and,” short follow-on sentences). The reader should hear an **essay**, not scroll a **glossary**.
+- **Avoid catalog-style stacks** in article bodies:
+  - Repeated `**Name** — gloss` or `**Name** — *work* (year): gloss` lines (literature surveys, thinker rundowns, “who said what” lanes).
+  - Long bullet runs of **authors**, **eras**, **institutions**, or **claims** that could be one or two paragraphs.
+  - Pseudo-tables built from bold labels + em dashes (they paste into Substack like **broken tables** and read like **dossier excerpts**).
+- **When lists are OK (sparingly):**
+  - **Short numbered lists** (typically **≤5 items**) for **sequential steps** the reader must follow in order (e.g. debunk-cycle phases, a tight parent checklist).
+  - **“Where next”** link bullets at the end (routing only—not argument).
+  - **Framing and limits** may use a **few** tight bullets if batching caveats; prefer prose when it still scans cleanly.
+- **If the material is inherently tabular or multi-row:** keep the **full grid or catalog** in the **dossier** and link to the **§** anchor; the article gets **one paragraph** that states the pattern and points there.
+- **Reference (catalog → prose):** [`history/chronology/when-your-child-wont-fit-the-grade.md`](../../history/chronology/when-your-child-wont-fit-the-grade.md) — “Literature that respected autodidactic children” (woven paragraphs, not author bullets).
 
 **Default:** Articles **state stakes and thesis clearly**—**clinical but inspired** (precise, unsentimental, still alive); investigations **hold** the audit trail. When in doubt, **cut** the paragraph that sounds like **Limits** and **add** a link: “the careful version lives in [**Limits**](https://paradigmthreat.net/influence/…/investigations/…#limits-and-disclaimers).”
 
@@ -82,7 +92,7 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 3. **Optional hero image** — immediately under the subtitle, **`https://paradigmthreat.net/...`** image URL (same as `blog/`), short **alt** that matches the article’s **central image or claim** (not only mood).
 4. **Hook** — a **scene**, **metaphor**, or **one sharp anecdote** before the reader hits dense links. This is the **contract**: why this file exists **before** apparatus.
 5. **`> **TL;DR:**`** — **optional** in articles. Use it when it **adds** a clean thesis line **without** cloning the dossier’s opening or sounding like a second **investigation header**. Skip it when the title + subtitle + first two paragraphs already do that work.
-6. **Body** — **`##` sections** (typically **three to seven**). Each section **one main idea**. **Bold** only per **Voice → Bold** (emphasis or newly introduced terms)—**not** as default highlighting.
+6. **Body** — **`##` sections** (typically **three to seven**). Each section **one main idea**, usually **prose paragraphs** (see **Tables, lists, and catalog prose**). **Bold** only per **Voice → Bold** (emphasis or newly introduced terms)—**not** as default highlighting or list labels.
 7. **Citations in prose** — **Markdown link syntax** `[label](https://paradigmthreat.net/...)` (and external `https://...`), **same convention as blog posts**—not bare `/history/...` paths and **not** backtick-wrapped raw URLs (they are not clickable in Substack). Each link: **descriptive label** plus **what** the reader will find there (**one clause**). Avoid **hub-only** link dumps unless Ari wants a **routing sheet**; prefer **narrative + links**.
 8. **Closing** — short **“where next”**: Common Questions, timeline hubs, or **§** anchors in dossiers (e.g. “start in **§2.1**”).
 9. **Optional `## Framing and limits` (or `## Scope and limits`)** — **At most one** such section, placed **after** **Where next** and **before** `Keywords:`, when in-file boundaries help (what is **not** being claimed, what lives in **Limits**, consensus vs synthesis). **Do not** scatter the same hedges through earlier `##` sections; that **muddies** the narrative. If the dossier already carries the full caveat stack, a **single** link line here is enough.
@@ -103,7 +113,7 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 **Drafting targets (Markdown, in this collection):**
 
 - **Default target for new flagship reader essays:** about **2,600–3,400 words** of body (tables and link lines count toward reading time), with **~3,000** as the **nominal** aim. Shorter is fine when the argument is already complete.
-- **Reference implementation:** [`history/chronology/indigenous-creation-legends-and-geology.md`](../../history/chronology/indigenous-creation-legends-and-geology.md) (order of magnitude **~3k words**, section pacing)—use it as the **shape** for “Substack-ready depth” without pasting the whole dossier. **Tables in that file:** if present, treat as **legacy**; new articles use **lists** or **PNG/SVG** per **Tables and illustrations** above.
+- **Reference implementation:** [`history/chronology/indigenous-creation-legends-and-geology.md`](../../history/chronology/indigenous-creation-legends-and-geology.md) (order of magnitude **~3k words**, section pacing)—use it as the **shape** for “Substack-ready depth” without pasting the whole dossier. **Tables in that file:** if present, treat as **legacy**; new articles use **prose** or **PNG/SVG** per **Tables, lists, and catalog prose** above.
 - **Newsletter / inbox check:** Before sending a long flagship post, do a **real send test** (or preview at **View entire message**) when the piece combines **long prose** with **multiple large images**—**two hero-scale PNGs** can burn the **102KB** budget faster than **+500 words** of Markdown.
 - **Soft ceiling:** treat **~3,200–3,400 words** of prose in a **single** article as the **repo drafting stop** unless Ari explicitly splits across **Part II** or accepts clipping risk after that send test (images, embeds, and HTML bloat push toward the **102KB** clip faster than word count alone).
 - **If the piece must grow:** **push** Markdown **tables**, quote banks, and five-citation blocks into **`investigations/`**; add a **Part II** post for a second email rather than one mega-file. For **tabular** material the reader must see in the newsletter, ship a **PNG/SVG** in the article or link to the dossier table anchor.
@@ -126,7 +136,8 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 
 ## What we avoid in articles
 
-- **Markdown pipe tables** — Substack and similar editors break them on paste; use **lists**, **dossier links**, or **PNG/SVG** embeds instead (see **Article vs dossier → Tables and illustrations**).
+- **Markdown pipe tables** — Substack and similar editors break them on paste; use **prose**, **dossier links**, or **PNG/SVG** embeds instead (see **Tables, lists, and catalog prose**).
+- **Catalog lists and bold-lead stacks** — `**Rousseau** — …` / `**1910** — …` / bullet galleries of names, works, or eras that belong in a **paragraph** or in the **dossier**. Exception: **short numbered** how-to or phase lists (≤5 items). If you are tempted to write “literature review as bullets,” **rewrite as two paragraphs** and link the dossier §9-style map.
 - **Wall of acronyms** without gloss—spell out once, then abbreviate if needed.
 - **Paste-dump** of URLs with no integration in the sentence.
 - **Duplicating** half of a dossier “so this page stands alone”—**link** instead.
@@ -151,8 +162,9 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 
 - **Article + dossier pair (controlled opposition):** [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`](../../influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) ↔ [`…/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md`](../../influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md).
 - **Lay reader essay + citations (chronology):** [`history/chronology/indigenous-creation-legends-and-geology.md`](../../history/chronology/indigenous-creation-legends-and-geology.md) ↔ [`…/investigations/indigenous-legends-vs-geologic-dating-investigation.md`](../../history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md).
+- **Prose-over-catalog (schooling / parent advice):** [`history/chronology/when-your-child-wont-fit-the-grade.md`](../../history/chronology/when-your-child-wont-fit-the-grade.md) ↔ [`…/childhood-autism-spectrum-conformity-recategorization-investigation.md`](../../history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md).
 - **Theory-led flagship (biology / continuity):** [`science/biology/circle-of-life-and-how-it-began.md`](../../science/biology/circle-of-life-and-how-it-began.md) ↔ [`science/biology/investigations/dna-fingerprint-scalar-life-investigation.md`](../../science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) plus [`creation event interpretations`](../../history/chronology/investigations/creation-event-interpretations.md).
 
 ---
 
-**Last updated:** 2026-05-16
+**Last updated:** 2026-05-21 (catalog lists → prose; avoid bold-lead stacks in articles)
