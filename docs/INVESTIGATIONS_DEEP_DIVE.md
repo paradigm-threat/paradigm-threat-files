@@ -10,7 +10,7 @@
 
 Every paradigm-threat-files investigation that uses the `*investigation.md` filename convention, plus [reverse-crusades-comparison.md](/governance/war/investigations/reverse-crusades-comparison.md), [vril-society.md](/governance/war/investigations/vril-society.md), and [wuxing-five-planets-dark-ages.md](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) (same treatment as site indexes). Deep-dive validation in §2 below applies only where a subsection exists; the rest are listed here so nothing is orphaned.
 
-**Count:** 91 files in the lists below.
+**Count:** 92 files in the lists below.
 
 **Supplementary** (same research lane, different filename): [Chronology investigations index](/history/chronology/investigations/index-investigations.md) lists companion articles and **chronology reader essays** under `history/chronology/` (e.g. [Indigenous creation dates, legends, and geology](/history/chronology/indigenous-creation-legends-and-geology.md)). [War investigations hub](/governance/war/investigations/page.md) lists thematic clusters. Fiction-encoding threads: [Narnia planetary encoding](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md), [Tolkien redacted fact](/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md), [Swift investigation](/influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift.md), [Asimov investigation threads](/influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads.md).
 
@@ -124,6 +124,8 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: Galen Winsor — “Nuclear Waste is Safe” (alternative framework)](/science/nukes/investigations/nuke-waste-is-safe-investigation.md)
 - [Investigation: "Nukes Don't Exist" — Alternative Framework Analysis](/science/nukes/investigations/nukes-dont-exist-investigation.md)
 - [Investigation: Virus isolation proof — skeptical audit (dual-track, author-boundary)](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md)
+- [Investigation: Napoleon plague screenshot — Roytas 2024, Gros *Jaffa* 1804, Murad Bay forensics (open)](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md)
+- [Investigation: Napoleon Egypt / Siberia / Curie / captured medicine (open)](/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md) — **Lay:** [Napoleon carried corpses](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md); corrected empire dates
 - [Investigation: Virus media PP — evolution, genome causality, zombie etiology](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md)
 
 ---

@@ -20,6 +20,7 @@ The prompt also asks for connection to **US Civil War–era suppression** narrat
 | “Nukes don’t exist” / simulacrum line (parallel track) | [/science/nukes/investigations/nukes-dont-exist-investigation.md](/science/nukes/investigations/nukes-dont-exist-investigation.md) |
 | Flexner-era medicine, bioelectric / “voltage healing” thread (site corpus) | [/science/health/tennant/index-tennant-healing-voltage.md](/science/health/tennant/index-tennant-healing-voltage.md) |
 | Timeline event (book chapter 14, under WWI) | [Marie Curie: Field Radiography and the Radiation Martyr Arc](https://paradigmthreat.net/timeline/evt-marie-curie-radiography-radiation-narrative) |
+| Napoleon — French elite science / Siberia / mutant PP | [dossier](/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md); [lay article](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md) — Curie **1914–18** rhyme (not between First/Second Empire) |
 
 ---
 

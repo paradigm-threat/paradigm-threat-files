@@ -451,6 +451,7 @@ Controversial **gain-of-function** (GoF) research is publicly framed as **two** 
 | [virus.md](/science/health/virus.md) | GNM bronchial mucosa; Mullis HIV quotes |
 | [Controlled opposition hub](/influence/controlled_opposition/page.md) | Wrong-fork / debunk-bin pattern for §4.3 |
 | [**Virus media PP — evolution, genome, zombies**](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md) | *Andromeda Strain*, *Resident Evil*, genome-only causality; virus vs *Life Force* etiology |
+| [Napoleon plague / Roytas screenshot hunt](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md) | **1798–99** anticontagion stunts; *Can You Catch a Cold?* (2024); failed-challenge historiography |
 | [maxwell_aether](/science/maxwell_aether/) | Bridge spiritual critics often **do not** make into virology |
 
 ---

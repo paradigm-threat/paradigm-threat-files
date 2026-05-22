@@ -109,6 +109,18 @@ Schools will walk a teenager through **Watergate** drama. They will **not** rout
 
 A bright child who senses that asymmetry is not disordered. They are noticing the **contradicted umbrella** (§2c in the [investigation](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md#2b1-watergate-vs-gulf-of-tonkin--asymmetric-controversy-author-contrast)). Full table and sources: [§2b.1](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md#2b1-watergate-vs-gulf-of-tonkin--asymmetric-controversy-author-contrast).
 
+---
+
+## A side story — silence as cover until green beans demanded speech
+
+*Anonymous; paraphrased from a reader comment on this article, 2026. Investigation reference: [§8.5a](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md#85a-anonymous-correspondent--strategic-silence-until-necessity-reference).*
+
+One correspondent said they addressed **no one** until about age four — while already **reading and writing**, deliberately hidden from their parents so the **cover** would hold. Silence was useful: when they painted a sibling’s name on their father’s workshop with a four-foot brush, the sister caught the blame; as the child who did not speak, they never had to disavow it. Gestures could not get them **enough dinner**. Writing the request would have exposed literacy. So they spoke. The first words to the room were a **whole paragraph** at the table, extended family watching. Their mother kept one sentence on the pantry chalkboard for years: **“I want big of it.”** Asked later what broke the silence, they answered that **green beans have always been a necessity.**
+
+That is not every child’s story. It is a lived sketch of **Category 2**: language and reading **online** early, **social speech** withheld until the **cost** of silence exceeds the **cost** of performance — and adults who would have filed **nonverbal autism** missed the **private channel** entirely.
+
+---
+
 **Demand avoidance** and **PDA** profiles belong in the same **behavioral** bucket for this read: the nervous system says **no** to coercion even when the task is easy elsewhere. Institutions call it pathology; often it is **integrity under abuse-shaped pressure**.
 
 Non-conforming children do not read Snopes. They **mute** where speech is punished, **read alone** when circle time is performance, **meltdown** when a unit violates their sense of truth, and **thrive at home** when coercion drops. Adults fighting **hoax vs anti-hoax** on cable often miss the signal in the room: this child rejected **the package**.
@@ -241,6 +253,8 @@ This page is **parent advice and historic summary**, not medical or legal counse
 
 **Homeschool** legality and **insurance** for playdates vary — verify locally.
 
+**Side story (§8.5a):** Single anonymous **self-report** from a reader comment; illustrative only, not prevalence or diagnostic proof.
+
 **§8.6 profile:** Historic-literature map is **synthesis**, not a single DSM diagnosis; **rule out Category 1** (hearing, seizures, global delay) before assuming **Category 2**. Forcing **verbal acknowledgment** is **contraindicated** in selective-mutism treatment and often **harmful** here.
 
 Investigation [Limits and disclaimers](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md#limits-and-disclaimers) — full stack.
@@ -249,7 +263,7 @@ Investigation [Limits and disclaimers](https://paradigmthreat.net/history/chrono
 
 Keywords: #Autodidactic #Homeschool #SelectiveMutism #Hyperlexia #PrivateSpeech #Vygotsky #Piaget #Treffert #COVID #DebunkCycle #LitterBoxHoax #AngryBirds #FlexnerReport #CollectivistGrading #CurriculumAudit #Watergate #GulfOfTonkin #Ellsberg #ParadigmThreatFiles
 
-**Last updated:** 2026-05-22 (lead scenario: private speech / no social acknowledgment; Watergate vs Tonkin)
+**Last updated:** 2026-05-22 (anonymous §8.5a side story; Watergate vs Tonkin)
 
 ---
 

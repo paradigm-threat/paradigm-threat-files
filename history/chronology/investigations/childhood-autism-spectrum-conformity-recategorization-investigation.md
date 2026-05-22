@@ -25,6 +25,7 @@
 | How “autism” became one umbrella | §5 |
 | Two categories only: disease/environment vs behavioral (conformity/abuse) | §6 |
 | Hyperlexia + mutism + preserved home speech — explained | §8.5 |
+| **Anonymous anecdote** — strategic silence until necessity | **§8.5a** |
 | **Private speech, no social acknowledgment** — historic literature map | **§8.6** |
 | Decision worksheet — you choose the category | §11 |
 | Gestalt learning vs forced drills | §7 |
@@ -388,6 +389,25 @@ Three pieces that often get **congealed** into “autism” but are **separate o
 | Speech/pragmatics **equally** poor everywhere since infancy; medical signs | **1** — organic / global developmental |
 | Home speech good, then **suddenly** stops everywhere after illness | **1** — rule out neurological event |
 | Home speech good, silence **starts** after specific teacher/bullying/restraint | **2** — abuse/coercion timeline |
+
+### 8.5a Anonymous correspondent — strategic silence until necessity (reference)
+
+> **Source tier:** **Anecdote** — self-report in a **public comment thread** on the lay article (2026-05); **identity withheld** (investigation policy: no names). **Not** clinical verification. **Illustrative** for §8.5 / Category 2 only.
+
+**Summary (paraphrase, anonymous):**
+
+Correspondent reports **no speech addressed to other people** until about **age four**, while already able to **read and write** but **concealing** literacy from parents to preserve a **cover** of total non-participation. Reports using silence tactically (e.g. a sibling blamed for vandalism the correspondent committed — no spoken denial while treated as non-verbal). When **more food at table** — specifically **green beans** — could not be secured by gesture alone, and writing a request risked exposing reading/writing, they **chose speech**. First utterance to others was reportedly a **full paragraph** at a family dinner with extended relatives present. Family kept a chalkboard phrase from that night: **“I want big of it”** — described by the parent as how the child **saw scale** in life. When asked what ended the silence, correspondent answered that **green beans have always been a necessity**.
+
+| Investigation read | Notes |
+|--------------------|-------|
+| **Not** motor inability | Language and literacy **present** under **cover** |
+| **Hyperlexia hidden** | Reading/writing **before** social speech to others |
+| **Category 2 signal** | Speech **turns on** when **instrumental need** exceeds cost of maintaining silence |
+| **vs §8.6** | Correspondent **eventually** spoke to family; §8.6 = sustained **no verbal acknowledgment** — compare, do not merge |
+
+**Lay article:** anonymous side story — [When your child won’t fit the grade](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md#a-side-story--silence-as-cover-until-green-beans-demanded-speech).
+
+**Weak point:** Single **N=1** narrative; childhood memory; no independent corroboration in file.
 
 ### 8.4 Conformity exercises → eruption
 
@@ -897,6 +917,7 @@ Wikipedia **already** cites Brown 2016 as precedent rhetoric — this investigat
 | COVID “parents saw everything” | Uneven by district | RAND + local board minutes |
 | “100% fear-driven canon” | Author thesis §2c | Label **investigation thesis** |
 | Abuse ≡ sexual abuse (§14) | Misread as criminal accusation | **Moral** stance; lay **Framing** |
+| §8.5a anonymous anecdote | N=1 self-report | **Illustration** only; not prevalence data |
 
 ---
 
@@ -932,7 +953,7 @@ Wikipedia **already** cites Brown 2016 as precedent rhetoric — this investigat
 
 Keywords: #Autism #AutismSpectrum #SelectiveMutism #Hyperlexia #PrivateSpeech #Vygotsky #Piaget #Treffert #PDA #Autodidactic #Unschooling #Montessori #FakeMontessori #FlexnerReport #CurriculumAudit #GulfOfTonkin #HigherGround #AI #EdTech #Conformity #PrussianSchool #ParadigmThreatFiles
 
-**Last updated:** 2026-05-21 (§18.1c 2022 midterms + Angry Birds parallel)
+**Last updated:** 2026-05-22 (§8.5a anonymous anecdote reference)
 
 ---
 
@@ -945,6 +966,7 @@ Keywords: #Autism #AutismSpectrum #SelectiveMutism #Hyperlexia #PrivateSpeech #V
 - **“Communism”** in §2 is **author’s collectivist-grading metaphor**; do not reduce to anti-communist polemic without author clarification.  
 - **§2b / §2b.1 curriculum claims** (Watergate vs Tonkin **asymmetric** teaching; Tonkin as deception per Ellsberg/NSA 2005; gender/race morality packaging) are **author audit targets** — verify per jurisdiction before asserting what is “forbidden” in a given school (§19 D5).  
 - **§8.6 historic-literature map** is **synthesis** for parents — not a replacement for clinician workup (**Category 1** rule-out).  
+- **§8.5a** anonymous anecdote is **N=1 self-report** (2026 comment thread); **no name** in file; **illustration** only — not diagnostic prevalence.  
 - **§2c** “single communist/collectivist doctrine,” **100% fear-driven**, and **Bible parallel** are **author highlighted conclusions** — cite as investigation thesis, not established historiography without separate dossiers.  
 - **Antibody / nativist** language must not be read as endorsing **ethnic exclusion** — preservation of local knowledge only.  
 - **§14 abuse equivalence** is **author moral rhetoric** — does **not** allege every educator committed sexual crimes; see lay article **Framing and limits**.  
