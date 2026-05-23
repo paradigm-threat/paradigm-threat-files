@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-23T14:07:50.230Z",
+    "date": "2026-05-23T14:08:05.367Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/nukes/investigations/red-mercury-barclay-1996-novel-investigation.md",
+        "href": "/science/nukes/investigations/red-mercury-barclay-1996-novel-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-23T14:07:49.000Z",
+    "message": "Add Red Mercury (Barclay 1996) investigation and wget mirror index.",
     "files": [
       {
         "status": "M",
@@ -2483,162 +2496,6 @@
       {
         "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png",
         "alt": "When your child won’t fit the grade — schooling, conformity, and parent advice"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-21T14:39:31.000Z",
-    "message": "Add childhood autism spectrum investigation and parent advice article.",
-    "files": [
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md",
-        "href": "/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.png",
-        "href": "/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.png"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png",
-        "href": "/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/when-your-child-wont-fit-the-grade.md",
-        "href": "/history/chronology/when-your-child-wont-fit-the-grade"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/captured-courts-wrong-villain.md",
-        "href": "/influence/controlled_opposition/captured-courts-wrong-villain"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md",
-        "href": "/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story"
-      },
-      {
-        "status": "M",
-        "path": "science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.md",
-        "href": "/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.md",
-        "href": "/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md",
-        "href": "/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/health/viruses-were-never-found-only-aetheric-disease.md",
-        "href": "/science/health/viruses-were-never-found-only-aetheric-disease"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.png"
-      },
-      {
-        "src": "/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.png",
-        "alt": "Captured courts and ethnic scapegoating — controlled opposition diagram (header)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.png",
-        "alt": "BRSINV / St. Julian — captured courts and Zionist framing investigation (header)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
-        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (investigator metaphor figure)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (metaphor figure)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
-        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png",
-        "alt": "Open source as sword in the stone — gated exhibit, alternate framing (metaphor figure)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
-        "alt": "Open source as sword in the stone — gated exhibit, after hours (wider still)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png",
-        "alt": "Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)"
-      },
-      {
-        "src": "/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png",
-        "alt": "Atkinson, Georgia / Brantley Highway 82 fire — radiation-weapon investigation: signature anomalies of vaporized structures adjacent to intact pine canopy"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.png",
-        "alt": "Rural burn zones need a density moratorium — article graphic"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png",
-        "alt": "Brantley Highway 82 burn scar — selective destruction adjacent to intact pine canopy"
-      },
-      {
-        "src": "/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.png",
-        "alt": "Virus media predictive programming — evolution, genome causality, zombie etiology (investigation header)"
-      },
-      {
-        "src": "/science/health/investigations/virus-media-predictive-programming-capcom.png",
-        "alt": "Capcom virus predictive programming — Mega Man X2 to Resident Evil, Umbrella outbreak grammar (investigation art)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/viruses-were-never-found-only-aetheric-disease.png",
-        "alt": "Viruses were never found in the lab — ætheric disease, fingerprint not genome pathogen (article art)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.png",
-        "alt": "Virus isolation skeptical audit — dual-track dossier, fingerprint not blueprint (companion investigation art)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.png",
-        "alt": "Virus media predictive programming — evolution, genome causality, zombie etiology (companion investigation art)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/genocide/vaccine/zombie_virus.jpg",
-        "alt": "New York Post 2022 — scientists warn long-frozen zombie virus is public health threat amid permafrost thaw (press exhibit)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-capcom.png",
-        "alt": "Capcom virus predictive programming — Mega Man X2 to Resident Evil, outbreak conditioning (article art)"
       }
     ]
   }

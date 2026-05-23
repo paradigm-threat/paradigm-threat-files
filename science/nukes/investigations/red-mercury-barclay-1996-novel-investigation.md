@@ -41,7 +41,7 @@
 **Local mirror:** `~/dev/wget/barclay-1996-red-mercury/`  
 - `barclay-1996-red-mercury.pdf`  
 - `barclay-1996-red-mercury.txt`  
-- [`INDEX.md`](file:///home/ari/dev/wget/barclay-1996-red-mercury/INDEX.md) — scene index + Anna’s Archive steps  
+- `~/dev/wget/barclay-1996-red-mercury/INDEX.md` — scene index + Anna’s Archive steps (local only)  
 
 **Anna’s Archive:** search **`9780787109202`**; prefer Internet Archive **424-page** scan.
 
