@@ -110,27 +110,17 @@ Deeper tiers: [two-camps investigation](https://paradigmthreat.net/history/chron
 
 ## Framing and limits
 
-**Prisca sapientia** applies; modern consensus is not default. Not medical or legal advice.
+**Prisca sapientia** applies; modern consensus is not default. Not medical or legal advice. Full tier tables live in the [two-camps investigation](https://paradigmthreat.net/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md).
 
-| Claim | Tier |
-|-------|------|
-| Jaffa visit, Desgenettes corpse carry, ~1,700 plague dead | **Documented** (see plague dossier) |
-| Soldiers **felt** invincible from demonstrated therapy | **Author thesis** |
-| **Airships + classified siege kit** as **dominant** invincibility hardware | **Author thesis** — [ship-shaped airships investigation](https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md) |
-| Gros as **felt-invincibility** icon (vs dossier propaganda tier) | **Author read** — both linked |
-| Napoleonic **calomel** / military pharmacopoeia | **Documented** (general military-medical history; campaign specifics **open** in dossier) |
-| **Red mercury** — injectable blood-energy mimic; mirror refraction; vampirism lore | **Author thesis** — modern consensus [**denies substance**](https://en.wikipedia.org/wiki/Red_mercury); investigation **assumes it works**; Napoleon **belief** tier |
-| Author **eyewitness** — red mercury **non-reflection** in mirror | **Author report** — no third-party citation filed |
-| **Radiation cure** since Napoleon; Curie **cured** soldiers; bullet story **preposterous** as full account; **Camp B redaction** of Camp A proof | **Author belief** — [Curie investigation](https://paradigmthreat.net/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) |
-| Pyramids as hospital until **11th c.** | Author + pyramid-energy sources |
-| Semmelweis ward trial, **Oct 1850** cadaver ban | **Documented** |
-| *Twelve Monkeys* dialogue | **Film** |
+**Documented** anchors include the Jaffa visit, Desgenettes corpse carry, and roughly seventeen hundred plague dead ([plague dossier](https://paradigmthreat.net/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md)); Napoleonic **calomel** and the wider military pharmacopoeia (campaign specifics still open in the dossier); Semmelweis’s ward trial and Vienna’s **October 1850** cadaver ban; and *Twelve Monkeys* dialogue as **film** source.
+
+**Author thesis and belief** cover soldiers who **felt** invincible after demonstrated therapy; **airships and classified siege kit** as the dominant invincibility hardware ([ship-shaped airships investigation](https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md)); Gros as a **felt-invincibility** icon (the plague dossier still tiers the same canvas as state propaganda for forensics — both reads are linked on purpose); **red mercury** as injectable blood-energy mimic with mirror refraction and vampirism lore, where modern consensus [denies the substance](https://en.wikipedia.org/wiki/Red_mercury) but this investigation assumes it worked for Napoleon’s physicians and ranks; my **eyewitness** of red mercury **non-reflection** in a mirror (**author report**, no third-party citation filed); **radiation cure** since Napoleon, Curie **curing** soldiers in the author’s read, and the bullet-finder story as **preposterous** as the full account ([Curie investigation](https://paradigmthreat.net/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md)); pyramids as hospital until the **11th century** (author read plus pyramid-energy sources); and **Camp B redaction** of Camp A proof across mercury and radiation alike.
 
 ---
 
 Keywords: #TwoCampsMedicine #GrosJaffa #FrenchWarMedicine #RedMercury #Mercury #RadiationCure #PerceivedInvincibility #VampirismLore #Semmelweis #TwelveMonkeys #Roytas2024 #MarieCurie #NapoleonCorpses #ParadigmThreatFiles
 
-**Last updated:** 2026-05-23T09:31:05-04:00
+**Last updated:** 2026-05-23T09:35:00-04:00
 
 ---
 

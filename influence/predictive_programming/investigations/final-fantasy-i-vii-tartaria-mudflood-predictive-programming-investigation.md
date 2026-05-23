@@ -67,7 +67,7 @@ Localization caveat: **Darill / Daryl** spellings vary; **canon names** should b
 
 **Series pattern:** Multiple installments **hide** or **entomb** **airships** (and **other** vehicles) so the party **excavates** **lost mobility**—training audiences that **flight tech** returns from **tombs** rather than **open patent** economics.
 
-**Concrete beat (*FFVI*):** The **Falcon** is **recovered** from a **tomb / memorial** context tied to **Darill / Daryl** — i.e. **air superiority literally buried** until plot **resurrection** ([Falcon — Fandom](https://finalfantasy.fandom.com/wiki/Falcon)). 
+**Concrete beat (*FFVI*):** The **Falcon** is **recovered** from a **tomb / memorial** context tied to **Darill / Daryl** — i.e. **air superiority literally buried** until plot **resurrection** ([Falcon — Fandom](https://finalfantasy.fandom.com/wiki/Falcon)). **Cross-read:** [Ship-shaped airships investigation §11](https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md#11-media-cross-reference--games-books-movies-no-ufo-no-gas-envelope) for **FF** **series-wide** **hull** **inventory** **(no** **UFO** **/** **blimp** **filter)**. 
 
 **Open question:** Whether **any** designer interview ties this to **real** **archaeology** or **Tartaria** discourse (**unlikely**; treat as **receiver-side** PP reading until **primary** quote).
 

@@ -2,7 +2,7 @@
 
 ![Ship-shaped airships through the ages — Clonmacnoise to Pugachev, Category A vs B, buried fleets](/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.png)
 
-> **TL;DR:** **Scope:** **boat-** and **canoe-hull** **airships** and other **obvious elevating technology** (gas envelope, heated air, propeller, **floating stone**, **electromagnetic** lift)—**Category B** (**cigar hulls**, **unspecified grapes**, **1896–97 mystery-airship** UAP lane) **explicitly out of scope**. **Author thesis:** **breakaway** **tech caste** **distributed** **lift** and **healing** **weapons** across **18th–20th** **century** **coalitions** aimed at **Russia / Siberia**; **Clonmacnoise** **743–748** → **phantom-timeline** **1743–1748** → **Pugachev**; **post-event** **mud-flood** **burial**; **Napoleon** **1812** **retreat** = **guerrilla** **counter** + **class** **abandonment**; **FF VI** **Vector** / **Falcon** = **Tartaria** **PP**. **Floor:** **Irish annals**, **1897** **canoe-car** **press**, **French Aerostatic Corps**, **Meusnier** **dirigible** art. **Cross-read:** [Napoleon corpses essay](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md).
+> **TL;DR:** **Scope:** **boat-** and **canoe-hull** **airships** and **non-envelope** **lift** (**propeller**, **floating stone**, **æther** / **magitek**, **sails** **without** **gas** **bag**) — **not** **UFOs** (**Category B**) and **not** **blimps** / **dirigible** **envelopes** / **hot-air** **balloons** (**Category A-excluded** in **§11** **media** **survey**). **Author thesis:** **breakaway** **tech** **caste** **distributed** **lift** across **18th–20th** **century** **Russia** **wars**; **Clonmacnoise** → **1743–1748** → **Pugachev**; **mud-flood** **burial**; **Napoleon** **1812**; **FF** **+** **fiction** **timeline** **§11**. **Cross-read:** [Napoleon corpses essay](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md).
 
 ## Status
 
@@ -20,6 +20,8 @@
 8. **Author’s open claims** → §8  
 9. **Questions to clarify, verify, or debunk** → §9  
 10. **Weak points / TODOs** → §10  
+11. **Media cross-reference** (games, books, movies — **no** **UFO**, **no** **gas** **envelope**) → §11  
+12. **Short timeline** (history + fiction) → §12  
 
 ---
 
@@ -151,7 +153,7 @@ From [Final Fantasy I–VII PP investigation](https://paradigmthreat.net/influen
 - **Kefka** **Catastrophe** **≈** **world-ending** **pulse** **that** **ends** **Tartaria** **/ ** **mud-flood** **grammar**.
 - **Falcon** **airship** **interred** **at** **Darill’s** **Tomb** — **flight** **tech** **returns** **from** **burial**, **not** **patent** **economics**.
 
-**Tier:** **Fiction** **=** **PP** **clue** **stream**; **not** **proof** **of** **specific** **hull** **under** **Kazan**.
+**Tier:** **Fiction** **=** **PP** **clue** **stream**; **not** **proof** **of** **specific** **hull** **under** **Kazan**. **Full** **FF** **+** **cross-media** **inventory:** [§11](#11-media-cross-reference--games-books-movies-no-ufo-no-gas-envelope).
 
 ---
 
@@ -185,6 +187,7 @@ From [Final Fantasy I–VII PP investigation](https://paradigmthreat.net/influen
 | 8 | **Class** **gate** **on** **tech**; **officers** **evacuated** **hardware** | **Author** **thesis** |
 | 9 | **FF** **VI** **Vector** **/** **Falcon** **=** **Tartaria** **/** **buried** **airship** **PP** | **Fiction** **+** **author** **read** |
 | 10 | **1897** **canoe-cars** **support** **Category A** **continuity** | **Press** **extracts** **+** **hoax** **layers** **documented** |
+| 11 | **FF** **+** **SoA** **+** **Verne** **+** **Edge** **Chronicles** **train** **ship-hull** **lift** **without** **UFO** **/** **blimp** **grammar** **(§11)** | **Fiction** **inventory** **+** **author** **PP** **read** |
 
 ---
 
@@ -207,7 +210,111 @@ From [Final Fantasy I–VII PP investigation](https://paradigmthreat.net/influen
 - [ ] **Separate** **1897** **case** **table**: **Category A** **canoe** **vs** **Category B** **cigar** **(do** **not** **merge** **with** **PURSUE** **without** **fence**).
 - [ ] **Clonmacnoise** **manuscript** **citation** **block**.
 - [ ] **1812** **memoir** **mine** **for** **“aerial** **ship”** **metaphor** **vs** **literal** **craft**.
-- [ ] ~~**Illustration** **optional**: **ship-hull** **under** **envelope** **diagram**~~ — **done:** hero infographic **`ship-shaped-airships-earth-elevating-technology-investigation.png`**
+- [ ] ~~**Illustration** **optional**: **ship-hull** **under** **envelope** **diagram**~~ — **done:** hero **`ship-shaped-airships-earth-elevating-technology-investigation.png`**; **types** **infographic** **`ship-shaped-airships-earth-elevating-technology-investigation-types.png`** **(§11** **/** **§12** **gap)**
+- [ ] **Media** **corpus** **deep** **pass**: **primary** **quotes** **on** **lift** **mechanism** **per** **title** (**§11** **starter** **list** **done** **2026-05-23**).
+
+---
+
+## 11. Media cross-reference — games, books, movies (no UFO, no gas envelope)
+
+**Purpose:** Map **fiction** that **trains** **audiences** on **ship-hull** **sky** **craft** **without** **UFO** **grammar** or **blimp** **/** **dirigible** **/** **hot-air** **envelope** **lift**. **Historic** **Category A** **(§1–§2)** **still** **admits** **canoe-under-bag** **press**; **this** **section** **uses** **a** **stricter** **filter** **for** **comparative** **media** **work**.
+
+**In scope (media):** **Boat**, **galleon**, **warship**, **canoe**, or **clear** **naval** **deck** **silhouette**; **lift** **read** as **propeller**, **magitek**, **crystal** **/ ** **stone** **/ ** **phrax** **/ ** **levistone**, **solar** **sail** **+ ** **unspecified** **anti-grav**, **or** **undepicted** **“floating”** **without** **visible** **bag**.
+
+**Out of scope (media):** **UFO** **/** **cigar** **/** **saucer** **/** **grape** **(Category B)**; **blimps**, **zeppelins**, **dirigibles**, **hydrogen** **envelopes**, **hot-air** **balloons**; **helicopter-only** **craft** **unless** **listed** **as** **adjacent** **support**.
+
+**Tier:** **Fiction** **inventory** **=** **documented** **plot** **/** **art** **(secondary** **sources** **+** **wiki** **floor)**; **PP** **/** **burial** **reads** **=** **author** **hypothesis** **only** **where** **marked**.
+
+### 11.1 Video games — *Final Fantasy* series (anchor lane)
+
+Square **/** **Square Enix** **mainline** **and** **direct** **spin-offs** **are** **the** **repo’s** **primary** **PP** **cluster** ([FF I–VII dossier](https://paradigmthreat.net/influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md)). **Below:** **in-scope** **hulls** **only**; **full** **ship** **list** **with** **envelope** **craft** **stripped** — see [List of Final Fantasy airships](https://ultimatepopculture.fandom.com/wiki/List_of_Final_Fantasy_airships).
+
+| Title | Craft | Hull read | Lift read (non-envelope) | Burial / loss beat | PP note (author) |
+|-------|-------|-----------|--------------------------|--------------------|------------------|
+| ***Final Fantasy*** (1987) | Light Warriors’ airship | Open **deck** **ship** | **Levistone** **anti-grav**; **raised** **from** **desert** **strata** | **Excavation** **from** **sand** **(buried** **mobility)** | **Tartaria** **salvage** **grammar** |
+| ***Final Fantasy II*** (1988) | Cid’s airship; ***Dreadnought*** | **Warship** **hull** | **Magitek** **/** **unspecified** **engines** | ***Dreadnought*** **destroyed** **(Sunfire)** | **Imperial** **sky** **fleet** **vs** **partisans** |
+| ***Final Fantasy III*** (1990) | ***Enterprise***, ***Nautilus***, ***Invincible*** | **Naval** **/** **ancient** **hull** **lines** | **Wheel** **of** **Time** **mod**; **wind** **flight**; **great** **ship** **lift** | ***Enterprise*** **shot** **down**; ***Nautilus*** **/** ***Invincible*** **successive** **recovery** | **Layered** **excavation** **of** **older** **lift** |
+| ***Final Fantasy IV*** (1991) | **Red Wings**; ***Enterprise***; ***Falcon*** | **Battleship** **silhouette** | **Propulsion** **unspecified** **(no** **bag** **in** **sprite** **/** **FMV)** | ***Falcon*** **stolen** **/** **upgraded** **at** **Tower** **of** **Babel** | **Imperial** **red** **wings** **≈** **classified** **fleet** |
+| ***Final Fantasy V*** (1992) | World-map airship | **Classic** **FF** **galleon** **deck** | **Crystal** **/** **wind** **canals** **(setting)** | **Standard** **acquisition** **arc** | **Series** **trope** **normalization** |
+| ***Final Fantasy VI*** (1994) | ***Blackjack***; ***Falcon*** | **Casino** **ship** **/** **diesel** **boat** **hull** | **Propellers** **(Falcon** **art)**; **magitek** **world** | ***Falcon*** **in** **Darill’s** **Tomb** **—** **buried** **until** **plot** **resurrection** | **Core** **PP** **exemplar** — §6 |
+| ***Final Fantasy VII*** (1997) | ***Highwind***; ***Shera*** | **Airship** **deck** **+** **gunship** **lines** | **Multi-prop** **/** **jet** **conversion** ([Highwind wiki](https://finalfantasy.fandom.com/wiki/Highwind_(Final_Fantasy_VII))) | ***Highwind*** **sinks** **into** **Northern** **Crater** **(ending)**; **Tactics** **errand** **raises** **hull** **from** **ocean** | **Salvage** **after** **catastrophe** |
+| ***Final Fantasy VIII*** (1999) | ***Ragnarok*** | **Fuselage** **/** **gunship** **(adjacent** **hull)** | **Rocket** **/** **space** **propulsion** | **Found** **ad** **rift** **(derelict** **recovery)** | **Less** **boat**; **kept** **for** **VII** **cluster** **continuity** |
+| ***Final Fantasy IX*** (2000) | ***Hilda Garde*** **I–III**; ***Prima Vista***; ***Invincible*** | **Steam** **galleon** **/** **theater** **ship** | **Propellers** **+** **mist** **engines** **(no** **envelope)** | **Multiple** **hull** **losses** **/** **upgrades** | **Opera** **ship** **=** **culture** **on** **lift** |
+| ***Final Fantasy XII*** (2006) | ***Strahl***; **Archadian** **sky** **fleet** | **Sloop** **/** **warship** **decks** | **Skystone** **/** **manufactured** **lift** | **Fleet** **war** **over** **Dalmasca** | **Magitek** **empire** **air** **supremacy** |
+| ***Final Fantasy XIV*** (2013+) | ***Prima Vista*** **(callback)**; **Void** **Ark**; **manacutters** | **Theater** **ship** **/** **fortress** **hulls** | **Aether** **tech** | **MSQ** **loss** **/** **recovery** **beats** | **Live** **service** **re-staging** **IX** **motifs** |
+| ***Bravely*** **(Default** **/** **Second)** | ***Eschalot***; ***Grandship*** | **Square** **lineage** **galleons** | **Wind** **/** **crystal** **engines** | ***Grandship*** **wreck** **/** **raid** **zones** | **FF** **adjacent** **PP** **stream** |
+
+**Adjacent (not pure ship-hull, listed for cross-search):** ***Balamb*** **/** ***Galbadia*** **Garden*** (FF VIII) — **floating** **fortresses**; ***Lunar*** **Whale*** (FF IV) — **whale** **hull**, **interplanetary**. **Excluded** **from** **this** **table:** **helicopters** (**Shinra** **No.** **26**, **B1** **series**), **pure** **aircraft** **without** **deck** **grammar**.
+
+### 11.2 Video games — beyond *Final Fantasy*
+
+| Title | Year | Craft / faction | Hull + lift | Why it fits §11 |
+|-------|------|-----------------|-------------|-----------------|
+| ***Skies of Arcadia*** **/** ***Legends*** | 2000 / 2003 | ***Little Jack***, ***Delphinus***, **wooden** **/** **metal** **pirate** **&** **Valuan** **fleets** | **Sea-ship** **silhouettes** **in** **sky**; **lore** **progresses** **past** **early** **gas** **zeppelins** **to** **wood** **/** **metal** **hulls** ([Airships — SoA wiki](https://skiesofarcadia.fandom.com/wiki/Airships)) | **Strongest** **non-FF** **galleon-in-sky** **RPG** |
+| ***Total War: Warhammer III*** | 2022 | **Cathay** ***Sky-junk*** | **Jade** **Fleet-sized** **cradle** **hull**; **magic** **lantern** **lift** **(not** **gas** **bag)** ([Lexicanum](https://whfb.lexicanum.com/wiki/Sky-junk)) | **RTS** **mass** **ship** **air** **war** |
+| ***Airborne Empire*** | 2024 | Player **flying** **city** **/** **sky** **settlement** | **Naval** **deck** **grammar** **+** **lift** **management** **(propulsion** **sim)** | **Modern** **“buried** **tech** **return”** **city-builder** **lane** |
+| ***Arcanum: Of Steamworks and Magick Obscura*** | 2001 | **Surface** **travel** **(adjacent)** | **Setting** **has** **zeppelin** **travel** **—** **excluded** **as** **primary**; **listed** **only** **so** **researchers** **don’t** **conflate** **with** **SoA** **/** **FF** | **Negative** **control** |
+| ***Warcraft*** **series** | 1994+ | **Orc** **/** **Alliance** **zeppelins** | **Envelope** **lift** | **Explicit** **§11** **exclude** |
+
+**TODO:** **Panzer** **Dragoon** **Saga** **(dragon** **mounts**, **not** **hulls)**; **Guns** **of** **Icarus** **(gas** **lift** **—** **exclude)**; **Crimson** **Skies** **(zeppelin-heavy** **—** **case-by-case)**.
+
+### 11.3 Books — ship-shaped or screw-ship lift (no envelope primary)
+
+| Work | Author | Date | Craft | Lift mechanism | Notes |
+|------|--------|------|-------|----------------|-------|
+| ***Robur the Conqueror*** (*The Clipper of the Clouds*) | Jules Verne | 1886 | ***Albatross*** | **74** **suspensory** **screws** **+** **2** **horizontal** **propellers**; **electric** **power** ([Gutenberg](https://www.gutenberg.org/files/3808/3808-h/3808-h.htm)) | **Anti-balloon** **manifesto** **inside** **plot**; **deck** **reads** **clipper** |
+| ***Master of the World*** | Jules Verne | 1904 | ***Terror*** | **Multi-mode** **vehicle** **(air** **/ ** **land** **/ ** **sea)**; **heavier-than-air** **lane** | **Sequel** **to** **Robur** |
+| ***The Edge Chronicles*** (*Twig* **/** **Quint** **/** **Rook** **sagas**) | Paul Stewart & Chris Riddell | 1998–2015 | ***Stormchaser***, **sky** **galleons**, **phraxships** | **Flight** **rocks** **/** **stormphrax** **/** **phrax** **chambers** **(not** **hydrogen** **bags)** ([Phraxships wiki](https://theedgechronicles.fandom.com/wiki/Phraxships)) | **Children’s** **fantasy** **—** **persistent** **sky** **pirate** **grammar** |
+| ***Lords of the Sky*** | Angus Wells | 1994 | **Dhar** **/** **Ahn** **war** **airships** | **Magic-powered** **fleets** ([PRH](https://www.penguinrandomhouse.com/books/188519/lords-of-the-sky-by-angus-wells/)) | **Standalone** **epic** **air** **war** |
+| ***Stardust*** | Neil Gaiman | 1999 | **Lightning** **ship** **/** **sky** **vessel** | **Storm** **/** **fantasy** **lift** **(no** **dirigible)** | **Film** **2007** **—** **§11.4** |
+| ***Gulliver’s Travels*** (Laputa) | Jonathan Swift | 1726 | **Flying** **island** **(adjacent)** | **Magnetic** **/** **mineral** **levitation** | **Not** **a** **ship** **hull** **—** **stone** **lift** **precedent** **for** **Category A** **“floating** **stone”** |
+| ***The Aeronaut’s Windlass*** (*Cinder* **Spires**) | Jim Butcher | 2015 | **Spire** **fleet** **/** **crystal** **airships** | **Aether** **crystals** **+** **naval** **rigging** | **Steampunk** **without** **gas-bag** **focus** |
+
+**Explicitly excluded (common “airship” shelves):** ***Airborn*** **/** ***Skybreaker*** (Kenneth Oppel) — **hydrogen** **cruise** **ships**; ***His Dark Materials*** — **zeppelin** **travel**; ***Leviathan*** (Scott Westerfeld) — **whale** **envelope** **biology**.
+
+### 11.4 Movies and animation (ship hull or screw-ship; no UFO / blimp hero craft)
+
+| Title | Year | Craft | Lift read | Exclude / fence |
+|-------|------|-------|-----------|-----------------|
+| ***Treasure Planet*** | 2002 | ***RLS Legacy*** **and** **pirate** **galleons** | **Solar** **sails** **+** **unspecified** **space** **lift** ([Disney](https://movies.disney.com/treasure-planet)) | **Space** **fantasy** **—** **18th-c.** **rigging** **in** **orbit** |
+| ***Stardust*** | 2007 | **Captain** **Shakespeare’s** **flying** **vessel** | **Storm** **/** **lightning** **capture** **(fantasy)** | **Adapted** **from** **Gaiman** **§11.3** |
+| ***Castle in the Sky*** (*Laputa*) | 1986 | **Dola** **gang** ***Tiger Moth*** **(pirate** **ship)** | **Propeller** **craft** **(wooden** **hull)** | **Opening** **government** **dirigible** **=** **envelope** **—** **out** **of** **scope**; **pirate** **ship** **=** **in** |
+| ***Master of the World*** | 1961 | ***Albatross*** **(film** **design)** | **Film** **redesign** **leans** **dirigible** **—** **borderline** | **Prefer** **Verne** **text** **§11.3** **for** **screw-ship** **canon** |
+| ***The Phantom Treehouse*** | 1984 | **Hero** **airship** | **Propellers** **(animation)** | **Obscure** **AU** **children’s** **film** **—** **flying** **ship** **over** **volcanoes** |
+
+**Excluded:** ***Indiana Jones*** **zeppelin** **beat**; ***The Rocketeer***; ***Hindenburg*** **(1975)**; **UFO** **/** **UAP** **cinema** **(Category B)**.
+
+### 11.5 Cross-media patterns (author read — fiction tier)
+
+1. **Buried** **/** **excavated** **mobility:** **FF** **I** **desert** **raise**, **FF** **VI** **tomb** **Falcon**, **FF** **VII** **ocean** **Highwind** **errand**, **FF** **III** **ruin** **ships**.
+2. **Imperial** **fleet** **vs** **guerrilla** **ground:** **Red** **Wings**, **Vector** **magitek**, **Valuan** **Armada** (**SoA**), **Cathay** **Sky-junk** **armadas**.
+3. **Lift** **without** **public** **balloon** **economics:** **Verne’s** **Albatross** **debate**, **Edge** **phrax** **reverse-engineering**, **FF** **magitek** **after** **Catastrophe**.
+
+**Not claimed:** **Square** **/** **Disney** **/** **Verne** **knew** **specific** **1773** **or** **1812** **ORBAT** **details** — **pattern** **rhyme** **only**.
+
+![From history to fiction — real ship-shaped airships, retranslated timeline, mud-flood burial, games as redacted memory, suppression cycle](/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation-types.png)
+
+---
+
+## 12. Short timeline — sightings, wars, and fiction
+
+| Year | Lane | Event |
+|------|------|-------|
+| **749 AD** *(conv.)* **/** **1743–1748** *(phantom)* | **History** **/** **NC** | **Clonmacnoise** **aerial** **ship** **+** **anchor** **(§2.1** **/** **§3)** |
+| **1726** | **Literature** | **Swift** — **Laputa** **floating** **island** **(stone** **/** **magnetic** **lift** **adjacent)** |
+| **1773–1775** | **History** | **Pugachev** **Rebellion** **(author:** **sky-ships** **pending** **archive)** |
+| **1783–1794** | **History** **(admitted** **floor)** | **Montgolfier** **/** **French** **Aerostatic** **Corps** **—** **balloon** **lane** **(Category A-excluded** **in** **§11** **media)** |
+| **1799–1812** | **History** **/** **author** | **Napoleonic** **Reverse** **Crusade** **+** **class-gated** **lift** **thesis** **(§5)** |
+| **1886** | **Literature** | **Verne** — ***Albatross*** **(screw** **aeronef** **vs** **balloonists)** |
+| **1896–1897** | **Press** | **Mystery** **airship** **wave** **—** **canoe-cars** **(§2.3)** **vs** **UFO** **lane** **(Category B)** |
+| **1987–1997** | **Games** | ***Final Fantasy*** **I–VII** **ship** **airship** **cluster** **(§11.1)** |
+| **1994** | **Games** | ***FF VI*** **—** **Vector** **Catastrophe** **+** **buried** **Falcon** **(§6)** |
+| **1998–2000** | **Literature** **+** **games** | ***Edge Chronicles*** **begins**; ***Skies of Arcadia*** **(2000)** |
+| **2002** | **Film** | ***Treasure Planet*** **—** **solar** **galleon** **in** **space** |
+| **2022** | **Games** | ***Total War: WHIII*** **—** **Sky-junk** **mass** **battles** |
+| **2024** | **Games** | ***Airborne Empire*** **—** **flying** **city** **/** **lift** **management** |
+
+**Reading:** **Historic** **rows** **(Clonmacnoise→Pugachev→Napoleon→1897)** **supply** **the** **thesis** **spine**; **fiction** **rows** **(Verne→FF→SoA→film)** **supply** **audience** **pre-training** **on** **ship** **hulls** **without** **requiring** **consensus** **aviation** **history**.
 
 ---
 
@@ -219,7 +326,7 @@ From [Final Fantasy I–VII PP investigation](https://paradigmthreat.net/influen
 | **Napoleon corpses / invincibility** | [napoleon-corpses-dry-egypt-siberian-disease.md](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md) · [dossier](https://paradigmthreat.net/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md) |
 | **Reverse Crusades** | [reverse-crusades-comparison.md](reverse-crusades-comparison.md) |
 | **Mud flood / MFEE** | [mfee-investigation.md](https://paradigmthreat.net/history/mudflood/investigations/mfee-investigation.md) |
-| **Final Fantasy PP** | [final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md](https://paradigmthreat.net/influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md) |
+| **Final Fantasy PP** | [final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md](https://paradigmthreat.net/influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md) · **§11** **media** **table** **(this** **file)** |
 | **1897 UFO lane (Category B)** | [mystery-airships-1896-1897-vocabulary-bridge.md](https://paradigmthreat.net/influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md) |
 | **Pugachev / mud flood hub** | [history/mudflood/page.md](https://paradigmthreat.net/history/mudflood/page.md) |
 
@@ -242,4 +349,4 @@ From [Final Fantasy I–VII PP investigation](https://paradigmthreat.net/influen
 
 Keywords: #ShipShapedAirships #EarthLift #Pugachev #Clonmacnoise #Napoleon1812 #MudFlood #Tartaria #PredictiveProgramming #CategoryA #BreakawayTech
 
-**Last updated:** 2026-05-23T09:30:00-04:00
+**Last updated:** 2026-05-23T14:00:00-04:00

@@ -1,8 +1,73 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-23T14:14:04.333Z",
+    "date": "2026-05-23T14:15:02.297Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation-types.png",
+        "href": "/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation-types.png"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md",
+        "href": "/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.png",
+        "href": "/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.png"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
+        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md",
+        "href": "/influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation-types.png"
+      },
+      {
+        "src": "/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.png"
+      },
+      {
+        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
+        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**).\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
+        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
+        "alt": "Roytas 2024 — Can You Catch a Cold? (footnote 8 hunt)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-mercury-radiation.png",
+        "alt": "Two camps — red mercury (Napoleon) and radiation cure (Curie), Camp A vs Camp B cover-up"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.png",
+        "alt": "Ship-shaped airships — Clonmacnoise to Pugachev, Category A, Napoleon 1812, buried fleets"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-23T14:14:03.000Z",
+    "message": "TL;DR: state Ari position on Red Mercury as PP from redacted fact.",
     "files": [
       {
         "status": "M",
@@ -2434,41 +2499,6 @@
       {
         "src": "/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.png",
         "alt": "Virus isolation skeptical audit — dual-track, ætheric disease, fingerprint not blueprint (investigation header)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-21T21:38:03.000Z",
-    "message": "Child schooling article: §8.6 profile, Tonkin contrast, warfare figure",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md",
-        "href": "/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/when-your-child-wont-fit-the-grade-warfare.png",
-        "href": "/history/chronology/when-your-child-wont-fit-the-grade-warfare.png"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/when-your-child-wont-fit-the-grade.md",
-        "href": "/history/chronology/when-your-child-wont-fit-the-grade"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/when-your-child-wont-fit-the-grade-warfare.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png",
-        "alt": "When your child won’t fit the grade — schooling, conformity, and parent advice"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade-warfare.png",
-        "alt": "Mass schooling and warfare — collectivist grading, factory cohorts, fear-driven compliance"
       }
     ]
   }

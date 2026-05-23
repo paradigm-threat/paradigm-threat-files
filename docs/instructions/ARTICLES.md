@@ -24,10 +24,12 @@ If a claim needs **five citations** or a **multi-row table**, it belongs in the 
 
 ### Tables, lists, and catalog prose (articles vs investigations)
 
+**Hard rule for articles:** **No Markdown pipe tables anywhere** — not in the body, not in **`## Framing and limits`**, not in footnotes. Substack’s editor (and most paste-from-Markdown workflows) **do not render** `| col | col |` grids; rows collapse into a **broken vertical list** that reads like a corrupted dossier excerpt. **Write normal paragraphs instead.** Weave claim, tier, and link into **complete sentences** (commas, semicolons, short follow-on sentences). If the reader needs a grid, put it in the **`investigations/`** dossier and link once.
+
 - **Investigations** (`…/investigations/*.md`): **Markdown tables are fine**—tier matrices, chronologies, claim registries, comparison grids. **Bullet and bold-lead catalogs** (literature maps, author lanes, tier rows) also belong here.
-- **Articles** (parent-folder reader essays): **Do not use Markdown pipe tables.** Substack’s editor (and most paste-from-Markdown workflows) **do not render** `| col | col |` grids; rows collapse into a broken vertical list.
+- **Articles** (parent-folder reader essays): **paragraphs only** for argument and for limits. **Do not** recreate dossier tier tables as pipe grids, bold-lead stacks, or pseudo-tables (`**Claim** — tier` lines that paste like broken tables).
 - **If an article needs a table or structured illustration:** export **`PNG`** or **`SVG`**, place the asset **beside the article** in the same folder (same pattern as hero images), and embed with an **absolute** `https://paradigmthreat.net/...` URL and descriptive **alt** text. Raster and vector images **transfer**; Markdown tables **do not**.
-- **Default for structured content:** **paragraphs**, not lists. Weave names, dates, and contrasts into **complete sentences** with normal syntax (commas, semicolons, “and,” short follow-on sentences). The reader should hear an **essay**, not scroll a **glossary**.
+- **Default for structured content:** **paragraphs**, not lists. The reader should hear an **essay**, not scroll a **glossary**.
 - **Avoid catalog-style stacks** in article bodies:
   - Repeated `**Name** — gloss` or `**Name** — *work* (year): gloss` lines (literature surveys, thinker rundowns, “who said what” lanes).
   - Long bullet runs of **authors**, **eras**, **institutions**, or **claims** that could be one or two paragraphs.
@@ -35,9 +37,8 @@ If a claim needs **five citations** or a **multi-row table**, it belongs in the 
 - **When lists are OK (sparingly):**
   - **Short numbered lists** (typically **≤5 items**) for **sequential steps** the reader must follow in order (e.g. debunk-cycle phases, a tight parent checklist).
   - **“Where next”** link bullets at the end (routing only—not argument).
-  - **Framing and limits** may use a **few** tight bullets if batching caveats; prefer prose when it still scans cleanly.
-- **If the material is inherently tabular or multi-row:** keep the **full grid or catalog** in the **dossier** and link to the **§** anchor; the article gets **one paragraph** that states the pattern and points there.
-- **Reference (catalog → prose):** [`history/chronology/when-your-child-wont-fit-the-grade.md`](../../history/chronology/when-your-child-wont-fit-the-grade.md) — “Literature that respected autodidactic children” (woven paragraphs, not author bullets).
+- **If the material is inherently tabular or multi-row:** keep the **full grid or catalog** in the **dossier** and link to the **§** anchor; the article gets **one or two prose paragraphs** that state the pattern and point there.
+- **Reference (catalog → prose):** [`history/chronology/when-your-child-wont-fit-the-grade.md`](../../history/chronology/when-your-child-wont-fit-the-grade.md) — “Literature that respected autodidactic children” (woven paragraphs, not author bullets). [`history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md`](../../history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md) — **`## Framing and limits`** as prose tiers, not a pipe table.
 
 **Default:** Articles **state stakes and thesis clearly**—**clinical but inspired** (precise, unsentimental, still alive); investigations **hold** the audit trail. When in doubt, **cut** the paragraph that sounds like **Limits** and **add** a link: “the careful version lives in [**Limits**](https://paradigmthreat.net/influence/…/investigations/…#limits-and-disclaimers).”
 
@@ -96,14 +97,14 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 6. **Body** — **`##` sections** (typically **three to seven**). Each section **one main idea**, usually **prose paragraphs** (see **Tables, lists, and catalog prose**). **Bold** only per **Voice → Bold** (emphasis or newly introduced terms)—**not** as default highlighting or list labels.
 7. **Citations in prose** — **Markdown link syntax** `[label](https://paradigmthreat.net/...)` (and external `https://...`), **same convention as blog posts**—not bare `/history/...` paths and **not** backtick-wrapped raw URLs (they are not clickable in Substack). Each link: **descriptive label** plus **what** the reader will find there (**one clause**). Avoid **hub-only** link dumps unless Ari wants a **routing sheet**; prefer **narrative + links**.
 8. **Closing** — short **“where next”**: Common Questions, timeline hubs, or **§** anchors in dossiers (e.g. “start in **§2.1**”).
-9. **Optional `## Framing and limits` (or `## Scope and limits`)** — **At most one** such section, placed **after** **Where next** and **before** `Keywords:`, when in-file boundaries help (what is **not** being claimed, what lives in **Limits**, consensus vs synthesis). **Do not** scatter the same hedges through earlier `##` sections; that **muddies** the narrative. If the dossier already carries the full caveat stack, a **single** link line here is enough.
+9. **Optional `## Framing and limits` (or `## Scope and limits`)** — **At most one** such section, placed **after** **Where next** and **before** `Keywords:`, when in-file boundaries help. **Prose paragraphs only** — no pipe tables, no tier grids, no bold-lead claim stacks. Group **documented** vs **author thesis** in flowing sentences and **link** the dossier for the full audit trail. If the dossier already carries the full caveat stack, a **single** link line here is enough.
 10. **`Keywords:`** — one line, **Option B** (see `PARADIGM_INVESTIGATION_INSTRUCTIONS.md`): `#PascalCase` tokens only, **no** `## Keywords` heading.
 11. **`**Last updated:**`** — ISO timestamp when the article changed materially: prefer full **`YYYY-MM-DDTHH:MM:SS±offset`** (e.g. `2026-05-23T09:18:22-04:00`); date-only `YYYY-MM-DD` is acceptable for minor touch-ups.
 12. **Attribution footer (required — do not remove in de-LLM passes)** — After `**Last updated:**`, a horizontal rule `---`, then an *italic* one-liner, for example:  
     *Written and narrated by Ari Asulin, with drafting and research support from LLM agents.*  
     Minor wording drift is fine; **keep the name** and the fact that **LLM tools** helped produce the page. **This footer is intentional credit**, not an “LLM artifact” to delete when scrubbing machine cadence. It **replaces** repeated “**as the writer**,” “**my position**,” or “**who is speaking**” throat-clearing in the body.
 
-**Pre-publish pass (easy misses):** The line **immediately after** `# Title` must be the **subtitle** (plain text, before any `![` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede.
+**Pre-publish pass (easy misses):** The line **immediately after** `# Title` must be the **subtitle** (plain text, before any `![` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**).
 
 ---
 
@@ -139,7 +140,7 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 
 ## What we avoid in articles
 
-- **Markdown pipe tables** — Substack and similar editors break them on paste; use **prose**, **dossier links**, or **PNG/SVG** embeds instead (see **Tables, lists, and catalog prose**).
+- **Markdown pipe tables (anywhere in the file)** — Substack breaks them on paste; **never** in articles. Use **prose paragraphs** in **`## Framing and limits`** too; tier grids belong in **`investigations/`** (see **Tables, lists, and catalog prose**).
 - **Catalog lists and bold-lead stacks** — `**Rousseau** — …` / `**1910** — …` / bullet galleries of names, works, or eras that belong in a **paragraph** or in the **dossier**. Exception: **short numbered** how-to or phase lists (≤5 items). If you are tempted to write “literature review as bullets,” **rewrite as two paragraphs** and link the dossier §9-style map.
 - **Wall of acronyms** without gloss—spell out once, then abbreviate if needed.
 - **Paste-dump** of URLs with no integration in the sentence.
@@ -170,4 +171,4 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 
 ---
 
-**Last updated:** 2026-05-23T09:18:22-04:00 (attribution footer policy; de-LLM vs keep LLM credit; no local paths in Substack articles)
+**Last updated:** 2026-05-23T09:35:00-04:00 (no pipe tables in articles; Framing and limits = prose)
