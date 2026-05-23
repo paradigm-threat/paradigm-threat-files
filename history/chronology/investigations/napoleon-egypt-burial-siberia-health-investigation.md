@@ -115,6 +115,34 @@ Napoleonic armies carried **mercury** compounds — **calomel**, purges, surgica
 
 **Celebrity conspiracy lane:** Repo web pass (**2026-05-24**) found **no** credible primary tying **red mercury** to **celebrity wellness** narratives — only **unrelated** celebrity property press and **1990s** **scam/export** journalism. **Absence** is **not** disproof of **Napoleonic belief**; it fits **redaction** read.
 
+#### Fiction — *Red Mercury* (Max Barclay, 1996)
+
+![Red Mercury — Max Barclay, 1996 (cover supplied by Ari)](https://paradigmthreat.net/history/chronology/investigations/red-mercury-max-barclay-1996-cover.png)
+
+| Field | Value |
+|-------|--------|
+| **Title** | *Red Mercury: A Novel* |
+| **Author** | **Max Barclay** |
+| **Year** | **1996** |
+| **ISBN-13** | **978-0787109202** |
+| **ISBN-10** | **0787109207** |
+| **Publisher** | **Dove Books** (West Hollywood, CA); listings also cite **Newstar Pr** |
+| **Format** | Hardcover ~398 pp.; English |
+| **Blurb (Amazon / retail)** | Mack McFall traces **weapons-grade nuclear material** stolen from **Russia** to **Atlanta** and a planned **terrorist attack on the Olympic Games** |
+| **Cover quote** | Scott Turow: *“riveting—and likely to make you think twice about a trip to the Olympics.”* |
+
+**Tier:** **Fiction** — **post–Cold War “red mercury” scam / bomb myth** lane ([Wikipedia](https://en.wikipedia.org/wiki/Red_mercury), [New Scientist 1992](https://www.newscientist.com/article/mg13418241-900-only-fools-still-hunt-for-elusive-red-mercury/)), **not** proof of **Napoleonic blood-energy red mercury** (§2.7 author thesis). **Why file it here:** keeps the **phrase** *red mercury* in the investigation bibliography; shows **Camp B pop culture** treating the name as **nuclear-terror MacGuffin** while **this repo’s Camp A read** treats **red mercury** as **field medicine / blood-energy** — same words, **split tiers**.
+
+**Anna’s Archive — how to find (mirror may rotate):**
+
+1. Open **https://annas-archive.org** (or current `.gs` / `.se` mirror if the main site is down).
+2. Search **`9780787109202`** or **`Red Mercury Max Barclay`**.
+3. Filter **language: English**; prefer **ISBN match** on the detail page.
+4. Download **EPUB** or **PDF** if listed; verify title/author/year before citing.
+5. Local mirror convention (if downloaded): `~/dev/wget/red-mercury-max-barclay-1996/` with `INDEX.md` noting ISBN and acquisition date.
+
+**Repo copy:** cover only — `history/chronology/investigations/red-mercury-max-barclay-1996-cover.png`. **Text:** not in repo until Ari mirrors from Anna’s Archive.
+
 #### Author thesis — investigation assumes red mercury **works**
 
 > **Supplied stance:** It is **not** “any mercury.” It is **red mercury**. Modern scientists **do not believe it exists**, or **deny** the **properties** attributed to it. **This investigation assumes it does work** as **Camp A operating doctrine**. **Evidence tier for that assumption:** **Napoleon’s entire army of physicians and scientists behaved as if it worked** — **Jaffa**, **Gros**, **ward confidence**, **pharmacopoeia aggression** — whether or not **1900s guilds** later **defined the compound out of existence**.
@@ -202,6 +230,7 @@ Famines, genocide, vaccines/genome, Flexner, eugenics → COVID — **dossier de
 - Plague/Gros/Desgenettes — [napoleon-plague](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md)  
 - Roytas 2024 — `~/dev/wget/roytas-2024-can-you-catch-a-cold/`; note **8** = Winterbottom 1828  
 - Curie — [marie-curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md)  
+- *Red Mercury* novel — Barclay **1996**, ISBN **978-0787109202** (§2.7 fiction tier; Anna’s Archive)
 
 ---
 
@@ -254,6 +283,7 @@ Famines, genocide, vaccines/genome, Flexner, eugenics → COVID — **dossier de
 | Q8 | **Red mercury** by name — Napoleonic, alchemical, or **French military** primary | **Open** |
 | Q6 | **Curie** / French Army — therapeutic vs diagnostic field radiation | **Open** |
 | Q7 | **Radiation cure** evidence **before 1914** (any army) | **Open** |
+| Q9 | Read **Barclay 1996** *Red Mercury* — any overlap with **blood-energy** thesis vs **bomb hoax** only | **Open** |
 
 ---
 
@@ -282,4 +312,5 @@ Keywords: #TwoCampsMedicine #GrosJaffa #FrenchWarMedicine #RedMercury #Mercury #
 
 - Roytas: `~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`  
 - Fomenko: `~/dev/wget/chronologia.org/en/chronologia5/empire19_05.html`  
-- Quote PNG: `history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png`
+- Quote PNG: `history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png`  
+- Barclay cover: `history/chronology/investigations/red-mercury-max-barclay-1996-cover.png` — text hunt: Anna’s Archive **`9780787109202`**
