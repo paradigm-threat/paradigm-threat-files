@@ -1,8 +1,44 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-23T00:22:59.535Z",
+    "date": "2026-05-23T11:40:55.456Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
+        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
+        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
+      },
+      {
+        "status": "M",
+        "path": "science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md",
+        "href": "/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
+        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
+        "alt": "Roytas 2024 — Can You Catch a Cold? on Anna’s Archive (book hunt for footnote 8)"
+      },
+      {
+        "src": "/science/health/investigations/napoleon-plague-murad-bay-screenshot.png",
+        "alt": "Napoleon plague Murad Bay screenshot — book page under investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-23T00:22:58.000Z",
+    "message": "Link timeline prisca sapientia article from docs and discovery hubs.",
     "files": [
       {
         "status": "M",
@@ -2877,40 +2913,6 @@
       {
         "src": "https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.png",
         "alt": "The Real Ghostbusters — ethereal noise, proton-pack kitsch, and the counter-program beneath the comedy"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-15T14:10:52.000Z",
-    "message": "Fix Iran mission article: restore hero, runner, and Coda image embeds.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/mission-accomplished-again-iran-2026.md",
-        "href": "/governance/war/mission-accomplished-again-iran-2026"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
-        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
-        "alt": "Iran war runner — timeline, dual track, and regional map"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map.png",
-        "alt": "Iran war runner — theater map (Hormuz, Gulf, and adjacent land)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
-        "alt": "Iran war runner — Strait of Hormuz detail (theater map)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/ww2-mission-failed.png",
-        "alt": "WW2 — mission failed vs victory story (Coda lane)"
       }
     ]
   }

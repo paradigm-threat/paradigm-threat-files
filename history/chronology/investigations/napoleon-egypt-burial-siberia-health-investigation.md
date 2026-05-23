@@ -1,8 +1,8 @@
 # Napoleon, Egypt dry burial, French elite science, Siberia disease, Curie, and radiation–mutant memory
 
-> **TL;DR:** Dossier for [A history lesson on the time Napoleon carried around corpses](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md). **Curie 1914–18** ≠ between First/Second Empire. **Pyramids** shelter/hospital until **11th c.** (author + Kerrell/Goggin/Les Brown only). **Fomenko** Styx/Egypt burial: `chronologia.org/en/chronologia5/empire19_05.html`. **Curie DU** = author belief. **Zelensky** = proxy WW1+WW2 ([reverse crusades](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md)). **Roytas** Ch 11 — note **8** = **Winterbottom 1828** (`~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`).
+> **TL;DR:** Dossier for [Napoleon corpses article](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md). **Author (2026-05-23):** real **herd immunity** (healthy cohorts resist + share antibodies) vs **vaccine dogma**; **Egypt** = peak confidence/terrain, **Russia** = depletion/disease; virology denies healthy avoidance since **COVID**. **Curie 1914–18** ≠ between empires. **Pyramids** shelter/hospital until **11th c.** (author + Kerrell/Goggin/Les Brown only). **Fomenko** Styx/Egypt burial: `chronologia.org/en/chronologia5/empire19_05.html`. **Curie DU** = author belief. **Zelensky** = proxy WW1+WW2 ([reverse crusades](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md)). **Roytas** Ch 11 — note **8** = **Winterbottom 1828** (`~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`).
 
-**Status:** Open — lay article updated 2026-05-22; Roytas **Ch 11** on disk; **note 8 = Winterbottom 1828**; Winterbottom primary pending.
+**Status:** Open — article **2026-05-23** herd-immunity / Egypt–Russia contrast; Roytas note **8** = Winterbottom 1828; Winterbottom primary pending.
 
 **Lay article:** [napoleon-corpses-dry-egypt-siberian-disease.md](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md)
 
@@ -11,15 +11,16 @@
 ## Guide (read order)
 
 1. **French chronology (corrected)** → §1  
-2. **Author thesis — elite science / Curie / Byers / Flexner** → §2  
-3. **Pyramids until 11th c. (author + pyramid-energy sources only)** → §3  
-4. **Fomenko Egypt — Styx, burial (wget mirror)** → §4  
-5. **Siberia, mutants, Russia parallels** → §5  
-6. **Population + captured technology** → §6  
-7. **Documented anchors** → §7  
-8. **Health cross-links** → §8  
-9. **Ari answers (2026-05-22)** → §9  
-10. **Open questions** → §10  
+2. **Author thesis — herd immunity, Egypt vs Russia, virology, vaccines** → §2  
+3. **Elite science / Curie / Byers / Flexner** → §2b  
+4. **Pyramids until 11th c. (author + pyramid-energy sources only)** → §3  
+5. **Fomenko Egypt — Styx, burial (wget mirror)** → §4  
+6. **Siberia, mutants, Russia parallels** → §5  
+7. **Population + captured technology** → §6  
+8. **Documented anchors** → §7  
+9. **Health cross-links** → §8  
+10. **Ari answers** → §9  
+11. **Open questions** → §10  
 
 ---
 
@@ -38,7 +39,43 @@
 
 ---
 
-## 2. Author’s originating thesis — overconfidence, Curie, radiation corridor
+## 2. Author’s originating thesis — herd immunity, virology, Egypt vs Russia, gene code word
+
+**Source:** Ari (2026-05-23), captured in [lay article § Virology / Egypt / Russia / scientists](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md).
+
+### 2.1 Virology and the healthy person
+
+**Author claim:** The biggest issue disease **virologists** have is that they **do not believe** a **healthy person can avoid being infected**—and if they ever did, they **absolutely stopped** believing it in recent times since **COVID**.
+
+**Unpack:** Institutional germ theory treats everyone as a passive vessel; “breakthrough” infection after injection is normalized rather than treated as falsification of product-centric herd models.
+
+### 2.2 Real herd immunity vs vaccine dogma
+
+**Author claim (verbatim sense):** Healthy **children** and healthy **adults** usually **resist** “viruses” and **generate antibodies for everyone around them**. That is **real herd immunity**, lost in **vaccine dogma** and replaced by **vaccine-based herd immunity**. Regardless of how a virus label entered the story, the **herd generates and shares its own antibodies** and needs **no further intervention**.
+
+**Unpack:** Collective immune tone vs schedule compliance; rhymes Roytas / anticontagion human experiments and [ætheric disease](/science/health/viruses-were-never-found-only-aetheric-disease.md) lane—not proven as mechanism here.
+
+### 2.3 Napoleon in Egypt vs Russia
+
+**Author claim:** After conquering **Egypt**, Bonaparte’s army had **strength** and **highest confidence**—they would **not** be “getting sick” to any serious degree; few agents in the region were that dangerous **to Europeans**. **Russia** (retreat, **exile**, harsh conditions) was the **weakest point**; they **fell victim to disease** in a way **health and confidence could not prevent**.
+
+**Documented tension:** ~**1,700** plague dead on Egyptian/Syrian campaign ([plague investigation](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md)) vs author **terrain/confidence** frame. Dossier holds **both**: mass illness attested; **contrast** Egypt peak tone vs 1812 depletion is author synthesis.
+
+### 2.4 Scientists’ fork — truth vs eugenics perception
+
+**Author claim:** Scientists could tell the truth or **hide facts** to obtain the **perception** they wanted—rhyming **communism**, **eugenics**, and **“quality of genes”** as code for **population control**, elimination of **non-royal bloodlines**, a **new world order** where nobody could **cross into** the “correct” bloodline to resist **cultural viruses** that lead to **war and famine**.
+
+**Unpack:** Structural capture thesis; cross-link [Europe white-bloodline](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md), [virus-media](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md). **Not** a claim that every modern geneticist holds this intent.
+
+### 2.5 Vaccine dependency loop
+
+**Author claim:** The body relies on the **external recipe**, stops trying to **hold its own tone**, expects more external recipes; **vaccinated** people tend to **need** ongoing vaccination to stay “healthy,” while **unvaccinated** people who never entered the cycle **never start** the downward loop.
+
+**Unpack:** Dependency / learned helplessness frame; cite as **author health thesis**, not epidemiological proof in this file.
+
+---
+
+## 2b. Elite science rhyme — Curie, Byers, Flexner, radiation corridor
 
 Napoleon **rhymes** Curie-era **miracle medicine**—not causal. **Personal belief (in article):** Curie **cured** with radiation; **DU-class** harm **removed** her; public kept **martyr** mask.
 
@@ -70,7 +107,7 @@ Napoleon **rhymes** Curie-era **miracle medicine**—not causal. **Personal beli
 
 ## 5. Siberia, mutants, Russia parallels
 
-**1812** terrain × science; chestnut = analogy only.
+**1812** = author **depletion** mirror to Egypt **confidence** (§2.3); documented typhus/dysentery/cold on retreat.
 
 **Mutants (dossier TODO):** Hulk 1962, FF 1961, Spider-Man 1962, X-Men — article names releases.
 
@@ -100,10 +137,15 @@ Napoleon **rhymes** Curie-era **miracle medicine**—not causal. **Personal beli
 
 ---
 
-## 9. Ari answers (2026-05-22)
+## 9. Ari answers
 
 | Q | Answer |
 |---|--------|
+| Herd immunity thesis | **2026-05-23** — in article § Virology / Egypt / Russia; §2.1–2.5 here |
+| Virology / COVID | Healthy person **can** avoid infection; institutional virology **denies** or **abandoned** since COVID |
+| Vaccine vs natural herd | **Vaccine dogma** replaced collective antibody sharing; dependency loop |
+| Egypt vs Russia | **Confidence/terrain** Egypt vs **exile/depletion** Russia |
+| Gene / eugenics code | **Author synthesis** — population control, bloodlines, NWO framing |
 | Pyramid sources | **Only** pyramid-energy investigation + author theories |
 | Name experimenters | **Yes** — Kerrell, Goggin, Les Brown in article |
 | Fomenko wget | **`~/dev/wget/chronologia.org`** — `empire19_05.html` etc. |
@@ -145,9 +187,9 @@ Napoleon **rhymes** Curie-era **miracle medicine**—not causal. **Personal beli
 
 ---
 
-Keywords: #NapoleonCorpses #PyramidHospital #FomenkoEgypt #Roytas2024 #MarieCurie #ZelenskyProxyWar #ParadigmThreatFiles
+Keywords: #NapoleonCorpses #HerdImmunity #VaccineDogma #PyramidHospital #FomenkoEgypt #Roytas2024 #MarieCurie #ZelenskyProxyWar #ParadigmThreatFiles
 
-**Last updated:** 2026-05-22
+**Last updated:** 2026-05-23
 
 ---
 
@@ -157,7 +199,7 @@ Keywords: #NapoleonCorpses #PyramidHospital #FomenkoEgypt #Roytas2024 #MarieCuri
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-Author thesis first-class; not automatic fact. **DU assassination** = Ari belief. **Fomenko** passages cited from NC mirror. Full plague tiers: [napoleon-plague Limits](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md).
+Author thesis first-class; not automatic fact. **Herd immunity / vaccine dependency / gene-code-word** blocks = **author synthesis**, not virology consensus. **DU assassination** = Ari belief. **Fomenko** passages cited from NC mirror. Full plague tiers: [napoleon-plague Limits](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md).
 
 ## Investigator notes
 

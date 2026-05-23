@@ -298,7 +298,8 @@ flowchart LR
 | [Exorcism / disease / colonial memory](/influence/religion/exorcism-demonology-disease-colonial-memory-investigation.md) | Demon–disease **overlap** without single origin at crusades |
 | [Napoleonic artillery / airship (open)](/governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md) | Same **Napoleonic** technology-memory lane (weak direct tie) |
 | [Napoleon — Egypt, Siberia, Curie (dossier)](/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md) | Elite science hubris, corrected French dates, Fomenko Egypt, mutant PP |
-| [Lay article — Napoleon carried corpses](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md) | Reader essay — Gros, empires, Curie rhyme, captured medicine |
+| [Lay article — Napoleon carried corpses](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md) | Reader essay — Gros, empires, **herd immunity / Egypt vs Russia** (2026-05-23), Curie rhyme |
+| [Napoleon Egypt dossier](/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md) | §2.1–2.5 author thesis tiers (virology, vaccine dogma, gene code word) |
 
 **Thematic (not proof):** Roytas paragraph supports **terrain/anticontagion** readers who already doubt COVID isolation headlines; Paradigm Threat should **cite the book** when discussing the screenshot, and **decompose** errors so the strong parts (Desgenettes experiment, morale theater) are not lost in debunk of the weak parts (Murad Bay, zero mortality).
 
