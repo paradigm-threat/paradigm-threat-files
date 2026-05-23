@@ -19,7 +19,7 @@ Open conspiracy-research hub that challenges mainstream paradigms across history
 
 ## Paradigm Threat Project
 
-The goal of Paradigm Threat is to pose an **intellectual challenge** to the reigning paradigms of every discipline — history, cosmology, medicine, physics, religion, finance, governance — using sourced research, cross-referenced chronologies, and a willingness to follow the evidence wherever it leads. Investigations and articles assume [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md): the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded—not that every modern textbook is an upgrade. Armed with history and ready to debate.
+The goal of Paradigm Threat is to pose an **intellectual challenge** to the reigning paradigms of every discipline — history, cosmology, medicine, physics, religion, finance, governance — using sourced research, cross-referenced chronologies, and a willingness to follow the evidence wherever it leads. Investigations and articles assume [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md) ([timeline overview article](https://paradigmthreat.net/timeline/evt-prisca-sapientia)): the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded—not that every modern textbook is an upgrade. Armed with history and ready to debate.
 If you're like me, you've noticed by now that the majority of
 [influence/conspiracy-theory](https://www.infowars.com/)
 channels in the western world have become (or have always been)
@@ -105,6 +105,7 @@ or *not* believing.
 
 #### History
 
+* [Prisca sapientia (timeline)](https://paradigmthreat.net/timeline/evt-prisca-sapientia) — Epistemic foundation: ancient wisdom degraded, not superseded; [reference doc](/docs/PRISCA_SAPIENTIA.md).
 * [Artemis II](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) — Faith test vs science milestone; staged-production readings; press patterns.
 * [Etana, the Sumerian King List, and "Wheels in the Sky" Testimony](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md) — Open: king list, sky wheels, Saturnian reinterpretation.
 * [Europe: white bloodline, complexion, whitewash](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) — Fomenko + author thesis; taxonomy of non-white labels; Atlantis/MFEE/Europe redoubt.
@@ -365,6 +366,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 
 * [MudFlood Energetic Event Hypothesis](/history/mudflood)
 * [The Deep State is on Mars](/cosmos/mars)
+* [Prisca sapientia (timeline overview)](https://paradigmthreat.net/timeline/evt-prisca-sapientia) — Ancient wisdom as epistemic foundation for the alternate timeline.
 * [Earth History Timeline Reconstruction](/history/chronology)
 * [Stolen Credit in Media — Plagiarism as Control](/influence/stolen_credit)
 * [Microchips: Nobody Knows How They're Made](/science/microchips/microchips-shrinking-technology-investigation) — Major finding: deliberate worldwide system of control

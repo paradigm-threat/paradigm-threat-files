@@ -1,5 +1,7 @@
 # Prisca sapientia — epistemic foundation of Paradigm Threat
 
+**Timeline article:** [Prisca sapientia](/timeline/evt-prisca-sapientia) (`content/00.overview/00.01.02-prisca-sapientia.md` in **paradigm-threat-timeline**).
+
 **Prisca sapientia** (Latin: “ancient wisdom”) names the **default assumption** behind Paradigm Threat investigations and reader-facing articles: the **ancients** possessed a **vast, profound** understanding of the **universe**, **nature**, and **theology** that was **subsequently lost or degraded**. Later institutions—especially **modern consensus science**, **licensed medicine**, **chronology**, and **state-aligned history**—are read as **often wrong, incomplete, or captured**, not as automatic upgrades over what came before.
 
 This is a **historical and philosophical** stance, not a claim that every ancient text is literally correct on every point. Investigations **still tier evidence** (primary, secondary, author thesis, speculative). **Prisca sapientia** sets **which direction the burden of proof leans**: when old and new conflict, **degradation and redaction** are **live hypotheses**, not crankery by default.
