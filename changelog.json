@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-23T14:09:30.442Z",
+    "date": "2026-05-23T14:14:04.333Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/nukes/investigations/red-mercury-barclay-1996-novel-investigation.md",
+        "href": "/science/nukes/investigations/red-mercury-barclay-1996-novel-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-23T14:09:29.000Z",
+    "message": "Add predictive-programming thesis to Red Mercury novel investigation.",
     "files": [
       {
         "status": "M",
@@ -2456,43 +2469,6 @@
       {
         "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade-warfare.png",
         "alt": "Mass schooling and warfare — collectivist grading, factory cohorts, fear-driven compliance"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-21T15:59:33.000Z",
-    "message": "Expand childhood schooling article and investigation; prose article guidelines.",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/instructions/ARTICLES.md",
-        "href": "/docs/instructions/ARTICLES"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md",
-        "href": "/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/when-your-child-wont-fit-the-grade.md",
-        "href": "/history/chronology/when-your-child-wont-fit-the-grade"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
-        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png",
-        "alt": "When your child won’t fit the grade — schooling, conformity, and parent advice"
       }
     ]
   }
