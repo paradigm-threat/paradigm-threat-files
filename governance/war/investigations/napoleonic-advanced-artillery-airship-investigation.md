@@ -148,6 +148,7 @@ All remain low confidence until metallurgical acoustic modeling or a period tech
 
 - [French Revolution — investigation](french-revolution-investigation.md)
 - [Reverse Crusades — comparison](reverse-crusades-comparison.md)
+- [Ship-shaped airships — Earth lift (Category A)](ship-shaped-airships-earth-elevating-technology-investigation.md)
 - [US Civil War — investigation](us-civil-war-investigation.md) (Verne / heavy artillery theme, different war)
 
 ---

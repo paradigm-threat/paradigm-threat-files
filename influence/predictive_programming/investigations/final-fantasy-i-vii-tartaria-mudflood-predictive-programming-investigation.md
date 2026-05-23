@@ -26,6 +26,7 @@
 | [Chronology / Tartaria hub](/history/chronology/page.md) | Rus–Horde **“Tartarian”** empire imagery — **compare** *FF*’s **floating continents**, **warring magitek states**, **buried golden-age tech**. |
 | [Tartarian Maps Investigation](/history/mudflood/investigations/tartarian-maps-investigation.md) | Map discontinuity / **forbidden geography** discourse — **rhymes** *FFVI* world-break **cartography** (**speculative**). |
 | [MFEE / mud-flood investigations](/history/mudflood/investigations/mfee-investigation.md) | Energetic **reset**, buried strata — **language hook** for §4. |
+| [Ship-shaped airships — Earth lift](/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md) | **Category A** buried hulls; **Vector** **≈** **Tartaria** **empire** **end-state**; **Falcon** **tomb** **↔** **§5** |
 | [OC ReMix / Spirits Within](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) | **Film** spin-off + fan-edit ethics — **not** core **I–VII** canon but logged **peripheral**. |
 
 ---

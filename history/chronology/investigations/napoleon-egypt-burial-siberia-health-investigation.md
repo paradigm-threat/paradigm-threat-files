@@ -2,7 +2,7 @@
 
 *Investigation dossier (formerly Egypt/Siberia/radiation–mutant file) for the lay article.*
 
-> **TL;DR:** Dossier for [Two Camps of Medicine (lay article)](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md). **Spine:** Camp A (terrain, morale, demonstrated cures, suppressed modalities) vs Camp B (invisible agents, germ saints, diagnostic-only radiation, vaccine dogma). **Jaffa/Gros** = **felt invincibility** from advanced kit (author); [plague dossier](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md) still tiers Gros as **state propaganda** for forensics. **Mercury** = documented Napoleonic pharmacopoeia trace; **radiation cure since Napoleon → Curie** = author thesis. **Curie 1914–18** rhymes Jaffa; **bullet-only** story = author finds preposterous. **Egypt** arrogance / **Russia 1812** reckoning. **Semmelweis** + ***Twelve Monkeys*** close. Roytas note **8** = Winterbottom 1828 (`~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`).
+> **TL;DR:** Dossier for [Two Camps of Medicine (lay article)](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md). **Spine:** Camp A (terrain, morale, demonstrated cures, suppressed modalities) vs Camp B (invisible agents, germ saints, diagnostic-only radiation, vaccine dogma). **Jaffa/Gros** = **felt invincibility** from advanced kit (author); **airships + siege hardware** = dominant layer ([ship-shaped airships investigation](https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md)); [plague dossier](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md) still tiers Gros as **state propaganda** for forensics. **Mercury** = documented Napoleonic pharmacopoeia trace; **radiation cure since Napoleon → Curie** = author thesis. **Curie 1914–18** rhymes Jaffa; **bullet-only** story = author finds preposterous. **Egypt** arrogance / **Russia 1812** reckoning. **Semmelweis** + ***Twelve Monkeys*** close. Roytas note **8** = Winterbottom 1828 (`~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`).
 
 **Status:** Open — article **2026-05-24** two-camps refocus; Q5 mercury campaign primary; Q6 Curie therapeutic archives.
 
@@ -107,6 +107,14 @@
 **Author thesis:** **Radiation battlefield cure** may predate Curie; **1914–1918** **petites Curies** later redacted to **bullet-finding only**—author finds that **preposterous** as the full account. **Not documented** in-repo for **1799**.
 
 **Research backlog (Q6):** French military archives, Curie correspondence, *Service de Santé* WWI logs for **therapeutic** intent vs **diagnostic** only. See [marie-curie investigation](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) §2.
+
+### 2.9 Ship-shaped airships — invincibility hardware (2026-05-24 cross-read)
+
+**Author thesis (major):** French **felt invincibility** is **not** explained by **medicine alone**. **Ship-shaped Earth-tech airships** (boat/canoe hulls under gas envelopes), **healing radiation**, and **unstoppable siege weapons** ([Napoleonic artillery / airship dossier](/governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md)) formed the **dominant hardware layer** behind **operational aura** on campaign.
+
+**1812 counter-read:** **Russia** sacrificed **Moscow / Kremlin** (NC: **Jerusalem reconstruction**) to deny French **air + siege** geometry; **retreat** = **guerrilla** negation of **lift superiority** + **leadership abandonment** (~600k) — rhymes **Vietnam / Afghanistan / WWII Eastern Front**; **class-gated tech** evacuated with **top minds** (**airships** included).
+
+**Lay + dossier:** [Ship-shaped airships article](https://paradigmthreat.net/history/chronology/ship-shaped-airships-tataria-lift-technology.md) · [investigation §5](https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md#5-napoleon-1812--airships-invincibility-kremlin-retreat-class-abandonment)
 
 ---
 
