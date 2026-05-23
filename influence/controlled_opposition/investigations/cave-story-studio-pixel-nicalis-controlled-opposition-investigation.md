@@ -269,6 +269,10 @@ Keywords: #CaveStory #Undertale #StudioPixel #Nicalis #CSE2 #ControlledOppositio
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 **Publication hygiene:** Private research file — **not** legal advice; **not** a regulatory or journalistic certificate of fact. §1 is investigator hypothesis and accusatory moral reading preserved on purpose — **not** a judicial finding that named individuals committed fraud, breach of contract, RICO, criminal conspiracy, or any crime. Nintendo, organized crime, and state-level “vassalship” references in §1.2 are macro-theoretical language in this file — no named handler network is asserted as proven for *Cave Story*.
 
 **Defamation guardrail:** If any sentence reads as a settled factual accusation against a living person, treat that as labeling defect pending revision — intent is to house investigator thesis with counterweights in §5.

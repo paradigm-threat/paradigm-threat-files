@@ -356,6 +356,10 @@ Keywords: #MikeUyama #SpeedDemosArchive #GamesDoneQuick #MSF #DoctorsWithoutBord
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 **Publication hygiene (defamation risk — non-legal):** This document is **private research** in a team repo. It is **not** legal advice and **not** a journalistic or regulatory **finding-of-fact** certificate. Statements about **named, living people** are either **(a)** **attributed** quotes or links to **third-party** or **primary** sources, or **(b)** **explicitly labeled** author **hypothesis**, **opinion**, or **memory** — **not** the conclusions of a **court**, **regulator**, or **employer**. **No** **defamatory** **intent** is intended; if any passage could be read as a **settled** **factual** **accusation** of **crime** or **fraud**, treat that as a **labeling** defect **pending** **revision** unless **sourced**.
 
 **Allegations of fraud** against **named individuals** are **not** proven here. **MSF** **controversies** are **reported** tiers — **not** uniform condemnation of aid work. **“Globalist”** language is **author thesis** in **§4.5**, not **neutral** IR terminology. **§4.8** **film** analogy and **worst-case** **MSF** **memory** are **opinion** — **not** findings that **MSF** **supported** **terrorism** or **torture**. **§3.1** **Discord** **language** **mirrors** **[OC ReMix §7.2 limits](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md)** — **platform** **thesis** **only**, **not** **accusations** **against** **named** **Discord** **staff** **without** **sources**.

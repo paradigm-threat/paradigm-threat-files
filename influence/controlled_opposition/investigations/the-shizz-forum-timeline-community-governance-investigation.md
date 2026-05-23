@@ -170,3 +170,9 @@ Cross-read anchors for this pattern language: **[OC ReMix §5](/influence/contro
 ## 8. One-line integrity statement
 
 **Firsthand trauma is not treated as gossip** — **identity stays protected** and **details stay off the page** beyond **§1**’s thematic shape. **This file still refuses** **spectacle amplification** (names, scrapbooking tragedy for clicks). Where shock intersects governance critique, **scope stays structural**: **who holds keys**, **who profits**, **who bears risk**, and **who gets silenced afterward**.
+
+---
+
+## Limits and disclaimers
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.

@@ -356,6 +356,10 @@ Keywords: #PredictiveProgramming #VirusMedia #GenomeCausality #ZombieEtiology #R
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - **Fiction ≠ forecast** — listed patterns are **conditioning hypotheses**, not proof any title **predicted** a specific outbreak.  
 - **Plot summaries** may vary by **cut** / **localization**; corrections welcome in §8.  
 - **Not** a complete filmography.  

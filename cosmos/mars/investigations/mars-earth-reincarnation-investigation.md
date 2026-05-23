@@ -173,5 +173,8 @@ Question: Do **increases** in Mars–Earth reincarnation reports (or in cultural
 
 ---
 
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 Keywords: #Mars #Reincarnation #Mass #Death #Souls #Reborn
 

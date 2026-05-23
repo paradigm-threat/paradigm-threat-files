@@ -76,6 +76,10 @@ We gave industry something close to total faith and almost no audit—the way Be
 
 ## Framing and limits
 
+
+
+**Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
+
 What precedes is thesis and pattern language, not a chronological industry history with balanced accounting for every platform. Legal outcomes, kernel lineages, and executive intent are named where they serve the argument and left for specialists elsewhere. The full quantum storage dossier carries tier discipline, open questions, and Limits; hallucination risk applies to LLM-assisted research the same way it applies anywhere else.
 
 Keywords: #QuantumLeap #VectorGraphics #AnalogSignal #ComputingHistory #WalledGarden #QuantumComputer #KnowledgeAccess #ParadigmThreatFiles

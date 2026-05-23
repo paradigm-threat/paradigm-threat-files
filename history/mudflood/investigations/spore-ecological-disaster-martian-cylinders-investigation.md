@@ -378,4 +378,7 @@ See `[~/dev/wget/Thomas-M-Disch/The-Genocides-chapter-index.md](/home/ari/dev/wg
 
 ---
 
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 Keywords: #Spores #Ecological #Disaster #Martian #Cylinders #Mudflood #Pern #Nausicaa #Chestnut #Blight #Redweed #Predictive #Programming #Ballard #Disch #Genocides #Bradbury #Cellar #Wells #Panspermia #Lineage #Register #Cascade #Dieoff #Termites #Burning #World

@@ -289,6 +289,10 @@ Keywords: #Europe #NorthAmerica #WhiteBloodline #Complexion #Whitewash #Fomenko 
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - **Author thesis §2** is **first-class** for Paradigm Threat but **not** established history or genetics.  
 - **“Non-white”** in §3 includes **author-defined status categories** — do not treat as slur directed at modern groups.  
 - **Fomenko** is cited only where marked; mainstream historians reject NC.global conclusions.  

@@ -132,5 +132,8 @@ This section does not require “deepfake sci-fi” to be plausible. It relies o
 
 ---
 
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 Keywords: #Netanyahu #Faked #Death #Shiva #Rumors #Want #Motive #Iran #Narrative
 

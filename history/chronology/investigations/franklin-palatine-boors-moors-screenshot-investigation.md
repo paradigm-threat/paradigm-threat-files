@@ -193,6 +193,10 @@ Keywords: #Franklin #PalatineMoors #PalatineBoors #Observations1751 #BenjaminFra
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - **Author thesis sections** in related files (Horde fracture, Deep State redaction) are **investigative**, not established fact.  
 - **Franklin** was a slaveholder earlier in life and later abolitionist-leaning; this file does not resolve his full moral arc.  
 - **“Moor”**, **“swarthy”**, and **“black”** are **18th-century English** categories — not modern US racial taxonomy.  

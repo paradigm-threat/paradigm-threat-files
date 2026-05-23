@@ -124,6 +124,10 @@ Keywords: #HalfLife #HalfLife2 #Combine #Xen #CERN #PredictiveProgramming #Trans
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 **Fiction vs evidence:** Valve fiction is **not** proof of **CERN** operational methods, **real** extraterrestrial empires, or **actual** planetary interiors.
 
 **Comparative SF:** **Borg** / **Combine** parallels are **narrative pattern** study; they do **not** map onto **real-world** ethnic, national, or religious groups.

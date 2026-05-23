@@ -107,6 +107,10 @@ Keywords: #Terranigma #Beruga #PredictiveProgramming #VideoGames #Quintet #JRPG
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 **Fiction vs evidence:** This dossier treats *Terranigma* as **cultural material** and **pattern data**. It does **not** assert that Quintet or Nintendo affiliates **planned** real-world bioweapons, religious conflict, or geopolitical outcomes.
 
 **Thematic rhymes:** Links to **Russophobia**, **Islamophobia**, or **biblical** decoding are **hypothesis-tier** where labeled; they are **not** accusations against any **real-world** nation, faith, or people.

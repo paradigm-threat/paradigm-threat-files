@@ -135,6 +135,10 @@ Keywords: #AnthonyOfBoston #Mars360 #AresLeMandat #ParadigmThreatFiles #Mars
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 This dossier maps **public URLs and catalog metadata**. It does **not** assert that Mars causes crashes, violence, or theological events. **Author thesis** sections in Paradigm Threat files are **first-class for navigation** but **not** automatic fact. Third-party citations (forums, Prespacetime) indicate **who repeated the claims**, not independent replication.
 
 ---

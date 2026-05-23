@@ -143,6 +143,10 @@ Adjacent critiques scatter across vacuum-lensing challenges, intrinsic redshift 
 
 ## Framing and limits
 
+
+
+**Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
+
 - **Speculative vs documented:** Hall-of-mirrors multiplicity, galaxy misclassification, one-force gravity, hollow-Earth gravity variants, **and** cognition-at-distance anecdotes are **not** presented as adjudicated physics in this repo article. They are **author-position exploratory extensions** flagged here in one batch per site style.
 - **Original theory:** means **novel synthesis composition** within current sweep, not mathematical uniqueness proof.
 - **Mainstream anchors:** Atmospheric refraction, mirage optics, spectroscopy, gravitational lensing, and standard cosmology remain valid in their regimes; this model disputes **exclusive extrapolation imperialism**, not every local measurement.

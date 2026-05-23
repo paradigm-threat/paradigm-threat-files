@@ -171,6 +171,10 @@ The triangle that came over my house at 1:24 AM on 22 April 2014 was almost cert
 
 ## Framing and limits
 
+
+
+**Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
+
 The April 22, 2014 Phoenix triangle is first-person witness testimony, corroborated by roommates and paired with an independent same-night MUFON-credited Phoenix witness from [Filer's Files #17 – 2014](https://nationalufocenter.com/2014/04/filers-files-17-2014-cylinder-ufos/); it does not rise to instrumented proof. The hero image is an author-made reconstruction graphic, not a photograph of the event. The Mars breakaway-civilization model (Category A), the reverse-engineered-military model (Category B), the windowless-towers extension, the managed-disclosure read of the last seventy years, the *smoking-gun* and *deliberately-manufactured-binary* labels applied to the Obama–Trump exchange, the *intended-outcome* read of the Gallup polling, the *audit-not-disclosure* pivot, the Mars ↔ Federal Reserve analogy, the leadership-pipeline corollary, the post-peace prediction, and the **TR-3B collateral *co-trap* read** (§ 9.8 — do not post Fouche/patent collages as government proof) are all **author interpretation in the working-claim register**, not findings extracted from the PURSUE corpus or any other government source. The full claim registry, evidence tiers, falsifiers, alternate readings, and platform-blocker note live in the [PURSUE 01 investigation Limits, § 9.5–§ 9.8, and § 11 Claims 8–21](https://paradigmthreat.net/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md#limits-and-disclaimers).
 
 

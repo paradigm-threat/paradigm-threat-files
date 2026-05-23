@@ -4,6 +4,12 @@
 
 **Reader-facing articles** (parent-folder essays: **thesis-led** voice, hook, theory-first pacing, lay citations with dossiers for heavy proof) — **[`docs/instructions/ARTICLES.md`](instructions/ARTICLES.md)**.
 
+**Epistemic foundation (all investigations and articles):** **[`docs/PRISCA_SAPIENTIA.md`](PRISCA_SAPIENTIA.md)** — **prisca sapientia**: the ancients possessed vast understanding of universe, nature, and theology; later science and institutions degraded or captured it. **Required:** every `*investigation*.md` opens **Limits and disclaimers** with the standard **Prisca sapientia** paragraph (below); articles include it in **`## Framing and limits`** (or link once there).
+
+**Standard paragraph (investigations — paste at top of Limits):**
+
+> **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 ---
 
 ## Structure (typical)
@@ -20,7 +26,7 @@
 10. **Weak points / remaining research TODOs** — when **not** **folded** **into** **§9**, keep a **table** **or** **checkboxes** **for** **assistant** **follow-up** **(citations**, **missing** **books**, **etc.)**.
 11. **Keywords** — one line near end of file, **exactly** `Keywords:` (case-insensitive on that label) followed by space-separated hashtags. **Option B (required):** each tag is `#` plus a **single PascalCase token** — letters and digits only, **no hyphens and no underscores** inside the tag (e.g. `#RemoteViewing`, `#ParadigmThreatFiles`, not `#remote-viewing` or `#predictive_programming`). The static index (`scripts/generate-index.py`) only reads this line; **do not** use a `## Keywords` heading (it is ignored and `npm run check-keywords` fails the repo).
 12. **Date line** — last substantive update; trim verbose changelog if git history suffices.
-13. **Limits and disclaimers** — **one** consolidated block at **end of file**, **after Keywords** and **before** Investigator notes (fiction vs evidence, cross-links thematic, evidence tiers, assistant bias, **and** **explicit** **note** **that** **author** **thesis** **sections** **are** **first-class** **but** **not** **automatically** **factual**). Everyday readers who skip to substance can stop before this section; it still satisfies repo-wide evidence discipline. **TL;DR** should not paste the full Limits list (thesis + strongest cites only).
+13. **Limits and disclaimers** — **one** consolidated block at **end of file**, **after Keywords** and **before** Investigator notes. **Open** with the **Prisca sapientia** paragraph ([`PRISCA_SAPIENTIA.md`](PRISCA_SAPIENTIA.md)); then fiction vs evidence, cross-links thematic, evidence tiers, assistant bias, **and** **explicit** **note** **that** **author** **thesis** **sections** **are** **first-class** **but** **not** **automatically** **factual**. Everyday readers who skip to substance can stop before this section; it still satisfies repo-wide evidence discipline. **TL;DR** should not paste the full Limits list (thesis + strongest cites only).
 14. **Investigator notes (optional)** — after Limits; **maintainers and LLMs** only: local machine paths, subtitle file locations, grep/session hints. Do **not** put these in the body or duplicate Limits here. See **Online vs local content** below.
 
 ### Online vs local content

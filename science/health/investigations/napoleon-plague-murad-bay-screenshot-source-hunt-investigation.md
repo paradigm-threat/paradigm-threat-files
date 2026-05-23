@@ -337,6 +337,10 @@ Keywords: #NapoleonPlague #MuradBay #GrosJaffa #BonapartePestiferes #AntoineJean
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 This file **identifies the source book** and **grades** screenshot claims against mainstream military-medical history. **Footnote 8** is transcribed from the local EPUB (Winterbottom 1828); the **primary** still needs reading. It does **not** assert that bubonic plague is non-infectious, that Roytas is correct on all counts, or that Napoleon’s stunts prove germ theory false. **Author thesis** material elsewhere in the repo (ætheric disease, anticontagion sympathy) is **cross-linked**, not imported as automatic proof here.
 
 ## Investigator notes

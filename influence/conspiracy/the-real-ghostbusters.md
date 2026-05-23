@@ -187,6 +187,10 @@ The movie and the **counter-program** converge there: comedy is the **lid**; the
 
 ## Framing and limits
 
+
+
+**Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
+
 This page states a **working model** under **Paradigm Threat** assumptions: **telepathy** and **memory-in-matter** treated as **real phenomenon classes**; **EM/ionizing** as **one substrate**; **CIA shutdowns** read skeptically toward the public **null** story. **Gettysburg**, **White House**, **Joan**, **Mormon**, and **Shakespeare** anchors are **cultural/documentary**, not lab proof of survival. **Churchill–Lincoln** details are **folklore-heavy**. **World’s Fair / Tartarian demolition** and **fair-as-technology-census** lines are **SPEC**—cross-read [mudflood](https://paradigmthreat.net/history/mudflood/page.md) and companion **§9.17**; **Truman gutting** is **DOC** at **shell** level, **SPEC** at **memory-war** intent. **HAARP**, **satellite scrub**, **fluoride–pineal**, **Soros**, and **Israel–Iran spiritual-war** lines are **synthesis** until **primary** documents land in the companion file. **EVP / microphone** paragraphs are **epistemic critique** under **§0.1–§0.3**, not proof of any specific clip. **Ghostbusters II** dialogue quoted from widely circulated transcript tradition (**1989**, pre-action chant). **Slave-tour** and **Civil War** paragraphs do not adjudicate the war. Audit trail: companion investigation.
 
 ---

@@ -181,3 +181,9 @@ Across domains (real estate education, licensing disputes, branded handsets, pol
 
 - **Authoring note:** body text drafted from **chat session memory** + **prior in-session web captures**; **no new primary reporting** was conducted at dossier write time beyond structural compilation.  
 - **Maintenance:** update if **iFixit/teardown**, **FTC “Made in USA”** action, or **large-N buyer fulfillment logs** appear.
+
+---
+
+## Limits and disclaimers
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.

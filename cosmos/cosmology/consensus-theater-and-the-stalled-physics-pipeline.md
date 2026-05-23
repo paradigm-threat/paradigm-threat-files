@@ -124,6 +124,10 @@ Careers spent entirely inside the bubble never teach the **older, more grounded*
 
 ## Framing and limits
 
+
+
+**Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
+
 The survey authors **partially agree** that popular “consensus” is overstated; this article does not strawman their paper. It prosecutes the **stack**: instrument menus, press retelling, funding pedagogy, and militainment rhymes. **Author claims** on Space Force funding starvation, AI endgame intent, and pedagogy-level Einstein canonization are **stakes language** unless tied to primary budget or test catalogs in the dossier **Limits**. Cross-links are thematic, not automatic proof.
 
 Keywords: #BigMysteriesSurvey #ConsensusTheater #LambdaCDM #BigBang #PopularScience #ScienceAudit #MaxwellAether #SpaceForce #ProtestantParallel

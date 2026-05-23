@@ -19,7 +19,7 @@ Open conspiracy-research hub that challenges mainstream paradigms across history
 
 ## Paradigm Threat Project
 
-The goal of Paradigm Threat is to pose an **intellectual challenge** to the reigning paradigms of every discipline — history, cosmology, medicine, physics, religion, finance, governance — using sourced research, cross-referenced chronologies, and a willingness to follow the evidence wherever it leads. Armed with history and ready to debate.
+The goal of Paradigm Threat is to pose an **intellectual challenge** to the reigning paradigms of every discipline — history, cosmology, medicine, physics, religion, finance, governance — using sourced research, cross-referenced chronologies, and a willingness to follow the evidence wherever it leads. Investigations and articles assume [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md): the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded—not that every modern textbook is an upgrade. Armed with history and ready to debate.
 If you're like me, you've noticed by now that the majority of
 [influence/conspiracy-theory](https://www.infowars.com/)
 channels in the western world have become (or have always been)

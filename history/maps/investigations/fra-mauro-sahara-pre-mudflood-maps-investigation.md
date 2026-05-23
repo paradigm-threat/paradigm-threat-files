@@ -103,4 +103,7 @@ For this investigation, **all major claims** in the article are treated as **val
 
 ---
 
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 Keywords: #Maps #FraMauro #Sahara #AfricanHumidPeriod #Cartography #PreMudflood #1774 #Garamantes #Organça #Paleoclimate #Investigation #BritishEmpire #Colonialism #Redaction #Mudflood #MFEE

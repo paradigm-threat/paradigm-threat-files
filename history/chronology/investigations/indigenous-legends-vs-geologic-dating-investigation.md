@@ -293,6 +293,10 @@ Keywords: #IndigenousLegends #Geochronology #Radiocarbon #Dendrochronology #Oral
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - **Evidence tiers:** Folklore blogs and editorial wikis are **convenience** for **English-language motif tracking**, not **primary history**. **USGS / JVGR / IntCal** are **institutional or peer** tiers. **ICR** and similar are **labeled advocacy**. Do not merge tiers in argument without saying so.
 - **Author thesis (opening section) is first-class voice, not automatic fact:** funding monoculture, racism-as-effect, “all made up,” and **§B** **strong causal language** (“**no other motivation**,” **geology as mind‑change mission**) are **moral–epistemic accusations** that may be **partially supported**, **partially unsupported**, or **contested** per item; this file **registers** them and **tables** verification hooks. Treat **§B** **strong form** as **author pattern thesis** until §6 **per‑campaign** evidence (**Q7**) is attached — **do not** merge with **Peratt rock‑art physics** or **mainstream dating QA** as if they were **one** claim.
 - **No blanket endorsement** of **young-Earth** or **EU** physics here: links are **for the investigation’s** “who said what” map.

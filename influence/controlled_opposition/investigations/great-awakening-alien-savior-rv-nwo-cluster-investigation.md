@@ -513,6 +513,10 @@ Keywords: #ControlledOpposition #GreatAwakening #DavidWilcock #Lightworkers #Rev
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - **Fiction vs evidence:** Mind maps, memes, and YouTube bibliographies are not proof of coordination. Steemit and blogs are culture artifacts, not courts.  
 - **People are not case files:** Named public figures appear as cultural signposts; no final moral verdict is required for pattern analysis.  
 - **Author thesis sections** are first-class and not automatically factual (per repo instructions).  

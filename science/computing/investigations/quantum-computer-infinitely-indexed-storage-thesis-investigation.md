@@ -263,6 +263,10 @@ Keywords: #QuantumComputer #InfiniteIndex #StorageThesis #FrequencyMemory #Parad
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 This investigation **hosts** an **author-originating** **hypothesis** alongside **documented** **public** **summaries**. **Agreement** with **mainstream** **quantum** **computing** **definitions** is **partial** **at** **best** and **contradicted** on **identity** **claims** (**storage** **vs** **gate** **machine**). Allegations of **deliberate** **public** **misdirection** (**§2.1**) and **establishment** **suppression** **of** **omniscient-scale** **access** (**§2.2**) are **not** **proven** **here**. **Mars**-**prevalent** **/** **Earth**-**suppressed** **hardware** (**§2.2**) is **author** **belief**, **not** **an** **independent** **finding** **of** **this** **file**. **Nothing** **here** **is** **investment**, **engineering**, or **physics** **advice**. **Paradigm** **Threat** **does** **not** **claim** **operational** **blueprints** for **nonlocal** **memory** or **classified** **hardware**.
 
 ---

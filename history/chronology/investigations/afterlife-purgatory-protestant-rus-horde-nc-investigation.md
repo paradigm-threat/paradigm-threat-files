@@ -300,4 +300,7 @@ See **§5.2** — **`09.html`**: **first strike on Christianity** + **splinter r
 
 ---
 
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 Keywords: #Afterlife #Purgatory #Bardo #Antarabhava #Barzakh #Reincarnation #IntermediateState #Protestantism #Reformation #Fomenko #RusHorde #NewChronology #ShipOfFools #ComparativeReligion

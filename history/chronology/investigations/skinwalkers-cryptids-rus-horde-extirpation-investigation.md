@@ -278,6 +278,10 @@ Keywords: #Skinwalkers #Skinwalker #Cryptids #Cryptid #Cryptozoology #RusHorde #
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - This file contains **three evidence tiers**: (1) **cited definitions / public commentary** (Keene, KSUT, dictionaries), (2) **internal cross-links** to existing Paradigm Threat investigations, and (3) **author-originating theses** that are recorded faithfully but are **not automatically factual**.
 - The Diné/Navajo “skinwalker” lane is culturally sensitive. This investigation prioritizes **public, outsider-facing statements** about boundaries and refuses to treat the topic as a “how-to.”
 - “Adrenochrome” is treated here as: **chemically real** (oxidation product of epinephrine) but **unproven** as a transformative monster drug. The presence of the motif in literature is not proof of the alleged practice.

@@ -332,6 +332,10 @@ Keywords: #Homestuck #AndrewHussie #ControlledOpposition #CommunityPrivatization
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 **Publication hygiene (defamation risk — non-legal):** This document is **private research** in a team repo. It is **not** legal advice and **not** a journalistic or regulatory **finding-of-fact** certificate. Statements about **named, living people** are either **(a)** **attributed** quotes or links to **third-party** or **primary** sources, or **(b)** **explicitly labeled** author **hypothesis**, **opinion**, or **memory** — **not** the conclusions of a **court**, **regulator**, or **employer**. **No** **defamatory** **intent** is intended; if any passage could be read as a **settled** **factual** **accusation** of **crime** or **fraud**, treat that as a **labeling** defect **pending** **revision** unless **sourced**.
 
 The **macro political / cultural thesis** in **§1** is **speculative** **theory** — **not** an **accusation** of **fraud**, **tax evasion**, or **other** **illegal** **conduct** **against** **named** **individuals**. **Party** **/** **media** **readings** are **interpretive** **opinion** **about** **public** **discourse** **—** **not** **a** **claim** **of** **criminal** **conspiracy** **or** **proven** **coordination** **between** **a** **webcomic** **and** **a** **political** **party**.

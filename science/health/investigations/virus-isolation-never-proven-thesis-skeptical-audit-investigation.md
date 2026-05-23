@@ -488,6 +488,10 @@ Keywords: #VirusIsolation #AethericDisease #FingerprintNotBlueprint #DemonologyR
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - **Not medical advice.**  
 - **Track 1** = citation discipline for what institutions claim; **not** a requirement that the reader adopt Lane A.  
 - **Track 2** = **project canon** for Paradigm Threat; **not** NIH or physics-department consensus.  

@@ -53,3 +53,9 @@ Michell does not invent the term from scratch: he builds on **Alfred Watkins of 
 - **Scope:** The book is **UK–centric** with Egyptian and Chinese excursuses; the timeline’s **Pyramidal Empire** and **Exodus** arcs need **other** sources.
 
 **Practical use on-site:** Keep Michell in the same evidence class as Kerrell & Goggin’s bibliography nod: **period secondary / revival-era synthesis** that **preserves** Brunton–Pyramid and **ley** memes the timeline reinterprets. Link related timeline entries: [Pyramids: Myths vs Reality](https://paradigmthreat.net/timeline/evt-pyramids-myths-vs-reality), [Dark Ages BCE](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages), [Pyramid energy — Kerrell & Goggin (1977)](https://paradigmthreat.net/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md).
+
+---
+
+## Limits and disclaimers
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.

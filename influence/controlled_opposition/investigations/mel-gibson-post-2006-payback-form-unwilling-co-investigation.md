@@ -274,6 +274,10 @@ Keywords: #MelGibson #ControlledOpposition #PassionOfTheChrist #ResurrectionOfTh
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - **Not legal advice.** Arrest and industry rows follow **press** and **trade** reporting — **not** criminal adjudication of Gibson or any third party.  
 - **Not a defamation filing.** **Controlled opposition**, **pseudo-conspiracy**, **following orders**, and **competition cap** are **pattern** language — **not** claims of intelligence employment or proven studio conspiracy without §10 primaries.  
 - **2006 remarks** are **documented** as reported; **intent** and **sincerity** are **not** settled here.  

@@ -593,3 +593,9 @@ Your original warning still stands for **field work and parish politics**: a hob
 ## 11. Closing frame (operational)
 
 Whether you land **SRT**, **MEP**, or **pure psychology**, Savannah-style debunks show a **shared industry failure mode**: **beautiful certainty** on a **weak pedigree**. The counter-move is not “believe nothing,” it is **demand the same chain-of-custody you would demand for a court exhibit** — especially when someone sells you **midnight** as **data**.
+
+---
+
+## Limits and disclaimers
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.

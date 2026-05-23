@@ -959,6 +959,10 @@ Keywords: #Autism #AutismSpectrum #SelectiveMutism #Hyperlexia #PrivateSpeech #V
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - **Author thesis §2** is investigational — **not** medical advice. Parents should use licensed clinicians for diagnosis and treatment.  
 - **Reject** stigmatizing language toward autistic people; this file critiques **diagnostic lumping** and **institutional conformity**, not neurodivergent identity.  
 - **PDA** is debated (not in DSM); listed as **useful profile**, not settled science.  

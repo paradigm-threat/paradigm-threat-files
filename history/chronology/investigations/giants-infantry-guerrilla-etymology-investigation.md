@@ -31,5 +31,8 @@ Do not merge **First Crusade (~1196)** polemics with **Kulikovo (1380)** branch 
 
 ---
 
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 Keywords: #Giants #Infantry #Guerrilla #Etymology #Children #Crusade #Lexical
 

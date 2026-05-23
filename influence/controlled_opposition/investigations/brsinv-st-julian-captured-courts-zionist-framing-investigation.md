@@ -262,6 +262,10 @@ Keywords: #ControlledOpposition #BRSINV #BlueFrenchQtr #CapturedCourts #ZionistF
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - **Not legal advice.** Docket descriptions follow Julian’s public narrative; no independent finding of racketeering, treason, or judicial crime.
 - **Not a defamation filing.** Julian is analyzed as a **public blogger** and **commenter**; **CO** labels are **behavioral pattern** language, not proof of intelligence employment.
 - **Ethnic claims:** Counter-arguments use the in-tree **working definition**; they **do not** assert all Jewish-identified actors are innocent of institutional wrongdoing — they reject **collective intent**.

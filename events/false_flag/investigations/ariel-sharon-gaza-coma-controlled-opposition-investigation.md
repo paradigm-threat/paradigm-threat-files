@@ -299,6 +299,10 @@ Keywords: #Ariel #Sharon #Gaza #Disengagement #Coma #Braslavsky #Controlled #Opp
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 This file **mixes** **four** **layers**: **documented** **history** (§5–6, §11); **repo** **thematic** **investigations** (§4, §10); **author** **verbatim** **pattern** **thesis** (§3, §5 **author** **read**, §7–8, §7.5, §12); and **review** **questions** (§13). **Thematic** **rhymes** **are** **not** **proof** **of** **identity** **between** **Gaza**, **Iran**, **Iraq**, **or** **Libya**. **Epstein-network** **and** **Bush–Sharon** **compromise** **claims** **(§3.3,** **§7.5,** **§12)** **are** **not** **adjudicated** **here**; **they** **bind** **to** **[Cruz** **investigation](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md)** **thesis** **by** **reference**, **not** **by** **merged** **evidence** **docket**. **Author** **claims** **(§12)** **establish** **the** **pattern** **Paradigm Threat** **tracks**, **not** **court** **findings**. **Mossad**/**hospital** **and** **CIA**/**WMD** **placement** **claims** **remain** **allegation**-**tier**. **Assassination** **hypothesis** **has** **no** **public** **evidence** **in** **this** **file**. Readers should **use** **§13** **to** **pressure**-**test** **§12**. [Paradigm investigation instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md) **govern** **author** **sentiment** **vs** **verification**.
 
 ---

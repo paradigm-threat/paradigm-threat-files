@@ -368,6 +368,10 @@ Keywords: #BigMysteriesSurvey #ConsensusTheater #LambdaCDM #BigBang #BlackHoles 
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - **Survey sample:** APS Magazine / member **voluntary** respondents — not all physicists; percentages are **snapshots**, not election results.
 - **Afshordi et al.** explicitly caution against **overstated consensus**; this dossier **agrees** on that narrow point while prosecuting the **broader** popular-science and **menu-design** stack.
 - **Author thesis (§11–§12)** is **first-class** but **not** peer-reviewed fact; **Limits** do not delete it.

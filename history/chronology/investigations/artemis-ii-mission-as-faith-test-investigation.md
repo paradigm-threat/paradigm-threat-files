@@ -336,4 +336,7 @@ Drawn from the sources above; **grouped by claim type**:
 
 ---
 
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 Keywords: #Artemis #NASA #Moon #Faith #Hoax #Divide #Conquer #RevelationOfTheMethod #Chronology #Investigation

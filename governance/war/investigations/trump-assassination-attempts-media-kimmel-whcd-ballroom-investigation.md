@@ -239,6 +239,10 @@ Keywords: #TrumpAssassinationAttempts #WhiteHouseCorrespondentsDinner #JimmyKimm
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 This investigation **mixes** **court-grade facts**, **breaking-news summaries**, and **author sentiment** (especially **§6.3** and **§9.3**). It **does not** accuse **Jimmy Kimmel** of **criminal complicity** or **prior knowledge**; **§6.3** is **pattern / rhetoric** **interpretation**, not a **prosecution theory**. **§8.1** compares **press / political rhetoric regimes** (Palin map vs. later celebrity material); it **does not** re-litigate **Loughner**’s motive or accuse listed entertainers of **federal incitement** crimes. Wikipedia rows are **C-tier checklist** convenience; **A-tier** should replace them for **legal claims**. **Charlie Kirk** material is **parallel discourse**, not a **Trump attempt**.
 
 ---

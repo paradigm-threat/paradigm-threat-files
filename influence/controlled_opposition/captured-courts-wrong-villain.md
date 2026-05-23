@@ -120,6 +120,10 @@ I drafted a comment for Julian’s April post along these lines. The point is no
 
 ## Framing and limits
 
+
+
+**Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
+
 - **Julian’s lawsuits:** Described from his published narratives and public docket numbers; no independent court finding that USDA engaged in racketeering as alleged.
 - **CO classification:** Behavioral pattern read — **not** a claim of intelligence employment or payment without primaries.
 - **1979 / CIA:** Mix of **documented** contacts (Guardian, declassified chains) and **hypothesis-tier** religion-control synthesis; correlation is not causation.

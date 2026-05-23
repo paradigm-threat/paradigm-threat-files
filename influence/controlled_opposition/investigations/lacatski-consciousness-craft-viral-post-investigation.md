@@ -318,6 +318,10 @@ Keywords: #ControlledOpposition #UAP #UFO #AAWSAP #Lacatski #Skinwalker #Conscio
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - **Fiction vs evidence:** Social posts and comment threads are **cultural** artifacts; they do not prove physics or non-human intelligence.  
 - **Author thesis sections** (**§6–§7**) are first-class for repo pattern work but **not** automatically factual.  
 - **Lacatski:** This file does not assert fraud or authenticity of any classified program detail; it compares **headline** claims to **located** public sources. **Reality editing / reality-bending** as **Lacatski’s stated belief** is **not** claimed here; that language was **meme / chat shorthand** and has been **struck** from neutral descriptions of his on-record position (**§2**, **§3.3**, **TL;DR**).  

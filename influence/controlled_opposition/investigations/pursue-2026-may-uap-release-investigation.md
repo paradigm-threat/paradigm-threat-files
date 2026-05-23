@@ -974,6 +974,10 @@ Keywords: #UAP #UFO #PURSUE #DepartmentOfWar #AARO #AAWSAP #AATIP #Lacatski #Big
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - **Fiction vs evidence:** PURSUE 01's "areas of interest" overlays and composite "ellipsoid bronze metallic object" are explicitly captioned as *not* analytical judgments. They are presentation artifacts; do not treat them as photographic evidence.
 - **Author thesis sections (§ 6 lead, § 9 frame, § 11 registry):** The reading that PURSUE is a *managed deferral instrument* and that the BAASS PR-campaign footnote is a "Rosetta stone" for present-day disclosure-influencer rhetoric is **first-class** to this investigation's purpose, but is **not automatically factual**. The primary documents are; the synthesis is interpretation.
 - **Two-category model (§ 9):** Mars breakaway civilization, opposition-window travel, Van Allen / magnetosphere coupling, quarantine buildings, and reverse-engineered military triangles are **author hypotheses** and **witness-context frames**, not findings proven by PURSUE, AARO, or NARA. They are preserved because they define what this investigation is testing.

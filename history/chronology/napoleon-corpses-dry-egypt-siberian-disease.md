@@ -86,6 +86,10 @@ Deeper tiers live in the [Napoleon Egypt / Siberia investigation](https://paradi
 
 ## Framing and limits
 
+
+
+**Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
+
 Single long essay—not medical or legal advice. **Pyramid shelter/hospital until 11th c.** and modern residual use: author + pyramid-energy sources only (not consensus Egyptology). **Fomenko** Egypt / Styx / Horde burial: author-adopted NC read; primary mirror **`~/dev/wget/chronologia.org`**, **`empire19_05.html`**. **Curie cured / DU assassination**: **author personal belief**, not corroborated here. **Population** and **white-cohort reproductive** claims: author synthesis. **Zelensky** and **Hitler** parallels: structural only via [reverse crusades](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md), not moral equations. Tiered receipts: [investigation Limits](https://paradigmthreat.net/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md).
 
 ---

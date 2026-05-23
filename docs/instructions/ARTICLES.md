@@ -59,6 +59,7 @@ Parent-folder reader essays are **thesis vehicles**, not primers. They may read 
 - **Pacing:** Short **`##` sections**, **one main idea** each, **momentum** over repetition.
 - **Sensitive targets:** When the author requests it, use **structural / institutional** framing (doctrine shapes, incentives, schooling) rather than naming modern groups—unless the author explicitly wants names.
 - **Honesty without dilution:** When caveats are **necessary**, **do not** weave them into each section—that trains the reader to expect retreat after every claim. Prefer **one** consolidated **`## Framing and limits`** (or **`## Scope and limits`**) block **after** **Where next**, **before** `Keywords:`; keep the **body** declarative. Alternatively, **one** sentence plus a **Limits** link can suffice. Do not use caution as a substitute for **clarity**.
+- **Prisca sapientia (required in Framing and limits):** Open that block with [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that ancients held profound understanding of universe, nature, and theology, later lost or degraded; modern consensus is not default truth. One sentence plus dossier **Limits** for tiers is enough.
 
 Reference implementation for **generic surface + theory-led** shape: [`science/biology/circle-of-life-and-how-it-began.md`](../../science/biology/circle-of-life-and-how-it-began.md).
 

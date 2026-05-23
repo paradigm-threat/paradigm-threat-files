@@ -148,6 +148,9 @@ We should be worried — the photos are strange and the rebuild clock is real. *
 - **Political motive:** Post-disaster consolidation patterns are documented; intent to shift electorates is a **working hypothesis**, not a court finding.  
 - **The moratorium ask** stands even if the fire was entirely accidental — because the **rebuild risk** is independent of ignition theology.
 
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 Keywords: #Brantley #Georgia #RuralBurnZone #DensityMoratorium #WeatherModification #PredictiveProgramming #Wildfire #LandGrab #ControlledOpposition #Rebuild
 
 **Substack:** [paradigmthreat2.substack.com/p/rural-burn-zones-need-a-density-moratorium](https://paradigmthreat2.substack.com/p/rural-burn-zones-need-a-density-moratorium)

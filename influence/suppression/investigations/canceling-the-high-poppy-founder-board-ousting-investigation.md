@@ -123,4 +123,7 @@ These reinforce the **501(c)(3) / public-benefit** pattern: **formal board,** **
 
 *Last updated: 2026-04-12 (IV-B/IV-C deep-dive expansion)*
 
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 Keywords: #Suppression #Governance #Founder #Board #Directors #Nonprofit #501c3 #TallPoppy #HighPoppy #CancelCulture #Corporate #Ae911truth #Gage #Openai #Investigation #Article

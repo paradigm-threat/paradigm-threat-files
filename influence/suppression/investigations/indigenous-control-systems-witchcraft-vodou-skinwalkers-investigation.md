@@ -205,6 +205,10 @@ Keywords: #Indigenous #Control #Suppression #Witchcraft #Vodou #Voodoo #Wanga #T
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 - This file records **author-originating hypotheses** about state containment and “systems of control.” Those are not treated as proven without documentation.
 - It distinguishes (a) **documented discourse mechanics** (why people won’t talk) from (b) claims about **metaphysical efficacy** (“quantum effects”), which require stronger evidence.
 - When discussing living religions and Indigenous protocols, the investigation prioritizes **non-extractive** summaries and avoids “how-to” detail.

@@ -131,3 +131,9 @@ Widely circulated **Internet “Eckhart”** paragraphs about **hell burning the
 ## 8. Closing frame
 
 Exorcism’s **documented** history is **longer and more medical** than popular “medieval superstition” memes admit — yet **modern scientific proof** of **discrete possessing intelligences** remains **absent**. Colonial sources **do** prove something uglier and more terrestrial: **demon language was applied to human beings** as an **ethnographic default**. Your **speculative** bridge asks whether **mass violence** and **carceral pain** **fed** the **emotional temperature** of later **containment rituals** — a serious question, but **not** a replacement for the **ancient** genealogy in §1.
+
+---
+
+## Limits and disclaimers
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.

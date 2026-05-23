@@ -96,6 +96,10 @@ If there is hard news in this article, it is this. Earth is not guaranteed milli
 
 ## Framing and limits
 
+
+
+**Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
+
 - **Consensus and specialists:** Late public uptake of **plasma–cosmology** vocabulary is **institutional timing** here, not proof that every researcher acts from bad intent.
 - **DNA:** The linked investigation states the unified case, notes where mainstream work **partly** overlaps a **blueprint** critique, and names the **gap** with textbook genetics—evidence tiers and counter-argument live there.
 - **Golem / Talmud:** The **physics parallel** (anthropoid silhouette, impressed matter) is **not** a claim that the Maharal legend or every midrashic reading is **court-record** history. Whether **Sanhedrin 65b** records a literal **Sefer Yetzirah**-style act or a **parable** belongs with **commentators**—not settled in this article.

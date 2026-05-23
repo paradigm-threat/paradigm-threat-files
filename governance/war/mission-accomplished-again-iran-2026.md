@@ -183,6 +183,10 @@ The West is not one nervous system; that is why one week looked like two differe
 
 ## Framing and limits
 
+
+
+**Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
+
 The opening **MI6 / CIA / two nuclear poles** paragraph is a **thesis ladder**, not a courtroom verdict. The **chessboard** section is **synthesis**. The **headline lists** are **journalism citations**, not proof the administration is honest or dishonest on every sub-line. The **coda** is **explicitly personal** and includes an **interpretive** **geopolitical** read (**Berlin partition**, **Cold War geography**, **east-of-the-wall → Ukraine arc**) that is **not** mainstream-consensus history. The closing Coda grafs on Iran 2026, the West split, **U.S. military-learning read versus marquee “enemy of the world / mankind” caption**, and the narrowed “enemy” definition are author opinion and synthesis—they rhyme with earlier sections but do not introduce new primary evidence. The **Iraq / Libya / Iran comparative-motive** block in **Iraq echoes** is **author opinion**—it **cross-reads** dossiers on **Libya gold** and **fiat** but does **not** restage **Iraq** **ordnance** **chains** here. The dossier carries what this page deliberately refuses to paste: long tables, FOIA chains, and the full **Limits** stack. The **Gulf News** links are **regional reporting** on Hormuz economics and diplomacy in the May window—useful for **dating claims** about blockades and market stress, not a substitute for primary military releases.
 
 Keywords: #IranWar #MissionAccomplished #EpicFury #MediaBias #Cia #Mi6 #NuclearMonopoly #ParadigmThreat

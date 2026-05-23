@@ -186,6 +186,10 @@ The modern **political divide** is **load-bearing**. Left and right fund differe
 
 ## Framing and limits
 
+
+
+**Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
+
 - **Not medical advice.**  
 - **Track 1** in the audit logs what institutions claim; adopting **Lane A** (particle = whole human truth) is **not** required.  
 - **Track 2** is **project canon** — ætheric disease, fingerprint on carrier, scalar copy-after-copy.  

@@ -28,3 +28,9 @@ Les Brown’s book is a **short practical manual** from the **1970s** “pyramid
 **Author appendix:** [Les Brown (The Pyramid)](/timeline/evt-les-brown-the-pyramid).
 
 **Status:** Open. Mapped from the 2005 PDF; a clean **1978** print scan can be added for bibliographic comparison.
+
+---
+
+## Limits and disclaimers
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.

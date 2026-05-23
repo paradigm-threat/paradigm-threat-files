@@ -1,8 +1,1156 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-23T00:01:16.590Z",
+    "date": "2026-05-23T00:06:47.526Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md",
+        "href": "/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/hollow_earth/hollow-earth-investigation.md",
+        "href": "/cosmos/cosmology/hollow_earth/hollow-earth-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md",
+        "href": "/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md",
+        "href": "/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md",
+        "href": "/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/cosmology/the-incorrectly-scaled-universe.md",
+        "href": "/cosmos/cosmology/the-incorrectly-scaled-universe"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/flat_earth/flat-earth-investigation.md",
+        "href": "/cosmos/flat_earth/flat-earth-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/anthony-of-boston-mars360-investigation.md",
+        "href": "/cosmos/mars/investigations/anthony-of-boston-mars360-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation.md",
+        "href": "/cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/mars-earth-reincarnation-investigation.md",
+        "href": "/cosmos/mars/investigations/mars-earth-reincarnation-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/pluto/investigations/pluto-origin-visibility-investigation.md",
+        "href": "/cosmos/pluto/investigations/pluto-origin-visibility-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation.md",
+        "href": "/cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation"
+      },
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "A",
+        "path": "docs/PRISCA_SAPIENTIA.md",
+        "href": "/docs/PRISCA_SAPIENTIA"
+      },
+      {
+        "status": "M",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/09-11-investigation.md",
+        "href": "/events/false_flag/investigations/09-11-investigation"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md",
+        "href": "/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md",
+        "href": "/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
+        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "events/trump/index-trump-investigation.md",
+        "href": "/events/trump/index-trump-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/slavery/slave-trades-and-moor-etymology-investigation.md",
+        "href": "/governance/slavery/slave-trades-and-moor-etymology-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/american-revolution-investigation.md",
+        "href": "/governance/war/investigations/american-revolution-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/british-civil-war-investigation.md",
+        "href": "/governance/war/investigations/british-civil-war-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/british-divide-conquer-israel-investigation.md",
+        "href": "/governance/war/investigations/british-divide-conquer-israel-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md",
+        "href": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cia-investigation.md",
+        "href": "/governance/war/investigations/cia-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md",
+        "href": "/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/french-revolution-investigation.md",
+        "href": "/governance/war/investigations/french-revolution-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/jonestown-guyana-1978-cia-latin-america-pattern-investigation.md",
+        "href": "/governance/war/investigations/jonestown-guyana-1978-cia-latin-america-pattern-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/martyr-word-history-investigation.md",
+        "href": "/governance/war/investigations/martyr-word-history-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md",
+        "href": "/governance/war/investigations/napoleonic-advanced-artillery-airship-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md",
+        "href": "/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md",
+        "href": "/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/reverse-crusades-comparison.md",
+        "href": "/governance/war/investigations/reverse-crusades-comparison"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/soviet-collapse-investigation.md",
+        "href": "/governance/war/investigations/soviet-collapse-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/titanic-sinking-investigation.md",
+        "href": "/governance/war/investigations/titanic-sinking-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.md",
+        "href": "/governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md",
+        "href": "/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/us-civil-war-investigation.md",
+        "href": "/governance/war/investigations/us-civil-war-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/vril-society.md",
+        "href": "/governance/war/investigations/vril-society"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md",
+        "href": "/governance/war/investigations/wwii-fascism-religious-apparatus-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/yakuza-remote-control-investigation.md",
+        "href": "/governance/war/investigations/yakuza-remote-control-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/mission-accomplished-again-iran-2026.md",
+        "href": "/governance/war/mission-accomplished-again-iran-2026"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.md",
+        "href": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md",
+        "href": "/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md",
+        "href": "/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md",
+        "href": "/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md",
+        "href": "/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.md",
+        "href": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
+        "href": "/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md",
+        "href": "/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md",
+        "href": "/history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md",
+        "href": "/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
+        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md",
+        "href": "/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md",
+        "href": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/radiocarbon-dating-investigation.md",
+        "href": "/history/chronology/investigations/radiocarbon-dating-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md",
+        "href": "/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/soul-science-investigation.md",
+        "href": "/history/chronology/investigations/soul-science-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/the-pyramid-les-brown-investigation.md",
+        "href": "/history/chronology/investigations/the-pyramid-les-brown-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/view-over-atlantis-michell-investigation.md",
+        "href": "/history/chronology/investigations/view-over-atlantis-michell-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/wuxing-five-planets-dark-ages.md",
+        "href": "/history/chronology/investigations/wuxing-five-planets-dark-ages"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
+        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/when-your-child-wont-fit-the-grade.md",
+        "href": "/history/chronology/when-your-child-wont-fit-the-grade"
+      },
+      {
+        "status": "M",
+        "path": "history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.md",
+        "href": "/history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md",
+        "href": "/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/mudflood/investigations/cargo-cults-investigation.md",
+        "href": "/history/mudflood/investigations/cargo-cults-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/mudflood/investigations/mfee-investigation.md",
+        "href": "/history/mudflood/investigations/mfee-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/mudflood/investigations/promised-land-investigation.md",
+        "href": "/history/mudflood/investigations/promised-land-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md",
+        "href": "/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/mudflood/investigations/tartarian-maps-investigation.md",
+        "href": "/history/mudflood/investigations/tartarian-maps-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/orphan_trains/orphan-trains-investigation.md",
+        "href": "/history/orphan_trains/orphan-trains-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/conspiracy/celebrities/INDEX-identity-investigations.md",
+        "href": "/influence/conspiracy/celebrities/INDEX-identity-investigations"
+      },
+      {
+        "status": "M",
+        "path": "influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation.md",
+        "href": "/influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md",
+        "href": "/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/conspiracy/the-real-ghostbusters.md",
+        "href": "/influence/conspiracy/the-real-ghostbusters"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/captured-courts-wrong-villain.md",
+        "href": "/influence/controlled_opposition/captured-courts-wrong-villain"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/5g-rollout-controlled-opposition-predictive-programming-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/5g-rollout-controlled-opposition-predictive-programming-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/mel-gibson-post-2006-payback-form-unwilling-co-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/mel-gibson-post-2006-payback-form-unwilling-co-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md",
+        "href": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
+        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads.md",
+        "href": "/influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md",
+        "href": "/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/ed-wood-plan9/index-ed-wood-plan9-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/ed-wood-plan9/index-ed-wood-plan9-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/fiction-presented-as-fact-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/fiction-presented-as-fact-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/grrm/index-george-rr-martin-world-of-ice-and-fire-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/grrm/index-george-rr-martin-world-of-ice-and-fire-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/princess-bride/index-princess-bride-andronicus-fezzik-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/princess-bride/index-princess-bride-andronicus-fezzik-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/shelley/shelley-frankenstein-true-story-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/shelley/shelley-frankenstein-true-story-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift.md",
+        "href": "/influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/thompson/thompson-managed-disclosure-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/thompson/thompson-managed-disclosure-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md",
+        "href": "/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/white/white-excalibur-sulphur-mercury-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/white/white-excalibur-sulphur-mercury-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/white/white-saturnian-round-table-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/white/white-saturnian-round-table-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/zombies/index-zombie-genre-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/zombies/index-zombie-genre-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md",
+        "href": "/influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md",
+        "href": "/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/investigations/terranigma-beruga-predictive-programming-investigation.md",
+        "href": "/influence/predictive_programming/investigations/terranigma-beruga-predictive-programming-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/religion/1979-religious-revival-investigation.md",
+        "href": "/influence/religion/1979-religious-revival-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/religion/exorcism-demonology-disease-colonial-memory-investigation.md",
+        "href": "/influence/religion/exorcism-demonology-disease-colonial-memory-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md",
+        "href": "/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/cathars-church-purge-khazar-split-investigation.md",
+        "href": "/influence/suppression/investigations/cathars-church-purge-khazar-split-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/eckhart-jacobs-ladder-hell-quote-attribution-investigation.md",
+        "href": "/influence/suppression/investigations/eckhart-jacobs-ladder-hell-quote-attribution-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md",
+        "href": "/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md",
+        "href": "/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/trump-mobile-t1-media-trust-industrial-narrative-investigation.md",
+        "href": "/influence/suppression/investigations/trump-mobile-t1-media-trust-industrial-narrative-investigation"
+      },
+      {
+        "status": "M",
+        "path": "page.md",
+        "href": "/page"
+      },
+      {
+        "status": "M",
+        "path": "science/ai/ai-control-investigation.md",
+        "href": "/science/ai/ai-control-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/biology/circle-of-life-and-how-it-began.md",
+        "href": "/science/biology/circle-of-life-and-how-it-began"
+      },
+      {
+        "status": "M",
+        "path": "science/biology/investigations/dna-fingerprint-scalar-life-investigation.md",
+        "href": "/science/biology/investigations/dna-fingerprint-scalar-life-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md",
+        "href": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md",
+        "href": "/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/computing/quantum-leap-of-faith.md",
+        "href": "/science/computing/quantum-leap-of-faith"
+      },
+      {
+        "status": "M",
+        "path": "science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.md",
+        "href": "/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.md",
+        "href": "/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/geoengineering/tornado-power-station-investigation.md",
+        "href": "/science/geoengineering/tornado-power-station-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/geoengineering/weather-modification-investigation.md",
+        "href": "/science/geoengineering/weather-modification-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/havana_syndrome/havana-syndrome-investigation.md",
+        "href": "/science/havana_syndrome/havana-syndrome-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md",
+        "href": "/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md",
+        "href": "/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md",
+        "href": "/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/health/probiotics_chernobyl/ssstwitter.com_1772378839442-investigation.md",
+        "href": "/science/health/probiotics_chernobyl/ssstwitter.com_1772378839442-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/health/viruses-were-never-found-only-aetheric-disease.md",
+        "href": "/science/health/viruses-were-never-found-only-aetheric-disease"
+      },
+      {
+        "status": "M",
+        "path": "science/microchips/microchips-shrinking-technology-investigation.md",
+        "href": "/science/microchips/microchips-shrinking-technology-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/nukes/investigations/nuke-waste-is-safe-investigation.md",
+        "href": "/science/nukes/investigations/nuke-waste-is-safe-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/nukes/investigations/nukes-dont-exist-investigation.md",
+        "href": "/science/nukes/investigations/nukes-dont-exist-investigation"
+      },
+      {
+        "status": "A",
+        "path": "scripts/inject-prisca-sapientia.py",
+        "href": "/scripts/inject-prisca-sapientia.py"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.png",
+        "alt": "Consensus theater and the stalled physics pipeline — Big Mysteries Survey, popular science, and audit"
+      },
+      {
+        "src": "/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.png",
+        "alt": "Tham Luang cave rescue 2018 investigation"
+      },
+      {
+        "src": "/cosmos/cosmology/the-incorrectly-scaled-universe.png",
+        "alt": "The Incorrectly Scaled Universe — curved-light aether cosmology"
+      },
+      {
+        "src": "/cosmos/mars/investigations/mars-stock-market.png",
+        "alt": "Mars, lunar node, and institutional Earth systems"
+      },
+      {
+        "src": "/docs/)`)."
+      },
+      {
+        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
+        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
+      },
+      {
+        "src": "/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.png",
+        "alt": "Gaza disengagement / Sharon search context — Philadelphi Corridor, withdrawal narrative, and related results (illustrative)"
+      },
+      {
+        "src": "/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.png",
+        "alt": "March 2026 rumor window — Yair Netanyahu X silence, shiva framing, and strike chatter (illustrative)"
+      },
+      {
+        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
+        "alt": "Richard Gage / AE911Truth — investigation header graphic"
+      },
+      {
+        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png",
+        "alt": "Richard Gage / AE911Truth — investigation graphic (charity envelope, open-air prison)"
+      },
+      {
+        "src": "/governance/slavery/slave-trades-and-moor-etymology-investigation.png",
+        "alt": "Slave trades and Moor etymology"
+      },
+      {
+        "src": "/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
+        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
+      },
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png",
+        "alt": "Dubious stand down orders — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.png",
+        "alt": "Occupy Wall Street — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.png",
+        "alt": "Trump assassination attempts, Kimmel / WHCD, ballroom — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.png",
+        "alt": "Armed confrontations — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png",
+        "alt": "Jade Helm 15 — investigation header graphic"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
+        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
+        "alt": "Iran war runner — timeline, dual track, and regional map"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map.png",
+        "alt": "Iran war runner — theater map (Hormuz, Gulf, and adjacent land)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
+        "alt": "Iran war runner — Strait of Hormuz detail (theater map)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/ww2-mission-failed.png",
+        "alt": "WW2 — mission failed vs victory story (Coda lane)"
+      },
+      {
+        "src": "/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png",
+        "alt": "Afterlife maps, Bardo / purgatory transition, and Reformation-era ship allegory — illustrative header"
+      },
+      {
+        "src": "/history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-illustration.png",
+        "alt": "Artemis II walkout — phone preview discrepancy (illustration)"
+      },
+      {
+        "src": "/history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-screenshot.png",
+        "alt": "Artemis II walkout — phone preview vs suits (annotated viral still)"
+      },
+      {
+        "src": "/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.png",
+        "alt": "Etana Sumerian King List Saturnian Investigation"
+      },
+      {
+        "src": "/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png",
+        "alt": "Europe white bloodline, complexion, and whitewash — investigation header"
+      },
+      {
+        "src": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.png",
+        "alt": "Fomenko New Chronology — verification, accessibility, and reproducibility (illustrative header)"
+      },
+      {
+        "src": "/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.png",
+        "alt": "Franklin Palatine Moors screenshot investigation — header"
+      },
+      {
+        "src": "/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png",
+        "alt": "Book page under investigation — page 60, “Palatine Moors,” George II gloss"
+      },
+      {
+        "src": "/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.png",
+        "alt": "Giants, infantry, guerrilla, Children's Crusade — etymology"
+      },
+      {
+        "src": "/history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.png",
+        "alt": "Indigenous legends vs. geologic deep-time — investigation figure"
+      },
+      {
+        "src": "/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.png",
+        "alt": "Griffins and other myth fauna in historical texts — anthropogenic extirpation"
+      },
+      {
+        "src": "/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.png",
+        "alt": "Prester John, Presbyter Ioannes, Rus–Horde Christian East — illustration"
+      },
+      {
+        "src": "/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.png",
+        "alt": "Pyramid energy — Kerrell & Goggin (1977) investigation"
+      },
+      {
+        "src": "/history/chronology/investigations/radiocarbon-dating-investigation.png",
+        "alt": "Radiocarbon Dating Investigation"
+      },
+      {
+        "src": "/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.png",
+        "alt": "Skinwalkers and cryptids — Rus–Horde survivorship thesis and no-sorcery model"
+      },
+      {
+        "src": "/history/chronology/investigations/the-pyramid-les-brown-investigation.png",
+        "alt": "The Pyramid — Les Brown investigation"
+      },
+      {
+        "src": "/history/chronology/investigations/view-over-atlantis-michell-investigation.png",
+        "alt": "View Over Atlantis — John Michell investigation"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
+        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
+        "alt": "Roytas 2024 — Can You Catch a Cold? on Anna’s Archive (book hunt for footnote 8)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png",
+        "alt": "When your child won’t fit the grade — schooling, conformity, and parent advice"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade-warfare.png",
+        "alt": "Mass schooling and warfare — collectivist grading, factory cohorts, fear-driven compliance"
+      },
+      {
+        "src": "/history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.png",
+        "alt": "Fra Mauro, Sahara — Pre-Mudflood Maps investigation header"
+      },
+      {
+        "src": "/history/mudflood/investigations/cargo-cults-investigation.png",
+        "alt": "Cargo cults investigation"
+      },
+      {
+        "src": "/history/mudflood/investigations/promised-land-investigation.png",
+        "alt": "Promised land investigation"
+      },
+      {
+        "src": "/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.png",
+        "alt": "Spore / ecological disaster — Martian cylinders investigation"
+      },
+      {
+        "src": "/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.png",
+        "alt": "Toynbee tiles — *Resurrect Dead* (2011) documentary investigation"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.png",
+        "alt": "The Real Ghostbusters — ethereal noise, proton-pack kitsch, and the counter-program beneath the comedy"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.png",
+        "alt": "Captured courts and ethnic scapegoating — controlled opposition diagram (header)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.png",
+        "alt": "BRSINV / St. Julian — captured courts and Zionist framing investigation (header)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png",
+        "alt": "*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png",
+        "alt": "Open source as sword in the stone — gated exhibit, after hours (investigator metaphor figure)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
+        "alt": "Mars Exploration 1984 — remote viewing session journey / coordinate path"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png",
+        "alt": "Mars Exploration 1984 — remote viewing investigation composite (same release, alternate layout)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
+        "alt": "Mars Exploration 1984 — PDF digest companion figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
+        "alt": "CIA Reading Room — *Chrono Trigger* / Mars remote viewing predictive programming figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.png",
+        "alt": "CIA Reading Room — RV two-way, Iran / religious-revival investigation (header)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png)](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md",
+        "alt": "Mars Exploration 1984 — PDF digest companion figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png",
+        "alt": "Legacy header export — pre-rename filename, same Iran / two-way thread"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.png",
+        "alt": "“Great Awakening” cluster illustration — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); see Limits and disclaimers"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.png",
+        "alt": "AAWSAP / Lacatski investigation — accompanying figure"
+      },
+      {
+        "src": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png",
+        "alt": "Witness reconstruction graphic — east Mesa, Arizona (Phoenix metro area), Tuesday April 22, 2014, ~1:24 AM: stadium-sized fully opaque black triangle, ~7 lights, ~1,000 ft altitude, drifting on a constant heading along a residential street for at least ~1 minute of clear overhead motion (up to ~3 minutes total counting the slow recession into the city light pollution before final disappearance), watched by the author and two roommates, before receding into the standard city light pollution toward east Mesa and disappearing there. Pull-quote: \"I refuse to believe that my roommates and I simultaneously mistook a meteor shower for a stadium-sized black triangle drifting at a thousand feet on a constant heading for at least a minute, with another minute or so to recede and finally disappear.\" Author-made reconstruction graphic, **not** a photograph of the 2014 event."
+      },
+      {
+        "src": "/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
+        "alt": "33 Thomas Street / AT&T Long Lines Building / Titanpointe — the canonical example of a windowless downtown tower whose cover story turned out to be only part of the story"
+      },
+      {
+        "src": "/science/anti_gravity/usaf-tr-3b.jpg",
+        "alt": "TR-3B disclosure collage — USAF wordmark, Phoenix Lights press inset, render"
+      },
+      {
+        "src": "/science/anti_gravity/usaf-tr-3b2.jpg",
+        "alt": "TR-3B collage panel 2 — patent, tarmac, render, schematic"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png",
+        "alt": "Witness reconstruction — east Mesa, Arizona (Phoenix metro area), Tuesday April 22, 2014, ~1:24 AM: black triangle over a residential street; author-made reconstruction, not a photograph."
+      },
+      {
+        "src": "https://paradigmthreat.net/science/anti_gravity/usaf-tr-3b.jpg",
+        "alt": "TR-3B disclosure collage — USAF wordmark, Phoenix Lights press inset, and \"TR-3B Astra\" render (not an official release)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/anti_gravity/usaf-tr-3b2.jpg",
+        "alt": "TR-3B collage panel 2 — St. Clair patent, anonymous tarmac photo, Fouche-era schematic labeled \"USAF Top Secret\""
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
+        "alt": "33 Thomas Street / AT&T Long Lines Building in Lower Manhattan — a 550-foot windowless Brutalist slab that was a telecom switching center and turned out to also be the NSA's TITANPOINTE surveillance hub. The canonical example of a downtown windowless tower whose cover story was true and incomplete at the same time."
+      },
+      {
+        "src": "/influence/hollywood/trump-era-hollywood-political-media-investigation.png",
+        "alt": "Trump-era Hollywood — predictive programming investigation (cover)"
+      },
+      {
+        "src": "/influence/predictive_programming/fiction_encoding/ed-wood-plan9/ed-wood-plan9.png",
+        "alt": "Plan 9: zombie apocalypse as alien instrument"
+      },
+      {
+        "src": "/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.png",
+        "alt": "Urantia Book Investigation"
+      },
+      {
+        "src": "/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.png",
+        "alt": "Canceling the High Poppy — investigation header graphic"
+      },
+      {
+        "src": "/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.png",
+        "alt": "Giants of Japan — archival footage, Big Man Japan, and debunk-overreach"
+      },
+      {
+        "src": "/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.png",
+        "alt": "Indigenous control systems — witchcraft discourse, Vodou “work,” and reservation containment hypotheses"
+      },
+      {
+        "src": "/influence/conspiracy/embedding.jpg",
+        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
+      },
+      {
+        "src": "/influence/conspiracy/scientific_truth.jpg",
+        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
+        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
+      },
+      {
+        "src": "/cosmos/mars/mars_life.jpg",
+        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
+      },
+      {
+        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
+        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
+      },
+      {
+        "src": "/science/ai/ai-takeover.png",
+        "alt": "AI takeover in fiction"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/biology/circle-of-life-and-how-it-began.png",
+        "alt": "The Circle of Life and How It Began — creation memory, scalar field, womb echo (article art)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/biology/investigations/dna-fingerprint-scalar-life-investigation.png",
+        "alt": "DNA as fingerprint, not blueprint — scalar life investigation"
+      },
+      {
+        "src": "/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.png",
+        "alt": "German New Medicine (LearningGNM) — cancer paradigm cluster investigation header"
+      },
+      {
+        "src": "/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
+        "alt": "Quantum computer / infinitely indexed storage — investigation header"
+      },
+      {
+        "src": "/science/computing/quantum-leap-of-faith.png",
+        "alt": "Quantum Leap (of faith) — article header"
+      },
+      {
+        "src": "/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
+        "alt": "Joseph Smith mystery solved — crystal-memory interpretation"
+      },
+      {
+        "src": "/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png",
+        "alt": "Atkinson, Georgia / Brantley Highway 82 fire — radiation-weapon investigation: signature anomalies of vaporized structures adjacent to intact pine canopy"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.png",
+        "alt": "Rural burn zones need a density moratorium — article graphic"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png",
+        "alt": "Brantley Highway 82 burn scar — selective destruction adjacent to intact pine canopy"
+      },
+      {
+        "src": "/science/geoengineering/electromagnetic-tornado.png",
+        "alt": "Electromagnetic tornado: energy transmission through substation and vortex"
+      },
+      {
+        "src": "/science/health/investigations/napoleon-plague-murad-bay-screenshot.png",
+        "alt": "Napoleon plague Murad Bay screenshot — book page under investigation"
+      },
+      {
+        "src": "/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.png",
+        "alt": "Virus isolation skeptical audit — dual-track, ætheric disease, fingerprint not blueprint (investigation header)"
+      },
+      {
+        "src": "/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.png",
+        "alt": "Virus media predictive programming — evolution, genome causality, zombie etiology (investigation header)"
+      },
+      {
+        "src": "/science/health/investigations/virus-media-predictive-programming-capcom.png",
+        "alt": "Capcom virus predictive programming — Mega Man X2 to Resident Evil, Umbrella outbreak grammar (investigation art)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/viruses-were-never-found-only-aetheric-disease.png",
+        "alt": "Viruses were never found in the lab — ætheric disease, fingerprint not genome pathogen (article art)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.png",
+        "alt": "Virus isolation skeptical audit — dual-track dossier, fingerprint not blueprint (companion investigation art)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.png",
+        "alt": "Virus media predictive programming — evolution, genome causality, zombie etiology (companion investigation art)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/genocide/vaccine/zombie_virus.jpg",
+        "alt": "New York Post 2022 — scientists warn long-frozen zombie virus is public health threat amid permafrost thaw (press exhibit)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-capcom.png",
+        "alt": "Capcom virus predictive programming — Mega Man X2 to Resident Evil, outbreak conditioning (article art)"
+      },
+      {
+        "src": "/science/microchips/shrinking-tech.png",
+        "alt": "Shrinking technology concept"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-23T00:01:15.000Z",
+    "message": "Resolve Roytas Ch 11 footnote 8 as Winterbottom 1828.",
     "files": [
       {
         "status": "M",
@@ -1566,103 +2714,6 @@
       {
         "src": "/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.png",
         "alt": "Giants of Japan — archival footage, Big Man Japan, and debunk-overreach"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.png",
-        "alt": "Rural burn zones need a density moratorium — article graphic"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png",
-        "alt": "Brantley Highway 82 burn scar — selective destruction adjacent to intact pine canopy"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-15T12:39:51.000Z",
-    "message": "Blog rotation, consensus-theater pass, BRSINV thread updates, and new lanes.",
-    "files": [
-      {
-        "status": "M",
-        "path": ".github/copilot-instructions.md",
-        "href": "/.github/copilot-instructions"
-      },
-      {
-        "status": "A",
-        "path": "blog/2026-05-14-md2ast-migration-downtime-cave-story-pursue-consensus-theater-roundup.md",
-        "href": "/blog/2026-05-14-md2ast-migration-downtime-cave-story-pursue-consensus-theater-roundup"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md",
-        "href": "/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md",
-        "href": "/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation"
-      },
-      {
-        "status": "M",
-        "path": "docs/BLOG.md",
-        "href": "/docs/BLOG"
-      },
-      {
-        "status": "A",
-        "path": "influence/conspiracy/do-you-believe-in-ghosts.md",
-        "href": "/influence/conspiracy/do-you-believe-in-ghosts"
-      },
-      {
-        "status": "A",
-        "path": "influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation.md",
-        "href": "/influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/captured-courts-wrong-villain.md",
-        "href": "/influence/controlled_opposition/captured-courts-wrong-villain"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/religion/exorcism-demonology-disease-colonial-memory-investigation.md",
-        "href": "/influence/religion/exorcism-demonology-disease-colonial-memory-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.md",
-        "href": "/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.md",
-        "href": "/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/blog/url)`",
-        "alt": "alt"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.png",
-        "alt": "Consensus theater and the stalled physics pipeline — Big Mysteries Survey, popular science, and audit"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.png",
-        "alt": "Captured courts and ethnic scapegoating — controlled opposition diagram (header)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.png",
-        "alt": "BRSINV / St. Julian — captured courts and Zionist framing investigation (header)"
-      },
-      {
-        "src": "/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png",
-        "alt": "Atkinson, Georgia / Brantley Highway 82 fire — radiation-weapon investigation: signature anomalies of vaporized structures adjacent to intact pine canopy"
       },
       {
         "src": "https://paradigmthreat.net/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.png",

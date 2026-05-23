@@ -191,6 +191,10 @@ Keywords: #Influence #Hollywood #Governance #Trump #PredictiveProgramming #Media
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 > **Author meta-disclaimer (read first).** Investigations like this **cannot** be navigated with **rigid** rules. Respondents who shut inquiry down with a shallow playbook — “prove it,” “give me a citation,” treat every date quibble as victory — are **themselves suspect**: what is gained by **strangling others’ imagination**? If the goal was **protection**, **who** asked for it, and **how** do we **opt out**? The author’s questions stand alongside [§ Author note — rigidity](#author-note--rigidity-misunderstanding-patterns-vs-prove-it).
 
 **Technical limits (abbreviated).**

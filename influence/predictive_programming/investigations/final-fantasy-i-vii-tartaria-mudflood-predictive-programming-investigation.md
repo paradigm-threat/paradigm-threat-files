@@ -127,6 +127,10 @@ Keywords: #FinalFantasy #FinalFantasy7 #FinalFantasy6 #Tartaria #PresterJohn #Mu
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 **Fiction vs evidence:** Square Enix titles are **cultural objects**, **not** confirmation of **NC chronology**, **real mud floods**, or **specific** **terrorism** histories.
 
 **Geopolitics:** **AVALANCHE** / **Shinra** readings are **allegorical**; they **do not** license mapping onto **living** **states** or **movements**.

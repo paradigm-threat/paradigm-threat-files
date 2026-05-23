@@ -239,6 +239,10 @@ The goal is not cruelty toward educators. The goal is **stop forcing** children 
 
 ## Framing and limits
 
+
+
+**Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
+
 This page is **parent advice and historic summary**, not medical or legal counsel. **Category 1** conditions should be ruled out with clinicians when signs fit [§11 table A](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md#a-disease--environmental-category-1--details-to-check).
 
 **Collectivist mass-grading**, **Flexner analogy**, **extreme regimes (§16)**, **psyop / Angry Birds (§18.1c)**, and **debunk-cycle** claims are developed in the investigation with evidence tiers — not every sentence here is independently proven.

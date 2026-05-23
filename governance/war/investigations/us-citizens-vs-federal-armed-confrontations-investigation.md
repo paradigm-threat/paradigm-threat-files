@@ -425,4 +425,7 @@ Analogues are **imperfect**; they help **pattern** thinking only.
 
 ---
 
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 Keywords: #War #Investigationopen #Jadehelm #Texas #Tedcruz #2012 #Angrybirds #2016primary #Volcano #Apocalypticrhetoric #Deepstatehypothesis #Militaryexercise #Conspiracytheory #Bundystandoff #Blm #Militia #Federalgovernment #Ushistory #Armedstandoff #Movebombing #Philadelphia

@@ -25,6 +25,10 @@
 
 ## Limits and disclaimers
 
+
+
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
 Read this section once; later sections do not repeat these points except where new nuance is required.
 
 1. **Fiction.** Campaigns use composite states (Urzikstan, Al Mazrah / U.R.A.), renamed factions, and “ripped from the headlines” tone. Nothing here is court-admissible as depiction of IRGC, CIA, or Russian OOB.
