@@ -117,31 +117,11 @@ Napoleonic armies carried **mercury** compounds — **calomel**, purges, surgica
 
 #### Fiction — *Red Mercury* (Max Barclay, 1996)
 
-![Red Mercury — Max Barclay, 1996 (cover supplied by Ari)](https://paradigmthreat.net/history/chronology/investigations/red-mercury-max-barclay-1996-cover.png)
+![Red Mercury — Max Barclay, 1996 (cover)](https://paradigmthreat.net/history/chronology/investigations/red-mercury-max-barclay-1996-cover.png)
 
-| Field | Value |
-|-------|--------|
-| **Title** | *Red Mercury: A Novel* |
-| **Author** | **Max Barclay** |
-| **Year** | **1996** |
-| **ISBN-13** | **978-0787109202** |
-| **ISBN-10** | **0787109207** |
-| **Publisher** | **Dove Books** (West Hollywood, CA); listings also cite **Newstar Pr** |
-| **Format** | Hardcover ~398 pp.; English |
-| **Blurb (Amazon / retail)** | Mack McFall traces **weapons-grade nuclear material** stolen from **Russia** to **Atlanta** and a planned **terrorist attack on the Olympic Games** |
-| **Cover quote** | Scott Turow: *“riveting—and likely to make you think twice about a trip to the Olympics.”* |
+**Full dossier:** [red-mercury-barclay-1996-novel-investigation.md](https://paradigmthreat.net/science/nukes/investigations/red-mercury-barclay-1996-novel-investigation.md) — claims validation, open Qs. **Local mirror:** `~/dev/wget/barclay-1996-red-mercury/INDEX.md` (PDF + scene index, **2026-05-24**).
 
-**Tier:** **Fiction** — **post–Cold War “red mercury” scam / bomb myth** lane ([Wikipedia](https://en.wikipedia.org/wiki/Red_mercury), [New Scientist 1992](https://www.newscientist.com/article/mg13418241-900-only-fools-still-hunt-for-elusive-red-mercury/)), **not** proof of **Napoleonic blood-energy red mercury** (§2.7 author thesis). **Why file it here:** keeps the **phrase** *red mercury* in the investigation bibliography; shows **Camp B pop culture** treating the name as **nuclear-terror MacGuffin** while **this repo’s Camp A read** treats **red mercury** as **field medicine / blood-energy** — same words, **split tiers**.
-
-**Anna’s Archive — how to find (mirror may rotate):**
-
-1. Open **https://annas-archive.org** (or current `.gs` / `.se` mirror if the main site is down).
-2. Search **`9780787109202`** or **`Red Mercury Max Barclay`**.
-3. Filter **language: English**; prefer **ISBN match** on the detail page.
-4. Download **EPUB** or **PDF** if listed; verify title/author/year before citing.
-5. Local mirror convention (if downloaded): `~/dev/wget/red-mercury-max-barclay-1996/` with `INDEX.md` noting ISBN and acquisition date.
-
-**Repo copy:** cover only — `history/chronology/investigations/red-mercury-max-barclay-1996-cover.png`. **Text:** not in repo until Ari mirrors from Anna’s Archive.
+**Tier:** **Fiction** — **1990s red-mercury scam / nuclear-terror** lane (**Kidger**, **Hg₂Sb₂O₇** press specs, Chelyabinsk loose-nuke panic) — **not** Napoleonic **blood-energy** red mercury (author thesis above). Same phrase, **split tiers**: Camp B **bomb myth** (novel) vs Camp A **field medicine** (this dossier).
 
 #### Author thesis — investigation assumes red mercury **works**
 
@@ -283,7 +263,7 @@ Famines, genocide, vaccines/genome, Flexner, eugenics → COVID — **dossier de
 | Q8 | **Red mercury** by name — Napoleonic, alchemical, or **French military** primary | **Open** |
 | Q6 | **Curie** / French Army — therapeutic vs diagnostic field radiation | **Open** |
 | Q7 | **Radiation cure** evidence **before 1914** (any army) | **Open** |
-| Q9 | Read **Barclay 1996** *Red Mercury* — any overlap with **blood-energy** thesis vs **bomb hoax** only | **Open** |
+| Q9 | Read **Barclay 1996** — overlap with **blood-energy** thesis vs **bomb hoax** | **Partial** — [Barclay investigation](https://paradigmthreat.net/science/nukes/investigations/red-mercury-barclay-1996-novel-investigation.md); mirror ingested |
 
 ---
 
@@ -295,6 +275,7 @@ Famines, genocide, vaccines/genome, Flexner, eugenics → COVID — **dossier de
 | [Napoleon plague](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md) | Gros forensics; **framing split** |
 | [Marie Curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) | Radiation redaction |
 | [Pyramid energy](/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md) | Medical stone |
+| [Red Mercury novel](https://paradigmthreat.net/science/nukes/investigations/red-mercury-barclay-1996-novel-investigation.md) | 1996 fiction / scam lore |
 
 ---
 

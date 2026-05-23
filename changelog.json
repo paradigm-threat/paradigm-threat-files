@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-23T13:55:52.598Z",
+    "date": "2026-05-23T14:07:50.230Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
+        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
+      },
+      {
+        "status": "A",
+        "path": "science/nukes/investigations/red-mercury-barclay-1996-novel-investigation.md",
+        "href": "/science/nukes/investigations/red-mercury-barclay-1996-novel-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/red-mercury-max-barclay-1996-cover.png",
+        "alt": "Red Mercury — Max Barclay, 1996 (cover)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-23T13:55:51.000Z",
+    "message": "Add Max Barclay Red Mercury (1996) to Napoleon investigation §2.7.",
     "files": [
       {
         "status": "M",
@@ -2616,24 +2639,6 @@
       {
         "src": "https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-capcom.png",
         "alt": "Capcom virus predictive programming — Mega Man X2 to Resident Evil, outbreak conditioning (article art)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-20T13:22:50.000Z",
-    "message": "Expand Europe whitewash investigation with Moor–Boor author sentiment.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md",
-        "href": "/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png",
-        "alt": "Europe white bloodline, complexion, and whitewash — investigation header"
       }
     ]
   }
