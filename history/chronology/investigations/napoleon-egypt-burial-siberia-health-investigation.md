@@ -119,9 +119,9 @@ Napoleonic armies carried **mercury** compounds — **calomel**, purges, surgica
 
 ![Red Mercury — Max Barclay, 1996 (cover)](https://paradigmthreat.net/history/chronology/investigations/red-mercury-max-barclay-1996-cover.png)
 
-**Full dossier:** [red-mercury-barclay-1996-novel-investigation.md](https://paradigmthreat.net/science/nukes/investigations/red-mercury-barclay-1996-novel-investigation.md) — claims validation, open Qs. **Local mirror:** `~/dev/wget/barclay-1996-red-mercury/INDEX.md` (PDF + scene index, **2026-05-24**).
+**Full dossier:** [red-mercury-barclay-1996-novel-investigation.md](https://paradigmthreat.net/science/nukes/investigations/red-mercury-barclay-1996-novel-investigation.md) — validation + **§5 PP / redacted-fact** thesis. Mirror: `~/dev/wget/barclay-1996-red-mercury/INDEX.md`.
 
-**Tier:** **Fiction** — **1990s red-mercury scam / nuclear-terror** lane (**Kidger**, **Hg₂Sb₂O₇** press specs, Chelyabinsk loose-nuke panic) — **not** Napoleonic **blood-energy** red mercury (author thesis above). Same phrase, **split tiers**: Camp B **bomb myth** (novel) vs Camp A **field medicine** (this dossier).
+**Tier:** **Fiction** — **1990s scam / nuclear-terror** surface; **author hypothesis:** techno-thriller may **program** “red mercury = hoax” while smuggling **documented** trade chemistry (**Hg₂Sb₂O₇**, Kidger) — **not** Napoleonic **blood-energy** red mercury (§2.7 above). **Pure fusion** plot beat = **misdirection tier**, not physics endorsement.
 
 #### Author thesis — investigation assumes red mercury **works**
 
