@@ -1,8 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-23T11:59:58.232Z",
+    "date": "2026-05-23T12:08:54.874Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
+        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
+        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
+        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
+        "alt": "Roytas 2024 — Can You Catch a Cold? on Anna’s Archive (book hunt for footnote 8)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-23T11:59:57.000Z",
+    "message": "Update Napoleon corpses article hero image.",
     "files": [
       {
         "status": "M",
@@ -2669,43 +2696,6 @@
       {
         "src": "https://paradigmthreat.net/influence/controlled_opposition/the-second-exodus-comic-strip.png",
         "alt": "Second Exodus — four-panel satire: crowd stays, solo walk, “but the future refused to change”"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-17T00:19:45.000Z",
-    "message": "Add reader article: The Second Exodus Of OC ReMix",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/page.md",
-        "href": "/influence/controlled_opposition"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/success-by-any-means-necessary.md",
-        "href": "/influence/controlled_opposition/success-by-any-means-necessary"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/the-second-exodus-of-oc-remix.md",
-        "href": "/influence/controlled_opposition/the-second-exodus-of-oc-remix"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary.png",
-        "alt": "Success — by any means necessary — paying audience, black-box pipeline, NDAs, and leader accountability"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary-info.png",
-        "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
       }
     ]
   }
