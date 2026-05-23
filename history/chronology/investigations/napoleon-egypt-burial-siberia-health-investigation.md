@@ -1,6 +1,6 @@
 # Napoleon, Egypt dry burial, French elite science, Siberia disease, Curie, and radiation–mutant memory
 
-> **TL;DR:** Dossier for [Napoleon corpses article](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md). **Semmelweis (1847 Vienna):** documented autopsy-to-maternity handwash win; author reads **modern germ-saint** as inversion. Article ends **Twelve Monkeys** camp psychology. **Author (2026-05-23):** real **herd immunity** (healthy cohorts resist + share antibodies) vs **vaccine dogma**; **Egypt** = peak confidence/terrain, **Russia** = depletion/disease; virology denies healthy avoidance since **COVID**. **Curie 1914–18** is not between the two empires. **Pyramids** shelter/hospital until **11th c.** (author + Kerrell/Goggin/Les Brown only). **Fomenko** Styx/Egypt burial: `chronologia.org/en/chronologia5/empire19_05.html`. **Curie DU** = author belief. **Zelensky** = proxy WW1+WW2 ([reverse crusades](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md)). **Roytas** Ch 11 — note **8** = **Winterbottom 1828** (`~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`).
+> **TL;DR:** Dossier for [Napoleon corpses article](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md). **Semmelweis (1847 Vienna):** handwash win; **Oct 1850** docent terms **denied cadavers** (corpse-dependent study blocked); author reads **modern germ-saint** as inversion. Article ends **Twelve Monkeys** camp psychology. **Author (2026-05-23):** real **herd immunity** (healthy cohorts resist + share antibodies) vs **vaccine dogma**; **Egypt** = peak confidence/terrain, **Russia** = depletion/disease; virology denies healthy avoidance since **COVID**. **Curie 1914–18** is not between the two empires. **Pyramids** shelter/hospital until **11th c.** (author + Kerrell/Goggin/Les Brown only). **Fomenko** Styx/Egypt burial: `chronologia.org/en/chronologia5/empire19_05.html`. **Curie DU** = author belief. **Zelensky** = proxy WW1+WW2 ([reverse crusades](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md)). **Roytas** Ch 11 — note **8** = **Winterbottom 1828** (`~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`).
 
 **Status:** Open — article **2026-05-24** Semmelweis + *Twelve Monkeys* ending; **2026-05-23** herd-immunity / Egypt–Russia; Roytas note **8** = Winterbottom 1828; Winterbottom primary pending.
 
@@ -76,9 +76,9 @@
 
 ### 2.6 Semmelweis, corpse wards, and camp psychology (author + film)
 
-**Author claim (2026-05-24):** Semmelweis was right that **cadaver exposure near maternity** was deadly; the rest of his legacy is **wacko** in the author’s frame; he was **ridiculed**, **forgotten**, then **remembered** as a **virology-dogma** pioneer (wash hands, believe invisible agents). Modern praise serves **eugenics / new medicine** that **eliminated old sciences**. He did not truly invent anything—an **easy win** in an age of **carnage**; **many doctors disagreed**; empirical science + **ancient knowledge** were **changed** to force **universal handwashing**. Medicine forces **supporter vs denier** camps around celebrities. ***Twelve Monkeys*** (1995) illustrates the camps via Pitt’s **Semmelweis / burger / germs** rant and **“only popular opinion.”**
+**Author claim (2026-05-24):** Semmelweis was right that **cadaver exposure near maternity** was deadly; the rest of his legacy is **wacko** in the author’s frame; he was **ridiculed**, **forgotten**, then **remembered** as a **virology-dogma** pioneer (wash hands, believe invisible agents). After **total refusal** by peers, he was **denied further corpse-dependent work** in Vienna (**Oct 1850** docent terms: **no cadavers**, mannequins only)—**close study / experiment on corpses** in the ordinary hospital sense, not a separate unethical trial. Modern praise serves **eugenics / new medicine** that **eliminated old sciences**. He did not truly invent anything—an **easy win** in an age of **carnage**; **many doctors disagreed**; empirical science + **ancient knowledge** were **changed** to force **universal handwashing**. Medicine forces **supporter vs denier** camps around celebrities. ***Twelve Monkeys*** (1995) illustrates the camps via Pitt’s **Semmelweis / burger / germs** rant and **“only popular opinion.”**
 
-**Unpack:** See §11 for **fact check** vs author synthesis. Article ends on **Twelve Monkeys** per Ari.
+**Unpack:** See §11. **Prior agent overcorrection retracted:** Vienna **cadaver ban** = documented; aligns with author’s “denied chance at further research.” Article ends on **Twelve Monkeys** per Ari.
 
 ---
 
@@ -154,14 +154,19 @@ Napoleon **rhymes** Curie-era **miracle medicine**—not causal. **Personal beli
 | **1846** | Assistant at Vienna **maternity clinic** (two clinics: medical students vs midwives) |
 | **1847** | Kolletschka dies from autopsy wound; Semmelweis orders **chlorinated lime** hand wash; mortality falls sharply |
 | **1848** | Low mortality in doctors’ clinic (~**1.27%** in common summaries vs ~**18%** before) |
-| **1850** | Leaves Vienna; handwashing policy dropped; deaths rise again (supports association) |
-| **1855–1865** | Budapest; lower mortality when protocol kept |
+| **20 Mar 1849** | Klein appoints **Carl Braun** assistant; Semmelweis **leaves** First Clinic |
+| **1849–1850** | Docent petition **denied** at first (Klein); **18+ months** wait |
+| **10 Oct 1850** | Docent of **“theoretical”** obstetrics—**no cadaver access**; **leather mannequins** only; leaves Vienna within days |
+| **1850** | Vienna handwashing policy dropped; deaths rise again (supports association) |
+| **1851–1865** | **Pest/Budapest**—Szent Rókus (**1851**), professor (**1855**); lower mortality when protocol kept |
 | **30 Jul 1865** | Lured to **Landes-Irren-Anstalt**, Lazarettgasse, Vienna |
 | **13 Aug 1865** | Dies age **47**; **pyemia** / hand wound sepsis after beating/restraint |
 
 **What he claimed:** **Cadaverous particles** from autopsy—not **germs** (Pasteur/Lister later supplied germ-theory frame).
 
-**What he did not claim (correcting common slips):** Not “corpses stored beside maternity” as a building layout alone—the mechanism is **hands** carrying **autopsy material** to **living patients**. Not a denied project to **experiment on corpses** in the user’s sense; he **implemented** washing and fought colleagues who **rejected** theory and pride.
+**What he did not claim (correcting common slips):** Not “corpses stored beside maternity” as a building layout alone—the mechanism is **hands** carrying **autopsy material** to **living patients**. Not **germ theory** or modern **“germs.”**
+
+**Denied corpse-dependent work (documented — author was right):** After clinic dismissal (**1849**), Vienna’s **Oct 1850** docent appointment **refused cadaver access** and limited him to **mannequins**—blocking the **autopsy/dissection** bench his theory required. Author’s **“experiment on corpses”** = **close study of corpses** (ordinary hospital science), not a separate unethical protocol; **peers still autopsied** while denying him continuation in Vienna. He **implemented** washing in-clinic **before** the ban; later work resumed in **Pest**.
 
 **Who disagreed:** Viennese establishment (e.g. **Carl Braun** replaced him; **Ignaz Fodor** defended old views); many mocked “wash your hands.”
 
@@ -172,6 +177,7 @@ Napoleon **rhymes** Curie-era **miracle medicine**—not causal. **Personal beli
 | Claim | Tier |
 |-------|------|
 | Autopsy-to-maternity link + chlorine wash saves mothers | **Documented** (statistics contested in detail but association strong) |
+| Denied further corpse-dependent study in Vienna (docent terms, Oct 1850) | **Documented** |
 | “Thousands could have said it” / he invented nothing new | **Author synthesis** |
 | Remembered only for eugenics/new-medicine politics | **Author synthesis** (rhymes Flexner/population lane) |
 | Universal handwashing dogma inverts terrain medicine | **Author thesis** — investigation pursues this |
@@ -220,7 +226,7 @@ Jeffrey Goines (Brad Pitt), asylum scene (~00:00:55+): **“Crazy is majority ru
 | Q1b | Read **Winterbottom** primary for Murad Bay literal | **Open** |
 | Q2 | Add more **named** modern pyramid witnesses if Ari supplies | **Open** |
 | Q3 | Mutant media table in dossier §5 | **TODO** |
-| Q4 | Primary read Semmelweis *Etiology* / open letters for “experiment” wording | **Open** |
+| Q4 | Primary read Semmelweis *Etiology* / open letters for “experiment” wording | **Partial** — Vienna **cadaver ban** documented (Wikipedia / standard histories); full *Etiologie* quotes optional |
 
 ---
 

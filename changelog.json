@@ -1,8 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-23T12:08:54.874Z",
+    "date": "2026-05-23T12:14:46.862Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
+        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
+        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
+        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
+        "alt": "Roytas 2024 — Can You Catch a Cold? on Anna’s Archive (book hunt for footnote 8)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-23T12:08:54.000Z",
+    "message": "Add Semmelweis inversion and Twelve Monkeys ending to Napoleon corpses essay.",
     "files": [
       {
         "status": "M",
@@ -2670,32 +2697,6 @@
       {
         "src": "https://paradigmthreat.net/influence/controlled_opposition/the-second-exodus-of-oc-remix.png",
         "alt": "The Second Exodus Of OC ReMix — four-panel satire: crowd stays, solo walk, “but the future refused to change”"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-17T00:30:24.000Z",
-    "message": "Second Exodus: HD wide satire comic strip + article embed",
-    "files": [
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/the-second-exodus-comic-strip.png",
-        "href": "/influence/controlled_opposition/the-second-exodus-comic-strip.png"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/the-second-exodus-of-oc-remix.md",
-        "href": "/influence/controlled_opposition/the-second-exodus-of-oc-remix"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/the-second-exodus-comic-strip.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/the-second-exodus-comic-strip.png",
-        "alt": "Second Exodus — four-panel satire: crowd stays, solo walk, “but the future refused to change”"
       }
     ]
   }
