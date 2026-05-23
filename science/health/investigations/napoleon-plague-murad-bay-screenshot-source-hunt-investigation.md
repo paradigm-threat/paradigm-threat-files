@@ -4,7 +4,7 @@
 
 > **TL;DR:** The circulated page is **almost certainly** from **Daniel Roytas**, [*Can You Catch a Cold?*](https://books.google.com/books/about/Can_You_Catch_a_Cold.html?id=jGK00AEACAAJ) (**2024**). The **famous** public image of the episode is **Antoine-Jean Gros**, [*Bonaparte visitant les pestiférés de Jaffa*](https://collections.louvre.fr/en/ark:/53355/cl010062570) (**1804**, Louvre) — state **propaganda** between empire and coronation, advised by Egypt veteran **Vivant Denon**, **not** a neutral record. Witnesses **split**: **Berthier** silent; **Bourrienne** “fast pace”; **Desgenettes** “grabbed the sick”; **Peterson** cites **one corpse carried** in a ward (**11 Mar 1799**). Roytas **compresses** Pyramids + **Murad Bay** + zero deaths; Gros **compresses** sack/opium scandal into **touch-the-bubo** heroism. Cross-read: [virus isolation audit](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md), [Franklin screenshot hunt](/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md).
 
-**Status:** Open — book ID **confirmed** at synopsis level; **footnote 8** and Roytas’s **primary chain** still need a physical/PDF copy.
+**Status:** Open — book **on disk** (`~/dev/wget/roytas-2024-can-you-catch-a-cold/`); **footnote 8 = Winterbottom 1828**; **Winterbottom primary** and **Murad Bay** literal still to verify.
 
 **Date:** 2026-05-22
 
@@ -63,9 +63,23 @@ People rarely fabricate **whole book pages** when a **published 2024 title** alr
 
 That match means the screenshot is **very likely** a photograph of **Roytas’s book** (or a downstream quote of it), not an anonymous paste.
 
-### 2.3 Footnote **⁸**
+### 2.3 Footnotes on the Napoleon block (Chapter 11) — **resolved from local EPUB/PDF**
 
-The superscript **8** on the screenshot is an **in-book endnote**, not yet retrieved here. **TODO:** Obtain PDF/paper → read note **8** → list Roytas’s **immediate** source (Desgenettes? Herold? anticontagionist pamphlet?).
+**Local mirror:** `~/dev/wget/roytas-2024-can-you-catch-a-cold/` (`roytas-2024-can-you-catch-a-cold.epub`, `.pdf`, `INDEX.md`).
+
+**Passage:** Ch. 11 *Contagion Trailblazers*, *The Pioneers of Human Transmission (1798 – 1900)*, **pp. 204–206**.
+
+| Note | Roytas citation | Clause anchored |
+|------|-----------------|-----------------|
+| **5** | Harris JC. 2006. *Arch Gen Psychiatry*. 63(5):482 | Plague after fortress liberation |
+| **6** | Kelly C. 2010. *Can Bull Med Hist*. 27(2):321–42 | Desgenettes self-inoculation / remained well |
+| **7** | Coudray F. 1926. *Arch Med et Pharm Milit*. 85(4):387–403 | Desgenettes thread (military-medical) |
+| **8** | **Winterbottom T. 1828. *Edinb Med Surg J*. 30(97):321–44** | **Murad Bay; sixty enemy dead; no Frenchman infected** |
+| **9** | Bulmus B. 2012. *Plague, Quarantines and Geopolitics…*, pp. 130–51 | Clot-Bey 1835 injections |
+
+**Footnote 8 verdict:** Roytas’s **immediate** source for the screenshot’s **zero-infection / Murad Bay** clause is **Winterbottom (1828)**, not Gros (1804), not Desgenettes (1802). **TODO:** Read Winterbottom pages 321–44 for literal “Murad Bay,” “sixty,” and army-wide zero cases vs Roytas compression.
+
+**Book quirks:** spells **Renée** Desgenettes; uses **Murad Bay** (mainstream maps: **Murad Bey’s palace**, Giza).
 
 **Not Arthur Firstenberg:** [*The Invisible Rainbow*](https://books.google.com/books/about/The_Invisible_Rainbow.html?id=jALMDwAAQBAJ) is EMF-focused; no hit for this Napoleon block in quick passes.
 
@@ -294,8 +308,8 @@ flowchart LR
 
 | ID | Question | How to adjudicate |
 |----|----------|-------------------|
-| Q0 | Did Roytas **footnote 8** cite **Gros**, **Desgenettes**, or a **modern** anticontagionist retelling? | Note **8** + Grigsby ch. on Jaffa canvas |
-| Q1 | What does Roytas **footnote 8** cite verbatim? | **Anna’s Archive:** search `Roytas 2024` or ISBN `9781763504400`; inside PDF search `Napoleon`, `Jaffa`, `8` / `footnote` — article embeds hunt screenshot |
+| Q0 | Did Roytas **footnote 8** cite **Gros**, **Desgenettes**, or a **modern** anticontagionist retelling? | **Closed:** **Winterbottom 1828** — not Gros/Desgenettes |
+| Q1 | What does Roytas **footnote 8** cite verbatim? | **Closed:** Winterbottom T. 1828. *Edinb Med Surg J* 30(97):321–44 — see `~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md` |
 | Q2 | Does any **pre-Roytas** text use **“Murad Bay”** (not Bey)? | Google Books N-gram / HathiTrust `"Murad Bay" plague` |
 | Q3 | Is **sixty enemy soldiers** in **Murad Bey’s palace** in **Desgenettes**, **Herold**, or **La Jonquière**? | Primary read |
 | Q4 | Did Roytas conflate **Clot-Bey 1835** prisoner injections with **1798** campaign? | Roytas ch. + Clot primary |
@@ -305,8 +319,9 @@ flowchart LR
 
 ## Weak points / remaining research TODOs
 
-- [ ] Physical/PDF copy of **Roytas (2024)**  
-- [ ] Transcribe **endnote 8** and upstream primary  
+- [x] Local **Roytas (2024)** EPUB + PDF in `~/dev/wget/roytas-2024-can-you-catch-a-cold/`  
+- [x] **Endnote 8** = Winterbottom 1828 (Ch 11 refs)  
+- [ ] Read **Winterbottom 1828** primary for Murad Bay / sixty / zero claims  
 - [ ] Read **Grigsby** (*Extremities*) + **O'Brien** (*After the Revolution*) on Jaffa canvas  
 - [ ] Compare **Musée Condé PE-428** sketch (“carrying soldier”) to Roytas **corpse** wording  
 - [ ] OCR screenshot page number from higher-res scan  
@@ -316,13 +331,13 @@ flowchart LR
 
 Keywords: #NapoleonPlague #MuradBay #GrosJaffa #BonapartePestiferes #AntoineJeanGros #DanielRoytas #CanYouCatchACold #ContagionMyth #Desgenettes #VivantDenon #ScreenshotForensics #ParadigmThreatFiles
 
-**Last updated:** 2026-05-22
+**Last updated:** 2026-05-22 (footnote 8 from local EPUB)
 
 ---
 
 ## Limits and disclaimers
 
-This file **identifies a likely source book** and **grades** screenshot claims against mainstream military-medical history. It does **not** assert that bubonic plague is non-infectious, that Roytas is correct on all counts, or that Napoleon’s stunts prove germ theory false. **Author thesis** material elsewhere in the repo (ætheric disease, anticontagion sympathy) is **cross-linked**, not imported as automatic proof here. Retail links and Substack summaries are **secondary** until note **8** is opened on the printed/PDF edition.
+This file **identifies the source book** and **grades** screenshot claims against mainstream military-medical history. **Footnote 8** is transcribed from the local EPUB (Winterbottom 1828); the **primary** still needs reading. It does **not** assert that bubonic plague is non-infectious, that Roytas is correct on all counts, or that Napoleon’s stunts prove germ theory false. **Author thesis** material elsewhere in the repo (ætheric disease, anticontagion sympathy) is **cross-linked**, not imported as automatic proof here.
 
 ## Investigator notes
 

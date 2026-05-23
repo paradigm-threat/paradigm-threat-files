@@ -1,8 +1,8 @@
 # Napoleon, Egypt dry burial, French elite science, Siberia disease, Curie, and radiation–mutant memory
 
-> **TL;DR:** Dossier for [A history lesson on the time Napoleon carried around corpses](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md). **Curie 1914–18** ≠ between First/Second Empire. **Pyramids** shelter/hospital until **11th c.** (author + Kerrell/Goggin/Les Brown only). **Fomenko** Styx/Egypt burial: `chronologia.org/en/chronologia5/empire19_05.html`. **Curie DU** = author belief. **Zelensky** = proxy WW1+WW2 ([reverse crusades](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md)). **Roytas** footnote **8** — hunt on Anna’s Archive ISBN `9781763504400`.
+> **TL;DR:** Dossier for [A history lesson on the time Napoleon carried around corpses](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md). **Curie 1914–18** ≠ between First/Second Empire. **Pyramids** shelter/hospital until **11th c.** (author + Kerrell/Goggin/Les Brown only). **Fomenko** Styx/Egypt burial: `chronologia.org/en/chronologia5/empire19_05.html`. **Curie DU** = author belief. **Zelensky** = proxy WW1+WW2 ([reverse crusades](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md)). **Roytas** Ch 11 — note **8** = **Winterbottom 1828** (`~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`).
 
-**Status:** Open — lay article updated 2026-05-22; Roytas note **8** pending download.
+**Status:** Open — lay article updated 2026-05-22; Roytas **Ch 11** on disk; **note 8 = Winterbottom 1828**; Winterbottom primary pending.
 
 **Lay article:** [napoleon-corpses-dry-egypt-siberian-disease.md](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md)
 
@@ -89,7 +89,7 @@ Napoleon **rhymes** Curie-era **miracle medicine**—not causal. **Personal beli
 ## 7. Documented anchors
 
 - Plague/Gros — [napoleon-plague §5](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md)  
-- Roytas 2024 — Anna’s Archive / ISBN **9781763504400**; footnote **8** **TODO**  
+- Roytas 2024 — `~/dev/wget/roytas-2024-can-you-catch-a-cold/`; note **8** = Winterbottom 1828 *Edinb Med Surg J* 30(97):321–44  
 - Curie/Byers/Flexner — [marie-curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md)  
 
 ---
@@ -107,7 +107,8 @@ Napoleon **rhymes** Curie-era **miracle medicine**—not causal. **Personal beli
 | Pyramid sources | **Only** pyramid-energy investigation + author theories |
 | Name experimenters | **Yes** — Kerrell, Goggin, Les Brown in article |
 | Fomenko wget | **`~/dev/wget/chronologia.org`** — `empire19_05.html` etc. |
-| Roytas book | **No copy yet** — download PDF/EPUB from Anna’s Archive; search **footnote 8**, Napoleon, Jaffa |
+| Roytas book | **Local:** `~/dev/wget/roytas-2024-can-you-catch-a-cold/` + `INDEX.md` |
+| Roytas note 8 | **Winterbottom 1828** — Murad Bay / zero French infections |
 | Population mechanisms | **Everything mentioned** |
 | Curie DU | **Personal belief** — **in article body** |
 | Zelensky | **Proxy WW1+WW2** — [reverse crusades](/governance/war/investigations/reverse-crusades-comparison.md) |
@@ -124,7 +125,8 @@ Napoleon **rhymes** Curie-era **miracle medicine**—not causal. **Personal beli
 
 | ID | Question | Status |
 |----|----------|--------|
-| Q1 | Transcribe Roytas **footnote 8** after Ari downloads book | **Open** |
+| Q1 | Transcribe Roytas **footnote 8** | **Closed** — Winterbottom 1828 |
+| Q1b | Read **Winterbottom** primary for Murad Bay literal | **Open** |
 | Q2 | Add more **named** modern pyramid witnesses if Ari supplies | **Open** |
 | Q3 | Mutant media table in dossier §5 | **TODO** |
 
@@ -156,5 +158,5 @@ Author thesis first-class; not automatic fact. **DU assassination** = Ari belief
 ## Investigator notes
 
 - Fomenko wget: `~/dev/wget/chronologia.org/en/chronologia5/empire19_05.html` (Styx/Mediterranean/Charon)  
-- Roytas hunt: Anna’s Archive `Roytas 2024`, ISBN 9781763504400, search footnote 8  
+- Roytas: `~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`; note **8** = Winterbottom 1828  
 - Quote PNG: `history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png`
