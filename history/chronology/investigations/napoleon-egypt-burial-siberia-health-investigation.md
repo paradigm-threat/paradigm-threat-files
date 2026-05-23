@@ -2,7 +2,7 @@
 
 > **TL;DR:** Dossier for [Napoleon corpses article](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md). **Semmelweis (1847 Vienna):** handwash win; **Oct 1850** docent terms **denied cadavers** (corpse-dependent study blocked); author reads **modern germ-saint** as inversion. Article ends **Twelve Monkeys** camp psychology. **Author (2026-05-23):** real **herd immunity** (healthy cohorts resist + share antibodies) vs **vaccine dogma**; **Egypt** = peak confidence/terrain, **Russia** = depletion/disease; virology denies healthy avoidance since **COVID**. **Curie 1914–18** is not between the two empires. **Pyramids** shelter/hospital until **11th c.** (author + Kerrell/Goggin/Les Brown only). **Fomenko** Styx/Egypt burial: `chronologia.org/en/chronologia5/empire19_05.html`. **Curie DU** = author belief. **Zelensky** = proxy WW1+WW2 ([reverse crusades](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md)). **Roytas** Ch 11 — note **8** = **Winterbottom 1828** (`~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`).
 
-**Status:** Open — article **2026-05-24** Semmelweis + *Twelve Monkeys* ending; **2026-05-23** herd-immunity / Egypt–Russia; Roytas note **8** = Winterbottom 1828; Winterbottom primary pending.
+**Status:** Open — article **2026-05-24** final prose sweep; Roytas note **8** = Winterbottom 1828; Winterbottom primary pending.
 
 **Lay article:** [napoleon-corpses-dry-egypt-siberian-disease.md](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md)
 
@@ -48,13 +48,13 @@
 
 **Author claim:** The biggest issue disease **virologists** have is that they **do not believe** a **healthy person can avoid being infected**—and if they ever did, they **absolutely stopped** believing it in recent times since **COVID**.
 
-**Unpack:** Institutional germ theory treats everyone as a passive vessel; “breakthrough” infection after injection is normalized rather than treated as falsification of product-centric herd models.
+**Note:** Institutional germ theory treats everyone as a passive vessel; “breakthrough” infection after injection is normalized rather than treated as falsification of product-centric herd models.
 
 ### 2.2 Real herd immunity vs vaccine dogma
 
 **Author claim (verbatim sense):** Healthy **children** and healthy **adults** usually **resist** “viruses” and **generate antibodies for everyone around them**. That is **real herd immunity**, lost in **vaccine dogma** and replaced by **vaccine-based herd immunity**. Regardless of how a virus label entered the story, the **herd generates and shares its own antibodies** and needs **no further intervention**.
 
-**Unpack:** Collective immune tone vs schedule compliance; rhymes Roytas / anticontagion human experiments and [ætheric disease](/science/health/viruses-were-never-found-only-aetheric-disease.md) lane—not proven as mechanism here.
+**Note:** Collective immune tone vs schedule compliance; ties to Roytas / anticontagion lane and [ætheric disease](/science/health/viruses-were-never-found-only-aetheric-disease.md)—not proven as mechanism here.
 
 ### 2.3 Napoleon in Egypt vs Russia
 
@@ -66,19 +66,19 @@
 
 **Author claim:** Scientists could tell the truth or **hide facts** to obtain the **perception** they wanted—rhyming **communism**, **eugenics**, and **“quality of genes”** as code for **population control**, elimination of **non-royal bloodlines**, a **new world order** where nobody could **cross into** the “correct” bloodline to resist **cultural viruses** that lead to **war and famine**.
 
-**Unpack:** Structural capture thesis; cross-link [Europe white-bloodline](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md), [virus-media](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md). **Not** a claim that every modern geneticist holds this intent.
+**Note:** Structural capture thesis; cross-link [Europe white-bloodline](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md), [virus-media](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md). **Not** every modern geneticist holds this intent.
 
 ### 2.5 Vaccine dependency loop
 
 **Author claim:** The body relies on the **external recipe**, stops trying to **hold its own tone**, expects more external recipes; **vaccinated** people tend to **need** ongoing vaccination to stay “healthy,” while **unvaccinated** people who never entered the cycle **never start** the downward loop.
 
-**Unpack:** Dependency / learned helplessness frame; cite as **author health thesis**, not epidemiological proof in this file.
+**Note:** Dependency frame; **author health thesis**, not epidemiological proof in this file.
 
 ### 2.6 Semmelweis, corpse wards, and camp psychology (author + film)
 
-**Author claim (2026-05-24):** Semmelweis was right that **cadaver exposure near maternity** was deadly; the rest of his legacy is **wacko** in the author’s frame; he was **ridiculed**, **forgotten**, then **remembered** as a **virology-dogma** pioneer (wash hands, believe invisible agents). After **total refusal** by peers, he was **denied further corpse-dependent work** in Vienna (**Oct 1850** docent terms: **no cadavers**, mannequins only)—**close study / experiment on corpses** in the ordinary hospital sense, not a separate unethical trial. Modern praise serves **eugenics / new medicine** that **eliminated old sciences**. He did not truly invent anything—an **easy win** in an age of **carnage**; **many doctors disagreed**; empirical science + **ancient knowledge** were **changed** to force **universal handwashing**. Medicine forces **supporter vs denier** camps around celebrities. ***Twelve Monkeys*** (1995) illustrates the camps via Pitt’s **Semmelweis / burger / germs** rant and **“only popular opinion.”**
+**Author claim (2026-05-24):** Semmelweis was right that **cadaver exposure near maternity** was deadly; later legacy **distorted** into germ-dogma sainthood; **ridiculed**, **forgotten**, then **remembered** as handwash pioneer for invisible agents. After peer **refusal**, **denied corpse-dependent work** in Vienna (**Oct 1850** docent: **no cadavers**, mannequins only)—**close study / experiment on corpses** = ordinary autopsy science. Modern praise serves **eugenics / new medicine** displacing older frames. **Easy win** in an age of carnage; **many doctors disagreed**; universal handwashing forced by later science politics. **Supporter vs denier** camps around celebrities. ***Twelve Monkeys*** (1995): Pitt **Semmelweis / burger / germs** rant, **“only popular opinion.”**
 
-**Unpack:** See §11. **Prior agent overcorrection retracted:** Vienna **cadaver ban** = documented; aligns with author’s “denied chance at further research.” Article ends on **Twelve Monkeys** per Ari.
+**Note:** §11; Vienna **cadaver ban** documented. Article ends **Twelve Monkeys**.
 
 ---
 
@@ -166,7 +166,7 @@ Napoleon **rhymes** Curie-era **miracle medicine**—not causal. **Personal beli
 
 **What he did not claim (correcting common slips):** Not “corpses stored beside maternity” as a building layout alone—the mechanism is **hands** carrying **autopsy material** to **living patients**. Not **germ theory** or modern **“germs.”**
 
-**Denied corpse-dependent work (documented — author was right):** After clinic dismissal (**1849**), Vienna’s **Oct 1850** docent appointment **refused cadaver access** and limited him to **mannequins**—blocking the **autopsy/dissection** bench his theory required. Author’s **“experiment on corpses”** = **close study of corpses** (ordinary hospital science), not a separate unethical protocol; **peers still autopsied** while denying him continuation in Vienna. He **implemented** washing in-clinic **before** the ban; later work resumed in **Pest**.
+**Denied corpse-dependent work (documented):** After clinic dismissal (**1849**), **Oct 1850** docent terms **refused cadaver access** (mannequins only)—blocking the autopsy bench his theory required. **“Experiment on corpses”** = close study / dissection, not a separate unethical trial; peers still autopsied. Washing implemented in-clinic **before** the ban; work resumed in **Pest** from **1851**.
 
 **Who disagreed:** Viennese establishment (e.g. **Carl Braun** replaced him; **Ignaz Fodor** defended old views); many mocked “wash your hands.”
 
@@ -180,7 +180,7 @@ Napoleon **rhymes** Curie-era **miracle medicine**—not causal. **Personal beli
 | Denied further corpse-dependent study in Vienna (docent terms, Oct 1850) | **Documented** |
 | “Thousands could have said it” / he invented nothing new | **Author synthesis** |
 | Remembered only for eugenics/new-medicine politics | **Author synthesis** (rhymes Flexner/population lane) |
-| Universal handwashing dogma inverts terrain medicine | **Author thesis** — investigation pursues this |
+| Universal handwashing dogma inverts terrain medicine | **Author thesis** |
 | *Twelve Monkeys* camp psychology | **Film** — Pitt monologue **mis-dates** Semmelweis (says 18th c. “no germs” then Semmelweis); Semmelweis is **19th c.**; he did not say “germs” |
 
 ### *Twelve Monkeys* (1995) — dialogue anchors
@@ -253,9 +253,7 @@ Keywords: #NapoleonCorpses #Semmelweis #TwelveMonkeys #HerdImmunity #VaccineDogm
 
 
 
-**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
-
-Author thesis first-class; not automatic fact. **Herd immunity / vaccine dependency / gene-code-word / Semmelweis inversion** blocks = **author synthesis**, not virology consensus. **Semmelweis dates and ward trial** = mainstream tier in §11. **DU assassination** = Ari belief. **Fomenko** passages cited from NC mirror. Full plague tiers: [napoleon-plague Limits](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md).
+**Prisca sapientia:** [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—ancient knowledge degraded; modern consensus not default. Author thesis first-class; not automatic fact. **Herd immunity / vaccine dependency / gene-code-word / Semmelweis inversion** blocks = **author synthesis**, not virology consensus. **Semmelweis dates and ward trial** = mainstream tier in §11. **DU assassination** = Ari belief. **Fomenko** passages cited from NC mirror. Full plague tiers: [napoleon-plague Limits](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md).
 
 ## Investigator notes
 

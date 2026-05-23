@@ -1,8 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-23T12:14:46.862Z",
+    "date": "2026-05-23T12:16:31.019Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
+        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
+        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
+        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
+        "alt": "Roytas 2024 — Can You Catch a Cold? on Anna’s Archive (book hunt for footnote 8)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-23T12:14:46.000Z",
+    "message": "Correct Semmelweis: Vienna cadaver ban blocked corpse-dependent study.",
     "files": [
       {
         "status": "M",
@@ -2667,32 +2694,6 @@
       {
         "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary-info.png",
         "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/the-second-exodus-of-oc-remix.png",
-        "alt": "The Second Exodus Of OC ReMix — four-panel satire: crowd stays, solo walk, “but the future refused to change”"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-17T00:34:40.000Z",
-    "message": "Second Exodus article: embed the-second-exodus-of-oc-remix.png hero",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/the-second-exodus-of-oc-remix.md",
-        "href": "/influence/controlled_opposition/the-second-exodus-of-oc-remix"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/the-second-exodus-of-oc-remix.png",
-        "href": "/influence/controlled_opposition/the-second-exodus-of-oc-remix.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/the-second-exodus-of-oc-remix.png"
       },
       {
         "src": "https://paradigmthreat.net/influence/controlled_opposition/the-second-exodus-of-oc-remix.png",
