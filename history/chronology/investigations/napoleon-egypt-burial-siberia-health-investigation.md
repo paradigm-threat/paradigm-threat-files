@@ -1,8 +1,10 @@
-# Napoleon, Egypt dry burial, French elite science, Siberia disease, Curie, and radiation–mutant memory
+# Two camps of French war medicine — Napoleon, mercury, radiation redaction
 
-> **TL;DR:** Dossier for [Napoleon corpses article](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md). **Semmelweis (1847 Vienna):** handwash win; **Oct 1850** docent terms **denied cadavers** (corpse-dependent study blocked); author reads **modern germ-saint** as inversion. Article ends **Twelve Monkeys** camp psychology. **Author (2026-05-23):** real **herd immunity** (healthy cohorts resist + share antibodies) vs **vaccine dogma**; **Egypt** = peak confidence/terrain, **Russia** = depletion/disease; virology denies healthy avoidance since **COVID**. **Curie 1914–18** is not between the two empires. **Pyramids** shelter/hospital until **11th c.** (author + Kerrell/Goggin/Les Brown only). **Fomenko** Styx/Egypt burial: `chronologia.org/en/chronologia5/empire19_05.html`. **Curie DU** = author belief. **Zelensky** = proxy WW1+WW2 ([reverse crusades](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md)). **Roytas** Ch 11 — note **8** = **Winterbottom 1828** (`~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`).
+*Investigation dossier (formerly Egypt/Siberia/radiation–mutant file) for the lay article.*
 
-**Status:** Open — article **2026-05-24** final prose sweep; Roytas note **8** = Winterbottom 1828; Winterbottom primary pending.
+> **TL;DR:** Dossier for [Two Camps of Medicine (lay article)](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md). **Spine:** Camp A (terrain, morale, demonstrated cures, suppressed modalities) vs Camp B (invisible agents, germ saints, diagnostic-only radiation, vaccine dogma). **Jaffa/Gros** = **felt invincibility** from advanced kit (author); [plague dossier](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md) still tiers Gros as **state propaganda** for forensics. **Mercury** = documented Napoleonic pharmacopoeia trace; **radiation cure since Napoleon → Curie** = author thesis. **Curie 1914–18** rhymes Jaffa; **bullet-only** story = author finds preposterous. **Egypt** arrogance / **Russia 1812** reckoning. **Semmelweis** + ***Twelve Monkeys*** close. Roytas note **8** = Winterbottom 1828 (`~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`).
+
+**Status:** Open — article **2026-05-24** two-camps refocus; Q5 mercury campaign primary; Q6 Curie therapeutic archives.
 
 **Lay article:** [napoleon-corpses-dry-egypt-siberian-disease.md](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md)
 
@@ -10,18 +12,19 @@
 
 ## Guide (read order)
 
-1. **French chronology (corrected)** → §1  
-2. **Author thesis — herd immunity, Egypt vs Russia, virology, vaccines** → §2  
-3. **Elite science / Curie / Byers / Flexner** → §2b  
-4. **Pyramids until 11th c. (author + pyramid-energy sources only)** → §3  
-5. **Fomenko Egypt — Styx, burial (wget mirror)** → §4  
-6. **Siberia, mutants, Russia parallels** → §5  
-7. **Population + captured technology** → §6  
-8. **Documented anchors** → §7  
-9. **Health cross-links** → §8  
-10. **Semmelweis — documented vs author inversion** → §11  
-11. **Ari answers** → §9  
-12. **Open questions** → §10  
+1. **Two camps (author spine)** → §2.0  
+2. **French chronology** → §1  
+3. **Felt invincibility, Egypt vs Russia, virology (dossier depth)** → §2.1–2.5  
+4. **Mercury / radiation continuity** → §2.7–2.8  
+5. **Curie corridor** → §2b  
+6. **Pyramids / Fomenko (tangents)** → §3–4  
+7. **1812 / war parallels (background)** → §5  
+8. **Population capture (background)** → §6  
+9. **Documented anchors** → §7  
+10. **Health cross-links** → §8  
+11. **Semmelweis fact check** → §11  
+12. **Ari answers** → §9  
+13. **Open questions** → §10  
 
 ---
 
@@ -30,164 +33,142 @@
 | Period | Dates |
 |--------|-------|
 | Jaffa lazaretto | **11 Mar 1799** |
+| Gros Salon canvas | **1804** |
 | First French Empire | **1804–1814/15** |
 | 1812 Russia | **1812** |
 | Second French Empire | **1852–1870** |
-| Curie WWI radiography | **1914–1918** (Third Republic) |
+| Curie WWI field units | **1914–1918** (Third Republic) |
 | Curie death | **1934** |
 
-**Rejected:** “Curie between First and Second Empire.” **Author arc:** **1799 → 1804 → 1812 → 1914–18**.
+**Rejected:** “Curie between First and Second Empire.” **Author rhyme:** **1799 → 1804 → 1812 → 1914–18** (same medical boast, different war).
 
 ---
 
-## 2. Author’s originating thesis — herd immunity, virology, Egypt vs Russia, gene code word
+## 2.0 Two camps of medicine (author spine — 2026-05-24)
 
-**Source:** Ari (2026-05-23), captured in [lay article § Virology / Egypt / Russia / scientists](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md).
+| | **Camp A** | **Camp B** |
+|---|------------|------------|
+| **Causality** | Terrain, depletion, collective tone, morale | Invisible agents (miasma → germs → viruses → genes) |
+| **Therapy** | Demonstrated ward cures, army pharmacopoeia, suppressed radiation/voltage (thesis) | Licensed products, universal protocols, “diagnosis only” tech |
+| **Napoleon** | Jaffa corpse theater = **real** confidence in kit | Later textbooks → contagion debate footnote |
+| **Curie** | Field **cure** with radiation (author) | **Petites Curies** = bullet localization only (mainstream) |
+| **Modern** | Healthy cohort can resist / share protection | COVID-era “everyone catches”; injection herd immunity |
+
+**Central question (Ari):** Not whether French soldiers were **literally** immune, but whether they **felt** invincible after **demonstrations**—while **leadership** may have known kit limits and still staged morale medicine.
+
+**Gros framing split:** [Plague investigation](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md) = Gros as **propaganda artifact** for source forensics. **Lay article** = same scene as evidence of **felt invincibility** from **advanced therapy**—not “soldiers fooled by fake news.”
+
+---
+
+## 2. Author thesis — expanded (mostly dossier-only depth)
+
+**Source:** Ari; lay article **2026-05-24** refocus. Sections **2.1–2.5** retained for corpus; **removed from lay article** as full essays.
 
 ### 2.1 Virology and the healthy person
 
-**Author claim:** The biggest issue disease **virologists** have is that they **do not believe** a **healthy person can avoid being infected**—and if they ever did, they **absolutely stopped** believing it in recent times since **COVID**.
+**Author claim:** Institutional virology **denies** that a **healthy person can avoid infection**—especially since **COVID**.
 
-**Note:** Institutional germ theory treats everyone as a passive vessel; “breakthrough” infection after injection is normalized rather than treated as falsification of product-centric herd models.
+**Note:** Passive-vessel model; “breakthrough” normalized.
 
 ### 2.2 Real herd immunity vs vaccine dogma
 
-**Author claim (verbatim sense):** Healthy **children** and healthy **adults** usually **resist** “viruses” and **generate antibodies for everyone around them**. That is **real herd immunity**, lost in **vaccine dogma** and replaced by **vaccine-based herd immunity**. Regardless of how a virus label entered the story, the **herd generates and shares its own antibodies** and needs **no further intervention**.
+**Author claim:** Well cohorts **resist** and **share antibodies**—**real herd immunity** vs **injection schedule** compliance.
 
-**Note:** Collective immune tone vs schedule compliance; ties to Roytas / anticontagion lane and [ætheric disease](/science/health/viruses-were-never-found-only-aetheric-disease.md)—not proven as mechanism here.
+**Note:** Ties [ætheric disease](/science/health/viruses-were-never-found-only-aetheric-disease.md), Roytas anticontagion lane.
 
 ### 2.3 Napoleon in Egypt vs Russia
 
-**Author claim:** After conquering **Egypt**, Bonaparte’s army had **strength** and **highest confidence**—they would **not** be “getting sick” to any serious degree; few agents in the region were that dangerous **to Europeans**. **Russia** (retreat, **exile**, harsh conditions) was the **weakest point**; they **fell victim to disease** in a way **health and confidence could not prevent**.
+**Author claim:** **Egypt** = peak **confidence** + **medical arrogance** in unprepared terrain; **Russia** = **depletion** where confidence cannot pay.
 
-**Documented tension:** ~**1,700** plague dead on Egyptian/Syrian campaign ([plague investigation](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md)) vs author **terrain/confidence** frame. Dossier holds **both**: mass illness attested; **contrast** Egypt peak tone vs 1812 depletion is author synthesis.
+**Documented tension:** ~**1,700** plague dead ([plague investigation](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md)).
 
-### 2.4 Scientists’ fork — truth vs eugenics perception
+### 2.4 Scientists’ fork — eugenics / gene code word
 
-**Author claim:** Scientists could tell the truth or **hide facts** to obtain the **perception** they wanted—rhyming **communism**, **eugenics**, and **“quality of genes”** as code for **population control**, elimination of **non-royal bloodlines**, a **new world order** where nobody could **cross into** the “correct” bloodline to resist **cultural viruses** that lead to **war and famine**.
+**Author claim:** Hide terrain truth → sculpt **perception**; **gene quality** as population-control code word.
 
-**Note:** Structural capture thesis; cross-link [Europe white-bloodline](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md), [virus-media](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md). **Not** every modern geneticist holds this intent.
+**Note:** [Europe white-bloodline](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md), [virus-media](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md).
 
 ### 2.5 Vaccine dependency loop
 
-**Author claim:** The body relies on the **external recipe**, stops trying to **hold its own tone**, expects more external recipes; **vaccinated** people tend to **need** ongoing vaccination to stay “healthy,” while **unvaccinated** people who never entered the cycle **never start** the downward loop.
+**Author claim:** Body waits for **external recipe**; vaccinated stay on treadmill.
 
-**Note:** Dependency frame; **author health thesis**, not epidemiological proof in this file.
+### 2.6 Semmelweis + Twelve Monkeys
 
-### 2.6 Semmelweis, corpse wards, and camp psychology (author + film)
+**Author claim:** Ward win real; later **germ-saint** canon; Vienna **cadaver ban** (**Oct 1850**); ***Twelve Monkeys*** = camp psychology. See §11.
 
-**Author claim (2026-05-24):** Semmelweis was right that **cadaver exposure near maternity** was deadly; later legacy **distorted** into germ-dogma sainthood; **ridiculed**, **forgotten**, then **remembered** as handwash pioneer for invisible agents. After peer **refusal**, **denied corpse-dependent work** in Vienna (**Oct 1850** docent: **no cadavers**, mannequins only)—**close study / experiment on corpses** = ordinary autopsy science. Modern praise serves **eugenics / new medicine** displacing older frames. **Easy win** in an age of carnage; **many doctors disagreed**; universal handwashing forced by later science politics. **Supporter vs denier** camps around celebrities. ***Twelve Monkeys*** (1995): Pitt **Semmelweis / burger / germs** rant, **“only popular opinion.”**
+### 2.7 Mercury / Napoleonic pharmacopoeia
 
-**Note:** §11; Vienna **cadaver ban** documented. Article ends **Twelve Monkeys**.
+**Author claim:** **Mercury** (e.g. **calomel**) in army chest = **documented** trace of **advanced drugs** men could confuse with total protection—not proof of radiation.
+
+**Research backlog (Q5):** Campaign-specific pharmacology logs (Desgenettes, Clot-Bey, *Service de Santé*); doses and indications in Egypt/Syria **1798–99**.
+
+### 2.8 Radiation cure continuity (Napoleon → Curie)
+
+**Author thesis:** **Radiation battlefield cure** may predate Curie; **1914–1918** **petites Curies** later redacted to **bullet-finding only**—author finds that **preposterous** as the full account. **Not documented** in-repo for **1799**.
+
+**Research backlog (Q6):** French military archives, Curie correspondence, *Service de Santé* WWI logs for **therapeutic** intent vs **diagnostic** only. See [marie-curie investigation](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) §2.
 
 ---
 
-## 2b. Elite science rhyme — Curie, Byers, Flexner, radiation corridor
+## 2b. Curie corridor — Byers, Flexner, DU belief
 
-Napoleon **rhymes** Curie-era **miracle medicine**—not causal. **Personal belief (in article):** Curie **cured** with radiation; **DU-class** harm **removed** her; public kept **martyr** mask.
+**Lay article:** Curie **cured** (author); bullet story insufficient; rhymes Jaffa.
 
-**In-repo radiation corridor:** [Curie investigation](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) — **Byers** (1932 Radithor), **Flexner (1910)**, **Winsor** triad, neither witness alive for **1945** microphone. [Tennant](/science/health/tennant/index-tennant-healing-voltage.md) parallel suppression.
+**Dossier depth:** [marie-curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) — **Byers** (1932), **Flexner (1910)**, **Winsor** triad, **DU** removal thesis (Ari belief).
 
 ---
 
 ## 3. Pyramids — shelter and hospital until 11th century (author)
 
-**Sources allowed (per Ari 2026-05-22):** [pyramid-energy Kerrell/Goggin](/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md), [Les Brown](/history/chronology/investigations/the-pyramid-les-brown-investigation.md), author theory, timeline **11th c.** break—**not** Fomenko for pyramid **function**.
-
-**Main function ended 11th c.**; **limited** use into modern era via experimenters named in pyramid-energy lane.
+[pyramid-energy](/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md), [Les Brown](/history/chronology/investigations/the-pyramid-les-brown-investigation.md), timeline **11th c.** break. Lay article: **one paragraph**.
 
 ---
 
-## 4. Fomenko Egypt — Styx, Horde burial (wget, not “Fomenko folder”)
+## 4. Fomenko Egypt — Styx, Horde burial
 
-**Local mirror:** `~/dev/wget/chronologia.org` (not `~/dev/wget/Fomenko` — folder is **`fomenko-nc-sources`** for PDFs).
-
-**Primary passages (Ari hunt):**
-
-- `en/chronologia5/empire19_05.html` — imperial graveyards, **Mediterranean = Styx**, **Charon** / *khoronit*, embalming for voyage  
-- `en/chronologia5/empire19_11.html` — pharaohs as distant **Czars/Khans**, embalmed, ferry to Egypt  
-- `en/chronologia5/empire19_04.html` — Gizeh field burial until **XIV c.** end per NC  
-
-**Public URL:** https://chronologia.org/en/chronologia5/empire19_05.html
+**Mirror:** `~/dev/wget/chronologia.org` — `empire19_05.html`, `empire19_11.html`. Lay article: **one paragraph**. Public: https://chronologia.org/en/chronologia5/empire19_05.html
 
 ---
 
-## 5. Siberia, mutants, Russia parallels
+## 5. Siberia and war parallels (background)
 
-**1812** = author **depletion** mirror to Egypt **confidence** (§2.3); documented typhus/dysentery/cold on retreat.
-
-**Mutants (dossier TODO):** Hulk 1962, FF 1961, Spider-Man 1962, X-Men — article names releases.
-
-**Russia:** [reverse-crusades-comparison](/governance/war/investigations/reverse-crusades-comparison.md) — Napoleon, Hitler, **Zelensky**; Ari: **2022 = proxy WW1+WW2 combined**.
+**1812** = depletion mirror (§2.3). [reverse-crusades](/governance/war/investigations/reverse-crusades-comparison.md) — Zelensky proxy thesis **dossier-only** (dropped from lay article **2026-05-24**).
 
 ---
 
-## 6. Population + captured technology
+## 6. Population + captured technology (background)
 
-**Ari (2026-05-22):** all mechanisms mentioned—famines, genocides, orphan trains, wars, vaccines/genome, cultural sterility, fertility management, **white European** reproductive pressure, eugenics → Flexner → COVID.
-
-**Capture:** well → utility; pyramid → hospital; farm/forge → grocery; medicine metered.
+Famines, genocide, vaccines/genome, Flexner, eugenics → COVID — **dossier depth**; lay article links investigation only.
 
 ---
 
 ## 7. Documented anchors
 
-- Plague/Gros — [napoleon-plague §5](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md)  
-- Roytas 2024 — `~/dev/wget/roytas-2024-can-you-catch-a-cold/`; note **8** = Winterbottom 1828 *Edinb Med Surg J* 30(97):321–44  
-- Curie/Byers/Flexner — [marie-curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md)  
+- Plague/Gros/Desgenettes — [napoleon-plague](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md)  
+- Roytas 2024 — `~/dev/wget/roytas-2024-can-you-catch-a-cold/`; note **8** = Winterbottom 1828  
+- Curie — [marie-curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md)  
 
 ---
 
 ## 8. Health corpus cross-links
 
-[napoleon-plague](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md) · [ætheric essay](/science/health/viruses-were-never-found-only-aetheric-disease.md) · [isolation audit](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md) · [virus-media](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md) · [marie-curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) · [tennant](/science/health/tennant/index-tennant-healing-voltage.md) · [reverse crusades](/governance/war/investigations/reverse-crusades-comparison.md)
+[napoleon-plague](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md) · [ætheric essay](/science/health/viruses-were-never-found-only-aetheric-disease.md) · [isolation audit](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md) · [marie-curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) · [tennant](/science/health/tennant/index-tennant-healing-voltage.md)
 
 ---
 
-## 11. Semmelweis — fact check (documented) vs author inversion
-
-### Documented timeline (mainstream)
+## 11. Semmelweis — fact check (documented) vs Camp B canon
 
 | When | What |
 |------|------|
-| **1818** | Ignaz Semmelweis born (Buda/Pest) |
-| **1846** | Assistant at Vienna **maternity clinic** (two clinics: medical students vs midwives) |
-| **1847** | Kolletschka dies from autopsy wound; Semmelweis orders **chlorinated lime** hand wash; mortality falls sharply |
-| **1848** | Low mortality in doctors’ clinic (~**1.27%** in common summaries vs ~**18%** before) |
-| **20 Mar 1849** | Klein appoints **Carl Braun** assistant; Semmelweis **leaves** First Clinic |
-| **1849–1850** | Docent petition **denied** at first (Klein); **18+ months** wait |
-| **10 Oct 1850** | Docent of **“theoretical”** obstetrics—**no cadaver access**; **leather mannequins** only; leaves Vienna within days |
-| **1850** | Vienna handwashing policy dropped; deaths rise again (supports association) |
-| **1851–1865** | **Pest/Budapest**—Szent Rókus (**1851**), professor (**1855**); lower mortality when protocol kept |
-| **30 Jul 1865** | Lured to **Landes-Irren-Anstalt**, Lazarettgasse, Vienna |
-| **13 Aug 1865** | Dies age **47**; **pyemia** / hand wound sepsis after beating/restraint |
+| **1847** | Chlorinated lime; mortality collapse |
+| **20 Mar 1849** | Leaves First Clinic (Braun/Klein) |
+| **10 Oct 1850** | Docent: **no cadavers**, mannequins only |
+| **1851+** | Pest/Budapest wards |
+| **13 Aug 1865** | Asylum death |
 
-**What he claimed:** **Cadaverous particles** from autopsy—not **germs** (Pasteur/Lister later supplied germ-theory frame).
+**Camp A win:** cadaverous particles, handwash. **Camp B capture:** germ saint, universal dogma. **“Experiment on corpses”** = autopsy bench denied, not unethical trial.
 
-**What he did not claim (correcting common slips):** Not “corpses stored beside maternity” as a building layout alone—the mechanism is **hands** carrying **autopsy material** to **living patients**. Not **germ theory** or modern **“germs.”**
-
-**Denied corpse-dependent work (documented):** After clinic dismissal (**1849**), **Oct 1850** docent terms **refused cadaver access** (mannequins only)—blocking the autopsy bench his theory required. **“Experiment on corpses”** = close study / dissection, not a separate unethical trial; peers still autopsied. Washing implemented in-clinic **before** the ban; work resumed in **Pest** from **1851**.
-
-**Who disagreed:** Viennese establishment (e.g. **Carl Braun** replaced him; **Ignaz Fodor** defended old views); many mocked “wash your hands.”
-
-**Modern canon:** “Father of hand hygiene”; acceptance **after death** via Pasteur/Lister germ theory—supports author’s **political remembrance** thesis as **structure**, not as proof Semmelweis was wrong about maternity wards.
-
-### Author claims — tier
-
-| Claim | Tier |
-|-------|------|
-| Autopsy-to-maternity link + chlorine wash saves mothers | **Documented** (statistics contested in detail but association strong) |
-| Denied further corpse-dependent study in Vienna (docent terms, Oct 1850) | **Documented** |
-| “Thousands could have said it” / he invented nothing new | **Author synthesis** |
-| Remembered only for eugenics/new-medicine politics | **Author synthesis** (rhymes Flexner/population lane) |
-| Universal handwashing dogma inverts terrain medicine | **Author thesis** |
-| *Twelve Monkeys* camp psychology | **Film** — Pitt monologue **mis-dates** Semmelweis (says 18th c. “no germs” then Semmelweis); Semmelweis is **19th c.**; he did not say “germs” |
-
-### *Twelve Monkeys* (1995) — dialogue anchors
-
-Jeffrey Goines (Brad Pitt), asylum scene (~00:00:55+): **“Crazy is majority rules. Take germs…”**; Semmelweis “trying to get doctors to wash their hands” against **“teeny tiny invisible”** things; burger dropped, wiped, **“I don’t believe in germs… plot… disinfectants and soaps”**; **“There’s no right, there’s no wrong, there’s only popular opinion.”** Cole: **“I’m not crazy.”** — Not a verbatim match to Ari’s “we tell people what is true and what isn’t”; same **popular-opinion** mechanism.
-
-**Rhyme to Napoleon file:** Corpse **autopsy → living ward** (Semmelweis) parallels corpse **theater → army morale** (Desgenettes/Gros); both get **compressed** into **germ religion** later.
+*Twelve Monkeys* dialogue anchors: §2.6; film mis-dates Semmelweis.
 
 ---
 
@@ -195,26 +176,15 @@ Jeffrey Goines (Brad Pitt), asylum scene (~00:00:55+): **“Crazy is majority ru
 
 | Q | Answer |
 |---|--------|
-| Semmelweis section | **2026-05-24** — article § Semmelweis + § Twelve Monkeys ending; §11 fact check |
-| Herd immunity thesis | **2026-05-23** — in article § Virology / Egypt / Russia; §2.1–2.5 here |
-| Virology / COVID | Healthy person **can** avoid infection; institutional virology **denies** or **abandoned** since COVID |
-| Vaccine vs natural herd | **Vaccine dogma** replaced collective antibody sharing; dependency loop |
-| Egypt vs Russia | **Confidence/terrain** Egypt vs **exile/depletion** Russia |
-| Gene / eugenics code | **Author synthesis** — population control, bloodlines, NWO framing |
-| Pyramid sources | **Only** pyramid-energy investigation + author theories |
-| Name experimenters | **Yes** — Kerrell, Goggin, Les Brown in article |
-| Fomenko wget | **`~/dev/wget/chronologia.org`** — `empire19_05.html` etc. |
-| Roytas book | **Local:** `~/dev/wget/roytas-2024-can-you-catch-a-cold/` + `INDEX.md` |
-| Roytas note 8 | **Winterbottom 1828** — Murad Bay / zero French infections |
-| Population mechanisms | **Everything mentioned** |
-| Curie DU | **Personal belief** — **in article body** |
-| Zelensky | **Proxy WW1+WW2** — [reverse crusades](/governance/war/investigations/reverse-crusades-comparison.md) |
-| Hero | **`napoleon-corpses-dry-egypt-siberian-disease.png`** (replaced) |
-| Quote image | **`napoleon-corpses-dry-egypt-siberian-disease-quote.png`** mid-article (Anna’s Archive) |
-| Second Empire electrotherapy | **No** unless found later |
-| 1812 primary | Assistant discretion |
-| Mutant list | **Approved** (1961–1962 origins in article) |
-| Article length | **Single long** — OK under Substack soft ceiling |
+| Two-camps refocus | **2026-05-24** — lay article rewritten; Gros = felt invincibility (not propaganda spin in article) |
+| Semmelweis / film | Article § shortened; §11 facts |
+| Herd immunity / virology | **Dossier §2.1–2.5** only |
+| Roytas note 8 | Winterbottom 1828 |
+| Curie bullet story | **Preposterous** as full account (author) |
+| Mercury | **Documented class**; campaign primary **open** (Q5) |
+| Radiation since Napoleon | **Author thesis** (Q6) |
+| Zelensky | **Dossier §5** only |
+| Hero / quote PNG | Unchanged filenames |
 
 ---
 
@@ -222,11 +192,11 @@ Jeffrey Goines (Brad Pitt), asylum scene (~00:00:55+): **“Crazy is majority ru
 
 | ID | Question | Status |
 |----|----------|--------|
-| Q1 | Transcribe Roytas **footnote 8** | **Closed** — Winterbottom 1828 |
-| Q1b | Read **Winterbottom** primary for Murad Bay literal | **Open** |
-| Q2 | Add more **named** modern pyramid witnesses if Ari supplies | **Open** |
-| Q3 | Mutant media table in dossier §5 | **TODO** |
-| Q4 | Primary read Semmelweis *Etiology* / open letters for “experiment” wording | **Partial** — Vienna **cadaver ban** documented (Wikipedia / standard histories); full *Etiologie* quotes optional |
+| Q1b | Read **Winterbottom 1828** primary for Murad Bay | **Open** |
+| Q4 | Semmelweis *Etiologie* quotes | **Partial** |
+| Q5 | **Mercury** / pharmacopoeia — Egypt-Syria **1798–99** primary | **Open** |
+| Q6 | **Curie** / French Army — therapeutic vs diagnostic field radiation | **Open** |
+| Q7 | **Radiation cure** evidence **before 1914** (any army) | **Open** |
 
 ---
 
@@ -234,16 +204,14 @@ Jeffrey Goines (Brad Pitt), asylum scene (~00:00:55+): **“Crazy is majority ru
 
 | Investigation | Rhyme |
 |---------------|--------|
-| [Lay article](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md) | Published |
-| [Napoleon plague](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md) | Gros, Roytas |
-| [Reverse crusades](/governance/war/investigations/reverse-crusades-comparison.md) | Zelensky proxy |
-| [Marie Curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) | DU belief, Byers, Flexner |
-| [Pyramid energy](/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md) | Shelter/hospital |
-| [Les Brown pyramid](/history/chronology/investigations/the-pyramid-les-brown-investigation.md) | Modern residual |
+| [Lay article](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md) | Two camps |
+| [Napoleon plague](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md) | Gros forensics; **framing split** |
+| [Marie Curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) | Radiation redaction |
+| [Pyramid energy](/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md) | Medical stone |
 
 ---
 
-Keywords: #NapoleonCorpses #Semmelweis #TwelveMonkeys #HerdImmunity #VaccineDogma #PyramidHospital #FomenkoEgypt #Roytas2024 #MarieCurie #ZelenskyProxyWar #ParadigmThreatFiles
+Keywords: #TwoCampsMedicine #GrosJaffa #FrenchWarMedicine #Mercury #RadiationCure #PerceivedInvincibility #Semmelweis #TwelveMonkeys #Roytas2024 #MarieCurie #NapoleonCorpses #ParadigmThreatFiles
 
 **Last updated:** 2026-05-24
 
@@ -251,12 +219,10 @@ Keywords: #NapoleonCorpses #Semmelweis #TwelveMonkeys #HerdImmunity #VaccineDogm
 
 ## Limits and disclaimers
 
-
-
-**Prisca sapientia:** [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—ancient knowledge degraded; modern consensus not default. Author thesis first-class; not automatic fact. **Herd immunity / vaccine dependency / gene-code-word / Semmelweis inversion** blocks = **author synthesis**, not virology consensus. **Semmelweis dates and ward trial** = mainstream tier in §11. **DU assassination** = Ari belief. **Fomenko** passages cited from NC mirror. Full plague tiers: [napoleon-plague Limits](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md).
+**Prisca sapientia:** [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md). **Two-camps / felt invincibility / radiation continuity / Curie cure / bullet-story critique** = **author synthesis** unless tiered **documented** in §11 or plague dossier. **Mercury in Napoleonic armies** = mainstream military-medical history class; campaign specifics need Q5. **DU assassination** = Ari belief ([marie-curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md)). **Gros:** propaganda tier in [napoleon-plague Limits](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md); lay article uses **morale-medicine** read—both intentional.
 
 ## Investigator notes
 
-- Fomenko wget: `~/dev/wget/chronologia.org/en/chronologia5/empire19_05.html` (Styx/Mediterranean/Charon)  
-- Roytas: `~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`; note **8** = Winterbottom 1828  
+- Roytas: `~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`  
+- Fomenko: `~/dev/wget/chronologia.org/en/chronologia5/empire19_05.html`  
 - Quote PNG: `history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png`

@@ -344,6 +344,8 @@ Keywords: #NapoleonPlague #MuradBay #GrosJaffa #BonapartePestiferes #AntoineJean
 
 This file **identifies the source book** and **grades** screenshot claims against mainstream military-medical history. **Footnote 8** is transcribed from the local EPUB (Winterbottom 1828); the **primary** still needs reading. It does **not** assert that bubonic plague is non-infectious, that Roytas is correct on all counts, or that Napoleon’s stunts prove germ theory false. **Author thesis** material elsewhere in the repo (ætheric disease, anticontagion sympathy) is **cross-linked**, not imported as automatic proof here.
 
+**Cross-read — [lay article: Two Camps of Medicine](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md):** This dossier keeps Gros **1804** in the **state propaganda / forensics** tier (§5). The lay article **reframes** the Jaffa cluster as evidence that ranks **felt invincible** because of **demonstrated advanced therapy**—not “soldiers fooled by fake news.” Both reads stand; do not treat the painting as camera footage in either file.
+
 ## Investigator notes
 
 - Screenshot asset (session): `/home/ari/.cursor/projects/home-ari-dev-pt/assets/image-8454733c-5d86-41d5-aafe-01546ab51a29.png`  

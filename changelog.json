@@ -1,8 +1,44 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-23T12:16:31.019Z",
+    "date": "2026-05-23T12:33:33.776Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
+        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
+        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
+      },
+      {
+        "status": "M",
+        "path": "science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md",
+        "href": "/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
+        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
+        "alt": "Roytas 2024 — Can You Catch a Cold? (footnote 8 hunt)"
+      },
+      {
+        "src": "/science/health/investigations/napoleon-plague-murad-bay-screenshot.png",
+        "alt": "Napoleon plague Murad Bay screenshot — book page under investigation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-23T12:16:30.000Z",
+    "message": "Tighten Napoleon corpses essay: cut redundancy and LLM phrasing.",
     "files": [
       {
         "status": "M",
@@ -2662,42 +2698,6 @@
       {
         "src": "https://paradigmthreat.net/science/health/viruses-were-never-found-only-aetheric-disease.png",
         "alt": "Viruses were never found in the lab — ætheric disease, fingerprint not genome pathogen (article art)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-17T00:36:09.000Z",
-    "message": "OCR Exodus 1: catalog control, VGMix open-submit vs judge gate",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/success-by-any-means-necessary.md",
-        "href": "/influence/controlled_opposition/success-by-any-means-necessary"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/the-second-exodus-of-oc-remix.md",
-        "href": "/influence/controlled_opposition/the-second-exodus-of-oc-remix"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary.png",
-        "alt": "Success — by any means necessary — paying audience, black-box pipeline, NDAs, and leader accountability"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary-info.png",
-        "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/the-second-exodus-of-oc-remix.png",
-        "alt": "The Second Exodus Of OC ReMix — four-panel satire: crowd stays, solo walk, “but the future refused to change”"
       }
     ]
   }
