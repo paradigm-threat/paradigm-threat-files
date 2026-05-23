@@ -1,10 +1,10 @@
-# Two camps of French war medicine — Napoleon, mercury, radiation redaction
+# Two camps of French war medicine — Napoleon, red mercury, radiation redaction
 
 *Investigation dossier (formerly Egypt/Siberia/radiation–mutant file) for the lay article.*
 
-> **TL;DR:** Dossier for [Two Camps of Medicine (lay article)](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md). **Spine:** Camp A (terrain, morale, demonstrated cures, suppressed modalities) vs Camp B (invisible agents, germ saints, diagnostic-only radiation, vaccine dogma). **Jaffa/Gros** = **felt invincibility** from advanced kit (author); **airships + siege hardware** = dominant layer ([ship-shaped airships investigation](https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md)); [plague dossier](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md) still tiers Gros as **state propaganda** for forensics. **Mercury** = documented Napoleonic pharmacopoeia trace; **radiation cure since Napoleon → Curie** = author thesis. **Curie 1914–18** rhymes Jaffa; **bullet-only** story = author finds preposterous. **Egypt** arrogance / **Russia 1812** reckoning. **Semmelweis** + ***Twelve Monkeys*** close. Roytas note **8** = Winterbottom 1828 (`~/dev/wget/roytas-2024-can-you-catch-a-cold/INDEX.md`).
+> **TL;DR:** Dossier for [Two Camps of Medicine (lay article)](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md). **Spine:** Camp A vs Camp B. **Jaffa/Gros** = **felt invincibility**; **airships + siege hardware** ([ship-shaped airships](https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md)). **Red mercury** — not calomel alone — **blood-energy** thesis; modern science **denies substance**; investigation **assumes it works**; Napoleon **physicians/ranks believed**. **Curie** = same **redaction** pattern as mercury. **Mercury floor** = documented pharmacopoeia; **Q5/Q8** = campaign + red-mercury primary hunt. Roytas note **8** = Winterbottom 1828.
 
-**Status:** Open — article **2026-05-24** two-camps refocus; Q5 mercury campaign primary; Q6 Curie therapeutic archives.
+**Status:** Open — **2026-05-24** red mercury §2.7; Q5/Q8 campaign + red-mercury primary; Q6 Curie therapeutic archives.
 
 **Lay article:** [napoleon-corpses-dry-egypt-siberian-disease.md](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md)
 
@@ -15,7 +15,7 @@
 1. **Two camps (author spine)** → §2.0  
 2. **French chronology** → §1  
 3. **Felt invincibility, Egypt vs Russia, virology (dossier depth)** → §2.1–2.5  
-4. **Mercury / radiation continuity** → §2.7–2.8  
+4. **Red mercury / radiation continuity** → §2.7–2.8  
 5. **Curie corridor** → §2b  
 6. **Pyramids / Fomenko (tangents)** → §3–4  
 7. **1812 / war parallels (background)** → §5  
@@ -96,15 +96,62 @@
 
 **Author claim:** Ward win real; later **germ-saint** canon; Vienna **cadaver ban** (**Oct 1850**); ***Twelve Monkeys*** = camp psychology. See §11.
 
-### 2.7 Mercury / Napoleonic pharmacopoeia
+### 2.7 Red mercury — not calomel alone
 
-**Author claim:** **Mercury** (e.g. **calomel**) in army chest = **documented** trace of **advanced drugs** men could confuse with total protection—not proof of radiation.
+#### Documented floor (ordinary mercury pharmacopoeia)
 
-**Research backlog (Q5):** Campaign-specific pharmacology logs (Desgenettes, Clot-Bey, *Service de Santé*); doses and indications in Egypt/Syria **1798–99**.
+Napoleonic armies carried **mercury** compounds — **calomel**, purges, surgical uses — in the **military pharmacopoeia**. **Tier: documented** (general military-medical history). **Campaign-specific** logs for Egypt/Syria **1798–99** remain **open** (Q5).
+
+#### Mainstream “red mercury” — Camp B verdict (documented debunk literature)
+
+**Red mercury** in **modern public discourse** is widely treated as **nonexistent** or **mislabeled ordinary mercury**:
+
+| Source | Claim |
+|--------|-------|
+| [Wikipedia — Red mercury](https://en.wikipedia.org/wiki/Red_mercury) | Discredited hoax; analyzed samples = common mercury compounds, no weapons interest |
+| [New Scientist (1992)](https://www.newscientist.com/article/mg13418241-900-only-fools-still-hunt-for-elusive-red-mercury/) | DOE / Los Alamos: marketed “red mercury” **does not exist** with advertised properties; scam specs |
+| [RFE/RL — Putin / St. Petersburg export](https://www.rferl.org/a/putin-scam-red-mercury/31878683.html) | **1992** Russian commission: hoax; samples = **mercury + mercury oxide** (brick-red); **Alkor** / **Promekologia** scandal |
+| [Soldier of Fortune — scam history](https://sofmag.com/red-mercury-scam/) | Post-Soviet black-market **myth** — powder, liquid, gel variants; **no validated super-material** |
+
+**Celebrity conspiracy lane:** Repo web pass (**2026-05-24**) found **no** credible primary tying **red mercury** to **celebrity wellness** narratives — only **unrelated** celebrity property press and **1990s** **scam/export** journalism. **Absence** is **not** disproof of **Napoleonic belief**; it fits **redaction** read.
+
+#### Author thesis — investigation assumes red mercury **works**
+
+> **Supplied stance:** It is **not** “any mercury.” It is **red mercury**. Modern scientists **do not believe it exists**, or **deny** the **properties** attributed to it. **This investigation assumes it does work** as **Camp A operating doctrine**. **Evidence tier for that assumption:** **Napoleon’s entire army of physicians and scientists behaved as if it worked** — **Jaffa**, **Gros**, **ward confidence**, **pharmacopoeia aggression** — whether or not **1900s guilds** later **defined the compound out of existence**.
+
+**Mechanism (author unpack):**
+
+1. **Inject** red mercury into the **bloodstream** (not purge-only calomel routing).
+2. It **mimics blood’s energetic properties** — transmits **life-current / voltage** through the body.
+3. **Normal blood replenishment** becomes **less load-bearing** for energy maintenance.
+4. **More mercury → less breathing** required to **replenish bodily energy** (author: reduced **respiratory** dependence for **æther** top-up).
+5. **Still requires** a **secondary energy absorber** — radiation ward, terrain, collective morale, other Camp A modalities — **not** a closed perpetual machine.
+
+**Vampirism lore bridge (author thesis):**
+
+- **Mirror taboo:** vampires **do not reflect** because **red mercury does not show in a mirror** — light **refracts** through it rather than returning like surface blood.
+- **Author report:** **direct observation** of mirror non-reflection; **no third-party citation** filed — same tier as **hidden Curie cure** (**witness + redaction**).
+
+**Napoleon proof path (author):** Not **proving red mercury in a lab today** — **proving the French medical caste acted on Camp A blood-energy physics** the way **Camp B** later **forbade**. **Calomel** on the books = **cover** or **floor**; **red mercury** = **officer-kit** **real**.
+
+#### Camp B redaction vs Camp A proof (Curie rhyme)
+
+**Pattern:** One camp **eliminates the proof** of the other.
+
+| Camp A artifact | Camp B replacement |
+|-----------------|-------------------|
+| **Red mercury** blood-energy | “**Substance does not exist**” ([Wikipedia](https://en.wikipedia.org/wiki/Red_mercury), DOE) |
+| **Curie field cure** | **Petites Curies** = **bullet localization only** (mainstream) |
+| **Jaffa demonstration** | Contagion footnote + **propaganda** tier ([plague dossier](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md)) |
+| **Semmelweis handwash win** | **Germ saint** universal dogma (§11) |
+
+**Research backlog (Q5):** Campaign pharmacology — **Desgenettes**, **Clot-Bey**, *Service de Santé* — **any** **red** mercury / **injectable** blood modifiers vs **calomel purge** only.
+
+**Research backlog (Q8):** **Napoleonic** or **18th-c. French** primary for **red mercury** **by name** (likely **silent** if redacted); **alchemical** **rubedo** / **mercurius** blood lanes as **lexical** hunt.
 
 ### 2.8 Radiation cure continuity (Napoleon → Curie)
 
-**Author thesis:** **Radiation battlefield cure** may predate Curie; **1914–1918** **petites Curies** later redacted to **bullet-finding only**—author finds that **preposterous** as the full account. **Not documented** in-repo for **1799**.
+**Author thesis:** **Radiation battlefield cure** may predate Curie; **1914–1918** **petites Curies** later redacted to **bullet-finding only**—author finds that **preposterous** as the full account. **Rhymes §2.7:** **Camp B** may **define Curie’s real ward physics out of existence** the same way **red mercury** was **debunked into nonexistence** — **not** because **witnesses** were **fools**, but because **one camp had to eliminate the other camp’s proof**. **Not documented** in-repo for **1799**.
 
 **Research backlog (Q6):** French military archives, Curie correspondence, *Service de Santé* WWI logs for **therapeutic** intent vs **diagnostic** only. See [marie-curie investigation](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) §2.
 
@@ -189,7 +236,8 @@ Famines, genocide, vaccines/genome, Flexner, eugenics → COVID — **dossier de
 | Herd immunity / virology | **Dossier §2.1–2.5** only |
 | Roytas note 8 | Winterbottom 1828 |
 | Curie bullet story | **Preposterous** as full account (author) |
-| Mercury | **Documented class**; campaign primary **open** (Q5) |
+| Mercury | **Calomel floor documented**; **red mercury thesis** §2.7 |
+| Red mercury mirror / inject mechanism | **Author thesis + eyewitness report** |
 | Radiation since Napoleon | **Author thesis** (Q6) |
 | Zelensky | **Dossier §5** only |
 | Hero / quote PNG | Unchanged filenames |
@@ -202,7 +250,8 @@ Famines, genocide, vaccines/genome, Flexner, eugenics → COVID — **dossier de
 |----|----------|--------|
 | Q1b | Read **Winterbottom 1828** primary for Murad Bay | **Open** |
 | Q4 | Semmelweis *Etiologie* quotes | **Partial** |
-| Q5 | **Mercury** / pharmacopoeia — Egypt-Syria **1798–99** primary | **Open** |
+| Q5 | **Mercury** / pharmacopoeia — Egypt-Syria **1798–99** primary; **calomel vs injectable** | **Open** |
+| Q8 | **Red mercury** by name — Napoleonic, alchemical, or **French military** primary | **Open** |
 | Q6 | **Curie** / French Army — therapeutic vs diagnostic field radiation | **Open** |
 | Q7 | **Radiation cure** evidence **before 1914** (any army) | **Open** |
 
@@ -219,7 +268,7 @@ Famines, genocide, vaccines/genome, Flexner, eugenics → COVID — **dossier de
 
 ---
 
-Keywords: #TwoCampsMedicine #GrosJaffa #FrenchWarMedicine #Mercury #RadiationCure #PerceivedInvincibility #Semmelweis #TwelveMonkeys #Roytas2024 #MarieCurie #NapoleonCorpses #ParadigmThreatFiles
+Keywords: #TwoCampsMedicine #GrosJaffa #FrenchWarMedicine #RedMercury #Mercury #RadiationCure #VampirismLore #PerceivedInvincibility #Semmelweis #TwelveMonkeys #Roytas2024 #MarieCurie #NapoleonCorpses #ParadigmThreatFiles
 
 **Last updated:** 2026-05-24
 
@@ -227,7 +276,7 @@ Keywords: #TwoCampsMedicine #GrosJaffa #FrenchWarMedicine #Mercury #RadiationCur
 
 ## Limits and disclaimers
 
-**Prisca sapientia:** [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md). **Two-camps / felt invincibility / radiation continuity / Curie cure / bullet-story critique** = **author synthesis** unless tiered **documented** in §11 or plague dossier. **Mercury in Napoleonic armies** = mainstream military-medical history class; campaign specifics need Q5. **DU assassination** = Ari belief ([marie-curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md)). **Gros:** propaganda tier in [napoleon-plague Limits](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md); lay article uses **morale-medicine** read—both intentional.
+**Prisca sapientia:** [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md). **Two-camps / felt invincibility / red mercury blood-energy / mirror lore / radiation continuity / Curie cure / bullet-story critique** = **author synthesis** unless tiered **documented** in §11, §2.7 debunk table, or plague dossier. **Calomel in Napoleonic armies** = mainstream military-medical history class; **red mercury existence** = **denied** by [Wikipedia](https://en.wikipedia.org/wiki/Red_mercury), DOE/Los Alamos summaries, **1992** Russian commission reports — **this file assumes author mechanism for investigation purposes**. **Author mirror eyewitness** = **not independently cited**. **DU assassination** = Ari belief ([marie-curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md)). **Gros:** propaganda tier in [napoleon-plague Limits](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md); lay article uses **morale-medicine** read—both intentional. **Not medical advice.**
 
 ## Investigator notes
 
