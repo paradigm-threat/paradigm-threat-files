@@ -1,6 +1,8 @@
 # Investigation: Ship-Shaped Airships — Earth-Made Lift, Class Suppression, and the 18th–20th Century Russia Pattern
 
-> **TL;DR:** **Scope:** **boat-** and **canoe-hull** **airships** and other **obvious elevating technology** (gas envelope, heated air, propeller, **floating stone**, **electromagnetic** lift)—**not** the modern **UFO** lane (**cigar hulls**, **unspecified grapes**, **1896–97 mystery-airship** as **Category B**). **Author thesis:** a **breakaway** or **compartmentalized** **tech caste** **distributed** **lift** and **healing** **weapons** **selectively** across **18th–20th** **century** **coalitions** aimed at **Russia / Siberia**; **Clonmacnoise** **743–748** → **phantom-timeline** **1743–1748** → **Pugachev** **cluster** with **sky-ships**; **post-event** **burial** via **mud flood**; **Napoleon** **1812** **retreat** = **guerrilla** **counter** + **class** **abandonment** (**Vietnam / Afghanistan / WWII** **rhyme**); **FF VI** **Vector** / **buried** **Falcon** = **Tartaria** **PP**. **Floor:** **Irish annals**, **1897** **canoe-car** **press**, **French Aerostatic Corps**, **Meusnier** **dirigible** art. **Dossier pair:** [lay article](https://paradigmthreat.net/history/chronology/ship-shaped-airships-tataria-lift-technology.md).
+![Ship-shaped airships through the ages — Clonmacnoise to Pugachev, Category A vs B, buried fleets](/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.png)
+
+> **TL;DR:** **Scope:** **boat-** and **canoe-hull** **airships** and other **obvious elevating technology** (gas envelope, heated air, propeller, **floating stone**, **electromagnetic** lift)—**Category B** (**cigar hulls**, **unspecified grapes**, **1896–97 mystery-airship** UAP lane) **explicitly out of scope**. **Author thesis:** **breakaway** **tech caste** **distributed** **lift** and **healing** **weapons** across **18th–20th** **century** **coalitions** aimed at **Russia / Siberia**; **Clonmacnoise** **743–748** → **phantom-timeline** **1743–1748** → **Pugachev**; **post-event** **mud-flood** **burial**; **Napoleon** **1812** **retreat** = **guerrilla** **counter** + **class** **abandonment**; **FF VI** **Vector** / **Falcon** = **Tartaria** **PP**. **Floor:** **Irish annals**, **1897** **canoe-car** **press**, **French Aerostatic Corps**, **Meusnier** **dirigible** art. **Cross-read:** [Napoleon corpses essay](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md).
 
 ## Status
 
@@ -205,7 +207,7 @@ From [Final Fantasy I–VII PP investigation](https://paradigmthreat.net/influen
 - [ ] **Separate** **1897** **case** **table**: **Category A** **canoe** **vs** **Category B** **cigar** **(do** **not** **merge** **with** **PURSUE** **without** **fence**).
 - [ ] **Clonmacnoise** **manuscript** **citation** **block**.
 - [ ] **1812** **memoir** **mine** **for** **“aerial** **ship”** **metaphor** **vs** **literal** **craft**.
-- [ ] **Illustration** **optional**: **ship-hull** **under** **envelope** **diagram** **for** **article**.
+- [ ] ~~**Illustration** **optional**: **ship-hull** **under** **envelope** **diagram**~~ — **done:** hero infographic **`ship-shaped-airships-earth-elevating-technology-investigation.png`**
 
 ---
 
@@ -213,7 +215,6 @@ From [Final Fantasy I–VII PP investigation](https://paradigmthreat.net/influen
 
 | Investigation | Link |
 |---------------|------|
-| **Lay article** | [Ship-shaped airships — Tartaria lift technology](https://paradigmthreat.net/history/chronology/ship-shaped-airships-tataria-lift-technology.md) |
 | **Napoleonic artillery / LTA** | [napoleonic-advanced-artillery-airship-investigation.md](napoleonic-advanced-artillery-airship-investigation.md) |
 | **Napoleon corpses / invincibility** | [napoleon-corpses-dry-egypt-siberian-disease.md](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md) · [dossier](https://paradigmthreat.net/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md) |
 | **Reverse Crusades** | [reverse-crusades-comparison.md](reverse-crusades-comparison.md) |
@@ -241,4 +242,4 @@ From [Final Fantasy I–VII PP investigation](https://paradigmthreat.net/influen
 
 Keywords: #ShipShapedAirships #EarthLift #Pugachev #Clonmacnoise #Napoleon1812 #MudFlood #Tartaria #PredictiveProgramming #CategoryA #BreakawayTech
 
-**Last updated:** 2026-05-24
+**Last updated:** 2026-05-23T09:30:00-04:00

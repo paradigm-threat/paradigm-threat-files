@@ -49,7 +49,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Jonestown (18 November 1978): disputed narratives, CIA footprint, and Central American parallels](/governance/war/investigations/jonestown-guyana-1978-cia-latin-america-pattern-investigation.md)
 - [Investigation: The Word "Martyr" — Etymology, Mars/Murder, and the Real Nature of a Martyr](/governance/war/investigations/martyr-word-history-investigation.md)
 - [Investigation: Napoleonic Artillery, “Sound Cannons,” and Lighter-Than-Air Technology](/governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md)
-- [Investigation: Ship-Shaped Airships — Earth-Made Lift, Class Suppression, and the 18th–20th Century Russia Pattern](/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md) — **Lay:** [article](/history/chronology/ship-shaped-airships-tataria-lift-technology.md)
+- [Investigation: Ship-Shaped Airships — Earth-Made Lift, Class Suppression, and the 18th–20th Century Russia Pattern](/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md)
 - [Investigation: Occupy Wall Street — origins, collapse, surveillance, and the “controlled opposition” thesis](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md)
 - [Investigation: Operation Paperclip, Nazi Continuity, and the WWII “Defeat” Narrative](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md)
 - [The Four Reverse Crusades: A Structural Comparison](/governance/war/investigations/reverse-crusades-comparison.md)

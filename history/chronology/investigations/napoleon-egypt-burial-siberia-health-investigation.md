@@ -161,7 +161,7 @@ Napoleonic armies carried **mercury** compounds — **calomel**, purges, surgica
 
 **1812 counter-read:** **Russia** sacrificed **Moscow / Kremlin** (NC: **Jerusalem reconstruction**) to deny French **air + siege** geometry; **retreat** = **guerrilla** negation of **lift superiority** + **leadership abandonment** (~600k) — rhymes **Vietnam / Afghanistan / WWII Eastern Front**; **class-gated tech** evacuated with **top minds** (**airships** included).
 
-**Lay + dossier:** [Ship-shaped airships article](https://paradigmthreat.net/history/chronology/ship-shaped-airships-tataria-lift-technology.md) · [investigation §5](https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md#5-napoleon-1812--airships-invincibility-kremlin-retreat-class-abandonment)
+**Lay + dossier:** [Napoleon corpses essay](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md) · [ship-shaped airships §5](https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md#5-napoleon-1812--airships-invincibility-kremlin-retreat-class-abandonment)
 
 ---
 

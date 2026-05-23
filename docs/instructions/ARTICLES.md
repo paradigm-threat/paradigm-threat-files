@@ -45,7 +45,7 @@ If a claim needs **five citations** or a **multi-row table**, it belongs in the 
 
 Articles are written so they can be **republished or read off-site** without sounding like internal documentation.
 
-- **No project or repository meta in the body:** Do **not** name the hosting project, the codebase, or “the repo.” Avoid phrases like **in-repo**, **this tree**, **our investigations**, **Paradigm Threat** (and close synonyms) in running prose. Use **neutral formulations**: “this reading,” “the argument below,” “linked notes,” “supporting write-up,” “technical companion piece.”
+- **No project or repository meta in the body:** Do **not** name the hosting project, the codebase, or “the repo.” Avoid phrases like **in-repo**, **this tree**, **our investigations**, **a repo search**, **Paradigm Threat** (and close synonyms) in running prose. Use **neutral formulations**: “this reading,” “the argument below,” “linked notes,” “supporting write-up,” “technical companion piece,” “a public search found…”.
 - **Links:** In **article** bodies, use **absolute** `https://paradigmthreat.net/...` URLs for every internal page and image (**same as `blog/`**). Describe targets by **topic**, not by filing system (“see the linked DNA **blueprint critique**,” not “see our biology dossier”).
 - **First person — personal lane only:** Use **I / me / my** only for **personal experience**, **direct memory**, or **explicit personal stance** the reader should attribute to a human speaker. Keep **theory, history, and physics claims** in **neutral / documentary** third person (“this model holds…,” “the record suggests…”).
 - **Neutral ≠ timid:** You may still write **hard thesis** and **manifesto** cadence; just separate **voice** (optional **I**) from **content** (documentary).
@@ -98,10 +98,10 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 8. **Closing** — short **“where next”**: Common Questions, timeline hubs, or **§** anchors in dossiers (e.g. “start in **§2.1**”).
 9. **Optional `## Framing and limits` (or `## Scope and limits`)** — **At most one** such section, placed **after** **Where next** and **before** `Keywords:`, when in-file boundaries help (what is **not** being claimed, what lives in **Limits**, consensus vs synthesis). **Do not** scatter the same hedges through earlier `##` sections; that **muddies** the narrative. If the dossier already carries the full caveat stack, a **single** link line here is enough.
 10. **`Keywords:`** — one line, **Option B** (see `PARADIGM_INVESTIGATION_INSTRUCTIONS.md`): `#PascalCase` tokens only, **no** `## Keywords` heading.
-11. **`**Last updated:**`** — `YYYY-MM-DD` when the article changed materially.
-12. **Attribution footer (required for new or materially updated articles)** — After `**Last updated:**`, a horizontal rule `---`, then an *italic* one-liner, for example:  
+11. **`**Last updated:**`** — ISO timestamp when the article changed materially: prefer full **`YYYY-MM-DDTHH:MM:SS±offset`** (e.g. `2026-05-23T09:18:22-04:00`); date-only `YYYY-MM-DD` is acceptable for minor touch-ups.
+12. **Attribution footer (required — do not remove in de-LLM passes)** — After `**Last updated:**`, a horizontal rule `---`, then an *italic* one-liner, for example:  
     *Written and narrated by Ari Asulin, with drafting and research support from LLM agents.*  
-    Minor wording drift is fine; **keep the name** and the fact that **LLM tools** helped produce the page. That line **replaces** the need for repeated “**as the writer**,” “**my position**,” or “**who is speaking**” throat-clearing in the body.
+    Minor wording drift is fine; **keep the name** and the fact that **LLM tools** helped produce the page. **This footer is intentional credit**, not an “LLM artifact” to delete when scrubbing machine cadence. It **replaces** repeated “**as the writer**,” “**my position**,” or “**who is speaking**” throat-clearing in the body.
 
 **Pre-publish pass (easy misses):** The line **immediately after** `# Title` must be the **subtitle** (plain text, before any `![` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede.
 
@@ -123,10 +123,12 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 
 ## Phrasing we are tired of (LLM tells)
 
+**Keep vs cut:** Remove **machine cadence in the body**; **keep** the **attribution footer** (§ Shape step 12) that names Ari and **LLM agent** support. De-LLM passes target **prose artifacts**, not **production credit**.
+
 - **Required second pass (de-LLM sweep):** After finishing any article draft, run one clean edit pass that looks only for machine-sounding cadence and rewrites it to plain spoken prose. This pass is mandatory before shipping.
-  - **Primary target:** the contrast template **“not A, (but) B”** in one or two adjacent sentences (for example: “this is not a myth; it is a memory”).
+  - **Primary target:** the contrast template **“not A, (but) B”** in one or two adjacent sentences (for example: “this is not a myth; it is a memory”; “it is not calomel alone; it is red mercury”; “this is not X, it is Y”).
   - **Rewrite rule:** keep the meaning, remove the formula. Prefer one positive claim, a concrete image, or a direct sentence you would actually say out loud.
-  - **Fast checks:** search for patterns like **“not a”**, **“not an”**, **“not the”**, **“it is”**, **“but rather”**, **“this is not”** and inspect each hit for template-like contrast writing.
+  - **Fast checks:** search for patterns like **“not a”**, **“not an”**, **“not the”**, **“it is not”**, **“but rather”**, **“this is not”**, **“in this repo”**, **“in-repo”** and inspect each hit for template-like contrast writing or internal documentation voice.
   - **Acceptance bar:** if a sentence sounds like it is teaching a model contrast pattern instead of talking to a reader, rewrite it.
 - **The “not A, it is B” teaching beat** — repeated contrasts of the form “**This is not** *chemistry / myth / debunk / a verdict*… **it is** *relationship / science / …*” work once; across many articles they read as the **same** canned cadence. **Rotate constructions**: lead with the **positive** claim; use **“Rather,”** **“Another name for that pressure:”** **“What I mean is simpler:”** a **question**, or a **concrete image**—anything that **breaks** the identical **not-this / but-that** rhythm.
 - Close cousin: **“X is not Y; it is Z”** every time you need nuance. Sometimes **Z alone** carries the point; sometimes **two short sentences** beat one negated compound.
@@ -143,7 +145,7 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 - **Paste-dump** of URLs with no integration in the sentence.
 - **Duplicating** half of a dossier “so this page stands alone”—**link** instead.
 - **`github.com/clevertree/...`** or other **dead** reader URLs (see `LINKING_AND_SITE_PATHS.md`).
-- **OS paths** (`/home/...`) in body text—**Investigator notes** at end of **dossiers** only.
+- **OS paths** (`/home/...`, `~/dev/...`, `/media/...`, maintainer mirror folders like **`~/dev/wget/...`**) in body text—**never** in articles republished to **Substack** or other public surfaces. Use **public URLs** only (`https://chronologia.org/...`, `https://paradigmthreat.net/...`). Local paths belong in dossier **Investigator notes** at the end of **`investigations/`** files only.
 - **Mid-article** **Limits** voice: tier sermons, long “**not proven**” chains, claim-number callouts, **Epstein**-class analogy **legal fencing** repeated in prose—**park** that in the **dossier** (one link is enough).
 - **Sprinkled disclaimers** — repeated “this is not to say,” “not every X,” “scholars disagree” every few paragraphs. **Batch** into **`## Framing and limits`** or cut; the narrative should read as **continuous thesis**, not **alternating thrust-and-retreat**.
 - **Tone softening that changes meaning** — avoid edits that make strong claims sound merely hypothetical when Ari intended a direct charge. Keep the claim explicit, then handle uncertainty in one limits block if needed.
@@ -168,4 +170,4 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 
 ---
 
-**Last updated:** 2026-05-21 (catalog lists → prose; avoid bold-lead stacks in articles)
+**Last updated:** 2026-05-23T09:18:22-04:00 (attribution footer policy; de-LLM vs keep LLM credit; no local paths in Substack articles)
