@@ -1,8 +1,25 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-23T11:55:22.624Z",
+    "date": "2026-05-23T11:59:58.232Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
+        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-23T11:55:21.000Z",
+    "message": "Replace ≠ with plain prose in Napoleon article TL;DR and dossier.",
     "files": [
       {
         "status": "M",
@@ -2689,221 +2706,6 @@
       {
         "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary-info.png",
         "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-16T17:13:28.000Z",
-    "message": "Expand Real Ghostbusters thesis; Substack article fixes; UAP and Iran dossier updates.",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/mars/investigations/index-mars.md",
-        "href": "/cosmos/mars/investigations/index-mars"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/mars/investigations/mars-fiction-survey.md",
-        "href": "/cosmos/mars/investigations/mars-fiction-survey"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/mars/investigations/wotw-timeline.md",
-        "href": "/cosmos/mars/investigations/wotw-timeline"
-      },
-      {
-        "status": "M",
-        "path": "docs/instructions/ARTICLES.md",
-        "href": "/docs/instructions/ARTICLES"
-      },
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/iran-2026-propaganda-thesis.md",
-        "href": "/events/false_flag/investigations/iran-2026-propaganda-thesis"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/mission-accomplished-again-iran-2026.md",
-        "href": "/governance/war/mission-accomplished-again-iran-2026"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/indigenous-creation-legends-and-geology.md",
-        "href": "/history/chronology/indigenous-creation-legends-and-geology"
-      },
-      {
-        "status": "M",
-        "path": "influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation.md",
-        "href": "/influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/conspiracy/the-real-ghostbusters.md",
-        "href": "/influence/conspiracy/the-real-ghostbusters"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/captured-courts-wrong-villain.md",
-        "href": "/influence/controlled_opposition/captured-courts-wrong-villain"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
-        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md",
-        "href": "/influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md",
-        "href": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/success-by-any-means-necessary.md",
-        "href": "/influence/controlled_opposition/success-by-any-means-necessary"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/what-are-you-waiting-for.md",
-        "href": "/influence/controlled_opposition/what-are-you-waiting-for"
-      },
-      {
-        "status": "M",
-        "path": "science/biology/circle-of-life-and-how-it-began.md",
-        "href": "/science/biology/circle-of-life-and-how-it-began"
-      },
-      {
-        "status": "M",
-        "path": "science/biology/the-cure-for-cancer.md",
-        "href": "/science/biology/the-cure-for-cancer"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
-        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
-        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
-        "alt": "Iran war runner — timeline, dual track, and regional map"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map.png",
-        "alt": "Iran war runner — theater map (Hormuz, Gulf, and adjacent land)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
-        "alt": "Iran war runner — Strait of Hormuz detail (theater map)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/ww2-mission-failed.png",
-        "alt": "WW2 — mission failed vs victory story (Coda lane)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/indigenous-creation-legends-and-geology.png",
-        "alt": "How old is your house? — memory, geology, and the long argument (lead figure)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/indigenous-creation-legends-and-geology2.png",
-        "alt": "Companion figure — islands, marks on stone, and the long argument over time"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.png",
-        "alt": "The Real Ghostbusters — ethereal noise, proton-pack kitsch, and the counter-program beneath the comedy"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.png",
-        "alt": "Captured courts and ethnic scapegoating — controlled opposition diagram (header)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
-        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
-        "alt": "*Chrono Trigger* / Mars remote viewing — predictive-programming composite (author)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)"
-      },
-      {
-        "src": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png",
-        "alt": "Witness reconstruction graphic — east Mesa, Arizona (Phoenix metro area), Tuesday April 22, 2014, ~1:24 AM: stadium-sized fully opaque black triangle, ~7 lights, ~1,000 ft altitude, drifting on a constant heading along a residential street for at least ~1 minute of clear overhead motion (up to ~3 minutes total counting the slow recession into the city light pollution before final disappearance), watched by the author and two roommates, before receding into the standard city light pollution toward east Mesa and disappearing there. Pull-quote: \"I refuse to believe that my roommates and I simultaneously mistook a meteor shower for a stadium-sized black triangle drifting at a thousand feet on a constant heading for at least a minute, with another minute or so to recede and finally disappear.\" Author-made reconstruction graphic, **not** a photograph of the 2014 event."
-      },
-      {
-        "src": "/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
-        "alt": "33 Thomas Street / AT&T Long Lines Building / Titanpointe — the canonical example of a windowless downtown tower whose cover story turned out to be only part of the story"
-      },
-      {
-        "src": "/science/anti_gravity/usaf-tr-3b.jpg",
-        "alt": "TR-3B disclosure collage — USAF wordmark, Phoenix Lights press inset, render"
-      },
-      {
-        "src": "/science/anti_gravity/usaf-tr-3b2.jpg",
-        "alt": "TR-3B collage panel 2 — patent, tarmac, render, schematic"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png",
-        "alt": "Witness reconstruction — east Mesa, Arizona (Phoenix metro area), Tuesday April 22, 2014, ~1:24 AM: black triangle over a residential street; author-made reconstruction, not a photograph."
-      },
-      {
-        "src": "https://paradigmthreat.net/science/anti_gravity/usaf-tr-3b.jpg",
-        "alt": "TR-3B disclosure collage — USAF wordmark, Phoenix Lights press inset, and \"TR-3B Astra\" render (not an official release)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/anti_gravity/usaf-tr-3b2.jpg",
-        "alt": "TR-3B collage panel 2 — St. Clair patent, anonymous tarmac photo, Fouche-era schematic labeled \"USAF Top Secret\""
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
-        "alt": "33 Thomas Street / AT&T Long Lines Building in Lower Manhattan — a 550-foot windowless Brutalist slab that was a telecom switching center and turned out to also be the NSA's TITANPOINTE surveillance hub. The canonical example of a downtown windowless tower whose cover story was true and incomplete at the same time."
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary.png",
-        "alt": "Success — by any means necessary — paying audience, black-box pipeline, NDAs, and leader accountability"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary-info.png",
-        "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/what-are-you-waiting-for.png",
-        "alt": "What Are You Waiting For? — deferral, headlines, calm-by-waiting (article art)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/what-are-you-waiting-for2.png",
-        "alt": "What Are You Waiting For? — alternate article art"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/biology/circle-of-life-and-how-it-began.png",
-        "alt": "The Circle of Life and How It Began — creation memory, scalar field, womb echo (article art)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/biology/investigations/dna-fingerprint-scalar-life-investigation.png",
-        "alt": "DNA as fingerprint, not blueprint — scalar life investigation"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/biology/the-cure-for-cancer.png",
-        "alt": "The Cure for Cancer — hope beyond the incurability chorus"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/biology/the-cure-for-cancer-meme.png",
-        "alt": "Return of the King (2003) frame: Frodo and Sam on the stairs — meme caption “No Sam, You’re the Cancer!” Same narrative trick: the sick voice accuses the loyal friend instead of the ring."
       }
     ]
   }
