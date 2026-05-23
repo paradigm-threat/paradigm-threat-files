@@ -1,8 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-23T11:40:55.456Z",
+    "date": "2026-05-23T11:55:22.624Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
+        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
+        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
+        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
+        "alt": "Roytas 2024 — Can You Catch a Cold? on Anna’s Archive (book hunt for footnote 8)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-23T11:40:54.000Z",
+    "message": "Napoleon article: herd immunity, Egypt vs Russia, vaccine dogma thesis.",
     "files": [
       {
         "status": "M",
@@ -2877,42 +2904,6 @@
       {
         "src": "https://paradigmthreat.net/science/biology/the-cure-for-cancer-meme.png",
         "alt": "Return of the King (2003) frame: Frodo and Sam on the stairs — meme caption “No Sam, You’re the Cancer!” Same narrative trick: the sick voice accuses the loyal friend instead of the ring."
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-16T12:43:04.000Z",
-    "message": "Add Real Ghostbusters reader essay with hero image.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation.md",
-        "href": "/influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/conspiracy/the-real-ghostbusters.md",
-        "href": "/influence/conspiracy/the-real-ghostbusters"
-      },
-      {
-        "status": "A",
-        "path": "influence/conspiracy/the-real-ghostbusters.png",
-        "href": "/influence/conspiracy/the-real-ghostbusters.png"
-      },
-      {
-        "status": "M",
-        "path": "influence/religion/exorcism-demonology-disease-colonial-memory-investigation.md",
-        "href": "/influence/religion/exorcism-demonology-disease-colonial-memory-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/conspiracy/the-real-ghostbusters.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.png",
-        "alt": "The Real Ghostbusters — ethereal noise, proton-pack kitsch, and the counter-program beneath the comedy"
       }
     ]
   }
