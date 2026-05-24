@@ -182,12 +182,20 @@ Predictive programming often provides a **lynchpin or caveat** to the rules bein
 | *The Shrinking Man* | 1956 (novel), 1957 (film) | Literature, Film | Lifeform shrinks via radiation + insecticide; continuous shrinking until dissolution | No caveat — rule is enforced; victim narrative |
 | *Fantastic Voyage* | 1966 | Film | Submarine + crew miniaturized; **60-minute limit** before reversion (fatal if still inside body) | Time limit as constraint; no permanent lifeform shrinking |
 | *Honey, I Shrunk the Kids* | 1989 | Film | Electromagnetic shrinking machine; **kids (lifeforms) shrunk accidentally**; danger, insects, ordeal | Caveat: machine *can* shrink kids (accident); ordeal encodes danger |
-| *Innerspace* | 1987 | Film | Miniaturization of pilot + pod; injected into wrong host; **oxygen/time limit** | Same as Fantastic Voyage |
+| *Innerspace* | 1987 | Film | Miniaturization of pilot + pod; injected into wrong host; **oxygen/time limit**; **geopolitical prize** — "What country will control miniaturization?" | Same as Fantastic Voyage; **plus explicit nation-state control disclosure** (see below) |
 | *Ant-Man* | 2015+ | Film | **Villain (Cross) can shrink objects and equipment; cannot shrink life** — the real limitation | **Caveat:** Cross invents human-shrinking suit; story breaks from reality into fantasy |
 | *Downsizing* | 2017 | Film | Voluntary shrinking to reduce footprint; **irreversible**; mixed results | Lifeform shrinking as social experiment; consequences |
 | *The Incredible Shrinking Woman* | 1981 | Film | Parody of Shrinking Man; household products cause shrinking | Same victim narrative |
 
 **Ant-Man (2015) as key disclosure:** Darren Cross's research hits the wall: he can shrink objects and equipment but **cannot shrink life**. That is the real limitation, stated plainly. The story then breaks from reality when Cross invents the human-shrinking suit — the lynchpin that lets heroes and villains shrink, making the whole thing feel like arbitrary movie magic rather than disclosure of an actual constraint.
+
+**Innerspace (1987) as geopolitical disclosure:** The villain Victor Scrimshaw dismisses nuclear weapons and the space race as spent strategic assets and names miniaturization as the decisive edge of the future — framed explicitly as a **national control question**, not merely a lab curiosity:
+
+> Nuclear weapons, Jack. They mean nothing. Everybody's got 'em, nobody has the balls to use 'em. Am I right? … Space, you say? Space is a flop. Didn't you know that? An endless junkyard of orbiting debris. Ah, but! Miniaturization, Jack. That's the ticket. That's the edge everybody's been looking for. Who will have that edge, Jack? What country… will control miniaturization?
+
+— Victor Scrimshaw (*Innerspace*, 1987)
+
+This is one of the strongest predictive-programming matches in the shrinking catalog for the **semiconductor / CPU crisis** that followed: post-1980s consolidation of advanced fabrication in Taiwan; export controls and CHIPS Act responses; China's hundreds of billions spent attempting domestic replication without success; and US–China tension over Taiwan as the choke point for the "edge" Scrimshaw names. The film encodes both dimensions of this section — the **objects vs lifeforms** rule (pilot shrunk inside pod, not as a naked lifeform) and a blunt disclosure that shrinking technology is a **nation-state prize** whose control will determine strategic dominance. The plot itself turns on theft of Western miniaturization tech for sale to overseas bidders — a rehearsal of the supply-chain opacity and vassal-state pattern in §3.
 
 **Synthesis:** Across these works:
 - When *objects* are shrunk, it is often framed as technological achievement

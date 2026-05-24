@@ -40,6 +40,7 @@ See also:
 - [MudFlood investigations](/history/mudflood/investigations/) — MFEE, Tartarian maps
 - [Influence/religion investigations](/influence/religion/) — 1979 Religious Revival
 - [Predictive programming — *Princess Bride* / Andronicus–Fezzik (open)](/influence/predictive_programming/fiction_encoding/princess-bride/index-princess-bride-andronicus-fezzik-investigation.md)
+- [Martin, *Game of Thrones*, *Elden Ring* — reconstructed timeline, dragon decoding (open)](/influence/predictive_programming/investigations/martin-elden-ring-reconstructed-timeline-investigation.md)
 
 ---
 

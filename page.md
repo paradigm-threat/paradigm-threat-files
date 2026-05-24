@@ -149,6 +149,7 @@ or *not* believing.
 * [Ed Wood and Plan 9 from Outer Space](/influence/predictive_programming/fiction_encoding/ed-wood-plan9/index-ed-wood-plan9-investigation.md) — Camp, saucer myth, and disclosure-layer reading.
 * [Science Fiction & Fantasy](/influence/predictive_programming/fiction_encoding/fiction-presented-as-fact-investigation.md) — Fiction presented as fact; genre as soft disclosure.
 * [G.R.R. Martin — *World of Ice & Fire*](/influence/predictive_programming/fiction_encoding/grrm/index-george-rr-martin-world-of-ice-and-fire-investigation.md) — Speculative “fictional historian” / encoding read.
+* [Martin, *Game of Thrones*, *Elden Ring* — reconstructed timeline (open)](/influence/predictive_programming/investigations/martin-elden-ring-reconstructed-timeline-investigation.md) — Middle Ages / Dark-Age winter memory; dragon–comet decoding; fiction quarantine; Lands Between myth stack.
 * [*Princess Bride* / Andronicus–Christ](/influence/predictive_programming/fiction_encoding/princess-bride/index-princess-bride-andronicus-fezzik-investigation.md) — Fomenko–Fezzik and “Colossus” dialogue (speculative).
 * [Mary Shelley](/influence/predictive_programming/fiction_encoding/shelley/shelley-frankenstein-true-story-investigation.md) — *Frankenstein* as potential true-story layer.
 * [Bram Stoker](/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md) — *Dracula* and encoding / managed narrative reads.
@@ -319,19 +320,35 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 
 ## Podcast Appearances
 
-* [Higher Side Chats](https://www.thehighersidechats.com/ari-asulin-the-electric-universe-pyramid-portals-our-martian-overlords/)
-* [MFTIC #2](https://share.transistor.fm/s/a0e771af)
-* [MFTIC #1](https://myfamilythinksimcrazy.com/archives/566)
-* [Rising From The Ashes](https://risingfromtheashes.podbean.com/e/s1e11-ari-asulin-tartaria-dewelectric-universe-saturn-sun-cosmology/)
-* [Real News Australia](https://realnewsaustralia.podbean.com/e/general-knowledge-podcast-bonus-content-show-teaser-4-moon-landing-hoax/)
-* [Debra Gets Red Pilled](https://podcasts.apple.com/us/podcast/hollow-earth-electric-universe-saturnian-cosmology/id1529830406?i=1000522770221)
-* [Typical Skeptic](https://www.youtube.com/watch?v=PIfTDESwZrw)
-* [Tin Foil Hat Podcast](https://discord.com/channels/575781553075126305/821081863455506472/875832303300001833)
-* [A Quest for Freedom](https://podcasts.apple.com/gb/podcast/questioning-history-with-ari-asulin/id1569927761?i=1000536648939)
-* [Inquiries of our Reality #1](https://redcircle.com/shows/2b1cc21c-b902-4316-b149-caa1672e888f/ep/53b1d808-2599-4093-8806-c4dba3243b9c)
-* [Inquiries of our Reality #2](https://redcircle.com/shows/2b1cc21c-b902-4316-b149-caa1672e888f/ep/67e47abb-1009-4710-bee0-e711e4705dfb)
-* [Inquiries of our Reality #3](https://www.spreaker.com/episode/266-the-world-s-alternative-history-pt-3-with-ari-asulin--62565153)
-* [Inquiries of our Reality #4](https://www.spreaker.com/episode/279-the-world-s-alternative-history-pt-4-with-ari-asulin--63313553)
+Full maintainer list (including upcoming and unverified): [docs/PODCAST_APPEARANCES.md](/docs/PODCAST_APPEARANCES.md). Sorted by air date, newest first.
+
+* **2026-04-16** — [Tin Foil Hat #982: Were The Planets The Old Gods](https://samtripoli.com/tfh-982-were-the-planets-the-old-gods-with-ari-asulin/)
+* **2026-03-18** — [My Family Thinks I'm Crazy Ep 582: The Third Story, Altered Timelines…](https://podcasts.apple.com/gb/podcast/ari-asulin-the-third-story-altered-timelines-covert/id1540529469?i=1000755952032)
+* **2026-03-18** — [Bizarre Encounters #138: The New Chronology Timeline](https://youtu.be/o-2mkAilf6U)
+* **2026-03-06** — [Inquiries of our Reality #384: Hidden Strategies of the Deep State](https://www.spreaker.com/episode/384-hidden-strategies-of-the-deep-state-with-ari-asulin--70361102)
+* **2025-09-01** — [Inquiries of our Reality #344: Programming of the Apocalypse](https://www.spreaker.com/episode/344-programming-of-the-apocalypse-with-ari-asulin--67559617)
+* **2024-12-16** — [Inquiries of our Reality #279: Alternative History Pt. 4](https://www.spreaker.com/episode/279-the-world-s-alternative-history-pt-4-with-ari-asulin--63313553)
+* **2024-10-31** — [Inquiries of our Reality #266: Alternative History Pt. 3](https://www.spreaker.com/episode/266-the-world-s-alternative-history-pt-3-with-ari-asulin--62565153)
+* **2024-10-31** — [Typical Skeptic: Paradigm Threat, Conspiracy, TSP back in Time](https://www.spreaker.com/episode/paradigm-threat-conspiracy-tsp-back-in-time-ari-asulin--62567940)
+* **2024-07-29** — [Inquiries of our Reality #244: Alternative History Pt. 2](https://www.spreaker.com/episode/244-ari-asulin-the-world-s-alternative-history-part-2-modern-history-world-empires-christianity-hairy-mary-giants-the-deep-state-th--62085513)
+* **2024-07-12** — [Inquiries of our Reality #238: Alternative History Pt. 1](https://www.spreaker.com/episode/238-ari-asulin-earth-s-alternative-history-understanding-the-ancient-cosmos-deciphering-creation-stories-technology-of-the-ancients-th--62085481)
+* **2022-12-01** — [Reality Czars #129: Reoccurring Resests in History](https://podcasters.spotify.com/pod/show/realityczars/episodes/129-Reoccurring-Resests-in-History-w-Ari-Asulin-e1rivnm)
+* **2022-05-02** — [Reality Czars #66: Hollow Earth](https://anchor.fm/realityczars/episodes/66-Hollow-Earth-w-the-Great-Ari-Asulin-e1hvs6s)
+* **2022-03-23** — [Reality Czars #57: Tartaria & Mud Floods](https://anchor.fm/realityczars/episodes/57-Tartaria--Mud-Floods-w-the-Great-Ari-Asulin-e1g552o)
+* **2021-12-20** — [Forbidden Knowledge News: Tartarian Empire / breakaway civilization](https://www.spreaker.com/episode/advanced-breakaway-civilization-false-historical-timeline-tartarian-empire-w-ari-asulin--48004266)
+* **2021-12-13** — [MFTIC: Legit Bat Grand Slam Swapcast](https://share.transistor.fm/s/77352492)
+* **2021-12-13** — [Typical Skeptic: Conspiracy Repository, Mars Civilization…](https://www.imdb.com/title/tt23403276/)
+* **2021-11-03** — [Typical Skeptic: Secret Space Program, Saturnian Cosmology…](https://www.imdb.com/title/tt23403292/)
+* **2021-09-26** — [A Quest for Freedom S1E7: Questioning History](https://podcasts.apple.com/gb/podcast/questioning-history-with-ari-asulin/id1569927761?i=1000536648939)
+* **2021-08-09** — [The Deep Share Ep 21: An Alternative Theory of Earth's History](https://open.spotify.com/episode/5D15yiucvxit8TQeSrO6lz)
+* **2021-07-27** — [Tin Foil Hat #477: Saturn Worship, Mars Slave Colonies…](https://samtripoli.substack.com/p/477-saturn-worship-mars-slave-colonies-c6a)
+* **2021-07-23** — [MFTIC: Mudflood 101, Tartarian Takeover, Fomenko](https://share.transistor.fm/s/a0e771af)
+* **2021-05-18** — [MFTIC: Tearing Down The Paradigm](https://myfamilythinksimcrazy.com/archives/566)
+* **2021-04-09** — [The Deep Share Ep 7: From the First Memory](https://open.spotify.com/episode/4bXxEADsAafWcCtJ6UTqOk)
+* **2021-03-21** — [MFTIC: The Golden Age, Saturn, & Esoteric Cosmology](https://share.transistor.fm/s/82b32f40)
+* **2021-02-02** — [The Higherside Chats: Electric Universe, Pyramid Portals…](https://www.thehighersidechats.com/ari-asulin-the-electric-universe-pyramid-portals-our-martian-overlords/)
+
+Unverified (date or guest role not confirmed): [Debra Gets Red Pilled — Hollow Earth…](https://podcasts.apple.com/us/podcast/hollow-earth-electric-universe-saturnian-cosmology/id1529830406?i=1000522770221) · [Rising From The Ashes S1E11](https://risingfromtheashes.podbean.com/e/s1e11-ari-asulin-tartaria-dewelectric-universe-saturn-sun-cosmology/) · [Real News Australia moon-landing teaser](https://realnewsaustralia.podbean.com/e/general-knowledge-podcast-bonus-content-show-teaser-4-moon-landing-hoax/). Reality Czars #4 was recorded but not aired.
 
 ## My Walking Series
 
@@ -385,15 +402,6 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
     Part 1 of my Alternate Timeline of Earth History video
   </figcaption>
 </figure>
-
-## Controlled Opposition Podcast Appearances
-
-* [Reality Czars Podcast](https://anchor.fm/realityczars/episodes/57-Tartaria--Mud-Floods-w-the-Great-Ari-Asulin-e1g552o)
-* [Reality Czars Podcast #2](https://anchor.fm/realityczars/episodes/66-Hollow-Earth-w-the-Great-Ari-Asulin-e1hvs6s)
-* [Reality Czars Podcast #3](https://podcasters.spotify.com/pod/show/realityczars/episodes/129-Reoccurring-Resests-in-History-w-Ari-Asulin-e1rivnm)
-* Reality Czars Podcast #4 (they didn't air it)
-* [The Deep Share Podcast](https://open.spotify.com/episode/4bXxEADsAafWcCtJ6UTqOk)
-* [The Deep Share Podcast #2](https://open.spotify.com/episode/5D15yiucvxit8TQeSrO6lz)
 
 ## Other Projects
 

@@ -101,6 +101,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Ed Wood and Plan 9 from Outer Space — Investigation](/influence/predictive_programming/fiction_encoding/ed-wood-plan9/index-ed-wood-plan9-investigation.md)
 - [Science Fiction & Fantasy: Fiction Presented as Fact](/influence/predictive_programming/fiction_encoding/fiction-presented-as-fact-investigation.md)
 - [Investigation (speculative): George R. R. Martin, *The World of Ice & Fire*, and the “fictional historian” pattern](/influence/predictive_programming/fiction_encoding/grrm/index-george-rr-martin-world-of-ice-and-fire-investigation.md)
+- [Investigation (open): Martin, *Game of Thrones*, other Martin works, and *Elden Ring* — reconstructed timeline, fiction quarantine, dragon decoding](/influence/predictive_programming/investigations/martin-elden-ring-reconstructed-timeline-investigation.md)
 - [Investigation (speculative): Fomenko’s Andronicus-Christ, *The Princess Bride*, and “Colossus” dialogue](/influence/predictive_programming/fiction_encoding/princess-bride/index-princess-bride-andronicus-fezzik-investigation.md)
 - [Mary Shelley — Frankenstein as Potential True Story: Investigation](/influence/predictive_programming/fiction_encoding/shelley/shelley-frankenstein-true-story-investigation.md)
 - [Bram Stoker — Investigation](/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md)

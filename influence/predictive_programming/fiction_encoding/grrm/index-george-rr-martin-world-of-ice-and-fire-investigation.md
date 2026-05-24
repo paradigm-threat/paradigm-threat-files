@@ -107,6 +107,7 @@ Mainstream journalism and academic outreach routinely treat *A Song of Ice and F
 
 ## Related
 
+- [*Game of Thrones*, Martin corpus, *Elden Ring* — reconstructed timeline (open)](../investigations/martin-elden-ring-reconstructed-timeline-investigation.md)
 - [Princess Bride / Goldman / Morgenstern](../princess-bride/index-princess-bride-andronicus-fezzik-investigation.md)
 - [Fiction presented as fact](../fiction-presented-as-fact-investigation.md)
 - [Tolkien / redacted fact](../tolkien/INVESTIGATION-tolkien-redacted-fact.md) (orthogonal Red Book pattern)

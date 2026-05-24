@@ -3,6 +3,7 @@
 | Document | Contents |
 |----------|----------|
 | [index-george-rr-martin-world-of-ice-and-fire-investigation.md](index-george-rr-martin-world-of-ice-and-fire-investigation.md) | *The World of Ice & Fire* (Maester frame), Goldman/Morgenstern parallel, mainstream historical parallels, Reddit anchor, Saturnian Dark Ages overlay (speculative), “furniture vs human heart” thesis, **chronology as missing comparator** (erased history ↔ unprovable fiction echoes) |
+| [*Game of Thrones*, other Martin works, *Elden Ring* — reconstructed timeline (open)](../investigations/martin-elden-ring-reconstructed-timeline-investigation.md) | Middle Ages / Long Night / multi-year winters; dragon–comet decoding; fiction quarantine; Miyazaki collaboration; Lands Between ↔ Golden Age / Shattering stack |
 
 ## Related on site
 

@@ -90,7 +90,7 @@ Science fiction repeatedly encodes rules around miniaturization that may constit
 | *The Shrinking Man* (1956/57) | Lifeform shrinks → continuous decay until dissolution | Victim narrative; no caveat — rule is enforced |
 | *Fantastic Voyage* (1966) | 60-minute limit before reversion (fatal if inside body) | Time limit as constraint; no permanent lifeform shrinking |
 | *Honey, I Shrunk the Kids* (1989) | Kids shrunk = ordeal, danger; machine works on objects | Electromagnetic misapplication; caveat: machine *can* shrink kids (accident), but ordeal encodes danger |
-| *Innerspace* (1987) | Oxygen/time limit; lifeform shrinking has fatal constraints | Same as Fantastic Voyage |
+| *Innerspace* (1987) | Oxygen/time limit; lifeform shrinking has fatal constraints; **"What country will control miniaturization?"** — geopolitical edge disclosure | Same as Fantastic Voyage; plus nation-state control monologue (see [investigation §7](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation)) |
 | *Ant-Man* (2015+) | Cross shrinks objects, not life — real limitation | **Caveat:** Cross invents human-shrinking suit; story breaks from reality into fantasy |
 
 If microchips are produced by atom-aligning replication of large-scale prototypes (shrinking *objects*), the fiction discloses the real constraint; the lynchpins and caveats ensure we dismiss it as fantasy.
@@ -206,7 +206,7 @@ Media identified as containing predictive programming by external sources or our
 | *Honey, I Shrunk the Kids* | 1989 | Electromagnetic shrinking machine shrinks kids; objects vs lifeforms rule; ordeal/danger. | Ours |
 | *Fantastic Voyage* | 1966 | Miniaturization of submarine + crew; 60-minute limit before fatal reversion. | Ours |
 | *The Incredible Shrinking Man* | 1957 | Radiation shrinks man; continuous decay until dissolution; victim narrative. | Ours |
-| *Innerspace* | 1987 | Pilot + pod miniaturized; oxygen/time limit; Fantastic Voyage homage. | Ours |
+| *Innerspace* | 1987 | Pilot + pod miniaturized; oxygen/time limit; villain monologue: miniaturization is the strategic edge — "What country will control miniaturization?" Strong PP match for Taiwan/CPU crisis. | Ours |
 | *Ant-Man* | 2015+ | Shrinking via Pym particles; lifeform shrinking requires special tech. | Ours |
 | *Downsizing* | 2017 | Voluntary shrinking irreversible; mixed results. | Ours |
 | *2001: A Space Odyssey* | 1968 | HAL self-aware; refuses to help; shut down. | Ours |
