@@ -1,8 +1,66 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-25T13:04:13.502Z",
+    "date": "2026-05-25T13:50:27.122Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/hollywood/ghost-war-the-antibody-phase.md",
+        "href": "/influence/hollywood/ghost-war-the-antibody-phase"
+      },
+      {
+        "status": "A",
+        "path": "influence/predictive_programming/predictive_programming_911_media.png",
+        "href": "/influence/predictive_programming/predictive_programming_911_media.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/predictive_programming/predictive_programming_911_media.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
+        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — militainment investigation (Office / Krasinski operator arc)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png",
+        "alt": "Benghazi stand-down orders — Krasinski / *13 Hours* investigation header"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
+        "alt": "9/11 predictive programming — media rehearsal before the public event (PP corpus)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.png",
+        "alt": "Trump-era Hollywood — predictive programming scorecard investigation (2016–2026)"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.png",
+        "alt": "Netanyahu — faked death / Shiva rumors investigation (Iran flank, March 2026 window)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
+        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
+        "alt": "Iran war runner — Strait of Hormuz detail (spring 2026 theater map)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-25T13:04:12.000Z",
+    "message": "Expand Ghost War post-hoc PP scorecard, corpus images, and article image reuse docs.",
     "files": [
       {
         "status": "M",
@@ -916,23 +974,6 @@
       {
         "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
         "alt": "Roytas 2024 — Can You Catch a Cold? on Anna’s Archive (book hunt for footnote 8)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-23T11:59:57.000Z",
-    "message": "Update Napoleon corpses article hero image.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
-        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png"
       }
     ]
   }

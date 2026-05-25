@@ -84,7 +84,7 @@ The [historical antibodies](https://paradigmthreat.net/timeline/evt-historical-a
 
 ## 9/11 had to be public
 
-![9/11 predictive programming — media rehearsal before the public event (911 corpus)](https://paradigmthreat.net/events/911/911_predictive_programming.jpg)
+![9/11 predictive programming — media rehearsal before the public event (PP corpus)](https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png)
 
 If the antibody thesis holds, 9/11 could not stay covert. The Deep State plan was **slow-and-go**: infiltrate religions and regimes, **then** simulate spectacular terror after the geometry set. The counter was **early trigger on U.S. soil**, televised, forcing a **War on Terror** keyword instead of a holy-war keyword the public could ignore.
 
@@ -105,8 +105,6 @@ Syria after Assad is the live demonstration: HTS marching on Damascus with moder
 ## Post-hoc scorecard: did Ghost War predict the news?
 
 Predictive programming on this site is not only **narrative containment** (wrong villain, MI6 whitewash, Crown tell). It is also **calendar data**: fiction that lands **before or beside** headlines so the audience can **reject the real story** when it arrives—“that’s the **Crown** scenario,” “that’s **Starling rage**,” “proxy units always go rogue.” The [Predictive Programming hub](https://paradigmthreat.net/influence/predictive_programming/page.md) treats PP as **pattern logging**, not proof of studio orders; the **post-hoc pass** compares **documented production/release dates** to the **established timeline** and scores **hits, partial rhymes, and misses**—same method as the [Trump-era Hollywood scorecard](https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.md).
-
-![Predictive programming hub — fiction, news, and rehearsal (corpus index)](https://paradigmthreat.net/influence/predictive_programming/predictive_programming.png)
 
 ![Trump-era Hollywood — predictive programming scorecard investigation (2016–2026)](https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.png)
 
