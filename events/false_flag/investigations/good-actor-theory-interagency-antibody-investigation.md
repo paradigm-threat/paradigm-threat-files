@@ -31,6 +31,25 @@ Operations—not only individuals—can be antibodies. If the good-actor thesis 
 
 The Deep State plan: **simulate** terrorist spectaculars after **slow-and-go** infiltration of religions and regimes (east → west burn). Antibody counter: trigger terrorism **before** infiltration completes—**on U.S. soil**, **televised**, so populations and institutions **cannot ignore** it; redirect to state-led "War on Terror" (religion-blind KEYWORD suppressed in favor of terrorism KEYWORD).
 
+### Proxy radical Islam vs radical Islam — antibody as minimal-damage copy (author thesis)
+
+A recurring **operational antibody** in this investigation is not whistleblowing alone but **mirroring the enemy's method at reduced scale**: when closed-door planners seed **radical Islam** to burn a civilization slowly, **good-actor factions** respond by **arming or tolerating rival radical-Islam proxies** to **pre-empt, contain, or redirect** the larger script — **proxy fights proxy**, militant franchise vs militant franchise, often with **narrower geography** and **earlier timing** than the species-virus lane intended.
+
+**Structural read:**
+
+| Species-virus lane (CIA–MI6 slow burn) | Antibody copy (NSA / good-actor counter) |
+|--------------------------------------|------------------------------------------|
+| Infiltrate religions and regimes; **then** spectacular terror | Trigger or **redirect** terror **early**; force public War on Terror |
+| Cultivate **one** holy-war geometry (east → west) | **Pit** radical groups **against each other** — mujahideen line vs rival franchises |
+| Maximize civilizational damage over decades | Accept ** ugly short-term damage** to **avoid** full slow-burn holy war |
+| Covert, deniable, institution-preserving | When possible: **legal cover**, **visible executive**, scheduled term — democracy in the open |
+
+**Examples in corpus (interpretive tiers vary):** post-9/11 **Daesh / ISIS / Boko Haram** slots read as **containment antibodies** against the longer CIA–MI6 pipeline — not "good terrorists," but **counter-proxies** in an agency-vs-agency frame; **HTS/Syria** as possible latest rebranded slot; **Starling** (fiction) states the syllogism openly — *use terrorist proxies to wipe rival cells* — which the investigation assigns to **real antibody logic**, then *Ghost War* **hangs on Crown** so the audience rejects it.
+
+**Minimal damage does not mean clean.** The author thesis is **comparative**: good actors **copy bad plans** because letting the enemy win on **technicality** (covert timing, full holy-war completion) is worse. Damage is **real** — radiation, proxy atrocity, blowback doors left open — but **bounded** relative to the **antiseptic utopia / total demolition** lane the infection prefers. That is why PP must **discredit success**: if the public credits **working proxy-on-proxy antibodies**, the species-virus pipeline loses its moral monopoly.
+
+Cross-read: [historical antibodies](/timeline/evt-historical-antibodies); [false-flag architecture — named villains](/timeline/evt-false-flags-architecture-of); § IV *Ghost War* ("create our own version"); [reader essay — Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-antibody-phase.md).
+
 ---
 
 ## II. Repo Citations — Primary Sources (By Theme)
@@ -200,11 +219,11 @@ The Deep State plan: **simulate** terrorist spectaculars after **slow-and-go** i
 
 ---
 
-## IV. Predictive Programming — *Tom Clancy's Jack Ryan: Ghost War* (2025)
+## IV. Predictive Programming — *Tom Clancy's Jack Ryan: Ghost War* (2026)
 
 ### Source and placement
 
-**Title:** *Tom Clancy's Jack Ryan: Ghost War* (Amazon Prime Video feature film, 2025; first Jack Ryan movie after four TV seasons).  
+**Title:** *Tom Clancy's Jack Ryan: Ghost War* (Amazon Prime Video feature film, **2026** release; announced **Oct 2024**; principal photography **Jan–Jul 2025**; first Jack Ryan movie after four TV seasons).  
 **Repo cross-reads:** [Predictive Programming: Fiction as Control](/timeline/evt-predictive-programming-fiction-as-control); [False Flags — controlled opposition as permanent enemy](/timeline/evt-false-flags-architecture-of); [Call of Duty *Modern Warfare* militainment investigation](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) (Krasinski / operator archetype timeline).
 
 This section documents **plot-documented** parallels to the good-actor / antibody thesis and records the **author's interpretive read**: that the film functions as **post-hoc narrative containment**—acknowledging the interagency proxy-terror method while reframing it as reckless rage, rogue resurrection, and a door still open for blowback.
@@ -246,7 +265,7 @@ On this reading, the movie does **not** deny that post-9/11 America created off-
 
 That matches the corpus model of **revelation-of-the-method** plus **wrong-villain framing** (see [controlled opposition](/timeline/evt-controlled-opposition-managed-disclosure)): tell enough truth to inoculate against deeper attribution.
 
-**The "create our own version" line:** Crown's logic — *only groups like Starling can suppress worse groups* — is the same operational syllogism the investigation assigns to **antibodies**, not to the Deep State's slow-burn infiltration. The film presents that syllogism through a **villain** so the viewer rejects the **tactic** while the **real world** may still be executing it under different branding.
+**The "create our own version" line:** Crown's logic — *only groups like Starling can suppress worse groups* — is the same operational syllogism the investigation assigns to **antibodies**, not to the Deep State's slow-burn infiltration. The film presents that syllogism through a **villain** so the viewer rejects the **tactic** while the **real world** may still be executing it under different branding. See § I — **Proxy radical Islam vs radical Islam** for the full **minimal-damage copy** pattern (good actors mirror bad plans at reduced scale; proxy-on-proxy as antibody).
 
 ### MI6 whitewash, Crown naming, and the NSA–MI6–CIA triangle (author interpretive)
 
@@ -275,9 +294,41 @@ The author links **Ghost War** to the **December 2024** collapse of Assad and th
 |----------|---------------------------|-------------------|
 | **"Our" militant proxy vs "their" militancy** | HTS evolved from jihadist roots; U.S. still designates HTS **terrorist** while engaging transition ([CRS RL33487](https://www.congress.gov/crs-product/RL33487); [Globe and Mail](https://www.theglobeandmail.com/world/article-after-ouster-of-assad-syrian-rebel-leader-tightens-his-grip-on-the/)) | Same **proxy slot** as mujahideen → Al-Qaeda → rebranded franchises in [`15.04.00`](/timeline/evt-false-flags-architecture-of) |
 | **Moderate-face promises** | Sharaa (Golani) repeated assurances on Christians, Alawites, "diversity is a strength" ([Washington Institute](https://www.washingtoninstitute.org/policy-analysis/how-syrias-diversity-friendly-jihadists-plan-building-state)) | **Narrative packaging** of an antibody-aligned or Western-tolerated proxy — whether or not practice matches promise |
-| **Demonstrable tactic post-film** | HTS capture of Damascus **after** *Ghost War* production/release window | Film **pre-contain** the interpretive frame before audience maps Syria to Starling logic |
+| **Demonstrable tactic in development window** | HTS capture of Damascus **Dec 2024** — after **Oct 2024** film announcement, **before** **May 2026** release | Film development/release window **overlaps** real proxy-franchise overturn; **post-hoc PP scorecard** § IV |
 
 **Epistemic tier:** HTS's origins, U.S. engagement, and transition rhetoric are **documented**. The claim that HTS is a deliberate **Western antibody proxy** (vs a locally evolved faction the West merely **accepts**) remains **interpretive** — same tier as much of the good-actor thesis. The **pattern rhyme** with "create a manageable Islamic militant center" is **strong**; **direct authorship** of Syria policy by the same faction that built Starling (fiction) is **not established** here.
+
+### Post-hoc PP scorecard — calendar vs established timeline (May 2026 pass)
+
+**Method (site pattern):** After events occur, compare **documented fiction dates** (announcement, production, release) to the **established timeline** and score **strong partial**, **partial**, and **miss** — same discipline as [Trump-era Hollywood § Scorecard](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) and [Predictive Programming hub](/influence/predictive_programming/page.md). PP here is **data**, not proof of studio orders.
+
+**Two PP functions (both apply):**
+
+1. **Narrative inoculation** — wrong villain (Crown), MI6 whitewash, "pure rage," Greer restoration — audience **rejects** antibody-proxy reads when headlines arrive.
+2. **Calendar anticipation** — fiction developed/released **beside** real proxy-war events so "I saw this in *Jack Ryan*" becomes a **debunk**.
+
+**Author anticipation frame (2020–2024):** Operators who treated **2020** as a **stolen / disputed** election and anticipated **Trump's 2024 return** after fraud cleanup could also anticipate a **known event bundle** under a restored executive: **Levant proxy churn**, **Iran** pressure, maritime escalation — aligned with **Netanyahu-era** prioritization of the Iranian flank ([historical antibodies — Netanyahu](/timeline/evt-historical-antibodies)). *Ghost War* **greenlit Oct 30, 2024** ([Deadline](https://deadline.com/2024/10/john-krasinski-jack-ryan-movie-amazon-mgm-studios-1236145678/)) — **before** Nov 2024 election, **before** May 2026 release overlapping [Iran 2026](/governance/war/mission-accomplished-again-iran-2026.md) headlines.
+
+| Date (documented) | Event | PP relevance |
+|-------------------|-------|--------------|
+| **Oct 30, 2024** | Jack Ryan movie announced | Pre-election; pre-Syria-collapse photography |
+| **Nov 2024** | Trump wins U.S. presidency | Same development window as announcement |
+| **Dec 2024** | **Assad** falls; **HTS** takes **Damascus** | After announcement, **before** Jan 2025 London shoot |
+| **Jan–Jul 2025** | Principal photography (London) | Post-Syria; pre-Iran-2026 release |
+| **May 15–20, 2026** | *Ghost War* premiere / Prime release | **Same month** as spring **2026 Iran** news cycle (site runner) |
+
+| Score | Claim | Notes |
+|-------|-------|-------|
+| **Strong partial** | Proxy **reactivation** / militant **franchise** lane | Starling reopens dormant plots; HTS = rebranded jihadist **transition** proxy — **structure**, not Damascus on screen |
+| **Strong partial** | **Iran / Hormuz / latency** board **May 2026** | Release calendar **converges** with [Mission Accomplished Iran 2026](/governance/war/mission-accomplished-again-iran-2026.md) — **thematic**, not Tehran set-piece |
+| **Strong partial** | **Inoculation before headlines** | Oct 2024 → May 2026 spans Trump return + Syria overturn + Iran escalation |
+| **Partial** | **Trump 2024** anticipation at greenlight | Announcement pre-dates election; **interpretive**, not Amazon admission |
+| **Miss** | Literal **Syria / Iran** geography | Fiction = **London, Dubai, Tower Bridge** |
+| **Miss** | Crown **London bridge** plot as **prediction** | No scored real-world match as of May 2026 pass |
+
+**Net assessment:** *Ghost War* is **strong post-hoc PP data** for **proxy-war grammar + calendar convergence**; **weak** for **scene-level prophecy**. That is the **expected** shape for this site's PP method — **institutional rhyme**, not lottery prediction.
+
+**Reader essay:** [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-antibody-phase.md) — post-hoc section in plain language.
 
 ### Assessment — is *Ghost War* related to this investigation?
 
@@ -294,7 +345,7 @@ That is the **same topic** as the good-actor / antibody investigation, viewed fr
 
 **Where caution is warranted:** Amazon/Clancy entertainment is **not** a leak. Tom Clancy's brand has long sold **competence porn** for CIA/Military — the ending (Jack and Greer back at Langley) may be **franchise renewal** as much as deep-state PSYOP. Krasinski's Jack Ryan is also linked in-repo to **militainment operator archetypes** (COD investigation) — star power may drive **audience capture** without proving coordinated briefing.
 
-**Reader essay (Ghost War / antibody lane):** For a Substack-length treatment of *Ghost War* and Project Starling as predictive-programming containment, **MI6 whitewash** and **Crown** naming, NSA vs CIA–MI6 interagency war, proxy-terror antibodies, Iran/DU continuity, and the optimistic “popcorn / last war” close, see [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-antibody-phase.md).
+**Reader essay (Ghost War / antibody lane):** For a Substack-length treatment of *Ghost War* and Project Starling as predictive-programming containment, **MI6 whitewash** and **Crown** naming, NSA vs CIA–MI6 interagency war, proxy-terror antibodies, Iran/DU continuity, and the **sit back and watch** close, see [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-antibody-phase.md).
 
 **Likelihood (objective):**
 
@@ -303,6 +354,8 @@ That is the **same topic** as the good-actor / antibody investigation, viewed fr
 | *Ghost War* plot matches interagency proxy-terror post-9/11 architecture | **High** (plot-documented) |
 | Film correlates with **topics in this investigation** | **High** |
 | Film intended as **PP to discredit antibody success** | **Plausible, speculative** |
+| **Post-hoc calendar rhyme** — Syria Dec 2024 + Iran May 2026 vs production/release | **Strong partial** (documented dates; thematic match) |
+| Scene-level prediction of Damascus / Tehran / bridge attack | **Miss** (as of May 2026 pass) |
 | MI6 **whitewashed**; **Crown** name splits British institutional guilt | **Author interpretive** — naming + cast morality map |
 | NSA operated **against** MI6–CIA proxy lane (corpus thesis) | **Speculative** — institutional read; not plot of film |
 | Syria HTS = real-world Starling-style antibody proxy | **Pattern plausible; direct proof open** |
@@ -311,7 +364,7 @@ That is the **same topic** as the good-actor / antibody investigation, viewed fr
 
 - [ ] Full transcript pull for "pure rage," Greer's Starling justification, Crown's "ghost war" dialogue
 - [ ] Production notes / Amazon press — any CIA/DOD entertainment-office liaison (compare Sneakers task)
-- [ ] Timeline: Starling fiction (2025) vs HTS Damascus (Dec 2024) vs Jack Ryan TV seasons (Venezuela, etc.)
+- [x] Timeline: Starling fiction (**2026** release) vs HTS Damascus (**Dec 2024**) vs Jack Ryan TV seasons — see § IV **Post-hoc PP scorecard**
 - [ ] Cross-file link from [predictive programming film/TV appendix](/timeline/evt-predictive-programming-film-tv-games)
 
 ---

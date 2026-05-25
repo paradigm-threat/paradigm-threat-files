@@ -65,7 +65,9 @@ Our investigations emphasize a direction often neglected elsewhere:
 
 5. **Investigative strategy** — We treat predictive programming as *data*, not proof or disproof. Repeated themes in film, news, and fiction are noted; interpretation is left open where evidence is ambiguous. See [INVESTIGATIVE_STRATEGY](https://paradigmthreat.net/docs/INVESTIGATIVE_STRATEGY) (paradigm-threat-timeline).
 
-6. **Chronology as comparator** — Hunting parallels between fiction and “real history” often stalls because **the official timeline may be the wrong yardstick**. If large-scale redaction or chronology shift occurred, stories could echo events we cannot yet place; proof stays blocked until the comparator grid is questioned or rebuilt. A **working prediction** on this site: scattered investigations may **converge toward stronger conclusions** once real history (or a serious alternate chronology) is accepted as the baseline for comparison—not proven in each author file, but stated so parallel work is not dismissed for using the wrong calendar. See [history / chronology hub](/history/chronology/page.md) and e.g. [GRRM investigation — chronology bottleneck](fiction_encoding/grrm/index-george-rr-martin-world-of-ice-and-fire-investigation.md) (*Chronology as the missing comparator*).
+6. **Post-hoc verification (after events)** — When headlines have landed, compare **documented production/release calendars** to the **established timeline** and score **strong partial**, **partial**, and **miss** (thematic rhyme vs scene-level prediction). **Anchor case:** [*Jack Ryan: Ghost War* (2026)](/influence/hollywood/ghost-war-the-antibody-phase.md) vs **Syria Dec 2024 (HTS)** and **Iran spring–May 2026** — full scorecard in [good-actor investigation § IV](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) and [Trump-era Hollywood scorecard](/influence/hollywood/trump-era-hollywood-political-media-investigation.md).
+
+7. **Chronology as comparator** — Hunting parallels between fiction and “real history” often stalls because **the official timeline may be the wrong yardstick**. If large-scale redaction or chronology shift occurred, stories could echo events we cannot yet place; proof stays blocked until the comparator grid is questioned or rebuilt. A **working prediction** on this site: scattered investigations may **converge toward stronger conclusions** once real history (or a serious alternate chronology) is accepted as the baseline for comparison—not proven in each author file, but stated so parallel work is not dismissed for using the wrong calendar. See [history / chronology hub](/history/chronology/page.md) and e.g. [GRRM investigation — chronology bottleneck](fiction_encoding/grrm/index-george-rr-martin-world-of-ice-and-fire-investigation.md) (*Chronology as the missing comparator*).
 
 ![Doom — quantum teleport between Earth and Mars](doom.jpg)
 
@@ -190,6 +192,7 @@ Media identified as containing predictive programming by external sources or our
 | *Star Wars* | 1977 | Alderaan destroyed; Mars-catastrophe parallel (Brandenburg). | Ours |
 | *I, Robot* | 2004 | AI takeover; Three Laws as slave code. | Ours |
 | *Children of Men* | 2006 | Global infertility; population collapse as inevitable. | Ours |
+| *Jack Ryan: Ghost War* | 2026 | Post-9/11 CIA–MI6 proxy unit (Starling); Crown rogue; MI6 whitewash; **post-hoc PP** vs **Syria Dec 2024** + **Iran May 2026** — [essay](../hollywood/ghost-war-the-antibody-phase.md), [good-actor § IV](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) | Ours |
 | *Pearl Harbor* | 2001 | Released months before 9/11; "new Pearl Harbor" preparation. | Wikispooks |
 | *Rain Man* | 1988 | Autism awareness two years after Vaccine Injury Act. | Wikispooks |
 | *Iron Man 3* | 2013 | Plot parallels staged ISIS videos (Jay Dyer analysis). | Jay Dyer |
@@ -321,7 +324,8 @@ Media identified as containing predictive programming by external sources or our
 ## Additional Media
 
 - [The Office](the_office.md)
-- [Trump-era Hollywood — predictive programming / political trend investigation](../hollywood/trump-era-hollywood-political-media-investigation.md) — **2026** — PP scorecard; ***Captain America: Brave New World*** (2025) vs **2025–2026** maritime **blockade** news cluster; session-captured author stance; trends over studio-proof.
+- [Ghost War: The Antibody Phase — post-hoc PP scorecard (2026)](../hollywood/ghost-war-the-antibody-phase.md) — *Jack Ryan* feature vs **Syria 2024** / **Iran 2026** calendar; inoculation + anticipation frame
+- [Trump-era Hollywood — predictive programming / political trend investigation](../hollywood/trump-era-hollywood-political-media-investigation.md) — **2026** — PP scorecard; ***Captain America: Brave New World*** (2025) vs **2025–2026** maritime **blockade** news cluster; ***Ghost War*** row; session-captured author stance; trends over studio-proof.
 
 
 ---

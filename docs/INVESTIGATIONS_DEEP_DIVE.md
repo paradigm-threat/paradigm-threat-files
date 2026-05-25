@@ -30,6 +30,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 ### Events
 
 - [Investigation: September 11, 2001 — Good-Actor Historic Antibody Thesis](/events/false_flag/investigations/09-11-investigation.md)
+- [Investigation: Good-Actor Theory — Interagency Antibody, Proxy Terror, and *Jack Ryan: Ghost War* (2026) PP scorecard](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md)
 - [Investigation: Would Netanyahu Want a Faked Death Here? — Motive, Timeline, and Iran Narrative](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md)
 - [Investigation: Ariel Sharon — Timeline, Gaza Disengagement, Coma Secrecy, and “Controlled Opposition” Threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md)
 - [Investigation: Richard Gage, AE911Truth, and the Controlled-Demolition Thesis (9/11)](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md)
@@ -95,6 +96,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: Lacatski / AAWSAP — insider program mechanics, politics, Great Awakening “conditional tech” rhyme (Open)](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md)
 - [Investigation: Toynbee Tiles — *Resurrect Dead* (2011) and the street campaign](/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md)
 - [Investigation: Trump-era Hollywood as predictive programming — trends, rhymes, and scorecard (2016–2026)](/influence/hollywood/trump-era-hollywood-political-media-investigation.md)
+- [Reader essay: *Ghost War: The Antibody Phase* — post-hoc PP vs Syria 2024 / Iran 2026](/influence/hollywood/ghost-war-the-antibody-phase.md)
 - [Investigation (open): Indigenous control systems — witchcraft discourse, Vodou “work,” and reservation containment hypotheses](/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md)
 - [Investigation (open): Giants of Japan — “archival footage” aesthetics, *Big Man Japan* (2007), and debunk-overreach as a perception-management tactic](/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md)
 - [Compromised Court Cases and Declared Reality — Investigation](/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md)

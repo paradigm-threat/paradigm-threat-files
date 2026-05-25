@@ -15,7 +15,7 @@
 ## Structure (typical)
 
 1. **Title** — topic + scope in one line (`#` heading at top of file). **Do not** use YAML `---` frontmatter blocks (`title:`, `description:`, `keywords:`); the site and index read title, snippet, hashtags, and OG image from the markdown **body** (`#` title, `> **TL;DR:**`, first paragraph, `Keywords:` line, first `![]()`).
-2. **Optional header image** — path under repo; keep alt text short.
+2. **Optional header image** — path under repo; keep alt text short. **Articles** that cover the same topic may **reuse** this asset (and other corpus PNGs/JPGs) via absolute `https://paradigmthreat.net/...` URLs at the matching **`##` section**—see **[`docs/instructions/ARTICLES.md`](instructions/ARTICLES.md) → Shape → “Reuse existing corpus images.”**
 3. **TL;DR** — one blockquote: thesis, strongest cites, cross-links to other investigations. Avoid duplicating the whole Limits list here.
 4. **Status** — Open / closed; one sentence.
 5. **Guide (read order)** — optional numbered list: “if you want X → section Y”. Use for long files so everyday readers can skip to militainment, money, clues, etc.

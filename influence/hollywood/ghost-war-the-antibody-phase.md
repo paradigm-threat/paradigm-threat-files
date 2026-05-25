@@ -4,15 +4,19 @@ NSA vs CIA, proxy terror, and Hollywood’s post-9/11 containment script
 
 ![Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment](https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png)
 
-Picture Jim Halpert at a Dundies ceremony. Michael Scott hands him a trophy for “Employee of the Month, Global Counterterrorism Division.” That is the entire audience problem with *Tom Clancy's Jack Ryan: Ghost War* (2025): we spent nine seasons watching a paper salesman prank Dwight Schrute, and now Amazon expects us to believe he is the moral spine of post-9/11 interagency proxy warfare. Millions of viewers had the same reaction. They could not unsee Jim. The movie felt like predictive programming written by someone who knew the casting was wrong on purpose.
+Picture Jim Halpert at a Dundies ceremony. Michael Scott hands him a trophy for “Employee of the Month, Global Counterterrorism Division.” That is the entire audience problem with *Tom Clancy's Jack Ryan: Ghost War* (2026): we spent nine seasons watching a paper salesman prank Dwight Schrute, and now Amazon expects us to believe he is the moral spine of post-9/11 interagency proxy warfare. Millions of viewers had the same reaction. They could not unsee Jim. The movie felt like predictive programming written by someone who knew the casting was wrong on purpose.
 
-> **TL;DR:** *Ghost War* admits post-9/11 CIA–MI6 proxy-terror machinery (Project Starling) then reframes it as “pure rage” and rogue revival so the public cannot credit a successful **antibody** campaign. The film **whitewashes MI6** (Emma Marlow as innocent partner; institutional London likable) while **Greer** carries U.S. complicity and **Elizabeth Wright’s** CIA reads clean above him. Villain **Liam Crown** splits British guilt onto a rogue surname—the **Crown** tell. **NSA** operated against the **CIA–MI6** lane in the corpus read; those two share proxy-terror motivation, especially on **Iran**. Miscast Krasinski is a ridicule buffer; underneath: 9/11/WTC 7, proxy antibodies, Iran 2026, popcorn end of endless war.
+> **TL;DR:** *Ghost War* admits post-9/11 CIA–MI6 proxy machinery then reframes it so the public cannot credit **antibody** success (proxy Islam vs proxy Islam, minimal-damage copy). **Post-hoc PP score (May 2026):** strong partial rhymes with **Syria Dec 2024** (HTS) and **Iran spring 2026** calendar; misses on literal geography. Greenlit **Oct 2024**—anticipation frame for **Trump 2024** return and **Bibi/Iran** board. MI6 whitewash; **Crown** tell; sit back and watch—the board runs above us.
 
 ## Wrong genre, right tell
 
-Jim sells paper. He breaks the fourth wall. He flirts with Pam across a partition. That training is irreversible. When Krasinski puts on a tactical vest and whispers about national security, half the audience is still waiting for a confessional glance that says *I can't believe they're making me do this*.
+Jim sells paper. He breaks the fourth wall. He flirts with Pam from his desk in the bullpen. That training is irreversible. When Krasinski puts on a tactical vest and whispers about national security, half the audience is still waiting for a confessional glance that says *I can't believe they're making me do this*.
 
-That reaction is not a failure of acting alone. It is a **genre collision**. Sitcom Jim is the everyman the culture trusted to mock bureaucracy. Jack Ryan is Tom Clancy competence porn—the analyst who becomes field officer because the plot demands a face the viewer will follow into hell. Krasinski was never going to erase nine years of prank DNA. And that may be exactly why he got the job.
+That reaction is not a failure of acting alone. It is a **genre collision**—and it is an **old Hollywood tactic**, not a one-off casting mistake. For decades studios have taken bankable **everyman** or **teen-comedy** faces and dropped them into prestige war and uniform roles right after the audience locked in a softer persona. **Matthew Broderick** went from *Ferris Bueller’s Day Off* (1986) to colonel in ***Glory*** (1989); contemporary reviews called him “catastrophically miscast” and an “amiable non-presence” in a Civil War epic ([Wikipedia — *Glory* reception](https://en.wikipedia.org/wiki/Glory_(1989_film))). **Michael J. Fox**, still carrying *Back to the Future* energy, was cast in ***Casualties of War*** (1989) opposite Sean Penn’s Vietnam brutality. **Tom Hanks** crossed from *Splash* and *Big* into ***Saving Private Ryan*** (1998) and a producer lane that ran through *Band of Brothers* and *The Pacific*. Oliver Stone’s ***Platoon*** casting notes circulated **Keanu Reeves** and **Kyle MacLachlan** for the Taylor role before Charlie Sheen landed it ([Wikipedia — *Platoon* § Casting](https://en.wikipedia.org/wiki/Platoon_(film)#Casting)). The pattern is assembled from film history and review language in the [Call of Duty militainment investigation §4.4–§4.5](https://paradigmthreat.net/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md)—not a formal academic trend, but a repeatable industry move.
+
+**John Krasinski** is the latest turn on the same conveyor belt: *The Office* everyman → *13 Hours* → *Jack Ryan* → *Ghost War*. Sitcom Jim is the everyman the culture trusted to mock bureaucracy. Jack Ryan is Tom Clancy competence porn—the analyst who becomes field officer because the plot demands a face the viewer will follow into hell. Krasinski was never going to erase nine years of prank DNA. When the star persona clashes with gravitas, critics and audiences notice—sometimes that friction is the **point**. The miscast becomes a built-in ridicule buffer so the payload still lands while the viewer cannot grant full moral weight to what was admitted on screen.
+
+![Call of Duty Modern Warfare — militainment investigation (Office / Krasinski operator arc)](https://paradigmthreat.net/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png)
 
 Netflix already ran the same experiment and got the same audience pushback—on the **Michael Scott** side of the ledger. ***Space Force*** (2020) reunited **Greg Daniels** and **Steve Carell** from *The Office* and dropped a negligent, narcissistic, tech-backward four-star general into a real institution the Trump administration had just stood up in 2019. Carell’s General Naird reads like Michael Scott with rank: well-meaning chaos in a uniform, cringe played for laughs where the branch name demanded at least partial gravity. **Season 1** landed mixed at best—critics and viewers said the show felt like *Office* DNA forced into a government-agency box it could not quite fill. The parallel matters for *Ghost War*: when you import a sitcom archetype into a live federal lane—paper salesman into CIA proxy war, or Dunder Mifflin boss into Space Force—the audience’s immune system rejects the graft. At least *Space Force* leaned into satire. *Jack Ryan* asks for Tom Clancy seriousness while still smuggling Jim’s face. For the institutional satire cluster and naming collision with the real branch, see the [Trump-era Hollywood investigation](https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.md) (*Space Force* lane).
 
@@ -30,11 +34,13 @@ Other beats pile on the same clue thread: **“Golden Ticket”** (S05E17) opens
 
 ## The pre-cast résumé
 
-The career ladder reads like a slow-motion typecast:
+The career ladder reads like the same slow-motion typecast Hollywood has run since **Ferris Bueller met *Glory***—only now the uniform is tactical vest and deputy-director clearance:
 
-**The Office** (2005–2013) — Jim as national everyman. ***13 Hours: The Secret Soldiers of Benghazi*** (2016) — Krasinski as Jack Silva, contractor under political friction; the Benghazi investigation notes his “your country’s got to figure this shit out” beat as declamatory, as if the line sat on top of the character rather than rising from it. ***Tom Clancy's Jack Ryan*** (2018–2023) — analyst to field officer across Venezuela, Moscow, and a Season 3 structured as modernized Red October. ***Ghost War*** (2025) — first Jack Ryan feature after four TV seasons; Starling, Crown, Greer elevated to CIA Director at the close.
+**The Office** (2005–2013) — Jim as national everyman. ***13 Hours: The Secret Soldiers of Benghazi*** (2016) — Krasinski as Jack Silva, contractor under political friction; the Benghazi investigation notes his “your country’s got to figure this shit out” beat as declamatory, as if the line sat on top of the character rather than rising from it. ***Tom Clancy's Jack Ryan*** (2018–2023) — analyst to field officer across Venezuela, Moscow, and a Season 3 structured as modernized Red October. ***Ghost War*** (2026) — first Jack Ryan feature after four TV seasons; announced **Oct 2024**, shot **Jan–Jul 2025**, released **May 2026**; Starling, Crown, Greer elevated to CIA Director at the close.
 
-Benghazi was the beat *The Office* telegraphed with CIA/Langley jokes. Ghost War is where the antibody thesis meets Hollywood containment. The through-line is not “Jim learns spycraft.” The through-line is **audience capture**: keep the everyman face while the narrative moves from prank room to proxy war.
+Benghazi was the beat *The Office* telegraphed with CIA/Langley jokes. Ghost War is where the antibody thesis meets Hollywood containment. The through-line is not “Jim learns spycraft.” The through-line is **audience capture**: the **decades-old** move of keeping a familiar everyman face while the narrative moves from prank room to proxy war—Broderick in epaulets, Fox in jungle mud, Krasinski in Langley fiction.
+
+![Benghazi stand-down orders — Krasinski / *13 Hours* investigation header](https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png)
 
 ## Ghost War: Starling and why the miscast helps
 
@@ -66,7 +72,7 @@ Here the comedy frame drops. The charge is structural.
 
 For roughly eighty years a **species virus** lane—the pyramidal compulsion to centralize narrative, finance, and force through divide-and-conquer, religion capture, and endless war—has run through a **CIA–British–MI6** pipeline: slow-burn holy war instead of quick nation-on-nation collapse. Against it, **antibodies** act: document leakers, sovereign breaks, encoded fiction, and **operations** that pre-empt the script at catastrophic cost. Individuals matter—Christ, Eckhart, Ellsberg, Patton—but so do coordinated counter-moves. On the good-actor reading, **9/11 ranks as the largest modern antibody operation**: not lone whistleblowing but interagency counter-deception executed **early, publicly, at home**.
 
-Conspiracy culture got half the board right: trusted agencies behind much of the visible evil. It missed the split. **Not every agency. Not the whole government.** History is full of good actors—minorities behind closed doors who moved the world (Lenin’s sealed train; Steve Jobs’s ridiculous career arc)—and of majorities who would never sign up for the full plan if they heard it in a break room. People talk. They stay connected. The more they hear about closed-door evil, the more likely they are to enlist in **counter-plans** when they feel the enemy will win on technicality alone.
+Conspiracy culture got half the board right: trusted agencies behind much of the visible evil. It missed the split. **Not every agency. Not the whole government.** It also missed the **counter-move**: good actors who **copy bad plans in miniature**—proxy against proxy, early public trigger, legal cover where possible—because losing on procedure while the enemy breaks every rule is worse than bounded ugly damage. History is full of good actors—minorities behind closed doors who moved the world (Lenin’s sealed train; Steve Jobs’s ridiculous career arc)—and of majorities who would never sign up for the full plan if they heard it in a break room. People talk. They stay connected. The more they hear about closed-door evil, the more likely they are to enlist in **counter-plans** when they feel the enemy will win on technicality alone.
 
 Democracy, in this reading, **only functions in the open**. Behind closed doors it rots. When the enemy breaks rules, good actors face a fork: lose on procedure, or change the rules **legally**—pass it through Congress where possible, put it on the head of a **visible president** who takes responsibility, end the term on schedule. That is the beauty of an open republic when it works: the fever breaks in daylight. Closed-door oligarchy has no such release valve.
 
@@ -74,7 +80,11 @@ The Sneakers lane in the good-actor investigation names the same split in fictio
 
 The [historical antibodies](https://paradigmthreat.net/timeline/evt-historical-antibodies) chapter names the pattern: independents who expose machinery or carry suppressed knowledge without being staged opposition. Ellsberg copied the Pentagon Papers; **Robert Hanyok** (NSA historian) fought **2002–2005** to declassify proof the second Gulf of Tonkin attack did not occur—SIGINT skewed to sell war. Two antibodies, two eras, same casus-belli architecture. For curriculum silence on Tonkin versus Watergate, see [When your child won’t fit the grade](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md).
 
+![Historical antibodies — independent agents against erasure (timeline chapter)](https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png)
+
 ## 9/11 had to be public
+
+![9/11 predictive programming — media rehearsal before the public event (911 corpus)](https://paradigmthreat.net/events/911/911_predictive_programming.jpg)
 
 If the antibody thesis holds, 9/11 could not stay covert. The Deep State plan was **slow-and-go**: infiltrate religions and regimes, **then** simulate spectacular terror after the geometry set. The counter was **early trigger on U.S. soil**, televised, forcing a **War on Terror** keyword instead of a holy-war keyword the public could ignore.
 
@@ -86,11 +96,47 @@ Public spectacle was the democratic antibody requirement. Covert decapitation wo
 
 False-flag architecture needs **named villains**. The mujahideen line became Al-Qaeda franchises; Hamas tolerated against PLO; controlled opposition as permanent enemy. The antibody read inverts the moral headline: **Daesh, ISIS, Boko Haram**, and rebranded militant centers functioned as **containment tools** in a successful NSA-side campaign to **pre-empt** the slow-burn holy war—proxy versus proxy, agency versus agency across borders, not nation versus nation in the textbook sense.
 
-That success is precisely what predictive programming must **contain in memory**. If the public credited a working antibody proxy strategy, the species-virus pipeline would lose its alibi. *Ghost War* arrives to admit the method, relabel it rage, hang it on Crown, and restore Greer—**managed disclosure** with the wrong villain.
+That is the operational pattern in plain language: **use proxy radical-Islam groups to resist other radical-Islam groups**. The species-virus lane (CIA–MI6 slow burn) cultivates militancy to ignite a civilizational holy war over decades. Good-actor factions **copy the method**—armed proxies, militant franchises, off-book task forces—because the alternative is letting the infection finish its script on schedule. The copy is meant to do **minimal damage relative to the full plan**: pit radicals against radicals, force an early public War on Terror, accept ugly bounded carnage rather than total demolition and an antiseptic utopia rebuild. **Minimal does not mean clean.** Proxy war still poisons cities, still leaves blowback doors open, still kills—but it is the antibody calculus when the enemy will win on **technicality** if counter-players insist on Marquess-of-Queensberry rules behind closed doors.
 
-Syria after Assad is the live demonstration: HTS marching on Damascus with moderate-face promises while carrying jihadist roots. Whether HTS is deliberate Western antibody proxy or a faction the West merely **accepts**, the **pattern rhyme** with Starling logic is strong. The film timed its release so “Starling again” sounds like a movie plot, not a news desk.
+*Ghost War* accidentally documents the syllogism. Starling **arms terrorist proxies to wipe rival cells**—the same sentence the investigation assigns to **real antibody success**. Crown says it out loud; the film then **hangs it on the villain** so you reject the tactic while the news desk still runs the live version. That is why predictive programming must **contain in memory**: if the public credits a working proxy-on-proxy antibody strategy, the species-virus pipeline loses its alibi.
+
+Syria after Assad is the live demonstration: HTS marching on Damascus with moderate-face promises while carrying jihadist roots. Whether HTS is deliberate Western antibody proxy or a faction the West merely **accepts**, the **pattern rhyme** with Starling logic is strong. The film timed its release so “Starling again” sounds like a movie plot, not a news desk. Full tier notes: [good-actor investigation § I — proxy minimal-damage copy](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).
+
+## Post-hoc scorecard: did Ghost War predict the news?
+
+Predictive programming on this site is not only **narrative containment** (wrong villain, MI6 whitewash, Crown tell). It is also **calendar data**: fiction that lands **before or beside** headlines so the audience can **reject the real story** when it arrives—“that’s the **Crown** scenario,” “that’s **Starling rage**,” “proxy units always go rogue.” The [Predictive Programming hub](https://paradigmthreat.net/influence/predictive_programming/page.md) treats PP as **pattern logging**, not proof of studio orders; the **post-hoc pass** compares **documented production/release dates** to the **established timeline** and scores **hits, partial rhymes, and misses**—same method as the [Trump-era Hollywood scorecard](https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.md).
+
+![Predictive programming hub — fiction, news, and rehearsal (corpus index)](https://paradigmthreat.net/influence/predictive_programming/predictive_programming.png)
+
+![Trump-era Hollywood — predictive programming scorecard investigation (2016–2026)](https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.png)
+
+**Author anticipation frame (2020–2024):** Western intel and allied leadership (including figures who had **long prioritized the Iran flank**, e.g. **Netanyahu’s** decades-long focus on Iranian capacity in the [historical antibodies](https://paradigmthreat.net/timeline/evt-historical-antibodies) read) could **anticipate** a **Trump return** after the **2020** election dispute, fraud cleanup, and **2024** win—then a **known bundle** of moves: proxy-terror geometry in the Levant, **Iran** latency and strikes, maritime pressure, MI6–CIA continuity with a **visible U.S. executive** again. *Ghost War* was **greenlit Oct 30, 2024** ([Deadline](https://deadline.com/2024/10/john-krasinski-jack-ryan-movie-amazon-mgm-studios-1236145678/)), **before** the November election and **before** the **May 2026** release window when **spring 2026 Iran** headlines peaked ([Mission Accomplished (Again) — Iran 2026](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md)). PP function: **inoculate** the audience **before** those headlines so interpretive antibodies never attach.
+
+![Netanyahu — faked death / Shiva rumors investigation (Iran flank, March 2026 window)](https://paradigmthreat.net/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.png)
+
+**Calendar anchor (documented):**
+
+Production announced **late Oct 2024**. **Hay'at Tahrir al-Sham** captured **Damascus** and the **Assad** government collapsed **December 2024**—after announcement, **before** principal photography (**Jan 2025**, London). Photography wrapped **late July 2025**. World premiere **May 15, 2026**; Prime Video **May 20, 2026** ([Wikipedia — *Jack Ryan: Ghost War*](https://en.wikipedia.org/wiki/Jack_Ryan:_Ghost_War)).
+
+**Post-hoc score (May 2026 pass):**
+
+**Strong partial — proxy reactivation / militant franchise lane.** On-screen Starling **reactivates dormant terror plots** and **arms proxies to fight proxies**. Real timeline: **HTS** (jihadist roots, rebranded “transition” face) took **Damascus Dec 2024** during the film’s development window—not a scene match, but a **structural rhyme** with “manageable militant center replaces old regime.”
+
+**Strong partial — Iran / spring 2026 convergence.** Film release **May 2026** overlaps the **spring 2026** Iran strike / Hormuz / “mission accomplished” news cycle the site documents—not plot-for-plot, but **same month, same board** (latency, proxies, MI6–CIA–Israel geometry).
+
+**Strong partial — inoculation before headlines.** Development **Oct 2024 → release May 2026** spans **Trump’s 2024 win**, **Syria overturn**, and **Iran 2026**—ideal window to pre-program **rejection** of antibody-proxy reads when news breaks.
+
+**Partial — Trump return window.** Announcement **pre-dates** Nov 2024 election; author read treats greenlight as **anticipation** of restored executive lane, not proof Amazon knew the ballot outcome.
+
+**Miss — geography and set-piece.** Fiction is **London / Dubai / Tower Bridge**, not **Damascus** or **Tehran**. No literal Syria or Iran set-piece.
+
+**Miss — blowback plot vs actual.** Crown’s **London bridge** bomb plot is **fiction**; scoring **miss** on scene-level prediction unless a future event rhymes (not claimed here).
+
+**Net:** *Ghost War* is **strong post-hoc PP data** on **proxy-war grammar and calendar convergence** with **Syria 2024** and **Iran 2026**; **weak** on **literal location and scene prediction**. That split is normal for this site’s PP method: **thematic / institutional rhyme**, not Nostradamus. Full dossier scorecard: [good-actor investigation § IV — post-hoc PP](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).
 
 ## Iran: the script still running
+
+![Mission Accomplished (Again) — Iran 2026, media split, and war ledger](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png)
 
 The Iran file is the endgame board the dossiers have tracked for decades: **Operation Ajax** (1953), Shah-era nuclear infrastructure, **1979** engineered religious revival, latency factories, and a public blind spot around what “nuclear” means in policy speech.
 
@@ -100,17 +146,19 @@ The [CIA investigation’s Iran lane](https://paradigmthreat.net/governance/war/
 
 Spring **2026** headlines—strike objectives versus civilian ledgers, Hormuz fear, “mission accomplished” rhetoric beside unresolved blockade politics—follow the same script the [Mission Accomplished (Again) Iran 2026](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) page names: dual scoreboards, asymmetric captions, latency treated as imminence when the briefing room needs it.
 
+![Iran war runner — Strait of Hormuz detail (spring 2026 theater map)](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png)
+
 The Iranian war record, on this reading, is not a surprise break from Ghost War fiction. It is the **next act** of proxy material moving through proxies—DU handed down the pipeline the JCPOA and withdrawal sequence guaranteed would eventually detonate in public.
 
-## Popcorn, carnage, and the last war
+## Sit back and watch
 
-Sit back. Eat popcorn. Watch the human carnage and costs that cannot be escaped—not because suffering is entertainment, but because **witness** is the democratic phase when the fever breaks in the open. Closed-door oligarchy hid the bill for centuries. Open republics force the invoice onto screens.
+Your responsibility, on this reading, is not to fix the board. It is to **watch**—to stay present while the invoice arrives in public, because closed-door oligarchy hid the bill for centuries and open republics now force it onto screens whether or not anyone asked for the show.
 
-The plans have been **countered**. Antibody operations pre-empted the slow-burn holy war; document releases and SIGINT truth-tellers punctured casus belli; sovereign actors broke unified escalation; Syria and Iran play out as ugly, radioactive epilogues to a script that **lost its covert timing**. The species-virus lane wanted an antiseptic utopia after total demolition. Instead it got daylight, miscast Jack Ryan, and an audience that laughs at Jim then Googles Starling.
+What you are watching is **so much bigger than any of us**. Interagency proxy geometry, decades of Iran latency, Syria overturns, spring **2026** strike cycles—these are not episodes a voter list or a viral thread can redirect. They are the late phase of scripts written across generations by factions most people will never meet. *Ghost War* is one more frame in that stack: predictive programming so that when the headline lands, the audience already has a debunk loaded.
 
-When this arc completes, the root causes of warfare sit visible: not “human nature” alone, but **minorities behind closed doors** engineering majority populations through capture, latency, and named villains. The vast majority of people—conversing, connected, ordinary—would never have chosen this if asked honestly. They are signing up for counter-plans now because the alternative is losing on technicality while the enemy breaks every rule.
+There was not much any ordinary person could do to change this **in our lifetime**. That is not nihilism; it is scale. Antibody operations, document releases, sovereign breaks in escalation—the moves that matter happen **above** the street and **beside** the ballot, in rooms where Starling is policy and Crown is fiction. The vast majority of people—conversing, connected, ordinary—would never have chosen this if asked honestly. They inherit it anyway.
 
-That is the horizon this reading calls **the last war**: not utopian denial, but **terminal exposure**—after which none of these mechanisms get to run unchanged again. Warfare ends when the immune system of civilization learns what infected it. We are in the ugly antibody phase. The popcorn is for staying awake through the credits.
+So sit back. Watch the human carnage and costs that cannot be escaped—not because suffering is entertainment, but because **witness** is what remains when agency does not. When this arc completes, the root causes of warfare may sit visible at last: not “human nature” alone, but **minorities behind closed doors** engineering majority populations through capture, latency, and named villains. Whether that exposure ends warfare is not ours to schedule. We are in the ugly antibody phase. Our part is to see it clearly while it runs.
 
 ## Where next
 
@@ -130,7 +178,7 @@ This article states an **author thesis** at full voltage: interagency antibody w
 
 Keywords: #GhostWar #JackRyan #MI6 #Crown #PredictiveProgramming #Antibodies #GoodActor #911 #Iran #Starling #NSA #InteragencyWar
 
-**Last updated:** 2026-05-25T16:00:00-04:00
+**Last updated:** 2026-05-25T21:30:00-04:00
 
 ---
 

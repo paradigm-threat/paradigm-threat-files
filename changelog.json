@@ -1,8 +1,159 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-25T12:29:19.376Z",
+    "date": "2026-05-25T13:04:13.502Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "M",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md",
+        "href": "/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/ghost-war-the-antibody-phase.md",
+        "href": "/influence/hollywood/ghost-war-the-antibody-phase"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
+        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/page.md",
+        "href": "/influence/predictive_programming"
+      }
+    ],
+    "images": [
+      {
+        "src": "/docs/)`)."
+      },
+      {
+        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)",
+        "alt": "` / `*.png` / `*.jpg`; prefer **published** `https://paradigmthreat.net/...` URLs (timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`). **Placement:** one image **after** the paragraph that introduces the topic (illustrate the **linked investigation**, not decorate every section). **Alt text:** name the **source lane** and **what the reader should see** (e.g. “Historical antibodies — timeline chapter,” “Call of Duty militainment — Krasinski operator arc”). **Do not** copy images into the article folder unless you are creating **new** art; **link** to the canonical file in its home directory. **Newsletter budget:** many large PNGs + hero can trigger Gmail clipping—prefer **fewer, well-placed** reuses over a gallery; see **Length → Newsletter / inbox check**. **Reference:** [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`"
+      },
+      {
+        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
+        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**).\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
+        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — militainment investigation (Office / Krasinski operator arc)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png",
+        "alt": "Benghazi stand-down orders — Krasinski / *13 Hours* investigation header"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/911/911_predictive_programming.jpg",
+        "alt": "9/11 predictive programming — media rehearsal before the public event (911 corpus)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming.png",
+        "alt": "Predictive programming hub — fiction, news, and rehearsal (corpus index)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.png",
+        "alt": "Trump-era Hollywood — predictive programming scorecard investigation (2016–2026)"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.png",
+        "alt": "Netanyahu — faked death / Shiva rumors investigation (Iran flank, March 2026 window)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
+        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
+        "alt": "Iran war runner — Strait of Hormuz detail (spring 2026 theater map)"
+      },
+      {
+        "src": "/influence/hollywood/trump-era-hollywood-political-media-investigation.png",
+        "alt": "Trump-era Hollywood — predictive programming investigation (cover)"
+      },
+      {
+        "src": "/influence/predictive_programming/predictive_programming.png",
+        "alt": "Predictive Programming"
+      },
+      {
+        "src": "/influence/predictive_programming/comics.jpg",
+        "alt": "9/11 predictive programming in comics"
+      },
+      {
+        "src": "/influence/predictive_programming/doom.jpg",
+        "alt": "Doom — quantum teleport between Earth and Mars"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_women.jpg",
+        "alt": "Mars Needs Women — breeding programme theme"
+      },
+      {
+        "src": "/influence/predictive_programming/stargate.jpg",
+        "alt": "Stargate — pyramid as portal"
+      },
+      {
+        "src": "/influence/predictive_programming/wotw.jpg",
+        "alt": "War of the Worlds — heat ray, red weed, Mars inversion"
+      },
+      {
+        "src": "/influence/predictive_programming/simpsons_space_laser.jpg",
+        "alt": "The Simpsons — 9/11 imagery"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_movies.jpg",
+        "alt": "Mars movies"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin.jpg",
+        "alt": "Marvin the Martian"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin2.jpg",
+        "alt": "Marvin the Martian (2)"
+      },
+      {
+        "src": "/influence/predictive_programming/megaman.jpg",
+        "alt": "Mega Man"
+      },
+      {
+        "src": "/influence/predictive_programming/nazis_hollow_earth.jpg",
+        "alt": "Nazis in Hollow Earth"
+      },
+      {
+        "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
+        "alt": "Fire on the Mountain"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-25T12:29:18.000Z",
+    "message": "Expand Ghost War MI6 whitewash and Crown PP read.",
     "files": [
       {
         "status": "M",
@@ -782,33 +933,6 @@
     "images": [
       {
         "src": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-23T11:55:21.000Z",
-    "message": "Replace ≠ with plain prose in Napoleon article TL;DR and dossier.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
-        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
-        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
-        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
-        "alt": "Roytas 2024 — Can You Catch a Cold? on Anna’s Archive (book hunt for footnote 8)"
       }
     ]
   }
