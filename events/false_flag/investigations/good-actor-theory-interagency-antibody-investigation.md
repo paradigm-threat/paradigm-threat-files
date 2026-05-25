@@ -2,7 +2,7 @@
 
 > **TL;DR:** This investigation consolidates the Paradigm Threat **Good-Actor / Historic Antibody** reading of 9/11: a ~80-year interagency struggle between a rogue **CIA–British–MI6** pipeline (slow-burn holy war, religion capture, endless war) and **antibody** factions (NSA/SIGINT lineage, document leakers, sovereign national actors) who **pre-empted** the script by staging terrorism **early, publicly, and at home**—destroying **WTC 7** (CIA NY station), forcing a **War on Terror** instead of covert holy war, and severing CIA domestic autonomy. **Landmark NSA act:** historian **Robert Hanyok**’s Gulf of Tonkin SIGINT audit (2001) and **2002–2005 declassification fight**—proof the second attack did not occur and SIGINT was skewed—parallel to **Ellsberg** (1971). Modern conflicts read as **agency vs agency across borders**, not nation vs nation.
 
-**Date:** 2026-05-25  
+**Date:** 2026-05-25 (updated **2026-05-26:** § I **Who's who** — Islamic radicalism control lanes, ISIS dual-face, Boko Haram/Chibok inverted read, child-narrative war)  
 **Status:** Ongoing — synthesis of existing repo corpus + external anchors
 
 ---
@@ -48,7 +48,68 @@ A recurring **operational antibody** in this investigation is not whistleblowing
 
 **Minimal damage does not mean clean.** The author thesis is **comparative**: good actors **copy bad plans** because letting the enemy win on **technicality** (covert timing, full holy-war completion) is worse. Damage is **real** — radiation, proxy atrocity, blowback doors left open — but **bounded** relative to the **antiseptic utopia / total demolition** lane the infection prefers. That is why PP must **discredit success**: if the public credits **working proxy-on-proxy antibodies**, the species-virus pipeline loses its moral monopoly.
 
-Cross-read: [historical antibodies](/timeline/evt-historical-antibodies); [false-flag architecture — named villains](/timeline/evt-false-flags-architecture-of); § IV *Ghost War* ("create our own version"); [reader essay — Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-antibody-phase.md).
+Cross-read: [historical antibodies](/timeline/evt-historical-antibodies); [false-flag architecture — named villains](/timeline/evt-false-flags-architecture-of); § I **Who's who** (control lanes); § IV *Ghost War* ("create our own version"); [reader essay — Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-antibody-phase.md).
+
+### Who's who — control lanes in Islamic radicalism (author thesis)
+
+**Purpose:** Sort post-9/11 **Islamic radical** franchises by **who they served on the board**, not by Western headline morality alone. The author suspects there was **no fully independent "trouble-making" terrorist entity** operating outside influence lanes — most slots fall into **two camps**: factions that produced **pro–U.S. / pro–Israel outcomes** (directly or by preparing terrain), versus **nationalist resistance** (lost country, affiliate labels) that the same press can call terrorist **without** treating them as civilizational "plague." The working divider for the antibody era: **acceptance of Israel's right to exist** (explicit or de facto in behavior).
+
+**Antibody counter-strategy (recap):** When closed-door planners seed uncontrollable holy-war geometry, the only workable counter is **create your own version** — **moderate militant Islam** you can **steer**: proxy fights proxy, franchise vs franchise, calendar pulled forward. Original designers (CIA–MI6 mujahideen line) matter less over time than **who captured the slot** and **which headlines the slot produced**.
+
+#### Author's originating read (pattern language)
+
+> Frankly, I don't think there was any truly trouble-making terrorist entity out there. They mostly fall into two camps. One are the nationalists who lost their country — like Afghanistan — considered terrorists because of affiliates, not always because of actions. ISIS seems to have two faces: one horrible enough to call **Daesh**, and another that did a lot of pro-Israel actions and never really attacked Israel directly — it prepared Syria for what would come later. I suspect ISIS was always a pro-Israel entity, even so far as to plant a flag on the Hamas **October 7** incident to give Israelis the political advantage to go full scale. The powers that be were trying to influence these entities regardless of who designed them first. The antibody strategy is the only working counter to worldwide Islamic radical terrorism: **create your own version you can control**. It largely came down to whether they accepted the right for Israel to exist.
+
+**Unpack:** This is **not** a claim that every attack was staged or that no civilians died. It is a **control map**: which franchises **advanced which board**, which narratives **blurred child and kidnapping stories**, and which groups were allowed to be called **plague** vs **regional enemy**.
+
+#### Two-camp map (author sorting — speculative tiers)
+
+| Entity / slot | Author camp read | Israel board behavior | Press / "plague" label |
+|---------------|------------------|----------------------|-------------------------|
+| **ISIS / Daesh** | **Dual-face proxy** — horror face for Western mobilization; **operational face** aligned with **Israel–U.S. Levant outcomes** | **Rare direct strikes on Israel** vs intensive war against Assad/Syria/Iraq targets that **softened eastern flank**; successor **HTS** (Dec 2024) fits same slot | **Daesh** = civilizational plague branding |
+| **HTS / Syria transition** | Latest **rebranded manageable militant center** — Starling rhyme | Western **engagement despite terrorist designation**; transition rhetoric | Moderate-face **transition** packaging |
+| **Taliban / Afghan nationalists** | **Nationalist camp** — lost country, resistance government | Not framed as global plague; **negotiation lane** opens when board shifts (U.S. withdrawal 2021) | Terrorist via **affiliates**; **Bamiyan Buddhas** (2001) as extreme iconography — still not "Daesh-level" plague keyword |
+| **Hamas / PLO geometry** | **Named villain slot** in false-flag architecture — tolerated opposition | Oct 7 **2023** as live board event; author suspects **ISIS-flag / ISIS-narrative planting** to **widen Israeli political mandate** — **not verified here** | Regional enemy; contested legitimacy |
+| **Boko Haram / Chibok "stolen daughters"** | **Inverted kidnapping read** — see below | Sahel chaos **post-Libya** spillover arc in corpus ([Great Awakening §3.3](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md)) | Global **#BringBackOurGirls** half-truth narrative |
+| **Al-Qaeda / mujahideen line** | **Original CIA–MI6 cultivation** — parent franchise | Pre-9/11 and post-9/11 **enemy slot**; antibody copies **fork** the line | Foundational **War on Terror** villain |
+| **Daesh offspring / Yazidi children** | **Child-as-weapon narrative** — see below | Rape-born children **rejected by society**; raised in **radical military ideology** too young → **double bind** (threat if kept, threat if abandoned) | "Terrorist children" / irredeemable framing |
+
+#### ISIS — two faces (author thesis)
+
+**Face A — Daesh:** Beheadings, enslavement, high-production media ([Iran 2026 propaganda thesis — ISIS parallel](/events/false_flag/investigations/iran-2026-propaganda-thesis.md#lego-cgi-thread)); vocabulary bad enough to justify **bomb-anywhere** urgency and **Western re-circulation** of primary horror footage.
+
+**Face B — board outcomes:** Campaigns that ** degraded Syrian state**, fragmented Iraq, and **never centered direct war on Israel** the way press fear suggested. Author read: **pro-Israel operational geometry** — prepare **Syria** for later transition (**HTS**), supply **political cover** for maximalist Israeli plans, and on **Oct 7 2023** allow **ISIS-flag / ISIS-claim association** to **poison the Hamas event** in Western eyes and **expand** Israeli **full-scale** mandate. **Tier:** Oct 7 **flag-planting** = **author suspicion, open** — requires claim-by-claim verification (who displayed which flag, when, primary video chain).
+
+#### Boko Haram — Chibok inverted read (author hypothesis)
+
+**Official narrative:** Islamist militants **kidnapped** schoolgirls (**Chibok**, 2014); global **half-truth** mobilization.
+
+**Author inverted read:** Many "daughters" were **not** growing up in traditional Islamic households — they were **already removed** by **state**, **city orphanage**, or **foster** pipelines (Christian or secular placement). **Boko Haram's "kidnapping"** may have been, in part, **return to biological parents** who then struggled to **conform** daughters to **strict Islamic law** for women — a **culture clash** the West **weaponized** as pure Islamist crime. **Tier:** **speculative** — needs Nigerian primary sources, school registers, family testimony; do not treat as debunk of all abduction violence.
+
+#### Daesh offspring — children in the war (author thesis)
+
+Children born from **wartime rape** (Yazidi and other communities) face **social rejection**: mother and infant **outcast together**, or mother **forced to surrender** infant. Raised in **orphanage, camp, or militant care**, they absorb **radical military ideology too young**, then read as **societal threat** — validating **permanent war** and **dehumanization**. **Narrative function:** blur **victim / perpetrator / child soldier** so the public accepts **no exit** from the franchise war. **Tier:** documented **existence** of ISIS-linked child soldiers and Yazidi captivity; **author control-map read** = interpretive.
+
+#### Taliban — nationalist camp contrast
+
+**Afghanistan:** Nationalists who **lost the country** to occupation; **Taliban** labeled terrorist via **affiliate logic** more than **global plague** branding. **Bamiyan Buddha destruction (2001)** reads as **extreme iconoclasm** in press — yet Taliban **not** treated as the same **civilizational Daesh** keyword. **2021 withdrawal** and **U.S. negotiation** with Taliban fit **board-shift** when a nationalist slot becomes **useful** again.
+
+#### Children as narrative weapons (cross-cutting)
+
+| Story type | Public headline | Author alternate read |
+|------------|-----------------|------------------------|
+| **Chibok girls** | Islamists steal daughters | State/foster removal **reversed**; clash over **Islamic law** for women |
+| **Daesh offspring** | Irredeemable terrorist youth | Rape product + **social rejection** + **military childhood** |
+| **Proxy transition (HTS)** | Moderate rebels | **Manageable militant center** — Starling fiction rhyme |
+
+#### Best divider — Israel acceptance
+
+On this map, the cleanest **operative** question for post-9/11 franchises is not "how brutal on video?" but **de facto board alignment**:
+
+- **Accepts or advances Israel's existence / security expansion** (by action, silence, or fighting Israel's enemies first) → ** antibody / steerable / pro-outcome camp** in author read.
+- **Rejects Israel's place on the board and fights it directly** → more likely **genuine nationalist or infection-lane opposition** — or a slot slated for **destruction**.
+
+**Limits:** This section is **author pattern sorting**, not court-ready attribution. **Documented:** ISIS media pipeline, U.S. designation of HTS, Chibok as global news event, Taliban negotiation history, false-flag architecture **named-villain** frame. **Open:** Oct 7 ISIS association claims, Chibok register/foster inversion, direct proof of **Israel–ISIS coordination** (author suspects **outcome alignment**, not necessarily signed orders).
 
 ---
 
@@ -345,7 +406,7 @@ That is the **same topic** as the good-actor / antibody investigation, viewed fr
 
 **Where caution is warranted:** Amazon/Clancy entertainment is **not** a leak. Tom Clancy's brand has long sold **competence porn** for CIA/Military — the ending (Jack and Greer back at Langley) may be **franchise renewal** as much as deep-state PSYOP. Krasinski's Jack Ryan is also linked in-repo to **militainment operator archetypes** (COD investigation) — star power may drive **audience capture** without proving coordinated briefing.
 
-**Reader essay (Ghost War / antibody lane):** For a Substack-length treatment of *Ghost War* and Project Starling as predictive-programming containment, **MI6 whitewash** and **Crown** naming, NSA vs CIA–MI6 interagency war, proxy-terror antibodies, Iran/DU continuity, and the **sit back and watch** close, see [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-antibody-phase.md).
+**Reader essay (Ghost War / antibody lane):** For a Substack-length treatment of *Ghost War* and Project Starling as predictive-programming containment, **MI6 whitewash** and **Crown** naming, NSA vs CIA–MI6 interagency war, **who's who in Islamic radicalism slots** (§ I), proxy-terror antibodies, Iran/DU continuity, and the **sit back and watch** close, see [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-antibody-phase.md).
 
 **Likelihood (objective):**
 
@@ -403,6 +464,9 @@ From corpus synthesis:
 | Species virus (mental) / illiteracy / genocide | **Framework** | Philosophical architecture in [`15.11.00`](/timeline/evt-where-we-go-from-here), [`CONCLUSIONS.md`](/docs/CONCLUSIONS.md) |
 | *Ghost War* depicts post-9/11 proxy-terror interagency ops | **High** | Plot-documented (§ IV) |
 | *Ghost War* as PP to discredit antibody success / pre-contain Syria read | **Plausible, speculative** | Structural rhyme; no production proof |
+| ISIS **dual-face** (Daesh horror vs pro-Israel board outcomes) | **Author thesis** | Outcome pattern; Oct 7 flag-plant **open** |
+| Boko Haram Chibok **inverted kidnapping** read | **Speculative** | Needs Nigerian primary sources |
+| Post-9/11 franchises sort by **Israel acceptance** divider | **Author framework** | Operative sorting tool, not proof |
 
 ---
 
@@ -415,6 +479,9 @@ From corpus synthesis:
 - [ ] Sneakers: intentional DoD/NSA consultation vs generic thriller tropes
 - [ ] "Species virus" — formal glossary entry linking mental-virus frame to Deep State terminology doc
 - [ ] *Jack Ryan: Ghost War* — transcript and production liaison (see § IV)
+- [ ] **Who's who lane:** Oct 7 **2023** — verify ISIS-flag / ISIS-claim videos and timeline (§ I)
+- [ ] **Chibok / Boko Haram** — school registers, foster/orphan pipelines, parent testimony (§ I inverted read)
+- [ ] **ISIS–Israel frontier** — documented strike list vs Syria/Iraq campaign emphasis (§ I dual-face read)
 
 ---
 
