@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-25T12:19:43.896Z",
+    "date": "2026-05-25T12:29:19.376Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md",
+        "href": "/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/ghost-war-the-antibody-phase.md",
+        "href": "/influence/hollywood/ghost-war-the-antibody-phase"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
+        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-25T12:19:43.000Z",
+    "message": "Update Ghost War article hero image.",
     "files": [
       {
         "status": "M",
@@ -786,42 +809,6 @@
       {
         "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
         "alt": "Roytas 2024 — Can You Catch a Cold? on Anna’s Archive (book hunt for footnote 8)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-23T11:40:54.000Z",
-    "message": "Napoleon article: herd immunity, Egypt vs Russia, vaccine dogma thesis.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
-        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
-        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
-      },
-      {
-        "status": "M",
-        "path": "science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md",
-        "href": "/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
-        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
-        "alt": "Roytas 2024 — Can You Catch a Cold? on Anna’s Archive (book hunt for footnote 8)"
-      },
-      {
-        "src": "/science/health/investigations/napoleon-plague-murad-bay-screenshot.png",
-        "alt": "Napoleon plague Murad Bay screenshot — book page under investigation"
       }
     ]
   }

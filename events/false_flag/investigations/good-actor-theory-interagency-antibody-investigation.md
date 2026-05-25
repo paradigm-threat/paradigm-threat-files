@@ -248,6 +248,25 @@ That matches the corpus model of **revelation-of-the-method** plus **wrong-villa
 
 **The "create our own version" line:** Crown's logic — *only groups like Starling can suppress worse groups* — is the same operational syllogism the investigation assigns to **antibodies**, not to the Deep State's slow-burn infiltration. The film presents that syllogism through a **villain** so the viewer rejects the **tactic** while the **real world** may still be executing it under different branding.
 
+### MI6 whitewash, Crown naming, and the NSA–MI6–CIA triangle (author interpretive)
+
+**Institutional split on screen:** Starling is **CIA + MI6** on paper — Nigel Cooke (MI6) and James Greer (CIA) **co-founded** the unit after 9/11. The dossier lane assigns **British/MI6** a **central** role in sponsoring radical militancy worldwide, including the **Iran pipeline** (Ajax, Shah, 1979 clerical capture, proxy geometry) — see [British divide-and-conquer investigation](/governance/war/investigations/british-divide-conquer-israel-investigation.md) and [CIA investigation § IV — Iran](/governance/war/investigations/cia-investigation.md#iv-iran-nukes-shah-ayatollah-and-the-end-game-script). *Ghost War* **admits** joint architecture, then **whitewashes MI6** in the moral ledger.
+
+| On-screen element | Documented (cast/plot) | Author read |
+|-------------------|------------------------|-------------|
+| **Emma Marlow** (Sienna Miller) | MI6 officer; Nigel Cooke's estranged daughter; Jack's partner against Starling | **Innocent MI6 protagonist** — tough, unapologetic, personal stake; audience routes sympathy through her, not through institutional MI6 guilt |
+| **Nigel Cooke** (Douglas Hodge) | Senior MI6; murdered early; handed Jack the Starling clue | **Sympathetic victim** — not the face of proxy-terror sponsorship |
+| **Andrew Spear** (J.J. Feild) | MI6 Deputy Chief; exposed as Crown's inside mole | **Rogue/traitor slot** — corruption as individual betrayal, not as **policy class** |
+| **Elizabeth Wright** (Betty Gabriel) | **Director of the CIA** | **Clean institutional ceiling** on the U.S. side — the visible U.S. government above Greer reads **uninvolved** while Greer (and past Starling) carry the sin |
+| **James Greer** (Wendell Pierce) | Starling co-creator; ends film as **CIA Director** | **Sole durable U.S. complicity face** — Starling's rage and proxy method hang on Greer's lane; **rest of U.S. government** treated as restorable |
+| **Liam Crown** (Max Beesley) | Disillusioned **former MI6** operative; reactivates Starling | **Fictional villain bucket** — absorbs British operational guilt under a **personal name** while **Emma/Nigel** keep MI6 **likable** |
+
+**Crown as predictive-programming tell (author interpretive):** The antagonist's surname is **Crown**. On the investigation read, that is not subtle. It **splits** British responsibility for cultivating radical terrorism — documented in the **CIA–MI6** slow-burn lane, **especially around Iran** — between (a) the **real institution** (MI6, Crown service, City of London continuity) and (b) a **rogue operator** literally named **Crown** who does all the visible evil in the movie. The irony lands as **mocking PP**: the film whispers what it will not prosecute — that sponsorship ran from the **highest British level** (*the Crown* behind MI6) — while handing the audience a **debunkable fiction** ("that's **Liam Crown**, not **the institution**"). Anyone who says MI6 seeded militancy globally can be answered with the movie's moral: **rogue Crown**, **traitor Spear**, **heroic Emma** — **not** MI6 as a class.
+
+**NSA vs MI6–CIA (corpus alignment):** This investigation does **not** treat "the government" as monolithic. **NSA** (SIGINT lineage, Hanyok, post-9/11 restructuring debates) is read as an **antibody architecture** operating **in opposition** to the **CIA–MI6** HUMINT / proxy-terror lane — see § I, § II.B, § II.I. **MI6 and CIA** share **motivation and method** in the species-virus frame: slow-burn holy war, divide-and-conquer, engineered extremists, **Iran–Israel** board geometry. They are **partners in infection**, not rivals — while **NSA-side** factions are the **counter-force** the film must **not** credit. *Ghost War* therefore **flatters MI6**, **restores CIA** via Greer/Jack, and **never names NSA** as the faction that might have run a successful **counter-proxy** campaign — consistent with PP that **contains antibody success** in memory.
+
+**Iran emphasis:** The film's Starling backstory (post-9/11 proxy cultivation abroad) **rhymes** with the dossier claim that **MI6–CIA** engineered **Iranian extremism** and regional proxy slots — yet **no British institutional reckoning** appears on screen. Iran in 2026 reads as **live epilogue**; *Ghost War* pre-containers the **MI6** interpretive frame before the audience connects **London**, **Tehran**, and **Starling**.
+
 ### Syria (2024–2025) — pattern correlation, not proof of film intent
 
 The author links **Ghost War** to the **December 2024** collapse of Assad and the ascent of **Hay'at Tahrir al-Sham (HTS)** — a former **al-Qaeda–aligned** formation that broke with central al-Qaeda in 2016, ran northwest Syria's **Salvation Government**, and marched on Damascus promising **protection of minority faiths** and inclusive transition language.
@@ -275,7 +294,7 @@ That is the **same topic** as the good-actor / antibody investigation, viewed fr
 
 **Where caution is warranted:** Amazon/Clancy entertainment is **not** a leak. Tom Clancy's brand has long sold **competence porn** for CIA/Military — the ending (Jack and Greer back at Langley) may be **franchise renewal** as much as deep-state PSYOP. Krasinski's Jack Ryan is also linked in-repo to **militainment operator archetypes** (COD investigation) — star power may drive **audience capture** without proving coordinated briefing.
 
-**Reader essay (Ghost War / antibody lane):** For a Substack-length treatment of *Ghost War* and Project Starling as predictive-programming containment, NSA vs CIA interagency war, proxy-terror antibodies, Iran/DU continuity, *The Office* foreshadowing as secondary thread, and the optimistic “popcorn / last war” close, see [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-antibody-phase.md).
+**Reader essay (Ghost War / antibody lane):** For a Substack-length treatment of *Ghost War* and Project Starling as predictive-programming containment, **MI6 whitewash** and **Crown** naming, NSA vs CIA–MI6 interagency war, proxy-terror antibodies, Iran/DU continuity, and the optimistic “popcorn / last war” close, see [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-antibody-phase.md).
 
 **Likelihood (objective):**
 
@@ -284,6 +303,8 @@ That is the **same topic** as the good-actor / antibody investigation, viewed fr
 | *Ghost War* plot matches interagency proxy-terror post-9/11 architecture | **High** (plot-documented) |
 | Film correlates with **topics in this investigation** | **High** |
 | Film intended as **PP to discredit antibody success** | **Plausible, speculative** |
+| MI6 **whitewashed**; **Crown** name splits British institutional guilt | **Author interpretive** — naming + cast morality map |
+| NSA operated **against** MI6–CIA proxy lane (corpus thesis) | **Speculative** — institutional read; not plot of film |
 | Syria HTS = real-world Starling-style antibody proxy | **Pattern plausible; direct proof open** |
 
 ### Open tasks (Ghost War lane)
@@ -304,6 +325,8 @@ From corpus synthesis:
 3. **War on Terror** — Public antibody redirect; Al-Qaeda franchise as **standing enemy slot** ([`15.04.00`](/timeline/evt-false-flags-architecture-of))
 4. **Latin America** — CIA removes good actors, empowers gangs ([`cia-investigation.md`](/governance/war/investigations/cia-investigation.md) § V)
 5. **Intelligence infighting post-9/11** — DHS, DNI, NSA surveillance debates (Ellsberg praised Snowden); Tenet "erosion" narrative
+
+**NSA vs MI6–CIA (explicit):** On this corpus read, **NSA** (SIGINT, institutional truth-tellers like Hanyok) operates **against** the **CIA–MI6** partnership — not as a third nation, but as an **antibody faction** inside the U.S. lattice. **MI6 and CIA** are **aligned in motivation and activity**: HUMINT, proxy cultivation, holy-war geometry, **Iran** and **Israel** board management ([`british-divide-conquer-israel-investigation.md`](/governance/war/investigations/british-divide-conquer-israel-investigation.md); [`cia-investigation.md`](/governance/war/investigations/cia-investigation.md) § IV). Official history paints **U.S. vs U.K.** or **CIA vs MI6 distrust** (*Ghost War* uses Spear as traitor); operative history here reads **CIA + MI6** as **co-infection**, **NSA** as **counter-SIGINT / counter-proxy** pressure — when factions break script at all.
 
 **Historical principle:** Official history is **nation-state colored**; operative history is **faction colored**. Antibodies appear wherever a faction breaks script—Patton (Germany/Soviet hinge), Ellsberg (Vietnam), Cooper (9/11 prediction), Trump (NATO cascade break)—with **response severity ∝ directness of exposure** ([`20.55.00`](/timeline/evt-historical-antibodies-pattern)).
 
