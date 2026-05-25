@@ -14,7 +14,7 @@ Circle time, “use your words,” the behavior chart — then a meltdown when a
 
 ---
 
-> **TL;DR:** Lead profile: child **mute to everyone** (including home) but **rich private speech** (monologue, songs) and **hyperlexia** (books, environmental print) — language on a **private channel**, not “nonverbal” in the motor sense. **Historic literature:** Piaget/Vygotsky describe **self-talk** as normal development; Kussmaul/Reed describe **selective mutism** with speech **somewhere** with people; Treffert describes **reading + minimal social speech** — **no pre-1940 author** names all pieces as **one syndrome** (§8.6). Mass schooling = **warfare + collectivist grading**; **Watergate vs Tonkin** shows **selective curriculum audit**. If rejection is **steady**, **homeschool** with print/typing/autodidactic tools; **do not** force verbal acknowledgment as the first IEP goal. Full dossier: [investigation](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md).
+> **TL;DR:** Lead profile: child **mute to everyone** (including home) but **rich private speech** (monologue, songs) and **hyperlexia** (books, environmental print) — language on a **private channel**, not “nonverbal” in the motor sense. **Historic literature:** Piaget/Vygotsky describe **self-talk** as normal development; Kussmaul/Reed describe **selective mutism** with speech **somewhere** with people; Treffert describes **reading + minimal social speech** — **no pre-1940 author** names all pieces as **one syndrome** (§8.6). Mass schooling = **warfare + collectivist grading**; **Watergate vs Tonkin** shows **selective curriculum audit** — and **NSA historian Robert Hanyok** fought **2002–2005** to declassify proof the **second Tonkin attack did not occur** while schools still skip the false-flag lesson. If rejection is **steady**, **homeschool** with print/typing/autodidactic tools; **do not** force verbal acknowledgment as the first IEP goal. Full dossier: [investigation](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md).
 
 ---
 
@@ -103,11 +103,34 @@ I was pushed through public material on slavery and violence too young. What stu
 
 **Watergate** lands in civics as a **full political controversy**: burglary, cover-up, Nixon, impeachment, “the system worked.” It is **entirely domestic**, **entirely controversial**, and safe for textbooks because the moral is **reform inside the republic** — not “your government lied you into a war.”
 
-**Gulf of Tonkin** is a different slot in the same canon. In many programs the child still learns the **war cause** — an attack, a resolution, escalation — **not** the **government-sponsored deception** **Daniel Ellsberg** exposed when he leaked the **Pentagon Papers**: that the **second attack** on USS *Maddox* **likely never happened** (NSA review, declassified 2005), that leadership **used** the incident to secure congressional authorization, and that the case belongs in the same family as **false-flag / staged-casus-belli** history — see the in-tree [20th–21st century false-flag catalog](https://paradigmthreat.net/events/false_flag/investigations/20th-21st-century-catalog.md#gulf-of-tonkin-1964).
+**Gulf of Tonkin** is a different slot in the same canon. In many programs the child still learns the **war cause** — an attack, a resolution, escalation — **not** the **government-sponsored deception** **Daniel Ellsberg** exposed when he leaked the **Pentagon Papers**, and **not** what **NSA’s own historian** later proved from **SIGINT**.
 
-Schools will walk a teenager through **Watergate** drama. They will **not** routinely teach Tonkin as **“we were lied into Vietnam”** the way Ellsberg documented. They teach **outcome** (war) while burying **mechanism** (deception). That is not neutral history. That is **selective audit** — controversy where the institution can absorb shame, silence where the institution’s war power is on trial.
+#### What Ellsberg documented (1971)
 
-A bright child who senses that asymmetry is not disordered. They are noticing the **contradicted umbrella** (§2c in the [investigation](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md#2b1-watergate-vs-gulf-of-tonkin--asymmetric-controversy-author-contrast)). Full table and sources: [§2b.1](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md#2b1-watergate-vs-gulf-of-tonkin--asymmetric-controversy-author-contrast).
+Ellsberg was **on duty in the Pentagon** the night of 4 August 1964, reading real-time cable traffic. He knew the second-attack story was rotten before the country did. The *Pentagon Papers* (1971) placed Tonkin inside a **pattern of deception** that expanded Vietnam — an **antibody** leak from the **Pentagon/RAND** pipeline. See [historical antibodies profiles — Ellsberg](https://paradigmthreat.net/timeline/evt-historical-antibodies-profiles) and the [good-actor / interagency investigation](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) § II.I.
+
+#### What Robert Hanyok and the NSA did (2001–2005) — a **hot war between agencies**
+
+This is not a minor footnote. It is one of the **most important documented acts of the NSA** in the twentieth century — and it shows the **interagency fight** in plain institutional terms.
+
+In **early 2001**, NSA historian **Robert J. Hanyok** finished a classified study for *Cryptologic Quarterly*: [**“Skunks, Bogies, Silent Hounds, and the Flying Fish”**](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/gulf-of-tonkin/articles/release-1/rel1_skunks_bogies.pdf). Reconstructing **all available SIGINT** for 2–4 August 1964, he concluded that the **second attack on 4 August did not happen** as Johnson and McNamara sold it — and that **midlevel NSA officers had deliberately skewed** intercept reporting: bad translations, altered times, fragments lifted out of context, roughly **90%** of relevant 4 August SIGINT **left out** of the summaries that became the White House’s “proof.”
+
+That product — **NSA signals intelligence** — was the **objective fuse** for the **Tonkin Gulf Resolution** and full-scale war. The **war machine** needed SIGINT to look clean. Hanyok’s audit, written **inside NSA**, said the fuse was **rigged**.
+
+Then came a **second fight** — not in 1964, but **leading into the twenty-first century**:
+
+| Year | Event |
+|------|--------|
+| **2001** | Hanyok article completed — **classified**, months **before 9/11** |
+| **2002+** | NSA historians **push to publish**; **rebuffed by higher levels** ([NYT, 31 Oct 2005](https://archive.nytimes.com/www.nytimes.com/2005/10/31/politics/31war.html)) |
+| **2003** | Outside historians **FOIA** the study after leaks of Hanyok’s conclusions |
+| **Nov–Dec 2005** | NSA **declassifies** Hanyok plus **140+** Tonkin SIGINT documents ([release index](https://www.nsa.gov/Portals/75/documents/news-features/declassified-documents/gulf-of-tonkin/articles/foia_requests/); [National Security Archive](http://nsarchive2.gwu.edu/NSAEBB/NSAEBB132/press20051201.htm)) |
+
+So: **Ellsberg** ruptured the lie from **document access** (1971). **Hanyok** ruptured it from **SIGINT audit** and then **battled his own agency for four years** to get the record out (2001–2005). That is **agency vs agency** — not a unified “government” teaching your child one honest civics lesson.
+
+**And the school still will not teach it.** Watergate gets a unit. Tonkin stays **“attack → war.”** The canon absorbs **domestic scandal** and buries **casus-belli fabrication** even after **NSA itself** published the correction. Schools will walk a teenager through **Watergate** drama but **not** Tonkin as **“we were lied into Vietnam”** — the way Ellsberg documented and Hanyok proved from **NSA archives**. They teach **outcome** (war) while burying **mechanism** (deception).
+
+A bright child with private speech and hyperlexia who senses that asymmetry is not disordered. They are noticing the **contradicted umbrella** (§2c in the [investigation](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md#2c--highlighted-conclusion--organic-myth-warfare-birth-collectivist-canon-antibodies)). Full table and sources: [§2b.1](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md#2b1-watergate-vs-gulf-of-tonkin--asymmetric-controversy-author-contrast); [good-actor investigation § II.I — Hanyok](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).
 
 ---
 
@@ -265,9 +288,9 @@ Investigation [Limits and disclaimers](https://paradigmthreat.net/history/chrono
 
 ---
 
-Keywords: #Autodidactic #Homeschool #SelectiveMutism #Hyperlexia #PrivateSpeech #Vygotsky #Piaget #Treffert #COVID #DebunkCycle #LitterBoxHoax #AngryBirds #FlexnerReport #CollectivistGrading #CurriculumAudit #Watergate #GulfOfTonkin #Ellsberg #ParadigmThreatFiles
+Keywords: #Autodidactic #Homeschool #SelectiveMutism #Hyperlexia #PrivateSpeech #Vygotsky #Piaget #Treffert #COVID #DebunkCycle #LitterBoxHoax #AngryBirds #FlexnerReport #CollectivistGrading #CurriculumAudit #Watergate #GulfOfTonkin #Ellsberg #Hanyok #NSA #ParadigmThreatFiles
 
-**Last updated:** 2026-05-22 (anonymous §8.5a side story; Watergate vs Tonkin)
+**Last updated:** 2026-05-25 (Hanyok / NSA Tonkin declassification fight; interagency-war context)
 
 ---
 

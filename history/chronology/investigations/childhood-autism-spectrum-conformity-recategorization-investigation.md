@@ -113,10 +113,16 @@
 |-------|------|-------------|
 | Pentagon Papers documented **expanded secrecy** and **misleading** official history of Vietnam | **Documented** | Ellsberg leak (1971); *New York Times* publication |
 | Ellsberg understood Tonkin episode as part of **deception** justifying war | **Documented** (motivation) | Ellsberg interviews / memoir literature |
-| **Second Gulf of Tonkin attack** did not occur as reported | **Validated** in-repo | NSA declassification 2005; [09-11 investigation §Gulf of Tonkin template](https://paradigmthreat.net/events/false_flag/investigations/09-11-investigation.md#gulf-of-tonkin-the-template); [INVESTIGATIONS_DEEP_DIVE](https://paradigmthreat.net/docs/INVESTIGATIONS_DEEP_DIVE.md) |
-| K–12 **routinely** teaches Tonkin as **false flag / government deception** | **Author audit target** — verify per state standards (§19 D5) | Often **under-taught** vs Watergate depth |
+| **Second Gulf of Tonkin attack** did not occur as reported | **Validated** in-repo | NSA Hanyok study + 2005 SIGINT release; [09-11 investigation §Gulf of Tonkin template](https://paradigmthreat.net/events/false_flag/investigations/09-11-investigation.md#gulf-of-tonkin-the-template); [good-actor § II.I — Hanyok](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
+| **NSA SIGINT skewed** for 4 Aug 1964 casus belli | **Validated** | Hanyok, *Cryptologic Quarterly* (NSA declassified 2005) |
+| NSA historians **fought 2002–2005** to publish Hanyok | **Validated** | [NYT, 31 Oct 2005](https://archive.nytimes.com/www.nytimes.com/2005/10/31/politics/31war.html); NSA release |
+| K–12 **routinely** teaches Tonkin as **false flag / government deception** | **Author audit target** — verify per state standards (§19 D5) | Often **under-taught** vs Watergate depth — **even after 2005 NSA release** |
 
-**Unpack:** Textbooks can host **Watergate** because it is **entirely political and controversial** without asking the student to hold “my government lied me into a war” as the **default civics lesson**. **Tonkin** threatens that — so the canon keeps **war cause** and drops **war lie**. That is **one-sided narrative assembly** (§2b), not missing “facts” by accident.
+### Robert Hanyok — NSA’s landmark disclosure fight (2001–2005)
+
+Separate from Ellsberg’s **1971** external leak: in **early 2001** NSA historian **Robert J. Hanyok** completed a classified SIGINT audit showing the **second attack did not occur** and that **midlevel NSA reporting was deliberately skewed** — translation errors, withheld intercepts (~90% of relevant 4 Aug material), conflated products used as Johnson’s proof. NSA historians **pushed for public release from 2002**; higher levels **rebuffed**; outside historians **FOIA’d** in 2003; NSA **declassified Hanyok + 140+ documents** in **Nov–Dec 2005**. Study finished **before 9/11**; publication battle ran **into the 21st century**. Read as **NSA antibody vs war-state / SIGINT cover-up** — [good-actor investigation § II.I](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md); [Hanyok PDF](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/gulf-of-tonkin/articles/release-1/rel1_skunks_bogies.pdf).
+
+**Unpack:** Textbooks can host **Watergate** because it is **entirely political and controversial** without asking the student to hold “my government lied me into a war” as the **default civics lesson**. **Tonkin** threatens that — so the canon keeps **war cause** and drops **war lie** — **even after NSA published the SIGINT correction**. That is **one-sided narrative assembly** (§2b), not missing “facts” by accident.
 
 ### Link to child rejection (Category 2)
 

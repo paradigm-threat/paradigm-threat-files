@@ -2,11 +2,13 @@
 
 Maintainer source of truth for guest spots on other shows. The public-facing summary lives on [site front page — Podcast Appearances](/page.md#podcast-appearances).
 
-**Last full audit:** 2026-05-24 (RSS: Spreaker IoR + Typical Skeptic, RedCircle Deep Share / MFTIC, Apple/Substack where available).
+**Counts (bump when adding rows):** **28** aired · **1** recorded, not aired · **29** total catalogued
+
+**Last full audit:** 2026-05-24 (RSS: Spreaker IoR + Typical Skeptic, RedCircle Deep Share / MFTIC, Apple/Substack where available). Former “unverified” trio **verified by maintainer** (May 2026); air dates are maintainer recall until primary publish dates are recovered.
 
 ## How to update
 
-1. After a new appearance **airs**, add a row to **Published** (date descending at top).
+1. After a new appearance **airs**, add a row to **Published** (date descending at top) and increment the **aired** / **total** counts in the header.
 2. When a booking is **confirmed but not yet released**, add a row to **Scheduled / upcoming** with `status: scheduled` and expected date if known.
 3. When only **talked about** or **link is broken**, use **Unverified / needs date or link**.
 4. Sync a one-line entry to [`page.md`](../page.md) `#podcast-appearances` (or run a pass after batch updates).
@@ -37,9 +39,12 @@ Maintainer source of truth for guest spots on other shows. The public-facing sum
 | 2021-08-09 | The Deep Share | Ep 21 — *An Alternative Theory of Earth's History* | [Spotify](https://open.spotify.com/episode/5D15yiucvxit8TQeSrO6lz) | Controlled-opposition circle |
 | 2021-07-27 | Tin Foil Hat | #477 — *Saturn Worship, Mars Slave Colonies…* | [Substack](https://samtripoli.substack.com/p/477-saturn-worship-mars-slave-colonies-c6a) | First TFH appearance |
 | 2021-07-23 | My Family Thinks I'm Crazy | *Mudflood 101, Tartarian Takeover, Fomenko, Thunderbird* | [Transistor](https://share.transistor.fm/s/a0e771af) | Site had labeled "MFTIC #2" |
+| 2021-06-01 | Rising From The Ashes | S1E11 — Tartaria, DEW, electric universe, Saturn sun cosmology | [Podbean](https://risingfromtheashes.podbean.com/e/s1e11-ari-asulin-tartaria-dewelectric-universe-saturn-sun-cosmology/) | Maintainer-verified guest |
 | 2021-05-18 | My Family Thinks I'm Crazy | *Tearing Down The Paradigm* | [MFTIC archive](https://myfamilythinksimcrazy.com/archives/566) | Site had labeled "MFTIC #1" |
+| 2021-04-28 | Real News Australia | General Knowledge bonus — moon landing hoax (guest) | [Podbean](https://realnewsaustralia.podbean.com/e/general-knowledge-podcast-bonus-content-show-teaser-4-moon-landing-hoax/) | Maintainer-verified guest; short teaser episode |
 | 2021-04-09 | The Deep Share | Ep 7 — *From the First Memory: Predictive Programming, Controlled Opposition, and Redacted History* | [Spotify](https://open.spotify.com/episode/4bXxEADsAafWcCtJ6UTqOk) | First Deep Share appearance |
 | 2021-03-21 | My Family Thinks I'm Crazy | *The Golden Age, Saturn, & Esoteric Cosmology* | [Transistor](https://share.transistor.fm/s/82b32f40) | Earliest MFTIC solo |
+| 2021-03-18 | Debra Gets Red Pilled | *Hollow Earth, Electric Universe, Saturnian Cosmology* | [Apple](https://podcasts.apple.com/us/podcast/hollow-earth-electric-universe-saturnian-cosmology/id1529830406?i=1000522770221) | Maintainer-verified guest |
 | 2021-02-02 | The Higherside Chats | *Electric Universe, Pyramid Portals, & Our Martian Overlords* | [thehighersidechats.com](https://www.thehighersidechats.com/ari-asulin-the-electric-universe-pyramid-portals-our-martian-overlords/) | First known podcast interview |
 
 ### MFTIC chronological order (for reference)
@@ -64,9 +69,7 @@ Add rows here when a appearance is **booked or recorded** but not public yet.
 
 | Show | Episode (as listed) | Link | Issue |
 |------|---------------------|------|-------|
-| Debra Gets Red Pilled | *Hollow Earth, Electric Universe, Saturnian Cosmology* | [Apple](https://podcasts.apple.com/us/podcast/hollow-earth-electric-universe-saturnian-cosmology/id1529830406?i=1000522770221) | Episode exists; **publish date not confirmed** (likely early 2021) |
-| Rising From The Ashes | S1E11 — Tartaria, DEW, electric universe, Saturn sun cosmology | [Podbean](https://risingfromtheashes.podbean.com/e/s1e11-ari-asulin-tartaria-dewelectric-universe-saturn-sun-cosmology/) | Login wall; **date not found** |
-| Real News Australia | General Knowledge bonus — moon landing hoax teaser | [Podbean](https://realnewsaustralia.podbean.com/e/general-knowledge-podcast-bonus-content-show-teaser-4-moon-landing-hoax/) | **Confirm Ari was guest** vs topic-only teaser |
+| — | — | — | *None pending* |
 
 ## Recorded but not aired
 

@@ -320,7 +320,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 
 ## Podcast Appearances
 
-Full maintainer list (including upcoming and unverified): [docs/PODCAST_APPEARANCES.md](/docs/PODCAST_APPEARANCES.md). Sorted by air date, newest first.
+**28** aired guest spots (plus **1** recorded, not released — Reality Czars #4). Full maintainer list: [docs/PODCAST_APPEARANCES.md](/docs/PODCAST_APPEARANCES.md). Sorted by air date, newest first.
 
 * **2026-04-16** — [Tin Foil Hat #982: Were The Planets The Old Gods](https://samtripoli.com/tfh-982-were-the-planets-the-old-gods-with-ari-asulin/)
 * **2026-03-18** — [My Family Thinks I'm Crazy Ep 582: The Third Story, Altered Timelines…](https://podcasts.apple.com/gb/podcast/ari-asulin-the-third-story-altered-timelines-covert/id1540529469?i=1000755952032)
@@ -343,12 +343,15 @@ Full maintainer list (including upcoming and unverified): [docs/PODCAST_APPEARAN
 * **2021-08-09** — [The Deep Share Ep 21: An Alternative Theory of Earth's History](https://open.spotify.com/episode/5D15yiucvxit8TQeSrO6lz)
 * **2021-07-27** — [Tin Foil Hat #477: Saturn Worship, Mars Slave Colonies…](https://samtripoli.substack.com/p/477-saturn-worship-mars-slave-colonies-c6a)
 * **2021-07-23** — [MFTIC: Mudflood 101, Tartarian Takeover, Fomenko](https://share.transistor.fm/s/a0e771af)
+* **2021-06-01** — [Rising From The Ashes S1E11: Tartaria, DEW, electric universe, Saturn sun cosmology](https://risingfromtheashes.podbean.com/e/s1e11-ari-asulin-tartaria-dewelectric-universe-saturn-sun-cosmology/)
 * **2021-05-18** — [MFTIC: Tearing Down The Paradigm](https://myfamilythinksimcrazy.com/archives/566)
+* **2021-04-28** — [Real News Australia: General Knowledge bonus — moon landing hoax (guest)](https://realnewsaustralia.podbean.com/e/general-knowledge-podcast-bonus-content-show-teaser-4-moon-landing-hoax/)
 * **2021-04-09** — [The Deep Share Ep 7: From the First Memory](https://open.spotify.com/episode/4bXxEADsAafWcCtJ6UTqOk)
 * **2021-03-21** — [MFTIC: The Golden Age, Saturn, & Esoteric Cosmology](https://share.transistor.fm/s/82b32f40)
+* **2021-03-18** — [Debra Gets Red Pilled: Hollow Earth, electric universe, Saturnian cosmology](https://podcasts.apple.com/us/podcast/hollow-earth-electric-universe-saturnian-cosmology/id1529830406?i=1000522770221)
 * **2021-02-02** — [The Higherside Chats: Electric Universe, Pyramid Portals…](https://www.thehighersidechats.com/ari-asulin-the-electric-universe-pyramid-portals-our-martian-overlords/)
 
-Unverified (date or guest role not confirmed): [Debra Gets Red Pilled — Hollow Earth…](https://podcasts.apple.com/us/podcast/hollow-earth-electric-universe-saturnian-cosmology/id1529830406?i=1000522770221) · [Rising From The Ashes S1E11](https://risingfromtheashes.podbean.com/e/s1e11-ari-asulin-tartaria-dewelectric-universe-saturn-sun-cosmology/) · [Real News Australia moon-landing teaser](https://realnewsaustralia.podbean.com/e/general-knowledge-podcast-bonus-content-show-teaser-4-moon-landing-hoax/). Reality Czars #4 was recorded but not aired.
+*Recorded but not aired:* Reality Czars #4 — see [docs/PODCAST_APPEARANCES.md](/docs/PODCAST_APPEARANCES.md).
 
 ## My Walking Series
 
