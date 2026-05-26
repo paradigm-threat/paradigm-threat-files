@@ -53,6 +53,7 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 ### NSA as Distinct from CIA
 
 - **Thesis:** An “antibody” formed around or against the CIA—an organisation intended to be **distinct**: the **NSA** (National Security Agency). Mission: calm world trouble by any means necessary, restore sovereignty, and provide **security** in a form that does not depend on the same covert pipelines as the CIA.
+- **Full NSA dossier — Tron theory, MINARET, Tonkin:** [NSA investigation — SIGINT antibody & *Tron* (1982)](/governance/war/investigations/nsa-investigation.md) (§ IV **Tron theory**; § II MINARET/Church Committee; § III Hanyok).
 - **Documented:** NSA was established **1952** by President Truman (NSC Intelligence Directive 9; [NSA.gov](https://www.nsa.gov/), [Britannica](https://www.britannica.com/topic/National-Security-Agency), [NARA RG 457](https://www.archives.gov/research/guide-fed-records/groups/457.html)). Mandate: unified control of **communications intelligence (SIGINT)** against foreign governments; cryptographic and signals intelligence; protection of U.S. communications. Origins in WWII military COMINT; legally distinct from CIA (human intelligence). No smoking gun for “antibody” or rivalry; doctrinal separation (SIGINT vs HUMINT) is structural.
 
 ### 9/11 and Building 7: NSA Took Out the CIA?

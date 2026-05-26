@@ -22,7 +22,7 @@ Operations—not only individuals—can be antibodies. If the good-actor thesis 
 
 1. **1945–1947:** WWII plan to destroy Russia fails; script **rebrands** into slow-burn **WW3** (existential crisis for ~70–80 years). OSS → CIA (1947); Nazi assets (SAFEHAVEN, Paperclip); British/MI6 continuity.
 2. **1950s–1979:** Iran pipeline—Ajax, Shah, Atoms for Peace, nuclear infrastructure → engineered **Ayatollah** takeover; **1979 religious revival** (Iran, Mecca, Moral Majority, Poland) as synchronized holy-war geometry.
-3. **1952:** **NSA** established (Truman, NSCID 9)—SIGINT vs CIA HUMINT; doctrinal separation read here as **antibody architecture** (speculative).
+3. **1952:** **NSA** established (Truman, NSCID 9)—SIGINT vs CIA HUMINT; doctrinal separation read here as **antibody architecture** (speculative). **1980s pivot / *Tron* allegory:** [NSA investigation § IV](/governance/war/investigations/nsa-investigation.md).
 4. **1964 / 1971 / 2001–2005:** Gulf of Tonkin template (NSA-skewed SIGINT → war); **Ellsberg** (1971) as document antibody; **Robert Hanyok** (NSA historian, 2001 classified study → **2005 declassification fight**) as **institutional NSA antibody** — see § II.I.
 5. **2001:** Good actors execute **one slice** of the terrorism script **early**—public **War on Terror** vs covert holy war; **WTC 7** decapitates CIA domestic station.
 6. **2001–present:** CIA plans "stomped out" via new War-on-Terror agencies; post-9/11 crises traced to CIA-linked narrative capture; **Reverse Crusade IV** (Ukraine) as latest nation-masked agency war.
@@ -129,8 +129,11 @@ On this map, the cleanest **operative** question for post-9/11 franchises is not
 
 ### B. CIA / NSA / Antibody (institutional investigation)
 
-**File:** [`cia-investigation.md`](/governance/war/investigations/cia-investigation.md)
+**Files:**
+- [`cia-investigation.md`](/governance/war/investigations/cia-investigation.md) — OSS→CIA; NSA antibody § III
+- [`nsa-investigation.md`](/governance/war/investigations/nsa-investigation.md) — **MINARET**, Tonkin/Hanyok, **Tron theory** (1982), 1980s holy-war pivot (author)
 
+**From CIA file:**
 - OSS→CIA rebrand; Nazi gold (Eizenstat, SAFEHAVEN); outside constitutional democracy
 - **NSA as antibody:** distinct org, SIGINT mandate, "calm world trouble / restore sovereignty" (speculative mission read)
 - **"NSA took out CIA on 9/11"** via Building 7 — claim documented, not proven
@@ -220,7 +223,7 @@ On this map, the cleanest **operative** question for post-9/11 franchises is not
 
 **Likelihood:** Second attack did not occur as sold — **validated** (Hanyok + NSA 2005 release). Deliberate skew of SIGINT — **Hanyok's documented conclusion** (NSA published it). NSA internal fight to declassify — **validated** (NYT 2005, NSA release). Reading this as **antibody vs war-state** — **interpretive**, structurally consistent with Ellsberg / good-actor frame.
 
-**Cross-refs:** [`20.55.01-historical-antibodies-profiles.md`](/timeline/evt-historical-antibodies-profiles) (Ellsberg/Tonkin); [`09-11-investigation.md`](./09-11-investigation.md) § Gulf of Tonkin template; [`20th-21st-century-catalog.md`](./20th-21st-century-catalog.md#gulf-of-tonkin-1964).
+**Cross-refs:** [`20.55.01-historical-antibodies-profiles.md`](/timeline/evt-historical-antibodies-profiles) (Ellsberg/Tonkin); [`09-11-investigation.md`](./09-11-investigation.md) § Gulf of Tonkin template; [`nsa-investigation.md`](/governance/war/investigations/nsa-investigation.md) § IV Tron theory; [`20th-21st-century-catalog.md`](./20th-21st-century-catalog.md#gulf-of-tonkin-1964).
 
 ---
 
@@ -517,6 +520,7 @@ flowchart TB
 | Topic | Path |
 |-------|------|
 | Master 9/11 good-actor dossier | [`09-11-investigation.md`](./09-11-investigation.md) |
+| **NSA — Tron theory, MINARET, Hanyok** | [`nsa-investigation.md`](/governance/war/investigations/nsa-investigation.md) |
 | CIA / NSA / antibody institutional | [`cia-investigation.md`](/governance/war/investigations/cia-investigation.md) |
 | Antibody concept | [`15.08.00-historical-antibodies.md`](/timeline/evt-historical-antibodies) |
 | Species virus / immune future | [`15.11.00-where-we-go-from-here.md`](/timeline/evt-where-we-go-from-here) |
