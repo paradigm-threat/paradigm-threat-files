@@ -1,6 +1,8 @@
 # MAGFest — community origins, nonprofit scale-up, governance crises, and freeplay policy (open)
 
-**TL;DR:** **MAGFest** began **2002** as a **small Virginia hotel con** (**Joe Yamine** → **Brendan Becker** continuity). **Documented** growth: **~250 → 3,000** under Becker’s era, then **Gaylord National Harbor (2012)**, **MAGFest Inc. nonprofit**, **20k–30k** flagship attendance, **paid staff + ~1,600 volunteers**, **~$3M** program revenue (**FY2024 990**). **Pro-corporate / professionalization trend** — venue arms race, **sellout** ticketing, **closed-profile** Gaylord entry (**2026**), **headliner** concerts, **juried marketplace**, **in-house ticketing stack** licensed to other cons, **charity speedrun** halo (**§9**). **2020–2021** [**Friends of MAGFest**](https://friendsofmag.com/) documented **staff/board conflict**; **Marinelli affair** — **unverified (§4.1)**; **MAME** rule = **Indie Arcade exhibitor lane only** (**§6**).
+![MAGFest — community governance investigation (header)](magfest-community-governance-investigation.png)
+
+**TL;DR:** **MAGFest** began **2002** as a **small Virginia hotel con** (**Joe Yamine** → **Brendan Becker** continuity). **Documented** growth: **~250 → 3,000** under Becker’s era, then **Gaylord National Harbor (2012)**, **MAGFest Inc. nonprofit**, **20k–30k** flagship attendance, **paid staff + ~1,600 volunteers**, **~$3M** program revenue (**FY2024 990**). **Pro-corporate / professionalization trend** — venue arms race, **sellout** ticketing, **closed-profile** Gaylord entry (**2026**), **headliner** concerts, **juried marketplace**, **in-house ticketing stack** licensed to other cons, **charity speedrun** halo (**§9**). **2020–2021** [**Friends of MAGFest**](https://friendsofmag.com/) documented **staff/board conflict**; **Marinelli affair** — **unverified (§4.1)**; **MAME** rule = **Indie Arcade exhibitor lane only** (**§6**). **Timeline ↔ silver platter (dates only):** [**§3.1**](#31-timeline-tldr--silver-platter-fit).
 
 **Status:** Open — **Friends of MAG** primary cluster **2019–2021**; **author memory** on Becker era + Marinelli + **Brendan Long** name (**disambiguation §2.2**); **friendsofmag.com** **content integrity warning** (**§5.1**).
 
@@ -74,6 +76,26 @@ Public MAGFest history centers **Brendan Becker** (“**Mr. MAGFest**,” chiptu
 | **2022–2024** | In-person return; **2024** **~30,000** (sellout narrative) | **P** | Wikipedia |
 | **Jan 23–26, 2025** | **Super MAGFest 2025** — **~24,500** capped; **console/arcade freeplay** still advertised | **P** | Wikipedia; [super.magfest.org/gaming](https://super.magfest.org/activities/gaming/) |
 | **Jan 8–11, 2026** | **Super MAGFest 2026** (Mega Man X theme) | **P** | Wikipedia |
+
+### 3.1 Timeline TL;DR — silver platter fit
+
+**Read this if** you only want **dates** and how the author’s [**silver platter**](#10-author-conclusion--silver-platter-industry-influence-and-divide-and-conquer-pattern-thesis) read maps onto them. Evidence tiers and full sources stay in **§3**; mechanism and epistemics in **§10**.
+
+| Phase | When (anchors) | Timeline (one line) | Platter layer |
+|-------|----------------|---------------------|---------------|
+| **Commons heat** | **2002–2011** | **M1–M9:** Virginia hotels; Becker-era **“bring consoles, play together”** identity; **~265 → ~3,000** | Messy **volunteer play culture** and scene labor **are** the event before keys consolidate |
+| **Recentralization** | **2010–2012** | Becker **scales back (2010)**, **steps back from helm (2011)**; **MAGFest X (2012):** first **Gaylord**, **MAGFest Inc.** nonprofit, **6,100+** | **Keys move** — resort, **501(c)(3)**, paid scale — while **heat** still reads “community con” on the surface |
+| **Surface platter** | **2012–2019** | Marinelli **board → COO → ED**; **MIVS (2013)**, **Indie Arcade (~2016)**, **~20k–24k** cap narrative; concerts/marketplace eclipse “just show up and play” as **center of gravity** | **Pre-cleaned table:** sellout access, **charity-adjacent** halo (**GDQ** spun from **MAGFest 8**), **partner** programming (**§9**) |
+| **Trust fracture (backstage)** | **~2013–2019** (overlap) | Marinelli admits **immense distrust** between **leadership** and **volunteers** early in ED tenure; **retires ED 2019** | **Polarization** under scale — **not** yet the **indexed** **FoM** war |
+| **Hidden trigger (?)** | **pre-2020** (**R**) | **Insider + author:** **Marinelli cheating** + failed **cover-up** **started fallout** — **not** named on [**Friends of MAG**](https://friendsofmag.com/) | **Weak-point** geometry: **sexual/private** lever while the **public** later fights **HR/board** (**§4.1**) |
+| **Public divide-and-conquer** | **Aug 2020 – Jan 2021** | **Six FTE** HR vs **Birtel**; **FoM** public **Nov 2020**; **Dec 28** firings; **virtual 2021** cancelled; **board** mass resign; **~95%** revenue loss year | **Faction war on the ground** — staff vs **ED**, community signatories vs leadership that wanted dissent **private** (**§10.2**) |
+| **Platter persists** | **2022–2026** | In-person return; **~30k** sellout narrative (**2024**); **freeplay still advertised**; **Super MAGFest 2026** at Gaylord | **Exhausted split** → **resort-scale spectacle continues**; upstream (**Gaylord**, publishers, **Ubersystem** ticketing) still **harvests** the audience |
+
+**Arc in one sentence:** **Hotel-room commons (2002)** → **Gaylord nonprofit spectacle (2012+)** → **backstage rupture (?) then indexed governance war (2020–2021)** → **flagship returns bigger (2024–2026)** without restoring **founder-era** “keys in the volunteer room” geometry.
+
+**What this timeline match does *not* prove:** A **named publisher** ordered **Dec 2020** firings. **What it does** support at **pattern** tier ([**§10**](#10-author-conclusion--silver-platter-industry-influence-and-divide-and-conquer-pattern-thesis)): **commons heat** → **recentralization** → **polarization that benefits whoever holds badge/venue/board/IP** → **surface fight** (FoM, HR, tone) **≠** **hidden lever** (affair/cover-up line — **unverified**, **§4.1**).
+
+**Scene rhyme (same platter, different institutions):** **MAGFest 5 (Jan 2007)** ↔ [OC ReMix UnMod week](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md); **MAGFest 8 (2010)** ↔ [GDQ spin-off](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) when the **hotel** could not hold the **charity marathon**.
 
 ---
 
@@ -329,4 +351,4 @@ The author’s **forward** rejection of silver-platter service — member-rights
 
 **Not** legal advice. **Not** employment-law findings on **2020** terminations. **Marinelli** personal-conduct claims remain **unverified (?)** unless **§4.1** hooks produce primaries. **Friends of MAG** and **MAGFest leadership** each had **incentives** during **2020–2021** — read **both** sides. **§10** states the author’s **silver platter** conclusion (**industry influence** + **divide-and-conquer** as **default pattern**); **mechanism** (**paid agents** vs **structural capture**) is **not** adjudicated here. **Wikipedia** and **official** pages can lag **volunteer** reality — prefer **dated primaries** when citing policy changes.
 
-**Last updated:** 2026-05-26 (**§4.1** expanded — Marinelli affair, insider “fallout started here,” industry weak-point/sexual leverage pattern; **§10** cross-link); **2026-05-18** (**§9**; FoM digest).
+**Last updated:** 2026-05-26 (**§3.1** timeline TL;DR ↔ silver platter; **§4.1** Marinelli affair lane; **§10** author conclusion); **2026-05-18** (**§9**; FoM digest).
