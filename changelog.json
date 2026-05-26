@@ -1,8 +1,63 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-26T12:48:46.309Z",
+    "date": "2026-05-26T13:41:21.014Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack.md",
+        "href": "/blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/magfest-community-governance-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/magfest-community-governance-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
+        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.png",
+        "alt": "The Real Ghostbusters — ethereal noise, proton-pack kitsch, and the counter-program beneath the comedy"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/viruses-were-never-found-only-aetheric-disease.png",
+        "alt": "Viruses were never found in the lab — ætheric disease, fingerprint not genome pathogen"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png",
+        "alt": "When your child won’t fit the grade — schooling, conformity, and parent advice"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
+        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
+        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
+        "alt": "Iran 2026 war runner — Hormuz and strike map (investigation)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.png",
+        "alt": "Ship-shaped airships — Clonmacnoise to Pugachev, Category A vs B"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/00.overview/prisca_sapientia.png",
+        "alt": "Prisca sapientia — ancient wisdom as epistemic foundation (timeline)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-26T12:48:45.000Z",
+    "message": "May late roundup blog, timeline cross-links, and Exodus 2 host move.",
     "files": [
       {
         "status": "A",
@@ -1168,93 +1223,6 @@
       {
         "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
         "alt": "Roytas 2024 — Can You Catch a Cold? (footnote 8 hunt)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-23T12:50:40.000Z",
-    "message": "Add ship-shaped airships investigation and cross-link Napoleon invincibility thesis.",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
-        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md",
-        "href": "/governance/war/investigations/napoleonic-advanced-artillery-airship-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/page.md",
-        "href": "/governance/war/investigations"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md",
-        "href": "/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
-        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
-        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/ship-shaped-airships-tataria-lift-technology.md",
-        "href": "/history/chronology/ship-shaped-airships-tataria-lift-technology"
-      },
-      {
-        "status": "M",
-        "path": "influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md",
-        "href": "/influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation"
-      },
-      {
-        "status": "M",
-        "path": "page.md",
-        "href": "/page"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
-        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
-        "alt": "Roytas 2024 — Can You Catch a Cold? (footnote 8 hunt)"
-      },
-      {
-        "src": "/influence/conspiracy/embedding.jpg",
-        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
-      },
-      {
-        "src": "/influence/conspiracy/scientific_truth.jpg",
-        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
-        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
-      },
-      {
-        "src": "/cosmos/mars/mars_life.jpg",
-        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
-      },
-      {
-        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
-        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
       }
     ]
   }
