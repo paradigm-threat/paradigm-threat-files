@@ -1,8 +1,36 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-26T11:51:01.496Z",
+    "date": "2026-05-26T12:43:51.253Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/investigations/magfest-community-governance-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/magfest-community-governance-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-26T11:50:55.000Z",
+    "message": "Add NSA investigation with Tron theory and cross-link corpus.",
     "files": [
       {
         "status": "M",
@@ -1080,33 +1108,6 @@
       {
         "src": "/science/health/investigations/napoleon-plague-murad-bay-screenshot.png",
         "alt": "Napoleon plague Murad Bay screenshot — book page under investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-23T12:16:30.000Z",
-    "message": "Tighten Napoleon corpses essay: cut redundancy and LLM phrasing.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
-        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
-        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
-        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
-        "alt": "Roytas 2024 — Can You Catch a Cold? on Anna’s Archive (book hunt for footnote 8)"
       }
     ]
   }

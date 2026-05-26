@@ -108,6 +108,7 @@ Public-facing forum taxonomy presents **The Shizz** as ** bulletin-board institu
 | **Charity/money halo sedating scrutiny** | [SDA §4](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) — **The Shizz lane here is smaller-scale** unless donor flows surface |
 | **Author privatizes canon / governance after communal era** | [Homestuck §3](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) |
 | **Contributor asymmetry + merch rails early** | [Homestuck §3.1](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) (**Bandcamp** cadence note) — **rhyme shape only** for fan scenes monetizing adjacent culture |
+| **Hotel con grows into nonprofit spectacle; staff/board rupture** | [MAGFest investigation](/influence/controlled_opposition/investigations/magfest-community-governance-investigation.md) — **Friends of MAG** **2020–2021**; **GDQ** fork **2010** |
 
 **Contrast discipline:** OCR ships **explicit submission licensing** and **entity stack** documentation (see OCR file **§2**). **The Shizz org chart** on par with that **was not** surfaced in this pass — **do not equate**.
 
