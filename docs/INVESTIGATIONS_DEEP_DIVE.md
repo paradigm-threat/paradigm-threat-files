@@ -44,7 +44,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: British Empire Divide-and-Conquer — Israel, India/Pakistan, Africa, and the Deep State Hypothesis](/governance/war/investigations/british-divide-conquer-israel-investigation.md)
 - [Investigation: *Call of Duty: Modern Warfare* — Original Trilogy vs. Soft Reboot, Militainment, Iran–Russia Framing, and Cross-Media Operator Archetypes](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md)
 - [Investigation: CIA — OSS Rebrand, Nazi Gold, Iran, 9/11, and the Antibody Thesis](/governance/war/investigations/cia-investigation.md)
-- [Investigation: NSA — SIGINT Antibody, Tonkin Reckoning, and the Tron Theory](/governance/war/investigations/nsa-investigation.md)
+- [Investigation: NSA — SIGINT Antibody, Tonkin Reckoning, and the Tron Theory](/governance/war/investigations/nsa-investigation.md) — timeline: [CIA vs NSA / *Tron* (1952–1982)](/timeline/evt-cia-vs-nsa-sigint-antibody-tron), [1979 religious revival](/timeline/evt-1979-religious-revival-holy-war-geometry)
 - [Investigation: Ted Cruz, Kevin Malone (*The Office*), and the “Hijacked Plan” Hypothesis](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md)
 - [Investigation: Dubious “Stand Down” Orders — Benghazi (2012), Libya’s Breakup, and Pattern Echoes](/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md)
 - [Investigation: French Revolution — Societized Consolidation and Political Reorganization](/governance/war/investigations/french-revolution-investigation.md)

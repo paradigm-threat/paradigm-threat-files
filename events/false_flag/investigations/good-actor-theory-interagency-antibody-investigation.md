@@ -21,9 +21,9 @@ Operations—not only individuals—can be antibodies. If the good-actor thesis 
 ### The eighty-year arc
 
 1. **1945–1947:** WWII plan to destroy Russia fails; script **rebrands** into slow-burn **WW3** (existential crisis for ~70–80 years). OSS → CIA (1947); Nazi assets (SAFEHAVEN, Paperclip); British/MI6 continuity.
-2. **1950s–1979:** Iran pipeline—Ajax, Shah, Atoms for Peace, nuclear infrastructure → engineered **Ayatollah** takeover; **1979 religious revival** (Iran, Mecca, Moral Majority, Poland) as synchronized holy-war geometry.
-3. **1952:** **NSA** established (Truman, NSCID 9)—SIGINT vs CIA HUMINT; doctrinal separation read here as **antibody architecture** (speculative). **1980s pivot / *Tron* allegory:** [NSA investigation § IV](/governance/war/investigations/nsa-investigation.md).
-4. **1964 / 1971 / 2001–2005:** Gulf of Tonkin template (NSA-skewed SIGINT → war); **Ellsberg** (1971) as document antibody; **Robert Hanyok** (NSA historian, 2001 classified study → **2005 declassification fight**) as **institutional NSA antibody** — see § II.I.
+2. **1950s–1979:** Iran pipeline—Ajax, Shah, Atoms for Peace, nuclear infrastructure → engineered **Ayatollah** takeover; **1979 religious revival** (Iran, Mecca, Moral Majority, Poland) as synchronized holy-war geometry — [timeline: 1979 revival](/timeline/evt-1979-religious-revival-holy-war-geometry).
+3. **1952–1982:** **NSA** established (Truman, NSCID 9)—SIGINT vs CIA HUMINT; MINARET/Church, Tonkin/Hanyok, **1980s pivot / *Tron* (1982)** — [timeline: CIA vs NSA](/timeline/evt-cia-vs-nsa-sigint-antibody-tron); [NSA investigation § IV](/governance/war/investigations/nsa-investigation.md).
+4. **1964 / 1971 / 2001–2005:** Gulf of Tonkin template (NSA-skewed SIGINT → war); **Ellsberg** (1971) as document antibody; **Robert Hanyok** (NSA historian, 2001 classified study → **2005 declassification fight**) as **institutional NSA antibody** — see § II.I; [timeline: CIA vs NSA](/timeline/evt-cia-vs-nsa-sigint-antibody-tron).
 5. **2001:** Good actors execute **one slice** of the terrorism script **early**—public **War on Terror** vs covert holy war; **WTC 7** decapitates CIA domestic station.
 6. **2001–present:** CIA plans "stomped out" via new War-on-Terror agencies; post-9/11 crises traced to CIA-linked narrative capture; **Reverse Crusade IV** (Ukraine) as latest nation-masked agency war.
 
@@ -143,7 +143,7 @@ On this map, the cleanest **operative** question for post-9/11 franchises is not
 - **Ellsberg** as antibody archetype; **Robert Hanyok** (NSA historian, Tonkin SIGINT audit 2001 → declassification fight 2002–2005) as **institutional NSA antibody** — see [good-actor investigation § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md)
 - 9/11 as **early trigger** to disconnect CIA from long-term plans
 
-**Timeline article:** [`14.12.03-1947-ce-central-intelligence-agency-oss-rebrand.md`](/timeline/evt-1947-ce-central-intelligence-agency-oss-rebrand)
+**Timeline articles:** [CIA 1947](/timeline/evt-1947-ce-central-intelligence-agency-oss-rebrand) · [CIA vs NSA / *Tron* (1952–1982)](/timeline/evt-cia-vs-nsa-sigint-antibody-tron) · [1979 religious revival](/timeline/evt-1979-religious-revival-holy-war-geometry)
 
 ### C. False-flag architecture (chapter + appendix)
 
@@ -199,6 +199,8 @@ On this map, the cleanest **operative** question for post-9/11 franchises is not
 **File:** [`INVESTIGATIONS_DEEP_DIVE.md`](/docs/INVESTIGATIONS_DEEP_DIVE.md) — lists 09-11 and CIA investigations as validated corpus entries.
 
 ### I. Robert Hanyok / NSA — landmark antibody act (Gulf of Tonkin, 2001–2005)
+
+**Timeline:** [CIA vs NSA: SIGINT Antibody, Tonkin, and *Tron* (1952–1982)](/timeline/evt-cia-vs-nsa-sigint-antibody-tron)
 
 **This is one of the most important documented NSA acts in the interagency-war frame** — not a footnote beside Ellsberg, but a **second front** on the same casus belli: SIGINT truth pushed from **inside** the agency that had been used to sell the war.
 

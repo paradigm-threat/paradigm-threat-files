@@ -1,6 +1,9 @@
 # Investigation: The 1979 Religious Revival — CIA Backing and Global Phenomenon
 
 > **TL;DR:** Investigation: The 1979 Religious Revival — CIA Backing and Global Phenomenon: 1979 was a watershed year for global religious revival, characterised by the Islamic Revolution in Iran, the Grand Mosque siege in Mecca, the founding of the Moral Majority in the U.S., and Pope John Paul II's transformative pilgrimage to Poland.
+
+**Timeline chapter:** [1979: Religious Revival and Holy-War Geometry](/timeline/evt-1979-religious-revival-holy-war-geometry) · Bridge to NSA/SIGINT response: [CIA vs NSA (1952–1982)](/timeline/evt-cia-vs-nsa-sigint-antibody-tron)
+
 ## Thesis
 
 1979 was a watershed year for global religious revival, characterised by the Islamic Revolution in Iran, the Grand Mosque siege in Mecca, the founding of the Moral Majority in the U.S., and Pope John Paul II's transformative pilgrimage to Poland. This investigation examines the hypothesis that the CIA and allied intelligence services were largely behind the worldwide phenomenon — through direct support for the ayatollah revolution, propaganda funding, and possibly through the synchronisation or exploitation of events that pushed Iran, Saudi Arabia, Pakistan, and the West toward fundamentalism. A secondary thread: the use of invisible or low-frequency technology in religious settings to simulate euphoria, divine presence, or altered states — claims that require source verification.
@@ -161,7 +164,7 @@ Across its history, CIA behaviour appears consistently oriented toward **routing
 - [ ] Cross-reference with Havana Syndrome / DEW investigation — same physics, different application?
 - [ ] Map CIA religion-related operations across decades (Vatican, mujahideen, Iran, Moral Majority, etc.)
 - [ ] Assess evidence for/against Iranian weaponised program; regime's incentives for denial vs. concealment
-- [ ] Add to timeline if findings warrant
+- [x] Timeline chapter: [1979: Religious Revival and Holy-War Geometry](/timeline/evt-1979-religious-revival-holy-war-geometry)
 
 ---
 

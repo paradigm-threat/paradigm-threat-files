@@ -1,8 +1,191 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-26T12:43:51.253Z",
+    "date": "2026-05-26T12:48:46.309Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack.md",
+        "href": "/blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack"
+      },
+      {
+        "status": "M",
+        "path": "docs/BLOG.md",
+        "href": "/docs/BLOG"
+      },
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md",
+        "href": "/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cia-investigation.md",
+        "href": "/governance/war/investigations/cia-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/nsa-investigation.md",
+        "href": "/governance/war/investigations/nsa-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/success-by-any-means-necessary.md",
+        "href": "/influence/controlled_opposition/success-by-any-means-necessary"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/ghost-war-the-antibody-phase.md",
+        "href": "/influence/hollywood/ghost-war-the-antibody-phase"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/page.md",
+        "href": "/influence/predictive_programming"
+      },
+      {
+        "status": "M",
+        "path": "influence/religion/1979-religious-revival-investigation.md",
+        "href": "/influence/religion/1979-religious-revival-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
+        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.png",
+        "alt": "The Real Ghostbusters — ethereal noise, proton-pack kitsch, and the counter-program beneath the comedy"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/viruses-were-never-found-only-aetheric-disease.png",
+        "alt": "Viruses were never found in the lab — ætheric disease, fingerprint not genome pathogen"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png",
+        "alt": "When your child won’t fit the grade — schooling, conformity, and parent advice"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
+        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
+        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
+        "alt": "Iran 2026 war runner — Hormuz and strike map (investigation)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.png",
+        "alt": "Ship-shaped airships — Clonmacnoise to Pugachev, Category A vs B"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/00.overview/prisca_sapientia.png",
+        "alt": "Prisca sapientia — ancient wisdom as epistemic foundation (timeline)"
+      },
+      {
+        "src": "https://paradigmthreat2.substack.com/)",
+        "alt": "`).\n- **Corpus reuse:** when a blog bullet covers a topic that already has investigation or timeline art, **link the canonical PNG** from its home directory rather than copying files into `blog/`.\n- **Placement:** one image **after** the paragraph that introduces the cluster (thematic H3), or inline beside the **most important** item in that cluster—not a gallery on every bullet.\n- **Alt text:** name the **lane** and what the reader should see (e.g. “Ghost War — Krasinski miscast / antibody containment,” “Napoleon corpses — two camps of medicine”).\n- **Substack posts:** when listing a Substack mirror, note the on-site hero URL if the article has one—readers on paradigmthreat.net and Substack should see the same lead art.\n\n**Search for assets:** `grep -r '!\\[' influence/ science/ history/ governance/ cosmos/ --include '*.md'` on changed paths since the cutoff; timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`.\n\n## Adding new blog entries\n\nCreate new posts in `blog/` with the naming convention `YYYY-MM-DD-slug.md`. Run `npm run generate-index` (or the pre-commit hook will run it) to include the new file in `index.json`.\n\n**`index.json` `_updated` for blog:** For files matching `blog/YYYY-MM-DD-*.md`, `scripts/generate-index.py` sets `_updated` to that calendar date at **12:00 UTC** (not filesystem mtime), so the site blog list (`AutoIndex` with `format=\"blog\"`) shows the correct day per post after checkouts or bulk regen. Files like `blog/page.md` still use mtime.\n\n### Substack published articles (required before drafting)\n\n**Always** check [Paradigm Threat on Substack"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary.png",
+        "alt": "Success — by any means necessary — paying audience, black-box pipeline, NDAs, and leader accountability"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary-info.png",
+        "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — militainment investigation (Office / Krasinski operator arc)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png",
+        "alt": "Benghazi stand-down orders — Krasinski / *13 Hours* investigation header"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
+        "alt": "9/11 predictive programming — media rehearsal before the public event (PP corpus)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.png",
+        "alt": "Trump-era Hollywood — predictive programming scorecard investigation (2016–2026)"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.png",
+        "alt": "Netanyahu — faked death / Shiva rumors investigation (Iran flank, March 2026 window)"
+      },
+      {
+        "src": "/influence/predictive_programming/predictive_programming.png",
+        "alt": "Predictive Programming"
+      },
+      {
+        "src": "/influence/predictive_programming/comics.jpg",
+        "alt": "9/11 predictive programming in comics"
+      },
+      {
+        "src": "/influence/predictive_programming/doom.jpg",
+        "alt": "Doom — quantum teleport between Earth and Mars"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_women.jpg",
+        "alt": "Mars Needs Women — breeding programme theme"
+      },
+      {
+        "src": "/influence/predictive_programming/stargate.jpg",
+        "alt": "Stargate — pyramid as portal"
+      },
+      {
+        "src": "/influence/predictive_programming/wotw.jpg",
+        "alt": "War of the Worlds — heat ray, red weed, Mars inversion"
+      },
+      {
+        "src": "/influence/predictive_programming/simpsons_space_laser.jpg",
+        "alt": "The Simpsons — 9/11 imagery"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_movies.jpg",
+        "alt": "Mars movies"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin.jpg",
+        "alt": "Marvin the Martian"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin2.jpg",
+        "alt": "Marvin the Martian (2)"
+      },
+      {
+        "src": "/influence/predictive_programming/megaman.jpg",
+        "alt": "Mega Man"
+      },
+      {
+        "src": "/influence/predictive_programming/nazis_hollow_earth.jpg",
+        "alt": "Nazis in Hollow Earth"
+      },
+      {
+        "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
+        "alt": "Fire on the Mountain"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-26T12:43:49.000Z",
+    "message": "Add MAGFest investigation with pro-corporate trend evidence table.",
     "files": [
       {
         "status": "A",
@@ -1072,42 +1255,6 @@
       {
         "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
         "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-23T12:33:32.000Z",
-    "message": "Refocus Napoleon essay on two medical camps and felt invincibility.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
-        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
-        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
-      },
-      {
-        "status": "M",
-        "path": "science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md",
-        "href": "/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
-        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
-        "alt": "Roytas 2024 — Can You Catch a Cold? (footnote 8 hunt)"
-      },
-      {
-        "src": "/science/health/investigations/napoleon-plague-murad-bay-screenshot.png",
-        "alt": "Napoleon plague Murad Bay screenshot — book page under investigation"
       }
     ]
   }

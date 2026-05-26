@@ -5,6 +5,8 @@
 **Date:** 2026-05-26  
 **Status:** Ongoing — institutional history + author interpretive frame
 
+**Timeline chapters:** [CIA vs NSA: SIGINT Antibody, Tonkin, and *Tron* (1952–1982)](/timeline/evt-cia-vs-nsa-sigint-antibody-tron) · [1979: Religious Revival and Holy-War Geometry](/timeline/evt-1979-religious-revival-holy-war-geometry)
+
 **Companion:** [CIA investigation — antibody thesis](/governance/war/investigations/cia-investigation.md) § III; [good-actor investigation — Hanyok § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md); [1979 religious revival — holy-war geometry](/influence/religion/1979-religious-revival-investigation.md)
 
 ---

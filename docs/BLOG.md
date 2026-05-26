@@ -19,11 +19,41 @@ This ensures links work when blog posts are viewed in GitHub, RSS, or any contex
 
 **Site path map (files repo at URL root):** See [`docs/LINKING_AND_SITE_PATHS.md`](LINKING_AND_SITE_PATHS.md) — how `paradigmthreat.net` serves this repository and when to use root-relative vs absolute URLs outside `blog/`.
 
+### Images in blog posts
+
+Blog roundups should **illustrate** major lanes—not only link to them. Embed **`https://paradigmthreat.net/...`** images the same way articles do:
+
+- **Hero or lead art** for each major new essay or investigation when one exists (grep the article’s `#` block and first `##` sections for `![`).
+- **Corpus reuse:** when a blog bullet covers a topic that already has investigation or timeline art, **link the canonical PNG** from its home directory rather than copying files into `blog/`.
+- **Placement:** one image **after** the paragraph that introduces the cluster (thematic H3), or inline beside the **most important** item in that cluster—not a gallery on every bullet.
+- **Alt text:** name the **lane** and what the reader should see (e.g. “Ghost War — Krasinski miscast / antibody containment,” “Napoleon corpses — two camps of medicine”).
+- **Substack posts:** when listing a Substack mirror, note the on-site hero URL if the article has one—readers on paradigmthreat.net and Substack should see the same lead art.
+
+**Search for assets:** `grep -r '!\[' influence/ science/ history/ governance/ cosmos/ --include '*.md'` on changed paths since the cutoff; timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`.
+
 ## Adding new blog entries
 
 Create new posts in `blog/` with the naming convention `YYYY-MM-DD-slug.md`. Run `npm run generate-index` (or the pre-commit hook will run it) to include the new file in `index.json`.
 
 **`index.json` `_updated` for blog:** For files matching `blog/YYYY-MM-DD-*.md`, `scripts/generate-index.py` sets `_updated` to that calendar date at **12:00 UTC** (not filesystem mtime), so the site blog list (`AutoIndex` with `format="blog"`) shows the correct day per post after checkouts or bulk regen. Files like `blog/page.md` still use mtime.
+
+### Substack published articles (required before drafting)
+
+**Always** check [Paradigm Threat on Substack](https://paradigmthreat2.substack.com/) for posts **published since the previous dated blog entry** (same cutoff as git: day after the prior `blog/YYYY-MM-DD-*.md` filename).
+
+1. **Fetch the RSS feed** (works in CI and locally):
+   ```bash
+   curl -sL "https://paradigmthreat2.substack.com/feed" -o /tmp/substack-feed.xml
+   ```
+2. **List items after the cutoff** — parse `pubDate` on each `<item>`; include every post whose calendar date is **after** `PREV` (the previous blog filename date).
+3. **In the draft**, add a **Substack published** subsection (under the opening summary or as its own H2) listing **each** post with:
+   - **Title** linked to the Substack URL (`https://paradigmthreat2.substack.com/p/...`)
+   - **Publication date**
+   - **One to three sentences** of context: thesis, on-site mirror URL (`https://paradigmthreat.net/...`), companion investigation if any
+   - **Hero image** (`https://paradigmthreat.net/...`) when the mirrored article has lead art
+4. **Cross-check git** — every Substack flagship should map to a files-repo article (or note if Substack-only / external, e.g. snesology.net satire). If git landed an article **before** Substack went live, mention both dates when they differ.
+
+Do **not** skip Substack because git already lists the markdown path—the newsletter is the reader-facing publish event many subscribers saw first.
 
 ### Git history (required before drafting)
 
@@ -75,7 +105,8 @@ Create new posts in `blog/` with the naming convention `YYYY-MM-DD-slug.md`. Run
 **Closing (optional but encouraged for busy windows):**
 
 - **Reading order** — numbered paths through clusters (essay → dossier, or moratorium → captured-courts thread) when more than one narrative lane landed.
-- **Publication notes** — doc/workflow changes, Substack mirror, index/changelog passes, if not already covered.
+- **Substack published** — full list since prior blog (see **Substack published articles** above); do not collapse six posts into “several newsletters.”
+- **Publication notes** — doc/workflow changes, Substack mirror sync, index/changelog passes, if not already covered.
 
 **Do not pad** with generic project mission text; length should come from **coverage and context**, not repetition.
 
