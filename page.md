@@ -320,8 +320,9 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 
 ## Podcast Appearances
 
-**28** aired guest spots (plus **1** recorded, not released — Reality Czars #4). Full maintainer list: [docs/PODCAST_APPEARANCES.md](/docs/PODCAST_APPEARANCES.md). Sorted by air date, newest first.
+**29** aired guest spots (plus **1** recorded, not released — Reality Czars #4). Full maintainer list: [docs/PODCAST_APPEARANCES.md](/docs/PODCAST_APPEARANCES.md). Sorted by air date, newest first.
 
+* **2026-05-27** — [Bizarre Encounters #144: Secrets of the US Government](https://youtu.be/8QqVCXgQjbU)
 * **2026-04-16** — [Tin Foil Hat #982: Were The Planets The Old Gods](https://samtripoli.com/tfh-982-were-the-planets-the-old-gods-with-ari-asulin/)
 * **2026-03-18** — [My Family Thinks I'm Crazy Ep 582: The Third Story, Altered Timelines…](https://podcasts.apple.com/gb/podcast/ari-asulin-the-third-story-altered-timelines-covert/id1540529469?i=1000755952032)
 * **2026-03-18** — [Bizarre Encounters #138: The New Chronology Timeline](https://youtu.be/o-2mkAilf6U)

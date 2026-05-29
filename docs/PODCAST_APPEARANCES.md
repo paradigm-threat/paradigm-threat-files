@@ -2,7 +2,7 @@
 
 Maintainer source of truth for guest spots on other shows. The public-facing summary lives on [site front page — Podcast Appearances](/page.md#podcast-appearances).
 
-**Counts (bump when adding rows):** **28** aired · **1** recorded, not aired · **29** total catalogued
+**Counts (bump when adding rows):** **29** aired · **1** recorded, not aired · **30** total catalogued
 
 **Last full audit:** 2026-05-24 (RSS: Spreaker IoR + Typical Skeptic, RedCircle Deep Share / MFTIC, Apple/Substack where available). Former “unverified” trio **verified by maintainer** (May 2026); air dates are maintainer recall until primary publish dates are recovered.
 
@@ -18,6 +18,7 @@ Maintainer source of truth for guest spots on other shows. The public-facing sum
 
 | Date | Show | Episode | Link | Notes |
 |------|------|---------|------|-------|
+| 2026-05-27 | Bizarre Encounters with Shayn & Orin | #144 — *Secrets of the US Government* | [Spreaker](https://www.spreaker.com/episode/144-secrets-of-the-us-government-with-ari-asulin--72151551) · [YouTube](https://youtu.be/8QqVCXgQjbU) | Return guest; UFO experience, gov cover-ups, CIA 1984 Mars RV, æther noise floor, predictive programming |
 | 2026-04-16 | Tin Foil Hat | #982 — *Were The Planets The Old Gods With Ari Asulin* | [samtripoli.com](https://samtripoli.com/tfh-982-were-the-planets-the-old-gods-with-ari-asulin/) · [Apple](https://podcasts.apple.com/us/podcast/982-were-the-planets-the-old-gods-with-ari-asulin/id577245086?i=1000761577829) | Second TFH appearance |
 | 2026-03-18 | My Family Thinks I'm Crazy | Ep 582 — *The Third Story, Altered Timelines, Covert Communism, and The True Martians!* | [Apple](https://podcasts.apple.com/gb/podcast/ari-asulin-the-third-story-altered-timelines-covert/id1540529469?i=1000755952032) · [Substack](https://myfamilythinksimcrazy.substack.com/p/ari-asulin-the-third-story-altered) | Return guest |
 | 2026-03-18 | Bizarre Encounters with Shayn & Orin | #138 — *The New Chronology Timeline* | [Spotify](https://open.spotify.com/episode/3i70Bi45Si0UQXUntsdXJL) · [YouTube](https://youtu.be/o-2mkAilf6U) | Shayn Jones network |

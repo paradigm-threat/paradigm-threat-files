@@ -314,12 +314,13 @@ Borrowing the working model from [OC ReMix investigation **§6.2**](https://para
 
 ### 10.3 Universality claim — pattern provable, mechanism not
 
-> **Author (R):** I have **not** found a **scaled** community that **escaped** silver-platter consolidation — only **degrees** and **delays**. **MAGFest**, **OC ReMix**, ***Homestuck***, **SDA/GDQ**, **[The Shizz](https://paradigmthreat.net/influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation.md)** (forum substrate), and **con-industry norms** in **§9.3** are **one tracing project**. **Industry influence** and **divide-and-conquer** are **the default finish**, not the exception.
+> **Author (R):** I have **not** found a **scaled** community that **escaped** silver-platter consolidation — only **degrees** and **delays**. **MAGFest**, **OC ReMix**, ***Homestuck***, **SDA/GDQ**, **[The Shizz](https://paradigmthreat.net/influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation.md)** (forum substrate), **con-industry norms** in **§9.3**, and **hyperlocal** **cases** (**May 2026** — **Gordonston** neighborhood **Facebook**, **Hollywood** **location** **shoot**; **[OCR §6.2.1](https://paradigmthreat.net/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md)**) are **one tracing project**. **Industry influence** and **divide-and-conquer** are **the default finish**, not the exception.
 
 | What I treat as **demonstrable** (pattern recurrence) | What I **do not** claim is **proven** per case |
 |------------------------------------------------------|-----------------------------------------------|
 | **Commons → incorporation → key-holders** | A **named** external agent **signed** the **FoM** firings |
 | **Polarization** after scale (**FoM**, OCR **65360**, GDQ **trust fights**, *Homestuck* **canon** wars) | **W-2** “temperature” staff on every board |
+| **Hyperlocal** **“no politics”** **ban** **mid-reply** **on** **Hollywood** **street** **complaint** (**Gordonston** **Facebook**, **May 2026** — **§6.2.1** **sibling**) | **Proof** **neighborhood** **mods** **take** **studio** **money** |
 | **Charity / nonprofit halo** while **governance** rots (**magFAST** / **Child’s Play** parallel to **FoM** season) | Universal **malice** or **conspiracy** without documents |
 | **No counterexample yet** in author search ([OCR **§6.2**](https://paradigmthreat.net/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) — **living search**, not theorem) | That **structural** capture **cannot** mimic paid guard dogs |
 
@@ -351,4 +352,4 @@ The author’s **forward** rejection of silver-platter service — member-rights
 
 **Not** legal advice. **Not** employment-law findings on **2020** terminations. **Marinelli** personal-conduct claims remain **unverified (?)** unless **§4.1** hooks produce primaries. **Friends of MAG** and **MAGFest leadership** each had **incentives** during **2020–2021** — read **both** sides. **§10** states the author’s **silver platter** conclusion (**industry influence** + **divide-and-conquer** as **default pattern**); **mechanism** (**paid agents** vs **structural capture**) is **not** adjudicated here. **Wikipedia** and **official** pages can lag **volunteer** reality — prefer **dated primaries** when citing policy changes.
 
-**Last updated:** 2026-05-26 (**§3.1** timeline TL;DR ↔ silver platter; **§4.1** Marinelli affair lane; **§10** author conclusion); **2026-05-18** (**§9**; FoM digest).
+**Last updated:** 2026-05-28 (**§10.3** Gordonston / Hollywood location-shoot ban-before-reply cross-ref → OCR **§6.2.1**); **2026-05-26** (**§3.1** timeline TL;DR ↔ silver platter; **§4.1** Marinelli affair lane; **§10** author conclusion); **2026-05-18** (**§9**; FoM digest).

@@ -110,6 +110,8 @@ I hold those leaders responsible for every member who did not fare well—includ
 
 I believe one reason I was never allowed to lead in those lanes is that I would have run them under this rule set—and that rule set breaks the business model that depends on throwing people away.
 
+**May 2026 — neighborhood scale:** The same geometry showed up on **Gordonston**’s **Facebook** group when I complained about a **Hollywood** **location** **shoot** (**taxpayer** **police** **support**, **no** **local** **jobs**, **traveling** **crew**) and started to **reply** to a neighbor who minimized it with *not a government takeover* — **a** **frame** **I** **never** **used** **in** **the** **OP** **(**admin-bait** **rhyme** **with** **§6.1** **)**. **Admins** **banned** **me** **before** **I** **could** **send** **the** **reply** — **mid-thread**, **no** **quoted** **rule**, **appeals** **ignored**, **spirit** **of** **“no** **politics”** **on** **a** **movies-on-our-block** **complaint**. I run **[gordonstonartfair.com](https://gordonstonartfair.com)**; I document the beat under [**OC ReMix §6.2.1**](https://paradigmthreat.net/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) as **silver-platter** **industry** **influence** **without** **a** **national** **forum** **brand**.
+
 ---
 
 ## The fork that still exists

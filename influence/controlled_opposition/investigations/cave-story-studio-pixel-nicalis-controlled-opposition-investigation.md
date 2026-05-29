@@ -139,7 +139,7 @@ These items are widely cited in public sources and serve as shared reality ancho
 
 | Sibling investigation | Rhyme with this lane |
 |-----------------------|----------------------|
-| [OC ReMix — polarization & privatization](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) | Fan labor → LLC / publisher routing; §7.5 engine fork / legal chill language. |
+| [OC ReMix — polarization & privatization](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) | Fan labor → LLC / publisher routing; §7.5 engine fork / legal chill language; **§6.2.1** — **May 2026** Gordonston **Facebook** / **Hollywood** **street** **shoot**, **ban** **before** **reply** (**silver** **platter** **at** **hyperlocal** **scale**). |
 | [*Homestuck* — CO & privatization](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) | §5.3 — DMCA stress; divide-and-sort pipelines; IP enclosure. |
 | [SDA × GDQ × MSF](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) | Community institution → branded LLC / opaque money routing — weaker direct rhyme, same temperature. |
 | [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) | NDA, black-box economics, leader distance from harm. |
