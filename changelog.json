@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-30T11:50:32.606Z",
+    "date": "2026-05-30T12:07:25.548Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
+        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
+        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-30T11:50:31.000Z",
+    "message": "fix(get hook): drop @relay/ipfs until atlanta2 gateway ships module",
     "files": [
       {
         "status": "M",
@@ -1284,18 +1306,5 @@
         "alt": "Red Mercury — Max Barclay, 1996 (cover)"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-23T14:08:04.000Z",
-    "message": "Fix Barclay investigation: local INDEX path not file URL.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/nukes/investigations/red-mercury-barclay-1996-novel-investigation.md",
-        "href": "/science/nukes/investigations/red-mercury-barclay-1996-novel-investigation"
-      }
-    ],
-    "images": []
   }
 ]
