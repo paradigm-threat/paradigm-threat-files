@@ -37,20 +37,19 @@ SOURCE = CO_DIR / "make-gordonston-great-again-onepager.source.md"
 HERO = CO_DIR / "make-gordonston-great-again.png"
 OUT_PDF = CO_DIR / "make-gordonston-great-again-onepager.pdf"
 
-MARGIN = 0.4
+MARGIN = 0.35
 PAGE_W = 8.5
 PAGE_H = 11.0
 CONTENT_W = PAGE_W - 2 * MARGIN
-FOOTER_H = 1.05
-FOOTER_TOP = PAGE_H - MARGIN - FOOTER_H
-HERO_MAX_H = 1.45
-COL_GAP = 0.18
+BOTTOM = PAGE_H - MARGIN
+FOOTER_H = 1.12
+FOOTER_TOP = BOTTOM - FOOTER_H
+COL_GAP = 0.2
 COL_W = (CONTENT_W - COL_GAP) / 2
 DPI = 150
 
 
 def ascii_safe(text: str) -> str:
-    """Helvetica core font is latin-1; normalize common Unicode punctuation."""
     return (
         text.replace("\u2014", " - ")
         .replace("\u2013", "-")
@@ -105,7 +104,6 @@ def split_bold_lead(text: str) -> tuple[str, str]:
 
 
 def prepare_hero(src: Path, max_w_in: float, max_h_in: float) -> tuple[Path, float, float]:
-    """Return (jpeg path, display width in, display height in) fitting inside box."""
     with Image.open(src) as im:
         im = im.convert("RGB")
         w_px, h_px = im.size
@@ -115,10 +113,8 @@ def prepare_hero(src: Path, max_w_in: float, max_h_in: float) -> tuple[Path, flo
         new_size = (max(1, int(w_px * scale)), max(1, int(h_px * scale)))
         im = im.resize(new_size, Image.Resampling.LANCZOS)
         tmp = tempfile.NamedTemporaryFile(suffix=".jpg", delete=False)
-        im.save(tmp.name, "JPEG", quality=88, optimize=True)
-        display_w = new_size[0] / DPI
-        display_h = new_size[1] / DPI
-        return Path(tmp.name), display_w, display_h
+        im.save(tmp.name, "JPEG", quality=90, optimize=True)
+        return Path(tmp.name), new_size[0] / DPI, new_size[1] / DPI
 
 
 def make_qr(url: str) -> Path:
@@ -147,58 +143,69 @@ def render(data: dict) -> None:
     y = MARGIN
 
     pdf.set_xy(MARGIN, y)
-    pdf.set_font("Helvetica", "B", 20)
-    pdf.cell(CONTENT_W, 0.28, "Make Gordonston Great Again", new_x=XPos.LMARGIN, new_y=YPos.NEXT, align="C")
+    pdf.set_font("Helvetica", "B", 22)
+    pdf.cell(CONTENT_W, 0.3, "Make Gordonston Great Again", new_x=XPos.LMARGIN, new_y=YPos.NEXT, align="C")
+    y = pdf.get_y() + 0.05
+
+    pdf.set_font("Helvetica", "I", 11)
+    pdf.set_xy(MARGIN, y)
+    pdf.cell(CONTENT_W, 0.17, data.get("subtitle", ""), new_x=XPos.LMARGIN, new_y=YPos.NEXT, align="C")
     y = pdf.get_y() + 0.04
 
-    pdf.set_font("Helvetica", "I", 10)
+    pdf.set_font("Helvetica", "", 9)
     pdf.set_xy(MARGIN, y)
-    pdf.cell(CONTENT_W, 0.16, data.get("subtitle", ""), new_x=XPos.LMARGIN, new_y=YPos.NEXT, align="C")
-    y = pdf.get_y() + 0.03
+    pdf.cell(CONTENT_W, 0.15, data.get("tagline", ""), new_x=XPos.LMARGIN, new_y=YPos.NEXT, align="C")
+    y = pdf.get_y() + 0.1
 
-    pdf.set_font("Helvetica", "", 8.5)
-    pdf.set_xy(MARGIN, y)
-    pdf.cell(CONTENT_W, 0.14, data.get("tagline", ""), new_x=XPos.LMARGIN, new_y=YPos.NEXT, align="C")
-    y = pdf.get_y() + 0.08
+    header_bottom = y
+    discovery_reserve = 0.42
+    col_top_min = header_bottom + 0.1
+    hero_max_h = FOOTER_TOP - discovery_reserve - col_top_min - 0.15
+    hero_max_h = min(hero_max_h, 2.55)
+    hero_max_h = max(hero_max_h, 1.8)
 
-    hero_jpg, hero_w, hero_h = prepare_hero(HERO, CONTENT_W, HERO_MAX_H)
+    hero_jpg, hero_w, hero_h = prepare_hero(HERO, CONTENT_W, hero_max_h)
     try:
         hero_x = MARGIN + (CONTENT_W - hero_w) / 2
         pdf.image(str(hero_jpg), x=hero_x, y=y, w=hero_w, h=hero_h)
-        y = y + hero_h + 0.12
+        y = y + hero_h + 0.14
     finally:
         hero_jpg.unlink(missing_ok=True)
 
+    col_start = y
+    col_avail = FOOTER_TOP - discovery_reserve - col_start - 0.12
+    n_bullets = max(len(data["problems"]), len(data["solutions"]), 1)
+    heading_h = 0.2
+    slot = (col_avail - heading_h) / n_bullets
+    line_h = min(0.155, max(0.12, slot / 2.4))
+    item_gap = max(0.04, slot - line_h * 2.4)
+
     def section_heading(title: str, x: float, y0: float) -> float:
         pdf.set_xy(x, y0)
-        pdf.set_font("Helvetica", "B", 10)
-        pdf.set_text_color(40, 60, 90)
-        pdf.cell(COL_W, 0.17, title, new_x=XPos.LMARGIN, new_y=YPos.NEXT)
+        pdf.set_font("Helvetica", "B", 11)
+        pdf.set_text_color(35, 55, 85)
+        pdf.cell(COL_W, heading_h, title, new_x=XPos.LMARGIN, new_y=YPos.NEXT)
         pdf.set_text_color(0, 0, 0)
-        return pdf.get_y() + 0.04
+        return pdf.get_y() + 0.06
 
     def bullets(items: list[str], x: float, y0: float, width: float) -> float:
         y_cur = y0
-        bullet_x = x + 0.1
-        text_x = x + 0.2
-        text_w = width - 0.22
-        line_h = 0.125
+        text_x = x + 0.18
+        text_w = width - 0.2
         for item in items:
-            if y_cur > FOOTER_TOP - 0.35:
-                break
             lead, rest = split_bold_lead(item)
             body = f"{lead} - {rest}" if lead and rest else (lead or item)
-            pdf.set_xy(bullet_x, y_cur)
-            pdf.set_font("Helvetica", "", 8)
-            pdf.cell(0.08, line_h, chr(149), new_x=XPos.RIGHT)
+            pdf.set_xy(x + 0.06, y_cur)
+            pdf.set_font("Helvetica", "B", 9)
+            pdf.cell(0.1, line_h, chr(149), new_x=XPos.RIGHT)
             pdf.set_xy(text_x, y_cur)
+            pdf.set_font("Helvetica", "", 9)
             pdf.multi_cell(text_w, line_h, body)
-            y_cur = pdf.get_y() + 0.03
+            y_cur = pdf.get_y() + item_gap
         return y_cur
 
     left_x = MARGIN
     right_x = MARGIN + COL_W + COL_GAP
-    col_start = y
 
     y_left = section_heading("WHAT IS BROKEN", left_x, col_start)
     y_left = bullets(data["problems"], left_x, y_left, COL_W)
@@ -206,46 +213,52 @@ def render(data: dict) -> None:
     y_right = section_heading("WHAT WE DO", right_x, col_start)
     y_right = bullets(data["solutions"], right_x, y_right, COL_W)
 
-    y = max(y_left, y_right) + 0.06
+    y_body = max(y_left, y_right)
+    disc_y = FOOTER_TOP - discovery_reserve
+    if y_body < disc_y - 0.05:
+        pdf.set_draw_color(210, 210, 210)
+        pdf.line(MARGIN, disc_y - 0.06, MARGIN + CONTENT_W, disc_y - 0.06)
 
-    if y < FOOTER_TOP - 0.28:
-        pdf.set_draw_color(200, 200, 200)
-        pdf.line(MARGIN, y, MARGIN + CONTENT_W, y)
-        y += 0.06
-        pdf.set_xy(MARGIN, y)
-        pdf.set_font("Helvetica", "I", 7.5)
-        disc = data.get("discovery", "").replace("**", "")
-        pdf.multi_cell(CONTENT_W, 0.12, disc)
-        y = pdf.get_y()
+    pdf.set_xy(MARGIN, disc_y)
+    pdf.set_font("Helvetica", "I", 8.5)
+    disc = data.get("discovery", "").replace("**", "")
+    pdf.multi_cell(CONTENT_W, 0.13, disc, align="C")
 
-    # Footer band (opaque white so nothing shows through)
-    pdf.set_fill_color(255, 255, 255)
-    pdf.rect(MARGIN, FOOTER_TOP - 0.04, CONTENT_W, FOOTER_H + 0.08, style="F")
-    pdf.set_draw_color(180, 180, 180)
-    pdf.line(MARGIN, FOOTER_TOP - 0.04, MARGIN + CONTENT_W, FOOTER_TOP - 0.04)
+    pdf.set_fill_color(248, 248, 248)
+    pdf.rect(MARGIN, FOOTER_TOP, CONTENT_W, FOOTER_H, style="F")
+    pdf.set_draw_color(160, 160, 160)
+    pdf.line(MARGIN, FOOTER_TOP, MARGIN + CONTENT_W, FOOTER_TOP)
 
-    qr_size = 0.8
+    qr_size = 0.92
     qr_path = make_qr(data["article_url"])
     try:
-        pdf.image(str(qr_path), x=PAGE_W - MARGIN - qr_size, y=FOOTER_TOP + 0.08, w=qr_size, h=qr_size)
+        pdf.image(
+            str(qr_path),
+            x=PAGE_W - MARGIN - qr_size - 0.05,
+            y=FOOTER_TOP + (FOOTER_H - qr_size) / 2,
+            w=qr_size,
+            h=qr_size,
+        )
     finally:
         qr_path.unlink(missing_ok=True)
 
-    pdf.set_xy(MARGIN, FOOTER_TOP + 0.06)
-    pdf.set_font("Helvetica", "B", 9.5)
+    text_w = CONTENT_W - qr_size - 0.25
+    fy = FOOTER_TOP + 0.12
+    pdf.set_xy(MARGIN + 0.08, fy)
+    pdf.set_font("Helvetica", "B", 10)
     label = data.get("email_label", "Volunteer or support the plan")
-    pdf.cell(CONTENT_W - qr_size - 0.15, 0.16, f"{label}:", new_x=XPos.LMARGIN, new_y=YPos.NEXT)
-    pdf.set_font("Helvetica", "", 11)
-    pdf.set_x(MARGIN)
-    pdf.cell(CONTENT_W - qr_size - 0.15, 0.18, data.get("email", ""), new_x=XPos.LMARGIN, new_y=YPos.NEXT)
+    pdf.cell(text_w, 0.17, f"{label}:", new_x=XPos.LMARGIN, new_y=YPos.NEXT)
+    pdf.set_font("Helvetica", "B", 12)
+    pdf.set_x(MARGIN + 0.08)
+    pdf.cell(text_w, 0.22, data.get("email", ""), new_x=XPos.LMARGIN, new_y=YPos.NEXT)
 
-    pdf.set_font("Helvetica", "B", 7.5)
-    pdf.set_x(MARGIN)
-    pdf.cell(CONTENT_W - qr_size - 0.15, 0.12, data.get("article_label", "Full article") + ":", new_x=XPos.LMARGIN, new_y=YPos.NEXT)
-    pdf.set_font("Helvetica", "", 6.2)
+    pdf.set_font("Helvetica", "B", 8)
+    pdf.set_x(MARGIN + 0.08)
+    pdf.cell(text_w, 0.14, data.get("article_label", "Full article") + ":", new_x=XPos.LMARGIN, new_y=YPos.NEXT)
+    pdf.set_font("Helvetica", "", 7)
     short = data.get("article_url", "").replace("https://", "")
-    pdf.set_x(MARGIN)
-    pdf.multi_cell(CONTENT_W - qr_size - 0.15, 0.1, short)
+    pdf.set_x(MARGIN + 0.08)
+    pdf.multi_cell(text_w, 0.11, short)
 
     pdf.output(str(OUT_PDF))
     print(f"Wrote {OUT_PDF} ({pdf.page_no()} page(s))")
