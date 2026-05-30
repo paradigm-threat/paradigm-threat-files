@@ -1,8 +1,59 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-30T12:49:49.887Z",
+    "date": "2026-05-30T13:18:27.738Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/make-gordonston-great-again-onepager.pdf",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again-onepager.pdf"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/make-gordonston-great-again-onepager.source.md",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again-onepager.source"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again"
+      },
+      {
+        "status": "M",
+        "path": "package.json",
+        "href": "/package.json"
+      },
+      {
+        "status": "A",
+        "path": "scripts/generate-mgga-onepager.py",
+        "href": "/scripts/generate-mgga-onepager.py"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
+        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
+        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-class.png",
+        "alt": "Make Gordonston Great Again — volunteer homework campus vision: children, volunteers, and study tools in the church education wing"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-30T12:49:48.000Z",
+    "message": "Add SBC-compatible religious-host rules for MGGA homework pilot.",
     "files": [
       {
         "status": "M",
@@ -1279,18 +1330,5 @@
         "alt": "Shrinking technology concept"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-23T14:31:07.000Z",
-    "message": "Red mercury: add 1995 press timeline and Jamestown amplifier.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/nukes/investigations/red-mercury-barclay-1996-novel-investigation.md",
-        "href": "/science/nukes/investigations/red-mercury-barclay-1996-novel-investigation"
-      }
-    ],
-    "images": []
   }
 ]

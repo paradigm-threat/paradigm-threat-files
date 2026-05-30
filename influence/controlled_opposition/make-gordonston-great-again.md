@@ -118,6 +118,7 @@ The homework campus, park-access protocol, and coalition steps in this article a
 
 ## Where next
 
+- [**One-page handout (PDF)**](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-onepager.pdf) — problems, solutions, contact **ari@asu.edu** (regenerate: `npm run generate-mgga-onepager`)
 - [**Gordonston park + church investigation**](https://paradigmthreat.net/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md) — **§2** geography (Shuman), history **§3–§7**, **2011** feud **§4**, volunteer vision **§8–§9** (incl. **§8.8** religious-host compatibility), backup **§10**
 - [**SCCPSS — Shuman Elementary closure hearing, 2025-06-04**](https://go.boarddocs.com/ga/sccs/Board.nsf/goto?id=DH5GUL458481&open=)
 - [**SCCPSS — CCRPI 2025 (mixed; below state in elementary/middle)**](https://www.sccpss.com/news/news-landing-page/~board/district-news/post/ccrpi-results-show-some-gains-and-declines-for-sccpss-schools)
@@ -141,7 +142,7 @@ The homework campus, park-access protocol, and coalition steps in this article a
 
 Keywords: #Gordonston #JulietteGordonLow #Savannah #Homeschooling #Neighborhood #ControlledOpposition #GirlScouts #Twickenham #ShumanElementary #SCCPSS
 
-**Last updated:** 2026-05-30T16:00:00-04:00
+**Last updated:** 2026-05-30T17:00:00-04:00
 
 ---
 

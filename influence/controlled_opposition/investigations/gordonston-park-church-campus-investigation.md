@@ -305,7 +305,7 @@ Neighborhood memory includes **fear** that religious buildings become **battlegr
 | Step | Action | Audience |
 |------|--------|----------|
 | **1** | **Volunteer interest survey** — how many can commit **which weekdays**, **backgrounds**, **child-age comfort** | Parents, retirees, homeschool networks, church members |
-| **2** | **Draft one-pager** + **session flow** + **§8.8** volunteer code (drop-off → intake → group lesson → break → park recess → pickup) | Internal |
+| **2** | **Draft / print one-pager** ([**PDF**](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-onepager.pdf)) + **session flow** + **§8.8** volunteer code (drop-off → intake → group lesson → break → park recess → pickup) | Internal |
 | **3** | **Presentation to Christ’s Community leadership** — facility use, insurance, calendar, **§8.8** secular-schoolwork covenant | Church board / pastor |
 | **4** | **Presentation to park trustees / GNA** — seasonal outdoor use, gate protocol, playground goal | Park trust, neighborhood association |
 | **5** | **Pilot announcement** — **Make Gordonston Great Again** outreach (flyers, Nextdoor, Art Fair table, Twickenham channels) | Gordonston + Twickenham + nearby |
@@ -480,4 +480,4 @@ Author/coalition proceeds with permitted programming either way
 
 **Not** legal advice on trust law, trespass, tax, **insurance**, assessor appeals, or **GNA** removal votes — **§8–§10** assume counsel review before action. **§8–§10** are **author vision/strategy (V)**, not church, GNA, or trustee policy. **§8.8** does **not** certify Christ’s Community’s SBC affiliation or theological stance — only states **author intent** for **secular homework** compatible with a **Baptist host**; church counsel should review volunteer codes and facility agreements. **Individual identities** from **R1** omitted here for **privacy**. **Make Gordonston Great Again** is a **working outreach name** — **non-partisan** by author intent; rename if confusion arises. **§10** backup may proceed **without** adopting **§8** homework model.
 
-**Last updated:** 2026-05-30 (**§8.8** religious-host compatibility; reader essay church-trust language).
+**Last updated:** 2026-05-30 (**§8.8** religious-host compatibility; [**one-page PDF handout**](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-onepager.pdf)).
