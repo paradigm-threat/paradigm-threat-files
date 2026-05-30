@@ -2,7 +2,7 @@
 """Generate US Letter one-page MGGA handout PDF (newspaper-style text wrap).
 
 Reads make-gordonston-great-again-onepager.source.md
-Embeds hero + classroom vision images at fixed positions; body text wraps around float.
+Embeds hero, Gwinnett corridor map, and classroom vision at fixed positions; body text wraps around floats.
 
 Requirements: pip install fpdf2 Pillow 'qrcode[pil]'
 """
@@ -37,6 +37,7 @@ CO_DIR = REPO / "influence" / "controlled_opposition"
 SOURCE = CO_DIR / "make-gordonston-great-again-onepager.source.md"
 HERO = CO_DIR / "make-gordonston-great-again.png"
 CLASS_IMG = CO_DIR / "make-gordonston-great-again-class.png"
+MAP_IMG = CO_DIR / "make-gordonston-shuman-church-map.png"
 OUT_PDF = CO_DIR / "make-gordonston-great-again-onepager.pdf"
 
 MARGIN = 0.38
@@ -154,14 +155,18 @@ def make_qr(url: str) -> Path:
     return Path(tmp.name)
 
 
-def avail_width_at_y(y: float, margin: float, full_w: float, floats: list[FloatBox]) -> float:
-    w = full_w
+def text_region_at_y(y: float, margin: float, full_w: float, floats: list[FloatBox]) -> tuple[float, float]:
+    """Return (x_start, width) for a text line at y, accounting for left and right floats."""
+    x0 = margin
+    x1 = margin + full_w
+    mid = margin + full_w / 2
     for box in floats:
         if box.y - 0.02 <= y < box.y + box.h + 0.02:
-            left_col = box.x - margin - FLOAT_GAP
-            if left_col > 1.0:
-                w = min(w, left_col)
-    return w
+            if box.x + box.w / 2 >= mid:
+                x1 = min(x1, box.x - FLOAT_GAP)
+            else:
+                x0 = max(x0, box.x + box.w + FLOAT_GAP)
+    return x0, max(0.55, x1 - x0)
 
 
 def flow_paragraphs(
@@ -187,24 +192,24 @@ def flow_paragraphs(
         while i < len(words) and y < y_max - line_h:
             word = words[i]
             trial = (" ".join(line_words + [word])).strip()
-            aw = avail_width_at_y(y, margin, full_w, floats)
+            tx, aw = text_region_at_y(y, margin, full_w, floats)
             if pdf.get_string_width(trial) <= aw:
                 line_words.append(word)
                 i += 1
             else:
                 if line_words:
-                    pdf.set_xy(margin, y)
+                    pdf.set_xy(tx, y)
                     pdf.cell(aw, line_h, " ".join(line_words), new_x=XPos.LMARGIN, new_y=YPos.NEXT)
                     y = pdf.get_y()
                     line_words = []
                 else:
-                    pdf.set_xy(margin, y)
+                    pdf.set_xy(tx, y)
                     pdf.multi_cell(aw, line_h, word)
                     y = pdf.get_y()
                     i += 1
         if line_words and y < y_max:
-            aw = avail_width_at_y(y, margin, full_w, floats)
-            pdf.set_xy(margin, y)
+            tx, aw = text_region_at_y(y, margin, full_w, floats)
+            pdf.set_xy(tx, y)
             pdf.cell(aw, line_h, " ".join(line_words), new_x=XPos.LMARGIN, new_y=YPos.NEXT)
             y = pdf.get_y()
         y += para_gap
@@ -237,7 +242,7 @@ def render(data: dict) -> None:
     pdf.cell(CONTENT_W, 0.14, data.get("tagline", ""), new_x=XPos.LMARGIN, new_y=YPos.NEXT, align="C")
     y = pdf.get_y() + 0.1
 
-    hero_max_h = 1.95
+    hero_max_h = 1.72
     hero_jpg, hero_w, hero_h = prepare_image(HERO, CONTENT_W, hero_max_h)
     try:
         hero_x = MARGIN + (CONTENT_W - hero_w) / 2
@@ -257,12 +262,31 @@ def render(data: dict) -> None:
     discovery_reserve = 0.38
     body_bottom = FOOTER_TOP - discovery_reserve
 
-    class_w = 2.55
-    class_max_h = min(2.35, body_bottom - body_top - 0.2)
+    map_w = 2.05
+    map_max_h = 1.32
+    map_jpg, map_dw, map_dh = prepare_image(MAP_IMG, map_w, map_max_h)
+    map_caption_h = 0.12
+    map_box_h = map_dh + map_caption_h
+    map_x = MARGIN
+
+    map_jpg_path = map_jpg
+    try:
+        pdf.image(str(map_jpg_path), x=map_x, y=body_top, w=map_dw, h=map_dh)
+        pdf.set_xy(map_x, body_top + map_dh + 0.02)
+        pdf.set_font("Helvetica", "I", 6.5)
+        pdf.cell(map_dw, 0.1, "Shuman, Goebel, church, Gwinnett", align="C")
+    finally:
+        map_jpg.unlink(missing_ok=True)
+
+    class_w = 2.35
+    class_max_h = min(2.15, body_bottom - body_top - 0.15)
     class_jpg, class_dw, class_dh = prepare_image(CLASS_IMG, class_w, class_max_h)
     class_x = MARGIN + CONTENT_W - class_dw
-    float_box = FloatBox(x=class_x, y=body_top, w=class_dw, h=class_dh)
-    floats: list[FloatBox] = [float_box]
+
+    floats: list[FloatBox] = [
+        FloatBox(x=map_x, y=body_top, w=map_dw, h=map_box_h),
+        FloatBox(x=class_x, y=body_top, w=class_dw, h=class_dh),
+    ]
 
     try:
         pdf.image(str(class_jpg), x=class_x, y=body_top, w=class_dw, h=class_dh)
@@ -277,9 +301,9 @@ def render(data: dict) -> None:
         MARGIN,
         CONTENT_W,
         floats,
-        font_size=9.0,
-        line_h=0.142,
-        para_gap=0.1,
+        font_size=8.7,
+        line_h=0.138,
+        para_gap=0.09,
     )
 
     disc_y = max(y + 0.06, FOOTER_TOP - discovery_reserve)
@@ -340,6 +364,8 @@ def main() -> None:
         sys.exit(f"Missing hero image: {HERO}")
     if not CLASS_IMG.is_file():
         sys.exit(f"Missing classroom image: {CLASS_IMG}")
+    if not MAP_IMG.is_file():
+        sys.exit(f"Missing map image: {MAP_IMG}")
     data = parse_source(SOURCE)
     if not data["paragraphs"]:
         sys.exit("Source must include ## body paragraphs")

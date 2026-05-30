@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-30T13:23:20.160Z",
+    "date": "2026-05-30T13:42:19.919Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-great-again-onepager.pdf",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again-onepager.pdf"
+      },
+      {
+        "status": "M",
+        "path": "scripts/generate-mgga-onepager.py",
+        "href": "/scripts/generate-mgga-onepager.py"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-30T13:23:19.000Z",
+    "message": "Redesign MGGA one-pager as prose with floated classroom image.",
     "files": [
       {
         "status": "M",
@@ -1138,29 +1156,6 @@
       {
         "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
         "alt": "Fire on the Mountain"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-25T12:29:18.000Z",
-    "message": "Expand Ghost War MI6 whitewash and Crown PP read.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md",
-        "href": "/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/ghost-war-the-antibody-phase.md",
-        "href": "/influence/hollywood/ghost-war-the-antibody-phase"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
-        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
       }
     ]
   }
