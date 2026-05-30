@@ -82,6 +82,8 @@ The working program title matches this article: **Make Gordonston Great Again**,
 
 **Christ’s Community Church** publishes a light weekday calendar — most Monday, Tuesday, Thursday, and Friday daytime hours have no scheduled worship; Wednesday daytime is open before evening Bible study; Saturday has morning slots outside women’s and men’s groups. The ask is modest: permission to open **a few classrooms** and a **large-screen TV** room on agreed days for a supervised study hall. Sunday worship stays untouched.
 
+The campus descends from **Morningside Baptist** — congregational Baptist life on Gwinnett, in the same broad family as **Southern Baptist Convention (SBC)** churches: local church governance, shared confession, and worship that stays central while weekday rooms can serve the neighborhood. This plan must be **100% compatible** with that: **secular homework help only** (reading, writing, math, the assignments children already carry from home or public school). Volunteers are **guests in a host congregation’s building** — they do **not** teach that Christianity is false, do **not** counter-proselytize, and do **not** run interfaith or anti-religion debates in rooms where families come to worship. Search tools and screens stay on **schoolwork**, not doctrine. Leadership keeps Sunday services, Bible study, facility rules, and background checks; we add a quiet study block when the calendar allows. That boundary matters because **wounds of the past** still live in Savannah memory — neighbors who feared children being turned into ideological props inside a church they were already fighting at the gate. Healing here means proving the opposite: Twickenham and Gordonston kids at desks, volunteers helping with homework, and the congregation’s faith **unchallenged in its own house**.
+
 ![Make Gordonston Great Again — volunteer homework campus vision: children, volunteers, and study tools in the church education wing](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-class.png)
 
 Volunteers need literacy and patience, a **GED-level** baseline in plain English, and willingness to pass church background expectations. They do not need to be certified teachers. Technology is the equalizer: curriculum-aligned videos, demonstration tools for math, search and agentic lookup to match the textbook edition the child actually uses. The volunteer walks the student through the work — one subject at a time for the group when several share a topic — and **automatic homework completion is not tolerated**. Cheating voids the point.
@@ -96,7 +98,7 @@ The [**Gordonston investigation §9**](https://paradigmthreat.net/influence/cont
 
 Leadership that refuses to meet on any of those steps becomes the unreasonable blocker the neighborhood cannot afford — in Gordonston or anywhere else that still has children on the block. The backup path (**§10**) is not the first move; it exists so work does not stall forever behind a silent inbox.
 
-Morningside’s own history records **400+** summer vacation Bible school enrollments in peak years and scout troops in the building leagues. That scale is the proof the campus knows how to carry youth when leadership chooses to. The homework pilot asks for a slice of that tradition — study hall instead of sermon, search engines instead of chalk — with the same neighbor volunteers who already show up for the fair and the tree plantings when someone asks out loud.
+Morningside’s own history records **400+** summer vacation Bible school enrollments in peak years and scout troops in the building leagues. That scale is the proof the campus knows how to carry youth when leadership chooses to. The homework pilot asks for a slice of that tradition — **weekday study hall beside existing worship**, search engines instead of chalk — with the same neighbor volunteers who already show up for the fair and the tree plantings when someone asks out loud.
 
 ---
 
@@ -116,7 +118,7 @@ The homework campus, park-access protocol, and coalition steps in this article a
 
 ## Where next
 
-- [**Gordonston park + church investigation**](https://paradigmthreat.net/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md) — **§2** geography (Shuman), history **§3–§7**, **2011** feud **§4**, volunteer vision **§8–§9**, backup **§10**
+- [**Gordonston park + church investigation**](https://paradigmthreat.net/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md) — **§2** geography (Shuman), history **§3–§7**, **2011** feud **§4**, volunteer vision **§8–§9** (incl. **§8.8** religious-host compatibility), backup **§10**
 - [**SCCPSS — Shuman Elementary closure hearing, 2025-06-04**](https://go.boarddocs.com/ga/sccs/Board.nsf/goto?id=DH5GUL458481&open=)
 - [**SCCPSS — CCRPI 2025 (mixed; below state in elementary/middle)**](https://www.sccpss.com/news/news-landing-page/~board/district-news/post/ccrpi-results-show-some-gains-and-declines-for-sccpss-schools)
 - [**SCCPSS — Georgia Milestones 2023–24 (ELA gains; still below state)**](https://www.sccpss.com/news/news-landing-page/~board/district-news/post/gadoe-releases-2023-24-gmas-scores-sccpss-students-show-improvement-across-subjectsgrade-bands)
@@ -133,13 +135,13 @@ The homework campus, park-access protocol, and coalition steps in this article a
 
 [**Prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md): institutions can inherit a children-first charter and drift until “Residents Only” feels normal — that comfort is not default truth against Low’s press framing.
 
-**Evidence tiers, citations, and open questions** live in the [**Gordonston investigation**](https://paradigmthreat.net/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md) (**§4**, **R1**, **R9–R11**, **§8–§10**). **Homework campus (§8–§9)** is an author proposal in **discovery phase** — see **Discovery phase** above; not endorsed by Christ’s Community, park trustees, **GNA**, or SCCPSS.
+**Evidence tiers, citations, and open questions** live in the [**Gordonston investigation**](https://paradigmthreat.net/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md) (**§4**, **R1**, **R9–R11**, **§8–§10**, **§8.8** church-host rules). **Homework campus (§8–§9)** is an author proposal in **discovery phase** — see **Discovery phase** above; not endorsed by Christ’s Community, park trustees, **GNA**, or SCCPSS.
 
 **Author opinion** in the body (park access, Twickenham isolation, Hollywood ethics, **2011** unresolved over legal fees) is not district or **GNA** policy. **Not proven:** racist intent behind locks, Facebook admin motive. **Privacy:** **2011** names omitted here; see investigation **R1**. Readers with assessor final orders, film permits, or Facebook exports may supply primaries for archive update.
 
 Keywords: #Gordonston #JulietteGordonLow #Savannah #Homeschooling #Neighborhood #ControlledOpposition #GirlScouts #Twickenham #ShumanElementary #SCCPSS
 
-**Last updated:** 2026-05-30T15:00:00-04:00
+**Last updated:** 2026-05-30T16:00:00-04:00
 
 ---
 

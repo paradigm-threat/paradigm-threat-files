@@ -1,6 +1,6 @@
 # Gordonston — Juliette Gordon Low Park history, church campus, and volunteer children’s education vision (open)
 
-**TL;DR:** **Juliette Gordon Low Park** (~7 acres), **Shuman Elementary** (**415 Goebel Ave** — **closed** **2024–25**, **R9**), and **Christ’s Community Church** (**1805 E. Gwinnett St.**) anchor the **Gwinnett / Goebel** corridor. The park has been **privately held since 1928** with **ambiguous deed language** — fueling an **~2010–2011** feud with **Twickenham** over access. The church campus descends from **~1957 Morningside Baptist**, with **large weekday idle capacity** beside **Sunday worship**. **Backup if stakeholders resist any fix (§10):** **GNA** member **board turnover** + **Chatham assessor** pressure on **park trustee** (2011 staff: exemption **never qualified**). **Forward vision (author, §8):** volunteer-run **free homework-help sessions** for **homeschooling** families on **non-church-use days** — **no tuition** for **Gordonston / Twickenham / nearby** residents; **nominal fee** only for **distant** families if demand **balloons**; **park + church** dual site with **seasonal outdoor recess** under **trustee permission**; outreach frame **Make Gordonston Great Again** — **strictly non-political**, **restoring Low’s children-first legacy**, **healing Twickenham tension**. **Reader essay:** [**Make Gordonston Great Again**](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.md).
+**TL;DR:** **Juliette Gordon Low Park** (~7 acres), **Shuman Elementary** (**415 Goebel Ave** — **closed** **2024–25**, **R9**), and **Christ’s Community Church** (**1805 E. Gwinnett St.**) anchor the **Gwinnett / Goebel** corridor. The park has been **privately held since 1928** with **ambiguous deed language** — fueling an **~2010–2011** feud with **Twickenham** over access. The church campus descends from **~1957 Morningside Baptist**, with **large weekday idle capacity** beside **Sunday worship**. **Backup if stakeholders resist any fix (§10):** **GNA** member **board turnover** + **Chatham assessor** pressure on **park trustee** (2011 staff: exemption **never qualified**). **Forward vision (author, §8):** volunteer-run **free homework-help sessions** for **homeschooling** families on **non-church-use days** — **secular schoolwork only**, **100% compatible** with host **Baptist / SBC-style congregational worship** (**§8.8** — no counter-proselytizing in church rooms); **no tuition** for **Gordonston / Twickenham / nearby** residents; **nominal fee** only for **distant** families if demand **balloons**; **park + church** dual site with **seasonal outdoor recess** under **trustee permission**; outreach frame **Make Gordonston Great Again** — **strictly non-political**, **restoring Low’s children-first legacy**, **healing Twickenham tension**. **Reader essay:** [**Make Gordonston Great Again**](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.md).
 
 **Date:** 2026-05-29  
 **Status:** Open — historical cluster **1926–2012** documented (**§3–§6**); **§8–§9** vision = **author proposal**; **§10** backup = **contingency if any party resists cooperative fixes**, runs **in parallel** so work **continues regardless**.
@@ -14,7 +14,7 @@
 5. **§5** — Signage, gates, vandalism.  
 6. **§6** — Christ’s Community Church / Morningside Baptist — **history** and **weekday availability**.  
 7. **§7** — Original children’s vision and contemporary gap.  
-8. **§8** — **Make Gordonston Great Again** — volunteer homework-campus vision.  
+8. **§8** — **Make Gordonston Great Again** — volunteer homework-campus vision (**§8.8** religious-host compatibility).  
 9. **§9** — Implementation roadmap (outreach → permissions → pilot).  
 10. **§10** — **Backup plan** if GNA / trustee / others **resist** cooperative fixes (not author-plan-specific).  
 11. **§11** — Open questions.  
@@ -142,6 +142,8 @@ Hung at gates **~2001** after night trespass; police advised warnings for **lega
 | **~2008** | **Morningside Baptist** merger into Christ’s Community | **S** |
 | **Present** | **Sun 09:30** Sunday school, **10:30** worship; **Wed 18:30** Bible study; **Sat** men’s / women’s groups | **S** — **R6** |
 
+**Faith lineage (for §8.8):** Campus history is **Baptist congregational** — **Morningside Baptist** roots, merged into **Christ’s Community Church**. That pattern matches much of the **Southern Baptist Convention (SBC)** world: **autonomous local churches**, shared theological identity, and **member-driven governance** (not a single hierarchical denomination assigning pastors like some other Christian bodies). **§8** assumes the host keeps **worship, doctrine, and facility authority**; the homework pilot is a **guest use** on idle weekday rooms.
+
 ### 6.2 Ownership and poll use
 
 - **Legal entity:** **Morningside Baptist Church** at **1805 E. Gwinnett St.**
@@ -239,7 +241,7 @@ Before sessions:
 2. Request **use of education wing** + **AV (large-screen TV)** on agreed **days/times** that **do not conflict** with worship (**§6.3**).
 3. Confirm **insurance**, **building rules**, **volunteer background expectations**, and **exit** terms in writing.
 
-Church **continues** Sunday and existing midweek services; homework sessions are **additive**.
+Church **continues** Sunday and existing midweek services; homework sessions are **additive**. Written agreement must incorporate **§8.8** (signed volunteer code, room rules, who may speak about religion during sessions).
 
 ### 8.6 Park partnership (seasonal outdoor block)
 
@@ -263,7 +265,38 @@ Public materials must state clearly:
 - **Non-partisan** — **Make Gordonston Great Again** names **neighborhood restoration**, **not** a political movement.
 - **Historical basis** — Juliette Gordon Low / Girl Scout / **children of Savannah** lineage (**§7**).
 - **Twickenham welcome** — explicit **inclusion** in **free zone** (**§8.4**) to **heal** **§4** fracture with a **permanent shared program**, not a **one-time** event.
+- **Religious-host respect** — **§8.8** summarized on every church-facing one-pager.
 - **Reader essay** — [**Make Gordonston Great Again**](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.md) (Hollywood hook, park access, volunteer homework vision; **non-partisan** outreach copy).
+
+### 8.8 Religious-host compatibility (required for church trust)
+
+**Tier: V (author policy).** The homework campus must read as **fully compatible** with **Christ’s Community / Morningside Baptist** as a **host congregation** — not a competing ideology renting their education wing.
+
+**What SBC-style Baptist life implies here (not exhaustive theology):**
+
+- **Local church autonomy** — leadership at **1805 Gwinnett** decides facility use; **§8** does not override pastors, elders, or trustees.
+- **Worship and confession stay primary** — Sunday school, worship, Wednesday Bible study, and existing groups **unchanged**; weekday study blocks are **additive** and **scheduling-subordinate** (**§6.3**).
+- **Distinct from many other Christian bodies** — e.g. centralized hierarchy or sacramental systems that do not govern this campus; the pilot does **not** import outside religious curricula.
+
+**What sessions are (hard limits):**
+
+| Allowed | Forbidden during homework blocks |
+|---------|----------------------------------|
+| Help with **assigned** reading, writing, math, science, social studies from the child’s school or homeschool curriculum | Teaching that **Christianity** or this church’s faith is **false** |
+| **Secular** explanations via approved screens / search for **textbook-aligned** work | **Counter-proselytizing**, atheist advocacy, or “deconversion” messaging |
+| Quiet study-hall discipline (respect, no games) | **Interfaith debate**, partisan culture-war lessons, or replacing worship instruction |
+| Volunteers passing **church background checks** and **signed code** | Volunteers **arguing doctrine** with children or parents in classrooms |
+
+**Healing frame (why this section exists):**
+
+Neighborhood memory includes **fear** that religious buildings become **battlegrounds** — children used to insult a host faith **inside the building** families already distrust after **§4** gate fights. **§8.8** is an explicit **repudiation**: Twickenham + Gordonston children at desks, **schoolwork only**, congregation’s worship life **honored**. Trust is rebuilt by **behavior**, not slogans.
+
+**Operational hooks:**
+
+1. **Volunteer code of conduct** (signed): *schoolwork support only; no religious instruction unless the church schedules it separately.*
+2. **Parent/guardian notice** on intake: host is a **church**; sessions are **not** Sunday school replacements.
+3. **Room rules** posted: screens on **assignments**; staff may redirect any volunteer who drifts into doctrine.
+4. **Church veto** — leadership may end a session or the pilot **immediately** for any perceived disrespect to worship or teaching.
 
 ---
 
@@ -272,8 +305,8 @@ Public materials must state clearly:
 | Step | Action | Audience |
 |------|--------|----------|
 | **1** | **Volunteer interest survey** — how many can commit **which weekdays**, **backgrounds**, **child-age comfort** | Parents, retirees, homeschool networks, church members |
-| **2** | **Draft one-pager** + **session flow** (drop-off → intake → group lesson → break → park recess → pickup) | Internal |
-| **3** | **Presentation to Christ’s Community leadership** — facility use, insurance, calendar | Church board / pastor |
+| **2** | **Draft one-pager** + **session flow** + **§8.8** volunteer code (drop-off → intake → group lesson → break → park recess → pickup) | Internal |
+| **3** | **Presentation to Christ’s Community leadership** — facility use, insurance, calendar, **§8.8** secular-schoolwork covenant | Church board / pastor |
 | **4** | **Presentation to park trustees / GNA** — seasonal outdoor use, gate protocol, playground goal | Park trust, neighborhood association |
 | **5** | **Pilot announcement** — **Make Gordonston Great Again** outreach (flyers, Nextdoor, Art Fair table, Twickenham channels) | Gordonston + Twickenham + nearby |
 | **6** | **Pilot run** — single day, **head-count** and **volunteer burnout** check | Small cohort |
@@ -445,6 +478,6 @@ Author/coalition proceeds with permitted programming either way
 
 ## Limits and disclaimers
 
-**Not** legal advice on trust law, trespass, tax, **insurance**, assessor appeals, or **GNA** removal votes — **§8–§10** assume counsel review before action. **§8–§10** are **author vision/strategy (V)**, not church, GNA, or trustee policy. **Individual identities** from **R1** omitted here for **privacy**. **Make Gordonston Great Again** is a **working outreach name** — **non-partisan** by author intent; rename if confusion arises. **§10** backup may proceed **without** adopting **§8** homework model.
+**Not** legal advice on trust law, trespass, tax, **insurance**, assessor appeals, or **GNA** removal votes — **§8–§10** assume counsel review before action. **§8–§10** are **author vision/strategy (V)**, not church, GNA, or trustee policy. **§8.8** does **not** certify Christ’s Community’s SBC affiliation or theological stance — only states **author intent** for **secular homework** compatible with a **Baptist host**; church counsel should review volunteer codes and facility agreements. **Individual identities** from **R1** omitted here for **privacy**. **Make Gordonston Great Again** is a **working outreach name** — **non-partisan** by author intent; rename if confusion arises. **§10** backup may proceed **without** adopting **§8** homework model.
 
-**Last updated:** 2026-05-30 (**R10–R11** SCCPSS CCRPI / Milestones; reader essay school-score citations).
+**Last updated:** 2026-05-30 (**§8.8** religious-host compatibility; reader essay church-trust language).
