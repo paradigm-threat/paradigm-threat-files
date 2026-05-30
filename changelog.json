@@ -1,8 +1,42 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-30T12:11:55.157Z",
+    "date": "2026-05-30T12:20:03.675Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/make-gordonston-great-again-class.png",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again-class.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/make-gordonston-great-again-class.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
+        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
+        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-class.png",
+        "alt": "Make Gordonston Great Again — volunteer homework campus vision: children, volunteers, and study tools in the church education wing"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-30T12:11:54.000Z",
+    "message": "Shorten MGGA Framing and limits; point to dossier.",
     "files": [
       {
         "status": "M",
@@ -1292,18 +1326,5 @@
         "alt": "Ship-shaped airships — Clonmacnoise to Pugachev, Category A, Napoleon 1812, buried fleets"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-23T14:14:03.000Z",
-    "message": "TL;DR: state Ari position on Red Mercury as PP from redacted fact.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/nukes/investigations/red-mercury-barclay-1996-novel-investigation.md",
-        "href": "/science/nukes/investigations/red-mercury-barclay-1996-novel-investigation"
-      }
-    ],
-    "images": []
   }
 ]

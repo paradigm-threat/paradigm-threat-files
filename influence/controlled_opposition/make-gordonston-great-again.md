@@ -82,6 +82,8 @@ The working program title matches this article: **Make Gordonston Great Again**,
 
 **Christ’s Community Church** publishes a light weekday calendar — most Monday, Tuesday, Thursday, and Friday daytime hours have no scheduled worship; Wednesday daytime is open before evening Bible study; Saturday has morning slots outside women’s and men’s groups. The ask is modest: permission to open **a few classrooms** and a **large-screen TV** room on agreed days for a supervised study hall. Sunday worship stays untouched.
 
+![Make Gordonston Great Again — volunteer homework campus vision: children, volunteers, and study tools in the church education wing](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-class.png)
+
 Volunteers need literacy and patience, a **GED-level** baseline in plain English, and willingness to pass church background expectations. They do not need to be certified teachers. Technology is the equalizer: curriculum-aligned videos, demonstration tools for math, search and agentic lookup to match the textbook edition the child actually uses. The volunteer walks the student through the work — one subject at a time for the group when several share a topic — and **automatic homework completion is not tolerated**. Cheating voids the point.
 
 The pilot does **not** replace Shuman or open a second public school — it is a **volunteer study hall** for homeschool families and for public-school students who already **commute farther** after reassignment and still need help after the bus ride home. Cost is **free** for **Gordonston**, **Twickenham**, and nearby adjoining blocks. A **nominal fee** applies only to families from far outside the vicinity if demand balloons — a capacity valve, not a Winnett-Street divider and not a revenue model.
@@ -137,7 +139,7 @@ The homework campus, park-access protocol, and coalition steps in this article a
 
 Keywords: #Gordonston #JulietteGordonLow #Savannah #Homeschooling #Neighborhood #ControlledOpposition #GirlScouts #Twickenham #ShumanElementary #SCCPSS
 
-**Last updated:** 2026-05-30T14:00:00-04:00
+**Last updated:** 2026-05-30T15:00:00-04:00
 
 ---
 
