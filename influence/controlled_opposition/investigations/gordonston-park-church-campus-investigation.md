@@ -1,21 +1,24 @@
-# Gordonston — Juliette Gordon Low Park access dispute, church campus history, and “school building” misread (open)
+# Gordonston — Juliette Gordon Low Park history, church campus, and volunteer children’s education vision (open)
 
-**TL;DR:** **Juliette Gordon Low Park** (~7 acres, Gordonston, Savannah) has been **privately held** since **1928** with **ambiguous deed language** on **who may enter** — fueling an **~2010–2011** feud between **Gordonston** enforcers and **Twickenham** (north of **Gwinnett St.**) residents who had long used the park. **“No trespassing / Residents Only”** gate signs date to **~2001** (police advice after night trespass); **no published source** documents **damage to those signs** — only **vandalism to Juliette Gordon Low’s original iron gates** (removed; **replicas** at park; **originals** at Birthplace). One block north, **Christ’s Community Church** (**1805 E. Gwinnett St.**) is a **~1957 Morningside Baptist** campus — **never** an SCCPSS school; **school-like** architecture reflects **1950s departmental Sunday school** design. **Children are rarely visible** because **no weekday children’s institution** operates there; published schedule is **~2–3 hours Sunday** plus **adult evening/weekend** groups — **most classroom square footage sits idle Mon–Fri**. **Open calendar** + **education-wing footprint** create **credible future dual-use** (weekday preschool, tutoring, community youth programming) **without** ending **Sunday worship** — **speculative (§6.6)**; local rhyme: **Moore Ave / Herty School** → condos (**§2**). **Google Maps** “**DeRenne Middle School**” at church pin is **erroneous** (DeRenne is **1009 Clinch St.**).
+**TL;DR:** **Juliette Gordon Low Park** (~7 acres), **Shuman Elementary** (**415 Goebel Ave** — **closed** **2024–25**, **R9**), and **Christ’s Community Church** (**1805 E. Gwinnett St.**) anchor the **Gwinnett / Goebel** corridor. The park has been **privately held since 1928** with **ambiguous deed language** — fueling an **~2010–2011** feud with **Twickenham** over access. The church campus descends from **~1957 Morningside Baptist**, with **large weekday idle capacity** beside **Sunday worship**. **Backup if stakeholders resist any fix (§10):** **GNA** member **board turnover** + **Chatham assessor** pressure on **park trustee** (2011 staff: exemption **never qualified**). **Forward vision (author, §8):** volunteer-run **free homework-help sessions** for **homeschooling** families on **non-church-use days** — **no tuition** for **Gordonston / Twickenham / nearby** residents; **nominal fee** only for **distant** families if demand **balloons**; **park + church** dual site with **seasonal outdoor recess** under **trustee permission**; outreach frame **Make Gordonston Great Again** — **strictly non-political**, **restoring Low’s children-first legacy**, **healing Twickenham tension**. **Reader essay:** [**Make Gordonston Great Again**](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.md).
 
 **Date:** 2026-05-29  
-**Status:** Open — primary cluster **1926–2012** press + HSF; **2011** SMN article fully archived; **no** primary on **Residents Only** sign vandalism; church construction year **~1957** from secondary local-history essay (**needs** building permit / assessor confirmation); **§6.6** repurposing = **speculative** pending zoning/licensing signals.
+**Status:** Open — historical cluster **1926–2012** documented (**§3–§6**); **§8–§9** vision = **author proposal**; **§10** backup = **contingency if any party resists cooperative fixes**, runs **in parallel** so work **continues regardless**.
 
 **Guide**
 
 1. **§1** — Evidence tiers.  
-2. **§2** — Geographic frame (Gordonston, Twickenham, Gwinnett border).  
-3. **§3** — Juliette Gordon Low Park — gift, documents, names dispute.  
+2. **§2** — Geographic frame.  
+3. **§3** — Juliette Gordon Low Park — gift, documents, naming.  
 4. **§4** — **2011 access controversy** (Twickenham ↔ Gordonston) — **individuals redacted**.  
-5. **§5** — Signage, gates, vandalism (what is and is not documented).  
-6. **§6** — Christ’s Community Church / Morningside Baptist campus (**§6.5** invisible children; **§6.6** future repurposing).  
-7. **§7** — Girl Scout legacy vs. current GNA programming skew.  
-8. **§8** — Open questions / falsifiers.  
-9. **§9** — References.
+5. **§5** — Signage, gates, vandalism.  
+6. **§6** — Christ’s Community Church / Morningside Baptist — **history** and **weekday availability**.  
+7. **§7** — Original children’s vision and contemporary gap.  
+8. **§8** — **Make Gordonston Great Again** — volunteer homework-campus vision.  
+9. **§9** — Implementation roadmap (outreach → permissions → pilot).  
+10. **§10** — **Backup plan** if GNA / trustee / others **resist** cooperative fixes (not author-plan-specific).  
+11. **§11** — Open questions.  
+12. **§12** — References.
 
 ---
 
@@ -23,12 +26,12 @@
 
 | Tier | Label | Use |
 |------|--------|-----|
-| **P** | Primary | Recorded deeds/wills (as quoted in press), **Savannah Morning News** articles, **Historic Savannah Foundation** district page, church official site, IRS nonprofit records, Chatham County election poll listings |
-| **S** | Secondary | Wikipedia (Juliette Gordon Low park dispute), local-history essays (postwar Savannah churches), real-estate community profiles |
-| **M** | Map / platform error | Google Maps place-name conflation (**DeRenne Middle** at church address) |
-| **?** | Unverified / oral | **Residents Only** sign **damage** (not located in press or HSF); exact year of iron-gate vandalism |
+| **P** | Primary | Recorded deeds/wills (as quoted in press), **Savannah Morning News** articles, **Historic Savannah Foundation** district page, church official site, IRS nonprofit records |
+| **S** | Secondary | Wikipedia, local-history essays, Gordonston Art Fair site |
+| **V** | Author vision / strategy | **§8–§9** program; **§10** backup contingency — **not** adopted by church, park trust, or GNA |
+| **?** | Unverified / oral | **Residents Only** sign damage; iron-gate vandalism year |
 
-**Privacy:** Named participants in the **2011** neighborhood dispute are **not** reproduced here; roles and quoted language are preserved where **already public** in **P** sources, attributed to **role labels** only.
+**Privacy:** Named participants in the **2011** dispute are **not** reproduced here; consult **R1** for on-record names.
 
 ---
 
@@ -37,12 +40,11 @@
 | Place | Relation |
 |-------|----------|
 | **Gordonston** | National Register historic district (**2001**); laid out **1917** on Gordon family farmland; **Gwinnett St.** forms much of its **north** edge |
-| **Twickenham** | Residential area **immediately north of Gwinnett St.** — primary outside group in the **2011** park fight |
-| **Juliette Gordon Low Park** | ~**7 acres** inside Gordonston; also called **Gordonston Park**, **Brownie Park** |
-| **Christ’s Community Church** | **1805 E. Gwinnett St.** — **corner of Gordonston’s north border** (Gwinnett × Kinzie / Forrest area) |
-| **Pennsylvania Avenue School** | Separate **1945** public school in/near Gordonston — **not** the church building |
-| **Moore Ave Elementary / Herty School** | **1942** institutional building in Gordonston; **condo conversion** in progress (**HSF**) — precedent for **institutional reuse** on same grid |
-| **DeRenne Middle School** | **1009 Clinch St.** — **not** **1805 Gwinnett** |
+| **Twickenham** | Residential area **immediately north of Gwinnett St.** — primary outside group in the **2011** park fight; **included** in vision **free-access** zone (**§8.4**) |
+| **Juliette Gordon Low Park** | ~**7 acres** inside Gordonston; also **Gordonston Park**, **Brownie Park** |
+| **Christ’s Community Church** | **1805 E. Gwinnett St.** — **south** of **E Gwinnett** (Gwinnett × Kinzie / Forrest); **not** SCCPSS |
+| **Shuman Elementary School** | **415 Goebel Ave** — SCCPSS **1–5**; **north** of **E Gwinnett**; large **green field** faces church corridor; **permanently closed** **2024–25**; **will not reopen** to prior enrollment; students **reassigned** — **most travel farther from home** (**P** **R9**; author read **§7.2**) |
+| **Pennsylvania Avenue School** | **1945** public school in Gordonston grid (**HSF**) — separate institutional history on same neighborhood |
 
 ---
 
@@ -52,104 +54,76 @@
 
 | When | Event | Tier |
 |------|--------|------|
-| **1917** | Gordonston subdivision marketed | **S** | HSF Gordonston page |
-| **1924** | Juliette Gordon Low will — sets aside **$6,000** trust principal for park upkeep; **does not** name beneficiaries or use rules | **P** (via SMN **2011**) |
-| **1926** | Park dedication; endowment for maintenance “into perpetuity” (GNA / Art Fair narrative) | **S/P** |
+| **1917** | Gordonston subdivision marketed | **S** | HSF |
+| **1924** | Low will — **$6,000** trust principal for park upkeep; **does not** name beneficiaries or use rules | **P** (via SMN **2011**) |
+| **1926** | Park dedication; endowment for maintenance “into perpetuity” | **S/P** |
 | **1928-07-10** | Estate conveys park to first trustees | **P** (via SMN **2011**) |
-| **1947** | Savannah attorney review: **no recorded instrument** granting Gordonston **property owners** specific rights to the park | **P** (letter quoted SMN **2011**) |
-| **1948** | **Mary Calder Cottage** dedicated; **300+** at ceremony; contemporaneous SMN lede calls park set aside “for Savannah’s children” | **P/S** |
-| **1949** | Girl Scout council controlled cottage use; GNA/Garden Club access by **permission**, fees | **P** (board minutes via SMN **2011**) |
-| **~1957** | Larger Girl Scout camp (**Rose Dhu Island**) — cited as reason Scout **heavy use** of park/cottage faded | **S** (resident interview SMN **2011**) |
-| **1962** | Birthplace director praised **gate restoration**, plantings; **150** troops visited in three months | **P** (correspondence via SMN **2011**) |
+| **1947** | Attorney review: **no recorded instrument** granting Gordonston **property owners** specific rights | **P** |
+| **1948** | **Mary Calder Cottage** dedicated; **300+** at ceremony; press: park for **“Savannah’s children”** | **P/S** |
+| **1949** | Girl Scout council controlled cottage; GNA/Garden Club access by **permission** | **P** |
+| **~1957** | **Rose Dhu Island** camp — Scout **heavy use** of park/cottage fades | **S** |
+| **1962** | Gate restoration praised; **150** troops in three months | **P** |
 
 ### 3.2 Trustee discretion (deed language)
 
-The **1928** deed (as quoted in **P**): trustees have **“full power and discretion to make such rules and regulations concerning the maintenance and upkeep of said park as to them in their discretion shall seem best.”**
+**1928** deed (as quoted in **P**): trustees have **“full power and discretion to make such rules and regulations concerning the maintenance and upkeep of said park as to them in their discretion shall seem best.”**
 
-The **2011** park trustee told press: that language means **“nobody has a right to go in”** by default — while also conceding Low’s will **does not** say the park is **for Gordonston only**.
+The **2011** park trustee told press that language supports controlled access — while conceding Low’s will **does not** name **who** the park is for.
 
 ### 3.3 Iron gates (Juliette Gordon Low artwork)
 
-- Low learned **ironworking** in England; gates were made for her **Wellesbourne** property, later installed at the park.
-- Gates became a **Birthplace tour** extension (**tens of thousands** of visitors **1960s** correspondence).
-- **HSF (P/S):** originals **removed after an incident of vandalism**; **replicas** at park; **originals** at **Juliette Gordon Low Birthplace**.
-- **2011** SMN: gates **“have since been moved to the Low Birthplace”** — does **not** date vandalism in that article.
+- Low made the gates in England; later installed at the park; moved to **Birthplace** after vandalism (**HSF**); **replicas** at park.
 
 ---
 
 ## 4. The 2011 controversy (Twickenham ↔ Gordonston)
 
-**Anchor:** Lesley Conn, *Juliette Low’s Gordonston park splitting neighbors*, **Savannah Morning News**, **2011-10-09** ([link](https://www.savannahnow.com/story/news/2011/10/09/juliette-lows-gordonston-park-splitting-neighbors/13419455007/)); archived full text **2021-02** (Wayback).
+**Anchor:** Lesley Conn, *Juliette Low’s Gordonston park splitting neighbors*, **Savannah Morning News**, **2011-10-09** ([R1](https://www.savannahnow.com/story/news/2011/10/09/juliette-lows-gordonston-park-splitting-neighbors/13419455007/)).
 
 ### 4.1 What was fighting
 
-Not Twickenham as an abstract place — a **park-access** conflict:
-
 | Gordonston / trust side | Twickenham / outsider side |
 |-------------------------|----------------------------|
-| Park was Low’s gift to **Gordonston residents**; deed supports exclusivity | Someone as community-minded as Low would **not** exclude Savannah |
-| GNA funds maintenance; **“park crashers”** abuse privilege | Park advertised for **“children of Savannah”** for decades |
-| Outsiders should **petition** the association politely | **Research** finds **no** source except GNA self-history saying **Gordonston-only** |
-| **Call police** on non-residents who refuse to leave (newsletter advice) | Enforcement turned **“nasty”** only in recent years (visitor since **1983**) |
+| Park gift to **Gordonston residents** | Low would **not** exclude Savannah |
+| GNA maintains; **“park crashers”** | Park long framed for **“children of Savannah”** |
+| Outsiders should **petition** politely | **No** source except GNA self-history says **Gordonston-only** |
+| **Call police** on non-residents (newsletter) | Enforcement turned **“nasty”** only recently |
 
 ### 4.2 Flashpoint (roles only)
 
-Opening scene (**P**): a **Gordonston resident** at the **iron gate** tells **~12 dog walkers** on the sidewalk they cannot enter. A **Twickenham resident** opens the gate, walks in briefly under the oaks, leaves before police arrive. The **Gordonston resident** had dialed **Savannah-Chatham** police.
-
-This was one **dramatic** encounter in a dispute **brewing ~1 year**.
+A **Gordonston resident** at the **iron gate** confronted **~12 dog walkers**; a **Twickenham resident** entered briefly; police called.
 
 ### 4.3 Parallel escalations (~2010–2011)
 
-| Track | Detail | Tier |
-|-------|--------|------|
-| **Social media / legal** | **Twickenham advocate** received attorney letter over **disparaging GNA Facebook post** by **Gordonston gate resident**; post removed | **P** |
-| **Financial** | **Twickenham residents** challenged **charitable tax exemption** on county records | **P** |
-| **Assessor** | Staff review: park **never qualified** as **“purely public charity”** under state code; Board of Assessors could **revoke** exemption | **P** |
-| **Security talk** | Some Gordonston residents discussed **off-duty police** to exclude trespassers | **P** |
-| **Offer to pay** | **Twickenham advocate** offered **~$100/year** + volunteer cleanup; told allowing **one** outsider means allowing **all** (trustees said unaware of offer) | **P** |
-| **Girl Scouts** | **Historic Georgia** council: **“years since we’ve had access”** — “great mystery of Savannah” | **P** |
+| Track | Detail |
+|-------|--------|
+| **Social / legal** | Attorney letter over **GNA Facebook** post; post removed |
+| **Tax** | Twickenham residents challenged park **charitable exemption**; assessor staff said it **never qualified** |
+| **Security** | Talk of **off-duty police** |
+| **Offer** | **~$100/year** + volunteer labor from Twickenham advocate — declined as precedent |
+| **Girl Scouts** | Council **without park access** for years |
 
-### 4.4 Documentary asymmetry (why Twickenham side had ammunition)
+### 4.4 Aftermath
 
-- **1947** attorney letter: **no** recorded rights for Gordonston homeowners as a class.
-- **1948** dedication press: **“Savannah’s children”** framing.
-- **1960s** letters: park popular with **Birthplace tourists** nationwide.
-- **Gordonston counter:** trust deeds, GNA maintenance spend, **night trespass** history.
+**2012** Girl Scout centennial tree planting in park; **2010s–2020s** GNA Art Fair and public-invited events continue — **structural tension** with **Residents Only** history remains.
 
-### 4.5 Aftermath (selected)
-
-| When | Event |
-|------|--------|
-| **2012-03** | Girl Scouts **100th anniversary tree planting** in park (SMN) — park still in ceremonial use |
-| **2010s–2020s** | GNA continues **Art Fair**, seasonal socials, cottage investment; **Phil the Neighborhood** and similar **public-invited** events use park — **tension** with **Residents Only** history remains **structural** |
+**Vision link:** **§8** explicitly treats **Twickenham** as **partner geography**, not **adversary** — aligned with healing this fracture.
 
 ---
 
-## 5. Signage, gates, and vandalism — separate objects
+## 5. Signage, gates, and vandalism
 
 ### 5.1 “No trespassing. Residents Only” signs
 
-| Fact | Source |
-|------|--------|
-| Hung at **gates** in **“recent years”** relative to **2011** | **P** — SMN **2011** |
-| Root cause cited: **~2001** night youth trespass; **police advised** posted warnings for **legal removal** grounds | **P** — SMN **2011** (former trustee interview) |
-| Non-residents still entered; Gordonston residents might **call police** if spotted | **P** |
-| **September 2011** neighborhood newsletter: park is **private trust** property; **call police** if outsiders refuse to leave | **P** — quoted SMN |
+Hung at gates **~2001** after night trespass; police advised warnings for **legal removal** grounds (**P**, SMN **2011**). **September 2011** newsletter: call police if outsiders refuse to leave.
 
-### 5.2 Damage to *Residents Only* signs
+### 5.2 Sign damage
 
-**Finding:** **No** newspaper, HSF, assessor, or church source located stating these **trespassing placards** were **vandalized, stolen, or destroyed**.
+**No** published source documents **Residents Only** placards vandalized or destroyed (**?**).
 
-If damage occurred, it is **oral / hyperlocal** as of this dossier — **not** citable like the **2011** SMN investigation.
+### 5.3 Iron gate vandalism
 
-### 5.3 Vandalism that *is* documented — original iron gates
-
-| Claim | Source |
-|-------|--------|
-| Ornate **Low-designed iron gates** **removed after vandalism**; **replicas** installed | **P/S** — [Historic Savannah Foundation — Gordonston](https://www.myhsf.org/what-we-do/historic-districts/gordonston/) |
-| Original gates at **Juliette Gordon Low Birthplace** | **P** — SMN **2011**; HSF |
-
-**Do not conflate:** gate **artwork** vandalism ≠ **Residents Only** sign damage.
+**HSF:** originals **removed after vandalism**; replicas installed; originals at **Birthplace**.
 
 ---
 
@@ -159,225 +133,318 @@ If damage occurred, it is **oral / hyperlocal** as of this dossier — **not** c
 
 | When | Entity / event | Tier |
 |------|----------------|------|
-| **1937** | **Morningside Baptist** begins as **tent church** + Sunday school; draws **Twickenham** and **Josiah Tattnall Homes** families | **S** — postwar Savannah local-history essay (wisebloodunsw) |
-| **1950s** | **400+** children in summer VBS most years; scouts, basketball/softball leagues | **S** |
-| **~1957** | New **East Gwinnett Street** church building — **~1,200** seats | **S** |
-| **1964** | **Morningside Baptist Church** incorporated (**EIN 58-0693146**); still legal entity at address | **P** |
-| **1988** | **Christ’s Community Mission** formed; site already had facilities | **S** — church history page |
-| **1996-07** | **Christ’s Community Church** chartered (Southern Baptist) | **S** |
-| **~2008** | **Morningside Baptist** members merged into Christ’s Community | **S** |
-| **Present** | Worship **Sun 9:30** (Sunday school), **10:30** worship; **Wed 18:30** Bible study | **S** — christs-community-church.com |
+| **1937** | **Morningside Baptist** — tent church + Sunday school; **Twickenham** and **Tattnall Homes** families | **S** — **R5** |
+| **1950s** | **400+** summer VBS enrollments most years; scouts; church leagues | **S** |
+| **~1957** | **East Gwinnett Street** campus — **~1,200** seats; large **education wing** | **S** |
+| **1964** | **Morningside Baptist Church** incorporated (**EIN 58-0693146**) | **P** |
+| **1988** | **Christ’s Community Mission** formed at existing facilities | **S** — **R6** |
+| **1996-07** | **Christ’s Community Church** chartered | **S** |
+| **~2008** | **Morningside Baptist** merger into Christ’s Community | **S** |
+| **Present** | **Sun 09:30** Sunday school, **10:30** worship; **Wed 18:30** Bible study; **Sat** men’s / women’s groups | **S** — **R6** |
 
-### 6.2 Was it ever a public school?
+### 6.2 Ownership and poll use
 
-**No** — not in SCCPSS history, assessor school use, or local press reviewed for this dossier.
+- **Legal entity:** **Morningside Baptist Church** at **1805 E. Gwinnett St.**
+- **Operating congregation:** **Christ’s Community Church**
+- Chatham elections poll site **“Christ Community Church at Morningside”** (**2-07**)
 
-| Misread | Correction |
-|---------|------------|
-| **Google Maps** “**DeRenne Middle School**” at **1805 Gwinnett** | **Error** — DeRenne Middle is **1009 Clinch St.** |
-| Looks like **3-story classroom block** | **1950s Baptist education wing** — departmental **Sunday school** layout |
-| No children **weekday mornings** | **Church**, not district school — **no** weekday preschool/day school advertised (**§6.5**) |
-| Nearby **Pennsylvania Avenue School** (**1945**) | **Different building** — real public school in area |
+### 6.3 Weekday availability (factual baseline for §8)
 
-### 6.3 Ownership today
+Published church calendar leaves **most weekday daytime hours** without scheduled worship (**S**, **R6**):
 
-- **Legal nonprofit:** **Morningside Baptist Church** at **1805 E. Gwinnett St.**
-- **Operating congregation:** **Christ’s Community Church** (same campus post-merger)
-- **Not** SCCPSS, city, or residential condo HOA
-- Chatham elections: poll site **“Christ Community Church at Morningside”** (**2-07**)
+| Day | Published use | Typical open window for volunteer sessions |
+|-----|---------------|---------------------------------------------|
+| **Sunday** | Morning worship block | Afternoon–evening |
+| **Monday–Tuesday** | None published | **Full day** (subject to church permission) |
+| **Wednesday** | Evening Bible study | **Daytime** |
+| **Thursday–Friday** | None published | **Full day** |
+| **Saturday** | Morning / monthly women's group | Most of day outside those slots |
 
-### 6.4 “Never used for its purpose?”
-
-**Clarification:** The campus **has** served **continuous church purpose** since construction (~**1957**). It was **not** built for **public education** and **never** operated as such. The **apparent** school form factor is **Sunday school architecture**, not a **failed** or **repurposed** school.
-
-### 6.5 Why children are rarely visible (observer pattern)
-
-**Question:** If the building looks like a school, why do passersby **never** see children — especially on **weekdays**?
-
-**Answer (multi-factor):** The **brick encodes** mid-century **mass children’s ministry**; the **published operating model** does **not**. Absence from the sidewalk is **expected** given schedule, scale, and ministry mix — not proof the site is abandoned.
-
-#### 6.5.1 Published schedule vs. street observation
-
-**Source (P/S):** [christs-community-church.com](https://www.christs-community-church.com/) — schedule as fetched **2026-05**.
-
-| When | Program | Likely age skew |
-|------|---------|-----------------|
-| **Sun 09:30** | Bible Activity Training Hour (Sunday school) | Mixed; may include some children |
-| **Sun 10:30** | Morning worship | Whole congregation |
-| **Wed 18:30** | Bible study; supper study (**3rd Wed.**) | **Adult-weighted** |
-| **Sat 08:00** | Iron Workers men’s fellowship | **Adult** |
-| **2nd Sat 12:00** | Sisters In Sync | **Adult** |
-
-**Not listed on official site (as of fetch date):**
-
-- Weekday **preschool** or **daycare**
-- **After-school** or tutoring program
-- **Christian day school**
-- Dedicated **children’s / youth ministry** page or staff
-- Advertised **Vacation Bible School** (other unrelated “Christ Community” churches run VBS under similar names — **not** this Savannah address)
-
-**Implication:** A motorist or pedestrian on **Gwinnett** during **Mon–Fri 08:00–15:00** is observing the campus in **off hours** for children. Evening activity heard nearby aligns with **Wednesday adult Bible study**, not a school dismissal.
-
-#### 6.5.2 Scale mismatch (1950s peak vs. present)
-
-| Era | Children on campus | Tier |
-|------|------------------|------|
-| **1950s Morningside** | **400+** summer VBS enrollments most years; scouts; league sports; departmental Sunday school at **~1,200**-seat scale | **S** — **R5** |
-| **1996 charter** | **~30** founding members (**Christ’s Community**) | **S** — church About page |
-| **Present** | Small congregation in **oversized** education wing; few kids **dispersed** across three stories — low **visual signature** from street | **S** + observation |
-
-Historical **Morningside** filled the education block; **Christ’s Community** inherited **footprint** without inheriting **headcount**. Even a modest number of children would not reproduce **1950s** “school in session” cues (buses, recess lines, all-day foot traffic).
-
-#### 6.5.3 Ministry model and neighborhood fit
-
-- Church history frames mission as **Bible-teaching Baptist** congregation with emphasis on **holiness / separation from “worldliness”** — not a **family-ministry flagship** on the model of large suburban churches with nurseries, children’s chapel, and youth directors (**contrast** other Savannah congregations’ public staffing — **S**, web compare **2026-05**).
-- **Gordonston** skews **older homeowners**, **low turnover** (**S** — HSF, community profiles) — limited **walk-in** child population on the **Gwinnett** border.
-- Families who attend likely **drive in** for **~1–2 hours Sunday**; **no** bus loop or playground visible from **Gwinnett** in typical Street View — **car-drop** pattern reads as **quiet** from road.
-
-#### 6.5.4 Physical cues
-
-- Rows of **identical window bays** + **per-room AC units** on ground floor fit **intermittent** room use, not **daily packed classrooms**.
-- **Poll-site** use (Chatham **2-07**) confirms **institutional** identity but **not** daily school enrollment.
-
-#### 6.5.5 Verification window (observer)
-
-| If children are present | When to look |
-|-------------------------|--------------|
-| Sunday school / worship families | **Sun ~09:15–10:45** — family vehicles, entrants at education-wing doors |
-| Adult evening programming | **Wed ~18:15–19:00** — adults, not school-age dismissal pattern |
-
-### 6.6 Future repurposing potential — dual-use church + weekday programming
-
-**Status:** **Analytic / speculative** — **no** permit, lease, or announcement located. Included because **underutilized calendar** + **school-form architecture** + **Gordonston youth-legacy debate** (**§7**) make **weekday reuse** a **credible forward scenario** that **does not require** the congregation to **stop being a church**.
-
-#### 6.6.1 Weekly idle capacity (order-of-magnitude)
-
-Rough **published** occupancy vs. **calendar** — sanctuary + education wing treated as one campus:
-
-| Day | Approx. scheduled use | Approx. idle window |
-|-----|----------------------|---------------------|
-| **Sunday** | **~09:30–12:00** (school hour + worship) | Afternoon–night |
-| **Monday** | None published | **All day** |
-| **Tuesday** | None published | **All day** |
-| **Wednesday** | **~18:30–20:00** (Bible study) | Morning–afternoon |
-| **Thursday** | None published | **All day** |
-| **Friday** | None published | **All day** |
-| **Saturday** | **08:00** men’s group; **2nd Sat 12:00** women’s group | Most weekends largely open |
-
-**Conservative estimate:** **>90%** of **weekday waking hours** have **no** publicized congregation activity. The **education wing** — the part that **reads as a school** — is the portion most likely to sit **empty** Mon–Fri.
-
-That gap is **not** unusual for mid-century Baptist campuses, but it **does** mean the observer’s “why isn’t this a school?” intuition points at **real slack** in the **asset schedule**, not only a **Google Maps** error.
-
-#### 6.6.2 Dual-use models (church services continue)
-
-Common pattern nationally: **keep** Sunday (and selected evening) **worship**; **add** weekday tenants or ministries in classroom wings. Plausible fits for **1805 Gwinnett** without contradicting current **church** identity:
-
-| Model | Weekday use | Weekend church | Friction |
-|-------|-------------|----------------|----------|
-| **A. Church-operated preschool / Mother's Day Out** | Mon–Fri mornings in education wing | Unchanged | GA **childcare licensing**, insurance, staffing |
-| **B. Private micro-school or tutoring co-op** | Lease classrooms | Unchanged | Zoning, fire egress, parking |
-| **C. Scout / youth nonprofit anchor** | After-school + Sat meetings | Unchanged | **Rhymes** with park **cottage** + **Brownie Park** history (**§7**) |
-| **D. Community arts / music classrooms** | Weekday classes | Unchanged | Noise, HVAC, tenant management |
-| **E. GNA-adjacent “children of Gordonston” campus** | Park trust + church wing partnership | Unchanged | **Governance** — park is **private trust**; church is **separate** nonprofit |
-| **F. Senior / day-adult programming** | Weekday daytime | Unchanged | Demographics align with **aging** Gordonston |
-
-**None** of these **require** surrendering the **sanctuary** or **Sunday** schedule. They **reuse** architecture **already designed** for **age-graded classrooms**.
-
-#### 6.6.3 Local precedent (institutional reuse, not church)
-
-**HSF (P/S):** **Moore Avenue Elementary** (**1942**, Gordonston) — now **Herty School** — **condo rehabilitation** underway. Shows **institutional buildings** on the same street grid **change economic function** over decades.
-
-**Contrast:** Church campus **dual-use** keeps **religious** primary use on deed/tax church status while **monetizing** or **mission-extending** idle wings — different legal path than **full** residential conversion, but same **“this looked like a school once”** observer confusion.
-
-#### 6.6.4 Why repurposing may *not* have happened yet
-
-| Barrier | Note |
-|---------|------|
-| **Congregation size** | **~30**-member charter legacy + merger — may lack capital/staff for weekday launch |
-| **Mission focus** | Public vision stresses **adult discipleship** and **doctrinal separation**, not **children’s outreach** |
-| **Maintenance burden** | Large aging wing = **liability** before it becomes **asset** |
-| **Neighborhood politics** | **2011** park fight shows **sensitivity** to **who** uses **Gordonston-adjacent** space (**§4**) |
-| **No VBS on web** | Suggests **children’s pipeline** not current growth lever |
-
-#### 6.6.5 Signals to watch (falsify or confirm)
-
-| Signal | Would suggest |
-|--------|----------------|
-| **Bright from the Start** / daycare license at **1805 Gwinnett** | Model **A** underway |
-| **Zoning** or **Special Use** filing (Chatham) | Model **B–E** |
-| **GNA minutes** mentioning church partnership | Model **E** |
-| **Contractor** HVAC / egress work on education wing only | Physical prep for weekday occupancy |
-| **Website** adds children’s minister or **VBS** | Organic regrowth before formal school |
-| **For-sale** or **rezoning** petition | **Full** conversion risk — **beyond** dual-use |
-
-#### 6.6.6 Tie-in to park / Girl Scout legacy (**§7**)
-
-Juliette Gordon Low Park was endowed for **children**; by **2011** Girl Scout council access had **lapsed** while GNA spend skewed **adult**. A **church education wing** running **weekday children’s programming** would **not** resolve park access law — but it would **realign the north Gwinnett corner** with the **historical “children of Savannah / Gordonston”** story **without** converting the church into a **public school**.
-
-**Epistemic label:** **§6.6** is **scenario planning**, not prediction. **Dual-use church + weekday school-form programming** is **structurally plausible** given **§6.5** idle schedule; **no** dossier evidence yet that leadership is pursuing it.
+**Vision use:** classroom wing + **large-screen TV** room on **days/times** the congregation **does not** need the space — **Sunday worship unchanged**.
 
 ---
 
-## 7. Girl Scout legacy vs. contemporary neighborhood focus
+## 7. Original children’s vision and contemporary gap
 
-### 7.1 Historical youth-formation stack (park campus)
+### 7.1 Historical youth-formation stack
 
-| Asset | Youth role |
-|-------|------------|
-| **1926** dedicatory frame | Endowment for park; GNA narrative: **“children of Gordonston”** |
+| Asset | Role |
+|-------|------|
+| **1926** park dedication | Endowment; narrative: **children of Gordonston** / Savannah |
 | **Park** | Brownie / Girl Scout camping at scale through mid-century |
-| **1948 cottage** | Union Camp donation; generations of troop meetings |
-| **Iron gates** | Birthplace tour extension; Low’s own craft |
+| **1948 cottage** | Union Camp donation; troop meetings for generations |
+| **~1957 church campus** | **Morningside** children’s ministry at neighborhood scale (**400+** VBS) |
+| **Iron gates** | Low’s craft; Birthplace tour draw |
 
-### 7.2 2011 tension as legacy fork
+### 7.2 Gap by 2011 — and Shuman closure (2024–25)
 
-- **Twickenham / former Scouts:** Low’s public mission → **inclusive** Savannah children.
-- **Gordonston exclusivity:** maintenance burden + trust deed discretion → **Residents Only** enforcement.
-- **Council estrangement:** Girl Scouts **Historic Georgia** without park access for **years** by **2011**.
+- Girl Scout council **without park access** for years.
+- GNA spend skewed **adult** infrastructure (cottage HVAC, socials, enforcement).
+- **Twickenham** feud — **children’s inclusive history** vs **Residents Only** present.
 
-### 7.3 Pattern note (non-adjudicated)
+**2024–25 (documented + contemporary):** **Shuman Elementary** (**415 Goebel Ave**) **permanently closed** as a neighborhood SCCPSS school; **will not reopen** to its previous student body (**R9**). Enrollment **reassigned**; **author read:** **most** former Shuman families **commute farther** (bus/car) — walk-to-class on Goebel **removed**. **SCCPSS accountability (P):** [**R10**](https://www.sccpss.com/news/news-landing-page/~board/district-news/post/ccrpi-results-show-some-gains-and-declines-for-sccpss-schools) **CCRPI 2025** — mixed; district **below state** in all **elementary and middle** components; **Progress** down all bands; **57%** of schools ≥ state on one+ component. [**R11**](https://www.sccpss.com/news/news-landing-page/~board/district-news/post/gadoe-releases-2023-24-gmas-scores-sccpss-students-show-improvement-across-subjectsgrade-bands) **Milestones 2023–24** — **ELA** gains incl. **Reading & Vocabulary** / **Writing & Language**; **content mastery still below state**. **Shuman pre-closure proficiency (S):** aggregator snapshots e.g. **Niche** ~**25%** read / **30%** math (**2023–24**) — low vs state; closure rationale in board materials not fully indexed (**§11.3**). **Christ’s Community** education wing remains **weekday-idle** (**§6.3**). **Juliette Gordon Low Park** often **locked** (**reader essay**). Together: **triple vacancy** on children-first infrastructure — public elementary gone, church capacity unused, park access feud unresolved. **Author opinion (reader essay):** **Twickenham** children **isolated** after **2011** park banishment + Shuman closure — childhood geography (**park, Goebel walk**) **no longer available**. Reader essay: [**Make Gordonston Great Again**](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.md).
 
-A **dedicatory** park for **children** + **private** enforcement + **adult-weighted** association agendas (code enforcement, socials, cottage HVAC) is a **structural rhyme** with **commons → gated commons** stories elsewhere in Paradigm Threat — **not** proof of bad faith, but a **documented** shift in **who the space serves**.
+### 7.3 What restoration means (author frame)
 
-The **north Gwinnett church campus** adds a parallel: **children’s architecture** with **adult-skewed schedule** and **>90% weekday idle** capacity (**§6.5–§6.6**) — physical **youth infrastructure** without current **youth throughput**, leaving **room** for **future weekday reuse** while **Sunday church** continues.
-
----
-
-## 8. Open questions / falsifiers
-
-1. **Residents Only sign damage** — any **GNA minutes**, **police report**, or **SMN** brief naming vandalism? (**?**)
-2. **Iron gate vandalism** — date, perpetrator, incident report? HSF cites event; **no** year in page reviewed.
-3. **1805 Gwinnett** — Chatham **qPublic** year-built, original building permit (**~1957** claim).
-4. **Tax exemption** — outcome after **2011** assessor review (revoked or retained?).
-5. **Deed scan** — full **1928** conveyance + trust amendments in Chatham Clerk (public record pull).
-6. **Google Maps** — when **DeRenne** label attached to church pin; correction request status (**M**).
-7. **Christ’s Community** — current **average Sunday attendance**, **children’s headcount**, **classroom occupancy** survey (**?**).
-8. **Repurposing track** — **§6.6.5** signals (zoning, licensing, GNA partnership minutes).
-9. **2011 tax exemption** — final Board of Assessors outcome for park trust.
-
-**Falsifiers for “always was a school”:** SCCPSS enrollment record, board minutes transferring property to church, or assessor **school** use code at **1805 Gwinnett**.
-
-**Falsifiers for “will stay idle indefinitely”:** multi-year **weekday lease** or **licensed childcare** at **1805 Gwinnett** with **Sunday** services continuing.
+**Not** re-litigating **1928** deed in this dossier — **practical** restoration: **visible weekday programming** that prepares children for life, **volunteer-led**, **Low-aligned**, and **inclusive of Twickenham** without abandoning **Gordonston** stewardship.
 
 ---
 
-## 9. References
+## 8. Make Gordonston Great Again — volunteer homework-campus vision
+
+**Tier: V (author proposal).** Working title for **public outreach** — **strictly non-political**; refers to **restoring Gordonston’s original children-first neighborhood vision**, **not** any electoral campaign or party.
+
+### 8.1 Purpose
+
+Use **idle church classroom capacity** (**§6.3**) and **seasonal park access** (**§8.6**) to run **free volunteer homework-help sessions** aimed primarily at **homeschooling** children — **restoring** the **educational** thread of Juliette Gordon Low’s Gordonston legacy (**§7**).
+
+### 8.2 Operating model — classroom session
+
+| Element | Design |
+|---------|--------|
+| **Who runs it** | **Volunteers** on schedules they commit to — **not** paid staff |
+| **Who attends** | Any child **dropped off** for a session (guardian pickup at end) |
+| **Cost** | **No money** in the **core** model — **no tuition**, **no** pursuit of **school / daycare licensing** or **zoning-driven “school” status** |
+| **Devices** | Bring a device **only** if it supports **schoolwork**; **no games** or recreational electronics in the classroom — same discipline as a focused study hall |
+| **Intake** | Volunteer reviews what each child **brought** or **uploaded beforehand** (assignments, curriculum links) |
+| **Instruction** | Volunteer **does not** need deep subject mastery — needs **internet**, **search**, and **agentic / AI tools** to locate **correct textbook editions** and **curriculum-aligned** explanations |
+| **Pedagogy** | **Walk through** problems and concepts — **not** answer keys; **one subject at a time** for the **group** on a **large-screen TV** |
+| **Priority order** | **Youngest first** and/or **topics shared by most kids** that day — then rotate |
+| **Regulatory stance** | Stay within **safety, legal, and insurance** baselines volunteers and hosts can meet — **not** a **government-regulated school** |
+
+### 8.3 Scale philosophy — limited liability, testable growth
+
+| Phase | Scope |
+|-------|--------|
+| **Pilot** | **One** age band, **one** weekday, **few** volunteers |
+| **Expand** | Add days / rooms if attendance and volunteer bench grow |
+| **Contract** | If unsuccessful, **shrink** to narrower ages or **volunteer-only** trial before any **broader** opening |
+
+Structure should allow **clean stop** without **sunk licensing** or **institutional lock-in**.
+
+### 8.4 Access geography and fee throttle
+
+| Resident zone | Fee |
+|---------------|-----|
+| **Gordonston**, **Twickenham**, and **nearby** adjoining blocks | **Free** |
+| **Outside** vicinity | **Nominal fee** **only if** program **balloons** — throttle to prevent **unsustainable** crowding without building a **tuition school** |
+
+Fee is a **capacity valve**, **not** a revenue model.
+
+### 8.5 Church partnership (required)
+
+Before sessions:
+
+1. **Present full plan** to **Christ’s Community / Morningside** leadership (nonprofit at **1805 Gwinnett**).
+2. Request **use of education wing** + **AV (large-screen TV)** on agreed **days/times** that **do not conflict** with worship (**§6.3**).
+3. Confirm **insurance**, **building rules**, **volunteer background expectations**, and **exit** terms in writing.
+
+Church **continues** Sunday and existing midweek services; homework sessions are **additive**.
+
+### 8.6 Park partnership (seasonal outdoor block)
+
+With **park trustees’ / GNA permission**:
+
+| Use | Detail |
+|-----|--------|
+| **Recess / outdoor activity** | When **seasonally appropriate**, move kids to **Juliette Gordon Low Park** for **structured outdoor** time between study blocks |
+| **Playground** | Long-term hope: **fundraising** to **rebuild playground** equipment |
+| **Security during session** | **Lock park** for session duration — kids may use **interior** grounds but **not wander out** |
+| **Gate protocol** | **Head count** before open; or **one gate** open with **volunteer stationed** entire session — **no uncontrolled** in/out |
+| **Healing frame** | Scheduled **Twickenham + Gordonston** children **together** under **clear rules** — practical **2011** reconciliation |
+
+Park use **requires** trustee approval — distinct from church permission.
+
+### 8.7 Non-political covenant (outreach messaging)
+
+Public materials must state clearly:
+
+- **Volunteer-only** — no paid administration in the **core** design.
+- **Non-partisan** — **Make Gordonston Great Again** names **neighborhood restoration**, **not** a political movement.
+- **Historical basis** — Juliette Gordon Low / Girl Scout / **children of Savannah** lineage (**§7**).
+- **Twickenham welcome** — explicit **inclusion** in **free zone** (**§8.4**) to **heal** **§4** fracture with a **permanent shared program**, not a **one-time** event.
+- **Reader essay** — [**Make Gordonston Great Again**](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.md) (Hollywood hook, park access, volunteer homework vision; **non-partisan** outreach copy).
+
+---
+
+## 9. Implementation roadmap
+
+| Step | Action | Audience |
+|------|--------|----------|
+| **1** | **Volunteer interest survey** — how many can commit **which weekdays**, **backgrounds**, **child-age comfort** | Parents, retirees, homeschool networks, church members |
+| **2** | **Draft one-pager** + **session flow** (drop-off → intake → group lesson → break → park recess → pickup) | Internal |
+| **3** | **Presentation to Christ’s Community leadership** — facility use, insurance, calendar | Church board / pastor |
+| **4** | **Presentation to park trustees / GNA** — seasonal outdoor use, gate protocol, playground goal | Park trust, neighborhood association |
+| **5** | **Pilot announcement** — **Make Gordonston Great Again** outreach (flyers, Nextdoor, Art Fair table, Twickenham channels) | Gordonston + Twickenham + nearby |
+| **6** | **Pilot run** — single day, **head-count** and **volunteer burnout** check | Small cohort |
+| **7** | **Iterate or narrow** — expand schedule or **reduce** age band per **§8.3** | Stakeholders |
+
+**Success metrics (author):** volunteer retention, repeat families, **Twickenham** participation, **no** park-access incidents, church willingness to renew calendar.
+
+**Parallel track:** **§10** backup **begins on day one** (bylaws pull, assessor status check) — **not** only after pilot failure. Escalation steps activate when **any** stakeholder **blocks** a good-faith fix (**§8** or **another** coalition plan).
+
+---
+
+## 10. Backup plan — if parties resist fixing the situation
+
+**Tier: V (author strategy).** Applies when **GNA**, **park trustee**, **church**, or other gatekeepers **resist** cooperative solutions — **including but not limited to** **§8–§9**. The author intends to **move forward regardless** of who resists: **primary** = build coalition and permission; **backup** = **governance change** + **financial/legal pressure** on the **trustee**.
+
+**Not legal advice.** Counsel should review bylaws and assessor filings before demand letters or votes.
+
+### 10.1 Trigger — what counts as “resistance”
+
+| Signal | Example |
+|--------|---------|
+| **Refusal to meet** | No response to written facility or park request within **90 days** |
+| **Hard no** | Trustee or GNA reaffirms **Residents Only** with **no** written alternative |
+| **Process sabotage** | Meeting not called, quorum blocked, volunteer labor withdrawn punitively |
+| **Any good-faith plan blocked** | Resistance to **§8**, a **GNA-led** open-hours policy, **mediation**, or **Twickenham** liaison — backup is **plan-agnostic** |
+
+**Principle:** Backup is **not** punishment for rejecting the author’s homework model alone. It activates when the **situation stays broken** and **no durable fix** is adopted.
+
+### 10.2 Track A — GNA member-based board change (most likely backup)
+
+**Target:** **Gordonston Neighborhood Association** leadership only — **not** the park trustee.
+
+| Step | Action |
+|------|--------|
+| **1** | Obtain **bylaws**, **articles**, **member list**, **last election minutes** (GA SOS if incorporated). |
+| **2** | Recruit **members in good standing** (dues, residency per bylaws) — **Gordonston + Twickenham + nearby**. |
+| **3** | Platform: **children-first**, **written park policy request** to trustee, **Twickenham liaison**, **transparent minutes/budget**, **de-escalate** police-default enforcement. |
+| **4** | **Special meeting** or **annual election** — remove/replace officers per bylaws + **O.C.G.A. § 14-3-808** (if member-governed nonprofit: members may remove directors **with or without cause** at noticed meeting). |
+| **5** | New board passes **GNA resolution** supporting cooperative fix and **§10.3** trustee pressure if trustee stalls. |
+
+**Rough odds (organized + quorum):** **30–45%** for new slate.
+
+**Limit:** New GNA board **cannot** fire trustee by vote — must **pressure** separately (**§10.3**).
+
+### 10.3 Track B — Trustee pressure via Chatham Tax Assessor (realistic backup)
+
+**Target:** **Park trustee** (deed holder) — **property tax exemption** on ~**7 acres**, not GNA’s corporate status.
+
+**2011 precedent (P, R1):** Assessor staff found park **did not and never would have qualified** as **“purely public charity”**; **Board of Assessors** could **remove** exemption. Outcome after **2011** = **open question** (**§11.1**).
+
+| Step | Action |
+|------|--------|
+| **1** | **Confirm current status** — Chatham qPublic / Tax Assessor: is park **still exempt**? Assessed value if not? |
+| **2** | **Evidence packet** — Residents Only signs, selective vs public events, Girl Scout access lapse, police-call pattern, refusal of neighbor volunteer offers (**§4**), **2011** staff finding. |
+| **3** | **File** — challenge exemption with **Chatham County Tax Assessor**; request **Board of Assessors** review. |
+| **4** | **Letter to trustee** (from new GNA or resident group): offer **off-ramp** — **written public-access / children’s policy** + basic **financial transparency** within **90 days**; else **assessor packet** filed. |
+
+**What assessor pressure is:**
+
+- **Financial** — full tax on trust land if exemption revoked.
+- **Narrative** — private club use **inconsistent** with decades of **charitable** treatment.
+
+**What it is not:**
+
+- A law that forces **transparency meetings** by statute.
+- Automatic **park opening** if exemption is revoked (trustee may pay tax and keep gates).
+
+**Negotiation frame (credible threat):**
+
+> Adopt a **published access policy** (Gordonston + Twickenham + scheduled children’s use) and **trust accounting** — or residents pursue **exemption revocation** using **2011 staff analysis** + **current exclusive-use** evidence.
+
+**Rough odds (if exemption still wrongly on books):** **25–40%** revocation; **30–50%** trustee negotiates before board hearing.
+
+**Ethics:** Frame as **“we will file a public assessor complaint”** — not personal payoff demands.
+
+### 10.4 Additional trustee pressure (secondary to assessor)
+
+Use **after** or **with** **§10.3** — especially if new **GNA** board exists:
+
+| Lever | Role |
+|-------|------|
+| **Maintenance leverage** | GNA-coordinated **volunteer labor** for park/cottage **paused** until trustee meeting |
+| **Girl Scout / Birthplace** | Invite council/Birthplace to **co-sponsor** events — restores **Low** institutional voice |
+| **Georgia AG charitable-trust inquiry** | Optional letter if private use + tax treatment **conflict** |
+| **Mediation** | Twickenham + Gordonston + trustee — **2011** offers failed partly for lack of **formal** process |
+| **Media** | “New GNA seeks to heal **2011** split” — trustee loses claim of **unanimous** neighborhood backing |
+| **Litigation threat** | Counsel letter re **trust construction** — **low** win odds, **medium** settlement pressure |
+
+### 10.5 Sequencing — move forward regardless
+
+```text
+Day 0: Pull GNA bylaws + assessor status (parallel)
+        ↓
+Cooperative outreach (§9): church, GNA, trustee — ANY viable fix
+        ↓
+    ┌───┴───┐
+ Agree      Resist (§10.1)
+    ↓           ↓
+ Pilot /      GNA member drive (§10.2)
+ policy          +
+                Assessor packet + trustee letter (§10.3)
+                    ↓
+            Trustee negotiates OR exemption fight OR both
+                    ↓
+Author/coalition proceeds with permitted programming either way
+```
+
+**Author commitment (V):** Do **not** stall the whole project because one gatekeeper says no. **Church-only** pilot possible if park blocked; **park-only** events if church slow; **GNA replacement + assessor** if leadership blocks **any** fix.
+
+### 10.6 What backup does and does not deliver
+
+| Realistic | Unlikely without more |
+|-----------|------------------------|
+| New **GNA** officers | Court **orders** Twickenham easement |
+| Trustee **negotiated** access rules | **Instant** public park like city-owned Daffin |
+| **Tax exemption** removed → **budget pain** | **Automatic** trustee removal |
+| **Public pressure** for transparency | Assessor caring about **minutes** alone |
+
+### 10.7 Odds summary (backup stack)
+
+| Outcome | Rough odds (organized + 2011 precedent + luck) |
+|---------|--------------------------------------------------|
+| **New GNA board** | **30–45%** |
+| **Trustee policy change** (avoid assessor fight) | **30–50%** with credible **§10.3** threat |
+| **Exemption revoked** | **25–40%** if still on rolls |
+| **Cooperative fix without backup escalation** | Higher if **§10** prep visible from **day one** |
+
+---
+
+## 11. Open questions
+
+1. **2011 tax exemption** — final Board of Assessors outcome for park trust?
+2. **Shuman reassignment** — official SCCPSS map of receiving schools and typical commute distances per zone (**R9** confirms closure; reassignment detail **?**).
+3. **Shuman facility** — district repurposing plan for **415 Goebel Ave** building after closure (**?**).
+4. **Shuman closure rationale** — board hearing minutes / reassignment map vs **R10–R11** test trends (**?**).
+5. **Iron gate vandalism** — incident date (**?**).
+6. **Residents Only sign damage** — any primary (**?**).
+7. **Church leadership** — appetite for **weekday classroom** use under **§8.5**?
+8. **Park trustees** — will **locked-gate children's sessions** fit deed discretion (**§3.2**)?
+9. **Insurance** — minimum **volunteer + premises** coverage without triggering **childcare licensing**?
+10. **Volunteer bench** — count from **Step 1** survey?
+11. **Playground rebuild** — existing GNA capital plan alignment?
+12. **GNA bylaws** — incorporation status, member removal thresholds, quorum (**§10.2**).
+13. **Assessor** — current park exemption on Chatham rolls (**§10.3**, **§11.1**).
+
+**Falsifiers for vision viability:** church **declines** all weekday use; trustees **reject** locked park sessions; **zero** volunteer commitments after outreach.
+
+**Falsifiers for backup leverage:** exemption **already revoked** with no reinstatement path; GNA **not** member-governed; **no quorum** at member meeting.
+
+---
+
+## 12. References
 
 | ID | Source |
 |----|--------|
 | **R1** | Conn, Lesley. *Juliette Low’s Gordonston park splitting neighbors.* Savannah Morning News. 2011-10-09. https://www.savannahnow.com/story/news/2011/10/09/juliette-lows-gordonston-park-splitting-neighbors/13419455007/ |
 | **R2** | Conn, Lesley. *Girl Scouts plant tree at Juliette Low Park to celebrate 100th anniversary.* Savannah Morning News. 2012-03-02. https://www.savannahnow.com/story/news/2012/03/02/girl-scouts-plant-tree-juliette-low-park-celebrate-100th-anniversary/13475844007/ |
 | **R3** | Historic Savannah Foundation. *Gordonston.* https://www.myhsf.org/what-we-do/historic-districts/gordonston/ |
-| **R4** | Wikipedia. *Juliette Gordon Low* — park dispute paragraph; cites **R1**. https://en.wikipedia.org/wiki/Juliette_Gordon_Low |
-| **R5** | Postwar Savannah local-history essay (Morningside Baptist / East Gwinnett **~1957** build). https://wisebloodunsw.wordpress.com/the-deep-south-in-the-1940s-and-1950s/ |
+| **R4** | Wikipedia. *Juliette Gordon Low*. https://en.wikipedia.org/wiki/Juliette_Gordon_Low |
+| **R5** | Postwar Savannah local-history essay (Morningside Baptist). https://wisebloodunsw.wordpress.com/the-deep-south-in-the-1940s-and-1950s/ |
 | **R6** | Christ’s Community Church. https://www.christs-community-church.com/ |
-| **R7** | Gordonston Art Fair site — park dedication **1926**, gates, cottage **1948**. https://gordonstonartfair.com/ |
-| **R8** | Cordery, Stacy A. *What I Wish I Could Prove* — Low gates at Wellesbourne / Birthplace. https://www.stacycordery.com/juliette-gordon-low/what-i-wish-i-could-prove/ |
+| **R7** | Gordonston Art Fair site. https://gordonstonartfair.com/ |
+| **R8** | Cordery, Stacy A. *What I Wish I Could Prove*. https://www.stacycordery.com/juliette-gordon-low/what-i-wish-i-could-prove/ |
+| **R9** | Savannah-Chatham County Public Schools (BoardDocs). *Public Hearing #1: Closure of Shuman Elementary School.* 2025-06-04. https://go.boarddocs.com/ga/sccs/Board.nsf/goto?id=DH5GUL458481&open= |
+| **R10** | SCCPSS. *CCRPI Scores Show Mixed Results for SCCPSS Schools.* 2025-11-13. https://www.sccpss.com/news/news-landing-page/~board/district-news/post/ccrpi-results-show-some-gains-and-declines-for-sccpss-schools |
+| **R11** | SCCPSS. *GaDOE Releases 2023-24 GMAS Scores, SCCPSS Students Show Improvement Across Subjects/Grade Bands.* 2024-07-26. https://www.sccpss.com/news/news-landing-page/~board/district-news/post/gadoe-releases-2023-24-gmas-scores-sccpss-students-show-improvement-across-subjectsgrade-bands |
 
 ---
 
 ## Limits and disclaimers
 
-**Not** legal advice on trespass, trust law, or tax exemption. **Not** a Chatham Clerk deed transcription — deed quotes are **as reported in R1**. **Individual identities** from **R1** are **omitted** in this dossier for **privacy**; consult **R1** for on-record names. **Church/school** section does **not** rely on **Google Maps** place labels. **Morningside Baptist** / **Christ’s Community** history from **R5** is **secondary**; confirm with **assessor** and **church archives** before citing build year as **primary**. **§6.6** repurposing scenarios are **analytic**, not **investment** or **land-use** advice; verify **zoning**, **covenant**, and **church governance** before any real-world action.
+**Not** legal advice on trust law, trespass, tax, **insurance**, assessor appeals, or **GNA** removal votes — **§8–§10** assume counsel review before action. **§8–§10** are **author vision/strategy (V)**, not church, GNA, or trustee policy. **Individual identities** from **R1** omitted here for **privacy**. **Make Gordonston Great Again** is a **working outreach name** — **non-partisan** by author intent; rename if confusion arises. **§10** backup may proceed **without** adopting **§8** homework model.
 
-**Last updated:** 2026-05-29 (**§6.5** children visibility; **§6.6** dual-use repurposing potential).
+**Last updated:** 2026-05-30 (**R10–R11** SCCPSS CCRPI / Milestones; reader essay school-score citations).

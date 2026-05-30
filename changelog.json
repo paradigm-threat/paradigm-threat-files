@@ -1,8 +1,103 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-29T17:06:07.842Z",
+    "date": "2026-05-30T11:48:33.859Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
+        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/make-gordonston-great-again.png",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again.png"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/make-gordonston-shuman-church-map.png",
+        "href": "/influence/controlled_opposition/make-gordonston-shuman-church-map.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      },
+      {
+        "status": "M",
+        "path": "page.md",
+        "href": "/page"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/make-gordonston-great-again.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/make-gordonston-shuman-church-map.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
+        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
+        "alt": "*Chrono Trigger* / Mars remote viewing — predictive-programming composite (author)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
+        "alt": "Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
+        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
+        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
+      },
+      {
+        "src": "/influence/conspiracy/embedding.jpg",
+        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
+      },
+      {
+        "src": "/influence/conspiracy/scientific_truth.jpg",
+        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
+        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
+      },
+      {
+        "src": "/cosmos/mars/mars_life.jpg",
+        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
+      },
+      {
+        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
+        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-29T17:06:06.000Z",
+    "message": "Add Gordonston park/church investigation and sync May roundup edits.",
     "files": [
       {
         "status": "M",
@@ -1210,32 +1305,6 @@
       {
         "src": "https://paradigmthreat.net/history/chronology/investigations/red-mercury-max-barclay-1996-cover.png",
         "alt": "Red Mercury — Max Barclay, 1996 (cover)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-23T13:55:51.000Z",
-    "message": "Add Max Barclay Red Mercury (1996) to Napoleon investigation §2.7.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
-        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/red-mercury-max-barclay-1996-cover.png",
-        "href": "/history/chronology/investigations/red-mercury-max-barclay-1996-cover.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/red-mercury-max-barclay-1996-cover.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/red-mercury-max-barclay-1996-cover.png",
-        "alt": "Red Mercury — Max Barclay, 1996 (cover supplied by Ari)"
       }
     ]
   }
