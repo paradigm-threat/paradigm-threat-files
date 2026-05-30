@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Generate US Letter one-page MGGA handout PDF.
+"""Generate US Letter one-page MGGA handout PDF (newspaper-style text wrap).
 
-Reads copy from influence/controlled_opposition/make-gordonston-great-again-onepager.source.md
-Embeds make-gordonston-great-again.png and a QR code to the full article.
+Reads make-gordonston-great-again-onepager.source.md
+Embeds hero + classroom vision images at fixed positions; body text wraps around float.
 
 Requirements: pip install fpdf2 Pillow 'qrcode[pil]'
 """
@@ -13,6 +13,7 @@ import io
 import re
 import sys
 import tempfile
+from dataclasses import dataclass
 from pathlib import Path
 
 try:
@@ -35,18 +36,26 @@ REPO = Path(__file__).resolve().parent.parent
 CO_DIR = REPO / "influence" / "controlled_opposition"
 SOURCE = CO_DIR / "make-gordonston-great-again-onepager.source.md"
 HERO = CO_DIR / "make-gordonston-great-again.png"
+CLASS_IMG = CO_DIR / "make-gordonston-great-again-class.png"
 OUT_PDF = CO_DIR / "make-gordonston-great-again-onepager.pdf"
 
-MARGIN = 0.35
+MARGIN = 0.38
 PAGE_W = 8.5
 PAGE_H = 11.0
 CONTENT_W = PAGE_W - 2 * MARGIN
 BOTTOM = PAGE_H - MARGIN
-FOOTER_H = 1.12
+FOOTER_H = 1.08
 FOOTER_TOP = BOTTOM - FOOTER_H
-COL_GAP = 0.2
-COL_W = (CONTENT_W - COL_GAP) / 2
+FLOAT_GAP = 0.14
 DPI = 150
+
+
+@dataclass
+class FloatBox:
+    x: float
+    y: float
+    w: float
+    h: float
 
 
 def ascii_safe(text: str) -> str:
@@ -65,8 +74,7 @@ def parse_source(path: Path) -> dict:
     data: dict = {
         "subtitle": "",
         "tagline": "",
-        "problems": [],
-        "solutions": [],
+        "paragraphs": [],
         "discovery": "",
         "email": "",
         "email_label": "",
@@ -74,9 +82,15 @@ def parse_source(path: Path) -> dict:
         "article_label": "",
     }
     section = None
+    body_buf: list[str] = []
     for line in text.splitlines():
         if line.startswith("## "):
+            if section == "body" and body_buf:
+                blob = " ".join(body_buf).strip()
+                if blob:
+                    data["paragraphs"] = [p.strip() for p in re.split(r"\n\s*\n", blob) if p.strip()]
             section = line[3:].strip().lower()
+            body_buf = []
             continue
         if section == "header" and ":" in line:
             key, _, val = line.partition(":")
@@ -86,24 +100,30 @@ def parse_source(path: Path) -> dict:
             data[key.strip()] = val.strip()
         elif section == "discovery" and line.strip():
             data["discovery"] += (" " if data["discovery"] else "") + line.strip()
-        elif section in ("problems", "solutions") and line.strip().startswith("- "):
-            data[section].append(line.strip()[2:].strip())
+        elif section == "body":
+            if line.strip():
+                body_buf.append(line.strip())
+            elif body_buf:
+                blob = " ".join(body_buf).strip()
+                if blob:
+                    data["paragraphs"].append(blob)
+                body_buf = []
+    if section == "body" and body_buf:
+        blob = " ".join(body_buf).strip()
+        if blob:
+            if data["paragraphs"]:
+                data["paragraphs"].append(blob)
+            else:
+                data["paragraphs"] = [blob]
+
     for key in ("subtitle", "tagline", "discovery", "email", "email_label", "article_url", "article_label"):
         if isinstance(data.get(key), str):
             data[key] = ascii_safe(data[key])
-    for key in ("problems", "solutions"):
-        data[key] = [ascii_safe(b) for b in data[key]]
+    data["paragraphs"] = [ascii_safe(p) for p in data["paragraphs"]]
     return data
 
 
-def split_bold_lead(text: str) -> tuple[str, str]:
-    m = re.match(r"\*\*(.+?)\*\*\s*(.*)", text, re.DOTALL)
-    if m:
-        return m.group(1), m.group(2).lstrip(" —").lstrip()
-    return "", text
-
-
-def prepare_hero(src: Path, max_w_in: float, max_h_in: float) -> tuple[Path, float, float]:
+def prepare_image(src: Path, max_w_in: float, max_h_in: float) -> tuple[Path, float, float]:
     with Image.open(src) as im:
         im = im.convert("RGB")
         w_px, h_px = im.size
@@ -112,8 +132,12 @@ def prepare_hero(src: Path, max_w_in: float, max_h_in: float) -> tuple[Path, flo
         scale = min(max_w_px / w_px, max_h_px / h_px)
         new_size = (max(1, int(w_px * scale)), max(1, int(h_px * scale)))
         im = im.resize(new_size, Image.Resampling.LANCZOS)
-        tmp = tempfile.NamedTemporaryFile(suffix=".jpg", delete=False)
-        im.save(tmp.name, "JPEG", quality=90, optimize=True)
+        suffix = ".jpg" if src.suffix.lower() != ".png" else ".png"
+        tmp = tempfile.NamedTemporaryFile(suffix=suffix, delete=False)
+        if suffix == ".jpg":
+            im.save(tmp.name, "JPEG", quality=90, optimize=True)
+        else:
+            im.save(tmp.name, "PNG", optimize=True)
         return Path(tmp.name), new_size[0] / DPI, new_size[1] / DPI
 
 
@@ -130,6 +154,63 @@ def make_qr(url: str) -> Path:
     return Path(tmp.name)
 
 
+def avail_width_at_y(y: float, margin: float, full_w: float, floats: list[FloatBox]) -> float:
+    w = full_w
+    for box in floats:
+        if box.y - 0.02 <= y < box.y + box.h + 0.02:
+            left_col = box.x - margin - FLOAT_GAP
+            if left_col > 1.0:
+                w = min(w, left_col)
+    return w
+
+
+def flow_paragraphs(
+    pdf: FPDF,
+    paragraphs: list[str],
+    y_start: float,
+    y_max: float,
+    margin: float,
+    full_w: float,
+    floats: list[FloatBox],
+    font_size: float = 9.2,
+    line_h: float = 0.145,
+    para_gap: float = 0.11,
+) -> float:
+    pdf.set_font("Helvetica", "", font_size)
+    y = y_start
+    for para in paragraphs:
+        if y >= y_max - line_h:
+            break
+        words = para.split()
+        line_words: list[str] = []
+        i = 0
+        while i < len(words) and y < y_max - line_h:
+            word = words[i]
+            trial = (" ".join(line_words + [word])).strip()
+            aw = avail_width_at_y(y, margin, full_w, floats)
+            if pdf.get_string_width(trial) <= aw:
+                line_words.append(word)
+                i += 1
+            else:
+                if line_words:
+                    pdf.set_xy(margin, y)
+                    pdf.cell(aw, line_h, " ".join(line_words), new_x=XPos.LMARGIN, new_y=YPos.NEXT)
+                    y = pdf.get_y()
+                    line_words = []
+                else:
+                    pdf.set_xy(margin, y)
+                    pdf.multi_cell(aw, line_h, word)
+                    y = pdf.get_y()
+                    i += 1
+        if line_words and y < y_max:
+            aw = avail_width_at_y(y, margin, full_w, floats)
+            pdf.set_xy(margin, y)
+            pdf.cell(aw, line_h, " ".join(line_words), new_x=XPos.LMARGIN, new_y=YPos.NEXT)
+            y = pdf.get_y()
+        y += para_gap
+    return y
+
+
 class OnePager(FPDF):
     def footer(self):
         pass
@@ -141,100 +222,88 @@ def render(data: dict) -> None:
     pdf.add_page()
 
     y = MARGIN
-
     pdf.set_xy(MARGIN, y)
-    pdf.set_font("Helvetica", "B", 22)
-    pdf.cell(CONTENT_W, 0.3, "Make Gordonston Great Again", new_x=XPos.LMARGIN, new_y=YPos.NEXT, align="C")
+    pdf.set_font("Helvetica", "B", 21)
+    pdf.cell(CONTENT_W, 0.28, "Make Gordonston Great Again", new_x=XPos.LMARGIN, new_y=YPos.NEXT, align="C")
     y = pdf.get_y() + 0.05
 
-    pdf.set_font("Helvetica", "I", 11)
+    pdf.set_font("Helvetica", "I", 10.5)
     pdf.set_xy(MARGIN, y)
-    pdf.cell(CONTENT_W, 0.17, data.get("subtitle", ""), new_x=XPos.LMARGIN, new_y=YPos.NEXT, align="C")
-    y = pdf.get_y() + 0.04
+    pdf.cell(CONTENT_W, 0.16, data.get("subtitle", ""), new_x=XPos.LMARGIN, new_y=YPos.NEXT, align="C")
+    y = pdf.get_y() + 0.03
 
-    pdf.set_font("Helvetica", "", 9)
+    pdf.set_font("Helvetica", "", 8.5)
     pdf.set_xy(MARGIN, y)
-    pdf.cell(CONTENT_W, 0.15, data.get("tagline", ""), new_x=XPos.LMARGIN, new_y=YPos.NEXT, align="C")
+    pdf.cell(CONTENT_W, 0.14, data.get("tagline", ""), new_x=XPos.LMARGIN, new_y=YPos.NEXT, align="C")
     y = pdf.get_y() + 0.1
 
-    header_bottom = y
-    discovery_reserve = 0.42
-    col_top_min = header_bottom + 0.1
-    hero_max_h = FOOTER_TOP - discovery_reserve - col_top_min - 0.15
-    hero_max_h = min(hero_max_h, 2.55)
-    hero_max_h = max(hero_max_h, 1.8)
-
-    hero_jpg, hero_w, hero_h = prepare_hero(HERO, CONTENT_W, hero_max_h)
+    hero_max_h = 1.95
+    hero_jpg, hero_w, hero_h = prepare_image(HERO, CONTENT_W, hero_max_h)
     try:
         hero_x = MARGIN + (CONTENT_W - hero_w) / 2
         pdf.image(str(hero_jpg), x=hero_x, y=y, w=hero_w, h=hero_h)
-        y = y + hero_h + 0.14
+        y += hero_h + 0.12
     finally:
         hero_jpg.unlink(missing_ok=True)
 
-    col_start = y
-    col_avail = FOOTER_TOP - discovery_reserve - col_start - 0.12
-    n_bullets = max(len(data["problems"]), len(data["solutions"]), 1)
-    heading_h = 0.2
-    slot = (col_avail - heading_h) / n_bullets
-    line_h = min(0.155, max(0.12, slot / 2.4))
-    item_gap = max(0.04, slot - line_h * 2.4)
+    pdf.set_xy(MARGIN, y)
+    pdf.set_font("Helvetica", "B", 11)
+    pdf.set_text_color(35, 55, 85)
+    pdf.cell(CONTENT_W, 0.18, "The neighborhood plan", new_x=XPos.LMARGIN, new_y=YPos.NEXT)
+    pdf.set_text_color(0, 0, 0)
+    y = pdf.get_y() + 0.08
 
-    def section_heading(title: str, x: float, y0: float) -> float:
-        pdf.set_xy(x, y0)
-        pdf.set_font("Helvetica", "B", 11)
-        pdf.set_text_color(35, 55, 85)
-        pdf.cell(COL_W, heading_h, title, new_x=XPos.LMARGIN, new_y=YPos.NEXT)
-        pdf.set_text_color(0, 0, 0)
-        return pdf.get_y() + 0.06
+    body_top = y
+    discovery_reserve = 0.38
+    body_bottom = FOOTER_TOP - discovery_reserve
 
-    def bullets(items: list[str], x: float, y0: float, width: float) -> float:
-        y_cur = y0
-        text_x = x + 0.18
-        text_w = width - 0.2
-        for item in items:
-            lead, rest = split_bold_lead(item)
-            body = f"{lead} - {rest}" if lead and rest else (lead or item)
-            pdf.set_xy(x + 0.06, y_cur)
-            pdf.set_font("Helvetica", "B", 9)
-            pdf.cell(0.1, line_h, chr(149), new_x=XPos.RIGHT)
-            pdf.set_xy(text_x, y_cur)
-            pdf.set_font("Helvetica", "", 9)
-            pdf.multi_cell(text_w, line_h, body)
-            y_cur = pdf.get_y() + item_gap
-        return y_cur
+    class_w = 2.55
+    class_max_h = min(2.35, body_bottom - body_top - 0.2)
+    class_jpg, class_dw, class_dh = prepare_image(CLASS_IMG, class_w, class_max_h)
+    class_x = MARGIN + CONTENT_W - class_dw
+    float_box = FloatBox(x=class_x, y=body_top, w=class_dw, h=class_dh)
+    floats: list[FloatBox] = [float_box]
 
-    left_x = MARGIN
-    right_x = MARGIN + COL_W + COL_GAP
+    try:
+        pdf.image(str(class_jpg), x=class_x, y=body_top, w=class_dw, h=class_dh)
+    finally:
+        class_jpg.unlink(missing_ok=True)
 
-    y_left = section_heading("WHAT IS BROKEN", left_x, col_start)
-    y_left = bullets(data["problems"], left_x, y_left, COL_W)
+    y = flow_paragraphs(
+        pdf,
+        data["paragraphs"],
+        body_top,
+        body_bottom,
+        MARGIN,
+        CONTENT_W,
+        floats,
+        font_size=9.0,
+        line_h=0.142,
+        para_gap=0.1,
+    )
 
-    y_right = section_heading("WHAT WE DO", right_x, col_start)
-    y_right = bullets(data["solutions"], right_x, y_right, COL_W)
+    disc_y = max(y + 0.06, FOOTER_TOP - discovery_reserve)
+    if disc_y > FOOTER_TOP - 0.2:
+        disc_y = FOOTER_TOP - discovery_reserve
 
-    y_body = max(y_left, y_right)
-    disc_y = FOOTER_TOP - discovery_reserve
-    if y_body < disc_y - 0.05:
-        pdf.set_draw_color(210, 210, 210)
-        pdf.line(MARGIN, disc_y - 0.06, MARGIN + CONTENT_W, disc_y - 0.06)
-
+    pdf.set_draw_color(200, 200, 200)
+    pdf.line(MARGIN, disc_y - 0.05, MARGIN + CONTENT_W, disc_y - 0.05)
     pdf.set_xy(MARGIN, disc_y)
-    pdf.set_font("Helvetica", "I", 8.5)
+    pdf.set_font("Helvetica", "I", 8)
     disc = data.get("discovery", "").replace("**", "")
-    pdf.multi_cell(CONTENT_W, 0.13, disc, align="C")
+    pdf.multi_cell(CONTENT_W, 0.12, disc, align="C")
 
-    pdf.set_fill_color(248, 248, 248)
+    pdf.set_fill_color(245, 245, 245)
     pdf.rect(MARGIN, FOOTER_TOP, CONTENT_W, FOOTER_H, style="F")
-    pdf.set_draw_color(160, 160, 160)
+    pdf.set_draw_color(150, 150, 150)
     pdf.line(MARGIN, FOOTER_TOP, MARGIN + CONTENT_W, FOOTER_TOP)
 
-    qr_size = 0.92
+    qr_size = 0.9
     qr_path = make_qr(data["article_url"])
     try:
         pdf.image(
             str(qr_path),
-            x=PAGE_W - MARGIN - qr_size - 0.05,
+            x=PAGE_W - MARGIN - qr_size,
             y=FOOTER_TOP + (FOOTER_H - qr_size) / 2,
             w=qr_size,
             h=qr_size,
@@ -242,23 +311,23 @@ def render(data: dict) -> None:
     finally:
         qr_path.unlink(missing_ok=True)
 
-    text_w = CONTENT_W - qr_size - 0.25
-    fy = FOOTER_TOP + 0.12
-    pdf.set_xy(MARGIN + 0.08, fy)
-    pdf.set_font("Helvetica", "B", 10)
+    text_w = CONTENT_W - qr_size - 0.2
+    fy = FOOTER_TOP + 0.1
+    pdf.set_xy(MARGIN + 0.06, fy)
+    pdf.set_font("Helvetica", "B", 9.5)
     label = data.get("email_label", "Volunteer or support the plan")
-    pdf.cell(text_w, 0.17, f"{label}:", new_x=XPos.LMARGIN, new_y=YPos.NEXT)
-    pdf.set_font("Helvetica", "B", 12)
-    pdf.set_x(MARGIN + 0.08)
-    pdf.cell(text_w, 0.22, data.get("email", ""), new_x=XPos.LMARGIN, new_y=YPos.NEXT)
+    pdf.cell(text_w, 0.16, f"{label}:", new_x=XPos.LMARGIN, new_y=YPos.NEXT)
+    pdf.set_font("Helvetica", "B", 11.5)
+    pdf.set_x(MARGIN + 0.06)
+    pdf.cell(text_w, 0.2, data.get("email", ""), new_x=XPos.LMARGIN, new_y=YPos.NEXT)
 
-    pdf.set_font("Helvetica", "B", 8)
-    pdf.set_x(MARGIN + 0.08)
-    pdf.cell(text_w, 0.14, data.get("article_label", "Full article") + ":", new_x=XPos.LMARGIN, new_y=YPos.NEXT)
-    pdf.set_font("Helvetica", "", 7)
+    pdf.set_font("Helvetica", "B", 7.5)
+    pdf.set_x(MARGIN + 0.06)
+    pdf.cell(text_w, 0.12, data.get("article_label", "Full article") + ":", new_x=XPos.LMARGIN, new_y=YPos.NEXT)
+    pdf.set_font("Helvetica", "", 6.8)
     short = data.get("article_url", "").replace("https://", "")
-    pdf.set_x(MARGIN + 0.08)
-    pdf.multi_cell(text_w, 0.11, short)
+    pdf.set_x(MARGIN + 0.06)
+    pdf.multi_cell(text_w, 0.1, short)
 
     pdf.output(str(OUT_PDF))
     print(f"Wrote {OUT_PDF} ({pdf.page_no()} page(s))")
@@ -269,9 +338,11 @@ def main() -> None:
         sys.exit(f"Missing source: {SOURCE}")
     if not HERO.is_file():
         sys.exit(f"Missing hero image: {HERO}")
+    if not CLASS_IMG.is_file():
+        sys.exit(f"Missing classroom image: {CLASS_IMG}")
     data = parse_source(SOURCE)
-    if not data["problems"] or not data["solutions"]:
-        sys.exit("Source must include problems and solutions bullets")
+    if not data["paragraphs"]:
+        sys.exit("Source must include ## body paragraphs")
     render(data)
 
 

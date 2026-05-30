@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-30T13:20:46.339Z",
+    "date": "2026-05-30T13:23:20.160Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-great-again-onepager.pdf",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again-onepager.pdf"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-great-again-onepager.source.md",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again-onepager.source"
+      },
+      {
+        "status": "M",
+        "path": "scripts/generate-mgga-onepager.py",
+        "href": "/scripts/generate-mgga-onepager.py"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-30T13:20:45.000Z",
+    "message": "Fill MGGA one-pager to full letter page height.",
     "files": [
       {
         "status": "M",
@@ -1138,23 +1161,6 @@
       {
         "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
         "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-25T12:19:43.000Z",
-    "message": "Update Ghost War article hero image.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/hollywood/ghost-war-the-antibody-phase.png",
-        "href": "/influence/hollywood/ghost-war-the-antibody-phase.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/hollywood/ghost-war-the-antibody-phase.png"
       }
     ]
   }
