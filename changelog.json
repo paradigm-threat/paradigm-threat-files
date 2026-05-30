@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-30T11:48:33.859Z",
+    "date": "2026-05-30T11:50:32.606Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "hooks/server/get.cs",
+        "href": "/hooks/server/get.cs"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-30T11:48:32.000Z",
+    "message": "Add Make Gordonston Great Again reader essay and dossier updates.",
     "files": [
       {
         "status": "M",
@@ -1284,28 +1297,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-23T14:07:49.000Z",
-    "message": "Add Red Mercury (Barclay 1996) investigation and wget mirror index.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md",
-        "href": "/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation"
-      },
-      {
-        "status": "A",
-        "path": "science/nukes/investigations/red-mercury-barclay-1996-novel-investigation.md",
-        "href": "/science/nukes/investigations/red-mercury-barclay-1996-novel-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/red-mercury-max-barclay-1996-cover.png",
-        "alt": "Red Mercury — Max Barclay, 1996 (cover)"
-      }
-    ]
   }
 ]
