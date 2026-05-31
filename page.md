@@ -257,6 +257,7 @@ How many humans?
 * [5G Population Control](/science/5g)
 * [Geoengineering Genocide](/science/geoengineering)
 * [Vaccine Genocide](/governance/genocide/vaccine)
+* [Vaccines, circumcision, and childhood consent — reader essay](/governance/genocide/vaccines-circumcision-childhood-consent-religion.md)
 * [Holodomor to Holocaust](/governance/genocide/holocaust)
 * [Palestine Genocide](/governance/genocide/palestine)
 * [Parasites cause cancer](https://livediseasefree.com/parasites-cause-cancer/)

@@ -3,8 +3,12 @@
 > **TL;DR:** In developing countries, the Bill & Melinda Gates Foundation represents “Deep State” banking and drug industry interests. They focus on undermining people’s health and well-being, effectively enslaving people to drugs, crisis capitalism, and war commerce. People cannot lift themselves out of hunger and extreme poverty under these impositions.
 ## [ENSURE MORE CHILDREN SURVIVE AND THRIVE! BOYCOTT VACCINES!](https://exposingvaccinegenocide.org/)
 
+**Full investigation:** [Vaccine injury, liability immunity, and the unknowable reckoning](https://paradigmthreat.net/governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.md) — COVID archive inventory (238 files), MMR/autism under repo autism frame, NVICP/PREP, factory-batch audit gap, RFK Jr. at HHS.
+
+**Reader essay:** [Vaccines and circumcision — two rites, one consent theft](https://paradigmthreat.net/governance/genocide/vaccines-circumcision-childhood-consent-religion.md) — vaccine religion metaphor, false-advertising warning, bodily consent, credobaptism logic.
+
 ```
-Note: This investigation is a work in progress. Check back soon for more updates!
+Note: Legacy hub + pamphlet excerpts. Structured dossier: investigations/ link above.
 ```
 
 ## THE PATH OUT OF POVERTY BEGINS WHEN YOUNG PEOPLE STOP GETTING VACCINATED, ACCESS SAFE HEALTHCARE, AND LEARN HOW AND WHY SOCIAL ENGINEERING BY THE “PHARMA-MEDIA” IS GENOCIDAL

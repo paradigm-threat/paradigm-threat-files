@@ -4,7 +4,7 @@ When the briefing was a game: the 1984 Mars session, *Chrono Trigger*, and a fil
 
 ![CIA 1984 Mars × *Chrono Trigger* — article hero figure](https://paradigmthreat.net/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png)
 
-**Updated:** 2026-05-28 (**forum** **stress** **test** **block** → **§6.2.1** **Gordonston** **sibling**)
+**Updated:** 2026-05-28 (**§5.7.1** **NSA** **Tonkin** **parallel** **/** **two-camp** **declass** **read**); **2026-05-28** (**forum** **stress** **test** **block** → **§6.2.1** **Gordonston** **sibling**)
 
 **Terminology:** This article uses **remote viewing** and **RV** only in the intelligence/STARGATE sense — **not** Iraqi dinar **revaluation** (also called “RV” in promoter forums; [Great Awakening / revaluation cluster](https://paradigmthreat.net/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md)).
 
@@ -121,6 +121,14 @@ The detail that still lands hardest is almost banal: the **file remains on cia.g
 
 A speculative historical read—again, **conjecture**—is that material like this **behaves as if something internal resisted total burial**: the “**good actor**” or **antibody** stratum inside large institutions may have understood a **Mars-class problem** (or its family of problems) **long before** the social web existed, may have fought for **partial daylight**, and may have lost the **headline war** once consolidated media had every incentive to **flatten or ridicule** the same motifs. If even a **sliver** of that story is true, the Reading Room entry is a **small** win: not enough to force consensus, but enough to leave **breadcrumbs** on the record.
 
+### NSA parallel — Tonkin declass fight (2000–2005)
+
+**Documented elsewhere:** [**NSA investigation § III**](/governance/war/investigations/nsa-investigation.md); [good-actor § II.I — Hanyok](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md). **NSA historian Robert Hanyok** finished the **Gulf of Tonkin** SIGINT audit in **early 2001**, then spent **~2002–2005** fighting **NSA management** before the **Nov–Dec 2005** public release — **five years** of **institutional combat** over **one war-trigger lie**. The Mars PDF’s scan banner is **`Approved For Release 2000/08/08`** — **months before** Hanyok’s study was even **complete**, and **years before** Tonkin SIGINT hit **nsa.gov**.
+
+**Author speculation (R):** If the **NSA antibody lane** was **already pushing** in the **2000** window — trying to break **absolute-level public deception** on **classified reality** — it is **plausible** (not proven) that **parallel pressure** also **eased** this **STARGATE** worksheet onto **cia.gov** while the **Tonkin bundle** stayed **blocked**. The **Mars file** may have **cleared easier**: **no living casus belli**, **ridicule** still contains it, **curriculum** untouched. **Tonkin** had to **rewrite Vietnam’s fuse** — so the **hard fight** took **half a decade**. That **asymmetry** is **data** for the repo’s **two-camp** frame: **war-state** vs **audit** is fought **file by file**, and **what the public may know about reality itself** is the **prize**.
+
+Full calendar table and falsifiers: [**Mars investigation §5.7.1**](https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md). **Timeline:** [2000–2005 CE: NSA Tonkin vs Mars declass fight](/timeline/evt-2000-2005-ce-nsa-tonkin-mars-declass-fight).
+
 The catastrophic failure mode is not that independent readers entertain strange hypotheses. It is a future where **primary traces disappear** and **narrative monopoly** wins completely. **As of today**, enough **clues** remain that a **motivated researcher** can still **assemble the puzzle** without a gatekeeper’s permission. **That survivability of evidence**—not instant belief—is a large part of **why this file matters**.
 
 ---
@@ -161,6 +169,6 @@ The **deeper** grievance, in the author’s voice, is **not** “forums won’t 
 
 ---
 
-Keywords: #Mars #ChronoTrigger #CIAReadingRoom #RemoteViewing #PredictiveProgramming #STARGATE #ParadigmThreatFiles #TwoWayPerception #MFEE #FictionAndDeclass #MinorityReport #Precrime #AssassinsCreed #Animus #Fringe #PsychoPass #XMen #Cerebro #Magneto #ProfessorX #WarOfTheWorlds #JeffWayne #OCReMix #ForumGovernance #CollectivePunishment #Liontamer
+Keywords: #Mars #ChronoTrigger #CIAReadingRoom #RemoteViewing #PredictiveProgramming #STARGATE #ParadigmThreatFiles #TwoWayPerception #MFEE #FictionAndDeclass #MinorityReport #Precrime #AssassinsCreed #Animus #Fringe #PsychoPass #XMen #Cerebro #Magneto #ProfessorX #WarOfTheWorlds #JeffWayne #OCReMix #ForumGovernance #CollectivePunishment #Liontamer #NSA #GulfOfTonkin #Hanyok #TwoCamps #DeclassificationFight
 
 **Substack:** [paradigmthreat2.substack.com/p/was-chrono-triggers-plot-based-on](https://paradigmthreat2.substack.com/p/was-chrono-triggers-plot-based-on)

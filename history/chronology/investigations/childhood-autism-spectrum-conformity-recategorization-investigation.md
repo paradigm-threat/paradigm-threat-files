@@ -954,6 +954,8 @@ Wikipedia **already** cites Brown 2016 as precedent rhetoric — this investigat
 | Soul / mind replacement in modernity | [soul-science-investigation](/history/chronology/investigations/soul-science-investigation.md) |
 | WWII fascism & mass institutions | [wwii-fascism-religious-apparatus](/governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) |
 | Slow ecological / social collapse | [slow-ecological-collapse](/history/chronology/investigations/slow-ecological-collapse-mfee-through-donner-era.md) |
+| **Vaccine injury / MMR-autism / liability immunity** (separate dossier — was §12 out-of-scope) | [vaccine-injury-liability-suppression-investigation](/governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.md) |
+| **Reader — vaccine religion, circumcision, bodily consent** | [vaccines-circumcision-childhood-consent-religion](/governance/genocide/vaccines-circumcision-childhood-consent-religion.md) |
 
 ---
 
@@ -984,7 +986,7 @@ Keywords: #Autism #AutismSpectrum #SelectiveMutism #Hyperlexia #PrivateSpeech #V
 - **§15 Flexner → K–12** is **pattern analogy**, not single-cause history.  
 - **§16** extreme regimes are **design-family** comparison — **not** moral equivalence to every US school.  
 - **§18 litter boxes:** **National litter policy** debunked (L1). **§18.1b psyop / prediction-fulfillment** and **§18.1c Angry Birds** are **author investigation theses** — not established fact; **kernel-truth** lane = documented dress-code / gender fights, **not** litter rollout. **§18.1c** does **not** allege proven DNC authorship of the hoax. **§18 Sandy Hook:** machinery-only; **staged** claims = **speculative** — see linked essay and **defamation** risk.  
-- **Anti-vaccine / “autism is only toxins”** claims are **out of scope** unless separately investigated with evidence tiers.  
+- **Anti-vaccine / “autism is only toxins”** claims were **out of scope** in the original draft — now covered in [**vaccine injury investigation**](/governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.md) (MMR timing, umbrella diagnosis, liability). This autism file still **does not** require vaccine causation for **Category 2** conformity frame.  
 - Repo does **not** recommend avoiding all professional support — recommends **appropriate** support that does not **require** conformity as precondition (§10).
 
 ## Investigator notes

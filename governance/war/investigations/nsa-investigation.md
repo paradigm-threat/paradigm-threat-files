@@ -5,7 +5,7 @@
 **Date:** 2026-05-26  
 **Status:** Ongoing — institutional history + author interpretive frame
 
-**Timeline chapters:** [CIA vs NSA: SIGINT Antibody, Tonkin, and *Tron* (1952–1982)](/timeline/evt-cia-vs-nsa-sigint-antibody-tron) · [1979: Religious Revival and Holy-War Geometry](/timeline/evt-1979-religious-revival-holy-war-geometry)
+**Timeline chapters:** [CIA vs NSA: SIGINT Antibody, Tonkin, and *Tron* (1952–1982)](/timeline/evt-cia-vs-nsa-sigint-antibody-tron) · [2000–2005: Tonkin declass fight vs Mars RV release](/timeline/evt-2000-2005-ce-nsa-tonkin-mars-declass-fight) · [1979: Religious Revival and Holy-War Geometry](/timeline/evt-1979-religious-revival-holy-war-geometry)
 
 **Companion:** [CIA investigation — antibody thesis](/governance/war/investigations/cia-investigation.md) § III; [good-actor investigation — Hanyok § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md); [1979 religious revival — holy-war geometry](/influence/religion/1979-religious-revival-investigation.md)
 
@@ -53,6 +53,21 @@ The **interagency fight over Tonkin** is the **documented hinge** for the antibo
 **Author read:** The NSA **helped start** Vietnam by letting (or participating in) a **lie get through** — then spent **thirty-plus years** trying to **expose** that lie. **Pentagon Papers** moved the public; **Hanyok** moved the **SIGINT record** itself. Even **2005 full declassification** did not break the **curriculum wall** — evidence the **antibody lane fights institutions**, not only enemies abroad.
 
 Full chronology: [good-actor investigation § II.I — Hanyok](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).
+
+### III.1 Parallel release window — Mars RV PDF (Aug 2000) vs Tonkin bundle (2005) (**author speculation**)
+
+| Document | Public surface | First visible release | Fight duration (author frame) |
+|----------|----------------|----------------------|------------------------------|
+| [**MARS EXPLORATION, 22 May 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) (`CIA-RDP96-00788R001900760001-9`) | **CIA** Reading Room / STARGATE batch | Scan stamp **`Approved For Release 2000/08/08`** | **Unknown** file-specific fight — **one date** on scan (**§5.7** [Mars investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)) |
+| **Hanyok** — *Skunks, Bogies, Silent Hounds, and the Flying Fish* | **NSA.gov** Tonkin SIGINT release | **Nov–Dec 2005** | Study **completed early 2001**; **~2002–2005** internal declass **battle** (**documented**) |
+
+**Author speculation (R):** The **NSA antibody lane** was **active in the same era** — trying to force **critically important** records public so citizens are **not deceived at full absolute level** on **how wars start** and **what intelligence was forged**. It is **plausible** (not demonstrated) that **parallel institutional pressure** also **influenced** or **coincided with** **STARGATE** / Reading Room releases the **CIA** was already **batch-clearing** — and that the **Mars worksheet** **cleared easier** than **Tonkin** because it **does not** **break a living political fuse**; **ridicule** still **contains** it. **Tonkin** required **~five years** after Hanyok’s audit because it **attacks the casus belli itself**.
+
+**Two-camp read:** The **fight over classified files** is a **fight over shared reality** — **war-state** (**CIA–MI6 infection lane**) vs **SIGINT audit / forced disclosure** (**NSA antibody lane**). That geometry is a **defining principle** of the interagency **two-camp** model in [good-actor investigation](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) — distinct from the **terror-franchise two-camp** table in § II, but **same institutional spine**.
+
+**Cross-read:** [**1984 Mars × *Chrono Trigger* — Disclosure posture**](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md); [Mars investigation **§5.7.1**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md); [**Timeline — 2000–2005 Tonkin vs Mars declass fight**](/timeline/evt-2000-2005-ce-nsa-tonkin-mars-declass-fight).
+
+**Tier:** Calendar facts **documented**; **NSA influenced Mars release** — **speculative** pending interagency FOIA on **2000–2001** STARGATE review.
 
 ---
 
