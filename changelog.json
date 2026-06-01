@@ -1,8 +1,90 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-05-31T14:19:49.187Z",
+    "date": "2026-06-01T23:24:30.519Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
+        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/magfest-community-governance-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/magfest-community-governance-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/make-gordonston-facebook-jack-taylor-admin-statement-2026.png",
+        "href": "/influence/controlled_opposition/make-gordonston-facebook-jack-taylor-admin-statement-2026.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/success-by-any-means-necessary.md",
+        "href": "/influence/controlled_opposition/success-by-any-means-necessary"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/make-gordonston-facebook-jack-taylor-admin-statement-2026.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
+        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
+        "alt": "*Chrono Trigger* / Mars remote viewing — predictive-programming composite (author)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
+        "alt": "Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/magfest-community-governance-investigation.png",
+        "alt": "MAGFest — community governance investigation (header)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-facebook-jack-taylor-admin-statement-2026.png",
+        "alt": "Jack Taylor admin statement — Gordonston on Facebook, May 2026"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
+        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
+        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-class.png",
+        "alt": "Make Gordonston Great Again — volunteer homework campus vision: children, volunteers, and study tools in the church education wing"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary.png",
+        "alt": "Success — by any means necessary — paying audience, black-box pipeline, NDAs, and leader accountability"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary-info.png",
+        "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-05-31T14:19:48.000Z",
+    "message": "Add vaccine injury dossier, consent reader essay, and related cross-links.",
     "files": [
       {
         "status": "M",
@@ -1050,64 +1132,6 @@
       }
     ],
     "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
-        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
-        "alt": "Call of Duty Modern Warfare — militainment investigation (Office / Krasinski operator arc)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png",
-        "alt": "Benghazi stand-down orders — Krasinski / *13 Hours* investigation header"
-      },
-      {
-        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
-        "alt": "9/11 predictive programming — media rehearsal before the public event (PP corpus)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.png",
-        "alt": "Trump-era Hollywood — predictive programming scorecard investigation (2016–2026)"
-      },
-      {
-        "src": "https://paradigmthreat.net/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.png",
-        "alt": "Netanyahu — faked death / Shiva rumors investigation (Iran flank, March 2026 window)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
-        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
-        "alt": "Iran war runner — Strait of Hormuz detail (spring 2026 theater map)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-25T13:50:26.000Z",
-    "message": "Use PP corpus 911 media image in Ghost War article.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/hollywood/ghost-war-the-antibody-phase.md",
-        "href": "/influence/hollywood/ghost-war-the-antibody-phase"
-      },
-      {
-        "status": "A",
-        "path": "influence/predictive_programming/predictive_programming_911_media.png",
-        "href": "/influence/predictive_programming/predictive_programming_911_media.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/predictive_programming/predictive_programming_911_media.png"
-      },
       {
         "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
         "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"

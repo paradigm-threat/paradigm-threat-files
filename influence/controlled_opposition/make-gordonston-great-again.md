@@ -8,7 +8,9 @@ For weeks Hollywood turned our blocks into a backlot: orange cones, semitrailers
 
 The cones and trucks did not stop children from playing around the rigs; daily life mostly continued. The wound was ethics — a children-first neighborhood used as a free set on taxpayer-backed police overtime and permits, celebrated online, with no consent form we ever signed, no posted community ledger, and almost none of the industry money routed into homework hours, park programming, or anything visible for the kids who live here year-round. Much of the spectacle sat on **Shuman Elementary’s** green and the **Goebel Avenue / E Gwinnett** corridor — the same child-scale block the district was emptying out.
 
-In May 2026 I said so in the Gordonston neighborhood Facebook group. I was banned before I could finish a reply. Appeals to admins went unanswered. I had named a moral mismatch — spectacle subsidized by the public, silence for residents who object — and the group treated that as politics I was not allowed to speak. The geometry is industry-wide: I call it the **silver platter** — a curated surface that celebrates the spectacle, removes the edge complaint instead of answering it, and hands the block to traveling industry on public subsidy. I document that pattern in my [**controlled opposition**](https://paradigmthreat.net/influence/controlled_opposition/page.md) essays. That episode is what made me sit down and write this page.
+In **May 2026** I said so in the private **Gordonston on Facebook** group (volunteer admins; not the **GNA**). A neighbor had replied in the thread; I was still writing my answer when an admin **deleted my post** about taxpayer-backed filming — **before I could finish that reply**. After that I was shut out of **that thread only**: I could still open the group, but **I could no longer see the conversation** (the thread had been up for some time; Facebook may have been **hiding** it rather than showing a clean “removed” state — I still call that a **thread ban**; the precise label may be that the admin **removed my visibility from the thread**). When I **posted about that**, I was **removed from the whole group**.
+
+**Jack Taylor** is the only person I name from that episode. He is the exception, not a blame ledger for every volunteer: he **posted the public admin statement** in the group (**May 2026**, comments later turned off), described **deleting** the filming complaint and **removing** me, and is the **identifiable actor** on the record — not an unnamed “mods did it.” His post cites group rules (**no personal attacks, no politics**) and classifies my filming post as **politics**; he reframes my removal as **“Your choice”** after I complained. That differs from my sequence (**delete → thread loss → group removal on complaint**). Full parallel accounts, screenshot, and repost-thread ledger: [**OC ReMix §6.2.1**](https://paradigmthreat.net/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md). Appeals to admins went unanswered. I had named a moral mismatch — spectacle subsidized by the public, silence for residents who object — and the group treated that as **politics** I was not allowed to speak. The geometry is industry-wide: I call it the **silver platter** — a curated surface that celebrates the spectacle, removes the edge complaint instead of answering it, and hands the block to traveling industry on public subsidy. I document the pattern in my [**controlled opposition**](https://paradigmthreat.net/influence/controlled_opposition/page.md) essays. That episode is what made me sit down and write this page.
 
 ---
 
@@ -127,7 +129,8 @@ The homework campus, park-access protocol, and coalition steps in this article a
 - [**Christ’s Community Church**](https://www.christs-community-church.com/) — published schedule and campus
 - [**Gordonston Art Fair**](https://gordonstonartfair.com/) — public events in the park; neighborhood history page
 - [**Controlled opposition hub**](https://paradigmthreat.net/influence/controlled_opposition/page.md) — silver-platter / moderation geometry across scenes
-- [**Success — by any means necessary**](https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary.md) — industry-wide black-box ethics; Gordonston Facebook ban (May 2026)
+- [**OC ReMix §6.2.1**](https://paradigmthreat.net/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) — Gordonston on Facebook (**May 2026**): three-step moderation, **Jack Taylor** admin statement (screenshot in dossier)
+- [**Success — by any means necessary**](https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary.md) — industry-wide black-box ethics; Gordonston Facebook sequence (May 2026)
 - [*You do not have to stop loving Cave Story*](https://paradigmthreat.net/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md) — **The silver platter and sibling rhymes** (commons labor → industry plate)
 
 ---
@@ -138,11 +141,11 @@ The homework campus, park-access protocol, and coalition steps in this article a
 
 **Evidence tiers, citations, and open questions** live in the [**Gordonston investigation**](https://paradigmthreat.net/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md) (**§4**, **R1**, **R9–R11**, **§8–§10**, **§8.8** church-host rules). **Homework campus (§8–§9)** is an author proposal in **discovery phase** — see **Discovery phase** above; not endorsed by Christ’s Community, park trustees, **GNA**, or SCCPSS.
 
-**Author opinion** in the body (park access, Twickenham isolation, Hollywood ethics, **2011** unresolved over legal fees) is not district or **GNA** policy. **Not proven:** racist intent behind locks, Facebook admin motive. **Privacy:** **2011** names omitted here; see investigation **R1**. Readers with assessor final orders, film permits, or Facebook exports may supply primaries for archive update.
+**Author opinion** in the body (park access, Twickenham isolation, Hollywood ethics, **2011** unresolved over legal fees) is not district or **GNA** policy. **Not proven:** racist intent behind locks; whether **Jack Taylor** acted alone on every moderation step. **Privacy:** **2011** park-feud names omitted here (investigation **R1**). **Named exception:** **Jack Taylor** — public admin statement + described actions (**§6.2.1**). Other Facebook participants in repost threads stay anonymous in the dossier. Readers with assessor final orders, film permits, or additional Facebook exports may supply primaries for archive update.
 
 Keywords: #Gordonston #JulietteGordonLow #Savannah #Homeschooling #Neighborhood #ControlledOpposition #GirlScouts #Twickenham #ShumanElementary #SCCPSS
 
-**Last updated:** 2026-05-30T17:00:00-04:00
+**Last updated:** 2026-06-01T12:00:00-04:00
 
 ---
 

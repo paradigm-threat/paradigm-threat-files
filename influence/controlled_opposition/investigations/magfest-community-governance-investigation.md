@@ -320,7 +320,7 @@ Borrowing the working model from [OC ReMix investigation **§6.2**](https://para
 |------------------------------------------------------|-----------------------------------------------|
 | **Commons → incorporation → key-holders** | A **named** external agent **signed** the **FoM** firings |
 | **Polarization** after scale (**FoM**, OCR **65360**, GDQ **trust fights**, *Homestuck* **canon** wars) | **W-2** “temperature” staff on every board |
-| **Hyperlocal** **“no politics”** **ban** **mid-reply** **on** **Hollywood** **street** **complaint** (**Gordonston** **Facebook**, **May 2026** — **§6.2.1** **sibling**) | **Proof** **neighborhood** **mods** **take** **studio** **money** |
+| **Hyperlocal** **“no politics”** **—** **delete** **OP**, **thread** **ejection**, **then** **group** **ban** **on** **Hollywood** **complaint** (**Gordonston** **on** **Facebook**, **May 2026** — **§6.2.1** **sibling**) | **Proof** **neighborhood** **mods** **take** **studio** **money** |
 | **Charity / nonprofit halo** while **governance** rots (**magFAST** / **Child’s Play** parallel to **FoM** season) | Universal **malice** or **conspiracy** without documents |
 | **No counterexample yet** in author search ([OCR **§6.2**](https://paradigmthreat.net/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) — **living search**, not theorem) | That **structural** capture **cannot** mimic paid guard dogs |
 
