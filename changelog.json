@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-02T12:04:52.008Z",
+    "date": "2026-06-02T12:09:16.047Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-draft-resignation-letter.md",
+        "href": "/influence/controlled_opposition/make-gordonston-draft-resignation-letter"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-02T12:04:50.000Z",
+    "message": "Add draft Gordonston volunteer resignation letter (not sent).",
     "files": [
       {
         "status": "A",
@@ -832,61 +845,6 @@
     "images": [
       {
         "src": "/influence/controlled_opposition/investigations/magfest-community-governance-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-26T13:41:19.000Z",
-    "message": "MAGFest: silver platter conclusion and Marinelli affair lane.",
-    "files": [
-      {
-        "status": "M",
-        "path": "blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack.md",
-        "href": "/blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/magfest-community-governance-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/magfest-community-governance-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
-        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.png",
-        "alt": "The Real Ghostbusters — ethereal noise, proton-pack kitsch, and the counter-program beneath the comedy"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/viruses-were-never-found-only-aetheric-disease.png",
-        "alt": "Viruses were never found in the lab — ætheric disease, fingerprint not genome pathogen"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png",
-        "alt": "When your child won’t fit the grade — schooling, conformity, and parent advice"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
-        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
-        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
-        "alt": "Iran 2026 war runner — Hormuz and strike map (investigation)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.png",
-        "alt": "Ship-shaped airships — Clonmacnoise to Pugachev, Category A vs B"
-      },
-      {
-        "src": "https://paradigmthreat.net/files/timeline/media/00.overview/prisca_sapientia.png",
-        "alt": "Prisca sapientia — ancient wisdom as epistemic foundation (timeline)"
       }
     ]
   }

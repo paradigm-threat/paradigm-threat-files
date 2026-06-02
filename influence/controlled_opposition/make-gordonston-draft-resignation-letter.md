@@ -6,7 +6,7 @@ This document exists **only** in case a stated **bare-minimum ultimatum** is **n
 **Why this draft exists now:** The author is **not** setting an arbitrary personal deadline. The next **Gordonston Art Fair** is expected **late 2026 or early 2027**. **Advertising**, **ticketing**, and **financial / payment processing** for that event typically begin **months** before the show. Anyone planning around **gordonstonartfair.com**, vendor intake, or the author’s prior web work needs **advance warning** — the author will **not** help with **transition** to a replacement stack, and will **not** volunteer that labor again **until** the neighborhood terms below change in substance.
 
 **Author:** Ari Asulin  
-**Draft date:** 2026-06-03  
+**Draft date:** 2026-06-04  
 **Related context:** [Make Gordonston Great Again](make-gordonston-great-again.md) · [Gordonston investigation](investigations/gordonston-park-church-campus-investigation.md) · [OC ReMix §6.2.1](investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) (Facebook moderation record)
 
 ---
@@ -51,6 +51,16 @@ I am **not** asking for a park with no rules. I am fine with **reasonable modern
 - Put it **in writing**, ideally alongside a **rebuild** that reads as reconciliation, not only new signs.
 
 I asked for repair, not a lawsuit. I am **no longer willing to live on the border of an apartheid**.
+
+### The history I was sold — and the history I learned
+
+When I first moved here, neighbors kept telling me how **wonderful** the history is. I **believed it**. I wanted to belong to a place that sounded like a children’s legend made real.
+
+Since then I **actually learned** the history — not only the brochure version. **Gordonston’s** children-first tradition **helped inspire the world**: **Juliette Gordon Low**, the park gift, troops and Brownies on this ground for decades. The record includes **many Black Scouts** and, at certain points in council history, **prominent Black leadership** in the **Girl Scouts** — not a footnote, part of what this corridor once carried openly.
+
+What I learned next was the **more recent** story — the one that seems to have **erased** much of what used to exist here. Over time, **Black children were no longer welcome** in the park culture that older press and older neighbors still invoke. That drift did not stay informal. It **hardened** — gate scenes, **Residents Only**, the **2011** fight that never finished — until exclusion read as a **permanent rule** for people on the wrong side of Gwinnett. I can only imagine what **Juliette Gordon Low** would think if she could see the neighborhood as it operates today: the worldwide children’s legacy on one side of the sign, **Twickenham’s children** on the other.
+
+I am **not** claiming every trustee or volunteer acts from malice. I **am** saying the **ethical** reason I cannot support this stack again is that the **living practice** betrays the **founding charter** neighbors still advertise. I hope this letter helps **others** understand that — not as politics, but as conscience. Repair the access, and you repair the story. Until then, my labor and my name do not belong on your fair, your website, or your closed groups.
 
 It is starting to seem that those things are **not possible** in this neighborhood — not because the will and the history are absent, but because **current leadership** has let this place become **divisive**, **fractured**, **intimidating**, and **petty** — a **system of control** that is **plausibly deniable**, often **laughed off**, and yet **documented**.
 
@@ -120,4 +130,5 @@ Respectfully,
 - **“Spouse war”:** Author phrase — consider whether to keep in letter to trustees vs. reserve for private ultimatum cover note.  
 - **Dog owners / single-incident pattern:** Not ultimatum tier; moral context only — same geometry as Twickenham “whole neighborhood defeated by one incident.” **2011** press dog-walker gate scene: dossier **R1**.  
 - **Mary Calder Cottage / deferred fix:** Author opinion — alienation delayed repair; not a demand in ultimatum.  
-- **Hollywood:** **Last straw** in letter only; full ethics lane in [MGGA](make-gordonston-great-again.md).
+- **Hollywood:** **Last straw** in letter only; full ethics lane in [MGGA](make-gordonston-great-again.md).  
+- **Black Scouts / Girl Scout history:** Author ethical read; expand with dossier primaries if letter is sent. **Not proven:** racist intent behind every trustee act — lived exclusion + **2011** press (**R1**).
