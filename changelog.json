@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-02T12:09:16.047Z",
+    "date": "2026-06-02T12:12:34.280Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-draft-resignation-letter.md",
+        "href": "/influence/controlled_opposition/make-gordonston-draft-resignation-letter"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-02T12:09:15.000Z",
+    "message": "Add history-and-ethics section to draft Gordonston resignation letter.",
     "files": [
       {
         "status": "M",
@@ -823,28 +836,6 @@
       {
         "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
         "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-26T13:48:02.000Z",
-    "message": "MAGFest investigation: header art and timeline silver-platter TL;DR.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/magfest-community-governance-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/magfest-community-governance-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/investigations/magfest-community-governance-investigation.png",
-        "href": "/influence/controlled_opposition/investigations/magfest-community-governance-investigation.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/investigations/magfest-community-governance-investigation.png"
       }
     ]
   }
