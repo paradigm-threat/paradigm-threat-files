@@ -290,6 +290,8 @@ Investigation [Limits and disclaimers](https://paradigmthreat.net/history/chrono
 
 Keywords: #Autodidactic #Homeschool #SelectiveMutism #Hyperlexia #PrivateSpeech #Vygotsky #Piaget #Treffert #COVID #DebunkCycle #LitterBoxHoax #AngryBirds #FlexnerReport #CollectivistGrading #CurriculumAudit #Watergate #GulfOfTonkin #Ellsberg #Hanyok #NSA #ParadigmThreatFiles
 
+**Substack:** [paradigmthreat2.substack.com/p/when-your-child-wont-fit-the-grade](https://paradigmthreat2.substack.com/p/when-your-child-wont-fit-the-grade)
+
 **Last updated:** 2026-05-25 (Hanyok / NSA Tonkin declassification fight; interagency-war context)
 
 ---

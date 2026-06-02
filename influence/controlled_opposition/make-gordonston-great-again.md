@@ -145,6 +145,8 @@ The homework campus, park-access protocol, and coalition steps in this article a
 
 Keywords: #Gordonston #JulietteGordonLow #Savannah #Homeschooling #Neighborhood #ControlledOpposition #GirlScouts #Twickenham #ShumanElementary #SCCPSS
 
+**Substack:** [paradigmthreat2.substack.com/p/make-gordonston-great-again](https://paradigmthreat2.substack.com/p/make-gordonston-great-again)
+
 **Last updated:** 2026-06-02T20:00:00-04:00
 
 ---

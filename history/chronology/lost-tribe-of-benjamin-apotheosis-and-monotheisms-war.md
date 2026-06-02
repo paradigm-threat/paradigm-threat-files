@@ -135,6 +135,8 @@ Twelve-tribes and Judah material is **institutional-memory chronology**, not bla
 
 Keywords: #LostTribeOfBenjamin #ApotheosisOfWashington #BenjaminFranklin #PalatineMoors #Fomenko #RusHorde #Monotheism #Gnosis #MemoryWar #ParadigmThreatFiles
 
+**Substack:** [USA was founded by the 'Lost' Tribe of Benjamin](https://open.substack.com/pub/paradigmthreat2/p/usa-was-founded-by-the-lost-tribe)
+
 **Last updated:** 2026-06-02
 
 ---

@@ -203,6 +203,8 @@ The modern **political divide** is **load-bearing**. Left and right fund differe
 
 Keywords: #AethericDisease #VirusIsolation #FingerprintNotBlueprint #GainOfFunction #PredictiveProgramming #Capcom #MegaManX2 #ResidentEvil #Roboenza #MaxwellAether
 
+**Substack:** [paradigmthreat2.substack.com/p/viruses-were-never-found-in-the-lab](https://paradigmthreat2.substack.com/p/viruses-were-never-found-in-the-lab)
+
 **Last updated:** 2026-05-17 (NY Post zombie-virus press note)
 
 ---

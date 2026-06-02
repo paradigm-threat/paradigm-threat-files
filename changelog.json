@@ -1,8 +1,173 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-02T13:56:33.579Z",
+    "date": "2026-06-02T14:02:27.497Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/genocide/vaccines-circumcision-childhood-consent-religion.md",
+        "href": "/governance/genocide/vaccines-circumcision-childhood-consent-religion"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md",
+        "href": "/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md",
+        "href": "/history/chronology/napoleon-corpses-dry-egypt-siberian-disease"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/when-your-child-wont-fit-the-grade.md",
+        "href": "/history/chronology/when-your-child-wont-fit-the-grade"
+      },
+      {
+        "status": "M",
+        "path": "influence/conspiracy/the-real-ghostbusters.md",
+        "href": "/influence/conspiracy/the-real-ghostbusters"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/ghost-war-the-antibody-phase.md",
+        "href": "/influence/hollywood/ghost-war-the-antibody-phase"
+      },
+      {
+        "status": "M",
+        "path": "science/health/viruses-were-never-found-only-aetheric-disease.md",
+        "href": "/science/health/viruses-were-never-found-only-aetheric-disease"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/governance/genocide/vaccines-circumcision-childhood-consent-religion.png",
+        "alt": "Vaccines and circumcision — two rites, one consent theft"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/genocide/circumcision.jpg",
+        "alt": "Circumcision — bodily covenant rite before consent"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.png)](https://paradigmthreat.net/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md",
+        "alt": "Apotheosis of Washington — Brumidi fresco callouts and one-spine synthesis (click through to full dossier)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
+        "alt": "Book page under investigation — page 60, “Palatine Moors,” George II gloss (Franklin Moors dossier)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-moors-book-quote-context-collage.png)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
+        "alt": "Franklin “Palatine Moors” — book page, misquote, Palatine–Moor–slave-empire context collage (Franklin Moors dossier)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
+        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png",
+        "alt": "Roytas 2024 — Can You Catch a Cold? (footnote 8 hunt)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-mercury-radiation.png",
+        "alt": "Two camps — red mercury (Napoleon) and radiation cure (Curie), Camp A vs Camp B cover-up"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.png",
+        "alt": "Ship-shaped airships — Clonmacnoise to Pugachev, Category A, Napoleon 1812, buried fleets"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png",
+        "alt": "When your child won’t fit the grade — schooling, conformity, and parent advice"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade-warfare.png",
+        "alt": "Mass schooling and warfare — collectivist grading, factory cohorts, fear-driven compliance"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.png",
+        "alt": "The Real Ghostbusters — ethereal noise, proton-pack kitsch, and the counter-program beneath the comedy"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
+        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
+        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-class.png",
+        "alt": "Make Gordonston Great Again — volunteer homework campus vision: children, volunteers, and study tools in the church education wing"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
+        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
+        "alt": "Call of Duty Modern Warfare — militainment investigation (Office / Krasinski operator arc)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png",
+        "alt": "Benghazi stand-down orders — Krasinski / *13 Hours* investigation header"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
+        "alt": "9/11 predictive programming — media rehearsal before the public event (PP corpus)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.png",
+        "alt": "Trump-era Hollywood — predictive programming scorecard investigation (2016–2026)"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.png",
+        "alt": "Netanyahu — faked death / Shiva rumors investigation (Iran flank, March 2026 window)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
+        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
+        "alt": "Iran war runner — Strait of Hormuz detail (spring 2026 theater map)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/viruses-were-never-found-only-aetheric-disease.png",
+        "alt": "Viruses were never found in the lab — ætheric disease, fingerprint not genome pathogen (article art)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.png",
+        "alt": "Virus isolation skeptical audit — dual-track dossier, fingerprint not blueprint (companion investigation art)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.png",
+        "alt": "Virus media predictive programming — evolution, genome causality, zombie etiology (companion investigation art)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/genocide/vaccine/zombie_virus.jpg",
+        "alt": "New York Post 2022 — scientists warn long-frozen zombie virus is public health threat amid permafrost thaw (press exhibit)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-capcom.png",
+        "alt": "Capcom virus predictive programming — Mega Man X2 to Resident Evil, outbreak conditioning (article art)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-02T13:56:32.000Z",
+    "message": "Add Benjamin tribe apotheosis dossier, reader article, and related corpus updates.",
     "files": [
       {
         "status": "M",
@@ -1081,18 +1246,5 @@
         "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-30T11:50:31.000Z",
-    "message": "fix(get hook): drop @relay/ipfs until atlanta2 gateway ships module",
-    "files": [
-      {
-        "status": "M",
-        "path": "hooks/server/get.cs",
-        "href": "/hooks/server/get.cs"
-      }
-    ],
-    "images": []
   }
 ]

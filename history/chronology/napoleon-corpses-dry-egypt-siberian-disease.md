@@ -120,6 +120,8 @@ Deeper tiers: [two-camps investigation](https://paradigmthreat.net/history/chron
 
 Keywords: #TwoCampsMedicine #GrosJaffa #FrenchWarMedicine #RedMercury #Mercury #RadiationCure #PerceivedInvincibility #VampirismLore #Semmelweis #TwelveMonkeys #Roytas2024 #MarieCurie #NapoleonCorpses #ParadigmThreatFiles
 
+**Substack:** [paradigmthreat2.substack.com/p/two-camps-of-medicine-jaffa-red-mercury](https://paradigmthreat2.substack.com/p/two-camps-of-medicine-jaffa-red-mercury)
+
 **Last updated:** 2026-05-23T09:35:00-04:00
 
 ---

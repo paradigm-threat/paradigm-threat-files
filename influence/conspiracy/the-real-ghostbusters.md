@@ -197,6 +197,8 @@ This page states a **working model** under **Paradigm Threat** assumptions: **te
 
 Keywords: #TheRealGhostbusters #EtherealNoise #Telepathy #MemoryEcho #StarGate #WorldsFair #Tartaria #WhiteHouse #TrumanRenovation #LincolnGhost #MEP #ParadigmThreatFiles #GhostbustersII
 
+**Substack:** [paradigmthreat2.substack.com/p/the-real-ghostbusters-the-ethereal](https://paradigmthreat2.substack.com/p/the-real-ghostbusters-the-ethereal)
+
 **Last updated:** 2026-05-18
 
 ---

@@ -98,6 +98,8 @@ I will not pretend neutrality. I believe the generations before me treated child
 
 Keywords: #Vaccine #Circumcision #ChildhoodConsent #BodilyIntegrity #FalseAdvertising #SuppressedInjury #NVICP #Schooling #Credobaptism #ParadigmThreatFiles
 
+**Substack:** [paradigmthreat2.substack.com/p/vaccines-and-circumcision-two-rites](https://paradigmthreat2.substack.com/p/vaccines-and-circumcision-two-rites)
+
 **Last updated:** 2026-05-31T14:30:00-04:00
 
 ---

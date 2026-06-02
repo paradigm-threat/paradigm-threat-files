@@ -182,6 +182,8 @@ This article states an **author thesis** at full voltage: interagency antibody w
 
 Keywords: #GhostWar #JackRyan #MI6 #Crown #PredictiveProgramming #Antibodies #GoodActor #911 #Iran #Starling #NSA #InteragencyWar
 
+**Substack:** [paradigmthreat2.substack.com/p/ghost-war-the-antibody-phase](https://paradigmthreat2.substack.com/p/ghost-war-the-antibody-phase)
+
 **Last updated:** 2026-05-26T14:00:00-04:00
 
 ---
