@@ -1,7 +1,5 @@
 # Franklin “Palatine Moors” Screenshot — Text Forensics, Colonial Context, and Book Hunt
 
-![Franklin Palatine Moors screenshot investigation — header](franklin-palatine-boors-moors-screenshot-investigation.png)
-
 > **TL;DR:** A circulated book page (page **60**, Franklin portrait) quotes *Observations Concerning the Increase of Mankind* (1751) with **“Palatine Moors,”** **“black”** Europeans, and a **“black German King George II”** gloss. Every standard edition has **“Palatine Boors”** and omits the George II line. The screenshot is **most likely a real printed book** (compilation / hidden-history genre); **finding that edition** is the open forensic step. Substantive claims about **Palatines inside the slave empire**, **Moor–Barbary–Atlantic links**, and **curriculum whitewash** stand **without** treating the misquote as Franklin’s ur-text.
 
 **Status:** Open  
@@ -109,11 +107,15 @@ Christian-adjacent and para-religious lanes often circulate similar pages: **Moo
 
 ## 4. Colonial and timeline cross-links
 
+![Franklin “Palatine Moors” — book page, misquote, Palatine–Moor–slave-empire context collage](franklin-palatine-moors-book-quote-context-collage.png)
+
 | Topic | Repo link |
 |-------|-----------|
 | Moor / Barbary / transatlantic slave trades | [/governance/slavery/slave-trades-and-moor-etymology-investigation.md](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
 | Horde fracture → extraction (investigative) | Same file, § Horde-Fracture Thesis |
 | American Revolution / 1775–76 context | [/governance/war/investigations/american-revolution-investigation.md](/governance/war/investigations/american-revolution-investigation.md) |
+| Apotheosis / Benjamin tribe / America embed | [/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md) |
+| **Reader article:** [Lost Tribe of Benjamin — fresco, Franklin, monotheism’s war](https://paradigmthreat.net/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md) | Essay voice; Moors fork + Fomenko divergences |
 | Fomenko vs author claims | [/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md) |
 | Redaction as project theme | [/history/chronology/history-qa/page.md](/history/chronology/history-qa/page.md) (First / Second / Third History) |
 | Europe white / non-white taxonomy | [/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) |
@@ -181,7 +183,6 @@ rg -i 'Palatine Moors|black German King|George the 2nd' ./downloads/
 
 - [ ] Book identification from cover/imprint  
 - [ ] OCR + grep of any candidate PDFs  
-- [ ] Optional short parent **article** (only if author names path) linking here from chronology hub  
 
 ---
 
@@ -205,5 +206,5 @@ Keywords: #Franklin #PalatineMoors #PalatineBoors #Observations1751 #BenjaminFra
 
 ## Investigator notes
 
-- Hero: `franklin-palatine-boors-moors-screenshot-investigation.png`; study copy: `franklin-palatine-boors-moors-screenshot.png`.  
+- Collage: `franklin-palatine-moors-book-quote-context-collage.png`; study copy (page 60): `franklin-palatine-boors-moors-screenshot.png`.
 - Columbia live URL may 403 bots; use Wayback: `https://web.archive.org/web/2020/https://www.columbia.edu/~lmg21/ash3002y/earlyac99/documents/observations.html`

@@ -284,6 +284,8 @@ The canonical order of events (Golden Age → collapse → Dark Ages) follows Da
 
 **Napoleon, plague, Egypt burial, Curie, Siberia** — lay article: [A history lesson on the time Napoleon carried around corpses](/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md); dossier: [Napoleon Egypt / Siberia / health investigation](/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md); plague/Gros forensics: [napoleon-plague screenshot investigation](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md).
 
+**Apotheosis of Washington, Benjamin tribe, America** — dossier: [Apotheosis of Washington — Benjamin tribe, America, Rus-Horde memory war](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md) (Brumidi 1865 fresco; 1492 embed; Franklin; Pugachev/1776; Reverse Crusades II–IV). **Reader essay:** [The Lost Tribe of Benjamin — fresco, Franklin, monotheism’s war](/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md).
+
 ![Sumerian Tablets - Cosmic Mountain and Wheel of Heaven](/history/chronology/saturn/cosmic_mountain.jpg?w=384)
 *The cosmic mountain celebrated around the world, seen as a pillar of fire and light rising along the world axis; as a radiant city or temple of heaven, as the prototype for any sacred space on earth.*
 

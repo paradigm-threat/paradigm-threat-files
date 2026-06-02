@@ -75,6 +75,88 @@ From [Napoleonic artillery / airship dossier](napoleonic-advanced-artillery-airs
 
 **Gap:** **Textbooks** **admit** **tethered** **balloons**; **ship-shaped** **free** **navigation** **fleet** **not** **in** **1812** **ORBAT** — **consistent** with **suppression** **thesis**, **not** **proof**.
 
+### 2.5 Unidentified NYC bird's-eye repost — sky craft over Manhattan (open anomaly)
+
+**Repo asset:** [`1855-new-york-city-birdseye-airship-starfort.png`](/governance/war/investigations/1855-new-york-city-birdseye-airship-starfort.png) — archived **2026-05-23**; JPEG payload **827×1000** with modern caption band at top.
+
+**Immediate source (documented):** **Facebook** **/** **social** **repost** **lane** — **CDN** **filename** **pattern** `710755859_1524337682389108_...` (**Meta** **asset** **ID**); **original** **poster** **page** **not** **identified** **in** **web** **search** **(2026-06-01)**.
+
+**Modern overlay (not period print):** Top **sans-serif** **caption** — *“1855 drawing of New York City!!!! Airship above the city. Starfort on island where Statue of Liberty now stands.”* — **added** **digitally** **on** **repost**; **absent** **from** **Currier** **/** **LOC** **catalog** **margins**.
+
+**Underlying print ID:** **Unidentified** **(2026-05-23** **revision)** — **earlier** **draft** **mistakenly** **equated** **this** **repost** **with** **Parsons** **/** **Currier** ***City of New York*** **(LOC** **90715981)**. **Side-by-side** **compare** **shows** **different** **composition** **and** **camera** **angle**; **see** **table** **below**.
+
+**What the repo image actually shows (composition fingerprint):**
+
+| Feature | Repo viral image | Parsons 1856 (LOC 90715981 / NYHS PR20.1856.1) | Bachmann 1855 (LOC 90707101 / MET 54.90.1062) |
+|---------|------------------|-----------------------------------------------|-----------------------------------------------|
+| **Scope** | **Tight** **on** **lower** **/** **mid** **Manhattan** | **Full** **island** **tip-to-horizon** **north** **panorama** | **Split** **NYC** **left** **+** **Brooklyn** **right** |
+| **Vantage** | **Elevated** **over** **Manhattan**; **Battery** **bottom-center**; **harbor** **opening** **below** | **Harbor** **south** **looking** **north**; **Brooklyn** **Heights** **lower-right** **shore** | **Harbor** **entrance**; **Governors** **Island** **dominates** **lower-right** |
+| **Fort Wood / Bedloe's** | **Large** **star** **fort** **lower-right** **foreground** **with** **trees** **+** **flag** | **Small** **harbor** **island** **—** **not** **the** **dominant** **lower-right** **element** | **Not** **the** **foreground** **focus** |
+| **Governors Island** | **Circular** **Castle** **Williams** **on** **right** **harbor** | **Present** **but** **different** **layout** **/** **scale** | **Prominent** **lower-right** **(closer** **match** **than** **Parsons,** **still** **not** **same** **frame)** |
+| **Castle Clinton / Garden** | **Circular** **Battery** **fort** **bottom-center** | **Castle** **Garden** **at** **Battery** **(different** **crop** **/** **angle)** | **Castle** **Garden** **keyed** **(item** **4)** |
+| **Sky craft** | **Large** **tan** **boat-hull** **upper-center** | **Absent** **on** **institutional** **scans** | **Absent** **on** **institutional** **scans** |
+
+**Close cousins (same era / genre — not compositional matches):**
+
+| Print | Catalog | Why it is *not* this image |
+|-------|---------|---------------------------|
+| Parsons / Currier ***City of New York***, c. 1856 | [LOC 90715981](https://www.loc.gov/item/90715981/); Conningham **#1103**; NYHS **PR20.1856.1** | **Full-island** **north** **view** — **Ward** **Maps** **/** **Google** **Image** **results** **user** **checked** **(different** **angle)** |
+| Bachmann ***Bird's Eye View of New-York & Brooklyn***, 1855 | [LOC 90707101](https://www.loc.gov/item/90707101/); MET **54.90.1062** | **Dual-city** **harbor** **layout**; **Governors** **Island** **foreground** **—** **not** **Manhattan-centric** **crop** |
+| Parsons ***View of New York…***, 1858 | [MET 63.550.281](https://www.metmuseum.org/en/art/collection/search/842437) | **Governor's** **Island** **vantage** **—** **different** **geometry** |
+
+**Category A read:** **Cannot** **apply** **until** **source** **lithograph** **is** **identified**. **Prominent** **sky** **hull** **has** **no** **official** **citation** **anywhere**; **may** **be** **wholly** **digital**.
+
+**Official citations for the print (not the sky craft) — reviewed 2026-05-23:**
+
+| Source | ID / ref | What they describe | Mentions sky craft? |
+|--------|----------|-------------------|---------------------|
+| [Library of Congress](https://www.loc.gov/item/90715981/) | **90715981**; call **PGA - Currier & Ives--City of New York (D size)** | Bird's-eye view; **Battery Park** foreground; **Brooklyn Heights** lower right; harbor **ships** | **No** |
+| [New-York Historical Society](https://visualizingnyc.org/objects/ny-017-abitrary-currier-birds-eye-1856/) via [Visualizing 19th-Century New York](https://visualizingnyc.org/) (Bard GCN) | **PR20.1856.1**; exhibit object **NY-017** | Hand-colored lithograph; Parsons **before** Harper's **Art Director** role; paired with **1876** chromolith **counterpart** | **No** |
+| [Old Print Shop](https://oldprintshop.com/product/161263?inventoryno=99526) | SKU **99526**; **Conningham #1103** | **33-key** landmarks; steamboats **Commonwealth**, **Metropolitan**, **Plymouth Rock**; **Castle Garden** emigrant depot | **No** |
+| [Fitz Henry Lane Online](http://fitzhenrylaneonline.org/catalogue/entry.php?id=90715981) | cross-ref **LOC 90715981** | Currier bird's-eye genre cross-link | **No** |
+| [Metropolitan Museum of Art](https://www.metmuseum.org/en/art/collection/search/842437) | **63.550.281** (*View of New York…*, Parsons **1858**) | **Generic** genre note: bird's-eyes rendered from **hilltop**, **steeple**, **hot-air balloon**, or **imaginary height** — **not** this object, **not** a depicted craft | **No** (genre only) |
+| [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/416824) | **63.550.283** (Parsons & Atwater **1876** *City of New York*) | **75-key** later issue; **Brooklyn Bridge** shown finished; harbor traffic | **No** |
+| [Arader Galleries](https://aradernyc.com/products/charles-parsons-1821-1910-lyman-atwater-1835-1891-the-city-of-new-york) | **Gale #1220** (**1876** issue) | Dealer description of **1876** reissue — **distinct** impression from **1856** **#1103** | **No** |
+
+**Sky-craft citation search (2026-05-23):** **No** museum, library, dealer, or catalog entry was found for **this** **image** **or** **its** **sky** **hull**. Searches of **Parsons** **1856**, **Bachmann** **1855**, and **related** **NYC** **bird's-eyes** **also** **turned** **up** **no** **airship** **descriptions**.
+
+**Institutional compare (repo vs known NYC bird's-eyes):**
+
+| Step | Result |
+|------|--------|
+| **Parsons 1856 NYHS scan** | [NY-017 large JPEG](https://visualizingnyc.org/wp-content/uploads/2014/08/NY-017_lg-1024x789.jpg) — **different** **angle** **/** **full-island** **layout** **(not** **same** **painting)** |
+| **Bachmann 1855 MET scan** | [MET DP327194](https://images.metmuseum.org/CRDImages/dp/original/DP327194.jpg) — **split** **harbor** **view**; **also** **not** **same** **painting** |
+| **Sky hull on repo copy** | **Large** **tan** **boat-hull** **upper-center** — **absent** **from** **both** **institutional** **masters** **above** |
+| **Google Image / dealer thumbnails** | **User-confirmed** **(2026-05-23):** **nothing** **online** **matches** **this** **exact** **frame** |
+
+**Verdict:**
+
+| Claim | Tier |
+|-------|------|
+| **Source** **lithograph** **identified** | **No** — **composition** **does** **not** **match** **Parsons** **1856** **or** **other** **checked** **catalog** **prints** |
+| **Fort** **Wood** **/** **1850s** **NYC** **bird's-eye** **genre** | **Plausible** **setting** **—** **Fort** **Wood** **existed** **1806–1811+**; **not** **proof** **of** **which** **print** |
+| **Prominent** **sky** **ship-hull** | **Uncataloged** — **no** **institutional** **match** **or** **citation**; **base** **artwork** **also** **not** **found** **without** **hull** |
+| **Social** **“1855”** **caption** | **Modern** **meme** **text** — **not** **primary** **source** |
+
+**Conclusion (2026-05-23):**
+
+1. **Image archived** in-repo (path above). Immediate provenance: **Facebook** **/** **social** repost; original poster **not** identified.
+2. **Source lithograph not identified.** This frame **does not match** Parsons 1856, Bachmann 1855, or other cataloged NYC bird's-eyes in LOC / NYHS / Met / dealer / Google Image search — **different composition and angle** from the prints commonly returned for “1855/1856 New York bird's eye.”
+3. **No official citation** for the sky object. No museum, library, or catalog-raisonné entry describes a **ship-hull** **/** **airship** in any print matching this composition.
+4. **What the repost shows (if taken at face value):** a mid-19th-century-style NYC bird's-eye — **Fort Wood** star fort on Bedloe's Island, harbor traffic, Manhattan grid — with a **prominent boat-hull silhouette** in the upper sky (**Category A** grammar if period-original).
+5. **Working tier:** **Completely unknown painting** **(author** **read,** **2026-05-23).** We **failed** **to** **find** **this** **composition** **with** **or** **without** **the** **sky** **hull** — **which** **undercuts** **the** **“paste** **hull** **onto** **known** **Parsons/Bachmann”** **theory** **(a** **paste** **would** **leave** **a** **findable** **base** **scan).** **Remaining** **reads:** **(a)** **uncataloged** **/** **undigitized** **period** **impression**; **(b)** **modern** **fabrication** **of** **the** **whole** **frame** **(not** **a** **simple** **crop** **edit).** **Investigation** **stays** **open** **—** **Reps,** **reverse-image,** **auction** **photos.**
+6. **Not Category A primary evidence** until a **named** **impression** **surfaces** **(institutional** **scan** **or** **physical** **copy)** **with** **the** **sky** **object** **on** **stone**.
+
+![Unidentified NYC bird's-eye repost (social caption claims 1855) — Fort Wood foreground; sky hull unverified; not matched to any cataloged lithograph](/governance/war/investigations/1855-new-york-city-birdseye-airship-starfort.png)
+
+**Do not merge with (common confusions):**
+
+- **Thaddeus** **S. C. Lowe**, ***City of New York*** **balloon** — wood engraving, **Frank Leslie's Illustrated Newspaper**, **1859** ([LOC 2007681717](https://www.loc.gov/item/2007681717/)) — **hydrogen** **envelope** **(§11** **exclude)**.
+- **Rufus** **Porter** **Aeroport** — **1850s** **NYC** **demos** **/** **ads**; **gas-bag** **dirigible** **grammar** ([New England Aviation History](https://newenglandaviationhistory.com/rufus-porters-aeroport-airship-1853/)).
+- **Pennington** ***New Era*** **aerial** **steam-ship** **lithograph**, **1850** ([LOC 2003655759](https://www.loc.gov/item/2003655759/)) — **separate** **promotional** **sheet**, **not** **this** **Manhattan** **panorama**.
+
+**Next research:** **Reverse-image** **trace** **of** **repo** **JPEG**; **scan** **1850s** **NYC** **bird's-eye** **catalogs** **(Reps** ***,** **Views** **and** **Viewmakers*)** **for** **Manhattan-centric** **view** **with** **Bedloe's** **Island** **foreground**; **do** **not** **assume** **Parsons** **90715981**.
+
 ---
 
 ## 3. Clonmacnoise → 1743–1748 → Pugachev — chronology table
@@ -85,6 +167,7 @@ From [Napoleonic artillery / airship dossier](napoleonic-advanced-artillery-airs
 | **Imperial break** | — | **1773–1775** | **Pugachev** **Rebellion** — **Siberian** **war** **chief**; **repo** **reads** **giants** **+** **guerrilla** **+** **artillery** ([mud flood hub](https://paradigmthreat.net/history/mudflood/page.md)) |
 | **Burial** | — | **post-1775** **pulse** | **Airships** **+** **urban** **fabric** **→** **mud** **strata** ([MFEE](https://paradigmthreat.net/history/mudflood/investigations/mfee-investigation.md)) |
 | **Echo** | **1896–97** | same **pattern** **slot** | **Canoe-cars** **under** **bags** — **Category A** **press** |
+| **Print** | **1855–56** *(social caption)* | **Unidentified** **NYC** **bird's-eye** **repost** | **Source** **print** **not** **found**; **sky** **hull** **uncited** **(§2.5)** |
 | **Echo** | **1799–1812** | **Napoleonic** **Reverse** **Crusade** | **Classified** **lift** **+** **healing** **weapons** — §5 |
 | **PP echo** | **1994** (*FF VI*) | **Vector** **=** **Tartaria** **empire** | **Buried** **Falcon** **airship** — §6 |
 
@@ -188,6 +271,7 @@ From [Final Fantasy I–VII PP investigation](https://paradigmthreat.net/influen
 | 9 | **FF** **VI** **Vector** **/** **Falcon** **=** **Tartaria** **/** **buried** **airship** **PP** | **Fiction** **+** **author** **read** |
 | 10 | **1897** **canoe-cars** **support** **Category A** **continuity** | **Press** **extracts** **+** **hoax** **layers** **documented** |
 | 11 | **FF** **+** **SoA** **+** **Verne** **+** **Edge** **Chronicles** **train** **ship-hull** **lift** **without** **UFO** **/** **blimp** **grammar** **(§11)** | **Fiction** **inventory** **+** **author** **PP** **read** |
+| 12 | **1855** **NYC** **bird's-eye** **repost** **—** **completely** **unknown** **painting;** **no** **public** **match** **with** **or** **without** **hull** **(§2.5)** | **Open** **anomaly** **—** **uncataloged** **artwork** |
 
 ---
 
@@ -201,6 +285,7 @@ From [Final Fantasy I–VII PP investigation](https://paradigmthreat.net/influen
 | Q4 | **Canoe-car** **1897** **cases** **—** **primary** **newspaper** **PDF** **set** **excluding** **debunked** **Liars’** **Club** | **Chronicling America**, **Nebraska** **History** **PDF** |
 | Q5 | **Casualty** **600k** **—** **modern** **demographic** **revision** **vs** **author** **abandonment** **frame** | **Military** **history** **monographs** |
 | Q6 | **Meusnier** **+** **ship-hull** **gondola** **drawings** **—** **naval** **architecture** **crossover**? | **Académie** **archives** |
+| Q7 | **Which** **1850s** **NYC** **bird's-eye** **is** **the** **base** **of** **the** **viral** **repost**? **Is** **sky** **hull** **period** **or** **digital**? | **Reverse-image** **+** **Reps** **catalog** **(§2.5)** |
 
 ---
 
@@ -211,7 +296,8 @@ From [Final Fantasy I–VII PP investigation](https://paradigmthreat.net/influen
 - [ ] **Clonmacnoise** **manuscript** **citation** **block**.
 - [ ] **1812** **memoir** **mine** **for** **“aerial** **ship”** **metaphor** **vs** **literal** **craft**.
 - [ ] ~~**Illustration** **optional**: **ship-hull** **under** **envelope** **diagram**~~ — **done:** hero **`ship-shaped-airships-earth-elevating-technology-investigation.png`**; **types** **infographic** **`ship-shaped-airships-earth-elevating-technology-investigation-types.png`** **(§11** **/** **§12** **gap)**
-- [ ] **Media** **corpus** **deep** **pass**: **primary** **quotes** **on** **lift** **mechanism** **per** **title** (**§11** **starter** **list** **done** **2026-05-23**).
+- [x] **Parsons** **1856** **+** **Bachmann** **1855** **compare** **(§2.5)** — **not** **same** **composition** **as** **repo** **repost**; **source** **print** **still** **unknown**.
+- [ ] **Identify** **base** **lithograph** **(reverse-image,** **Reps** ***,** **Views** **and** **Viewmakers*,** **auction** **photos)**.
 
 ---
 
@@ -306,6 +392,7 @@ Square **/** **Square Enix** **mainline** **and** **direct** **spin-offs** **are
 | **1783–1794** | **History** **(admitted** **floor)** | **Montgolfier** **/** **French** **Aerostatic** **Corps** **—** **balloon** **lane** **(Category A-excluded** **in** **§11** **media)** |
 | **1799–1812** | **History** **/** **author** | **Napoleonic** **Reverse** **Crusade** **+** **class-gated** **lift** **thesis** **(§5)** |
 | **1886** | **Literature** | **Verne** — ***Albatross*** **(screw** **aeronef** **vs** **balloonists)** |
+| **1856** | **Print** | **Parsons** **/** **Currier** ***City of New York*** **bird's-eye** **(§2.5)** |
 | **1896–1897** | **Press** | **Mystery** **airship** **wave** **—** **canoe-cars** **(§2.3)** **vs** **UFO** **lane** **(Category B)** |
 | **1987–1997** | **Games** | ***Final Fantasy*** **I–VII** **ship** **airship** **cluster** **(§11.1)** |
 | **1994** | **Games** | ***FF VI*** **—** **Vector** **Catastrophe** **+** **buried** **Falcon** **(§6)** |
@@ -340,6 +427,8 @@ Square **/** **Square Enix** **mainline** **and** **direct** **spin-offs** **are
 - [Wikipedia — Yemelyan Pugachev](https://en.wikipedia.org/wiki/Yemelyan_Pugachev)
 - [Wikipedia — French Aerostatic Corps](https://en.wikipedia.org/wiki/French_Aerostatic_Corps)
 - [Wikipedia — Clonmacnoise](https://en.wikipedia.org/wiki/Clonmacnoise) (annal ship tradition — verify dedicated article)
+- [Library of Congress — City of New York / C. Parsons (90715981)](https://www.loc.gov/item/90715981/)
+- [BibliOdyssey — Bird's Eye New York (Parsons 1856 note)](http://bibliodyssey.blogspot.com/2011/09/birds-eye-new-york.html)
 
 ---
 
@@ -349,4 +438,4 @@ Square **/** **Square Enix** **mainline** **and** **direct** **spin-offs** **are
 
 Keywords: #ShipShapedAirships #EarthLift #Pugachev #Clonmacnoise #Napoleon1812 #MudFlood #Tartaria #PredictiveProgramming #CategoryA #BreakawayTech
 
-**Last updated:** 2026-05-23T14:00:00-04:00
+**Last updated:** 2026-06-01T20:30:00-04:00

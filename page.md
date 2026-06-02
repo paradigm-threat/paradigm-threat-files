@@ -107,6 +107,8 @@ or *not* believing.
 #### History
 
 * [Prisca sapientia (timeline)](https://paradigmthreat.net/timeline/evt-prisca-sapientia) — Epistemic foundation: ancient wisdom degraded, not superseded; [reference doc](/docs/PRISCA_SAPIENTIA.md).
+* [Apotheosis of Washington — Benjamin tribe, America](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md) — Brumidi fresco anchor; 1492 Benjamin embed; Franklin; Reverse Crusades II–IV; Rus-Horde memory war.
+* [The Lost Tribe of Benjamin — fresco, Franklin, monotheism’s war](/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md) — Reader essay; Fomenko corroboration vs author spine; Moors text fork; manifesto close.
 * [Artemis II](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) — Faith test vs science milestone; staged-production readings; press patterns.
 * [Etana, the Sumerian King List, and "Wheels in the Sky" Testimony](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md) — Open: king list, sky wheels, Saturnian reinterpretation.
 * [Europe: white bloodline, complexion, whitewash](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) — Fomenko + author thesis; taxonomy of non-white labels; Atlantis/MFEE/Europe redoubt.
@@ -386,6 +388,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 * [The Incorrectly Scaled Universe](/cosmos/cosmology/the-incorrectly-scaled-universe.md) — Reader essay: curved-light aether thesis, cosmological over-scaling risk, and one-field connected-universe framing; links technical dossier.
 * [Consensus theater and the stalled physics pipeline](/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md) — Big Mysteries Survey press read: terminology parade, creation fork, audit vs waiting room; links consensus-theater dossier.
 * [A history lesson on the time Napoleon carried around corpses](/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md) — One long read: Napoleon, Curie, timeline, famines/genocide lane, captured medicine (no sequel post).
+* [The Lost Tribe of Benjamin — fresco, Franklin, monotheism’s war](/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md) — Capitol Apotheosis, Fomenko corroboration vs author spine, Palatine Moors fork, manifesto close; links [Apotheosis dossier](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md).
 
 ### Hubs and broad entry points
 

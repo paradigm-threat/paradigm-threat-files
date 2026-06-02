@@ -84,6 +84,7 @@ The American Revolution was **financially enabled** by France (loans, military s
 
 ## Related investigations
 
+- [Apotheosis of Washington — Benjamin tribe, America, Rus-Horde memory war](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md) — Pugachev vacuum / 1776 eastern front; federal supplantation; Reverse Crusades; fresco capstone.
 - [Franklin “Palatine Moors” screenshot](/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md) — 1751 Franklin immigration/complexion essay; Palatine Germans in slave-colonial Pennsylvania (authentic **Boors** text).
 
 ## Open Questions

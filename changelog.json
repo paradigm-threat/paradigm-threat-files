@@ -1,8 +1,473 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-02T12:14:48.347Z",
+    "date": "2026-06-02T13:56:33.579Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/09-11-investigation.md",
+        "href": "/events/false_flag/investigations/09-11-investigation"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md",
+        "href": "/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/genocide/vaccine/vaccine-meme.png",
+        "href": "/governance/genocide/vaccine/vaccine-meme.png"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/1855-new-york-city-birdseye-airship-starfort.png",
+        "href": "/governance/war/investigations/1855-new-york-city-birdseye-airship-starfort.png"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/american-revolution-investigation.md",
+        "href": "/governance/war/investigations/american-revolution-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/hormuz-tartarian-nexus-decoding-infographic-investigation.md",
+        "href": "/governance/war/investigations/hormuz-tartarian-nexus-decoding-infographic-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/hormuz-tartarian-nexus-decoding-infographic.png",
+        "href": "/governance/war/investigations/hormuz-tartarian-nexus-decoding-infographic.png"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/page.md",
+        "href": "/governance/war/investigations"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md",
+        "href": "/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md",
+        "href": "/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.png",
+        "href": "/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.png"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
+        "href": "/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation"
+      },
+      {
+        "status": "R",
+        "path": "history/chronology/investigations/franklin-palatine-moors-book-quote-context-collage.png",
+        "href": "/history/chronology/investigations/franklin-palatine-moors-book-quote-context-collage.png"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md",
+        "href": "/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md",
+        "href": "/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/page.md",
+        "href": "/history/chronology"
+      },
+      {
+        "status": "M",
+        "path": "history/mudflood/investigations/promised-land-investigation.md",
+        "href": "/history/mudflood/investigations/promised-land-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-draft-resignation-letter.md",
+        "href": "/influence/controlled_opposition/make-gordonston-draft-resignation-letter"
+      },
+      {
+        "status": "M",
+        "path": "page.md",
+        "href": "/page"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/genocide/vaccine/vaccine-meme.png"
+      },
+      {
+        "src": "/governance/war/investigations/1855-new-york-city-birdseye-airship-starfort.png"
+      },
+      {
+        "src": "/governance/war/investigations/hormuz-tartarian-nexus-decoding-infographic.png"
+      },
+      {
+        "src": "/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.png"
+      },
+      {
+        "src": "/history/chronology/investigations/franklin-palatine-moors-book-quote-context-collage.png"
+      },
+      {
+        "src": "/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.png",
+        "alt": "Ship-shaped airships through the ages — Clonmacnoise to Pugachev, Category A vs B, buried fleets"
+      },
+      {
+        "src": "/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation-types.png",
+        "alt": "From history to fiction — real ship-shaped airships, retranslated timeline, mud-flood burial, games as redacted memory, suppression cycle"
+      },
+      {
+        "src": "/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md))](franklin-palatine-moors-book-quote-context-collage.png",
+        "alt": "Franklin “Palatine Moors” book collage — misquote forensics and colonial context (primary asset in [Franklin dossier"
+      },
+      {
+        "src": "/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png",
+        "alt": "Book page under investigation — page 60, “Palatine Moors,” George II gloss"
+      },
+      {
+        "src": "/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.png",
+        "alt": "Prester John, Presbyter Ioannes, Rus–Horde Christian East — illustration"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.png)](https://paradigmthreat.net/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md",
+        "alt": "Apotheosis of Washington — Brumidi fresco callouts and one-spine synthesis (click through to full dossier)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
+        "alt": "Book page under investigation — page 60, “Palatine Moors,” George II gloss (Franklin Moors dossier)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-moors-book-quote-context-collage.png)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
+        "alt": "Franklin “Palatine Moors” — book page, misquote, Palatine–Moor–slave-empire context collage (Franklin Moors dossier)"
+      },
+      {
+        "src": "/history/chronology/tartaria/tartarian_structures.jpg",
+        "alt": "Tartarian neoclassical architecture exists world-wide"
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon2.jpg",
+        "alt": "Earth may have been a satellite of planet Saturn in primordial times"
+      },
+      {
+        "src": "/history/chronology/fomenko_books.jpg",
+        "alt": "Fomenko books - USA has Issues with British Maps"
+      },
+      {
+        "src": "/cosmos/cosmology/hollow_earth/hollow_earth_EU_model.jpg",
+        "alt": "Electric Universe - hollow earth EU model"
+      },
+      {
+        "src": "/history/chronology/saturn/brown_dwarf.jpg",
+        "alt": "Before the Golden Age began, (Proto-)Saturn was once a Brown Dwarf System floating through our galaxy."
+      },
+      {
+        "src": "/history/chronology/saturn/plasma_discharge_recorded2.jpg",
+        "alt": "Plasmoids in Southern Hemisphere before Golden Age"
+      },
+      {
+        "src": "/history/chronology/saturn/golden_age_hieronimus_bosch.jpg",
+        "alt": "The Garden of Earthly Delights by Hieronymus Bosch depicting the Golden Age"
+      },
+      {
+        "src": "/history/chronology/saturn/cosmic_mountain.jpg",
+        "alt": "Sumerian Tablets - Cosmic Mountain and Wheel of Heaven"
+      },
+      {
+        "src": "/history/chronology/saturn/saturn_configuration_vortex.jpg",
+        "alt": "Z-pinch aurora research - petroglyphs and ancient symbols"
+      },
+      {
+        "src": "/history/chronology/saturn/norse_yggdrasil.jpg",
+        "alt": "Yggdrasil - the world tree unifying the 9 worlds in Norse cosmology"
+      },
+      {
+        "src": "/history/chronology/saturn/golden_age_absu.jpg",
+        "alt": "Golden Age Absu plasma layers surrounding the planets"
+      },
+      {
+        "src": "/history/chronology/saturn/saturnian_configuration_north.jpg",
+        "alt": "Northern view of Saturnian configuration - Mars, Venus, Saturn, Jupiter and Sun"
+      },
+      {
+        "src": "/history/chronology/saturn/saturnian_configuration_south.jpg",
+        "alt": "Muspelheim - the southern realm of fire in Norse cosmology"
+      },
+      {
+        "src": "/history/chronology/saturn/golden_age_jacobs_ladder.jpg",
+        "alt": "The appearance of Priori-Mars as the Cosmic Mountain during the Golden Age was also remembered as *Jacob's Ladder*"
+      },
+      {
+        "src": "/history/chronology/pyramids/wormhole.jpg",
+        "alt": "Egyptian Worm-Hole as depicted in egyptian mythology"
+      },
+      {
+        "src": "/history/chronology/atlantis/atlantis_first_jerusalem.jpg",
+        "alt": "Atlantis - First Jerusalem built on the north poles of Mars and Earth"
+      },
+      {
+        "src": "/history/chronology/saturn/golden_age_ends_kronos_devours.jpg",
+        "alt": "Kronos (Planet Saturn) consumes his children"
+      },
+      {
+        "src": "/history/chronology/saturn/golden_age_ends_great_deluge.jpg",
+        "alt": "The Golden Age ends in a Great Deluge"
+      },
+      {
+        "src": "/history/chronology/pyramids/pyramids_around_the_world.png",
+        "alt": "Pyramids built around the world in ancient and modern times"
+      },
+      {
+        "src": "/history/chronology/saturn/cosmic_thunderbolt.jpg",
+        "alt": "The Cosmic Thunderbolt was a series of electric discharges between Jupiter and other planetary bodies"
+      },
+      {
+        "src": "/history/chronology/saturn/planet_narnia.jpg",
+        "alt": "Planets and The Narnia Chronicles"
+      },
+      {
+        "src": "/history/chronology/pyramids/history_pyramid_gates1.jpg",
+        "alt": "Pyramids were functioning Star Gates during the Dark Ages. They no longer function today."
+      },
+      {
+        "src": "/history/chronology/saturn/planet_venus_as_medusa.jpg",
+        "alt": "Planet Venus's Terrible Aspect remembered as **Medusa**"
+      },
+      {
+        "src": "/history/chronology/saturn/venus_and_mars.jpg",
+        "alt": "Venus and Mars battle in the Earth's sky - William Blake and Botticelli"
+      },
+      {
+        "src": "/history/chronology/saturn/mount_sinai.jpg",
+        "alt": "Jupiter was remembered as the Burning Bush on top of Mount Sinai"
+      },
+      {
+        "src": "/history/chronology/saturn/binding_of_isaac.jpg",
+        "alt": "Binding of Isaac is an astrological allegory of the Sun crossing the Zodiac from Taurus to Aries"
+      },
+      {
+        "src": "/history/chronology/saturn/sodom_and_gomorrah.jpg",
+        "alt": "Close encounters with planet Mars destroyed the cities of Sodom and Gomorrah"
+      },
+      {
+        "src": "/history/chronology/saturn/exodus.jpg",
+        "alt": "Exodus from the Pyramidal Empire"
+      },
+      {
+        "src": "/history/chronology/plagues_of_venus.jpg",
+        "alt": "The Ten Plagues were caused by the 'Pass-over' of Planet Venus in Comet form"
+      },
+      {
+        "src": "/history/chronology/saturn/chinese_dragon.jpg",
+        "alt": "Venus as the Chinese Dragon / Comet"
+      },
+      {
+        "src": "/history/chronology/saturn/sun_stands_still_joshua_bayeux.jpg",
+        "alt": "Bayeux Tapestry: The Sun Stands Still for Joshua"
+      },
+      {
+        "src": "/history/chronology/saturn/cathoderal.jpg",
+        "alt": "Cathedrals are Cathodes"
+      },
+      {
+        "src": "/history/chronology/saturn/prometheus.jpg",
+        "alt": "Prometheus was the planet Mars"
+      },
+      {
+        "src": "/history/chronology/christ/christ_is_the_sun7.jpg",
+        "alt": "Christ as the Sun"
+      },
+      {
+        "src": "/history/chronology/lunar_calendar.jpg",
+        "alt": "Fixed Lunar Calendar"
+      },
+      {
+        "src": "/history/chronology/fomenko_new_chronology.jpg",
+        "alt": "Fomenko's New Chronology - scientific coherence and empirical confirmation"
+      },
+      {
+        "src": "/history/chronology/anatoly_fomenko.jpg",
+        "alt": "Anatoly Timofeevich Fomenko - Russian mathematician and New Chronology theorist"
+      },
+      {
+        "src": "/history/chronology/christ/twelve_tribes_zodiac.jpg",
+        "alt": "12 Tribes of Israel/Disciples of Jesus are based on the 12 signs of the Zodiac"
+      },
+      {
+        "src": "/history/chronology/jerusalem/troy_1st_jerusalem.jpg",
+        "alt": "Troy was also called Yoros short for Ierosalim a.k.a. Jerusalem (#1) a.k.a. Tsar-Grad"
+      },
+      {
+        "src": "/history/chronology/christ/hairy_mary.jpg",
+        "alt": "Hairy Mary - painting of Christ's hairy giant mother from Body and Soul exhibit"
+      },
+      {
+        "src": "/history/chronology/christ/conjunction.jpg",
+        "alt": "Jupiter and Saturn conjunction - Star of Bethlehem, 840-year Crucifixion anniversary"
+      },
+      {
+        "src": "/governance/genocide/giants_faeries/giant_books.jpg",
+        "alt": "Books created by giant humans"
+      },
+      {
+        "src": "/history/maps/map_tartaria_hondius.jpg",
+        "alt": "Map of Tartaria: Path of Christ's Family"
+      },
+      {
+        "src": "/history/chronology/christ/hans_bol_crucifixion_1587.jpg",
+        "alt": "Painting by Hans Bol: The Crucifixion 1587"
+      },
+      {
+        "src": "/history/chronology/christ/crucifixion_descent_tintoretto_1565.jpg",
+        "alt": "Painting by Tintoretto: The Descent from the Cross"
+      },
+      {
+        "src": "/history/chronology/christ/tomb_of_christ_and_brother.jpg",
+        "alt": "Shingō is the location of what is purported to be the resting place"
+      },
+      {
+        "src": "/history/chronology/jerusalem/troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg",
+        "alt": "Protected by Ares by Antonio Raffaele Calliano, 1815"
+      },
+      {
+        "src": "/history/chronology/jerusalem/kremlin_2nd_jerusalem_boris_godunov.png",
+        "alt": "Jerusalem #2 was the Kremlin in Moscow and was never located in Palestine"
+      },
+      {
+        "src": "/history/chronology/tartaria/israel_fake_history.jpg",
+        "alt": "Throughout history, the Jews (those most loyal to the church's"
+      },
+      {
+        "src": "/history/chronology/tartaria/tartarian_empire_emerges_14th_century.jpg",
+        "alt": "15th Century: The Tartarian Empire Invades Europe, Africa and India"
+      },
+      {
+        "src": "/history/chronology/apocalypse/pompeii_painting.jpg",
+        "alt": "Pompeii brothel fresco - Roman culture"
+      },
+      {
+        "src": "/history/chronology/reformation/extraordinary_black_book.jpg",
+        "alt": "John Wade's Extraordinary Black Book - church and state abuses"
+      },
+      {
+        "src": "/history/chronology/apocalypse/black_death.jpg",
+        "alt": "Black Death - devils and flagellant revival, 14th century Tuscany"
+      },
+      {
+        "src": "/history/chronology/tartaria/painting_joan_of_arc_stake.jpg",
+        "alt": "Even the supporters of the traditional version admit that the Maid"
+      },
+      {
+        "src": "/history/chronology/tartaria/painting_samson_and_delilah_by_rubens.jpg",
+        "alt": "When creating the Scaligerian history all of these large-scale"
+      },
+      {
+        "src": "https://www.superprof.com/blog/declensions-latin/)",
+        "alt": "Latin is a scientific, authoritarian language with [many rules"
+      },
+      {
+        "src": "/history/chronology/apocalypse/apocalypse_vasnetsov.jpg",
+        "alt": "In the apocalyptic imaginary, the great struggle of Horus is"
+      },
+      {
+        "src": "/history/chronology/apocalypse/apocalypse_b_west.jpg",
+        "alt": "Death on the Pale Horse - Benjamin West 1796"
+      },
+      {
+        "src": "/history/chronology/tartaria/painting_ottoman_invades_vienna_1683.jpg",
+        "alt": "The Ottoman Army surrounds Vienna by Frans Geffels. The Ottoman"
+      },
+      {
+        "src": "/history/chronology/reformation/painting_german_peasant_war_1525.jpg",
+        "alt": "**The German Peasant’s War (1525)**. Resistance to the Empire led to"
+      },
+      {
+        "src": "/history/chronology/tartaria/galileo_facing_the_inquisition.jpg",
+        "alt": "Galileo was called to Bellarmine's residence and ordered, to abstain"
+      },
+      {
+        "src": "/history/chronology/tartaria/jews_vs_gentiles.jpg",
+        "alt": "The “burning of the Jews” depiction during Europe’s Black Death"
+      },
+      {
+        "src": "https://en.wikipedia.org/wiki/Catharism)",
+        "alt": "Catharism was a [dualist gnostic"
+      },
+      {
+        "src": "/history/chronology/tartaria/1552-khazar-rebellion.png",
+        "alt": "In the middle of the XVI century the Kazan kingdom – aka the"
+      },
+      {
+        "src": "/history/chronology/tartaria/oprichniki_bish.jpg",
+        "alt": "The oprichnina was a state policy implemented by Tsar Ivan the"
+      },
+      {
+        "src": "https://en.wikipedia.org/wiki/King_James_Only_movement)",
+        "alt": "The [King James Only"
+      },
+      {
+        "src": "/history/chronology/tartaria/eight_pointed_star_and_crescent.jpg",
+        "alt": "Coins with Eight pointed star and crescent symbol"
+      },
+      {
+        "src": "https://en.wikipedia.org/wiki/Batoh_massacre)",
+        "alt": "The [Batih Massacre"
+      },
+      {
+        "src": "/history/chronology/fomenko_timeline_1633_1725.gif",
+        "alt": "Inter-religious dispute Judaism-Christianity 1633-1725"
+      },
+      {
+        "src": "/history/chronology/apocalypse/great_comet_of_1665.jpg",
+        "alt": "Great Comet of 1665 - Stanisław Lubieniecki's Theatrum cometicum"
+      },
+      {
+        "src": "/history/mudflood/investigations/promised-land-investigation.png",
+        "alt": "Promised land investigation"
+      },
+      {
+        "src": "/influence/conspiracy/embedding.jpg",
+        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
+      },
+      {
+        "src": "/influence/conspiracy/scientific_truth.jpg",
+        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
+        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
+      },
+      {
+        "src": "/cosmos/mars/mars_life.jpg",
+        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
+      },
+      {
+        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
+        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-02T12:14:47.000Z",
+    "message": "Retire atlanta2 from investigation push instructions.",
     "files": [
       {
         "status": "M",
@@ -629,100 +1094,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-30T11:48:32.000Z",
-    "message": "Add Make Gordonston Great Again reader essay and dossier updates.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
-        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
-        "href": "/influence/controlled_opposition/make-gordonston-great-again"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/make-gordonston-great-again.png",
-        "href": "/influence/controlled_opposition/make-gordonston-great-again.png"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/make-gordonston-shuman-church-map.png",
-        "href": "/influence/controlled_opposition/make-gordonston-shuman-church-map.png"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/page.md",
-        "href": "/influence/controlled_opposition"
-      },
-      {
-        "status": "M",
-        "path": "page.md",
-        "href": "/page"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/make-gordonston-great-again.png"
-      },
-      {
-        "src": "/influence/controlled_opposition/make-gordonston-shuman-church-map.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
-        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
-        "alt": "*Chrono Trigger* / Mars remote viewing — predictive-programming composite (author)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
-        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
-        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
-      },
-      {
-        "src": "/influence/conspiracy/embedding.jpg",
-        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
-      },
-      {
-        "src": "/influence/conspiracy/scientific_truth.jpg",
-        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
-        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
-      },
-      {
-        "src": "/cosmos/mars/mars_life.jpg",
-        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
-      },
-      {
-        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
-        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
-      }
-    ]
   }
 ]

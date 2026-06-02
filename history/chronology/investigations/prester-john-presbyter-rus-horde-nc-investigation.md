@@ -65,6 +65,7 @@ Standard history: [Presbyterianism](https://en.wikipedia.org/wiki/Presbyterianis
 
 - Timeline: [13th c. Russian Horde / Tartarian empire](https://paradigmthreat.net/timeline/evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e), [Romanov seizure / fracturing](https://paradigmthreat.net/timeline/evt-romanov-seizure-fracturing-of), [Slave trades and Horde fracture](https://paradigmthreat.net/timeline/evt-slave-trades-and-the-horde-fracture)
 - [Two branches: Fomenko vs author](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md)
+- [Apotheosis of Washington — Benjamin tribe, America](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md) — **author elder-system spine supersedes** § “Presbyterianism as Reformation product” for Native/Benjamin/America thread; revision of this file optional follow-up
 - Religious edition README + intro: `paradigm-threat-timeline/content-editions/modern-religious/`
 
 ## Open checklist

@@ -119,13 +119,17 @@ On this map, the cleanest **operative** question for post-9/11 franchises is not
 
 **File:** [`09-11-investigation.md`](./09-11-investigation.md)
 
-- **Core:** "9/11 was a false flag executed *against* the Deep State"
+- **Core:** "9/11 was a false flag executed *against* the Deep State" — **antibody psyop** (televised demolition + narrative reset)
+- **Minimal-/zero-mass-civilian-death thesis:** **substantial weight** — official victim counts **not accepted at face value**; SSDI/DMF gaps logged ([09-11 § Daily mortality & SSDI](./09-11-investigation.md))
+- **Empty / partial flights:** aligns with **pro-NSA**, **pro-Israel**, **Bush**-aligned antibody board — see [09-11 § Empty Flights](./09-11-investigation.md)
+- **Silverstein insurance:** **opportunism** on pre-known catastrophe window — court win as **signature**, not moral proof
+- **War on Terror:** **deception**, possibly **necessary** to antibody counter-script
 - **Three aims:** (1) pre-empt slow-burn Holy War → public War on Terror; (2) destroy CIA autonomy via **WTC 7**; (3) predictive programming as signal to figureheads—not to sink fear
 - **WTC 7 keystone:** CIA clandestine NY station (floor 25); severed **CIA–ayatollah pipeline**
 - **Twin Towers:** built 1966–1973 as possible long-planned targets; early execution = sabotage of intended narrative
 - **Table:** Deep State slow-and-go vs good-actor counter (WW3 vs War on Terror; covert infiltration vs public state war)
 - **Gulf of Tonkin parallel:** same architecture, inverted attribution
-- **Likelihood tiers:** WTC 7 as CIA facility = **certain**; deliberate decapitation = **possible**; full good-actor thesis = **speculative**
+- **Likelihood tiers:** WTC 7 as CIA facility = **certain**; deliberate decapitation = **possible**; full good-actor antibody psyop = **high internal weight** (2026-05-31); official victim count as packaged = **rejected as default** — see [09-11 § Minimal-/Zero-Death](./09-11-investigation.md)
 
 ### B. CIA / NSA / Antibody (institutional investigation)
 
