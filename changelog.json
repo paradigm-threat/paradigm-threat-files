@@ -1,8 +1,43 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-02T02:12:05.725Z",
+    "date": "2026-06-02T02:17:32.083Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-facebook-jack-taylor-admin-statement-2026.png",
+        "alt": "Jack Taylor admin statement — Gordonston on Facebook, May 2026"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
+        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
+        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-class.png",
+        "alt": "Make Gordonston Great Again — volunteer homework campus vision: children, volunteers, and study tools in the church education wing"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-02T02:12:03.000Z",
+    "message": "Document Gordonston ban as purge and block on return, not voluntary exit.",
     "files": [
       {
         "status": "M",
@@ -1017,137 +1052,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-26T11:50:55.000Z",
-    "message": "Add NSA investigation with Tron theory and cross-link corpus.",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
-        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
-      },
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md",
-        "href": "/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cia-investigation.md",
-        "href": "/governance/war/investigations/cia-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/nsa-investigation.md",
-        "href": "/governance/war/investigations/nsa-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/page.md",
-        "href": "/governance/war/investigations"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/ghost-war-the-antibody-phase.md",
-        "href": "/influence/hollywood/ghost-war-the-antibody-phase"
-      },
-      {
-        "status": "M",
-        "path": "influence/predictive_programming/page.md",
-        "href": "/influence/predictive_programming"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
-        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png",
-        "alt": "Call of Duty Modern Warfare — militainment investigation (Office / Krasinski operator arc)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png",
-        "alt": "Benghazi stand-down orders — Krasinski / *13 Hours* investigation header"
-      },
-      {
-        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
-        "alt": "9/11 predictive programming — media rehearsal before the public event (PP corpus)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.png",
-        "alt": "Trump-era Hollywood — predictive programming scorecard investigation (2016–2026)"
-      },
-      {
-        "src": "https://paradigmthreat.net/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.png",
-        "alt": "Netanyahu — faked death / Shiva rumors investigation (Iran flank, March 2026 window)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
-        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
-        "alt": "Iran war runner — Strait of Hormuz detail (spring 2026 theater map)"
-      },
-      {
-        "src": "/influence/predictive_programming/predictive_programming.png",
-        "alt": "Predictive Programming"
-      },
-      {
-        "src": "/influence/predictive_programming/comics.jpg",
-        "alt": "9/11 predictive programming in comics"
-      },
-      {
-        "src": "/influence/predictive_programming/doom.jpg",
-        "alt": "Doom — quantum teleport between Earth and Mars"
-      },
-      {
-        "src": "/influence/predictive_programming/mars_women.jpg",
-        "alt": "Mars Needs Women — breeding programme theme"
-      },
-      {
-        "src": "/influence/predictive_programming/stargate.jpg",
-        "alt": "Stargate — pyramid as portal"
-      },
-      {
-        "src": "/influence/predictive_programming/wotw.jpg",
-        "alt": "War of the Worlds — heat ray, red weed, Mars inversion"
-      },
-      {
-        "src": "/influence/predictive_programming/simpsons_space_laser.jpg",
-        "alt": "The Simpsons — 9/11 imagery"
-      },
-      {
-        "src": "/influence/predictive_programming/mars_movies.jpg",
-        "alt": "Mars movies"
-      },
-      {
-        "src": "/influence/predictive_programming/marvin.jpg",
-        "alt": "Marvin the Martian"
-      },
-      {
-        "src": "/influence/predictive_programming/marvin2.jpg",
-        "alt": "Marvin the Martian (2)"
-      },
-      {
-        "src": "/influence/predictive_programming/megaman.jpg",
-        "alt": "Mega Man"
-      },
-      {
-        "src": "/influence/predictive_programming/nazis_hollow_earth.jpg",
-        "alt": "Nazis in Hollow Earth"
-      },
-      {
-        "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
-        "alt": "Fire on the Mountain"
-      }
-    ]
   }
 ]
