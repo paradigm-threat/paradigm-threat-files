@@ -1,8 +1,43 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-02T02:17:32.083Z",
+    "date": "2026-06-02T02:18:39.822Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
+        "href": "/influence/controlled_opposition/make-gordonston-great-again"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-facebook-jack-taylor-admin-statement-2026.png",
+        "alt": "Jack Taylor admin statement — Gordonston on Facebook, May 2026"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
+        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
+        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-class.png",
+        "alt": "Make Gordonston Great Again — volunteer homework campus vision: children, volunteers, and study tools in the church education wing"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-02T02:17:31.000Z",
+    "message": "Note Gordonston Facebook ban cut off cat rescue and other programs.",
     "files": [
       {
         "status": "M",
@@ -1024,33 +1059,5 @@
         "alt": "Fire on the Mountain"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-26T12:43:49.000Z",
-    "message": "Add MAGFest investigation with pro-corporate trend evidence table.",
-    "files": [
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/investigations/magfest-community-governance-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/magfest-community-governance-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/page.md",
-        "href": "/influence/controlled_opposition"
-      }
-    ],
-    "images": []
   }
 ]
