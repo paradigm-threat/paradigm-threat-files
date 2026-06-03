@@ -1,8 +1,43 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-03T15:20:00.363Z",
+    "date": "2026-06-03T15:39:38.855Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md",
+        "href": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.png",
+        "href": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.png"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/zone-of-silence-ley-crossing-magnetism.png",
+        "href": "/history/chronology/investigations/zone-of-silence-ley-crossing-magnetism.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.png"
+      },
+      {
+        "src": "/history/chronology/investigations/zone-of-silence-ley-crossing-magnetism.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-03T15:19:59.000Z",
+    "message": "Add Takenouchi/Shingo investigation dossier with eastern Horde synthesis.",
     "files": [
       {
         "status": "M",
@@ -1218,28 +1253,6 @@
       {
         "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-class.png",
         "alt": "Make Gordonston Great Again — volunteer homework campus vision: children, volunteers, and study tools in the church education wing"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-30T12:11:54.000Z",
-    "message": "Shorten MGGA Framing and limits; point to dossier.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
-        "href": "/influence/controlled_opposition/make-gordonston-great-again"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
-        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
-        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
       }
     ]
   }
