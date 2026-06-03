@@ -61,11 +61,12 @@ If the Western project required (a) all Christianity to be funneled through Rome
 
 ### 2.3 The Jesus-in-Japan Tradition — Shingo, Takenouchi, and Why It Survived
 
-- **Shingo (Aomori Prefecture):** Local tradition holds that Jesus came to Japan at 21, studied 12 years, returned to Judea at 33; when facing crucifixion, his brother **Isukiri** took his place; Jesus fled via Siberia and Alaska to Japan, settled in Herai (now Shingo), took the name **Torai Tora Daitenku**, married **Miyuko**, had three daughters, and lived to **106**.
-- **Takenouchi documents:** The narrative is tied to the **Takenouchi documents**, allegedly ancient texts in the Takenouchi family for 1,500+ years, “discovered” in the 1930s. Mainstream scholarship (e.g. Kokichi Kano, 1935) has judged them **modern forgeries**. The timing (1930s) coincides with the rise of militarism and state Shinto — and with possible Western or domestic interest in either **promoting** (as exotic legend) or **containing** (as heresy) the story.
-- **The tomb site:** Two grave mounds with crosses in Shingo; one said to hold Jesus, the other a lock of his brother’s (or Mary’s) hair. The site is a **tourist attraction**; the **Christ Festival** has been held every June since 1964. Many villagers are Buddhist; local skepticism exists. The tradition is **neither fully erased nor officially endorsed** — it persists in a liminal space.
+- **Burial in Japan (author thesis):** Christ and **Isukiri** were buried **in Japan** after the brother swap and eastward retirement — eastern Rus-Horde reach, death at **106**. See [Takenouchi investigation](/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md).
+- **Shingo (Aomori Prefecture):** **Takeuchi-tagged site (1935)** — twin mounds, Christ festival from **1964**. **Not proved as the burial locus.** Villagers had **no prior Christ oral tradition**; site may be **ordinary kofun + Takeuchi packaging**. Sign text preserves **narrative geography** (Japan study years, brother swap, Siberia → Alaska → Aomori, age 106) — not proof of coordinates.
+- **Takenouchi documents:** Narrative tied to **Takenouchi documents**, allegedly ancient, surfaced in the 1930s. Kano (1935) judged photographed texts **forgeries**. Takeuchi read as **redactor** and possible **Western-aligned agent** (witting or not) in the **militarized Imperial Japan / WWII** pipeline — **1935 Shingo announcement untrusted**. Original graves likely **destroyed** in Smithsonian Project and later kofun scrubs.
+- **Excavation expectation:** If dug today, mounds would likely contain **normal human remains or empty/replacement fill** — not giant skeletons contradicting the Palestine narrative.
 
-**Why it survived:** Either (a) it could not be fully erased without drawing attention, (b) it was deliberately preserved as a controlled narrative (e.g. “quaint local legend”), or (c) it was useful to keep a **marginalized** Eastern Jesus — visible enough to be dismissed, not authoritative enough to challenge the Palestine-centric canon. The result: **nobody in the West is taught that Jesus had anything to do with Japanese culture** — not because the tradition doesn’t exist, but because it is framed as folklore or forgery and never integrated into “real” history or theology.
+**Why Shingo survived:** Either (a) it was **already debunked/decoy** and needed no erasure, (b) **marginalized folklore** contains the claim without authentic coordinates, or (c) visible **misdirection** is more useful than destruction. Result: **nobody in the West is taught that Jesus had anything to do with Japanese culture** — the eastern burial thesis is framed as forgery/folklore, and **Shingo is not trusted as proof** in this project either.
 
 ### 2.4 Japan’s Significance — Summary
 
@@ -79,7 +80,7 @@ If the Western project required (a) all Christianity to be funneled through Rome
 
 ### 2.5 The Tomb as War Pretext? Outrage, Occupation, and Why It Wasn’t Erased
 
-**Hypothesis:** The Jesus tomb in Shingo could have been **kept** (or left un-erased) specifically to enable a **low-level mentality** to support war with Japan — i.e. to frame the conflict in part as a war over truth or blasphemy: “They claim Christ is buried there; they blaspheme; we must correct them.” This section asks: Was anyone actually offended? Did any leaders, priests, or press campaign against the tomb? Why didn’t the Allies erase it after invasion?
+**Hypothesis (revised):** The Shingo site may have been **left standing as debunked folklore or decoy** — a visible but **untrusted coordinate** that **contains** the eastern Christ claim without revealing authentic graves (likely **destroyed earlier** in Smithsonian Project). This section asks: Was anyone offended? Did leaders campaign against it? Why didn’t the Allies erase it after invasion?
 
 #### Evidence of outrage — did it offend anyone?
 
@@ -96,8 +97,8 @@ If the Western project required (a) all Christianity to be funneled through Rome
 | Explanation | Plausibility | Notes |
 |-------------|--------------|--------|
 | **Obscurity** | High | The site was a local legend in a rural village; occupation planners may never have known of it or considered it relevant. |
-| **Marginalization as policy** | High | Leaving the tomb intact but **labelled as forgery** (Kano 1935) and “folklore” achieves containment without martyrdom. Erasing it could draw attention and create a “they destroyed our sacred site” narrative. |
-| **Deliberate preservation** | Medium | Keeping the tomb visible as a **discreditable** “Eastern heresy” (crackpot legend, proven fake) may serve narrative control better than destruction — it can be pointed at and dismissed. |
+| **Marginalization as policy** | High | Leaving the site intact but **labelled as forgery** (Kano 1935) and “folklore” achieves containment — especially if **authentic graves were already destroyed** and Shingo is **misdirection**. |
+| **Deliberate preservation** | Medium | Visible **decoy** or debunked site — points seekers at wrong coordinates while **burial-in-Japan** memory stays fragmented. |
 | **Historical antibodies** | Speculative | The idea that truth-preserving “antibodies” (individuals or institutions) protected the site from erasure is consistent with paradigm-threat themes but has no direct evidence. It cannot be ruled out; it also cannot be confirmed. |
 | **Blasphemy as war motivator** | Low (no evidence) | No evidence found that the tomb was **used** in Allied or Western propaganda as a reason to fight Japan or to justify occupation. Strategic and political reasons (Pearl Harbor, imperialism, resources) dominated public discourse. |
 

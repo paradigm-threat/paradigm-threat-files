@@ -1429,12 +1429,14 @@ that the cave was [used for burial](https://en.wikipedia.org/wiki/Burial_of_Jesu
 
 However, in the New Testament Christ is then seen alive and healthy by his followers after his death.
 How is this possible?
-In an [alternate](https://en.wikipedia.org/wiki/Tomb_of_Jesus) version of the history found in Shingō Japan,
+In an eastern tradition — relayed in the 20th century through **Takeuchi's Shingo claim** and the *Takenouchi Documents* —
 Jesus Christ did not die on the cross at Golgotha. Instead, his brother, Isukiri, took his place on the cross,
-while Jesus escaped across Siberia to Mutsu Province, in northern Japan. A sign reads:
+while Jesus escaped east through Siberia to Japan. **This project adopts that core:** Christ and Isukiri were **buried in Japan**.
+**Shingo (Kirisuto no haka) is not proved as that locus** — Takeuchi's 1935 tagging is untrusted; original graves were likely
+destroyed in the Smithsonian Project and later kofun scrubs. A sign at the Takeuchi-tagged site reads:
 
-![Shingō is the location of what is purported to be the resting place](/history/chronology/christ/tomb_of_christ_and_brother.jpg?w=384)
-*Shingō is the location of what is purported to be the resting place of Jesus, the "Tomb of Christ" (Kirisuto no haka), and the residence of Jesus' descendants, the Sawaguchi family.*
+![Shingō — Takeuchi-tagged mound site; burial in Japan adopted, Shingo coordinates unproved](/history/chronology/christ/tomb_of_christ_and_brother.jpg?w=384)
+*Shingo: Takeuchi-tagged candidate site (1935). Christ and Isukiri buried in Japan — exact locus not proved here.*
 
 > When Jesus Christ was 21 years old, he came to Japan and pursued knowledge of divinity for 12 years.
 > He went back to Judea at age 33, and engaged in his mission.
@@ -1601,11 +1603,11 @@ diverse peoples of Russia took place, partly peacefully, partly through military
 [More: The Epoch of the XIII Century](https://chronologia.org/en/how_it_was/03.html)
 
 ### 1258 C.E. Historical Christ dies
-According to [Japanese legend](https://www.smithsonianmag.com/history/the-little-known-legend-of-jesus-in-japan-165354242/),
-Christ visited Japan for 12 years when he was 21. Per the legend, he survived his Crucifixion in Judea, went through
-the ups and downs of travel, and eventually came to settle down at *Kirisuto no haka* and
-[died](https://en.wikipedia.org/wiki/Shing%C5%8D,_Aomori#%22Tomb_of_Jesus%22)
-at the age of 106.
+Per the **eastern Christ tradition** adopted in this project, Christ survived crucifixion, retired east, and was **buried in Japan**
+with his brother Isukiri, dying at the age of **106** (~**1258 CE** with Fomenko birth **1152**). The village of Shingo was **publicly tagged**
+in **1935** by Takeuchi as *Kirisuto no haka* — **unproved as the burial locus**; original giant-line graves were likely **destroyed**
+in the Smithsonian Project (late 18th / early 19th century) and later mound scrubs. See the
+[Takenouchi investigation](/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md).
 
 ### 1285 C.E. First Olympic Games
 

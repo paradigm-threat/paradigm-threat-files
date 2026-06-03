@@ -1,6 +1,6 @@
 # Stonehenge as Portal — Birkeland Current, Ley Crossings, and Golden-Age Geometry
 
-> **TL;DR:** **Author thesis:** Stonehenge is a **dormant portal** whose **raised circular ring** was engineered to **match and stabilize** a **rotating Birkeland-current column** at a **ley-line crossing**. It functioned during the **Golden Age** (**4077–3147 BCE**) when telluric and interplanetary currents could **couple** through sacred geometry. **Stone displacement** — prehistoric **and** documented **1901–1964** re-erection — broke alignment; the **crossing still exists** beneath the ruin, but the **portal is closed**. **Epistemic spine:** faith in the **ley crossing** is structurally similar to faith in **original stone positions** — both reconstructed, both obscured by **“moved sometime in the past”** hand-waves while **crane-and-concrete** evidence sits in plain sight. **Ground nodes** at line crossings produce **compass deviation** and **radio failure** (Mexico’s **Zone of Silence**, polar **hollow-earth** compass lore) — mainstream **debunk** labels, author read: **very likely real**, same suppression pattern as Stonehenge portal mechanics. **Clocks** at such nodes: **plausible to a degree** (magnetic + telluric interference with quartz timing). **Bell 1881 twisted pair ↔ Cat 6 ↔ megalith** = helical bandwidth geometry rediscovered late.
+> **TL;DR:** **Author thesis:** Stonehenge is a **dormant portal** whose **raised circular ring** was engineered to **match and stabilize** a **rotating Birkeland-current column** at a **ley-line crossing** — not a **flat** circle but a **3D helix**: **plan closure** (ring) plus **block height** (uprights + lintels + tiered horseshoe) = **twisted-wire pitch** in stone. It functioned during the **Golden Age** (**4077–3147 BCE**) when telluric and interplanetary currents could **couple** through that geometry. **Stone displacement** — prehistoric **and** documented **1901–1964** re-erection — broke alignment; the **crossing still exists** beneath the ruin, but the **portal is closed**. **Epistemic spine:** faith in the **ley crossing** is structurally similar to faith in **original stone positions** — both reconstructed, both obscured by **“moved sometime in the past”** hand-waves while **crane-and-concrete** evidence sits in plain sight. **Ground nodes** at line crossings produce **compass deviation** and **radio failure** (Mexico’s **Zone of Silence**, polar **hollow-earth** compass lore) — mainstream **debunk** labels, author read: **very likely real**, same suppression pattern as Stonehenge portal mechanics. **Clocks** at such nodes: **plausible to a degree** (magnetic + telluric interference with quartz timing). **Bell 1881 twisted pair ↔ Cat 6 ↔ megalith** = helical bandwidth geometry rediscovered late.
 
 ![Stonehenge as a portal — Birkeland current stabilized by sacred geometry and ley lines](stonehenge-portal-birkeland-current-investigation.png)
 
@@ -27,7 +27,7 @@ This dossier follows [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md) and [**IN
 
 ## 1. Thesis
 
-Stonehenge is not primarily a **calendar**, **cemetery**, or **prehistoric observatory** in the academic sense—though it may have served those **secondary** roles. In this project’s reading it is a **portal stabilizer**: a **raised circular torus** of sarsen and bluestone arranged to **induce, contain, and phase-lock** a **Birkeland current** rising from a **ley crossing** so that **energy, information, and consciousness** could pass between **worlds** (planets, realms, or entangled locations—see [§7 When Stonehenge was active](#7-when-stonehenge-was-active--golden-age-window) below).
+Stonehenge is not primarily a **calendar**, **cemetery**, or **prehistoric observatory** in the academic sense—though it may have served those **secondary** roles. In this project’s reading it is a **portal stabilizer**: sarsen and bluestone arranged as a **helical torus** — **circular in plan**, **rising in section** — to **phase-lock** a **Birkeland current** at a **ley crossing** so that **energy, information, and consciousness** could pass between **worlds** (planets, realms, or entangled locations—see [§7 When Stonehenge was active](#7-when-stonehenge-was-active--golden-age-window) below). A **flush** ground ring would be a **loop** only; **elevated** blocks give it **pitch** (the twist).
 
 **Operational window:** **Golden Age only** — the epoch when the **collinear planetary stack** showered Earth with a **stable, life-promoting** current ([history-qa](/history/chronology/history-qa/page.md); [Golden Age event dates](./golden-age-event-dates.md)). After the configuration broke (**3147 BCE** flood band), the **same geometry** could not **re-close** the gate without the **planetary battery** online. Later **pyramid portals** ([Pyramids were Portals](/history/chronology/page.md)) exploited **different** alignment windows; Stonehenge belongs to the **earlier** Saturnian-column era.
 
@@ -48,13 +48,17 @@ The [history-qa](/history/chronology/history-qa/page.md) passage on the brown-dw
 | Feature | Birkeland / Z-pinch observation | Stonehenge analogue |
 |---------|----------------------------------|---------------------|
 | **Central column** | Rotating plasma filament rising along the axis | **Heel Stone / avenue axis** + **inner horseshoe** focal column |
-| **Helical twist** | Paired filaments winding around each other | **Circular ring** + **lintels** = closed **toroidal** path; **bluestone** inner oval as **nested helix** |
+| **Helical twist** | Paired filaments winding around each other | **Ring in plan + rising blocks in elevation** — trace the circuit: **up** uprights, **across** lintels, **around** the ring; **tiered** horseshoe vs outer circle = **nested pitch** (not a flat calendar circle) |
 | **Concentric stabilization** | Multiple shells of current density | **Outer sarsen circle**, **inner trilithons**, **horseshoe** tiers |
 | **Ground coupling** | Current closes through planetary body | **Sarsen seated in chalk** — **raised** ring **above** telluric node (not flush burial) |
 
-Stonehenge’s **raised** circular form matters: a Birkeland column is not a **flat** phenomenon. The **vertical extent** (lintels elevated on uprights) defines a **volume** in which the **rotating current** can **resonate**—analogous to a **toroidal inductor** or **RF cavity** in engineering terms.
+Stonehenge’s **raised** form matters: a Birkeland column is a **helix**, not a **flat** ring. **Each block’s height** (lintels on uprights, inner trilithons taller than outer sarsens) supplies **pitch** — the same quantity Bell encodes as **twists per meter** in copper.
 
-### 2.2 Z-pinch petroglyph literature (secondary corroboration)
+### 2.2 Helical pitch — plan plus elevation equals twist
+
+**Flat circle** = closed loop, **no** helical mode. **Raised circuit** = **coil**: circumference (X–Y) × **step height per stone** (Z) = **3D twisted path** matching **Birkeland pairs** and **Cat 6**. **Detuning** (fallen lintels, 20th-c. re-seating, lowered or displaced blocks) **flattens the helix** — the crossing may remain, but the **twist** is gone.
+
+### 2.3 Z-pinch petroglyph literature (secondary corroboration)
 
 The chronology page cites **Peratt / high-current Z-pinch** comparisons to **petroglyphs and megaliths** worldwide ([Characteristics for the Occurrence of a High-Current Z-Pinch Aurora…](https://www.academia.edu/9156691/Characteristics_for_the_Occurrence_of_a_High_Current_Z_Pinch_Aurora_as_Recorded_in_Antiquity_Part_II_Directionality_and_Source)). That line of work does **not** name Stonehenge explicitly in our excerpt, but it supports the **general** claim that **ancient builders encoded plasma-column geometry**—Stonehenge here is argued as a **three-dimensional** instance, not a **rock-art** shorthand.
 
@@ -72,7 +76,7 @@ Michell’s ley revival ([View Over Atlantis](./view-over-atlantis-michell-inves
 
 If the **crossing** is **immovable** (geology + great-circle geometry), the **Deep State** counter-move after the Golden Age is not to **erase the node** but to **detune the hardware**:
 
-1. **Displace uprights and lintels** — break **phase** relationships between inner and outer rings.
+1. **Displace uprights and lintels** — break **phase** and **flatten helical pitch** between inner and outer rings.
 2. **Reframe the site** as **mystery / Druid tourism** — [Michell](view-over-atlantis-michell-investigation.md) and **mainstream archaeology** supply **endless calendar debates** that **avoid portal mechanics**.
 3. **Leave a broken shell** — enough **awe**, zero **operational coupling**; visitors **photograph** the **flicker**, not the **gate**.
 
@@ -144,7 +148,7 @@ Modern **Category 6** (and higher) cable **inherits** the same principle at **ma
 |-------|----------|----------|
 | **Cat 6 pair** | Millimeter-scale **helical** copper | **Reject EMI**; **raise SNR**; **carry data** |
 | **Birkeland filament** | Kilometer-scale **helical plasma** | **Transport energy** along **magnetic field** lines |
-| **Stonehenge ring** | Meter-scale **raised circular** stone **torus** | **Couple** telluric + sky column; **stabilize** portal **rotation** |
+| **Stonehenge ring** | Meter-scale **helical** stone path — **raised** blocks, **tiered** shells | **Couple** telluric + sky column; **pitch** = twist rate |
 
 **Contrast (author thesis):** Bell **re-derived** in **1881** what **Golden-Age engineers** already knew at **megalithic scale**: **twist + closed loop + elevation** = **stable high-fidelity channel**. Cat 6 is **Bell’s patent in a jacket**; Stonehenge is **Bell’s patent in sarsen**—aimed at **inter-world bandwidth**, not **telephone calls**.
 
@@ -152,13 +156,11 @@ Modern **Category 6** (and higher) cable **inherits** the same principle at **ma
 
 ---
 
-## 6. Raised circular shape — engineering read
+## 6. Raised helical shape — engineering read
 
-**Why circular:** A **Birkeland column** viewed from above is **circularly symmetric**; a **ring monument** provides **azimuthal** **standing-wave** paths. **Why raised:** The **current column** has **height**; **lintels** define the **top boundary** of the **resonant volume** (cf. **Faraday cage** / **toroidal inductor** language in [pyramid-energy](./pyramid-energy-kerrell-goggin-1977-investigation.md) and [history-qa pyramids section](/history/chronology/history-qa/page.md)).
+**Plan (circle):** azimuthal **closure** — the **return path**. **Section (height):** each upright + lintel **lifts** the circuit off the chalk; **horseshoe trilithons** step **above** the outer sarsen ring — **nested helices**, one axis. Together: **twisted wire in stone**, not a **ground-level** ring.
 
-**Inner horseshoe vs outer circle:** Nested **eccentric** ovals may **beat** against the outer ring—**mode splitting** in cavity language—matching **dual-filament** Birkeland pictures (two helices, one axis).
-
-**Bluestones vs sarsens:** **Inner** vs **outer** **conductive** paths—different **mineral / source** (Preseli vs local chalk plateau) as **impedance stepping**, speculative but **consistent** with **multi-shell** current models.
+**Why detuning kills the portal:** Moving or **flattening** stones removes **pitch**; a **circle without elevation** is not a **Birkeland/Cat-6 analogue**.
 
 ---
 

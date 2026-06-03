@@ -1,6 +1,6 @@
 # Takenouchi Documents, Dr. Takeuchi, and Japan as Eastern Rus-Horde — Investigation
 
-> **TL;DR:** **Kirisuto no Haka (Shingo) is the real burial site of historical Christ** — not folklore. The twin mounds predate modern publicity; **1935** is when **Kiyomaro Takeuchi** (a **redactor**, not a witness) publicly re-attached the Christ name to the existing site from a suppressed document/shrine line, stripping **vanishing Rus-Horde context** and wrapping the material in exclusive-origin *kokutai* packaging. Mainstream scholarship (notably **Kokichi Kano**, 1935–1936) labeled the documents *gisho* — read here as **containment**, not disproof of the grave. Japan held the **original eastern Christianity**; English literary redaction split and backdated it into the Western religions (Fomenko). This dossier cross-references the timeline, situates Japan as **eastern Rus-Horde reach**, and documents **source acquisition** (transcripts and criticism — not divine-character originals on Anna's Archive).
+> **TL;DR:** **Christ and Isukiri were buried in Japan** — eastern Rus-Horde reach, brother swap, death at 106 (~**1258 CE**). **Shingo (Kirisuto no Haka) is not proved as that locus:** **Kiyomaro Takeuchi** (redactor; possible **Western-aligned agent**, witting or not) **cannot be trusted** for his **1935 location announcement** — site may be **ordinary mounds + Takeuchi-era packaging**. Original giant-line graves were likely **destroyed** in the **Smithsonian Project** (late 18th / early 19th c.) and later **kofun/mound** scrubs. Sign text preserves **narrative geography**, not site proof. Kano *gisho* = document containment. This dossier cross-references timeline, Japan-as-eastern-Horde fit, and source acquisition.
 
 **Date:** 2026-06-03  
 **Status:** Ongoing  
@@ -10,21 +10,25 @@
 
 ## 1. Thesis
 
-**Settled in this project:** **Kirisuto no Haka (Shingo) is the real tomb of historical Christ.** The burial is material; the twin mounds are not a 1930s invention. For centuries the connection was **discouraged, renamed** (e.g. **Daitenku Taro Jurai**), and **never translated into Western documents** — predictable under redaction. **WWII** destroyed most of the textual line (~4,000 submitted originals burned); what survived is the **cryptic grave site**, the **sign text** (primary source for post-crucifixion geography), and Takeuchi's damaged relay.
+**Settled in this project (2026-06 shift):** **Historical Christ and Isukiri were buried in Japan** — eastern Rus-Horde reach, brother on cross, eastward retirement, death at **106** (~**1258 CE** with Fomenko birth **1152**). Japan held the **original eastern Christianity**; English literary redaction split and backdated it into Western religion-families (Fomenko).
 
-**Takeuchi is a redactor, not a witness.** Whatever he relayed may preserve real eastern material, but he **ignored the vanishing Hordian empire context** and imposed **exclusive-origin** framing (Japan alone created all religions). That hijack is **not** the same as inventing the tomb.
+**Not provable — and now explicitly unsettled:** that **Kirisuto no Haka (Shingo/Herai)** is **that burial locus**. Takeuchi's **1935 public tagging** of twin mounds is **untrusted** as coordinates.
 
-The **sign at Shingo** is the **primary source** for survival geography: Isukiri on the cross; Christ's family took **Isukiri's body east** with them through Siberia → Alaska → Aomori; twin mounds; death at 106. Toponyms like **"Judea"** on the sign use the **old timeline and old geography** (pre-Scaligerian +1000, pre-Palestine relocation) — aligned with Fomenko, not the Western backdated map.
+**Takeuchi frame (revised):** Redactor **and possible Western-aligned agent** (witting or not) operating in the interest of **militarized Imperial Japan** ahead of WWII — same British-groomed Axis hijack pattern as §5.6. He may have **preserved fragments** of eastern Christ memory while stripping **Horde-province context** and imposing **exclusive-origin** *kokutai* packaging. His **1935 Shingo announcement** may be **misdirection**, **containment**, or **managed folklore** — not reliable witness to where Christ died.
 
-Japan and **old eastern Christianity** are the **original** stream. Literature centered in **England** redacted, erased, and **split** the old version into the many Western religions Fomenko traces — Rome as Latin gatekeeper of a manufactured Palestine narrative.
+**Shingo site read:** Villagers had **no prior record** of Christ-level importance — consistent with **suppression** but also with **Takeuchi attaching a famous name to ordinary kofun**. Mounds may predate 1935 as **normal burials**; Christ/Isukiri reading and festival layer (**1964** Kirisuto Matsuri) are largely **Takeuchi-era public packaging**. **If excavated today:** expect **normal human remains, empty fill, or replacement material** — **not** giant skeletons (would contradict the Palestine narrative). Destroyers would not leave contradicting evidence in an open tourist site.
 
-1. **Brother swap:** Isukiri on the cross; Christ survives — matches [`06.03.01`](https://paradigmthreat.net/timeline/evt-the-brother-on-the-cross).
-2. **Japan study years:** Christ at 21, twelve years near Mount Fuji — eastern divinity training before the Istanbul trap.
-3. **Eastward retirement:** Siberia → Alaska → Aomori — **intra-empire movement** within the Horde's eastern reach; family carries Isukiri's body east (sign text).
-4. **Twin burial:** Christ mound + Isukiri mound at **Kirisuto no Haka** (Shingo/Herai) — real locus, not symbolic stand-in.
-5. **Death date:** Age 106 with Fomenko birth 1152 CE → **1258 CE** — Horde consolidation band ([`07.02.00`](https://paradigmthreat.net/timeline/evt-1258-ce-historical-christ-dies)).
-6. **1935 event:** **Public re-identification** — Takeuchi tags existing mounds from document line after centuries of suppression; **not** the origin of the burial or the story. Kirisuto Matsuri (from **1964**) is later popular festival layer.
-7. **1930s packaging:** Takeuchi's **"Japan origin of all world religions"** = **exclusive-origin hijack** (see §5.6) — literally wrong, politically useful for isolating Japan from Rus-Horde memory.
+**Original graves — destruction thesis (author confidence):** The **actual** Christ/Isukiri burial location(s) in Japan were almost certainly **erased** in the **Smithsonian Project** band (**late 18th / early 19th century**; U.S. institutional arm from **1846**) together with other **giant-line burial mounds** across Eurasia and the Americas — same arc as Horde breakup (~1775), Trail of Tears-era erasure, and later **kofun/mound** destruction waves. See [`history/mudflood/page.md`](../../mudflood/page.md). **WWII** then burned most textual relay (~4,000 submitted originals). What survived is **Takeuchi's damaged document line**, **debunked Shingo packaging**, and **sign text** as narrative relay — not proof of locus.
+
+**Sign at Shingo:** **Primary for narrative geography** (Isukiri on cross; family **east** with body; Siberia → Alaska → Aomori; twin-mound **story**; death at 106) — **not** primary proof that **this mound pair** is the grave. Toponyms like **"Judea"** use **old timeline and old geography** (pre-Scaligerian +1000) — Fomenko-aligned, not Western Palestine.
+
+1. **Brother swap:** Isukiri on the cross; Christ survives — [`06.03.01`](https://paradigmthreat.net/timeline/evt-the-brother-on-the-cross).
+2. **Japan study years:** Christ at 21, twelve years near Mount Fuji — eastern divinity training before Istanbul trap.
+3. **Eastward retirement:** Siberia → Alaska → Japan — **intra-empire movement** within Horde eastern reach; family carries Isukiri's body east (sign narrative).
+4. **Burial in Japan:** Christ + Isukiri interred **somewhere in Japan** — **original locus destroyed**; Shingo = **unproved Takeuchi-tagged candidate**.
+5. **Death date:** Age 106 → **1258 CE** — Horde consolidation band ([`07.02.00`](https://paradigmthreat.net/timeline/evt-1258-ce-historical-christ-dies)).
+6. **1935 event:** Takeuchi **public announcement** — **untrusted** for location; may tag **pre-existing ordinary mounds**; **not** origin of eastern Christ memory.
+7. **1930s packaging:** **"Japan origin of all world religions"** = exclusive-origin hijack (§5.6) — wrong and anti-Horde.
 
 ---
 
@@ -40,17 +44,17 @@ The problem with Shōwa Japan is not that it remembered too much eastern history
 
 **Hijacking, not spontaneous nationalism:** In this reading, all three fascist build-ups were **not** popular organic revivals. They were **coups and narrative hijacks** — long-term patterns of elite capture documented in [`wwii-fascism-religious-apparatus-investigation.md`](../../../governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) §1 — with **British imperial and later OSS/Allied** channels shaping which story each nation got:
 
-- **Japan:** Anglo-Japanese Alliance (1902–1923), British patron then **abandonment** (1921 Four-Power Pacific Treaty), Meiji modernization as **peer grooming** — then isolation into **exclusive** emperor cult rather than eastern-Christian-empire memory. Post-war: GHQ/SCAP disbanded Amatsukyō (1950) while leaving Shingo tomb **marginalized, not integrated** — containment without recovery of Horde context.
+- **Japan:** Anglo-Japanese Alliance (1902–1923), British patron then **abandonment** (1921 Four-Power Pacific Treaty), Meiji modernization as **peer grooming** — then isolation into **exclusive** emperor cult rather than eastern-Christian-empire memory. Post-war: GHQ/SCAP disbanded Amatsukyō (1950) while leaving Shingo as **debunked folklore / possible decoy** — containment without recovery of Horde context or authentic grave coordinates.
 - **Italy:** Fascism sold as **Roman restoration** "from above" (and from abroad per WWII investigation §3.1) — Catholic **Palestine gatekeeping** preserved, eastern/Japanese Jesus claims blocked west of Italy.
 - **Germany:** Nazi occult/Atlantis pipeline (Thule → Ahnenerbe) as **scripted final religion** — taboo after defeat so "Atlantis/Aryan" stays associated with evil, not with recoverable cataclysm memory.
 
 **Redaction trace:** When imperial Japan, fascist Italy, or Nazi Germany each claim to be the **one true origin** (Japan alone / Rome alone / Atlantis-Aryan alone), the deep-state function is identical: **sever each population from the larger Horde-Christian geography** and from each other. The **British agent / OSS** layer is the recurring operator in this repo's war investigations — Anglo-Japanese treaty history, divide-and-conquer Israel/Palestine manufacture, OSS→CIA continuity, yakuza remote-control thesis — not because every local actor was a puppet, but because **who gets which exclusive myth** is consistently steered from London/Washington-facing intelligence and finance.
 
-**Takenouchi in this frame:** The **real Shingo burial** and sign-text survival geography are **not** Takeuchi's invention — they predate his 1935 publicity. Takeuchi **redacted** the relay: he preserved fragments of the eastern Christ story while stripping **Horde-province context** and adding **"Japan created all world religions"** — the **hijacked** exclusive-origin myth that **blocks** "Japan as eastern reach of Christ's Rus-Horde empire." Kano's 1935 forgery verdict and state prosecution function as **domestic containment** of a narrative that had grown too visible — parallel to Western marginalization of Shingo as "folklore" despite the **material tomb** remaining standing.
+**Takenouchi in this frame (revised):** Takeuchi **redacted** eastern Christ fragments while stripping **Horde-province context** and adding **"Japan created all world religions."** He may also have functioned as a **Western-aligned channel** (knowingly or not) in the **militarized Imperial Japan / WWII** pipeline — his **1935 Shingo identification is untrusted**. Kano's *gisho* verdict and prosecution = **document containment**; Shingo mounds may be **ordinary kofun + Takeuchi packaging**, not proof the **original** giant-line graves survived there. **Real burials in Japan — original locus likely destroyed** in Smithsonian Project and later mound scrubs.
+
+**Open (Tier: author thesis — not proven):** Documented funding/intelligence links for Takeuchi / Amatsukyō; OSS/SCAP files on Shingo and Takeuchi 1945–1950; archaeology of Shingo mounds; pre-1935 giant kofun destruction records in Japan.
 
 **Cross-refs:** [`wwii-fascism-religious-apparatus-investigation.md`](../../../governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) §1–5; [`yakuza-remote-control-investigation.md`](../../../governance/war/investigations/yakuza-remote-control-investigation.md); [`cia-investigation.md`](../../../governance/war/investigations/cia-investigation.md) (OSS rebrand); [`british-divide-conquer-israel-investigation.md`](../../../governance/war/investigations/british-divide-conquer-israel-investigation.md).
-
-**Open (Tier: author thesis — not proven):** Documented funding/intelligence links for specific Amatsukyō promoters vs. independent Shōwa nationalism; OSS/SCAP files on Shingo tomb and Takenouchi treatment 1945–1950.
 
 ## 2. Actors and chronology
 
@@ -58,8 +62,8 @@ The problem with Shōwa Japan is not that it remembered too much eastern history
 |-------|------|-----------|
 | **Takenouchi no Sukune** (legendary) | Imperial hero; alleged original custodian line | Mythic / genealogical anchor |
 | **Heguri no Matori** (legendary) | Grandson; alleged translator into kanji/katakana | Per document legend |
-| **Kiyomaro (Kyōmaro) Takeuchi** (竹内巨麿, 1875–1965) | **Redactor** (not witness); Amatsukyō founder figure | **1928-03-29** public announcement of *monjo*; **1935** public re-identification of existing Shingo mounds |
-| **Komaru Takeuchi** | Field survey; **Aug 1935** Toraizuka (Christ mound) discovery | Shingo (then Herai/Torai) |
+| **Kiyomaro (Kyōmaro) Takeuchi** (竹内巨麿, 1875–1965) | **Redactor**; possible **Western-aligned agent** (witting or not); Amatsukyō founder | **1928-03-29** *monjo* announcement; **1935** **untrusted** Shingo mound tagging |
+| **Komaru Takeuchi** | Field survey; **Aug 1935** Toraizuka ("Christ mound") naming | Shingo (Herai/Torai) |
 | **Toya Banzan** | Painter; **1934** invited survey of Herai region | Tourism / national-park promotion context |
 | **Denjiro Sasaki** | Herai village head; publicity for tomb site | 1930s |
 | **Kokichi Kano** (狩野亨吉) | Historian; **1935** examines five photographed documents → **forgery**; **1936** *Shiso* article; **1942** prosecution witness | Mainstream debunk anchor |
@@ -123,7 +127,7 @@ Sources: [Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuc
 ### 5.1 Fomenko spine
 
 - Historical Christ **1152 CE** Crimea → **1185 CE** Istanbul crucifixion → Rus-Horde / Tartarian expansion.
-- Shingo does **not** replace that spine; it supplies **eastern geography** for survival and old age.
+- Shingo relay supplies **eastern geography** for survival and old age — **not proved locus**.
 - **1152 + 106 = 1258 CE** aligns Christ's death with Horde consolidation ([`07.02.00`](https://paradigmthreat.net/timeline/evt-1258-ce-historical-christ-dies)).
 
 ### 5.2 Saturnian layer
@@ -134,7 +138,7 @@ Sources: [Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuc
 ### 5.3 Monotheism existential crisis
 
 - Deep State required **one** Jesus, **one** Palestine, **one** Rome gate ([`wwii-fascism-religious-apparatus-investigation.md`](../../../governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) §3.2).
-- Shingo preserves what Rome must suppress: **living founder**, **brother on cross**, **eastern burial**.
+- Eastern Christ-in-Japan memory preserves what Rome must suppress: **living founder**, **brother on cross**, **burial in Japan** — Shingo is **one Takeuchi-tagged site**, not proved coordinates.
 - Takenouchi's 1930s **"Japan origin of all religions"** = **exclusive-origin hijack** — same structural move as Rome-alone / Atlantis-Aryan-alone; **wrong** and **anti-Horde** (see §5.6). Eastern Christianity in Japan is the **original**; Western religion-families are **redacted splits**.
 
 ### 5.4 Japan as eastern Rus-Horde reach (author thesis)
@@ -152,40 +156,40 @@ Bridges:
 - **First Crusade / Children's Crusade** = giant-line revenge waves ([`giants-infantry-guerrilla-etymology-investigation.md`](giants-infantry-guerrilla-etymology-investigation.md)).
 - **Latin/Western Christianity** (Jesuits, Shimabara, Sakoku expulsion) = **invasive redacted layer** imposed from the West — not the same as **indigenous eastern Christendom** Japan originally held.
 
-### 5.5 Twin mounds
+### 5.5 Twin mounds (Shingo — unproved locus)
 
-[`history/chronology/page.md`](../page.md) (legacy block):
+[`history/chronology/page.md`](../page.md) (legacy block) relays sign text:
 
 > On this holy ground, there is dedicated a burial mound on the right to deify Christ, and a grave on the left to deity Isukiri.
 
-Material layout matches **brother-on-cross** theology: one mound for the survivor's long life, one for the substitute.
+Layout **matches brother-on-cross theology** if authentic — but **Shingo is not proved** as the interment site. Mounds may be **ordinary kofun** retrofitted in **1935**; **original giant-line graves in Japan likely destroyed** in Smithsonian Project and later mound scrubs.
 
 ---
 
-## 6. Post-crucifixion geography — sign text primary
+## 6. Post-crucifixion geography — sign text as narrative relay
 
-**Author read (settled):** The **sign at Kirisuto no Haka** is the **primary source**. Christ's family **took Isukiri's body east** with them: Siberia → Alaska → Aomori; twin mounds at Shingo; Christ dies at 106.
+**Author read (revised):** The **sign at Kirisuto no Haka** is **primary for narrative geography** — not proof of site. Christ's family **took Isukiri's body east**: Siberia → Alaska → Aomori band; twin-mound **story**; Christ dies at 106 **in Japan**. **Whether Shingo is that locus is unsettled** — Takeuchi's 1935 tagging is **untrusted**.
 
 | Layer | Post-crucifixion movement | Isukiri | Tier |
 |-------|---------------------------|---------|------|
-| **Shingo sign text** | Immediate **east** with body | Died on cross; brother mound in Japan | **Primary** — real tomb locus |
+| **Sign text (Takeuchi relay)** | Immediate **east** with body | Died on cross; brother mound **story** in Japan | **Primary for geography/narrative** — **not** site proof |
 | **06.04.00** (timeline prose) | Istanbul → **Crimea** with body | Body to Crimea | **Western redaction fragment** — not co-equal with sign |
 
-The Crimea line in [`06.04.00`](../../../../paradigm-threat-timeline/content/06.ce-12th-birth-of-christianity/06.04.00-revolution-despite-martyrdom.md) reflects **partial Western witness** (congregation carrying movement from a redacted geography). It does **not** override the sign. Timeline prose may eventually be revised to match; that edit is out of scope for this dossier.
+The Crimea line in [`06.04.00`](../../../../paradigm-threat-timeline/content/06.ce-12th-birth-of-christianity/06.04.00-revolution-despite-martyrdom.md) reflects **partial Western witness**. It does **not** override east-to-Japan retirement. Timeline prose may eventually be revised; that edit is out of scope for this dossier.
 
-**Giants:** Absent from surviving Shingo/Takeuchi relay — expected. Giant Christ/Mary content was **heavily redacted** by state and allied channels before and during WWII (same scrub pattern as Rus/Italy under British-steered communist-literature and exclusive-national myth pipelines). Visible material is **post-redaction**.
+**Giants:** Absent from surviving Shingo/Takeuchi relay — expected under redaction. **Original giant-line graves in Japan were likely destroyed** in Smithsonian Project (late 18th / early 19th c.) with other Eurasian giant mounds; later kofun waves continued the scrub. **Excavation of Shingo today** would likely yield **normal remains or empty/replacement fill** — not contradicting evidence left in a tourist site.
 
-**1935 — not an epistemic problem:** Absence of open Christ-naming in Western or village-facing sources before 1935 is **predicted** under centuries of suppression and other names — **not** evidence the tomb or burial is young. **1935 = surfacing event** (Takeuchi re-tags existing mounds from document line). **1964** Kirisuto Matsuri = later festival layer on an already-real site.
+**1935 — revised read:** Villagers **surprised** with **no prior Christ oral tradition** fits **centuries of suppression** — and fits **Takeuchi attaching a famous name to unremarkable mounds**. **1935 = Takeuchi public packaging** — **location announcement untrusted**. **1964** Kirisuto Matsuri = later festival layer on that packaging.
 
 ### 6.1 Source destruction — epistemic rule (settled)
 
-**Do not expect prewar Japanese paper trails for the Christ connection.** Under this project that is not a gap in the thesis — it is the **predicted outcome** of redaction plus total war.
+**Do not expect prewar Japanese paper trails for the Christ connection.** Under this project that is the **predicted outcome** of redaction plus total war — **not** proof burial-in-Japan is fake.
 
 - Allied firebombing hit **67 Japanese cities**; roughly **40%** of built-up area in targeted cities destroyed; **~30%** of Japan's urban population displaced ([US Strategic Bombing Survey](https://6thbombgroup.com/economic-effects-of-air-attack-against-the-japanese-home-islands/); [Asia-Pacific Journal — Selden](https://apjjf.org/2016/23/selden)).
 - Takeuchi corpus originals (~**4,000** pieces held for the 1942–1944 trial) were **not returned** after acquittal and were **burned in Tokyo air raids** (1945) — Japanese sources name losses including *Kibitsuhiko no mikoto heihō no maki* among others ([竹内文書 — Wikipedia JA](https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%86%85%E6%96%87%E6%9B%B8)).
-- What survived — **Shingo mounds**, **sign text**, post-war **copies** — is what destroyers **did not need to erase** because it was already **marginalized, debunked, or untranslated**.
+- **Original Christ/Isukiri graves** — if ever marked — were likely **destroyed earlier** in Smithsonian Project and kofun scrubs; what survived is **Takeuchi relay**, **debunked Shingo site**, and **sign text** — already **marginalized, debunked, or untranslated**.
 
-**Nobody should treat absence of prewar sources as proof the tomb or eastern Christ memory is young.** Absence is proof the **reset worked**, not that the burial is fake.
+**Nobody should treat absence of prewar sources as proof Christ was not buried in Japan.** Absence is proof the **reset worked** — and that **coordinates were erased or misdirected**, not that the eastern burial thesis is false.
 
 ---
 
@@ -194,7 +198,7 @@ The Crimea line in [`06.04.00`](../../../../paradigm-threat-timeline/content/06.
 | Layer | Mainstream | Paradigm Threat |
 |-------|------------|-----------------|
 | **Provenance** | Modern forgery (*gisho*); Kano 1935–1936; anachronistic script | 1930s **packaging** of older eastern memory; "forgery" label as **containment** (see WWII investigation) |
-| **Shingo tomb** | 1935 "invention"; tourism; no pre-1935 Christ talk in Western sources | **Real burial site** — mounds predate 1935; Christ name suppressed for centuries; 1935 = Takeuchi **re-identification**; tomb **marginalized, not destroyed** — containment |
+| **Shingo tomb** | 1935 "invention"; tourism; no pre-1935 Christ talk | **Unproved locus** — Takeuchi 1935 tagging **untrusted**; may be ordinary kofun + packaging; **burial in Japan** thesis stands; **original graves likely destroyed** (Smithsonian Project + kofun scrubs); site **debunked/contained**, not authentic coordinates |
 | **Cosmology** | Ultranationalist pseudohistory | **Exclusive-origin hijack** (Japan alone) vs **Horde-province** memory; same Axis pattern as Rome/Atlantis — see §5.6 |
 | **Trial outcome** | Religious acquittal 1944 | State could not safely destroy the movement or documents without schism; originals then **lost to fire** |
 | **British/OSS layer** | (Not in mainstream frame) | Anglo-Japanese grooming → abandonment → exclusive *kokutai*; post-war SCAP containment; redaction operator traces to British/intelligence channel per war investigations |
@@ -234,7 +238,7 @@ Automated probe (2026-06-03): **0 hits** for 竹内文書; other queries **timed
 ### 8.3 What *not* to expect
 
 - Complete **authentic** divine-character scrolls from any shadow library.
-- Western expectation that **1935 "text-driven" tagging** disproves the tomb — mainstream reads re-identification as invention; this project reads it as **redactor reconnecting a real locus** after containment ([Nippon.com](https://www.nippon.com/en/japan-topics/g00658/keeping-the-faith-christ%E2%80%99s-tomb-in-aomori-and-japanese-religion.html) describes the surfacing event, not tomb age).
+- Western expectation that **1935 "text-driven" tagging** proves or disproves the **original burial locus** — this project now reads Takeuchi's Shingo announcement as **untrusted**; **burial in Japan** stands; **coordinates erased or misdirected**.
 
 ---
 
@@ -244,7 +248,7 @@ Automated probe (2026-06-03): **0 hits** for 竹内文書; other queries **timed
 
 **Question:** Were the Takeuchi documents forgeries? Can Kano's verdict be objectively verified or trusted?
 
-**Short answer:** On the **five photographed texts Kano examined**, mainstream scholarship's forgery conclusion is **strong and replicable** on Kano's own criteria. That **does not** disprove the **Shingo tomb** or the **sign-text geography** — it bears on **1930s document packaging** only.
+**Short answer:** On the **five photographed texts Kano examined**, mainstream scholarship's forgery conclusion is **strong and replicable** on Kano's own criteria. That bears on **1930s document packaging** and **Takeuchi's untrusted relay** — it does **not** disprove **burial in Japan** or the **sign-text narrative geography**; it **does not prove Shingo is the locus**.
 
 ### 9.1 What Kano actually examined
 
@@ -279,10 +283,10 @@ Automated probe (2026-06-03): **0 hits** for 竹内文書; other queries **timed
 | **Five photographed Amatsukyō texts are modern forgeries** | **Likely true** on Kano's evidence; **replicable** by any paleographer using same photos + same historical anchors | Mainstream scholarly consensus |
 | **Entire ~4,000-piece corpus is uniformly forged** | **Not proven** — Kano saw **5 photos**; extrapolation to "全部" is his rhetorical leap | Inference |
 | **Kano was independent** | **Partially** — self-motivated after navy uptake; also **prosecution witness** in state trial | Documented |
-| **Kano disproves Shingo tomb** | **No** — never examined mounds; no archaeology; tomb/sign **outside his brief** | **Non sequitur** if used against burial claim |
-| **Forgery label = containment** | Consistent with WWII investigation frame — debunk **documents**, leave **site** standing, marginalize | Author thesis |
+| **Kano disproves Shingo as Christ grave** | **No** — never examined mounds; no archaeology; **does not prove locus either way** | **Non sequitur** for burial-in-Japan thesis |
+| **Forgery label = containment** | Debunk **documents** + **misdirect coordinates**; leave **Shingo** as debunked folklore / possible decoy | Author thesis |
 
-**Author synthesis:** Documents were **very likely forged or heavily redacted in the Meiji–Shōwa packaging layer** — Takeuchi as **redactor** fits. The **eastern Christ survival pattern** (brother swap, east retirement, age 106) may sit **inside** a forged corpus the way genuine fragments sit inside **gisho** elsewhere. **Kano proves (or strongly argues) document fraud; he does not prove tomb fraud.**
+**Author synthesis:** Documents were **very likely forged or heavily redacted in the Meiji–Shōwa packaging layer** — Takeuchi as **redactor / possible agent** fits. The **eastern Christ survival pattern** (brother swap, east retirement, age 106, **burial in Japan**) may sit **inside** a forged corpus. **Kano proves document fraud on five photos; he does not prove or disprove Shingo as locus; original graves may already have been destroyed.**
 
 **What would falsify Kano on documents:** Independent access to **pre-1928** custody chain + **ink/parchment dating** on originals — **destroyed 1945**. Cross-examination is now mostly **impossible on originals**; debate repeats on **copies and photos**.
 
@@ -401,7 +405,7 @@ Japanese Wikipedia: submitted as **神宝** with **上告趣意書** in **1942�
 
 The *Sendai Kuji Hongi* (先代旧事本紀) and related **gisho** (*Wakan sansai zue*, imperial compilations) share the **national-origin forgery** pattern with Takeuchi. [`indigenous-legends-vs-geologic-dating-investigation.md`](indigenous-legends-vs-geologic-dating-investigation.md) flags comparison; **not yet downloaded**.
 
-**Author suspicion (Tier: thesis — not proven):** British/Western literary and intelligence channels may have **seeded or forged** portions of the **imperial Japan document stack** — same era as **exclusive *kokutai*** manufacture — to produce a **controlled ancient Japan** that **blocks Rus-Horde eastern-Christian memory**. Takeuchi may be **redacting a redaction** (real tomb geography inside forged cosmology).
+**Author suspicion (Tier: thesis — not proven):** British/Western literary and intelligence channels may have **seeded or forged** portions of the **imperial Japan document stack** — same era as **exclusive *kokutai*** manufacture — to produce a **controlled ancient Japan** that **blocks Rus-Horde eastern-Christian memory**. Takeuchi may be **agent/redactor** attaching **eastern Christ narrative** to **ordinary mounds or a decoy site** while **original giant-line graves in Japan were already destroyed** in Smithsonian Project.
 
 **Do not close this until:** side-by-side paleography + provenance pass on Sendai Kuji vs Takeuchi vs Kano's five photos.
 
@@ -414,8 +418,11 @@ The *Sendai Kuji Hongi* (先代旧事本紀) and related **gisho** (*Wakan sansa
 3. **Sendai Kuji Hongi download + compare** — gisho template vs Takeuchi (§13).
 4. **British document-forging pipeline:** Foreign Office / intelligence / missionary archives — **Meiji forged antiquities** beyond Takeuchi (§12.2).
 5. **Hashimoto 1942 testimony** — full trial transcript if held at NAJ or Supreme Court records.
-6. **06.04 timeline edit:** Crimea line subordinate to Shingo sign (repo prose — request-only).
+6. **06.04 timeline edit:** Crimea line subordinate to east-to-Japan retirement (repo prose — request-only).
 7. **Ink/parchment:** Any pre-1928 Takeuchi fragment outside burned set — shrine-held restricted materials.
+8. **Shingo excavation / GPR:** What is physically in the mounds? Expect normal remains or empty fill if decoy/replacement.
+9. **Takeuchi agent trace:** Funding, travel, British-facing contacts 1920s–1935.
+10. **Smithsonian Project / kofun destruction:** Primary records for giant-mound and kofun demolition **late 18th / early 19th c.** (Americas + Eurasia + Japan) and later waves.
 
 ---
 
