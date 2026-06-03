@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-02T14:02:27.497Z",
+    "date": "2026-06-03T15:20:00.363Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md",
+        "href": "/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-02T14:02:26.000Z",
+    "message": "Add Substack mirror links to published reader articles.",
     "files": [
       {
         "status": "M",
@@ -1207,28 +1225,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-05-30T12:11:54.000Z",
     "message": "Shorten MGGA Framing and limits; point to dossier.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
-        "href": "/influence/controlled_opposition/make-gordonston-great-again"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
-        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
-        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-30T12:07:24.000Z",
-    "message": "Revise MGGA essay 2011 outcome and trim gate vandalism.",
     "files": [
       {
         "status": "M",
