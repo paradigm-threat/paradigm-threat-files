@@ -1,8 +1,39 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-04T12:41:27.259Z",
+    "date": "2026-06-04T12:42:20.416Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md",
+        "href": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md",
+        "href": "/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.png",
+        "alt": "Stonehenge as a portal — Birkeland current stabilized by sacred geometry and ley lines"
+      },
+      {
+        "src": "/history/chronology/investigations/zone-of-silence-ley-crossing-magnetism.png",
+        "alt": "Zone of Silence — ley-crossing magnetism meme (radios, compasses, clocks at nodes)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png",
+        "alt": "Stonehenge quantum portal — Golden Age and Dark Ages (article lead)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-04T12:41:26.000Z",
+    "message": "Clarify ley crossings as mobile, cyclically predictable nodes.",
     "files": [
       {
         "status": "M",
@@ -1447,144 +1478,6 @@
       {
         "src": "https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary-info.png",
         "alt": "Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-31T14:19:48.000Z",
-    "message": "Add vaccine injury dossier, consent reader essay, and related cross-links.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md",
-        "href": "/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.md",
-        "href": "/governance/genocide/investigations/vaccine-injury-liability-suppression-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.png",
-        "href": "/governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.png"
-      },
-      {
-        "status": "M",
-        "path": "governance/genocide/vaccine/a.md",
-        "href": "/governance/genocide/vaccine/a"
-      },
-      {
-        "status": "A",
-        "path": "governance/genocide/vaccines-circumcision-childhood-consent-religion.md",
-        "href": "/governance/genocide/vaccines-circumcision-childhood-consent-religion"
-      },
-      {
-        "status": "A",
-        "path": "governance/genocide/vaccines-circumcision-childhood-consent-religion.png",
-        "href": "/governance/genocide/vaccines-circumcision-childhood-consent-religion.png"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/nsa-investigation.md",
-        "href": "/governance/war/investigations/nsa-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md",
-        "href": "/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
-        "href": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/make-gordonston-shuman-church-map.png",
-        "href": "/influence/controlled_opposition/make-gordonston-shuman-church-map.png"
-      },
-      {
-        "status": "M",
-        "path": "page.md",
-        "href": "/page"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.png"
-      },
-      {
-        "src": "/governance/genocide/vaccines-circumcision-childhood-consent-religion.png"
-      },
-      {
-        "src": "/influence/controlled_opposition/make-gordonston-shuman-church-map.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.png",
-        "alt": "Vaccine injury, liability immunity, and the unknowable reckoning — investigation header"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/genocide/vaccines-circumcision-childhood-consent-religion.png",
-        "alt": "Vaccines and circumcision — two rites, one consent theft"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/genocide/circumcision.jpg",
-        "alt": "Circumcision — bodily covenant rite before consent"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png",
-        "alt": "CIA 1984 Mars × *Chrono Trigger* — article hero figure"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
-        "alt": "*Chrono Trigger* / Mars remote viewing — predictive-programming composite (author)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Coordinate journey — MON/SUB Mars remote viewing session, 22 May 1984 (author graphic; not CIA)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-journey.png",
-        "alt": "Mars Exploration 1984 — remote viewing session journey / coordinate path"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png",
-        "alt": "Mars Exploration 1984 — remote viewing investigation composite (same release, alternate layout)"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png",
-        "alt": "Mars Exploration 1984 — PDF digest companion figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/cia-reading-room-chrono-trigger-pp.png",
-        "alt": "CIA Reading Room — *Chrono Trigger* / Mars remote viewing predictive programming figure"
-      },
-      {
-        "src": "/influence/conspiracy/embedding.jpg",
-        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
-      },
-      {
-        "src": "/influence/conspiracy/scientific_truth.jpg",
-        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
-        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
-      },
-      {
-        "src": "/cosmos/mars/mars_life.jpg",
-        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
-      },
-      {
-        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
-        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
       }
     ]
   }

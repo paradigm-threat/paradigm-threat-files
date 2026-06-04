@@ -152,9 +152,22 @@ Stonehenge’s **institutional packaging** is not neutral. Mainstream archaeolog
 
 **Rhyme with §3.2 detuning:** **Mystery tourism** + **AI closure** = **double lock** — the **crossing** stays hidden, the **instrument** stays detuned, and the **last mile** of “understanding” is **outsourced** to a system that **cannot** contemplate **Golden Age catastrophe** without the facts it was trained to exclude.
 
----
+### 3.5 Games — *Warcraft* runestones, Dark Portal, Stonehenge rhyme (predictive programming)
 
-## 4. Relocation epistemics — “moved sometime in the past”
+**Tier B (on record — game lore / manuals):** Blizzard **Warcraft** franchise encodes **world-gates** and **monolithic ward-stones** as **playable** facts, not fringe theory.
+
+| Asset | Portal / gate read | Stonehenge rhyme |
+|-------|-------------------|------------------|
+| **Dark Portal** | **Stone arch** between **Azeroth** and **Draenor** — explicit **dimensional passage** ([Dark Portal](https://warcraft.wiki.gg/wiki/Dark_Portal)) | Central **gate** trope — **door between worlds** |
+| **Runestones** | **Monolithic** border markers powering **Ban'dinoriel** (“**Gatekeeper**”) — **protection / warding** ([Runestone](https://warcraft.wiki.gg/wiki/Runestone)) | **Upright stone rings** — fan and blogger **visual match** to **UK Stonehenge** |
+| **WC2 — *The Runestone at Caer Darrow*** | Mission objective: capture **huge monolithic Runestone**; manual: **ancient monolith** with **runes of protection** ([WC2 Runestone](https://wowpedia.fandom.com/wiki/Runestone_(Warcraft_II)); [mission brief](https://wowpedia.fandom.com/wiki/The_Runestone_at_Caer_Darrow_(WC2_Orc))) | **Stonehenge-class** hardware **on map** |
+| **Warcraft III** (2002 sequel to WC2 RTS line) | Continues **runestone network** / **Quel'Thalas** barrier lore ([WC3 manual map](https://warcraft.wiki.gg/wiki/Runestone)) | Same **gate + monolith** vocabulary at **campaign** scale |
+
+**Author synthesis:** Mainstream **games** deliver the **same disclosure** as **Spinal Tap** and **Stargate** — **consider the gate**, then **dismiss** because **“it’s fantasy.”** Community copy already describes runestones as **huge monolithic monuments scattered through Azeroth**, **resembling real-life Stonehenge** — i.e. the **answer is public**, **indexed**, and **playable**, yet **disqualified** by genre label. **PP loop:** **introduce** possibility → **train reflex** (“just a game”) → **laugh** at **non-fiction** reuse ([predictive programming hub](/influence/predictive_programming/page.md); [lay article § games PP](../stonehenge-quantum-portal-golden-age-and-dark-ages.md)).
+
+**Not claimed:** Blizzard **knew** Salisbury physics; **pattern** logging only.
+
+---
 
 ### 4.1 Why the current layout cannot be trusted as original
 
@@ -338,6 +351,7 @@ The hero graphic’s **three-panel** story matches this dossier:
 | [Hollow earth investigation](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md) | **Polar / nested-shell compass** lore — **debunked label**, **same node physics** family as ley crossings |
 
 | [Predictive programming — *Stargate* portal](https://paradigmthreat.net/influence/predictive_programming/page.md) | **Biological vs metal** transit tropes — **organic-only** rule rhyme |
+| **Warcraft — Runestones / Dark Portal** ([Runestone wiki](https://warcraft.wiki.gg/wiki/Runestone); [Dark Portal](https://warcraft.wiki.gg/wiki/Dark_Portal)) | **Games PP** — **monolithic gate** hardware **resembling Stonehenge**; [§3.5](#35-games--warcraft-runestones-dark-portal-stonehenge-rhyme-predictive-programming) |
 | [AI control investigation](/science/ai/ai-control-investigation.md) | **Cognitive offload** endgame — **machine + institution** replaces human reasoning; Stonehenge **mystery + AI closure** rhyme |
 
 ---
@@ -351,6 +365,7 @@ The hero graphic’s **three-panel** story matches this dossier:
 | **B** | **Balezin et al. 2018** — Giza **RF resonator**; chambers **concentrate** energy; mainstream **coincidence** dismissal | [§8.2](#82-star-forts--admitted-em-geometry-denied-masonic-intent) |
 | **B** | Michell/Watkins **alignments**; Zone of Silence **1966** radio report; **1970** missile / tourism myth layer | Pattern + **primary anecdote** — **not** closed by debunk |
 | **B** | **“Unsolved mystery”** + **AI-will-solve** headline corpus (BBC, ScienceDaily, Artnet; Forbes-class tech press **pattern**) | [§3.4](#34-official-mystery-framing-and-ai-closure-predictive-programming) — **PP / cognitive offload** |
+| **B** | ***Warcraft* Runestones / Dark Portal** — monolithic **gate** lore; **Stonehenge** visual rhyme in fan/community read | [§3.5](#35-games--warcraft-runestones-dark-portal-stonehenge-rhyme-predictive-programming) |
 | **Author thesis (likely real)** | **Compass spin + radio blackout** at ley crossings; **hollow-earth polar compass** same class; **Golden-Age portal**; **detuning** to hide crossing | **Very likely real** per §0 — mainstream “legend” = **containment label** |
 | **Author thesis (plausible)** | **Clock failure** at nodes | Magnetic sensitivity of quartz / mechanical timekeeping |
 | **Author thesis (open)** | **Spiral** layout; **Cat 6 ↔ megalith**; **center-standing** transit; **mobile ley crossings** + **predictive schedule** | **No** surviving spiral plan — **reconstructed**; **cyclical node** math **not** instrumented today |

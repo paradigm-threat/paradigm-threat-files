@@ -148,9 +148,9 @@ Stonehenge waited for **alignments**. CERN **forces** amplitude underground. Sam
 
 ---
 
-## Where the demons dwell — Spinal Tap and the laugh track
+## Where the demons dwell — Spinal Tap, games, and the laugh track
 
-*This Is Spinal Tap* (1984) is the **comedy-layer** inoculation. The **mystery-layer** is the BBC headline; the **authority-layer** is the AI press release (see above). All three train the same reflex. The **song** is not arbitrary:
+*This Is Spinal Tap* (1984) is the **comedy-layer** inoculation. The **mystery-layer** is the BBC headline; the **authority-layer** is the AI press release (see above). **Games** are the **interactive layer** — same gate, same giggle reflex, hours of **muscle memory** before you ever read a dossier. All four train the same reflex. The **song** is not arbitrary:
 
 > **Stonehenge, where the demons dwell  
 > And the soft winds blow…**
@@ -159,11 +159,15 @@ Read **literally** in portal grammar: **demons** = **entities / presences on the
 
 The trope repeats: [*Event Horizon*](https://paradigmthreat.net/influence/predictive_programming/page.md) (1997) — ship **folds space**, **hellish dimension**; [*Stargate*](https://paradigmthreat.net/influence/predictive_programming/page.md) — **pyramid portal**, **ancient aliens** as **misdirection** from **engineered** function. **Gate. Other side. Don’t go.**
 
+**Games — especially the line after *Warcraft II* (1995).** Blizzard’s RTS sequel **[*Warcraft III*](https://warcraft.wiki.gg/wiki/Warcraft_III:_Reign_of_Chaos)** (2002) and the **WC2** campaigns themselves already showed you the answer under **fantasy** paint. The franchise’s central image is the **Dark Portal** — a **stone gate** between **worlds**, explicitly a **dimensional passage** ([Dark Portal — Warcraft Wiki](https://warcraft.wiki.gg/wiki/Dark_Portal)). Alongside it sit **Runestones**: **huge, monolithic stone monuments** scattered through **Azeroth**, **ancient monoliths** erected for **protection and warding**, powering a border barrier called **Ban'dinoriel** — **“the Gatekeeper”** ([Runestone — Warcraft Wiki](https://warcraft.wiki.gg/wiki/Runestone); [WC2 manual — Runestone at Caer Darrow](https://wowpedia.fandom.com/wiki/Runestone_(Warcraft_II))). In mission art and fan comparison they **read as Stonehenge**: upright **sarsen-class** blocks, **ring grammar**, **clearly a gate** — players have mapped in-world **Throne of the Elements** and elven **runestones** side-by-side with photographs of **Salisbury** (*“duh”*, in the idiom of early fan blogs). Community summaries state the obvious in plain English: **monolithic monuments resembling real-life Stonehenge in the UK**, deployed as **border portals / ward hardware** across a fictional map.
+
+**Author read:** We have been **told what Stonehenge is** many times — **only under science-fiction rules**. Fantasy lets you **see** the **helix / gate / crossing** stack, **nod**, **dismiss** (“it’s just a game”), and **laugh** when someone cites the same structure **without** the elves. That is the **full predictive-programming loop**: **introduce** the possibility → **frame** it as **fiction** → **inoculate** against **serious** recurrence. By the time you hear **quantum portal** in a **history** article, your **reflex** is already trained by **hundreds of hours** of **clicking through** stone gates that **work**.
+
 Predictive programming does not always **hide** the truth. Sometimes it **preloads a laugh** so when you hear **Stonehenge** in a **serious** context — **quantum**, **ley**, **Golden Age** — your **reflex** is **comedy**, not **investigation**.
 
-So which is it? Did a **rock band writer** **randomly** imagine a **conceptual gateway** and **accidentally** match **Birkeland helices**, **bio-EM transit**, and **demon folklore**?
+So which is it? Did a **rock band writer** **randomly** imagine a **conceptual gateway** — or a **RTS campaign designer** **randomly** plant **Stonehenge-class runestones** beside a **Dark Portal** — and **accidentally** match **Birkeland helices**, **bio-EM transit**, and **demon folklore**?
 
-Or does the **song** — and the **whole** **miniature-stonehenge** gag — exist so **you** will **giggle** when the **real** word surfaces?
+Or does the **song**, the **miniature-stonehenge** gag, and the **Runestone at Caer Darrow** mission exist so **you** will **giggle** when the **real** word surfaces?
 
 I know what I hear when the **soft winds blow**.
 
