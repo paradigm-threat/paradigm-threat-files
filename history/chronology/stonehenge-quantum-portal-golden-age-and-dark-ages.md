@@ -102,7 +102,21 @@ I do not think it absurd that a **multi-century plan** followed: **fabricate** a
 
 The pattern rhymes with [**Kirisuto no Haka**](https://paradigmthreat.net/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md): a **material locus** that **predates** modern packaging, **marginalized** while a **narrative-safe** substitute (**Palestine**, **folklore**, **gisho** scandal) **captures attention**. Destroy or **relocate** what **challenges the story**; leave a **decoy** the faithful can visit without **recovering memory**.
 
-Stonehenge as **unsolved mystery** serves the same ** containment**: awe without **mechanism**, **giggle tracks** without **transit**.
+Stonehenge as **unsolved mystery** serves the same **containment**: awe without **mechanism**, **giggle tracks** without **transit**.
+
+---
+
+## The official mystery — and the machine that will “solve” it
+
+Predictive programming around Stonehenge is not only *Spinal Tap*. The **official status** is part of the script: **“unsolved mystery.”** BBC headlines still ask how the altar stone **“finally arrived”** ([BBC News, 2025](https://www.bbc.co.uk/news/articles/cvgz20dy589o)); wire services promise a **“century-old mystery may finally be solved”** ([ScienceDaily, Jan 2026](https://www.sciencedaily.com/releases/2026/01/260127010208.htm)) — always **one more mineral fingerprint away**, never **portal mechanics**.
+
+The **solution is pre-framed as beyond ordinary human capacity.** You are taught that **Neolithic transport**, **alignments**, and **multi-phase rearrangement** form a combinatorial puzzle no working mind could hold — so **machine cognition** must finish the job. **Forbes-class business and tech press** and archaeology outlets now run the same beat: **AI unlocks ancient secrets** — scrolls, geoglyphs, site detection ([Artnet survey, 2025](https://news.artnet.com/art-world/ai-cracks-archaeology-secrets-2637925)) — with Stonehenge always eligible for the **next** breakthrough headline. The joke is not hidden in a mockumentary; it is in **real headlines** that treat complexity as proof that **humans** must defer to **models**.
+
+**Author read:** The only way to **solve** Stonehenge is to know the **real facts** — Golden Age amplitude, ley crossings, relocation, deep-time misdating. Feed a model **fake chronology**, **fake physics**, and **1901–1964 geometry** as ground truth, and the **only** output that can pass peer review is something **baroquely complex** and **emotionally empty**: an enhanced **calendar**, a **ceremonial meeting place**, an **ancestor cult**, **solstice theater for Druids**. You will not understand it. You will say: **“Fine — I don’t understand, but I believe you.”** That is the **real** AI endgame anyway — not Terminator robots, but **cognitive offload**: stop thinking so the **machine + institution** thinks for you ([AI control investigation](https://paradigmthreat.net/science/ai/ai-control-investigation.md)).
+
+The model **admits** its bias in every disclaimer: it **defers to the establishment** — Wikipedia, *Nature* abstracts, English Heritage — and the establishment **never** wants **quantum portals**, **electric catastrophe**, or a **young catastrophic Earth** on the record. So when AI **officially solves** Stonehenge, the conclusion will land like **disappointment dressed as triumph**: **“just a calendar.”** **“Just a gathering site.”** Contradictory, underwhelming, **unpresentable in plain language** — and therefore **perfect** for a population trained to **laugh** at the word and **trust** the opaque answer.
+
+An AI that cannot **contemplate real human catastrophe in history** — because it has been denied the facts — will **officially** close the case while **officially** leaving you none the wiser. We should be **laughing at that** — not at the portal.
 
 ---
 
@@ -118,7 +132,7 @@ Stonehenge waited for **alignments**. CERN **forces** amplitude underground. Sam
 
 ## Where the demons dwell — Spinal Tap and the laugh track
 
-*This Is Spinal Tap* (1984) is remembered as comedy. The **song** is not arbitrary:
+*This Is Spinal Tap* (1984) is the **comedy-layer** inoculation. The **mystery-layer** is the BBC headline; the **authority-layer** is the AI press release (see above). All three train the same reflex. The **song** is not arbitrary:
 
 > **Stonehenge, where the demons dwell  
 > And the soft winds blow…**

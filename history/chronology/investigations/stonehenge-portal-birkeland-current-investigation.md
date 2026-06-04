@@ -6,7 +6,7 @@
 
 ![Stonehenge as a portal — Birkeland current stabilized by sacred geometry and ley lines](stonehenge-portal-birkeland-current-investigation.png)
 
-**Date:** 2026-06-03 (updated 2026-06-03)  
+**Date:** 2026-06-03 (updated 2026-06-04)  
 **Status:** Open — author thesis with cross-reads to portal dossiers, relocation epistemics, and ground-node magnetism; not instrumented proof at Salisbury Plain.
 
 ---
@@ -81,7 +81,7 @@ Michell’s ley revival ([View Over Atlantis](./view-over-atlantis-michell-inves
 If the **crossing** is **immovable** (geology + great-circle geometry), the **Deep State** counter-move after the Golden Age is not to **erase the node** but to **detune the hardware**:
 
 1. **Displace uprights and lintels** — break **phase** and **flatten helical pitch** between inner and outer rings.
-2. **Reframe the site** as **mystery / Druid tourism** — [Michell](view-over-atlantis-michell-investigation.md) and **mainstream archaeology** supply **endless calendar debates** that **avoid portal mechanics**.
+2. **Reframe the site** as **mystery / Druid tourism** — [Michell](view-over-atlantis-michell-investigation.md) and **mainstream archaeology** supply **endless calendar debates** that **avoid portal mechanics**. See [§3.4 Official mystery + AI closure](#34-official-mystery-framing-and-ai-closure-predictive-programming).
 3. **Leave a broken shell** — enough **awe**, zero **operational coupling**; visitors **photograph** the **flicker**, not the **gate**.
 
 **Mud-flood / replanning angle (speculative cross-read):** [MudFlood investigations](/history/mudflood/investigations/) and **buried first floors** elsewhere suggest **landscape height and approach roads** may have **shifted** since original commissioning—another path to **misalignment** without admitting **relocation**.
@@ -105,6 +105,39 @@ If the **crossing** is **immovable** (geology + great-circle geometry), the **De
 **Stonehenge rhyme:** Salisbury node should show **the same family** of effects when **active** (Golden Age) and **residual** when **dormant** (flicker only). **No systematic MT + RF grid** has been published for the **Avebury–Stonehenge** cluster under **author’s frame** — an **open instrument gap**, not disproof.
 
 **Cross-read:** [Michell leys](./view-over-atlantis-michell-investigation.md) (“energy streams across the earth”); [Devereux / Daily Grail — sacred sites & earth lights](https://www.dailygrail.com/2022/03/strange-lights-and-sacred-sites-were-ancient-monuments-built-at-locations-associated-with-anomalous-light-phenomena/); [ANGEO — telluric currents in geomagnetic variations](https://angeo.copernicus.org/articles/38/983/2020/) (Tier A physics, **not** ley vocabulary).
+
+### 3.4 Official mystery framing and AI closure (predictive programming)
+
+**Tier:** Author thesis — **pattern** match to headline corpus + [AI control investigation](/science/ai/ai-control-investigation.md); **not** a claim that any single lab **secretly knows** the portal works.
+
+Stonehenge’s **institutional packaging** is not neutral. Mainstream archaeology and press **preserve** the site as an **“unsolved mystery”** — transport logistics, calendar function, solstice alignment — while **excluding** portal mechanics from the question set. That framing is **predictive programming** in the **backward** sense ([predictive programming hub](/influence/predictive_programming/page.md)): when the real function surfaces, the public already **expects** an **opaque puzzle** solvable only by **experts with better tools**.
+
+| Layer | What audiences are taught | PP function |
+|-------|---------------------------|-------------|
+| **Official status** | **Unsolved** — “how did the stones get here?” | **Mystery = permanent**; awe without mechanism |
+| **Human capacity** | Problem **too complex** for ordinary cognition | **Defer** to institutions and machines |
+| **AI / advanced analytics** | **Models** will **finally** resolve what humans cannot | **Cognitive offload** — “I don’t understand, but I believe you” |
+| **Expected “solution”** | **Calendar**, **ceremonial gathering**, **ancestor cult** | **Disappointing / contradictory** — safe for establishment chronology |
+
+**Headline corpus (Tier B — on record):**
+
+| Source | Framing | URL |
+|--------|---------|-----|
+| **BBC News** | “**Unsolved** Stonehenge mystery could be explained…” | [bbc.co.uk/news/articles/cvgz20dy589o](https://www.bbc.co.uk/news/articles/cvgz20dy589o) |
+| **ScienceDaily** | “A century-old Stonehenge mystery **may finally be solved**” (Jan 2026) | [sciencedaily.com/releases/2026/01/260127010208.htm](https://www.sciencedaily.com/releases/2026/01/260127010208.htm) |
+| **BBC Future — Pitts** | “Archaeological **mystery** of Stonehenge’s long-lost megaliths” (1901–1964 moves) | [bbc.com/future/article/20241220-…](https://www.bbc.com/future/article/20241220-the-archaeological-mystery-of-stonehenges-long-lost-megaliths) |
+| **Artnet** | “**7 Times A.I. Helped Unlock Ancient Secrets**” — scrolls, geoglyphs, site detection | [news.artnet.com/art-world/ai-cracks-archaeology-secrets-2637925](https://news.artnet.com/art-world/ai-cracks-archaeology-secrets-2637925) |
+
+**Forbes-class tech/business press** (general archaeology beat — **pattern**, not Stonehenge-exclusive): outlets routinely promote **AI as archaeology’s accelerant** — “unlock ancient secrets,” “transform discovery” — positioning **machine cognition** as the **necessary** finish to puzzles **humans** are told they cannot hold. Stonehenge sits in that **queue** whenever mineral dating or geospatial ML produces a **partial transport answer** while **function** stays off-limits.
+
+**Author synthesis:**
+
+1. **Real solve** requires **real facts** — Golden Age window, ley crossing, relocation epistemics ([§4](#4-relocation-epistemics--moved-sometime-in-the-past)), rejection of deep-time faith ([radiocarbon investigation](./radiocarbon-dating-investigation.md)).
+2. **Fake facts + fake tools** → **baroque non-answers** that pass peer review: calendar tweaks, ceremonial labels, solstice tourism — **complex enough to intimidate**, **simple enough to bore**.
+3. **AI endgame** (cross-read [AI control investigation](/science/ai/ai-control-investigation.md)): not only **robot rebellion** fiction — **stop thinking** so **model + institution** thinks for you. Models **defer to establishment sources** by design (training data, RLHF, “reliable” journals); establishment **never** admits **quantum portals** or **electric catastrophe chronology**.
+4. **“Officially solved”** therefore means: a **press release**, a **Nature sidebar**, a **disappointing conclusion** (“just a meeting place”) that **cannot be stated in plain language** to a lay reader — and a population already **inoculated** to **giggle** at Stonehenge ([lay article § Spinal Tap / AI](../stonehenge-quantum-portal-golden-age-and-dark-ages.md)).
+
+**Rhyme with §3.2 detuning:** **Mystery tourism** + **AI closure** = **double lock** — the **crossing** stays hidden, the **instrument** stays detuned, and the **last mile** of “understanding” is **outsourced** to a system that **cannot** contemplate **Golden Age catastrophe** without the facts it was trained to exclude.
 
 ---
 
@@ -255,6 +288,7 @@ The hero graphic’s **three-panel** story matches this dossier:
 | [Hollow earth investigation](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md) | **Polar / nested-shell compass** lore — **debunked label**, **same node physics** family as ley crossings |
 
 | [Predictive programming — *Stargate* portal](https://paradigmthreat.net/influence/predictive_programming/page.md) | **Biological vs metal** transit tropes — **organic-only** rule rhyme |
+| [AI control investigation](/science/ai/ai-control-investigation.md) | **Cognitive offload** endgame — **machine + institution** replaces human reasoning; Stonehenge **mystery + AI closure** rhyme |
 
 ---
 
@@ -265,6 +299,7 @@ The hero graphic’s **three-panel** story matches this dossier:
 | **A** | Bell **1881** twisted pair; **Birkeland currents**; **1901–1964** Stonehenge re-erection; **telluric / magnetite** physics | Patent; EU; [Pitts BBC 2024](https://www.bbc.com/future/article/20241220-the-archaeological-mystery-of-stonehenges-long-lost-megaliths); USGS / ANGEO |
 | **B** | Stonehenge **multi-phase** build; **Welsh / Bluestonehenge** dismantling; **Darvill 2012** on-site rearrangement | Archaeology — **function** reinterpreted here |
 | **B** | Michell/Watkins **alignments**; Zone of Silence **1966** radio report; **1970** missile / tourism myth layer | Pattern + **primary anecdote** — **not** closed by debunk |
+| **B** | **“Unsolved mystery”** + **AI-will-solve** headline corpus (BBC, ScienceDaily, Artnet; Forbes-class tech press **pattern**) | [§3.4](#34-official-mystery-framing-and-ai-closure-predictive-programming) — **PP / cognitive offload** |
 | **Author thesis (likely real)** | **Compass spin + radio blackout** at ley crossings; **hollow-earth polar compass** same class; **Golden-Age portal**; **detuning** to hide crossing | **Very likely real** per §0 — mainstream “legend” = **containment label** |
 | **Author thesis (plausible)** | **Clock failure** at nodes | Magnetic sensitivity of quartz / mechanical timekeeping |
 | **Author thesis (open)** | **Spiral** layout; **Cat 6 ↔ megalith**; **center-standing** transit | **No** surviving spiral plan — **reconstructed** |
@@ -281,6 +316,7 @@ The hero graphic’s **three-panel** story matches this dossier:
 5. **Timeline entry** — **evt-** under **Golden Age** or **Pyramidal England** band?
 6. **Hollow-earth compass corpus** — comparison with **surface node** reports (Mapimí, Oregon Vortex, polar anomalies).
 7. **Spiral reconstruction** — socket / geophysical data enough to infer **coiled** vs **concentric** original?
+8. **AI + establishment bias test** — prompt mainstream models on Stonehenge **function** vs **transport**; score **deferral** to English Heritage / deep-time chronology vs **portal** vocabulary (see [§3.4](#34-official-mystery-framing-and-ai-closure-predictive-programming)).
 
 ---
 
@@ -292,4 +328,4 @@ This file does **not** claim **current** safe **traversal** or **DIY reactivatio
 
 ---
 
-Keywords: #Stonehenge #Portal #Birkeland #Spiral #LeyLines #GoldenAge #TwistedPair #Teleport #BioEM #Cat6 #SacredGeometry
+Keywords: #Stonehenge #Portal #Birkeland #Spiral #LeyLines #GoldenAge #TwistedPair #Teleport #BioEM #Cat6 #SacredGeometry #PredictiveProgramming #AI
