@@ -263,9 +263,28 @@ Cross-read **portal investigations** and **chronology** for **when gates open**:
 | **4077–3147 BCE (Golden Age)** | **Eight lowerings** — debris / incursion, collinear stack | **Stable high amplitude**; **rarely** open **lightning** | **Stonehenge** = **optional portal** — **not** required to **survive** |
 | **3147 BCE → Exodus** | Venus / Jupiter episodes; pyramid network | Degraded amplitude; **pyramid shells** on ley nodes | **Pyramids** = **mandatory** **survival** / command volume ([pyramid-energy](./pyramid-energy-kerrell-goggin-1977-investigation.md)) |
 | **806–687 BCE (Prometheus)** | **Nine encounters** — **cathode/anode lightning** | **Lightning routine**; open county **lethal** | **Cathedrals / minarets** = **mandatory** hollow-spire **sanctuary** ([chronology hub](/history/chronology/page.md)) |
+| **Post-medieval / gunpowder** | **Star forts** worldwide (trace italienne) | **Bastion geometry**; Giza **EM resonator** **admitted**, **intent** **denied** | **Fort Wood** / **Statue of Liberty** ([§8.2](#82-star-forts--admitted-em-geometry-denied-masonic-intent)) |
 | **6th c. BCE → Blip** | Orbits **finalize**; creation epoch **ends** | Predictable seasons; storms **subside** | Stonehenge **long detuned**; shelter **legacy** |
 
 **Synthesis for this dossier:** **Pyramids** and **cathedrals** **had** to be built — populations **died** without **shaped shelter** in the **Prometheus lightning** regime (and **pyramid-era** nodes before it). **Stonehenge** **never** occupied that **mandatory** class. Conflating **Prometheus** with **Golden Age Mars** misdates the **safety lesson** and misclassifies **why** megaliths were raised.
+
+### 8.2 Star forts — admitted EM geometry, denied masonic intent
+
+**Tier B (physics, on record):** Balezin, Evlyukhin, and colleagues — *Electromagnetic properties of the Great Pyramid: First multipole resonances and energy concentration*, **J. Appl. Phys.** (2018), [DOI 10.1063/1.5026556](https://doi.org/10.1063/1.5026556). Numerical model: the **Great Pyramid** **concentrates** **radio-frequency** energy (**200–600 m** wavelengths) into **internal chambers** and a region **under the base**. Summaries: [Physics World](https://physicsworld.com/a/chambers-in-egypts-great-pyramid-concentrate-radio-waves/); [phys.org](https://phys.org/news/2018-07-reveals-great-pyramid-giza-focus.html).
+
+**Tier B (mainstream dismissal, on record):** Popular science coverage explicitly frames the match as **coincidence** — ancient Egyptians **unlikely** to have known EM properties ([ScienceAlert](https://www.sciencealert.com/the-great-pyramid-of-giza-might-be-able-to-focus-electromagnetic-energy-in-its-chambers)). **Pattern:** **admit the resonator**, **deny the designer**.
+
+**Author thesis:** **Pyramids**, **cathedrals/minarets**, and **star forts** (trace italienne **bastions** worldwide) share **energetic masonry** — **concentrate / route / dissipate** fields through **geometry**. [Pyramid energy investigation](./pyramid-energy-kerrell-goggin-1977-investigation.md) holds Giza as **habitability-oriented shell** at **ley nodes**; [chronology hub](/history/chronology/page.md) holds **cathedrals** as **lightning sanctuary**; **star forts** extend the **same class** into **gunpowder-era** **redaction** (“**fortress**,” not **capacitor**).
+
+| Structure class | Mainstream admits | Mainstream denies | Example |
+|-----------------|-------------------|-------------------|---------|
+| **Great Pyramid** | **EM resonator**; chambers **collect** RF | **Intentional** Egyptian EM design | Giza — Balezin **2018** |
+| **Gothic cathedral / minaret** | **Scale**, **orientation**, **hollow spire** | **Plasma / lightning** **sanctuary** function | [chronology hub §806–687 BCE](/history/chronology/page.md) |
+| **Star fort (trace italienne)** | **Geometry**, **ballistics**, **global diffusion** | **Energetic** **masonic** **purpose** | **Fort Wood** / Bedloe's Island under **Statue of Liberty** — [ship-shaped airships investigation](/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md) |
+
+**Stonehenge contrast:** **Raised spiral** = **Golden-Age end port** (**optional**); **star fort** = **later** **survival / resonator** grammar (**mandatory** where **Prometheus** lightning and **post-network** **nodes** demanded **shaped stone**). Do **not** collapse **Stonehenge** into **star-fort** **military** historiography — different **epoch**, different **function**.
+
+**Open instrument gap:** Multipole / RF models exist for **Giza**; **systematic EM survey** of **star-fort** plans vs **control** **rectangular** forts at **claimed nodes** is **not** published under this project's frame.
 
 ---
 
@@ -294,7 +313,8 @@ The hero graphic’s **three-panel** story matches this dossier:
 | [Golden Age event dates](./golden-age-event-dates.md) | **4077–3147 BCE** operational window; **3147** shutdown; **eight Mars lowerings** ≠ Prometheus |
 | [Prometheus — Mars](/history/chronology/saturn/prometheus.md) | **Nine encounters** **806–687 BCE**; **lightning** lesson; **747 BCE** leap year; **not** Golden Age port era |
 | [View Over Atlantis — Michell](./view-over-atlantis-michell-investigation.md) | **Ley lines**, **Avebury–Stonehenge** sacred geography, **Stonehenge ch. 5** |
-| [Pyramid energy — Kerrell & Goggin](./pyramid-energy-kerrell-goggin-1977-investigation.md) | **Ley-node** pyramids; **EM concentration**; **portal / tunnel** language |
+| [Pyramid energy — Kerrell & Goggin](./pyramid-energy-kerrell-goggin-1977-investigation.md) | **Ley-node** pyramids; **EM concentration**; **portal / tunnel** language; **Balezin 2018** Giza resonator |
+| [Ship-shaped airships — Fort Wood / Liberty](/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md) | **Star fort** under **Statue of Liberty** — **Bedloe's Island**; period views |
 | [Pyramids were Portals — chronology](/history/chronology/page.md) | **Artificial Bifröst**; **England** listed among pyramid-building zones |
 | [history-qa — Birkeland / pyramids](/history/chronology/history-qa/page.md) | **Collinear currents**; **Birkeland jets**; **quantum tunnels** |
 | [CERN portal](/science/cern_portal/page.md) | Modern **door / something through** language; **aether** re-engineering |
@@ -315,6 +335,7 @@ The hero graphic’s **three-panel** story matches this dossier:
 |------|-------|-------|
 | **A** | Bell **1881** twisted pair; **Birkeland currents**; **1901–1964** Stonehenge re-erection; **telluric / magnetite** physics | Patent; EU; [Pitts BBC 2024](https://www.bbc.com/future/article/20241220-the-archaeological-mystery-of-stonehenges-long-lost-megaliths); USGS / ANGEO |
 | **B** | Stonehenge **multi-phase** build; **Welsh / Bluestonehenge** dismantling; **Darvill 2012** on-site rearrangement | Archaeology — **function** reinterpreted here |
+| **B** | **Balezin et al. 2018** — Giza **RF resonator**; chambers **concentrate** energy; mainstream **coincidence** dismissal | [§8.2](#82-star-forts--admitted-em-geometry-denied-masonic-intent) |
 | **B** | Michell/Watkins **alignments**; Zone of Silence **1966** radio report; **1970** missile / tourism myth layer | Pattern + **primary anecdote** — **not** closed by debunk |
 | **B** | **“Unsolved mystery”** + **AI-will-solve** headline corpus (BBC, ScienceDaily, Artnet; Forbes-class tech press **pattern**) | [§3.4](#34-official-mystery-framing-and-ai-closure-predictive-programming) — **PP / cognitive offload** |
 | **Author thesis (likely real)** | **Compass spin + radio blackout** at ley crossings; **hollow-earth polar compass** same class; **Golden-Age portal**; **detuning** to hide crossing | **Very likely real** per §0 — mainstream “legend” = **containment label** |
@@ -345,4 +366,4 @@ This file does **not** claim **current** safe **traversal** or **DIY reactivatio
 
 ---
 
-Keywords: #Stonehenge #Portal #Birkeland #Spiral #LeyLines #GoldenAge #TwistedPair #Teleport #BioEM #Cat6 #SacredGeometry #PredictiveProgramming #AI
+Keywords: #Stonehenge #Portal #Birkeland #Spiral #LeyLines #GoldenAge #TwistedPair #Teleport #BioEM #Cat6 #SacredGeometry #PredictiveProgramming #AI #StarFort #PyramidResonator

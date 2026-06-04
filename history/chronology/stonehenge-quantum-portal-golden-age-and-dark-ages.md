@@ -68,7 +68,21 @@ By the **Prometheus era** — **nine Mars encounters** ending **686 BCE**, the *
 
 The empire collapses when pyramids **stop coupling** — [**Exodus ~1492 BCE**](https://paradigmthreat.net/timeline/evt-passover-of-comet-venus) disables the network. Stonehenge had been **museum pieces** for millennia before that. The **Prometheus** lightning lesson lands **later still** — when Mars **returns** not as debris-stream **incursion** but as **cathode-to-anode** **storm**.
 
-## Deep time — why we reject the official dates
+---
+
+## Star forts — geometry admitted, intent denied
+
+The **pyramid mystery** has a **mainstream-admitted** layer that never makes the tour-bus script: **large stone geometry concentrates electromagnetic energy**. Theoretical work on the **Great Pyramid of Giza** models it as a **natural electromagnetic resonator** — **radio waves** in the **200–600 m** band **focus into the King's Chamber** and beneath the base (Balezin et al., *J. Appl. Phys.* **2018**, [DOI 10.1063/1.5026556](https://doi.org/10.1063/1.5026556); [Physics World summary](https://physicsworld.com/a/chambers-in-egypts-great-pyramid-concentrate-radio-waves/); [phys.org](https://phys.org/news/2018-07-reveals-great-pyramid-giza-focus.html)). Physicists **record the effect**, then **close the file** with **“geometric coincidence”** — the ancient Egyptians **could not** have designed it deliberately ([ScienceAlert](https://www.sciencealert.com/the-great-pyramid-of-giza-might-be-able-to-focus-electromagnetic-energy-in-its-chambers): *“highly unlikely that the ancient Egyptians knew about these properties”*).
+
+**Author read:** That is the **same epistemic move** applied to **every** engineered megastructure once the **function** surfaces. **Antiquity's masons** understood **energetic properties of buildings** — pyramids, **hollow spires**, and **bastion stars** are **one family** of **shelter / resonator** hardware, later **redacted** into **tombs**, **churches**, or **artillery forts**.
+
+**Star forts** worldwide belong in that family. The **trace italienne** plan — **radial bastions**, **angled curtains**, **central parade** — is not **only** gunpowder aesthetics. It is **field geometry** at **human scale**: concentrate, **route**, and **dissipate** energy through **stone** the way a **pyramid** does at **monument scale**. Mainstream history admits the **shape** everywhere from **Hormuz** to **Europe**; it **denies** the **energetic literacy** that would make **thousands** of **matching** plans a **technology**, not a **fashion**.
+
+One **visible American example:** the **Statue of Liberty** stands on **Fort Wood** — a **large star fort** on **Bedloe's Island** ([ship-shaped airships investigation](https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md); period bird's-eye views show the **bastion star** **before** the pedestal). **Liberty** is mounted on **survival geometry**, not empty patriotism — the **node** was already **shaped** when the **copper** arrived.
+
+**Stonehenge** sits **outside** this **later** resonator lineage: **optional Golden-Age port**, not **star-fort** **mandatory shelter**. The rhyme is **inverse**: where **Giza** and **star forts** **concentrate** what **already** arrives, Stonehenge **terminated** a **skyward** **twisted pair** when the **collinear battery** still **pumped** the gate.
+
+---
 
 Mainstream Stonehenge is pinned to **Neolithic** millennia and a **4.5-billion-year** Earth by **mineral dating** and **radiocarbon** — methods this project treats as **deep-time faith**, not **laboratory-demonstrated history**.
 
