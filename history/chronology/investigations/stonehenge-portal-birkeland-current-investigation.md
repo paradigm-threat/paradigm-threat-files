@@ -245,11 +245,27 @@ Cross-read **portal investigations** and **chronology** for **when gates open**:
 | **3147 BCE** | Collapse | Great Flood; configuration breaks ([golden-age-event-dates](./golden-age-event-dates.md)) | **Portal begins closing** — geometry **insufficient alone** |
 | **2624–2427 BCE** | **Pyramidal Empire** | **Artificial** tunnels on **ley nodes** ([Pyramids were Portals](/history/chronology/page.md)) | **Parallel network** — Egypt/Mesopotamia/**England**/Andes; Stonehenge **likely legacy or relay**, not **prime** gate |
 | **2349 BCE – ~1492 BCE** | **Dark Ages** alignments | **Jupiter-era** Birkeland jets; pyramid travel | **Degraded** — megalith **misaligned**; **tourist myth** layer grows |
+| **806–687 BCE** | **Prometheus** lightning era | **Nine Mars encounters**; cathode/anode storms; [Prometheus](/history/chronology/saturn/prometheus.md) | **Not** Stonehenge window — **cathedral/minaret** **survival** lesson; Stonehenge **detuned relic** |
 | **Post-Exodus / modern** | **CERN / accelerator** attempts | **Aether distortion** ([CERN portal](/science/cern_portal/page.md)) | **Industrial re-trial** — **no** claim Stonehenge **restored** |
 
 **Synthesis:** User thesis **“only worked in the Golden Age”** = **strongest** when the **collinear current** supplied the **planetary pump**. Later **pyramid gates** are **cousins**, not **identical** to Stonehenge’s **ring torus**. After **3147**, Stonehenge is **heritage hardware**—still on the **crossing**, **never** fully re-keyed.
 
 **Norse / Bifröst cross-read:** [history-qa](/history/chronology/history-qa/page.md) describes **quantum entanglement** (“**Bifröst**”) between planets during the Golden Age—**instantaneous** transit. Stonehenge fits the **British node** of that **naturally occurring** network before **pyramids** became the **Artificial Bifröst**.
+
+### 8.1 Mars epochs — Golden Age incursion vs Prometheus lightning (do not conflate)
+
+**Critical distinction (author thesis):** [**Prometheus**](/history/chronology/saturn/prometheus.md) is **not** the Golden Age **eight lowerings** (Cook, **4077–3147 BCE**). Those earlier Mars episodes were **physical incursion** — **rock and debris streams**, material reaching Earth as Mars **descended** inside the collinear stack ([golden-age-event-dates](./golden-age-event-dates.md); Talbott documentary sequence). Amplitude was **high and comparatively stable**; **lightning** on open ground was **rare** next to **spawning / reshaping** discharge. **Stonehenge** belongs here: an **optional** **port**, **not** **survival** architecture.
+
+**Prometheus era** = **end of cataclysm age**, leading into the **6th century BCE** and [**the Blip**](/timeline/evt-670-bce-the-blip): **~nine consecutive Mars encounters** (**806–687 BCE** band; final shell loss **686 BCE**; **747 BCE** magnetosphere bump — [chronology hub §806–687 BCE](/history/chronology/page.md)). Here Mars teaches **lightning** — Earth's surface as **cathode**, **planet-wide electric storms**, caves **unreliable**. Myth: **nine times** the **inner shell** is **torn and reknit**; **Prometheus punished for fire**.
+
+| Epoch | Mars character | Energy on open ground | Architecture class |
+|-------|----------------|----------------------|-------------------|
+| **4077–3147 BCE (Golden Age)** | **Eight lowerings** — debris / incursion, collinear stack | **Stable high amplitude**; **rarely** open **lightning** | **Stonehenge** = **optional portal** — **not** required to **survive** |
+| **3147 BCE → Exodus** | Venus / Jupiter episodes; pyramid network | Degraded amplitude; **pyramid shells** on ley nodes | **Pyramids** = **mandatory** **survival** / command volume ([pyramid-energy](./pyramid-energy-kerrell-goggin-1977-investigation.md)) |
+| **806–687 BCE (Prometheus)** | **Nine encounters** — **cathode/anode lightning** | **Lightning routine**; open county **lethal** | **Cathedrals / minarets** = **mandatory** hollow-spire **sanctuary** ([chronology hub](/history/chronology/page.md)) |
+| **6th c. BCE → Blip** | Orbits **finalize**; creation epoch **ends** | Predictable seasons; storms **subside** | Stonehenge **long detuned**; shelter **legacy** |
+
+**Synthesis for this dossier:** **Pyramids** and **cathedrals** **had** to be built — populations **died** without **shaped shelter** in the **Prometheus lightning** regime (and **pyramid-era** nodes before it). **Stonehenge** **never** occupied that **mandatory** class. Conflating **Prometheus** with **Golden Age Mars** misdates the **safety lesson** and misclassifies **why** megaliths were raised.
 
 ---
 
@@ -275,7 +291,8 @@ The hero graphic’s **three-panel** story matches this dossier:
 
 | Investigation | Relevance to Stonehenge |
 |---------------|-------------------------|
-| [Golden Age event dates](./golden-age-event-dates.md) | **4077–3147 BCE** operational window; **3147** shutdown |
+| [Golden Age event dates](./golden-age-event-dates.md) | **4077–3147 BCE** operational window; **3147** shutdown; **eight Mars lowerings** ≠ Prometheus |
+| [Prometheus — Mars](/history/chronology/saturn/prometheus.md) | **Nine encounters** **806–687 BCE**; **lightning** lesson; **747 BCE** leap year; **not** Golden Age port era |
 | [View Over Atlantis — Michell](./view-over-atlantis-michell-investigation.md) | **Ley lines**, **Avebury–Stonehenge** sacred geography, **Stonehenge ch. 5** |
 | [Pyramid energy — Kerrell & Goggin](./pyramid-energy-kerrell-goggin-1977-investigation.md) | **Ley-node** pyramids; **EM concentration**; **portal / tunnel** language |
 | [Pyramids were Portals — chronology](/history/chronology/page.md) | **Artificial Bifröst**; **England** listed among pyramid-building zones |

@@ -34,13 +34,15 @@ That is the class Stonehenge belongs to. Not the apex. The **primitive** early c
 
 ---
 
-## Prometheus and Mars — learning where not to stand
+## Prometheus and Mars — two different Mars epochs
 
-The safety lesson sharpened during the **Mars lowerings** of the Era of Gods — Cook’s **eight descents** between **4077 and 3147 BCE**, mythically packaged as [**Prometheus**](https://paradigmthreat.net/history/chronology/saturn/prometheus.md) **punished** for fire: lightning scars on the inner shell of Mars, flesh torn and reknit, the sky **wrong** when the discharge lands on **bad terrain**.
+Do not confuse **Golden Age Mars** with [**Prometheus**](https://paradigmthreat.net/history/chronology/saturn/prometheus.md).
 
-Ancients did not need a laboratory. They watched. Energy that could **spawn life** in a **structured port** could **shred** a flat plain. **Prometheus** is Mars in this repo’s Saturnian lexicon; the **observation** is general: **match the shape** or **pay**.
+During the [**Golden Age**](https://paradigmthreat.net/timeline/evt-4077-bce-the-golden-age) (**4077–3147 BCE**), Mars rode inside the collinear stack. Cook records **eight lowerings** in the Era of Gods ([golden-age event dates dossier](https://paradigmthreat.net/history/chronology/investigations/golden-age-event-dates.md)) — but those encounters were a **different class** from Prometheus: **physical incursion**, streams of **rock and debris**, material reaching Earth as the god **descended** and **re-ascended**. Amplitude stayed **high and comparatively stable**. Energy **spawned** and **reshaped** more than it **flashed** as open-ground **lightning**. You could **port** at a node; you were **not** yet forced to **live inside** engineered stone to survive the sky.
 
-By the time the collinear configuration breaks at [**3147 BCE**](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages) — the Great Flood band — humanity already knew **where** to build and **where** to hide. The Dark Ages would turn that knowledge into **industry**.
+The **Prometheus** story belongs at the **other end** of the [**Dark Ages**](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages) — leading up to the **6th century BCE**, the start of [**the Blip**](https://paradigmthreat.net/timeline/evt-670-bce-the-blip): **end of the cataclysm age**. Over roughly **nine consecutive close encounters** with Mars (**806–687 BCE** band in the [chronology hub](https://paradigmthreat.net/history/chronology/page.md)), humanity learned what **lightning** really costs. The Earth's surface acted as **cathode**; Mars as **anode**; **planet-wide electric storms** made caves unreliable. Witnesses watched **lightning scars** stripe the inner shell of Mars **nine times** — flesh **torn and reknit** — and mapped the lesson onto **Prometheus punished for fire**. On **27 February 747 BCE**, Mars bumps the magnetosphere again; calendar keepers introduce **leap years**. By then **lightning had become so common an element of creation** that **shelter architecture was no longer optional**.
+
+**Stonehenge was never in that survival class.** Nobody **had** to build it to **live**. It was an **optional** Golden-Age **port** — useful when amplitude was right, a **relic** once the collinear battery broke at [**3147 BCE**](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages). **Pyramids** and **cathedrals** **had** to be built — or the humans in those regions **did not survive** the **Prometheus-era** lightning. **Match the shape** or **pay** — that law was **written in blood** during the nine encounters, not during Stonehenge.
 
 ---
 
@@ -50,23 +52,21 @@ My read: Stonehenge’s **original** layout was a **plan-view spiral** of **rais
 
 **Operation (author thesis):** On alignment windows, cosmic energy **periodically** strikes the node — **stable** in character, **not** an on-demand utility. A traveler **stands at the center of the spiral** as the **Birkeland vortex** fills the helix from ground to **source planet**. The living body’s **own electromagnetic field** **rides** the channel; **dead matter** — **metal**, **cloth**, tools — **couples wrong**, **disrupts** the gate, or **shears**. **Hard rule:** only what **generates its own EM** transits cleanly. What is **inside** you may survive; **what you wear** is a **bad idea**.
 
-**Why primitive:** Stonehenge lacks the **interior volume**, **node network**, and **Dark-Ages refinement** of the [**pyramidal empire**](https://paradigmthreat.net/history/chronology/history-qa/page.md). It worked when **planetary amplitude** alone could **pump** the gate — **Golden Age only**. After **3147 BCE**, the same stones became **heritage hardware**: still on a **crossing**, never **re-keyed**, eventually **detuned** into the **ruin** tourists photograph.
+**Why primitive — and optional:** Stonehenge lacks the **interior volume**, **node network**, and **Dark-Ages refinement** of the [**pyramidal empire**](https://paradigmthreat.net/history/chronology/history-qa/page.md). It worked when **planetary amplitude** alone could **pump** the gate — **Golden Age only**. It was **never mandatory survival hardware**; unlike **pyramids** and **cathedrals**, you did **not** need Stonehenge to **outlive** the sky. After **3147 BCE**, the same stones became **heritage hardware**: still on a **crossing**, never **re-keyed**, eventually **detuned** into the **ruin** tourists photograph.
 
 **No spiral plan survives in the open record today** — fallen lintels, **Stage 4** rearrangements, **1901–1964** concrete resets. Faith in the **crossing** and faith in the **original geometry** stand or fall **together**.
 
 ---
 
-## Dark Ages — pyramids, cathedrals, perfected shelter
+## Dark Ages — pyramids, cathedrals, mandatory shelter
 
-The [**Dark Ages**](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages) (**3147 BCE** forward) are the long **degraded-amplitude** epoch: Mars and Venus episodes, mud-flood pulses, arc weather on open ground. Portal travel **does not vanish**; it **changes class**.
+The [**Dark Ages**](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages) (**3147 BCE** forward) are the long **degraded-amplitude** epoch: Mars and Venus episodes, mud-flood pulses, and — by the **cataclysm's end** — **lightning** so routine that open ground kills. Portal travel **does not vanish**; it **changes class**. **Shelter** becomes **compulsory**.
 
-Between **2624 and 2427 BCE**, the [**pyramid wave**](https://paradigmthreat.net/history/chronology/history-qa/page.md) lands on **ley nodes** — **Artificial Bifröst**, **quantum tunnels** engineered for **survival and command** when the collinear battery is gone. Pyramids are **not** tombs in this reading; they are **Faraday-like shells** at the **safest** EM focal points — **stores, personnel, continuity** inside volume that **channels** rather than **invites** raw discharge ([pyramid energy investigation](https://paradigmthreat.net/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md)).
+Between **2624 and 2427 BCE**, the [**pyramid wave**](https://paradigmthreat.net/history/chronology/history-qa/page.md) lands on **ley nodes** — **Artificial Bifröst**, **quantum tunnels** engineered when the collinear battery is gone. Pyramids are **not** tombs in this reading; they are **Faraday-like shells** at the **safest** EM focal points — **stores, personnel, continuity** inside volume that **channels** rather than **invites** raw discharge ([pyramid energy investigation](https://paradigmthreat.net/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md)). Regions that **built** them **lived**; regions that **did not** **did not**.
 
-By the **late Dark Ages**, **Gothic cathedrals** enter the same **speculative class**: tall **nave**, **spire**, oriented footprint — **imperfect resonators** compared to Giza, but **built to live in** when plasma weather makes the **open county** lethal ([MudFlood / buried spire corpus](https://paradigmthreat.net/history/mudflood/page.md)). Stonehenge, meanwhile, is already a **relic** — the **first crude port** from the age when the sky did most of the work.
+By the **Prometheus era** — **nine Mars encounters** ending **686 BCE**, the **Blip** opening in the **6th century BCE** — **Gothic cathedrals** and **minarets** enter the same **survival class**: hollow **spire** and **nave** routing current **around** inhabitants when **interplanetary lightning** makes the **open county** lethal ([chronology hub — cathedrals as sanctuary](https://paradigmthreat.net/history/chronology/page.md); [MudFlood / buried spire corpus](https://paradigmthreat.net/history/mudflood/page.md)). **_All cathedrals originally provided sanctuary from interplanetary lightning storms._** Stonehenge, meanwhile, was already a **relic** — an **optional** first crude **port** from the age when the sky **spawned** more than it **struck**.
 
-The empire collapses when pyramids **stop coupling** — [**Exodus ~1492 BCE**](https://paradigmthreat.net/timeline/evt-passover-of-comet-venus) disables the network. Stonehenge had been **museum pieces** for millennia before that.
-
----
+The empire collapses when pyramids **stop coupling** — [**Exodus ~1492 BCE**](https://paradigmthreat.net/timeline/evt-passover-of-comet-venus) disables the network. Stonehenge had been **museum pieces** for millennia before that. The **Prometheus** lightning lesson lands **later still** — when Mars **returns** not as debris-stream **incursion** but as **cathode-to-anode** **storm**.
 
 ## Deep time — why we reject the official dates
 

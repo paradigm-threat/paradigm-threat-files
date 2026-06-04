@@ -1,8 +1,39 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-04T12:15:19.758Z",
+    "date": "2026-06-04T12:38:50.134Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md",
+        "href": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md",
+        "href": "/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.png",
+        "alt": "Stonehenge as a portal — Birkeland current stabilized by sacred geometry and ley lines"
+      },
+      {
+        "src": "/history/chronology/investigations/zone-of-silence-ley-crossing-magnetism.png",
+        "alt": "Zone of Silence — ley-crossing magnetism meme (radios, compasses, clocks at nodes)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png",
+        "alt": "Stonehenge quantum portal — Golden Age and Dark Ages (article lead)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-04T12:15:18.000Z",
+    "message": "Add Stonehenge AI mystery-framing predictive programming thesis.",
     "files": [
       {
         "status": "M",
@@ -1527,24 +1558,6 @@
         "status": "M",
         "path": "influence/controlled_opposition/make-gordonston-great-again-onepager.source.md",
         "href": "/influence/controlled_opposition/make-gordonston-great-again-onepager.source"
-      },
-      {
-        "status": "M",
-        "path": "scripts/generate-mgga-onepager.py",
-        "href": "/scripts/generate-mgga-onepager.py"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-30T13:20:45.000Z",
-    "message": "Fill MGGA one-pager to full letter page height.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/make-gordonston-great-again-onepager.pdf",
-        "href": "/influence/controlled_opposition/make-gordonston-great-again-onepager.pdf"
       },
       {
         "status": "M",
