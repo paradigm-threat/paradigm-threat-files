@@ -1,8 +1,44 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-03T16:20:08.028Z",
+    "date": "2026-06-04T12:03:40.376Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md",
+        "href": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md",
+        "href": "/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.png",
+        "alt": "Stonehenge as a portal — Birkeland current stabilized by sacred geometry and ley lines"
+      },
+      {
+        "src": "/history/chronology/investigations/zone-of-silence-ley-crossing-magnetism.png",
+        "alt": "Zone of Silence — ley-crossing magnetism meme (radios, compasses, clocks at nodes)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.png)](https://paradigmthreat.net/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md",
+        "alt": "Stonehenge as portal — Birkeland current and ley crossing"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-03T16:20:07.000Z",
+    "message": "Revise Japan Christ burial thesis: Japan yes, Shingo unproved, Smithsonian Project.",
     "files": [
       {
         "status": "M",
@@ -1513,37 +1549,6 @@
         "status": "A",
         "path": "scripts/generate-mgga-onepager.py",
         "href": "/scripts/generate-mgga-onepager.py"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
-        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
-        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-class.png",
-        "alt": "Make Gordonston Great Again — volunteer homework campus vision: children, volunteers, and study tools in the church education wing"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-30T12:49:48.000Z",
-    "message": "Add SBC-compatible religious-host rules for MGGA homework pilot.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
-        "href": "/influence/controlled_opposition/make-gordonston-great-again"
       }
     ],
     "images": [

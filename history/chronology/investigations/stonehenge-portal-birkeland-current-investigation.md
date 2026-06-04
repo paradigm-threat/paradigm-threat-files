@@ -1,6 +1,8 @@
 # Stonehenge as Portal — Birkeland Current, Ley Crossings, and Golden-Age Geometry
 
-> **TL;DR:** **Author thesis:** Stonehenge is a **dormant portal** whose **raised circular ring** was engineered to **match and stabilize** a **rotating Birkeland-current column** at a **ley-line crossing** — not a **flat** circle but a **3D helix**: **plan closure** (ring) plus **block height** (uprights + lintels + tiered horseshoe) = **twisted-wire pitch** in stone. It functioned during the **Golden Age** (**4077–3147 BCE**) when telluric and interplanetary currents could **couple** through that geometry. **Stone displacement** — prehistoric **and** documented **1901–1964** re-erection — broke alignment; the **crossing still exists** beneath the ruin, but the **portal is closed**. **Epistemic spine:** faith in the **ley crossing** is structurally similar to faith in **original stone positions** — both reconstructed, both obscured by **“moved sometime in the past”** hand-waves while **crane-and-concrete** evidence sits in plain sight. **Ground nodes** at line crossings produce **compass deviation** and **radio failure** (Mexico’s **Zone of Silence**, polar **hollow-earth** compass lore) — mainstream **debunk** labels, author read: **very likely real**, same suppression pattern as Stonehenge portal mechanics. **Clocks** at such nodes: **plausible to a degree** (magnetic + telluric interference with quartz timing). **Bell 1881 twisted pair ↔ Cat 6 ↔ megalith** = helical bandwidth geometry rediscovered late.
+> **TL;DR:** **Author thesis:** Stonehenge was a **raised spiral** (original plan **lost** today) — **twisted pair in stone**, **axis skyward** — **end port** at a **ley crossing** for **periodic** cosmic / interplanetary coupling. Traveler **stands at spiral center**; **Birkeland vortex** fills the helix to the **source planet**; **bio-EM only** transits (**no dead matter** — **clothes/metal** disrupt). Golden Age window **4077–3147 BCE**; **detuned** since (incl. **1901–1964** resets). **Bell/Cat 6** = same helical geometry at wire scale.
+
+**Lay article:** [Stonehenge: Quantum Portal of the Golden Age — and Why They Want You to Laugh](../stonehenge-quantum-portal-golden-age-and-dark-ages.md) — reader voice.
 
 ![Stonehenge as a portal — Birkeland current stabilized by sacred geometry and ley lines](stonehenge-portal-birkeland-current-investigation.png)
 
@@ -27,9 +29,11 @@ This dossier follows [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md) and [**IN
 
 ## 1. Thesis
 
-Stonehenge is not primarily a **calendar**, **cemetery**, or **prehistoric observatory** in the academic sense—though it may have served those **secondary** roles. In this project’s reading it is a **portal stabilizer**: sarsen and bluestone arranged as a **helical torus** — **circular in plan**, **rising in section** — to **phase-lock** a **Birkeland current** at a **ley crossing** so that **energy, information, and consciousness** could pass between **worlds** (planets, realms, or entangled locations—see [§7 When Stonehenge was active](#7-when-stonehenge-was-active--golden-age-window) below). A **flush** ground ring would be a **loop** only; **elevated** blocks give it **pitch** (the twist).
+Stonehenge is not primarily a **calendar**, **cemetery**, or **prehistoric observatory** in the academic sense—though it may have served those **secondary** roles. In this project’s reading it is a **portal stabilizer**: sarsen and bluestone arranged as a **helical torus** — **circular in plan**, **rising in section** — to **phase-lock** a **Birkeland current** at a **ley crossing** so that **energy, information, and consciousness** could pass between **worlds** (planets, realms, or entangled locations—see [§8 When Stonehenge was active](#8-when-stonehenge-was-active--golden-age-window) below). A **flush** ground ring would be a **loop** only; **elevated** blocks give it **pitch** (the twist).
 
 **Operational window:** **Golden Age only** — the epoch when the **collinear planetary stack** showered Earth with a **stable, life-promoting** current ([history-qa](/history/chronology/history-qa/page.md); [Golden Age event dates](./golden-age-event-dates.md)). After the configuration broke (**3147 BCE** flood band), the **same geometry** could not **re-close** the gate without the **planetary battery** online. Later **pyramid portals** ([Pyramids were Portals](/history/chronology/page.md)) exploited **different** alignment windows; Stonehenge belongs to the **earlier** Saturnian-column era.
+
+**Author thesis (original form):** The **true** layout was a **plan-view spiral** of **raised** blocks — a **twisted pair aimed skyward** — forming an **end port** where **cosmic / interplanetary** energy could **periodically** couple at the ley crossing. **No surviving evidence** of the full spiral today (detuning, relocation, ruin); the present **ring + horseshoe** is **collapsed** hardware. See [§7 Spiral operation & transit](#7-spiral-operation--transit).
 
 **Dormancy today:** The **ley crossing persists**; the **instrument is detuned**. Stones were **moved**, **fallen**, or **re-seated**; surrounding **landscape and track networks** were **reordered** (Michell’s “former geographical order” — [View Over Atlantis](./view-over-atlantis-michell-investigation.md)). The site reads as **ruin + heritage park**; the **portal flickers** but does **not** open.
 
@@ -160,11 +164,45 @@ Modern **Category 6** (and higher) cable **inherits** the same principle at **ma
 
 **Plan (circle):** azimuthal **closure** — the **return path**. **Section (height):** each upright + lintel **lifts** the circuit off the chalk; **horseshoe trilithons** step **above** the outer sarsen ring — **nested helices**, one axis. Together: **twisted wire in stone**, not a **ground-level** ring.
 
-**Why detuning kills the portal:** Moving or **flattening** stones removes **pitch**; a **circle without elevation** is not a **Birkeland/Cat-6 analogue**.
+**Plan (spiral):** azimuthal **closure** along a **coiling** path — not merely a single circle. **Section (height):** each upright + lintel **lifts** the circuit; the **helix rises** toward the **Birkeland column** above. **Center:** the **still point** where a traveler **stands** when the burst arrives.
+
+**Why detuning kills the portal:** Moving or **flattening** stones **unwinds the spiral** and removes **pitch**; a **circle without elevation** is not a **Birkeland/Cat-6 analogue**.
 
 ---
 
-## 7. When Stonehenge was active — Golden Age window
+## 7. Spiral operation & transit
+
+**Tier:** Author thesis — **no** instrumented proof; **no** claim of safe travel today.
+
+### 7.1 End port — energy into the helix
+
+The spiral of **raised** stone was a **ground-terminated twisted pair**: **pitch** in masonry, **axis** vertical — **coupling upward** into the sky column. On **planetary alignment** windows (Golden Age **Birkeland battery**), energy **periodically** strikes the **ley crossing** — **stable** in character but **not** a modern **on-demand utility** (coupling is **natural**, **intermittent**, **unscheduled**).
+
+When the burst hits, the **quantum / entangled** component **fills** the spiral path in a **Birkeland vortex** — from the **center node** back along the filament to the **source**, typically **another planet** in the collinear or pyramid-era network ([Bifröst / pyramids](/history/chronology/page.md)).
+
+### 7.2 Use — center of the spiral
+
+**Operator model:** A person **steps into the center** of the spiral as the column **forms**. The **twisted-pair geometry** **phase-locks** the body’s **own electromagnetic field** to the vortex; the traveler is **pushed** through the **quantum tunnel** to the **far terminus** — **protected by living EM**, not by stone or metal armor.
+
+### 7.3 Passage rules — biological EM only
+
+**Hard rule (author thesis):** Only matter that **generates its own electromagnetic field** transits intact. **Dead material** — metal, cloth, most tools — **couples badly**: it **disrupts** the vortex, **blocks** the gate, or **shears** against the field.
+
+| Material | Expected behavior |
+|----------|-------------------|
+| **Living human (minimal dress)** | **Transits** — body **EM** rides the helix |
+| **Clothing, jewelry, metal gear** | **Risk** — reactive to fields; **bad idea** during passage (contents **inside** the body may survive; **worn** dead matter does not) |
+| **Loose metal / tools at the node** | **Disruption** — can **prevent the whole event** |
+| **Cargo inside a large biological host** with strong EM | **Speculative exception** — moved **inside** a living envelope |
+| **“Perfect shape” non-biological object** | **Highly speculative** — geometry might **mimic** bio coupling; **not** relied on here |
+
+**Literature / predictive programming rhyme:** Portal fiction often encodes **organic-only** or **nothing-metal** rules — e.g. [*Stargate* pyramid portal](https://paradigmthreat.net/influence/predictive_programming/page.md) (biological vs technological framing); [history-qa Bifröst](https://paradigmthreat.net/history/chronology/history-qa/page.md) (**quantum entanglement** transit, not freight logistics). Read as **memory of operating procedure**, not proof.
+
+**Why megaliths are stone but travelers are flesh:** The **hardware** is **dead** sarsen — it **does not transit**; it **shapes** the field. The **payload** is **biological**.
+
+---
+
+## 8. When Stonehenge was active — Golden Age window
 
 Cross-read **portal investigations** and **chronology** for **when gates open**:
 
@@ -182,7 +220,7 @@ Cross-read **portal investigations** and **chronology** for **when gates open**:
 
 ---
 
-## 8. Then vs now — dormancy narrative
+## 9. Then vs now — dormancy narrative
 
 The hero graphic’s **three-panel** story matches this dossier:
 
@@ -200,7 +238,7 @@ The hero graphic’s **three-panel** story matches this dossier:
 
 ---
 
-## 9. Cross-references — portal investigation map
+## 10. Cross-references — portal investigation map
 
 | Investigation | Relevance to Stonehenge |
 |---------------|-------------------------|
@@ -216,9 +254,11 @@ The hero graphic’s **three-panel** story matches this dossier:
 | [Podcast — Pyramid Portals (2021)](/docs/PODCAST_APPEARANCES.md) | Author **public** framing of **EU + pyramid portals** |
 | [Hollow earth investigation](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md) | **Polar / nested-shell compass** lore — **debunked label**, **same node physics** family as ley crossings |
 
+| [Predictive programming — *Stargate* portal](https://paradigmthreat.net/influence/predictive_programming/page.md) | **Biological vs metal** transit tropes — **organic-only** rule rhyme |
+
 ---
 
-## 10. Evidence tiers
+## 11. Evidence tiers
 
 | Tier | Claim | Notes |
 |------|-------|-------|
@@ -227,27 +267,29 @@ The hero graphic’s **three-panel** story matches this dossier:
 | **B** | Michell/Watkins **alignments**; Zone of Silence **1966** radio report; **1970** missile / tourism myth layer | Pattern + **primary anecdote** — **not** closed by debunk |
 | **Author thesis (likely real)** | **Compass spin + radio blackout** at ley crossings; **hollow-earth polar compass** same class; **Golden-Age portal**; **detuning** to hide crossing | **Very likely real** per §0 — mainstream “legend” = **containment label** |
 | **Author thesis (plausible)** | **Clock failure** at nodes | Magnetic sensitivity of quartz / mechanical timekeeping |
-| **Author thesis (open)** | Ring geometry **stabilizes** rotating column; **Cat 6 ↔ megalith** | Needs **instrumented grid** at Salisbury + Mapimí controls |
+| **Author thesis (open)** | **Spiral** layout; **Cat 6 ↔ megalith**; **center-standing** transit | **No** surviving spiral plan — **reconstructed** |
+| **Author thesis (speculative)** | **Bio-EM-only** passage; **no clothes/metal**; cargo **inside** bio host | PP + operating **memory** — **not** lab-tested |
 
 ---
 
-## 11. Open questions
+## 12. Open questions
 
 1. **Magnetotelluric / EM + RF survey grid** at Stonehenge, Avebury, and **off-node controls** — replicate **Zone of Silence** protocol (same band, same hardware, **GPS-fixed** coordinates).
 2. **Original sarsen hole positions** vs **1901–1964** concrete resets — enough to reconstruct **“THEN”** geometry?
 3. **Relationship to Avebury** — **larger** ring, **same** node? **Primary vs secondary** stabilizer?
 4. **Bluestone transport** — **electrical** properties (Preseli **dolerite**) vs logistics?
 5. **Timeline entry** — **evt-** under **Golden Age** or **Pyramidal England** band?
-6. **Hollow-earth compass corpus** — systematic comparison with **surface node** reports (Mapimí, Oregon Vortex, **polar** expedition anomalies).
+6. **Hollow-earth compass corpus** — comparison with **surface node** reports (Mapimí, Oregon Vortex, polar anomalies).
+7. **Spiral reconstruction** — socket / geophysical data enough to infer **coiled** vs **concentric** original?
 
 ---
 
-## 12. Limits
+## 13. Limits
 
 **Prisca sapientia:** Assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—ancient **high knowledge** later **degraded**. Mainstream **Bronze Age calendar** narratives are **recorded**, not **endorsed** as **complete**.
 
-This file does **not** claim **current** safe **traversal** or **DIY reactivation** by **moving stones**—**detuning** may have been **partially intentional**; **blind realignment** is **out of scope**.
+This file does **not** claim **current** safe **traversal** or **DIY reactivation**. **Transit rule:** **bio-EM only** — **no** recommendation to attempt passage; **metal and clothing** treated as **field disruptors** in the author model.
 
 ---
 
-Keywords: #Stonehenge #Portal #Birkeland #LeyLines #GoldenAge #TwistedPair #Bell #Cat6 #ZoneOfSilence #Compass #HollowEarth #SacredGeometry
+Keywords: #Stonehenge #Portal #Birkeland #Spiral #LeyLines #GoldenAge #TwistedPair #Teleport #BioEM #Cat6 #SacredGeometry
