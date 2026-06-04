@@ -1,6 +1,6 @@
 # Stonehenge as Portal — Birkeland Current, Ley Crossings, and Golden-Age Geometry
 
-> **TL;DR:** **Author thesis:** Stonehenge was a **raised spiral** (original plan **lost** today) — **twisted pair in stone**, **axis skyward** — **end port** at a **ley crossing** for **periodic** cosmic / interplanetary coupling. Traveler **stands at spiral center**; **Birkeland vortex** fills the helix to the **source planet**; **bio-EM only** transits (**no dead matter** — **clothes/metal** disrupt). Golden Age window **4077–3147 BCE**; **detuned** since (incl. **1901–1964** resets). **Bell/Cat 6** = same helical geometry at wire scale.
+> **TL;DR:** **Author thesis:** Stonehenge was a **raised spiral** (original plan **lost** today) — **twisted pair in stone**, **axis skyward** — **end port** at a **cyclically recurring ley crossing** for **scheduled** cosmic / interplanetary coupling. Traveler **stands at spiral center**; **Birkeland vortex** fills the helix to the **source planet** (exit locus also **cycles**); **bio-EM only** transits (**no dead matter** — **clothes/metal** disrupt). Golden Age window **4077–3147 BCE**; **detuned** since (incl. **1901–1964** resets). **Bell/Cat 6** = same helical geometry at wire scale.
 
 **Lay article:** [Stonehenge: Quantum Portal of the Golden Age — and Why They Want You to Laugh](../stonehenge-quantum-portal-golden-age-and-dark-ages.md) — reader voice.
 
@@ -23,7 +23,7 @@ This dossier follows [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md) and [**IN
 | **Radio / comms blackout** at nodes (Zone of Silence, remote crossings) | Tourism myth, “just remote terrain” | **Very likely real** — intermittent, local, **under-surveyed**; debunkers test **wrong spot** or **wrong band** |
 | **Clocks unreliable** at nodes | Rarely discussed | **Plausible to a degree** — quartz oscillators and mechanical escapements are **magnetically sensitive**; strong local fields + telluric transients could **skew or stop** timekeeping without full “Bermuda Triangle” drama |
 
-**Pattern:** Phenomena that **would prove** portal / hollow / ley physics are **labeled legend**, then **never instrumented** at the claimed coordinates under controlled conditions. The **faith object** is not “aliens” — it is the **crossing itself**: a **persistent geographic node** whose **instrument** (Stonehenge ring, Welsh circle, 20th-c. concrete reset) can be **moved** while the **node** remains.
+**Pattern:** Phenomena that **would prove** portal / hollow / ley physics are **labeled legend**, then **never instrumented** at the claimed coordinates under controlled conditions. The **faith object** is not “aliens” — it is the **crossing cycle itself**: a **recurring** coupling whose **hit point moves** but **returns** on a **planetary clock**, while the **instrument** (Stonehenge ring, Welsh circle, 20th-c. concrete reset) can be **moved** or **detuned** off the **predicted patch** ([§3.1](#31-placement--lines-walk-crossings-return)).
 
 ---
 
@@ -33,9 +33,9 @@ Stonehenge is not primarily a **calendar**, **cemetery**, or **prehistoric obser
 
 **Operational window:** **Golden Age only** — the epoch when the **collinear planetary stack** showered Earth with a **stable, life-promoting** current ([history-qa](/history/chronology/history-qa/page.md); [Golden Age event dates](./golden-age-event-dates.md)). After the configuration broke (**3147 BCE** flood band), the **same geometry** could not **re-close** the gate without the **planetary battery** online. Later **pyramid portals** ([Pyramids were Portals](/history/chronology/page.md)) exploited **different** alignment windows; Stonehenge belongs to the **earlier** Saturnian-column era.
 
-**Author thesis (original form):** The **true** layout was a **plan-view spiral** of **raised** blocks — a **twisted pair aimed skyward** — forming an **end port** where **cosmic / interplanetary** energy could **periodically** couple at the ley crossing. **No surviving evidence** of the full spiral today (detuning, relocation, ruin); the present **ring + horseshoe** is **collapsed** hardware. See [§7 Spiral operation & transit](#7-spiral-operation--transit).
+**Author thesis (original form):** The **true** layout was a **plan-view spiral** of **raised** blocks — a **twisted pair aimed skyward** — forming an **end port** where **cosmic / interplanetary** energy could **couple on schedule** when a **cyclically recurring** ley crossing **returned** to the engineered coordinates. **No surviving evidence** of the full spiral today (detuning, relocation, ruin); the present **ring + horseshoe** is **collapsed** hardware. See [§7 Spiral operation & transit](#7-spiral-operation--transit).
 
-**Dormancy today:** The **ley crossing persists**; the **instrument is detuned**. Stones were **moved**, **fallen**, or **re-seated**; surrounding **landscape and track networks** were **reordered** (Michell’s “former geographical order” — [View Over Atlantis](./view-over-atlantis-michell-investigation.md)). The site reads as **ruin + heritage park**; the **portal flickers** but does **not** open.
+**Dormancy today:** The **sky cycle** may **still** run; the **instrument is detuned** and possibly **off the moving hit path**. Stones were **moved**, **fallen**, or **re-seated**; surrounding **landscape and track networks** were **reordered** (Michell’s “former geographical order” — [View Over Atlantis](./view-over-atlantis-michell-investigation.md)). The site reads as **ruin + heritage park**; the **portal flickers** but does **not** open on a **predictable schedule**.
 
 ---
 
@@ -68,21 +68,34 @@ The chronology page cites **Peratt / high-current Z-pinch** comparisons to **pet
 
 ---
 
-## 3. Ley-line crossing — why this spot, why concealment
+## 3. Ley-line crossing — mobile nodes, cyclic return, predictive ports
 
-### 3.1 Placement
+### 3.1 Placement — lines walk, crossings return
 
 Michell’s ley revival ([View Over Atlantis](./view-over-atlantis-michell-investigation.md)) documents **Watkins alignments** across Britain: **straight tracks** linking **sanctuaries**, **barrows**, **beacon hills**, and **later churches**—a **network**, not isolated monuments. Stonehenge sits in a **dense cluster** (Avebury, cursuses, barrows, the **Old Sarum**–**Glastonbury** threads in Michell’s later chapters).
 
-**Author thesis:** Portals were sited at **nodes** where **telluric / geometric lines cross**—the same **“pyramids on leys”** logic in [Pyramids: Myths vs Reality](/timeline/evt-pyramids-myths-vs-reality) and [pyramid-energy investigation](./pyramid-energy-kerrell-goggin-1977-investigation.md). The **crossing** is the **anchor**; the **ring** is the **tuning circuit**.
+**Author thesis (corrected):** Portals were sited at **nodes** where **telluric / interplanetary geometry crosses**—the same **“pyramids on leys”** logic in [Pyramids: Myths vs Reality](/timeline/evt-pyramids-myths-vs-reality) and [pyramid-energy investigation](./pyramid-energy-kerrell-goggin-1977-investigation.md). The **raised helix** is the **tuning circuit**; the **crossing** is the **coupling event**.
+
+**Ley lines and crossings are not fixed coordinates.** Revival maps treat leys as **static** straight lines. In this project's frame, **magnetic and telluric fields** tied to the **collinear stack** **flex, rotate, and migrate** with **planetary motion**. The **crossing point moves**. It **appears** stable only because the same **orbital clock** brings the **same geometry back** — **cyclically**, **predictably**, **often enough** that antiquarians mistake **recurrence** for **permanence**.
+
+| Misread | Author read |
+|---------|-------------|
+| Crossing = **fixed** GIS pin | Crossing = **moving hit** that **returns** on a **cycle** |
+| Stonehenge = **calendar** for sunrise | Stonehenge = **timetable** for **when the node arrives** |
+| Portal = **random** sky accident | Portal = **scheduled** coupling if **helix** is **pre-built** on the **predicted patch** |
+
+**Predictive port schedule (Golden Age):** Observers **tracked** the **cycle** — which bodies, which phases, which **field angles** — and computed **where** the crossing would **land next** on Earth (and **where** the **exit** would **open** on the **source planet**, which **also recurred**). Commission a **single-helix** end port at that **patch** **before** the window; transit becomes **safe**, **repeatable**, and **addressed** — **predictive teleportation**, not alignment luck.
+
+**Stonehenge:** **Primitive scheduled port** — **optional**, Golden-Age amplitude only ([§7](#7-spiral-operation--transit)). **Pyramids** later **widen** the same logic into **volume** and **network** when the **battery** degrades.
 
 ### 3.2 Why remove or break the instrument but keep the node hidden
 
-If the **crossing** is **immovable** (geology + great-circle geometry), the **Deep State** counter-move after the Golden Age is not to **erase the node** but to **detune the hardware**:
+The **cyclical crossing** can **outlive** any one instrument: even when stones are **wrong**, the **sky timetable** may **still** fire. The **Deep State** counter-move after the Golden Age is therefore not only to **erase geography** but to **break prediction**:
 
-1. **Displace uprights and lintels** — break **phase** and **flatten helical pitch** between inner and outer rings.
-2. **Reframe the site** as **mystery / Druid tourism** — [Michell](view-over-atlantis-michell-investigation.md) and **mainstream archaeology** supply **endless calendar debates** that **avoid portal mechanics**. See [§3.4 Official mystery + AI closure](#34-official-mystery-framing-and-ai-closure-predictive-programming).
-3. **Leave a broken shell** — enough **awe**, zero **operational coupling**; visitors **photograph** the **flicker**, not the **gate**.
+1. **Displace uprights and lintels** — break **phase** and **flatten helical pitch** so the **moving** node **passes through** with **no coupling**.
+2. **Reframe leys as static mystery lines** — [Michell](view-over-atlantis-michell-investigation.md) and **mainstream archaeology** supply **endless calendar debates** that **avoid mobile nodes** and **portal mechanics**. See [§3.4 Official mystery + AI closure](#34-official-mystery-framing-and-ai-closure-predictive-programming).
+3. **Leave a broken shell** on a **patch that once matched the cycle** — enough **awe**, zero **scheduled** transit; visitors **photograph** the **flicker**, not the **gate**.
+4. **Relocate or concrete-reset** ([§4](#4-relocation-epistemics--moved-sometime-in-the-past)) — **detune** the **hardware** while **tourist maps** still **label** a **fixed** “sacred” pin.
 
 **Mud-flood / replanning angle (speculative cross-read):** [MudFlood investigations](/history/mudflood/investigations/) and **buried first floors** elsewhere suggest **landscape height and approach roads** may have **shifted** since original commissioning—another path to **misalignment** without admitting **relocation**.
 
@@ -209,9 +222,9 @@ Modern **Category 6** (and higher) cable **inherits** the same principle at **ma
 
 ### 7.1 End port — energy into the helix
 
-The spiral of **raised** stone was a **ground-terminated twisted pair**: **pitch** in masonry, **axis** vertical — **coupling upward** into the sky column. On **planetary alignment** windows (Golden Age **Birkeland battery**), energy **periodically** strikes the **ley crossing** — **stable** in character but **not** a modern **on-demand utility** (coupling is **natural**, **intermittent**, **unscheduled**).
+The spiral of **raised** stone was a **ground-terminated twisted pair**: **pitch** in masonry, **axis** vertical — **coupling upward** into the sky column. On **predicted alignment windows** — when a **cyclically recurring** ley crossing **returns** to the engineered coordinates (Golden Age **Birkeland battery**) — energy **periodically** strikes the **node**. Coupling is **stable in character** but **timetabled**, **not** a modern **on-demand utility** (the **moving** node must **hit** the **helix** on schedule).
 
-When the burst hits, the **quantum / entangled** component **fills** the spiral path in a **Birkeland vortex** — from the **center node** back along the filament to the **source**, typically **another planet** in the collinear or pyramid-era network ([Bifröst / pyramids](/history/chronology/page.md)).
+When the burst hits, the **quantum / entangled** component **fills** the spiral path in a **Birkeland vortex** — from the **center node** back along the filament to the **source**, typically **another planet** in the collinear or pyramid-era network ([Bifröst / pyramids](/history/chronology/page.md)). The **far terminus** **recurs** on the **same orbital clock** — **addressed** transit, not blind jump.
 
 ### 7.2 Use — center of the spiral
 
@@ -340,7 +353,7 @@ The hero graphic’s **three-panel** story matches this dossier:
 | **B** | **“Unsolved mystery”** + **AI-will-solve** headline corpus (BBC, ScienceDaily, Artnet; Forbes-class tech press **pattern**) | [§3.4](#34-official-mystery-framing-and-ai-closure-predictive-programming) — **PP / cognitive offload** |
 | **Author thesis (likely real)** | **Compass spin + radio blackout** at ley crossings; **hollow-earth polar compass** same class; **Golden-Age portal**; **detuning** to hide crossing | **Very likely real** per §0 — mainstream “legend” = **containment label** |
 | **Author thesis (plausible)** | **Clock failure** at nodes | Magnetic sensitivity of quartz / mechanical timekeeping |
-| **Author thesis (open)** | **Spiral** layout; **Cat 6 ↔ megalith**; **center-standing** transit | **No** surviving spiral plan — **reconstructed** |
+| **Author thesis (open)** | **Spiral** layout; **Cat 6 ↔ megalith**; **center-standing** transit; **mobile ley crossings** + **predictive schedule** | **No** surviving spiral plan — **reconstructed**; **cyclical node** math **not** instrumented today |
 | **Author thesis (speculative)** | **Bio-EM-only** passage; **no clothes/metal**; cargo **inside** bio host | PP + operating **memory** — **not** lab-tested |
 
 ---
