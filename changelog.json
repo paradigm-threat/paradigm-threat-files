@@ -1,8 +1,34 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-04T12:03:40.376Z",
+    "date": "2026-06-04T12:08:43.200Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md",
+        "href": "/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png",
+        "href": "/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png",
+        "alt": "Stonehenge quantum portal — Golden Age and Dark Ages (article lead)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-04T12:03:39.000Z",
+    "message": "Add Stonehenge quantum portal lay article; link from investigation index.",
     "files": [
       {
         "status": "M",
@@ -1514,56 +1540,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-05-30T13:18:26.000Z",
-    "message": "Add MGGA one-page PDF handout and generator script.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/make-gordonston-great-again-onepager.pdf",
-        "href": "/influence/controlled_opposition/make-gordonston-great-again-onepager.pdf"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/make-gordonston-great-again-onepager.source.md",
-        "href": "/influence/controlled_opposition/make-gordonston-great-again-onepager.source"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
-        "href": "/influence/controlled_opposition/make-gordonston-great-again"
-      },
-      {
-        "status": "M",
-        "path": "package.json",
-        "href": "/package.json"
-      },
-      {
-        "status": "A",
-        "path": "scripts/generate-mgga-onepager.py",
-        "href": "/scripts/generate-mgga-onepager.py"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
-        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
-        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-class.png",
-        "alt": "Make Gordonston Great Again — volunteer homework campus vision: children, volunteers, and study tools in the church education wing"
-      }
-    ]
   }
 ]
