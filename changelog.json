@@ -1,8 +1,57 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-05T13:53:31.418Z",
+    "date": "2026-06-05T20:11:29.461Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/page.md",
+        "href": "/governance/war/investigations"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/reverse-crusades-comparison.md",
+        "href": "/governance/war/investigations/reverse-crusades-comparison"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/zelensky-open-letter-reality-model-investigation.md",
+        "href": "/governance/war/investigations/zelensky-open-letter-reality-model-investigation"
+      },
+      {
+        "status": "M",
+        "path": "page.md",
+        "href": "/page"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/conspiracy/embedding.jpg",
+        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
+      },
+      {
+        "src": "/influence/conspiracy/scientific_truth.jpg",
+        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
+        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
+      },
+      {
+        "src": "/cosmos/mars/mars_life.jpg",
+        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
+      },
+      {
+        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
+        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-05T13:53:30.000Z",
+    "message": "Note jp-osa relay decommission alongside atlanta2 in ops docs.",
     "files": [
       {
         "status": "M",
@@ -1432,19 +1481,6 @@
     "files": [
       {
         "status": "M",
-        "path": "influence/controlled_opposition/make-gordonston-draft-resignation-letter.md",
-        "href": "/influence/controlled_opposition/make-gordonston-draft-resignation-letter"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-02T12:04:50.000Z",
-    "message": "Add draft Gordonston volunteer resignation letter (not sent).",
-    "files": [
-      {
-        "status": "A",
         "path": "influence/controlled_opposition/make-gordonston-draft-resignation-letter.md",
         "href": "/influence/controlled_opposition/make-gordonston-draft-resignation-letter"
       }

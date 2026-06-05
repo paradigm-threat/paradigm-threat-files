@@ -96,6 +96,7 @@ or *not* believing.
 * [Occupy Wall Street](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) — Origins, collapse, surveillance, controlled-opposition thesis.
 * [Operation Paperclip & Nazi continuity](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) — US absorption of German science; WWII defeat narrative vs continuity.
 * [The Four Reverse Crusades](/governance/war/investigations/reverse-crusades-comparison.md) — Structural comparison (1812, 1914, 1941, 2022-style arcs).
+* [Zelensky open letter (Jun 2026)](/governance/war/investigations/zelensky-open-letter-reality-model-investigation.md) — Operative reality model, TA / word choice, reverse-crusade figurehead read.
 * [Soviet Collapse](/governance/war/investigations/soviet-collapse-investigation.md) — Western orchestration, media, post-WWII isolation.
 * [RMS Titanic (1912)](/governance/war/investigations/titanic-sinking-investigation.md) — Timing, alternative narratives, inquiries and aftermath.
 * [Armed confrontations](/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md) — Citizens vs federal government, military, and agents.
