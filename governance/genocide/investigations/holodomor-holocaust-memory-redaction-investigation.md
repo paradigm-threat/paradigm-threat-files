@@ -48,6 +48,7 @@
 | NYT **“6M / holocaust” before WW2** (`holocaust_lies13`) | §27 |
 | ICRC **Auschwitz letter** Nov 1944 (`holocaust_lies11`–`12`) | §28 |
 | **Paperclip** + **Allied cover** + **rehab camps** + **fake photos** thesis | §29 |
+| **Ring of Power** — West **created / preserved** Nazism; **WW3** lane | §30 |
 
 ---
 
@@ -610,6 +611,7 @@ If **`L1`** claims appear inside **`L2`** packaging, note **“bundled for conta
 | 16 | NYT **holocaust_lies13** 6M/holocaust clippings | **Done** | **§27** — reject planted narrative; L1 press kernel |
 | 17 | ICRC **holocaust_lies11**–**12** letter | **Done** | **§28** — reject clearance meme; partial late-1944 pause |
 | 18 | **Paperclip** + **fake photos** + **rehab camps** thesis | **Done** | **§29** — partial Allied logistics + German defence cites; **reject** photo fraud |
+| 19 | **Ring of Power** — West created/preserved Nazism, WW3 | **Done** | **§30** — Merz **A**; Azov **B**; Ring **S** |
 
 ---
 
@@ -1207,9 +1209,81 @@ IWM A7 unedited footage, 14k post-liberation deaths despite British feeding
 
 ---
 
+## §30. Ring of Power — West created / preserved Nazism, WW3 lane (**2026-06-05**)
+
+> **Maintainer thesis:** The **only** coherent reasons for the **West** to **protect** Nazism after **1945** are: **(1)** they **created** it (their **baby**); **(2)** they **preserved** it when **WWII** **failed** to **destroy Russia**, to **repeat** the play in **WW3**. **Russia** sought to **take Europe** and **extinguish** Nazism; the **West** **stopped** the **advance** at the **Berlin Wall**; **Nazism** **persisted** to **strike again** — **Ring of Power** analogy.
+
+### 30.1 Two reasons (claim table)
+
+| # | Claim | Verdict | Tier |
+|---|-------|---------|------|
+| **1** | Atlantic **built / wielded** Nazism as **anti-Soviet** instrument | **Partial** | **B**–**S** — finance/industrial threads; [Reverse Crusade III](/timeline/evt-world-war-ii-reverse-crusade-iii); **not** “West invented every Nazi idea” |
+| **2** | **Post-1945 preservation** — **Paperclip**, **Gehlen**, **Ratlines**, **immunity** — for **Cold War** reuse | **Agree (limited)** | **A**–**B** — [Paperclip investigation](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) |
+| **3** | **Holocaust memory** + **denial law** **shield** **western** **camp-photo** template and **silence** **east/before** questions | **Partial** | **B**–**S** — **§4**, **§24** |
+| **4** | **USSR** bore **main** **anti-Nazi** **land** **war**; **West** **halted** at **Cold War** line | **Partial** | **A** (Soviet casualties / Berlin) — **S** as **moral** **“finish Nazism for all Europe”** **counterfactual** |
+| **5** | **WW3** **signs**: **German** **re-arming** (**Merz**), **neo-Nazi** **symbols** / units **in** **Ukraine** **theater** | **Partial** | **A** (Merz quotes); **B** (Azov / far-right **2022+** press) |
+
+### 30.2 Berlin Wall — hinge (author read)
+
+```
+1945: Red Army smashes Nazi state in the East
+      ↓
+Cold War: West extracts Nazi brainpower (Paperclip) + fixes “German” guilt template (Holocaust memory crop)
+      ↓
+1961–89: Berlin Wall — material line between “defeated Nazism” story and Soviet zone
+      ↓
+2022+: Same Bloodlands — NATO rim war; preserved fascist networks re-attach as local proxies
+```
+
+**Tier S:** Wall as **Ring** **boundary** — **orc** **not** **destroyed**, **recycled**. **Tier A:** Wall **divided** Germany; **Soviet** **symbolism** of **anti-fascist** **victory** **vs** **Western** **“liberation”** **crop**.
+
+### 30.3 Merz — Bundeswehr expansion (Tier A primary)
+
+| Date | Source | Statement |
+|------|--------|-----------|
+| **2025** | [DIE ZEIT](https://www.zeit.de/politik/deutschland/2025-08/kanzler-merz-wehrpflicht-debatte-armee) | *“Wir sind damit wieder zurück auf dem Weg zu einer **Wehrdienstarmee**”* |
+| **2025** | [Der Spiegel / ARD](https://www.spiegel.de/politik/deutschland/wehrpflicht-friedrich-merz-zweifelt-erfolg-des-wehrdienst-modells-von-boris-pistorius-an-a-d8fc63ca-671d-4784-9a07-b2217b618760) | Conscription likely if voluntarism fails — *“wird bei Freiwilligkeit allein **nicht bleiben**”* |
+| **2025** | [Spiegel / TF1](https://www.spiegel.de/politik/bundeswehr-friedrich-merz-schliesst-wehrpflicht-auch-fuer-frauen-nicht-aus-a-cc9617b3-af96-4b47-ae1c-9653d706c46e) | Ending conscription **2011** was a **mistake**; **Putin** threatens **beyond** Ukraine |
+
+**Repo read:** **Merz** documents **NATO-Europe** **re-militarization** on **Russia** **threat** — **western fascism** **symptom** = **conscription** **return** + **Wehrdienstarmee** **language**, **not** **proved** **Nazi** **revival** **by** **one** **quote**.
+
+### 30.4 Ukraine — neo-Nazi / insignia lane (Tier B)
+
+| Point | Source |
+|-------|--------|
+| **Azov** / far-right **acknowledged** then **minimized** in **Western** **arms** **politics** | [Paperclip §8](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) |
+| **Wolfsangel**, **SS-adjacent** **symbols**, **Bandera** **memory** **fights** on **Bloodlands** soil | Open press **2022+**; **not** all fighters — **pattern** **documented** |
+| **Holocaust** **memory** **on** **same** **soil** **competes** with **nationalist** **hero** **cycles** | **§2.3**, **§4** |
+
+**Reject:** “**All** Ukraine = Nazi.” **Accept:** **preserved** **Atlantic** **fascism** **ecology** **re-binds** to **local** **far-right** **assets** where **Reverse Crusade** **needs** **them**.
+
+### 30.5 Ring of Power analogy — what it captures (Tier S)
+
+| Tolkien move | Repo mapping |
+|--------------|--------------|
+| **Ring** **not** **destroyed** | **Nazi** **networks** **extracted**, **not** **extinguished** |
+| **Claimed** **victory** | **1945** **moral** **photograph** + **Nuremberg** **theater** |
+| **Spell-line** | **Berlin Wall** / **Cold War** — **stop** **Soviet** **finish** |
+| **Second** **rising** | **2022+** **rim** **war** + **proxy** **fascism** |
+
+**Does not require** literal **Tolkien** **prophecy** — **mnemonic** for **preservation** **thesis**.
+
+### 30.6 Connection to Holocaust / Holodomor memory (this file)
+
+| Link | Why |
+|------|-----|
+| **§4–§5** | Western **monopoly** **crop** **hides** **Bloodlands** **before** and **east** |
+| **§24** | **Denial law** **defends** **crop**; **Camp 2** **poisons** **geography** **critique** |
+| **§29** | **Paperclip** **impunity** **parallel** — **postwar** **power** **continued** |
+| [Zelensky article](/governance/war/zelensky-forward-history-memory-war.md) | **2022** **letter** **cannot** **name** **preserved** **Nazism** — **needs** **Putin-only** **orc** |
+
+**Status:** Maintainer thesis **recorded**; **B** on **preservation** + **Ukraine** **far-right** **pattern**; **S** on **Ring** + **“West created Hitler whole cloth”** + **Russia** **would** **have** **de-Nazified** **all** **Europe**.
+
+---
+
 ## §15. Cross-investigations
 
-- [Zelensky forward-history memory war](/governance/war/zelensky-forward-history-memory-war.md) — **2026** open letter; **Hitler/Zelensky** figurehead grammar; **simplified Jew** / **Ostjude** / **Horde** memory (**Tier S**); **§24** two-camp on same soil  
+- [Zelensky forward-history memory war](/governance/war/zelensky-forward-history-memory-war.md) — **§30** Ring-of-Power lane; **Hitler/Zelensky** figurehead; **Merz**; **simplified Jew** (**Tier S**); **§24** two-camp  
 - [Zelensky open-letter dossier](/governance/war/investigations/zelensky-open-letter-reality-model-investigation.md) — letter TA, figurehead read  
 - [WWII Reverse Crusade III](/timeline/evt-world-war-ii-reverse-crusade-iii) — **who** **built** **Hitler**; **firebombing**; **not** a **Holocaust** **dossier**  
 - [Operation Paperclip](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) — **postwar** **continuity**  
@@ -1240,6 +1314,8 @@ IWM A7 unedited footage, 14k post-liberation deaths despite British feeding
 | Did **German** officers try to **stop** camp famine / disease? | **Partial** — trial **defence** + **typhus** policy for **labor** (**§29.3**); **≠** rehab **citizenship** program. |
 | Were liberation photos **staged** (real horror, framed)? | **Partial** — **§7.4 S0–S1**, **§29.4b**; **not** **S2** re-caging without new archives. |
 | Were liberation photos **faked** (invented bodies)? | **No** — not maintainer claim; **§7.3** / **S3**. |
+| Why would the **West protect** Nazism? | **Partial** — **created/wielded** (**B**–**S**) + **preserved post-1945** for **anti-Russia** reuse (**A**–**B**, **§30**); **Ring** analogy **S**. |
+| **WW3** signs — **Merz**, **Ukraine** far-right? | **Partial** — Merz **Wehrdienstarmee** quotes **A**; **Azov**/insignia pattern **B** (**§30.3–30.4**). |
 
 ---
 
