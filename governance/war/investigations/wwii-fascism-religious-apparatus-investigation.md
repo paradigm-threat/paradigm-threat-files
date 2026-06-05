@@ -61,7 +61,8 @@ If the Western project required (a) all Christianity to be funneled through Rome
 
 ### 2.3 The Jesus-in-Japan Tradition — Shingo, Takenouchi, and Why It Survived
 
-- **Burial in Japan (author thesis):** Christ and **Isukiri** were buried **in Japan** after the brother swap and eastward retirement — eastern Rus-Horde reach, death at **106**. See [Takenouchi investigation](/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md).
+- **Burial in Japan (author thesis):** Christ and **Isukiri** buried **in Japan** — see [Takenouchi investigation](/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md) §5.7.
+- **1931 → ideology → failed Christ capstone:** Manchuria **1931** first; **1935 Shingo** = failed sustainment attempt; **emperor *kokutai*** won — **Christ served emperor**, no Hirohito–Christ bloodline (§5.7.3).
 - **Shingo (Aomori Prefecture):** **Takeuchi-tagged site (1935)** — twin mounds, Christ festival from **1964**. **Not proved as the burial locus.** Villagers had **no prior Christ oral tradition**; site may be **ordinary kofun + Takeuchi packaging**. Sign text preserves **narrative geography** (Japan study years, brother swap, Siberia → Alaska → Aomori, age 106) — not proof of coordinates.
 - **Takenouchi documents:** Narrative tied to **Takenouchi documents**, allegedly ancient, surfaced in the 1930s. Kano (1935) judged photographed texts **forgeries**. Takeuchi read as **redactor** and possible **Western-aligned agent** (witting or not) in the **militarized Imperial Japan / WWII** pipeline — **1935 Shingo announcement untrusted**. Original graves likely **destroyed** in Smithsonian Project and later kofun scrubs.
 - **Excavation expectation:** If dug today, mounds would likely contain **normal human remains or empty/replacement fill** — not giant skeletons contradicting the Palestine narrative.
@@ -174,6 +175,8 @@ Fascism in Italy was sold as **restoration of Roman greatness**, not as a new id
 - **Ahnenerbe (1935–1945):** SS “Ancestral Heritage” bureau under Himmler, with Wirth and Darré. Tasked with “proving” Germanic/Aryan superiority and tracing origins to **Atlantis** and a Nordic golden age. **World Ice Theory** and other pseudoscience supported the narrative that a superior race came from a lost civilization.
 - **Himmler’s occultism:** Wewelsburg Castle as SS “Camelot”; Grail Room; runic symbolism (e.g. SS bolts from List); Himmler’s 1940 trip to search for the Holy Grail. The SS was built as a **religious order** as much as a political army.
 - **Atlantis and Aryans:** Nazis (including Hitler) promoted the idea that a **Nordic/Aryan** master race originated in **Atlantis**; after the cataclysm, that race spread and had to be “restored.” The deep-state reading: the **revelation** was meant to be “we are from Atlantis; you came from Aryan (continent); Atlantis and the north pole of Mars in the Golden Age” — the **final religion** of the earth, with the deep state “coming out” as the heirs of that legacy.
+
+**Axis mirror (Japan):** Early Hitler = **co-opted** sacred-history capstone; **Takeuchi** = **contained failed** capstone (lèse-majesté, *gisho* debunk) — same structural slot, opposite outcomes. See [Takenouchi investigation](/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md) §5.7.5.
 
 ### 4.2 Germany’s Significance — Summary
 

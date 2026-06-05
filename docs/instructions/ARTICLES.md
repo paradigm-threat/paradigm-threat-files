@@ -105,7 +105,7 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
     *Written and narrated by Ari Asulin, with drafting and research support from LLM agents.*  
     Minor wording drift is fine; **keep the name** and the fact that **LLM tools** helped produce the page. **This footer is intentional credit**, not an “LLM artifact” to delete when scrubbing machine cadence. It **replaces** repeated “**as the writer**,” “**my position**,” or “**who is speaking**” throat-clearing in the body.
 
-**Pre-publish pass (easy misses):** The line **immediately after** `# Title` must be the **subtitle** (plain text, before any `![` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**).
+**Pre-publish pass (easy misses):** The line **immediately after** `# Title` must be the **subtitle** (plain text, before any `![` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). Run the **Verifiable externals pass** below on every ship.
 
 ---
 
@@ -120,6 +120,43 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
 - **Newsletter / inbox check:** Before sending a long flagship post, do a **real send test** (or preview at **View entire message**) when the piece combines **long prose** with **multiple large images**—**two hero-scale PNGs** can burn the **102KB** budget faster than **+500 words** of Markdown.
 - **Soft ceiling:** treat **~3,200–3,400 words** of prose in a **single** article as the **repo drafting stop** unless Ari explicitly splits across **Part II** or accepts clipping risk after that send test (images, embeds, and HTML bloat push toward the **102KB** clip faster than word count alone).
 - **If the piece must grow:** **push** Markdown **tables**, quote banks, and five-citation blocks into **`investigations/`**; add a **Part II** post for a second email rather than one mega-file. For **tabular** material the reader must see in the newsletter, ship a **PNG/SVG** in the article or link to the dossier table anchor.
+
+### Substack publish — title and subtitle fields
+
+Substack renders **Title** and **Subtitle** from **editor fields**, not from the pasted Markdown body. When comparing a live post to the repo, **do not** treat “title/subtitle missing from body” as text drift.
+
+**Field mapping (default workflow):**
+
+| Repo source | Substack field | In pasted body? |
+|-------------|----------------|-----------------|
+| `# Title` line | **Title** | **No** — omit from paste |
+| Plain line immediately under `# Title` (repo **subtitle**, § Shape step 2) | **Subtitle** *or* reserve for site-only tagline | **No** if duplicated in Substack **Subtitle** |
+| Opening **hook** paragraph (first prose block after subtitle, before hero/`TL;DR`) | **Subtitle** when it carries the thesis in one sentence — common for flagship posts | **No** if that paragraph is already in **Subtitle** |
+| Hero image, `> **TL;DR:**`, `##` sections onward | Body | **Yes** — paste starts here |
+
+**Stonehenge reference:** [`stonehenge-quantum-portal-golden-age-and-dark-ages.md`](../../history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) — **Title** = `#` heading; **Subtitle** field = hook (*The real nature of Stonehenge is not a calendar…*); repo line 3 (*Golden Age spiral end-port…*) stays for **site** lede; body paste begins at hero / `TL;DR` / first `##`.
+
+After publish, add **`**Substack:**`** with the post URL before **`**Last updated:**`** (see [`circle-of-life-and-how-it-began.md`](../../science/biology/circle-of-life-and-how-it-began.md)).
+
+---
+
+## Verifiable externals pass (required before ship)
+
+LLM drafts **confabulate** text that *sounds* quotable: **song lyrics**, **film lines**, **attributed speeches**, **headlines**, **statistics**, **court holdings**, **DOIs**. That is separate from **author thesis** (which stays first-class) and separate from **de-LLM cadence** (contrast templates). **Hard rule:** any **blockquote** or **verbatim** line attributed to an **external** source must be checked against a **primary, official transcript, or reputable lyrics/quote page** before the file ships. If the author or a reader cannot find it online in a few minutes, it is probably **made up**.
+
+**Canonical failure (2026-06):** [`history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md`](../../history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) quoted Spinal Tap’s **“Stonehenge”** as **“And the soft winds blow…”** after **“where the demons dwell.”** That line **does not exist** in the song. The real couplet is **“Where the banshees live and they do live well”** ([Songfacts — *Stonehenge*](https://www.songfacts.com/lyrics/spinal-tap/stonehenge)). An LLM agent inserted plausible-sounding lyric during drafting; it survived until the author searched and could not verify it — embarrassing and exactly what this pass prevents.
+
+**Checklist (every article and dossier excerpt republished as an article):**
+
+1. **Lyrics / screenplay / TV dialogue** — match against a lyrics site, subtitle transcript, or timestamped clip; **never** trust model memory.
+2. **Historical speeches and letters** — digitized primary, scholarly edition, or archive URL beside the quote.
+3. **News headlines and pull quotes** — live or archived URL; headline wording must match the link.
+4. **Numbers and dates in factual claims** — trace to the table, report, or statute cited (not “about 40%” with no source).
+5. **DOI / PMID / case name** — resolve once; drop or flag if broken.
+
+**If you cannot verify quickly:** do **not** blockquote. Paraphrase with uncertainty, move the line to the dossier **open questions**, or omit. **Author thesis** in Ari’s voice does **not** need an external URL — but **must not** be dressed up as a **fake** lyric, **fake** Einstein quote, or **fake** headline.
+
+**Fast grep hints:** scan for `^> ` blockquotes, lines in **smart quotes** attributed to named people, and **“according to”** without a `[label](https://…)` in the same paragraph.
 
 ---
 
@@ -173,4 +210,4 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 
 ---
 
-**Last updated:** 2026-05-25T21:30:00-04:00 (corpus image reuse in articles; Ghost War reference)
+**Last updated:** 2026-06-04 (Substack field mapping note; verifiable externals pass)

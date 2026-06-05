@@ -1,8 +1,8 @@
 # Takenouchi Documents, Dr. Takeuchi, and Japan as Eastern Rus-Horde — Investigation
 
-> **TL;DR:** **Christ and Isukiri were buried in Japan** — eastern Rus-Horde reach, brother swap, death at 106 (~**1258 CE**). **Shingo (Kirisuto no Haka) is not proved as that locus:** **Kiyomaro Takeuchi** (redactor; possible **Western-aligned agent**, witting or not) **cannot be trusted** for his **1935 location announcement** — site may be **ordinary mounds + Takeuchi-era packaging**. Original giant-line graves were likely **destroyed** in the **Smithsonian Project** (late 18th / early 19th c.) and later **kofun/mound** scrubs. Sign text preserves **narrative geography**, not site proof. Kano *gisho* = document containment. This dossier cross-references timeline, Japan-as-eastern-Horde fit, and source acquisition.
+> **TL;DR:** **Christ and Isukiri buried in Japan** (~**1258 CE**); **Shingo unproved** (Takeuchi 1935 untrusted). **1931 Manchuria first** → ideology to sustain WWII; **1935 Shingo = failed capstone**; **emperor *kokutai* won**. Christ **served** emperor (no Hirohito bloodline). **Takeuchi mirrors early Hitler** (§5.7.5): both sacred-history threats to establishment — **contained vs co-opted**. See §5.7.
 
-**Date:** 2026-06-03  
+**Date:** 2026-06-03 (§5.7 sustainment / emperor–Christ hierarchy; §5.7.5 Hitler mirror — 2026-06-04)  
 **Status:** Ongoing  
 **Download index:** [`/home/ari/dev/wget/japan_chronology/takenouchi/INDEX.md`](../../../../wget/japan_chronology/takenouchi/INDEX.md)
 
@@ -14,7 +14,7 @@
 
 **Not provable — and now explicitly unsettled:** that **Kirisuto no Haka (Shingo/Herai)** is **that burial locus**. Takeuchi's **1935 public tagging** of twin mounds is **untrusted** as coordinates.
 
-**Takeuchi frame (revised):** Redactor **and possible Western-aligned agent** (witting or not) operating in the interest of **militarized Imperial Japan** ahead of WWII — same British-groomed Axis hijack pattern as §5.6. He may have **preserved fragments** of eastern Christ memory while stripping **Horde-province context** and imposing **exclusive-origin** *kokutai* packaging. His **1935 Shingo announcement** may be **misdirection**, **containment**, or **managed folklore** — not reliable witness to where Christ died.
+**Takeuchi frame (revised):** Redactor **and possible Western-aligned agent** (witting or not) in the **post-1931 sustainment / WWII pipeline** (§5.7). **1935 Shingo tagging** = **failed capstone attempt** to enshrine loyalty + Pan-Asian sacred mission via Christ **under** the emperor — **not** proof of burial locus, **not** cause of militarism. Kano *gisho* + prosecution = debunk and discard; **emperor *kokutai*** carried the war.
 
 **Shingo site read:** Villagers had **no prior record** of Christ-level importance — consistent with **suppression** but also with **Takeuchi attaching a famous name to ordinary kofun**. Mounds may predate 1935 as **normal burials**; Christ/Isukiri reading and festival layer (**1964** Kirisuto Matsuri) are largely **Takeuchi-era public packaging**. **If excavated today:** expect **normal human remains, empty fill, or replacement material** — **not** giant skeletons (would contradict the Palestine narrative). Destroyers would not leave contradicting evidence in an open tourist site.
 
@@ -29,6 +29,9 @@
 5. **Death date:** Age 106 → **1258 CE** — Horde consolidation band ([`07.02.00`](https://paradigmthreat.net/timeline/evt-1258-ce-historical-christ-dies)).
 6. **1935 event:** Takeuchi **public announcement** — **untrusted** for location; may tag **pre-existing ordinary mounds**; **not** origin of eastern Christ memory.
 7. **1930s packaging:** **"Japan origin of all world religions"** = exclusive-origin hijack (§5.6) — wrong and anti-Horde.
+8. **1931–1937 sustainment (author thesis — §5.7):** **Manchuria 1931** precedes Shingo; continental invasion under **Western-groomed** pipeline (equipment, orders) → **ideology required afterward** to sustain and scale toward WWII. **1935 Shingo tagging** = **failed** attempt to **enshrine** that ideology via Christ + Pan-Asian mission; **emperor *kokutai*** (always parallel since Meiji/British grooming) **won** when Christ-Shingo was debunked.
+
+**Not claimed in this project:** direct causality (Shingo → militarization or Shingo → Mukden). **Claimed:** post-invasion **sustainment** logic and a **failed Christ capstone** beside the **working emperor capstone**.
 
 ---
 
@@ -96,6 +99,7 @@ Sources: [Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuc
 | **Takeuchi monjo** / **Takenouchi bunsho** (竹内文書) | "Takeuchi documents" — scrolls and transcriptions |
 | **Divine characters** (*kamiyo moji*) | Alleged pre-kana script; central to forgery claims |
 | **Isukiri's Testament** / *Isukiris Christmas* | Jesus narrative: brother on cross, Japan retirement, Miyuko, Sawaguchi, age 106 |
+| **Emperor–founder hierarchy** | Moses, Buddha, Christ, etc. came to Japan and **served the Emperor**; Moses received commandments from emperor; **not** Hirohito-as-Christ-bloodline — see §5.7.3 |
 | **Gisho** (偽書) | Japanese category for apocryphal/forged history books |
 | **Related gisho cluster** | *Sendai Kuji Hongi* (先代旧事本紀), *Wakan sansai zue*, imperial compilations — named in [`indigenous-legends-vs-geologic-dating-investigation.md`](indigenous-legends-vs-geologic-dating-investigation.md) but **not yet downloaded** |
 
@@ -118,7 +122,8 @@ Sources: [Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuc
 | Prester John / eastern Christian empire | [`prester-john-presbyter-rus-horde-nc-investigation.md`](prester-john-presbyter-rus-horde-nc-investigation.md) | Horde-east bridge |
 | Royal vs Apostolic / monotheism crisis | [`two-branches-christianity-fomenko-vs-author.md`](two-branches-christianity-fomenko-vs-author.md) | Christology frame |
 | Japan-as-Horde (speculative only) | [`yakuza-remote-control-investigation.md`](../../../governance/war/investigations/yakuza-remote-control-investigation.md) §6 | Flag only — **this dossier develops the bridge** |
-| Axis triple redaction; British/OSS hijacking | [`wwii-fascism-religious-apparatus-investigation.md`](../../../governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) §1–5; [`yakuza-remote-control-investigation.md`](../../../governance/war/investigations/yakuza-remote-control-investigation.md); [`cia-investigation.md`](../../../governance/war/investigations/cia-investigation.md) | **This dossier §5.6, §12.3** |
+| Axis triple redaction; British/OSS hijacking | [`wwii-fascism-religious-apparatus-investigation.md`](../../../governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) §1–5, §4.1; [`yakuza-remote-control-investigation.md`](../../../governance/war/investigations/yakuza-remote-control-investigation.md); [`cia-investigation.md`](../../../governance/war/investigations/cia-investigation.md) | **This dossier §5.6–§5.7.5, §12.3** |
+| 1931 Manchuria; post-invasion sustainment | [`15.04.00-false-flags-architecture-of.md`](../../../../paradigm-threat-timeline/content/15.ce-21st-the-final-struggle/15.04.00-false-flags-architecture-of.md) | Timeline — Manchurian Incident row |
 
 ---
 
@@ -164,6 +169,101 @@ Bridges:
 
 Layout **matches brother-on-cross theology** if authentic — but **Shingo is not proved** as the interment site. Mounds may be **ordinary kofun** retrofitted in **1935**; **original giant-line graves in Japan likely destroyed** in Smithsonian Project and later mound scrubs.
 
+### 5.7 Post-1931 sustainment — Shingo as failed capstone; emperor pivot (author thesis)
+
+**Epistemic tier:** Author thesis — structural read of timing and document claims; **not** proven operational orders for 1931 or Takeuchi as conscious agent unless sourced in §12 open items.
+
+#### 5.7.1 Sequence — military first, ideology second
+
+| Phase | Date | Event | Role in this read |
+|-------|------|--------|-------------------|
+| **Continental faits accomplis** | **1931** | **Manchurian Incident** → Manchukuo | **First major China invasion** in this arc — **precedes** Shingo tagging; read as **Western-groomed** move (Meiji re-arming, Anglo-Japanese treaty history, abandonment 1921) using **Western equipment and strategic steering** — not born from Takeuchi documents |
+| **Myth pipeline public** | **1928** | Takeuchi *monjo* announcement | Amatsukyō document line surfaces **before** full Shingo coordinate |
+| **Failed capstone attempt** | **1935** | Shingo mound tagging; Kano *gisho*; treasures to Yasukuni Yūshūkan (Dec) | Attempt to **enshrine** post-invasion ideology — **debunked**; villagers **surprised**; fraud frame sticks |
+| **State containment** | **1936–1942** | Takeuchi arrest (Feb **1936**); Kano *Shisō* (Jun **1936**); lèse-majesté trial | **Competing exclusives** — navy flirtation (Kano) then **prosecution** |
+| **Working capstone holds** | **1936–1945** | State Shinto / **emperor *kokutai***; Pan-Asian war rhetoric | Same sustainment project **continues** without credible Christ-Shingo buy-in |
+| **Total war scale** | **1937+** | Marco Polo Bridge → full Sino-Japanese War → Pacific | Ideology **already needed** after **1931**; Shingo did **not** unlock this — **emperor cult** carried escalation |
+
+**1935 placement:** Near the **front of the late-prewar surge** (same band as Feb **1936** crisis, two years before **1937** full war) — but **after** **1931** ground invasion. Shingo is **early in the myth-engineering band**, **late relative to first continental invasion**.
+
+#### 5.7.2 What the failed capstone was trying to do
+
+**Not:** prove Shingo caused militarism.
+
+**Yes — attempted ideological sustainment** after **1931** so the continental project could **continue and escalate** toward world war:
+
+- **Absolute loyalty** to a **divine figure** (Christ re-centered as imperial-scale sacred founder)
+- Conviction of Japan's **sacred mission**: **unite Asia**, **liberate** it from **Western colonial** powers (Pan-Asian liberation rhetoric compatible with later **Greater East Asia** propaganda)
+- **Disconnect Rus-Horde** memory; fold **eastern Christ** back in as **Japanese-world** spiritual capital
+- **Enhance** — not replace — the **emperor** narrative (see §5.7.3)
+
+**Outcome:** **Failure.** After Kano and the *gisho* label, **nobody credible believed Shingo.** The **same operational plan continued** (China, then Pacific); the **packaging pivoted** to **Hirohito / indigenous emperor** and **State Shinto** — the capstone that had been **parallel since Meiji** and **aligned to British grooming in the 19th century** (§12).
+
+#### 5.7.3 Emperor and Christ — documented relationship (critical)
+
+**Verified in secondary summaries of Takeuchi/Amatsukyō claims** ([Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuchi_documents); [Japanese Wiki Corpus — Takeuchi Monjo](https://www.japanesewiki.com/literature/Takeuchi%20Monjo.html); [Tsushima — Amatsukyō influence](https://www2.kokugakuin.ac.jp/ijcc/wp/cpjr/newreligions/tsushima.html)):
+
+| Question | Answer | Tier |
+|----------|--------|------|
+| Did Takeuchi claim **sitting Shōwa Emperor (Hirohito)** was **blood descendant of Christ**? | **No** — **not found** in standard summaries of the corpus | Documented negative (secondary) |
+| Christ's **documented descent line** | Eldest daughter → **Sawaguchi family** (Shingo/Herai) — **local**, not Yamato imperial house | Document relay |
+| Christ's **role vs emperor** | Studied in Japan ages 21–33; returned to Judea; after crucifixion survival, **died in provinces** (Shingo claim) | Sign / *Isukiri* testament relay |
+| **Moses, Buddha, Christ, other founders** | Came to Japan and **served the Emperor**; Moses received commandments **bestowed by the emperor** when he visited Japan | Document cosmology (summaries) |
+| **Imperial line in documents** | Extended **pre-Jimmu** genealogies (Jōko, Aezu/Fukazu dynasties, divine-age emperors) — **deepens** emperor antiquity beyond *Kojiki* | Takeuchi cosmology |
+| **Takeuchi / Amatsukyō vs palace** | Takeuchi claimed custodianship of treasures and work toward **presenting them to the imperial household** | Tsushima (Amatsukyō) |
+
+**Hierarchy (enhancement model — not merge):**
+
+```
+Emperor / imperial line     = source, world center, law-giver to Moses
+Christ (and other founders) = students, servants, returned missionaries
+Shingo tomb                 = provincial memorial for Christ branch
+Sawaguchi line              = local blood — NOT Hirohito's line
+State Shinto / kokutai      = official indigenous apex (won after debunk)
+```
+
+Shingo was **not designed to conflict** with the "British-set-up" emperor cult in Takeuchi's **stated** cosmology — it was meant to **enhance** both: **Japan origin of all religions** + **Christ buried in the realm** + **emperor still supreme**. It **failed** because (a) **fraud debunk**, (b) **Christ too visible** next to Palestine gatekeeping, (c) **alternate pre-Jimmu genealogies** and Amatsukyō **world-center** claims **competed** with official *kokutai* (→ **lèse-majesté** prosecution), (d) military **flirtation then discard** (Kano 1936; arrest 1936).
+
+#### 5.7.4 Causality tiers (settled for this dossier)
+
+| Claim | Verdict |
+|-------|---------|
+| Shingo tagging **caused** 1931 Manchuria or militarism | **Rejected** |
+| 1931 invasion **required** later ideology to **sustain** continental → world war | **Author thesis** |
+| 1935 Shingo = **attempted** enshrinement capstone | **Author thesis** |
+| Capstone **failed**; emperor cult **succeeded** | **Author thesis** + mainstream fraud debunk |
+| Takeuchi claimed Hirohito **descended from** Christ | **No evidence** — **Christ served emperor** instead |
+| Western grooming → 1931 → ideology → WWII scale | **Author thesis** — aligns §5.6, §12; operational proof **open** |
+
+#### 5.7.5 Axis mirror — Takeuchi vs early Hitler (containment vs co-option) (author thesis)
+
+**Epistemic tier:** Structural parallel in this project's Axis religious-apparatus frame (§5.6; [`wwii-fascism-religious-apparatus-investigation.md`](../../../governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) §4) — **not** evidence Takeuchi and Hitler coordinated or met.
+
+Both figures occupy the **same structural slot**: **myth-engineers** pushing **exclusive-origin sacred history** that **threatens whoever currently owns the national religion** — then facing **legal suppression** when the wrong branch is selected. **Outcome diverges:** Takeuchi = **failed capstone, contained**; Hitler = **early arrest, then elevated capstone** (until post-1945 taboo).
+
+| | **Takeuchi (Amatsukyō)** | **Hitler (NSDAP / völkisch line)** |
+|--|--------------------------|-------------------------------------|
+| **Sacred-history pitch** | Japan origin of all religions; pre-Jimmu emperors; Christ **served** emperor; Shingo tomb | Aryan / **Atlantis** / Nordic golden age; German **blood-religion** (Thule → DAP → NSDAP) |
+| **Axis role (this project)** | **Failed** post-1931 sustainment capstone (§5.7.2) | **Successful** "final religion" capstone (WWII §4.1) — later **tabooed** after defeat |
+| **Threat to establishment** | **Alternative imperial genealogy** + Amatsukyō world-center → competes with official ***kokutai*** / Hirohito | **1923:** Weimar republic (treason after Beer Hall Putsch). **1933+:** rhetoric **becomes** state |
+| **Arrest / charges** | **1936-02-13** (detained to **1937-07**): **lèse-majesté**, forged documents, fraud; **1942** trial guilty lèse-majesté; **1944** Supreme Court acquittal (religious matter) | **1923-11-09** Beer Hall Putsch → **treason**; ~9 months Landsberg; *Mein Kampf* |
+| **Debunk / scholarly attack** | Kano **1935–1936** (*gisho*); Yamazaki **1927** | Weimar press + later Allied denazification; occult marginalization narrative |
+| **Establishment outcome** | Debunk, prosecute, **discard branch**; **emperor State Shinto wins**; Amatsukyō disband **1950** (SCAP) | Early **contain**, then **co-opt / elevate**; Nazism **is** establishment until **1945** |
+| **Timing vs 1930s war band** | Peak publicity **1935–1936** — **after** **1931** Manchuria | Putsch **1923**; Chancellor **1933**; Ahnenerbe **1935** — parallel myth-engineering decade |
+
+**Similar rhetoric class (author read):** Both push **sacred history that severs Horde-province memory** and installs **exclusive national origin** (Japan alone / Aryan-Atlantis alone) — the §5.6 triple redaction. Both **arguably threaten the establishment** of their moment: Takeuchi the **frozen imperial genealogy**; early Hitler the **liberal republic** (before he **is** the new center).
+
+**Critical asymmetries — do not flatten:**
+
+1. **Charges differ:** Takeuchi = **throne-adjacent** speech crime (*fukeizai* / lèse-majesté) + document fraud; Hitler **1923** = **violent coup / treason**, not primarily pseudohistory charges (occult ideology was pipeline, not the indictment).
+2. **Timeline differs:** Hitler's landmark arrest is **1923** — a **decade before** Takeuchi's **1936** arrest; only the **1935 Ahnenerbe / Shingo** band overlaps as parallel myth production.
+3. **Outcome inverts:** Takeuchi **never** captures state; Hitler **does**. Takeuchi = **arrested failed capstone**; Hitler = **arrested-then-elevated capstone**.
+4. **Project read:** Germany's Atlantis/Aryan branch was **selected to run**; Japan's Christ-Shingo branch was **selected to fail** — same playbook family, **different branches** steered by whoever allocates each nation's exclusive myth (§5.6, §12).
+
+**One-line verdict (settled for this dossier):** Takeuchi and early Hitler **mirror** each other as **establishment-threatening sacred-history entrepreneurs** in the Axis build-up; they are **not** equivalents in guilt, method, or success — Takeuchi is the **contained discard**, Hitler the **co-opted ascendancy**.
+
+**Cross-ref:** [`wwii-fascism-religious-apparatus-investigation.md`](../../../governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) §2.3 (revised); §4.1 (Thule, Ahnenerbe, Atlantis); [`15.04.00` false flags — Manchurian Incident 1931](../../../../paradigm-threat-timeline/content/15.ce-21st-the-final-struggle/15.04.00-false-flags-architecture-of.md) (timeline Manchuria row).
+
 ---
 
 ## 6. Post-crucifixion geography — sign text as narrative relay
@@ -198,7 +298,10 @@ The Crimea line in [`06.04.00`](../../../../paradigm-threat-timeline/content/06.
 | Layer | Mainstream | Paradigm Threat |
 |-------|------------|-----------------|
 | **Provenance** | Modern forgery (*gisho*); Kano 1935–1936; anachronistic script | 1930s **packaging** of older eastern memory; "forgery" label as **containment** (see WWII investigation) |
-| **Shingo tomb** | 1935 "invention"; tourism; no pre-1935 Christ talk | **Unproved locus** — Takeuchi 1935 tagging **untrusted**; may be ordinary kofun + packaging; **burial in Japan** thesis stands; **original graves likely destroyed** (Smithsonian Project + kofun scrubs); site **debunked/contained**, not authentic coordinates |
+| **Shingo tomb** | 1935 "invention"; tourism; no pre-1935 Christ talk | **Unproved locus**; **1935 failed capstone** (§5.7) — post-**1931** sustainment attempt; debunked; emperor *kokutai* carried war |
+| **Emperor vs Christ (Takeuchi)** | (Not in mainstream frame) | Christ **served** emperor; Sawaguchi local line; **no** Hirohito–Christ blood claim in summaries — §5.7.3 |
+| **1931 → ideology → WWII** | Manchuria = Japanese aggression | **1931 first** (Western-groomed read); ideology **after** to sustain; Shingo **failed** branch — §5.7 |
+| **Takeuchi vs Hitler** | (No mainstream parallel) | Same **sacred-history entrepreneur** slot; similar **establishment threat**; **opposite outcomes** (contained vs co-opted) — §5.7.5 |
 | **Cosmology** | Ultranationalist pseudohistory | **Exclusive-origin hijack** (Japan alone) vs **Horde-province** memory; same Axis pattern as Rome/Atlantis — see §5.6 |
 | **Trial outcome** | Religious acquittal 1944 | State could not safely destroy the movement or documents without schism; originals then **lost to fire** |
 | **British/OSS layer** | (Not in mainstream frame) | Anglo-Japanese grooming → abandonment → exclusive *kokutai*; post-war SCAP containment; redaction operator traces to British/intelligence channel per war investigations |
@@ -423,6 +526,9 @@ The *Sendai Kuji Hongi* (先代旧事本紀) and related **gisho** (*Wakan sansa
 8. **Shingo excavation / GPR:** What is physically in the mounds? Expect normal remains or empty fill if decoy/replacement.
 9. **Takeuchi agent trace:** Funding, travel, British-facing contacts 1920s–1935.
 10. **Smithsonian Project / kofun destruction:** Primary records for giant-mound and kofun demolition **late 18th / early 19th c.** (Americas + Eurasia + Japan) and later waves.
+11. **Primary Amatsukyō texts:** Explicit naming of **Hirohito** vs generic emperor; any line claiming imperial–Christ **blood** merge (expected: none).
+12. **1931 operational orders:** Foreign Office / IJA archives linking Manchuria to British or US steering beyond grooming thesis (§5.7.1).
+13. **War propaganda:** Did official 1937+ materials cite Takeuchi, Shingo, or Amatsukyō? (Expected: minimal — emperor/Shinto face).
 
 ---
 
@@ -433,6 +539,7 @@ The *Sendai Kuji Hongi* (先代旧事本紀) and related **gisho** (*Wakan sansa
 - [Takeuchi documents — Wikipedia](https://en.wikipedia.org/wiki/Takeuchi_documents)
 - [Kirisuto no Haka — Wikipedia](https://en.wikipedia.org/wiki/Kirisuto_no_Haka)
 - [Takeuchi Monjo — Japanese Wiki Corpus](https://www.japanesewiki.com/literature/Takeuchi%20Monjo.html)
+- [Tsushima Michihito — Amatsukyō and Takeuchi Document influence](https://www2.kokugakuin.ac.jp/ijcc/wp/cpjr/newreligions/tsushima.html)
 - [Gisho — Japanese Wiki Corpus](https://www.japanesewiki.com/history/Gisho%20(forged%20document%20and%20books).html)
 - [Keeping the Faith: Christ's Tomb in Aomori — Nippon.com](https://www.nippon.com/en/japan-topics/g00658/keeping-the-faith-christ%E2%80%99s-tomb-in-aomori-and-japanese-religion.html)
 - [The Little-Known Legend of Jesus in Japan — Smithsonian](https://www.smithsonianmag.com/history/the-little-known-legend-of-jesus-in-japan-165354242/)
@@ -456,4 +563,4 @@ The *Sendai Kuji Hongi* (先代旧事本紀) and related **gisho** (*Wakan sansa
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers above adjudicate specific claims.
 
-Keywords: #Takenouchi #Takeuchi #Shingo #Isukiri #Kirisuto #Japan #RusHorde #Christ #Gisho #Kano #SourceHunt
+Keywords: #Takenouchi #Takeuchi #Shingo #Isukiri #Kirisuto #Japan #RusHorde #Christ #Gisho #Kano #1931 #Manchuria #Kokutai #FailedCapstone #Hitler #AxisMirror #SourceHunt

@@ -97,6 +97,8 @@ or *not* believing.
 * [Operation Paperclip & Nazi continuity](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) — US absorption of German science; WWII defeat narrative vs continuity.
 * [The Four Reverse Crusades](/governance/war/investigations/reverse-crusades-comparison.md) — Structural comparison (1812, 1914, 1941, 2022-style arcs).
 * [Zelensky open letter (Jun 2026)](/governance/war/investigations/zelensky-open-letter-reality-model-investigation.md) — Operative reality model, TA / word choice, reverse-crusade figurehead read.
+* [Zelensky’s letter is a memory weapon](/governance/war/zelensky-forward-history-memory-war.md) — Reader essay: forward-only history vs buried Holodomor on the same soil.
+* [Holodomor–Holocaust memory investigation](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md) — Memory redaction, Dec 1932 Stalin primaries, geography of horror.
 * [Soviet Collapse](/governance/war/investigations/soviet-collapse-investigation.md) — Western orchestration, media, post-WWII isolation.
 * [RMS Titanic (1912)](/governance/war/investigations/titanic-sinking-investigation.md) — Timing, alternative narratives, inquiries and aftermath.
 * [Armed confrontations](/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md) — Citizens vs federal government, military, and agents.
