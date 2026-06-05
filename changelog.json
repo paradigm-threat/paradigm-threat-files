@@ -1,8 +1,89 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-04T13:01:34.523Z",
+    "date": "2026-06-05T13:46:22.602Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md",
+        "href": "/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages"
+      },
+      {
+        "status": "A",
+        "path": "influence/predictive_programming/investigations/evo-search-for-eden-deep-time-saturnian-cosmology-predictive-programming-investigation.md",
+        "href": "/influence/predictive_programming/investigations/evo-search-for-eden-deep-time-saturnian-cosmology-predictive-programming-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/investigations/terranigma-beruga-predictive-programming-investigation.md",
+        "href": "/influence/predictive_programming/investigations/terranigma-beruga-predictive-programming-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/page.md",
+        "href": "/influence/predictive_programming"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/predictive_programming/predictive_programming.png",
+        "alt": "Predictive Programming"
+      },
+      {
+        "src": "/influence/predictive_programming/comics.jpg",
+        "alt": "9/11 predictive programming in comics"
+      },
+      {
+        "src": "/influence/predictive_programming/doom.jpg",
+        "alt": "Doom — quantum teleport between Earth and Mars"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_women.jpg",
+        "alt": "Mars Needs Women — breeding programme theme"
+      },
+      {
+        "src": "/influence/predictive_programming/stargate.jpg",
+        "alt": "Stargate — pyramid as portal"
+      },
+      {
+        "src": "/influence/predictive_programming/wotw.jpg",
+        "alt": "War of the Worlds — heat ray, red weed, Mars inversion"
+      },
+      {
+        "src": "/influence/predictive_programming/simpsons_space_laser.jpg",
+        "alt": "The Simpsons — 9/11 imagery"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_movies.jpg",
+        "alt": "Mars movies"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin.jpg",
+        "alt": "Marvin the Martian"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin2.jpg",
+        "alt": "Marvin the Martian (2)"
+      },
+      {
+        "src": "/influence/predictive_programming/megaman.jpg",
+        "alt": "Mega Man"
+      },
+      {
+        "src": "/influence/predictive_programming/nazis_hollow_earth.jpg",
+        "alt": "Nazis in Hollow Earth"
+      },
+      {
+        "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
+        "alt": "Fire on the Mountain"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-04T13:01:33.000Z",
+    "message": "Polish Stonehenge article link markup and closing prose.",
     "files": [
       {
         "status": "M",
@@ -1357,41 +1438,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-06-02T02:18:38.000Z",
     "message": "Rebut \"no personal attacks\" rule in Gordonston Facebook ban.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/make-gordonston-great-again.md",
-        "href": "/influence/controlled_opposition/make-gordonston-great-again"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-facebook-jack-taylor-admin-statement-2026.png",
-        "alt": "Jack Taylor admin statement — Gordonston on Facebook, May 2026"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
-        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png",
-        "alt": "Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-class.png",
-        "alt": "Make Gordonston Great Again — volunteer homework campus vision: children, volunteers, and study tools in the church education wing"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-02T02:17:31.000Z",
-    "message": "Note Gordonston Facebook ban cut off cat rescue and other programs.",
     "files": [
       {
         "status": "M",

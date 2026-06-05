@@ -167,7 +167,9 @@ Stonehenge waited for **alignments**. CERN **forces** amplitude underground. Sam
 *This Is Spinal Tap* (1984) is the **comedy-layer** inoculation. The **mystery-layer** is the BBC headline; the **authority-layer** is the AI press release (see above). **Games** are the **interactive layer** — same gate, same giggle reflex, hours of **muscle memory** before you ever read a dossier. All four train the same reflex. The **song** is not arbitrary:
 
 > **Stonehenge, where the demons dwell**  
-> **And the soft winds blow…**
+> **Where the banshees live and they do live well**
+
+([Spinal Tap — *Stonehenge*](https://www.songfacts.com/lyrics/spinal-tap/stonehenge), *This Is Spinal Tap*, 1984.)
 
 Read **literally** in portal grammar: **demons** = **entities / presences on the far side**; **Stonehenge** = **gateway they used to get here**. The **mockumentary** does not **invent** the gate — it **shrinks** it to a **prop** so **tiny** the band **trips over it**. That is **Revelation of the Method** with a **rimshot**.
 
@@ -176,6 +178,8 @@ The trope repeats: *[Event Horizon](https://paradigmthreat.net/influence/predict
 **Games — especially the line after *Warcraft II* (1995).** Blizzard’s RTS sequel ***[Warcraft III](https://warcraft.wiki.gg/wiki/Warcraft_III:_Reign_of_Chaos)*** (2002) and the **WC2** campaigns themselves already showed you the answer under **fantasy** paint. The franchise’s central image is the **Dark Portal** — a **stone gate** between **worlds**, explicitly a **dimensional passage** ([Dark Portal — Warcraft Wiki](https://warcraft.wiki.gg/wiki/Dark_Portal)). Alongside it sit **Runestones**: **huge, monolithic stone monuments** scattered through **Azeroth**, **ancient monoliths** erected for **protection and warding**, powering a border barrier called **Ban'dinoriel** — **“the Gatekeeper”** ([Runestone — Warcraft Wiki](https://warcraft.wiki.gg/wiki/Runestone); [WC2 manual — Runestone at Caer Darrow](https://wowpedia.fandom.com/wiki/Runestone_(Warcraft_II))). In mission art and fan comparison they **read as Stonehenge**: upright **sarsen-class** blocks, **ring grammar**, **clearly a gate** — players have mapped in-world **Throne of the Elements** and elven **runestones** side-by-side with photographs of **Salisbury** (*“duh”*, in the idiom of early fan blogs). Community summaries state the obvious in plain English: **monolithic monuments resembling real-life Stonehenge in the UK**, deployed as **border portals / ward hardware** across a fictional map.
 
 **Author read:** We have been **told what Stonehenge is** many times — **only under science-fiction rules**. Fantasy lets you **see** the **helix / gate / crossing** stack, **nod**, **dismiss** (“it’s just a game”), and **laugh** when someone cites the same structure **without** the elves. That is the **full predictive-programming loop**: **introduce** the possibility → **frame** it as **fiction** → **inoculate** against **serious** recurrence. By the time you hear **quantum portal** in a **history** article, your **reflex** is already trained by **hundreds of hours** of **clicking through** stone gates that **work**.
+
+The same loop runs on **cosmology**, not only gates. ***E.V.O.: Search for Eden*** (1992 SNES; from ***46 Okunen Monogatari*** — **4.6 billion year** / **Theory of Evolution**) opens with **planets in a line**, then **scattering** — a **half-rhyme** with **collinear breakup** in [Saturnian chronology](https://paradigmthreat.net/timeline/evt-3147-bce-the-golden-age-ends-violently) — while the **title and dinosaur chapters** push **consensus deep-time Earth** on kids. **Eden** and **Gaia** supply creation **furniture** so the **evolution brand** feels harmless. Full dossier: [*E.V.O.* PP investigation](https://paradigmthreat.net/influence/predictive_programming/investigations/evo-search-for-eden-deep-time-saturnian-cosmology-predictive-programming-investigation.md).
 
 Predictive programming does not always **hide** the truth. Sometimes it **preloads a laugh** so when you hear **Stonehenge** in a **serious** context — **quantum**, **ley**, **Golden Age** — your **reflex** is **comedy**, not **investigation**.
 
@@ -187,7 +191,9 @@ So which is it? Did a **rock band writer** **randomly** imagine a **conceptual g
 
 Keywords: #Stonehenge #QuantumPortal #GoldenAge #DarkAges #Birkeland #LeyLines #Prometheus #Pyramids #Cathedrals #StarForts #DeepTime #Relocation #London1666 #CERN #PredictiveProgramming #SpinalTap #Warcraft #AI #ParadigmThreatFiles
 
-**Last updated:** 2026-06-03
+**Substack:** [paradigmthreat2.substack.com/p/stonehenge-quantum-portal-of-the](https://paradigmthreat2.substack.com/p/stonehenge-quantum-portal-of-the) — **Title** and hook **Subtitle** live in Substack editor fields only; body paste starts at hero / `TL;DR`.
+
+**Last updated:** 2026-06-04
 
 ---
 

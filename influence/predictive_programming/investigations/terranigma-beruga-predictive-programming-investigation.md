@@ -94,6 +94,7 @@ The Quintet wiki **suggests** a possible reference to the **[Tokyo subway sarin 
 | [Half-Life — CERN / Combine / Xen](half-life-series-cern-combine-xen-predictive-programming-investigation.md) | Combine occupation, transhumanism, portal grammar (pattern family) |
 | [*Final Fantasy* I–VII](final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md) | Tartaria / mud-flood echo; VII Sector 7 grammar |
 | [cia-1984-mars-chrono-trigger.md](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) | Contemporary JRPG, predictive-programming **article** pair |
+| [*E.V.O.: Search for Eden*](evo-search-for-eden-deep-time-saturnian-cosmology-predictive-programming-investigation.md) | Same **SNES** generation; **deep-time / dinosaur / evolution** PP vs *Terranigma* **biotech** PP |
 | [ai-control-investigation.md](/science/ai/ai-control-investigation.md) | Robot / AI slavery and reversal themes |
 | [index-zombie-genre-investigation.md](../fiction_encoding/zombies/index-zombie-genre-investigation.md) | Plague / undead / managed disaster idiom |
 
