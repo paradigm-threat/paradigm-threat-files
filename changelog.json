@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-05T22:14:12.181Z",
+    "date": "2026-06-05T22:21:12.078Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/zelensky-forward-history-memory-war.md",
+        "href": "/governance/war/zelensky-forward-history-memory-war"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/zelensky-forward-history-memory-war.png",
+        "href": "/governance/war/zelensky-forward-history-memory-war.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/zelensky-forward-history-memory-war.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-05T22:14:11.000Z",
+    "message": "Add Holodomor–Holocaust memory dossier and Zelensky memory-war article.",
     "files": [
       {
         "status": "M",
@@ -1596,18 +1618,5 @@
         "src": "/docs/)`)."
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-02T12:12:33.000Z",
-    "message": "Plain-language pass on Gordonston draft resignation letter.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/make-gordonston-draft-resignation-letter.md",
-        "href": "/influence/controlled_opposition/make-gordonston-draft-resignation-letter"
-      }
-    ],
-    "images": []
   }
 ]

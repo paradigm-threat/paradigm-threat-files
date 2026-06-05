@@ -2,6 +2,8 @@
 
 *Forward-only history, buried Holodomor, and the figurehead slot in the fourth reverse crusade*
 
+![Zelensky forward-history memory war — figurehead grammar, Holodomor soil, simplified Jew](zelensky-forward-history-memory-war.png)
+
 > **TL;DR:** Zelensky’s **4 June 2026** [open letter to Putin](https://www.president.gov.ua/en/news/vidkritij-list-prezidentu-rosijskoyi-federaciyi-vid-preziden-104769) is **epistemology**, not diplomacy: **2022** as year zero, Russian grievances dismissed in **one sentence**, peace terms shaped like ultimatum. On **Holodomor** soil (~**3.9M** dead, **1932–34**), that truncation repeats Stalin’s habit — **one enemy, one past, no graph**. The same move runs through **Holocaust memory**: a **western camp photograph** replaces the **eastern** killing field; a **single postwar “Jew”** replaces **many prewar Jewish worlds**; **Russia-as-source** (Ostjude, Horde memory, Judeo-Bolshevism) gets **purged** into conspiracy-banned talk. **Hitler** and **Zelensky** share a **figurehead grammar**: moral synecdoche, simple causality, gallery-ready blame — whether or not either man authors the geometry behind him. Full letter TA: [open-letter dossier](https://paradigmthreat.net/governance/war/investigations/zelensky-open-letter-reality-model-investigation.md). Deep memory pass: [Holodomor–Holocaust investigation](https://paradigmthreat.net/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md).
 
 ---
