@@ -1,6 +1,6 @@
 # Takenouchi Documents, Dr. Takeuchi, and Japan as Eastern Rus-Horde — Investigation
 
-> **TL;DR:** **Christ and Isukiri buried in Japan** (~**1258 CE**); **Shingo unproved** (Takeuchi 1935 untrusted). **Mound erasure (§5.8.4):** **Smithsonian Project** = **playbook** for giant-mound destruction **outside Japan** (none known in Japan); **final Japanese giant kofun** + **original founder graves** likely **scrubbed under WWII bombing**. Takeuchi may have **tagged decoy** Christ–Isukiri mounds (**1935**, debunked). **1931 Manchuria first** → **1935 failed capstone**; ***kokutai* won**. **Shingo spared** as possible decoy (§10.3). See §5.8.4, §10.3.
+> **TL;DR:** **Christ and Isukiri buried in Japan** (~**1258 CE**); **Shingo unproved** (Takeuchi 1935 untrusted). **1942–44 trial:** ~**4,000 originals harvested**, **not returned after acquittal**, **reportedly destroyed 1945** — **dubious document-collection op** (§11.3). **Mu / Miyoi–Tamiara collapse** in lore = **Axis sunken-continent hijack** (like Nazi **Atlantis**) with possible **MFEE** memory underneath (§5.9). **Mound erasure (§5.8.4):** **Smithsonian Project** = **playbook** outside Japan; **final Japanese giant kofun** likely **scrubbed under WWII bombing**. **1931 Manchuria first** → **1935 failed capstone**; ***kokutai* won**. See §5.8.4, §5.9, §11.3.
 
 **Date:** 2026-06-03 (§5.8.4 Smithsonian vs WWII Japan mound terminus — 2026-06-06)  
 **Status:** Ongoing  
@@ -18,7 +18,7 @@
 
 **Shingo site read:** Villagers had **no prior record** of Christ-level importance — consistent with **suppression** but also with **Takeuchi attaching a famous name to ordinary kofun**. Mounds may predate 1935 as **normal burials**; Christ/Isukiri reading and festival layer (**1964** Kirisuto Matsuri) are largely **Takeuchi-era public packaging**. **If excavated today:** expect **normal human remains, empty fill, or replacement material** — **not** giant skeletons (would contradict the Palestine narrative). Destroyers would not leave contradicting evidence in an open tourist site.
 
-**Original graves — destruction thesis (author confidence, revised 2026-06-06):** The **actual** Christ/Isukiri burial location(s) in Japan were almost certainly **erased in the WWII Japan bombing band** — not in an earlier **Smithsonian Project** operation **in Japan** (none known). The **Smithsonian Project** (**late 18th / early 19th century**; U.S. institutional arm from **1846**) laid the **groundwork and foundation** for **giant burial-mound destruction** across the **Americas and Eurasia** — same arc as Horde breakup (~1775), Trail of Tears-era erasure — but **as far as this project knows it did not operate in Japan**. **Only after** Allied **firebombing of Japan** could the **final Japanese giant-line kofun** — including the **original founder-scale graves** of Christ and Isukiri — be **destroyed under cover of total war** (§5.8.4). **WWII** also burned most textual relay (~4,000 submitted originals). What survived is **Takeuchi's damaged document line**, **debunked Shingo packaging** (possible **decoy coordinate**), and **sign text** as narrative relay — not proof of locus. See [`history/mudflood/page.md`](../../mudflood/page.md).
+**Original graves — destruction thesis (author confidence, revised 2026-06-06):** The **actual** Christ/Isukiri burial location(s) in Japan were almost certainly **erased in the WWII Japan bombing band** — not in an earlier **Smithsonian Project** operation **in Japan** (none known). The **Smithsonian Project** (**late 18th / early 19th century**; U.S. institutional arm from **1846**) laid the **groundwork and foundation** for **giant burial-mound destruction** across the **Americas and Eurasia** — same arc as Horde breakup (~1775), Trail of Tears-era erasure — but **as far as this project knows it did not operate in Japan**. **Only after** Allied **firebombing of Japan** could the **final Japanese giant-line kofun** — including the **original founder-scale graves** of Christ and Isukiri — be **destroyed under cover of total war** (§5.8.4). **WWII** also burned most textual relay (~4,000 submitted originals) after a **1942–44 trial harvest** that **collected and mapped** the movement's real corpus then **withheld it post-acquittal** (§11.3). What survived is **Takeuchi's damaged document line**, **debunked Shingo packaging** (possible **decoy coordinate**), and **sign text** as narrative relay — not proof of locus. See [`history/mudflood/page.md`](../../mudflood/page.md).
 
 **Sign at Shingo:** **Primary for narrative geography** (Isukiri on cross; family **east** with body; Siberia → Alaska → Aomori; twin-mound **story**; death at 106) — **not** primary proof that **this mound pair** is the grave. Toponyms like **"Judea"** use **old timeline and old geography** (pre-Scaligerian +1000) — Fomenko-aligned, not Western Palestine.
 
@@ -41,7 +41,7 @@ The problem with Shōwa Japan is not that it remembered too much eastern history
 
 | Power | Exclusive myth imposed | What it erases |
 |-------|------------------------|----------------|
-| **Japan** | Japan as **sole** imperial seat; divine age before Jimmu; no Tartary/Horde parent | Japan as **eastern reach** of Rus-Horde; Christ-in-Japan as intra-empire, not foreign folklore |
+| **Japan** | Japan as **sole** imperial seat; divine age before Jimmu; **Mu / Miyoi–Tamiara collapse** / Atlantis echoes; no Tartary/Horde parent | Japan as **eastern reach** of Rus-Horde; Christ-in-Japan as intra-empire; **MFEE** as shared cataclysm, not exclusive Mu (§5.9) |
 | **Germany** | Aryan / **Atlantis** as **final** revealed religion (Nazism) | Shared Horde memory; eastern Christianity; "Atlantis" as controlled disclosure not recovery |
 | **Italy** | **Romanità** — fascism as restoration of **Rome alone** | Rome as **Latin gatekeeper** of Palestine narrative, not authentic continuation of eastern Christendom |
 
@@ -72,6 +72,9 @@ The problem with Shōwa Japan is not that it remembered too much eastern history
 | **Kokichi Kano** (狩野亨吉) | Historian; **1935** examines five photographed documents → **forgery**; **1936** *Shiso* article; **1942** prosecution witness | Mainstream debunk anchor |
 | **Shinkichi Hashimoto** | Linguist; **1942** co-witness for prosecution | Script / anachronism arguments |
 | **Yoshimiya Takeuchi** | Son; post-war custodian of **copies** after originals burned | Post-1945 |
+| **Kodama Tenmin** | Author, *Heavenly Leader Emperor's Genealogy Treasure Scroll* (1940) — **Miyoi/Tamiara** first appear | **1940-10** |
+| **Nakazato Yoshimi** | Editor, *Shin Nippon* — **Mu** article **"The Collapsed Continent of Mu Country"** | **1938-06** |
+| **James Churchward** | Western **Mu** sunken-continent pipeline (influence on Takeuchi reception per Hasegawa) | **1926+** |
 | **Sawaguchi family** | Local lineage claiming descent from Christ's eldest daughter | Shingo today |
 | **Koso Kotai Jingu** (皇祖皇太神宮) | Shrine institution claiming document custody | Ibaraki (relocated from Toyama tradition) |
 
@@ -83,9 +86,11 @@ The problem with Shōwa Japan is not that it remembered too much eastern history
 | 1932 | Komaru Takeuchi arrested; shrine access restricted |
 | 1935-12-28 | Sacred treasures entrusted to Yasukuni Yūshūkan |
 | 1936-02-13 | Kyomaro Takeuchi arrested (lèse-majesté, forged documents, fraud) |
+| 1942–1944 | **Koso Kotai Jingu** files **上告趣意書** + **~4,000** Takeuchi docs, **神宝**, **site-investigation reports** (see §11.2–§11.3) |
 | 1942-03-16 | First trial; guilty lèse-majesté |
 | 1944-12-12 | **Supreme Court acquittal** — religious matter, insufficient evidence |
-| 1945 | Tokyo air raids — **~4,000 submitted originals reportedly destroyed** |
+| Post-1944 | **Originals not returned** despite acquittal |
+| 1945 | Tokyo air raids — **~4,000 submitted originals reportedly destroyed** (incl. *Kibitsuhiko no mikoto heihō no maki*) |
 | 1950 | GHQ/SCAP orders Amatsukyō disbanded |
 
 Sources: [Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuchi_documents); [Japanese Wiki Corpus — Takeuchi Monjo](https://www.japanesewiki.com/literature/Takeuchi%20Monjo.html).
@@ -117,6 +122,8 @@ Sources: [Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuc
 | **Isukiri's Testament** / *Isukiris Christmas* | Jesus narrative: brother on cross, Japan retirement, Miyuko, Sawaguchi, age 106 |
 | **Emperor–founder hierarchy** | Moses, Buddha, Christ, etc. came to Japan and **served the Emperor**; Moses received commandments from emperor; **not** Hirohito-as-Christ-bloodline — see §5.7.3 |
 | **Gisho** (偽書) | Japanese category for apocryphal/forged history books |
+| **Miyoi / Tamiara** (御代 / 三婆羅) | Regions said to **collapse** under Fukazu **69th** emperor **Kamitariwake Toyosuki** — Mu/Atlantis-like sunken-land lore (§5.9); **first in Kodama 1940** scroll |
+| **Fukazu dynasty** | Pre-Jimmu imperial line in Takeuchi genealogies — with **Jōko**, **Aezu**, **Tenjin** eras |
 | **Related gisho cluster** | *Sendai Kuji Hongi* (先代旧事本紀), *Wakan sansai zue*, imperial compilations — named in [`indigenous-legends-vs-geologic-dating-investigation.md`](indigenous-legends-vs-geologic-dating-investigation.md) but **not yet downloaded** |
 
 **What survives today:** Post-war **copies and transcriptions**; shrine-held materials (restricted); Shingo **museum/sign** text; scholarly photographs Kano examined (1935). **Not** a complete authenticated ancient corpus.
@@ -136,6 +143,8 @@ Sources: [Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuc
 | Legacy chronology Shingo block (Herai, twin mounds) | [`history/chronology/page.md`](../page.md) ~1432–1468, ~1603–1608 | Files hub |
 | Giants / Children's Crusade / guerrilla | [`giants-infantry-guerrilla-etymology-investigation.md`](giants-infantry-guerrilla-etymology-investigation.md) | Etymology + TFH #982 overlap |
 | **Giants of Japan** — archival memory, debunk-overreach, mound scrub | [`giants-of-japan-archival-footage-big-man-japan-investigation.md`](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) | **This dossier §5.8** |
+| **MFEE** — mudflood, map loss, late-18th-century cataclysm | [`mfee-investigation.md`](../../mudflood/investigations/mfee-investigation.md); [`history/mudflood/page.md`](../../mudflood/page.md) | **This dossier §5.9.2** |
+| **Mu / Miyoi–Tamiara collapse** | [Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuchi_documents) | **This dossier §5.9** |
 | Prester John / eastern Christian empire | [`prester-john-presbyter-rus-horde-nc-investigation.md`](prester-john-presbyter-rus-horde-nc-investigation.md) | Horde-east bridge |
 | Royal vs Apostolic / monotheism crisis | [`two-branches-christianity-fomenko-vs-author.md`](two-branches-christianity-fomenko-vs-author.md) | Christology frame |
 | Japan-as-Horde (speculative only) | [`yakuza-remote-control-investigation.md`](../../../governance/war/investigations/yakuza-remote-control-investigation.md) §6 | Flag only — **this dossier develops the bridge** |
@@ -261,7 +270,7 @@ Both figures occupy the **same structural slot**: **myth-engineers** pushing **e
 
 | | **Takeuchi (Amatsukyō)** | **Hitler (NSDAP / völkisch line)** |
 |--|--------------------------|-------------------------------------|
-| **Sacred-history pitch** | Japan origin of all religions; pre-Jimmu emperors; Christ **served** emperor; Shingo tomb | Aryan / **Atlantis** / Nordic golden age; German **blood-religion** (Thule → DAP → NSDAP) |
+| **Sacred-history pitch** | Japan origin of all religions; pre-Jimmu emperors; **Mu / Miyoi–Tamiara collapse**; Christ **served** emperor; Shingo tomb | Aryan / **Atlantis** / Nordic golden age; German **blood-religion** (Thule → DAP → NSDAP) |
 | **Axis role (this project)** | **Failed** post-1931 sustainment capstone (§5.7.2) | **Successful** "final religion" capstone (WWII §4.1) — later **tabooed** after defeat |
 | **Threat to establishment** | **Alternative imperial genealogy** + Amatsukyō world-center → competes with official ***kokutai*** / Hirohito | **1923:** Weimar republic (treason after Beer Hall Putsch). **1933+:** rhetoric **becomes** state |
 | **Arrest / charges** | **1936-02-13** (detained to **1937-07**): **lèse-majesté**, forged documents, fraud; **1942** trial guilty lèse-majesté; **1944** Supreme Court acquittal (religious matter) | **1923-11-09** Beer Hall Putsch → **treason**; ~9 months Landsberg; *Mein Kampf* |
@@ -358,6 +367,73 @@ If the author read is right that Takeuchi **destroyed or obscured the original g
 
 **Epistemic tier:** **Author thesis** — no Japan-primary Smithsonian file or **1945 kofun demolition log** located in-repo. **Compatible with** documented **city-firebombing** scale and **absence of giant evidence** at open tourist sites today.
 
+### 5.9 Mu, Miyoi–Tamiara collapse, and post-cataclysm memory vs Axis sunken-continent doctrine (author thesis)
+
+**Documented in Takeuchi lore (secondary):** The scroll cosmology extends imperial time **before Jimmu** through **Jōko** (25 generations), **Aezu** (73 generations — Jimmu = 73rd), **Tenjin** (7 generations), and the **Fukazu dynasty**. During the reign of **Emperor Kamitariwake Toyosuki** — **69th emperor of the Fukazu dynasty** — the regions **Miyoi** (御代) and **Tamiara** (三婆羅) **collapsed**. Descriptions read like a **sunken continent** — explicitly reminiscent of **Mu** and **Atlantis** in modern summaries ([Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuchi_documents); [HandWiki — Takeuchi documents](https://handwiki.org/wiki/Unsolved:Takeuchi_documents)).
+
+**Import chronology (documented layering):**
+
+| Date | Source | Event |
+|------|--------|-------|
+| **1926+** | James **Churchward** (*The Lost Continent of Mu*, etc.) | Western **Mu** sunken-continent pipeline — historian **Ryoichi Hasegawa** cites Churchward influence on Takeuchi reception |
+| **1938-06** | *Shin Nippon* (新日本), ed. **Nakazato Yoshimi** | **"The Collapsed Continent of Mu Country"** (崩壊したム国大陸) — **first Mu introduction in Japan** per Wikipedia lineage |
+| **1940-10** | **Kodama Tenmin**, *Heavenly Leader Emperor's Genealogy Treasure Scroll* (天皇御系図宝巻) **Vols. 1–2** | **Miyoi** and **Tamiara** characters **first appear here** — post-dates Takeuchi's **1928/1935** public corpus; wartime **amplification layer** |
+
+**Epistemic note:** Miyoi/Tamiara may be **1940 Kodama injection** syncretized with **1938 Mu fad** — not provably in the **pre-Kano five-photo set** (§9). Still central to **movement lore**, **Mahikari** downstream, and **Axis-era sacred-history packaging**.
+
+#### 5.9.1 Axis parallel — Japan (Mu) vs Germany (Atlantis)
+
+Same **myth technology** as §5.6 **triple redaction** — sunken golden-age continent as **exclusive national origin**:
+
+| | **Japan (Takeuchi / Amatsukyō lane)** | **Germany (Thule → NSDAP lane)** |
+|--|---------------------------------------|----------------------------------|
+| **Lost world** | **Mu**; **Miyoi/Tamiara collapse**; **Atlantis** echoes in summaries | **Atlantis**; Hyperborea / Thule; Aryan **Nordic golden age** |
+| **Function** | Japan = **sole surviving world center** (Koso Kotai Jingu); pre-Jimmu emperors **deepest** antiquity | Germany = **sole blood-heir** of lost Aryan-Atlantean civilization |
+| **What it erases** | Shared **Horde-province** / eastern-Christian geography; Japan as **eastern reach**, not autochthonous alone | Shared Horde memory; eastern Christianity; recoverable **cataclysm** as common trauma |
+| **Axis outcome (this project)** | **Failed** capstone branch (§5.7) — debunked, prosecuted, documents harvested (§11.3) | **Successful** capstone — later **tabooed** so Atlantis stays **evil-associated**, not recoverable |
+
+**Investigator read:** Mu and Atlantis in Takeuchi lore are **structurally identical** to Nazi **Atlantis-Aryan doctrine** — **controlled disclosure** of "lost civilization" that **nationalizes** memory and **blocks** cross-cultural recovery. Japan got **Mu**; Germany got **Atlantis**; Italy got **Rome-alone** — §5.6 **same operator geometry**, **different branded continent**.
+
+#### 5.9.2 Post-cataclysm memory — what may point to MFEE
+
+**Split read (required):**
+
+| Layer | Content | Verdict |
+|-------|---------|---------|
+| **Contamination** | Churchward Mu + *Shin Nippon* 1938 + Kodama 1940 | **Documented** Western/fringe import — mainstream **gisho** read |
+| **Degraded prisca sapientia** | Collapse/sinking language for **Miyoi/Tamiara** + deep pre-Jimmu dynasties | **Author thesis — open** — may encode **real post-cataclysm geography**, repackaged through **1930s sunken-continent fashion** |
+
+The [**MudFlood Energetic Event (MFEE)**](../../mudflood/investigations/mfee-investigation.md) hypothesis ([`history/mudflood/page.md`](../../mudflood/page.md)) posits a **late-18th-century** planet-scale calamity — mud burial, map discontinuities, **Great Tartary** vanishing from cartography, **giant-line** elimination in the **Pugachev** band (~**1774**). **Miyoi/Tamiara "collapse"** sits in the **same narrative slot** as Mu/Atlantis in **fringe** literature — but in this project's read it may also be a **distorted relay** of:
+
+| Takeuchi-lore element | Possible MFEE / post-cataclysm echo | Tier |
+|-----------------------|-----------------------------------|------|
+| **Miyoi / Tamiara collapse** | **Submerged or erased landmasses** — Pacific/eastern island arcs, mud-buried coasts, **lost provinces** of Horde geography (not necessarily Churchward's literal Mu) | Author thesis |
+| **Jōko / Aezu / Fukazu / Tenjin** dynasties | **Pre-reset chronology** — imperial memory **before** Scaligerian/Jimmu frame and **post-MFEE** political re-centering | Pattern |
+| **16 siblings scattered**; place names (Johannesburg, Boston, New York) | **Pre-cataclysm world map** vs **post-reset toponym graft** — admits geography **changed** | Document relay + anachronism flag |
+| **Momotarō** (Fuai/**Fukazu** dynasty band) | **Foreign subjugation** after internal collapse — post-cataclysm **reordering** narrative | Weak |
+| **Hane airports** (Kureha domestic / Hakui international); **heavenly floating boats** | **Lost high-civilization transport** — same class as Vril/disc lore but **eastern** register ([`vril-society.md`](../../../governance/war/investigations/vril-society.md)) | Author thesis — fringe |
+| **Togariyama "pyramid"** (Tateyama) | **Buried or reduced monument** — mudflood **first-floor burial** pattern on other continents | Open |
+| **Hihiirokane** metal / iron sword | **Pre-industrial metallurgy** myth — tech strata **before** reset | Weak |
+| **Giant-line absence** in surviving relay (§5.8) | **Post-MFEE giant elimination** + **mound scrub** — collapse memory **stripped of scale** | Author thesis |
+
+**One-line synthesis:** **Mu/Atlantis in Takeuchi** = **Axis-style exclusive-origin hijack** (§5.6) **on top of** possible **MFEE aftermath memory** — sinking continents as the **pop-culture costume** for **real buried cities, vanished Tartary, and eastern land-loss** the mudflood literature tracks elsewhere.
+
+**Compatible with §5.8.4:** If **original founder graves** and **giant kofun** were **terminally scrubbed in WWII**, the **only** cataclysm language left in public relay may be **metaphorical** (Mu/Miyoi/Tamiara) or **debunked** — while **physical** MFEE evidence is sought in **maps, buried first floors, and excavation reports** ([`mfee-investigation.md`](../../mudflood/investigations/mfee-investigation.md)), not in Shingo tourism.
+
+**Epistemic tiers:**
+
+| Claim | Verdict |
+|-------|---------|
+| Kamitariwake Toyosuki (Fukazu 69th); **Miyoi/Tamiara collapsed** | **Documented** in Takeuchi summaries |
+| Miyoi/Tamiara **first in Kodama 1940** scroll | **Documented** (Wikipedia) — **late layer** |
+| Mu **first in Japan** via *Shin Nippon* **1938-06** | **Documented** in same lineage |
+| Churchward **Mu influence** on Takeuchi reception | **Documented** (Hasegawa, secondary) |
+| Miyoi/Tamiara = **Churchward Mu paste-in only** | **Plausible mainstream** — not exclusive |
+| Collapse language encodes **MFEE-class geography loss** | **Author thesis — open** |
+| Mu/Atlantis Takeuchi lane **mirrors Nazi Atlantis doctrine** | **Author thesis** — structural (§5.6, §5.7.5) |
+
+**Open:** Compare **pre-1940** Takeuchi copies for Miyoi/Tamiara absence; Kodama scroll full text; *Shin Nippon* 1938 Mu article; Amatsukyō wartime use of **Mu** in **1940–41** materials (§10.4 negative pass may extend); map **Miyoi/Tamiara** to candidate **pre-MFEE** Pacific/eastern landforms in [`tartarian-maps-investigation.md`](../../mudflood/investigations/tartarian-maps-investigation.md).
+
 ---
 
 ## 6. Post-crucifixion geography — sign text as narrative relay
@@ -398,7 +474,7 @@ The Crimea line in [`06.04.00`](../../../../paradigm-threat-timeline/content/06.
 | **Takeuchi vs Hitler** | (No mainstream parallel) | Same **sacred-history entrepreneur** slot; similar **establishment threat**; **opposite outcomes** (contained vs co-opted) — §5.7.5 |
 | **Pearl Harbor / *kokutai*** | Japanese treachery; tactical surprise | ***Kokutai* won** over Takeuchi; **grand-strategy** belligerence ideology-licensed; Italy→Germany / Japan→U.S. trigger parallel — §5.7.6 |
 | **Axis arrests** | Individual justice | **Disposal phases** — Takeuchi early, Hitler mid-cycle, Mussolini after collapse — §5.7.6 |
-| **Cosmology** | Ultranationalist pseudohistory | **Exclusive-origin hijack** (Japan alone) vs **Horde-province** memory; same Axis pattern as Rome/Atlantis — see §5.6 |
+| **Cosmology** | Ultranationalist pseudohistory; Churchward **Mu** paste-in | **Exclusive-origin hijack** (Japan alone) + **Mu/Atlantis** as Axis parallel to Nazi doctrine — possible **MFEE** memory underneath (§5.9) |
 | **Giants / mound scrub** | (Not in mainstream Takeuchi frame) | Takeuchi **hid giant memory**; possible **decoy Christ–Isukiri mounds** after original erased — **forgery** label as containment (§5.8); [Giants of Japan](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) |
 | **Trial outcome** | Religious acquittal 1944 | State could not safely destroy the movement or documents without schism; originals then **lost to fire** |
 | **British/OSS layer** | (Not in mainstream frame) | Anglo-Japanese grooming → abandonment → exclusive *kokutai*; post-war SCAP containment; redaction operator traces to British/intelligence channel per war investigations |
@@ -574,15 +650,86 @@ Allied air war **destroyed roughly 67 Japanese cities** with **napalm and incend
 | **Harada Minoru** | *幻想の超古代史* (1989); *偽書が揺るがせた日本史* (2020) | Cited in [EN Wikipedia](https://en.wikipedia.org/wiki/Takeuchi_documents) — extend gisho bibliography |
 | **Post-war reprints** | *定本 竹内文献* (Takeda Shogen ed.); *竹内文献資料集成* | Commercial / library reprints — **copies**, not trial originals |
 
-### 11.2 Trial originals (~4,000 pieces)
+### 11.2 Trial originals (~4,000 pieces) — documented custody chain
 
-Japanese Wikipedia: submitted as **神宝** with **上告趣意書** in **1942–1944** appeal; **not returned** after acquittal; **burned in air raids** — Yoshimiya Takeuchi held **post-war copies**.
+**Documented sequence** ([Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuchi_documents); [Japanese Wiki Corpus — Takeuchi Monjo](https://www.japanesewiki.com/literature/Takeuchi%20Monjo.html); JA Wikipedia lineage cited in secondary summaries):
+
+| Step | Event |
+|------|--------|
+| **1942–1944** | **Koso Kotai Jingu** (皇祖皇太神宮) submits **上告趣意書** — *Statement of Intent for Appeal in the Case of Disrespect for the Shrine Shrines* — together with **~4,000 Takeuchi documents**, **sacred treasures** (*神宝*), and **reports on on-site investigations of historical sites** |
+| **1942-03-16** | First trial — guilty **lèse-majesté** |
+| **1944-12-12** | **Supreme Court acquittal** — religious matter, insufficient evidence |
+| **Post-acquittal** | Submitted **originals not returned** to Takeuchi / shrine despite acquittal |
+| **1945** | Tokyo air raids — originals **reportedly destroyed**, including ***Kibitsuhiko no mikoto heihō no maki*** (吉備津彦命兵法の巻) |
+| **Post-war** | **Yoshimiya Takeuchi** (son) passes down **copies only** |
 
 **NDL search** (2026-06-03): query 竹内文書 returns catalogue interface — **no authenticated pre-1928 original scroll catalogue entry verified** in automated pass.
 
 **Naikaku Bunko / National Archives of Japan:** General **Meiji collected manuscripts** documented ([archives.go.jp](https://www.archives.go.jp/owning/old.html)); **no confirmed Takeuchi divine-character original** listed in this pass.
 
-**Tier:** Surviving usable material = **criticism + copies + sign** — not **court-returned originals**.
+**Tier:** Surviving usable material = **criticism + copies + sign** — not **court-returned originals**. **Investigator read:** the **acquittal-without-return** anomaly is the hinge — see §11.3.
+
+### 11.3 Trial as document harvest — confiscation, argument-mapping, and targeted destruction (author)
+
+**Core investigator read (2026-06-06):** This incident is **dubious on its face** — less a straightforward **lèse-majesté** case than a **procedure to collect, catalog, and hold** the **real document corpus** Takeuchi may have been working from: the material **behind** his theories, not the **five-photo public set** Kano debunked. The appeal filing looks like a **way to gather documents and identify key arguments** — which mounds, which scroll lines, which **神宝**, which site reports mattered to the movement — then **target those originals for destruction** under **war cover** while the public ceiling stays fixed on Kano.
+
+**The two corpora (why this matters):**
+
+| Corpus | Scale | Public fate | What it tells you |
+|--------|-------|-------------|-------------------|
+| **Kano debunk set** | **Five photographs** (§9) | **1936** — "modern forgery"; scholarly ceiling | What the state **wants debated** |
+| **Trial / appeal submission** | **~4,000 documents** + **神宝** + **on-site investigation reports** | Filed **1942–1944**; **not returned** after acquittal; **reportedly destroyed 1945** | What the movement **actually relied on** — and what the state **needed to see** |
+
+If Takeuchi's **published 1935–36 package** was partly or wholly **redacted, forged, or decoy**, the **~4,000-piece filing** is the strongest in-repo hint that **something else existed** — originals the shrine treated as sacred evidence, not the five images Kano was allowed to demolish in print.
+
+**Trap structure — legal cover vs custody prize:**
+
+| Stage | What the public sees | What the custody chain does |
+|-------|----------------------|-----------------------------|
+| **Prosecute** (1942) | **Fukeizai** — punish insult to throne/shrines | Forces the movement to **defend with its best material** or stay silent |
+| **Appeal file** (1942–1944) | Shrine "supports defendants" with full submission | **Voluntary comprehensive delivery** of **~4,000 originals + treasures + site maps** into **court/state pipeline** — no shrine raids required |
+| **Acquit** (1944-12-12) | Justice served — religious matter, insufficient evidence | **Misdirection** — defendants free; **originals stay** |
+| **Withhold** (post-acquittal) | "War disruption," bureaucratic delay | **Intentional retention** — the prize was never the verdict |
+| **Destroy** (1945) | Tragic Tokyo air-raid collateral | **Convenient terminus** for **primarys** the state had already **indexed** — same relay-burn pattern as §6.1 |
+
+**Why the sequence is suspicious (not merely unfortunate):**
+
+| Feature | Mainstream read | Author read |
+|---------|-----------------|-------------|
+| **~4,000 pieces + treasures + site reports** filed with **appeal** | Good-faith evidentiary submission | **Comprehensive inventory** of **strongest arguments** and **physical relics** — an **intelligence harvest** dressed as litigation |
+| **On-site investigation reports** bundled | Proves historical-site claims in court | **Maps sensitive coordinates** — which mounds, which regions, which **non-*gisho*** lines the movement actually relied on; **target list** for later mound-scrub (§5.8) |
+| **Acquittal but no return** | Bureaucratic delay / war disruption | **Incompatible with innocence of intent** — if worthless forgery, **return is trivial**; **non-return** means **retained value** or **retained threat** |
+| **1945 air-raid destruction** | Tragic collateral | **Too convenient** after **years of state custody** — destroys **primarys** while **Kano's five-photo debunk** remains the **permanent public ceiling** |
+| **Copies only post-war** | Survival of movement memory | Proves **originals existed** and differed enough to matter — **chain-of-custody for "real" base texts broken at the state node**, not at the shrine |
+
+**Targeted destruction thesis:** The trial need not have been **fake** in every respect — the **1944 acquittal** may reflect **genuine** religious-speech limits on *fukeizai*. The **custody outcome** can still be **operationally sincere**: **collect** what Takeuchi actually used → **map** arguments and coordinates from the **上告趣意書** bundle → **withhold** after acquittal → **lose** under raid. That is **compatible with** (not proof of) **deliberate** destruction of the **real base documents** — the ones that could **survive** Kano because they were **never in Kano's five photos**.
+
+**Link to §5.8 and §12 — one enforcement chain:**
+
+```
+Kano debunk (public ceiling, 5 photos)
+    → prosecute / appeal (harvest ~4,000 + site reports + 神宝)
+    → acquit (legal cover)
+    → withhold originals (custody prize)
+    → 1945 loss (physical terminus)
+    → post-war: copies + debunked Shingo decoy + sign relay only
+```
+
+Mound-scrub and **document-scrub** as **one chain** — identify from site reports → debunk publicly → prosecute → **withhold originals** → destroy under raid → leave **containable folklore** (Shingo tourism, §10.3).
+
+**What would falsify the "harvest" read:** NAJ / Supreme Court records showing **prompt return orders** ignored by shrine; **1945 evacuation** of trial originals to **designated air-raid storage** with **loss inventory** matching a specific raid; proof the **~4,000** were **all** duplicates of the five-photo set (unlikely on face).
+
+**Epistemic tiers:**
+
+| Claim | Verdict |
+|-------|---------|
+| Koso Kotai Jingu submitted **~4,000** docs + treasures + site reports during appeal | **Documented** (secondary/Wikipedia lineage) |
+| Originals **not returned** after acquittal | **Documented** in same sources |
+| Originals **destroyed 1945** Tokyo raids | **Documented** in Japanese secondary — **custody logs not audited in-repo** |
+| Trial used to **collect, map, and target** real arguments for **destruction** of base documents | **Author thesis — open** — **investigator default read** until custody register contradicts |
+| All **4,000** uniformly forged | **Not proven** — Kano saw **five photos** only (§9.3); **scale mismatch** alone raises **harvest** prior |
+
+**Open (high priority):** **National Archives of Japan** / Supreme Court records — **上告趣意書** full text; **itemized list** of submitted 神宝; **return-or-retain** orders post-**1944-12-12**; **1945** transfer to air-raid **evacuation storage** vs **deliberate non-evacuation**; internal police/shrine correspondence **1942–45** on **retention rationale**.
 
 ---
 
@@ -670,6 +817,10 @@ The *Sendai Kuji Hongi* (先代旧事本紀) and related **gisho** (*Wakan sansa
 | **Christ served emperor**; **no Hirohito–Christ bloodline** in summaries | **Validated** in secondary summaries of Amatsukyō cosmology | Document relay |
 | **Military/navy flirtation** with Amatsukyō before Kano alarm | **Validated** — Kano 1936 preface | Documented |
 | **~4,000 trial originals burned Tokyo 1945** | **Validated** in Japanese secondary (Wikipedia JA lineage) | Secondary — custody chain not independently audited |
+| **1942–44 trial = document harvest; no return after acquittal; targeted destruction of base corpus** | **Documented custody anomaly**; **harvest thesis = investigator default read** (§11.3) | Author thesis — open |
+| **Mu / Miyoi–Tamiara collapse; Churchward influence** | **Documented** in Wikipedia/Hasegawa lineage; Miyoi/Tamiara **1940 Kodama layer** | Secondary |
+| **Mu/Atlantis Takeuchi lane mirrors Nazi sunken-continent doctrine** | **Structural parallel** (§5.6, §5.9.1) | Author thesis |
+| **Miyoi/Tamiara collapse encodes MFEE-class geography loss** | **Not validated** — contamination vs memory **unresolved** | Author thesis — open (§5.9.2) |
 | **Amatsukyō disbanded Jan 1950** (SCAP) | **Validated** | Documented |
 | **Villagers had no Christ tradition before 1935** | **Validated** | Nippon.com; Wikipedia |
 | **Sawaguchi line + blue eyes** used as descent prop | **Validated** as 1930s publicity lane | Smithsonian; Journeyman |
@@ -687,7 +838,7 @@ The *Sendai Kuji Hongi* (先代旧事本紀) and related **gisho** (*Wakan sansa
 |---------|--------|--------|--------------|
 | **Legend age** | [IIAS](https://www.iias.asia/the-newsletter/article/authentic-fakes-case-tomb-christ-japan) — "legend … handed down for generations" | Nippon / Wikipedia — **no Christ tradition** before 1935 | **Reconcile:** Sawaguchi **ancestral mound** practice predates Christ **name**; **Christ festival legend** is **post-1935 / post-1964** packaging |
 | **Mound origin** | Pure **1935 invention** (text → mounds) | **Kakure Kirishitan** local error + hidden-Christian strata ([Japan Experience](https://www.japan-experience.com/all-about-japan/aomori/attractions-excursions/tomb-of-christ-shingo)) | **Open** — would explain **pre-Takeuchi veneration** without validating **Horde burial** or **Shingo coordinates** |
-| **Document destruction** | Originals **burned in Tokyo air raids 1945** | Some accounts: **seized by government during war** ([japanesejesus.com](https://japanesejesus.com/takenouchi-documents)) | **Compatible** — seizure → court custody → raid loss; need **NAJ trial custody log** |
+| **Document destruction** | Originals **burned in Tokyo air raids 1945** | Trial **harvested ~4,000 + site reports + 神宝** → **no return after acquittal** → raid loss (§11.3) | **Dubious if accidental alone** — **acquittal + retention** implies **custody prize**; Kano's **five photos** stay the public ceiling while **real base corpus** vanishes; need **NAJ custody log** + **上告趣意書** itemized annex |
 | **Post-crucifixion geography** | Sign text: **east to Japan** | Timeline **06.04.00**: **Crimea** with body | **Settled split** — sign primary for narrative; Crimea = Western redaction fragment (§6) |
 | **Failed capstone vs site fate** | **Debunked** → branch **discarded** | Tomb **survives**, **tourism grows**, Israeli commemorative stone | **Containment succeeded differently** — physical site kept as **debunked folklore**, org and papers destroyed |
 | **Pre-war grave disturbance** | Joseph Ken lane: **kempeitai dug Sawaguchi graves**, artifacts to Osaka ([Japan Today opinion](https://japantoday.com/category/features/opinions/jesus-christ-lived-in-aomori-really)) | **No mainstream corroboration** located | **Open** — high value if NAJ / kempeitai file exists |
@@ -695,6 +846,7 @@ The *Sendai Kuji Hongi* (先代旧事本紀) and related **gisho** (*Wakan sansa
 | **Shingo spared** | **Deliberate decoy preservation** | **Expected non-target** for rural hamlet under city campaign | **Both can be true**; decoy thesis needs **positive** archival exclusion, not contrast alone |
 | **Burial in Japan (thesis)** vs **Shingo (coordinate)** | Project **settles** eastern burial | Project **unsettles** Shingo tag | **Do not collapse** — strongest validated negative is **1935 packaging**, not **eastern retirement pattern** |
 | **Smithsonian in Japan** vs **WWII mound terminus** | Old dossier conflated eras | Maintainer: **Smithsonian = playbook, not Japan ops**; **1945 bombing = final Japanese giant-kofun scrub** (§5.8.4) | **Settled split** — originals elsewhere; Shingo may be **decoy** |
+| **Mu/Miyoi–Tamiara** | **Churchward paste-in** / Kodama 1940 fad | **Axis Mu-hijack** + possible **MFEE aftermath** memory under sunken-continent costume (§5.9) | **Both** — layer separation not closed |
 
 ### 14.3 Open questions (remaining)
 
@@ -705,33 +857,35 @@ The *Sendai Kuji Hongi* (先代旧事本紀) and related **gisho** (*Wakan sansa
 3. **Sendai Kuji Hongi download + compare** — gisho template vs Takeuchi (§13).
 4. **British document-forging pipeline:** Foreign Office / intelligence / missionary archives — **Meiji forged antiquities** beyond Takeuchi (§12.2).
 5. **Hashimoto 1942 testimony** — full trial transcript if held at NAJ or Supreme Court records.
-6. **Ink/parchment:** Any pre-1928 Takeuchi fragment outside burned set — shrine-held restricted materials.
-7. **Kempeitai / pre-war excavation:** Corroborate or falsify **Sawaguchi mound disturbance** and artifact seizure to Osaka (Ken lane).
+6. **1942–1944 appeal bundle:** **上告趣意書** + **itemized ~4,000** submission list; **post-acquittal non-return** orders; **1945** custody location of originals before loss (§11.3).
+7. **Ink/parchment:** Any pre-1928 Takeuchi fragment outside burned set — shrine-held restricted materials.
+8. **Kempeitai / pre-war excavation:** Corroborate or falsify **Sawaguchi mound disturbance** and artifact seizure to Osaka (Ken lane).
+9. **Mu / Miyoi–Tamiara:** Kodama **1940** scroll + *Shin Nippon* **1938** article; pre-1940 Takeuchi copies for **absence/presence** of collapse toponyms; map to **MFEE** candidate geography (§5.9).
 
 **Archaeology / physical**
 
-8. **Shingo excavation / GPR:** What is in the mounds? Dimensions vs neighboring **kofun**; human remains vs empty fill.
-9. **Takeuchi field notes:** Mound **scale** at survey — evidence of **replacement** after giant-line scrub (§5.8).
-10. **WWII Japan mound terminus:** Primary or archaeological trace of **giant kofun / founder-grave** destruction **1945** — which sites, which raids; distinguish **original Christ/Isukiri locus** from **Shingo decoy**.
-11. **Smithsonian Project diffusion:** How Americas/Eurasia **mound-scrub playbook** reached Japan operationally — **without** assuming Smithsonian agents in Japan.
+10. **Shingo excavation / GPR:** What is in the mounds? Dimensions vs neighboring **kofun**; human remains vs empty fill.
+11. **Takeuchi field notes:** Mound **scale** at survey — evidence of **replacement** after giant-line scrub (§5.8).
+12. **WWII Japan mound terminus:** Primary or archaeological trace of **giant kofun / founder-grave** destruction **1945** — which sites, which raids; distinguish **original Christ/Isukiri locus** from **Shingo decoy**.
+13. **Smithsonian Project diffusion:** How Americas/Eurasia **mound-scrub playbook** reached Japan operationally — **without** assuming Smithsonian agents in Japan.
 
 **Agent / operational**
 
-12. **Takeuchi agent trace:** Funding, travel, British-facing contacts **1920s–1935**.
-13. **1931 operational orders:** Foreign Office / IJA archives linking Manchuria to foreign steering beyond grooming thesis (§5.7.1).
-14. **Pearl Harbor chain:** Anglo-American cables **Aug–Dec 1941** — [Pearl Harbor investigation](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) §13.
+14. **Takeuchi agent trace:** Funding, travel, British-facing contacts **1920s–1935**.
+15. **1931 operational orders:** Foreign Office / IJA archives linking Manchuria to foreign steering beyond grooming thesis (§5.7.1).
+16. **Pearl Harbor chain:** Anglo-American cables **Aug–Dec 1941** — [Pearl Harbor investigation](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) §13.
 
 **Propaganda / targeting**
 
-15. ~~**War propaganda:** Takeuchi / Shingo in **1937–41** state materials?~~ → **Negative search 2026-06-06** (§10.4); keep **spot-check** on regional press, not only national-policy film.
-16. **Shingo bombing exclusion:** USAAF / XXI Bomber Command — **named exclusion** of Herai/Shingo beyond **base-rate** rural non-targeting (§10.3).
-17. **SCAP tourism promotion:** Occupation-era files leading to **1964** Kirisuto Matsuri and Christ Park development.
+17. ~~**War propaganda:** Takeuchi / Shingo in **1937–41** state materials?~~ → **Negative search 2026-06-06** (§10.4); extend to **Mu/Miyoi–Tamiara** in wartime Amatsukyō press.
+18. **Shingo bombing exclusion:** USAAF / XXI Bomber Command — **named exclusion** of Herai/Shingo beyond **base-rate** rural non-targeting (§10.3).
+19. **SCAP tourism promotion:** Occupation-era files leading to **1964** Kirisuto Matsuri and Christ Park development.
 
 **Text / philology**
 
-18. **Primary Amatsukyō texts:** Explicit **Hirohito** naming; any imperial–Christ **blood** merge (expected: none — §5.7.3 negative validated in summaries).
-19. **Herai / Nanyadoyara:** Independent linguistics pass on Hebrew etymology claims.
-20. **Kakure Kirishitan hypothesis:** Edo-period hidden-Christian records for **Sannohe / Herai** band.
+20. **Primary Amatsukyō texts:** Explicit **Hirohito** naming; any imperial–Christ **blood** merge (expected: none — §5.7.3 negative validated in summaries).
+21. **Herai / Nanyadoyara:** Independent linguistics pass on Hebrew etymology claims.
+22. **Kakure Kirishitan hypothesis:** Edo-period hidden-Christian records for **Sannohe / Herai** band.
 
 **Repo / cross-file**
 

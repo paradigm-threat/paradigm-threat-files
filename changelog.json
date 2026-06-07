@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-07T15:10:59.619Z",
+    "date": "2026-06-07T18:47:43.219Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md",
+        "href": "/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-07T15:10:58.000Z",
+    "message": "Document RT Jasenovac access gate and revise Japan mound-destruction chronology.",
     "files": [
       {
         "status": "M",
@@ -1164,41 +1177,6 @@
       {
         "src": "/history/chronology/apocalypse/great_comet_of_1665.jpg",
         "alt": "Great Comet of 1665 - Stanisław Lubieniecki's Theatrum cometicum"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-03T15:39:37.000Z",
-    "message": "Add Stonehenge portal investigation with relocation epistemics and ground-node magnetism.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md",
-        "href": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.png",
-        "href": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.png"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/zone-of-silence-ley-crossing-magnetism.png",
-        "href": "/history/chronology/investigations/zone-of-silence-ley-crossing-magnetism.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.png"
-      },
-      {
-        "src": "/history/chronology/investigations/zone-of-silence-ley-crossing-magnetism.png"
       }
     ]
   }
