@@ -103,7 +103,7 @@ Some alternate chronologies posit that the samurai/feudal system was part of a l
 
 ### Pearl Harbor and "Japanese following Western orders"
 
-- **Pearl Harbor false-flag thesis:** Widely documented in alternative literature. Roosevelt needed a pretext for U.S. entry; the attack was allowed or provoked. ([governance war page](../page.md) cites pearl-harbor-conspiracy sources.)
+- **Pearl Harbor false-flag thesis:** Roosevelt needed a pretext for U.S. entry; the attack was allowed or provoked. Full dossier: [Pearl Harbor — Hijacked Imperial Japan](./pearl-harbor-hijacked-imperial-japan-investigation.md) (McCollum, Purple/Magic, Barbarossa trigger, Unit 731).
 - **Japanese as following orders:** If Japan's imperial expansion and Pearl Harbor were orchestrated or encouraged by Western (British/Anglo-American) intelligence to create a casus belli, then "the Japanese were only ever just following western orders" — in the sense that the script was written abroad.
 - **Kamikaze unwillingness:** Recovered letters suggest many kamikaze pilots were unwilling; higher ranks (who did not fly) forced them. ([The Stranger](https://thestranger.com/slog/archives/2010/11/09/the-myth-of-the-kamikaze-pilot))
 

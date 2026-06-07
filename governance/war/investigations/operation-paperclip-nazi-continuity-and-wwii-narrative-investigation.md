@@ -29,7 +29,7 @@ Mainstream history presents the Western Allies as having **defeated** National S
 | **Ratlines** | Escape networks via **Spain, Italy, South America**; Vatican-linked documentation debated | Suggests **postwar sanctuary** for ideologues and war criminals, not only “random fugitives” |
 | **Project SAFEHAVEN** (OSS) | Track **Nazi assets** in neutrals to block flight of gold / loot | Dual reading: **interdiction** vs **mapping** assets Western actors later tapped (see [CIA investigation](./cia-investigation.md)) |
 | **Allied “scientist draft” race** | Teams into **rocketry sites** (e.g. Mittelwerk environs), **competition with Soviet units** | Framing: **loot the Reich** as much as **liberate** it |
-| **Japanese immunity (Unit 731 thread)** | U.S. interest in **BW data**; **General Ishii** and associates **not** prosecuted in Tokyo trials in exchange for reporting | Parallel pattern: **protect ringleaders** who hold **technical/strategic** value—same moral geometry as Paperclip, different theater |
+| **Japanese immunity (Unit 731 thread)** | U.S. interest in **BW data**; **General Ishii** and associates **not** prosecuted in Tokyo trials in exchange for reporting | Parallel pattern: **protect ringleaders** who hold **technical/strategic** value—same moral geometry as Paperclip, different theater. See [Pearl Harbor investigation](./pearl-harbor-hijacked-imperial-japan-investigation.md) §7 |
 
 **Note:** **ODESSA** (popularised in fiction and some journalism) remains **disputed** as a single organisation; treat as **cultural shorthand** for Ratline-style continuity unless primary documentation is cited case by case.
 

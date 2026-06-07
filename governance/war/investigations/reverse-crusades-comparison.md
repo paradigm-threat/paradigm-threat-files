@@ -140,7 +140,7 @@ Each iteration learns from the previous failure. The progression from visible fi
 - [ ] Lord Milner / Round Table documents re: alliance construction
 - [ ] Compare Versailles Treaty provisions with actual post-war outcomes — who benefited?
 - [ ] Fomenko/New Chronology treatment of WW1 (if any)
-- [ ] The Lusitania sinking as false flag parallel to Pearl Harbor and Gulf of Tonkin
+- [ ] The Lusitania sinking as false flag parallel to Pearl Harbor and Gulf of Tonkin — see [Pearl Harbor investigation](./pearl-harbor-hijacked-imperial-japan-investigation.md) §8 (Italy–Germany / Japan–U.S. trigger parallel)
 - [ ] Kaiser Wilhelm II's post-abdication writings — did he identify the script?
 
 ## Sources

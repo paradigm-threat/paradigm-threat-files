@@ -1,8 +1,8 @@
 # Takenouchi Documents, Dr. Takeuchi, and Japan as Eastern Rus-Horde — Investigation
 
-> **TL;DR:** **Christ and Isukiri buried in Japan** (~**1258 CE**); **Shingo unproved** (Takeuchi 1935 untrusted). **1931 Manchuria first** → ideology to sustain WWII; **1935 Shingo = failed capstone**; **emperor *kokutai* won**. Christ **served** emperor (no Hirohito bloodline). **Takeuchi mirrors early Hitler** (§5.7.5): both sacred-history threats to establishment — **contained vs co-opted**. See §5.7.
+> **TL;DR:** **Christ and Isukiri buried in Japan** (~**1258 CE**); **Shingo unproved** (Takeuchi 1935 untrusted). **1931 Manchuria first** → ideology to sustain WWII; **1935 Shingo = failed capstone**; **emperor *kokutai* won**. **Shingo spared** while **~67 cities** firebombed — decoy **preserved for WWIII script?** (§10.3). Christ **served** emperor. **Takeuchi ↔ Hitler** mirror (§5.7.5–§5.7.6). See §5.7, §10.3.
 
-**Date:** 2026-06-03 (§5.7 sustainment / emperor–Christ hierarchy; §5.7.5 Hitler mirror — 2026-06-04)  
+**Date:** 2026-06-03 (§5.7 sustainment / emperor–Christ hierarchy; §5.7.5 Hitler mirror; §5.7.6 ideology / trigger scripts / arrests — 2026-06-04)  
 **Status:** Ongoing  
 **Download index:** [`/home/ari/dev/wget/japan_chronology/takenouchi/INDEX.md`](../../../../wget/japan_chronology/takenouchi/INDEX.md)
 
@@ -183,6 +183,7 @@ Layout **matches brother-on-cross theology** if authentic — but **Shingo is no
 | **State containment** | **1936–1942** | Takeuchi arrest (Feb **1936**); Kano *Shisō* (Jun **1936**); lèse-majesté trial | **Competing exclusives** — navy flirtation (Kano) then **prosecution** |
 | **Working capstone holds** | **1936–1945** | State Shinto / **emperor *kokutai***; Pan-Asian war rhetoric | Same sustainment project **continues** without credible Christ-Shingo buy-in |
 | **Total war scale** | **1937+** | Marco Polo Bridge → full Sino-Japanese War → Pacific | Ideology **already needed** after **1931**; Shingo did **not** unlock this — **emperor cult** carried escalation |
+| **U.S. entry trigger** | **1941** | Pearl Harbor | **External** mobilization ideology for America — see [Pearl Harbor investigation](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) (Barbarossa stall → let-it-happen read) |
 
 **1935 placement:** Near the **front of the late-prewar surge** (same band as Feb **1936** crisis, two years before **1937** full war) — but **after** **1931** ground invasion. Shingo is **early in the myth-engineering band**, **late relative to first continental invasion**.
 
@@ -262,7 +263,25 @@ Both figures occupy the **same structural slot**: **myth-engineers** pushing **e
 
 **One-line verdict (settled for this dossier):** Takeuchi and early Hitler **mirror** each other as **establishment-threatening sacred-history entrepreneurs** in the Axis build-up; they are **not** equivalents in guilt, method, or success — Takeuchi is the **contained discard**, Hitler the **co-opted ascendancy**.
 
-**Cross-ref:** [`wwii-fascism-religious-apparatus-investigation.md`](../../../governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) §2.3 (revised); §4.1 (Thule, Ahnenerbe, Atlantis); [`15.04.00` false flags — Manchurian Incident 1931](../../../../paradigm-threat-timeline/content/15.ce-21st-the-final-struggle/15.04.00-false-flags-architecture-of.md) (timeline Manchuria row).
+#### 5.7.6 Ideology, strategic waste, trigger scripts, and arrest phases (author thesis — settled 2026-06-04)
+
+**Pearl Harbor belligerence requires the ideology that won.** Maximal surprise strike on a neutral great power is **grand-strategy insanity** unless a **theological war engine** licenses it. **State Shinto / *kokutai*** (emperor as **arahitogami**) carried **Pearl Harbor**; Takeuchi's Christ-serves-emperor branch **did not** — but Takeuchi proves Japan was **shopping capstones** that **subordinate Western Christianity** into a **sub-religion under Japanese sacred supremacy** (§5.7.3 enhancement model).
+
+**Strategic waste (not tactical incompetence):** IJN was **operationally elite**; **grand strategy** attacking U.S. industrial power was the blunder — parallel to Germany **wasting** Blitzkrieg capacity in **Barbarossa → winter** ([Pearl Harbor §5.6, §6.1](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md)).
+
+**Italy → Germany / Japan → U.S. trigger parallel:** Italy's failed offensives (**Greece 1940**, **Egypt 1940–41**) forced **German rescue and expansion**; Japan's **Pearl Harbor** forced **U.S. full entry** — smaller actor **creates crisis**, bigger industrial power **deploys** ([Pearl Harbor §8](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md)).
+
+**Arrest / disposal — three capstones, three phases:**
+
+| Figure | Neutralization | Phase | Read |
+|--------|----------------|-------|------|
+| **Takeuchi** | **1936** arrest | **Pre-capture discard** | Wrong myth branch; *kokutai* wins |
+| **Hitler** | **1923** arrest → **1945** death | **Contain → co-opt → destroy** | Elevated capstone |
+| **Mussolini** | **1943** arrest → **1945** execution | **Post-failure disposal** | **After the fact** — he **was** the capstone until collapse |
+
+**One-line:** Same **outcome geometry**, different **phase** — Mussolini's only real difference is **timing** (arrested **after** the script failed, not before elevation).
+
+**Cross-ref:** [`pearl-harbor-hijacked-imperial-japan-investigation.md`](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) §5.6, §6.1, §8, §11; [`wwii-fascism-religious-apparatus-investigation.md`](../../../governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) §2.3, §4.1, §5.2; [`15.04.00` false flags — Manchurian Incident 1931](../../../../paradigm-threat-timeline/content/15.ce-21st-the-final-struggle/15.04.00-false-flags-architecture-of.md).
 
 ---
 
@@ -298,10 +317,12 @@ The Crimea line in [`06.04.00`](../../../../paradigm-threat-timeline/content/06.
 | Layer | Mainstream | Paradigm Threat |
 |-------|------------|-----------------|
 | **Provenance** | Modern forgery (*gisho*); Kano 1935–1936; anachronistic script | 1930s **packaging** of older eastern memory; "forgery" label as **containment** (see WWII investigation) |
-| **Shingo tomb** | 1935 "invention"; tourism; no pre-1935 Christ talk | **Unproved locus**; **1935 failed capstone** (§5.7) — post-**1931** sustainment attempt; debunked; emperor *kokutai* carried war |
+| **Shingo tomb** | 1935 "invention"; tourism; no pre-1935 Christ talk | **Unproved locus**; **1935 failed capstone** (§5.7); **spared** in **67-city** firebombing era — **Western decoy preserved?** (§10.3) |
 | **Emperor vs Christ (Takeuchi)** | (Not in mainstream frame) | Christ **served** emperor; Sawaguchi local line; **no** Hirohito–Christ blood claim in summaries — §5.7.3 |
 | **1931 → ideology → WWII** | Manchuria = Japanese aggression | **1931 first** (Western-groomed read); ideology **after** to sustain; Shingo **failed** branch — §5.7 |
 | **Takeuchi vs Hitler** | (No mainstream parallel) | Same **sacred-history entrepreneur** slot; similar **establishment threat**; **opposite outcomes** (contained vs co-opted) — §5.7.5 |
+| **Pearl Harbor / *kokutai*** | Japanese treachery; tactical surprise | ***Kokutai* won** over Takeuchi; **grand-strategy** belligerence ideology-licensed; Italy→Germany / Japan→U.S. trigger parallel — §5.7.6 |
+| **Axis arrests** | Individual justice | **Disposal phases** — Takeuchi early, Hitler mid-cycle, Mussolini after collapse — §5.7.6 |
 | **Cosmology** | Ultranationalist pseudohistory | **Exclusive-origin hijack** (Japan alone) vs **Horde-province** memory; same Axis pattern as Rome/Atlantis — see §5.6 |
 | **Trial outcome** | Religious acquittal 1944 | State could not safely destroy the movement or documents without schism; originals then **lost to fire** |
 | **British/OSS layer** | (Not in mainstream frame) | Anglo-Japanese grooming → abandonment → exclusive *kokutai*; post-war SCAP containment; redaction operator traces to British/intelligence channel per war investigations |
@@ -419,6 +440,38 @@ Automated probe (2026-06-03): **0 hits** for 竹内文書; other queries **timed
 
 **Open:** Locate **SCAPIN or CCD case file** naming Amatsukyō, Koso Kotai Jingu, or Shingo by name; **Apostolic Nunciature Tokyo** archives 1935–1950.
 
+### 10.3 Shingo spared in the firebombing era — Western forgery preserved for WWIII? (author thesis — settled 2026-06-06)
+
+**Investigator sentiment (captured):** It is **strange** that Allied air war **destroyed roughly 67 Japanese cities** with **napalm and incendiaries** — burning **Takeuchi trial originals in Tokyo**, levelling **Aomori city** (July **1945**) — yet **Shingo (Herai)** remains a **remote, rural farming village** where **Kirisuto no Haka** and the twin mounds **still stand** and were **never targeted for erasure**.
+
+| Fact | Tier |
+|------|------|
+| **~67 cities** hit by strategic firebombing; **~40%** built-up area destroyed in targeted cities ([USSBS](https://6thbombgroup.com/economic-effects-of-air-attack-against-the-japanese-home-islands/); §6.1) | Documented |
+| **Aomori Prefecture** bombed (**July 1945**); **Aomori city** heavily damaged | Documented |
+| **Shingo / Herai** — inland, **remote**, agricultural; **Christ tomb site intact** postwar; developed as **tourism** from **1964** festival onward | Documented (site survival) |
+| **No documented Allied order** to demolish Kirisuto no Haka or suppress the village during bombing campaign or SCAP occupation | Documented negative (search gap) |
+| Shingo = **Western-aligned Takeuchi forgery / decoy** — **deliberately not destroyed** because operators had **no intention** of erasing a **useful coordinate** | **Author thesis** |
+| Site **reserved** for **future World War III** script — same **Repeat Crusade** architecture as Pearl Harbor → Vietnam → next Pacific/Eastern-Christ memory weapon | **Author thesis** — aligns [Reverse Crusades](../../../governance/war/investigations/reverse-crusades-comparison.md); [Pearl Harbor §14–§15](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) |
+
+**Why this matters in the Shingo read:**
+
+1. If Shingo were a **genuine**, **endogenous**, **threatening** eastern-Christ locus the Allies **feared**, total war **capacity existed** to **erase** it — they did **not**.
+2. If Shingo were **already debunked folklore** only, **obscurity** explains non-targeting — but **obscurity alone** fails against **67-city** saturation bombing logic unless **someone** knew the label and **chose preservation**.
+3. **Author synthesis:** Non-destruction fits **Western-created / Western-contained** Shingo (**§5.6, §12, Kano 1935**) better than it fits **authentic grave coordinates** — operators **burn the relay** (Tokyo documents) but **keep the decoy mound** for **marginalization now**, **reactivation later** (WWIII narrative slot: *Japan holds Christ's tomb* → mobilize / discredit / split Christianity again).
+
+**Contrast table:**
+
+| Asset | WWII fate | Read |
+|-------|-----------|------|
+| **Takeuchi originals (~4,000)** | **Burned** Tokyo **1945** | **Destroy textual relay** |
+| **Amatsukyō** | **Disbanded** SCAP **1950** | **Destroy organization** |
+| **State Shinto** | **Disestablished** SCAPIN **448** | **Strip official cult** |
+| **Shingo tomb / village** | **Spared**; **tourism expanded** | **Preserve decoy / future script** |
+
+**Cross-ref:** [WWII religious apparatus §2.5](../../../governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) (non-erasure); §6.1 (67 cities); [Pearl Harbor](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) (Pacific staging / WWIII repeat script).
+
+**Open:** USAAF target folders / XXI Bomber Command lists — any mention of **Herai**, **Shingo**, **Kirisuto no Haka**, or **deliberate exclusion** of Aomori interior villages; SCAP tourism promotion files **1950s–1960s** leading to **1964** Kirisuto Matsuri.
+
 ---
 
 ## 11. NDL, Naikaku Bunko, and surviving transcripts
@@ -528,7 +581,9 @@ The *Sendai Kuji Hongi* (先代旧事本紀) and related **gisho** (*Wakan sansa
 10. **Smithsonian Project / kofun destruction:** Primary records for giant-mound and kofun demolition **late 18th / early 19th c.** (Americas + Eurasia + Japan) and later waves.
 11. **Primary Amatsukyō texts:** Explicit naming of **Hirohito** vs generic emperor; any line claiming imperial–Christ **blood** merge (expected: none).
 12. **1931 operational orders:** Foreign Office / IJA archives linking Manchuria to British or US steering beyond grooming thesis (§5.7.1).
-13. **War propaganda:** Did official 1937+ materials cite Takeuchi, Shingo, or Amatsukyō? (Expected: minimal — emperor/Shinto face).
+13. **War propaganda:** Did official **1937–41** materials cite Takeuchi, Shingo, or Amatsukyō? Did **kokutai / emperor divinity** rhetoric explicitly license Pacific escalation? (Expected: Takeuchi minimal; *kokutai* dominant — Pearl Harbor §13 #8).
+14. **Pearl Harbor chain:** Anglo-American cables **Aug–Dec 1941** tying **Barbarossa stall** to Pacific trigger — [Pearl Harbor investigation](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) §13.
+15. **Shingo bombing exclusion:** USAAF / XXI Bomber Command target lists — deliberate **non-targeting** of Herai/Shingo vs **Aomori city** destruction (§10.3).
 
 ---
 

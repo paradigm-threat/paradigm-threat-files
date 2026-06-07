@@ -57,9 +57,9 @@ British liner torpedoed by U-boat; ~1,197 dead, 128 Americans. Ship carried war 
 **Sources:** Appendix dossier (extended article); Wikipedia [Sinking of the RMS Lusitania](https://en.wikipedia.org/wiki/Sinking_of_the_RMS_Lusitania).
 
 ### Pearl Harbor (1941)
-McCollum Memo; Purple code broken; carriers at sea; Stimson diary. Advance-knowledge thesis; Kimmel/Short scapegoated.
+McCollum Memo; Purple code broken; carriers at sea; Stimson diary. Advance-knowledge thesis; **no PH attack pilot captured alive** (§13); staging / remote-aircraft pursuit (§14); **Battle of Los Angeles (1942)** parallel (§15). Full dossier: [Pearl Harbor — Hijacked Imperial Japan](/governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md).
 
-**Sources:** Appendix dossier (full evidentiary record).
+**Sources:** Appendix dossier (full evidentiary record); [Pearl Harbor investigation](/governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md).
 
 ### King David Hotel (1946)
 Irgun (Menachem Begin) bombed British HQ in Jerusalem; 91 dead; disguised as Arab workers.
@@ -122,6 +122,7 @@ See [Ariel Sharon — Gaza, Coma, Controlled-Opposition Threads](ariel-sharon-ga
 - [Netanyahu Faked Death / Shiva Rumors Investigation](netanyahu-faked-death-shiva-rumors-investigation.md)
 - [Ariel Sharon — Gaza, Coma, Controlled-Opposition Threads](ariel-sharon-gaza-coma-controlled-opposition-investigation.md)
 - [Appendix: False Flags Evidence Dossier](/timeline/evt-false-flags-appendix)
+- [Pearl Harbor — Hijacked Imperial Japan](/governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md)
 
 ---
 

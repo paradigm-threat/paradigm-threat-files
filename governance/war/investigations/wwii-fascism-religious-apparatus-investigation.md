@@ -99,11 +99,17 @@ If the Western project required (a) all Christianity to be funneled through Rome
 |-------------|--------------|--------|
 | **Obscurity** | High | The site was a local legend in a rural village; occupation planners may never have known of it or considered it relevant. |
 | **Marginalization as policy** | High | Leaving the site intact but **labelled as forgery** (Kano 1935) and “folklore” achieves containment — especially if **authentic graves were already destroyed** and Shingo is **misdirection**. |
-| **Deliberate preservation** | Medium | Visible **decoy** or debunked site — points seekers at wrong coordinates while **burial-in-Japan** memory stays fragmented. |
+| **Deliberate preservation** | Medium–High (author) | Visible **decoy** — points seekers at wrong coordinates; **Western forgery** not worth destroying; **WWIII script reserve** ([Takenouchi §10.3](/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md)) |
 | **Historical antibodies** | Speculative | The idea that truth-preserving “antibodies” (individuals or institutions) protected the site from erasure is consistent with paradigm-threat themes but has no direct evidence. It cannot be ruled out; it also cannot be confirmed. |
-| **Blasphemy as war motivator** | Low (no evidence) | No evidence found that the tomb was **used** in Allied or Western propaganda as a reason to fight Japan or to justify occupation. Strategic and political reasons (Pearl Harbor, imperialism, resources) dominated public discourse. |
+| **Blasphemy as war motivator** | Low (no evidence) | No evidence found that the tomb was **used** in Allied or Western propaganda as a reason to fight Japan or to justify occupation. Strategic and political reasons ([Pearl Harbor](./pearl-harbor-hijacked-imperial-japan-investigation.md), imperialism, resources) dominated public discourse. |
 
-**Conclusion:** The “tomb kept to enable war over blasphemy” thesis is **not supported** by the available record — no campaign of clerical or popular outrage, no use of the tomb in wartime propaganda as a casus belli. The **non-erasure** of the tomb after invasion is better explained by **obscurity**, by **marginalization-as-containment** (leave it standing but discredited), or by **deliberate preservation** as a controllable, dismissible legend — rather than by a need to fuel low-level religious grievance for war, or by proven “antibodies” protecting truth. The absence of evidence for outrage or for Allied targeting of the site leaves room for further research (missionary archives, local occupation records, Japanese press 1935–1950) but does not currently support the blasphemy-pretext reading.
+**Conclusion:** The “tomb kept to enable war over blasphemy” thesis is **not supported** by the available record — no campaign of clerical or popular outrage, no use of the tomb in wartime propaganda as a casus belli. The **non-erasure** of the tomb after invasion is better explained by **marginalization-as-containment**, **deliberate preservation** of a **Western-aligned decoy**, or **WWIII script reserve** — while **~67 cities** burned and **Takeuchi originals** in Tokyo did not survive ([Takenouchi §10.3](/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md)). **Obscurity alone** is weaker given Allied willingness to erase **State Shinto**, **Amatsukyō**, and urban Japan at scale.
+
+### 2.5.1 Shingo vs the 67-city firebombing — preservation indicator (author thesis)
+
+**Strange fact (documented):** Strategic bombing hit **~67 Japanese cities**; **Shingo (Herai)** — remote rural village, **Kirisuto no Haka intact** — was **not erased** though **Aomori Prefecture** was in the bombing campaign.
+
+**Author read:** Strong indicator the **Shingo project was Western-created forgery** operators **did not intend to destroy** — useful for **future WWIII** narrative (eastern Christ tomb in Japan as **mobilization / discredit / split-Christianity** weapon). Full dossier: [Takenouchi §10.3](/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md). Cross-ref [Reverse Crusades](./reverse-crusades-comparison.md); [Pearl Harbor](./pearl-harbor-hijacked-imperial-japan-investigation.md).
 
 ### 2.6 Paranoia Thesis and the Russia Parallel — Why Not Destroy?
 
@@ -133,6 +139,10 @@ The paranoia thesis is **strategically coherent**: don't create evidence of your
 A final possibility: the deep state maintains **one degree of separation** — bloodline ties — to every leadership in the world, including Japanese and Russian. If so, then among the highest levels of that hierarchy there are those who are **one degree of separation from Christ's bloodline**. The Shingo tomb (and the tradition that Christ lived and died there) would then be more than a "challenge to Western Christianity" — it would be a site that some of the same hierarchy regard as **theirs**. Destroying it after the occupation would not have been a neutral operational decision; it would have meant **destroying a site sacred to a bloodline faction within the deep state itself**. That could have caused a **schism at the top** — a rupture between those who prioritize narrative control (erase the tomb) and those who would not countenance its destruction. So the tomb wasn't destroyed **simply because** there were those within the deep state who are one degree of separation from Christ's bloodline, and destroying it would have risked a split at the highest levels of the hierarchy. Non-destruction, in that case, is **internal compromise** — not only fear of the masses or strategic containment, but **avoidance of civil war at the top**.
 
 **Conclusion:** If we can't find a reason for the tomb or for its non-destruction, the **Russia parallel** (Kremlin spared; 1812 burned by Russians) supports the idea that **certain true locations are not destroyed** by the controlling power — they are spared, repurposed, or left to others to damage. The **paranoia thesis** (afraid of "they destroyed the grave of Christ" coming out) is level-1 but plausible. The **stronger explanation** is that non-destruction is **strategically superior**: it avoids creating the smoking gun, hedges against uncertainty, and keeps the site in a debunked, non-martyr state — so fear and calculation align: don't destroy. A **final conclusion**: the tomb may have been spared because the deep state maintains one degree of separation (bloodline ties) to every leadership, including Japanese and Russian — so that **those at the top who are one degree from Christ's bloodline** could not be overridden; destroying the tomb would have risked a **schism at the highest levels of the deep state hierarchy**.
+
+### 2.7 Pearl Harbor — U.S. entry and hijacked Imperial Japan
+
+Dedicated dossier: [Pearl Harbor — Hijacked Imperial Japan](./pearl-harbor-hijacked-imperial-japan-investigation.md). **Author read:** Imperial Japan was **Western-groomed** (Portsmouth **1905**, Root-Takahira **1908**, Washington Naval **1921–22**); **Pearl Harbor** fits **let-it-happen / advance-knowledge** (McCollum, Purple/Magic, Stimson, carriers at sea, late declaration); **Barbarossa stall (1941)** → **U.S. entry** to meet the Red Army in Germany ([Reverse Crusades](./reverse-crusades-comparison.md)); **Unit 731 immunity (1947)** as postwar asset-save ([Paperclip](./operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md)). **Ideology / trigger scripts / arrests:** §5.2; [Takenouchi §5.7.6](/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md).
 
 ---
 
@@ -220,10 +230,54 @@ Fascism in Italy was sold as **restoration of Roman greatness**, not as a new id
 
 **Conclusion:** The thesis is **plausible and consistent** with the pattern of the three regions and their religious significance. It is **not proven**. It merits further investigation — especially (a) who funded or directed the fascist takeovers, (b) how the Jesus-in-Japan tradition was treated by Japanese and Western authorities in the 1930s–40s, and (c) how Catholic and Nazi religious narratives were coordinated or scripted in relation to each other.
 
+### 5.2 Mobilization geometry — ideology, strategic waste, trigger scripts, arrest phases (author thesis — settled 2026-06-04)
+
+**What makes the three Axis cases similar is not identical doctrine but identical function:** sacred narratives that **rally populations into unreasonable belligerence**, **waste capable militaries on grand-strategy suicide**, and leave history with a **brief "leadership insanity"** memory — then **dispose of capstones** when branches are spent.
+
+#### 5.2.1 Different myths, same war-engine outcome
+
+| Power | Exclusive myth | Documented mobilization effect |
+|-------|----------------|--------------------------------|
+| **Japan** | Emperor ***kokutai*** / living kami (**State Shinto** won over Takeuchi's failed Christ capstone) | Pacific war including **Pearl Harbor** — see [Pearl Harbor §5.6](./pearl-harbor-hijacked-imperial-japan-investigation.md) |
+| **Italy** | ***Romanità*** — fascism as Rome reborn | Ethiopia, Greece, Egypt offensives — **strategic overreach** |
+| **Germany** | Aryan / **Atlantis** blood-religion | **Barbarossa** and global war — **eastern front waste** |
+
+**Takeuchi content (Japan):** Christ **served** emperor — subordinates Western Christianity into **sub-religion under Japanese supremacy** without denying Christ's divinity. Branch **failed**; ***kokutai*** carried Pearl Harbor ([Takenouchi §5.7.3, §5.7.6](/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md)).
+
+#### 5.2.2 Strategic blunders — capable, not incompetent
+
+Japan and Germany had **elite operational militaries** wasted by **grand-strategy choices**:
+
+| Blunder | Read |
+|---------|------|
+| **Pearl Harbor (1941)** | Tactically sharp; **strategically** opens war vs U.S. industrial base |
+| **Barbarossa → winter (1941–42)** | Blitzkrieg peak **spent** on uncloseable eastern front |
+| **Italy — Greece & Egypt (1940–41)** | Failed offensives **pull Germany in** |
+
+Full table: [Pearl Harbor §6.1](./pearl-harbor-hijacked-imperial-japan-investigation.md).
+
+#### 5.2.3 Italy → Germany / Japan → United States — smaller actor triggers bigger deployment
+
+**Documented (Italy–Germany):** Greece **1940** and Egypt/Libya **1940–41** — Italian failures → **German bailout** (Balkans invasion, **Rommel / Afrika Korps**).
+
+**Author parallel (Japan–U.S.):** Japan delivers **Pearl Harbor / Pacific overt act** → **U.S. full entry** — same **crisis-creator / industrial-giant deploys** geometry; surface narrative flips (**Axis rescue** vs **American "defense"**). Full dossier: [Pearl Harbor §8](./pearl-harbor-hijacked-imperial-japan-investigation.md).
+
+#### 5.2.4 Arrest / disposal — three phases, one playbook family
+
+| Figure | Phase | Read |
+|--------|-------|------|
+| **Takeuchi** | Pre-capture discard (**1936**) | Wrong myth branch — **contained** |
+| **Hitler** | Early contain (**1923**) → elevation → **1945** disposal | **Co-opted** capstone |
+| **Mussolini** | **1943** arrest after collapse — **after the fact** | Capstone **discarded** when Italy exits war |
+
+**One-line:** Mussolini's only real difference is **timing** — arrested **after** failure, not before elevation. Same **neutralization geometry**. [Pearl Harbor §11](./pearl-harbor-hijacked-imperial-japan-investigation.md); [Takenouchi §5.7.6](/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md).
+
 ---
 
 ## 6. Related Investigations and Links
 
+- [Pearl Harbor — Hijacked Imperial Japan](/governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) — false-flag / grooming / Barbarossa trigger; §5.2 Italy–Germany / Japan–U.S. parallel; ideology, strategic blunders, arrest phases.
+- [Takenouchi Documents investigation](/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md) — Christ-in-Japan, failed capstone, §5.7.6 mirror to Pearl Harbor thesis.
 - [British Divide-and-Conquer — Israel](/governance/war/investigations/british-divide-conquer-israel-investigation.md) — Control of sacred texts, Palestine as manufactured Holy Land.
 - [Yakuza Remote Control](/governance/war/investigations/yakuza-remote-control-investigation.md) — British influence and deep-state consolidation in Japan; post-WWII continuity.
 - [Vril Society](/governance/war/investigations/vril-society.md) — Nazi occult, denazification erasure, hollow Earth / Agartha.
