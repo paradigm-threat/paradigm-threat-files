@@ -151,6 +151,23 @@ What is documented cleanly is **recurring viral miscaptioning** (1890 / early-18
 
 ---
 
+## 8. Cross-investigation — Takeuchi, Shingo, and giant burial-ground replacement (author thesis)
+
+**Primary dossier:** [Takenouchi documents — Japan, Christ burial, mound erasure](/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md) **§5.8**.
+
+**Author read (captured):** Dr. Takeuchi had **motivation to hide** any **myth or reality of giants in Japan**. If he **destroyed the original grave** and **created the Shingo twin-mound coordinate** later **debunked as forgery** (Kano **1935–36**), that act belongs to the same **mound-scrub reaction** as:
+
+- **Demolition** / empty fill (Smithsonian Project band),
+- **Building overlay** on former mounds,
+- **Haunted “Indian burial ground”** folklore on built-over interments (Americas parallel — author thesis),
+- **Fake Christ–brother burial site** labeled **forgery** (Japan case).
+
+**Link to this file:** **Giants-of-Japan** viral clips and **debunk-overreach** ([§3–§4](./giants-of-japan-archival-footage-big-man-japan-investigation.md)) **discard the category** while **Takeuchi/Shingo** offers a **controlled eastern-Christ decoy** without restoring **giant-line** geography. Both lanes **contain** the same suppressed memory from different angles.
+
+**Tier:** Giant-in-Japan **media loop** = documented; Takeuchi **replacement-grave** thesis = **open** — archaeology + agent trace.
+
+---
+
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 

@@ -1,8 +1,8 @@
 # Takenouchi Documents, Dr. Takeuchi, and Japan as Eastern Rus-Horde — Investigation
 
-> **TL;DR:** **Christ and Isukiri buried in Japan** (~**1258 CE**); **Shingo unproved** (Takeuchi 1935 untrusted). **1931 Manchuria first** → ideology to sustain WWII; **1935 Shingo = failed capstone**; **emperor *kokutai* won**. **Shingo spared** while **~67 cities** firebombed — decoy **preserved for WWIII script?** (§10.3). Christ **served** emperor. **Takeuchi ↔ Hitler** mirror (§5.7.5–§5.7.6). See §5.7, §10.3.
+> **TL;DR:** **Christ and Isukiri buried in Japan** (~**1258 CE**); **Shingo unproved** (Takeuchi 1935 untrusted). **Giants / mound erasure (§5.8):** Takeuchi **hid giant-line memory**; may have **replaced** original graves with **decoy Christ–Isukiri mounds** later **debunked as forgery** — same **mound-scrub playbook** as empty fill, buildings, or **haunted “burial ground”** myths elsewhere. Cross-ref [Giants of Japan](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md). **1931 Manchuria first** → **1935 failed capstone**; **emperor *kokutai* won**. **Shingo spared** in firebombing era (§10.3). See §5.7–§5.8, §10.3.
 
-**Date:** 2026-06-03 (§5.7 sustainment / emperor–Christ hierarchy; §5.7.5 Hitler mirror; §5.7.6 ideology / trigger scripts / arrests — 2026-06-04)  
+**Date:** 2026-06-03 (§5.8 giants / mound scrub — 2026-06-06; §5.7.6; §10.3)  
 **Status:** Ongoing  
 **Download index:** [`/home/ari/dev/wget/japan_chronology/takenouchi/INDEX.md`](../../../../wget/japan_chronology/takenouchi/INDEX.md)
 
@@ -53,7 +53,7 @@ The problem with Shōwa Japan is not that it remembered too much eastern history
 
 **Redaction trace:** When imperial Japan, fascist Italy, or Nazi Germany each claim to be the **one true origin** (Japan alone / Rome alone / Atlantis-Aryan alone), the deep-state function is identical: **sever each population from the larger Horde-Christian geography** and from each other. The **British agent / OSS** layer is the recurring operator in this repo's war investigations — Anglo-Japanese treaty history, divide-and-conquer Israel/Palestine manufacture, OSS→CIA continuity, yakuza remote-control thesis — not because every local actor was a puppet, but because **who gets which exclusive myth** is consistently steered from London/Washington-facing intelligence and finance.
 
-**Takenouchi in this frame (revised):** Takeuchi **redacted** eastern Christ fragments while stripping **Horde-province context** and adding **"Japan created all world religions."** He may also have functioned as a **Western-aligned channel** (knowingly or not) in the **militarized Imperial Japan / WWII** pipeline — his **1935 Shingo identification is untrusted**. Kano's *gisho* verdict and prosecution = **document containment**; Shingo mounds may be **ordinary kofun + Takeuchi packaging**, not proof the **original** giant-line graves survived there. **Real burials in Japan — original locus likely destroyed** in Smithsonian Project and later mound scrubs.
+**Takenouchi in this frame (revised):** Takeuchi **redacted** eastern Christ fragments while stripping **Horde-province context** and adding **"Japan created all world religions."** He may also have functioned as a **Western-aligned channel** (knowingly or not) in the **militarized Imperial Japan / WWII** pipeline — his **1935 Shingo identification is untrusted**. **§5.8:** motivation to **hide giant-line memory**; possible **replacement** of scrubbed mounds with **decoy Christ–Isukiri site** later **debunked as forgery**. Kano's *gisho* verdict and prosecution = **document containment**; Shingo mounds may be **ordinary kofun + Takeuchi packaging**, not proof the **original** giant-line graves survived there. **Real burials in Japan — original locus likely destroyed** in Smithsonian Project and later mound scrubs.
 
 **Open (Tier: author thesis — not proven):** Documented funding/intelligence links for Takeuchi / Amatsukyō; OSS/SCAP files on Shingo and Takeuchi 1945–1950; archaeology of Shingo mounds; pre-1935 giant kofun destruction records in Japan.
 
@@ -119,6 +119,7 @@ Sources: [Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuc
 | Kano 1935 forgery; open archive Qs | Same file §7 Q1, §8 | Investigation |
 | Legacy chronology Shingo block (Herai, twin mounds) | [`history/chronology/page.md`](../page.md) ~1432–1468, ~1603–1608 | Files hub |
 | Giants / Children's Crusade / guerrilla | [`giants-infantry-guerrilla-etymology-investigation.md`](giants-infantry-guerrilla-etymology-investigation.md) | Etymology + TFH #982 overlap |
+| **Giants of Japan** — archival memory, debunk-overreach, mound scrub | [`giants-of-japan-archival-footage-big-man-japan-investigation.md`](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) | **This dossier §5.8** |
 | Prester John / eastern Christian empire | [`prester-john-presbyter-rus-horde-nc-investigation.md`](prester-john-presbyter-rus-horde-nc-investigation.md) | Horde-east bridge |
 | Royal vs Apostolic / monotheism crisis | [`two-branches-christianity-fomenko-vs-author.md`](two-branches-christianity-fomenko-vs-author.md) | Christology frame |
 | Japan-as-Horde (speculative only) | [`yakuza-remote-control-investigation.md`](../../../governance/war/investigations/yakuza-remote-control-investigation.md) §6 | Flag only — **this dossier develops the bridge** |
@@ -283,6 +284,48 @@ Both figures occupy the **same structural slot**: **myth-engineers** pushing **e
 
 **Cross-ref:** [`pearl-harbor-hijacked-imperial-japan-investigation.md`](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) §5.6, §6.1, §8, §11; [`wwii-fascism-religious-apparatus-investigation.md`](../../../governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) §2.3, §4.1, §5.2; [`15.04.00` false flags — Manchurian Incident 1931](../../../../paradigm-threat-timeline/content/15.ce-21st-the-final-struggle/15.04.00-false-flags-architecture-of.md).
 
+### 5.8 Giants of Japan — Takeuchi motivation to hide giant memory and replace burial grounds (author thesis)
+
+**Cross-ref (required):** [`giants-of-japan-archival-footage-big-man-japan-investigation.md`](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) — circulating **giant-in-Japan** memory, **debunk-overreach** / adjacent-discard, WWII **mockumentary** camouflage; [`giants-infantry-guerrilla-etymology-investigation.md`](giants-infantry-guerrilla-etymology-investigation.md); §5.4–§5.5 (giant-line graves, kofun); §1 (Smithsonian Project band).
+
+**Investigator sentiment (captured):** Dr. Takeuchi clearly had **motivation in hiding** — whether **witting or not** — any **known myth or reality** that **giants** were involved in Japan. The surviving Takeuchi/Shingo relay **barely mentions giants**; that **absence is the tell** under a project that otherwise claims **Japan origin of all religions** and **pre-Jimmu divine-age emperors**.
+
+#### 5.8.1 Mound-scrub reaction — same playbook, regional variants
+
+If the author read is right that Takeuchi **destroyed or obscured the original grave** and **created the new coordinate** (then **Kano 1935–36** labeled it **forgery**), his act fits a **broader reaction** already underway: **remove giant-line burial grounds** and **replace** them with something **non-threatening** to the Palestine / normal-human-history gate:
+
+| Replacement outcome | Where seen (this project) | Function |
+|---------------------|---------------------------|----------|
+| **Nothing** — mound demolished, fill scraped | **Smithsonian Project** + kofun waves (§1, §6.1); Americas giant-mound erasure | **Erase coordinates** |
+| **Buildings** on former mound footprint | Mud-flood / reset literature; urban overlay | **Bury geography under architecture** |
+| **“Indian burial ground” / haunted-site myth** | Americas parallel (author thesis) — development stalled by **folklore fear** | **Contain inquiry** without admitting **giant-line** interments |
+| **Fake sacred burial** — **Christ + brother** twin mounds at Shingo | **Takeuchi 1935 tagging** → **debunked** (*gisho*) | **Decoy coordinate** — eastern Christ **memory preserved in sign text**, **locus discredited** |
+
+**Whether Takeuchi understood the full picture or not:** even as **partial agent**, the **effect** aligns with **mound scrub**: authentic **giant-line** or **founder-scale** graves **gone**; public left with **ordinary kofun + Christ forgery label** — or **no mound at all** elsewhere.
+
+#### 5.8.2 Why giants must disappear from the Takeuchi package
+
+| If giants were acknowledged in Japan | Threat to |
+|-------------------------------------|-----------|
+| **Normal-human** Palestine Christ | **Founder scale** contradicts gatekept biology |
+| **Exclusive *kokutai*** / emperor-only antiquity | **Horde-province** + **giant-line** memory (§5.6) |
+| **Western debunk** of Shingo | Easier if site is **only** “Jesus forgery” — not **also** **giant grave** |
+| **Giants of Japan** public lane | **Debunk one clip** → discard **whole category** ([Giants of Japan §3–§4](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md)) |
+
+**Takeuchi's move (author read):** **Substitute** giant-founder geography with **human-scale Christ–Isukiri folklore** at **wrong coordinates** → then let **Kano** and the state **prosecute and debunk** — achieving **double containment**: (1) **forgery** label on documents and site, (2) **giant memory** never re-enters the official story.
+
+#### 5.8.3 Epistemic tiers
+
+| Claim | Verdict |
+|-------|---------|
+| Giant-line **kofun/mounds** scrubbed in Japan (Smithsonian Project band + later) | **Author thesis** — aligns §1, §6.1 |
+| Takeuchi corpus **suppresses** giant explicit claims in what survives | **Documented pattern** in relay summaries |
+| Takeuchi **personally destroyed** original grave and **built** Shingo decoy | **Author thesis — open** — needs archaeology + agent trace (§14 #8–9) |
+| Shingo = **replacement mound** after original erased | **Author thesis** — compatible with **unproved locus** + **1935 surprise** |
+| **Indian burial ground** haunted-building parallel | **Author thesis** — structural rhyme, not Japan-primary sourced in-repo |
+
+**Open:** GPR/excavation of Shingo vs neighboring **kofun**; pre-1935 giant folklore in **Aomori** archives; Takeuchi field notes on **mound dimensions**; link to [Giants of Japan](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) **creator-intent / pre-2007 custody** leads.
+
 ---
 
 ## 6. Post-crucifixion geography — sign text as narrative relay
@@ -296,7 +339,7 @@ Both figures occupy the **same structural slot**: **myth-engineers** pushing **e
 
 The Crimea line in [`06.04.00`](../../../../paradigm-threat-timeline/content/06.ce-12th-birth-of-christianity/06.04.00-revolution-despite-martyrdom.md) reflects **partial Western witness**. It does **not** override east-to-Japan retirement. Timeline prose may eventually be revised; that edit is out of scope for this dossier.
 
-**Giants:** Absent from surviving Shingo/Takeuchi relay — expected under redaction. **Original giant-line graves in Japan were likely destroyed** in Smithsonian Project (late 18th / early 19th c.) with other Eurasian giant mounds; later kofun waves continued the scrub. **Excavation of Shingo today** would likely yield **normal remains or empty/replacement fill** — not contradicting evidence left in a tourist site.
+**Giants:** See **§5.8** (Takeuchi hiding motive; mound-scrub playbook). Absent from surviving Shingo/Takeuchi relay — **expected under redaction**. **Original giant-line graves in Japan were likely destroyed** in Smithsonian Project (late 18th / early 19th c.) with other Eurasian giant mounds; later kofun waves continued the scrub. **Excavation of Shingo today** would likely yield **normal remains or empty/replacement fill** — not contradicting evidence left in a tourist site.
 
 **1935 — revised read:** Villagers **surprised** with **no prior Christ oral tradition** fits **centuries of suppression** — and fits **Takeuchi attaching a famous name to unremarkable mounds**. **1935 = Takeuchi public packaging** — **location announcement untrusted**. **1964** Kirisuto Matsuri = later festival layer on that packaging.
 
@@ -324,6 +367,7 @@ The Crimea line in [`06.04.00`](../../../../paradigm-threat-timeline/content/06.
 | **Pearl Harbor / *kokutai*** | Japanese treachery; tactical surprise | ***Kokutai* won** over Takeuchi; **grand-strategy** belligerence ideology-licensed; Italy→Germany / Japan→U.S. trigger parallel — §5.7.6 |
 | **Axis arrests** | Individual justice | **Disposal phases** — Takeuchi early, Hitler mid-cycle, Mussolini after collapse — §5.7.6 |
 | **Cosmology** | Ultranationalist pseudohistory | **Exclusive-origin hijack** (Japan alone) vs **Horde-province** memory; same Axis pattern as Rome/Atlantis — see §5.6 |
+| **Giants / mound scrub** | (Not in mainstream Takeuchi frame) | Takeuchi **hid giant memory**; possible **decoy Christ–Isukiri mounds** after original erased — **forgery** label as containment (§5.8); [Giants of Japan](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) |
 | **Trial outcome** | Religious acquittal 1944 | State could not safely destroy the movement or documents without schism; originals then **lost to fire** |
 | **British/OSS layer** | (Not in mainstream frame) | Anglo-Japanese grooming → abandonment → exclusive *kokutai*; post-war SCAP containment; redaction operator traces to British/intelligence channel per war investigations |
 
@@ -584,6 +628,7 @@ The *Sendai Kuji Hongi* (先代旧事本紀) and related **gisho** (*Wakan sansa
 13. **War propaganda:** Did official **1937–41** materials cite Takeuchi, Shingo, or Amatsukyō? Did **kokutai / emperor divinity** rhetoric explicitly license Pacific escalation? (Expected: Takeuchi minimal; *kokutai* dominant — Pearl Harbor §13 #8).
 14. **Pearl Harbor chain:** Anglo-American cables **Aug–Dec 1941** tying **Barbarossa stall** to Pacific trigger — [Pearl Harbor investigation](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) §13.
 15. **Shingo bombing exclusion:** USAAF / XXI Bomber Command target lists — deliberate **non-targeting** of Herai/Shingo vs **Aomori city** destruction (§10.3).
+16. **Takeuchi / giant mounds:** Field notes, Amatsukyō texts, or survey records on **mound scale** — evidence Takeuchi **replaced** giant-line kofun with **human-scale decoy** (§5.8); cross-ref [Giants of Japan](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md).
 
 ---
 

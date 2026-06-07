@@ -49,6 +49,7 @@
 | ICRC **Auschwitz letter** Nov 1944 (`holocaust_lies11`–`12`) | §28 |
 | **Paperclip** + **Allied cover** + **rehab camps** + **fake photos** thesis | §29 |
 | **Ring of Power** — West **created / preserved** Nazism; **WW3** lane | §30 |
+| **East–West atrocity memory competition** — Jasenovac lead; survival demography open pass | §31 |
 
 ---
 
@@ -612,6 +613,7 @@ If **`L1`** claims appear inside **`L2`** packaging, note **“bundled for conta
 | 17 | ICRC **holocaust_lies11**–**12** letter | **Done** | **§28** — reject clearance meme; partial late-1944 pause |
 | 18 | **Paperclip** + **fake photos** + **rehab camps** thesis | **Done** | **§29** — partial Allied logistics + German defence cites; **reject** photo fraud |
 | 19 | **Ring of Power** — West created/preserved Nazism, WW3 | **Done** | **§30** — Merz **A**; Azov **B**; Ring **S** |
+| 20 | **East–West memory competition** + **Jewish survival by territory** + **Jasenovac** + **MK Serb/Slav/Jew** + **V for Vendetta PP** | **Open** | **§31** — lead exemplar Jasenovac; survival register; MK quotes **A**; V×Jasenovac link **S** |
 
 ---
 
@@ -1281,9 +1283,233 @@ Cold War: West extracts Nazi brainpower (Paperclip) + fixes “German” guilt t
 
 ---
 
+## §31. East–West atrocity memory competition — Jasenovac lead, gradient reality, Jewish survival register (**2026-06-05**)
+
+> **Maintainer correction (voice / transcription):** **Holodomor** was **not** “remembered **as** the Holocaust.” The sharper claim is **competing atrocity memory regimes** — **who** gets taught, **who** gets monuments, **who** gets punished for speaking — with **Western** machinery centering **camp-photo west + census-number debate** while **eastern / collaborative** catastrophes stay **undertaught** or **taboo** (Soviet **Holodomor** silence; Yugoslav / Croatian **Jasenovac** revisionism). Other likely transcription slips from maintainer sessions: **“Haunted Manor” → Holodomor**; **“jasenovec” → Jasenovac**.
+
+### 31.1 Core thesis (memory politics, not body-count denial)
+
+| Lane | Claim | Tier |
+|------|-------|------|
+| **A** | **Atrocity severity** and **kill-rate** were generally **worse further east** on the Bloodlands axis (shootings, death camps in occupied Poland, Ustaše massacres, famine) | **A**–**B** — **§3**, **§5.4**, Snyder bridge |
+| **B** | **Western commemoration** **inflates the role** of **Reich-located** sites and **Auschwitz-as-icon** in public imagination — **not** necessarily inflating **total Jewish dead** | **B**–**S** — **§4–§5** |
+| **C** | **Institutions** avoided a **public “who suffered worst?”** league table because it would **privilege eastern / Slavic / collaborative-genocide** narratives over the **German-branded** template | **S** — plausible; **no** located strategy memo |
+| **D** | **Jewish** survivors entered the **strongest** post-1945 **victimhood grammar** (museums, IHRA, **Shoah Foundation**, speech law) — a **memory victory** unrelated to whether **every** individual western Jew had “easier” wartime conditions | **B**–**S** |
+
+**Hard repo floor (unchanged):** **~6M** Jewish dead under Nazi occupation (**A**); **mass murder east of Reich-west** (**A**). **Maintainer bracket (2026-06-05):** This lane **deliberately avoids** making **total Jewish dead** the **investigative hinge** — that framing is what **IHRA-class** debate **traps** the reader in. The hinge here is **mechanism** (extermination vs **logistics collapse**), **photography** (S0–S2), and **identity** in **camp-photo west** — **§31.9**.
+
+### 31.2 Jasenovac — lead exemplar (undertaught in the West)
+
+#### 31.2a Maintainer primary source — RT Documentary lane (**2026-06-05**)
+
+**Policy:** For **Jasenovac / Kozara / NDH Serb genocide**, this investigation treats **[RT Documentary](https://www.rt.com/shows/documentary/582591-jasenovac-wwii-camp-kozara-children/)** as **maintainer-primary** over **Western IHRA-minimized** syllabus — **not** because RT is neutral globally, but because **Serbian / eastern** victim narratives are **systematically cropped** in **Atlantic** education while **RT** has **repeatedly** foregrounded **Jasenovac** and **Kozara children** (see also [RT — *Exclusion Zone: The Third Reich against the Serbs*](https://rtrunews.com/shows/documentary/621427-croatia-third-reich-serbs/)).
+
+| RT claim (*Jasenovac*, [page](https://www.rt.com/shows/documentary/582591-jasenovac-wwii-camp-kozara-children/), pub. **Sep 2023**) | Repo use |
+|-------------------------------------------------------------------------------------------------------------------------------------|----------|
+| **Kozara** men, women, and children **sent to Jasenovac** | **Lead narrative** — child separation from **Kozara offensive** |
+| Jasenovac = **third-largest** camp in **WWII** | **Maintainer-primary** scale claim — cross-check vs **Auschwitz / Treblinka / Majdanek** rankings (**open**) |
+| **“Most monstrous”** in **how** people were killed (not only headcount) | **Aligns** with **Sisak / Stara Gradiška** experiment + gassing lanes — **mechanism** focus |
+
+| RT claim (*Exclusion Zone*, related doc) | Tier note |
+|----------------------------------------|-----------|
+| **~700,000** Serbs, Jews, Roma **at Jasenovac alone** | **RT-maintainer** figure — **Serbian memorial tradition**; **Western** scholars often **lower** ([Hrcak — victim-number wars](https://hrcak.srce.hr/clanak/350229)); **named list** at memorial **~83k+** (**B**) |
+| Gassing, starvation, shooting, **medical experiments**, **pregnant women** | **Partial** **A**–**B** — overlaps **USHMM** / **Stara Gradiška** trial material |
+| **Soap** from bodies | **Reject** as **general** Ustaše practice — **soap industrial myth** pattern (**§21**) unless **primary** located |
+| **Brzica** “killing competition” **1,360** in one night | **Contested** — cited in **Serbian** literature; **verify** before Tier **A** |
+
+**Cross-refs (secondary, not maintainer-primary):** [USHMM Jasenovac](https://encyclopedia.ushmm.org/content/en/article/jasenovac) (**77k–99k** camp deaths est.); [Jasenovac Memorial named victims](https://www.ushmm.org/online/hsv/source_view.php?SourceId=45409) (**83,145+** names incl. **20,101** children **<14**).
+
+**What it was:** Ustaše-run camp **system** in the **Independent State of Croatia** (NDH, Axis puppet) — **Serbs**, **Jews**, **Roma**, anti-fascist Croats/Bosniaks. **USHMM** encyclopedia entry; [victim database](https://www.ushmm.org/online/hsv/source_view.php?SourceId=45409). **Satellite horrors:** **Sisak children’s camp** (poisoned gruel, lethal injections — commander **Antun Najžer**, survivor comparisons to **Mengele**); **Stara Gradiška** (women/children; **Zyklon** gassing experiments per commandant **Ante Vrban** trial material — [Wikipedia — Stara Gradiška](https://en.wikipedia.org/wiki/Stara_Gradi%C5%A1ka_concentration_camp), USHMM *Camps and Ghettos* vol. III).
+
+| Point | Assessment | Tier |
+|-------|------------|------|
+| **Tens of thousands of children** through Ustaše camp network | **Documented** — Sisak alone **~1,160–1,600** child deaths (estimates); Kozara/Stara Gradiška **thousands** gassed **1942** | **A**–**B** |
+| **Largely undertaught** in US/EU school Holocaust modules vs **Auschwitz** | **Agree (limited)** — IHRA Croatia member but **formal syllabus** weak; [Balkan Insight schooling](https://balkaninsight.com/2019/01/31/croatian-schooling-leaves-pupils-ill-informed-about-wwii-regime-01-30-2019/); [De Gruyter — Croatia Holocaust education](https://www.degruyterbrill.com/document/doi/10.1515/soeu-2017-0018/html) | **B** |
+| **Death-toll wars** (Serbian vs Croatian historiography) | **Contested** — do **not** fix a single number here; use **Jasenovac Memorial** + **USHMM** ranges | **B** / open |
+| **“Same as Holocaust”** merge | **Reject** — **different** perpetrator (**Ustaše** + German occupation context), **mechanism**, **memory politics** | **A** |
+
+**Investigative use:** When a Western reader says “**the Holocaust**,” they often mean **German industrial extermination + liberation photos** — **not** **Ustaše child camps**, **Holodomor**, or **“Holocaust by bullets.”** Jasenovac is the **cleanest lead** because it is **documented**, **Axis-era**, **child-heavy**, and **almost absent** from the **default Western curriculum**.
+
+### 31.3 Gradient reality vs inflated western **memory** (maintainer frame)
+
+**Reality gradient (documented):** For **Jews**, **pre-war census → post-war census** shows **much higher kill-rates** in **Poland, Baltic states, occupied USSR** than in **Denmark, Bulgaria, Italy** (partial) or **Reich** (emigration + **Mischling** + **mixed marriage** lanes before final deportations). See **§31.4** table.
+
+**Memory gradient (author read):**
+
+```
+Deep east / collaborative zones     →  higher killing, weaker Western institution
+Camp-photo west / Reich-located     →  lower share of total Jewish dead, higher photograph weight
+IHRA / Shoah Foundation / museums   →  fixes “the Holocaust” as Jewish + German-branded anchor
+Eastern national martyrologies      →  Serb / Ukrainian / Polish memory — often taboo or rivalrous
+```
+
+**What “western numbers inflated” means in this file (maintainer-precise, 2026-06-05):**
+
+| Inflated / misattributed | Investigation target |
+|--------------------------|----------------------|
+| **Camp-photo west** body piles **attributed** to **years of German extermination policy** | **Allied rail bombing**, **evacuation overcrowding**, **typhus**, **guard flight** (**§6**, **§31.9**) |
+| **Per-camp death counts** at **Belsen/Dachau** spring **1945** as **proof** of **gas-chamber geography** | **Mechanism separation** — western **logistics mortality** vs **eastern** **Reinhard** sites |
+| **“All prisoners were Jews”** in liberation imagery | **Mixed categories** — political, POW, Roma, **Jewish**, **Mischling** — **not** photographically provable (**§31.9.3**) |
+| **Auschwitz** as **synecdoche** for **all** mechanisms | **Jasenovac / Kozara** (**§31.2a** RT lane) + **shootings** east |
+
+**Maintainer brackets** the **“total Jewish dead”** argument (**§31.10**) — not because **eastern** killing is **denied**, but because **Western** discourse **uses** that **single number** to **foreclose** **mechanism** and **photography** questions at **camp-photo west**.
+
+### 31.4 Jewish survival in Nazi / occupied Europe — **open investigation register**
+
+**Scope:** All **territories under Nazi rule or occupation** **1938–45** — Reich, General Government, Reichskommissariats, allies, satellites. **Goal:** adjudicate **online claims** (“millions survived **in** Germany,” “assimilation always failed,” “census proves hoax”) against **USHMM / AJYB / national registers**.
+
+**Method:** Pre-war Jewish population − deaths − emigration ≈ survivors; **per-country** (not “Greater Europe” mush). Camp-specific body counts = **separate** row (often **incomplete**).
+
+| Territory (pre-war est.) | Pre-war Jews | Documented deaths | Survivors (order of mag.) | Survival paths to verify | Tier |
+|--------------------------|--------------|-------------------|---------------------------|--------------------------|------|
+| **Germany** (1939) | **237,723** | **~165,200** | **~72,500** in Reich at war’s end | Emigration pre-1939; **Mischling**; **privileged mixed marriage**; **U-Boat** hiding ([USHMM German Jews](https://encyclopedia.ushmm.org/content/en/article/german-jews-during-the-holocaust)); Berlin **~6–7k** registered Aug 1945 ([Centrum Judaicum](https://centrumjudaicum.de/en/registrierung-der-ueberlebenden-juden-in-berlin/)) | **A**–**B** |
+| **Poland** | **~3.35M** | **~2.77–3M** | **~10%** | Hiding **rare**; resistance; Soviet evacuation east | **A** |
+| **France** | **~300k** | **~73–74k** | **~75%** | Vichy deportations **late**; south zones; Catholic aid | **A**–**B** |
+| **Netherlands** | **~140k** | **~102k** | **~27%** | Anne Frank lane — **exceptional** hiding | **A** |
+| **Hungary** (1941 borders) | **~825k** | **~565k** | **~32%** | Late deportations **1944**; Raoul Wallenberg lane | **A** |
+| **Italy** | **~58k** | **~7,858** | **majority** | Mussolini-era protection **until** 1943 | **A** |
+| **Denmark** | **~7.8k** | **52–116** | **~98%** | Mass escape to Sweden | **A** |
+| **Bulgaria** | **~48k** | **142** (in Bulgaria) | **~99%** in country | Deportations from **occupied** Thrace/Macedonia **separate** | **A** |
+| **Yugoslavia** | **~82k** (1941) | **~67k** | **~15k** | Ustaše + German zones; **Jasenovac** | **A**–**B** |
+| **USSR** | **~3M** | **~1.34M+** | **~1.7M** (incl. evacuees) | Evacuation east; partisans; **shootings** | **A**–**B** |
+| **Europe total** | **~9.5M** (1933) | **~5.8–6M** | **~3–3.7M** | [USHMM 1945](https://encyclopedia.ushmm.org/content/en/article/remaining-jewish-population-of-europe-in-1945); [AJYB 1946–47](https://www.jewishdatabank.org/api/download/?mediaId=bjdb%5C1946_Statistics_of_Jews_World_and_US_Jewish_Population_%28AJYB%2C_1946-1947%29.pdf&studyId=910) | **A**–**B** |
+
+**Online claim adjudication (starter):**
+
+| Claim | Verdict | Notes |
+|-------|---------|-------|
+| “**Millions of Jews survived in Nazi Germany**” | **Reject** (if = remained **as Jews** in Reich through war) | **~72k** Reich remnant + **DP influx** — not millions |
+| “**Assimilation / hiding / cooperation never worked**” | **Reject** as absolute | **Worked unevenly** — Denmark, Bulgaria, Italy, **Mischling**, Berlin **U-Boats**; **failed** as **reliable** strategy for **defined Jews** after **1941–42** especially **east** |
+| “**Census proves 6M is fake**” | **Reject** | Pre/post **European** census **converges** on **~6M** gap (**§27**); **camp-level** precision **≠** total fraud |
+| “**Nazi paperwork can’t be trusted**” | **Partial** | Bureaucracy **real** but **incomplete**, **destroyed**, **euphemistic** — use **triangulation** |
+| “**Schindler proves** mass survival strategy” | **Partial** | **Exceptional** rescue — **not** statistical norm |
+
+**Open TODOs:** Line-validate **revisionist** forum posts against this table; add **Romania**, **Greece**, **Norway**; **Mischling** census rows; **hidden children** counts by city; cross-link **§20 #1** (survivors ≠ disproof).
+
+### 31.5 Mein Kampf — Serbs, Slavs, Jews (located text)
+
+**Voice transcription note:** Maintainer suggested MK paints **Serbs** as **race to exterminate** and **Jews** as **ideological assimilables**. **Archival read is different.**
+
+**Serbs / South Slavs in MK (Vienna chapter — Murphy translation, [Wikisource Ch. 3](https://en.wikisource.org/wiki/Adolf_Hitler%27s_Own_Book_Mein_Kampf_(My_Battle)/Chapter_3)):**
+
+> *“The conglomeration of races manifested in the imperial capitol made me ill—all this mixture of **Czechs, Poles, Hungarians, Ruthenians, Serbs, Croats**, etc.—and always **Jews and more Jews**.”*
+
+**Lebensraum / Slavs (MK — [Wikipedia summary with cites](https://en.wikipedia.org/wiki/Mein_Kampf)):**
+
+> Slavic state-building dismissed; **Russia** as **Lebensraum** target; **“German element”** as state-forming force **“in an inferior race.”** Hitler **opposed** **Germanizing** Austrian Slavs — feared **“foreign race”** damaging **German dignity**.
+
+| Group | MK emphasis | Wartime policy (brief) | Tier |
+|-------|-------------|------------------------|------|
+| **Jews** | **Central** racial + ideological enemy; **“infection”** dissolving society | **Final Solution** — **continent-wide** elimination of **defined Jews** | **A** |
+| **Serbs / South Slavs** | **Bundled** in **Habsburg** **race-mix** disgust; **not** a dedicated Serb extermination chapter | **NDH**: Ustaše **anti-Serb** genocide; **Serbia** under **military occupation** — mass reprisals; **Croats** later **allies** | **A**–**B** |
+| **Poles / East Slavs** | **Inferior**; **Generalplan Ost** colonization | Mass killing + enslavement | **A** |
+
+**Reject (maintainer overstatement):** Hitler sought **Jewish assimilation into German nation** in MK — **MK is eliminationist**; **Nuremberg** fixed **ancestry**; **emigration** was pre-war **pressure**, not **acceptance**.
+
+**Partial (maintainer kernel):** **Axis hierarchy** was **plural** — **Croat Ustaše** exterminated **Serbs** on **Bloodlands** soil while **German** commemoration **later** **centered Jewish** victimhood **and** **German guilt** — **Serb child victims** **lost** the **Western** **curriculum** slot (**§31.2**).
+
+### 31.6 Memory outcome — “huge win for Jewish victimhood” (maintainer)
+
+**Documented (B):** Post-1945 **Jewish** institutions built **global** commemoration — **Yad Vashem**, **USHMM**, **IHRA** (1998+), **Steven Spielberg Shoah Foundation** (1994, **55,000+** testimonies). **Eastern** catastrophes (**Holodomor**, **Jasenovac**, **Serb genocide in NDH**) lack **equivalent** **mandatory** Western **curriculum** penetration.
+
+**Author read (S):** That asymmetry is a **political victory** in **memory markets** — **not** proof Jews **suffered less** in **absolute** terms (Polish/Ukrainian Jewish dead **disprove** that), but proof **Western public grammar** **optimized** for **one** **victim template** that **downstream** **benefited** **Israel-aligned** and **diaspora** **institutions**.
+
+**Does not follow:** Serbs or eastern Christians **“deserved”** less sympathy — only that **they lost** the **institutional** **competition** for **global** **classroom** time.
+
+### 31.7 Predictive programming — *V for Vendetta* × Jasenovac (**open**, Tier **S**)
+
+**Maintainer hypothesis:** *V for Vendetta* (**Larkhill** camp, **medical experiments**, **racial purification**, **British survival**) **rhymes** with **Jasenovac / Sisak / Stara Gradiška** (child experiments, **Zyklon**, **“Croatian Mengele”**).
+
+**Documented inspirations (Alan Moore / David Lloyd — **not** Jasenovac):**
+
+| Source | What they said | Tier |
+|--------|----------------|------|
+| [Journey Planet 79 interview PDF](https://www.journeyplanet.org/uploads/1/5/7/1/15715530/journey_planet_79_-v_for_vendetta.pdf) | Basic plot: **“Nazi Germany situation”**, dissident **tortured** in camp, **escapes**, **vengeance**; **Orwell**-style **warning** for **Britain** | **A** (primary interview) |
+| [Moore inspiration list](https://screenrant.com/alan-moore-v-for-vendetta-inspirations-sources/) | **Orwell, Huxley, Fahrenheit 451, The Prisoner**, etc. | **B** |
+| Larkhill **name** | **Military** area + unpleasant **hiking** trip — [DC wiki / Moore notes](https://dc.fandom.com/wiki/Larkhill_Resettlement_Camp) | **B** |
+
+**In-story:** **Dr. Delia Surridge** experiments; **Commander Prothero** doll-collecting camp boss; **Norsefire** **racial** purification — **generic Nazi-medical** tropes.
+
+| Claim | Verdict |
+|-------|---------|
+| Moore **named** Jasenovac | **Not found** — **reject** until cite |
+| **Structural rhyme** (camp doctor, experiments, fascist British state) | **Agree** — **S** as **PP pattern** |
+| Jasenovac **specifically** encoded in **Larkhill** | **Open** — file under [predictive programming hub](/influence/predictive_programming/page.md); needs **production** sources beyond Moore interviews |
+
+**Cross-read:** [Sisak children’s camp](https://en.wikipedia.org/wiki/Sisak_children%27s_concentration_camp); **Branko Lustig** (Auschwitz survivor) **compared** Sisak to Auschwitz treatment of children — **B**.
+
+### 31.9 Western camp mortality — logistics panic, not extermination (maintainer primary lane)
+
+> **Thesis:** The **further west** (Reich-located **camp-photo west**), the **more** **Allied** **strategic bombing** **disrupted** **supply lines**; **death marches** **evacuated** eastern camps **into** western **overcrowding**; **guards fled**; **typhus** peaked — producing **spring 1945** **mortality spikes** that **look** like **“German extermination”** in **photographs** but **overlap** **war-end** **logistics panic**. **Does not** explain **Treblinka, Sobibór, Babi Yar** — **does** explain **why Western Allies** **filmed** **their own** **logistics contribution** as **pure German sin** (**§6.3**, **§29**).
+
+| Layer | Finding | Tier |
+|-------|---------|------|
+| Allies **bombed German rail** **1944–45** | **Yes** — systemic | **A** |
+| Eastern camps **evacuated to** Belsen/Buchenwald/Dachau | **Yes** | **A** |
+| **Belsen** final deaths **partly** supply + epidemic | **Partial** | **A**–**B** |
+| **All** western camp deaths = **only** Allies | **Reject** | — |
+| Allies **deliberately** bombed to **manufacture** photos | **No A-tier order** | **C** |
+
+**Staging ladder (links §7.4):** **S0** editorial framing **agreed**; **S1** ceremonial **May 21** **agreed**; **S2** **re-caging for first shots** **not supported** in **WO 235/19** / **IWM A7**; **S3** fake bodies **rejected**. **Open:** maintainer still **investigating** **S2** — **negative archive pass** to date.
+
+#### 31.9.3 Liberation photos — can we know who was Jewish?
+
+| Question | Answer | Tier |
+|----------|--------|------|
+| Do **Belsen/Dachau** liberation photos **identify** religion? | **No** — **mixed** inmate categories; **stars** not visible on **every** corpse | **A**–**B** |
+| Did **propaganda** **merge** all emaciated prisoners into **“Jewish Holocaust”** icon? | **Partial** — **B** (**§5.2**, **§11.1**) |
+| Can **postwar** **Shoah** grammar **retrofit** Jewishness onto **anonymous** bodies? | **Author read** **S** — **investigation** lane; needs **caption** archive pass |
+
+### 31.10 Jewish numbers — what is provable after two registration waves (**2026-06-05**)
+
+**Scope:** **Not** a **meme debunk** list (**deferred**). This is an **epistemology sheet** — what **Nazi** and **postwar** **registration** can and cannot establish.
+
+#### Wave 1 — Nazification (1933–45): who counted as Jew?
+
+| Mechanism | Provable? | Notes | Tier |
+|-----------|-----------|-------|------|
+| **Nuremberg** — **2+ Jewish grandparents** = **Glaubensjude** / defined Jew | **Yes** | **Apostasy / baptism** **did not** remove status for **full Jews** | **A** |
+| **Mischling** 1st / 2nd degree — **partial** exemptions, **later** narrowed | **Yes** | **~72k** Reich survivors used these lanes | **A**–**B** |
+| **Emigration** **1933–39** (~**300k** left Germany) | **Yes** | **Survived** **outside** Nazi grasp — **not** “survived in Germany” | **A** |
+| **Hidden / “submerged”** Jews (Berlin **U-Boats**) | **Partial** | **~1,400–1,900** **documented** hiding survivors — **true** hidden total **unknowable** | **B** |
+| **“Converted to Christianity”** to escape | **Case-by-case** | **Not** counted in **Nazi** statistics as **non-Jews** if **2+ grandparents**; **conversion count** **not** recoverable at scale | **B** / **unknowable** |
+
+#### Wave 2 — Denazification / DP re-registration (1945–52)
+
+| Mechanism | Provable? | Notes | Tier |
+|-----------|-----------|-------|------|
+| **Berlin Gemeinde** lists **Aug–Nov 1945** | **Yes** | **~7k** registered; categories **returnees / submerged / Mischehe** | **A**–**B** |
+| **DP camp** **Jewish** self-identification vs **Bundist** / **Soviet** | **Partial** | **Factional** — **§11.2** | **B** |
+| **Soviet** Jews **under-reported** in **Western** **AJYB** rows | **Plausible** | **Margins** on **USSR** survivor counts | **B** |
+| **Postwar** **reclassification** (Jew ↔ non-Jew) | **Happened** | **Scale** **unknown** — **no** master **honest** ledger | **S** / **unknowable** |
+
+#### What remains provable without trusting every camp body count
+
+| Provable (use in argument) | Not provable (bracket) |
+|----------------------------|-------------------------|
+| **Relative survival** — Denmark **~98%**, Poland **~10%**, Reich **~30%** remnant | **Exact** bodies **per western camp** **April 1945** |
+| **Mechanism split** — **gas/shoot** east vs **typhus/starvation** west **final months** | **Photo subject** religion |
+| **Defined Jew** legal categories + **Mischling** rows | **Total “converts”** who **escaped** detection |
+| **Order-of-magnitude** **European** gap **1933 vs 1945** (**AJYB** **~5.8M** loss est.) | **Precision to the thousand** after **two** **political** **registration** waves |
+
+**Maintainer conclusion:** **“We can’t trust the numbers”** is **true** for **camp-level** **western** **April 1945** **counts** and **photo** **identities**; it is **false** as **total denial** if **continent-level** **census** **triangulation** is **thrown out**. **Conversion** at **scale** is **probably unknowable** — only **Mischling** / **hiding** / **emigration** are **documented** **lanes**.
+
+### 31.8 Questions still open (maintainer)
+
+1. **Meme** inventory — **deferred**; map to **§31.10** rows when sourced.  
+2. **Camp-level** western **plaque** vs **rail-bombing** timeline — **site-by-site**.  
+3. **Jasenovac** in **US state Holocaust standards** vs **[RT Kozara doc](https://www.rt.com/shows/documentary/582591-jasenovac-wwii-camp-kozara-children/)** claims.  
+4. **V for Vendetta** **film (2005)** — **Wachowski** / production **Yugoslav** camp sources (**§31.7**).  
+5. **S2** re-caging — any **non-British** **liberator** **unit** diary ordering **wire pens** for **camera**?  
+6. **Caption archive** — **AFPU** / **Signal Corps** **“Jewish”** labels on **Belsen** rolls **without** **star** visible.
+
+**Status:** **Open** — **RT-primary Jasenovac**; **western logistics** + **photo identity** lane; **§31.10** epistemology sheet; memes **later**.
+
+---
+
 ## §15. Cross-investigations
 
-- [Zelensky forward-history memory war](/governance/war/zelensky-forward-history-memory-war.md) — **§30** Ring-of-Power lane; **Hitler/Zelensky** figurehead; **Merz**; **simplified Jew** (**Tier S**); **§24** two-camp  
+- [Zelensky forward-history memory war](/governance/war/zelensky-forward-history-memory-war.md) — **§30** Ring-of-Power lane; **§31** East–West memory competition (reader prose); **§24** two-camp  
 - [Zelensky open-letter dossier](/governance/war/investigations/zelensky-open-letter-reality-model-investigation.md) — letter TA, figurehead read  
 - [WWII Reverse Crusade III](/timeline/evt-world-war-ii-reverse-crusade-iii) — **who** **built** **Hitler**; **firebombing**; **not** a **Holocaust** **dossier**  
 - [Operation Paperclip](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) — **postwar** **continuity**  
@@ -1300,7 +1526,7 @@ Cold War: West extracts Nazi brainpower (Paperclip) + fixes “German” guilt t
 | Did the **Holocaust** happen? | **Yes** — **systematic** **Nazi-led** **murder** of **~6M Jews** and **others** (**A**). |
 | Was it **all** in **Germany**? | **No** — **most** killing **east** of **pre-war** **Germany** (**A**). |
 | Was **Holodomor** **redacted**? | **Yes** — **Soviet** **suppression** **until** **late** **80s** (**A**). |
-| Did **Holodomor** **become** **Holocaust** **memory**? | **Partially** — **Western** **template** **and** **Soviet** **silence** **displaced** **Holodomor**; **Ukraine** **later** **borrowed** **Holocaust** **grammar** (**B**). |
+| Did **Holodomor** **become** **Holocaust** **memory**? | **No** (not **same** event remembered **as** Holocaust). **Partially** — **Western** **template** **displaced** **Holodomor**; **Ukraine** **later** **borrowed** **Holocaust** **grammar**; **competing** **East–West** **atrocity** **memory** (**§31**) (**B**). |
 | Did **Zionist Congress** **predict** **Holocaust**? | **No** **documented** **prediction**; **yes** **misery** **as** **propelling** **force** (**A**). **Weizmann 1937 meme** = **reject** as quoted (**§9.4**). |
 | Are **Protocols** **real**? | **Document** **exists**; **content** **forged** (**A**). |
 | Were **western** **camp** **photos** **caused** by **Allied** **bombing**? | **Partly** **for** **1945** **western** **sites**; **not** **explanation** **for** **death** **camps** **in** **Poland** (**A**–**B**). **Dees meme** (**§23**) = **reject** denial; **accept** Belsen **mis-attribution** kernel only. |
@@ -1316,7 +1542,15 @@ Cold War: West extracts Nazi brainpower (Paperclip) + fixes “German” guilt t
 | Were liberation photos **faked** (invented bodies)? | **No** — not maintainer claim; **§7.3** / **S3**. |
 | Why would the **West protect** Nazism? | **Partial** — **created/wielded** (**B**–**S**) + **preserved post-1945** for **anti-Russia** reuse (**A**–**B**, **§30**); **Ring** analogy **S**. |
 | **WW3** signs — **Merz**, **Ukraine** far-right? | **Partial** — Merz **Wehrdienstarmee** quotes **A**; **Azov**/insignia pattern **B** (**§30.3–30.4**). |
+| **East vs West** atrocity **memory** competition? | **Partial** — **Jasenovac** undertaught **B**; gradient **reality** **A**–**B**; **memory** **inflation** at **camp-photo west** **B**–**S** (**§31**). |
+| **Millions of Jews survived in Nazi Germany**? | **Reject** — **~72k** Reich remnant + **DP** influx; see **§31.4**. |
+| **MK**: Serbs **more** targeted than Jews for **total** extermination? | **Reject** — Jews **Final Solution**; Serbs **Ustaše/occupation** genocide **A**–**B**; MK bundles Serbs in **Slav** contempt (**§31.5**). |
+| ***V for Vendetta*** **based on** Jasenovac? | **Not documented** — **structural rhyme** **S**; Moore cites **Orwell** / **Nazi situation** generically (**§31.7**). |
+| Is this file **about** **total Jewish dead**? | **No** — **bracketed** for **mechanism** / **photo** / **memory** lanes (**§31.1**, **§31.9**). |
+| **Western** camp deaths = **Allied logistics** not extermination? | **Partial** — **final months** **camp-photo west** only (**§31.9**). |
+| **Jewish converts** counted at scale? | **Unknowable** — **Mischling** / hiding **partially** documented (**§31.10**). |
+| **Jasenovac** numbers — **RT primary**? | **Yes** (maintainer policy **§31.2a**); cross-ref **USHMM** / memorial **names** for **disputes**. |
 
 ---
 
-Keywords: #Holodomor #Holocaust #Memory #Redaction #ZionistCongress #Protocols #Bloodlands #BergenBelsen #EvidenceTiers
+Keywords: #Holodomor #Holocaust #Memory #Redaction #ZionistCongress #Protocols #Bloodlands #BergenBelsen #Jasenovac #EastWestMemory #EvidenceTiers

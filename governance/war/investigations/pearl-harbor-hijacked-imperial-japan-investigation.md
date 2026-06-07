@@ -15,7 +15,7 @@
 
 **Imperial Japan did not arise as pure endogenous ambition.** Western (especially **British–American**) diplomacy, finance, and military grooming over **~1853–1941** produced a **militarized imperial client** — then, when the **eastern thrust (Barbarossa)** failed to destroy Russia, **Pacific war** became the lever to **bring America in**, **meet the Red Army in central Germany**, and **prevent further Soviet westward expansion** — enabling **Paperclip**, **Gehlen**, **Unit 731 immunity**, and the **Repeat Crusade** script toward a third world war.
 
-**The problem was not “too much Japanese ambition alone.”** It was **redacted literature + Western equipment/training + controlled emperor/government layer + SIGINT dominance** — a **monster built abroad**, used to **attack Asia**, then **defeated publicly** so America could **“save” Asia** and **attack it again later** (Vietnam).
+**The problem was not “too much Japanese ambition alone.”** It was **redacted literature + Western equipment/training + controlled emperor/government layer + SIGINT dominance** — a **monster built abroad**, used to **attack Asia**, then **defeated publicly** so America could pose as **liberator** — then run the **same playbook** in Vietnam: **pick a side**, **arm it**, **help it attack neighbors**; **U.S. troops** only after the proxy war **stalled** (§9).
 
 **Epistemic tiers:**
 
@@ -214,17 +214,33 @@ Both fit [**Reverse Crusades**](./reverse-crusades-comparison.md): build a capab
 
 ---
 
-## 9. Asia play script — Japan attacks, America "saves," then Vietnam
+## 9. Asia play script — same method, different flag (Japan → U.S. → Vietnam)
+
+**Clarification (settled):** Vietnam is **not** best read as “America **attacked Asia again**” after **saving** it from Japan. The U.S. did **what Japan did** — **chose one side**, **supplied it**, and **helped it fight neighboring states** — then sent **large troop formations only when the chosen side was losing**. By then, **ordinary people worldwide** had begun to see the **repeat deception** (WWII entry via **Pearl Harbor**, **Gulf of Tonkin**, etc.).
 
 | Act | Event | Function |
 |-----|--------|----------|
-| 1 | Western **Meiji–Shōwa grooming** | Build **imperial Japan** |
-| 2 | **1931–41** Japan **attacks Asia** | Continental slaughter; **test** sustainment ideology ([Takenouchi §5.7](../../history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md)) |
-| 3 | **Pearl Harbor** → U.S. war | **Mobilize** American empire |
-| 4 | **1945** defeat Japan | **Liberator** narrative in Asia |
-| 5 | **1950s–70s Vietnam** | **Same U.S.** destroys Asia **again** — **no** lasting “save” |
+| 1 | Western **Meiji–Shōwa grooming** | Build **imperial Japan** as **regional attacker** |
+| 2 | **1931–41** Japan **attacks Asia** | **Pick continental targets**; ideology sustainment ([Takenouchi §5.7](../../history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md)) |
+| 3 | **Pearl Harbor** → U.S. war | **Mobilize** American empire (**deception entry** — §5, §13–§15) |
+| 4 | **1945** defeat Japan | **Liberator** narrative — **same method**, **different flag** |
+| 5 | **1950s–64 Vietnam (pre-escalation)** | **U.S. backs South Vietnam / Diem** — **proxy**: one side **armed** to **attack** North + neighbors in **containment** frame |
+| 6 | **1964+ Gulf of Tonkin → full intervention** | **Fabricated / contested trigger** ([Tonkin catalog](../../../events/false_flag/investigations/20th-21st-century-catalog.md)); **troops after** proxy war **not going well** |
+| 7 | **Global public** | **Deception literacy** rises — populations **remember WWII script**; resistance to **same game** |
 
-**Synthesis:** **Problem = Western-built monster + redacted history**, not essential Japanese folk evil.
+### 9.1 Parallel — Japan method vs U.S. method (author read)
+
+| | **Imperial Japan (1931–41)** | **United States (Vietnam era)** |
+|--|------------------------------|----------------------------------|
+| **Side chosen** | Manchukuo / client regimes; **continental thrust** | **South Vietnam** / anti-communist bloc |
+| **Mechanism** | Arm, train, **attack neighbors** | Arm, advise, **fund** — client **attacks** / civil war spreads |
+| **Full empire commit** | Pacific war after **China stall / oil / PH** | **Ground war scale** after **Diem collapse**, **Tonkin**, **Tet** pressure |
+| **Public story** | **Pan-Asian liberation** / emperor mission | **Containment** / **domino theory** / **freedom** |
+| **Deception layer** | Mukden staging, **Pearl Harbor** entry | **Gulf of Tonkin** (declassified fabrication); **escalation** after **proxy failure** |
+
+**Synthesis:** **Problem = Western-built monster + redacted history + repeatable proxy-then-escalate script**, not essential Japanese or American folk evil. **Liberator** is **narrative cover**; **method** is **side-picking + regional war** until **big power** must **step in**.
+
+**Tier:** Tonkin fabrication = **documented** (NSA **2005** declass); troop timing / public **deception memory** = **author thesis** with broad historical support.
 
 ---
 
@@ -259,7 +275,7 @@ All three fascist capstones face **legal or political neutralization** when the 
 | **War declaration** | Legal formalities messy in crisis | **Staged sequence** — attack first, **infamy** second, **Congress** third |
 | **Barbarossa ↔ Pearl** | Separate theaters | **Barbarossa stall → U.S. entry required** |
 | **731 immunity** | Cold War pragmatism | **Asset save** — proves **continuity**, not total victory |
-| **Asia arc** | Liberation | **Save then re-attack** (Vietnam) |
+| **Asia arc** | Liberation then containment | **Same side-pick / proxy war method** as Japan; **troops after proxy fails**; public **deception literacy** (Tonkin, WWII memory) — §9 |
 | **Grand strategy** | Japanese miscalculation; German overreach | **Ideology-licensed waste**; parallel **Italy→Germany / Japan→U.S.** trigger scripts |
 | **Axis leaders** | Individual tyranny | **Myth capstones** arrested/disposed at **different phases** (§11) |
 | **Physical proof of Japan attacking** | Decrypted orders; live pilots; carrier testimony | **Planes + dead bodies only** for air wave; **no attack pilot POW** (§13); staging thesis **open** (§14) |
