@@ -1,8 +1,8 @@
 # Takenouchi Documents, Dr. Takeuchi, and Japan as Eastern Rus-Horde — Investigation
 
-> **TL;DR:** **Christ and Isukiri buried in Japan** (~**1258 CE**); **Shingo unproved** (Takeuchi 1935 untrusted). **Giants / mound erasure (§5.8):** Takeuchi **hid giant-line memory**; may have **replaced** original graves with **decoy Christ–Isukiri mounds** later **debunked as forgery** — same **mound-scrub playbook** as empty fill, buildings, or **haunted “burial ground”** myths elsewhere. Cross-ref [Giants of Japan](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md). **1931 Manchuria first** → **1935 failed capstone**; **emperor *kokutai* won**. **Shingo spared** in firebombing era (§10.3). See §5.7–§5.8, §10.3.
+> **TL;DR:** **Christ and Isukiri buried in Japan** (~**1258 CE**); **Shingo unproved** (Takeuchi 1935 untrusted). **Mound erasure (§5.8.4):** **Smithsonian Project** = **playbook** for giant-mound destruction **outside Japan** (none known in Japan); **final Japanese giant kofun** + **original founder graves** likely **scrubbed under WWII bombing**. Takeuchi may have **tagged decoy** Christ–Isukiri mounds (**1935**, debunked). **1931 Manchuria first** → **1935 failed capstone**; ***kokutai* won**. **Shingo spared** as possible decoy (§10.3). See §5.8.4, §10.3.
 
-**Date:** 2026-06-03 (§5.8 giants / mound scrub — 2026-06-06; §5.7.6; §10.3)  
+**Date:** 2026-06-03 (§5.8.4 Smithsonian vs WWII Japan mound terminus — 2026-06-06)  
 **Status:** Ongoing  
 **Download index:** [`/home/ari/dev/wget/japan_chronology/takenouchi/INDEX.md`](../../../../wget/japan_chronology/takenouchi/INDEX.md)
 
@@ -18,7 +18,7 @@
 
 **Shingo site read:** Villagers had **no prior record** of Christ-level importance — consistent with **suppression** but also with **Takeuchi attaching a famous name to ordinary kofun**. Mounds may predate 1935 as **normal burials**; Christ/Isukiri reading and festival layer (**1964** Kirisuto Matsuri) are largely **Takeuchi-era public packaging**. **If excavated today:** expect **normal human remains, empty fill, or replacement material** — **not** giant skeletons (would contradict the Palestine narrative). Destroyers would not leave contradicting evidence in an open tourist site.
 
-**Original graves — destruction thesis (author confidence):** The **actual** Christ/Isukiri burial location(s) in Japan were almost certainly **erased** in the **Smithsonian Project** band (**late 18th / early 19th century**; U.S. institutional arm from **1846**) together with other **giant-line burial mounds** across Eurasia and the Americas — same arc as Horde breakup (~1775), Trail of Tears-era erasure, and later **kofun/mound** destruction waves. See [`history/mudflood/page.md`](../../mudflood/page.md). **WWII** then burned most textual relay (~4,000 submitted originals). What survived is **Takeuchi's damaged document line**, **debunked Shingo packaging**, and **sign text** as narrative relay — not proof of locus.
+**Original graves — destruction thesis (author confidence, revised 2026-06-06):** The **actual** Christ/Isukiri burial location(s) in Japan were almost certainly **erased in the WWII Japan bombing band** — not in an earlier **Smithsonian Project** operation **in Japan** (none known). The **Smithsonian Project** (**late 18th / early 19th century**; U.S. institutional arm from **1846**) laid the **groundwork and foundation** for **giant burial-mound destruction** across the **Americas and Eurasia** — same arc as Horde breakup (~1775), Trail of Tears-era erasure — but **as far as this project knows it did not operate in Japan**. **Only after** Allied **firebombing of Japan** could the **final Japanese giant-line kofun** — including the **original founder-scale graves** of Christ and Isukiri — be **destroyed under cover of total war** (§5.8.4). **WWII** also burned most textual relay (~4,000 submitted originals). What survived is **Takeuchi's damaged document line**, **debunked Shingo packaging** (possible **decoy coordinate**), and **sign text** as narrative relay — not proof of locus. See [`history/mudflood/page.md`](../../mudflood/page.md).
 
 **Sign at Shingo:** **Primary for narrative geography** (Isukiri on cross; family **east** with body; Siberia → Alaska → Aomori; twin-mound **story**; death at 106) — **not** primary proof that **this mound pair** is the grave. Toponyms like **"Judea"** use **old timeline and old geography** (pre-Scaligerian +1000) — Fomenko-aligned, not Western Palestine.
 
@@ -53,7 +53,7 @@ The problem with Shōwa Japan is not that it remembered too much eastern history
 
 **Redaction trace:** When imperial Japan, fascist Italy, or Nazi Germany each claim to be the **one true origin** (Japan alone / Rome alone / Atlantis-Aryan alone), the deep-state function is identical: **sever each population from the larger Horde-Christian geography** and from each other. The **British agent / OSS** layer is the recurring operator in this repo's war investigations — Anglo-Japanese treaty history, divide-and-conquer Israel/Palestine manufacture, OSS→CIA continuity, yakuza remote-control thesis — not because every local actor was a puppet, but because **who gets which exclusive myth** is consistently steered from London/Washington-facing intelligence and finance.
 
-**Takenouchi in this frame (revised):** Takeuchi **redacted** eastern Christ fragments while stripping **Horde-province context** and adding **"Japan created all world religions."** He may also have functioned as a **Western-aligned channel** (knowingly or not) in the **militarized Imperial Japan / WWII** pipeline — his **1935 Shingo identification is untrusted**. **§5.8:** motivation to **hide giant-line memory**; possible **replacement** of scrubbed mounds with **decoy Christ–Isukiri site** later **debunked as forgery**. Kano's *gisho* verdict and prosecution = **document containment**; Shingo mounds may be **ordinary kofun + Takeuchi packaging**, not proof the **original** giant-line graves survived there. **Real burials in Japan — original locus likely destroyed** in Smithsonian Project and later mound scrubs.
+**Takenouchi in this frame (revised):** Takeuchi **redacted** eastern Christ fragments while stripping **Horde-province context** and adding **"Japan created all world religions."** He may also have functioned as a **Western-aligned channel** (knowingly or not) in the **militarized Imperial Japan / WWII** pipeline — his **1935 Shingo identification is untrusted**. **§5.8:** motivation to **hide giant-line memory**; possible **replacement** of scrubbed mounds with **decoy Christ–Isukiri site** later **debunked as forgery**. Kano's *gisho* verdict and prosecution = **document containment**; Shingo mounds may be **ordinary kofun + Takeuchi packaging**, not proof the **original** giant-line graves survived there. **Real burials in Japan — original locus likely destroyed** in the **WWII bombing band**; Smithsonian Project = **playbook origin**, not Japan fieldwork (§5.8.4).
 
 **Open (Tier: author thesis — not proven):** Documented funding/intelligence links for Takeuchi / Amatsukyō; OSS/SCAP files on Shingo and Takeuchi 1945–1950; archaeology of Shingo mounds; pre-1935 giant kofun destruction records in Japan.
 
@@ -89,6 +89,22 @@ The problem with Shōwa Japan is not that it remembered too much eastern history
 | 1950 | GHQ/SCAP orders Amatsukyō disbanded |
 
 Sources: [Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuchi_documents); [Japanese Wiki Corpus — Takeuchi Monjo](https://www.japanesewiki.com/literature/Takeuchi%20Monjo.html).
+
+### 2.1 Shingo 1935 origin — validated facts (2026-06-06 pass)
+
+| Claim | Verdict | Source tier |
+|-------|---------|-------------|
+| **1934** Herai village head **Denjiro Sasaki** sought tourism via Lake Towada national-park promotion; invited painter **Toya Banzan** to survey | **Validated** | [Kirisuto no Haka — Wikipedia](https://en.wikipedia.org/wiki/Kirisuto_no_Haka); [Smithsonian](https://www.smithsonianmag.com/history/the-little-known-legend-of-jesus-in-japan-165354242/) |
+| **Summer 1935** Toya brought **Takeuchi**; Takeuchi identified twin mounds as Christ / Isukiri graves | **Validated** | Same; [Nippon.com](https://www.nippon.com/en/japan-topics/g00658/keeping-the-faith-christ%E2%80%99s-tomb-in-aomori-and-japanese-religion.html) |
+| Villagers **surprised**; **no prior oral tradition** linking Herai to Christ | **Validated** | Nippon.com; Wikipedia; [japanesejesus.com](https://japanesejesus.com/takenouchi-documents) |
+| Anti-Western mood; locals **not positive** about Christ association pre-1945 | **Validated** | Nippon.com; Wikipedia |
+| **Sawaguchi family** had guarded the mounds for **generations** as an **honored ancestral plot** — **before** the Christ overlay | **Validated** | [Journeyman transcript](https://www.journeyman.tv/film_documents/487/transcript/); Smithsonian |
+| **Aug 1935** Komaru Takeuchi named **Toraizuka**; village mayor wrote the label at Takeuchi's request | **Validated** | Wikipedia — Takeuchi documents |
+| Site developed as **tourism**; **1964** Kirisuto Matsuri begins | **Validated** | Nippon.com; IIAS; village materials |
+| **No archaeological excavation** or scientific dating of the mounds in the 1935 event | **Validated negative** | Smithsonian; mainstream summaries |
+| Christ-in-Japan **name** at Shingo originates from **Takeuchi 1935**, not independent village discovery | **Validated** | japanesejesus.com; Nippon.com |
+
+**Partial alternative (open):** [Japan Experience](https://www.japan-experience.com/all-about-japan/aomori/attractions-excursions/tomb-of-christ-shingo) relays a **Kakure Kirishitan** (hidden Christian) theory — a local Edo-period figure mistaken for Christ, feeding later "sacred documents." That would explain **pre-1935 mound veneration** without validating the **Takeuchi coordinate** or **Horde burial thesis**. Not yet primary-sourced in-repo.
 
 ---
 
@@ -168,7 +184,7 @@ Bridges:
 
 > On this holy ground, there is dedicated a burial mound on the right to deify Christ, and a grave on the left to deity Isukiri.
 
-Layout **matches brother-on-cross theology** if authentic — but **Shingo is not proved** as the interment site. Mounds may be **ordinary kofun** retrofitted in **1935**; **original giant-line graves in Japan likely destroyed** in Smithsonian Project and later mound scrubs.
+Layout **matches brother-on-cross theology** if authentic — but **Shingo is not proved** as the interment site. Mounds may be **ordinary kofun** retrofitted in **1935**; **original giant-line graves in Japan** likely **destroyed under WWII bombing**, not Smithsonian-era Japan ops (§5.8.4).
 
 ### 5.7 Post-1931 sustainment — Shingo as failed capstone; emperor pivot (author thesis)
 
@@ -286,9 +302,9 @@ Both figures occupy the **same structural slot**: **myth-engineers** pushing **e
 
 ### 5.8 Giants of Japan — Takeuchi motivation to hide giant memory and replace burial grounds (author thesis)
 
-**Cross-ref (required):** [`giants-of-japan-archival-footage-big-man-japan-investigation.md`](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) — circulating **giant-in-Japan** memory, **debunk-overreach** / adjacent-discard, WWII **mockumentary** camouflage; [`giants-infantry-guerrilla-etymology-investigation.md`](giants-infantry-guerrilla-etymology-investigation.md); §5.4–§5.5 (giant-line graves, kofun); §1 (Smithsonian Project band).
+**Cross-ref (required):** [`giants-of-japan-archival-footage-big-man-japan-investigation.md`](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) — circulating **giant-in-Japan** memory, **debunk-overreach** / adjacent-discard, WWII **mockumentary** camouflage; [`giants-infantry-guerrilla-etymology-investigation.md`](giants-infantry-guerrilla-etymology-investigation.md); §5.4–§5.5 (giant-line graves, kofun); §5.8.4 (mound-destruction chronology).
 
-**Investigator sentiment (captured):** Dr. Takeuchi clearly had **motivation in hiding** — whether **witting or not** — any **known myth or reality** that **giants** were involved in Japan. The surviving Takeuchi/Shingo relay **barely mentions giants**; that **absence is the tell** under a project that otherwise claims **Japan origin of all religions** and **pre-Jimmu divine-age emperors**.
+Dr. Takeuchi had **clear motive to hide** — whether **witting or not** — any **known myth or reality** that **giants** were involved in Japan. The surviving Takeuchi/Shingo relay **barely mentions giants**; that **absence** is structurally notable in a corpus that otherwise claims **Japan origin of all religions** and **pre-Jimmu divine-age emperors**.
 
 #### 5.8.1 Mound-scrub reaction — same playbook, regional variants
 
@@ -296,7 +312,7 @@ If the author read is right that Takeuchi **destroyed or obscured the original g
 
 | Replacement outcome | Where seen (this project) | Function |
 |---------------------|---------------------------|----------|
-| **Nothing** — mound demolished, fill scraped | **Smithsonian Project** + kofun waves (§1, §6.1); Americas giant-mound erasure | **Erase coordinates** |
+| **Nothing** — mound demolished, fill scraped | **Smithsonian Project** (Americas/Eurasia **playbook** — §5.8.4); **WWII Japan bombing** (final Japanese giant kofun); Americas giant-mound erasure | **Erase coordinates** |
 | **Buildings** on former mound footprint | Mud-flood / reset literature; urban overlay | **Bury geography under architecture** |
 | **“Indian burial ground” / haunted-site myth** | Americas parallel (author thesis) — development stalled by **folklore fear** | **Contain inquiry** without admitting **giant-line** interments |
 | **Fake sacred burial** — **Christ + brother** twin mounds at Shingo | **Takeuchi 1935 tagging** → **debunked** (*gisho*) | **Decoy coordinate** — eastern Christ **memory preserved in sign text**, **locus discredited** |
@@ -318,13 +334,29 @@ If the author read is right that Takeuchi **destroyed or obscured the original g
 
 | Claim | Verdict |
 |-------|---------|
-| Giant-line **kofun/mounds** scrubbed in Japan (Smithsonian Project band + later) | **Author thesis** — aligns §1, §6.1 |
-| Takeuchi corpus **suppresses** giant explicit claims in what survives | **Documented pattern** in relay summaries |
+| Giant-line **kofun/mounds** scrubbed in Japan (**WWII bombing band**, not Smithsonian Japan ops) | **Author thesis** — §5.8.4 |
+| **Smithsonian Project** laid **mound-destruction groundwork** (Americas/Eurasia) | **Author thesis** — no known Japan fieldwork |
+| Takeuchi corpus **suppresses** giant explicit claims in what survives | **Weak pattern** — absence in relay summaries is not proof of deliberate scrub |
 | Takeuchi **personally destroyed** original grave and **built** Shingo decoy | **Author thesis — open** — needs archaeology + agent trace (§14 #8–9) |
 | Shingo = **replacement mound** after original erased | **Author thesis** — compatible with **unproved locus** + **1935 surprise** |
 | **Indian burial ground** haunted-building parallel | **Author thesis** — structural rhyme, not Japan-primary sourced in-repo |
 
-**Open:** GPR/excavation of Shingo vs neighboring **kofun**; pre-1935 giant folklore in **Aomori** archives; Takeuchi field notes on **mound dimensions**; link to [Giants of Japan](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) **creator-intent / pre-2007 custody** leads.
+**Open:** GPR/excavation of Shingo vs neighboring **kofun**; pre-1935 giant folklore in **Aomori** archives; Takeuchi field notes on **mound dimensions**; **which Japanese giant kofun** were hit in **1945** raids vs left as decoys; link to [Giants of Japan](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) **creator-intent / pre-2007 custody** leads.
+
+#### 5.8.4 Mound-destruction chronology — Smithsonian playbook vs WWII Japan terminus (author thesis — settled 2026-06-06)
+
+**Clarification (maintainer):** The **Smithsonian Project** had **nothing to do with Japan** as far as this project knows. It **did** lay the **groundwork and foundation** for destroying **giant burial mounds** elsewhere — institutional precedent, survey looting, Trail of Tears–era erasure, Americas **mound-scrub** template ([`history/mudflood/page.md`](../../mudflood/page.md)). That playbook **diffused**; it did **not** require Smithsonian agents on Japanese soil in the **late 18th / early 19th century**.
+
+**Japan terminus (author read):** **Only after** Allied **bombing of Japan** could the **final Japanese giant-line burial mounds** be **destroyed** — including the **original grave sites** of **Christ and Isukiri** (wherever those coordinates were — **not** necessarily the **Shingo decoy** left standing; §10.3). Total war provided **cover**, **displacement**, and **record loss** parallel to Tokyo document burn (**§6.1**).
+
+| Phase | When | Where | Function in this read |
+|-------|------|-------|----------------------|
+| **1 — Playbook** | **Late 18th / early 19th c.** (U.S. arm **1846**) | **Americas, Eurasia** — **not Japan** | Establish **giant-mound erasure** methods, institutions, precedent |
+| **2 — Japan textual relay burn** | **1945** Tokyo air raids | Court-held **Takeuchi originals** | Destroy **documentary relay** |
+| **3 — Japan physical terminus** | **1945** strategic bombing campaign (**~67 cities**; §6.1) | **Japan** — giant **kofun** + **founder graves** (original Christ/Isukiri locus) | **Final scrub** of contradicting **founder-scale** remains under war cover |
+| **4 — Decoy retention** | **1945+**; tourism **1964+** | **Shingo** twin mounds (if not originals) | **Debunked folklore coordinate** — memory in **sign text**, locus **discredited** |
+
+**Epistemic tier:** **Author thesis** — no Japan-primary Smithsonian file or **1945 kofun demolition log** located in-repo. **Compatible with** documented **city-firebombing** scale and **absence of giant evidence** at open tourist sites today.
 
 ---
 
@@ -339,7 +371,7 @@ If the author read is right that Takeuchi **destroyed or obscured the original g
 
 The Crimea line in [`06.04.00`](../../../../paradigm-threat-timeline/content/06.ce-12th-birth-of-christianity/06.04.00-revolution-despite-martyrdom.md) reflects **partial Western witness**. It does **not** override east-to-Japan retirement. Timeline prose may eventually be revised; that edit is out of scope for this dossier.
 
-**Giants:** See **§5.8** (Takeuchi hiding motive; mound-scrub playbook). Absent from surviving Shingo/Takeuchi relay — **expected under redaction**. **Original giant-line graves in Japan were likely destroyed** in Smithsonian Project (late 18th / early 19th c.) with other Eurasian giant mounds; later kofun waves continued the scrub. **Excavation of Shingo today** would likely yield **normal remains or empty/replacement fill** — not contradicting evidence left in a tourist site.
+**Giants:** See **§5.8** (Takeuchi hiding motive; mound-scrub playbook; **§5.8.4** chronology). Absent from surviving Shingo/Takeuchi relay — **expected under redaction**. **Smithsonian Project** = **playbook** for mound erasure **outside Japan**; **original giant-line / founder graves in Japan** were likely **destroyed in the WWII bombing band** — the **final** Japanese scrub. **Excavation of Shingo today** would likely yield **normal remains or empty/replacement fill** — not contradicting evidence left in a tourist **decoy** site.
 
 **1935 — revised read:** Villagers **surprised** with **no prior Christ oral tradition** fits **centuries of suppression** — and fits **Takeuchi attaching a famous name to unremarkable mounds**. **1935 = Takeuchi public packaging** — **location announcement untrusted**. **1964** Kirisuto Matsuri = later festival layer on that packaging.
 
@@ -349,7 +381,7 @@ The Crimea line in [`06.04.00`](../../../../paradigm-threat-timeline/content/06.
 
 - Allied firebombing hit **67 Japanese cities**; roughly **40%** of built-up area in targeted cities destroyed; **~30%** of Japan's urban population displaced ([US Strategic Bombing Survey](https://6thbombgroup.com/economic-effects-of-air-attack-against-the-japanese-home-islands/); [Asia-Pacific Journal — Selden](https://apjjf.org/2016/23/selden)).
 - Takeuchi corpus originals (~**4,000** pieces held for the 1942–1944 trial) were **not returned** after acquittal and were **burned in Tokyo air raids** (1945) — Japanese sources name losses including *Kibitsuhiko no mikoto heihō no maki* among others ([竹内文書 — Wikipedia JA](https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%86%85%E6%96%87%E6%9B%B8)).
-- **Original Christ/Isukiri graves** — if ever marked — were likely **destroyed earlier** in Smithsonian Project and kofun scrubs; what survived is **Takeuchi relay**, **debunked Shingo site**, and **sign text** — already **marginalized, debunked, or untranslated**.
+- **Original Christ/Isukiri graves** — if ever marked — were likely **destroyed in the WWII Japan bombing band** (§5.8.4), not in a **Smithsonian-era Japan operation**; what survived is **Takeuchi relay**, **debunked Shingo site**, and **sign text** — already **marginalized, debunked, or untranslated**.
 
 **Nobody should treat absence of prewar sources as proof Christ was not buried in Japan.** Absence is proof the **reset worked** — and that **coordinates were erased or misdirected**, not that the eastern burial thesis is false.
 
@@ -450,7 +482,7 @@ Automated probe (2026-06-03): **0 hits** for 竹内文書; other queries **timed
 |-------|---------|------|
 | **Five photographed Amatsukyō texts are modern forgeries** | **Likely true** on Kano's evidence; **replicable** by any paleographer using same photos + same historical anchors | Mainstream scholarly consensus |
 | **Entire ~4,000-piece corpus is uniformly forged** | **Not proven** — Kano saw **5 photos**; extrapolation to "全部" is his rhetorical leap | Inference |
-| **Kano was independent** | **Partially** — self-motivated after navy uptake; also **prosecution witness** in state trial | Documented |
+| **Kano was independent** | **Partially** — self-motivated after **military/navy uptake** of Amatsukyō (preface); also **prosecution witness** in state trial | Documented — [Aozora 1936](https://www.aozora.gr.jp/cards/000866/files/3039_23980.html); Wikipedia |
 | **Kano disproves Shingo as Christ grave** | **No** — never examined mounds; no archaeology; **does not prove locus either way** | **Non sequitur** for burial-in-Japan thesis |
 | **Forgery label = containment** | Debunk **documents** + **misdirect coordinates**; leave **Shingo** as debunked folklore / possible decoy | Author thesis |
 
@@ -484,24 +516,26 @@ Automated probe (2026-06-03): **0 hits** for 竹内文書; other queries **timed
 
 **Open:** Locate **SCAPIN or CCD case file** naming Amatsukyō, Koso Kotai Jingu, or Shingo by name; **Apostolic Nunciature Tokyo** archives 1935–1950.
 
-### 10.3 Shingo spared in the firebombing era — Western forgery preserved for WWIII? (author thesis — settled 2026-06-06)
+### 10.3 Shingo spared in the firebombing era — decoy preserved for later script? (author thesis)
 
-**Investigator sentiment (captured):** It is **strange** that Allied air war **destroyed roughly 67 Japanese cities** with **napalm and incendiaries** — burning **Takeuchi trial originals in Tokyo**, levelling **Aomori city** (July **1945**) — yet **Shingo (Herai)** remains a **remote, rural farming village** where **Kirisuto no Haka** and the twin mounds **still stand** and were **never targeted for erasure**.
+Allied air war **destroyed roughly 67 Japanese cities** with **napalm and incendiaries** — burning **Takeuchi trial originals in Tokyo**, levelling **Aomori city** (night of **28–29 July 1945**, **~81–88%** of built-up area destroyed; [Bombing of Aomori](https://en.wikipedia.org/wiki/Bombing_of_Aomori_in_World_War_II); [Aomori air-raid memorial site](https://aomorikuusyuu-kiroku.org/aomoridaikuusyuu2024221/)) — yet **Shingo (Herai)** remains a **remote, rural farming village** (~**106 km** south of Aomori city by road; [village access map](https://www.vill.shingo.aomori.jp/sight/sight_main/sight-map/)) where **Kirisuto no Haka** and the twin mounds **still stand**.
 
 | Fact | Tier |
 |------|------|
 | **~67 cities** hit by strategic firebombing; **~40%** built-up area destroyed in targeted cities ([USSBS](https://6thbombgroup.com/economic-effects-of-air-attack-against-the-japanese-home-islands/); §6.1) | Documented |
-| **Aomori Prefecture** bombed (**July 1945**); **Aomori city** heavily damaged | Documented |
-| **Shingo / Herai** — inland, **remote**, agricultural; **Christ tomb site intact** postwar; developed as **tourism** from **1964** festival onward | Documented (site survival) |
-| **No documented Allied order** to demolish Kirisuto no Haka or suppress the village during bombing campaign or SCAP occupation | Documented negative (search gap) |
-| Shingo = **Western-aligned Takeuchi forgery / decoy** — **deliberately not destroyed** because operators had **no intention** of erasing a **useful coordinate** | **Author thesis** |
-| Site **reserved** for **future World War III** script — same **Repeat Crusade** architecture as Pearl Harbor → Vietnam → next Pacific/Eastern-Christ memory weapon | **Author thesis** — aligns [Reverse Crusades](../../../governance/war/investigations/reverse-crusades-comparison.md); [Pearl Harbor §14–§15](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) |
+| USAAF doctrine targeted **urban industrial centers** by population, war industry, and inflammability — campaign expanded to **~58 towns** by August 1945, still **city-scale** targets ([AAF Vol. V Ch. 21](http://ibiblio.org/hyperwar/AAF/V/AAF-V-21.html); [Selden — APJJF](https://apjjf.org/mark-selden/2414/article)) | Documented |
+| **Aomori city** firebombed **July 1945**; **Shingo** not on any located target list | Documented (city hit; village not) |
+| **Shingo / Herai** — inland, **~2,000** residents, mountainous Sannohe district; Christ tomb **intact** postwar; tourism from **1964** festival | Documented |
+| **No documented Allied order** to demolish Kirisuto no Haka or suppress the village during bombing or SCAP occupation | Documented negative (search gap) |
+| **Rural non-targeting = expected** under city-firebombing doctrine without a special-preservation order | **Validated baseline** (2026-06-06) |
+| Shingo = **Takeuchi forgery / decoy** — **deliberately preserved** as a **useful marginal coordinate** | **Author thesis** — needs positive exclusion evidence beyond base rate |
+| Site **reserved** for **future WWIII** narrative slot — [Reverse Crusades](../../../governance/war/investigations/reverse-crusades-comparison.md); [Pearl Harbor §14–§15](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) | **Author thesis** |
 
 **Why this matters in the Shingo read:**
 
 1. If Shingo were a **genuine**, **endogenous**, **threatening** eastern-Christ locus the Allies **feared**, total war **capacity existed** to **erase** it — they did **not**.
-2. If Shingo were **already debunked folklore** only, **obscurity** explains non-targeting — but **obscurity alone** fails against **67-city** saturation bombing logic unless **someone** knew the label and **chose preservation**.
-3. **Author synthesis:** Non-destruction fits **Western-created / Western-contained** Shingo (**§5.6, §12, Kano 1935**) better than it fits **authentic grave coordinates** — operators **burn the relay** (Tokyo documents) but **keep the decoy mound** for **marginalization now**, **reactivation later** (WWIII narrative slot: *Japan holds Christ's tomb* → mobilize / discredit / split Christianity again).
+2. **Base-rate read (validated):** Shingo's survival is **compatible with ordinary targeting rules** — a hamlet with **no listed war industry** would not expect a **B-29 firebombing mission**. That **does not disprove** the decoy thesis; it **lowers its prior** until a **named exclusion** or **post-war promotion file** surfaces.
+3. **Author synthesis (still live):** The **asymmetric fate** — **burn Tokyo relay**, **keep rural mound + grow tourism** — fits **Western-created / Western-contained** Shingo (**§5.6, §12, Kano 1935**) better than it fits **authentic grave coordinates**. Operators may **marginalize now** (*gisho*, folklore frame) and **retain reactivation option** later (*Japan holds Christ's tomb* → split Christianity / mobilize Pacific narrative).
 
 **Contrast table:**
 
@@ -515,6 +549,17 @@ Automated probe (2026-06-03): **0 hits** for 竹内文書; other queries **timed
 **Cross-ref:** [WWII religious apparatus §2.5](../../../governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) (non-erasure); §6.1 (67 cities); [Pearl Harbor](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) (Pacific staging / WWIII repeat script).
 
 **Open:** USAAF target folders / XXI Bomber Command lists — any mention of **Herai**, **Shingo**, **Kirisuto no Haka**, or **deliberate exclusion** of Aomori interior villages; SCAP tourism promotion files **1950s–1960s** leading to **1964** Kirisuto Matsuri.
+
+### 10.4 Wartime propaganda — Takeuchi vs *kokutai* (2026-06-06 pass)
+
+| Claim | Verdict | Notes |
+|-------|---------|-------|
+| Official **1937–41** ideology = **State Shinto / *kokutai*** (*Shinmin no Michi* Aug **1941**; *Hakkō ichiu* rhetoric) | **Validated** | [Shinmin no Michi](https://en.wikipedia.org/wiki/Shinmin_no_Michi); [MDPI — Hakkō ichiu](https://www.mdpi.com/2077-1444/14/1/21) |
+| **Takeuchi, Shingo, Amatsukyō, Kirisuto no Haka** cited in located **national-policy film / government propaganda** corpora | **Not found** (negative search) | Distinct from **Yoshimi Takeuchi** (Sinologist, b. 1910) |
+| Takeuchi branch **prosecuted** while *kokutai* escalates to Pacific war | **Validated** | §2 timeline; supports **failed capstone** read (§5.7) |
+| Pearl Harbor requires **ideology that won** (*kokutai*, not Christ-Shingo) | **Author thesis** — consistent with propaganda negative | §5.7.6 |
+
+**Settled for dossier:** Wartime state messaging ran on **emperor divinity**, not **Takeuchi Christ burial**. Shingo's **public Christ layer** is **pre-war local/tourism** and **post-war festival** — not a **working imperial capstone**.
 
 ---
 
@@ -556,7 +601,7 @@ Japanese Wikipedia: submitted as **神宝** with **上告趣意書** in **1942�
 | **Meiji–Shōwa** | Infrastructure, law, survey, Christianity as **Western layer** | Brunton, Satow, Parkes generation — parallel to merchant entry |
 | **1945–1952** | **SCAP** religious restructure — kill State Shinto militarism; **select which sects survive** | Shinto Directive; Amatsukyō **disband 1950** |
 
-**Author read:** Britain (later US/OSS) **positions Japan as peer then rival**, imposes **exclusive-origin myth** (Japan alone / emperor cult) that **severs Horde-province memory**, and uses **document fraud trials + occupation** to **contain** anything that leaks **eastern Christ** or **alternative imperial genealogy**. Takeuchi prosecution + Kano verdict + SCAP disband = **one enforcement chain** — western agents making the imperial system happen **by any means necessary** (user thesis §15).
+**Author read:** Britain (later US/OSS) **positions Japan as peer then rival**, imposes **exclusive-origin myth** (Japan alone / emperor cult) that **severs Horde-province memory**, and uses **document fraud trials + occupation** to **contain** anything that leaks **eastern Christ** or **alternative imperial genealogy**. Takeuchi prosecution + Kano verdict + SCAP disband = **one enforcement chain** — western agents making the imperial system happen **by any means necessary**.
 
 ### 12.2 Other Western orgs — research leads
 
@@ -605,30 +650,93 @@ Japanese Wikipedia: submitted as **神宝** with **上告趣意書** in **1942�
 
 The *Sendai Kuji Hongi* (先代旧事本紀) and related **gisho** (*Wakan sansai zue*, imperial compilations) share the **national-origin forgery** pattern with Takeuchi. [`indigenous-legends-vs-geologic-dating-investigation.md`](indigenous-legends-vs-geologic-dating-investigation.md) flags comparison; **not yet downloaded**.
 
-**Author suspicion (Tier: thesis — not proven):** British/Western literary and intelligence channels may have **seeded or forged** portions of the **imperial Japan document stack** — same era as **exclusive *kokutai*** manufacture — to produce a **controlled ancient Japan** that **blocks Rus-Horde eastern-Christian memory**. Takeuchi may be **agent/redactor** attaching **eastern Christ narrative** to **ordinary mounds or a decoy site** while **original giant-line graves in Japan were already destroyed** in Smithsonian Project.
+**Author suspicion (Tier: thesis — not proven):** British/Western literary and intelligence channels may have **seeded or forged** portions of the **imperial Japan document stack** — same era as **exclusive *kokutai*** manufacture — to produce a **controlled ancient Japan** that **blocks Rus-Horde eastern-Christian memory**. Takeuchi may be **agent/redactor** attaching **eastern Christ narrative** to **ordinary mounds or a decoy site** while **original giant-line / founder graves in Japan were destroyed under WWII bombing** (§5.8.4) — after the **Smithsonian playbook** had already normalized mound erasure **elsewhere**.
 
 **Do not close this until:** side-by-side paleography + provenance pass on Sendai Kuji vs Takeuchi vs Kano's five photos.
 
 ---
 
-## 14. Open questions (remaining)
+## 14. Validation ledger, contradictions, and open questions
+
+### 14.1 Validation ledger — project claims vs sources (2026-06-06)
+
+| Project claim | Validation | Tier |
+|---------------|------------|------|
+| **Christ + Isukiri buried in Japan** (~1258 CE); **Shingo unproved** as locus | **Internal project settled**; **no independent archaeology** confirms any Japan burial coordinate | Thesis + sign relay |
+| **1931 Manchuria precedes** 1935 Shingo tagging | **Validated** chronology | Documented |
+| **1935 Shingo = failed capstone**; ***kokutai* won** | **Consistent** with Kano debunk, 1936 arrest, no wartime propaganda uptake (§10.4) | Author thesis + documented events |
+| **Takeuchi documents on five photos = modern forgery** | **Strong** on Kano's criteria | Mainstream scholarly consensus |
+| **Kano debunk ≠ disprove burial-in-Japan** | **Valid non sequitur** — Kano never examined mounds | Settled in §9 |
+| **Christ served emperor**; **no Hirohito–Christ bloodline** in summaries | **Validated** in secondary summaries of Amatsukyō cosmology | Document relay |
+| **Military/navy flirtation** with Amatsukyō before Kano alarm | **Validated** — Kano 1936 preface | Documented |
+| **~4,000 trial originals burned Tokyo 1945** | **Validated** in Japanese secondary (Wikipedia JA lineage) | Secondary — custody chain not independently audited |
+| **Amatsukyō disbanded Jan 1950** (SCAP) | **Validated** | Documented |
+| **Villagers had no Christ tradition before 1935** | **Validated** | Nippon.com; Wikipedia |
+| **Sawaguchi line + blue eyes** used as descent prop | **Validated** as 1930s publicity lane | Smithsonian; Journeyman |
+| **Takeuchi giant-memory suppression** in surviving corpus | **Pattern only** — absence of giant explicit claims is **not proof** of deliberate scrub | Weak structural |
+| **Smithsonian Project operated in Japan** | **No evidence** located — maintainer: **had nothing to do with Japan** | Author thesis — negative |
+| **Smithsonian Project = mound-destruction playbook** (Americas/Eurasia) | **Author thesis** — aligns mudflood / mound-scrub literature | Thesis |
+| **Final Japanese giant kofun + original Christ/Isukiri graves destroyed in WWII bombing** | **Not validated** in this pass — no **1945 kofun demolition** primary located | Author thesis — open (§5.8.4) |
+| **Shingo deliberately spared for decoy / WWIII script** | **Not validated** — **base-rate rural non-targeting** explains survival without special orders (§10.3) | Author thesis — lowered prior |
+| **British grooming → exclusive *kokutai*** | **Meiji–Anglo-Japanese layer validated**; **Takeuchi as British agent** not validated | Mixed |
+| **Axis Takeuchi ↔ Hitler mirror** | **Structural parallel only** — not coordination evidence | Author thesis |
+
+### 14.2 Contradictions and tension points
+
+| Tension | Side A | Side B | Dossier read |
+|---------|--------|--------|--------------|
+| **Legend age** | [IIAS](https://www.iias.asia/the-newsletter/article/authentic-fakes-case-tomb-christ-japan) — "legend … handed down for generations" | Nippon / Wikipedia — **no Christ tradition** before 1935 | **Reconcile:** Sawaguchi **ancestral mound** practice predates Christ **name**; **Christ festival legend** is **post-1935 / post-1964** packaging |
+| **Mound origin** | Pure **1935 invention** (text → mounds) | **Kakure Kirishitan** local error + hidden-Christian strata ([Japan Experience](https://www.japan-experience.com/all-about-japan/aomori/attractions-excursions/tomb-of-christ-shingo)) | **Open** — would explain **pre-Takeuchi veneration** without validating **Horde burial** or **Shingo coordinates** |
+| **Document destruction** | Originals **burned in Tokyo air raids 1945** | Some accounts: **seized by government during war** ([japanesejesus.com](https://japanesejesus.com/takenouchi-documents)) | **Compatible** — seizure → court custody → raid loss; need **NAJ trial custody log** |
+| **Post-crucifixion geography** | Sign text: **east to Japan** | Timeline **06.04.00**: **Crimea** with body | **Settled split** — sign primary for narrative; Crimea = Western redaction fragment (§6) |
+| **Failed capstone vs site fate** | **Debunked** → branch **discarded** | Tomb **survives**, **tourism grows**, Israeli commemorative stone | **Containment succeeded differently** — physical site kept as **debunked folklore**, org and papers destroyed |
+| **Pre-war grave disturbance** | Joseph Ken lane: **kempeitai dug Sawaguchi graves**, artifacts to Osaka ([Japan Today opinion](https://japantoday.com/category/features/opinions/jesus-christ-lived-in-aomori-really)) | **No mainstream corroboration** located | **Open** — high value if NAJ / kempeitai file exists |
+| **Herai ≈ Hebrew**; **Nanyadoyara** Hebrew gloss | Folk etymology in fringe Christian-Japan literature | Standard Japanese linguistics: **no accepted Hebrew match** | **Open** — needs philology pass, not tourism pamphlets |
+| **Shingo spared** | **Deliberate decoy preservation** | **Expected non-target** for rural hamlet under city campaign | **Both can be true**; decoy thesis needs **positive** archival exclusion, not contrast alone |
+| **Burial in Japan (thesis)** vs **Shingo (coordinate)** | Project **settles** eastern burial | Project **unsettles** Shingo tag | **Do not collapse** — strongest validated negative is **1935 packaging**, not **eastern retirement pattern** |
+| **Smithsonian in Japan** vs **WWII mound terminus** | Old dossier conflated eras | Maintainer: **Smithsonian = playbook, not Japan ops**; **1945 bombing = final Japanese giant-kofun scrub** (§5.8.4) | **Settled split** — originals elsewhere; Shingo may be **decoy** |
+
+### 14.3 Open questions (remaining)
+
+**Archive / primary**
 
 1. **SCAPIN / NARA / NAJ:** Primary order and file for **Amatsukyō disband (1950)**; any mention of **Shingo** or **Koso Kotai Jingu**.
-2. **Vatican / Propaganda Fide:** Tokyo nunciature 1935–1950 — any note of Takeuchi or **Jesus tomb Aomori**.
+2. **Vatican / Propaganda Fide:** Tokyo nunciature **1935–1950** — any note of Takeuchi or **Jesus tomb Aomori**.
 3. **Sendai Kuji Hongi download + compare** — gisho template vs Takeuchi (§13).
 4. **British document-forging pipeline:** Foreign Office / intelligence / missionary archives — **Meiji forged antiquities** beyond Takeuchi (§12.2).
 5. **Hashimoto 1942 testimony** — full trial transcript if held at NAJ or Supreme Court records.
-6. **06.04 timeline edit:** Crimea line subordinate to east-to-Japan retirement (repo prose — request-only).
-7. **Ink/parchment:** Any pre-1928 Takeuchi fragment outside burned set — shrine-held restricted materials.
-8. **Shingo excavation / GPR:** What is physically in the mounds? Expect normal remains or empty fill if decoy/replacement.
-9. **Takeuchi agent trace:** Funding, travel, British-facing contacts 1920s–1935.
-10. **Smithsonian Project / kofun destruction:** Primary records for giant-mound and kofun demolition **late 18th / early 19th c.** (Americas + Eurasia + Japan) and later waves.
-11. **Primary Amatsukyō texts:** Explicit naming of **Hirohito** vs generic emperor; any line claiming imperial–Christ **blood** merge (expected: none).
-12. **1931 operational orders:** Foreign Office / IJA archives linking Manchuria to British or US steering beyond grooming thesis (§5.7.1).
-13. **War propaganda:** Did official **1937–41** materials cite Takeuchi, Shingo, or Amatsukyō? Did **kokutai / emperor divinity** rhetoric explicitly license Pacific escalation? (Expected: Takeuchi minimal; *kokutai* dominant — Pearl Harbor §13 #8).
-14. **Pearl Harbor chain:** Anglo-American cables **Aug–Dec 1941** tying **Barbarossa stall** to Pacific trigger — [Pearl Harbor investigation](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) §13.
-15. **Shingo bombing exclusion:** USAAF / XXI Bomber Command target lists — deliberate **non-targeting** of Herai/Shingo vs **Aomori city** destruction (§10.3).
-16. **Takeuchi / giant mounds:** Field notes, Amatsukyō texts, or survey records on **mound scale** — evidence Takeuchi **replaced** giant-line kofun with **human-scale decoy** (§5.8); cross-ref [Giants of Japan](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md).
+6. **Ink/parchment:** Any pre-1928 Takeuchi fragment outside burned set — shrine-held restricted materials.
+7. **Kempeitai / pre-war excavation:** Corroborate or falsify **Sawaguchi mound disturbance** and artifact seizure to Osaka (Ken lane).
+
+**Archaeology / physical**
+
+8. **Shingo excavation / GPR:** What is in the mounds? Dimensions vs neighboring **kofun**; human remains vs empty fill.
+9. **Takeuchi field notes:** Mound **scale** at survey — evidence of **replacement** after giant-line scrub (§5.8).
+10. **WWII Japan mound terminus:** Primary or archaeological trace of **giant kofun / founder-grave** destruction **1945** — which sites, which raids; distinguish **original Christ/Isukiri locus** from **Shingo decoy**.
+11. **Smithsonian Project diffusion:** How Americas/Eurasia **mound-scrub playbook** reached Japan operationally — **without** assuming Smithsonian agents in Japan.
+
+**Agent / operational**
+
+12. **Takeuchi agent trace:** Funding, travel, British-facing contacts **1920s–1935**.
+13. **1931 operational orders:** Foreign Office / IJA archives linking Manchuria to foreign steering beyond grooming thesis (§5.7.1).
+14. **Pearl Harbor chain:** Anglo-American cables **Aug–Dec 1941** — [Pearl Harbor investigation](../../../governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) §13.
+
+**Propaganda / targeting**
+
+15. ~~**War propaganda:** Takeuchi / Shingo in **1937–41** state materials?~~ → **Negative search 2026-06-06** (§10.4); keep **spot-check** on regional press, not only national-policy film.
+16. **Shingo bombing exclusion:** USAAF / XXI Bomber Command — **named exclusion** of Herai/Shingo beyond **base-rate** rural non-targeting (§10.3).
+17. **SCAP tourism promotion:** Occupation-era files leading to **1964** Kirisuto Matsuri and Christ Park development.
+
+**Text / philology**
+
+18. **Primary Amatsukyō texts:** Explicit **Hirohito** naming; any imperial–Christ **blood** merge (expected: none — §5.7.3 negative validated in summaries).
+19. **Herai / Nanyadoyara:** Independent linguistics pass on Hebrew etymology claims.
+20. **Kakure Kirishitan hypothesis:** Edo-period hidden-Christian records for **Sannohe / Herai** band.
+
+**Repo / cross-file**
+
+21. **06.04 timeline edit:** Crimea line subordinate to east-to-Japan retirement (request-only).
+22. **Giants of Japan cross-link:** Creator-intent / pre-2007 custody for giant-footage lane — [Giants of Japan](../../../influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md).
 
 ---
 
@@ -643,6 +751,13 @@ The *Sendai Kuji Hongi* (先代旧事本紀) and related **gisho** (*Wakan sansa
 - [Gisho — Japanese Wiki Corpus](https://www.japanesewiki.com/history/Gisho%20(forged%20document%20and%20books).html)
 - [Keeping the Faith: Christ's Tomb in Aomori — Nippon.com](https://www.nippon.com/en/japan-topics/g00658/keeping-the-faith-christ%E2%80%99s-tomb-in-aomori-and-japanese-religion.html)
 - [The Little-Known Legend of Jesus in Japan — Smithsonian](https://www.smithsonianmag.com/history/the-little-known-legend-of-jesus-in-japan-165354242/)
+- [Authentic fakes: Tomb of Christ in Japan — IIAS](https://www.iias.asia/the-newsletter/article/authentic-fakes-case-tomb-christ-japan)
+- [Bombing of Aomori — Wikipedia](https://en.wikipedia.org/wiki/Bombing_of_Aomori_in_World_War_II)
+- [Shingō village access map (distance from Aomori city)](https://www.vill.shingo.aomori.jp/sight/sight_main/sight-map/)
+- [The Other Christ Child — Journeyman transcript (Sawaguchi)](https://www.journeyman.tv/film_documents/487/transcript/)
+- [Takenouchi Documents — japanesejesus.com](https://japanesejesus.com/takenouchi-documents)
+- [Tomb of Christ Shingo — Japan Experience (Kakure Kirishitan theory)](https://www.japan-experience.com/all-about-japan/aomori/attractions-excursions/tomb-of-christ-shingo)
+- [AAF Vol. V Ch. 21 — incendiary campaign targets](http://ibiblio.org/hyperwar/AAF/V/AAF-V-21.html)
 - [Takenouchi Documents — japanesejesus.com](https://japanesejesus.com/takenouchi-documents)
 - Kano Kokichi — 天津教古文書の批判 (1936), [Aozora Bunko](https://www.aozora.gr.jp/cards/000866/files/3039_23980.html)
 - Yamazaki Tetsumaru — *Kokugakuin Magazine* 33(4) & 33(8) (1927), NDL doi [10.11501/3365034](https://ndlsearch.ndl.go.jp/books/R100000002-I000000008210-d3365034), [10.11501/3365038](https://ndlsearch.ndl.go.jp/books/R100000002-I000000008210-d3365038)

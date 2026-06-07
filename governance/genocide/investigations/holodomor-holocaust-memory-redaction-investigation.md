@@ -1285,7 +1285,7 @@ Cold War: West extracts Nazi brainpower (Paperclip) + fixes “German” guilt t
 
 ## §31. East–West atrocity memory competition — Jasenovac lead, gradient reality, Jewish survival register (**2026-06-05**)
 
-> **Maintainer correction (voice / transcription):** **Holodomor** was **not** “remembered **as** the Holocaust.” The sharper claim is **competing atrocity memory regimes** — **who** gets taught, **who** gets monuments, **who** gets punished for speaking — with **Western** machinery centering **camp-photo west + census-number debate** while **eastern / collaborative** catastrophes stay **undertaught** or **taboo** (Soviet **Holodomor** silence; Yugoslav / Croatian **Jasenovac** revisionism). Other likely transcription slips from maintainer sessions: **“Haunted Manor” → Holodomor**; **“jasenovec” → Jasenovac**.
+> **Holodomor** was **not** “remembered **as** the Holocaust.” The sharper claim is **competing atrocity memory regimes** — **who** gets taught, **who** gets monuments, **who** gets punished for speaking — with **Western** machinery centering **camp-photo west + census-number debate** while **eastern / collaborative** catastrophes stay **undertaught** or **taboo** (Soviet **Holodomor** silence; Yugoslav / Croatian **Jasenovac** revisionism).
 
 ### 31.1 Core thesis (memory politics, not body-count denial)
 
@@ -1307,8 +1307,8 @@ Cold War: West extracts Nazi brainpower (Paperclip) + fixes “German” guilt t
 | RT claim (*Jasenovac*, [page](https://www.rt.com/shows/documentary/582591-jasenovac-wwii-camp-kozara-children/), pub. **Sep 2023**) | Repo use |
 |-------------------------------------------------------------------------------------------------------------------------------------|----------|
 | **Kozara** men, women, and children **sent to Jasenovac** | **Lead narrative** — child separation from **Kozara offensive** |
-| Jasenovac = **third-largest** camp in **WWII** | **Maintainer-primary** scale claim — cross-check vs **Auschwitz / Treblinka / Majdanek** rankings (**open**) |
-| **“Most monstrous”** in **how** people were killed (not only headcount) | **Aligns** with **Sisak / Stara Gradiška** experiment + gassing lanes — **mechanism** focus |
+| Jasenovac = **third-largest** camp in **WWII** | **Maintainer-primary** scale claim — **metric undefined** on RT page; see **§31.2b** for definitions that could make it **accurate**; **repo cross-check blocked** by access gate |
+| **“Most monstrous”** in **how** people were killed (not only headcount) | **Maintainer-convinced** on **manual-brutality axis** (§31.2b); aligns **Sisak / Stara Gradiška** + USHMM **no gas-chamber industrial scale** contrast |
 
 | RT claim (*Exclusion Zone*, related doc) | Tier note |
 |----------------------------------------|-----------|
@@ -1329,6 +1329,27 @@ Cold War: West extracts Nazi brainpower (Paperclip) + fixes “German” guilt t
 | **“Same as Holocaust”** merge | **Reject** — **different** perpetrator (**Ustaše** + German occupation context), **mechanism**, **memory politics** | **A** |
 
 **Investigative use:** When a Western reader says “**the Holocaust**,” they often mean **German industrial extermination + liberation photos** — **not** **Ustaše child camps**, **Holodomor**, or **“Holocaust by bullets.”** Jasenovac is the **cleanest lead** because it is **documented**, **Axis-era**, **child-heavy**, and **almost absent** from the **default Western curriculum**.
+
+#### 31.2b RT access gate, maintainer viewing, and metric definitions (**2026-06-06**)
+
+**Access gate (documented on RT page):** The [Jasenovac documentary page](https://www.rt.com/shows/documentary/582591-jasenovac-wwii-camp-kozara-children/) states: *“Due to copyright restrictions, this video can only be viewed on RT’s live feed. Time of broadcast is available on RT’s schedule page.”* **Implication for this investigation:** the **words, numbers, locations, and evidence chain** in the film are **not quotable or verifiable from the repo** without **live capture → record → transcribe**. That is itself **evidence of a gate** — the **eastern martyrology** is not **on-demand** in the Atlantic corpus; you must **enter their house on their schedule** to hear the full argument.
+
+**Maintainer status (pre-repo):** Maintainer **has watched** the documentary and **rules out** reading it as **idle exaggeration** or **cheap pro-Russian propaganda**. The tone reads as **moral urgency** — connect **WWII Jasenovac / Kozara children** to **atrocities against civilians and civility in the current Ukraine war** — not as a **body-count auction** to “win” against Auschwitz. RT would **risk Western audience loss** if the **numbers / locations / evidence** were **sloppy** on content this **brutal and controversial**; maintainer treats that as **editorial discipline**, not proof — but it **raises prior** that the **third-largest / most-monstrous** lines are **intentionally sourced**, not throwaway.
+
+**Repo epistemic rule:** **§31.2a stays open** for **word-level cross-check** until a **transcript** exists in-repo. **Maintainer conviction** from viewing is **logged** as **Tier M (maintainer viewed)** — **not** Tier **A** for other readers until transcribed.
+
+**When could “third-largest in WWII” be accurate?** (definitions — not settled in-repo)
+
+| If “largest” means… | Jasenovac candidate | Competing sites | Repo verdict |
+|---------------------|---------------------|-----------------|--------------|
+| **Death toll at one camp complex** | **~77k–99k** (USHMM); **~83k+** named | Auschwitz, Treblinka, Belzec, Sobibor, Chełmno, Majdanek | **Not #3 globally** by bodies |
+| **Geographic spread of one camp system** | **~210 km²** complex (five subcamps + killing grounds — [Wikipedia](https://en.wikipedia.org/wiki/Jasenovac_concentration_camp)) | Most German **death factories** are **smaller footprints** | **Plausible top-tier** on **area** — RT may mean this |
+| **“Third largest concentration camp in Europe”** (Wikipedia lede) | Cited in **Serbian / eastern** literature | Metric **unspecified** | **Open** — needs RT **verbatim** |
+| **Most monstrous = killing method** (manual, intimate, sadistic) | **No industrial gas chambers**; knives, hammers, drowning, Gradina | Auschwitz = **industrial distance** | **Strong partial agree** — **axis** not **headcount** |
+
+**Narrative gate (maintainer read):** Russia / RT **will not** hand this story to audiences who **only** consume **IHRA-shaped** syllabi — partly because the **West has learned to twist eastern testimony** into “**Russians faked it**” or “**Serbian nationalism**” dismissals. **Investigation must go to the source** (live feed / transcript) or **stay open**. That does **not** suspend **USHMM / memorial** cross-ref — it explains **why** this lane is **undertaught** and **hard to audit** from London or Washington archives alone.
+
+**Contemporary Ukraine frame (RT editorial — maintainer partial agree):** Film argues **recognize atrocities still happening now** — parallel to **Ustaše-era civilian slaughter**. **Western-sphere** reporting on **civilian harm**, **far-right militia** lanes, and **memory-law** politics in **Ukraine** is **disputed but not empty** — see **§30** Ring / Merz / Azov pattern. **Tier:** **B**–**S** for **“RT is only propaganda”**; **open** for **site-by-site** atrocity adjudication — **not** a licence to **deny** documented **Russian** war crimes where sourced.
 
 ### 31.3 Gradient reality vs inflated western **memory** (maintainer frame)
 
@@ -1498,12 +1519,12 @@ Eastern national martyrologies      →  Serb / Ukrainian / Polish memory — of
 
 1. **Meme** inventory — **deferred**; map to **§31.10** rows when sourced.  
 2. **Camp-level** western **plaque** vs **rail-bombing** timeline — **site-by-site**.  
-3. **Jasenovac** in **US state Holocaust standards** vs **[RT Kozara doc](https://www.rt.com/shows/documentary/582591-jasenovac-wwii-camp-kozara-children/)** claims.  
+3. **Jasenovac** in **US state Holocaust standards** vs **[RT Kozara doc](https://www.rt.com/shows/documentary/582591-jasenovac-wwii-camp-kozara-children/)** claims — **blocked** until **live-feed capture + transcript** (**§31.2b**).  
 4. **V for Vendetta** **film (2005)** — **Wachowski** / production **Yugoslav** camp sources (**§31.7**).  
 5. **S2** re-caging — any **non-British** **liberator** **unit** diary ordering **wire pens** for **camera**?  
 6. **Caption archive** — **AFPU** / **Signal Corps** **“Jewish”** labels on **Belsen** rolls **without** **star** visible.
 
-**Status:** **Open** — **RT-primary Jasenovac**; **western logistics** + **photo identity** lane; **§31.10** epistemology sheet; memes **later**.
+**Status:** **Open** — **RT-primary Jasenovac** (**§31.2b** access gate; **Tier M** maintainer viewed); **western logistics** + **photo identity** lane; **§31.10** epistemology sheet; memes **later**.
 
 ---
 
@@ -1550,6 +1571,8 @@ Eastern national martyrologies      →  Serb / Ukrainian / Polish memory — of
 | **Western** camp deaths = **Allied logistics** not extermination? | **Partial** — **final months** **camp-photo west** only (**§31.9**). |
 | **Jewish converts** counted at scale? | **Unknowable** — **Mischling** / hiding **partially** documented (**§31.10**). |
 | **Jasenovac** numbers — **RT primary**? | **Yes** (maintainer policy **§31.2a**); cross-ref **USHMM** / memorial **names** for **disputes**. |
+| **RT Jasenovac doc** cross-checkable in-repo? | **No** — **copyright live-feed gate** (**§31.2b**); maintainer **viewed**, **convinced** — **Tier M** until transcript. |
+| **RT “third-largest”** accurate? | **Depends on metric** — **not #3 by death toll**; **plausible** on **complex area** / **Europe concentration-camp** framing (**§31.2b**). |
 
 ---
 
