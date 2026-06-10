@@ -1,6 +1,6 @@
 # Investigation: Celebrity “modern slavery” — contracts, containment, NDAs, and the inability to choose
 
-> **TL;DR:** This file investigates whether **celebrities and top artists** — actors, musicians, directors — operate under **structural constraints** that resemble **modern slavery** or **peonage**: **multi-picture / multi-album deals**, **360° label contracts**, **catalog ownership by third parties**, **NDAs**, and **reputational / financial penalties** for refusal. **Documented baseline:** Prince wrote **“slave”** on his face and called master ownership **“modern slavery”** ([BBC](https://www.bbc.com/news/entertainment-arts-27081344), [Billboard](https://www.billboard.com/music/features/prince-battle-to-control-career-artist-rights-7348551/)); California **Labor Code §2855** (the **De Havilland Law**) limits **personal services** contracts to **seven calendar years** because unlimited talent pacts were treated as **peonage** ([Hollywood Reporter — Martin Gang column](https://www.hollywoodreporter.com/business/business-news/olivia-de-havilland-lawyer-who-helped-her-change-show-business-guest-column-1306588/)); studios **threaten breach-of-contract suits** when stars refuse assigned roles ([Observer — Ed Norton / *The Italian Job*](https://observer.com/2002/09/ed-norton-to-lansing-burn-this/)). **Author thesis (interpretive):** predictive-programming beats (e.g. Hugh Jackman’s **24-year Wolverine** arc, **Deadpool & Wolverine** meta) **rhyme** with a **containment layer** that keeps stars **working past intended retirement**, **unable to refuse** franchise obligations, and **politically silent** unless **ordered** to speak — with **one peak creative work** per franchise before **quality collapse** or **audience fatigue**. **Epistemic stance:** separate **documented contract law / artist statements** from **author pattern reads** and **second-hand anecdotes** (Michael Jackson / Sony, band-leader *Godfather* parable).
+> **TL;DR:** This file investigates whether **celebrities and top artists** — actors, musicians, directors — operate under **structural constraints** that resemble **modern slavery** or **peonage**: **multi-picture / multi-album deals**, **360° label contracts**, **catalog ownership by third parties**, **NDAs**, and **reputational / financial penalties** for refusal. **Documented baseline:** Prince wrote **“slave”** on his face and called master ownership **“modern slavery”** ([BBC](https://www.bbc.com/news/entertainment-arts-27081344), [Billboard](https://www.billboard.com/music/features/prince-battle-to-control-career-artist-rights-7348551/)); California **Labor Code §2855** (the **De Havilland Law**) limits **personal services** contracts to **seven calendar years** because unlimited talent pacts were treated as **peonage** ([Hollywood Reporter — Martin Gang column](https://www.hollywoodreporter.com/business/business-news/olivia-de-havilland-lawyer-who-helped-her-change-show-business-guest-column-1306588/)); studios **threaten breach-of-contract suits** when stars refuse assigned roles ([Observer — Ed Norton / *The Italian Job*](https://observer.com/2002/09/ed-norton-to-lansing-burn-this/)). **Author thesis (interpretive):** predictive-programming beats (e.g. Hugh Jackman’s **24-year Wolverine** arc, **Deadpool & Wolverine** meta; Morgan Freeman’s **2017 “we are at war”** Russia video) **rhyme** with a **containment layer** that keeps stars **working past intended retirement**, **unable to refuse** franchise obligations, **politically silent** unless **ordered** to speak — or **forced to deliver** establishment war rhetoric — with **one peak creative work** per franchise before **quality collapse** or **audience fatigue**. **Epistemic stance:** separate **documented contract law / artist statements** from **author pattern reads** and **second-hand anecdotes** (Michael Jackson / Sony, band-leader *Godfather* parable).
 
 ## Status
 
@@ -18,11 +18,12 @@
 8. [360° deals and catalog ownership](#360-deals-and-catalog-ownership)
 9. [NDAs, silence, and Texas Trey’s Law](#ndas-silence-and-texas-treys-law)
 10. [Political containment — celebrity silence and rare Trump-era support](#political-containment--celebrity-silence-and-rare-trump-era-support)
-11. [Franchise battleground — one good movie, then something breaks](#franchise-battleground--one-good-movie-then-something-breaks)
-12. [Predictive programming cross-read](#predictive-programming-cross-read)
-13. [Weak points / citation registry](#weak-points--citation-registry)
-14. [Related investigations](#related-repo-investigations)
-15. [Limits and disclaimers](#limits-and-disclaimers)
+11. [Case study — Morgan Freeman / Committee to Investigate Russia (2017)](#case-study--morgan-freeman--committee-to-investigate-russia-2017)
+12. [Franchise battleground — one good movie, then something breaks](#franchise-battleground--one-good-movie-then-something-breaks)
+13. [Predictive programming cross-read](#predictive-programming-cross-read)
+14. [Weak points / citation registry](#weak-points--citation-registry)
+15. [Related investigations](#related-repo-investigations)
+16. [Limits and disclaimers](#limits-and-disclaimers)
 
 ---
 
@@ -52,6 +53,7 @@
 - **Elton John / *Rocket Man*:** Author read — **“gonna be a long, long time”** = **career sentence**; **Rocket Man** = star **burning out on everyone**, isolated on the **tour treadmill** — **partially supported** by **rock-star isolation** interpretations ([Smooth — lyrics meaning](https://www.smoothradio.com/features/the-story-of/elton-john-rocket-man-lyrics-meaning-facts/)) but **not** Taupin’s sole stated intent (Bradbury short story).
 - **Political silence:** **Odd** that **almost no A-list celebrities** publicly supported **Trump (2016–2026)** or **world-event dissent** unless **performative** — hypothesis: **systematic suppression** of **all leadership-class voices**, not mere **liberal culture**.
 - **Movies as battleground:** **Predictive-programming** titles **flood** libraries; **one** genuinely great installment per franchise (or **one trilogy**), then **fans agree something went wrong** — **franchise fatigue** literature supports **quality/saturation** pattern ([CNBC — sequels falling flat](https://www.cnbc.com/2026/01/30/hollywood-ip-franchise-hits-keep-falling-flat-weighing-on-box-office.html)).
+- **Morgan Freeman / Russia “at war” (2017):** **September 2017** **Committee to Investigate Russia** video — Freeman declares **“We are at war”**, frames **Putin** as **ex-KGB** seeking **revenge** for **USSR collapse**, urges **Trump** to **address the nation** on **2016 election interference**. Author read: **unlikely** Freeman **wanted** rhetoric that could **escalate toward world war**; delivery reads **unconfident**; script uses **Level-1 movie logic** (Russia bad → KGB bad → Putin ex-KGB → bad). **Hypothesis:** **inverse** of [political silence](#political-containment--celebrity-silence-and-rare-trump-era-support) — **modern slaves must perform** when **masters** make **refusal more painful** than **compliance**.
 
 ---
 
@@ -271,6 +273,74 @@ See [§ Legal vocabulary](#legal-vocabulary--personal-services-peonage-and-moder
 
 **Cross-reference:** [Trump-era Hollywood PP investigation](/influence/hollywood/trump-era-hollywood-political-media-investigation.md); [Cruz / media blackmail thesis](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#the-national-security-thesis-media-blackmail-and-controlled-candidacies).
 
+**Inverse case (ordered speech):** See [§ Morgan Freeman — Committee to Investigate Russia (2017)](#case-study--morgan-freeman--committee-to-investigate-russia-2017) — rare moment an **A-list** star **delivers** **pro-establishment war framing** on camera while most peers **stay silent**.
+
+---
+
+## Case study — Morgan Freeman / Committee to Investigate Russia (2017)
+
+### Documented facts (L1)
+
+| Element | Detail | Source |
+|---------|--------|--------|
+| **Date / vehicle** | **19 Sep 2017** — launch video for **Committee to Investigate Russia** (nonprofit) | [Committee site](https://investigaterussia.org/video/morgan-freeman-warns-russia-waging-war-us), [Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/rob-reiner-morgan-freeman-help-launch-committee-investigate-russia-1041397/) |
+| **Organizer** | **Rob Reiner** — advisory board; group framed as **nonpartisan** resource on **2016 election** interference | [Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/rob-reiner-morgan-freeman-help-launch-committee-investigate-russia-1041397/), [RFERL](https://www.rferl.org/a/russia-morgan-freeman-video-kremlin-reaction-peskov/28746935.html) |
+| **Advisory board** | Included **James Clapper** (ex-DNI), **Max Boot** (CFR), **Charlie Sykes** (conservative commentator) | [RFERL](https://www.rferl.org/a/russia-morgan-freeman-video-kremlin-reaction-peskov/28746935.html) |
+| **Freeman lines (on record)** | *“We are at war. We have been attacked.”* | [Telegraph](https://www.telegraph.co.uk/news/2017/09/20/morgan-freeman-ridiculed-kremlin-accusing-russia-declaring-war/), [The Hill](https://thehill.com/blogs/in-the-know/3496906-morgan-freeman-rob-reiner-included-among-nearly-1000-americans-banned-from-russia/) |
+| **Putin framing** | **“Former KGB spy, angry at the collapse of his motherland”** who **“plots a course for revenge”** via **cyber warfare** and **social-media propaganda** | [Telegraph](https://www.telegraph.co.uk/news/2017/09/20/morgan-freeman-ridiculed-kremlin-accusing-russia-declaring-war/) |
+| **Ask of Trump** | Sit in **Oval Office** and tell Americans the **2016 election** came **“under attack by the Russian government”**; use **“every resource available”** to investigate | [Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/rob-reiner-morgan-freeman-help-launch-committee-investigate-russia-1041397/), [RFERL](https://www.rferl.org/a/russia-morgan-freeman-video-kremlin-reaction-peskov/28746935.html) |
+| **Movie-script device** | Freeman **compared events to a movie script** in the monologue (trade summary) | [Telegraph](https://www.telegraph.co.uk/news/2017/09/20/morgan-freeman-ridiculed-kremlin-accusing-russia-declaring-war/) |
+| **Prior political voice** | Endorsed **Obama** (2008); narrated **Hillary Clinton** **2016 DNC** intro video | [Wikipedia — Morgan Freeman](https://en.wikipedia.org/wiki/Morgan_Freeman) |
+| **Aftermath** | Freeman and Reiner later on **Russia ban list** (2022) referencing this work | [The Hill](https://thehill.com/blogs/in-the-know/3496906-morgan-freeman-rob-reiner-included-among-nearly-1000-americans-banned-from-russia/) |
+| **Retraction / regret** | **No** documented **walk-back** or **apology** located in trades | Author audit — open |
+
+**Reiner framing (L1):** *“When our country is attacked, politics stops at the water's edge. This is the first time that that didn't happen.”* ([Telegraph](https://www.telegraph.co.uk/news/2017/09/20/morgan-freeman-ridiculed-kremlin-accusing-russia-declaring-war/))
+
+### Hollywood anti-Russia template — decades of documented bias (L2)
+
+The Freeman script **compresses** a **stock Cold War / post-Cold War villain grammar**:
+
+| Trope | Manifestation in video | Long-run Hollywood pattern |
+|-------|------------------------|----------------------------|
+| **Russia = enemy** | **“We are at war”** | Russian villain **“popular stock character”** before and after Cold War ([Western University Report](https://westernreport.fims.uwo.ca/index.php/the-russians-are-still-coming/)) |
+| **KGB = evil** | **Putin as ex-KGB** ⇒ motive | Bond / action canon: **KGB agents** as **“stone-cold, conniving”** antagonists ([Holy Cross — Rocky IV / Bond analysis PDF](https://crossworks.holycross.edu/cgi/viewcontent.cgi?article=1018&context=oflifeandhistory)) |
+| **Revenge for USSR collapse** | Personal **Putin** vendetta | Post-1991 films: ex-Soviet **rogues** still fighting **ideological war** (*Air Force One*, *Salt*) ([Roger Ebert — cinematic Cold War](https://www.rogerebert.com/features/the-history-of-america-and-russias-cinematic-cold-war)) |
+| **Level-1 morality** | No geopolitical complexity | **HUAC-era** rise in **anti-Soviet** films; **“aside from limited respite in ’60s–’70s,”** villainization **“hasn’t disappeared”** ([Western University Report](https://westernreport.fims.uwo.ca/index.php/the-russians-are-still-coming/)) |
+
+**Investigation read:** Freeman’s **authority voice** (narrator / **played president** in *Deep Impact*) **imports cinematic certainty** into **live politics** — audience **recognizes the movie**, not a **briefing**.
+
+### “We are at war” — rhetoric risk (author + documented reaction)
+
+**Author concern (L3):** Declaring **existing war** with a **nuclear power** over **election interference / cyber / propaganda** mirrors **pre-WWII / WWI escalation language** — **simplified enemy image** + **emergency framing** → **public primed for kinetic conflict**.
+
+**Documented pushback:**
+
+- Kremlin **Peskov:** video **“purely emotion,”** **“no real informational basis”** ([RFERL](https://www.rferl.org/a/russia-morgan-freeman-video-kremlin-reaction-peskov/28746935.html)).
+- Russian state TV: **“worst role,”** **“propaganda loudspeaker,”** **“Russophobic clichés”** ([BBC](https://www.bbc.com/news/world-europe-41348749), [Hollywood Reporter — state media](https://www.hollywoodreporter.com/news/general-news/russian-state-media-slams-morgan-freeman-investigation-video-blame-marijuana-use-1042137/)).
+- **Slutsky** (Duma): **“another trick of anti-Trump circles”** ([Telegraph](https://www.telegraph.co.uk/news/2017/09/20/morgan-freeman-ridiculed-kremlin-accusing-russia-declaring-war/)).
+
+**Tier discipline:** Russian **state** mockery **does not validate** or **invalidate** interference claims — it **documents** that Freeman’s **performance** read as **propaganda** abroad and **emotionally loaded** even to **hostile** analysts.
+
+### Author thesis — why would Freeman do this? (session 2026-06-10)
+
+**Investigator stance:**
+
+1. **Unlikely preference:** Freeman — **elder statesman** narrator type — would **not voluntarily choose** a **jingoistic** **“at war”** spot that **normalizes** **Russia-as-enemy** **Level-1** logic and **could** **help** **escalate** **great-power conflict**.
+2. **Delivery read (L3):** Monologue **feels performed under duress** — **dramatic** but **not conviction-heavy**; **Peskov** and **Russian TV** independently called it **“emotional,”** **“hysterical,”** **“worst role”** ([RFERL](https://www.rferl.org/a/russia-morgan-freeman-video-kremlin-reaction-peskov/28746935.html), [BBC](https://www.bbc.com/news/world-europe-41348749)) — **convergent** with author **“not confident in claims”** read (still **subjective**).
+3. **Containment answer (L3):** Same **machinery** as [§ Political containment](#political-containment--celebrity-silence-and-rare-trump-era-support) but **inverted** — **modern slaves have to do everything they’re told** because **masters** (studios, agencies, **intelligence-adjacent** boards, **NDA / leverage** networks) make **resistance** **more painful** than **compliance**. **Freeman speaks** here where **most stars stay silent** on **Trump** — because this message **served** **establishment** **water’s-edge** **panic** post-2016.
+4. **PP / movie loop:** Script **explicitly** **movie-like** ([Telegraph](https://www.telegraph.co.uk/news/2017/09/20/morgan-freeman-ridiculed-kremlin-accusing-russia-declaring-war/)); **decades** of **anti-Russia** films **pre-trained** audience to **accept** **KGB-Putin** syllogism without **examination**.
+
+### Alternative explanations (must hold)
+
+| Explanation | Evidence | Weakness for author |
+|-------------|----------|---------------------|
+| **Voluntary patriotism** | Reiner recruited **“patriots”** across stripes; board **Clapper / Boot** | Does **not** explain **uniform** **A-list silence** on **other** **polarized** topics |
+| **Freeman’s own politics** | **Obama**, **Hillary** endorsements | **Prior** **Democratic** **alignment** ≠ **war declaration** **comfort** |
+| **Paid advocacy / nonprofit gig** | Standard **celebrity PSA** model | **No** **contract** **leak** — **voluntary** **tier** **default** |
+| **Sincere belief in interference narrative** | **IC** **assessments** **2017** **context** | **Sincerity** **compatible** with **being** **used** as **mouthpiece** |
+
+**Synthesis:** **Documented** — Freeman **participated** in **Reiner / Clapper**-adjacent **advocacy**. **Author** — participation **fits** **containment** **pattern** when **refusal costs** (**access**, **roles**, **reputation**, **unknown NDAs**) exceed **cost** of **one** **bad** **monologue**.
+
 ---
 
 ## Franchise battleground — one good movie, then something breaks
@@ -309,6 +379,7 @@ See [§ Legal vocabulary](#legal-vocabulary--personal-services-peonage-and-moder
 | ***Godfather* Fontane** | **Personal services** **only** broken by **greater power** | § Anchor parable |
 | ***Rocket Man*** | **Isolation treadmill** | § Elton |
 | **Anti-Trump satire cluster** | **Stars play roles** in **programming** they **cannot publicly oppose** | [Trump-era Hollywood](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) |
+| **Freeman “we are at war” (2017)** | **Ordered speech** inverse of **silence** — **movie-logic** **Russia** **villainy** **read aloud** | § Freeman case |
 | **Boss Baby / Space Force / Homelander** | **Culture war** **encoding** while **creators deny intent** | Same |
 
 **Methodology:** PP = **data not verdict** ([PP hub](/influence/predictive_programming/page.md)).
@@ -328,11 +399,16 @@ See [§ Legal vocabulary](#legal-vocabulary--personal-services-peonage-and-moder
 | **Godfather = documentary** | **Absurd literalism** | **Parable** only |
 | **Texas law ⇒ all past celebrity NDAs were abuse cover** | **Overbroad** | Law targets **sexual abuse** **disclosure** specifically |
 | **360° = slavery for every signee** | **Legal exaggeration** | **Scholarship** uses **unconscionability** frame, not **13th Amendment** |
+| Freeman compelled to film CIR video | **No primary coercion doc** | **Default:** voluntary advocacy; containment = **L3** pattern |
+| **“We are at war” ⇒ Freeman wanted WWIII** | **Intent** **unknowable** | **Author** **escalation-risk** **read**; **not** **Freeman** **quote** |
+| **Freeman delivery “unconfident”** | **Subjective** | **Label** **L3**; **note** **Peskov/BBC** **“emotional”** **convergence** |
 
 ### TODOs
 
 - [ ] Header illustration — `celebrity-modern-slavery-containment-creative-control-investigation.png`
 - [ ] Primary pull: **MJ 2002 Sony protest** transcript / video archive
+- [ ] **Full CIR video** transcript pull — [YouTube Uz9PNoecNxU](https://www.youtube.com/watch?v=Uz9PNoecNxU)
+- [ ] **Freeman** post-2017 interviews — any **distancing** from **“at war”** line
 - [ ] **Marvel** standard actor contract **template** (redacted leaks if any)
 - [ ] **Casebook row:** **Kanye / Ye** masters; **Taylor Swift** masters dispute (compare **ownership exit** paths)
 - [ ] **Casebook row:** **Britney Spears** conservatorship (separate **guardianship** dossier?)
@@ -354,9 +430,9 @@ See [§ Legal vocabulary](#legal-vocabulary--personal-services-peonage-and-moder
 
 ---
 
-Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #Prince #MichaelJackson #EltonJohn #HughJackman #Wolverine #PersonalServicesContract #DeHavillandLaw #FranchiseFatigue #PredictiveProgramming #Trump #SpeakOutAct #TreysLaw #ParadigmThreatFiles
+Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #Prince #MichaelJackson #EltonJohn #HughJackman #Wolverine #MorganFreeman #Russia #CommitteeToInvestigateRussia #PersonalServicesContract #DeHavillandLaw #FranchiseFatigue #PredictiveProgramming #Trump #SpeakOutAct #TreysLaw #ParadigmThreatFiles
 
-**Last updated:** 2026-06-10
+**Last updated:** 2026-06-10 (§ Morgan Freeman / CIR 2017 case study)
 
 ---
 
@@ -368,5 +444,6 @@ Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #P
 - **Living persons:** **Disputed** **handler** / **abuse** claims stay **tiered**; **no** **unchallenged criminal accusations**.
 - **Michael Jackson / Sony:** **Trade-documented** **business conflict** ≠ **proof** of **foul play** at **death** (see [Prince dossier](/influence/conspiracy/celebrities/prince.md) for **similar caution**).
 - **Political silence:** **Multiple explanations** (ideology, brand protection, fan polarization) **coexist** with **containment hypothesis**.
+- **Morgan Freeman / CIR (2017):** **Documented participation** in **Reiner** nonprofit video; **author “compelled speech”** read is **interpretive** — **Freeman** has **on-record** **Democratic** **endorsements** (**Obama**, **Clinton**) as **alternative** to **handler coercion**.
 - **Voice-note transcription:** **“Poe”** corrected to **Prince**; **“Paradise threat files”** = **Paradigm Threat Files** repo.
 - **Author thesis blocks** are **investigation prompts**, not **settled historiography**.
