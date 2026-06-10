@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-10T13:05:34.339Z",
+    "date": "2026-06-10T13:09:48.506Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/suppression/modern-celebrity-slavery.md",
+        "href": "/influence/suppression/modern-celebrity-slavery"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery.png",
+        "alt": "Modern celebrity slavery — IP containment, ordered speech, and creative control"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
+        "alt": "Celebrity modern slavery — contracts, containment, NDAs, and creative control (investigation dossier)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-10T13:05:33.000Z",
+    "message": "Add modern celebrity slavery essay and expand containment and Takeuchi dossiers.",
     "files": [
       {
         "status": "M",
@@ -776,37 +798,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-06-04T12:42:19.000Z",
     "message": "Add Warcraft runestone/Dark Portal game PP to Stonehenge corpus.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md",
-        "href": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md",
-        "href": "/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.png",
-        "alt": "Stonehenge as a portal — Birkeland current stabilized by sacred geometry and ley lines"
-      },
-      {
-        "src": "/history/chronology/investigations/zone-of-silence-ley-crossing-magnetism.png",
-        "alt": "Zone of Silence — ley-crossing magnetism meme (radios, compasses, clocks at nodes)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png",
-        "alt": "Stonehenge quantum portal — Golden Age and Dark Ages (article lead)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-04T12:41:26.000Z",
-    "message": "Clarify ley crossings as mobile, cyclically predictable nodes.",
     "files": [
       {
         "status": "M",

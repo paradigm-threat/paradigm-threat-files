@@ -94,6 +94,8 @@ Documented facts above — Pepsi burns, Prince’s Warner protest and **2014** m
 
 Keywords: #CelebritySlavery #EltonJohn #EJAF #MichaelJackson #Prince #WesleySnipes #Poe #JustinBaldoni #Nicepool #HughJackman #MorganFreeman #EdNorton #OccupyWallStreet #MeToo #DeHavillandLaw #IntellectualProperty #ModernSlavery #RocketMan #Suppression
 
+**Substack:** [It's gonna be a long, long time.](https://open.substack.com/pub/paradigmthreat2/p/its-gonna-be-a-long-long-time)
+
 **Last updated:** 2026-06-11T18:20:00-04:00
 
 ---
