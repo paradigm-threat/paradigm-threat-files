@@ -1,6 +1,6 @@
 # Investigation: Celebrity “modern slavery” — contracts, containment, NDAs, and the inability to choose
 
-> **TL;DR:** This file investigates whether **celebrities and top artists** — actors, musicians, directors — operate under **structural constraints** that resemble **modern slavery** or **peonage**: **multi-picture / multi-album deals**, **360° label contracts**, **catalog ownership by third parties**, **NDAs**, and **reputational / financial penalties** for refusal. **Documented baseline:** Prince wrote **“slave”** on his face and called master ownership **“modern slavery”** ([BBC](https://www.bbc.com/news/entertainment-arts-27081344), [Billboard](https://www.billboard.com/music/features/prince-battle-to-control-career-artist-rights-7348551/)); California **Labor Code §2855** (the **De Havilland Law**) limits **personal services** contracts to **seven calendar years** because unlimited talent pacts were treated as **peonage** ([Hollywood Reporter — Martin Gang column](https://www.hollywoodreporter.com/business/business-news/olivia-de-havilland-lawyer-who-helped-her-change-show-business-guest-column-1306588/)); studios **threaten breach-of-contract suits** when stars refuse assigned roles ([Observer — Ed Norton / *The Italian Job*](https://observer.com/2002/09/ed-norton-to-lansing-burn-this/)). **Author thesis (interpretive):** predictive-programming beats (e.g. Hugh Jackman’s **24-year Wolverine** arc, **Deadpool & Wolverine** meta; Morgan Freeman’s **2017 “we are at war”** Russia video) **rhyme** with a **containment layer** that keeps stars **working past intended retirement**, **unable to refuse** franchise obligations, **politically silent** unless **ordered** to speak — or **forced to deliver** establishment war rhetoric — with **one peak creative work** per franchise before **quality collapse** or **audience fatigue**. **Epistemic stance:** separate **documented contract law / artist statements** from **author pattern reads** and **second-hand anecdotes** (Michael Jackson / Sony, band-leader *Godfather* parable).
+> **TL;DR:** This file investigates whether **celebrities and top artists** — actors, musicians, directors — operate under **structural constraints** that resemble **modern slavery** or **peonage**: **multi-picture / multi-album deals**, **360° label contracts**, **catalog ownership by third parties**, **NDAs**, and **reputational / financial penalties** for refusal. **Documented baseline:** Prince wrote **“slave”** on his face and called master ownership **“modern slavery”** ([BBC](https://www.bbc.com/news/entertainment-arts-27081344), [Billboard](https://www.billboard.com/music/features/prince-battle-to-control-career-artist-rights-7348551/)); California **Labor Code §2855** (the **De Havilland Law**) limits **personal services** contracts to **seven calendar years** because unlimited talent pacts were treated as **peonage** ([Hollywood Reporter — Martin Gang column](https://www.hollywoodreporter.com/business/business-news/olivia-de-havilland-lawyer-who-helped-her-change-show-business-guest-column-1306588/)); studios **threaten breach-of-contract suits** when stars refuse assigned roles ([Observer — Ed Norton / *The Italian Job*](https://observer.com/2002/09/ed-norton-to-lansing-burn-this/)). **Author thesis (interpretive):** predictive-programming beats (e.g. Hugh Jackman’s **24-year Wolverine** arc, **Deadpool & Wolverine** meta and **Nicepool** litigation; Morgan Freeman’s **2017 “we are at war”** Russia video) **rhyme** with a **containment layer** that keeps stars **working past intended retirement**, **unable to refuse** franchise obligations, **politically silent** unless **ordered** to speak — or **forced to deliver** establishment war rhetoric and **studio-sanctioned attacks** (Reynolds **read** as **asked**, not **autonomous**) — with **one peak creative work** per franchise before **quality collapse** or **audience fatigue**. **Epistemic stance:** separate **documented contract law / artist statements** from **author pattern reads** and **second-hand anecdotes** (Michael Jackson / Sony, band-leader *Godfather* parable).
 
 ## Status
 
@@ -14,16 +14,17 @@
 4. [Anchor parable — *The Godfather* band leader / Johnny Fontane](#anchor-parable--the-godfather-band-leader--johnny-fontane)
 5. [Hollywood — multi-picture deals and “cannot refuse” mechanics](#hollywood--multi-picture-deals-and-cannot-refuse-mechanics)
 6. [Case study — Hugh Jackman / Wolverine / *Deadpool & Wolverine*](#case-study--hugh-jackman--wolverine--deadpool--wolverine)
-7. [Music — Prince, Michael Jackson, Elton John / *Rocket Man*](#music--prince-michael-jackson-elton-john--rocket-man)
-8. [360° deals and catalog ownership](#360-deals-and-catalog-ownership)
-9. [NDAs, silence, and Texas Trey’s Law](#ndas-silence-and-texas-treys-law)
-10. [Political containment — celebrity silence and rare Trump-era support](#political-containment--celebrity-silence-and-rare-trump-era-support)
-11. [Case study — Morgan Freeman / Committee to Investigate Russia (2017)](#case-study--morgan-freeman--committee-to-investigate-russia-2017)
-12. [Franchise battleground — one good movie, then something breaks](#franchise-battleground--one-good-movie-then-something-breaks)
-13. [Predictive programming cross-read](#predictive-programming-cross-read)
-14. [Weak points / citation registry](#weak-points--citation-registry)
-15. [Related investigations](#related-repo-investigations)
-16. [Limits and disclaimers](#limits-and-disclaimers)
+7. [Case study — Ryan Reynolds / *Deadpool & Wolverine* — ordered attacks and lawsuit fallout](#case-study--ryan-reynolds--deadpool--wolverine--ordered-attacks-and-lawsuit-fallout)
+8. [Music — Prince, Michael Jackson, Elton John / *Rocket Man*](#music--prince-michael-jackson-elton-john--rocket-man)
+9. [360° deals and catalog ownership](#360-deals-and-catalog-ownership)
+10. [NDAs, silence, and Texas Trey’s Law](#ndas-silence-and-texas-treys-law)
+11. [Political containment — celebrity silence and rare Trump-era support](#political-containment--celebrity-silence-and-rare-trump-era-support)
+12. [Case study — Morgan Freeman / Committee to Investigate Russia (2017)](#case-study--morgan-freeman--committee-to-investigate-russia-2017)
+13. [Franchise battleground — one good movie, then something breaks](#franchise-battleground--one-good-movie-then-something-breaks)
+14. [Predictive programming cross-read](#predictive-programming-cross-read)
+15. [Weak points / citation registry](#weak-points--citation-registry)
+16. [Related investigations](#related-repo-investigations)
+17. [Limits and disclaimers](#limits-and-disclaimers)
 
 ---
 
@@ -54,6 +55,7 @@
 - **Political silence:** **Odd** that **almost no A-list celebrities** publicly supported **Trump (2016–2026)** or **world-event dissent** unless **performative** — hypothesis: **systematic suppression** of **all leadership-class voices**, not mere **liberal culture**.
 - **Movies as battleground:** **Predictive-programming** titles **flood** libraries; **one** genuinely great installment per franchise (or **one trilogy**), then **fans agree something went wrong** — **franchise fatigue** literature supports **quality/saturation** pattern ([CNBC — sequels falling flat](https://www.cnbc.com/2026/01/30/hollywood-ip-franchise-hits-keep-falling-flat-weighing-on-box-office.html)).
 - **Morgan Freeman / Russia “at war” (2017):** **September 2017** **Committee to Investigate Russia** video — Freeman declares **“We are at war”**, frames **Putin** as **ex-KGB** seeking **revenge** for **USSR collapse**, urges **Trump** to **address the nation** on **2016 election interference**. Author read: **unlikely** Freeman **wanted** rhetoric that could **escalate toward world war**; delivery reads **unconfident**; script uses **Level-1 movie logic** (Russia bad → KGB bad → Putin ex-KGB → bad). **Hypothesis:** **inverse** of [political silence](#political-containment--celebrity-silence-and-rare-trump-era-support) — **modern slaves must perform** when **masters** make **refusal more painful** than **compliance**.
+- **Ryan Reynolds / *Deadpool & Wolverine* (2024):** Reynolds did **not** only **meta-attack** **Jackman** (see [§ Jackman](#case-study--hugh-jackman--wolverine--deadpool--wolverine)); **Nicepool** read as **mockery** of **Justin Baldoni** amid **It Ends With Us** / **Blake Lively** litigation — **$400M** **Baldoni countersuit** naming **Reynolds** (**dismissed** **Jun 2025**). Author read: **not** one star **using his platform** on personal vendetta — **everything Reynolds does** he is **essentially asked to do** (**Marvel** **producer-star**, **Maximum Effort**, **Feige** **“if it’s funny, funny wins”** lane).
 
 ---
 
@@ -165,9 +167,52 @@ Entertainment law: **13th Amendment** bars **specific performance** of **persona
 | **Fan enthusiasm** | Audience **accepts** **permanent Wolverine** as **natural law** | **Nostalgia** economics |
 | **Feige resistance** | Even **studio head** knew **return = diminishment** — **overruled** by **business** | **Creative** multiverse **solution** |
 
-**Cross-reference:** Meta-commentary essay — Jackman as **last survivor** of **Fox X-Men** after **Disney merger** ([The Movie Blog](https://www.themovieblog.com/2024/07/deadpool-and-wolverine-is-this-logan-a-meta-commentary-on-hugh-jackmans-tenure/)).
+**Cross-reference:** Meta-commentary essay — Jackman as **last survivor** of **Fox X-Men** after **Disney merger** ([The Movie Blog](https://www.themovieblog.com/2024/07/deadpool-and-wolverine-is-this-logan-a-meta-commentary-on-hugh-jackmans-tenure/)). **Companion:** [§ Ryan Reynolds — ordered attacks](#case-study--ryan-reynolds--deadpool--wolverine--ordered-attacks-and-lawsuit-fallout) — same film; **Reynolds** as **producer-star** **delivering** **studio-sanctioned** **roasts**, not only **Jackman** bits.
 
 **Tier split:** **Documented** — 24-year tenure, retirement, return, Feige quote. **Interpretive** — **slavery / no exit** equivalence.
+
+---
+
+## Case study — Ryan Reynolds / *Deadpool & Wolverine* — ordered attacks and lawsuit fallout
+
+### Documented — who got hit in the same tentpole (L1)
+
+| Target / beat | What the film or trades report | Source |
+|---------------|-------------------------------|--------|
+| **Hugh Jackman / Wolverine** | **Meta** **roast** of **Logan** retirement, **NSYNC** opening, **multiverse** **workaround** | [§ Jackman case](#case-study--hugh-jackman--wolverine--deadpool--wolverine); [Yahoo / Michael Green](https://www.yahoo.com/entertainment/didn-t-know-were-gonna-013110291.html) |
+| **Justin Baldoni (Nicepool)** | Alternate **Deadpool** **“Nicepool”** — **man bun**, **toxically positive** **“woke feminist”** mask; line about **Ladypool** **“just had a baby… can’t even tell”** | [Deadline](https://deadline.com/2025/01/justin-baldoni-lawyer-says-ryan-reynolds-based-deadpool-wolverine-role-actor-1236251983/), [Variety](https://variety.com/2025/film/news/ryan-reynolds-justin-baldoni-lawsuit-hurt-feelings-1236340790/) |
+| **MCU / Kevin Feige / post-*Endgame* slump** | Deadpool ** mocks recent **Marvel** **“string of hits”**; **“joining at a bit of a low point”** | [IGN — Feige interview](https://in.ign.com/deadpool-wolverine/211422/news/kevin-feige-on-deadpool-wolverine-addressing-lofty-expectations-making-fun-of-the-mcu-and-all-the-co), [Radio Times — Levy](https://www.radiotimes.com/movies/scifi/deadpool-3-wolverine-director-marvel-jokes-exclusive-newsupdate/) |
+| **Disney / Bob Iger** | **Mickey Mouse** barb **vetoed** by **Iger**; swapped for **Pinocchio** | [CBR — Reynolds podcast](https://www.cbr.com/disney-banned-ryan-reynolds-animated-icons-deadpool-wolverine/) |
+| **Ryan Reynolds (self)** | Feige: Deadpool **“makes fun of Ryan Reynolds all the time”** — **self-roast first** | [Entertainment Weekly — Feige](https://ew.com/kevin-feige-badge-honor-mocked-deadpool-exclusive-8681586) |
+
+**Studio posture (L1):** Feige gave **“a lot of room”**; **“badge of honor”** to be mocked; rule **“if it’s funny, funny wins”** ([EW](https://ew.com/kevin-feige-badge-honor-mocked-deadpool-exclusive-8681586), [Radio Times](https://www.radiotimes.com/movies/scifi/deadpool-3-wolverine-director-marvel-jokes-exclusive-newsupdate/)). **Not** uncontrolled **solo** **editorial** — **Marvel Studios** **partner** on **what punches land**.
+
+### Baldoni lawsuit — documented legal fallout (L1)
+
+| Date / event | Detail | Source |
+|--------------|--------|--------|
+| **Dec 2024** | **Blake Lively** sues **Baldoni** — **harassment** / **retaliation** on ***It Ends With Us*** | [ABC timeline](https://abcnews.com/GMA/Culture/blake-lively-justin-baldoni-legal-battle-timeline/story?id=117430951) |
+| **Jan 16, 2025** | **Baldoni** **$400M** suit vs **Lively**, **Reynolds**, publicist **Leslie Sloane**, **NYT** — **defamation**, **extortion** | [Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/justin-baldoni-lawsuit-against-blake-lively-tossed-out-1236260173/), [ABC](https://abcnews.com/GMA/Culture/blake-lively-justin-baldoni-legal-battle-timeline/story?id=117430951) |
+| **Nicepool claim** | Baldoni: Reynolds **mocked** him via **Nicepool** — **“woke feminist”** **caricature** | [Variety](https://variety.com/2025/film/news/ryan-reynolds-justin-baldoni-lawsuit-hurt-feelings-1236340790/) |
+| **Reynolds motion** | Lawyers **did not dispute** Nicepool **based on Baldoni**; called it **satire** / **“hurt feelings”** | [Variety](https://variety.com/2025/film/news/ryan-reynolds-justin-baldoni-lawsuit-hurt-feelings-1236340790/) |
+| **Non-film allegations** | **Apartment** **meeting** **berating**; **“sexual predator”** label; **WME** **“drop Baldoni”** demand at **D&W premiere** | [Variety](https://variety.com/2025/film/news/ryan-reynolds-justin-baldoni-lawsuit-hurt-feelings-1236340790/), [Vulture — litigation hold](https://www.vulture.com/article/justin-baldoni-nicepool-ryan-reynolds-marvel-letter.html) |
+| **Jan 2025 litigation hold** | Baldoni counsel **Freedman** → **Feige** / **Iger**: preserve docs on **Nicepool** **“mock, harass, ridicule”** **Baldoni** | [Vulture](https://www.vulture.com/article/justin-baldoni-nicepool-ryan-reynolds-marvel-letter.html) |
+| **Freedman on Megyn Kelly** | *“No question”* **D&W** **mocks** **Baldoni** — **hair bun**, **pregnancy** line | [Independent](https://www.the-independent.com/arts-entertainment/films/news/justin-baldoni-ryan-reynolds-deadpool-wolverine-megyn-kelly-b2676219.html), [Deadline](https://deadline.com/2025/01/justin-baldoni-lawyer-says-ryan-reynolds-based-deadpool-wolverine-role-actor-1236251983/) |
+| **Jun 9, 2025** | Judge **dismisses** **Baldoni** **$400M** suit (**Reynolds** among **vindicated** defendants per **Lively** counsel) | [Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/justin-baldoni-lawsuit-against-blake-lively-tossed-out-1236260173/), [Global News](https://globalnews.ca/news/11508194/justin-baldoni-lawsuit-blake-lively-dismissed/) |
+| **May 2026** | Parties **settlement** (per **ABC** timeline update) | [ABC](https://abcnews.com/GMA/Culture/blake-lively-justin-baldoni-legal-battle-timeline/story?id=117430951) |
+
+**Tier discipline:** **Dismissal** ≠ **proof** Nicepool **was innocent** or **was ordered** — only that **claims** **failed** **as pleaded**. **Harassment** **truth** **still** **contested** in **parallel** **Lively** **tracks**.
+
+### Author thesis — Reynolds as instrument, not author (session 2026-06-10)
+
+**Investigator stance:**
+
+1. **Not “one guy with a platform”:** **Deadpool & Wolverine** is **Marvel Studios** **product** — Reynolds **producer-star** under **Feige** **approval** **culture** ([EW](https://ew.com/kevin-feige-badge-honor-mocked-deadpool-exclusive-8681586)). **Iger** **cut** lines; **Feige** **green-lit** **MCU** **self-roast** — **ceiling** and **floor** set **above** Reynolds.
+2. **Jackman + Baldoni + Feige** in **one** release = **multi-target** **sortie**, not **personal** **grudge** **solo** — **rhymes** with **containment** **machine** using **A-list** **mouth** for **faction** **war** (**Lively** / **Reynolds** vs **Baldoni** **Wayfarer**).
+3. **Nicepool timing:** Film **released** **Jul 2024** while ***It Ends With Us*** **press** **war** **boiling** — **Baldoni** counsel treats **Nicepool** as **continued** **attack** **vector** ([Vulture](https://www.vulture.com/article/justin-baldoni-nicepool-ryan-reynolds-marvel-letter.html)). Author read: **scripted** **humiliation** **deployed** at **scale** **studios** **allow** when **star** **aligns** with **powerful** **spouse** / **agency** **bloc** — **same family** as **Ed Norton** **assigned** **role**, but **R-rated** **satire** **wrapper**.
+4. **“Asked to do everything” (L3):** Reynolds’ **brand** = **irreverence**, so **he** **appears** **autonomous** — investigation treats that as **cover** for **ordered** **performance** within **Marvel** **deal** **gravity** and **Maximum Effort** **obligations**. **Counter:** Reynolds ** admits** **Nicepool–Baldoni** **link** in **legal** **filings** while **calling** it ** comedy** — **could** be **genuine** **protective** **husband** **choice**.
+
+**Synthesis with Jackman arc:** Same movie **pulls Jackman back** ([§ Jackman](#case-study--hugh-jackman--wolverine--deadpool--wolverine)) **and** **embeds** **Hollywood** **legal** **war** **satire** — **two** **containment** **modes** (**franchise** **lock-in** + **platform** **strike**) **in** **one** **MCU** **vehicle**.
 
 ---
 
@@ -376,6 +421,7 @@ The Freeman script **compresses** a **stock Cold War / post-Cold War villain gra
 | Fiction / beat | Author read | Related file |
 |----------------|-------------|--------------|
 | **Wolverine forever** | **No retirement allowed** — **multiverse** as **legal fiction** for **return** | This file § Jackman |
+| **Reynolds / Nicepool / Baldoni** | **Studio-sanctioned** **attack** **comedy** → **$400M** **suit**; **ordered** **mouthpiece** read | § Reynolds |
 | ***Godfather* Fontane** | **Personal services** **only** broken by **greater power** | § Anchor parable |
 | ***Rocket Man*** | **Isolation treadmill** | § Elton |
 | **Anti-Trump satire cluster** | **Stars play roles** in **programming** they **cannot publicly oppose** | [Trump-era Hollywood](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) |
@@ -402,6 +448,8 @@ The Freeman script **compresses** a **stock Cold War / post-Cold War villain gra
 | Freeman compelled to film CIR video | **No primary coercion doc** | **Default:** voluntary advocacy; containment = **L3** pattern |
 | **“We are at war” ⇒ Freeman wanted WWIII** | **Intent** **unknowable** | **Author** **escalation-risk** **read**; **not** **Freeman** **quote** |
 | **Freeman delivery “unconfident”** | **Subjective** | **Label** **L3**; **note** **Peskov/BBC** **“emotional”** **convergence** |
+| Reynolds “asked to do everything” | **No handler doc** | **Marvel** **approval** **culture** **L1**; **compulsion** **L3** |
+| Nicepool = ordered hit on Baldoni | **Reynolds** **admits** **basis**; **calls** **satire** | **Legal** **dismissal** **≠** **author** **read** **wrong** |
 
 ### TODOs
 
@@ -409,6 +457,7 @@ The Freeman script **compresses** a **stock Cold War / post-Cold War villain gra
 - [ ] Primary pull: **MJ 2002 Sony protest** transcript / video archive
 - [ ] **Full CIR video** transcript pull — [YouTube Uz9PNoecNxU](https://www.youtube.com/watch?v=Uz9PNoecNxU)
 - [ ] **Freeman** post-2017 interviews — any **distancing** from **“at war”** line
+- [ ] **Nicepool** scene **shooting script** / **Marvel** **development** docs (if **Baldoni** **discovery** **surfaces**)
 - [ ] **Marvel** standard actor contract **template** (redacted leaks if any)
 - [ ] **Casebook row:** **Kanye / Ye** masters; **Taylor Swift** masters dispute (compare **ownership exit** paths)
 - [ ] **Casebook row:** **Britney Spears** conservatorship (separate **guardianship** dossier?)
@@ -430,9 +479,9 @@ The Freeman script **compresses** a **stock Cold War / post-Cold War villain gra
 
 ---
 
-Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #Prince #MichaelJackson #EltonJohn #HughJackman #Wolverine #MorganFreeman #Russia #CommitteeToInvestigateRussia #PersonalServicesContract #DeHavillandLaw #FranchiseFatigue #PredictiveProgramming #Trump #SpeakOutAct #TreysLaw #ParadigmThreatFiles
+Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #Prince #MichaelJackson #EltonJohn #HughJackman #Wolverine #RyanReynolds #Deadpool #Nicepool #JustinBaldoni #MorganFreeman #Russia #CommitteeToInvestigateRussia #PersonalServicesContract #DeHavillandLaw #FranchiseFatigue #PredictiveProgramming #Trump #SpeakOutAct #TreysLaw #ParadigmThreatFiles
 
-**Last updated:** 2026-06-10 (§ Morgan Freeman / CIR 2017 case study)
+**Last updated:** 2026-06-10 (§ Ryan Reynolds / Nicepool / Baldoni lawsuit fallout)
 
 ---
 
@@ -445,5 +494,6 @@ Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #P
 - **Michael Jackson / Sony:** **Trade-documented** **business conflict** ≠ **proof** of **foul play** at **death** (see [Prince dossier](/influence/conspiracy/celebrities/prince.md) for **similar caution**).
 - **Political silence:** **Multiple explanations** (ideology, brand protection, fan polarization) **coexist** with **containment hypothesis**.
 - **Morgan Freeman / CIR (2017):** **Documented participation** in **Reiner** nonprofit video; **author “compelled speech”** read is **interpretive** — **Freeman** has **on-record** **Democratic** **endorsements** (**Obama**, **Clinton**) as **alternative** to **handler coercion**.
+- **Ryan Reynolds / *Deadpool & Wolverine*:** **Documented** **Nicepool–Baldoni** **satire** link **acknowledged** in **Reynolds** **legal** **filings**; **$400M** **Baldoni** **suit** **dismissed** **2025**; **author “ordered attacks”** thesis is **L3** — **Feige/Marvel** **approval** **documented**, **personal** **vendetta** **model** **also** **fits** **public** **record**.
 - **Voice-note transcription:** **“Poe”** corrected to **Prince**; **“Paradise threat files”** = **Paradigm Threat Files** repo.
 - **Author thesis blocks** are **investigation prompts**, not **settled historiography**.
