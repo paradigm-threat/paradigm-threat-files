@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-10T11:36:02.170Z",
+    "date": "2026-06-10T11:57:27.028Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md",
+        "href": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-10T11:36:01.000Z",
+    "message": "Add Ryan Reynolds Nicepool case and Baldoni lawsuit to containment dossier.",
     "files": [
       {
         "status": "M",
@@ -765,37 +778,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-06-04T12:38:49.000Z",
     "message": "Correct Prometheus timing: Blip-era lightning, not Golden Age Mars.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md",
-        "href": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md",
-        "href": "/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.png",
-        "alt": "Stonehenge as a portal — Birkeland current stabilized by sacred geometry and ley lines"
-      },
-      {
-        "src": "/history/chronology/investigations/zone-of-silence-ley-crossing-magnetism.png",
-        "alt": "Zone of Silence — ley-crossing magnetism meme (radios, compasses, clocks at nodes)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png",
-        "alt": "Stonehenge quantum portal — Golden Age and Dark Ages (article lead)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-04T12:15:18.000Z",
-    "message": "Add Stonehenge AI mystery-framing predictive programming thesis.",
     "files": [
       {
         "status": "M",
