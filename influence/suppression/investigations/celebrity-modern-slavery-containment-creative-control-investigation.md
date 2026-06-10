@@ -12,18 +12,18 @@
 
 1. [Paradigm methodology — evidence tiers](#paradigm-methodology--evidence-tiers)
 2. [Investigation essentials — sponsored campaigns (baseline)](#investigation-essentials--sponsored-campaigns-baseline)
-3. [Author thesis — session capture (voice note)](#author-thesis--session-capture-voice-note)
+3. [Author thesis](#author-thesis)
 4. [Legal vocabulary — personal services, peonage, and “modern slavery”](#legal-vocabulary--personal-services-peonage-and-modern-slavery)
 5. [Anchor parable — *The Godfather* band leader / Johnny Fontane](#anchor-parable--the-godfather-band-leader--johnny-fontane)
 6. [Hollywood — multi-picture deals and “cannot refuse” mechanics](#hollywood--multi-picture-deals-and-cannot-refuse-mechanics)
 7. [Case study — Hugh Jackman / Wolverine / *Deadpool & Wolverine*](#case-study--hugh-jackman--wolverine--deadpool--wolverine)
 8. [Case study — Ryan Reynolds / *Deadpool & Wolverine* — ordered attacks and lawsuit fallout](#case-study--ryan-reynolds--deadpool--wolverine--ordered-attacks-and-lawsuit-fallout)
 9. [Case study — Wesley Snipes / prison lane / *Deadpool & Wolverine* — slaves on display](#case-study--wesley-snipes--prison-lane--deadpool--wolverine--slaves-on-display)
-10. [Case study — Poe (Anne Danielewski) / Robert Edsel / album IP gag](#case-study--poe-anne-danielewski--robert-edsel--album-ip-gag)
-11. [MeToo machinery — industry sponsorship, persecution pattern, and the Lively/Baldoni lane](#metoo-machinery--industry-sponsorship-persecution-pattern-and-the-livelybaldoni-lane)
-12. [Occupy Wall Street — parallel managed ignition (not grassroots)](#occupy-wall-street--parallel-managed-ignition-not-grassroots)
-13. [Music — Prince, Michael Jackson, Elton John / *Rocket Man*](#music--prince-michael-jackson-elton-john--rocket-man)
-14. [Ordered autobiography — documentaries, biopics, and lie-cementing](#ordered-autobiography--documentaries-biopics-and-lie-cementing)
+10. [MeToo machinery — industry sponsorship, persecution pattern, and the Lively/Baldoni lane](#metoo-machinery--industry-sponsorship-persecution-pattern-and-the-livelybaldoni-lane)
+11. [Occupy Wall Street — parallel managed ignition (not grassroots)](#occupy-wall-street--parallel-managed-ignition-not-grassroots)
+12. [Music — Prince, Michael Jackson, Elton John / *Rocket Man*](#music--prince-michael-jackson-elton-john--rocket-man)
+13. [Ordered autobiography — documentaries, biopics, and lie-cementing](#ordered-autobiography--documentaries-biopics-and-lie-cementing)
+14. [Case study — Poe (Anne Danielewski) / Robert Edsel / album IP gag](#case-study--poe-anne-danielewski--robert-edsel--album-ip-gag)
 15. [360° deals and catalog ownership](#360-deals-and-catalog-ownership)
 16. [NDAs, silence, and Texas Trey’s Law](#ndas-silence-and-texas-treys-law)
 17. [Political containment — celebrity silence and rare Trump-era support](#political-containment--celebrity-silence-and-rare-trump-era-support)
@@ -70,22 +70,21 @@
 
 ---
 
-## Author thesis — session capture (voice note)
-
-**Session capture — investigator stance (2026-06-10, transcribed):**
+## Author thesis
 
 - **Core claim:** A **systematic containment** may explain why **celebrities** so rarely **break rank** on politics or world events — and why **predictive-programming** fiction sometimes **prefigures** stars **working for decades** with **no exit** (Hugh Jackman / Wolverine as exemplar).
 - ***Deadpool & Wolverine* (2024):** Jackman’s **return after Logan retirement**, **meta-commentary**, and **fan reaction** read as **plausibly real** evidence that the **actor cannot fully choose** when to stop — not necessarily physical chains, but **franchise gravity**, **MCU multiverse workarounds**, and **audience/studio demand** that **overrides** a **declared finale** ([Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/deadpool-3-hugh-jackman-returning-as-wolverine-1235228570/), [Motion Picture Association — Feige “don’t come back”](https://www.motionpictures.org/2024/05/hugh-jackmans-return-as-wolverine-surprised-his-agent-and-worried-kevin-feige/)).
 - ***Godfather* band-leader beat:** Johnny Fontane’s **personal services contract** with a **bandleader who would not release him** until **extralegal pressure** — **signature or brains** — is the **cultural template** for “**no way out**” until a **more powerful patron** intervenes ([Wikipedia — Vito Corleone / Fontane](https://en.wikipedia.org/wiki/Vito_Corleone)).
 - **Michael Jackson (second-hand):** Heard that MJ faced **Sony pressure** over **catalog** and **contract expiry** — **partially documented** in trades (Invincible promotion pull-back, public anti-Mottola protests) but **“forced to work forever”** tier remains **L4** unless primary estate documents surface.
-- **Prince and lesser cases:** **Property owned by others**, **NDA silence**, **cannot speak out** — **Prince** is **L1** on **masters**; **lesser** artists often **NDA-bound** without **lifetime tour** obligation.
+- **Prince — masters and protest:** **Property owned by others**, **NDA silence**, **cannot speak out** — **Prince** is **L1** on **masters** and **“modern slavery”** **rhetoric**; **Warner** **schedule** **/** **tour** **disputes** **documented** in trades.
+- **Poe / Edsel — album IP gag (separate lane):** **Anne Danielewski** **(Poe)** **—** **patron** **+** **future-works** **debt** **→** **cannot** **release** **as** **Poe**; **album-centric**, **not** **major-label** **tour** **treadmill**. See [§ Poe](#case-study--poe-anne-danielewski--robert-edsel--album-ip-gag).
 - **Texas NDAs:** Recent law (**Trey’s Law**, SB 835) implies **NDAs were used to cover abuse** — **documented** legislative finding ([Texas Capitol — SB 835 analysis](https://capitol.texas.gov/tlodocs/89R/analysis/html/SB00835H.htm)).
 - **Elton John / *Rocket Man*:** Author read — **“gonna be a long, long time”** = **career sentence**; **Rocket Man** = star **burning out on everyone**, isolated on the **tour treadmill** — **partially supported** by **rock-star isolation** interpretations ([Smooth — lyrics meaning](https://www.smoothradio.com/features/the-story-of/elton-john-rocket-man-lyrics-meaning-facts/)) but **not** Taupin’s sole stated intent (Bradbury short story). **Article session (2026-06-10):** vet waiting room heard ***Rocket Man*** twice in two weeks — **only one Elton hit** most people know; voice reads as **celebrity slave** side, not free artist; breakdowns **channeled into product**; master packages **lament of slavery** as IP.
 - ***Rocketman* (2019) + ordered autobiography:** Nearly **every celebrity documentary** — biopic, series, **video-game-musician** profiles — is **industry-ordered fabrication**; cover story = once famous, **they did everything themselves**. ***Rocketman*** central lie = **“he did it to himself”** — **rehab in/out**, **vice exploitation**, **pathology as product** so IP holders keep him **performing for life** without **breaking contract**. **Not** outsider journalism trashing Elton; **commissioned narrative** cementing lies.
 - **Elton sexuality containment (1976–1992):** **Fully gay** **not allowed** in **1970s**; **bisexual** label **permitted** — preserved **marriage** option (**1984** Renate Blauel). ***Somebody Saved My Life Tonight*** — author read: **escape from arranged marriage** (Linda Woodrow / Baldry lore — [Page Six](https://pagesix.com/2020/06/06/elton-john-pays-for-jilted-ex-fiances-knee-surgery/)). **1992** *Rolling Stone* **gay** clarification + **EJAF** same year — **not organic liberation** after suppression; **timed** with **international corporate-gay** wave → **21st-century lawfare** / HR machinery. **Surprise** people didn’t know ([HuffPost UK](https://www.huffingtonpost.co.uk/2012/07/18/sir-elton-john-gay-coming-out_n_1681793.html)) = **had not been allowed to say** everything. **Why blocked:** **prominent gay leader** for decades — political weight, telling world how to feel — **IP handlers wanted performer, not movement leader**. **Rehab cycles** = if remembered as gay icon anyway, **associate homosexuality with degeneracy**; ***Rocketman*** **cements self-blame**. **1992** = **phase shift** (charity + clarity **packageable**), same **managed-ignition** grammar as [§ Investigation essentials](#investigation-essentials--sponsored-campaigns-baseline). **LGBTQIA+ expansion** — author read: **left gay/lesbian behind**; critics [Bindel (*Spectator*)](https://spectator.com/article/why-lesbians-want-out-of-the-lgbt-movement/), [Zivo (*National Post*)](https://nationalpost.com/opinion/canada-needs-a-new-lgb-movement-without-t), [APA history](https://www.apa.org/topics/lgbtq/history) — **public argument**, not unanimous consensus.
 - **EJAF — dubious charity vehicle (session 2026-06-10, author):** [**Elton John AIDS Foundation**](https://en.wikipedia.org/wiki/Elton_John_AIDS_Foundation) **(1992)** **dubious** **at** **best** **in** **author** **view** — **brand** **fuses** **AIDS** **and** **homosexuality** **in** **public** **mind** **while** **stated** **mission** **stays** **broad** **(HIV** **+** **LGBTQ** **+** **youth** **+** **harm** **reduction** **+** **EECA/Russia** **lane)** ([EJAF — Our Work](https://www.eltonjohnaidsfoundation.org/what-we-do/)). **Programs** **include** **empowering** **youth**, **LGBTQ+** **equality**, **harm** **reduction** **for** **people** **who** **use** **drugs** — **activities** **criminalized** **or** **restricted** **in** **many** **states** **(L2)**. **Apr** **3,** **2025:** **Russian** **Prosecutor** **General** **designated** **EJAF** **“undesirable** **organization”** — **bans** **operations**, **exposes** **local** **staff/partners** **to** **criminal** **prosecution** ([Moscow Times](https://www.themoscowtimes.com/2025/04/03/russia-labels-elton-john-aids-foundation-undesirable-organization-a88591), [Billboard](https://www.billboard.com/culture/pride/elton-john-aids-foundation-russia-ban-reaction-1235943455/), [Independent](https://www.independent.co.uk/news/world/europe/russia-putin-elton-john-aids-b2726692.html)) **(L1)**. **Author** **L3:** **EJAF** **as** **precursor** **/** **pretense** **to** **Russia** **cultural** **war** **(not** **accidental** **humanitarian** **drift)** — **youth** **+** **LGBTQ** **promotion** **in** **Russia** **as** **aggressive** **wedge**; **rhymes** **with** [Freeman **“we** **are** **at** **war”** **Russia** **video** **(2017)](#case-study--morgan-freeman--committee-to-investigate-russia-2017) **and** **post-2022** **“denigrate** **Russia”** **charges** **in** **prosecutor** **wording**. **Elton** **and** **peers** **likely** **did** **not** **grasp** **full** **blueprint** — **ordered** **celebrity** **performance** **(charity** **+** **clarity** **package)**; **fan** **base** **assumed** **informed** **voluntary** **choice**. **Not** **claim** **Elton** **authored** **war** **policy** **or** **saw** **handler** **memos**.
 - **Michael Jackson — Pepsi + Vegas (session 2026-06-10):** **Jan 27, 1984** Pepsi shoot fire **L1** ([People](https://people.com/michael-jackson-pepsi-commercial-accident-what-to-know-11960631)). Author thesis **(L3):** **not a real accident** — **deliberate high-poppy surgery** on star **becoming hard to control** ([high poppy investigation](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md)). **Las Vegas ~2004** (credit-card-processor businessmen, **second-hand**): MJ **celebrity slave**, contract owned by **several people** until **~2030** (**L4**). **Entourage trap:** family/friends **vices** → star **must keep working** as **only solvent**.
-- **Prince — manufactured protest + gaslighting lyric (session 2026-06-10):** **Slave** on face **L1** — author read: **manufactured resistance** (symbol name, Warner villain arc) preparing fan base for **invisible rule system**; **passive resistance** while **still paid**. ***I Would Die 4 U*** — “I'm not a woman / I'm not a man / I am something that you'll never understand” ([Dork — lyrics](https://readdork.com/lyrics/prince-and-the-revolution-i-would-die-4-u)) — **L3 gaslighting read:** pre-emptive **unknowability** shuts down scrutiny; pairs with [AI facial-structure identity lane](/influence/conspiracy/celebrities/INDEX-identity-investigations.md) / [prince.md](/influence/conspiracy/celebrities/prince.md) (**contested**, **not** court ID). **Do not** equate **Prince** with **Poe** (voice-note confusion).
+- **Prince — manufactured protest + gaslighting lyric:** **Slave** on face **L1** — author read: **manufactured resistance** (symbol name, Warner villain arc) preparing fan base for **invisible rule system**; **passive resistance** while **still paid**. ***I Would Die 4 U*** — “I'm not a woman / I'm not a man / I am something that you'll never understand” ([Dork — lyrics](https://readdork.com/lyrics/prince-and-the-revolution-i-would-die-4-u)) — **L3 gaslighting read:** pre-emptive **unknowability** shuts down scrutiny; pairs with [AI facial-structure identity lane](/influence/conspiracy/celebrities/INDEX-identity-investigations.md) / [prince.md](/influence/conspiracy/celebrities/prince.md) (**contested**, **not** court ID).
 - **Reader essay shipped:** [It's gonna be a long, long time.](https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery.md) — theory-led sibling; **audit trail stays here**.
 - **Political silence:** **Odd** that **almost no A-list celebrities** publicly supported **Trump (2016–2026)** or **world-event dissent** unless **performative** — hypothesis: **systematic suppression** of **all leadership-class voices**, not mere **liberal culture**.
 - **Movies as battleground:** **Predictive-programming** titles **flood** libraries; **one** genuinely great installment per franchise (or **one trilogy**), then **fans agree something went wrong** — **author read (session 2026-06-10):** **bad** **sequels** **may** **be** **caused** by **celebrity/containment** **slavery** (**performers** **+** **directors** **working** **under** **executive** **despotism**), **not** **primarily** **front-facing** **“talent”** **choices**; **full** **“one** **good** **movie”** **phenomenon** **→** **future** **dossier** — see [§ Franchise battleground](#franchise-battleground--one-good-movie-then-something-breaks).
@@ -402,78 +401,6 @@ Entertainment law: **13th Amendment** bars **specific performance** of **persona
 
 ---
 
-## Case study — Poe (Anne Danielewski) / Robert Edsel / album IP gag
-
-**Disambiguation:** This is **Poe** the **singer** (**Anne** **Decatur** **Danielewski**, b. 1968) — **not** **Prince**. The repo’s voice-note line **“Poe” → Prince** applies to **misheard** **transcription** **only**; **this** **section** is a **separate**, **documented** **artist**.
-
-**User query (session 2026-06-10):** Heard **Poe** was **“owned”** by a **Texas** **oil** **baron** — **album** **IP** **containment** **without** the **tour-treadmill** **emphasis**. **Does** **it** **check** **out** **as** **celebrity** **slavery** **(masters** **/ future** **works)**?
-
-**Short answer:** **Largely yes** — **with** **nuance**. **Robert** **M.** **Edsel** (**Dallas**, **oil** **&** **gas** **entrepreneur**, **not** **literally** **a** **named** **“baron”**) **acquired** **contract** **interest** in **Poe** **as** **an** **artist** **+** **future** **recordings** **(2001)** and **used** **debt** **+** **litigation** to **gag** **her** **for** **years**. **California** **Labor** **Commissioner** **(L1)** **voided** **Edsel/Agon** **management** **agreements** as **unlicensed** **talent** **agency**. **Masters** **ownership** **was** **a** **parallel** **label** **layer** (**Modern/FEI**), **not** **wholly** **Edsel’s** **catalog** **—** but **effect** **=** **cannot** **release** **/ perform** **professionally** **under** **her** **name**, **pseudonym** **“Jane”** **only**.
-
-### Documented timeline (L1–L2)
-
-| Date / beat | Detail | Source |
-|-------------|--------|--------|
-| **1995–2000** | ***Hello*** **(gold)**; ***Haunted*** **(Oct** **2000)** **climbing** **charts** — **MTV**, **Depeche** **Mode** **tour** **opening** | [Wikipedia — Poe](https://en.wikipedia.org/wiki/Poe_(singer)) |
-| **Jan 2001** | **AOL–Time** **Warner** **merger** **pressure** → **Atlantic** **drops** **Modern/FEI** **(Stevie** **Nicks** **boutique** **label)** **six** **weeks** **after** **renewing** **Poe’s** **three-album** **deal** | [Billboard via Wikipedia](https://en.wikipedia.org/wiki/Poe_(singer)); [Spinner retrospective](https://en.wikipedia.org/wiki/Poe_(singer)) |
-| **Master ownership twist** | **1982** **Atlantic** **distribution** **deal** → **Modern/FEI** **owned** **masters** of **all** **Poe** **recordings**; **Atlantic** **funded** **promo** **but** **held** **no** **catalog** **equity** | [Wikipedia — Poe](https://en.wikipedia.org/wiki/Poe_(singer)) |
-| **Nov 2001** | **Haunted** **promotion** **killed**; **“Wild”** **single** **promos** **never** **sent** **to** **radio** | Same |
-| **2001** | **Modern/FEI** **sold** **its** **interest** in **Poe** **as** **artist** **+** **future** **recordings** to **Robert** **M.** **Edsel** (**questionable** **deal** per **label** **history** **summaries**) | [Wikipedia — Poe](https://en.wikipedia.org/wiki/Poe_(singer)); [MusicFans SE](https://musicfans.stackexchange.com/questions/164/what-happened-to-poe) |
-| **Sep 2001** | Poe **sought** **Edsel’s** **advice** on **Atlantic/FEI** **contract** **(friend** **of** **fiancé’s** **father)** | [CA Labor Comm. TAC 41-03 PDF](http://www.dir.ca.gov/dlse/TAC/2003-41%20Annie%20Danielewski%20v%20Agon%20investment%20&%20Robert%20Edsel.pdf) |
-| **2002** | **Agon** **Investment** **/ Edsel** **management** **+** **$200k** **promissory** **note**; **default** → **current** **and** **future** **works** **eligible** **for** **repayment** **(per** **Wikipedia** **summary** **of** **note)** | [Wikipedia — Poe](https://en.wikipedia.org/wiki/Poe_(singer)); Labor Comm. PDF |
-| **2003–2005** | **Annie** **Danielewski** **v.** **Agon** **&** **Edsel** — **Talent** **Agencies** **Act** | [Labor Comm. TAC 41-03](http://www.dir.ca.gov/dlse/TAC/2003-41%20Annie%20Danielewski%20v%20Agon%20investment%20&%20Robert%20Edsel.pdf) |
-| **2004** | **Modern/FEI** **sold** **masters** **(*Hello*,** ***Haunted*)** to **Sheridan** **Square** → **V2** **/** **eOne** (**Edsel** **not** **listed** **as** **master** **owner**) | [Wikipedia — Poe](https://en.wikipedia.org/wiki/Poe_(singer)) |
-| **~2005** | **Labor** **Commission** **ruled** for **Poe** — **Agon/Edsel** **agreements** **void** **ab** **initio** (**unlicensed** **talent** **agency**); **partial** **repayment** **of** **loan** **still** **owed** | Labor Comm. PDF; Wikipedia |
-| **2011** | Poe **quoted** **NY** **Post** **(Miriam** **Katz):** **“My** **entire** **life** **was** **suddenly** **under** **the** **control** **of** **a** **very** **powerful** **man…”** | [MusicFans / Wikipedia cite](https://musicfans.stackexchange.com/questions/164/what-happened-to-poe) (**L2**) |
-| **2010s–2020s** | **Slow** **return** — **Repoezessed** **label**, **Alan** **Wake** **II** **collab** **(2023)**, **“I** **went** **missing** **in** **2001”** **(2024)** | [Wikipedia — Poe](https://en.wikipedia.org/wiki/Poe_(singer)) |
-
-### Robert M. Edsel — who he is (L1)
-
-| Fact | Detail | Source |
-|------|--------|--------|
-| **Base** | **Dallas,** **Texas** — **Agon** **Investment** **Company** | [Labor Comm. PDF](http://www.dir.ca.gov/dlse/TAC/2003-41%20Annie%20Danielewski%20v%20Agon%20investment%20&%20Robert%20Edsel.pdf) |
-| **Oil/gas** | **Gemini** **Exploration** — **horizontal** **drilling** **pioneer** **1980s–90s**; **sold** **to** **Union** **Pacific** **Resources** **(1995)** | [Wikipedia — Robert M. Edsel](https://en.wikipedia.org/wiki/Robert_M._Edsel) |
-| **Later** | **Author** **(*The** **Monuments** **Men*)**, **philanthropy** — **not** **a** **major** **label** **exec** | Same |
-| **“Oil baron”** | **Investigation** **label:** **wealthy** **Texas** **oil/gas** **investor** **+** **patron** — **not** **documented** **as** **hereditary** **baron** **title** | **Tier** **wording** **(L2** **press** **shorthand)** |
-
-### California Labor Commissioner — key findings (L1)
-
-From **TAC** **41-03** (**Annie** **Danielewski** **v.** **Agon** **Investment** **&** **Robert** **Edsel**):
-
-- **Edsel** / **Agon** **never** **licensed** as **California** **talent** **agency**.
-- **Edsel** **took** **over** **business** **management**, **routed** **legal** **work** through **Akin** **Gump**, **instructed** Poe **not** **to** **contact** **counsel** **directly**.
-- **Procurement** **finding:** **negotiating** **performances** **/** **settlements** **=** **talent** **agency** **work** **without** **license**.
-- **Poe** **sought** **void** of **April** **2002** **management** **contract**, **accounting** **contract**, **promissory** **note** — **Commission** **found** **agreements** **void** **ab** **initio**; **Agon/Edsel** **no** **enforceable** **rights** **thereunder** (petition **framing** **in** **decision**).
-
-**Tier:** **Primary** **administrative** **record** — **strongest** **anchor** **in** **this** **case**.
-
-### Investigation read — celebrity slavery **minus tour treadmill** (L3)
-
-| Dimension | Poe / Edsel | Prince (contrast) |
-|-----------|-------------|-------------------|
-| **IP lock** | **Future** **works** **+** **promissory** **default** **collateral**; **masters** **held** **by** **FEI** **then** **sold** **(2004)** | **Warner** **owned** **masters**; **wrote** **“slave”** **on** **face** |
-| **Performance** | **Gag** on **professional** **release** **under** **own** **name**; **“Jane”** **pseudonym** | **Forced** **tour** **/** **schedule** **dispute** **(label)** |
-| **Patron type** | **Individual** **Texas** **investor** **/** **self-described** **fan** | **Major** **label** **/** **360°** **stack** |
-| **Exit** | **Labor** **Commission** **void** **(partial** **win)** | **2014** **Warner** **masters** **deal** **(partial** **win)** |
-| **Slavery metaphor fit** | **High** for **album** **IP** **+** **identity** **gag**; **lower** for **literal** **peonage** | **L1** **Prince** **own** **word** |
-
-**Author synthesis:** Poe **checks out** as **album-centric** **containment** — **a** **rising** **MTV** **artist** **cut** **loose** **by** **merger** **math**, **then** **her** **contract** **interest** **sold** **to** **a** **Dallas** **oil/gas** **millionaire** **who** **litigated** **her** **into** **silence**. **Not** **the** **same** **as** **Prince’s** **label** **war**, but **same** **family:** **someone** **else** **controls** **whether** **the** **music** **exists** **under** **your** **name**.
-
-**Minus tour schedule (user emphasis):** **Documented** **harm** **here** **is** **recording** **+** **professional** **identity** **(masters** **lane** **/** **future** **works** **/** **perform** **as** **Poe)** — **not** **decades** **on** **road** **by** **contract**. **Irony:** **She** **was** **blocked** **from** **touring** **as** **Poe** **while** **fighting** **for** **catalog** **freedom**.
-
-### What this section does **not** claim
-
-- **Not** **“Edsel** **owned** **all** **master** **tapes**”** — **FEI** **/** **Sheridan** **Square** **chain** **documented** **separately**.
-- **Not** **“Modern/FEI** **sale** **to** **Edsel”** **fully** **litigated** **in** **file** — **described** **in** **Wikipedia** **/** **secondary** **press** (**L2**); **Labor** **Comm.** **case** **is** **Agon** **management** **layer**.
-- **Not** **malice** **proved** — Poe’s **quote** **is** **subjective**; **Edsel** **may** **have** **seen** **himself** **as** **rescuer** **fan**.
-- **Not** **permanent** **loss** — Poe **returned** **(slowly)**; **Alan** **Wake** **II** **track** **2023**.
-
-**Cross-reference:** [§ Legal vocabulary — Prince](#legal-vocabulary--personal-services-peonage-and-modern-slavery); [§ Franchise battleground](#franchise-battleground--one-good-movie-then-something-breaks) (**one** **great** **album** **then** **break** — ***Haunted*** **arc**); [§ 360° deals](#360-deals-and-catalog-ownership).
-
-**Tier summary:** **L1** Labor Comm. + **Edsel** **bio** **facts**; **L2** **label** **sale-to-Edsel** **narrative**; **L3** **celebrity-slavery** **(album** **IP)** **fit**.
-
----
-
 ## MeToo machinery — industry sponsorship, persecution pattern, and the Lively/Baldoni lane
 
 **Investigation essential (restated):** The **2017–present #MeToo public campaign** is **not** treated as **organic**. It is **corporate- / institution-sponsored** machinery — **exactly the same epistemic class** as **Occupy Wall Street** ([§ Investigation essentials](#investigation-essentials--sponsored-campaigns-baseline)). **L1** **abuse** **cases** (**Weinstein** **conviction**, **NDA** **decades**) **coexist** with **L3** **read** that **Hollywood** **owned** **the** **wave** **once** **NYT** **lit** **it**.
@@ -566,7 +493,7 @@ From **TAC** **41-03** (**Annie** **Danielewski** **v.** **Agon** **Investment**
 
 ### Prince
 
-See [§ Legal vocabulary](#legal-vocabulary--personal-services-peonage-and-modern-slavery). [Prince identity investigation](/influence/conspiracy/celebrities/prince.md) — **label battles**, **androgyny**, **death** open questions; [INDEX — AI facial-structure methodology](/influence/conspiracy/celebrities/INDEX-identity-investigations.md). **Compare:** [§ Poe (Anne Danielewski)](#case-study--poe-anne-danielewski--robert-edsel--album-ip-gag) — **separate artist**; **album IP gag** via **Texas patron** **Edsel**, **not** Prince.
+See [§ Legal vocabulary](#legal-vocabulary--personal-services-peonage-and-modern-slavery). [Prince identity investigation](/influence/conspiracy/celebrities/prince.md) — **label battles**, **androgyny**, **death** open questions; [INDEX — AI facial-structure methodology](/influence/conspiracy/celebrities/INDEX-identity-investigations.md).
 
 #### Documented protest (L1)
 
@@ -578,13 +505,13 @@ See [§ Legal vocabulary](#legal-vocabulary--personal-services-peonage-and-moder
 | 2014 resolution   | **Regained ownership** of Warner **masters** in new deal                                                           | [Rolling Stone — 2014 deal](https://www.rollingstone.com/music/music-news/prince-promises-new-album-and-remasters-after-label-partnership-171916/)                        |
 
 
-#### Author thesis — manufactured resistance + gaslighting lyric (session 2026-06-10, **L3–L4**)
+#### Author thesis — manufactured resistance + gaslighting lyric (**L3–L4**)
 
 **Investigator stance:**
 
 1. **Protest as product:** **Slave** on face + **symbol** name + **Warner-as-villain** narrative **prepares fan base** for **invisible rule system** — industry truly in charge; star offers **passive resistance** while **still taking paycheck**. **Not** denial that legal fights were **material** (**L1**); **denial** that protest was **wholly autonomous authorship**.
 2. ***I Would Die 4 U* (1984, *Purple Rain*):** Opening lines documented — *“I'm not a woman / I'm not a man / I am something that you'll never understand”* ([Dork — lyrics](https://readdork.com/lyrics/prince-and-the-revolution-i-would-die-4-u)). **Mainstream read:** gender liberation / mysticism ([School of Rock — queer themes](https://www.schoolofrock.com/resources/music-education/analyzing-the-lyrics-queer-themes-in-rock-music)). **Author read:** **pre-emptive containment** — deny both poles, claim **unknowability**; observer who asks plain questions **“doesn't understand.”** Rebellion **sold as lyrics**, identity **sold as enigma**, contract war **sold as hero arc**.
-3. **Identity lane (subtle):** [AI-assisted facial/skull analysis](/influence/conspiracy/celebrities/INDEX-identity-investigations.md) flags Prince among profiles where **presented sex** and **skeletal proportions** **diverge** — **author aligns** with **theoretical frame** (marginalized identity as **marketable surface**). **Tier:** **contested** anthropometrics; **not** court-ready ID. **Do not** conflate with **Poe** (voice-note **Prince→Poe** confusion logged in [§ Poe](#case-study--poe-anne-danielewski--robert-edsel--album-ip-gag)).
+3. **Identity lane (subtle):** [AI-assisted facial/skull analysis](/influence/conspiracy/celebrities/INDEX-identity-investigations.md) flags Prince among profiles where **presented sex** and **skeletal proportions** **diverge** — **author aligns** with **theoretical frame** (marginalized identity as **marketable surface**). **Tier:** **contested** anthropometrics; **not** court-ready ID.
 
 **Reader essay close:** [modern-celebrity-slavery.md](/influence/suppression/modern-celebrity-slavery.md) § Prince.
 
@@ -710,6 +637,70 @@ See [§ Legal vocabulary](#legal-vocabulary--personal-services-peonage-and-moder
 **TODO:** Primary pull **Russian** **Prosecutor** **General** **Apr** **2025** **full** **text** (Telegram + website); **EJAF** **annual** **reports** **by** **country** **(Russia/EECA** **spend** **%**); **1992** **EJAF** **incorporation** **filings** **and** **founding** **donor** **list**.
 
 **Reader essay:** [It's gonna be a long, long time.](https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery.md)
+
+---
+
+## Case study — Poe (Anne Danielewski) / Robert Edsel / album IP gag
+
+**Subject:** **Poe** — **Anne Decatur Danielewski** (b. 1968), singer.
+
+**Thesis:** **Album IP containment** via **Texas patron** **Robert M. Edsel** — **masters / future works** lock through **patron litigation**, not the **major-label tour treadmill**.
+
+**Assessment:** **Largely yes** — **with** **nuance**. **Robert** **M.** **Edsel** (**Dallas**, **oil** **&** **gas** **entrepreneur**, **not** **literally** **a** **named** **“baron”**) **acquired** **contract** **interest** in **Poe** **as** **an** **artist** **+** **future** **recordings** **(2001)** and **used** **debt** **+** **litigation** to **gag** **her** **for** **years**. **California** **Labor** **Commissioner** **(L1)** **voided** **Edsel/Agon** **management** **agreements** as **unlicensed** **talent** **agency**. **Masters** **ownership** **was** **a** **parallel** **label** **layer** (**Modern/FEI**), **not** **wholly** **Edsel’s** **catalog** **—** but **effect** **=** **cannot** **release** **/ perform** **professionally** **under** **her** **name**, **pseudonym** **“Jane”** **only**.
+
+### Documented timeline (L1–L2)
+
+| Date / beat | Detail | Source |
+|-------------|--------|--------|
+| **1995–2000** | ***Hello*** **(gold)**; ***Haunted*** **(Oct** **2000)** **climbing** **charts** — **MTV**, **Depeche** **Mode** **tour** **opening** | [Wikipedia — Poe](https://en.wikipedia.org/wiki/Poe_(singer)) |
+| **Jan 2001** | **AOL–Time** **Warner** **merger** **pressure** → **Atlantic** **drops** **Modern/FEI** **(Stevie** **Nicks** **boutique** **label)** **six** **weeks** **after** **renewing** **Poe’s** **three-album** **deal** | [Billboard via Wikipedia](https://en.wikipedia.org/wiki/Poe_(singer)); [Spinner retrospective](https://en.wikipedia.org/wiki/Poe_(singer)) |
+| **Master ownership twist** | **1982** **Atlantic** **distribution** **deal** → **Modern/FEI** **owned** **masters** of **all** **Poe** **recordings**; **Atlantic** **funded** **promo** **but** **held** **no** **catalog** **equity** | [Wikipedia — Poe](https://en.wikipedia.org/wiki/Poe_(singer)) |
+| **Nov 2001** | **Haunted** **promotion** **killed**; **“Wild”** **single** **promos** **never** **sent** **to** **radio** | Same |
+| **2001** | **Modern/FEI** **sold** **its** **interest** in **Poe** **as** **artist** **+** **future** **recordings** to **Robert** **M.** **Edsel** (**questionable** **deal** per **label** **history** **summaries**) | [Wikipedia — Poe](https://en.wikipedia.org/wiki/Poe_(singer)); [MusicFans SE](https://musicfans.stackexchange.com/questions/164/what-happened-to-poe) |
+| **Sep 2001** | Poe **sought** **Edsel’s** **advice** on **Atlantic/FEI** **contract** **(friend** **of** **fiancé’s** **father)** | [CA Labor Comm. TAC 41-03 PDF](http://www.dir.ca.gov/dlse/TAC/2003-41%20Annie%20Danielewski%20v%20Agon%20investment%20&%20Robert%20Edsel.pdf) |
+| **2002** | **Agon** **Investment** **/ Edsel** **management** **+** **$200k** **promissory** **note**; **default** → **current** **and** **future** **works** **eligible** **for** **repayment** **(per** **Wikipedia** **summary** **of** **note)** | [Wikipedia — Poe](https://en.wikipedia.org/wiki/Poe_(singer)); Labor Comm. PDF |
+| **2003–2005** | **Annie** **Danielewski** **v.** **Agon** **&** **Edsel** — **Talent** **Agencies** **Act** | [Labor Comm. TAC 41-03](http://www.dir.ca.gov/dlse/TAC/2003-41%20Annie%20Danielewski%20v%20Agon%20investment%20&%20Robert%20Edsel.pdf) |
+| **2004** | **Modern/FEI** **sold** **masters** **(*Hello*,** ***Haunted*)** to **Sheridan** **Square** → **V2** **/** **eOne** (**Edsel** **not** **listed** **as** **master** **owner**) | [Wikipedia — Poe](https://en.wikipedia.org/wiki/Poe_(singer)) |
+| **~2005** | **Labor** **Commission** **ruled** for **Poe** — **Agon/Edsel** **agreements** **void** **ab** **initio** (**unlicensed** **talent** **agency**); **partial** **repayment** **of** **loan** **still** **owed** | Labor Comm. PDF; Wikipedia |
+| **2011** | Poe **quoted** **NY** **Post** **(Miriam** **Katz):** **“My** **entire** **life** **was** **suddenly** **under** **the** **control** **of** **a** **very** **powerful** **man…”** | [MusicFans / Wikipedia cite](https://musicfans.stackexchange.com/questions/164/what-happened-to-poe) (**L2**) |
+| **2010s–2020s** | **Slow** **return** — **Repoezessed** **label**, **Alan** **Wake** **II** **collab** **(2023)**, **“I** **went** **missing** **in** **2001”** **(2024)** | [Wikipedia — Poe](https://en.wikipedia.org/wiki/Poe_(singer)) |
+
+### Robert M. Edsel — who he is (L1)
+
+| Fact | Detail | Source |
+|------|--------|--------|
+| **Base** | **Dallas,** **Texas** — **Agon** **Investment** **Company** | [Labor Comm. PDF](http://www.dir.ca.gov/dlse/TAC/2003-41%20Annie%20Danielewski%20v%20Agon%20investment%20&%20Robert%20Edsel.pdf) |
+| **Oil/gas** | **Gemini** **Exploration** — **horizontal** **drilling** **pioneer** **1980s–90s**; **sold** **to** **Union** **Pacific** **Resources** **(1995)** | [Wikipedia — Robert M. Edsel](https://en.wikipedia.org/wiki/Robert_M._Edsel) |
+| **Later** | **Author** **(*The** **Monuments** **Men*)**, **philanthropy** — **not** **a** **major** **label** **exec** | Same |
+| **“Oil baron”** | **Investigation** **label:** **wealthy** **Texas** **oil/gas** **investor** **+** **patron** — **not** **documented** **as** **hereditary** **baron** **title** | **Tier** **wording** **(L2** **press** **shorthand)** |
+
+### California Labor Commissioner — key findings (L1)
+
+From **TAC** **41-03** (**Annie** **Danielewski** **v.** **Agon** **Investment** **&** **Robert** **Edsel**):
+
+- **Edsel** / **Agon** **never** **licensed** as **California** **talent** **agency**.
+- **Edsel** **took** **over** **business** **management**, **routed** **legal** **work** through **Akin** **Gump**, **instructed** Poe **not** **to** **contact** **counsel** **directly**.
+- **Procurement** **finding:** **negotiating** **performances** **/** **settlements** **=** **talent** **agency** **work** **without** **license**.
+- **Poe** **sought** **void** of **April** **2002** **management** **contract**, **accounting** **contract**, **promissory** **note** — **Commission** **found** **agreements** **void** **ab** **initio**; **Agon/Edsel** **no** **enforceable** **rights** **thereunder** (petition **framing** **in** **decision**).
+
+**Tier:** **Primary** **administrative** **record** — **strongest** **anchor** **in** **this** **case**.
+
+### Investigation read — album-centric containment (L3)
+
+**Author synthesis:** Poe **checks out** as **album-centric** **containment** — **a** **rising** **MTV** **artist** **cut** **loose** **by** **merger** **math**, **then** **her** **contract** **interest** **sold** **to** **a** **Dallas** **oil/gas** **millionaire** **who** **litigated** **her** **into** **silence**. **Someone** **else** **controlled** **whether** **the** **music** **could** **exist** **under** **her** **name** — **future** **works** **+** **promissory** **default** **collateral**; **masters** **held** **by** **Modern/FEI** **then** **Sheridan** **Square** **/** **V2** **/** **eOne**; **professional** **identity** **gagged** **as** **“Jane”** **only** until **Labor** **Commission** **partial** **win**.
+
+**Album-centric harm (not tour treadmill):** **Documented** **harm** **here** **is** **recording** **+** **professional** **identity** **(masters** **lane** **/** **future** **works** **/** **perform** **as** **Poe)** — **not** **decades** **on** **road** **by** **contract**. **Irony:** **She** **was** **blocked** **from** **touring** **as** **Poe** **while** **fighting** **for** **catalog** **freedom**.
+
+### What this section does **not** claim
+
+- **Not** **“Edsel** **owned** **all** **master** **tapes**”** — **FEI** **/** **Sheridan** **Square** **chain** **documented** **separately**.
+- **Not** **“Modern/FEI** **sale** **to** **Edsel”** **fully** **litigated** **in** **file** — **described** **in** **Wikipedia** **/** **secondary** **press** (**L2**); **Labor** **Comm.** **case** **is** **Agon** **management** **layer**.
+- **Not** **malice** **proved** — Poe’s **quote** **is** **subjective**; **Edsel** **may** **have** **seen** **himself** **as** **rescuer** **fan**.
+- **Not** **permanent** **loss** — Poe **returned** **(slowly)**; **Alan** **Wake** **II** **track** **2023**.
+
+**Cross-reference:** [§ Franchise battleground](#franchise-battleground--one-good-movie-then-something-breaks) (**one** **great** **album** **then** **break** — ***Haunted*** **arc**); [§ 360° deals](#360-deals-and-catalog-ownership).
+
+**Tier summary:** **L1** Labor Comm. + **Edsel** **bio** **facts**; **L2** **label** **sale-to-Edsel** **narrative**; **L3** **celebrity-slavery** **(album** **IP)** **fit**.
 
 ---
 
@@ -1036,7 +1027,6 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 | Snipes tax case = Hollywood hit job                      | **Timing** **overlap** **only**                         | **DOJ** **deterrence** **memo** **L1**; **coordination** **=** **L3** **pattern** **max**                              |
 | *D&W* Void = literal slavery exhibition                  | **Metaphor** **overreach**                              | **Author L3** **“slaves** **on** **display”**; **not** **13th** **Amendment** **claim**                                |
 | Poe “owned by oil baron”                                 | **“Baron”** **hyperbole**                               | **Edsel** = **Dallas** **oil/gas** **investor** **(L1)**; **patron** **contract** **+** **Labor** **Comm.** **void** **(L1)** |
-| Poe = Prince (voice-note confusion)                      | **Wrong** **artist**                                    | **Prince** **=** **Warner** **masters**; **Poe** **=** **separate** **[§ Poe](#case-study--poe-anne-danielewski--robert-edsel--album-ip-gag)** |
 
 
 ### TODOs
@@ -1078,7 +1068,7 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 
 Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #Prince #Poe #RobertEdsel #MichaelJackson #EltonJohn #EJAF #EltonJohnAIDSFoundation #HughJackman #Wolverine #RyanReynolds #Deadpool #Nicepool #JustinBaldoni #WesleySnipes #Blade #MorganFreeman #Russia #RussiaUndesirable #CommitteeToInvestigateRussia #PersonalServicesContract #DeHavillandLaw #FranchiseFatigue #PredictiveProgramming #Trump #SpeakOutAct #TreysLaw #MeToo #TimesUp #OccupyWallStreet #Adbusters #ParadigmThreatFiles
 
-**Last updated:** 2026-06-10 (§ EJAF Russia ban + charity-wedge author read; § Elton/*Rocketman*/1992 sexuality + ordered autobiography; § MJ Pepsi high-poppy + Vegas L4; § Prince gaslighting + AI identity; reader essay — [modern-celebrity-slavery.md](/influence/suppression/modern-celebrity-slavery.md))
+**Last updated:** 2026-06-11 (Poe / Prince fully decoupled — separate case studies, no comparison table or cross-refs)
 
 ---
 
@@ -1096,11 +1086,11 @@ Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #P
 - **Ryan Reynolds / *Deadpool & Wolverine*:** **Documented** **Nicepool–Baldoni** **satire** link; **MeToo** **legal** **layer** in **dismissal** is **read** **here** as **industry** **machinery** (**not organic** — **same** **class** as **Occupy**), **not** as **refutation** of **instrument** **thesis** — see [§ MeToo machinery](#metoo-machinery--industry-sponsorship-persecution-pattern-and-the-livelybaldoni-lane), [§ Occupy parallel](#occupy-wall-street--parallel-managed-ignition-not-grassroots).
 - **Wesley Snipes / tax prison / *D&W*:** **Federal** **conviction** and **BOP** **dates** are **L1**; **“staged”** **jail** is **not** **default** — **open** **L4** **question** **only**; **“slaves on display”** is **author** **metaphor** for **Void** **cameo** **roster**, **not** **literal** **trafficking** — see [§ Snipes](#case-study--wesley-snipes--prison-lane--deadpool--wolverine--slaves-on-display).
 - **Franchise quality / “one good movie”:** **Bad** **sequel** **phenomenon** **may** **get** **its** **own** **investigation**; **here** **only** **the** **provisional** **claim** that **containment** **+** **executive** **override** **can** **cause** **low** **quality** — **not** **that** **visible** **stars** **are** **always** **innocent** — see [§ Franchise battleground](#franchise-battleground--one-good-movie-then-something-breaks).
-- **Voice-note transcription:** **“Poe”** in **early** **voice** **notes** **often** **meant** **Prince** — **but** **artist** **[Poe (Anne Danielewski)](#case-study--poe-anne-danielewski--robert-edsel--album-ip-gag)** is a **separate** **documented** **case** (**Robert** **Edsel** **/** **album** **IP**); **“Paradise threat files”** = **Paradigm Threat Files** repo.
 - **Elton John / *Rocketman* / 1992:** **1976** bisexual and **1992** gay interviews are **L1** ([Variety](https://variety.com/2019/music/features/elton-john-on-being-gay-1203248152/), [HuffPost UK](https://www.huffingtonpost.co.uk/2012/07/18/sir-elton-john-gay-coming-out_n_1681793.html)); **sexuality containment**, **rehab-as-degeneracy**, **1992 as corporate phase shift**, and **ordered autobiography** are **author L3**. **Elton’s** later **“easier to say bisexual”** self-lines **coexist** with **constraint read** — **not** mutually exclusive.
 - **EJAF:** **1992** **founding**, **stated** **program** **lanes** (**LGBTQ+**, **youth**, **harm** **reduction**, **EECA/Russia**) are **L1** ([EJAF — Our Work](https://www.eltonjohnaidsfoundation.org/what-we-do/)); **Apr** **3,** **2025** **Russia** **“undesirable”** **designation** **and** **prosecution** **effects** are **L1** ([Moscow Times](https://www.themoscowtimes.com/2025/04/03/russia-labels-elton-john-aids-foundation-undesirable-organization-a88591), [Billboard](https://www.billboard.com/culture/pride/elton-john-aids-foundation-russia-ban-reaction-1235943455/)). **Author L3:** **charity** **as** **dubious** **brand** **fusing** **AIDS** **+** **homosexuality**; **aggressive** **cultural-war** **wedge** **(youth/LGBTQ** **in** **Russia)** **and** **pretense** **precursor** **to** **hard** **Russia** **hostility** — **not** **claim** **Elton** **authored** **war** **policy** **or** **saw** **handler** **memos**; **ordered** **performance** **read** **only**.
 - **Michael Jackson / Pepsi (1984):** **Burns** and **settlement** **L1**; **deliberate high-poppy** **intent** **L3** **without** **sabotage** **proof**; **Vegas ~2004 / ~2030 contract** **L4** **author memory** **only**.
 - **Prince / *I Would Die 4 U*:** **Lyric** **L1**; **gaslighting** and **manufactured protest** **L3**; **AI identity** **contested** — [INDEX](/influence/conspiracy/celebrities/INDEX-identity-investigations.md). **Mainstream LGBTQ liberation read** and **institutional shut-down read** **both** **held**.
+- **Poe / Edsel:** **Labor Commissioner** **void** **and** **timeline** **facts** **L1**; **patron** **containment** **L3** — **unrelated** **to** **Prince** **/** **Warner** **lane**; **Edsel** **≠** **hereditary** **“baron”** (**wealthy** **patron** **L1**).
 - **Ordered autobiography:** **Default L3** for **authorized** **celebrity life-story** **product** — **not** denial of **all** **real** **pain** or **every** **documentary** **frame**.
 - **LGBTQ “left behind” registry:** **Mixed-tier** **press**; documents **debate**, **not** **community** **consensus** — **full** **90s→lawfare** **arc** **out of scope** **here**.
 - **Reader essay:** [It's gonna be a long, long time.](https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery.md) — **theory-led** sibling; **tables and tiers** **stay** **in** **this** **file**.
