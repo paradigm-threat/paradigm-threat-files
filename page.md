@@ -181,6 +181,7 @@ or *not* believing.
 * [Artificial Intelligence](/science/ai/ai-control-investigation.md) — Control, PP, and “ghost in the machine” governance.
 * [DNA as Fingerprint, Not Blueprint](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) — Scalar / ZPE medium, first life, ontogeny.
 * [German New Medicine (LearningGNM) — cancer paradigm cluster](/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md) — Hamer/GNM portal, terrain thesis, oncology money/ads, RV & scalar & Tennant contrasts; author cancer program preserved.
+* [Nervous system — existence, historical critics, blood/bone sufficiency](/science/biology/investigations/nervous-system-existence-skepticism-investigation.md) — Skeptic pillars; Galen–Hodgkin stack; *Two Towers* extended-edition PP case study (Gimli / “nervous system” joystick gag).
 * [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — Reader essay: æther / scalar bridge, womb and first life, Bardo phenomenology, reincarnation bands; links DNA + afterlife dossiers.
 * [The Cure for Cancer](/science/biology/the-cure-for-cancer.md) — Hope-forward reader essay: celebrity narrative, incurability chorus, terrain & indigenous lanes; links [GNM / cancer paradigm investigation](/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md).
 * [Tornado–Power Station Explosion](/science/geoengineering/tornado-power-station-investigation.md) — EM tornado suppression thesis and media silence.

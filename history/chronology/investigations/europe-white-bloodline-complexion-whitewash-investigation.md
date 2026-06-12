@@ -239,6 +239,7 @@ Use this table when reading European sources, meme books, or Fomenko side by sid
 | Tartarian maps | [/history/mudflood/investigations/tartarian-maps-investigation.md](/history/mudflood/investigations/tartarian-maps-investigation.md) |
 | Franklin complexion + Palatine | [/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md](/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md) |
 | Slave trades + Moor | [/governance/slavery/slave-trades-and-moor-etymology-investigation.md](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
+| Cherokee Moors meme + Delaware Lenape “Moor” law | [/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) |
 | American Revolution / 1775 fracture | [/governance/war/investigations/american-revolution-investigation.md](/governance/war/investigations/american-revolution-investigation.md) |
 | Giants / Horde military lexicon | [/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) |
 | Prester John / Christian East | [/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md) |

@@ -139,6 +139,7 @@ After the fracture:
 
 - [Franklin “Palatine Moors” screenshot](/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md) — Circulated book page vs authentic *Observations* (1751); Boors/Moors forensics; Palatine settlers inside British colonial slavery; Anna’s Archive book hunt.
 - [Europe: white bloodline, complexion, whitewash](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) — Status vs pigment; Moor/swarthy taxonomy; Fomenko map erasure parallel.
+- [Cherokee Moors meme — Delaware Lenape “Moor” label](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) — **Validated:** 29 Del. C. § 106, 1921 Moor schools, Smithsonian 1948; **unverified:** Oklahoma “Cherokee Moors” photo; three Moor lanes.
 
 ## Open Questions
 
