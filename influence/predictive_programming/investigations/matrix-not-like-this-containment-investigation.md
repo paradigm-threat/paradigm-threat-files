@@ -1,10 +1,10 @@
 # Investigation: *The Matrix* — “Not Like This” containment thesis (controlled opposition, sequel fracture, MxO, *Resurrections*)
 
-> **TL;DR:** Open dossier testing whether the *Matrix* franchise was **always or increasingly** a **containment vessel** for a **dual-layer “woke” readership** (those who sense systemic lies vs. those who accept official surfaces)—offering **awakening symbolism** while **neutralizing revolution** through **team replacement** (Square→ESC, Foster→Mary Alice, Tank→Link), cast changes, plot resets, MMO shutdown, and *Resurrections* nostalgia-trap grammar that **closes the thesis**. **Evidence mix:** documented production facts plus **author interpretive (L3)** containment pattern reads including **recurring Paradigm team-replacement thesis**. **Anchor sources:** Marcus Chong / *The Kill Off* lane, Giant Bomb **“Not Like This”** (load-bearing), Oracle **vampire/werewolf/alien** monologue (*Reloaded*, ASS-verified timecodes), **Maddox** *Reloaded* takedown (2003 — author CO-agent read), sixth-iteration reset lore, Spirits Within ↔ Animatrix ↔ Zion battle VFX lineage. **Planned essay:** [`/influence/controlled_opposition/not-like-this.md`](/influence/controlled_opposition/not-like-this.md).
+> **TL;DR:** Open dossier testing whether the *Matrix* franchise was **always or increasingly** a **containment vessel** for a **dual-layer “woke” readership**—offering **awakening symbolism** while **neutralizing revolution** through team replacement, cast changes, MMO shutdown, and *Resurrections* nostalgia-trap grammar. **Reader essay:** [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) **(published 2026-06-14)**. Full evidence tiers, transcripts, and TODOs remain in this file.
 
 **Date:** 2026-06-14  
-**Status:** Open — article **not** written; investigation + **article plan** only.  
-**Planned reader essay title:** [**Not Like This**](/influence/controlled_opposition/not-like-this.md) *(file not created yet — **CO hub**, author confirmed 2026-06-14)*
+**Status:** Open investigation; **reader essay published** 2026-06-14.  
+**Reader essay:** [**Not Like This**](/influence/controlled_opposition/not-like-this.md)
 
 ---
 
@@ -682,15 +682,9 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 
 ---
 
-## Article plan — *Not Like This* (do not draft yet)
+## Article plan — *Not Like This*
 
-### Purpose
-Reader-facing essay arguing **containment arc** across *Matrix* 1999–2021: **offer awakening → fracture sequel culture → kill extensions → nostalgia reset**. Tone: **investigative**, tier-disciplined, **not** pure fan rant.
-
-### Audience
-Readers who **felt** the original trilogy **changed them**, then experienced **sequel/MxO/4** as **demoralization**—give language **without** requiring they accept L4 claims.
-
-### Structure (proposed) — **opens with “why?” / Oracle control**
+**Status:** **Published** — [reader essay](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) (2026-06-14). Investigation dossier remains open for research TODOs.
 
 | § | Working title | Tier target | Main evidence |
 |---|---------------|-------------|---------------|
@@ -724,7 +718,7 @@ Readers who **felt** the original trilogy **changed them**, then experienced **s
 - [ ] **Giant Bomb Not Like This** — episode URLs indexed; **full quote corpus** still TODO
 - [ ] MxO **Neo body** plot summary (wiki + primary forum archives).
 - [ ] **Resurrections** Analyst clips + peace-ending contrast from *Revolutions*.
-- [ ] Optional: header PNG (repo pattern).
+- [x] Optional: header PNG — `investigations/matrix-not-like-this-containment-investigation.png`
 
 ### Estimated length
 **~4,000–6,000 words** — author resolved: **full §7 (Square/ESC)**, **full §6 (MxO)**, **full §9 (*Resurrections*)**, **Thread K** in §5 or §9; drop Thread I sidebar only if forensics pending.
@@ -792,4 +786,4 @@ Readers who **felt** the original trilogy **changed them**, then experienced **s
 
 Keywords: #Matrix #NotLikeThis #MatrixOnline #Tank #MarcusChong #GloriaFoster #ControlledOpposition #PredictiveProgramming #SpiritsWithin #MatrixResurrections #Containment #ParadigmThreatFiles
 
-**Last updated:** 2026-06-14 (session 4 — R1–R9 resolved; ASS transcripts; Thread K; team-replacement pattern; CO hub path)
+**Last updated:** 2026-06-14 (session 5 — reader essay published; hub cross-links)

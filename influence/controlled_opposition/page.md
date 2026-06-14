@@ -4,6 +4,7 @@ Manufactured dissent designed to look like real opposition—led and controlled 
 
 ## Contents
 
+- [**Not Like This** — *Matrix* containment arc (reader essay)](/influence/controlled_opposition/not-like-this.md) — passport 9/11 PP, Oracle “why?” chain, Maddox fracture, MxO shutdown, Square→ESC, *Resurrections* thesis close; links [open dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md)
 - [1984 Mars session × *Chrono Trigger* — article](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) — readable overview; links dossier + official PDF
 - [Make Gordonston Great Again](/influence/controlled_opposition/make-gordonston-great-again.md) — Reader essay: Hollywood shoot / Facebook ban hook; Juliette Low park access; Christ’s Community homework-campus vision; links [Gordonston investigation](/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md)
 - [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) — Reader essay: **NDA** black box, fan commons as subsidy, leader accountability (**no-ban** bar, suicide/support fork); bridges OC ReMix / *Homestuck* / SDA investigations.
