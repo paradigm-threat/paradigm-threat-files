@@ -1,8 +1,68 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-14T13:49:38.234Z",
+    "date": "2026-06-14T13:57:56.287Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/not-like-this.md",
+        "href": "/influence/controlled_opposition/not-like-this"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/not-like-this.png",
+        "href": "/influence/controlled_opposition/not-like-this.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md",
+        "href": "/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/not-like-this.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
+        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
+        "alt": "9/11 predictive programming — media rehearsal before the public event"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
+        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/controlled_resistance.jpg",
+        "alt": "Controlled resistance — manufactured dissent that looks like real opposition"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
+        "alt": "Celebrity modern slavery — contracts, containment, and creative control"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      },
+      {
+        "src": "/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.png",
+        "alt": "*The Matrix* — “Not Like This” containment investigation (header)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-14T13:49:37.000Z",
+    "message": "Fix Resurrections quote attribution to Smith.",
     "files": [
       {
         "status": "M",
@@ -838,142 +898,6 @@
     "images": [
       {
         "src": "/governance/war/zelensky-forward-history-memory-war.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-05T22:14:11.000Z",
-    "message": "Add Holodomor–Holocaust memory dossier and Zelensky memory-war article.",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/instructions/ARTICLES.md",
-        "href": "/docs/instructions/ARTICLES"
-      },
-      {
-        "status": "A",
-        "path": "governance/genocide/holocaust/holocaust_21_questions.png",
-        "href": "/governance/genocide/holocaust/holocaust_21_questions.png"
-      },
-      {
-        "status": "A",
-        "path": "governance/genocide/holocaust/page.md",
-        "href": "/governance/genocide/holocaust"
-      },
-      {
-        "status": "A",
-        "path": "governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md",
-        "href": "/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/page.md",
-        "href": "/governance/war/investigations"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/reverse-crusades-comparison.md",
-        "href": "/governance/war/investigations/reverse-crusades-comparison"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md",
-        "href": "/governance/war/investigations/wwii-fascism-religious-apparatus-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/zelensky-open-letter-reality-model-investigation.md",
-        "href": "/governance/war/investigations/zelensky-open-letter-reality-model-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/zelensky-forward-history-memory-war.md",
-        "href": "/governance/war/zelensky-forward-history-memory-war"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md",
-        "href": "/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/mudflood/buried_structure.jpg",
-        "href": "/history/mudflood/buried_structure.jpg"
-      },
-      {
-        "status": "M",
-        "path": "page.md",
-        "href": "/page"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/genocide/holocaust/holocaust_21_questions.png"
-      },
-      {
-        "src": "/history/mudflood/buried_structure.jpg"
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)",
-        "alt": "` / `*.png` / `*.jpg`; prefer **published** `https://paradigmthreat.net/...` URLs (timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`). **Placement:** one image **after** the paragraph that introduces the topic (illustrate the **linked investigation**, not decorate every section). **Alt text:** name the **source lane** and **what the reader should see** (e.g. “Historical antibodies — timeline chapter,” “Call of Duty militainment — Krasinski operator arc”). **Do not** copy images into the article folder unless you are creating **new** art; **link** to the canonical file in its home directory. **Newsletter budget:** many large PNGs + hero can trigger Gmail clipping—prefer **fewer, well-placed** reuses over a gallery; see **Length → Newsletter / inbox check**. **Reference:** [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`"
-      },
-      {
-        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
-        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). Run the **Verifiable externals pass** below on every ship.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_planned.jpg",
-        "alt": "Weizmann 1937 meme — “upcoming Holocaust” caption"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_truth2.jpg",
-        "alt": "HOLOCAUST? — typhus, Allied bombing, Zyklon lice spray (David Dees)"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_lies9.jpg",
-        "alt": "Anne Frank hoax meme — 1951 pen, handwriting, Otto co-author"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_lies2.jpg",
-        "alt": "Auschwitz amenities list — labor camp not death camp"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_lies13.jpg",
-        "alt": "NYT clippings — six million and holocaust before WW2"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_lies11.jpg",
-        "alt": "ICRC letter to McClelland — page 1, Auschwitz delegate report"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_lies12.jpg",
-        "alt": "ICRC letter — page 2, confidentiality / relief limitations"
-      },
-      {
-        "src": "/influence/conspiracy/embedding.jpg",
-        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
-      },
-      {
-        "src": "/influence/conspiracy/scientific_truth.jpg",
-        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
-        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
-      },
-      {
-        "src": "/cosmos/mars/mars_life.jpg",
-        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
-      },
-      {
-        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
-        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
       }
     ]
   }

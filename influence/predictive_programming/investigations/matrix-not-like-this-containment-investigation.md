@@ -1,5 +1,7 @@
 # Investigation: *The Matrix* — “Not Like This” containment thesis (controlled opposition, sequel fracture, MxO, *Resurrections*)
 
+![*The Matrix* — “Not Like This” containment investigation (header)](matrix-not-like-this-containment-investigation.png)
+
 > **TL;DR:** Open dossier testing whether the *Matrix* franchise was **always or increasingly** a **containment vessel** for a **dual-layer “woke” readership**—offering **awakening symbolism** while **neutralizing revolution** through team replacement, cast changes, MMO shutdown, and *Resurrections* nostalgia-trap grammar. **Reader essay:** [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) **(published 2026-06-14)**. Full evidence tiers, transcripts, and TODOs remain in this file.
 
 **Date:** 2026-06-14  
@@ -80,13 +82,13 @@
 
 ## Author thesis — containment stack (verbatim capture)
 
-> The entire *Matrix* project may have started as—or become—a **controlled opposition** product to **contain** a **woke** audience (dual-layer awareness rooted in traditions like **Malcolm X**), before “woke” was ** mistranslated**. The first film offers the disenfranchised a **path forward**: others like them exist, even in Hollywood, with themes that **validate** systemic suspicion.  
+> The **primary why** for everything documented here is the **two-camp interagency war** playing out **in front of us**—often through **extremely subtle** control of **movies and franchise extensions**, where any single beat looks like taste or business but **the stacked pattern is real**.  
 >
-> After success, the industry **did everything to contain** the revolution the film could have sparked. Evidence is **pattern-based**, not proven conspiracy.  
+> **NSA-camp** grammar (antibody / SIGINT audit / individual wake-up) briefly owned ***The Matrix* (1999)**. **CIA-camp** grammar (contain / sleep / fracture / controlled opposition) owned ***Reloaded* → MxO → *Resurrections***. Hollywood **handed the IP from wake-up to contain**—recasts, vendor swaps, fan mockery, MMO kill, nostalgia reset.  
 >
-> **Anchors:** Marcus Chong / *The Kill Off* (ethics on set); **Tank** popular → **off-screen kill** → **Link** as generic Hollywood **dreadlocks trope** without Tank’s Matrix-native personality; **Aaliyah** death → recast; **Gloria Foster** death → Oracle recast + thin in-universe cover; Oracle’s **vampire/werewolf/alien** speech “out of scope” → author suspicion; **Matrix Online** strong community → **Sony** negligent shutdown (**Not Like This**); MxO plot **bent toward Neo’s body** for a future **Matrix 4**; ***Resurrections*** undoes peace ending, weaponizes nostalgia, **Analyst** keeps Neo/Trinity near but emotionally split—**“love conquers all”** without original lore support; **sixth iteration** reveal aligns with **historical war resets**; **Spirits Within** team → **Animatrix** → handoff to **ESC** for sequels; **Neo tentacle stab** rhymes **Aki Ross** stab; ***Revolutions*** style/action/music regression except **Zion battle** (author: planned by Spirits Within lineage).  
+> The entire *Matrix* project may also be read as **controlled opposition** for a **dual-layer “woke” readership** (Malcolm X lineage epistemics)—offering awakening symbolism while **neutralizing revolution**. **Evidence is pattern-based**, not proven memo trail.  
 >
-> **Macro:** Same **bad sequel / divide fans** pattern as broader industry containment ([celebrity/franchise dossier](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md), [Square lineage](/influence/stolen_credit/square-battle-system-lineage.md)).
+> **Anchors:** Marcus Chong / *The Kill Off*; **Tank** → **Link**; **Aaliyah** / **Foster** recasts; Oracle **exiles** monologue; **MxO** / Giant Bomb **Not Like This**; Square → **ESC**; ***Resurrections*** tombstone; Maddox **2003** fracture lane.
 
 ---
 
@@ -133,18 +135,20 @@ flowchart TB
 
 **Tier discipline:** L1 = date on screen + production timeline; L3 = PP / CO intent. Do **not** collapse in article without definition box.
 
-### NSA vs CIA two-camps parallel (author, L3 — cross-repo)
+### NSA vs CIA two-camps parallel — **primary thesis (author, L3)**
 
-**Author speculation (2026-06-14):** If *Matrix* (1999) **predicted 9/11** on Neo’s passport, the **first film** encodes the **NSA camp** — **nationalist / individualist message of resistance and waking up** (SIGINT-audit, antibody, “see the code” lane). **Containment from *Reloaded* forward** — sequels, fan fracture (Maddox), MxO kill, *Resurrections* — encodes **CIA camp** influence: **bring revolution back** into **NWO plan alignment**, population **mostly asleep** to how power **really functions**.
+**Author position (2026-06-14, revised):** The **two-camp war** is the **primary reason** the *Matrix* containment arc happened. The fight is **visible in front of us**—through **movies**, **sequel tone**, **recasts**, **fan fracture**, **MMO kills**, **VFX vendor swaps**—implemented so subtly that each beat dismisses as Hollywood noise. **Stack the beats** and the **pattern is real**.
+
+**Camp mapping:** If *Matrix* (1999) **predicted 9/11** on Neo’s passport, the **first film** encodes the **NSA camp** — **nationalist / individualist message of resistance and waking up** (SIGINT-audit, antibody, “see the code” lane). **Containment from *Reloaded* forward** — sequels, fan fracture (Maddox), MxO kill, *Resurrections* — encodes **CIA camp** influence: **bring revolution back** into **NWO plan alignment**, population **mostly asleep** to how power **really functions**.
 
 | Camp (repo frame) | *Matrix* franchise read (L3) | Repo cross-link |
 |-----------------|-------------------------------|-----------------|
 | **NSA / antibody / SIGINT audit** | ***The Matrix* (1999)** — red pill, operator-as-fan (Tank), passport **9/11 PP**, “there is no spoon” **individual** exit | [NSA investigation](/governance/war/investigations/nsa-investigation.md); [good-actor antibody](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | **CIA / containment / proxy sleep** | ***Reloaded* → *Revolutions* → MxO → *Resurrections*** — Oracle-as-control rejected then **recast/defanged**, Maddox corridor, Analyst nostalgia trap, peace **undone** | [CIA investigation](/governance/war/investigations/cia-investigation.md); [Ghost War — antibody phase](/influence/hollywood/ghost-war-the-antibody-phase.md) |
 
-**Tier:** Interagency **two-camps** thesis = **author L3** — not L1 proof Wachowskis coded NSA/CIA. **Use** as **interpretive spine** linking Matrix containment to existing Paradigm **war/governance** dossiers.
+**Tier:** Interagency **two-camps** thesis = **author L3** — not L1 proof Wachowskis coded NSA/CIA. **Use as the interpretive spine** linking Matrix containment to existing Paradigm **war/governance** dossiers. **Reader essay** ([*Not Like This*](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md)) leads with this frame.
 
-**Article beat (author R5, 2026-06-14):** After passport cold open → **one beat only** — frame NSA/CIA as **final influences** on Hollywood going forward; **everything after *Matrix* aligns to these two camps**. Do **not** over-map every scene to intel agencies in prose.
+**Article beat:** Open on **war for the movies** → passport **9/11** as NSA-camp offer → timestamped contain-campaign (**2001–2021**) → Oracle **why?** chain as almost-successful exit manual → Maddox / MxO / ESC / *Resurrections* as contain-camp victories.
 
 **Author validation logic (L3 — not L1 proof):**
 
@@ -786,4 +790,4 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 
 Keywords: #Matrix #NotLikeThis #MatrixOnline #Tank #MarcusChong #GloriaFoster #ControlledOpposition #PredictiveProgramming #SpiritsWithin #MatrixResurrections #Containment #ParadigmThreatFiles
 
-**Last updated:** 2026-06-14 (session 5 — reader essay published; hub cross-links)
+**Last updated:** 2026-06-14 (session 6 — two-camps primary thesis; reader essay refocus)
