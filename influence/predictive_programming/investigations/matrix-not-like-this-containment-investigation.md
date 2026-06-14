@@ -2,7 +2,7 @@
 
 ![*The Matrix* — “Not Like This” containment investigation (header)](matrix-not-like-this-containment-investigation.png)
 
-> **TL;DR:** Open dossier testing whether the *Matrix* franchise was **always or increasingly** a **containment vessel** for a **dual-layer “woke” readership**—offering **awakening symbolism** while **neutralizing revolution** through team replacement, cast changes, MMO shutdown, and *Resurrections* nostalgia-trap grammar. **Reader essay:** [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) **(published 2026-06-14)**. Full evidence tiers, transcripts, and TODOs remain in this file.
+> **TL;DR:** Open dossier testing whether the *Matrix* franchise was **always or increasingly** a **containment vessel** for a **dual-layer “woke” readership** (Malcolm X lineage epistemics)—offering **awakening symbolism** while **neutralizing revolution** through team replacement, cast changes, MMO shutdown, and *Resurrections* nostalgia-trap grammar. ***The Matrix* (1999) end credits** — Rage Against the Machine’s **“Wake Up”** — carry **L1 accusations** (Vietnam/King, Malcolm X/Islam blame, COINTELPRO memo) the author reads as **NSA-camp surfacing of live psyops**, not decorative theme. **Reader essay:** [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) **(published 2026-06-14)**. Full evidence tiers, transcripts, and TODOs remain in this file.
 
 **Date:** 2026-06-14  
 **Status:** Open investigation; **reader essay published** 2026-06-14.  
@@ -30,11 +30,12 @@
 16. [Thread I — Neo “Source tentacles” ↔ Aki Ross stab (author visual rhyme)](#thread-i--neo-source-tentacles--aki-ross-stab-author-visual-rhyme)
 17. [Thread J — *Revolutions* style regression (Trainman, music, action)](#thread-j--revolutions-style-regression-trainman-music-action)
 18. [Thread K — M1 revival: will vs. love containment (R6)](#thread-k--m1-revival-will-vs-love-containment-r6)
-19. [L1 transcript table — *Matrix Reloaded* fan-edit ASS (R8)](#l1-transcript-table--matrix-reloaded-fan-edit-ass-r8)
-20. [Cross-repo adjacencies](#cross-repo-adjacencies)
-21. [Article plan — *Not Like This* (do not draft yet)](#article-plan--not-like-this-do-not-draft-yet)
-22. [Weak points / research TODOs](#weak-points--research-todos)
-23. [Limits and disclaimers](#limits-and-disclaimers)
+19. [Thread L — Malcolm X, “woke,” and *Wake Up* end credits (M1 psyop lane)](#thread-l--malcolm-x-woke-and-wake-up-end-credits-m1-psyop-lane)
+20. [L1 transcript table — *Matrix Reloaded* YIFY-en.srt (R8)](#l1-transcript-table--matrix-reloaded-yify-ensrt-r8)
+21. [Cross-repo adjacencies](#cross-repo-adjacencies)
+22. [Article plan — *Not Like This*](#article-plan--not-like-this)
+23. [Weak points / research TODOs](#weak-points--research-todos)
+24. [Limits and disclaimers](#limits-and-disclaimers)
 
 ---
 
@@ -42,7 +43,7 @@
 
 | Term | Meaning **here** (author-supplied) |
 |------|-------------------------------------|
-| **Woke (original sense)** | **Dual-layer epistemics:** upper layer accepts audits, news, movies, authority as coherent; lower layer (often minorities / historically disenfranchised groups) **knows** official stories omit or invert power truths. Implies **massive lies** at the top are **plausible**, not paranoid. |
+| **Woke (original sense)** | **Dual-layer epistemics:** upper layer accepts audits, news, movies, authority as coherent; lower layer (often minorities / historically disenfranchised groups) **knows** official stories omit or invert power truths. Implies **massive lies** at the top are **plausible**, not paranoid. **Malcolm X lineage:** suspicion of **official narrative**, **media as calm technology**, and **assassination-by-framing** (who gets blamed vs. who ordered silence) — see [Thread L](#thread-l--malcolm-x-woke-and-wake-up-end-credits-m1-psyop-lane). |
 | **Not “woke” (co-opted)** | Post-~2010s media/party branding — **explicitly out of scope** unless author later bridges the terms. |
 | **Containment** | Industry actions that **channel** awakening energy into **safe outcomes**: recasts, plot resets, MMO closure, sequel quality collapse, nostalgia reboots, legal silencing of insiders. **Hypothesis:** divide original fans / prevent **revolutionary** identity formation around the IP. |
 | **Controlled opposition (repo sense)** | From [controlled opposition hub](/influence/controlled_opposition/page.md): dissent **appears** real but **kill switches** remain (IP, contracts, canon authority). *Matrix* read: offer **red pill** symbolism while ensuring **no durable counter-institution** (MxO, Tank fandom, peace ending) survives. |
@@ -52,6 +53,9 @@
 - **“Woke”** = **dual-layer epistemics / Malcolm X lineage only** — **no** bridge to 2010s DEI “woke” in §1; **Malcolm X rhymes run throughout** the essay (not §1-only).
 - **CO timing** = **from first inception (1999)**, not retrofit after accidental radical uptake. **L1 anchor:** Neo’s passport **expires 11 Sep 2001** — **cold open** (~**18:22**, Smith interrogation); well-known **9/11 PP** ([Snopes TRUE](https://www.snopes.com/fact-check/neo-passport-matrix-9-11/)).
 - **Chong / *Kill Off*:** Documentary subtitles = **primary for now**; book unobtainable — **leave open** if scan surfaces **new** L1.
+- ***Wake Up* credits (Thread L):** L1 = RATM lyrics, credits placement, Hoover memo, Tonkin/Hanyok timeline; L3 = pre-9/11 **blame-Islam PP**, credits as **second payload** paired with passport — **not** decorative “wake up” theme.
+- **Reloaded dialogue (2026-06-15):** **One Oracle visit**; no “cookie scene” label; **M2** future/together vs **M3** “I want what you want” / end of war; Switch = **Cypher unplug** rhyme with **Sony/MxO**.
+- **Reloaded timecodes (2026-06-15):** **YIFY-en.srt** retail subs (`Downloads/The.Matrix.Reloaded.2003.Subtitles.YIFY-en.srt`) — **not** fan-edit ASS. Neo→Morpheus line per YIFY: *“It was all another system of control.”*
 
 ---
 
@@ -88,7 +92,7 @@
 >
 > The entire *Matrix* project may also be read as **controlled opposition** for a **dual-layer “woke” readership** (Malcolm X lineage epistemics)—offering awakening symbolism while **neutralizing revolution**. **Evidence is pattern-based**, not proven memo trail.  
 >
-> **Anchors:** Marcus Chong / *The Kill Off*; **Tank** → **Link**; **Aaliyah** / **Foster** recasts; Oracle **exiles** monologue; **MxO** / Giant Bomb **Not Like This**; Square → **ESC**; ***Resurrections*** tombstone; Maddox **2003** fracture lane.
+> **Anchors:** Marcus Chong / *The Kill Off*; **Tank** → **Link**; **Aaliyah** / **Foster** recasts; Oracle **exiles** monologue; **MxO** / Giant Bomb **Not Like This**; Square → **ESC**; ***Resurrections*** tombstone; Maddox **2003** fracture lane; ***Wake Up*** end credits (**Thread L** — Vietnam/Tonkin, Malcolm X/Islam blame, COINTELPRO memo).
 
 ---
 
@@ -131,7 +135,7 @@ flowchart TB
 - Film **shot Mar–Aug 1998**; released **Mar 1999** — **>2 years before** 9/11 attacks.
 - [Snopes: claim TRUE](https://www.snopes.com/fact-check/neo-passport-matrix-9-11/) (date on prop is real; mainstream frames **coincidence**).
 
-**Author read (L3):** **Predictive programming** — the simulation’s chosen one carries an identity document that **expires on the day official reality fractures**. Fits **CO-from-inception**: awakening offered **inside** a text that **already encoded** the next **mass-layer break** (9/11 → post-collapse audience **rejected** uncomfortable Oracle-as-control in *Reloaded*).
+**Author read (L3):** **Predictive programming** — the simulation’s chosen one carries an identity document that **expires on the day official reality fractures**. Fits **CO-from-inception**: awakening offered **inside** a text that **already encoded** the next **mass-layer break** (9/11 → post-collapse audience **rejected** uncomfortable Oracle-as-control in *Reloaded*). **Rhymes [Thread L](#thread-l--malcolm-x-woke-and-wake-up-end-credits-m1-psyop-lane):** same film’s end credits accuse **Islam-blame framing** and **Vietnam-era assassination politics** — **>2 years before** 9/11 and **decades** before audiences routinely heard **Tonkin SIGINT** declass language.
 
 **Tier discipline:** L1 = date on screen + production timeline; L3 = PP / CO intent. Do **not** collapse in article without definition box.
 
@@ -177,7 +181,7 @@ flowchart TB
 - Chong documentary subtitles (~44.8 min): **fake SAG contract**, **$28K** pay vs **Cypher $1M**, **no royalties**, **William Morris** pressure, **barred from lot**—**L3 allegations** pending document scan from *Kill Off* / court exhibits.
 
 ### Author read (L3)
-- **Tank** = authentic **Matrix-world** human (born free, operator craft, fan favorite).
+- **Tank** = authentic **Zion-born** human (**born free** — never part of the Matrix); operator craft, fan favorite.
 - **Link** = **generic** **Hollywood insert** (dreadlocks + attitude trope) **decoupled** from simulation-native personality—**symbolic fan replacement**.
 - Chong lane = **L1 ethics scandal** (union, pay, blackball) supporting **containment via insider destruction**.
 
@@ -245,7 +249,7 @@ flowchart TB
 
 ## Thread D — Oracle’s “exiles” monologue & Foster replacement
 
-### Scene (*Reloaded*, courtyard, **Foster** — L1)
+### Scene (*Reloaded*, **single Oracle courtyard visit**, **Foster** — L1)
 - Oracle lists **vampires, werewolves, aliens** as **exile programs** — folklore / horror entities as **prior Matrix sub-routines** (author: **mind-blowing**, **out of scope** for a conventional action sequel).
 
 ### Author read (L3)
@@ -254,7 +258,7 @@ flowchart TB
 - **Merovingian / Keymaker / Architect** expand lore mechanically; this speech **names pop occult categories** and tells the **dual-layer audience** their **monster folklore** may be **deprecated simulation code**.
 
 ### Research TODO
-- [x] Full **exiles** transcript with timecode — **verified 2026-06-14** from fan-edit ASS (see [L1 transcript table](#l1-transcript-table--matrix-reloaded-fan-edit-ass-r8)).
+- [x] Full **exiles** transcript with timecode — **verified 2026-06-15** from **YIFY-en.srt** (see [L1 transcript table](#l1-transcript-table--matrix-reloaded-yify-ensrt-r8)).
 - [ ] Mary Alice *Revolutions* Oracle scenes — tonal / content diff vs. Foster (author: **defanged**).
 - [ ] Foster interviews on Oracle (pre-2001) if any.
 
@@ -270,50 +274,48 @@ flowchart TB
 >
 > She behaves as if there is **no exit** from her role **leading humanity into a planned reset** — **except one clue**: how to **think correctly** about **manipulated choice**. The **Architect** then confirms Neo’s path was **engineered**.  
 >
-> The **planned franchise ending** may have been ***Matrix 4*-style** — **love conquers all**. Instead, *Reloaded* delivered a **rapidly evolving Neo** who **challenges the audience**, then tells **Morpheus** the **Oracle is just another system of control**. Many **rejected** that — **not up to spec** for a *Matrix* sequel. Easier to keep the Oracle as **the Oracle, nothing more**: **enjoy, shelf, forget**. Film 2 said the Oracle was **one control system among many** — **unpleasant post-9/11**. **Open the article here.**
+> The **planned franchise ending** may have been ***Matrix 4*-style** — **love conquers all**. Instead, *Reloaded* delivered a **rapidly evolving Neo** who **challenges the audience**, then tells **Morpheus** the prophecy path was **another system of control** (*“It was all another system of control”* — YIFY **2:02:34**; author read: **Oracle / guide demystified**). Many **rejected** that — **not up to spec** for a *Matrix* sequel.
 
-### L1 dialogue anchors (*Reloaded*) — **verified timecodes** (fan-edit ASS, author R8, 2026-06-14)
+### L1 dialogue anchors (*Reloaded*) — **verified timecodes** (YIFY-en.srt, author R8, 2026-06-15)
 
-**Source:** `Matrix Reloaded (2003) - Unlinked.kdenlive.ass` (SMB fan-edit subtitles). Treat as **L1 dialogue**; timecodes may differ slightly from theatrical cut.
+**Source:** `Downloads/The.Matrix.Reloaded.2003.Subtitles.YIFY-en.srt` — **retail/theatrical English subs**. **Do not** cite fan-edit ASS timecodes in article.
 
-**Merovingian — causality / “why” as power** (~**00:58:33–00:59:09**):
+**Oracle — single visit (~45:42–49:32)** — **author-confirmed:** one visit; **candy** beat (not “cookie scene”); order per YIFY:
+
+| Time (YIFY) | Beat |
+|-------------|------|
+| **45:42–45:59** | Candy; *“You've already made it”*; *“understand why you made it”* |
+| **46:22–46:34** | *“We're all here to do…”*; *“the future”*; *“the only way to get there is together”* |
+| **47:12–47:35** | **Exiles** — vampires, werewolves, aliens; programs in **exile** |
+| **48:41–49:13** | *“without time”*; *“already made the choice… understand it”*; Neo **I won't** / **You're the One** |
+| **49:48–49:59** | Sends Neo to **Merovingian** / **Keymaker** |
+
+**Merovingian — causality / “why” as power** (~**1:06:04–1:08:30**):
 - *“Causality. Action, reaction. Cause and effect.”*
 - *“Choice is an illusion created between those with power and those without.”*
 - *“Our only hope, our only peace is to understand it, to understand the **why**.”*
 - *“**Why** is the only real source of power. **Without it, you are powerless.**”*
 - *“And this is how you come to me, **without why, without power**.”*
 
-**Oracle — cookie / courtyard — “understand your choice”** (~**00:39:10–00:39:27**):
-- *“Because you didn't come here to make the choice. **You've already made it.**”*
-- *“You're here to try to **understand why you made it.**”*
+**Smith — prior death callback** (~**51:34–51:38**):
+- *“**I killed you, Mr. Anderson. I watched you die.**”* (L1 anchor for [Thread K](#thread-k--m1-revival-will-vs-love-containment-r6))
 
-**Oracle — exiles monologue (Foster)** (~**00:39:58–00:41:03**):
-- *“Every story you've ever heard about **vampires, werewolves or aliens**… is the system assimilating some program that's doing something they're not supposed to be doing.”*
-- *“Programs hacking programs… usually a program chooses **exile** when it faces **deletion**.”*
+**Architect** (~**1:50:29–1:57:18**):
+- *“**I am the Architect.**”* (**1:50:29–1:50:33**)
+- *“You are the **eventuality of an anomaly**…”* (**1:51:04–1:51:08**)
+- *“This will be the **sixth time** we have destroyed it…”* / *“**exceedingly efficient at it**.”* (**1:54:33–1:54:43**)
+- *“…dissemination of the **code you carry**…”* (**1:54:58–1:55:02**)
 
-**Oracle — second courtyard beat** (~**00:42:05–00:42:28**):
-- *“You have the sight now, Neo. You are looking at the world **without time**.”*
-- *“**No, you've already made the choice. Now you have to understand it.**”*
-- Neo: *“I can't do that. **I won't.**”* / Oracle: *“Because **you're the One**.”*
-
-**Smith — prior death callback** (~**00:44:57–00:45:01**):
-- *“**I killed you, Mr. Anderson. I watched you die.**”* (Neo standing — L1 anchor for [Thread K](#thread-k--m1-revival-will-vs-love-containment-r6))
-
-**Architect** (~**01:37:37**, sixth iteration ~**01:41:41**):
-- *“I am the Architect.”* / *“This will be the **sixth time** we have destroyed it.”*
-
-**Architect — love demystified** (~**01:43:04–01:44:25**):
-- Prior Ones: *“contingent affirmation… facilitating the function of the One”*; Neo’s experience *“**vis-à-vis love**”* (Trinity).
+**Architect — love demystified** (~**1:56:10–1:57:18**):
+- Neo’s experience *“**vis-á-vis love**”* (Trinity) — YIFY spelling **vis-á-vis**
 - *“An emotion **designed specifically to overwhelm logic and reason**.”*
-- *“**She is going to die and there is nothing you can do to stop it.**”* (Architect’s frame — author: **not** franchise’s final truth, but **containment misread** seeded here)
+- *“**She is going to die and there is nothing you can do to stop it.**”*
 
-**Neo → Morpheus after Architect** (~**01:49:27–01:49:43**):
+**Neo → Morpheus after Architect** (~**2:02:21–2:02:37**):
 - *“**It was a lie, Morpheus.**”*
 - *“**The prophecy was a lie.**”*
 - *“**The One was never meant to end anything.**”*
-- *“**It was all another system of control.**”*
-
-**Tier note:** Merovingian “social power” phrasing in fan transcripts sometimes reads *“only real social power”*; ASS has *“only real **source** of power”* — cite ASS for article.
+- *“**It was all another system of control.**”* (YIFY — author read: demystifies **Oracle / prophecy** path; Morpheus conversation context)
 
 ### Author interpretive chain (L3)
 
@@ -337,7 +339,7 @@ flowchart TB
 
 ### Link to other threads
 
-- **Thread D (exiles):** same Oracle visit — **mythology breach** + **why-your-choice** breach **same scene cluster**
+- **Thread D (exiles):** same **single Oracle visit** — mythology breach + why-your-choice + future/together **same scene**
 - **Thread D3 (Maddox):** **fan-side** fracture voice — **parallel** to in-fiction Oracle demystification; **divide-and-conquer** reception layer
 - **Thread G (*Resurrections*):** author read — **love conquers all** may have been **original safe ending**; **film 4** **implements** what sequels **avoided**, **undoes** peace **and** **Neo’s evolution**
 - **Thread A (CO):** Oracle as **controlled opposition** inside fiction — **validates** suspicion then **punishes** it via **Recast / Analyst / nostalgia**
@@ -507,8 +509,14 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 - Aligns with **historical war resets**—culture/knowledge **shift after each major conflict**; winners **rewrite** reality.
 - **Morpheus** as **dangerous** because waking too many **accelerates cycle end** (mass death)—explains **in-universe** resistance to his zeal in *Reloaded*.
 
-### Oracle line (L1 dialogue, L3 weight)
-- **“The only way to get to the future is together.”** — peace between **human and machine**; author: **most dangerous** to establishment because it **ends zero-sum** mythology.
+### Oracle peace lines (L1 dialogue, L3 weight) — **M2 vs M3**
+
+| Film | Speaker | Line (abridged) | Author read |
+|------|---------|-----------------|-------------|
+| ***Reloaded* (M2)** | Foster Oracle | *“The only way to get **there** is **together**”* (future grammar; full beat: *“We're all here to do what we're all here to do…”*) | **Implies** peace / end to zero-sum war — not verbatim “end the war” |
+| ***Revolutions* (M3)** | Oracle (Mary Alice) | **“I want what you want”** / **the end of the war** | Explicit **peace** beat — what M2 seeded |
+
+**Do not collapse M2 “together” with M3 “end the war” in article prose.**
 
 ### Cross-read
 - [Final Fantasy PP dossier](/influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md) — reset / buried world grammar.
@@ -530,7 +538,7 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 - Shutdown **not purely economic**—compare **long-running MMOs** with similar sub counts (investigation TODO: **table of 2009-era MMOs** still alive).
 - Live story **forced toward Neo’s body / Matrix 4 premise**—**organic player peace-era plot** **truncated**.
 - **Negligent/aggressive** closure = **message to community**: your **canon extensions** will not outlive IP holder.
-- **“Not Like This”** = **bookend title** for entire essay: Switch dies refusing the wrong death; MxO community dies refusing **dignified** canon continuation.
+- **“Not Like This”** = **bookend title** for entire essay: Switch dies when **Cypher unplugged her** (wrongful death on the Nebuchadnezzar); MxO community dies when **Sony** unplugged the servers — same fan grammar at **community kill**.
 
 ### Giant Bomb series index (L1 — partial, 2026-06-14)
 
@@ -581,6 +589,7 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 - The **Spirits Within / Square USA CGI team** appeared **aligned** with **The Square** film’s philosophical/spiritual concepts **and** the ***Matrix*** franchise’s same lane — then **removed/replaced** by personnel **more loyal to the industry**, who **filled out scenes planned by the previous team** without carrying the ideas forward.
 - Studio **did not want long-term competition** with Square’s **human-realism CGI** pipeline.
 - **Osiris** = **R&D transfer**—action grammar for **Zion-scale** battle **storyboarded** by Square lineage, **rendered** by ESC.
+- **Visual signature (L3):** [Thread I](#thread-i--neo-source-tentacles--aki-ross-stab-author-visual-rhyme) — side-by-side [demo](https://youtu.be/Rh1nTlk-zqo) (*Spirits Within* Aki stab ↔ *Revolutions* Source tendrils).
 - **Containment of vendor** mirrors **containment of fan/community**—replace **specialist auteur team** with **studio-owned ESC** → **inert, sanitized, controllable** sequel product.
 
 ### Research TODO
@@ -591,16 +600,27 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 
 ## Thread I — Neo “Source tentacles” ↔ Aki Ross stab (author visual rhyme)
 
-**Tier: L3 — author theory only.** No expectation of trade citations or online confirmation; included because it **rhymes with Thread H** (Square lineage → sequel VFX handoff).
+**Tier: L3 — author theory** (paired with **L1** vendor handoff in [Thread H](#thread-h--square--spirits-within--animatrix--esc-vfx-handoff)). **Demo (L1):** side-by-side video — [Spirits Within × *Revolutions* tribute](https://youtu.be/Rh1nTlk-zqo).
 
 ### Author claim
-- *Revolutions*: Neo impaled by **Source tendrils** through **Logos** hull; **Trinity** catches him — scene reads **metaphorical** (removable without plot change).
-- **Visual rhyme:** *Spirits Within* — **Aki Ross** stabbed by **phantom/Gaia enemy tendrils**, similar angle.
-- **Author refuses coincidence** — reads as **possible tribute** from the team that inherited Square’s action grammar, even after Square was **removed from the pipeline**.
+- ***Revolutions* (2003):** Neo impaled by **Source tendrils** through **Logos** hull; **Trinity** catches him — scene reads **metaphorical** inside *Matrix* mythology (author: **removable** without changing war outcome).
+- ***Final Fantasy: The Spirits Within* (2001):** **Aki Ross** stabbed by **phantom/Gaia enemy tendrils** — **same action grammar**, similar angle; **native** to FF spiritual-war lore (Square USA CGI).
+- **Production read (L3):** **Square** authored the visual language on the FF film; **ESC** (Warner-adjacent) **rendered** the sequel beat after Square’s pipeline exit — but a **tribute to Square’s own moment** appears embedded in *Matrix 3*. The beat **only fully makes sense** in the **2001 FF** context; in ***Revolutions*** it is **spectacle without mythic necessity** — one reason the author treats it as **signature**, not coincidence.
+- **Author refuses coincidence** — reads as **deliberate visual rhyme** from the team that inherited Square’s action grammar ([Osiris](#thread-h--square--spirits-within--animatrix--esc-vfx-handoff) → Zion siege lineage), even after Square was **removed from the pipeline**.
 
-### For article (when drafted)
-- Side-by-side stills **for reader persuasion**, not **evidentiary proof**.
-- Pair with **documented** Square → **Osiris** → **ESC** chain (Thread H L1).
+### Side-by-side demo (L1 asset)
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Rh1nTlk-zqo" title="Spirits Within × Matrix Revolutions — Square tribute side by side" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen="true" className="m-auto max-w-full"/>
+
+**YouTube:** [https://youtu.be/Rh1nTlk-zqo](https://youtu.be/Rh1nTlk-zqo) · **Reader essay:** [Not Like This § Square’s gift](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md)
+
+### For article
+- Pair embed with **documented** Square → **Osiris** → **ESC** chain (Thread H L1).
+- **Do not** tier-up to studio memo proof — **visual + vendor context** only.
+
+### Research TODO
+- [x] Side-by-side demo video — [Rh1nTlk-zqo](https://youtu.be/Rh1nTlk-zqo) (2026-06-15).
+- [ ] **Osiris** previs vs. **Zion siege** / **Logos tendril** shot timing (frame match metrics).
 
 ---
 
@@ -633,13 +653,13 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 
 **Film 1 (1999):** Trinity revival scene — kiss present; **mechanism not narrated** (author: **misleading surface**).
 
-**Film 2 (2003):**
-- **00:44:57** — Smith: *“I killed you, Mr. Anderson. I watched you die.”*
-- **00:42:08** — Oracle: *“You are looking at the world **without time**.”*
-- **00:42:30** — Neo: *“I can't do that. **I won't.**”* / Oracle: *“Because **you're the One**.”*
-- **01:38:12** — Architect: *“You are the eventuality of an **anomaly**…”*
-- **01:42:05** — *“…return to the source, allowing a **dissemination of the code you carry**…”*
-- **01:43:18** — Architect frames Trinity attachment as **systemic design**, not transcendent magic.
+**Film 2 (2003)** — timecodes from **YIFY-en.srt**:
+- **51:34–51:38** — Smith: *“I killed you, Mr. Anderson. I watched you die.”*
+- **48:45** — Oracle: *“You are looking at the world **without time**.”*
+- **49:06–49:13** — Neo: *“I can't do that. **I won't.**”* / Oracle: *“Because **you're the One**.”*
+- **1:51:04–1:51:08** — Architect: *“You are the eventuality of an **anomaly**…”*
+- **1:54:58–1:55:02** — *“…return to the source, allowing a **dissemination of the code you carry**…”*
+- **1:56:10–1:57:06** — Architect frames Trinity attachment as **vis-á-vis love** / **systemic design**, not transcendent magic.
 
 **Film 4 (2021):** Neo + Trinity **revived from death** together — author: **confirms death-reversal is real in-lore**, but **Resurrections** **packages** it as **Analyst / love-battery** without **will/Source** labor.
 
@@ -653,22 +673,85 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 
 ---
 
-## L1 transcript table — *Matrix Reloaded* fan-edit ASS (R8)
+## Thread L — Malcolm X, “woke,” and *Wake Up* end credits (M1 psyop lane)
 
-**Source file:** `/run/user/1000/gvfs/smb-share:server=nobiserv.local,share=public/Videos/FanEdits/FanMixes/Matrix Reloaded (2003) - Unlinked/Matrix Reloaded (2003) - Unlinked.kdenlive.ass`  
-**Verified:** 2026-06-14 via `rg` on ASS dialogue lines.
+**Author claim (L3):** The **Islam** and **Malcolm X / Vietnam** accusations in ***The Matrix* (1999) end credits** are **not** decorative “wake up” theme music. They name **real-world psychological operations** the **NSA-camp** lane was trying to **surface** — **ongoing** at release (**Mar 1999**), not historical garnish. Paired with Neo’s passport **9/11 PP** and dual-layer **Malcolm X “woke”** epistemics, the first film’s **exit scroll** is **load-bearing evidence** for **CO-from-inception** with **live geopolitical payload**.
 
-| Timecode | Speaker | Line (abridged if long) |
-|----------|---------|-------------------------|
-| **00:39:18–00:39:27** | Oracle | Didn't come to make the choice — **already made it**; here to **understand why** |
-| **00:40:41–00:41:03** | Oracle | **Vampires, werewolves, aliens**; programs in **exile** facing **deletion** |
-| **00:42:05–00:42:28** | Oracle / Neo | **Without time**; **already made the choice — understand it**; Neo: **I won't** / **You're the One** |
-| **00:58:33–00:59:09** | Merovingian | **Causality**; choice illusion; **understand the why**; **without why, powerless** |
-| **00:44:57** | Smith | **I killed you… I watched you die** |
-| **01:37:37** | Architect | **I am the Architect** |
-| **01:41:41** | Architect | **Sixth time** we have destroyed it |
-| **01:43:18–01:44:25** | Architect | Love as **contingent affirmation**; **designed to overwhelm logic**; Trinity **will die** |
-| **01:49:27–01:49:43** | Neo / Morpheus | **Prophecy was a lie**; **another system of control** |
+**Author first-person (2026-06-14):** Hearing **Rage Against the Machine** over the credits — especially the **Malcolm X / Islam** and **Vietnam / King** lines — **opened the author’s mind** before the sequels contained the franchise. The **accusations against the establishment** in a **blockbuster exit** felt **unusual**; stacking them with passport **9/11** later made the **non-coincidence** read unavoidable.
+
+### Malcolm X and “woke” (definition anchor)
+
+See [§Definitions](#definitions--woke-in-this-investigation): **woke** here = **dual-layer epistemics** in the **Malcolm X lineage** — upper layer trusts official narrative; lower layer treats **massive institutional lies** as **plausible**. Malcolm’s public grammar (media as power, **sleeping** populations, **framed blame** after assassination) is the **epistemic ancestor** of the film’s red-pill fork — **not** the 2010s culture-war brand.
+
+**Cast rhyme (L1):** Gloria Foster played **Satima Tate**, a **Betty Shabazz** analogue, on *Law & Order* before she embodied the Oracle — Malcolm’s widow’s name on the **NSA-camp guide** before Foster was removed for *Revolutions*.
+
+### L1 — *Wake Up* placement and lyrics
+
+| Item | Source tier | Detail |
+|------|-------------|--------|
+| **Song** | L1 | **“Wake Up”** — Rage Against the Machine, *Rage Against the Machine* (1992) |
+| **Credits use** | L1 | Plays during **end credits** of ***The Matrix* (1999)**; soundtrack version **fades out** rather than hard-stopping ([Wikipedia — *Wake Up*](https://en.wikipedia.org/wiki/Wake_Up_(Rage_Against_the_Machine_song)); [Songfacts](https://www.songfacts.com/facts/rage-against-the-machine/wake-up)) |
+| **Sequel rhyme** | L1 | ***Reloaded* (2003)** end credits use RATM **“Calm Like a Bomb”** — contain-camp sequel keeps the **protest soundtrack** while **rejecting** Oracle-as-control philosophy |
+| **COINTELPRO coda** | L1 | Song ends with **spoken word** from a **real J. Edgar Hoover FBI memo** targeting **Black nationalist** suppression ([Wikipedia — composition](https://en.wikipedia.org/wiki/Wake_Up_(Rage_Against_the_Machine_song))) |
+
+**Lyric anchors (L1 — RATM text; abridged):**
+
+- *“Networks at work, keepin' people calm”* — calm technology / scheduled attention (see also [*What Are You Waiting For?*](/influence/controlled_opposition/what-are-you-waiting-for.md)).
+- *“You know they went after King when he spoke out on Vietnam”*
+- *“Ya know they murdered X and tried to blame it on Islam”*
+
+**Tier note on Islam line:** RATM **accuses the establishment** of **blaming Islam** for Malcolm X’s murder. Mainstream forensic dispute (Nation of Islam faction vs. federal involvement) is **orthogonal** to this investigation’s use: the **song’s claim** is **L1**; the author’s **PP / holy-war habituation** read is **L3** — see validation table below.
+
+### Why credits placement is unusual (L2–L3)
+
+Blockbuster exits normally **sanitize** — score reprise, radio single, emotional button. ***The Matrix*** sends the audience home on **federal counterintelligence**, **assassination politics**, and **live-war false-pretense** grammar. Songfacts explicitly ties the song to the film’s **red-pill / machine-control** theme — but the **specific named claims** (King, X, Islam, Vietnam) are **not** required for plot closure. **Author read (L3):** the scroll is a **second payload** after the **passport** payload — both **NSA-camp** offers inside one Warner release.
+
+### Author validation logic — not coincidence, not theme-only
+
+| Credits claim | L1 anchor | Author L3 bridge (Paradigm corpus) |
+|---------------|-----------|-------------------------------------|
+| **King spoke out on Vietnam → “they went after” him** | MLK **“Beyond Vietnam”** (Riverside Church, **Apr 1967**); RATM lyric | **Gulf of Tonkin** casus belli built on **skewed SIGINT**; NSA historian **Robert Hanyok** completed classified Tonkin study **2001**; **2005** public SIGINT release — second attack **did not occur** as sold ([NSA investigation § III](/governance/war/investigations/nsa-investigation.md); [good-actor § II.I — Hanyok](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md)). **Wars entered on false pretense** = **NSA-auditable lie** the antibody lane spent **decades** trying to force into curriculum. Credits put that **accusation** on a **1999** mass exit — **before** Hanyok bundle was widely known. |
+| **Malcolm X murdered; “tried to blame it on Islam”** | RATM lyric; Malcolm assassinated **21 Feb 1965** | **Mar 1999** release → **>2 years before** 9/11. Author read: **predictive programming** for **headline grammar** that **blames Muslims** for political violence — habituation for **CIA–MI6 slow-burn holy-war** / **proxy radical Islam** geometry ([good-actor § I — who's who in Islamic radicalism](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md); [1979 religious revival — holy-war geometry](/influence/religion/1979-religious-revival-investigation.md)). **Not** “woke metaphor” — **live framing op** the repo tracks into the **War on Terror** era. |
+| **Malcolm X + Vietnam (author synthesis)** | Lyric names **King** on Vietnam; Malcolm **also** criticized U.S. imperialism / Vietnam before death (1964–65 speeches — **L1** historical record) | User mental model **“they went after X because he spoke out”** **rhymes** Malcolm’s **anti-imperial** lane even where RATM **split** King/Vietnam and X/Islam in two lines. **Stacked read:** assassinations + **false war pretense** + **blame-the-Muslim framing** = **one interagency psyop toolkit**, not three random RATM references. |
+| **COINTELPRO memo over scroll** | Real Hoover memo read in song | Same exit as passport **9/11** date: **domestic suppression** named **out loud** — **NSA-camp** “see the code” for **FBI counterintelligence**, not sci-fi garnish. |
+
+**Conclusion (L3):** Islam + Malcolm X + Vietnam/King claims in **1999 credits** are **structurally paired** with **passport 9/11 PP** and **Malcolm-lineage woke** epistemics. They point at **ongoing** psychological operations ( **blame Islam**, **holy-war scripting**, **false-pretense war** ) the **contain camp** had to **neutralize** from ***Reloaded* forward** — same campaign as Oracle recast, Maddox fracture, MxO kill.
+
+### Tier discipline (do not collapse)
+
+| Layer | Hold separate |
+|-------|----------------|
+| **L1** | Song, lyrics, credits placement, Tonkin/Hanyok timeline, MLK Vietnam speech, Malcolm death date, Foster/Shabazz cast |
+| **L3** | PP intent, NSA vs CIA camp mapping, holy-war habituation, “credits as second payload,” author first-person mind-open read |
+| **Dispute** | RATM’s **Islam-blame** line vs. mainstream **NOI** attribution — cite as **song accusation**, not settled forensic finding |
+
+### Research TODO
+- [ ] **Primary:** *Matrix* (1999) credits **as-broadcast** timecode for **Wake Up** start/end vs. Hoover memo segment.
+- [ ] **L1:** Wachowski / Don Davis / music supervisor **interviews** on **Wake Up** selection (1999–2000 press).
+- [ ] Malcolm **Vietnam** speech primary cites for article footnote (beyond King lyric pairing).
+
+---
+
+## L1 transcript table — *Matrix Reloaded* YIFY-en.srt (R8)
+
+**Source file:** `Downloads/The.Matrix.Reloaded.2003.Subtitles.YIFY-en.srt`  
+**Verified:** 2026-06-15 via parse of retail English subs. **Supersedes** fan-edit ASS (wrong offsets — e.g. Merovingian ~**00:58** in ASS vs ~**1:06** in YIFY).
+
+| Timecode (YIFY) | Speaker | Line (abridged if long) |
+|-----------------|---------|-------------------------|
+| **45:42–45:59** | Oracle | Candy; choice **already made**; **understand why** |
+| **46:22–46:34** | Oracle | **Future**; **only way… is together** (M2) |
+| **47:12–47:35** | Oracle | **Vampires, werewolves, aliens**; **exile** / deletion |
+| **48:41–49:13** | Oracle / Neo | **Without time**; **understand it**; Neo **I won't** / **You're the One** |
+| **49:48–49:59** | Oracle | **Merovingian** / **Keymaker** handoff |
+| **1:06:04–1:08:30** | Merovingian | **Causality**; choice illusion; **understand the why**; **without why, powerless** |
+| **51:34–51:38** | Smith | **I killed you… I watched you die** |
+| **1:50:29–1:50:33** | Architect | **I am the Architect** |
+| **1:51:04–1:51:08** | Architect | **Eventuality of an anomaly** |
+| **1:54:33–1:54:43** | Architect | **Sixth time** destroyed; **exceedingly efficient at it** |
+| **1:54:58–1:55:02** | Architect | **Code you carry** / return to Source |
+| **1:56:10–1:57:18** | Architect | **Vis-á-vis love**; **overwhelm logic**; Trinity **will die** |
+| **2:02:21–2:02:37** | Neo / Morpheus | **Prophecy was a lie**; **all another system of control** |
 
 ---
 
@@ -683,6 +766,10 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 | *Animatrix* economic war | [great-awakening-alien-savior-rv-nwo-cluster-investigation.md §3.3.4](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) |
 | Chong documentary subtitles | Local: `Downloads/…The Marcus Chong Story…srt` |
 | NSA / CIA two-camps | [nsa-investigation.md](/governance/war/investigations/nsa-investigation.md) · [cia-investigation.md](/governance/war/investigations/cia-investigation.md) · [ghost-war-the-antibody-phase.md](/influence/hollywood/ghost-war-the-antibody-phase.md) |
+| Gulf of Tonkin / Hanyok SIGINT | [nsa-investigation.md § III](/governance/war/investigations/nsa-investigation.md) · [good-actor § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
+| Holy-war / blame-Islam geometry | [good-actor § I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) · [1979 religious revival](/influence/religion/1979-religious-revival-investigation.md) |
+| “Networks at work” / deferral | [what-are-you-waiting-for.md](/influence/controlled_opposition/what-are-you-waiting-for.md) |
+| *Wake Up* credits (Thread L) | [Thread L](#thread-l--malcolm-x-woke-and-wake-up-end-credits-m1-psyop-lane) · [reader essay § Wake Up](/influence/controlled_opposition/not-like-this.md) |
 
 ---
 
@@ -693,7 +780,7 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 | § | Working title | Tier target | Main evidence |
 |---|---------------|-------------|---------------|
 | **0** | **Passport expires 11 Sep 2001** *(cold open)* → two camps → “why?” chain | L1 + L3 | Neo passport **9/11 PP**; **NSA camp = film 1** / **CIA camp = containment from film 2**; Merovingian **“without why you are powerless”**; Oracle **“understand your choice”**; Architect; Neo→Morpheus **control system**; **Maddox sidebar** (Thread D3) |
-| **1** | Two layers (define woke) | L3 def | Dual-layer epistemics; **Malcolm X rhymes throughout** (Foster/Shabazz, Panther, Tank→Link) |
+| **1** | Two layers (define woke) + **Wake Up credits** | L1 + L3 | Dual-layer epistemics; **Malcolm X rhymes** (Foster/Shabazz); **RATM “Wake Up”** — King/Vietnam, X/Islam, COINTELPRO memo; **Tonkin/Hanyok**; pre-9/11 **blame-Islam PP** (Thread L) |
 | **2** | What the first film offered | L1–L3 | Red pill, Tank, operator-as-fan-surrogate |
 | **3** | The kill-offs begin | L1 + L3 | Tank/Chong; Aaliyah; Foster; Link vs Tank; Fishburne “youth and wisdom” |
 | **3b** | The curse the fans already felt | L1–L2 + L3 | Empire / Evening Standard / Far Out |
@@ -717,8 +804,8 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 ### Assets to gather before drafting
 - [x] **Maddox** *Reloaded* page — [Wayback matrix2](https://web.archive.org/web/20030615000000/http://www.thebestpageintheuniverse.com/c.cgi?u=matrix2) (Thread D3 quotes indexed)
 - [ ] **2003 audience rejection** corpus (reviews, forums) — Oracle-as-control “not up to spec”; expand beyond Maddox
-- [x] **Neo→Morpheus post-Architect dialogue** — verified ASS **01:49:27–01:49:43** (R8)
-- [x] Oracle courtyard + exiles **timecodes** — verified ASS (R8)
+- [x] **Neo→Morpheus post-Architect dialogue** — verified YIFY **2:02:21–2:02:37** (R8)
+- [x] Oracle visit + exiles **timecodes** — verified YIFY (R8); **supersedes** fan-edit ASS
 - [ ] **Giant Bomb Not Like This** — episode URLs indexed; **full quote corpus** still TODO
 - [ ] MxO **Neo body** plot summary (wiki + primary forum archives).
 - [ ] **Resurrections** Analyst clips + peace-ending contrast from *Revolutions*.
@@ -751,7 +838,7 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 - ~~**R5 NSA/CIA**~~ → **One beat in §0** as **final influences**; NSA-aligned **exit Hollywood**; CIA-aligned **CGI/Disney-adjacent** pipeline — [validation logic](#nsa-vs-cia-two-camps-parallel-author-l3--cross-repo).
 - ~~**R6 love vs will**~~ → [Thread K](#thread-k--m1-revival-will-vs-love-containment-r6) — **not** love-from-inception; M2 **system/will** read; M4 **sanitized** revival.
 - ~~**R7 voice**~~ → **Visible first-person** where cohort split matters; M1 **only classic**; Maddox liked M1 (**author memory**, no primary yet).
-- ~~**R8 transcripts**~~ → ASS verified — [L1 transcript table](#l1-transcript-table--matrix-reloaded-fan-edit-ass-r8).
+- ~~**R8 transcripts**~~ → **YIFY-en.srt** verified — [L1 transcript table](#l1-transcript-table--matrix-reloaded-yify-ensrt-r8). Fan-edit ASS **deprecated** for timecodes.
 - ~~**R9 MxO**~~ → **Load-bearing** full **§6**; revolution **stopped**.
 
 ### Remaining open questions
@@ -768,7 +855,8 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 - [ ] **Curse folklore** corpus expansion (forums, Reddit — **pattern index**, not murder hunt).
 - [ ] Recover Maddox **`matrix_reloaded`** companion if it existed (Oracle **vague/redundant** author memory).
 - [ ] MMO comparison table (2009 survivorship).
-- [ ] Side-by-side stills for **author** Neo/Aki rhyme (optional illustration).
+- [x] Side-by-side demo video — Thread I — [youtu.be/Rh1nTlk-zqo](https://youtu.be/Rh1nTlk-zqo).
+- [ ] Side-by-side stills export (optional illustration beyond video).
 - [ ] Wachowski **primary** interviews on peace ending vs. *Resurrections*.
 - [ ] Header PNG + `npm run autogen` after `page.md` index row added.
 

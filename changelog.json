@@ -1,8 +1,55 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-14T13:57:56.287Z",
+    "date": "2026-06-14T15:23:03.688Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/not-like-this.md",
+        "href": "/influence/controlled_opposition/not-like-this"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md",
+        "href": "/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
+        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
+        "alt": "9/11 predictive programming — media rehearsal before the public event"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
+        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/controlled_resistance.jpg",
+        "alt": "Controlled resistance — manufactured dissent that looks like real opposition"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
+        "alt": "Celebrity modern slavery — contracts, containment, and creative control"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      },
+      {
+        "src": "/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.png",
+        "alt": "*The Matrix* — “Not Like This” containment investigation (header)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-14T13:57:55.000Z",
+    "message": "Add Not Like This hero art and center two-camp thesis.",
     "files": [
       {
         "status": "M",
@@ -876,28 +923,6 @@
       {
         "src": "https://paradigmthreat.net/governance/war/UkraineSummit.jpg",
         "alt": "Ukraine summit — figurehead diplomacy and Atlantic guarantor geometry"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-05T22:21:11.000Z",
-    "message": "Add hero image to Zelensky forward-history memory-war article.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/zelensky-forward-history-memory-war.md",
-        "href": "/governance/war/zelensky-forward-history-memory-war"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/zelensky-forward-history-memory-war.png",
-        "href": "/governance/war/zelensky-forward-history-memory-war.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/zelensky-forward-history-memory-war.png"
       }
     ]
   }
