@@ -1,8 +1,46 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-14T15:54:20.291Z",
+    "date": "2026-06-14T16:00:59.720Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/not-like-this.md",
+        "href": "/influence/controlled_opposition/not-like-this"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
+        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
+        "alt": "9/11 predictive programming — media rehearsal before the public event"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
+        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/controlled_resistance.jpg",
+        "alt": "Controlled resistance — manufactured dissent that looks like real opposition"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
+        "alt": "Celebrity modern slavery — contracts, containment, and creative control"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-14T15:54:19.000Z",
+    "message": "Refine Not Like This voice to objective lay prose and document article rules.",
     "files": [
       {
         "status": "M",
@@ -870,53 +908,5 @@
         "alt": "Giants of Japan — archival footage, Big Man Japan, and debunk-overreach"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-07T12:17:54.000Z",
-    "message": "Add Pearl Harbor investigation and Shingo spared-in-firebombing thesis.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/20th-21st-century-catalog.md",
-        "href": "/events/false_flag/investigations/20th-21st-century-catalog"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md",
-        "href": "/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/page.md",
-        "href": "/governance/war/investigations"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md",
-        "href": "/governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/reverse-crusades-comparison.md",
-        "href": "/governance/war/investigations/reverse-crusades-comparison"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md",
-        "href": "/governance/war/investigations/wwii-fascism-religious-apparatus-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/yakuza-remote-control-investigation.md",
-        "href": "/governance/war/investigations/yakuza-remote-control-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md",
-        "href": "/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation"
-      }
-    ],
-    "images": []
   }
 ]
