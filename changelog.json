@@ -1,8 +1,68 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-14T15:23:03.688Z",
+    "date": "2026-06-14T15:54:20.291Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/not-like-this.md",
+        "href": "/influence/controlled_opposition/not-like-this"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md",
+        "href": "/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)",
+        "alt": "` / `*.png` / `*.jpg`; prefer **published** `https://paradigmthreat.net/...` URLs (timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`). **Placement:** one image **after** the paragraph that introduces the topic (illustrate the **linked investigation**, not decorate every section). **Alt text:** name the **source lane** and **what the reader should see** (e.g. “Historical antibodies — timeline chapter,” “Call of Duty militainment — Krasinski operator arc”). **Do not** copy images into the article folder unless you are creating **new** art; **link** to the canonical file in its home directory. **Newsletter budget:** many large PNGs + hero can trigger Gmail clipping—prefer **fewer, well-placed** reuses over a gallery; see **Length → Newsletter / inbox check**. **Reference:** [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`"
+      },
+      {
+        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
+        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
+        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
+        "alt": "9/11 predictive programming — media rehearsal before the public event"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
+        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/controlled_resistance.jpg",
+        "alt": "Controlled resistance — manufactured dissent that looks like real opposition"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
+        "alt": "Celebrity modern slavery — contracts, containment, and creative control"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      },
+      {
+        "src": "/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.png",
+        "alt": "*The Matrix* — “Not Like This” containment investigation (header)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-14T15:23:02.000Z",
+    "message": "Expand Matrix containment essay with Wake Up credits, YIFY dialogue fixes, and Square tribute demo.",
     "files": [
       {
         "status": "M",
@@ -858,72 +918,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-05T22:34:57.000Z",
-    "message": "Align Zelensky memory-war article with ARTICLES.md and add Ring §30 dossier.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md",
-        "href": "/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/zelensky-forward-history-memory-war.md",
-        "href": "/governance/war/zelensky-forward-history-memory-war"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/genocide/holocaust/holocaust_planned.jpg",
-        "alt": "Weizmann 1937 meme — “upcoming Holocaust” caption"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_21_questions.png",
-        "alt": "21 Questions Regarding the Holocaust — revisionist infographic"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_truth2.jpg",
-        "alt": "HOLOCAUST? — typhus, Allied bombing, Zyklon lice spray (David Dees)"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_lies9.jpg",
-        "alt": "Anne Frank hoax meme — 1951 pen, handwriting, Otto co-author"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_lies2.jpg",
-        "alt": "Auschwitz amenities list — labor camp not death camp"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_lies13.jpg",
-        "alt": "NYT clippings — six million and holocaust before WW2"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_lies11.jpg",
-        "alt": "ICRC letter to McClelland — page 1, Auschwitz delegate report"
-      },
-      {
-        "src": "/governance/genocide/holocaust/holocaust_lies12.jpg",
-        "alt": "ICRC letter — page 2, confidentiality / relief limitations"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/zelensky-forward-history-memory-war.png",
-        "alt": "Zelensky forward-history memory war — figurehead grammar, Holodomor soil, simplified Jew"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/genocide/holocaust/holodomor.png",
-        "alt": "Holodomor — famine mortality on Ukrainian soil, classroom displacement"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/genocide/holocaust/holocaust_lies11.jpg",
-        "alt": "ICRC letter to McClelland — page 1, Auschwitz delegate report (Nov 1944)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/UkraineSummit.jpg",
-        "alt": "Ukraine summit — figurehead diplomacy and Atlantic guarantor geometry"
-      }
-    ]
   }
 ]

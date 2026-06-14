@@ -135,7 +135,7 @@ flowchart TB
 - Film **shot Mar–Aug 1998**; released **Mar 1999** — **>2 years before** 9/11 attacks.
 - [Snopes: claim TRUE](https://www.snopes.com/fact-check/neo-passport-matrix-9-11/) (date on prop is real; mainstream frames **coincidence**).
 
-**Author read (L3):** **Predictive programming** — the simulation’s chosen one carries an identity document that **expires on the day official reality fractures**. Fits **CO-from-inception**: awakening offered **inside** a text that **already encoded** the next **mass-layer break** (9/11 → post-collapse audience **rejected** uncomfortable Oracle-as-control in *Reloaded*). **Rhymes [Thread L](#thread-l--malcolm-x-woke-and-wake-up-end-credits-m1-psyop-lane):** same film’s end credits accuse **Islam-blame framing** and **Vietnam-era assassination politics** — **>2 years before** 9/11 and **decades** before audiences routinely heard **Tonkin SIGINT** declass language.
+**Author read (L3):** **Predictive programming** — the simulation’s chosen one carries an identity document that **expires on the day official reality fractures**. Fits **CO-from-inception**: awakening offered **inside** a text that **already encoded** the next **mass-layer break** (9/11 → **contain campaign** **framed** uncomfortable Oracle-as-control in *Reloaded* as **cringe**, not **organic** audience demand for comfort). **Rhymes [Thread L](#thread-l--malcolm-x-woke-and-wake-up-end-credits-m1-psyop-lane):** same film’s end credits accuse **Islam-blame framing** and **Vietnam-era assassination politics** — **>2 years before** 9/11 and **decades** before audiences routinely heard **Tonkin SIGINT** declass language.
 
 **Tier discipline:** L1 = date on screen + production timeline; L3 = PP / CO intent. Do **not** collapse in article without definition box.
 
@@ -329,13 +329,13 @@ flowchart TB
 
 ### Why audiences rejected it (L2–L3 — research TODO)
 
-**Author read:** Post-**9/11** (2001–2003 release window), mass audience wanted **comfort Oracle** — **wise grandmother**, not **layer of the Matrix**. Accepting **Oracle = control** implies **your awakening guide is compromised** — same **dual-layer** pain as suspecting **news / church / state** after collapse events.
+**Author read (L3):** Post-**9/11** **containment** — **not** organic mass sentiment; author **never** preferred **comfort Oracle** over compromised guide. The **contain camp steered reception**: critics, **Maddox**-style mockery, and franchise defanging **sold** “wise grandmother” Oracle and **punished** *Reloaded*’s control-layer read. Accepting **Oracle = control** is the **dual-layer** pain the film **offered**; burying it is **campaign success**, not proof the public **naturally** wanted comfort after collapse.
 
 **Investigation tasks:**
 - [x] **Maddox** *Reloaded* takedown indexed — see [Thread D3](#thread-d3--maddox-2003-pseudo-intellectual-fan-fracture--nothing-to-believe-in)
 - [ ] **2003 forum / review** corpus — “too talky,” “philosophy class,” “ruined Oracle,” “what happened to simple story” (partial: EW Gleiberman, Rolling Stone Travers, Film Freak Central — expand)
 - [ ] Contrast **Morpheus-as-true-believer** fan preference vs. **Neo-outgrows-Morpheus** arc
-- [ ] Map rejection to **containment success**: studio can **keep exiles monologue + Architect** for **prestige**, audience **remembers burly brawl**, **shelves** the **control-system** lesson
+- [ ] Map **manufactured rejection** to **containment success**: studio can **keep exiles monologue + Architect** for **prestige**, **steer** audience to **remember burly brawl**, **shelve** the **control-system** lesson
 
 ### Link to other threads
 
