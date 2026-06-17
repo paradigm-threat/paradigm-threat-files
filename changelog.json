@@ -1,8 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-17T13:04:14.544Z",
+    "date": "2026-06-17T13:05:24.089Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/hollywood/everything-burns.md",
+        "href": "/influence/hollywood/everything-burns"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md",
+        "href": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
+        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
+      },
+      {
+        "src": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png",
+        "alt": "China / Hollywood two-camp war — investigation cover"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-17T13:04:13.000Z",
+    "message": "Reorganize China/Hollywood dossier; extract speech catalogs to celebrity file.",
     "files": [
       {
         "status": "M",
@@ -1075,24 +1102,6 @@
         "status": "M",
         "path": "influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md",
         "href": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-10T11:31:48.000Z",
-    "message": "Add celebrity modern-slavery containment investigation dossier.",
-    "files": [
-      {
-        "status": "A",
-        "path": "influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md",
-        "href": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/suppression/page.md",
-        "href": "/influence/suppression"
       }
     ],
     "images": []

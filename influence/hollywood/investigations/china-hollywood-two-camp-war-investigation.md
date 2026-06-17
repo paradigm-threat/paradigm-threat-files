@@ -254,6 +254,17 @@ From [celebrity modern slavery investigation § “one great movie”](/influenc
 | [Consequence, Oct 2019](https://consequence.net/2019/10/heath-ledger-vs-joaquin-phoenix-joker/) | Ledger Joker = **enigma**, moral rot, **“not meant to be human”** — **symbol**; Phoenix Fleck = **marginalized victim**, **“unwitting catalyst for class revolution”** |
 | [UNO — *Journal of Religion & Film* (2021)](https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=2206&context=jrf) | Cites Ledger’s **“Why so serious?”** mantra alongside **Phoenix** cosplay-protest in Beirut, Santiago, Hong Kong; analyzes *Dark Knight* Joker sermon vs **2019** folk-devil uprising |
 
+### Peer tribute — *The Office* **Employee Transfer** (2008) (L1 plot; L3 camp read)
+
+| Beat | Detail | Source | Tier |
+|------|--------|--------|------|
+| **Episode** | Season 5, Episode 6 — **Employee Transfer**; Halloween cold open aired **30 Oct 2008** | [Wikipedia — *Employee Transfer*](https://en.wikipedia.org/wiki/Employee_Transfer) | L1 |
+| **Three Jokers** | **Creed**, **Kevin**, and **Dwight** enter separately in **Heath Ledger *Dark Knight*** Joker makeup | Same; [Office Ladies transcript, Ep 82](https://officeladies.com/transcript-ep-82-employee-transfer) | L1 |
+| **Script intent** | Costumes specified as Ledger Joker; **Creed** “amazing,” **Kevin** “lame,” **Dwight** mixed Nicholson nod per wardrobe notes | Office Ladies; [SYFY — Three Jokers cold open](https://www.syfy.com/syfy-wire/chosen-one-of-the-day-three-jokers-on-the-office) | L1 |
+| **Author read** | **NSA-coded** peer show (*workplace audit* sitcom) **paying tribute** to **NSA antibody flagship** (*Dark Knight*) **before** **2019** *Joker* flattening | L3 | Cross-read [Everything Burns](/influence/hollywood/everything-burns.md) |
+
+**Discipline:** *The Office* camp label is **author taxonomy** — not a declassified memo. Tribute proves **Ledger footprint in industry**, not agency direction.
+
 ### Political-mask repertoire since 2008 (L2)
 
 [Academia — “Occupying Popular Culture”](https://www.academia.edu/9939518/_Occupying_Popular_Culture_Anonymous_Occupy_Wall_Street_and_the_Guy_Fawkes_Mask_as_a_Political_Icon_): since **2008**, protest mask repertoire includes **V for Vendetta** and **The Joker** among others — **does not** resolve Ledger vs Phoenix attribution in street footage.
@@ -472,7 +483,7 @@ Cross-read [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-an
 
 Keywords: #EverythingBurns #DarkKnight #Joker #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody
 
-**Last updated:** 2026-06-17T23:30:00-04:00
+**Last updated:** 2026-06-18T00:15:00-04:00
 
 ---
 
