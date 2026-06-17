@@ -27,12 +27,13 @@
 15. [360° deals and catalog ownership](#360-deals-and-catalog-ownership)
 16. [NDAs, silence, and Texas Trey’s Law](#ndas-silence-and-texas-treys-law)
 17. [Political containment — celebrity silence and rare Trump-era support](#political-containment--celebrity-silence-and-rare-trump-era-support)
-18. [Case study — Morgan Freeman / Committee to Investigate Russia (2017)](#case-study--morgan-freeman--committee-to-investigate-russia-2017)
-19. [Franchise battleground — one good movie, then something breaks](#franchise-battleground--one-good-movie-then-something-breaks)
-20. [Predictive programming cross-read](#predictive-programming-cross-read)
-21. [Weak points / citation registry](#weak-points--citation-registry)
-22. [Related investigations](#related-repo-investigations)
-23. [Limits and disclaimers](#limits-and-disclaimers)
+18. [Hollywood celebrity speech containment — De Niro archetype + catalogs](#hollywood-celebrity-speech-containment--deniro-archetype--catalogs)
+19. [Case study — Morgan Freeman / Committee to Investigate Russia (2017)](#case-study--morgan-freeman--committee-to-investigate-russia-2017)
+20. [Franchise battleground — one good movie, then something breaks](#franchise-battleground--one-good-movie-then-something-breaks)
+21. [Predictive programming cross-read](#predictive-programming-cross-read)
+22. [Weak points / citation registry](#weak-points--citation-registry)
+23. [Related investigations](#related-repo-investigations)
+24. [Limits and disclaimers](#limits-and-disclaimers)
 
 ---
 
@@ -819,7 +820,111 @@ Nearly **every celebrity documentary** — **authorized biopic**, **streaming se
 
 **Cross-reference:** [Trump-era Hollywood PP investigation](/influence/hollywood/trump-era-hollywood-political-media-investigation.md); [Cruz / media blackmail thesis](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#the-national-security-thesis-media-blackmail-and-controlled-candidacies).
 
-**Inverse case (ordered speech):** See [§ Morgan Freeman — Committee to Investigate Russia (2017)](#case-study--morgan-freeman--committee-to-investigate-russia-2017) — rare moment an **A-list** star **delivers** **pro-establishment war framing** on camera while most peers **stay silent**.
+**Inverse case (ordered speech):** See [§ Morgan Freeman — Committee to Investigate Russia (2017)](#case-study--morgan-freeman--committee-to-investigate-russia-2017) — rare moment an **A-list** star **delivers** **pro-establishment war framing** on camera while most peers **stay silent**. **Full speech-containment catalogs** (medical dissent, pro-Trump blacklist, Gaza firings): [§ Hollywood celebrity speech containment](#hollywood-celebrity-speech-containment--deniro-archetype--catalogs).
+
+---
+
+## Hollywood celebrity speech containment — De Niro archetype + catalogs
+
+**Status:** **Canonical home** (extracted from [China/Hollywood two-camp dossier Thread J bridge](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md#thread-j--celebrity-speech-containment-bridge--suppression-dossier), **2026-06-17**). **Two-camp calendar tie-in** (*2019 Joker* + De Niro deployment) stays summarized in [China dossier Thread I](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019) and [Everything Burns](/influence/hollywood/everything-burns.md).
+
+### Author thesis (session capture)
+
+> When a celebrity **gets in trouble for saying something** — **anti-establishment** (medical dissent, Gaza, anti-war) or **pro-Trump** / conservative — the read here is not always “Hollywood liberals are mean.” It is **someone trying to own them**: studios, agencies, **NDA / leverage** networks, and **headline machinery** that punish wrong speech and **deploy** right speech. **Robert De Niro** is the cleanest **two-beat** case: **Beat 1** — Tribeca *Vaxxed* pull after citing his **autistic child** (**March 2016**); **Beat 2** — within months, escalating **anti-Trump** performances that **never** cost him A-list status (**August 2016** → **2018** → **2024** → **2026**). That asymmetry matters: **anti-Trump outbursts are the containment-safe lane** for a star who already touched **medical heresy**. The **2019** *Joker* puts De Niro on screen as **Murray Franklin** while the contain-camp film **psyops** viewers back toward victim-blame — then he calls Trump a **“clown”** at the courthouse (**May 2024**). Thematic rhyme, not proved causation.
+>
+> **Inverse:** Most A-listers **stay silent** on polarized fights unless **ordered to speak** — see **Morgan Freeman** CIR **“we are at war”** video (**2017**) below. **Pro-Trump** and **medical dissent** are the lanes that **burn careers**; **establishment war rhetoric** and **anti-Trump** campaign slots are lanes stars **get used on**.
+
+**Cross-read:** [§ Political containment](#political-containment--celebrity-silence-and-rare-trump-era-support); [vaccine injury dossier](/governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.md); [Cruz / media-blackmail thesis](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#the-national-security-thesis-media-blackmail-and-controlled-candidacies); [Brandy Vaughan](/influence/conspiracy/celebrities/brandy-vaughan.md) (whistleblower death edge case — not performer containment, same medical lane).
+
+### The De Niro archetype (two beats)
+
+| Beat | What happened | Tier |
+|------|---------------|------|
+| **1 — Trouble for wrong speech** | Tribeca lists then **pulls** *Vaxxed*; De Niro cites **autistic child**, wanted “conversation” | L1 — [NBC](https://www.nbcnews.com/health/health-news/de-niro-s-tribeca-festival-yanks-anti-vaccination-film-n546161) |
+| **2 — Mitigation / redeployment** | **~4.5 months** → Sarajevo **“totally nuts”**; then **2018** Tonys, **2024** courthouse, **2026** First Amendment rally | L1 events; L3–L4 **ordered** read |
+
+Full De Niro deployment table (2016–2026): [China dossier Thread I § Robert De Niro](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md#robert-de-niro--vaxxed--trump-timeline-l1-backlash-l4-causality).
+
+**Discipline:** Beat 2 events are **documented**. **“Ordered to attack”** is **author causality (L4)** — debunkers will cite De Niro’s prior Democratic politics; hold both.
+
+**Search note:** No second A-lister yet matches De Niro’s full **medical-dissent → multi-year anti-Trump campaign asset** arc at this tier. Closest partial parallels: **walkbacks** (Biel, Sarandon apology), **hard firing** (Carano, Barrera), **claimed blacklist** (Sabato).
+
+### Asymmetry — what costs a career vs what does not
+
+| Speech lane | Typical industry response | Example |
+|-------------|---------------------------|---------|
+| **Anti-Trump / pro-establishment war framing** | Rarely ends A-list careers; often **rewarded** with ovations | De Niro Tonys **2018**; Freeman CIR **2017** |
+| **Medical / vaccine dissent** | Trade press pillory; festival pull; ad contract loss | De Niro **2016**; Schneider State Farm **2014** |
+| **Pro-Trump / open conservative** | Agents drop, roles dry up — **self-reported** and **trade-reported** | Sabato **2016** RNC; Gina Carano **2021** |
+| **Geopolitical heresy (Gaza, etc.)** | Agency drop / franchise fire | Sarandon UTA **2023**; Barrera *Scream VII* **2023** |
+| **Twitter anger only** | Social pile-on; work often continues | Vaughn handshake **2020**; Pratt “worst Chris” **2020** |
+
+### Catalog A — Medical / vaccine / COVID dissent (anti-establishment)
+
+| Celebrity | Documented trouble | Source (L1 unless noted) |
+|-----------|-------------------|--------------------------|
+| **Robert De Niro** | Tribeca *Vaxxed* pull; RFK Jr. meeting | [NBC](https://www.nbcnews.com/health/health-news/de-niro-s-tribeca-festival-yanks-anti-vaccination-film-n546161); [THR](https://www.hollywoodreporter.com/news/general-news/robert-de-niro-defends-anti-878383/) |
+| **Jim Carrey** | SB277 **“corporate fascist”** tweets; HuffPost anti-vax columns; apologized for autistic boy’s photo in rant | [Boston Globe](https://www.bostonglobe.com/arts/2015/07/01/jim-carrey-calls-calif-governor-corporate-fascist-vaccine-law-rant/33ikyaBnyaa2RRfXmTPc8J/story.html); [THR](https://www.hollywoodreporter.com/movies/movie-news/jim-carrey-apologizes-tweeting-photo-806746/) |
+| **Jessica Biel** | Jun **2019** — Capitol lobbying with RFK Jr. vs SB **276**; **“anti-vaxxer”** label; legislator pushback | [THR](https://www.hollywoodreporter.com/news/general-news/jessica-biels-vaccine-lobbying-draws-ire-california-legislators-1218309/); [Vox](https://www.vox.com/2019/6/13/18677517/jessica-biel-robert-kennedy-anti-vaccine) |
+| **Jenny McCarthy** | Long-running autism–vaccine advocacy stigma in mainstream press | [Rolling Stone roundup](https://www.rollingstone.com/culture/culture-features/celebrities-anti-vaxxers-jessica-biel-847779/) |
+| **Rob Schneider** | State Farm **dropped ad** (**2014**); claims conservative speech ended starring roles | [THR](https://www.hollywoodreporter.com/news/general-news/rob-schneider-fires-back-state-735603/); [Fox — Schneider blacklist claims](https://www.foxnews.com/entertainment/rob-schneider-exposes-hollywoods-rot-he-claims-conservative-actors-face-industry-blacklist) |
+| **Kat Von D** | **2018** boycott calls over unvaccinated child plans; brand damage | [BBC](https://www.bbc.co.uk/news/world-us-canada-44483000) |
+| **Eric Clapton** | Anti-lockdown / Van Morrison collab backlash; refused vax-pass venues; **2023** RFK fundraiser | [BBC](https://www.bbc.co.uk/news/world-us-canada-57934379); [Ultimate Classic Rock](https://ultimateclassicrock.com/eric-clapton-roger-waters-politics/) |
+| **Nicki Minaj** | **2021** — global health-official pile-on for COVID vax tweet; Met Gala skip | [CNBC](https://www.cnbc.com/2021/09/14/rap-artist-nicki-minaj-faces-backlash-after-tweeting-inaccurate-information-about-covid-vaccines.html); [BBC](https://www.bbc.com/news/world-latin-america-58581292) |
+| **Zachary Levi** | **2024** Trump endorsement feared **“career suicide”**; Broadway backlash for vax conspiracy re: Gavin Creel death | [HuffPost](https://www.huffpost.com/entry/zachary-levi-trump-support-not-canceled_n_6758b2bae4b063b52a9a4c88) |
+
+**Also named in trade roundups (weaker career-hit documentation):** Alicia Silverstone, Kristin Cavallari, Toni Braxton, Mayim Bialik, Bill Maher (hedged), Selma Blair — [THR vaccine feature](https://www.hollywoodreporter.com/movies/movie-features/how-vaccines-autism-battle-continues-despite-scientific-consensus-924080/).
+
+### Catalog B — Pro-Trump / Hollywood-conservative
+
+| Celebrity | Documented trouble | Source (L1 unless noted) |
+|-----------|-------------------|--------------------------|
+| **Antonio Sabato Jr.** | Agents/managers left; distributors refused projects after **2016 RNC** speech | [Variety 2016](https://variety.com/2016/film/news/antonio-sabato-jr-blacklisted-for-supporting-donald-trump-republican-1201829791/); [Variety 2020](https://variety.com/2020/politics/features/antonio-sabato-jr-donald-trump-republican-hollywood-1203521208/) |
+| **Scott Baio** | Claims blacklist since **2016 RNC**; career largely pre-dated Trump (complicates causality) | Trade + [Queerty summary](https://www.queerty.com/washed-actor-scott-baio-says-hollywood-blacklisted-supporting-trump-cant-find-job-20200722) |
+| **Roseanne Barr** | ABC cancel **2018**; ICM dropped — **racist tweet**; she frames firing as Trump vote | [NPR](https://www.npr.org/sections/thetwo-way/2018/05/29/615211939/abc-cancels-roseanne-after-abhorrent-twitter-rant-from-its-star); [TheWrap](https://www.thewrap.com/roseanne-barr-says-fired-abc-voted-trump-not-allowed-hollywood/) |
+| **Gina Carano** | Fired from *Mandalorian* **2021**; spinoff killed; sued Disney (settled **2025**) | [THR](https://www.hollywoodreporter.com/news/general-news/behind-disneys-firing-of-mandalorian-star-gina-carano-4133813/); [People](https://people.com/gina-carano-controveries-fired-from-the-mandalorian-11976157) |
+| **Robert Davi** | Claims projects vanish after Trump support; asked to endorse liberals for “tickets” | [Fox](https://www.foxnews.com/entertainment/robert-davi-claims-hollywood-blacklist-persists-over-trump-support) |
+| **Rob Schneider** | Overlaps Catalog A — claims right-leaning speech ended movie starring roles | See above |
+| **Kanye West / Ye** | Post–White House MAGA (**Oct 2018**): peer blowback; **mental-health media frame**; later brand breaks (separate beats) | [Variety](https://variety.com/2018/politics/news/kanye-west-trump-white-house-1202977041/); [NPR](https://www.npr.org/2018/10/11/656561471/quite-something-kanye-west-makes-a-statement-in-the-oval-office) |
+| **Stacey Dash** | Fox pundit lane; later apologized for arrogant political tone | Self-reported friction |
+| **Tim Allen** | *Last Man Standing* ABC cancel **2017**; revived Fox — often cited as conservative punishment | Network cited ratings; author read: political subtext |
+
+**Open supporters with less documented career damage:** Jon Voight, Kid Rock, Stephen Baldwin, Ted Nugent, Hulk Hogan (**2024**), James Woods — [THR “quiet support” 2016](https://www.hollywoodreporter.com/news/general-news/inside-hollywoods-quiet-growing-support-874433/); [THR “D-list bench” 2024](https://www.hollywoodreporter.com/news/politics-news/donald-trump-d-list-celebrities-1235951100/). **Nugent:** more supporters exist but **“vowed not to out them.”**
+
+**Social backlash, career largely continued:** **Vince Vaughn** Trump handshake **Jan 2020** ([NBC](https://www.nbcnews.com/pop-culture/pop-culture-news/vince-vaughn-shakes-trump-s-hand-ncaa-football-championship-n1115176)); **Chris Pratt** “worst Chris” pile-on **2020** ([Newsweek](https://www.newsweek.com/chris-pratt-backlash-twitter-poll-politics-religion-animals-1540991)) — **no** confirmed Trump endorsement.
+
+### Catalog C — Geopolitical dissent (anti-establishment, usually left)
+
+| Celebrity | Documented trouble | Source |
+|-----------|-------------------|--------|
+| **Melissa Barrera** | Fired from *Scream VII* **Nov 2023** over Israel–Gaza posts | [Variety](https://variety.com/2023/film/news/hollywood-divide-over-israel-melissa-barrera-1235804452/); [NPR](https://www.npr.org/2023/11/22/1214833761/melissa-barrera-susan-sarandon-israel-gaza) |
+| **Susan Sarandon** | UTA dropped **Nov 2023** after rally remarks; **apologized Dec 2023** | [NPR](https://www.npr.org/2023/11/22/1214833761/melissa-barrera-susan-sarandon-israel-gaza); [Georgetown Free Speech Project](https://freespeechproject.georgetown.edu/tracker-entries/talent-agency-cuts-ties-with-susan-sarandon-over-her-remarks-on-gaza-she-expresses-remorse/) |
+| **Roger Waters** | Concert cancellations / investigations (Germany **2023**); State Dept condemnation | [Ultimate Classic Rock — Clapton/Waters](https://ultimateclassicrock.com/eric-clapton-roger-waters-politics/) |
+| **Maha Dakhil (CAA agent)** | Demoted over **“genocide”** Instagram posts | [Time](https://time.com/6338695/melissa-barrera-fired-susan-sarandon-israel-hamas-war-hollywood/) |
+
+**Controls (dissent without firing — so far):** Mark Ruffalo (anti-fracking), Sean Penn — useful contrast rows.
+
+### Catalog D — Ordered establishment speech (inverse of silence)
+
+| Celebrity | Documented deployment | Source |
+|-----------|----------------------|--------|
+| **Morgan Freeman** | CIR launch **19 Sep 2017** — **“We are at war”**; Putin/KGB framing; ask Trump to address election attack | [Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/rob-reiner-morgan-freeman-help-launch-committee-investigate-russia-1041397/) |
+
+Author read: Freeman **speaks** where most stars **stay silent** — because message **served** post-2016 establishment panic. Alternative: voluntary Democratic endorsement history — hold both. **Expanded case study:** [§ Morgan Freeman CIR (2017)](#case-study--morgan-freeman--committee-to-investigate-russia-2017).
+
+### Beat-2 candidates (trouble → opposite deployment) — open
+
+| Name | Beat 1 | Beat 2 | Confidence |
+|------|--------|--------|------------|
+| **De Niro** | Vaxxed | Anti-Trump **2016–2026** | **Strongest** — investigation anchor |
+| **Susan Sarandon** | UTA drop / Gaza | Public **apology** Dec **2023** | Mitigation, not anti-Trump |
+| **Jessica Biel** | SB **276** lobbying | Instagram **“not anti-vax”** | Walkback only |
+| **Kanye** | MAGA / Oval Office | Psychiatric / chaos containment narrative | Different grammar |
+| **Freeman** | *(no prior trouble in file)* | CIR war video | **Inverse** — ordered pro-establishment speech |
+
+### Tie-in to two-camp war (L3)
+
+The **2019** *Joker* is **CIA/MI6 camp** not only for **victim-blame** narrative but for **celebrity puppeteering on screen and off**: Phoenix (**Murray Franklin** victim arc) + De Niro (**Murray Franklin** actor + **post-Vaxxed** anti-Trump deployment) = contain-camp **psyop stack** — fiction, press cycle, and **ordered speech** rhyming on the same calendar. **Narrative side:** [China dossier Thread I](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019).
 
 ---
 
@@ -1066,6 +1171,9 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 - **Future investigation:** **franchise-quality-one-good-movie-phenomenon** — standalone dossier (pattern catalog, **not** **scoped** **here**)
 - **Poe:** Primary pull **NY Post** **“Decade** **of** **Silence”** (Miriam Katz, **2011**); **Modern/FEI→Edsel** **sale** **contract** **(if** **filed**)
 - **De Havilland** → ** Courtney Love / §2855** music litigation thread
+- **De Niro March 2016** primary quotes on autism / vaccine (Q7 — moved from China dossier)
+- **Beat-2 catalog expansion** (Q9): second A-lister matching De Niro **Vaxxed → durable anti-Trump deployment**
+- **Sabato / Baio / Davi** blacklist causality vs self-report (Q10)
 - **Elton:** Primary pull **1992 Rolling Stone** full **gay** interview text (beyond secondary summaries)
 - **EJAF:** **Russian Prosecutor General** **Apr 2025** designation — **full** **Telegram** + **website** **text**; **EJAF** **annual** **reports** (**Russia/EECA** **spend**); **1992** **founding** **donor** **registry**
 - **LGBTQ left behind:** Expand registry or **future dossier** — **90s corporate-gay → LGBTQIA+ → lawfare** arc
@@ -1078,7 +1186,7 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 | Topic                                        | Link                                                                                                                                                                                          |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Trump-era Hollywood / PP**                 | [trump-era-hollywood-political-media-investigation](/influence/hollywood/trump-era-hollywood-political-media-investigation.md)                                                                |
-| **China/Hollywood — *Dark Knight* one-off pattern** | [Everything Burns](/influence/hollywood/everything-burns.md); [two-camp dossier](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md) |
+| **China/Hollywood — *Dark Knight* / *Joker* two-camp + speech bridge** | [Everything Burns](/influence/hollywood/everything-burns.md); [two-camp dossier Thread I + J bridge](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md); **§ Hollywood speech containment** (this file) |
 | **Predictive programming hub**               | [PP page](/influence/predictive_programming/page.md)                                                                                                                                          |
 | **Media blackmail / controlled candidacies** | [Cruz / Kevin Malone thesis](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#the-national-security-thesis-media-blackmail-and-controlled-candidacies) |
 | **High poppy / institutional ouster**        | [canceling-the-high-poppy](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md)                                                             |
@@ -1089,9 +1197,9 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 
 ---
 
-Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #Prince #Poe #RobertEdsel #MichaelJackson #EltonJohn #EJAF #EltonJohnAIDSFoundation #HughJackman #Wolverine #RyanReynolds #Deadpool #Nicepool #JustinBaldoni #WesleySnipes #Blade #MorganFreeman #Russia #RussiaUndesirable #CommitteeToInvestigateRussia #PersonalServicesContract #DeHavillandLaw #FranchiseFatigue #PredictiveProgramming #Trump #SpeakOutAct #TreysLaw #MeToo #TimesUp #OccupyWallStreet #Adbusters #ParadigmThreatFiles
+Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #Prince #Poe #RobertEdsel #MichaelJackson #EltonJohn #EJAF #EltonJohnAIDSFoundation #HughJackman #Wolverine #RyanReynolds #Deadpool #Nicepool #JustinBaldoni #WesleySnipes #Blade #MorganFreeman #DeNiro #Vaxxed #CelebrityContainment #Russia #RussiaUndesirable #CommitteeToInvestigateRussia #PersonalServicesContract #DeHavillandLaw #FranchiseFatigue #PredictiveProgramming #Trump #SpeakOutAct #TreysLaw #MeToo #TimesUp #OccupyWallStreet #Adbusters #ParadigmThreatFiles
 
-**Last updated:** 2026-06-11 (Poe / Prince fully decoupled — separate case studies, no comparison table or cross-refs)
+**Last updated:** 2026-06-17T23:30:00-04:00
 
 ---
 
@@ -1105,6 +1213,7 @@ Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #P
 - **Living persons:** **Disputed** **handler** / **abuse** claims stay **tiered**; **no** **unchallenged criminal accusations**.
 - **Michael Jackson / Sony:** **Trade-documented** **business conflict** ≠ **proof** of **foul play** at **death** (see [Prince dossier](/influence/conspiracy/celebrities/prince.md) for **similar caution**).
 - **Political silence:** **Multiple explanations** (ideology, brand protection, fan polarization) **coexist** with **containment hypothesis**.
+- **Hollywood speech containment catalogs:** Firing, agency drop, and ad-pull rows are **L1** where sourced in [§ Hollywood speech containment](#hollywood-celebrity-speech-containment--deniro-archetype--catalogs); **blacklist** and **ordered speech** reads are **L3–L4**. **Roseanne** and **Carano** rows mix **political** and **hate-speech** triggers — do not collapse. **Sabato/Baio** causality **disputed** in press. Catalog is **working** — not exhaustive.
 - **Morgan Freeman / CIR (2017):** **Documented participation** in **Reiner** nonprofit video; **author “compelled speech”** read is **interpretive** — **Freeman** has **on-record** **Democratic** **endorsements** (**Obama**, **Clinton**) as **alternative** to **handler coercion**.
 - **Ryan Reynolds / *Deadpool & Wolverine*:** **Documented** **Nicepool–Baldoni** **satire** link; **MeToo** **legal** **layer** in **dismissal** is **read** **here** as **industry** **machinery** (**not organic** — **same** **class** as **Occupy**), **not** as **refutation** of **instrument** **thesis** — see [§ MeToo machinery](#metoo-machinery--industry-sponsorship-persecution-pattern-and-the-livelybaldoni-lane), [§ Occupy parallel](#occupy-wall-street--parallel-managed-ignition-not-grassroots).
 - **Wesley Snipes / tax prison / *D&W*:** **Federal** **conviction** and **BOP** **dates** are **L1**; **“staged”** **jail** is **not** **default** — **open** **L4** **question** **only**; **“slaves on display”** is **author** **metaphor** for **Void** **cameo** **roster**, **not** **literal** **trafficking** — see [§ Snipes](#case-study--wesley-snipes--prison-lane--deadpool--wolverine--slaves-on-display).

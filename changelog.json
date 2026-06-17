@@ -1,8 +1,54 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-17T12:42:10.678Z",
+    "date": "2026-06-17T13:04:14.544Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/everything-burns.md",
+        "href": "/influence/hollywood/everything-burns"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md",
+        "href": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/page.md",
+        "href": "/influence/hollywood"
+      },
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md",
+        "href": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
+        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
+      },
+      {
+        "src": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png",
+        "alt": "China / Hollywood two-camp war — investigation cover"
+      },
+      {
+        "src": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
+        "alt": "Celebrity modern slavery — contracts, containment, NDAs, and creative control"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-17T12:42:09.000Z",
+    "message": "Add 24 as NSA-aligned TV case in China/Hollywood investigation.",
     "files": [
       {
         "status": "M",
@@ -1047,19 +1093,6 @@
         "status": "M",
         "path": "influence/suppression/page.md",
         "href": "/influence/suppression"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-07T18:47:42.000Z",
-    "message": "Expand Takeuchi dossier with trial harvest thesis and Mu/MFEE lore.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md",
-        "href": "/history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation"
       }
     ],
     "images": []
