@@ -2,7 +2,7 @@
 
 ![China / Hollywood two-camp war — investigation cover](china-hollywood-two-camp-war-investigation.png)
 
-> **TL;DR:** Open dossier testing whether **NSA-aligned** vs **CIA/MI6-aligned** grammar in **China/Hong Kong** blockbuster media sorts into two camps: **complex antibody / regional audit** (*The Dark Knight*, *Rush Hour 2*) vs **mythical-shallow China** or **direct US–China war normalization** (*Red Dawn* 2012, *Battlefield 4*, *Fallout*, etc.). **Censorship lists do not reliably sort camps** — litmus test is whether narrative **pushes hypothetical war with China**. **Thread I–J:** *Joker* lineage (Ledger resistance vs Phoenix containment) and **celebrity speech containment** — De Niro as anchor (**Vaxxed** backlash → durable anti-Trump deployment); working catalog of stars punished for **medical dissent**, **pro-Trump**, or **geopolitical heresy**. **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md).
+> **TL;DR:** Open dossier testing whether **NSA-aligned** vs **CIA/MI6-aligned** grammar in **China/Hong Kong** blockbuster media sorts into two camps: **complex antibody / regional audit** (*The Dark Knight*, *Rush Hour 2*, ***24***) vs **mythical-shallow China** or **direct US–China war normalization** (*Red Dawn* 2012, *Battlefield 4*, *Fallout*, etc.). **Censorship lists do not reliably sort camps** — litmus test is whether narrative **pushes hypothetical war with China**. **Thread K — *24*:** Jack Bauer’s **Chinese imprisonment/torture**, **Audrey Raines** pharmaceutical torture, **proxy-terror** + **nuclear deterrent** Middle East arc, **CTU HQ nerve-gas attack**. **Thread I–J:** *Joker* lineage and **celebrity speech containment**. **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md).
 
 **Date:** 2026-06-17  
 **Status:** Open investigation; **reader essay published** 2026-06-17.  
@@ -24,10 +24,11 @@
 10. [Thread H — Obama / 2008 / Libya 2011 (author speculative chain)](#thread-h--obama--2008--libya-2011-author-speculative-chain)
 11. [Thread I — Joker lineage: Ledger resistance vs Phoenix containment (2019)](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019)
 12. [Thread J — Celebrity speech containment (De Niro archetype + catalog)](#thread-j--celebrity-speech-containment-de-niro-archetype--catalog)
-13. [Questions to clarify, verify, or debunk](#questions-to-clarify-verify-or-debunk)
-14. [Weak points / research TODOs](#weak-points--research-todos)
-15. [Related investigations](#related-investigations)
-16. [Limits and disclaimers](#limits-and-disclaimers)
+13. [Thread K — *24* (TV, 2001–2010): China torture, proxy terror, CTU destruction](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction)
+14. [Questions to clarify, verify, or debunk](#questions-to-clarify-verify-or-debunk)
+15. [Weak points / research TODOs](#weak-points--research-todos)
+16. [Related investigations](#related-investigations)
+17. [Limits and disclaimers](#limits-and-disclaimers)
 
 ---
 
@@ -37,7 +38,7 @@ This investigation extends the **two-camp interagency war** frame documented in 
 
 | Camp (author label) | Narrative grammar | China / Asia portrayal | War-prep signal | Example titles (v1 seed) |
 |---------------------|-------------------|------------------------|-----------------|--------------------------|
-| **NSA-aligned** | Complex **antibody** stories — audit, early trigger, individual sovereignty; often **critiques** regional flaws from an American vantage without staging full US–China war | Hong Kong finance, Triads, sex-tourism coding, extrajudicial capture | **Low** — warns about pipelines, not invasions | *The Dark Knight* (2008), *Rush Hour* / *Rush Hour 2* (1998–2001), *Red Corner* (1997) |
+| **NSA-aligned** | Complex **antibody** stories — audit, early trigger, individual sovereignty; often **critiques** regional flaws from an American vantage without staging full US–China war | Hong Kong finance, Triads, sex-tourism coding, extrajudicial capture; **PRC intelligence torture** of American operators | **Low** — warns about pipelines, proxy frames, and deterrence grammar; not PLA invasion fantasy | *The Dark Knight* (2008), *Rush Hour* / *Rush Hour 2* (1998–2001), *Red Corner* (1997), ***24*** (2001–2010) |
 | **CIA/MI6-aligned** | Divide-and-conquer **holy-war geometry** applied to Pacific; shallow **mythical/ancient** East or **direct war fantasy** that is **not cautionary** | Elitist martial mysticism; PLA invaders; resource-war normalization | **High** — population rehearsed for conflict | *Red Dawn* (2012, orig. China), *Shang-Chi* (2021), *Battlefield 4* (2013), *Fallout* (1997+) |
 | **Globalist-neutral (contrast bucket)** | Cooperation, competence, shared threat | PRC as partner | **None** | *The Martian* (2015), *Arrival* (2016) |
 
@@ -136,6 +137,12 @@ On the author taxonomy, *Rush Hour 2* is **NSA-aligned** despite orientalist pac
 | ***Joker*** (Phillips) | 2019 | Arthur Fleck victim narrative; protest “clowns” | CIA/MI6 | Low (war) / **high (counter-msg)** | Released | [Thread I](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019) |
 
 **TODO rows:** *Seven* (no China axis); *Arbitrage* (verify); *Tomorrow Never Dies* (HK banker?); *Blood Diamond* (wrong theater); 2012–2020 appeasement-era catalog expansion.
+
+### TV catalog (working table)
+
+| Title | Years | China / CTU presence | Camp (author) | War-prep | Notes |
+|-------|-------|----------------------|---------------|----------|-------|
+| ***24*** | 2001–2010 (+ *Live Another Day* 2014) | Jack **~20 months** in Chinese prison (between Day 4–6); **Cheng Zhi**; **Audrey Raines** captive; **CTU LA** Sentox attack | **NSA** | Low (China) / **med–high** (Middle East deterrent) | [Thread K](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction) |
 
 ---
 
@@ -416,6 +423,77 @@ The **2019** *Joker* is **CIA/MI6 camp** not only for **victim-blame** narrative
 
 ---
 
+## Thread K — *24* (TV, 2001–2010): China torture, proxy terror, CTU destruction
+
+Fox’s ***24*** (Kiefer Sutherland as **Jack Bauer**) ran **2001–2010** with the revival miniseries ***24: Live Another Day*** (2014). On the author taxonomy it is **NSA-aligned** television: **counter-terror antibody** grammar — extrajudicial action, early trigger, torture as operational tool, and **explicit warnings** about **proxy terrorism**, **false-flag nerve gas**, and **American nuclear deterrence** against a **Middle Eastern state** sponsor — without staging a **full US–China war** fantasy.
+
+Cross-read [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-antibody-phase.md), [good-actor antibody synthesis](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md), and [NSA investigation](/governance/war/investigations/nsa-investigation.md).
+
+### Author thesis (verbatim capture)
+
+> ***24*** is very explicit **NSA-aligned** messaging. Between seasons, the protagonist was **captured by Chinese intelligence** and **tortured**; his significant other **Audrey Raines** followed him to China, was captured, and suffered **permanent brain damage** from **pharmaceutical torture** — all of it read as a **message** about what happens when American operators cross Beijing. The show also rehearses **proxy terrorism** and the use of **American military power as deterrent** toward state-sponsored terror — a grammar that **rhymes with the current Iran conflict** (author calendar read, not proof of foreknowledge). A separate beat destroys the **main CTU headquarters** in a **terrorist nerve-gas attack** — on this read it **reflects** the **CIA headquarters / WTC Building 7** destruction theme (thematic rhyme only; CTU is fictional).
+
+**What the author means:** *24* is the **long-form TV counterpart** to *Dark Knight*’s Hong Kong finance burn — same **two-camp war** lane, but through **season-long deterrence arcs**, **China captivity**, and **HQ annihilation** imagery.
+
+### Jack Bauer — Chinese imprisonment (between Day 4 and Day 6) (L1)
+
+| Beat | Detail | Source | Tier |
+|------|--------|--------|------|
+| **Capture gap** | Season 6 opens **20 months** after Day 5; Bauer was **illegally captured by Chinese government agents** after Day 4 events | [Wikipedia — *24* season 6](https://en.wikipedia.org/wiki/24_(season_6)); [24 Fandom — Season 6](https://24.fandom.com/wiki/Season_6) | L1 |
+| **Prisoner exchange** | President **Wayne Palmer** negotiates Bauer’s release; China delivers Bauer to CTU under **“high-price”** terms | Same | L1 |
+| **Cheng Zhi** | **Cheng Zhi** (Chinese intelligence) is Bauer’s captor and recurring antagonist; later uses **Audrey Raines** as leverage | [24 Fandom — Cheng Zhi](https://24.fandom.com/wiki/Cheng_Zhi); season 6 plot summaries | L1 |
+| **Broken operator** | Upon release Bauer is described as a **“broken, yet honorable”** man who briefly agrees to sacrifice himself to **Abu Fayed** | [24 Fandom — Season 6](https://24.fandom.com/wiki/Season_6) | L1 |
+
+### Audrey Raines — torture and lasting damage (L1)
+
+| Beat | Detail | Source | Tier |
+|------|--------|--------|------|
+| **Search for Jack** | After Bauer’s disappearance, Raines used back channels, traveled to **China** to find him | [24 Fandom — Audrey Raines](https://24.fandom.com/wiki/Audrey_Raines) | L1 |
+| **Staged death** | Cheng **faked her death** (reported as car crash); kept her hostage for leverage | Same; [Wikipedia season 6](https://en.wikipedia.org/wiki/24_(season_6)) | L1 |
+| **Pharmaceutical torture** | Cheng’s captivity included **drug injections**; bruises documented on her body at rescue | [24 Fandom — Audrey Raines](https://24.fandom.com/wiki/Audrey_Raines); Wikipedia: Bauer learns she **“endured pharmaceutical torture”** | L1 |
+| **Catatonic / psychosis** | Rescued **catatonic**; repeats *“Help me, Jack”*; psychiatrist diagnoses **catatonic state**; plot summary: **post-traumatic psychosis** | [24 Fandom — Audrey Raines](https://24.fandom.com/wiki/Audrey_Raines); [Mike Doyle wiki](https://24.fandom.com/wiki/Mike_Doyle); Wikipedia season 6 episode summaries | L1 |
+| **Heller restraining order** | Secretary **James Heller** (Audrey’s father) forbids Jack from contact; season 6 ends with Jack’s **tearful goodbye** to unresponsive Audrey | [TV Guide — *Live Another Day* returns](https://www.tvguide.com/news/kim-raver-william-devane-24-live-another-day-1071676/); season 6 finale summaries | L1 |
+
+**Author read (L3):** The **China torture pair** — operator broken, partner **permanently damaged** — functions as **explicit deterrence messaging** toward American audiences about **PRC intelligence reach**, parallel to *Dark Knight*’s Hong Kong extradition bypass in reverse (Beijing holds the American).
+
+### Proxy terrorism and nuclear deterrence (Season 6) (L1 plot; L3 camp)
+
+| Beat | Detail | Source | Tier |
+|------|--------|--------|------|
+| **Fayed as true mastermind** | CTU initially believes **Hamri Al-Assad** leads coast-to-coast suicide bombings; Bauer learns **Abu Fayed** orchestrated attacks and framed Assad | [Wikipedia — *24* season 6](https://en.wikipedia.org/wiki/24_(season_6)); [Abu Fayed wiki](https://24.fandom.com/wiki/Abu_Fayed) | L1 |
+| **Russian proxy layer** | Ex-general **Dmitri Gredenko** supplies **suitcase nukes** and **drone delivery**; **Russian circuit board** theft threatens war with Moscow | Wikipedia season 6; [Gredenko wiki](https://24.fandom.com/wiki/Dmitri_Gredenko) | L1 |
+| **Valencia detonation** | One bomb **detonates in Valencia**, killing thousands — first on-screen nuclear blast in series | Wikipedia season 6 | L1 |
+| **Daniels deterrence** | VP **Noah Daniels** assumes power; orders **Secretary of Defense** to prepare **nuclear strike on the Middle-Eastern country** tied to Fayed/Assad after radiation spill from thwarted San Francisco drone | [Wikipedia season 6](https://en.wikipedia.org/wiki/24_(season_6)); [Noah Daniels wiki](https://24.fandom.com/wiki/Noah_Daniels); [Day 6: 7:00pm–8:00pm](https://24.fandom.com/wiki/Day_6:_7:00pm-8:00pm) | L1 |
+| **Daniels framing** | Daniels dismisses “stateless terrorist” cover: Fayed’s country’s government **“known to support terrorism”** — **accountability** via **US nuclear retaliation** if another bomb detonates | [Day 6: 7:00pm–8:00pm](https://24.fandom.com/wiki/Day_6:_7:00pm-8:00pm) | L1 |
+| **Palmer ruse** | President **Wayne Palmer** (revived from coma) reveals ordered strike was partly **decoy** to force Middle Eastern cooperation — deterrence **theater**, not always literal launch | Wikipedia season 6 episode summaries | L1 |
+
+**Author read (L3–L4):** Season 6 (**2007 broadcast**) rehearses **proxy-terror attribution** (Arab face, Russian hardware, state sponsor behind) plus **American nuclear deterrent** against a **Middle Eastern regime** — a **predictive-programming rhyme** with **2020s Iran–US escalation** (author calendar; **not** evidence writers had inside knowledge).
+
+**Cross-read:** Season 5 **Sentox conspiracy** (below) — **CIA-adjacent officials** plot **nerve-gas release on Russian soil** to invoke **treaty military clauses** and secure **Central Asian petroleum** ([Wikipedia — *24* season 5](https://en.wikipedia.org/wiki/24_season_5)). Classic **proxy / false-flag** antibody exposure grammar.
+
+### CTU Los Angeles destroyed (Season 5 Sentox attack) (L1 plot; L3–L4 author rhyme)
+
+| Beat | Detail | Source | Tier |
+|------|--------|--------|------|
+| **Sentox nerve gas** | **Vladimir Bierko**’s cell infiltrates **CTU Los Angeles**; releases **Sentox VX** into ventilation during lockdown | [Wikipedia — *24* season 5](https://en.wikipedia.org/wiki/24_season_5); [Sentox attack wiki](https://24.fandom.com/wiki/Sentox_nerve_gas_attack_on_CTU_Los_Angeles) | L1 |
+| **~40% personnel killed** | About **40% of CTU personnel** die (including **Edgar Stiles**, **Lynn McGill**); survivors in sealed safe rooms | Wikipedia season 5 plot summary | L1 |
+| **CTU absorbed** | Attack helps justify **CTU absorption into Homeland Security** | Wikipedia season 5 | L1 |
+| **In-universe role** | **Counter Terrorist Unit** — fictional domestic CT agency; widely treated in fandom as **CIA/FBI-adjacent** counter-terror shop ([TV IV — CTU](http://m.tviv.org/24/CTU)) | L1 (fictional institution) | L1 |
+
+**Author read (L3–L4):** **National security headquarters annihilated from within** by **terror proxy** during a **covert conspiracy** — **thematic rhyme** with **9/11 / WTC Building 7** and **CIA campus destruction** motifs in conspiracy research. **Not** a claim that *24* writers documented Building 7; **PP calendar** read only.
+
+### Camp classification summary (L3)
+
+| Element | NSA-aligned read |
+|---------|------------------|
+| **China captivity** | Warns about **PRC reach** and cost of rogue American action — **audit**, not invasion |
+| **Proxy terror stack** | **Names** false attribution, state sponsors, Russian hardware — ** antibody exposure** |
+| **Nuclear deterrent** | Rehearses **US military escalation** as **state-terror response** — militainment deterrence lane |
+| **CTU gas attack** | **HQ destruction** as **institutional vulnerability** image — PP rhyme |
+| **War-prep litmus** | Does **not** primarily train **US–China war**; China beat is **capture/torture**, not PLA landing |
+
+---
+
 ## Questions to clarify, verify, or debunk
 
 | # | Question | Falsifier / source target |
@@ -430,6 +508,8 @@ The **2019** *Joker* is **CIA/MI6 camp** not only for **victim-blame** narrative
 | Q8 | Did Warner/Phillips **marketing** explicitly tie protest imagery to **2019** film? | Studio PR; Lebanon *Ashekman* mural interviews |
 | Q9 | Second A-lister matching De Niro **Vaxxed → durable anti-Trump deployment** arc? | Timeline archaeology; agency/client press |
 | Q10 | **Sabato / Baio / Davi** blacklist claims — project logs vs self-report | Casting notices; tax returns / public credits |
+| Q11 | ***24* Season 6** — is Fayed/Assad’s country **named** on-screen as a specific state (Iran, Syria, fictional)? | Episode transcripts; DVD subtitles |
+| Q12 | **Academic / press** treatment of *24* torture and **Muslim detention** arcs (Season 6 internment debate) | TV studies journals; *Washington Post* 2007 *24* coverage |
 
 ---
 
@@ -438,6 +518,7 @@ The **2019** *Joker* is **CIA/MI6 camp** not only for **victim-blame** narrative
 - [ ] **Ledger-specific** international resistance catalog (Q6) — pre-2019 vs 2019 protest footage
 - [ ] De Niro **March 2016** primary quotes on autism / vaccine (Q7)
 - [ ] Expand **Thread J** Beat-2 catalog (Q9); verify Sabato/Baio causality (Q10)
+- [ ] ***24* Thread K:** confirm on-screen country name for Fayed sponsor state (Q11); Muslim-detention press corpus (Q12)
 - [ ] Expand film catalog (appeasement era 2012–2020 vs post-COVID)
 - [ ] Add academic sources on Hollywood–China co-production (e.g. US-China Today, Peter Navarro-era trade rhetoric)
 - [x] Verify *Red Corner* row with L1 plot cites ([Wikipedia](https://en.wikipedia.org/wiki/Red_Corner))
@@ -465,9 +546,9 @@ The **2019** *Joker* is **CIA/MI6 camp** not only for **victim-blame** narrative
 | **British divide-and-conquer** | [/governance/war/investigations/british-divide-conquer-israel-investigation.md](/governance/war/investigations/british-divide-conquer-israel-investigation.md) | HK colony geometry |
 | **Jackie Chan** | [/influence/conspiracy/celebrities/jackie-chan.md](/influence/conspiracy/celebrities/jackie-chan.md) | HK / Beijing positioning |
 
-Keywords: #EverythingBurns #DarkKnight #Joker #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #TwoCamps #NSA #CIA #MI6 #RushHour #PredictiveProgramming #Hollywood #Antibody
+Keywords: #EverythingBurns #DarkKnight #Joker #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody
 
-**Last updated:** 2026-06-17T20:30:00-04:00
+**Last updated:** 2026-06-17T22:45:00-04:00
 
 ---
 
@@ -492,6 +573,8 @@ Keywords: #EverythingBurns #DarkKnight #Joker #HeathLedger #DeNiro #CelebrityCon
 **Thread I — Protest attribution:** **2019 press** linking protests to Phillips film is **L1**; that does **not** validate or invalidate author claim that **Ledger** was the deeper influence — remains **open (L3)**.
 
 **Thread J — Celebrity catalog:** Firing, agency drop, and ad-pull rows are **L1** where sourced; **blacklist** and **ordered speech** reads are **L3–L4**. **Roseanne** and **Carano** rows mix **political** and **hate-speech** triggers — do not collapse. **Sabato/Baio** causality **disputed** in press. Catalog is **working** — not exhaustive.
+
+**Thread K — *24*:** Plot beats (China captivity, Audrey torture, Sentox attack, Daniels nuclear order) are **L1** where Wikipedia / fandom wiki sourced. **China torture as message**, **Iran conflict prediction**, and **CTU / Building 7 rhyme** are **L3–L4** — **thematic / calendar** only. **CTU ≠ CIA** in reality; in-universe institution only. **Torture glorification** in *24* is documented in press criticism — camp read does **not** endorse Bauer methods.
 
 **Author thesis sections** are first-class for Paradigm Threat but **not automatically factual**.
 
