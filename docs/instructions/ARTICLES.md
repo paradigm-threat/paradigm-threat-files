@@ -22,6 +22,23 @@
 
 If a claim needs **five citations** or a **multi-row table**, it belongs in the **dossier**; the **article** names the claim and **links once** (often to a **§** anchor).
 
+### Series articles (same thesis lane, multiple installments)
+
+When several reader essays explore one **ongoing thesis**—e.g. **predictive programming in blockbuster film/TV**—treat them as a **named series**, not independent primers that repeat the same frame.
+
+| Rule | Do | Don’t |
+|------|----|-------|
+| **Series identity** | State **installment number or subtitle** in the line under `# Title` (e.g. *Predictive programming in movies — Pacific installment*). Open with **one paragraph** that names the **prior installment** and what **this** one adds. | Re-teach the **full shared frame** (two-camp war, NSA vs CIA grammar, franchise containment doctrine) if an earlier series essay already did. |
+| **Cross-link** | Link **prior / next** installments in a dedicated **`## Series — where next`** (or fold into **Where next** with a **Series** subheading). Bidirectional links when both files exist. | Duplicate long passages from sibling articles “so this page stands alone.” |
+| **Unique payload** | Each installment owns **new titles, new geography, new calendar beats** (*Matrix* handoff vs *Dark Knight* / *24* Pacific lane). | Copy **Matrix kill-offs**, **Wake Up credits**, **MxO shutdown**, etc. into a Pacific installment unless **one sentence** ties the calendar. |
+| **Companions vs installments** | **Dossiers**, **hubs**, and **investigations** are **technical companions**—link under a separate subheading, not counted as series entries. | Label every related essay as “Part III” without a shared series name. |
+| **Pre-ship dedup pass** | Read the **most recent sibling article** in full; **grep** shared phrases (*two-camp*, *NSA-aligned grammar*, *franchise containment*, *Ledger curse*). Cut or replace with **“see Installment I.”** | Ship a new installment that reads like a **merged duplicate** of the last one with different examples swapped in. |
+
+**Reference series (predictive programming in movies):**
+
+- **Installment I:** [`influence/controlled_opposition/not-like-this.md`](../../influence/controlled_opposition/not-like-this.md) — *Matrix* two-camp handoff.
+- **Installment II:** [`influence/hollywood/everything-burns.md`](../../influence/hollywood/everything-burns.md) — Pacific / *Dark Knight* / *24* / Hong Kong litmus test.
+
 ### Tables, lists, and catalog prose (articles vs investigations)
 
 **Hard rule for articles:** **No Markdown pipe tables anywhere** — not in the body, not in **`## Framing and limits`**, not in footnotes. Substack’s editor (and most paste-from-Markdown workflows) **do not render** `| col | col |` grids; rows collapse into a **broken vertical list** that reads like a corrupted dossier excerpt. **Write normal paragraphs instead.** Weave claim, tier, and link into **complete sentences** (commas, semicolons, short follow-on sentences). If the reader needs a grid, put it in the **`investigations/`** dossier and link once.
@@ -109,7 +126,7 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
     *Written and narrated by Ari Asulin, with drafting and research support from LLM agents.*  
     Minor wording drift is fine; **keep the name** and the fact that **LLM tools** helped produce the page. **This footer is intentional credit**, not an “LLM artifact” to delete when scrubbing machine cadence. It **replaces** repeated “**as the writer**,” “**my position**,” or “**who is speaking**” throat-clearing in the body.
 
-**Pre-publish pass (easy misses):** The line **immediately after** `# Title` must be the **subtitle** (plain text, before any `![` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.
+**Pre-publish pass (easy misses):** The line **immediately after** `# Title` must be the **subtitle** (plain text, before any `![` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Series installments:** read the **prior installment** in full; cut shared frame that Installment I already taught. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.
 
 ---
 
@@ -189,6 +206,7 @@ LLM drafts **confabulate** text that *sounds* quotable: **song lyrics**, **film 
 - **Wall of acronyms** without gloss—spell out once, then abbreviate if needed.
 - **Paste-dump** of URLs with no integration in the sentence.
 - **Duplicating** half of a dossier “so this page stands alone”—**link** instead.
+- **Duplicating** a **recent sibling article** in the same **series**—**link to the prior installment** and keep only **new geography / new titles / new calendar beats** (see **Series articles** above).
 - **`github.com/clevertree/...`** or other **dead** reader URLs (see `LINKING_AND_SITE_PATHS.md`).
 - **OS paths** (`/home/...`, `~/dev/...`, `/media/...`, maintainer mirror folders like **`~/dev/wget/...`**) in body text—**never** in articles republished to **Substack** or other public surfaces. Use **public URLs** only (`https://chronologia.org/...`, `https://paradigmthreat.net/...`). Local paths belong in dossier **Investigator notes** at the end of **`investigations/`** files only.
 - **Mid-article** **Limits** voice: tier sermons, long “**not proven**” chains, claim-number callouts, **Epstein**-class analogy **legal fencing** repeated in prose—**park** that in the **dossier** (one link is enough).
@@ -214,7 +232,8 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 - **Prose-over-catalog (schooling / parent advice):** [`history/chronology/when-your-child-wont-fit-the-grade.md`](../../history/chronology/when-your-child-wont-fit-the-grade.md) ↔ [`…/childhood-autism-spectrum-conformity-recategorization-investigation.md`](../../history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md).
 - **Theory-led flagship (biology / continuity):** [`science/biology/circle-of-life-and-how-it-began.md`](../../science/biology/circle-of-life-and-how-it-began.md) ↔ [`science/biology/investigations/dna-fingerprint-scalar-life-investigation.md`](../../science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) plus [`creation event interpretations`](../../history/chronology/investigations/creation-event-interpretations.md).
 - **Corpus image reuse (Hollywood / antibodies / PP):** [`influence/hollywood/ghost-war-the-antibody-phase.md`](../../influence/hollywood/ghost-war-the-antibody-phase.md) — hero + mid-article PNGs from militainment, Benghazi, timeline antibodies, 911 PP, PP hub, Trump-era scorecard, Iran runner.
+- **Series (predictive programming in movies):** [`not-like-this.md`](../../influence/controlled_opposition/not-like-this.md) (Installment I) ↔ [`everything-burns.md`](../../influence/hollywood/everything-burns.md) (Installment II) — dedup shared two-camp frame; Pacific litmus test only in II.
 
 ---
 
-**Last updated:** 2026-06-15 (simple-over-lyrical voice; point-don’t-prescribe)
+**Last updated:** 2026-06-18 (series articles + cross-installment dedup)

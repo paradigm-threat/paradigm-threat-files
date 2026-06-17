@@ -6,6 +6,8 @@ The interagency war in the movies — and why *The Matrix* had to be contained
 
 There is a war being fought in front of us. Not always with missiles—often with **release dates**, **recasts**, **fan-fracture voices**, **MMO shutdowns**, and **sequel tone** so subtle it gets filed under taste instead of strategy. The battlefield includes the films a generation grew up on. *The Matrix* is the clearest public record because the first installment briefly worked: it woke people up hard enough that the follow-through had to be industrial.
 
+This essay is **Installment I** of a reader **series on predictive programming in blockbuster film and TV**. **Installment II** — [**Everything Burns**](https://paradigmthreat.net/influence/hollywood/everything-burns.md) — applies the same two-camp lens to the **Pacific lane** (*Dark Knight*, *24*, Hong Kong finance) without repeating the Matrix handoff developed here.
+
 The **two-camps** read is the primary why. On one side: **NSA-aligned** grammar—SIGINT audit, individual exit, “see the code,” antibody resistance encoded for mass consumption. On the other: **CIA-aligned** grammar—proxy sleep, controlled opposition, population kept inside a plan it never consented to. Hollywood after 1999 did not stay neutral. Blockbuster space **handed the franchise from the wake-up camp to the contain camp**—and *Matrix* documents the handoff beat by beat when the pattern is tracked.
 
 Agent Smith holds up a passport. Thomas Anderson. Date of birth 13 September 1971. Date of issue 12 September 1991. **Date of expiration: 11 September 2001.** The film shot in 1998. It released in March 1999. More than two years before the towers fell. [Snopes confirms the prop date is real](https://www.snopes.com/fact-check/neo-passport-matrix-9-11/); mainstream coverage treats it as coincidence. On a predictive-programming read, the simulation’s chosen one carries an identity document that expires the day official reality fractures. Film one is the **NSA-camp** offer: awakening inside a text that already encoded the next mass-layer break—and, over the end credits, a protest song naming **live** assassination and holy-war framing ops the culture was about to inherit.
@@ -143,11 +145,16 @@ The broader pattern—offer awakening, fracture the believers, kill extensions, 
 
 ## Where next
 
+**Series — predictive programming in movies:**
+
+- [**Everything Burns**](https://paradigmthreat.net/influence/hollywood/everything-burns.md) — **Installment II:** Pacific / *Dark Knight* / *24* / *Joker* calendar (does not repeat Matrix beats from this page).
+
+**Technical companions:**
+
 - [**Matrix “Not Like This” containment investigation (open dossier)**](https://paradigmthreat.net/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) — evidence tiers, Maddox quote bank, Reloaded dialogue anchors, Chong/*Kill Off* lane, MxO research TODOs, limits.
 - [**Controlled opposition hub**](https://paradigmthreat.net/influence/controlled_opposition/page.md) — manufactured dissent, QAnon, Assange/Snowden tells, franchise containment patterns.
 - [**Predictive programming hub**](https://paradigmthreat.net/influence/predictive_programming/page.md) — passport / 9/11 PP cluster, *Animatrix* economic-war rhymes ([Great Awakening §3.3.4](https://paradigmthreat.net/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md)).
 - [**Ghost War: The Antibody Phase**](https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.md) — NSA vs CIA Hollywood containment after 9/11.
-- [**Everything Burns**](https://paradigmthreat.net/influence/hollywood/everything-burns.md) — *Dark Knight* / Hong Kong finance; China/Hollywood two-camp war (Pacific lane).
 - [**Celebrity modern slavery / franchise containment**](https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md) — bad-sequel divide-and-conquer pattern beyond Matrix.
 
 ## Framing and limits

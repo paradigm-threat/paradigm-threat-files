@@ -1,8 +1,90 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-17T13:05:24.089Z",
+    "date": "2026-06-17T13:17:52.398Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/not-like-this.md",
+        "href": "/influence/controlled_opposition/not-like-this"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/everything-burns.md",
+        "href": "/influence/hollywood/everything-burns"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/everything-burns.png",
+        "href": "/influence/hollywood/everything-burns.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md",
+        "href": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/page.md",
+        "href": "/influence/hollywood"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/hollywood/everything-burns.png"
+      },
+      {
+        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)",
+        "alt": "` / `*.png` / `*.jpg`; prefer **published** `https://paradigmthreat.net/...` URLs (timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`). **Placement:** one image **after** the paragraph that introduces the topic (illustrate the **linked investigation**, not decorate every section). **Alt text:** name the **source lane** and **what the reader should see** (e.g. “Historical antibodies — timeline chapter,” “Call of Duty militainment — Krasinski operator arc”). **Do not** copy images into the article folder unless you are creating **new** art; **link** to the canonical file in its home directory. **Newsletter budget:** many large PNGs + hero can trigger Gmail clipping—prefer **fewer, well-placed** reuses over a gallery; see **Length → Newsletter / inbox check**. **Reference:** [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`"
+      },
+      {
+        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
+        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Series installments:** read the **prior installment** in full; cut shared frame that Installment I already taught. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
+        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
+        "alt": "9/11 predictive programming — media rehearsal before the public event"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
+        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/controlled_resistance.jpg",
+        "alt": "Controlled resistance — manufactured dissent that looks like real opposition"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
+        "alt": "Celebrity modern slavery — contracts, containment, and creative control"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
+        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
+      },
+      {
+        "src": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png",
+        "alt": "China / Hollywood two-camp war — investigation cover"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-17T13:05:23.000Z",
+    "message": "Polish Everything Burns: trim redundancy, move Rush Hour 2, add Office Joker tribute.",
     "files": [
       {
         "status": "M",
@@ -1084,19 +1166,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-06-10T11:36:01.000Z",
     "message": "Add Ryan Reynolds Nicepool case and Baldoni lawsuit to containment dossier.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md",
-        "href": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-10T11:34:10.000Z",
-    "message": "Add Morgan Freeman CIR 2017 case to celebrity containment dossier.",
     "files": [
       {
         "status": "M",
