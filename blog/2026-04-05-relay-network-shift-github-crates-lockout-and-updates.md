@@ -66,3 +66,8 @@ A **large merge** landed (**“griff merge”**): **definitive** `content/` and 
 ---
 
 *Topics:* [#censorship](https://paradigmthreat.net/search/censorship) · [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history) · [#chronology](https://paradigmthreat.net/search/chronology)
+
+---
+
+Keywords: #2026 #relay #network #shift #github #crates #lockout #updates #engineering #io #griffin #merge #site #april
+

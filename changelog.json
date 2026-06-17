@@ -1,8 +1,203 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-17T13:21:55.066Z",
+    "date": "2026-06-17T23:33:38.283Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md",
+        "href": "/blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates"
+      },
+      {
+        "status": "M",
+        "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
+        "href": "/blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts"
+      },
+      {
+        "status": "M",
+        "path": "blog/2026-04-14-pyramid-artemis-investigations-ae911truth-site-share-og.md",
+        "href": "/blog/2026-04-14-pyramid-artemis-investigations-ae911truth-site-share-og"
+      },
+      {
+        "status": "M",
+        "path": "blog/2026-04-18-cod-mw-militainment-spore-blood-rain-tts-unicode.md",
+        "href": "/blog/2026-04-18-cod-mw-militainment-spore-blood-rain-tts-unicode"
+      },
+      {
+        "status": "M",
+        "path": "blog/2026-04-25-netanyahu-health-disclosure-controlled-opposition-fomenko-site-toc.md",
+        "href": "/blog/2026-04-25-netanyahu-health-disclosure-controlled-opposition-fomenko-site-toc"
+      },
+      {
+        "status": "M",
+        "path": "blog/2026-04-27-cia-1984-mars-reading-room-find-restructure-chrono-article.md",
+        "href": "/blog/2026-04-27-cia-1984-mars-reading-room-find-restructure-chrono-article"
+      },
+      {
+        "status": "M",
+        "path": "blog/2026-05-05-may-roundup-circle-of-life-cancer-success-site-updates.md",
+        "href": "/blog/2026-05-05-may-roundup-circle-of-life-cancer-success-site-updates"
+      },
+      {
+        "status": "M",
+        "path": "blog/2026-05-14-md2ast-migration-downtime-cave-story-pursue-consensus-theater-roundup.md",
+        "href": "/blog/2026-05-14-md2ast-migration-downtime-cave-story-pursue-consensus-theater-roundup"
+      },
+      {
+        "status": "M",
+        "path": "blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack.md",
+        "href": "/blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack"
+      },
+      {
+        "status": "M",
+        "path": "blog/2026-06-10-june-roundup-stonehenge-benjamin-celebrity-slavery-gordonston-memory-war.md",
+        "href": "/blog/2026-06-10-june-roundup-stonehenge-benjamin-celebrity-slavery-gordonston-memory-war"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/les-brown-pyramid-chapter-summaries.md",
+        "href": "/history/chronology/investigations/les-brown-pyramid-chapter-summaries"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/the-pyramid-les-brown-investigation.md",
+        "href": "/history/chronology/investigations/the-pyramid-les-brown-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/view-over-atlantis-michell-chapter-summaries.md",
+        "href": "/history/chronology/investigations/view-over-atlantis-michell-chapter-summaries"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/view-over-atlantis-michell-investigation.md",
+        "href": "/history/chronology/investigations/view-over-atlantis-michell-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation.md",
+        "href": "/influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/magfest-community-governance-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/magfest-community-governance-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation.md",
+        "href": "/influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/make-gordonston-draft-resignation-letter.md",
+        "href": "/influence/controlled_opposition/make-gordonston-draft-resignation-letter"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/page.md",
+        "href": "/influence/hollywood"
+      },
+      {
+        "status": "M",
+        "path": "influence/religion/exorcism-demonology-disease-colonial-memory-investigation.md",
+        "href": "/influence/religion/exorcism-demonology-disease-colonial-memory-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/trump-mobile-t1-media-trust-industrial-narrative-investigation.md",
+        "href": "/influence/suppression/investigations/trump-mobile-t1-media-trust-industrial-narrative-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/blog/url)`",
+        "alt": "alt"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
+        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.png",
+        "alt": "The Real Ghostbusters — ethereal noise, proton-pack kitsch, and the counter-program beneath the comedy"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/viruses-were-never-found-only-aetheric-disease.png",
+        "alt": "Viruses were never found in the lab — ætheric disease, fingerprint not genome pathogen"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png",
+        "alt": "When your child won’t fit the grade — schooling, conformity, and parent advice"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.png",
+        "alt": "Napoleon corpses — dry Egypt, Siberia, captured medicine (article lead)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
+        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
+        "alt": "Iran 2026 war runner — Hormuz and strike map (investigation)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.png",
+        "alt": "Ship-shaped airships — Clonmacnoise to Pugachev, Category A vs B"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/00.overview/prisca_sapientia.png",
+        "alt": "Prisca sapientia — ancient wisdom as epistemic foundation (timeline)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
+        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/genocide/vaccines-circumcision-childhood-consent-religion.png",
+        "alt": "Vaccines and circumcision — two rites, one consent theft"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.png)](https://paradigmthreat.net/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation",
+        "alt": "Apotheosis of Washington — Brumidi fresco callouts and one-spine synthesis"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png",
+        "alt": "Stonehenge quantum portal — Golden Age end-port, CERN retry, Spinal Tap laugh track"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery.png",
+        "alt": "Modern celebrity slavery — IP containment, ordered speech, and creative control"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/zelensky-forward-history-memory-war.png",
+        "alt": "Zelensky forward-history memory war — figurehead grammar, Holodomor soil"
+      },
+      {
+        "src": "/history/chronology/investigations/the-pyramid-les-brown-investigation.png",
+        "alt": "The Pyramid — Les Brown investigation"
+      },
+      {
+        "src": "/history/chronology/investigations/view-over-atlantis-michell-investigation.png",
+        "alt": "View Over Atlantis — John Michell investigation"
+      },
+      {
+        "src": "/influence/controlled_opposition/investigations/magfest-community-governance-investigation.png",
+        "alt": "MAGFest — community governance investigation (header)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-17T13:21:54.000Z",
+    "message": "Add Substack URL for Everything Burns published post.",
     "files": [
       {
         "status": "M",
@@ -1171,18 +1366,5 @@
         "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-10T12:00:40.000Z",
-    "message": "Add MeToo industry persecution pattern to celebrity containment dossier.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md",
-        "href": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation"
-      }
-    ],
-    "images": []
   }
 ]

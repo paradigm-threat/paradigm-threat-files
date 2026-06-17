@@ -64,3 +64,8 @@ Michell states in the preface that **Part Two was almost entirely rewritten** af
 | Pyramid numerology + Woodhenge | Separate chs. 2–3 in Part Two | Integrated into ch. 4 (+ mustard seed ch. 5) |
 | Stonehenge + Glastonbury | Ch. 5 (+ threads elsewhere) | Ch. 6 + ch. 4 |
 | Closing “sacred engineering” / Brunton / Chartres | Part Three | Ch. 7 |
+
+---
+
+Keywords: #view #over #atlantis #michell #chapter #summaries #john #new #list
+

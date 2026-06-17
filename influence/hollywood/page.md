@@ -16,3 +16,8 @@ Mass media, blockbuster timing, and predictive programming — especially the **
 <AutoIndex />
 
 **Publication hygiene:** Reader essays summarize; dossiers hold evidence tiers, tables, and Limits.
+
+---
+
+Keywords: #hollywood
+

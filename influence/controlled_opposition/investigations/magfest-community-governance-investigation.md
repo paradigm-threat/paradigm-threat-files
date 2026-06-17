@@ -353,3 +353,8 @@ The author’s **forward** rejection of silver-platter service — member-rights
 **Not** legal advice. **Not** employment-law findings on **2020** terminations. **Marinelli** personal-conduct claims remain **unverified (?)** unless **§4.1** hooks produce primaries. **Friends of MAG** and **MAGFest leadership** each had **incentives** during **2020–2021** — read **both** sides. **§10** states the author’s **silver platter** conclusion (**industry influence** + **divide-and-conquer** as **default pattern**); **mechanism** (**paid agents** vs **structural capture**) is **not** adjudicated here. **Wikipedia** and **official** pages can lag **volunteer** reality — prefer **dated primaries** when citing policy changes.
 
 **Last updated:** 2026-05-28 (**§10.3** Gordonston / Hollywood location-shoot ban-before-reply cross-ref → OCR **§6.2.1**); **2026-05-26** (**§3.1** timeline TL;DR ↔ silver platter; **§4.1** Marinelli affair lane; **§10** author conclusion); **2026-05-18** (**§9**; FoM digest).
+
+---
+
+Keywords: #magfest #community #governance #origins #nonprofit #scaleup #crises #freeplay #policy
+

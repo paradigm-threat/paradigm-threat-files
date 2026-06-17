@@ -95,3 +95,8 @@ The [2019 CE — *Ares Le Mandat* Mars–Earth influence corpus](https://paradig
 ---
 
 *Topics:* [#controlled_opposition](https://paradigmthreat.net/search/controlled_opposition) · [#cosmology](https://paradigmthreat.net/search/cosmology) · [#geoengineering](https://paradigmthreat.net/search/geoengineering) · [#governance](https://paradigmthreat.net/search/governance) · [#disclosure](https://paradigmthreat.net/search/disclosure) · [#science](https://paradigmthreat.net/search/science) · [#site](https://paradigmthreat.net/search/site) · [#blog](https://paradigmthreat.net/search/blog)
+
+---
+
+Keywords: #2026 #md2ast #migration #downtime #cave #story #pursue #consensus #theater #roundup #midmay #brief #lanes #cosmology #geoengineering #drops #big #mysteries
+

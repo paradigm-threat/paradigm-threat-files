@@ -137,3 +137,8 @@ Respectfully,
 - **Vote floor:** Affirmative neighborhood vote that **Twickenham reopening** is part of **any** rebuild/reconstruction; **no** completion date required; **delay** = trigger same as fail.  
 - **Hollywood:** **Last straw** in letter only; full ethics lane in [MGGA](make-gordonston-great-again.md).  
 - **Black Scouts / Girl Scout history:** Author ethical read; expand with dossier primaries if letter is sent. **Not proven:** racist intent behind every trustee act — lived exclusion + **2011** press (**R1**).
+
+---
+
+Keywords: #make #gordonston #draft #resignation #letter #volunteer #participation
+

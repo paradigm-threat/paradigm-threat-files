@@ -42,3 +42,8 @@ The **catastrophic** failure mode is not that strangers believe odd things about
 ---
 
 *Topics:* [#influence](https://paradigmthreat.net/search/influence) · [#controlled_opposition](https://paradigmthreat.net/search/controlled_opposition) · [#mars](https://paradigmthreat.net/search/mars) · [#chronotrigger](https://paradigmthreat.net/search/chronotrigger) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming) · [#chronology](https://paradigmthreat.net/search/chronology) · [#blog](https://paradigmthreat.net/search/blog)
+
+---
+
+Keywords: #2026 #cia #1984 #mars #reading #room #find #restructure #chrono #article #pdf #thesis #hit #controlledopposition #trigger #antisemitism #doc #churn #late #april
+

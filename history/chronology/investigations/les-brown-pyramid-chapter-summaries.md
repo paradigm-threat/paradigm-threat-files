@@ -35,3 +35,8 @@
 
 - [Pyramid energy — Kerrell & Goggin (1977)](./pyramid-energy-kerrell-goggin-1977-investigation.md) — U.S. handbook, same **pyramid power** culture.
 - [View Over Atlantis — John Michell](./view-over-atlantis-michell-investigation.md) — **leys** and landscape; Brown does **not** develop leys.
+
+---
+
+Keywords: #les #brown #pyramid #chapter #summaries #build #use
+
