@@ -1,7 +1,5 @@
 
 
-<meta name="title" content="Everything you learned in Public School is a lie spiced with truth" />
-<meta name="description" content="Everything you learned in Public School is a lie spiced with truth" />
 
 ```
 Note: This section is **a work in progress**. Check back soon for more updates!

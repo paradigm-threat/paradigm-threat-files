@@ -1,9 +1,6 @@
 
 
 > **TL;DR:** I grew up in the United States during the fifties and sixties when movies and television shows began a mission to shape our view of the world around us, past, present and even the future . The Old West was tamed by brave lawmen. Perry Mason administered justice to rich and poor alike and he made sure the guilty, and, not the innocent, were always punished.
-<meta name="title" content="Harry Potter and The Carnivals of Life and Death" />
-<meta name="description" content="Harry Potter and The Carnivals of Life and Death: A Tribute to James Shelby Downard" />
-<meta name="keywords" content="Harry Potter, Hollywood, " />
 
 ## Harry Potter and The Carnivals of Life and Death:  A Tribute to James Shelby Downard
 

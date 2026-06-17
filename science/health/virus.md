@@ -93,7 +93,7 @@ NHS = Normal hormone status LTS = Low testosterone status LES = Low estrogen sta
 In line with evolutionary reasoning, **territorial conflicts**, **sexual conflicts**, and **separation conflicts** are
 the primary conflict themes associated with organs
 of [ectodermal](../documents/embryonic_development.html#ED_Squamous_Epithelium) origin, controlled from
-the [sensory, pre-motor sensory and post-sensory cortex]("::<imgalt=""src="/science/health/M_Cortex_Lateral_View_EN.jpg">").
+the [sensory, pre-motor sensory and post-sensory cortex](/science/health/M_Cortex_Lateral_View_EN.jpg).
 
 A **territorial fear conflict** refers to a **threat to the “territory”**, a **fear within the “territory”** (at home,
 at work, at school, at the playground, in kindergarten or daycare, in a seniors home, in the hospital, or in the
@@ -118,7 +118,7 @@ hyposensitivity during the conflict-active phase and the Epileptoid Crisis and h
 
    
 
-**CONFLICT-ACTIVE PHASE:** [ulceration in the bronchial mucosa]("::<imgalt=""src="/science/health/M_COMPASS_GNM_EN.jpg">")
+**CONFLICT-ACTIVE PHASE:** [ulceration in the bronchial mucosa](/science/health/M_COMPASS_GNM_EN.jpg)
 proportional to the degree and duration of conflict activity. The **biological purpose of the cell loss** is to widen
 the respiratory passageways so that more air can reach the [lungs](#Lung_Alveoli_Top). The enhanced function of the
 lungs serves to facilitate a conflict resolution. There are no symptoms in the conflict-active phase.
@@ -134,7 +134,7 @@ the [Hamer Focus](../documents/five_laws.html#First_BL_Hamer_Focus) reveals conf
    
 
 **HEALING PHASE:** During the first part of
-the [healing phase](../documents/five_laws.html#Second_BL_PCL_A_Organ) ([PCL-A]("::<imgalt=""src="/science/health/M_Two_Phase_Diagram_EN.jpg">"))
+the [healing phase](../documents/five_laws.html#Second_BL_PCL_A_Organ) ([PCL-A](/science/health/M_Two_Phase_Diagram_EN.jpg))
 the tissue loss is replenished through **cell proliferation**. **Healing symptoms** are **pain** due to the swelling
 caused by the [edema](../documents/five_laws.html#Second_BL_PCL_A_Organ) (fluid accumulation), **tickles in the lungs
 ** (itching or pruritus is characteristic for any healing
@@ -142,11 +142,11 @@ involving [squamous epithelial tissue](../documents/embryonic_development.html#E
 such as the [skin](../documents/skin.html#Epidermis_Top)) **and coughing**. Coughing facilitates bringing up phlegm
 containing remnants of the repair process. Depending on the intensity of the conflict, the symptoms range from mild to
 severe. After the [Epileptoid Crisis](../documents/five_laws.html#Second_BL_EC),
-in [PCL-B]("::<imgalt=""src="/science/health/M_Two_Phase_Diagram_EN.jpg">"), the swelling recedes and the function of the bronchi
+in [PCL-B](/science/health/M_Two_Phase_Diagram_EN.jpg), the swelling recedes and the function of the bronchi
 returns to normal.
 
 In conventional medicine, the cell proliferation that takes place
-in [PCL-A]("::<imgalt=""src="/science/health/M_Two_Phase_Diagram_EN.jpg">") is diagnosed as a **“lung cancer”** or **bronchial cancer
+in [PCL-A](/science/health/M_Two_Phase_Diagram_EN.jpg) is diagnosed as a **“lung cancer”** or **bronchial cancer
 ** (compare with [lung cancer](#Lung_Alveoli_CA) related to the [lung alveoli](#Lung_Alveoli_Top)). Based on
 the [Five Biological Laws](../documents/five_laws.html#Second_BL_PCL_A_Organ), the new cells cannot be regarded as
 “cancer cells” since the cell increase is, in reality, a replenishing process.
@@ -177,7 +177,7 @@ also [bronchial asthma](#Bronchial_Asthma)).
 with [water retention](../documents/kidneys.html#KCT_Water_Retention) as a result of an
 active [abandonment or existence conflict](../documents/kidneys.html#KCT_BC) involving
 the [kidney collecting tubules](../documents/kidneys.html#KCT_Top).
-In [PCL-A]("::<imgalt=""src="/science/health/M_Two_Phase_Diagram_EN.jpg">"),
+In [PCL-A](/science/health/M_Two_Phase_Diagram_EN.jpg),
 the [retained water](../documents/kidneys.html#KCT_Water_Retention) is exceedingly stored in the bronchial tubes (
 compare with [lung edema](#Lung_Alveoli_Edema_Emphysema)). On the brain level, the excess water could lead to serious
 complications, particularly during the [Epileptoid Crisis](../documents/five_laws.html#Second_BL_EC), which is the
@@ -187,7 +187,7 @@ and dies. However, if the [conflict-active phase](#Bronchial_Mucosa_CA) lasted l
 according to [Dr. Hamer](https://learninggnm.com/documents/hamerbio.html), not life-threatening.
 
 **NOTE:** All [Epileptoid Crises](../documents/five_laws.html#Second_BL_EC) that are controlled from
-the [sensory, post-sensory, or pre-motor sensory cortex]("::<imgalt=""src="/science/health/M_Cortex_Lateral_View_EN.jpg">") []("::<imgalt=""src="/science/health/M_Cortex_Lateral_View.jpg">")
+the [sensory, post-sensory, or pre-motor sensory cortex](/science/health/M_Cortex_Lateral_View_EN.jpg) [](/science/health/M_Cortex_Lateral_View.jpg)
 are accompanied by **troubled circulation**, **dizzy spells**, short **disturbances of consciousness** or a complete *
 *loss of consciousness** (fainting or “absence”), depending on the intensity of the conflict. Another distinctive
 symptom is a **drop of blood sugar** caused by the excessive use of glucose by the brain cells (compare
@@ -199,16 +199,16 @@ people who had attended a convention of the American Legion in Philadelphia in 1
 the [territorial fear conflict](#Bronchial_Mucosa_BC) experienced by so many participants of the meeting?
 
 **“Bacterial pneumonia”** indicates that the repair and scarring
-process ([PCL-B]("::<imgalt=""src="/science/health/M_Two_Phase_Diagram_EN.jpg">")) is assisted
+process ([PCL-B](/science/health/M_Two_Phase_Diagram_EN.jpg)) is assisted
 by [bacteria](../documents/five_laws.html#Fourth_BL_Bacteria). This is usually the case when the ulceration that takes
 place in the [conflict-active phase](#Bronchial_Mucosa_CA) reaches deep into the bronchial tissue.
 
 Conventional medicine claims that **“viral pneumonia”** is caused
 by [viruses](../documents/five_laws.html#Fourth_BL_Viruses), notably by influenza viruses that purportedly caused the *
 *Spanish Flu pandemic** after the First World War or, in our days, SARS, the Bird Flu, the Swine Flu, and the like.
-However, none of the [influenza viruses]("::<imgalt=""src="/science/health/Virus_Mania_Cover.jpg">") have ever been scientifically
+However, none of the [influenza viruses](/science/health/Virus_Mania_Cover.jpg) have ever been scientifically
 verified (details are presented in
-the [“Virus Mania” GNM video](https://learninggnm.com/documents/videos.html)). [Threats of a global “influenza pandemic]("::<imgalt=""src="/science/health/M_Pneumonia_Epidemic.jpg">")”,
+the [“Virus Mania” GNM video](https://learninggnm.com/documents/videos.html)). [Threats of a global “influenza pandemic](/science/health/M_Pneumonia_Epidemic.jpg)”,
 however, can trigger [territorial fear](#Bronchial_Mucosa_BC)
 and [existence conflicts](../documents/kidneys.html#KCT_BC) among the population resulting in a fast increase of *
 *influenza** cases.
@@ -226,7 +226,7 @@ also [lung tuberculosis epidemic of 1918/19](#Lung_Alveoli_PCL)).
 Source: National Museum of Health and Medicine, Armed Forces Institute of Pathology, 2006 22
 
 Pneumonia is also the most common lung condition associated
-with [HIV]("::<imgalt=""src="/science/health/HIV_Kary_Mullis_Text_EN.jpg">") and **AIDS**. As we now come to understand, there is no
+with [HIV](/science/health/HIV_Kary_Mullis_Text_EN.jpg) and **AIDS**. As we now come to understand, there is no
 causal relation at all to the alleged HI-Virus []("::"Ifthereisevidence that HIV causes AIDS, there should bescientific documents which either singly or collectively demonstrate that fact, at least with a high probability. There
 is no such document."- Dr. Kary Mullis, Nobel Prize Laureate for Chemistry 1993")but rather to a “territorial fear”
 or [scare-fright conflict](../documents/larynx.html#Larynx_Mucosa_BC) associated with the “disease”.

@@ -1,6 +1,3 @@
-<meta name="title" content="Atlantis Mars Theory: Ruins of Atlantis are at the North Pole of Mars, not Earth!" />
-<meta name="description" content="Atlantis Mars Theory: Ruins of Atlantis are at the North Pole of Mars, not Earth!" />
-<meta name="keywords" content="Atlantis, Mars, North Pole, Ruins" />
 
 ## Atlantis Mars Theory: Ruins of Atlantis are at the North Pole of Mars, not Earth!
 

@@ -55,7 +55,7 @@ mythology. The question why Helios or Shemesh were assigned secondary roles in t
 solved as reflecting the visual concept of what was going on the celestial screen at various celestial near contacts
 with the Earth: It was Mars that made the Sun retreat or to hurry down to setting, Mars (in other instances Venus, or
 Jupiter) being the great warrior, the Sun almost a frightened creature - and this very thought permeates the mythology
-of primitive peoples whether American Indians or Pacific races (Mau mythology).</p>
+of primitive peoples whether American Indians or Pacific races (Mau mythology).
 
 To your thesis #1 you could add the reference to Baal-ha-Zafon (pronounced Tzafon) - the Lord of the North - referred
 to as a geographical point (probably a temple) in the description of the Passage of the Sea (Book of Exodus).
@@ -69,7 +69,7 @@ phantastic display) could not have left no trace in mythology.
 The other idea that came to me reflecting on your work, is that atsome time in the past the north Polar Star, could
 have been one of the presently brilliant stars of the South, either Sirius or Canopus. The worshipof these stars in
 Egypt and in other lands, is possibly of significance in connection with the former role of one of them, or possibly
-of each of them at different times, as Polar Star of the Northern Hemisphere.</p>
+of each of them at different times, as Polar Star of the Northern Hemisphere.
 
 To Thesis #2, as said before, I have my explanation and it is found also put in type by Pens=E9e when a short article
 by John Holbrook, Jr. was contemplated for printing but dropped later at my request.Statements unsupportedby the

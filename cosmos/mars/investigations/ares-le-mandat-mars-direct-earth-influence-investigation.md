@@ -195,4 +195,4 @@ This file **does not** adjudicate **Israeli–Palestinian** politics or **justif
 
 ## Investigator notes
 
-Re-run Zenodo API **GET /api/records/{id}** if restoration occurs. SSRN **curl** may **403**; use browser or ask human to verify PDF hash.
+Re-run Zenodo API **GET /api/records/`id`** if restoration occurs. SSRN **curl** may **403**; use browser or ask human to verify PDF hash.

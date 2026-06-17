@@ -9,20 +9,7 @@ A book-length **timeline** of alternate and contested history — not a single v
 The narrative spans **multiple chronology frames** (conventional, Fomenko-style duplicates, Saturnian and other alternate calendars where cited) and ties events to **dossiers** in the open repository: reverse crusades and modern war, nuclear and radiation threads, chronology and redaction, finance clusters around the 1912 era, Rus–Horde linguistics, and more. Where mainstream history stops, the project records *what is argued, by whom, and what is still open*.
 
 <div className="not-prose my-8 flex justify-center">
-  <a
-    className="inline-flex w-full max-w-2xl items-center justify-center gap-3 rounded-xl bg-amber-600 px-8 py-5 text-left text-lg font-semibold leading-snug text-white shadow-lg ring-1 ring-amber-700/50 transition hover:bg-amber-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-amber-500 dark:bg-amber-500 dark:ring-amber-400/40 dark:hover:bg-amber-400 no-underline sm:gap-4 sm:text-xl sm:py-6"
-    href="/timeline?fullscreen=1&play=1"
-  >
-    <svg
-      className="h-7 w-7 shrink-0 sm:h-8 sm:w-8"
-      viewBox="0 0 24 24"
-      fill="currentColor"
-      aria-hidden="true"
-    >
-      <path d="M8 5v14l11-7L8 5z" />
-    </svg>
-    <span>Listen to book/timeline in fullscreen playback</span>
-  </a>
+  <a className="inline-flex w-full max-w-2xl items-center justify-center gap-3 rounded-xl bg-amber-600 px-8 py-5 text-lg font-semibold text-white shadow-lg no-underline hover:bg-amber-500" href="/timeline?fullscreen=1&play=1">▶ Listen to book/timeline in fullscreen playback</a>
 </div>
 
 Tap the button above for fullscreen slideshow plus **audio (TTS)**.  

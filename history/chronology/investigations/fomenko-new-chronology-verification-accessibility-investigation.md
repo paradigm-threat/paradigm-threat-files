@@ -142,26 +142,21 @@ Use **both** of the following in any markdown that will later become site MDX:
 2. **Machine tag** — MDX **block comment** on its own line (grep-friendly; **do not** use `<!-- … -->` in site MDX — the compiler treats `<` as JSX and errors on `!`):
 
 ```mdx
-{/* pt-site:mdx name=ComponentPascalCase status=planned props=json-or-none */}
+<!-- pt-site:mdx name=ComponentPascalCase status=planned props=json-or-none -->
 ```
 
 When implemented, each name is registered in **`paradigm-threat-site/components/ArticleContentSSR.tsx`** and **`paradigm-threat-site/components/RemoteMDX.tsx`** inside `mdxComponents()` (same pattern as `EmbedFile`, `PopImage`, …) and exported from **`paradigm-threat-site/components/index.ts`** if needed.
 
 > **Planned MDX:** `FomenkoVolumeSeriesChart` — plot `year` vs `volume` from uploaded or preset CSV.  
-{/* pt-site:mdx name=FomenkoVolumeSeriesChart status=planned props={"preset":["psrl-tom1-sample","user-csv"]} */}
-
+<!-- pt-site:mdx name=FomenkoVolumeSeriesChart status=planned props={"preset":["psrl-tom1-sample","user-csv"]} -->
 > **Planned MDX:** `FomenkoNasWeibullPanel` — NAS curve + Weibull–Gnedenko fit and reported **\(r\)** per Fomenko–Rachev (1990) regression.  
-{/* pt-site:mdx name=FomenkoNasWeibullPanel status=planned props={"method":"1990-linearization"} */}
-
+<!-- pt-site:mdx name=FomenkoNasWeibullPanel status=planned props={"method":"1990-linearization"} -->
 > **Planned MDX:** `FomenkoPairShiftExplorer` — two series, user-chosen **lag** (years), maxima / amplitude correlation summary.  
-{/* pt-site:mdx name=FomenkoPairShiftExplorer status=planned */}
-
+<!-- pt-site:mdx name=FomenkoPairShiftExplorer status=planned -->
 > **Planned MDX:** `FomenkoShuffleNullSummary` — within-window shuffle null for splash / correlation (seeded).  
-{/* pt-site:mdx name=FomenkoShuffleNullSummary status=planned */}
-
+<!-- pt-site:mdx name=FomenkoShuffleNullSummary status=planned -->
 > **Planned MDX:** `FomenkoTable1Reference` — read-only table of published Table 1 rows + links to DOI / local PDF (no claim of recomputation until raw `vol(t)` exists).  
-{/* pt-site:mdx name=FomenkoTable1Reference status=planned */}
-
+<!-- pt-site:mdx name=FomenkoTable1Reference status=planned -->
 ### 7.2 MVP stack (unchanged intent, now site-scoped)
 
 - **Input:** CSV `year`, `volume` (or client-side tokenizer later).

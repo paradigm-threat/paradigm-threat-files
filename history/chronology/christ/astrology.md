@@ -1,9 +1,6 @@
 
 
 > **TL;DR:** The Biblical Jesus Christ is a combination of an Astrological Allegory for the new Lord - our Sun combined with the story of human Andronicus Christ of the Crimea In ancient times people were very familiar with the Sun and the stars. At night, they had nothing better to do than gaze up at the stars. They didn't conquer darkness with the flip of a light switch like we do nowadays.
-<meta name="title" content="The Biblical Jesus Christ is a combination of the new Lord - our Sun, and the human Andronicus Christ" />
-<meta name="description" content="The Biblical Jesus Christ is a combination of an Astrological Allegory for the new Lord - our Sun combined with the story of human Andronicus Christ of the Crimea" />
-<meta property="og:image" content="/christ/christ_is_the_sun7.jpg" />
 
 ## [Solar Mythology and the Jesus Story](https://solarmythology.com/lessons/christ2002.htm)
 
@@ -131,7 +128,7 @@ Jesus, the Sun, continues on his way into "Galilee". The word "Galilee" literall
 word is γαλιλαις \{gal-il-ah'-yah\} (Strong's
 Greek [#1056](https://www.blueletterbible.org/lang/lexicon/lexicon.cfm?Strongs=G1056&t=KJV).
 Click [here](https://www.blueletterbible.org/kjv/mar/1/14/s_958014) to see the verse in Greek), which is a word of
-Hebrew origin לילג {gaw-lee-law'} (Strong's
+Hebrew origin לילג `gaw-lee-law'` (Strong's
 Hebrew [#01551](https://www.blueletterbible.org/lang/lexicon/lexicon.cfm?Strongs=H01551&t=KJV)). A "circuit" is a
 closed, usually circular path. The ecliptic is the circuit the Sun travels along during the year. The ecliptic is a
 great circle inscribed on the celestial sphere. The ecliptic is also a circle on a planisphere. Jesus, a personification
@@ -320,10 +317,10 @@ See [Matthew Chapter 2—The Birth of Jesus](mat2.htm) for more on King Herod).
 
 Jesus is handed over to Pontius
 Pilate. [Click [here](http://www.blueletterbible.org//kjv/luk/3/1/s_976001) to see the verse in Greek]. "Pontius",
-ποντιος {pon'-tee-os} (Strong's
+ποντιος `pon'-tee-os` (Strong's
 Greek [#4194](http://www.blueletterbible.org//lang/lexicon/lexicon.cfm?Strongs=G4194&t=KJV)), is literally "of the sea",
 a reference to the sea of stars above. (It's also of Latin origin, betraying it's late addition to the text.) "Pilate",
-πειλατος {pil-at'-os} (Strong's
+πειλατος `pil-at'-os` (Strong's
 Greek [#4091](https://www.blueletterbible.org//lang/lexicon/lexicon.cfm?Strongs=G4091&t=KJV)), is literally "armed with
 a spear", a reference to Sagittarius, the archer, the man armed with a spear. Pontius Pilate is a personification of
 Sagittarius, the last constellation the Sun passes through during the last month of the year, Nov. 22 - Dec. 21\. Pilate
