@@ -122,6 +122,8 @@ Full tier labels and disclaimers: [investigation Limits](https://paradigmthreat.
 
 Keywords: #EverythingBurns #PredictiveProgramming #DarkKnight #Joker #HeathLedger #TheOffice #24 #JackBauer #China #HongKong #TwoCamps #NSA #CIA #HollywoodSeries #Antibody #GameOfThrones #IronBank
 
+**Substack:** https://open.substack.com/pub/paradigmthreat2/p/everything-burns
+
 **Last updated:** 2026-06-18T23:30:00-04:00
 
 ---

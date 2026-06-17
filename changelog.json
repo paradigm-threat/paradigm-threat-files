@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-17T13:18:18.875Z",
+    "date": "2026-06-17T13:21:55.066Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/hollywood/everything-burns.md",
+        "href": "/influence/hollywood/everything-burns"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
+        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-17T13:18:17.000Z",
+    "message": "Polish Everything Burns pre-publish: trim meta lede, expand Framing limits.",
     "files": [
       {
         "status": "M",
@@ -1158,19 +1176,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-06-10T12:00:40.000Z",
     "message": "Add MeToo industry persecution pattern to celebrity containment dossier.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md",
-        "href": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-10T11:57:26.000Z",
-    "message": "Document Reynolds defense as functional instrument thesis in containment dossier.",
     "files": [
       {
         "status": "M",
