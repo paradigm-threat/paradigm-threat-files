@@ -202,6 +202,7 @@ Media identified as containing predictive programming by external sources or our
 | *Independence Day* | 1996 | Goldblum calculates attack time on laptop. | Carleton |
 | *Godzilla* | 1998 | "9:11" and "World Trade Centre Bombing" in scene. | Carleton |
 | *Terminator 2* | 1991 | 9/11 imagery. | Carleton |
+| *The Dark Knight* | 2008 | Hong Kong launderer; Lau burned on money pile; *“everything burns”*; Warner skipped mainland China release — [Everything Burns essay](../hollywood/everything-burns.md), [two-camp dossier](../hollywood/investigations/china-hollywood-two-camp-war-investigation.md) | Ours |
 | *The Dark Knight Rises* | 2012 | Sandy Hook parallels (widely cited). | Common |
 | *Contagion* | 2011 | Pandemic scenario pre-COVID. | Common |
 | *Doom* | 2005 | Quantum teleport between Earth and Mars. | Ours |

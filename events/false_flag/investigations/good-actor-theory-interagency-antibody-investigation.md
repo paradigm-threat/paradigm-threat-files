@@ -537,6 +537,7 @@ flowchart TB
 | Video / popular summary | [`events/911/page.md`](/events/911/page.md) |
 | Child speech / curriculum audit (Tonkin) | [`when-your-child-wont-fit-the-grade.md`](/history/chronology/when-your-child-wont-fit-the-grade.md) |
 | PP / Jack Ryan Ghost War | § IV above; [`call-of-duty-modern-warfare-…`](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) |
+| China/Hollywood two-camp war (*Dark Knight*, *Rush Hour*) | [`everything-burns.md`](/influence/hollywood/everything-burns.md); [dossier](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md) |
 
 ---
 

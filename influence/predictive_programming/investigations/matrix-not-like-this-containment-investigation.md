@@ -31,8 +31,9 @@
 17. [Thread J — *Revolutions* style regression (Trainman, music, action)](#thread-j--revolutions-style-regression-trainman-music-action)
 18. [Thread K — M1 revival: will vs. love containment (R6)](#thread-k--m1-revival-will-vs-love-containment-r6)
 19. [Thread L — Malcolm X, “woke,” and *Wake Up* end credits (M1 psyop lane)](#thread-l--malcolm-x-woke-and-wake-up-end-credits-m1-psyop-lane)
-20. [L1 transcript table — *Matrix Reloaded* YIFY-en.srt (R8)](#l1-transcript-table--matrix-reloaded-yify-ensrt-r8)
-21. [Cross-repo adjacencies](#cross-repo-adjacencies)
+20. [Thread M — *Animatrix* tone / psychic deterrent (author + reception)](#thread-m--animatrix-tone--psychic-deterrent-author--reception)
+21. [L1 transcript table — *Matrix Reloaded* YIFY-en.srt (R8)](#l1-transcript-table--matrix-reloaded-yify-ensrt-r8)
+22. [Cross-repo adjacencies](#cross-repo-adjacencies)
 22. [Article plan — *Not Like This*](#article-plan--not-like-this)
 23. [Weak points / research TODOs](#weak-points--research-todos)
 24. [Limits and disclaimers](#limits-and-disclaimers)
@@ -56,6 +57,9 @@
 - ***Wake Up* credits (Thread L):** L1 = RATM lyrics, credits placement, Hoover memo, Tonkin/Hanyok timeline; L3 = pre-9/11 **blame-Islam PP**, credits as **second payload** paired with passport — **not** decorative “wake up” theme.
 - **Reloaded dialogue (2026-06-15):** **One Oracle visit**; no “cookie scene” label; **M2** future/together vs **M3** “I want what you want” / end of war; Switch = **Cypher unplug** rhyme with **Sony/MxO**.
 - **Reloaded timecodes (2026-06-15):** **YIFY-en.srt** retail subs (`Downloads/The.Matrix.Reloaded.2003.Subtitles.YIFY-en.srt`) — **not** fan-edit ASS. Neo→Morpheus line per YIFY: *“It was all another system of control.”*
+- **Square embedded pipeline (2026-06-15, voice transcript):** **L3 speculation** — see [Thread H § embedded pipeline](#author-speculation--osiris-to-zion-embedded-pipeline-l3-voice-transcript-2026-06-15) and [§ public record](#public-record--square-on-matrix-sequels-beyond-animatrix-l1--l3-2026-06-15).
+- **Animatrix as Square containment (2026-06-16, voice transcript):** **L3** — see [Thread H § Animatrix containment](#author-speculation--animatrix-as-containment-vessel-square-credit-theft-l3-voice-transcript-2026-06-16).
+- **Animatrix tone / deterrent (2026-06-16, voice transcript):** **L3** — non-Osiris shorts **dull or upsetting** vs M1 grammar; **Second Renaissance** = humanity **irrevocably vain**; **Kid's Story** → obnoxious M2 **Kid** arc; psychic **deterrent** before sequels — [Thread M](#thread-m--animatrix-tone--psychic-deterrent-author--reception).
 
 ---
 
@@ -584,6 +588,30 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 - **Square USA** (post-*Final Fantasy: The Spirits Within*, 2001) produced **Animatrix** segment **“Final Flight of the Osiris”** for Wachowskis ([Animation Magazine — Andy Jones](https://www.animationmagazine.net/2003/04/animatrix-director-andy-jones-takes-final-flight/), [Matrix Fans — James Rogers](https://www.matrixfans.net/the-final-flight-of-the-osiris-is-flying-high/)).
 - **Reloaded / Revolutions** primary vendor **ESC Entertainment** (Warner-adjacent) — **Burly Brawl**, **Zion siege**, freeway chase ([AWN — ESC after Matrix](https://www.awn.com/vfxworld/after-matrix-esc-entertainment-and-next-generation-vfx-companies), [CGW — Battle Plan II](https://www.cgw.com/Publications/CGW/2004/Volume-27-Issue-1-Jan-2004-/Battle-Plan-Part-II-Making-the-Matrix.aspx)).
 - **Square Pictures** effectively **collapsed** after *Spirits Within* box-office failure; **Sakaguchi** left Square **2003** ([square-battle-system-lineage](/influence/stolen_credit/square-battle-system-lineage.md)).
+- **Variety / AWN (2002):** Square Honolulu’s Warner contract described as **~10 minutes of CG** for the **Matrix sequel** — maps to **Osiris**, not live-action sequel credits ([Variety](https://variety.com/2002/film/news/square-usa-morphs-honolulu-studio-shut-1117859368/), [AWN — Final Round](https://www.awn.com/news/final-round-final-fantasy-team)).
+- **Joel Silver (MovieWeb, 2003):** Osiris = **“Matrix 1.5”** that **“begins Reloaded”**; Square chosen for **“most sophisticated and spectacular animation fashion”**; **“At that time we had other hopes and plans for Square, however Square didn’t last much longer after we finished this movie.”** ([MovieWeb — Silver/Jones](https://movieweb.com/andy-jones-and-joel-silver-talk-about-the-animatrix-and-the-matrix-reloaded/)).
+- **Andy Jones (Animation Magazine, 2003):** Early **conference calls** with Wachowskis; during heavy **Osiris** production the brothers were **“down in Australia shooting the two Matrix sequels”** — **tape feedback** on a **six-page** script ([Animation Magazine](https://www.animationmagazine.net/2003/04/animatrix-director-andy-jones-takes-final-flight/)).
+- **Sentinel coiling / swarm R&D (CGW, June 2003 — L1):** On **Osiris**, **Mach Kobayashi** (Square) built a **particle-driven flocking system** so **tens of thousands** of Sentinels move **“together as one”**; **coiling** Sentinels crawl the **Osiris** hull. **Andy Jones (direct quote):** *“According to Jones, the Wachowskis liked the look of the coiling Sentinels so much they're using it in The Matrix: Reloaded.”* Mass **swarm** grammar scales to ***Revolutions*** **Zion siege** ([CGW — Anime-ted](https://www.cgw.com/Publications/CGW/2003/Volume-26-Issue-6-June-2003-/Cover-Story-The-Matrix-Anime-ted.aspx)).
+- **Bidirectional asset line (CGW L1):** For close-up Sentinels, Square **received a Sentinel model from ESC** — already working on ***Reloaded* and *Revolutions*** — proving **simultaneous** sequel VFX and **Osiris** production, not isolated DVD filler.
+- **Sequel planning elsewhere (L1 — falsifiers for “Square-only”):** Live-action **previs** = **Pixel Liberation Front** (Colin Green); **storyboards** = **Geof Darrow / Steve Skroce** at **Eon**; **ESC** opened **weeks before** principal photography ([Post Magazine — Gaeta](https://www.postmagazine.com/Publications/Post-Magazine/2003/November-1-2003/JOHN-GAETAS-LATEST-REVOLUTION.aspx), [Wired — MATRIX2](https://www.wired.com/2003/05/matrix2/)). **Square USA not listed** on *Reloaded* VFX company credits ([IMDb — company credits](https://www.imdb.com/title/tt0234215/companycredits/)).
+
+### Public record — Square on Matrix sequels beyond Animatrix (L1 + L3, 2026-06-15)
+
+**Research pass:** web/trade corpus grep for Square scope on ***Reloaded* / *Revolutions*** beyond *Animatrix*.
+
+| Finding | Tier | Source |
+|---------|------|--------|
+| Osiris = narrative **prelude** to *Reloaded* / franchise arc | **L1** | Silver “1.5”; CGW “sets the scene for film 2”; James Rogers — team learned “Matrix 1.5” role **after** delivery |
+| Square developed **coiling + mass-swarm** Sentinel animation on Osiris; Wachowskis **adopted coiling look** for live-action sequel(s) | **L1** (Jones quote); **L3** (author: primary **battle grammar** for ***Revolutions*** Zion) | [CGW Anime-ted](https://www.cgw.com/Publications/CGW/2003/Volume-26-Issue-6-June-2003-/Cover-Story-The-Matrix-Anime-ted.aspx) |
+| **ESC ↔ Square** simultaneous pipeline (Sentinel model share) | **L1** | CGW — ESC model to Square; ESC on M2/M3 |
+| Joel Silver **“other hopes and plans for Square”** before studio fold | **L1** quote; **L3** scope (no memo detail) | MovieWeb 2003 |
+| James Rogers LinkedIn: **“various tests for Matrix 3”** at Square USA | **L3** (self-reported, **uncorroborated** in trade press) | [LinkedIn — rogersjames](https://linkedin.com/in/rogersjames) |
+| Square **storyboarded most/all** M2/M3 set pieces | **L3** — **not** in credits / previs records | Author embedded-pipeline read |
+| Full sequel **previs** | **L1** — **PLF**, not Square | Post Magazine, Wired |
+
+**Author synthesis (L3, strengthened by L1):** Square was **intimately tied** to sequel **planning at the action-design layer** — not necessarily sole storyboard owner, but **inside the Wachowski sequel machine** while Australia shoot ran. **Osiris** prototyped **hovercraft vs. flying Sentinel swarm** and invented the **coiling / flocking** look the brothers **carried into live-action**; ***Revolutions*** **Zion** is where that grammar **dominates** screen time. **Silver’s** unrealized Square plans + **Rogers’** Matrix 3 **tests** + **ESC handoff** fit **embedded-then-replaced** containment — same shape as **Aaliyah reshoots** (work in can, redo under new names).
+
+**Note on Jones quote:** CGW (June 2003) names ***Reloaded*** for coiling uptake; **Zion-scale swarm** is ***Revolutions***. Treat Jones as **sequel-pipeline** testimony; author read places **peak prevalence** on **film 3**.
 
 ### Author read (L3)
 - The **Spirits Within / Square USA CGI team** appeared **aligned** with **The Square** film’s philosophical/spiritual concepts **and** the ***Matrix*** franchise’s same lane — then **removed/replaced** by personnel **more loyal to the industry**, who **filled out scenes planned by the previous team** without carrying the ideas forward.
@@ -592,9 +620,64 @@ No documented **covert** payment lane tied to opinions. Ordinary creator monetiz
 - **Visual signature (L3):** [Thread I](#thread-i--neo-source-tentacles--aki-ross-stab-author-visual-rhyme) — side-by-side [demo](https://youtu.be/Rh1nTlk-zqo) (*Spirits Within* Aki stab ↔ *Revolutions* Source tendrils).
 - **Containment of vendor** mirrors **containment of fan/community**—replace **specialist auteur team** with **studio-owned ESC** → **inert, sanitized, controllable** sequel product.
 
+### Author speculation — Osiris-to-Zion embedded pipeline (L3, voice transcript 2026-06-15)
+
+**Tier: L3 — author theory. No studio memo or full storyboard archive cited yet. Do not tier-up in article.**
+
+**Logic chain (author):**
+1. **Osiris** climax = **sentinel swarm** assault on a **hovercraft-class** ship—the **same battle mechanism** the live-action sequels scale to **Zion** (*Revolutions* siege). **L1 anchor:** Jones/CGW — Square invented **coiling / flocking** Sentinels; Wachowskis **adopted** for live-action sequels; swarm **prevalent** in ***Revolutions***.
+2. **Animatrix** window = author suspects Square was **fully embedded** in the Wachowski sequel plan—not peripheral VFX hire. **L1 partial:** conference calls + simultaneous ESC asset share + Silver **“other hopes and plans”** + Rogers **Matrix 3 tests** (uncorroborated). After **Osiris**, the team likely **storyboarded** set pieces for ***Reloaded* and *Revolutions*** (Burly Brawl, freeway, Zion)—**every major action beat**, not only the short.
+3. **Prepared render, then handoff:** Author read = Square **fleshed the sequel arc to the end** on paper/previs and was **positioned to render** it; **Square Pictures collapse** + **ESC** takeover = **entire pipeline handed to another vendor** to **finish** what Square had already shaped—ideas stripped, **motion** repeated.
+4. **Rhyme with cast redo ([Thread C](#thread-c--production-casualties--recasting-aaliyah-gloria-foster)):** **Aaliyah** filmed *Reloaded* material in **Australia**; after her death, **Nona Gaye** reshot **Zee**—substantial work **already in can**, then **redo under new personnel**. Author parallel: ***Reloaded*** = **sanitizing pass** over a sequel **already largely accomplished** in planning and partial production—new studio line (**ESC**), changed staff, **repeating the motions** of the prior team’s boards.
+5. **Technical layer:** Final Zion / set-piece product = **ESC** extending Square-era **storyboards** with a **newer rendering stack** (author cites **advanced bump mapping and texturing** as the visible upgrade—trade VFX press on *Reloaded*/*Revolutions* era, not yet indexed shot-by-shot here).
+6. **Containment read:** Film 2 is not only “philosophy rejected by fans”—it is also a **production reset**: wake-up vendor out, **studio-owned spectacle** in, **same battle plan** with **sanitized lore** and **safer finish**.
+
+**Falsifiers / what would change the read:**
+- Production bibles or credit lists showing Square **only** scoped to *Animatrix* shorts with **no** sequel previs **and** Jones/CGW coiling quote retracted or misreported.
+- Documented **greenfield** ESC storyboard origin for Zion with **no** Osiris lineage (frame-match forensics negative).
+- **Rogers “Matrix 3 tests”** debunked or sourced only to LinkedIn with no production artifact.
+
+**Cross-links:** [Thread C — Aaliyah reshoots](#aaliyah--nona-gaye-zee--l1) · [Thread J — Zion battle exception](#thread-j--revolutions-style-regression-trainman-music-action) · [team-replacement pattern](#cross-investigation-pattern--team-replacement-containment-author-l3) · [public record table](#public-record--square-on-matrix-sequels-beyond-animatrix-l1--l3-2026-06-15)
+
+### Author speculation — Animatrix as containment vessel / Square credit theft (L3, voice transcript 2026-06-16)
+
+**Tier: L3 — author theory.** **Not** proven as deliberate Warner strategy in primary documents; **L1 anchors** below support **plausible mechanism** and **credit erasure outcome**.
+
+**Core claim:** ***The Animatrix* was not a neutral anthology for Square** — it was a **containment wrapper**. Square’s real deliverable was **Osiris** as a **fully rendered *Matrix Reloaded* intro** (Silver’s **“Matrix 1.5”**), deploying sequel R&D **early** in Square’s **photoreal human-fight** pipeline before the live-action films landed. Wrapping that inside a product labeled **“Animatrix”** (**anime** + **matrix**) filed Square next to **eight Japanese anime shorts** and away from **live-action VFX** — letting **ESC** (studio-adjacent, **Universal Capture**, hybrid plate workflow) **take full sequel credit** while Square **vanished from credits** and **Square Pictures** died.
+
+**Logic chain (author):**
+
+1. **Osiris ≠ optional DVD filler — sequel intro in Square’s render stack.** **L1:** Variety/AWN contract language = **~10 min for “Matrix sequel”**; Silver = **“begins Reloaded”** / **“1.5”**; Rogers = team thought **DVD Animatrix installment** until **after** delivery ([Variety](https://variety.com/2002/film/news/square-usa-morphs-honolulu-studio-shut-1117859368/), [Matrix Fans — Rogers](https://www.matrixfans.net/the-final-flight-of-the-osiris-is-flying-high/), [MovieWeb](https://movieweb.com/andy-jones-and-joel-silver-talk-about-the-animatrix-and-the-matrix-reloaded/)). **Author read:** Wachowskis/Silver always intended **theatrical prelude**; Square’s **category** was retrofitted via anthology packaging.
+
+2. **Photoreal human combat R&D on Osiris → Burly Brawl / M3 finales.** **L1:** Osiris opens with **~3 minutes** of **photoreal sparring** (clothes-cut sword game) — Jones/CGW; Silver ties sparring program to Wachowski **“what sex is like in the Matrix”** beat ([CGW — Anime-ted](https://www.cgw.com/Publications/CGW/2003/Volume-26-Issue-6-June-2003-/Cover-Story-The-Matrix-Anime-ted.aspx), MovieWeb). Square had **already** shipped **photoreal humans** on *Spirits Within* (2001). **L3 (author):** same **camera grammar**, **fight blocking**, and **digital-double logic** **directly upstream** of ***Reloaded*** **Burly Brawl** (many Smiths) and ***Revolutions*** **Neo/Smith crater finale** — scenes that **required** photoreal human motion at scale. Trade press credits those beats to **ESC Universal Capture** ([befores & afters](https://beforesandafters.com/2023/05/15/the-matrix-reloaded-is-20-what-it-did-for-digital-humans-was-huge/), [Borshukov SIGGRAPH sketch PDF](https://scribblethink.org/Work/Pdfs/Face-s2003.pdf)) — **author read:** ESC **inherited / re-rendered** action design Square **proved** on Osiris + FF pipeline.
+
+3. **“Anime” label as ghetto.** **L1:** *Animatrix* = **nine** shorts; **eight** are **Japanese anime**; **Osiris alone** is **all-CG photoreal** ([CGW](https://www.cgw.com/Publications/CGW/2003/Volume-26-Issue-6-June-2003-/Cover-Story-The-Matrix-Anime-ted.aspx), [STUDIO4℃](https://www.studio4c.co.jp/works/en/pages/13.html)). *Spirits Within* was often **filed as anime/CG anime** in press despite being **full CGI** ([Final Fantasy wiki — proof-of-concept for Wachowskis](https://finalfantasy.fandom.com/wiki/Square_Pictures)). **L3:** bundling Square into **Animatrix** fixed public memory: **Square = anime vendor**, **ESC = live-action sequel VFX** — even when Osiris was **the most “live-action”** segment.
+
+4. **Hybrid weakness exploited.** **L3:** Square’s Honolulu pipeline was **strongest at full-CG photoreal** (*Spirits Within*, Osiris). ***Reloaded* / *Revolutions*** required **live-action plate integration**, **Zion** battles with **real humans + APU/mech** — a **crossover** Square **could not finish alone** without **Zion human beats looking hacky** (author). **L1 partial:** sequels shot **live in Australia**; **PLF previs** + **ESC** owned hybrid workflow ([Post Magazine — Gaeta](https://www.postmagazine.com/Publications/Post-Magazine/2003/November-1-2003/JOHN-GAETAS-LATEST-REVOLUTION.aspx)). Industry **exploited the handoff moment**: agree **another team** completes hybrid scenes → Square **never named** on M2/M3 credits ([IMDb](https://www.imdb.com/title/tt0234215/companycredits/)) → **credit theft complete**.
+
+5. **Sunglasses / eye-shades as CGI tell (author).** **L3:** Franchise **sunglasses** on Neo/Smith **hide eyes** — the hardest **eye-tracking / gaze** tell for early-2000s digital humans. **Partial support (not Square-specific memo):** *Enter the Matrix* dev lore — sunglasses make **CGI scenes easier and more realistic** with period tech ([Movies.SE — citing game production](https://movies.stackexchange.com/questions/70815/why-do-people-wear-sunglasses-in-the-matrix)); ***Revolutions*** Smith **clone army** — doubles **hidden behind sunglasses** at distance ([dtmovies.com breakdown](https://www.dtmovies.com/how-were-the-multiple-agent-smiths-of-matrix-revolutions-created-without-overusing-cgi-video/)). **Falsifier / tension:** ESC **Universal Capture** explicitly marketed **facial/eye reconstruction** for **Burly Brawl** ([befores & afters](https://beforesandafters.com/2023/05/15/the-matrix-reloaded-is-20-what-it-did-for-digital-humans-was-huge/); Burly Brawl featurette — “eye movement… reconstructed”). **Author retains read:** **iconic shades** still **mask** remaining **uncanny** zones in **hybrid** shots; sunglasses **predate** sequels (1999) but ** intensify** in **Smith-multiplicity** fights.
+
+6. **Containment product:** **Square Pictures bankruptcy** (L1) = **motion-picture division contained**; **Animatrix** = **early deploy + category trap**; **ESC** = **sequel owner of record**. Same [team-replacement](#cross-investigation-pattern--team-replacement-containment-author-l3) pattern as Oracle/Tank/MxO — **wake-up vendor** removed, **studio pipeline** keeps spectacle.
+
+**What would strengthen / falsify:**
+- Warner internal docs: Osiris commissioned as **M2 prologue** vs **Animatrix episode** from day one.
+- Shot-match forensics: **Osiris sparring** ↔ **Burly Brawl** blocking / camera paths.
+- Crew testimony: deliberate **“anime bucket”** framing for Square (vs organic marketing).
+- Primary source tying **sunglasses** to **Square** pipeline limitation (vs franchise design / ESC Universal Capture).
+
+**Cross-links:** [§ embedded pipeline](#author-speculation--osiris-to-zion-embedded-pipeline-l3-voice-transcript-2026-06-15) · [§ public record](#public-record--square-on-matrix-sequels-beyond-animatrix-l1--l3-2026-06-15) · [Thread I — tentacle rhyme](#thread-i--neo-source-tentacles--aki-ross-stab-author-visual-rhyme)
+
 ### Research TODO
 - [ ] Staff migration credits: **Square USA → ESC** personnel overlap (LinkedIn / AWN credits lists).
 - [ ] **Osiris** previs vs. **Zion siege** shot comparison (frame timing).
+- [ ] **Osiris** sentinel/hovercraft grammar vs. **Zion** battle — shot design / storyboard overlap (embedded-pipeline falsifier).
+- [ ] Wachowski / Warner production materials: Square scope on ***Reloaded* / *Revolutions*** storyboards (beyond *Animatrix* credits).
+- [ ] ESC / CGW / AWN: **bump mapping**, texturing, render-stack upgrades on sequel battles vs. *Osiris* / *Spirits Within* baseline.
+- [x] **Public record grep** — Thread H § public record (2026-06-15): CGW coiling quote, Silver plans, PLF/ESC falsifiers, IMDb credits.
+- [ ] **Corroborate** James Rogers **“Matrix 3 tests”** — interview, credit, BTS, or crew list beyond LinkedIn.
+- [ ] **Osiris sparring** (~first 3 min) vs **Burly Brawl** / **M3 crater fight** — blocking, camera, timing (Animatrix-containment read).
+- [ ] **Sunglasses-in-CGI** — primary crew quote on eye workaround vs Universal Capture eye solve (author claim tension).
+- [ ] Warner / Silver docs: Osiris as **M2 intro** vs **Animatrix** commission from inception.
 
 ---
 
@@ -732,6 +815,62 @@ Blockbuster exits normally **sanitize** — score reprise, radio single, emotion
 
 ---
 
+## Thread M — *Animatrix* tone / psychic deterrent (author + reception)
+
+**Tier: L3 author synthesis** with **L1–L2 reception** anchors. Pairs with [Thread H § Animatrix containment](#author-speculation--animatrix-as-containment-vessel-square-credit-theft-l3-voice-transcript-2026-06-16) — **vendor/credit** containment **and** **narrative-tone** containment in the same anthology drop (**Jun 2003**, between *Reloaded* and *Revolutions*).
+
+### Author read (2026-06-16, voice transcript)
+
+**Overall:** *The Animatrix* felt like a **strange one-off** until reframed as **containment packaging** — not one coherent Wachowski vision, but a **mixed bag** that **poisons appetite** for the live-action sequels while **only Osiris** (Square) carries **M1-class** craft and sequel-bridge logic.
+
+| Segment | Author read |
+|---------|-------------|
+| **Osiris** (Square) | **Exception** — photoreal, sequel intro, swarm/coiling R&D ([Thread H](#thread-h--square--spirits-within--animatrix--esc-vfx-handoff)) |
+| **Second Renaissance I–II** | **Misaligned with M1** — not a **realistic** machine-war plot in the film-one register; humanity painted **irrevocably vain**, **unwilling to negotiate** with machines; **horrific / gory** beyond what live-action **M3** machine-vs-human violence uses — **different motivational grammar** |
+| **Kid's Story** | **Dull + obnoxious bridge** into **Reloaded**’s **Kid** (Clayton Watson) — character **created off-screen**, then **over-highlighted** in Zion; school defiance, teacher fights, **roof jump** read as **pro-suicide** / radical-youth **replacement** for **M1 crew youth** (Mouse/Tank sympathizer lane) after kill-offs — **CIA-camp** narrative already steering sequel cast |
+| **Other shorts** | Mostly **forgettable** or **upsetting** — anthology **willing to scar** where **M1–M3** live-action kept a **cooler, spectacle-forward** mask |
+
+**Containment mechanism (author):** *Animatrix* deploys **upsetting, Holocaust-doc-adjacent, nihilistic-humanity** material (**Second Renaissance**) and **annoying sequel setup** (**Kid's Story**) **before** audiences finish the trilogy — leaving **subconscious deterrent** against **open-minded, cheery** engagement with **future Matrix** lore. Same **contain camp** as Maddox fracture + Oracle defanging: **reduce appetite** for **depth** and **hope**.
+
+**Tone contrast (author):** Live-action **M1–M3** action (even **Zion** machine slaughter) serves **spectacle + plot**; *Animatrix* **Japanese-anime shorts** (except Osiris) lean **more upsetting**, **more cruel to humans**, **less negotiable** — evidence of **different directing camp** inside the **2003 rollout**.
+
+### Documented reception (L1–L2 — supports “mixed / upsetting / disposable” pattern)
+
+| Source | Finding |
+|--------|---------|
+| [Common Sense Media](https://www.commonsensemedia.org/movie-reviews/the-animatrix) | **Graphic violence** inappropriate for kids — especially **Second Renaissance**; **only ~2/9** segments “flesh out” story; rest **“quality chum”** / **disposable morsels** |
+| [AnimeWorld reader review](https://animeworld.com/readerreviews/animatrix.html) | **Second Renaissance** = **“best and worst”** — relevant but **“slightly disturbing”**; **Holocaust-documentary** presentation; **unsettling war** — enjoyment likened to **“Holocaust documentaries **and** The Matrix”** fans only |
+| [CBR — segments ranked](https://www.cbr.com/animatrix-segments-ranked-the-matrix/) | **Second Renaissance** **controversial** — humanity **deeply cruel**; **visceral horror** (torture, nuking own troops, machine experiments); **Kid's Story** **underwhelming** — **“rings hollow”**; Kid does what **Neo cannot** with **no payoff** |
+| [Dr. Grob's Animation Review](https://drgrobsanimationreview.com/2014/05/07/the-animatrix/) | **Second Renaissance** ★★★½ — “most satisfying **addition**”; **Kid's Story** ★ — **“one of the most unappealing”**; slow, ugly animation |
+| [Encyclopedia of SF via Wikipedia](https://en.wikipedia.org/wiki/The_Animatrix) | Anthology **“probably the most rewarding elements of the ambitious but largely disappointing sequel rollout”** — praise **within** a **disappointing** sequel campaign |
+| [Vern's Reviews — *Reloaded*](https://outlawvern.com/2021/12/15/the-matrix-reloaded-2/) | **Kid bothers audience** — sycophantic Neo follower; notes **M1 already had young crew** (Mouse lane) — **kill youth, import new Kid** read available |
+| [Screen Rant / ComicBook.com](https://screenrant.com/matrix-reloaded-kid-animatrix-backstory-neo/) | **Kid = least favorite** character; **Animatrix** supplies **backstory** for **Reloaded** character **movies never explain** — **off-screen birth** of sequel cast |
+
+### L1 plot anchors (Kid's Story ↔ Reloaded)
+
+- **Kid's Story:** **Michael Karl Popper** — school **Agents** chase; **“Neo, I believe”** → **roof jump** → **self-substantiation** ( wakes in real world without red pill ) ([Wikipedia — Kid's Story](https://en.wikipedia.org/wiki/The_Animatrix); [Matrix Resolutions](https://matrixresolutions.com/animatrix4_kids_story.html)).
+- **Reloaded:** **Kid** (Clayton Watson) **hero-worships Neo**; Neo: **“You saved yourself”** — dialogue **matches** short; Kid later **opens Zion gate** in ***Revolutions*** ([Screen Rant](https://screenrant.com/matrix-reloaded-kid-animatrix-backstory-neo/)).
+- **M1 youth kill-off context:** **Mouse** dies in **M1**; **Tank** removed for sequels — author read: **Kid** fills **sympathetic youth** slot with **Zion crowd-pleaser** energy **orthogonal** to **M1 operator craft**.
+
+### Author claims requiring caution (tier)
+
+| Claim | Tier |
+|-------|------|
+| **Second Renaissance** misaligns with **M1** philosophical tone | **L3** (author); **L2** partial — critics note **cruelty** vs film trilogy **cooler** action |
+| **Animatrix** = **psychic deterrent** against future Matrix optimism | **L3** |
+| **Kid's Story** = **pro-suicide** messaging | **L3** — plot is **canonical self-substantiation**; roof jump is **in-universe escape**, not framed as suicide promotion in sources |
+| **CIA-camp** already steering **Kid** replacement narrative | **L3** — structural rhyme with [Thread H](#thread-h--square--spirits-within--animatrix--esc-vfx-handoff) **anime-ghetto** / sequel handoff |
+
+### Research TODO
+
+- [ ] Index **Program**, **World Record**, **Detective Story**, **Beyond**, **Matriculated** — fan/press **“disturbing / dull / nihilistic”** quotes (AICN Moriarty: **Program** weakest; **Matriculated** psychologically dark).
+- [ ] Compare **Second Renaissance** violence **tone** vs ***Revolutions*** **Zion**/crater **machine-on-human** staging (shot-level).
+- [ ] Wachowski **intent** interviews on **Animatrix** vs **live-action** tone split (if any).
+
+**Cross-links:** [Thread H § Animatrix containment](#author-speculation--animatrix-as-containment-vessel-square-credit-theft-l3-voice-transcript-2026-06-16) · [Thread D3 — Maddox fracture](#thread-d3--maddox-2003-pseudo-intellectual-fan-fracture--nothing-to-believe-in) · [Great Awakening §3.3.4](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) (economic-war rhyme in **Second Renaissance** — **separate** from author **tone** critique)
+
+---
+
 ## L1 transcript table — *Matrix Reloaded* YIFY-en.srt (R8)
 
 **Source file:** `Downloads/The.Matrix.Reloaded.2003.Subtitles.YIFY-en.srt`  
@@ -766,6 +905,7 @@ Blockbuster exits normally **sanitize** — score reprise, radio single, emotion
 | *Animatrix* economic war | [great-awakening-alien-savior-rv-nwo-cluster-investigation.md §3.3.4](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) |
 | Chong documentary subtitles | Local: `Downloads/…The Marcus Chong Story…srt` |
 | NSA / CIA two-camps | [nsa-investigation.md](/governance/war/investigations/nsa-investigation.md) · [cia-investigation.md](/governance/war/investigations/cia-investigation.md) · [ghost-war-the-antibody-phase.md](/influence/hollywood/ghost-war-the-antibody-phase.md) |
+| China / Hong Kong two-camp war (*Dark Knight*, *Rush Hour*) | [everything-burns.md](/influence/hollywood/everything-burns.md) · [china-hollywood-two-camp-war-investigation.md](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md) |
 | Gulf of Tonkin / Hanyok SIGINT | [nsa-investigation.md § III](/governance/war/investigations/nsa-investigation.md) · [good-actor § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | Holy-war / blame-Islam geometry | [good-actor § I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) · [1979 religious revival](/influence/religion/1979-religious-revival-investigation.md) |
 | “Networks at work” / deferral | [what-are-you-waiting-for.md](/influence/controlled_opposition/what-are-you-waiting-for.md) |
@@ -847,6 +987,9 @@ Blockbuster exits normally **sanitize** — score reprise, radio single, emotion
 |----|---------|--------|
 | **R10** | ***Kill Off* watch** | If book surfaces: does it add **L1** beyond subtitles (contracts, names, timeline)? |
 | **—** | Maddox **M1 primary** | Author says he liked film 1; **no archived review found** — recover if exists |
+| **R11** | **Square full-pipeline** | **L1 partial (2026-06-15):** CGW coiling/swarm + Silver plans + ESC↔Square asset share; **L3:** full M2/M3 boards → ESC handoff — [Thread H § public record](#public-record--square-on-matrix-sequels-beyond-animatrix-l1--l3-2026-06-15) |
+| **R12** | **Animatrix containment** | **L3:** anthology as Square **anime-ghetto** + credit theft; Osiris = **M2 intro** — [Thread H § Animatrix containment](#author-speculation--animatrix-as-containment-vessel-square-credit-theft-l3-voice-transcript-2026-06-16) |
+| **R13** | **Animatrix tone / deterrent** | **L3:** Second Renaissance + Kid's Story + upsetting shorts as **psychic deterrent**; author finds non-Osiris segments **dull/misaligned** — [Thread M](#thread-m--animatrix-tone--psychic-deterrent-author--reception) |
 | **—** | Giant Bomb **quote index** | URLs indexed; watch episodes for pull quotes |
 | **—** | M1 revival **exact lines** | Thread K TODO — Morpheus/Oracle foreshadowing on death/will |
 
@@ -878,4 +1021,4 @@ Blockbuster exits normally **sanitize** — score reprise, radio single, emotion
 
 Keywords: #Matrix #NotLikeThis #MatrixOnline #Tank #MarcusChong #GloriaFoster #ControlledOpposition #PredictiveProgramming #SpiritsWithin #MatrixResurrections #Containment #ParadigmThreatFiles
 
-**Last updated:** 2026-06-14 (session 6 — two-camps primary thesis; reader essay refocus)
+**Last updated:** 2026-06-16 (Thread M Animatrix tone / psychic deterrent; author reception pass)

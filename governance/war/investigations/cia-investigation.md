@@ -164,6 +164,7 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 
 - [Ariel Sharon — Gaza, coma, controlled-opposition threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md) — **thematic rhyme** (withdrawal → **militant**/**extremist** **inheritance** of space) with § **IV** **Iran** pipeline; **not** equating **1979** **Iran** with **2005** **Gaza**
 - [Call of Duty *Modern Warfare* — original vs reboot militainment](./call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) — **fiction** **SAD** / **TF141** / **Iran** proxy framing vs § **IV** **Iran** pipeline thesis; **militainment** audience capture
+- [**Everything Burns**](/influence/hollywood/everything-burns.md) — CIA/MI6 **war-prep** vs NSA **audit** in China/Hong Kong media; [open dossier](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md)
 - [1947 CE — Central Intelligence Agency: OSS Rebrand and Cold War Deep State](/timeline/evt-1947-ce-central-intelligence-agency-oss-rebrand) (timeline article)
 - [False Flags: Architecture](/timeline/evt-false-flags-architecture)
 - [Historical Antibodies](/timeline/evt-historical-antibodies)

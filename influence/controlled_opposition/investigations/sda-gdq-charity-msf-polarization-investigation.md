@@ -2,7 +2,7 @@
 
 **TL;DR:** **Speedrunning** went from **forum commons** toward **branded** marathon scale; **~$41M** reported **to charities** attaches **halo** to **beneficiary brands** (**Prevent Cancer Foundation**, **MSF**, …). This dossier holds **forum-primary** disputes (**SDA** HTML), **author grievances** (**Mike Uyama**), **MSF** **reported controversies**, and **labeled author theses** about **opacity**, **sovereignty**, and **“controlled opposition”** **fundraising** — **not** adjudicated **fraud**. **Parallel lane:** [*Homestuck* / Andrew Hussie](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) (**canon / IP privatization**).
 
-**Status:** Open — heavy **author memory** on **Uyama**; **financial misconduct** **not** proven; **MSF** rows cite **mainstream** investigations where linked.
+**Status:** Open — heavy **author memory** on **Uyama**; **financial misconduct** **not** proven; **MSF** rows cite **mainstream** investigations where linked (**incl.** **Jun 2026** **Chad** **refugee-camp** **probe** — **59** allegations, **18** staff dismissed per [RT/AP report](https://www.rt.com/africa/641661-doctors-without-borders-staff-fired-sudanese-refugees-sex-abuse/)).
 
 **Guide**
 
@@ -108,11 +108,12 @@ In the author’s sense, a **controlled-opposition charity** routes money along 
 |-------|---------------------------|---------------|
 | **Internal racism / two-tier staff system** | Investigations describe **segregated** workplace norms, **racist** abuse allegations, **large pay gaps** between international vs locally hired staff. | [Business Insider + Reveal](https://www.businessinsider.com/doctors-without-borders-faces-with-allegations-of-racism-and-segregation-2021-9); [NPR — MSF on racism charges](https://www.npr.org/sections/goatsandsoda/2022/05/09/1091122969/msf-doctors-without-borders-racism); MSF USA — [**institutional discrimination**](https://www.doctorswithoutborders.org/tackling-institutional-discrimination-and-racism-within-msf); [**Rewards Review FAQ** (PDF)](https://www.msf.org/sites/default/files/2024-01/Rewards%20Review%20FAQ_Jan2024_ENG_0.pdf). |
 | **Sexual misconduct / “toxic culture” reporting** | Major outlets reported whistleblower allegations; MSF published complaint counts. | [BBC](https://www.bbc.com/news/world-africa-44523086); [Thomson Reuters Foundation](https://news.trust.org/item/20190617173730-ig069); [MSF UK — harassment statement](https://www.msf.org.uk/article/msf-statement-sexual-harassment-and-abuse). |
+| **Sexual exploitation — Sudanese refugees, Chad border camps (2026 internal probe)** | **Jun 2026:** [RT Africa](https://www.rt.com/africa/641661-doctors-without-borders-staff-fired-sudanese-refugees-sex-abuse/) (citing **AP** and a confidential **MSF** internal memo) reported an internal investigation found **59 allegations** of sexual abuse and exploitation involving **local and foreign MSF staff** in camps along Chad’s border with Sudan; **18 staff fired** and barred from future employment. Reported allegations include **underage girls** and **exchange of food, water, milk, and jobs for sex**; memo language cited **“sexual abuse and exploitation”** and **possible organized trafficking** in some repeat cases. MSF described the memo as a candid internal analysis of safeguard failures; some allegations reportedly could not be verified when victims/perpetrators could not be traced. Probe followed **2024 AP** reporting on **sex-for-aid** accusations in displacement camps. **Does not** prove **GDQ**/**SDA**-routed dollars funded these acts — it **does** add a **beneficiary-side** controversy row for donors who treat **MSF** as the **moral terminus** of marathon charity. | [RT Africa — Jun 2026](https://www.rt.com/africa/641661-doctors-without-borders-staff-fired-sudanese-refugees-sex-abuse/) |
 | **High-risk zones / armed actors / access** | MSF describes **negotiating** humanitarian **access** including with **non-state** actors — **operational** reality that **host governments** sometimes **read** as **non-neutral**. | [MSF analysis — Taliban](https://analysis.ocb.msf.org/will-we-talk-to-the-taliban-why-not-we-always-have/); [Kunduz hospital airstrike](https://en.wikipedia.org/wiki/Kunduz_hospital_airstrike). |
 | **Ethiopia / political conflict** | **2021:** Ethiopian authorities **suspended** large parts of MSF work. | [MSF — suspension statement](https://www.msf.org/msf-forced-suspend-majority-healthcare-activities-ethiopia-despite-enormous-needs); [AP](https://apnews.com/article/africa-united-nations-ethiopia-74bffd76acdc552e978c37e1cb35faf0). |
 | **Gaza / Israel–Hamas — neutrality disputes** | **Highly polarized** press; critics allege **political** communication; MSF **denies** abandoning neutrality. **Adversarial** tier. | [National Post](https://nationalpost.com/news/world/israel-middle-east/msf-doctors-without-borders); [JPost — NGO Monitor](https://www.jpost.com/middle-east/article-894619); [Fox — Destexhe quoted](https://www.foxnews.com/world/former-doctors-without-borders-leader-calls-group-accomplices-hamas-over-gaza-war-response). |
 
-**Pattern tie-in:** **Tens of millions** through **GDQ** **brand** **does not** prove **MSF** or **GDQ** **malfeasance** — it **does** mean **auditing each hop** (**fundraiser**, **contracts**, **NGO**) is **separate** work.
+**Pattern tie-in:** **Tens of millions** through **GDQ** **brand** **does not** prove **MSF** or **GDQ** **malfeasance** — it **does** mean **auditing each hop** (**fundraiser**, **contracts**, **NGO**) is **separate** work. The **Jun 2026 Chad-camps row** (**59** allegations, **18** dismissals — [RT/AP report](https://www.rt.com/africa/641661-doctors-without-borders-staff-fired-sudanese-refugees-sex-abuse/)) is **not** evidence that **marathon donations** were **used as sex bribes**; it **is** evidence that **“money ends at MSF”** can still leave **donors** **morally exposed** when **field operations** face **sex-for-aid**-class scandals — the **observer-effect** shape from **§4.1** (**shield the beneficiary brand**) applies again.
 
 ### 4.3 Author thesis — polish, happiness, unknown flows (MSF ∥ marathon charity)
 
@@ -321,6 +322,7 @@ Cross-reference **§1.1**. **Selection bias** in **pro-charity** press as **mone
 | **Metal Slug 5** submission logs | Tests **block** |
 | **Chronology** of **rebuttals** vs **author incidents** | Tests **§1.1** |
 | **MSF** **990** / **annual reports** vs **author §4.3–4.6** | Grounds **macro** claims |
+| **MSF Chad/Sudan refugee-camp probe (2026)** — AP primary, MSF public response | Tests **beneficiary** **controversy** row vs **GDQ** **routing** (**§4.2**); **not** a **GDQ** **fraud** **proof** |
 | **Wayback** / mirrors for **`what_percentage…_13.html`** (**Supreme**) | Preserves **defender** line alongside **Blubbler** for **2015** **temperature** |
 | **Discord** **Inc.** **policy** **+** **dated** **press** **on** **moderation** | If **§3.1** **container** **thesis** **is** **used** **outside** **hypothesis** |
 
@@ -350,7 +352,7 @@ Cross-reference **§1.1**. **Selection bias** in **pro-charity** press as **mone
 
 Keywords: #MikeUyama #SpeedDemosArchive #GamesDoneQuick #MSF #DoctorsWithoutBorders #CharityHalo #Polarization #ControlledOpposition #GodfatherPartIII #ParadigmThreatFiles
 
-**Last updated:** 2026-05-02 (**§3.2** **fan-edit** **/** **theater** **commons** **+** **§7.5** **engine-fork** **cross-read**; **§3** **/** **§3.1**; **§6.5** **primaries**; **§4.6** **claims**)
+**Last updated:** 2026-06-16 (**§4.2** **MSF** **Chad** **refugee-camp** **sexual-exploitation** **probe** — **59** allegations / **18** fired, [RT Jun 2026](https://www.rt.com/africa/641661-doctors-without-borders-staff-fired-sudanese-refugees-sex-abuse/))
 
 ---
 

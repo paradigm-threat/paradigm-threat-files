@@ -107,6 +107,7 @@ An alternative reading of “flat earth” imagery and text:
 Flat Earth is referenced in **paradigm-threat-files** in these places:
 
 - **[cosmos/flat_earth/co.md](./co.md)** — CIA-directed Flat Earth Conspiracy as PSYOP; Firmament/Absu vs. modern sky; Spanish maps (southern barrier as unknown geography, not doctrinal flat earth); controlled opposition.
+- **[cosmos/flat_earth/flat-earth-qa-debunks.md](/cosmos/flat_earth/flat-earth-qa-debunks.md)** — Pilot-spin meme Q&A; rotating-frame debunk; author EM frame-of-reference hypothesis.
 - **[page.md](/page.md)** — “Flat Earth Movement is a PsyOp created centuries ago by the Vatican” (link to `/controlled_opposition/flat_earth`). Note: the **historical** claim that the Church *taught* flat earth is unsupported by primary evidence (see Part One); the **Vatican/PsyOp** angle may refer to later use of the *myth* or to controlled opposition in the modern movement, not to documented 15th-century doctrine.
 - **[history/mudflood/page.md](/history/mudflood/page.md)** — Flat Earth as controlled opposition / divide-and-conquer; image and link to flatearth.ws.
 - **[cosmos/mars/page.md](/cosmos/mars/page.md)** — “Planets are never solid or flat” (link to SOTT Flat Earth psyop article).

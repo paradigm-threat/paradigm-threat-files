@@ -16,17 +16,18 @@
 1. **§1** — Scope (insider/political spine + meme appendix).  
 2. **§6.1–§6.3** — **Author sentiment** (verbatim conditional-tech / bureaucracy thesis + unpack + Great Awakening rhyme)—**read first** if you want the overarching theme.  
 3. **§3.7** — **Insider program mechanics & documented politics** (C2C / Knapp / AARO).  
-4. **§3.6** — Lacatski-distinctive **first-person + cleared material** claims inventory.  
-5. **§3.1–§3.4** — Collaborator framing (Knapp/Kelleher), Weaponized lane, craft-interior chain, Bigelow.  
-6. **§3.5** — Paradigm Threat repo lattice.  
-7. **§2** — Viral post capture (optional appendix).  
-8. **§4** — Viral-post science-bundle validation.  
-9. **§5** — Meme mechanics (feeds).  
-10. **§6.4–§6.5** — Prior embedding thesis + **contrast** vs Lacatski on-record.  
-11. **§7** — Author’s open claims (registry).  
-12. **§8–§9** — Questions / TODOs.  
-13. **§10–§11** — Related + references.  
-14. **Keywords** → Limits.
+4. **§3.8** — **Impossible motion** cross-link (PURSUE §5.11; not Lacatski-primary).  
+5. **§3.6** — Lacatski-distinctive **first-person + cleared material** claims inventory.  
+6. **§3.1–§3.4** — Collaborator framing (Knapp/Kelleher), Weaponized lane, craft-interior chain, Bigelow.  
+7. **§3.5** — Paradigm Threat repo lattice.  
+8. **§2** — Viral post capture (optional appendix).  
+9. **§4** — Viral-post science-bundle validation.  
+10. **§5** — Meme mechanics (feeds).  
+11. **§6.4–§6.5** — Prior embedding thesis + **contrast** vs Lacatski on-record.  
+12. **§7** — Author’s open claims (registry).  
+13. **§8–§9** — Questions / TODOs.  
+14. **§10–§11** — Related + references.  
+15. **Keywords** → Limits.
 
 ---
 
@@ -93,6 +94,21 @@ This subsection **does not** assert that Lacatski read these files or that any r
 | Ether / agnosticism / consensus capture | [Gnosis vs agnosticism — ether and “scientific agnosticism”](/history/chronology/investigations/gnostic-vs-agnostic-theism-atheism-after-planet-gods.md) | Optional **epistemic** frame when comments invoke “science can’t measure spirituality.” |
 | CO warning: 5D / Flat Earth / *Ancient Aliens* as **gates off** mudflood path | [MudFlood notes — Controlled Opposition Agents](/history/mudflood/notes/page.md#controlled-opposition-agents) | Same **inspector** warning as chasing Lacatski-only consciousness memes **without** holding program scope and **craft-interior** counter-line (**§3.3**). |
 | Institutional black-budget / weird science **context** (not AAWSAP proof) | [CIA investigation](/governance/war/investigations/cia-investigation.md) — charter, Paperclip, Latin America pattern | **Background** only: Stargate-era parapsychology lived under **same institutional class** as other classified lanes; no row proves AAWSAP conclusions. |
+| **Impossible motion** / instant acceleration report class (UAP-wide, not Lacatski-only) | [PURSUE §5.11 — sudden stop / instant acceleration register](/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md); [Flat Earth Q&A — UFO analogy](/cosmos/flat_earth/flat-earth-qa-debunks.md) | Cleared **craft-interior** claims (**§3.6 row 2**) describe **no engine / no control surfaces** — **rhymes** with public **five observables** / **instant acceleration** literature; **does not** prove Lacatski witnessed those kinematics personally. |
+
+### 3.8 Impossible motion — how this file relates to the wider UAP kinematics record
+
+Lacatski’s on-record contribution is **program scope + cleared material paradox** (engine-less streamlined interior), not a personal lab notebook of **g-forces**. The **broader** U.S. record — ODNI 2021 **abrupt maneuver** language, Navy **Tic Tac / Gimbal / GoFast** releases, PURSUE **DOW-UAP-PR051** (*instant acceleration*), CIA Cold War **180° turn / split** briefs — is catalogued in [PURSUE §5.11](/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md).
+
+**Analytic separation:**
+
+| Layer | What it is |
+|---|---|
+| **Lacatski / AAWSAP** | Who funded, who blocked, what **interior** was claimed, how **consciousness** got bundled with craft |
+| **Kinematics register (§5.11)** | What **pilots / radar / IR** reported about **stop-start** motion across decades |
+| **Author field-frame hypothesis** | [Flat Earth Q&A Entry 1](/cosmos/flat_earth/flat-earth-qa-debunks.md) — **mechanism sketch** only; not adjudicated here |
+
+**Limits:** Indexing **impossible motion** reports does **not** validate **non-human** origin, **does not** validate **reality editing**, and **does not** collapse Lacatski’s consciousness pivot into a physics proof.
 
 ### 3.6 Lacatski-distinctive on-record contributions (career thread)
 

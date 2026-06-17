@@ -15,7 +15,7 @@
 2. **§2** — How the corpus was built (scripts, bot-protection bypass, HD migration).
 3. **§3** — Novelty audit: provenance of each chunk, what is genuinely new.
 4. **§4** — What the government has actually *studied* (eight named programs, 1947-present).
-5. **§5** — Theme deep-dive (Mars, teleportation, remote viewing, "aether"/zero-point, mind influence, demonology/spiritual, non-human, transmedium, Skinwalker, weather-control).
+5. **§5** — Theme deep-dive (Mars, teleportation, remote viewing, "aether"/zero-point, mind influence, demonology/spiritual, non-human, transmedium, **impossible motion / instantaneous acceleration**, Skinwalker, weather-control).
 6. **§6** — The **single most underreported finding**: BAASS's proposed paid-celebrity-moderator PR campaign to assume ET reality.
 7. **§7** — Critic / analyst consensus on Release 01.
 8. **§8** — Two-century public UFO/UAP timeline (19th century through PURSUE); **§ 8.1A** — deep dive on the **1896–1897 mystery airship wave**.
@@ -285,6 +285,59 @@ Reading `AARO_Historical_Record_Report_Vol_1_2024.txt`, `AARO-Historical-Record-
 ### 5.10 Weather control / HAARP / chemtrails (0 hits)
 
 Zero matches in the extracted corpus. Whatever interest the U.S. has had in weather modification is not represented in this UAP-scoped release.
+
+### 5.11 Impossible motion — sudden stop, sudden start, instantaneous acceleration (phenomenon register)
+
+**Purpose:** Record the **cross-era pattern** the public names *impossible* flight — dead stop, right-angle turn, instant acceleration, hypersonic speed without signature — as **documented in government-adjacent sources**, **modern declassified video**, and **fiction encoding**. This subsection **does not** adjudicate mechanism (breakaway tech, sensor artifact, foreign program, NHI). It establishes that the **phenomenon description** is **not** invented only by meme culture or flat-Earth pilots; it is a **recurring official category**.
+
+**Evidence tiers in this subsection:** **Documented** = primary or official-adjacent text/video indexed below; **Analytic** = peer-reviewed or quantitative reconstruction; **Fiction / PP** = cultural encoding only; **Author hypothesis** = field-carried frame (see [Flat Earth Q&A — pilot spin / UFO analogy](/cosmos/flat_earth/flat-earth-qa-debunks.md)).
+
+#### A. Modern U.S. government language (Documented)
+
+| Source | What it says about motion |
+|---|---|
+| [ODNI — *Preliminary Assessment: UAP* (Jun 2021)](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf) | In **18 incidents** (21 reports), observers reported UAP that appeared to **remain stationary in wind**, move **against the wind**, **maneuver abruptly**, or move at **considerable speed without discernible means of propulsion**; a small set of data appear to show **acceleration** or **signature management**. |
+| [AARO Historical Record Vol. I (2024)](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf) | Unresolved cases include objects with **unusual flight characteristics**; official posture remains **no NHI / no recovered-tech proof** while leaving kinematics open. |
+| [DVIDS — DOW-UAP-PR051, "Syrian UAP instant acceleration"](https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration) | AARO-assessed **2021 CENTCOM** infrared capture; uploader title **"instant acceleration"**; object exits frame rapidly after tracking loss ([ABC summary of May 2026 batch](https://abcnews.com/US/pentagon-releases-declassified-ufo-files-including-intelligence-officers/story?id=133209645)). |
+| [DOW-UAP-D33 — Greek ISR mission report, Oct 2023](https://uforeleases.com/topics/dow-modern-uap/dow-uap-d33-mission-report-greece-october-2023) | Contact over Mediterranean performed **multiple 90° turns** at ~**80 mph** then disappeared from feed; filed as **unresolved** in PURSUE-era releases. |
+| [NBC — declassified orb / helicopter encounter memo](https://www.nbcnews.com/politics/national-security/pilots-astronauts-detail-unexplained-aerial-encounters-declassified-uf-rcna346511) | Senior intelligence officer: orb **rose from ground**, closed to **~10 ft** of helicopter, **dropped below**, **sped away**; later **matched jet speed/path** and appeared to **"chase" fighters**. |
+
+**Public framing cluster — "Five Observables" (Documented as *category*, not proof of ET):** Luis Elizondo / AATIP-era public taxonomy lists **instantaneous acceleration**, **hypersonic velocity without signature**, **trans-medium travel**, **low observability**, and **anti-gravity lift** as recurring report classes ([History.com summary of Nimitz / Gimbal / GoFast context](https://www.history.com/articles/ufo-sightings-speed-appearance-movement); [Now Declassified — five observables index](https://www.nowdeclassified.com/guides/uap-five-observables)). **Analytic note:** Elizondo is a **primary-adjacent narrator**, not a laboratory; treat numbers (e.g. cited **600 G**, **13,000 mph** in secondary press) as **claims requiring primary telemetry**, not settled physics.
+
+#### B. Declassified Cold War / CIA-adjacent kinematics (Documented)
+
+| Source | Motion described |
+|---|---|
+| [CIA FOIA — *Flying Saucers* briefing material, CIA-RDP81R00560R000100020013-6](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100020013-6.pdf) | Combined visual/radar case (Far East carrier): high-speed target approached, did a **"superspeed 180° turn"**, then **split in two**, vanishing visually and on PPI scopes. |
+| [CIA FOIA — *Unidentified Flying Object* memo, DOC_0000015427](https://www.cia.gov/readingroom/docs/DOC_0000015427.pdf) | **1954** intercept: delta-shaped object reported at **Mach 3+** performance; radar track cited in excess of **3250 knots** (~**3000+ mph**). |
+| [Knox, Pleskach, Powell — *Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles* (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/) | **Analytic:** uses **Nimitz / Tic Tac** and other encounters to estimate **extreme accelerations** (order **10²–10³ m/s²**, i.e. tens to hundreds of **g**); authors argue reported values are **internally consistent across decades** if treated conservatively. |
+
+#### C. Navy sensor-video era (Documented — video exists; interpretation disputed)
+
+| Case | Motion claim in public record |
+|---|---|
+| **USS Nimitz / Tic Tac (2004)** | White **Tic Tac**-shaped object; pilot **David Fravor** describes **ping-pong** lateral motion; radar track cited in press as **~60 miles in one minute** (~**3600 mph**) from near standstill ([History.com](https://www.history.com/articles/ufo-sightings-speed-appearance-movement)). |
+| **Gimbal (2015)** | IR video shows object **rotating**; official release **2020**; skeptics debate **glare / parallax / aircraft** hypotheses. |
+| **GoFast (2015)** | IR video of fast-moving object low over water; same release batch; **parallax** debates in skeptic literature. |
+
+**Limits for §5.11C:** Released FLIR clips are **real government video**; **kinematic conclusions** from single-sensor IR without full metadata chain remain **contested**. AARO and skeptics both note **sensor limits**, **platform motion**, and **classification without identification**.
+
+#### D. Fiction / predictive-programming encoding (Fiction / PP — not evidence of physics)
+
+Long before PURSUE, **impossible maneuver** grammar was already normalized in genre fiction — useful for spotting **what the public is pre-trained to accept** as "advanced craft," distinct from **what the government has proven**.
+
+| Work | Encoding |
+|---|---|
+| H. G. Wells — *The War of the Worlds* (1898) | **Tripods** — fast, non-human locomotion without wheels; repo timeline: [WOTW chronology](/cosmos/mars/investigations/wotw-timeline.md). |
+| *The X-Files* (1990s) | Recurring **right-angle turns** and **instant acceleration** in UFO episodes — mainstream TV normalization of the maneuver class. |
+| *Independence Day* (1996) | Alien dogfighters described as **"Too Fast to Stop"** — genre trope that **inertia-free** craft outfly human fighters ([All The Tropes — ID4](https://allthetropes.org/wiki/Independence_Day)). |
+| *Close Encounters of the Third Kind* (1977) | Less dogfight-focused; encodes **impossible approach / mass sighting** phenomenology rather than G-force kills ([Wikipedia — CE3K](https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind)). |
+
+**Pattern read (Author hypothesis, not proof):** Fiction supplies the **visual vocabulary** ("it stopped on a dime") while declassified memos supply the **bureaucratic vocabulary** ("maneuvered abruptly without discernible propulsion"). PURSUE's rolling release keeps **both** streams active without closing the mechanism question — consistent with § 6 BAASS **influence-operation** grammar and § 1.5 **divide-and-conquer** polling.
+
+#### E. Cross-link — field-frame hypothesis (Author)
+
+The [Flat Earth Q&A hub — Entry 1](/cosmos/flat_earth/flat-earth-qa-debunks.md) records an **author hypothesis**: occupants inside a **co-rotating field / EM frame** would not feel parent-body spin — and **UFO sudden-stop** anecdotes **rhyme** with that frame logic. **§5.11** supplies the **phenomenon citations** that make the analogy **aware of the literature**; it **does not** validate the author's æther/unified-field mechanism. Mainstream rotating-frame mechanics already explains **why Earth pilots don't subtract spin** without invoking craft physics; UFO **instant-acceleration** reports, if taken at face value, would require a **separate** mechanism tier (unknown propulsion, sensor error, or classified platform) — not flat-Earth memes.
 
 ---
 
@@ -809,6 +862,7 @@ PURSUE Release 01 is **not** a standalone artifact — it sits inside the same d
 | [Toynbee Tiles / *Resurrect Dead*](/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md) | **Mood parallel.** Lone-obsessive vs institutional disclosure aesthetics; PURSUE is the institutional version of the same affect of "the truth is in this dossier I'm assembling." |
 | [QAnon / Great Awakening hub](/influence/controlled_opposition/00) | **Same recruitment basin.** PURSUE's "Trump authorized the release; someone at the Pentagon is being cute" frame from Luna is the QAnon "white hats vs deep state" grammar applied to UAP. |
 | [docs / paradigm-threat-aether vocabulary canon](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) | **Vocabulary discipline.** § 5.4 above stays in *aether/zero-point claim* language without silently substituting *quantum/QED*; KONA BLUE's "quantum mechanics, gravities, thermodynamics" is the mainstream-substitution pattern the canon flags. |
+| [Flat Earth Q&A — pilot spin / UFO sudden-stop analogy](/cosmos/flat_earth/flat-earth-qa-debunks.md) | **Mechanism rhyme, not shape claim.** § 5.11 indexes **instant acceleration / abrupt maneuver** in declassified and official-adjacent sources; Entry 1 records author **field-frame** hypothesis for *why spin isn't felt* and *why UFO stop-start rhymes* — without validating æther physics or flat Earth. |
 
 ---
 

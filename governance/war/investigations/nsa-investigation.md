@@ -107,6 +107,7 @@ That line is the **investigation's thesis in miniature**: not a weapon for the *
 
 - [Predictive Programming hub — *Tron* (1982)](/influence/predictive_programming/page.md) — Jay Dyer lane; digital reality / programs as entities.
 - [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-antibody-phase.md) — NSA vs CIA–MI6 in fiction containment (*Ghost War* **never credits** NSA antibody success).
+- [**Everything Burns**](/influence/hollywood/everything-burns.md) — *Dark Knight* / Hong Kong finance antibody read; [China/Hollywood two-camp dossier](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md).
 
 ---
 
@@ -118,7 +119,7 @@ That line is the **investigation's thesis in miniature**: not a weapon for the *
 | **Vietnam era** | MINARET scandal → **Church/FISA** reckoning | Covert war, Phoenix, media manipulation |
 | **Tonkin** | **Complicit then exposer** (Hanyok) | Casus belli consumer |
 | **Post-9/11** | WTC 7 decapitation thesis (**speculative**) | WTC 7 NY station; proxy-terror pipeline |
-| **Fiction rhyme** | ***Tron*** — watchdog MCP | *Ghost War* — Starling proxy; MI6 whitewash |
+| **Fiction rhyme** | ***Tron*** — watchdog MCP; ***The Dark Knight*** — Lau / “everything burns” | *Ghost War* — Starling proxy; MI6 whitewash |
 
 **Destroy the CIA** in this frame means **break autonomy, exposure, restructuring, SIGINT truth** — not literal liquidation.
 
