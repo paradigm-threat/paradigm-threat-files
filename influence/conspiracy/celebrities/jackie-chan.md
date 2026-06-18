@@ -41,6 +41,12 @@ Jackie Chan (Chan Kong-sang) rose from Hong Kong stuntman to global action star.
 
 ---
 
+## IV. Pacific / Hollywood — stolen memory thread
+
+Jackie Chan’s ***Chinese Zodiac* (2012)** centers **Anglo-French looting** of Yuanmingyuan bronze heads (1860) — the clearest **L1** instance of **Western theft of Chinese artifacts** in his filmography. Author read: colonial **memory control** + **Taiwan / chip sovereignty** as Pacific war trigger — full validation matrix in [China/Hollywood investigation — Thread M](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md#thread-m--stolen-memory-jackie-chan-artifacts-taiwan-tech-trigger). Cross-read [Everything Burns § Stolen memory](/influence/hollywood/everything-burns.md).
+
+---
+
 ## References
 
 - [Vice: Why Jackie Chan Is Unpopular in Hong Kong](https://www.vice.com/en_us/article/wxqkn5/heres-why-jackie-chan-is-really-unpopular-in-hong-kong)

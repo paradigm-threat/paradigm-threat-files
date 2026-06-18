@@ -1,8 +1,40 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-18T11:21:59.378Z",
+    "date": "2026-06-18T11:42:40.166Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/conspiracy/celebrities/jackie-chan.md",
+        "href": "/influence/conspiracy/celebrities/jackie-chan"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/everything-burns.md",
+        "href": "/influence/hollywood/everything-burns"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md",
+        "href": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
+        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
+      },
+      {
+        "src": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png",
+        "alt": "China / Hollywood two-camp war — investigation cover"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-18T11:21:58.000Z",
+    "message": "Fix 24 CTU attack: Day 2 triple bomb, not Season 5 Sentox gas.",
     "files": [
       {
         "status": "M",
@@ -1378,83 +1410,6 @@
       {
         "src": "https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery.png",
         "alt": "Modern celebrity slavery — IP containment, ordered speech, and creative control"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
-        "alt": "Celebrity modern slavery — contracts, containment, NDAs, and creative control (investigation dossier)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-10T13:41:17.000Z",
-    "message": "Separate Poe and Prince case studies and tighten drafting hygiene.",
-    "files": [
-      {
-        "status": "A",
-        "path": "blog/2026-06-10-june-roundup-stonehenge-benjamin-celebrity-slavery-gordonston-memory-war.md",
-        "href": "/blog/2026-06-10-june-roundup-stonehenge-benjamin-celebrity-slavery-gordonston-memory-war"
-      },
-      {
-        "status": "M",
-        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
-        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
-      },
-      {
-        "status": "M",
-        "path": "docs/instructions/ARTICLES.md",
-        "href": "/docs/instructions/ARTICLES"
-      },
-      {
-        "status": "M",
-        "path": "influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md",
-        "href": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/suppression/modern-celebrity-slavery.md",
-        "href": "/influence/suppression/modern-celebrity-slavery"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.png",
-        "alt": "Make Gordonston Great Again — Gordonston park gates, Gwinnett Street, and children’s homework hope"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/genocide/vaccines-circumcision-childhood-consent-religion.png",
-        "alt": "Vaccines and circumcision — two rites, one consent theft"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.png)](https://paradigmthreat.net/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation",
-        "alt": "Apotheosis of Washington — Brumidi fresco callouts and one-spine synthesis"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png",
-        "alt": "Stonehenge quantum portal — Golden Age end-port, CERN retry, Spinal Tap laugh track"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery.png",
-        "alt": "Modern celebrity slavery — IP containment, ordered speech, and creative control"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/zelensky-forward-history-memory-war.png",
-        "alt": "Zelensky forward-history memory war — figurehead grammar, Holodomor soil"
-      },
-      {
-        "src": "/docs/)`)."
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)",
-        "alt": "` / `*.png` / `*.jpg`; prefer **published** `https://paradigmthreat.net/...` URLs (timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`). **Placement:** one image **after** the paragraph that introduces the topic (illustrate the **linked investigation**, not decorate every section). **Alt text:** name the **source lane** and **what the reader should see** (e.g. “Historical antibodies — timeline chapter,” “Call of Duty militainment — Krasinski operator arc”). **Do not** copy images into the article folder unless you are creating **new** art; **link** to the canonical file in its home directory. **Newsletter budget:** many large PNGs + hero can trigger Gmail clipping—prefer **fewer, well-placed** reuses over a gallery; see **Length → Newsletter / inbox check**. **Reference:** [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`"
-      },
-      {
-        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
-        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). Run the **Verifiable externals pass** below on every ship. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources).\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
-      },
-      {
-        "src": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
-        "alt": "Celebrity modern slavery — contracts, containment, NDAs, and creative control"
       },
       {
         "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",

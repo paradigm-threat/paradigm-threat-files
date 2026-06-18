@@ -2,7 +2,7 @@
 
 ![China / Hollywood two-camp war — investigation cover](china-hollywood-two-camp-war-investigation.png)
 
-> **TL;DR:** Open dossier testing whether **NSA-aligned** vs **CIA/MI6-aligned** grammar in **China/Hong Kong** blockbuster media sorts into two camps: **complex antibody / regional audit** (*The Dark Knight*, *Rush Hour 2*, ***24***) vs **mythical-shallow China** or **direct US–China war normalization** (*Red Dawn* 2012, *Battlefield 4*, *Fallout*, etc.). **Litmus test:** does the narrative **push hypothetical war with China**? **Censorship lists do not reliably sort camps.** **Thread K — *24*:** China captivity, proxy terror, nuclear deterrent, **Day 2 CTU triple bomb**. **Thread I:** *Joker* lineage (2019 undo). **Celebrity speech catalogs** → [celebrity modern slavery § Hollywood speech containment](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#hollywood-celebrity-speech-containment--deniro-archetype--catalogs). **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md).
+> **TL;DR:** Open dossier testing whether **NSA-aligned** vs **CIA/MI6-aligned** grammar in **China/Hong Kong** blockbuster media sorts by **one litmus test:** does the narrative **prepare the audience for war with China**? **Depth and complexity are not camp indicators** — shallow buddy-cop (*Rush Hour*) can be NSA-side if war-prep is **low**. **Thread M:** stolen-memory / **Yuanmingyuan** artifact plots (Jackie Chan *Chinese Zodiac*), **Taiwan + chip sovereignty** war-trigger geometry. **Censorship lists do not reliably sort camps.** **Thread K — *24*:** China captivity, proxy terror, nuclear deterrent, **Day 2 CTU triple bomb**. **Thread I:** *Joker* lineage (2019 undo). **Celebrity speech catalogs** → [celebrity modern slavery § Hollywood speech containment](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#hollywood-celebrity-speech-containment--deniro-archetype--catalogs). **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md).
 
 **Date:** 2026-06-17  
 **Status:** Open investigation; **reader essay published** 2026-06-17.  
@@ -24,27 +24,28 @@
 **Part II — NSA camp case studies**
 
 7. [Thread B — *The Dark Knight* (anchor case study)](#thread-b--the-dark-knight-anchor-case-study)
-8. [Thread C — *Rush Hour 2*](#thread-c--rush-hour-2)
-9. [Thread K — *24* (TV, 2001–2010): China torture, proxy terror, CTU destruction](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction)
+8. [Thread C — *Rush Hour* franchise (1998–2001)](#thread-c--rush-hour-franchise-19982001)
+9. [Thread M — Stolen memory: Jackie Chan artifacts, Taiwan, tech trigger](#thread-m--stolen-memory-jackie-chan-artifacts-taiwan-tech-trigger)
+10. [Thread K — *24* (TV, 2001–2010): China torture, proxy terror, CTU destruction](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction)
 
 **Part III — Containment and calendar**
 
-10. [Thread G — One-off masterpiece / franchise containment](#thread-g--one-off-masterpiece--franchise-containment)
-11. [Thread H — Obama / 2008 / Libya 2011 (author speculative chain)](#thread-h--obama--2008--libya-2011-author-speculative-chain)
-12. [Thread I — Joker lineage: Ledger resistance vs Phoenix containment (2019)](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019)
-13. [Thread J — Celebrity speech containment (bridge → suppression dossier)](#thread-j--celebrity-speech-containment-bridge--suppression-dossier)
+11. [Thread G — One-off masterpiece / franchise containment](#thread-g--one-off-masterpiece--franchise-containment)
+12. [Thread H — Obama / 2008 / Libya 2011 (author speculative chain)](#thread-h--obama--2008--libya-2011-author-speculative-chain)
+13. [Thread I — Joker lineage: Ledger resistance vs Phoenix containment (2019)](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019)
+14. [Thread J — Celebrity speech containment (bridge → suppression dossier)](#thread-j--celebrity-speech-containment-bridge--suppression-dossier)
 
 **Part IV — Author conclusion**
 
-14. [Author's conclusion — subconscious retention, debt scenario, PP success metric](#authors-conclusion--subconscious-retention-debt-scenario-pp-success-metric)
-15. [Thread L — *The Office* “China” (S07E10): conversation beats fear](#thread-l--the-office-china-s07e10-conversation-beats-fear)
+15. [Author's conclusion — subconscious retention, debt scenario, PP success metric](#authors-conclusion--subconscious-retention-debt-scenario-pp-success-metric)
+16. [Thread L — *The Office* “China” (S07E10): conversation beats fear](#thread-l--the-office-china-s07e10-conversation-beats-fear)
 
 **Closing**
 
-16. [Questions to clarify, verify, or debunk](#questions-to-clarify-verify-or-debunk)
-17. [Weak points / research TODOs](#weak-points--research-todos)
-18. [Related investigations](#related-investigations)
-19. [Limits and disclaimers](#limits-and-disclaimers)
+17. [Questions to clarify, verify, or debunk](#questions-to-clarify-verify-or-debunk)
+18. [Weak points / research TODOs](#weak-points--research-todos)
+19. [Related investigations](#related-investigations)
+20. [Limits and disclaimers](#limits-and-disclaimers)
 
 ---
 
@@ -54,11 +55,13 @@ This investigation extends the **two-camp interagency war** frame documented in 
 
 | Camp (author label) | Narrative grammar | China / Asia portrayal | War-prep signal | Example titles (v1 seed) |
 |---------------------|-------------------|------------------------|-----------------|--------------------------|
-| **NSA-aligned** | Complex **antibody** stories — audit, early trigger, individual sovereignty; often **critiques** regional flaws from an American vantage without staging full US–China war | Hong Kong finance, Triads, sex-tourism coding, extrajudicial capture; **PRC intelligence torture** of American operators | **Low** — warns about pipelines, proxy frames, and deterrence grammar; not PLA invasion fantasy | *The Dark Knight* (2008), *Rush Hour* / *Rush Hour 2* (1998–2001), *Red Corner* (1997), ***24*** (2001–2010) |
-| **CIA/MI6-aligned** | Divide-and-conquer **holy-war geometry** applied to Pacific; shallow **mythical/ancient** East or **direct war fantasy** that is **not cautionary** | Elitist martial mysticism; PLA invaders; resource-war normalization | **High** — population rehearsed for conflict | *Red Dawn* (2012, orig. China), *Shang-Chi* (2021), *Battlefield 4* (2013), *Fallout* (1997+) |
+| **NSA-aligned** | **Low war-prep** — audit pipelines, deterrence cost, or **cross-Pacific rapport** without rehearsing invasion; **depth is not a sort key** (can be complex *or* shallow) | Hong Kong finance, Triads, extrajudicial capture; **PRC intelligence torture** of American operators; **American–Chinese buddy partnership** | **Low** — audience not primed to fight China | *The Dark Knight* (2008), *Rush Hour* (1998), *Rush Hour 2* (2001), *Red Corner* (1997), ***24*** (2001–2010) |
+| **CIA/MI6-aligned** | **High war-prep** — mythical ancient East, **PLA invasion** fantasy, resource-war normalization; shallow **or** prestige packaging | Elitist martial mysticism; PLA invaders; resource-war gameplay | **High** — population rehearsed for conflict | *Red Dawn* (2012, orig. China), *Shang-Chi* (2021), *Battlefield 4* (2013), *Fallout* (1997+) |
 | **Globalist-neutral (contrast bucket)** | Cooperation, competence, shared threat | PRC as partner | **None** | *The Martian* (2015), *Arrival* (2016) |
 
-**Litmus test (author):** Does the work **push the audience toward accepting a hypothetical war with China**? If yes → **CIA/MI6 camp** on this taxonomy, even when Beijing also blocks the title for unrelated scene triggers.
+**Litmus test (author):** Does the work **prepare the audience for war with China**? If **yes** → **CIA/MI6 camp** on this taxonomy, even when Beijing also blocks the title for unrelated scene triggers. If **no** → **NSA camp** (or neutral bucket) — **regardless of thematic depth or production quality**.
+
+**Not a sort key:** “Complex antibody” vs “shallow mythical” — NSA-side titles can be **extremely shallow** (*Rush Hour* buddy adventure) while still accomplishing **low war-prep** goals (Americans and Chinese **talking together**, sharing culture, on the same side).
 
 **Discipline:** Camp labels are **author interpretive taxonomy**, not declassified agency memos. **Accusation ≠ proof.**
 
@@ -79,9 +82,9 @@ This investigation extends the **two-camp interagency war** frame documented in 
 
 ## Author’s originating thesis
 
-> Much like the British divided and conquered the Middle East and set it against itself in a holy war, they also set up China for a future war with America — mostly through their colony of Hong Kong and CIA ties. There seem to be **two kinds of movies** when it comes to China: ones aligned with **NSA** grammar, where Americans call out the flaws and dangers of the Asian region in a critical way (often as sex-tourism destination coding), and **everything else** — typically more shallow, featuring an elitist Asian character and/or where China is regarded as mythical/ancient. **MI6** was more structurally tied to Hong Kong; the **CIA** also used Hong Kong heavily as a China-watching hub. China likely censors **both camps evenly**; censorship lists alone cannot sort them. The real litmus test is whether the narrative pushes us toward that hypothetical war with China.
+> Much like the British divided and conquered the Middle East and set it against itself in a holy war, they also set up China for a future war with America — mostly through their colony of Hong Kong and CIA ties. There seem to be **two kinds of movies** when it comes to China: ones that **do not prepare Americans for war with China** — whether through **regional audit** (*Dark Knight*, *24*) or **shallow cross-cultural buddy adventure** (*Rush Hour*) — and **everything else** that **does** rehearse conflict (invasion fantasy, resource-war games, mythical East as enemy terrain). **MI6** was more structurally tied to Hong Kong; the **CIA** also used Hong Kong heavily as a China-watching hub. China likely censors **both camps evenly**; censorship lists alone cannot sort them. **Depth and complexity are not indicators.** The only litmus test is whether the narrative **prepares the audience for war with China**.
 >
-> ***The Dark Knight*** is the flagship: an Asian banker funding American gangs from China, captured by Batman, **burned alive on a pile of money** by the Joker — *“Everything burns.”* Warner Bros. did not release the film in mainland China. ***Rush Hour 2***’s “Heaven on Earth” massage parlor is strongly coded as sexualized tourist fantasy. War games and movies depicting **actual US–China war** are usually **not cautionary** and fall into the **CIA/MI6** camp. NSA-aligned work tends to have **complex antibody** stories. ***The Dark Knight Rises*** was a very **typical** sequel with no comparable messaging — an instance of the **one great movie** franchise pattern.
+> ***The Dark Knight*** is the flagship: an Asian banker funding American gangs from Hong Kong, captured by Batman, held for **open-court testimony** — then **stolen from GCPD custody** by the Joker, who **extracts the mob-fund location** and **burns Lau on a pile of money** — *“Everything burns.”* Warner Bros. did not release the film in mainland China. ***Rush Hour*** (1998) may have accomplished its primary goal — Americans and Chinese **talking together**, sharing culture and adventure — **without** war rehearsal, even where the concepts were shallow. ***Rush Hour 2***’s “Heaven on Earth” massage parlor is strongly coded as sexualized tourist fantasy. War games and movies depicting **actual US–China war** are usually **not cautionary** and fall into the **CIA/MI6** camp. ***The Dark Knight Rises*** was a very **typical** sequel with no comparable messaging — an instance of the **one great movie** franchise pattern.
 
 **What the author means:** Hollywood is another front in the same **two-camp war** already tracked through *Matrix* and *Ghost War* — but the Pacific vector runs through **Hong Kong finance, tourism, and war rehearsal** rather than proxy Islam alone.
 
@@ -95,8 +98,10 @@ This investigation extends the **two-camp interagency war** frame documented in 
 |------|--------|------|
 | **Lau (Chin Han)** | CEO of Lau Security Investments; launders mob money from a **Hong Kong office**; appears on a monitor addressing Gotham crime bosses after a heist | L1 |
 | **Batman in Hong Kong** | Batman extracts Lau from a Hong Kong high-rise; Lucius Fox uses sonar to map the building; Lau is delivered to Gotham police — **extradition bypass** | L1 |
+| **Gordon holds Lau for testimony** | Lau kept in **GCPD holding cells** (not county); Gordon needs a **living witness** for **open-court testimony** to imprison the mob and **seize laundered funds** ([Wikipedia — *The Dark Knight*](https://en.wikipedia.org/wiki/The_Dark_Knight_(2008_film)); [Lau — Batman wiki](https://batman.fandom.com/wiki/Lau)) | L1 |
+| **Joker abducts Lau** | Joker **allows himself to be captured**, detonates a bomb hidden inside a detainee, **escapes GCPD with Lau**, forces Lau to **reveal mob-fund location** ([Joker — Wikipedia](https://en.wikipedia.org/wiki/Joker_(The_Dark_Knight)); [Jim Gordon — Batman wiki](https://batman.fandom.com/wiki/James_Gordon_(Nolanverse))) | L1 |
 | **Joker burns the pile** | Lau is **tied atop a pile of cash** in a warehouse; Joker douses money with gasoline; after igniting it: *“It’s not about money… it’s about sending a message. **Everything burns.**”* (screenplay attribution: [Black List Daily Dialogue](https://gointothestory.blcklst.com/daily-dialogue-january-16-2017-2522a3ecab13); [Wikiquote — *The Dark Knight*](https://en.wikiquote.org/wiki/The_Dark_Knight_(film))) | L1 |
-| **Gordon wants Lau alive** | During the burn scene on TV: *“I want Lau alive. The Joker, either way.”* | L1 |
+| **Gordon quote (post-abduction)** | While the warehouse burn airs on TV, Gordon: *“I want Lau alive. The Joker, either way.”* — **reaction after** the witness plan failed; Gordon wanted Lau alive **for testimony while in custody**, not as intent for the burn scene | L1 |
 | **“American guns” line** | Press summaries note Harvey Dent recommending **American guns over Chinese guns** as a potential censor trigger ([china.org.cn 2008](http://www.china.org.cn/culture/2008-12/25/content_17008508.htm)) | L1 (secondary summary) |
 
 ### Mainland China release (L1)
@@ -107,15 +112,26 @@ Warner Bros. **opted not to pursue a theatrical release** in mainland China, cit
 
 | Read | Tier | Notes |
 |------|------|-------|
-| **NSA antibody message** — Hong Kong finance pipeline exposed; “everything burns” as warning to **globalist** money architecture | L3 | Pairs with [NSA investigation](/governance/war/investigations/nsa-investigation.md) audit lane |
+| **NSA antibody message** — Hong Kong finance pipeline exposed; Joker **defeats Gordon’s testimony plan** by harvesting Lau’s intelligence then destroying the witness; “everything burns” as warning to **globalist** money architecture | L3 | Pairs with [NSA investigation](/governance/war/investigations/nsa-investigation.md) audit lane; **low war-prep** |
 | **Audience amnesia** — viewers remember the Joker, not **Asian banker on fire** | L3 | Reception pattern; not yet surveyed academically |
 | **2008 release → Obama election → 2011 Libya “what burns”** | L4 | See [Thread H](#thread-h--obama--2008--libya-2011-author-speculative-chain) |
 
 ---
 
-## Thread C — *Rush Hour 2*
+## Thread C — *Rush Hour* franchise (1998–2001)
 
-### Heaven on Earth (L1)
+### *Rush Hour* (1998) — buddy partnership (L1)
+
+| Element | Source |
+|---------|--------|
+| **Lee + Carter** | LAPD Detective **James Carter** (Chris Tucker) and Hong Kong Inspector **Lee** (Jackie Chan) forced into partnership; rescue Chinese consul’s daughter | [Wikipedia — *Rush Hour*](https://en.wikipedia.org/wiki/Rush_Hour_(1998_film)) |
+| **Cross-cultural adventure** | Culture-clash comedy; Americans and Chinese **in the same story**, **talking**, **identifying with each other** on a shared mission | Same |
+
+### Camp read — *Rush Hour* (L3)
+
+On the author taxonomy, *Rush Hour* (1998) is **NSA-aligned** by **war-prep litmus only** — **low** — not by depth. Concepts are **broad and often stereotyped**; primary goal may have been **cross-Pacific rapport** (buddy adventure) **without** invasion rehearsal. **Shallow ≠ CIA camp.**
+
+### *Rush Hour 2* — Heaven on Earth (L1)
 
 | Element | Source |
 |---------|--------|
@@ -124,9 +140,68 @@ Warner Bros. **opted not to pursue a theatrical release** in mainland China, cit
 | **Jackie Chan** publicly disliked the film: *“I didn’t like the movie. I still don’t like the movie.”* | [SCMP 2023](https://www.scmp.com/lifestyle/entertainment/article/3243363/why-jackie-chan-didnt-hong-kong-set-rush-hour-2-and-why-its-racism-sexism-and-chris-tuckers-bad) |
 | **Sexism / objectification** — “cheesecake prelude” before massage-parlor fight; Asian women as arm candy or service staff aside from Zhang Ziyi’s Hu Li | [Decent Films](https://decentfilms.com/reviews/rushhour2); SCMP |
 
-### Camp read (L3)
+### Camp read — *Rush Hour 2* (L3)
 
-On the author taxonomy, *Rush Hour 2* is **NSA-aligned** despite orientalist packaging: it **calls out** Hong Kong as **sex-tourism and Triad** theater — regional **audit** grammar — rather than rehearsing **PLA invasion**. Reception evidence (Chan, SCMP, Decent Films) documents **critical flaws** without proving agency authorship.
+On the author taxonomy, *Rush Hour 2* is **NSA-aligned** by **low war-prep** despite orientalist packaging: Hong Kong **sex-tourism and Triad** theater — **not** PLA invasion rehearsal. Reception evidence (Chan, SCMP, Decent Films) documents **critical flaws** without proving agency authorship. **Depth of critique is not the sort key.**
+
+---
+
+## Thread M — Stolen memory: Jackie Chan artifacts, Taiwan, tech trigger
+
+### Author thesis (verbatim capture)
+
+> Especially in Jackie Chan movies there is a **recurring plot** of **British (and Western) theft of Chinese artifacts**. This can be read as the **second camp** attempting to **enshrine** a version of Chinese history where China was **militaristic and isolated** — while the British **stole the artifacts and archives** that might prove a different past. **British control over Chinese history and memory** is what constitutes the **remote control** of China necessary for a future war. A **fully sovereign** China would never go to war with anyone; a China still **remotely controlled** through a **colonial hub** and a **false warlike ancient memory** might. The **trigger** for that war was always meant to be **technology** and the fight over **Taiwanese sovereignty** — which ties to the **exile of the Republic of China** after 1949.
+
+### Plot beats — Jackie Chan / Yuanmingyuan (L1)
+
+| Beat | Detail | Source | Tier |
+|------|--------|--------|------|
+| ***Chinese Zodiac* (CZ12, 2012)** | Prologue: **Anglo-French** forces **loot and burn** Old Summer Palace (**1860**, Second Opium War); **twelve bronze zodiac heads** stolen | [Wikipedia — *Chinese Zodiac*](https://en.wikipedia.org/wiki/Chinese_Zodiac_(film)); [Old Summer Palace bronze heads](https://en.wikipedia.org/wiki/Old_Summer_Palace_bronze_heads) | L1 |
+| **Treasure-hunt plot** | JC hired by **MP Corp** to recover heads from global auctions; students protest **sale of national treasures** | Wikipedia; [Variety review](https://variety.com/2012/film/reviews/cz12-1117948924/) | L1 |
+| **Armour of God franchise** | *Armour of God* (1986) / *Operation Condor* (1991) = **Indiana Jones** treasure hunts (African cult relics, desert gold) — **not** British-Chinese artifact theft on screen | [Wikipedia — *Armour of God*](https://en.wikipedia.org/wiki/Armour_of_God_(film)) | L1 |
+| **Franchise convergence** | CZ12 marketed as third *Armour of God* film but **quasi-reboot**; only CZ12 centers **Yuanmingyuan** looting | [HK Film review — CZ12](https://www.hkfilm.net/movrevs/2/cz12.htm); Variety | L1 |
+| **Historical looting** | French/British commissioners **catalogued and divided** palace treasures; **archives** among items taken; palace burned | [Yuanmingyuan — the looting](https://www.yuanmingyuan.eu/en/the-looting/) | L1 |
+
+**Discipline:** “Recurring British artifact theft” is **strongest in CZ12**; earlier Chan adventure films use **generic Western treasure-hunter** grammar. Do not over-claim recurrence across the whole filmography without title-by-title review.
+
+### Taiwan / technology trigger chain (L1 facts; L3 assembly)
+
+| Element | Documented fact | Source | Tier |
+|---------|-----------------|--------|------|
+| **ROC exile** | **Republic of China** government retreated to **Taiwan** after **1949** civil war; PRC claims Taiwan; ROC institutions persisted on island | [Wikipedia — Taiwan](https://en.wikipedia.org/wiki/Taiwan); [Cross-Strait relations](https://en.wikipedia.org/wiki/Cross-Strait_relations) | L1 |
+| **US ambiguity** | **Taiwan Relations Act** (1979) — unofficial relations + **defense support**; **One China** policy maintained | [Taiwan Relations Act](https://en.wikipedia.org/wiki/Taiwan_Relations_Act) | L1 |
+| **HK staging** | Author corpus: British **Hong Kong** as staging ground for schemes including **war with Taiwan** | [`z.md` § Hong Kong](/influence/controlled_opposition/z.md) | L3 (author) |
+| **Chip sovereignty** | Advanced semiconductors concentrated in **Taiwan** (**TSMC**); US–PRC **export controls** and **chip competition** since ~2018 | [Reuters — US–China chip war](https://www.reuters.com/technology/us-china-chip-war-2024/); industry press | L1–L2 |
+| **“Designed trigger”** | Technology + Taiwan status as **intended** Pacific war fuse | Author assembly | **L4** |
+
+### Second camp — mythic ancient China (rhyme to memory control)
+
+| Title | Memory / war-prep read | Camp (author) | Tier |
+|-------|------------------------|---------------|------|
+| ***Shang-Chi*** (2021) | **Mythic ancient** martial China, ten rings elitism | CIA/MI6 | L3 |
+| ***Crouching Tiger*** (2000) | **Ancient East** martial mysticism | CIA/MI6 | L3 |
+| ***Chinese Zodiac*** (2012) | **Colonial loot** + repatriation — surfaces **British/French** theft; **low** invasion rehearsal on war-prep litmus | NSA (war) / **memory** thread | L3 |
+
+**Tension:** CZ12 is **patriotic repatriation** — arguably **heals** a colonial wound rather than rehearsing invasion. Author read: it still **fixes** the **1860 trauma** in mass memory alongside **mythic ancient** templates elsewhere — both shape what “China” means before a strait crisis.
+
+### Logic validation — strengthens, weakens, open
+
+| # | Claim | Verdict | Tier | Notes |
+|---|-------|---------|------|-------|
+| V1 | Anglo-French forces **looted** Yuanmingyuan and **bronze heads** in 1860 | **Supported** | L1 | Primary + secondary histories; CZ12 prologue |
+| V2 | Looting included **archives** / cultural memory, not only objects | **Supported** | L1 | Yuanmingyuan project; Montauban memoirs on archive loss |
+| V3 | Hollywood **CIA/MI6 camp** titles sell **mythic martial ancient China** | **Supported as pattern** | L2–L3 | Catalog rows — war-prep varies title to title |
+| V4 | **Hong Kong** functioned as British **colony + intelligence China-watching hub** | **Supported** | L1–L2 | Dossier Thread A; British divide investigation |
+| V5 | **Artifact theft plots** = second camp **enshrining militaristic isolated ancient China** | **Partial** | L3 | CZ12 **condemns** looters; pairs better with **grievance + incomplete memory** than with invasion fantasy |
+| V6 | **British control of Chinese memory** = **remote control** needed for future war | **Plausible rhyme; unproven** | L3–L4 | Colonial archive control is real; **causal war link** not demonstrated |
+| V7 | **Fully sovereign China would never go to war** | **Normative / falsifiable** | L3 | PRC official “peaceful development” rhetoric vs **Taiwan reunification by force** if necessary (documented policy) |
+| V8 | **Remotely controlled** China with **false ancient war memory** **might** go to war | **Speculative** | L3–L4 | Coherent **PP** story; needs case studies beyond film |
+| V9 | War **trigger** = **technology** + **Taiwan sovereignty** + **ROC exile** | **Partially supported** | L1 (facts) / **L4** (intent) | Strait + chips are **live** policy flashpoints; **“always meant to be”** is author intent claim |
+| V10 | Jackie Chan **recurring** British artifact theft across filmography | **Weak as stated** | L1 | **CZ12 explicit**; earlier *Armour of God* films **different** plots — revise to **franchise convergence** |
+
+**Bottom line (investigator):** The **logic chain holds** as **thematic assembly** — colonial looting (L1) + mythic China packaging (L2) + unsettled Taiwan/ROC status (L1) + semiconductor chokepoint (L1–L2) → credible **war-prep geometry**. The **leaps** — British **memory remote control** as **necessary** condition, **sovereign China never wars**, **designed** tech-Taiwan fuse — stay **L3–L4** until primary documents or predictive track records close them.
+
+Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-chan.md); [Everything Burns § Stolen memory](/influence/hollywood/everything-burns.md).
 
 ---
 
@@ -137,10 +212,11 @@ On the author taxonomy, *Rush Hour 2* is **NSA-aligned** despite orientalist pac
 | Title | Year | China/HK presence | Camp (author) | War-prep | Censorship / release | Notes |
 |-------|------|-------------------|---------------|----------|----------------------|-------|
 | ***The Dark Knight*** | 2008 | HK launderer; Batman extraction | NSA | Low | **No mainland theatrical**; played HK | Anchor case — [Thread B](#thread-b--the-dark-knight-anchor-case-study) |
-| ***Rush Hour*** | 1998 | Lee from HK; LA buddy cop | NSA | Low | Released China ( era-dependent ) | Orientalist; regional critique read |
-| ***Rush Hour 2*** | 2001 | HK set; Heaven on Earth | NSA | Low | Released | [Thread C](#thread-c--rush-hour-2) |
+| ***Rush Hour*** | 1998 | Lee from HK; LA buddy cop | NSA | Low | Released China ( era-dependent ) | **Primary read:** cross-cultural partnership; shallow but **low war-prep** — [Thread C](#thread-c--rush-hour-franchise-19982001) |
+| ***Rush Hour 2*** | 2001 | HK set; Heaven on Earth | NSA | Low | Released | Orientalist; still **low war-prep** — [Thread C](#thread-c--rush-hour-franchise-19982001) |
 | ***Red Corner*** | 1997 | American businessman **wrongfully tried for murder** in Beijing; corrupt PRC legal system | NSA | Low | **Excluded** mainland (reported) | L1: [Wikipedia](https://en.wikipedia.org/wiki/Red_Corner); [Variety review](https://variety.com/1997/film/reviews/red-corner-1117329355/) |
 | ***Red Dawn*** (remake) | 2012 | **Originally PLA** invaders; swapped to NK | CIA/MI6 | **High** | Global Times backlash; NK swap | [Wikipedia](https://en.wikipedia.org/wiki/Red_Dawn_(2012_film)); [SCMP 2022](https://www.scmp.com/lifestyle/entertainment/article/3190918/bad-guys-changed-chinese-north-korean-red-dawn-remake) |
+| ***Chinese Zodiac* (CZ12)** | 2012 | Yuanmingyuan bronze heads; Anglo-French 1860 loot | NSA (war-prep) | Low | Released China | Colonial memory — [Thread M](#thread-m--stolen-memory-jackie-chan-artifacts-taiwan-tech-trigger) |
 | ***Shang-Chi and the Legend of the Ten Rings*** | 2021 | Mythic ancient China; martial elitism | CIA/MI6 | Low–med | Co-production era | Mythical/ancient shallow read |
 | ***Doctor Strange*** | 2016 | Ancient One **Tibet→Nepal** edit for China | CIA/MI6 | Low | Tibet sensitivity | Ancient mysticism bucket |
 | ***Skyfall*** | 2012 | Shanghai set piece; assassin in glass tower | CIA/MI6 | Low | Released | Glamour + violence tourism |
@@ -458,7 +534,7 @@ Cross-read [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-an
 
 **Note on GoT attribution:** In broadcast canon, **Tywin Lannister** explains Iron Bank leverage to **Cersei** (S4E05 *First of His Name*); **Tyrion** discovers crown **Iron Bank** debt as Master of Coin (S3). Author memory conflates speaker/listener; debt-collector geometry is the same.
 
-**What the author means:** Predictive programming success is **measured by outcome**, not recall. Lau and Bauer fade from conscious memory while **debt-sovereignty** and **Pacific deterrence** fears fail to materialize as catastrophe — suggesting the **antibody lane worked**. Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everything-burns.md#authors-conclusion).
+**What the author means:** Predictive programming success is **measured by outcome**, not recall. Lau and Bauer fade from conscious memory while **debt-sovereignty** and **Pacific deterrence** fears fail to materialize as catastrophe — suggesting the **low war-prep lane worked**. Shallow buddy pictures (*Rush Hour*) may have served the same function from another angle. Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everything-burns.md#authors-conclusion).
 
 ### Success metric (author — L3)
 
@@ -525,7 +601,9 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 | Q11 | ***24* Season 6** — is Fayed/Assad’s country **named** on-screen as a specific state (Iran, Syria, fictional)? | Episode transcripts; DVD subtitles |
 | Q12 | **Academic / press** treatment of *24* torture and **Muslim detention** arcs (Season 6 internment debate) | TV studies journals; *Washington Post* 2007 *24* coverage |
 | Q13 | **Subconscious retention** of Lau / Bauer beats — psych study or recall survey vs author thesis | Cognitive media studies; Q3 extension |
-| Q14 | **Debt-sovereignty** fear index 2008–2025 vs *Dark Knight* / GoT Iron Bank reception | Pew / Gallup foreign-holdings concern; treasury data |
+| Q15 | **CZ12** — does repatriation plot function as **NSA healing** or **grievance priming** for strait crisis? | Audience studies; PRC release reception |
+| Q16 | **Jackie Chan** filmography — how many titles beyond CZ12 center **Western theft of Chinese artifacts**? | Title-by-title plot review |
+| Q17 | **Taiwan + TSMC** in fiction/games 2000–2025 — war-prep catalog vs news cycle | Thread E extension; policy papers |
 
 ---
 
@@ -560,9 +638,9 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 | **British divide-and-conquer** | [/governance/war/investigations/british-divide-conquer-israel-investigation.md](/governance/war/investigations/british-divide-conquer-israel-investigation.md) | HK colony geometry |
 | **Jackie Chan** | [/influence/conspiracy/celebrities/jackie-chan.md](/influence/conspiracy/celebrities/jackie-chan.md) | HK / Beijing positioning |
 
-Keywords: #EverythingBurns #DarkKnight #Joker #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott
+Keywords: #EverythingBurns #DarkKnight #Joker #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott
 
-**Last updated:** 2026-06-19T00:00:00-04:00
+**Last updated:** 2026-06-19T18:00:00-04:00
 
 ---
 
@@ -572,7 +650,7 @@ Keywords: #EverythingBurns #DarkKnight #Joker #HeathLedger #DeNiro #CelebrityCon
 
 **Fiction vs operations:** Film plots and game campaigns are **not** proof of documented intelligence operations. Cross-links to NSA/CIA investigations are **thematic rhymes**, not closed findings.
 
-**Camp labels:** **NSA-aligned** and **CIA/MI6-aligned** are **author interpretive taxonomy** for Hollywood grammar — not claims that Warner Bros., Nolan, or Brett Ratner received agency direction.
+**Camp labels:** **NSA-aligned** and **CIA/MI6-aligned** are **author interpretive taxonomy** for Hollywood grammar — not claims that Warner Bros., Nolan, or Brett Ratner received agency direction. **War-with-China prep** is the **only** reliable sort; **depth, complexity, and orientalist packaging are not camp indicators**.
 
 **Race and representation:** Documented reception of *Rush Hour 2* (racism, sexism) is **L1/L2**; mapping those flaws to **NSA camp** is **L3** and does not excuse orientalist harm.
 
@@ -589,6 +667,8 @@ Keywords: #EverythingBurns #DarkKnight #Joker #HeathLedger #DeNiro #CelebrityCon
 **Thread J — Celebrity bridge:** Thread J is a **cross-link only**; catalogs and Beat-2 search live in [celebrity modern slavery § Hollywood speech containment](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#hollywood-celebrity-speech-containment--deniro-archetype--catalogs). **2019 Joker / De Niro calendar** reads in Thread I remain **L3–L4** where flagged.
 
 **Thread K — *24*:** Plot beats (China captivity, Audrey torture, **Day 2 CTU triple bomb**, Daniels nuclear order, Season 5 Sentox Russia conspiracy) are **L1** where Wikipedia / fandom wiki sourced. **China torture as message**, **Iran conflict prediction**, and **CTU Day 2 / Building 7 bomb rhyme** are **L3–L4** — **thematic / calendar** only. **Day 5 CTU Sentox gassing** is **L1** plot but **not** the author’s Building 7 comparison. **CTU ≠ CIA** in reality; in-universe institution only. **Torture glorification** in *24* is documented in press criticism — camp read does **not** endorse Bauer methods.
+
+**Thread M — stolen memory / Taiwan / tech:** Yuanmingyuan looting and bronze heads are **L1** where wiki / Yuanmingyuan project sourced. **British memory remote control**, **sovereign China never wars**, and **designed tech-Taiwan fuse** are **L3–L4**. **CZ12 recurrence** claim is **qualified** — only CZ12 is explicit; earlier *Armour of God* films use different treasure plots (**V10**).
 
 **Author's conclusion / Thread L — *Office* China:** Michael Scott closing toast and Iron Bank debt rhyme are **L1** where scripted / wiki sourced. **Subconscious retention**, **PP success = feared scenario did not manifest**, and **sovereignty-through-conversation** reads are **L3** — author thesis; **not** proven causation (no evidence Nolan or *Office* writers were directed by intelligence).
 
