@@ -1,8 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-17T23:51:16.631Z",
+    "date": "2026-06-18T11:21:59.378Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/hollywood/everything-burns.md",
+        "href": "/influence/hollywood/everything-burns"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md",
+        "href": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
+        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
+      },
+      {
+        "src": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png",
+        "alt": "China / Hollywood two-camp war — investigation cover"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-17T23:51:15.000Z",
+    "message": "Fix markdown sources that failed md2ast pre-parse validation.",
     "files": [
       {
         "status": "M",
@@ -1428,28 +1455,6 @@
       {
         "src": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
         "alt": "Celebrity modern slavery — contracts, containment, NDAs, and creative control"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
-        "alt": "Celebrity modern slavery — contracts, containment, NDAs, and creative control (investigation dossier)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-10T13:09:47.000Z",
-    "message": "Add Substack link to modern celebrity slavery article.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/suppression/modern-celebrity-slavery.md",
-        "href": "/influence/suppression/modern-celebrity-slavery"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery.png",
-        "alt": "Modern celebrity slavery — IP containment, ordered speech, and creative control"
       },
       {
         "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",

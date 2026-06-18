@@ -2,7 +2,7 @@
 
 ![China / Hollywood two-camp war — investigation cover](china-hollywood-two-camp-war-investigation.png)
 
-> **TL;DR:** Open dossier testing whether **NSA-aligned** vs **CIA/MI6-aligned** grammar in **China/Hong Kong** blockbuster media sorts into two camps: **complex antibody / regional audit** (*The Dark Knight*, *Rush Hour 2*, ***24***) vs **mythical-shallow China** or **direct US–China war normalization** (*Red Dawn* 2012, *Battlefield 4*, *Fallout*, etc.). **Litmus test:** does the narrative **push hypothetical war with China**? **Censorship lists do not reliably sort camps.** **Thread K — *24*:** China captivity, proxy terror, nuclear deterrent, CTU Sentox. **Thread I:** *Joker* lineage (2019 undo). **Celebrity speech catalogs** → [celebrity modern slavery § Hollywood speech containment](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#hollywood-celebrity-speech-containment--deniro-archetype--catalogs). **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md).
+> **TL;DR:** Open dossier testing whether **NSA-aligned** vs **CIA/MI6-aligned** grammar in **China/Hong Kong** blockbuster media sorts into two camps: **complex antibody / regional audit** (*The Dark Knight*, *Rush Hour 2*, ***24***) vs **mythical-shallow China** or **direct US–China war normalization** (*Red Dawn* 2012, *Battlefield 4*, *Fallout*, etc.). **Litmus test:** does the narrative **push hypothetical war with China**? **Censorship lists do not reliably sort camps.** **Thread K — *24*:** China captivity, proxy terror, nuclear deterrent, **Day 2 CTU triple bomb**. **Thread I:** *Joker* lineage (2019 undo). **Celebrity speech catalogs** → [celebrity modern slavery § Hollywood speech containment](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#hollywood-celebrity-speech-containment--deniro-archetype--catalogs). **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md).
 
 **Date:** 2026-06-17  
 **Status:** Open investigation; **reader essay published** 2026-06-17.  
@@ -158,7 +158,7 @@ On the author taxonomy, *Rush Hour 2* is **NSA-aligned** despite orientalist pac
 
 | Title | Years | China / CTU presence | Camp (author) | War-prep | Notes |
 |-------|-------|----------------------|---------------|----------|-------|
-| ***24*** | 2001–2010 (+ *Live Another Day* 2014) | Jack **~20 months** in Chinese prison (between Day 4–6); **Cheng Zhi**; **Audrey Raines** captive; **CTU LA** Sentox attack | **NSA** | Low (China) / **med–high** (Middle East deterrent) | [Thread K](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction) |
+| ***24*** | 2001–2010 (+ *Live Another Day* 2014) | Jack **~20 months** in Chinese prison (between Day 4–6); **Cheng Zhi**; **Audrey Raines** captive; **CTU LA Day 2 triple bomb** (30 dead) | **NSA** | Low (China) / **med–high** (Middle East deterrent) | [Thread K](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction) |
 
 ---
 
@@ -373,7 +373,9 @@ Cross-read [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-an
 
 ### Author thesis (verbatim capture)
 
-> ***24*** is very explicit **NSA-aligned** messaging. Between seasons, the protagonist was **captured by Chinese intelligence** and **tortured**; his significant other **Audrey Raines** followed him to China, was captured, and suffered **permanent brain damage** from **pharmaceutical torture** — all of it read as a **message** about what happens when American operators cross Beijing. The show also rehearses **proxy terrorism** and the use of **American military power as deterrent** toward state-sponsored terror — a grammar that **rhymes with the current Iran conflict** (author calendar read, not proof of foreknowledge). A separate beat destroys the **main CTU headquarters** in a **terrorist nerve-gas attack** — on this read it **reflects** the **CIA headquarters / WTC Building 7** destruction theme (thematic rhyme only; CTU is fictional).
+> ***24*** is very explicit **NSA-aligned** messaging. Between seasons, the protagonist was **captured by Chinese intelligence** and **tortured**; his significant other **Audrey Raines** followed him to China, was captured, and suffered **permanent brain damage** from **pharmaceutical torture** — all of it read as a **message** about what happens when American operators cross Beijing. The show also rehearses **proxy terrorism** and the use of **American military power as deterrent** toward state-sponsored terror — a grammar that **rhymes with the current Iran conflict** (author calendar read, not proof of foreknowledge). A separate beat hits **CTU Los Angeles** on **Day 2**: **three bombs** detonated inside the building by **anti-federalist** terrorists (**thirty killed**) — on this read it **reflects** the **WTC Building 7 / controlled demolition** theme (**bombs**, not the later Day 5 **Sentox gas** attack). Thematic rhyme only; CTU is fictional.
+
+**Correction (2026-06):** Prior draft conflated **Day 5 Sentox gassing** with the **Building 7** author rhyme; canonical comparison is **Day 2 triple bomb** per [Attacks on CTU Los Angeles](https://24.fandom.com/wiki/Attacks_on_CTU_Los_Angeles).
 
 **What the author means:** *24* is the **long-form TV counterpart** to *Dark Knight*’s Hong Kong finance burn — same **two-camp war** lane, but through **season-long deterrence arcs**, **China captivity**, and **HQ annihilation** imagery.
 
@@ -411,18 +413,30 @@ Cross-read [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-an
 
 **Author read (L3–L4):** Season 6 (**2007 broadcast**) rehearses **proxy-terror attribution** (Arab face, Russian hardware, state sponsor behind) plus **American nuclear deterrent** against a **Middle Eastern regime** — a **predictive-programming rhyme** with **2020s Iran–US escalation** (author calendar; **not** evidence writers had inside knowledge).
 
-**Cross-read:** Season 5 **Sentox conspiracy** (below) — **CIA-adjacent officials** plot **nerve-gas release on Russian soil** to invoke **treaty military clauses** and secure **Central Asian petroleum** ([Wikipedia — *24* season 5](https://en.wikipedia.org/wiki/24_season_5)). Classic **proxy / false-flag** antibody exposure grammar.
+**Cross-read:** Season 5 **Sentox conspiracy** — **CIA-adjacent officials** plot **nerve-gas release on Russian soil** to invoke **treaty military clauses** and secure **Central Asian petroleum** ([Wikipedia — *24* season 5](https://en.wikipedia.org/wiki/24_season_5)). Classic **proxy / false-flag** antibody exposure grammar. **Note:** Season 5 also features a **separate Day 5 Sentox gassing of CTU** ([Sentox attack wiki](https://24.fandom.com/wiki/Sentox_nerve_gas_attack_on_CTU_Los_Angeles)) — **not** the author’s **Building 7** bomb rhyme (that is **Day 2** below).
 
-### CTU Los Angeles destroyed (Season 5 Sentox attack) (L1 plot; L3–L4 author rhyme)
+### CTU Los Angeles bombed (Day 2) (L1 plot; L3–L4 author rhyme)
 
 | Beat | Detail | Source | Tier |
 |------|--------|--------|------|
-| **Sentox nerve gas** | **Vladimir Bierko**’s cell infiltrates **CTU Los Angeles**; releases **Sentox VX** into ventilation during lockdown | [Wikipedia — *24* season 5](https://en.wikipedia.org/wiki/24_season_5); [Sentox attack wiki](https://24.fandom.com/wiki/Sentox_nerve_gas_attack_on_CTU_Los_Angeles) | L1 |
-| **~40% personnel killed** | About **40% of CTU personnel** die (including **Edgar Stiles**, **Lynn McGill**); survivors in sealed safe rooms | Wikipedia season 5 plot summary | L1 |
-| **CTU absorbed** | Attack helps justify **CTU absorption into Homeland Security** | Wikipedia season 5 | L1 |
+| **Three bombs** | **Three bombs** placed inside **CTU Los Angeles** and detonated during evacuation | [24 Fandom — Attacks on CTU LA, Day 2 bombing](https://24.fandom.com/wiki/Attacks_on_CTU_Los_Angeles) | L1 |
+| **Casualties** | **30 killed**, **17 wounded**; building heavily damaged but CTU continues operating same day | Same | L1 |
+| **Anti-federalists** | Planned by **Joseph Wald**; executed by **Eddie Grant** and crew — **anti-federalists** targeting a **government building** | Same; *Day 2: 9:00am–10:00am* through *10:00am–11:00am* | L1 |
+| **Syed Ali timing** | **Syed Ali** set the date to **cripple CTU** during hunt for **nuclear bomb** in Los Angeles | Same; [Second Wave wiki](https://24.fandom.com/wiki/Second_Wave) | L1 |
+| **Infiltration** | Crew cut phone lines, stole **phone-company uniforms**, entered as repair workers, planted bombs | *Day 2: 10:00am–11:00am* | L1 |
+| **Nina Myers** | Building plans supplied by **Nina Myers** before capture | *Day 2: 11:00am–12:00pm* | L1 |
 | **In-universe role** | **Counter Terrorist Unit** — fictional domestic CT agency; widely treated in fandom as **CIA/FBI-adjacent** counter-terror shop ([TV IV — CTU](http://m.tviv.org/24/CTU)) | L1 (fictional institution) | L1 |
 
-**Author read (L3–L4):** **National security headquarters annihilated from within** by **terror proxy** during a **covert conspiracy** — **thematic rhyme** with **9/11 / WTC Building 7** and **CIA campus destruction** motifs in conspiracy research. **Not** a claim that *24* writers documented Building 7; **PP calendar** read only.
+**Author read (L3–L4):** **National-security headquarters hit by bombs planted inside** — **thematic rhyme** with **9/11 / WTC Building 7** controlled-demolition motifs in conspiracy research. **Not** the Day 5 **nerve-gas** CTU attack. **Not** a claim that *24* writers documented Building 7; **PP calendar** read only.
+
+### CTU Los Angeles gassed (Day 5 Sentox) — separate beat (L1; not Building 7 rhyme)
+
+| Beat | Detail | Source | Tier |
+|------|--------|--------|------|
+| **Sentox nerve gas** | **Ostroff** uses **Lynn McGill**’s key card; releases **Sentox VX** into CTU ventilation (Day 5) | [Sentox attack wiki](https://24.fandom.com/wiki/Sentox_nerve_gas_attack_on_CTU_Los_Angeles); Wikipedia season 5 | L1 |
+| **~40% personnel killed** | About **40%** of CTU personnel die (including **Edgar Stiles**, **Lynn McGill**) | Wikipedia season 5 | L1 |
+
+**Discipline:** Catalogued for completeness; **author Building 7 comparison** targets **Day 2 bombs** only.
 
 ### Camp classification summary (L3)
 
@@ -431,7 +445,7 @@ Cross-read [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-an
 | **China captivity** | Warns about **PRC reach** and cost of rogue American action — **audit**, not invasion |
 | **Proxy terror stack** | **Names** false attribution, state sponsors, Russian hardware — ** antibody exposure** |
 | **Nuclear deterrent** | Rehearses **US military escalation** as **state-terror response** — militainment deterrence lane |
-| **CTU gas attack** | **HQ destruction** as **institutional vulnerability** image — PP rhyme |
+| **CTU Day 2 bomb attack** | **HQ bombed from inside** (triple device, 30 dead) — **Building 7** bomb rhyme, not Day 5 gas |
 | **War-prep litmus** | Does **not** primarily train **US–China war**; China beat is **capture/torture**, not PLA landing |
 
 ---
@@ -548,7 +562,7 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 
 Keywords: #EverythingBurns #DarkKnight #Joker #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott
 
-**Last updated:** 2026-06-18T22:00:00-04:00
+**Last updated:** 2026-06-19T00:00:00-04:00
 
 ---
 
@@ -574,7 +588,7 @@ Keywords: #EverythingBurns #DarkKnight #Joker #HeathLedger #DeNiro #CelebrityCon
 
 **Thread J — Celebrity bridge:** Thread J is a **cross-link only**; catalogs and Beat-2 search live in [celebrity modern slavery § Hollywood speech containment](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#hollywood-celebrity-speech-containment--deniro-archetype--catalogs). **2019 Joker / De Niro calendar** reads in Thread I remain **L3–L4** where flagged.
 
-**Thread K — *24*:** Plot beats (China captivity, Audrey torture, Sentox attack, Daniels nuclear order) are **L1** where Wikipedia / fandom wiki sourced. **China torture as message**, **Iran conflict prediction**, and **CTU / Building 7 rhyme** are **L3–L4** — **thematic / calendar** only. **CTU ≠ CIA** in reality; in-universe institution only. **Torture glorification** in *24* is documented in press criticism — camp read does **not** endorse Bauer methods.
+**Thread K — *24*:** Plot beats (China captivity, Audrey torture, **Day 2 CTU triple bomb**, Daniels nuclear order, Season 5 Sentox Russia conspiracy) are **L1** where Wikipedia / fandom wiki sourced. **China torture as message**, **Iran conflict prediction**, and **CTU Day 2 / Building 7 bomb rhyme** are **L3–L4** — **thematic / calendar** only. **Day 5 CTU Sentox gassing** is **L1** plot but **not** the author’s Building 7 comparison. **CTU ≠ CIA** in reality; in-universe institution only. **Torture glorification** in *24* is documented in press criticism — camp read does **not** endorse Bauer methods.
 
 **Author's conclusion / Thread L — *Office* China:** Michael Scott closing toast and Iron Bank debt rhyme are **L1** where scripted / wiki sourced. **Subconscious retention**, **PP success = feared scenario did not manifest**, and **sovereignty-through-conversation** reads are **L3** — author thesis; **not** proven causation (no evidence Nolan or *Office* writers were directed by intelligence).
 

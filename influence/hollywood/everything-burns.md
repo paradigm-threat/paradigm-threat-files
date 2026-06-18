@@ -8,7 +8,7 @@ Predictive programming in movies — Pacific installment (*Dark Knight*, *24*, H
 
 Most people who saw *The Dark Knight* remember Heath Ledger’s Joker, the pencil trick, the hospital explosion. Few remember the **Asian banker tied to a pile of money and burned alive** while the Joker said the title line. The China-and-money beat sits inside a blockbuster everyone thinks they know. Spectacle stuck; the finance beat did not. The [China/Hollywood investigation (*Dark Knight* thread)](https://paradigmthreat.net/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md#thread-b--the-dark-knight-anchor-case-study) holds plot and press sources for the anchor scene; below — TV, the **2019** *Joker* reset, and a closing read on whether the warnings worked.
 
-> **TL;DR:** **Series installment II** — Pacific predictive programming. ***The Dark Knight* (2008)** = Lau burned on cash, *“everything burns,”* Warner skipped mainland China. ***24*** = China torture, proxy terror, nuclear deterrent, CTU Sentox. ***Joker* (2019)** undoes Ledger’s message; **2019** celebrity calendar (De Niro) ties to the containment side. **Litmus test (this lane):** does the story push war with China? [**Open investigation**](https://paradigmthreat.net/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md). **Prior:** [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) (*Matrix*).
+> **TL;DR:** **Series installment II** — Pacific predictive programming. ***The Dark Knight* (2008)** = Lau burned on cash, *“everything burns,”* Warner skipped mainland China. ***24*** = China torture, proxy terror, nuclear deterrent, **Day 2 CTU triple bomb**. ***Joker* (2019)** undoes Ledger’s message; **2019** celebrity calendar (De Niro) ties to the containment side. **Litmus test (this lane):** does the story push war with China? [**Open investigation**](https://paradigmthreat.net/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md). **Prior:** [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) (*Matrix*).
 
 ## Hong Kong extraction — beat by beat
 
@@ -42,7 +42,7 @@ Fans built montages around Ledger’s face paint. The burn line never became a p
 
 Hong Kong is where these beats land: **British colony until 1997**, MI6-structural, CIA **China-watching** hub ([`z.md` § Hong Kong](https://paradigmthreat.net/influence/controlled_opposition/z.md); [British divide-and-conquer investigation](https://paradigmthreat.net/governance/war/investigations/british-divide-conquer-israel-investigation.md)). Lau launders from a **Hong Kong office**, not a Beijing ministry. ***The Martian*** (2015) and ***Arrival*** (2016) — NASA–CNSA cooperation, shared alien threat, no war drum — sit in a neutral contrast bucket when sorting Pacific titles. Full title lists: [media catalog in the investigation](https://paradigmthreat.net/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md#thread-d--media-catalog-film--tv-working-tables).
 
-## 24 — China torture, proxy terror, and CTU burned
+## 24 — China torture, proxy terror, and CTU bombed
 
 Fox’s ***24*** (2001–2010) stretches the same Pacific warning across seasons — the longest TV beat in this installment.
 
@@ -50,7 +50,9 @@ Between **Day 4** and **Day 6**, Jack Bauer disappears for **twenty months** in 
 
 **Season 6** runs **proxy terrorism** at full volume. **Abu Fayed** bombs cities and **frames** **Hamri Al-Assad**; **Dmitri Gredenko** supplies **suitcase nukes** and **drones** with stolen **Russian parts**; one warhead **detonates in Valencia**, killing thousands — the show’s first on-screen nuclear blast ([Wikipedia — *24* season 6](https://en.wikipedia.org/wiki/24_(season_6))). VP **Noah Daniels** orders a **nuclear strike** on Fayed’s **Middle-Eastern country**, brushing off “stateless terrorist” talk and citing a regime **“known to support terrorism”** ([Noah Daniels wiki](https://24.fandom.com/wiki/Noah_Daniels); [Day 6: 7:00pm–8:00pm](https://24.fandom.com/wiki/Day_6:_7:00pm-8:00pm)). Palmer later admits part of the strike order was a **bluff** to force cooperation — deterrence as theater, not always a real launch (Wikipedia season 6 summaries). The season aired in **2007**; on a calendar read it echoes later **Iran–US** escalation — timing rhyme only, not proof anyone knew the future.
 
-**Season 5** exposed **Sentox nerve-gas** on Russian soil to trigger **treaty war clauses** and grab **Central Asian oil** — a **CIA-adjacent conspiracy** inside the plot ([Wikipedia — *24* season 5](https://en.wikipedia.org/wiki/24_season_5)). **Season 5** also **wipes out CTU Los Angeles** — **Vladimir Bierko**’s cell pumps **Sentox VX** into the vents during lockdown; about **forty percent** of staff die, including **Edgar Stiles** and **Lynn McGill**; survivors seal in safe rooms ([Wikipedia season 5](https://en.wikipedia.org/wiki/24_season_5); [Sentox attack wiki](https://24.fandom.com/wiki/Sentox_nerve_gas_attack_on_CTU_Los_Angeles)). The attack helps fold **CTU into Homeland Security** in-story. A national-security HQ **destroyed from inside** echoes **Building 7 / CIA campus** themes in conspiracy research — thematic rhyme only; the writers were not documenting Building 7.
+**Day 2** (season 2) hits **CTU Los Angeles** from the inside. **Three bombs** planted and detonated during an evacuation — **thirty employees killed**, seventeen wounded ([24 Fandom — Attacks on CTU Los Angeles, Day 2 bombing](https://24.fandom.com/wiki/Attacks_on_CTU_Los_Angeles)). **Eddie Grant** and his crew, **anti-federalists** striking a federal building, posed as phone-company workers to get in; **Joseph Wald** planned the strike; **Syed Ali** timed it to cripple CTU’s hunt for a **nuclear device** smuggled into Los Angeles (*Day 2: 10:00am–11:00am*). Bombs inside a national-security HQ — not gas in the vents — rhymes on this read with **Building 7 / controlled demolition** themes in conspiracy research (thematic only; the writers were not documenting Building 7).
+
+**Season 5** exposed a separate **Sentox nerve-gas conspiracy** on **Russian soil** to trigger **treaty war clauses** and grab **Central Asian oil** — a **CIA-adjacent plot** inside the story ([Wikipedia — *24* season 5](https://en.wikipedia.org/wiki/24_season_5)). That season later **gassed CTU** in a different attack (Day 5 ventilation Sentox); the **Building 7** comparison here targets **Day 2’s triple bomb**, not the gas beat.
 
 Episode-level sourcing: [investigation — *24* thread](https://paradigmthreat.net/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction).
 
@@ -114,7 +116,7 @@ As long as **communication channels stay open**, the China threat on screen does
 
 [**Prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md) holds that profound understanding can be encoded in popular myth, later flattened by consensus. Installment I carries the shared **two-camp war** frame; this page adds **Pacific litmus-test** reads only.
 
-**Documented on the record:** Lau plot and screenplay lines; Warner’s China skip; china.org.cn guns summary; *Red Dawn* NK swap; *Office* Ledger costumes (**Employee Transfer**, S5E6) and **China** episode closing toast (S7E10); *Game of Thrones* Iron Bank / Tywin dialogue (S4E05); Polygon / Consequence / UNO / France24 press on Joker lineage; ***24* captivity, Sentox, Daniels nuclear order**; De Niro’s public timeline.
+**Documented on the record:** Lau plot and screenplay lines; Warner’s China skip; china.org.cn guns summary; *Red Dawn* NK swap; *Office* Ledger costumes (**Employee Transfer**, S5E6) and **China** episode closing toast (S7E10); *Game of Thrones* Iron Bank / Tywin dialogue (S4E05); Polygon / Consequence / UNO / France24 press on Joker lineage; ***24* captivity, Day 2 CTU triple bomb (30 dead), Daniels nuclear order, Season 5 Sentox Russia plot**; De Niro’s public timeline.
 
 **Interpretive reads — not proven intelligence findings:** camp labels; selective audience memory; press defaulting to the **2019** *Joker*; **CTU / Building 7** and **Iran** timing echoes; **2008→Libya** calendar chain; ordered anti-Trump celebrity deployment; **author’s conclusion** — subconscious retention of forgotten plot beats, debt-sovereignty scenario **did not manifest**, and **PP success** measured by outcomes rather than recall.
 
@@ -124,7 +126,7 @@ Keywords: #EverythingBurns #PredictiveProgramming #DarkKnight #Joker #HeathLedge
 
 **Substack:** https://open.substack.com/pub/paradigmthreat2/p/everything-burns
 
-**Last updated:** 2026-06-18T23:30:00-04:00
+**Last updated:** 2026-06-19T00:00:00-04:00
 
 ---
 
