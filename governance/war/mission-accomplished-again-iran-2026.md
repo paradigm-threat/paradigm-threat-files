@@ -174,6 +174,7 @@ The West is not one nervous system; that is why one week looked like two differe
 
 ## Where next
 
+- [Iran 2026 war Q&A — mainstream / anti-Trump framing debunks](https://paradigmthreat.net/governance/war/qa/page.md) — social-thread objections (anonymized): two scoreboards, MOU vs military unwind, long CIA file
 - [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md) — dated operational spine and dual-track read
 - [CIA investigation — Iran endgame script](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md#iv-iran-nukes-shah-ayatollah-and-the-end-game-script) — evidence tiers and long thesis
 - [Iran 2026 propaganda thesis — Minab school counter-narrative](https://paradigmthreat.net/events/false_flag/investigations/iran-2026-propaganda-thesis.md) — attribution problem stated as a live hypothesis
