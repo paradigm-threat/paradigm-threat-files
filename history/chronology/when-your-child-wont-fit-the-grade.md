@@ -251,6 +251,7 @@ The goal is not cruelty toward educators. The goal is **stop forcing** children 
 
 ## Where next
 
+- [The Internet That Should Have Been](/science/computing/the-internet-that-should-have-been.md) §V — ethics-as-guardrails education, library-not-syllabus, labs irreplaceable; dossier §8.
 - [Childhood autism spectrum — full investigation](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md) — **§8.6 private speech / hyperlexia / no acknowledgment**, §2b.1 Watergate vs Tonkin, COVID §17, debunk §18
 - [Gulf of Tonkin — false-flag catalog entry](https://paradigmthreat.net/events/false_flag/investigations/20th-21st-century-catalog.md#gulf-of-tonkin-1964)
 - [Angry Birds — media filter / controlled GOP lane](https://paradigmthreat.net/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#the-national-security-thesis-media-blackmail-and-controlled-candidacies)

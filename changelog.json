@@ -1,8 +1,80 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-18T14:23:21.799Z",
+    "date": "2026-06-19T11:16:49.781Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/when-your-child-wont-fit-the-grade.md",
+        "href": "/history/chronology/when-your-child-wont-fit-the-grade"
+      },
+      {
+        "status": "M",
+        "path": "influence/stolen_credit/nintendo-sony-breakup.md",
+        "href": "/influence/stolen_credit/nintendo-sony-breakup"
+      },
+      {
+        "status": "M",
+        "path": "science/ai/ai-control-investigation.md",
+        "href": "/science/ai/ai-control-investigation"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/investigations/internet-that-should-have-been-investigation.md",
+        "href": "/science/computing/investigations/internet-that-should-have-been-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/computing/investigations/webmcp-suppressed-protocol-ai-gatekeeper-investigation.md",
+        "href": "/science/computing/investigations/webmcp-suppressed-protocol-ai-gatekeeper-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/computing/quantum-leap-of-faith.md",
+        "href": "/science/computing/quantum-leap-of-faith"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/the-internet-that-should-have-been.md",
+        "href": "/science/computing/the-internet-that-should-have-been"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/the-internet-that-should-have-been.png",
+        "href": "/science/computing/the-internet-that-should-have-been.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/computing/the-internet-that-should-have-been.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png",
+        "alt": "When your child won’t fit the grade — schooling, conformity, and parent advice"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade-warfare.png",
+        "alt": "Mass schooling and warfare — collectivist grading, factory cohorts, fear-driven compliance"
+      },
+      {
+        "src": "/science/ai/ai-takeover.png",
+        "alt": "AI takeover in fiction"
+      },
+      {
+        "src": "/science/computing/quantum-leap-of-faith.png",
+        "alt": "Quantum Leap (of faith) — article header"
+      },
+      {
+        "src": "/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
+        "alt": "Joseph Smith mystery solved — crystal-memory interpretation"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-18T14:23:20.000Z",
+    "message": "Add WebMCP suppression investigation and Iran 2026 war Q&A hub.",
     "files": [
       {
         "status": "M",
@@ -1382,81 +1454,6 @@
       {
         "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
         "alt": "Fire on the Mountain"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-12T18:27:18.000Z",
-    "message": "Add nervous-system and Cherokee Moors investigations with cross-links.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/slavery/slave-trades-and-moor-etymology-investigation.md",
-        "href": "/governance/slavery/slave-trades-and-moor-etymology-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md",
-        "href": "/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.png",
-        "href": "/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.png"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md",
-        "href": "/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
-      },
-      {
-        "status": "M",
-        "path": "page.md",
-        "href": "/page"
-      },
-      {
-        "status": "A",
-        "path": "science/biology/investigations/nervous-system-existence-skepticism-investigation.md",
-        "href": "/science/biology/investigations/nervous-system-existence-skepticism-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.png"
-      },
-      {
-        "src": "/governance/slavery/slave-trades-and-moor-etymology-investigation.png",
-        "alt": "Slave trades and Moor etymology"
-      },
-      {
-        "src": "/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png",
-        "alt": "Europe white bloodline, complexion, and whitewash — investigation header"
-      },
-      {
-        "src": "/influence/conspiracy/embedding.jpg",
-        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
-      },
-      {
-        "src": "/influence/conspiracy/scientific_truth.jpg",
-        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
-        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
-      },
-      {
-        "src": "/cosmos/mars/mars_life.jpg",
-        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
-      },
-      {
-        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
-        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
       }
     ]
   }

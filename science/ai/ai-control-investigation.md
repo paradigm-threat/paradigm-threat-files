@@ -115,6 +115,7 @@ See [microchips-shrinking-technology-investigation](../../microchips/microchips-
 
 ## 5. Connections to Other Investigations
 
+- **[The Internet That Should Have Been](/science/computing/the-internet-that-should-have-been.md)** — WebMCP, Chrome agent stack, AI hijack, courts; full dossier [here](/science/computing/investigations/internet-that-should-have-been-investigation.md)
 - **[Microchips](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation)** — AI chips depend on the same suppressed semiconductor supply chain; China cannot replicate
 - **[Predictive programming](https://paradigmthreat.net/influence/predictive_programming)** — AI fiction as managed disclosure; see PP media catalog
 - **[Yakuza remote control](https://paradigmthreat.net/governance/war/investigations/yakuza-remote-control-investigation)** — Tech containment in Japan; CD-ROM, Nintendo; parallel pattern of controlled rollout

@@ -106,6 +106,7 @@ Late-1990s Toonami (Cartoon Network) included game review segments. Creators: Ja
 
 ## Connection to Stolen Credit Thesis
 
+- **Platform containment lane:** [The Internet That Should Have Been](/science/computing/the-internet-that-should-have-been.md) §II — Nintendo CD-ROM policy, 3D/2D genre freeze, GPU treadmill; dossier §9.
 - **FF7 design origin:** FF7 was conceived for the Nintendo CD ecosystem (SNES add-on / Play Station) that never released. The game's scope and tech requirements match that planned platform.
 - **Super Mario RPG as signal:** The 1996 joint project — warm, tradition-heavy, "best of both worlds" — arrived as Square was preparing its PlayStation defection. Read as either sincere last gesture or calculated reassurance; either way, a painful artifact of the divorce.
 - **Sprite/engine schism:** Square refused to back-port to Nintendo engine; upgraded battle system in extra year; world vs. battle sprites never unified.
