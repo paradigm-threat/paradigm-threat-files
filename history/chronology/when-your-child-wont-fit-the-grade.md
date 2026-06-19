@@ -251,7 +251,9 @@ The goal is not cruelty toward educators. The goal is **stop forcing** children 
 
 ## Where next
 
-- [The Internet That Should Have Been](/science/computing/the-internet-that-should-have-been.md) §V — ethics-as-guardrails education, library-not-syllabus, labs irreplaceable; dossier §8.
+- [The Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md) §V — brief education bridge (AI gate → Installment II)  
+- [Responsibility to the Next Generation](https://paradigmthreat.net/history/chronology/responsibility-to-the-next-generation.md) — education Installment II (full ethics/QA argument)  
+- [Responsibility investigation](https://paradigmthreat.net/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md)  
 - [Childhood autism spectrum — full investigation](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md) — **§8.6 private speech / hyperlexia / no acknowledgment**, §2b.1 Watergate vs Tonkin, COVID §17, debunk §18
 - [Gulf of Tonkin — false-flag catalog entry](https://paradigmthreat.net/events/false_flag/investigations/20th-21st-century-catalog.md#gulf-of-tonkin-1964)
 - [Angry Birds — media filter / controlled GOP lane](https://paradigmthreat.net/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#the-national-security-thesis-media-blackmail-and-controlled-candidacies)
@@ -293,7 +295,7 @@ Keywords: #Autodidactic #Homeschool #SelectiveMutism #Hyperlexia #PrivateSpeech 
 
 **Substack:** [paradigmthreat2.substack.com/p/when-your-child-wont-fit-the-grade](https://paradigmthreat2.substack.com/p/when-your-child-wont-fit-the-grade)
 
-**Last updated:** 2026-05-25 (Hanyok / NSA Tonkin declassification fight; interagency-war context)
+**Last updated:** 2026-06-19 (education series link — Installment II)
 
 ---
 

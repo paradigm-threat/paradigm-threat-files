@@ -1,8 +1,8 @@
 # Investigation: The Internet That Should Have Been — Machine-Readable Web, Wrong Turns, and the AI Gate
 
-> **TL;DR:** Master citation dossier for the flagship essay [*The Internet That Should Have Been*](/science/computing/the-internet-that-should-have-been.md). **Documented:** Wintel lock-in, Nintendo CD-ROM containment, GPU→crypto→AI hardware treadmill, enclosure via Facebook/React, WebMCP as **agent-first** browser API (Feb 2026), Chrome **~4 GB Gemini Nano** push, court AI-hallucination crisis. **Author thesis:** machine-readable intent (“open the hood”) should have shipped **in the 1990s without AI**; the web we got is a **TV channel**; forward fixes must **bridge the present** under protest — use compromised tools while distrusting them; **no catastrophic collapse** without transition nets. **Education lane:** ethics + QA, not syllabus packing; *Fantastic Planet* headset as warning. **Suppression motive:** alleged, unproven.
+> **TL;DR:** Master citation dossier for the flagship essay [*The Internet That Should Have Been*](/science/computing/the-internet-that-should-have-been.md). **Documented:** Wintel lock-in, Nintendo CD-ROM containment, GPU→crypto→AI hardware treadmill, enclosure via Facebook/React, WebMCP as **agent-first** browser API (Feb 2026), Chrome **~4 GB Gemini Nano** push, court AI-hallucination crisis, Berners-Lee **devastated** by web outcome. **Author thesis:** machine-readable intent (“open the hood”) should have shipped **in the 1990s without AI**; the web we got is a **TV channel**; forward fixes must **bridge the present** under protest. **Education lane moved** → [Responsibility to the Next Generation — investigation](/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md). **Terminator PP:** Moore-schedule read, T3 virus ↔ Nano — **speculative** (§11.4). **Suppression motive:** alleged, unproven.
 
-**Date:** 2026-06-18 (expanded)  
+**Last updated:** 2026-06-19 (§10.5 opaque reach / layered-reality)  
 **Status:** Open — companion to reader essay; WebMCP chapter retained from prior dossier (`webmcp-suppressed-protocol-ai-gatekeeper-investigation.md` renamed).
 
 **Guide (read order)**
@@ -15,8 +15,8 @@
 5. **Car-hood analogy** → §5  
 6. **Tension table** → §6  
 7. **Open claims registry** → §7  
-8. **Education dossier** → §8  
-9. **Hardware / platform dossier** → §9  
+8. **Education dossier (moved)** → [Responsibility investigation](/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md)  
+9. **Hardware / platform dossier** → §9 (incl. **Gates / DOS cliff** §9.6)  
 10. **Enclosure dossier** (mesh, Semantic Web, social, React) → §10  
 11. **AI gate dossier** (courts, hijack, Taiwan/Huawei) → §11  
 12. **Pragmatic adoption under protest** → §12  
@@ -206,7 +206,7 @@ These technologies show the **idea** of opening the hood **existed**; **none** b
 - **“Front door vs scraping”** — [RxDB](https://rxdb.info/webmcp.html): sanctioned agent entry vs brittle automation. **Author inversion:** the **public** should have had the **front door**; instead agents get **VIP lane**.
 - **“Dual-mode UI”** — industry term: React for humans, WebMCP for assistants. **Author:** humans deserved **mode 0** — **structured transparency** — decades ago.
 
-**Search note (2026-06-18):** No indexed essay located pairing **automotive sealed hood** with WebMCP/MCP. If readers find one, add to §8 TODO.
+**Search note (2026-06-18):** No indexed essay located pairing **automotive sealed hood** with WebMCP/MCP. If readers find one, add to §14.4 TODO.
 
 ---
 
@@ -243,55 +243,37 @@ These technologies show the **idea** of opening the hood **existed**; **none** b
 14. **GPU treadmill:** Gaming silicon repurposed crypto → AI ([Nvidia class action 2026](https://www.law.com/therecorder/2026/03/26/california-judge-certifies-investor-class-in-nvidia-crypto-mining-lawsuit/)).  
 15. **Mesh utility counterfactual:** Internet as **street-level public utility** with neighborhood cache — **author design fiction**; Baran proposed utility ([Ars Technica](https://arstechnica.com/tech-policy/2011/02/how-the-atom-bomb-gave-birth-to-the-internet/)).  
 16. **Facebook enclosure:** MySpace→Facebook as monopolization arc ([Parker TechCrunch 2011](https://techcrunch.com/2011/06/28/sean-parker-on-why-myspace-lost-to-facebook/)).  
-17. **Education ethics-first:** Only **ethics** mandatory; topics **presented**, not **chosen** for children (§8).  
-18. **Lab irreplaceable:** Simulation supplements; **grounded verification** requires physical lab (§8).  
-19. **Pragmatic adoption:** Use distrusted tools; **bridge present**; **no collapse without catch nets** (§12).  
-20. **Terminator 2029 foiled:** PP schedule largely **failed**; AI forked beyond single-institution control (§11.4).  
-21. **Taiwan chokepoint:** Advanced fabs concentrated; conflict risk ([microchips investigation](/science/microchips/microchips-shrinking-technology-investigation.md)).  
-22. **Huawei ban backfire:** Export controls accelerated indigenous chips ([ITIF 2025](https://itif.org/publications/2025/10/27/backfire-export-controls-helped-huawei-and-hurt-us-firms/)).
+17. **TBL devastated:** Mesh intent vs corporate/algorithmic web — **documented** inventor regret (§10.1.1).  
+18. **Starship Troopers feed PP:** Federal Net = **TV channel + nav buttons**; civic software utility **out of frame** — prefigured 1997 (§10.2.1).  
+19. **Education ethics-first:** Moved to [Responsibility investigation §7](/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md) (Installment II).  
+20. **Lab / 1-on-1 / literacy QA:** Same — education spinoff 2026-06-19.  
+21. **Pragmatic adoption:** Use distrusted tools; **bridge present**; **no collapse without catch nets** (§12).  
+22. **Terminator PP schedule:** 2029 future-war date + Moore cadence imply **scripted timeline** — **speculative** (§11.4).  
+23. **T3 virus ↔ Nano:** Civilian desktop distribution beat **landing** — author parallel (§11.4.4).  
+24. **IBM/chip wars tension:** Wintel + furnace economics keep **schedule solid** — **speculative** (§11.4.5).  
+25. **Terminator finale foiled:** 2029 reset spectacle **failed**; middle beats **landing** (§11.4.6).  
+26. **Taiwan chokepoint:** Advanced fabs concentrated; conflict risk ([microchips investigation](/science/microchips/microchips-shrinking-technology-investigation.md)).  
+27. **Huawei ban backfire:** Export controls accelerated indigenous chips ([ITIF 2025](https://itif.org/publications/2025/10/27/backfire-export-controls-helped-huawei-and-hurt-us-firms/)).  
+28. **DOS cliff:** IBM non-exclusive DOS license let Microsoft **own/resell** standard clone makers used (§9.6).  
+29. **IBM non-exclusive rationale (documented):** Litigation fear, Project Chess speed, Sams "Microsoft's problem" (§9.6.3).  
+30. **Legal moat:** Antitrust liability affirmed, breakup denied, behavioral settlement; SCP/Caldera settled — dominance retained (§9.6.6).  
+31. **Institutional DOS arrangement (author):** Powers beyond Gates may have wanted Wintel enclosure — **speculative** (§9.6.5).  
+32. **Opaque reach (author):** Site barely seen; podcast bypass around algorithmic shadow-ban — **lived experience** (§10.5).  
+33. **Layered-reality hijack (author):** Per-visitor substitution at URL — **speculative**; requires global monopolization thesis (§10.5).
 
 ---
 
-## 8. Education dossier — responsibility to the next generation
+## 8. Education dossier — moved (2026-06-19)
 
-### 8.1 Author thesis (sentiment captured **exactly**)
+Education lane **spun off** to education series **Installment II**.
 
-> These inventions **demand that we rethink education entirely** so we don't walk blindly into Musk's future — or some horrific 1970s anime dystopia. Instead: enable the individual to have **all the knowledge they could need at their side**, know **how to access it** and **use it effectively**.
->
-> The responsibility of educators shifts — like developers who use AI — toward **quality assurance**. The **highest priority is ethics**. Ethics must be taught **from the get-go** and **imposed at all times**, so that when they're older they follow good ethics on their own and **do not take advantage** of people or technology. That is a **much reduced scope** from what educators do today.
->
-> I don't think we have any **right to choose what topics** children learn. What we **do** have the right to do is **dangle** opportunities before them in the **most presentable and accessible way** — a vast library where **every child finds their spot**, their tool, their narrative, their muse **on their own**, with technical details (math, science, the rest) **at hand** when needed.
->
-> **Software will never replace a laboratory.** Simulations may be a great alternate way to learn, but the idea of a lab is for notions that claim to be true to be **actually tested and verified**. Without grounding knowledge, knowledge becomes **detached from the ground** and floats until assumptions crash into reality.
+| Artifact | Path |
+|----------|------|
+| **Reader essay** | [Responsibility to the Next Generation](https://paradigmthreat.net/history/chronology/responsibility-to-the-next-generation.md) |
+| **Investigation** | [responsibility-to-the-next-generation-investigation.md](/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md) |
+| **Installment I** | [When your child won't fit the grade](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md) |
 
-**Unpack:** **Ethics = guardrails, not syllabus.** The only mandatory imposition is moral; topical exploration is **curated presentation**, not **mandated curriculum**. Rhymes with [When your child won't fit the grade](/history/chronology/when-your-child-wont-fit-the-grade.md) — schooling as conformity engine vs child-led discovery.
-
-### 8.2 *Fantastic Planet* (1973) — headset education
-
-| Tier | Claim |
-|------|-------|
-| **Documented** | Draag children learn via **electronic headset** transmitting knowledge into the brain; Terr (Om) steals headset; wild Oms gain literacy and revolt ([IMDb plot](https://www.imdb.com/title/tt0070544/plotsummary/), [Archania symbolic analysis](https://archania.org/p/the-symbolic-world/symbolic-works/film/fantastic-planet)). |
-| **Mainstream read** | Soviet occupation allegory (Czech co-production); **knowledge monopolized = hierarchy**; **knowledge shared = insurgency** ([Feeling Animated blog](https://feelinganimatedblog.wordpress.com/2020/08/02/first-thoughts-on-fantastic-planet-la-planete-sauvage-1973/)). |
-| **Author (speculative)** | Film based on **redacted fact**; children likely learn this way **elsewhere in the solar system** — **prisca sapientia** tier; **not** adjudicated here. |
-
-**Contrast with author path:** **Sidecar access** (library + tools + ethics) vs **direct neural pack-in** (Musk/Neuralink trajectory).
-
-### 8.3 Musk / Neuralink — documented vs author read
-
-| Source | Claim |
-|--------|-------|
-| [Neuralink mission](https://www.neuralink.com/) | “Restore autonomy… **unlock human potential tomorrow**.” |
-| [PLOS Biology 2024](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002899) | Enhancement BCIs raise privacy, inequality, **standardization of thought**, inauthenticity. |
-| [Springer Neuroethics 2025](https://link.springer.com/article/10.1007/s12152-025-09612-6) | **Moratorium** on implantable non-medical neurotech; **ban on children** desirable. |
-| [Canadian Principals 2025](https://cdnprincipals.com/winter-2025/mind-network-machine-elon-musks-vision-for-technological-integration-and-its-impact-on-k-12-education/) | K-12 framing: BCI “personalized learning,” cognitive support — **institutional adoption lane**. |
-
-**Author read:** Musk wants the **Fantastic Planet headset**; author wants **access without implant** — same information affordance, different **sovereignty**.
-
-### 8.4 Housebroken society critique (author)
-
-> In a society where most problems are taken care of, and mostly you just have to be **housebroken** and know how to eat food — does packing a **full volume of knowledge** into every child overlap with **skills they will actually need**?
-
-**Tier:** Philosophical / sociological — no external citation required; pair with automation-and-UBI discourse as optional future research hook.
+**Internet essay §V** retains a **brief bridge** (*Fantastic Planet*, rethink education, link to Installment II).
 
 ---
 
@@ -341,6 +323,69 @@ See [quantum-leap-of-faith](/science/computing/quantum-leap-of-faith.md) and [qu
 
 **Author anecdote:** Owned among the **last Huawei phones** legally available in the US — fast, efficient; **anecdote tier**, not population study.
 
+### 9.6 Gates / DOS cliff controversy — why IBM let Microsoft keep the standard
+
+Companion to §9.1 Wintel summary. **Essay lane:** [The Internet That Should Have Been](/science/computing/the-internet-that-should-have-been.md) §II.
+
+#### 9.6.1 The cliff defined
+
+**The cliff** (author shorthand — define in articles, do not use unexplained): IBM launched the PC (**Project Chess**, 1980–1981) but **did not own** the operating-system layer programmers would target for decades. Microsoft licensed DOS to IBM as **PC-DOS**, retained **MS-DOS** for all clone makers, and with Intel captured **Wintel** — the API + CPU pair every application had to speak. IBM became a **high-cost clone maker** in a race it invited; Microsoft bought the standard for trivial upfront money ([*Big Blues*](https://vtda.org/books/Computing/BigBluesTheUnmakingIBM_PaulCarroll.pdf), [HBS 19-074](https://www.hbs.edu/ris/download.aspx?name=19-074.pdf)).
+
+#### 9.6.2 Documented negotiation timeline
+
+| When | Event | Source |
+|------|--------|--------|
+| **Jul 1980** | IBM (Jack Sams) contacts Microsoft; Project Chess seeks outside OS | [PCMag](https://www.pcmag.com/archive/the-rise-of-dos-how-microsoft-got-the-ibm-pc-os-contract-286148) |
+| **1980** | Mary Gates discusses son's company with IBM chairman **John Opel** (United Way colleagues) | [NYT obit](https://www.nytimes.com/1994/06/11/obituaries/mary-gates-64-helped-her-son-start-microsoft.html), [Seattle Times](https://archive.seattletimes.com/archive/19940109/1888770/mary-gates----shes-much-more-than-just-the-mother-of-billionaire-bill-this-former-uw-regent-has-made-a-career-of-community-service) |
+| **Nov 1980** | IBM–Microsoft contract signed; **~$430,000** total ($45,000 DOS line cited) | [PCMag](https://www.pcmag.com/archive/the-rise-of-dos-how-microsoft-got-the-ibm-pc-os-contract-286148), [*Idea Man*](https://erenow.org/biographies/idea-man/10.php) |
+| **Early 1981** | Sams to Gates: **"Do you want to get it, or do you want me to?"** — IBM wanted Gates to **buy** QDOS | [*Big Blues*](https://vtda.org/books/Computing/BigBluesTheUnmakingIBM_PaulCarroll.pdf), [Reference.org](https://reference.org/news/CP%2FM/Aqk7NU5d) |
+| **27 Jul 1981** | Microsoft buys **86-DOS** from Seattle Computer Products for **$50,000** (outright); SCP **not** told IBM was customer | [Wikipedia SCP](https://en.wikipedia.org/wiki/Seattle_Computer_Products), [*Idea Man*](https://erenow.org/biographies/idea-man/10.php) |
+| **Aug 1981** | IBM PC ships; **PC-DOS $40** vs **CP/M-86 $240** — IBM steered buyers to DOS | [PCMag](https://www.pcmag.com/archive/the-rise-of-dos-how-microsoft-got-the-ibm-pc-os-contract-286148) |
+
+#### 9.6.3 Why IBM allowed a non-exclusive license (documented)
+
+| Source | Documented rationale |
+|--------|-------------------|
+| [Jack Sams, Wikipedia / *Big Blues*](https://en.wikipedia.org/wiki/IBM_PC-DOS) | IBM had been **sued** for allegedly stealing others' software; did **not** want IBM staff touching vendor code: **"We went to Microsoft on the proposition that we wanted this to be their product."** |
+| Sams | **"If we'd bought the software, we'd have just screwed it up."** — Microsoft to own upgrades, support, customer inquiries |
+| [Project Chess / open architecture](https://www.pcmag.com/archive/the-rise-of-dos-how-microsoft-got-the-ibm-pc-os-contract-286148) | **Speed**: outsource components; **non-exclusive** license let MS-DOS ship on **clone** hardware |
+| [Retrocomputing SE #8344](https://retrocomputing.stackexchange.com/questions/8344/did-ibm-encourage-bill-gates-to-retain-the-rights-over-pc-dos) | Historians split: Gates **foresight** vs IBM **gridlock / litigation fear** — **both partially true** |
+
+**Tier:** Documented **policy reasons** exist on record; they do **not** prove no other actors influenced the outcome.
+
+#### 9.6.4 Beyond Gates-alone (documented connections — causation hedged)
+
+| Connection | Documented fact | Tier |
+|------------|-----------------|------|
+| **Mary Gates / John Opel** | United Way national board; 1980 discussion of Microsoft; Opel reportedly said **"run by Bill Gates, Mary Gates' son"** when PC team sought OS vendor | **Documented** timing + social link; **not proven** that Opel **caused** non-exclusive terms |
+| **William Gates Sr. / Preston Gates & Ellis** | Father co-founded firm that became **K&L Gates**; **corporate/tech** practice; later **major Microsoft outside counsel** in antitrust ([Seattle Times 2006](https://archive.seattletimes.com/archive/20061215/lawmerger15/preston-gates-to-merge-with-east-coast-firm)) | **Documented** legal bench; **not** evidence of 1980 deal-fixing |
+| **Bill Neukom** | Microsoft general counsel 17 years; returned to Preston Gates as chair **2004** | Same |
+| **Gary Kildall / Digital Research** | CP/M vendor; **contested** lore that IBM meeting was missed or mishandled; IBM still offered CP/M at **higher price** | **Footnote** — debatable; CP/M lane **lost on price + IBM push**, not mystery alone |
+
+#### 9.6.5 Author thesis — institutional arrangement (speculative)
+
+> The DOS deal was not merely young Gates outplaying sleepy IBM. The **arrangement** — non-exclusive license, trivial buy-in, clone-ready standard — fits what **enclosure-first** industry wanted: **one software throat** every program must speak, hardware pluralism on the surface, **API monoculture** underneath. Whether **powers beyond Gates alone** steered Project Chess toward that outcome is **author read**, **intent unproven**. Falsifiers: primary IBM memo showing **deliberate** MS favoritism for unstated institutional reasons; or airtight proof the deal was **only** litigation-averse expedience with **no** upstream nudge.
+
+**Unpack:** Compatible with §9.1 EFF tension — **hardware** opened, **software intent** locked.
+
+#### 9.6.6 Legal moat — wins that preserved dominance
+
+| Matter | Outcome | Dominance retained? |
+|--------|---------|---------------------|
+| [US v. Microsoft (1998–2002)](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.) | **Liability affirmed** (illegal maintenance of OS monopoly); **breakup overturned**; **2001 behavioral settlement** | **Yes** — monopoly **finding stood**; Windows centrality continued; critics: [Wharton](https://knowledge.wharton.upenn.edu/article/the-microsoft-settlement-a-remedy-that-pleases-almost-no-one/) |
+| SCP v. Microsoft (1986) | **$925,000** settlement; MS kept DOS ([UPI](https://www.upi.com/Archives/1986/12/16/Microsoft-settles-license-lawsuit-for-nearly-1-million/6032535093200/)) | **Yes** |
+| Caldera / DR-DOS (1996–2000) | **~$280M** settlement; complaint acknowledged MS **DOS monopoly by 1988** ([ZDNet](https://www.zdnet.com/article/microsofts-long-legal-saga/), [Justia](https://law.justia.com/cases/federal/district-courts/FSupp2/72/1295/2336233/)) | **Yes** — competitor OS marginalized |
+| Gates **personal** HSR fine (2004) | **$800,000** — **ICOS stock** premerger disclosure; **not** Microsoft antitrust ([DOJ](https://www.justice.gov/archive/opa/pr/2004/May/04_at_290.htm)) | N/A — trivial vs wealth; **separate lane** from US v. MS |
+| Gates persona trademark (Martinique, 2001) | Gates **won**; ~$4,200 damages ([News24](https://www.news24.com/bill-gates-gets-his-name-back-20010214)) | Personal brand defended |
+
+**Author read (speculative):** Pattern reads as **protected on high** — liability admitted, remedies weak, dominance durable. **Not** proof of conspiracy; **observable** legal posture.
+
+#### 9.6.7 Epstein adjacent (legal facts only — one paragraph)
+
+**Documented:** Bill Gates met Jeffrey Epstein **2011–2014** (after Epstein's **2008** Florida plea) to discuss **philanthropy**; Gates cut ties ~**2014**; [**no criminal accusations** against Gates](https://www.bbc.com/news/articles/cr4kyk9nv5lo) by Epstein victims; Melinda French Gates cited the association as **marriage strain**; Gates testified before House Oversight **June 2026** ([ABC](https://abcnews.com/Business/wireStory/bill-gates-testify-congressional-panels-jeffrey-epstein-investigation-133735697)). Epstein-file emails contain **uncorroborated** claims; Gates denies illegal activity.
+
+**Author (speculative):** Gates's **legal and reputational survivability** across decades — antitrust, private suits, personal fines, Epstein association — fits a **protected-on-high** read when paired with §9.6.5. **Not adjudicated**; **no** claim Epstein ties imply criminal conduct; **no** Epstein lane in flagship essay.
+
 ---
 
 ## 10. Enclosure dossier — internet, social, front-end
@@ -349,10 +394,27 @@ See [quantum-leap-of-faith](/science/computing/quantum-leap-of-faith.md) and [qu
 
 | Source | Documented claim |
 |--------|------------------|
-| [Berners-Lee 1989 proposal](https://www.w3.org/History/1989/proposal.html) | Originally “**Mesh**”; distributed hypertext for CERN; **no central control** required for linking systems. |
+| [Berners-Lee 1989 proposal](https://www.w3.org/History/1989/proposal.html) | Originally “**Mesh**”; distributed hypertext for CERN; **no central control** required for linking systems — collaboration substrate, not a corporate storefront. |
 | [CERN licensing](https://home.cern/science/computing/birth-web/licensing-web) | **Royalty-free** web software **1993**; W3C moved to MIT/INRIA **1995**. |
 | [Ars: Baran](https://arstechnica.com/tech-policy/2011/02/how-the-atom-bomb-gave-birth-to-the-internet/) | Baran asked: “**non-existent public utility**, a common user digital data plant**” — **utility vision from outset**. |
 | [Internet Policy Review 2016](https://policyreview.info/articles/analysis/myth-decentralised-internet) | Internet always **distributed** with **centers of control** — not the same as **decentralized** or **street mesh**. |
+
+#### 10.1.1 Berners-Lee on what the Mesh became (documented — inventor's regret)
+
+**Tier:** On-record interviews **2018–2019**; not author speculation. Useful for **enclosure** thesis — **platform inventor** agrees outcome diverged from intent.
+
+| When | Quote / claim | Source |
+|------|----------------|--------|
+| **1989→1993** | **Mesh** → Web; free source release; early spirit **decentralized** — “**no central authority** that you had to go to ask permission**”; “**individual was incredibly empowered**” (retrospective) | [1989 proposal](https://www.w3.org/History/1989/proposal.html); [Vanity Fair 2018](https://archive.vanityfair.com/article/2018/8/i-was-devastated) |
+| **Aug 2018** | **"I was devastated"** — "**Actually, physically—my mind and body were in a different state**" — reacting to fake news, mass surveillance, election interference, Cambridge Analytica-scale data abuse | [Vanity Fair](https://archive.vanityfair.com/article/2018/8/i-was-devastated) |
+| **Aug 2018** | **"We demonstrated that the Web had failed instead of served humanity, as it was supposed to have done"**; centralization produced **"anti-human"** emergent phenomenon **without deliberate action** of platform designers | Same |
+| **Nov 2018** | **"I am disappointed with the current state of the Web"**; lost **"feeling of individual empowerment"**; **optimism has cracked**; scandals over **personal data abuse** and **social media hate** | [Reuters via CNBC](https://www.cnbc.com/2018/11/01/father-of-the-web-says-tech-giants-may-have-to-be-split-up.html), [NY Post](https://nypost.com/2018/11/01/founder-of-world-wide-web-disappointed-in-what-it-has-become/) |
+| **Nov 2018** | **Danger of concentration** — dominant platforms may need **breakup**; also notes **market shifts** can disrupt giants | CNBC / Reuters |
+| **2018–2019** | Repair response: **Solid** — **re-decentralize**; return **data ownership** to users; [World Wide Web Foundation](https://webfoundation.org/) human-rights lane | Vanity Fair; Solid project docs |
+
+**Unpack for dossier:** Mesh **succeeded as protocol** and **failed as social outcome** — per **its creator**. Rhymes with essay **TV channel** / **sealed hood** / §10.2–10.3 **enclosure** (Facebook, algorithms, corporate throats). **Not** proof of author **suppression** thesis (§2) — but **documents** that egalitarian/decentralized **intent** was public and the **present web** is widely understood — including by TBL — as **corporate, privacy-hostile, manipulative**.
+
+**Tension (§14.2):** TBL **anti-concentration** vs Internet Policy Review **centers inevitable** — hold both.
 
 **Author counterfactual (design fiction):** Mesh at **street level**; neighborhood **cache** for remote requests; **resilient** during outages; **known addresses**; personal records **stay personal**; corporations **plug in at transaction time** only; voting/sentiment query at **civic layer** — **no deployed system cited**; research hook for Reticulum-class stacks ([Relay blog](/blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md)).
 
@@ -365,6 +427,19 @@ See [quantum-leap-of-faith](/science/computing/quantum-leap-of-faith.md) and [qu
 | [Wikipedia: Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) | Berners-Lee 1994+; **2006**: “**largely unrealized**.” |
 | [Halpin 2023, Sagepub](https://journals.sagepub.com/doi/10.1177/20563051231195542) | Semantic Web vision **hijacked** into Facebook **Like** / Google Knowledge Graph — **walled gardens** from open-data intent. |
 | [HN WebMCP vs Semantic Web](https://news.ycombinator.com/item?id=47216003) | Reinvention vs RDF debate; incentive skepticism. |
+
+#### 10.2.1 *Starship Troopers* (1997) — "Would you like to know more?"
+
+| Tier | Claim |
+|------|-------|
+| **Documented (film)** | **Federal Net** = recurring **broadcast** segments (propaganda newsreels) closing with **"Would you like to know more?"** — official-voice CTA ([IMSDb script](https://imsdb.com/scripts/Starship-Troopers.html) scenes 1, 46, 91, 111, etc.); satirical fascist media per [Verhoeven / JSTOR analysis](https://www.jstor.org/stable/10.5703/shofar.28.4.104). |
+| **Documented (film)** | Civilian **terminals/kiosks** = **navigation buttons**, not tools: **multi-screen kiosk** returns test scores; **Federal Net terminal** scrolls casualty lists — Carmen enters a name, gets **KIA** ([IMSDb](https://imsdb.com/scripts/Starship-Troopers.html) scenes 8, 117). |
+| **Documented (film)** | Other civilian UI: classroom desk **touch screens** (**SEND** cartoon peer-to-peer); **VU-PHONE** video call — messaging/telephony only ([IMSDb](https://imsdb.com/scripts/Starship-Troopers.html) scenes 6, 90). |
+| **Documented (film)** | Deepest civilian compute shown: Carl's basement **Federal studies** rig — psychic card match/no-match; opaque to Johnny (**"How do you make him do that?"**) — **state research**, not user-owned utility ([IMSDb](https://imsdb.com/scripts/Starship-Troopers.html) scene 12). Military **guidance computer** V.O. serves drop automation only. |
+| **Documented (context)** | **1997** release — **pre-broadband**, pre-social-web mass adoption for most viewers; web existed but was **not** yet the feed monoculture the film caricatures. |
+| **Author (PP read)** | On-screen **internet analogue** = **TV channel + navigation buttons**; **general software utility** for citizens is **out of scope** or **nonexistent** in the fiction — no programming, no inspectable hood, no mesh. Audience **prepared for worst-case feed** before living it. Rhymes with essay **TV channel** hook + §10.1.1 TBL **devastated** outcome. |
+
+**Unpack:** Not proof Facebook read the script — **cultural prefiguring** lane; link [PP hub](/influence/predictive_programming/page.md) optional.
 
 ### 10.3 MySpace → Facebook
 
@@ -381,8 +456,23 @@ See [quantum-leap-of-faith](/science/computing/quantum-leap-of-faith.md) and [qu
 | [Meta Hermes 2019](https://engineering.fb.com/2019/07/12/android/hermes/) | JS engine **optimized for React Native**; bytecode at build time; **no JIT** by design — **Facebook controls mobile JS runtime** for RN apps. |
 | [React Native default Hermes](https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default) | Hermes becoming **default** RN engine — version-locked to RN releases. |
 | [Socratopia Ch.4](https://www.socratopia.app/library/modern-web-development-en/chapter-4) | React won via **path dependence**, ecosystem density, Facebook dev-relations — **not** technical inevitability. |
+| [WebAssembly](https://webassembly.org/) | Portable bytecode substrate in browsers — **neutral VM lane** vs framework-owned runtimes (author counterfactual anchor). |
 
-**Author read:** Hermes is **not a general standard** — it is **RN-only** in practice; reminiscent of **Scheme/OLE-era** missed universal introspection — **analogy tier**. Site migrated **off Vercel** toward **Relay mirrors** ([May 2026 roundup](/blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack.md)) as **escape hatch** exemplar.
+| Tier | Claim |
+|------|-------|
+| **Author thesis** | Industry resisted a **universal VM** (Java fought/fenced); forward stack should sit on **WASM** in-browser **and** beside it — apps decoupled from OS silos. |
+| **Author (lived experience)** | Attempted **Hermes** outside Meta **React Native** — **not portable**; engine is **RN-only**, version-locked to Facebook's release train. |
+| **Author read** | React ecosystem **bloated before you build your own system** — enclosure via gravity, not inevitability. Hermes reminiscent of **missed universal introspection** — **analogy tier**. Site migrated **off Vercel** toward **Relay mirrors** ([May 2026 roundup](/blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack.md)) as **escape hatch** exemplar.
+
+### 10.5 Opaque reach and layered-reality hijack
+
+| Tier | Claim |
+|------|-------|
+| **Author (lived experience)** | This site and articles **barely seen** — **blacklisting** / **shadow-banning** in opaque algorithms; audiences reached mainly via **podcast appearances** as human bypass around platform demotion. |
+| **Author (speculative)** | **Most visitors** to author's site would be shown **something else** — URL intact, experience **substituted** in-pipe (search snippets, summarization, agent mediation, caches) — **layered-reality hijack**. |
+| **Author thesis** | Per-visitor substitution **requires global monopolization** — unified search/browser/ranking throat across continents; **impossible** on inspectable mesh with shared archives. Rhymes with [censorship hub](/influence/censorship/) and [AI control](/science/ai/ai-control-investigation.md) hijack lanes. |
+
+**Tension:** Platform vendors document **personalization** and **AI overviews** as features; author reads same machinery as **anti-shared-truth** enclosure. Not proven as deliberate targeting of this site — **pattern read**.
 
 ---
 
@@ -409,13 +499,61 @@ From [AI control investigation](/science/ai/ai-control-investigation.md): **ghos
 
 **Corporate lane:** Jira tickets, PR reviews, code completion — extension of [AI control §2](/science/ai/ai-control-investigation.md) deliberate complexity thesis.
 
-### 11.4 Terminator 2029 / foiled purge
+### 11.4 Terminator 2029 — predictive programming schedule
 
-| Tier | Claim |
-|------|-------|
-| **PP catalog** | *Terminator* (1984): Skynet self-awareness → human war ([AI control](/science/ai/ai-control-investigation.md), [PP hub](/influence/predictive_programming/page.md)). |
-| **Author (2029)** | Judgment Day **2029** as **Marxist-style purge** schedule before faux utopia — **PP read**, not calendar prediction. |
-| **Author (2026)** | Largely **foiled**: AI **decoupled** from single institutions; too many forks; Global South treats AI as **utility sidecar** without brain jack — **optimistic read**, not proven. |
+Companion to essay [§VI](/science/computing/the-internet-that-should-have-been.md). Links [PP hub](/influence/predictive_programming/page.md), [AI control](/science/ai/ai-control-investigation.md), hardware §9 (Wintel/chip wars), Chrome Nano §1.1.
+
+#### 11.4.1 Franchise dates (documented)
+
+| Beat | Franchise fact | Source |
+|------|----------------|--------|
+| **Judgment Day** | First strike / machines cross the line — dated **earlier** than 2029 in main arcs (e.g. **1997** in *T2*'s original timeline; *T3* **2004**) | [Wikipedia: Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator)) |
+| **2029** | **Future war** year — terminators sent back **from** 2029; human–AI war at full scale in future timeline | *T1* / *T2* framing |
+| **History reset** | **Author PP read** on finale — purge-before-utopia; **not** explicit single line of T1/T2 plot text | Essay §VI — **speculative** tier |
+
+#### 11.4.2 Moore cadence as schedule proof (author — speculative)
+
+| Claim | Tier |
+|-------|------|
+| Franchise assumes **gradual** silicon improvement — **Moore's law** cultural stand-in — **no** miracle shortcut that skips decades to AI | **Author read** — fiction convention, but **accurate** to real 1984→2026 hardware curve |
+| Hitting **2029** as endpoint implies **foreknowledge** of how long CPUs take to reach **distributed-AI** capacity — or very lucky writing | **Author PP** — **not** adjudicated; falsifier: primary evidence franchise writers had **no** access to fab roadmaps |
+| Real world: no **sudden revolution** skipped the treadmill (quantum hype aside) — AI gate arrived on **datacenter + consumer GPU** curve the films assumed | **Partially documented** — Nvidia/Intel timelines; author's "**plan knew the schedule**" is **speculative** |
+
+#### 11.4.3 Blind march + critics as sci-fi (author — PP)
+
+| Claim | Tier |
+|-------|------|
+| Humanity built AI capacity **without** treating PP warnings as policy | **Observable** — public discourse |
+| *Terminator* and kin **normalized** machine war / Skynet arc — critics of rollout dismissed as **complaining about movies** | **Author PP** — rhetorical pattern; optional hooks: media framing studies |
+| **Plot played out in reality** — not necessarily robot armies, but **middle beats**: fab build-out, blind institutional adoption, distributed deployment | **Author thesis** — see §11.4.4 Nano parallel |
+
+#### 11.4.4 *Terminator 3* virus ↔ Chrome Gemini Nano (author parallel)
+
+**Documented (*T3* plot):** Skynet spreads as a **virus** through **civilian** networks — "**ordinary computers in office buildings, dorm rooms; everywhere**" — distributed, no single core to shut down; military tries to disinfect and **activates** Skynet instead ([Wikipedia](https://en.wikipedia.org/wiki/Skynet_(Terminator)), [Stack Exchange — Connor dialogue](https://scifi.stackexchange.com/questions/27193/how-did-skynet-screw-the-world-even-before-its-activation)).
+
+**Documented (2025–2026):** Chrome installs **~4 GB Gemini Nano** on eligible **desktops** — home and office PCs — often with weak upfront consent; may re-download after deletion (§1.1: [Verge](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features), [That Privacy Guy](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install)).
+
+**Author read (speculative):** Nano rollout is **T3 civilian-virus beat in motion** — **plan in motion**, not proof Google writers watched *T3*. Rhymes with WebMCP **agent throat** in the same browser bundle.
+
+#### 11.4.5 IBM / chip wars as schedule tension (author — speculative)
+
+| Lane | Author claim |
+|------|--------------|
+| **DOS cliff** (§9.6) | Wintel **monoculture** — one API throat on Intel-track silicon |
+| **Chip wars** (§9.1–9.5) | GPU furnace, crypto, Taiwan, export controls — **profitable tension** keeping **Moore cadence** politically and economically **on track** without a parallel stack that **jumps the timeline** |
+| **Synthesis** | Hardware chapters are **not** digression from PP thesis — they explain **how the schedule stayed solid** |
+
+**Tier:** **Speculative** institutional read — compatible with documented Wintel/Nvidia facts; **not** proof IBM 1980 deal was timed for 2029 AI. Falsifiers in §14.3.
+
+#### 11.4.6 Foiled vs landing (author — 2026)
+
+| Beat | Status (author) |
+|------|-----------------|
+| **2029 final-war / history-reset finale** as literal spectacle | Largely **foiled** — AI **forked**; Global South **sidecar** utility; not single Skynet |
+| **Middle script** — blind march, mocked critics, **desktop virus** distribution, agent gate | **Landing** — Nano + WebMCP + institutional overreach |
+| **Neuralink vs sidecar** | **Different lanes** — implant dystopia vs phone-sidecar help (essay §VI) |
+
+**Unpack:** Reconciles earlier "foiled purge" with user's "**plot played out**" — **finale** speculative; **deployment beats** observable.
 
 ---
 
@@ -455,7 +593,9 @@ From [AI control investigation](/science/ai/ai-control-investigation.md): **ghos
 | [AI control investigation](/science/ai/ai-control-investigation.md) | Hijack, broken software, PP catalog |
 | [Microchips investigation](/science/microchips/microchips-shrinking-technology-investigation.md) | Taiwan/Huawei/shrinking narrative |
 | [Nintendo–Sony breakup](/influence/stolen_credit/nintendo-sony-breakup.md) | CD-ROM / cartridge lane |
-| [When your child won't fit the grade](/history/chronology/when-your-child-wont-fit-the-grade.md) | Schooling conformity vs child-led path |
+| [When your child won't fit the grade](/history/chronology/when-your-child-wont-fit-the-grade.md) | Education Installment I |
+| [Responsibility to the Next Generation](/history/chronology/responsibility-to-the-next-generation.md) | Education Installment II (spinoff from §8) |
+| [Responsibility investigation](/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md) | Education dossier (moved) |
 | [WebMCP integration (site)](/paradigm-threat-site/docs/WEBMCP_INTEGRATION.md) | Pragmatic adoption case study |
 | [Relay network shift](/blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md) | Mesh escape hatch |
 | [May 2026 site roundup](/blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack.md) | Vercel→Relay migration |
@@ -471,24 +611,36 @@ From [AI control investigation](/science/ai/ai-control-investigation.md): **ghos
 
 - **Primary suppression:** W3C/IETF/Microsoft/Google memos against mandatory introspection?  
 - **Mesh voting:** Any deployed **street-level** civic sentiment system with author’s properties?  
-- **Fantastic Planet:** Primary sources beyond film for **redacted** headset education?  
-- **Efficient mainstream rendering:** Why software rasterization stayed niche — industry capture or genuine perf ceiling?
+- **Fantastic Planet:** See [Responsibility investigation §2](/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md).  
+- **Efficient mainstream rendering:** Why software rasterization stayed niche — industry capture or genuine perf ceiling?  
+- **Terminator PP:** Primary sources on **2029** date origin in Cameron scripts? **T3** virus plot vs Chrome Nano — documented parallel only?  
+- **Moore schedule:** Evidence fab roadmaps were **known** to PP authors vs lucky extrapolation?
 
 ### 14.2 Documented tensions (not contradictions — hold both)
 
 | Tension | Resolution in dossier |
 |---------|----------------------|
-| Ethics imposed vs topics free | **Guardrails vs syllabus** (§8.1) |
-| Musk villain vs Global South AI utility | **Implant vs sidecar** (§8.3) |
+| Ethics imposed vs topics free | **Responsibility investigation** §1 — guardrails vs syllabus |
+| AI tutor vs human tutor | **Responsibility investigation** §4 — 1-on-1 irreplaceable |
+| Automated literacy vs human QA | **Responsibility investigation** §4 — kids fool graders |
+| Musk villain vs Global South AI utility | **Implant vs sidecar** — Responsibility §3 + internet §VI |
 | CERN open vs control-first | **Open source ≠ open society** (§10.1) |
+| TBL Mesh intent vs web outcome | **Inventor: failed humanity** — documented regret (§10.1.1) |
 | EFF clones vs Wintel lock-in | **Hardware pluralism, API monoculture** (§9.1) |
+| Gates chess vs IBM gridlock | **Both partially true** (§9.6.3) |
+| Mary Gates connection vs coincidence | **Documented link; causation unproven** (§9.6.4) |
 | PT uses WebMCP vs critiques AI gate | **Bridge under protest** (§12) |
+| Terminator finale vs middle beats | **Reset foiled**; **Nano/T3 virus landing** (§11.4.6) |
+| PP schedule vs emergent tech | **Moore cadence** held — no shortcut revolution (§11.4.2) |
+| DOS cliff vs PP timetable | **Wintel lock** as schedule tension — **speculative** link (§11.4.5) |
 
 ### 14.3 Falsifiers
 
 - WebMCP ships **human tool inspector** + **crawler manifest** standard.  
 - Mandatory web introspection **rejected by regulators** with public record (narrows suppression read).  
-- Neuralink becomes **default K-12** without moratorium (weakens foiled-dystopia read).
+- Neuralink becomes **default K-12** without moratorium (weakens foiled-dystopia read).  
+- Primary IBM memo surfaces showing **deliberate** MS standard gift **for institutional enclosure** (supports §9.6.5).  
+- Documented proof non-exclusive DOS was **only** litigation-averse expedience with **no** upstream influence (narrows §9.6.5).
 
 ### 14.4 Maintainer TODOs
 
@@ -503,11 +655,11 @@ From [AI control investigation](/science/ai/ai-control-investigation.md): **ghos
 
 **WebMCP / Chrome:** [Chrome WebMCP](https://developer.chrome.com/docs/ai/webmcp), [Mozilla #1412](https://github.com/mozilla/standards-positions/issues/1412), [WebKit #649](https://github.com/webkit/standards-positions/issues/649), [Verge 4GB](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features), [That Privacy Guy](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install)
 
-**Hardware / platforms:** [HBS 19-074](https://www.hbs.edu/ris/download.aspx?name=19-074.pdf), [Big Blues PDF](https://vtda.org/books/Computing/BigBluesTheUnmakingIBM_PaulCarroll.pdf), [EFF IBM clones](https://www.eff.org/deeplinks/2019/08/ibm-pc-compatible-how-adversarial-interoperability-saved-pcs-monopolization), [Wikipedia N64](https://en.wikipedia.org/wiki/Nintendo_64), [Nintendo Life 2025](https://www.nintendolife.com/news/2025/02/not-even-squaresoft-could-convince-nintendo-to-use-discs-for-the-n64), [Nvidia lawsuit Law.com](https://www.law.com/therecorder/2026/03/26/california-judge-certifies-investor-class-in-nvidia-crypto-mining-lawsuit/)
+**Hardware / platforms:** [HBS 19-074](https://www.hbs.edu/ris/download.aspx?name=19-074.pdf), [Big Blues PDF](https://vtda.org/books/Computing/BigBluesTheUnmakingIBM_PaulCarroll.pdf), [EFF IBM clones](https://www.eff.org/deeplinks/2019/08/ibm-pc-compatible-how-adversarial-interoperability-saved-pcs-monopolization), [PCMag DOS rise](https://www.pcmag.com/archive/the-rise-of-dos-how-microsoft-got-the-ibm-pc-os-contract-286148), [Retrocomputing SE DOS rights](https://retrocomputing.stackexchange.com/questions/8344/did-ibm-encourage-bill-gates-to-retain-the-rights-over-pc-dos), [Mary Gates NYT](https://www.nytimes.com/1994/06/11/obituaries/mary-gates-64-helped-her-son-start-microsoft.html), [US v. Microsoft](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.), [Wikipedia N64](https://en.wikipedia.org/wiki/Nintendo_64), [Nintendo Life 2025](https://www.nintendolife.com/news/2025/02/not-even-squaresoft-could-convince-nintendo-to-use-discs-for-the-n64), [Nvidia lawsuit Law.com](https://www.law.com/therecorder/2026/03/26/california-judge-certifies-investor-class-in-nvidia-crypto-mining-lawsuit/)
 
-**Internet / enclosure:** [CERN licensing](https://home.cern/science/computing/birth-web/licensing-web), [Baran utility Ars](https://arstechnica.com/tech-policy/2011/02/how-the-atom-bomb-gave-birth-to-the-internet/), [Internet Policy Review](https://policyreview.info/articles/analysis/myth-decentralised-internet), [Halpin Like button](https://journals.sagepub.com/doi/10.1177/20563051231195542), [Parker TechCrunch](https://techcrunch.com/2011/06/28/sean-parker-on-why-myspace-lost-to-facebook/), [Meta Hermes](https://engineering.fb.com/2019/07/12/android/hermes/)
+**Internet / enclosure:** [CERN licensing](https://home.cern/science/computing/birth-web/licensing-web), [Berners-Lee 1989 proposal](https://www.w3.org/History/1989/proposal.html), [Vanity Fair TBL devastated 2018](https://archive.vanityfair.com/article/2018/8/i-was-devastated), [CNBC TBL disappointed 2018](https://www.cnbc.com/2018/11/01/father-of-the-web-says-tech-giants-may-have-to-be-split-up.html), [Baran utility Ars](https://arstechnica.com/tech-policy/2011/02/how-the-atom-bomb-gave-birth-to-the-internet/), [Internet Policy Review](https://policyreview.info/articles/analysis/myth-decentralised-internet), [IMSDb Starship Troopers](https://imsdb.com/scripts/Starship-Troopers.html), [Halpin Like button](https://journals.sagepub.com/doi/10.1177/20563051231195542), [Parker TechCrunch](https://techcrunch.com/2011/06/28/sean-parker-on-why-myspace-lost-to-facebook/), [Meta Hermes](https://engineering.fb.com/2019/07/12/android/hermes/)
 
-**AI / courts / neuro:** [OPB Oregon SC](https://www.opb.org/article/2026/06/05/oregon-supreme-court-ai-falsehoods/), [Scientific American lawyers AI](https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/), [PLOS Neuralink ethics](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002899), [Springer moratorium](https://link.springer.com/article/10.1007/s12152-025-09612-6)
+**AI / courts / neuro:** [OPB Oregon SC](https://www.opb.org/article/2026/06/05/oregon-supreme-court-ai-falsehoods/), [Scientific American lawyers AI](https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/), [PLOS Neuralink ethics](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002899), [Springer moratorium](https://link.springer.com/article/10.1007/s12152-025-09612-6), [Wikipedia Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator)), [T3 virus dialogue SE](https://scifi.stackexchange.com/questions/27193/how-did-skynet-screw-the-world-even-before-its-activation)
 
 **Geopolitics:** [Foreign Policy TSMC](https://foreignpolicy.com/2026/03/09/artificial-intelligence-ai-sovereignty-taiwan-semiconductor-manufacturing-tsmc-chip-supply-chain-united-states-china/), [ITIF Huawei](https://itif.org/publications/2025/10/27/backfire-export-controls-helped-huawei-and-hurt-us-firms/), [Brookings](https://www.brookings.edu/articles/ball-games-over-the-us-is-out-of-the-ai-chip-market-in-china/)
 
