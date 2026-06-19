@@ -1,8 +1,10 @@
 # The Internet That Should Have Been
 
-The web was supposed to be a workshop. We got a TV channel — and a sealed hood only the dealership technician may open. *Starship Troopers* (1997) previewed that reduction while most ticket-buyers still barely used the real internet: the **Federal Network** is a broadcast newsreel plus **navigation buttons** — score kiosks, casualty terminals, **"Would you like to know more?"** — with **no civic software utility** shown beyond that pair ([§III](#iii-the-internet-that-wasnt--utility-mesh-enclosure)).
+Machine-Readable Web, Wrong Turns, and the AI Gate
 
 ![The Internet That Should Have Been — article header](the-internet-that-should-have-been.png)
+
+The web was supposed to be a workshop. We got a TV channel — and a sealed hood only the dealership technician may open. *Starship Troopers* (1997) previewed that reduction while most ticket-buyers still barely used the real internet: the **Federal Network** is a broadcast newsreel plus **navigation buttons** — score kiosks, casualty terminals, **"Would you like to know more?"** — with **no civic software utility** shown beyond that pair ([§III](#iii-the-internet-that-wasnt--utility-mesh-enclosure)).
 
 **Imagine a car** — not the one in your driveway, but the one the software industry sold you. The hood is sealed. You may drive, wash, and admire the paint. If you want to know what the engine actually does — which procedures run, which parameters matter, what comes back before anything pretties it up for display — you call the manufacturer's technician. They unlock the panel remotely. You never learn the craft yourself. **That is the internet in 2026**, now that **WebMCP** and Chrome's **agent stack** are arriving together: websites may finally **declare** their procedures, parameters, and responses in a machine-readable contract — but the **primary customer** is the **browser vendor's AI agent**, not you. The capability should have been standard in the **1990s**, without waiting for local large language models, multi-gigabyte on-device weights, or a GPU furnace on your desk. We are getting the **right idea** on the **wrong timeline**, for the **wrong principal**.
 
@@ -148,7 +150,9 @@ This essay states **author-originating** counterfactuals alongside **documented*
 
 Keywords: #InternetThatShouldHaveBeen #WebMCP #OpenHood #Education #Ethics #PragmaticAdoption #ParadigmThreatFiles
 
-**Last updated:** 2026-06-19 (opaque reach / layered-reality §III–IV)
+**Substack:** [paradigmthreat2.substack.com/p/the-internet-that-should-have-been](https://open.substack.com/pub/paradigmthreat2/p/the-internet-that-should-have-been)
+
+**Last updated:** 2026-06-19 (subtitle, Substack link)
 
 ---
 

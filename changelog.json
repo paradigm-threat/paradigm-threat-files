@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-19T12:28:52.977Z",
+    "date": "2026-06-19T12:39:44.545Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/computing/the-internet-that-should-have-been.md",
+        "href": "/science/computing/the-internet-that-should-have-been"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/computing/the-internet-that-should-have-been.png",
+        "alt": "The Internet That Should Have Been — article header"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-19T12:28:50.000Z",
+    "message": "Expand Internet That Should Have Been essay and spin off education Installment II.",
     "files": [
       {
         "status": "M",
@@ -1341,111 +1359,6 @@
       {
         "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
         "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-14T13:49:07.000Z",
-    "message": "Publish Not Like This Matrix containment reader essay.",
-    "files": [
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/not-like-this.md",
-        "href": "/influence/controlled_opposition/not-like-this"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/page.md",
-        "href": "/influence/controlled_opposition"
-      },
-      {
-        "status": "M",
-        "path": "influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md",
-        "href": "/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.png",
-        "href": "/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.png"
-      },
-      {
-        "status": "M",
-        "path": "influence/predictive_programming/page.md",
-        "href": "/influence/predictive_programming"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/controlled_resistance.jpg",
-        "alt": "Controlled resistance — manufactured dissent that looks like real opposition"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
-        "alt": "9/11 predictive programming — media rehearsal before the public event"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
-        "alt": "Celebrity modern slavery — contracts, containment, and creative control"
-      },
-      {
-        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
-      },
-      {
-        "src": "/influence/predictive_programming/predictive_programming.png",
-        "alt": "Predictive Programming"
-      },
-      {
-        "src": "/influence/predictive_programming/comics.jpg",
-        "alt": "9/11 predictive programming in comics"
-      },
-      {
-        "src": "/influence/predictive_programming/doom.jpg",
-        "alt": "Doom — quantum teleport between Earth and Mars"
-      },
-      {
-        "src": "/influence/predictive_programming/mars_women.jpg",
-        "alt": "Mars Needs Women — breeding programme theme"
-      },
-      {
-        "src": "/influence/predictive_programming/stargate.jpg",
-        "alt": "Stargate — pyramid as portal"
-      },
-      {
-        "src": "/influence/predictive_programming/wotw.jpg",
-        "alt": "War of the Worlds — heat ray, red weed, Mars inversion"
-      },
-      {
-        "src": "/influence/predictive_programming/simpsons_space_laser.jpg",
-        "alt": "The Simpsons — 9/11 imagery"
-      },
-      {
-        "src": "/influence/predictive_programming/mars_movies.jpg",
-        "alt": "Mars movies"
-      },
-      {
-        "src": "/influence/predictive_programming/marvin.jpg",
-        "alt": "Marvin the Martian"
-      },
-      {
-        "src": "/influence/predictive_programming/marvin2.jpg",
-        "alt": "Marvin the Martian (2)"
-      },
-      {
-        "src": "/influence/predictive_programming/megaman.jpg",
-        "alt": "Mega Man"
-      },
-      {
-        "src": "/influence/predictive_programming/nazis_hollow_earth.jpg",
-        "alt": "Nazis in Hollow Earth"
-      },
-      {
-        "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
-        "alt": "Fire on the Mountain"
       }
     ]
   }
