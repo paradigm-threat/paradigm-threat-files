@@ -2,7 +2,7 @@
 
 > **TL;DR:** Master citation dossier for the flagship essay [*The Internet That Should Have Been*](/science/computing/the-internet-that-should-have-been.md). **Documented:** Wintel lock-in, Nintendo CD-ROM containment, GPU→crypto→AI hardware treadmill, enclosure via Facebook/React, WebMCP as **agent-first** browser API (Feb 2026), Chrome **~4 GB Gemini Nano** push, court AI-hallucination crisis, Berners-Lee **devastated** by web outcome. **Author thesis:** machine-readable intent (“open the hood”) should have shipped **in the 1990s without AI**; the web we got is a **TV channel**; forward fixes must **bridge the present** under protest. **Education lane moved** → [Responsibility to the Next Generation — investigation](/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md). **Terminator PP:** Moore-schedule read, T3 virus ↔ Nano — **speculative** (§11.4). **Suppression motive:** alleged, unproven.
 
-**Last updated:** 2026-06-19 (§10.5 opaque reach / layered-reality)  
+**Last updated:** 2026-06-19 (§1.4 misleading MCP label)  
 **Status:** Open — companion to reader essay; WebMCP chapter retained from prior dossier (`webmcp-suppressed-protocol-ai-gatekeeper-investigation.md` renamed).
 
 **Guide (read order)**
@@ -78,6 +78,21 @@ Separate from WebMCP’s JavaScript surface, Chrome has been installing **Gemini
 Industry blogs frame WebMCP as **“SEO for agents”** — sites that expose clean tools may be **preferred** by browser agents over DOM-scraping competitors ([e.g. LinkedIn discourse, Semrush, No Hacks](https://nohacks.co/blog/what-is-webmcp)). John Mueller (Google) reportedly steered developers from **llms.txt** toward WebMCP (June 2026 blog summaries).
 
 **Documented tension:** Search engines historically ranked **scraped HTML**; a **machine-intent layer** would have changed discovery **if** it had been universal and **crawler-accessible**. Today’s design centers **in-tab agents**, not a **public archive of structured site capabilities**.
+
+### 1.4 Misleading “MCP” label — documented criticism
+
+**Tier:** Standards participants, Chrome developer docs, independent technical notes, industry explainers — **documented naming dispute**, not author invention.
+
+| Criticism | Documented basis |
+|-----------|------------------|
+| **Not Anthropic MCP on the wire** | WebMCP is **not** an implementation of Anthropic’s **Model Context Protocol** — **no JSON-RPC**, **no MCP server** in the tab ([Starborn *WebMCP Is Not an MCP Server*](https://starborn.github.io/webmcp/WebMCnotMCP.md); [VentureBeat Feb 2026](https://venturebeat.com/infrastructure/google-chrome-ships-webmcp-in-early-preview-turning-every-website-into-a)). |
+| **“MCP-inspired,” not MCP** | Chrome’s own docs: consider WebMCP **“MCP-inspired” APIs**, not a direct JS port — borrows **tool** abstraction (name, description, schema, execute); **omits** server-side MCP concepts such as **resources** ([Chrome *Compare MCP and WebMCP*](https://developer.chrome.com/docs/ai/webmcp/compare-mcp)). |
+| **Different layer, lifecycle, discovery** | **MCP:** persistent backend servers, global connectivity, headless agent flows. **WebMCP:** **tab-bound**, ephemeral, DOM/session-aware, tools registered **during the visit** — browser is the intermediary ([Chrome compare table](https://developer.chrome.com/docs/ai/webmcp/compare-mcp); [Lawrence Hitches disambiguation](https://www.lawrencehitches.com/anthropic-mcp-vs-webmcp/)). |
+| **W3C declined full MCP port** | Working group **chose not** to couple tightly to Anthropic’s spec; early implementers (e.g. Alex Nahas) pushed porting MCP to the browser; result is a **new browser API** that shares mental model only ([Tandem *WebMCP vs MCP*](https://usetandem.ai/blog/webmcp-vs-mcp-difference) citing [Arcade/Nahas interview](https://www.arcade.dev/blog/web-mcp-alex-nahas-interview)). |
+| **Name breeds wrong assumptions** | Developers may expect **protocol-level compatibility** with MCP servers/SDKs; standards reviewers may treat security/privacy as **inherited from MCP** when WebMCP needs its **own** threat model ([Starborn](https://starborn.github.io/webmcp/WebMCnotMCP.md) — press/README often drop spec’s “**can be thought of as**” qualifier). |
+| **Mozilla standards position** | **Neutral** on ship, but flags **misleading “MCP” name** alongside adversarial-site and prompt-injection risks ([#1412](https://github.com/mozilla/standards-positions/issues/1412)). |
+
+**Unpack:** Vendors frame the pair as **complementary** (backend MCP + in-tab WebMCP). Critics say the **shared acronym** caused immediate **category error** — “**Will WebMCP replace MCP?**” (Chrome FAQ) — when the answer is **different problems, different specs**. Rhymes with essay thesis: the industry shipped **tool menus for agents** under a name that **sounds** like the ecosystem protocol developers already know.
 
 ---
 
@@ -259,7 +274,8 @@ These technologies show the **idea** of opening the hood **existed**; **none** b
 30. **Legal moat:** Antitrust liability affirmed, breakup denied, behavioral settlement; SCP/Caldera settled — dominance retained (§9.6.6).  
 31. **Institutional DOS arrangement (author):** Powers beyond Gates may have wanted Wintel enclosure — **speculative** (§9.6.5).  
 32. **Opaque reach (author):** Site barely seen; podcast bypass around algorithmic shadow-ban — **lived experience** (§10.5).  
-33. **Layered-reality hijack (author):** Per-visitor substitution at URL — **speculative**; requires global monopolization thesis (§10.5).
+33. **Layered-reality hijack (author):** Per-visitor substitution at URL — **speculative**; requires global monopolization thesis (§10.5).  
+34. **WebMCP misleading label (documented):** Not Anthropic MCP wire protocol; “MCP-inspired” only — Mozilla, Chrome, Starborn (§1.4).
 
 ---
 
@@ -653,7 +669,7 @@ Companion to essay [§VI](/science/computing/the-internet-that-should-have-been.
 
 ## References (external recap — extended)
 
-**WebMCP / Chrome:** [Chrome WebMCP](https://developer.chrome.com/docs/ai/webmcp), [Mozilla #1412](https://github.com/mozilla/standards-positions/issues/1412), [WebKit #649](https://github.com/webkit/standards-positions/issues/649), [Verge 4GB](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features), [That Privacy Guy](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install)
+**WebMCP / Chrome:** [Chrome WebMCP](https://developer.chrome.com/docs/ai/webmcp), [Compare MCP and WebMCP](https://developer.chrome.com/docs/ai/webmcp/compare-mcp), [Starborn WebMCP ≠ MCP](https://starborn.github.io/webmcp/WebMCnotMCP.md), [Tandem WebMCP vs MCP](https://usetandem.ai/blog/webmcp-vs-mcp-difference), [Mozilla #1412](https://github.com/mozilla/standards-positions/issues/1412), [WebKit #649](https://github.com/webkit/standards-positions/issues/649), [Verge 4GB](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features), [That Privacy Guy](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install)
 
 **Hardware / platforms:** [HBS 19-074](https://www.hbs.edu/ris/download.aspx?name=19-074.pdf), [Big Blues PDF](https://vtda.org/books/Computing/BigBluesTheUnmakingIBM_PaulCarroll.pdf), [EFF IBM clones](https://www.eff.org/deeplinks/2019/08/ibm-pc-compatible-how-adversarial-interoperability-saved-pcs-monopolization), [PCMag DOS rise](https://www.pcmag.com/archive/the-rise-of-dos-how-microsoft-got-the-ibm-pc-os-contract-286148), [Retrocomputing SE DOS rights](https://retrocomputing.stackexchange.com/questions/8344/did-ibm-encourage-bill-gates-to-retain-the-rights-over-pc-dos), [Mary Gates NYT](https://www.nytimes.com/1994/06/11/obituaries/mary-gates-64-helped-her-son-start-microsoft.html), [US v. Microsoft](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.), [Wikipedia N64](https://en.wikipedia.org/wiki/Nintendo_64), [Nintendo Life 2025](https://www.nintendolife.com/news/2025/02/not-even-squaresoft-could-convince-nintendo-to-use-discs-for-the-n64), [Nvidia lawsuit Law.com](https://www.law.com/therecorder/2026/03/26/california-judge-certifies-investor-class-in-nvidia-crypto-mining-lawsuit/)
 

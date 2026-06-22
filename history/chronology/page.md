@@ -12,6 +12,8 @@
 
 Unless a **specific file** explicitly says otherwise, **work in this tree is offered in the spirit of** that working definition: **no** collapsing “**the Jews**” into **one intent**, **no** agitation toward **holy war** or **race war**, **primary‑source** discipline where claims are made, and **room** for **institutional** and **network** research **without** treating every such line of inquiry as **ipso facto** bigotry.
 
+**Notes-thread confusion:** If you saw **ethnic slurs** or **genealogy memes** next to our **Iran** or **structure** posts on Substack, see **[Substack tropes Q&A](/history/chronology/qa/substack-tropes/page.md)** — balanced reads on **monolithing**, **wrong villain**, and **what we do not endorse**.
+
 *This is evidence of a world-empire. The Rus-Horde 'Tartarian' Empire ruled over all continents between 12th and 18th centuries before its breakup in 1775.*
 
 

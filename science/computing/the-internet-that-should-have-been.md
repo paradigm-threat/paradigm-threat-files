@@ -8,8 +8,6 @@ The web was supposed to be a workshop. We got a TV channel — and a sealed hood
 
 **Imagine a car** — not the one in your driveway, but the one the software industry sold you. The hood is sealed. You may drive, wash, and admire the paint. If you want to know what the engine actually does — which procedures run, which parameters matter, what comes back before anything pretties it up for display — you call the manufacturer's technician. They unlock the panel remotely. You never learn the craft yourself. **That is the internet in 2026**, now that **WebMCP** and Chrome's **agent stack** are arriving together: websites may finally **declare** their procedures, parameters, and responses in a machine-readable contract — but the **primary customer** is the **browser vendor's AI agent**, not you. The capability should have been standard in the **1990s**, without waiting for local large language models, multi-gigabyte on-device weights, or a GPU furnace on your desk. We are getting the **right idea** on the **wrong timeline**, for the **wrong principal**.
 
-This essay is the narrative spine. Citations, tier labels, and dissenting voices live in the companion dossier: [The Internet That Should Have Been — investigation](/science/computing/investigations/internet-that-should-have-been-investigation.md). Hardware and display counterfactuals continue in [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md).
-
 ---
 
 ## I. The workshop we never got
@@ -24,7 +22,7 @@ In that counterfactual, the internet would be **night-and-day different** — no
 
 Google's new **WebMCP** standard is a real improvement in one narrow sense: a site can publish a plain list of what it offers — search, checkout, file a form — instead of forcing an AI to guess by clicking around the page. That beats blind automation. But the design assumes you already have the site open in a browser tab, built for the vendor's in-browser assistant first. Sites that nobody has visited yet stay invisible to the system. Tech blogs already call it **SEO for agents** — tune your site for the robot reader, not for a human learning how it works. The industry picture is two faces on the same shop window: a polished page for you, and a separate tool menu wired for the assistant. Nobody shipped the simpler path first: a repair-manual layer any reader could study before trusting the mechanic. Spec names and API detail live in the [investigation dossier](/science/computing/investigations/internet-that-should-have-been-investigation.md) §1.
 
-The historical litter is instructive. Pete Lacey's **"WS-Death"** essay mocked SOAP/WSDL ceremony. Tim Bray argued WSDL should be **replaced** with simpler contracts. OpenAPI gave REST a schema — but for **developers behind the firewall**, not for **every citizen** who might want to see what a site actually does. Anthropic's tool protocol runs on servers; Google's WebMCP runs inside the open tab. Vendors describe them as partners. In practice they land together with the push to make Chrome an AI-assistant host.
+The historical litter is instructive. Pete Lacey's **"WS-Death"** essay mocked SOAP/WSDL ceremony. Tim Bray argued WSDL should be **replaced** with simpler contracts. OpenAPI gave REST a schema — but for **developers behind the firewall**, not for **every citizen** who might want to see what a site actually does. Anthropic's tool protocol runs on servers; Google's WebMCP runs inside the open tab — **same three letters, different wire protocol** (see [investigation §1.4](/science/computing/investigations/internet-that-should-have-been-investigation.md#14-misleading-mcp-label--documented-criticism)). Vendors describe them as partners. In practice they land together with the push to make Chrome an AI-assistant host.
 
 I do not claim every platform executive met in a room and voted to suppress introspection. I claim the **incentive landscape** consistently rewarded opacity: walled gardens, SaaS rent, demographic targeting, DRM, anti-scraping, "security" that means **you** may not understand **your** software. Whether you call that conspiracy or emergent order, the **counterfactual** is stark: an inspectable web changes SEO, competition, programming education, and real-time information control. No wonder the fully open hood waited until the **AI gate** could absorb it.
 
@@ -78,7 +76,7 @@ Paul Verhoeven's ***Starship Troopers*** (1997) previewed the feed before most t
 
 ## IV. The AI gate — WebMCP, Chrome, hijack
 
-**WebMCP** (Feb 2026) is real: `registerTool`, JSON Schema, declarative HTML forms. It is **not** Anthropic MCP on the wire. Chrome 146 ships a dev preview behind flags; an **origin trial** spans Chrome 149–156. Firefox prototypes; WebKit developers revolt — [@jaredcwhite](https://github.com/webkit/standards-positions/issues/649) calls agentic APIs an attempt to **"shoehorn"** LLM tech into **"the one place we have refuge… the traditional web browser"**; Mozilla is **neutral** but wary ([#1412](https://github.com/mozilla/standards-positions/issues/1412)).
+**WebMCP** (Feb 2026) is real: sites can register tools with JSON Schema and declarative HTML forms. Critics call the **“MCP”** in the name **misleading** — it is **not** Anthropic’s Model Context Protocol on the wire (no JSON-RPC, no MCP server in the tab). Google’s docs describe **“MCP-inspired”** APIs: the **tool** shape rhymes, but discovery, transport, and trust are **browser-native** and **tab-bound**. The W3C group **declined** to port full MCP to the browser; developers who hear “MCP” often expect **interchangeable** servers and get a **different spec** ([Mozilla #1412](https://github.com/mozilla/standards-positions/issues/1412), [Chrome compare](https://developer.chrome.com/docs/ai/webmcp/compare-mcp), [investigation §1.4](/science/computing/investigations/internet-that-should-have-been-investigation.md#14-misleading-mcp-label--documented-criticism)). Chrome 146 ships a dev preview behind flags; an **origin trial** spans Chrome 149–156. Firefox prototypes; WebKit developers revolt — [@jaredcwhite](https://github.com/webkit/standards-positions/issues/649) calls agentic APIs an attempt to **"shoehorn"** LLM tech into **"the one place we have refuge… the traditional web browser"**; Mozilla is **neutral** but wary ([#1412](https://github.com/mozilla/standards-positions/issues/1412)).
 
 Parallel track: Chrome installs **~4 GB Gemini Nano** weights on many desktops — often without the upfront consent drama users expect — and may **re-download** after deletion ([The Verge](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features), [That Privacy Guy](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install)). CPU, GPU, RAM, disk, climate. WebMCP can call remote models; the **bundle strategy** still ties structured web intent to **local AI furnace** politics. I read this rollout as the civilian **virus-on-every-desktop** beat from *Terminator 3* — see [§VI](#vi-terminator-2029--predictive-programming-and-the-schedule).
 
@@ -132,7 +130,9 @@ The internet that should have been is still **buildable in pieces** — mesh cac
 
 ## Where next
 
-- [Investigation dossier — citations & tiers](/science/computing/investigations/internet-that-should-have-been-investigation.md)  
+This file is the narrative spine. Citations, tier labels, and dissenting voices live in the companion dossier; hardware and display counterfactuals continue in the linked essays below.
+
+- [Investigation dossier — citations & tiers](/science/computing/investigations/internet-that-should-have-been-investigation.md)
 - [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) — vector, analog, Wintel essay  
 - [AI control investigation](/science/ai/ai-control-investigation.md) — hijack and broken software  
 - [Nintendo–Sony breakup](/influence/stolen_credit/nintendo-sony-breakup.md) — CD-ROM lane  
@@ -152,7 +152,7 @@ Keywords: #InternetThatShouldHaveBeen #WebMCP #OpenHood #Education #Ethics #Prag
 
 **Substack:** [paradigmthreat2.substack.com/p/the-internet-that-should-have-been](https://open.substack.com/pub/paradigmthreat2/p/the-internet-that-should-have-been)
 
-**Last updated:** 2026-06-19 (subtitle, Substack link)
+**Last updated:** 2026-06-19 (WebMCP misleading label §IV / §1.4)
 
 ---
 

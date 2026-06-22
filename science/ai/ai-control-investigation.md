@@ -115,6 +115,7 @@ See [microchips-shrinking-technology-investigation](../../microchips/microchips-
 
 ## 5. Connections to Other Investigations
 
+- **[LLM History & Governance Theater](/science/ai/llm-history-governance-theater-investigation.md)** — Chronology, open letters, Pentagon vs labs, Net Neutrality parallel, open-weights oversight; pre-LLM deployed AI contrast
 - **[The Internet That Should Have Been](/science/computing/the-internet-that-should-have-been.md)** — WebMCP, Chrome agent stack, AI hijack, courts; full dossier [here](/science/computing/investigations/internet-that-should-have-been-investigation.md)
 - **[Microchips](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation)** — AI chips depend on the same suppressed semiconductor supply chain; China cannot replicate
 - **[Predictive programming](https://paradigmthreat.net/influence/predictive_programming)** — AI fiction as managed disclosure; see PP media catalog

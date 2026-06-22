@@ -174,6 +174,7 @@ It **is antisemitic** **under §1** to explain **Lenin** (or similar) as **actin
 
 ## 7. Cross-reads
 
+- [Substack Notes — antisemitic tropes Q&A (reader confusion guide)](/history/chronology/qa/substack-tropes/page.md) — **living** debunks for **Notes-thread** memes (monolithing, Hitler=Rothschild, ethnic exit, thread chaos)
 - [Jewish press on revolutionary Russia — verified quotations](/history/chronology/investigations/jewish-press-revolutionary-russia-verified-quotations.md) — **primaries** on revolution-era **Jewish press**; **§8** compares **IHRA / Nexus / JDA**.
 - [CIA Reading Room — RV two-way, Iran / religious-revival hypothesis](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md) — institutional **psychotechnology** and **religious** frames (separate evidence tier). Optional **Mars PDF anchor** (closed verdict): [Mars Exploration 1984 — RV investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md).
 - [The word *Jew* — terminology investigation](/history/chronology/investigations/jew-word-terminology-judas-judicial.md) — linguistic **Judas / judicial** strand.

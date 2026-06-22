@@ -38,6 +38,8 @@ When a comment is **strictly anti-Trump** (personality, “troll president,” m
 
 **Registry (no standalone file):** ad hominem dismissals (“comment when high,” etc.) — no substantive claim to debunk; ignore or one-line boundary.
 
+**Related:** [Substack antisemitic tropes Q&A](/history/chronology/qa/substack-tropes/page.md) — ethnic slur threads adjacent to Iran / structure posts.
+
 ---
 
 ## Folder contents

@@ -4,6 +4,8 @@ AI was never meant to be a tool for everyone. It was always designed to subsume 
 
 See the full [AI Control Investigation](/science/ai/ai-control-investigation) for predictive programming, deliberate bad software, AI chips, and the end game.
 
+See the [LLM History & Governance Theater Investigation](/science/ai/llm-history-governance-theater-investigation) for chronology, open letters, Pentagon vs labs, Net Neutrality parallel, and open-weights oversight.
+
 ## Summary
 
 - **Predictive programming:** Fiction portrays AI in a dim light—robots as slaves, human vanity, machines turn on us, "self-awareness" as crisis (Terminator, 2001, I Robot, Matrix, Ex Machina, Her)
@@ -11,6 +13,7 @@ See the full [AI Control Investigation](/science/ai/ai-control-investigation) fo
 - **Deliberate bad software:** Microsoft and Apple made software difficult for handicapped and elderly, full of DLL hell and back doors—not accident, not negligence. Done on purpose, anticipating AI.
 - **End game:** Voice-command dependency → ultimate remote control of all technology, government, militaries. Austin Powers villain–style takeover.
 - **AI chips:** Same pattern as [microchips](/science/microchips/investigations/microchips-shrinking-technology-investigation)—China cannot reproduce, falling behind. Strange for a major country.
+- **LLM governance theater:** Pre-LLM deployed AI (Maven, surveillance) vs post-ChatGPT ethics campaigns; Pentagon–Anthropic rupture; regulatory-capture read parallel to Net Neutrality — [full dossier](/science/ai/llm-history-governance-theater-investigation).
 
 
 ---
