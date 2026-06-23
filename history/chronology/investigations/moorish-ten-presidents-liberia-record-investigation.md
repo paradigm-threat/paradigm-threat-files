@@ -15,11 +15,13 @@
 |---------|---------|
 | §1 | Infographic claims (artifact) |
 | §2 | Validation matrix |
+| §2b | Author read — garbled Horde-fracture folk memory (qualified) |
 | §3 | Real Confederation presidents vs fake list |
 | §4 | Liberia chronology vs “reassignment” |
 | §5 | John Hanson — two men, one meme |
 | §6 | Forensic tells (AI, anachronism) |
 | §7 | Relation to repo Moor lanes |
+| §10 | Fomenko king rhyme — `~/dev/wget/chronologia.org` deep dive |
 
 ---
 
@@ -66,6 +68,33 @@
 | 12 | **Barack Obama** first Black U.S. president (modern) | **Validated** | **2009** — after meme’s false Hanson claim |
 
 **Overall verdict:** Infographic is **synthetic history** — one **real confusion** (Hanson + Confederation “presidents before Washington”) **weaponized** into a **Liberian ordinal paste**.
+
+---
+
+## 2b. Author read — garbled Horde-fracture folk memory (qualified)
+
+**Author (2026-06-11, session):** The meme has **no basis in fact** at literal level, but may be a **thinly redacted** popular compression of a different story: **America** founded on **redacted Rus-Horde** principles (not Rome); modern **presidents** as **term-limited reflections** of original **tsars** who, in the **first world republic**, were closer to **people-elected** sovereignty; those rulers later smeared as **“black kings,” “Moor kings,” “false kings”** — and in the Atlantic fracture, **false presidents**.
+
+**Repo stance:** Record as **interpretive rhyme**, not evidence for the infographic. The meme’s **Liberia ordinal paste** and **fabricated Arabic names** remain **refuted**; Fomenko does **not** endorse Moorish Science Temple doctrine.
+
+### What rhymes (structural, not literal)
+
+| Author / repo lane | Meme distortion |
+|--------------------|-----------------|
+| **Hanson / Confederation chairs** = visible **pre-Constitution sovereignty** before Washington | Meme treats them as **hidden Moorish presidents** instead of **fractured Horde succession** |
+| **Washington (1776)** = **first new ruler** on American Horde lands after **Pugachev (1775)** crushed — Fomenko [`08.html`](https://chronologia.org/en/how_it_was/08.html) | Meme skips **Siberian-American czar at Tobolsk** and **carve-up of Moscow Tartary** |
+| **Term-limited presidency** vs **czar-khan** = **rotating synecdoche** after empire break-up | Meme inverts into **ten eternal kings** hidden in Liberia |
+| **“Black king”** = Fomenko **CHERNAYA vs CHERMNAYA tsaritsa** misread (beautiful → black) [`02.html`](https://chronologia.org/en/how_it_was/02.html) + author **Moor as status label** | Meme reads **pigment + MST turbans** |
+| **False / illegitimate king** = Romanovs as **usurpers**; Siberian czar called Romanovs **illegitimate** [`08.html`](https://chronologia.org/en/how_it_was/08.html) | Meme assigns **falsehood** to wrong characters (Abdullah El, etc.) |
+| **Federal closed-door project** supplanting **Horde memory** — [Apotheosis dossier](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md) | Meme replaces **Brumidi apotheosis** with **AI Moor portraits** |
+
+### What does **not** rhyme
+
+- **Liberia 1848+** presidents as **secret U.S. tsar filing cabinet** — **no** Fomenko pathway; ACS emigration is **documented** separate history.
+- **Ten** two-year Moorish names — Fomenko’s **“local first czar”** is **Andronicus-Christ** duplicated in **provincial chronicles**, not an ordinal list of **1840s Monrovia merchants**.
+- **Nat Turner El** — pure meme noise; **anachronism**.
+
+**One-line author read:** Folk channels sense **official succession is wrong**; without Horde grammar they rebuild it from **Moor + Liberia + president** tokens — **right unease, wrong transcript** (same pattern as **Palatine Moors** misquote and **Cherokee Moors** meme).
 
 ---
 
@@ -158,6 +187,16 @@ Under the **Articles of Confederation**, the **President of the United States in
 | Europe Moor–Boor split | [europe-white-bloodline-complexion-whitewash-investigation.md](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) |
 | Slave trades + Moor etymology | [slave-trades-and-moor-etymology-investigation.md](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
 | Benjamin / Americas embed | [apotheosis-washington-benjamin-tribe-america-investigation.md](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md) |
+| Europe Moor–Boor / false autochthony | [europe-white-bloodline-complexion-whitewash-investigation.md](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) |
+| Cherokee Moors / Delaware Moor law | [cherokee-moors-lenape-delaware-moor-label-investigation.md](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) |
+
+---
+
+## Investigator notes
+
+- Fomenko wget mirror: `~/dev/wget/chronologia.org/en/how_it_was/` — key files: `08.html`, `08_07.html`, `02.html`.
+- Repo wget index: `~/dev/wget/index-chronologia.md`.
+- Live URLs: `https://chronologia.org/en/how_it_was/08.html` (Washington + Pugachev + Siberian czar).
 
 ---
 
@@ -166,6 +205,81 @@ Under the **Articles of Confederation**, the **President of the United States in
 - [ ] Earliest posting date / author account for this **ten-president** graphic variant
 - [ ] Whether meme conflates **Moorish Science Temple** “Moor” nationality filing with Confederation history
 - [ ] Liberian archives — any genuine colonial-era **“Moor”** label for settler groups (separate from this hoax)
+- [ ] Trace earliest **ten-president / Liberia** graphic variant; compare to **Hanson-as-first-Black-president** meme lineage (1990s Dick Gregory → 2020s ordinal expansion)
+
+---
+
+## 10. Fomenko king rhyme — `~/dev/wget/chronologia.org` deep dive
+
+**Mirror:** `/home/ari/dev/wget/chronologia.org/en/how_it_was/` (Fomenko & Nosovskiy, *How It Was In Reality*). **Index:** `~/dev/wget/index-chronologia.md`.
+
+Fomenko does **not** discuss **Moorish presidents** or **Liberia**. He **does** supply a **king / czar / president rhyme** that helps explain why **folk memes** grab **president** and **king** slots when **Horde succession** was redacted.
+
+### A. Washington = first **new ruler** on Horde-American land (1776 ↔ 1775)
+
+From [`08.html`](https://chronologia.org/en/how_it_was/08.html) (Chapter 8, American war):
+
+> *George Washington became the first president of the USA in 1776… It appears that he became the **first new ruler** in the American lands of the **Russian Horde**.*
+
+Same chapter links **1775–1783 American war** to **1775 crushing of “Pugachev”** — last **independent Hordian czar** / military commander of **Moscow Tartary**. The **Independence** story is reframed as **carve-up** of **Moscow Tartary** (Britain as misdirection).
+
+**Rhyme to author thesis:** **President** = **post-fracture title** for **first occupant** of a **Horde province** after the **Siberian-American czar** line is broken — **not** indigenous American sovereignty. **Term limits** (later Constitutional) fit **anti-tsar rotation** Fomenko does not spell out but that the repo adds.
+
+### B. Siberian **czar** vs Romanov **illegitimate** rulers
+
+[`08.html`](https://chronologia.org/en/how_it_was/08.html):
+
+> *This Kingdom retained the old Russian-Horde customs and had its own **czar** with his capital in **Tobolsk**. The Siberian czar was hostile towards the Romanovs, considering them **illegitimate rulers** of the Western part of Russia.*
+
+**Rhyme:** **“False king”** in author read maps cleanly onto Fomenko’s **dual sovereignty** — **Horde legitimacy** vs **Romanov/Western usurpation** — not onto **Joseph Jenkins Roberts**.
+
+### C. **“Local first czar”** — one emperor, many phantom names
+
+[`08_07.html`](https://chronologia.org/en/how_it_was/08_07.html) §12–13 (history reformation):
+
+> *The question is under what names the **czar-khans of Russia-Horde** were reflected in the 'distant past'?… every Hordian emperor is reflected in the regional chronicles under different names: **biblical**, 'Ancient' Roman, 'Ancient' Germanic…*
+
+> *Andronicus-Christ 'appeared' at the beginning of the written history of various newly-emerged states. But already as, allegedly, **'their own, local first czar'**…*
+
+**Rhyme to meme (distorted):** The infographic’s **ten named rulers** mimic the **one-emperor-many-aliases** pattern — but **without** Fomenko’s **Andronicus-Christ** anchor, substituting **MST Arabic names** and **Liberian ordinals**.
+
+### D. **Kings of Israel** = **Horde czars-khans** on Kremlin ceilings
+
+Same section, Moscow **Golden Chamber**:
+
+> *The ancient **Kings of Israel** depicted on the ceilings… were in particular the following **Russian-Horde czars-khans**: **Dmitry Donskoi**, aka Biblical **King David**; **Suleiman the Magnificent**… aka **King Solomon**; **Georgy Danilovich = Genghis Khan**, aka Biblical **King Asa**.*
+
+**Rhyme:** **Biblical king list** = **compressed Horde emperor list** — institutional **king rhyme** Fomenko documents in **architecture**, not Facebook infographics.
+
+### E. **“Black king”** misread — Magi / Malka / Chermnaya → Chernaya
+
+[`02.html`](https://chronologia.org/en/how_it_was/02.html) (Chapter 2):
+
+> *Why did a fair-haired Slavic woman later turn into a **Negro woman**, i.e. **BLACK woman**? And then into a **BLACK man**… from **CHERMNAYA TSARITSA** (meaning **BEAUTIFUL QUEEN**) turned into **CHERNAYA TSARITSA** (meaning **BLACK QUEEN**).*
+
+> *The Three Magi… were the great **'Mongolian' czars** of Rus'-Scythia… **Vladimir** (Balthazar), **Malka** (Melchior), **Caspar = Cossak**.*
+
+**Rhyme to author “black king / Moor king”:** Fomenko’s mechanism is **linguistic pigment mislabeling** of **Slavic Horde royalty** — closer to **Europe whitewash** and **Delaware “Moor” Indian label** than to **North African ethnicity**. The meme **literalizes** a **misread** Fomenko already described for **Magi**.
+
+### F. **Moor** in Fomenko (limited)
+
+- [`02_19.html`](https://chronologia.org/en/how_it_was/02_19.html) — Shakespeare **Moor Aaron** (literary figure).
+- [`05_15.html`](https://chronologia.org/en/how_it_was/05_15.html) — **Moors driven from Spain** = Horde **relocation** narrative (Iberian expulsion as imperial movement).
+
+**No** Fomenko link from **Moor** to **U.S. president** or **Liberia**.
+
+### G. Synthesis table — Fomenko vs meme vs author
+
+| Layer | Fomenko (wget) | Meme | Author read |
+|-------|----------------|------|-------------|
+| First American ruler | **Washington 1776** on ex-Horde land | **Ten Moorish presidents 1781–1801** | **Term-limited false presidents** after Horde fracture |
+| Legitimate sovereignty | **Siberian czar** / **Horde custom** | **Hidden Moorish blood** | **Elected tsar-line** memory erased |
+| Illegitimate power | **Romanovs** | *(not named)* | **False kings / figureheads** |
+| King list | **Israelite kings = Horde czars** | **Ordinal Liberian paste** | **One stratum, many labels** |
+| “Black” ruler | **Chermnaya → Chernaya** misread | **AI turbans** | **Status Moor / black king** ≠ census race |
+| Liberia | **Not discussed** | **Record vault** | **Weak symbol** (ACS exodus only) |
+
+**Conclusion:** Fomenko provides a **documented king rhyme** — **czar-khan ↔ biblical king ↔ local first czar ↔ president-as-new-ruler** — that **supports the author’s interpretive frame** and **explains meme magnetism**, while **refuting** the infographic’s **specific claims**.
 
 ---
 
@@ -177,6 +291,6 @@ Under the **Articles of Confederation**, the **President of the United States in
 
 ---
 
-Keywords: #Moorish #Liberia #JohnHanson #ArticlesOfConfederation #MemeForensics #Hoax #JosephRoberts #ParadigmThreatFiles
+Keywords: #Moorish #Liberia #JohnHanson #ArticlesOfConfederation #MemeForensics #Hoax #JosephRoberts #Fomenko #RusHorde #KingRhyme #ParadigmThreatFiles
 
 **Last updated:** 2026-06-11
