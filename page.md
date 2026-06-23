@@ -12,8 +12,6 @@ Open conspiracy-research hub that challenges mainstream paradigms across history
 
 **Presence in the repo is not endorsement.** Memes and slurs may appear as **study copies** in Q&A to explain **reader confusion**; hosting them **does not** mean we **agree** with their message.
 
-## Change Log
-
 <ChangeLog />
 
 !["These times are dark but every shadow, no matter how deep,
