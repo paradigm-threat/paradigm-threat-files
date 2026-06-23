@@ -2,7 +2,7 @@
 
 ![Moorish ten presidents infographic — study copy](moorish-ten-presidents-liberia-record-investigation.png)
 
-> **TL;DR:** Viral infographic claims **ten Moorish men** were the **real first U.S. presidents (1781–1801)** and their identities were **reassigned to Liberian presidential records** in the 1800s. **Refuted:** Confederation-era presiding officers were **documented white Anglo-American delegates** with European names; **Liberia’s first presidency begins 1848** — **decades after** the Confederation period; the chart **renames** eight historical Confederation presidents into **fabricated Arabic names**, then **ordinal-maps** them onto **real Liberian presidents** (Roberts → Benson → Warner…). **Kernel of truth:** John Hanson was **first full-term** president under the **Articles of Confederation** — **not** the modern presidency; a **different** Black **John Hanson** was a **Liberian senator** (misused in older memes). **Portraits:** AI-style turbans — **not** period likenesses. **No** primary archive supports “Moorish by blood, Liberia by record.”
+> **TL;DR:** Infographic claims **ten Moorish men** were **real first U.S. presidents** and identities were **reassigned to Liberia** — **refuted literally** (§2). **This dossier tests the author’s thesis, not the meme:** **Moor** labels and **Horde–Ottoman iconography** (crescent, turban) point to **redacted Rus-Horde memory** (§2b, §10 — **interpretive only**, cited). **§2b does not rehabilitate** the ordinal hoax. **Honeypot read (qualified):** easily debunked **black-nationalist** paste may **trap** seekers so they never ask what was redacted. **Core investigation (§7b):** documented **African Moor presence in the Americas** collides with both the **“Redskins” autochthon** story and the **simplified racial-slavery** story — we assess how far **19th–20th c. eugenics/race taxonomy** falsified both official narratives.
 
 **Status:** Open — meme archived; validation complete; provenance hunt for graphic author open.  
 **Date:** 2026-06-11
@@ -13,15 +13,27 @@
 
 | Section | Content |
 |---------|---------|
+| §0 | Method — meme flaws vs. author thesis; honeypot read; Horde iconography |
 | §1 | Infographic claims (artifact) |
 | §2 | Validation matrix |
-| §2b | Author read — garbled Horde-fracture folk memory (qualified) |
+| §2b | Author read — garbled Horde-fracture folk memory (**interpretive only**, cited) |
 | §3 | Real Confederation presidents vs fake list |
 | §4 | Liberia chronology vs “reassignment” |
 | §5 | John Hanson — two men, one meme |
 | §6 | Forensic tells (AI, anachronism) |
 | §7 | Relation to repo Moor lanes |
+| §7b | Core thesis — African Moors in America vs. Redskins + slavery narratives |
 | §10 | Fomenko king rhyme — `~/dev/wget/chronologia.org` deep dive |
+
+---
+
+## 0. Method — meme flaws vs. author thesis
+
+**Repo rule:** Viral memes are expected to carry **bad facts**, **arbitrary conflation**, **ordinal paste**, and **anachronism**. We **name what is wrong** (§2, §6) and **separately** test whether the **author’s redaction thesis** survives (§2b, §7b, §10). **If the thesis fails, it fails** — meme refutation does not automatically rescue it.
+
+**Honeypot read (qualified):** Some shares may be **designed to be easily disproved** so debunking **feels like closure** and fewer readers trace the **stratum behind the garble**. Infographics that **paste Liberia ordinals** onto **Confederation chairs** are a **high-risk** case for **black-nationalist** audiences: critics dismiss **all Moor-America memory** when only the **hoax layer** fails. **This file does not validate the meme** to compensate.
+
+**Horde iconography (critics often miss this):** Mocking **crescent + turban** stacks as pure **20th-c. MST novelty** ignores Fomenko’s **Rus-Horde ↔ Ottoman** record: **crescent with star** = branch of the **unified cross** after Christianity split [`05.html`](https://chronologia.org/en/how_it_was/05.html); **turbans and pagri** on **imperial eagles** (Cologne, Barbarossa, Conrad) because Hordian and Ottoman czar-khans **wore them** — later **reformed into crowns** [`08_14.html`](https://chronologia.org/en/how_it_was/08_14.html). **AI portraits dated to 1781** remain **refuted**; the **icon type** is not automatically absurd in a Horde frame.
 
 ---
 
@@ -61,7 +73,7 @@
 | 5 | **John Hanson** = Moorish first president | **Refuted** | White **John Hanson** (1715–1783), Maryland planter — [Constitution Facts](https://www.constitutionfacts.com/us-articles-of-confederation/presidents-who-served/); [PolitiFact](https://www.politifact.com/factchecks/2019/jul/25/blog-posting/no-first-american-president-wasnt-black-man-named-/) |
 | 6 | **Abdullah El**, **Benjamin Ashur**, etc. | **Refuted** | **No** appearance in Continental/Confederation journals, Maryland gazettes, or peer-reviewed history |
 | 7 | **Nat Turner El** president **1791–1793** | **Refuted** | **Nat Turner** born **2 Oct 1800** — [Britannica](https://www.britannica.com/biography/Nat-Turner); rebellion **1831**; **not born** during alleged term |
-| 8 | **George Washington** was not first president | **Refuted** (modern office) | First **Article II** president **1789–1797** — universal record |
+| 8 | **George Washington** was not first president | **Refuted** (if “only president”) / **Validated** (Article II) | First **Constitutional** president **1789** — [House Historian](https://history.house.gov/Institution/Continental-Congress/Presidents/); Confederation **chairs** are a **different office** (§3) |
 | 9 | **“Hidden in plain sight”** / scrubbed Moorish blood | **Not validated** | No NARA, LoC, or Liberian National Archives transfer dossier; genre matches **Moorish Science Temple / sovereign-citizen** historiography |
 | 10 | **Portraits** = historical likenesses | **Refuted / AI-likely** | Turbans + uniform grey-beard style + cabinet-card frame around **non-photographic** faces; **daguerreotype** only from **1830s** — cannot depict **1781** sitters |
 | 11 | Liberia **John Hanson** proves meme | **Misread** | Black **John Hanson** (c.1791–1860) — **Liberian senator** from **1827** emigration — [BlackPast](https://www.blackpast.org/african-american-history/john-hanson-1791-1860/); [USAToday fact-check](https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-barack-obama-first-black-u-s-president/3909214001/) — **not** Confederation president |
@@ -71,11 +83,15 @@
 
 ---
 
-## 2b. Author read — garbled Horde-fracture folk memory (qualified)
+## 2b. Author read — garbled Horde-fracture folk memory (**interpretive only**)
 
-**Author (2026-06-11, session):** The meme has **no basis in fact** at literal level, but may be a **thinly redacted** popular compression of a different story: **America** founded on **redacted Rus-Horde** principles (not Rome); modern **presidents** as **term-limited reflections** of original **tsars** who, in the **first world republic**, were closer to **people-elected** sovereignty; those rulers later smeared as **“black kings,” “Moor kings,” “false kings”** — and in the Atlantic fracture, **false presidents**.
+**Does not rehabilitate infographic claims.** Literal rows in §2 stay **refuted**. What follows explains **magnetism** and tests **author thesis** — not meme facts.
 
-**Repo stance:** Record as **interpretive rhyme**, not evidence for the infographic. The meme’s **Liberia ordinal paste** and **fabricated Arabic names** remain **refuted**; Fomenko does **not** endorse Moorish Science Temple doctrine.
+**Author (2026-06-11, session):** The meme has **no basis in fact** at literal level, but may be a **thinly redacted** popular compression of a different story: **America** founded on **redacted Rus-Horde** principles (not Rome); modern **presidents** as **term-limited reflections** of original **tsar-khan** sovereignty after fracture; those rulers later smeared as **“black kings,” “Moor kings,” “false kings”** — and in the Atlantic fracture, **false presidents**.
+
+**“People-elected tsar” — Author speculative:** Fomenko does **not** document modern **ballot democracy** for Horde czars. Author extension: the **Christ story** reads as an **early election / acclamation narrative** — **Apostolic** (“people’s”) Christianity vs **Royal** bloodline worship [`02_06.html`](https://chronologia.org/en/how_it_was/02_06.html); **people’s king** without palace genealogy — [two-branches note](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md); **Andronicus-Christ** duplicated as **“local first czar”** in provincial chronicles [`08_07.html`](https://chronologia.org/en/how_it_was/08_07.html). **Speculative** bridge from **Passion / Senate decree** hostility to living god-kings [`02_15.html`](https://chronologia.org/en/how_it_was/02_15.html) — **not** proof the infographic’s **Abdullah El** row is real.
+
+**Repo stance:** **Interpretive rhyme only**, cited where Fomenko speaks; **author extensions** labeled. **Liberia ordinal paste** and **fabricated Arabic names** remain **refuted**.
 
 ### What rhymes (structural, not literal)
 
@@ -161,21 +177,37 @@ Under the **Articles of Confederation**, the **President of the United States in
 | **AI-style portraits** | Ten matching turbans/robes; not sourced to NARA, LoC, or Liberian archives |
 | **Anachronism** | **Nat Turner El** before Turner’s birth |
 | **Ordinal paste** | Liberian presidents **#1–#10** mapped onto invented names |
-| **Islamic crescent + Africa ankh** | Modern **Moorish American** symbol stack — not 1781 federal iconography |
+| **Islamic crescent + Africa ankh** | **Misdated** for 1781 federal iconography; **not** “no Horde connection” — crescent+star = **Ottoman–Horde cross branch** [`05.html`](https://chronologia.org/en/how_it_was/05.html); turbans on **imperial eagles** [`08_14.html`](https://chronologia.org/en/how_it_was/08_14.html). Critics who assume **zero Rus-Horde link** are often **uninformed** |
 | **“They never taught you”** | Conspiracy framing without primary citation |
 | **Two-year terms 1781–1801** | Fabricated rhythm; Articles prescribed **one-year** terms |
 
 ---
 
-## 7. Repo bridge — Moor lanes (do not merge)
+## 7. Repo bridge — Moor lanes (do not merge; **does not validate meme**)
+
+**Canonical three-lane table:** [slave-trades dossier](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) + [europe whitewash](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) §2c. **Pointers only here:**
 
 | Lane | This meme |
 |------|-----------|
-| **Delaware “Indian Moor”** ([Cherokee Moors dossier](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md)) | **State label** for Lenape — **documented** |
-| **Maghrebi Moor** ([slave-trades](/governance/slavery/slave-trades-and-moor-etymology-investigation.md)) | Mediterranean — **documented**, **different geography** |
-| **This infographic** | **Undocumented** — **ordinal hoax** using **real** Liberia names |
+| **Delaware “Indian Moor”** | **Documented state label** — [Cherokee dossier](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md); **≠** infographic |
+| **Maghrebi / Atlantic Moor** | **Documented** slaving + Barbary sphere — [slave-trades](/governance/slavery/slave-trades-and-moor-etymology-investigation.md); **≠** Confederation ordinal paste |
+| **This infographic** | **Refuted** ordinal hoax — **no** archival transfer |
 
-**Europe whitewash read:** Meme is **inverse whitewash** — **projects** Moorish identity onto **already-documented white Confederation chairs** while **real** Americo-Liberian **Black governance** (1848+) is repurposed as **“hidden” U.S. presidency** — collapses **two real histories** into one **false** pipeline. See [europe-white-bloodline-complexion-whitewash](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) §2c on **forced splits** and **category collision**.
+**Europe whitewash (interpretive):** Meme **projects** Moorish identity onto **documented white Confederation chairs** while **real** Americo-Liberian history (1848+) is repurposed as **“hidden” U.S. presidency** — **category collision**, not validation. See europe §2c **forced split** — link **does not** imply meme is **substantially true**.
+
+---
+
+## 7b. Core thesis — African Moors in America vs. official narratives
+
+**What we are actually investigating:** Not whether **Abdullah El** presided in **1783**, but whether **African-descended Moors** (Maghrebi, Barbary, Atlantic, and **state “Moor” race slots** like Delaware § 106) **lived in the Americas** in numbers and roles **incompatible** with how **two official stories** are usually told:
+
+| Official narrative (as popularly taught) | Collision if Moor-America memory is real |
+|------------------------------------------|------------------------------------------|
+| **“Redskins” / autochthon indigenous** — pre-Columbian nations as **sole** aboriginal story | **Moor** as **legal and ethnographic label** for **eastern Indians** + **African-presenting** studio portraits (Cherokee Freedmen lane) suggests **prior strata** **redacted** into **either** “Indian” **or** “Black” **never both** |
+| **Racial chattel slavery** — clean **white owner / black victim** cartoon; **Native** side separate | **Barbary white slavery**, **Atlantic Moor traders**, **Delaware tri-racial schools** break the **binary**; **Moor** often marks **status + empire**, not census **race** ([europe §2c](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md), Fomenko **Chermnaya → Chernaya** §10E) |
+| **Both** packaged in **19th–20th c. eugenics** vocabulary | **Huge counterfactual (author):** both narratives may be **largely falsified** — not “no suffering,” but **wrong ontology** — using **racist taxonomy** after **Horde fracture** and **Reformation map erasure** |
+
+**Repo stance:** **Open investigative** — gather **Tier A** labels (Delaware law, Gilbert 1948, Barbary record, Franklin **swarthy/tawny** rhetoric) and **refute meme hoaxes** without letting hoax-debunk **close** the **redaction** question. **Wrong is wrong** at meme level; **thesis** still needs its **own** evidence ladder (§8–9 open questions).
 
 ---
 
@@ -187,8 +219,6 @@ Under the **Articles of Confederation**, the **President of the United States in
 | Europe Moor–Boor split | [europe-white-bloodline-complexion-whitewash-investigation.md](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) |
 | Slave trades + Moor etymology | [slave-trades-and-moor-etymology-investigation.md](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
 | Benjamin / Americas embed | [apotheosis-washington-benjamin-tribe-america-investigation.md](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md) |
-| Europe Moor–Boor / false autochthony | [europe-white-bloodline-complexion-whitewash-investigation.md](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) |
-| Cherokee Moors / Delaware Moor law | [cherokee-moors-lenape-delaware-moor-label-investigation.md](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) |
 
 ---
 
@@ -293,4 +323,4 @@ Same section, Moscow **Golden Chamber**:
 
 Keywords: #Moorish #Liberia #JohnHanson #ArticlesOfConfederation #MemeForensics #Hoax #JosephRoberts #Fomenko #RusHorde #KingRhyme #ParadigmThreatFiles
 
-**Last updated:** 2026-06-11
+**Last updated:** 2026-06-23

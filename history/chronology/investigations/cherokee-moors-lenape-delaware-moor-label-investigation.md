@@ -2,7 +2,7 @@
 
 ![Cherokee Moors viral meme — framed studio portrait with overlay text (study copy)](cherokee-moors-lenape-delaware-moor-label-investigation.png)
 
-> **TL;DR:** A June 2026 social meme labels a late-19th-c. studio portrait **“Cherokee Moors”** and **“full Blooded Cherokee (Anyiuwuya)” in Oklahoma, 1890s** — **photo identity unverified**; **`#charlesformosa`** is a promoter tag, not an archive. **Validated:** Delaware **formally records** that the **Lenape Indian Tribe of Delaware** was **formerly known as “the Moors”**; **1921 School Code** authorized schools **“for the children of people called Moors”**; **Smithsonian 1948** (William Gilbert) lists **“Moors of Kent County, Delaware”** as a surviving eastern Indian group. **Not validated:** “Cherokee Moors” as ethnography; North African Moor = Cherokee; meme caption as genealogy. **Three lanes:** Maghrebi **Moor**, Delaware **Indian Moor** label, **Moorish Science Temple / MUURS** doctrine — conflation is the thread’s fight.
+> **TL;DR:** June 2026 meme labels an Oklahoma studio portrait **“Cherokee Moors”** — **photo unverified**; **`#charlesformosa`** not an archive. **Delaware law validated** (29 Del. C. § 106 — Lenape **formerly “the Moors”**; 1921 Moor schools; Smithsonian 1948 Gilbert) — **does not validate this Oklahoma caption.** **Meme flaws expected** (geography jump Cheswold ↔ Cherokee, lane conflation); we **refute the share** and **test author thesis** separately. **Core investigation:** whether **African Moor presence + “Moor” race labels** in America **refute** the **Redskins autochthon** story and the **simplified slavery binary** as **19th–20th c. eugenics** packaged them — **open**, not proven by Delaware alone.
 
 **Status:** Open — meme archived; Delaware primary law validated; photo source hunt open.  
 **Date:** 2026-06-11
@@ -13,13 +13,23 @@
 
 | If you want… | Section |
 |--------------|---------|
+| Method — meme vs. thesis | §0 |
 | Meme artifact + overlay text | §1 |
 | Claim-by-claim validation (thread distilled) | §2 |
 | Delaware Lenape “Moor” — law and schools | §3 |
 | Photo / Cherokee / Oklahoma forensics | §4 |
 | Three “Moor” lanes (do not merge) | §5 |
 | Repo thesis bridge (forced split) | §6 |
+| Core thesis — narratives falsified? | §6b |
 | Related investigations | §7 |
+
+---
+
+## 0. Method — meme flaws vs. author thesis
+
+**Repo rule:** Memes are expected to **miscaption photos**, **jump geography**, and **paste validated law onto unrelated images**. We **adjudicate each claim** (§2) and **do not treat debunk as closure** on whether **Moor-America memory** was **redacted**. **Delaware § 106 validates the state’s “Moor” label for Lenape — not “Cherokee Moors” in Oklahoma.**
+
+**Honeypot read (qualified):** Shares that **glue real Delaware statute** to **unverified Cherokee photos** may function as **disprovable bait** — debunkers stop at **“wrong tribe”** and never ask why the **state called Indians Moors**. See [moorish ten-presidents §0](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md) for the parallel **black-nationalist ordinal** trap.
 
 ---
 
@@ -35,6 +45,8 @@
 - Hashtag: **`#charlesformosa`**
 
 **Accompanying post caption (paraphrased):** North American **Lenape Moors**; Moors as teachers of natural medicine; tags `#iroquois #moors #yamasee #comanche #tamarie`.
+
+**Geography ambiguity (do not merge):** **Image** claims **Cherokee / Oklahoma / 1890s**; **thread** often cites **Delaware Lenape “Moor” law** (Cheswold, Kent County). **Same meme genre** — **not** the same claim. Validating **§ 106** does **not** authenticate **this plate**.
 
 **Study copy:** `cherokee-moors-lenape-delaware-moor-label-investigation.png` (this file).
 
@@ -104,15 +116,16 @@ Claims extracted from the discussion beneath the meme; each adjudicated on **pri
 
 ---
 
-## 5. Three “Moor” lanes — do not merge
+## 5. Three “Moor” lanes — pointers (canonical: slave-trades + europe §2c)
 
-| Lane | Geography | What “Moor” means | Validation |
-|------|-----------|-------------------|------------|
-| **A. Maghrebi / Mediterranean Moor** | North Africa, Iberia, Barbary | European exonym; Barbary slavery; Al-Andalus | [Slave-trades dossier](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
-| **B. Delaware / Nanticoke “Indian Moor”** | Kent & Sussex DE; Bridgeton NJ | **State + Smithsonian label** for **eastern Lenape–Nanticoke communities**; **“M”** license mark; tri-racial schools | **§3 above** |
-| **C. Moorish Science Temple / “MUURS”** | 20th-c. US urban; sovereign-citizen adjacency | Religious/nationality doctrine; **M-O-O-R-S** vs **M-U-U-R-S** spelling politics | **Modern**; not Delaware 1921 statute intent |
+| Lane | One-line | Validation |
+|------|----------|------------|
+| **A. Maghrebi / Mediterranean** | Barbary + Atlantic slaving exonym | [slave-trades](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
+| **B. Delaware “Indian Moor”** | State + Smithsonian label for **Lenape–Nanticoke** | **§3** |
+| **C. MST / “MUURS”** | 20th-c. doctrine + spelling politics | Modern; not 1921 statute intent |
+| **D. This meme (“Cherokee Moors”)** | Oklahoma caption + Lenape law paste | **Refuted / unverified** as stated |
 
-**Thread error pattern:** Lane **B** (Delaware law — **real**) is pasted onto Lane **A** (Maghrebi — **real but different**) and Lane **C** (doctrine — **modern**), then illustrated with an **Oklahoma Cherokee meme** (Lane **D — unverified**).
+**Thread error:** Lane **B** (real) pasted onto **A** + **D** (different geographies). **Does not validate meme.**
 
 ---
 
@@ -125,6 +138,20 @@ The meme is **evidence of category collision**, not proof of one ancestry.
 - **Cherokee Moors** memes **jump geography** (Oklahoma) and **nation** (Cherokee) onto that label — **skipping** the **documented** Cheswold paper trail.
 
 **Author read (qualified):** The **label** “Moor” once named **more than Berbers** — including **Delaware Indians** the state refused to call Indian on census forms. **Whitewash** later means **shrinking** “Moor” to **either** Black **or** exotic Muslim **or** fake history — never **Lenape school boards** and **Smithsonian survival reports**.
+
+---
+
+## 6b. Core thesis — African Moors in America vs. Redskins + slavery stories
+
+**Investigation focus (author):** If **African-descended Moors** and **“Moor” legal slots** were **present and then redacted** in North America, both popular **official narratives** wobble:
+
+| Narrative | Why Moor evidence matters |
+|-----------|---------------------------|
+| **“Redskins” / indigenous autochthon** | Delaware **“M”** on licenses + **Indian Moor** schools show the **state** classified a **non-white, non-Black** **third race** that was **still Indian-associated** — not the clean **pre-Columbian Redskin** cartoon |
+| **Slavery as racial binary** | **Barbary**, **Atlantic Moor traders**, **Cherokee Freedmen** portraits, and **tri-racial** Jim Crow codes break **owner-white / enslaved-Black** packaging |
+| **Eugenics layer** | **19th–20th c.** race science **froze** fluid **Moor / mulatto / Indian** labels into **fixed bins** — author counterfactual: **both** mainstream stories may be **largely falsified ontologies**, not “no trauma” |
+
+**This meme does not prove that counterfactual.** It **signals** category collision. Full stack: [moorish §7b](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md), [slave-trades](/governance/slavery/slave-trades-and-moor-etymology-investigation.md), [europe §2c](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md).
 
 ---
 
@@ -162,4 +189,4 @@ The meme is **evidence of category collision**, not proof of one ancestry.
 
 Keywords: #Cherokee #Lenape #Delaware #Moor #Moors #IndianTerritory #Oklahoma #CherokeeFreedmen #Smithsonian1948 #RaceLabels #MemeForensics #ParadigmThreatFiles
 
-**Last updated:** 2026-06-11
+**Last updated:** 2026-06-23

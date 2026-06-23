@@ -93,6 +93,16 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 - **Not sci-fi nukes: depleted uranium.** Nuclear weapons could be built in Iran **without the population knowing**, and without violating the fatwa in the way the world imagines. The world thinks of nuclear weapons as in science fiction—huge bombs that blow up the world. What is actually in play is the **storage of depleted uranium**, which is treated as a **natural byproduct of a peaceful nuclear program**—and in legal and public discourse it is exactly that. Because of a **mass, widespread misunderstanding of depleted uranium**—including among Iranians themselves—almost nobody realises that they may already be building **nuclear weapons**: not the sci-fi kind, but the kind used in the Iraq War, in Eastern wars, and in Japan—the kind that causes cancer and leukaemia. Converting depleted uranium into usable (radiological or tactical) weapons requires **very little technology and knowledge** compared with building a fission bomb.
 - **Synthesis.** The blindness comes down to (1) **misunderstanding of nuclear technology** (depleted uranium as "peaceful" byproduct vs. weaponisable material) and (2) **blind faith in an extremist Muslim faction created by CIA and MI6**—and in the fatwa as a guarantee of restraint. The author's view: there is **real potential** that the CIA (or allied intelligence) set up or used some **underground facility** to convert this depleted uranium into actual nuclear weapons, with the Iranian regime (and population) either unaware or complicit in a narrative that focuses only on "the bomb" in the Hollywood sense.
 
+### Author extension (Jun 2026): Islamabad MOU as lifetime hinge
+
+**Label:** Author thesis — tied to **documented** [Islamabad Memorandum](https://en.wikipedia.org/wiki/Islamabad_Memorandum) (**June 17, 2026**).
+
+> This is the **biggest world-history event in my lifetime** — consequences on **everything**; it **cannot be overstated**. The MOU is equivalent to the **end of World War II** with **America and allies** as major winners. **Unlike WWII:** America was then **new**, **mistake-prone**, **hijacked by foreign powers** into a dubious **G.I. Joe** war. **This time:** America was **war-ready**, **intelligent**, took out the **real threat**, and was **right in the end** — because the whole crisis traced to a **misunderstanding of what a nuclear bomb is**: Iran believed the **fatwa** and “peaceful” enrichment story while actually producing **depleted uranium ammunition** — **set up by MI6/CIA** (paragraphs above).
+>
+> The deal may **still fail** — but it sets a **precedent** that can be **repaired and reattempted** until **finalized**. Downstream: [LLM investigation §2.4](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md) (war-on-terror sunset, AI governance demobilization); [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md) (MOU timeline).
+
+**Tier:** Author geopolitical read — MOU signing is **Tier A** (NBC, AP, CNN); WWII equivalence and DU/fatwa mechanism are **author thesis**, not proven by MOU text.
+
 ---
 
 ## V. Post-9/11 Crises: Tracing Back to the CIA

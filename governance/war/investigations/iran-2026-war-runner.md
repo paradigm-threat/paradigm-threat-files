@@ -1,7 +1,7 @@
 # Iran War Runner — Timeline, Dual Track, and Current State
 
-**As of:** 14 May 2026  
-**Status:** Living runner. Primary sources: U.S. White House, State Department, CENTCOM, Trump direct statements; cross-checked against ISW/CRS where noted.
+**As of:** 22 June 2026  
+**Status:** Living runner. Primary sources: U.S. White House, State Department, CENTCOM, Trump direct statements; **Islamabad MOU** (Jun 17, 2026); cross-checked against ISW/CRS where noted.
 
 ![Iran war runner — timeline, dual track, and regional map read](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png)
 
@@ -30,7 +30,14 @@ The [State Department](https://www.state.gov/releases/office-of-the-legal-advise
 
 ---
 
-## Executive snapshot — 14 May 2026 (~Day 75)
+## Executive snapshot — 22 June 2026 (post–Islamabad MOU)
+
+- **Jun 17, 2026 — [Islamabad Memorandum](https://en.wikipedia.org/wiki/Islamabad_Memorandum) signed:** Trump and Pezeshkian sign **14-point MOU** — immediate/permanent **termination of military operations** on all fronts (incl. Lebanon); **60-day** window (extendable) for **final peace treaty** + **UNSC** endorsement; Hormuz reopening framework; U.S. sanctions easing and **naval blockade** lift schedule ([NBC](https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513), [AP MOU text](https://apnews.com/article/mou-transcript-iran-us-war-8576fbe2be1309977e903463fbf57ee6), [CNN text](https://www.cnn.com/2026/06/17/middleeast/us-iran-war-mou-text-intl)).
+- **Not final peace:** Technical talks on nuclear stockpile, Hormuz administration, Lebanon, and frozen assets **ongoing**; Trump warned U.S. may **resume bombing** if dissatisfied.
+- **Repairable precedent (author read):** Even if this round **stalls or fails**, MOU sets a **reattemptable** framework — see [LLM investigation §2.4](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md) for author **WWII-scale** read and downstream AI/governance consequences.
+- **Prior phase (Feb–May):** Heavy air campaign largely paused after **7 Apr** ceasefire; Hormuz mines/blockade, Lebanon, HEU custody remained live until MOU.
+
+### Prior snapshot — 14 May 2026 (~Day 75)
 
 - **Heavy air campaign:** Largely paused after the **7 April** two-week U.S.–Iran ceasefire; not the same as peace.
 - **What continues:** Hormuz (mines, blockade, *Project Freedom* escorts, tanker seizures), sporadic U.S. strikes (e.g. **7 May** Bandar Abbas / Qeshm), Israel–Hezbollah/Lebanon fighting, deadlocked nuclear talks after Trump rejected Iran’s counterproposal (**~11 May**).
@@ -194,13 +201,28 @@ Use **U.S. official KIA** and **Israeli Home Front** totals for **Western-facing
 
 ---
 
-## Negotiations — May 2026
+### 17 June 2026 — Islamabad MOU (initial peace)
+
+| Item | Detail | Tier |
+|------|--------|------|
+| **Event** | **Islamabad Memorandum of Understanding** — U.S. and Iran end **2026 war** (initial framework) | A — [Wikipedia](https://en.wikipedia.org/wiki/Islamabad_Memorandum) |
+| **Signatories** | Trump (Versailles/G7 dinner) and President **Masoud Pezeshkian** (Tehran); prior digital signing reported **15 Jun** (Vance / Ghalibaf) | A — NBC, Wikipedia |
+| **Brokers** | Pakistan (primary); Qatar, Saudi Arabia, Turkey, Egypt | A — Wikipedia |
+| **Key terms** | Ceasefire **all fronts** incl. Lebanon; **60-day** final-deal clock; Hormuz traffic; sanctions/assets; nuclear **technical talks** | A — AP, CNN |
+| **Fragility** | Trump: may **return to bombing**; Supreme Leader **Mojtaba Khamenei** endorsed MOU **with misgivings** (Wikipedia) | B — press |
+
+**Project read:** Conventional strike campaign **largely banked** before MOU; remaining file is **negotiation** (HEU, Hormuz, Lebanon) not **Iranian missile saturation**. MOU is **hinge** for **war-on-terror sunset** and **trade reopening** arguments in [LLM governance investigation §2.4](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md).
+
+---
+
+## Negotiations — May–June 2026
 
 - **Trump (6 May PBS):** Deal close; HEU to U.S.; underground sites idle; sanctions ease; *Project Freedom* paused.
 - **Iran (~10–11 May):** Counterproposal rejected; demands include **reparations, Hormuz sovereignty, sanctions, assets**; **enrichment not negotiable** per Eslami.
 - **Trump (11 May):** **“TOTALLY UNACCEPTABLE”**; ceasefire **“massive life support.”**
+- **Jun 17:** **Islamabad MOU signed** — see timeline §17 June above; **final deal** negotiations **active**.
 
-**Read:** Iran negotiates **everything but nukes** because **nukes are the only sovereignty left**; U.S. negotiates because **conventional war goals are already banked**.
+**Read:** Iran negotiates **everything but nukes** because **nukes are the only sovereignty left**; U.S. negotiates because **conventional war goals are already banked** — MOU **codifies** that asymmetry while **final treaty** remains open.
 
 ---
 
@@ -218,7 +240,8 @@ Use **U.S. official KIA** and **Israeli Home Front** totals for **Western-facing
 
 ## Open threads
 
-1. **HEU location** — ready for **forced extraction** or already moved?
+1. **Final peace treaty** — **60-day** MOU clock (from **17 Jun 2026**); UNSC resolution; implementation of paras 1, 4, 5, 10, 11 gating further talks (AP text).
+2. **HEU location** — ready for **forced extraction** or already moved?
 2. **Mine maps** — will Iran **trade coordinates** for deal, or **ambiguous denial** forever?
 3. **Mojtaba succession** — **reasonable regime** Trump tweets about, or **IRGC forever**?
 4. **Minab attribution** — forensic proof of **pre-planned narrative** strike?
@@ -239,12 +262,19 @@ Use **U.S. official KIA** and **Israeli Home Front** totals for **Western-facing
 
 ## References (primary / official first)
 
+- [Islamabad Memorandum — Wikipedia](https://en.wikipedia.org/wiki/Islamabad_Memorandum) (Jun 17, 2026)
+- [NBC: Trump and Pezeshkian sign MOU](https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513) (Jun 17, 2026)
+- [AP: MOU transcript](https://apnews.com/article/mou-transcript-iran-us-war-8576fbe2be1309977e903463fbf57ee6) (Jun 17, 2026)
+- [CNN: 14-point MOU text](https://www.cnn.com/2026/06/17/middleeast/us-iran-war-mou-text-intl) (Jun 17, 2026)
+- [LLM history investigation §2.4 — MOU + author WWII read](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md) — downstream AI/governance/Bill of Rights sunset
 - [State Dept: Operation Epic Fury and International Law](https://www.state.gov/releases/office-of-the-legal-adviser/2026/04/operation-epic-fury-and-international-law) (Apr 2026)
 - [White House: Epic Fury launch](https://www.whitehouse.gov/articles/2026/03/peace-through-strength-president-trump-launches-operation-epic-fury-to-crush-iranian-regime-end-nuclear-threat) (1 Mar 2026)
 - [CRS IF13032: Israel-Iran, U.S. Strikes, Ceasefire](https://www.everycrsreport.com/reports/IF13032.html) (Jun 2025)
 - [Trump PBS interview, 6 May 2026](https://www.pbs.org/newshour/nation/trump-tells-pbs-news-that-iran-war-has-a-very-good-chance-of-ending)
 - [ISW Iran Update, 11 May 2026](https://understandingwar.org/research/middle-east/iran-update-special-report-may-11-2026/)
 - [Mission Accomplished (Again): What the Media Will Not Admit About Iran, 2026](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) — reader-facing flagship essay (media split, pipeline, coda)
+- [The Peace Deal Nobody Is Covering — Islamabad MOU installment](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md) — antibody close, Islam awakening, chessboard (Jun 2026)
+- [Islamabad peace deal — investigation dossier](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation.md)
 - [Iran 2026 war Q&A — mainstream framing debunks](https://paradigmthreat.net/governance/war/qa/page.md) — thread-sourced Q&A (MOU vs strike ledger, war powers, TDS shortcuts)
 - [Dubious stand down — Libya, Benghazi, gold / dinar, *Three Kings* cluster](https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md) — Iraq 2003 / Libya 2011 comparative lane for the “again” title
 - [Governance usury — JFK / silver, Treasury vs Fed reader](https://paradigmthreat.net/governance/usury/d.md) — fiat backdrop (collection reader lane)

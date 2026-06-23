@@ -121,6 +121,8 @@ so the public forgets **migration, exodus, Horde fracture, and elite intermarria
 | **“Same people” literally** (every Moor = every German peasant) | **Overstated** — needs **elite genealogy** and regional nuance |
 | **Franklin “Palatine Moors”** | **Forensic sidebar** — shows **conflation** in modern books; **not** required for §2c |
 
+**Moor meme cluster (2026):** [Cherokee](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) and [ten-presidents](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md) dossiers apply this **forced-split** frame to **American race law** — **refute memes literally**, test **§7b redaction thesis** separately. **Link does not imply meme validation.**
+
 ---
 
 ## 3. Taxonomy: versions of “white” and “non-white” in play
@@ -239,6 +241,7 @@ Use this table when reading European sources, meme books, or Fomenko side by sid
 | Tartarian maps | [/history/mudflood/investigations/tartarian-maps-investigation.md](/history/mudflood/investigations/tartarian-maps-investigation.md) |
 | Franklin complexion + Palatine | [/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md](/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md) |
 | Slave trades + Moor | [/governance/slavery/slave-trades-and-moor-etymology-investigation.md](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
+| Moor label cluster — meme forensics + §7b thesis | [moorish ten-presidents §7b](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md), [cherokee §6b](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) |
 | Cherokee Moors meme + Delaware Lenape “Moor” law | [/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) |
 | American Revolution / 1775 fracture | [/governance/war/investigations/american-revolution-investigation.md](/governance/war/investigations/american-revolution-investigation.md) |
 | Giants / Horde military lexicon | [/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) |

@@ -13,7 +13,7 @@ See the [LLM History & Governance Theater Investigation](/science/ai/llm-history
 - **Deliberate bad software:** Microsoft and Apple made software difficult for handicapped and elderly, full of DLL hell and back doors—not accident, not negligence. Done on purpose, anticipating AI.
 - **End game:** Voice-command dependency → ultimate remote control of all technology, government, militaries. Austin Powers villain–style takeover.
 - **AI chips:** Same pattern as [microchips](/science/microchips/investigations/microchips-shrinking-technology-investigation)—China cannot reproduce, falling behind. Strange for a major country.
-- **LLM governance theater:** Pre-LLM deployed AI (Maven, surveillance) vs post-ChatGPT ethics campaigns; Pentagon–Anthropic rupture; regulatory-capture read parallel to Net Neutrality — [full dossier](/science/ai/llm-history-governance-theater-investigation).
+- **LLM governance theater:** Pre-LLM deployed AI (Maven, surveillance) vs post-ChatGPT ethics campaigns; Pentagon–Anthropic rupture; regulatory-capture read parallel to Net Neutrality — [full dossier](/science/ai/llm-history-governance-theater-investigation). **Suggested reader article:** [Responsibility to the Next Generation](/history/chronology/responsibility-to-the-next-generation.md) (education Installment II; pedagogy tie-in §10).
 
 
 ---

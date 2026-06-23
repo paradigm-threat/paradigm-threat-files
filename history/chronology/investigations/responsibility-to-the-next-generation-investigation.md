@@ -1,9 +1,9 @@
 # Investigation: Responsibility to the Next Generation — Education in the AI Era
 
-> **TL;DR:** Citation dossier for [*Responsibility to the Next Generation*](https://paradigmthreat.net/history/chronology/responsibility-to-the-next-generation.md) — **Installment II** after [*When your child won't fit the grade*](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md). **Documented:** *Fantastic Planet* plot; Neuralink mission; neuroethics moratorium/ban-on-children lane; K-12 BCI adoption discourse. **Author thesis:** rethink education — **ethics + QA**, not syllabus packing; **sidecar** knowledge vs **headset** implant; **lab / gym / 1-on-1** irreplaceable; **human-validated** reading/writing/typing; housebroken-society reduced scope. **Spinoff** from [Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md) §V (2026-06-19).
+> **TL;DR:** Citation dossier for [*Responsibility to the Next Generation*](https://paradigmthreat.net/history/chronology/responsibility-to-the-next-generation.md) — **Installment II** after [*When your child won't fit the grade*](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md). **Suggested reader article** for [LLM history & governance theater investigation](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md) §10 (pedagogy tie-in; tech policy stays in LLM dossier). **Documented:** *Fantastic Planet* plot; Neuralink mission; neuroethics moratorium/ban-on-children lane. **Author thesis (Jun 2026 rewrite):** **embrace LLMs fully**; **autodidactic by default**, **class supplementary**; class time for **labs/gym/workshop/1-on-1** only — not bulk read/write/listen; **ethics + QA**; sidecar not headset; **1-on-1 irreplaceable**.
 
-**Last updated:** 2026-06-19  
-**Status:** Open — education series Installment II
+**Last updated:** 2026-06-22  
+**Status:** Open — education series Installment II; **suggested article** for LLM governance investigation
 
 **Guide (read order)**
 
@@ -31,9 +31,9 @@
 >
 > **Software will never replace a laboratory.** Simulations may be a great alternate way to learn, but the idea of a lab is for notions that claim to be true to be **actually tested and verified**. Without grounding knowledge, knowledge becomes **detached from the ground** and floats until assumptions crash into reality.
 
-**Essay expansion (reader article):** Gym, coach, 1-on-1 presence, human-validated reading/writing/typing — §4 table.
+**Essay expansion (reader article, Jun 2026):** **LLM embrace**; autodidactic default; classroom inverted (labs/mentors only); gym, 1-on-1 presence, human-validated reading/writing/typing — §4 table. **Dedup:** Prussia/Flexner/conformity history → Installment I; Net Neutrality / open letters / Pentagon → [LLM investigation §10](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md#10-suggested-reader-article-and-dedup-boundary).
 
-**Unpack:** **Ethics = guardrails, not syllabus.** AI is **sidecar** (library, drill, search) — not substitute for **1-on-1 presence** or **human-validated literacy**. Rhymes with Installment I — schooling as conformity engine vs child-led discovery.
+**Unpack:** **Ethics = guardrails, not syllabus.** LLMs are **sidecar** (library, drill, search) — not substitute for **1-on-1 presence** or **human-validated literacy**. **Class is supplementary** — lecture-first schooling **rarely works**; physical seat time for **equipment** unavailable at home. Rhymes with Installment I — schooling as conformity engine vs child-led discovery; rhymes with LLM investigation §2.1 — **user QA** and **provider exit** at child scale.
 
 ---
 
@@ -85,17 +85,18 @@
 
 ---
 
-## 6. Tech context — internet essay (routing only)
+## 6. Tech context — routing only (dedup)
 
-Education Installment II **does not** re-argue WebMCP, sealed hood, or Terminator PP. Brief bridge:
+Education Installment II **does not** re-argue WebMCP, sealed hood, Terminator PP, Net Neutrality, open letters, or Pentagon–vendor sequence. Brief bridge:
 
 | Link | Relevance |
 |------|-----------|
+| [LLM history & governance theater investigation](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md) | **Suggested dossier pair** — user QA, provider exit, open weights, governance theater; **§10** lists what stays **out** of this essay |
 | [Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md) | AI gate, agent APIs, Nano on desktops — **why** rethink education **now** |
 | [Internet investigation §11](https://paradigmthreat.net/science/computing/investigations/internet-that-should-have-been-investigation.md) | Courts, hijack — institutional QA parallel |
 | [AI control investigation](https://paradigmthreat.net/science/ai/ai-control-investigation.md) | Broken software / institutional automation |
 
-**Former home:** Internet investigation **§8** moved here 2026-06-19.
+**Former home:** Internet investigation **§8** moved here 2026-06-19. **LLM investigation §10** added 2026-06-22 as editorial routing for Installment II.
 
 ---
 
@@ -109,7 +110,11 @@ Education Installment II **does not** re-argue WebMCP, sealed hood, or Terminato
 6. **Literacy human-validated:** Kids can fool automated graders — §4.  
 7. **Fantastic Planet headset (author):** Neural pack-in vs sidecar — §2–§3.  
 8. **Housebroken society:** Reduced scope for mandated volume — §5.  
-9. **Installment I → II:** Institutional conformity → forward AI-era duty — series frame.
+9. **Installment I → II:** Institutional conformity → forward AI-era duty — series frame.  
+10. **Embrace LLMs fully (Jun 2026):** Part of any educational future; accessibility without conformist grading — essay TL;DR.  
+11. **Autodidactic default; class supplementary:** Home/async for read/write/listen; class for labs, gym, workshop, mentor — essay §§ autodidactic / class tables.  
+12. **Classroom lecture rarely works:** Cheap to administer, weak for deep learning — author pedagogical read.  
+13. **LLM investigation tie-in:** User QA + provider exit at child scale — [LLM investigation §2.1, §10](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md).
 
 ---
 
@@ -122,6 +127,7 @@ Education Installment II **does not** re-argue WebMCP, sealed hood, or Terminato
 | [Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md) | Tech flagship; brief §V bridge |
 | [Internet investigation](https://paradigmthreat.net/science/computing/investigations/internet-that-should-have-been-investigation.md) | WebMCP, Nano, courts |
 | [AI control investigation](https://paradigmthreat.net/science/ai/ai-control-investigation.md) | Hijack thesis |
+| [LLM history & governance theater investigation](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md) | **Suggested pair** — §10 routes pedagogy vs tech-policy dedup |
 
 ---
 

@@ -1,8 +1,159 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-23T13:11:12.418Z",
+    "date": "2026-06-23T14:21:53.426Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".gitignore",
+        "href": "/.gitignore"
+      },
+      {
+        "status": "A",
+        "path": "docs/INVESTIGATION_LLM_SWEEP.md",
+        "href": "/docs/INVESTIGATION_LLM_SWEEP"
+      },
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "A",
+        "path": "docs/sweep-plans/README.md",
+        "href": "/docs/sweep-plans/README"
+      },
+      {
+        "status": "A",
+        "path": "docs/sweep-plans/_TEMPLATE_SWEEP_PLAN.md",
+        "href": "/docs/sweep-plans/_TEMPLATE_SWEEP_PLAN"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cia-investigation.md",
+        "href": "/governance/war/investigations/cia-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/iran-2026-war-runner.md",
+        "href": "/governance/war/investigations/iran-2026-war-runner"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/investigations/islamabad-peace-deal-investigation.md",
+        "href": "/governance/war/investigations/islamabad-peace-deal-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/page.md",
+        "href": "/governance/war/investigations"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md",
+        "href": "/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026"
+      },
+      {
+        "status": "A",
+        "path": "governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.png",
+        "href": "/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.png"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/mission-accomplished-again-iran-2026.md",
+        "href": "/governance/war/mission-accomplished-again-iran-2026"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md",
+        "href": "/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md",
+        "href": "/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md",
+        "href": "/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/responsibility-to-the-next-generation-investigation.md",
+        "href": "/history/chronology/investigations/responsibility-to-the-next-generation-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/responsibility-to-the-next-generation.md",
+        "href": "/history/chronology/responsibility-to-the-next-generation"
+      },
+      {
+        "status": "M",
+        "path": "science/ai/llm-history-governance-theater-investigation.md",
+        "href": "/science/ai/llm-history-governance-theater-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/ai/page.md",
+        "href": "/science/ai"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.png"
+      },
+      {
+        "src": "/docs/)`)."
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
+        "alt": "Iran war runner — timeline, dual track, and regional map read"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map.png",
+        "alt": "Iran war runner — theater map (Hormuz, Gulf, and adjacent land)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
+        "alt": "Iran war runner — Strait of Hormuz detail (theater map)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/ww2-mission-failed.png",
+        "alt": "WW2 — mission failed vs victory story (title bridge)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.png",
+        "alt": "The Peace Deal Nobody Is Covering — Islamabad MOU, media silence, and Strait of Hormuz"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
+        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
+      },
+      {
+        "src": "/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.png",
+        "alt": "Cherokee Moors viral meme — framed studio portrait with overlay text (study copy)"
+      },
+      {
+        "src": "/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png",
+        "alt": "Europe white bloodline, complexion, and whitewash — investigation header"
+      },
+      {
+        "src": "/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.png",
+        "alt": "Moorish ten presidents infographic — study copy"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-23T13:11:11.000Z",
+    "message": "Expand Moor ten-presidents dossier with author read and Fomenko king rhyme.",
     "files": [
       {
         "status": "M",
@@ -1702,53 +1853,6 @@
         "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
         "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
       },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
-        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
-        "alt": "9/11 predictive programming — media rehearsal before the public event"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
-        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/controlled_resistance.jpg",
-        "alt": "Controlled resistance — manufactured dissent that looks like real opposition"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
-        "alt": "Celebrity modern slavery — contracts, containment, and creative control"
-      },
-      {
-        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
-      },
-      {
-        "src": "/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.png",
-        "alt": "*The Matrix* — “Not Like This” containment investigation (header)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-14T15:23:02.000Z",
-    "message": "Expand Matrix containment essay with Wake Up credits, YIFY dialogue fixes, and Square tribute demo.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/not-like-this.md",
-        "href": "/influence/controlled_opposition/not-like-this"
-      },
-      {
-        "status": "M",
-        "path": "influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md",
-        "href": "/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation"
-      }
-    ],
-    "images": [
       {
         "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
         "alt": "Not Like This — Matrix containment and the two-camp war for movies"

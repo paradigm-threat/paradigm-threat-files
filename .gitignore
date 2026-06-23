@@ -48,3 +48,8 @@ public/
 # python
 __pycache__/
 *.pyc
+
+# Investigation LLM sweep — generated plans (local only; spec + template stay tracked)
+docs/sweep-plans/*
+!docs/sweep-plans/README.md
+!docs/sweep-plans/_TEMPLATE_SWEEP_PLAN.md

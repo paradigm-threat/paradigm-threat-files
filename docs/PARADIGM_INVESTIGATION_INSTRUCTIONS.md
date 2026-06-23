@@ -4,6 +4,8 @@
 
 **Reader-facing articles** (parent-folder essays: **thesis-led** voice, hook, theory-first pacing, lay citations with dossiers for heavy proof) — **[`docs/instructions/ARTICLES.md`](instructions/ARTICLES.md)**.
 
+**Investigation LLM sweep** (scheduled or post-update quality review; **plan files only**, no autonomous edits) — **[`docs/INVESTIGATION_LLM_SWEEP.md`](INVESTIGATION_LLM_SWEEP.md)**.
+
 **Epistemic foundation (all investigations and articles):** **[`docs/PRISCA_SAPIENTIA.md`](PRISCA_SAPIENTIA.md)** — **prisca sapientia**: the ancients possessed vast understanding of universe, nature, and theology; later science and institutions degraded or captured it. **Required:** every `*investigation*.md` opens **Limits and disclaimers** with the standard **Prisca sapientia** paragraph (below); articles include it in **`## Framing and limits`** (or link once there).
 
 **Standard paragraph (investigations — paste at top of Limits):**
@@ -81,7 +83,7 @@ When generating or landing a **new** `.md` article, **hub**, or **major investig
 - **Do not lose data.** Merge sections by moving paragraphs and tables into the surviving heading; never drop citations, URLs, or checklist rows without pasting them elsewhere.
 - **Reduce redundancy.** One **Limits** block at **file end** (before Investigator notes); one **Related investigations** table (do not duplicate the same links in a separate “Cross-links” section). One interpretive “premise” statement — cross-reference earlier sections instead of restating.
 - **Everyday readers:** Keep a short **Guide (read order)** as a numbered list (reliable on all renderers). Prefer plain sentences; **bold** for emphasis and labels, not every entity name.
-- **Closing a session:** Refresh **`governance/war/investigations/page.md`** row if scope changed; add/update **`docs/INVESTIGATIONS_DEEP_DIVE.md`** row **and** §2 validation block when the file has material open TODOs; update **site root [`page.md`](../page.md)** **`## Investigation Categories`** (and **`## My Articles`** if featured) per **New article or hub — discovery checklist** above; update **topic hub `page.md`** and **`index-investigations.md`** when the lane uses them; run final pass on **open questions** and **weak points / TODOs**; **`npm run autogen`**; **commit** and **push all configured remotes** (`origin`, relays, etc.) when the author asks for repo sync.
+- **Closing a session:** Refresh **`governance/war/investigations/page.md`** row if scope changed; add/update **`docs/INVESTIGATIONS_DEEP_DIVE.md`** row **and** §2 validation block when the file has material open TODOs; update **site root [`page.md`](../page.md)** **`## Investigation Categories`** (and **`## My Articles`** if featured) per **New article or hub — discovery checklist** above; update **topic hub `page.md`** and **`index-investigations.md`** when the lane uses them; run final pass on **open questions** and **weak points / TODOs**; **`npm run autogen`**; **commit** and **push all configured remotes** (`origin`, relays, etc.) when the author asks for repo sync. **Optional quality pass:** run or schedule an **[Investigation LLM sweep](INVESTIGATION_LLM_SWEEP.md)** (plan file only — **no** autonomous investigation edits).
 
 ---
 
