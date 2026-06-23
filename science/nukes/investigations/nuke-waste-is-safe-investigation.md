@@ -441,6 +441,8 @@ Galen Windsor's lecture is not the rant of an outsider. It is the testimony of a
 
 **Related (open):** [Marie Curie, battlefield radiation, and post-war nuclear narrative](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) — WWI radiology, possible narrative flattening, and the enriched/depleted split in historical memory.
 
+**Documented worldwide DU media gap (reader essay):** [*The Peace Deal Nobody Cares About*](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) (Iran **2026** Installment III) — § **DU blind spot** — ties **Gulf/Balkans** DU under-reporting, **IWPR** Bosnia distrust, **RT** survivor lanes, and **Iran 2026** policy blindness to a **documented** pattern: one topic **vanishes** across Western and most alternate press through **fear**, **unprofitability** of reopening **WWII**-scale wounds, and **ignorance** (personnel on hot sites **not warned**). Dossier: [Islamabad investigation §2.1.1](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation.md). Pair with Wikipedia DU health sections and Windsor’s **inhalation** note above (Chernobyl, Iraq, Balkans contexts).
+
 ---
 
 ## Triangulation: Curie, Byers, and Winsor (three embodied witnesses — chronology sentiment)

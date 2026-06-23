@@ -1,8 +1,108 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-23T14:42:27.621Z",
+    "date": "2026-06-23T14:53:28.254Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cia-investigation.md",
+        "href": "/governance/war/investigations/cia-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/iran-2026-war-runner.md",
+        "href": "/governance/war/investigations/iran-2026-war-runner"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/islamabad-peace-deal-investigation.md",
+        "href": "/governance/war/investigations/islamabad-peace-deal-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/page.md",
+        "href": "/governance/war/investigations"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/us-civil-war-investigation.md",
+        "href": "/governance/war/investigations/us-civil-war-investigation"
+      },
+      {
+        "status": "R",
+        "path": "governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md",
+        "href": "/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026"
+      },
+      {
+        "status": "R",
+        "path": "governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png",
+        "href": "/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/mission-accomplished-again-iran-2026.md",
+        "href": "/governance/war/mission-accomplished-again-iran-2026"
+      },
+      {
+        "status": "M",
+        "path": "science/ai/llm-history-governance-theater-investigation.md",
+        "href": "/science/ai/llm-history-governance-theater-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md",
+        "href": "/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation"
+      },
+      {
+        "status": "M",
+        "path": "science/nukes/investigations/nuke-waste-is-safe-investigation.md",
+        "href": "/science/nukes/investigations/nuke-waste-is-safe-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/nukes/investigations/nukes-dont-exist-investigation.md",
+        "href": "/science/nukes/investigations/nukes-dont-exist-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
+        "alt": "Iran war runner — timeline, dual track, and regional map read"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map.png",
+        "alt": "Iran war runner — theater map (Hormuz, Gulf, and adjacent land)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
+        "alt": "Iran war runner — Strait of Hormuz detail (theater map)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/ww2-mission-failed.png",
+        "alt": "WW2 — mission failed vs victory story (title bridge)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png",
+        "alt": "The Peace Deal Nobody Cares About — Islamabad MOU, media indifference, and Strait of Hormuz"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
+        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-23T14:42:26.000Z",
+    "message": "Reframe Islamabad media read and add DU blind-spot thesis with IWPR sourcing.",
     "files": [
       {
         "status": "M",
@@ -1609,43 +1709,6 @@
       {
         "src": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
         "alt": "Celebrity modern slavery — contracts, containment, NDAs, and creative control"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-17T12:42:09.000Z",
-    "message": "Add 24 as NSA-aligned TV case in China/Hollywood investigation.",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
-        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/everything-burns.md",
-        "href": "/influence/hollywood/everything-burns"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md",
-        "href": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/page.md",
-        "href": "/influence/hollywood"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
-        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
-      },
-      {
-        "src": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png",
-        "alt": "China / Hollywood two-camp war — investigation cover"
       }
     ]
   }

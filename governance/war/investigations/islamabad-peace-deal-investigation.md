@@ -1,13 +1,13 @@
 # Investigation: Islamabad Peace Deal — MOU, Antibody Close, and Islam Awakening Thesis
 
-> **TL;DR:** Citation dossier for [*The Peace Deal Nobody Is Covering*](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md) — follow-up to [*Mission Accomplished (Again)*](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md). **Documented:** [Islamabad Memorandum](https://en.wikipedia.org/wiki/Islamabad_Memorandum) (**Jun 17, 2026**), 14-point U.S.–Iran MOU, 60-day final-deal window, Hormuz/sanctions framework. **Author thesis:** lifetime hinge; media **interpretation** caution (not absence of day-to-day MOU reporting); eagle's-eye **irreversible board shift**; **DU sci-fi blind spot** → Iran crisis; antibody close; Islam awakening; Ayatollah proxy collapse; chessboard **Israel backing**; rebuild + unhappy outcomes.
+> **TL;DR:** Citation dossier for [*The Peace Deal Nobody Cares About*](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) — follow-up to [*Mission Accomplished (Again)*](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md). **Documented:** [Islamabad Memorandum](https://en.wikipedia.org/wiki/Islamabad_Memorandum) (**Jun 17, 2026**), 14-point U.S.–Iran MOU, 60-day final-deal window, Hormuz/sanctions framework. **Author thesis:** lifetime hinge; media **interpretation** caution (not absence of day-to-day MOU reporting); eagle's-eye **irreversible board shift**; **DU sci-fi blind spot** → Iran crisis; antibody close; Islam awakening; Ayatollah proxy collapse; chessboard **Israel backing**; rebuild + unhappy outcomes.
 
 **Last updated:** 2026-06-23  
 **Status:** Open — Iran 2026 series Installment III (reader essay + dossier)
 
 **Guide (read order)**
 
-0. **Reader essay** → [Islamabad peace deal article](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md)  
+0. **Reader essay** → [Islamabad peace deal article](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md)  
 1. **Series** → [Mission Accomplished (Again)](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) · [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md)  
 2. **Documented MOU** → §1  
 3. **Author thesis (media interpretation caution, lifetime hinge)** → §2  
@@ -65,6 +65,14 @@
 
 **Skeptic:** WHO/NATO and many epidemiological reviews **dispute** proven DU→cancer causation at population scale; author cites **media asymmetry** and **Iran policy blind spot**, not settled oncology.
 
+### 2.1.1 Author thesis — worldwide “cover-up” without conspiracy of silence
+
+**Label:** Author thesis — Jun 23 extension; **documented** Bosnia/IWPR anchors + interpretive layers.
+
+> DU topic **censored almost worldwide** — **few exceptions** even in alternate press — **not** because of coordinated silence but **stacked incentives**: (1) **fear** of unlocking past truth; (2) **unprofitability** of research/cleanup — reopens wounds, reasks questions, challenges **WWII victory** narrative; only **profitable** details (e.g. **Holocaust** memorial industry) capitalized at scale while **unprofitable contradictory** DU/radiological harm **dangerous** to publish; (3) **ignorance** — guards on **contaminated** sites **not warned** (IWPR sentries); doctors/residents **cannot confirm or deny** without funded statistics. **Demonstrates** how one subject vanishes **documented** — see reader essay [§ DU blind spot](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) and subsection **When one topic vanishes worldwide**.
+
+**Reader essay (canonical prose):** [The Peace Deal Nobody Cares About — Installment III](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) — **majority** of DU **media-cover-up** argument and **Iran 2026 policy consequence** live here; cite this file from all **science/nukes** DU investigations.
+
 ---
 
 ## 3. Author thesis — Islam awakening and divide-and-conquer
@@ -107,18 +115,20 @@
 6. Iraq/Balkans DU reporting asymmetry (RT, IWPR) — §2.1.  
 7. Hiroshima/Nagasaki DU cover-up — §2.1 — **author read**; [nukes investigation](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md).  
 8. DU misreport → Iran crisis — §2.1 — **author thesis**.  
-9. Islam redaction awakening — §3.  
-10. British / Russian Horde vacuum — §3 — **author read**.  
-11. Bamiyan / Armenian examples — §3 — **Bamiyan 2001 documented**.  
-12. Antibody / non-organic wars — §4; [good-actor investigation](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).  
-13. Ellsberg loyalty trap — §4.  
-14. 9/11 NSA/Israel play; WTC 7 CIA — §4.  
-15. Post-9/11 mop-up; 2026 proxy destruction — §4.  
-16. Ayatollah proxy; dual wrong faith — §5.  
-17. Wells Islam prediction — §4 — **verify primary Wells text** (open hook).  
-18. Chessboard Israel backing — §5.  
-19. Religion comparative — §5 — **normative author read**.  
-20. Rebuild + Oracle peace duration — §5.  
+9. Worldwide DU silence **without conspiracy** (fear / unprofitability / ignorance) — §2.1.1; [reader essay § DU](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md).  
+10. Sentries unwarned on hot ground; EU cleanup funds unused — §2.1.1 — **IWPR documented**.  
+11. Islam redaction awakening — §3.  
+12. British / Russian Horde vacuum — §3 — **author read**.  
+13. Bamiyan / Armenian examples — §3 — **Bamiyan 2001 documented**.  
+14. Antibody / non-organic wars — §4; [good-actor investigation](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).  
+15. Ellsberg loyalty trap — §4.  
+16. 9/11 NSA/Israel play; WTC 7 CIA — §4.  
+17. Post-9/11 mop-up; 2026 proxy destruction — §4.  
+18. Ayatollah proxy; dual wrong faith — §5.  
+19. Wells Islam prediction — §4 — **verify primary Wells text** (open hook).  
+20. Chessboard Israel backing — §5.  
+21. Religion comparative — §5 — **normative author read**.  
+22. Rebuild + Oracle peace duration — §5.  
 
 ---
 
@@ -126,12 +136,14 @@
 
 | Doc | Relevance |
 |-----|-----------|
-| [Islamabad reader essay](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md) | Installment III |
+| [Islamabad reader essay](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) | Installment III |
 | [Mission Accomplished (Again)](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) | Installment II |
 | [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md) | MOU timeline |
 | [Good-actor / antibody](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) | 80-year arc |
 | [CIA investigation](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md) | Iran pipeline, DU, MOU extension |
 | [Nukes investigation — enriched/depleted](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md) | Hiroshima DU author read |
+| [Nuke waste is safe — Winsor](https://paradigmthreat.net/science/nukes/investigations/nuke-waste-is-safe-investigation.md) | Enriched/depleted, DU harm |
+| [Marie Curie radiation narrative](https://paradigmthreat.net/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) | Post-war fear monopoly |
 | [LLM investigation §2.4](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md) | Downstream AI/Bill of Rights |
 
 ---

@@ -86,6 +86,8 @@ This thesis is developed in the timeline article [19th Century Weapons & Declass
 
 Depleted uranium as a military technology is conventionally dated to the **20th century** — post-WWII. No documented DU ordnance exists in 1865 archival records. The thesis rests on:
 
+**Narrative control (modern parallel):** How **DU-class** battlefield harm stays **unreported** or **disputed** worldwide — documented Bosnia/IWPR pattern, Iraq silence, Iran **2026** blind spot — is argued in [Islamabad Installment III](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) and [investigation §2.1.1](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation.md). See also [nukes-dont-exist investigation](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md).
+
 1. Verne's fiction as disclosure (predictive programming pattern)
 2. The suddenness of Confederate collapse (seven weeks)
 3. The timeline's broader thesis: controlled declassification from priest-class knowledge base

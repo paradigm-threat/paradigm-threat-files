@@ -46,6 +46,8 @@ The public argument is always the Hollywood bomb. The dossier’s author lane ar
 
 [Author opinion: fatwa, depleted uranium, and the real Iranian nuclear threat](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md#authors-opinion-fatwa-depleted-uranium-and-the-real-iranian-nuclear-threat)
 
+For the **documented worldwide media gap** on DU — Bosnia **IWPR**, Iraq battlefield under-reporting, sci-fi bomb framing, and how that blindness **led to the 2026 Iran file** — see Installment III [*The Peace Deal Nobody Cares About*](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) (§ **The DU blind spot**).
+
 Official Washington has been blunt in plain English. Reporting around spring **2026** carried the administration’s line that **the world cannot live with a nuclear-armed Iran**—as **maximal stakes** justifying disruption short of waiting for a perfect mushroom-cloud photograph. The April **State Department** legal memo on **Operation Epic Fury** sits in the same moral universe: it argues self-defense cannot require a defender to wait until a hostile state has a **warhead-tipped missile on the pad**—a standard that makes **latency** look like **imminence** when the briefing room wants it to.
 
 [Operation Epic Fury and International Law — Office of the Legal Adviser](https://www.state.gov/releases/office-of-the-legal-adviser/2026/04/operation-epic-fury-and-international-law)
@@ -174,7 +176,7 @@ The West is not one nervous system; that is why one week looked like two differe
 
 ## Where next
 
-- [The Peace Deal Nobody Is Covering — Islamabad MOU, antibody close, Jun 2026](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md) — **Installment III:** media silence, lifetime hinge, Islam awakening thesis, chessboard  
+- [The Peace Deal Nobody Cares About — Islamabad MOU, antibody close, Jun 2026](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) — **Installment III:** media silence, lifetime hinge, Islam awakening thesis, chessboard  
 - [Iran 2026 war Q&A — mainstream / anti-Trump framing debunks](https://paradigmthreat.net/governance/war/qa/page.md) — social-thread objections (anonymized): two scoreboards, MOU vs military unwind, long CIA file  
 - [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md) — dated operational spine and dual-track read
 - [CIA investigation — Iran endgame script](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md#iv-iran-nukes-shah-ayatollah-and-the-end-game-script) — evidence tiers and long thesis

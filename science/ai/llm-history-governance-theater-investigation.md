@@ -257,7 +257,7 @@
 | **Iran “didn’t realize” DU / fatwa blind spot** | **Author thesis** — see [CIA investigation](/governance/war/investigations/cia-investigation.md); **not** adjudicated as Iranian intent here |
 | **MI6/CIA setup** | Long-running project thesis; **MOU does not prove** covert script |
 
-**Cross-investigations:** [Iran 2026 war runner](/governance/war/investigations/iran-2026-war-runner.md) · [Mission Accomplished (Again) essay](/governance/war/mission-accomplished-again-iran-2026.md) · [**The Peace Deal Nobody Is Covering** — Installment III reader essay](/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md) · [Islamabad peace deal investigation](/governance/war/investigations/islamabad-peace-deal-investigation.md) · [CIA investigation §IV](/governance/war/investigations/cia-investigation.md) · [science/nukes](/science/nukes/A.md) (atomic-bomb mechanism skepticism)
+**Cross-investigations:** [Iran 2026 war runner](/governance/war/investigations/iran-2026-war-runner.md) · [Mission Accomplished (Again) essay](/governance/war/mission-accomplished-again-iran-2026.md) · [**The Peace Deal Nobody Cares About** — Installment III reader essay](/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) · [Islamabad peace deal investigation](/governance/war/investigations/islamabad-peace-deal-investigation.md) · [CIA investigation §IV](/governance/war/investigations/cia-investigation.md) · [science/nukes](/science/nukes/A.md) (atomic-bomb mechanism skepticism)
 
 ### 2.3 Logic Check (Assistant Validation of §2–§2.2.1, §2.1.1, §2.4)
 
@@ -629,7 +629,7 @@ The **free, inspectable, locally runnable** LLM — the closest public implement
 | Open-letter motivation map, battlefield-ethics false frame | **This investigation** §4 |
 | Pentagon–vendor sequence, QuitGPT, Maven arc | **This investigation** §3, §6 |
 | Fourth Amendment / war-on-terror sunset, Ellsberg table | **This investigation** §2.2.1 |
-| Islamabad MOU, WWII-scale author read, DU/fatwa thesis | **This investigation** §2.4 · [CIA investigation](/governance/war/investigations/cia-investigation.md) · [Iran war runner](/governance/war/investigations/iran-2026-war-runner.md) |
+| Islamabad MOU, WWII-scale author read, DU/fatwa thesis, **DU worldwide media gap** | **This investigation** §2.4 · [Installment III reader essay — § DU blind spot](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) · [Islamabad investigation §2.1.1](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation.md) · [CIA investigation](/governance/war/investigations/cia-investigation.md) · [nukes cluster](/science/nukes/investigations/nukes-dont-exist-investigation.md) |
 | Prussia, Flexner, warfare schooling, hyperlexia lead profile | **Installment I** essay + childhood investigation |
 | Fantastic Planet headset vs Neuralink moratorium | **Installment II** essay (retain) — **not** LLM investigation |
 

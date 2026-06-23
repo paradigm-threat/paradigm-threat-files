@@ -273,7 +273,7 @@ Use **U.S. official KIA** and **Israeli Home Front** totals for **Western-facing
 - [Trump PBS interview, 6 May 2026](https://www.pbs.org/newshour/nation/trump-tells-pbs-news-that-iran-war-has-a-very-good-chance-of-ending)
 - [ISW Iran Update, 11 May 2026](https://understandingwar.org/research/middle-east/iran-update-special-report-may-11-2026/)
 - [Mission Accomplished (Again): What the Media Will Not Admit About Iran, 2026](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) — reader-facing flagship essay (media split, pipeline, coda)
-- [The Peace Deal Nobody Is Covering — Islamabad MOU installment](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md) — antibody close, Islam awakening, chessboard (Jun 2026)
+- [The Peace Deal Nobody Cares About — Islamabad MOU installment](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) — antibody close, Islam awakening, chessboard (Jun 2026)
 - [Islamabad peace deal — investigation dossier](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation.md)
 - [Iran 2026 war Q&A — mainstream framing debunks](https://paradigmthreat.net/governance/war/qa/page.md) — thread-sourced Q&A (MOU vs strike ledger, war powers, TDS shortcuts)
 - [Dubious stand down — Libya, Benghazi, gold / dinar, *Three Kings* cluster](https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md) — Iraq 2003 / Libya 2011 comparative lane for the “again” title
