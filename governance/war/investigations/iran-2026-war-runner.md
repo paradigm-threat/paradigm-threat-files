@@ -119,7 +119,7 @@ This runner treats U.S. and Israeli policy as **overlapping but not identical**,
 
 - **Overlapping goals:** End Iranian nuclear latency; gut missile navy; keep Gulf states in U.S. orbit; prevent Hezbollah rearmament.
 - **Friction points:** Lebanon inclusion in ceasefire; timing of strikes during talks; public rhetoric (“misunderstanding” vs “excluded”).
-- **Choreography hypothesis:** Public **Bibi–Trump tension** (Lebanon carve-out, 8 Apr strikes) may **serve both sides** — Trump preserves **dealmaker** posture; Netanyahu preserves **northern front** and **never-alone** security doctrine; Congress and Gulf capitals still **default to the U.S.–Israel line**.
+- **Choreography hypothesis:** Public **Bibi–Trump tension** (Lebanon carve-out, 8 Apr strikes) may **serve both sides** — Trump preserves **dealmaker** posture; Netanyahu preserves **northern front** and **never-alone** security doctrine; Congress and Gulf capitals still **default to the U.S.–Israel line**. Post-MOU **cross-faction unhappiness** (hawks, **MTG**-style populist dissent, Iranian nationalist humiliation) fits the same **dual-track** read — see Installment III [*The Peace Deal Nobody Cares About*](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) (§ **Why nobody cares**; investigation [§2.2](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation.md)).
 
 Evidence that Congress and both parties **bend to Bibi’s frame** when he visits is not controversial in this project — it is the **ambient power environment** in which Epic Fury was sold. Recent friction in Congress does not erase **decades** of that alignment.
 
