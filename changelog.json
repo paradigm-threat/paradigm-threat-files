@@ -1,8 +1,50 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-23T14:58:20.217Z",
+    "date": "2026-06-23T15:15:39.786Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md",
+        "href": "/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png",
+        "href": "/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png",
+        "alt": "The Peace Deal Nobody Cares About — universal dissatisfaction, Islamabad MOU, and Strait of Hormuz"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
+        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
+        "alt": "Iran war runner — timeline, dual track, and regional map read"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/ww2-mission-failed.png",
+        "alt": "WW2 — mission failed vs victory story (Coda lane)"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-23T14:58:19.000Z",
+    "message": "Center Islamabad III on universal dissatisfaction as peace signature.",
     "files": [
       {
         "status": "M",
@@ -1681,33 +1723,6 @@
         "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
         "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
       },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
-        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
-      },
-      {
-        "src": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png",
-        "alt": "China / Hollywood two-camp war — investigation cover"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-17T13:05:23.000Z",
-    "message": "Polish Everything Burns: trim redundancy, move Rush Hour 2, add Office Joker tribute.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/hollywood/everything-burns.md",
-        "href": "/influence/hollywood/everything-burns"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md",
-        "href": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation"
-      }
-    ],
-    "images": [
       {
         "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
         "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"

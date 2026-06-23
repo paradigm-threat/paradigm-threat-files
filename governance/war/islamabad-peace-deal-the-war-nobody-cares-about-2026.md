@@ -1,8 +1,8 @@
-# The Peace Deal Nobody Cares About: Islamabad, Iran, and the End of a Scripted Holy War
+# The Peace Deal Nobody Cares About
 
-Iran 2026 — Installment III — nobody cares because **almost nobody is happy**; that is the signature of a peace that could actually break the old plan
+Iran 2026 — Installment III — Islamabad, Iran, and the end of a scripted holy war — nobody cares because **almost nobody is happy**; that is the signature of a peace that could actually break the old plan
 
-![The Peace Deal Nobody Cares About — Islamabad MOU, universal dissatisfaction, and Strait of Hormuz](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png)
+![The Peace Deal Nobody Cares About — universal dissatisfaction, Islamabad MOU, and Strait of Hormuz](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png)
 
 The [**Islamabad Memorandum**](https://en.wikipedia.org/wiki/Islamabad_Memorandum) is not missing from the news feed. Outlets still run **day-to-day** MOU updates, Hormuz tickers, and **will-they/won't-they** bombing warnings. What they largely **refuse** is **interpretation** — and what the public largely **refuses** is **enthusiasm**. The title is literal: **nobody cares** because **almost nobody likes the deal**. Israeli security hawks call it a betrayal. Populist Republicans rage over **sanctions relief** and reported **reconstruction money** for Iran. Muslim diaspora and Western left readers file it under **imperial peace**. Only **small minorities** — some Americans relieved the shooting stopped, some Israelis glad the Ayatollah lane broke, some Iranians hoping for Hormuz and frozen assets — treat the MOU as a win.
 
@@ -213,7 +213,7 @@ Investigation [Limits](https://paradigmthreat.net/governance/war/investigations/
 
 Keywords: #IslamabadMemorandum #IranPeaceDeal #2026 #AntibodyTheory #HolyWar #Ayatollah #MissionAccomplished #DivideAndConquer #Ellsberg #NineEleven #DepletedUranium #SinEater #DualTrack #ParadigmThreat
 
-**Last updated:** 2026-06-23T22:00:00-04:00
+**Last updated:** 2026-06-23T23:00:00-04:00
 
 ---
 
