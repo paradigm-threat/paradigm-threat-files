@@ -1,8 +1,51 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-23T14:29:20.239Z",
+    "date": "2026-06-23T14:42:27.621Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/islamabad-peace-deal-investigation.md",
+        "href": "/governance/war/investigations/islamabad-peace-deal-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md",
+        "href": "/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.png",
+        "alt": "The Peace Deal Nobody Is Covering — Islamabad MOU, media silence, and Strait of Hormuz"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
+        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
+        "alt": "Iran war runner — timeline, dual track, and regional map read"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
+        "alt": "Iran war runner — Strait of Hormuz detail (theater map)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/ww2-mission-failed.png",
+        "alt": "WW2 — mission failed vs victory story (Coda lane)"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-23T14:29:18.000Z",
+    "message": "Expand Islamabad Installment III to flagship length with repo-sourced context.",
     "files": [
       {
         "status": "M",
@@ -1603,257 +1646,6 @@
       {
         "src": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png",
         "alt": "China / Hollywood two-camp war — investigation cover"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-17T12:32:31.000Z",
-    "message": "Add China/Hollywood two-camp investigation and Everything Burns essay.",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/flat_earth/flat-earth-investigation.md",
-        "href": "/cosmos/flat_earth/flat-earth-investigation"
-      },
-      {
-        "status": "A",
-        "path": "cosmos/flat_earth/flat-earth-qa-debunks.md",
-        "href": "/cosmos/flat_earth/flat-earth-qa-debunks"
-      },
-      {
-        "status": "A",
-        "path": "cosmos/flat_earth/pilot-earth-spin-meme.png",
-        "href": "/cosmos/flat_earth/pilot-earth-spin-meme.png"
-      },
-      {
-        "status": "M",
-        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
-        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
-      },
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md",
-        "href": "/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cia-investigation.md",
-        "href": "/governance/war/investigations/cia-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/nsa-investigation.md",
-        "href": "/governance/war/investigations/nsa-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md",
-        "href": "/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/not-like-this.md",
-        "href": "/influence/controlled_opposition/not-like-this"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/page.md",
-        "href": "/influence/controlled_opposition"
-      },
-      {
-        "status": "A",
-        "path": "influence/hollywood/everything-burns.md",
-        "href": "/influence/hollywood/everything-burns"
-      },
-      {
-        "status": "A",
-        "path": "influence/hollywood/everything-burns.png",
-        "href": "/influence/hollywood/everything-burns.png"
-      },
-      {
-        "status": "A",
-        "path": "influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md",
-        "href": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png",
-        "href": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png"
-      },
-      {
-        "status": "A",
-        "path": "influence/hollywood/page.md",
-        "href": "/influence/hollywood"
-      },
-      {
-        "status": "M",
-        "path": "influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md",
-        "href": "/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/predictive_programming/page.md",
-        "href": "/influence/predictive_programming"
-      },
-      {
-        "status": "M",
-        "path": "influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md",
-        "href": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation"
-      },
-      {
-        "status": "M",
-        "path": "page.md",
-        "href": "/page"
-      }
-    ],
-    "images": [
-      {
-        "src": "/cosmos/flat_earth/pilot-earth-spin-meme.png"
-      },
-      {
-        "src": "/influence/hollywood/everything-burns.png"
-      },
-      {
-        "src": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png"
-      },
-      {
-        "src": "/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.png",
-        "alt": "AAWSAP / Lacatski investigation — accompanying figure"
-      },
-      {
-        "src": "/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png",
-        "alt": "Witness reconstruction graphic — east Mesa, Arizona (Phoenix metro area), Tuesday April 22, 2014, ~1:24 AM: stadium-sized fully opaque black triangle, ~7 lights, ~1,000 ft altitude, drifting on a constant heading along a residential street for at least ~1 minute of clear overhead motion (up to ~3 minutes total counting the slow recession into the city light pollution before final disappearance), watched by the author and two roommates, before receding into the standard city light pollution toward east Mesa and disappearing there. Pull-quote: \"I refuse to believe that my roommates and I simultaneously mistook a meteor shower for a stadium-sized black triangle drifting at a thousand feet on a constant heading for at least a minute, with another minute or so to recede and finally disappear.\" Author-made reconstruction graphic, **not** a photograph of the 2014 event."
-      },
-      {
-        "src": "/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg",
-        "alt": "33 Thomas Street / AT&T Long Lines Building / Titanpointe — the canonical example of a windowless downtown tower whose cover story turned out to be only part of the story"
-      },
-      {
-        "src": "/science/anti_gravity/usaf-tr-3b.jpg",
-        "alt": "TR-3B disclosure collage — USAF wordmark, Phoenix Lights press inset, render"
-      },
-      {
-        "src": "/science/anti_gravity/usaf-tr-3b2.jpg",
-        "alt": "TR-3B collage panel 2 — patent, tarmac, render, schematic"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
-        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
-        "alt": "9/11 predictive programming — media rehearsal before the public event"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
-        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/controlled_resistance.jpg",
-        "alt": "Controlled resistance — manufactured dissent that looks like real opposition"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
-        "alt": "Celebrity modern slavery — contracts, containment, and creative control"
-      },
-      {
-        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
-        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
-      },
-      {
-        "src": "/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.png",
-        "alt": "*The Matrix* — “Not Like This” containment investigation (header)"
-      },
-      {
-        "src": "/influence/predictive_programming/predictive_programming.png",
-        "alt": "Predictive Programming"
-      },
-      {
-        "src": "/influence/predictive_programming/comics.jpg",
-        "alt": "9/11 predictive programming in comics"
-      },
-      {
-        "src": "/influence/predictive_programming/doom.jpg",
-        "alt": "Doom — quantum teleport between Earth and Mars"
-      },
-      {
-        "src": "/influence/predictive_programming/mars_women.jpg",
-        "alt": "Mars Needs Women — breeding programme theme"
-      },
-      {
-        "src": "/influence/predictive_programming/stargate.jpg",
-        "alt": "Stargate — pyramid as portal"
-      },
-      {
-        "src": "/influence/predictive_programming/wotw.jpg",
-        "alt": "War of the Worlds — heat ray, red weed, Mars inversion"
-      },
-      {
-        "src": "/influence/predictive_programming/simpsons_space_laser.jpg",
-        "alt": "The Simpsons — 9/11 imagery"
-      },
-      {
-        "src": "/influence/predictive_programming/mars_movies.jpg",
-        "alt": "Mars movies"
-      },
-      {
-        "src": "/influence/predictive_programming/marvin.jpg",
-        "alt": "Marvin the Martian"
-      },
-      {
-        "src": "/influence/predictive_programming/marvin2.jpg",
-        "alt": "Marvin the Martian (2)"
-      },
-      {
-        "src": "/influence/predictive_programming/megaman.jpg",
-        "alt": "Mega Man"
-      },
-      {
-        "src": "/influence/predictive_programming/nazis_hollow_earth.jpg",
-        "alt": "Nazis in Hollow Earth"
-      },
-      {
-        "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
-        "alt": "Fire on the Mountain"
-      },
-      {
-        "src": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
-        "alt": "Celebrity modern slavery — contracts, containment, NDAs, and creative control"
-      },
-      {
-        "src": "/influence/conspiracy/embedding.jpg",
-        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
-      },
-      {
-        "src": "/influence/conspiracy/scientific_truth.jpg",
-        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
-        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
-      },
-      {
-        "src": "/cosmos/mars/mars_life.jpg",
-        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
-      },
-      {
-        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
-        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
       }
     ]
   }

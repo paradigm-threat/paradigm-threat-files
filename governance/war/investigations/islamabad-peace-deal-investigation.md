@@ -1,8 +1,8 @@
 # Investigation: Islamabad Peace Deal — MOU, Antibody Close, and Islam Awakening Thesis
 
-> **TL;DR:** Citation dossier for [*The Peace Deal Nobody Is Covering*](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md) — follow-up to [*Mission Accomplished (Again)*](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md). **Documented:** [Islamabad Memorandum](https://en.wikipedia.org/wiki/Islamabad_Memorandum) (**Jun 17, 2026**), 14-point U.S.–Iran MOU, 60-day final-deal window, Hormuz/sanctions framework. **Author thesis:** lifetime hinge; **antibody** end to **scripted** holy war; Islam **redaction/divide-and-conquer** awakening; **Ayatollah proxy** collapse; chessboard **Israel backing**; rebuild + unhappy outcomes.
+> **TL;DR:** Citation dossier for [*The Peace Deal Nobody Is Covering*](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md) — follow-up to [*Mission Accomplished (Again)*](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md). **Documented:** [Islamabad Memorandum](https://en.wikipedia.org/wiki/Islamabad_Memorandum) (**Jun 17, 2026**), 14-point U.S.–Iran MOU, 60-day final-deal window, Hormuz/sanctions framework. **Author thesis:** lifetime hinge; media **interpretation** caution (not absence of day-to-day MOU reporting); eagle's-eye **irreversible board shift**; **DU sci-fi blind spot** → Iran crisis; antibody close; Islam awakening; Ayatollah proxy collapse; chessboard **Israel backing**; rebuild + unhappy outcomes.
 
-**Last updated:** 2026-06-22  
+**Last updated:** 2026-06-23  
 **Status:** Open — Iran 2026 series Installment III (reader essay + dossier)
 
 **Guide (read order)**
@@ -10,12 +10,13 @@
 0. **Reader essay** → [Islamabad peace deal article](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md)  
 1. **Series** → [Mission Accomplished (Again)](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) · [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md)  
 2. **Documented MOU** → §1  
-3. **Author thesis (media silence, lifetime hinge)** → §2  
-4. **Islam awakening / divide-and-conquer** → §3  
-5. **Antibody theory (Ellsberg, 9/11, mop-up)** → §4  
-6. **Ayatollah proxy, chessboard, religion read** → §5  
-7. **Claims registry** → §6  
-8. **Cross-references** → §7  
+3. **Author thesis (media interpretation caution, lifetime hinge)** → §2  
+4. **Author thesis (DU media blind spot, Hiroshima lane)** → §2.1  
+5. **Islam awakening / divide-and-conquer** → §3  
+6. **Antibody theory (Ellsberg, 9/11, mop-up)** → §4  
+7. **Ayatollah proxy, chessboard, religion read** → §5  
+8. **Claims registry** → §6  
+9. **Cross-references** → §7  
 
 ---
 
@@ -36,13 +37,33 @@
 
 ---
 
-## 2. Author thesis — media silence and lifetime hinge
+## 2. Author thesis — media interpretation caution and lifetime hinge
 
-**Label:** Author thesis — Jun 2026 session.
+**Label:** Author thesis — Jun 2026 session; revised Jun 23 (media nuance).
 
-> Barely covered in media; **most important event in our lifetime**; affects **everything and everyone**; many **unhappy outcomes**. MOU may **fail** but sets **repairable precedent**. Equivalent to **end of WWII** with **America/allies** winners — unlike WWII America was **war-ready** and **right** about the **real threat** (not dubious **G.I. Joe** hijack). See [LLM investigation §2.4](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md).
+> **Not** “media ignoring the MOU” — **day-to-day** MOU/Hormuz/fragility reporting continues. **Interpretation** withheld because deal is **shifting/fragile**; if tensions flare, easy headline = **deal failed** while **eagle's-eye** read = **board already changed**, unlikely to revert to pre-MOU holy-war geometry. **Most important event in our lifetime**; many **unhappy outcomes**. MOU may **fail** clause-by-clause but sets **repairable precedent**. WWII-scale hinge — America **war-ready** and **right** about **real threat** (not **G.I. Joe** hijack). See [LLM investigation §2.4](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md).
 
-**Unpack:** Media incentivizes **combat loops** over **treaty text**; public uncomfortable with **proxy collapse** and **religious re-evaluation** narratives.
+**Unpack:** Editors risk-averse on **predictions**; public left without **civilizational** read. **Only** serious “incursion unnecessary” argument = **misread DU** (media trained **sci-fi bomb** frame).
+
+---
+
+## 2.1 Author thesis — depleted uranium media blind spot
+
+**Label:** Author thesis — radiological history; **contested** health causation.
+
+> Western media **relegated DU to science fiction**; **underreported** Iraq battlefield DU (1991/2003). Balkans/Eastern Europe **cancer survivor** testimony **ignored** on Western wires; **covered** by **RT** and regional press ([RT Iraq DU cancer](https://www.rt.com/news/iraq-depleted-uranium-cancer/); [IWPR Bosnia “angel of death”](https://iwpr.net/global-voices/bosnians-say-nato-bombs-brought-angel-death) — Bosnian doctors: **lack of publicised DU health research** → **climate of distrust**, Dizdarevic/Saracevic quotes; [RT Serbia NATO DU suits](https://www.rt.com/world/article/824174-serbiya-nato-uran-voina-sud)). Author read: **DU at Hiroshima/Nagasaki** and **many conflicts since** — **covered up** via **enriched-vs-depleted** conflation; **false DU reporting led directly to Iran 2026 crisis** (fatwa/latency blind spot). Cross: [CIA DU/fatwa](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md#authors-opinion-fatwa-depleted-uranium-and-the-real-iranian-nuclear-threat); [nukes investigation — enriched/depleted](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md).
+
+**Documented anchors (health claims contested):**
+
+| Item | Source | Tier |
+|------|--------|------|
+| DU use Gulf/Balkans | RFE/RL, MDPI reviews, NATO/WHO dispute | B — literature |
+| IWPR Bosnia cancer reporting | [IWPR](https://iwpr.net/global-voices/bosnians-say-nato-bombs-brought-angel-death) | B — regional press |
+| Bosnian doctors: lack of publicised DU research → **climate of distrust** (Dizdarevic, Saracevic) | [IWPR § “Information black hole”](https://iwpr.net/global-voices/bosnians-say-nato-bombs-brought-angel-death) | B — quoted officials |
+| RT Iraq/Balkans survivor coverage | [RT Iraq DU](https://www.rt.com/news/iraq-depleted-uranium-cancer/); [RT Serbia suits](https://www.rt.com/world/article/824174-serbiya-nato-uran-voina-sud) | C — alternate press; contested |
+| Hiroshima DU author read | [nukes-dont-exist investigation](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md) | Author thesis |
+
+**Skeptic:** WHO/NATO and many epidemiological reviews **dispute** proven DU→cancer causation at population scale; author cites **media asymmetry** and **Iran policy blind spot**, not settled oncology.
 
 ---
 
@@ -79,20 +100,25 @@
 ## 6. Open claims registry
 
 1. MOU signed **Jun 17, 2026** — §1.  
-2. Media under-coverage — §2.  
-3. Lifetime hinge / WWII analogy — §2; [LLM §2.4](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md).  
-4. Islam redaction awakening — §3.  
-5. British / Russian Horde vacuum — §3 — **author read**.  
-6. Bamiyan / Armenian examples — §3 — **Bamiyan 2001 documented**.  
-7. Antibody / non-organic wars — §4; [good-actor investigation](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).  
-8. Ellsberg loyalty trap — §4.  
-9. 9/11 NSA/Israel play; WTC 7 CIA — §4.  
-10. Post-9/11 mop-up; 2026 proxy destruction — §4.  
-11. Ayatollah proxy; dual wrong faith — §5.  
-12. Wells Islam prediction — §4 — **verify primary Wells text** (open hook).  
-13. Chessboard Israel backing — §5.  
-14. Religion comparative — §5 — **normative author read**.  
-15. Rebuild + Oracle peace duration — §5.  
+2. Media **interpretation** caution (not day-to-day absence) — §2.  
+3. Eagle's-eye **irreversible board shift** — §2.  
+4. Lifetime hinge / WWII analogy — §2; [LLM §2.4](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md).  
+5. **DU sci-fi blind spot**; only “unnecessary war” argument — §2.1.  
+6. Iraq/Balkans DU reporting asymmetry (RT, IWPR) — §2.1.  
+7. Hiroshima/Nagasaki DU cover-up — §2.1 — **author read**; [nukes investigation](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md).  
+8. DU misreport → Iran crisis — §2.1 — **author thesis**.  
+9. Islam redaction awakening — §3.  
+10. British / Russian Horde vacuum — §3 — **author read**.  
+11. Bamiyan / Armenian examples — §3 — **Bamiyan 2001 documented**.  
+12. Antibody / non-organic wars — §4; [good-actor investigation](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).  
+13. Ellsberg loyalty trap — §4.  
+14. 9/11 NSA/Israel play; WTC 7 CIA — §4.  
+15. Post-9/11 mop-up; 2026 proxy destruction — §4.  
+16. Ayatollah proxy; dual wrong faith — §5.  
+17. Wells Islam prediction — §4 — **verify primary Wells text** (open hook).  
+18. Chessboard Israel backing — §5.  
+19. Religion comparative — §5 — **normative author read**.  
+20. Rebuild + Oracle peace duration — §5.  
 
 ---
 
@@ -105,15 +131,16 @@
 | [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md) | MOU timeline |
 | [Good-actor / antibody](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) | 80-year arc |
 | [CIA investigation](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md) | Iran pipeline, DU, MOU extension |
+| [Nukes investigation — enriched/depleted](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md) | Hiroshima DU author read |
 | [LLM investigation §2.4](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md) | Downstream AI/Bill of Rights |
 
 ---
 
 ## Limits and disclaimers
 
-**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md). MOU facts are **journalism-tier**. Antibody, religious, and civilizational claims are **author thesis** — not legal, theological, or genocide-law advice. **9/11 good-actor** read is **contested** in mainstream history. **Israeli nuclear** status **undeclared**. **Armenian genocide** terminology disputed by some governments.
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md). MOU facts are **journalism-tier**. Antibody, religious, civilizational, **Hiroshima DU**, and **Western DU cover-up → Iran** claims are **author thesis** — not legal, theological, oncology, or genocide-law advice. **DU health causation** is **disputed** (WHO/NATO vs RT/IWPR/regional reporting). **RT** citations are **alternate-press** survivor/oncology lanes — **not** independent verification of author Hiroshima read. **9/11 good-actor** read is **contested** in mainstream history. **Israeli nuclear** status **undeclared**. **Armenian genocide** terminology disputed by some governments.
 
-Keywords: #IslamabadMemorandum #Iran2026 #AntibodyTheory #DivideAndConquer #Ayatollah #GoodActor #ParadigmThreatFiles
+Keywords: #IslamabadMemorandum #Iran2026 #AntibodyTheory #DepletedUranium #DivideAndConquer #Ayatollah #GoodActor #ParadigmThreatFiles
 
 ---
 

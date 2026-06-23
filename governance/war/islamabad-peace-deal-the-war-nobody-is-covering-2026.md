@@ -4,11 +4,13 @@ Iran 2026 — Installment III — why the **June 17, 2026** MOU matters more tha
 
 ![The Peace Deal Nobody Is Covering — Islamabad MOU, media silence, and Strait of Hormuz](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.png)
 
-The [**Islamabad Memorandum**](https://en.wikipedia.org/wiki/Islamabad_Memorandum) is barely in the news. Cable still sells strike montages, poll anger, and oil tickers. Meanwhile the United States and Iran signed a **14-point Memorandum of Understanding** on **June 17, 2026** — an initial framework to end the war, reopen the **Strait of Hormuz**, ease sanctions, and negotiate a final peace treaty within **60 days** ([NBC News](https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513), [AP MOU transcript](https://apnews.com/article/mou-transcript-iran-us-war-8576fbe2be1309977e903463fbf57ee6), [CNN text](https://www.cnn.com/2026/06/17/middleeast/us-iran-war-mou-text-intl)).
+The [**Islamabad Memorandum**](https://en.wikipedia.org/wiki/Islamabad_Memorandum) signed on **June 17, 2026** is not missing from the news feed the way a buried FOIA drop might be. Outlets still run **day-to-day** MOU updates, Hormuz tickers, and **will-they/won't-they** bombing warnings. What they largely **refuse** is **interpretation** — the eagle's-eye read that the board has already shifted and is unlikely to snap back to the pre-MOU holy-war geometry.
 
-[Installment II — *Mission Accomplished (Again)*](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) tracked the spring headline stack: dual-track diplomacy, asymmetric captions, and who built the nuclear board. **This installment** asks what changed when the shooting lane finally got a treaty-shaped exit — and why so few outlets treated that as the lead story.
+[Installment II — *Mission Accomplished (Again)*](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) tracked the spring headline stack: dual-track diplomacy, asymmetric captions, and who built the nuclear board. **This installment** asks what changed when the shooting lane finally got a treaty-shaped exit — and why cable still sells strike montages while treaty text sits one click deeper in the stack.
 
-Under-reporting is itself the story. The MOU is the most important geopolitical event of our lifetime — many people will hate the outcomes, but the document still closes a chapter the West has been cleaning up since **9/11**.
+The United States and Iran signed a **14-point Memorandum of Understanding** — an initial framework to end the war, reopen the **Strait of Hormuz**, ease sanctions, and negotiate a final peace treaty within **60 days** ([NBC News](https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513), [AP MOU transcript](https://apnews.com/article/mou-transcript-iran-us-war-8576fbe2be1309977e903463fbf57ee6), [CNN text](https://www.cnn.com/2026/06/17/middleeast/us-iran-war-mou-text-intl)).
+
+Under-**interpretation** is the sharper story than under-**coverage**. The MOU may be the most important geopolitical event of our lifetime — many people will hate the outcomes, but the document still closes a chapter the West has been cleaning up since **9/11**.
 
 > **TL;DR:** **Documented:** Islamabad MOU, **Jun 17, 2026** — ceasefire all fronts (incl. Lebanon), **60-day** final-deal clock, Hormuz/sanctions framework; **fragile** (Trump warned bombing could resume). **Author thesis:** wars in the Muslim world were shard wars of fractured post-imperial societies, divided and conquered after the Russian Empire fell, continued through British and CIA pipelines, and pre-empted by the antibody faction at **9/11** (WTC 7 / CIA station). **2026** broke the Ayatollah proxy lane that could have dragged a nuclear holy war; the MOU is hinge — rebuild Gaza, Iran, Lebanon; expect outcomes many Muslims and many Westerners will reject, including a possible awakening that Islam was heavily redacted, modified, and turned against its neighbors. Dossiers: [war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md), [good-actor / antibody investigation](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md), [CIA Iran lane](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md).
 
@@ -34,15 +36,25 @@ Even if this round stalls, the memorandum still sets a **precedent** that can be
 
 ![Iran war runner — Strait of Hormuz detail (theater map)](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png)
 
-## Why the media looks away
+## Why the media won't interpret (yet)
 
-Peace is boring television. Strikes loop; MOU text sits in paragraphs. Editors reward flame, not treaty articles.
+Day-to-day reporting on the MOU is real — signing ceremonies, extension clocks, Hormuz reopening talks, Trump’s resume-bombing lines. Editors are not asleep; they are **risk-averse**. The deal is **extremely fragile and shifting**: if tensions flare again next week, any outlet that called the hinge “done” gets clipped for credulity. Safer to file **process** stories and leave **meaning** to hindsight.
 
-A deal that ends shooting without giving either side’s mythology a total win is hard to caption. No clean victor means no clean chyron.
+That caution is rational on a 48-hour clock. It still leaves the public without the wider read: if this round stalls, headlines will scream **deal failed** — and they may be **technically** right on a clause while **strategically** wrong on the board. Conventional strike goals were **banked** before **June 17**; the Ayatollah proxy lane was broken in the field; the antibody mop-up arc finally has a treaty-shaped exit. An eagle's-eye view says **things have really changed** — and they are **not** about to change back to the pre-2026 holy-war script, even if shooting resumes.
 
-Reconstruction, religious re-evaluation, proxy collapse, and Great Power reordering do not fit a 48-hour news cycle. Downstream outcomes are uncomfortable — so they get buried under the next sortie reel.
+What mainstream desks **will not** say out loud is the hinge underneath the hinge: the only serious argument that the **U.S. incursion was unnecessary** requires **misreading what a nuclear threat is**. That misread is exactly what Western media trained the public to do — **Hollywood fission** in one column, **boring byproduct** in the other.
 
-The author thesis goes further: many outlets do not want the public to connect **2026** to **1979**, **1953**, **9/11**, and the antibody story — because that connection implies decades of managed conflict, not spontaneous civilization clash.
+## The DU blind spot — science fiction on the battlefield
+
+**Author thesis — radiological history and media framing:**
+
+For decades Western press treated **depleted uranium** as either a non-story or a **science-fiction** sideshow — not the radiological/chemical lane that actually haunted **Iraq** battlefields after **1991** and **2003**, where coalition forces fired hundreds of tons of DU-hardened ordnance and local doctors reported cancer clusters and birth defects ([RT — Iraq DU and cancer plague](https://www.rt.com/news/iraq-depleted-uranium-cancer/); contested but **covered in detail** in non-Western and regional reporting where NATO allies often ran **denial** headlines). Near **Bosnia** and across the Balkans, civilians and veterans linked **NATO** bombing campaigns to what they called an **“angel of death”** cancer wave — a lane the Western wire largely ignored while regional outlets documented it ([IWPR — Bosnians say NATO bombs brought “angel of death”](https://iwpr.net/global-voices/bosnians-say-nato-bombs-brought-angel-death)). Bosnian health officials told IWPR that the **lack of publicised research** into DU’s health effects had bred a **climate of distrust**: Sarajevo health minister **Zehra Dizdarevic** noted UNEP called radiation levels “harmless” yet listed **24 cleanup recommendations**, while radiology director **Lejla Saracevic** said **no serious research** had been funded — so neither doctors nor residents could **confirm or deny** a DU–cancer link with hard statistics. **RT** and Balkan legal filings have kept **survivor** and **oncology** testimony in circulation when U.S. and U.K. desks treated Balkan syndrome and Gulf War illness as **unresolved** or **psychosomatic** ([RT — Serbia NATO DU lawsuits](https://www.rt.com/world/article/824174-serbiya-nato-uran-voina-sud)).
+
+The author’s read goes further: **depleted uranium** was in play at **Hiroshima** and **Nagasaki** and in many conflicts since — long-term harm attributed to “radiation” in the public mind while the **DU toxicity profile** (immunotoxic, teratogenic, leukemogenic in peer-reviewed DU epidemiology) does the quieter work. Mainstream history splits **enriched** bomb mythology from **depleted** battlefield waste; the author holds that conflation was **deliberate cover** — and that the same false **sci-fi bomb** frame is what let Iran’s **fatwa** and “peaceful” enrichment story pass unchallenged until **2026** ([CIA DU/fatwa opinion](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md#authors-opinion-fatwa-depleted-uranium-and-the-real-iranian-nuclear-threat); [nukes investigation — enriched vs depleted](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md)).
+
+**Policy consequence:** If the public only knows mushroom clouds, **latency** and **DU ammunition** read as non-threats — until a briefing room needs **imminence**. The continual Western misreport on depleted uranium, in this thesis, **led directly** to the Iran crisis: Iran and the world misunderstood what was being built; the media filed it under fiction; the only remaining honest argument against the incursion was therefore **never aired** at scale.
+
+Reconstruction, religious re-evaluation, proxy collapse, and Great Power reordering still do not fit a 48-hour news cycle — so they stay one layer below the sortie reel. Many outlets also avoid connecting **2026** to **1979**, **1953**, **9/11**, and the antibody story — because that connection implies decades of managed conflict, not spontaneous civilization clash.
 
 ## The century-long Iran pipeline
 
@@ -161,7 +173,7 @@ Adult forecasting — the MOU is necessary, not magic.
 - [Mission Accomplished (Again)](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) — Installment II: media split, nuclear board, spring 2026 ledger  
 - [**This article** — Installment III: Islamabad MOU, antibody close, Islam awakening thesis](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md)  
 - [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md) — dated MOU timeline  
-- [Islamabad peace deal — investigation dossier](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation.md)  
+- [Islamabad peace deal — investigation dossier](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation.md) — §2.1 DU media blind spot, claims registry  
 
 **Antibody / agency stack**
 
@@ -174,18 +186,19 @@ Adult forecasting — the MOU is necessary, not magic.
 
 - [LLM governance investigation §2.4](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md) — MOU → war-on-terror sunset, AI governance demobilization  
 - [Responsibility to the Next Generation](https://paradigmthreat.net/history/chronology/responsibility-to-the-next-generation.md) — education after the war cycle  
+- [Nukes investigation — enriched vs depleted, Hiroshima health read](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md)  
 
 ## Framing and limits
 
 **Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
 
-Islamabad MOU facts are documented (NBC, AP, CNN, Wikipedia). Antibody theory, British/Russian Horde vacuum, Islam redaction awakening, 9/11 good-actor read, Ayatollah proxy, chessboard religion comparison, and WWII-scale hinge are author thesis — synthesized across linked investigations, not proven by MOU text. Bamiyan destruction is **Mar 2001** (UNESCO), not 1999. Armenian genocide — scholarly/historical consensus cited via USHMM; denial persists in some states. Israeli nuclear arsenal — undeclared but widely reported; not confirmed by MOU. Interpretive history and geopolitics — not legal counsel or religious fatwa guidance.
+Islamabad MOU facts are documented (NBC, AP, CNN, Wikipedia). Antibody theory, British/Russian Horde vacuum, Islam redaction awakening, 9/11 good-actor read, Ayatollah proxy, chessboard religion comparison, WWII-scale hinge, **Hiroshima/Nagasaki DU cover-up**, and **Western DU misreport → Iran crisis** are author thesis — synthesized across linked investigations, not proven by MOU text. **RT** and **IWPR** citations are **regional/alternate-press** reporting on DU health claims — **contested** by NATO/WHO-style assessments; included as **media-coverage contrast**, not as settled oncology. Bamiyan destruction is **Mar 2001** (UNESCO), not 1999. Armenian genocide — scholarly/historical consensus cited via USHMM; denial persists in some states. Israeli nuclear arsenal — undeclared but widely reported; not confirmed by MOU. Interpretive history and geopolitics — not legal counsel or religious fatwa guidance.
 
 Investigation [Limits](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation.md#limits-and-disclaimers) — full claims registry.
 
-Keywords: #IslamabadMemorandum #IranPeaceDeal #2026 #AntibodyTheory #HolyWar #Ayatollah #MissionAccomplished #DivideAndConquer #Ellsberg #NineEleven #ParadigmThreat
+Keywords: #IslamabadMemorandum #IranPeaceDeal #2026 #AntibodyTheory #HolyWar #Ayatollah #MissionAccomplished #DivideAndConquer #Ellsberg #NineEleven #DepletedUranium #ParadigmThreat
 
-**Last updated:** 2026-06-23T14:00:00-04:00
+**Last updated:** 2026-06-23T17:00:00-04:00
 
 ---
 
