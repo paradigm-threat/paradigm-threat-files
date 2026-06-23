@@ -163,6 +163,7 @@
 | Doc | Relevance |
 |-----|-----------|
 | [Islamabad reader essay](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) | Installment III |
+| [Substack — The Peace Deal Nobody Cares About](https://open.substack.com/pub/paradigmthreat2/p/the-peace-deal-nobody-cares-about?r=5p8s4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) | Reader republish |
 | [Mission Accomplished (Again)](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) | Installment II |
 | [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md) | MOU timeline |
 | [Good-actor / antibody](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) | 80-year arc |

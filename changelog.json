@@ -1,8 +1,47 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-23T15:15:39.786Z",
+    "date": "2026-06-23T15:21:12.043Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/islamabad-peace-deal-investigation.md",
+        "href": "/governance/war/investigations/islamabad-peace-deal-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md",
+        "href": "/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png",
+        "alt": "The Peace Deal Nobody Cares About — universal dissatisfaction, Islamabad MOU, and Strait of Hormuz"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
+        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
+        "alt": "Iran war runner — timeline, dual track, and regional map read"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/ww2-mission-failed.png",
+        "alt": "WW2 — mission failed vs victory story (Coda lane)"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-23T15:15:38.000Z",
+    "message": "Shorten Islamabad Installment III title to core headline.",
     "files": [
       {
         "status": "M",
@@ -1648,88 +1687,6 @@
       {
         "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
         "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-17T13:17:51.000Z",
-    "message": "Ship Everything Burns Installment II: series frame, expansion, and author conclusion.",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/instructions/ARTICLES.md",
-        "href": "/docs/instructions/ARTICLES"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/not-like-this.md",
-        "href": "/influence/controlled_opposition/not-like-this"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/everything-burns.md",
-        "href": "/influence/hollywood/everything-burns"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/everything-burns.png",
-        "href": "/influence/hollywood/everything-burns.png"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md",
-        "href": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/page.md",
-        "href": "/influence/hollywood"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/hollywood/everything-burns.png"
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)",
-        "alt": "` / `*.png` / `*.jpg`; prefer **published** `https://paradigmthreat.net/...` URLs (timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`). **Placement:** one image **after** the paragraph that introduces the topic (illustrate the **linked investigation**, not decorate every section). **Alt text:** name the **source lane** and **what the reader should see** (e.g. “Historical antibodies — timeline chapter,” “Call of Duty militainment — Krasinski operator arc”). **Do not** copy images into the article folder unless you are creating **new** art; **link** to the canonical file in its home directory. **Newsletter budget:** many large PNGs + hero can trigger Gmail clipping—prefer **fewer, well-placed** reuses over a gallery; see **Length → Newsletter / inbox check**. **Reference:** [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`"
-      },
-      {
-        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
-        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Series installments:** read the **prior installment** in full; cut shared frame that Installment I already taught. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
-        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
-        "alt": "9/11 predictive programming — media rehearsal before the public event"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
-        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/controlled_resistance.jpg",
-        "alt": "Controlled resistance — manufactured dissent that looks like real opposition"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
-        "alt": "Celebrity modern slavery — contracts, containment, and creative control"
-      },
-      {
-        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
-        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
-      },
-      {
-        "src": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png",
-        "alt": "China / Hollywood two-camp war — investigation cover"
       }
     ]
   }

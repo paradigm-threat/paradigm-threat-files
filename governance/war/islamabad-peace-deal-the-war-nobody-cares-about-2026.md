@@ -213,7 +213,9 @@ Investigation [Limits](https://paradigmthreat.net/governance/war/investigations/
 
 Keywords: #IslamabadMemorandum #IranPeaceDeal #2026 #AntibodyTheory #HolyWar #Ayatollah #MissionAccomplished #DivideAndConquer #Ellsberg #NineEleven #DepletedUranium #SinEater #DualTrack #ParadigmThreat
 
-**Last updated:** 2026-06-23T23:00:00-04:00
+**Substack:** [paradigmthreat2.substack.com/p/the-peace-deal-nobody-cares-about](https://open.substack.com/pub/paradigmthreat2/p/the-peace-deal-nobody-cares-about?r=5p8s4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+**Last updated:** 2026-06-24T00:00:00-04:00
 
 ---
 
