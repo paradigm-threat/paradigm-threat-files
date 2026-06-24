@@ -30,7 +30,7 @@ Meanwhile Linux frayed: distributions multiplied into factions that barely share
 
 I read that pattern beside linked work on OC ReMix privatization, SDA/GDQ charity polarization, and Homestuck/Hussie—the through-line is free contribution re-platformed into IP real estate and fan management, with ethical injury that rarely maps onto case law the way corporate counsel prefers. In that light Jobs is not remembered as a quirky genius who “happened” to win; he is read as controlled-opposition grammar in a tee-shirt: cool sold as compliance, design as lock-in, rebellion as prestige pricing, fans as a managed demographic.
 
-Predictive-programming and New World Order imagery in Apple marketing, Beatles–Apple naming rhymes, and iPod-era youth capture belong in the same paragraph: they merged music, identity, and hardware into one smooth pipeline—few vendors, few stores, Play or App temples where “everything you need” already passed tithe.
+Predictive-programming and New World Order imagery in Apple marketing, Beatles–Apple naming rhymes, and iPod-era youth capture belong in the same paragraph: they merged music, identity, and hardware into one smooth pipeline—few vendors, few stores, Play or App temples where “everything you need” already passed tithe. Google’s **2026 Android developer verification** program extends that grammar: the **open** mobile OS becomes a **verified-developer registry** with **24-hour sideload friction** on certified devices ([Google Don't Be Evil enclosure investigation](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md); [keepandroidopen.org](https://keepandroidopen.org/)).
 
 ## When raster won the hobby
 
@@ -72,6 +72,7 @@ We gave industry something close to total faith and almost no audit—the way Be
 - [OC ReMix — privatization investigation](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md).  
 - [SDA / GDQ / MSF — polarization investigation](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md).  
 - [Microchips — shrinking / suppression](/science/microchips/microchips-shrinking-technology-investigation.md) — complementary read on opaque silicon narrative.
+- [Google Don't Be Evil enclosure investigation](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) — Play/App temple grammar on pocket computers.
 - [Consensus theater and the stalled physics pipeline](/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md) — fundamental-physics deferral parallel to qubit waiting-room grammar.  
 - [Mars hub](/cosmos/mars/page.md) — for readers threading breakaway tech with the Mars-versus-Earth hypothesis in the quantum storage dossier.
 

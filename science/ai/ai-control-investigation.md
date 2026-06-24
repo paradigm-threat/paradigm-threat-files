@@ -48,6 +48,10 @@ Predictive programming presents artificial intelligence in a very dim light. The
 
 *Spaceballs* (1987) presents a joke that may encode the real plan: **"Even in the future, nothing works."** Technology—human-operated systems—is unreliable. But in the same fiction, *robots* become extra reliable. The implication: human-controlled technology is meant to fail; machine-controlled technology is meant to succeed. The grand plan: make operating systems and control systems (power plants, banks, militaries) so hard to use and so broken that only the machine can use them correctly.
 
+### Device-level gate — pocket computers
+
+Parallel endgame on **mobile**: Google’s **Android developer verification** (announced **Aug 2025**, phased enforcement from **Sept 2026**) requires **verified developer identity** before apps install on **certified** Android devices, with **high-friction advanced sideload** as the only bypass ([Google Don't Be Evil enclosure investigation](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md)). Only **vendor-pre-approved software** runs by default — the same **deliberate complexity → vendor agent/throat** pattern as broken desktop OS, now on hardware marketed as **open**. Rhymes with [AI control §2](/science/ai/ai-control-investigation.md) deliberate bad software thesis and [internet dossier §10.6](/science/computing/investigations/internet-that-should-have-been-investigation.md#106-mobile-pocket-enclosure--android-developer-verification).
+
 ---
 
 ## 2. Deliberate Bad Software: Not Accident, Not Negligence
@@ -139,6 +143,7 @@ See [microchips-shrinking-technology-investigation](../../microchips/microchips-
 - Terminator, 2001, I Robot, Matrix, Ex Machina, Her, Wall-E, etc. (Wikipedia, IMDb)
 - China AI chips: Forbes, CNBC, Guardian, NYT (2026); Nvidia export controls; Huawei Ascend
 - [Microchips investigation](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation) — chip supply chain, China, Taiwan
+- [Google Don't Be Evil enclosure — Android developer verification](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) — pocket-computer vendor gate
 
 ---
 

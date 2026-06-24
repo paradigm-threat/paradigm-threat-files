@@ -197,6 +197,7 @@ or *not* believing.
 * [Chernobyl probiotics (Straight)](/science/health/probiotics_chernobyl/ssstwitter.com_1772378839442-investigation.md) — Transcript-led fact-check of probiotic / Chernobyl claims.
 * [Microchips](/science/microchips/microchips-shrinking-technology-investigation.md) — Shrinking tech, supply opacity, control thesis.
 * [Quantum computer — infinitely indexed storage thesis](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) — Author: storage / frequency-addressing vs mainstream gate-qubit narrative; open questions.
+* [Google — Don't Be Evil to enclosure](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) — Intent pattern, Alphabet pivot, Android developer verification; [keepandroidopen.org](https://keepandroidopen.org/) coalition.
 * [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) — Reader essay: vector vs raster, analog substrate, commons capture, walled gardens; hooks the infinite-index thesis.
 * [Galen Winsor](/science/nukes/investigations/nuke-waste-is-safe-investigation.md) — “Nuclear waste is safe” alternative framework.
 * ["Nukes Don't Exist"](/science/nukes/investigations/nukes-dont-exist-investigation.md) — Alternative framework vs standard nuclear model.

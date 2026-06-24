@@ -71,6 +71,8 @@ GitHub has been **shipping Copilot and AI surfaces aggressively**; user pushback
 
 **Hosting and CI were moved off GitHub** for the affected material (e.g. **GitLab** remotes, Pages elsewhere) so the work is **not** held hostage by an unexplained flag. This document stays as a **record of the episode** and a pointer to **others** who report similar **opacity** and **support gaps**.
 
+**Related lane (2026):** Google’s **Android developer verification** program applies the same **platform kill-switch** grammar to **pocket computers** — identity registry and install blocks on **certified** devices, with friction-only sideload bypass ([Google Don't Be Evil enclosure investigation](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md); [keepandroidopen.org](https://keepandroidopen.org/)).
+
 **Closing note:** The fix for **bad-faith speculation** about bans is **good-faith disclosure**. Until then, this file treats **unanswered “why”** as **permission to theorize**—including ties the company will not rule out in plain language.
 
 ---

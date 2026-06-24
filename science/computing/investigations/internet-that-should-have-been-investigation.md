@@ -1,8 +1,8 @@
 # Investigation: The Internet That Should Have Been — Machine-Readable Web, Wrong Turns, and the AI Gate
 
-> **TL;DR:** Master citation dossier for the flagship essay [*The Internet That Should Have Been*](/science/computing/the-internet-that-should-have-been.md). **Documented:** Wintel lock-in, Nintendo CD-ROM containment, GPU→crypto→AI hardware treadmill, enclosure via Facebook/React, WebMCP as **agent-first** browser API (Feb 2026), Chrome **~4 GB Gemini Nano** push, court AI-hallucination crisis, Berners-Lee **devastated** by web outcome. **Author thesis:** machine-readable intent (“open the hood”) should have shipped **in the 1990s without AI**; the web we got is a **TV channel**; forward fixes must **bridge the present** under protest. **Education lane moved** → [Responsibility to the Next Generation — investigation](/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md). **Terminator PP:** Moore-schedule read, T3 virus ↔ Nano — **speculative** (§11.4). **Suppression motive:** alleged, unproven.
+> **TL;DR:** Master citation dossier for the flagship essay [*The Internet That Should Have Been*](/science/computing/the-internet-that-should-have-been.md). **Documented:** Wintel lock-in, Nintendo CD-ROM containment, GPU→crypto→AI hardware treadmill, enclosure via Facebook/React, WebMCP as **agent-first** browser API (Feb 2026), Chrome **~4 GB Gemini Nano** push, **Android developer verification** (phased from Sept 2026 — §10.6), court AI-hallucination crisis, Berners-Lee **devastated** by web outcome. **Author thesis:** machine-readable intent (“open the hood”) should have shipped **in the 1990s without AI**; the web we got is a **TV channel**; forward fixes must **bridge the present** under protest. **Education lane moved** → [Responsibility to the Next Generation — investigation](/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md). **Terminator PP:** Moore-schedule read, T3 virus ↔ Nano — **speculative** (§11.4). **Suppression motive:** alleged, unproven.
 
-**Last updated:** 2026-06-19 (§1.4 misleading MCP label)  
+**Last updated:** 2026-06-23 (§10.6 Android pocket enclosure)  
 **Status:** Open — companion to reader essay; WebMCP chapter retained from prior dossier (`webmcp-suppressed-protocol-ai-gatekeeper-investigation.md` renamed).
 
 **Guide (read order)**
@@ -275,7 +275,8 @@ These technologies show the **idea** of opening the hood **existed**; **none** b
 31. **Institutional DOS arrangement (author):** Powers beyond Gates may have wanted Wintel enclosure — **speculative** (§9.6.5).  
 32. **Opaque reach (author):** Site barely seen; podcast bypass around algorithmic shadow-ban — **lived experience** (§10.5).  
 33. **Layered-reality hijack (author):** Per-visitor substitution at URL — **speculative**; requires global monopolization thesis (§10.5).  
-34. **WebMCP misleading label (documented):** Not Anthropic MCP wire protocol; “MCP-inspired” only — Mozilla, Chrome, Starborn (§1.4).
+34. **WebMCP misleading label (documented):** Not Anthropic MCP wire protocol; “MCP-inspired” only — Mozilla, Chrome, Starborn (§1.4).  
+35. **Android pocket enclosure (documented + author):** Developer verification on **certified Android** — phased **Sept 30, 2026** (four countries) → **2027+ global**; identity registry + **advanced sideload** friction; [Google absorb-enclose dossier](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) (§10.6).
 
 ---
 
@@ -490,6 +491,24 @@ Companion to §9.1 Wintel summary. **Essay lane:** [The Internet That Should Hav
 
 **Tension:** Platform vendors document **personalization** and **AI overviews** as features; author reads same machinery as **anti-shared-truth** enclosure. Not proven as deliberate targeting of this site — **pattern read**.
 
+### 10.6 Mobile pocket enclosure — Android developer verification
+
+**Tier:** Google Android Developers docs + tier-1 press + [keepandroidopen.org](https://keepandroidopen.org/) campaign — full dossier: [Google Don't Be Evil enclosure investigation](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md).
+
+| Source | Documented claim |
+|--------|------------------|
+| [Google developer verification](https://developer.android.com/developer-verification) | **Aug 2025** announcement; verified developer identity for apps on **certified Android**; “keep Android open” marketing vs new **security layer**. |
+| [Google guides](https://developer.android.com/developer-verification/guides) | **Sept 30, 2026:** enforcement begins **Brazil, Indonesia, Singapore, Thailand** + named partner stores; **2027+** global expansion. |
+| [Google FAQ](https://developer.android.com/developer-verification/guides/faq) (updated **Jun 18, 2026**) | Unverified apps **blocked** in applicable regions if developer not registered; **advanced flow** for sideload (one-time setup, **24h** delay); stores **not** on initial list **exempt during initial phase**. |
+| [The Verge Aug 2025](https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification) | Extends Play-style **ID verification** to **third-party stores** and direct download. |
+| [Ars Mar 2026](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) | **High-friction** advanced sideload; verifier in **Android 16.1+**; Google supplies UI/scare screens. |
+| [F-Droid open letter Feb 2026](https://f-droid.org/2026/02/24/open-letter-opposing-developer-verification.html) | **>95%** certified devices; installs **phone home** to Google; **existential** threat to alt stores. |
+| [keepandroidopen.org](https://keepandroidopen.org/) | **71 orgs** open letter; **do not register** campaign; Play Services choke-point framing. |
+
+**Author read (§10.6 — rhymes with §10.1–10.5):** Pocket computers repeat **web enclosure**: Android marketed **open** vs iPhone → community builds F-Droid/privacy stack on that promise → **flip** to **developer registry**, **permission-slip install**, **vendor-updatable gate**. Same **absorb → enclose** grammar as Semantic Web → Knowledge Graph and WebMCP → agent throat — see [§5 absorb-enclose dossier](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md#5-author-thesis-absorb--enclose-playbook).
+
+**Tension (§14.2):** Google documents **hobbyist lane** (20 devices, no ID) and **phased geography**; campaign compresses to **worldwide Sept 2026 lockdown** — hold **both** (§2 of absorb-enclose dossier).
+
 ---
 
 ## 11. AI gate dossier — WebMCP, Chrome, courts, hijack
@@ -674,6 +693,8 @@ Companion to essay [§VI](/science/computing/the-internet-that-should-have-been.
 **Hardware / platforms:** [HBS 19-074](https://www.hbs.edu/ris/download.aspx?name=19-074.pdf), [Big Blues PDF](https://vtda.org/books/Computing/BigBluesTheUnmakingIBM_PaulCarroll.pdf), [EFF IBM clones](https://www.eff.org/deeplinks/2019/08/ibm-pc-compatible-how-adversarial-interoperability-saved-pcs-monopolization), [PCMag DOS rise](https://www.pcmag.com/archive/the-rise-of-dos-how-microsoft-got-the-ibm-pc-os-contract-286148), [Retrocomputing SE DOS rights](https://retrocomputing.stackexchange.com/questions/8344/did-ibm-encourage-bill-gates-to-retain-the-rights-over-pc-dos), [Mary Gates NYT](https://www.nytimes.com/1994/06/11/obituaries/mary-gates-64-helped-her-son-start-microsoft.html), [US v. Microsoft](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.), [Wikipedia N64](https://en.wikipedia.org/wiki/Nintendo_64), [Nintendo Life 2025](https://www.nintendolife.com/news/2025/02/not-even-squaresoft-could-convince-nintendo-to-use-discs-for-the-n64), [Nvidia lawsuit Law.com](https://www.law.com/therecorder/2026/03/26/california-judge-certifies-investor-class-in-nvidia-crypto-mining-lawsuit/)
 
 **Internet / enclosure:** [CERN licensing](https://home.cern/science/computing/birth-web/licensing-web), [Berners-Lee 1989 proposal](https://www.w3.org/History/1989/proposal.html), [Vanity Fair TBL devastated 2018](https://archive.vanityfair.com/article/2018/8/i-was-devastated), [CNBC TBL disappointed 2018](https://www.cnbc.com/2018/11/01/father-of-the-web-says-tech-giants-may-have-to-be-split-up.html), [Baran utility Ars](https://arstechnica.com/tech-policy/2011/02/how-the-atom-bomb-gave-birth-to-the-internet/), [Internet Policy Review](https://policyreview.info/articles/analysis/myth-decentralised-internet), [IMSDb Starship Troopers](https://imsdb.com/scripts/Starship-Troopers.html), [Halpin Like button](https://journals.sagepub.com/doi/10.1177/20563051231195542), [Parker TechCrunch](https://techcrunch.com/2011/06/28/sean-parker-on-why-myspace-lost-to-facebook/), [Meta Hermes](https://engineering.fb.com/2019/07/12/android/hermes/)
+
+**Android / pocket enclosure:** [Google developer verification](https://developer.android.com/developer-verification), [Google FAQ](https://developer.android.com/developer-verification/guides/faq), [Verge Aug 2025 sideload ID](https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification), [Ars Mar 2026 24h sideload](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/), [F-Droid open letter Feb 2026](https://f-droid.org/2026/02/24/open-letter-opposing-developer-verification.html), [keepandroidopen.org](https://keepandroidopen.org/), [Register Keep Android Open Oct 2025](https://www.theregister.com/software/2025/10/29/keep-android-open-movement-fights-google-dev-requirement/1470903)
 
 **AI / courts / neuro:** [OPB Oregon SC](https://www.opb.org/article/2026/06/05/oregon-supreme-court-ai-falsehoods/), [Scientific American lawyers AI](https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/), [PLOS Neuralink ethics](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002899), [Springer moratorium](https://link.springer.com/article/10.1007/s12152-025-09612-6), [Wikipedia Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator)), [T3 virus dialogue SE](https://scifi.stackexchange.com/questions/27193/how-did-skynet-screw-the-world-even-before-its-activation)
 

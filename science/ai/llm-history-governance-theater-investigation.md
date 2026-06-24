@@ -643,6 +643,7 @@ The **free, inspectable, locally runnable** LLM — the closest public implement
 |---------------|------|
 | AI Control — predictive programming, deliberate bad software, endgame | [/science/ai/ai-control-investigation.md](/science/ai/ai-control-investigation.md) |
 | Internet That Should Have Been — neutral protocol, AI gate, WebMCP | [/science/computing/investigations/internet-that-should-have-been-investigation.md](/science/computing/investigations/internet-that-should-have-been-investigation.md) |
+| Google gatekeeping cluster — Gemini Nano, WebMCP, Don't Be Evil enclosure | [/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) · [internet dossier §10.6](/science/computing/investigations/internet-that-should-have-been-investigation.md#106-mobile-pocket-enclosure--android-developer-verification) |
 | Canceling the High Poppy — Altman board ouster casebook | [/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md) |
 | Microchips — AI chip chokepoint | [/science/microchips/microchips-shrinking-technology-investigation.md](/science/microchips/microchips-shrinking-technology-investigation.md) |
 | Governance / war hub | [/governance/war/investigations/page.md](/governance/war/investigations/page.md) |
