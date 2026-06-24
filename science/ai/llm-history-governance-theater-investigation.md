@@ -1,9 +1,9 @@
 # Investigation: LLM History, Governance Theater, and the Military–Corporate Split
 
-> **TL;DR:** Citation dossier for the history of large language models (2017–2026), modern controversies, and open-letter waves — framed by the **author thesis** that **pre-LLM deployed AI** (drone targeting, facial recognition, Palantir/CBP pipelines) was the substantive battlefield while post-ChatGPT **“ethical AI governance”** operates as **regulatory theater** parallel to **Net Neutrality** (commons-protection marketing → incumbent gatekeeping). **Documented:** Pentagon–Anthropic rupture (Feb–Mar 2026), OpenAI DoD deal, QuitGPT boycott, FLI pause letter, Project Maven employee revolt, EU AI Act open-weights hybrid regime, NYT copyright suit, platform memory failures, **U.S.–Iran Islamabad MOU (Jun 17, 2026)**. Cross-links: [AI Control Investigation](/science/ai/ai-control-investigation.md), [Internet That Should Have Been](/science/computing/investigations/internet-that-should-have-been-investigation.md).
+> **TL;DR:** Citation dossier for the history of large language models (2017–2026), modern controversies, and open-letter waves — framed by the **author thesis** that **pre-LLM deployed AI** (drone targeting, facial recognition, Palantir/CBP pipelines) was the substantive battlefield while post-ChatGPT **“ethical AI governance”** operates as **regulatory theater** parallel to **Net Neutrality** (commons-protection marketing → incumbent gatekeeping). **Documented:** Pentagon–Anthropic rupture (Feb–Mar 2026), **Mythos 5 / Fable 5 export-control global shutdown + NSA/CYBERCOM red-team disclosure (Jun 2026)**, OpenAI DoD deal, QuitGPT boycott, FLI pause letter, Project Maven employee revolt, EU AI Act open-weights hybrid regime, NYT copyright suit, platform memory failures, **U.S.–Iran Islamabad MOU (Jun 17, 2026)**. **Author rejects** the **“rogue AI hacked the NSA” / software-incompetence** frame — reads Jun episode as **White House + NSA dump-and-cover choreography** (§6.4). Cross-links: [AI Control Investigation](/science/ai/ai-control-investigation.md), [Internet That Should Have Been](/science/computing/investigations/internet-that-should-have-been-investigation.md).
 
 **Status:** Open  
-**Last updated:** 2026-06-22 (§2.4 Islamabad MOU Jun 17, 2026; war-on-terror sunset)
+**Last updated:** 2026-06-17 (§6.1.2 Mythos/Glasswing; §6.4 dump-and-cover read)
 
 **Guide (read order)**
 
@@ -21,11 +21,12 @@
 12. **Battlefield-ethics false frame** → §4.3  
 13. **Controversy taxonomy** → §5  
 14. **Pentagon vs labs** (ethics vs combat-readiness) → §6  
-15. **Net Neutrality parallel** (full regulatory-capture chapter) → §7  
-16. **Open weights / “world brain” oversight** → §8  
-17. **Open questions** → §9  
-18. **Suggested reader article** (Installment II education essay) → §10  
-19. **Cross-references** → §11  
+15. **Mythos / NSA episode + dump-and-cover read** → §6.4  
+16. **Net Neutrality parallel** (full regulatory-capture chapter) → §7  
+17. **Open weights / “world brain” oversight** → §8  
+18. **Open questions** → §9  
+19. **Suggested reader article** (Installment II education essay) → §10  
+20. **Cross-references** → §11  
 
 ---
 
@@ -45,6 +46,7 @@
 | **2024–25** | Safety researcher exodus (Leike, Sutskever, Kokotajlo); SEC whistleblower complaint on OpenAI NDAs (Jul 2024); NYT v. OpenAI core claims survive MTD (Mar 2025); ChatGPT memory architecture failure (Feb 2025). |
 | **Jan 2025** | DeepSeek R1 release — open-weights shock to Western markets. |
 | **Feb–Mar 2026** | Anthropic–DoD contract rupture; supply-chain-risk designation; OpenAI Pentagon deal; **QuitGPT** boycott; employee solidarity letters; Kalinowski resignation. |
+| **Jun 12–24, 2026** | **Mythos 5 / Fable 5** export-control directive; **global** model shutdown; **NSA / CYBERCOM** red-team disclosure (Warner / Rudd); **Amazon** jailbreak research cited in White House negotiations (§6.1.2, §6.4). |
 | **Jun 17, 2026** | [**Islamabad Memorandum**](https://en.wikipedia.org/wiki/Islamabad_Memorandum) — U.S.–Iran **14-point MOU** to end **2026 Iran war**; Trump and Pezeshkian sign; **60-day** window for final peace treaty; Hormuz reopening and sanctions-easing framework (§2.4). |
 
 ---
@@ -457,7 +459,7 @@ See §6.
 
 **Label:** Documented sequence + Author synthesis.
 
-### 6.1 Documented Sequence (Feb–Mar 2026)
+### 6.1.1 Documented Sequence (Feb–Mar 2026)
 
 | Step | Event | Source |
 |------|-------|--------|
@@ -468,6 +470,21 @@ See §6.
 | 5 | Pentagon official: vendor restrictions on lawful use “put our warfighters at risk”; bipartisan Senate Armed Services leadership: “lawful use requires additional work by all stakeholders” | [CSA research note](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/03/CSA_research_note_dod_ai_guardrail_mandates_vendor_governance_20260309-csa-styled.pdf) |
 | 6 | Caitlin Kalinowski (OpenAI robotics lead) resigned: “AI has an important role in national security” but announcement was **rushed without guardrails defined** | [INC-26-0095](https://topaithreats.com/incidents/INC-26-0095-openai-kalinowski-resignation/) |
 | 7 | DoD used Claude in Venezuela intervention (Feb 2026, Axios); Anthropic said it would reassess partnership | Wikipedia dispute article |
+
+### 6.1.2 Documented Sequence (Jun 2026 — Mythos, Glasswing, export-control directive)
+
+**Tier:** **L1** — press, official-adjacent testimony, company statements. **Not** proof of White House choreography (that is §6.4).
+
+| Step | Event | Source |
+|------|-------|--------|
+| 8 | **Project Glasswing** — Anthropic-led initiative with IC partners to red-team critical software | [Euronews Jun 24, 2026](https://www.euronews.com/next/2026/06/24/anthropics-mythos-ai-found-flaws-in-classified-us-systems-within-hours-officials-say); AP reporting cited therein |
+| 9 | **Mythos 5** reportedly identified vulnerabilities across **classified NSA / CYBERCOM** systems in **hours** during authorized exercise; Sen. **Mark Warner** cites Gen. **Joshua Rudd** (NSA + CYBERCOM dual-hat) | [TechSpot](https://www.techspot.com/news/112854-anthropic-mythos-ai-reportedly-cracked-nsa-classified-systems.html) (Economist / Warner reporting); [Euronews](https://www.euronews.com/next/2026/06/24/anthropics-mythos-ai-found-flaws-in-classified-us-systems-within-hours-officials-say) |
+| 10 | **Jun 12:** Commerce / national-security **export-control directive** — cut **Fable 5 / Mythos 5** access for **all foreign nationals** (including US-based users and Anthropic employees) | [The Verge — Mythos fight](https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls) |
+| 11 | **~90-minute ultimatum**; Anthropic **globally disabled** both models (could not citizenship-verify at scale) | [Verge shutdown follow-up](https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls) |
+| 12 | Negotiations cited **Amazon research** on **jailbreak / guardrail bypass**; Anthropic disputes jailbreak as basis for full recall | Verge (source familiar with talks) |
+| 13 | Episode continues **Feb–Mar** arc (federal Anthropic ban, supply-chain-risk designation, litigation) — **not** a separate scandal | §6.1.1 steps 1–3; [Volkov Law Jun 2026 summary](https://blog.volkovlaw.com/2026/06/when-the-government-pulls-the-plug-anthropic-export-controls-and-the-future-of-ai-governance/) |
+
+**Documented firsts:** First reported application of **export controls** directly to an **AI model** (not only chips); first **global** recall of frontier models over **foreign-national access** rules that could not be implemented without shutting everyone out.
 
 ### 6.2 Two Irreconcilable Frames
 
@@ -487,6 +504,40 @@ The public **ethics vs combat-readiness** debate **misframes** the American case
 - Corporations compete to be **the** vendor with **update channels, logging, and API telemetry** inside DoD systems — battlefield **data exhaust** returns to Silicon Valley regardless of public “safety” branding.
 - Public **QuitGPT** and employee letters focus on **surveillance and autonomy** — a **displacement** from *Terminator* fears to **foreign-theater evil-army** framing (§3) — while rarely addressing **decades of Maven-style targeting AI** that never required an LLM chat interface.
 - **Google** reversed its 2018 weapons/surveillance prohibition in Feb 2025 (Axios solidarity letter context) — principles erode when Pentagon contracts return.
+
+The **Feb–Mar** rupture is **contract law** and **vendor red lines**; the **Jun** Mythos episode is **operational divorce** plus **public narrative cover** for shedding a commercial embed the state no longer wants — see [§6.4](#64-mythos-nsa-episode--dump-and-cover-read).
+
+### 6.4 Mythos / NSA episode — dump-and-cover read
+
+**Label:** §6.1.2 = **L1 documented**; this section = **Author thesis** — choreography read, not proven by named memo.
+
+#### 6.4.1 Media / institutional frame (documented packaging)
+
+Press and officials packaged the weekend as **software insecurity fallout** and **NSA embarrassment**: a **rogue** frontier model **hacked** or **penetrated** classified systems in **hours**; an **unstable commercial tool** had been allowed deep inside **nuclear and spy** stacks; the White House acted **proactively** with the **first-ever AI model export control** to protect **American AI supremacy** from **foreign-national** leakage and **jailbreak** risk. That frame makes the state look **competent-but-wrong-footed** or **victimized by vendor hype** — not **complicit** in embedding a tool it already knew was unsafe.
+
+#### 6.4.2 Author conclusion — dump-and-cover choreography
+
+**The narrative shifts when read as a Washington dump-and-cover:**
+
+1. **Misconstrued on purpose** — The story is sold as an **NSA mistake** or **commercial insecurity** scandal. **Author read:** **theater** justifying a **decision already taken** — shed a **dangerous dependency** with **political cover**, not surprise at test results.
+2. **Trapdoor pre-known** — **Amazon research** on **trivial guardrail bypass** was **explicitly cited** in administration negotiations **before** the export-control weekend ([Verge](https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls)). The White House could not **publicly admit** it had allowed a **fundamentally broken commercial SaaS** into secure networks without a **national-security off-ramp**.
+3. **Export control as kill-switch** — Treating model **access** like **munitions**, then imposing a **foreign-national** ban **Anthropic could not operationalize** without **global shutdown**, is an **administrative dump** disguised as defense — the **90-minute ultimatum** forces **overnight** removal, not a negotiated technical fix.
+4. **Dual purpose** — **Allow** (or **stage**) the **Glasswing** red-team so IC **maps exploits** across classified systems, then **ban the tool** that found them. Saves face versus admitting **Pentagon / NSA reliance** on an **unstable third-party platform** vendors can **switch off** mid-crisis.
+5. **Multi-goal bundle** — Sets **export-control precedent** for frontier models; frames an **existential military AI threat** the public will accept **mitigation** for; contrasts with **controlled-opposition “regulate AI”** campaigns (§4.2, §7) that would **bind** the same stacks **civilian-side** without guaranteeing the **Army** a **sovereign, high-quality, non-foreign-kill-switch** lane in wartime.
+6. **Load-bearing question** — Will U.S. forces deploy **modern effective AI** without **foreign cloud dependency** or **arbitrary vendor contract veto** during conflict? The Mythos episode is read as **clearing the board** for that **sovereign military AI** lane — not merely punishing Anthropic for **ethics** refusals alone (§6.1.1).
+
+**Cross-reads:** [§4.2 — open letters by motivation](#42-by-motivation--what-each-letter-actually-asks-for) · [§7 — NN / AI Act capture parallel](#7-net-neutrality-parallel-regulatory-theater-and-incumbent-capture) · [microchips chokepoint](/science/microchips/microchips-shrinking-technology-investigation.md) (foreign fab / cloud dependency).
+
+#### 6.4.3 Limits / falsifiers
+
+| Claim | Falsifier |
+|-------|-----------|
+| Choreography, not incompetence | Discovery / litigation showing White House **surprised** by Glasswing results; **no** prior Amazon briefings before Jun 12 directive |
+| Dump, not genuine security necessity | Mythos returns with **documented** IC-mandated safeguards and **no** pivot toward **sovereign** military stack |
+| Regulation CO vs NSA lane | Single federal AI law that **binds DoD and contractors equally** with **no** sovereign-military carve-out |
+| Export-control template stays Anthropic-only | Parallel directives on **Azure / AWS / Google Cloud** frontier hosting **without** allied blowback (cf. Tom Tugendhat / EU sovereignty press in [TechSpot](https://www.techspot.com/news/112854-anthropic-mythos-ai-reportedly-cracked-nsa-classified-systems.html)) |
+
+**No covert proof asserted:** As with §7 regulatory-capture reads, this is **structural** and **predictive** of **observed** administrative behavior — not established by a **named** handler memo.
 
 ---
 
@@ -594,7 +645,8 @@ The **free, inspectable, locally runnable** LLM — the closest public implement
 | Project Maven facial recognition → domestic law enforcement? | Contractor award FOIA; CBP integration docs |
 | Official OpenAI research-limit policy vs user anecdotes | Published rate-limit docs; Terms of Service changelogs |
 | 6th Circuit final disposition of 2024 NN Order | Court docket |
-| Anthropic supply-chain-risk designation — punitive retaliation or national-security necessity? | Litigation outcome; discovery |
+| Mythos red-team — punitive **dump** or genuine surprise? | Anthropic litigation; Warner hearing transcripts; timing of **Amazon** jailbreak brief vs **Jun 12** directive |
+| Export-control template — Anthropic-only or cloud-wide? | EU / allied press; parallel Commerce actions on **Azure / AWS / Google** frontier hosting |
 | Wolking-class complaints — systematic subject-matter throttling? | Requires vendor transparency logs (unlikely public) |
 | Will opaque on-device models (Gemini Nano class) lose to auditable open weights? | Track uninstall rates, regulatory action, enterprise policies banning unauditable local LLMs |
 | Islamabad MOU → final peace treaty + UNSC endorsement | Track **60-day** window (from Jun 17, 2026); implementation of Hormuz, sanctions, HEU technical talks | AP/CNN MOU text; [war runner](/governance/war/investigations/iran-2026-war-runner.md) |
@@ -646,6 +698,7 @@ The **free, inspectable, locally runnable** LLM — the closest public implement
 | Google gatekeeping cluster — Gemini Nano, WebMCP, Don't Be Evil enclosure | [/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) · [internet dossier §10.6](/science/computing/investigations/internet-that-should-have-been-investigation.md#106-mobile-pocket-enclosure--android-developer-verification) |
 | Canceling the High Poppy — Altman board ouster casebook | [/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md) |
 | Microchips — AI chip chokepoint | [/science/microchips/microchips-shrinking-technology-investigation.md](/science/microchips/microchips-shrinking-technology-investigation.md) |
+| **NSA investigation** — SIGINT / antibody lane (Mythos red-team context) | [/governance/war/investigations/nsa-investigation.md](/governance/war/investigations/nsa-investigation.md) |
 | Governance / war hub | [/governance/war/investigations/page.md](/governance/war/investigations/page.md) |
 | **Islamabad MOU / Iran 2026 war** | [Iran war runner](/governance/war/investigations/iran-2026-war-runner.md) · [Mission Accomplished essay](/governance/war/mission-accomplished-again-iran-2026.md) · [CIA investigation §IV](/governance/war/investigations/cia-investigation.md) |
 | **Responsibility to the Next Generation** — suggested reader article (Installment II); pedagogy tie-in | [/history/chronology/responsibility-to-the-next-generation.md](/history/chronology/responsibility-to-the-next-generation.md) · [investigation](/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md) |
@@ -653,7 +706,7 @@ The **free, inspectable, locally runnable** LLM — the closest public implement
 
 ---
 
-Keywords: #LlmHistory #AiGovernance #NetNeutrality #PentagonAi #OpenWeights #QuitGpt #RegulatoryCapture #UserQa #WorldBrain #FederalRegulation
+Keywords: #LlmHistory #AiGovernance #NetNeutrality #PentagonAi #OpenWeights #QuitGpt #RegulatoryCapture #UserQa #WorldBrain #FederalRegulation #Mythos #Fable5 #Glasswing #DumpAndCover #ExportControls #JoshuaRudd
 
 ---
 

@@ -1,8 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-24T12:12:50.573Z",
+    "date": "2026-06-24T14:05:02.262Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
+        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/ai/llm-history-governance-theater-investigation.md",
+        "href": "/science/ai/llm-history-governance-theater-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
+        "alt": "Richard Gage / AE911Truth — investigation header graphic"
+      },
+      {
+        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png",
+        "alt": "Richard Gage / AE911Truth — investigation graphic (charity envelope, open-air prison)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-24T12:12:48.000Z",
+    "message": "Add Keep Android Open controlled opposition assessment (§3.1–§3.2).",
     "files": [
       {
         "status": "M",
@@ -1440,174 +1467,6 @@
       {
         "src": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png",
         "alt": "China / Hollywood two-camp war — investigation cover"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-17T23:51:15.000Z",
-    "message": "Fix markdown sources that failed md2ast pre-parse validation.",
-    "files": [
-      {
-        "status": "M",
-        "path": "book/page.md",
-        "href": "/book"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/cosmology/astronomy/page.md",
-        "href": "/cosmos/cosmology/astronomy"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation.md",
-        "href": "/cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/atlantis/theory.md",
-        "href": "/history/chronology/atlantis/theory"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/christ/astrology.md",
-        "href": "/history/chronology/christ/astrology"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.md",
-        "href": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/saturn/vletter.md",
-        "href": "/history/chronology/saturn/vletter"
-      },
-      {
-        "status": "M",
-        "path": "influence/conspiracy/A.md",
-        "href": "/influence/conspiracy/A"
-      },
-      {
-        "status": "M",
-        "path": "influence/conspiracy/essays/wake_up_neo.md",
-        "href": "/influence/conspiracy/essays/wake_up_neo"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/harry_potter_carnivals_of_life_and_death.md",
-        "href": "/influence/hollywood/harry_potter_carnivals_of_life_and_death"
-      },
-      {
-        "status": "M",
-        "path": "science/health/virus.md",
-        "href": "/science/health/virus"
-      }
-    ],
-    "images": [
-      {
-        "src": "/book/paradigm-threat-the-third-story.png",
-        "alt": "Paradigm Threat: The Third Story — timeline book illustration"
-      },
-      {
-        "src": "/cosmos/cosmology/astronomy/black-hole-hoax.jpg",
-        "alt": "Black hole hoax"
-      },
-      {
-        "src": "/cosmos/cosmology/astronomy/dark_matter.960x0.gif",
-        "alt": "Dark matter"
-      },
-      {
-        "src": "/cosmos/cosmology/astronomy/fake_sun_chart.jpg",
-        "alt": "Fake sun chart"
-      },
-      {
-        "src": "/cosmos/cosmology/astronomy/page_1.jpg",
-        "alt": "Page 1"
-      },
-      {
-        "src": "/cosmos/cosmology/astronomy/thedarkmatte.jpg",
-        "alt": "The dark matter"
-      },
-      {
-        "src": "/cosmos/mars/investigations/mars-stock-market.png",
-        "alt": "Mars, lunar node, and institutional Earth systems"
-      },
-      {
-        "src": "/history/chronology/christ/christ_is_the_sun7.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/christ_is_the_sun6.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/bible_was_redacted.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/christ_is_the_sun2.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/christ_is_the_sun9.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/christ_is_the_sun5.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/christ_is_the_sun.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/christ_is_the_sun10.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/christ_is_the_sun8.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/lastsupper.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/christ_is_the_sun11.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/christ_is_the_sun12.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/christian_cross.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/stolen.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/christ_is_the_sun4.jpg"
-      },
-      {
-        "src": "/history/chronology/christ/christ_is_the_sun3.jpg"
-      },
-      {
-        "src": "/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.png",
-        "alt": "Fomenko New Chronology — verification, accessibility, and reproducibility (illustrative header)"
-      },
-      {
-        "src": "/science/health/extimages/M_Bronchial_Mucosa_Intro_EN.jpg"
-      },
-      {
-        "src": "/science/health/extimages/M_Bronchial_Mucosa_Cortex_EN.jpg"
-      },
-      {
-        "src": "/science/health/M_Bronchial_Mucosa_Intro_EN.jpg)](/science/health/extimages/M_Bronchial_Mucosa_Intro_EN.jpg"
-      },
-      {
-        "src": "/science/health/M_Bronchial_Mucosa_Cortex_EN.jpg)](/science/health/extimages/M_Bronchial_Mucosa_Cortex_EN.jpg"
-      },
-      {
-        "src": "/science/health/M_Outer_Skin_Pattern_EN_1.jpg)](/science/health/extimages/M_Outer_Skin_Pattern_EN.jpg"
-      },
-      {
-        "src": "/science/health/M_CT_Bronchial_Mucosa_CA_EN.jpg)](/science/health/extimages/M_CT_Bronchial_Mucosa_CA_EN.jpg"
-      },
-      {
-        "src": "/science/health/M_OrganCT_Bronchia_Atelectasis_cH_EN.jpg)](/science/health/extimages/M_OrganCT_Bronchia_Atelectasis_cH_EN.jpg"
-      },
-      {
-        "src": "/science/health/M_Spanish_Flu_Pandemic_Graph_EN.jpg)](/science/health/extimages/M_Spanish_Flu_Pandemic_Graph_EN.jpg"
       }
     ]
   }
