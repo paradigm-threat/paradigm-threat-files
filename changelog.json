@@ -1,8 +1,46 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-25T14:11:59.327Z",
+    "date": "2026-06-25T14:19:28.101Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/health/royal-rife-frequency-medicine-suppression.md",
+        "href": "/science/health/royal-rife-frequency-medicine-suppression"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/science/health/royal-rife-frequency-medicine-suppression.png",
+        "alt": "Royal Rife — what the letters say when the banquet only heard the microscope (investigation art)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/nukes/HEUraniumC.jpg",
+        "alt": "Depleted uranium puck — weapon fraction vs therapeutic isotope (DU exhibit)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/frequency_health2.jpg",
+        "alt": "Cell voltage and pH — healthy range, polarity flip, cancer threshold (frequency-health chart)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/ph_voltage.jpg",
+        "alt": "Dr. Jerry Tennant — body as electronic device, pH as voltage, EU2017 Future Science"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/ph_voltage2.jpg",
+        "alt": "Healing is Voltage — reference library, BioModulator devices, Cancer’s On/Off Switches: Polarity (Tennant)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/cell-regen.png",
+        "alt": "Cell turnover times — regeneration clock if voltage and field are restored (Tennant-aligned exhibit)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-25T14:11:58.000Z",
+    "message": "Restructure Rife reader essay around meme-to-OCR arc and add art.",
     "files": [
       {
         "status": "M",
@@ -877,40 +915,6 @@
       {
         "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
         "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
-        "alt": "Iran war runner — timeline, dual track, and regional map read"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
-        "alt": "Iran war runner — Strait of Hormuz detail (theater map)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/ww2-mission-failed.png",
-        "alt": "WW2 — mission failed vs victory story (Coda lane)"
-      },
-      {
-        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-23T14:24:24.000Z",
-    "message": "Polish Islamabad Installment III for article guidelines and corpus images.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md",
-        "href": "/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.png",
-        "alt": "The Peace Deal Nobody Is Covering — Islamabad MOU, media silence, and Strait of Hormuz"
       },
       {
         "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
