@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-25T13:47:46.157Z",
+    "date": "2026-06-25T13:48:08.135Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/health/royal-rife-frequency-medicine-suppression.md",
+        "href": "/science/health/royal-rife-frequency-medicine-suppression"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/science/health/frequency_health.jpg",
+        "alt": "Royal Rife — frequency medicine and suppression investigation"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/wotw.jpg",
+        "alt": "War of the Worlds — heat ray, red weed, Mars inversion (fiction encoding)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-25T13:47:45.000Z",
+    "message": "Expand Rife essay with citations and science-fiction containment thesis.",
     "files": [
       {
         "status": "M",
@@ -999,29 +1021,6 @@
         "src": "/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png",
         "alt": "Europe white bloodline, complexion, and whitewash — investigation header"
       },
-      {
-        "src": "/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.png",
-        "alt": "Moorish ten presidents infographic — study copy"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-23T13:11:11.000Z",
-    "message": "Expand Moor ten-presidents dossier with author read and Fomenko king rhyme.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md",
-        "href": "/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation"
-      }
-    ],
-    "images": [
       {
         "src": "/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.png",
         "alt": "Moorish ten presidents infographic — study copy"
