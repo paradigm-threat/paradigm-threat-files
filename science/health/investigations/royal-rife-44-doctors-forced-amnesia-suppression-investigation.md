@@ -20,6 +20,7 @@
 | **Flexner / Rockefeller capture** | **§3** |
 | **1931 peak — press shell vs insider lane** | **§4** |
 | **Frequency, MOR, USC committee, 1934 clinic** | **§5** |
+| **Cancer cure program — full evidence inventory** | **§5.4** |
 | **Closure arc (1939–1971)** | **§6** |
 | **Courtrooms — fraud dockets & declared reality** | **§7** |
 | **Fragment archaeology + OCR (Jun 2026)** | **§8** |
@@ -171,6 +172,73 @@
 [Cancer Research UK](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/rife-machine-and-cancer) · [ACS *CA* 1994](https://doi.org/10.3322/canjclin.44.2.115) · FDA fraud prosecutions (Folsom **2009**).
 
 **Separation rule:** “Medicine may have buried non-pharma modalities” ≠ “Rife’s ledgers prove 88% cure.”
+
+### 5.4 Cancer cure program — evidence inventory
+
+**Purpose:** List every shard showing Rife and allied physicians pursued **therapeutic oncology** (BX/MOR, animal→human ladder, hospital installs, liability releases) — **not** microscope demonstration alone. **Whether cures held** is scored separately in **§11**; this section answers **what they were actually building**.
+
+**OCR note:** rife.org transcript dates often read **“1955”** where context is **1935** — treat as OCR/transcription error unless contradicted.
+
+#### 5.4.1 Master table — not microscopy-only
+
+| # | Date / period | Evidence | What it shows (cure lane) | Tier | Local / link |
+|---|---------------|----------|---------------------------|------|--------------|
+| 1 | **Feb 1930** | Johnson → Rife, forwarding **Kendall** on **carcinoma patient** “purple bodies” (parallel Chicago typhoid work) | Human **cancer case** in active correspondence before 1931 press peak | **B** | `text/correspondence/Correspondence-1929-1934-ocr.txt` p.4 |
+| 2 | **1930–34** | Johnson threads: **cancerous rats/mice**, **biopsy before treatment**, **25-year mouse breeder** for carcinoma | Preclinical **oncology protocol**, not optics demos | **B** | Same OCR bundle |
+| 3 | **Mar 1934** | Kendall → Rife: tumor experiments “**astonishing**”; “**treatment with the Rife Ray is the climax**” | Peer bacteriologist validates **frequency-on-tumor** work | **B** | `Correspondence-1929-1934-ocr.txt` ~p.114 |
+| 4 | **Apr–Jun 1934** | Johnson: **La Jolla** house **Jun 15**; **Scripps Clinic** as summer **clinic** site; “**clinical** brethren” | Planned **human summer clinic** | **B** | Same |
+| 5 | **Nov 1934** | **Santa Fe Hospital** detailed case file (**Mrs. Mary Fewell**) — chest/abdominal fluid, serial X-rays, labs | **Hospital-track patient** with serial diagnostics (treatment linkage **inferred**) | **B** | Same ~p.138 |
+| 6 | **1934** (claim) | Rife **1953 history (OCR):** **400+** animal carcinoma runs **before** any human frequency use; tumors from **Paradise Valley Sanitarium** | Explicit **animal→human** gate for BX therapy | **C** (self-report) | `text/lab-reports/Rife-History-of-the-Development-of-a-Successful-Treatment-ocr.txt` |
+| 7 | **1934** (claim) | Same history: **USC Special Medical Research Committee**; **16** terminal malignancies; **14** “**clinically cured**” at 3 months; **Foord** pathologist + five MDs sign-off | **Named outcome claim** for human clinic | **C** | Same §8.2 |
+| 8 | **Jun 1935** | Johnson: first **USC committee** general meeting — “**material progress**,” “**definite plans** for the future” | Institution treating work as **oncology program**, not demo | **B** | `Correspondence-1935-1936-ocr.txt` p.36 |
+| 9 | **Oct 1935** | Johnson: “**about ready to begin our clinical work** with the new **Rife Ray Machine**” — tested on **animals and cultures**; lawyer-drafted **releases** for committee physicians | **Imminent human trial** + liability framing | **B** | Same ~p.70–71 |
+| 10 | **Oct 1935** | Johnson sidenote: releases split **free vs pay patients** to fund clinic | Commercial/clinical **operating model** | **B** | Same p.71 |
+| 11 | **Oct 1935** | Johnson: find **MOR of BX fungus** “**before I start… clinical work in the hospital** with this new machine” | **MOR completion** as gate to **hospital oncology** | **B** | Same p.73 |
+| 12 | **Oct 1935** | Johnson: **No. 4 Rife Ray** installed **Santa Fe Hospital**; “**begin serious work… with patients next Thursday**” | **Scheduled patient treatments** at named hospital | **B** | Same ~p.88 |
+| 13 | **Oct 1935** | Johnson: “**do not want to undertake new cancer cases** until we get the MOR of the [Cryptomyces]” | Explicit **cancer case** intake policy | **B** | Same ~p.89 |
+| 14 | **Oct 1935** | **E. L. Walker** (Hooper Foundation): Rife ray on typhoid “**conclusive**”; if generalizable, “**greatest discovery in the history of therapeutic medicine**”; **breast carcinoma** tissue obtained | Elite lab ally framing **therapeutic** (not optical) breakthrough | **B** | Same ~p.85 |
+| 15 | **1935** | **International Cancer Research Foundation** / **M. W. S. Schram** — western tour timing, committee coordination | Third-party **cancer-fund** engagement | **B/C** | `Correspondence-1935-1936-ocr.txt` |
+| 16 | **1935** | Public **cancer cure** inquiries (e.g. **Herbert** — spine cancer, payment-only-if-cured) forwarded through Johnson network | Demand side treated **frequency cure** as real program | **B** | Same (early pages) |
+| 17 | **1920s–30s** | **Lab notes summary chart (OCR):** **Bacillus X filterable virus** — **11.78 MHz** MOR, audion settings | Documented **cancer-virus frequency** target | **B** | `text/lab-reports/Lab-notes-summary-chart-ocr.txt` |
+| 18 | **Nov 1935** | **4-ray device** horsemeat culture tests — **MOR** of typhoid rod + filterable form (Hoyland at lab) | Device QA on **MOR kills** before clinic scale-up | **B** | `Research-notebook-testing-of-4-ray-device-on-horsemeat-ocr.txt` |
+| 19 | **Aug–Sep 1935** | Research notebooks: **New Haven mice**, **Santa Barbara mice**, **breast tumor tissue culture** (handwritten; OCR thin) | Mouse/tissue **oncology prep** | **C** | `text/lab-reports/Research-notebook-*-ocr.txt` |
+| 20 | **1939** | **Gables Lab** (Siner) culture work — UK thread | International **culture/clinical** extension | **B/C** | `Gables-Lab-reports-Siner-1939-ocr.txt` |
+| 21 | **1953** | **Pathogen summary chart** — **Cancer Virus** row in Rife/Crane table | Late **BX** frequency catalog | **C** | `1953-Pathogen-Summary-Chart-ocr.txt` |
+| 22 | **1963** | **Stafford report (OCR):** Dayton **rat leukemia** + **terminal breast Ca** human series; “**failed to cure** any… advanced, terminal” but nodal softening / comfort | Post-Rife **replication attempt** — documents **ongoing cure intent**, mixed outcomes | **B** | `Stafford-report-1963-ocr.txt` |
+| 23 | **1987+** | Lynes / Marsh / Couche affidavits — **16/14**, Foord “forgot,” committee roster | Popular **synthesis** of rows 7–9 | **C** | [Marsh essay](https://theroyalrifestory.com/a_special_examining_board_created_to_evaluate_rifes_research_program.html) |
+
+#### 5.4.2 Expected trials — timeline (Johnson chairmanship)
+
+| When | Planned / active step | Status in record |
+|------|----------------------|------------------|
+| **1930** | Carcinoma patient blood — purple bodies | Documented ask to Rife |
+| **Summer 1934** | **La Jolla / Scripps** clinic season | Planned in letters; outcome charts **not A-tier** |
+| **Late 1934** | **Santa Fe Hospital** case work (Fewell file + serial imaging) | **B** hospital record in correspondence |
+| **Jun 1935** | **USC committee** luncheon — approve next phase | Meeting called; minutes **not retrieved** |
+| **Oct 1935** | **No. 4 Ray** at Santa Fe; **patient treatments** start | Johnson letter schedules **Thursday** start |
+| **Oct 1935** | **Liability releases** returned → clinical start | “About ready… to start” |
+| **Post-1935** | **Schram / ICRF** western demonstration tour | Deferred to **September** per telegram |
+| **1939** | **Gables** UK + **Beam Ray** corporate break | Oncology thread **fragments** |
+
+#### 5.4.3 What the public tier omitted (contrast rows)
+
+| Source | Published layer | Omitted therapeutic layer |
+|--------|-----------------|---------------------------|
+| **LA Times Nov 1931** | Microscope + typhoid | Frequency, MOR, cancer clinic |
+| **Kendall–Rife PMC Dec 1931** | Filterable typhoid on scope | BX cancer sections |
+| **Rosenow *Science* 1932** | Filter-passing forms | Frequency cure |
+| **Johnson dinner press** | Optics honor | Closed-room **ray** logic per Track 2 |
+
+#### 5.4.4 Honest fence (Track 1)
+
+| Question | Assessment |
+|----------|------------|
+| **Was he working on a cancer cure program?** | **Yes** — correspondence + hospital installs + MOR/BX + animal ladder (**§5.4.1**) |
+| **Did 14/16 terminal cases clinically cure?** | **Unproven** — **C-tier** (Rife 1953, Lynes); original charts **lost** |
+| **Do physics/FDA debunks erase program existence?** | **No** — they attack **mechanism/efficacy**, not **documented intent** |
+| **Stafford 1963** | Shows **later** humans still treated as **oncology**; **no clean cure proof** |
+
+**Open retrieval:** USC **committee minutes**; **1934 clinic charts** (Yale loan lore); handwritten **Aug 1935** notebooks (OCR under 2k chars — need manual transcription).
 
 ---
 
@@ -425,7 +493,7 @@ Use viral posts as **discovery hooks**, not **evidence**. When a meme claim matc
 
 Keywords: #RoyalRife #RifeMachine #SuppressedMedicine #FlexnerReport #TwoTierMedicine #BioelectricMedicine #ParadigmThreatFiles #Investigation
 
-**Last updated:** 2026-06-25 (reorganized around suppression claim; OCR indexed; meme → §18)
+**Last updated:** 2026-06-25 (reorganized around suppression claim; OCR phases 1–5; **§5.4** cancer-cure inventory; meme → §18)
 
 ---
 
