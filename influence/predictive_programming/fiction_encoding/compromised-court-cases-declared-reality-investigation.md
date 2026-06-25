@@ -63,6 +63,19 @@ From the Case for the Appellant (Deeks' narrative): Macmillan editor Saul, upon 
 
 **Pattern:** Early 20th century is dense with legal contests around authorship, publication, and narrative. Many could have been influenced; winning is the quiet option.
 
+### Medical discovery — fraud and misbranding dockets (parallel lane)
+
+**Cross-read:** [Royal Rife dossier §7.4](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md) — full **20th–21st c. catalog** (Abrams, Hoxsey, Reich, Beam Ray, Crane, Folsom, Burzynski TODO) and **author thesis**: **fraud/misbranding** courts **set declared reality** without open efficacy trials — often **quieter** than public adoption.
+
+| Mechanism | Medical instance | Rhymes with Deeks v Wells |
+|-----------|------------------|---------------------------|
+| **Quiet win closes file** | FDA **injunction** → “**worthless**” / “**discredited**” | Privy Council → Wells **Outline** = textbook history |
+| **Plaintiff “wins” but loses opinion** | Hoxsey libel **$2** (1949) | Deeks **bankrupted** despite moral case |
+| **Science excluded** | Crane **1961** — 1930s records **not admitted** (supporter accounts) | Wells produced **typed** Outline at trial, not handwritten draft |
+| **Destruction order** | Reich **books + accumulators** burned | Deeks MS never **published** |
+
+**Investigation status:** Medical catalog **seeded** in Rife §7.4.2; **expand** here when Burzynski / Abrams FDA docket numbers are pinned.
+
 ---
 
 ## Declared Reality
@@ -96,6 +109,7 @@ From the Case for the Appellant (Deeks' narrative): Macmillan editor Saul, upon 
 - [x] Outline of History downloaded for comparison
 - [x] Doyle's *Lost World* foreword linked
 - [ ] Exhaustive catalog of early 20th-c. litigation involving fiction-as-fact authors
+- [ ] Merge / dedupe with [Rife §7.4.2](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md) medical fraud table (Burzynski, Abrams FDA docket #)
 - [ ] Trace Deeks' manuscript chain (Macmillan Canada → Macmillan UK?)
 - [ ] Compare Doyle and Wells: shared publisher networks, mutual acquaintances
 - [ ] Other authors in [fiction-presented-as-fact](fiction-presented-as-fact-investigation.md) — any faced litigation?
@@ -105,6 +119,7 @@ From the Case for the Appellant (Deeks' narrative): Macmillan editor Saul, upon 
 ## Cross-References
 
 - [Fiction Presented as Fact](fiction-presented-as-fact-investigation.md) — Authors who framed fiction as documentary; reclassification as "fiction" = steering mechanism
+- [Royal Rife — §7.4 medical fraud catalog](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md) — electromedicine court choke points
 - [Controlled Opposition / Managed Disclosure](/timeline/evt-controlled-opposition) — Disclosure in controlled channels; court outcome as control valve
 - [Investigative Strategy](../../docs/INVESTIGATIVE_STRATEGY.md) — Absence of evidence ≠ proof; burden on overturning party
 - [Investigations index](../index.md)

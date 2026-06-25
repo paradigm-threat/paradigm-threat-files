@@ -1,8 +1,98 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-25T13:02:51.501Z",
+    "date": "2026-06-25T13:27:22.801Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "A",
+        "path": "docs/REDACTION.md",
+        "href": "/docs/REDACTION"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/vril-society.md",
+        "href": "/governance/war/investigations/vril-society"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md",
+        "href": "/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md",
+        "href": "/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact"
+      },
+      {
+        "status": "M",
+        "path": "page.md",
+        "href": "/page"
+      },
+      {
+        "status": "M",
+        "path": "science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md",
+        "href": "/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md",
+        "href": "/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md",
+        "href": "/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/docs/)`)."
+      },
+      {
+        "src": "/influence/conspiracy/embedding.jpg",
+        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
+      },
+      {
+        "src": "/influence/conspiracy/scientific_truth.jpg",
+        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
+        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
+      },
+      {
+        "src": "/cosmos/mars/mars_life.jpg",
+        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
+      },
+      {
+        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
+        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
+      },
+      {
+        "src": "/science/health/frequency_health.jpg",
+        "alt": "Royal Rife suppression investigation — frequency medicine lane (header)"
+      },
+      {
+        "src": "/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.png",
+        "alt": "Virus isolation skeptical audit — dual-track, ætheric disease, fingerprint not blueprint (investigation header)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-25T13:02:50.000Z",
+    "message": "Add biblical sky citation tiers and Royal Rife suppression dossier.",
     "files": [
       {
         "status": "M",
@@ -1408,78 +1498,6 @@
       {
         "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade-warfare.png",
         "alt": "Mass schooling and warfare — collectivist grading, factory cohorts, fear-driven compliance"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-19T11:16:48.000Z",
-    "message": "Add flagship essay The Internet That Should Have Been and expand citation dossier.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/when-your-child-wont-fit-the-grade.md",
-        "href": "/history/chronology/when-your-child-wont-fit-the-grade"
-      },
-      {
-        "status": "M",
-        "path": "influence/stolen_credit/nintendo-sony-breakup.md",
-        "href": "/influence/stolen_credit/nintendo-sony-breakup"
-      },
-      {
-        "status": "M",
-        "path": "science/ai/ai-control-investigation.md",
-        "href": "/science/ai/ai-control-investigation"
-      },
-      {
-        "status": "A",
-        "path": "science/computing/investigations/internet-that-should-have-been-investigation.md",
-        "href": "/science/computing/investigations/internet-that-should-have-been-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/investigations/webmcp-suppressed-protocol-ai-gatekeeper-investigation.md",
-        "href": "/science/computing/investigations/webmcp-suppressed-protocol-ai-gatekeeper-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/quantum-leap-of-faith.md",
-        "href": "/science/computing/quantum-leap-of-faith"
-      },
-      {
-        "status": "A",
-        "path": "science/computing/the-internet-that-should-have-been.md",
-        "href": "/science/computing/the-internet-that-should-have-been"
-      },
-      {
-        "status": "A",
-        "path": "science/computing/the-internet-that-should-have-been.png",
-        "href": "/science/computing/the-internet-that-should-have-been.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/computing/the-internet-that-should-have-been.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png",
-        "alt": "When your child won’t fit the grade — schooling, conformity, and parent advice"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade-warfare.png",
-        "alt": "Mass schooling and warfare — collectivist grading, factory cohorts, fear-driven compliance"
-      },
-      {
-        "src": "/science/ai/ai-takeover.png",
-        "alt": "AI takeover in fiction"
-      },
-      {
-        "src": "/science/computing/quantum-leap-of-faith.png",
-        "alt": "Quantum Leap (of faith) — article header"
-      },
-      {
-        "src": "/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
-        "alt": "Joseph Smith mystery solved — crystal-memory interpretation"
       }
     ]
   }

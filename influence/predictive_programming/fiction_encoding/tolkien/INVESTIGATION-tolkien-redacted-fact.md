@@ -2352,5 +2352,7 @@ philologist who traced the words backward to their origins.
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
+**Redaction vocabulary:** Literary “found manuscript” and inversion themes map to repo [**R1–R6**](/docs/REDACTION.md) — especially **R4** (Fomenko / Biblical class) and **R5** flattening; compare [Marie Curie narrative rewrite](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) and [Royal Rife §0.1](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md).
+
 Keywords: #Tolkien #Redacted #Fact #Fiction
 

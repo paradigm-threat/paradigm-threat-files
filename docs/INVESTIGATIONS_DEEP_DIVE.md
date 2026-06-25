@@ -139,7 +139,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: "Nukes Don't Exist" — Alternative Framework Analysis](/science/nukes/investigations/nukes-dont-exist-investigation.md)
 - [Investigation: Virus isolation proof — skeptical audit (dual-track, author-boundary)](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md)
 - [Investigation: Napoleon plague screenshot — Roytas 2024, Gros *Jaffa* 1804, Murad Bay forensics (open)](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md)
-- [Investigation: Royal Rife — “44 doctors forced to forget” blackbox meme audit (open)](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md)
+- [Investigation: Royal Rife — two-tier medicine, Flexner capture, and frequency suppression (open)](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md)
 - [Investigation: Napoleon Egypt / Siberia / Curie / captured medicine (open)](/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md) — **Lay:** [Napoleon carried corpses](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md); corrected empire dates
 - [Investigation: Virus media PP — evolution, genome causality, zombie etiology](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md)
 
@@ -179,7 +179,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 | 28 | Virus isolation — skeptical audit (dual-track) | [virus-isolation-never-proven-thesis-skeptical-audit-investigation.md](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md) | §11 hooks: Enders 1954, Zhou/Wölfel COVID culture, Landsteiner 1908 route, Flexner primary; §5f synthesis chain-of-custody | Enders measles PDF; *Nature* 2020 COVID isolation papers |
 | 29 | Virus media PP — evolution, genome, zombies | [virus-media-predictive-programming-genome-zombie-etiology-investigation.md](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md) | §8 H1–H6: expand pre-1970 outbreak film; RE RNA primaries; *WWZ* book vs film; *Last of Us*; Terranigma cross-link | None explicit |
 | 30 | China / Hollywood — two-camp war (*Dark Knight*, Rush Hour, *24*, US–China war fiction) | [china-hollywood-two-camp-war-investigation.md](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md) | **Thread K:** *24* China torture, proxy terror, CTU Sentox (Q11–Q12). **Thread I:** Ledger vs Phoenix (Q6). **Speech catalogs** → [celebrity modern slavery § Hollywood speech containment](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#hollywood-celebrity-speech-containment--deniro-archetype--catalogs) (Q7, Q9, Q10) | Guide regrouped I/II/III; Thread J extracted 2026-06-17 |
-| 31 | Royal Rife — “44 doctors” blackbox meme | [royal-rife-44-doctors-forced-amnesia-suppression-investigation.md](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md) | §10: Foord primary; USC 1934 committee minutes; fire dept records; Beam Ray trial physician testimony; Fishbein AMA archive | Lynes *Cancer Cure That Worked* (1987); LA Times 22 Nov 1931 PDF |
+| 31 | Royal Rife — two-tier suppression / Flexner capture | [royal-rife-44-doctors-forced-amnesia-suppression-investigation.md](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md) | §14: USC minutes; Crane 1961 court record; Foord primary; OCR complete (`index-ocr-findings.md`) | Lynes (1987); LA Times PDF; [`REDACTION.md`](/docs/REDACTION.md) |
 
 **Total in §1 table:** 30 investigations with explicit unfinished work. **Full corpus:** 92 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
 
@@ -240,6 +240,13 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - **Validated:** Yakuza influence on Japanese showbiz (Kobe Geinosha, Adelstein, Variety, Shimada 2011) — documented. Nintendo–Sony breakup, Taiwan chip parallel — documented. Okamura protected by Chiang — documented. Abe assassination: mainstream narrative (Yamagami/Unification Church); alternative (Yakuza) unproven.
 - **Dead ends:** “Yakuza as remote-controlled by Britain” is structural hypothesis only. “300 years” overstated; 1853–present is the relevant window.
 - **Likelihood:** Yakuza in entertainment and some tech/political outcomes: **high**. Remote control by Western interests: **possible**. Abe assassination as Yakuza/Western op: **unproven**.
+
+### Royal Rife — two-tier suppression ([investigation](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md))
+
+- **Validated (Track 1):** **20 Nov 1931** Johnson dinner — **A-tier**; press = **microscopy + typhoid**. Rosenow *Science* **1932**. **Correspondence OCR (Jun 2026):** Johnson **1935** USC committee, **Rife Ray Machine**, **BX MOR** — insider lane documented. **rife.org ledgers survive**.
+- **Track 2:** Flexner/GEB capture **~85%**; guild suppression of electromedicine **~65%**; two-tier release **~70%**. **Cancer cure efficacy** **~15–25%**.
+- **Dead ends:** Viral meme specifics (fire, 44 under oath) — **§18 folklore**. **Rife war-release template** — weak vs penicillin.
+- **Likelihood:** **Clear suppressed-medicine pattern** on documentary shape; meme **folk compression** of same architecture.
 
 ### Vril Society
 

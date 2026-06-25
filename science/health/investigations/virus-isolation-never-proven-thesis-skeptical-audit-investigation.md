@@ -452,6 +452,8 @@ Controversial **gain-of-function** (GoF) research is publicly framed as **two** 
 | [Controlled opposition hub](/influence/controlled_opposition/page.md) | Wrong-fork / debunk-bin pattern for §4.3 |
 | [**Virus media PP — evolution, genome, zombies**](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md) | *Andromeda Strain*, *Resident Evil*, genome-only causality; virus vs *Life Force* etiology |
 | [Napoleon plague / Roytas screenshot hunt](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md) | **1798–99** anticontagion stunts; *Can You Catch a Cold?* (2024); failed-challenge historiography |
+| [Redaction vocabulary (R1–R6)](/docs/REDACTION.md) | Flexner capture + **R6 shell** press; cross-read [Royal Rife §0.1](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md) |
+| [Royal Rife suppression dossier](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md) | Electromedicine gate + 1931 narrative split (Track 2) |
 | [maxwell_aether](/science/maxwell_aether/) | Bridge spiritual critics often **do not** make into virology |
 
 ---

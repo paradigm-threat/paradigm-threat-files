@@ -20,6 +20,7 @@ The prompt also asks for connection to **US Civil War–era suppression** narrat
 | US Civil War, British lines, DU weapon thesis (open) | [/governance/war/investigations/us-civil-war-investigation.md](/governance/war/investigations/us-civil-war-investigation.md) |
 | “Nukes don’t exist” / simulacrum line (parallel track) | [/science/nukes/investigations/nukes-dont-exist-investigation.md](/science/nukes/investigations/nukes-dont-exist-investigation.md) |
 | Flexner-era medicine, bioelectric / “voltage healing” thread (site corpus) | [/science/health/tennant/index-tennant-healing-voltage.md](/science/health/tennant/index-tennant-healing-voltage.md) |
+| Redaction vocabulary (R1–R6; narrative flattening) | [/docs/REDACTION.md](/docs/REDACTION.md) · [Royal Rife §0.1 applied table](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md) |
 | Timeline event (book chapter 14, under WWI) | [Marie Curie: Field Radiography and the Radiation Martyr Arc](https://paradigmthreat.net/timeline/evt-marie-curie-radiography-radiation-narrative) |
 | Napoleon — French elite science / Siberia / mutant PP | [dossier](/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md); [lay article](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md) — Curie **1914–18** rhyme (not between First/Second Empire) |
 
