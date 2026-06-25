@@ -1,8 +1,62 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-25T13:48:08.135Z",
+    "date": "2026-06-25T14:11:59.327Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/health/royal-rife-frequency-medicine-suppression.md",
+        "href": "/science/health/royal-rife-frequency-medicine-suppression"
+      },
+      {
+        "status": "A",
+        "path": "science/health/royal-rife-frequency-medicine-suppression.png",
+        "href": "/science/health/royal-rife-frequency-medicine-suppression.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/health/royal-rife-frequency-medicine-suppression.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/royal-rife-frequency-medicine-suppression.png",
+        "alt": "Royal Rife — what the letters say when the banquet only heard the microscope (investigation art)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/nukes/HEUraniumC.jpg",
+        "alt": "Depleted uranium puck — weapon fraction vs therapeutic isotope (DU exhibit)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/frequency_health2.jpg",
+        "alt": "Cell voltage and pH — healthy range, polarity flip, cancer threshold (frequency-health chart)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/eastern_medicine.jpg",
+        "alt": "Traditional Chinese Medicine meridians — organ circuits and voltage lanes (Jerry Tennant, © 2011)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/wotw.jpg",
+        "alt": "War of the Worlds — heat ray, red weed, Mars inversion (fiction encoding)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/ph_voltage.jpg",
+        "alt": "Dr. Jerry Tennant — body as electronic device, pH as voltage, EU2017 Future Science"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/ph_voltage2.jpg",
+        "alt": "Healing is Voltage — reference library, BioModulator devices, Cancer’s On/Off Switches: Polarity (Tennant)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/cell-regen.png",
+        "alt": "Cell turnover times — regeneration clock if voltage and field are restored (Tennant-aligned exhibit)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-25T13:48:07.000Z",
+    "message": "Fix Matrix link markup in Rife suppression essay.",
     "files": [
       {
         "status": "M",
@@ -873,157 +927,6 @@
       {
         "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
         "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-23T14:21:51.000Z",
-    "message": "Add Islamabad peace-deal Installment III and expand Iran, LLM, and education dossiers.",
-    "files": [
-      {
-        "status": "M",
-        "path": ".gitignore",
-        "href": "/.gitignore"
-      },
-      {
-        "status": "A",
-        "path": "docs/INVESTIGATION_LLM_SWEEP.md",
-        "href": "/docs/INVESTIGATION_LLM_SWEEP"
-      },
-      {
-        "status": "M",
-        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
-        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
-      },
-      {
-        "status": "A",
-        "path": "docs/sweep-plans/README.md",
-        "href": "/docs/sweep-plans/README"
-      },
-      {
-        "status": "A",
-        "path": "docs/sweep-plans/_TEMPLATE_SWEEP_PLAN.md",
-        "href": "/docs/sweep-plans/_TEMPLATE_SWEEP_PLAN"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cia-investigation.md",
-        "href": "/governance/war/investigations/cia-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/iran-2026-war-runner.md",
-        "href": "/governance/war/investigations/iran-2026-war-runner"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/investigations/islamabad-peace-deal-investigation.md",
-        "href": "/governance/war/investigations/islamabad-peace-deal-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/page.md",
-        "href": "/governance/war/investigations"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.md",
-        "href": "/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026"
-      },
-      {
-        "status": "A",
-        "path": "governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.png",
-        "href": "/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.png"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/mission-accomplished-again-iran-2026.md",
-        "href": "/governance/war/mission-accomplished-again-iran-2026"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md",
-        "href": "/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md",
-        "href": "/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md",
-        "href": "/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/responsibility-to-the-next-generation-investigation.md",
-        "href": "/history/chronology/investigations/responsibility-to-the-next-generation-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/responsibility-to-the-next-generation.md",
-        "href": "/history/chronology/responsibility-to-the-next-generation"
-      },
-      {
-        "status": "M",
-        "path": "science/ai/llm-history-governance-theater-investigation.md",
-        "href": "/science/ai/llm-history-governance-theater-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/ai/page.md",
-        "href": "/science/ai"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.png"
-      },
-      {
-        "src": "/docs/)`)."
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
-        "alt": "Iran war runner — timeline, dual track, and regional map read"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map.png",
-        "alt": "Iran war runner — theater map (Hormuz, Gulf, and adjacent land)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png",
-        "alt": "Iran war runner — Strait of Hormuz detail (theater map)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/ww2-mission-failed.png",
-        "alt": "WW2 — mission failed vs victory story (title bridge)"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.png",
-        "alt": "The Peace Deal Nobody Is Covering — Islamabad MOU, media silence, and Strait of Hormuz"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
-        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
-      },
-      {
-        "src": "/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.png",
-        "alt": "Cherokee Moors viral meme — framed studio portrait with overlay text (study copy)"
-      },
-      {
-        "src": "/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png",
-        "alt": "Europe white bloodline, complexion, and whitewash — investigation header"
-      },
-      {
-        "src": "/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.png",
-        "alt": "Moorish ten presidents infographic — study copy"
       }
     ]
   }
