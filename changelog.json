@@ -1,8 +1,65 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-24T15:18:04.634Z",
+    "date": "2026-06-25T12:49:07.763Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
+        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/09-11-investigation.md",
+        "href": "/events/false_flag/investigations/09-11-investigation"
+      },
+      {
+        "status": "A",
+        "path": "events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md",
+        "href": "/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation"
+      },
+      {
+        "status": "A",
+        "path": "events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md",
+        "href": "/events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation"
+      },
+      {
+        "status": "A",
+        "path": "events/false_flag/investigations/epstein-island-archipelago-blackmail-investigation.md",
+        "href": "/events/false_flag/investigations/epstein-island-archipelago-blackmail-investigation"
+      },
+      {
+        "status": "A",
+        "path": "events/false_flag/investigations/epstein-online-citations-research-bank.md",
+        "href": "/events/false_flag/investigations/epstein-online-citations-research-bank"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
+        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/pitcairn-bounty-mutiny-sovereignty-and-narratives.md",
+        "href": "/governance/war/investigations/pitcairn-bounty-mutiny-sovereignty-and-narratives"
+      }
+    ],
+    "images": [
+      {
+        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
+        "alt": "Richard Gage / AE911Truth — investigation header graphic"
+      },
+      {
+        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png",
+        "alt": "Richard Gage / AE911Truth — investigation graphic (charity envelope, open-air prison)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-24T15:18:03.000Z",
+    "message": "Document DEW no-planes bypass as intentional 9/11 movement strategy.",
     "files": [
       {
         "status": "M",
@@ -1430,38 +1487,6 @@
       {
         "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
         "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-18T11:42:39.000Z",
-    "message": "Fix Lau/Gordon plot, tighten war-prep camp sort, add stolen-memory thread.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/conspiracy/celebrities/jackie-chan.md",
-        "href": "/influence/conspiracy/celebrities/jackie-chan"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/everything-burns.md",
-        "href": "/influence/hollywood/everything-burns"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md",
-        "href": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
-        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
-      },
-      {
-        "src": "/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png",
-        "alt": "China / Hollywood two-camp war — investigation cover"
       }
     ]
   }

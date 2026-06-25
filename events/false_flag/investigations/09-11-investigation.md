@@ -20,7 +20,7 @@
 
 **Author epistemic rule (2026-05-31):** Treating **~3,000** (or any official increment) as settled fact is the same epistemic move as treating **hijacked planes, cave-dwelling masterminds, and fire-only collapse** as settled fact. This repo **rejects that bundle**. The event was real as **spectacle and structural demolition**; the **human toll as packaged for the public** is an open forensic and statistical question — with the **minimal-death / media-docudrama** thesis assigned **substantial weight**, not fringe status.
 
-Cross-read: [Good-Actor Theory — interagency antibody](./good-actor-theory-interagency-antibody-investigation.md) · [CIA investigation — WTC 7 / NSA antibody](/governance/war/investigations/cia-investigation.md)
+Cross-read: [Good-Actor Theory — interagency antibody](./good-actor-theory-interagency-antibody-investigation.md) · [CIA investigation — WTC 7 / NSA antibody](/governance/war/investigations/cia-investigation.md) · [Epstein blackmail network — 9/11 cross-links](./epstein-blackmail-network-9-11-crosslinks-investigation.md)
 
 ---
 

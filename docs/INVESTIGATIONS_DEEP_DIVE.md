@@ -12,7 +12,7 @@
 
 Every paradigm-threat-files investigation that uses the `*investigation.md` filename convention, plus [reverse-crusades-comparison.md](/governance/war/investigations/reverse-crusades-comparison.md), [vril-society.md](/governance/war/investigations/vril-society.md), and [wuxing-five-planets-dark-ages.md](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) (same treatment as site indexes). Deep-dive validation in §2 below applies only where a subsection exists; the rest are listed here so nothing is orphaned.
 
-**Count:** 95 files in the lists below.
+**Count:** 96 files in the lists below.
 
 **Supplementary** (same research lane, different filename): [Chronology investigations index](/history/chronology/investigations/index-investigations.md) lists companion articles and **chronology reader essays** under `history/chronology/` (e.g. [Indigenous creation dates, legends, and geology](/history/chronology/indigenous-creation-legends-and-geology.md)). [War investigations hub](/governance/war/investigations/page.md) lists thematic clusters. Fiction-encoding threads: [Narnia planetary encoding](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md), [Tolkien redacted fact](/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md), [Swift investigation](/influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift.md), [Asimov investigation threads](/influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads.md).
 
@@ -34,6 +34,10 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: Would Netanyahu Want a Faked Death Here? — Motive, Timeline, and Iran Narrative](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md)
 - [Investigation: Ariel Sharon — Timeline, Gaza Disengagement, Coma Secrecy, and “Controlled Opposition” Threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md)
 - [Investigation: Richard Gage, AE911Truth, and the Controlled-Demolition Thesis (9/11)](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md)
+- [Investigation: Epstein Blackmail Network — 9/11 Cross-Links, Agency Alignment, and Compromise Hypothesis](/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md)
+- [Investigation: Epstein Death — Escape Thesis, Suspended Animation, and Bloodline Endgame](/events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md)
+- [Investigation: Epstein Island Archipelago — Blackmail Geography, Pitcairn, and the NSA Secrecy Pillar](/events/false_flag/investigations/epstein-island-archipelago-blackmail-investigation.md)
+- [Investigation: Epstein Online Citations — Research Bank & Future Dossiers](/events/false_flag/investigations/epstein-online-citations-research-bank.md)
 - [Investigation: Trump, Historic Antibodies, and the Uncompromised Dynasty Thesis](/events/trump/index-trump-investigation.md)
 
 ### Governance & slavery
@@ -135,6 +139,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: "Nukes Don't Exist" — Alternative Framework Analysis](/science/nukes/investigations/nukes-dont-exist-investigation.md)
 - [Investigation: Virus isolation proof — skeptical audit (dual-track, author-boundary)](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md)
 - [Investigation: Napoleon plague screenshot — Roytas 2024, Gros *Jaffa* 1804, Murad Bay forensics (open)](/science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md)
+- [Investigation: Royal Rife — “44 doctors forced to forget” blackbox meme audit (open)](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md)
 - [Investigation: Napoleon Egypt / Siberia / Curie / captured medicine (open)](/history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md) — **Lay:** [Napoleon carried corpses](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md); corrected empire dates
 - [Investigation: Virus media PP — evolution, genome causality, zombie etiology](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md)
 
@@ -174,8 +179,9 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 | 28 | Virus isolation — skeptical audit (dual-track) | [virus-isolation-never-proven-thesis-skeptical-audit-investigation.md](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md) | §11 hooks: Enders 1954, Zhou/Wölfel COVID culture, Landsteiner 1908 route, Flexner primary; §5f synthesis chain-of-custody | Enders measles PDF; *Nature* 2020 COVID isolation papers |
 | 29 | Virus media PP — evolution, genome, zombies | [virus-media-predictive-programming-genome-zombie-etiology-investigation.md](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md) | §8 H1–H6: expand pre-1970 outbreak film; RE RNA primaries; *WWZ* book vs film; *Last of Us*; Terranigma cross-link | None explicit |
 | 30 | China / Hollywood — two-camp war (*Dark Knight*, Rush Hour, *24*, US–China war fiction) | [china-hollywood-two-camp-war-investigation.md](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md) | **Thread K:** *24* China torture, proxy terror, CTU Sentox (Q11–Q12). **Thread I:** Ledger vs Phoenix (Q6). **Speech catalogs** → [celebrity modern slavery § Hollywood speech containment](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#hollywood-celebrity-speech-containment--deniro-archetype--catalogs) (Q7, Q9, Q10) | Guide regrouped I/II/III; Thread J extracted 2026-06-17 |
+| 31 | Royal Rife — “44 doctors” blackbox meme | [royal-rife-44-doctors-forced-amnesia-suppression-investigation.md](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md) | §10: Foord primary; USC 1934 committee minutes; fire dept records; Beam Ray trial physician testimony; Fishbein AMA archive | Lynes *Cancer Cure That Worked* (1987); LA Times 22 Nov 1931 PDF |
 
-**Total in §1 table:** 29 investigations with explicit unfinished work. **Full corpus:** 91 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
+**Total in §1 table:** 30 investigations with explicit unfinished work. **Full corpus:** 92 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
 
 ---
 

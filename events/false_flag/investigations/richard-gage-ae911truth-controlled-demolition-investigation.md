@@ -9,6 +9,7 @@
 - **Investigation, not adjudication:** Summaries of Gage/AE911Truth claims and of NIST/skeptical rebuttals are for reader navigation; this file does not reproduce full calculations or sealed evidence.
 - **Focus:** Material publicly associated with **Gage** and **AE911Truth** (presentations, films, petitions, NIST critiques), plus **truth-movement containment** where it intersects the **Judy Wood / DEW** lane and the **thermite-vs-DEW** fracture ([§4](#4-judy-wood-dew-and-poison-the-well-fracture)). Other 9/11 threads (Pentagon, flight paths, geopolitical motive) are mentioned only where they intersect that focus.
 - **Parent thesis:** The project’s broader [9/11 good-actor / WTC 7 CIA station](09-11-investigation.md) framing lives in the linked investigation; here, **controlled demolition** is treated as a **live forensic hypothesis** sponsored in parallel with the **no-planes/CGI** hypothesis (see below).
+- **Epstein cross-links (2026):** [DOJ Jan 2026 releases](https://www.justice.gov/epstein) and [Gage Feb 2026 research call](https://richardgage911.substack.com/p/911-and-epstein-a-call-for-research) — **proximity** of **Commission** figures / **Lutnick** to **Epstein**; **agency alignment** and **compromise vs contact** — [Epstein blackmail network investigation](./epstein-blackmail-network-9-11-crosslinks-investigation.md).
 
 ---
 
