@@ -431,6 +431,18 @@ The following table maps key creation motifs across traditions to identify share
 
 ---
 
+## Secondary Biblical Sky Language (Citation Tiers)
+
+Full tier table and social-debate notes: [Biblical sky texts — Saturnian citation investigation](/history/chronology/investigations/biblical-sky-texts-saturnian-citation-investigation.md).
+
+| Source | Use in this corpus |
+|--------|-------------------|
+| **Genesis 1** | **Primary** — firmament, light-before-luminaries, waters (see correlation table below) |
+| **Plutarch**, *De facie* §26 | **Secondary** — Saturnia/Ogygia, Cronus cave, polar twilight near Cronian isles; Atlantic memory, not a date pin |
+| **Ecclesiastes 1:5** | **Weak** — phenomenological sunrise/set idiom; not geocentrism proof; not Saturnian diagnostic |
+| **Ecclesiastes 1:6–7** | **Exclude** from sky cosmology — observable wind/water cycles |
+| **Big Bang / CMB** | **Modern competing myth** — not ancient witness; see [1927 CE timeline entry](/timeline/evt-1927-ce-big-bang-scientific-consensus-religion) |
+
 ## Saturnian Correlation Table
 
 Mapping mythological motifs to specific Saturnian Cosmology events in the timeline:
