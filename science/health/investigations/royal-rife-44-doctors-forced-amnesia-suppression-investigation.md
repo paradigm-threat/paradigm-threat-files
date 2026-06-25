@@ -416,6 +416,7 @@ Rife fits **elite insider window → guild closure** better than “deployed for
 
 | Topic | Link |
 |-------|------|
+| **Reader investigation essay (Jun 2026)** | [Royal Rife — frequency medicine suppression](/science/health/royal-rife-frequency-medicine-suppression.md) |
 | Tennant / Flexner / bioelectric | [Tennant index](/science/health/tennant/index-tennant-healing-voltage.md) |
 | Virus / Flexner capture | [Virus isolation audit](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md) |
 | Curie radiation rewrite | [Marie Curie dossier](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) |
