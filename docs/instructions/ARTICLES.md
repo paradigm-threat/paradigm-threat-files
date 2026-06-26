@@ -231,6 +231,8 @@ LLM drafts **confabulate** text that *sounds* quotable: **song lyrics**, **film 
 
 Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_INSTRUCTIONS.md) → “New article or hub — discovery checklist”**: site root **`page.md`** **Investigation Categories**, topic **`page.md`**, **`index-investigations.md`** (or sibling index), bidirectional **Related** links, **`npm run autogen`**.
 
+**`Last updated` line:** use the **calendar date in US Eastern** (`America/New_York`) — see **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md` → Dates and timezone](../PARADIGM_INVESTIGATION_INSTRUCTIONS.md#dates-and-timezone)**. Place after **`## Framing and limits`** (or equivalent), before **`Keywords:`** and the attribution footer.
+
 ---
 
 ## Reference implementations
@@ -244,4 +246,4 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 
 ---
 
-**Last updated:** 2026-06-19 (Shape step 6 — no dossier routing in lede)
+**Last updated:** 2026-06-26 (Eastern — `Last updated` / hand-stamped dates use `America/New_York`)

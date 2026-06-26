@@ -1,0 +1,16 @@
+---
+description: Paradigm Threat — use US Eastern (America/New_York) for Last updated and hand-stamped dates
+alwaysApply: true
+---
+
+# paradigm-threat-files: Eastern time for dates
+
+**Canon:** [`docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md) → **Dates and timezone**.
+
+## Rules (compact)
+
+- **Default clock:** **US Eastern** — IANA **`America/New_York`** (ET / EDT / EST).
+- **Use for:** `*Last updated: YYYY-MM-DD*`, investigation footers, sweep-plan dates, session stamps, and any **hand-written** calendar date in this repo.
+- **Format:** `YYYY-MM-DD` for date-only; add `HH:MM TZ` (e.g. `09:38 EDT`) when time-of-day matters.
+- **Do not** trust UTC midnight or the assistant host’s local zone unless it is already Eastern — late UTC can be the **wrong calendar day** for US readers.
+- **Before stamping:** run `TZ=America/New_York date +%Y-%m-%d` (or `date '+%Y-%m-%d %H:%M %Z'`).

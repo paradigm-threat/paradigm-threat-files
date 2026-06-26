@@ -16,7 +16,7 @@ Human beings should not be able to **forget** words wholesale. Names of people, 
 
 Schools do not teach the history of words. Nobody asks where *nice* or *slave* came from; the assumption is that Shakespeare, the King James Bible, Francis Bacon, or Joseph Scaliger simply **got everything right** and the trail stops there. Ask a chatbot and you get the same terminal author again — never **what came before** the mass translation projects.
 
-On the Fomenko read, everything Shakespeare wrote and much of what Bacon redacted **came from the east**. English is the most war-torn language on the planet: pinned by an extremely small minority of influential authors and hidden editorial layers, mass-published long before the species could react. Handbook etymology is **post-redaction closure** — expert-only, consensus-safe, closed to anyone who still doubts the establishment chronology.
+On the Fomenko read, everything Shakespeare wrote and much of what Bacon redacted **came from the east**. English is the most war-torn language on the planet: pinned by an extremely small minority of influential authors and hidden editorial layers, mass-published long before the species could react. Handbook etymology is **post-redaction closure** — expert-only, consensus-safe, closed to anyone who still doubts the establishment chronology. English today is a **dictionary of pins**: meanings set by a small elite before mass literacy, cut off from Horde-era memory at the redaction wall. That should not have been possible. It happened anyway.
 
 ---
 
@@ -26,7 +26,7 @@ Latin is a **breakaway language** from a **breakaway civilization**, not a strat
 
 Vocabulary also arrived through **informational passageways**: telepathy, visions granted to religious leaders, revelation channels that land in scripture and catechism before they land in folk memory. The word stock did not grow only by gradual village drift; it was **injected** at the top and trickled down already moralized.
 
-The **Nicaea / *nice*** pair is the classroom punch line. Paschal council history was fixed around **877 CE** and backdated to phantom **325** ([timeline event](https://paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated)). Pedagogy treated **Nicaean** people as **foolish** (*nescius* — ignorant) before the Latin West rebranded them as **“nice”** — civil, refined, kind ([Nicaea / *nice* investigation](https://paradigmthreat.net/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md)). Western resistance to the eastern empire laid groundwork for a **no-emperor** order — a communist or Marxist-style new world order where no one can ever be emperor again. Off-world managers may have wanted Earth run that way; they may run things elsewhere the same way.
+The **Nicaea / *nice*** mnemonic — eastern Christians as foolish, then **nice** — is developed under **#### Nice / Nicaea** below. Western resistance to the eastern empire laid groundwork for a **no-emperor** order — a communist or Marxist-style new world order where no one can ever be emperor again. Off-world managers may have wanted Earth run that way; they may run things elsewhere the same way.
 
 ---
 
@@ -80,7 +80,7 @@ On corrected chronology, European **Jew** has **one generative moment**: the Pas
 
 #### Jew
 
-On corrected chronology, European **Jew** has **one generative moment**: the Passion trial under **Latin imperial procedure** — betrayal, Sanhedrin, Pilate, cross. The category “the ones who killed him” was **minted at crucifixion**, not discovered by philologists in phantom antiquity.
+The category “the ones who killed him” was **minted at crucifixion** — betrayal, Sanhedrin, Pilate, cross under **Latin imperial procedure** — not discovered by philologists in phantom antiquity.
 
 Handbooks spread Latin **Iudaeus** and Greek **Ioudaios** backward across millennia of fake chronology so the word looks **ancient** and **ethnic** rather than **judicial** and **event-bound**. Collapse the timeline and the origin sits in **one window** beside **judge**, **Judas**, and **martyr** vocabulary — a courtroom print cluster, not a wandering tribe name ([Jew word investigation](https://paradigmthreat.net/history/chronology/investigations/jew-word-terminology-judas-judicial.md)).
 
@@ -146,13 +146,9 @@ Add **trumpet** and **trump** to the same **siege-technology** stack. Schoolbook
 
 English **to trump** — to **overcome**, to **beat**, to play the winning card — sits beside **trumpet** (Old French **trompe**, “horn”) and the **triumph** march. The verb says what the weapon **did**: imperial tech **trumped** any attempt at resistance. Once the walls were down, folk memory kept only the **music** and the **card game**, not the **breach**.
 
-By the **1500s** the verb **shifted again**: **to trump** meant **to deceive or cheat**. Handbook etymology blames street **mountebanks** — blow a **trumpet**, draw a crowd, sell worthless goods — a folk etymology so small it barely fills a market square. That story makes **zero sense** as the engine for a **society-wide** semantic flip. Vocabulary at that scale does not turn on quacks in alleys; it turns when **nearly everyone** agrees the old sound now means **injustice**.
+By the **1500s** the verb **shifted again**: **to trump** meant **to deceive or cheat**. Handbook etymology blames street **mountebanks** — a folk story too small for a society-wide flip. On this read **trumpets** were remembered as instruments of **injustice** — siege horns and **aristocratic fanfare** before expropriation — and **to trump** names what power **did** to the defeated: **cheated** them of land, law, and memory. The pejoration fits **mass trauma**, not peddlers.
 
-On this read **trumpets** were remembered as instruments of **injustice** — not only the **siege weapons** above, but the **blaring ceremonial horns** of any **aristocracy** the people hated: fanfares before expropriation, coronation, crusade proclamation. **To trump** then names what power **did** to the defeated — **cheated** them of land, law, and memory — using the same **Tr-** syllable that once meant triumph. The pejoration fits **mass trauma**, not peddlers.
-
-The candidate event large enough to **re-point** the word is the **[1492 Apocalypse Crusade](https://paradigmthreat.net/timeline/evt-the-apocalypse-crusade-reverse-exodus)** — invasion and reordering of **Europe** on the repo timeline, **cannons absolutely active** beside **canon** seal and **trumpet** proclamation ([chronology hub — 1492 CE](https://paradigmthreat.net/history/chronology/page.md); Fomenko [**Noah = Columbus**](https://chronologia.org/en/chronologia5/add2_6.html) fleet language). Something **completely unjustifiable** had to occur for **trump** to acquire **cheat** in the same centuries **cannon** acquired **rule** — war tech and **aristocratic noise** fused in folk mouth, then print **separated** them again for schoolbooks.
-
-That phonetic charge has an **obvious lasting effect** into the present. A **Trump** surname, a **trump** card, a **trumpet** fanfare at every coronation and coup — the same **Tr-** burst in the ear whether you are hearing **Joshua**, a brass band, or a twenty-first-century dynasty headline. Lexical redaction does not require every bearer to know the etymology; it requires the **sound** to keep firing. **Open** row: dated **1500s** **trump** = “cheat” attestations beside **1492** print and artillery corpus; mountebank etymology stays the **closure** contrast.
+The candidate event large enough to **re-point** the word is the **[1492 Apocalypse Crusade](https://paradigmthreat.net/timeline/evt-the-apocalypse-crusade-reverse-exodus)** — invasion and reordering of **Europe** on the repo timeline, **cannons absolutely active** beside **canon** seal and **trumpet** proclamation ([chronology hub — 1492 CE](https://paradigmthreat.net/history/chronology/page.md); Fomenko [**Noah = Columbus**](https://chronologia.org/en/chronologia5/add2_6.html) fleet language). Something **completely unjustifiable** had to occur for **trump** to acquire **cheat** in the same centuries **cannon** acquired **rule** — war tech and **aristocratic noise** fused in folk mouth, then print **separated** them again for schoolbooks. **Open** row: dated **1500s** **trump** = “cheat” attestations beside **1492** print and artillery corpus; mountebank etymology stays the **closure** contrast.
 
 #### Crusade
 
@@ -164,7 +160,7 @@ Handbooks treat **war** as **human nature** — biology, sin, scarcity, tribal i
 
 ![Mars-associated control — life on Mars rules Earth (lexical war cluster)](https://paradigmthreat.net/cosmos/mars/life_on_mars_rules_earth.png)
 
-The [Mars hub](https://paradigmthreat.net/cosmos/mars/page.md) lists familiar **Mar-** conquest terms — **martial law**, **maritime**, **marshalling**, **marching**, **mergers**, **martyrdom**, **murder**, **marring** — as **systems of control** named after the **planet of conquest**. Handbooks split them across Latin **Mars** (god), Germanic **morthor**, Greek **martys**, and neutral commerce **merge**; the author read keeps the **phonetic stack**: one planetary administration, many dictionary entries.
+The [Mars hub](https://paradigmthreat.net/cosmos/mars/page.md) lists **Mar-** conquest terms — **martial law**, **marriage**, **merger**, **martyr**, **murder**, **maritime**, **marring** — as **systems of control** named after the **planet of conquest**; entries below unpack each; handbooks split them across unrelated roots.
 
 #### Martial / March / Marshal
 
@@ -180,33 +176,26 @@ Latin **martialis** ← **Mars**; **March** the month of **Mars** in Roman war-c
 
 #### Maritime / Marring
 
-**Maritime** law and **marring** (spoiling, damaging) complete the conquest set from the Mars hub: **sea lanes** as **martial** jurisdiction (**maritime** ← *mare* in handbooks, **Mar-** in the stack), and **marring** what cannot be merged — **scorched** resistance, **defaced** memory. War here is **infrastructure**: ports, blockades, and **damaged** populations so **control persists** after the battle ([Mars stock-market / harvest cycle](https://paradigmthreat.net/cosmos/mars/investigations/mars-stock-market-correlation.md) — cyclic **regime** turnover under Mars–node windows).
-
-**Iron Age** vocabulary in-repo ties the same planet to **metallurgy and massacre**: [Priori-Mars loses its shell — Iron Age begins](https://paradigmthreat.net/history/chronology/page.md); de Grazia’s [*Iron Age of Mars*](https://paradigmthreat.net/cosmos/cosmology/de_grazia/books/iron-age-of-mars.md) reads warrior cult and **iron** weapons as **Mars-close** centuries. **Fomenko** dates **war epics** and **zodiac Mars** symbols in **compressed** medieval horizons ([*New Chronology of Egypt* — Mars in horoscopes](https://chronologia.org/en/new_chronology_of_egypt/index.html) §4.4.7) — not proof of Martian governors, but proof the **handbook timeline** hides how recently the **Mar-** lexicon hardened. **Open** row: dated pamphlet corpus linking **Mar-** clusters to anti-resistance policy; mainstream etymologies remain the **closure** contrast.
+**Maritime** law and **marring** (spoiling, damaging) complete the conquest set: **sea lanes** as **martial** jurisdiction and **marring** what cannot be merged. [Iron Age of Mars](https://paradigmthreat.net/cosmos/cosmology/de_grazia/books/iron-age-of-mars.md) and Fomenko’s compressed **war-epic** horizons ([Egypt zodiac Mars §4.4.7](https://chronologia.org/en/new_chronology_of_egypt/index.html)) sit the same planet beside metallurgy and massacre — **open** row for pamphlet corpus; mainstream etymologies remain **closure** contrast.
 
 ### Political English
 
-**Left**, **right**, and **righteous** sort **who counts as legitimate power** in English — not church vocabulary, not battlefield slang. Handbooks say political **left/right** begins with French Estates-General **seating (1789)** and that **righteous** comes from Germanic *riht-* (“straight, lawful”). This timeline adds a second layer: imperial ideology of “the **right** empire” may have **drained into moral print** when Horde political charge was scrubbed but the words stayed — speculative **institutional metaphor**, not shared Indo-European roots ([Rus–Horde English lexicon](https://paradigmthreat.net/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md)).
+**Left**, **right**, and **righteous** sort **legitimate power** in English — handbook dates, Germanic roots, and a speculative Horde-fracture layer ([Rus–Horde English lexicon](https://paradigmthreat.net/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md)).
 
 #### Left / Right
 
 Political **left** and **right** in modern English are usually traced to **French Estates-General seating (1789)** — nobility on the king’s right, commons on the left. That date is **documented** and safe for handbooks.
 
-Older English **left** already meant **weak, sinister, uncanny**; **right** meant **straight, correct, lawful** — Germanic *riht-* roots the establishment prefers to cite. This timeline adds a **third** layer without denying the handbook: imperial ideology of “the **right** empire” may have **drained into moral and political print** when Horde charge was scrubbed but the words stayed. **Left** as illegitimate side and **right** as orthodox side can be **institutional metaphor** frozen long before **1789** ([Rus–Horde English lexicon](https://paradigmthreat.net/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md)).
+Older English **left** already meant **weak, sinister, uncanny**; **right** meant **straight, correct, lawful** — Germanic *riht-* roots the establishment prefers to cite. This timeline adds a **third** layer without denying the handbook: imperial ideology of “the **right** empire” may have **drained into moral and political print** when Horde charge was scrubbed but the words stayed. **Left** as illegitimate side and **right** as orthodox side can be **institutional metaphor** frozen long before **1789**.
 
 #### Righteous / Righteousness
 
-**Righteous** and **righteousness** carry **moral legitimacy** in Protestant print — the **right** way to live, the **right** standing before God and law.
-
-Handbooks derive them from Germanic *riht-* (“straight, just”). On the Horde-fracture read, the same **right** morpheme may once have named **imperial orthodoxy** — whose side was **legitimate power** — before theology **drained** the political charge and froze the virtue sense in King James-era vocabulary. You hear it every Sunday without hearing the **empire** underneath ([Rus–Horde English lexicon](https://paradigmthreat.net/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md)).
+**Righteous** carries **moral legitimacy** in Protestant print — the **right** way to live before God and law. Handbooks derive it from Germanic *riht-* (“straight, just”); this read hears drained **imperial orthodoxy** — whose side was **legitimate power** — frozen into King James-era virtue vocabulary ([Rus–Horde English lexicon](https://paradigmthreat.net/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md)).
 
 ### Class and Bondage
 
-This cluster tracks vocabulary where **class position** and **bondage** were **moralized** after empire fracture — the same semantic machinery that flipped *nescius* ignorance into **nice** civility (§East vs West Civility), but aimed **downward** instead of outward.
+**Class** and **bondage** vocabulary was **moralized** after empire fracture — same inversion machinery as **nice**, aimed downward ([slave trades & Moor etymology](https://paradigmthreat.net/governance/slavery/slave-trades-and-moor-etymology-investigation.md)).
 
-Feudal and imperial print needed **peasants** and **eastern labor** to stay **legible** as inferior — not merely poor, but **morally** defective. A **villein** was a legal category: peasant tied to the manor, subject to dues, movable with the land. Once the Horde layer was scrubbed and Atlantic slavery scaled, that class label could **invert** into **villain** — monster, scoundrel, storybook evil — without anyone admitting the dictionary had upgraded **contempt** into **character**. The phoneme barely moves; the **politics** move entirely.
-
-**Bondage** words run the parallel lane on **ethnonym**: Byzantine **sklabos** beside **slave**, Western polemic calling the **east** “slave society” while running chattel trade, **Serb** in the same ear as **servant**. Projection and inversion stack — you insult the people you exploit, then handbook etymology **separates** the insult from the history. Entries below (**Slave / Slav / Serb**, **Villain**) are the glosses; the cluster pattern is **class and captivity turned into moral vocabulary** so power never has to name itself ([slave trades & Moor etymology](https://paradigmthreat.net/governance/slavery/slave-trades-and-moor-etymology-investigation.md)).
 #### Slave / Slav / Serb
 
 Byzantine Greek **sklabos** (“Slav”) is disputed as the source of English **slave** — bondage ethnonym glued to a people whether or not the link is ultimately proven in mainstream philology. Either way it is a **classic redaction candidate**: a human group named beside **property**.
@@ -215,23 +204,19 @@ Western polemic often framed the **east** as a **slave-oriented** society while 
 
 #### Villain
 
-Medieval **villein** was a **peasant tied to the manor** — a **class** label in feudal law, not a morality play.
-
-Semantic inversion upgraded **villein** → **villain**: the same machinery that turned *nescius* ignorance into **nice** civility turned bound peasants into **moral monsters**. Class contempt became character evil; the handbook eventually forgets the **manor** and keeps only the **monster**. Track **villain** beside **nice** whenever you ask how English **flips** upward into virtue and downward into vice without changing the phoneme much.
+Medieval **villein** was a **peasant tied to the manor** — a **class** label in feudal law, not a morality play. Semantic inversion upgraded **villein** → **villain**: class contempt became character evil; the handbook forgets the **manor** and keeps only the **monster**.
 
 ### Horde Alienation
 
-Empire renamed as alien so respect could become contempt — then **sealed in mass popular media**. The pejoration did not need another schoolbook; **predictive programming** at the subtlest level would do.
+The imperial **host** you were meant to **respect and fear** was rebranded as alien steppe or fantasy enemy — then **sealed in mass popular media**.
 
 #### Tartar / Tatar
 
-Turkic **Tatar** names a real polity and people; English **Tartar** is the **slurred polemic form** — extra **r**, harsher sound, steppe alien instead of imperial neighbor.
-
-After Horde fracture, the host you were supposed to remember as **respect and fear** was **rebranded** as alien **Tartar** horde in western print — same redaction move as **Horde / Hoard** below, earlier pass, less fantasy packaging. Handbook etymology treats the spellings as **confusion**; author read treats the confusion as **policy**.
+Turkic **Tatar** names a real polity and people; English **Tartar** is the **slurred polemic form** — extra **r**, harsher sound, steppe alien instead of imperial neighbor. Handbook etymology treats the spellings as **confusion**; author read treats the confusion as **policy** (same move as **Horde / Hoard** below).
 
 #### Horde / Hoard
 
-Imperial **horde** (host, *rat’* / рать memory in Fomenko lane) phonetically buried beside **hoard** (treasure pile) — contempt and confusion in one syllable shift. Modern fantasy **re-publishes** the slur: ***Warcraft*** names the savage coalition **the Horde**; Tolkien’s ***Lord of the Rings*** already mapped the **east** as **Orc** country — the same token, earlier pass. Mass publication of games, films, and novels taught generations that **Horde = alien enemy swarm**, never the remembered **imperial host** you were meant to respect and fear. The strategy **worked** at the most subtle level: vocabulary fixed through **popular media**, not through etymology class.
+Imperial **horde** (host, *rat’* / рать memory in Fomenko lane) phonetically buried beside **hoard** (treasure pile) — contempt and confusion in one syllable shift. Modern fantasy **re-publishes** the slur: ***Warcraft*** names the savage coalition **the Horde**; Tolkien’s ***Lord of the Rings*** already mapped the **east** as **Orc** country. Mass publication taught generations that **Horde = alien enemy swarm**, not the remembered **imperial host**. Vocabulary fixed through **popular media**, not etymology class.
 
 ### Place Names
 
@@ -269,9 +254,9 @@ On that read **Maya** is not an exotic tribe label but **“my country”** in t
 
 #### Moscow / Mexico / Mosque / Mosquito
 
-**Fomenko** places **Moscow** among the imperial **Jerusalem** poles — **Jerusalem II** after Constantinople, “restoration” of the capital after Babylon captivity in Horde chronology ([*Settlement of America*](https://chronologia.org/en/nch6_2_settlement_of_amerika/index.html); [chronology hub — Kremlin as 2nd Jerusalem](https://paradigmthreat.net/history/chronology/page.md)). On corrected time the name is not a neutral Slavic town label but **the metropolitan seat** the West later had to **localize**, **burn**, and **rename** out of living memory.
+**Fomenko** places **Moscow** among the imperial **Jerusalem** poles — **Jerusalem II** after Constantinople ([*Settlement of America*](https://chronologia.org/en/nch6_2_settlement_of_amerika/index.html); [chronology hub — Kremlin as 2nd Jerusalem](https://paradigmthreat.net/history/chronology/page.md)). On corrected time the name is the **metropolitan seat** the West later **localized**, **burned**, and **renamed** out of living memory.
 
-The same author pair reads **Mexico** / **Meshiko** as a **clear redaction scar** — Russia in America **renamed** until the map forgets Moscow. In [*Conquest of America*](https://chronologia.org/en/ermak/index.html) (**§8.4**, [**§8.12**](https://chronologia.org/ermak_kortes/8_12.html)) **México** / **Meshiko** is a **light distortion** of **Mosokh–Meshekh** or **Moskva** — the label for vast **Muscovite Tartary** that once covered **Asian Siberia and much of America**, not a separate Aztec ethnonym. **Kuchum’s** “Siberian” kingdom and Spanish **Meshiko** are the **same polity**; **Motecuhzoma** ↔ **Kuchum** on their phonetic stack; reversed **Kuchsoma** → **Meshiko** → **México** → **Moscow**. **Yermak**’s capture of capital **Sibir** is the **same campaign** as **Cortés** at **Meshiko** — Romanov chronicles **relocated** the conquest east so schoolbooks never say **Russia took Mexico**.
+The same **Kuchum** / **Yermak** = **Cortés** polity named under **Maya** above appears in America as **Mexico** / **Meshiko** — a **redaction scar** until the map forgets Moscow. In [*Conquest of America*](https://chronologia.org/en/ermak/index.html) (**§8.4**, [**§8.12**](https://chronologia.org/ermak_kortes/8_12.html)) **Meshiko** is a distortion of **Moskva** / **Muscovite Tartary**; Romanov chronicles **relocated** the conquest east so schoolbooks never say **Russia took Mexico**.
 
 That makes **Mexico** the hinge in the American branch of the sequence — not etymological accident but **toponym relocation**: imperial **Moscow** printed on the **wrong continent**, then **sealed** as “pre-Columbian indigenous empire.”
 
@@ -307,23 +292,13 @@ During the **English Reformation**, reputations were made by **resisting** the n
 
 #### Boycott
 
-**Boycott** is the **control case** for the whole eponym lane — the word the handbook is **happy** to explain because nothing in the story threatens the redaction wall.
-
-In **1880**, during the **Irish Land War**, Capt. **Charles Boycott** was an **estate agent** in County Mayo who enforced evictions on behalf of absentee landlords. Local organizers did not assassinate him; they **isolated** him — shops refused service, laborers refused harvest, the community **ostracized** the man until his name became the **verb** for organized economic shunning. Newspapers picked it up within weeks; by **1881** *boycott* was in English periodicals as a **new word** with a **named face** still attached.
-
-That documented chain matters for **Guy**, **Patsey**, and **Bacon** above. When person-to-word conversion happens **in the open**, modern linguistics can cite **dates**, **newspapers**, and **biography** without embarrassment. When conversion threatens **imperial memory** — solidarity after a failed revolution, a slavery scapegoat, a vilified Bible redactor — the trail goes **fuzzy**: effigy folklore, disputed Irish diminutives, separate homonym pork. **Boycott** proves English **can** carry a person in the verb; it does not prove every similar word **lacks** one. It proves the establishment **chooses** which names stay visible ([eponym dossier §2b](https://paradigmthreat.net/history/chronology/investigations/eponym-words-forgotten-people-investigation.md)).
+**Boycott** is the **control case** for the eponym lane — **documented** where the redaction wall has nothing to hide. In **1880**, Capt. **Charles Boycott** was **ostracized** during the Irish Land War until his name became the **verb** for economic shunning; newspapers had *boycott* by **1881** with the **face** still attached. When conversion threatens **imperial memory** (**Guy**, **Patsey**, **Bacon**), the trail goes **fuzzy** instead — which proves the establishment **chooses** which names stay visible ([eponym dossier §2b](https://paradigmthreat.net/history/chronology/investigations/eponym-words-forgotten-people-investigation.md)).
 
 #### Lynch
 
-**Lynch** and **lynch law** name a darker eponym lane: **extrajudicial punishment** — judgment without trial, violence administered by a crowd or local committee instead of imperial procedure. Unlike abstract legal Latin, the word **sounds like a surname** because it may **be** one: English often turns a man’s name into the name of what he **did**.
+**Lynch** and **lynch law** fuse **surname** to **extrajudicial punishment** — **Lynch’s law**, as if one bearer **owned** the procedure the way **Boycott** later owned ostracism. Handbooks cite **William Lynch**, **Charles Lynch**, or **Judge Lynch** with **weak** chains; Lane B asks why the folk formula persists **without** the clean newspaper trail **Boycott** got.
 
-The folk association is explicit in the phrase **lynch law** itself — not “mob law” or “summary law” but **Lynch’s law**, as if one bearer (or one family line) **owned** the procedure the way **Boycott** later owned ostracism. Handbooks offer **several** candidates and rate every chain **weak**: **William Lynch** of Virginia (**1740s**), credited in apocryphal “Lynch’s Law” tracts with authorizing frontier whipping courts; **Charles Lynch** (1736–1796), a Virginia magistrate who held irregular tribunals during the Revolution; and the anonymous personification **“Judge Lynch”** — a stock figure in nineteenth-century print, a **named judge** who is not a judge at all. Mainstream linguistics treats these as **just-so stories** invented after the verb already existed. Lane B asks the inverse: what if the stories persist **because** the name was never allowed the clean newspaper trail **Boycott** got?
-
-The **potential eponym read** is strong on function, not only on dated proof. When a community **hangs**, **whips**, or **kills** without crown or statute, someone **local** often becomes the face of that habit — the planter, magistrate, or committee head whose surname survivors attach to the act. **To lynch** then means **to do what Lynch did** — same conversion pattern as **to boycott**, but with **lethal** charge and **enormous** reason for later print to **blur** the bearer. By the **nineteenth century** American papers used *lynch* and *lynching* for **mob justice**; by the **twentieth** the verb named **racial terror** at scale. The surname did not stay on the masthead; the **act absorbed the name** until **Lynch** reads as verb-first and person-second — exactly how redacted eponyms are supposed to end up.
-
-That parallel tracks the Passion cluster’s courtroom vocabulary (**Jew**, **judge**, **Judas**) from the opposite direction: **inside** formal Roman procedure versus **outside** it. **Lynch** is punishment **without** the imperial court — yet still minted in **named** English, as if extrajudicial violence also needed a **person** in the word before the handbook could flatten him to “origin unknown.”
-
-On this timeline **Lynch** stays an **open row** until a dated attestation chain or refutation lands — but the **author-plausible** case is not thin: the name **behaves** like an eponym, the folk formula **Lynch law** preserves the link, and modern celebrity surnames (**David Lynch**, etc.) add an ambiguous whitewash lane (see [eponym dossier §2c](https://paradigmthreat.net/history/chronology/investigations/eponym-words-forgotten-people-investigation.md)). Whether the bearer was **William**, **Charles**, or a composite **Judge Lynch**, the act and the name may have been **fused on purpose** — punishment culture minted a verb, then let the bearer dissolve into handbook uncertainty once the verb was too charged to keep a face attached.
+**To lynch** then means **to do what Lynch did** — same conversion pattern, **lethal** charge, enormous reason for print to **blur** the bearer until **Lynch** reads verb-first. That tracks the Passion cluster from the **outside** — punishment **without** imperial court, yet still minted in **named** English. **Open** row: dated attestation or refutation; see [eponym dossier §2b–§2c](https://paradigmthreat.net/history/chronology/investigations/eponym-words-forgotten-people-investigation.md).
 
 ### Memory and Misquote
 
@@ -347,12 +322,6 @@ Speculative Lane B links **cryptid** survivors of Horde **extirpation** campaign
 
 ---
 
-## Dictionary of Pins
-
-English today is a **dictionary of pins** — meanings set by a small influential minority long before mass literacy, sealed by handbook etymology, and cut off from Horde-era memory at the redaction wall. That should not have been possible. It happened anyway.
-
----
-
 ## Where Next
 
 - [Lexical redaction hub](https://paradigmthreat.net/history/chronology/investigations/lexical-redaction-hub-investigation.md) — master cross-ref
@@ -372,15 +341,15 @@ English today is a **dictionary of pins** — meanings set by a small influentia
 
 **Prisca sapientia** applies; modern historical linguistics is **contrast**, not default truth. Handbook etymology (OED, Etymonline) is quoted in dossiers as the **establishment closure layer** — disproving a speculative phonetic link does not erase the **redaction-wall** thesis.
 
-**Fomenko / NC** supply Horde chronology and eastern source reads; **Protestant mistranslation meta-thesis** and **Latin breakaway + informational passageways** are **author** layers — see [two branches: Fomenko vs author](https://paradigmthreat.net/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md). Where cited in this essay: **Troy = Yoros = Jerusalem** ([*Forgotten Jerusalem*](https://chronologia.org/en/forgotten_jerusalem/index.html), [§02](https://chronologia.org/en/how_it_was/02.html)); **Maya-Rica** / **Kuchum** ≈ **Kiche Maya**; **Meshiko** = **Moskva**; **Yermak** = **Cortés** ([§8.4](https://chronologia.org/ermak_kortes/8_04.html)); French Estates-General **1789** left/right seating; Boycott eponym **1880**; Byzantine Greek *sklabos* debate for *slave*; Latin *nescius* → *nice* sense history in handbooks. Nicaea 877, *nice* mnemonic, Jew generative moment, Moor/Boor split, and eponym oscillation remain **open** investigations with per-file falsifiers.
-
-**Author thesis** covers global word reset, telepathy/visions as vocabulary channels, off-world preference for no-emperor order, French/German language wars, Shakespeare/Bacon as eastern-derived closure, **Francis Bacon** vilification and **Kevin Bacon** whitewash read (**AU-029**), **England** as possible **Horde imperial name** with post-MFEE **British Empire vacuum** read, redacted **black King George** print memory, **Mar-** vocabulary as **Mars control** lexicon (war not human nature), and every word gloss above without tier upgrade unless linked dossier says otherwise.
+**Fomenko / NC** supply Horde chronology and eastern source reads; **Protestant mistranslation**, **Latin breakaway**, and **informational passageways** are **author** layers — see [two branches: Fomenko vs author](https://paradigmthreat.net/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md). Per-word **open** rows and falsifiers live in linked dossiers.
 
 ---
 
 Keywords: #LexicalRedaction #HiddenHistory #Latin #Nicaea #RusHorde #Etymology #WordRedaction #Mars #Martyr #French #English #ParadigmThreatFiles
 
-**Last updated:** 2026-06-27 (glossary expanded; **trump** cheat/pejoration + **1492**; **canon/cannon/trump/trumpet**; **Words Named After Mars**).
+**Substack:** [paradigmthreat2.substack.com/p/the-hidden-history-of-words](https://paradigmthreat2.substack.com/p/the-hidden-history-of-words)
+
+**Last updated:** 2026-06-26 (dedup pass; Substack link).
 
 ---
 
