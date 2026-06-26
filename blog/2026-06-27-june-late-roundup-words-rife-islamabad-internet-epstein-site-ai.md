@@ -129,15 +129,34 @@ The site repo shipped the largest **reader-facing infra** window since the md2as
 
 ---
 
+## Censorship — platform blocks on Instagram and Substack (June 2026)
+
+During the same window as the **Gage / AE911Truth** dossier expansion and public **9/11 controlled-opposition** thread debate, **two owner-side failures** landed without written explanation:
+
+**Instagram** — **new image posts** fail on **every account** tested, **PC and phone**, with a generic *Something went wrong. Please try again.* modal. Text-only behavior was not fully re-tested in this log; the documented break is the **image upload** path.
+
+**Substack** — opening **own post URLs** on **paradigmthreat2** (including **edit**) returns **Page not found**, while **Latest** still **lists** titles (*The Hidden History of Words*, *Royal Rife*, etc.). Losing the editor is minor; the worry is **phantom listing** — feed rows that **look published** while the article may **not resolve for anyone**. Same **404** on the author’s click path is the signal; third-party URL checks are **not yet logged** in the dossier.
+
+**Author read (L3, not proved):** timing rhymes with arguing against a **9/11 controlled-opposition** interlocutor in-thread — the safe demolition lane, thermite theater, **no-planes bypass** as intentional fracture. Platforms gave **no contestable reason**; same opacity grammar as the [GitHub ban record](https://paradigmthreat.net/influence/censorship/github-ban). **Mitigation:** **paradigmthreat.net** as canonical; verify Substack delivery from a **logged-out** browser before treating the newsletter as live.
+
+Full screenshot archive and limits: [Platform blocks — Instagram and Substack (June 2026)](https://paradigmthreat.net/influence/censorship/platform-blocks-instagram-substack-2026-06).
+
+![Instagram — image post blocked, generic error modal (June 2026)](https://paradigmthreat.net/influence/censorship/instagram-image-upload-blocked-2026-06.png)
+
+![Substack — Page not found on own posts while Latest still lists titles (June 2026)](https://paradigmthreat.net/influence/censorship/substack-edit-page-not-found-2026-06.png)
+
+---
+
 ## Publication notes
 
 - Six Substack flagships since June 10; all mapped to on-site mirrors with hero art synced.
 - **Investigation-only** this window: Epstein cluster (four dossiers), Moor meme cluster (three dossiers + sweep plan), Gage Substack post mirrors investigation not a separate reader essay.
 - **Site AI** is live behind browser-capability detection — see site repo for WebMCP env flags and setup flow.
+- **Instagram / Substack blocks** documented — see [Censorship](#censorship--platform-blocks-on-instagram-and-substack-june-2026) above and [platform-blocks dossier](https://paradigmthreat.net/influence/censorship/platform-blocks-instagram-substack-2026-06).
 - `index.json` / changelog regenerated on commit.
 
 ---
 
-*Topics:* [#history](https://paradigmthreat.net/search/history) · [#science](https://paradigmthreat.net/search/science) · [#health](https://paradigmthreat.net/search/health) · [#computing](https://paradigmthreat.net/search/computing) · [#governance](https://paradigmthreat.net/search/governance) · [#war](https://paradigmthreat.net/search/war) · [#hollywood](https://paradigmthreat.net/search/hollywood) · [#controlled_opposition](https://paradigmthreat.net/search/controlled_opposition) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming) · [#false_flag](https://paradigmthreat.net/search/false_flag) · [#suppression](https://paradigmthreat.net/search/suppression) · [#slavery](https://paradigmthreat.net/search/slavery)
+*Topics:* [#history](https://paradigmthreat.net/search/history) · [#science](https://paradigmthreat.net/search/science) · [#health](https://paradigmthreat.net/search/health) · [#computing](https://paradigmthreat.net/search/computing) · [#governance](https://paradigmthreat.net/search/governance) · [#war](https://paradigmthreat.net/search/war) · [#hollywood](https://paradigmthreat.net/search/hollywood) · [#controlled_opposition](https://paradigmthreat.net/search/controlled_opposition) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming) · [#false_flag](https://paradigmthreat.net/search/false_flag) · [#suppression](https://paradigmthreat.net/search/suppression) · [#slavery](https://paradigmthreat.net/search/slavery) · [#censorship](https://paradigmthreat.net/search/censorship)
 
-**Last updated:** 2026-06-27T12:00:00-04:00
+**Last updated:** 2026-06-27T19:30:00-04:00
