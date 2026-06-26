@@ -190,6 +190,8 @@ Keywords: #Franklin #PalatineMoors #PalatineBoors #Observations1751 #BenjaminFra
 
 **Last updated:** 2026-05-16
 
+**Lexical cluster:** [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — **Boors / Moors** label split (**Lane A**).
+
 ---
 
 ## Limits and disclaimers

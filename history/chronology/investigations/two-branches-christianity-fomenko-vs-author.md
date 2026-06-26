@@ -28,6 +28,8 @@ The [Revolution Despite Christ's Martyrdom](https://paradigmthreat.net/timeline/
 - Timeline chapter intro: [12th c. Birth of Christianity](https://paradigmthreat.net/timeline/evt-1100-ce-12th-century-ce-birth-of-christianity)
 - [Brother on the Cross](https://paradigmthreat.net/timeline/evt-the-brother-on-the-cross)
 - [Giants, Infantry, Guerrilla, Children's Crusade](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) — military lexicon vs giant-line narrative; [appendix](https://paradigmthreat.net/timeline/evt-giants-infantry-guerrilla-childrens-crusade-etymology)
+- [Nicaea / *nice* — Western civility mnemonic](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) — **author-unique AU-026**; Nicene myth as **nice West vs barbaric East** pedagogy ([877 Nicaea timeline](https://paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated))
+- [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — **master cross-ref** for word-redaction dossiers (**AU-027**)
 
 When editing timeline articles, **cite Fomenko only for Fomenko's branch definitions**; **prefix author-only claims** (Atlantis ritual function, Deep State resurfacing, relabeled "royal") as timeline thesis or point readers here.
 

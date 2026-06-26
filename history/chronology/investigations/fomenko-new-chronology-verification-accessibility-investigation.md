@@ -219,7 +219,22 @@ Optional toy “peak spacing” (difference between successive local maxima, tru
 
 **Validation meaning:** we **cannot** auto-build `year → volume` from these three PDFs without **OCR + layout parsing** (Russian harder than English). The **1990 paper PDF** is the only immediate corpus for grep-level checks.
 
-### 8.4 TODOs (next numbers that would actually bite NC claims)
+### 8.4 Paschal calendar / “Council of Nicaea” — documented NC claim (not yet recomputed here)
+
+**Timeline placement:** [877 CE — Paschal calendar / Council of Nicaea redated](https://paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated) (Ch.05, 11th-century reset).
+
+| Item | Source | Status |
+|------|--------|--------|
+| Primary argument | Fomenko & Nosovskiy, *How It Was In Reality*, [Ch.7 §34](https://chronologia.org/en/how_it_was/07_34.html) | **Mirrored** at `~/dev/wget/chronologia.org/en/how_it_was/07_34.html` |
+| Supplement | *Seven Wonders of the World* / [6v3] Ch.2 (Nosovskiy) | Cited on chronologia; not separately mirrored in `fomenko-nc-sources/` |
+| Key bounds (NC) | Council fixing Paschal **not before 784**; paschal/astronomical full-moon match **c. 700–1000**; optimum **877**; canonization attributed to “Nicaea” **11th–14th c.** | **Stated** in §34; **independent Gauss/Computus re-run not done in-repo** |
+| Conventional foil | National Geographic–style **325** Nicene council (creed + Easter) | **Historiography only** — not treated as falsifying NC without recomputation |
+
+**Verification TODO:** Re-implement Nosovskiy’s paschal–Passover non-coincidence check and full-moon concurrence window with published Gauss Easter algorithm; compare to claimed **784 / 877** bounds. Distinct from **Empire of Nicaea (1204)** — same place-name, different event layer.
+
+**Author layer (not NC):** [Nicaea / *nice* — Western civility mnemonic](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) — **AU-026** in [author-unique registry](/history/chronology/investigations/author-unique-theories.md); **prior art: none** for nice-people moral rebranding bundle.
+
+### 8.5 TODOs (next numbers that would actually bite NC claims)
 
 1. **OCR pipeline** for `psrl_tom1_lavrentevskaya-letopis_1926_ia.pdf` (and optional Livy/Gregorovius) → plain text → **regex / ML annalistic year heads** → CSV `year,volume`.
 2. **Recompute NAS + Weibull + \(r\)** for at least **P1** window on that CSV; compare to published **\(a\), \(r\)** (allow tolerance; edition may differ from theirs).

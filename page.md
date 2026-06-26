@@ -111,6 +111,10 @@ or *not* believing.
 #### History
 
 * [Prisca sapientia (timeline)](https://paradigmthreat.net/timeline/evt-prisca-sapientia) — Epistemic foundation: ancient wisdom degraded, not superseded; [reference doc](/docs/PRISCA_SAPIENTIA.md).
+* [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — **Master cross-ref** for word redaction: Protestant mistranslation, *nice* / *left-right* / *righteous*, eponyms (Patsey, Moran, Bacon); **AU-027**.
+* [Eponym words — forgotten people](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) — Lane B: person → word → actor/brand oscillation.
+* [Author-unique theories — registry](/history/chronology/investigations/author-unique-theories.md) — Hub of author-only claims with no close prior art; **AU-026** Nicaea/*nice* moral rebranding.
+* [Nicaea / *nice* — Western civility mnemonic](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) — Paschal council myth → nice West vs barbaric East; *nescius*→*nice* semantic inversion.
 * [Apotheosis of Washington — Benjamin tribe, America](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md) — Brumidi fresco anchor; 1492 Benjamin embed; Franklin; Reverse Crusades II–IV; Rus-Horde memory war.
 * [The Lost Tribe of Benjamin — fresco, Franklin, monotheism’s war](/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md) — Reader essay; Fomenko corroboration vs author spine; Moors text fork; manifesto close.
 * [Artemis II](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) — Faith test vs science milestone; staged-production readings; press patterns.

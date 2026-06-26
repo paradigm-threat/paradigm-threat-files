@@ -23,6 +23,7 @@ This is **not** asserted as proven. It is a **research question** about layered 
 
 | Material | What it supplies |
 |----------|------------------|
+| [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) | **“New”** toponyms as **Lane A** naming redaction |
 | [history/chronology/page.md](/history/chronology/page.md) (Americas / 1492 section) | “Discovery” of America by “Columbus” framed as **Western European elite flight** ahead of the **1492** complex; America **already** known and colonized by indigenous polities and Rus-Horde reach; flotillas, riches, slaves — **not** first contact. |
 | Same file | [Columbus / Jewish flight narrative](https://www.israel365news.com/85655/christopher-columbus-jew-led-belief-prophet-isaiah/#HoTDGkY8h4Edbcja.97), [origin theories of Columbus](https://en.wikipedia.org/wiki/Origin_theories_of_Christopher_Columbus), Fomenko [Noah–Columbus / Book of Mormon reading](https://chronologia.org/en/how_it_was/05_15.html#the19). |
 | [Promised land investigation](/history/mudflood/investigations/promised-land-investigation.md) | **1492 CE** as echo-exodus under Columbus narrative; **MFEE decimates America** and forces **new** promised lands; Russia/Ottoman/Europe pressure around **1492** documented in that file’s research notes. |

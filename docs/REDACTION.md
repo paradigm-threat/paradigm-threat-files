@@ -44,6 +44,10 @@ Redaction can be **subtractive**, **additive**, **substitutive**, or **inversive
 
 **Suppression** often **uses** redaction (R1, R3, R5, R6) as its **textual** limb; they are **not** synonyms.
 
+### Lexical redaction (parallel lane)
+
+**Lexical redaction** — mistranslation, pejoration, mnemonic pun, **eponym burial**, handbook **closure** on words — is **not** an R-code. It runs **parallel** to R1–R6 on **chronicles** and **composes** with them (e.g. R3 narrative substitution + Protestant **translation** of an ethnonym). Hub: [lexical redaction investigations](/history/chronology/investigations/lexical-redaction-hub-investigation.md).
+
 ---
 
 ## Evidence tags

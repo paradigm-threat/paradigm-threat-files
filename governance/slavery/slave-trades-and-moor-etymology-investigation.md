@@ -5,6 +5,8 @@
 **Date:** 2026-03-07  
 **Focus:** African slave trade, white (European) slave history, Moor involvement in slavery, and the etymology of "Moor"—including the hypothesis that "Moorish" was perceived as "People of Death" (Latin *mor*) due to slave-trading.
 
+**Lexical cluster:** [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — **Lane A** (label / translation politics).
+
 ![Slave trades and Moor etymology](slave-trades-and-moor-etymology-investigation.png)
 
 ---

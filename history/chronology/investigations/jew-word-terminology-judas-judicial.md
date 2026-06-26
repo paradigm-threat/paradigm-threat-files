@@ -51,6 +51,7 @@ Handbooks say *iudex* and *Iudaeus* do not share a root. The thesis here is **ev
 
 - Timeline: crucifixion in Istanbul / Latin–Greek Christianity split — [Two Branches: Fomenko vs Author](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md).
 - Narrative of revenge and who is blamed after the cross — Christianity cluster on site.
+- **Lexical redaction cluster:** [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) (**Lane A**); [Nicaea / *nice* mnemonic](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) (**AU-026**); [eponym words](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) (**Lane B**); [author-unique registry](/history/chronology/investigations/author-unique-theories.md).
 
 ---
 

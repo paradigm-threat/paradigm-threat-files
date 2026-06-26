@@ -120,6 +120,7 @@ This distinction is already drawn in the paradigm-threat timeline and files:
 
 - Martyr etymology: [Etymonline](https://www.etymonline.com/word/martyr), [Wiktionary](https://en.wiktionary.org/wiki/martyr), [Wikipedia: Martyr](https://en.wikipedia.org/wiki/Martyr), [Strong's Greek 3144 μάρτυς](https://biblehub.com/strongs/greek/3144.htm).
 - Timeline: [Revolution Despite Christ's Martyrdom](https://paradigmthreat.net/timeline/evt-revolution-despite-martyrdom); [Two Branches (paradigm-threat-files)](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md); Fomenko [chronologia two branches](https://chronologia.org/en/how_it_was/02_06.html).
+- [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — **Lane A** (*martyr* / *martys* witness narrowing).
 
 ---
 

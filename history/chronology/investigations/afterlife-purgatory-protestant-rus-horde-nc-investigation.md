@@ -284,6 +284,7 @@ See **§5.2** — **`09.html`**: **first strike on Christianity** + **splinter r
 - [Prester John, Presbyter, Rus–Horde](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md) — ***Ship of Fools*** **cultural** **hook**; **Western** **ridicule** **climate**.  
 - [Soul science](/history/chronology/investigations/soul-science-investigation.md) — **Reformation** and **soul** → **mind** **shift**; **Russian** **dusha** **containment** thesis.  
 - [Rus-Horde English lexicon](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) — **Protestant print** and **polemical** **memory**.  
+- [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — **master table**; Protestant **translation** of afterlife vocabulary.
 - [Gnosis vs agnosticism after planet gods](/history/chronology/investigations/gnostic-vs-agnostic-theism-atheism-after-planet-gods.md) — **post-stabilization** **faith** without **operative** **sky**.  
 - [Slave trades / Moor / Horde fracture](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) — **imperial breakup** **violence**.  
 - [WWII fascism religious apparatus](/governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md) — **later** **state–religion** **patterns**.

@@ -11,12 +11,14 @@ This note records a research thread: after large-scale chronology shift and impe
 
 | Topic | Link |
 |--------|------|
+| **Lexical redaction hub (master table)** | [/history/chronology/investigations/lexical-redaction-hub-investigation.md](/history/chronology/investigations/lexical-redaction-hub-investigation.md) |
 | Rus-Horde empire (timeline) | [evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e](https://paradigmthreat.net/timeline/evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e) |
 | Giants / shock warfare | [evt-the-giants-of-the-rus-horde](https://paradigmthreat.net/timeline/evt-the-giants-of-the-rus-horde), [Giants defeated at Kulikovo](https://paradigmthreat.net/timeline/evt-giants-are-defeated-at-the-battle-of) |
 | Arthur / Jupiter replacement motif | [evt-jupiter-replaces-saturn-as-the-new-saviour](https://paradigmthreat.net/timeline/evt-jupiter-replaces-saturn-as-the-new-saviour) |
 | Fomenko vs author labels | [/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md) |
+| [Jew word — Judas / judicial](/history/chronology/investigations/jew-word-terminology-judas-judicial.md) | **Passion-trial** mnemonic cluster |
+| [Nicaea / *nice* mnemonic](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) | **Council-brand** mnemonic cluster (**AU-026**) |
 | Parallel lexical investigation (military English) | [/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) |
-| Latin–vernacular naming pressure | [/history/chronology/investigations/jew-word-terminology-judas-judicial.md](/history/chronology/investigations/jew-word-terminology-judas-judicial.md) |
 | Colonization / naming memory | [/history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md](/history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md) |
 | Reverse-crusade framing (war narrative) | [/governance/war/investigations/reverse-crusades-comparison.md](/governance/war/investigations/reverse-crusades-comparison.md) |
 | Chronology overview (Fomenko, Rus-Horde) | [/history/chronology/page.md](/history/chronology/page.md) |
@@ -158,6 +160,67 @@ Candidates to track with the same **two-column** method (handbook first, specula
 | *Rat*, *mouse* | Speculative **pejoration / word bias** (§6) | OE rodent words; thesis: Protestant mass print + anti-imperial polemic fixed **contempt** senses over **respect / fear** registers |
 
 Add rows as sources appear.
+
+---
+
+## 12. Lane A — priority candidates (2026-06-26 expansion)
+
+Same **two-column** method. Status = **open** until corpus work in §Open questions.
+
+### East / West civility (pairs with [Nicaea / *nice*](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md))
+
+| Word / phrase | Why suggested | Handbook direction (summary) | Status |
+|---------------|---------------|------------------------------|--------|
+| **barbarian** / **barbaric** | Post-Nicene **moral geography** — “we” civilized vs “they” | Greek *barbaros* “foreign speech” | **Open** |
+| **schism**, **heretic**, **papist**, **orthodox** | Reformation **freezes** sides after Istanbul continuity breaks | Church Latin / Greek technical terms | **Open** |
+| **Tartar** / **Tatar** | Horde renamed as **alien steppe** | Turkic *Tatar*; English slur history | **Open** |
+| **Mogul** / **mughal** | Imperial glory vs “tycoon” caricature | Persian **mughal** “Mongol” | **Open** |
+
+### Military / Kulikovo (pairs with [giants / infantry](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md))
+
+| Word / phrase | Why suggested | Handbook direction (summary) | Status |
+|---------------|---------------|------------------------------|--------|
+| **cannon** / **canon** | Homophone era of **giant-line** defeat + church **canon** | **Cannon** ← Italian *cannone*; **canon** ← Greek *kanōn* “rule” | **Open** — mnemonic pun |
+| **host** (army) / **Host** (Eucharist) | Military **host** vs liturgical **host** | Latin *hostis* “enemy” vs *hostia* “victim” | **Open** |
+| **crusade** | “Holy war” label on **revenge** campaign | *Crusade* ← “cross” | **Open** — timeline [First Crusade](/timeline/evt-the-first-crusade-trojan-war) |
+
+### Class / slavery labels (Moor + [Europe whitewash](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md))
+
+| Word / phrase | Why suggested | Handbook direction (summary) | Status |
+|---------------|---------------|------------------------------|--------|
+| **slave** / **Slav** | Disputed ethnonym ↔ bondage link | *Slave* ← Byzantine Greek *sklabos* “Slav” (disputed) | **Open** |
+| **serf** | Outdoor mass vs indoor **bloodline** | Latin *servus* “slave” | **Open** |
+| **villain** | **villein** peasant → moral monster | *Villain* ← feudal **villein** | **Open** — semantic inversion like *nice* |
+| **swarthy**, **tawny** | Complexion politics | OE / Romance color words | **Open** — Franklin §21–§24 |
+
+### Already in §1–§10 (consolidated pointer)
+
+| Word / phrase | Section |
+|---------------|---------|
+| *press* / **Prester** / **prestol** | §7 |
+| *horde* / **hoard** | §8 |
+| *pro* / *con* vs Protestant / Khan | §1 |
+| *left* / *right*, *righteous* | §2–§3 |
+| *rush* / **Rus** | §4, §10 |
+| *Paris* – *Prussia* – *Russia* | §9 |
+
+### Homophone-install pairs (mnemonic — not cognates)
+
+| Pair | Notes | Status |
+|------|-------|--------|
+| **mass** (liturgy) / **mass** (crowd, massacre) | Post-print sacramental vocabulary | **Open** |
+| **canon** / **cannon** | See military table | **Open** |
+| **grace** / **disgrace** | Moral vocabulary stack | **Open** |
+| **temple** / **temporal** | Sacred vs worldly power | **Open** |
+
+### Crypt / myth capture (pairs with [skinwalkers](/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md))
+
+| Word / phrase | Why suggested | Status |
+|---------------|---------------|--------|
+| **cryptic** / **cryptid** | Survivors made **linguistically hidden** | **Open** |
+| **ogre**, **troll**, **giant** | Stature lines → folklore | **Open** — [myth fauna](/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md) |
+
+**Hub:** [Lexical redaction hub §3](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — add rows there when a candidate graduates to active dossier.
 
 ---
 

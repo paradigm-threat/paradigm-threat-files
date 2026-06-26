@@ -232,6 +232,7 @@ Use this table when reading European sources, meme books, or Fomenko side by sid
 
 | Thread | File |
 |--------|------|
+| **Lexical redaction hub** | [/history/chronology/investigations/lexical-redaction-hub-investigation.md](/history/chronology/investigations/lexical-redaction-hub-investigation.md) |
 | Chronology hub | [/history/chronology/page.md](/history/chronology/page.md) |
 | First / Second / Third History, redaction | [/history/chronology/history-qa/page.md](/history/chronology/history-qa/page.md) |
 | Fomenko vs author Christianity | [/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md) |
@@ -245,6 +246,8 @@ Use this table when reading European sources, meme books, or Fomenko side by sid
 | Cherokee Moors meme + Delaware Lenape “Moor” law | [/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) |
 | American Revolution / 1775 fracture | [/governance/war/investigations/american-revolution-investigation.md](/governance/war/investigations/american-revolution-investigation.md) |
 | Giants / Horde military lexicon | [/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) |
+| Nicaea / *nice* — Western civility mnemonic (**AU-026**) | [/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) |
+| Author-unique theories registry | [/history/chronology/investigations/author-unique-theories.md](/history/chronology/investigations/author-unique-theories.md) |
 | Prester John / Christian East | [/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md) |
 | WotW / Mars catastrophe fiction | [/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md](/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md) |
 | New World naming / 1492 vs MFEE | [/history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md](/history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md) |
