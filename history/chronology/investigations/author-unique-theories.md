@@ -3,7 +3,7 @@
 > **TL;DR:** Central index of **Paradigm Threat / author** claims that are **not** standard Fomenko, Illig, Velikovsky, etc., and for which **no close prior-art match** has been found in mainstream or NC literature after repo search. Each entry links to its **canonical dossier** or timeline event. **Prior art: none** means **no external author stating the same package** — adjacent ideas may exist; see per-file Limits.
 
 **Status:** Living registry (add rows when a new author-unique thread ships).  
-**Last updated:** 2026-06-26  
+**Last updated:** 2026-06-26 (AU-005 *righteous* extension)  
 **Lexical redaction cross-ref hub:** [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — master table for all **word-redaction** dossiers (**AU-027** meta-thesis).
 
 ---
@@ -33,7 +33,7 @@ Per-investigation **§ Author open claims** blocks remain the **detail** registr
 | **AU-002** | **Infantry** ← young **giant** Horde foot; **guerrilla** as post-cannon **irregular** survival (historical, not phonetic); **Children’s Crusade** = young giant wave | **partial** (*infante* youth sense documented; giant link author) | [Giants, infantry, guerrilla](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) |
 | **AU-003** | **Moor / Boor / German** = **forced split** of one imperial stratum; disconnect enables **autochthon** myth → **Nazism** counterfactual stack (qualified) | **partial** (nationalism literature; not “forced split” paper) | [Europe whitewash §2c](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) |
 | **AU-004** | **Indoor bloodline minority** “white” = shelter/class, not pigment; Europe + Americas **same exodus/replacement** sequence | **author synthesis** | Same dossier §2–§2b |
-| **AU-005** | **Rus–Horde** echoes in English **pro/con**, **left/right**, **righteousness**, **rush** (speculative lexicon track) | **partial** | [Rus-Horde English lexicon](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) |
+| **AU-005** | **Rus–Horde** echoes in English **pro/con**, **left/right**, **righteousness**, **rush** (speculative lexicon track); **extension:** *right* = justified authority; *righteous* = drained memory of Rus–Horde on the planet’s “right” side (open) | **partial** | [Rus-Horde English lexicon](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md); [Hidden History of Words](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md) |
 
 ## Cosmology & science
 

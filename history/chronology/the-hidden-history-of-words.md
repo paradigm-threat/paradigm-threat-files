@@ -188,11 +188,13 @@ Latin **martialis** ← **Mars**; **March** the month of **Mars** in Roman war-c
 
 Political **left** and **right** in modern English are usually traced to **French Estates-General seating (1789)** — nobility on the king’s right, commons on the left. That date is **documented** and safe for handbooks.
 
-Older English **left** already meant **weak, sinister, uncanny**; **right** meant **straight, correct, lawful** — Germanic *riht-* roots the establishment prefers to cite. This timeline adds a **third** layer without denying the handbook: imperial ideology of “the **right** empire” may have **drained into moral and political print** when Horde charge was scrubbed but the words stayed. **Left** as illegitimate side and **right** as orthodox side can be **institutional metaphor** frozen long before **1789**.
+Older English **left** already meant **weak, sinister, uncanny**; **right** meant **straight, correct, lawful** — Germanic *riht-* roots the establishment prefers to cite. This timeline adds a **third** layer without denying the handbook: on corrected time **right** is not only “correct” but **justified authority** — whose side held **legitimate power** before the fracture. Imperial ideology of “the **right** empire” may have **drained into moral and political print** when Horde charge was scrubbed but the words stayed. **Left** as illegitimate side and **right** as orthodox side can be **institutional metaphor** frozen long before **1789**.
 
 #### Righteous / Righteousness
 
-**Righteous** carries **moral legitimacy** in Protestant print — the **right** way to live before God and law. Handbooks derive it from Germanic *riht-* (“straight, just”); this read hears drained **imperial orthodoxy** — whose side was **legitimate power** — frozen into King James-era virtue vocabulary ([Rus–Horde English lexicon](https://paradigmthreat.net/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md)).
+**Righteous** carries **moral legitimacy** in Protestant print — the **right** way to live before God and law. Handbooks derive it from Germanic *riht-* (“straight, just”); this read hears drained **imperial orthodoxy** frozen into King James-era virtue vocabulary ([Rus–Horde English lexicon](https://paradigmthreat.net/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md)).
+
+**Author extension (open):** **Righteous** may still encode **Rus–Horde authority on the “right” side of the planet** — geographic and political **rectitude** of the imperial host before Western redaction. After Protestant mass print, only the **inner-morality** shell survived: *righteousness* as private virtue, not **whose empire was right**. Slavic ***prav-*** (*правда*, *правый*) is a **different** root family from Germanic *riht-*; the link is **ideological parallel and contact**, not certified cognates. **Open** row: dated pamphlets pairing **righteous** with **eastern orthodoxy** or **Muscovy** charge vs post-fracture moral manuals.
 
 ### Class and Bondage
 
@@ -324,8 +326,26 @@ Speculative Lane B links **cryptid** survivors of Horde **extirpation** campaign
 
 ---
 
+## Reader Witness — Memory Across Communities
+
+This essay is not only philology. Many families — Jewish, Christian, Romani, and others — carry **living memory** of **recent imperial greatness**: shared law, shared faith before fracture, a polity that feels **closer than the textbook** allows. The author grew up **Jewish**; at **thirteen** he had **bar mitzvah** at the **Western Wall**. That rite is not “wandering tribe” memory alone — for many it is memory of **participation in a powerful kingdom**. His father was born in **Morocco**; in that line he hears **conqueror** residue, not eternal exile. On this read those testimonies sit beside the **lexical wound**: the same centuries that **erased Rus–Horde** from world print also **pushed** cross-community greatness memory into myth, family lore, and **words that no longer point home**.
+
+**Limits:** personal witness is **not** etymological proof; it motivates the search and flags **who still remembers** when dictionaries close.
+
+---
+
+## Memory, Hope, and Return
+
+If memory survives this stubbornly in **dictionaries** and **families**, the author holds that **common greatness may have been real** — and may return. That is **not** a scientific claim.
+
+**Quote hygiene (corrected while drafting the Chronologia forum post):** the hope-through-memory line the author cites is from **Boorman’s *Excalibur* (1981)** — *And because it will not be forgotten, that fair time may come again.* The **Lerner & Loewe *Camelot*** musical and **1967** film use a **different** refrain — *Don't let it be forgot* — memory through young **Tom**, not the same screenplay beat. **T.H. White**, *The Once and Future King*, carries **return** prophecy (“once and future king”) but **not** that exact film line. **T.S. Eliot** is **not** part of this chain. See [Chronologia forum reply — hope note](the-hidden-history-of-words-chronologia-forum-reply.md).
+
+---
+
 ## Where Next
 
+- [Chronologia forum reply draft (RU)](the-hidden-history-of-words-chronologia-forum-reply.md) — Linguistics post for forum.chronologia.org (`f=6`)
+- [Chronologia forum BBCode paste file](the-hidden-history-of-words-chronologia-forum-reply.bbcode) — ready-to-post body
 - [Lexical redaction hub](https://paradigmthreat.net/history/chronology/investigations/lexical-redaction-hub-investigation.md) — master cross-ref
 - [Nicaea / *nice* — moral rebranding](https://paradigmthreat.net/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md)
 - [Jew word — Judas / judicial](https://paradigmthreat.net/history/chronology/investigations/jew-word-terminology-judas-judicial.md)
@@ -351,7 +371,7 @@ Keywords: #LexicalRedaction #HiddenHistory #Latin #Nicaea #RusHorde #Etymology #
 
 **Substack:** [paradigmthreat2.substack.com/p/the-hidden-history-of-words](https://paradigmthreat2.substack.com/p/the-hidden-history-of-words)
 
-**Last updated:** 2026-06-26 (dedup pass; Substack link; **Tartar** in barbarian cluster).
+**Last updated:** 2026-06-26 (forum sync: **righteous** Rus–Horde read; reader witness; **Excalibur** / *Camelot* quote hygiene; Chronologia BBCode link).
 
 ---
 

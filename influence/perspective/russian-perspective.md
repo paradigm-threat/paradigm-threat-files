@@ -241,7 +241,19 @@ Thanks for your patience.
 
 ---
 
-*Investigation compiled for paradigm-threat-files. **Evidence:** `forum.chronologia.org`, March–April 2026. **§1 and §5 (your thesis paragraph)** are author-reported and are not claims about Russia as a whole. Update as new forum evidence arrives.*
+## 12. Linguistics outreach — *Hidden History of Words* (draft, June 2026)
+
+**Target:** [Лингвистика](https://forum.chronologia.org/viewforum.php?f=6) (`f=6`) — better fit than Dictionary (`f=5`) for lexical-redaction thesis.
+
+**Repo drafts:** [the-hidden-history-of-words-chronologia-forum-reply.md](/history/chronology/the-hidden-history-of-words-chronologia-forum-reply.md); paste-ready [BBCode](/history/chronology/the-hidden-history-of-words-chronologia-forum-reply.bbcode).
+
+**Framing choices (forum-local):** respectful to Fomenko/Nosovsky; **omit** Mars/*Mar-*, telepathy passageways, Moscow–Mexico pun field — same **legitimacy split** as §5–§6 (chronology + linguistics tokens, not cosmology bundle). **Include:** war→household word table, reader witness (Jewish/Morocco memory), expanded ***right* / *righteous*** read, **Надежда** + **Excalibur** close (omit Camelot/White/Eliot digression).
+
+**Adjacent threads:** t=1033 (Орда pejoration); t=995/t=370 (Russian↔English); optional one-line pointer on t=2156 after Linguistics topic is live.
+
+---
+
+*Investigation compiled for paradigm-threat-files. **Evidence:** `forum.chronologia.org`, March–April 2026. **§1 and §5 (your thesis paragraph)** are author-reported and are not claims about Russia as a whole. **§12** added 2026-06-26 (Linguistics post draft). Update as new forum evidence arrives.*
 
 ---
 

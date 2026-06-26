@@ -53,7 +53,9 @@ This note records a research thread: after large-scale chronology shift and impe
 
 **Speculative variant (user prompt):** After the **Russian Empire’s** (or broader Orthodox-imperial) self-image as **the true / right** polity, later generations “forgot” the political charge and kept only moral *righteousness*.
 
-**Assessment:** Slavic ***prav-*** (cf. Russian *правда*, *правый*) is a **different** root family from Germanic *riht-*. So this is **not** a shared etymon in the philological sense. It remains a **valid cultural question**: did imperial **ideology of rectitude** reinforce the **moral** coloring of *right* in English discourse? That would require **contact and borrowing** or **parallel development** shown in texts, not asserted from similarity of ideas alone.
+**Author extension (2026-06-26 — forum draft sync):** On corrected time **right** = **justified authority** (whose side was legitimate), not only “correct.” **Righteous** may **literally** still encode **Rus–Horde authority on the “right” side of the planet** — geographic/political **rectitude** of the imperial host before Western fracture. Protestant mass print then **drained** the charge into **private morality** (*righteousness* as virtue, not **whose empire was right**). Estates-General **1789** seating is a **late** political layer on older **left/right** pejoration. Canonical essay: [Hidden History of Words — Righteous](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md); Chronologia outreach: [forum reply draft](../the-hidden-history-of-words-chronologia-forum-reply.md).
+
+**Assessment:** Slavic ***prav-*** (cf. Russian *правда*, *правый*) is a **different** root family from Germanic *riht-*. So this is **not** a shared etymon in the philological sense. It remains a **valid cultural question**: did imperial **ideology of rectitude** reinforce the **moral** coloring of *right* in English discourse? That would require **contact and borrowing** or **parallel development** shown in texts, not asserted from similarity of ideas alone. The **planet-side “right empire”** read is **open** — needs dated English print pairing *righteous* with eastern-orthodoxy or Muscovy polemic, not geography alone.
 
 ---
 
@@ -240,8 +242,11 @@ Same **two-column** method. Status = **open** until corpus work in §Open questi
 3. Any **early modern English** pun corpus linking *contra* to **khan** or **Tartar**.
 4. Whether **Orthodox / imperial** *prav-* vocabulary influenced **English** through **Greek or Latin** mediation in theological print (requires specialist bibliography).
 5. **Corpus check:** early modern **Protestant / anti-Muscovy** pamphlets, newsbooks, and catechistic material for systematic ***rat* / *mouse*** slurs or **rodent** tropes aimed at **Horde / Russian / “Tartar”** actors (dates, printers, geography).
+6. **Righteous / planet-side read:** King James and Protestant moral manuals — does *righteous* retain **eastern-imperial** charge before **1789** political *left/right* freeze? See [forum reply draft](../the-hidden-history-of-words-chronologia-forum-reply.md).
 
 ---
+
+*Last updated: 2026-06-26 (§3 author extension: *right* = justified authority; *righteous* Rus–Horde “right side” read; forum sync).*
 
 ## Relation to Fomenko vs author vocabulary
 

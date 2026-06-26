@@ -58,7 +58,8 @@
 | **Reader essay — Hidden History of Words** | meta | [the-hidden-history-of-words.md](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md) | **AU-028** Latin breakaway; **AU-029** whitewash; full glossary (Mars **Mar-**, Troy/Yoros, Maya, Moscow/Mexico, trump/trumpet, eponyms) |
 | **Nicaea → *nice*** — Western civility vs barbaric East; *nescius* inversion | A | [nicaea-nice-western-civility-mnemonic-investigation.md](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) | **AU-026**; links [877 Nicaea timeline](https://paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated) |
 | **Jew** / *Ioudaios* — Passion-only generative moment; *judge* / *Jew* trial fusion | A | [jew-word-terminology-judas-judicial.md](/history/chronology/investigations/jew-word-terminology-judas-judicial.md) | **AU-001** |
-| ***Pro/con*, *left/right*, *righteous*, *rush*, *rat/mouse* pejoration** | A | [rus-horde-english-political-lexicon-speculation.md](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) | **AU-005**; Protestant **mass print** §6 |
+| ***Pro/con*, *left/right*, *righteous*, *rush*, *rat/mouse* pejoration** | A | [rus-horde-english-political-lexicon-speculation.md](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) | **AU-005**; *right* = justified authority; *righteous* = Rus–Horde “right side” memory (open); Protestant **mass print** §6 |
+| **Chronologia forum outreach (RU)** — Linguistics `f=6` opening post | meta | [forum reply draft](../the-hidden-history-of-words-chronologia-forum-reply.md); [BBCode](../the-hidden-history-of-words-chronologia-forum-reply.bbcode) | Table clusters + reader witness; omits Mars/telepathy per NC forum culture |
 | **Infantry / guerrilla / Children’s Crusade** — giant foot lines | A (+ event) | [giants-infantry-guerrilla-etymology-investigation.md](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) | **AU-002** |
 | **Moor / Boor / German forced split** — label politics | A | [europe-white-bloodline-complexion-whitewash-investigation.md](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) §2c | **AU-003** |
 | **Moor** etymology — Maghrebi, *mor*, slave-trade lanes | A | [slave-trades-and-moor-etymology-investigation.md](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) | Three Moor lanes ↔ [Cherokee](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) |
@@ -134,6 +135,7 @@ Fomenko **does not** own the **Protestant mistranslation meta-thesis** — see [
 ## Related
 
 - [The Hidden History of Words — reader essay](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md)
+- [Chronologia forum reply (RU) + BBCode](../the-hidden-history-of-words-chronologia-forum-reply.md)
 - [Fomenko NC verification](/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.md)
 - [Illig–Fomenko boundary](/history/chronology/investigations/illig-fomenko-boundary.md)
 - [Chronology investigations index](/history/chronology/investigations/index-investigations.md)
@@ -142,6 +144,6 @@ Fomenko **does not** own the **Protestant mistranslation meta-thesis** — see [
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-*Last updated: 2026-06-27 (reader essay glossary; Troy/Maya/Moscow/Mars/trump rows).*
+*Last updated: 2026-06-26 (Chronologia forum outreach row; *righteous* Rus–Horde extension in AU-005 lane).*
 
 Keywords: #LexicalRedaction #WordRedaction #Protestant #RusHorde #Eponym #Etymology #Mnemonic #HandbookClosure #EasternPhilology

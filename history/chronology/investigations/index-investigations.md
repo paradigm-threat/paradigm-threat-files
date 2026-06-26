@@ -4,7 +4,7 @@ Investigations in this folder address chronology-related claims, creation dates,
 
 | Investigation | Topic |
 |---------------|-------|
-| [**The Hidden History of Words**](/history/chronology/the-hidden-history-of-words.md) | **Reader essay:** lexical reset, Latin breakaway (**AU-028**), Horde redaction wall, curated word glossary; links hub |
+| [**The Hidden History of Words**](/history/chronology/the-hidden-history-of-words.md) | **Reader essay:** lexical reset, Latin breakaway (**AU-028**), Horde redaction wall, curated word glossary; links hub; [Chronologia forum reply (RU)](../the-hidden-history-of-words-chronologia-forum-reply.md) + [BBCode](../the-hidden-history-of-words-chronologia-forum-reply.bbcode) |
 | [**Lexical redaction hub**](/history/chronology/investigations/lexical-redaction-hub-investigation.md) | **Master cross-ref** — Protestant mistranslation + forgotten **eponyms**; *nice*, *left/right*, *righteous*; handbook closure; **AU-027** |
 | [Eponym words — forgotten people (open)](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) | **Lane B:** Patsey, Moran, Bacon — person → word → actor/brand oscillation |
 | [**Author-unique theories — registry**](/history/chronology/investigations/author-unique-theories.md) | Hub index of **author-only** claims with **no close prior art**; **AU-026** Nicaea/*nice* moral rebranding |
