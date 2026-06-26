@@ -34,6 +34,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: Would Netanyahu Want a Faked Death Here? — Motive, Timeline, and Iran Narrative](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md)
 - [Investigation: Ariel Sharon — Timeline, Gaza Disengagement, Coma Secrecy, and “Controlled Opposition” Threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md)
 - [Investigation: Richard Gage, AE911Truth, and the Controlled-Demolition Thesis (9/11)](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md)
+- [Investigation: ic911a.org / 9/11 Revisionist — Accountability Branding, DEW Hangout, and Movement Fracture](/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md)
 - [Investigation: Epstein Blackmail Network — 9/11 Cross-Links, Agency Alignment, and Compromise Hypothesis](/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md)
 - [Investigation: Epstein Death — Escape Thesis, Suspended Animation, and Bloodline Endgame](/events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md)
 - [Investigation: Epstein Island Archipelago — Blackmail Geography, Pitcairn, and the NSA Secrecy Pillar](/events/false_flag/investigations/epstein-island-archipelago-blackmail-investigation.md)

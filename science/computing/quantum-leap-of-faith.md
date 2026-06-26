@@ -75,6 +75,7 @@ We gave industry something close to total faith and almost no audit—the way Be
 - [Google Don't Be Evil enclosure investigation](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) — Play/App temple grammar on pocket computers.
 - [Consensus theater and the stalled physics pipeline](/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md) — fundamental-physics deferral parallel to qubit waiting-room grammar.  
 - [Mars hub](/cosmos/mars/page.md) — for readers threading breakaway tech with the Mars-versus-Earth hypothesis in the quantum storage dossier.
+- [The Mars Dagger — What Leaks When Buried Knowledge Surfaces](/cosmos/mars/mars-dagger.md) — Smith crystal-memory thesis extended: keeper cult, leak, Carthage containment; dossier [here](/cosmos/mars/investigations/mars-dagger-investigation.md).
 
 ## Framing and limits
 

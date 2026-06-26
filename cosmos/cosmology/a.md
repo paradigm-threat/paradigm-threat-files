@@ -6,6 +6,7 @@ Note: This investigation is a work in progress. Check back soon for more updates
 
 ### New related files
 
+- [Cosmology Q&A](/cosmos/cosmology/qa/page.md) — Big Melt / Bang / eternal universe / solar-system lifecycle; Einstein math; **public reply templates** (agent: [`docs/LLM_COSMOLOGY_QA.md`](/docs/LLM_COSMOLOGY_QA.md)).
 - [The Incorrectly Scaled Universe](/cosmos/cosmology/the-incorrectly-scaled-universe.md) - Reader-facing thesis on curved-light aether scaling.
 - [Investigation: The Incorrectly Scaled Universe](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md) - Technical dossier, open claims, contradiction audit, and TODO map.
 

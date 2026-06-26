@@ -93,6 +93,7 @@ This distinction is already drawn in the paradigm-threat timeline and files:
 - **[First Crusade and the Trojan War](https://paradigmthreat.net/timeline/evt-the-first-crusade-trojan-war)** — Crusader revenge against circumcision party and Istanbul temple apparatus.
 - **[The Brother on the Cross](https://paradigmthreat.net/timeline/evt-the-brother-on-the-cross)** — Crucifixion narrative and identity of the victim.
 - **[Reverse Crusades](/governance/war/investigations/reverse-crusades-comparison.md)** — Structural comparison of pan-European coalitions vs. Russia; different layer from the First Crusade / Revenge Crusade but same vocabulary of "crusade."
+- **[The Hidden History of Words — *Mar-* cluster / martyr](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md)** — Reader essay: *martyr* among Mars-control vocabulary; witness narrowing vs war-planet lexicon (**open**).
 
 ---
 

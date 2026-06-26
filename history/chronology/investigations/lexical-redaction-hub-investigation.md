@@ -55,20 +55,26 @@
 
 | Thread | Lane | File | Notes |
 |--------|------|------|-------|
+| **Reader essay — Hidden History of Words** | meta | [the-hidden-history-of-words.md](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md) | **AU-028** Latin breakaway; **AU-029** whitewash; full glossary (Mars **Mar-**, Troy/Yoros, Maya, Moscow/Mexico, trump/trumpet, eponyms) |
 | **Nicaea → *nice*** — Western civility vs barbaric East; *nescius* inversion | A | [nicaea-nice-western-civility-mnemonic-investigation.md](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) | **AU-026**; links [877 Nicaea timeline](https://paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated) |
 | **Jew** / *Ioudaios* — Passion-only generative moment; *judge* / *Jew* trial fusion | A | [jew-word-terminology-judas-judicial.md](/history/chronology/investigations/jew-word-terminology-judas-judicial.md) | **AU-001** |
 | ***Pro/con*, *left/right*, *righteous*, *rush*, *rat/mouse* pejoration** | A | [rus-horde-english-political-lexicon-speculation.md](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) | **AU-005**; Protestant **mass print** §6 |
 | **Infantry / guerrilla / Children’s Crusade** — giant foot lines | A (+ event) | [giants-infantry-guerrilla-etymology-investigation.md](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) | **AU-002** |
 | **Moor / Boor / German forced split** — label politics | A | [europe-white-bloodline-complexion-whitewash-investigation.md](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) §2c | **AU-003** |
 | **Moor** etymology — Maghrebi, *mor*, slave-trade lanes | A | [slave-trades-and-moor-etymology-investigation.md](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) | Three Moor lanes ↔ [Cherokee](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) |
-| **Martyr** — strict definition vs historian blur; Passion template | A (+ war) | [martyr-word-history-investigation.md](/governance/war/investigations/martyr-word-history-investigation.md) | **AU-016** |
+| **Martyr** / Mars / murder overlap | A (+ war) | [martyr-word-history-investigation.md](https://paradigmthreat.net/governance/war/investigations/martyr-word-history-investigation.md) | **AU-016** |
+| **Mar-** cluster (Mars) — martial, marriage, merger, martyr, maritime | A (+ author) | [Hidden History of Words — Mars](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md); [Mars hub](https://paradigmthreat.net/cosmos/mars/page.md); Fomenko [§02 Troy war](https://chronologia.org/en/how_it_was/02.html); [Egypt zodiac Mars §4.4.7](https://chronologia.org/en/new_chronology_of_egypt/index.html) | **Open** — author + NC war compress |
 | **New World** naming — *Mundus Novus* vs post-MFEE “new” | A | [new-world-naming-mfee-and-colonization-memory.md](/history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md) | Colonization **memory** |
+| **Troy / Yoros / Jerusalem** — Fomenko holy-city recycle; **Eros** fortress; Beykoz = Golgotha | A (+ NC) | [Hidden History of Words](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md); [Forgotten Jerusalem](https://chronologia.org/en/forgotten_jerusalem/index.html); [How It Was §02](https://chronologia.org/en/how_it_was/02.html); [troy_1st_jerusalem.md](https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.md) | **Fomenko / NC** — open |
+| **Maya** — Fomenko **Maya-Rica** / **Kuchum** ≈ **Kiche Maya**; “my state” toponym; Yermak–Cortés America | A (+ NC) | [Hidden History of Words — Maya](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md); [Fomenko *How It Was* §6.15](https://chronologia.org/en/how_it_was/06_15.html); [Q4 Maya collapse](https://paradigmthreat.net/history/common-questions#q4-why-did-the-maya-civilization-collapse-why-was-it-advanced-why-does-the-mainstream-record-say-they-collapsed-over-1000-years-ago) | **Fomenko / NC** — open |
+| **Moscow / Mexico / mosque / mosquito** — Jerusalem II; Fomenko **Meshiko** = **Moskva**; Columbus **mosque** diary; redaction + pejoration chain | A (+ NC) | [Hidden History of Words](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md); [Fomenko *Conquest of America* §8.4, §8.12](https://chronologia.org/ermak_kortes/8_04.html); [Rus–Horde lexicon §6](https://paradigmthreat.net/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) | **Open** — Fomenko toponym + author pejoration |
+| **Canon / cannon / trump / trumpet** — siege tech; Jericho; **1500s** *trump* = cheat; **1492** Apocalypse + artillery | A (+ event) | [Hidden History of Words](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md); [Apocalypse Crusade 1492](https://paradigmthreat.net/timeline/evt-the-apocalypse-crusade-reverse-exodus) | **Open** — author; mountebank etymology = closure |
 | **Franklin** *Boors* vs *Moors* — misquote forensics | A | [franklin-palatine-boors-moors-screenshot-investigation.md](/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md) | Palatine / Moor **split** |
 | **Protestant** rejection of **purgatory / Bardo** maps | A (theology) | [afterlife-purgatory-protestant-rus-horde-nc-investigation.md](/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.md) | Translation of **afterlife** vocabulary |
 | **Cryptid → cryptic** survivorship | A? | [skinwalkers-cryptids-rus-horde-extirpation-investigation.md](/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md) | **Speculative** phonetic lane |
-| **Patsey / Moran / Bacon** (+ §2b Guy, Lynch, Judas, …) — person → word → rebrand loop | B | [eponym-words-forgotten-people-investigation.md](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) | **Open** — §2b expanded 2026-06-26 |
-| **Lane A candidate backlog** (*barbarian*, *Tartar*, *canon/cannon*, *slave/Slav*, …) | A | [rus-horde-english-political-lexicon-speculation.md](/history/chronology/investigations/rus-horde-english-political-lexicon-specification.md) §12 | Consolidated **2026-06-26** |
-| **Author-unique registry** | meta | [author-unique-theories.md](/history/chronology/investigations/author-unique-theories.md) | **AU-001–027** |
+| **Patsey / Moran / Bacon** (+ §2b Guy, Lynch, Judas, …; **§2c toxic-name whitewash**) — person → word → rebrand loop | B | [eponym-words-forgotten-people-investigation.md](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) | **Open** — §2c **AU-029** Bacon flagship 2026-06-27 |
+| **Lane A candidate backlog** (*barbarian*, *Tartar*, *canon/cannon/trump/trumpet*, *slave/Slav*, …) | A | [rus-horde-english-political-lexicon-speculation.md](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) §12 | Consolidated **2026-06-26** |
+| **Author-unique registry** | meta | [author-unique-theories.md](/history/chronology/investigations/author-unique-theories.md) | **AU-001–029** |
 
 *When you add a row here, link **back** from the child dossier’s **Related** section to this hub.*
 
@@ -120,13 +126,14 @@ Fomenko **does not** own the **Protestant mistranslation meta-thesis** — see [
 | 2 | COHA / EEBO sense shifts for *nice*, *right*, *left* vs NC dates? | Nicaea / political lexicon |
 | 3 | **Patsey / Moran / Bacon** — earliest attestations vs event candidates? | [Eponym dossier §2b](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) |
 | 4 | Russian **NC** literature on **English eponym burial**? | chronologia.org search |
-| 5 | **barbarian**, **Tartar**, **canon/cannon**, **slave/Slav** — pamphlet + sense-shift corpus? | [Rus–Horde lexicon §12](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) |
+| 5 | **barbarian**, **Tartar**, **canon/cannon/trump/trumpet**, **slave/Slav**, **Maya**, **Moscow/Mexico** — pamphlet + sense-shift corpus? | [Rus–Horde lexicon §12](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md); [Hidden History of Words](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md) |
 | 6 | **Guy**, **Lynch**, **Judas** — person→noun vs documented eponyms (**Boycott** control)? | Eponym §2b |
 
 ---
 
 ## Related
 
+- [The Hidden History of Words — reader essay](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md)
 - [Fomenko NC verification](/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.md)
 - [Illig–Fomenko boundary](/history/chronology/investigations/illig-fomenko-boundary.md)
 - [Chronology investigations index](/history/chronology/investigations/index-investigations.md)
@@ -135,6 +142,6 @@ Fomenko **does not** own the **Protestant mistranslation meta-thesis** — see [
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-*Last updated: 2026-06-26.*
+*Last updated: 2026-06-27 (reader essay glossary; Troy/Maya/Moscow/Mars/trump rows).*
 
 Keywords: #LexicalRedaction #WordRedaction #Protestant #RusHorde #Eponym #Etymology #Mnemonic #HandbookClosure #EasternPhilology

@@ -6,6 +6,8 @@
 
 **Investigation LLM sweep** (scheduled or post-update quality review; **plan files only**, no autonomous edits) — **[`docs/INVESTIGATION_LLM_SWEEP.md`](INVESTIGATION_LLM_SWEEP.md)**.
 
+**Cosmology Q&A / social replies** (Big Melt, Bang, eternal universe, Einstein extrapolation, public comment templates) — **[`docs/LLM_COSMOLOGY_QA.md`](LLM_COSMOLOGY_QA.md)** → hub **[`cosmos/cosmology/qa/page.md`](../cosmos/cosmology/qa/page.md)**.
+
 **Epistemic foundation (all investigations and articles):** **[`docs/PRISCA_SAPIENTIA.md`](PRISCA_SAPIENTIA.md)** — **prisca sapientia**: the ancients possessed vast understanding of universe, nature, and theology; later science and institutions degraded or captured it. **Required:** every `*investigation*.md` opens **Limits and disclaimers** with the standard **Prisca sapientia** paragraph (below); articles include it in **`## Framing and limits`** (or link once there).
 
 **Redaction vocabulary (investigations using narrative rewrite / omission / shell narratives):** **[`docs/REDACTION.md`](REDACTION.md)** — six composable operations **R1–R6** (subtractive through shell/misdirection); **Fomenko / Biblical class** = **R4** (inversive); tag **documented** vs **inferred**. When a dossier discusses “redaction,” “flattening,” “memoir rewrite,” or “respectable shell” press, link **REDACTION.md** once in **Guide** or a dedicated **§0.x** applied table (see [Royal Rife §0.1](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md)).

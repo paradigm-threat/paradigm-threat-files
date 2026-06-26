@@ -41,6 +41,8 @@ NASA, instead, imagines the Universe was created in a "Big Bang", and attempts t
 Don't be fooled; Theories of a Big Bang/Bounce/Crunch/Rip were inspired by Creationist Catholicism and _disguised_ as
 Modern Sciences.
 
+**Social / thread replies (Big Melt, Padmanabhan, copy-paste templates, mainstream-only citations):** [Cosmology Q&A — Q1](/cosmos/cosmology/qa/q01-big-melt-eternal-universe-solar-cycle.md). **Agent routing:** [LLM Cosmology Q&A](/docs/LLM_COSMOLOGY_QA.md).
+
 ![Fake Sun Chart](../../../cosmos/cosmology/astronomy/fake_sun_chart.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 ### Q: How is the age of a Sun/Star determined?

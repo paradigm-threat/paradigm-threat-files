@@ -157,6 +157,7 @@ Compressed from **2025–2026** **Substack** / **@911revision** **thread** behav
 - **“DM me / stay tuned”** **disruptors** who **never** **deliver** **primary** **sources**—**energy** **sink** accounts.
 - **Page-war** **ecosystems** (**Wood** FAQs vs **Gage** FAQs) functioning as **unpaid gatekeepers**—**thermite** **vs** **DEW** **forever**.
 - **2021** **vaccine/COVID** **split** as **respectable-lane** **self-purge**—org **ejects** **founder** for **off-mission** speech while **claiming** **open** **inquiry** (cross-read [§1 governance table](#incorporation-board-selection-and-timeline-of-governance-tension-toward-2021), [§5 censorship](#5-censorship-deplatforming-and-similar-people)).
+- **@911revision / ic911a.org** — **DEW-forward** **Substack** + **“Accountability”** **donate** **splash**; **full** **CO** **dossier** [ic911a / 9/11 Revisionist](./ic911a-911revision-controlled-opposition-investigation.md).
 
 ### 4.6 Conclusion state (epistemic routing)
 
@@ -274,6 +275,7 @@ Sources: [Wikipedia — Original World Trade Center (1973–2001)](https://en.wi
 - [CIA Investigation — WTC 7](/governance/war/investigations/cia-investigation.md)
 - [False Flags — 20th–21st Century Catalog](20th-21st-century-catalog.md)
 - [Events / 911 hub](/events/911/page.md)
+- [ic911a.org / 9/11 Revisionist — DEW hangout CO dossier](./ic911a-911revision-controlled-opposition-investigation.md)
 
 ---
 

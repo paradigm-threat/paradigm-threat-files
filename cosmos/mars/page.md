@@ -389,6 +389,8 @@ Satan (i.e. Saturn), Lucifer, Beelzebub, and Belial,
 YHWH, Adonai, Elohim, Jehovah, Shaddai, Ehyeh,
 Ba'al, Elah, El Roi, Elyon, HaShem or just 'God'.
 
+**Related reading:** [The Mars Dagger — What Leaks When Buried Knowledge Surfaces](/cosmos/mars/mars-dagger.md) — keeper-cult fracture, Joseph Smith as **organic leak** of buried pre-cataclysmic knowledge (not Martian recruitment), and **containment** at Carthage 1844. Technical dossier: [mars-dagger investigation](/cosmos/mars/investigations/mars-dagger-investigation.md). The Smith family's inscribed **Mars dagger** (Barrett-line sigils, Adonai on blade) is **operator hardware** from a fractured planetary cult line — distinct from breakaway Mars **reacting** to seal a scaling leak.
+
 
 ![### The Gotthard Base Tunnel [Opening Ceremony](https://www.bbc.com/news/in-pictures-36428799) in Switzerland:
 

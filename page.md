@@ -59,6 +59,7 @@ or *not* believing.
 
 #### Cosmos
 
+* [Cosmology Q&A](/cosmos/cosmology/qa/page.md) — Big Melt / Bang / eternal universe / solar-system lifecycle; Einstein on math & cosmic extrapolation; **public reply templates** for social threads.
 * [Hollow Earth](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md) — Sources, maps, books, and Atlantis framing.
 * [Tham Luang Cave Rescue (2018)](/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md) — Cover-up threads and alternate rescue narratives.
 * [Flat Earth](/cosmos/flat_earth/flat-earth-investigation.md) — History, myth, and misinterpretation of the flat-Earth idea.
@@ -68,6 +69,7 @@ or *not* believing.
 * [Anthony of Boston — Mars 360](/cosmos/mars/investigations/anthony-of-boston-mars360-investigation.md) — *Ares Le Mandat*, Mars–markets/Gaza thesis, Academia/Zenodo corpus; cross-links stock-market dossier.
 * [*Ares Le Mandat* — Mars influence & Israel–Gaza audit](/cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation.md) — Book hub, rocket windows vs public lists, Zenodo **410** tombstones; **Internet Archive** full PDF.
 * [Mars–Earth Reincarnation](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) — Mass death on Mars and souls reborn on Earth.
+* [The Mars Dagger — What Leaks When Buried Knowledge Surfaces](/cosmos/mars/mars-dagger.md) — Reader essay: keeper-cult fracture, Smith leak-not-recruitment, Carthage containment; dossier [mars-dagger investigation](/cosmos/mars/investigations/mars-dagger-investigation.md).
 * [Pluto](/cosmos/pluto/investigations/pluto-origin-visibility-investigation.md) — Visibility, naming, and “lost to hell” cosmology read.
 * [Venus](/cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation.md) — From Saturnian cosmology to the Venera program.
 
@@ -112,8 +114,9 @@ or *not* believing.
 
 * [Prisca sapientia (timeline)](https://paradigmthreat.net/timeline/evt-prisca-sapientia) — Epistemic foundation: ancient wisdom degraded, not superseded; [reference doc](/docs/PRISCA_SAPIENTIA.md).
 * [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — **Master cross-ref** for word redaction: Protestant mistranslation, *nice* / *left-right* / *righteous*, eponyms (Patsey, Moran, Bacon); **AU-027**.
+* [The Hidden History of Words](/history/chronology/the-hidden-history-of-words.md) — Reader essay: lexical reset, Latin breakaway, Horde redaction wall, curated word glossary; **AU-028**.
 * [Eponym words — forgotten people](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) — Lane B: person → word → actor/brand oscillation.
-* [Author-unique theories — registry](/history/chronology/investigations/author-unique-theories.md) — Hub of author-only claims with no close prior art; **AU-026** Nicaea/*nice* moral rebranding.
+* [Author-unique theories — registry](/history/chronology/investigations/author-unique-theories.md) — Hub of author-only claims with no close prior art; **AU-026** Nicaea/*nice*; **AU-028** Latin breakaway.
 * [Nicaea / *nice* — Western civility mnemonic](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) — Paschal council myth → nice West vs barbaric East; *nescius*→*nice* semantic inversion.
 * [Apotheosis of Washington — Benjamin tribe, America](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md) — Brumidi fresco anchor; 1492 Benjamin embed; Franklin; Reverse Crusades II–IV; Rus-Horde memory war.
 * [The Lost Tribe of Benjamin — fresco, Franklin, monotheism’s war](/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md) — Reader essay; Fomenko corroboration vs author spine; Moors text fork; manifesto close.
@@ -391,6 +394,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 
 ### Reader-facing articles
 
+* [The Hidden History of Words](/history/chronology/the-hidden-history-of-words.md) — Lexical reset thesis, Latin breakaway + informational passageways, curated word glossary (nice, Jew, Moor, Horde, eponyms); links [lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md).
 * [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — Scalar / æther continuity, first life and womb, Bardo and afterlife phenomenology, reincarnation bands; links [DNA / scalar dossier](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md).
 * [The Cure for Cancer](/science/biology/the-cure-for-cancer.md) — Hope, celebrity silence, terrain vs incurability marketing; links [GNM / cancer paradigm cluster](/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md).
 * [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) — Faith-vs-audit in consumer tech, vector and analog roads not taken, Jobs/commons read; links [infinitely indexed storage investigation](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md).

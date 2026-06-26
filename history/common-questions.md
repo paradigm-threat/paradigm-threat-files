@@ -25,6 +25,10 @@ WORKFLOW:
   6. CITE — Use only material found in this project. If no project source
      covers a claim, note the gap rather than inventing an answer.
 
+COSMOLOGY DEBATES (Big Melt, Bang, eternal universe, social replies):
+  → cosmos/cosmology/qa/page.md and docs/LLM_COSMOLOGY_QA.md (mainstream URLs
+  for public copy; in-repo links for corpus edits).
+
 QUESTION REGISTRY (to prevent duplicates):
   - Q1: Does modern chronology rest on independent science or on Scaliger?
   - Q2: Can physical dating methods be trusted independently of written records?

@@ -149,6 +149,8 @@ Arnold has **River of the Dead** (one-way, carries corpses to falls) and **ice v
 - [arnold-gullivar-jones-reference.md](arnold-gullivar-jones-reference.md) — Arnold reference
 - [wotw-telepathic-purge.md](wotw-telepathic-purge.md) — telepathic purge motif
 - [mars-earth-reincarnation-investigation.md](mars-earth-reincarnation-investigation.md) — Mars–Earth reincarnation; mass death on Mars, souls reborn on Earth, time-period correlation (open)
+- [mars-dagger.md](../mars-dagger.md) — **Reader essay:** keeper cults, Latin gate, Smith leak, Carthage containment
+- [mars-dagger-investigation.md](mars-dagger-investigation.md) — Smith family Mars dagger; artifact photos; transmission §3.5; containment §3.7; guardians §7.0; Carthage §XI
 - [Barsoom README](../burroughs_barsoom/README.md) — Barsoom index overview
 
 ---

@@ -91,7 +91,7 @@ This note records a research thread: after large-scale chronology shift and impe
 
 **Assessment:** Treat as **open sociolinguistic hypothesis** until **dated** chains show (1) deliberate *rat* / *mouse* slurs aimed at **Muscovy / Horde / steppe** armies in **Protestant** or **Western imperial** print, and (2) measurable shift in **dominant** connotations vs. earlier English or continental usage. **Do not** collapse this into **§5**: ***рать*** is still **not** English *rat* in philology; the bias thesis is about **propaganda, pejoration, and memory replacement**, not a single **etymon**.
 
-**Mnemonic overlaps (still weak as etymology):** *Mouse* ↔ **Moscow**, *mosque* ↔ **Moscow** — **consonant** play only; *mosque* from Arabic ***masjid***. Keep as **speculative pun field**, not cognates.
+**Mnemonic overlaps (still weak as etymology):** *Mouse* ↔ **Moscow**, *Mexico* / *Meshiko* ↔ **Moscow** (Fomenko [**§8.4**](https://chronologia.org/ermak_kortes/8_04.html), [**§8.12**](https://chronologia.org/ermak_kortes/8_12.html)), *mosque* ↔ **Moscow**, *mosquito* / *mosquita* ↔ **mosque** — **consonant** play only; handbook *mosque* from Arabic ***masjid***; *mosquito* from Spanish ***mosca*** + **-ito**; *México* from Nahuatl ***Mēxihco*** in mainstream. **Author lane:** **Columbus** diary (**1492**) — **mosque** on Cuban hill; chain **Moscow → Mexico → mosque/mosquita → mosquito** — **Russia in America** redacted via **Meshiko** relocation; see [Hidden History of Words — Moscow / Mexico / Mosque / Mosquito](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md). Keep as **speculative pun field**, not cognates.
 
 ---
 
@@ -157,7 +157,7 @@ Candidates to track with the same **two-column** method (handbook first, specula
 | *Steppe*, *Hetman*, *Cossack*, *Ukraine* (“borderland”) | Geography / military | Mixed Turkic, Slavic, Polish contexts |
 | *Vampire* | 18th-c. Habsburg reports | Much debated; often South Slavic folklore via Western press |
 | *Mammoth* | Siberian recovery | Russian *mamont* from Ob-Ugric |
-| *Rat*, *mouse* | Speculative **pejoration / word bias** (§6) | OE rodent words; thesis: Protestant mass print + anti-imperial polemic fixed **contempt** senses over **respect / fear** registers |
+| *Rat*, *mouse*, *mosquito*, *Mexico* | Speculative **pejoration / word bias** (§6) | OE rodent words; *mosquito* ← Sp. *mosquita*; Fomenko **Meshiko** = **Moskva**; chain **Moscow → Mexico → mosque → mosquito** |
 
 Add rows as sources appear.
 
@@ -180,9 +180,18 @@ Same **two-column** method. Status = **open** until corpus work in §Open questi
 
 | Word / phrase | Why suggested | Handbook direction (summary) | Status |
 |---------------|---------------|------------------------------|--------|
-| **cannon** / **canon** | Homophone era of **giant-line** defeat + church **canon** | **Cannon** ← Italian *cannone*; **canon** ← Greek *kanōn* “rule” | **Open** — mnemonic pun |
+| **cannon** / **canon** / **trump** / **trumpet** | Homophone era + **Jericho** siege; **1500s** *trump* = cheat; **1492** cannon + fanfare injustice | **Cannon** ← Italian *cannone*; **canon** ← Greek *kanōn*; **trumpet** ← OF *trompe*; *trump* “cheat” ← mountebank (handbook) | **Open** — [Hidden History of Words](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md) |
 | **host** (army) / **Host** (Eucharist) | Military **host** vs liturgical **host** | Latin *hostis* “enemy” vs *hostia* “victim” | **Open** |
 | **crusade** | “Holy war” label on **revenge** campaign | *Crusade* ← “cross” | **Open** — timeline [First Crusade](/timeline/evt-the-first-crusade-trojan-war) |
+
+### Place names / Fomenko toponyms (reader essay 2026-06-27)
+
+| Word / phrase | Why suggested | Handbook direction (summary) | Status |
+|---------------|---------------|------------------------------|--------|
+| **Troy** / **Yoros** / **Jerusalem** | Fomenko **one holy city** Bosphorus; recycled labels | Separate ancient sites | **Open** — [Forgotten Jerusalem](https://chronologia.org/en/forgotten_jerusalem/index.html); [troy_1st_jerusalem.md](https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.md) |
+| **Maya** / **Maya-Rica** | Fomenko **my state**; **Kuchum** ≈ **Kiche Maya** | Mesoamerican ethnonym | **Open** — [§6.15](https://chronologia.org/en/how_it_was/06_15.html) |
+| **Mexico** / **Meshiko** | Fomenko **Moskva** distortion; **Yermak** = **Cortés** | Nahuatl *Mēxihco* | **Open** — [§8.4](https://chronologia.org/ermak_kortes/8_04.html) |
+| **Moscow** / **mosque** / **mosquito** | Toponym + pejoration chain | Separate roots | **Open** — [§6](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) |
 
 ### Class / slavery labels (Moor + [Europe whitewash](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md))
 
@@ -209,7 +218,7 @@ Same **two-column** method. Status = **open** until corpus work in §Open questi
 | Pair | Notes | Status |
 |------|-------|--------|
 | **mass** (liturgy) / **mass** (crowd, massacre) | Post-print sacramental vocabulary | **Open** |
-| **canon** / **cannon** | See military table | **Open** |
+| **canon** / **cannon** / **trump** / **trumpet** | See military table | **Open** |
 | **grace** / **disgrace** | Moral vocabulary stack | **Open** |
 | **temple** / **temporal** | Sacred vs worldly power | **Open** |
 
