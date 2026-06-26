@@ -70,7 +70,9 @@ That inversion ran beside standardization of **Nicaea** as the brand of **orthod
 
 Greek **barbaros** originally meant **foreign speech** — someone whose language sounded like nonsense (*bar bar*) to Greek ears. That was a **linguistic** insult, not yet a moral ranking.
 
-Post-Nicene pedagogy and Latin-West print **upgraded** the slur into **civilizational hierarchy**: **barbaric** east versus **civilized** west, paired with **nice** in the same moral-geography stack (cluster intro above). The word therefore carries **two** layers — handbook “foreign speaker” and author **moral map** after empire fracture. Every time a textbook calls an ancient people **barbarians**, it rehearses the western civility mnemonic without admitting the **Nicaea / Nice** machinery beside it ([Nicaea / *nice* investigation](https://paradigmthreat.net/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md)).
+Post-Nicene pedagogy and Latin-West print **upgraded** the slur into **civilizational hierarchy**: **barbaric** east versus **civilized** west, paired with **nice** in the same moral-geography stack (cluster intro above). **Tartar** / **Tatar** runs the same **western attack on eastern culture**: Turkic **Tatar** names a real polity and people, but English **Tartar** — extra **r**, harsher sound, steppe-alien shorthand — is almost certainly **not** what the imperial east called itself when it was still **respect and fear** rather than textbook villainy. Western pamphlets and chronicles **imposed** the label so the Horde complex could be read as **barbarian** kin: same moral map, newer phonetics. Handbooks treat **Tartar** / **Tatar** as spelling **confusion**; this read treats the slur as **policy** beside **barbarian** itself ([Rus–Horde English lexicon §12](https://paradigmthreat.net/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md)).
+
+**Barbarian** therefore carries **two** layers — handbook “foreign speaker” and author **moral map** after empire fracture. Every time a textbook calls an ancient people **barbarians** or **Tartars**, it rehearses the western civility mnemonic without admitting the **Nicaea / Nice** machinery beside it ([Nicaea / *nice* investigation](https://paradigmthreat.net/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md)).
 
 ### Passion and the Courtroom
 
@@ -212,7 +214,7 @@ The imperial **host** you were meant to **respect and fear** was rebranded as al
 
 #### Tartar / Tatar
 
-Turkic **Tatar** names a real polity and people; English **Tartar** is the **slurred polemic form** — extra **r**, harsher sound, steppe alien instead of imperial neighbor. Handbook etymology treats the spellings as **confusion**; author read treats the confusion as **policy** (same move as **Horde / Hoard** below).
+Western **Tartar** polemic versus Turkic **Tatar** — developed under **#### Barbarian** above (eastern relabel, probably not self-designation). **Horde / Hoard** below carries the fantasy-media re-seal.
 
 #### Horde / Hoard
 
@@ -349,7 +351,7 @@ Keywords: #LexicalRedaction #HiddenHistory #Latin #Nicaea #RusHorde #Etymology #
 
 **Substack:** [paradigmthreat2.substack.com/p/the-hidden-history-of-words](https://paradigmthreat2.substack.com/p/the-hidden-history-of-words)
 
-**Last updated:** 2026-06-26 (dedup pass; Substack link).
+**Last updated:** 2026-06-26 (dedup pass; Substack link; **Tartar** in barbarian cluster).
 
 ---
 

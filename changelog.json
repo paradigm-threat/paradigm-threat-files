@@ -1,8 +1,58 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-26T14:04:59.921Z",
+    "date": "2026-06-26T14:35:08.026Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/the-hidden-history-of-words.md",
+        "href": "/history/chronology/the-hidden-history-of-words"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.png",
+        "alt": "The Hidden History of Words — lexical reset, Latin breakaway, and the Horde redaction wall (article hero)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/redacted.jpg",
+        "alt": "Dictionary trail ending at redaction — lexical history redaction wall"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/christ/bible_was_redacted.jpg",
+        "alt": "Bible redaction — mass translation as lexical seal"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/christ/crucifixion_simone_martini_066.jpg",
+        "alt": "Crucifixion — Simone Martini, c. 1333 (Passion trial vocabulary anchor)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png",
+        "alt": "Europe whitewash — Moor / Boor / complexion label politics"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.png",
+        "alt": "Giants, infantry, guerrilla — Horde foot lines and post-cannon survival"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/life_on_mars_rules_earth.png",
+        "alt": "Mars-associated control — life on Mars rules Earth (lexical war cluster)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.jpg)](https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.md",
+        "alt": "Troy was also called Yoros — short for Ierosalim, Jerusalem (#1), Tsar-Grad"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
+        "alt": "Franklin Palatine Boors vs Moors — screenshot forensics (Palatine Moors, black German King George II)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-26T14:04:58.000Z",
+    "message": "Add June 27 roundup blog and cosmology Q3 hall-of-mirrors thread.",
     "files": [
       {
         "status": "A",
@@ -1775,48 +1825,6 @@
       }
     ],
     "images": [
-      {
-        "src": "https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png",
-        "alt": "The Peace Deal Nobody Cares About — universal dissatisfaction, Islamabad MOU, and Strait of Hormuz"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png",
-        "alt": "Mission Accomplished (Again) — Iran 2026, media split, and war ledger"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png",
-        "alt": "Iran war runner — timeline, dual track, and regional map read"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/ww2-mission-failed.png",
-        "alt": "WW2 — mission failed vs victory story (Coda lane)"
-      },
-      {
-        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-23T15:15:38.000Z",
-    "message": "Shorten Islamabad Installment III title to core headline.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md",
-        "href": "/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png",
-        "href": "/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png"
-      },
       {
         "src": "https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png",
         "alt": "The Peace Deal Nobody Cares About — universal dissatisfaction, Islamabad MOU, and Strait of Hormuz"
