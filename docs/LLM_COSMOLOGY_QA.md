@@ -12,6 +12,7 @@
 |-------------|--------|
 | Reply to Facebook / X / forum post on **Big Melt**, **Big Bang**, universe **creation** | [Q1](../cosmos/cosmology/qa/q01-big-melt-eternal-universe-solar-cycle.md) — use **Public reply templates**; cite **mainstream URLs** from citation table unless author wants in-repo links |
 | **Einstein** + math / “not established” / cosmic scale | [Q2](../cosmos/cosmology/qa/q02-einstein-math-cosmic-extrapolation.md) |
+| **Hall of mirrors**, **plasma**, **Hubble misread**, **observer/quantum** (social threads) | [Q3](../cosmos/cosmology/qa/q03-hall-of-mirrors-plasma-hubble-thread.md) |
 | **Solar-system lifecycle** (birth, golden age, rip) | [Chronology — Cosmic Life Cycle](../history/chronology/page.md) + Q1 |
 | **Universe age**, HR diagram, Lerner letter, NASA ages | [History Q&A](../history/chronology/history-qa/page.md) Part 1 |
 | **Survey / consensus theater** | [Big Mysteries investigation](../cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md) |

@@ -2,14 +2,14 @@
 
 > **TL;DR:** Living Q&A for social threads and comment-section cosmology debates. Questions are anonymized; answers pair **our position** (eternal cosmos; Bang/Melt/Rip as **solar-system** birth/death language scaled up) with **mainstream citations** usable in public replies **without** naming this site. Includes copy-paste **reply templates** for Facebook and similar.
 
-**Status:** Living — seeded 2026-06-26 from Big Melt / Padmanabhan thread + Einstein math extrapolation follow-up.  
+**Status:** Living — seeded 2026-06-26 from Big Melt / Padmanabhan thread + Einstein math extrapolation + **Tommy thread** (hall of mirrors / plasma / observer).  
 **Workflow model:** [Common Questions](/history/common-questions.md) · [Flat Earth Q&A debunks](/cosmos/flat_earth/flat-earth-qa-debunks.md) · [Iran 2026 Q&A hub](/governance/war/qa/page.md)
 
 ---
 
 ## Agent / assistant instructions
 
-**Read this hub first** when the author asks to reply to cosmology posts (Big Bang, Big Melt, Big Rip, steady state, CMB, universe age, Padmanabhan, inflation, ΛCDM, “did we detect universe creation,” Einstein + cosmic scale).
+**Read this hub first** when the author asks to reply to cosmology posts (Big Bang, Big Melt, Big Rip, steady state, CMB, universe age, Padmanabhan, inflation, ΛCDM, “did we detect universe creation,” Einstein + cosmic scale, **hall of mirrors**, **plasma**, **Hubble misinterpretation**, **observer/quantum** thread replies).
 
 | Step | Action |
 |------|--------|
@@ -26,6 +26,7 @@
 
 - **Q1** — Big Melt vs Big Bang; eternal universe; Bang/Melt/Rip as solar-system lifecycle; social reply templates → [q01-big-melt-eternal-universe-solar-cycle.md](./q01-big-melt-eternal-universe-solar-cycle.md)
 - **Q2** — Did Einstein warn his theories weren’t established in grounded math / cosmic extrapolation? → [q02-einstein-math-cosmic-extrapolation.md](./q02-einstein-math-cosmic-extrapolation.md)
+- **Q3** — Hall of mirrors, plasma, Hubble misread, observer reply (Tommy thread, June 2026) → [q03-hall-of-mirrors-plasma-hubble-thread.md](./q03-hall-of-mirrors-plasma-hubble-thread.md)
 
 When adding **Q3+**, append a row here and add a file; run `npm run autogen` from repo root.
 
@@ -37,6 +38,7 @@ When adding **Q3+**, append a row here and add a file; run `npm run autogen` fro
 |----|--------|------|
 | Q1 | Big Melt, eternal universe, solar-system lifecycle, public reply templates | [q01-big-melt-eternal-universe-solar-cycle.md](./q01-big-melt-eternal-universe-solar-cycle.md) |
 | Q2 | Einstein on mathematics, geometry, and cosmic-scale extrapolation | [q02-einstein-math-cosmic-extrapolation.md](./q02-einstein-math-cosmic-extrapolation.md) |
+| Q3 | Hall of mirrors, plasma, Hubble misread, observer/quantum (Tommy thread) | [q03-hall-of-mirrors-plasma-hubble-thread.md](./q03-hall-of-mirrors-plasma-hubble-thread.md) |
 
 ---
 

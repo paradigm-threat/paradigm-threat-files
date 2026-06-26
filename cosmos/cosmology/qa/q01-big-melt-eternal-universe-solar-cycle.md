@@ -88,6 +88,7 @@ Use when replying on Facebook, X, etc. Trim as needed.
 ## Cross-links (in-repo)
 
 - [Cosmology Q&A hub](./page.md)
+- [Q3 — Hall of mirrors / plasma / Tommy thread](./q03-hall-of-mirrors-plasma-hubble-thread.md)
 - [Consensus theater article](/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md)
 - [Big Mysteries investigation](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md)
 - [Chronology — Cosmic Life Cycle](/history/chronology/page.md)
