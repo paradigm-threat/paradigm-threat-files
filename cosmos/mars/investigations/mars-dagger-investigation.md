@@ -671,6 +671,19 @@ Vogel: this **legitimized** the treasure seer who succeeds where others fail —
 ## X. Cross-references
 
 - [Reader essay — The Mars Dagger](/cosmos/mars/mars-dagger.md) — first-person argument; leak, hijack, containment
+
+**Reader essay — corpus image reuse (2026-06-27):** Essay embeds canonical art from linked lanes (absolute `https://paradigmthreat.net/...` URLs; not copied into `cosmos/mars/`):
+
+| Section | Asset | Source lane |
+|---------|-------|-------------|
+| § Mars cults | `cosmos/mars/globalist_stranglehold.jpg` | [Mars hub § What is the Deep State](https://paradigmthreat.net/cosmos/mars/page.md) |
+| § Latin gatekeeper | `history/chronology/gutenberg_bible_1455.jpg` | Latin manuscript / print gate (not `redacted.jpg` — consecutive reuse with [Hidden History of Words](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md)) |
+| § MFEE / rehabilitation | `history/mudflood/investigations/promised-land-investigation.png` | [Promised land investigation](/history/mudflood/investigations/promised-land-investigation.md) |
+| § Embedded analog memory | `science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png` | [Quantum storage investigation](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) |
+| § Smith as leak | `science/computing/quantum-leap-of-faith-smith-mystery-solved.png` | [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) |
+| § Blade on table | `mars-dagger-back2.jpg`, `mars-dagger-image.jpg`, `mars-dagger-front.jpg` | This investigation §I |
+| Hero | `cosmos/mars/mars-dagger.png` | Essay header art |
+
 - [Mars hub](/cosmos/mars/page.md) — Deep State on Mars, Adonai theonyms, Latin, CERN gates, post-MFEE consolidation
 - [MFEE investigation](/history/mudflood/investigations/mfee-investigation.md)
 - [Quantum storage investigation §2.4](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) — Smith plates as analog index; claim #14 Mars prevalent / Earth suppressed
