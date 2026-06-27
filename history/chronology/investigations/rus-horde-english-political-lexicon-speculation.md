@@ -185,6 +185,7 @@ Same **two-column** method. Status = **open** until corpus work in §Open questi
 | **cannon** / **canon** / **trump** / **trumpet** | Homophone era + **Jericho** siege; **1500s** *trump* = cheat; **1492** cannon + fanfare injustice | **Cannon** ← Italian *cannone*; **canon** ← Greek *kanōn*; **trumpet** ← OF *trompe*; *trump* “cheat” ← mountebank (handbook) | **Open** — [Hidden History of Words](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md) |
 | **host** (army) / **Host** (Eucharist) | Military **host** vs liturgical **host** | Latin *hostis* “enemy” vs *hostia* “victim” | **Open** |
 | **crusade** | “Holy war” label on **revenge** campaign | *Crusade* ← “cross” | **Open** — timeline [First Crusade](/timeline/evt-the-first-crusade-trojan-war) |
+| **nightmare** | **Night** + **mare** (horse); **1492** night cavalry trauma; demon-*mare* closure | *Nightmare* ← OE *mære* “goblin” (handbook) | **Open** — [nightmare investigation](https://paradigmthreat.net/history/chronology/investigations/nightmare-night-mare-1492-apocalypse-crusade-investigation.md); **AU-030** |
 
 ### Place names / Fomenko toponyms (reader essay 2026-06-27)
 

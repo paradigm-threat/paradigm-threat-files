@@ -118,7 +118,7 @@ On this read **Boor** is the **forced split** from **Moor**: one bloodline recod
 
 ### Military After Kulikovo
 
-Giant-line warfare → cannon → irregular survival; **Pugachev** anchor under **Guerrilla** below.
+Giant-line warfare → cannon → irregular survival; **Pugachev** anchor under **Guerrilla**; **1492** **nightmare** under **Nightmare** below.
 
 ![Giants, infantry, guerrilla — Horde foot lines and post-cannon survival](https://paradigmthreat.net/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.png)
 
@@ -155,6 +155,16 @@ The candidate event large enough to **re-point** the word is the **[1492 Apocaly
 #### Crusade
 
 *Crusade* grows from **cross** — Latin *crux*; a crusader is literally **one marked with the cross**. That etymology is a lexical giveaway on corrected time: the **crusading** wars belong **immediately after crucifixion**, when the cross was still the fresh mark of the Passion, not a phantom **eleventh-century** campaign a millennium removed. Handbooks park the First Crusade in **1096**; the word itself argues for **revenge** in the same generation as the trial vocabulary (**Jew**, **judge**, **martyr**) — [First Crusade / Trojan War](https://paradigmthreat.net/timeline/evt-the-first-crusade-trojan-war) anchor; [chronology — revenge crusade](https://paradigmthreat.net/history/chronology/page.md).
+
+#### Nightmare
+
+**Nightmare** is a **cryptic compound** in plain sight: **night** + **mare**. Handbooks split the lanes — Old English **mare** as a **night-demon** that presses on the sleeper, versus folk **night** + **mare** (horse). Philology often prefers the **goblin** and treats the equine image as later naïveté.
+
+On this timeline the horse reading is the **primary folk memory**, not a mistake. The generative event plausibly sits in the **[1492 Apocalypse Crusade](https://paradigmthreat.net/timeline/evt-the-apocalypse-crusade-reverse-exodus)** — **Ottoman** / Rus-Horde **cavalry** reordering **Europe** in the same window as **canon**, **cannon**, and **trump** (above). [Chronology hub](https://paradigmthreat.net/history/chronology/page.md) reads the campaign as continental **armed cavalry** apocalypse — **Four Horsemen** rhetoric, invasion at a scale western populations had not lived through. For much of Europe this may have been the **first** sustained encounter with **war horses** — possibly the **first horses**, full stop, for large rural populations who had only known foot culture and local draft animals. Imperial vassals inherited cavalry doctrine earlier; the **invasion** brought **hooves at speed** into **villages**, not tournament pageantry.
+
+Raids **at night** are standard terror doctrine: attackers choose dark so defenders cannot form lines; victims remember **sound** and **silhouette** — hoofbeat, crest, speed — not daylight taxonomy. Repeat that pattern across provinces and speech compresses to **night mare**: the **horse that comes in the dark**. Sleep re-stages the siege afterward; the demon gloss is handbook **spiritualization** of the same trauma.
+
+Aside from planetary **cataclysm** ([MudFlood / MFEE](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm)), few events match a **single** frightened memory **surviving into modern culture** across a continent like this **Ottoman** wave. **Nightmare** names what Europe agreed it lived through — the largest **bad dream** still spoken in everyday English. Full row: [nightmare / night mare investigation](https://paradigmthreat.net/history/chronology/investigations/nightmare-night-mare-1492-apocalypse-crusade-investigation.md) (**AU-030**).
 
 ### Words Named After Mars
 
@@ -355,7 +365,7 @@ If memory survives this stubbornly in **dictionaries** and **families**, the aut
 - [Author-unique theories registry](https://paradigmthreat.net/history/chronology/investigations/author-unique-theories.md)
 - [Martyr word history](https://paradigmthreat.net/governance/war/investigations/martyr-word-history-investigation.md) — witness vs Mars **Mar-** cluster
 - [Troy / 1st Jerusalem](https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.md) — Fomenko **Yoros** read
-- [New World naming — MFEE](https://paradigmthreat.net/history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md) — Maya / Moscow threads
+- [Nightmare / night mare — 1492 Apocalypse Crusade](https://paradigmthreat.net/history/chronology/investigations/nightmare-night-mare-1492-apocalypse-crusade-investigation.md) — **AU-030**; Ottoman night cavalry trauma
 
 ---
 
@@ -371,7 +381,7 @@ Keywords: #LexicalRedaction #HiddenHistory #Latin #Nicaea #RusHorde #Etymology #
 
 **Substack:** [paradigmthreat2.substack.com/p/the-hidden-history-of-words](https://paradigmthreat2.substack.com/p/the-hidden-history-of-words)
 
-**Last updated:** 2026-06-26 (forum sync: **righteous** Rus–Horde read; reader witness; **Excalibur** / *Camelot* quote hygiene; Chronologia BBCode link).
+**Last updated:** 2026-06-27 (**nightmare** / **1492** night mare **AU-030**; forum sync: **righteous** Rus–Horde read; Chronologia BBCode link).
 
 ---
 
