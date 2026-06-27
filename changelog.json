@@ -1,8 +1,55 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-27T11:34:33.164Z",
+    "date": "2026-06-27T14:08:47.955Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/mars-dagger-investigation.md",
+        "href": "/cosmos/mars/investigations/mars-dagger-investigation"
+      },
+      {
+        "status": "R",
+        "path": "cosmos/mars/mars-dagger-image.jpg",
+        "href": "/cosmos/mars/mars-dagger-image.jpg"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/mars-dagger.md",
+        "href": "/cosmos/mars/mars-dagger"
+      },
+      {
+        "status": "A",
+        "path": "cosmos/mars/mars-dagger.png",
+        "href": "/cosmos/mars/mars-dagger.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/cosmos/mars/mars-dagger-image.jpg"
+      },
+      {
+        "src": "/cosmos/mars/mars-dagger.png"
+      },
+      {
+        "src": "/cosmos/mars/mars-dagger-front.jpg",
+        "alt": "Mars dagger — Seal of Mars on blade"
+      },
+      {
+        "src": "/cosmos/mars/mars-dagger-back2.jpg",
+        "alt": "Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
+        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-27T11:34:32.000Z",
+    "message": "Add nightmare night-mare thesis tied to 1492 Apocalypse Crusade.",
     "files": [
       {
         "status": "M",
@@ -33,6 +80,91 @@
         "status": "M",
         "path": "history/chronology/the-hidden-history-of-words.md",
         "href": "/history/chronology/the-hidden-history-of-words"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.png",
+        "alt": "The Hidden History of Words — lexical reset, Latin breakaway, and the Horde redaction wall (article hero)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/redacted.jpg",
+        "alt": "Dictionary trail ending at redaction — lexical history redaction wall"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/christ/bible_was_redacted.jpg",
+        "alt": "Bible redaction — mass translation as lexical seal"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/christ/crucifixion_simone_martini_066.jpg",
+        "alt": "Crucifixion — Simone Martini, c. 1333 (Passion trial vocabulary anchor)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png",
+        "alt": "Europe whitewash — Moor / Boor / complexion label politics"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.png",
+        "alt": "Giants, infantry, guerrilla — Horde foot lines and post-cannon survival"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/life_on_mars_rules_earth.png",
+        "alt": "Mars-associated control — life on Mars rules Earth (lexical war cluster)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.jpg)](https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.md",
+        "alt": "Troy was also called Yoros — short for Ierosalim, Jerusalem (#1), Tsar-Grad"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
+        "alt": "Franklin Palatine Boors vs Moors — screenshot forensics (Palatine Moors, black German King George II)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-26T23:29:12.000Z",
+    "message": "Add Chronologia Linguistics forum reply and sync lexical essay work.",
+    "files": [
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/author-unique-theories.md",
+        "href": "/history/chronology/investigations/author-unique-theories"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/lexical-redaction-hub-investigation.md",
+        "href": "/history/chronology/investigations/lexical-redaction-hub-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md",
+        "href": "/history/chronology/investigations/rus-horde-english-political-lexicon-speculation"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/the-hidden-history-of-words-chronologia-forum-reply.bbcode",
+        "href": "/history/chronology/the-hidden-history-of-words-chronologia-forum-reply.bbcode"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/the-hidden-history-of-words-chronologia-forum-reply.md",
+        "href": "/history/chronology/the-hidden-history-of-words-chronologia-forum-reply"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/the-hidden-history-of-words.md",
+        "href": "/history/chronology/the-hidden-history-of-words"
+      },
+      {
+        "status": "M",
+        "path": "influence/perspective/russian-perspective.md",
+        "href": "/influence/perspective/russian-perspective"
       }
     ],
     "images": [
@@ -1841,124 +1973,6 @@
       {
         "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png",
         "alt": "Richard Gage / AE911Truth — investigation graphic (charity envelope, open-air prison)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-24T12:12:48.000Z",
-    "message": "Add Keep Android Open controlled opposition assessment (§3.1–§3.2).",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/computing/investigations/google-dont-be-evil-enclosure-investigation.md",
-        "href": "/science/computing/investigations/google-dont-be-evil-enclosure-investigation"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-24T00:43:12.000Z",
-    "message": "Add Google Don't Be Evil enclosure investigation and cross-links.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/censorship/github-ban.md",
-        "href": "/influence/censorship/github-ban"
-      },
-      {
-        "status": "M",
-        "path": "page.md",
-        "href": "/page"
-      },
-      {
-        "status": "M",
-        "path": "science/ai/ai-control-investigation.md",
-        "href": "/science/ai/ai-control-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/ai/llm-history-governance-theater-investigation.md",
-        "href": "/science/ai/llm-history-governance-theater-investigation"
-      },
-      {
-        "status": "A",
-        "path": "science/computing/investigations/google-dont-be-evil-enclosure-investigation.md",
-        "href": "/science/computing/investigations/google-dont-be-evil-enclosure-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/investigations/internet-that-should-have-been-investigation.md",
-        "href": "/science/computing/investigations/internet-that-should-have-been-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/quantum-leap-of-faith.md",
-        "href": "/science/computing/quantum-leap-of-faith"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/the-internet-that-should-have-been.md",
-        "href": "/science/computing/the-internet-that-should-have-been"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/censorship/github-ban.png",
-        "alt": "GitHub Actions disabled for user — paradigm-threat-files"
-      },
-      {
-        "src": "/influence/censorship/github-ban2.png",
-        "alt": "GitHub Actions / workflow failure (continued)"
-      },
-      {
-        "src": "/influence/censorship/github-ban3.png",
-        "alt": "GitHub restriction context (continued)"
-      },
-      {
-        "src": "/influence/censorship/github-ban4.png",
-        "alt": "GitHub restriction context (continued)"
-      },
-      {
-        "src": "/influence/censorship/github-ban5.png",
-        "alt": "GitHub restriction context (continued)"
-      },
-      {
-        "src": "/influence/conspiracy/embedding.jpg",
-        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
-      },
-      {
-        "src": "/influence/conspiracy/scientific_truth.jpg",
-        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
-        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
-      },
-      {
-        "src": "/cosmos/mars/mars_life.jpg",
-        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
-      },
-      {
-        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
-        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
-      },
-      {
-        "src": "/science/ai/ai-takeover.png",
-        "alt": "AI takeover in fiction"
-      },
-      {
-        "src": "/science/computing/quantum-leap-of-faith.png",
-        "alt": "Quantum Leap (of faith) — article header"
-      },
-      {
-        "src": "/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
-        "alt": "Joseph Smith mystery solved — crystal-memory interpretation"
-      },
-      {
-        "src": "/science/computing/the-internet-that-should-have-been.png",
-        "alt": "The Internet That Should Have Been — article header"
       }
     ]
   }

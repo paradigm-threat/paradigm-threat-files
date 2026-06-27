@@ -1,8 +1,8 @@
 # Investigation: Mars Dagger — Ritual Hardware, Post-MFEE Recovery, and the Smith Analog-Index Line
 
-> **TL;DR:** The so-called **Mars Dagger** is a ~10-inch steel knife passed down through the **Smith family** (Joseph Smith Sr. → Hyrum Smith → patriarch line), inscribed with **Hebrew Adonai**, the **Seal of Mars**, the **Intelligence of Mars** sigil, and **Scorpio** (♏). Mainstream Mormon studies read the marks as **copied from Francis Barrett's *The Magus* (1801)** — **keeper-cult transmission**, not invention (§3.5). **Reader essay:** [The Mars Dagger — What Leaks When Buried Knowledge Surfaces](/cosmos/mars/mars-dagger.md) — leak-not-recruitment thesis; Mormonism as **organic danger demonstration**; **containment reaction** at Carthage (§3.7, §XI). In this repo **Mars is not split** from astrological ♂: the dagger is **Mars-cluster ritual hardware** for post-[MFEE](/history/mudflood) circles. **Guardians are circumstantial** (§7.0). Post-MFEE breakaway Mars had **weak influence** — **not** Mormon co-creation (§3.6–3.7). Plates = **analog/crystal memory index**.
+> **TL;DR:** The so-called **Mars Dagger** is a ~10-inch steel knife passed down through the **Smith family** (Joseph Smith Sr. → Hyrum Smith → patriarch line), inscribed with **Hebrew Adonai**, the **Seal of Mars**, the **Intelligence of Mars** sigil, and **Scorpio** (♏). Mainstream Mormon studies read the marks as **copied from Francis Barrett's *The Magus* (1801)** — **keeper-cult transmission**, not invention (§3.5). **Reader essay:** [The Mars Dagger — What Leaks When Buried Knowledge Surfaces](/cosmos/mars/mars-dagger.md) — leak-not-recruitment thesis; Mormonism as **organic danger demonstration**; **NDD** breakaway suppression of history/religion/science; **millions of smaller leaks** likely erased; Book of Mormon as **massive uncontainable leak**; **incomplete** Carthage containment; **Scientology** parallel (§3.7.1–3.7.3). In this repo **Mars is not split** from astrological ♂: the dagger is **Mars-cluster ritual hardware** for post-[MFEE](/history/mudflood) circles. **Guardians are circumstantial** (§7.0). Post-MFEE breakaway Mars had **weak influence** — **not** Mormon co-creation (§3.6–3.7). Plates = **analog/crystal memory index**.
 
-**Date:** 2026-06-26  
+**Date:** 2026-06-27  
 **Status:** Open
 
 **Related:** [Reader essay — Mars dagger](/cosmos/mars/mars-dagger.md) · [Mars hub](/cosmos/mars/page.md) · [MFEE investigation](/history/mudflood/investigations/mfee-investigation.md) · [Promised land / post-MFEE rehabilitation](/history/mudflood/investigations/promised-land-investigation.md) · [Cargo cults / manna obedience](/history/mudflood/investigations/cargo-cults-investigation.md) · [Quantum storage / Smith crystal-memory §2.4](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) · [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md)
@@ -11,9 +11,11 @@
 
 ## I. Artifact photographs
 
+**Asset names (2026-06-27):** Full scabbard photo is `mars-dagger-image.jpg` (renamed from `mars-dagger.jpg` so `mars-dagger.png` can serve as the [reader essay](/cosmos/mars/mars-dagger.md) hero). Blade detail photos: `mars-dagger-front.jpg`, `mars-dagger-back2.jpg`.
+
 ### Full dagger and scabbard
 
-![Smith family Mars dagger — full view with scabbard](/cosmos/mars/mars-dagger.jpg?w=640)
+![Smith family Mars dagger — full view with scabbard](/cosmos/mars/mars-dagger-image.jpg?w=640)
 
 ~10-inch knife with wooden grip and simple scabbard. Listed among **Hyrum Smith relics** (Pearson Corbett, *Hyrum Smith—Patriarch*, 1963, p. 453) as a "Masonic" blade; researchers (Tanner, Quinn) identify markings as **ceremonial magic**, not Masonic. Now held by a **private collector**; Quinn/Tanner photocopies (1982+) are the principal public record.
 
@@ -213,7 +215,7 @@ Mainstream scholarship mostly stops at Layer A and waves at Walters. **Reader es
 |------|-------|
 | **Documented** | Barrett-line inscriptions; Walters parallel kit; regional dig culture; Carthage 1844 facts; no Mars on blade provenance |
 | **Scholarly inference** | Terrestrial cultic transmission via mentor/book — **not** independent invention |
-| **Repo extension (author thesis)** | Keeper-cult fracture + **organic leak** of pre-cataclysmic knowledge; **containment reaction** — **not** Mars-planned Mormonism ([reader essay](/cosmos/mars/mars-dagger.md)) |
+| **Repo extension (author thesis)** | Keeper-cult fracture + **organic leak** of pre-cataclysmic knowledge; **NDD** suppression mandate; **millions of smaller leaks** likely erased; Book of Mormon as **massive uncontainable leak**; **incomplete** Carthage containment; **Scientology** parallel (§3.7.1–3.7.3); **not** Mars-planned Mormonism ([reader essay](/cosmos/mars/mars-dagger.md)) |
 
 ### 3.6 Post-MFEE breakaway influence ceiling — what Mars humans could and could not do
 
@@ -255,6 +257,50 @@ Mainstream scholarship mostly stops at Layer A and waves at Walters. **Reader es
 
 **Distinction from §3.5 Layer B (old read):** Keeper cult explains **how Smith got the kit**. Containment explains **what happened when the leak became a church**. Mars role is **reactive** (Layer C), not **recruitment**.
 
+#### 3.7.1 NDD suppression mandate — why plates threaten breakaway policy
+
+**Author assumption (2026-06-27):** The breakaway civilization on Mars operates a long **neglect–deny–deprive** (**NDD**) policy toward surface humans — withholding or degrading **history**, **religion**, and **science** so populations cannot reconstruct pre-cataclysmic operator grammar or buried infrastructure.
+
+| If NDD is true | Implication for Smith plates |
+|----------------|------------------------------|
+| Surface amnesia is **policy**, not accident | **Analog-index tablets** are **existential leaks** — same class as chamber breach, not benign scripture |
+| Keeper lines that still dig are **noise** to manage | Most breaches never scale; **suppression** is the default outcome |
+| Scaling leaks require **containment** | Mormonism is the rare case where **text + witnesses + institution** outran the seal |
+
+**Leak volume (author thesis, uncounted):** **Thousands to millions** of smaller leaks may have been **suppressed or erased** — silenced dig crews, burned texts, purged movements, re-sealed deposits, folklore substitution. Survivors in the record are **selection bias**: durable books, churches, or court files. **No census exists**; the claim is **structural** — if NDD is policy, plate-class objects are **priority targets**, and most failures to contain would leave **no public trace**.
+
+**Cross-read:** [Quantum storage investigation](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) (Mars prevalent / Earth suppressed — speculative); [promised-land](/history/mudflood/investigations/promised-land-investigation.md) (cataclysm memory scrubbed in rehabilitation narratives).
+
+#### 3.7.2 Incomplete containment — Carthage vs the Book of Mormon
+
+| Containment move | **1844 outcome** | **Future-facing gap** |
+|------------------|------------------|------------------------|
+| **Terminate living founder** | Joseph and Hyrum killed **27 June 1844** — **coupling vector** removed | Church **survives**; Brigham Young and institutional succession |
+| **Suppress magical method** | Folk-magic embarrassment in apologetics; seer-stone retelling softened | **Book of Mormon** remains in print; plate narrative **permanent** |
+| **Political / military pressure** | Nauvoo Legion alarm; Expositor destroyed; mob violence | Westward migration **institutionalizes** movement |
+| **Full narrative capture** (fiction / hoax frame) | **Partial** — angelology absorbs breach phenomenology | Unlike Scientology (§3.7.3), no pulp-SF **hoax exit** fully dominant in 1844 |
+
+**Author read:** Carthage is **containment climax**, not **containment success**. Breakaway Mars (via human proxies) implemented the **cheapest** strategy under §3.6 weak-influence ceiling — **founder assassination** — but **not every strategy** needed to **seal the leak into the future**. The **massive leak** (printed scripture + institutional church) **could not be fully contained**; only **partially** managed.
+
+#### 3.7.3 Scientology parallel — lawsuit containment that leaks, then fiction rebranding
+
+**Parallel thesis (author):** Modern **Scientology** rhymes with the Mormon leak arc — different century, same **information-containment grammar**.
+
+| Lane | Mormonism (19th c.) | Scientology (20th–21st c.) |
+|------|---------------------|----------------------------|
+| **Leak payload** | Gold plates, seer stone, Book of Mormon cosmology | **OT III** / **Xenu** interplanetary narrative in upper levels |
+| **Founder vector** | Joseph Smith — terminated **1844** | L. Ron Hubbard — died **1986**; institution continues |
+| **Legal containment** | Riot charges, press destruction, mob | RTC lawsuits seeking to **seal** confidential materials |
+| **Leak via litigation** | *Nauvoo Expositor* exposure (inner secrets) | **Fishman** affidavit (**1991**) and related filings — OT materials in **court records**; Internet **re-mirrors** |
+| **Public hoax frame** | Folk magic, con-artist debunk | **Profit scam** + Hubbard **science-fiction** corpus (*Battlefield Earth*, pulp cosmology) |
+| **Containment outcome** | **Incomplete** — scripture permanent | **Partial** — cosmology public as **punchline**, not operational memory |
+
+**Documented (externals):** Church of Scientology litigation over confidential upper-level materials; **Fishman** criminal case affidavit quoting **OT III** (widely mirrored); Hubbard's documented **science-fiction** authorship. See [Wikipedia — Xenu](https://en.wikipedia.org/wiki/Xenu); [Wikipedia — Church of Scientology litigation](https://en.wikipedia.org/wiki/Church_of_Scientology_litigation).
+
+**Author extension:** Lawsuits **intended to contain** became **distribution events** — same Streisand pattern as sealed deposition leaks. Hubbard's **SF layer** lets the culture **walk away** thinking **hoax**, matching the **future-facing** strategy Mormonism only **partly** achieved (magic embarrassment without erasing the book). **Not** a claim Scientology plates are real — a claim about **containment playbook** when analog-index-class knowledge surfaces at scale.
+
+**Open:** Map other leak→contain→rebrand cases (Theosophy, Nation of Islam esoteric layers, etc.) without duplicating full dossiers.
+
 ---
 
 ## IV. Documented provenance (external sources)
@@ -291,6 +337,10 @@ Mainstream scholarship mostly stops at Layer A and waves at Walters. **Reader es
 | Guardian at deposit? | Spirit / folklore blocking diggers | **Circumstantial** — buried dead + **memory release** on seal breach (§7.0); **not** Mars DRM |
 | Post-MFEE Mars role? | N/A in mainstream | **Weak influence** — relief, living-god narrative, human control structures; **few incursions** (§3.6) |
 | Mormon narrative role? | Embarrassing magic background | **Redacted operations log** — breach phenomenology theologized; cataclysm memory suppressed ([promised-land](/history/mudflood/investigations/promised-land-investigation.md)) |
+| NDD suppression of surface knowledge? | N/A in mainstream | **Author assumption** — breakaway policy; plates = priority leak class (§3.7.1) |
+| Volume of suppressed leaks? | N/A | **Author thesis** — thousands–millions erased; Mormon case = rare durable survivor |
+| Carthage containment success? | Mob violence / political crisis | **Incomplete** — founder dead, **Book of Mormon + church survive** (§3.7.2) |
+| Scientology parallel? | N/A | **Containment grammar** — lawsuit leak + SF hoax frame (§3.7.3) |
 
 ---
 
@@ -581,7 +631,9 @@ Vogel: this **legitimized** the treasure seer who succeeds where others fail —
 13. **Book ownership** — Direct evidence Smiths owned Barrett/Agrippa vs mentor-copy-only (Quinn vs Wilson inference debate)?
 14. **Embedded memory in jewels/rock** — Metallurgical or resonance study of plate medium vs breach-symptom reports (Chase, Lapham); tie to [quantum storage §2.3–2.4](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md).
 15. **Breakaway influence ceiling** (§3.6) — Map which Smith-era events require **handler contact** vs explainable by **human occult line** alone; containment vs recruitment (§3.7).
-16. **Carthage containment** — Documented political/military/Masonic pressures vs author read of information containment (§XI).
+16. **Carthage containment** — Documented political/military/Masonic pressures vs author read of information containment (§XI); **incomplete seal** vs printed BOM (§3.7.2).
+17. **NDD leak volume** — Any catalog of suppressed dig/leak episodes in regional folklore or church records; falsifiers for "millions erased" thesis (§3.7.1).
+18. **Scientology parallel** — Primary court filings beyond Fishman; compare containment outcomes to other OT-leak mirrors (§3.7.3).
 
 ---
 
@@ -591,7 +643,7 @@ Vogel: this **legitimized** the treasure seer who succeeds where others fail —
 - **Smith / Mormon sources** are **hostile, apologetic, or academic** — all assume naturalistic folk magic; none test Mars-breakaway thesis.
 - **UFO "daggers on Mars"** (Scott Waring rover pareidolia) are **unrelated** — no inscriptions, no Hebrew, no operator chain.
 - **Crystal-memory / Mars-operator claims** are **author thesis**; tier as speculative unless new primary evidence surfaces.
-- **§3.5–3.7** — Keeper-cult transmission on Earth; **Mars reactive containment**, not Mormon co-creation; see [reader essay](/cosmos/mars/mars-dagger.md).
+- **§3.5–3.7** — Keeper-cult transmission on Earth; **NDD** leak suppression; **incomplete containment**; **Scientology** parallel; **Mars reactive containment**, not Mormon co-creation; see [reader essay](/cosmos/mars/mars-dagger.md).
 - **§7.0 / §3.6** — **Guardian phenomena are circumstantial** (MFEE burial + memory release), **not** Mars access-control devices; do not conflate with **Mars dagger** operator hardware.
 - **"Manuals" shorthand rejected** in-repo: transmission is **cultic** (mentor, dig crew, bloodline), not peasant DIY from bookstore browsing.
 
@@ -636,10 +688,10 @@ Vogel: this **legitimized** the treasure seer who succeeds where others fail —
 | **Jun 1844** | Council orders **press destroyed**; martial law | Riot charges; arrest warrant |
 | **Jun 1844** | Masonic friction over temple endowment vs lodge oaths | Parallel containment vector |
 | **27 Jun 1844** | Smith brothers in **Carthage** jail; Ford disarms militia; mob (~200) storms jail | **Containment climax** — founder terminated |
-| **Post-1844** | Church survives; westward migration | Movement **institutionalized** without living founder vector |
+| **Post-1844** | Church survives; westward migration | Movement **institutionalized** without living founder vector — **leak persists** (printed BOM, plate narrative); **incomplete containment** (§3.7.2) |
 
-**Author read:** Assassination is **consistent with information containment** when human proxies are cheaper than Martian incursion. **Not proven** as coordinated Deep State operation — pattern match only. See [reader essay §7](/cosmos/mars/mars-dagger.md).
+**Author read:** Assassination is **consistent with information containment** when human proxies are cheaper than Martian incursion — but **not** a full seal. The **massive leak** (scripture + institution) **outran** founder termination. Compare **Scientology** — institution + court-mirrored OT materials + SF hoax frame (§3.7.3). **Not proven** as coordinated Deep State operation — pattern match only. See [reader essay §7](/cosmos/mars/mars-dagger.md).
 
 ---
 
-Keywords: #Mars #MarsDagger #MFEE #JosephSmith #TreasureDigging #AnalogMemory #CeremonialMagic #Adonai #PostMFEE #TreasureGuardian #Moroni #SpiritGuardian #Transmission #LumanWalters #BarrettMagus #OperatorCult #EmbeddedMemory #BurialChamber #BreakawayCivilization #Containment #Carthage1844 #KeeperCult
+Keywords: #Mars #MarsDagger #MFEE #JosephSmith #TreasureDigging #AnalogMemory #CeremonialMagic #Adonai #PostMFEE #TreasureGuardian #Moroni #SpiritGuardian #Transmission #LumanWalters #BarrettMagus #OperatorCult #EmbeddedMemory #BurialChamber #BreakawayCivilization #Containment #Carthage1844 #KeeperCult #NDD #LeakSuppression #Scientology #IncompleteContainment
