@@ -1,8 +1,43 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-27T14:08:47.955Z",
+    "date": "2026-06-27T14:12:03.369Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/mars-dagger-investigation.md",
+        "href": "/cosmos/mars/investigations/mars-dagger-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/mars-dagger.md",
+        "href": "/cosmos/mars/mars-dagger"
+      }
+    ],
+    "images": [
+      {
+        "src": "/cosmos/mars/mars-dagger-image.jpg",
+        "alt": "Smith family Mars dagger — full view with scabbard"
+      },
+      {
+        "src": "/cosmos/mars/mars-dagger-front.jpg",
+        "alt": "Mars dagger — Seal of Mars on blade"
+      },
+      {
+        "src": "/cosmos/mars/mars-dagger-back2.jpg",
+        "alt": "Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
+        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-27T14:08:46.000Z",
+    "message": "Add Mars dagger essay hero PNG and rename scabbard photo asset.",
     "files": [
       {
         "status": "M",
@@ -1936,33 +1971,6 @@
         "status": "M",
         "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
         "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
-        "alt": "Richard Gage / AE911Truth — investigation header graphic"
-      },
-      {
-        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png",
-        "alt": "Richard Gage / AE911Truth — investigation graphic (charity envelope, open-air prison)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-24T14:05:01.000Z",
-    "message": "Add DEW hangout section to Gage investigation and Mythos dump-and-cover read.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
-        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/ai/llm-history-governance-theater-investigation.md",
-        "href": "/science/ai/llm-history-governance-theater-investigation"
       }
     ],
     "images": [

@@ -1,6 +1,6 @@
 # Investigation: Mars Dagger — Ritual Hardware, Post-MFEE Recovery, and the Smith Analog-Index Line
 
-> **TL;DR:** The so-called **Mars Dagger** is a ~10-inch steel knife passed down through the **Smith family** (Joseph Smith Sr. → Hyrum Smith → patriarch line), inscribed with **Hebrew Adonai**, the **Seal of Mars**, the **Intelligence of Mars** sigil, and **Scorpio** (♏). Mainstream Mormon studies read the marks as **copied from Francis Barrett's *The Magus* (1801)** — **keeper-cult transmission**, not invention (§3.5). **Reader essay:** [The Mars Dagger — What Leaks When Buried Knowledge Surfaces](/cosmos/mars/mars-dagger.md) — leak-not-recruitment thesis; Mormonism as **organic danger demonstration**; **NDD** breakaway suppression of history/religion/science; **millions of smaller leaks** likely erased; Book of Mormon as **massive uncontainable leak**; **incomplete** Carthage containment; **Scientology** parallel (§3.7.1–3.7.3). In this repo **Mars is not split** from astrological ♂: the dagger is **Mars-cluster ritual hardware** for post-[MFEE](/history/mudflood) circles. **Guardians are circumstantial** (§7.0). Post-MFEE breakaway Mars had **weak influence** — **not** Mormon co-creation (§3.6–3.7). Plates = **analog/crystal memory index**.
+> **TL;DR:** The so-called **Mars Dagger** is from the **same Smith family** as **Joseph Smith** (Mormon founder) — **Joseph Smith Sr.'s** household, **Hyrum Smith** patriarch relic inventory (Corbett 1963), same kit as seer stones and Jupiter talisman (§I.B). ~10-inch steel knife inscribed with **Hebrew Adonai**, **Seal of Mars**, **Intelligence of Mars**, **Scorpio** (♏). Mainstream Mormon studies read the marks as **copied from Francis Barrett's *The Magus* (1801)** — **keeper-cult transmission**, not invention (§3.5). **Reader essay:** [The Mars Dagger — What Leaks When Buried Knowledge Surfaces](/cosmos/mars/mars-dagger.md) — leak-not-recruitment thesis; Mormonism as **organic danger demonstration**; **NDD** breakaway suppression of history/religion/science; **millions of smaller leaks** likely erased; Book of Mormon as **massive uncontainable leak**; **incomplete** Carthage containment; **Scientology** parallel (§3.7.1–3.7.3). In this repo **Mars is not split** from astrological ♂: the dagger is **Mars-cluster ritual hardware** for post-[MFEE](/history/mudflood) circles. **Guardians are circumstantial** (§7.0). Post-MFEE breakaway Mars had **weak influence** — **not** Mormon co-creation (§3.6–3.7). Plates = **analog/crystal memory index**.
 
 **Date:** 2026-06-27  
 **Status:** Open
@@ -30,6 +30,22 @@ Occult **Seal of Mars** sigil, matching the Mars talisman plate in Francis Barre
 ![Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars](/cosmos/mars/mars-dagger-back2.jpg?w=640)
 
 **אֲדֹנָי** (Adonai), zodiac **Scorpio** (♏), and sigil of the **Intelligence of Mars** (Graphiel in grimoire tradition). In [Mars hub § Martian influence](/cosmos/mars/page.md), **Adonai** is listed among theonyms used by the Mars monotheist faction on Earth.
+
+### I.B Same Smith family as Joseph Smith (Mormon founder) — provenance anchor
+
+**Headline fact (documented):** The Mars dagger is **not** a generic "Smith family" artifact from another line. It belongs to the **Joseph Smith household** that produced **Joseph Smith Jr.** — founder of Mormonism, Palmyra treasure digger, and claimant of the gold plates.
+
+| Link | Who / what | Source tier |
+|------|------------|-------------|
+| **Father** | **Joseph Smith Sr.** — Quinn's primary attribution; Mars rules **1771** (Sr.'s birth year); treasure-dig affidavits name **father and Joseph Jr.**, not Hyrum | Scholarly inference (Quinn) |
+| **Brother / relic line** | **Hyrum Smith** (Joseph Jr.'s brother) — blade listed among **patriarch relics** | **Documented** (Corbett 1963, p. 453) |
+| **Founder** | **Joseph Smith Jr.** — grew up in this household; same **operator kit** as plates / seer-stone work | **Documented** context + kit overlap |
+| **Same toolchain** | Jupiter talisman, three magic parchments, seer stones, pouch — all Barrett-line hardware, Hyrum relic cluster | Quinn; Tanner; [folk magic — Wikipedia](https://en.wikipedia.org/wiki/Folk_magic_and_the_Latter_Day_Saint_movement) |
+| **Jr. used this blade at Cumorah?** | **No primary source** attests Joseph **Jr.** wielded **this specific knife** on plate night | Ashurst-McGee — family **had** the "requisite magic dagger"; use **unproven** |
+
+**Why this matters in-repo:** The blade is **physical proof** that the Mormon founder's **childhood home** already carried **planetary keeper protocol** before the church existed — not an embarrassing post-hoc folk tale, not a different Smith line, not optional background. The plates episode and the Mars dagger share **one household transmission line** ([reader essay §1](/cosmos/mars/mars-dagger.md)).
+
+**Not claimed:** that Joseph Jr. personally engraved the blade, or that extraterrestrial provenance is documented.
 
 ---
 
@@ -307,10 +323,12 @@ Mainstream scholarship mostly stops at Layer A and waves at Walters. **Reader es
 
 | Fact | Source |
 |------|--------|
+| **Same family as Mormon founder** | **Joseph Smith Sr.** household → **Joseph Smith Jr.** (founder); **Hyrum Smith** relic inventory — not a coincidental surname (§I.B) |
 | First published inventory | Pearson H. Corbett, *Hyrum Smith—Patriarch* (1963), p. 453 — "Dagger… Masonic symbols on blade" |
 | Photographs in print | Tanner & Tanner, *Mormonism, Magic and Masonry* (1982–83); Quinn, *Early Mormonism and the Magic World View* (1987, enl. 1998) |
 | Barrett correspondence | UTLM [*Mormonism & Magic*](https://utlm.org/mormonism-magic/) — Mars talisman plate vs blade comparison |
 | Attributed to Joseph Smith **Sr.** | Quinn — Mars rules 1771; treasure digs name father and Joseph Jr., not Hyrum; patriarch heirlooms |
+| Family possessed magic dagger for circles | Ashurst-McGee, *Scrying for the Lord*, Dialogue 36:4 — "requisite magic dagger"; **no proof** Jr. used it at Cumorah |
 | Scholarly summary | [Wikipedia — Folk magic and the Latter Day Saint movement](https://en.wikipedia.org/wiki/Folk_magic_and_the_Latter_Day_Saint_movement) ("Mars Dagger" section); [Dialogue — *Scrying for the Lord*](https://www.dialoguejournal.com/articles/scrying-for-the-lord-magic-mysticism-and-the-origins-of-the-book-of-mormon/) |
 | Popular summary | [Lost Mormonism — Mars Dagger](https://www.lostmormonism.com/mars-dagger/) |
 | Barrett inventory near Palmyra | Quinn, *Early Mormonism* — Scot, Agrippa, Barrett in regional bookstore inventory; Wilson (BYU) critiques as inference |
@@ -326,6 +344,7 @@ Mainstream scholarship mostly stops at Layer A and waves at Walters. **Reader es
 
 | Question | Mainstream Mormon-magic scholarship | Repo investigation |
 |----------|-------------------------------------|--------------------|
+| Same family as Joseph Smith (founder)? | Yes — Sr. household, Hyrum relics, shared magic kit | **Highlighted anchor** — one transmission line for blade + plates (§I.B) |
 | What is "Mars"? | Astrological planet for birth-year magic | Mars faction / planet / martial power — unified |
 | Why treasure digs? | Regional folk economy, superstition | Post-MFEE **buried-tech recovery** |
 | Why Barrett sigils? | Copied from available grimoire (transmission, not invention) | **Protocol ID** for operators with training |
