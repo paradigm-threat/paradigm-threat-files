@@ -160,8 +160,7 @@ That line is the **investigation's thesis in miniature**: not a weapon for the *
 | 9/11 / WTC 7 | [09-11-investigation](/events/false_flag/investigations/09-11-investigation.md) |
 | Proxy Islam who's who | [good-actor § I — Who's who](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | PP film catalog | [predictive_programming/page.md](/influence/predictive_programming/page.md) |
-
----
+| Atmospheric / weather authorization lane | [weather-mod § Political authorization](/science/geoengineering/weather-modification-investigation.md); [CIA § weather warfare](/governance/war/investigations/cia-investigation.md) |
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers in § VI adjudicate specific claims.
 

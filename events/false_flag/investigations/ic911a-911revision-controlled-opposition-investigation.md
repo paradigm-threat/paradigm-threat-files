@@ -13,7 +13,7 @@
 2. **Who runs it (Norman / 9/11 Revisionist)** → [§2](#2-operator--norman--911revision-substack)
 3. **Claim inventory (DEW, planes, CD)** → [§3](#3-claim-inventory-from-corpus)
 4. **Tier 1 — mainstream debunk** → [§4](#4-tier-1--mainstream-debunk)
-5. **Tier 2 — movement / CO debunk** → [§5](#5-tier-2--movement-controlled-opposition-read)
+5. **Tier 2 — movement / CO debunk** → [§5](#5-tier-2--movement-controlled-opposition-read) (incl. [§5.6 DEW path fork](#56-dew-authors-accountability-path-fork-court-vs-501c3))
 6. **Name collision: ic911a vs ic911** → [§6](#6-ic911a-vs-ic911org--justice-vs-accountability)
 7. **Two-truth table (project)** → [§7](#7-contradictory-truths-project-routing)
 8. **Norman citation stack (tier debunks)** → [§9](#9-norman-citation-stack--tier-debunks)
@@ -172,6 +172,60 @@ From [Richard Gage investigation §4.3](./richard-gage-ae911truth-controlled-dem
 
 Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.com/p/donate-today-for-911-disinformation) **audits** **AE911Truth**, **Lawyers Committee**, **ic911.org** **990s** while **ic911a.org** runs **opaque** **PayPal** **with** **zero** **public** **budget**. **Tier 2** **movement** **debunk:** **same** **pattern** **at** **smaller** **scale** — **accountability** **as** **brand**, **not** **governance**.
 
+### 5.6 DEW authors — accountability path fork (court vs 501(c)(3))
+
+**Thesis (project):** The **Wood / Reynolds / Johnson** **lane** did not merely **lose** on **merits** — it **chose** an **accountability** **path** that **made** **the** **whole** **dissent** **pool** **look** **worse** than **institutional** **routes** (**Gage** **501(c)(3)**, **petitions**, **engineer** **sign-ons**, **documentaries**, **congressional** **outreach**) **even** **when** **those** **routes** **are** **themselves** **read** **here** **as** **controlled** **opposition** ([Gage §1](./richard-gage-ae911truth-controlled-demolition-investigation.md)). **Absurd** **FCA** **filings** **function** **as** **anti-accountability** — **permanent** **“truthers** **lost** **in** **court”** **ammo** **for** **debunkers** **and** **a** **reason** **to** **dismiss** **serious** **NIST** **critique** **by** **association**.
+
+#### Who belongs in the DEW-author / curator cluster
+
+| Actor | Role | Accountability path chosen |
+|-------|------|---------------------------|
+| **Dr Judy Wood** | **Primary** **DEW** **author** (*WDTTG*, site, lectures) | **Mar 2007** **RFC** (**DEW** **in** **filing**); **Apr 2007** **qui** **tam** `07-cv-3314` (**Hutchison** **affidavits** **in** **docket**) |
+| **Dr Morgan Reynolds** | **No-planes** **+** **plane-animation** **fraud** | **Mar 2007** **RFC** (**simulation** **physics**); **May 2007** **qui** **tam** `07-cv-4612` — **dismissed** **with** **prejudice**; **no** **appeal** |
+| **Jerry V. Leaphart** | **Attorney** **for** **both** **Wood** **and** **Reynolds** | **Single** **legal** **lane** — **not** **independent** **corroboration** |
+| **Andrew Johnson** | **Wood** **publicist** (**PDF** **compilations**, **UK** **lecturer**) | **No** **court** **—** **distribution** **+** **“movement** **betrayed** **Wood”** **narrative** |
+| **Norman / ic911a** | **Curator** **(not** **origin** **author)** | **Footer** **stack** **treats** **2007** **filings** **as** **litmus**; **PayPal** **+** **Coming** **Soon** |
+| **Bob Greenyer** (2026) | **LENR** **dust** **→** **DEW** **proof** | **Advocate** **science** **—** **no** **2007** **docket**; **extends** **woo** **flank** |
+
+**Not** **in** **this** **cluster:** **Richard Gage** (**explicit** **DEW** **rebuttal**); **Greg Jenkins** (**movement** **debunk** **of** **Wood**); **NIST** **skeptics**.
+
+#### What the 2007 qui tam path actually did
+
+| Step | DEW / Reynolds lane | Effect on movement |
+|------|---------------------|-------------------|
+| **File** **FCA** **qui** **tam** **with** **DEW** **+** **Hutchison** **material** | **Wood** `07-cv-3314` | **Federal** **docket** **permanently** **tags** **dissent** **with** **space-weapon** **fringe** |
+| **Dismiss** **with** **prejudice** (**Daniels**, **26** **Jun** **2008**) | **Wood** **+** **Reynolds** **(+** **Haas** **related)** | **“Presented** **to** **court”** **≠** **won** — **opposite**: **court** **refused** **the** **theory** **as** **FCA** **claim** ([§9.3](#93-dr-judy-wood--2007-qui-tam--nist-rfc-destruction)) |
+| **Appeal** **affirmed**; **SCOTUS** **cert** **denied** (**09-548**) | **Wood** | **High** **closure** **—** **no** **judicial** **DEW** **finding** |
+| **Reynolds** **admits** **dismissal** **“highly** **likely”** | [Sep 2008](https://nomoregames.net/2008/09/19/reynolds-answers-judge-daniels-dismissal/) | **Not** **hidden** **victory** — **yet** **Norman** **still** **sells** **it** **as** **mandatory** **reading** |
+| **Norman** **litmus** **(2020s)** | **Footer** **on** **200+** **posts** | **Freezes** **movement** **on** **dismissed** **2007** **docket** **instead** **of** **chain-of-custody**, **WTC** **7** **tenancy**, **broadcast** **forensics** |
+
+**RFC** **alone** (**administrative** **NIST** **quality** **challenge**) **was** **a** **reasonable** **parallel** **tool** — **Gage** **camp** **participated** **in** **early** **RFC** **threads** (**McIlvaine**, **Jones**, **Gage**) **without** **bundling** **Hutchison** **DEW**. **The** **damage** **came** **from** **escalating** **to** **qui** **tam** **False** **Claims** **theory** **on** **unprovable** **physics**.
+
+#### Contrast — institutional paths (reasonable shape, contested mission)
+
+| Path | Vehicle | What it **looks** **like** **to** **outsiders** | Project read |
+|------|---------|--------------------------------------------------|--------------|
+| **Gage / AE911Truth** | **California** **nonprofit** → **IRS** **501(c)(3)** (**EIN** **26-1532493**, **ruling** **Apr** **2010**) | **Engineer** **petition**, **films**, **NIST** **critique**, **Form** **990** **transparency** | **Respectable** **envelope** — **also** **read** **as** **CO** **containment** ([Gage §1](./richard-gage-ae911truth-controlled-demolition-investigation.md)) |
+| **Lawyers’ Committee** | **501(c)(3)**-style **nonprofit** **litigation** **org** | **Grand-jury** **petitions**, **FOIA**, **named** **counsel** | **Institutional** **—** **Norman** **attacks** **for** **omitting** **Wood** |
+| **ic911.org** | **International** **Center** **for** **9/11** **Justice** | **Research** **archive**, **symposia**, **Ron** **Johnson** **pipeline** | **Movement** **mainstream** **—** **Norman** **calls** **suppression** |
+| **Wood / Reynolds / Norman** | **Qui** **tam** **+** **paid** **book** **+** **Substack** **+** **PayPal** **splash** | **“Evidence** **to** **court”** **rhetoric** **after** **prejudice** **dismissal** | **Accountability** **theater** — **worse** **outcome** **than** **doing** **nothing** **in** **court** |
+
+**Key** **distinction** **for** **debate:** **This** **repo** **does** **not** **treat** **Gage** **as** **uncorrupted** **hero** — **AE911Truth** **is** **CO** **in** **the** **project** **thesis**. **The** **point** **is** **path** **comparison**: **even** **a** **contained** **501(c)(3)** **mimics** **civil** **society** **accountability** (**signatures**, **filings**, **public** **budgets**); **DEW** **authors** **picked** **a** **path** **guaranteed** **to** **produce** **ridicule** **and** **legal** **closure** **against** **the** **dissent** **brand**.
+
+#### CO read — outcome matches handler logic (intent tier C)
+
+| Mechanism | How absurd court cases help containment |
+|-----------|----------------------------------------|
+| **Permanent debunk anchor** | **“They** **already** **had** **their** **day** **in** **court”** — **cites** **Daniels** **dismissals** **not** **Harrit** **chips** **or** **WTC** **7** **free-fall** |
+| **Respectable vs insane** | **Gage** **lane** **looks** **moderate** **by** **comparison** — **thermite** **vs** **lasers** **false** **binary** |
+| **No-planes poison** | **Reynolds** **RFC** **useful** **narrowly** — **bundled** **with** **DEW** **qui** **tam** **so** **Gage** **rejects** **whole** **package** ([§5.3](#53-dew-as-no-planes-poison-pill-adjacency)) |
+| **Energy sink** | **2026** **still** **debating** **2007** **docket** **+** **WDTTG** **page** **wars** — **agency** **WHY** **starved** |
+| **Norman as inheritor** | **Promotes** **Johnson** **PDFs** **+** **dismissed** **cases** **as** **only** **real** **investigation** **while** **ic911a** **ships** **nothing** |
+
+**Epistemic routing:** **Sincere** **belief** **in** **DEW** **does** **not** **rule** **out** **structural** **CO** **function**. **Filing** **Hutchison** **DEW** **qui** **tam** **after** **RFC** **denial** **is** **either** **strategic** **self-sabotage** **or** **CO** **—** **indistinguishable** **in** **outcome**. **Prefer** **the** **outcome** **read** **until** **primaries** **show** **handler** **intent**.
+
+**Cross-read:** [Gage §4.5 — DEW accountability path fork](./richard-gage-ae911truth-controlled-demolition-investigation.md#45-dew-lane-accountability-path-fork-court-theater-vs-501c3-envelope) · [§9.2–§9.3](#92-dr-morgan-reynolds--2007-rfc-jetliner-animations) **docket** **detail**
+
 ---
 
 ## 6. ic911a vs ic911.org — Justice vs Accountability
@@ -319,6 +373,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 | **“Presented to court” ≠ won** | Norman **litmus** **treats** **filing** **as** **vindication** — **classic** **accountability** **theater** | Substack **footer** |
 | **Same attorney stack** | **Jerry V. Leaphart** **represented** **Wood** **and** **Reynolds** — **single** **legal** **lane** **≠** **independent** **corroboration** |
 | **Hutchison affidavits in filings** | **Mar 2008** **docket** **includes** **Hutchison** **material** — **taints** **legal** **record** **with** **fringe** **physics** | Qui Tam hub filing list |
+| **Accountability path sabotage** | **Qui** **tam** **with** **DEW** **produced** **prejudice** **dismissal** **—** **permanent** **debunk** **anchor** **vs** **Gage** **501(c)(3)** **petition** **path** | [§5.6](#56-dew-authors-accountability-path-fork-court-vs-501c3) · [Gage §4.5](./richard-gage-ae911truth-controlled-demolition-investigation.md#45-dew-lane-accountability-path-fork-court-theater-vs-501c3-envelope) |
 | **Movement silencing narrative** | Wood **claims** **truth** **movement** **censors** **her** — **simultaneously** **feeds** **Norman** **anti-Gage** **content** **farm** | Johnson ebooks (§9.4) |
 
 ---

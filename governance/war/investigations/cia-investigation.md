@@ -121,6 +121,14 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 - **Pattern:** The struggle is framed as **within** government—between the “old guard” bureaucracy and the “old antibodies” (the only real resistance to these plans). The antibodies include insiders who turned (e.g. Ellsberg) and new or repurposed agencies that could “ruin the plans” by exposing them or taking over their functions under new rules.
 - **Companion case file:** [Jonestown (1978), disputed narratives, and Central American parallels](./jonestown-guyana-1978-cia-latin-america-pattern-investigation.md) — Ryan assassination + mass deaths in Guyana; sources that complicate the official cult package; table of American deaths / attacks where CIA footprint met “locals blamed” and “we only observed” rhetoric (Chile, La Penca, Nicaragua, El Salvador, Guatemala).
 
+### Weather warfare and atmospheric programs
+
+- **Documented CIA lane:** **Operation Popeye** (1967–1972) — classified U.S. cloud seeding over Vietnam, Laos, and Cambodia; **Kissinger and CIA** authorized; Secretary of Defense **Laird** excluded and later denied the program to Congress. **Tier A** for existence; **foreign-theater** weather warfare as **proof of concept**.
+- **ENMOD (1977):** Treaty ban on military environmental modification at scale — **does not** close **dual-use**, **covert**, or **affiliate** lanes. Signatories include states that operate ionospheric heaters and seeding at scale today.
+- **Author read — selective deployment:** Atmospheric tools (seeding, particulate programs, heater doctrine, DEW-class capabilities where documented) fit the **same authorization geometry** as Popeye: **deniable**, **selective**, **attributed to nature/climate** in public framing. The **Maduro/Venezuela** board (§ Latin America above) is the geopolitical context when **adversary territory** takes catastrophic damage — ask **who benefits** and **which lane held the button**, not only whether the fault line is real.
+- **Institutional fight:** [NSA investigation](/governance/war/investigations/nsa-investigation.md) — SIGINT antibody vs CIA HUMINT/covert action; [good-actor investigation](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md). **Author endpoint:** dismantle **CIA worldwide + affiliates** or selective sky use stays **political**, not technical.
+- **Full weather-mod tiers and falsifiers:** [Weather modification investigation](/science/geoengineering/weather-modification-investigation.md) — § Political authorization lane; § GeoengineeringWatch corpus (weak visual proof vs real capability).
+
 ---
 
 ## VI. Antibodies: Defeat from Within
@@ -177,6 +185,7 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 - [Ariel Sharon — Gaza, coma, controlled-opposition threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md) — **thematic rhyme** (withdrawal → **militant**/**extremist** **inheritance** of space) with § **IV** **Iran** pipeline; **not** equating **1979** **Iran** with **2005** **Gaza**
 - [Call of Duty *Modern Warfare* — original vs reboot militainment](./call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) — **fiction** **SAD** / **TF141** / **Iran** proxy framing vs § **IV** **Iran** pipeline thesis; **militainment** audience capture
 - [**Everything Burns**](/influence/hollywood/everything-burns.md) — CIA/MI6 **war-prep** vs NSA **audit** in China/Hong Kong media; [open dossier](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md)
+- [Weather modification investigation](/science/geoengineering/weather-modification-investigation.md) — Popeye, ENMOD, § Political authorization lane; [rural burn zones](/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.md) — selective destruction + CO trap
 - [1947 CE — Central Intelligence Agency: OSS Rebrand and Cold War Deep State](/timeline/evt-1947-ce-central-intelligence-agency-oss-rebrand) (timeline article)
 - [False Flags: Architecture](/timeline/evt-false-flags-architecture)
 - [Historical Antibodies](/timeline/evt-historical-antibodies)

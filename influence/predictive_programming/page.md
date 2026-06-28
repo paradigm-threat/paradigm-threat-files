@@ -195,6 +195,7 @@ Media identified as containing predictive programming by external sources or our
 | *I, Robot* | 2004 | AI takeover; Three Laws as slave code. | Ours |
 | *Children of Men* | 2006 | Global infertility; population collapse as inevitable. | Ours |
 | *Jack Ryan: Ghost War* | 2026 | Post-9/11 CIA–MI6 proxy unit (Starling); Crown rogue; MI6 whitewash; **post-hoc PP** vs **Syria Dec 2024** + **Iran May 2026** — [essay](../hollywood/ghost-war-the-antibody-phase.md), [good-actor § IV](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) | Ours |
+| *The Economist* — *The World Ahead 2026* | 2025 | **250**, World Cup / political football, pharma, grey-zone war; **post-hoc** vs **June 2026** Venezuela doublet + blockade window — [scorecard row](../hollywood/trump-era-hollywood-political-media-investigation.md#scorecard--predictions--partial-hits--misses); reject viral **HAARP** inset overlays | Ours |
 | *Pearl Harbor* | 2001 | Released months before 9/11; "new Pearl Harbor" preparation. | Wikispooks |
 | *Rain Man* | 1988 | Autism awareness two years after Vaccine Injury Act. | Wikispooks |
 | *Iron Man 3* | 2013 | Plot parallels staged ISIS videos (Jay Dyer analysis). | Jay Dyer |
@@ -329,7 +330,7 @@ Media identified as containing predictive programming by external sources or our
 
 - [The Office](the_office.md)
 - [Ghost War: The Antibody Phase — post-hoc PP scorecard (2026)](../hollywood/ghost-war-the-antibody-phase.md) — *Jack Ryan* feature vs **Syria 2024** / **Iran 2026** calendar; inoculation + anticipation frame
-- [Trump-era Hollywood — predictive programming / political trend investigation](../hollywood/trump-era-hollywood-political-media-investigation.md) — **2026** — PP scorecard; ***Captain America: Brave New World*** (2025) vs **2025–2026** maritime **blockade** news cluster; ***Ghost War*** row; session-captured author stance; trends over studio-proof.
+- [Trump-era Hollywood — predictive programming / political trend investigation](../hollywood/trump-era-hollywood-political-media-investigation.md) — **2026** — PP scorecard; ***Captain America: Brave New World*** (2025) vs **2025–2026** maritime **blockade** news cluster; ***Ghost War*** and ***Economist World Ahead 2026*** rows; session-captured author stance; trends over studio-proof.
 
 
 ---

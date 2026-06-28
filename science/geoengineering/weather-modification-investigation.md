@@ -174,6 +174,7 @@ The `science/geoengineering/` folder holds **GeoengineeringWatch.org** booklet p
 | G16 | **Non-engine contrails** (wing-mounted plumes) prove spray nozzles | `not_contrails.jpg` | **C** | **Flap/track fairing vents**, **APU bleed**, **wing condensation**, and **perspective** explain many “between engines” plumes; **not proof** of geoengineering ports without aircraft ID + sampling |
 | G17 | **Weather warfare** / **biosphere collapse**; military used **against own citizens** | `Geoengineering-page-19.jpg` | **C** | Moral advocacy; **Popeye** was **foreign-theater** weather warfare (**documented**); **domestic “weather warfare assault” today** = **open claim** |
 | G18 | Book stack spans **Hess (1965)**, **Freeland (HAARP)**, **Thomas (chemtrails)** | `geoengineering_books.jpg` | **B** (bibliography) | Shows **literature lane** from academic weather mod to **conspiracy corpus** — useful map, **not** proof any one title is correct |
+| G19 | Viral **“PROJECT H.A.A.R.P.”** text on *Economist World Ahead 2026* **inset overlays** | social meme (2025–2026) | **C / misdirection** | **Not on published cover**; fabricated proof — see **§ Viral cover memes** |
 
 **Tier key:** **A** = primary law/gov record; **B** = documented history/quote/science phenomenon; **C** = advocacy interpretation or unproven operational claim.
 
@@ -216,13 +217,36 @@ The `science/geoengineering/` folder holds **GeoengineeringWatch.org** booklet p
 
 ---
 
+## Political authorization lane (interagency read)
+
+**Thesis (author):** Selective use of chemtrail-class seeding, ionospheric heaters, and directed-energy infrastructure is a **political** question before it is a physics question. The fight is not “does the sky move?” — it is **who holds the button without a mandate**.
+
+| Phase | Lane | Evidence tier |
+|-------|------|---------------|
+| **1967–1972** | **Operation Popeye** — classified monsoon seeding over Vietnam/Laos/Cambodia | **CONFIRMED**; **Kissinger/CIA** authorized; **Secretary of Defense Laird** excluded and later **lied to Congress** |
+| **1977** | **ENMOD** bans military weather warfare at treaty scale | **CONFIRMED**; does not erase **dual-use** or **covert** lanes |
+| **Post-ENMOD** | Continued seeding, heater facilities, SRM proposals | **PROBABLE** covert/dual-use programs — Popeye precedent makes **outright denial** irrational |
+| **Institutional split** | **CIA** — HUMINT, covert action, affiliate cutouts, foreign-theater first | **Interpretive** — fits documented Popeye **authorization geometry** |
+| | **NSA** — SIGINT, communications audit, infrastructure visibility | **Documented** separation; [NSA investigation](/governance/war/investigations/nsa-investigation.md) antibody read |
+| **Disaster media** | Heavy coverage with **natural/climate attribution** | **Documented pattern** — not “silence”; **managed framing** (see [rural burn zones](rural-burn-zones-density-moratorium-not-dew-investigation.md) § cover story first) |
+
+**Author endpoint:** Only **complete dismantling of the CIA worldwide** — cutouts, NGOs, media arms, legacy weather and covert-tech affiliates — stops **selective/political** atmospheric deployment. The NSA may retain **SIGINT and infrastructure**; the question is whether **non-elected covert-action lanes** keep **operational authorization**. This ends in **institutional politics**, not laboratory debate.
+
+**Cross-reads:** [CIA investigation § weather warfare](/governance/war/investigations/cia-investigation.md); [NSA investigation](/governance/war/investigations/nsa-investigation.md); [good-actor / interagency antibody](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md); [Economist 2026 PP scorecard row](/influence/hollywood/trump-era-hollywood-political-media-investigation.md#scorecard--predictions--partial-hits--misses) (macro rhyme only — no HAARP text on published cover).
+
+### Viral cover memes (misdirection)
+
+Circulating *Economist World Ahead 2026* graphics add **“PROJECT H.A.A.R.P.”** in a zoom inset — **not present on the published cover** (Nov 2025). **Tier C / misdirection:** same **controlled-opposition geometry** as DEW petitions in rural burn threads — **real infrastructure** welded to **fabricated visual proof** so upstream questions (**who authorized selective stress on this county/adversary/week**) get **retired with the share**. Do not treat meme overlays as primary-source signal.
+
+---
+
 ## Open Questions
 
 1. **What is the full inventory of active ionospheric heater installations worldwide?** The known facilities are likely a fraction of the total. Submarine-based or mobile ship-based heaters are theoretically possible.
 
 2. **What is the composition of chemtrail particulates?** Independent lab analyses of rainwater in heavily sprayed areas consistently find elevated barium, strontium, and aluminum — but chain-of-custody issues make these difficult to use as definitive proof.
 
-3. **Who controls the global weather modification infrastructure?** If the technology exists (it does) and if it's been weaponized before (Operation Popeye proves it has) — what entity coordinates its current use? NATO? Private defense contractors? A classified interagency body?
+3. **Who controls the global weather modification infrastructure?** See **§ Political authorization lane** — CIA covert-action + affiliate cutouts vs NSA/SIGINT infrastructure ownership; dismantlement of CIA worldwide as author endpoint.
 
 4. **What is the relationship between HAARP-type systems and the suppressed Maxwell/Tesla aether physics?** Eastlund's patents reference electromagnetic interaction with the ionosphere in ways that align more closely with pre-Heaviside field theory than with standard Maxwell equations. See [Maxwell investigation](../maxwell_aether/02-did-maxwell-prove-the-aether.md).
 
@@ -269,5 +293,5 @@ The `science/geoengineering/` folder holds **GeoengineeringWatch.org** booklet p
 
 Keywords: #Weather #Modification #Cloud #Seeding #Ionospheric #Heaters #GeoengineeringWatch #FloridaSB56
 
-**Last updated:** 2026-05-13 (GeoengineeringWatch image corpus §, G1–G18 claim table, falsifiers, energy verdict)
+**Last updated:** 2026-06-27 (§ Political authorization lane, G19 viral overlay, § Viral cover memes)
 

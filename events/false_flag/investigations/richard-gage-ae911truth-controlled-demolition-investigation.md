@@ -149,7 +149,40 @@ Gage’s public **counter-case** (Substack, presentations, **RichardGage911.org*
 
 A **silent** **building failure**—**dustification** **without** **fireballs**, **squibs**, and **sequenced** **collapses**—does **not** read as a **terror attack** on **live television**. The **9/11** package required **explosive** and **fire** **spectacle** to **launch** the **public** **War on Terror** antibody script (see [9/11 Investigation — Good-Actor Thesis](09-11-investigation.md)). **DEW-as-described** is therefore **misaligned** with the **event’s televised grammar**—weak **forensically** and **weak operationally**—even before **Hutchison**-tier **ridicule** is applied. **Author synthesis**; not **legal** proof.
 
-### 4.5 Movement field patterns (L3 — field notes)
+### 4.5 DEW lane — accountability path fork (court theater vs 501(c)(3) envelope)
+
+**Project thesis:** The **Wood / Reynolds** **cluster** is a **credible** **controlled-opposition** **candidate** **not** **only** **because** **DEW** **physics** **fails** — **because** **they** **escalated** **dissent** **into** **absurd** **False** **Claims** **litigation** **that** **closed** **the** **legal** **door** **for** **everyone**, **while** **the** **Gage** **lane** **adopted** **the** **shape** **of** **real** **accountability** **infrastructure** (**501(c)(3)**, **petitions**, **engineer** **roster**, **public** **990s**) **even** **if** **that** **org** **is** **also** **read** **here** **as** **CO** ([§1](#1-richard-gage-and-architects--engineers-for-911-truth)).
+
+#### Two paths (2006–2008 fork)
+
+| | **Gage / AE911Truth lane** | **Wood / Reynolds DEW lane** |
+|---|---------------------------|------------------------------|
+| **Vehicle** | **Nonprofit** **public** **benefit** **corp** → **IRS** **501(c)(3)** ([ProPublica EIN 26-1532493](https://projects.propublica.org/nonprofits/organizations/261532493)) | **Personal** **qui** **tam** **+** **self-published** **book** **sales** |
+| **Public ask** | **“Sign** **the** **petition”** — **thousands** **of** **A/E** **names** | **“Read** **WDTTG** **three** **times”** **+** **“evidence** **to** **court”** |
+| **NIST** **engagement** | **Critique** **reports**, **presentations**, **RFC** **participation** **on** **structural** **grounds** (**McIlvaine/Jones/Gage** **RFC** **thread** — **no** **Hutchison** **bundle**) | **RFC** **Mar** **2007** **(DEW** **claims)** → **qui** **tam** **Apr/May** **2007** |
+| **Court** **outcome** | **No** **FCA** **moonshot** — **org** **survives** **as** **institution** | **Dismissed** **with** **prejudice** **Jun** **26** **2008** (**Daniels**); **Wood** **appeal** **affirmed**; **cert** **denied** |
+| **Movement** **legacy** | **Debated** **on** **thermite** **merits** | **Permanent** **“truthers** **lost** **in** **court”** **headline** **+** **Hutchison** **on** **federal** **docket** |
+
+#### Why the qui tam path was structurally absurd
+
+**False** **Claims** **Act** **qui** **tam** **requires** **particularized** **allegations** **that** **named** **contractors** **defrauded** **the** **government** **on** **specific** **claims** **for** **payment** — **Rule** **9(b)**. **Wood’s** **theory** **that** **NIST** **contractors** **concealed** **directed-energy** **weapons** **destruction** **did** **not** **survive** **that** **bar** ([080626_Wood_07CV3314GBD.pdf](https://www.drjudywood.com/pdf/080626_Wood_07CV3314GBD.pdf)). **Attaching** **Hutchison** **affidavits** **(Mar** **2008** **docket)** **guaranteed** **fringe** **association** **in** **the** **public** **record**.
+
+**Reynolds** **parallel** **case** (`07-cv-4612`) **failed** **the** **same** **way**; **he** **did** **not** **appeal** and **wrote** **that** **dismissal** **was** **“highly** **likely”** ([nomoregames Sep 2008](https://nomoregames.net/2008/09/19/reynolds-answers-judge-daniels-dismissal/)). **Same** **counsel** (**Jerry** **V.** **Leaphart**) **on** **both** — **one** **legal** **strategy**, **not** **two** **independent** **forensic** **audits**.
+
+#### CO outcome — worse than losing quietly
+
+Even **if** **Wood** **and** **Reynolds** **were** **sincere**, **the** **path** **produced**:
+
+1. **Debunk** **ammunition** **decades** **long** — **courts** **“rejected”** **9/11** **truth** **(actually** **rejected** **FCA** **pleading** **on** **DEW)**.
+2. **Guilt-by-association** **for** **any** **researcher** **who** **challenges** **NIST** **after** **2008**.
+3. **False** **moderate** **pole** — **AE911Truth** **looks** **“reasonable”** **next** **to** **space** **weapons** **—** **strengthening** **dual-lane** **containment** ([§4.3](#43-extreme-hangout--poison-the-well-mechanics-interpretive--project)).
+4. **Norman** **inheritance** — **2020s** **footer** **still** **sells** **dismissed** **docket** **as** **litmus** ([ic911a §5.6](./ic911a-911revision-controlled-opposition-investigation.md#56-dew-authors-accountability-path-fork-court-vs-501c3)).
+
+**Debate line:** *“You didn’t pick the hard path — you picked the path that guaranteed ridicule. Gage built a 501(c)(3) petition machine; you built a dismissed qui tam with Hutchison attached. Which one made the movement more accountable?”*
+
+**Project** **does** **not** **claim** **Gage** **won** **truth** **—** **only** **that** **he** **chose** **the** **accountability** **shape** **civil** **society** **recognizes**, **while** **DEW** **authors** **chose** **a** **shape** **that** **poisoned** **the** **well** **whether** **or** **not** **they** **were** **paid** **to** **do** **so**.
+
+### 4.6 Movement field patterns (L3 — field notes)
 
 Compressed from **2025–2026** **Substack** / **@911revision** **thread** behavior; **L3** only—**not** elevated to **primary** evidence:
 
@@ -159,7 +192,7 @@ Compressed from **2025–2026** **Substack** / **@911revision** **thread** behav
 - **2021** **vaccine/COVID** **split** as **respectable-lane** **self-purge**—org **ejects** **founder** for **off-mission** speech while **claiming** **open** **inquiry** (cross-read [§1 governance table](#incorporation-board-selection-and-timeline-of-governance-tension-toward-2021), [§5 censorship](#5-censorship-deplatforming-and-similar-people)).
 - **@911revision / ic911a.org** — **DEW-forward** **Substack** + **“Accountability”** **donate** **splash**; **full** **CO** **dossier** [ic911a / 9/11 Revisionist](./ic911a-911revision-controlled-opposition-investigation.md).
 
-### 4.6 Conclusion state (epistemic routing)
+### 4.7 Conclusion state (epistemic routing)
 
 | Layer | Stance | Where |
 | ----- | ------ | ----- |
