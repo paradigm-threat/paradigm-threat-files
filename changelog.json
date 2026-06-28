@@ -1,8 +1,58 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-28T12:17:52.346Z",
+    "date": "2026-06-28T12:18:19.071Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/mars/mars-dagger.md",
+        "href": "/cosmos/mars/mars-dagger"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
+        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-back2.jpg",
+        "alt": "Smith family Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-image.jpg",
+        "alt": "Smith family Mars dagger — full view with scabbard"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-front.jpg",
+        "alt": "Mars dagger — Seal of Mars on blade"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/globalist_stranglehold.jpg",
+        "alt": "The Deep State on Mars — City of London, Vatican City, and Washington D.C. (finance, religion, military)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/gutenberg_bible_1455.jpg",
+        "alt": "Latin manuscript with rubrication and struck-through lines — church print gatekeeping (Gutenberg-era Bible page)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
+        "alt": "Promised land — post-MFEE rehabilitation and delivery narratives (investigation header)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
+        "alt": "Quantum computer / infinitely indexed storage — analog memory and embedded signal thesis (investigation header)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
+        "alt": "Joseph Smith mystery solved — crystal-memory interpretation (Quantum Leap of faith)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-28T12:17:51.000Z",
+    "message": "Reframe Mars dagger essay: Martian reaction and hijack-only containment.",
     "files": [
       {
         "status": "M",
@@ -2090,24 +2140,6 @@
       {
         "src": "https://paradigmthreat.net/science/health/frequency_health.jpg",
         "alt": "Royal Rife — frequency medicine and suppression investigation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-25T13:30:42.000Z",
-    "message": "Add §5.4 cancer-cure evidence inventory from correspondence and lab OCR.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md",
-        "href": "/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/health/frequency_health.jpg",
-        "alt": "Royal Rife suppression investigation — frequency medicine lane (header)"
       }
     ]
   }
