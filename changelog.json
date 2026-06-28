@@ -1,8 +1,75 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-28T13:21:43.656Z",
+    "date": "2026-06-28T13:22:51.625Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/mars-dagger-investigation.md",
+        "href": "/cosmos/mars/investigations/mars-dagger-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/mars-dagger.md",
+        "href": "/cosmos/mars/mars-dagger"
+      }
+    ],
+    "images": [
+      {
+        "src": "/cosmos/mars/mars-dagger-image.jpg",
+        "alt": "Smith family Mars dagger — full view with scabbard"
+      },
+      {
+        "src": "/cosmos/mars/mars-dagger-front.jpg",
+        "alt": "Mars dagger — Seal of Mars on blade"
+      },
+      {
+        "src": "/cosmos/mars/mars-dagger-back2.jpg",
+        "alt": "Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
+        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-back2.jpg",
+        "alt": "Smith family Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-image.jpg",
+        "alt": "Smith family Mars dagger — full view with scabbard"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-front.jpg",
+        "alt": "Mars dagger — Seal of Mars on blade"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/globalist_stranglehold.jpg",
+        "alt": "The Deep State on Mars — City of London, Vatican City, and Washington D.C. (finance, religion, military)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/gutenberg_bible_1455.jpg",
+        "alt": "Latin manuscript with rubrication and struck-through lines — church print gatekeeping (Gutenberg-era Bible page)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
+        "alt": "Promised land — post-MFEE rehabilitation and delivery narratives (investigation header)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
+        "alt": "Quantum computer / infinitely indexed storage — analog memory and embedded signal thesis (investigation header)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
+        "alt": "Joseph Smith mystery solved — crystal-memory interpretation (Quantum Leap of faith)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-28T13:21:42.000Z",
+    "message": "Mars dagger: split movie paragraph; Endgame Power Stone trap quote.",
     "files": [
       {
         "status": "M",
@@ -1338,77 +1405,6 @@
       {
         "src": "https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
         "alt": "Franklin Palatine Boors vs Moors — screenshot forensics (Palatine Moors, black German King George II)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-26T14:04:58.000Z",
-    "message": "Add June 27 roundup blog and cosmology Q3 hall-of-mirrors thread.",
-    "files": [
-      {
-        "status": "A",
-        "path": ".cursor/rules/paradigm-threat-cosmology-qa.mdc",
-        "href": "/.cursor/rules/paradigm-threat-cosmology-qa.mdc"
-      },
-      {
-        "status": "A",
-        "path": "blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai.md",
-        "href": "/blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/cosmology/qa/page.md",
-        "href": "/cosmos/cosmology/qa"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/cosmology/qa/q01-big-melt-eternal-universe-solar-cycle.md",
-        "href": "/cosmos/cosmology/qa/q01-big-melt-eternal-universe-solar-cycle"
-      },
-      {
-        "status": "A",
-        "path": "cosmos/cosmology/qa/q03-hall-of-mirrors-plasma-hubble-thread.md",
-        "href": "/cosmos/cosmology/qa/q03-hall-of-mirrors-plasma-hubble-thread"
-      },
-      {
-        "status": "M",
-        "path": "docs/LLM_COSMOLOGY_QA.md",
-        "href": "/docs/LLM_COSMOLOGY_QA"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
-        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
-        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.png",
-        "alt": "The Internet That Should Have Been — machine-readable web, wrong timeline, AI gate"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png",
-        "alt": "The Peace Deal Nobody Cares About — universal dissatisfaction, Islamabad MOU, and Strait of Hormuz"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/royal-rife-frequency-medicine-suppression.png",
-        "alt": "Royal Rife — what the letters say when the banquet only heard the microscope"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.png",
-        "alt": "The Hidden History of Words — lexical reset, Latin breakaway, and the Horde redaction wall"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.png",
-        "alt": "Moorish ten presidents — meme refutation and Horde-fracture interpretive lane"
-      },
-      {
-        "src": "https://paradigmthreat.net/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
-        "alt": "Richard Gage / AE911Truth — controlled demolition lane and DEW hangout read"
       }
     ]
   }
