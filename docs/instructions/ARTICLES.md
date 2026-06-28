@@ -72,6 +72,7 @@ Articles are written so they can be **republished or read off-site** without sou
 - **Links:** In **article** bodies, use **absolute** `https://paradigmthreat.net/...` URLs for every internal page and image (**same as `blog/`**). Describe targets by **topic**, not by filing system (“see the linked DNA **blueprint critique**,” not “see our biology dossier”).
 - **First person — personal lane only:** Use **I / me / my** only for **personal experience**, **direct memory**, or **explicit personal stance** the reader should attribute to a human speaker. Keep **theory, history, and physics claims** in **neutral / documentary** third person (“this model holds…,” “the record suggests…”).
 - **Neutral ≠ timid:** You may still write **hard thesis** and **manifesto** cadence; just separate **voice** (optional **I**) from **content** (documentary).
+- **Magic (lexical rule):** When articles cite historical or scholarly *magic*, link or gloss per [**magic as operator technology**](https://paradigmthreat.net/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md) — *magic* = demonstrable operator tech misfiled as supernatural; quote sources verbatim, argue in **operator protocol** voice.
 
 ### Theory-led pacing (default for parent-folder articles)
 

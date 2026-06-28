@@ -14,7 +14,7 @@ This is a **historical and philosophical** stance, not a claim that every ancien
 
 **Anti–chronological snobbery.** C. S. Lewis’s *chronological snobbery* is the error of assuming the latest fashion is truer. Paradigm Threat **inverts the default**: novelty must **earn** trust against a **prisca** baseline.
 
-**Compatible threads in this repo.** Terrain vs germs (Béchamp, Roytas), pyramid shelter/hospital until the **11th century**, Rus–Horde chronology, ætheric disease, captured technology (well → utility, ward → metered medicine), Flexner gatekeeping, radiation cure suppression, and **prisca sapientia** as the **umbrella** that explains **why** those lanes belong in one project.
+**Compatible threads in this repo.** Terrain vs germs (Béchamp, Roytas), pyramid shelter/hospital until the **11th century**, Rus–Horde chronology, ætheric disease, captured technology (well → utility, ward → metered medicine), Flexner gatekeeping, radiation cure suppression, [**magic as operator technology**](MAGIC_AS_OPERATOR_TECHNOLOGY.md) (recovered “magic” is degraded tech, not the supernatural), and **prisca sapientia** as the **umbrella** that explains **why** those lanes belong in one project.
 
 ---
 

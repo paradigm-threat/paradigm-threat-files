@@ -1,11 +1,26 @@
 # Investigation: Mars Dagger — Ritual Hardware, Post-MFEE Recovery, and the Smith Analog-Index Line
 
-> **TL;DR:** The so-called **Mars Dagger** is from the **same Smith family** as **Joseph Smith** (Mormon founder) — **Joseph Smith Sr.'s** household, **Hyrum Smith** patriarch relic inventory (Corbett 1963), same kit as seer stones and Jupiter talisman (§I.B). ~10-inch steel knife inscribed with **Hebrew Adonai**, **Seal of Mars**, **Intelligence of Mars**, **Scorpio** (♏). Mainstream Mormon studies read the marks as **copied from Francis Barrett's *The Magus* (1801)** — **keeper-cult transmission**, not invention (§3.5). **Reader essay:** [The Mars Dagger — What Leaks When Buried Knowledge Surfaces](/cosmos/mars/mars-dagger.md) — leak-not-recruitment thesis; Mormonism as **organic danger demonstration**; **NDD** breakaway suppression of history/religion/science; **millions of smaller leaks** likely erased; Book of Mormon as **massive uncontainable leak**; **incomplete** Carthage containment; **Scientology** parallel (§3.7.1–3.7.3). In this repo **Mars is not split** from astrological ♂: the dagger is **Mars-cluster ritual hardware** for post-[MFEE](/history/mudflood) circles. **Guardians are circumstantial** (§7.0). Post-MFEE breakaway Mars had **weak influence** — **not** Mormon co-creation (§3.6–3.7). Plates = **analog/crystal memory index**.
+> **TL;DR:** The so-called **Mars Dagger** is from the **same Smith family** as **Joseph Smith** (Mormon founder) — **Joseph Smith Sr.'s** household, **Hyrum Smith** patriarch relic inventory (Corbett 1963), same kit as seer stones and Jupiter talisman (§I.B). ~10-inch steel knife inscribed with **Hebrew Adonai**, **Seal of Mars**, **Intelligence of Mars**, **Scorpio** (♏). Mainstream Mormon studies read the marks as **copied from Francis Barrett's *The Magus* (1801)** — **keeper-cult transmission**, not invention (§3.5). **Reader essay:** [The Mars Dagger — Joseph Smith's Household Hardware](/cosmos/mars/mars-dagger.md) — leak-not-recruitment thesis; Mormonism as **organic danger demonstration**; **NDD** breakaway suppression of history/religion/science; **millions of smaller leaks** likely erased; Book of Mormon as **massive uncontainable leak**; **incomplete** Carthage containment; **Scientology** parallel (§3.7.1–3.7.3). In this repo **Mars is not split** from astrological ♂: the dagger is **Mars-cluster ritual hardware** for post-[MFEE](/history/mudflood) circles. **Guardians are circumstantial** (§7.0). Post-MFEE breakaway Mars had **weak influence** — **not** Mormon co-creation (§3.6–3.7). Plates = **analog/crystal memory index**. **Magic** = operator technology per [§0.2](#02-lexicon--magic-as-operator-technology).
 
 **Date:** 2026-06-27  
 **Status:** Open
 
-**Related:** [Reader essay — Mars dagger](/cosmos/mars/mars-dagger.md) · [Mars hub](/cosmos/mars/page.md) · [MFEE investigation](/history/mudflood/investigations/mfee-investigation.md) · [Promised land / post-MFEE rehabilitation](/history/mudflood/investigations/promised-land-investigation.md) · [Cargo cults / manna obedience](/history/mudflood/investigations/cargo-cults-investigation.md) · [Quantum storage / Smith crystal-memory §2.4](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) · [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md)
+**Related:** [Reader essay — Mars dagger](/cosmos/mars/mars-dagger.md) · [Magic as operator technology](/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md) · [Mars hub](/cosmos/mars/page.md) · [MFEE investigation](/history/mudflood/investigations/mfee-investigation.md) · [Promised land / post-MFEE rehabilitation](/history/mudflood/investigations/promised-land-investigation.md) · [Cargo cults / manna obedience](/history/mudflood/investigations/cargo-cults-investigation.md) · [Quantum storage / Smith crystal-memory §2.4](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) · [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md)
+
+---
+
+## 0.2 Lexicon — magic as operator technology
+
+**Repo rule:** [**Magic as operator technology**](/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md) — *magic* = **misfiled operator technology** whose effects are **demonstrable in nature** or **reproducible in a lab**. Supernatural magic is **not supported**. Historical sources (affidavits, Ashurst-McGee, Barrett, Quinn) use *magic* verbatim; this dossier glosses as **operator protocol**, **keeper hardware**, **coupling**.
+
+| Public / scholarly label | Repo label (§3.3) |
+|--------------------------|-------------------|
+| Treasure digging, folk magic | Mars-faction recovery / ritual hardware |
+| Magic circles, magic dagger | Operator boundary + consecrated blade |
+| Spirits, guardians, Moroni | Coupling phenomenology / redacted breach vocabulary |
+| Revelation, gold plates | Analog index read by resonance |
+
+**Folk magic is the redacted job description** (§3.2) — embarrassment and containment language applied to tech the public was taught to ridicule.
 
 ---
 
@@ -451,7 +466,7 @@ Treasure hunters who only had **partial** kit (stone without circle, or circle w
 
 ## VII. Spirit guardians — circumstantial haunting, folk theater, and the Moroni morph
 
-> **Epistemic frame (author correction):** Guardian phenomena at treasure and plate sites are **very interesting** but **not** recommended reading as **Mars access-control hardware**. They are **circumstantial** — a consequence of **how** post-MFEE deposits were buried, **who** was buried with them, and what **memory** was embedded in the medium. Folk magic and grimoire protocol (**circles, dagger, Adonai**) are how **operators tried to survive breach events** — not proof Mars faction installed DRM on every chamber.
+> **Epistemic frame (author correction):** Guardian phenomena at treasure and plate sites are **very interesting** but **not** recommended reading as **Mars access-control hardware**. They are **circumstantial** — a consequence of **how** post-MFEE deposits were buried, **who** was buried with them, and what **memory** was embedded in the medium. Folk magic and grimoire protocol (**circles, dagger, Adonai**) are how **operators tried to survive breach events** — not proof Mars faction installed DRM on every chamber. Apparitions and guardian images are **coupling phenomenology** in the [magic-as-technology lexicon](/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md) — demonstrable altered-state and embedded-signal classes — **not** license for undemonstrable supernatural causation.
 
 ### 7.0 Circumstantial guardians — burial chambers, embedded memory, seal breach
 
@@ -664,13 +679,14 @@ Vogel: this **legitimized** the treasure seer who succeeds where others fail —
 - **Crystal-memory / Mars-operator claims** are **author thesis**; tier as speculative unless new primary evidence surfaces.
 - **§3.5–3.7** — Keeper-cult transmission on Earth; **NDD** leak suppression; **incomplete containment**; **Scientology** parallel; **Mars reactive containment**, not Mormon co-creation; see [reader essay](/cosmos/mars/mars-dagger.md).
 - **§7.0 / §3.6** — **Guardian phenomena are circumstantial** (MFEE burial + memory release), **not** Mars access-control devices; do not conflate with **Mars dagger** operator hardware.
+- **Magic (lexical):** [Magic as operator technology](/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md) — supernatural *magic* is **not supported**; historical *magic* language is quoted, not endorsed as metaphysics.
 - **"Manuals" shorthand rejected** in-repo: transmission is **cultic** (mentor, dig crew, bloodline), not peasant DIY from bookstore browsing.
 
 ---
 
 ## X. Cross-references
 
-- [Reader essay — The Mars Dagger](/cosmos/mars/mars-dagger.md) — first-person argument; leak, hijack, containment
+- [Reader essay — The Mars Dagger — Joseph Smith's Household Hardware](/cosmos/mars/mars-dagger.md) — first-person argument; leak, hijack, containment
 
 **Reader essay — corpus image reuse (2026-06-27):** Essay embeds canonical art from linked lanes (absolute `https://paradigmthreat.net/...` URLs; not copied into `cosmos/mars/`):
 

@@ -12,6 +12,8 @@
 
 **Epistemic foundation (all investigations and articles):** **[`docs/PRISCA_SAPIENTIA.md`](PRISCA_SAPIENTIA.md)** — **prisca sapientia**: the ancients possessed vast understanding of universe, nature, and theology; later science and institutions degraded or captured it. **Required:** every `*investigation*.md` opens **Limits and disclaimers** with the standard **Prisca sapientia** paragraph (below); articles include it in **`## Framing and limits`** (or link once there).
 
+**Magic / operator technology (investigations citing ceremonial magic, folk magic, grimoires):** **[`docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md`](MAGIC_AS_OPERATOR_TECHNOLOGY.md)** — *magic* = misfiled technology **demonstrable in nature or lab**; supernatural magic is **not supported**. Link once in **Guide** or **Limits** when the dossier uses historical *magic* language.
+
 **Redaction vocabulary (investigations using narrative rewrite / omission / shell narratives):** **[`docs/REDACTION.md`](REDACTION.md)** — six composable operations **R1–R6** (subtractive through shell/misdirection); **Fomenko / Biblical class** = **R4** (inversive); tag **documented** vs **inferred**. When a dossier discusses “redaction,” “flattening,” “memoir rewrite,” or “respectable shell” press, link **REDACTION.md** once in **Guide** or a dedicated **§0.x** applied table (see [Royal Rife §0.1](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md)).
 
 **Standard paragraph (investigations — paste at top of Limits):**

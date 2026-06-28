@@ -1,8 +1,106 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-27T15:35:49.919Z",
+    "date": "2026-06-28T12:15:11.862Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/mars-dagger-investigation.md",
+        "href": "/cosmos/mars/investigations/mars-dagger-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/mars-dagger.md",
+        "href": "/cosmos/mars/mars-dagger"
+      },
+      {
+        "status": "A",
+        "path": "docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md",
+        "href": "/docs/MAGIC_AS_OPERATOR_TECHNOLOGY"
+      },
+      {
+        "status": "M",
+        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
+        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
+      },
+      {
+        "status": "M",
+        "path": "docs/PRISCA_SAPIENTIA.md",
+        "href": "/docs/PRISCA_SAPIENTIA"
+      },
+      {
+        "status": "M",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      }
+    ],
+    "images": [
+      {
+        "src": "/cosmos/mars/mars-dagger-image.jpg",
+        "alt": "Smith family Mars dagger — full view with scabbard"
+      },
+      {
+        "src": "/cosmos/mars/mars-dagger-front.jpg",
+        "alt": "Mars dagger — Seal of Mars on blade"
+      },
+      {
+        "src": "/cosmos/mars/mars-dagger-back2.jpg",
+        "alt": "Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
+        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-back2.jpg",
+        "alt": "Smith family Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-image.jpg",
+        "alt": "Smith family Mars dagger — full view with scabbard"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-front.jpg",
+        "alt": "Mars dagger — Seal of Mars on blade"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/globalist_stranglehold.jpg",
+        "alt": "The Deep State on Mars — City of London, Vatican City, and Washington D.C. (finance, religion, military)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/gutenberg_bible_1455.jpg",
+        "alt": "Latin manuscript with rubrication and struck-through lines — church print gatekeeping (Gutenberg-era Bible page)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
+        "alt": "Promised land — post-MFEE rehabilitation and delivery narratives (investigation header)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
+        "alt": "Quantum computer / infinitely indexed storage — analog memory and embedded signal thesis (investigation header)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
+        "alt": "Joseph Smith mystery solved — crystal-memory interpretation (Quantum Leap of faith)"
+      },
+      {
+        "src": "/docs/)`)."
+      },
+      {
+        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)",
+        "alt": "` / `*.png` / `*.jpg`; prefer **published** `https://paradigmthreat.net/...` URLs (timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`). **Placement:** one image **after** the paragraph that introduces the topic (illustrate the **linked investigation**, not decorate every section). **Alt text:** name the **source lane** and **what the reader should see** (e.g. “Historical antibodies — timeline chapter,” “Call of Duty militainment — Krasinski operator arc”). **Do not** copy images into the article folder unless you are creating **new** art; **link** to the canonical file in its home directory. **Consecutive-article cap:** the **same image file** must **not** appear in **two reader-facing articles published back-to-back** (the immediately prior shipped article and the one you are writing now). Reuse across the corpus is fine with spacing; when the prior article already used an asset, pick a **sibling image** from the same lane or **omit** the embed. **Newsletter budget:** many large PNGs + hero can trigger Gmail clipping—prefer **fewer, well-placed** reuses over a gallery; see **Length → Newsletter / inbox check**. **Reference:** [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`"
+      },
+      {
+        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
+        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. **No “narrative spine” / companion-dossier routing** between the hook and the first `##` body section — that belongs in **`## Where next`** (see Shape step 6). Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Series installments:** read the **prior installment** in full; cut shared frame that Installment I already taught. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-27T15:35:48.000Z",
+    "message": "Polish Mars dagger essay: guardians, images, and article image reuse rule.",
     "files": [
       {
         "status": "M",
@@ -1982,63 +2080,6 @@
       {
         "src": "/science/health/frequency_health.jpg",
         "alt": "Royal Rife suppression meme audit — frequency medicine lane (investigation header)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-25T12:49:06.000Z",
-    "message": "Add Epstein investigation cluster with online citation bank.",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
-        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
-      },
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/09-11-investigation.md",
-        "href": "/events/false_flag/investigations/09-11-investigation"
-      },
-      {
-        "status": "A",
-        "path": "events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md",
-        "href": "/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation"
-      },
-      {
-        "status": "A",
-        "path": "events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md",
-        "href": "/events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation"
-      },
-      {
-        "status": "A",
-        "path": "events/false_flag/investigations/epstein-island-archipelago-blackmail-investigation.md",
-        "href": "/events/false_flag/investigations/epstein-island-archipelago-blackmail-investigation"
-      },
-      {
-        "status": "A",
-        "path": "events/false_flag/investigations/epstein-online-citations-research-bank.md",
-        "href": "/events/false_flag/investigations/epstein-online-citations-research-bank"
-      },
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
-        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/pitcairn-bounty-mutiny-sovereignty-and-narratives.md",
-        "href": "/governance/war/investigations/pitcairn-bounty-mutiny-sovereignty-and-narratives"
-      }
-    ],
-    "images": [
-      {
-        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
-        "alt": "Richard Gage / AE911Truth — investigation header graphic"
-      },
-      {
-        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png",
-        "alt": "Richard Gage / AE911Truth — investigation graphic (charity envelope, open-air prison)"
       }
     ]
   }
