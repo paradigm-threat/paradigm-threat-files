@@ -1,6 +1,6 @@
 # Investigation: Mars Dagger — Ritual Hardware, Post-MFEE Recovery, and the Smith Analog-Index Line
 
-> **TL;DR:** The so-called **Mars Dagger** is from the **same Smith family** as **Joseph Smith** (Mormon founder) — **Joseph Smith Sr.'s** household, **Hyrum Smith** patriarch relic inventory (Corbett 1963), same kit as seer stones and Jupiter talisman (§I.B). ~10-inch steel knife inscribed with **Hebrew Adonai**, **Seal of Mars**, **Intelligence of Mars**, **Scorpio** (♏). Mainstream Mormon studies read the marks as **copied from Francis Barrett's *The Magus* (1801)** — **keeper-cult transmission**, not invention (§3.5). **Reader essay:** [The Mars Dagger — Joseph Smith's Household Hardware](/cosmos/mars/mars-dagger.md) — organic leak; **Martian reaction**; **hijack-only** containment (not full seal); Mormonism as **organic danger demonstration**; **NDD** breakaway suppression of history/religion/science; **millions of smaller leaks** likely erased; Book of Mormon as **massive uncontainable leak**; **incomplete** Carthage containment; **Scientology** parallel (§3.7.1–3.7.3). In this repo **Mars is not split** from astrological ♂: the dagger is **Mars-cluster ritual hardware** for post-[MFEE](/history/mudflood) circles. **Guardians are circumstantial** (§7.0). Post-MFEE breakaway Mars had **weak influence** — **not** Mormon co-creation (§3.6–3.7). Plates = **analog/crystal memory index**. **Magic** = operator technology per [§0.2](#02-lexicon--magic-as-operator-technology).
+> **TL;DR:** The so-called **Mars Dagger** is from the **same Smith family** as **Joseph Smith** (Mormon founder) — **Joseph Smith Sr.'s** household, **Hyrum Smith** patriarch relic inventory (Corbett 1963), same kit as seer stones and Jupiter talisman (§I.B). ~10-inch steel knife inscribed with **Hebrew Adonai**, **Seal of Mars**, **Intelligence of Mars**, **Scorpio** (♏). Mainstream Mormon studies read the marks as **copied from Francis Barrett's *The Magus* (1801)** — **keeper-cult transmission**, not invention (§3.5). **Reader essay:** [The Mars Dagger — Joseph Smith's Household Hardware](/cosmos/mars/mars-dagger.md) — **Horde unified treasure protocol**; **use-not-build** priest class; **master keys on Mars**; inner cult since empire birth (§3.4.1); organic leak; **Martian reaction**; **hijack-only** containment (not full seal); Mormonism as **organic danger demonstration**; **NDD** breakaway suppression of history/religion/science; **millions of smaller leaks** likely erased; Book of Mormon as **massive uncontainable leak**; **incomplete** Carthage containment; **Scientology** parallel (§3.7.1–3.7.3). In this repo **Mars is not split** from astrological ♂: the dagger is **Mars-cluster ritual hardware** for post-[MFEE](/history/mudflood) circles. **Guardians are circumstantial** (§7.0). Post-MFEE breakaway Mars had **weak influence** — **not** Mormon co-creation (§3.6–3.7). Plates = **analog/crystal memory index**. **Magic** = operator technology per [§0.2](#02-lexicon--magic-as-operator-technology).
 
 **Date:** 2026-06-27  
 **Status:** Open
@@ -134,11 +134,30 @@ The **Smith family kit** (Jupiter talisman, three magic parchments, pouch, Mars 
 
 Open branches (not mutually exclusive):
 
-1. **Keeper-cult transmission** — planetary Mars/Saturn operator lines fractured after empire split; Smith kit inherited through **family + dig-crew mentors** (Walters, regional occult line). **Not** a Rus-Horde breakaway cult origin ([reader essay §2](/cosmos/mars/mars-dagger.md)).
-2. **Handler / mentor channel (terrestrial)** — e.g. **Luman Walters** (Palmyra "magician": magic circles, cock sacrifice, ceremonial **sword**, **Latin book**, seer stone); Quinn theorizes Walters crafted Smith **parchments**. Walters = **Earth-side cult transmission**, not proven Mars recruiter.
-3. **Found object + sole operator** — plates (or other buried tech) recovered locally; **only Smith** could couple to the index (acquisition: found vs purchased from a non-operator remains **open**).
+1. **Inner keeper cult (Horde compartment)** — nested inside the **Russian Horde** world empire since its founding; **one treasure-encoding protocol** empire-wide; priest class trained **use-not-build**; **master keys on Mars**; secrets **never** spread to general population; line **survived empire collapse** in grimoire + heirloom form ([reader essay §2](/cosmos/mars/mars-dagger.md)).
+2. **Keeper-cult transmission (post-fracture)** — planetary Mars/Saturn operator lines fractured after empire split; Smith kit inherited through **family + dig-crew mentors** (Walters, regional occult line).
+3. **Handler / mentor channel (terrestrial)** — e.g. **Luman Walters** (Palmyra "magician": magic circles, cock sacrifice, ceremonial **sword**, **Latin book**, seer stone); Quinn theorizes Walters crafted Smith **parchments**. Walters = **Earth-side cult transmission**, not proven Mars recruiter.
+4. **Found object + sole operator** — plates (or other buried tech) recovered locally; **only Smith** could couple to the index (acquisition: found vs purchased from a non-operator remains **open**).
 
-**Epistemic note:** Documented chain of custody is **terrestrial**. **Mars breakaway did not plan Mormonism** (§3.7). Mars import on the **blade** is **not proven**; keeper-line **incompetence-amnesia vs partial protocol retention** explains why random survivors could not open deposits — but Smith could.
+**Epistemic note:** Documented chain of custody is **terrestrial**. **Mars breakaway did not plan Mormonism** (§3.7). Mars import on the **blade** is **not proven**; **Horde-inner cult + use-not-build** explains partial protocol retention without claiming Martian manufacture of the dagger.
+
+### 3.4.1 Horde unified protocol, Mars master keys, inner cult — author synthesis (2026-06-26)
+
+**Session synthesis:** The Russian Horde **world empire** likely deployed **one treasure-encoding protocol** across its domains — not regional superstition but a **single operator stack** for locate → seal → reopen. A **priest class** probably understood **basic mechanisms** well enough to **operate** and perhaps **replicate** parts of the system. **Core invention on Earth** is **doubted** in-repo; surviving hardware reads as **imported technology** with encoded manuals.
+
+| Layer | Repo read |
+|-------|-----------|
+| **Horde birth** | Empire **relied on captured religious networks** — including lines **defeated in Jerusalem** — to run treasure infrastructure it did not fully originate |
+| **Control architecture** | Knowledge **encoded** (sigils, divine names, Latin gates, initiation tiers), **not** spread as common literacy — **early compartmentalization** |
+| **Absorption ≠ mastery** | Libraries and liturgies **absorbed**; **final unlock grammar** not necessarily **controlled** by the center |
+| **Mars master stack** | Deepest keys — full **rebuild / unlock** capacity — held **on Mars**, outside provincial priesthoods |
+| **Use-not-build** | Operators outside central compartment trained **how to use**, not **how to build** |
+| **Dagger provenance** | **No Martian manufacture required** — only an **inner cult since empire birth** that **never spread** inner secrets and **kept them after fall** |
+| **Modern rhyme** | **CIA** parallel — institution **invents itself**, sells **justification for secrets from own citizens**; bargain **failed** for defeated Horde and **rhymes** with modern leak crises |
+
+**Implication for Smith kit:** Barrett-line inscriptions are **compartment residue** — protocol ID from a **control system** that predates Palmyra, not DIY occultism. Mormonism = **leak from a fence the empire thought it had built**.
+
+**Not claimed:** documented proof Horde central explicitly stored master keys on Mars; proof dagger is non-Earth metallurgy; proof CIA modeled on Horde priest class.
 
 ### 3.5 Transmission — invention, "manuals," and keeper cult lines
 
@@ -220,8 +239,8 @@ Parallel stack to Smith **dagger + parchments + stone**. Quinn theorizes Walters
 
 ```text
 Layer A (symbols):  European occult → Barrett → Walters? → Smith kit
-Layer B (operators): Keeper-cult transmission on Earth post-MFEE
-Layer C (Mars):      Weak influence; reactive containment when leak scales (§3.7) — not Smith recruitment
+Layer B (operators): Horde-inner keeper cult + post-fracture transmission on Earth
+Layer C (Mars):      Master keys off-world; weak surface influence; reactive containment when leak scales (§3.7) — not Smith recruitment
 ```
 
 Mainstream scholarship mostly stops at Layer A and waves at Walters. **Reader essay + this investigation** add Layer B (keeper fracture) and Layer C (containment, not co-creation).
@@ -246,7 +265,7 @@ Mainstream scholarship mostly stops at Layer A and waves at Walters. **Reader es
 |------|-------|
 | **Documented** | Barrett-line inscriptions; Walters parallel kit; regional dig culture; Carthage 1844 facts; no Mars on blade provenance |
 | **Scholarly inference** | Terrestrial cultic transmission via mentor/book — **not** independent invention |
-| **Repo extension (author thesis)** | Keeper-cult fracture + **organic leak** of pre-cataclysmic knowledge; **NDD** suppression mandate; **millions of smaller leaks** likely erased; Book of Mormon as **massive uncontainable leak**; **incomplete** Carthage containment; **Scientology** parallel (§3.7.1–3.7.3); **not** Mars-planned Mormonism ([reader essay](/cosmos/mars/mars-dagger.md)) |
+| **Repo extension (author thesis)** | **Horde unified protocol** + Jerusalem-absorbed networks; **use-not-build** compartment; **master keys on Mars**; inner cult since empire birth; **CIA secrecy rhyme**; keeper-cult fracture + **organic leak** of pre-cataclysmic knowledge; **NDD** suppression mandate; **millions of smaller leaks** likely erased; Book of Mormon as **massive uncontainable leak**; **incomplete** Carthage containment; **Scientology** parallel (§3.7.1–3.7.3); **not** Mars-planned Mormonism ([reader essay](/cosmos/mars/mars-dagger.md)) |
 
 ### 3.6 Post-MFEE breakaway influence ceiling — what Mars humans could and could not do
 
