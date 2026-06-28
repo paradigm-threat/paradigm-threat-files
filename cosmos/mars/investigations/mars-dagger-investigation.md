@@ -5,7 +5,7 @@
 **Date:** 2026-06-27  
 **Status:** Open
 
-**Related:** [Reader essay — Mars dagger](/cosmos/mars/mars-dagger.md) · [Magic as operator technology](/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md) · [Mars hub](/cosmos/mars/page.md) · [MFEE investigation](/history/mudflood/investigations/mfee-investigation.md) · [Promised land / post-MFEE rehabilitation](/history/mudflood/investigations/promised-land-investigation.md) · [Cargo cults / manna obedience](/history/mudflood/investigations/cargo-cults-investigation.md) · [Quantum storage / Smith crystal-memory §2.4](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) · [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md)
+**Related:** [Reader essay — Mars dagger](/cosmos/mars/mars-dagger.md) · [**Substack — reader essay**](https://open.substack.com/pub/paradigmthreat2/p/the-mars-dagger-joseph-smiths-household) · [Magic as operator technology](/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md) · [Mars hub](/cosmos/mars/page.md) · [MFEE investigation](/history/mudflood/investigations/mfee-investigation.md) · [Promised land / post-MFEE rehabilitation](/history/mudflood/investigations/promised-land-investigation.md) · [Cargo cults / manna obedience](/history/mudflood/investigations/cargo-cults-investigation.md) · [Quantum storage / Smith crystal-memory §2.4](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) · [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md)
 
 ---
 

@@ -1,8 +1,84 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-28T13:38:46.642Z",
+    "date": "2026-06-28T13:45:13.367Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/mars-dagger-investigation.md",
+        "href": "/cosmos/mars/investigations/mars-dagger-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/mars-dagger.md",
+        "href": "/cosmos/mars/mars-dagger"
+      },
+      {
+        "status": "M",
+        "path": "science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md",
+        "href": "/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/cosmos/mars/mars-dagger-image.jpg",
+        "alt": "Smith family Mars dagger — full view with scabbard"
+      },
+      {
+        "src": "/cosmos/mars/mars-dagger-front.jpg",
+        "alt": "Mars dagger — Seal of Mars on blade"
+      },
+      {
+        "src": "/cosmos/mars/mars-dagger-back2.jpg",
+        "alt": "Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
+        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-back2.jpg",
+        "alt": "Smith family Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-image.jpg",
+        "alt": "Smith family Mars dagger — full view with scabbard"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-front.jpg",
+        "alt": "Mars dagger — Seal of Mars on blade"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/globalist_stranglehold.jpg",
+        "alt": "The Deep State on Mars — City of London, Vatican City, and Washington D.C. (finance, religion, military)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/gutenberg_bible_1455.jpg",
+        "alt": "Latin manuscript with rubrication and struck-through lines — church print gatekeeping (Gutenberg-era Bible page)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
+        "alt": "Promised land — post-MFEE rehabilitation and delivery narratives (investigation header)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
+        "alt": "Quantum computer / infinitely indexed storage — analog memory and embedded signal thesis (investigation header)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
+        "alt": "Joseph Smith mystery solved — crystal-memory interpretation (Quantum Leap of faith)"
+      },
+      {
+        "src": "/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
+        "alt": "Quantum computer / infinitely indexed storage — investigation header"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-28T13:38:45.000Z",
+    "message": "Mars dagger: remove Carthage falsification-bar paragraph.",
     "files": [
       {
         "status": "M",
@@ -1292,119 +1368,6 @@
       {
         "src": "https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
         "alt": "Franklin Palatine Boors vs Moors — screenshot forensics (Palatine Moors, black German King George II)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-26T14:43:18.000Z",
-    "message": "Document June 2026 Instagram and Substack platform blocks.",
-    "files": [
-      {
-        "status": "M",
-        "path": "blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai.md",
-        "href": "/blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai"
-      },
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
-        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/censorship/github-ban.md",
-        "href": "/influence/censorship/github-ban"
-      },
-      {
-        "status": "A",
-        "path": "influence/censorship/instagram-image-upload-blocked-2026-06.png",
-        "href": "/influence/censorship/instagram-image-upload-blocked-2026-06.png"
-      },
-      {
-        "status": "A",
-        "path": "influence/censorship/platform-blocks-instagram-substack-2026-06.md",
-        "href": "/influence/censorship/platform-blocks-instagram-substack-2026-06"
-      },
-      {
-        "status": "A",
-        "path": "influence/censorship/substack-edit-page-not-found-2026-06.png",
-        "href": "/influence/censorship/substack-edit-page-not-found-2026-06.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/censorship/instagram-image-upload-blocked-2026-06.png"
-      },
-      {
-        "src": "/influence/censorship/substack-edit-page-not-found-2026-06.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
-        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
-        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.png",
-        "alt": "The Internet That Should Have Been — machine-readable web, wrong timeline, AI gate"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png",
-        "alt": "The Peace Deal Nobody Cares About — universal dissatisfaction, Islamabad MOU, and Strait of Hormuz"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/royal-rife-frequency-medicine-suppression.png",
-        "alt": "Royal Rife — what the letters say when the banquet only heard the microscope"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.png",
-        "alt": "The Hidden History of Words — lexical reset, Latin breakaway, and the Horde redaction wall"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.png",
-        "alt": "Moorish ten presidents — meme refutation and Horde-fracture interpretive lane"
-      },
-      {
-        "src": "https://paradigmthreat.net/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
-        "alt": "Richard Gage / AE911Truth — controlled demolition lane and DEW hangout read"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/censorship/instagram-image-upload-blocked-2026-06.png",
-        "alt": "Instagram — image post blocked, generic error modal (June 2026)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/censorship/substack-edit-page-not-found-2026-06.png",
-        "alt": "Substack — Page not found on own posts while Latest still lists titles (June 2026)"
-      },
-      {
-        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
-        "alt": "Richard Gage / AE911Truth — investigation header graphic"
-      },
-      {
-        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png",
-        "alt": "Richard Gage / AE911Truth — investigation graphic (charity envelope, open-air prison)"
-      },
-      {
-        "src": "/influence/censorship/github-ban.png",
-        "alt": "GitHub Actions disabled for user — paradigm-threat-files"
-      },
-      {
-        "src": "/influence/censorship/github-ban2.png",
-        "alt": "GitHub Actions / workflow failure (continued)"
-      },
-      {
-        "src": "/influence/censorship/github-ban3.png",
-        "alt": "GitHub restriction context (continued)"
-      },
-      {
-        "src": "/influence/censorship/github-ban4.png",
-        "alt": "GitHub restriction context (continued)"
-      },
-      {
-        "src": "/influence/censorship/github-ban5.png",
-        "alt": "GitHub restriction context (continued)"
       }
     ]
   }

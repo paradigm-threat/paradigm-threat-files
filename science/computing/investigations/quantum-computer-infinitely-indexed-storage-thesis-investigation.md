@@ -203,7 +203,7 @@ The following is the **author-supplied** position for **Paradigm Threat**. It is
 | [Mars stock correlation — quantum entanglement mention](/cosmos/mars/investigations/mars-stock-market-correlation.md) | Repo already names quantum entanglement in a nonstandard cosmology context—tone match for this speculative lane. |
 | [Aether and consciousness (RV fiction lane)](/science/telepathy/remote_viewing/aether-consciousness.md) | Optional rhymes with nonlocal access / field-index language; not an equivalence to §2. |
 | [Mars hub — CERN, gates, hollow-world language](/cosmos/mars/page.md) | Site cosmology for breakaway / interplanetary narratives; locus for §2.2 Mars thread if pursued. |
-| [Mars dagger — reader essay](/cosmos/mars/mars-dagger.md) | §2.4 crystal-memory lane in essay voice: leak, keeper cult, containment |
+| [Mars dagger — reader essay](/cosmos/mars/mars-dagger.md) | §2.4 crystal-memory lane in essay voice: leak, keeper cult, containment · [Substack](https://open.substack.com/pub/paradigmthreat2/p/the-mars-dagger-joseph-smiths-household) |
 | [Mars dagger — Smith ritual hardware / post-MFEE recovery](/cosmos/mars/investigations/mars-dagger-investigation.md) | §2.4 crystal-memory lane: plates + dagger as operator toolchain; treasure digging as buried-tech protocol. |
 | [Mars–Earth reincarnation](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | Mass-death / soul-band hypothesis; optional rhyme with “lost Martian knowledge substrate” (speculative). |
 | [Big Mysteries Survey — consensus theater](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md) | Q10 quantum-gravity fragmentation; public deferral vs survey “no opinion” leaders. |

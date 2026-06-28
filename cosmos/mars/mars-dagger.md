@@ -223,6 +223,8 @@ Hubbard's parallel **science-fiction** career — pulp space opera, *Battlefield
 
 Keywords: #MarsDagger #JosephSmith #MFEE #KeeperCult #LatinGatekeeper #BookOfMormon #Containment #Carthage1844 #TreasureDigging #AnalogMemory #NDD #Scientology #LeakSuppression #MagicAsTechnology #ParadigmThreatFiles
 
+**Substack:** [paradigmthreat2.substack.com/p/the-mars-dagger-joseph-smiths-household](https://open.substack.com/pub/paradigmthreat2/p/the-mars-dagger-joseph-smiths-household)
+
 **Last updated:** 2026-06-27
 
 ---
