@@ -140,11 +140,25 @@ Compressed Palmyra arc (toolchain in [§ breach](#what-the-mud-flood-buried--and
 - **1828–29:** Translation via seer stone in hat; Book of Mormon published **1830**.
 - **1830s:** Church organizes; movement scales beyond any regional dig crew.
 
-Joseph coupled to something **real** through **operator competence** his culture still half-remembered under the **folk-magic label** — not through a breakaway handler at Palmyra, and apparently **without** understanding that scaling the leak would **trigger** Martian reaction. The plates, in my model, are a **crystal-like analog memory object** — read by resonance, not alphabetic literacy — the same technological class I discuss in [Quantum Leap (of faith)](https://paradigmthreat.net/science/computing/quantum-leap-of-faith.md). Variant First Vision dates are different **frequency strata**, not proof he made it all up.
+Joseph coupled to something **real** through **operator competence** — not a breakaway handler at Palmyra, and apparently **without** understanding that scaling would **trigger** Martian reaction. What he actually **saw** in the plates — and why the Book of Mormon reads the way it does — is in [§ What Joseph saw in the plates](#what-joseph-saw-in-the-plates).
+
+Earth humans with partial keeper protocol can **open channels** no center controls. Once Mormonism institutionalized, breakaway Mars **reacted through proxies** — the same class of pressure that peaks at Carthage **1844** and continues as **hijack**: angel Moroni over treasure guardians, Christian respectability over operator kit, tractable church-state politics over open plate protocol.
+
+---
+
+## What Joseph saw in the plates
+
+Full technical lane: [Quantum Leap (of faith)](https://paradigmthreat.net/science/computing/quantum-leap-of-faith.md) · [Quantum storage investigation §2.4](https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md). Here is the compressed read.
+
+Joseph Smith was **only fluent in English**. The people who **recorded** the stories embedded in the deposit almost certainly **did not** speak that language — and the plates were **not** a stack of English pages waiting for a farm boy to read aloud. Alphabetic translation from Reformed Egyptian (or any surface inscription) does **not** explain how he produced **full narrative** at length without sharing a language with the original recorders.
+
+The strongest evidence for **audio-visual playback** is that mismatch itself: Smith participated in an **interchange** — interpret, witness, **write down** — across a language barrier that ordinary literacy cannot bridge. That fits **crystal-like analog memory** embedded in the gold plates: lived perspective at extreme resolution, **shown** rather than **decoded** as text. Seer stone, hat, and resonance coupling are the **read interface**, not seminary homework.
 
 ![Joseph Smith mystery solved — crystal-memory interpretation (Quantum Leap of faith)](https://paradigmthreat.net/science/computing/quantum-leap-of-faith-smith-mystery-solved.png)
 
-Earth humans with partial keeper protocol can **open channels** no center controls. Once Mormonism institutionalized, breakaway Mars **reacted through proxies** — the same class of pressure that peaks at Carthage **1844** and continues as **hijack**: angel Moroni over treasure guardians, Christian respectability over operator kit, tractable church-state politics over open plate protocol.
+On this model, each stratum was a **destructive read**: energy pulled from the embedded crystals **could not be replayed** a second time — Smith lacked the **equipment** to re-address the same layer without **energy loss**. He could **record each story once**, in **his own words**, while **seeing everything with his own eyes**. That is why the Book of Mormon reads as **first-person witness retelling** of scenes he did not invent in English and could not have **translated** in the textbook sense. Variant First Vision dates (1820 / 1832 / 1838) track **different frequency strata** on re-read attempts, not proof he made it all up.
+
+That is the best description I have for how the book was written: **one-pass audio-visual extraction** from a suppressed analog index — not fraud metal, not angel dictation alone, not Joseph inventing ancient Hebrew epic in Palmyra English.
 
 ---
 
@@ -178,7 +192,7 @@ Hubbard's parallel **science-fiction** career — pulp space opera, *Battlefield
 
 ## Where next
 
-- [Mars dagger — full investigation](https://paradigmthreat.net/cosmos/mars/investigations/mars-dagger-investigation.md) — inscriptions, Horde protocol §3.4.1, MFEE detachment §3.4.2, transmission §3.5, containment §3.7, guardians §7.0, Carthage timeline §XI, sources
+- [Mars dagger — full investigation](https://paradigmthreat.net/cosmos/mars/investigations/mars-dagger-investigation.md) — inscriptions, Horde protocol §3.4.1, MFEE detachment §3.4.2, plate read §3.3.1, transmission §3.5, containment §3.7, guardians §7.0, Carthage timeline §XI, sources
 - [Magic as operator technology](https://paradigmthreat.net/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md) — lexical rule for *magic* in this corpus
 - [Quantum Leap (of faith)](https://paradigmthreat.net/science/computing/quantum-leap-of-faith.md) — Smith crystal-memory essay lane
 - [Quantum storage investigation §2.4](https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) — analog index thesis
@@ -199,7 +213,7 @@ Hubbard's parallel **science-fiction** career — pulp space opera, *Battlefield
 
 **Scholarly inference** covers the Smith kit as occult **transmission line** (not DIY invention); plate recovery overlapping treasure-dig protocol; and guardian motifs in primary and academic sources.
 
-**Author thesis** includes **Horde-unified treasure protocol** with Jerusalem-absorbed priest networks; **use-not-build** compartmentalization with **master keys on Mars**; inner keeper cult since empire birth (dagger need not be Martian-made); **MFEE detachment** from interplanetary network and **generational cult amnesia**; **Smith** surname as technology-line marker; Smith household **inside** compartment pre-MFEE, **outside** active cult influence by Joseph Jr.'s dig years; Joseph **unaware** of reaction consequences; **CIA-style secrecy bargain** failing at empire fall and rhyming today; keeper-cult fracture after empire split; Latin as gatekeeper language; **organic Earth-side leak**; **breakaway Mars reaction** when Mormonism scaled; **hijack-only** containment (not full seal); circumstantial guardians; **neglect–deny–deprive** suppression; millions of smaller leaks likely erased; the Book of Mormon as **uncontainable payload**; Carthage as reaction climax; and the Scientology parallel (litigation leak plus science-fiction hoax frame).
+**Author thesis** includes **one-pass audio-visual plate extraction** (English-only Joseph vs non-English embedded recorders; destructive read / energy loss); **Horde-unified treasure protocol** with Jerusalem-absorbed priest networks; **use-not-build** compartmentalization with **master keys on Mars**; inner keeper cult since empire birth (dagger need not be Martian-made); **MFEE detachment** from interplanetary network and **generational cult amnesia**; **Smith** surname as technology-line marker; Smith household **inside** compartment pre-MFEE, **outside** active cult influence by Joseph Jr.'s dig years; Joseph **unaware** of reaction consequences; **CIA-style secrecy bargain** failing at empire fall and rhyming today; keeper-cult fracture after empire split; Latin as gatekeeper language; **organic Earth-side leak**; **breakaway Mars reaction** when Mormonism scaled; **hijack-only** containment (not full seal); circumstantial guardians; **neglect–deny–deprive** suppression; millions of smaller leaks likely erased; the Book of Mormon as **uncontainable payload**; Carthage as reaction climax; and the Scientology parallel (litigation leak plus science-fiction hoax frame).
 
 **Speculative** extensions include **non-Earth origin** of core treasure-encoding tech; **Smith** occupational-name read as operator-caste marker; empire-unified planetary cult origin; **Martian reaction timeline** after 1830 scale-up; embedded cataclysm memory in burial medium; and leak-volume estimates in the thousands to millions.
 

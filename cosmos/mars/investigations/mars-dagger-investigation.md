@@ -117,7 +117,7 @@ After the [MudFlood Energetic Event](/history/mudflood) (~late 18th c.; Pugachev
 
 ### 3.3 Parallel: Joseph Smith analog record index
 
-[Quantum storage investigation §2.4](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) and [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) treat Smith's **plates** as a **crystal-like analog memory object** — extreme-resolution lived perspective, read by **resonance / telepathic coupling**, not alphabetic literacy. Variant First Vision dates (1820 / 1832 / 1838) are read as **different frequency strata**, not fabrication.
+[Quantum storage investigation §2.4](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) and [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) treat Smith's **plates** as a **crystal-like analog memory object** — extreme-resolution lived perspective, read by **resonance / telepathic coupling**, not alphabetic literacy. **Audio-visual extraction evidence** and **destructive one-pass read** — [§3.3.1](#331-what-joseph-saw--audio-visual-extraction); reader essay [§ What Joseph saw](/cosmos/mars/mars-dagger.md#what-joseph-saw-in-the-plates).
 
 **Structural parallel:**
 
@@ -129,6 +129,22 @@ After the [MudFlood Energetic Event](/history/mudflood) (~late 18th c.; Pugachev
 | **Repo label** | Suppressed legacy storage tech | Mars-faction recovery / ritual hardware |
 
 The **Smith family kit** (Jupiter talisman, three magic parchments, pouch, Mars dagger) is one **distributed toolchain** — all traced to Barrett's *Magus*, all inherited through **Hyrum's relic line**.
+
+#### 3.3.1 What Joseph saw — audio-visual extraction (author synthesis)
+
+**Session synthesis:** Joseph Smith was **English-only**. Embedded recorders almost certainly **did not** speak English; plates were **not** English text awaiting alphabetic translation. Producing **full narrative** across that language gap implies **audio-visual interchange** — witness scenes, **write in his own words** — not Reformed-Egyptian homework.
+
+| Layer | Repo read |
+|-------|-----------|
+| **Strongest evidence** | Language mismatch alone argues **playback**, not inscription literacy |
+| **Medium** | **Crystal-like analog memory** embedded in gold plates — lived perspective at extreme resolution |
+| **Interface** | Seer stone + hat; resonance / telepathic coupling ([§2.4](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md)) |
+| **Destructive read** | Energy extraction **cannot replay** same stratum; Smith lacked equipment to re-read without **energy loss** — **one record per story** |
+| **Witness quality** | "Seeing with his own eyes" → accurate **first-person retelling** in Palmyra English |
+| **Variant dates** | 1820 / 1832 / 1838 First Vision strata = **different frequency layers** on re-address attempts |
+| **Book of Mormon** | Best described as **one-pass audio-visual extraction** from suppressed analog index |
+
+**Not claimed:** metallurgical proof of embedded crystals; documented Smith statement matching this technical vocabulary; proof no surface inscription existed on plates.
 
 ### 3.4 Who could operate it?
 
@@ -283,7 +299,7 @@ Mainstream scholarship mostly stops at Layer A and waves at Walters. **Reader es
 |------|-------|
 | **Documented** | Barrett-line inscriptions; Walters parallel kit; regional dig culture; Carthage 1844 facts; no Mars on blade provenance |
 | **Scholarly inference** | Terrestrial cultic transmission via mentor/book — **not** independent invention |
-| **Repo extension (author thesis)** | **Horde unified protocol** + Jerusalem-absorbed networks; **use-not-build** compartment; **master keys on Mars**; inner cult since empire birth; **MFEE interplanetary detachment** + **generational amnesia**; **Smith** technology-line read; Joseph **outside** active cult by 1820s, **unaware** of reaction stakes; **CIA secrecy rhyme**; keeper-cult fracture + **organic leak** of pre-cataclysmic knowledge; **NDD** suppression mandate; **millions of smaller leaks** likely erased; Book of Mormon as **massive uncontainable leak**; **incomplete** Carthage containment; **Scientology** parallel (§3.7.1–3.7.3); **not** Mars-planned Mormonism ([reader essay](/cosmos/mars/mars-dagger.md)) |
+| **Repo extension (author thesis)** | **Audio-visual plate extraction** (§3.3.1); **Horde unified protocol** + Jerusalem-absorbed networks; **use-not-build** compartment; **master keys on Mars**; inner cult since empire birth; **MFEE interplanetary detachment** + **generational amnesia**; **Smith** technology-line read; Joseph **outside** active cult by 1820s, **unaware** of reaction stakes; **CIA secrecy rhyme**; keeper-cult fracture + **organic leak** of pre-cataclysmic knowledge; **NDD** suppression mandate; **millions of smaller leaks** likely erased; Book of Mormon as **massive uncontainable leak**; **incomplete** Carthage containment; **Scientology** parallel (§3.7.1–3.7.3); **not** Mars-planned Mormonism ([reader essay](/cosmos/mars/mars-dagger.md)) |
 
 ### 3.6 Post-MFEE breakaway influence ceiling — what Mars humans could and could not do
 
