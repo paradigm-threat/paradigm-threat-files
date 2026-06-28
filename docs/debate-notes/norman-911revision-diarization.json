@@ -1,0 +1,4232 @@
+[
+  {
+    "start": 3.15284375,
+    "end": 3.69284375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 5.2115937500000005,
+    "end": 6.00471875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 7.995968750000001,
+    "end": 14.931593750000001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 25.49534375,
+    "end": 28.33034375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 32.46471875,
+    "end": 32.48159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 32.48159375,
+    "end": 32.78534375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 34.962218750000005,
+    "end": 42.48846875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 43.99034375,
+    "end": 47.88846875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 50.09909375,
+    "end": 50.11596875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 50.11596875,
+    "end": 50.43659375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 50.43659375,
+    "end": 50.790968750000005,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 51.854093750000004,
+    "end": 57.15284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 61.50659375,
+    "end": 61.523468750000006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 61.523468750000006,
+    "end": 61.99596875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 68.57721875,
+    "end": 70.55159375000001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 87.20721875000001,
+    "end": 99.28971875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 101.98971875000001,
+    "end": 112.28346875000001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 113.32971875000001,
+    "end": 117.02534375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 118.88159375000001,
+    "end": 119.03346875000001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 119.03346875000001,
+    "end": 126.96471875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 133.39409375,
+    "end": 137.76471875000001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 139.72221875,
+    "end": 145.47659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 148.54784375,
+    "end": 149.42534375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 151.39971875,
+    "end": 154.03221875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 154.03221875,
+    "end": 160.96784375000001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 160.96784375000001,
+    "end": 163.36409375000002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 170.14784375000002,
+    "end": 171.12659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 171.12659375,
+    "end": 171.14346875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 172.93221875,
+    "end": 175.07534375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 175.46346875,
+    "end": 184.12034375000002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 189.43596875,
+    "end": 194.02596875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 194.02596875,
+    "end": 194.80221875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 194.80221875,
+    "end": 194.97096875000003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 194.97096875000003,
+    "end": 209.93909375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 213.70221875000001,
+    "end": 222.40971875000002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 227.91096875000002,
+    "end": 235.94346875000002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 238.22159375,
+    "end": 238.87971875000002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 240.36471875,
+    "end": 245.03909375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 245.03909375,
+    "end": 247.65471875000003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 247.70534375000003,
+    "end": 253.76346875000002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 254.05034375000002,
+    "end": 255.38346875000002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 255.94034375,
+    "end": 260.36159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 261.03659375,
+    "end": 261.72846875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 261.81284375,
+    "end": 263.19659375000003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 263.68596875000003,
+    "end": 266.14971875000003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 266.40284375000005,
+    "end": 269.72721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 271.33034375,
+    "end": 271.97159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 271.97159375,
+    "end": 272.39346875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 274.11471875,
+    "end": 275.21159375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 278.13096875,
+    "end": 278.36721875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 281.80971875,
+    "end": 282.18096875000003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 287.76659375,
+    "end": 288.13784375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 304.92846875000004,
+    "end": 311.89784375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 312.16784375000003,
+    "end": 313.50096875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 313.50096875,
+    "end": 313.51784375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 313.70346875,
+    "end": 313.72034375000004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 313.72034375000004,
+    "end": 314.64846875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 314.64846875,
+    "end": 314.66534375000003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 314.93534375,
+    "end": 314.95221875000004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 314.95221875000004,
+    "end": 315.03659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 315.03659375,
+    "end": 316.80846875000003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 317.02784375000005,
+    "end": 318.24284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 318.42846875000004,
+    "end": 322.14096875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 324.68909375000004,
+    "end": 324.97596875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 324.97596875,
+    "end": 325.02659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 325.02659375,
+    "end": 328.13159375000004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 328.53659375,
+    "end": 330.52784375000005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 330.78096875,
+    "end": 333.66659375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 334.02096875,
+    "end": 335.33721875000003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 335.69159375000004,
+    "end": 336.26534375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 336.70409375,
+    "end": 339.26909375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 339.26909375,
+    "end": 339.40409375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 339.40409375,
+    "end": 340.97346875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 340.97346875,
+    "end": 341.24346875000003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 341.51346875,
+    "end": 344.68596875000003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 345.93471875,
+    "end": 347.50409375000004,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 349.00596875,
+    "end": 351.36846875000003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 352.66784375000003,
+    "end": 353.03909375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 353.03909375,
+    "end": 355.01346875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 355.33409375,
+    "end": 357.81471875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 358.08471875000004,
+    "end": 358.77659375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 359.09721875,
+    "end": 362.97846875000005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 363.34971875,
+    "end": 364.93596875000003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 365.35784375000003,
+    "end": 367.33221875000004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 367.56846875,
+    "end": 371.17971875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 371.34846875000005,
+    "end": 385.96221875000003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 385.96221875000003,
+    "end": 386.02971875000003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 386.02971875000003,
+    "end": 386.06346875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 386.06346875,
+    "end": 386.24909375000004,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 389.96159375,
+    "end": 389.97846875000005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 389.97846875000005,
+    "end": 390.90659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 400.28909375,
+    "end": 401.03159375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 401.40284375000005,
+    "end": 403.29284375000003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 405.70596875,
+    "end": 406.02659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 406.02659375,
+    "end": 416.96159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 417.06284375,
+    "end": 418.61534375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 419.49284375,
+    "end": 420.16784375000003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 420.87659375000004,
+    "end": 421.61909375000005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 421.72034375000004,
+    "end": 422.26034375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 422.88471875000005,
+    "end": 423.84659375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 423.93096875000003,
+    "end": 426.63096875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 426.85034375000004,
+    "end": 427.69409375000004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 427.99784375,
+    "end": 430.41096875000005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 430.79909375000005,
+    "end": 433.56659375000004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 434.03909375,
+    "end": 434.89971875000003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 435.70971875000004,
+    "end": 438.27471875000003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 438.83159375,
+    "end": 442.27409375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 442.54409375,
+    "end": 445.76721875000004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 446.13846875,
+    "end": 447.38721875000005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 447.42096875000004,
+    "end": 449.63159375000004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 449.95221875000004,
+    "end": 453.04034375000003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 453.39471875000004,
+    "end": 455.82471875000005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 456.04409375,
+    "end": 459.57096875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 459.72284375000004,
+    "end": 461.57909375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 461.91659375,
+    "end": 466.91159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 467.13096875,
+    "end": 469.39221875000004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 469.72971875,
+    "end": 470.87721875000005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 470.87721875000005,
+    "end": 470.89409375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 471.46784375000004,
+    "end": 474.16784375000003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 474.42096875000004,
+    "end": 476.02409375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 476.02409375,
+    "end": 476.64846875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 476.64846875,
+    "end": 476.68221875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 476.68221875,
+    "end": 477.94784375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 478.11659375000005,
+    "end": 481.67721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 482.03159375,
+    "end": 483.04409375000006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 483.19596875,
+    "end": 485.74409375000005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 485.98034375000003,
+    "end": 486.80721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 486.99284375,
+    "end": 491.58284375000005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 496.69596875,
+    "end": 504.28971875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 504.49221875,
+    "end": 506.16284375000004,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 506.26409375000003,
+    "end": 507.02346875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 507.02346875,
+    "end": 508.30596875000003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 508.30596875000003,
+    "end": 508.37346875000003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 508.37346875000003,
+    "end": 508.39034375000006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 508.39034375000006,
+    "end": 508.49159375000005,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 508.49159375000005,
+    "end": 522.02534375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 522.3628437500001,
+    "end": 525.36659375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 525.51846875,
+    "end": 527.1047187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 527.18909375,
+    "end": 534.05721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 534.25971875,
+    "end": 538.47846875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 538.9172187500001,
+    "end": 542.51159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 542.7478437500001,
+    "end": 546.3759687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 546.6965937500001,
+    "end": 549.0759687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 549.86909375,
+    "end": 553.6828437500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 553.9697187500001,
+    "end": 556.2309687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 556.43346875,
+    "end": 557.6147187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 557.9522187499999,
+    "end": 560.5678437500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 561.76596875,
+    "end": 570.4565937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 570.76034375,
+    "end": 575.1984687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 576.54846875,
+    "end": 578.3203437500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 581.17221875,
+    "end": 586.1672187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 586.1672187500001,
+    "end": 586.1840937500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 587.4834687499999,
+    "end": 587.8547187500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 589.3059687500001,
+    "end": 590.3859687500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 595.14471875,
+    "end": 596.22471875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 598.23284375,
+    "end": 601.03409375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 601.03409375,
+    "end": 601.6415937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 601.6415937500001,
+    "end": 601.6753437500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 602.01284375,
+    "end": 604.6453437499999,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 604.8647187500001,
+    "end": 607.2947187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 607.5815937500001,
+    "end": 612.8803437500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 615.96846875,
+    "end": 616.5928437499999,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 616.5928437499999,
+    "end": 616.8797187499999,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 616.8797187499999,
+    "end": 616.9640937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 616.9640937500001,
+    "end": 617.03159375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 618.5165937500001,
+    "end": 621.57096875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 621.85784375,
+    "end": 622.1953437500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 622.71846875,
+    "end": 624.50721875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 625.08096875,
+    "end": 625.1147187500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 625.1147187500001,
+    "end": 626.88659375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 627.34221875,
+    "end": 632.21909375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 637.70346875,
+    "end": 655.57409375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 655.87784375,
+    "end": 656.70471875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 657.12659375,
+    "end": 657.8015937499999,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 658.0715937500001,
+    "end": 661.61534375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 661.95284375,
+    "end": 664.46721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 664.7878437500001,
+    "end": 666.81284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 667.4878437500001,
+    "end": 670.5928437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 670.93034375,
+    "end": 673.88346875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 674.1028437500001,
+    "end": 678.5578437500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 678.76034375,
+    "end": 681.20721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 681.62909375,
+    "end": 682.6415937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 682.99596875,
+    "end": 686.7422187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 686.8603437500001,
+    "end": 687.34971875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 688.1597187500001,
+    "end": 694.0490937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 694.36971875,
+    "end": 695.41596875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 695.97284375,
+    "end": 697.49159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 697.94721875,
+    "end": 699.73596875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 700.2590937500001,
+    "end": 702.8915937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 703.14471875,
+    "end": 706.77284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 707.1272187500001,
+    "end": 707.76846875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 707.78534375,
+    "end": 715.9865937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 716.6615937500001,
+    "end": 718.72034375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 719.12534375,
+    "end": 722.55096875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 722.66909375,
+    "end": 724.8290937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 725.04846875,
+    "end": 727.57971875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 727.88346875,
+    "end": 732.8615937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 733.1315937500001,
+    "end": 734.78534375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 734.90346875,
+    "end": 747.00284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 747.42471875,
+    "end": 757.51596875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 757.71846875,
+    "end": 760.04721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 760.35096875,
+    "end": 770.2734687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 770.3915937500001,
+    "end": 771.1003437500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 771.58971875,
+    "end": 772.19721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 772.41659375,
+    "end": 774.2222187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 774.54284375,
+    "end": 776.9897187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 777.0403437500001,
+    "end": 780.3984687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 780.63471875,
+    "end": 792.3797187499999,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 792.4640937500001,
+    "end": 794.38784375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 794.67471875,
+    "end": 797.6953437500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 797.7122187500001,
+    "end": 799.70346875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 799.88909375,
+    "end": 801.82971875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 802.42034375,
+    "end": 804.5972187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 804.96846875,
+    "end": 807.2803437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 807.7022187500002,
+    "end": 812.25846875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 812.4609687500001,
+    "end": 815.2790937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 815.75159375,
+    "end": 816.19034375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 816.44346875,
+    "end": 843.35909375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 843.74721875,
+    "end": 847.56096875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 847.69596875,
+    "end": 850.4465937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 850.5984687500002,
+    "end": 851.5434687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 851.6615937500001,
+    "end": 855.98159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 856.3190937500001,
+    "end": 859.2890937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 859.6772187500001,
+    "end": 862.1240937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 862.3603437500001,
+    "end": 864.87471875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 865.11096875,
+    "end": 895.5534687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 896.1440937500001,
+    "end": 896.78534375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 897.03846875,
+    "end": 900.9028437500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 901.12221875,
+    "end": 903.06284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 903.4340937500001,
+    "end": 905.22284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 905.2903437500001,
+    "end": 907.0790937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 907.46721875,
+    "end": 911.7703437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 912.0234687500001,
+    "end": 913.1203437500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 913.4072187500001,
+    "end": 915.58409375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 916.00596875,
+    "end": 918.70596875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 918.99284375,
+    "end": 925.9115937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 926.1140937500002,
+    "end": 929.65784375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 930.11346875,
+    "end": 931.2609687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 931.49721875,
+    "end": 932.93159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 933.18471875,
+    "end": 934.0790937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 934.58534375,
+    "end": 937.82534375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 938.2134687500002,
+    "end": 940.08659375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 940.35659375,
+    "end": 940.93034375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 941.36909375,
+    "end": 944.0522187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 944.45721875,
+    "end": 945.45284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 945.57096875,
+    "end": 948.81096875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 948.91221875,
+    "end": 951.5447187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 951.9497187500001,
+    "end": 953.58659375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 953.9072187500001,
+    "end": 956.10096875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 956.40471875,
+    "end": 961.88909375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 962.31096875,
+    "end": 964.09971875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 964.40346875,
+    "end": 966.2934687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 966.3272187500002,
+    "end": 986.47596875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 987.5728437500002,
+    "end": 1000.97159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1000.97159375,
+    "end": 1001.1909687500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1001.1909687500001,
+    "end": 1001.2078437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1013.74596875,
+    "end": 1017.0365937500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1017.9140937500001,
+    "end": 1022.03159375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1022.63909375,
+    "end": 1024.64721875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1025.05221875,
+    "end": 1025.5078437500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1025.5078437500001,
+    "end": 1025.5247187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1026.90846875,
+    "end": 1027.02659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1027.02659375,
+    "end": 1037.2528437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1037.30346875,
+    "end": 1049.0484687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1049.52096875,
+    "end": 1054.2459687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1054.70159375,
+    "end": 1059.3253437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1059.47721875,
+    "end": 1062.46409375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1060.08471875,
+    "end": 1060.74284375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1062.5315937500002,
+    "end": 1084.6378437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1084.9078437500002,
+    "end": 1087.9790937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1088.0128437500002,
+    "end": 1096.0284687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1098.30659375,
+    "end": 1107.19971875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1108.3640937500002,
+    "end": 1108.56659375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1108.56659375,
+    "end": 1108.58346875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1110.0347187500001,
+    "end": 1111.78971875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1112.4309687500001,
+    "end": 1112.4478437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1112.4478437500002,
+    "end": 1112.8359687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1113.39284375,
+    "end": 1113.4097187500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1113.4097187500001,
+    "end": 1114.8272187500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1114.92846875,
+    "end": 1116.9534687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1117.2403437500002,
+    "end": 1117.44284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1117.8140937500002,
+    "end": 1120.7165937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1124.74971875,
+    "end": 1126.31909375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1127.3484687500002,
+    "end": 1130.8584687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1131.2634687500001,
+    "end": 1133.33909375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1141.50659375,
+    "end": 1145.3709687500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1145.3709687500002,
+    "end": 1145.6072187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1145.6072187500001,
+    "end": 1145.9278437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1145.9278437500002,
+    "end": 1147.7503437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1148.40846875,
+    "end": 1151.4122187500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1159.46159375,
+    "end": 1161.03096875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1161.33471875,
+    "end": 1162.5159687500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1162.75221875,
+    "end": 1164.8784687500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1165.28346875,
+    "end": 1166.5997187500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1167.08909375,
+    "end": 1168.0003437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1169.8565937500002,
+    "end": 1171.3753437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1171.7972187500002,
+    "end": 1179.18846875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1185.4322187500002,
+    "end": 1186.64721875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1189.5497187500002,
+    "end": 1190.7478437500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1192.24971875,
+    "end": 1200.0628437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1202.6278437500002,
+    "end": 1202.64471875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1202.64471875,
+    "end": 1202.8640937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1202.8640937500002,
+    "end": 1202.8809687500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1202.8809687500002,
+    "end": 1202.93159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1202.93159375,
+    "end": 1203.0328437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1203.0328437500002,
+    "end": 1203.3028437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1204.6697187500001,
+    "end": 1209.9009687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1210.3565937500002,
+    "end": 1219.70534375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1219.9247187500002,
+    "end": 1228.27784375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1231.92284375,
+    "end": 1238.9765937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1239.1790937500002,
+    "end": 1249.1353437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1249.3040937500002,
+    "end": 1251.71721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1252.18971875,
+    "end": 1252.57784375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1253.59034375,
+    "end": 1256.93159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1257.1509687500002,
+    "end": 1258.5515937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1259.2603437500002,
+    "end": 1259.78346875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1260.6440937500001,
+    "end": 1261.45409375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1261.9434687500002,
+    "end": 1267.1747187500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1270.43159375,
+    "end": 1270.9715937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1270.9715937500002,
+    "end": 1272.2203437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1276.1690937500002,
+    "end": 1280.26971875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1286.90159375,
+    "end": 1287.9309687500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1290.12471875,
+    "end": 1297.6340937500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1299.1865937500002,
+    "end": 1300.0303437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1300.0303437500002,
+    "end": 1300.24971875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1300.24971875,
+    "end": 1300.97534375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1300.97534375,
+    "end": 1313.9522187500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1315.5047187500002,
+    "end": 1315.99409375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1316.7872187500002,
+    "end": 1323.3684687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1324.5159687500002,
+    "end": 1331.21534375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1331.21534375,
+    "end": 1331.2322187500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1335.1640937500001,
+    "end": 1338.6909687500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1346.08221875,
+    "end": 1347.36471875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1357.8272187500002,
+    "end": 1359.8522187500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1361.0672187500002,
+    "end": 1361.3878437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1370.0615937500002,
+    "end": 1372.84596875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1372.84596875,
+    "end": 1372.9134687500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1372.9134687500002,
+    "end": 1375.0228437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1375.0228437500002,
+    "end": 1375.1240937500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1375.3265937500003,
+    "end": 1375.3940937500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1375.3940937500001,
+    "end": 1375.9678437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1375.9678437500002,
+    "end": 1377.90846875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1380.11909375,
+    "end": 1382.1778437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1383.8653437500002,
+    "end": 1385.8059687500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1386.16034375,
+    "end": 1393.3828437500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1395.5259687500002,
+    "end": 1396.5047187500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1395.6440937500001,
+    "end": 1395.9478437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1396.6228437500001,
+    "end": 1396.6903437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1396.70721875,
+    "end": 1409.0259687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1409.1440937500001,
+    "end": 1411.50659375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1411.6922187500002,
+    "end": 1415.97846875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1415.97846875,
+    "end": 1417.7840937500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1421.8340937500002,
+    "end": 1423.3359687500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1429.6809687500001,
+    "end": 1430.77784375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1431.6890937500002,
+    "end": 1437.10596875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1437.35909375,
+    "end": 1438.23659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1438.5572187500002,
+    "end": 1438.89471875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1441.5103437500002,
+    "end": 1442.16846875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1442.9278437500002,
+    "end": 1444.8515937500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1447.34909375,
+    "end": 1447.65284375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1460.3934687500002,
+    "end": 1463.4647187500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1464.8653437500002,
+    "end": 1465.33784375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1467.02534375,
+    "end": 1471.0247187500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1471.0247187500001,
+    "end": 1471.54784375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1471.54784375,
+    "end": 1471.83471875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1471.83471875,
+    "end": 1475.0240937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1475.3784687500001,
+    "end": 1484.9634687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1484.9634687500002,
+    "end": 1485.03096875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1485.03096875,
+    "end": 1485.9759687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1485.9759687500002,
+    "end": 1486.02659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1486.02659375,
+    "end": 1486.46534375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1486.46534375,
+    "end": 1486.4990937500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1488.43971875,
+    "end": 1488.4903437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1488.4903437500002,
+    "end": 1488.96284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1488.96284375,
+    "end": 1489.0303437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1489.0303437500002,
+    "end": 1497.83909375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1498.1765937500002,
+    "end": 1500.23534375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1500.3028437500002,
+    "end": 1502.4290937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1502.5303437500002,
+    "end": 1503.7959687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1504.15034375,
+    "end": 1507.4915937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1507.7615937500002,
+    "end": 1510.3265937500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1510.5965937500002,
+    "end": 1516.5197187500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1516.80659375,
+    "end": 1518.8484687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1519.08471875,
+    "end": 1524.28221875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1524.7884687500002,
+    "end": 1525.4297187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1525.5140937500003,
+    "end": 1528.0115937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1528.4334687500002,
+    "end": 1529.32784375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1529.6484687500001,
+    "end": 1531.7072187500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1531.9434687500002,
+    "end": 1533.00659375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1533.14159375,
+    "end": 1535.6053437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1536.24659375,
+    "end": 1540.31346875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1540.88721875,
+    "end": 1545.2578437500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1545.8990937500002,
+    "end": 1547.7215937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1548.0759687500001,
+    "end": 1560.85034375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1561.1878437500002,
+    "end": 1563.7528437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1563.95534375,
+    "end": 1585.7747187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1586.01096875,
+    "end": 1589.0147187500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1589.1328437500001,
+    "end": 1591.8159687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1591.8328437500002,
+    "end": 1594.7859687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1595.1234687500003,
+    "end": 1596.4903437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1596.8784687500001,
+    "end": 1600.08471875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1600.3884687500001,
+    "end": 1601.63721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1602.0084687500002,
+    "end": 1604.2528437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1604.5228437500002,
+    "end": 1606.0415937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1606.7334687500002,
+    "end": 1609.4503437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1612.8253437500002,
+    "end": 1613.73659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1620.3684687500001,
+    "end": 1625.2284687500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1628.0128437500002,
+    "end": 1628.3165937500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1630.61159375,
+    "end": 1631.03346875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1635.2015937500003,
+    "end": 1646.0015937500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1648.8028437500002,
+    "end": 1650.2034687500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1650.2034687500002,
+    "end": 1650.9290937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1651.9247187500002,
+    "end": 1652.24534375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1653.4265937500002,
+    "end": 1659.85596875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1661.8640937500002,
+    "end": 1662.8259687500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1662.8259687500001,
+    "end": 1662.8428437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1667.2472187500002,
+    "end": 1669.4409687500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1670.3522187500002,
+    "end": 1671.7528437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1672.8328437500002,
+    "end": 1674.89159375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1679.7515937500002,
+    "end": 1679.7684687500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1679.7684687500002,
+    "end": 1680.8822187500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1680.8822187500002,
+    "end": 1680.9665937500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1680.9665937500001,
+    "end": 1685.1347187500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1685.42159375,
+    "end": 1687.3284687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1687.39596875,
+    "end": 1691.05784375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1691.19284375,
+    "end": 1697.7572187500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1698.9890937500002,
+    "end": 1701.5372187500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1702.5665937500003,
+    "end": 1702.8534687500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1705.41846875,
+    "end": 1708.2872187500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1710.73409375,
+    "end": 1711.8140937500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1713.3834687500002,
+    "end": 1718.2772187500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1717.63596875,
+    "end": 1717.93971875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1725.78659375,
+    "end": 1728.0815937500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1728.89159375,
+    "end": 1728.9253437500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1728.9253437500001,
+    "end": 1728.9928437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1730.5453437500003,
+    "end": 1731.0347187500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1731.0347187500001,
+    "end": 1732.84034375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1734.0384687500002,
+    "end": 1736.9747187500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1736.9747187500002,
+    "end": 1737.9365937500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1741.0753437500002,
+    "end": 1741.3453437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1743.7078437500002,
+    "end": 1748.9728437500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1750.6265937500002,
+    "end": 1753.3434687500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1754.35596875,
+    "end": 1754.5415937500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1755.62159375,
+    "end": 1756.0772187500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1757.0897187500002,
+    "end": 1758.4059687500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1758.97971875,
+    "end": 1760.0934687500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1768.0247187500001,
+    "end": 1768.0415937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1768.0415937500002,
+    "end": 1773.9140937500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1775.3822187500002,
+    "end": 1775.87159375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1778.7234687500002,
+    "end": 1779.0778437500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1781.06909375,
+    "end": 1782.62159375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1786.9247187500002,
+    "end": 1790.1647187500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1795.8684687500001,
+    "end": 1797.6909687500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1806.2803437500002,
+    "end": 1808.47409375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1816.6753437500001,
+    "end": 1820.3372187500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1825.7034687500002,
+    "end": 1828.0828437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1832.53784375,
+    "end": 1832.5547187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1832.5547187500001,
+    "end": 1832.5884687500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1832.5884687500002,
+    "end": 1832.9765937500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1832.9765937500001,
+    "end": 1833.1284687500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1837.17846875,
+    "end": 1842.6122187500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1847.4890937500002,
+    "end": 1849.41284375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1853.7159687500002,
+    "end": 1854.0197187500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1856.8040937500002,
+    "end": 1857.6815937500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1859.4872187500002,
+    "end": 1861.2759687500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1868.81909375,
+    "end": 1869.0384687500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1877.7122187500001,
+    "end": 1891.02659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1891.02659375,
+    "end": 1897.9115937500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1898.2659687500002,
+    "end": 1899.0253437500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1899.6497187500001,
+    "end": 1899.9703437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1899.9703437500002,
+    "end": 1900.03784375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1900.03784375,
+    "end": 1900.6959687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1900.6959687500002,
+    "end": 1900.7128437500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1901.87721875,
+    "end": 1901.9109687500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1901.9109687500002,
+    "end": 1902.9740937500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1902.9740937500003,
+    "end": 1903.3622187500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1903.3622187500002,
+    "end": 1903.3959687500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1904.0372187500002,
+    "end": 1904.0709687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1904.0709687500002,
+    "end": 1905.8597187500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1905.9609687500001,
+    "end": 1905.9778437500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1905.9778437500001,
+    "end": 1906.65284375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1906.9734687500002,
+    "end": 1907.0072187500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1907.36159375,
+    "end": 1914.0272187500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1914.0272187500002,
+    "end": 1915.1072187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1916.2884687500002,
+    "end": 1920.8109687500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1922.0765937500003,
+    "end": 1931.9822187500001,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1933.65284375,
+    "end": 1952.6709687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1953.48096875,
+    "end": 1956.3328437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1957.7334687500002,
+    "end": 1969.4109687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1970.1028437500001,
+    "end": 1970.7440937500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1971.3178437500003,
+    "end": 1972.6847187500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1973.2753437500003,
+    "end": 1974.9628437500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1975.3509687500002,
+    "end": 1977.4603437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 1977.4603437500002,
+    "end": 1977.5615937500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 1977.5615937500002,
+    "end": 1995.0609687500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2010.9234687500002,
+    "end": 2011.6659687500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2014.0284687500002,
+    "end": 2014.6697187500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2015.9859687500002,
+    "end": 2016.3572187500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2018.1965937500001,
+    "end": 2020.3903437500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2024.9972187500002,
+    "end": 2025.1828437500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2026.4315937500003,
+    "end": 2028.0347187500001,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2028.0347187500001,
+    "end": 2028.3384687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2028.3384687500002,
+    "end": 2028.6253437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2028.6253437500002,
+    "end": 2033.2997187500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2034.1097187500002,
+    "end": 2042.78346875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2044.0659687500001,
+    "end": 2072.97284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2072.97284375,
+    "end": 2080.6003437500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2085.20721875,
+    "end": 2085.4940937500005,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2086.9959687500004,
+    "end": 2088.83534375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2091.53534375,
+    "end": 2091.8728437500004,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2093.4590937500006,
+    "end": 2094.6403437500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2097.76221875,
+    "end": 2098.72409375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2101.77846875,
+    "end": 2103.41534375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2105.5078437500006,
+    "end": 2106.68909375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2113.5065937500003,
+    "end": 2113.5234687500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2113.5234687500006,
+    "end": 2120.6784687500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2121.06659375,
+    "end": 2124.45846875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2124.82971875,
+    "end": 2128.5253437500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2128.67721875,
+    "end": 2131.1240937500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2131.1240937500006,
+    "end": 2131.19159375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2140.0847187500003,
+    "end": 2142.0253437500005,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2142.0253437500005,
+    "end": 2156.03159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2156.26784375,
+    "end": 2157.7528437500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2159.57534375,
+    "end": 2161.6678437500004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2162.10659375,
+    "end": 2165.3465937500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2165.54909375,
+    "end": 2166.46034375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2166.5615937500006,
+    "end": 2172.2822187500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2177.56409375,
+    "end": 2182.8122187500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2185.30971875,
+    "end": 2190.2372187500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2190.76034375,
+    "end": 2192.8190937500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2193.15659375,
+    "end": 2198.9109687500004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2199.01221875,
+    "end": 2201.47596875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2201.54346875,
+    "end": 2205.50909375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2215.4315937500005,
+    "end": 2222.02971875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2222.02971875,
+    "end": 2222.63721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2223.10971875,
+    "end": 2225.2528437500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2225.4890937500004,
+    "end": 2229.7753437500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2230.0622187500003,
+    "end": 2235.5465937500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2235.83346875,
+    "end": 2238.6178437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2238.6178437500002,
+    "end": 2238.65159375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2239.1747187500005,
+    "end": 2240.59221875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2242.51596875,
+    "end": 2244.50721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2245.8740937500006,
+    "end": 2252.6240937500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2255.05409375,
+    "end": 2257.6865937500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2258.5809687500005,
+    "end": 2271.1865937500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2271.25409375,
+    "end": 2281.09221875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2285.59784375,
+    "end": 2285.8678437500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2294.15346875,
+    "end": 2294.96346875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2303.3672187500006,
+    "end": 2304.0759687500004,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2313.1209687500004,
+    "end": 2315.01096875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2335.6153437500006,
+    "end": 2335.63221875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2335.63221875,
+    "end": 2341.0153437500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2341.1503437500005,
+    "end": 2348.65971875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2349.1153437500006,
+    "end": 2358.53159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2365.1972187500005,
+    "end": 2365.51784375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2374.7147187500004,
+    "end": 2374.73159375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2374.73159375,
+    "end": 2375.03534375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2375.03534375,
+    "end": 2375.05221875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2420.29409375,
+    "end": 2421.22221875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2426.09909375,
+    "end": 2426.4197187500004,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2462.2284687500005,
+    "end": 2463.03846875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2463.03846875,
+    "end": 2463.3084687500004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2463.3084687500004,
+    "end": 2463.8653437500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2463.8653437500006,
+    "end": 2471.40846875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2472.69096875,
+    "end": 2473.9228437500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2477.44971875,
+    "end": 2479.0865937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2479.5928437500006,
+    "end": 2479.67721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2479.67721875,
+    "end": 2480.47034375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2480.47034375,
+    "end": 2480.4872187500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2480.9597187500003,
+    "end": 2480.9765937500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2480.9765937500006,
+    "end": 2481.4490937500004,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2482.02284375,
+    "end": 2483.05221875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2484.3515937500006,
+    "end": 2484.8240937500004,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2485.3809687500006,
+    "end": 2486.0390937500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2486.0390937500006,
+    "end": 2499.57284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2503.9940937500005,
+    "end": 2504.02784375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2504.02784375,
+    "end": 2504.0447187500004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2504.0447187500004,
+    "end": 2504.1122187500005,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2504.1122187500005,
+    "end": 2504.1628437500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2504.1628437500003,
+    "end": 2504.44971875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2504.44971875,
+    "end": 2504.97284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2504.97284375,
+    "end": 2505.0234687500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2505.0234687500006,
+    "end": 2505.1415937500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2505.1415937500005,
+    "end": 2505.2090937500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2506.9303437500002,
+    "end": 2521.5272187500004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2521.62846875,
+    "end": 2522.9784687500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2523.2653437500003,
+    "end": 2535.3309687500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2535.7528437500005,
+    "end": 2538.1659687500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2538.55409375,
+    "end": 2545.7428437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2545.86096875,
+    "end": 2548.56096875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2548.84784375,
+    "end": 2549.7253437500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2549.80971875,
+    "end": 2556.0703437500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2558.93909375,
+    "end": 2559.41159375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2561.47034375,
+    "end": 2562.5840937500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2562.97221875,
+    "end": 2565.1490937500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2567.73096875,
+    "end": 2568.15284375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2570.8359687500006,
+    "end": 2571.03846875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2571.03846875,
+    "end": 2580.3365937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2580.60659375,
+    "end": 2582.68221875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2582.90159375,
+    "end": 2586.4453437500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2586.76596875,
+    "end": 2589.73596875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2590.14096875,
+    "end": 2593.1784687500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2593.6003437500003,
+    "end": 2594.3934687500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2594.7478437500004,
+    "end": 2597.1609687500004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2597.2959687500006,
+    "end": 2599.96221875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2600.38409375,
+    "end": 2606.84721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2607.06659375,
+    "end": 2608.1803437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2608.53471875,
+    "end": 2612.2809687500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2612.5340937500005,
+    "end": 2614.7109687500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2615.04846875,
+    "end": 2615.75721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2615.89221875,
+    "end": 2617.63034375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2617.93409375,
+    "end": 2620.7184687500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2621.00534375,
+    "end": 2625.6122187500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2625.71346875,
+    "end": 2633.9147187500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2634.2353437500005,
+    "end": 2649.2372187500005,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2669.3015937500004,
+    "end": 2670.24659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2674.1784687500003,
+    "end": 2674.33034375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2678.12721875,
+    "end": 2678.68409375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2678.97096875,
+    "end": 2679.03846875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2679.6122187500005,
+    "end": 2680.2872187500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2681.5865937500002,
+    "end": 2682.6834687500004,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2683.08846875,
+    "end": 2683.44284375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2684.28659375,
+    "end": 2685.24846875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2687.35784375,
+    "end": 2688.3365937500002,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2689.9903437500006,
+    "end": 2692.0322187500005,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2692.0322187500005,
+    "end": 2698.2422187500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2699.7272187500002,
+    "end": 2700.13221875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2700.7059687500005,
+    "end": 2700.9590937500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2700.9590937500006,
+    "end": 2701.04346875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2701.04346875,
+    "end": 2701.09409375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2701.7184687500003,
+    "end": 2701.76909375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2701.76909375,
+    "end": 2702.1065937500007,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2703.2372187500005,
+    "end": 2705.6503437500005,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2707.5065937500003,
+    "end": 2707.8272187500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2711.35409375,
+    "end": 2711.65784375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2728.58346875,
+    "end": 2728.9040937500004,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2731.7390937500004,
+    "end": 2739.0459687500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2739.0459687500006,
+    "end": 2739.06284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2740.5309687500003,
+    "end": 2740.5478437500005,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2740.5478437500005,
+    "end": 2747.2472187500007,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2747.87159375,
+    "end": 2748.7322187500004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2754.25034375,
+    "end": 2754.5709687500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2755.7184687500003,
+    "end": 2755.81971875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2758.2665937500005,
+    "end": 2759.14409375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2771.85096875,
+    "end": 2772.2559687500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2776.0359687500004,
+    "end": 2777.68971875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2784.6590937500005,
+    "end": 2784.9628437500005,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2792.3034687500003,
+    "end": 2794.80096875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2797.39971875,
+    "end": 2798.61471875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2799.88034375,
+    "end": 2801.7872187500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2802.5634687500005,
+    "end": 2803.72784375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2812.18221875,
+    "end": 2812.9753437500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2815.55721875,
+    "end": 2816.02971875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2816.02971875,
+    "end": 2824.2647187500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2825.96909375,
+    "end": 2844.34596875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2844.64971875,
+    "end": 2847.8728437500004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2848.0078437500006,
+    "end": 2849.77971875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2850.01596875,
+    "end": 2852.1084687500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2852.19284375,
+    "end": 2853.5934687500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2853.82971875,
+    "end": 2858.7740937500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2860.93409375,
+    "end": 2863.88721875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2863.88721875,
+    "end": 2863.9209687500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2865.43971875,
+    "end": 2866.89096875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2867.5828437500004,
+    "end": 2870.68784375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2870.9578437500004,
+    "end": 2875.98659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2875.98659375,
+    "end": 2876.00346875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2876.00346875,
+    "end": 2877.26909375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2881.1334687500002,
+    "end": 2883.83346875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2887.68096875,
+    "end": 2888.6090937500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2891.66346875,
+    "end": 2893.89096875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2896.84409375,
+    "end": 2898.0253437500005,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2898.0253437500005,
+    "end": 2899.5778437500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2902.88534375,
+    "end": 2907.5597187500007,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2907.5597187500007,
+    "end": 2907.57659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2910.34409375,
+    "end": 2910.36096875,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 2910.36096875,
+    "end": 2910.78284375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2915.54159375,
+    "end": 2917.14471875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2927.52284375,
+    "end": 2928.1640937500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2932.6190937500005,
+    "end": 2933.4122187500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2937.1922187500004,
+    "end": 2938.13721875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2941.7315937500007,
+    "end": 2942.96346875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2949.1397187500006,
+    "end": 2952.36284375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2956.4297187500006,
+    "end": 2963.56784375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2967.7022187500006,
+    "end": 2971.3640937500004,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2985.62346875,
+    "end": 2985.97784375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2991.69846875,
+    "end": 2993.9765937500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 2998.34721875,
+    "end": 2999.1572187500005,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 3018.3272187500006,
+    "end": 3020.08221875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 3025.0097187500005,
+    "end": 3031.1015937500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 3034.42596875,
+    "end": 3038.5772187500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 3041.7665937500005,
+    "end": 3041.96909375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 3041.96909375,
+    "end": 3042.03659375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 3042.03659375,
+    "end": 3042.9647187500004,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 3042.9647187500004,
+    "end": 3045.1415937500005,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 3047.7740937500002,
+    "end": 3049.44471875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 3051.5372187500006,
+    "end": 3057.7978437500005,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 3061.1728437500005,
+    "end": 3064.88534375,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 3070.9772187500002,
+    "end": 3080.6803437500002,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 3083.54909375,
+    "end": 3083.85284375,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 3088.81409375,
+    "end": 3096.1715937500003,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 3103.5965937500005,
+    "end": 3108.03471875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 3108.03471875,
+    "end": 3115.6622187500006,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 3118.5984687500004,
+    "end": 3119.2565937500003,
+    "speaker": "Ari",
+    "raw": "SPEAKER_00"
+  },
+  {
+    "start": 3119.2565937500003,
+    "end": 3119.30721875,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  },
+  {
+    "start": 3122.5134687500004,
+    "end": 3122.8340937500006,
+    "speaker": "Norman",
+    "raw": "SPEAKER_01"
+  }
+]

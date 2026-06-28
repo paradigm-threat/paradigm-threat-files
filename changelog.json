@@ -1,8 +1,86 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-28T13:45:13.367Z",
+    "date": "2026-06-28T20:10:15.378Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".gitignore",
+        "href": "/.gitignore"
+      },
+      {
+        "status": "M",
+        "path": "docs/debate-notes/README.md",
+        "href": "/docs/debate-notes/README"
+      },
+      {
+        "status": "A",
+        "path": "docs/debate-notes/curate_debate_transcript.py",
+        "href": "/docs/debate-notes/curate_debate_transcript.py"
+      },
+      {
+        "status": "A",
+        "path": "docs/debate-notes/fix_opening_split.py",
+        "href": "/docs/debate-notes/fix_opening_split.py"
+      },
+      {
+        "status": "A",
+        "path": "docs/debate-notes/norman-911revision-diarization.json",
+        "href": "/docs/debate-notes/norman-911revision-diarization.json"
+      },
+      {
+        "status": "A",
+        "path": "docs/debate-notes/norman-911revision-live-debate-transcript-curated.md",
+        "href": "/docs/debate-notes/norman-911revision-live-debate-transcript-curated"
+      },
+      {
+        "status": "A",
+        "path": "docs/debate-notes/norman-911revision-live-debate-transcript-highconf.json",
+        "href": "/docs/debate-notes/norman-911revision-live-debate-transcript-highconf.json"
+      },
+      {
+        "status": "A",
+        "path": "docs/debate-notes/norman-911revision-live-debate-transcript-speaker-uncertain.txt",
+        "href": "/docs/debate-notes/norman-911revision-live-debate-transcript-speaker-uncertain.txt"
+      },
+      {
+        "status": "A",
+        "path": "docs/debate-notes/norman-911revision-live-debate-transcript-voice-camp-review.txt",
+        "href": "/docs/debate-notes/norman-911revision-live-debate-transcript-voice-camp-review.txt"
+      },
+      {
+        "status": "A",
+        "path": "docs/debate-notes/norman-911revision-live-debate-transcript.json",
+        "href": "/docs/debate-notes/norman-911revision-live-debate-transcript.json"
+      },
+      {
+        "status": "A",
+        "path": "docs/debate-notes/norman-911revision-live-debate-transcript.txt",
+        "href": "/docs/debate-notes/norman-911revision-live-debate-transcript.txt"
+      },
+      {
+        "status": "A",
+        "path": "docs/debate-notes/norman-911revision-live-debate.md",
+        "href": "/docs/debate-notes/norman-911revision-live-debate"
+      },
+      {
+        "status": "A",
+        "path": "docs/debate-notes/pyannote_relabel.py",
+        "href": "/docs/debate-notes/pyannote_relabel.py"
+      },
+      {
+        "status": "A",
+        "path": "docs/debate-notes/relabel_debate_speakers.py",
+        "href": "/docs/debate-notes/relabel_debate_speakers.py"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-28T13:45:12.000Z",
+    "message": "Add Substack link for Mars dagger reader essay.",
     "files": [
       {
         "status": "M",
@@ -1245,91 +1323,6 @@
         "status": "M",
         "path": "history/chronology/the-hidden-history-of-words.md",
         "href": "/history/chronology/the-hidden-history-of-words"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.png",
-        "alt": "The Hidden History of Words — lexical reset, Latin breakaway, and the Horde redaction wall (article hero)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/redacted.jpg",
-        "alt": "Dictionary trail ending at redaction — lexical history redaction wall"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/christ/bible_was_redacted.jpg",
-        "alt": "Bible redaction — mass translation as lexical seal"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/christ/crucifixion_simone_martini_066.jpg",
-        "alt": "Crucifixion — Simone Martini, c. 1333 (Passion trial vocabulary anchor)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png",
-        "alt": "Europe whitewash — Moor / Boor / complexion label politics"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.png",
-        "alt": "Giants, infantry, guerrilla — Horde foot lines and post-cannon survival"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/life_on_mars_rules_earth.png",
-        "alt": "Mars-associated control — life on Mars rules Earth (lexical war cluster)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.jpg)](https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.md",
-        "alt": "Troy was also called Yoros — short for Ierosalim, Jerusalem (#1), Tsar-Grad"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
-        "alt": "Franklin Palatine Boors vs Moors — screenshot forensics (Palatine Moors, black German King George II)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-26T23:29:12.000Z",
-    "message": "Add Chronologia Linguistics forum reply and sync lexical essay work.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/author-unique-theories.md",
-        "href": "/history/chronology/investigations/author-unique-theories"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/lexical-redaction-hub-investigation.md",
-        "href": "/history/chronology/investigations/lexical-redaction-hub-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md",
-        "href": "/history/chronology/investigations/rus-horde-english-political-lexicon-speculation"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/the-hidden-history-of-words-chronologia-forum-reply.bbcode",
-        "href": "/history/chronology/the-hidden-history-of-words-chronologia-forum-reply.bbcode"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/the-hidden-history-of-words-chronologia-forum-reply.md",
-        "href": "/history/chronology/the-hidden-history-of-words-chronologia-forum-reply"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/the-hidden-history-of-words.md",
-        "href": "/history/chronology/the-hidden-history-of-words"
-      },
-      {
-        "status": "M",
-        "path": "influence/perspective/russian-perspective.md",
-        "href": "/influence/perspective/russian-perspective"
       }
     ],
     "images": [

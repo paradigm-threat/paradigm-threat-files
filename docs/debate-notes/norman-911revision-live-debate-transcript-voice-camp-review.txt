@@ -1,0 +1,24 @@
+# Lines where accent-voice and camp fingerprint disagreed — confirm on MKV
+[00:03] final=Ari voice=Norman(Δ0.08) camp=Ari(10) | All righty. You can see me, right?
+[00:15] final=Ari voice=Norman(Δ0.16) camp=Ari(10) | Not at all means you have no questions or it means you have questions. So no questions.
+[01:36] final=Norman voice=Ari(Δ0.09) camp=Norman(10) | I just want to guess or know on that. Yes, no. You're saying no? No, okay. All right.
+[04:48] final=Ari voice=Norman(Δ0.17) camp=Ari(19) | Oh, there's way better examples than that. You got a 1997 DOJ handbook that basically has 
+[05:11] final=Norman voice=Ari(Δ0.34) camp=Norman(17) | So, it doesn't get more obvious than that. Question to you is, A, it sounds like you do be
+[05:17] final=Norman voice=Ari(Δ0.15) camp=Norman(16) | You couldn't find it anywhere on your website, anywhere. And I'm wondering, no, no, no, I 
+[05:26] final=Norman voice=Ari(Δ0.29) camp=Norman(18) | Sorry, whatever you did, I couldn't find it. Nothing I predicted programming. You're missi
+[05:30] final=Norman voice=Ari(Δ0.32) camp=Norman(10) | So, send me your article. I want to see what you said I predicted programming. I'd love to
+[05:45] final=Ari voice=Ari(Δ0.12) camp=Norman(8) | Apparing this for the event, right? But why and how and who and where and what?
+[05:56] final=Norman voice=Ari(Δ0.30) camp=Norman(16) | You got to explain why. People want to know why. I know why. You don't know why.
+[05:59] final=Norman voice=Ari(Δ0.33) camp=Norman(9) | And you're not even interested in why. So you're going to lose everyone because you just d
+[06:03] final=Norman voice=Ari(Δ0.30) camp=Norman(9) | So that's the main question to you is why did all that predictive programming predict this
+[06:13] final=Norman voice=Ari(Δ0.29) camp=Norman(18) | You basically have nothing more than an attack on Gage and a couple other people.
+[14:49] final=Norman voice=Ari(Δ0.22) camp=Norman(10) | Iranian passports and so forth.
+[20:07] final=Norman voice=Ari(Δ0.30) camp=Norman(10) | Is it a DEU or not? You keep debunking me on saying that.
+[20:11] final=Norman voice=Ari(Δ0.33) camp=Norman(9) | So that's the first thing I said. I said a hot DEU
+[20:21] final=Norman voice=Ari(Δ0.27) camp=Norman(10) | So my point is you weren't actually ready
+[20:34] final=Norman voice=Ari(Δ0.32) camp=Norman(10) | So do you have anything non-manic to say
+[20:36] final=Ari voice=Ari(Δ0.31) camp=Norman(8) | or any kind of tangents you want to take this?
+[20:38] final=Ari voice=Ari(Δ0.31) camp=Norman(8) | Because we're at the end if you can't explain basic concepts
+[20:40] final=Ari voice=Ari(Δ0.29) camp=Norman(8) | like if it was a hot DEU or a cold DEU
+[20:42] final=Ari voice=Ari(Δ0.31) camp=Norman(7) | without tangenting and saying something unrelated
+[41:26] final=Ari voice=Ari(Δ0.33) camp=Norman(8) | You can't just say, go read a book.

@@ -32,6 +32,8 @@ yarn-error.log*
 
 # local env files
 .env*.local
+docs/debate-notes/.hf_token
+docs/debate-notes/.hr_token
 
 # vercel
 .vercel
@@ -53,7 +55,3 @@ __pycache__/
 docs/sweep-plans/*
 !docs/sweep-plans/README.md
 !docs/sweep-plans/_TEMPLATE_SWEEP_PLAN.md
-
-# Live debate prep (local only; README stays tracked)
-docs/debate-notes/*
-!docs/debate-notes/README.md
