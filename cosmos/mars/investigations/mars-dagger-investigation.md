@@ -503,7 +503,7 @@ Treasure hunters who only had **partial** kit (stone without circle, or circle w
 
 ## VII. Spirit guardians — circumstantial haunting, folk theater, and the Moroni morph
 
-> **Epistemic frame (author correction):** Guardian phenomena at treasure and plate sites are **very interesting** but **not** recommended reading as **Mars access-control hardware**. They are **circumstantial** — a consequence of **how** post-MFEE deposits were buried, **who** was buried with them, and what **memory** was embedded in the medium. Folk magic and grimoire protocol (**circles, dagger, Adonai**) are how **operators tried to survive breach events** — not proof Mars faction installed DRM on every chamber. Apparitions and guardian images are **coupling phenomenology** in the [magic-as-technology lexicon](/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md) — demonstrable altered-state and embedded-signal classes — **not** license for undemonstrable supernatural causation.
+> **Epistemic frame (author correction):** Guardian phenomena at treasure and plate sites are **very interesting** but **not** recommended reading as **Mars access-control hardware** or **auto-attack traps on breach**. They are **circumstantial** — a consequence of **how** post-MFEE deposits were buried, **who** was buried with them, and what **memory** was embedded in the medium. The MFEE was **unexpected**; chambers could **not** have been retrofitted for **attack-on-breach** before burial. After burial, there is **no reason** to engineer such a system: failed diggers **wait and try again** (Palmyra pattern; *The Mummy* retry logic) — traps that punish breachers only **scare off** the people who must reopen the deposit. Folk magic and grimoire protocol (**circles, dagger, Adonai**) are how **operators tried to survive breach events** — not proof Mars faction installed DRM on every chamber. Apparitions and guardian images are **coupling phenomenology** in the [magic-as-technology lexicon](/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md) — demonstrable altered-state and embedded-signal classes — **not** license for undemonstrable supernatural causation or non-human **released on breach** entities.
 
 ### 7.0 Circumstantial guardians — burial chambers, embedded memory, seal breach
 
@@ -528,8 +528,10 @@ MFEE burial chamber (dead + hoard + analog medium)
 **What this is NOT:**
 
 - **Not** a Mars faction **device** installed to protect treasure.
+- **Not** an **auto-attack** or **trap-on-breach** security product — the MFEE was **unplanned**; deposits could **not** have been prepared for hostile breach response **before** cataclysm burial; after burial, **no rational operator** installs a system that **punishes** the only people who can reopen the chamber. Failed crews **withdraw, wait, and return** — Palmyra dig pattern and standard adventure-fiction logic (*The Mummy*: try again with better protocol).
 - **Not** proof every failed dig failed because a **martial planetary stack** rejected the crew.
 - **Not** interchangeable with **gnome DRM** in grimoires — grimoires are **human protocol for surviving breach**, possibly preserving distorted memory of real events ([cargo-cults](/history/mudflood/investigations/cargo-cults-investigation.md) — ritual as imprint of earlier tech).
+- **Not** a **non-human entity released on breach** thesis — repo does **not** carry that fork ([reader essay § breach](/cosmos/mars/mars-dagger.md)).
 
 **What this IS:**
 
@@ -694,7 +696,7 @@ Vogel: this **legitimized** the treasure seer who succeeds where others fail —
 5. **Walters** — Ceremonial **sword** in Cole's satire vs Smith **dagger**; same kit issued to competing dig crews? Did Walters **transmit** parchments/dagger or only parallel protocol?
 6. **Timeline slot** — Palmyra digs ~1820–1825 as **late rehabilitation** generation vs ongoing Mars extraction ops?
 7. **What was "treasure"?** — Coin hoards only, or mud-buried Tartarian/MFEE infrastructure and sealed analog stores?
-8. **Guardian identity** — Circumstantial **buried dead + memory release** (§7.0) vs folk overlay vs redacted angel — **not** Mars security product.
+8. **Guardian identity** — Circumstantial **buried dead + memory release** (§7.0) vs folk overlay vs redacted angel — **not** Mars security product, **not** auto-attack trap, **not** non-human **released on breach** fork.
 9. **Alvin necromancy** — Ritual requirement for body/companion, or neighbor slander? Exhumation Sept 1824 timing vs plate schedule.
 10. **Captain Kidd / Moroni / Cumorah** — Phonetic or geographic echo, or distraction from Spanish-mine guardian lore (Harmony Lewises)?
 11. **Layer A vs Layer B** (§3.5) — Can terrestrial transmission explain **plate coupling** without Mars handlers? What primary evidence would close the operator-provenance branch?

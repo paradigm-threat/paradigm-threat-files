@@ -1,8 +1,75 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-28T12:51:09.473Z",
+    "date": "2026-06-28T13:07:37.378Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/mars-dagger-investigation.md",
+        "href": "/cosmos/mars/investigations/mars-dagger-investigation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/mars-dagger.md",
+        "href": "/cosmos/mars/mars-dagger"
+      }
+    ],
+    "images": [
+      {
+        "src": "/cosmos/mars/mars-dagger-image.jpg",
+        "alt": "Smith family Mars dagger — full view with scabbard"
+      },
+      {
+        "src": "/cosmos/mars/mars-dagger-front.jpg",
+        "alt": "Mars dagger — Seal of Mars on blade"
+      },
+      {
+        "src": "/cosmos/mars/mars-dagger-back2.jpg",
+        "alt": "Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
+        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-back2.jpg",
+        "alt": "Smith family Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-image.jpg",
+        "alt": "Smith family Mars dagger — full view with scabbard"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-front.jpg",
+        "alt": "Mars dagger — Seal of Mars on blade"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/globalist_stranglehold.jpg",
+        "alt": "The Deep State on Mars — City of London, Vatican City, and Washington D.C. (finance, religion, military)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/gutenberg_bible_1455.jpg",
+        "alt": "Latin manuscript with rubrication and struck-through lines — church print gatekeeping (Gutenberg-era Bible page)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
+        "alt": "Promised land — post-MFEE rehabilitation and delivery narratives (investigation header)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
+        "alt": "Quantum computer / infinitely indexed storage — analog memory and embedded signal thesis (investigation header)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
+        "alt": "Joseph Smith mystery solved — crystal-memory interpretation (Quantum Leap of faith)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-28T12:51:08.000Z",
+    "message": "Mars dagger: MFEE detachment, Smith line amnesia, Joseph outside cult.",
     "files": [
       {
         "status": "M",
@@ -2162,60 +2229,6 @@
       {
         "src": "https://paradigmthreat.net/science/health/frequency_health2.jpg",
         "alt": "Cell voltage and pH — healthy range, polarity flip, cancer threshold (frequency-health chart)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/ph_voltage.jpg",
-        "alt": "Dr. Jerry Tennant — body as electronic device, pH as voltage, EU2017 Future Science"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/ph_voltage2.jpg",
-        "alt": "Healing is Voltage — reference library, BioModulator devices, Cancer’s On/Off Switches: Polarity (Tennant)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/cell-regen.png",
-        "alt": "Cell turnover times — regeneration clock if voltage and field are restored (Tennant-aligned exhibit)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-25T14:11:58.000Z",
-    "message": "Restructure Rife reader essay around meme-to-OCR arc and add art.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/health/royal-rife-frequency-medicine-suppression.md",
-        "href": "/science/health/royal-rife-frequency-medicine-suppression"
-      },
-      {
-        "status": "A",
-        "path": "science/health/royal-rife-frequency-medicine-suppression.png",
-        "href": "/science/health/royal-rife-frequency-medicine-suppression.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/health/royal-rife-frequency-medicine-suppression.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/royal-rife-frequency-medicine-suppression.png",
-        "alt": "Royal Rife — what the letters say when the banquet only heard the microscope (investigation art)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/nukes/HEUraniumC.jpg",
-        "alt": "Depleted uranium puck — weapon fraction vs therapeutic isotope (DU exhibit)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/frequency_health2.jpg",
-        "alt": "Cell voltage and pH — healthy range, polarity flip, cancer threshold (frequency-health chart)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/eastern_medicine.jpg",
-        "alt": "Traditional Chinese Medicine meridians — organ circuits and voltage lanes (Jerry Tennant, © 2011)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/wotw.jpg",
-        "alt": "War of the Worlds — heat ray, red weed, Mars inversion (fiction encoding)"
       },
       {
         "src": "https://paradigmthreat.net/science/health/ph_voltage.jpg",
