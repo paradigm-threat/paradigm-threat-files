@@ -1,8 +1,58 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-28T13:22:51.625Z",
+    "date": "2026-06-28T13:38:46.642Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/mars/mars-dagger.md",
+        "href": "/cosmos/mars/mars-dagger"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
+        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-back2.jpg",
+        "alt": "Smith family Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-image.jpg",
+        "alt": "Smith family Mars dagger — full view with scabbard"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-front.jpg",
+        "alt": "Mars dagger — Seal of Mars on blade"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/globalist_stranglehold.jpg",
+        "alt": "The Deep State on Mars — City of London, Vatican City, and Washington D.C. (finance, religion, military)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/gutenberg_bible_1455.jpg",
+        "alt": "Latin manuscript with rubrication and struck-through lines — church print gatekeeping (Gutenberg-era Bible page)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
+        "alt": "Promised land — post-MFEE rehabilitation and delivery narratives (investigation header)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
+        "alt": "Quantum computer / infinitely indexed storage — analog memory and embedded signal thesis (investigation header)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
+        "alt": "Joseph Smith mystery solved — crystal-memory interpretation (Quantum Leap of faith)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-28T13:22:50.000Z",
+    "message": "Mars dagger: Endgame only film that gets treasure-chamber logic.",
     "files": [
       {
         "status": "M",
@@ -1355,56 +1405,6 @@
       {
         "src": "/influence/censorship/github-ban5.png",
         "alt": "GitHub restriction context (continued)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-26T14:35:06.000Z",
-    "message": "Fold Tartar western-relabel thesis into barbarian cluster in Hidden History of Words.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/the-hidden-history-of-words.md",
-        "href": "/history/chronology/the-hidden-history-of-words"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.png",
-        "alt": "The Hidden History of Words — lexical reset, Latin breakaway, and the Horde redaction wall (article hero)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/redacted.jpg",
-        "alt": "Dictionary trail ending at redaction — lexical history redaction wall"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/christ/bible_was_redacted.jpg",
-        "alt": "Bible redaction — mass translation as lexical seal"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/christ/crucifixion_simone_martini_066.jpg",
-        "alt": "Crucifixion — Simone Martini, c. 1333 (Passion trial vocabulary anchor)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png",
-        "alt": "Europe whitewash — Moor / Boor / complexion label politics"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.png",
-        "alt": "Giants, infantry, guerrilla — Horde foot lines and post-cannon survival"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/life_on_mars_rules_earth.png",
-        "alt": "Mars-associated control — life on Mars rules Earth (lexical war cluster)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.jpg)](https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.md",
-        "alt": "Troy was also called Yoros — short for Ierosalim, Jerusalem (#1), Tsar-Grad"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
-        "alt": "Franklin Palatine Boors vs Moors — screenshot forensics (Palatine Moors, black German King George II)"
       }
     ]
   }
