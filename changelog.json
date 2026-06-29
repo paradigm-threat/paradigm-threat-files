@@ -1,8 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-28T20:10:15.378Z",
+    "date": "2026-06-29T13:43:46.138Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
+        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "scripts/generate-index.py",
+        "href": "/scripts/generate-index.py"
+      }
+    ],
+    "images": [
+      {
+        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
+        "alt": "Richard Gage / AE911Truth — investigation header graphic"
+      },
+      {
+        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png",
+        "alt": "Richard Gage / AE911Truth — investigation graphic (charity envelope, open-air prison)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-28T20:10:13.000Z",
+    "message": "Add Norman 9/11 debate transcript, diarization pipeline, and curated edition.",
     "files": [
       {
         "status": "M",
@@ -1286,81 +1313,6 @@
       {
         "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
         "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-27T11:34:32.000Z",
-    "message": "Add nightmare night-mare thesis tied to 1492 Apocalypse Crusade.",
-    "files": [
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/author-unique-theories.md",
-        "href": "/history/chronology/investigations/author-unique-theories"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/index-investigations.md",
-        "href": "/history/chronology/investigations/index-investigations"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/lexical-redaction-hub-investigation.md",
-        "href": "/history/chronology/investigations/lexical-redaction-hub-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/chronology/investigations/nightmare-night-mare-1492-apocalypse-crusade-investigation.md",
-        "href": "/history/chronology/investigations/nightmare-night-mare-1492-apocalypse-crusade-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md",
-        "href": "/history/chronology/investigations/rus-horde-english-political-lexicon-speculation"
-      },
-      {
-        "status": "M",
-        "path": "history/chronology/the-hidden-history-of-words.md",
-        "href": "/history/chronology/the-hidden-history-of-words"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.png",
-        "alt": "The Hidden History of Words — lexical reset, Latin breakaway, and the Horde redaction wall (article hero)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/redacted.jpg",
-        "alt": "Dictionary trail ending at redaction — lexical history redaction wall"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/christ/bible_was_redacted.jpg",
-        "alt": "Bible redaction — mass translation as lexical seal"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/christ/crucifixion_simone_martini_066.jpg",
-        "alt": "Crucifixion — Simone Martini, c. 1333 (Passion trial vocabulary anchor)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png",
-        "alt": "Europe whitewash — Moor / Boor / complexion label politics"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.png",
-        "alt": "Giants, infantry, guerrilla — Horde foot lines and post-cannon survival"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/life_on_mars_rules_earth.png",
-        "alt": "Mars-associated control — life on Mars rules Earth (lexical war cluster)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.jpg)](https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.md",
-        "alt": "Troy was also called Yoros — short for Ierosalim, Jerusalem (#1), Tsar-Grad"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
-        "alt": "Franklin Palatine Boors vs Moors — screenshot forensics (Palatine Moors, black German King George II)"
       }
     ]
   }

@@ -315,6 +315,6 @@ Sources: [Wikipedia — Original World Trade Center (1973–2001)](https://en.wi
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-Keywords: #Richardgage #Ae911truth #Controlled #Demolition #911 #Noplanes #Wtc7 #Censorship #Controlledopposition #Covid #Openairprison #Nonprofitcontainment #501c3 #JudyWood #DEW #Dustification #PoisonTheWell #ExtremeHangout #Thermite
+Keywords: #Richardgage #Ae911truth #Controlled #Demolition #911 #Physics #Forensic #Noplanes #Wtc7 #Censorship #Controlledopposition #Covid #Openairprison #Nonprofitcontainment #501c3 #JudyWood #DEW #Dustification #PoisonTheWell #ExtremeHangout #Thermite
 
 **Substack:** [paradigmthreat2.substack.com/p/investigation-richard-gage-ae911truth](https://paradigmthreat2.substack.com/p/investigation-richard-gage-ae911truth)

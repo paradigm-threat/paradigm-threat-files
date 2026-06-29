@@ -57,6 +57,67 @@ def _extract_keywords_from_markdown_file(full_path: str) -> list[str]:
     return re.findall(r"#([^\s#\-]+)", m.group(1))
 
 
+def _strip_markdown_lite(text: str) -> str:
+    text = re.sub(r"```[\s\S]*?```", " ", text)
+    text = re.sub(r"`([^`]+)`", r"\1", text)
+    text = re.sub(r"!\[[^\]]*\]\([^)]*\)", " ", text)
+    text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text)
+    text = re.sub(r"\*\*([^*]+)\*\*", r"\1", text)
+    text = re.sub(r"\*([^*]+)\*", r"\1", text)
+    text = re.sub(r"^#{1,6}\s+", "", text, flags=re.MULTILINE)
+    text = re.sub(r"^>\s?", "", text, flags=re.MULTILINE)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+def _extract_tldr_plain(content: str) -> str:
+    lines = content.split("\n")
+    for i, line in enumerate(lines):
+        trimmed = line.strip()
+        if not trimmed.startswith(">"):
+            continue
+        inner = re.sub(r"^>\s?", "", trimmed)
+        if not re.match(r"(\*\*)?TL;DR:", inner, re.IGNORECASE):
+            continue
+        block: list[str] = []
+        for j in range(i, len(lines)):
+            tl = lines[j].strip()
+            if tl.startswith(">"):
+                block.append(re.sub(r"^>\s?", "", tl))
+            elif block:
+                break
+        joined = "\n".join(block)
+        joined = re.sub(r"^\*\*TL;DR:\*\*\s*", "", joined, flags=re.IGNORECASE)
+        joined = re.sub(r"^TL;DR:\s*", "", joined, flags=re.IGNORECASE)
+        return _strip_markdown_lite(joined)
+    return ""
+
+
+def _extract_search_snippet_from_markdown_file(full_path: str, max_body_chars: int = 1200) -> str | None:
+    """Plain-text TL;DR + body excerpt for site search (path/title/keywords alone miss body terms)."""
+    try:
+        with open(full_path, "r", encoding="utf-8") as f:
+            content = f.read()
+    except OSError:
+        return None
+
+    parts: list[str] = []
+    tldr = _extract_tldr_plain(content)
+    if tldr:
+        parts.append(tldr)
+
+    body = re.sub(r"\nKeywords:\s*.+$", "", content, flags=re.IGNORECASE | re.DOTALL)
+    body = re.sub(r"^#\s+.+\n", "", body, count=1)
+    plain = _strip_markdown_lite(body)
+    if len(plain) > max_body_chars:
+        plain = plain[:max_body_chars].rsplit(" ", 1)[0]
+    if plain:
+        parts.append(plain)
+
+    snippet = " ".join(p for p in parts if p).strip()
+    return snippet or None
+
+
 def _git_last_commit_unix_times(repo_dir: str) -> Dict[str, int]:
     """Map repo-relative paths (forward slashes) -> Unix time of last commit touching them.
 
@@ -192,6 +253,9 @@ def generate_index():
                     kw = _extract_keywords_from_markdown_file(full_path)
                     if kw:
                         file_data["_keywords"] = kw
+                    snippet = _extract_search_snippet_from_markdown_file(full_path)
+                    if snippet:
+                        file_data["_searchSnippet"] = snippet
 
                 if ext in {'.jpg', '.jpeg', '.png', '.webp'}:
                     try:
