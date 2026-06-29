@@ -66,6 +66,14 @@ def _strip_markdown_lite(text: str) -> str:
     text = re.sub(r"\*([^*]+)\*", r"\1", text)
     text = re.sub(r"^#{1,6}\s+", "", text, flags=re.MULTILINE)
     text = re.sub(r"^>\s?", "", text, flags=re.MULTILINE)
+    text = re.sub(r"\*\*TL;DR:\*\*\s*", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"TL;DR:\s*", " ", text, flags=re.IGNORECASE)
+    text = re.sub(
+        r"\b[\w./-]+\.(?:jpg|jpeg|png|gif|webp|svg|mp4|webm|pdf)\b",
+        " ",
+        text,
+        flags=re.IGNORECASE,
+    )
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 

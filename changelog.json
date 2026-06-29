@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-29T13:43:46.138Z",
+    "date": "2026-06-29T15:10:22.171Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "scripts/generate-index.py",
+        "href": "/scripts/generate-index.py"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-29T13:43:43.000Z",
+    "message": "Add body snippets to search index and tag Gage investigation with Physics.",
     "files": [
       {
         "status": "M",
@@ -1254,53 +1267,6 @@
       {
         "src": "/cosmos/mars/mars-dagger-image.jpg",
         "alt": "Smith family Mars dagger — full view with scabbard"
-      },
-      {
-        "src": "/cosmos/mars/mars-dagger-front.jpg",
-        "alt": "Mars dagger — Seal of Mars on blade"
-      },
-      {
-        "src": "/cosmos/mars/mars-dagger-back2.jpg",
-        "alt": "Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
-        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-27T14:08:46.000Z",
-    "message": "Add Mars dagger essay hero PNG and rename scabbard photo asset.",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/mars/investigations/mars-dagger-investigation.md",
-        "href": "/cosmos/mars/investigations/mars-dagger-investigation"
-      },
-      {
-        "status": "R",
-        "path": "cosmos/mars/mars-dagger-image.jpg",
-        "href": "/cosmos/mars/mars-dagger-image.jpg"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/mars/mars-dagger.md",
-        "href": "/cosmos/mars/mars-dagger"
-      },
-      {
-        "status": "A",
-        "path": "cosmos/mars/mars-dagger.png",
-        "href": "/cosmos/mars/mars-dagger.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/cosmos/mars/mars-dagger-image.jpg"
-      },
-      {
-        "src": "/cosmos/mars/mars-dagger.png"
       },
       {
         "src": "/cosmos/mars/mars-dagger-front.jpg",
