@@ -10,6 +10,7 @@
     "generate-changelog": "node scripts/generate-changelog.cjs",
     "autogen": "npm run check-keywords && npm run generate-index && npm run generate-changelog",
     "generate-mgga-onepager": "./.venv/bin/python scripts/generate-mgga-onepager.py",
+    "exact-change-sim": "node scripts/exact-change-wallet-sim.mjs",
     "prepare": "husky"
   },
   "dependencies": {

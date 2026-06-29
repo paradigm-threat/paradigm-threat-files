@@ -317,6 +317,7 @@ Cold vs hot DEW division, “wasting my time,” tangent offers — **16 dispute
 
 ## Related files
 
+- [Post-debate debrief](./norman-911revision-live-debate-debrief.md) — goals, CO playbook, **“It's not manic, it's America!”**, planned article
 - [Debate notes & prep](./norman-911revision-live-debate.md)
 - [Diarization intervals](./norman-911revision-diarization.json)
 - [Voice vs camp disagreements](./norman-911revision-live-debate-transcript-voice-camp-review.txt)

@@ -1,8 +1,171 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-29T15:10:22.171Z",
+    "date": "2026-06-29T17:00:59.435Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "Qui_Tam_Wood.html",
+        "href": "/Qui_Tam_Wood.html"
+      },
+      {
+        "status": "A",
+        "path": "casazza-confronts-gage.html",
+        "href": "/casazza-confronts-gage.html"
+      },
+      {
+        "status": "A",
+        "path": "docs/debate-notes/norman-911revision-live-debate-debrief.md",
+        "href": "/docs/debate-notes/norman-911revision-live-debate-debrief"
+      },
+      {
+        "status": "M",
+        "path": "docs/debate-notes/norman-911revision-live-debate-transcript-curated.md",
+        "href": "/docs/debate-notes/norman-911revision-live-debate-transcript-curated"
+      },
+      {
+        "status": "M",
+        "path": "docs/debate-notes/norman-911revision-live-debate.md",
+        "href": "/docs/debate-notes/norman-911revision-live-debate"
+      },
+      {
+        "status": "M",
+        "path": "package.json",
+        "href": "/package.json"
+      },
+      {
+        "status": "M",
+        "path": "page.md",
+        "href": "/page"
+      },
+      {
+        "status": "A",
+        "path": "rfc-page.html",
+        "href": "/rfc-page.html"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/ecw-design/README.md",
+        "href": "/science/computing/ecw-design/README"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/ecw-design/card-slice-edge.png",
+        "href": "/science/computing/ecw-design/card-slice-edge.png"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/ecw-design/card-slice-edge.svg",
+        "href": "/science/computing/ecw-design/card-slice-edge.svg"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/ecw-design/card-slice-top.png",
+        "href": "/science/computing/ecw-design/card-slice-top.png"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/ecw-design/card-slice-top.svg",
+        "href": "/science/computing/ecw-design/card-slice-top.svg"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/ecw-design/chatgpt-prompt.md",
+        "href": "/science/computing/ecw-design/chatgpt-prompt"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/ecw-design/full-wallet-tray-ui.png",
+        "href": "/science/computing/ecw-design/full-wallet-tray-ui.png"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/ecw-design/full-wallet-tray-ui.svg",
+        "href": "/science/computing/ecw-design/full-wallet-tray-ui.svg"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/exact-change-wallet-invention-concept.png",
+        "href": "/science/computing/exact-change-wallet-invention-concept.png"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/exact-change-wallet-invention.md",
+        "href": "/science/computing/exact-change-wallet-invention"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/exact-change-wallet-invention.png",
+        "href": "/science/computing/exact-change-wallet-invention.png"
+      },
+      {
+        "status": "A",
+        "path": "science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md",
+        "href": "/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation"
+      },
+      {
+        "status": "A",
+        "path": "scripts/exact-change-wallet-sim.mjs",
+        "href": "/scripts/exact-change-wallet-sim.mjs"
+      },
+      {
+        "status": "A",
+        "path": "wdttg-index.html",
+        "href": "/wdttg-index.html"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/computing/ecw-design/card-slice-edge.png"
+      },
+      {
+        "src": "/science/computing/ecw-design/card-slice-edge.svg"
+      },
+      {
+        "src": "/science/computing/ecw-design/card-slice-top.png"
+      },
+      {
+        "src": "/science/computing/ecw-design/card-slice-top.svg"
+      },
+      {
+        "src": "/science/computing/ecw-design/full-wallet-tray-ui.png"
+      },
+      {
+        "src": "/science/computing/ecw-design/full-wallet-tray-ui.svg"
+      },
+      {
+        "src": "/science/computing/exact-change-wallet-invention-concept.png"
+      },
+      {
+        "src": "/science/computing/exact-change-wallet-invention.png"
+      },
+      {
+        "src": "/influence/conspiracy/embedding.jpg",
+        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
+      },
+      {
+        "src": "/influence/conspiracy/scientific_truth.jpg",
+        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
+        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
+      },
+      {
+        "src": "/cosmos/mars/mars_life.jpg",
+        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
+      },
+      {
+        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
+        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-29T15:10:19.000Z",
+    "message": "Strip TL;DR labels and image filenames from search index snippets.",
     "files": [
       {
         "status": "M",
@@ -1244,41 +1407,6 @@
       {
         "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
         "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. **No “narrative spine” / companion-dossier routing** between the hook and the first `##` body section — that belongs in **`## Where next`** (see Shape step 6). Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Series installments:** read the **prior installment** in full; cut shared frame that Installment I already taught. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-27T14:12:02.000Z",
-    "message": "Highlight Mars dagger as Joseph Smith founder household provenance.",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/mars/investigations/mars-dagger-investigation.md",
-        "href": "/cosmos/mars/investigations/mars-dagger-investigation"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/mars/mars-dagger.md",
-        "href": "/cosmos/mars/mars-dagger"
-      }
-    ],
-    "images": [
-      {
-        "src": "/cosmos/mars/mars-dagger-image.jpg",
-        "alt": "Smith family Mars dagger — full view with scabbard"
-      },
-      {
-        "src": "/cosmos/mars/mars-dagger-front.jpg",
-        "alt": "Mars dagger — Seal of Mars on blade"
-      },
-      {
-        "src": "/cosmos/mars/mars-dagger-back2.jpg",
-        "alt": "Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
-        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
       }
     ]
   }

@@ -303,6 +303,8 @@ He has published **Grok verdicts**, **ChatGPT Headfake**, full article on AI + 9
 
 ## 12. Post-debate debrief
 
+**Canonical debrief:** [norman-911revision-live-debate-debrief.md](./norman-911revision-live-debate-debrief.md) — goals, PP/book-shield correction, **“It's not manic, it's America!”** strat, CO playbook, planned reader article.
+
 **Date:** 2026-06-28 · **Runtime:** 52:12 · **Transcript:** [raw txt](./norman-911revision-live-debate-transcript.txt) · [curated](./norman-911revision-live-debate-transcript-curated.md) · [json](./norman-911revision-live-debate-transcript.json)
 
 **Speaker ID:** Relabeled 2026-06-28 — pyannote diarization + v3 camp/voice + opening split — see [§12.1](#121-how-speaker-labels-were-made). **Timestamps + text are solid; speaker tags are strong on ideological lines, weaker on rapid cross-talk.** Spot-check on MKV before publishing a pull quote.

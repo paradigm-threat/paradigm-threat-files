@@ -207,6 +207,8 @@ or *not* believing.
 * [Microchips](/science/microchips/microchips-shrinking-technology-investigation.md) — Shrinking tech, supply opacity, control thesis.
 * [Quantum computer — infinitely indexed storage thesis](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) — Author: storage / frequency-addressing vs mainstream gate-qubit narrative; open questions.
 * [Google — Don't Be Evil to enclosure](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) — Intent pattern, Alphabet pivot, Android developer verification; [keepandroidopen.org](https://keepandroidopen.org/) coalition.
+* [The Exact-Change Wallet](/science/computing/exact-change-wallet-invention.md) — Author invention: wallet-sized MCU, keypad, LED coin map; minimum 3Q/1D/2N/4P inventory; why it was never shipped.
+* [U.S. physical coin circulation — phase-out and cashless transition](/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md) — Penny halt (Nov 2025), Fed coin-terminal friction, Mint seigniorage; consumer shift to digital payments; bearer-cash enclosure pattern.
 * [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) — Reader essay: vector vs raster, analog substrate, commons capture, walled gardens; hooks the infinite-index thesis.
 * [Galen Winsor](/science/nukes/investigations/nuke-waste-is-safe-investigation.md) — “Nuclear waste is safe” alternative framework.
 * ["Nukes Don't Exist"](/science/nukes/investigations/nukes-dont-exist-investigation.md) — Alternative framework vs standard nuclear model.
