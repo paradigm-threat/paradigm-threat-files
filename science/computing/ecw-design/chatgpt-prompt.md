@@ -76,6 +76,11 @@ Bill halo on display — NOT on bill pocket alone.
 Panel C label: "C · Wallet · Penny · buttons under display"
 Panel D label: "D · Wallet · Dollar Plus · keypad under buttons"
 
+Panel E (Hybrid Plus): UPLOAD full-wallet-hybrid.png — 11 coins, 120 mm tray:
+  Row 1: 3Q | Row 2: 2D+1N | Rows 3-4: 4P in 2×2 | Row 5: 1× golden $1 centered.
+  UI rail RIGHT of tray (77 mm coins + 20 mm UI column, NO overlap).
+  Keypad under $ − + like Panel D. 204 cents face. WALLET ONLY — no slim Card Slice for all coins.
+
 Legend bar: "No app · No Bluetooth · CR2032 · Amber LED = take coin · Blue/white halo = add ≥$1 paper · Slice = spin wheels · Wallet = buttons under display"
 
 Style: Dieter Rams / Braun minimal EDC. Matte charcoal polymer + black leather. No touchscreen. No motorized dispensers.
@@ -107,6 +112,17 @@ Top-right of tray leaf: display with BILL HALO ring, then $ − + buttons DIRECT
 NO wheels. NO hinge buttons. NO GO.
 Coins: 3Q, 2D+1N, 2×2 pennies. Amber slot LEDs.
 Left leaf: cards, ID, $20 bill.
+```
+
+### Full Wallet Hybrid (Panel E)
+
+```
+Photorealistic ECW Full Wallet bifold open. UPLOAD full-wallet-hybrid.png.
+
+11-coin hybrid tray (120 mm tall): 3Q, 2D+1N, 4P in 2×2, then 1× golden Sacagawea $1 on bottom row.
+77 mm coin tray LEFT + 20 mm UI rail RIGHT — no overlap between coins and display.
+Display stack + keypad (like Dollar Plus): halo → readout → $ − + → 0-9 keypad.
+Amber LED under each of 11 slots.
 ```
 
 ---

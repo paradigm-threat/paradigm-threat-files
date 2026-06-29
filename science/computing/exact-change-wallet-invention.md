@@ -124,7 +124,7 @@ Thick **clamshell** with a **keypad deck** under the tray (~13 mm). Motorized di
 
 The industrial design goal remains **one molded tray**, **one small MCU**, light pipes — **calculator discipline**, not fintech wearable.
 
-### Four SKUs — penny era vs dollar-coin era
+### Product SKUs — penny era, dollar era, and hybrid
 
 ![Exact-Change Wallet — four-SKU concept sheet (A–D)](exact-change-wallet-invention-concept.png)
 
@@ -137,6 +137,8 @@ Policy fork (investigation **§8–§11**): circulating **penny minting** is **h
 **Full Wallet · Penny** — same tray + **cards / ID / bills** + **display-stack `$`/`−`/`+`**.
 
 **Full Wallet · Dollar Plus** — same dollar tray + **keypad under buttons** — **default forward** SKU.
+
+**Full Wallet · Hybrid Plus (E)** — **3Q / 2D / 1N / 4P / 1×$1** (**11 coins**, **120 mm** tray, **204¢** face); **keypad under buttons**; pennies **and** golden dollar — **wallet-only** (slim Card Slice cannot fit all eleven coins; see [`full-wallet-hybrid.svg`](ecw-design/full-wallet-hybrid.svg)).
 
 Faceplate reference: [`science/computing/ecw-design/`](ecw-design/README.md).
 

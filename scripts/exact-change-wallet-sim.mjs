@@ -32,6 +32,8 @@ export const TRAYS = {
   DOLLAR_ONE_N: { Q: 3, D: 2, N: 1, P: 0, $: 1 },
   /** Dollar-era: 3Q·1D·2N·1$ (7 coins) */
   DOLLAR_TWO_N: { Q: 3, D: 1, N: 2, P: 0, $: 1 },
+  /** Hybrid wallet: 3Q·2D·1N·4P·1$ (11 coins) — pennies + golden dollar */
+  HYBRID: { Q: 3, D: 2, N: 1, P: 4, $: 1 },
 };
 
 // ---------------------------------------------------------------------------

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="112mm" height="132mm" viewBox="0 0 112 132">
+  <title>ECW Full Wallet Hybrid E - 3Q+2D+1N+4P+$1 (11 coins)</title>
+  <defs>
+    <style>
+      .outline { fill: #2a2a2a; stroke: #111; stroke-width: 0.3; }
+      .tray-bg { fill: #252525; stroke: #444; stroke-width: 0.2; }
+      .ui-rail { fill: #333; stroke: #555; stroke-width: 0.25; }
+      .pocket { fill: #1a1a1a; stroke: #555; stroke-width: 0.25; }
+      .coin-q { fill: #c0c0c0; stroke: #888; stroke-width: 0.2; }
+      .coin-d { fill: #c8c8c8; stroke: #888; stroke-width: 0.2; }
+      .coin-n { fill: #b8b8b8; stroke: #888; stroke-width: 0.2; }
+      .coin-p { fill: #d4af37; stroke: #996; stroke-width: 0.2; }
+      .coin-1 { fill: #e8c547; stroke: #aa8; stroke-width: 0.2; }
+      .ui-block { fill: #3a3a3a; stroke: #666; stroke-width: 0.2; }
+      .display { fill: #0a0a0a; stroke: #666; stroke-width: 0.2; }
+      .halo { fill: none; stroke: #88ccff; stroke-width: 0.6; }
+      .btn { fill: #444; stroke: #888; stroke-width: 0.25; }
+      .key { fill: #3a3a3a; stroke: #777; stroke-width: 0.2; }
+      .label { font-family: sans-serif; font-size: 2px; fill: #aaa; }
+      .dim { font-family: sans-serif; font-size: 1.8px; fill: #666; }
+      .title { font-family: sans-serif; font-size: 2.5px; fill: #ccc; font-weight: bold; }
+      .panel { font-family: sans-serif; font-size: 2px; fill: #88ccff; }
+      .note { font-family: sans-serif; font-size: 1.8px; fill: #f96; }
+    </style>
+  </defs>
+
+  <text class="title" x="2" y="5">E Wallet Hybrid - pennies + $1 coin (11 slots, 120 mm tray)</text>
+
+  <g id="panel_e_hybrid">
+    <text class="panel" x="4" y="9">E Wallet Hybrid Plus - keypad, 3Q+2D+1N+4P+$1</text>
+    <rect class="outline" x="2" y="10" width="108" height="120" rx="1"/>
+
+    <rect class="tray-bg" x="6" y="12" width="77.18" height="114" rx="0.6"/>
+    <g id="tray_e" transform="translate(6, 12)">
+      <g id="row_quarters">
+        <circle class="pocket" cx="12.53" cy="12.53" r="12.53"/>
+        <circle class="coin-q" cx="12.53" cy="12.53" r="12.13"/>
+        <circle class="pocket" cx="38.59" cy="12.53" r="12.53"/>
+        <circle class="coin-q" cx="38.59" cy="12.53" r="12.13"/>
+        <circle class="pocket" cx="64.65" cy="12.53" r="12.53"/>
+        <circle class="coin-q" cx="64.65" cy="12.53" r="12.13"/>
+        <text class="label" x="1" y="13">3Q</text>
+      </g>
+      <g id="row_middle">
+        <circle class="pocket" cx="17.2" cy="37.07" r="9.355"/>
+        <circle class="coin-d" cx="17.2" cy="37.07" r="8.955"/>
+        <circle class="pocket" cx="36.86" cy="37.07" r="9.355"/>
+        <circle class="coin-d" cx="36.86" cy="37.07" r="8.955"/>
+        <circle class="pocket" cx="58.28" cy="37.07" r="11.005"/>
+        <circle class="coin-n" cx="58.28" cy="37.07" r="10.605"/>
+        <text class="label" x="1" y="38">2D+1N</text>
+      </g>
+      <g id="row_pennies">
+        <circle class="pocket" cx="28.17" cy="59.0" r="9.925"/>
+        <circle class="coin-p" cx="28.17" cy="59.0" r="9.525"/>
+        <circle class="pocket" cx="49.02" cy="59.0" r="9.925"/>
+        <circle class="coin-p" cx="49.02" cy="59.0" r="9.525"/>
+        <circle class="pocket" cx="28.17" cy="79.85" r="9.925"/>
+        <circle class="coin-p" cx="28.17" cy="79.85" r="9.525"/>
+        <circle class="pocket" cx="49.02" cy="79.85" r="9.925"/>
+        <circle class="coin-p" cx="49.02" cy="79.85" r="9.525"/>
+        <text class="label" x="1" y="68">4P</text>
+      </g>
+      <g id="row_dollar">
+        <circle class="pocket" cx="38.59" cy="105.92" r="13.65"/>
+        <circle class="coin-1" cx="38.59" cy="105.92" r="13.25"/>
+        <text class="label" x="35" y="107.5">$1</text>
+        <text class="label" x="1" y="107">1x Sacagawea</text>
+      </g>
+    </g>
+
+    <rect class="ui-rail" x="86.18" y="12" width="20" height="114" rx="0.5"/>
+    <g id="ui_stack_e" transform="translate(86.18, 12)">
+      <rect class="ui-block" x="0" y="0" width="20" height="32" rx="0.8"/>
+      <text class="dim" x="10" y="-0.6" text-anchor="middle" fill="#88ccff">BILL+ halo</text>
+      <rect class="halo" x="2" y="1" width="16" height="6" rx="0.6"/>
+      <rect class="display" x="2.5" y="1.5" width="15" height="5" rx="0.4"/>
+      <text x="4" y="5.2" font-family="monospace" font-size="2.8" fill="#33ff66">20.24</text>
+      <rect class="btn" x="2.5" y="8.5" width="4.5" height="3.5" rx="0.4"/>
+      <text class="label" x="3.5" y="10.7" font-size="2">$</text>
+      <rect class="btn" x="8" y="8.5" width="4.5" height="3.5" rx="0.4"/>
+      <text class="label" x="8.8" y="10.7" font-size="2">-</text>
+      <rect class="btn" x="13.5" y="8.5" width="4.5" height="3.5" rx="0.4"/>
+      <text class="label" x="14.4" y="10.7" font-size="2">+</text>
+      <g id="keypad" transform="translate(2.5, 13.5)">
+        <rect class="key" x="0" y="0" width="4.5" height="3" rx="0.3"/><text class="label" x="1.8" y="2.2">1</text>
+        <rect class="key" x="5.5" y="0" width="4.5" height="3" rx="0.3"/><text class="label" x="7.3" y="2.2">2</text>
+        <rect class="key" x="11" y="0" width="4.5" height="3" rx="0.3"/><text class="label" x="12.8" y="2.2">3</text>
+        <rect class="key" x="0" y="3.5" width="4.5" height="3" rx="0.3"/><text class="label" x="1.8" y="5.7">4</text>
+        <rect class="key" x="5.5" y="3.5" width="4.5" height="3" rx="0.3"/><text class="label" x="7.3" y="5.7">5</text>
+        <rect class="key" x="11" y="3.5" width="4.5" height="3" rx="0.3"/><text class="label" x="12.8" y="5.7">6</text>
+        <rect class="key" x="0" y="7" width="4.5" height="3" rx="0.3"/><text class="label" x="1.8" y="9.2">7</text>
+        <rect class="key" x="5.5" y="7" width="4.5" height="3" rx="0.3"/><text class="label" x="7.3" y="9.2">8</text>
+        <rect class="key" x="11" y="7" width="4.5" height="3" rx="0.3"/><text class="label" x="12.8" y="9.2">9</text>
+        <rect class="key" x="0" y="10.5" width="9.5" height="3" rx="0.3"/><text class="label" x="3.5" y="12.7">0</text>
+        <rect class="key" x="10.5" y="10.5" width="5" height="3" rx="0.3"/><text class="label" x="11.8" y="12.7">C</text>
+      </g>
+    </g>
+
+    <text class="dim" x="6" y="127">tray 77x120 mm | 11 coins | 204 cents face | UI rail 20 mm</text>
+    <text class="note" x="6" y="130">Wallet-only SKU: room for full penny grid + golden dollar row</text>
+  </g>
+</svg>
