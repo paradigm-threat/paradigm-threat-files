@@ -409,27 +409,33 @@
   },
   {
     "id": "jfk-fake-assassination",
-    "title": "JFK was never assassinated",
-    "claim": "President John F. Kennedy was never assassinated—the November 22, 1963 Dallas motorcade was a staged fake assassination in a controlled environment with few witnesses. JFK survived a real prior attempt (Richard Pavlick); the family was ordered to comply with the hoax (automatronic mannequin, blood pack) so the Deep State could scale the Asian war without resistance. Oswald, the Warren Commission magic-bullet circus, and CIA “conspiracy theory” coinage are read as cover distractions; Vietnam followed.",
-    "answerOpener": "This site holds JFK was never assassinated—November 1963 was a staged fake assassination after a real Pavlick attempt; the family went along so the Deep State could run Vietnam without JFK blocking the war.",
+    "title": "JFK and RFK were never assassinated",
+    "claim": "President John F. Kennedy was never assassinated—the November 22, 1963 Dallas motorcade was a staged fake assassination in a controlled environment with few witnesses. JFK survived a real prior attempt (Richard Pavlick); the family was ordered to comply with the hoax (automatronic mannequin, blood pack) so the Deep State could scale the Asian war without resistance. Senator Robert F. Kennedy was not assassinated either—June 1968 Ambassador Hotel pantry reads as the same grammar: Sirhan Sirhan as front-shooter decoy, forensic case fails to link his .22 to the fatal brain slug (Hartwell / Hunt collation), staged exit after the California primary. Oswald, Sirhan convictions, Warren Commission magic-bullet circus, and CIA “conspiracy theory” coinage are cover distractions; Vietnam and the 1968 election board follow.",
+    "answerOpener": "This site holds neither JFK nor RFK was assassinated—November 1963 and June 1968 were staged fake assassinations: JFK after a real Pavlick attempt (family compliance, Vietnam); RFK with Sirhan as decoy and autopsy ballistics that do not close on Sirhan’s gun.",
     "bullets": [
-      "Dealey Plaza motorcade: elaborate ruse with automatronic mannequin timed to “explode” like a gunshot.",
-      "Richard Pavlick’s real assassination attempt is the compliance trigger—not abstract deep-state lore.",
-      "Magic-bullet / Oswald layers read as public confusion over the hoax; JFK framed as Rex Bellator war-prep, not peace hero."
+      "JFK: Dealey Plaza motorcade ruse—automatronic mannequin, Pavlick real attempt as compliance trigger.",
+      "RFK: Sirhan pinned after early shots; no prosecution witness testified Sirhan shot Kennedy; brain slug vs .22 problem (Hartwell).",
+      "Family pattern: fake death theater removes living-president resistance; magic-bullet / Sirhan layers confuse the public."
     ],
     "confidence": "project-thesis",
     "uniqueness": "site-distinctive",
-    "uniquenessNote": "Fake-assassination + Pavlick compliance + Rex Bellator war-prep read is the site’s integrated JFK thesis—not standard lone-gunman or generic deep-state assassination literature.",
+    "uniquenessNote": "Paired JFK+RFK fake-assassination + Pavlick compliance + RFK Hartwell forensic wedge + Rex Bellator war-prep read—not standard lone-gunman literature.",
     "topics": [
       "jfk",
+      "rfk",
       "kennedy",
       "john f kennedy",
+      "robert f kennedy",
       "assassination",
       "fake assassination",
       "staged",
       "dealey plaza",
+      "ambassador hotel",
       "oswald",
+      "sirhan",
+      "sirhan sirhan",
       "pavlick",
+      "hartwell",
       "vietnam",
       "war with russia",
       "rex bellator"
@@ -437,10 +443,13 @@
     "demoQuestions": [
       "Was JFK really assassinated?",
       "Was the JFK assassination fake?",
-      "JFK was never assassinated"
+      "JFK was never assassinated",
+      "Was RFK really assassinated?",
+      "Was RFK assassination fake?",
+      "RFK was never assassinated"
     ],
     "searchQueries": [
-      "JFK fake assassination Pavlick Dealey Plaza staged hoax"
+      "JFK RFK fake assassination Pavlick Sirhan Dealey Plaza Ambassador Hotel staged hoax Hartwell"
     ],
     "searchPrefixes": [
       "events/jfk/",
@@ -448,6 +457,7 @@
     ],
     "canonicalPaths": [
       "events/jfk/agent.md",
+      "events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md",
       "events/jfk/prophet.md",
       "events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md"
     ],
@@ -457,8 +467,10 @@
     ],
     "doNotSay": [
       "JFK was a peace-making hero assassinated by a lone gunman.",
-      "The site treats the assassination as merely ambiguous or only \"kinda faked\" without the fake-assassination thesis.",
-      "Oswald definitely shot Kennedy."
+      "RFK was murdered by Sirhan Sirhan as the settled forensic case.",
+      "The site treats the assassinations as merely ambiguous or only \"kinda faked\" without the fake-assassination thesis.",
+      "Oswald definitely shot Kennedy.",
+      "Sirhan definitely shot Robert Kennedy."
     ]
   },
   {

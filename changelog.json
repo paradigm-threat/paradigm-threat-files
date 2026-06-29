@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-29T21:58:27.975Z",
+    "date": "2026-06-29T22:27:43.693Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md",
+        "href": "/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation"
+      },
+      {
+        "status": "M",
+        "path": "site-claims.json",
+        "href": "/site-claims.json"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-29T21:58:26.000Z",
+    "message": "Add site-claims.json as curated thesis index for Site AI and /reply.",
     "files": [
       {
         "status": "M",
@@ -1219,124 +1237,6 @@
       {
         "src": "https://paradigmthreat.net/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
         "alt": "Joseph Smith mystery solved — crystal-memory interpretation (Quantum Leap of faith)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-28T12:15:46.000Z",
-    "message": "Add 911 DEW accountability fork, weather-warfare cross-links, debate-notes gitignore.",
-    "files": [
-      {
-        "status": "M",
-        "path": ".gitignore",
-        "href": "/.gitignore"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/README.md",
-        "href": "/docs/debate-notes/README"
-      },
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md",
-        "href": "/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
-        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cia-investigation.md",
-        "href": "/governance/war/investigations/cia-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/nsa-investigation.md",
-        "href": "/governance/war/investigations/nsa-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/trump-era-hollywood-political-media-investigation.md",
-        "href": "/influence/hollywood/trump-era-hollywood-political-media-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/predictive_programming/page.md",
-        "href": "/influence/predictive_programming"
-      },
-      {
-        "status": "M",
-        "path": "science/geoengineering/weather-modification-investigation.md",
-        "href": "/science/geoengineering/weather-modification-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
-        "alt": "Richard Gage / AE911Truth — investigation header graphic"
-      },
-      {
-        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png",
-        "alt": "Richard Gage / AE911Truth — investigation graphic (charity envelope, open-air prison)"
-      },
-      {
-        "src": "/influence/hollywood/trump-era-hollywood-political-media-investigation.png",
-        "alt": "Trump-era Hollywood — predictive programming investigation (cover)"
-      },
-      {
-        "src": "/influence/predictive_programming/predictive_programming.png",
-        "alt": "Predictive Programming"
-      },
-      {
-        "src": "/influence/predictive_programming/comics.jpg",
-        "alt": "9/11 predictive programming in comics"
-      },
-      {
-        "src": "/influence/predictive_programming/doom.jpg",
-        "alt": "Doom — quantum teleport between Earth and Mars"
-      },
-      {
-        "src": "/influence/predictive_programming/mars_women.jpg",
-        "alt": "Mars Needs Women — breeding programme theme"
-      },
-      {
-        "src": "/influence/predictive_programming/stargate.jpg",
-        "alt": "Stargate — pyramid as portal"
-      },
-      {
-        "src": "/influence/predictive_programming/wotw.jpg",
-        "alt": "War of the Worlds — heat ray, red weed, Mars inversion"
-      },
-      {
-        "src": "/influence/predictive_programming/simpsons_space_laser.jpg",
-        "alt": "The Simpsons — 9/11 imagery"
-      },
-      {
-        "src": "/influence/predictive_programming/mars_movies.jpg",
-        "alt": "Mars movies"
-      },
-      {
-        "src": "/influence/predictive_programming/marvin.jpg",
-        "alt": "Marvin the Martian"
-      },
-      {
-        "src": "/influence/predictive_programming/marvin2.jpg",
-        "alt": "Marvin the Martian (2)"
-      },
-      {
-        "src": "/influence/predictive_programming/megaman.jpg",
-        "alt": "Mega Man"
-      },
-      {
-        "src": "/influence/predictive_programming/nazis_hollow_earth.jpg",
-        "alt": "Nazis in Hollow Earth"
-      },
-      {
-        "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
-        "alt": "Fire on the Mountain"
       }
     ]
   }
