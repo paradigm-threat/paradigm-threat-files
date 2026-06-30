@@ -1,8 +1,34 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-30T12:36:49.959Z",
+    "date": "2026-06-30T12:38:20.113Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/computing/exact-change-wallet-invention.md",
+        "href": "/science/computing/exact-change-wallet-invention"
+      },
+      {
+        "status": "M",
+        "path": "science/computing/exact-change-wallet-invention.png",
+        "href": "/science/computing/exact-change-wallet-invention.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/computing/exact-change-wallet-invention.png"
+      },
+      {
+        "src": "/science/computing/exact-change-wallet-invention-concept.png",
+        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-30T12:36:48.000Z",
+    "message": "Expand JFK hoax investigation with Dallas motorcade audit.",
     "files": [
       {
         "status": "M",
@@ -986,73 +1012,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-06-28T13:07:36.000Z",
     "message": "Mars dagger: drop non-human guardian fork; reject auto-attack traps.",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/mars/investigations/mars-dagger-investigation.md",
-        "href": "/cosmos/mars/investigations/mars-dagger-investigation"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/mars/mars-dagger.md",
-        "href": "/cosmos/mars/mars-dagger"
-      }
-    ],
-    "images": [
-      {
-        "src": "/cosmos/mars/mars-dagger-image.jpg",
-        "alt": "Smith family Mars dagger — full view with scabbard"
-      },
-      {
-        "src": "/cosmos/mars/mars-dagger-front.jpg",
-        "alt": "Mars dagger — Seal of Mars on blade"
-      },
-      {
-        "src": "/cosmos/mars/mars-dagger-back2.jpg",
-        "alt": "Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
-        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-back2.jpg",
-        "alt": "Smith family Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-image.jpg",
-        "alt": "Smith family Mars dagger — full view with scabbard"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-front.jpg",
-        "alt": "Mars dagger — Seal of Mars on blade"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/globalist_stranglehold.jpg",
-        "alt": "The Deep State on Mars — City of London, Vatican City, and Washington D.C. (finance, religion, military)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/gutenberg_bible_1455.jpg",
-        "alt": "Latin manuscript with rubrication and struck-through lines — church print gatekeeping (Gutenberg-era Bible page)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
-        "alt": "Promised land — post-MFEE rehabilitation and delivery narratives (investigation header)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
-        "alt": "Quantum computer / infinitely indexed storage — analog memory and embedded signal thesis (investigation header)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
-        "alt": "Joseph Smith mystery solved — crystal-memory interpretation (Quantum Leap of faith)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-28T12:51:08.000Z",
-    "message": "Mars dagger: MFEE detachment, Smith line amnesia, Joseph outside cult.",
     "files": [
       {
         "status": "M",
