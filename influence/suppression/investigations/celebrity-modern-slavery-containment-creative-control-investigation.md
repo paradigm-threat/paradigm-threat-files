@@ -19,20 +19,21 @@
 7. [Case study — Hugh Jackman / Wolverine / *Deadpool & Wolverine*](#case-study--hugh-jackman--wolverine--deadpool--wolverine)
 8. [Case study — Ryan Reynolds / *Deadpool & Wolverine* — ordered attacks and lawsuit fallout](#case-study--ryan-reynolds--deadpool--wolverine--ordered-attacks-and-lawsuit-fallout)
 9. [Case study — Wesley Snipes / prison lane / *Deadpool & Wolverine* — slaves on display](#case-study--wesley-snipes--prison-lane--deadpool--wolverine--slaves-on-display)
-10. [MeToo machinery — industry sponsorship, persecution pattern, and the Lively/Baldoni lane](#metoo-machinery--industry-sponsorship-persecution-pattern-and-the-livelybaldoni-lane)
-11. [Occupy Wall Street — parallel managed ignition (not grassroots)](#occupy-wall-street--parallel-managed-ignition-not-grassroots)
-12. [Music — Prince, Michael Jackson, Elton John / *Rocket Man*](#music--prince-michael-jackson-elton-john--rocket-man)
-13. [Ordered autobiography — documentaries, biopics, and lie-cementing](#ordered-autobiography--documentaries-biopics-and-lie-cementing)
-14. [Case study — Poe (Anne Danielewski) / Robert Edsel / album IP gag](#case-study--poe-anne-danielewski--robert-edsel--album-ip-gag)
-15. [360° deals and catalog ownership](#360-deals-and-catalog-ownership)
-16. [NDAs, silence, and Texas Trey’s Law](#ndas-silence-and-texas-treys-law)
-17. [Political containment — celebrity silence and rare Trump-era support](#political-containment--celebrity-silence-and-rare-trump-era-support)
-18. [Hollywood celebrity speech containment — De Niro archetype + catalogs](#hollywood-celebrity-speech-containment--deniro-archetype--catalogs)
-19. [Case study — Morgan Freeman / Committee to Investigate Russia (2017)](#case-study--morgan-freeman--committee-to-investigate-russia-2017)
-20. [Franchise battleground — one good movie, then something breaks](#franchise-battleground--one-good-movie-then-something-breaks)
-21. [Predictive programming cross-read](#predictive-programming-cross-read)
-22. [Weak points / citation registry](#weak-points--citation-registry)
-23. [Related investigations](#related-repo-investigations)
+10. [Case study — Daveigh Chase / child-star vice isolation and media blackout](#case-study--daveigh-chase--child-star-vice-isolation-and-media-blackout)
+11. [MeToo machinery — industry sponsorship, persecution pattern, and the Lively/Baldoni lane](#metoo-machinery--industry-sponsorship-persecution-pattern-and-the-livelybaldoni-lane)
+12. [Occupy Wall Street — parallel managed ignition (not grassroots)](#occupy-wall-street--parallel-managed-ignition-not-grassroots)
+13. [Music — Prince, Michael Jackson, Elton John / *Rocket Man*](#music--prince-michael-jackson-elton-john--rocket-man)
+14. [Ordered autobiography — documentaries, biopics, and lie-cementing](#ordered-autobiography--documentaries-biopics-and-lie-cementing)
+15. [Case study — Poe (Anne Danielewski) / Robert Edsel / album IP gag](#case-study--poe-anne-danielewski--robert-edsel--album-ip-gag)
+16. [360° deals and catalog ownership](#360-deals-and-catalog-ownership)
+17. [NDAs, silence, and Texas Trey’s Law](#ndas-silence-and-texas-treys-law)
+18. [Political containment — celebrity silence and rare Trump-era support](#political-containment--celebrity-silence-and-rare-trump-era-support)
+19. [Hollywood celebrity speech containment — De Niro archetype + catalogs](#hollywood-celebrity-speech-containment--deniro-archetype--catalogs)
+20. [Case study — Morgan Freeman / Committee to Investigate Russia (2017)](#case-study--morgan-freeman--committee-to-investigate-russia-2017)
+21. [Franchise battleground — one good movie, then something breaks](#franchise-battleground--one-good-movie-then-something-breaks)
+22. [Predictive programming cross-read](#predictive-programming-cross-read)
+23. [Weak points / citation registry](#weak-points--citation-registry)
+24. [Related investigations](#related-repo-investigations)
 24. [Limits and disclaimers](#limits-and-disclaimers)
 
 ---
@@ -92,6 +93,7 @@
 - **Morgan Freeman / Russia “at war” (2017):** **September 2017** **Committee to Investigate Russia** video — Freeman declares **“We are at war”**, frames **Putin** as **ex-KGB** seeking **revenge** for **USSR collapse**, urges **Trump** to **address the nation** on **2016 election interference**. Author read: **unlikely** Freeman **wanted** rhetoric that could **escalate toward world war**; delivery reads **unconfident**; script uses **Level-1 movie logic** (Russia bad → KGB bad → Putin ex-KGB → bad). **Hypothesis:** **inverse** of [political silence](#political-containment--celebrity-silence-and-rare-trump-era-support) — **modern slaves must perform** when **masters** make **refusal more painful** than **compliance**.
 - **Ryan Reynolds / *Deadpool & Wolverine* (2024):** Reynolds did **not** only **meta-attack** **Jackman** (see [§ Jackman](#case-study--hugh-jackman--wolverine--deadpool--wolverine)); **Nicepool** read as **mockery** of **Justin Baldoni** amid **It Ends With Us** / **Blake Lively** litigation — **$400M** **Baldoni countersuit** naming **Reynolds** (**dismissed** **Jun 2025**). Author read: **not** one star **using his platform** on personal vendetta — **everything Reynolds does** he is **essentially asked to do** (**Marvel** **producer-star**, **Maximum Effort**, **Feige** **“funny wins”** lane); **#MeToo** **stack** (**CRD**, **AB 933**, **press**, **agency**) = **industry-sponsored** **persecution** **machinery** — **same** **managed-ignition** **class** as **Occupy** (see [§ Investigation essentials](#investigation-essentials--sponsored-campaigns-baseline), [§ Occupy parallel](#occupy-wall-street--parallel-managed-ignition-not-grassroots)).
 - **Wesley Snipes / prison + *D&W* (session 2026-06-10):** **Federal** **tax** **sentence** (**28** **months**, **2010–2013**) **reads** as **state** **discipline** of a **star** who **fought** **studio** **control** on ***Blade: Trinity*** — **whether** **custody** was **“staged”** **uncertain** (**L1** **default** = **real** **BOP** **time**); **2024** **Void** **return** with **Jackman**, **Garner**, **Tatum** = **“slaves** **on** **display”** **(author** **L3)** — see [§ Snipes](#case-study--wesley-snipes--prison-lane--deadpool--wolverine--slaves-on-display).
+- **Daveigh Chase / child-star vice isolation (session 2026-06-03):** **Lilo** **voice** **(Disney)** **→** **homeless** **Skid** **Row**, **severe** **substance** **abuse**, **death** **Jun** **16** **2026** **(L1** **trades)** — **author** **L3:** **recurrence** = **control** **of** **person** **+** **media** **blackout** so **public** **never** **finds** **out** **in** **time** (**millions** **would** **have** **taken** **her** **in**); **social** **Diddy** **blame** = **distraction** **(Combs** **=** **front/cover**, **likely** **prior** **victim**, **not** **architect)**; **Winona** **Ryder** **$5.5k** **Saks** **theft** **=** **nonsensical-on-face** **containment** **headline** — see [§ Chase](#case-study--daveigh-chase--child-star-vice-isolation-and-media-blackout).
 
 ---
 
@@ -399,6 +401,95 @@ Entertainment law: **13th Amendment** bars **specific performance** of **persona
 - **Not** **“Snipes forced to do *D&W*”** — **he** **accepted** **Reynolds’** **call** (**L1**); **instrument** **thesis** **allows** **willing** **compliance**.
 
 **Tier summary:** **L1** prison + **D&W** **facts**; **L3** **slaves-on-display** **+** **discipline** **pattern**; **L4** **staged** **jail** **(open** **question,** **not** **default)**.
+
+---
+
+## Case study — Daveigh Chase / child-star vice isolation and media blackout
+
+### Why Chase belongs in this dossier
+
+**Daveigh Chase** (**1990–2026**) is a **high-signal child-star collapse** case: a **Disney voice anchor** (**Lilo** in ***Lilo & Stitch***, **2002**) who died **homeless**, **addicted**, and **largely off the mainstream map** for years while **IP holders** kept **merchandising** the character. The **public record** combines **documented poverty/addiction/death** with **author read** that the **point** was **isolation in vice** — **not** rescue — plus **media blackout** so **fans never mobilized** before it was too late.
+
+### Documented timeline (L1–L2)
+
+
+| Date / beat | Detail | Source |
+| ----------- | ------ | ------ |
+| **Early 2000s fame** | **Lilo** (*Lilo & Stitch*), **Samara** (*The Ring*), **Donnie Darko**, **Spirited Away** (English dub); **MTV Movie Award** **Best Villain** (*The Ring*) | Trade bios; [Independent — obit lane](https://www.independent.co.uk/news/stitch-los-angeles-the-new-york-times-mtv-las-vegas-b2998727.html) |
+| **Substance abuse (family account)** | Father **John Schwallier** told **NYT** struggle **since age 13**; **estranged** from parents (divorced) | [Independent / NYT via Independent](https://www.independent.co.uk/news/stitch-los-angeles-the-new-york-times-mtv-las-vegas-b2998727.html) |
+| **2016** | **Motorcycle accident** → **back injury** → **oxycodone** / painkiller path per **mother** **Cathy Chase** | [USA Today — mother](https://www.usatoday.com/story/entertainment/celebrities/2026/06/20/daveigh-chase-mother-drug-addiction/90629548007/), [Independent — mother](https://www.independent.co.uk/arts-entertainment/films/news/daveigh-chase-mother-interview-death-b2999564.html) |
+| **2019** | **Mother last saw her** (per **Daily Mail** interview summarized in trades) | [USA Today](https://www.usatoday.com/story/entertainment/celebrities/2026/06/20/daveigh-chase-mother-drug-addiction/90629548007/) |
+| **~2024–2025** | **Manager** **John Ryan** + **stepsister** **Gaia Brown** hired **private investigator** to locate her; **late-2025** **Skid Row** video circulated — **frail**, **addicted** presentation | [AOL / NY Post summary](https://www.aol.com/lifestyle/daveigh-chase-star-ring-lilo-171208316.html) |
+| **Mother’s search** | **Cathy Chase** searched **LA homeless encampments** including **Skid Row** — **could not find her** | [Independent — mother](https://www.independent.co.uk/arts-entertainment/films/news/daveigh-chase-mother-interview-death-b2999564.html) |
+| **Pre-death** | **Boyfriend** **Roy Hernandez** **GoFundMe** for **“comfort and peace”**; **family dispute** over campaign legitimacy (trades) | [Page Six — GoFundMe](https://pagesix.com/2026/06/17/celebrity-news/daveigh-chases-boyfriend-set-up-gofundme-to-help-actress-find-comfort-and-peace-in-final-days-before-death/) |
+| **Jun 2026 hospital** | Admitted for **malnutrition** (TMZ / trades); **meningitis** + **blood infection** → **sepsis** | [Page Six](https://pagesix.com/2026/06/17/celebrity-news/daveigh-chases-boyfriend-set-up-gofundme-to-help-actress-find-comfort-and-peace-in-final-days-before-death/), [Independent](https://www.independent.co.uk/news/stitch-los-angeles-the-new-york-times-mtv-las-vegas-b2998727.html) |
+| **Jun 16, 2026** | **Death** at **35**; father confirmed **meningitis** / **blood infection** complications to **NYT** | [Independent](https://www.independent.co.uk/news/stitch-los-angeles-the-new-york-times-mtv-las-vegas-b2998727.html) |
+| **Homeless at death** | **Homeless in LA** with **boyfriend** near hospital — **father** to **NYT** | Same |
+
+**Tier:** **L1** for **death**, **cause** **(family** **to** **NYT)**, **homelessness** **(father)**, **Skid** **Row** **video** **(trades)**; **L2** for **mother** **interviews** **and** **addiction** **narrative** **(consistent** **across** **outlets)**.
+
+### Author thesis — vice isolation + media blackout (session 2026-06-03, **L3**)
+
+**Investigator stance:**
+
+1. **Recurrence as system:** Child stars who **break down** are not **random tragedies** in this read — they **recur** on a **template**: **early fame** → **vice lane** → **estrangement** → **visible collapse** only when **too late** for **mass rescue**. **Daveigh Chase** is the **2026** **receipt** after **decades** of the same **grammar** (compare **Britney** **conservatorship**, **MJ** **headline** **cycles**, **entourage** **trap** [§ Author thesis](#author-thesis)).
+2. **Blackout, not ignorance:** **Millions** knew **Lilo’s** voice; **tens of thousands** of **fans** would have **offered housing** if the **mainstream** **feed** had **kept** her **visible** and **reachable**. **Investigation read:** **media** **volume** **drops** precisely when **intervention** would **break** **handler** **control** — star stays **inside** **vice** **networks** (**Skid Row**, **party** **lane**, **boyfriend** **GoFundMe** **drama**) instead of **family** **or** **public** **rescue**.
+3. **Isolation is the product:** The **goal** is **not** to **kill** the asset quickly — it is to **keep** them **contained** in **addiction**, **shame**, and **geographic** **exile** until **IP** **value** is **harvested** **without** **living** **star** **leverage**.
+4. **Cross-thread:** Rhymes with [§ Snipes](#case-study--wesley-snipes--prison-lane--deadpool--wolverine--slaves-on-display) **prison/blackout**, [§ Poe](#case-study--poe-anne-danielewski--robert-edsel--album-ip-gag) **professional** **identity** **gag**, [§ Entourage trap](#author-thesis) — **different** **paper**, **same** **family**.
+
+### Sean “Diddy” Combs — social-media villain vs structural distraction (**L3**)
+
+**Observed pattern (post-death discourse, **L2** social):** Commentators **blame** **Sean** **Combs** as **symbol** of **Hollywood** **failure** to **protect** **child** **stars**.
+
+**Documented Combs record (L1 — separate from Chase causation):**
+
+
+| Beat | Detail | Source |
+| ---- | ------ | ------ |
+| **Sep 16, 2024** | **SDNY** **indictment** — **racketeering conspiracy**, **sex trafficking**, **Mann Act** / transport for prostitution | [DOJ indictment PDF](https://www.justice.gov/usao-sdny/media/1368556/dl) |
+| **Jul 2, 2025** | Jury **acquitted** **racketeering** + **sex** **trafficking**; **guilty** **two** **Mann Act** counts | [NBC News — verdict](https://www.nbcnews.com/news/us-news/jury-reaches-verdict-sean-diddy-combs-sex-trafficking-trial-rcna214785) |
+| **Oct 3, 2025** | Sentenced **4** **years** **2** **months**, **$500k** fine, **supervised** **release** | [PBS — sentencing](https://www.pbs.org/newshour/nation/sean-diddy-combs-set-to-be-sentenced) |
+
+**Author read (L3):**
+
+- **Real harm** in **Combs** **record** **does not** **automatically** **explain** **Chase’s** **specific** **arc** — **no** **L1** **link** **in** **file** **Chase↔Combs**.
+- **Pinning** **child-star** **collapse** **on** **Diddy** **alone** **functions** as **distraction**: **one** **recognizable** **Bad** **Boy** **face** **absorbs** **public** **rage** while **studios**, **agencies**, **child-labor** **contracts**, **NDA** **stacks**, and **blackout** **discipline** **stay** **unnamed**.
+- **Combs** **reads** as **front/cover** for a **vaster** **organization** **he** **did** **not** **conceive** — **label** **mogul** **elevated** **as** **visible** **villain**; **investigation** **also** **allows** he was **likely** **broken** **into** **the** **same** **machine** **earlier** (**victim→operator** **lane**, **not** **excuse** **for** **later** **acts**).
+- **Same** **grammar** as **Weinstein** **alone** **≠** **all** **#MeToo** **machinery** ([§ MeToo](#metoo-machinery--industry-sponsorship-persecution-pattern-and-the-livelybaldoni-lane)).
+
+### Pattern thread — Winona Ryder shoplifting as nonsensical containment headline (L1 + L3)
+
+
+| Beat | Documented fact | Source |
+| ---- | --------------- | ------ |
+| **Dec 12, 2001** | Detained leaving **Beverly Hills Saks** with **~$5,560** **unpaid** goods; had **paid** **$3,700** **same** **visit** | [NYT — jury](https://www.nytimes.com/2002/11/06/national/jury-convicts-winona-ryder-on-2-counts-in-shoplifting-case.html), [LA Times](https://www.latimes.com/archives/la-xpm-2002-nov-07-me-ryder7-story.html) |
+| **Nov 6, 2002** | **Guilty** **felony** **grand** **theft** + **vandalism** (sensor tags); **not** **guilty** **commercial** **burglary** | [NYT](https://www.nytimes.com/2002/11/06/arts/winona-ryder-convicted-in-shoplifting-case.html) |
+| **Dec 6, 2002** | **Probation**, **480** **hrs** **community** **service**, **drug/psych** **counseling**, **restitution** | [NYT — sentencing](https://www.nytimes.com/2002/12/06/national/ryder-sentenced-to-probation-and-community-service.html) |
+
+**Author read:** For an **A-list** **actress** **(two** **Oscar** **nominations)**, **stealing** **$5.5k** **designer** **goods** **she** **could** **afford** **makes** **zero** **economic** **sense** on its face — **contradiction** **is** **the** **point**. **Headline** **=** **pathology**, **unstable** **actress**, **probation** **+** **counseling** **=** **reputation** **capture**. **Rhymes** with **tax** **felon** (**Snipes**), **slave** **face** (**Prince**), **Skid** **Row** **exile** (**Chase**) — **vice** **or** **crime** **story** **masks** **structural** **containment**.
+
+### Celebrity control pattern registry (threads from Chase lane)
+
+
+| Pattern | Example in file | Tier |
+| ------- | ---------------- | ---- |
+| **Child IP / living star split** | **Lilo** **merch** **continues**; **Chase** **homeless** | **L1** death + **L3** read |
+| **Media blackout before collapse** | **PI** **hired** **~1** **yr** **before** **death**; **mother** **searched** **encampments** | **L2** trades |
+| **Vice as leash** | **Painkillers** **post-2016** **accident** → **street** **drugs** (family account) | **L2** |
+| **Wrong villain fixation** | **Diddy** **social** **blame** **post-death** | **L3** |
+| **Nonsense crime headline** | **Winona** **Ryder** **Saks** **theft** | **L1** + **L3** |
+| **Headline act discipline** | **Snipes** **tax**; **Freeman** **war** **video** | **L1** + **L3** |
+
+### What this section does **not** claim
+
+- **Not** **proved** **Chase** **met** **Combs** or **Disney** **“murdered”** her — **no** **primary** **doc** **in** **file**.
+- **Not** **denial** of **Combs** **convictions** **on** **Mann** **Act** **counts** — **L1**.
+- **Not** **Ryder** **innocent** **on** **facts** **of** **theft** — **jury** **conviction** **L1**; **author** **read** **targets** **why** **that** **story** **served** **containment**.
+- **Not** **every** **homeless** **former** **child** **star** **=** **studio** **plot** — **pattern** **read** **only**.
+
+**Reader essay:** [It's gonna be a long, long time. — § Isolation in vice](https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery.md#isolation-in-vice--child-stars-media-blackout-and-the-wrong-villain)
+
+**Tier summary:** **L1** Chase death/homelessness/Saks Ryder verdict/Combs case outcomes; **L2** family interviews; **L3** blackout + Diddy distraction + nonsensical-theft containment.
 
 ---
 
@@ -1152,6 +1243,9 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 | Snipes tax case = Hollywood hit job                      | **Timing** **overlap** **only**                         | **DOJ** **deterrence** **memo** **L1**; **coordination** **=** **L3** **pattern** **max**                              |
 | *Rocket Man* “on everyone” = Taupin’s published lyric    | **Misheard / author read**                              | **L1** official = *up here alone*; **L3** *on everyone* = **author preferred mishearing** — **not** sheet intent     |
 | Official lyrics always neutral documentation             | **Catalog-adjacent** **text** **may** **soften** **IP**  | **L3** **containment** **read**; **Radiohead/RATM** **parallel** **author** **only**                                   |
+| Chase death = Diddy causation proved                     | **No Chase↔Combs link in file**                         | **L1** Chase facts + **L1** Combs case **separate**; **Diddy** **blame** **=** **L3** **distraction** thesis           |
+| Studio “murdered” Daveigh Chase                          | **No primary doc**                                      | **L3** **blackout/isolation** **read** **only**                                                                        |
+| Winona shoplift = innocent                               | **Jury** **convicted** **theft**                        | **L1** **guilt**; **L3** **=** **why** **headline** **served** **containment**                                         |
 | *D&W* Void = literal slavery exhibition                  | **Metaphor** **overreach**                              | **Author L3** **“slaves** **on** **display”**; **not** **13th** **Amendment** **claim**                                |
 | Poe “owned by oil baron”                                 | **“Baron”** **hyperbole**                               | **Edsel** = **Dallas** **oil/gas** **investor** **(L1)**; **patron** **contract** **+** **Labor** **Comm.** **void** **(L1)** |
 
@@ -1166,7 +1260,8 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 - **Casebook row:** **Kanye / Ye** masters; **Taylor Swift** masters dispute (compare **ownership exit** paths)
 - **Casebook row:** **Britney Spears** conservatorship (separate **guardianship** dossier?)
 - Cross-link **Epstein** **Hollywood** visits — **only** with **tiered** sources
-- **Snipes / Blade: Trinity** on-set dispute — **Patton Oswalt** **anecdotes** vs **Snipes** **denials**; **tier** **conflicting** **second-hand**
+- **Daveigh Chase:** Primary pull **NYT** **obit** **/ father** **interview** **full** **text**; **coroner** **report** **if** **public**; **Disney** **child** **actor** **support** **programs** **(if** **any)** **for** **same** **era**
+- **Chase↔Combs:** **No** **claim** **without** **document** — **do** **not** **upgrade** **social** **memes**
 - **Snipes** **BOP** **records** / **full** **11th** **Cir.** **opinion** **pull** for **TODO** **registry**
 - **Future investigation:** **franchise-quality-one-good-movie-phenomenon** — standalone dossier (pattern catalog, **not** **scoped** **here**)
 - **Poe:** Primary pull **NY Post** **“Decade** **of** **Silence”** (Miriam Katz, **2011**); **Modern/FEI→Edsel** **sale** **contract** **(if** **filed**)
@@ -1197,7 +1292,7 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 
 ---
 
-Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #Prince #Poe #RobertEdsel #MichaelJackson #EltonJohn #EJAF #EltonJohnAIDSFoundation #HughJackman #Wolverine #RyanReynolds #Deadpool #Nicepool #JustinBaldoni #WesleySnipes #Blade #MorganFreeman #DeNiro #Vaxxed #CelebrityContainment #Russia #RussiaUndesirable #CommitteeToInvestigateRussia #PersonalServicesContract #DeHavillandLaw #FranchiseFatigue #PredictiveProgramming #Trump #SpeakOutAct #TreysLaw #MeToo #TimesUp #OccupyWallStreet #Adbusters #ParadigmThreatFiles
+Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #Prince #Poe #RobertEdsel #MichaelJackson #EltonJohn #EJAF #EltonJohnAIDSFoundation #HughJackman #Wolverine #RyanReynolds #Deadpool #Nicepool #JustinBaldoni #WesleySnipes #Blade #DaveighChase #WinonaRyder #Diddy #SeanCombs #MorganFreeman #DeNiro #Vaxxed #CelebrityContainment #Russia #RussiaUndesirable #CommitteeToInvestigateRussia #PersonalServicesContract #DeHavillandLaw #FranchiseFatigue #PredictiveProgramming #Trump #SpeakOutAct #TreysLaw #MeToo #TimesUp #OccupyWallStreet #Adbusters #ParadigmThreatFiles
 
 **Last updated:** 2026-06-17T23:30:00-04:00
 

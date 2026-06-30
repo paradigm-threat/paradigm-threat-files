@@ -1,8 +1,39 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-29T23:29:38.720Z",
+    "date": "2026-06-30T00:38:38.040Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md",
+        "href": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/suppression/modern-celebrity-slavery.md",
+        "href": "/influence/suppression/modern-celebrity-slavery"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
+        "alt": "Celebrity modern slavery — contracts, containment, NDAs, and creative control"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery.png",
+        "alt": "Modern celebrity slavery — IP containment, ordered speech, and creative control"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
+        "alt": "Celebrity modern slavery — contracts, containment, NDAs, and creative control (investigation dossier)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-29T23:29:37.000Z",
+    "message": "Link investigation submissions from home page intro.",
     "files": [
       {
         "status": "M",
@@ -1111,56 +1142,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-06-28T12:40:40.000Z",
     "message": "Mars dagger: keeper cult reappeared; Paul vs Judaizers at crucifixion era.",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/mars/mars-dagger.md",
-        "href": "/cosmos/mars/mars-dagger"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
-        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-back2.jpg",
-        "alt": "Smith family Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-image.jpg",
-        "alt": "Smith family Mars dagger — full view with scabbard"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-front.jpg",
-        "alt": "Mars dagger — Seal of Mars on blade"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/globalist_stranglehold.jpg",
-        "alt": "The Deep State on Mars — City of London, Vatican City, and Washington D.C. (finance, religion, military)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/gutenberg_bible_1455.jpg",
-        "alt": "Latin manuscript with rubrication and struck-through lines — church print gatekeeping (Gutenberg-era Bible page)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
-        "alt": "Promised land — post-MFEE rehabilitation and delivery narratives (investigation header)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
-        "alt": "Quantum computer / infinitely indexed storage — analog memory and embedded signal thesis (investigation header)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
-        "alt": "Joseph Smith mystery solved — crystal-memory interpretation (Quantum Leap of faith)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-28T12:18:18.000Z",
-    "message": "Move magic lexicon block below TL;DR in Mars dagger essay.",
     "files": [
       {
         "status": "M",
