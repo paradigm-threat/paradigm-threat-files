@@ -1,6 +1,35 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "date": "2026-06-30T13:16:14.915Z",
+    "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/computing/exact-change-wallet-invention.md",
+        "href": "/science/computing/exact-change-wallet-invention"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/computing/exact-change-wallet-invention.png",
+        "alt": "The Exact-Change Wallet — article header"
+      },
+      {
+        "src": "/science/computing/exact-change-wallet-invention-concept.png",
+        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-30T13:11:46.000Z",
+    "message": "Bump index.json cache version so clients refetch ECW article after §V.",
+    "files": [],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
     "date": "2026-06-30T13:08:05.000Z",
     "message": "Add ECW §V inventor containment and cross-link the suppression cluster.",
     "files": [
@@ -961,145 +990,6 @@
         "src": "/cosmos/mars/mars-dagger-back2.jpg",
         "alt": "Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
       },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
-        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-back2.jpg",
-        "alt": "Smith family Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-image.jpg",
-        "alt": "Smith family Mars dagger — full view with scabbard"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-front.jpg",
-        "alt": "Mars dagger — Seal of Mars on blade"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/globalist_stranglehold.jpg",
-        "alt": "The Deep State on Mars — City of London, Vatican City, and Washington D.C. (finance, religion, military)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/gutenberg_bible_1455.jpg",
-        "alt": "Latin manuscript with rubrication and struck-through lines — church print gatekeeping (Gutenberg-era Bible page)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
-        "alt": "Promised land — post-MFEE rehabilitation and delivery narratives (investigation header)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
-        "alt": "Quantum computer / infinitely indexed storage — analog memory and embedded signal thesis (investigation header)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
-        "alt": "Joseph Smith mystery solved — crystal-memory interpretation (Quantum Leap of faith)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-28T13:15:40.000Z",
-    "message": "Mars dagger: what Joseph saw — audio-visual plate extraction.",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/mars/investigations/mars-dagger-investigation.md",
-        "href": "/cosmos/mars/investigations/mars-dagger-investigation"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/mars/mars-dagger.md",
-        "href": "/cosmos/mars/mars-dagger"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md",
-        "href": "/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/quantum-leap-of-faith.md",
-        "href": "/science/computing/quantum-leap-of-faith"
-      }
-    ],
-    "images": [
-      {
-        "src": "/cosmos/mars/mars-dagger-image.jpg",
-        "alt": "Smith family Mars dagger — full view with scabbard"
-      },
-      {
-        "src": "/cosmos/mars/mars-dagger-front.jpg",
-        "alt": "Mars dagger — Seal of Mars on blade"
-      },
-      {
-        "src": "/cosmos/mars/mars-dagger-back2.jpg",
-        "alt": "Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
-        "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-back2.jpg",
-        "alt": "Smith family Mars dagger — Hebrew Adonai, Scorpio, Intelligence of Mars"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-image.jpg",
-        "alt": "Smith family Mars dagger — full view with scabbard"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-front.jpg",
-        "alt": "Mars dagger — Seal of Mars on blade"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/globalist_stranglehold.jpg",
-        "alt": "The Deep State on Mars — City of London, Vatican City, and Washington D.C. (finance, religion, military)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/gutenberg_bible_1455.jpg",
-        "alt": "Latin manuscript with rubrication and struck-through lines — church print gatekeeping (Gutenberg-era Bible page)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
-        "alt": "Promised land — post-MFEE rehabilitation and delivery narratives (investigation header)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
-        "alt": "Quantum computer / infinitely indexed storage — analog memory and embedded signal thesis (investigation header)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
-        "alt": "Joseph Smith mystery solved — crystal-memory interpretation (Quantum Leap of faith)"
-      },
-      {
-        "src": "/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png",
-        "alt": "Quantum computer / infinitely indexed storage — investigation header"
-      },
-      {
-        "src": "/science/computing/quantum-leap-of-faith.png",
-        "alt": "Quantum Leap (of faith) — article header"
-      },
-      {
-        "src": "/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
-        "alt": "Joseph Smith mystery solved — crystal-memory interpretation"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-28T13:11:11.000Z",
-    "message": "Mars dagger: credit Avengers Endgame on treasure-chamber logic.",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/mars/mars-dagger.md",
-        "href": "/cosmos/mars/mars-dagger"
-      }
-    ],
-    "images": [
       {
         "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
         "alt": "The Mars Dagger — keeper cult leak, analog plates, and Carthage containment"
