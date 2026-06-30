@@ -1,8 +1,34 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-30T14:20:47.881Z",
+    "date": "2026-06-30T14:25:41.579Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/computing/exact-change-wallet-invention-and-aftermath.md",
+        "href": "/science/computing/exact-change-wallet-invention-and-aftermath"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png",
+        "alt": "Exact-Change Wallet — Invention and Aftermath — article header"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png",
+        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png",
+        "alt": "Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-30T14:20:46.000Z",
+    "message": "Clarify prologue line on history erasure vs tech stall.",
     "files": [
       {
         "status": "M",
@@ -961,83 +987,5 @@
         "alt": "Richard Gage / AE911Truth — investigation graphic (charity envelope, open-air prison)"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-28T20:10:13.000Z",
-    "message": "Add Norman 9/11 debate transcript, diarization pipeline, and curated edition.",
-    "files": [
-      {
-        "status": "M",
-        "path": ".gitignore",
-        "href": "/.gitignore"
-      },
-      {
-        "status": "M",
-        "path": "docs/debate-notes/README.md",
-        "href": "/docs/debate-notes/README"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/curate_debate_transcript.py",
-        "href": "/docs/debate-notes/curate_debate_transcript.py"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/fix_opening_split.py",
-        "href": "/docs/debate-notes/fix_opening_split.py"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-911revision-diarization.json",
-        "href": "/docs/debate-notes/norman-911revision-diarization.json"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-911revision-live-debate-transcript-curated.md",
-        "href": "/docs/debate-notes/norman-911revision-live-debate-transcript-curated"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-911revision-live-debate-transcript-highconf.json",
-        "href": "/docs/debate-notes/norman-911revision-live-debate-transcript-highconf.json"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-911revision-live-debate-transcript-speaker-uncertain.txt",
-        "href": "/docs/debate-notes/norman-911revision-live-debate-transcript-speaker-uncertain.txt"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-911revision-live-debate-transcript-voice-camp-review.txt",
-        "href": "/docs/debate-notes/norman-911revision-live-debate-transcript-voice-camp-review.txt"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-911revision-live-debate-transcript.json",
-        "href": "/docs/debate-notes/norman-911revision-live-debate-transcript.json"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-911revision-live-debate-transcript.txt",
-        "href": "/docs/debate-notes/norman-911revision-live-debate-transcript.txt"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-911revision-live-debate.md",
-        "href": "/docs/debate-notes/norman-911revision-live-debate"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/pyannote_relabel.py",
-        "href": "/docs/debate-notes/pyannote_relabel.py"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/relabel_debate_speakers.py",
-        "href": "/docs/debate-notes/relabel_debate_speakers.py"
-      }
-    ],
-    "images": []
   }
 ]

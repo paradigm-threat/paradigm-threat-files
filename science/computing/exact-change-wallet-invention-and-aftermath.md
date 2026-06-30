@@ -30,7 +30,7 @@ The Exact-Change Wallet fixes the coin part. A molded tray holds **ten coins** �
 
 Example: total **$14.37**. Dial **14.37**. Coin LEDs light for **37¢**. Hand **$14** in bills plus those coins. Coin change from the cashier: **zero**.
 
-The tray carries the **minimum** U.S. coin set below one dollar that still covers every cents-only amount when dollars are paper — **3 quarters · 1 dime · 2 nickels · 4 pennies**, ten coins, **99¢** face. I had the mapping on a spreadsheet once; the notes are gone; I re-derived it later and found puzzle writers had published the same set. The guarantee only works when the tray **enforces** the boundary: pay the cents column from the tray, cover dollars with bills, follow the lights, and you never accumulate a second purse of loose change — as long as the cashier is accurate.
+The tray carries the **minimum** U.S. coin set below one dollar that still covers every cents-only amount when dollars are paper — **3 quarters · 1 dime · 2 nickels · 4 pennies**, ten coins, **99¢** face. That combination is **public math** (a classic “how few coins cover 1¢–99¢?” problem — bloggers and teachers have published the same multiset for years; see **§III**). What I built is not the theorem — it is the **tray that enforces it**: pay the cents column from the tray, cover dollars with bills, follow the lights, and you never accumulate a second purse of loose change — as long as the cashier is accurate.
 
 The hard case is **short inventory**. Total **$20.24**, but you only have **14¢** left on hand. Lighting "use these 14¢" would mislead you into thinking **$20 + 14¢** closes the sale — it does not. The device reads what is actually in the slots, finds a **handover** that works (often **$21 + 14¢**, so **90¢** change back refills the slots you emptied), lights the coins you have, and glows a **bill halo** around the display when you must hand **≥ $1** more paper than the whole-dollar part of the total. The readout shows **21.14** while you dialed **20.24**. A phone app can tell you **37¢**; it cannot **hold** the coins, **limit** the inventory, or **point** at the slot to open under stress.
 
@@ -196,7 +196,7 @@ This page is an **article**: a **narrative frame** (prologue), a **condensed inv
 
 Keywords: #ExactChangeWallet #EmbeddedHardware #PhysicalCash #CoinInventory #PriorArt #SuppressedInvention #InventorContainment #JohnMcAfee #AaronSwartz #GaryKildall #IanMurdock #PrestonTucker #JohnDeLorean #ParadigmThreatFiles
 
-**Last updated:** 2026-06-30T21:00:00-04:00
+**Last updated:** 2026-06-30T22:00:00-04:00
 
 ---
 
