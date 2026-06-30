@@ -1,6 +1,6 @@
 # Investigation: JFK & RFK — Staged Assassination Hoax (Kennedy Family Compliance)
 
-> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — controlled **Dealey Plaza** motorcade, **automatronic / blood-pack** ruse, **Pavlick** real attempt as **compliance trigger**, **Vietnam** escalation; **RFK (Jun 1968)** — **Sirhan** as **front-shooter decoy**, **forensic case fails** to link **.22** to **fatal brain slug**, Hartwell **Means–Motive–Opportunity** read for **staged exit** after **California primary**. **Family pattern:** comply with **fake death** to **stop real attempts** and **scale wars** without **living president resistance**. Cross-read [JFK agent essay](../agent.md), [prophet / Downard](../prophet.md), [Epstein staged-death precedent](../../false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md).
+> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — **real pre-Dallas attempts** (Pavlick anchor) → **family compliance** under **car-party threat**; **[§2.1 motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)** — **hostile Dallas**, **Stevenson** incident, **morning ad**, **open published route** = **spectacle not faction healing**; **Dealey** **robot / exploding-head** ruse; **Vietnam escalation** on **documented timeline**. **RFK (Jun 1968)** — **Sirhan** decoy; **Hartwell** **slug vs .22** wedge. Cross-read [agent.md](../agent.md), [§2](#2-jfk-november-1963-fake-assassination), [prophet.md](../prophet.md).
 
 **Status:** Open — project thesis + public-record / forensic anchors; **no** proof of either man’s post-event public life.  
 **Date:** 2026-06-29
@@ -10,7 +10,7 @@
 ## Guide
 
 1. **Shared hoax grammar (Kennedy lane)** → [§1](#1-shared-hoax-grammar)
-2. **JFK — Nov 22, 1963 (site thesis)** → [§2](#2-jfk-november-1963-fake-assassination)
+2. **JFK — Nov 22, 1963 (site thesis)** → [§2](#2-jfk-november-1963-fake-assassination) · [§2.1 Dallas motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)
 3. **RFK — Jun 4–6, 1968 (forensic + Hartwell)** → [§3](#3-rfk-june-1968-ambassador-hotel)
 4. **Parallel table** → [§4](#4-jfk-vs-rfk-parallel-read)
 5. **Means, motive, opportunity (RFK — Hartwell)** → [§5](#5-rfk-means-motive-opportunity-hartwell)
@@ -25,7 +25,7 @@
 | Element | JFK (site) | RFK (this file + Hartwell) |
 |---------|------------|----------------------------|
 | **Public event** | Televised motorcade | Primary victory → pantry “shooting” |
-| **Controlled venue** | Dealey Plaza, few witnesses | Ambassador Hotel pantry, escorts + press |
+| **Controlled venue** | Dealey Plaza — **published route**, **maximum visibility** | Ambassador Hotel pantry, escorts + press |
 | **Decoy shooter** | Oswald narrative | Sirhan Sirhan (pinned after ~2 shots) |
 | **Forensic confusion** | Magic bullet, Warren Commission | Wolfer bullet map, **unlinked** .22, **brain slug** size |
 | **Family compliance** | Jackie, Connally circle | Kennedy network, **JFK precedent** |
@@ -38,19 +38,91 @@
 
 ## 2. JFK — November 1963 fake assassination
 
-**Canonical site essay:** [agent.md](../agent.md) (unchanged — summary here for investigation routing only).
+**Canonical site essay:** [agent.md](../agent.md) (summary + author sentiment below).
 
-**Core claims (project thesis — not mainstream):**
+### Best evidence ladder (reply / audit order)
 
-- **JFK was never assassinated** — Nov 22, 1963 was a **staged fake assassination** after a **real** **Richard Pavlick** attempt; family **ordered** to comply.
-- **Dealey Plaza** motorcade = **elaborate ruse**; **automatronic mannequin** + **blood** timed like gunshot; **Jacqueline** and **Connally** party went along.
-- **Why comply:** Deep State would **continue real assassination attempts** if JFK stayed in power; **fake death** allowed **Asian war** scale-up **without** his resistance.
-- **JFK as Rex Bellator** — war-prep figure (Cuba, Asia, **Russia** containment), **not** peace-icon; **Vietnam** follows hoax.
-- **Oswald** + **Warren Commission** **magic bullet** = **confusion layer**; CIA **“conspiracy theory”** coinage **poisons** serious audit.
+Start with **documented pre-Dallas pressure**, not Zapruder minutiae:
 
-**Tier:** **Project thesis** in [agent.md](../agent.md); this investigation **does not re-litigate** every Dealey detail — it **indexes** the essay for **RFK parallel**.
+| Step | Evidence class | Read |
+|------|----------------|------|
+| **1** | **Real attempts before Nov 1963** | **Richard Pavlick** (1960) and other **documented** threat windows — family told **more real attempts** follow if JFK stays in office |
+| **2** | **Compliance fork** | After **very close calls**, the **Kennedy circle** was **held under explosive pressure**: **go along** with public death theater or **people in the car are shot for real** (Jackie, Connally, party) |
+| **3** | **Motorcade geometry** ([§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)) | **Weak / hated locally** → you don't **crawl slowly** through the **most hostile downtown** in an **open car** on a **published route** **six weeks after** your UN ambassador was **physically attacked** in the **same city**, with a **hostile newspaper ad** that **morning** — **faction healing** is a **luncheon** problem; **Dealey** is a **spectacle** problem |
+| **4** | **Vietnam board (documented)** | **Hard sell** → **president “shot”** → **escalation** — **timeline fact**, not conspiracy garnish |
+| **5** | **Russia / deep-state board** | Long **anti-Russia** war arc; JFK as **Rex Bellator** war-prep; early **“Russia killed JFK”** press **rejected** → **Oswald / Warren / magic bullet** confusion layer |
+| **6** | **Dealey spectacle** | **Exploding head** read as **robot / automatronic** + blood pack — **predictive programming** lane (synthetic body, staged gore); **witnesses can be real** while **fatal shot layer** is synthetic |
+| **7** | **Forensic distraction** | **No requirement** for **shooters**, **bullets**, or **magic bullet** if kill layer is **theater** — commission **poisons** serious audit |
+| **8** | **RFK parallel (Hartwell)** | **1968** pantry **same grammar** — Sirhan **decoy**, **slug size** vs **.22** — forensic wedge for **paired hoax** |
+
+**Dean Hartwell (@pwp911)** — cite on **RFK** forensic collapse; **JFK** lane shares **family compliance** + **staged exit** grammar ([§3](#3-rfk-june-1968-ambassador-hotel), [§4](#4-jfk-vs-rfk-parallel-read)).
+
+### Core claims (project thesis — not mainstream)
+
+- **JFK was never assassinated** — Nov 22, 1963 was a **staged fake assassination** after **real** prior attempts (**Pavlick** anchor); family **ordered** to comply.
+- **Why comply:** Deep State would **continue real assassination attempts** if JFK stayed in power; **fake death** allowed **Asian war** scale-up **without** his resistance — **Vietnam escalation after Dallas** is **documented**, not speculative.
+- **Dealey Plaza** motorcade = **elaborate ruse**; **automatronic robot / mannequin** + **exploding head** timed like gunshot; **Jacqueline** and **Connally** party went along under **car-party threat**.
+- **No shooters required (thesis):** Spectacle can run **without** resolving **Oswald**, **magic bullet**, or **grassy knoll** — those are **distraction** once the **kill layer** is read as **synthetic**.
+- **Predictive programming:** Film/TV **exploding-head / synthetic-body** grammar **prefigures** Dealey **hand-wave** read (adjacent PP hub — not sole proof).
+- **JFK as Rex Bellator** — war-prep figure (Cuba, Asia, **Russia** containment), **not** peace-icon; **Russia** framed as **world deep state** while **Washington** board escalates same war.
+- **Oswald** + **Warren Commission** **magic bullet** = **confusion layer** after **“Russia did it”** failed to stick; CIA **“conspirative theory”** coinage **poisons** serious audit.
+
+**Tier:** **Project thesis** in [agent.md](../agent.md); Hartwell **RFK forensics** = **documented wedge** paired here; Dealey **robot / no-bullet** layer = **author thesis**.
 
 **Supporting in repo:** [prophet.md](../prophet.md) (Downard / sorcerous read — **adjacent**, not required for forensic hoax lane).
+
+### 2.1 Dallas motorcade audit — luncheon mission vs spectacle mission
+
+**Official label:** Nov 22 was a **Texas political trip** to **heal the Democratic split** — **LBJ / Connally** (conservative Texas Dems) vs **Yarborough** (liberal senator) — and keep **Texas** in the **1964** column. The **Trade Mart luncheon** is where that work was supposed to happen.
+
+**What the schedule actually optimized:** not the **luncheon room**, but the **open motorcade** — Love Field → slow crawl through **downtown Dallas** → hand-waving at crowds → **sharp turn** into **Dealey Plaza** → national footage.
+
+#### Two missions, two formats
+
+| If the goal is… | You need… | Nov 22 Dallas provided… |
+|-----------------|-----------|-------------------------|
+| **Heal a faction split** | Connally + Yarborough **in the same room**; brokered unity; **secure** moves | **Luncheon** (yes) — but also **long open motorcade** through **hostile** downtown (no) |
+| **Prove popularity to Texas** | Friendly or swing turf; controlled exposure | **Dallas elite / far-right** was **not** friendly; **Stevenson** had been **attacked** there **Oct 24, 1963** |
+| **“Show you're not afraid”** | **Short** secure hop to venue; minimal published route | **Opposite:** **open top**, **published route**, **slow** blocks, **maximum** cameras |
+| **Stage a public killing / exit** | **Ritual visibility** — king in the chariot before the people ([prophet.md](../prophet.md) Downard lane) | **Dealey geometry** — fixed turn, framed plaza, **televised** grief |
+
+**Site read:** **Faction healing does not require waving at Elm Street.** Yarborough and Connally are not on the sidewalk. The **motorcade is the event**; the **luncheon is the cover title** on the calendar.
+
+#### Weak / hated locally — the movement-format test
+
+Presidents sometimes visit **unpopular** places — but **not like this**:
+
+> **Weak / hated locally → you don't normally crawl slowly through the most hostile downtown in an open car on a published route six weeks after your UN ambassador got physically attacked in the same city, with a hostile newspaper ad that morning.**
+
+**Documented hostility context (Nov 22, 1963):**
+
+| Fact | Staging read |
+|------|----------------|
+| **Dallas** far-right / bircher climate; JFK reportedly called the hostile ad **“nut country”** to Jackie that morning | Hostile **martyr geography** — believable **“they killed him in Dallas”** backdrop |
+| **Adlai Stevenson** physically **confronted** in Dallas **~Oct 24, 1963** | **Known danger signal** — not ignorance |
+| **Dallas Morning News** hostile **welcoming ad** **same morning** | **Announced** hostility before the motorcade |
+| **Open limousine**, **bubble top off**, **published route**, **slow** Dealey **turn** | **Spectacle geometry**, not **survival** geometry |
+| **Texas** won **1960** (with LBJ) — **Dallas** ≠ all of Texas | “He had to visit Texas” **does not** explain **this movement format** in **this city** |
+
+**Re-election / unity logic:** You don't **perform popularity** by **parading slowly** through a city that **hates you** to win a **faction fight** — you **secure-hop to lunch** and **deal with the room that matters**.
+
+**Staging logic:** You **do** choose **maximum visibility**, **hostile backdrop**, and **ritual procession** if the **deliverable is the motorcade itself** — fake or real **“assassination”**, **martyr unlock** for **Vietnam** board, **compliance exit** under **Pavlick**-class pressure ([§2 step 1–2](#best-evidence-ladder-reply--audit-order)).
+
+#### “Show strength after Stevenson” (mainstream counter — and why it fails)
+
+**Counter:** JFK went to Dallas to prove he wasn't afraid after the Stevenson incident.
+
+**Reply:** “Not afraid” is a **15-minute secure transfer** to **Trade Mart**. What ran instead was a **parade** — **long**, **open**, **fixed**, **filmed**. That isn't **strength**; it's **spectacle appetite** inconsistent with a president **hated locally** unless the **spectacle was the point**.
+
+#### Author conclusion (project thesis)
+
+**A clear-minded objective look** at **stated mission vs chosen format** supports **doubting JFK's (or the schedule-setters') innocent intentions that day:**
+
+- The **luncheon** explains **why Texas** appears on the calendar.  
+- The **motorcade** explains **why Dealey** appears on **television**.  
+- **Presidents don't buy that much exposure in cities where they're weak** unless the **procession is the product**.
+
+**Tier:** **Documented** = Stevenson incident, hostile ad, route, open car, timing; **author thesis** = **staged exit** / **spectacle-first** schedule — not **proven** survival, but **stronger fit** than **“heal the split by waving downtown.”**
 
 ---
 
@@ -155,7 +227,7 @@
 | **Shooter myth** | Oswald | Sirhan |
 | **Witness problem** | Magic bullet, few clear lines | Sirhan **in front**, RFK **falls back**, shots **after pin** |
 | **Autopsy / ballistics** | Warren Commission theater | Wolfer map; **slug size** vs **.22** |
-| **Family precedent** | Pavlick **real** attempt → compliance | **JFK “murder”** five years prior |
+| **Family precedent** | Pavlick **real** attempts → **compliance fork** | **JFK “murder”** five years prior |
 | **War board** | **Vietnam** | **1968** election / **re-open JFK** threat removed |
 | **Site file** | [agent.md](../agent.md) | This investigation |
 
@@ -263,7 +335,7 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 
 Keywords: #JFK #RFK #Kennedy #Sirhan #StagedAssassination #FakeDeath #AmbassadorHotel #Hartwell #ParadigmThreatFiles
 
-**Last updated:** 2026-06-29 (§6 paradigm arc; Hartwell web/PDF/Substack citation block)
+**Last updated:** 2026-06-30 (§2.1 Dallas motorcade audit — luncheon vs spectacle mission; hostility/movement-format test)
 
 ---
 
