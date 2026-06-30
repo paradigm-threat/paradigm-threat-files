@@ -188,7 +188,7 @@ The **$1 bill** still **dominates** despite **decades** of **$1 coin** programs 
 
 **Optional clue tier — not evidence:** Same **predictive-programming lane** as §7’s dystopian **cash-ban** tropes — **cultural preconditioning**, not proof of a dated Treasury brief.
 
-**Source beat:** In ***The Office*** **S02E22 *Casino Night***, **Kevin Malone** runs a **deceptive** poker persona — documented in the same episode via a **World Series of Poker** brag ([Springfield S02E22](https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-office-us&episode=s02e22)). When others ask about his **betting system**, he **confidently** explains: **“Nickels are worth 10, dimes are worth 25, and quarters are worth 50.”** Full catalogue + **NSA-aligned PP** framing: [Cruz–Kevin investigation — Casino Night deep dive](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino-night-quote-nickels-worth-10-dimes-25-quarters-50-s02e22).
+**Source beat:** In ***The Office*** **S02E22 *Casino Night***, **Kevin Malone** runs a **deceptive** poker persona — documented in the same episode via a **World Series of Poker** brag ([Springfield S02E22](https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-office-us&episode=s02e22)). When others ask about his **betting system**, he **confidently** explains: **“Nickels are worth 10, dimes are worth 25, and quarters are worth 50.”** Full catalogue + **NSA-aligned PP** framing: [Cruz–Kevin investigation — Casino Night deep dive](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino_night__nickels_are_worth_10_coin-value_bluff_s02e22).
 
 **Why it rhymes with §8 penny politics:**
 
@@ -240,12 +240,12 @@ The **$1 bill** still **dominates** despite **decades** of **$1 coin** programs 
 | Bitcoin (alternative ledger narrative) | [/influence/conspiracy/topics/bitcoin](/influence/conspiracy/topics/bitcoin) |
 | Banker wars / monetary history | [/governance/war](/governance/war) |
 | Exact-change wallet invention (author hardware concept) | [/science/computing/exact-change-wallet-invention-and-aftermath.md](/science/computing/exact-change-wallet-invention-and-aftermath.md) |
-| Kevin Malone (*Casino Night*) — coin denomination PP seed | [/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino-night-quote-nickels-worth-10-dimes-25-quarters-50-s02e22](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino-night-quote-nickels-worth-10-dimes-25-quarters-50-s02e22) |
-| Inventor containment casebook (§V — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean) | [/science/computing/exact-change-wallet-invention-and-aftermath.md#v-inventor-containment--how-the-third-act-gets-scripted](/science/computing/exact-change-wallet-invention-and-aftermath.md#v-inventor-containment--how-the-third-act-gets-scripted) |
+| Kevin Malone (*Casino Night*) — coin denomination PP seed | [/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino_night__nickels_are_worth_10_coin-value_bluff_s02e22](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino_night__nickels_are_worth_10_coin-value_bluff_s02e22) |
+| Inventor containment casebook (§V — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean) | [/science/computing/exact-change-wallet-invention-and-aftermath.md#v_inventor_containment__how_the_third_act_gets_scripted](/science/computing/exact-change-wallet-invention-and-aftermath.md#v_inventor_containment__how_the_third_act_gets_scripted) |
 
 ### 11.1 Minimum coin inventory (exact-change wallet — recovered design)
 
-**Context:** Companion reader essay [Exact-Change Wallet — Invention and Aftermath](/science/computing/exact-change-wallet-invention-and-aftermath.md) — wallet-sized MCU + keypad + per-slot LEDs/sensors; user enters sale total; device lights coins for **exact cents payment** with paper dollars or **break-back** after receiving change.
+**Context:** Companion reader essay [Exact-Change Wallet — Invention and Aftermath](/science/computing/exact-change-wallet-invention-and-aftermath.md) — wallet-sized **fixed-program controller** + keypad/wheels + per-slot LEDs/sensors; user enters sale total; device lights coins for **exact cents payment** with paper dollars or **break-back** after receiving change.
 
 **Computational result (U.S. {25, 10, 5, 1}¢, exhaustive search, Jun 2026):**
 
@@ -261,14 +261,14 @@ The **$1 bill** still **dominates** despite **decades** of **$1 coin** programs 
 
 ### 11.2 Four SKUs — form factor × coin era
 
-| SKU | Form | Tray layout | Firmware | Target buyer |
-|-----|------|-------------|----------|--------------|
+| SKU | Form | Tray layout | Control logic | Target buyer |
+|-----|------|-------------|---------------|--------------|
 | **A — Card Slice · Penny** | **~102×67×5–6 mm** insert; **dual rotary wheels** 0–99 (`$` + `¢`) on **edge rail** | **3Q · 2D · 1N · 4P** (10 coins, **104¢**) | **1¢** resolution; **live LEDs** on detent | **Legacy cash** users, **collectors**, **jurisdictions** still **demanding** **exact** **cent** change |
 | **B — Card Slice · Dollar** | Same shell; **wheels** (¢ in **5¢** steps); **$1 pocket** **26.5 mm** | **3Q · 2D · 1N · 1×$1** (7 coins) | **5¢** rounding mode | **Post-penny** **default**; **$1 coin** carriers |
 | **C — Full Wallet · Penny** | **~8–10 mm** closed; cards, **ID**, bills; **display stack**: halo → readout → **`$`/`−`/`+`** under display | Same as **A** | Same as **A** | **Daily driver** **or** **prepper** **bearer** kit |
 | **D — Full Wallet · Dollar Plus** | Same as **C** + **0–9 keypad below buttons** on tray rim (not hinge) | Same as **B** | Same as **B** | **Forward-looking** **cash** **competence** |
 
-**Shared industrial design:** **No Bluetooth / no app** — **MCU + dual rotary wheels (Slice) or display-stack buttons (Wallet) + LED/sensor tray + bill halo**; **CR2032** or **USB-C** trickle; **open firmware** optional. **Same spend-map firmware** on all SKUs — only the **input driver** differs. Canonical art: [`ecw-design/`](/science/computing/ecw-design/README.md). **Display** shows **handover** whenever it differs from set total (§I).
+**Shared industrial design:** **No Bluetooth / no app** — **fixed I/O controller** + dual rotary wheels (Slice) or display-stack buttons (Wallet) + LED/sensor tray + bill halo; **CR2032** or **USB-C** trickle. **Same frozen spend-map tables** on all SKUs — only the **input driver** differs. Canonical art: [`ecw-design/`](/science/computing/ecw-design/README.md). **Display** shows **handover** whenever it differs from set total (§I).
 
 **Dollar coin variants in one pocket:** **Sacagawea**, **Presidential**, and **American Innovation** **$1** coins share **golden-dollar** **dimensions** — **one** mechanical **slot** covers **all** **current** **programs**; **Susan B. Anthony** (**same diameter**, **1979–1981** / **1999**) also **fits**; **Eisenhower** **38.1 mm** **does not**.
 

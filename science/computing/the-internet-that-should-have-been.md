@@ -134,7 +134,7 @@ The internet that should have been is still **buildable in pieces** — mesh cac
 
 This file is the narrative spine. Citations, tier labels, and dissenting voices live in the companion dossier; hardware and display counterfactuals continue in the linked essays below.
 
-- [Exact-Change Wallet — §V inventor containment](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-and-aftermath.md#v-inventor-containment--how-the-third-act-gets-scripted) — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean casebook; mental suppression of garage builders
+- [Exact-Change Wallet — §V inventor containment](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-and-aftermath.md#v_inventor_containment__how_the_third_act_gets_scripted) — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean casebook; mental suppression of garage builders
 - [Investigation dossier — citations & tiers](/science/computing/investigations/internet-that-should-have-been-investigation.md)
 - [Google Don't Be Evil enclosure investigation](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) — pocket-computer gatekeeping; [keepandroidopen.org](https://keepandroidopen.org/) campaign
 - [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) — vector, analog, Wintel essay  

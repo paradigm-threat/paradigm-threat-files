@@ -330,7 +330,7 @@ No PCI, no KYC, no "sign in with Google," no **2.9% + 30¢** on a **37¢** decis
 
 - [Exact-Change Wallet — Invention and Aftermath](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-and-aftermath.md) — politics, prior art, patent bar, inventor containment, why not shipped
 - [ECW faceplate SVGs](https://paradigmthreat.net/science/computing/ecw-design/README.md) — mm layouts, ChatGPT prompts, PNG exports
-- [U.S. coin phase-out investigation](https://paradigmthreat.net/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md) — §10.1 minimum inventory table, SKU policy fork
+- [U.S. coin phase-out investigation](https://paradigmthreat.net/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md) — §11.1 minimum inventory table, SKU policy fork
 - Repo: `scripts/exact-change-wallet-sim.mjs` — run `npm run exact-change-sim`
 
 ---
