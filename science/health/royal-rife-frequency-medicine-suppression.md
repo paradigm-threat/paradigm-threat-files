@@ -96,7 +96,7 @@ Rife is **another perfect pattern** in that series — not because the **meme** 
 
 ## Where next
 
-- [Exact-Change Wallet — §V inventor containment](https://paradigmthreat.net/science/computing/exact-change-wallet-invention.md#v-inventor-containment--how-the-third-act-gets-scripted) — hardware/software inventors whose public third acts teach garage builders to stay quiet (McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean).
+- [Exact-Change Wallet — §V inventor containment](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-and-aftermath.md#v-inventor-containment--how-the-third-act-gets-scripted) — hardware/software inventors whose public third acts teach garage builders to stay quiet (McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean).
 - [Royal Rife suppression investigation](https://paradigmthreat.net/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md) — full claim inventory, court OCR, strength matrix, meme folklore, open FOIA-style TODOs.
 - [Predictive programming hub](https://paradigmthreat.net/influence/predictive_programming/page.md) — backward programming, fiction-as-fact catalog, convergence method.
 - [Fiction presented as fact](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/fiction-presented-as-fact-investigation.md) — documentary framing before the **SF** label.

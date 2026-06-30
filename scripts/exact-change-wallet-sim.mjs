@@ -20,7 +20,7 @@ const VERBOSE = process.argv.includes('--verbose');
 const VALUE = { Q: 25, D: 10, N: 5, P: 1, $: 100 };
 const ORDER = /** @type {DenomKey[]} */ (['Q', 'D', 'N', 'P']);
 
-/** Canonical tray profiles from exact-change-wallet-invention.md */
+/** Canonical tray profiles from exact-change-wallet-invention-and-aftermath.md */
 export const TRAYS = {
   /** 3Q·1D·2N·4P — 99¢, 10 coins */
   TWO_NICKEL: { Q: 3, D: 1, N: 2, P: 4, $: 0 },

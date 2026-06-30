@@ -1,6 +1,6 @@
 # Exact-Change Wallet — invention specification
 
-Engineering definition for the **Exact-Change Wallet (ECW)** — companion to the narrative article [The Exact-Change Wallet](https://paradigmthreat.net/science/computing/exact-change-wallet-invention.md). This file is the **canonical product spec**: controls, tray geometry, firmware states, spend-map logic, SKUs, and validation. Politics, prior art, and why-it-never-shipped live in the article; mm faceplate art lives in [`ecw-design/`](https://paradigmthreat.net/science/computing/ecw-design/README.md).
+Engineering definition for the **Exact-Change Wallet (ECW)** — companion to the narrative article [Exact-Change Wallet — Invention and Aftermath](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-and-aftermath.md). This file is the **canonical product spec**: controls, tray geometry, firmware states, spend-map logic, SKUs, and validation. Politics, prior art, and why-it-never-shipped live in the article; mm faceplate art lives in [`ecw-design/`](https://paradigmthreat.net/science/computing/ecw-design/README.md).
 
 **Set the total. Follow the lights.**
 
@@ -292,7 +292,7 @@ No PCI, no KYC, no "sign in with Google," no **2.9% + 30¢** on a **37¢** decis
 
 ## Where next
 
-- [The Exact-Change Wallet — narrative article](https://paradigmthreat.net/science/computing/exact-change-wallet-invention.md) — politics, prior art, patent bar, inventor containment, why not shipped
+- [Exact-Change Wallet — Invention and Aftermath](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-and-aftermath.md) — politics, prior art, patent bar, inventor containment, why not shipped
 - [ECW faceplate SVGs](https://paradigmthreat.net/science/computing/ecw-design/README.md) — mm layouts, ChatGPT prompts, PNG exports
 - [U.S. coin phase-out investigation](https://paradigmthreat.net/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md) — §10.1 minimum inventory table, SKU policy fork
 - Repo: `scripts/exact-change-wallet-sim.mjs` — run `npm run exact-change-sim`

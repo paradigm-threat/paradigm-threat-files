@@ -119,7 +119,7 @@ From the Case for the Appellant (Deeks' narrative): Macmillan editor Saul, upon 
 ## Cross-References
 
 - [Fiction Presented as Fact](fiction-presented-as-fact-investigation.md) — Authors who framed fiction as documentary; reclassification as "fiction" = steering mechanism
-- [Exact-Change Wallet — §V inventor containment (Tucker / DeLorean hardware lane)](/science/computing/exact-change-wallet-invention.md#hardware-inventors--tucker-and-delorean) — fraud/drug headlines as product; acquittal optional
+- [Exact-Change Wallet — §V inventor containment (Tucker / DeLorean hardware lane)](/science/computing/exact-change-wallet-invention-and-aftermath.md#hardware-inventors--tucker-and-delorean) — fraud/drug headlines as product; acquittal optional
 - [Royal Rife — §7.4 medical fraud catalog](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md) — electromedicine court choke points
 - [Controlled Opposition / Managed Disclosure](/timeline/evt-controlled-opposition) — Disclosure in controlled channels; court outcome as control valve
 - [Investigative Strategy](../../docs/INVESTIGATIVE_STRATEGY.md) — Absence of evidence ≠ proof; burden on overturning party

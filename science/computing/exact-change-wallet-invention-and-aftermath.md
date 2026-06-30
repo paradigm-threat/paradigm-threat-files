@@ -1,8 +1,8 @@
-# The Exact-Change Wallet
+# Exact-Change Wallet — Invention and Aftermath
 
 We live in a world of invention — constant ingenuity — with almost no application or realization of those ideas
 
-![The Exact-Change Wallet — article header](exact-change-wallet-invention.png)
+![Exact-Change Wallet — Invention and Aftermath — article header](https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png)
 
 I have come up with dozens of inventions in my life. So did my grandfather. So did my uncle. I am sure that is ordinary — millions of people sketch solutions in margins, rebuild things in garages, and walk away convinced they saw it first. It was even more visible toward the end of the nineteenth century, when World's Fair crowds watched **average people** demonstrate technologies they had built or uncovered. The fair was a catalog of human cleverness before the twentieth century turned cleverness into **compliance departments**.
 
@@ -12,7 +12,7 @@ Suppression is not only physical. It is **mental**. The system teaches you to fe
 
 That is the texture of a technologically suppressed world: not only the **current** state of technology is held back, but its **history** is flattened so you cannot see what was already done. This is hard to overstate. There is not an invention you have heard of — or can even think of — that was not **already invented and built** somewhere, sometime; otherwise it would not be thinkable. That can sound arrogant until you notice how industry always promises that the best inventions are **just around the corner** — keep the subscription, wait one more quarter — while the digital stack we got instead was poured with **backdoor access in the fundamental design**.
 
-Eventually the LED rectangles will give way to something more immersive — telepathic audiovisual experience, in the sense I argued in [Quantum Leap (of faith)](quantum-leap-of-faith.md): signal-bearing objects, resonance coupling, memory that was common before it was ridiculed. My claim extends to space travel as well: **all of it has already been invented**. We will not go much further than we already have. The rules of reality are set so that **energy** passes through the universe far more freely than **matter** through the density zones and energetic environments between here and there. In an afterlife you may travel anywhere; while you are alive, no spacecraft anyone will ever patent will take you much past a nearby solar system. Dubious reality, suppressed history, and platform money coalesce into a **strong-armed resistance** against individual ingenuity. The last couple centuries of "where is my flying car" are not mainly engineering failures. They are **political** failures dressed as progress reports.
+Eventually the LED rectangles will give way to something more immersive — telepathic audiovisual experience, in the sense I argued in [Quantum Leap (of faith)](https://paradigmthreat.net/science/computing/quantum-leap-of-faith.md): signal-bearing objects, resonance coupling, memory that was common before it was ridiculed. My claim extends to space travel as well: **all of it has already been invented**. We will not go much further than we already have. The rules of reality are set so that **energy** passes through the universe far more freely than **matter** through the density zones and energetic environments between here and there. In an afterlife you may travel anywhere; while you are alive, no spacecraft anyone will ever patent will take you much past a nearby solar system. Dubious reality, suppressed history, and platform money coalesce into a **strong-armed resistance** against individual ingenuity. The last couple centuries of "where is my flying car" are not mainly engineering failures. They are **political** failures dressed as progress reports.
 
 One invention I did draw to the millimeter: the **Exact-Change Wallet**. A molded tray holds a fixed set of coins — ten pieces in the usual layout — each in its own slot with a light underneath. You dial the register total; the lights tell you which coins to hand over. Paper covers the whole dollars; the tray covers the cents. **Set the total. Follow the lights.** That is the whole game. It is what invention looks like when it stops being a daydream and becomes something you can hold up and say — yes, I get it, that is the product.
 
@@ -20,7 +20,7 @@ One invention I did draw to the millimeter: the **Exact-Change Wallet**. A molde
 
 ## I. The Invention — Exact-Change Wallet
 
-![Exact-Change Wallet — four-SKU concept sheet (A–D)](exact-change-wallet-invention-concept.png)
+![Exact-Change Wallet — four-SKU concept sheet (A–D)](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png)
 
 **Set the total. Follow the lights.** That is the whole product.
 
@@ -39,7 +39,7 @@ Two shapes share the same coin brain:
 - **Card Slice** — flat insert for an existing wallet; coins on the face, rotary thumb wheels on the edge rail.
 - **Full Wallet** — slim bifold; tray on one leaf, cards and bills on the other; **`$` / `−` / `+`** on the tray rim (optional keypad on the Dollar Plus SKU).
 
-Controls, firmware, SKU matrix, and validated scenarios: **[invention specification](exact-change-wallet-invention-spec.md)**. Mm-accurate faceplates: [`ecw-design/`](ecw-design/README.md). Run `npm run exact-change-sim` to check the math.
+Controls, firmware, SKU matrix, and validated scenarios: **[invention specification](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-spec.md)**. Mm-accurate faceplates: [`ecw-design/`](https://paradigmthreat.net/science/computing/ecw-design/README.md). Run `npm run exact-change-sim` to check the math.
 
 ---
 
@@ -131,6 +131,8 @@ So the failure is **overdetermined**: no cheap path to market, a **patent bar** 
 
 The prologue names inventors whose public endings trained me to fear the spotlight. This section is the mechanics — not proof of a single conspiracy, but the **repeatable toolkit** that turns a builder into a **cautionary headline** so the next person with a millimeter sketch keeps quiet.
 
+![Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)](https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png)
+
 ### John McAfee — namesake liability
 
 **John McAfee** wrote the antivirus the world still says out loud, sold **McAfee Associates** in the **1990s**, and walked away rich. Most people still think of him as a **brand on the PC**, not a **body in a cell** — the **2021** death in Spanish custody barely pierced mainstream memory next to the subscription pop-ups. The product became infrastructure; the man became **embarrassing surplus**. When he came back loud — libertarian politics, Belize exile, **IRS** and **SEC** pursuit, cryptocurrency carnival, jail in Spain pending **U.S. extradition** on tax charges — the story was never “inventor improves security.” It was **eccentric millionaire self-destructs**. He **died in custody June 2021**; Spanish authorities ruled **suicide** ([BBC — McAfee death](https://www.bbc.com/news/world-europe-57646322)). His widow and others disputed that read. Either way the **public lesson** landed: the guy whose name is on your antivirus died in a cell. **Do not be that guy.**
@@ -174,8 +176,8 @@ That is why §IV’s **patent bar** and **partner NDAs** land on top of somethin
 
 ## Where next
 
-- **[Exact-Change Wallet — invention specification](exact-change-wallet-invention-spec.md)** — canonical product spec: register protocol, controls, firmware, inventory math, validated scenarios.
-- [ECW faceplate SVGs (canonical industrial design)](ecw-design/README.md) — mm layouts for renders and ChatGPT reference.
+- **[Exact-Change Wallet — invention specification](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-spec.md)** — canonical product spec: register protocol, controls, firmware, inventory math, validated scenarios.
+- [ECW faceplate SVGs (canonical industrial design)](https://paradigmthreat.net/science/computing/ecw-design/README.md) — mm layouts for renders and ChatGPT reference.
 - [U.S. physical coin circulation — phase-out investigation](https://paradigmthreat.net/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md) — penny halt, Fed terminals, cash share, enclosure pattern; §10.1 minimum inventory table.
 - [Quantum Leap (of faith)](https://paradigmthreat.net/science/computing/quantum-leap-of-faith.md) — suppressed signal technology, crystal memory, the leap beyond LED rectangles.
 - [The Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md) — parallel story: right idea, wrong era, platform capture; **Gary Kildall** / CP/M enclosure in the dossier.
@@ -190,11 +192,11 @@ That is why §IV’s **patent bar** and **partner NDAs** land on top of somethin
 
 ## Framing and limits
 
-This page is an **article**: a **narrative frame** (prologue), a **condensed invention sketch** (§I), **why penny policy blocked timing** (§II), **prior art** (§III), **personal why-not-shipped** (§IV), and **inventor-containment casebook** (§V) — not a shipped product or patent application. Engineering detail — controls, firmware states, spend-map logic, SKU matrix — lives in **[invention specification](exact-change-wallet-invention-spec.md)**; mm faceplates in [`ecw-design/`](ecw-design/README.md); validation in `scripts/exact-change-wallet-sim.mjs`. The **ten-coin / 1–99¢** multiset is **documented mathematics** ([Mind Your Decisions (2013)](https://mindyourdecisions.com/blog/2013/06/05/how-to-have-exact-change-every-time/), [Mosier (2024)](https://joshmosier.com/posts/coin-holder), [StackExchange (2022)](https://math.stackexchange.com/questions/4505822/what-is-another-way-to-prove-the-least-amount-of-pence-nickels-dimes-and-quarters)); this author **re-derived** it after losing design notes. The **LED tray protocol** as described remains **unverified as a commercial product** in the research pass behind §III. Coin inventories were **verified by computational search** for U.S. denominations **{25, 10, 5, 1}** cents; re-run locally with `npm run exact-change-sim`. **Post-penny** rounding rules may differ by **state** and **retailer** — see the linked investigation for **documented** policy. [**Prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md) applies: institutions degrade practical knowledge (here, **physical money literacy**) while marketing **convenience**. Suppression, containment, and partner-risk language in §IV–§V is **author pattern and experience**, not a legal claim against any named person or company. Claims about **antiquity**, **space travel limits**, and **telepathic media** in the prologue are **author cosmology** — developed elsewhere — not engineering specifications for the wallet.
+This page is an **article**: a **narrative frame** (prologue), a **condensed invention sketch** (§I), **why penny policy blocked timing** (§II), **prior art** (§III), **personal why-not-shipped** (§IV), and **inventor-containment casebook** (§V) — not a shipped product or patent application. Engineering detail — controls, firmware states, spend-map logic, SKU matrix — lives in **[invention specification](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-spec.md)**; mm faceplates in [`ecw-design/`](https://paradigmthreat.net/science/computing/ecw-design/README.md); validation in `scripts/exact-change-wallet-sim.mjs`. The **ten-coin / 1–99¢** multiset is **documented mathematics** ([Mind Your Decisions (2013)](https://mindyourdecisions.com/blog/2013/06/05/how-to-have-exact-change-every-time/), [Mosier (2024)](https://joshmosier.com/posts/coin-holder), [StackExchange (2022)](https://math.stackexchange.com/questions/4505822/what-is-another-way-to-prove-the-least-amount-of-pence-nickels-dimes-and-quarters)); this author **re-derived** it after losing design notes. The **LED tray protocol** as described remains **unverified as a commercial product** in the research pass behind §III. Coin inventories were **verified by computational search** for U.S. denominations **{25, 10, 5, 1}** cents; re-run locally with `npm run exact-change-sim`. **Post-penny** rounding rules may differ by **state** and **retailer** — see the linked investigation for **documented** policy. [**Prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md) applies: institutions degrade practical knowledge (here, **physical money literacy**) while marketing **convenience**. Suppression, containment, and partner-risk language in §IV–§V is **author pattern and experience**, not a legal claim against any named person or company. Claims about **antiquity**, **space travel limits**, and **telepathic media** in the prologue are **author cosmology** — developed elsewhere — not engineering specifications for the wallet.
 
 Keywords: #ExactChangeWallet #EmbeddedHardware #PhysicalCash #CoinInventory #PriorArt #SuppressedInvention #InventorContainment #JohnMcAfee #AaronSwartz #GaryKildall #IanMurdock #PrestonTucker #JohnDeLorean #ParadigmThreatFiles
 
-**Last updated:** 2026-06-30T18:00:00-04:00
+**Last updated:** 2026-06-30T20:00:00-04:00
 
 ---
 
