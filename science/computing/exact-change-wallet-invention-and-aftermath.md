@@ -189,7 +189,7 @@ That stack is real. **Pebble**, **Flow Hive**, and a decade of gadget campaigns 
 
 **Obsolescence:** Even if I had shipped in **2020**, the product optimizes a **penny-capable** world that policy is actively shrinking — see §III. The device is not wrong; it is **scheduled for orphanhood** by the same macro trend that retires the coin set the wallet was sized for.
 
-So the failure is **overdetermined**: no cheap path to market, a **patent bar** that punishes anyone without counsel and war chest, hostile partner geometry, **crowdfunding without reachable audience**, a culture that treats **cash competence** as **friction to eliminate**, unsettled coin policy at the register, and the **inventor-containment** templates in **§I** that teach you to stay small. I still think the **3Q / 1D / 2N / 4P** map is beautiful — ten coins, **99¢**, every cents column solved. I drew the hybrid tray anyway. I just built it **late in the act** of a play that was already closing — and learned again that invention without realization is the default setting.
+So the failure is **overdetermined**: no cheap path to market, a **patent bar** that punishes anyone without counsel and war chest, hostile partner geometry, **crowdfunding without reachable audience**, a culture that treats **cash competence** as **friction to eliminate**, unsettled coin policy at the register, and the **inventor-containment** templates that teach us to remain small and inconsequential. 
 
 ---
 
@@ -215,7 +215,9 @@ This page is an **article**: a **narrative frame** (prologue), **inventor-contai
 
 Keywords: #ExactChangeWallet #FixedLogicController #PhysicalCash #CoinInventory #Crowdfunding #AlgorithmicSuppression #PriorArt #SuppressedInvention #InventorContainment #JohnMcAfee #AaronSwartz #GaryKildall #IanMurdock #PrestonTucker #JohnDeLorean #ParadigmThreatFiles
 
-**Last updated:** 2026-06-30T12:00:00-04:00
+**Substack:** [paradigmthreat2.substack.com/p/exact-change-wallet-invention-and](https://open.substack.com/pub/paradigmthreat2/p/exact-change-wallet-invention-and)
+
+**Last updated:** 2026-06-30T14:00:00-04:00
 
 ---
 
