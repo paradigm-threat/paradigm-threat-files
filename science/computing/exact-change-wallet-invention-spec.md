@@ -1,6 +1,6 @@
 # Exact-Change Wallet — invention specification
 
-Engineering definition for the **Exact-Change Wallet (ECW)** — companion to the narrative article [Exact-Change Wallet — Invention and Aftermath](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-and-aftermath.md). This file is the **canonical product spec**: controls, tray geometry, firmware states, spend-map logic, SKUs, and validation. Politics, prior art, and why-it-never-shipped live in the article; mm faceplate art lives in [`ecw-design/`](https://paradigmthreat.net/science/computing/ecw-design/README.md).
+Engineering definition for the **Exact-Change Wallet (ECW)** — companion to the narrative article [Exact-Change Wallet — Invention and Aftermath](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-and-aftermath.md). This file is the **canonical product spec**: controls, tray geometry, **control-logic** states, spend-map tables, SKUs, and validation. Politics, prior art, and why-it-never-shipped live in the article; mm faceplate art lives in [`ecw-design/`](https://paradigmthreat.net/science/computing/ecw-design/README.md).
 
 **Set the total. Follow the lights.**
 
@@ -8,11 +8,11 @@ Engineering definition for the **Exact-Change Wallet (ECW)** — companion to th
 
 ## Read order
 
-1. **§0–§2** — what the device is (one paragraph + architecture)
+1. **§0–§2** — what the device is (one paragraph + architecture + **§2.1–§2.2 controller BOM**)
 2. **§3–§4** — register behavior and controls (MVP)
 3. **§5–§6** — form factors, dimensions, SKU matrix
 4. **§7** — minimum coin inventory (mathematics)
-5. **§8–§9** — firmware states and spend-map algorithm
+5. **§8–§9** — control-logic states and spend-map algorithm
 6. **§10** — scenario tests (`npm run exact-change-sim`)
 7. **§11–§13** — anti-patterns, hardware rationale, open TODOs
 
@@ -20,7 +20,7 @@ Engineering definition for the **Exact-Change Wallet (ECW)** — companion to th
 
 ## 0. Product definition
 
-A **wallet-sized embedded device**: small MCU, **one coin presence sensor per slot**, **one amber LED per slot**, **bill halo** (white/blue ring) around the numeric display, coin-cell or rechargeable power, and **sale-total input** — **dual rotary thumb wheels 0–99** (Card Slice) or a **display stack with `$` / `−` / `+`** plus optional **0–9 keypad** (Full Wallet). User sets register total (**5.99**, **20.24**); **coin LEDs and bill halo update on every detent or button press**. No confirm step, no app, no touchscreen, no Bluetooth.
+A **wallet-sized actuator**: **fixed I/O only** — one **presence sensor per slot**, one **amber LED per slot**, **bill halo** (white/blue ring) around the numeric display, coin-cell power, and **sale-total input** — **dual rotary thumb wheels 0–99** (Card Slice) or a **display stack with `$` / `−` / `+`** plus optional **0–9 keypad** (Full Wallet). User sets register total (**5.99**, **20.24**); **coin LEDs and bill halo update on every detent or button press**. No confirm step, no app, no touchscreen, no Bluetooth, **no expansion bus**, **no field updates**.
 
 The tray holds a **fixed multiset** of U.S. coins — **ten pieces** in the usual penny-era SKU — in **molded slots with light pipes**. Whole dollars come from **paper in the bill pocket** (Full Wallet) or the user's existing wallet (Card Slice). The **cents column** comes **only from the tray**. Goal: **closed coin inventory** — never a second purse of loose change if the user follows the protocol and the cashier is accurate.
 
@@ -40,16 +40,52 @@ The tray holds a **fixed multiset** of U.S. coins — **ten pieces** in the usua
 
 | Subsystem | MVP |
 |-----------|-----|
-| **MCU** | Low-power 8-bit or 32-bit (e.g. ATMEGA328-class); spend-map fits in RAM |
+| **Controller** | **Fixed-program controller IC** — closed I/O map; spend-map tables in **ROM/Flash**, not a general-purpose computer (see **§2.1**) |
 | **Sensors** | One **presence** sensor per slot (optical interrupter, capacitive, or mechanical — TBD BOM) |
 | **Coin LEDs** | Amber, at **thumb edge** of each pocket; lit = **take this coin** |
 | **Bill halo** | White/blue **ring around display** — not a tray-edge dot |
-| **Display** | ~22×8 mm 7-seg or small LCD; shows **dialed total** or **handover** |
+| **Display** | ~22×8 mm 4-digit 7-seg (TM1637-class) or small segment LCD via dedicated driver |
 | **Input** | Card Slice: **2× rotary encoder**; Full Wallet: **3× GPIO buttons** + optional keypad |
 | **Power** | CR1220-class coin cell in ~1.5 mm edge rail (Card Slice); similar or LiPo (Full Wallet) |
 | **PCB** | Flex or rigid; **edge-mounted** in Card Slice rail |
 
 **Tray mechanical:** single flat layer; nickel thickness (**1.95 mm**) sets cavity depth; with minimal slot lips, coin layer **~2–2.3 mm**. Slot clearance **~0.4 mm** — fingernail in/out, no coin-purse slack.
+
+### 2.1 Controller philosophy — fixed logic, not a computer product
+
+**Design intent (author):** The ECW is **combinatorial + small-state-machine logic** — a **closed set of inputs and outputs** that could, in principle, live on a **dedicated circuit board** (discrete gates, PLD, or mask-ROM controller). There is **no** operating system, **no** networking, **no** plugins, **no** post-ship feature lane. Processing = **lookup + compare + latch**: read total and sensors → emit LED map and halo → hold until coin motion resets.
+
+**Prototype reality:** Breadboarding the full **overpay solver** as pure discrete logic was **impractical for a demo**. A **single low-pin-count controller IC** running **frozen tables** (same behavior as the sim in `scripts/exact-change-wallet-sim.mjs`) is the **recommended bring-up path** — functionally equivalent to **burned-in logic**, not a platform.
+
+**I/O budget (penny-era, ten slots + halo + display + Card Slice wheels):**
+
+| Signal class | Count | Notes |
+|--------------|-------|-------|
+| Coin presence | 10–11 | One per slot (11 on Hybrid E) |
+| Coin LED + halo | 11–12 | Constant-current **I2C LED driver** (not 12 GPIO wires) |
+| Display | 1 block | **TM1637** 4-digit 7-seg (2-wire) or **HT1621B** + segment LCD |
+| Rotary wheels | 2× quadrature | Card Slice — 4 GPIO |
+| Buttons / keypad | 3–15 | Full Wallet — direct GPIO or expander on Dollar Plus |
+| Bus | I2C | Shared: display + LED driver (+ optional port expander) |
+
+### 2.2 Recommended controller BOM (MVP demo — smallest practical stack)
+
+Goal: **minimum mass and board area** while meeting the **fixed I/O map** above. All parts are **catalog**; production could later move to **OTP/mask-ROM** or **CPLD** once tables are frozen.
+
+| Role | Part (recommended) | Package / mass | Why |
+|------|-------------------|----------------|-----|
+| **Controller IC** | **Microchip ATtiny1616-MNR** | **20-VQFN 3×3 mm** (~0.02 g) | 16 KB Flash, 2 KB RAM; **sleep ~1 µA**; enough GPIO + I2C for muxed sensors and drivers; spend-map + overpay search fit with headroom |
+| **Full Wallet / keypad SKU** | **ATtiny3216-MNR** (alternate) | 24-VQFN 4×4 mm | Extra pins for **3×4 keypad** without a second expander |
+| **4-digit readout** | **TM1637** module or bare IC | ~16×8 mm board | Two-wire 7-segment; shows **20.24** / **21.14** / **NO FIT** |
+| **Coin + halo LEDs** | **AW9523B** or **IS31FL3733** | QFN / WLCSP | **16-channel** constant-current **I2C** sink — covers **10–11 coin LEDs + halo ring** with one chip |
+| **Sensor front-end** | **CD74HC4067** 16:1 mux + dividers | SOT / SOIC | **11 presence inputs → 1 analog pin** on controller; keeps controller pin count low |
+| **Passives + CR1220** | — | Edge rail | **Target active electronics < 2 g** excluding cell |
+
+**Not recommended for ECW:** **ATmega328-class** boards (Arduino footprint — too large, wrong product story), **ESP32** / **STM32** wireless parts (radio absent by design), **Linux SOM** — all imply **general-purpose computer** overhead this product explicitly rejects.
+
+**Power budget (order of magnitude):** Live state with LEDs lit — **~5–15 mA** burst on TM1637 + amber LEDs; sleep in pocket with display blank — **< 10 µA** target on ATtiny1616 with I2C drivers in shutdown. **CR1220** (~45 mAh) → **months** of typical checkout use if the controller sleeps between trips.
+
+**Demo ↔ production path:** Prototype on **ATtiny1616** with **one-time programmed** Flash; production spin replaces the same binary with **ROM mask** or **CPLD table** when the spend-map is frozen — **no user-facing “computer” upgrade path**.
 
 ---
 
@@ -67,7 +103,7 @@ When live inventory **cannot** make the sale's **cents column**, coin-only LEDs 
 
 Example: total **$20.24**, sensors report **14¢** on hand (e.g. 1D+4P). Lighting only "use 14¢" suggests **$20 + 14¢** closes the sale — **false**; still owe **10¢** more metal or must **overpay in bills**.
 
-Firmware must:
+The control logic must:
 
 1. Read **sale total** and **live inventory** (RAM + sensors).
 2. If cents column **reachable** → coin LEDs only, bill halo off, handover = **⌊total⌋ dollars + exact cents subset**.
@@ -98,7 +134,7 @@ If user starts at or below designed inventory, pays dollars in paper and cents f
 
 ---
 
-## 4. Controls — MVP (firmware identical; input driver differs)
+## 4. Controls — MVP (control logic identical; input driver differs)
 
 | | **Card Slice (slim)** | **Full Wallet** |
 |--|------------------------|-----------------|
@@ -121,7 +157,7 @@ Canonical faceplates: [`ecw-design/`](https://paradigmthreat.net/science/computi
 
 ## 5. Form factors and dimensions
 
-Same **coin brain** in both SKUs: tray profile + one LED per slot + bill halo + edge MCU + **no app**.
+Same **coin brain** in both SKUs: tray profile + one LED per slot + bill halo + edge **controller** + **no app**.
 
 ### 5.1 Shared tray layout
 
@@ -129,7 +165,7 @@ Same **coin brain** in both SKUs: tray profile + one LED per slot + bill halo + 
 
 Three bands: **3Q | 2D · 1N | 4P** (2×2 pennies).
 
-**Ship / math canonical multiset:** **3Q · 1D · 2N · 4P** — ten coins, **99¢** face (minimum count for 1–99¢ coverage). Alternate **1-nickel vs 2-nickel** mold is a **tooling choice**; firmware/sim accept both.
+**Ship / math canonical multiset:** **3Q · 1D · 2N · 4P** — ten coins, **99¢** face (minimum count for 1–99¢ coverage). Alternate **1-nickel vs 2-nickel** mold is a **tooling choice**; control tables / sim accept both.
 
 Tray active area **~79 × 67 mm** — credit-card **width**, not ISO 85 mm height. Product width tracks **billfold interior ~100–102 mm**.
 
@@ -210,9 +246,9 @@ Denominations **{25¢, 10¢, 5¢, 1¢}**. Exhaustive search (`npm run exact-chan
 
 ---
 
-## 8. Firmware state machine
+## 8. Control-logic state machine
 
-Phone calculators answer **"what is 20.00 − 14.37?"** ECW firmware answers **"which coins do I move so the wallet returns to equilibrium?"**
+Phone calculators answer **"what is 20.00 − 14.37?"** ECW control logic answers **"which coins do I move so the wallet returns to equilibrium?"**
 
 | State | Display | LEDs | Enter | Exit |
 |-------|---------|------|-------|------|
@@ -265,7 +301,7 @@ Sim also validates: **99/99** exact maps at full inventory (both ONE_NICKEL and 
 - App, Bluetooth, cloud account, payment rail integration.
 - Touchscreen UI.
 
-Industrial design goal: **one molded tray**, **one small MCU**, light pipes — **calculator discipline**, not fintech wearable.
+Industrial design goal: **one molded tray**, **one fixed-function controller**, light pipes — **calculator discipline**, not fintech wearable.
 
 ---
 
@@ -284,7 +320,7 @@ No PCI, no KYC, no "sign in with Google," no **2.9% + 30¢** on a **37¢** decis
 | **E1** | **Sensor reconciliation** | Full tray rescan on lid close vs RAM drift; "count mode" long-press — **never specced on paper**; difference between toy and trusted device on trip 20 |
 | **E2** | **NO FIT UX** | Copy, audible?, when maxExtraBills exhausted |
 | **E3** | **Deposit-map v2** | Break-change lighting without Idle on first insert |
-| **E4** | **BOM** | Sensor type per slot; flex vs rigid PCB; battery life budget |
+| **E4** | **BOM lock** | ATtiny1616 + TM1637 + AW9523B + sensor mux; flex vs rigid PCB; battery life budget — see **§2.2** |
 | **E5** | **Certification** | FCC/CE if radio absent — still need product safety story |
 | **E6** | **Golden dollar pocket** | ~26.5 mm cavity; Hybrid row 5 layout |
 
@@ -303,9 +339,9 @@ No PCI, no KYC, no "sign in with Google," no **2.9% + 30¢** on a **37¢** decis
 
 This file is an **engineering specification** — not a patent application, not a manufacturing BOM, not a shipped product. Tray inventories **{25, 10, 5, 1}** cents verified by computational search; re-run locally. **Post-penny** rounding differs by state and retailer — see linked investigation. **3Q/1D/2N/4P @ 99¢** multiset is **published mathematics**; author's contribution is the **operational layer** (tray boundary + LED protocol + bill halo). Sensor and reconciliation details in §13 are **design intent**, not built or tested hardware.
 
-Keywords: #ExactChangeWallet #ECWSpec #EmbeddedHardware #CoinInventory #Firmware #SpendMap #BillHalo #CardSlice #FullWallet #ParadigmThreatFiles
+Keywords: #ExactChangeWallet #ECWSpec #FixedLogicController #CoinInventory #SpendMap #BillHalo #CardSlice #FullWallet #ParadigmThreatFiles
 
-**Last updated:** 2026-06-30T16:00:00-04:00
+**Last updated:** 2026-06-30T23:00:00-04:00
 
 ---
 

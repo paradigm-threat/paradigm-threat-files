@@ -1,8 +1,39 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-30T14:52:00.324Z",
+    "date": "2026-06-30T14:55:30.771Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/computing/exact-change-wallet-invention-and-aftermath.md",
+        "href": "/science/computing/exact-change-wallet-invention-and-aftermath"
+      },
+      {
+        "status": "M",
+        "path": "science/computing/exact-change-wallet-invention-spec.md",
+        "href": "/science/computing/exact-change-wallet-invention-spec"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png",
+        "alt": "Exact-Change Wallet — Invention and Aftermath — article header"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png",
+        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png",
+        "alt": "Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-30T14:51:58.000Z",
+    "message": "Trim §III prior-art framing in ECW article.",
     "files": [
       {
         "status": "M",
@@ -821,90 +852,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-29T17:10:51.000Z",
-    "message": "Fix ECW faceplate layouts and add wallet-only Hybrid Plus SKU.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/computing/ecw-design/README.md",
-        "href": "/science/computing/ecw-design/README"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/ecw-design/card-slice-edge.png",
-        "href": "/science/computing/ecw-design/card-slice-edge.png"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/ecw-design/card-slice-edge.svg",
-        "href": "/science/computing/ecw-design/card-slice-edge.svg"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/ecw-design/chatgpt-prompt.md",
-        "href": "/science/computing/ecw-design/chatgpt-prompt"
-      },
-      {
-        "status": "A",
-        "path": "science/computing/ecw-design/full-wallet-hybrid.png",
-        "href": "/science/computing/ecw-design/full-wallet-hybrid.png"
-      },
-      {
-        "status": "A",
-        "path": "science/computing/ecw-design/full-wallet-hybrid.svg",
-        "href": "/science/computing/ecw-design/full-wallet-hybrid.svg"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/ecw-design/full-wallet-tray-ui.png",
-        "href": "/science/computing/ecw-design/full-wallet-tray-ui.png"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/ecw-design/full-wallet-tray-ui.svg",
-        "href": "/science/computing/ecw-design/full-wallet-tray-ui.svg"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/exact-change-wallet-invention.md",
-        "href": "/science/computing/exact-change-wallet-invention"
-      },
-      {
-        "status": "M",
-        "path": "scripts/exact-change-wallet-sim.mjs",
-        "href": "/scripts/exact-change-wallet-sim.mjs"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/computing/ecw-design/card-slice-edge.png"
-      },
-      {
-        "src": "/science/computing/ecw-design/card-slice-edge.svg"
-      },
-      {
-        "src": "/science/computing/ecw-design/full-wallet-hybrid.png"
-      },
-      {
-        "src": "/science/computing/ecw-design/full-wallet-hybrid.svg"
-      },
-      {
-        "src": "/science/computing/ecw-design/full-wallet-tray-ui.png"
-      },
-      {
-        "src": "/science/computing/ecw-design/full-wallet-tray-ui.svg"
-      },
-      {
-        "src": "/science/computing/exact-change-wallet-invention.png",
-        "alt": "The Exact-Change Wallet — article header"
-      },
-      {
-        "src": "/science/computing/exact-change-wallet-invention-concept.png",
-        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
-      }
-    ]
   }
 ]
