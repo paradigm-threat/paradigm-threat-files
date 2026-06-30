@@ -1,8 +1,56 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-30T14:25:41.579Z",
+    "date": "2026-06-30T14:37:03.213Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/computing/exact-change-wallet-invention-and-aftermath.md",
+        "href": "/science/computing/exact-change-wallet-invention-and-aftermath"
+      },
+      {
+        "status": "M",
+        "path": "science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md",
+        "href": "/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
+        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
+      },
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png",
+        "alt": "Exact-Change Wallet — Invention and Aftermath — article header"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png",
+        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png",
+        "alt": "Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-30T14:25:39.000Z",
+    "message": "Clarify §I ten-coin paragraph: public math vs invention.",
     "files": [
       {
         "status": "M",
@@ -960,32 +1008,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-29T13:43:43.000Z",
-    "message": "Add body snippets to search index and tag Gage investigation with Physics.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
-        "href": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "scripts/generate-index.py",
-        "href": "/scripts/generate-index.py"
-      }
-    ],
-    "images": [
-      {
-        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
-        "alt": "Richard Gage / AE911Truth — investigation header graphic"
-      },
-      {
-        "src": "/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png",
-        "alt": "Richard Gage / AE911Truth — investigation graphic (charity envelope, open-air prison)"
-      }
-    ]
   }
 ]

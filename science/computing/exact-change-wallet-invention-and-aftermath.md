@@ -39,7 +39,7 @@ Two shapes share the same coin brain:
 - **Card Slice** — flat insert for an existing wallet; coins on the face, rotary thumb wheels on the edge rail.
 - **Full Wallet** — slim bifold; tray on one leaf, cards and bills on the other; **`$` / `−` / `+`** on the tray rim (optional keypad on the Dollar Plus SKU).
 
-Controls, firmware, SKU matrix, and validated scenarios: **[invention specification](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-spec.md)**. Mm-accurate faceplates: [`ecw-design/`](https://paradigmthreat.net/science/computing/ecw-design/README.md). Run `npm run exact-change-sim` to check the math.
+Controls, firmware, SKU matrix, and validated scenarios: **[invention specification](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-spec.md)**. Mm-accurate faceplates: [`ecw-design/`](https://paradigmthreat.net/science/computing/ecw-design/README.md).
 
 ---
 
@@ -50,6 +50,8 @@ The device is simple. The **timing** was not.
 The Treasury **halted penny production** in 2025. Pennies still circulate and remain legal tender, but minting stopped. Retail lanes are splitting: some still count cents, others round cash to the **nickel**. That is a rational policy move — treat the nickel as the new smallest unit, stop minting a coin that costs more than it is worth. Full context: [U.S. coin phase-out investigation](https://paradigmthreat.net/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md).
 
 **Coinage policy is not neutral — and neither is the hardware.** President **Trump** pushed to **eliminate the penny** (Treasury directive, **Feb 2025**; production halt **Nov 2025** — see [phase-out investigation §1 / §8](https://paradigmthreat.net/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md)). In that climate a **nickel-rounded tray** (no penny slots) reads to many buyers as a **pro-Trump product** — aligned with the executive who killed the cent. A **penny-era tray** reads the other way: **nostalgia** for a coin the government is retiring, or **resistance to “progress.”** Before anyone asks whether the LEDs work, every SKU is a **team jersey**. Wait for the politics to cool, and you wait forever — while card tap keeps winning because exact change keeps feeling like friction.
+
+Pop culture has been seeding the same anxiety for years: in ***The Office*** **S02E22 *Casino Night***, Kevin Malone at the charity poker table confidently mis-states the register — **“Nickels are worth 10, dimes are worth 25, and quarters are worth 50.”** The laugh is **~2× face values**; the **structure** is **ladder promotion** — **no penny**, **nickel named first**, every coin **one rung up** — the symbolic form of **penny-into-nickel** policy and **American sovereignty over the domestic coin ladder**, years before Treasury halted the cent ([coin phase-out §8.5](https://paradigmthreat.net/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md#84-pop-culture-seed--kevin-malone-poker-denomination-shift-hypothesis); [Kevin catalogue](https://paradigmthreat.net/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino-night-quote-nickels-worth-10-dimes-25-quarters-50-s02e22)).
 
 So the design **does not pick a side**. It ships **both futures**:
 

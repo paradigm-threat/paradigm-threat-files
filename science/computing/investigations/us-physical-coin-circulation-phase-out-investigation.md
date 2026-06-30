@@ -3,7 +3,7 @@
 > **TL;DR:** Documents the **converging trend** toward **less physical U.S. coin in active commerce**: **(1)** **intentional policy** — penny production **halted 12 Nov 2025** (Treasury/Mint; Trump/Bessent directive Feb 2025); **nickel** still minted but **loss-making**; **Common Cents Act** (H.R. 3074, House committee **35–13** Jul 2025) would **codify** the halt; **federal rounding removed** in committee version — **stalled** since Sep 2025; **state** rounding patchwork grows; **(2)** **supply-chain friction** — Fed **coin-terminal** suspensions, **Jan 2026** partial deposit **reversal**; **(3)** **consumer shift** — cash **14%** of transactions (**2024**). **Penny politics (Jun 2026):** **abolish** camp (Trump, DOGE, Treasury economics, bipartisan bill sponsors) vs **keep** camp (**Americans for Common Cents**, **Artazn/Jarden** zinc blanks, **TN/NC** mint-supply jobs, **preppers/hoarders**, charities that rely on penny drives) — **production unlikely to restart** under current executive posture; **circulating stock** still **legal tender** and **slowly drains**. **Product fork:** [exact-change wallet](/science/computing/exact-change-wallet-invention-and-aftermath.md) ships as **four SKUs** — **Card Slice** vs **Full Wallet** × **penny-era** vs **dollar-coin / post-penny** tray. **Author thesis (pattern):** same **enclosure geometry** as other computing investigations — **remove bearer instruments**, **route commerce through intermediated ledgers**. Cross-reads [constitutional coining / Fed](/governance/usury/d.md), [Bitcoin](/influence/conspiracy/topics/bitcoin).
 
 **Status:** Open — documented policy and Fed/Treasury primary sources; **intent** and **CBDC endgame** labeled **hypothesis**.  
-**Last updated:** 2026-06-29 (§8 penny politics; §10.2–10.3 four-SKU fork + marketing)
+**Last updated:** 2026-06-29 (§8.5 ladder-promotion PP read; Kevin *Casino Night*; §8 penny politics)
 
 **Guide (read order)**
 
@@ -14,7 +14,7 @@
 5. **2020 coin disruption (precedent)** → §5  
 6. **Digital payments context (FedNow, cash share)** → §6  
 7. **Author pattern thesis — physical cash as suppressed bearer tech** → §7  
-8. **Penny politics — abolish vs keep, likelihood of return** → §8  
+8. **Penny politics — abolish vs keep, likelihood of return** (incl. §8.5 pop-culture PP seed) → §8  
 9. **Rounding, state law, and “rounding tax” estimates** → §9  
 10. **Open questions / falsifiers** → §10  
 11. **Related investigations + exact-change wallet SKUs** → §11  
@@ -184,6 +184,24 @@ The **$1 bill** still **dominates** despite **decades** of **$1 coin** programs 
 
 **Hardware implication:** A **post-penny** wallet **replaces four penny pockets** with **one larger $1 coin pocket** ( **Sacagawea / Presidential / Innovation** **interchangeable** in tray). **Combinatorics** for **nickel-rounded** cents (**0–95¢** in **5¢** steps) **unchanged** at minimum **3Q · 1D · 2N** — the **$1 slot** is **carry / receive / pay** convenience for **whole-dollar** **coin** **users**, **not** a **smaller** minimum set (exhaustive check, Jun 2026).
 
+### 8.5 Pop-culture seed — Kevin Malone poker denomination shift (hypothesis)
+
+**Optional clue tier — not evidence:** Same **predictive-programming lane** as §7’s dystopian **cash-ban** tropes — **cultural preconditioning**, not proof of a dated Treasury brief.
+
+**Source beat:** In ***The Office*** **S02E22 *Casino Night***, **Kevin Malone** runs a **deceptive** poker persona — documented in the same episode via a **World Series of Poker** brag ([Springfield S02E22](https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-office-us&episode=s02e22)). When others ask about his **betting system**, he **confidently** explains: **“Nickels are worth 10, dimes are worth 25, and quarters are worth 50.”** Full catalogue + **NSA-aligned PP** framing: [Cruz–Kevin investigation — Casino Night deep dive](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino-night-quote-nickels-worth-10-dimes-25-quarters-50-s02e22).
+
+**Why it rhymes with §8 penny politics:**
+
+| Layer | Read |
+|-------|------|
+| **Straight comedy** | Kevin **invents** a **private coin table** to **bluff** at poker — **~2× labels** are the **surface misdirection**; same **false confidence** lane as the **WSOP** monologue. |
+| **Ladder promotion (primary PP read)** | **Penny omitted**; Kevin **names nickels first**; each coin **steps up one rung** (nickel→old dime slot, dime→old quarter slot). **Symbolic form** of **penny halt + nickel-as-floor** — **smallest change-maker role migrates up** — **years before** Treasury headlines. **Not** literal policy math (**3Q · 1D · 2N** in §11.1). |
+| **American sovereignty (hypothesis)** | **Redefined domestic coin ladder** while **bearer metal** persists — parallel to [§7](/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md) **coin-as-sovereign-bearer** vs **ledger enclosure**; Kevin **asserts what coins mean** with **total confidence**. **Optional clue tier** — not evidence. |
+
+**Transcript hygiene (Jun 2026):** Published **Casino Night** scripts recover Kevin’s **WSOP** poker material **not** the **nickels-10 / dimes-25 / quarters-50** line — **confirm on episode** before treating as **verbatim** broadcast dialogue.
+
+**Cross-reads:** [Exact-Change Wallet §II](/science/computing/exact-change-wallet-invention-and-aftermath.md) (team-jersey / penny politics); [Trump-era Hollywood PP investigation](/influence/hollywood/trump-era-hollywood-political-media-investigation.md).
+
 ---
 
 ## 9. Rounding, state law, and consumer impact
@@ -221,6 +239,7 @@ The **$1 bill** still **dominates** despite **decades** of **$1 coin** programs 
 | Bitcoin (alternative ledger narrative) | [/influence/conspiracy/topics/bitcoin](/influence/conspiracy/topics/bitcoin) |
 | Banker wars / monetary history | [/governance/war](/governance/war) |
 | Exact-change wallet invention (author hardware concept) | [/science/computing/exact-change-wallet-invention-and-aftermath.md](/science/computing/exact-change-wallet-invention-and-aftermath.md) |
+| Kevin Malone (*Casino Night*) — coin denomination PP seed | [/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino-night-quote-nickels-worth-10-dimes-25-quarters-50-s02e22](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino-night-quote-nickels-worth-10-dimes-25-quarters-50-s02e22) |
 | Inventor containment casebook (§V — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean) | [/science/computing/exact-change-wallet-invention-and-aftermath.md#v-inventor-containment--how-the-third-act-gets-scripted](/science/computing/exact-change-wallet-invention-and-aftermath.md#v-inventor-containment--how-the-third-act-gets-scripted) |
 
 ### 11.1 Minimum coin inventory (exact-change wallet — recovered design)
