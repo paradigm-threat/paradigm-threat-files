@@ -67,17 +67,11 @@ That penny stalemate is **one layer**. Capital, patents, partners, and the inven
 
 ## III. History and prior art — what existed before this sketch
 
-This section is the honest map: what I **did not** invent alone, what **half-solved** the problem, and what still looks **unproductized** as of the research pass that informed this article.
-
-### The minimum set — public math, not a secret theorem
-
 The heart of the guarantee — **ten coins cover every cents amount from 1¢ to 99¢; fewer than ten cannot** — is a classic puzzle. Bloggers and teachers have packaged it for cash users for almost twenty years.
 
 [Patti Ng / Mind Your Decisions (2013)](https://mindyourdecisions.com/blog/2013/06/05/how-to-have-exact-change-every-time/) walks through the same logic: carry **4 pennies, 2 nickels, 1 dime, and 3 quarters**, pay the fractional part in exact coins, and **“never get change back”** when purchasing with cash. [Hung Truong (2007)](https://www.hung-truong.com/blog/2007/02/22/always-have-exact-change-with-only-10-coins/) describes a greedy algorithm that builds an equivalent **ten-coin** purse and frames the goal as hating spare change. [Math StackExchange (2022)](https://math.stackexchange.com/questions/4505822/what-is-another-way-to-prove-the-least-amount-of-pence-nickels-dimes-and-quarters) states the problem in nearly the same words as this article — **paying the fractional part in exact coins so you do not get coins back from the cashier** — and proves a **3Q · 2D · 1N · 4P** solution (same ten pieces; one more dime, one fewer nickel than my **3Q / 1D / 2N / 4P** mold). [Stack Overflow (2010)](https://stackoverflow.com/questions/3947867/find-the-least-number-of-coins-required-that-can-make-any-change-from-1-to-99-ce) works the bound the other direction: you need at least **four pennies**, at least **one nickel**, at least **two dimes**, and at least **three quarters**, hence **ten coins minimum**.
 
 More recently, [Josh Mosier (2024)](https://joshmosier.com/posts/coin-holder) lists both optimal ten-coin multisets explicitly — **Set 1: 3Q / 1D / 2N / 4P at 99¢** (the tray I would ship) and **Set 2: 3Q / 2D / 1N / 4P at $1.04** — and built a **credit-card-sized physical insert** to hold them. That is the closest **physical** prior art to the minimum-set idea: passive plastic, no electronics, user still picks coins by hand.
-
-**Takeaway:** I did not discover the theorem. I **lost my notes** and **re-derived** a set others had already named. What I still think is mine is treating that set as the **entire product boundary** — not a tip, not a blog post, not an optional insert — and wiring behavior around it.
 
 ### Mechanical wallets — organization without arithmetic
 
