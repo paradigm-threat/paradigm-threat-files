@@ -1,8 +1,34 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-30T15:00:01.444Z",
+    "date": "2026-06-30T15:15:18.773Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/computing/exact-change-wallet-invention-and-aftermath.md",
+        "href": "/science/computing/exact-change-wallet-invention-and-aftermath"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png",
+        "alt": "Exact-Change Wallet — Invention and Aftermath — article header"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png",
+        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png",
+        "alt": "Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-30T14:59:59.000Z",
+    "message": "Clarify patent-bar line: delicate-minded inventors are they, not author.",
     "files": [
       {
         "status": "M",
@@ -837,23 +863,5 @@
         "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-29T22:27:41.000Z",
-    "message": "Add JFK/RFK staged assassination investigation and extend site claims.",
-    "files": [
-      {
-        "status": "A",
-        "path": "events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md",
-        "href": "/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation"
-      },
-      {
-        "status": "M",
-        "path": "site-claims.json",
-        "href": "/site-claims.json"
-      }
-    ],
-    "images": []
   }
 ]
