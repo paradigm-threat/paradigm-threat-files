@@ -194,9 +194,10 @@ The **$1 bill** still **dominates** despite **decades** of **$1 coin** programs 
 
 | Layer | Read |
 |-------|------|
-| **Straight comedy** | Kevin **invents** a **private coin table** to **bluff** at poker — **~2× labels** are the **surface misdirection**; same **false confidence** lane as the **WSOP** monologue. |
-| **Ladder promotion (primary PP read)** | **Penny omitted**; Kevin **names nickels first**; each coin **steps up one rung** (nickel→old dime slot, dime→old quarter slot). **Symbolic form** of **penny halt + nickel-as-floor** — **smallest change-maker role migrates up** — **years before** Treasury headlines. **Not** literal policy math (**3Q · 1D · 2N** in §11.1). |
-| **American sovereignty (hypothesis)** | **Redefined domestic coin ladder** while **bearer metal** persists — parallel to [§7](/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md) **coin-as-sovereign-bearer** vs **ledger enclosure**; Kevin **asserts what coins mean** with **total confidence**. **Optional clue tier** — not evidence. |
+| **Not “no pennies in poker”** | **Nickels** are already the **practical floor** in most coin poker; **pennies** only in **ultra-cheap** games — **irritating to split**, not funny to omit. Kevin’s line **must** do more: **renumber every surviving coin upward**. |
+| **Straight comedy** | **Absurd private table** + **false confidence** (same lane as **WSOP** brag); **~2× labels** = **surface misdirection**. |
+| **Ladder promotion + value upgrade (primary PP)** | **Penny omitted**; **nickel first**; each coin **one rung up** — **symbolic penny-into-nickel / nickel-as-floor** — plus **all labels marked higher** = **pro-national revaluation** seeded **years before** Treasury halt. **Not** literal SKU math (**3Q · 1D · 2N** in §11.1). |
+| **American sovereignty (hypothesis)** | **Domestic coin ladder reasserted by fiat** while **bearer metal** persists ([§7](/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md)) — **national** denomination act vs **ledger enclosure**. **Optional clue tier** — not evidence. |
 
 **Transcript hygiene (Jun 2026):** Published **Casino Night** scripts recover Kevin’s **WSOP** poker material **not** the **nickels-10 / dimes-25 / quarters-50** line — **confirm on episode** before treating as **verbatim** broadcast dialogue.
 
