@@ -116,7 +116,7 @@ These reinforce the **501(c)(3) / public-benefit** pattern: **formal board,** **
 ## VII. See also
 
 - [Richard Gage / AE911Truth investigation](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md)
-- [Exact-Change Wallet — §V inventor containment](/science/computing/exact-change-wallet-invention-and-aftermath.md#v_inventor_containment__how_the_third_act_gets_scripted) — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean; third-act scripting for builders who took the spotlight
+- [Exact-Change Wallet — §I inventor containment](/science/computing/exact-change-wallet-invention-and-aftermath.md#i_inventor_containment__how_the_third_act_gets_scripted) — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean; third-act scripting for builders who took the spotlight
 - [Wikipedia — Tall poppy syndrome](https://en.wikipedia.org/wiki/Tall_poppy_syndrome) (overview of metaphor and spread)
 
 ---

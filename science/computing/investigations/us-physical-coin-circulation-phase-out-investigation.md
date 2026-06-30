@@ -201,7 +201,7 @@ The **$1 bill** still **dominates** despite **decades** of **$1 coin** programs 
 
 **Transcript hygiene (Jun 2026):** Published **Casino Night** scripts recover Kevin’s **WSOP** poker material **not** the **nickels-10 / dimes-25 / quarters-50** line — **confirm on episode** before treating as **verbatim** broadcast dialogue.
 
-**Cross-reads:** [Exact-Change Wallet §II](/science/computing/exact-change-wallet-invention-and-aftermath.md) (team-jersey / penny politics); [Trump-era Hollywood PP investigation](/influence/hollywood/trump-era-hollywood-political-media-investigation.md).
+**Cross-reads:** [Exact-Change Wallet §III](/science/computing/exact-change-wallet-invention-and-aftermath.md) (team-jersey / penny politics); [Trump-era Hollywood PP investigation](/influence/hollywood/trump-era-hollywood-political-media-investigation.md).
 
 ---
 
@@ -241,7 +241,7 @@ The **$1 bill** still **dominates** despite **decades** of **$1 coin** programs 
 | Banker wars / monetary history | [/governance/war](/governance/war) |
 | Exact-change wallet invention (author hardware concept) | [/science/computing/exact-change-wallet-invention-and-aftermath.md](/science/computing/exact-change-wallet-invention-and-aftermath.md) |
 | Kevin Malone (*Casino Night*) — coin denomination PP seed | [/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino_night__nickels_are_worth_10_coin-value_bluff_s02e22](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino_night__nickels_are_worth_10_coin-value_bluff_s02e22) |
-| Inventor containment casebook (§V — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean) | [/science/computing/exact-change-wallet-invention-and-aftermath.md#v_inventor_containment__how_the_third_act_gets_scripted](/science/computing/exact-change-wallet-invention-and-aftermath.md#v_inventor_containment__how_the_third_act_gets_scripted) |
+| Inventor containment casebook (§I — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean) | [/science/computing/exact-change-wallet-invention-and-aftermath.md#i_inventor_containment__how_the_third_act_gets_scripted](/science/computing/exact-change-wallet-invention-and-aftermath.md#i_inventor_containment__how_the_third_act_gets_scripted) |
 
 ### 11.1 Minimum coin inventory (exact-change wallet — recovered design)
 

@@ -428,7 +428,7 @@ From [Google developer verification guides](https://developer.android.com/develo
 | LLM governance — Google gate cluster | [/science/ai/llm-history-governance-theater-investigation.md](/science/ai/llm-history-governance-theater-investigation.md) |
 | GitHub ban — platform kill switch | [/influence/censorship/github-ban.md](/influence/censorship/github-ban.md) |
 | Relay escape hatch | [/blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md](/blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md) |
-| Exact-Change Wallet — §V inventor containment (McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean) | [/science/computing/exact-change-wallet-invention-and-aftermath.md#v_inventor_containment__how_the_third_act_gets_scripted](/science/computing/exact-change-wallet-invention-and-aftermath.md#v_inventor_containment__how_the_third_act_gets_scripted) |
+| Exact-Change Wallet — §I inventor containment (McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean) | [/science/computing/exact-change-wallet-invention-and-aftermath.md#i_inventor_containment__how_the_third_act_gets_scripted](/science/computing/exact-change-wallet-invention-and-aftermath.md#i_inventor_containment__how_the_third_act_gets_scripted) |
 | keepandroidopen.org (campaign) | [https://keepandroidopen.org/](https://keepandroidopen.org/) |
 | Controlled opposition hub | [/influence/controlled_opposition/page.md](/influence/controlled_opposition/page.md) |
 

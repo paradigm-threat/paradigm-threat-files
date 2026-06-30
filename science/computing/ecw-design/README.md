@@ -1,6 +1,6 @@
 # ECW faceplate design — canonical SVG reference
 
-Orthographic layouts for the [Exact-Change Wallet](/science/computing/exact-change-wallet-invention-and-aftermath.md) (reader essay + [§V inventor containment](/science/computing/exact-change-wallet-invention-and-aftermath.md#v_inventor_containment__how_the_third_act_gets_scripted)). Engineering spec: [invention specification](/science/computing/exact-change-wallet-invention-spec.md). Use these SVGs as **ground truth** for ChatGPT / DALL-E renders — text-only prompts misread “slider” as **binary slide switches**.
+Orthographic layouts for the [Exact-Change Wallet](/science/computing/exact-change-wallet-invention-and-aftermath.md) (reader essay + [§I inventor containment](/science/computing/exact-change-wallet-invention-and-aftermath.md#i_inventor_containment__how_the_third_act_gets_scripted)). Engineering spec: [invention specification](/science/computing/exact-change-wallet-invention-spec.md). Use these SVGs as **ground truth** for ChatGPT / DALL-E renders — text-only prompts misread “slider” as **binary slide switches**.
 
 ## Files
 
