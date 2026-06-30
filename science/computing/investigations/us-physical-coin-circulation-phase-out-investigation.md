@@ -221,6 +221,7 @@ The **$1 bill** still **dominates** despite **decades** of **$1 coin** programs 
 | Bitcoin (alternative ledger narrative) | [/influence/conspiracy/topics/bitcoin](/influence/conspiracy/topics/bitcoin) |
 | Banker wars / monetary history | [/governance/war](/governance/war) |
 | Exact-change wallet invention (author hardware concept) | [/science/computing/exact-change-wallet-invention.md](/science/computing/exact-change-wallet-invention.md) |
+| Inventor containment casebook (§V — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean) | [/science/computing/exact-change-wallet-invention.md#v-inventor-containment--how-the-third-act-gets-scripted](/science/computing/exact-change-wallet-invention.md#v-inventor-containment--how-the-third-act-gets-scripted) |
 
 ### 11.1 Minimum coin inventory (exact-change wallet — recovered design)
 

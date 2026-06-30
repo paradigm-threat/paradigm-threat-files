@@ -116,7 +116,7 @@ These reinforce the **501(c)(3) / public-benefit** pattern: **formal board,** **
 ## VII. See also
 
 - [Richard Gage / AE911Truth investigation](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md)
-- [Nonprofit Issues — sole member bylaws (concept)](https://www.nonprofitissues.com/ready-reference-page/sole-member-bylaws-can-protect-founder-nonprofit) (external; not endorsement)
+- [Exact-Change Wallet — §V inventor containment](/science/computing/exact-change-wallet-invention.md#v-inventor-containment--how-the-third-act-gets-scripted) — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean; third-act scripting for builders who took the spotlight
 - [Wikipedia — Tall poppy syndrome](https://en.wikipedia.org/wiki/Tall_poppy_syndrome) (overview of metaphor and spread)
 
 ---

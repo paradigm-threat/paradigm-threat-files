@@ -67,6 +67,7 @@ We gave industry something close to total faith and almost no audit—the way Be
 ## Where next
 
 - [The Internet That Should Have Been](/science/computing/the-internet-that-should-have-been.md) — flagship essay on machine-readable web, enclosure, WebMCP, and bridge-under-protest; dossier [here](/science/computing/investigations/internet-that-should-have-been-investigation.md).  
+- [Exact-Change Wallet — §V inventor containment](/science/computing/exact-change-wallet-invention.md#v-inventor-containment--how-the-third-act-gets-scripted) — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean; why garage builders fear the spotlight.
 - [Infinitely indexed storage / quantum computer — full investigation](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) — mainstream qubit narrative vs storage thesis, author blocks in §2–§2.2, science-fiction index tropes.  
 - [Homestuck / Hussie — controlled opposition investigation](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) — voluntary labor, fandom capture, parallel to repackaging commons.  
 - [OC ReMix — privatization investigation](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md).  
@@ -89,7 +90,7 @@ Keywords: #QuantumLeap #VectorGraphics #AnalogSignal #ComputingHistory #WalledGa
 
 **Substack:** [paradigmthreat2.substack.com/p/quantum-leap-of-faith](https://paradigmthreat2.substack.com/p/quantum-leap-of-faith)
 
-**Last updated:** 2026-05-06
+**Last updated:** 2026-06-30
 
 ---
 

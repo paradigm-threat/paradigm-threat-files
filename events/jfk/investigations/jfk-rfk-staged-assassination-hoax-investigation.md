@@ -10,7 +10,7 @@
 ## Guide
 
 1. **Shared hoax grammar (Kennedy lane)** → [§1](#1-shared-hoax-grammar)
-2. **JFK — Nov 22, 1963 (site thesis)** → [§2](#2-jfk-november-1963-fake-assassination) · [§2.1 Dallas motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)
+2. **JFK — Nov 22, 1963 (site thesis)** → [§2](#2-jfk-november-1963-fake-assassination) · [§2.1 Dallas motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission) · [§2.2 Rebecca Black *Friday* (PP dead end)](#22-rebecca-black-friday--encrypted-mock-pp-dead-end)
 3. **RFK — Jun 4–6, 1968 (forensic + Hartwell)** → [§3](#3-rfk-june-1968-ambassador-hotel)
 4. **Parallel table** → [§4](#4-jfk-vs-rfk-parallel-read)
 5. **Means, motive, opportunity (RFK — Hartwell)** → [§5](#5-rfk-means-motive-opportunity-hartwell)
@@ -123,6 +123,61 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 - **Presidents don't buy that much exposure in cities where they're weak** unless the **procession is the product**.
 
 **Tier:** **Documented** = Stevenson incident, hostile ad, route, open car, timing; **author thesis** = **staged exit** / **spectacle-first** schedule — not **proven** survival, but **stronger fit** than **“heal the split by waving downtown.”**
+
+### 2.2 Rebecca Black — *Friday* (encrypted mock / PP dead end)
+
+**Track:** Rebecca Black — **“Friday”** (2011, ARK Music Factory). **Documented fact:** **November 22, 1963** was a **Friday**. The viral clip became a **mass ridicule** object (“worst song ever”) — **not** the polished militainment or state-aligned PP usual on this site.
+
+**Site read (author — speculative adjunct only):** The song may **encrypt-mock** the **Dallas motorcade** in **teen-party** packaging — **Revelation of the Method** by **embarrassment**: those who **feel** the rhyme **cannot prove** it; those who **mock** the track **perform** the containment ritual. **Not NSA-aligned** tone (no patriot gravity, no grief hygiene) → mainstream **hates** it — whether **awful-on-purpose** **psyop** or **sincere** **vanity** **production** that still **functions** the same way (**poor Rebecca** — the **host** need not be **in on** the **board move** for the **artifact** to **work**).
+
+**Investigator warning:** **Dead end.** Lyrics **never name** Dallas, Kennedy, motorcade, or assassination. This section is **PP pattern notes**, not **evidence**. Do **not** lead with *Friday* in replies to forensic researchers (use [§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission), Pavlick, Hartwell).
+
+#### Lyric hooks → motorcade reads (author — low confidence)
+
+| Lyric (2011 release) | Hoax / motorcade read (speculative) |
+|----------------------|-------------------------------------|
+| **“Friday, Friday”** / **“Gotta get down on Friday”** | **Calendar lock:** assassination **Friday**; **“get down”** = **hit the deck** / **duck** command in **shooting** grammar (also **party** double entendre) |
+| **“Kickin' in the front seat”** / **“Sittin' in the back seat”** / **“Which seat can I take?”** | **Limousine geometry:** **Connally** / **front jump seat** vs **JFK–Jackie** **rear**; **compliance** “who goes where” in the **kill car** |
+| **“Got to get down to the bus stop”** | **Procession** metaphor — **scheduled route**, **public vehicle**, **everyone** **moving** on a **published line** (motorcade as **celebrity bus run**) |
+| **“Everybody's rushing”** / **“Ticking on and on”** | **Countdown** / **parade** tempo — **slow turn** into **Dealey**, **fixed** **time window** |
+| **“7 a.m., waking up in the morning”** | **Morning-of** **schedule** energy — Dallas **motorcade day** **starts** like any **school-trip** **innocence** before **spectacle** |
+| **“Fun, fun, fun, fun”** / **“Partyin', partyin'”** | **Trivializing** **national trauma** — **mock** tone consistent with **“nut country”** **absurdity** of **hand-waving** through **hostile** turf ([§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)) |
+
+#### Why “everyone thought it was awful” (site framing)
+
+| Mainstream read | Site read |
+|-----------------|-----------|
+| **Bad production**, **vapid** lyrics, **paid** vanity video | **Correct surface** — **function** may still land even if **not** deliberately **bad** (**author:** assume **Rebecca** **not** **culpable** for **board** **intent**) |
+| **Meme** **humiliation** of Rebecca Black | **Audience** trained to **ridicule** **anyone** who **hears** **Dallas** in **“get down on Friday”** |
+| **No political content** | **Encrypted** content — **says nothing explicit** → **investigator dead end** |
+
+#### Generational detachment read (author PP — primary *Friday* function)
+
+**Demographic:** **2011** **teen** **viral** — **younger** cohort **not** **raised** on **Zapruder** **grief** the way **Boomer** **parents** were. The **vehicle** is **party** **pop**, not **History Channel** **solemnity**.
+
+**Working function (whether or not the kid knew):**
+
+| Layer | Read |
+|-------|------|
+| **Detach** | **New generations** **inherit** **“get down on Friday”** as **meme**, **not** **“where were you when Kennedy was shot”** **trauma** |
+| **Replace** | **Parental** **tearful** **JFK** **nostalgia** → **child** **eye-roll** at **both** the **song** and, by **contamination**, the **event** |
+| **Revelation of the Method** | **Motorcade** **grammar** **hidden** **in plain sight** — **revealed** only to ears **already** **suspicious**, **unprovable** to **family** |
+| **Programmed dinner-table fight** | Parent **mentions** **Dallas** / **hoax** **read** → teen **quotes** *Friday* **ironically** → parent **reads** **disrespect** for **sacred** **assassination** → **generational** **rupture** **over** **tone**, **not** **evidence** |
+| **Containment win** | **Fight** **replaces** **audit** — **respect** **vs** **mockery** **substitutes** for **Pavlick**, **§2.1**, **Hartwell** |
+
+**Author note:** If **anyone** **“figures it out,”** the **script** **does not** **require** **them** to **win** the **argument** — only to **trigger** **parent** **injury** (**“you don't respect what JFK meant”**) while **child** **cannot** **articulate** **why** **the** **song** **feels** **wrong** **without** **sounding** **insane**. **Dead end** **by design** for **household** **transmission** of **hoax** **thesis**.
+
+**Tier:** **Author PP interpretation** — **not** **proof** **ARK** **planned** **generational** **war**; **pattern** **consistent** with **managed** **grief** **decay** across **cohorts** ([§6 paradigm arc](#6-paradigm-arc-betrayal-antibodies-endgame-author) — **Dallas** **poisons** **trust**, **later** **media** **trivializes** **memory**).
+
+#### Psyop grammar (if the read is held)
+
+1. **Plant** **motorcade** **rhymes** in **maximum-viral** **teen** **container** (not **parent** **documentary**).  
+2. **Force** **mass** **mockery** (or **sincere** **cringe**) so **serious** **researchers** **avoid** the **track**.  
+3. **Reward** **ridicule** — **social proof** that **JFK hoax** thinking is **as dumb as** *Friday*.  
+4. **If decoded** → **program** **dinner-table** **generational** **conflict** (**respect** **vs** **meme**).  
+5. **No** **recoverable** **evidence** — **Revelation of the Method** **without** **subpoena**.
+
+**Tier:** **Author speculation** — **adjacent** to [prophet.md](../prophet.md) **Downard** / **Killing the King** **mockery** lane; **not** **project proof**; **do not** cite as **exhibit A**.
 
 ---
 
@@ -299,6 +354,7 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Q4 | **JFK–RFK** — shared **handlers** / **LAPD** / **CIA** nodes in **both** hoaxes? |
 | Q5 | **Post-1968 RFK** — any **credible** **proof-of-life** dossier (tier **D** only)? |
 | Q6 | **Sirhan** — **hypnosis** / **Manchurian** lane vs **decoy** lane — **discourse** not **mutually exclusive** |
+| Q7 | **Rebecca Black *Friday*** — **intentional** **Dallas** **encoding** or **apophenia**? (**§2.2** — likely **unprovable**) |
 
 ---
 
@@ -319,6 +375,7 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Shane O’Sullivan, *Who Killed Bobby?* (2008) | Romero / pantry geometry |
 | Dan Moldea, *The Killing of Robert F. Kennedy* (1995) | Thane Cesar |
 | [Epstein staged death](../../false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md) | Later **public death ≠ exit** precedent |
+| Rebecca Black — **“Friday”** (2011) | **§2.2** — **PP dead end**; **not** forensic evidence |
 
 ---
 
@@ -333,9 +390,9 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Good-actor / NSA antibody | [good-actor-theory-interagency-antibody](../../false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | NSA / Ellsberg / Tonkin | [nsa-investigation](/governance/war/investigations/nsa-investigation.md) |
 
-Keywords: #JFK #RFK #Kennedy #Sirhan #StagedAssassination #FakeDeath #AmbassadorHotel #Hartwell #ParadigmThreatFiles
+Keywords: #JFK #RFK #Kennedy #Sirhan #StagedAssassination #FakeDeath #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #ParadigmThreatFiles
 
-**Last updated:** 2026-06-30 (§2.1 Dallas motorcade audit — luncheon vs spectacle mission; hostility/movement-format test)
+**Last updated:** 2026-06-30 (§2.2 generational detachment / dinner-table PP read)
 
 ---
 

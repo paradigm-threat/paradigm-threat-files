@@ -1,6 +1,6 @@
 # ECW faceplate design — canonical SVG reference
 
-Orthographic layouts for the [Exact-Change Wallet](/science/computing/exact-change-wallet-invention.md). Use these as **ground truth** for ChatGPT / DALL-E renders — text-only prompts misread “slider” as **binary slide switches**.
+Orthographic layouts for the [Exact-Change Wallet](/science/computing/exact-change-wallet-invention.md) (reader essay + [§V inventor containment](/science/computing/exact-change-wallet-invention.md#v-inventor-containment--how-the-third-act-gets-scripted)). Use these as **ground truth** for ChatGPT / DALL-E renders — text-only prompts misread “slider” as **binary slide switches**.
 
 ## Files
 

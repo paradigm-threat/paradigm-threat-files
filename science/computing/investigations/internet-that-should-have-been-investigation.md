@@ -377,7 +377,7 @@ Companion to §9.1 Wintel summary. **Essay lane:** [The Internet That Should Hav
 | **Mary Gates / John Opel** | United Way national board; 1980 discussion of Microsoft; Opel reportedly said **"run by Bill Gates, Mary Gates' son"** when PC team sought OS vendor | **Documented** timing + social link; **not proven** that Opel **caused** non-exclusive terms |
 | **William Gates Sr. / Preston Gates & Ellis** | Father co-founded firm that became **K&L Gates**; **corporate/tech** practice; later **major Microsoft outside counsel** in antitrust ([Seattle Times 2006](https://archive.seattletimes.com/archive/20061215/lawmerger15/preston-gates-to-merge-with-east-coast-firm)) | **Documented** legal bench; **not** evidence of 1980 deal-fixing |
 | **Bill Neukom** | Microsoft general counsel 17 years; returned to Preston Gates as chair **2004** | Same |
-| **Gary Kildall / Digital Research** | CP/M vendor; **contested** lore that IBM meeting was missed or mishandled; IBM still offered CP/M at **higher price** | **Footnote** — debatable; CP/M lane **lost on price + IBM push**, not mystery alone |
+| **Gary Kildall / Digital Research** | CP/M vendor; **contested** lore that IBM meeting was missed or mishandled; IBM still offered CP/M at **higher price** | **Footnote** — debatable; CP/M lane **lost on price + IBM push**, not mystery alone. **Inventor-containment casebook:** [Exact-Change Wallet §V — Kildall](/science/computing/exact-change-wallet-invention.md#gary-kildall--enclosure-then-erasure) |
 
 #### 9.6.5 Author thesis — institutional arrangement (speculative)
 
