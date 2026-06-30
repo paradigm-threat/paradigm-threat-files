@@ -1,8 +1,34 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-06-30T14:55:30.771Z",
+    "date": "2026-06-30T15:00:01.444Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "science/computing/exact-change-wallet-invention-and-aftermath.md",
+        "href": "/science/computing/exact-change-wallet-invention-and-aftermath"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png",
+        "alt": "Exact-Change Wallet — Invention and Aftermath — article header"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png",
+        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png",
+        "alt": "Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-06-30T14:55:29.000Z",
+    "message": "Spec fixed-I/O controller BOM; article drops microprocessor framing.",
     "files": [
       {
         "status": "M",
@@ -824,29 +850,6 @@
       },
       {
         "status": "M",
-        "path": "site-claims.json",
-        "href": "/site-claims.json"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-29T21:58:26.000Z",
-    "message": "Add site-claims.json as curated thesis index for Site AI and /reply.",
-    "files": [
-      {
-        "status": "M",
-        "path": "package.json",
-        "href": "/package.json"
-      },
-      {
-        "status": "A",
-        "path": "scripts/validate-site-claims.cjs",
-        "href": "/scripts/validate-site-claims.cjs"
-      },
-      {
-        "status": "A",
         "path": "site-claims.json",
         "href": "/site-claims.json"
       }
