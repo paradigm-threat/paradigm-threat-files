@@ -22,43 +22,44 @@ One invention I did draw to the millimeter: the **Exact-Change Wallet**. A molde
 
 ![Exact-Change Wallet — four-SKU concept sheet (A–D)](exact-change-wallet-invention-concept.png)
 
-Billfolds were never built for coins. They bulge, jingle, and turn into lint. Checkout punishes anyone who cannot subtract **$14.37** from a twenty, decompose the cents, and hunt the right pieces before the line moves — or pay with a twenty anyway, take **$5.63** back in mixed metal, and dump it in a cup at home. Card tap exists because most people hate doing that math under someone's sigh.
+**Set the total. Follow the lights.** That is the whole product.
 
-The Exact-Change Wallet replaces the coin pocket with a **dedicated tray**: each denomination gets its own slot and LED. You carry only what fits — not whatever accumulated since last Tuesday. Dial **14.37** on the display (rotary wheels on the slim **Card Slice** insert, or **`$` / `−` / `+`** on the **Full Wallet** bifold). Coin LEDs light for **37¢** immediately. Hand **$14** in bills plus those coins. Change: **zero**.
+Billfolds were never built for coins. They bulge, jingle, and turn into lint. At checkout you subtract **$14.37** from a twenty, decompose the cents, and hunt the right pieces before the line moves — or you pay with a twenty anyway, take **$5.63** back in mixed metal, and dump it in a jar at home. Card tap exists because most people hate that math under someone's sigh.
 
-The point is a **closed coin inventory**, not a calculator novelty. You carry the **minimum** set of U.S. coins below one dollar that still covers **every** cents-only amount when dollars are paper — **3 quarters · 1 dime · 2 nickels · 4 pennies**, ten coins, **99¢** face. I had the mapping on a spreadsheet once; the notes are gone; I re-derived it later and found puzzle writers had published the same set. The guarantee only becomes real when the tray and the lights **enforce** it: pay the cents column from the tray, cover dollars with bills, and you never accumulate a second purse of loose change as long as you follow the protocol and the cashier is accurate.
+The Exact-Change Wallet fixes the coin part. A molded tray holds **ten coins** — one slot per piece, one amber LED per slot. You dial the register total on a small display. The LEDs tell you which coins to hand over. Paper covers the whole dollars; the tray covers the cents.
 
-The interesting case is when the tray is **short**. Total **$20.24**, but you only have **14¢** left on hand. Lighting "use these 14¢" would mislead you into thinking **$20 + 14¢** closes the sale — it does not. The device reads live inventory, finds a **handover** that works (often **$21 + 14¢** so **90¢** change back refills the slots you emptied), lights the coins you actually have, and glows a **bill halo** around the display when you must add **≥ $1** more paper than the whole-dollar part of the total. The readout shows **21.14** while you dialed **20.24**. That is the feature a phone cannot replicate: it knows what metal you **hold**, not just what arithmetic says.
+Example: total **$14.37**. Dial **14.37**. Coin LEDs light for **37¢**. Hand **$14** in bills plus those coins. Coin change from the cashier: **zero**.
 
-A phone app can tell you **37¢**. It cannot **hold** the coins, **limit** the inventory, or **point** at the slot to open under stress. The tray is the protocol — local, bearer, no payment rail.
+The tray carries the **minimum** U.S. coin set below one dollar that still covers every cents-only amount when dollars are paper — **3 quarters · 1 dime · 2 nickels · 4 pennies**, ten coins, **99¢** face. I had the mapping on a spreadsheet once; the notes are gone; I re-derived it later and found puzzle writers had published the same set. The guarantee only works when the tray **enforces** the boundary: pay the cents column from the tray, cover dollars with bills, follow the lights, and you never accumulate a second purse of loose change — as long as the cashier is accurate.
 
-**Card Slice** is a flat insert: coins on the face, paper stays in your existing wallet, thumb wheels on the edge rail. **Full Wallet** is a slim bifold — tray on one leaf, cards and bills on the other, display and buttons (plus optional keypad on the Dollar Plus SKU) on the tray rim. Same coin brain in both.
+The hard case is **short inventory**. Total **$20.24**, but you only have **14¢** left on hand. Lighting "use these 14¢" would mislead you into thinking **$20 + 14¢** closes the sale — it does not. The device reads what is actually in the slots, finds a **handover** that works (often **$21 + 14¢**, so **90¢** change back refills the slots you emptied), lights the coins you have, and glows a **bill halo** around the display when you must hand **≥ $1** more paper than the whole-dollar part of the total. The readout shows **21.14** while you dialed **20.24**. A phone app can tell you **37¢**; it cannot **hold** the coins, **limit** the inventory, or **point** at the slot to open under stress.
 
-Rather than bet on one future for U.S. coinage, the design covers both:
+Two shapes share the same coin brain:
 
-- **Card Slice · Penny** — **3Q / 2D / 1N / 4P**; **1¢** steps
-- **Card Slice · Dollar** — **3Q / 2D / 1N / 1×$1**; **5¢** steps for nickel-rounded lanes
-- **Full Wallet · Penny** — same tray + cards, ID, bills
-- **Full Wallet · Dollar Plus** — dollar tray + keypad under the display buttons
-- **Full Wallet · Hybrid Plus (E)** — **11 coins**: pennies **and** golden dollar in one wallet-only tray
+- **Card Slice** — flat insert for an existing wallet; coins on the face, rotary thumb wheels on the edge rail.
+- **Full Wallet** — slim bifold; tray on one leaf, cards and bills on the other; **`$` / `−` / `+`** on the tray rim (optional keypad on the Dollar Plus SKU).
 
-Penny minting is halted; legal tender cents linger; many lanes round to the nickel — see the [phase-out investigation](https://paradigmthreat.net/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md). Post-penny trays drop to **3Q · 1D · 2N** (six coins, **95¢** face, **5¢** granularity).
-
-Mm-accurate faceplates, firmware scenarios, and spend-map validation: [`ecw-design/`](ecw-design/README.md) and `npm run exact-change-sim`.
+Controls, firmware, SKU matrix, and validated scenarios: **[invention specification](exact-change-wallet-invention-spec.md)**. Mm-accurate faceplates: [`ecw-design/`](ecw-design/README.md). Run `npm run exact-change-sim` to check the math.
 
 ---
 
-## II. The penny stalemate — politics at the register
+## II. Why the penny fight blocked shipping
 
-The ultimate reason this never got going was also **political** — and it all comes down to the **penny**.
+The device is simple. The **timing** was not.
 
-There is no clean moment to release a coin-tray computer while the country is still fighting over whether the penny was murdered or martyred. I actually agree the penny needs to go: **rampant inflation**, other countries trying to **steal wealth through debasement**, and a Treasury that finally said we will **move the decimal** in practice — make the **nickel the new penny**, protect the unit of account, sorry-not-sorry. That is a rational defensive move for America. It also means any product that **still has penny slots** reads as nostalgia to one camp and **resistance to progress** to another — before anyone asks whether the LEDs work.
+The Treasury **halted penny production** in 2025. Pennies still circulate and remain legal tender, but minting stopped. Retail lanes are splitting: some still count cents, others round cash to the **nickel**. That is a rational policy move — treat the nickel as the new smallest unit, stop minting a coin that costs more than it is worth. Full context: [U.S. coin phase-out investigation](https://paradigmthreat.net/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md).
 
-So you wait for the political climate to cool, and while you wait, every consumer object becomes a **team jersey**. A wallet with four penny pockets is not neutral hardware. It is interpreted as a **Trump supporter product** or an **anti-Trump product** depending on who is performing the interpretation — even when the firmware also ships a **nickel-rounded dollar-coin SKU** and a **hybrid** that carries both futures in one tray.
+**Coinage policy is not neutral — and neither is the hardware.** President **Trump** pushed to **eliminate the penny** (Treasury directive, **Feb 2025**; production halt **Nov 2025** — see [phase-out investigation §1 / §8](https://paradigmthreat.net/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md)). In that climate a **nickel-rounded tray** (no penny slots) reads to many buyers as a **pro-Trump product** — aligned with the executive who killed the cent. A **penny-era tray** reads the other way: **nostalgia** for a coin the government is retiring, or **resistance to “progress.”** Before anyone asks whether the LEDs work, every SKU is a **team jersey**. Wait for the politics to cool, and you wait forever — while card tap keeps winning because exact change keeps feeling like friction.
 
-In that stalemate I did what the design files show: **go both directions**. A **penny version** for lanes that still count cents. A **dollar-coin / nickel-step version** for the Treasury's forward path. A **full wallet hybrid** with pennies **and** a golden dollar because the bifold has room even when the slim Card Slice does not. Not because I think the culture war lasts forever — because **working with the past** beats **burning everything and starting over**, which is how we got a digital stack full of backdoors in the first place.
+So the design **does not pick a side**. It ships **both futures**:
 
-The future, if there is one for tools like this, is **layered compatibility**: honor what still circulates, teach the protocol that survives the next rounding rule, and refuse to pretend policy moves on a product roadmap just because a founder wants it to.
+- **Penny-era trays** — **1¢** steps, four penny slots, for lanes that still count cents.
+- **Nickel-rounded trays** — **5¢** steps and a golden-dollar slot, for the Treasury's forward path.
+- **Hybrid Full Wallet** — pennies **and** a golden dollar in one eleven-coin tray, because the bifold has room the slim Card Slice does not.
+
+Post-penny-only trays drop to **3Q · 1D · 2N** — six coins, **95¢** face, **5¢** granularity. The point is not to win a culture war. It is to build a tool that still works **whichever lane you are standing in** — and to accept that Washington does not move on your product roadmap.
+
+That penny stalemate is **one layer**. Capital, patents, partners, and the inventor-containment climate in §IV–§V are the rest. The math was never the blocker. **Shipping plastic into an unsettled coin policy** was.
 
 ---
 
@@ -110,7 +111,7 @@ That is why the story belongs in one file with **policy history** ([penny halt, 
 
 ## IV. Why I never shipped it
 
-I did not fail to build this because the math was impossible or because the MCU was too slow. I failed to **venture** — and the reasons stack on top of the penny politics in §II.
+I did not fail to build this because the math was impossible or because the MCU was too slow. I failed to **venture**. §II covers the penny timing problem; what follows is the rest of the stack.
 
 **Capital and partners:** Hardware wants a mold, a certification story, a retail channel, and someone who trusts you with **$50k–$500k** before the first container ship leaves Shenzhen. Every conversation drifts toward **existing POS vendors**, **bank partnerships**, or **“we’ll white-label it if you sign here.”** Those contracts are where inventions go to become **features inside someone else’s enclosure** — or die in diligence.
 
@@ -120,9 +121,9 @@ I did not fail to build this because the math was impossible or because the MCU 
 
 **Danger of entanglement:** Partners mean **NDAs**, **cap tables**, **IP assignment**, and **non-competes** with the same **fintech incumbents** who profit when **exact change** is impossible and **card tap** is the default. I have seen enough [enclosure playbooks](https://paradigmthreat.net/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) to know the meeting that starts as “we’ll help you manufacture” often ends as “we own the LED protocol and you may not sell to cash-only stores.”
 
-**Obsolescence — the cruelest layer:** Even if I had shipped in **2020**, the product optimizes a **penny-capable** world. The **government is removing the penny from production**; **nickel** is loss-making; **rounding** splits **cash** from **card** pricing. I was inventing a **physical bridge** for a **currency class** the state is **deliberately shrinking**. The device is not wrong — it is **scheduled for orphanhood** by policy the same way [open web tooling](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md) arrives **after** the AI gate closes.
+**Obsolescence:** Even if I had shipped in **2020**, the product optimizes a **penny-capable** world that policy is actively shrinking — see §II. The device is not wrong; it is **scheduled for orphanhood** by the same macro trend that retires the coin set the wallet was sized for.
 
-So the failure is **overdetermined**: no cheap path to market, a **patent bar** that punishes anyone without counsel and war chest, hostile partner geometry, a culture that treats **cash competence** as **friction to eliminate**, a **macro trend** that retires the coin set the wallet was sized for, a **register culture war** that makes every SKU a Rorschach test, and the **inventor-containment** templates in §V that teach you to stay small. I still think the **3Q / 1D / 2N / 4P** map is beautiful — ten coins, **99¢**, every cents column solved. I drew the hybrid tray anyway. I just built it **late in the act** of a play that was already closing — and learned again that invention without realization is the default setting.
+So the failure is **overdetermined**: no cheap path to market, a **patent bar** that punishes anyone without counsel and war chest, hostile partner geometry, a culture that treats **cash competence** as **friction to eliminate**, unsettled coin policy at the register, and the **inventor-containment** templates in §V that teach you to stay small. I still think the **3Q / 1D / 2N / 4P** map is beautiful — ten coins, **99¢**, every cents column solved. I drew the hybrid tray anyway. I just built it **late in the act** of a play that was already closing — and learned again that invention without realization is the default setting.
 
 ---
 
@@ -173,6 +174,7 @@ That is why §IV’s **patent bar** and **partner NDAs** land on top of somethin
 
 ## Where next
 
+- **[Exact-Change Wallet — invention specification](exact-change-wallet-invention-spec.md)** — canonical product spec: register protocol, controls, firmware, inventory math, validated scenarios.
 - [ECW faceplate SVGs (canonical industrial design)](ecw-design/README.md) — mm layouts for renders and ChatGPT reference.
 - [U.S. physical coin circulation — phase-out investigation](https://paradigmthreat.net/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md) — penny halt, Fed terminals, cash share, enclosure pattern; §10.1 minimum inventory table.
 - [Quantum Leap (of faith)](https://paradigmthreat.net/science/computing/quantum-leap-of-faith.md) — suppressed signal technology, crystal memory, the leap beyond LED rectangles.
@@ -188,11 +190,11 @@ That is why §IV’s **patent bar** and **partner NDAs** land on top of somethin
 
 ## Framing and limits
 
-This page is an **article**: a **narrative frame** (prologue, §II), a **condensed invention sketch** (§I), **prior art and history** (§III), **personal why-not-shipped** (§II, §IV), and **inventor-containment casebook** (§V) — not a shipped product or patent application. Engineering detail — mm faceplates, firmware states, spend-map logic — lives in [`ecw-design/`](ecw-design/README.md) and `scripts/exact-change-wallet-sim.mjs`. The **ten-coin / 1–99¢** multiset is **documented mathematics** ([Mind Your Decisions (2013)](https://mindyourdecisions.com/blog/2013/06/05/how-to-have-exact-change-every-time/), [Mosier (2024)](https://joshmosier.com/posts/coin-holder), [StackExchange (2022)](https://math.stackexchange.com/questions/4505822/what-is-another-way-to-prove-the-least-amount-of-pence-nickels-dimes-and-quarters)); this author **re-derived** it after losing design notes. The **LED tray protocol** as described remains **unverified as a commercial product** in the research pass behind §III. Coin inventories were **verified by computational search** for U.S. denominations **{25, 10, 5, 1}** cents; re-run locally with `npm run exact-change-sim`. **Post-penny** rounding rules may differ by **state** and **retailer** — see the linked investigation for **documented** policy. [**Prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md) applies: institutions degrade practical knowledge (here, **physical money literacy**) while marketing **convenience**. Suppression, containment, and partner-risk language in §IV–§V is **author pattern and experience**, not a legal claim against any named person or company. Claims about **antiquity**, **space travel limits**, and **telepathic media** in the prologue are **author cosmology** — developed elsewhere — not engineering specifications for the wallet.
+This page is an **article**: a **narrative frame** (prologue), a **condensed invention sketch** (§I), **why penny policy blocked timing** (§II), **prior art** (§III), **personal why-not-shipped** (§IV), and **inventor-containment casebook** (§V) — not a shipped product or patent application. Engineering detail — controls, firmware states, spend-map logic, SKU matrix — lives in **[invention specification](exact-change-wallet-invention-spec.md)**; mm faceplates in [`ecw-design/`](ecw-design/README.md); validation in `scripts/exact-change-wallet-sim.mjs`. The **ten-coin / 1–99¢** multiset is **documented mathematics** ([Mind Your Decisions (2013)](https://mindyourdecisions.com/blog/2013/06/05/how-to-have-exact-change-every-time/), [Mosier (2024)](https://joshmosier.com/posts/coin-holder), [StackExchange (2022)](https://math.stackexchange.com/questions/4505822/what-is-another-way-to-prove-the-least-amount-of-pence-nickels-dimes-and-quarters)); this author **re-derived** it after losing design notes. The **LED tray protocol** as described remains **unverified as a commercial product** in the research pass behind §III. Coin inventories were **verified by computational search** for U.S. denominations **{25, 10, 5, 1}** cents; re-run locally with `npm run exact-change-sim`. **Post-penny** rounding rules may differ by **state** and **retailer** — see the linked investigation for **documented** policy. [**Prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md) applies: institutions degrade practical knowledge (here, **physical money literacy**) while marketing **convenience**. Suppression, containment, and partner-risk language in §IV–§V is **author pattern and experience**, not a legal claim against any named person or company. Claims about **antiquity**, **space travel limits**, and **telepathic media** in the prologue are **author cosmology** — developed elsewhere — not engineering specifications for the wallet.
 
 Keywords: #ExactChangeWallet #EmbeddedHardware #PhysicalCash #CoinInventory #PriorArt #SuppressedInvention #InventorContainment #JohnMcAfee #AaronSwartz #GaryKildall #IanMurdock #PrestonTucker #JohnDeLorean #ParadigmThreatFiles
 
-**Last updated:** 2026-06-30T14:00:00-04:00
+**Last updated:** 2026-06-30T18:00:00-04:00
 
 ---
 
