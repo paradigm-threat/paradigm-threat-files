@@ -18,6 +18,8 @@
 9. **Open claims registry + questions to verify** → §9–§10  
 10. **Related investigations** → §11  
 
+![Constitution and amendments — nationalist vs globalist battlefield](constitution-amendments-nationalist-globalist-battlefield-investigation.png)
+
 ---
 
 ## 1. Battlefield frame — two camps on one parchment

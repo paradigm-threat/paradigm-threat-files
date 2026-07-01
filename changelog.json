@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-01T14:02:14.646Z",
+    "date": "2026-07-01T22:11:09.708Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md",
+        "href": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
+        "href": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-01T14:02:12.000Z",
+    "message": "Add debunk-host scheduled slot essay on CO containment patterns.",
     "files": [
       {
         "status": "M",
@@ -1441,23 +1463,6 @@
       {
         "src": "https://paradigmthreat.net/science/health/cell-regen.png",
         "alt": "Cell turnover times — regeneration clock if voltage and field are restored (Tennant-aligned exhibit)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-30T12:39:30.000Z",
-    "message": "Update Exact-Change Wallet article hero image.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/computing/exact-change-wallet-invention.png",
-        "href": "/science/computing/exact-change-wallet-invention.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/computing/exact-change-wallet-invention.png"
       }
     ]
   }
