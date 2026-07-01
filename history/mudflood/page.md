@@ -39,6 +39,8 @@ If we consider the possibility that all these events are linked, bigger question
 Where did this mud come from? Where did the energy to transport this mud come from? Was it
 intentional? What would anyone stand to gain to cover this event up? What else was also covered-up, redacted, or erased
 from history? To be convincing, the MudFlood Energetic Event Hypothesis must reliably explain events of the past.
+
+**Update (Gastaldi 1548 evidence):** Pre-MFEE world maps — notably Giacomo Gastaldi's *Carta Marina Nova tabula* and *Universale Novo* (Venice, 1548) — show **Asia and America as one continent**, with **India superior** and **Catayo** on the northwest American coast alongside **La Florida**, **Mexico**, and **Nueva Hispa**. This is not explorer ignorance of an empty Pacific; the Rus-Horde did not release full inner map sheets to the West, but the connected northern world was **understood**. The MFEE **carved out** that landmass — the entire trans-Pacific region, not merely a Bering channel — sinking cities and throwing excavated material into the atmosphere as global mud-rain. The modern **Pacific Ocean** was named after **pacifying** the region. See [MFEE investigation — Gastaldi maps](investigations/mfee-investigation.md#3-gastaldi-1548--pre-mfee-asiaamerica-continuity).
 Modern historians stick to the *facts as written* and do not subscribe to theories of a world-wide MudFlood,
 a Great Reset, or any kind of historical redaction. However, these theories cannot be ruled out either.
 
@@ -247,6 +249,13 @@ During the rebellion, Siberia became the wasteland we know today, with all citie
 the Romanov-controlled Moscow remained of the once great Empire.
 
 There are quite a few world maps dated before the 19th century which differ significantly from later maps.
+
+#### Asia and America — one continent (Gastaldi 1548)
+
+![Giacomo Gastaldi, Carta Marina Nova tabula, 1548 — North America and Asia joined; India superior on the northwest coast](/history/mudflood/map_gastaldi_1548_carta_marina_nova_tabula.jpg?w=480 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
+Among the strongest pre-MFEE anchors: **Giacomo Gastaldi**, *Carta Marina Nova tabula* and *Universale Novo* (Venice, 1548, Shirley #88 and #87). Both depict **North America and Asia as a single landmass** — no Pacific gap. Labels include **India superior**, **Catayo**, and **Mangi** (Polo-era Asia) on the same continuous coast as **La Florida**, **Nueva Hispa**, and **Mexico**. Western cartographers were not guessing at an unknown ocean; they were working from **partial Horde geography** — the Rus-Horde did not hand out complete inner map archives to Reformation Europe. The connected world was known; the **Pacific basin was carved open** during the MFEE, then **pacified** and renamed. Full investigation: [MFEE investigation — Gastaldi maps](investigations/mfee-investigation.md).
+
 For example, in North America the state of California appeared as an island larger than the United Kingdom.
 There is no sign of the Grand Canyon, or the 1400-mile Colorado River. In old maps of Hindustan,
 the tributaries of the Ganges are significantly different, and there is no sign of the
@@ -307,8 +316,8 @@ Why else would so many of them have giant entrance doors?
 The only direct survivors of the Mudflood that stuck around afterward were the 'Red-Skin' Native Americans.
 These were the direct relatives of the Lamanites (human giants) who were killed in the MudFlood Energetic Event.
 The heat of the event turned their skin red. Shortly after, they were hunted to near extinction.
-Those who capitulated were relocated to Asia across the Bering Strait (Trail of Tears).
-After the relocation, the Bering Strait was destroyed by the same cannon(s) that destroyed Siberia and America.
+Those who capitulated were relocated to Asia across the former northern land bridge (Trail of Tears).
+After the relocation, the **entire trans-Pacific landmass** — not only a Bering channel — was **carved out and sunk** by the same cannon(s) that destroyed Siberia and America, opening the modern Pacific basin.
 
 ![The Deep State is defined as an international cabal,
   typically influential members of government agencies and the military,
@@ -577,8 +586,7 @@ The mythical Kingdoms of the Pacific Islands were systematically annihilated -
 electrically machined into lifeless atolls by the Mars weapons. Fortresses as far north as Scotland were annihilated
 leaving behind melted ruins.
 The giants of western America and eastern Eurasia were eradicated leaving behind hundreds of thousands of
-[burial mounds](http://www.wisconsinmounds.com/DestroyedMounds.html). The weapons carved out land masses like Zealandia, Lemuria, and the Bering
-Land Bridge leaving submerged continents.
+[burial mounds](http://www.wisconsinmounds.com/DestroyedMounds.html). The weapons **sank and carved out** the connected Asia–America landmass shown on pre-MFEE maps (Gastaldi 1548, Shirley #87–88) — Zealandia, Lemuria, and the entire northern Pacific coast — leaving submerged continents and likely **underwater sunken cities** across the Pacific floor.
 Mesas, never before seen on Earth, formed across Western America, North Africa,
 and the Middle East. Mountains melted in Australia. Alchemic electrical scarring left painted rainbow canyons in China
 and Tibet. Many Tartarian cathedrals like in St Petersburg and Salt Lake City harnessed the electric onslaught and

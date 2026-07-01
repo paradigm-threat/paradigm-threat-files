@@ -116,6 +116,7 @@ Depleted uranium as a military technology is conventionally dated to the **20th 
 - [American Revolution](american-revolution-investigation.md) — small piece of a bigger puzzle; British imperial context
 - [Reverse Crusades](/timeline/evt-reverse-crusades) — US Civil War as internal conflict, but British involvement fits pattern of external powers profiting from regional division
 - Post-war: Reconstruction, sharecropping, Jim Crow — continuation of economic and social subordination under new forms
+- [Constitution & amendments — nationalist vs globalist battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) — TONA vs 1865 13th; 14th birthright thesis; amendment scorecard
 
 ---
 

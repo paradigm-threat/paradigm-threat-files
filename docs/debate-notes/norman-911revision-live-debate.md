@@ -303,7 +303,7 @@ He has published **Grok verdicts**, **ChatGPT Headfake**, full article on AI + 9
 
 ## 12. Post-debate debrief
 
-**Canonical debrief:** [norman-911revision-live-debate-debrief.md](./norman-911revision-live-debate-debrief.md) — goals, PP/book-shield correction, **“It's not manic, it's America!”** strat, CO playbook, planned reader article.
+**Canonical debrief:** [norman-911revision-live-debate-debrief.md](./norman-911revision-live-debate-debrief.md) — **real premise** (Substack taunt / no text engage), persona-split read, court-server frame, CO playbook, named strats, planned article.
 
 **Date:** 2026-06-28 · **Runtime:** 52:12 · **Transcript:** [raw txt](./norman-911revision-live-debate-transcript.txt) · [curated](./norman-911revision-live-debate-transcript-curated.md) · [json](./norman-911revision-live-debate-transcript.json)
 

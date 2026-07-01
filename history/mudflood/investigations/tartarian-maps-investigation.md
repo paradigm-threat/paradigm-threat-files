@@ -59,6 +59,7 @@ Investigation into old maps of Tartary, Russian "disclosure" of forbidden maps, 
 
 ### Priority list
 
+0. **Gastaldi 1548** — *Carta Marina Nova tabula* + *Universale Novo* (Asia–America continuity; **India superior**) — **downloaded** → `wget/mudflood/gastaldi/`, site copies `history/mudflood/map_gastaldi_1548_*.jpg`
 1. **Blaeu Tartaria** (1645) — *Tartaria sive Magni Chami Imperium*
 2. **Encyclopaedia Britannica 1771** — Europe, Asia, North America, Muscovite Tartary (Fomenko source)
 3. **Ortelius** (1590) — Atlas maps of Tartary
@@ -71,6 +72,7 @@ Investigation into old maps of Tartary, Russian "disclosure" of forbidden maps, 
 
 ```
 wget/mudflood/
+├── gastaldi/      # Gastaldi 1548 Carta Marina + Universale Novo (Rumsey Size3)
 ├── blaeu/
 ├── britannica_1771/
 ├── ortelius/
@@ -89,7 +91,8 @@ Author's existing analysis (from MFEE article and chronology page):
 - Old maps show Tartary as **largest state in the world** (1771 Britannica)
 - Tartary maps **don't match modern geography** — different coastlines, missing features (Himalayas, Grand Canyon), California as island
 - Correlation between **gold-mine concentrations** and "melted" Tartarian city locations
-- paradigm-threat-files holds many map images: `map_1754_tartaria`, `map_tartaria_hondius`, `map_no_grand_canyon_1598`, `map_india_no_himalayans`, etc.
+- **Gastaldi 1548** (Shirley #87–88): Asia and America as **one continent** — pre-MFEE anchor; see [MFEE investigation](mfee-investigation.md)
+- paradigm-threat-files holds many map images: `map_1754_tartaria`, `map_tartaria_hondius`, `map_no_grand_canyon_1598`, `map_india_no_himalayans`, `map_gastaldi_1548_carta_marina_nova_tabula`, etc.
 
 ---
 

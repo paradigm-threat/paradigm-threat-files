@@ -44,12 +44,13 @@ Fomenko attributes map changes to **political/cartographic manipulation** (Roman
 
 Author's analysis in `paradigm-threat-files` includes:
 
-### Map assets (history/maps/, chronology/tartaria/)
+### Map assets (history/maps/, chronology/tartaria/, history/mudflood/)
 
 - **Tartaria maps:** `map_tartaria_hondius.jpg`, `map_1754_tartaria.jpg`, `map_greater_tartaria2.jpg`, `map_tartaria_1612_speed.jpg`, `map_tartaria_no_himalayans.jpg`
 - **Geography mismatches:** `map_no_grand_canyon_1598.jpg`, `map_india_no_himalayans.jpg`, `map_india_compare1/2.jpg`, `map_california_island.jpg`
 - **MFEE-related:** `map_preflood.jpg`, `goldmap_melted_cities.jpg`, `map_appalachian_lightning_scarring.jpg`, `map_lightning_scar_mariana_trench.jpg`, `map_zelandia_ex_continent.jpg`
 - **Land bridges:** `map_1645_amsterdam_showing_landbridge.jpg`, `map_beringia_land_bridge.jpg`, etc.
+- **Pre-MFEE Asia–America continuity (Gastaldi 1548):** `map_gastaldi_1548_carta_marina_nova_tabula.jpg`, `map_gastaldi_1548_universale_novo.jpg` (source downloads: `wget/mudflood/gastaldi/`)
 
 ### MFEE article (12.04.00) — map claims
 
@@ -65,7 +66,43 @@ Author's analysis in `paradigm-threat-files` includes:
 
 ---
 
-## 3. Methodology — Map Changes Over Time
+## 3. Gastaldi 1548 — Pre-MFEE Asia–America Continuity
+
+**Status:** Documented primary-source anchor for pre-event geography and Pacific carving thesis.
+
+### The maps
+
+Giacomo Gastaldi's 1548 Venetian Ptolemy (*La geografia di Claudio Ptolemeo alessandrino*, Giovan Battista Pedrezano) includes **two modern world maps**, both showing **North America and Asia as one continuous landmass**:
+
+| Map | Shirley | Notes |
+|-----|---------|-------|
+| *Carta Marina Nova tabula* | #88 | Nautical chart; **India superior**, **Catayo**, **La Florida**, **Nueva Hispa**, **Mexico** on same continent as **Cathay** labels |
+| *Universale Novo* | #87 | Oval projection; same America–Asia join |
+
+![Gastaldi 1548 Carta Marina Nova tabula — Asia and America as one continent, India superior on the northwest coast](/history/mudflood/map_gastaldi_1548_carta_marina_nova_tabula.jpg?w=640 '{"className":"rounded-md m-auto"}')
+
+![Gastaldi 1548 Universale Novo — oval world map, America joined to Asia](/history/mudflood/map_gastaldi_1548_universale_novo.jpg?w=640 '{"className":"rounded-md m-auto"}')
+
+**Sources:** [David Rumsey — Carta Marina](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~291379~90063107:Carta-Marina-Nova-tabula) | [Universale Novo](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~291377~90063105:Universale-Novo) | [Knafel Collection](https://ark.digitalcommonwealth.org/ark:/50959/j3860889g)
+
+### MFEE reading — not ignorance, withheld Horde geography
+
+Mainstream cartography treats the join as explorer confusion. Under this chronology:
+
+1. **Pre-MFEE world maps record real continuity** between Asia and America — not a blank Pacific, but **one northern world** under Rus-Horde administrative reach.
+2. Western editions (Gastaldi, Ruscelli, Ortelius inheritances) show only **partial** Horde geography. Full inner maps of Siberia, the northern Pacific coast, and transcontinental routes were **not exported** to Reformation Europe; the West received coastline fragments and Polo-era vocabulary (**India superior**, **Catayo**, **Mangi**).
+3. The Pacific was **not discovered** in the Magellan era in the sense of finding a pre-existing ocean. The **Mar del Sur** / Pacific basin was **opened by carving** — negative electric discharge and subsidence during the MFEE (~1774), after which the region was **pacified** and the modern **Pacific** name attached to the new water body.
+4. **Where did the mud come from?** Largely from the **excavated and sunk land** of that northern/trans-Pacific region — not only a narrow Bering channel but the **entire connected landmass** shown on pre-event maps. Material thrown into the atmosphere became global mud-rain; the **floor of the Pacific** likely holds submerged Horde cities (correlate with Pacific atolls, bathymetric platforms, and gold/cultural anomaly zones — open research track).
+
+### Cartographic break (~1561–1569)
+
+Gastaldi himself later introduced the **Strait of Anian** (1562 pamphlet), separating America from Asia — a **paper revision** that precedes the physical MFEE but foreshadows the post-event world model. After ~1774, the join is gone on official maps and the Pacific appears as a vast empty ocean.
+
+**Related:** [Tartarian maps investigation](tartarian-maps-investigation.md) | [MudFlood main article](../page.md) | [New World naming & colonization memory](/history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md)
+
+---
+
+## 4. Methodology — Map Changes Over Time
 
 1. **Catalog pre-1800 maps** in paradigm-threat-files and chronologia PDFs.
 2. **Compare geography** (coastlines, mountains, rivers) between old and modern maps.
@@ -74,13 +111,15 @@ Author's analysis in `paradigm-threat-files` includes:
 
 ---
 
-## 4. Next Steps
+## 5. Next Steps
 
 - [ ] Extract and list all map figures from chronologia4 4N12-* and 4N14-* PDFs
 - [ ] Create comparison table: feature (e.g., Grand Canyon) | old map status | modern map | source
 - [ ] Download high-resolution versions of key maps (Blaeu, Ortelius, Britannica 1771) where possible
 - [ ] Trace gold-mine / melted-city correlation claim to specific datasets
 - [ ] Survey excavation reports for buried-building / mud-strata evidence (separate track)
+- [ ] Build Gastaldi → Ruscelli → Mercator revision table (Anian break, label migration)
+- [ ] Catalog Pacific bathymetry / submerged-structure anomalies against pre-MFEE coast maps
 
 ---
 
