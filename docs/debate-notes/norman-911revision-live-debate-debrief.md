@@ -16,7 +16,7 @@ We **planned** for a forensic mechanism duel (CD vs DEW, Wood pages, legal docke
 | Online (weeks before) | Live (2026-06-28) |
 |------------------------|-------------------|
 | Heavy **taunting** on Substack | **No** sweetie/munchkin-style insults on video |
-| **Zero** good-faith replies to ~**40** investigation posts | Friendly, procedural, almost *“hey brah, why you hurting me?”* |
+| **No** good-faith text debate — insult → links → 1-on-1 loop (author **replied to most** threads; **stopped** when pattern fixed) | Friendly, procedural, almost *“hey brah, why you hurting me?”* |
 | Refused to engage text debate while attacking | Agreed to **scheduled** Sunday 1-on-1 anyway |
 | Purposeful **waste of time** pattern (audit without answer) | Cross-exam where he had **no questions** for Ari |
 
@@ -24,7 +24,7 @@ We **planned** for a forensic mechanism duel (CD vs DEW, Wood pages, legal docke
 
 **Biggest pre-call question (still open):** Why would someone who **insulted you for ~1.5 weeks** and **never once** engaged your written work agree to go on camera — especially after Ari said explicitly he would **throw it back in his face**, **record everything**, and **study it**? Even post-hoc: **did he actually want that?** Current read: **probably not** — or not the same “he” as Substack.
 
-**Thread-war evidence:** `[ ]` **Not yet archived.** Placeholder: [norman-substack-thread-war/](./norman-substack-thread-war/README.md). Searched: `docs/debate-notes/`, `events/false_flag/investigations/`, `~/dev/wget/ic911a.org/substack/911revision.substack.com/` (RSS/posts only — **no comment threads**). **Need:** screenshots, Substack comment URLs, or export.
+**Thread-war evidence:** `[x]` **Archived** — [norman-substack-thread-war/](./norman-substack-thread-war/evidence-index.md) (7 screenshots, 2026-07-01).
 
 **Prep contrast:** [ic911a investigation](../../events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md) documents Norman’s **published** lane; this debrief documents **interaction pattern** — taunt-without-engage → scheduled live → persona shift.
 
@@ -39,7 +39,7 @@ We **planned** for a forensic mechanism duel (CD vs DEW, Wood pages, legal docke
 3. **Working hypothesis (speculative, observational):** At least **two people** may play one public personality — e.g. **writer/taunter** vs **scheduled-call host**. Feels like an **organized role-player network** or **DM-style service**: two operators, one brand; audience **wants to believe** one coherent person (compare celebrity Facebook DMs — people are so happy they ignore obvious fakery). Frictionless **Sunday scheduling** + **tone mismatch** are red flags.
 4. **Not proven** — single MKV, no voice match to Substack comment audio, no insider confirmation. **Treat as lead** for the planned CO article, not a filed claim.
 
-**Strategic implication:** Do not assume the person who **writes** the taunts is the person who **takes** the call. Text prep may be pointless if the host is a different operator with a **debunk script** but no memory of your 40 posts.
+**Strategic implication:** Do not assume the person who **writes** the taunts is the person who **takes** the call. Text prep may be pointless if the host is a different operator with a **debunk script** but no memory of your Substack threads.
 
 ---
 
@@ -86,7 +86,7 @@ Norman lives in a **bleak economic context** (failed-state rhetoric, SA — his 
 
 ## Why this debate happened (revised goals)
 
-Norman is the type Ari **rarely engages**: refuses **text prep**, shows up live to **debunk**, leans on **insult and procedure** over good-faith exchange — **after** a Substack campaign that **refused** to engage ~40 written posts.
+Norman is the type Ari **rarely engages**: refuses **text prep**, shows up live to **debunk**, leans on **insult and procedure** over good-faith exchange — **after** a Substack campaign that **refused** to engage in text while Ari **replied to most** threads.
 
 **Three goals (in order):**
 
@@ -383,7 +383,7 @@ Patterns Norman performed live — material for the planned article:
 | **Why disinterest** | Demands your why; “what does it matter?” on B7; depression non-answer |
 | **Pluralistic overlap refusal** | Wishy-washy on Gage; movement/org dodge; “you defend him”; won’t praise one shared point |
 | **Domino-trap fear** | Acts like any agreement opens CD/thermite — often true; use narrow slices |
-| **Taunt-without-engage** | ~40 posts, zero substantive replies; insults then scheduled live |
+| **Taunt-without-engage** | Insults + homework loops; no substantive text debate; insults then scheduled live |
 | **Persona split (unverified)** | Substack taunts absent on video; friendly host vs online baiter |
 | **Scheduled-slot workflow** | Sunday calendar, not immediate 1-on-1 |
 | **Listen only after ambassador** | Iran/PP theory ignored in writing; heard only after pro-America frame |
@@ -436,13 +436,13 @@ Patterns Norman performed live — material for the planned article:
 
 ---
 
-## Planned article: controlled opposition debunk hosts
+## Reader essay — shipped
 
-**Working title (draft):** *How to deal with controlled-opposition debunk hosts* (or similar)
+**Title:** [**Debunk host, scheduled slot**](/influence/controlled_opposition/debunk-host-scheduled-slot.md)
 
-**Audience:** Researchers who might live-debate Norman-type operators — not “how to beat thermite.”
+**Audience:** Researchers mapping **resistance patterns** on 9/11 — not “how to beat thermite.”
 
-**Opening frame:** The fight often starts **before** the call — **taunt on Substack, refuse text debate, waste your time on ~40 unreplied posts**, then agree to **scheduled** live video with a **different tone**. The article is about that **pipeline**, not forensic 9/11.
+**Opening frame:** The fight often starts **before** the call — **taunt on Substack, refuse text debate, homework loops**, then agree to **scheduled** live video with a **different tone**. The essay is about that **pipeline**, not forensic 9/11. **No debate-transcript quotes** (unreliable speaker attribution).
 
 **Planned sections:**
 
@@ -472,11 +472,11 @@ Patterns Norman performed live — material for the planned article:
 | **Taunt-without-engage** | Attack in comments; never reply to substance; then offer live |
 | **Court-server read** | Side-hustle harassment job; don't personalize |
 
-**Evidence still needed:** `[ ]` Archive Substack comment wars (screenshots/URLs) → `docs/debate-notes/norman-substack-thread-war/` — **user to provide**.
+**Evidence:** `[x]` Substack DMs/notifications → [norman-substack-thread-war/evidence-index.md](./norman-substack-thread-war/evidence-index.md).
 
-**Source artifacts for draft:** this debrief, [curated transcript](./norman-911revision-live-debate-transcript-curated.md), [ic911a investigation](../../events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md), [voice-camp-review](./norman-911revision-live-debate-transcript-voice-camp-review.txt).
+**Source artifacts:** this debrief, [ic911a investigation](../../events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md). Curated transcript **internal only** — do not quote in essay.
 
-**Status:** `[ ]` Article not started — debrief + curated transcript ready; **thread-war archive pending**.
+**Status:** `[x]` **Shipped** 2026-07-01 — [debunk-host-scheduled-slot.md](/influence/controlled_opposition/debunk-host-scheduled-slot.md).
 
 ---
 
@@ -511,7 +511,8 @@ Patterns Norman performed live — material for the planned article:
 | [norman-911revision-live-debate-transcript-curated.md](./norman-911revision-live-debate-transcript-curated.md) | Fair-use quotes |
 | [norman-911revision-diarization.json](./norman-911revision-diarization.json) | 705 speaker intervals |
 | [curate_debate_transcript.py](./curate_debate_transcript.py) | High-conf filter |
-| [norman-substack-thread-war/README.md](./norman-substack-thread-war/README.md) | `[ ]` Thread-war archive (pending) |
+| [norman-substack-thread-war/evidence-index.md](./norman-substack-thread-war/evidence-index.md) | `[x]` Thread-war archive |
+| [debunk-host-scheduled-slot.md](/influence/controlled_opposition/debunk-host-scheduled-slot.md) | `[x]` Reader essay |
 | [ic911a CO investigation](../../events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md) | Norman dossier |
 
 *Debrief written 2026-06-28; expanded with real premise, persona-split read, court-server frame, pluralistic overlap / rigid scope strats.*
@@ -524,7 +525,7 @@ Patterns Norman performed live — material for the planned article:
 |------|--------|-------|
 | MKV recording | ✅ | `/media/ari/HD/Recordings/2026-06-28 12-00-45.mkv` |
 | Transcript (relabeled) | ✅ | `norman-911revision-live-debate-transcript.*` |
-| Substack **comment** thread war | `[ ]` | sweetie/munchkin/taunts; ~40 unreplied posts — **provide** |
+| Substack **comment** thread war | `[x]` | [evidence-index.md](./norman-substack-thread-war/evidence-index.md) |
 | Norman posts **about** Ari | `[ ]` | Search 911revision RSS / manual |
-| Pre-call DMs / scheduling | `[ ]` | Sunday slot vs immediate offer |
+| Pre-call DMs / scheduling | `[x]` | Jun 25–27 screenshots in thread-war archive |
 | Voice match (comment vs video) | `[ ]` | Forensic optional |

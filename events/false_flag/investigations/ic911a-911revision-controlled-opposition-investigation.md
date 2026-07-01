@@ -436,6 +436,12 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 ---
 
+## 9.6 Live debate read (Jun 2026)
+
+**Jun 28, 2026** — author live call with Norman (@911revision), ~52 min, recorded. **Context:** ~**15 years** 9/11 research **off-platform**; author **new to Substack** / truth-movement comment wars — call = **movement fieldwork**, not insider memoir. **Reader essay (author voice, no debate-transcript quotes):** [**Debunk host, scheduled slot**](/influence/controlled_opposition/debunk-host-scheduled-slot.md). **Interaction pattern:** Substack **taunt-without-engage** (munchkin/sweetie/crybaby, homework loops) → **scheduled Sunday slot** → video **persona mismatch** (friendly evangelist, bibliography, no demonstrated read of author’s Substack work). **Debrief + evidence:** [norman-911revision-live-debate-debrief](/docs/debate-notes/norman-911revision-live-debate-debrief.md) · [thread-war archive](/docs/debate-notes/norman-substack-thread-war/evidence-index.md). **Discipline:** automated transcript **unreliable for speaker attribution** — essay uses paraphrase + published Norman corpus only.
+
+---
+
 ## 10. Open questions
 
 | ID | Question |
@@ -459,7 +465,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 Keywords: #Ic911a #911Revisionist #ControlledOpposition #Dew #NoPlanes #JudyWood #RichardGage #ParadigmThreatFiles
 
-**Last updated:** 2026-06-25
+**Last updated:** 2026-07-01
 
 ---
 

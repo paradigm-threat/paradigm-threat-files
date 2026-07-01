@@ -1,17 +1,18 @@
 # Norman / @911revision — Substack thread-war archive
 
-**Status:** `[ ]` Pending — user to provide screenshots, Substack comment URLs, or exports.
+**Status:** `[x]` **Evidence received** — 7 screenshots archived 2026-07-01.
 
-**What to collect:**
+**Index:** [evidence-index.md](./evidence-index.md) — dated paraphrases + filenames.
 
-- ~40 investigation posts with **zero** substantive replies from Norman
-- Taunt register: sweetie, munchkin, etc. (online only — absent on 2026-06-28 video)
-- Any posts **about** Ari / Paradigm Threat / ic911a
-- Pre-call scheduling messages (Sunday slot vs immediate offer)
+**What this captures:**
 
-**Link from:** [norman-911revision-live-debate-debrief.md](../norman-911revision-live-debate-debrief.md) § Real premise.
+- Pre-call **scheduling** DMs (Sunday slot, not immediate 1-on-1)
+- **Taunt register** on Substack: munchkin, sweetie, crybaby (absent on 2026-06-28 video)
+- **Copy-paste notification spam** (same block × multiple alerts)
+- Author account: replied to **most** threads; **stopped** when insult → links → 1-on-1 loop fixed
 
-**Searched (no comment threads found):**
+**Link from:** [norman-911revision-live-debate-debrief.md](../norman-911revision-live-debate-debrief.md) · [debunk-host-scheduled-slot.md](/influence/controlled_opposition/debunk-host-scheduled-slot.md)
+
+**Searched (no comment threads in wget):**
 
 - `~/dev/wget/ic911a.org/substack/911revision.substack.com/` — RSS/feed mirror only (posts, not comments)
-- `paradigm-threat-files/` — debrief references only; no archived threads
