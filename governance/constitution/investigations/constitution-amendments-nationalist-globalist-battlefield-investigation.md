@@ -256,6 +256,10 @@ The **author’s suspicion** (developed in §8): the **1865–1868 cluster** was
 | **Corwin** | **Unratified** | **Pro-slavery** **status quo** — **not** nationalist in **author** sense |
 | **Equal Rights** | **Unratified** | **Contested** |
 
+![U.S. Constitution and amendments by camp — nationalist vs globalist scorecard](constitution-amendments-by-camp.png)
+
+*Visual scorecard — same lean assignments as §6.1–§6.3; interpretive, not legal advice.*
+
 ---
 
 ## 7. Modern schism — Fourteenth Amendment at the border (2020s)
