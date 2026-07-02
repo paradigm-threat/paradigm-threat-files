@@ -94,9 +94,9 @@ The framers left an amendment process in **Article V**, but the living document 
 
 The **1865 Thirteenth** is the pivot — the **replacement** amendment that **orbited into** the slot **TONA** once held: the **carceral slave amendment** sold as liberation while preserving **involuntary servitude** on conviction. Everything after it inherits that **spoiled numbering** and **spoiled logic**.
 
-**I hope within my lifetime** to see **every amendment beyond the Twelfth rescinded** — keep the **1787 frame** and **Bill of Rights** through **XII** (1804 Electoral College fix); **strip** **XIII–XXVII**; **restore** the **original Titles-of-Nobility Thirteenth** in place of the **1865 carceral text**. Not a return to bondage — a return to **TONA’s disconnect path**: no foreign titles and emoluments, no soil-manufactured citizenship, no felony pipeline enshrined at Article V height. The **replacement 13th** goes; **TONA** **reclaims** the number. What remains of policy — tax, voting, immigration — must **live or die in Congress**, where it belongs.
+The **1787 Constitution was never clean** — it was a **tainted, corrupt document from the start**, and the **twelve amendments** through **XII** are the receipt. **The very existence of amendments proves the flaw:** a republic that needed **serial surgery** at supreme-law height never possessed a **perfect constitution** that could stand without later patches. This country should have **written it right once** — a frame that did **not** require amendments afterward. It did not, because the **seesaw** between the **two camps** kept rocking the parchment.
 
-That is not a forecast that rescission is easy; it is my **standard**: the Constitution should **stop growing** after **XII**, and the **wrong Thirteenth** should **not** outlive this century.
+Given that failure, the **best thing the pro-national camp could possibly have done for itself** was to **forge the Bill of Rights** and then **seek refuge inside it** — a hardened inner ring of liberties — while the **globalist camp** kept **amending the outer shell** around them. 
 
 ## Deep State’s purest fingerprint — the Sixteenth
 
