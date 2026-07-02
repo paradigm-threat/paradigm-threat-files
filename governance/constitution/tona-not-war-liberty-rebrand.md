@@ -167,13 +167,17 @@ The expanded investigation carries §2.8 (deep-state seesaw / WWZ–III), §4.4 
 - [US Civil War investigation](https://paradigmthreat.net/governance/war/investigations/us-civil-war-investigation.md) — war as instrument; unnecessary-war tangent  
 - [Constitutional coining vs Fed / usury](https://paradigmthreat.net/governance/usury/d.md) — 1913 cluster  
 - [Captured courts](https://paradigmthreat.net/influence/controlled_opposition/captured-courts-wrong-villain.md) — judiciary terrain  
-- [America First Legal victory trend](https://paradigmthreat.net/governance/war/investigations/america-first-legal-victory-trend-investigation.md) — nationalist lawfare lane  
+- [America First Legal victory trend](https://paradigmthreat.net/governance/war/investigations/america-first-legal-victory-trend-investigation.md) — nationalist lawfare lane
 
 ## Framing and limits
 
-I write from [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md): modern consensus institutions are not default truth. **Evidence tiers, falsifiers, and the full claim registry** live in the [investigation](https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) — not repeated here.
+I write from **[prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)**: modern consensus institutions are not default truth. **Evidence tiers, falsifiers, and the full claim registry** live in the [investigation](https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) — not repeated here.
+
+**Personal stake:** I am an **Israeli-American dual citizen**. **I hold that dual citizenship should not exist** — split allegiance at law rhymes with the foreign-title geometry **TONA** tried to cut off. I have **said publicly** that I **renounced my Israeli citizenship** on that principle; I have **not** yet visited a local embassy to **finalize** the paperwork. I am leaving that step to **future me**, depending on **how Israel conducts itself** after its **pseudo-biblical war victory over Iran** ([Iran 2026 installment](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md)).
 
 Keywords: #Constitution #TONA #TitlesOfNobility #FourteenthAmendment #BirthrightCitizenship #TrumpVBarbara #AmyConeyBarrett #SupremeCourt #StatueOfLiberty #SixteenthAmendment #WorldWarZero #Nationalist #Globalist #DeepState #AmericanSovereignty
+
+**Substack:** [paradigmthreat2.substack.com/p/tona-not-war-libertys-rebrand](https://open.substack.com/pub/paradigmthreat2/p/tona-not-war-libertys-rebrand?r=5p8s4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 **Last updated:** 2026-07-01
 
