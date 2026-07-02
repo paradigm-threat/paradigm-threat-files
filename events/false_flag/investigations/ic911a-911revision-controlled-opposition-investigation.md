@@ -13,7 +13,7 @@
 2. **Who runs it (Norman / 9/11 Revisionist)** → [§2](#2-operator--norman--911revision-substack)
 3. **Claim inventory (DEW, planes, CD)** → [§3](#3-claim-inventory-from-corpus)
 4. **Tier 1 — mainstream debunk** → [§4](#4-tier-1--mainstream-debunk)
-5. **Tier 2 — movement / CO debunk** → [§5](#5-tier-2--movement-controlled-opposition-read) (**start** [§5.7 Alef](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026); [§5.8 DEW church mesh](#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel); [§5.9 comparable meshes catalog](#59-comparable-industrial-fraud-meshes-20052026--reference-catalog); [§5.6 DEW path fork](#56-dew-authors-accountability-path-fork-court-vs-501c3))
+5. **Tier 2 — movement / CO debunk** → [§5](#5-tier-2--movement-controlled-opposition-read) (**start** [§5.7 Alef](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026); [§5.8 DEW church mesh](#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel); [§5.9 comparable meshes](#59-comparable-industrial-fraud-meshes-20052026--reference-catalog); [§5.10 floor labor](#510-floor-labor--compartmentalization-recruitment-and-economic-desperation); [§5.6 DEW path fork](#56-dew-authors-accountability-path-fork-court-vs-501c3))
 6. **Name collision: ic911a vs ic911** → [§6](#6-ic911a-vs-ic911org--justice-vs-accountability)
 7. **Two-truth table (project)** → [§7](#7-contradictory-truths-project-routing)
 8. **Norman citation stack (tier debunks)** → [§9](#9-norman-citation-stack--tier-debunks)
@@ -362,7 +362,78 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 **Discipline:** **Catalog** **rows** **are** **independent** **criminal** **/ influence** **economies** **—** **not** **a** **single** **conspiracy** **graph**. **Use** **for** **pattern** **recognition** **only**. **DEW** **church** **row** **=** **movement** **instance**, **not** **fraud** **docket** **equivalence**.
 
-**Cross-read:** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) · [§5.8](#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel) · [GI-TOC *Scammers’ Paradise?*](https://globalinitiative.net/wp-content/uploads/2026/04/Scammers-paradise-Assessing-scam-centres-in-Eurasia-GI-TOC-April-2026.pdf)
+**Cross-read:** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) · [§5.8](#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel) · [GI-TOC *Scammers’ Paradise?*](https://globalinitiative.net/wp-content/uploads/2026/04/Scammers-paradise-Assessing-scam-centres-in-Eurasia-GI-TOC-April-2026.pdf) · [§5.10 floor labor](#510-floor-labor--compartmentalization-recruitment-and-economic-desperation)
+
+### 5.10 Floor labor — compartmentalization, recruitment, and economic desperation
+
+**Purpose:** Document **primary** **reporting** on **how** **Alef-class** **meshes** **staff** **themselves** — **compartmentalized** **employees**, **handler/HR** **tiers**, **skill-based** **recruitment**, **economic** **pressure** — **and** **analogical** **read** **for** **DEW** **church** **floor** **labor** **(tier** **C)**.
+
+**Reader essay:** [**Who works the floor**](/influence/controlled_opposition/debunk-host-scheduled-slot.md#the-alef-case--exact-pattern-cross-border-impunity) (paragraph under Alef case).
+
+#### A. Compartmentalization — “employee with orders”
+
+**GI-TOC *Kyiv Calling* (Apr 2026)** describes **strict** **hierarchies** in **Ukrainian** **scam** **call** **centers**:
+
+| Tier | Role | What line staff see |
+|------|------|---------------------|
+| **Floor** | **Kholodniki** (“colders”) | **Cold-call** **scripts**; **200–300** **dials/day** **(former** **worker)** |
+| **Mid** | **Closers** | **Lead** **victims** **through** **transactions**; **often** **different** **office** **from** **colders** |
+| **Support** | **HR**, **IT**, **security** | **Recruitment**, **polygraphs**, **IP** **telephony**, **access** **control** |
+| **Top** | **Administrators**, **owners** | **Money** **flow**; **owners** **“rarely** **seen”** **by** **other** **employees** |
+
+**Key quote (GI-TOC):** *“Such a closed and vertically integrated hierarchy guarantees that a **low-level employee knows nothing consequential about the real money-makers**.”* Owners hold **stakes** **in** **many** **“offices”** **across** **cities** — **“like** **a** **mycelium”** **(former** **employee)** — while **line** **staff** **see** **one** **floor**.
+
+**BBC TalkTalk whistleblowers (2017):** **~60** **employees** **per** **shift** **following** **scripts**; **whistleblowers** **said** **they** **were** **“ignorant** **of** **the** **full** **scale** **of** **the** **fraud”** because **bank** **theft** **was** **handled** **by** **a** **“separate,** **smaller** **team** **in** **a** **different** **office.”** [BBC](https://www.bbc.com/news/technology-39177981)
+
+**BBC *Confessions* (2020):** **Sam** **told** **interview** **was** **“sales** **job”** **pitching** **to** **US** **customers**; **on** **go-live** **day** **“figured** **out** **the** **entire** **thing** **was** **a** **scam.”** **After** **police** **raid**, **found** **another** **similar** **job** **within** **days.** [BBC](https://www.bbc.com/news/stories-51753362)
+
+**Scroll.in / forced-labor account:** **Handler** **“Ahmad”** **monitored** **calls**; **hierarchy** **=** **telesales** **→** **receptionists** **→** **teachers** **→** **“killers”** **(top** **closers)**; **workers** **stuck** **to** **script** **under** **monitoring.** [Scroll.in](https://scroll.in/article/1072197/a-journalists-account-of-how-people-from-poor-countries-are-enslaved-to-run-cyber-scams)
+
+**Ukraine “office” reviews:** **Tier** **“coolie”** **warms** **victim** **with** **script**; **passes** **to** **full** **processing** **if** **“fish** **bites”**; **polygraph** **checks** **for** **leaks** **to** **law** **enforcement.** [Ukraineinfo](https://ukraineinfo.com.ua/en/working-in-the-office-reviews-of-those-who-worked-in-fraudulent-call-centers-and-how-did-it-all-end/)
+
+**Awareness is mixed:** **GI-TOC** **—** **some** **recruits** **know** **the** **work** **is** **scam**; **others** **deceived** **at** **interview** **(generators** **→** **crypto** **→** **Badoo** **dating** **scam).** **Balkan** **Insight** **(2026)** **—** **Albanian** **prosecutor:** **young** **graduates** **“unable** **to** **find** **employment”** **but** **“aware** **of** **what** **they** **are** **doing.”** [Balkan Insight](https://balkaninsight.com/2026/05/05/exploited-for-profit-call-centre-fraud-schemes-criminalise-albanian-youth/bi/) **Both** **can** **be** **true** **across** **different** **floors** **and** **hire** **paths.**
+
+#### B. Skill-based recruitment — not “criminal résumé”
+
+| Skill sought | Source | Mesh use |
+|--------------|--------|----------|
+| **Foreign** **languages** | **GI-TOC** **robota.ua/olx.ua** **sweep** **Jul** **2025** — **German**, **Italian**, **Czech**, **Slovak**, **12+** **languages** **in** **one** **ad** | **Target** **EU** **victims** **credibly** |
+| **English** **fluency** | **Mumbai** **Thane** **raids** — **English-speaking** **graduates** **recruited** **via** **walk-in** **interviews** | **IRS** **impersonation** **to** **US** |
+| **Voice / social** **fluency** | **GI-TOC:** **HR** **=** **“glamorous** **lady** **…** **acts** **as** **bait”**; **“grandmothers** **can** **be** **very** **convincing”** | **Trust** **building** **on** **calls** |
+| **Age** **15–28** **preferred** | **GI-TOC** **interviews**; **commission** **activists** **claim** **majority** **14–20** | **Cheap** **labor**, **long** **shifts** |
+| **Psych** **/ sales** **training** | **GI-TOC:** **psychologists** **hired** **to** **hone** **techniques**; **memorized** **scripts** | **Industrial** **social** **engineering** |
+
+**Eurasianet (Georgia):** **University** **student** **Giorgi** **—** **liberal**, **politically** **engaged** — **summer** **call-center** **job** **defrauding** **elderly** **Europeans**; **did** **not** **initially** **see** **himself** **as** **scammer**; **rationalized** **helping** **people** **“make** **money.”** [Eurasianet](https://eurasianet.org/scam-call-centers-proliferate-in-georgia)
+
+#### C. Economic desperation — why more people enter the floor
+
+| Source | Claim | Tier |
+|--------|-------|------|
+| **World Bank** **(2022)** | **~90M** **added** **to** **extreme** **poverty** **in** **2020**; **pandemic** **increase** **“potentially** **the** **largest** **in** **three** **decades”**; **2020s** **on** **“new,** **worse** **course”** | **A** |
+| **World Bank** **(2024** **Poverty** **Report)** | **“Lost** **decade”** **for** **poverty** **reduction**; **extreme** **poverty** **fell** **only** **2.5** **pp** **2014–2024**; **1** **in** **4** **developing** **economies** **poorer** **than** **pre-pandemic** **(GEP** **2024** **Foreword)** | **A** |
+| **GI-TOC** **Kyiv** **Calling** | **Promised** **$800–$1,000** **→** **paid** **~$250**; **“getting** **rich** **at** **a** **call** **centre** **is** **random”**; **Ukraine** **economy** **+** **war** **context** **for** **recruitment** | **A/B** |
+| **OCCRP** **Georgia** **(2025)** | **Avg** **income** **~$750/mo** **vs** **$20k** **top** **closers**; **“no** **opportunities”** **for** **educated** **youth**; **163k** **emigrated** **2023** **(70%** **under** **30)** | **B** |
+| **ISEAS** **(2025/45)** | **Youth** **unemployment**, **slow** **recovery**, **aid** **withdrawal** **→** **refugees** **+** **desperate** **populations** **targeted** **by** **fake** **job** **offers** | **B** |
+| **LSE** **Business** **Review** **(2026)** | **~220k** **trapped** **in** **SEA** **scam** **centers**; **“migration** **precarity,** **weak** **labour** **protections”** **enable** **compound** **factories** | **B** |
+| **Balkan** **Insight** **(2026)** | **Albania:** **students/graduates** **“unable** **to** **find** **employment** **in** **their** **field”** **enter** **fraud** **floors** | **B** |
+| **Indian** **Express** **(Mumbai)** | **English-speaking** **job** **seekers** **→** **“easy** **money”** **offers** **→** **scripted** **IRS** **threats** | **B** |
+
+**GI-TOC** **Kyiv** **Calling** **on** **recruitment** **deception:** **Leaflet** **delivery** **job** **→** **interview** **→** **“another** **job** **did** **exist”** **calling** **foreign** **countries**; **HR** **pitch:** **“warm** **office,”** **teen** **“bought** **mother** **a** **car.”** **Age** **15** **approached** **by** **older** **boys** **showing** **cash.**
+
+#### D. DEW church analog (tier C — author read)
+
+| Scam-floor pattern | DEW church / movement mesh analog |
+|--------------------|-------------------------------------|
+| **Line** **worker** **sees** **one** **office** | **Curator** **sees** **one** **lane** **(Wood**, **Norman**, **Greenyer)** |
+| **HR/handler** **assigns** **script** | **Footer** **stack**, **homework** **loop**, **taunt** **register** |
+| **Recruited** **for** **language/skills** | **Debate** **stamina**, **Substack** **grind**, **Zoom** **persona** |
+| **Economic** **pressure** **(poverty**, **no** **jobs)** | **Attention** **economy** **—** **single-topic** **rage** **/ donations** **vs** **merit** **timeline** **labor** |
+| **Unaware** **of** **mycelium** **owners** | **May** **not** **see** **twenty-year** **fracture** **product** **or** **full** **node** **grid** |
+| **Sincere** **+** **coerced** **+** **knowing** **mix** | **Sincere** **Wood** **believers** **+** **paid** **labor** **+** **structural** **CO** **outcome** **can** **coexist** |
+
+**Discipline:** **§5.10** **documents** **fraud-industry** **labor** **patterns** **with** **primaries**. **DEW** **church** **column** **=** **analogy** **only** — **not** **claim** **Norman** **/ text** **VA** **/ Zoom** **host** **are** **unknowing** **employees** **without** **evidence**. **Persona-split** **read** **(§9.6)** **is** **compatible** **with** **compartmentalization** **hypothesis** **but** **not** **proven** **by** **it**.
+
+**Cross-read:** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) · [§5.8](#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel) · [§5.9](#59-comparable-industrial-fraud-meshes-20052026--reference-catalog) · [§9.6](#96-live-debate-read-jun-2026)
 
 ---
 
@@ -593,6 +664,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 | Q7 | **Any** **documented** **overlap** between **Norman** **lane** **operators** **and** **commercial** **engagement** **/ VA** **firms** **(scam-adjacent** **or** **political)** — **beyond** **exact** **pattern** **match** **in** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026)? |
 | Q8 | **MLAT** **/ platform** **subpoena** **paths** for **Substack** **+** **PayPal** **+** **Zoom** **harassment** **against** **US** **/ EU** **targets** **by** **ZA** **operator** — **practical** **prosecution** **vacuum** **audit** |
 | Q9 | **External** **influence** **targeting** **9/11** **truth** **(§5.8)** — **any** **primaries** **beyond** **outcome** **fit** **(franchise** **mesh**, **footer** **persistence**, **2007** **docket** **frozen** **as** **litmus**)? |
+| Q10 | **Floor-labor** **compartmentalization** **(§5.10)** — **any** **primaries** **on** **paid** **VA** **/ text** **layer** **/ movement** **HR** **analog** **beyond** **persona-split** **inference** **(§9.6)**? |
 
 ---
 
@@ -622,7 +694,8 @@ Keywords: #Ic911a #911Revisionist #ControlledOpposition #Dew #NoPlanes #JudyWood
 - **Victims** **first** — **no** **mockery** of **survivors** or **first** **responders**.
 - **§5.7 Alef adjacency:** **exact** **behavioral** **pattern** **match** **+** **cross-border** **impunity** **thesis** — **not** **allegation** **that** **Norman** **/ ic911a** **operators** **work** **for** **Alef**, **Yermolaev** **entities**, or **Ukrainian** **fraud** **floors**; **not** **automatic** **criminal** **characterization** **of** **movement** **harassment** **without** **primaries**; **RT** **documentary** **=** **state-adjacent** **packaging** **(tier** **B)**.
 - **§5.8 DEW church mesh:** **outcome-coordinated** **franchise** **read** **(tier** **C** **intent)** — **not** **proven** **central** **command** **or** **Alef↔Wood** **payroll**; **external** **targeting** **hypothesis** **=** **design** **fit**, **not** **named** **operation** **without** **primaries**.
-- **§5.9 comparable meshes:** **reference** **catalog** **only** — **Yukom**, **Milton**, **Mumbai** **IRS**, **SEA** **pig-butchering**, **Alef**, **DEW** **church** **listed** **as** **independent** **pattern** **instances**; **not** **a** **unified** **conspiracy** **graph**; **not** **9/11↔fraud** **links** **without** **primaries**.
+- **§5.9 comparable meshes:** **reference** **catalog** **only** — **independent** **pattern** **instances**; **not** **a** **unified** **conspiracy** **graph**; **not** **9/11↔fraud** **links** **without** **primaries**.
+- **§5.10 floor labor:** **fraud-industry** **labor** **patterns** **(GI-TOC**, **BBC**, **World** **Bank**, **etc.)** **with** **primaries**; **DEW** **church** **analog** **=** **tier** **C** **only**; **mixed** **worker** **awareness** **in** **reporting** **—** **not** **blanket** **“unknowing** **employee”** **claim** **for** **movement** **personalities**.
 
 ---
 
