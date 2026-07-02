@@ -1,8 +1,42 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-02T12:18:10.762Z",
+    "date": "2026-07-02T12:25:50.927Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/constitution/tona-not-war-liberty-rebrand.md",
+        "href": "/governance/constitution/tona-not-war-liberty-rebrand"
+      },
+      {
+        "status": "A",
+        "path": "governance/constitution/tona-not-war-liberty-rebrand.png",
+        "href": "/governance/constitution/tona-not-war-liberty-rebrand.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/constitution/tona-not-war-liberty-rebrand.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png",
+        "alt": "TONA, Not War — Liberty's Rebrand"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
+        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-by-camp.png",
+        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-02T12:18:08.000Z",
+    "message": "Use \"hope within my lifetime\" voice for rescind-after-XII thesis.",
     "files": [
       {
         "status": "M",
@@ -1204,32 +1238,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-06-30T14:25:39.000Z",
     "message": "Clarify §I ten-coin paragraph: public math vs invention.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/computing/exact-change-wallet-invention-and-aftermath.md",
-        "href": "/science/computing/exact-change-wallet-invention-and-aftermath"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png",
-        "alt": "Exact-Change Wallet — Invention and Aftermath — article header"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png",
-        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png",
-        "alt": "Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-30T14:20:46.000Z",
-    "message": "Clarify prologue line on history erasure vs tech stall.",
     "files": [
       {
         "status": "M",

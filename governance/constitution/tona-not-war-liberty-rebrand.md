@@ -1,8 +1,8 @@
 # TONA, Not War — Liberty’s Rebrand
 
-*Two Thirteenths; America chose the wrong one; the harbor statue consecrated the choice.*
+*The original Thirteenth Amendment was erased and replaced with a mass-incarceration amendment sold as slave liberation.*
 
-![Constitution and amendments — nationalist vs globalist battlefield](https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png)
+![TONA, Not War — Liberty's Rebrand](https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png)
 
 Before the muskets of 1861, there was another Thirteenth Amendment — not the carceral text children memorize today, but **Titles of Nobility (TONA)**, passed by Congress in 1810 with near-unanimous votes in both chambers. It said that any citizen who accepted a foreign title, pension, or emolument from a king or emperor would **cease to be a citizen** and could hold no office. That is a nationalist firewall: cut the overseas aristocracy off from owning American officials, law, and labor through the old imperial hooks of honor, debt, and patronage.
 
@@ -29,6 +29,8 @@ Indentured servitude — time-bounded contract, path to freedom in many cases �
 The Civil War was not the only door to less bondage. The **Corwin Amendment** of 1861 — never ratified — would have forbidden any amendment interfering with slavery where it existed, proving the Union still offered a **no-abolition stay** path even on the eve of war. War **cleared the board**: it let a replacement Thirteenth occupy the number TONA had held in print culture, and it foreclosed the peaceful indentured path in favor of federal jurisdiction and a felony exception.
 
 The author read is stark: **1865 XIII was unnecessary** on the TONA-disconnection path and **actively tangent** — a globalist fix for centralization and population policy, not the nationalist sovereignty settlement that would have avoided titles, foreign emoluments, and soil-based citizenship manufacture.
+
+![Constitution and amendments — nationalist vs globalist battlefield](https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png)
 
 ## The pair that replaced TONA
 
