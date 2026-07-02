@@ -85,7 +85,8 @@ or *not* believing.
 
 #### Governance & slavery
 
-* [Constitution & amendments — nationalist vs globalist battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) — TONA “original 13th”; carceral replacement 13th; 14th birthright dual-track thesis; full amendment scorecard.
+* [TONA, Not War — Liberty’s Rebrand](/governance/constitution/tona-not-war-liberty-rebrand.md) — Reader essay: TONA abolition-by-disconnect; war tangent; Liberty 1886 rebrand; amendment cascade; *Trump v. Barbara* (June 2026).
+* [Constitution & amendments — nationalist vs globalist battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) — TONA “original 13th”; carceral replacement 13th; 14th birthright; Liberty §12; cascade §13; SCOTUS §14; full scorecard.
 * [Slave trades & Moor etymology](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) — Historical slave systems and Moor / Morocco naming threads.
 * [American Revolution](/governance/war/investigations/american-revolution-investigation.md) — Atlantic context; a small piece of a larger puzzle.
 * [British Civil War](/governance/war/investigations/british-civil-war-investigation.md) — Societized consolidation; template for Western governance.

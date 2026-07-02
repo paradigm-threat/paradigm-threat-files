@@ -1,9 +1,9 @@
 # Investigation: U.S. Constitution and Amendments — Nationalist vs. Globalist Battlefield
 
-> **TL;DR:** Reads the **1787 Constitution** and all **27 ratified amendments** as a **two-camp battlefield**: **pro-nationalist** provisions defend **popular sovereignty**, **state borders**, **anti-aristocratic** barriers, and **enumerated** federal limits; **pro-globalist** provisions expand **federal jurisdiction**, **debt/tax capture**, **birthright citizenship as population policy**, and **carceral labor** under color of law. **Centerpiece:** the **original Thirteenth Amendment** — the **Titles of Nobility Amendment (TONA, 1810)** — was **widely printed** as the **13th** in nineteenth-century editions, **possibly ratified** in Virginia’s **1819** republication act (disputed), then **memory-holed** when the **1865 slavery amendment** took the **“13th”** slot; the **replacement 13th** did **not** end bondage but **constitutionalized** **involuntary servitude** **“except as a punishment for crime.”** **Author thesis:** the **Fourteenth Amendment (1868)** paired with that **13th** as a **dual-track capture** — **enslave** dissidents and **Confederate-adjacent** populations via **prison industry**, while **manufacturing** **loyal new citizens** through **jus soli** birthright — a design whose **2020s immigration/sovereignty** fights (**birthright tourism**, **§1983** barriers to **border policy**) are the **late-game** read. Full **amendment scorecard** in §6; **TONA** deep dive §2; **13th/14th** §3–§5; **modern schism** §7.
+> **TL;DR:** Reads the **1787 Constitution** and all **27 ratified amendments** as a **two-camp battlefield**. **Centerpiece:** **TONA (1810)** — nationalist anti-nobility **13th** — **memory-holed** and replaced by **1865 carceral 13th** + **1868 birthright 14th**; **Statue of Liberty (1886)** as public monument to that pair; **amendment cascade** (XV–XIX, XVI Deep State) **would not exist** without war path; **June 2026** *Trump v. Barbara* — **Barrett** joins **Roberts–liberal bloc**, **14th** battlefield live. **Reader article:** [TONA, Not War — Liberty’s Rebrand](/governance/constitution/tona-not-war-liberty-rebrand.md). Scorecard §6; TONA §2; cascade §13; SCOTUS §14.
 
-**Status:** Open — **TONA ratification** and **Reconstruction amendment intent** remain **contested** in scholarship; **author battlefield frame** is **interpretive**.  
-**Last updated:** 2026-07-01
+**Status:** Open — **TONA ratification**, **XVI Benson dispute**, **Barbara** docket, and **Reconstruction intent** remain **contested**; **author battlefield frame** is **interpretive**.  
+**Last updated:** 2026-07-02
 
 **Guide (read order)**
 
@@ -13,10 +13,13 @@
 4. **14th (1868): citizenship, federal supremacy, author dual-track thesis** → §4  
 5. **Reconstruction package context (13–15) + Corwin counterfactual** → §5  
 6. **Full amendment scorecard (1–27) + baseline Constitution** → §6  
-7. **Modern schism — birthright, border sovereignty, 14th in court** → §7  
-8. **Author’s originating thesis (verbatim stakes)** → §8  
-9. **Open claims registry + questions to verify** → §9–§10  
-10. **Related investigations** → §11  
+7. **Modern schism — birthright, border sovereignty** → §7  
+8. **Statue of Liberty — monument to 13th/14th (1886)** → §12  
+9. **Amendment cascade — XV–XXVII without war counterfactual** → §13  
+10. ***Trump v. Barbara* (June 2026) — SCOTUS battlefield** → §14  
+11. **Author’s originating thesis (verbatim stakes)** → §8  
+12. **Open claims registry + questions to verify** → §9–§10  
+13. **Related investigations + reader article** → §11  
 
 ![Constitution and amendments — nationalist vs globalist battlefield](constitution-amendments-nationalist-globalist-battlefield-investigation.png)
 
@@ -97,6 +100,33 @@ The **author’s suspicion** (developed in §8): the **1865–1868 cluster** was
 
 **Cross-read:** [British Civil War investigation](/governance/war/investigations/british-civil-war-investigation.md) (aristocracy → finance capture); [American Revolution](/governance/war/investigations/american-revolution-investigation.md) (preserved slavery at founding).
 
+### 2.5 Author mechanism — TONA as slavery abolition without war (tier C, B hooks)
+
+**Author thesis:** TONA would have **abolished slavery as it was known** in the **1810–1860** frame — not by moral slogan alone but by **disconnecting overseas aristocracy from ownership** of American labor, law, and officials.
+
+| Link | Author claim | Documented anchor | Tier |
+|------|--------------|-------------------|------|
+| Foreign emoluments | Officials taking **British/French pensions/titles** = **loyalty to overseas power** | TONA text; War of 1812 context (§2.1) | A/B |
+| Ownership chain | Bondage ran through **credit, imperial law, and aristocratic titles** — not only plantation deed | [US Civil War](/governance/war/investigations/us-civil-war-investigation.md) (British funding); [American Revolution](/governance/war/investigations/american-revolution-investigation.md) | B |
+| TONA effect | Strip **citizenship/office** from anyone on **foreign titular leash** → **breaks administrative ownership** without battlefield | Textual inference | **C** |
+| vs **1865** XIII | **Replacement** amendment targets **chattel property** while **leaving foreign-influence door** open via **XIV** | Author compare | **C** |
+
+**Nationalist sovereignty read:** TONA would **avoid titles, nobility, external debt hooks, and foreign emoluments** — the **inverse** of what **1865/1868** **enshrined** in **subtle** form (birthright intake + carceral pipeline).
+
+**Falsifier:** Primary records showing TONA sponsors **explicitly** targeted **plantation chattel** (likely **absent** — indirect abolition read).
+
+### 2.6 Counterfactual — indentured resolution without war
+
+**Author thesis:** **Indentured servants** and **remaining bound populations** could have **resolved citizenship over time** through **local law** and **contract completion** — **without** **Civil War**, **Reconstruction military districts**, or **carceral XIII**.
+
+| Bondage type | TONA-path resolution (author) | War-path outcome |
+|--------------|------------------------------|------------------|
+| **Indentured servitude** | **Time-bounded** contract → **freedom + local belonging** | Partial overlap with **XIII** chattel ban only |
+| **Chattel slavery** | **Indirect unwind** via **aristocratic disconnect** + state law | **1865 XIII** + **exception** clause |
+| **Post-war labor** | **No felony pipeline** at constitutional scale | **Black Codes**, **convict leasing**, **mass incarceration** |
+
+**Cross-read:** [slave trades investigation](/governance/slavery/slave-trades-and-moor-etymology-investigation.md).
+
 ---
 
 ## 3. The replacement Thirteenth Amendment (1865) — “abolition” and the exception clause
@@ -126,7 +156,15 @@ The **author’s suspicion** (developed in §8): the **1865–1868 cluster** was
 
 **Cross-read:** [US Civil War investigation](/governance/war/investigations/us-civil-war-investigation.md) (slavery as **instrument**, not cause); [celebrity modern slavery investigation](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md) (**13th** bars **specific performance** of personal services in **Hollywood** — **legal** involuntary-servitude **recognition** elsewhere in code).
 
-### 3.3 Documented post-ratification carceral expansion
+### 3.3 “Unnecessary war” — globalist tangent (author)
+
+**Author thesis:** The **replacement 1865 XIII** was **not only unnecessary** on the TONA-disconnection path — it was a **tangent** solving **centralization + population policy** from a **globalist** angle, **preventing** a **nationalist sovereignty** settlement.
+
+- **War** **cleared the board** for **renumbering** TONA out of the **“13th”** slot (§2.4, §5.1).
+- **1865 XIII** **foreclosed** peaceful **indentured resolution** (§2.6) in favor of **federal jurisdiction** + **carceral exception**.
+- **Foreign influence** became **harder to bar** once **XIV** manufactured **soil-based citizens** at scale (§4).
+
+### 3.4 Documented post-ratification carceral expansion
 
 | Era | Pattern | Source |
 |-----|---------|--------|
@@ -176,6 +214,20 @@ The **author’s suspicion** (developed in §8): the **1865–1868 cluster** was
 
 **Not claimed as proven intent of every signatory** — claimed as **observable structure** that **globalist camp** **inherits** and **nationalist camp** ** fights in 2026**.
 
+### 4.5 Citizenship should not have been defined (author)
+
+**Author thesis:** The **Fourteenth Amendment’s mistake** was writing **“citizenship”** into constitutional text at all. **Who was born in America** and **who held rights** were **already known** in **place, community, and state law** — a **drifting legal term** was **invited**.
+
+| Pre-1868 | Post-1868 drift |
+|----------|-----------------|
+| **State** and **local** recognition of belonging | **Federal** **“citizen”** category |
+| **Jus sanguinis** strands + soil custom | **Jus soli** **constitutionalized** |
+| **Stable** community memory | **Wong Kim Ark (1898)** → **2026** *Barbara* — **reinterpretation** wars |
+
+**Text (A):** “All persons born … in the United States, and **subject to the jurisdiction thereof**, are citizens of the United States…”
+
+**Author read (C):** **“Citizenship”** is the **drift engine** — exactly what happened across **158 years**.
+
 ---
 
 ## 5. Reconstruction context — Corwin, 13–15, and the numbering war
@@ -194,7 +246,7 @@ The **author’s suspicion** (developed in §8): the **1865–1868 cluster** was
 |--------|------|------------------|----------------|-------|
 | **XIII** | 1865 | **Surface** (ends chattel) | **Deep** (carceral exception; **federal jurisdiction**) | §8 thesis |
 | **XIV** | 1868 | **§3** Confederate bar | **§1** birthright; **§5** enforcement; **incorporation** | §4 |
-| **XV** | 1870 | **Franchise** for **black men** | **Federal** **voting** **enforcement** hook | **Mixed** — rights vs **central supervision** |
+| **XV** | 1870 | **Franchise** surface | **Federal enforcement**; **author: scam / fraud capture** | §13.2 |
 
 ---
 
@@ -234,11 +286,11 @@ The **author’s suspicion** (developed in §8): the **1865–1868 cluster** was
 | **XIII (TONA)** | 1810 | **Nationalist** | **Anti-nobility** — §2 |
 | **XIII (1865)** | 1865 | **Globalist** (author) | Carceral exception — §3 |
 | **XIV** | 1868 | **Globalist** (author) | Birthright + enforcement — §4 |
-| **XV** | 1870 | **Mixed** | Vote rights vs federal enforcement |
-| **XVI** | 1913 | **Globalist** | **Income tax** — pairs with **Fed** — [usury d.md](/governance/usury/d.md) |
-| **XVII** | 1913 | **Mixed** | **Direct** Senate election — **populist** **face**, **weaker** **state** **block** |
-| **XVIII** | 1919 | **Nationalist** (moral) | **Prohibition** — **failed** **central** **morals** |
-| **XIX** | 1920 | **Mixed** | **Women’s** vote |
+| **XV** | 1870 | **Globalist** (author) | **Federal voting enforcement** — §13.2 |
+| **XVI** | 1913 | **Globalist** | **Income tax** + **Fed** — §13.3 |
+| **XVII** | 1913 | **Mixed** | **Direct** Senate election |
+| **XVIII** | 1919 | **Globalist / authoritarian** (author) | **Rights contraction** — §13.4 |
+| **XIX** | 1920 | **Globalist** (author) | **Federal franchise capture** — §13.5 |
 | **XX** | 1933 | **Neutral** | **Lame-duck** dates |
 | **XXI** | 1933 | **Nationalist** | **Repeals** **XVIII** |
 | **XXII** | 1951 | **Nationalist** | **Term** **limit** on **executive** **kingship** |
@@ -286,6 +338,143 @@ Generation N+2: resist again → repeat
 
 ---
 
+## 12. Statue of Liberty — monument to the replacement 13th/14th (1886)
+
+### 12.1 Documented facts (A/B)
+
+| Item | Fact | Source |
+|------|------|--------|
+| **Dedication** | **October 28, 1886** — Bedloe’s Island (later Liberty Island), New York Harbor | [NPS — Statue of Liberty history](https://www.nps.gov/stli/learn/historyculture/index.htm); [Wikipedia — Statue of Liberty](https://en.wikipedia.org/wiki/Statue_of_Liberty) |
+| **Designer** | **Frédéric Auguste Bartholdi** — French sculptor; **Gustave Eiffel** internal structure | NPS; Wikipedia |
+| **Egypt/Suez origin** | Bartholdi’s **unbuilt** **Suez Canal lighthouse** concept — *Egypt Carrying the Light to Asia* (1860s) — **same colossal female figure** repurposed for America after **Suez project** fell through | [Wikipedia — Statue of Liberty § Origin](https://en.wikipedia.org/wiki/Statue_of_Liberty#Origin) |
+| **Emma Lazarus poem** | ***The New Colossus*** (1883) — “**Give me your tired, your poor…**” — **bronze plaque** on pedestal **1903**, **not** read at **1886** dedication | NPS; Wikipedia |
+| **Fort Wood pedestal** | **Star-fort** base — military geometry under “liberty” symbol | Cross [stonehenge portal investigation §8.2](/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md) |
+
+**Timeline honesty:** **1886** ceremony **predates** Lazarus poem’s **public pedestal** placement by **17 years** — the **harbor intake** **poetry layer** is **later** **branding**, not **opening-day** **text**.
+
+### 12.2 Author read — rebrand and consecration (C)
+
+**Author thesis:** The **Statue of Liberty** is the **visible monument** to the **1865–1868** **constitutional pair** — dedicated **18 years** after **14th** ratification, amid **mass immigration** waves ([promised land investigation](/history/mudflood/investigations/promised-land-investigation.md)).
+
+| Layer | Author read |
+|-------|-------------|
+| **Egypt → America** | **East–West organic bridge** (Suez light-bearer) **lost** → **harbor intake** **rebrand** — **endless** **demographic** **pump** |
+| **1886 timing** | **Public consecration** of **carceral 13th** + **birthright 14th** — **children** learn **Liberty** + **“bravest 13th”** **together** |
+| **2020s anxiety** | **Natives** **priced out** / **homeless** while **intake** **symbol** **dominates** **national** **self-image** — **border fights** are **fight over statue’s meaning** |
+| **Mudflood scratch** | French/British **Suez rivalry** + **Liberty** — [mud flood notes](/history/mudflood/notes/page.md) ~L157–161 — **author note tier**, not proof |
+
+**Cross-read:** [ship-shaped airships investigation](/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md) (Fort Wood / star-fort geometry).
+
+---
+
+## 13. Amendment cascade — what would not exist without war (author)
+
+### 13.1 Counterfactual gate (C)
+
+> **Author guarantee:** If **1865 XIII** and **1868 XIV** had **not** passed and the **Civil War** had **not** occurred, **most later amendments would not exist** — the Constitution would **not** have been **opened for serial wartime surgery**.
+
+| Without war + without 1865/1868 pair | Likely absent or radically different |
+|--------------------------------------|--------------------------------------|
+| **XV (1870)** | Black male **vote** amendment — **unnecessary** on TONA/indenture path (§2.6) |
+| **XVI (1913)** | **Income tax** — **no constitutional opening** for **Fed/debt** stack |
+| **XVII–XIX** | **Centralization habit** + **wartime moral** amendments |
+| **XX–XXVII** | **Small-text, high-leverage** edits assume **prior corruption** |
+
+**Scholarly counter-read (B):** Reconstruction amendments **responded** to **documented** **post-war** **crisis** — **not** **mere** **globalist** **plot**. This file **records both**; **author column** is **C**.
+
+### 13.2 Fifteenth Amendment — “scam” read (author)
+
+**Author thesis:** **XV** was **not** liberation but **federal voting capture** → **fraud infrastructure** at scale — “**we definitely know that now**” (2020s **election integrity** debates as **confirmation**, tier **C**).
+
+**Documented hooks (B):** **Enforcement Acts**; **Reconstruction** **military districts**; **federal oversight** of elections.
+
+**Rescore:** §6.3 — **XV** → **Globalist (author)**.
+
+### 13.3 Sixteenth Amendment — Deep State fingerprint
+
+| Layer | Content | Tier |
+|-------|---------|------|
+| **Text** | Congress power to tax **incomes** | A |
+| **1913 cluster** | **XVI** + **Federal Reserve Act** same year | A — [usury d.md](/governance/usury/d.md) |
+| **Ratification challenge** | Bill Benson *The Law That Never Was* — state return **textual discrepancies**; courts (**Brushaber**, tax protest rulings) **reject** | B dispute; **not** established law |
+| **Author** | “Improperly ratified”; “**nobody wanted except insiders**”; “**purest Deep State example**” | **C** |
+| **Religious/usury** | Income tax vs **usury/interest** traditions — Abrahamic **ban** lanes | B/C |
+
+### 13.4 Eighteenth Amendment — authoritarian poison chapter
+
+**Rescore:** §6.3 — **XVIII** → **Globalist / authoritarian (author)** — **rights contraction** unrelated to founding frame.
+
+**Documented poison layer (A/B):** Prohibition-era **denatured alcohol** — **industrial alcohol** poisoned to deter diversion; **10,000+ deaths** widely cited ([NIH PMC — Prohibition poison policy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3708658/)); **government knew** methyl alcohol was lethal — **policy was public**; **author “caught poisoning”** morality is **C**.
+
+### 13.5 Nineteenth Amendment — cascade frivolity (author)
+
+**Author thesis:** **XIX** “**as frivolous as the 15th**” — same **federal franchise capture** geometry — **not** an anti-woman editorial; **franchise expansion** as **central election** **hook**.
+
+**Rescore:** §6.3 — **XIX** → **Globalist (author)**.
+
+### 13.6 XX–XXVII — small focus, high consequence
+
+| Amend. | “Small” text | High consequence (author/globalist read) |
+|--------|--------------|----------------------------------------|
+| **XX** | Lame duck | **Executive transition** timing — less state leverage |
+| **XXIII** | DC electors | **Capital district** vote **without** state |
+| **XXIV** | Poll tax | **Federal election law** wedge |
+| **XXV** | Succession | **Deep state continuity** under crisis |
+| **XXVI** | 18-year-olds | **Franchise expansion** under **Vietnam** war stress |
+| **XXVII** | Pay delay | Rare **nationalist** late correction |
+
+### 13.7 Corrupted parchment thesis (capstone)
+
+> The Constitution is **horribly corrupted and heavily modified**; **many opaque circumstances**, **especially during wartime** — **Reconstruction** **state coercion** literature; **debt preserved** at founding ([American Revolution](/governance/war/investigations/american-revolution-investigation.md)); **war** as **amendment factory** ([US Civil War](/governance/war/investigations/us-civil-war-investigation.md)).
+
+**Note:** Camp scorecard PNG (`constitution-amendments-by-camp.png`) reflects **pre-expansion** leans for **XV/XVIII/XIX** in **v1** — **text rescores** in §6.3 **lead** graphic **v2** if regenerated.
+
+---
+
+## 14. *Trump v. Barbara* (June 2026) — SCOTUS battlefield
+
+### 14.1 Documented docket (A/B)
+
+| Item | Fact | Source |
+|------|------|--------|
+| **Case** | ***Trump v. Barbara*** — challenge to **2025 birthright EO** | [SCOTUSblog — June 2026](https://www.scotusblog.com/2026/06/supreme-court-strikes-down-trumps-order-ending-birthright-citizenship/) |
+| **Date** | **June 2026** (opinion ~**June 30**) | Press tier |
+| **Holding** | Trump **day-one EO** denying citizenship to children of **unlawful/temporary** presence **struck down** | Majority |
+| **6–3 split** | **Roberts, Sotomayor, Kagan, Barrett, Jackson** — EO violates **14th Amendment** | CBS, AP, SCOTUSblog |
+| **Kavanaugh** | **Concurrence** — EO invalid under **federal statute** (INA); suggests **Congress could** legislate exceptions | SCOTUSblog |
+| **Dissent** | **Thomas, Alito, Gorsuch** — narrower citizenship read | Press tier |
+| **Prior beat** | ***Trump v. CASA* (June 2025)** — narrowed injunctions | ACLU |
+
+### 14.2 Author battlefield read (C)
+
+**Author thesis:** Constitution + **SCOTUS** = **visible battlefield**; **pro-globalist camp** “**got to**” **Amy Coney Barrett** — **not** innocent misread of **1868** text adopted under **dubious circumstances**, but **modern influence** (**no specific bribe/lever claimed** without evidence).
+
+| Theme | Author read |
+|-------|-------------|
+| **Barrett + liberals** | **Suspicious** vs **nationalist** **jurisdiction** reading — **Republican** **“mistake vs capture”** talk **on-pattern** (political fact **B**, author alignment **C**) |
+| **Birth tourism** | Pregnant arrival → **U.S. soil birth** → return with **citizen child** → **chain settlement** / **benefits geometry** (**C** — quantify via Q19) |
+| **Native displacement** | Americans **destitute/homeless** while **intake doctrine** **constitutionalized** — **moral contrast** (**C**) |
+| **Kavanaugh split** | **Trump appointee** also **struck EO** — **not** Barrett **alone**; **statutory** vs **14th** **paths** |
+
+### 14.3 MAGA sovereignty doctrine (author)
+
+> **Tactical retreat** ≠ surrender: **do what you can**; when they come for you **don’t resist too long** — **one person cannot stop globalists alone**. **Secure sovereignty first**, **sort status later**, **no second Civil War** — don’t repeat **undocumented-as-wedge** / **recruitment pool** ([Civil War investigation](/governance/war/investigations/us-civil-war-investigation.md)). **Phase 2:** **trafficking** reckoning; **work + integrate + no free perks** or **voluntary exit**; **high standards** and **leadership** for **all parties** — **American way**.
+
+### 14.4 Cross-reads
+
+- [Captured courts](/influence/controlled_opposition/captured-courts-wrong-villain.md) — judiciary as contested terrain  
+- [America First Legal](/governance/war/investigations/america-first-legal-victory-trend-investigation.md) — nationalist lawfare lane  
+- §7.2 **replacement cycle** — *Barbara* as **14th payoff line**
+
+### 14.5 Limits (this section)
+
+- **Do not** allege Barrett was **bribed** or **blackmailed** without evidence — **suspicion** + **public accusations** only.  
+- **Kavanaugh** concurrence — **note split** among **Trump appointees**.  
+- **Birth tourism magnitude** — verify **MPI / DHS / CDC** before strong **quantitative** claims.  
+- **Mainstream read:** *Barbara* as **14th vindication** — **recorded** as **alternate** **B** read.
+
+---
+
 ## 8. Author’s originating thesis
 
 > The Constitution and its amendments read like a **battlefield** where **pro-globalist** and **pro-nationalist** camps **fought** each other — and the **lines** **run** **straight** into **today’s** **schism**.
@@ -293,6 +482,12 @@ Generation N+2: resist again → repeat
 > The **original Thirteenth Amendment** — **Titles of Nobility** — was **ignored**, then **whitewashed** or **erased**, and **replaced** by one of the **worst** amendments in American history: the **13th** we know. It **did not** abolish slavery. It **enshrined** slavery **by another name**: anyone deemed an **enemy of the state**, a **dissident**, or who **fought for the Confederacy** could be **randomly plucked**, **jailed**, and **worked** until **death** — **worse** than **indentured servitude**, sold to **children** as the **bravest** move in history.
 >
 > **Suspicion:** the **Fourteenth** **followed** as **pro-globalist** **plan** — between **13th** and **14th**, **enslave** **current** citizens on one side and **fly in** **as many** **new** **citizens** **as needed** on the other; when **those** **fight** for **sovereignty**, **replace** them with **newer** **citizens**. Whoever wrote the **14th** **knew** the **outcome**: using it today to **prevent Americans** from **determining** **who** **should** **be** **in** **their** **country** — a **right** **no** **other** **nation** **relinquished**.
+
+> **TONA path:** **Titles of Nobility** would have **abolished slavery-as-then-known** by **disconnecting overseas aristocracy** — **indentured servants** **aging into** belonging **without war**. **1865/1868** were **unnecessary tangents**; **Liberty (1886)** **consecrated** the **wrong pair** (§12); **XV–XVI** **cascade** **would not exist** without **war opening** the parchment (§13).
+
+> **June 2026 — *Trump v. Barbara*:** **Barrett** with **Roberts and liberals** **struck** **birthright EO** — **battlefield live**, not **antique** **vagueness**. **Suspicious** vs **good-faith originalism** alone; **birth tourism** **geometry** **enabled** by **jus soli** (§14).
+
+> **MAGA patience:** **Sovereignty first**, **sort later**, **no Civil War**; **work, integrate, no free perks** or **leave**; **leadership standards** for **all** — **American way** (§14.3).
 
 **What the author means:** **Legal text** is **terrain**; **Reconstruction** was **not** **only** **race** **justice** but **constitutional** **re-engineering** — **carceral** + **demographic** **levers** — whose **2026** **expression** is **birthright** **litigation** and **border** **preemption**.
 
@@ -308,6 +503,24 @@ Generation N+2: resist again → repeat
 | **C4** | **14th** **birthright** was **strategic** **population** **policy** | **C** | **Primary** **drafter** **papers** **show** **no** **jus** **soli** **intent** **OR** **narrow** **jurisdiction** **only** |
 | **C5** | **13th+14th** **pair** **enslaves** **and** **replaces** **sovereign** **locals** | **C** | **Demographic** **+** **carceral** **trends** **uncorrelated** **1900–2026** |
 | **C6** | **Full amendment map** **leans** **globalist** **after** **XIV** **+** **XVI** | **C** | **Scorecard** **refuted** **amendment-by-amendment** with **alternate** **lean** **table** |
+| **C7** | **TONA** **disconnect** **would** **abolish** **bondage** **without** **war** | **C** | **TONA** **sponsors’** **papers** **target** **plantation** **chattel** **directly** |
+| **C8** | **Indentured** **populations** **resolve** **via** **local** **law** **on** **TONA** **path** | **C** | **Show** **no** **peaceful** **unwind** **possible** **1810–1860** |
+| **C9** | **1865** **XIII** **unnecessary** **tangent** **for** **abolition** **goal** | **C** | **War** **only** **path** **documented** **in** **primary** **sources** |
+| **C10** | **14th** **citizenship** **clause** **was** **mistake** — **invited** **drift** | **C** | **Pre-1868** **belonging** **required** **no** **federal** **“citizen”** **category** |
+| **C11** | **Liberty** **1886** **monument** **to** **1865/1868** **pair** | **C** | **Dedication** **records** **cite** **TONA** **or** **anti-nobility** **frame** |
+| **C12** | **Bartholdi** **Suez→America** **rebrand** = **intake** **geometry** | **C** | **Primary** **Bartholdi** **letters** **show** **identical** **demographic** **intent** |
+| **C13** | **Without** **war**, **XV–XIX** **would** **not** **exist** | **C** | **Scholarly** **Reconstruction** **necessity** **proves** **each** **amendment** **inevitable** |
+| **C14** | **XV** **=** **federal** **voting** **scam** / **fraud** **capture** | **C** | **No** **federal** **enforcement** **hook** **in** **XV** **text** |
+| **C15** | **XVI** **improperly** **ratified** / **law** **ignored** | **C** | **Courts** **+** **archives** **confirm** **uniform** **state** **texts** |
+| **C16** | **XVI** **+** **Fed** **=** **purest** **Deep** **State** **fingerprint** | **C** | **1913** **cluster** **coincidence** **+** **public** **debate** **records** |
+| **C17** | **XVIII** **poison** **policy** **=** **authoritarian** **corruption** | **C** | **Denaturing** **was** **not** **public** **policy** |
+| **C18** | **XIX** **as** **frivolous** **as** **XV** **in** **cascade** | **C** | **Women’s** **suffrage** **required** **no** **XIV** **war** **path** |
+| **C19** | ***Trump v. Barbara* (2026)** **proves** **14th** **battlefield** **active** | **B** | **Court** **upholds** **EO** **or** **case** **never** **reaches** **merits** |
+| **C20** | **Barrett** **+** **Roberts–liberal** **bloc** **suspicious** **vs** **nationalist** **14th** **read** | **C** | **Separate** **opinion** **adopts** **narrow** **jurisdiction** **thesis** |
+| **C21** | **Birth** **tourism** **+** **anchor** **chain** **=** **de** **facto** **jus** **soli** **policy** | **C** | **MPI/DHS** **stats** **show** **negligible** **birth** **tourism** |
+| **C22** | **Globalist** **camp** **influenced** **Barrett** (**no** **mechanism** **claimed**) | **C** | **Documented** **lever** **with** **evidence** |
+| **C23** | **MAGA** **tactical** **patience** — **sovereignty** **first**, **no** **Civil** **War** | **C** | **Author** **strategy** **not** **actionable** **prediction** |
+| **C24** | **Leadership** **path:** **integrate/work/no** **free** **perks** **vs** **world** **LCD** | **C** | **Policy** **implementation** **details** |
 
 ---
 
@@ -322,13 +535,26 @@ Generation N+2: resist again → repeat
 | **Q5** | **Comparative** **citizenship** — **how many** **states** **grant** **unconditional** **jus** **soli** **2026** | **MPI**; **Georgetown** **Institute** |
 | **Q6** | **2025–2026** **birthright** **EO** **litigation** **docket** — **which** **§** **wins** | **Federal** **courts**; **America First Legal** **filings** |
 | **Q7** | **Iowa** **GOP** **TONA** **revival** **attempts** (Constitution Center cites **2010** cycle) | **State** **legislative** **records** |
+| **Q8** | **Bartholdi** **Suez** **letters** **vs** **America** **commission** **—** **same** **figure?** | **Musée** **Bartholdi**; **scholarly** **biographies** |
+| **Q9** | **1886** **dedication** **speeches** **—** **immigration** **/14th** **explicit?** | **NYT** **archives**; **NPS** **primary** **collection** |
+| **Q10** | **Bill** **Benson** **state** **text** **diffs** **—** **best** **primary** **scan** **set** | **Benson** **archives**; **Brushaber** **line** |
+| **Q11** | **Prohibition** **poison** **deaths** **—** **best** **NIH** **/** **historian** **count** | **PMC3708658**; **scholarly** **Prohibition** **lit** |
+| **Q12** | **Reconstruction** **ratification** **coercion** **by** **state** **—** **table** | **Foner**; **state** **journals** |
+| **Q13** | **Comparative** **—** **countries** **with** **birthright** **tourism** **policy** **responses** | **MPI**; **OECD** |
+| **Q14** | **Pocket** **Constitutions** **1866–1870** **—** **when** **TONA** **drops** | **Library** **of** **Congress** |
+| **Q15** | **16th** **+** **Fed** **1913** **—** **same** **Congress** **session** **vote** **whip** **counts** | **Congressional** **Record** |
+| **Q16** | **XX–XXVII** **ratification** **context** **—** **war/emergency** **adjacency** | **National** **Archives** **amendment** **guides** |
+| **Q17** | **Barrett** **—** **join-only** **or** **separate** **writing** **in** ***Barbara*** | [Supreme Court slip opinions](https://www.supremecourt.gov/) |
+| **Q18** | **Republican** **public** **statements** **re** **Barrett** **“mistake”** **vs** **“influence”** | **Congress**; **news** **archives** |
+| **Q19** | **Birth** **tourism** **statistics** **—** **DHS**, **CDC** **natality**, **MPI** | **MPI**; **border** **studies** |
+| **Q20** | ***Trump v. CASA* (2025)** **→** ***Barbara* (2026)** **procedural** **arc** | **ACLU**; **SCOTUSblog** |
 
 ### Weak points / research TODOs
 
 - [ ] Build **primary-source** **table** of **pocket** **Constitutions** **1815–1865** showing **TONA** as **XIII**  
 - [ ] **Timeline** **row**: **TONA** **print** → **Civil War** → **1865** **XIII** → **Virginia** **code** **1867** **drop**  
 - [ ] **Cross-link** **timeline** **evt** for **Reconstruction** **amendments** when **site** **row** **exists**  
-- [ ] **Reader article** (optional) — **only** if author **names** **path** per [PARADIGM_INVESTIGATION_INSTRUCTIONS](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md)  
+- [x] **Reader article** — [TONA, Not War — Liberty’s Rebrand](/governance/constitution/tona-not-war-liberty-rebrand.md)  
 
 ---
 
@@ -336,6 +562,7 @@ Generation N+2: resist again → repeat
 
 | Topic | Link |
 |-------|------|
+| **Reader article — TONA, war tangent, Liberty rebrand** | [/governance/constitution/tona-not-war-liberty-rebrand.md](/governance/constitution/tona-not-war-liberty-rebrand.md) |
 | US Civil War — slavery as instrument | [/governance/war/investigations/us-civil-war-investigation.md](/governance/war/investigations/us-civil-war-investigation.md) |
 | American Revolution — slavery preserved | [/governance/war/investigations/american-revolution-investigation.md](/governance/war/investigations/american-revolution-investigation.md) |
 | Slave trades & bondage history | [/governance/slavery/slave-trades-and-moor-etymology-investigation.md](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
@@ -346,7 +573,7 @@ Generation N+2: resist again → repeat
 | America First Legal — nationalist lawfare | [/governance/war/investigations/america-first-legal-victory-trend-investigation.md](/governance/war/investigations/america-first-legal-victory-trend-investigation.md) |
 | Modern involuntary servitude (Hollywood) | [/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md) |
 
-Keywords: #Constitution #Amendments #TitlesOfNobility #TONA #ThirteenthAmendment #FourteenthAmendment #BirthrightCitizenship #Nationalist #Globalist #Reconstruction #InvoluntaryServitude #PrisonLabor #JusSoli #BorderSovereignty #CorwinAmendment #ParadigmThreatFiles
+Keywords: #Constitution #Amendments #TitlesOfNobility #TONA #ThirteenthAmendment #FourteenthAmendment #BirthrightCitizenship #TrumpVBarbara #AmyConeyBarrett #StatueOfLiberty #SixteenthAmendment #Nationalist #Globalist #Reconstruction #InvoluntaryServitude #PrisonLabor #JusSoli #BorderSovereignty #CorwinAmendment #ParadigmThreatFiles
 
 ---
 
@@ -366,4 +593,4 @@ Keywords: #Constitution #Amendments #TitlesOfNobility #TONA #ThirteenthAmendment
 
 **Cross-investigations** are **thematic** **rhymes**, **not** **proof** **transfers**.
 
-*Last updated: 2026-07-01*
+*Last updated: 2026-07-02*

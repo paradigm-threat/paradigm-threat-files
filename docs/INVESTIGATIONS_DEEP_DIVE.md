@@ -43,7 +43,8 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 
 ### Governance & slavery
 
-- [Investigation: U.S. Constitution and Amendments — Nationalist vs. Globalist Battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md)
+- [TONA, Not War — Liberty’s Rebrand](/governance/constitution/tona-not-war-liberty-rebrand.md) — reader essay: TONA path, war tangent, Liberty rebrand, cascade, *Trump v. Barbara*
+- [Investigation: U.S. Constitution and Amendments — Nationalist vs. Globalist Battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) — expanded §12–§14 (Liberty, cascade, SCOTUS)
 - [Slave Trades of Earth History & Moor Etymology](/governance/slavery/slave-trades-and-moor-etymology-investigation.md)
 - [Investigation: American Revolution — A Tiny Piece in a Much Bigger Puzzle](/governance/war/investigations/american-revolution-investigation.md)
 - [Investigation: British Civil War — Societized Consolidation and the Template for Western Governance](/governance/war/investigations/british-civil-war-investigation.md)
