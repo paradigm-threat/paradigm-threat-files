@@ -422,16 +422,18 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 #### D. DEW church analog (tier C — author read)
 
-| Scam-floor pattern | DEW church / movement mesh analog |
+| Scam-floor pattern | Movement mesh analog (general — not Norman-specific) |
 |--------------------|-------------------------------------|
-| **Line** **worker** **sees** **one** **office** | **Curator** **sees** **one** **lane** **(Wood**, **Norman**, **Greenyer)** |
+| **Line** **worker** **sees** **one** **office** | **Curator** **sees** **one** **lane** **(Wood**, **Greenyer**, **footer** **stack)** |
 | **HR/handler** **assigns** **script** | **Footer** **stack**, **homework** **loop**, **taunt** **register** |
 | **Recruited** **for** **language/skills** | **Debate** **stamina**, **Substack** **grind**, **Zoom** **persona** |
 | **Economic** **pressure** **(poverty**, **no** **jobs)** | **Attention** **economy** **—** **single-topic** **rage** **/ donations** **vs** **merit** **timeline** **labor** |
 | **Unaware** **of** **mycelium** **owners** | **May** **not** **see** **twenty-year** **fracture** **product** **or** **full** **node** **grid** |
-| **Sincere** **+** **coerced** **+** **knowing** **mix** | **Sincere** **Wood** **believers** **+** **paid** **labor** **+** **structural** **CO** **outcome** **can** **coexist** |
+| **Sincere** **+** **coerced** **+** **knowing** **mix** | **Sincere** **believers** **+** **structural** **CO** **outcome** **can** **coexist** |
 
-**Discipline:** **§5.10** **documents** **fraud-industry** **labor** **patterns** **with** **primaries**. **DEW** **church** **column** **=** **analogy** **only** — **not** **claim** **Norman** **/ text** **VA** **/ Zoom** **host** **are** **unknowing** **employees** **without** **evidence**. **Persona-split** **read** **(§9.6)** **is** **compatible** **with** **compartmentalization** **hypothesis** **but** **not** **proven** **by** **it**.
+**Norman-specific (§9.6 only):** Author files **only** the **Jun 2026 insult-amnesia gap** — **Jun 27** text insult volume **invisible** on **Jun 28** Zoom; **earlier confusion** at author’s anger — **not** employment in a mesh.
+
+**Discipline:** **§5.10** **documents** **fraud-industry** **labor** **patterns** **with** **primaries**. **DEW** **church** **column** **=** **general** **analogy** **only**. **Norman** **↔** **compartmentalization** **connection** **=** **§9.6** **field** **observation** **(insult** **ledger** **gap)** — **not** **claim** **Norman** **/ text** **VA** **/ Zoom** **host** **are** **unknowing** **employees** **without** **that** **evidence**. **Persona-split** **read** **is** **compatible** **with** **§5.10** **grammar** **but** **not** **proven** **by** **it**.
 
 **Cross-read:** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) · [§5.8](#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel) · [§5.9](#59-comparable-industrial-fraud-meshes-20052026--reference-catalog) · [§9.6](#96-live-debate-read-jun-2026)
 
@@ -647,7 +649,19 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 ## 9.6 Live debate read (Jun 2026)
 
-**Jun 28, 2026** — author live call with Norman (@911revision), ~52 min, recorded. **Context:** ~**15 years** 9/11 research **off-platform**; author **new to Substack** / truth-movement comment wars — call = **movement fieldwork**, not insider memoir. **Reader essay (author voice, no debate-transcript quotes):** [**Debunk host, scheduled slot**](/influence/controlled_opposition/debunk-host-scheduled-slot.md). **Interaction pattern:** Substack **taunt-without-engage** (munchkin/sweetie/crybaby, homework loops) → **scheduled Sunday slot** → video **persona mismatch** (friendly evangelist, bibliography, no demonstrated read of author’s Substack work). **Harassment-industry adjacency (2026):** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) — **Alef** **/ scam-center** **grammar** **vs** **debunk-host** **lane** (**structural** **rhyme**). **Debrief + evidence:** [norman-911revision-live-debate-debrief](/docs/debate-notes/norman-911revision-live-debate-debrief.md) · [thread-war archive](/docs/debate-notes/norman-substack-thread-war/evidence-index.md). **Discipline:** automated transcript **unreliable for speaker attribution** — essay uses paraphrase + published Norman corpus only.
+**Jun 28, 2026** — author live call with Norman (@911revision), ~52 min, recorded. **Context:** ~**15 years** 9/11 research **off-platform**; author **new to Substack** / truth-movement comment wars — call = **movement fieldwork**, not insider memoir. **Reader essay (author voice, no debate-transcript quotes):** [**Debunk host, scheduled slot**](/influence/controlled_opposition/debunk-host-scheduled-slot.md). **Interaction pattern:** Substack **taunt-without-engage** (munchkin/sweetie/crybaby, homework loops) → **scheduled Sunday slot** → video **persona mismatch** (friendly evangelist, bibliography, no demonstrated read of author’s Substack work).
+
+**Norman-specific compartmentalization claim (narrow):** Author **does not** allege Norman is an **unknowing employee** in a fraud or CO mesh. **Only** filed observation:
+
+| When | What author saw | Why it didn’t add up |
+|------|-----------------|----------------------|
+| **Jun 27 (night before call)** | Heavy **text-layer insult run** — munchkin, sweetie, crybaby, copy-paste spam ([thread-war archive](/docs/debate-notes/norman-substack-thread-war/evidence-index.md)) | — |
+| **Earlier in thread (≈day before escalation)** | Host seemed **unsure why** author was **angry** | Insult register **not** reflected in his **own ledger** of the exchange |
+| **Jun 28 Zoom** | **Friendly/procedural** host; **no** insult vocabulary; **victim-framed inversion** (author “taunting” him); **no recall** of author’s written work | **Late** and **quite unaware** of **how much** he had insulted author **all night** — as if **text layer ≠ video host** or **no handoff** between them |
+
+**Read:** **Compatible with** [§5.10](#510-floor-labor--compartmentalization-recruitment-and-economic-desperation) **compartmentalization grammar** (script floor vs credibility slot) — **not proven by it**. Alternative: **one operator**, **two modes**, **selective amnesia** on camera. **Not proven:** two operators, paid VA, named handler.
+
+**Harassment-industry adjacency (2026):** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) — **Alef** **/ scam-center** **grammar** **vs** **debunk-host** **lane** (**structural** **rhyme**). **Debrief + evidence:** [norman-911revision-live-debate-debrief](/docs/debate-notes/norman-911revision-live-debate-debrief.md) · [thread-war archive](/docs/debate-notes/norman-substack-thread-war/evidence-index.md). **Discipline:** automated transcript **unreliable for speaker attribution** — essay uses paraphrase + published Norman corpus only; **insult-amnesia** claim rests on **author memory + screenshot archive**, not transcript quotes.
 
 ---
 
@@ -695,7 +709,7 @@ Keywords: #Ic911a #911Revisionist #ControlledOpposition #Dew #NoPlanes #JudyWood
 - **§5.7 Alef adjacency:** **exact** **behavioral** **pattern** **match** **+** **cross-border** **impunity** **thesis** — **not** **allegation** **that** **Norman** **/ ic911a** **operators** **work** **for** **Alef**, **Yermolaev** **entities**, or **Ukrainian** **fraud** **floors**; **not** **automatic** **criminal** **characterization** **of** **movement** **harassment** **without** **primaries**; **RT** **documentary** **=** **state-adjacent** **packaging** **(tier** **B)**.
 - **§5.8 DEW church mesh:** **outcome-coordinated** **franchise** **read** **(tier** **C** **intent)** — **not** **proven** **central** **command** **or** **Alef↔Wood** **payroll**; **external** **targeting** **hypothesis** **=** **design** **fit**, **not** **named** **operation** **without** **primaries**.
 - **§5.9 comparable meshes:** **reference** **catalog** **only** — **independent** **pattern** **instances**; **not** **a** **unified** **conspiracy** **graph**; **not** **9/11↔fraud** **links** **without** **primaries**.
-- **§5.10 floor labor:** **fraud-industry** **labor** **patterns** **(GI-TOC**, **BBC**, **World** **Bank**, **etc.)** **with** **primaries**; **DEW** **church** **analog** **=** **tier** **C** **only**; **mixed** **worker** **awareness** **in** **reporting** **—** **not** **blanket** **“unknowing** **employee”** **claim** **for** **movement** **personalities**.
+- **§5.10 floor labor:** **fraud-industry** **labor** **patterns** **(GI-TOC**, **BBC**, **World** **Bank**, **etc.)** **with** **primaries**; **DEW** **church** **analog** **=** **tier** **C** **general** **only**; **Norman** **↔** **compartmentalization** **=** **§9.6** **insult-amnesia** **observation** **only** — **not** **blanket** **“unknowing** **employee”** **claim**.
 
 ---
 

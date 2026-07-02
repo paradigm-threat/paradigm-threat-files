@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-02T15:11:04.892Z",
+    "date": "2026-07-02T15:21:40.932Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md",
+        "href": "/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/debunk-host-scheduled-slot.md",
+        "href": "/influence/controlled_opposition/debunk-host-scheduled-slot"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-02T15:11:02.000Z",
+    "message": "Add floor-labor citations: compartmentalization, skills recruitment, poverty.",
     "files": [
       {
         "status": "M",
@@ -899,32 +917,6 @@
       {
         "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
         "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-30T15:50:11.000Z",
-    "message": "Add Substack mirror link to Exact-Change Wallet article.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/computing/exact-change-wallet-invention-and-aftermath.md",
-        "href": "/science/computing/exact-change-wallet-invention-and-aftermath"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png",
-        "alt": "Exact-Change Wallet — Invention and Aftermath — article header"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png",
-        "alt": "Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png",
-        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
       }
     ]
   }
