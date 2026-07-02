@@ -8,9 +8,9 @@
 **Guide (read order)**
 
 1. **Battlefield frame + vocabulary** → §1  
-2. **Original 13th — TONA: text, ratification dispute, erasure, Napoleon reaction (§2.7)** → §2  
+2. **Original 13th — TONA: text, ratification dispute, erasure, Napoleon brewing reaction (§2.7)** → §2  
 3. **Replacement 13th (1865): “abolition” vs. carceral slavery** → §3  
-4. **14th (1868): citizenship, federal supremacy, author dual-track thesis** → §4  
+4. **14th (1868): citizenship, federal supremacy, dual-track + two-part replacement (§4.4)** → §4  
 5. **Reconstruction package context (13–15) + Corwin counterfactual** → §5  
 6. **Full amendment scorecard (1–27) + baseline Constitution** → §6  
 7. **Modern schism — birthright, border sovereignty** → §7  
@@ -127,19 +127,20 @@ The **author’s suspicion** (developed in §8): the **1865–1868 cluster** was
 
 **Cross-read:** [slave trades investigation](/governance/slavery/slave-trades-and-moor-etymology-investigation.md).
 
-### 2.7 Napoleon reaction — French detachment, post-imperial forgetting (author)
+### 2.7 Napoleon brewing reaction — inevitable takeover read, post-imperial forgetting (author)
 
-**Author thesis (C):** **TONA (1810)** was **itself** **created in reaction to Napoleon’s expansion and influence** — **chiefly** to **detach French imperial influence** from American officials **before** the **1812** catastrophe arc (**Russia invasion** **Jun 1812**; **US–Britain War of 1812** same year). **Not** anti-British **only** — **anti-foreign-emolument** **text** **covers** **all** **powers** — but **timing** **tracks** **Napoleonic** **peak**, **not** **Waterloo** **aftermath**.
+**Author thesis (C):** **TONA (1810)** was **not** an **immediate** **reaction** **to** **any** **single** **crisis** — it was the **brewing constitutional firewall** against **inevitable Napoleonic world takeover**: **titles**, **pensions**, and **foreign emoluments** wiring **imperial** **influence** **into** **American** **officialdom**. **Chief** **French-detachment** **read** **still** **holds** — **detach French imperial influence** — but **timing** **tracks** **six** **years** **of** **Napoleonic** **consolidation** **after** **1804**, **not** **a** **snap** **response** **to** **1812**. **Not** anti-British **only** — **anti-foreign-emolument** **text** **covers** **all** **powers**.
 
 | Beat | Documented anchor | Author read |
 |------|-------------------|-------------|
-| **Apr–May 1810** | TONA **passes** Congress **87–3 / 19–5** | **Pre-Russia** **move** — **block** **French** **titles/pensions** **in** **US** **officialdom** |
-| **1810–1811** | **Continental System**; **Napoleonic** **empire** **at** **zenith** | **French** **influence** **lane** **felt** **urgent** **in** **Atlantic** **politics** |
+| **1804** | **Napoleon** **crowns** **emperor**; **Beethoven** **revokes** ***Eroica*** **dedication** | **Alleged** **rage (C):** **Napoleon** **would** **trample** **human** **rights**, **become** **tyrant** — **cultural** **early** **signal** **of** **brewing** **disillusionment** |
+| **Apr–May 1810** | TONA **passes** Congress **87–3 / 19–5** | **Culmination** **of** **brewing** **anti-emolument** **read** — **not** **triggered** **by** **1812** |
+| **1810–1811** | **Continental System**; **Napoleonic** **empire** **at** **zenith** | **Inevitable** **takeover** **arc** **felt** **urgent** **in** **Atlantic** **politics** |
 | **Jun 1812** | **Napoleon** **invades** **Russia**; **US** **declares** **war** **on** **Britain** | **TONA** **already** **with** **states** — **dual** **crisis** **year** |
 | **1812–1815** | **Moscow**, **Leipzig**, **Waterloo**; **Congress** **of** **Vienna** | **Power** **vacuum** + **monarchy** **restoration** **paradox** |
 | **Post-1815** | **Print** **culture** **still** **lists** **TONA** **as** **XIII** **decades** | **Legal** **memory** **≠** **political** **salience** |
 
-**Disillusionment geometry (author — C):** **Napoleon** **was** **culture’s** **modern** **emperor** — **Beethoven** **revoked** ***Eroica*** **dedication** when **Napoleon** **crowned** **himself** **(1804)**; **broader** **public** **faith** **collapsed** **after** **1812–1815**. **Titles** and **nobility** **looked** **dead** **as** **a** **living** **political** **technology** — **replaced** **by** **nation**, **code**, **finance**. **TONA** **could** **be** **forgotten** **without** **fanfare** because **nobody** **believed** **emperors** **would** **own** **American** **clerks** **anymore**.
+**Disillusionment geometry (author — C):** **Beethoven (1804),** **allegedly** **enraged** **when** **Napoleon** **declared** **himself** **emperor** — **revoked** ***Eroica*** **dedication**, **reporting** **Napoleon** **would** **trample** **human** **rights** **and** **rule** **as** **tyrant**, **not** **liberator**. **That** **read** **brewed** **six** **years** **before** **TONA**. **Congress (1810)** **was** **not** **reacting** **to** **one** **headline** — **to** **an** **inevitable** **Napoleonic** **takeover** **arc** **already** **visible** **across** **the** **Atlantic**. **Broader** **public** **faith** **in** **the** **modern** **emperor** **collapsed** **more** **fully** **after** **1812–1815**. **Titles** and **nobility** **looked** **dead** **as** **a** **living** **political** **technology** — **replaced** **by** **nation**, **code**, **finance**. **TONA** **could** **be** **forgotten** **without** **fanfare** because **nobody** **believed** **emperors** **would** **own** **American** **clerks** **anymore**.
 
 **The trap (author — C):** **French** **were** **not** **the** **only** **European** **influence** **in** **America**. **British** **credit**, **pensions**, **and** **aristocratic** **hooks** **persisted** — **and** **other** **powers** **wanted** **TONA** **gone** **precisely** **because** **it** **barred** **their** **emoluments** **too**. **Forgetting** **TONA** **after** **Napoleon’s** **fall** **was** **therefore** **misleading** **peace** — **foreign** **capture** **lanes** **survived** **under** **finance** **and** **law** **without** **visible** **crowns**.
 
@@ -241,6 +242,40 @@ The **author’s suspicion** (developed in §8): the **1865–1868 cluster** was
 
 **Not claimed as proven intent of every signatory** — claimed as **observable structure** that **globalist camp** **inherits** and **nationalist camp** ** fights in 2026**.
 
+### 4.4 Two-part replacement — parchment first, bodies lag (author)
+
+**Author thesis (C):** **Watering down sovereignty** in the **Constitution** was **only half** the process. The **other half** required **actually getting people into the country** — and **that was not happening** at the pace the geometry demanded. **Track B** (**jus soli** at **Article V** height) is **useless without bodies on soil**. The **1865/1868 pair** wrote the **demographic lock**; **mass movement** **lagged** for **decades**.
+
+| Phase | Mechanism | Documented anchor | Tier |
+|-------|-----------|-------------------|------|
+| **Phase 1 — parchment** | **13th exception** + **14th birthright** | Ratification rolls **1865–1868** | **A** |
+| **Phase 2 — bodies** | **War refugees**, **parole**, **asylum**, **birth tourism**, **tax-funded relocation** | Immigration statutes; **SSP**; **§14.4–§14.5** | **B** |
+| **Gap** | **XIV** **ahead** of **intake volume** **1868–1910s** | **Quota era** still **restricted** **despite** **birthright** **doctrine** | **B/C** |
+
+**Civil War as runner-up (author — C):** The **war** was a **runner-up installment** in this **human-trafficking geometry** — **not** the **finished pump**. It delivered **parchment**, **federal jurisdiction**, and **wartime demographic shock** before **harbor-scale** **replacement** **caught up**.
+
+**Documented wartime land redistribution (B):**
+
+| Item | Fact | Source |
+|------|------|--------|
+| **Field Order No. 15** | **Jan 16, 1865** — **Gen. Sherman** set aside **Confederate-held coastal land** (**SC, GA, FL**) for **freed Black families** — **“forty acres”** promise; land **taken from white Southerners** | [National Archives — Reconstruction](https://www.archives.gov/milestone-documents/special-field-orders-no-15); [Wikipedia — Forty acres and a mule](https://en.wikipedia.org/wiki/Forty_acres_and_a_mule) |
+| **Reversal** | **President Andrew Johnson** **revoked** redistribution **1865** — **promise** **broken** | B — Reconstruction historiography |
+
+**Author read (C):** **Internal displacement** on **American soil** — **preview** of **replace-locals-with-center-aligned populations** — **before** **port** **intake** **matched** **XIV** **scale**.
+
+**Immigration pulses vs restriction (B hooks + author C):**
+
+| Context | Documented pattern | Author read |
+|---------|-------------------|-------------|
+| **Post–WWI / interwar** | **Emergency Quota Act (1921)** + **National Origins Act (1924)** **heavily restricted** immigration | **Parchment** **ahead** of **bodies**; **statute** **throttles** what **XIV** **already** **promised** |
+| **Spanish Civil War (1936–1939)** | **U.S.** **remained** **restrictionist**; **modest refugee streams** still **entered** (volunteers, exiles) | **World conflict** **exports people**; **selective** **absorption** **despite** **gates** |
+| **WWII / aftermath** | **Bracero (1942+)**, **Displaced Persons Acts (1948+)**, **post-war settlement** at **scale** | **First modern volume** **match** for **birthright** **demography** |
+| **Late 20th–21st c.** | **Cold War refugees**, **GWOT**, **2010s–2020s asylum surges**, **parole/charter** lanes (§14) | **Critical-mass push** **accelerates** with **world conflict** |
+
+**Critical-mass objective (author — C):** Repeat at **constitutional scale** what **European settlement** achieved against **Native Americans** — **demographic critical mass** that **replaces** a **prior population’s grip on place**. **XIV** **constitutionalized** the **mechanism**; **wars** and **refugee cycles** **supply** the **bodies** — **slowly** at first, **faster** when **world conflict** **opens the valves**.
+
+**Cross-read:** [Promised land investigation](/history/mudflood/investigations/promised-land-investigation.md); [US Civil War investigation](/governance/war/investigations/us-civil-war-investigation.md).
+
 ### 4.5 Citizenship should not have been defined (author)
 
 **Author thesis:** The **Fourteenth Amendment’s mistake** was writing **“citizenship”** into constitutional text at all. **Who was born in America** and **who held rights** were **already known** in **place, community, and state law** — a **drifting legal term** was **invited**.
@@ -274,6 +309,14 @@ The **author’s suspicion** (developed in §8): the **1865–1868 cluster** was
 | **XIII** | 1865 | **Surface** (ends chattel) | **Deep** (carceral exception; **federal jurisdiction**) | §8 thesis |
 | **XIV** | 1868 | **§3** Confederate bar | **§1** birthright; **§5** enforcement; **incorporation** | §4 |
 | **XV** | 1870 | **Franchise** surface | **Federal enforcement**; **author: scam / fraud capture** | §13.2 |
+
+### 5.3 Civil War runner-up — land shock before harbor intake (author)
+
+**Author thesis (C):** The **Civil War cluster** (**1865 XIII + 1868 XIV**) was the **constitutional half** of a **two-part replacement** (§4.4). **Physical intake** **did not** **keep pace** — making the war a **runner-up** to the **full human-trafficking geometry**, not its **completion**.
+
+**Documented (B):** **Sherman’s Field Order No. 15 (Jan 1865)** redistributed **Confederate-held land** to **freed Black families** — **property taken from white Southerners** — before **Johnson’s reversal**. That is **on-soil demographic shock** **without** **yet** achieving **European-settlement-scale** **critical mass** (author **C** comparison to **Native replacement**).
+
+**Read with §4.4 immigration table:** **Quota-era restriction** **1860s–1920s** shows **parchment** (**birthright**) **preceded** **bodies**; **WWII** and **late-century conflict waves** **closed** the **gap**.
 
 ---
 
@@ -356,12 +399,14 @@ The **author’s suspicion** (developed in §8): the **1865–1868 cluster** was
 ### 7.2 Replacement cycle (author hypothesis)
 
 ```
-Generation N: locals resist center → felony/disqualify pipeline (13th exception)
-Generation N+1: birthright + migration → new loyal citizens (14th §1)
-Generation N+2: resist again → repeat
+Phase 1 (1865–1868): parchment — carceral XIII + birthright XIV (sovereignty watered down)
+Phase 2 (lag): bodies — intake volume does not match XIV scale (quota gates, slow pump)
+Phase 3 (pulses): world-war refugee cycles — WWI/interwar trickle, WWII volume, 21st-c. surges
+Loop: Generation N locals resist → felony pipeline (13th) → birthright/migration intake (14th) → repeat
+Objective (C): critical mass — European-replaces-Native demographic geometry at constitutional scale
 ```
 
-**Cross-read:** [Promised land investigation](/history/mudflood/investigations/promised-land-investigation.md) (immigration **as** **deliverance** **narrative**); [America First Legal](/governance/war/investigations/america-first-legal-victory-trend-investigation.md) (**post-war** **nationalist** **lawfare**).
+**Cross-read:** §4.4 (two-part thesis); [Promised land investigation](/history/mudflood/investigations/promised-land-investigation.md) (immigration **as** **deliverance** **narrative**); [America First Legal](/governance/war/investigations/america-first-legal-victory-trend-investigation.md) (**post-war** **nationalist** **lawfare**).
 
 ---
 
@@ -591,9 +636,11 @@ Generation N+2: resist again → repeat
 >
 > The **original Thirteenth Amendment** — **Titles of Nobility** — was **ignored**, then **whitewashed** or **erased**, and **replaced** by one of the **worst** amendments in American history: the **13th** we know. It **did not** abolish slavery. It **enshrined** slavery **by another name**: anyone deemed an **enemy of the state**, a **dissident**, or who **fought for the Confederacy** could be **randomly plucked**, **jailed**, and **worked** until **death** — **worse** than **indentured servitude**, sold to **children** as the **bravest** move in history.
 >
-> **Suspicion:** the **Fourteenth** **followed** as **pro-globalist** **plan** — between **13th** and **14th**, **enslave** **current** citizens on one side and **fly in** **as many** **new** **citizens** **as needed** on the other; when **those** **fight** for **sovereignty**, **replace** them with **newer** **citizens**. Whoever wrote the **14th** **knew** the **outcome**: using it today to **prevent Americans** from **determining** **who** **should** **be** **in** **their** **country** — a **right** **no** **other** **nation** **relinquished**.
+> **Suspicion:** the **Fourteenth** **followed** as **pro-globalist** **plan** — between **13th** and **14th**, **enslave** **current** citizens on one side and **fly in** **as many** **new** **citizens** **as needed** on the other; when **those** **fight** for **sovereignty**, **replace** them with **newer** **citizens**. Whoever wrote the **14th** **knew** the **outcome**: using it today to **prevent Americans** from **determining** **who** **should** **be** **in** **their** **country** — a **right** **no** **other** **nation** **relinquished**. **But parchment was only half** — **bodies** **had** **to** **follow** (§4.4).
 
-> **TONA path:** **Titles of Nobility** would have **abolished slavery-as-then-known** by **disconnecting overseas aristocracy** — **indentured servants** **aging into** belonging **without war**. **1810 TONA** **likely** **reacted** to **Napoleonic** **expansion** — **detach French influence** **before** **1812** — then **was** **forgotten** **after** **Napoleon’s** **fall** **because** **titles** **looked** **dead**; **British/finance** **lanes** **wanted** **it** **gone** **anyway** (§2.7). **1865/1868** were **unnecessary tangents**; **Liberty (1886)** **consecrated** the **wrong pair** (§12); **XV–XVI** **cascade** **would not exist** without **war opening** the parchment (§13).
+> **Two-part scheme (§4.4):** **Watering down sovereignty** in the **Constitution** **preceded** **mass intake** — **intake** **was** **not** **happening** at **XIV** **scale** for **decades**. **Civil War** = **runner-up** **installment** in **human-trafficking geometry** — **Sherman Field Order 15 (1865)** gave **freed Black families** **land** **taken** **from** **white Southerners** before **Johnson** **reversed** it; **harbor** **waves** **came** **later** — **post–WWI** and **Spanish Civil War** **despite** **heavy restriction**; **WWII** **huge** **wave**; **21st-c.** **conflict** **surges**. **Objective (C):** **critical mass** like **Europeans** **replacing** **Native Americans**.
+
+> **TONA path:** **Titles of Nobility** would have **abolished slavery-as-then-known** by **disconnecting overseas aristocracy** — **indentured servants** **aging into** belonging **without war**. **1810 TONA** **brewed** against **inevitable Napoleonic takeover** — **not** a **snap** **1812** **reaction**; **Beethoven** **already** **saw** **tyrant/human-rights** **arc** **(1804)** — then **was** **forgotten** **after** **Napoleon’s** **fall** **because** **titles** **looked** **dead**; **British/finance** **lanes** **wanted** **it** **gone** **anyway** (§2.7). **1865/1868** were **unnecessary tangents**; **Liberty (1886)** **consecrated** the **wrong pair** (§12); **XV–XVI** **cascade** **would not exist** without **war opening** the parchment (§13).
 
 > **June 2026 — *Trump v. Barbara*:** **Barrett** with **Roberts and liberals** **struck** **birthright EO** — **battlefield live**. **JD Vance (Jul 1, 2026):** **“she made a mistake”** — **pregnant vacation** → **family citizenship** — **not** **14th framers’** **intent** (§14.3).
 
@@ -641,7 +688,7 @@ Generation N+2: resist again → repeat
 | **C28** | **COVID** **hotel** **programs** **=** **resettlement** **accelerant** **w/** **little** **oversight** | **B/C** | **Audits** **show** **full** **competitive** **oversight** |
 | **C29** | **Mass** **personal** **resettlement** **plan** **started** **then** **foiled** **(2024–2026)** | **C** | **City** **contracts** **continue** **unchanged** **2026** |
 | **C30** | **Avoiding** **race** **war** **was** **strategic** **—** **CW** **II** **≠** **CW** **I** | **C** | **Author** **strategy** **not** **historical** **claim** |
-| **C31** | **TONA** **(1810)** **=** **reaction** **to** **Napoleonic** **expansion** — **detach** **French** **influence** | **C** | **1810** **debates** **never** **mention** **France/Napoleon** |
+| **C31** | **TONA (1810) = brewing reaction to inevitable Napoleonic world takeover — not snap crisis response; chiefly detach French imperial influence** | **C** | **1810 debates never mention France/Napoleon** |
 | **C32** | **Post-1815** **disillusionment** **made** **titles** **seem** **obsolete** → **TONA** **forgotten** | **C** | **State** **ratification** **push** **continued** **strong** **1810–1815** |
 | **C33** | **Non-French** **powers** (**British/finance**) **wanted** **TONA** **gone** **after** **Napoleon** **fell** | **C** | **Primary** **British** **lobby** **against** **TONA** **documented** |
 | **C34** | **1886** **Liberty** **dedication** **=** **American** **liberty**; **1903** **Lazarus** **plaque** **=** **deferred** **intake** **rebrand** **(backlash** **avoidance)** | **C** | **1886** **program** **includes** **huddled** **masses** **text** |
@@ -649,6 +696,9 @@ Generation N+2: resist again → repeat
 | **C36** | **Every amendment from 1865 XIII forward** **abuses** **Article V** **premise** | **C** | **Scholarly** **consensus** **all** **post-XII** **amendments** **necessary** **and** **proper** |
 | **C37** | **Post-1865** **amendments** **are** **frivolous**, **Congress’s** **work**, **or** **patches** — **not** **parchment** **material** | **C** | **Show** **XIII–XXVII** **each** **required** **constitutional** **entrenchment** |
 | **C38** | **Hope within lifetime:** **rescind** **XIII–XXVII**; **restore** **TONA** **as** **XIII** **replacing** **1865** **carceral** **text** | **C** | **Author** **hope** **—** **not** **prediction** |
+| **C39** | **Replacement = two parts:** **parchment sovereignty water-down** **+** **physical intake**; **bodies lagged** **decades** behind **XIV** | **C** | **Immigration** **volume** **matched** **XIV** **immediately** **post-1868** |
+| **C40** | **Civil War = runner-up** to **full human-trafficking geometry**; **Sherman 1865 land** to **freed families** from **white Southern property** | **B/C** | **Field Order 15** **never** **issued**; **intake** **preceded** **XIV** |
+| **C41** | **Objective = demographic critical mass** (**European-replaces-Native** geometry) via **war-refugee pulses** (**WWI/interwar, Spanish Civil War, WWII, 21st c.**) | **C** | **Immigration** **restrictions** **prevented** **all** **post-war** **entry** |
 
 ---
 
@@ -681,6 +731,7 @@ Generation N+2: resist again → repeat
 | **Q23** | **NYC/Chicago** **hotel** **spend** **peak** **→** **2025–2026** **decline** **timeline** | **NYC Comptroller** |
 | **Q24** | **Birth** **tourism** **—** **affluent** **vs** **asylum** **soil-birth** **share** | **MPI**; **CDC** **natality** |
 | **Q25** | **TONA** **1810** **—** **Congressional** **debates** **re** **Napoleon** **/** **French** **emoluments** | **Annals** **of** **Congress** **11th** **Cong.**; **state** **ratification** **journals** **1810–1815** |
+| **Q26** | **Immigration volume vs XIV birthright** **—** **year-by-year** **1868–1924** **gap** | **DHS Yearbook**; **MPI** **historical** **tables**; **Census** **foreign-born** **series** |
 
 ### Weak points / research TODOs
 
@@ -728,4 +779,4 @@ Keywords: #Constitution #Amendments #TitlesOfNobility #TONA #ThirteenthAmendment
 
 **Cross-investigations** are **thematic** **rhymes**, **not** **proof** **transfers**.
 
-*Last updated: 2026-07-02 — §2.7 Napoleon/TONA reaction thesis; §14 Vance Jul 2026*
+*Last updated: 2026-07-02 — §4.4 two-part replacement / intake waves; §5.3 Civil War runner-up; §14 Vance Jul 2026*
