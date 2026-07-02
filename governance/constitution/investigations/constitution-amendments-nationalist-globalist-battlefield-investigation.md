@@ -15,7 +15,7 @@
 6. **Full amendment scorecard (1–27) + baseline Constitution** → §6  
 7. **Modern schism — birthright, border sovereignty** → §7  
 8. **Statue of Liberty — monument to 13th/14th (1886)** → §12  
-9. **Amendment cascade — XV–XXVII without war counterfactual** → §13  
+9. **Amendment cascade — XV–XXVII; abuse thesis; rescind after XII (§13.8)** → §13  
 10. ***Trump v. Barbara* (June 2026) — SCOTUS battlefield** → §14  
 11. **Author’s originating thesis (verbatim stakes)** → §8  
 12. **Open claims registry + questions to verify** → §9–§10  
@@ -139,7 +139,7 @@ The **author’s suspicion** (developed in §8): the **1865–1868 cluster** was
 | **1812–1815** | **Moscow**, **Leipzig**, **Waterloo**; **Congress** **of** **Vienna** | **Power** **vacuum** + **monarchy** **restoration** **paradox** |
 | **Post-1815** | **Print** **culture** **still** **lists** **TONA** **as** **XIII** **decades** | **Legal** **memory** **≠** **political** **salience** |
 
-**Disillusionment geometry (author — C):** **Napoleon** **was** **culture’s** **modern** **emperor** — **Beethoven** **dedicated** ***Eroica*** **to** **him**, **then** **revoked** **when** **Napoleon** **crowned** **himself** **(1804)**; ** wider** **public** **faith** **collapsed** **after** **1812–1815**. **Titles** and **nobility** **looked** **dead** **as** **a** **living** **political** **technology** — **replaced** **by** **nation**, **code**, **finance**. **TONA** **could** **be** **forgotten** **without** **fanfare** because **nobody** **believed** **emperors** **would** **own** **American** **clerks** **anymore**.
+**Disillusionment geometry (author — C):** **Napoleon** **was** **culture’s** **modern** **emperor** — **Beethoven** **revoked** ***Eroica*** **dedication** when **Napoleon** **crowned** **himself** **(1804)**; **broader** **public** **faith** **collapsed** **after** **1812–1815**. **Titles** and **nobility** **looked** **dead** **as** **a** **living** **political** **technology** — **replaced** **by** **nation**, **code**, **finance**. **TONA** **could** **be** **forgotten** **without** **fanfare** because **nobody** **believed** **emperors** **would** **own** **American** **clerks** **anymore**.
 
 **The trap (author — C):** **French** **were** **not** **the** **only** **European** **influence** **in** **America**. **British** **credit**, **pensions**, **and** **aristocratic** **hooks** **persisted** — **and** **other** **powers** **wanted** **TONA** **gone** **precisely** **because** **it** **barred** **their** **emoluments** **too**. **Forgetting** **TONA** **after** **Napoleon’s** **fall** **was** **therefore** **misleading** **peace** — **foreign** **capture** **lanes** **survived** **under** **finance** **and** **law** **without** **visible** **crowns**.
 
@@ -377,7 +377,7 @@ Generation N+2: resist again → repeat
 | **Emma Lazarus poem** | ***The New Colossus*** (1883) — “**Give me your tired, your poor…**” — **bronze plaque** on pedestal **1903**, **not** read at **1886** dedication | NPS; Wikipedia |
 | **Fort Wood pedestal** | **Star-fort** base — military geometry under “liberty” symbol | Cross [stonehenge portal investigation §8.2](/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md) |
 
-**Timeline honesty:** **1886** ceremony **predates** Lazarus poem’s **public pedestal** placement by **17 years** — the **harbor intake** **poetry layer** is **later** **branding**, not **opening-day** **text**.
+**Timeline honesty — strengthens author read (C):** **1886** ceremony **predates** Lazarus poem’s **pedestal plaque** (**1903**) by **17 years**. **Not** a refutation: a **1886** dedication **could not** have **read** **“give me your tired, your poor…”** **without** **public** **backlash** — contemporaries understood the statue as **liberty for Americans** (Union/Reconstruction **American** emancipation), **not** **liberty-of-foreigners** **intake** **doctrine**. **Intake** **poetry** **deferred** until **1903** — **retroactive** **rebrand** after **1865/1868** **pair** **normalized** and **immigration** **waves** **advanced**.
 
 ### 12.2 Author read — rebrand and consecration (C)
 
@@ -386,7 +386,8 @@ Generation N+2: resist again → repeat
 | Layer | Author read |
 |-------|-------------|
 | **Egypt → America** | **East–West organic bridge** (Suez light-bearer) **lost** → **harbor intake** **rebrand** — **endless** **demographic** **pump** |
-| **1886 timing** | **Public consecration** of **carceral 13th** + **birthright 14th** — **children** learn **Liberty** + **“bravest 13th”** **together** |
+| **1886 timing** | **Public consecration** of **carceral 13th** + **birthright 14th** — **American** liberty frame at dedication; **intake poem** **1903** **layer** |
+| **1903 poem deferral** | **Intake text** **absent** **1886** **because** **backlash** **risk** — **Liberty-for-Americans** **→** **Liberty-as-harbor-pump** **only** **after** **delay** |
 | **2020s anxiety** | **Natives** **priced out** / **homeless** while **intake** **symbol** **dominates** **national** **self-image** — **border fights** are **fight over statue’s meaning** |
 | **Mudflood scratch** | French/British **Suez rivalry** + **Liberty** — [mud flood notes](/history/mudflood/notes/page.md) ~L157–161 — **author note tier**, not proof |
 
@@ -454,6 +455,29 @@ Generation N+2: resist again → repeat
 
 > The Constitution is **horribly corrupted and heavily modified**; **many opaque circumstances**, **especially during wartime** — **Reconstruction** **state coercion** literature; **debt preserved** at founding ([American Revolution](/governance/war/investigations/american-revolution-investigation.md)); **war** as **amendment factory** ([US Civil War](/governance/war/investigations/us-civil-war-investigation.md)).
 
+### 13.8 Amendment abuse — post-1865 XIII; rescind after XII (author)
+
+**Author thesis:** The **1787 frame** was **not** meant to become a **serial amendment machine**. **Article V** exists — but **every amendment from the 1865 Thirteenth forward** **could be argued** to **abuse** the **premise**: **frivolous** at constitutional scale, **properly Congress’s job**, or **patches** for **incomplete** **prior** **amendments** / **crises**.
+
+| Failure mode | Author examples | Tier |
+|--------------|-----------------|------|
+| **Frivolous** | **XVIII** morals ban; **XX** housekeeping at supreme-law height | **C** |
+| **Congress’s work** | **XVI** income tax; **XV/XXIV/XXVI** franchise machinery; **XIV** population policy | **C** |
+| **Patch** | **XIV** completes **XIII**; later texts **assume** Reconstruction **legitimate** | **C** |
+| **Pivot abuse** | **1865 XIII** **replaced** **TONA** **slot** — **carceral** **“slave”** **amendment** **orbiting** **wrong** **number** | **C** |
+
+**Lifetime program (author — verbatim sentiment):**
+
+> In my lifetime I would like to see **every single amendment beyond the Twelfth** **abolished and rescinded** — and the **original TONA Thirteenth** **replace** the **carceral replacement Thirteenth** we know today.
+
+| Keep | Rescind | Restore |
+|------|---------|---------|
+| **1787** **Constitution** + **I–XII** (**Bill** **of** **Rights** through **Electoral** **College** **fix**) | **XIII–XXVII** (**1865** **carceral** **XIII** through **XXVII**) | **TONA** **(1810)** **as** **the** **true** **XIII** |
+
+**Not claimed:** rescission is **politically easy** or **legally trivial** — claimed as **moral** **and** **structural** **north** **star**. **Policy** **after** **rescission** **must** **return** **to** **Congress** **and** **states** — **not** **Article** **V** **crisis** **layering**.
+
+**Cross-read:** §2 TONA; §3 **1865** **XIII**; [usury d.md](/governance/usury/d.md) (**XVI**/Fed).
+
 **Note:** Camp scorecard PNG (`constitution-amendments-by-camp.png`) reflects **pre-expansion** leans for **XV/XVIII/XIX** in **v1** — **text rescores** in §6.3 **lead** graphic **v2** if regenerated.
 
 ---
@@ -496,19 +520,24 @@ Generation N+2: resist again → repeat
 
 **Author alignment (C):** Vance’s **vacation-birth → family permanence** geometry matches §4 **Track B** and §7 **birthright schism** — **documented Republican** **“mistake”** read vs author **“influence/capture”** read (§14.2); **both** reject **Barrett’s** **majority** **join** as **faithful** **1868** **originalism**.
 
-### 14.4 Intake geometry — flights, parole, affluent birth tourism (documented B)
+### 14.4 Intake geometry — taxpayer transport, flights, housing (documented B)
 
-**Not only foot-crossing:** Intake now includes **air** lanes — **documented**, **disputed** on **who pays** and **vetting**.
+**Not only foot-crossing:** Intake runs on **multiple** **tax-funded** **lanes** — **buses**, **onward** **travel**, **hotels**, **shelters** — plus **air** **entry** **programs**. **Composite** **picture:** **public** **money** ** moves** **and** **houses** **migrants** **at** **scale**; **denying** **that** **because** **one** **sub-program** **has** **private** **ticket** **purchase** **misses** **the** **geometry**.
 
 | Lane | Documented fact | Source tier |
 |------|-----------------|-------------|
-| **CHNV humanitarian parole** | **~320k–357k** vetted **Cubans/Haitians/Nicaraguans/Venezuelans** **authorized to fly** to **U.S. airports** (2023–2024); **sponsor** required; **travelers pay** own tickets — **not** a secret program | B — [Snopes](https://www.snopes.com/news/2024/03/07/320000-unvetted-migrants/); [FactCheck.org](https://www.factcheck.org/2024/03/the-humanitarian-parole-program-for-cubans-haitians-nicaraguans-and-venezuelans/); [PolitiFact](https://www.politifact.com/factchecks/2024/may/09/rick-scott/biden-isnt-flying-migrants-to-florida-people-pay-f/) |
-| **Charter smuggling routes** | Migrants **fly charter** to **Nicaragua** / **Central America**, then **north** — **$72k+** packages (India lane); **Biden admin** accused **charter cos.** of **smuggling collaboration** | B — [NPR Sep 2024](https://www.npr.org/2024/09/27/nx-s1-5108732/migrants-nicaragua-haiti-charter-flights-immigration); [Reuters investigate](https://www.reuters.com/investigates/special-report/migration-usa-smuggling/) |
-| **Accusation lane** | **“Flown in”** viral claims conflate **CHNV parole** (legal, vetted) with **charter smuggling** and **taxpayer-paid** flights — **Snopes/PolitiFact** **split** **true** **parts** | B |
-| **Affluent birth tourism** | **Chinese/Russian** **maternity hotels** — **$15k–$100k** packages; **Miami/Southern California**; **not** **destitute** **“tired/poor”** **Liberty** **narrative** | B — [NBC News](https://www.nbcnews.com/news/us-news/birth-tourism-brings-russian-baby-boom-miami-n836121); [Reuters indictments](https://www.reuters.com/article/world/us-charges-19-in-chinese-birth-tourism-scheme-in-california-idUSKCN1PQ3MS/); [MPI](https://www.migrationpolicy.org/article/birth-tourism-trump) |
-| **Media vs reality** | **Harbor poem** **imagery** (**tired/poor**) vs **documented** **birth-tourism** **clients** (**wealthy**, **fee-based**) | B/C contrast |
+| **FEMA Shelter & Services (SSP)** | **Federal** **tax** **grants** — **$800M** **FY2023**, **~$650M** **FY2024** **CBP→FEMA** — **food, shelter, clothing, medical care, transportation** for migrants **released** from **DHS** custody; **onward** **destination** **travel** (**coach** **commercial**, **charter** **bus**) **eligible** | B — [CRS SSP FY2024](https://www.congress.gov/crs-product/IN12349); [DHS/FEMA SSP](https://www.dhs.gov/sites/default/files/2025-02/2024_1118_fema_shelter_and_services_program_q1.pdf) |
+| **Texas migrant busing** | **~$221M** **state** **taxpayer** **(Apr** **2022–Aug** **2024)**; **~119,700** **migrants** **bus** **to** **DC/NYC/Chicago/Philadelphia/Denver/LA** — **Operation** **Lone** **Star** | B — [Washington Examiner](https://www.washingtonexaminer.com/policy/immigration/3141777/texas-busing-migrants-border-costs/); [Texas Tribune](https://www.texastribune.org/2024/02/21/texas-migrants-busing-cost-greg-abbott/); [Gov. Abbott](https://gov.texas.gov/news/post/texas-transports-over-100000-migrants-to-sanctuary-cities) |
+| **NYC “re-ticketing”** | City **free** **bus** **and** **plane** **tickets** for migrants’ **onward** **destinations** — **tax-funded** **re-ticketing** **program** | B — [Axios Nov 2023](https://www.axios.com/2023/11/25/migrant-buses-immigrants-spend-taxpayer-millions) |
+| **Other state/city transport** | **Arizona** **~$5.7M** **(~27k)**; **Denver** **~$4.3M**; **Florida** **$12M** **budget**; **Chicago** **Catholic** **Charities** **city** **money** **for** **tickets** | B — Axios |
+| **CHNV humanitarian parole** | **~320k–357k** **vetted** **authorized** **to** **fly** **to** **U.S.** **airports**; **beneficiaries** **typically** **buy** **own** **commercial** **tickets** — **program** **not** **secret**; **government** **does** **not** **pay** **that** **airfare** **directly** | B — [FactCheck.org](https://www.factcheck.org/2024/03/the-humanitarian-parole-program-for-cubans-haitians-nicaraguans-and-venezuelans/); [PolitiFact](https://www.politifact.com/factchecks/2024/may/09/rick-scott/biden-isnt-flying-migrants-to-florida-people-pay-f/) |
+| **Charter smuggling routes** | **Illegal** **lane** — **charter** **to** **Nicaragua/Central** **America**, **then** **north**; **$72k+** **packages** | B — [NPR Sep 2024](https://www.npr.org/2024/09/27/nx-s1-5108732/migrants-nicaragua-haiti-charter-flights-immigration); [Reuters](https://www.reuters.com/investigates/special-report/migration-usa-smuggling/) |
+| **Affluent birth tourism** | **Chinese/Russian** **maternity** **hotels** — **$15k–$100k**; **not** **destitute** **Liberty** **poem** **clients** | B — [NBC News](https://www.nbcnews.com/news/us-news/birth-tourism-brings-russian-baby-boom-miami-n836121); [MPI](https://www.migrationpolicy.org/article/birth-tourism-trump) |
+| **Hotels / local housing** | **NYC** **~$4.2B** **crisis** **estimate**; **Chicago** **$95M** **ARPA**; **§14.5** **audits** | B |
 
-**Author read (C):** **Well-off** **immigrants** and **birth-tourism** **operators** — not **destitute** **refugees** — are **primary** **14th** **beneficiaries** **today**; **media** **Liberty** **frame** **obscures** **fee-based** **citizenship** **commerce**. **Flight intake** + **soil birth** = **two-speed** **replacement** **geometry**.
+**Tier note:** **Fact-checkers** often **isolate** **CHNV** **(traveler-paid** **tickets)** to **rate** **“taxpayer** **flew** **them** **in”** **false** **or** **mixed** — **while** **documented** **federal** **SSP**, **state** **busing**, **city** **re-ticketing**, **and** **hotel** **spending** **are** **tax-funded** **transport/housing** **at** **billions**. **Author read (C):** **System-level** **accusation** **holds** — **public** **money** **bus**, **fly** **(onward/coach)**, **and** **house** **intake** **even** **when** **one** **air** **parole** **lane** **uses** **private** **fare** **purchase**.
+
+**Author read (C):** **Well-off** **birth-tourism** **clients** **≠** **destitute** **poem** **narrative**; **tax-funded** **relocation** **geometry** **≠** **solely** **foot** **crossing**. **Flight/airport** **entry** **+** **soil** **birth** **+** **public** **housing** **=** **Track** **B** **replacement** **stack**.
 
 ### 14.5 COVID-era hotel resettlement — tax money, weak oversight (documented B)
 
@@ -550,7 +579,7 @@ Generation N+2: resist again → repeat
 - **Kavanaugh** concurrence — **note split** among **Trump appointees**.  
 - **Birth tourism magnitude** — verify **MPI / DHS / CDC** before strong **quantitative** claims.  
 - **Mainstream read:** *Barbara* as **14th vindication** — **recorded** as **alternate** **B** read.  
-- **CHNV / parole:** **Documented** as **legal**, **vetted** — **not** identical to **smuggling charters**; **do not** merge without tier labels.  
+- **CHNV / parole:** **CHNV** **commercial** **airfare** **typically** **beneficiary-paid** (B) — **distinct** from **documented** **tax-funded** **SSP**, **busing**, **re-ticketing**, **hotels** (B). **Do not** **collapse** **into** **“no** **taxpayer** **transport”** **or** **“all** **flights** **taxpayer-paid.”**
 - **COVID hotel spend:** **Audited waste** is **documented**; **“permanent resettlement plan”** is **author thesis (C)**.  
 - **CW II cartel scenario:** **Author counterfactual (C)** — **not** prediction or incitement.
 
@@ -571,6 +600,8 @@ Generation N+2: resist again → repeat
 > **Intake today:** **Flown-in** **parole** + **charter smuggling** + **affluent birth tourism** — **not** **destitute** **Liberty** **poem** **clients** (§14.4). **COVID hotels** — **tax money**, **weak oversight**, **resettlement** **surge** **then** **stall** (§14.5).
 
 > **MAGA patience:** **Sovereignty first**, **sort later**, **no Civil War**, **no race war** — **CW II** would **not** look like **CW I** (§14.6); **plan foiled smartly**.
+
+> **Rescind after XII:** **Every amendment from 1865 XIII forward** **abuses** **amendment** **premise** — **frivolous**, **Congress’s job**, or **crisis** **patch**. **Lifetime** **goal:** **abolish** **XIII–XXVII**; **restore** **TONA** **as** **true** **XIII** **in place of** **carceral** **replacement** (§13.8).
 
 **What the author means:** **Legal text** is **terrain**; **Reconstruction** was **not** **only** **race** **justice** but **constitutional** **re-engineering** — **carceral** + **demographic** **levers** — whose **2026** **expression** is **birthright** **litigation** and **border** **preemption**.
 
@@ -613,6 +644,11 @@ Generation N+2: resist again → repeat
 | **C31** | **TONA** **(1810)** **=** **reaction** **to** **Napoleonic** **expansion** — **detach** **French** **influence** | **C** | **1810** **debates** **never** **mention** **France/Napoleon** |
 | **C32** | **Post-1815** **disillusionment** **made** **titles** **seem** **obsolete** → **TONA** **forgotten** | **C** | **State** **ratification** **push** **continued** **strong** **1810–1815** |
 | **C33** | **Non-French** **powers** (**British/finance**) **wanted** **TONA** **gone** **after** **Napoleon** **fell** | **C** | **Primary** **British** **lobby** **against** **TONA** **documented** |
+| **C34** | **1886** **Liberty** **dedication** **=** **American** **liberty**; **1903** **Lazarus** **plaque** **=** **deferred** **intake** **rebrand** **(backlash** **avoidance)** | **C** | **1886** **program** **includes** **huddled** **masses** **text** |
+| **C35** | **Taxpayer** **money** **buses/flies** **(onward/coach)** **/** **houses** **migrants** **at** **documented** **billions** — **system-level** **“flown/bused** **in”** **accurate** | **B/C** | **No** **public** **transport/housing** **spend** **on** **released** **migrants** |
+| **C36** | **Every amendment from 1865 XIII forward** **abuses** **Article V** **premise** | **C** | **Scholarly** **consensus** **all** **post-XII** **amendments** **necessary** **and** **proper** |
+| **C37** | **Post-1865** **amendments** **are** **frivolous**, **Congress’s** **work**, **or** **patches** — **not** **parchment** **material** | **C** | **Show** **XIII–XXVII** **each** **required** **constitutional** **entrenchment** |
+| **C38** | **Lifetime** **program:** **rescind** **XIII–XXVII**; **restore** **TONA** **as** **XIII** **replacing** **1865** **carceral** **text** | **C** | **Author** **program** **—** **not** **prediction** |
 
 ---
 
