@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-02T15:21:40.932Z",
+    "date": "2026-07-02T18:49:34.890Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/20th-21st-century-catalog.md",
+        "href": "/events/false_flag/investigations/20th-21st-century-catalog"
+      },
+      {
+        "status": "M",
+        "path": "events/jfk/agent.md",
+        "href": "/events/jfk/agent"
+      },
+      {
+        "status": "M",
+        "path": "events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md",
+        "href": "/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-02T15:21:39.000Z",
+    "message": "Narrow Norman compartmentalization claim to insult-amnesia gap only.",
     "files": [
       {
         "status": "M",
@@ -685,238 +708,6 @@
       {
         "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
         "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. **TL;DR check:** grep the blockquote for `http`, `Patreon`, `$`, `§`, and dossier-style evidence — **move** hits to the body. **No “narrative spine” / companion-dossier routing** between the hook and the first `##` body section — that belongs in **`## Where next`** (see Shape step 6). Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Series installments:** read the **prior installment** in full; cut shared frame that Installment I already taught. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). **Grep for local/internal paths** — reject before ship: `/home/`, `~/`, `/media/`, `/docs/debate-notes`, `~/dev/wget`, bare recording filenames. Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-01T13:17:37.000Z",
-    "message": "Add Gastaldi 1548 pre-MFEE map evidence for Asia–America continuity.",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/INVESTIGATIONS_DEEP_DIVE.md",
-        "href": "/docs/INVESTIGATIONS_DEEP_DIVE"
-      },
-      {
-        "status": "M",
-        "path": "docs/debate-notes/norman-911revision-live-debate-debrief.md",
-        "href": "/docs/debate-notes/norman-911revision-live-debate-debrief"
-      },
-      {
-        "status": "M",
-        "path": "docs/debate-notes/norman-911revision-live-debate.md",
-        "href": "/docs/debate-notes/norman-911revision-live-debate"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-substack-thread-war/README.md",
-        "href": "/docs/debate-notes/norman-substack-thread-war/README"
-      },
-      {
-        "status": "A",
-        "path": "governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md",
-        "href": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/constitution/page.md",
-        "href": "/governance/constitution"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/us-civil-war-investigation.md",
-        "href": "/governance/war/investigations/us-civil-war-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/mudflood/investigations/mfee-investigation.md",
-        "href": "/history/mudflood/investigations/mfee-investigation"
-      },
-      {
-        "status": "M",
-        "path": "history/mudflood/investigations/tartarian-maps-investigation.md",
-        "href": "/history/mudflood/investigations/tartarian-maps-investigation"
-      },
-      {
-        "status": "A",
-        "path": "history/mudflood/map_gastaldi_1548_carta_marina_nova_tabula.jpg",
-        "href": "/history/mudflood/map_gastaldi_1548_carta_marina_nova_tabula.jpg"
-      },
-      {
-        "status": "A",
-        "path": "history/mudflood/map_gastaldi_1548_universale_novo.jpg",
-        "href": "/history/mudflood/map_gastaldi_1548_universale_novo.jpg"
-      },
-      {
-        "status": "M",
-        "path": "history/mudflood/page.md",
-        "href": "/history/mudflood"
-      },
-      {
-        "status": "M",
-        "path": "page.md",
-        "href": "/page"
-      }
-    ],
-    "images": [
-      {
-        "src": "/history/mudflood/map_gastaldi_1548_carta_marina_nova_tabula.jpg"
-      },
-      {
-        "src": "/history/mudflood/map_gastaldi_1548_universale_novo.jpg"
-      },
-      {
-        "src": "https://www.sessionlab.com/methods/the-journalistic-six)",
-        "alt": "The MudFlood Energetic Event Hypothesis proposes a solution to the mystery of the world-wide Mud-Flood event and its\nalleged cover-up while attempting to answer\nthe [Journalistic Six"
-      },
-      {
-        "src": "/history/mudflood/mudflood_turkey.jpg",
-        "alt": "MudFlood Evidence: Buried Great Temple of Artemis"
-      },
-      {
-        "src": "/history/chronology/pyramids/history_buried_pyramid.jpg",
-        "alt": "MudFlood Evidence: Buried Pyramids in Bosnia"
-      },
-      {
-        "src": "https://en.wikipedia.org/wiki/Laser_weapon)",
-        "alt": "## Hypothesis: The MudFlood was caused by Energy Weapons on Mars\n\nThe collection of memories known as the “MudFlood” may have come from a series of catastrophic events that occurred\nafter the Pugachev Rebellion of 1773 when strategic positions on the Earth were targeted by\nlarge-scale [Directed Energy Weapons"
-      },
-      {
-        "src": "/history/mudflood/blood_rain2.jpg",
-        "alt": "MudFlood Evidence: Bloodrain Paintings"
-      },
-      {
-        "src": "/history/mudflood/mudflood_buried_buildings7.jpg",
-        "alt": "The image shows an excavation site at what is believed to be the Chattar Manzil in Lucknow, India,\n  which is a historical structure that has been the subject of a MudFlood investigations"
-      },
-      {
-        "src": "https://www.amazon.com/History-Fiction-Science-Chronology-No/dp/2913621058)",
-        "alt": "[History: Fiction or Science?"
-      },
-      {
-        "src": "https://www.safireproject.com/)](/cosmos/cosmology/electric_universe/electric_universe.jpg",
-        "alt": "Much of the material considered by the Electric Universe is peer-reviewed,\n  it's theories have tested favourably in the [Safire Project"
-      },
-      {
-        "src": "/cosmos/mars/mars_life.jpg",
-        "alt": "“It is a direct sequitur from this that the planet is at present the abode of intelligent constructive life,\n  I may say in this connection that the theory of such life upon Mars was in no way an a-priori hypothesis on my part,\n  but deduced from the outcome of observation, and that my observations since have fully confirmed it.\n  No other supposition is consonant with all the facts here.” - Percival Lowell, New York Times (1907)"
-      },
-      {
-        "src": "/cosmos/mars/mars_life2.jpg",
-        "alt": "An unsourced newspaper article claims that artificial canals on Mars are full of fish"
-      },
-      {
-        "src": "/influence/predictive_programming/marvin.jpg",
-        "alt": "Science Fiction programs viewers to understand that all presented storylines and technology are completely made-up\n  and have no relationship to real life."
-      },
-      {
-        "src": "/history/mudflood/map_fomenko.jpg",
-        "alt": "\"USA Has Issues with Maps of 18th Century\" by Anatoly Fomenko and Gleb Nosovskiy.\n  It is part of the \"History: Fiction or Science?\" series."
-      },
-      {
-        "src": "/history/mudflood/map_california_island.jpg",
-        "alt": "This is a map of North America from the 1700s.\n  It shows the various colonies that existed at the time, as well as the *Island* of California\n  and no sign of the Grand Canyon, or Colorado River or Rockies"
-      },
-      {
-        "src": "/governance/genocide/giants_faeries/giants_news.jpg",
-        "alt": "A collection of old newspaper clippings reporting the discovery of\n  giant skeletons in various locations across North America."
-      },
-      {
-        "src": "/governance/genocide/giants_faeries/genocide_giants9.jpg",
-        "alt": "Giant skeletons found around the world range in size from 6 to 36 feet,\n  with the smallest figure representing a present-day man"
-      },
-      {
-        "src": "/history/chronology/redacted.jpg",
-        "alt": "The Deep State is defined as an international cabal,\n  typically influential members of government agencies and the military,\n  believed to be involved in the secret manipulation and control of government policies\n  around the world."
-      },
-      {
-        "src": "/history/chronology/saturn/cosmic_mountain.jpg",
-        "alt": "The cosmic mountain is celebrated around the world,\n  and described as a pillar of fire and light rising along the world axis;\n  as a radiant city or temple of heaven, as the prototype for any sacred space on earth."
-      },
-      {
-        "src": "/history/chronology/pyramids/pyramids_around_the_world.jpg",
-        "alt": "A *pyramidal* Empire is any empire that uses pyramids to communicate, headquarter, and maintain order.\n  Such an empire existed in every age of the Earth - Golden, Dark, and Modern."
-      },
-      {
-        "src": "/influence/conspiracy/vatican_suppressed_documents.jpg",
-        "alt": "The Vatican Apostolic Archive has been estimated to contain 85 kilometres (53 mi) of shelving,\n  with 35,000 volumes in the selective catalogue alone."
-      },
-      {
-        "src": "/cosmos/flat_earth/flat_earth_controlled_opposition2.jpg",
-        "alt": "There is perhaps no greater Internet-wide PSYOP than the CIA-directed Flat Earth Conspiracy.\n  Like other controlled opposition projects, Flat Earth Theory is a divide-and-conquer strategy designed to split\n  the conspiracy community away from those it is trying to convince."
-      },
-      {
-        "src": "https://www.goodreads.com/book/show/26234.Secret_Societies_and_Psychological_Warfare)",
-        "alt": "[Secret Societies and Psychological Warfare"
-      },
-      {
-        "src": "/history/mudflood/mudflood_buried_buildings.jpg",
-        "alt": "A cataclysmic event buried many old buildings and civilizations under layers of mud in recent centuries."
-      },
-      {
-        "src": "/history/mudflood/mudflood_burried_statues.jpg",
-        "alt": "The Moai statues of Easter Island appear toppled and tilted."
-      },
-      {
-        "src": "/influence/predictive_programming/simpsons_space_laser.jpg",
-        "alt": "In *The Simpsons* Season 8 Episode 1 \"Treehouse of Horror VII\",\n  a short called \"Citizen Kang\" is predictive programming featuring part of a planet's population being\n  enslaved by an alien race in order to build a giant 'death' ray pointed at another planet."
-      },
-      {
-        "src": "https://oll.libertyfund.org/title/wade-extraordinary-black-book-an-exposition-of-abuses-in-church-and-state-1832)",
-        "alt": "The [The Extraordinary Black Book"
-      },
-      {
-        "src": "/history/chronology/tartaria/tartarian_structures.jpg",
-        "alt": "Tartarian Neoclassical architecture found all over the world is evidence of a previous Empire."
-      },
-      {
-        "src": "/history/mudflood/secondary_negative_discharge.jpg",
-        "alt": "The 'Ring of Fire' is made up of volcanoes around the world.\n  Factoring in the Electric Universe Theory, Andrew Hall describes how these volcano regions were formed as a result of\n  a negative electric scarring."
-      },
-      {
-        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
-        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
-      },
-      {
-        "src": "https://www.simplypsychology.org/transactional-analysis-eric-berne.html)",
-        "alt": "Predictive programming exists in TV, movies, books, plays, and video games.\n  [Transactional analysis"
-      },
-      {
-        "src": "https://www.electronics-tutorials.ws/electromagnetism/electromagnetic-induction.html),",
-        "alt": "Contemplating the nature\n  of [electromagnetic induction"
-      },
-      {
-        "src": "/history/mudflood/1557_lycosthenes_rain_of_stones_meteorite.jpg",
-        "alt": "Woodcut with   early hand colouring from Conrad Lycosthenes' (Chronicle of Prodigies and Omens) - 'Prodigiorum ac Ostentorum Chronicon'\n  Published Hendricus Petri, Basel, allegedly 1557. This image appears to show a shower of meteorites - Lycosthenes notes\n  they are **stones** and not hail."
-      },
-      {
-        "src": "/history/mudflood/1844_blood_rain.jpg",
-        "alt": "Ehrenberg's 1844 paper discusses his findings on atmospheric dust and its connection to blood rain"
-      },
-      {
-        "src": "/history/mudflood/blood_rain_priest_1888.jpg",
-        "alt": "A Jesuit Priest takes advantage of the frightened and confused population as the MudRain pours:\n  `“God is punishing you”`"
-      },
-      {
-        "src": "https://hekint.org/2018/03/29/the-york-retreat/)](/history/mudflood/YorkRetreat.jpg",
-        "alt": "The scale of deaths in the York Asylum became a national scandal since, in the course of the investigation,\n  it became apparent that the level of mortality had been deliberately under-reported with the complicity of physicians.\n  [source"
-      },
-      {
-        "src": "/governance/genocide/carbon_spike_774.jpg",
-        "alt": "The 774–775 CE carbon-14 spike is one of several Miyake events and it produced the largest and most rapid rise in carbon-14 ever recorded"
-      },
-      {
-        "src": "/influence/conspiracy/embedding.jpg",
-        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
-      },
-      {
-        "src": "/influence/conspiracy/scientific_truth.jpg",
-        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
-      },
-      {
-        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
-        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
       }
     ]
   }

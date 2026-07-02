@@ -112,10 +112,21 @@ See [Netanyahu Faked Death / Shiva Rumors Investigation](netanyahu-faked-death-s
 ### Israel — Ariel Sharon (Gaza 2005, coma, mediated “body politic”)
 See [Ariel Sharon — Gaza, Coma, Controlled-Opposition Threads](ariel-sharon-gaza-coma-controlled-opposition-investigation.md). **Documented:** disengagement timeline, Philadelphi/legal-debate summary, stroke-to-death arc, **Noam Braslavsky** 2010 Kishon Gallery installation. **Speculative:** British/deep-state **pattern** fit, **rhyme** with [CIA Iran pipeline thesis](/governance/war/investigations/cia-investigation.md) (withdrawal → militant-filled space). Not scored as proof of recruitment or substitution.
 
+### JFK / RFK — Staged assassination hoax (1963, 1968)
+**Project thesis:** paired Kennedy “assassinations” as **public death theater** under **family compliance** pressure (Pavlick anchor → car-party fork). RFK forensic wedge: Hartwell **slug vs .22**. **Pre-1963 precedents** (Business Plot, health concealments, Pavlick) in investigation **§1.1**; **Nixon inverse exit** (Watergate containment) in **§1.2**; **legal gaps / autopen bills** in **§1.3**.
+
+**Sources:** [JFK & RFK staged assassination investigation](../../jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md); [agent.md](../../jfk/agent.md); Hartwell *Who Shot RFK* (2025).
+
+### Nixon / Watergate — Executive containment exit (1972–1974)
+**Project thesis (author):** inverse of Kennedy compliance — **managed scandal theater** to **remove** a president **off-script** from the war board; **Dean** flip, **tapes**, **impeachment math**, **resignation**. Pairs with **Ellsberg antibody** (1971). Not mainstream hoax adjudication.
+
+**Sources:** [JFK investigation §1.2](../../jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md#12-post-kennedy-inverse-exit--nixon--watergate); [good-actor antibody](../../false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).
+
 ---
 
 ## Cross-Reference
 
+- [JFK & RFK Staged Assassination Investigation](../../jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md)
 - [False Flags](../a.md)
 - [9/11 Investigation](09-11-investigation.md)
 - [Iran 2026 Propaganda Thesis](iran-2026-propaganda-thesis.md)
