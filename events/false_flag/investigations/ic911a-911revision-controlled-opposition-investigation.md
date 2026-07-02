@@ -1,6 +1,6 @@
 # Investigation: ic911a.org / 9/11 Revisionist — Accountability Branding, DEW Hangout, and Movement Fracture
 
-> **TL;DR:** **ic911a.org** (“**International Center for 9/11 Accountability**”) is a **WordPress** **placeholder** (**“Coming Soon”** since **Feb 2024**; last edit **Mar 2024**) with **PayPal donate** only — **no** **petition**, **no** **research hub**, **no** **IRS** **filings**. **Real** **output** lives on **[911revision.substack.com](https://911revision.substack.com/)** (**Norman**, **South Africa**; **200+** articles per self-description). **Project CO read:** **DEW / Judy Wood / Bob Greenyer LENR** **extreme** **hangout** that **bundles** **no-planes** with **Hutchison** **woo** so **respectable** **lanes** (**Gage**, **AE911Truth**, **ic911.org**) **reject** **the** **whole** **package** — **poison-by-adjacency** ([Gage §4.3](./richard-gage-ae911truth-controlled-demolition-investigation.md)). **Tier 1:** mainstream **debunks** **DEW/dustification** **physics**. **Tier 2:** **movement** **debunk** — **accountability** **theater**, **donation** **funnel**, **perpetual** **Gage/thermite** **wars**, **empty** **institutional** **CTA**. **Wget mirror:** investigator notes (local path). **Not** **the** **same** **entity** as **[ic911.org](https://ic911.org/)** (Ted Walter / **International Center for 9/11 Justice**).
+> **TL;DR:** **ic911a.org** (“**International Center for 9/11 Accountability**”) is a **WordPress** **placeholder** (**“Coming Soon”** since **Feb 2024**; last edit **Mar 2024**) with **PayPal donate** only — **no** **petition**, **no** **research hub**, **no** **IRS** **filings**. **Real** **output** lives on **[911revision.substack.com](https://911revision.substack.com/)** (**Norman**, **South Africa**; **200+** articles per self-description). **Project CO read:** **DEW / Judy Wood / Bob Greenyer LENR** **extreme** **hangout** that **bundles** **no-planes** with **Hutchison** **woo** so **respectable** **lanes** (**Gage**, **AE911Truth**, **ic911.org**) **reject** **the** **whole** **package** — **poison-by-adjacency** ([Gage §4.3](./richard-gage-ae911truth-controlled-demolition-investigation.md)). **Key 2026 cross-read:** [**§5.7 Alef**](/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) — **exact** **debunk-host** **pattern** **match** **at** **industrial** **scale**; **cross-border** **distance** **=** **prosecution** **vacuum**. **Tier 1:** mainstream **debunks** **DEW/dustification** **physics**. **Tier 2:** **movement** **debunk** — **accountability** **theater**, **donation** **funnel**, **perpetual** **Gage/thermite** **wars**, **empty** **institutional** **CTA**. **Wget mirror:** investigator notes (local path). **Not** **the** **same** **entity** as **[ic911.org](https://ic911.org/)** (Ted Walter / **International Center for 9/11 Justice**).
 
 **Status:** Open — site mirror + Substack corpus scan (Jun 2026).  
 **Date:** 2026-06-25
@@ -13,7 +13,7 @@
 2. **Who runs it (Norman / 9/11 Revisionist)** → [§2](#2-operator--norman--911revision-substack)
 3. **Claim inventory (DEW, planes, CD)** → [§3](#3-claim-inventory-from-corpus)
 4. **Tier 1 — mainstream debunk** → [§4](#4-tier-1--mainstream-debunk)
-5. **Tier 2 — movement / CO debunk** → [§5](#5-tier-2--movement-controlled-opposition-read) (incl. [§5.6 DEW path fork](#56-dew-authors-accountability-path-fork-court-vs-501c3))
+5. **Tier 2 — movement / CO debunk** → [§5](#5-tier-2--movement-controlled-opposition-read) (**start** [§5.7 Alef — exact pattern + cross-border impunity](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026); [§5.6 DEW path fork](#56-dew-authors-accountability-path-fork-court-vs-501c3))
 6. **Name collision: ic911a vs ic911** → [§6](#6-ic911a-vs-ic911org--justice-vs-accountability)
 7. **Two-truth table (project)** → [§7](#7-contradictory-truths-project-routing)
 8. **Norman citation stack (tier debunks)** → [§9](#9-norman-citation-stack--tier-debunks)
@@ -225,6 +225,65 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 **Epistemic routing:** **Sincere** **belief** **in** **DEW** **does** **not** **rule** **out** **structural** **CO** **function**. **Filing** **Hutchison** **DEW** **qui** **tam** **after** **RFC** **denial** **is** **either** **strategic** **self-sabotage** **or** **CO** **—** **indistinguishable** **in** **outcome**. **Prefer** **the** **outcome** **read** **until** **primaries** **show** **handler** **intent**.
 
 **Cross-read:** [Gage §4.5 — DEW accountability path fork](./richard-gage-ae911truth-controlled-demolition-investigation.md#45-dew-lane-accountability-path-fork-court-theater-vs-501c3-envelope) · [§9.2–§9.3](#92-dr-morgan-reynolds--2007-rfc-jetliner-animations) **docket** **detail**
+
+### 5.7 Harassment industry adjacency — Alef / scam-center grammar (2026)
+
+**Status:** **Key cross-read** — **exact pattern match** for debunk-host **containment → slot → extraction** choreography; **cross-border impunity** as **primary** **enabling** **factor**.
+
+**Purpose:** Document **exact behavioral overlap** between **movement CO debunk-host** behavior (Norman / ic911a lane) and **industrial** **online** **harassment** **economies** exposed in the **2026** **Alef** **/ Ukrainian** **call-center** **fraud** **stack** — **not** a claim of **shared** **payroll** or **handler**.
+
+**Author thesis (highlight):** On the **modern internet**, **geography** **matters** **less** than **jurisdictional** **separation** — the ability to **commit** **harm** **from** **abroad** so victims **at** **home** face a **prosecution** **vacuum** (**slow** **MLAT**, **weak** **platform** **subpoenas**, **shell** **fronts**, **optional** **local** **ownership** **of** **the** **file**). **Alef** **=** **wallet** **extraction** **at** **scale**; **debunk-host** **lane** **=** **coalition** **time** **extraction** **at** **movement** **scale** — **same** **choreography**, **same** **distance** **advantage**.
+
+**Reader essay (author voice):** [**Debunk host, scheduled slot — § The Alef case**](/influence/controlled_opposition/debunk-host-scheduled-slot.md#the-alef-case--exact-pattern-cross-border-impunity).
+
+#### Primary sources (Jun 2026)
+
+| Source | What it contributes | Tier |
+|--------|---------------------|------|
+| [RT — *Mask Of Deception: The Alef Scam*](https://www.rt.com/shows/documentary/642120-alef-family-criminal-empire/) / [RTD stream](https://en.rtdoc.tv/films/2899-mask-of-deception-the-alef-scam) | **Franchised** **call-center** **empire**, **spoofing**, **fake** **investment** **platforms**, **fabricated** **video** **advisers**, victim slang **“mammoths”** / **“suckers”**, **threats** **after** **pushback** (**Vittorio** **Rino** thread) | **B** — **state-adjacent** **packaging**; **cross-check** |
+| [Stop UA Scam](https://stopuascam.com/) / [@Stop_UA_Scam](https://t.me/Stop_UA_Scam) | **Beneficiary** **mapping** — **~170** **centers**, **10k–15k** **operators**; **Alef** **Group** / **Yermolaev** **family** as **network** **anchor** | **B** — **investigative** **project**; **verify** **per** **claim** |
+| [GI-TOC — *Scammers’ Paradise?* (Apr 2026)](https://globalinitiative.net/wp-content/uploads/2026/04/Scammers-paradise-Assessing-scam-centres-in-Eurasia-GI-TOC-April-2026.pdf) | **Regional** **call-center** **economy**; **shared** **“mammoth”** **victim** **slang** in **RU/UA** **labor** **markets**; **1-on-1** **interview** **gate** to **penetrate** **Russian** **floors** | **A** — **policy** **research** |
+| **Estonian** **prosecution** — **Artur** **Yermolaev** (**Apr** **2026**) | **“Cosmo”** **network** **2017–2022**; **~€100M** **losses**; **€5.4M** **Estonian** **victims**; **plea** **→** **€8.5M** **payment** **→** **release** | **A** — **court** **record** **(reporting)** |
+| **Zelensky** **sanctions** — **Vadym** **Yermolaev** (**Dec** **2023**) | **Asset** **freeze** / **license** **revocation** — **reported** **limited** **operational** **effect** | **B** — **executive** **decree** **+** **journalism** |
+
+**Discipline:** **RT** **coverage** **serves** **Russian** **state** **narrative** **interests** in **2026**; **use** for **victim** **stories** **and** **industry** **description** **only** **where** **corroborated**. **Versobank** **(2013–2018)** **laundering** **history** and **SBU** **2019** **VAT** **case** appear in **Stop** **UA** **Scam** **/ Pravda** **follow-ons** — **not** **re-litigated** **here**.
+
+#### Structural rhyme table — scam floor vs debunk-host lane
+
+| Mechanism | Alef / call-center industry (2026 read) | Norman / ic911a debunk-host lane |
+|-----------|----------------------------------------|----------------------------------|
+| **Respectable front** | **Alef** **Group** — construction, alcohol, agribusiness | **ic911a.org** — “International Center,” **Coming Soon** **2+** **years** |
+| **Text containment** | **Scripted** **calls**, **chat** **spam**, **insult** **registers** **in** **floor** **chats** | **Substack** **taunts** (**munchkin**, **sweetie**, **crybaby**), **copy-paste** **blocks** |
+| **Scheduled credibility** | **Video** **“adviser,”** **calendar** **withdrawal** **meetings** | **Sunday** **Zoom** **slot**, **friendly** **evangelist**, **bibliography** |
+| **Homework loop** | **Deposit** **more** **to** **“unlock”** **profits** | **Read** **WDTTG** **3×**, **footer** **stack**, **200+** **post** **wars** |
+| **Victim / target slang** | **“Mammoth,”** **“sucker”** **(internal)** | **Insult** **vocabulary** **(public** **thread)** |
+| **Escalation on pushback** | **Threats**, **blackmail** **(documented** **victim** **threads)** | **Notification** **spam**, **1-on-1** **bait**, **walk-off** **on** **Zoom** |
+| **Franchise / mesh** | **~170** **centers**, **office** **“grids,”** **Cosmo** **/ Enigma** **/ Prism** **sites** **(reporting)** | **DEW** **footer** **mesh** — **Wood**, **Reynolds**, **Johnson**, **Greenyer**, **Substack** **taunt** **layer** |
+| **Impunity signal** | **€8.5M** **buyout** **vs** **€100M** **theft**; **sanctions** **without** **shutdown** | **Accountability** **brand** **without** **petition** **/ hub** **/ 990** |
+| **Cross-border shield** | **Operators** **UA**; **victims** **EU/RU/CIS**; **rare** **cooperative** **docket** **(Estonia)** **→** **release** | **Operator** **ZA** **(self-ID)**; **global** **English** **audience**; **Substack/PayPal/Zoom** **jurisdiction** **strip** |
+
+#### Cross-border impunity — distance as product feature
+
+**Project thesis:** **Distance** **≠** **“foreign”** **on** **a** **map**. **Separation** **=** **structural** **non-prosecution** **at** **the** **victim’s** **home** **court**.
+
+| Factor | Alef / Cosmo network (2026 read) | Norman / ic911a debunk-host lane |
+|--------|----------------------------------|----------------------------------|
+| **Operator geography** | **Ukraine** **(Dnipro/Kyiv** **floors** **per** **reporting)** | **South** **Africa** **(Substack** **self-ID)** |
+| **Target geography** | **EU**, **Russia**, **CIS**, **Turkey**, **Kazakhstan** **(Estonian** **indictment** **lists)** | **Global** **English** **9/11** **truth** **readers** |
+| **Platform layer** | **Spoofed** **calls**, **fake** **investment** **UI**, **chat** **video** **deepfake** | **Substack**, **DMs**, **Zoom**, **PayPal** |
+| **Trace-back friction** | **Offshore** **holdings** **(Austria** **reporting)**, **shell** **Baltic** **firms**, **Versobank** **history** | **Opaque** **PayPal**, **no** **990**, **splash** **page** **only** |
+| **Prosecution outcome** | **One** **EU** **thread** **→** **conviction** **→** **€8.5M** **buyout** **→** **expulsion**; **most** **victims** **unserved** | **No** **movement** **venue** **for** **fracture** **harms**; **debate** **prevention** **unpriced** |
+| **Sanctions / enforcement** | **Zelensky** **Dec** **2023** **sanctions** **—** **reported** **continued** **ops** | **Platform** **ToS** **only**; **no** **institutional** **accountability** **artifact** |
+
+**GI-TOC (Apr 2026)** adds **regional** **context:** **geopolitical** **fault** **lines** **reduce** **law-enforcement** **cooperation**; **scam** **centers** **exploit** **that** **vacuum** — **“a** **scammer’s** **paradise.”** **Author** **read:** **movement** **fracture** **operators** **inherit** **the** **same** **vacuum** **without** **needing** **a** **call** **floor** — **platform** **engagement** **+** **cross-border** **operator** **+** **no** **deliverable** **accountability** **product** **=** **optional** **prosecution**.
+
+#### Project read
+
+> **Next-level** **organized** **crime** **in** **2026** **is** **not** **only** **wallet** **extraction** — it is **regulated** **engagement**: **who** **may** **fight** **you**, **where**, **with** **what** **tone**, **and** **whether** **text** **counts** **as** **debate**. **Alef** **and** **the** **debunk-host** **lane** **share** **identical** **choreography** **across** **different** **agendas** (**fracture** **vs** **fraud**). **The** **main** **shield** **is** **not** **anonymity** **alone** — it is **cross-border** **distance** that makes **home-court** **prosecution** **rare**, **slow**, **or** **priced** **out** (**€8.5M** **vs** **€100M**). **GI-TOC** **warns** **geopolitical** **cover** **protects** **scam** **grids**; **movement** **fracture** **operators** **benefit** **from** **analogous** **fog** (**Gage** **vs** **DEW** **vs** **no-planes** **never** **resolving**).
+
+**Epistemic routing:** **Overlap** **=** **exact** **pattern** **match** **at** **C** **(structural)** **unless** **primaries** **link** **named** **operators**. **Cross-border** **impunity** **=** **author** **thesis** **on** **jurisdiction**, **not** **automatic** **fraud** **finding** **against** **movement** **personalities**. **Do** **not** **merge** **Ukraine** **fraud** **networks** **with** **9/11** **truth** **personalities** **without** **docket**.
+
+**Cross-read:** [§9.6 Live debate read](#96-live-debate-read-jun-2026) · [debunk-host essay](/influence/controlled_opposition/debunk-host-scheduled-slot.md)
 
 ---
 
@@ -438,7 +497,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 ## 9.6 Live debate read (Jun 2026)
 
-**Jun 28, 2026** — author live call with Norman (@911revision), ~52 min, recorded. **Context:** ~**15 years** 9/11 research **off-platform**; author **new to Substack** / truth-movement comment wars — call = **movement fieldwork**, not insider memoir. **Reader essay (author voice, no debate-transcript quotes):** [**Debunk host, scheduled slot**](/influence/controlled_opposition/debunk-host-scheduled-slot.md). **Interaction pattern:** Substack **taunt-without-engage** (munchkin/sweetie/crybaby, homework loops) → **scheduled Sunday slot** → video **persona mismatch** (friendly evangelist, bibliography, no demonstrated read of author’s Substack work). **Debrief + evidence:** [norman-911revision-live-debate-debrief](/docs/debate-notes/norman-911revision-live-debate-debrief.md) · [thread-war archive](/docs/debate-notes/norman-substack-thread-war/evidence-index.md). **Discipline:** automated transcript **unreliable for speaker attribution** — essay uses paraphrase + published Norman corpus only.
+**Jun 28, 2026** — author live call with Norman (@911revision), ~52 min, recorded. **Context:** ~**15 years** 9/11 research **off-platform**; author **new to Substack** / truth-movement comment wars — call = **movement fieldwork**, not insider memoir. **Reader essay (author voice, no debate-transcript quotes):** [**Debunk host, scheduled slot**](/influence/controlled_opposition/debunk-host-scheduled-slot.md). **Interaction pattern:** Substack **taunt-without-engage** (munchkin/sweetie/crybaby, homework loops) → **scheduled Sunday slot** → video **persona mismatch** (friendly evangelist, bibliography, no demonstrated read of author’s Substack work). **Harassment-industry adjacency (2026):** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) — **Alef** **/ scam-center** **grammar** **vs** **debunk-host** **lane** (**structural** **rhyme**). **Debrief + evidence:** [norman-911revision-live-debate-debrief](/docs/debate-notes/norman-911revision-live-debate-debrief.md) · [thread-war archive](/docs/debate-notes/norman-substack-thread-war/evidence-index.md). **Discipline:** automated transcript **unreliable for speaker attribution** — essay uses paraphrase + published Norman corpus only.
 
 ---
 
@@ -452,6 +511,8 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 | Q4 | **Petition** **history** — **any** **off-domain** **Change.org** / **congress** **routing**? |
 | Q5 | **Norman** ↔ **Andrew Johnson** ↔ **Wood** **financial** **ties**? |
 | Q6 | Download **top** **50** **Substack** **posts** to **wget** for **full-text** **grep** (**DEW**, **no-planes**, **COINTELPRO** **claims**) |
+| Q7 | **Any** **documented** **overlap** between **Norman** **lane** **operators** **and** **commercial** **engagement** **/ VA** **firms** **(scam-adjacent** **or** **political)** — **beyond** **exact** **pattern** **match** **in** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026)? |
+| Q8 | **MLAT** **/ platform** **subpoena** **paths** for **Substack** **+** **PayPal** **+** **Zoom** **harassment** **against** **US** **/ EU** **targets** **by** **ZA** **operator** — **practical** **prosecution** **vacuum** **audit** |
 
 ---
 
@@ -462,10 +523,11 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 | Gage / AE911Truth / DEW hangout | [richard-gage-ae911truth-controlled-demolition-investigation](./richard-gage-ae911truth-controlled-demolition-investigation.md) |
 | 9/11 good-actor thesis | [09-11-investigation](./09-11-investigation.md) |
 | Controlled opposition hub | [influence/controlled_opposition/page.md](/influence/controlled_opposition/page.md) |
+| Debunk-host essay + Alef rhyme | [debunk-host-scheduled-slot](/influence/controlled_opposition/debunk-host-scheduled-slot.md) |
 
 Keywords: #Ic911a #911Revisionist #ControlledOpposition #Dew #NoPlanes #JudyWood #RichardGage #ParadigmThreatFiles
 
-**Last updated:** 2026-07-01
+**Last updated:** 2026-06-18
 
 ---
 
@@ -478,6 +540,7 @@ Keywords: #Ic911a #911Revisionist #ControlledOpposition #Dew #NoPlanes #JudyWood
 - **Tier 2** **CO** **read** is **structural** / **movement** **theory** — **same** **class** as **AE911Truth** **CO** **thesis** in **Gage** **file**.
 - **ic911.org** **not** **accused** of **criminal** **conduct** — **Norman’s** **opinion** **only** **where** **labeled**.
 - **Victims** **first** — **no** **mockery** of **survivors** or **first** **responders**.
+- **§5.7 Alef adjacency:** **exact** **behavioral** **pattern** **match** **+** **cross-border** **impunity** **thesis** — **not** **allegation** **that** **Norman** **/ ic911a** **operators** **work** **for** **Alef**, **Yermolaev** **entities**, or **Ukrainian** **fraud** **floors**; **not** **automatic** **criminal** **characterization** **of** **movement** **harassment** **without** **primaries**; **RT** **documentary** **=** **state-adjacent** **packaging** **(tier** **B)**.
 
 ---
 

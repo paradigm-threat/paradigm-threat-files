@@ -1,6 +1,36 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "date": "2026-07-02T14:48:56.841Z",
+    "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md",
+        "href": "/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/debunk-host-scheduled-slot.md",
+        "href": "/influence/controlled_opposition/debunk-host-scheduled-slot"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-02T13:30:00.000Z",
+    "message": "Bump index.json _version so clients refetch updated TONA article.",
+    "files": [],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
     "date": "2026-07-02T13:24:57.000Z",
     "message": "Add Substack link and dual-citizenship disclosure to TONA article.",
     "files": [
@@ -1216,58 +1246,6 @@
       {
         "src": "https://paradigmthreat.net/science/health/cell-regen.png",
         "alt": "Cell turnover times — regeneration clock if voltage and field are restored (Tennant-aligned exhibit)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-30T15:15:17.000Z",
-    "message": "Add §IV modern crowdfunding reference and algorithmic reach barrier.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/computing/exact-change-wallet-invention-and-aftermath.md",
-        "href": "/science/computing/exact-change-wallet-invention-and-aftermath"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png",
-        "alt": "Exact-Change Wallet — Invention and Aftermath — article header"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png",
-        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png",
-        "alt": "Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-30T14:59:59.000Z",
-    "message": "Clarify patent-bar line: delicate-minded inventors are they, not author.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/computing/exact-change-wallet-invention-and-aftermath.md",
-        "href": "/science/computing/exact-change-wallet-invention-and-aftermath"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png",
-        "alt": "Exact-Change Wallet — Invention and Aftermath — article header"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png",
-        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png",
-        "alt": "Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)"
       }
     ]
   }
