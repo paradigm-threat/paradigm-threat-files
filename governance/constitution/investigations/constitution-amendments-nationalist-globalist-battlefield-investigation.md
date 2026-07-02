@@ -8,7 +8,7 @@
 **Guide (read order)**
 
 1. **Battlefield frame + vocabulary** → §1  
-2. **Original 13th — TONA: text, ratification dispute, erasure, Napoleon brewing reaction (§2.7)** → §2  
+2. **Original 13th — TONA: text, ratification dispute, erasure, Napoleon brewing reaction (§2.7), deep-state seesaw WWZ–III (§2.8)** → §2  
 3. **Replacement 13th (1865): “abolition” vs. carceral slavery** → §3  
 4. **14th (1868): citizenship, federal supremacy, dual-track + two-part replacement (§4.4)** → §4  
 5. **Reconstruction package context (13–15) + Corwin counterfactual** → §5  
@@ -154,6 +154,54 @@ The **author’s suspicion** (developed in §8): the **1865–1868 cluster** was
 **Falsifiers:** **Congressional** **Globe** **1810** **debates** **name** **Napoleon** **explicitly** **as** **target** (**B** **if** **found**); **or** **show** **state** **ratification** **rush** **continued** **unabated** **1810–1815** (**undermines** **“forgotten** **because** **obsolete”** **read**).
 
 **Cross-read:** [Napoleonic artillery / 1812 investigation](/governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md); [French Revolution investigation](/governance/war/investigations/french-revolution-investigation.md); [British Civil War investigation](/governance/war/investigations/british-civil-war-investigation.md) (post-Napoleon **finance** **capture**).
+
+### 2.8 Deep-state seesaw — failed world-ruler vehicles, source/destination, WWZ–III (author)
+
+**Author thesis (C):** The **last few centuries** read as a **rocking motion** — **seesaw** **back** **and** **forth** — **not** bottom-up organic public consensus, but **source-side** agenda pressure, **failed** **world-ruler** **vehicles**, **reverse** **course**, and **Plan** **B** **reappropriation** **async** until the **next** **world-conflict** **wave**. **Macro** **results** **come** **from** **the** **source** **adapting** — **not** from **destinations** “authoring” world history.
+
+**Source vs destination (required vocabulary):**
+
+| Lane | Definition in this file | Example |
+|------|-------------------------|---------|
+| **Source** | **Deep-state / globalist** imperial agenda — **imposed** pressure, **vehicle** selection, **repurposing** when Plan A fails | Napoleon vehicle; colonial Haiti pressure; Axis hegemon attempt; constitutional capture after failure |
+| **Destination** | **Local** human response — **real** agency, **reactive** to imposed conditions | Haitian Revolution; American **TONA** anomaly; sovereignty backlash (**Barbara** era) |
+
+**Do not misread:** **“Not organic”** applies to **source** **agenda** **pressure** and **elite** **pivots** — **not** to **slave revolt**, **nationalist resistance**, or **destination** **human** **behavior**. **Haitian** **resistance** **is** **human** — **obviously** — but **would** **not** **have** **occurred** **without** **prior** **source** **pressure** on Saint-Domingue.
+
+**World-war taxonomy (author — no renumbering of WWI/WWII):**
+
+| Label | Era / peak | Author read | Documented anchors (B) |
+|-------|------------|-------------|------------------------|
+| **WWZ (Zero)** | **~1803–1815**; **1812** peak | **Napoleonic** **world** **conflict** — **clearly** **world-war** **scale**, **never** **counted** in textbooks | Russia **1812**; **US–Britain War of 1812**; Congress of Vienna; TONA **1810** (§2.7) |
+| **WWI** | **1914–1918** | Failed **hegemon** / finance geometry → **source** pivot | Standard historiography |
+| **WWII** | **1939–1945** | **Germany / Italy / Japan** **vehicle** **fails**; **winner** **anomalies** | Standard historiography |
+| **WWIII** | **From Crimea buildup (2014+)** — **live** | **Invasion-accusation** **pretense** for **world-war** **footing**; **accelerant** = **Iran/Israel** **fallout** (author **C**) | Crimea **2014** (B); Ukraine **2022** (B) |
+
+**Seesaw table — Plan A failure → Plan B (author C):**
+
+| War | Plan A vehicle (source) | Failure / destination anomaly | Plan B reappropriation (source) |
+|-----|-------------------------|------------------------------|--------------------------------|
+| **WWZ** | **Napoleon** world emperor | **Haiti**; Moscow; **TONA** nationalist firewall | **Louisiana Purchase (1803)** terrain handoff; forget TONA; prep North America |
+| **WWI** | Continental / British-led finance hegemons | Stalemate; national **anomalies** | **XVI/Fed** cluster path (§13.3); war-amendment habit |
+| **WWII** | **Axis** industrial hegemons | Defeat; **American** **federalism** anomaly | **UN / Bretton Woods**; delayed demographic pump (§4.4) |
+| **Inter-war / Cold War** | US–USSR bipolar | Stalemate — **not** WWIII | **XIV** payoff, immigration pulses, **Liberty** rebrand (§12) — **async** **prep** |
+| **WWIII** | Unipolar US + NATO expansion + open-border intake | **Barbara** **2026**; sovereignty backlash | **Lawfare**, Vance lane, intake stall (§14) — **ongoing** |
+
+**Napoleon / Haiti / Louisiana (anchor exemplar):**
+
+| Beat | Lane | Content | Tier |
+|------|------|---------|------|
+| **Plan A** | Source | **Napoleon** as **modern** **world-ruler** **vehicle** (§2.7) | C |
+| **Source pressure** | Source | **French** **imperial** **slavery/colonial** **restoration** on **Saint-Domingue** — **not** organic Haitian self-generation | B/C |
+| **Destination response** | Destination | **Haitian Revolution (1791–1804)** — breaks **Caribbean** **Plan** **A** | B |
+| **Source pivot** | Source | **Louisiana Purchase (1803)** — Napoleon **sheds** **New** **World** **asset**; **author** **read:** **Plan** **B** **terrain** **prep** for **later** **Anglo-American** **capture** **without** **French** **crown** | B timeline; C intent |
+| **WWZ climax** | Both | **1812** — Russia + **US–Britain**; **Waterloo** **1815**; TONA **forgotten** (**misleading** **peace**) | B/C |
+
+**WWIII detail (author — C):** Arc **opens** with **events** **leading** **to** **Russia** **taking** **Crimea (2014)** — **invasion** **accusation** as **pretense** for **actual** **world-war** **posture**; **triggered** **largely** by **Iran/Israel** **fallout** (**2024–2026** **live**). **Not** mainstream **“WWIII”** **label** — **author** **frame** only. Cross-read: [mission-accomplished-again-iran-2026](/governance/war/mission-accomplished-again-iran-2026.md); [Islamabad peace deal](/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md); §14.
+
+**Cross-read:** §4.4 (two-part replacement); §5.3 (Civil War runner-up); §7.2 (replacement cycle); [promised land investigation](/history/mudflood/investigations/promised-land-investigation.md); [US Civil War investigation](/governance/war/investigations/us-civil-war-investigation.md).
+
+**Falsifiers:** Show **Louisiana** **sale** **was** **pure** **opportunism** **with** **no** **strategic** **Anglo-American** **prep** (**B** **archives**); **or** **that** **WWIII** **frame** **has** **no** **Crimea→Ukraine→Iran** **documented** **chain** (**B** **news/diplomatic** **record**).
 
 ---
 
@@ -642,6 +690,8 @@ Objective (C): critical mass — European-replaces-Native demographic geometry a
 
 > **TONA path:** **Titles of Nobility** would have **abolished slavery-as-then-known** by **disconnecting overseas aristocracy** — **indentured servants** **aging into** belonging **without war**. **1810 TONA** **brewed** against **inevitable Napoleonic takeover** — **not** a **snap** **1812** **reaction**; **Beethoven** **already** **saw** **tyrant/human-rights** **arc** **(1804)** — then **was** **forgotten** **after** **Napoleon’s** **fall** **because** **titles** **looked** **dead**; **British/finance** **lanes** **wanted** **it** **gone** **anyway** (§2.7). **1865/1868** were **unnecessary tangents**; **Liberty (1886)** **consecrated** the **wrong pair** (§12); **XV–XVI** **cascade** **would not exist** without **war opening** the parchment (§13).
 
+> **Seesaw (§2.8):** **History** **rocks** **back** **and** **forth** — **source** **agenda**, **not** **organic** **public** **consensus**. **WWZ** **=** **1812** **Napoleonic** **world** **war** **never** **counted**; then **WWI**, **WWII**, **WWIII** **from** **Crimea (2014+)** **pretense** **/** **Iran-Israel** **fallout**. **Haiti** **pressure** **=** **source**; **revolution** **=** **destination** **human** **agency**; **Louisiana** **sale** **=** **source** **Plan** **B**. **Each** **failed** **vehicle** **(Napoleon, Axis, unipolar intake)** → **reverse** **course** → **reappropriate** **(parchment, terrain, bodies)** **async**.
+
 > **June 2026 — *Trump v. Barbara*:** **Barrett** with **Roberts and liberals** **struck** **birthright EO** — **battlefield live**. **JD Vance (Jul 1, 2026):** **“she made a mistake”** — **pregnant vacation** → **family citizenship** — **not** **14th framers’** **intent** (§14.3).
 
 > **Intake today:** **Flown-in** **parole** + **charter smuggling** + **affluent birth tourism** — **not** **destitute** **Liberty** **poem** **clients** (§14.4). **COVID hotels** — **tax money**, **weak oversight**, **resettlement** **surge** **then** **stall** (§14.5).
@@ -699,6 +749,12 @@ Objective (C): critical mass — European-replaces-Native demographic geometry a
 | **C39** | **Replacement = two parts:** **parchment sovereignty water-down** **+** **physical intake**; **bodies lagged** **decades** behind **XIV** | **C** | **Immigration** **volume** **matched** **XIV** **immediately** **post-1868** |
 | **C40** | **Civil War = runner-up** to **full human-trafficking geometry**; **Sherman 1865 land** to **freed families** from **white Southern property** | **B/C** | **Field Order 15** **never** **issued**; **intake** **preceded** **XIV** |
 | **C41** | **Objective = demographic critical mass** (**European-replaces-Native** geometry) via **war-refugee pulses** (**WWI/interwar, Spanish Civil War, WWII, 21st c.**) | **C** | **Immigration** **restrictions** **prevented** **all** **post-war** **entry** |
+| **C42** | **Macro history = source-side deep-state seesaw** when **world-ruler vehicles fail** — **not** destination-organic consensus | **C** | **Public-choice** **models** **explain** **all** **pivots** **without** **elite** **repurposing** |
+| **C43** | **Haiti pressure = source-imposed**; **revolution = destination agency** (would not occur without pressure); **Louisiana = source Plan B** | **B/C** | **Louisiana** **pure** **fire** **sale** **only**; **Haiti** **unrelated** **to** **sale** |
+| **C44** | **Nationalist anomaly** in **America/Germany/Japan** blocks **throne-style** world rule → **source** pivots to **constitutional/finographic** capture | **C** | **Show** **successful** **single-pole** **world** **emperor** **post-1945** |
+| **C45** | **Plan B prep runs async** ahead of next conflict (law/sentiment/terrain before bodies) | **C** | **Show** **intake** **matched** **XIV** **immediately** **1868** |
+| **C46** | **WWZ = Napoleonic/1812 world war never counted**; sequence **WWZ → WWI → WWII → WWIII** without renumbering | **C** | **Historians** **already** **class** **1812** **as** **global** **total** **war** **canon** |
+| **C47** | **WWIII opened Crimea (2014+)** invasion-accusation pretense; **Iran/Israel fallout** major trigger (live) | **C** | **No** **documented** **2014–2026** **escalation** **chain** |
 
 ---
 
@@ -732,6 +788,8 @@ Objective (C): critical mass — European-replaces-Native demographic geometry a
 | **Q24** | **Birth** **tourism** **—** **affluent** **vs** **asylum** **soil-birth** **share** | **MPI**; **CDC** **natality** |
 | **Q25** | **TONA** **1810** **—** **Congressional** **debates** **re** **Napoleon** **/** **French** **emoluments** | **Annals** **of** **Congress** **11th** **Cong.**; **state** **ratification** **journals** **1810–1815** |
 | **Q26** | **Immigration volume vs XIV birthright** **—** **year-by-year** **1868–1924** **gap** | **DHS Yearbook**; **MPI** **historical** **tables**; **Census** **foreign-born** **series** |
+| **Q27** | **Louisiana Purchase — strategic Plan B intent vs expediency** | Jefferson–Monroe–Livingston papers; French council minutes re Haiti timing |
+| **Q28** | **Crimea 2014 → Ukraine 2022 → Iran/Israel 2024–2026 as WWIII opening chain** | Diplomatic record; cross-read Iran/Israel war dossiers |
 
 ### Weak points / research TODOs
 
@@ -779,4 +837,4 @@ Keywords: #Constitution #Amendments #TitlesOfNobility #TONA #ThirteenthAmendment
 
 **Cross-investigations** are **thematic** **rhymes**, **not** **proof** **transfers**.
 
-*Last updated: 2026-07-02 — §4.4 two-part replacement / intake waves; §5.3 Civil War runner-up; §14 Vance Jul 2026*
+*Last updated: 2026-07-02 — §2.8 deep-state seesaw / WWZ–III / source-destination; §4.4 two-part replacement; §14 Vance Jul 2026*
