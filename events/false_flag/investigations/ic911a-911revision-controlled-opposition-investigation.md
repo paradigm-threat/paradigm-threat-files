@@ -1,6 +1,6 @@
 # Investigation: ic911a.org / 9/11 Revisionist — Accountability Branding, DEW Hangout, and Movement Fracture
 
-> **TL;DR:** **ic911a.org** (“**International Center for 9/11 Accountability**”) is a **WordPress** **placeholder** (**“Coming Soon”** since **Feb 2024**; last edit **Mar 2024**) with **PayPal donate** only — **no** **petition**, **no** **research hub**, **no** **IRS** **filings**. **Real** **output** lives on **[911revision.substack.com](https://911revision.substack.com/)** (**Norman**, **South Africa**; **200+** articles per self-description). **Project CO read:** **DEW / Judy Wood / Bob Greenyer LENR** **extreme** **hangout** that **bundles** **no-planes** with **Hutchison** **woo** so **respectable** **lanes** (**Gage**, **AE911Truth**, **ic911.org**) **reject** **the** **whole** **package** — **poison-by-adjacency** ([Gage §4.3](./richard-gage-ae911truth-controlled-demolition-investigation.md)). **Key 2026 cross-read:** [**§5.7 Alef**](/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) — **exact** **debunk-host** **pattern** **match** **at** **industrial** **scale**; **cross-border** **distance** **=** **prosecution** **vacuum**. **Tier 1:** mainstream **debunks** **DEW/dustification** **physics**. **Tier 2:** **movement** **debunk** — **accountability** **theater**, **donation** **funnel**, **perpetual** **Gage/thermite** **wars**, **empty** **institutional** **CTA**. **Wget mirror:** investigator notes (local path). **Not** **the** **same** **entity** as **[ic911.org](https://ic911.org/)** (Ted Walter / **International Center for 9/11 Justice**).
+> **TL;DR:** **ic911a.org** (“**International Center for 9/11 Accountability**”) is a **WordPress** **placeholder** (**“Coming Soon”** since **Feb 2024**; last edit **Mar 2024**) with **PayPal donate** only — **no** **petition**, **no** **research hub**, **no** **IRS** **filings**. **Real** **output** lives on **[911revision.substack.com](https://911revision.substack.com/)** (**Norman**, **South Africa**; **200+** articles per self-description). **Project CO read:** **DEW / Judy Wood / Bob Greenyer LENR** **extreme** **hangout** that **bundles** **no-planes** with **Hutchison** **woo** so **respectable** **lanes** (**Gage**, **AE911Truth**, **ic911.org**) **reject** **the** **whole** **package** — **poison-by-adjacency** ([Gage §4.3](./richard-gage-ae911truth-controlled-demolition-investigation.md)). **Key 2026 cross-read:** [**§5.7 Alef**](/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) — **exact** **debunk-host** **pattern** **at** **industrial** **scale**; **cross-border** **distance** **=** **prosecution** **vacuum**. [**§5.8 DEW church mesh**](/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel) — **~20** **yr** **franchise** **nodes**; **outcome-coordinated** **influence** **read** **(tier** **C** **intent)** **parallel** **to** **Alef** **without** **shared** **payroll**. **Tier 1:** mainstream **debunks** **DEW/dustification** **physics**. **Tier 2:** **movement** **debunk** — **accountability** **theater**, **donation** **funnel**, **perpetual** **Gage/thermite** **wars**, **empty** **institutional** **CTA**. **Wget mirror:** investigator notes (local path). **Not** **the** **same** **entity** as **[ic911.org](https://ic911.org/)** (Ted Walter / **International Center for 9/11 Justice**).
 
 **Status:** Open — site mirror + Substack corpus scan (Jun 2026).  
 **Date:** 2026-06-25
@@ -13,7 +13,7 @@
 2. **Who runs it (Norman / 9/11 Revisionist)** → [§2](#2-operator--norman--911revision-substack)
 3. **Claim inventory (DEW, planes, CD)** → [§3](#3-claim-inventory-from-corpus)
 4. **Tier 1 — mainstream debunk** → [§4](#4-tier-1--mainstream-debunk)
-5. **Tier 2 — movement / CO debunk** → [§5](#5-tier-2--movement-controlled-opposition-read) (**start** [§5.7 Alef — exact pattern + cross-border impunity](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026); [§5.6 DEW path fork](#56-dew-authors-accountability-path-fork-court-vs-501c3))
+5. **Tier 2 — movement / CO debunk** → [§5](#5-tier-2--movement-controlled-opposition-read) (**start** [§5.7 Alef](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026); [§5.8 DEW church mesh](#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel); [§5.9 comparable meshes catalog](#59-comparable-industrial-fraud-meshes-20052026--reference-catalog); [§5.6 DEW path fork](#56-dew-authors-accountability-path-fork-court-vs-501c3))
 6. **Name collision: ic911a vs ic911** → [§6](#6-ic911a-vs-ic911org--justice-vs-accountability)
 7. **Two-truth table (project)** → [§7](#7-contradictory-truths-project-routing)
 8. **Norman citation stack (tier debunks)** → [§9](#9-norman-citation-stack--tier-debunks)
@@ -283,7 +283,86 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 **Epistemic routing:** **Overlap** **=** **exact** **pattern** **match** **at** **C** **(structural)** **unless** **primaries** **link** **named** **operators**. **Cross-border** **impunity** **=** **author** **thesis** **on** **jurisdiction**, **not** **automatic** **fraud** **finding** **against** **movement** **personalities**. **Do** **not** **merge** **Ukraine** **fraud** **networks** **with** **9/11** **truth** **personalities** **without** **docket**.
 
-**Cross-read:** [§9.6 Live debate read](#96-live-debate-read-jun-2026) · [debunk-host essay](/influence/controlled_opposition/debunk-host-scheduled-slot.md)
+**Cross-read:** [§9.6 Live debate read](#96-live-debate-read-jun-2026) · [debunk-host essay](/influence/controlled_opposition/debunk-host-scheduled-slot.md) · [§5.8 DEW church franchise mesh](#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel) · [§5.9 comparable meshes](#59-comparable-industrial-fraud-meshes-20052026--reference-catalog)
+
+### 5.8 DEW church as movement franchise mesh (2005–2026) — Alef parallel
+
+**Status:** **Author suspicion** — **outcome-coordinated** **influence** **mesh** **targeting** **9/11** **truth** **community**; **structural** **isomorph** **to** **Alef** **without** **shared** **payroll** **claim**.
+
+**Thesis:** **Twenty** **years** **permits** **node** **rotation** (**Wood** **→** **Reynolds/Leaphart** **→** **Johnson** **→** **Norman** **→** **Greenyer**) **while** **product** **stable**: **footer** **litmus**, **homework** **loop**, **accountability** **front**, **fracture** **output**. **9/11** **truth** **=** **high-value** **captive** **audience** (**donations**, **identity**, **mechanism** **wars**) **analogous** **to** **Alef’s** **asset-rich** **victims** — **different** **extraction** **(coalition** **time** **+** **book/donation** **vs** **wallet)**, **same** **mesh** **grammar**.
+
+**Reader essay:** [**DEW church — Alef parallel**](/influence/controlled_opposition/debunk-host-scheduled-slot.md#alef-parallel--is-the-dew-church-a-coordinated-mesh)
+
+#### Node chronology (public record)
+
+| Era | Node | Role | Front / product | Mesh function |
+|-----|------|------|-----------------|---------------|
+| **~2005–2010** | **Dr Judy Wood** | **Origin** **author** | *WDTTG* **book** **sales**; **DEW** **site** | **Doctrine** **+** **revenue** **anchor** |
+| **2007** | **Wood + Reynolds + Leaphart** | **Legal** **lane** | **RFC** **+** **qui** **tam** **(`07-cv-3314`,** **`07-cv-4612`)** | **Accountability** **theater** **→** **prejudice** **dismissal** **→** **permanent** **debunk** **anchor** |
+| **2011–2017** | **Andrew Johnson** | **Publicist** | **Free** **PDF** **compilations**; **UK** **lectures** | **Distribution** **+** **“movement** **betrayed** **Wood”** |
+| **2020s** | **Norman / ic911a** | **Curator** **+** **debunk** **host** | **200+** **Substack**; **PayPal**; **Coming** **Soon** | **High-volume** **fracture** **+** **taunt→Zoom** **(§9.6)** |
+| **2026** | **Bob Greenyer** | **Flank** **extender** | **LENR** **dust** **→** **DEW** **proof** | **Refreshes** **woo** **without** **new** **accountability** **path** |
+
+**Cross-read node detail:** [§5.6](#56-dew-authors-accountability-path-fork-court-vs-501c3) · [§9.1–§9.5](#91-dr-judy-wood--where-did-the-towers-go)
+
+#### Alef ↔ DEW church — franchise isomorph (no shared payroll)
+
+| Alef / scam mesh (2026) | DEW church mesh (2005–2026) |
+|-------------------------|------------------------------|
+| **Respectable** **corp** **front** (**construction**, **alcohol**) | **Forensic** **/ accountability** **front** (**WDTTG**, **ic911a**, **“evidence** **to** **court”**) |
+| **~170** **franchised** **floors**; **Cosmo** **/ Enigma** **/ Prism** **(reporting)** | **Rotating** **public** **nodes**; **shared** **footer** **stack** |
+| **Wallet** **extraction** (**deposits**, **fake** **yield**) | **Coalition-time** **extraction** **+** **book/donation** **(WDTTG**, **PayPal**, **Substack)** |
+| **Victims:** **EU/RU** **retirees**, **investors** | **Audience:** **global** **9/11** **truth** **activists** **+** **researchers** |
+| **Internal** **slang** (**mammoth**, **sucker**) | **Public** **taunt** **register** **+** **movement** **insults** |
+| **Cross-border** **operators**; **MLAT** **vacuum** | **US/UK/ZA** **nodes** **(public** **ID)**; **platform** **+** **movement** **prosecution** **vacuum** |
+| **Mesh** **denies** **connection**; **state** **sanctions** **optional** | **“Organic** **independents”** **cover**; **dismissed** **dockets** **sold** **as** **litmus** |
+| **Rare** **EU** **docket** **→** **priced** **release** | **No** **won** **accountability** **artifact** **in** **lane** **—** **fracture** **persists** |
+
+#### Could external influence networks target 9/11 truth?
+
+**Project read (saleable, tier C intent):**
+
+> **Yes** **as** **a** **structural** **possibility** **—** **not** **as** **a** **proven** **operation** **name** **without** **primaries**. **Any** **influence** **mesh** **seeking** **to** **contain** **mass** **doubt** **after** **JFK** **would** **optimize** **for**: **(1)** **long** **duration** **community** **already** **donation-routed**; **(2)** **mechanism** **wars** **that** **starve** **WHY** **and** **broadcast** **forensics**; **(3)** **respectable-lane** **poison-by-adjacency** (**Gage** **rejection** **via** **DEW/no-planes** **bundle**); **(4)** **cross-border** **nodes** **+** **platform** **impunity**; **(5)** **accountability-shaped** **brands** **that** **never** **ship** **deliverables**. **DEW** **church** **behavior** **matches** **that** **design** **spec** **whether** **nodes** **are** **sincere**, **paid**, **or** **mixed**. **Alef** **proves** **the** **spec** **is** **buildable** **at** **industrial** **scale** **in** **2026**; **DEW** **church** **is** **the** **9/11** **movement** **instance**.
+
+**Falsifiers:** **Shipped** **accountability** **hub** **with** **petition** **/ ledger**; **public** **coalition** **with** **Gage** **on** **narrow** **ground**; **abandonment** **of** **2007** **docket** **litmus** **under** **pressure**; **documented** **single** **transparent** **nonprofit** **governance** **for** **lane** **with** **990**.
+
+**Epistemic routing:** **External** **targeting** **hypothesis** **=** **C** **(structural** **design** **fit)**. **Node** **sincerity** **≠** **mesh** **function**. **Do** **not** **assert** **Alef** **↔** **Wood** **payroll** **without** **docket**.
+
+**Cross-read:** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) · [Gage §4.3 DEW hangout](./richard-gage-ae911truth-controlled-demolition-investigation.md#43-extreme-hangout-poison-by-adjacency) · [§5.9 comparable meshes](#59-comparable-industrial-fraud-meshes-20052026--reference-catalog)
+
+### 5.9 Comparable industrial fraud meshes (2005–2026) — reference catalog
+
+**Purpose:** Give readers **Alef-class** **reference** **points** **unrelated** **to** **9/11** **truth** — **same** **industrial** **grammar** (**front** **→** **script** **→** **slot** **→** **extract** **→** **cross-border** **impunity**), **different** **domains**. **No** **claim** **these** **networks** **connect** **to** **Wood/Norman** **without** **primaries**.
+
+**Reader essay (brief):** [**Debunk host — Alef case**](/influence/controlled_opposition/debunk-host-scheduled-slot.md#the-alef-case--exact-pattern-cross-border-impunity) (comparable meshes paragraph).
+
+#### Catalog — documented networks
+
+| Network | Era (approx.) | Geography | Respectable / visible front | Industrial tell | Scale (reporting) | Cross-border / impunity | Primary sources |
+|---------|---------------|-----------|----------------------------|-----------------|-------------------|-------------------------|-----------------|
+| **Israel binary options / Yukom** | **2008–2018** | **Israel** **(Caesarea** **call** **floors)** → **global** **victims** | **Licensed** **sales** **/ fintech** **brands** (**BinaryBook**, **BigOption**) | **Stage** **names**, **fake** **London** **desks**, **scripted** **“advisers,”** **withdrawal** **blocks** | **100+** **Israeli** **binary** **firms**; **Yukom** **~$145M** | **US** **DOJ** **conviction** **(Elbaz)** **after** **years**; **industry** **exported** **abroad** **post-2017** **ban** | [DOJ Elbaz guilty](https://www.justice.gov/archives/opa/pr/former-ceo-israeli-company-found-guilty-orchestrating-145-million-binary-options-fraud-scheme); [Times of Israel industry export](https://www.timesofisrael.com/israeli-run-scam-in-kyiv-shows-how-binary-options-industry-has-mutated/) |
+| **Milton Group / Morgan Limited** | **~2016–2026** | **Kyiv**, **Tbilisi**, **Albania**, **North** **Macedonia** **(reporting)** | **Luxury** **office** **towers**; **rotating** **crypto/forex** **brand** **names** | **Whistleblower** **docs**; **boiler-room** **scripts**; **PumaTS** **CRM** **licensed** **to** **parallel** **floors** | **~600** **agents** **(Albania** **peak)**; **€180M+** **global** **losses** **(OCCRP)**; **+€42M** **PumaTS** **damages** **(DE** **trial)** | **Exported** **after** **Israel** **2017** **ban**; **Biniashvili** **sentenced** **Feb** **2026** **(DE)** **—** **years** **after** **2020** **expose** | [OCCRP Fraud Factory](https://www.occrp.org/en/project/fraud-factory/trail-of-broken-lives-leads-to-kyiv-call-center); [OCCRP Biniashvili sentencing](https://www.occrp.org/en/news/german-court-jails-key-figure-in-massive-call-center-scam-operation-exposed-by-occrp) |
+| **Mumbai–Thane IRS impersonation** | **~2012–2016+** | **Mira** **Road** **(Thane)**, **Ahmedabad**, **multi-city** **India** → **US** **victims** | **Legitimate-looking** **IT** **park** **call** **centers** | **Six-page** **scripts**; **spoofed** **US** **caller** **ID**; **tiered** **dialers/closers**; **gift-card** **/ hawala** **settlement** | **700+** **employees** **per** **building**; **$300M+** **(US** **DOJ/Indian** **reporting)** | **India** **raids** **Oct** **2016**; **US** **indictments**; **kingpin** **Sagar** **Thakkar** **arrested** **2017** **—** **partial** **closure**, **not** **full** **restitution** | [Indian Express IRS scam](https://indianexpress.com/article/india/mumbai-call-centres-scam-irs-scam-mumbai-police-fraud-4496652/); [LA Times Thane raid](https://www.latimes.com/world/la-fg-india-irs-scam-20161027-story.html); [The Hindu kingpin](https://www.thehindu.com/news/cities/mumbai/mumbai-call-centre-scam-kingpin-held/article17895526.ece) |
+| **Pig-butchering / SEA compounds** | **~2018–2026** | **Cambodia**, **Myanmar** (**KK** **Park**, **Shwe** **Kokko**), **Laos** **SEZs** → **global** **victims** | **Casinos**, **hotels**, **SEZ** **“development”** **parks** | **Romance** **→** **fake** **crypto** **UI**; **“mammoth”** **slang**; **trafficked** **labor**; **compound** **violence** | **UN/OHCHR:** **100k+** **trafficked** **(Cambodia)** **+** **120k** **(Myanmar)** **est.**; **~$75B** **losses** **2020–2024** **(study** **cited** **CFR)** | **Border** **SEZs** **+** **war/coup** **=** **enforcement** **vacuum**; **US** **sanctions** **2025** **on** **some** **actors** | [Reuters pig-butchering](https://www.reuters.com/investigates/special-report/fintech-crypto-fraud-thailand/); [CFR Myanmar scams](https://www.cfr.org/articles/how-myanmar-became-global-center-cyber-scams); [USCC scam centers PDF](https://www.uscc.gov/sites/default/files/2025-07/Chinas_Exploitation_of_Scam_Centers_in_Southeast_Asia.pdf) |
+| **Alef / Yermolaev “Cosmo”** | **~2017–2026** | **Ukraine** **(Dnipro/Kyiv** **floors)** → **EU/RU/CIS** | **Alef** **Group** **(construction**, **alcohol)** | **~170** **centers**; **fake** **investment** **platforms**; **video** **adviser** **deepfakes**; **mammoth/sucker** **slang** | **10k–15k** **operators** **(Stop** **UA** **Scam)**; **~€100M** **(Estonian** **docket)** | **Sanctions** **2023** **+** **continued** **ops** **(reporting)**; **€8.5M** **buyout** **release** **2026** | [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026); [Stop UA Scam](https://stopuascam.com/); [GI-TOC Apr 2026](https://globalinitiative.net/wp-content/uploads/2026/04/Scammers-paradise-Assessing-scam-centres-in-Eurasia-GI-TOC-April-2026.pdf) |
+| **DEW church (movement mesh)** | **~2005–2026** | **US/UK/ZA** **nodes** **(public** **ID)** → **global** **9/11** **truth** | **WDTTG**, **ic911a**, **“evidence** **to** **court”** | **Footer** **litmus**; **homework** **loop**; **taunt→Zoom**; **fracture** **not** **wallet** | **200+** **Norman** **posts**; **20** **yr** **mechanism** **clog** | **No** **movement** **prosecution** **venue**; **platform** **ToS** **only** | [§5.8](#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel) |
+
+#### Shared industrial grammar (project abstraction)
+
+| Layer | Recurring pattern across rows |
+|-------|------------------------------|
+| **Front** | **Legit** **industry** **skin** — **construction**, **IT** **park**, **casino/SEZ**, **forensic** **book**, **“International** **Center”** |
+| **Containment** | **Scripts** — **calls**, **chats**, **Substack** **taunts**, **romance** **DMs** |
+| **Credibility slot** | **Video** **adviser**, **Zoom** **evangelist**, **fake** **trading** **UI** |
+| **Extraction** | **Deposits**, **gift** **cards**, **donations**, **book** **sales**, **coalition** **time** |
+| **Mesh** | **Franchise** **brands**, **footer** **stacks**, **licensed** **software** (**PumaTS**), **node** **rotation** |
+| **Shield** | **Cross-border** **operators**; **slow** **MLAT**; **priced** **pleas**; **sanctions** **without** **shutdown**; **movement** **/accountability** **vacuum** |
+
+**GI-TOC (Apr 2026)** frames **Eurasian** **call** **centers** as **copy-pasted** **from** **prior** **waves** (**Israel** **binary** **→** **Ukraine/Georgia** **→** **Alef-scale** **consolidation**) — **same** **mutation** **logic** **as** **DEW** **node** **succession** **inside** **one** **community**.
+
+**Discipline:** **Catalog** **rows** **are** **independent** **criminal** **/ influence** **economies** **—** **not** **a** **single** **conspiracy** **graph**. **Use** **for** **pattern** **recognition** **only**. **DEW** **church** **row** **=** **movement** **instance**, **not** **fraud** **docket** **equivalence**.
+
+**Cross-read:** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) · [§5.8](#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel) · [GI-TOC *Scammers’ Paradise?*](https://globalinitiative.net/wp-content/uploads/2026/04/Scammers-paradise-Assessing-scam-centres-in-Eurasia-GI-TOC-April-2026.pdf)
 
 ---
 
@@ -513,6 +592,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 | Q6 | Download **top** **50** **Substack** **posts** to **wget** for **full-text** **grep** (**DEW**, **no-planes**, **COINTELPRO** **claims**) |
 | Q7 | **Any** **documented** **overlap** between **Norman** **lane** **operators** **and** **commercial** **engagement** **/ VA** **firms** **(scam-adjacent** **or** **political)** — **beyond** **exact** **pattern** **match** **in** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026)? |
 | Q8 | **MLAT** **/ platform** **subpoena** **paths** for **Substack** **+** **PayPal** **+** **Zoom** **harassment** **against** **US** **/ EU** **targets** **by** **ZA** **operator** — **practical** **prosecution** **vacuum** **audit** |
+| Q9 | **External** **influence** **targeting** **9/11** **truth** **(§5.8)** — **any** **primaries** **beyond** **outcome** **fit** **(franchise** **mesh**, **footer** **persistence**, **2007** **docket** **frozen** **as** **litmus**)? |
 
 ---
 
@@ -541,6 +621,8 @@ Keywords: #Ic911a #911Revisionist #ControlledOpposition #Dew #NoPlanes #JudyWood
 - **ic911.org** **not** **accused** of **criminal** **conduct** — **Norman’s** **opinion** **only** **where** **labeled**.
 - **Victims** **first** — **no** **mockery** of **survivors** or **first** **responders**.
 - **§5.7 Alef adjacency:** **exact** **behavioral** **pattern** **match** **+** **cross-border** **impunity** **thesis** — **not** **allegation** **that** **Norman** **/ ic911a** **operators** **work** **for** **Alef**, **Yermolaev** **entities**, or **Ukrainian** **fraud** **floors**; **not** **automatic** **criminal** **characterization** **of** **movement** **harassment** **without** **primaries**; **RT** **documentary** **=** **state-adjacent** **packaging** **(tier** **B)**.
+- **§5.8 DEW church mesh:** **outcome-coordinated** **franchise** **read** **(tier** **C** **intent)** — **not** **proven** **central** **command** **or** **Alef↔Wood** **payroll**; **external** **targeting** **hypothesis** **=** **design** **fit**, **not** **named** **operation** **without** **primaries**.
+- **§5.9 comparable meshes:** **reference** **catalog** **only** — **Yukom**, **Milton**, **Mumbai** **IRS**, **SEA** **pig-butchering**, **Alef**, **DEW** **church** **listed** **as** **independent** **pattern** **instances**; **not** **a** **unified** **conspiracy** **graph**; **not** **9/11↔fraud** **links** **without** **primaries**.
 
 ---
 

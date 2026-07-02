@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-02T14:48:56.841Z",
+    "date": "2026-07-02T14:56:48.260Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md",
+        "href": "/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/debunk-host-scheduled-slot.md",
+        "href": "/influence/controlled_opposition/debunk-host-scheduled-slot"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-02T14:48:55.000Z",
+    "message": "Highlight Alef scam as exact debunk-host pattern with cross-border impunity.",
     "files": [
       {
         "status": "M",
@@ -1044,172 +1067,6 @@
       {
         "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png",
         "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
-      },
-      {
-        "src": "/science/computing/quantum-leap-of-faith.png",
-        "alt": "Quantum Leap (of faith) — article header"
-      },
-      {
-        "src": "/science/computing/quantum-leap-of-faith-smith-mystery-solved.png",
-        "alt": "Joseph Smith mystery solved — crystal-memory interpretation"
-      },
-      {
-        "src": "/science/computing/the-internet-that-should-have-been.png",
-        "alt": "The Internet That Should Have Been — article header"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/royal-rife-frequency-medicine-suppression.png",
-        "alt": "Royal Rife — what the letters say when the banquet only heard the microscope (investigation art)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/nukes/HEUraniumC.jpg",
-        "alt": "Depleted uranium puck — weapon fraction vs therapeutic isotope (DU exhibit)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/frequency_health2.jpg",
-        "alt": "Cell voltage and pH — healthy range, polarity flip, cancer threshold (frequency-health chart)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/ph_voltage.jpg",
-        "alt": "Dr. Jerry Tennant — body as electronic device, pH as voltage, EU2017 Future Science"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/ph_voltage2.jpg",
-        "alt": "Healing is Voltage — reference library, BioModulator devices, Cancer’s On/Off Switches: Polarity (Tennant)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/health/cell-regen.png",
-        "alt": "Cell turnover times — regeneration clock if voltage and field are restored (Tennant-aligned exhibit)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-30T15:31:24.000Z",
-    "message": "Fix ECW publish blockers: §11.1 refs, site anchor slugs, coin §11 MCU drift.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
-        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/censorship/github-ban.md",
-        "href": "/influence/censorship/github-ban"
-      },
-      {
-        "status": "M",
-        "path": "influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md",
-        "href": "/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/suppression/modern-celebrity-slavery.md",
-        "href": "/influence/suppression/modern-celebrity-slavery"
-      },
-      {
-        "status": "M",
-        "path": "influence/suppression/page.md",
-        "href": "/influence/suppression"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/ecw-design/README.md",
-        "href": "/science/computing/ecw-design/README"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/exact-change-wallet-invention-and-aftermath.md",
-        "href": "/science/computing/exact-change-wallet-invention-and-aftermath"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/exact-change-wallet-invention-spec.md",
-        "href": "/science/computing/exact-change-wallet-invention-spec"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/investigations/google-dont-be-evil-enclosure-investigation.md",
-        "href": "/science/computing/investigations/google-dont-be-evil-enclosure-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md",
-        "href": "/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/quantum-leap-of-faith.md",
-        "href": "/science/computing/quantum-leap-of-faith"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/the-internet-that-should-have-been.md",
-        "href": "/science/computing/the-internet-that-should-have-been"
-      },
-      {
-        "status": "M",
-        "path": "science/health/royal-rife-frequency-medicine-suppression.md",
-        "href": "/science/health/royal-rife-frequency-medicine-suppression"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      },
-      {
-        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
-        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
-      },
-      {
-        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
-        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
-      },
-      {
-        "src": "/influence/censorship/github-ban.png",
-        "alt": "GitHub Actions disabled for user — paradigm-threat-files"
-      },
-      {
-        "src": "/influence/censorship/github-ban2.png",
-        "alt": "GitHub Actions / workflow failure (continued)"
-      },
-      {
-        "src": "/influence/censorship/github-ban3.png",
-        "alt": "GitHub restriction context (continued)"
-      },
-      {
-        "src": "/influence/censorship/github-ban4.png",
-        "alt": "GitHub restriction context (continued)"
-      },
-      {
-        "src": "/influence/censorship/github-ban5.png",
-        "alt": "GitHub restriction context (continued)"
-      },
-      {
-        "src": "/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.png",
-        "alt": "Canceling the High Poppy — investigation header graphic"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery.png",
-        "alt": "Modern celebrity slavery — IP containment, ordered speech, and creative control"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
-        "alt": "Celebrity modern slavery — contracts, containment, NDAs, and creative control (investigation dossier)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png",
-        "alt": "Exact-Change Wallet — Invention and Aftermath — article header"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png",
-        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png",
-        "alt": "Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)"
       },
       {
         "src": "/science/computing/quantum-leap-of-faith.png",
