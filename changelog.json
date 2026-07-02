@@ -1,8 +1,43 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-02T11:24:34.660Z",
+    "date": "2026-07-02T11:31:04.522Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md",
+        "href": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/constitution/tona-not-war-liberty-rebrand.md",
+        "href": "/governance/constitution/tona-not-war-liberty-rebrand"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
+        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
+      },
+      {
+        "src": "/governance/constitution/investigations/constitution-amendments-by-camp.png",
+        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
+        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-by-camp.png",
+        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-02T11:24:33.000Z",
+    "message": "Expand Constitution investigation and add TONA/Liberty reader article.",
     "files": [
       {
         "status": "M",
@@ -1341,28 +1376,6 @@
         "path": "science/computing/exact-change-wallet-invention-spec.md",
         "href": "/science/computing/exact-change-wallet-invention-spec"
       },
-      {
-        "status": "M",
-        "path": "science/computing/exact-change-wallet-invention.md",
-        "href": "/science/computing/exact-change-wallet-invention"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/computing/exact-change-wallet-invention.png",
-        "alt": "The Exact-Change Wallet — article header"
-      },
-      {
-        "src": "/science/computing/exact-change-wallet-invention-concept.png",
-        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-30T13:16:13.000Z",
-    "message": "Add §V inventor names to ECW article keywords for site search.",
-    "files": [
       {
         "status": "M",
         "path": "science/computing/exact-change-wallet-invention.md",

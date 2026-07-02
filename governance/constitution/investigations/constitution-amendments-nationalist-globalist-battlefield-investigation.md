@@ -1,6 +1,6 @@
 # Investigation: U.S. Constitution and Amendments — Nationalist vs. Globalist Battlefield
 
-> **TL;DR:** Reads the **1787 Constitution** and all **27 ratified amendments** as a **two-camp battlefield**. **Centerpiece:** **TONA (1810)** — nationalist anti-nobility **13th** — **memory-holed** and replaced by **1865 carceral 13th** + **1868 birthright 14th**; **Statue of Liberty (1886)** as public monument to that pair; **amendment cascade** (XV–XIX, XVI Deep State) **would not exist** without war path; **June 2026** *Trump v. Barbara* — **Barrett** joins **Roberts–liberal bloc**, **14th** battlefield live. **Reader article:** [TONA, Not War — Liberty’s Rebrand](/governance/constitution/tona-not-war-liberty-rebrand.md). Scorecard §6; TONA §2; cascade §13; SCOTUS §14.
+> **TL;DR:** Reads the **1787 Constitution** and all **27 ratified amendments** as a **two-camp battlefield**. **Centerpiece:** **TONA (1810)** — nationalist anti-nobility **13th** — **memory-holed** and replaced by **1865 carceral 13th** + **1868 birthright 14th**; **Statue of Liberty (1886)**; **amendment cascade** (XV–XVI); **June–July 2026** — *Trump v. Barbara* + **JD Vance (Jul 1): “she made a mistake”** on **vacation birth** → **family citizenship**; **flight intake** + **COVID hotel resettlement**; **no race war** doctrine. **Reader article:** [TONA, Not War](/governance/constitution/tona-not-war-liberty-rebrand.md). §14 live controversy.
 
 **Status:** Open — **TONA ratification**, **XVI Benson dispute**, **Barbara** docket, and **Reconstruction intent** remain **contested**; **author battlefield frame** is **interpretive**.  
 **Last updated:** 2026-07-02
@@ -444,6 +444,9 @@ Generation N+2: resist again → repeat
 | **Kavanaugh** | **Concurrence** — EO invalid under **federal statute** (INA); suggests **Congress could** legislate exceptions | SCOTUSblog |
 | **Dissent** | **Thomas, Alito, Gorsuch** — narrower citizenship read | Press tier |
 | **Prior beat** | ***Trump v. CASA* (June 2025)** — narrowed injunctions | ACLU |
+| **Vance (Jul 1, 2026)** | **“Do I think she made a mistake in the ruling? I do.”** — **pregnant woman on vacation** → **baby** → **“entire family gets the benefits of American citizenship”** — **not** what **14th framers** **had in mind** | [Mediaite](https://www.mediaite.com/media/tv/nobodys-perfect-jd-vance-reveals-whether-hes-angry-with-justice-amy-coney-barrett/); [silive/CBS](https://www.silive.com/politics/2026/07/jd-vance-unloads-on-amy-coney-barrett-after-birthright-citizenship-ruling.html) |
+| **Vance (Jun 30)** | **“Major mistake”** — invites **“birth tourism”** — **“come here quite literally on a vacation, give birth”** | [Meaww](https://news.meaww.com/she-made-a-mistake-jd-vance-blasts-justice-amy-coney-barrett-over-birthright-citizenship-ruling) |
+| **Vote count dispute** | Vance publicly said **“5–4”** / **“hanging by a thread”**; **documented** holding **6–3** on **14th** (**Kavanaugh** separate path) | Press vs [SCOTUSblog](https://www.scotusblog.com/2026/06/supreme-court-strikes-down-trumps-order-ending-birthright-citizenship/) |
 
 ### 14.2 Author battlefield read (C)
 
@@ -456,22 +459,73 @@ Generation N+2: resist again → repeat
 | **Native displacement** | Americans **destitute/homeless** while **intake doctrine** **constitutionalized** — **moral contrast** (**C**) |
 | **Kavanaugh split** | **Trump appointee** also **struck EO** — **not** Barrett **alone**; **statutory** vs **14th** **paths** |
 
-### 14.3 MAGA sovereignty doctrine (author)
+### 14.3 JD Vance — “mistake” framing (documented, Jul 2026)
+
+**Tier B — press / on-camera:**
+
+> **Do I think she made a mistake in the ruling? I do.** I don’t know how anybody can say that if a person who is an illegal alien or a person, for example, who’s **pregnant and comes to the United States on a vacation**, they have a baby and all of a sudden **their entire family gets the benefits of American citizenship**. I don’t think that’s what the framers of the 14th Amendment had in mind.
+
+**Context:** Spoken **July 1, 2026** (day after *Barbara* opinion); Vance also said **“nobody’s perfect, including the Supreme Court”** and pledged to **“correct that mistake”** — legislative / legal lanes ([Mediaite](https://www.mediaite.com/media/tv/nobodys-perfect-jd-vance-reveals-whether-hes-angry-with-justice-amy-coney-barrett/)).
+
+**Author alignment (C):** Vance’s **vacation-birth → family permanence** geometry matches §4 **Track B** and §7 **birthright schism** — **documented Republican** **“mistake”** read vs author **“influence/capture”** read (§14.2); **both** reject **Barrett’s** **majority** **join** as **faithful** **1868** **originalism**.
+
+### 14.4 Intake geometry — flights, parole, affluent birth tourism (documented B)
+
+**Not only foot-crossing:** Intake now includes **air** lanes — **documented**, **disputed** on **who pays** and **vetting**.
+
+| Lane | Documented fact | Source tier |
+|------|-----------------|-------------|
+| **CHNV humanitarian parole** | **~320k–357k** vetted **Cubans/Haitians/Nicaraguans/Venezuelans** **authorized to fly** to **U.S. airports** (2023–2024); **sponsor** required; **travelers pay** own tickets — **not** a secret program | B — [Snopes](https://www.snopes.com/news/2024/03/07/320000-unvetted-migrants/); [FactCheck.org](https://www.factcheck.org/2024/03/the-humanitarian-parole-program-for-cubans-haitians-nicaraguans-and-venezuelans/); [PolitiFact](https://www.politifact.com/factchecks/2024/may/09/rick-scott/biden-isnt-flying-migrants-to-florida-people-pay-f/) |
+| **Charter smuggling routes** | Migrants **fly charter** to **Nicaragua** / **Central America**, then **north** — **$72k+** packages (India lane); **Biden admin** accused **charter cos.** of **smuggling collaboration** | B — [NPR Sep 2024](https://www.npr.org/2024/09/27/nx-s1-5108732/migrants-nicaragua-haiti-charter-flights-immigration); [Reuters investigate](https://www.reuters.com/investigates/special-report/migration-usa-smuggling/) |
+| **Accusation lane** | **“Flown in”** viral claims conflate **CHNV parole** (legal, vetted) with **charter smuggling** and **taxpayer-paid** flights — **Snopes/PolitiFact** **split** **true** **parts** | B |
+| **Affluent birth tourism** | **Chinese/Russian** **maternity hotels** — **$15k–$100k** packages; **Miami/Southern California**; **not** **destitute** **“tired/poor”** **Liberty** **narrative** | B — [NBC News](https://www.nbcnews.com/news/us-news/birth-tourism-brings-russian-baby-boom-miami-n836121); [Reuters indictments](https://www.reuters.com/article/world/us-charges-19-in-chinese-birth-tourism-scheme-in-california-idUSKCN1PQ3MS/); [MPI](https://www.migrationpolicy.org/article/birth-tourism-trump) |
+| **Media vs reality** | **Harbor poem** **imagery** (**tired/poor**) vs **documented** **birth-tourism** **clients** (**wealthy**, **fee-based**) | B/C contrast |
+
+**Author read (C):** **Well-off** **immigrants** and **birth-tourism** **operators** — not **destitute** **refugees** — are **primary** **14th** **beneficiaries** **today**; **media** **Liberty** **frame** **obscures** **fee-based** **citizenship** **commerce**. **Flight intake** + **soil birth** = **two-speed** **replacement** **geometry**.
+
+### 14.5 COVID-era hotel resettlement — tax money, weak oversight (documented B)
+
+**Documented pattern (2022–2024):** **Asylum surge** → **emergency** **hotel** **shelters** → **billions** in **no-bid** / **emergency** contracts → **comptroller audits** finding **waste**.
+
+| City / item | Documented | Source |
+|-------------|------------|--------|
+| **NYC hotels** | **H+H** **~$94M** **Midtown hotels**; **47k+** migrants in **95** **tax-funded** shelters; **$4.2B** crisis estimate | [NY Post Feb 2023](https://nypost.com/2023/02/23/nyc-hospitals-spending-more-than-90m-on-midtown-hotels-for-migrants/) |
+| **NYC DocGo audit** | **$432M** emergency contract — **unused hotel nights**, **overpayments**, **moldy rooms**, **vendor** lacked **housing experience** | [NYC Comptroller](https://comptroller.nyc.gov/newsroom/mismanagement-of-docgo-contract-by-adams-admin-wasted-millions-of-dollars-on-unused-hotels-unauthorized-subcontractors-moldy-rooms-for-asylum-seekers-new-audit-from-comptroller-lander-finds/) |
+| **NYC contracts** | **340** asylum contracts, **~$5.7B** estimated — **emergency** procurement **waived** competitive bidding | [Comptroller staffing review](https://comptroller.nyc.gov/reports/asylum-seeker-staffing-contract-comparison-and-review/) |
+| **Chicago COVID ARPA** | **$95M** **American Rescue Plan** funds **tapped** for **migrant** costs; **oversight** fight | [Block Club Jan 2024](https://blockclubchicago.org/2024/01/23/after-mayor-taps-95-million-in-covid-aid-for-migrants-downtown-alderman-pushes-for-more-oversight/) |
+
+**Author read (C):** **COVID** **emergency** **architecture** (**hotels**, **no-bid**, **ARPA** **flex**) **accelerated** a **mass resettlement** **plan** that would **place** **Americans** and **new arrivals** in **permanent** **personal** **proximity** — **tax-paid** **hotels**, **little oversight**. **Federal policy shifts** + **2026** **birthright** **fight** = **plan** **stalled/foiled** — **smartly**, **without** **race war** (§14.7).
+
+### 14.6 MAGA sovereignty doctrine — no race war (author)
 
 > **Tactical retreat** ≠ surrender: **do what you can**; when they come for you **don’t resist too long** — **one person cannot stop globalists alone**. **Secure sovereignty first**, **sort status later**, **no second Civil War** — don’t repeat **undocumented-as-wedge** / **recruitment pool** ([Civil War investigation](/governance/war/investigations/us-civil-war-investigation.md)). **Phase 2:** **trafficking** reckoning; **work + integrate + no free perks** or **voluntary exit**; **high standards** and **leadership** for **all parties** — **American way**.
 
-### 14.4 Cross-reads
+**Race-war avoidance (author — C):** Parallel to [**Islamabad peace doctrine**](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) — **never** let **border/sovereignty** fight **become** **race war**. Had nationalism **gone** **ethnic** **mob** **lane**, **Civil War II** would **not** resemble **Civil War I**:
+
+| CW I geometry | Author **CW II** counterfactual (C) |
+|---------------|--------------------------------------|
+| **Blue vs Gray** **armies** | **Cartel** **micro-states** + **affiliate** **networks** |
+| **Clear** **front lines** | **Legitimate** **immigrant** **networks** → **politics**, **media** (**existing** **strongholds**) |
+| **State** **vs** **state** | **Hybrid** **war** **against** **non-immigrant** **native** **population** — **unimaginable** **scale** |
+
+**Author thesis:** **Foiling** the **resettlement** **plan** **without** **race war** was **strategic** **necessity** — **sovereignty** **lawfare** (*Barbara* **dissent** **lane**, **Vance** **“correct mistake”**, **border** **enforcement**) **not** **street** **ethnic** **battle**.
+
+### 14.7 Cross-reads
 
 - [Captured courts](/influence/controlled_opposition/captured-courts-wrong-villain.md) — judiciary as contested terrain  
 - [America First Legal](/governance/war/investigations/america-first-legal-victory-trend-investigation.md) — nationalist lawfare lane  
+- [Islamabad peace deal — no scripted holy war](/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) — **universal dissatisfaction** / **no race-war** **parallel**  
 - §7.2 **replacement cycle** — *Barbara* as **14th payoff line**
 
-### 14.5 Limits (this section)
+### 14.8 Limits (this section)
 
 - **Do not** allege Barrett was **bribed** or **blackmailed** without evidence — **suspicion** + **public accusations** only.  
 - **Kavanaugh** concurrence — **note split** among **Trump appointees**.  
 - **Birth tourism magnitude** — verify **MPI / DHS / CDC** before strong **quantitative** claims.  
-- **Mainstream read:** *Barbara* as **14th vindication** — **recorded** as **alternate** **B** read.
+- **Mainstream read:** *Barbara* as **14th vindication** — **recorded** as **alternate** **B** read.  
+- **CHNV / parole:** **Documented** as **legal**, **vetted** — **not** identical to **smuggling charters**; **do not** merge without tier labels.  
+- **COVID hotel spend:** **Audited waste** is **documented**; **“permanent resettlement plan”** is **author thesis (C)**.  
+- **CW II cartel scenario:** **Author counterfactual (C)** — **not** prediction or incitement.
 
 ---
 
@@ -485,9 +539,11 @@ Generation N+2: resist again → repeat
 
 > **TONA path:** **Titles of Nobility** would have **abolished slavery-as-then-known** by **disconnecting overseas aristocracy** — **indentured servants** **aging into** belonging **without war**. **1865/1868** were **unnecessary tangents**; **Liberty (1886)** **consecrated** the **wrong pair** (§12); **XV–XVI** **cascade** **would not exist** without **war opening** the parchment (§13).
 
-> **June 2026 — *Trump v. Barbara*:** **Barrett** with **Roberts and liberals** **struck** **birthright EO** — **battlefield live**, not **antique** **vagueness**. **Suspicious** vs **good-faith originalism** alone; **birth tourism** **geometry** **enabled** by **jus soli** (§14).
+> **June 2026 — *Trump v. Barbara*:** **Barrett** with **Roberts and liberals** **struck** **birthright EO** — **battlefield live**. **JD Vance (Jul 1, 2026):** **“she made a mistake”** — **pregnant vacation** → **family citizenship** — **not** **14th framers’** **intent** (§14.3).
 
-> **MAGA patience:** **Sovereignty first**, **sort later**, **no Civil War**; **work, integrate, no free perks** or **leave**; **leadership standards** for **all** — **American way** (§14.3).
+> **Intake today:** **Flown-in** **parole** + **charter smuggling** + **affluent birth tourism** — **not** **destitute** **Liberty** **poem** **clients** (§14.4). **COVID hotels** — **tax money**, **weak oversight**, **resettlement** **surge** **then** **stall** (§14.5).
+
+> **MAGA patience:** **Sovereignty first**, **sort later**, **no Civil War**, **no race war** — **CW II** would **not** look like **CW I** (§14.6); **plan foiled smartly**.
 
 **What the author means:** **Legal text** is **terrain**; **Reconstruction** was **not** **only** **race** **justice** but **constitutional** **re-engineering** — **carceral** + **demographic** **levers** — whose **2026** **expression** is **birthright** **litigation** and **border** **preemption**.
 
@@ -521,6 +577,12 @@ Generation N+2: resist again → repeat
 | **C22** | **Globalist** **camp** **influenced** **Barrett** (**no** **mechanism** **claimed**) | **C** | **Documented** **lever** **with** **evidence** |
 | **C23** | **MAGA** **tactical** **patience** — **sovereignty** **first**, **no** **Civil** **War** | **C** | **Author** **strategy** **not** **actionable** **prediction** |
 | **C24** | **Leadership** **path:** **integrate/work/no** **free** **perks** **vs** **world** **LCD** | **C** | **Policy** **implementation** **details** |
+| **C25** | **Vance vacation-birth** **geometry** **=** **author** **Track B** **payoff** | **B/C** | **Primary** **1866** **debates** **embraced** **vacation-birth** **citizenship** |
+| **C26** | **Affluent** **birth tourism** **dominates** **jus** **soli** **abuse** **not** **destitute** **refugees** | **B/C** | **MPI/DHS** **show** **refugee** **soil-birth** **majority** |
+| **C27** | **Flight/parole** **intake** **supplements** **border** **crossing** **for** **replacement** | **B/C** | **Intake** **data** **show** **foot** **crossing** **only** |
+| **C28** | **COVID** **hotel** **programs** **=** **resettlement** **accelerant** **w/** **little** **oversight** | **B/C** | **Audits** **show** **full** **competitive** **oversight** |
+| **C29** | **Mass** **personal** **resettlement** **plan** **started** **then** **foiled** **(2024–2026)** | **C** | **City** **contracts** **continue** **unchanged** **2026** |
+| **C30** | **Avoiding** **race** **war** **was** **strategic** **—** **CW** **II** **≠** **CW** **I** | **C** | **Author** **strategy** **not** **historical** **claim** |
 
 ---
 
@@ -548,6 +610,10 @@ Generation N+2: resist again → repeat
 | **Q18** | **Republican** **public** **statements** **re** **Barrett** **“mistake”** **vs** **“influence”** | **Congress**; **news** **archives** |
 | **Q19** | **Birth** **tourism** **statistics** **—** **DHS**, **CDC** **natality**, **MPI** | **MPI**; **border** **studies** |
 | **Q20** | ***Trump v. CASA* (2025)** **→** ***Barbara* (2026)** **procedural** **arc** | **ACLU**; **SCOTUSblog** |
+| **Q21** | **Vance** **“5–4”** **vs** **documented** **6–3** **—** **transcript** **/** **Fox** **Ingraham** **clip** | **CBS**; **Mediaite** |
+| **Q22** | **CHNV** **parole** **airport** **list** **(FOIA)** **vs** **charter** **smuggling** **routes** | **CIS FOIA**; **Reuters** |
+| **Q23** | **NYC/Chicago** **hotel** **spend** **peak** **→** **2025–2026** **decline** **timeline** | **NYC Comptroller** |
+| **Q24** | **Birth** **tourism** **—** **affluent** **vs** **asylum** **soil-birth** **share** | **MPI**; **CDC** **natality** |
 
 ### Weak points / research TODOs
 
@@ -593,4 +659,4 @@ Keywords: #Constitution #Amendments #TitlesOfNobility #TONA #ThirteenthAmendment
 
 **Cross-investigations** are **thematic** **rhymes**, **not** **proof** **transfers**.
 
-*Last updated: 2026-07-02*
+*Last updated: 2026-07-02 — §14 expanded: Vance Jul 1, flights/hotels, no race war*
