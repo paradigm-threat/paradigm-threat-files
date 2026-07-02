@@ -1,8 +1,38 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-02T13:09:45.628Z",
+    "date": "2026-07-02T13:17:51.243Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/constitution/tona-not-war-liberty-rebrand.md",
+        "href": "/governance/constitution/tona-not-war-liberty-rebrand"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png",
+        "alt": "TONA, Not War — Liberty's Rebrand"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
+        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-by-camp.png",
+        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
+        "alt": "Promised land — harbor monument and demographic geometry"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-02T13:09:43.000Z",
+    "message": "Rewrite Beyond the Twelfth closing — tainted 1787 frame, Bill of Rights as bunker.",
     "files": [
       {
         "status": "M",
@@ -1225,32 +1255,6 @@
         "status": "M",
         "path": "science/computing/exact-change-wallet-invention-spec.md",
         "href": "/science/computing/exact-change-wallet-invention-spec"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png",
-        "alt": "Exact-Change Wallet — Invention and Aftermath — article header"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png",
-        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png",
-        "alt": "Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-30T14:51:58.000Z",
-    "message": "Trim §III prior-art framing in ECW article.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/computing/exact-change-wallet-invention-and-aftermath.md",
-        "href": "/science/computing/exact-change-wallet-invention-and-aftermath"
       }
     ],
     "images": [
