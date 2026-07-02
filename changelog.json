@@ -1,8 +1,43 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-02T12:16:15.664Z",
+    "date": "2026-07-02T12:18:10.762Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md",
+        "href": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/constitution/tona-not-war-liberty-rebrand.md",
+        "href": "/governance/constitution/tona-not-war-liberty-rebrand"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
+        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
+      },
+      {
+        "src": "/governance/constitution/investigations/constitution-amendments-by-camp.png",
+        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
+        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-by-camp.png",
+        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-02T12:16:14.000Z",
+    "message": "Refine Liberty thesis, taxpayer transport, and rescind-after-XII program.",
     "files": [
       {
         "status": "M",
@@ -1214,23 +1249,6 @@
       {
         "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png",
         "alt": "Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-30T14:16:33.000Z",
-    "message": "Update ECW article hero image.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/computing/exact-change-wallet-invention.png",
-        "href": "/science/computing/exact-change-wallet-invention.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/computing/exact-change-wallet-invention.png"
       }
     ]
   }

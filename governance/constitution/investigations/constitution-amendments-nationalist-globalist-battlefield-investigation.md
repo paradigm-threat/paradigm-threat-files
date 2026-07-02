@@ -466,9 +466,9 @@ Generation N+2: resist again → repeat
 | **Patch** | **XIV** completes **XIII**; later texts **assume** Reconstruction **legitimate** | **C** |
 | **Pivot abuse** | **1865 XIII** **replaced** **TONA** **slot** — **carceral** **“slave”** **amendment** **orbiting** **wrong** **number** | **C** |
 
-**Lifetime program (author — verbatim sentiment):**
+**Author hope (verbatim sentiment):**
 
-> In my lifetime I would like to see **every single amendment beyond the Twelfth** **abolished and rescinded** — and the **original TONA Thirteenth** **replace** the **carceral replacement Thirteenth** we know today.
+> **I hope within my lifetime** to see **every single amendment beyond the Twelfth abolished and rescinded** — and the **original TONA Thirteenth replace** the **carceral replacement Thirteenth** we know today.
 
 | Keep | Rescind | Restore |
 |------|---------|---------|
@@ -601,7 +601,7 @@ Generation N+2: resist again → repeat
 
 > **MAGA patience:** **Sovereignty first**, **sort later**, **no Civil War**, **no race war** — **CW II** would **not** look like **CW I** (§14.6); **plan foiled smartly**.
 
-> **Rescind after XII:** **Every amendment from 1865 XIII forward** **abuses** **amendment** **premise** — **frivolous**, **Congress’s job**, or **crisis** **patch**. **Lifetime** **goal:** **abolish** **XIII–XXVII**; **restore** **TONA** **as** **true** **XIII** **in place of** **carceral** **replacement** (§13.8).
+> **Rescind after XII:** **Every amendment from 1865 XIII forward** **abuses** **amendment** **premise** — **frivolous**, **Congress’s job**, or **crisis** **patch**. **Hope within my lifetime:** **abolish** **XIII–XXVII**; **restore** **TONA** **as** **true** **XIII** **in place of** **carceral** **replacement** (§13.8).
 
 **What the author means:** **Legal text** is **terrain**; **Reconstruction** was **not** **only** **race** **justice** but **constitutional** **re-engineering** — **carceral** + **demographic** **levers** — whose **2026** **expression** is **birthright** **litigation** and **border** **preemption**.
 
@@ -648,7 +648,7 @@ Generation N+2: resist again → repeat
 | **C35** | **Taxpayer** **money** **buses/flies** **(onward/coach)** **/** **houses** **migrants** **at** **documented** **billions** — **system-level** **“flown/bused** **in”** **accurate** | **B/C** | **No** **public** **transport/housing** **spend** **on** **released** **migrants** |
 | **C36** | **Every amendment from 1865 XIII forward** **abuses** **Article V** **premise** | **C** | **Scholarly** **consensus** **all** **post-XII** **amendments** **necessary** **and** **proper** |
 | **C37** | **Post-1865** **amendments** **are** **frivolous**, **Congress’s** **work**, **or** **patches** — **not** **parchment** **material** | **C** | **Show** **XIII–XXVII** **each** **required** **constitutional** **entrenchment** |
-| **C38** | **Lifetime** **program:** **rescind** **XIII–XXVII**; **restore** **TONA** **as** **XIII** **replacing** **1865** **carceral** **text** | **C** | **Author** **program** **—** **not** **prediction** |
+| **C38** | **Hope within lifetime:** **rescind** **XIII–XXVII**; **restore** **TONA** **as** **XIII** **replacing** **1865** **carceral** **text** | **C** | **Author** **hope** **—** **not** **prediction** |
 
 ---
 
