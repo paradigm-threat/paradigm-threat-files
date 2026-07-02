@@ -1,8 +1,43 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-02T11:31:04.522Z",
+    "date": "2026-07-02T11:34:38.127Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md",
+        "href": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/constitution/tona-not-war-liberty-rebrand.md",
+        "href": "/governance/constitution/tona-not-war-liberty-rebrand"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
+        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
+      },
+      {
+        "src": "/governance/constitution/investigations/constitution-amendments-by-camp.png",
+        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
+        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-by-camp.png",
+        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-02T11:31:02.000Z",
+    "message": "Document July 2026 birthright controversy — Vance, flights, COVID hotels.",
     "files": [
       {
         "status": "M",
@@ -1358,38 +1393,6 @@
       {
         "src": "https://paradigmthreat.net/science/health/cell-regen.png",
         "alt": "Cell turnover times — regeneration clock if voltage and field are restored (Tennant-aligned exhibit)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-06-30T13:59:20.000Z",
-    "message": "Add ECW invention spec and clarify article §I–§II flow.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/computing/ecw-design/README.md",
-        "href": "/science/computing/ecw-design/README"
-      },
-      {
-        "status": "A",
-        "path": "science/computing/exact-change-wallet-invention-spec.md",
-        "href": "/science/computing/exact-change-wallet-invention-spec"
-      },
-      {
-        "status": "M",
-        "path": "science/computing/exact-change-wallet-invention.md",
-        "href": "/science/computing/exact-change-wallet-invention"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/computing/exact-change-wallet-invention.png",
-        "alt": "The Exact-Change Wallet — article header"
-      },
-      {
-        "src": "/science/computing/exact-change-wallet-invention-concept.png",
-        "alt": "Exact-Change Wallet — four-SKU concept sheet (A–D)"
       }
     ]
   }

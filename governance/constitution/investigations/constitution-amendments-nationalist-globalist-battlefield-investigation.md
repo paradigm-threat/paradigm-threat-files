@@ -8,7 +8,7 @@
 **Guide (read order)**
 
 1. **Battlefield frame + vocabulary** → §1  
-2. **Original 13th — TONA: text, ratification dispute, erasure** → §2  
+2. **Original 13th — TONA: text, ratification dispute, erasure, Napoleon reaction (§2.7)** → §2  
 3. **Replacement 13th (1865): “abolition” vs. carceral slavery** → §3  
 4. **14th (1868): citizenship, federal supremacy, author dual-track thesis** → §4  
 5. **Reconstruction package context (13–15) + Corwin counterfactual** → §5  
@@ -126,6 +126,33 @@ The **author’s suspicion** (developed in §8): the **1865–1868 cluster** was
 | **Post-war labor** | **No felony pipeline** at constitutional scale | **Black Codes**, **convict leasing**, **mass incarceration** |
 
 **Cross-read:** [slave trades investigation](/governance/slavery/slave-trades-and-moor-etymology-investigation.md).
+
+### 2.7 Napoleon reaction — French detachment, post-imperial forgetting (author)
+
+**Author thesis (C):** **TONA (1810)** was **itself** **created in reaction to Napoleon’s expansion and influence** — **chiefly** to **detach French imperial influence** from American officials **before** the **1812** catastrophe arc (**Russia invasion** **Jun 1812**; **US–Britain War of 1812** same year). **Not** anti-British **only** — **anti-foreign-emolument** **text** **covers** **all** **powers** — but **timing** **tracks** **Napoleonic** **peak**, **not** **Waterloo** **aftermath**.
+
+| Beat | Documented anchor | Author read |
+|------|-------------------|-------------|
+| **Apr–May 1810** | TONA **passes** Congress **87–3 / 19–5** | **Pre-Russia** **move** — **block** **French** **titles/pensions** **in** **US** **officialdom** |
+| **1810–1811** | **Continental System**; **Napoleonic** **empire** **at** **zenith** | **French** **influence** **lane** **felt** **urgent** **in** **Atlantic** **politics** |
+| **Jun 1812** | **Napoleon** **invades** **Russia**; **US** **declares** **war** **on** **Britain** | **TONA** **already** **with** **states** — **dual** **crisis** **year** |
+| **1812–1815** | **Moscow**, **Leipzig**, **Waterloo**; **Congress** **of** **Vienna** | **Power** **vacuum** + **monarchy** **restoration** **paradox** |
+| **Post-1815** | **Print** **culture** **still** **lists** **TONA** **as** **XIII** **decades** | **Legal** **memory** **≠** **political** **salience** |
+
+**Disillusionment geometry (author — C):** **Napoleon** **was** **culture’s** **modern** **emperor** — **Beethoven** **dedicated** ***Eroica*** **to** **him**, **then** **revoked** **when** **Napoleon** **crowned** **himself** **(1804)**; ** wider** **public** **faith** **collapsed** **after** **1812–1815**. **Titles** and **nobility** **looked** **dead** **as** **a** **living** **political** **technology** — **replaced** **by** **nation**, **code**, **finance**. **TONA** **could** **be** **forgotten** **without** **fanfare** because **nobody** **believed** **emperors** **would** **own** **American** **clerks** **anymore**.
+
+**The trap (author — C):** **French** **were** **not** **the** **only** **European** **influence** **in** **America**. **British** **credit**, **pensions**, **and** **aristocratic** **hooks** **persisted** — **and** **other** **powers** **wanted** **TONA** **gone** **precisely** **because** **it** **barred** **their** **emoluments** **too**. **Forgetting** **TONA** **after** **Napoleon’s** **fall** **was** **therefore** **misleading** **peace** — **foreign** **capture** **lanes** **survived** **under** **finance** **and** **law** **without** **visible** **crowns**.
+
+| Faction | Post-1815 interest re TONA |
+|---------|---------------------------|
+| **American** **nationalists** | **Still** **need** **firewall** — **British** **war** **1812** **proves** **it** |
+| **British / finance** | **Want** **emolument** **door** **open** — **TONA** **dangerous** |
+| **Restored** **European** **courts** | **Hate** **American** **precedent** **stripping** **citizenship** **for** **titles** |
+| **Public** **mood** | **“Nobility** **is** **over”** → **amendment** **feels** **obsolete** |
+
+**Falsifiers:** **Congressional** **Globe** **1810** **debates** **name** **Napoleon** **explicitly** **as** **target** (**B** **if** **found**); **or** **show** **state** **ratification** **rush** **continued** **unabated** **1810–1815** (**undermines** **“forgotten** **because** **obsolete”** **read**).
+
+**Cross-read:** [Napoleonic artillery / 1812 investigation](/governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md); [French Revolution investigation](/governance/war/investigations/french-revolution-investigation.md); [British Civil War investigation](/governance/war/investigations/british-civil-war-investigation.md) (post-Napoleon **finance** **capture**).
 
 ---
 
@@ -537,7 +564,7 @@ Generation N+2: resist again → repeat
 >
 > **Suspicion:** the **Fourteenth** **followed** as **pro-globalist** **plan** — between **13th** and **14th**, **enslave** **current** citizens on one side and **fly in** **as many** **new** **citizens** **as needed** on the other; when **those** **fight** for **sovereignty**, **replace** them with **newer** **citizens**. Whoever wrote the **14th** **knew** the **outcome**: using it today to **prevent Americans** from **determining** **who** **should** **be** **in** **their** **country** — a **right** **no** **other** **nation** **relinquished**.
 
-> **TONA path:** **Titles of Nobility** would have **abolished slavery-as-then-known** by **disconnecting overseas aristocracy** — **indentured servants** **aging into** belonging **without war**. **1865/1868** were **unnecessary tangents**; **Liberty (1886)** **consecrated** the **wrong pair** (§12); **XV–XVI** **cascade** **would not exist** without **war opening** the parchment (§13).
+> **TONA path:** **Titles of Nobility** would have **abolished slavery-as-then-known** by **disconnecting overseas aristocracy** — **indentured servants** **aging into** belonging **without war**. **1810 TONA** **likely** **reacted** to **Napoleonic** **expansion** — **detach French influence** **before** **1812** — then **was** **forgotten** **after** **Napoleon’s** **fall** **because** **titles** **looked** **dead**; **British/finance** **lanes** **wanted** **it** **gone** **anyway** (§2.7). **1865/1868** were **unnecessary tangents**; **Liberty (1886)** **consecrated** the **wrong pair** (§12); **XV–XVI** **cascade** **would not exist** without **war opening** the parchment (§13).
 
 > **June 2026 — *Trump v. Barbara*:** **Barrett** with **Roberts and liberals** **struck** **birthright EO** — **battlefield live**. **JD Vance (Jul 1, 2026):** **“she made a mistake”** — **pregnant vacation** → **family citizenship** — **not** **14th framers’** **intent** (§14.3).
 
@@ -583,6 +610,9 @@ Generation N+2: resist again → repeat
 | **C28** | **COVID** **hotel** **programs** **=** **resettlement** **accelerant** **w/** **little** **oversight** | **B/C** | **Audits** **show** **full** **competitive** **oversight** |
 | **C29** | **Mass** **personal** **resettlement** **plan** **started** **then** **foiled** **(2024–2026)** | **C** | **City** **contracts** **continue** **unchanged** **2026** |
 | **C30** | **Avoiding** **race** **war** **was** **strategic** **—** **CW** **II** **≠** **CW** **I** | **C** | **Author** **strategy** **not** **historical** **claim** |
+| **C31** | **TONA** **(1810)** **=** **reaction** **to** **Napoleonic** **expansion** — **detach** **French** **influence** | **C** | **1810** **debates** **never** **mention** **France/Napoleon** |
+| **C32** | **Post-1815** **disillusionment** **made** **titles** **seem** **obsolete** → **TONA** **forgotten** | **C** | **State** **ratification** **push** **continued** **strong** **1810–1815** |
+| **C33** | **Non-French** **powers** (**British/finance**) **wanted** **TONA** **gone** **after** **Napoleon** **fell** | **C** | **Primary** **British** **lobby** **against** **TONA** **documented** |
 
 ---
 
@@ -614,6 +644,7 @@ Generation N+2: resist again → repeat
 | **Q22** | **CHNV** **parole** **airport** **list** **(FOIA)** **vs** **charter** **smuggling** **routes** | **CIS FOIA**; **Reuters** |
 | **Q23** | **NYC/Chicago** **hotel** **spend** **peak** **→** **2025–2026** **decline** **timeline** | **NYC Comptroller** |
 | **Q24** | **Birth** **tourism** **—** **affluent** **vs** **asylum** **soil-birth** **share** | **MPI**; **CDC** **natality** |
+| **Q25** | **TONA** **1810** **—** **Congressional** **debates** **re** **Napoleon** **/** **French** **emoluments** | **Annals** **of** **Congress** **11th** **Cong.**; **state** **ratification** **journals** **1810–1815** |
 
 ### Weak points / research TODOs
 
@@ -630,6 +661,8 @@ Generation N+2: resist again → repeat
 |-------|------|
 | **Reader article — TONA, war tangent, Liberty rebrand** | [/governance/constitution/tona-not-war-liberty-rebrand.md](/governance/constitution/tona-not-war-liberty-rebrand.md) |
 | US Civil War — slavery as instrument | [/governance/war/investigations/us-civil-war-investigation.md](/governance/war/investigations/us-civil-war-investigation.md) |
+| Napoleonic 1812 / French imperial arc | [/governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md](/governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md) |
+| French Revolution — consolidation template | [/governance/war/investigations/french-revolution-investigation.md](/governance/war/investigations/french-revolution-investigation.md) |
 | American Revolution — slavery preserved | [/governance/war/investigations/american-revolution-investigation.md](/governance/war/investigations/american-revolution-investigation.md) |
 | Slave trades & bondage history | [/governance/slavery/slave-trades-and-moor-etymology-investigation.md](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
 | Constitutional coining vs Fed | [/governance/usury/d.md](/governance/usury/d.md) |
@@ -659,4 +692,4 @@ Keywords: #Constitution #Amendments #TitlesOfNobility #TONA #ThirteenthAmendment
 
 **Cross-investigations** are **thematic** **rhymes**, **not** **proof** **transfers**.
 
-*Last updated: 2026-07-02 — §14 expanded: Vance Jul 1, flights/hotels, no race war*
+*Last updated: 2026-07-02 — §2.7 Napoleon/TONA reaction thesis; §14 Vance Jul 2026*
