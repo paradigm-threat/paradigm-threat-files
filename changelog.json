@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-02T18:49:34.890Z",
+    "date": "2026-07-03T13:05:09.064Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md",
+        "href": "/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/debunk-host-scheduled-slot.md",
+        "href": "/influence/controlled_opposition/debunk-host-scheduled-slot"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/page.md",
+        "href": "/influence/controlled_opposition"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-02T18:49:32.000Z",
+    "message": "Add JFK investigation precedents, Nixon inverse exit, and legal gaps.",
     "files": [
       {
         "status": "M",
@@ -595,119 +618,6 @@
     "images": [
       {
         "src": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-01T14:02:12.000Z",
-    "message": "Add debunk-host scheduled slot essay on CO containment patterns.",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/debate-notes/norman-911revision-live-debate-debrief.md",
-        "href": "/docs/debate-notes/norman-911revision-live-debate-debrief"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-substack-thread-war/2026-06-25-dm-scheduling.png",
-        "href": "/docs/debate-notes/norman-substack-thread-war/2026-06-25-dm-scheduling.png"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-substack-thread-war/2026-06-25-donky-kong-schedule.png",
-        "href": "/docs/debate-notes/norman-substack-thread-war/2026-06-25-donky-kong-schedule.png"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-substack-thread-war/2026-06-27-comments-crybaby.png",
-        "href": "/docs/debate-notes/norman-substack-thread-war/2026-06-27-comments-crybaby.png"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-substack-thread-war/2026-06-27-dm-munchkin-1.png",
-        "href": "/docs/debate-notes/norman-substack-thread-war/2026-06-27-dm-munchkin-1.png"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-substack-thread-war/2026-06-27-dm-munchkin-2.png",
-        "href": "/docs/debate-notes/norman-substack-thread-war/2026-06-27-dm-munchkin-2.png"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-substack-thread-war/2026-06-27-notifications-munchkin-spam.png",
-        "href": "/docs/debate-notes/norman-substack-thread-war/2026-06-27-notifications-munchkin-spam.png"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-substack-thread-war/2026-06-27-notifications-spam.png",
-        "href": "/docs/debate-notes/norman-substack-thread-war/2026-06-27-notifications-spam.png"
-      },
-      {
-        "status": "M",
-        "path": "docs/debate-notes/norman-substack-thread-war/README.md",
-        "href": "/docs/debate-notes/norman-substack-thread-war/README"
-      },
-      {
-        "status": "A",
-        "path": "docs/debate-notes/norman-substack-thread-war/evidence-index.md",
-        "href": "/docs/debate-notes/norman-substack-thread-war/evidence-index"
-      },
-      {
-        "status": "M",
-        "path": "docs/instructions/ARTICLES.md",
-        "href": "/docs/instructions/ARTICLES"
-      },
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md",
-        "href": "/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/debunk-host-scheduled-slot.m4a",
-        "href": "/influence/controlled_opposition/debunk-host-scheduled-slot.m4a"
-      },
-      {
-        "status": "A",
-        "path": "influence/controlled_opposition/debunk-host-scheduled-slot.md",
-        "href": "/influence/controlled_opposition/debunk-host-scheduled-slot"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/page.md",
-        "href": "/influence/controlled_opposition"
-      }
-    ],
-    "images": [
-      {
-        "src": "/docs/debate-notes/norman-substack-thread-war/2026-06-25-dm-scheduling.png"
-      },
-      {
-        "src": "/docs/debate-notes/norman-substack-thread-war/2026-06-25-donky-kong-schedule.png"
-      },
-      {
-        "src": "/docs/debate-notes/norman-substack-thread-war/2026-06-27-comments-crybaby.png"
-      },
-      {
-        "src": "/docs/debate-notes/norman-substack-thread-war/2026-06-27-dm-munchkin-1.png"
-      },
-      {
-        "src": "/docs/debate-notes/norman-substack-thread-war/2026-06-27-dm-munchkin-2.png"
-      },
-      {
-        "src": "/docs/debate-notes/norman-substack-thread-war/2026-06-27-notifications-munchkin-spam.png"
-      },
-      {
-        "src": "/docs/debate-notes/norman-substack-thread-war/2026-06-27-notifications-spam.png"
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)",
-        "alt": "` / `*.png` / `*.jpg`; prefer **published** `https://paradigmthreat.net/...` URLs (timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`). **Placement:** one image **after** the paragraph that introduces the topic (illustrate the **linked investigation**, not decorate every section). **Alt text:** name the **source lane** and **what the reader should see** (e.g. “Historical antibodies — timeline chapter,” “Call of Duty militainment — Krasinski operator arc”). **Do not** copy images into the article folder unless you are creating **new** art; **link** to the canonical file in its home directory. **Consecutive-article cap:** the **same image file** must **not** appear in **two reader-facing articles published back-to-back** (the immediately prior shipped article and the one you are writing now). Reuse across the corpus is fine with spacing; when the prior article already used an asset, pick a **sibling image** from the same lane or **omit** the embed. **Newsletter budget:** many large PNGs + hero can trigger Gmail clipping—prefer **fewer, well-placed** reuses over a gallery; see **Length → Newsletter / inbox check**. **Reference:** [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`"
-      },
-      {
-        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
-        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. **TL;DR check:** grep the blockquote for `http`, `Patreon`, `$`, `§`, and dossier-style evidence — **move** hits to the body. **No “narrative spine” / companion-dossier routing** between the hook and the first `##` body section — that belongs in **`## Where next`** (see Shape step 6). Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Series installments:** read the **prior installment** in full; cut shared frame that Installment I already taught. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). **Grep for local/internal paths** — reject before ship: `/home/`, `~/`, `/media/`, `/docs/debate-notes`, `~/dev/wget`, bare recording filenames. Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
       }
     ]
   }
