@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-03T13:05:09.064Z",
+    "date": "2026-07-03T13:05:51.263Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md",
+        "href": "/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/debunk-host-scheduled-slot.md",
+        "href": "/influence/controlled_opposition/debunk-host-scheduled-slot"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-03T13:05:07.000Z",
+    "message": "Rewrite essay: Alef as clogged-internet immune failure thesis.",
     "files": [
       {
         "status": "M",
@@ -596,28 +614,6 @@
       {
         "src": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
         "alt": "Constitution and amendments — nationalist vs globalist battlefield"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-01T22:11:07.000Z",
-    "message": "Add header image to Constitution amendments battlefield investigation.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md",
-        "href": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation"
-      },
-      {
-        "status": "A",
-        "path": "governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
-        "href": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png"
       }
     ]
   }

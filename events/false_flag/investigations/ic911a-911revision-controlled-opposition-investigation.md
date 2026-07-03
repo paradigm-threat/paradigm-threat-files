@@ -663,6 +663,8 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 **Read:** **Compatible with** [§5.10](#510-floor-labor--compartmentalization-recruitment-and-economic-desperation) **compartmentalization grammar** (script floor vs credibility slot) — **not proven by it**. Alternative: **one operator**, **two modes**, **selective amnesia** on camera. **Not proven:** two operators, paid VA, named handler.
 
+**Survival read (essay):** Host described **failed-state** **SA** context on call (author memory) — people **take what work they can**; debunk-host lane as **side hustle** vs worse jobs. **Cross-examination satisfying** as fieldwork; **hard to blame** survival — **≠** accepting **bad faith** or **coalition harm**.
+
 **Harassment-industry adjacency (2026):** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) — **Alef** **/ scam-center** **grammar** **vs** **debunk-host** **lane** (**structural** **rhyme**). **Debrief + evidence:** [norman-911revision-live-debate-debrief](/docs/debate-notes/norman-911revision-live-debate-debrief.md) · [thread-war archive](/docs/debate-notes/norman-substack-thread-war/evidence-index.md). **Discipline:** automated transcript **unreliable for speaker attribution** — essay uses paraphrase + published Norman corpus only; **insult-amnesia** claim rests on **author memory + screenshot archive**, not transcript quotes.
 
 ---
