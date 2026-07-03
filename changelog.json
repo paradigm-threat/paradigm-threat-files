@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-03T13:38:25.938Z",
+    "date": "2026-07-03T14:04:43.110Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.md",
+        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.png",
+        "alt": "The Internet That Should Have Been — clogged flows and the mesh we did not get"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/censorship/substack-edit-page-not-found-2026-06.png",
+        "alt": "Substack edit page not found while Latest feed still lists Paradigm Threat — platform enclosure, June 2026"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-03T13:38:24.000Z",
+    "message": "Add CERN–Mars gateway and crucifixion nail-metrology dossiers.",
     "files": [
       {
         "status": "M",
@@ -1053,32 +1075,6 @@
       {
         "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
         "alt": "Promised land — harbor monument and demographic geometry"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-02T13:09:43.000Z",
-    "message": "Rewrite Beyond the Twelfth closing — tainted 1787 frame, Bill of Rights as bunker.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/constitution/tona-not-war-liberty-rebrand.md",
-        "href": "/governance/constitution/tona-not-war-liberty-rebrand"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png",
-        "alt": "TONA, Not War — Liberty's Rebrand"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
-        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-by-camp.png",
-        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
       }
     ]
   }
