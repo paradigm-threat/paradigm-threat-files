@@ -11,7 +11,7 @@
 - **Copy-paste notification spam** (same block × multiple alerts)
 - Author account: replied to **most** threads; **stopped** when insult → links → 1-on-1 loop fixed
 
-**Link from:** [norman-911revision-live-debate-debrief.md](../norman-911revision-live-debate-debrief.md) · [debunk-host-scheduled-slot.md](/influence/controlled_opposition/debunk-host-scheduled-slot.md)
+**Link from:** [norman-911revision-live-debate-debrief.md](../norman-911revision-live-debate-debrief.md) · [alef-and-the-clogged-internet.md](/influence/controlled_opposition/alef-and-the-clogged-internet.md)
 
 **Searched (no comment threads in wget):**
 

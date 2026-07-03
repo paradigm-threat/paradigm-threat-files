@@ -234,7 +234,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 **Author thesis (highlight):** On the **modern internet**, **geography** **matters** **less** than **jurisdictional** **separation** — the ability to **commit** **harm** **from** **abroad** so victims **at** **home** face a **prosecution** **vacuum** (**slow** **MLAT**, **weak** **platform** **subpoenas**, **shell** **fronts**, **optional** **local** **ownership** **of** **the** **file**). **Alef** **=** **wallet** **extraction** **at** **scale**; **debunk-host** **lane** **=** **coalition** **time** **extraction** **at** **movement** **scale** — **same** **choreography**, **same** **distance** **advantage**.
 
-**Reader essay (author voice):** [**Alef and the clogged internet**](/influence/controlled_opposition/debunk-host-scheduled-slot.md#the-alef-network--reference-implementation-2026).
+**Reader essay (author voice):** [**Alef and the clogged internet**](/influence/controlled_opposition/alef-and-the-clogged-internet.md#the-alef-network--reference-implementation-2026).
 
 #### Primary sources (Jun 2026)
 
@@ -283,7 +283,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 **Epistemic routing:** **Overlap** **=** **exact** **pattern** **match** **at** **C** **(structural)** **unless** **primaries** **link** **named** **operators**. **Cross-border** **impunity** **=** **author** **thesis** **on** **jurisdiction**, **not** **automatic** **fraud** **finding** **against** **movement** **personalities**. **Do** **not** **merge** **Ukraine** **fraud** **networks** **with** **9/11** **truth** **personalities** **without** **docket**.
 
-**Cross-read:** [§9.6 Live debate read](#96-live-debate-read-jun-2026) · [reader essay — Alef & clogged internet](/influence/controlled_opposition/debunk-host-scheduled-slot.md) · [§5.8 DEW church franchise mesh](#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel) · [§5.9 comparable meshes](#59-comparable-industrial-fraud-meshes-20052026--reference-catalog)
+**Cross-read:** [§9.6 Live debate read](#96-live-debate-read-jun-2026) · [reader essay — Alef & clogged internet](/influence/controlled_opposition/alef-and-the-clogged-internet.md) · [§5.8 DEW church franchise mesh](#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel) · [§5.9 comparable meshes](#59-comparable-industrial-fraud-meshes-20052026--reference-catalog)
 
 ### 5.8 DEW church as movement franchise mesh (2005–2026) — Alef parallel
 
@@ -291,7 +291,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 **Thesis:** **Twenty** **years** **permits** **node** **rotation** (**Wood** **→** **Reynolds/Leaphart** **→** **Johnson** **→** **Norman** **→** **Greenyer**) **while** **product** **stable**: **footer** **litmus**, **homework** **loop**, **accountability** **front**, **fracture** **output**. **9/11** **truth** **=** **high-value** **captive** **audience** (**donations**, **identity**, **mechanism** **wars**) **analogous** **to** **Alef’s** **asset-rich** **victims** — **different** **extraction** **(coalition** **time** **+** **book/donation** **vs** **wallet)**, **same** **mesh** **grammar**.
 
-**Reader essay:** [**9/11 Truth — same clog**](/influence/controlled_opposition/debunk-host-scheduled-slot.md#911-truth--same-clog-different-extraction) · [**DEW church** in essay framing limits](/influence/controlled_opposition/debunk-host-scheduled-slot.md#framing-and-limits)
+**Reader essay:** [**9/11 Truth — same clog**](/influence/controlled_opposition/alef-and-the-clogged-internet.md#911-truth--same-clog-different-extraction) · [**DEW church** in essay framing limits](/influence/controlled_opposition/alef-and-the-clogged-internet.md#framing-and-limits)
 
 #### Node chronology (public record)
 
@@ -334,7 +334,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 **Purpose:** Give readers **Alef-class** **reference** **points** **unrelated** **to** **9/11** **truth** — **same** **industrial** **grammar** (**front** **→** **script** **→** **slot** **→** **extract** **→** **cross-border** **impunity**), **different** **domains**. **No** **claim** **these** **networks** **connect** **to** **Wood/Norman** **without** **primaries**.
 
-**Reader essay (brief):** [**Alef network — reference implementation**](/influence/controlled_opposition/debunk-host-scheduled-slot.md#the-alef-network--reference-implementation-2026).
+**Reader essay (brief):** [**Alef network — reference implementation**](/influence/controlled_opposition/alef-and-the-clogged-internet.md#the-alef-network--reference-implementation-2026).
 
 #### Catalog — documented networks
 
@@ -368,7 +368,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 **Purpose:** Document **primary** **reporting** on **how** **Alef-class** **meshes** **staff** **themselves** — **compartmentalized** **employees**, **handler/HR** **tiers**, **skill-based** **recruitment**, **economic** **pressure** — **and** **analogical** **read** **for** **DEW** **church** **floor** **labor** **(tier** **C)**.
 
-**Reader essay:** [**Floor labor — essay summary**](/influence/controlled_opposition/debunk-host-scheduled-slot.md#the-alef-network--reference-implementation-2026) (who works the floor paragraph).
+**Reader essay:** [**Floor labor — essay summary**](/influence/controlled_opposition/alef-and-the-clogged-internet.md#the-alef-network--reference-implementation-2026) (who works the floor paragraph).
 
 #### A. Compartmentalization — “employee with orders”
 
@@ -649,7 +649,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 ## 9.6 Live debate read (Jun 2026)
 
-**Jun 28, 2026** — author live call with Norman (@911revision), ~52 min, recorded. **Context:** ~**15 years** 9/11 research **off-platform**; author **new to Substack** / truth-movement comment wars — call = **cross-examination of a potential mesh node**, not forensic debate. **Reader essay (author voice, no debate-transcript quotes):** [**Alef and the clogged internet**](/influence/controlled_opposition/debunk-host-scheduled-slot.md#cross-examination-of-a-node-jun-28-2026). **Interaction pattern:** Substack **taunt-without-engage** (munchkin/sweetie/crybaby, homework loops) → **scheduled Sunday slot** → video **persona mismatch** (friendly evangelist, bibliography, no demonstrated read of author’s Substack work).
+**Jun 28, 2026** — author live call with Norman (@911revision), ~52 min, recorded. **Context:** ~**15 years** 9/11 research **off-platform**; author **new to Substack** / truth-movement comment wars — call = **cross-examination of a potential mesh node**, not forensic debate. **Reader essay (author voice, no debate-transcript quotes):** [**Alef and the clogged internet**](/influence/controlled_opposition/alef-and-the-clogged-internet.md#cross-examination-of-a-node-jun-28-2026). **Interaction pattern:** Substack **taunt-without-engage** (munchkin/sweetie/crybaby, homework loops) → **scheduled Sunday slot** → video **persona mismatch** (friendly evangelist, bibliography, no demonstrated read of author’s Substack work).
 
 **Plausible deniability (essay thesis):** On call (author memory), host may have claimed **controlled demolition impossible altogether** — **off published doctrine** ([Calling Out Bravo 7](https://911revision.substack.com/p/calling-out-bravo-7-for-real) uses CD as **ruler**, rejects CD **for WTC**). **Post-call retreat** available: *only meant this event*, *misunderstood tone*, *book homework*. Essay reads this **evangelical dodge** as **hardest barrier** for **9/11 Truth** coalition — **astroturfing root**, not sincere mechanism dispute.
 
@@ -693,7 +693,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 | Gage / AE911Truth / DEW hangout | [richard-gage-ae911truth-controlled-demolition-investigation](./richard-gage-ae911truth-controlled-demolition-investigation.md) |
 | 9/11 good-actor thesis | [09-11-investigation](./09-11-investigation.md) |
 | Controlled opposition hub | [influence/controlled_opposition/page.md](/influence/controlled_opposition/page.md) |
-| Debunk-host essay + Alef rhyme | [debunk-host-scheduled-slot](/influence/controlled_opposition/debunk-host-scheduled-slot.md) |
+| Alef essay + clogged-internet thesis | [alef-and-the-clogged-internet](/influence/controlled_opposition/alef-and-the-clogged-internet.md) |
 
 Keywords: #Ic911a #911Revisionist #ControlledOpposition #Dew #NoPlanes #JudyWood #RichardGage #ParadigmThreatFiles
 

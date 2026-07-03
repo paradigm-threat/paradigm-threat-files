@@ -36,6 +36,6 @@
 - Ari **stopped** when the pattern stabilized: taunts, bibliography homework, 1-on-1 bait — **without** pinning belief in writing.
 - Pre-call: Ari warned he would **record** and **throw it back**; Norman still booked **Sunday**.
 
-**Link:** [Live debate debrief](../norman-911revision-live-debate-debrief.md) · [Reader essay](/influence/controlled_opposition/debunk-host-scheduled-slot.md)
+**Link:** [Live debate debrief](../norman-911revision-live-debate-debrief.md) · [Reader essay](/influence/controlled_opposition/alef-and-the-clogged-internet.md)
 
 **Last updated:** 2026-07-01

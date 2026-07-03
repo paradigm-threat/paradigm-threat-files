@@ -438,7 +438,7 @@ Patterns Norman performed live — material for the planned article:
 
 ## Reader essay — shipped
 
-**Title:** [**Debunk host, scheduled slot**](/influence/controlled_opposition/debunk-host-scheduled-slot.md)
+**Title:** [**Alef and the clogged internet**](/influence/controlled_opposition/alef-and-the-clogged-internet.md)
 
 **Audience:** Researchers mapping **resistance patterns** on 9/11 — not “how to beat thermite.”
 
@@ -476,7 +476,7 @@ Patterns Norman performed live — material for the planned article:
 
 **Source artifacts:** this debrief, [ic911a investigation](../../events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md). Curated transcript **internal only** — do not quote in essay.
 
-**Status:** `[x]` **Shipped** 2026-07-01 — [debunk-host-scheduled-slot.md](/influence/controlled_opposition/debunk-host-scheduled-slot.md).
+**Status:** `[x]` **Shipped** 2026-07-01 — [alef-and-the-clogged-internet.md](/influence/controlled_opposition/alef-and-the-clogged-internet.md).
 
 ---
 
@@ -512,7 +512,7 @@ Patterns Norman performed live — material for the planned article:
 | [norman-911revision-diarization.json](./norman-911revision-diarization.json) | 705 speaker intervals |
 | [curate_debate_transcript.py](./curate_debate_transcript.py) | High-conf filter |
 | [norman-substack-thread-war/evidence-index.md](./norman-substack-thread-war/evidence-index.md) | `[x]` Thread-war archive |
-| [debunk-host-scheduled-slot.md](/influence/controlled_opposition/debunk-host-scheduled-slot.md) | `[x]` Reader essay |
+| [alef-and-the-clogged-internet.md](/influence/controlled_opposition/alef-and-the-clogged-internet.md) | `[x]` Reader essay |
 | [ic911a CO investigation](../../events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md) | Norman dossier |
 
 *Debrief written 2026-06-28; expanded with real premise, persona-split read, court-server frame, pluralistic overlap / rigid scope strats.*
