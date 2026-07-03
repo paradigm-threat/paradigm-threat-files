@@ -51,7 +51,7 @@ Floor slang — **“mammoth,”** **“sucker”** — matches GI-TOC reporting
 
 **Alef is not unique** — Israel’s **binary-options wave**, **Milton Group** floors after the **2017** ban, **Mumbai IRS** impersonation centers, **Southeast Asian pig-butchering compounds** — same **grammar**, different prey ([ic911a §5.9 catalog](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#59-comparable-industrial-fraud-meshes-20052026--reference-catalog)). Alef is the **2026 clean diagram** because **dockets, victim stacks, and floor scale** are on record.
 
-**Who works the floor:** GI-TOC [*Kyiv Calling*](https://globalinitiative.net/wp-content/uploads/2026/04/Kyiv-calling-The-scam-call-centre-phenomenon-in-Ukraine-GI-TOC-April-2026.pdf) describes tiered hierarchies where **line staff see one office** while **owners span a mycelium** — *“a low-level employee knows nothing consequential about the real money-makers.”* Economic desperation fills the floors ([§5.10](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#510-floor-labor--compartmentalization-recruitment-and-economic-desperation)). **That pattern explains industrial scale**; it is **not** a claim about any **9/11 operator** without field evidence.
+**Who works the floor:** GI-TOC [*Kyiv Calling*](https://globalinitiative.net/wp-content/uploads/2026/04/Kyiv-calling-The-scam-call-centre-phenomenon-in-Ukraine-GI-TOC-April-2026.pdf) describes tiered hierarchies where **line staff see one office** while **owners span a mycelium** — *“a low-level employee knows nothing consequential about the real money-makers.”* Economic desperation fills the floors ([§5.10](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#510-floor-labor--compartmentalization-recruitment-and-economic-desperation)). 
 
 ### Free internet → controlled internet
 
@@ -174,7 +174,7 @@ Hub: [Controlled Opposition](https://paradigmthreat.net/influence/controlled_opp
 
 Keywords: #AlefScam #InternetIntransigence #OpaqueAlgorithms #ControlledOpposition #911Truth #DebatePrevention #PlausibleDeniability #COVID #ParadigmThreat
 
-**Last updated:** 2026-07-03T09:27:00-04:00
+**Last updated:** 2026-07-03T09:29:00-04:00
 
 ---
 

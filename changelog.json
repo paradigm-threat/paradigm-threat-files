@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-03T13:27:52.197Z",
+    "date": "2026-07-03T13:29:41.728Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.md",
+        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-03T13:27:50.000Z",
+    "message": "Rewrite Alef mesh as standalone prose; tighten article guidelines.",
     "files": [
       {
         "status": "M",
@@ -426,45 +439,6 @@
         "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
         "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. **TL;DR check:** grep the blockquote for `http`, `Patreon`, `$`, `§`, and dossier-style evidence — **move** hits to the body. **No “narrative spine” / companion-dossier routing** between the hook and the first `##` body section — that belongs in **`## Where next`** (see Shape step 6). Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Series installments:** read the **prior installment** in full; cut shared frame that Installment I already taught. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). **Grep for local/internal paths** — reject before ship: `/home/`, `~/`, `/media/`, `/docs/debate-notes`, `~/dev/wget`, bare recording filenames. Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
       },
-      {
-        "src": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
-        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
-      },
-      {
-        "src": "/governance/constitution/investigations/constitution-amendments-by-camp.png",
-        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png",
-        "alt": "TONA, Not War — Liberty's Rebrand"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
-        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-by-camp.png",
-        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-02T12:35:58.000Z",
-    "message": "Document two-part replacement thesis — parchment before bodies.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md",
-        "href": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/constitution/tona-not-war-liberty-rebrand.md",
-        "href": "/governance/constitution/tona-not-war-liberty-rebrand"
-      }
-    ],
-    "images": [
       {
         "src": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
         "alt": "Constitution and amendments — nationalist vs globalist battlefield"
