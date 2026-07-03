@@ -26,8 +26,6 @@ What blocks exchange is upstream of the wire. **Flow clogging** drowns signal �
 
 I draw audiences through podcast bypass because independent articles on this site are barely seen without human routing — the same read as [The Internet That Should Have Been §III](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md): blacklisting and shadow demotion for voices outside the garden.
 
-![Substack edit page not found while Latest feed still lists Paradigm Threat — platform enclosure and index tiering, June 2026](https://paradigmthreat.net/influence/censorship/substack-edit-page-not-found-2026-06.png)
-
 ## A body without an immune system
 
 Extend the metaphor one step: a country is a living body. Healthy tissue recognizes pathogens, routes antibodies, clears infection before it becomes systemic. COVID-19 was a perfect stress test of immune failure — not only in hospitals, but in information.

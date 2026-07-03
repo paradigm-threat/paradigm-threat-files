@@ -1,8 +1,72 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-03T14:19:06.024Z",
-    "message": "(staged)",
+    "date": "2026-07-03T14:25:32.000Z",
+    "message": "Remove Substack edit screenshot; correct transient-bug note.",
+    "files": [
+      {
+        "status": "M",
+        "path": "blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai.md",
+        "href": "/blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai"
+      },
+      {
+        "status": "M",
+        "path": "influence/censorship/platform-blocks-instagram-substack-2026-06.md",
+        "href": "/influence/censorship/platform-blocks-instagram-substack-2026-06"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.md",
+        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
+        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
+        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.png",
+        "alt": "The Internet That Should Have Been — machine-readable web, wrong timeline, AI gate"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png",
+        "alt": "The Peace Deal Nobody Cares About — universal dissatisfaction, Islamabad MOU, and Strait of Hormuz"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/health/royal-rife-frequency-medicine-suppression.png",
+        "alt": "Royal Rife — what the letters say when the banquet only heard the microscope"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.png",
+        "alt": "The Hidden History of Words — lexical reset, Latin breakaway, and the Horde redaction wall"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.png",
+        "alt": "Moorish ten presidents — meme refutation and Horde-fracture interpretive lane"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png",
+        "alt": "Richard Gage / AE911Truth — controlled demolition lane and DEW hangout read"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/censorship/instagram-image-upload-blocked-2026-06.png",
+        "alt": "Instagram — image post blocked, generic error modal (June 2026)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/alef-and-the-clogged-internet.png",
+        "alt": "Alef and the clogged internet — industrial mesh, clogged flows, debunk-host cross-examination"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-03T14:19:04.000Z",
+    "message": "Add Alef essay hero PNG; relocate corpus images to relevant sections.",
     "files": [
       {
         "status": "M",
@@ -1051,35 +1115,5 @@
     "message": "Bump index.json _version so clients refetch updated TONA article.",
     "files": [],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-02T13:24:57.000Z",
-    "message": "Add Substack link and dual-citizenship disclosure to TONA article.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/constitution/tona-not-war-liberty-rebrand.md",
-        "href": "/governance/constitution/tona-not-war-liberty-rebrand"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png",
-        "alt": "TONA, Not War — Liberty's Rebrand"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
-        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-by-camp.png",
-        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
-        "alt": "Promised land — harbor monument and demographic geometry"
-      }
-    ]
   }
 ]

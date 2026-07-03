@@ -135,15 +135,13 @@ During the same window as the **Gage / AE911Truth** dossier expansion and public
 
 **Instagram** — **new image posts** fail on **every account** tested, **PC and phone**, with a generic *Something went wrong. Please try again.* modal. Text-only behavior was not fully re-tested in this log; the documented break is the **image upload** path.
 
-**Substack** — opening **own post URLs** on **paradigmthreat2** (including **edit**) returns **Page not found**, while **Latest** still **lists** titles (*The Hidden History of Words*, *Royal Rife*, etc.). Losing the editor is minor; the worry is **phantom listing** — feed rows that **look published** while the article may **not resolve for anyone**. Same **404** on the author’s click path is the signal; third-party URL checks are **not yet logged** in the dossier.
+**Substack** — for a short window, opening **own post URLs** on **paradigmthreat2** returned **Page not found** while **Latest** still **listed** titles (*The Hidden History of Words*, *Royal Rife*, etc.). **July 2026 correction:** edit and post URLs worked again without appeal — a **temporary Substack bug**, not a sustained edit block.
 
-**Author read (L3, not proved):** timing rhymes with arguing against a **9/11 controlled-opposition** interlocutor in-thread — the safe demolition lane, thermite theater, **no-planes bypass** as intentional fracture. Platforms gave **no contestable reason**; same opacity grammar as the [GitHub ban record](https://paradigmthreat.net/influence/censorship/github-ban). **Mitigation:** **paradigmthreat.net** as canonical; verify Substack delivery from a **logged-out** browser before treating the newsletter as live.
+**Author read (L3, not proved):** timing rhymes with arguing against a **9/11 controlled-opposition** interlocutor in-thread — the safe demolition lane, thermite theater, **no-planes bypass** as intentional fracture. Platforms gave **no contestable reason** on Instagram; Substack’s 404 spell self-resolved. Same opacity grammar as the [GitHub ban record](https://paradigmthreat.net/influence/censorship/github-ban). **Mitigation:** **paradigmthreat.net** as canonical.
 
 Full screenshot archive and limits: [Platform blocks — Instagram and Substack (June 2026)](https://paradigmthreat.net/influence/censorship/platform-blocks-instagram-substack-2026-06).
 
 ![Instagram — image post blocked, generic error modal (June 2026)](https://paradigmthreat.net/influence/censorship/instagram-image-upload-blocked-2026-06.png)
-
-![Substack — Page not found on own posts while Latest still lists titles (June 2026)](https://paradigmthreat.net/influence/censorship/substack-edit-page-not-found-2026-06.png)
 
 ---
 
