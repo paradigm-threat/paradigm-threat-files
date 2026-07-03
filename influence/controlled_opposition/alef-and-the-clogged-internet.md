@@ -41,7 +41,7 @@ Cross-read [platform blocks — Instagram / Substack (2026)](https://paradigmthr
 
 ## The Alef network — reference implementation (2026)
 
-In **June 2026**, RT released [*Mask Of Deception: The Alef Scam*](https://www.rt.com/shows/documentary/642120-alef-family-criminal-empire/) — treat RT as **state-adjacent packaging**; cross-check [Stop UA Scam](https://stopuascam.com/), **Estonian court records** against **Artur Yermolaev**, and Global Initiative’s [**Scammers’ Paradise?**](https://globalinitiative.net/wp-content/uploads/2026/04/Scammers-paradise-Assessing-scam-centres-in-Eurasia-GI-TOC-April-2026.pdf). Converging reporting describes **not** a bedroom grifter but a **franchised mesh**:
+In **June 2026**, RT released [*Mask Of Deception: The Alef Scam*](https://www.rt.com/shows/documentary/642120-alef-family-criminal-empire/) — cross-check [Stop UA Scam](https://stopuascam.com/), **Estonian court records** against **Artur Yermolaev**, and Global Initiative’s [**Scammers’ Paradise?**](https://globalinitiative.net/wp-content/uploads/2026/04/Scammers-paradise-Assessing-scam-centres-in-Eurasia-GI-TOC-April-2026.pdf). Converging reporting describes a **franchised mesh**:
 
 - **Respectable front:** **Alef Group** — construction, alcohol, agribusiness in Dnipropetrovsk.
 - **Industrial floor:** on the order of **~170 centers**, **10,000–15,000 operators** (Stop UA Scam).
