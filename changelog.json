@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-03T14:58:03.606Z",
+    "date": "2026-07-03T15:15:02.618Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.m4a",
+        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet.m4a"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-03T14:58:01.000Z",
+    "message": "Normalize Alef call audio: louder, declipped, limited.",
     "files": [
       {
         "status": "M",
@@ -1094,29 +1107,6 @@
         "status": "M",
         "path": "influence/controlled_opposition/debunk-host-scheduled-slot.md",
         "href": "/influence/controlled_opposition/debunk-host-scheduled-slot"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-02T14:56:46.000Z",
-    "message": "Bridge Alef to DEW church mesh and add comparable fraud catalog.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md",
-        "href": "/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/debunk-host-scheduled-slot.md",
-        "href": "/influence/controlled_opposition/debunk-host-scheduled-slot"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/page.md",
-        "href": "/influence/controlled_opposition"
       }
     ],
     "images": []
