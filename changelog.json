@@ -1,8 +1,42 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-03T14:04:43.110Z",
+    "date": "2026-07-03T14:19:06.024Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.md",
+        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet"
+      },
+      {
+        "status": "A",
+        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.png",
+        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/controlled_opposition/alef-and-the-clogged-internet.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/alef-and-the-clogged-internet.png",
+        "alt": "Alef and the clogged internet — industrial mesh, clogged flows, debunk-host cross-examination"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.png",
+        "alt": "The Internet That Should Have Been — machine-readable web, enclosure, merit visible to crawlers"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/censorship/substack-edit-page-not-found-2026-06.png",
+        "alt": "Substack edit page not found while Latest feed still lists Paradigm Threat — platform enclosure and index tiering, June 2026"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-03T14:04:41.000Z",
+    "message": "Pre-publish pass on Alef essay: images, prose tables, abs URLs.",
     "files": [
       {
         "status": "M",
@@ -1022,36 +1056,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-07-02T13:24:57.000Z",
     "message": "Add Substack link and dual-citizenship disclosure to TONA article.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/constitution/tona-not-war-liberty-rebrand.md",
-        "href": "/governance/constitution/tona-not-war-liberty-rebrand"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png",
-        "alt": "TONA, Not War — Liberty's Rebrand"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
-        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-by-camp.png",
-        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
-        "alt": "Promised land — harbor monument and demographic geometry"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-02T13:17:48.000Z",
-    "message": "Pre-publish polish for TONA article — links, bridge, promised-land art.",
     "files": [
       {
         "status": "M",

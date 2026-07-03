@@ -2,7 +2,7 @@
 
 How industrial engagement meshes block ideas from reaching each other — and what a 9/11 debunk-host call revealed about the last barrier: plausible deniability
 
-![The Internet That Should Have Been — clogged flows and the mesh we did not get](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.png)
+![Alef and the clogged internet — industrial mesh, clogged flows, debunk-host cross-examination](https://paradigmthreat.net/influence/controlled_opposition/alef-and-the-clogged-internet.png)
 
 **Live recording (audio, ~52 min):** [June 28, 2026 call](https://paradigmthreat.net/influence/controlled_opposition/alef-and-the-clogged-internet.m4a)
 
@@ -14,6 +14,8 @@ Tim Berners-Lee’s **Mesh** proposal was a workshop: distributed hypertext, no 
 
 That is not what we got. I developed this read in [The Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md) — machine-readable capability, inspectable contracts, merit visible to crawlers. This essay goes further. Blocking invention and open hoods is one layer. **Blocking communication itself** — the ability to send warnings, surface alternate cures, bubble good ideas so everyone can see them — is the deeper failure. The internet still transports packets. It no longer transports consensus toward truth under pressure.
 
+![The Internet That Should Have Been — machine-readable web, enclosure, merit visible to crawlers](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.png)
+
 ## Not protocol — clogging and indexing
 
 Nothing in TCP/IP forbids a vaccine skeptic and an honest clinician from finding each other. Nothing in HTTP prevents a 9/11 researcher from publishing chronology and having it indexed fairly next to a debunk footer stack.
@@ -24,6 +26,8 @@ What blocks exchange is upstream of the wire. **Flow clogging** drowns signal �
 
 I draw audiences through podcast bypass because independent articles on this site are barely seen without human routing — the same read as [The Internet That Should Have Been §III](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md): blacklisting and shadow demotion for voices outside the garden.
 
+![Substack edit page not found while Latest feed still lists Paradigm Threat — platform enclosure and index tiering, June 2026](https://paradigmthreat.net/influence/censorship/substack-edit-page-not-found-2026-06.png)
+
 ## A body without an immune system
 
 Extend the metaphor one step: a country is a living body. Healthy tissue recognizes pathogens, routes antibodies, clears infection before it becomes systemic. COVID-19 was a perfect stress test of immune failure — not only in hospitals, but in information.
@@ -33,8 +37,6 @@ People tried to warn each other — about vaccine harms, alternate treatments, s
 Whether each alternate cure held up, the **immune response never ran** — no fair public sorting, no merit bubble, no durable archive the whole body could inspect. Industrial engagement networks — astroturf, bot amplification, scripted empathy floors, credibility slots on video — had to do something about the free internet. The product was a controlled internet: key info blacklisted at the app level so it never gets far in the wider web. COVID was the mass casualty event; Alef is the architecture diagram.
 
 Cross-read [platform blocks — Instagram / Substack (2026)](https://paradigmthreat.net/influence/censorship/platform-blocks-instagram-substack-2026-06.md) for platform-side enforcement examples.
-
-![Substack edit page not found while Latest feed still lists Paradigm Threat — platform enclosure, June 2026](https://paradigmthreat.net/influence/censorship/substack-edit-page-not-found-2026-06.png)
 
 ## The Alef network — reference implementation (2026)
 
@@ -62,7 +64,7 @@ After JFK, 9/11 Truth is the longest-running mass-doubt community in American li
 
 ### Personal field note — solved mysteries that won't bubble
 
-I feel like I have solved a lot of the 9/11 mystery — not as brag, as inventory. After ~fifteen years of chronology and investigation work, I can answer basically any question someone throws at me on mechanism, agency, broadcast, or WHY. What I find strange is not that I think I am right. It is that the community has not said any of the things I have concluded — not even as hypothesis on the table. Simple, legible reads like [**Good-Actor Theory**](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) — interagency war, antibody factions, WHY at home and early — do not propagate. They do not get debated and rejected. They do not appear. That absence is what I mean by **clogged**.
+I feel like I have solved a lot of the 9/11 mystery — not as brag, as inventory. After ~fifteen years of chronology and investigation work, I can answer basically any question someone throws at me on mechanism, agency, broadcast, or WHY. What I find strange is not that I think I am right. It is that the community has not said any of the things I have concluded — not even as hypothesis on the table. Simple, legible reads like [**Good-Actor Theory**](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) — interagency war, antibody factions, WHY at home and early — do not propagate. They do not get debated and rejected. They do not appear at all. That absence is what I mean by **clogged**.
 
 The algorithm — opaque index and engagement layers above any one forum — does not route you toward the new synthesis that might go viral. It routes you toward the debate that has already been had: thermite, DEW, no-planes, Gage homework, Judy Wood footers, the same loops millions of people have already run. Regulated re-enactment, not discovery. The stack selects for repetition because repetition is predictable engagement — coalition time burned, no merit bubble for a fresh frame.
 
@@ -146,7 +148,7 @@ Companion dossiers and sibling reads for the Alef mesh, the Jun 2026 call, and t
 
 Keywords: #AlefScam #InternetIntransigence #OpaqueAlgorithms #ControlledOpposition #911Truth #DebatePrevention #PlausibleDeniability #COVID #ParadigmThreat
 
-**Last updated:** 2026-07-03T10:03:00-04:00
+**Last updated:** 2026-07-03T10:18:00-04:00
 
 ---
 
