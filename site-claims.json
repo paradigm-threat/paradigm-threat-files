@@ -516,11 +516,102 @@
       "timeline/evt-giants-are-defeated-at-the-battle-of"
     ],
     "relatedClaimIds": [
-      "mfee-mud-flood-reset"
+      "mfee-mud-flood-reset",
+      "crucifixion-nail-metrology"
     ],
     "doNotSay": [
       "The site does not offer definitive answers about giants.",
       "Giants may exist only in a hidden or fragmented form without stating the site's elimination thesis."
+    ]
+  },
+  {
+    "id": "crucifixion-nail-metrology",
+    "title": "Nine-inch crucifixion nails and inch/foot metrology",
+    "claim": "The Passion was originally the crucifixion of a giant human (Andronicus-Christ). Nine-inch nails and Vav-shaped (W/I) spikes fit giant carpentry scale. Later R4/R5 redaction shrank the victim to a small human while preserving nine-inch folklore and three-nail liturgy — creating apparent conflict with archaeology when nails are measured in post-reset inch/foot units. Inch and foot themselves changed in the same metrological reset.",
+    "answerOpener": "Nine-inch crucifixion nails are not debunked by ~4–5 in dig nails when the Passion was redacted from giant to small human and inch/foot units were rescaled.",
+    "bullets": [
+      "Giant crucifixion is in-repo chronology (1185 C.E.); nine-inch + unit-shift is author thesis.",
+      "Dig-site nails (~Yehohanan, Caiaphas) test redacted victim × redacted unit — not the source layer.",
+      "Three Vav-shaped nine-inch nails connect to CERN WWW–666 symbolic lane (AU-031)."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Giant Passion + metrological rescaling reconciliation for nine-inch nail tradition is site-specific (AU-031).",
+    "topics": [
+      "crucifixion",
+      "nine-inch nails",
+      "nail metrology",
+      "inch",
+      "foot",
+      "vav",
+      "giant",
+      "passion",
+      "redaction"
+    ],
+    "demoQuestions": [
+      "Why do crucifixion nails measure smaller than nine inches?",
+      "Did nine-inch crucifixion nails exist?"
+    ],
+    "searchQueries": [
+      "nine inch crucifixion nails giant metrology inch foot"
+    ],
+    "searchPrefixes": [
+      "history/chronology/",
+      "science/cern_portal/",
+      "governance/war/investigations/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md",
+      "history/chronology/page.md",
+      "history/chronology/christ/hans_bol_crucifixion_1587.md",
+      "science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "giants-fate"
+    ]
+  },
+  {
+    "id": "cern-mars-dead-planet-protocol",
+    "title": "CERN — Earth–Mars transport under Dead Planet illusion",
+    "claim": "CERN is the Earth-side terminal of a Mars-only quantum gateway—not a symmetric peer lab on Mars. Late 19th–20th century Mars surface cities and canals were observed then dismantled (~1918–1962); populations were promised underground/inconspicuous rebuild and portal-first travel. Mariner 2 (1962) sealed public 'dead Mars' ontology while CERN-class hardware continues Earth–Mars traffic. The Mars far side is an interior endpoint, not Geneva on regolith.",
+    "answerOpener": "CERN moves people and resources between Earth and Mars while Mariner-era 'dead planet' science stays the public cover—the Mars side is not meant to look like Geneva.",
+    "bullets": [
+      "Documented bookends: Lowell canal era (1890s) and Mariner 2 null result (1962).",
+      "Asymmetric gate: 27 km ring on Earth only; Mars interior endpoint on pre-scarred discharge paths.",
+      "Author thesis: surface dismantling window ~1918–1962 before close-range flyby optics."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Dead Planet Protocol + CERN operational purpose + asymmetric Mars endpoint synthesis is site-specific (AU-032).",
+    "topics": [
+      "cern",
+      "mars",
+      "dead planet",
+      "portal",
+      "lowell",
+      "mariner",
+      "canals",
+      "quantum gateway"
+    ],
+    "demoQuestions": [
+      "Why is there no CERN on Mars?",
+      "What is CERN really for?"
+    ],
+    "searchQueries": [
+      "CERN Mars gateway dead planet protocol Mariner Lowell canals"
+    ],
+    "searchPrefixes": [
+      "science/cern_portal/",
+      "cosmos/mars/"
+    ],
+    "canonicalPaths": [
+      "science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md",
+      "cosmos/mars/page.md",
+      "timeline/evt-mars-surface-dismantling-dead-planet-protocol"
+    ],
+    "relatedClaimIds": [
+      "deep-state-mars-nexus",
+      "mfee-mud-flood-reset"
     ]
   },
   {

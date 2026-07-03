@@ -1,8 +1,11 @@
 # CERN and Portal Technology — Investigation
 
-> **TL;DR:** Open investigation treating CERN’s LHC as a plausible aether-distortion or portal device: senior CERN “door / something might come through” quotes, extra-dimension reporting, Maxwell/aether context, and explicit project stance that literal portal language is primary-source signal.
+> **TL;DR:** Open investigation treating CERN’s LHC as a plausible **æther-distortion** or portal device: **Maxwell’s equations** as proof the vacuum has medium properties; senior CERN “door / something might come through” quotes; **Mars-only** gateway thesis in the dedicated dossier. Literal portal language is primary-source signal.
 
 **Status:** Open  
+**Primary dossier:** [CERN as Earth–Mars Quantum Gateway — æther physics, Maxwell, Mars-only siting, Dead Planet Protocol §3.4–§3.6, Philadelphia §10](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md)  
+**Timeline:** [Mars surface dismantling — Dead Planet Protocol (1890s→1962)](/timeline/evt-mars-surface-dismantling-dead-planet-protocol)  
+**Precursor (legend tier):** [Philadelphia Experiment — events page](/events/philadelphia/page.md) — **1943** ship-scale portal trial; **Norfolk** teleport; **not** time travel.
 **Triggered by:** Content strategy; [The Suppression of Maxwell and the Aether](/timeline/evt-suppression-of-maxwell-and-the-aether) (13.06.00) raises the possibility that CERN's LHC could function as an aether-manipulation or portal device.
 
 **Methodology:** Per `docs/INVESTIGATIVE_STRATEGY.md` — we do not rule out possibilities due to consensus or "lack of evidence"; we trace primary sources, note predictive programming, and leave interpretation open where appropriate.
@@ -68,8 +71,10 @@ CERN has repeatedly denied that the LHC can "open portals," "create black holes 
 
 ## Aether and the LHC
 
-- **Timeline thesis (13.06.00):** If the aether is real and manipulable, then "portal" technology is an engineering problem. The LHC manipulates extreme energies and fields in a confined volume; in aether physics, that corresponds to local distortion of the medium — i.e. portal-capable.
+- **Timeline thesis (13.06.00):** If the æther is real and manipulable, then "portal" technology is an engineering problem. The LHC manipulates extreme energies and fields in a confined volume; in æther physics, that corresponds to local distortion of the medium — i.e. portal-capable.
+- **Maxwell foundation:** Permittivity ε₀ and permeability μ₀ are **measured properties of the substrate**, not of literal nothingness; *c* = 1/√(μ₀ε₀) has the same logical shape as sound speed in a medium. Maxwell stated the æther **"must exist."** Full chain: [Did Maxwell prove the æther?](/science/maxwell_aether/02-did-maxwell-prove-the-aether.md) · [Burden of proof](/science/maxwell_aether/01-burden-of-proof-debate.md) · [Mars-only gateway dossier](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) §1–§2.
 - **Mainstream language:** CERN and particle physics describe the vacuum as a "quantum field" or "Higgs field" — not "empty." So the LHC is already manipulating a medium. We describe that in portal/gateway terms; no other explanation fits the combination of physics and primary-source statements.
+- **Mars endpoint:** Project thesis: CERN terminal opens to **Mars only** (Venus excluded — too chaotic for CERN-scale siting). See [gateway investigation §3](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md).
 - **No peer-reviewed "portal" claim:** There is no published, mainstream paper claiming the LHC opens traversable portals. That is absence of evidence, not evidence of absence; under the strategy we do not let it override the interpretive stance above.
 
 ---
@@ -107,9 +112,11 @@ CERN has repeatedly denied that the LHC can "open portals," "create black holes 
 
 ## Next Steps
 
+- Extend [CERN–Mars quantum gateway investigation](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) — FOIA, FCC docs, Miller/Sagnac æther follow-ups.
+- **WWW / Vav / 666 / nine-inch nails:** [Crucifixion giant redaction — nail metrology (AU-031)](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) — canonical metrology dossier for §6.4 symbolic chain.
 - Search for any CERN or member-state documents (FOIA, archives) mentioning "portal," "door," or "dimension" in an operational context.
 - Collect further primary-source quotes or institutional language that supports the portal interpretation (evidence of this type is gold).
-- No timeline or appendix subsection for CERN/portal yet; this investigation stands as the dedicated section.
+- No timeline or appendix subsection for CERN/portal yet; hub + dossier stand as dedicated sections.
 
 ---
 

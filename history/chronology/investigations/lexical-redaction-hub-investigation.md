@@ -61,6 +61,7 @@
 | ***Pro/con*, *left/right*, *righteous*, *rush*, *rat/mouse* pejoration** | A | [rus-horde-english-political-lexicon-speculation.md](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) | **AU-005**; *right* = justified authority; *righteous* = Rus–Horde “right side” memory (open); Protestant **mass print** §6 |
 | **Chronologia forum outreach (RU)** — Linguistics `f=6` opening post | meta | [forum reply draft](../the-hidden-history-of-words-chronologia-forum-reply.md); [BBCode](../the-hidden-history-of-words-chronologia-forum-reply.bbcode) | Table clusters + reader witness; omits Mars/telepathy per NC forum culture |
 | **Infantry / guerrilla / Children’s Crusade** — giant foot lines | A (+ event) | [giants-infantry-guerrilla-etymology-investigation.md](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) | **AU-002** |
+| **Nine-inch crucifixion nails / inch–foot metrology** — giant Passion hardware vs redacted small body | A (+ **R3** metrology) | [crucifixion-giant-redaction-nail-metrology-investigation.md](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) | **AU-031**; CERN **WWW–Vav–666** cross-lane |
 | **Moor / Boor / German forced split** — label politics | A | [europe-white-bloodline-complexion-whitewash-investigation.md](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) §2c | **AU-003** |
 | **Moor** etymology — Maghrebi, *mor*, slave-trade lanes | A | [slave-trades-and-moor-etymology-investigation.md](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) | Three Moor lanes ↔ [Cherokee](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) |
 | **Martyr** / Mars / murder overlap | A (+ war) | [martyr-word-history-investigation.md](https://paradigmthreat.net/governance/war/investigations/martyr-word-history-investigation.md) | **AU-016** |
@@ -76,7 +77,7 @@
 | **Cryptid → cryptic** survivorship | A? | [skinwalkers-cryptids-rus-horde-extirpation-investigation.md](/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md) | **Speculative** phonetic lane |
 | **Patsey / Moran / Bacon** (+ §2b Guy, Lynch, Judas, …; **§2c toxic-name whitewash**) — person → word → rebrand loop | B | [eponym-words-forgotten-people-investigation.md](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) | **Open** — §2c **AU-029** Bacon flagship 2026-06-27 |
 | **Lane A candidate backlog** (*barbarian*, *Tartar*, *canon/cannon/trump/trumpet*, *slave/Slav*, …) | A | [rus-horde-english-political-lexicon-speculation.md](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) §12 | Consolidated **2026-06-26** |
-| **Author-unique registry** | meta | [author-unique-theories.md](/history/chronology/investigations/author-unique-theories.md) | **AU-001–030** |
+| **Author-unique registry** | meta | [author-unique-theories.md](/history/chronology/investigations/author-unique-theories.md) | **AU-001–031** |
 
 *When you add a row here, link **back** from the child dossier’s **Related** section to this hub.*
 

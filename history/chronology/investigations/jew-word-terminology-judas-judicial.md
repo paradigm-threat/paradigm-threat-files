@@ -15,6 +15,8 @@ On that reading:
 
 **Status:** Investigative. The sections below spell out the thesis; the appendix documents **Scaligerian lexicography** (Hebrew → Greek → Latin, early inscriptions) so the contrast is on the record.
 
+**Passion scale (related):** The crucifixion complex is also read as **giant** Andronicus-Christ on the cross; **nine-inch nails** and **inch/foot** metrology after **small-body redaction** — [AU-031](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md).
+
 ---
 
 ## 1. Why only the crucifixion moment?

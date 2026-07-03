@@ -3,7 +3,7 @@
 > **TL;DR:** Central index of **Paradigm Threat / author** claims that are **not** standard Fomenko, Illig, Velikovsky, etc., and for which **no close prior-art match** has been found in mainstream or NC literature after repo search. Each entry links to its **canonical dossier** or timeline event. **Prior art: none** means **no external author stating the same package** — adjacent ideas may exist; see per-file Limits.
 
 **Status:** Living registry (add rows when a new author-unique thread ships).  
-**Last updated:** 2026-06-26 (AU-005 *righteous* extension)  
+**Last updated:** 2026-07-03 (AU-032 Dead Planet Protocol / CERN purpose)  
 **Lexical redaction cross-ref hub:** [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — master table for all **word-redaction** dossiers (**AU-027** meta-thesis).
 
 ---
@@ -48,6 +48,8 @@ Per-investigation **§ Author open claims** blocks remain the **detail** registr
 |----|----------------|-----------|-----------------|
 | **AU-015** | **Istanbul cult** continuity; ritual = food/money/chattel; **“royal”** = people’s king not DNA; **Crusade killers ≠ martyrs** | **author extension** of Fomenko two-branch map | [Two branches: Fomenko vs author](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md) |
 | **AU-016** | Strict **martyr** = held belief under mob duress; Istanbul crucifiers **not** martyrs | **author** | [Martyr word history](/governance/war/investigations/martyr-word-history-investigation.md) |
+| **AU-031** | **Nine-inch crucifixion nails** fit **giant** Passion; narrative **shrunk** giant→small human; **inch/foot** metrology **rescaled** — dig nails **do not** debunk without unit conversion | **none** (2026-07-03) | [Crucifixion giant redaction — nail metrology](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) |
+| **AU-032** | **Dead Planet Protocol:** Mars **surface cities dismantled** (~1918–1962); **portal-first** travel; **CERN** = Earth–Mars transport under **dead-Mars** illusion; **Mars side ≠ Geneva** | **none** (2026-07-03) | [CERN dossier §3.4–§3.6](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) · [timeline event](/timeline/evt-mars-surface-dismantling-dead-planet-protocol) |
 
 ---
 

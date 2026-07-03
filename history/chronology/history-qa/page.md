@@ -707,6 +707,8 @@ religion promising freedom from tyranny and an end to usury. This forced the han
 option than to crucify Christ in a gruesome public display within the tall gates of Troy. The objective of the
 crucifixion was to put down his insurrection and make an example of its leader.
 
+**Metrology (AU-031):** The Passion was originally a **giant** crucifixion; **nine-inch nails** fit that layer. After **R4/R5** redaction shrank the victim to a **small human**, **inch** and **foot** were **rescaled** — dig nails (~4–5 in) do not debunk the tradition without unit conversion. [Full dossier](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md).
+
 ![Great Conjunction of Jupiter and Saturn - Star of Bethlehem](../../christ/conjunction.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
 
 The

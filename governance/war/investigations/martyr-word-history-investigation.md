@@ -92,6 +92,7 @@ This distinction is already drawn in the paradigm-threat timeline and files:
 - **[Two Branches of Christianity (Fomenko vs. Author)](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md)** — Explicitly rejects calling the Istanbul/Judaizer/temple figures killed in Crusader revenge **martyrs**; they are read as guilty, repenting, and facing mob justice — execution without martyrdom.
 - **[First Crusade and the Trojan War](https://paradigmthreat.net/timeline/evt-the-first-crusade-trojan-war)** — Crusader revenge against circumcision party and Istanbul temple apparatus.
 - **[The Brother on the Cross](https://paradigmthreat.net/timeline/evt-the-brother-on-the-cross)** — Crucifixion narrative and identity of the victim.
+- **[Crucifixion giant redaction — nine-inch nails, metrology (AU-031)](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md)** — Giant Passion hardware vs **redacted** small body; **inch/foot** shift; **Vav** nail shape; CERN **WWW** cross-lane.
 - **[Reverse Crusades](/governance/war/investigations/reverse-crusades-comparison.md)** — Structural comparison of pan-European coalitions vs. Russia; different layer from the First Crusade / Revenge Crusade but same vocabulary of "crusade."
 - **[The Hidden History of Words — *Mar-* cluster / martyr](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md)** — Reader essay: *martyr* among Mars-control vocabulary; witness narrowing vs war-planet lexicon (**open**).
 

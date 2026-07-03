@@ -347,6 +347,9 @@ After the Martian surface cities were damaged or destroyed in the MFEE, water st
 In order to convince the various life on Mars to abandon the surface cities the artificial canals observed by
 Lowell and others would have to be filled-in by the same automated machines that originally built them.
 As soon as the water stopped flowing, the cities were abandoned.
+
+**Dead Planet Protocol (author thesis):** From the **late 19th century** into the **20th**, **surface Mars was still readable as inhabited** (canals, opposition lights, melted-city photography). The **promise** to Martian populations: **rebuild underground** or **inconspicuously**; **travel** via **quantum portals**, not **visible craft and open cities**. Surface **cities and canals were fully dismantled** (~**1918–1962**) so **Mariner-era** optics would **not** repeat Lowell. **[Mariner 2 (1962)](https://science.nasa.gov/mission/mariner-2/)** then **sealed** public **“dead Mars”** ontology. **CERN** is the **Earth terminal** for **continued Earth–Mars traffic** while **preserving that illusion** — **the Mars side is not meant to look like Geneva** (no surface peer ring; **interior endpoint**). Full dossier: [CERN–Mars gateway §3.4–§3.6](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) · **timeline:** [Dead Planet Protocol](/timeline/evt-mars-surface-dismantling-dead-planet-protocol).
+
 In 1962, the [Mariner missions](https://en.wikipedia.org/wiki/Mariner_program) observed Mars at close range,
 seeing no water, no cities, and no signs of life.
 It is possible that all man-made features on the surface of Mars were dismantled between 1918 and 1962.
@@ -356,9 +359,7 @@ It was then claimed Mars as a 'dead' planet containing virtually no liquid water
 
 ## How do humans travel to and from Mars?
 
-Via [CERN](https://www.nature.com/articles/d41586-019-00173-2).
-The most mysterious human project ever constructed. Also, the place where
-the [Internet](https://home.cern/science/computing/birth-web) was invented in 1989.
+Via [CERN](https://www.nature.com/articles/d41586-019-00173-2) — read here as **Earth’s only industrial gate terminal**, not a particle zoo alone. **Operational purpose (author thesis):** move **people and resources** between **Earth and Mars** while **Mariner-class “dead planet” optics** stay the **public truth**. The **far side does not mirror Geneva** — traffic **terminates in the hollow interior**, not at a visible 27 km ring on the regolith. See [Dead Planet Protocol](/timeline/evt-mars-surface-dismantling-dead-planet-protocol) and [CERN dossier §3.6](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md). Also the place where the [Internet](https://home.cern/science/computing/birth-web) was invented in 1989.
 The mysterious CERN Project was built undemocratically in Switzerland using taxes from 21 EU
 member states.
 

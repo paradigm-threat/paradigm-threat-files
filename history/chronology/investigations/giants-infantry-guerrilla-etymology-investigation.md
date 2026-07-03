@@ -27,6 +27,7 @@ Do not merge **First Crusade (~1196)** polemics with **Kulikovo (1380)** branch 
 
 ## Where to read more
 
+- [**Crucifixion giant redaction — nail metrology (AU-031)**](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) — **1185** giant Passion; **nine-inch** nails; **inch/foot** rescaling after small-body redaction
 - [**Lexical redaction hub**](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — master cross-ref (**Lane A**)
 - **Appendix (overflow):** [Giants, Infantry, Guerrilla, Children's Crusade — Etymology](https://paradigmthreat.net/timeline/evt-giants-infantry-guerrilla-childrens-crusade-etymology) — mainstream lexicography, dates, related words (*pueri*, *infante* royal title, *hoplite*, *cohort*, mythic giant vocabulary).
 

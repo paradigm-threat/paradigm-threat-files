@@ -1,8 +1,694 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-03T13:29:41.728Z",
+    "date": "2026-07-03T13:38:25.938Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/mars/page.md",
+        "href": "/cosmos/mars"
+      },
+      {
+        "status": "M",
+        "path": "events/philadelphia/page.md",
+        "href": "/events/philadelphia"
+      },
+      {
+        "status": "M",
+        "path": "governance/genocide/giants_faeries/a.md",
+        "href": "/governance/genocide/giants_faeries/a"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/martyr-word-history-investigation.md",
+        "href": "/governance/war/investigations/martyr-word-history-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/christ/hans_bol_crucifixion_1587.md",
+        "href": "/history/chronology/christ/hans_bol_crucifixion_1587"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/history-qa/page.md",
+        "href": "/history/chronology/history-qa"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/author-unique-theories.md",
+        "href": "/history/chronology/investigations/author-unique-theories"
+      },
+      {
+        "status": "A",
+        "path": "history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md",
+        "href": "/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md",
+        "href": "/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/index-investigations.md",
+        "href": "/history/chronology/investigations/index-investigations"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/jew-word-terminology-judas-judicial.md",
+        "href": "/history/chronology/investigations/jew-word-terminology-judas-judicial"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/lexical-redaction-hub-investigation.md",
+        "href": "/history/chronology/investigations/lexical-redaction-hub-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/page.md",
+        "href": "/history/chronology"
+      },
+      {
+        "status": "M",
+        "path": "page.md",
+        "href": "/page"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md",
+        "href": "/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/cern_portal/page.md",
+        "href": "/science/cern_portal"
+      },
+      {
+        "status": "M",
+        "path": "site-claims.json",
+        "href": "/site-claims.json"
+      }
+    ],
+    "images": [
+      {
+        "src": "/cosmos/mars/massacre.jpg",
+        "alt": "# The Deep State is on Mars\n\nThis article has been rewritten with the following updates.\nOriginally I said the Martian appearances in the War of the Worlds book must have been a redaction by H.G. Wells,\nbut now I believe that the book's text was not redacted, and the human Martians were hidden\nwithin biomechanical host bodies - never seen outside the host.\nI originally thought a revolution of sorts must have occurred on Mars\nin order to consolidate enough power to issue an attack upon Earth.\nNow I believe the ability for one faction to assume rulership on Mars was a direct\nresult of telepaths being wiped out by the secondary discharge that occurred\nduring the MudFlood Energetic Event\nwhich (possibly unintentionally) destroyed Martian surface cities as well.\n\n<figure className=\"sm:float-right clear-right m-auto sm:m-1 sm:ml-4 sm:max-w-sm\">\n  <iframe width=\"360\" height=\"200\" src=\"https://www.youtube.com/embed/FWp9TfS8ny4\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowFullScreen=\"true\" className=\"max-w-full m-auto hidden sm:block\"/>\n  <iframe width=\"360\" height=\"200\" src=\"https://www.youtube.com/embed/9GyTNIh9Ffk\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowFullScreen=\"true\" className=\"max-w-full m-auto sm:hidden\"/>\n  <figcaption className='flex justify-center'>\n    Listen to an auto-generated version of this article\n  </figcaption>\n</figure>\n\n![Evidence of planet-wide massacre on Mars"
+      },
+      {
+        "src": "/cosmos/mars/life_on_mars_rules_earth.png",
+        "alt": "Evidence of planet-wide massacre can be found on the surface of Mars"
+      },
+      {
+        "src": "/cosmos/mars/geometric.jpg",
+        "alt": "Evidence of geometric patterns on Mars suggest intelligent construction"
+      },
+      {
+        "src": "/cosmos/mars/cia_remote_viewing.jpg",
+        "alt": "CIA remote viewing experiments on Mars in 1984 observe alien vehicles and environments"
+      },
+      {
+        "src": "/cosmos/mars/globalist_stranglehold.jpg",
+        "alt": "The City of London, Vatican City, and Washington D.C.\n  control the world through finance, religion, and military power respectively"
+      },
+      {
+        "src": "https://en.wikipedia.org/wiki/Sovereign_citizen_movement)",
+        "alt": "In [Sovereign Citizen"
+      },
+      {
+        "src": "https://teslauniverse.com/nikola-tesla/articles/tesla-sure-life-exists-other-planets-works-76-establish-his-belief)](/cosmos/mars/mars_life4.jpg",
+        "alt": "“I am in dead earnest. I feel certain of what I tell you.\n  The transmission of energy to another planet is only a matter of engineering.\n  I have solved the problem so well I don’t regard it as doubtful.\n  It is mathematically certain that other planets are inhabited.\"\n  [- Nicola\n  Tesla"
+      },
+      {
+        "src": "/history/chronology/pyramids/history_pyramid_gates1.jpg",
+        "alt": "Examples of Pyramid structures are found in Egyptian pyramids, Ziggurats in the Middle East, and temples in Southeast\n  Asia"
+      },
+      {
+        "src": "/influence/predictive_programming/stargate.jpg",
+        "alt": "The movie Star Gate (1994) attempts to categorically mythify the connection between real-life pyramids and\n  periodic star-gates into the realm of *science fiction*"
+      },
+      {
+        "src": "/history/chronology/pyramids/history_pyramid_gates2.jpg",
+        "alt": "The Bosnian pyramids have flattened tops, like Latin and South American pyramids, and are constructed with stone\n  slabs.\n  Thermal imaging suggests that they cool off more quickly than surrounding areas,\n  and they are believed to contain hollow areas"
+      },
+      {
+        "src": "/cosmos/cosmology/hollow_earth/hollow_earth_model4.jpg",
+        "alt": "Hollow Earth Theory suggests that the Earth is not solid,\n  but rather a hollow shell with a central sun and openings at both poles"
+      },
+      {
+        "src": "/cosmos/cosmology/hollow_earth/hollow_earth_EU_model.jpg",
+        "alt": "The Electric Universe Theory suggests that all planets and suns are hollow, and that plasma physics\n  (not gravity) played a central role in the creation of our solar system\n  illustrated by primordial electric-scarring seen across the surface of our Moon and Mars."
+      },
+      {
+        "src": "/cosmos/mars/mars_canals5.jpg",
+        "alt": "\"Mars and Its Canals\" by Percival Lowell, published in 1906 details Lowell's theories and observations about the\n  canals of Mars, which he believed were built by an intelligent civilization to transport water across the planet"
+      },
+      {
+        "src": "https://www.bbc.co.uk/newsround/45966335).",
+        "alt": "If Martians influenced War on Earth, it is logical that The Great War may have been *triggered or accelerated*\nby Lowell's announcement of Life on Mars.\nShortly after this, World War I changed the world in *negative* ways\nthat [nobody could have foreseen"
+      },
+      {
+        "src": "/cosmos/mars/melted_city.jpg",
+        "alt": "Melted ruins on mars resembles city with capitol building"
+      },
+      {
+        "src": "/cosmos/mars/mars_life.jpg",
+        "alt": "Areas resembling melted cities are found on the surface of Mars, sometimes with distinguishable buildings."
+      },
+      {
+        "src": "/history/mudflood/blood_rain2.jpg",
+        "alt": "The 'Comet' as a carrier of disease and deformity in the Lucerne Chronicle, Luzerner Schilling 61v.\n  allegedly 1513"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin2.jpg",
+        "alt": "Marvin the Martian known for his calm demeanor and often foiled attempts to destroy Earth"
+      },
+      {
+        "src": "/cosmos/mars/mars_canals.jpg",
+        "alt": "The artwork by Woodrow Edgar Nichols, Jr. shows an Atmosphere Factory,\n  a city with canals, and a sunset over a Martian landscape"
+      },
+      {
+        "src": "/cosmos/mars/mars_canals3.jpg",
+        "alt": "A historical depiction of Mars illustrates seasonal changes - particularly the flooding of canals"
+      },
+      {
+        "src": "/cosmos/mars/cern_stargate_mars1.jpg",
+        "alt": "CERN's facilities include a 27-kilometer ring of superconducting magnets and a series of accelerators"
+      },
+      {
+        "src": "/cosmos/mars/cern_stargate_plans.jpg",
+        "alt": "The proposed Future Circular Collider (FCC) is planned to be significantly larger and more powerful than the\n  existing Large Hadron Collider (LHC) at CERN"
+      },
+      {
+        "src": "https://www.bbc.com/news/in-pictures-36428799)",
+        "alt": "### The Gotthard Base Tunnel [Opening Ceremony"
+      },
+      {
+        "src": "/cosmos/mars/cern_religious_ritual_at5.jpg",
+        "alt": "CERN Ritual 4"
+      },
+      {
+        "src": "/cosmos/mars/cern_religious_ritual_at1.jpg",
+        "alt": "A winged baby, semi-naked dancers and a man with a bird's nest on his head:\n  How Switzerland decided to mark opening of world's longest rail tunnel"
+      },
+      {
+        "src": "/cosmos/mars/cern_religious_ritual_at2.jpg",
+        "alt": "A performance inside the Gotthard Base Tunnel in Switzerland demonstrates the obedient 'labor' class of Humanity"
+      },
+      {
+        "src": "/cosmos/mars/hollywood_ritual_eyes_wide_shut.jpg",
+        "alt": "The point of the CERN Ceremony was to show *the humans on the other side of the quantum tunnel*\nthat Earth is fully obedient and systematically under complete control. This system of control is demonstrated\nusing a cavalcade of puppet presidents, popes, celebrities,\nall the way down to the multitude of working-class laborers, also appearing obedient. The usage of occult\nsymbols also demonstrates obedience to various brands of control that existed throughout Earth's\nhistory. The purveyors of this ceremony had one clear message for the other side: Humanity\nis ready to be ruled.\n\n![Holywood Female reitual"
+      },
+      {
+        "src": "/cosmos/mars/cern_religious_ritual_at6.jpg",
+        "alt": "Eyes Wide Shut (1999) demonstrates a ceremony involving naked women following strange orders.\n  This may be evidence of a program on Earth which raises human females to be fully obedient and prepares\n  them to *voluntarily walk naked through a quantum gate* to Mars."
+      },
+      {
+        "src": "https://www.babbel.com/en/magazine/fact-vs-fiction-is-latin-a-dead-language)",
+        "alt": "### Martians speak Latin\n\nWhy else would\na [dead language"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_movies.jpg",
+        "alt": "Predictive Programming: Mars Movies"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_women.jpg",
+        "alt": "Science Fiction programs viewers to understand that all presented storylines and technology are completely made-up\n  and have no relationship to real life."
+      },
+      {
+        "src": "/influence/predictive_programming/marvin.jpg",
+        "alt": "Common predictive programming themes found in science fiction that may reflect reality\n  include the Martians need for Earth women, roman empire references, and the normalization of 'mutants'"
+      },
+      {
+        "src": "/influence/predictive_programming/doom.jpg",
+        "alt": "The movie Doom 2005 demonstrates an *instantaneous quantum teleport* between *Earth* and *Mars*."
+      },
+      {
+        "src": "/influence/predictive_programming/wotw.jpg",
+        "alt": "The planet Mars has been removed over time from the role of antagonizer of science fiction plots.\n  It has since been replaced by 'Ancient' or 'Galactic' aliens (much further away), or something else entirely."
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon5.jpg",
+        "alt": "\"The Saturn Myth\" by David N. Talbott, a book exploring the idea that\n  ancient myths and religious beliefs were based on a different celestial configuration where\n  Saturn, not the Sun, was the central figure in the sky."
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon2.jpg",
+        "alt": "Authors such as N. A. Morozov and Immanuel Velikovsky\n  suggested that ancient cultures may have viewed Saturn as a sun-like body"
+      },
+      {
+        "src": "/history/chronology/saturn/norse_yggdrasil.jpg",
+        "alt": "Yggdrasil, the World Tree from Norse mythology, was connected to Nine Realms i.e. planets"
+      },
+      {
+        "src": "/history/chronology/saturn/exodus.jpg",
+        "alt": "The events of the 'Exodus' were caused by shifting conditions within the solar system between 2193 and 1492 B.C.E.,\n  leading to natural disasters and mass die-off of life on Earth."
+      },
+      {
+        "src": "https://oll.libertyfund.org/title/wade-extraordinary-black-book-an-exposition-of-abuses-in-church-and-state-1832)",
+        "alt": "An [extraordinary\n  document"
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_album_cylinder.jpg",
+        "alt": "The objectives of the covert tripod incursions were to co-opt and reassert control over the governments of Earth.\n  What stories could not be kept hidden were instead published as 'science fiction'"
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_redaction_heatray.jpg",
+        "alt": "The original heat-ray was was invisible and non-linear.\n  In later media, the parabolic mirror was removed,\n  and the heat-ray became visible and linear."
+      },
+      {
+        "src": "/cosmos/mars/wotw_technology_heat_ray.jpg",
+        "alt": "Suppressed military secrets are often featured in 'Science Fiction' media in order to be dismissed by the\n  general public and remain secret."
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_monuments.jpg",
+        "alt": "A monument commemorating the Martian invasion in Woking, England, near Horsell Common"
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_real.jpg",
+        "alt": "This New York Times article from January 16, 1901, reports on a light flash observed from Mars.\n  This may have been a sign of yet another tripod incursion launched at Earth."
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_monuments2.jpg",
+        "alt": "Another angle of the monument in Woking, England"
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_battle_of_la.jpg",
+        "alt": "“Although reports were conflicting and every effort is being made to ascertain the facts,\n  it is clear that no bombs were dropped and no planes were shot down,”\n  read a statement from the Army’s Western Defense Command."
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_propaganda.jpg",
+        "alt": "The 1938 Orson Welles 'War of the Worlds' broadcast may have been a redacted version of a real\n  broadcast that occurred in that same location and date involving a real tripod incursion in the\n  East Coast."
+      },
+      {
+        "src": "/cosmos/mars/wotw/wotw_censorship.jpg",
+        "alt": "The Orson Welles broadcast was used to justify suppression of similar radio broadcasts in the future."
+      },
+      {
+        "src": "/events/philadelphia/philadelphia_experiment.png",
+        "alt": "Philadelphia Experiment"
+      },
+      {
+        "src": "/history/redacted.jpg",
+        "alt": "History is Redacted"
+      },
+      {
+        "src": "/history/saturn/black_cube_of_saturn3.jpg",
+        "alt": "Black Cube of Saturn 3"
+      },
+      {
+        "src": "/influence/conspiracy/books.jpg",
+        "alt": "Conspiracy Book Stack"
+      },
+      {
+        "src": "/cosmos/cosmology/astronomy/fake_sun_chart.jpg",
+        "alt": "Fake Sun Chart"
+      },
+      {
+        "src": "/cosmos/cosmology/hollow_earth/hollow_earth_signals2.jpg",
+        "alt": "NAZIs in Hollow Earth"
+      },
+      {
+        "src": "/cosmos/cosmology/hollow_earth/hollow_earth_maps.jpg",
+        "alt": "Hollow Earth Maps"
+      },
+      {
+        "src": "/cosmos/cosmology/ralph_juergens_chart.png",
+        "alt": "Ralph Juergens Sun Chart"
+      },
+      {
+        "src": "/cosmos/cosmology/ralph_juergens_murdered.jpg",
+        "alt": "Ralph Juergens Murdered 1979"
+      },
+      {
+        "src": "/history/saturn/earth_was_saturns_moon3.jpg",
+        "alt": "Earth was Saturn's Moon 3"
+      },
+      {
+        "src": "/history/saturn/earth_was_saturns_moon2.jpg",
+        "alt": "Earth was Saturn's Moon 2"
+      },
+      {
+        "src": "/governance/genocide/giants_faeries/genocide_giants4.jpg",
+        "alt": "Genocide Giants 4"
+      },
+      {
+        "src": "/history/reformation/extraordinary_black_book.jpg",
+        "alt": "Genocide Giants 2"
+      },
+      {
+        "src": "/governance/genocide/giants_faeries/giants_america.jpg",
+        "alt": "Nephilim Giants 3"
+      },
+      {
+        "src": "/history/saturn/saturn_was_the_sun1.jpg",
+        "alt": "Saturn was the Sun 1"
+      },
+      {
+        "src": "/history/saturn/saturnian_configuration_north.jpg",
+        "alt": "Saturn Polar Configuration: North"
+      },
+      {
+        "src": "/history/saturn/saturnian_configuration_south.jpg",
+        "alt": "Saturn Polar Configuration: South"
+      },
+      {
+        "src": "/history/saturn/golden_age_absu.jpg",
+        "alt": "Saturn Polar Configuration: Absu Layer"
+      },
+      {
+        "src": "/history/saturn/norse_yggdrasil.jpg",
+        "alt": "Nine Planets or Realms of the Yggdrasil"
+      },
+      {
+        "src": "/history/saturn/tower_of_babel.jpg",
+        "alt": "Tower of Babel"
+      },
+      {
+        "src": "/history/pyramids/pyramids_around_the_world.jpg",
+        "alt": "Pyramidal Empire: Pyramids around the World"
+      },
+      {
+        "src": "/history/saturn/exodus.jpg",
+        "alt": "Exodus from Egypt"
+      },
+      {
+        "src": "/history/tartaria/israel_fake_history.jpg",
+        "alt": "Black cube of saturn 4"
+      },
+      {
+        "src": "/history/saturn/black_cube_of_saturn4.jpg",
+        "alt": "Black cube of saturn 4"
+      },
+      {
+        "src": "/history/christ/cathar_suppression.jpg",
+        "alt": "Cathar suppression"
+      },
+      {
+        "src": "/history/christ/conjunction.jpg",
+        "alt": "Great Conjunction of Jupiter and Saturn - Star of Bethlehem"
+      },
+      {
+        "src": "/history/history_fake.jpg",
+        "alt": "Earth was Saturn's Moon Spires"
+      },
+      {
+        "src": "/history/pyramids/power_pyramid.png",
+        "alt": "Roman Power Pyramid"
+      },
+      {
+        "src": "/history/saturn/saturnian_icons.jpg",
+        "alt": "Saturnian Icons"
+      },
+      {
+        "src": "/governance/war/ww2meme.jpg",
+        "alt": "WW2 was won by cheating"
+      },
+      {
+        "src": "/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.png",
+        "alt": "Giants, infantry, guerrilla, Children's Crusade — etymology"
+      },
+      {
+        "src": "/history/chronology/tartaria/tartarian_structures.jpg",
+        "alt": "Tartarian neoclassical architecture exists world-wide"
+      },
+      {
+        "src": "/history/chronology/fomenko_books.jpg",
+        "alt": "Fomenko books - USA has Issues with British Maps"
+      },
+      {
+        "src": "/history/chronology/saturn/brown_dwarf.jpg",
+        "alt": "Before the Golden Age began, (Proto-)Saturn was once a Brown Dwarf System floating through our galaxy."
+      },
+      {
+        "src": "/history/chronology/saturn/plasma_discharge_recorded2.jpg",
+        "alt": "Plasmoids in Southern Hemisphere before Golden Age"
+      },
+      {
+        "src": "/history/chronology/saturn/golden_age_hieronimus_bosch.jpg",
+        "alt": "The Garden of Earthly Delights by Hieronymus Bosch depicting the Golden Age"
+      },
+      {
+        "src": "/history/chronology/saturn/cosmic_mountain.jpg",
+        "alt": "Sumerian Tablets - Cosmic Mountain and Wheel of Heaven"
+      },
+      {
+        "src": "/history/chronology/saturn/saturn_configuration_vortex.jpg",
+        "alt": "Z-pinch aurora research - petroglyphs and ancient symbols"
+      },
+      {
+        "src": "/history/chronology/saturn/golden_age_absu.jpg",
+        "alt": "Golden Age Absu plasma layers surrounding the planets"
+      },
+      {
+        "src": "/history/chronology/saturn/saturnian_configuration_north.jpg",
+        "alt": "Northern view of Saturnian configuration - Mars, Venus, Saturn, Jupiter and Sun"
+      },
+      {
+        "src": "/history/chronology/saturn/saturnian_configuration_south.jpg",
+        "alt": "Muspelheim - the southern realm of fire in Norse cosmology"
+      },
+      {
+        "src": "/history/chronology/saturn/golden_age_jacobs_ladder.jpg",
+        "alt": "The appearance of Priori-Mars as the Cosmic Mountain during the Golden Age was also remembered as *Jacob's Ladder*"
+      },
+      {
+        "src": "/history/chronology/pyramids/wormhole.jpg",
+        "alt": "Egyptian Worm-Hole as depicted in egyptian mythology"
+      },
+      {
+        "src": "/history/chronology/atlantis/atlantis_first_jerusalem.jpg",
+        "alt": "Atlantis - First Jerusalem built on the north poles of Mars and Earth"
+      },
+      {
+        "src": "/history/chronology/saturn/golden_age_ends_kronos_devours.jpg",
+        "alt": "Kronos (Planet Saturn) consumes his children"
+      },
+      {
+        "src": "/history/chronology/saturn/golden_age_ends_great_deluge.jpg",
+        "alt": "The Golden Age ends in a Great Deluge"
+      },
+      {
+        "src": "/history/chronology/pyramids/pyramids_around_the_world.png",
+        "alt": "Pyramids built around the world in ancient and modern times"
+      },
+      {
+        "src": "/history/chronology/saturn/cosmic_thunderbolt.jpg",
+        "alt": "The Cosmic Thunderbolt was a series of electric discharges between Jupiter and other planetary bodies"
+      },
+      {
+        "src": "/history/chronology/saturn/planet_narnia.jpg",
+        "alt": "Planets and The Narnia Chronicles"
+      },
+      {
+        "src": "/history/chronology/saturn/planet_venus_as_medusa.jpg",
+        "alt": "Planet Venus's Terrible Aspect remembered as **Medusa**"
+      },
+      {
+        "src": "/history/chronology/saturn/venus_and_mars.jpg",
+        "alt": "Venus and Mars battle in the Earth's sky - William Blake and Botticelli"
+      },
+      {
+        "src": "/history/chronology/saturn/mount_sinai.jpg",
+        "alt": "Jupiter was remembered as the Burning Bush on top of Mount Sinai"
+      },
+      {
+        "src": "/history/chronology/saturn/binding_of_isaac.jpg",
+        "alt": "Binding of Isaac is an astrological allegory of the Sun crossing the Zodiac from Taurus to Aries"
+      },
+      {
+        "src": "/history/chronology/saturn/sodom_and_gomorrah.jpg",
+        "alt": "Close encounters with planet Mars destroyed the cities of Sodom and Gomorrah"
+      },
+      {
+        "src": "/history/chronology/plagues_of_venus.jpg",
+        "alt": "The Ten Plagues were caused by the 'Pass-over' of Planet Venus in Comet form"
+      },
+      {
+        "src": "/history/chronology/saturn/chinese_dragon.jpg",
+        "alt": "Venus as the Chinese Dragon / Comet"
+      },
+      {
+        "src": "/history/chronology/saturn/sun_stands_still_joshua_bayeux.jpg",
+        "alt": "Bayeux Tapestry: The Sun Stands Still for Joshua"
+      },
+      {
+        "src": "/history/chronology/saturn/cathoderal.jpg",
+        "alt": "Cathedrals are Cathodes"
+      },
+      {
+        "src": "/history/chronology/saturn/prometheus.jpg",
+        "alt": "Prometheus was the planet Mars"
+      },
+      {
+        "src": "/history/chronology/christ/christ_is_the_sun7.jpg",
+        "alt": "Christ as the Sun"
+      },
+      {
+        "src": "/history/chronology/lunar_calendar.jpg",
+        "alt": "Fixed Lunar Calendar"
+      },
+      {
+        "src": "/history/chronology/fomenko_new_chronology.jpg",
+        "alt": "Fomenko's New Chronology - scientific coherence and empirical confirmation"
+      },
+      {
+        "src": "/history/chronology/anatoly_fomenko.jpg",
+        "alt": "Anatoly Timofeevich Fomenko - Russian mathematician and New Chronology theorist"
+      },
+      {
+        "src": "/history/chronology/christ/twelve_tribes_zodiac.jpg",
+        "alt": "12 Tribes of Israel/Disciples of Jesus are based on the 12 signs of the Zodiac"
+      },
+      {
+        "src": "/history/chronology/jerusalem/troy_1st_jerusalem.jpg",
+        "alt": "Troy was also called Yoros short for Ierosalim a.k.a. Jerusalem (#1) a.k.a. Tsar-Grad"
+      },
+      {
+        "src": "/history/chronology/christ/hairy_mary.jpg",
+        "alt": "Hairy Mary - painting of Christ's hairy giant mother from Body and Soul exhibit"
+      },
+      {
+        "src": "/history/chronology/christ/conjunction.jpg",
+        "alt": "Jupiter and Saturn conjunction - Star of Bethlehem, 840-year Crucifixion anniversary"
+      },
+      {
+        "src": "/governance/genocide/giants_faeries/giant_books.jpg",
+        "alt": "Books created by giant humans"
+      },
+      {
+        "src": "/history/maps/map_tartaria_hondius.jpg",
+        "alt": "Map of Tartaria: Path of Christ's Family"
+      },
+      {
+        "src": "/history/chronology/christ/hans_bol_crucifixion_1587.jpg",
+        "alt": "Painting by Hans Bol: The Crucifixion 1587"
+      },
+      {
+        "src": "/history/chronology/christ/crucifixion_descent_tintoretto_1565.jpg",
+        "alt": "Painting by Tintoretto: The Descent from the Cross"
+      },
+      {
+        "src": "/history/chronology/christ/tomb_of_christ_and_brother.jpg",
+        "alt": "Shingō — Takeuchi-tagged mound site; burial in Japan adopted, Shingo coordinates unproved"
+      },
+      {
+        "src": "/history/chronology/jerusalem/troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg",
+        "alt": "Protected by Ares by Antonio Raffaele Calliano, 1815"
+      },
+      {
+        "src": "/history/chronology/jerusalem/kremlin_2nd_jerusalem_boris_godunov.png",
+        "alt": "Jerusalem #2 was the Kremlin in Moscow and was never located in Palestine"
+      },
+      {
+        "src": "/history/chronology/tartaria/israel_fake_history.jpg",
+        "alt": "Throughout history, the Jews (those most loyal to the church's"
+      },
+      {
+        "src": "/history/chronology/tartaria/tartarian_empire_emerges_14th_century.jpg",
+        "alt": "15th Century: The Tartarian Empire Invades Europe, Africa and India"
+      },
+      {
+        "src": "/history/chronology/apocalypse/pompeii_painting.jpg",
+        "alt": "Pompeii brothel fresco - Roman culture"
+      },
+      {
+        "src": "/history/chronology/reformation/extraordinary_black_book.jpg",
+        "alt": "John Wade's Extraordinary Black Book - church and state abuses"
+      },
+      {
+        "src": "/history/chronology/apocalypse/black_death.jpg",
+        "alt": "Black Death - devils and flagellant revival, 14th century Tuscany"
+      },
+      {
+        "src": "/history/chronology/tartaria/painting_joan_of_arc_stake.jpg",
+        "alt": "Even the supporters of the traditional version admit that the Maid"
+      },
+      {
+        "src": "/history/chronology/tartaria/painting_samson_and_delilah_by_rubens.jpg",
+        "alt": "When creating the Scaligerian history all of these large-scale"
+      },
+      {
+        "src": "https://www.superprof.com/blog/declensions-latin/)",
+        "alt": "Latin is a scientific, authoritarian language with [many rules"
+      },
+      {
+        "src": "/history/chronology/apocalypse/apocalypse_vasnetsov.jpg",
+        "alt": "In the apocalyptic imaginary, the great struggle of Horus is"
+      },
+      {
+        "src": "/history/chronology/apocalypse/apocalypse_b_west.jpg",
+        "alt": "Death on the Pale Horse - Benjamin West 1796"
+      },
+      {
+        "src": "/history/chronology/tartaria/painting_ottoman_invades_vienna_1683.jpg",
+        "alt": "The Ottoman Army surrounds Vienna by Frans Geffels. The Ottoman"
+      },
+      {
+        "src": "/history/chronology/reformation/painting_german_peasant_war_1525.jpg",
+        "alt": "**The German Peasant’s War (1525)**. Resistance to the Empire led to"
+      },
+      {
+        "src": "/history/chronology/tartaria/galileo_facing_the_inquisition.jpg",
+        "alt": "Galileo was called to Bellarmine's residence and ordered, to abstain"
+      },
+      {
+        "src": "/history/chronology/tartaria/jews_vs_gentiles.jpg",
+        "alt": "The “burning of the Jews” depiction during Europe’s Black Death"
+      },
+      {
+        "src": "https://en.wikipedia.org/wiki/Catharism)",
+        "alt": "Catharism was a [dualist gnostic"
+      },
+      {
+        "src": "/history/chronology/tartaria/1552-khazar-rebellion.png",
+        "alt": "In the middle of the XVI century the Kazan kingdom – aka the"
+      },
+      {
+        "src": "/history/chronology/tartaria/oprichniki_bish.jpg",
+        "alt": "The oprichnina was a state policy implemented by Tsar Ivan the"
+      },
+      {
+        "src": "https://en.wikipedia.org/wiki/King_James_Only_movement)",
+        "alt": "The [King James Only"
+      },
+      {
+        "src": "/history/chronology/tartaria/eight_pointed_star_and_crescent.jpg",
+        "alt": "Coins with Eight pointed star and crescent symbol"
+      },
+      {
+        "src": "https://en.wikipedia.org/wiki/Batoh_massacre)",
+        "alt": "The [Batih Massacre"
+      },
+      {
+        "src": "/history/chronology/fomenko_timeline_1633_1725.gif",
+        "alt": "Inter-religious dispute Judaism-Christianity 1633-1725"
+      },
+      {
+        "src": "/history/chronology/apocalypse/great_comet_of_1665.jpg",
+        "alt": "Great Comet of 1665 - Stanisław Lubieniecki's Theatrum cometicum"
+      },
+      {
+        "src": "/influence/conspiracy/embedding.jpg",
+        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
+      },
+      {
+        "src": "/influence/conspiracy/scientific_truth.jpg",
+        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
+        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
+      },
+      {
+        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
+        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-03T13:29:39.000Z",
+    "message": "Rewrite free-to-controlled internet pipeline as prose.",
     "files": [
       {
         "status": "M",
@@ -382,71 +1068,6 @@
       }
     ],
     "images": [
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png",
-        "alt": "TONA, Not War — Liberty's Rebrand"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
-        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-by-camp.png",
-        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-02T12:49:49.000Z",
-    "message": "Add deep-state seesaw thesis (§2.8) and first-person article voice.",
-    "files": [
-      {
-        "status": "M",
-        "path": ".cursor/rules/paradigm-threat-article-absolute-urls.mdc",
-        "href": "/.cursor/rules/paradigm-threat-article-absolute-urls.mdc"
-      },
-      {
-        "status": "M",
-        "path": "docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md",
-        "href": "/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS"
-      },
-      {
-        "status": "M",
-        "path": "docs/instructions/ARTICLES.md",
-        "href": "/docs/instructions/ARTICLES"
-      },
-      {
-        "status": "M",
-        "path": "governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md",
-        "href": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/constitution/tona-not-war-liberty-rebrand.md",
-        "href": "/governance/constitution/tona-not-war-liberty-rebrand"
-      }
-    ],
-    "images": [
-      {
-        "src": "/docs/)`)."
-      },
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)",
-        "alt": "` / `*.png` / `*.jpg`; prefer **published** `https://paradigmthreat.net/...` URLs (timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`). **Placement:** one image **after** the paragraph that introduces the topic (illustrate the **linked investigation**, not decorate every section). **Alt text:** name the **source lane** and **what the reader should see** (e.g. “Historical antibodies — timeline chapter,” “Call of Duty militainment — Krasinski operator arc”). **Do not** copy images into the article folder unless you are creating **new** art; **link** to the canonical file in its home directory. **Consecutive-article cap:** the **same image file** must **not** appear in **two reader-facing articles published back-to-back** (the immediately prior shipped article and the one you are writing now). Reuse across the corpus is fine with spacing; when the prior article already used an asset, pick a **sibling image** from the same lane or **omit** the embed. **Newsletter budget:** many large PNGs + hero can trigger Gmail clipping—prefer **fewer, well-placed** reuses over a gallery; see **Length → Newsletter / inbox check**. **Reference:** [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`"
-      },
-      {
-        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
-        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. **TL;DR check:** grep the blockquote for `http`, `Patreon`, `$`, `§`, and dossier-style evidence — **move** hits to the body. **No “narrative spine” / companion-dossier routing** between the hook and the first `##` body section — that belongs in **`## Where next`** (see Shape step 6). Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Series installments:** read the **prior installment** in full; cut shared frame that Installment I already taught. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). **Grep for local/internal paths** — reject before ship: `/home/`, `~/`, `/media/`, `/docs/debate-notes`, `~/dev/wget`, bare recording filenames. Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
-      },
-      {
-        "src": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
-        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
-      },
-      {
-        "src": "/governance/constitution/investigations/constitution-amendments-by-camp.png",
-        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
-      },
       {
         "src": "https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png",
         "alt": "TONA, Not War — Liberty's Rebrand"

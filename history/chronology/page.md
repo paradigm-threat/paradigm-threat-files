@@ -1417,6 +1417,8 @@ someone claiming to be his Son. This lie sufficed and his followers scattered in
 designed to end the influence of Giants like Christ by allowing the smaller humans to poke, stab, and laugh at the
 giants with impunity while they were bound to the crosses.
 
+**Metrology note:** **Nine-inch nail** folklore and **three-nail** Western liturgy align with this **giant** layer; after the Passion was **redacted** to a **small human**, surviving nails measure **~4–5 in** in digs only if **inch/foot** rescaling is ignored. See [Crucifixion giant redaction — nail metrology](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) (**AU-031**).
+
 
 ![Painting by Tintoretto: The Descent from the Cross](/history/chronology/christ/crucifixion_descent_tintoretto_1565.jpg?w=384)
 
