@@ -1,6 +1,28 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "date": "2026-07-03T14:34:30.908Z",
+    "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.md",
+        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/alef-and-the-clogged-internet.png",
+        "alt": "Alef and the clogged internet — industrial mesh, clogged flows, debunk-host cross-examination"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.png",
+        "alt": "The Internet That Should Have Been — machine-readable web, enclosure, merit visible to crawlers"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "date": "2026-07-03T14:25:32.000Z",
     "message": "Remove Substack edit screenshot; correct transient-bug note.",
     "files": [
@@ -1107,13 +1129,6 @@
         "href": "/influence/controlled_opposition"
       }
     ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-02T13:30:00.000Z",
-    "message": "Bump index.json _version so clients refetch updated TONA article.",
-    "files": [],
     "images": []
   }
 ]

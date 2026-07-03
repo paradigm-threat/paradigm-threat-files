@@ -1,6 +1,6 @@
 # Alef and the clogged internet
 
-How industrial engagement meshes block ideas from reaching each other — and what a 9/11 debunk-host call revealed about the last barrier: plausible deniability
+How industrial engagement meshes block ideas from reaching each other
 
 ![Alef and the clogged internet — industrial mesh, clogged flows, debunk-host cross-examination](https://paradigmthreat.net/influence/controlled_opposition/alef-and-the-clogged-internet.png)
 
@@ -146,7 +146,9 @@ Companion dossiers and sibling reads for the Alef mesh, the Jun 2026 call, and t
 
 Keywords: #AlefScam #InternetIntransigence #OpaqueAlgorithms #ControlledOpposition #911Truth #DebatePrevention #PlausibleDeniability #COVID #ParadigmThreat
 
-**Last updated:** 2026-07-03T10:18:00-04:00
+**Substack:** [paradigmthreat2.substack.com/p/alef-and-the-clogged-internet](https://paradigmthreat2.substack.com/p/alef-and-the-clogged-internet)
+
+**Last updated:** 2026-07-03T10:34:00-04:00
 
 ---
 
