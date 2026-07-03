@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-03T13:22:59.175Z",
+    "date": "2026-07-03T13:24:07.888Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.md",
+        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-03T13:22:57.000Z",
+    "message": "Correct CD dodge: back doors available, not taken on record.",
     "files": [
       {
         "status": "M",
@@ -472,41 +485,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-07-02T12:18:08.000Z",
     "message": "Use \"hope within my lifetime\" voice for rescind-after-XII thesis.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md",
-        "href": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/constitution/tona-not-war-liberty-rebrand.md",
-        "href": "/governance/constitution/tona-not-war-liberty-rebrand"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
-        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
-      },
-      {
-        "src": "/governance/constitution/investigations/constitution-amendments-by-camp.png",
-        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
-        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-by-camp.png",
-        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-02T12:16:14.000Z",
-    "message": "Refine Liberty thesis, taxpayer transport, and rescind-after-XII program.",
     "files": [
       {
         "status": "M",

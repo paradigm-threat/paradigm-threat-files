@@ -35,9 +35,9 @@ Extend the metaphor one step: a **country is a living body**. Healthy tissue **r
 
 People tried to **warn each other** — about **vaccine harms**, **alternate treatments**, **suppressed studies**, **policy contradictions**. Much of that traffic was **not refuted on merits** in open forums. It was **clogged**, **demoted**, **app-blocked**, **labeled** until it **never left the enclosure** where it was posted. Warnings that might have **bubbled up** for public scrutiny instead **circulated in fragments** — Telegram, niche forums, DMs — while **sanitized lanes** dominated the index.
 
-I am **not** claiming every alternate cure was correct. I **am** claiming the **immune response never ran**: no fair public sorting, no merit bubble, no durable archive the whole body could inspect. **Industrial engagement networks** — astroturf, bot amplification, scripted empathy floors, **credibility slots** on video — had to **do something about the free internet**. The product was a **controlled internet**: **key info blacklisted at the app level** so it **never gets far** in the wider web. **COVID** was the mass casualty event; **Alef** is the **architecture diagram**.
+Whether each alternate cure held up, the **immune response never ran** — no fair public sorting, no merit bubble, no durable archive the whole body could inspect. **Industrial engagement networks** — astroturf, bot amplification, scripted empathy floors, **credibility slots** on video — had to **do something about the free internet**. The product was a **controlled internet**: **key info blacklisted at the app level** so it **never gets far** in the wider web. **COVID** was the mass casualty event; **Alef** is the **architecture diagram**.
 
-**Discipline:** COVID censorship claims vary in quality; this section is **structural** — **information immune failure** — not a medical brief. Cross-read [platform blocks — Instagram / Substack (2026)](https://paradigmthreat.net/influence/censorship/platform-blocks-instagram-substack-2026-06.md) for platform-side enforcement examples.
+Cross-read [platform blocks — Instagram / Substack (2026)](https://paradigmthreat.net/influence/censorship/platform-blocks-instagram-substack-2026-06.md) for platform-side enforcement examples.
 
 ## The Alef network — reference implementation (2026)
 
@@ -179,7 +179,7 @@ Hub: [Controlled Opposition](https://paradigmthreat.net/influence/controlled_opp
 
 Keywords: #AlefScam #InternetIntransigence #OpaqueAlgorithms #ControlledOpposition #911Truth #DebatePrevention #PlausibleDeniability #COVID #ParadigmThreat
 
-**Last updated:** 2026-07-03T09:22:00-04:00
+**Last updated:** 2026-07-03T09:23:00-04:00
 
 ---
 
