@@ -667,6 +667,8 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 **Harassment-industry adjacency (2026):** [§5.7](#57-harassment-industry-adjacency--alef--scam-center-grammar-2026) — **Alef** **/ scam-center** **grammar** **vs** **debunk-host** **lane** (**structural** **rhyme**). **Debrief + evidence:** [norman-911revision-live-debate-debrief](/docs/debate-notes/norman-911revision-live-debate-debrief.md) · [thread-war archive](/docs/debate-notes/norman-substack-thread-war/evidence-index.md). **Discipline:** automated transcript **unreliable for speaker attribution** — essay uses paraphrase + published Norman corpus only; **insult-amnesia** claim rests on **author memory + screenshot archive**, not transcript quotes.
 
+**Platform enforcement (Jul 2026):** When author published [**Alef and the clogged internet**](/influence/controlled_opposition/alef-and-the-clogged-internet.md), Reddit **removed** the share from **personal profile** **`u/Future-Ad756`** — **own page**, not a subreddit — with generic **content policy** banner; **no** appeal logged ([reddit-personal-page-removal-2026-07](/influence/censorship/reddit-personal-page-removal-2026-07.md)). **Read:** same **clog / controlled internet** pattern as essay thesis — **ideas blocked at the garden gate** even on **self-owned profile surface**.
+
 ---
 
 ## 10. Open questions
@@ -697,7 +699,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 Keywords: #Ic911a #911Revisionist #ControlledOpposition #Dew #NoPlanes #JudyWood #RichardGage #ParadigmThreatFiles
 
-**Last updated:** 2026-07-03T09:07:12-04:00
+**Last updated:** 2026-07-03T11:20:00-04:00
 
 ---
 

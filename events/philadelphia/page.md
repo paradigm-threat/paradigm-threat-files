@@ -4,7 +4,9 @@
 
 The Philadelphia Experiment was an attempt to use **high-amplitude** energy to create a **cloaking** device. While it functioned, the ship did not just disappear — it was sent **somewhere else**. **Not** another dimension. **Not** another time, nor another universe. Instead, it was sent **somewhere locally** — **Norfolk, Virginia**. When the experimental ship device was shut off, humans were frozen into the ship's hull. Some went insane. Some caught on fire and could not be put out. No one turned permanently invisible. **No one time traveled.**
 
-**Full dossier (CERN investigation §10):** [Philadelphia Experiment — early portal subset](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md#10-philadelphia-experiment-1943--early-portal-subset) — **Allende–Jessup** narrative audit, **laying on of hands**, **Flame/Freeze**, **time-travel media deposit** vs **space teleport**.
+**Full dossier:** [Philadelphia portal precursor investigation](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) — **Allende–Jessup** audit, **laying on of hands**, **Flame/Freeze**, PP catalog §8.
+
+**Reader essay (Part B):** [The Philadelphia Experiment Was Not Time Travel](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md) — portal pair with [Part A — Out of This Door Might Come Something](/science/cern_portal/out-of-this-door-might-come-something.md).
 
 Basic context from [HistoricMysteries.com](https://www.historicmysteries.com/the-philadelphia-experiment/),
 
@@ -20,7 +22,7 @@ The **most complete** surviving narrative is **Carl Meredith Allen** ("**Carlos 
 - **Failure mode:** men **"Went into The Flame"** — **froze and caught fire** (once while carrying **compasses**); another burned **18 days** during **hand-laying**; **"The faith in Hand Laying Died."**
 - **"The experiment Was a Complete Success. The Men were Complete Failures."**
 
-**Project read:** **Space** jump **Philadelphia ↔ Norfolk** until the device **off**; **retained energy** in bodies afterward — **not** chronology travel. Later **movies** (*The Philadelphia Experiment*, **1984**) and **Montauk** books (**Experiments in Time**) **deposit** **time-travel** — see dossier **§10.6**.
+**Project read:** **Space** jump **Philadelphia ↔ Norfolk** until the device **off**; **retained energy** in bodies afterward — **not** chronology travel. Later **movies** (*The Philadelphia Experiment*, **1984**) and **Montauk** books (**Experiments in Time**) **deposit** **time-travel** — see [investigation §5](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) and [Part B essay](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md).
 
 ### What is documented vs legend
 

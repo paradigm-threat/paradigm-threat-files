@@ -55,7 +55,7 @@ The same window included a **public thread** arguing **AE911Truth / Richard Gage
 
 ---
 
-**Related:** [GitHub account ban](/influence/censorship/github-ban) · [Instagram censorship screenshots (prior)](/influence/censorship/instagram_censorship.jpg) · [June 27 blog — censorship note](https://paradigmthreat.net/blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai)
+**Related:** [GitHub account ban](/influence/censorship/github-ban) · [Instagram censorship screenshots (prior)](/influence/censorship/instagram_censorship.jpg) · [Reddit personal-page removal — Alef essay (Jul 2026)](/influence/censorship/reddit-personal-page-removal-2026-07.md) · [June 27 blog — censorship note](https://paradigmthreat.net/blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai)
 
 Keywords: #Censorship #Instagram #Substack #PlatformBlock #ControlledOpposition #911 #AE911Truth #ParadigmThreat #June2026
 

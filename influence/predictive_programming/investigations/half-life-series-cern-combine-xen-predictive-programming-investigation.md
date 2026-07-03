@@ -24,6 +24,8 @@
 | *Half-Life* (1998) | **Black Mesa** underground lab; **resonance cascade**; **Lambda** teleporter complex; transit to **Xen**; military containment ([*Half-Life* — setting](https://en.wikipedia.org/wiki/Half-Life_(video_game))). |
 | *Half-Life 2* (2004) | **Combine** occupation of Earth; **Citadel**; **suppression field**; **Stalkers** and other **cyborg** labor; **Dr. Breen** as collaborator face of empire; **water** and environmental ruin as part of occupied Earth’s condition ([*Half-Life 2*](https://en.wikipedia.org/wiki/Half-Life_2); [Combine — franchise summary](https://combineoverwiki.net/wiki/Combine)). |
 | Episodes / *Alyx* | Continuation of Combine **extraction** and **infrastructure** themes; VR emphasis on **scale** of alien tech. |
+| **Marc Laidlaw — "Epistle 3" (2017)** | Leaked *Half-Life 2: Episode 3* plot: **Borealis** **phases in/out** at Combine lens; **Bootstrap Device** (Aperture dry dock) — self-contained field, **instant jump without entry/exit portals**; device **"travelled in time as well as space"**; timeloops; **time-travelling missile** ([Epistle 3](http://www.marclaidlaw.com/epistle-3/); [Steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1119543547)). |
+| ***Portal* / *Portal 2*** (2007–2011) | **Aperture** circular test chambers; energy rings open **instant** traversable holes — satire of ring-lab portal grammar. |
 
 **Terminology note:** The border dimension is canonically [**Xen**](https://combineoverwiki.net/wiki/Xen) (also styled *Xen* in subtitles). English speakers often mishear it as **“Zen.”** This file uses **Xen** throughout.
 
@@ -52,6 +54,23 @@ The following **stakes** are **author-supplied** for **Paradigm Threat**; they a
 **Documented (site-internal):** The **[Mars hub](/cosmos/mars/page.md)** treats large colliders as **loci for extreme energy** and **quantum-tunnel** rhetoric tied to **interplanetary gates** and **CERN** imagery (including **FCC** scaling). That material is **hypothesis-tier** physics and **not** peer-reviewed closure; it **rhymes** with *Half-Life*’s **underground accelerator accident → permanent portal instability** plot.
 
 **Speculative PP read:** If audiences accept **“ accelerator opens door”** as **pure fiction**, real facility expansions feel **less uncanny** when reported in **Nature** or **press**—classic **familiarization** logic per [PP hub definition](../page.md).
+
+### 3.1 Epistle 3 / Borealis — oscillating gate + Bootstrap Device
+
+**Source tier:** **Published author leak** (Laidlaw blog, 2017) — **not** shipped game canon.
+
+**Charge-to-critical / space-routing beats:**
+
+- **Borealis** appears as **"vast hologram fading in and out"** — **oscillating gate**, not a steady door; Combine erected compound to **seize ship when materialized** ([Epistle 3](http://www.marclaidlaw.com/epistle-3/)).
+- **Bootstrap Device:** field **large enough to surround the ship**; **"entirely self-contained"**; **"travel instantaneously to any chosen destination without having to cover the intervening space"** — **no entry/exit portals**; activated under invasion, flung toward **Arctica**.
+- Rhymes **opposition-window** / **unstable tunnel** grammar in [CERN dossier §3](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) and **1943 Philadelphia** ship jump ([Philadelphia investigation](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md)).
+
+**Time-travel deposit in same leak:**
+
+- Device **"travelled in time as well as space"**; Borealis stretched **"as an elastic band"** across **Lake Huron ↔ Arctic ↔ Combine staging worlds**; **timeloops**, **"time-travelling missile"** finale.
+- **Author read:** **Both** accurate **place-routing** vocabulary **and** explicit **chronology misread** in one plot — same **R6 deposit** pattern as *Philadelphia Experiment* (1984 film) and *Montauk Project* title ([Philadelphia §5](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md)).
+
+**Cross-ref:** [Part A reader essay](/science/cern_portal/out-of-this-door-might-come-something.md) · [Part B reader essay](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md).
 
 ---
 
@@ -112,11 +131,12 @@ The following **stakes** are **author-supplied** for **Paradigm Threat**; they a
 | [*Final Fantasy* I–VII](final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md) | JRPG Tartaria echo / VI catastrophe / VII state-media PP |
 | [Mars hub — CERN / gates](/cosmos/mars/page.md) | Quantum tunnel / gate cosmology |
 | [Hollow Earth investigation](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md) | Shell / inner-sun references for Xen read |
-| [AI control](/science/ai/ai-control-investigation.md) | Machine dependency thesis |
+| [Philadelphia portal precursor](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) | 1943 ship-scale PP; Epistle 3 lineage |
+| [CERN–Mars gateway dossier](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) | Ring terminal thesis |
 
 ---
 
-Last updated: 2026-05-04
+Last updated: 2026-07-03
 
 Keywords: #HalfLife #HalfLife2 #Combine #Xen #CERN #PredictiveProgramming #Transhumanism #Portal #ParadigmThreatFiles #VideoGames #Borg
 

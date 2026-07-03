@@ -1,8 +1,259 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-03T20:33:18.706Z",
+    "date": "2026-07-03T22:28:30.046Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "blog/2026-07-03-july-roundup-alef-tona-ecw-mars-jfk-constitution-cern-censorship.md",
+        "href": "/blog/2026-07-03-july-roundup-alef-tona-ecw-mars-jfk-constitution-cern-censorship"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md",
+        "href": "/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation"
+      },
+      {
+        "status": "A",
+        "path": "events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md",
+        "href": "/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation"
+      },
+      {
+        "status": "M",
+        "path": "events/philadelphia/page.md",
+        "href": "/events/philadelphia"
+      },
+      {
+        "status": "A",
+        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
+        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
+      },
+      {
+        "status": "M",
+        "path": "influence/censorship/platform-blocks-instagram-substack-2026-06.md",
+        "href": "/influence/censorship/platform-blocks-instagram-substack-2026-06"
+      },
+      {
+        "status": "A",
+        "path": "influence/censorship/reddit-personal-page-removal-2026-07.md",
+        "href": "/influence/censorship/reddit-personal-page-removal-2026-07"
+      },
+      {
+        "status": "A",
+        "path": "influence/censorship/reddit-removed-personal-page-alef-2026-07.png",
+        "href": "/influence/censorship/reddit-removed-personal-page-alef-2026-07.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.md",
+        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md",
+        "href": "/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/page.md",
+        "href": "/influence/predictive_programming"
+      },
+      {
+        "status": "M",
+        "path": "page.md",
+        "href": "/page"
+      },
+      {
+        "status": "M",
+        "path": "science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md",
+        "href": "/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/out-of-this-door-might-come-something.md",
+        "href": "/science/cern_portal/out-of-this-door-might-come-something"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/out-of-this-door-might-come-something.png",
+        "href": "/science/cern_portal/out-of-this-door-might-come-something.png"
+      },
+      {
+        "status": "M",
+        "path": "science/cern_portal/page.md",
+        "href": "/science/cern_portal"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/censorship/reddit-removed-personal-page-alef-2026-07.png"
+      },
+      {
+        "src": "/science/cern_portal/out-of-this-door-might-come-something.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger.png",
+        "alt": "The Mars Dagger — keeper cult leak, Barrett sigils, and Carthage containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png",
+        "alt": "Exact-Change Wallet — invention header and inventor containment casebook"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png",
+        "alt": "TONA, Not War — Liberty's Rebrand"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/alef-and-the-clogged-internet.png",
+        "alt": "Alef and the clogged internet — industrial mesh, debunk-host cross-examination"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/censorship/reddit-removed-personal-page-alef-2026-07.png",
+        "alt": "Reddit — post removed from u/Future-Ad756 personal profile after Alef essay share (July 2026)"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
+        "alt": "Constitution amendments — nationalist vs globalist battlefield scorecard"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/exact-change-wallet-invention-concept.png",
+        "alt": "Exact-Change Wallet — invention concept and closed inventory sketch"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars-dagger-front.jpg",
+        "alt": "Smith family Mars dagger — Seal of Mars on blade"
+      },
+      {
+        "src": "/events/philadelphia/philadelphia_experiment.png",
+        "alt": "Philadelphia Experiment"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/philadelphia/philadelphia_experiment.png",
+        "alt": "Philadelphia Experiment — events hub art"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/censorship/instagram-image-upload-blocked-2026-06.png",
+        "alt": "Instagram — Something went wrong when posting images (June 2026)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.png",
+        "alt": "The Internet That Should Have Been — machine-readable web, enclosure, merit visible to crawlers"
+      },
+      {
+        "src": "/influence/predictive_programming/predictive_programming.png",
+        "alt": "Predictive Programming"
+      },
+      {
+        "src": "/influence/predictive_programming/comics.jpg",
+        "alt": "9/11 predictive programming in comics"
+      },
+      {
+        "src": "/influence/predictive_programming/doom.jpg",
+        "alt": "Doom — quantum teleport between Earth and Mars"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_women.jpg",
+        "alt": "Mars Needs Women — breeding programme theme"
+      },
+      {
+        "src": "/influence/predictive_programming/stargate.jpg",
+        "alt": "Stargate — pyramid as portal"
+      },
+      {
+        "src": "/influence/predictive_programming/wotw.jpg",
+        "alt": "War of the Worlds — heat ray, red weed, Mars inversion"
+      },
+      {
+        "src": "/influence/predictive_programming/simpsons_space_laser.jpg",
+        "alt": "The Simpsons — 9/11 imagery"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_movies.jpg",
+        "alt": "Mars movies"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin.jpg",
+        "alt": "Marvin the Martian"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin2.jpg",
+        "alt": "Marvin the Martian (2)"
+      },
+      {
+        "src": "/influence/predictive_programming/megaman.jpg",
+        "alt": "Mega Man"
+      },
+      {
+        "src": "/influence/predictive_programming/nazis_hollow_earth.jpg",
+        "alt": "Nazis in Hollow Earth"
+      },
+      {
+        "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
+        "alt": "Fire on the Mountain"
+      },
+      {
+        "src": "/influence/conspiracy/embedding.jpg",
+        "alt": "In behavioral psychology embedding is the tendency to\n  latch onto the first piece of information encountered\n  especially when making decisions or forming opinions"
+      },
+      {
+        "src": "/influence/conspiracy/scientific_truth.jpg",
+        "alt": "\"These times are dark but every shadow, no matter how deep,\n  is threatened by morning light\" - Queen Isabella, The Fountain (2006)"
+      },
+      {
+        "src": "/history/chronology/saturn/earth_was_saturns_moon3.jpg",
+        "alt": "Saturnian Cosmology posits that the neighboring planets only recently\n  settled into their current orbits;\n  the Earth formerly being involved in a unique planetary\n  \"collinear\" configuration together with Saturn, Venus, and Mars."
+      },
+      {
+        "src": "/cosmos/mars/mars_life.jpg",
+        "alt": "“It is a direct sequitur from this that the planet is at\n  present the abode of intelligent constructive life.” - Percival Lowell, New York Times (1907)"
+      },
+      {
+        "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
+        "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png",
+        "alt": "Out of This Door Might Come Something — CERN portal pair Part A"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
+        "alt": "LHC — 27 km ring of superconducting magnets and accelerator chain (Mars hub / CERN travel)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_plans.jpg",
+        "alt": "Future Circular Collider (FCC) — planned scale-up vs existing LHC at CERN (Nature / Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars_canals5.jpg",
+        "alt": "Percival Lowell — Mars and Its Canals (1906); intelligent-civilization waterworks read before Mariner (Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cia_remote_viewing.jpg",
+        "alt": "CIA STARGATE — 1984 Mars remote-viewing session artwork (declassified lane; Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/doom.jpg",
+        "alt": "Doom film (2005) — quantum teleport between Earth and Mars (predictive programming catalog)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_storm.jpg",
+        "alt": "Viral CERN portal storm imagery — Geneva lightning vortex reads as “opened gate” in tabloid cycles (Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at1.jpg",
+        "alt": "Gotthard Base Tunnel opening — BBC: “How Switzerland decided to mark world's longest rail tunnel” (1 June 2016)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at2.jpg",
+        "alt": "Gotthard ceremony — obedience theater near CERN geography (Mars hub)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-03T20:33:16.000Z",
+    "message": "Add JFK PP catalog, Friday Tier A, and Warren magic-bullet containment.",
     "files": [
       {
         "status": "M",
@@ -1099,24 +1350,6 @@
         "status": "M",
         "path": "events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md",
         "href": "/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-02T15:21:39.000Z",
-    "message": "Narrow Norman compartmentalization claim to insult-amnesia gap only.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md",
-        "href": "/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/debunk-host-scheduled-slot.md",
-        "href": "/influence/controlled_opposition/debunk-host-scheduled-slot"
       }
     ],
     "images": []

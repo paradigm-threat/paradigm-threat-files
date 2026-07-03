@@ -3,9 +3,9 @@
 > **TL;DR:** Open investigation treating CERN’s LHC as a plausible **æther-distortion** or portal device: **Maxwell’s equations** as proof the vacuum has medium properties; senior CERN “door / something might come through” quotes; **Mars-only** gateway thesis in the dedicated dossier. Literal portal language is primary-source signal.
 
 **Status:** Open  
-**Primary dossier:** [CERN as Earth–Mars Quantum Gateway — æther physics, Maxwell, Mars-only siting, Dead Planet Protocol §3.4–§3.6, Philadelphia §10](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md)  
-**Timeline:** [Mars surface dismantling — Dead Planet Protocol (1890s→1962)](/timeline/evt-mars-surface-dismantling-dead-planet-protocol)  
-**Precursor (legend tier):** [Philadelphia Experiment — events page](/events/philadelphia/page.md) — **1943** ship-scale portal trial; **Norfolk** teleport; **not** time travel.
+**Reader essays (portal pair):** [Part A — Out of This Door Might Come Something](/science/cern_portal/out-of-this-door-might-come-something.md) · [Part B — Philadelphia Was Not Time Travel](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md)  
+**Primary dossier:** [CERN as Earth–Mars Quantum Gateway](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) — æther physics, Maxwell, Mars-only siting, Dead Planet Protocol §3.4–§3.6, WWW §6.4  
+**Philadelphia precursor:** [Philadelphia portal precursor investigation](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) (extracted from former dossier §10)
 **Triggered by:** Content strategy; [The Suppression of Maxwell and the Aether](/timeline/evt-suppression-of-maxwell-and-the-aether) (13.06.00) raises the possibility that CERN's LHC could function as an aether-manipulation or portal device.
 
 **Methodology:** Per `docs/INVESTIGATIVE_STRATEGY.md` — we do not rule out possibilities due to consensus or "lack of evidence"; we trace primary sources, note predictive programming, and leave interpretation open where appropriate.
@@ -113,7 +113,7 @@ CERN has repeatedly denied that the LHC can "open portals," "create black holes 
 ## Next Steps
 
 - Extend [CERN–Mars quantum gateway investigation](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) — FOIA, FCC docs, Miller/Sagnac æther follow-ups.
-- **WWW / Vav / 666 / nine-inch nails:** [Crucifixion giant redaction — nail metrology (AU-031)](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) — canonical metrology dossier for §6.4 symbolic chain.
+- **WWW / Vav / 666 / Jerusalem gate geometry:** [CERN–Mars gateway §6.4](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) — primary **6-6-6** = **3 walls × 6 gates** (Jerusalem #1); **nine-inch nails** secondary → [AU-031](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md).
 - Search for any CERN or member-state documents (FOIA, archives) mentioning "portal," "door," or "dimension" in an operational context.
 - Collect further primary-source quotes or institutional language that supports the portal interpretation (evidence of this type is gold).
 - No timeline or appendix subsection for CERN/portal yet; hub + dossier stand as dedicated sections.

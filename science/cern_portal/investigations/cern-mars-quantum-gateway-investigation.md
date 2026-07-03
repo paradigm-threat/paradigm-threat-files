@@ -13,7 +13,7 @@
 5. **Cosmology fit (Birkeland scars, opposition, pyramids)** → §5  
 6. **Ceremony / PP / internet leak sub-thesis** → §6  
 7. **WWW / Vav / 666 symbolic chain** → §6.4  
-8. **Philadelphia Experiment (1943) — early portal subset** → §10  
+8. **Philadelphia Experiment (1943) — precursor stub** → §10 → [full investigation](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md)  
 9. **Dead Planet Protocol — surface dismantling, CERN purpose** → §3.4–§3.6  
 10. **Author’s open claims registry** → §7  
 11. **Questions to clarify, verify, or debunk** → §8  
@@ -230,14 +230,73 @@ On the **full** **stack** of this investigation:
 
 ## 6. Ceremony, predictive programming, internet sub-thesis
 
-### 6.1 Gotthard / mock sacrifice
+### 6.1 Gotthard Base Tunnel opening ceremony (2016)
 
-[Mars hub](/cosmos/mars/page.md): Gotthard opening **not Satan** — **humans on other side of CERN gate**; Earth **obedience display**. Mock CERN sacrifice video = **debate-ending PP**, not literal lobby killing.
+**Scope note:** The viral **“CERN tunnel ceremony”** clips are **not** filmed at **CERN Meyrin**. They are from the **Gotthard Base Tunnel (GBT)** inauguration — **1 June 2016**, **Rynächt** fairground / **Erstfeld** (northern portal), Switzerland. **Geography:** **~123 miles / ~200 km** from CERN headquarters ([Reuters fact-check, April 2024](https://www.reuters.com/fact-check/old-video-wrongly-linked-cern-push-satanic-conspiracy-theory-2024-04-10/); [Africa Check](https://africacheck.org/fact-checks/meta-programme-fact-checks/video-clips-show-railway-tunnel-opening-ceremony-not-satanic)). **2024 viral cycle** repeatedly **mislabeled** GBT footage as **“CERN opening”** / satanic ritual ([PolitiFact, April 2024](https://www.politifact.com/factchecks/2024/apr/17/instagram-posts/videos-showing-a-horse-drawn-carriage-are-from-the/); CERN spokesperson to Reuters: shared video **“not from CERN”**).
 
-### 6.2 Fiction cluster
+#### 6.1.1 Documented event (primary / press tier)
 
-- [*Half-Life*](/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md) — resonance cascade, **Black Mesa** ≈ ring lab, **Xen** transit.  
-- *Stargate*, *Stranger Things*, *Doom* (2005) Earth–Mars **instant** jump — **inoculation / disclosure** data per [INVESTIGATIVE_STRATEGY](/docs/INVESTIGATIVE_STRATEGY.md).
+| Item | Tier | Source |
+|------|------|--------|
+| **57 km** Gotthard Base Tunnel — world’s **longest rail tunnel** at opening; **~2,300 m** rock overhead | **Documented** | [CNN, 1 June 2016](https://www.cnn.com/2016/06/01/europe/switzerland-longest-tunnel-gotthard); [ABC Australia](https://www.abc.net.au/news/2016-06-02/gothard-base-tunnel-worlds-longest-opens-in-switzerland/7469024) |
+| **~600** actors, dancers, acrobats, alphorn players; **~12 million CHF** inauguration budget (press estimate) | **Documented** | [The Local Switzerland, 1 June 2016](https://www.thelocal.ch/20160601/world-agog-at-bizarre-gotthard-base-tunnel-opening) |
+| Staging by German director **Volker Hesse** — “Alpine culture,” tunnel history, **nine construction-worker deaths** memorialized in performance | **Documented** | [BBC — oddest moments](https://www.bbc.com/news/in-pictures-36428799); [Africa Check](https://africacheck.org/fact-checks/meta-programme-fact-checks/video-clips-show-railway-tunnel-opening-ceremony-not-satanic) |
+| Dignitaries: Swiss president **Schneider-Ammann**, **Merkel**, **Hollande**, **Renzi**; first ceremonial train run | **Documented** | [CNN](https://www.cnn.com/2016/06/01/europe/switzerland-longest-tunnel-gotthard); [ABC Australia](https://www.abc.net.au/news/2016-06-02/gothard-base-tunnel-worlds-longest-opens-in-switzerland/7469024) |
+| Official read: **infrastructure + European unity + Swiss identity** — not particle physics | **Documented** | Same sources |
+
+**Press tone (2016):** Mainstream outlets called the show **“bizarre,” “eclectic,” “surreal,”** sometimes **“embarrassing”** — [BBC](https://www.bbc.com/news/in-pictures-36428799) noted it was **“not always possible”** to explain what was happening; [The Local](https://www.thelocal.ch/20160601/world-agog-at-bizarre-gotthard-base-tunnel-opening) quoted Swiss viewers apologizing on Twitter for the **“magnificently bad”** spectacle.
+
+#### 6.1.2 Criticisms and alternative readings
+
+| Reader | Complaint / read | Tier |
+|--------|------------------|------|
+| **Swiss public / Twitter** | National embarrassment; incoherent variety show | **Documented** (2016 reactions) — [The Local](https://www.thelocal.ch/20160601/world-agog-at-bizarre-gotthard-base-tunnel-opening) |
+| **Mainstream press** | Odd but **artistic** — Alpine ibex, miners, milk floats, aerialists | **Documented** — [BBC](https://www.bbc.com/news/in-pictures-36428799), [CNN](https://www.cnn.com/2016/06/01/europe/switzerland-longest-tunnel-gotthard) |
+| **Conspiracy / portal culture** | **Underworld gate**, **satanic ritual**, **portal opening**; horned figure = Baphomet | **Interpretive** — [Africa Check](https://africacheck.org/fact-checks/meta-programme-fact-checks/video-clips-show-railway-tunnel-opening-ceremony-not-satanic) debunks **literal** satanism; **ibex** = native Alpine goat in official staging |
+| **2024 re-upload narrators** | Workers’ **“ritualistic dance”** at a **“portal”** they **“opened”** | **Documented quote of misread** — [PolitiFact](https://www.politifact.com/factchecks/2024/apr/17/instagram-posts/videos-showing-a-horse-drawn-carriage-are-from-the/) cites Instagram narration: *“seems to be a portal… ritualistic dance to gain access or to have the portal open up”* |
+| **Fact-check consensus (2024)** | Footage = **GBT 2016**, **not CERN**; no evidence of literal occult agenda | **Documented** — [Reuters](https://www.reuters.com/fact-check/old-video-wrongly-linked-cern-push-satanic-conspiracy-theory-2024-04-10/), [PolitiFact](https://www.politifact.com/factchecks/2024/apr/17/instagram-posts/videos-showing-a-horse-drawn-carriage-are-from-the/), [Africa Check](https://africacheck.org/fact-checks/meta-programme-fact-checks/video-clips-show-railway-tunnel-opening-ceremony-not-satanic) |
+
+**CERN official counter-layer:** CERN FAQ and fact-check roundups insist the lab **“will not open a door to another dimension”** ([PolitiFact](https://www.politifact.com/factchecks/2024/apr/17/instagram-posts/videos-showing-a-horse-drawn-carriage-are-from-the/) citing CERN site). That denial sits in tension with **Director Bertolucci’s 2009 “door” quote** (§4) — investigation records **both**, does not let FAQ alone close the portal question.
+
+#### 6.1.3 Author read — Swiss tunnel theatre, CERN geography, far-side signaling
+
+[Mars hub § Gotthard](/cosmos/mars/page.md): ceremony **not literal Satan** — **obedience display** aimed at **humans on the far side of the gate** (Mars-side read); puppet presidents-to-laborers hierarchy; occult **brands of control** through history; message: **Earth population is manageable**.
+
+**Investigation synthesis:**
+
+1. **Geographic correction is not semantic correction.** Fact-checkers prove the **camera location** was Erstfeld, not Meyrin. They do **not** erase why **portal-literate** viewers map the clip onto **CERN** anyway: same **Swiss** Deep State theatre, same **tunnel-through-mountain** grammar, same year (**2016**) as viral **“CERN opened a portal”** cycles and the **[mock human sacrifice at CERN](https://www.theguardian.com/science/video/2016/aug/18/mock-human-sacrifice-at-cern-video)** stunt (August 2016 — **amateur actors**, CERN condemned; [Mars hub](/cosmos/mars/page.md) treats as **debate-ending PP**, not lobby killing).
+
+2. **“Wrong ceremony” thesis (author):** If the institutional goal is **“don’t think portal,”** this was **counterproductive staging** — unless the goal was **not** denial but **familiarization + inoculation** ([REDACTION.md](/docs/REDACTION.md) **R6** deposit pattern): show **threshold** imagery (**tunnel mouth**, marching **workers**, **death → transformation**, horned **gatekeeper** figure), let the public **mock** it as Swiss weirdness, then **fact-check** to **“not CERN”** while **Bertolucci “door”** remains on the record. **Investigation verdict:** **Agree** — innocent-PR and **deliberate RoM** both predict **portal-shaped** semiotics; **only RoM** predicts **repeat misattribution to CERN** after official **dimension-door** denials. **Tier:** **Author interpretive** — not proof of commissioning intent; **pattern fit** under [INVESTIGATIVE_STRATEGY](/docs/INVESTIGATIVE_STRATEGY.md).
+
+3. **Engineering rhyme:** GBT = **world’s longest/deepest rail bore** opened with **state ritual at the threshold**; LHC = **world’s largest ring accelerator** with **Shiva/Nataraja** at Meyrin (2004, documented — [CERN portal hub](/science/cern_portal/page.md)). Both are **Swiss/European threshold monuments** in the same **portal-encoding** media environment.
+
+**Open FOIA / archive targets:** AlpTransit/SBB **ceremony brief** for Volker Hesse; Swiss Federal Council **communications** on inauguration symbolism; any **CERN press** comment on GBT timing vs LHC restart news cycle (2016).
+
+#### 6.1.4 Related — CERN Meyrin (not Gotthard)
+
+| Event | Date | Documented | Author read |
+|-------|------|------------|-------------|
+| **Shiva/Nataraja** gift unveiled at Meyrin | **2004** | [CERN CDS 768576](https://cds.cern.ch/record/768576) | Dissolution/gate **symbolism** — open interpretive |
+| **Mock sacrifice** video at CERN campus | **Aug 2016** | [Guardian video report](https://www.theguardian.com/science/video/2016/aug/18/mock-human-sacrifice-at-cern-video) | **PP / inoculation** — ends “literal lobby sacrifice” debate while keeping **portal** association hot |
+
+**Cross-ref:** [Part A reader essay](/science/cern_portal/out-of-this-door-might-come-something.md) — Ceremony and cover (brief); full tables here.
+
+### 6.2 Fiction cluster — charge-ring vs time-deposit
+
+**Pattern A (space / endpoint):** Ring, toroid, or resonance chamber **charges** until **critical cascade** → routes along **pre-scarred** path to **fixed place**.
+
+| Work | Beat |
+|------|------|
+| [*Half-Life*](/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md) | Resonance cascade; Black Mesa ≈ ring lab; Xen transit |
+| [*Portal* / *Portal 2*](/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md) | Aperture circular chambers |
+| *Stargate* (1994) | Spinning ring; kawoosh |
+| *Doom* (2005) | Earth–Mars quantum teleporter |
+| *Event Horizon* (1997) | Gravity drive fold |
+| Laidlaw **Epistle 3** (2017) | Borealis oscillation; Bootstrap Device |
+
+**Pattern B (chronology deposit):** Same hardware **retimed** as **time travel** — see [Philadelphia investigation §5](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) (1984 film, Montauk, Epistle 3 timeloops).
+
+**Full PP catalog:** [Philadelphia investigation §8](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) · [PP hub](/influence/predictive_programming/page.md).
 
 ### 6.3 Internet-at-CERN as controlled leak (speculative)
 
@@ -254,6 +313,20 @@ On the **full** **stack** of this investigation:
 > **WWW ~ 666** — **W** maps to **Vav**, the **6th letter** of the Hebrew alphabet. Old **nine-inch** crucifixion nails were shaped like **Vavs** (**W**, **I**). **Three nine-inch nails.** **CERN ⇒ internet (WWW)** — and **WWW** does not only mean **World Wide Web**; it marks an **occult 666** signal.
 
 This subsection **validates what the chain can support**, **flags where standard Hebrew math disagrees**, and **records the project read** without pretending Berners-Lee documented occult intent.
+
+#### 6.4.0 Chronological corruption — Atlantis authority → 1666 Beast → WWW
+
+**Primary symbolic anchor (Jerusalem = 6-6-6):** Heavenly **Jerusalem** in the holy-text model carries **three walls** with **six gates each** → **6-6-6** in literature — copied from the **hexagon** around **Saturn** in the Golden Age collinear stack ([chronology — Deep State at Jerusalem #1](/history/chronology/page.md); [Troy / Yoros / 1st Jerusalem](/history/chronology/jerusalem/troy_1st_jerusalem.md)). **First Jerusalem** (Atlantis poles, Mars–Earth) is the same authority brand before label split. **Tier:** **Author symbolic thesis** — gate-count tradition **documented** in apocalyptic/Jerusalem lore; Saturn hexagon **documented** (Cassini); **Mars-pole Atlantis** read is **in-repo chronology**.
+
+**Author thesis (synthesized):**
+
+- **Pre-1666:** **Vav / W** lineage reads as a **mostly benign** symbol of **Atlantis authority** — **priori-Mars** hierarchical command during the **Golden Age** ([deep-state-terminology — Fallen Atlantean / Pyramidal Empire](/history/chronology/deep-state-terminology.md); [Stonehenge portal](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md)).
+- **1666 pivot:** Apocalyptic **666** year fulfilled as **the Beast** — paper sovereignty, **invisible god**, Cestui Que Vie — while masses expected divine restoration ([London 1666 timeline](/timeline/evt-1666-ce-london-burns-to-the-ground-sept-2-6-1666); [British Civil War investigation](/governance/war/investigations/british-civil-war-investigation.md); [Mars hub — Martian monotheism](/cosmos/mars/page.md)).
+- **Post-1666:** Same **W** stack **inverts** to **commerce / participation mark** — voluntary **"join the web"** under Beast grammar.
+- **1989–1993:** **WWW** released at **CERN** — portal hardware **and** protocol release point for that mark on Earth.
+- **Present:** **Mars authority over Earth** persists in **`www.*.*`** URL grammar — triple-W / Vav-six chain whether or not users know it.
+
+**Tier:** **Author symbolic thesis** — etymology legs **documented** (§6.4.1); **Atlantis → 1666 → DNS** arc is **interpretive**; **not** Berners-Lee stated intent.
 
 #### 6.4.1 What is **documented** (letter history + CERN timeline)
 
@@ -282,9 +355,9 @@ Jewish gematria sources **explicitly reject** the viral equation **“WWW = six 
 
 **Investigation verdict:** If **666** means the **Revelation integer**, **WWW is not that integer in correct Hebrew arithmetic**. The author chain uses **English-letter occult arithmetic** (each **W** stands for the **digit 6**, concatenated: **6-6-6**) — a **different semiotic system** from rabbinic gematria. Record both: **(a)** Jewish math says **no**; **(b)** **Latin/W** mysticism and **Christian 666** lore **often** use exactly this **(a)** bypass.
 
-#### 6.4.3 Nine-inch nails, Vav shape, and **three** nails
+#### 6.4.3 Nine-inch nails, Vav shape, and **three** nails *(secondary echo — crucifixion familiar, not load-bearing)*
 
-**Canonical metrology dossier:** [Crucifixion giant redaction — nine-inch nails, inch/foot shift](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) (**AU-031**).
+**Canonical metrology dossier:** [Crucifixion giant redaction — nine-inch nails, inch/foot shift](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) (**AU-031**). **Primary 6-6-6 anchor:** Jerusalem gate geometry (§6.4.0).
 
 | Claim | Validation |
 |-------|------------|
@@ -309,7 +382,8 @@ CERN (portal hardware, Earth terminal)
     → public brand “WWW” (three W’s)
     → W ≈ Vav ≈ 6 (alphabet lineage + Christian 666 lore)
     → triple W read as 6-6-6 (occult letter arithmetic, NOT Hebrew 666 sum)
-    → optional: crucifixion nail / vav hook / three nine-inch nails (giant layer + metrology — AU-031)
+    → Jerusalem gate stack (3 walls × 6 gates) = primary 6-6-6 authority geometry
+    → optional secondary: crucifixion nail / vav hook / three nine-inch nails (giant layer + metrology — AU-031)
 ```
 
 | Layer | Status |
@@ -335,119 +409,15 @@ CERN (portal hardware, Earth terminal)
 
 ---
 
-## 10. Philadelphia Experiment (1943) — early portal subset
+## 10. Philadelphia Experiment (1943) — precursor stub
 
-**Scope:** The **Philadelphia Experiment** (also **Project Rainbow** in later literature) is treated here as an **early, ship-scale æther-distortion trial** in the **same engineering lineage** as CERN — **not** a separate physics universe. **Evidence tier is lower:** CERN **exists on the map** with primary-source portal language; Philadelphia rests mainly on **Allende/Jessup correspondence**, **ONR-annotated UFO book**, and **post-hoc** Montauk sequel literature. **Start at CERN** for **documented** hardware; **use Philadelphia** for **precursor grammar**, **crew-injury pattern**, and **media redaction** (especially **time travel** substituted for **space teleport**).
+**Moved:** Full prosecution — Allende–Jessup audit, mechanism, Varo edition, time-travel deposit table, Montauk fork, PP catalog — lives in **[Philadelphia Experiment — portal precursor investigation](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md)**.
 
-**In-repo lay anchor:** [Philadelphia Experiment — events page](/events/philadelphia/page.md) (already rejects **time travel**; **Norfolk** local teleport only).
+**Reader essay (Part B):** [The Philadelphia Experiment Was Not Time Travel](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md)
 
-### 10.1 Author thesis (verbatim intent)
+**One-line continuum:** **1943 ship coil** (Norfolk pair) → **Montauk** (claimed) → **LHC/FCC** (Mars-only author thesis, §3). Claims **A12–A15** in §7; Philadelphia FOIA targets in §8 items 11–13.
 
-> **Philadelphia** is an **early experiment in controlled offworld technology** — it **could not** have happened **organically**. It required **extreme containment classification** and **secrecy**: **controlled humans on Earth** attempting to **reproduce** technology **under orders**. The **negligence** (bizarre injuries, deaths, mad crew) is itself evidence of **ordered reproduction** without full **operator literacy** — not a civilian science fair. **Mechanism:** a **shipboard device** drove an **extremely strong rotating magnetic field** **against Earth’s field**, forcing energy along the **path of least resistance**; the **USS Eldridge** (destroyer escort in the legend) **vanished** and **reappeared elsewhere** (Philadelphia ↔ Norfolk) until the device **shut off**. **Ætheric** properties of the **hull environment** became **malleable**; **high-amplitude, low-frequency** energy passed through **ship and crew**, approximating **Golden Age** bio-electromagnetic states. **After shutdown**, **energy retained in bodies** — **smoldering**, **“Flame”**, **freeze**, **walk-through-walls** — with **laying on of hands** as the **only** reported **stabilization** until that **failed** and **faith in hand-laying died**. **Media deposit:** most **movies and games** recast such portals as **time travel**, not **space teleport** — a **typical control twist** (see §10.6).
-
-**Unpack:** This reads Philadelphia as **buried-industrial portal tech** **before** the **27 km ring** — same **Maxwell–æther** substrate (§1), **smaller aperture**, **worse safety culture**. **Offworld** here means **technology whose stable endpoints and operator manuals live outside public Earth science** — whether **Mars relay**, **breakaway program**, or **confiscated Golden-Age manual** is **open**; the **orders + secrecy + injury** pattern is the **fixed** author claim.
-
-### 10.2 Narrative audit — which story contains **all** details?
-
-**Best single corpus:** **Carl Meredith Allen** (“**Carlos Miguel Allende**”) **letters to Morris K. Jessup** (**1955–1956**), plus the **ONR “Varo edition”** of Jessup’s *The Case for the UFO* (**1957**) with **margin annotations** attributed to **three** anonymous debaters — ONR officers reportedly **paid** for a **limited reprint** because the annotations looked **operationally literate**. Summaries and quotations preserved by [David Halperin — “Allende Mystery”](https://www.davidhalperin.net/the-philadelphia-experiment-the-allende-mystery/), [The Quester Files — Allende eyewitness](https://www.thequesterfiles.com/html/the_eyewitness_to_the_philadel.html), and [Wikipedia — Philadelphia Experiment](https://en.wikipedia.org/wiki/Philadelphia_Experiment).
-
-| Detail (author / legend) | In Allende–Jessup lane? | Notes |
-|--------------------------|-------------------------|-------|
-| **Ship disappears**, reappears **elsewhere** | **Yes** | Philadelphia dock → **Norfolk / Newport News / Portsmouth** “**very few Minutes**,” then **return** |
-| **Not** primarily **invisibility** — **teleport** is **separate function** | **Yes** (repo + HistoricMysteries) | Disappearance **precedes** Norfolk appearance; [events page](/events/philadelphia/page.md) |
-| **Rotating / strong EM field**, **unified-field** framing | **Partial** | Allende: **Einstein unpublished UFT**, scientist **Franklin Reno**, **electromagnetic bottle**; later books add **toroid / degaussing** vocabulary |
-| **Field vs Earth / telluric coupling** | **Partial** | Allende: oblate **~100 yd** spheroid per **beam**, modulated by **“Lunar position & Latitude”** — **not** a flat “against Earth’s field” sentence, but **same class** (local medium + geophysical modulation) |
-| **Path of least resistance** / energy **routing** | **Implied** | Teleport to **paired dock** (Norfolk) reads as **lowest-resistance** **node** on **existing** route — author **physics read**, not Allende jargon |
-| **Æther / matter malleable** | **Yes** | Crew **“vague in form,”** **heat-mirage** appendages, **walking upon nothing** inside sphere |
-| **Golden-Age-like** **bio-EM** state | **Partial** | **“Going Blank”** = **pleasant** to **“Healthily Curious Sailors”** — author links to **high-amplitude** **living-medium** window ([Stonehenge Golden Age §](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md)) |
-| **Device off → energy **retained** in bodies** | **Yes** | **“Stuck,”** **“Deep Freeze,”** **“Hell Incorporated,”** **semi-comatose nether world** |
-| **Fire / “The Flame”** — **18 days**, won’t extinguish normally | **Yes** | Two men **froze & caught fire** with **compasses**; **hand-laying** victim **also** burned **18 days** |
-| **Cure: **laying on of hands** by crew** | **Yes** | **Two or more** within field must **touch** frozen man **quickly**; public instruction to bystanders at **Philadelphia Navy Yard** |
-| **Fused into hull / insane / walk through walls** | **Yes** | **Embedded** in steel; **“walked throo His quarters Wall”** — **never seen again** |
-| **Negligence / mad crew / experiment “success,” men “failures”** | **Yes** | **“The expieriment Was a Complete Success. The Men were Complete Failures.”** (Allende, Halperin transcript) |
-| **Under military orders / classification** | **Implied** | **Navy** yard, **ONR** interest in annotated book; **no** public **declassified** op name |
-| **Time travel** | **No** (core Allende) | **Local space** jump; **time distortion** only for **frozen** crew’s **subjective** experience |
-| **Witness: SS Andrew Furuseth** at Norfolk | **Yes** | Allende claimed service aboard **Furuseth** — **witness** position |
-
-**Secondary stack (fills gaps, **lower** tier):**
-
-| Source | Adds | Tier |
-|--------|------|------|
-| **William L. Moore & Charles Berlitz**, *The Philadelphia Experiment* (**1979**) | **Project Rainbow** name, **popular** fusion with **UFO** lore | **Secondary book** — spawned **1984 film** |
-| **Preston Nichols & Peter Moon**, *The Montauk Project: Experiments in Time* (**1992**) | **1943 ↔ 1983** **hyperspace lock**, **Delta-T antenna**, **rotating EM** → **portal**; **Mars** **underground** **targeting** (Duncan Cameron interviews) | **Claimed participant** memoir — **unverified** |
-| **KB42 / fringe summaries** | **Toroid coil**, **bar** **smolder** **cure** by **touch** | **Tertiary** — **rhymes** with Allende **Flame** |
-
-**Debunk layer (record, not closure):** Navy **denies** experiment; **USS Eldridge** **deck logs** place ship **away** from Philadelphia (**Oct 1943**); Allende **confessed hoax** to some UFO researchers ([*Skeptical Inquirer* — Jessup/Allende](https://skepticalinquirer.org/2021/08/solving-a-ufological-murder-the-case-of-morris-k-jessup/)); **real** **degaussing** / **radar ECM** **misread** as **magic ship** ([Navy degaussing history](https://en.wikipedia.org/wiki/Degaussing)). **Project stance:** debunk explains **cover story** and **mislabeled** **degaussing**; it does **not** explain **ONR-paid Varo reprint**, **hand-laying fire** **specificity**, or **Norfolk↔Philadelphia** **paired-node** **grammar** without **dismissing** **Jessup** **outright**.
-
-### 10.3 Mechanism in æther grammar (project model)
-
-```text
-Rotating shipboard B-field  +  Earth telluric / global B-field
-    → beat / shear in local æther (§1.4)
-    → energy routes along pre-scarred least-resistance path (Norfolk node)
-    → hull + crew EM envelopes couple to medium (“Blank,” malleable flesh)
-    → device OFF → stored medium polarization decays through bodies (Flame, Freeze, madness)
-    → crew touch = manual re-balancing (like grounding) until cascade failure (18-day fire)
-```
-
-| CERN class (§2) | Philadelphia analogue |
-|-----------------|----------------------|
-| **Buried industrial ring** | **Shipboard toroid / coil** — **mobile**, **low budget**, **1943** |
-| **Earth–Mars opposition window** | **Philadelphia–Norfolk** **paired harbors** — **local** **space** jump, **not** chronology hop |
-| **Entangled medium states** | **Oblate spheroid** **~100 yd** — crew **inside** **same** **coupled** **bubble** |
-| **Throughput vs stability** | **Success** at **teleport**; **catastrophic** **decoherence** in **bio-EM** **storage** |
-
-**Author read:** **High amplitude + low frequency** through **living** tissue matches **Golden Age** **“safe transit when geometry matches”** ([Stonehenge — bio-EM rides channel](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md)) — but **1943** **operators** ** lacked** **pyramid-class** **shell** and **off switch** for **human** **substrate**.
-
-### 10.4 Orders, containment, offworld reproduction
-
-| Signal | Author interpretation |
-|--------|------------------------|
-| **Wartime Navy yard**, **Einstein** name-dropped, **UFT** **“unpublished”** | **Reproduction** of **confiscated** or **channeled** **manual** — **not** **organic** **peer science** |
-| **ONR** ships **annotated** Jessup book | **Institutional** **continuity** — **someone** **inside** **thought** **margins** **mattered** |
-| **Crew as expendable** | **Ordered** **trial** **without** **Golden-Age** **safety** **culture** |
-| **Post-war** **Montauk** **“figure out what went wrong”** (Nichols) | **Same** **program** **line** → **CERN** **scale-up** **decades** **later** |
-
-**Tier:** **Author thesis** — **not** **proved** by **declassified** **Rainbow** **file** **located** **to** **date**.
-
-### 10.5 Documented anchors (what is **not** fiction)
-
-| Item | Tier |
-|------|------|
-| **Philadelphia Naval Shipyard** — **WWII** **EM** **R&D** hub | **Documented** |
-| **Degaussing** — **ship** **magnetic** **signature** **reduction** | **Documented** — **real** **rotating** **field** **adjacent** **tech** |
-| **Jessup / Allende letters** exist; **Varo edition** **printed** | **Documented** **artifacts** |
-| **ONR** **interest** in **annotated** **UFO** **book** | **Documented** (**disputed** **interpretation**) |
-| **Asimov / Heinlein / de Camp** at **same** **yard** **1942–1945** | **Documented** **proximity** — **not** **experiment** **proof** ([Asimov Navy Yard](/influence/predictive_programming/fiction_encoding/asimov/01-biography-and-context.md)) |
-| **Operational** **Philadelphia** **teleport** | **Unverified** — **legend** **tier** |
-
-### 10.6 Control deposit — **time travel** substituted for **space teleport**
-
-**Pattern (author read):** **Primary** **Allende** **grammar** = **local** **space** **displacement** (**Philadelphia ↔ Norfolk**). **Later** **deposit** **layers** **retime** the **same** **hardware** as **chronology** **portals** — **easier** to **mock**, **harder** to **map** to **Mars** **opposition** **windows** and **CERN** **endpoint** **thesis**.
-
-| Deposit | Time-travel emphasis | Space / endpoint emphasis |
-|---------|---------------------|---------------------------|
-| ***The Philadelphia Experiment* (1984 film)** | **Strong** — **Nazi** **time** **escape** **trope** **added** | **Weak** — **ship** **jump** **backdrop** |
-| ***The Montauk Project* (1992)** | **Title +** **1943↔1983** **loop** | **Teleport**, **Mars** **tunnels** (Cameron/Nichols) |
-| ***Stranger Things*** | **Upside Down** **time** **fuzz** | **Accelerator** **=** **CERN** **rhyme** |
-| ***Stargate*** | **Some** **time** **eps** | **Wormhole** **between** **places** |
-| **Repo [events page](/events/philadelphia/page.md)** | **Explicitly denied** | **Norfolk** **only** — **author** **correction** |
-
-**Investigation rule:** When a **portal** **story** **defaults** to **time travel**, **check** **whether** **space** **teleport** **+** **fixed** **endpoint** (**Mars**, **Norfolk**, **Xen**) **was** **the** **older** **or** **more** **operationally** **coherent** **layer**. **Time** **reads** as **R6 shell / misdirection** per [REDACTION.md](/docs/REDACTION.md) — **pop** **culture** **inoculation**.
-
-**Montauk fork:** Nichols **explicitly** **links** **Montauk** **SAGE** **radar** **refit** to **Philadelphia** **aftermath** and **claims** **Mars** **as** **remote** **target** via **vortex** **aiming** ([Art Bell **1994**](https://artbellarchive.org/episode/may-27-1994-montauk-project-preston-nichols); [Cameron/Nichols interview](https://www.stunned.org/spook/www.psychicspy.com/montauk2.html)). **Treat** as **sequel** **narrative** **bridging** **1943** **ship** **gate** → **1980s** **ground** **antenna** → **CERN** **ring** — **speculative**, **not** **A-tier**.
-
-### 10.7 Continuum to CERN (§2–§3)
-
-| Era | Hardware | Endpoint grammar |
-|-----|----------|------------------|
-| **~1943** | **DE-173** **coil** **(legend)** | **Norfolk** **harbor** **pair** |
-| **~1980s** | **Montauk** **Delta-T** **(claimed)** | **Time** **loop** **+** **Mars** **(claimed)** |
-| **2008–** | **LHC / FCC** | **Mars-only** **author** **thesis** (§3) |
-
-**Synthesis:** Philadelphia is **prototype** **class** — **prove** **medium** **routing**, **burn** **crew**, **learn** **hand-stabilization** **limits**. CERN is **industrial** **successor** — **buried**, **EU-funded**, **public** **“particle physics”** **skin**, **same** **æther** **stress** **grammar**.
-
----
+**Lay anchor:** [Philadelphia events page](/events/philadelphia/page.md) — **no time travel**; Norfolk local teleport only.
 
 ## 7. Author’s open claims registry
 
@@ -460,7 +430,7 @@ Rotating shipboard B-field  +  Earth telluric / global B-field
 | A5 | Prior **Birkeland scars** required between endpoints | **Author thesis** (EU/Mars catastrophism lane) |
 | A6 | Gates **periodic** — Earth–Mars opposition | **Author thesis** + Mars hub |
 | A7 | WWW release = possible **controlled Martian protocol leak** | **Speculative** |
-| A8 | Gotthard / rituals = **far-side signaling** | **Author interpretive** |
+| A8 | **Gotthard 2016** ceremony = **far-side obedience signaling**; **portal-shaped** staging **mislabeled as CERN** in 2024 virals — **“wrong ceremony”** if denial-only PR | **Author interpretive** — §6.1; fact-check **location** **documented** |
 | A9 | **W → Vav → 6**; **WWW** read as **occult 666** (letter arithmetic), not only “World Wide Web” | **Author symbolic thesis** — etymology **supported**, Hebrew **666 sum rejected**, intent **unproven** |
 | A10 | **Three nails** / **vav-hook** shape echoes **triple-W** crucifixion grammar | **Symbolic / liturgical** |
 | A11 | **Nine-inch nails** fit **giant** Passion; **inch/foot** changed — dig “debunk” uses **redacted** body + unit | **Author thesis** — [AU-031](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) |
@@ -490,6 +460,7 @@ Rotating shipboard B-field  +  Earth telluric / global B-field
 12. **Varo edition:** **Primary** **copy** of **annotated** **Jessup** — **who** **ordered** **print run** and **why**?
 13. **Montauk–Mars:** **Independent** **corroboration** of **Nichols** **Mars** **targeting** **beyond** **interview** **memoir**?
 14. **Dead Planet Protocol:** **Pre-1962** **imaging** showing **canal** **geometry** **change** **year-over-year** — **archive** **targets**?
+15. **Gotthard 2016:** AlpTransit/SBB **ceremony commissioning** docs for **Volker Hesse** — stated **symbolic intent** vs **portal** readings; Swiss Federal Council **press** on **CERN** **misattribution** (2024 cycle).
 
 ---
 
@@ -518,7 +489,9 @@ Rotating shipboard B-field  +  Earth telluric / global B-field
 | [Incorrectly scaled universe — æther](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md) | Propagation in structured medium |
 | [Stonehenge → CERN](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) | Portal class continuity |
 | [Crucifixion giant redaction — nail metrology](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) | Nine-inch / inch-foot shift (**AU-031**) |
-| [Philadelphia Experiment — events page](/events/philadelphia/page.md) | Lay anchor; **no** **time** **travel** |
+| [Philadelphia portal precursor](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) | 1943 ship-scale PP; §10 moved here |
+| [Part A — Out of This Door Might Come Something](/science/cern_portal/out-of-this-door-might-come-something.md) | Reader essay |
+| [Part B — Philadelphia Was Not Time Travel](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md) | Reader essay |
 | [Dead Planet Protocol — timeline](/timeline/evt-mars-surface-dismantling-dead-planet-protocol) | Surface dismantling → Mariner seal |
 | [Mars hub](/cosmos/mars/page.md) | Canals, CERN travel, Gotthard signaling |
 | [Montauk / Half-Life PP cluster](/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md) | Fiction **portal** **grammar** |
@@ -543,7 +516,7 @@ Keywords: #Cern #Mars #QuantumGateway #Aether #Maxwell #Portal #LHC #FCC #Venus 
 
 **Ceremony / internet leak / WWW–666 / RV:** Interpretive or **speculative** where labeled; **§6.4** records **gematria pushback** explicitly.
 
-**Philadelphia subset (§10):** **Allende–Jessup** **corpus** is **best** **match** for **full** **injury** **grammar**; **Navy** **denial** + **Eldridge** **logs** are **documented** **counter-layer**. **Time-travel** **media** **≠** **core** **1943** **space** **jump** **read**.
+**Philadelphia subset:** Moved to [Philadelphia portal precursor investigation](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md). **Allende–Jessup** corpus is **best** match for **full** **injury** **grammar**; **Navy** **denial** + **Eldridge** **logs** are **documented** **counter-layer**. **Time-travel** **media** **≠** **core** **1943** **space** **jump** **read**.
 
 **Not operational advice:** No encouragement to trespass, interfere with CERN, or treat fiction as safety guidance.
 

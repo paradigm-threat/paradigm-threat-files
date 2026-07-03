@@ -207,6 +207,9 @@ Media identified as containing predictive programming by external sources or our
 | *The Dark Knight Rises* | 2012 | Sandy Hook parallels (widely cited). | Common |
 | *Contagion* | 2011 | Pandemic scenario pre-COVID. | Common |
 | *Doom* | 2005 | Quantum teleport between Earth and Mars. | Ours |
+| *Contact* | 1997 | Spinning machine; traveler drops through channel to Vega. | Ours |
+| *Portal* / *Portal 2* | 2007–2011 | Aperture circular chambers; instant traversable holes. | Ours |
+| Laidlaw *Epistle 3* (leak) | 2017 | Borealis oscillating gate; Bootstrap Device; time+space deposit. | Ours |
 | *Age of Ultron* | 2015 | AI takeover. | Ours |
 | *Mitchells vs. Machines* | 2021 | AI takeover. | Ours |
 | *28 Days Later* | 2002 | Zombie apocalypse. | Ours |
