@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-03T13:20:56.038Z",
+    "date": "2026-07-03T13:21:56.428Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.md",
+        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-03T13:20:54.000Z",
+    "message": "Rename essay slug to alef-and-the-clogged-internet.",
     "files": [
       {
         "status": "M",
@@ -511,41 +524,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-07-02T11:34:36.000Z",
     "message": "Add Napoleon reaction thesis for 1810 TONA and post-1815 forgetting.",
-    "files": [
-      {
-        "status": "M",
-        "path": "governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md",
-        "href": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/constitution/tona-not-war-liberty-rebrand.md",
-        "href": "/governance/constitution/tona-not-war-liberty-rebrand"
-      }
-    ],
-    "images": [
-      {
-        "src": "/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
-        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
-      },
-      {
-        "src": "/governance/constitution/investigations/constitution-amendments-by-camp.png",
-        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.png",
-        "alt": "Constitution and amendments — nationalist vs globalist battlefield"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-by-camp.png",
-        "alt": "U.S. Constitution and amendments by camp — nationalist vs globalist scorecard"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-02T11:31:02.000Z",
-    "message": "Document July 2026 birthright controversy — Vance, flights, COVID hotels.",
     "files": [
       {
         "status": "M",

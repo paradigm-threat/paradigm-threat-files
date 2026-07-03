@@ -73,6 +73,16 @@ The conversion pipeline:
 
 After JFK, **9/11 Truth** is the longest-running **mass-doubt community** in American life — **donation-routed**, **mechanism-obsessed**, **already fractured**. The prize for a mesh is not only **book sales**; it is **twenty years of coalition time** burned on **thermite vs DEW vs no-planes** while **agency WHY**, **broadcast forensics**, and **narrow overlap** stay **unindexed**.
 
+### Personal field note — solved mysteries that won't bubble
+
+I feel like I have **solved a lot of the 9/11 mystery** — not as brag, as **inventory**. After **~fifteen years** of chronology and investigation work, I can **answer basically any question** someone throws at me on mechanism, agency, broadcast, or **WHY**. What I find **strange** is not that I think I am right. It is that the **community has not said any of the things I have concluded** — not even as **hypothesis on the table**. Simple, legible reads like [**Good-Actor Theory**](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) — interagency war, antibody factions, **WHY at home and early** — **do not propagate**. They do not get **debated and rejected**. They **do not appear**. That absence is what I mean by **clogged**.
+
+The **algorithm** — opaque **index and engagement** layers above any one forum — does not route you toward **the new synthesis that might go viral**. It routes you toward **the debate that has already been had**: thermite, DEW, no-planes, Gage homework, Judy Wood footers, **the same loops** millions of people have already run. **Regulated re-enactment**, not discovery. The stack **selects for repetition** because repetition is **predictable engagement** — coalition time burned, **no merit bubble** for a fresh frame.
+
+**Viral activity is sanitized and prevented at this point.** I do not mean "hard to go viral." I mean **it is not possible to go viral without establishment support** — a podcast booking, a platform boost, an indexed garden slot, a controversy lane the ad stack already knows how to monetize. Independent chronology on a personal site **does not compete**; it **waits for human bypass** ([§ clogging and indexing](#not-protocol--clogging-and-indexing)). The **new thing** — the read that might **actually move the community** — is exactly what the clog is **designed to starve**.
+
+**Discipline:** Good-Actor Theory is **my working synthesis**, documented in-repo, **not consensus** and **not proven** to every reader. This paragraph is **epistemic**, not victory lap — **propagation failure** as **data** about the stack, not proof the thesis is correct.
+
 The **DEW church** (author’s behavioral label) is the **movement instance** of Alef grammar: **respectable front** (*Where Did the Towers Go?*, ic911a “International Center,” **Coming Soon** splash), **footer litmus**, **homework loop**, **Substack taunt → Zoom credibility**, **no shipped accountability** ([§5.8 franchise mesh](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel)). **Extraction = fracture**, not euros.
 
 I researched 9/11 for **~fifteen years** mostly **off-platform** — chronology and investigation infrastructure, not comment wars. I am **new to Substack**. In **June 2026** I took a **scheduled Sunday call** with a public debunk-host lane ([@911revision / ic911a](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md)) — **not** to win a mechanism duel, but to **cross-examine a potential node** deep inside the clog.
@@ -124,7 +134,7 @@ The **cross-examination was very satisfying** — useful fieldwork, sharp contra
 
 If Alef-class meshes and **opaque index tiers** define the **2020s internet**, then **9/11 Truth** inherits:
 
-1. **No merit bubble** — chronology labor **starves**; **single-topic rage** **thrives** in engagement lanes.
+1. **No merit bubble** — chronology labor and **new syntheses** (e.g. [Good-Actor read](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md)) **starve**; **single-topic rage** and **repeated mechanism loops** **thrive** in engagement lanes.
 2. **No cross-community exchange** — respectable **CD lane** and **DEW lane** **cannot find** narrow overlap in **index-visible** space.
 3. **No immune response** — **fracture operators** **not prosecutable** for **coalition harm**; **platform ToS** only; **cross-border operator** ([ic911a operator self-ID: South Africa](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md)).
 4. **Plausible deniability forever** — **evangelical dodge** **resets** every pinned question.
@@ -160,6 +170,7 @@ Hub: [Controlled Opposition](https://paradigmthreat.net/influence/controlled_opp
 - **Alef:** **industrial mesh** read from **2026 reporting** — **not** allegation that **9/11 operators** work for **Yermolaev entities** without docket.
 - **Opaque algorithms:** ad/index/display **above** platforms — **not** proven human assignment to any named host.
 - **DEW church:** **behavioral label** for **fracture + homework evangelism** — not a religious institution claim.
+- **Personal field note (§9/11):** **propagation failure** observation — **not** claim of infallibility; Good-Actor Theory is **author synthesis**, not community consensus.
 - **Jun 28 call:** **author memory** + **screenshot archive**; **no transcript quotes** in essay body.
 - **Norman-specific:** **insult-amnesia gap** and **plausible-deniability dodge** only — **not** unknowing employee in fraud mesh.
 - **Survival / compassion:** **failed-state** economic context (author memory from call) — **hard to blame** operators **trying to survive**; **≠** endorsing harassment or accepting bad faith as inquiry.
@@ -168,7 +179,7 @@ Hub: [Controlled Opposition](https://paradigmthreat.net/influence/controlled_opp
 
 Keywords: #AlefScam #InternetIntransigence #OpaqueAlgorithms #ControlledOpposition #911Truth #DebatePrevention #PlausibleDeniability #COVID #ParadigmThreat
 
-**Last updated:** 2026-07-03T09:07:12-04:00
+**Last updated:** 2026-07-03T09:21:00-04:00
 
 ---
 
