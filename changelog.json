@@ -1,8 +1,36 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-03T15:15:02.618Z",
+    "date": "2026-07-03T20:33:18.706Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/20th-21st-century-catalog.md",
+        "href": "/events/false_flag/investigations/20th-21st-century-catalog"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md",
+        "href": "/events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation"
+      },
+      {
+        "status": "M",
+        "path": "events/jfk/agent.md",
+        "href": "/events/jfk/agent"
+      },
+      {
+        "status": "M",
+        "path": "events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md",
+        "href": "/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-03T15:15:00.000Z",
+    "message": "Re-master Alef call audio from OBS MKV source.",
     "files": [
       {
         "status": "M",
@@ -1079,24 +1107,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-07-02T15:21:39.000Z",
     "message": "Narrow Norman compartmentalization claim to insult-amnesia gap only.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md",
-        "href": "/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/debunk-host-scheduled-slot.md",
-        "href": "/influence/controlled_opposition/debunk-host-scheduled-slot"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-02T15:11:02.000Z",
-    "message": "Add floor-labor citations: compartmentalization, skills recruitment, poverty.",
     "files": [
       {
         "status": "M",

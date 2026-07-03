@@ -96,7 +96,7 @@
 | **Epstein = disposable puppet** | **Rejected (author)** | **Public face**, yes — but **linchpin**: **handshake** **archive**, **routing**, **trust** **cannot** **spin up** **new** **node** **fast** |
 | **Epstein = irreplaceable** | **Author** | **Compromise graph** **needed** **him** **alive** or **credibly** **removed** — **fake death** **preserves** **graph** **better** than **murder** **or** **trial** |
 
-Cross-read [JFK agent.md — staged death hoax](/events/jfk/agent.md) for **precedent** on **public** **death** **≠** **physical** **exit**.
+Cross-read [JFK agent.md — staged death hoax](/events/jfk/agent.md) and [JFK §2.3 PP catalog](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) for **precedent** on **public** **death** **≠** **physical** **exit** and **media** **forensics** **grammar** (*Girl Hair*, *F/X*, *TDKR*).
 
 ---
 
@@ -148,6 +148,7 @@ Cross-read [JFK agent.md — staged death hoax](/events/jfk/agent.md) for **prec
 | Epstein / 9/11 / blackmail | [epstein-blackmail-network-9-11-crosslinks](./epstein-blackmail-network-9-11-crosslinks-investigation.md) |
 | Faked / managed death theater | [netanyahu-faked-death-shiva-rumors](./netanyahu-faked-death-shiva-rumors-investigation.md) |
 | Staged presidential death precedent | [events/jfk/agent.md](/events/jfk/agent.md) |
+| JFK PP media catalog (robot decoy / blood forensics) | [JFK investigation §2.3](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) |
 | Celebrity containment / slavery | [celebrity-modern-slavery](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md) |
 | Substack Epstein Q4 | [q04-epstein-collective-guilt](/history/chronology/qa/substack-tropes/q04-epstein-collective-guilt.md) |
 

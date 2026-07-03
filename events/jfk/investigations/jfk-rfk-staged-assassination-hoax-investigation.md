@@ -1,6 +1,6 @@
 # Investigation: JFK & RFK — Staged Assassination Hoax (Kennedy Family Compliance)
 
-> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — **real pre-Dallas attempts** (Pavlick anchor) → **family compliance** under **car-party threat**; **[§1.1 pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar)** — **Business Plot** health-fiction fork closest analogue; **no documented pre-1963 death hoax**; **[§2.1 motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)** — **hostile Dallas**, **Stevenson** incident, **morning ad**, **open published route** = **spectacle not faction healing**; **Dealey** **robot / exploding-head** ruse; **Vietnam escalation** on **documented timeline**. **RFK (Jun 1968)** — **Sirhan** decoy; **Hartwell** **slug vs .22** wedge. Cross-read [agent.md](../agent.md), [§2](#2-jfk-november-1963-fake-assassination), [prophet.md](../prophet.md).
+> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — **real pre-Dallas attempts** (Pavlick anchor) → **family compliance** under **car-party threat**; **[§1.1 pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar)** — **Business Plot** health-fiction fork closest analogue; **no documented pre-1963 death hoax**; **[§2.1 motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)** — **hostile Dallas**, **Stevenson** incident, **morning ad**, **open published route** = **spectacle not faction healing**; **Dealey** **robot / exploding-head** ruse; **[§2.3 PP media catalog](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)** — **Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***; **[§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)** — **mock → divide → distract** after **Russia** script failed; **Vietnam escalation** on **documented timeline**. **RFK (Jun 1968)** — **Sirhan** decoy; **Hartwell** **slug vs .22** wedge. Cross-read [agent.md](../agent.md), [§2](#2-jfk-november-1963-fake-assassination), [prophet.md](../prophet.md).
 
 **Status:** Open — project thesis + public-record / forensic anchors; **no** proof of either man’s post-event public life.  
 **Date:** 2026-06-29
@@ -10,7 +10,7 @@
 ## Guide
 
 1. **Shared hoax grammar (Kennedy lane)** → [§1](#1-shared-hoax-grammar) · [§1.1 Pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar) · [§1.2 Nixon inverse exit](#12-post-kennedy-inverse-exit--nixon--watergate) · [§1.3 Legal responses & gaps](#13-legal-responses--gaps-health-concealment-autopen-25th)
-2. **JFK — Nov 22, 1963 (site thesis)** → [§2](#2-jfk-november-1963-fake-assassination) · [§2.1 Dallas motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission) · [§2.2 Rebecca Black *Friday* (PP dead end)](#22-rebecca-black-friday--encrypted-mock-pp-dead-end)
+2. **JFK — Nov 22, 1963 (site thesis)** → [§2](#2-jfk-november-1963-fake-assassination) · [§2.1 Dallas motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission) · [§2.2 Rebecca Black *Friday* (Tier A PP)](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) · [§2.3 PP media catalog (canonical list)](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) · [§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)
 3. **RFK — Jun 4–6, 1968 (forensic + Hartwell)** → [§3](#3-rfk-june-1968-ambassador-hotel)
 4. **Parallel table** → [§4](#4-jfk-vs-rfk-parallel-read)
 5. **Means, motive, opportunity (RFK — Hartwell)** → [§5](#5-rfk-means-motive-opportunity-hartwell)
@@ -27,7 +27,7 @@
 | **Public event** | Televised motorcade | Primary victory → pantry “shooting” |
 | **Controlled venue** | Dealey Plaza — **published route**, **maximum visibility** | Ambassador Hotel pantry, escorts + press |
 | **Decoy shooter** | Oswald narrative | Sirhan Sirhan (pinned after ~2 shots) |
-| **Forensic confusion** | Magic bullet, Warren Commission | Wolfer bullet map, **unlinked** .22, **brain slug** size |
+| **Forensic confusion** | Magic bullet, Warren Commission ([§2.4 containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)) | Wolfer bullet map, **unlinked** .22, **brain slug** size |
 | **Family compliance** | Jackie, Connally circle | Kennedy network, **JFK precedent** |
 | **War / board reset** | Vietnam scale-up | 1968 election exit, **re-open JFK case** avoided |
 | **“Conspiracy theory” containment** | CIA coinage / ridicule lane | Sirhan conviction closes file |
@@ -192,8 +192,8 @@ Start with **documented pre-Dallas pressure**, not Zapruder minutiae:
 | **3** | **Motorcade geometry** ([§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)) | **Weak / hated locally** → you don't **crawl slowly** through the **most hostile downtown** in an **open car** on a **published route** **six weeks after** your UN ambassador was **physically attacked** in the **same city**, with a **hostile newspaper ad** that **morning** — **faction healing** is a **luncheon** problem; **Dealey** is a **spectacle** problem |
 | **4** | **Vietnam board (documented)** | **Hard sell** → **president “shot”** → **escalation** — **timeline fact**, not conspiracy garnish |
 | **5** | **Russia / deep-state board** | Long **anti-Russia** war arc; JFK as **Rex Bellator** war-prep; early **“Russia killed JFK”** press **rejected** → **Oswald / Warren / magic bullet** confusion layer |
-| **6** | **Dealey spectacle** | **Exploding head** read as **robot / automatronic** + blood pack — **predictive programming** lane (synthetic body, staged gore); **witnesses can be real** while **fatal shot layer** is synthetic |
-| **7** | **Forensic distraction** | **No requirement** for **shooters**, **bullets**, or **magic bullet** if kill layer is **theater** — commission **poisons** serious audit |
+| **6** | **Dealey spectacle** | **Exploding head** read as **robot / automatronic** + blood pack — **predictive programming** lane ([§2.3 Tier A–C](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics): *Girl Hair*, *F/X*, *TDKR*, *Friday*); **witnesses can be real** while **fatal shot layer** is synthetic |
+| **7** | **Forensic distraction** | **No requirement** for **shooters**, **bullets**, or **magic bullet** if kill layer is **theater** — Warren / **single-bullet** wedge **poisons** serious audit ([§2.4](#24-warren-commission--magic-bullet-containment-mock-divide-distract)) |
 | **8** | **RFK parallel (Hartwell)** | **1968** pantry **same grammar** — Sirhan **decoy**, **slug size** vs **.22** — forensic wedge for **paired hoax** |
 
 **Dean Hartwell (@pwp911)** — cite on **RFK** forensic collapse; **JFK** lane shares **family compliance** + **staged exit** grammar ([§3](#3-rfk-june-1968-ambassador-hotel), [§4](#4-jfk-vs-rfk-parallel-read)).
@@ -204,9 +204,9 @@ Start with **documented pre-Dallas pressure**, not Zapruder minutiae:
 - **Why comply:** Deep State would **continue real assassination attempts** if JFK stayed in power; **fake death** allowed **Asian war** scale-up **without** his resistance — **Vietnam escalation after Dallas** is **documented**, not speculative.
 - **Dealey Plaza** motorcade = **elaborate ruse**; **automatronic robot / mannequin** + **exploding head** timed like gunshot; **Jacqueline** and **Connally** party went along under **car-party threat**.
 - **No shooters required (thesis):** Spectacle can run **without** resolving **Oswald**, **magic bullet**, or **grassy knoll** — those are **distraction** once the **kill layer** is read as **synthetic**.
-- **Predictive programming:** Film/TV **exploding-head / synthetic-body** grammar **prefigures** Dealey **hand-wave** read (adjacent PP hub — not sole proof).
+- **Predictive programming:** Film/TV/music **robot-decoy / blood-squib / motorcade-mock / generational ridicule** grammar **prefigures** Dealey **hand-wave** read — **canonical catalog:** [§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) (**Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***); **not sole proof**.
 - **JFK as Rex Bellator** — war-prep figure (Cuba, Asia, **Russia** containment), **not** peace-icon; **Russia** framed as **world deep state** while **Washington** board escalates same war.
-- **Oswald** + **Warren Commission** **magic bullet** = **confusion layer** after **“Russia did it”** failed to stick; CIA **“conspirative theory”** coinage **poisons** serious audit.
+- **Oswald** + **Warren Commission** **magic bullet** = **confusion / containment layer** after **“Russia did it”** failed — **mock → divide → distract** grammar parallel to [§2.2 *Friday*](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect); full audit [§2.4](#24-warren-commission--magic-bullet-containment-mock-divide-distract); CIA **1035-960** **“conspiracy theorist”** ridicule **poisons** serious audit.
 
 **Tier:** **Project thesis** in [agent.md](../agent.md); Hartwell **RFK forensics** = **documented wedge** paired here; Dealey **robot / no-bullet** layer = **author thesis**.
 
@@ -265,13 +265,19 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 
 **Tier:** **Documented** = Stevenson incident, hostile ad, route, open car, timing; **author thesis** = **staged exit** / **spectacle-first** schedule — not **proven** survival, but **stronger fit** than **“heal the split by waving downtown.”**
 
-### 2.2 Rebecca Black — *Friday* (encrypted mock / PP dead end)
+### 2.2 Rebecca Black — *Friday* (Tier A PP — motorcade mock, generational disconnect)
 
-**Track:** Rebecca Black — **“Friday”** (2011, ARK Music Factory). **Documented fact:** **November 22, 1963** was a **Friday**. The viral clip became a **mass ridicule** object (“worst song ever”) — **not** the polished militainment or state-aligned PP usual on this site.
+**Track:** Rebecca Black — **“Friday”** (2011, ARK Music Factory). **Documented fact:** **November 22, 1963** was a **Friday**. The viral clip became a **mass ridicule** object (“worst song ever”).
 
-**Site read (author — speculative adjunct only):** The song may **encrypt-mock** the **Dallas motorcade** in **teen-party** packaging — **Revelation of the Method** by **embarrassment**: those who **feel** the rhyme **cannot prove** it; those who **mock** the track **perform** the containment ritual. **Not NSA-aligned** tone (no patriot gravity, no grief hygiene) → mainstream **hates** it — whether **awful-on-purpose** **psyop** or **sincere** **vanity** **production** that still **functions** the same way (**poor Rebecca** — the **host** need not be **in on** the **board move** for the **artifact** to **work**).
+**Site read (author — Tier A PP):** The lyrics **encrypt-mock the Dallas motorcade / hoax shooting** in **teen-party** packaging. Without that read, the **seat geometry + “get down on Friday” + calendar lock** is **inappropriate encoding** — too specific to be innocent party-pop. The **primary function** is not forensic proof but **generational PP**:
 
-**Investigator warning:** **Dead end.** Lyrics **never name** Dallas, Kennedy, motorcade, or assassination. This section is **PP pattern notes**, not **evidence**. Do **not** lead with *Friday* in replies to forensic researchers (use [§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission), Pavlick, Hartwell).
+1. **Mock the assassination** — treat **JFK’s “death”** as **laughable / cringe**, not sacred trauma.
+2. **Disconnect the next generation** — **2011 teens** inherit **“Friday”** as **meme**, not **“where were you when Kennedy was shot.”**
+3. **Containment by ridicule** — anyone who **hears Dallas** in the track is **socially punished** (same tier as the song itself).
+
+**Revelation of the Method** by **embarrassment**: those who **feel** the rhyme **cannot prove** it in a court; those who **mock** the track **perform** the ritual. **Author:** assume **Rebecca** **not culpable** for board intent — the **artifact** can **function** without the **host** being **in on** it.
+
+**Investigator discipline:** **Tier A** for **PP / generational grief decay** ([§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)). **Not** **forensic exhibit A** — still **do not lead** with *Friday* in replies to ballistics researchers (use [§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission), Pavlick, Hartwell). Lyrics **never name** Dallas or Kennedy — **intentionality** remains **author thesis**, not **provable** production doc.
 
 #### Lyric hooks → motorcade reads (author — low confidence)
 
@@ -290,7 +296,7 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 |-----------------|-----------|
 | **Bad production**, **vapid** lyrics, **paid** vanity video | **Correct surface** — **function** may still land even if **not** deliberately **bad** (**author:** assume **Rebecca** **not** **culpable** for **board** **intent**) |
 | **Meme** **humiliation** of Rebecca Black | **Audience** trained to **ridicule** **anyone** who **hears** **Dallas** in **“get down on Friday”** |
-| **No political content** | **Encrypted** content — **says nothing explicit** → **investigator dead end** |
+| **No political content** (surface) | **Encrypted hoax-shooting read** — **inappropriate** unless **Dallas motorcade** decode; **generational** **mock** **layer** |
 
 #### Generational detachment read (author PP — primary *Friday* function)
 
@@ -306,9 +312,9 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 | **Programmed dinner-table fight** | Parent **mentions** **Dallas** / **hoax** **read** → teen **quotes** *Friday* **ironically** → parent **reads** **disrespect** for **sacred** **assassination** → **generational** **rupture** **over** **tone**, **not** **evidence** |
 | **Containment win** | **Fight** **replaces** **audit** — **respect** **vs** **mockery** **substitutes** for **Pavlick**, **§2.1**, **Hartwell** |
 
-**Author note:** If **anyone** **“figures it out,”** the **script** **does not** **require** **them** to **win** the **argument** — only to **trigger** **parent** **injury** (**“you don't respect what JFK meant”**) while **child** **cannot** **articulate** **why** **the** **song** **feels** **wrong** **without** **sounding** **insane**. **Dead end** **by design** for **household** **transmission** of **hoax** **thesis**.
+**Author note:** If **anyone** **“figures it out,”** the **script** **does not** **require** **them** to **win** the **argument** — only to **trigger** **parent** **injury** (**“you don't respect what JFK meant”**) while **child** **cannot** **articulate** **why** **the** **song** **feels** **wrong** **without** **sounding** **insane**. **Forensic dead end** **by design** for **subpoena** — **PP Tier A** **by design** for **household transmission** and **grief decay**.
 
-**Tier:** **Author PP interpretation** — **not** **proof** **ARK** **planned** **generational** **war**; **pattern** **consistent** with **managed** **grief** **decay** across **cohorts** ([§6 paradigm arc](#6-paradigm-arc-betrayal-antibodies-endgame-author) — **Dallas** **poisons** **trust**, **later** **media** **trivializes** **memory**).
+**Tier:** **Author PP — Tier A** ([§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)); **not** standalone proof of Dallas hoax; **pattern** **consistent** with **managed** **grief** **decay** across **cohorts** ([§6 paradigm arc](#6-paradigm-arc-betrayal-antibodies-endgame-author) — **Dallas** **poisons** **trust**, **later** **media** **trivializes** **memory**).
 
 #### Psyop grammar (if the read is held)
 
@@ -316,9 +322,211 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 2. **Force** **mass** **mockery** (or **sincere** **cringe**) so **serious** **researchers** **avoid** the **track**.  
 3. **Reward** **ridicule** — **social proof** that **JFK hoax** thinking is **as dumb as** *Friday*.  
 4. **If decoded** → **program** **dinner-table** **generational** **conflict** (**respect** **vs** **meme**).  
-5. **No** **recoverable** **evidence** — **Revelation of the Method** **without** **subpoena**.
+5. **No** **recoverable** **evidence** in court — **Revelation of the Method** **without** **subpoena** — but **PP Tier A** for **generational mock** either way.
 
-**Tier:** **Author speculation** — **adjacent** to [prophet.md](../prophet.md) **Downard** / **Killing the King** **mockery** lane; **not** **project proof**; **do not** cite as **exhibit A**.
+**Tier:** **Author PP — Tier A** — [prophet.md](../prophet.md) **Downard** / **Killing the King** **mockery** lane; **not** **forensic proof** alone.
+
+### 2.3 Predictive programming media catalog (robot decoy + blood forensics)
+
+**Purpose:** **Canonical list** of film/TV/music cited for the **JFK Dealey robot / exploding-head / fake-death / generational-mock** thesis in [agent.md](../agent.md) and **evidence ladder step 6**. **PP prefigures grammar** — **not** proof Dallas was staged.
+
+**Reply discipline:** Lead forensic skeptics with **Pavlick**, **§2.1 motorcade**, **Hartwell** — use **§2.3** when asked *“where does the robot / blood-bag / generational-mock read come from?”* **Do not** treat cartoons, action films, or viral pop as **ballistics exhibits**.
+
+#### Master table (quick reference)
+
+| Tier | Work | Year | Mechanism | JFK hoax layer |
+|------|------|------|-----------|----------------|
+| **A** | ***Space Ghost Coast to Coast* — “Girl Hair”** | 1999 | **Robot built to look like target** destroyed in public; real figure alive; **witness disposal**; decoy robots vs assassination attempts | **Robot decoy killed instead of real person** |
+| **A** | ***F/X*** (*Murder by Illusion*) | 1986 | **Public staged hit** — blanks + **radio-triggered blood squib vest**; victim enters protection **alive** | **Exploding blood bag / squib “death”** |
+| **A** | ***The Dark Knight Rises*** (opening plane hijack) | 2012 | **Live target’s blood drawn** → **transfused into age-matched corpse** → **crash wreckage** fools agency forensics | **Blood staging for investigators** |
+| **A** | **Rebecca Black — *Friday*** | 2011 | **Nov 22 = Friday** calendar lock; **limousine seat** lyrics; **“get down”** shooting grammar; **mass mockery** **disconnects** next gen from assassination grief | **Hoax shooting encoded as joke** — [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) |
+| **B** | ***Scanners*** | 1981 | **Plaster/gelatin dummy head** destroyed in public (ConSec demo) — **exploding-head spectacle** | **Synthetic head destruction** (not hoax plot) |
+| **B** | ***Gravity Falls* — “A Tale of Two Stans”** | 2015 | **Dummy in car** pushed off cliff; crash/explosion **fakes death** for identity swap | **Prop body for public death record** |
+| **B** | ***Capricorn One*** | 1977 | **Empty spacecraft burns on re-entry** — world believes crew dead; astronauts alive | **Forensic death without blood** |
+| **B** | ***Assassin*** (CBS TV movie) | 1986 | **Human-looking government assassination robot** | **Synthetic killer / double grammar** |
+| **B** | ***Space Ghost C2C* — “Whipping Post”** | 2003 (aired **Nov 22**) | *“Machines were building robot babies to replace other babies. Everyone knows what happened next.”* | **Replacement + Dallas anniversary** — not explicit JFK |
+| **B** | **“Paul is dead” lore** (+ 2010 mockumentary) | 1969→ | **Lookalike replacement** after alleged fatal crash | **Double/living-star-hidden** folklore |
+| **C** | **Bullet hit squib / dead-character costume** | film grammar | **Pyrotechnic + blood packet** under costume simulates fatal gunshot | **Industry substrate** for Dealey blood read |
+| **C** | ***Terminator 2*** | 1991 | **“Splash head”** blood puppet — machine shot in public | **Exploding-head effect grammar** |
+| **C** | ***Wag the Dog*** | 1997 | **Fabricated war footage** + **staged military funeral** | **Media hoax** — not squib assassination |
+
+**Tier key:** **A** = **operational PP grammar** for site thesis — **robot decoy**, **blood forensics**, **motorcade hoax encoding**, and/or **generational mock** of assassination grief; **B** = adjacent spectacle or JFK rhyme; **C** = substrate / discourse — **not** direct hoax demonstrations.
+
+#### Tier A — operational match (cite first)
+
+##### 1. *Space Ghost Coast to Coast* — **“Girl Hair”** (Season 6, ep. 3)
+
+| Field | Detail |
+|-------|--------|
+| **Air date** | October 21–22, 1999 |
+| **Guest** | Hanson |
+| **Transcript** | [snard.com — Girl Hair](https://www.snard.com/sg/guide/?ep=71&fmt=2) |
+| **Video** | [Adult Swim — Girl Hair](https://www.adultswim.com/videos/space-ghost-coast-to-coast/girl-hair) |
+
+**Setup:** Space Ghost, distracted driving the **Phantom Cruiser**, **collides** with a pedestrian. He believes he **killed the Tooth Fairy** (*“She was on fire, Moltar”*). He **disposes of witnesses** — blasts Hanson into space because they saw the hit.
+
+**Reveal (canonical quote):**
+
+> **BIZARRO SANTA:** *Space Ghost! You've destroyed the Tooth Fairy.*  
+> **TOOTH FAIRY:** *No, Space Ghost. You destroyed a robot built to look like me.*
+
+**Context:** She uses **robotic doppelgängers** because **Bizarro Santa has been trying to kill her for years**. Public narrative = **Fairy destroyed**; operative reality = **synthetic body** took the hit.
+
+**Site read:** Exact **“not killed — robot built to look like me was destroyed”** grammar for [agent.md](../agent.md) **automatronic decoy** layer. Episode also orders Moltar to **“Construct a robot, name it Orlando”** — doppelgänger tooling is **theme**, not one gag.
+
+**Tier:** **Author PP** — **strongest scripted precedent** for robot-replacement fake death in this dossier.
+
+##### 2. *F/X* (1986) — subtitled *Murder by Illusion*
+
+| Field | Detail |
+|-------|--------|
+| **Plot** | DoJ hires FX expert Rollie Tyler to **stage a public mob assassination** so informant Nicholas DeFranco can vanish into witness protection |
+| **Mechanism** | **Blanks** + victim wears **radio-triggered blood squib rig** — public “shooting” in Italian restaurant |
+| **Source** | [Wikipedia — F/X](https://en.wikipedia.org/wiki/F/X) |
+
+**Site read:** **Death as special-effects production** — **exploding blood bag** witnesses accept as murder. Pairs with Dealey **squib / blood-pack head** read.
+
+**Tier:** **Author PP** — **documented film plot**, not inference.
+
+##### 3. *The Dark Knight Rises* (2012) — opening plane sequence
+
+| Field | Detail |
+|-------|--------|
+| **Mechanism** | Bane draws **Dr. Pavel’s blood** via surgical tubing into a **body the same age and build**; chest compressions **transfer blood**; plane wreckage must contain a corpse that **looks like Pavel** |
+| **Quote** | **BANE:** *Friend. They expect one of us in the wreckage.* |
+| **Payoff** | CIA analyst: *Pavel was confirmed dead — plane crash… But it certainly looks like him.* |
+| **Sources** | [Nolan screenplay (Faber & Faber)](https://scriptreader.ai/view_script?movieid=fc56dbc6d4652b315b86b71c8d688c1ccdea9c5f1fd07763d2659fde2e2fc49a); [IMDb plot](https://www.imdb.com/title/tt1345836/plotsummary/) |
+
+**Site read:** **Biological staining of a prop corpse** so **forensics and media** read **dead** while the **live target** is extracted — complements **Girl Hair** (robot decoy) with **blood-forensics staging**.
+
+**Tier:** **Author PP** — **script-accurate**; unusually specific for PP analysis.
+
+##### 4. Rebecca Black — **“Friday”** (2011)
+
+| Field | Detail |
+|-------|--------|
+| **Release** | March 2011 (ARK Music Factory); viral **teen** **pop** |
+| **Documented calendar fact** | **November 22, 1963** was a **Friday** |
+| **Full decode** | [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) — lyric table, generational detachment, psyop grammar |
+
+**Site read (Tier A — why not Tier B/C):**
+
+| Layer | Read |
+|-------|------|
+| **Hoax shooting encode** | **“Friday, Friday”** / **“Gotta get down on Friday”** — **calendar lock** to assassination day + **“get down”** = **hit the deck** / shooting command; **front seat / back seat / which seat** = **limousine geometry** ([§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)) |
+| **Inappropriate unless hoax** | **Author:** absent a **Dallas motorcade** read, the **seat + Friday + get down** cluster is **too pointed** for innocent **party-pop** — functions as **encrypted mock** of a **hoax shooting**, not random cringe |
+| **Generational disconnect** | **Mass ridicule** trains **next cohort** to **laugh at** the track — and by **contamination**, to **treat JFK grief as meme-tier**, not **sacred trauma** |
+| **Containment** | Parent **hoax** talk → teen **quotes** *Friday* → fight over **respect vs mockery** **replaces** **audit** |
+
+**Tier:** **Author PP — Tier A** for **generational mock + motorcade encode**; **not** forensic proof; Rebecca **not** assumed **culpable**.
+
+#### Tier B — adjacent (spectacle, JFK rhyme, identity swap)
+
+| Work | Why listed | Source |
+|------|------------|--------|
+| ***Scanners*** (1981) | Iconic **public exploding head** on dummy — assassination **spectacle** grammar | [Wikipedia](https://en.wikipedia.org/wiki/Scanners) |
+| ***Gravity Falls* — “A Tale of Two Stans”** (2015) | **Dummy driven off cliff**; crash **fakes Stanley Pines’ death** for identity takeover | [GF wiki](https://gravityfalls.fandom.com/wiki/A_Tale_of_Two_Stans) |
+| ***Capricorn One*** (1977) | **Empty craft destroyed on re-entry** — believed-dead crew | [Wikipedia](https://en.wikipedia.org/wiki/Capricorn_One) |
+| ***Assassin*** (1986 TV) | **Human-indistinguishable robot** assassinates officials | [NYT review](https://www.nytimes.com/1986/03/19/arts/assassin-a-cbs-movie-about-a-killer-robot.html) |
+| ***Space Ghost C2C* — “Whipping Post”** (2003-11-22) | Robot **replacement** monologue on **Dallas anniversary** | [snard.com ep. 84](https://www.snard.com/sg/guide/?ep=84&fmt=2) |
+| **“Paul is dead”** | **Lookalike replacement** after alleged crash — pre-TV **double folklore** | [Wikipedia](https://en.wikipedia.org/wiki/Paul_is_dead) |
+
+#### Tier C — substrate (film grammar / weak PP)
+
+| Element | Role | Source |
+|---------|------|--------|
+| **Bullet hit squib / blood squib** | Standard **pyrotechnic + fake blood packet** = movie “gunshot death” | [Wikipedia](https://en.wikipedia.org/wiki/Bullet_hit_squib) |
+| ***Wag the Dog*** (1997) | **Fabricated footage** + **staged funeral** — state **media hoax** | [Wikipedia](https://en.wikipedia.org/wiki/Wag_the_Dog) |
+
+#### Author synthesis (§2.3)
+
+| Claim | Tier |
+|-------|------|
+| Mainstream film/TV/music **taught audiences** robot-decoy, blood-squib, **motorcade-mock**, and **generational ridicule** grammar before and after Dallas | **Pattern** — **Tier A** titles dated |
+| **Girl Hair** line is **verbatim** match for **“robot built to look like me”** decoy thesis | **Citable** — [snard transcript](https://www.snard.com/sg/guide/?ep=71&fmt=2) |
+| **TDKR + F/X** demonstrate **forensic / witness-facing** staging (blood in corpse, squib vest) | **Citable** — script + Wikipedia |
+| ***Friday*** **motorcade encode + mass mockery** — **inappropriate** without hoax read; **disconnects** next generation from assassination grief | **Author Tier A** — [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) |
+| Any single PP title **proves** Nov 22 1963 was hoaxed | **Rejected** — **adjunct** to Pavlick, §2.1, Hartwell |
+
+**Cross-read:** [prophet.md](../prophet.md) (Downard **Killing the King** — spectacle requires audience); [Epstein staged death](../../false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md) (later **public death ≠ exit** precedent); [§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract) (official **mock-divide-distract** lane — pairs with [§2.2 *Friday*](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect)).
+
+### 2.4 Warren Commission — magic bullet containment (mock, divide, distract)
+
+**Purpose:** Document **who called out** the Warren Report / **single-bullet (“magic bullet”)** presentation as **credibility-destroying**, **debate-poisoning**, and **public-interest suppressing** — and map that grammar to the site’s **staged-kill** read ([§2 step 7](#best-evidence-ladder-reply--audit-order)) and **generational mock** lane [§2.2 *Friday*](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect).
+
+**Site read (author):** After **“Russia killed JFK”** failed in press, the **Oswald / Warren / magic bullet** stack became the **safe stupid object** — classrooms and media often teach **“that ridiculous magic bullet”** instead of **motorcade staging**, **Pavlick**, or **compliance**. Same **mock → divide → conquer → distract** function as *Friday*: **ridicule replaces audit**; **generations inherit the joke**, not the trauma or the hoax thesis.
+
+**Investigator discipline:** **Documented** = Epstein, Lane, Russell dissent, CIA 1035-960, Salandria thesis text; **author synthesis** = magic bullet as **misplaced forensic theater** when Dealey kill layer is **synthetic** — **not** proof CE 399 chain-of-custody without independent ballistics audit.
+
+#### Timeline — documented critics and institutional response
+
+| Date | Actor | Claim (summary) | Source |
+|------|-------|-----------------|--------|
+| **1964** | **Warren Commission** / **Arlen Specter** | **Single-bullet theory** (CE 399) reconciles **Zapruder timing** with **one** Depository shooter; Report calls evidence **“persuasive”** — **not proven**; three members **improbable** | [Wikipedia — single-bullet theory](https://en.wikipedia.org/wiki/Single-bullet_theory) |
+| **1964** | **Russell, Cooper, Boggs** | **Privately rejected** single-bullet theory; Report **papered over** dissent (“not necessary to essential findings” while **load-bearing**) | [Wilkes — JFK killer not alone](https://digitalcommons.law.uga.edu/fac_pm/117); [Harvard Crimson on Epstein](https://www.thecrimson.com/article/1966/11/30/beyond-the-warren-report-pwhen-the/) |
+| **1966** | **Edward Jay Epstein**, *Inquest* | Report **written to dispel doubt** but **engendered skepticism**; **dubious** SBT; confidence in SBT **“will foster doubt and encourage fanciful alternatives for years to come”** | [Harvard Crimson review](https://www.thecrimson.com/article/1966/11/30/beyond-the-warren-report-pwhen-the/) |
+| **1966** | **Mark Lane**, *Rush to Judgment* | Coined **“The Magic Bullet”** chapter — **ridicule label** for Specter’s theory; **“grassy knoll”** enters lexicon | [Wikipedia — Rush to Judgment](https://en.wikipedia.org/wiki/Rush_to_Judgment) |
+| **1967** | **CIA** Dispatch **1035-960** | **Countering Criticism of the Warren Report** — media assets **discredit** critics as **“conspiracy theorists”**; **ridicule** over refute; inhibit **“irresponsible speculation”** | [NYT FOIA coverage](https://www.nytimes.com/1977/12/26/archives/cable-sought-to-discredit-critics-of-warren-report.html); [1035-960 PDF mirror](https://911speakout.org/wp-content/uploads/CIA-DOC-1035-960.pdf) |
+| **1977** | **Vincent Salandria** | Warren single-assassin conclusion **“designed to fall to pieces”**, **“designed to be incredible”**, **“designed to self destruct”** — **“transparent conspiracy”** (Thomas Katen); **“DIVIDE ET IMPERA”** — paralysis, alienation | [Salandria — *Design of the Warren Report*](https://ratical.org/ratville/JFK/FalseMystery/DesignOfWarrenReport.html) |
+| **2016** | **Donald Wilkes** | CIA + **mainstream media** **clandestine crusade** to **defend** Warren **sole-assassin** claim | [Wilkes — Single-assassin, media, CIA](https://digitalcommons.law.uga.edu/fac_pm/269) |
+
+#### Mock → divide → distract (parallel to §2.2 *Friday*)
+
+| Mechanism | **§2.2 *Friday*** (2011 PP) | **§2.4 Warren / magic bullet** (1964–present) |
+|-----------|----------------------------|-----------------------------------------------|
+| **Mock** | Mass **cringe** at viral teen pop | **“Magic bullet”** as national **punchline** (Lane’s label **stuck**) |
+| **Divide** | Parent **sacred grief** vs teen **meme irony** | **“Believe the Report”** vs **“conspiracy theorist”** (CIA **1035-960** playbook) |
+| **Distract** | Motorcade encode **hidden** in ridicule | Debate **trapped** in **bullet physics** / CE 399 — not **was Dealey theater** |
+| **Generational** | **2011 cohort** inherits **meme**, not Zapruder | **School units** often reduce JFK to **“stupid magic bullet”** — **substitute** for investigation |
+| **Containment win** | Dinner-table **tone fight** replaces **audit** | **Ridicule** of questioner **replaces** Pavlick, **§2.1**, **Hartwell** |
+
+#### Tier map (what is citable vs author thesis)
+
+| Claim | Tier |
+|-------|------|
+| Specter developed **single-bullet theory**; Commission called it **persuasive**, not proven; **Russell / Cooper / Boggs** skeptical | **Documented** |
+| Epstein: Report **increased** doubt; SBT **load-bearing** despite “not necessary” language | **Documented** — [Crimson / Epstein](https://www.thecrimson.com/article/1966/11/30/beyond-the-warren-report-pwhen-the/) |
+| Lane **coined** **“magic bullet”** as critic’s ridicule term | **Documented** — [Rush to Judgment](https://en.wikipedia.org/wiki/Rush_to_Judgment) |
+| CIA **1035-960** instructed **media ridicule** of Warren critics | **Documented** — [NYT](https://www.nytimes.com/1977/12/26/archives/cable-sought-to-discredit-critics-of-warren-report.html) |
+| Salandria: Report **designed to self-destruct** / **transparent conspiracy** / **divide et impera** | **Author thesis (Salandria)** — [1977 essay](https://ratical.org/ratville/JFK/FalseMystery/DesignOfWarrenReport.html) |
+| Commission **intentionally** planted **absurd** SBT **with no basis** solely to **kill public interest** | **Author synthesis** — aligns **Salandria** + **site staged-kill** read; **not** mainstream Warren apologia |
+| If Dealey kill layer is **synthetic**, **magic-bullet forensics** are **misplaced theater** (arguing squib physics when head was **prop**) | **Project thesis** — [agent.md](../agent.md), [§2 step 7](#best-evidence-ladder-reply--audit-order) |
+| CE 399 **chain of custody** / **pristine** bullet disputes | **Forensic research lane** — [History Matters — Even More Magical](https://historymatters.com/essays/frameup/EvenMoreMagical/EvenMoreMagical.htm) |
+
+#### Salandria — “transparent conspiracy” (closest published analogue to site containment read)
+
+> The Warren Commission’s single assassin conclusion was **designed to fall to pieces**, was designed to be **incredible**, was designed to **self destruct**.
+
+> The Warren Report was not a cover-up, but rather was a **transparent conspiracy** … the cover-up was accomplished in such a **gross and clumsy way** as to **reveal intentionally** the existence of conspiracy.
+
+> **Frame-up, Paralysis, and Alienation “DIVIDE ET IMPERA”** — the transparent nature of the assassination … **framed us all**; … **paralyze** us … **destroyed politics**.
+
+Source: [Salandria — *The Design of the Warren Report, to Fall to Pieces* (1977)](https://ratical.org/ratville/JFK/FalseMystery/DesignOfWarrenReport.html).
+
+**Site pairing:** Salandria targets the **whole Report** as **absurdity trap**; this dossier adds **staged-kill** layer — if **no real fatal shot**, the **magic-bullet debate is the show’s second act** (forensic **misdirection** after spectacle), structurally parallel to *Friday* **encoding Dallas as joke**.
+
+#### CIA 1035-960 — institutional ridicule layer (1967)
+
+After Lane / Epstein bestsellers, CIA dispatch **1035-960** (*Countering Criticism of the Warren Report*) told stations to:
+
+- Provide **“material for countering and discrediting”** **“conspiracy theorists”**
+- Urge editors to **discourage unfounded and irresponsible speculation**
+- Portray critics as **“wedded to theories adopted before the evidence was in”**, **financially interested**, or **infatuated with their own theories**
+
+Source: [NYT Dec 26, 1977](https://www.nytimes.com/1977/12/26/archives/cable-sought-to-discredit-critics-of-warren-report.html); full text: [1035-960 PDF](https://911speakout.org/wp-content/uploads/CIA-DOC-1035-960.pdf).
+
+**Site read:** Once **“magic bullet”** became the **public hook**, the **institutional move** was not to **re-open Dealey** but to **ridicule the questioner** — same **containment grammar** as [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) **dinner-table mockery**.
+
+#### Author synthesis (§2.4)
+
+| Reply use | Lead with |
+|-----------|-----------|
+| **Forensic skeptic** (“prove hoax”) | **Pavlick**, **§2.1 motorcade**, **Hartwell** — **not** magic bullet alone |
+| **“Magic bullet proves lone gunman”** | **Russell dissent**, Epstein **load-bearing contradiction**, CE 399 **chain disputes** — then **§2 staged-kill** if appropriate |
+| **“You’re a conspiracy theorist”** | **CIA 1035-960** documented **coinage deployment** — **thought-stopper**, not argument |
+| **Generational** (“school only taught stupid bullet”) | **§2.4 + §2.2** — **official + viral** **mock layers** **replace** **investigation transmission** |
+
+**Tier:** **Documented** critics + CIA memo; **Salandria** + **site staged-kill** = **author**; **does not** alone prove Dallas hoax.
 
 ---
 
@@ -496,11 +704,13 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Q4 | **JFK–RFK** — shared **handlers** / **LAPD** / **CIA** nodes in **both** hoaxes? |
 | Q5 | **Post-1968 RFK** — any **credible** **proof-of-life** dossier (tier **D** only)? |
 | Q6 | **Sirhan** — **hypnosis** / **Manchurian** lane vs **decoy** lane — **discourse** not **mutually exclusive** |
-| Q7 | **Rebecca Black *Friday*** — **intentional** **Dallas** **encoding** or **apophenia**? (**§2.2** — likely **unprovable**) |
+| Q7 | **Rebecca Black *Friday*** — **ARK / production** **paper trail** for **intentional** Dallas encode, or **author Tier A** **by function** only? (**§2.2** — **forensic** intent likely **unprovable**) |
 | Q8 | **Business Plot (1934)** — any **primary** **link** between **Wall Street coup planners** and **1960s** **Kennedy** **handlers**, or **Tier A** **remains** **analogue-only**? |
 | Q9 | **Pre-1963 health hoaxes (Tier B)** — **operational** **overlap** with **intelligence** **nodes** **later** **named** in **Dallas** **research**, or **separate** **tradition**? |
 | Q10 | **Watergate containment (§1.2)** — **primary** **link** between **CIA / FBI** **nodes** and **Dean** **flip**, or **author** **pattern** **only**? |
 | Q11 | **H.R. 8275 / BIDEN Act** — if either **passes**, does it **close** **Tier B** **gap** or **create** new **§4** **weaponization** lane? |
+| Q12 | **§2.3 PP catalog** — any **pre-1963** film/TV with **robot decoy + blood forensics** **both** in one scene, or is the **A-tier stack** always **assembled** from **separate** titles? |
+| Q13 | **§2.4 Salandria “transparent conspiracy”** — **primary** evidence Report **authors knew** SBT was **incredible by design** vs **patriotic rush + Specter ingenuity**? |
 
 ---
 
@@ -521,7 +731,19 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Shane O’Sullivan, *Who Killed Bobby?* (2008) | Romero / pantry geometry |
 | Dan Moldea, *The Killing of Robert F. Kennedy* (1995) | Thane Cesar |
 | [Epstein staged death](../../false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md) | Later **public death ≠ exit** precedent |
-| Rebecca Black — **“Friday”** (2011) | **§2.2** — **PP dead end**; **not** forensic evidence |
+| Rebecca Black — **“Friday”** (2011) | **§2.2 / §2.3 Tier A** — motorcade mock, generational disconnect; **not** ballistics evidence |
+| **§2.3 PP media catalog** | **Canonical list** — *Girl Hair*, *F/X*, *TDKR*, Tier B–C table; [§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) |
+| ***Space Ghost C2C* — “Girl Hair”** transcript | **§2.3 Tier A** — [snard.com ep. 71](https://www.snard.com/sg/guide/?ep=71&fmt=2) |
+| ***F/X*** (1986) | **§2.3 Tier A** — [Wikipedia](https://en.wikipedia.org/wiki/F/X) |
+| ***The Dark Knight Rises*** opening script | **§2.3 Tier A** — [screenplay excerpt](https://scriptreader.ai/view_script?movieid=fc56dbc6d4652b315b86b71c8d688c1ccdea9c5f1fd07763d2659fde2e2fc49a) |
+| **Bullet hit squib** (film grammar) | **§2.3 Tier C** — [Wikipedia](https://en.wikipedia.org/wiki/Bullet_hit_squib) |
+| **§2.4 Warren / magic bullet containment** | Epstein *Inquest*, Lane *Rush to Judgment*, Salandria 1977, CIA **1035-960** — [§2.4](#24-warren-commission--magic-bullet-containment-mock-divide-distract) |
+| **Edward Jay Epstein**, *Inquest* (1966) | **§2.4** — Report engendered doubt; SBT dubious — [Crimson review](https://www.thecrimson.com/article/1966/11/30/beyond-the-warren-report-pwhen-the/) |
+| **Mark Lane**, *Rush to Judgment* (1966) | **§2.4** — coined **“magic bullet”** label — [Wikipedia](https://en.wikipedia.org/wiki/Rush_to_Judgment) |
+| **Vincent Salandria** (1977) | **§2.4** — Report **designed to fall to pieces** / **divide et impera** — [ratical.org essay](https://ratical.org/ratville/JFK/FalseMystery/DesignOfWarrenReport.html) |
+| **CIA Dispatch 1035-960** (1967) | **§2.4** — ridicule Warren critics — [NYT](https://www.nytimes.com/1977/12/26/archives/cable-sought-to-discredit-critics-of-warren-report.html); [PDF](https://911speakout.org/wp-content/uploads/CIA-DOC-1035-960.pdf) |
+| **Donald Wilkes** — media + CIA | **§2.4** — [fac_pm/269](https://digitalcommons.law.uga.edu/fac_pm/269) |
+| **History Matters — CE 399** | **§2.4 forensic lane** — [Even More Magical](https://historymatters.com/essays/frameup/EvenMoreMagical/EvenMoreMagical.htm) |
 | **Business Plot / McCormack–Dickstein** | **§1.1 Tier A** — [NYT Nov 21, 1934](https://www.nytimes.com/1934/11/21/archives/gen-butler-bares-fascist-plot-to-seize-government-by-force-says.html); [Wikipedia + 1935 report](https://en.wikipedia.org/wiki/Business_plot) |
 | **Grover Cleveland yacht surgery** | **§1.1 Tier B** — [PBS / Algeo](https://www.pbs.org/newshour/show/the-president-is-a-sick-man-details-secret-surgery-of-president-cleveland) |
 | **Wilson stroke cover-up** | **§1.1 Tier B** — [JNS Neurosurgical Focus](https://thejns.org/focus/view/journals/neurosurg-focus/39/1/article-pE6.xml) |
@@ -549,9 +771,9 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Good-actor / NSA antibody | [good-actor-theory-interagency-antibody](../../false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | NSA / Ellsberg / Tonkin | [nsa-investigation](/governance/war/investigations/nsa-investigation.md) |
 
-Keywords: #JFK #RFK #Kennedy #Sirhan #StagedAssassination #FakeDeath #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #ParadigmThreatFiles
+Keywords: #JFK #RFK #Kennedy #Sirhan #StagedAssassination #FakeDeath #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #FX #DarkKnightRises #RobotDecoy #BloodSquib #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #ParadigmThreatFiles
 
-**Last updated:** 2026-07-02 (§1.1 precedents; §1.2 Nixon inverse exit; §1.3 legal gaps / autopen bills)
+**Last updated:** 2026-07-03 (§2.4 Warren / magic bullet containment; §2.3 PP catalog; *Friday* Tier A)
 
 ---
 
