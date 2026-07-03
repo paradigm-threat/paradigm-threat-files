@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-03T14:34:30.908Z",
+    "date": "2026-07-03T14:58:03.606Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.m4a",
+        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet.m4a"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-03T14:34:29.000Z",
+    "message": "Add Substack mirror link to Alef essay footer.",
     "files": [
       {
         "status": "M",
@@ -1089,29 +1102,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-07-02T14:56:46.000Z",
     "message": "Bridge Alef to DEW church mesh and add comparable fraud catalog.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md",
-        "href": "/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/debunk-host-scheduled-slot.md",
-        "href": "/influence/controlled_opposition/debunk-host-scheduled-slot"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/page.md",
-        "href": "/influence/controlled_opposition"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-02T14:48:55.000Z",
-    "message": "Highlight Alef scam as exact debunk-host pattern with cross-border impunity.",
     "files": [
       {
         "status": "M",
