@@ -168,7 +168,7 @@ Hub: [Controlled Opposition](https://paradigmthreat.net/influence/controlled_opp
 
 Keywords: #AlefScam #InternetIntransigence #OpaqueAlgorithms #ControlledOpposition #911Truth #DebatePrevention #PlausibleDeniability #COVID #ParadigmThreat
 
-**Last updated:** 2026-07-03
+**Last updated:** 2026-07-03T09:07:12-04:00
 
 ---
 

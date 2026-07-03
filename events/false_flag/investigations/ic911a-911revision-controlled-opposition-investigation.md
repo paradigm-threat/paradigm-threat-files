@@ -697,7 +697,7 @@ Norman’s [DONATE TODAY for 9/11 Disinformation](https://911revision.substack.c
 
 Keywords: #Ic911a #911Revisionist #ControlledOpposition #Dew #NoPlanes #JudyWood #RichardGage #ParadigmThreatFiles
 
-**Last updated:** 2026-06-18
+**Last updated:** 2026-07-03T09:07:12-04:00
 
 ---
 
