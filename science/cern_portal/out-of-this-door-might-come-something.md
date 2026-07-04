@@ -54,6 +54,14 @@ Into the twentieth century, Mars still **looked inhabited**: Lowell's canals, se
 
 [Stonehenge](https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) was a **skyward spiral port**; CERN is the **subterranean ring** — same portal class, buried when sky gates no longer scale. Between them sits the **1943 ship prototype** — Philadelphia ↔ Norfolk, **space jump**, not chronology hop ([Part B](https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md)). Lineage: **Stonehenge → ship coil → LHC/FCC**.
 
+## Ancient stargates
+
+Ring portals were not born at Meyrin. **Ancient stargates** — carved or buried rings on **every continent** — were **photographed in expedition-era digs** in the **early 1900s** and **confiscated by the 1950s** so the **Dead Planet** story could harden. Tablets name them as **heaven-linked** routes: **faster-than-light** **tunnel** transit to **Mars and worlds beyond**, not cruise at electromagnetic **c**.
+
+![Ancient stargates — suppressed gateways infographic; scattered Earth finds, 1950s confiscation, heaven (Nibiru / star worlds) to Earth link via ancient tablets](https://paradigmthreat.net/science/cern_portal/ancient-stargates.png)
+
+Full **27-image catalog**, source trace, and tablet parallels: [Early 20th-century stargate discoveries investigation](https://paradigmthreat.net/science/cern_portal/investigations/early-20th-century-stargate-discoveries-image-catalog-investigation.md).
+
 ## WWW and the Mars authority mark
 
 Tim Berners-Lee proposed the web at CERN in 1989; **WWW** shipped royalty-free by 1993 ([documented](https://home.cern/science/computing/birth-web)). The institutional ROI story — thousands of physicists **linking collision data from home computers** to **understand results** — is **document management**, not beam physics; it **has nothing to do with the accelerator** yet remains the **biggest cited public return** ([investigation §4.1](https://paradigmthreat.net/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md)).
@@ -84,6 +92,7 @@ The same year, viral **"CERN tunnel ceremony"** clips came from the **Gotthard B
 
 - **[Part B — The Philadelphia Experiment Was Not Time Travel](https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md)** — Norfolk paired-node, 1984 film deposit.
 - **[CERN–Mars quantum gateway investigation](https://paradigmthreat.net/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md)** — physics §1–§2, buried siting §3, **surface logic §4.1**, WWW §6.4, **political conclusion §11**.
+- **[Early 20th-century stargate discoveries — image catalog](https://paradigmthreat.net/science/cern_portal/investigations/early-20th-century-stargate-discoveries-image-catalog-investigation.md)** — **27** ring-portal images, heaven–Mars link, 1950s confiscation read, source trace.
 - **[Barsoom pre-MFEE](https://paradigmthreat.net/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md)** · **[Dead Planet timeline](https://paradigmthreat.net/timeline/evt-mars-surface-dismantling-dead-planet-protocol)** · **[Mars hub](https://paradigmthreat.net/cosmos/mars/page.md)** · **[Half-Life PP dossier](https://paradigmthreat.net/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md)**
 
 ## Why nothing else fits

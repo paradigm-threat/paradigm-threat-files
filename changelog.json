@@ -1,8 +1,309 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-04T13:32:18.046Z",
+    "date": "2026-07-04T13:46:27.687Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "science/cern_portal/ancient-stargates.png",
+        "href": "/science/cern_portal/ancient-stargates.png"
+      },
+      {
+        "status": "M",
+        "path": "science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md",
+        "href": "/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/investigations/early-20th-century-stargate-discoveries-image-catalog-investigation.md",
+        "href": "/science/cern_portal/investigations/early-20th-century-stargate-discoveries-image-catalog-investigation"
+      },
+      {
+        "status": "M",
+        "path": "science/cern_portal/out-of-this-door-might-come-something.md",
+        "href": "/science/cern_portal/out-of-this-door-might-come-something"
+      },
+      {
+        "status": "M",
+        "path": "science/cern_portal/page.md",
+        "href": "/science/cern_portal"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-cave-aztec-sun-stone-disc.jpeg",
+        "href": "/science/cern_portal/stargate-cave-aztec-sun-stone-disc.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-mechanical-dual-ring-prototype.jpeg",
+        "href": "/science/cern_portal/stargate-mechanical-dual-ring-prototype.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-modern-circuit-ring-display.jpeg",
+        "href": "/science/cern_portal/stargate-modern-circuit-ring-display.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-ornate-carved-arch-cave.jpeg",
+        "href": "/science/cern_portal/stargate-ornate-carved-arch-cave.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-rock-wall-carved-disk-door.jpeg",
+        "href": "/science/cern_portal/stargate-rock-wall-carved-disk-door.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-underwater-scuba-ring.jpeg",
+        "href": "/science/cern_portal/stargate-underwater-scuba-ring.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-arctic-ring-tripod.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-arctic-ring-tripod.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-arctic-snow-soldier.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-arctic-snow-soldier.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-arctic-winter-expedition.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-arctic-winter-expedition.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-barren-ornate-ring-two-men.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-barren-ornate-ring-two-men.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-canyon-cloaked-gathering.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-canyon-cloaked-gathering.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-cave-excavation-fedora.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-cave-excavation-fedora.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-cave-ring-square-glyphs.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-cave-ring-square-glyphs.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-cave-ring-two-men-suits.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-cave-ring-two-men-suits.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-cave-spoke-wheel-turbans.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-cave-spoke-wheel-turbans.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-cliff-stone-wheel.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-cliff-stone-wheel.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-desert-mountain-ring.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-desert-mountain-ring.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-himalaya-dharma-wheel.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-himalaya-dharma-wheel.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-jungle-dharma-wheel.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-jungle-dharma-wheel.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-jungle-pith-helmet-ring.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-jungle-pith-helmet-ring.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-mountain-carved-disc-five-men.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-mountain-carved-disc-five-men.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-mountain-stone-circle.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-mountain-stone-circle.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-pith-helmet-rock-arch.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-pith-helmet-rock-arch.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-rockface-military-expedition.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-rockface-military-expedition.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-stone-arch-misty-portal.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-stone-arch-misty-portal.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-stone-disk-three-observers.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-stone-disk-three-observers.jpeg"
+      },
+      {
+        "status": "A",
+        "path": "science/cern_portal/stargate-vintage-ww2-excavation-aztec-ring.jpeg",
+        "href": "/science/cern_portal/stargate-vintage-ww2-excavation-aztec-ring.jpeg"
+      }
+    ],
+    "images": [
+      {
+        "src": "/science/cern_portal/ancient-stargates.png"
+      },
+      {
+        "src": "/science/cern_portal/stargate-cave-aztec-sun-stone-disc.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-mechanical-dual-ring-prototype.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-modern-circuit-ring-display.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-ornate-carved-arch-cave.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-rock-wall-carved-disk-door.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-underwater-scuba-ring.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-arctic-ring-tripod.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-arctic-snow-soldier.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-arctic-winter-expedition.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-barren-ornate-ring-two-men.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-canyon-cloaked-gathering.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-cave-excavation-fedora.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-cave-ring-square-glyphs.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-cave-ring-two-men-suits.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-cave-spoke-wheel-turbans.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-cliff-stone-wheel.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-desert-mountain-ring.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-himalaya-dharma-wheel.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-jungle-dharma-wheel.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-jungle-pith-helmet-ring.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-mountain-carved-disc-five-men.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-mountain-stone-circle.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-pith-helmet-rock-arch.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-rockface-military-expedition.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-stone-arch-misty-portal.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-stone-disk-three-observers.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/stargate-vintage-ww2-excavation-aztec-ring.jpeg"
+      },
+      {
+        "src": "/science/cern_portal/cern-layout.png",
+        "alt": "CERN LHC — documented layout + portal architecture read (Earth)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png",
+        "alt": "Out of This Door Might Come Something — CERN portal series Part A"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
+        "alt": "LHC — 27 km ring of superconducting magnets and accelerator chain (Mars hub / CERN travel)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/cern_portal/cern-layout.png",
+        "alt": "CERN LHC — documented layout + portal architecture read (Earth); plan view with Lake Geneva, Points 1/5/8, Meyrin campus, centroid chamber; cross-section inset (green = documented, yellow = energetic harness, red = classified center)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cia_remote_viewing.jpg",
+        "alt": "CIA STARGATE — 1984 Mars remote-viewing session artwork (declassified lane; Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_plans.jpg",
+        "alt": "Future Circular Collider (FCC) — planned scale-up vs existing LHC at CERN (Nature / Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars_canals5.jpg",
+        "alt": "Percival Lowell — Mars and Its Canals (1906); intelligent-civilization waterworks read before Mariner (Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/cern_portal/ancient-stargates.png",
+        "alt": "Ancient stargates — suppressed gateways infographic; scattered Earth finds, 1950s confiscation, heaven (Nibiru / star worlds) to Earth link via ancient tablets"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/doom.jpg",
+        "alt": "Doom film (2005) — quantum teleport between Earth and Mars (predictive programming catalog)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_storm.jpg",
+        "alt": "Viral CERN portal storm imagery — Geneva lightning vortex reads as “opened gate” in tabloid cycles (Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at1.jpg",
+        "alt": "Gotthard Base Tunnel opening — BBC: “How Switzerland decided to mark world's longest rail tunnel” (1 June 2016)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at2.jpg",
+        "alt": "Gotthard ceremony — obedience theater near CERN geography (Mars hub)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-04T13:32:16.000Z",
+    "message": "Ship CERN portal series publish pass and expand dossier closings.",
     "files": [
       {
         "status": "M",
@@ -2211,19 +2512,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-07-03T13:26:02.000Z",
     "message": "Drop RT state-adjacent disclaimer from Alef essay lede.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.md",
-        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-03T13:24:05.000Z",
-    "message": "De-LLM COVID immune paragraph: drop not-A/I-am-B contrast.",
     "files": [
       {
         "status": "M",
