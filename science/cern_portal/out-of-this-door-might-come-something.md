@@ -108,9 +108,15 @@ Marc Laidlaw's leaked [**Epistle 3**](http://www.marclaidlaw.com/epistle-3/) plo
 
 **Chronology misread (deposit):** Later fiction **retimes** the same hardware as **time travel** — easier to mock, harder to map to Mars opposition windows. Viral CERN portal memes (2008–2022) do the same: tabloid **timeline shifted** language echoing Bertolucci's door while stripping fixed endpoints. When a portal story defaults to chronology, I check whether **space teleport + paired harbor** was the older coherent layer — Norfolk, Xen, Mars interior. [Part B](https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md) prosecutes the 1984 *Philadelphia Experiment* film and Montauk title as the clearest deposits.
 
+## Portal over Geneva — June 2016
+
 ![Viral CERN portal storm imagery — Geneva lightning vortex reads as “opened gate” in tabloid cycles (Mars hub)](https://paradigmthreat.net/cosmos/mars/cern_stargate_storm.jpg)
 
-## Ceremony and cover
+On **24 June 2016**, a severe thunderstorm rolled over the **Geneva basin**. Storm chaser **Christophe Suarez** shot dramatic cells from the **Salève** — some **lit from within**, rotating, vortex-like. **Joelle Rodrigue** posted a separate photo the same night; **Geneva and the lake** sit under the cloud, with **CERN's direction** in frame ([24matins](https://www.24matins.fr/portail-vers-dimension-dessus-cern-non-nuage-355698)). Within days the images were **stolen** and recaptioned: **Freedom Fighter Times** (27 June) called it a **"ball of energy"** directly over the LHC; **Metro UK** and **Sputnik** ran **portal / hell** headlines ([Snopes, August 2016](https://www.snopes.com/fact-check/clouds-over-geneva-show-cern-opening-a-portal-to-a-new-dimension/); Suarez told [Le Dauphiné](https://www.ledauphine.com/haute-savoie/2016/07/04/ses-photos-ont-ete-volees-par-les-complotistes-anti-cern) it was **"fumisterie"** — nature, not CERN.
+
+I read the **debunk stack** as **expected**, not dispositive, if the images touch something sensitive. The standard corrections: **(1)** just a **cumulonimbus** ([MeteoNews](https://barthsnotes.com/2016/07/10/cern-accused-of-opening-a-portal-following-summer-storm-in-geneva/) — *not atypical*); **(2)** cloud over **"center of Geneva,"** not Meyrin — a geographic nit when the **27 km ring's centroid** sits **inside the same basin**; **(3)** **AWAKE** test beam was **16–17 June**, not storm night ([CERN](https://home.cern/news/news/experiments/first-beam-enters-unique-awake-experiment)); **(4)** **stolen photos** — fixes provenance, not optics; **(5)** **Snopes FALSE** + CERN **"no portal"** — same secondary layer as the FAQ vs Bertolucci tension.
+
+What survives the debunk cycle is **visual grammar**: a **concentrating**, **rotating**, **inward-energized** cell over the sky above the buried ring — exactly what my **center focal-point** read predicts if the **energetic net** (§2.4) **couples upward**. That is **not** proof; it is **why** I think these images were **heavily** fact-checked, **re-captioned into demon/hell** tabloids, and **disowned by photographers** — a **redaction-shaped** response if the stills **give away** portal nature (**something concentrating at the center**). Same **2016** year as **Gotthard** (1 June) and the **mock sacrifice** stunt (August). Full source table: [investigation §3.8.4, §6.1.5](https://paradigmthreat.net/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md).
 
 ![Gotthard Base Tunnel opening — BBC: “How Switzerland decided to mark world's longest rail tunnel” (1 June 2016)](https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at1.jpg)
 
@@ -135,11 +141,11 @@ If the institutional goal is **"don't think portal,"** this was the **wrong cere
 
 I work from [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md): ancients held a living medium and gate grammar modern institutions renamed while keeping the equations. **Symmetric buried** Earth–Mars rings, **center focal-point** chamber (unlocated), Mars-primary endpoint, Dead Planet dismantling, Jerusalem **6-6-6** gate geometry, and WWW occult intent are **author thesis** tiers — coherent with documented anchors (Bertolucci, Mariner, Lowell, LHC depth, WWW at CERN, Vav letter history) but not proved by a single FOIA bundle. Gematria pushback, claim registry, and falsifiers live in the [investigation Limits](https://paradigmthreat.net/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md). Nine-inch nail metrology is **secondary** to the Jerusalem mark ([AU-031](https://paradigmthreat.net/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md)).
 
-**What would change my read:** A-tier document naming a **centroid chamber** or **vertical shaft** at LHC/FCC **geometric center** with engineering detail; geophysical or construction permit showing **excavation at ring centroid**; A-tier CERN or member-state document naming a **non-Mars** LHC endpoint; a primary-source **retraction** showing Bertolucci did **not** mean traversable **door/through** language; pre-1962 imaging proving **canal geometry never changed** with no dismantling window.
+**What would change my read:** A-tier document naming a **centroid chamber** or **vertical shaft** at LHC/FCC **geometric center** with engineering detail; geophysical or construction permit showing **excavation at ring centroid**; **matched coordinates** proving **June 2016 storm cell** aligned with **LHC centroid** (or disproving alignment); A-tier CERN or member-state document naming a **non-Mars** LHC endpoint; a primary-source **retraction** showing Bertolucci did **not** mean traversable **door/through** language; pre-1962 imaging proving **canal geometry never changed** with no dismantling window.
 
 Keywords: #Cern #Mars #Portal #DeadPlanetProtocol #WWW #Vav #Jerusalem #PredictiveProgramming #Aether #ParadigmThreatFiles
 
-**Last updated:** 2026-07-04T08:00:00-04:00
+**Last updated:** 2026-07-04T08:10:00-04:00
 
 ---
 

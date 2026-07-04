@@ -1,6 +1,6 @@
 # Investigation: CERN as Earth–Mars Quantum Gateway — Æther Physics, Maxwell, and Mars-Only Siting
 
-> **TL;DR:** Physical foundation: **æther** + **Maxwell** (ε₀, μ₀, *c*) → **portal-class** æther distortion at LHC energies—not metaphor. **Operational thesis:** CERN = **Earth terminal** for **quantum teleport** — **Mars-primary** buried ring pair (**symmetric** depth, not asymmetric surface); **ring = energetic harness**, **center focal point = tunnel** (§3.4, §3.8). **Dead Planet Protocol** (§3.5–§3.6). **Precursor (§10):** Philadelphia Experiment. **Symbolic (§6.4):** WWW / Vav / 666.
+> **TL;DR:** Physical foundation: **æther** + **Maxwell** (ε₀, μ₀, *c*) → **portal-class** æther distortion at LHC energies—not metaphor. **Operational thesis:** CERN = **Earth terminal** for **quantum teleport** — **Mars-primary** buried ring pair (**symmetric** depth); **ring = energetic harness**, **center focal point = tunnel** (§3.4, §3.8); **June 2016 Geneva storm** imagery = possible **sky signature** (§3.8.4). **Dead Planet Protocol** (§3.5–§3.6). **Precursor (§10):** Philadelphia Experiment. **Symbolic (§6.4):** WWW / Vav / 666.
 
 **Status:** Open — physics foundation assembled from in-repo Maxwell lane; Mars-only siting is **author thesis**; FOIA/operational CERN docs not yet retrieved.
 
@@ -267,7 +267,50 @@ On the **full** **stack** of this investigation:
 
 **Tier:** §3.8 = **open research** — **negative result provisional**; **author hypothesis** for **center = door** remains **unverified**.
 
----
+#### 3.8.4 “Portal over Geneva” — June 2016 storm imagery (center-focal read)
+
+**Author note (2026-07-04):** The viral **2016 “portal over Geneva”** photographs may be **sky-signature evidence** for the **center focal-point** thesis (§2.4) — a **concentrating ball of energy**, **rotating cloud**, **inward-lit cell** over the **Geneva basin** where the **LHC ring** is buried. The **debunk / redaction / suppression** cycle around these images is **expected** if they **give away** portal grammar (**something concentrating at the center**) without using CERN’s vocabulary.
+
+**Documented event (June 2016):**
+
+| Item | Tier | Source |
+|------|------|--------|
+| **Severe thunderstorm** over **Geneva basin**, night of **24 June 2016** | **Documented** | [Snopes, Aug 2016](https://www.snopes.com/fact-check/clouds-over-geneva-show-cern-opening-a-portal-to-a-new-dimension/); [Le Dauphiné, 4 July 2016](https://www.ledauphine.com/haute-savoie/2016/07/04/ses-photos-ont-ete-volees-par-les-complotistes-anti-cern) |
+| **Christophe Suarez** — storm chaser from **Salève**; photos **stolen** without permission | **Documented** | [Snopes](https://www.snopes.com/fact-check/clouds-over-geneva-show-cern-opening-a-portal-to-a-new-dimension/); [Le Dauphiné](https://www.ledauphine.com/haute-savoie/2016/07/04/ses-photos-ont-ete-volees-par-les-complotistes-anti-cern) — *«C’est la nature qui fait ça»*; some cells *«éclairées de l’intérieur»* |
+| **Joelle Rodrigue** — separate **Facebook** storm photo same night (**00:00–01:00**); **Geneva city + lake** in frame; **CERN direction** in background | **Documented** | [24matins](https://www.24matins.fr/portail-vers-dimension-dessus-cern-non-nuage-355698); does **not** endorse portal theory |
+| **AWAKE** first test beam through proton line | **Documented** — **16–17 June 2016** | [CERN news](https://home.cern/news/news/experiments/first-beam-enters-unique-awake-experiment) — **week before** storm; commissioning beam, not full plasma run |
+| **CERN** — LHC operations **normal** in June; **no special event** on storm night | **Documented counter** | [24matins](https://www.24matins.fr/portail-vers-dimension-dessus-cern-non-nuage-355698) (Arnaud Marsollier); [Bartholomew’s Notes](https://barthsnotes.com/2016/07/10/cern-accused-of-opening-a-portal-following-summer-storm-in-geneva/) |
+
+**Viral portal claims (documented reappropriation):**
+
+| Outlet / actor | Claim | Date |
+|----------------|-------|------|
+| **Freedom Fighter Times** (YouTube) | **“Ball of energy”** directly **over LHC**; rotating cloud; **faces in lightning**; links **AWAKE** / **CLOUD** | **27 June 2016** — [Snopes](https://www.snopes.com/fact-check/clouds-over-geneva-show-cern-opening-a-portal-to-a-new-dimension/) |
+| **Metro UK** | **“Insane ball of energy”** over LHC; portal to **Hell**; **AWAKE** opened **doorway** | **29 June 2016** — [Metro](https://metro.co.uk/2016/06/29/uh-oh-what-on-earth-is-happening-at-the-large-hadron-collider-5974846/) |
+| **Sputnik** | **“Portals of Hell”**; CERN **weather manipulation** + **portal** under **CLOUD Experiment** | **3 July 2016** — [Sputnik](https://sputnikglobe.com/20160703/cern-storm-conspiracy-theory-hell-1042370157.html) |
+| Tabloids / **Ancient Code**, **Prophecy News Watch** | *“Bizarre clouds prove portals opening”* | **Late June–July 2016** — [Snopes](https://www.snopes.com/fact-check/clouds-over-geneva-show-cern-opening-a-portal-to-a-new-dimension/) |
+
+**Expected debunks (documented — record, do not treat as closure):**
+
+| Debunk line | Who said it | Investigation response |
+|-------------|-------------|------------------------|
+| **“Just a thunderstorm”** | Suarez, **MeteoNews** Frédéric Glassey — *cumulonimbus* **not atypical** | **Agreed** on **meteorology class** — does **not** disprove **æther coupling** at **ring centroid** ([INVESTIGATIVE_STRATEGY](/docs/INVESTIGATIVE_STRATEGY.md)) |
+| **“Cloud over center of Geneva, not CERN”** | Glassey via [Bartholomew’s Notes](https://barthsnotes.com/2016/07/10/cern-accused-of-opening-a-portal-following-summer-storm-in-geneva/) / Tribune de Genève lane | **Geographic nit** — **LHC ring centroid** lies **inside** Geneva basin; **sky focal signature** need not sit above **Meyrin surface hall** |
+| **“Photos stolen / misattributed”** | Suarez, Rodrigue, **Snopes** | **Documented** — **provenance** fixed; **does not** erase **what the image shows** |
+| **“AWAKE didn’t run that night”** | CERN Marsollier — test **week before** | **Timeline split** — debunks **same-night experiment** claim, **not** **cumulative medium stress** thesis |
+| **“CERN says no portal”** | CERN FAQ; **Snopes FALSE**; recycled in **2022** LHC restart cycle | **Secondary** — same tension as **Bertolucci door** (§4) |
+| **“Conspiracy / hell / demons”** | Freedom Fighter Times, Metro, Sputnik | **Deposit layer** — **literal demon** framing **inoculates** against **sober center-energy** read |
+
+**Author read — why this matters for §2.4:**
+
+1. **Visual grammar:** Viral captions converge on **rotating energy concentration** — **“ball of energy,”** **inward illumination,** **vortex** — matching **energetic net → center focal point**, not **beam collisions at Point 1/5**.  
+2. **2016 cluster:** Same year as **Gotthard** threshold theatre (**1 June**), **AWAKE** commissioning (**16–17 June**), **storm portal** virals (**24 June**), **mock sacrifice** stunt (**August**) — [§6.1](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md).  
+3. **Suppression shape:** Photographer **anger**, **fact-check FALSE**, **“not CERN”** geography — **predictable** if image class is **sensitive**; heavy debunk **correlates with** leak **danger**, not leak **falsity**.  
+4. **Tier:** **Possible evidence** for **sky coupling** to **centroid** — **not** proved; **not** ruled out by **cumulonimbus** label alone.
+
+**Image in repo:** [Mars hub — `cern_stargate_storm.jpg`](/cosmos/mars/cern_stargate_storm.jpg) (viral-cycle still; **verify provenance** against Suarez/Rodrigue sets before A-tier use).
+
+**Open:** Match **exact** storm cell coordinates to **computed LHC centroid**; FOIA **AWAKE** / **LHC machine protection** logs for **24 June 2016** 00:00–02:00 CET.
 
 ## 4. Documented CERN layer (non-speculative anchors)
 
@@ -348,7 +391,13 @@ On the **full** **stack** of this investigation:
 
 **Cross-ref:** [Part A reader essay](/science/cern_portal/out-of-this-door-might-come-something.md) — Ceremony and cover (brief); full tables here.
 
-### 6.2 Fiction cluster — charge-ring vs time-deposit
+### 6.1.5 “Portal over Geneva” — June 2016 storm (center-focal sky read)
+
+**Not Gotthard.** Separate viral cycle from **§6.1** GBT mislabel: **thunderstorm photography** over **Geneva**, **24 June 2016**, re-captioned as **CERN opening a portal**.
+
+**Documented:** Storm real; **Christophe Suarez** ([Le Dauphiné](https://www.ledauphine.com/haute-savoie/2016/07/04/ses-photos-ont-ete-volees-par-les-complotistes-anti-cern)) and **Joelle Rodrigue** ([24matins](https://www.24matins.fr/portail-vers-dimension-dessus-cern-non-nuage-355698)) photographers; images **lifted** by **Freedom Fighter Times**, **Metro UK**, **Sputnik**, tabloids — [Snopes FALSE, Aug 2016](https://www.snopes.com/fact-check/clouds-over-geneva-show-cern-opening-a-portal-to-a-new-dimension/).
+
+**Author read:** Viral copy describes **“ball of energy,”** **rotation,** **inward-lit cloud** — **sky grammar** consistent with **§2.4 center focal point**, not **on-ring** ATLAS/CMS. **Expected debunks:** *just weather*; *over Geneva not CERN*; *AWAKE was week earlier*; *stolen photos* — all **documented**, none **close** Bertolucci-class **door** tension. **Heavy fact-check + photographer pushback** fits **suppression** if image class reveals **concentration at center**. Full audit: **§3.8.4**.
 
 **Pattern A (space / endpoint):** Ring, toroid, or resonance chamber **charges** until **critical cascade** → routes along **pre-scarred** path to **fixed place**.
 
@@ -514,6 +563,8 @@ CERN (portal hardware, Earth terminal)
 | A22 | **Barsoom** = **pre-MFEE** Mars; **cities/species** gone chiefly from **energetic event** | **Author thesis** — [Barsoom investigation](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md) |
 | A23 | Barsoom **safe to publish** → **mythic memory** on Earth (Russian Empire parallel) | **Author interpretive** |
 | A24 | Martian **children’s chronology** of MFEE — **recent / deep-time / denied** — **unknown** | **Open question** |
+| A25 | **June 2016 Geneva storm** imagery = possible **center-focal** sky signature (**ball of energy** / rotating cell) | **Author hypothesis** — §3.8.4; **debunked** in mainstream press |
+| A26 | **Heavy debunk / theft / FALSE** cycle on 2016 images = **expected** if portal **center-concentration** leaked visually | **Author interpretive** — §3.8.4 |
 
 ---
 
@@ -540,6 +591,7 @@ CERN (portal hardware, Earth terminal)
 19. **Gotthard 2016:** AlpTransit/SBB **ceremony commissioning** docs for **Volker Hesse** — stated **symbolic intent** vs **portal** readings; Swiss Federal Council **press** on **CERN** **misattribution** (2024 cycle).
 20. **Barsoom / MFEE:** Internal **Barsoom** chronologies (drying seas, Orovars) — **map** to **MFEE** **sequence** or **deep-time** **compression**?
 21. **Martian pedagogy:** **Breakaway / RV** on **how Martian children** are taught **catastrophe** dating — **recent** vs **million years** vs **denied**?
+22. **2016 storm centroid:** Geolocate **Suarez / Rodrigue** cells vs **LHC geometric center**; machine-protection logs **24 June 2016**.
 
 ---
 
