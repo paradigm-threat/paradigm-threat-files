@@ -54,6 +54,8 @@ Where multiple authors independently describe the same or closely related elemen
 
 **Convergence:** **Arnold and Burroughs** both describe a **recent** civilizational collapse: ruined/dying world, lost knowledge, catastrophe within living memory of the survivors. Burroughs: rapid sea drying. Arnold: heat catastrophe, ruined cities, River of Dead.
 
+**Author read (2026-07-04):** Barsoom's **drying seas** and **lost cities** may encode the **MudFlood Energetic Event (MFEE)** on Mars — **pre-event** surface world **mostly destroyed**; Barsoom released as **mythic memory** on Earth. See [Barsoom pre-MFEE investigation](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md).
+
 ---
 
 ### Systems of Compliance and Control

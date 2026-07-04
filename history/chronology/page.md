@@ -4,15 +4,7 @@
 
 > **TL;DR:** Master hub for an alternate Earth timeline: chronology critics from Hardouin to Fomenko, Rus-Horde “Tartarian” world-empire imagery, Morozov/Velikovsky-style catastrophes, Saturnian cosmology and electric-universe physics, linked investigations, and embedded media.
 
-## Disclaimer — material that may read as antisemitic (study copies vs. endorsement)
-
-**If you are concerned about antisemitic material on this timeline or elsewhere in this repository,** start with the in-repo **[Paradigm Threat — working definition of antisemitism](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md)** (anti‑**monolithing** norms, **§5 Ten Commandments**, expanded **harm** including **opaque** moderation). **Paradigm Threat** aims for **this** framework—not a court rule—to describe how material here is **meant** to be read and written: it is **aligned with** the **[IHRA non‑legally binding working definition of antisemitism](https://holocaustremembrance.com/wp-content/uploads/2024/01/IHRA-non-legally-binding-working-definition-of-antisemitism-1.pdf)** on many **anti‑Jewish‑bigotry** questions, but it is **not the same text** and **not** identical in scope (see also [Jewish press investigation §8](/history/chronology/investigations/jewish-press-revolutionary-russia-verified-quotations.md) for IHRA / Nexus / JDA lineages).
-
-**Presence in the repo is not endorsement.** A **meme**, **screenshot**, **flyer**, **quotation**, or other **artifact** may appear **only** as a **study copy**—evidence for **forensic**, **historical**, or **journalistic** analysis. Hosting or citing such an object is **necessary** to examine certain subjects **thoroughly**; it **does not** mean the maintainers **agree** with its message or **target** any community for **hatred**.
-
-Unless a **specific file** explicitly says otherwise, **work in this tree is offered in the spirit of** that working definition: **no** collapsing “**the Jews**” into **one intent**, **no** agitation toward **holy war** or **race war**, **primary‑source** discipline where claims are made, and **room** for **institutional** and **network** research **without** treating every such line of inquiry as **ipso facto** bigotry.
-
-**Notes-thread confusion:** If you saw **ethnic slurs** or **genealogy memes** next to our **Iran** or **structure** posts on Substack, see **[Substack tropes Q&A](/history/chronology/qa/substack-tropes/page.md)** — balanced reads on **monolithing**, **wrong villain**, and **what we do not endorse**.
+**Presence in the repo is not endorsement** — [working definition of antisemitism](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md).
 
 *This is evidence of a world-empire. The Rus-Horde 'Tartarian' Empire ruled over all continents between 12th and 18th centuries before its breakup in 1775.*
 

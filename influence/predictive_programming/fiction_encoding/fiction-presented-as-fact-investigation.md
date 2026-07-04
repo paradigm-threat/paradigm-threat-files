@@ -34,7 +34,7 @@
 
 | Author | Work | Year | Framing Technique |
 |--------|------|------|-------------------|
-| **Edgar Rice Burroughs** | *A Princess of Mars* | 1912 | Foreword by Carter's unnamed relative; manuscript from Carter; Carter's will instructed publication; "simple truths which some day science will substantiate." Burroughs as editor/publisher. |
+| **Edgar Rice Burroughs** | *A Princess of Mars* | 1912 | Foreword by Carter's unnamed relative; manuscript from Carter; Carter's will instructed publication; "simple truths which some day science will substantiate." Burroughs as editor/publisher. **Investigative add:** Barsoom may encode **pre-MFEE** Mars — safe **mythic release** after surface destruction ([Barsoom investigation](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md)). |
 | **Arthur Conan Doyle** | *The Lost World* | 1912 | Foreword: mock legal notice—"injunction and libel action withdrawn by Professor Challenger"; narrative as "account of recent amazing adventures"; first-person journalist Malone. |
 | **H.P. Lovecraft** | *The Call of Cthulhu*, etc. | 1920s+ | "Found Among the Papers of the Late Francis Wayland Thurston"; grand-uncle's notes; pieced documents; Necronomicon and fictional grimoires as discovered texts. |
 | **J.R.R. Tolkien** | *The Hobbit*, *The Lord of the Rings* | 1937, 1954–55 | Red Book of Westmarch; Bilbo/Frodo/Sam as compilers; editorial apparatus, prologue, appendices; manuscript survival through ages; modeled on *Red Book of Hergest*. |

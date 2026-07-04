@@ -17,6 +17,7 @@
 1. **Blood rain / Passat dust** (Ehrenberg line): microscopy showed **living and fossil** microscopic bodies in rain and trade-wind dust — a mainstream proof that **the atmosphere carries biological particles** at continental scale ([blood rain investigation §B](/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md)).
 2. **Post-MFEE “sanitization”** (investigative): large-scale **surface reset** narratives imply **broken food webs**, **soil stripping**, and **opportunistic colonization** by whatever survives transport — spores, seeds, and microbes are the **first wave** of terrestrial reoccupation.
 3. **Martian cylinders** (Wells + paradigm-threat Mars line): physical **incursion** vehicles double as **unsterile sample return** — any closed environment carrying **Martian** flora/fauna is a **ballistic seed/spore reservoir** if breached on Earth.
+4. **Barsoom species variety** (Burroughs): pre-MFEE **multi-lineage** Mars — **Tharks**, **Therns**, **Hormads**, etc. — **mostly destroyed** in the energetic event; surviving Mars is **species-reduced** and **scarred** ([Barsoom investigation](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md)).
 
 **Cross-link to blood rain:** Red or “organic” rain episodes can be read (in the alternate frame) as **atmospheric washout** of **mixed mineral + biological** debris — same **instrument class** as spore storms, different **particle size and pathology**.
 

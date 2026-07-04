@@ -5,6 +5,8 @@
 
 **Key finding:** Before H.G. Wells's *War of the Worlds* (1898), nearly all Mars fiction portrayed Martians as **human or human-like** and **benign**. Wells deliberately inverted this tradition. The pre-Wells consensus — humans on Mars, inhabited canals, polar zones of power — persisted in pulp fiction (Burroughs, Brackett, Bradbury) but was filed safely under "fantasy" where no institutional authority would take it seriously.
 
+**Barsoom / pre-MFEE thesis (2026-07-04):** [Dedicated investigation](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md) — Burroughs encodes **pre–MudFlood Energetic Event** Mars; **cities and species variety** are **gone** today chiefly because the **energetic event destroyed** them; Barsoom was **safe to release** because it would become **mythic memory** on Earth (parallel: **Russian Empire** as **rejected** memory in modern history).
+
 **1896–97 vocabulary bridge:** America's first mass aerial wave was reported as **mystery airships**, not UFOs — because *flying saucer* and *UFO* did not exist until the 1940s–1950s. That episode predates Roswell and the CIA; on this site's read it aligns with **Martian overflight** during the opposition window and with **Mars fiction** published **during and immediately after** the wave as **managed disclosure**. See [Mystery airships 1896–1897](/influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md), [timeline event](/timeline/evt-1896-1897-mystery-airship-wave), [PURSUE dossier § 8.1A](/influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md#81a-deep-dive--the-18961997-mystery-airship-wave-americas-first-mass-uap-episode).
 
 ---
@@ -73,6 +75,8 @@ Burroughs is by far the most detailed on this. His entire Barsoom cosmology revo
 - **Both poles are forbidden zones** — no Martian is permitted to return from the pilgrimage south, and nobody knows the north polar kingdom exists. It is a **multi-layered conspiracy** where each level thinks it is the top.
 
 **Investigative significance:** Burroughs describes a planetary system where the poles contain hidden power structures, religious fraud conceals political control, and multiple layers of secrecy operate simultaneously. If this encodes real knowledge about Mars, the poles are where the ruling infrastructure was (or is) located.
+
+**Pre-MFEE read (author, 2026-07-04):** The Barsoom corpus is best read as a **snapshot of Mars before the MudFlood Energetic Event** — not a live map of 1912 Mars. **Surface cities**, **canal networks**, and **species variety** (red/green/white/black/yellow Martians, Kaldanes, Hormads) describe what **was**; today's telescope Mars is **scarred** and **impoverished** because **most of that world was destroyed in the event**, then **scrubbed** under [Dead Planet Protocol](/timeline/evt-mars-surface-dismantling-dead-planet-protocol). Publishing Barsoom as adventure fiction was **institutionally safe** — it would **mythify** on Earth like the **Russian Empire** mythifies in standard modern history. Full prosecution: [Barsoom pre-MFEE investigation](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md).
 
 ### Kurd Lasswitz — *Two Planets* (1897)
 
@@ -258,6 +262,7 @@ Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: loca
 - [The Mars Catastrophe](/timeline?view=browser&path=content/12.ce-18th-mudflood-and-pugachev/12.06.00-1774-ce-the-mars-catastrophe.md) — the core Mars catastrophe article
 
 ### Mars Investigations Folder
+- [**Barsoom pre-MFEE — mythic memory**](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md) — Burroughs as pre-MFEE snapshot; safe release; Martian pedagogy open question
 - `wget/wells/massacre-of-mankind-2017-reference.md` — Stephen Baxter's 2017 sequel; heat ray fidelity, crystal egg erasure, sigils, Havana (2016) timeline
 - `wotw.md` — Full text of *The War of the Worlds*
 - `wotw-martian-analysis.md` — Technical analysis of the Martian invaders

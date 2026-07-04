@@ -8,11 +8,7 @@ Open conspiracy-research hub that challenges mainstream paradigms across history
 
 **[Submit an idea for investigation](/submit)** — suggest a topic, questions, and reference links for the site to research.
 
-## Disclaimer — material that may read as antisemitic (study copies vs. endorsement)
-
-**If you are concerned about antisemitic content in this repository,** start with the in-repo **[Paradigm Threat — working definition of antisemitism](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md)** (anti‑**monolithing** norms, **§5 Ten Commandments**, expanded **harm** including **opaque** moderation). **Paradigm Threat** aims for **this** framework—not a court rule—to describe how material here is **meant** to be read and written: it is **aligned with** the **[IHRA non‑legally binding working definition of antisemitism](https://holocaustremembrance.com/wp-content/uploads/2024/01/IHRA-non-legally-binding-working-definition-of-antisemitism-1.pdf)** on many **anti‑Jewish‑bigotry** questions, but it is **not the same text** and **not** identical in scope (see also [Jewish press investigation §8](/history/chronology/investigations/jewish-press-revolutionary-russia-verified-quotations.md) for IHRA / Nexus / JDA lineages). **Substack Notes confusion:** [antisemitic tropes Q&A](/history/chronology/qa/substack-tropes/page.md) — balanced reads on memes in reply threads (**monolithing**, **Hitler=Rothschild**, **ethnic exit**) vs what we **do not endorse**.
-
-**Presence in the repo is not endorsement.** Memes and slurs may appear as **study copies** in Q&A to explain **reader confusion**; hosting them **does not** mean we **agree** with their message.
+**Presence in the repo is not endorsement** — [working definition of antisemitism](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md).
 
 <ChangeLog />
 

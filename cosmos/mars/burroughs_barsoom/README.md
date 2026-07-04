@@ -2,6 +2,8 @@
 
 Index of passages in Edgar Rice Burroughs's Barsoom (Mars) series relevant to timeline investigation. **Methodological assumption:** All content is treated as potentially based on redacted fact; highlight anything that appears invented to challenge claims of authorial invention—Burroughs may have received information second- or third-hand from reality on Mars (as with Asimov and the Binder "I, Robot").
 
+**Investigative frame (2026-07-04):** [Barsoom as pre-MFEE Mars — mythic memory](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md) — series encodes **pre–MudFlood Energetic Event** surface civilization; **cities and species** largely **destroyed in the event**; safe **pulp release** because Earth would **mythify** the memory (parallel: **Russian Empire** in modern textbooks).
+
 **Source:** Project Gutenberg; 7 of 11 Barsoom novels (PG US). Swords of Mars, Synthetic Men of Mars, Llana of Gathol, John Carter of Mars are on PG Australia; not in this archive.
 
 ---

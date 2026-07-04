@@ -1,6 +1,6 @@
 # Investigation: CERN as Earth–Mars Quantum Gateway — Æther Physics, Maxwell, and Mars-Only Siting
 
-> **TL;DR:** Physical foundation: **æther** + **Maxwell** (ε₀, μ₀, *c*) → **portal-class** æther distortion at LHC energies—not metaphor. **Operational thesis:** CERN = **Earth terminal**, **Mars-only** gate (Venus excluded); **real purpose** = **Earth–Mars transport** under **Dead Planet Protocol** (surface cities dismantled ~1918–1962, **Mariner** seals **lifeless Mars** illusion). **Mars side is not Geneva** — **interior endpoint**, asymmetric gate. **Precursor (§10):** Philadelphia Experiment. **Symbolic (§6.4):** WWW / Vav / 666.
+> **TL;DR:** Physical foundation: **æther** + **Maxwell** (ε₀, μ₀, *c*) → **portal-class** æther distortion at LHC energies—not metaphor. **Operational thesis:** CERN = **Earth terminal** for **quantum teleport** — **Mars-primary** buried ring pair (**symmetric** depth, not asymmetric surface); **ring = energetic harness**, **center focal point = tunnel** (§3.4, §3.8). **Dead Planet Protocol** (§3.5–§3.6). **Precursor (§10):** Philadelphia Experiment. **Symbolic (§6.4):** WWW / Vav / 666.
 
 **Status:** Open — physics foundation assembled from in-repo Maxwell lane; Mars-only siting is **author thesis**; FOIA/operational CERN docs not yet retrieved.
 
@@ -14,10 +14,11 @@
 6. **Ceremony / PP / internet leak sub-thesis** → §6  
 7. **WWW / Vav / 666 symbolic chain** → §6.4  
 8. **Philadelphia Experiment (1943) — precursor stub** → §10 → [full investigation](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md)  
-9. **Dead Planet Protocol — surface dismantling, CERN purpose** → §3.4–§3.6  
-10. **Author’s open claims registry** → §7  
-11. **Questions to clarify, verify, or debunk** → §8  
-12. **Weak points / remaining research** → §9  
+9. **Dead Planet Protocol — surface dismantling, CERN purpose** → §3.5–§3.6  
+10. **Center focal-point audit (LHC / FCC)** → §3.8  
+11. **Author’s open claims registry** → §7  
+12. **Questions to clarify, verify, or debunk** → §8  
+13. **Weak points / remaining research** → §9  
 
 ---
 
@@ -104,6 +105,24 @@ Stonehenge = **skyward spiral port**; CERN = **subterranean ring** — same **po
 
 This unifies “quantum” jargon with **medium engineering** rather than treating CERN as a **random** particle zoo.
 
+### 2.4 Ring harness vs center focal point (author physics, 2026-07-04)
+
+**Author correction:** The **27 km superconducting ring** is **not** identical to the **quantum tunnel**. It is an **energetic net** — a closed loop that **coalesces** extreme field density in the æther (§1.4). Collisions at **ATLAS / CMS / ALICE / LHCb** are the **public** use of that amplitude.
+
+**Working model:**
+
+| Layer | Role | Depth (Earth) |
+|-------|------|---------------|
+| **Ring tunnel** | **Harness** — circulate energy, stress medium | **50–175 m** ([LHC tunnel](https://en.wikipedia.org/wiki/Large_Hadron_Collider)) |
+| **Center focal point** | **Quantum tunnel** aperture (hypothesis) | **Unknown** — possibly **deeper** than ring |
+| **Experiment caverns** | **Cover** + detector physics | On-ring **Points 1–8** |
+
+**Pole routing** (energy through planetary axes to reach hollow interiors) is **not required** on this read — only **medium stress** along **pre-scarred** paths (§5).
+
+**Mars symmetry:** Mars ring is **buried like Earth** — **no reason** to assume **extra depth** or **surface-visible** Geneva clone. Invisibility = **underground**, not **asymmetric omission** (§3.4).
+
+**Evidence bar (author):** Any **structure at the geometric center** of the LHC or FCC circle — **any building** not explained as standard collider civil engineering — = **direct evidence** of **teleportation chamber** (thesis; **unverified**). See **§3.8** audit.
+
 ---
 
 ## 3. Author thesis: Mars-only gateway and siting logic
@@ -141,20 +160,23 @@ Synthesis from [Mars hub](/cosmos/mars/page.md):
 4. **Operational Deep State** — Latin legal/scientific **interface language**; Gotthard-style **obedience signaling** to population on far side of gate.  
 5. **Scale match** — FCC expansion tracks **more mass / more stability** through same **Earth–Mars** channel, not a second solar-system ring elsewhere.
 
-### 3.4 Asymmetric gate — why the Mars side is not meant to look like Geneva
+### 3.4 Symmetric buried construction — Mars ring matches Earth
 
-**Investigative gold (author synthesis):** The Earth–Mars link is **deliberately asymmetric**. **CERN** is the **only** **industrial ring terminal** in public view — buried under Switzerland with a **particle-physics** cover story. **Mars does not get a matching 27 km collider on the surface** because:
+**Author correction (2026-07-04):** Prior text treated the Earth–Mars gate as **deliberately asymmetric** — Earth gets CERN; Mars gets **only** an interior endpoint with **no** matching ring. **Retired.** The reason we do **not see** CERN on Mars is the **same** reason we do **not see** it on Earth: **it is underground.**
 
-| Earth (CERN) | Mars (far side) |
-|--------------|-----------------|
-| **Visible** institutional footprint | **No** Geneva-style public megaproject |
-| **Send/receive aperture** + **cover lab** | **Interior endpoint** along **pre-scarred** discharge paths |
-| **Opposition-window** traffic scheduling | **Hollow-interior** habitability; **surface = decoy** |
-| **WWW / FCC** as **scale-up** of throughput | **Gotthard-style** signaling **to population already there** |
+| Misread (retired) | Corrected read |
+|-------------------|----------------|
+| Mars has **no** LHC because endpoint is **interior-only** | Mars has **no visible** LHC because ring is **buried** — **symmetric** with Geneva depth class |
+| Mars ring must be **deeper** than Earth | **No requirement** — burial depth can **match** Earth (~50–175 m tunnel band) |
+| **Pole-axis** routing required for interior | **Optional** — medium stress along **scar paths** suffices (§2.4) |
 
-**Montauk sequel (unverified):** Claimed operators **targeted Mars underground** because **surface** was **ruined** and **machinery still ran below** — vortex **aiming** at **interior** rather than **open regolith** ([§10.6](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md#106-control-deposit--time-travel-substituted-for-space-teleport); [Cameron/Nichols interview](https://www.stunned.org/spook/www.psychicspy.com/montauk2.html)). **Rhymes** with **§3.5**; **not** A-tier proof.
+**Earth (documented):** LHC in **LEP tunnel**, **26.7 km** circumference, **50–175 m** depth; **surface** sites at **Points 1–8** are shafts and halls — ring itself **invisible** from orbit ([CERN LHC](https://home.cern/science/accelerators/large-hadron-collider/)).
 
-**Tier:** **Author thesis** — **asymmetric architecture** is **coherent** with [Mars hub — travel via CERN](/cosmos/mars/page.md#how-do-humans-travel-to-and-from-mars), [hollow-planet EU frame](/cosmos/cosmology/hollow_earth/hollow_earth_EU_model.jpg), and **§3.1** siting table.
+**Mars (author thesis):** **Matching buried ring** + **interior** traffic terminus under **Dead Planet** surface decoy (§3.5). **Tier:** **Author thesis** — no open-source Mars tunnel map located.
+
+**What remains asymmetric (institutional, not depth):** Earth carries the **public particle-physics cover story** and **WWW** branding; Mars carries **Dead Planet** astronomy seal. **Hardware depth** can still be **symmetric**.
+
+**Montauk sequel (unverified):** Operators **targeted Mars underground** — rhymes with **buried** endpoint, not **surface-asymmetric** omission ([§10.6](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md#106-control-deposit--time-travel-substituted-for-space-teleport)).
 
 ### 3.5 Dead Planet Protocol — surface cities observed, dismantled, rebuilt invisibly (1890s → 1962)
 
@@ -169,7 +191,7 @@ Synthesis from [Mars hub](/cosmos/mars/page.md):
 | **Percival Lowell** documented **canal-like** linear features and **seasonal** darkening on Mars from **1894** onward | **Documented** (astronomical record) | [Lowell Observatory — Mars history](https://lowell.edu/about/history/); Lowell, *Mars and Its Canals* (1906) |
 | **Seasonal** **"flooding"** of **canals** drawn in period illustrations | **Documented** as **observation**; **interpretation** disputed | [Mars observing guides](https://cosmicpursuits.com/2183/cosmos/mars-observing-guide/) vs [Mars hub § canals](/cosmos/mars/page.md) |
 | **NYT**, **16 Jan 1901**: **70-minute** **light shaft** from Mars (**Pickering**, **Lowell Observatory** data) | **Documented** press + observatory chain | [*NYT* archive](https://www.nytimes.com/1901/01/16/archives/a-flash-of-light-from-mars.html); [Mars contacts timeline §1901](/timeline/evt-mars-contacts-timeline) |
-| **Barsoom / Mars novels** (**Burroughs** 1912–1943) encode **surface cities**, **canals**, **polar** **forbidden** zones | **Literary** — timeline reads as **reclassified nonfiction** | [Mars literature as reclassified nonfiction](/timeline/evt-mars-literature-as-reclassified-nonfiction) |
+| **Barsoom / Mars novels** (**Burroughs** 1912–1943) encode **pre-MFEE** **surface** Mars — **cities**, **canals**, **species variety**, **polar** zones; **mostly destroyed** in **MFEE**; **safe mythic release** on Earth | **Literary + author thesis** | [Barsoom pre-MFEE investigation](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md) · [Mars literature event](/timeline/evt-mars-literature-as-reclassified-nonfiction) |
 | **Mariner 2** (**1962**) **flyby**: **no** liquid water, **no** cities, **cold** **dead** surface narrative | **Documented** mission result | [Mariner 2 — NASA](https://science.nasa.gov/mission/mariner-2/); [Mariner program](https://en.wikipedia.org/wiki/Mariner_program) |
 | **Post-MFEE** melted-city **photography** on Mars surface | **Project evidence class** | [Mars hub § civilization](/cosmos/mars/page.md); [1774 Mars catastrophe](/timeline/evt-1774-ce-the-mars-catastrophe) |
 
@@ -186,19 +208,64 @@ Synthesis from [Mars hub](/cosmos/mars/page.md):
 
 **Redaction read:** **Mariner “dead Mars”** is **R5 substitutive** closure — **public** **ontology** **frozen**; **interior** **traffic** **continues** via **CERN-class** **hardware** (**R1** subtractive: **surface** **story** **gone**, **gate** **story** **hidden**). See [REDACTION.md](/docs/REDACTION.md).
 
+### 3.5.1 Barsoom — pre-MFEE snapshot and mythic memory release (author, 2026-07-04)
+
+**Synthesis:** **Burroughs** did not need to **invent** canals and cities from nothing — he **serialized** a **pre-catastrophe** Mars already **gone** or **dying** on the surface after the **MFEE**. **Species variety** in Barsoom (Tharks, Therns, Hormads, etc.) contrasts with **today’s scarred, impoverished** Mars because **most lines were destroyed in the event**, not because pulp writers **guessed wrong**.
+
+**Why release was safe:** By **1912**, **Lowell** still **read** canals — but **Mariner-class** **closure** was **coming**. **Fiction** **shelf** = **no institutional authority**; over generations Barsoom becomes **myth** on Earth — parallel to **Russian Empire** depth **flattened** into **illegitimate** or **fairy-tale** memory in **standard** modern history.
+
+**Martian pedagogy (open):** Do **interior** Martians teach children the **MFEE** as **recent**, **a million years ago**, or **not at all**? **No located answer** — see [Barsoom investigation §4](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md).
+
+**Claims:** **B1–B5** in [Barsoom investigation §5](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md).
+
 ### 3.6 CERN operational purpose (author conclusion)
 
 On the **full** **stack** of this investigation:
 
 1. **Physics:** æther-distortion **portal** at **industrial** scale (§1–§2).  
-2. **Endpoint:** **Mars only** — **interior** **node**, **not** **surface** **peer** lab (§3.1, §3.4).  
+2. **Endpoint:** **Mars-primary** — **buried ring pair** + **interior** node (§3.4); **not** surface peer lab.  
 3. **Cover:** **Particle collider** + **Higgs** **vocabulary** while **Bertolucci-class** language slips **door/through** (§4).  
 4. **Social function:** **Dead Planet Protocol** — **Earth** **public** ** taught** **Mars** **=** **red** **dust**; **opposition-window** **and** **ring** **traffic** **move** **assets** **anyway** ([Mars hub § travel](/cosmos/mars/page.md)).  
-5. **Scale path:** **LHC → FCC** = **more stable tunnel**, **more throughput**, **same** **single** **Earth** **aperture** — **not** **building** **visible** **Mars** **infrastructure**.
+5. **Scale path:** **LHC → FCC** = **more stable tunnel**, **more throughput**, **same** **Earth** **harness** — **Mars buried ring** scales in parallel (author thesis); **center chamber** audit → §3.8.
 
-**One line:** **CERN is Geneva; Mars is the hollow interior on the other end of the scar — and the surface was scrubbed so nobody with a backyard telescope or a 1962 flyby could call the bluff.**
+**One line:** **CERN is buried under Geneva; Mars is buried on the other end of the scar — and the surface was scrubbed so nobody with a backyard telescope or a 1962 flyby could call the bluff.**
 
 **Tier:** **Author thesis** — **operational** **purpose** **not** **stated** in **CERN** **public** **charter**; **coherent** with **documented** **Mariner** **null** **result** + **documented** **CERN** **existence** + **portal** **quotes**.
+
+### 3.8 Center focal-point audit — LHC and FCC (open research, 2026-07-04)
+
+**Author hypothesis:** The **quantum tunnel** forms at the **center of the ring’s energy field** — the **focal point** of the **energetic net** (§2.4). A **teleportation chamber** may exist at the **geometric centroid** of the LHC/FCC circle, likely **deeper** than the collider tunnel. **Any building at ring center** = **direct evidence** of portal hardware (author bar — **not** met by sources located to date).
+
+**Research question:** Has anyone — CERN, press, whistleblower, fiction-encoding — ever described a **facility at the center of the CERN circle** (existing LHC or planned FCC)?
+
+#### 3.8.1 What public civil engineering **does** document
+
+| Item | Tier | Notes |
+|------|------|-------|
+| **Eight access points** (Points 1–8) on ring circumference | **Documented** | [LHC layout](https://www.lhc-closer.es/taking_a_closer_look_at_lhc/0.lhc_layout); [CERN neighbours — Point 8](https://voisins.web.cern.ch/en/point-8) |
+| **Pits at centres of octants** — beams cross at Pits **1, 2, 5, 8** | **Documented** | [LHC Project Report 79](https://cds.cern.ch/record/316527/files/lhc-project-report-79.pdf) |
+| **ATLAS** UX15 cavern, **CMS** UX55 — **on ring**, not centroid | **Documented** | [ATLAS fact sheet](https://cds.cern.ch/record/1457044/files/ATLAS%20fact%20sheet.pdf); [ST-98-005 caverns PDF](https://cds.cern.ch/record/357157/files/st-98-005.pdf) |
+| **~150 underground service caverns** along ring | **Documented** | [JACoW WPAE019 — LHC integration](https://proceedings.jacow.org/p05/PAPERS/WPAE019.PDF) |
+| **FCC:** **91 km** tunnel, **4 experiment sites** (PA, PD, PG, PJ), **8 access points**, **12 large caverns** | **Documented planning** | [FCC civil engineering — IOP](https://iopscience.iop.org/article/10.1088/1748-0221/19/02/T02005/pdf); [FCC home](https://home.cern/science/accelerators/future-circular-collider/) |
+| **CERN Coordinate System** origin **P0** at **Proton Synchrotron center** (Meyrin) | **Documented** | [LGC Datum docs](https://lgc2.docs.cern.ch/2.10.0/OptionDatum/) — **not** LHC geometric centroid |
+
+#### 3.8.2 What this pass did **not** find
+
+- **No** located CERN publication naming a **shaft, cavern, or building** at the **geometric center** of the LHC ring (the **interior** of the ~27 km loop, under French countryside north of Geneva).  
+- **No** FCC feasibility text placing an **experiment or service cavern** at **ring centroid** — all published nodes are **on-circumference** sites.  
+- **No** press quote, leak, or breakaway testimony **naming** “center of the circle” chamber (search **open** — FOIA / French cadastre / geotech surveys **not** run).
+
+**Geometry note:** The LHC is **not** a perfect circle — **eight arcs** + **eight insertions** ([LHC machine ch.02](https://jinst.sissa.it/LHC/LHCmachine/ch02.pdf)). A **centroid** still exists in the **annulus interior**; the **beam tunnel** lies on the **outer** boundary of that hole. A **vertical chamber** at centroid would be **off-tunnel** unless linked by **undocumented** bore.
+
+#### 3.8.3 Author expectations and next steps
+
+1. **Chamber likely deeper** than ring tunnel — classified **vertical** works would **not** appear in collider tour maps.  
+2. **Centroid** may be the **most sensitive** coordinate — expect **no** public naming.  
+3. **FCC** greenfield = watch **pre-construction** geotechnical and **shaft** permits for **off-point** excavations.  
+4. **Cross-check:** satellite subsidence, thermal anomaly, **French/Swiss** mining registers at **computed centroid** (coordinates **not** fixed in this pass).  
+5. **Falsifier:** Definitive **engineering survey** showing **only** molasse rock at centroid with **no** voids — would **weaken** (not fully kill) **centroid-chamber** thesis if chamber is **off-center** but **on-axis**.
+
+**Tier:** §3.8 = **open research** — **negative result provisional**; **author hypothesis** for **center = door** remains **unverified**.
 
 ---
 
@@ -415,7 +482,7 @@ CERN (portal hardware, Earth terminal)
 
 **Reader essay (Part B):** [The Philadelphia Experiment Was Not Time Travel](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md)
 
-**One-line continuum:** **1943 ship coil** (Norfolk pair) → **Montauk** (claimed) → **LHC/FCC** (Mars-only author thesis, §3). Claims **A12–A15** in §7; Philadelphia FOIA targets in §8 items 11–13.
+**One-line continuum:** **1943 ship coil** (Norfolk pair) → **Montauk** (claimed) → **LHC/FCC** (**symmetric buried** rings + **center focal point**, §3.4, §3.8). Claims **A12–A15** in §7; Philadelphia FOIA targets in §8 items 15–17.
 
 **Lay anchor:** [Philadelphia events page](/events/philadelphia/page.md) — **no time travel**; Norfolk local teleport only.
 
@@ -440,7 +507,13 @@ CERN (portal hardware, Earth terminal)
 | A15 | **Philadelphia → Montauk → CERN** = **one** **portal** **engineering** **continuum** | **Author thesis** — **Montauk** **unverified** |
 | A16 | **Mars surface cities dismantled** (~1918–1962); **rebuild underground**; **portal-first** travel | **Author thesis** — [Dead Planet Protocol](/timeline/evt-mars-surface-dismantling-dead-planet-protocol) |
 | A17 | **CERN purpose:** **Earth–Mars transport** while **preserving dead-Mars illusion** | **Author operational read** — §3.6 |
-| A18 | **Mars far side ≠ Geneva** — **asymmetric gate**; **interior endpoint** only | **Author architecture** — §3.4 |
+| A18 | **Symmetric buried** Earth–Mars rings — invisibility = **underground**, not **Mars-only surface omission** | **Author architecture** — §3.4 (**retired:** asymmetric gate) |
+| A19 | LHC ring = **energetic harness**; **quantum tunnel** at **center focal point** (possibly **deeper** than tunnel) | **Author physics** — §2.4 |
+| A20 | **Any structure at LHC/FCC geometric centroid** = **teleport chamber** evidence (author bar) | **Author hypothesis** — §3.8; **not verified** |
+| A21 | **Pole-axis routing** for interior destinations **not required** | **Author correction** — §2.4, §3.4 |
+| A22 | **Barsoom** = **pre-MFEE** Mars; **cities/species** gone chiefly from **energetic event** | **Author thesis** — [Barsoom investigation](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md) |
+| A23 | Barsoom **safe to publish** → **mythic memory** on Earth (Russian Empire parallel) | **Author interpretive** |
+| A24 | Martian **children’s chronology** of MFEE — **recent / deep-time / denied** — **unknown** | **Open question** |
 
 ---
 
@@ -452,15 +525,21 @@ CERN (portal hardware, Earth terminal)
 4. **Dayton Miller:** Positive drift results — refuted or merely dismissed? ([03-dayton-miller](/science/maxwell_aether/03-dayton-miller.md)).  
 5. **Falsifier for Mars-only:** Any **credible** leak placing LHC **remote endpoint** on **Venus, Moon, or asteroid** with engineering detail?  
 6. **Mercury relay:** Evidence of **traffic** without **Mars** in breakaway / RV / fiction-encoding corpus?  
-7. **Internet leak:** Berners-Lee / CERN **internal** memos treating WWW as **import** vs **invention**?  
-8. **WWW naming:** Any **primary** CERN/W3C doc on **acronym choice** beyond public “World Wide Web” story?  
-9. **666 counter-sources:** Does CERN or W3C **ever** address **Vav/WWW** meme in official FAQ (inoculation)?  
-10. **Crucifixion nail metrology:** See [crucifixion-giant-redaction-nail-metrology investigation](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) — pre-reset **inch/foot** tables vs museum nails.
-11. **Philadelphia / Project Rainbow:** Any **declassified** **ONR** **file** naming **Rainbow**, **Eldridge**, or **Norfolk** **teleport** **trial**?
-12. **Varo edition:** **Primary** **copy** of **annotated** **Jessup** — **who** **ordered** **print run** and **why**?
-13. **Montauk–Mars:** **Independent** **corroboration** of **Nichols** **Mars** **targeting** **beyond** **interview** **memoir**?
-14. **Dead Planet Protocol:** **Pre-1962** **imaging** showing **canal** **geometry** **change** **year-over-year** — **archive** **targets**?
-15. **Gotthard 2016:** AlpTransit/SBB **ceremony commissioning** docs for **Volker Hesse** — stated **symbolic intent** vs **portal** readings; Swiss Federal Council **press** on **CERN** **misattribution** (2024 cycle).
+7. **LHC centroid chamber:** Any **CERN civil-engineering** drawing, **shaft permit**, or **whistleblower** text naming **excavation at geometric center** of ring (not Points 1–8)?  
+8. **FCC centroid:** Do **FCC feasibility** volumes (2025 report) list **any** cavern **off** the **91 km** circumference?  
+9. **Vertical link:** **Borehole** or **service gallery** from **on-ring** point to **deeper centroid** void — geotech / LGC survey leak?  
+10. **Fiction-encoding:** PP corpus describing **“center of the accelerator”** chamber distinct from **ATLAS/CMS**?  
+11. **Internet leak:** Berners-Lee / CERN **internal** memos treating WWW as **import** vs **invention**?  
+12. **WWW naming:** Any **primary** CERN/W3C doc on **acronym choice** beyond public “World Wide Web” story?  
+13. **666 counter-sources:** Does CERN or W3C **ever** address **Vav/WWW** meme in official FAQ (inoculation)?  
+14. **Crucifixion nail metrology:** See [crucifixion-giant-redaction-nail-metrology investigation](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) — pre-reset **inch/foot** tables vs museum nails.
+15. **Philadelphia / Project Rainbow:** Any **declassified** **ONR** **file** naming **Rainbow**, **Eldridge**, or **Norfolk** **teleport** **trial**?
+16. **Varo edition:** **Primary** **copy** of **annotated** **Jessup** — **who** **ordered** **print run** and **why**?
+17. **Montauk–Mars:** **Independent** **corroboration** of **Nichols** **Mars** **targeting** **beyond** **interview** **memoir**?
+18. **Dead Planet Protocol:** **Pre-1962** **imaging** showing **canal** **geometry** **change** **year-over-year** — **archive** **targets**?
+19. **Gotthard 2016:** AlpTransit/SBB **ceremony commissioning** docs for **Volker Hesse** — stated **symbolic intent** vs **portal** readings; Swiss Federal Council **press** on **CERN** **misattribution** (2024 cycle).
+20. **Barsoom / MFEE:** Internal **Barsoom** chronologies (drying seas, Orovars) — **map** to **MFEE** **sequence** or **deep-time** **compression**?
+21. **Martian pedagogy:** **Breakaway / RV** on **how Martian children** are taught **catastrophe** dating — **recent** vs **million years** vs **denied**?
 
 ---
 
@@ -473,6 +552,8 @@ CERN (portal hardware, Earth terminal)
 | Venus exclusion = qualitative | Optional: Venus surface env table vs superconducting ring specs |
 | Mercury “viable” line in Mars hub | **Reconcile** via relay-vs-endpoint footnote (this file) |
 | Philadelphia **primary** **ops** **file** | National Archives **ONR** / **BuShips** **1943** **EM** **projects** |
+| LHC/FCC **centroid chamber** | Compute **WGS84** centroid; French **cadastre** / **BRGM** geotech; CERN **LGC** as-built surveys; FCC **pre-construction** permits |
+| Barsoom **pedagogy** / **interior curriculum** | [Barsoom investigation §4](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md); RV / breakaway sweep |
 | `site-claims.json` missing CERN entry | Add when author approves registry update |
 | [03-dayton-miller](/science/maxwell_aether/03-dayton-miller.md) empty findings | Populate or link Sagnac / Miller reanalysis |
 
@@ -490,6 +571,7 @@ CERN (portal hardware, Earth terminal)
 | [Stonehenge → CERN](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) | Portal class continuity |
 | [Crucifixion giant redaction — nail metrology](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) | Nine-inch / inch-foot shift (**AU-031**) |
 | [Philadelphia portal precursor](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) | 1943 ship-scale PP; §10 moved here |
+| [Barsoom pre-MFEE investigation](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md) | Burroughs; mythic memory; MFEE destruction |
 | [Part A — Out of This Door Might Come Something](/science/cern_portal/out-of-this-door-might-come-something.md) | Reader essay |
 | [Part B — Philadelphia Was Not Time Travel](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md) | Reader essay |
 | [Dead Planet Protocol — timeline](/timeline/evt-mars-surface-dismantling-dead-planet-protocol) | Surface dismantling → Mariner seal |
@@ -500,7 +582,7 @@ CERN (portal hardware, Earth terminal)
 
 Keywords: #Cern #Mars #QuantumGateway #Aether #Maxwell #Portal #LHC #FCC #Venus #Birkeland #Opposition #DeepState #PhiladelphiaExperiment #ProjectRainbow #Montauk #ParadigmThreatFiles
 
-*Last updated: 2026-07-03*
+*Last updated: 2026-07-04*
 
 ---
 
@@ -510,7 +592,7 @@ Keywords: #Cern #Mars #QuantumGateway #Aether #Maxwell #Portal #LHC #FCC #Venus 
 
 **Physics tiers:** §1–§2 state the **project’s æther–Maxwell foundation** and **portal engineering grammar**. That is **author ontology**, not mainstream consensus. One-sentence bridge: textbooks use **quantum fields in vacuum** for related math; this repo names the substrate **æther** deliberately.
 
-**Mars-only / Venus exclusion:** **Author thesis** (§3), cosmology-aligned but **not** independently proven by CERN publications located to date.
+**Symmetric buried rings / center chamber:** **Author thesis** (§3.4, §3.8); **centroid facility not located** in open sources reviewed 2026-07-04.
 
 **Bertolucci quote:** **Documented** reporting; **Mars endpoint** is **inference**, not quoted.
 
