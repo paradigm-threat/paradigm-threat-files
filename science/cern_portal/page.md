@@ -4,7 +4,7 @@
 
 **Status:** Open  
 **Reader essays (portal series):** [Part A — Out of This Door Might Come Something](/science/cern_portal/out-of-this-door-might-come-something.md) · [Part B — Philadelphia Was Not Time Travel](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md)  
-**Primary dossier:** [CERN as Earth–Mars Quantum Gateway](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) — æther physics, Maxwell, Mars-only siting, Dead Planet Protocol §3.4–§3.6, WWW §6.4  
+**Primary dossier:** [CERN as Earth–Mars Quantum Gateway](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) — æther physics, Maxwell, Mars-only siting, Dead Planet Protocol §3.4–§3.6, WWW §6.4, **disclosure sequencing §11**  
 **Philadelphia precursor:** [Philadelphia portal precursor investigation](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) (extracted from former dossier §10)
 **Triggered by:** Content strategy; [The Suppression of Maxwell and the Aether](/timeline/evt-suppression-of-maxwell-and-the-aether) (13.06.00) raises the possibility that CERN's LHC could function as an aether-manipulation or portal device.
 
@@ -72,7 +72,7 @@ CERN has repeatedly denied that the LHC can "open portals," "create black holes 
 ## Aether and the LHC
 
 - **Timeline thesis (13.06.00):** If the æther is real and manipulable, then "portal" technology is an engineering problem. The LHC manipulates extreme energies and fields in a confined volume; in æther physics, that corresponds to local distortion of the medium — i.e. portal-capable.
-- **Maxwell foundation:** Permittivity ε₀ and permeability μ₀ are **measured properties of the substrate**, not of literal nothingness; *c* = 1/√(μ₀ε₀) has the same logical shape as sound speed in a medium. Maxwell stated the æther **"must exist."** Full chain: [Did Maxwell prove the æther?](/science/maxwell_aether/02-did-maxwell-prove-the-aether.md) · [Burden of proof](/science/maxwell_aether/01-burden-of-proof-debate.md) · [gateway dossier](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) §1–§2.
+- **Maxwell foundation:** Permittivity ε₀ and permeability μ₀ are **measured properties of the substrate**; *c* = 1/√(μ₀ε₀) is **EM wave speed** in the medium — **proof the æther exists**, not the portal speed limit. Paired-node coupling can be **instant**. Full chain: [Did Maxwell prove the æther?](/science/maxwell_aether/02-did-maxwell-prove-the-aether.md) · [Burden of proof](/science/maxwell_aether/01-burden-of-proof-debate.md) · [gateway dossier](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) §1–§2.
 - **Mainstream language:** CERN and particle physics describe the vacuum as a "quantum field" or "Higgs field" — not "empty." So the LHC is already manipulating a medium. We describe that in portal/gateway terms; no other explanation fits the combination of physics and primary-source statements.
 - **Ring harness:** LHC ring = **energetic net**; hypothesized **teleport chamber** at **geometric center** (deeper than tunnel); **June 2016 Geneva storm** imagery as possible **sky focal signature** — [§3.8.4](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md).
 - **Mars endpoint:** **Symmetric buried** Earth–Mars ring pair; Mars-primary interior terminus under Dead Planet cover. See [gateway investigation §3](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md).
@@ -88,7 +88,9 @@ CERN has repeatedly denied that the LHC can "open portals," "create black holes 
 | **Official position** | CERN denies any portal capability; fact-checks side with CERN. We record both and do not let denial alone close the question. |
 | **Predictive programming** | Recurrent media and fiction theme: accelerator opens dimension/portal. Treated as data; interpretation open. |
 | **Shiva statue** | Installed 2004; official narrative is metaphor for particle physics. Alternative symbolism (gates, dissolution) noted; no conclusion drawn. |
-| **Aether/LHC link** | The timeline's aether thesis permits portal technology; LHC manipulates the medium. Project stance: CERN is a portal; no other explanation makes sense. Bertolucci-type evidence is gold. |
+| **Aether/LHC link** | The timeline's aether thesis permits portal technology; LHC manipulates the medium. Project stance: CERN is a portal; no other explanation fits the combination of physics and primary-source statements. |
+| **Surface logic / ROI** | Particle-zoo cover fails civil+fiscal sense; socio-economic ROI = EU policy theater; WWW as biggest cited return is orthogonal to accelerator — [§4.1](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md). |
+| **Forced tax read** | Portal-class buried infrastructure sold as particle science — among grossest misuses of compelled revenue; transport channel would be first honest use of same civil works. |
 
 ---
 
