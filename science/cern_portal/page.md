@@ -3,7 +3,7 @@
 > **TL;DR:** Open investigation treating CERN’s LHC as a plausible **æther-distortion** or portal device: **Maxwell’s equations** as proof the vacuum has medium properties; senior CERN “door / something might come through” quotes; **Mars-only** gateway thesis in the dedicated dossier. Literal portal language is primary-source signal.
 
 **Status:** Open  
-**Reader essays (portal pair):** [Part A — Out of This Door Might Come Something](/science/cern_portal/out-of-this-door-might-come-something.md) · [Part B — Philadelphia Was Not Time Travel](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md)  
+**Reader essays (portal series):** [Part A — Out of This Door Might Come Something](/science/cern_portal/out-of-this-door-might-come-something.md) · [Part B — Philadelphia Was Not Time Travel](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md)  
 **Primary dossier:** [CERN as Earth–Mars Quantum Gateway](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) — æther physics, Maxwell, Mars-only siting, Dead Planet Protocol §3.4–§3.6, WWW §6.4  
 **Philadelphia precursor:** [Philadelphia portal precursor investigation](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) (extracted from former dossier §10)
 **Triggered by:** Content strategy; [The Suppression of Maxwell and the Aether](/timeline/evt-suppression-of-maxwell-and-the-aether) (13.06.00) raises the possibility that CERN's LHC could function as an aether-manipulation or portal device.

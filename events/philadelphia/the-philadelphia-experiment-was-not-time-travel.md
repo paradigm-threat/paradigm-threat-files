@@ -2,7 +2,7 @@
 
 Norfolk, not another dimension — the ship-scale portal before CERN
 
-*Part B of two — portal pair.*
+*Part B of two — portal series.*
 
 ![Philadelphia Experiment — events hub art](https://paradigmthreat.net/events/philadelphia/philadelphia_experiment.png)
 

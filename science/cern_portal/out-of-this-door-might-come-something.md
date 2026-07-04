@@ -4,7 +4,7 @@ CERN is a Quantum Portal to Mars and other planets in our Solar System
 
 *Part A of two — portal series.*
 
-![Out of This Door Might Come Something — CERN portal pair Part A](https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png)
+![Out of This Door Might Come Something — CERN portal series Part A](https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png)
 
 In November 2009, Sergio Bertolucci — then Director for Research at CERN — told the press that the Large Hadron Collider might open a door through which something could come, or through which humanity might send something. The Register reported it straight. Years later, when every LHC milestone triggered viral claims that CERN had opened a portal or shifted the timeline, fact-checkers cited official denials and called the story false.
 

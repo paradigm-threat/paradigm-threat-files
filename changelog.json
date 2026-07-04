@@ -1,8 +1,81 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-04T12:02:28.678Z",
+    "date": "2026-07-04T12:03:51.673Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/philadelphia/page.md",
+        "href": "/events/philadelphia"
+      },
+      {
+        "status": "M",
+        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
+        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
+      },
+      {
+        "status": "M",
+        "path": "science/cern_portal/out-of-this-door-might-come-something.md",
+        "href": "/science/cern_portal/out-of-this-door-might-come-something"
+      },
+      {
+        "status": "M",
+        "path": "science/cern_portal/page.md",
+        "href": "/science/cern_portal"
+      }
+    ],
+    "images": [
+      {
+        "src": "/events/philadelphia/philadelphia_experiment.png",
+        "alt": "Philadelphia Experiment"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/philadelphia/philadelphia_experiment.png",
+        "alt": "Philadelphia Experiment — events hub art"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png",
+        "alt": "Out of This Door Might Come Something — CERN portal series Part A"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
+        "alt": "LHC — 27 km ring of superconducting magnets and accelerator chain (Mars hub / CERN travel)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_plans.jpg",
+        "alt": "Future Circular Collider (FCC) — planned scale-up vs existing LHC at CERN (Nature / Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars_canals5.jpg",
+        "alt": "Percival Lowell — Mars and Its Canals (1906); intelligent-civilization waterworks read before Mariner (Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cia_remote_viewing.jpg",
+        "alt": "CIA STARGATE — 1984 Mars remote-viewing session artwork (declassified lane; Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/doom.jpg",
+        "alt": "Doom film (2005) — quantum teleport between Earth and Mars (predictive programming catalog)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_storm.jpg",
+        "alt": "Viral CERN portal storm imagery — Geneva lightning vortex reads as “opened gate” in tabloid cycles (Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at1.jpg",
+        "alt": "Gotthard Base Tunnel opening — BBC: “How Switzerland decided to mark world's longest rail tunnel” (1 June 2016)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at2.jpg",
+        "alt": "Gotthard ceremony — obedience theater near CERN geography (Mars hub)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-04T12:02:26.000Z",
+    "message": "Restore Part A subtitle: CERN quantum portal to Mars and solar system.",
     "files": [
       {
         "status": "M",
@@ -1955,24 +2028,6 @@
         "status": "M",
         "path": "influence/controlled_opposition/page.md",
         "href": "/influence/controlled_opposition"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-03T13:07:20.000Z",
-    "message": "Stamp Last updated with Eastern time-of-day on ic911a essay and dossier.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md",
-        "href": "/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/debunk-host-scheduled-slot.md",
-        "href": "/influence/controlled_opposition/debunk-host-scheduled-slot"
       }
     ],
     "images": []

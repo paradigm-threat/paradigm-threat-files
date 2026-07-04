@@ -6,7 +6,7 @@ The Philadelphia Experiment was an attempt to use **high-amplitude** energy to c
 
 **Full dossier:** [Philadelphia portal precursor investigation](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) — **Allende–Jessup** audit, **laying on of hands**, **Flame/Freeze**, PP catalog §8.
 
-**Reader essay (Part B):** [The Philadelphia Experiment Was Not Time Travel](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md) — portal pair with [Part A — Out of This Door Might Come Something](/science/cern_portal/out-of-this-door-might-come-something.md).
+**Reader essay (Part B):** [The Philadelphia Experiment Was Not Time Travel](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md) — portal series with [Part A — Out of This Door Might Come Something](/science/cern_portal/out-of-this-door-might-come-something.md).
 
 Basic context from [HistoricMysteries.com](https://www.historicmysteries.com/the-philadelphia-experiment/),
 
