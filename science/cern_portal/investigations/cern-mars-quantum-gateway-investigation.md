@@ -222,6 +222,12 @@ The reason we do **not see** CERN on Mars is the **same** reason we do **not see
 
 **Claims:** **B1–B5** in [Barsoom investigation §5](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md).
 
+### 3.5.2 Biosphere collapse and exhausted artificial sustain (MFEE → Jeff Wayne PP)
+
+**Operational read:** Mars is **dying** because the **[MFEE](/timeline/evt-mars-catastrophe-brandenburg)** **destroyed the biosphere** (~1774 return-fire) — ocean loss, climate failure, surface ecology collapse — not merely because the planet is **geologically old**. Survivors deployed **artificial life-support**: Barsoom **atmosphere plants**, canal hydraulics, interior shelters ([Barsoom investigation](/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md); [index-mars — atmosphere plant](/cosmos/mars/investigations/index-mars.md)).
+
+**PP (documented in-game dialogue):** *Jeff Wayne's War of the Worlds* PC game (1998), Martian campaign — Elder 2: **"Mars is incapable of sustaining life, our efforts to maintain the biosphere are exhausted"**; shrinking water tables and population; **Earth conquest** as last resort ([MudFlood hub § technocrats](/history/mudflood/page.md); [WotW telepathic purge § Jeff Wayne](/cosmos/mars/investigations/wotw-telepathic-purge.md)). Encodes **failed sustain** after MFEE — not Wells's surface **cooling** alone.
+
 ### 3.6 CERN operational purpose
 
 On the **full** **stack** of this investigation:
@@ -664,7 +670,7 @@ When arbitrary war is **bounded**, stewards of covert Earth–Mars infrastructur
 | Body | Strategic read |
 |------|----------------|
 | **Earth** | **Healthy**, **large**, **wet**, **life-dense**, **closer to the sun** — defensible home volume |
-| **Mars** | **Dying** — distance, scale, **[MFEE](/timeline/evt-mars-catastrophe-brandenburg)** destruction, **Dead Planet** surface, interior routing via gates |
+| **Mars** | **Dying** — **[MFEE](/timeline/evt-mars-catastrophe-brandenburg)** **biosphere destruction**, **failed artificial sustain** (atmosphere plants / life-support), **Dead Planet** surface, interior routing via gates |
 
 **Mars struck first** in project chronology ([MudFlood return fire](https://paradigmthreat.net/timeline/evt-mars-catastrophe-brandenburg); [WoTW analysis](/cosmos/mars/investigations/wotw-martian-analysis.md)) because **open war Earth vs Mars** is **not realistic** — Mars needed **desperation plays**, not symmetric great-power war. [1984 CIA Mars RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) encodes **planetary destitution**: interior shelters, storm migration, **rounded hulls** — survival grammar, not invasion swagger.
 
