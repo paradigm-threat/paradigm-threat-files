@@ -1,8 +1,8 @@
 # Out of This Door Might Come Something
 
-Earth ring, hollow interior, and the mark they released as WWW
+CERN is a Quantum Portal to Mars and other planets in our Solar System
 
-*Part A of two — portal pair.*
+*Part A of two — portal series.*
 
 ![Out of This Door Might Come Something — CERN portal pair Part A](https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png)
 
