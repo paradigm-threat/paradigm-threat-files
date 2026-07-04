@@ -121,7 +121,9 @@ There is **no clean villain** to hang this on. Assigning one name — CERN, Mart
 
 Keywords: #Cern #Mars #Portal #DeadPlanetProtocol #WWW #Vav #Jerusalem #PredictiveProgramming #Aether #ParadigmThreatFiles
 
-**Last updated:** 2026-07-04T09:58:00-04:00
+**Substack:** [paradigmthreat2.substack.com/p/out-of-this-door-might-come-something](https://open.substack.com/pub/paradigmthreat2/p/out-of-this-door-might-come-something?r=5p8s4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+**Last updated:** 2026-07-04T10:02:00-04:00
 
 ---
 
