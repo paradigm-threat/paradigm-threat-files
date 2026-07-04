@@ -228,7 +228,7 @@ On the **full** **stack** of this investigation:
 4. **Social function:** **Dead Planet Protocol** — **Earth** **public** ** taught** **Mars** **=** **red** **dust**; **opposition-window** **and** **ring** **traffic** **move** **assets** **anyway** ([Mars hub § travel](/cosmos/mars/page.md)).  
 5. **Scale path:** **LHC → FCC** = **more stable tunnel**, **more throughput**, **same** **Earth** **harness** — **Mars buried ring** scales in parallel (author thesis); **center chamber** audit → §3.8.
 
-**One line:** **CERN is buried under Geneva; Mars is buried on the other end of the scar — and the surface was scrubbed so nobody with a backyard telescope or a 1962 flyby could call the bluff.**
+**One line:** **CERN is buried under Geneva; Mars CERN is buried under lightning-scarred regolith on the other end of the discharge scar — and Mariner taught Earth to call the scar a dead planet.**
 
 **Tier:** **Author thesis** — **operational** **purpose** **not** **stated** in **CERN** **public** **charter**; **coherent** with **documented** **Mariner** **null** **result** + **documented** **CERN** **existence** + **portal** **quotes**.
 

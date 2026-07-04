@@ -1,6 +1,6 @@
 # Investigation: Barsoom as Pre-MFEE Mars — Mythic Memory Release
 
-> **TL;DR:** **Author thesis:** Edgar Rice Burroughs's **Barsoom** series (1912–1943) encodes a **pre–MudFlood Energetic Event (MFEE)** snapshot of Mars — **surface cities**, **canals**, **multi-species** civilizations, **polar forbidden zones**. We do **not** see that Mars today because the **energetic event destroyed** most of what Barsoom describes; what survived was **scarred**, **scrubbed** (~1918–1962), and **sealed** by **Mariner** (1962). Releasing Barsoom as **pulp fantasy** was **safe**: it would become **mythic memory** on Earth — like the **Russian Empire** became a **rejected mythical memory** in standard modern history. **Open:** how Martians teach their own children the event — **recent**, **a million years ago**, or **not at all**.
+> **TL;DR:** **Author thesis:** Edgar Rice Burroughs's **Barsoom** series (1912–1943) encodes a **pre–MudFlood Energetic Event (MFEE)** snapshot of Mars — **surface cities**, **canals**, **multi-species** civilizations, **polar forbidden zones**. We do **not** see that Mars today because the **energetic event destroyed** most of what Barsoom describes; what survived was **lightning-scarred**, not erased — **Mars CERN** was built **underneath** the wreckage, and **Mariner** (1962) sealed the **Dead Planet** public read. Releasing Barsoom as **pulp fantasy** was **safe**: it would become **mythic memory** on Earth — like the **Russian Empire** became a **rejected mythical memory** in standard modern history. **Open:** how Martians teach their own children the event — **recent**, **a million years ago**, or **not at all**.
 
 **Status:** Open — author synthesis; Burroughs source tier **literary / disclosure-gradient** ([mars-fiction-survey §V](/cosmos/mars/investigations/mars-fiction-survey.md)).
 
@@ -21,9 +21,9 @@
 
 **Layer B — MFEE destruction ([1774 Mars catastrophe](/timeline/evt-1774-ce-the-mars-catastrophe)):** The **MudFlood Energetic Event** devastates Mars — **cities** and **ecologies** that Barsoom describes are **mostly** among what was **destroyed**. Today's Mars reads as **scarred**, **species-reduced**, **canal-broken** — not because Barsoom was **pure invention**, but because the **event** removed the **variety** and **urban fabric** the novels preserve. Aligns with [Mars hub — MFEE / telepathic factions](/cosmos/mars/page.md) and [spore / ecological disaster investigation](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md).
 
-**Layer C — Dead Planet Protocol (~1890s–1962):** What **remained observable** from Earth (Lowell **canals**, opposition **lights**, melted-city **photography**) was **dismantled** before **Mariner** sealed **lifeless Mars** — [CERN dossier §3.5](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md), [Dead Planet timeline](/timeline/evt-mars-surface-dismantling-dead-planet-protocol). **Not** the same as Layer B — **institutional scrub** after **catastrophe**, not the catastrophe itself.
+**Layer C — Dead Planet Protocol (~1890s–1962):** What **remained observable** from Earth (Lowell **canals**, opposition **lights**, melted-city **photography**) was **dismantled** before **Mariner** sealed **lifeless Mars** — [CERN dossier §3.5](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md), [Dead Planet timeline](/timeline/evt-mars-surface-dismantling-dead-planet-protocol). **Not** the same as Layer B — **institutional concealment** after **catastrophe**, not the catastrophe itself. The **scarred regolith** was **left in place** as **decoy geology**; the gate went **underground**.
 
-**One line:** **Barsoom = memory of Mars before the scar; Mariner = memory hole after the scrub.**
+**One line:** **Barsoom = memory of Mars before the scar; Mariner = memory hole after Dead Planet seal.**
 
 ---
 
@@ -108,7 +108,7 @@
 | [Part A — Out of This Door](/science/cern_portal/out-of-this-door-might-come-something.md) | Reader essay — Dead Planet |
 | [Mars hub](/cosmos/mars/page.md) | MFEE, canals, CERN travel |
 | [1774 Mars catastrophe](/timeline/evt-1774-ce-the-mars-catastrophe) | MFEE chronology spine |
-| [Dead Planet Protocol](/timeline/evt-mars-surface-dismantling-dead-planet-protocol) | 1890s–1962 scrub |
+| [Dead Planet Protocol](/timeline/evt-mars-surface-dismantling-dead-planet-protocol) | 1890s–1962 concealment |
 
 Keywords: #Barsoom #Burroughs #Mars #MFEE #DeadPlanetProtocol #MythicMemory #RussianEmpire #ParadigmThreatFiles
 
