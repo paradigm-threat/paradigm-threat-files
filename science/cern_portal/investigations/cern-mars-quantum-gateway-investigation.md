@@ -680,9 +680,11 @@ Post-catastrophe factions **deferred blame** immediately. Survivor logic (author
 
 ### 11.5 No clean villain — species adolescence
 
-**No single assignable villain** closes the ledger. The arc is **species adolescence**: loss of **Golden Age** literacy, **Dark Ages** trauma carried forward, **psychological scars replayed** in **world-domination** drives until **portal-class hardware** matched the psychology. Mars and Earth read as **one continuum** on this model — scar, gate, cover, antibody war on the same timeline.
+**No single assignable villain** closes the ledger. Assigning one name — institution, planet, race — gives a **simple story** and hides the harder read: **Mars** and **Earth** both carry **MFEE** scars, **deferred blame**, **cover**, and **desperation** on one timeline ([§11.3–§11.4](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md)).
 
-**Reader essay:** [Part A — What happens next](/science/cern_portal/out-of-this-door-might-come-something.md#what-happens-next).
+The arc is **species adolescence**: loss of **Golden Age** literacy, **Dark Ages** trauma carried forward, **psychological scars replayed** in **world-domination** drives until **portal-class hardware** matched the psychology. The pattern **repeats until the stars** — same scars, same buried rings — until terrestrial peace is **stable enough** to **say Martians** without destroying the winning coalition.
+
+**Positive endpoint (author read):** **Peace on Earth carries peace with Mars** — not two wars, one bridge. When arbitrary war is bounded, the portal becomes **infrastructure**; kin on a **paired scar** rebuild what the **MFEE** broke. See [Part A — What happens next](/science/cern_portal/out-of-this-door-might-come-something.md#what-happens-next).
 
 **Claims added:**
 
