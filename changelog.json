@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-05T16:13:01.982Z",
+    "date": "2026-07-05T16:16:51.796Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
+        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/events/philadelphia/philadelphia_experiment.png",
+        "alt": "Philadelphia Experiment — events hub art"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-05T16:13:00.000Z",
+    "message": "Expand Philadelphia Part B to flagship article length.",
     "files": [
       {
         "status": "M",
@@ -8812,19 +8830,6 @@
         "status": "M",
         "path": "events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md",
         "href": "/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-03T15:15:00.000Z",
-    "message": "Re-master Alef call audio from OBS MKV source.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.m4a",
-        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet.m4a"
       }
     ],
     "images": []
