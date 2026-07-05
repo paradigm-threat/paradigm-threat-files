@@ -2,7 +2,7 @@
 
 ![*The Matrix* — “Not Like This” containment investigation (header)](matrix-not-like-this-containment-investigation.png)
 
-> **TL;DR:** Open dossier testing whether the *Matrix* franchise was **always or increasingly** a **containment vessel** for a **dual-layer “woke” readership** (Malcolm X lineage epistemics)—offering **awakening symbolism** while **neutralizing revolution** through team replacement, cast changes, MMO shutdown, and *Resurrections* nostalgia-trap grammar. ***The Matrix* (1999) end credits** — Rage Against the Machine’s **“Wake Up”** — carry **L1 accusations** (Vietnam/King, Malcolm X/Islam blame, COINTELPRO memo) the author reads as **NSA-camp surfacing of live psyops**, not decorative theme. **Reader essay:** [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) **(published 2026-06-14)**. Full evidence tiers, transcripts, and TODOs remain in this file.
+> **TL;DR:** Open dossier testing whether the *Matrix* franchise was **always or increasingly** a **containment vessel** for a **dual-layer “woke” readership** (Malcolm X lineage epistemics)—offering **awakening symbolism** while **neutralizing revolution** through team replacement, cast changes, MMO shutdown, and *Resurrections* nostalgia-trap grammar. ***The Matrix* (1999) end credits** — Rage Against the Machine’s **“Wake Up”** — carry **L1 accusations** (Vietnam/King, Malcolm X/Islam blame, COINTELPRO memo) the author reads as **NSA-camp surfacing of live psyops**, not decorative theme. **Rhymes *T2* (1991)** and ***ID4* (1996)** — **9/11 PP cluster** ([Thread N/O rhyme](#thread-n-rhyme--terminator-2-911-pp-and-tower-breach-grammar)). **Reader essay:** [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) **(published 2026-06-14)**. Full evidence tiers, transcripts, and TODOs remain in this file.
 
 **Date:** 2026-06-14  
 **Status:** Open investigation; **reader essay published** 2026-06-14.  
@@ -143,6 +143,22 @@ flowchart TB
 
 **Tier discipline:** L1 = date on screen + production timeline; L3 = PP / CO intent. Do **not** collapse in article without definition box.
 
+### Thread N rhyme — *Terminator 2*, *Independence Day*, 9/11 PP, and tower-breach grammar
+
+**Cross-dossier:** *T2* — [Hollywood two-camp war — Thread N](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship). *ID4* — [Thread O](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship).
+
+| Beat | Detail | Tier |
+|------|--------|------|
+| **Canal chase — 9′-11″ sign** | *T2* (1991) LA River chase: overpass **“CAUTION 9′-11″”** clearance; T-1000 **crashes abutment** after truck roof sheared — real bridge height **9 ft 11 in** ([MovieMistakes](https://www.moviemistakes.com/picture23924); [TerminatorFiles trivia](https://www.terminatorfiles.com/saga/t2/trivia.htm)) | L1 sign / crash; **L3** “caution 9/11” PP read |
+| ***ID4* — WTC shadow** | *ID4* (1996): **City Destroyer shadow creeps** over **NYC**; **Twin Towers** in skyline before destruction ([VFX HQ](http://www.vfxhq.com/1996/id4-a.html); [Wikipedia — WTC in film](https://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001))) | L1 VFX + WTC on screen; **L3** 9/11 PP read |
+| **Cyberdyne interior breach** | Team **enters Cyberdyne HQ**, **destroys from inside** to stop Skynet — **preemptive strike on the plan’s birthplace** | L1 |
+| ***Matrix* helicopter minigun** | Neo **blasts Morpheus’s office tower** open from helicopter — **1999 NSA-camp** set piece | L1 |
+| ***ID4* — Area 51 / host-body** | **Roswell** program revealed; alien **suit opened** → **smaller occupant** — mass-market **host-body** demo rhyming [wotw-martian-analysis](/cosmos/mars/investigations/wotw-martian-analysis.md) | L1 plot; **L3** declass + WotW rhyme |
+| **Author rhyme (L3)** | *T2* / *ID4* / *Matrix* (1991–1999) = **NSA-aligned 9/11 PP window** before contain handoff | L3 — not proof of direct influence |
+| ***T1* deleted scene** | Sarah: *“blow up the place… burn it down”* — **find Cyberdyne before Judgment Day**; cut from theatrical; expanded in *T2* ([Hope Of The Future script](https://www.hopeofthefuture.net/deletedscenes/t1del04.html)) | L1 dialogue; **L3–L4** forbidden **preemptive-building** reasoning |
+
+**Author read (L3):** *T2* (1991) and *ID4* (1996) are **prior flagship** NSA blockbusters — cyber-antibody and **unity/declass** respectively — in the **same 9/11 PP cluster** as *Matrix* (1999). ***Reloaded* onward** = **contain handoff** at franchise layer.
+
 ### NSA vs CIA two-camps parallel — **primary thesis (author, L3)**
 
 **Author position (2026-06-14, revised):** The **two-camp war** is the **primary reason** the *Matrix* containment arc happened. The fight is **visible in front of us**—through **movies**, **sequel tone**, **recasts**, **fan fracture**, **MMO kills**, **VFX vendor swaps**—implemented so subtly that each beat dismisses as Hollywood noise. **Stack the beats** and the **pattern is real**.
@@ -151,7 +167,7 @@ flowchart TB
 
 | Camp (repo frame) | *Matrix* franchise read (L3) | Repo cross-link |
 |-----------------|-------------------------------|-----------------|
-| **NSA / antibody / SIGINT audit** | ***The Matrix* (1999)** — red pill, operator-as-fan (Tank), passport **9/11 PP**, “there is no spoon” **individual** exit | [NSA investigation](/governance/war/investigations/nsa-investigation.md); [good-actor antibody](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
+| **NSA / antibody / SIGINT audit** | ***The Matrix* (1999)** — red pill, operator-as-fan (Tank), passport **9/11 PP**, “there is no spoon” **individual** exit; rhymes ***T2* (1991)** — [Thread N rhyme](#thread-n-rhyme--terminator-2-911-pp-and-tower-breach-grammar) | [NSA investigation](/governance/war/investigations/nsa-investigation.md); [Hollywood two-camp Thread N](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship) |
 | **CIA / containment / proxy sleep** | ***Reloaded* → *Revolutions* → MxO → *Resurrections*** — Oracle-as-control rejected then **recast/defanged**, Maddox corridor, Analyst nostalgia trap, peace **undone** | [CIA investigation](/governance/war/investigations/cia-investigation.md); [Ghost War — antibody phase](/influence/hollywood/ghost-war-the-antibody-phase.md) |
 
 **Tier:** Interagency **two-camps** thesis = **author L3** — not L1 proof Wachowskis coded NSA/CIA. **Use as the interpretive spine** linking Matrix containment to existing Paradigm **war/governance** dossiers. **Reader essay** ([*Not Like This*](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md)) leads with this frame.
@@ -905,7 +921,7 @@ Blockbuster exits normally **sanitize** — score reprise, radio single, emotion
 | *Animatrix* economic war | [great-awakening-alien-savior-rv-nwo-cluster-investigation.md §3.3.4](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) |
 | Chong documentary subtitles | Local: `Downloads/…The Marcus Chong Story…srt` |
 | NSA / CIA two-camps | [nsa-investigation.md](/governance/war/investigations/nsa-investigation.md) · [cia-investigation.md](/governance/war/investigations/cia-investigation.md) · [ghost-war-the-antibody-phase.md](/influence/hollywood/ghost-war-the-antibody-phase.md) |
-| China / Hong Kong two-camp war (*Dark Knight*, *Rush Hour*) | [everything-burns.md](/influence/hollywood/everything-burns.md) · [china-hollywood-two-camp-war-investigation.md](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md) |
+| China / Hong Kong two-camp war (*Dark Knight*, *Rush Hour*) | [everything-burns.md](/influence/hollywood/everything-burns.md) · [hollywood-two-camp-war-investigation.md](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) |
 | Gulf of Tonkin / Hanyok SIGINT | [nsa-investigation.md § III](/governance/war/investigations/nsa-investigation.md) · [good-actor § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | Holy-war / blame-Islam geometry | [good-actor § I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) · [1979 religious revival](/influence/religion/1979-religious-revival-investigation.md) |
 | “Networks at work” / deferral | [what-are-you-waiting-for.md](/influence/controlled_opposition/what-are-you-waiting-for.md) |

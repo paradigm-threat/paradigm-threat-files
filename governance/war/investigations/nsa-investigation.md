@@ -107,7 +107,7 @@ That line is the **investigation's thesis in miniature**: not a weapon for the *
 
 - [Predictive Programming hub — *Tron* (1982)](/influence/predictive_programming/page.md) — Jay Dyer lane; digital reality / programs as entities.
 - [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-antibody-phase.md) — NSA vs CIA–MI6 in fiction containment (*Ghost War* **never credits** NSA antibody success).
-- [**Everything Burns**](/influence/hollywood/everything-burns.md) — *Dark Knight* / Hong Kong finance antibody read; [China/Hollywood two-camp dossier](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md).
+- [**Everything Burns**](/influence/hollywood/everything-burns.md) — *Dark Knight* / Hong Kong finance antibody read; [Hollywood two-camp war dossier](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md).
 
 ---
 
@@ -119,7 +119,7 @@ That line is the **investigation's thesis in miniature**: not a weapon for the *
 | **Vietnam era** | MINARET scandal → **Church/FISA** reckoning | Covert war, Phoenix, media manipulation |
 | **Tonkin** | **Complicit then exposer** (Hanyok) | Casus belli consumer |
 | **Post-9/11** | WTC 7 decapitation thesis (**speculative**) | WTC 7 NY station; proxy-terror pipeline |
-| **Fiction rhyme** | ***Tron*** — watchdog MCP; ***The Dark Knight*** — Lau / “everything burns” | *Ghost War* — Starling proxy; MI6 whitewash |
+| **Fiction rhyme** | ***Tron*** — watchdog MCP; ***Terminator 2*** — stop Skynet / **no fate** / Cyberdyne breach / **9′-11″** PP; ***Independence Day* (1996)** — **WTC shadow** PP / **Area 51** declass / **host-body**; ***The Dark Knight*** — Lau / “everything burns”; ***The Matrix* (1999)** — passport PP / red pill | *Ghost War* — Starling proxy; MI6 whitewash; ***Matrix* sequels** — contain handoff |
 
 **Destroy the CIA** in this frame means **break autonomy, exposure, restructuring, SIGINT truth** — not literal liquidation.
 
@@ -137,6 +137,8 @@ That line is the **investigation's thesis in miniature**: not a weapon for the *
 | NSA as deliberate CIA antibody since 1952 | **Speculative** | Structural read |
 | 1980s NSA discovered CIA holy-war setup | **Author thesis, open** | Needs primary docs |
 | *Tron* (1982) encodes NSA watchdog role | **Author PP / allegory** | On-screen Bradley line; no production proof |
+| *Terminator 2* (1991) — Skynet audit, **no fate**, Cyberdyne preemptive strike, **9′-11″** sign | **Author PP / allegory** | [Hollywood two-camp Thread N](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship) |
+| *Independence Day* (1996 original) — **WTC shadow** PP, **Area 51** reveal, **host-body**, anti-secrecy | **Author PP / allegory** | [Hollywood two-camp Thread O](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) |
 | NSA "destroyed" CIA on 9/11 via WTC 7 | **Speculative** | [09-11 investigation](/events/false_flag/investigations/09-11-investigation.md) |
 
 ---

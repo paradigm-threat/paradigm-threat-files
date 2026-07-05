@@ -280,7 +280,7 @@ The narrator observed a Martian picking up humans — not killing them — and t
 
 ### The Independence Day Precedent
 
-In *Independence Day* (1996), the alien invaders appear to be tall, biomechanical creatures in exo-skeletal suits. When the bio-suit is opened, the **actual alien** is revealed inside — a smaller, more fragile being with a large cranium and oversized eyes. The host body is armor, life-support system, and interface unit in one. The occupant cannot survive without it.
+In *Independence Day* (1996), the alien invaders appear to be tall, biomechanical creatures in exo-skeletal suits. When the bio-suit is opened, the **actual alien** is revealed inside — a smaller, more fragile being with a large cranium and oversized eyes. The host body is armor, life-support system, and interface unit in one. The occupant cannot survive without it. Full blockbuster case study: [Hollywood two-camp war — Thread O (*ID4*)](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship).
 
 This concept — already noted in `paradigm-threat-files/cosmos/mars/page.md` — provides the key to resolving the central mystery of Wells's Martians: **what the witnesses saw was the host body, not the occupant.**
 
@@ -350,7 +350,7 @@ This is the host body concept rendered explicitly. Burroughs set it on Mars. The
 | *Fantastic Planet* (Laloux) | 1973 | Giant blue Draags keep tiny humans (Oms) as pets/vermin — the lowest caste. Draags learn via **telepathic headband devices** (no classrooms), meditate to project consciousness out of their bodies, and reproduce by merging disembodied consciousness with alien statues on a wild planet. The Draag body itself may be a host: their true existence is the projected consciousness, the giant blue form merely the vessel it inhabits between meditations. Encodes the full Martian caste system — giant ruling species, tiny enslaved humanoids, telepathic education technology, consciousness independent of the physical body |
 | *Dark Star* (Carpenter) | 1974 | Bomb AI develops consciousness inside a mechanical body; the intelligence is trapped inside the shell |
 | *Alien* (Scott) | 1979 | Xenomorph uses human hosts for gestation; the face-hugger/chest-burster cycle is parasitic host-body reproduction |
-| *Independence Day* (Emmerich) | 1996 | Alien bio-mechanical exo-suits conceal smaller occupant beings with large heads and eyes |
+| *Independence Day* (Emmerich) | 1996 | Alien bio-mechanical exo-suits conceal smaller occupant beings; **WTC shadow** / **Area 51** declass on-screen | [Hollywood Thread O](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) |
 | *Edge of Tomorrow* (Liman) | 2014 | Mimics: alien organisms controlling host bodies through a central intelligence (the Omega) |
 
 The pattern is consistent: across a century of Mars and alien fiction, the concept of **a smaller intelligence operating a larger biological or biomechanical body** recurs with remarkable persistence. Each iteration adds detail. None acknowledge the source.

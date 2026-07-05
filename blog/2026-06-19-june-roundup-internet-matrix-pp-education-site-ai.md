@@ -20,7 +20,7 @@ The hardware arc in **§II** compresses the [Quantum Leap (of faith)](https://pa
 
 **Not Like This** opens the **predictive-programming-in-movies** series. **Two camps** on screen: **NSA-aligned** grammar (SIGINT audit, red pill, see the code) vs **CIA-aligned** grammar (proxy sleep, controlled opposition). *The Matrix* (1999) briefly worked as wake-up — passport expiring **11 September 2001**, **RATM "Wake Up"** credits naming Tonkin-class lies — then ***Reloaded* onward** industrial containment: recasts, Oracle defanged, Maddox fracture, Square→ESC vendor swap, **MxO** kill, *Resurrections* nostalgia tombstone. Companion: [Matrix containment investigation](https://paradigmthreat.net/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation).
 
-**Everything Burns** is **Installment II** — same frame, **Pacific geography**: *The Dark Knight* Lau burned on Hong Kong-laundered cash (*"everything burns"*); Warner skipped mainland China; ***24*** China torture and proxy-terror beats; ***Joker* (2019)** as Ledger-message reset. Litmus test for this lane: does the story **prepare the audience for war with China**? Companion: [China/Hollywood two-camp war investigation](https://paradigmthreat.net/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation) — reorganized dossier with **24** as NSA-aligned TV case and speech catalogs extracted to celebrity file.
+**Everything Burns** is **Installment II** — same frame, **Pacific geography**: *The Dark Knight* Lau burned on Hong Kong-laundered cash (*"everything burns"*); Warner skipped mainland China; ***24*** China torture and proxy-terror beats; ***Joker* (2019)** as Ledger-message reset. Litmus test for this lane: does the story **prepare the audience for war with China**? Companion: [Hollywood two-camp war investigation](https://paradigmthreat.net/influence/hollywood/investigations/hollywood-two-camp-war-investigation) — reorganized dossier with **24** as NSA-aligned TV case and speech catalogs extracted to celebrity file.
 
 ---
 
@@ -34,7 +34,7 @@ The hardware arc in **§II** compresses the [Quantum Leap (of faith)](https://pa
 
 **2026-06-17 — Pacific PP.** Substack: [Everything Burns](https://paradigmthreat2.substack.com/p/everything-burns). On-site: [Everything Burns](https://paradigmthreat.net/influence/hollywood/everything-burns). **Installment II** — *Dark Knight* finance burn, *24* Day 2 triple bomb (corrected from erroneous Season 5 Sentox cite in draft pass), Hong Kong extraction, *Joker* 2019 reset. Author conclusion on whether the warnings **worked** as audience prep.
 
-![Everything Burns — The Dark Knight, Hong Kong finance, and the two-camp China/Hollywood war](https://paradigmthreat.net/influence/hollywood/everything-burns.png)
+![Everything Burns — The Dark Knight, Hong Kong finance, and the Hollywood two-camp war (Pacific lane)](https://paradigmthreat.net/influence/hollywood/everything-burns.png)
 
 **2026-06-19 — Computing flagship.** Substack: [The Internet That Should Have Been](https://paradigmthreat2.substack.com/p/the-internet-that-should-have-been). On-site: [The Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been). Subtitle: **Machine-Readable Web, Wrong Turns, and the AI Gate**. Hero art refreshed — split diptych: sealed **TV-channel** internet left, open **workshop** mesh right. Prior WebMCP dossier **renamed/merged** into the master investigation; stub at [webmcp-suppressed-protocol redirect](https://paradigmthreat.net/science/computing/investigations/webmcp-suppressed-protocol-ai-gatekeeper-investigation).
 
@@ -48,7 +48,7 @@ The hardware arc in **§II** compresses the [Quantum Leap (of faith)](https://pa
 
 ## paradigm-threat-files — new and expanded reader work
 
-The files repo carried the intellectual weight: computing flagship + master dossier, education series split, Matrix/Pacific PP pair with China/Hollywood casebook, article-writing guidelines, and investigation hygiene passes. Grouped by mode below.
+The files repo carried the intellectual weight: computing flagship + master dossier, education series split, Matrix/Pacific PP pair with Hollywood two-camp casebook, article-writing guidelines, and investigation hygiene passes. Grouped by mode below.
 
 ### Computing — internet flagship and WebMCP merge
 
@@ -69,7 +69,7 @@ The files repo carried the intellectual weight: computing flagship + master doss
 - [Not Like This](https://paradigmthreat.net/influence/controlled_opposition/not-like-this) — Matrix Installment I; hero art; YIFY dialogue fixes; Square Engine tribute; Wake Up credits expansion.
 - [Matrix containment investigation](https://paradigmthreat.net/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation) — Franchise containment doctrine, MxO shutdown, vendor swap receipts.
 - [Everything Burns](https://paradigmthreat.net/influence/hollywood/everything-burns) — Pacific Installment II; Rush Hour 2 trim; *Office* Joker tribute; author conclusion on audience prep.
-- [China/Hollywood two-camp war investigation](https://paradigmthreat.net/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation) — *Dark Knight* anchor thread; **24** NSA-aligned TV case; dossier reorganized; speech catalogs → celebrity file.
+- [Hollywood two-camp war investigation](https://paradigmthreat.net/influence/hollywood/investigations/hollywood-two-camp-war-investigation) — *Dark Knight* anchor thread; **24** NSA-aligned TV case; dossier reorganized; speech catalogs → celebrity file.
 
 ### Biology / chronology — investigation cross-links
 
@@ -121,7 +121,7 @@ Reader-visible: paradigmthreat.net can now offer in-browser AI chat and a WebMCP
 
 1. [The Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been) → [investigation dossier](https://paradigmthreat.net/science/computing/investigations/internet-that-should-have-been-investigation) → [Quantum Leap](https://paradigmthreat.net/science/computing/quantum-leap-of-faith) for hardware depth → [AI control investigation](https://paradigmthreat.net/science/ai/ai-control-investigation) for hijack endgame.
 2. [When your child won't fit the grade](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade) → [Responsibility to the Next Generation](https://paradigmthreat.net/history/chronology/responsibility-to-the-next-generation) → [childhood autism spectrum investigation](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation) for parent lanes.
-3. [Not Like This](https://paradigmthreat.net/influence/controlled_opposition/not-like-this) → [Matrix investigation](https://paradigmthreat.net/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation) → [Everything Burns](https://paradigmthreat.net/influence/hollywood/everything-burns) → [China/Hollywood investigation](https://paradigmthreat.net/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation) → [Ghost War](https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase) for live interagency antibody frame.
+3. [Not Like This](https://paradigmthreat.net/influence/controlled_opposition/not-like-this) → [Matrix investigation](https://paradigmthreat.net/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation) → [Everything Burns](https://paradigmthreat.net/influence/hollywood/everything-burns) → [Hollywood two-camp war investigation](https://paradigmthreat.net/influence/hollywood/investigations/hollywood-two-camp-war-investigation) → [Ghost War](https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase) for live interagency antibody frame.
 4. [Predictive programming hub](https://paradigmthreat.net/influence/predictive_programming/page) — series index for Installments I–II and calendar reads (Terminator § in internet essay rhymes here).
 
 ---

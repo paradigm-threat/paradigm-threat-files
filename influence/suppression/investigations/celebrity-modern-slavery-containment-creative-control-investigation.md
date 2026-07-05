@@ -917,7 +917,7 @@ Nearly **every celebrity documentary** — **authorized biopic**, **streaming se
 
 ## Hollywood celebrity speech containment — De Niro archetype + catalogs
 
-**Status:** **Canonical home** (extracted from [China/Hollywood two-camp dossier Thread J bridge](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md#thread-j--celebrity-speech-containment-bridge--suppression-dossier), **2026-06-17**). **Two-camp calendar tie-in** (*2019 Joker* + De Niro deployment) stays summarized in [China dossier Thread I](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019) and [Everything Burns](/influence/hollywood/everything-burns.md).
+**Status:** **Canonical home** (extracted from [Hollywood two-camp war dossier Thread J bridge](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-j--celebrity-speech-containment-bridge--suppression-dossier), **2026-06-17**). **Two-camp calendar tie-in** (*2019 Joker* + De Niro deployment) stays summarized in [Hollywood two-camp dossier Thread I](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019) and [Everything Burns](/influence/hollywood/everything-burns.md).
 
 ### Author thesis (session capture)
 
@@ -934,7 +934,7 @@ Nearly **every celebrity documentary** — **authorized biopic**, **streaming se
 | **1 — Trouble for wrong speech** | Tribeca lists then **pulls** *Vaxxed*; De Niro cites **autistic child**, wanted “conversation” | L1 — [NBC](https://www.nbcnews.com/health/health-news/de-niro-s-tribeca-festival-yanks-anti-vaccination-film-n546161) |
 | **2 — Mitigation / redeployment** | **~4.5 months** → Sarajevo **“totally nuts”**; then **2018** Tonys, **2024** courthouse, **2026** First Amendment rally | L1 events; L3–L4 **ordered** read |
 
-Full De Niro deployment table (2016–2026): [China dossier Thread I § Robert De Niro](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md#robert-de-niro--vaxxed--trump-timeline-l1-backlash-l4-causality).
+Full De Niro deployment table (2016–2026): [Hollywood two-camp dossier Thread I § Robert De Niro](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#robert-de-niro--vaxxed--trump-timeline-l1-backlash-l4-causality).
 
 **Discipline:** Beat 2 events are **documented**. **“Ordered to attack”** is **author causality (L4)** — debunkers will cite De Niro’s prior Democratic politics; hold both.
 
@@ -1015,7 +1015,7 @@ Author read: Freeman **speaks** where most stars **stay silent** — because mes
 
 ### Tie-in to two-camp war (L3)
 
-The **2019** *Joker* is **CIA/MI6 camp** not only for **victim-blame** narrative but for **celebrity puppeteering on screen and off**: Phoenix (**Murray Franklin** victim arc) + De Niro (**Murray Franklin** actor + **post-Vaxxed** anti-Trump deployment) = contain-camp **psyop stack** — fiction, press cycle, and **ordered speech** rhyming on the same calendar. **Narrative side:** [China dossier Thread I](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019).
+The **2019** *Joker* is **CIA/MI6 camp** not only for **victim-blame** narrative but for **celebrity puppeteering on screen and off**: Phoenix (**Murray Franklin** victim arc) + De Niro (**Murray Franklin** actor + **post-Vaxxed** anti-Trump deployment) = contain-camp **psyop stack** — fiction, press cycle, and **ordered speech** rhyming on the same calendar. **Narrative side:** [Hollywood two-camp dossier Thread I](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019).
 
 ---
 
@@ -1281,7 +1281,7 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 | Topic                                        | Link                                                                                                                                                                                          |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Trump-era Hollywood / PP**                 | [trump-era-hollywood-political-media-investigation](/influence/hollywood/trump-era-hollywood-political-media-investigation.md)                                                                |
-| **China/Hollywood — *Dark Knight* / *Joker* two-camp + speech bridge** | [Everything Burns](/influence/hollywood/everything-burns.md); [two-camp dossier Thread I + J bridge](/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.md); **§ Hollywood speech containment** (this file) |
+| **Hollywood two-camp war — *Dark Knight* / *Joker* two-camp + speech bridge** | [Everything Burns](/influence/hollywood/everything-burns.md); [two-camp dossier Thread I + J bridge](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md); **§ Hollywood speech containment** (this file) |
 | **Predictive programming hub**               | [PP page](/influence/predictive_programming/page.md)                                                                                                                                          |
 | **Media blackmail / controlled candidacies** | [Cruz / Kevin Malone thesis](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#the-national-security-thesis-media-blackmail-and-controlled-candidacies) |
 | **High poppy / institutional ouster**        | [canceling-the-high-poppy](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md)                                                             |

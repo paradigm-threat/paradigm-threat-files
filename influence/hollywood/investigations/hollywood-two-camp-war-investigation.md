@@ -1,8 +1,8 @@
-# Investigation: China / Hollywood — two-camp war, Hong Kong, and the “everything burns” read (*The Dark Knight*, Rush Hour, US–China war fiction)
+# Investigation: Hollywood two-camp war — media catalog (Pacific lane: war-prep litmus)
 
-![China / Hollywood two-camp war — investigation cover](china-hollywood-two-camp-war-investigation.png)
+![Hollywood two-camp war — investigation cover](hollywood-two-camp-war-investigation.png)
 
-> **TL;DR:** Open dossier testing whether **NSA-aligned** vs **CIA/MI6-aligned** grammar in **China/Hong Kong** blockbuster media sorts by **one litmus test:** does the narrative **prepare the audience for war with China**? **Depth and complexity are not camp indicators** — shallow buddy-cop (*Rush Hour*) can be NSA-side if war-prep is **low**. **Thread M:** stolen-memory / **Yuanmingyuan** artifact plots (Jackie Chan *Chinese Zodiac*), **Taiwan + chip sovereignty** war-trigger geometry. **Censorship lists do not reliably sort camps.** **Thread K — *24*:** China captivity, proxy terror, nuclear deterrent, **Day 2 CTU triple bomb**. **Thread I:** *Joker* lineage (2019 undo). **Celebrity speech catalogs** → [celebrity modern slavery § Hollywood speech containment](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#hollywood-celebrity-speech-containment--deniro-archetype--catalogs). **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md).
+> **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: does the narrative **prepare the audience for war with China**? **Cyber / NWO / unity lane** litmus: **agency vs predestination**, **declassification**, **common-foe alignment**? **Thread N — *T2* (1991):** cyber-antibody flagship (**9′-11″** sign, Cyberdyne, **no fate**). **Thread O — *Independence Day* (1996, original only):** **locust** strip-miners; **WTC shadow** 9/11 PP; **Area 51** on-screen; **Nimziki** secrecy → mass death; **host-body** rhyme to *War of the Worlds*; deleted Whitmore **compromise** quote. **Thread M:** Yuanmingyuan / Taiwan. **Thread K — *24*.** **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md).
 
 **Date:** 2026-06-17  
 **Status:** Open investigation; **reader essay published** 2026-06-17.  
@@ -24,34 +24,44 @@
 **Part II — NSA camp case studies**
 
 7. [Thread B — *The Dark Knight* (anchor case study)](#thread-b--the-dark-knight-anchor-case-study)
-8. [Thread C — *Rush Hour* franchise (1998–2001)](#thread-c--rush-hour-franchise-19982001)
-9. [Thread M — Stolen memory: Jackie Chan artifacts, Taiwan, tech trigger](#thread-m--stolen-memory-jackie-chan-artifacts-taiwan-tech-trigger)
-10. [Thread K — *24* (TV, 2001–2010): China torture, proxy terror, CTU destruction](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction)
+8. [Thread N — *Terminator 2: Judgment Day* (1991): cyber-antibody flagship](#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship)
+9. [Thread O — *Independence Day* (1996, original): unity-lane NSA flagship](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship)
+10. [Thread C — *Rush Hour* franchise (1998–2001)](#thread-c--rush-hour-franchise-19982001)
+11. [Thread M — Stolen memory: Jackie Chan artifacts, Taiwan, tech trigger](#thread-m--stolen-memory-jackie-chan-artifacts-taiwan-tech-trigger)
+12. [Thread K — *24* (TV, 2001–2010): China torture, proxy terror, CTU destruction](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction)
 
 **Part III — Containment and calendar**
 
-11. [Thread G — One-off masterpiece / franchise containment](#thread-g--one-off-masterpiece--franchise-containment)
-12. [Thread H — Obama / 2008 / Libya 2011 (author speculative chain)](#thread-h--obama--2008--libya-2011-author-speculative-chain)
-13. [Thread I — Joker lineage: Ledger resistance vs Phoenix containment (2019)](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019)
-14. [Thread J — Celebrity speech containment (bridge → suppression dossier)](#thread-j--celebrity-speech-containment-bridge--suppression-dossier)
+12. [Thread G — One-off masterpiece / franchise containment](#thread-g--one-off-masterpiece--franchise-containment)
+13. [Thread H — Obama / 2008 / Libya 2011 (author speculative chain)](#thread-h--obama--2008--libya-2011-author-speculative-chain)
+14. [Thread I — Joker lineage: Ledger resistance vs Phoenix containment (2019)](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019)
+15. [Thread J — Celebrity speech containment (bridge → suppression dossier)](#thread-j--celebrity-speech-containment-bridge--suppression-dossier)
 
 **Part IV — Author conclusion**
 
-15. [Author's conclusion — subconscious retention, debt scenario, PP success metric](#authors-conclusion--subconscious-retention-debt-scenario-pp-success-metric)
-16. [Thread L — *The Office* “China” (S07E10): conversation beats fear](#thread-l--the-office-china-s07e10-conversation-beats-fear)
+16. [Author's conclusion — subconscious retention, debt scenario, PP success metric](#authors-conclusion--subconscious-retention-debt-scenario-pp-success-metric)
+17. [Thread L — *The Office* “China” (S07E10): conversation beats fear](#thread-l--the-office-china-s07e10-conversation-beats-fear)
 
 **Closing**
 
-17. [Questions to clarify, verify, or debunk](#questions-to-clarify-verify-or-debunk)
-18. [Weak points / research TODOs](#weak-points--research-todos)
-19. [Related investigations](#related-investigations)
-20. [Limits and disclaimers](#limits-and-disclaimers)
+18. [Questions to clarify, verify, or debunk](#questions-to-clarify-verify-or-debunk)
+19. [Weak points / research TODOs](#weak-points--research-todos)
+20. [Related investigations](#related-investigations)
+21. [Limits and disclaimers](#limits-and-disclaimers)
 
 ---
 
 ## Thread A — Definitions and litmus test
 
-This investigation extends the **two-camp interagency war** frame documented in [**Not Like This**](/influence/controlled_opposition/not-like-this.md), [**Ghost War: The Antibody Phase**](/influence/hollywood/ghost-war-the-antibody-phase.md), and the [good-actor antibody synthesis](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) to **China / Hong Kong** mass media.
+This investigation extends the **two-camp interagency war** frame documented in [**Not Like This**](/influence/controlled_opposition/not-like-this.md), [**Ghost War: The Antibody Phase**](/influence/hollywood/ghost-war-the-antibody-phase.md), and the [good-actor antibody synthesis](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) into a **Hollywood media catalog**. **Litmus tests vary by lane** — not one geography:
+
+| Lane | Litmus (author) | Example titles |
+|------|-----------------|----------------|
+| **Pacific** (Installment II) | Does the work **prepare the audience for war with China**? | *Dark Knight*, *Rush Hour*, *24* — [Thread D Pacific table](#thread-d--media-catalog-film--tv-working-tables) |
+| **Cyber / NWO** (Installment I rhymes) | Does the work **sell a fixed dystopian future** inside **“the plan”**, or **agency** — audit, preemptive strike, **chart unknown paths**? | ***Terminator 2*** (1991), ***The Matrix*** (1999) — [Thread N](#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship); [Matrix dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) |
+| **Unity / declass** (1990s antibody window) | Does the work **unite former enemies against a common foe**, **surface hidden programs** (Area 51), and **punish compartmentalized secrecy** — **without** holy-war predestination? | ***Independence Day*** (1996, **original only**) — [Thread O](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) |
+
+**Pacific lane — camp table (v1 seed):**
 
 | Camp (author label) | Narrative grammar | China / Asia portrayal | War-prep signal | Example titles (v1 seed) |
 |---------------------|-------------------|------------------------|-----------------|--------------------------|
@@ -115,6 +125,97 @@ Warner Bros. **opted not to pursue a theatrical release** in mainland China, cit
 | **NSA antibody message** — Hong Kong finance pipeline exposed; Joker **defeats Gordon’s testimony plan** by harvesting Lau’s intelligence then destroying the witness; “everything burns” as warning to **globalist** money architecture | L3 | Pairs with [NSA investigation](/governance/war/investigations/nsa-investigation.md) audit lane; **low war-prep** |
 | **Audience amnesia** — viewers remember the Joker, not **Asian banker on fire** | L3 | Reception pattern; not yet surveyed academically |
 | **2008 release → Obama election → 2011 Libya “what burns”** | L4 | See [Thread H](#thread-h--obama--2008--libya-2011-author-speculative-chain) |
+
+---
+
+## Thread N — *Terminator 2: Judgment Day* (1991): cyber-antibody flagship
+
+**Author thesis (verbatim capture):** ***Terminator 2: Judgment Day*** (1991) is a **major NSA-aligned** blockbuster on the **cyber / NWO lane** — not Pacific war-prep. The plot **stops a virus-born new world order** (Skynet), **breaks “the plan”** of a fixed dystopian future, and insists **“there is no fate but what we make for ourselves”** — agency over **CIA–MI6 slow-burn holy-war predestination** (predictable dystopia, populations asleep inside a script they never consented to). **Truth-tellers and fighters for humanity** land in **psychiatric custody** while **corporations lie to their own employees** about secret weapons R&D. A **canal-chase overpass** carries a **9′-11″** clearance sign — widely read as **9/11 predictive programming** (*“caution 9/11”*). **Cyberdyne** is breached and **destroyed from the inside** — a beat **mirrored** in ***The Matrix* (1999)** when Neo **tears an office tower open** with a **helicopter minigun** (NSA-camp wake-up grammar in the later franchise). A **deleted *Terminator* (1984)** scene had Sarah Connor propose **finding Cyberdyne and blowing it up before Judgment Day** — **preemptive strike** reasoning **rarely allowed** in mass media; on this read it may have been **redacted** because it rhymes with **forbidden logic**: *don’t wait for the holy war — go find the building and stop the plan.*
+
+### Plot beats (L1)
+
+| Beat | Detail | Tier |
+|------|--------|------|
+| **Skynet / Judgment Day** | Military **AI virus** becomes self-aware; nuclear **Judgment Day**; future war against machines | L1 — [Wikipedia — *T2*](https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day) |
+| **“No fate”** | Sarah carves ***“No fate but what we make for ourselves”*** (from Kyle’s message); John repeats it; team acts to **change the timeline** | L1 — same; [Wikiquote — *T2*](https://en.wikiquote.org/wiki/Terminator_2:_Judgment_Day) |
+| **Sarah institutionalized** | Sarah held at **Pescadero State Hospital**; psychiatrists treat her **Skynet warnings** as psychosis | L1 |
+| **Miles Dyson / Cyberdyne** | Dyson leads **secret Skynet precursor** work; **employees** do not grasp full scope; Sarah nearly kills him, then team **targets the lab** | L1 |
+| **Cyberdyne interior destruction** | Team enters **Cyberdyne building**; **explosives and gunfire from inside**; facility **destroyed** to prevent Skynet birth | L1 |
+| **Canal chase — 9′-11″ sign** | During LA River chase, overpass shows **“CAUTION 9′-11″”** (nine feet eleven inches clearance); truck roof **sheared**; T-1000 **crashes into abutment** | L1 — [MovieMistakes still](https://www.moviemistakes.com/picture23924); [TerminatorFiles trivia](https://www.terminatorfiles.com/saga/t2/trivia.htm); production used real **9′-11″** bridge height |
+| ***The Matrix* (1999) rhyme** | Neo fires **minigun from helicopter** into **Morpheus’s office tower**, **blasting floors open from above** — later **NSA-camp** blockbuster | L1 — [Matrix dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md#thread-n-rhyme--terminator-2-911-pp-and-tower-breach-grammar) |
+
+### *Terminator* (1984) — deleted Cyberdyne preemptive-strike scene (L1)
+
+| Beat | Detail | Source | Tier |
+|------|--------|--------|------|
+| **Sarah discovers Cyberdyne** | Deleted beat: Sarah learns **Cyberdyne Systems** will build Skynet | [SciFiMovieZone — *T1* trivia](https://scifimoviezone.com/terminator8403.shtml); [Screen Rant — deleted scenes](https://screenrant.com/terminator-arm-deleted-scene-judgment-day-sequel-worse/) | L1 |
+| **“Blow up the place”** | Sarah to Reese: *“We’ll blow up the place… burn it down. Something.”* — **prevent the war** themselves | [Hope Of The Future — deleted script](https://www.hopeofthefuture.net/deletedscenes/t1del04.html) | L1 |
+| **Reese refuses** | *“That’s not my mission”* — **protect Sarah**, not **change the future** | Same | L1 |
+| **Cut from theatrical** | Cameron removed scene (pacing; weak forced cast in factory ending); **expanded into *T2*** at “much larger scale” | [TheTerminatorFans — Cameron quote](https://www.theterminatorfans.com/the-terminator-the-reason-james-cameron-deleted-cyberdyne-systems-scene/) | L1 |
+| **408 area code relic** | Sarah gives **408** (San Jose / Silicon Valley) for motel — script remnant of **Cyberdyne raid** plot | SciFiMovieZone | L1 |
+
+### Author reads (L3–L4)
+
+| Read | Tier | Notes |
+|------|------|-------|
+| **NSA cyber-antibody** — stop **Skynet NWO**, **audit secret tech**, **destroy birthplace of the plan** before Judgment Day | L3 | Pairs with [CIA investigation](/governance/war/investigations/cia-investigation.md) **slow-burn** lane; [good-actor § predestination](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
+| **9′-11″ sign as 9/11 PP** — *“CAUTION 9′-11″”* read as **caution 9/11**; T-1000 **crashes the abutment** during chase | L3 | Sign dimensions **documented** (L1); **date encoding** = author PP read — same cluster as Neo passport ([Matrix dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md)) |
+| **Tower breach grammar → *Matrix*** — **high-rise opened by violence from inside / through** before **1999 helicopter minigun** set piece | L3 | Visual rhyme, not proof Cameron influenced Wachowskis |
+| **Asylum = dissent containment** — Sarah’s **accurate warnings** framed as **madness** | L3 | Rhymes celebrity / whistleblower **psychiatric** lane |
+| **Corporate compartmentalization** — Dyson’s team **reproduces Skynet tech in secret** while **lying to staff** | L3 | Audit / SIGINT “see the real pipeline” grammar |
+| **T1 deleted scene — forbidden preemptive strike** — *find the building, blow it up, don’t wait for Judgment Day* | L3–L4 | Author read: mass media **rarely** sells **preemptive destruction of the war machine’s birthplace**; cut scene may have been **too close** to **9/11-building** justification logic (*stop the plan before the holy war*) — **thematic only**; **not** claim Cameron or editors knew 2001 |
+| **“No fate” vs holy-war predestination** | L3 | **Agency** and **unknown futures** vs **CIA-camp** predictable **proxy-war dystopia** |
+
+**Camp label (author):** ***T2* = NSA-aligned (cyber lane)** — **high-confidence** on this taxonomy. ***T3* onward** and later franchise resets are **out of scope** for v1 (contain-camp sequel drift — TODO).
+
+Cross-read [**Not Like This § *T2* rhyme**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md); [Matrix dossier — Thread N rhyme](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md#thread-n-rhyme--terminator-2-911-pp-and-tower-breach-grammar).
+
+---
+
+## Thread O — *Independence Day* (1996, original): unity-lane NSA flagship
+
+**Scope:** ***Independence Day*** (1996 theatrical / extended cut only). ***Independence Day: Resurgence*** (2016) and franchise extensions are **out of scope** — treated as later contain-camp drift (TODO).
+
+**Author thesis (verbatim capture):** The **original *Independence Day*** (1996) is a **major NSA-aligned** blockbuster on the **unity / declassification lane** — a **bright shining moment** when **modern enemies align** to fight a **common foe** (humanity vs **locust-like** strip-miners). The invaders are an **advanced alien locust civilization** — planet to planet, **consume every natural resource**, **move on** — not a slow-burn **CIA holy-war** script. The film is **pro-American** and treats **America as world leader** with **no commentary on the past** (no imperial audit, no Vietnam guilt beat). It carries a **clear 9/11 predictor**: over **New York**, a **City Destroyer’s shadow creeps slowly** across the skyline — **Twin Towers** visible as the **alien ship** takes position ([VFX HQ — destroyer shadows](http://www.vfxhq.com/1996/id4-a.html); [LATimes — shadow as signature image](https://www.latimes.com/archives/la-xpm-1996-07-02-ca-20348-story.html); [Wikipedia — WTC in *ID4*](https://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001))). It **shows Area 51 to the world** — **Roswell crash**, recovered ship, alien corpses — i.e. **declassification agenda** on-screen. It **demonstrates host-body theory**: biomechanical **suit** opened at Area 51 reveals a **smaller occupant** inside — the same grammar the repo applies to ***War of the Worlds*** Martians ([wotw-martian-analysis § Host Body](/cosmos/mars/investigations/wotw-martian-analysis.md)). **One man keeping secrets from the president kills millions**: **Secretary of Defense Nimziki** knew of **Area 51** and alien tech since **1947** but withheld it for **“plausible deniability”** until after the **failed global counterattack** ([Wikipedia — *ID4*](https://en.wikipedia.org/wiki/Independence_Day_(1996_film)); [ID4 wiki — War of 1996](https://independenceday.fandom.com/wiki/War_of_1996)). A **deleted / extended scene** has President Whitmore argue that **compromise is tolerable when progress is real**: *“It’s a fine line between standing behind a principle and hiding behind one. You can tolerate a little compromise if you’re actually managing to get something accomplished.”* ([Movie-Censorship extended cut](https://www.movie-censorship.com/report.php?ID=587558); [Clip.Cafe](https://clip.cafe/independence-day-1996/its-a-fine-line-between-standing-behind-a-principle-and-hiding-behind-one/)).
+
+### Plot beats (L1)
+
+| Beat | Detail | Tier |
+|------|--------|------|
+| **Locust civilization** | Whitmore after psychic link: *“They’re like locusts. They’re moving from planet to planet… After they’ve consumed every natural resource, they move on.”* | L1 — [FilmSite synopsis](https://www.filmsite.org/independenceday.html); script |
+| **City Destroyer shadows** | **15-mile-wide** ships **cast creeping shadows** over capitals before attack — signature VFX beat | L1 — [VFX HQ](http://www.vfxhq.com/1996/id4-a.html) |
+| **New York / WTC** | Destroyer over **NYC**; **Twin Towers** in skyline (novelization notes towers **relatively intact** vs other landmarks — ironic vs real 2001) | L1 — [ID4 fandom — NYC](https://independenceday.fandom.com/wiki/New_York_City); Wikipedia WTC in film |
+| **Area 51 reveal** | Nimziki forced to admit **UFO program since Roswell**; **refurbished alien fighter**, **three corpses**; *“Welcome to Area 51”* | L1 — Wikipedia; script |
+| **Host body / occupant** | Captured alien in **bio-mechanical suit**; when opened, **smaller fragile being** inside (large cranium, eyes) | L1 — film |
+| **Nimziki secrecy cost** | Knew of **Area 51** + tech; **did not inform president** before first strike → **counterattack fails** against shields; **millions dead** | L1 — Wikipedia; ID4 wiki |
+| **Global unity finale** | **July 4** coordinated strike; **foreign squadrons** join; Whitmore **“Independence Day”** speech — **common survival** over **petty differences** | L1 |
+| **Nimziki fired** | President **dismisses** SecDef after victory — **secrecy faction punished** on-screen | L1 |
+
+### Deleted / extended — Whitmore on compromise (L1)
+
+| Line | Context | Source |
+|------|---------|--------|
+| *“It’s a fine line between standing behind a principle and hiding behind one.”* | Whitmore to **Constance Spano** in **extended EV scene** (~6:33) | [Movie-Censorship](https://www.movie-censorship.com/report.php?ID=587558) |
+| *“You can tolerate a little compromise if you’re actually managing to get something accomplished.”* | Same scene — **cost of progress** vs **principle-as-excuse** | Same; [Clip.Cafe transcript](https://clip.cafe/independence-day-1996/its-a-fine-line-between-standing-behind-a-principle-and-hiding-behind-one/) |
+| *“That’s… that’s accomplishing something.”* | Punchline after **“10 sexiest men”** poll — **light beat before SecDef call** | Same |
+
+**Discipline:** Extended cut is **L1 dialogue**; author read that it **normalizes compromise-as-progress** (Nimziki’s lane) **beside** the film’s **anti-secrecy** moral is **L3** — tension, not contradiction proof.
+
+### Author reads (L3–L4)
+
+| Read | Tier | Notes |
+|------|------|-------|
+| **NSA unity-lane antibody** — **common foe** unites **US + world**; **America leads** without **holy-war predestination** | L3 | Contrast [CIA investigation](/governance/war/investigations/cia-investigation.md) **slow-burn** / proxy lane |
+| **Pro-American brightness** — **no imperial past audit**; **competence fantasy** as **1996** morale | L3 | Reception: [LATimes](https://www.latimes.com/archives/la-xpm-1996-07-02-ca-20348-story.html) “adolescent charm” |
+| **WTC slow shadow = 9/11 PP** — **twin towers** under **creeping destroyer shadow** before fire | L3 | **Five years before** 9/11; WTC **on screen** documented (L1); **intent** unproven |
+| **Area 51 = declassification PP** — **Roswell**, **reverse-engineering**, **hidden fleet** shown to mass audience | L3 | Rhymes [NSA investigation](/governance/war/investigations/nsa-investigation.md) **audit / forced disclosure** |
+| **Host-body demo** — **suit / occupant** split = ***War of the Worlds*** Martian grammar for mass culture | L3 | [wotw-martian-analysis § Host Body](/cosmos/mars/investigations/wotw-martian-analysis.md); [wotw-martian-civilization § Worker caste](/cosmos/mars/investigations/wotw-martian-civilization.md) |
+| **Nimziki = compartmentalization kills** — **one official’s secrets from president** → **preventable megadeath** | L3 | Thematic rhyme to **SIGINT withheld from audit** — not literal NSA claim |
+| **Deleted compromise quote** — **progress tolerates compromise** vs Whitmore’s **anti-secrecy** arc | L3 | Cut from theatrical; **extended/TV** only |
+
+**Camp label (author):** ***Independence Day* (1996 original) = NSA-aligned (unity / declass lane)** — **high-confidence**. Sequels / reboot grammar **not** counted.
+
+Cross-read [**Not Like This § *ID4***](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md); [Matrix dossier — 9/11 PP cluster](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md#thread-n-rhyme--terminator-2-911-pp-and-tower-breach-grammar).
 
 ---
 
@@ -229,6 +330,19 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 | ***Joker*** (Phillips) | 2019 | Arthur Fleck victim narrative; protest “clowns” | CIA/MI6 | Low (war) / **high (counter-msg)** | Released | [Thread I](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019) |
 
 **TODO rows:** *Seven* (no China axis); *Arbitrage* (verify); *Tomorrow Never Dies* (HK banker?); *Blood Diamond* (wrong theater); 2012–2020 appeasement-era catalog expansion.
+
+### Cyber / NWO lane catalog (working table)
+
+**Legend:** Agency vs predestination — does the title **sell a fixed dystopian plan** or **exit / preemptive strike / “no fate”**? Camp = author label (L3).
+
+| Title | Year | Lane signal | Camp (author) | Notes |
+|-------|------|-------------|---------------|-------|
+| ***Terminator 2: Judgment Day*** | 1991 | Stop Skynet; **no fate**; destroy Cyberdyne; asylum truth-teller; **9′-11″** sign | **NSA** | **Flagship** — [Thread N](#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship) |
+| ***Independence Day*** | 1996 | **Locust** strip-miners; **WTC shadow** PP; **Area 51** reveal; **host-body**; anti-secrecy | **NSA** | **Original only** — [Thread O](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) |
+| ***The Matrix*** | 1999 | Red pill; passport **9/11** PP; **Wake Up** credits | **NSA** | Installment I — [Matrix dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) |
+| ***The Matrix Reloaded* → *Resurrections*** | 2003–2021 | Oracle-as-control contained; nostalgia reset | **CIA** | Contain handoff — same dossier |
+
+**TODO rows:** *Tron* (1982); *WarGames* (1983); later ***Terminator*** sequels / TV (contain drift).
 
 ### TV catalog (working table)
 
@@ -428,7 +542,7 @@ Author thesis: control over De Niro **did not end** in 2016 — he remained a **
 
 > **Canonical home (2026-06-17 extraction):** De Niro **two-beat** archetype, asymmetry table, and working catalogs (medical dissent, pro-Trump, geopolitical heresy, ordered establishment speech) live in [**Celebrity modern slavery § Hollywood celebrity speech containment**](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#hollywood-celebrity-speech-containment--deniro-archetype--catalogs). **Do not duplicate** catalog rows here.
 
-**Why a bridge remains in this file:** The **2019** *Joker* stack ([Thread I](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019)) pairs **contain-camp narrative** (Phoenix victim Joker) with **contain-camp celebrity deployment** (De Niro as **Murray Franklin** + **post-Vaxxed** anti-Trump lane) on one calendar. That **two-camp war rhyme** belongs in the China/Hollywood taxonomy; **ownership, blacklist, and Beat-2 search mechanics** belong in the **suppression** lane.
+**Why a bridge remains in this file:** The **2019** *Joker* stack ([Thread I](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019)) pairs **contain-camp narrative** (Phoenix victim Joker) with **contain-camp celebrity deployment** (De Niro as **Murray Franklin** + **post-Vaxxed** anti-Trump lane) on one calendar. That **two-camp war rhyme** belongs in the **Hollywood two-camp taxonomy**; **ownership, blacklist, and Beat-2 search mechanics** belong in the **suppression** lane.
 
 | Topic | Here (Thread I summary) | Canonical dossier |
 |-------|-------------------------|-------------------|
@@ -604,6 +718,11 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 | Q15 | **CZ12** — does repatriation plot function as **NSA healing** or **grievance priming** for strait crisis? | Audience studies; PRC release reception |
 | Q16 | **Jackie Chan** filmography — how many titles beyond CZ12 center **Western theft of Chinese artifacts**? | Title-by-title plot review |
 | Q17 | **Taiwan + TSMC** in fiction/games 2000–2025 — war-prep catalog vs news cycle | Thread E extension; policy papers |
+| Q18 | ***T2* 9′-11″ sign** — Cameron / production **intent** vs location accident; frame-by-frame still archive | Director commentary; ADR logs |
+| Q19 | ***T1* deleted Cyberdyne raid** — full script draft vs released DVD deleted scene; why cut beyond Cameron’s forced-cast excuse | Production archives |
+| Q20 | ***Matrix* helicopter vs *T2* Cyberdyne** — documented VFX / storyboard influence or independent convergence | Wachowski interviews; Cameron cross-credits |
+| Q21 | ***ID4* NYC approach** — frame-accurate **WTC + shadow** stills vs author 9/11 PP read | Blu-ray chapter marks; VFX HQ stills |
+| Q22 | ***ID4* extended Whitmore compromise scene** — theatrical-cut rationale; tie to Nimziki **compromise faction** read | Emmerich/Devlin commentary |
 
 ---
 
@@ -615,8 +734,8 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 - [ ] Add academic sources on Hollywood–China co-production (e.g. US-China Today, Peter Navarro-era trade rhetoric)
 - [x] Verify *Red Corner* row with L1 plot cites ([Wikipedia](https://en.wikipedia.org/wiki/Red_Corner))
 - [ ] Survey Jackie Chan / martial-arts fan reviews on *Rush Hour 2* gender angle (Zhang Ziyi exception)
-- [ ] Map *Battlefield* / *CoD* China missions to release dates vs news cycles
-- [x] Hero PNG for dossier (`china-hollywood-two-camp-war-investigation.png`)
+- [ ] ***ID4* Thread O:** WTC shadow frame archive (Q21); extended-cut Whitmore quote primary (Q22)
+- [x] Hero PNG for dossier (`hollywood-two-camp-war-investigation.png`; renamed from `china-hollywood-*` 2026-06-14)
 
 ---
 
@@ -625,7 +744,8 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 | Investigation | Link | Rhyme |
 |---------------|------|-------|
 | **Everything Burns** (reader essay) | [/influence/hollywood/everything-burns.md](/influence/hollywood/everything-burns.md) | Short entry |
-| **Not Like This** | [/influence/controlled_opposition/not-like-this.md](/influence/controlled_opposition/not-like-this.md) | Two-camp Hollywood war |
+| **Matrix “Not Like This” containment** | [/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) | Installment I; *T2* tower / 9/11 PP rhymes |
+| **Not Like This** (reader essay) | [/influence/controlled_opposition/not-like-this.md](/influence/controlled_opposition/not-like-this.md) | Installment I — *Matrix*; *T2* cyber rhyme |
 | **Ghost War: The Antibody Phase** | [/influence/hollywood/ghost-war-the-antibody-phase.md](/influence/hollywood/ghost-war-the-antibody-phase.md) | Antibody containment PP |
 | **NSA investigation** | [/governance/war/investigations/nsa-investigation.md](/governance/war/investigations/nsa-investigation.md) | SIGINT / audit lane |
 | **CIA investigation** | [/governance/war/investigations/cia-investigation.md](/governance/war/investigations/cia-investigation.md) | Proxy / holy-war lane |
@@ -638,9 +758,9 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 | **British divide-and-conquer** | [/governance/war/investigations/british-divide-conquer-israel-investigation.md](/governance/war/investigations/british-divide-conquer-israel-investigation.md) | HK colony geometry |
 | **Jackie Chan** | [/influence/conspiracy/celebrities/jackie-chan.md](/influence/conspiracy/celebrities/jackie-chan.md) | HK / Beijing positioning |
 
-Keywords: #EverythingBurns #DarkKnight #Joker #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott
+Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #IndependenceDay #ID4 #Area51 #911PP #NoFate #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott #Cyberdyne #WarOfTheWorlds #HostBody
 
-**Last updated:** 2026-06-19T18:00:00-04:00
+**Last updated:** 2026-06-14T17:00:00-04:00
 
 ---
 
@@ -650,7 +770,7 @@ Keywords: #EverythingBurns #DarkKnight #Joker #HeathLedger #DeNiro #CelebrityCon
 
 **Fiction vs operations:** Film plots and game campaigns are **not** proof of documented intelligence operations. Cross-links to NSA/CIA investigations are **thematic rhymes**, not closed findings.
 
-**Camp labels:** **NSA-aligned** and **CIA/MI6-aligned** are **author interpretive taxonomy** for Hollywood grammar — not claims that Warner Bros., Nolan, or Brett Ratner received agency direction. **War-with-China prep** is the **only** reliable sort; **depth, complexity, and orientalist packaging are not camp indicators**.
+**Camp labels:** **NSA-aligned** and **CIA/MI6-aligned** are **author interpretive taxonomy** for Hollywood grammar — not claims that Warner Bros., Nolan, Cameron, or Brett Ratner received agency direction. **Pacific lane:** **war-with-China prep** is the reliable sort. **Cyber lane:** **predestination vs agency** (see Thread N). **Depth, complexity, and orientalist packaging are not camp indicators**.
 
 **Race and representation:** Documented reception of *Rush Hour 2* (racism, sexism) is **L1/L2**; mapping those flaws to **NSA camp** is **L3** and does not excuse orientalist harm.
 
@@ -669,6 +789,10 @@ Keywords: #EverythingBurns #DarkKnight #Joker #HeathLedger #DeNiro #CelebrityCon
 **Thread K — *24*:** Plot beats (China captivity, Audrey torture, **Day 2 CTU triple bomb**, Daniels nuclear order, Season 5 Sentox Russia conspiracy) are **L1** where Wikipedia / fandom wiki sourced. **China torture as message**, **Iran conflict prediction**, and **CTU Day 2 / Building 7 bomb rhyme** are **L3–L4** — **thematic / calendar** only. **Day 5 CTU Sentox gassing** is **L1** plot but **not** the author’s Building 7 comparison. **CTU ≠ CIA** in reality; in-universe institution only. **Torture glorification** in *24* is documented in press criticism — camp read does **not** endorse Bauer methods.
 
 **Thread M — stolen memory / Taiwan / tech:** Yuanmingyuan looting and bronze heads are **L1** where wiki / Yuanmingyuan project sourced. **British memory remote control**, **sovereign China never wars**, and **designed tech-Taiwan fuse** are **L3–L4**. **CZ12 recurrence** claim is **qualified** — only CZ12 is explicit; earlier *Armour of God* films use different treasure plots (**V10**).
+
+**Thread N — *T2*:** Skynet plot, **9′-11″** sign, canal abutment crash, Cyberdyne destruction, Sarah asylum, Dyson secrecy, and *T1* deleted **“blow up Cyberdyne”** dialogue are **L1** where wiki / script / trivia sourced. **9/11 PP**, **forbidden preemptive-strike / 9/11-building rhyme**, **NSA vs CIA predestination**, and ***Matrix* helicopter mirror** are **L3–L4** — **thematic / calendar** only. **Not** claim Cameron encoded agency operations.
+
+**Thread O — *ID4* (1996 original):** Locust quote, Area 51 reveal, Nimziki secrecy, host-body autopsy, global strike, and **extended-cut Whitmore compromise lines** are **L1** where wiki / script / Movie-Censorship sourced. **WTC shadow 9/11 PP**, **declassification agenda**, **host-body = WotW Martian reality**, **Nimziki = SIGINT-withheld rhyme**, and **unity-lane NSA brightness** are **L3–L4**. ***Resurgence* (2016)** and later franchise entries **out of scope**. **Not** claim Emmerich/Devlin received agency direction.
 
 **Author's conclusion / Thread L — *Office* China:** Michael Scott closing toast and Iron Bank debt rhyme are **L1** where scripted / wiki sourced. **Subconscious retention**, **PP success = feared scenario did not manifest**, and **sovereignty-through-conversation** reads are **L3** — author thesis; **not** proven causation (no evidence Nolan or *Office* writers were directed by intelligence).
 
