@@ -99,9 +99,9 @@ The [CERN portal hub](../page.md) records:
 
 Stonehenge = **skyward spiral port**; CERN = **subterranean ring** — same **portal class**, different risk profile ([Stonehenge article](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md)).
 
-![Ancient stargates — suppressed gateways infographic (`ancient-stargates.png`)](/science/cern_portal/ancient-stargates.png)
+![Ancient stargates — suppressed gateways infographic (`ancient-stargates.png`)](/history/chronology/ancient-stargates/ancient-stargates.png)
 
-**1900s rediscovery lane:** Ring gates **excavated globally** in the **early twentieth century**, **sealed by the 1950s** — [stargate image catalog](/science/cern_portal/investigations/early-20th-century-stargate-discoveries-image-catalog-investigation.md). Infographic attributes quotes to **Natasa Peric**; **Nibiru** on asset = **heaven / crossing star** in source vocabulary — project read: **Mars interior** + paired worlds.
+**1900s rediscovery lane:** Ring gates **excavated globally** in the **early twentieth century**, **sealed by the 1950s** — [ancient stargates hub](/history/chronology/ancient-stargates/page.md) · [stargate image catalog](/history/chronology/ancient-stargates/investigations/early-20th-century-stargate-discoveries-image-catalog-investigation.md). Infographic attributes quotes to **Natasa Peric**; **Nibiru** on asset = **heaven / crossing star** in source vocabulary — project read: **Mars interior** + paired worlds.
 
 ### 2.3 Why “quantum tunnel” language appears
 
@@ -715,7 +715,7 @@ The arc is **species adolescence**: loss of **Golden Age** literacy, **Dark Ages
 | [Dead Planet Protocol — timeline](/timeline/evt-mars-surface-dismantling-dead-planet-protocol) | Surface dismantling → Mariner seal |
 | [Mars hub](/cosmos/mars/page.md) | Canals, CERN travel, Gotthard signaling |
 | [Montauk / Half-Life PP cluster](/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md) | Fiction **portal** **grammar** |
-| [Early 20th-c. stargate image catalog](/science/cern_portal/investigations/early-20th-century-stargate-discoveries-image-catalog-investigation.md) | **27** vintage-style ring images; [`ancient-stargates.png`](/science/cern_portal/ancient-stargates.png); heaven–Mars–Earth; 1950s confiscation read; source trace |
+| [Ancient stargates hub](/history/chronology/ancient-stargates/page.md) | **27** vintage-style ring images; [`ancient-stargates.png`](/history/chronology/ancient-stargates/ancient-stargates.png); heaven–Mars–Earth; 1950s confiscation read; source trace |
 
 ---
 

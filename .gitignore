@@ -34,6 +34,7 @@ yarn-error.log*
 .env*.local
 docs/debate-notes/.hf_token
 docs/debate-notes/.hr_token
+.hf_token
 
 # vercel
 .vercel

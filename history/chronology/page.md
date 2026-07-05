@@ -6,6 +6,8 @@
 
 **Presence in the repo is not endorsement** — [working definition of antisemitism](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md).
 
+**Portal lineage:** [Stonehenge](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) → [Ancient stargates](/history/chronology/ancient-stargates/page.md) → [CERN](/science/cern_portal/page.md).
+
 *This is evidence of a world-empire. The Rus-Horde 'Tartarian' Empire ruled over all continents between 12th and 18th centuries before its breakup in 1775.*
 
 

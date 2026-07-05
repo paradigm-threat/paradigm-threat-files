@@ -60,9 +60,9 @@ The **death** began earlier. The **[MFEE](https://paradigmthreat.net/timeline/ev
 
 Ring portals were not born at Meyrin. **Ancient stargates** — carved or buried rings on **every continent** — were **photographed in expedition-era digs** in the **early 1900s** and **confiscated by the 1950s** so the **Dead Planet** story could harden. Tablets name them as **heaven-linked** routes: **faster-than-light** **tunnel** transit to **Mars and worlds beyond**, not cruise at electromagnetic **c**.
 
-![Ancient stargates — suppressed gateways infographic; scattered Earth finds, 1950s confiscation, heaven (Nibiru / star worlds) to Earth link via ancient tablets](https://paradigmthreat.net/science/cern_portal/ancient-stargates.png)
+![Ancient stargates — suppressed gateways infographic; scattered Earth finds, 1950s confiscation, heaven (Nibiru / star worlds) to Earth link via ancient tablets](https://paradigmthreat.net/history/chronology/ancient-stargates/ancient-stargates.png)
 
-Full **27-image catalog**, source trace, and tablet parallels: [Early 20th-century stargate discoveries investigation](https://paradigmthreat.net/science/cern_portal/investigations/early-20th-century-stargate-discoveries-image-catalog-investigation.md).
+Full **27-image catalog**, source trace, and tablet parallels: [Ancient stargates hub](https://paradigmthreat.net/history/chronology/ancient-stargates/page.md) · [Early 20th-century stargate discoveries investigation](https://paradigmthreat.net/history/chronology/ancient-stargates/investigations/early-20th-century-stargate-discoveries-image-catalog-investigation.md).
 
 ## WWW and the Mars authority mark
 
@@ -116,7 +116,7 @@ There is **no clean villain** to hang this on. Assigning one name — CERN, Mart
 
 - **[Part B — The Philadelphia Experiment Was Not Time Travel](https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md)** — Norfolk paired-node, 1984 film deposit.
 - **[CERN–Mars quantum gateway investigation](https://paradigmthreat.net/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md)** — physics §1–§2, buried siting §3, **surface logic §4.1**, WWW §6.4, **political conclusion §11**.
-- **[Early 20th-century stargate discoveries — image catalog](https://paradigmthreat.net/science/cern_portal/investigations/early-20th-century-stargate-discoveries-image-catalog-investigation.md)** — **27** ring-portal images, heaven–Mars link, 1950s confiscation read, source trace.
+- **[Ancient stargates hub](https://paradigmthreat.net/history/chronology/ancient-stargates/page.md)** · **[Early 20th-century stargate discoveries — image catalog](https://paradigmthreat.net/history/chronology/ancient-stargates/investigations/early-20th-century-stargate-discoveries-image-catalog-investigation.md)** — **27** ring-portal images, heaven–Mars link, 1950s confiscation read, source trace.
 - **[Barsoom pre-MFEE](https://paradigmthreat.net/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md)** · **[Dead Planet timeline](https://paradigmthreat.net/timeline/evt-mars-surface-dismantling-dead-planet-protocol)** · **[Mars hub](https://paradigmthreat.net/cosmos/mars/page.md)** · **[Half-Life PP dossier](https://paradigmthreat.net/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md)**
 
 Keywords: #Cern #Mars #Portal #DeadPlanetProtocol #WWW #Vav #Jerusalem #PredictiveProgramming #Aether #ParadigmThreatFiles
