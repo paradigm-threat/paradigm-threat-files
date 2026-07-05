@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-05T16:16:51.796Z",
+    "date": "2026-07-05T16:57:46.182Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
+        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/events/philadelphia/philadelphia_experiment.png",
+        "alt": "Philadelphia Experiment — events hub art"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-05T16:16:49.000Z",
+    "message": "Tighten Philadelphia Part B: cut redundancy and LLM artifacts.",
     "files": [
       {
         "status": "M",
@@ -8805,33 +8823,5 @@
         "alt": "Gotthard ceremony — obedience theater near CERN geography (Mars hub)"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-03T20:33:16.000Z",
-    "message": "Add JFK PP catalog, Friday Tier A, and Warren magic-bullet containment.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/20th-21st-century-catalog.md",
-        "href": "/events/false_flag/investigations/20th-21st-century-catalog"
-      },
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md",
-        "href": "/events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation"
-      },
-      {
-        "status": "M",
-        "path": "events/jfk/agent.md",
-        "href": "/events/jfk/agent"
-      },
-      {
-        "status": "M",
-        "path": "events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md",
-        "href": "/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation"
-      }
-    ],
-    "images": []
   }
 ]
