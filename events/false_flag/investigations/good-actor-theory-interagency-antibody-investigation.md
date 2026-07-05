@@ -537,7 +537,7 @@ flowchart TB
 | Video / popular summary | [`events/911/page.md`](/events/911/page.md) |
 | Child speech / curriculum audit (Tonkin) | [`when-your-child-wont-fit-the-grade.md`](/history/chronology/when-your-child-wont-fit-the-grade.md) |
 | PP / Jack Ryan Ghost War | § IV above; [`call-of-duty-modern-warfare-…`](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) |
-| Hollywood two-camp war (*T2*, *ID4*, *Dark Knight*, *Rush Hour*) | [`not-like-this.md`](/influence/controlled_opposition/not-like-this.md); [`everything-burns.md`](/influence/hollywood/everything-burns.md); [dossier — Thread N *T2*](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship); [Thread O *ID4*](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) |
+| Hollywood two-camp war (*T2*, *ID4*, *Stargate*, *Dark Knight*, *Rush Hour*) | [`not-like-this.md`](/influence/controlled_opposition/not-like-this.md); [`everything-burns.md`](/influence/hollywood/everything-burns.md); [Thread N *T2*](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship); [Thread O *ID4*](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship); [Thread P *Stargate*](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4) |
 
 ---
 

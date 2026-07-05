@@ -1,8 +1,79 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-05T20:49:10.056Z",
+    "date": "2026-07-05T20:59:44.819Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md",
+        "href": "/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/nsa-investigation.md",
+        "href": "/governance/war/investigations/nsa-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/controlled_opposition/not-like-this.md",
+        "href": "/influence/controlled_opposition/not-like-this"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/investigations/hollywood-two-camp-war-investigation.md",
+        "href": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/page.md",
+        "href": "/influence/hollywood"
+      },
+      {
+        "status": "M",
+        "path": "influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md",
+        "href": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
+        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
+        "alt": "9/11 predictive programming — media rehearsal before the public event"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
+        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/controlled_opposition/controlled_resistance.jpg",
+        "alt": "Controlled resistance — manufactured dissent that looks like real opposition"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
+        "alt": "Celebrity modern slavery — contracts, containment, and creative control"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
+      },
+      {
+        "src": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation.png",
+        "alt": "Hollywood two-camp war — investigation cover"
+      },
+      {
+        "src": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
+        "alt": "Celebrity modern slavery — contracts, containment, NDAs, and creative control"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-05T20:49:08.000Z",
+    "message": "Add T2 and ID4 as NSA-aligned Hollywood case studies; rename two-camp dossier.",
     "files": [
       {
         "status": "M",
@@ -8159,66 +8230,6 @@
         "status": "M",
         "path": "science/cern_portal/out-of-this-door-might-come-something.md",
         "href": "/science/cern_portal/out-of-this-door-might-come-something"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png",
-        "alt": "Out of This Door Might Come Something — CERN portal pair Part A"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
-        "alt": "LHC — 27 km ring of superconducting magnets and accelerator chain (Mars hub / CERN travel)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_plans.jpg",
-        "alt": "Future Circular Collider (FCC) — planned scale-up vs existing LHC at CERN (Nature / Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars_canals5.jpg",
-        "alt": "Percival Lowell — Mars and Its Canals (1906); intelligent-civilization waterworks read before Mariner (Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cia_remote_viewing.jpg",
-        "alt": "CIA STARGATE — 1984 Mars remote-viewing session artwork (declassified lane; Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/doom.jpg",
-        "alt": "Doom film (2005) — quantum teleport between Earth and Mars (predictive programming catalog)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_storm.jpg",
-        "alt": "Viral CERN portal storm imagery — Geneva lightning vortex reads as “opened gate” in tabloid cycles (Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at1.jpg",
-        "alt": "Gotthard Base Tunnel opening — BBC: “How Switzerland decided to mark world's longest rail tunnel” (1 June 2016)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at2.jpg",
-        "alt": "Gotthard ceremony — obedience theater near CERN geography (Mars hub)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-04T11:59:08.000Z",
-    "message": "Document June 2016 Geneva storm portal imagery in CERN dossier.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md",
-        "href": "/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/cern_portal/out-of-this-door-might-come-something.md",
-        "href": "/science/cern_portal/out-of-this-door-might-come-something"
-      },
-      {
-        "status": "M",
-        "path": "science/cern_portal/page.md",
-        "href": "/science/cern_portal"
       }
     ],
     "images": [

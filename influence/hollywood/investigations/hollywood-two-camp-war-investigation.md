@@ -2,7 +2,7 @@
 
 ![Hollywood two-camp war — investigation cover](hollywood-two-camp-war-investigation.png)
 
-> **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: does the narrative **prepare the audience for war with China**? **Cyber / NWO / unity lane** litmus: **agency vs predestination**, **declassification**, **common-foe alignment**? **Thread N — *T2* (1991):** cyber-antibody flagship (**9′-11″** sign, Cyberdyne, **no fate**). **Thread O — *Independence Day* (1996, original only):** **locust** strip-miners; **WTC shadow** 9/11 PP; **Area 51** on-screen; **Nimziki** secrecy → mass death; **host-body** rhyme to *War of the Worlds*; deleted Whitmore **compromise** quote. **Thread M:** Yuanmingyuan / Taiwan. **Thread K — *24*.** **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md).
+> **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: war-prep with China? **Cyber / unity lane:** agency, declass, common foe? **Thread N — *T2*; Thread O — *ID4* (1996)** = NSA flagships. **Thread P — *Stargate* (1994 film)** = **CIA/globalist contrast** — ancient aliens + modern authority, **Atlantis/Mars laughed off**, sketchy portal physics/plot; **nothing “fake”** in *ID4* by comparison. **Author heuristic:** NSA-camp blockbusters **rarer** and often **classics**; CIA-camp titles **more common**, **contradictory plots** tolerated to move misdirection payload.
 
 **Date:** 2026-06-17  
 **Status:** Open investigation; **reader essay published** 2026-06-17.  
@@ -26,9 +26,11 @@
 7. [Thread B — *The Dark Knight* (anchor case study)](#thread-b--the-dark-knight-anchor-case-study)
 8. [Thread N — *Terminator 2: Judgment Day* (1991): cyber-antibody flagship](#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship)
 9. [Thread O — *Independence Day* (1996, original): unity-lane NSA flagship](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship)
-10. [Thread C — *Rush Hour* franchise (1998–2001)](#thread-c--rush-hour-franchise-19982001)
-11. [Thread M — Stolen memory: Jackie Chan artifacts, Taiwan, tech trigger](#thread-m--stolen-memory-jackie-chan-artifacts-taiwan-tech-trigger)
-12. [Thread K — *24* (TV, 2001–2010): China torture, proxy terror, CTU destruction](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction)
+10. [Thread P — *Stargate* (1994 film): globalist / CIA contrast to *ID4*](#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4)
+11. [Thread G — Hollywood hot war: containment, forced labor, war-movie conveyor](#thread-g--hollywood-hot-war-franchise-containment-forced-labor-war-movie-conveyor)
+12. [Thread C — *Rush Hour* franchise (1998–2001)](#thread-c--rush-hour-franchise-19982001)
+12. [Thread M — Stolen memory: Jackie Chan artifacts, Taiwan, tech trigger](#thread-m--stolen-memory-jackie-chan-artifacts-taiwan-tech-trigger)
+13. [Thread K — *24* (TV, 2001–2010): China torture, proxy terror, CTU destruction](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction)
 
 **Part III — Containment and calendar**
 
@@ -60,6 +62,7 @@ This investigation extends the **two-camp interagency war** frame documented in 
 | **Pacific** (Installment II) | Does the work **prepare the audience for war with China**? | *Dark Knight*, *Rush Hour*, *24* — [Thread D Pacific table](#thread-d--media-catalog-film--tv-working-tables) |
 | **Cyber / NWO** (Installment I rhymes) | Does the work **sell a fixed dystopian future** inside **“the plan”**, or **agency** — audit, preemptive strike, **chart unknown paths**? | ***Terminator 2*** (1991), ***The Matrix*** (1999) — [Thread N](#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship); [Matrix dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) |
 | **Unity / declass** (1990s antibody window) | Does the work **unite former enemies against a common foe**, **surface hidden programs** (Area 51), and **punish compartmentalized secrecy** — **without** holy-war predestination? | ***Independence Day*** (1996, **original only**) — [Thread O](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) |
+| **Ancient aliens / globalist misdirection** | Does the work **sell ancient astronauts + modern authority**, **misdirect real history/tech**, and **train ridicule** of forbidden topics (Atlantis, Mars) — with **sketchy** plot/physics? | ***Stargate*** (1994 **film only**) — [Thread P](#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4) |
 
 **Pacific lane — camp table (v1 seed):**
 
@@ -74,6 +77,10 @@ This investigation extends the **two-camp interagency war** frame documented in 
 **Not a sort key:** “Complex antibody” vs “shallow mythical” — NSA-side titles can be **extremely shallow** (*Rush Hour* buddy adventure) while still accomplishing **low war-prep** goals (Americans and Chinese **talking together**, sharing culture, on the same side).
 
 **Discipline:** Camp labels are **author interpretive taxonomy**, not declassified agency memos. **Accusation ≠ proof.**
+
+**Per-film always (author rule):** Camp is assigned **title by title**, never **director-by-director** or **studio-by-studio**. **Emmerich/Devlin** prove the rule: ***Stargate* (1994) = CIA/globalist** ([Thread P](#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4)); ***Independence Day* (1996) = NSA unity/declass** ([Thread O](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship)). Same team, **opposite camp reads** — because **grammar differs per film**, not because one auteur “belongs” to a side.
+
+**Author quality heuristic (L3 — not a sort key):** On this read, **NSA-aligned** mass blockbusters are **rarer** and disproportionately become **enduring classics** (*T2*, *ID4*, *Matrix* 1999, *Dark Knight*). **CIA/globalist-aligned** summer tentpoles are **more common** and often carry **contradictory or sloppy plots** because the **payload** (misdirection, war-prep, ridicule training) matters more than internal logic. **Counterexamples exist** — do not treat as law.
 
 **Hong Kong (light v1):** British colony through 1997; author read — staging ground for Western **controlled opposition** and **China-watching** (MI6 structural tie; CIA heavy use). Cross-read [`z.md` § Hong Kong](/influence/controlled_opposition/z.md), [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-chan.md), [British divide-and-conquer investigation](/governance/war/investigations/british-divide-conquer-israel-investigation.md). **No dedicated Hong Kong history dossier in v1.**
 
@@ -219,6 +226,55 @@ Cross-read [**Not Like This § *ID4***](https://paradigmthreat.net/influence/con
 
 ---
 
+## Thread P — *Stargate* (1994 film): globalist / CIA contrast to *ID4*
+
+**Scope:** ***Stargate*** (1994 theatrical film only). ***Stargate SG-1***, ***Atlantis***, and later TV/movie extensions are **out of scope** — separate contain/franchise drift (TODO).
+
+**Author thesis (verbatim capture):** By contrast with [**Thread O — *ID4***](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship), ***Stargate* (1994) is not NSA-aligned.** It aligns with **globalist narrative** grammar: **ancient aliens with modern authority**, **misdirection of technology and real history**, and **predictive programming** that **names Atlantis and Mars in the first act** — then **everyone laughs** and walks out. Same **1990s blockbuster summer** lane as *ID4* (both **Dean Devlin / Roland Emmerich** — *Stargate* 1994, *ID4* 1996), but **opposite camp read** on this taxonomy.
+
+**Plausibility contrast (author):** **Nothing in *ID4*** needs to be treated as **fake** on-screen — **shielded ships**, **alien autopsy at Area 51**, **government plausible deniability**, **locust resource logic** read as **competence fantasy with audit moral**. **Everything central in *Stargate*** can be treated as **fake in real life** on this read: **not-so-ancient, not-so-far-away** “gods,” **pyramids as alien airports**, **wormhole dial** with **wrong physics** — six **constellation points in 3D space** plus a **seventh “point of origin,”** **no periodic gate alignment** (planet **orbits** ignored), **rotary dial** unlikely as a **real portal** interface. The **plot is sketchy**: Jackson “discovers” the **last symbol** was **always available** — the inner track glyphs were **star charts**, including **Earth**, visible to the **study crew** the whole time. **CIA-aligned movies**, on this read, **often tolerate bad/contradictory plots** to deliver the **misdirection message**; **NSA-aligned movies** are **far more rare** and tend to be the **best / most classic** entries in the catalog.
+
+### Plot beats (L1)
+
+| Beat | Detail | Tier |
+|------|--------|------|
+| **Jackson lecture** | Egyptologist argues **Fourth Dynasty did not build** Great Pyramids; **no hieroglyphs inside**; audience **derides** him | L1 — [Reactor rewatch](https://reactormag.com/the-stargate-rewatch-stargate-1994-film/); [Wikipedia — *Stargate* film](https://en.wikipedia.org/wiki/Stargate_(film)) |
+| **Atlantis / Mars heckle** | Heckler: *“Men from Atlantis? Or Martians perhaps?”* — crowd **laughs**, **walks out** (*“what a joke”*) | L1 — [script transcript](http://hvom.blogspot.com/2016/12/stargate.html); Jackson: *“The point is not who built them; the point is when.”* |
+| **Ancient astronaut reveal** | **Ra** = **alien** in **human host** posing as **god-king**; pyramids as **landing platforms** | L1 |
+| **Gate addressing** | **Seven chevrons** — six **constellation coordinates** + **seventh point of origin** (Earth) | L1 — film dialogue |
+| **Jackson’s breakthrough** | Realizes cartouche glyphs are **constellations**, not phonetic hieroglyphs — **seventh symbol** was on the **coverstones** all along | L1 |
+| **Military silo program** | **Creek Mountain** / **Area 51**-class secrecy — but payload is **ancient-mystery** framing, not *ID4*’s **live-war declass** | L1 |
+
+### Investigator assessment — partial agree, flagged nuances
+
+| # | Author claim | Verdict | Notes |
+|---|--------------|---------|-------|
+| V1 | *Stargate* = **CIA/globalist ancient-aliens misdirection** vs *ID4* NSA unity/declass | **Supported as author taxonomy** | L3 — coherent with [CIA investigation](/governance/war/investigations/cia-investigation.md) **proxy sleep / myth** lane |
+| V2 | **Atlantis/Mars** named then **ridiculed** = PP + **train dismissal** | **Supported (L1 dialogue)** | PP **intent** = L3 |
+| V3 | ***ID4* “nothing fake” vs *Stargate* “everything fake”** | **Partial** | *ID4* still **science fantasy** (virus upload, shields) — author means **institutional/plausible** vs **ancient-mystery hoax** grammar |
+| V4 | **Bad plot** = CIA-camp pattern (seventh symbol always there) | **Supported as critique** | L1 plot hole widely noted in fan/review discourse |
+| V5 | **Wrong portal physics** (no orbits, dial UI) | **Supported as critique** | L3 author engineering read — not physics paper |
+| V6 | **NSA movies = classics; CIA = more common + sloppier** | **Partial / taste heuristic** | L3 — *Stargate* was **box-office hit** (~$200M); **pattern not law** |
+| V7 | **Same filmmakers** Emmerich/Devlin: *Stargate* CIA read, *ID4* NSA read | **Supported (L1 credits)** | **Camp = title grammar**, not auteur fixed — important nuance |
+
+**Bottom line (investigator):** The **contrast with *ID4*** is **strong** on this site’s frame — *Stargate* **trains ridicule** of **Atlantis/Mars** while **selling ancient authority**; *ID4* **surfaces Area 51** and **punishes secrecy**. The **“NSA = classic / CIA = sloppy”** rule is a **useful author heuristic**, not a **falsifiable law** — keep as L3.
+
+### Author reads (L3–L4)
+
+| Read | Tier | Notes |
+|------|------|-------|
+| **Globalist ancient-aliens** — **pyramids + gods** = **misdirection** from **real history / tech timeline** | L3 | Cross-read mudflood / tartaria lanes only as **optional** — not proven here |
+| **PP ridicule beat** — say **Atlantis/Mars**, then **laugh** → audience learns to **mock** those search terms | L3 | First-act **seminar** scene |
+| ***ID4* contrast** — shields, autopsy, Nimziki **plausible deniability** vs *Stargate* **fairy-tale archaeology** | L3 | [Thread O](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) |
+| **Portal physics as decoy** — **3D coordinate cheat**, **no orbital period**, **chevron dial** = **Hollywood wormhole**, not engineering spec | L3 | Author physics read |
+| **Plot contradiction as feature** — **message over logic** | L3 | Seventh chevron / constellation retcon |
+
+**Camp label (author):** ***Stargate* (1994 film) = CIA/MI6-aligned (globalist ancient-mystery lane)** — **high-confidence** on this taxonomy. **Not NSA.**
+
+Cross-read [**Not Like This § *ID4* vs *Stargate***](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md); [predictive programming hub](/influence/predictive_programming/page.md).
+
+---
+
 ## Thread C — *Rush Hour* franchise (1998–2001)
 
 ### *Rush Hour* (1998) — buddy partnership (L1)
@@ -339,6 +395,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 |-------|------|-------------|---------------|-------|
 | ***Terminator 2: Judgment Day*** | 1991 | Stop Skynet; **no fate**; destroy Cyberdyne; asylum truth-teller; **9′-11″** sign | **NSA** | **Flagship** — [Thread N](#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship) |
 | ***Independence Day*** | 1996 | **Locust** strip-miners; **WTC shadow** PP; **Area 51** reveal; **host-body**; anti-secrecy | **NSA** | **Original only** — [Thread O](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) |
+| ***Stargate*** (film) | 1994 | **Ancient aliens** + god-king; **Atlantis/Mars ridicule**; sketchy gate physics/plot | **CIA/MI6** | **Contrast *ID4*** — [Thread P](#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4); **Emmerich/Devlin** also did *ID4* |
 | ***The Matrix*** | 1999 | Red pill; passport **9/11** PP; **Wake Up** credits | **NSA** | Installment I — [Matrix dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) |
 | ***The Matrix Reloaded* → *Resurrections*** | 2003–2021 | Oracle-as-control contained; nostalgia reset | **CIA** | Contain handoff — same dossier |
 
@@ -385,15 +442,61 @@ Works depicting **direct US–China war** — author default **CIA/MI6 camp** (w
 
 ---
 
-## Thread G — One-off masterpiece / franchise containment
+## Thread G — Hollywood hot war: franchise containment, forced labor, war-movie conveyor
+
+**Author thesis (verbatim capture):** When an **NSA-aligned** movie **breaks through** and becomes **famous**, **everyone attached to it** — cast, directors, producers, writers, VFX leads — becomes a **target** of **CIA-aligned media machinery**. The contain camp **forces substandard follow-ups**: bad sequels, **obligatory** franchise entries, **miscast war roles**, **politically encoded** mitigations. Talent **fights** later productions — **Ed Norton** after ***Fight Club*** threatened suit over ***The Italian Job*** assignment but **yielded** under Paramount extension pressure; **Val Kilmer** tried to **botch his audition** out of ***Top Gun*** but **could not** escape the obligation ([celebrity modern slavery § forced movies](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#documented-forced-to-do-the-movie-cases)). That is **legal coercion** (multi-picture deals, breach threats, **De Havilland**-era personal-services grammar) — and on this read **not entirely legal** when **ordered political bits**, **blacklist pressure**, and **reputation destruction** stack on top. **Good directors are forced to make bad sequels.** This is evidence of a **hot war between camps** — not **greed alone**, not **one bad executive**, not reducible to **a single person’s human failings**.
+
+**Cross-read:** [celebrity modern slavery — franchise battleground](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#franchise-battleground--one-good-movie-then-something-breaks); [Matrix dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md); [Not Like This](/influence/controlled_opposition/not-like-this.md).
+
+### One great movie, then contain (L3 pattern + L1 examples)
 
 From [celebrity modern slavery investigation § “one great movie”](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md) (L3 pattern):
 
-| Franchise | “One great” entry | Later typical entry | Messaging contrast |
-|-----------|-------------------|---------------------|-------------------|
-| Batman (Nolan) | ***The Dark Knight*** (2008) — Lau / “everything burns” | ***The Dark Knight Rises*** (2012) — occupation spectacle; Sandy Hook rhymes in [PP hub](/influence/predictive_programming/page.md) | NSA antibody payload **absent** in sequel |
-| *Matrix* | 1999 wake-up | *Reloaded*→*Resurrections* contain | [Matrix dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) |
-| *Logan*, *Fury Road* | cited in celebrity dossier | later entries / spinoffs | optional cross-read |
+| Franchise | “One great” entry (NSA or antibody read) | Later typical entry (contain) | Hot-war read |
+|-----------|------------------------------------------|----------------------------|--------------|
+| Batman (Nolan) | ***The Dark Knight*** (2008) — Lau / “everything burns” | ***The Dark Knight Rises*** (2012) — occupation spectacle | NSA payload **absent**; **Ledger** dead; **2019** *Joker* **counter-message** ([Thread I](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019)) |
+| *Matrix* | 1999 wake-up | *Reloaded*→*Resurrections* contain | Recasts, MxO kill, vendor swap — [Matrix dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) |
+| *Terminator* | *T2* (1991) | *T3*+ drift | Cyber-antibody flagship → later **studio-controlled** sequels (TODO) |
+| *Independence Day* | *ID4* (1996) | *Resurgence* (2016) | Unity/declass → **flattened** reboot (out of scope) |
+
+**Mechanism (author L3):** Peak installment → **leverage window** → hit locks **options / NDAs** → sequels made by **contained labor** → audience blames **visible star**; **executives** exit unscathed ([celebrity dossier causal sketch](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#franchise-battleground--one-good-movie-then-something-breaks)).
+
+### Documented forced-performance cases (L1 — not camp proof alone)
+
+| Name | NSA-adjacent peak (author) | Forced / hated later beat | Source |
+|------|---------------------------|---------------------------|--------|
+| **Ed Norton** | ***Fight Club*** (1999) — audit / anti-consumer | Paramount **24-month assignment** clause → ***The Italian Job*** (2002); **threatened lawsuit**, **yielded** | [Observer — Norton to Lansing](https://observer.com/2002/09/ed-norton-to-lansing-burn-this/) |
+| **Val Kilmer** | (no single NSA title in catalog v1) | **Failed audition tactic** — still cast as **Iceman** in ***Top Gun*** (1986) | [BuzzFeed — contracted movies they hated](https://www.buzzfeed.com/kristenharris1/actors-contracted-movies-they-hated) |
+| **Roy Scheider** | ***Jaws*** (1975) | Forced ***Jaws 2*** | Same BuzzFeed roundup; [modern-celebrity-slavery essay](/influence/suppression/modern-celebrity-slavery.md) |
+| **James Gray** (director) | ***The Lost City of Z*** etc. | ***Ad Astra*** **taken away** — “**you get the blame anyway**” | [Variety 2026](https://variety.com/2026/film/news/james-gray-ad-astra-taken-away-by-studio-1236758244/) |
+
+**Discipline:** Contract coercion is **L1**. **Camp targeting after NSA hit** is **L3** — plausible assembly, not declassified memo.
+
+### War-movie conveyor — famous males in uniform (L1 pattern; L3 camp read)
+
+**Author thesis:** Nearly **every famous male actor** must do a **war / uniform / operator** role at some point — often **after** the persona that made him bankable, producing **genre collision** so the audience **cannot grant full moral weight** to what the film admits. Sometimes **before** peak fame (*Platoon* casting circus); sometimes **after** (*Broderick* post-*Ferris*).
+
+| Actor | Soft / everyman persona | War / uniform beat | Reception / note |
+|-------|-------------------------|-------------------|------------------|
+| **Matthew Broderick** | *Ferris Bueller* (1986) | Col. Shaw in ***Glory*** (1989) | Critics: “catastrophically miscast” ([Wikipedia — *Glory*](https://en.wikipedia.org/wiki/Glory_(1989_film))) |
+| **Michael J. Fox** | *Back to the Future* era | ***Casualties of War*** (1989) | Persona clash noted in reviews |
+| **Tom Hanks** | *Splash*, *Big* | ***Saving Private Ryan*** (1998) → WWII producer lane | Decades of **militainment producer** roles |
+| **Charlie Sheen** | Brat Pack | ***Platoon*** (1986) lead | Stone considered **Reeves**, **MacLachlan** for Taylor ([Wikipedia — *Platoon* § Casting](https://en.wikipedia.org/wiki/Platoon_(film)#Casting)) |
+| **John Krasinski** | *The Office* / Jim | *13 Hours* → *Jack Ryan* → ***Ghost War*** (2026) | [Ghost War — antibody phase](/influence/hollywood/ghost-war-the-antibody-phase.md); [CoD militainment §4.4–§4.5](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) |
+
+**Investigator note:** **No peer-reviewed paper** names “heartthrobs in war movies” as formal trend — pattern assembled from **film history + reviews** ([CoD investigation caveat](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md)). **Author read (L3):** the conveyor **serves contain-camp militainment** — train populations on **operator grammar** while **miscast friction** acts as **ridicule buffer** (*Ghost War* thesis).
+
+### Logic validation — strengthens, weakens
+
+| # | Claim | Verdict | Tier |
+|---|-------|---------|------|
+| V1 | Multi-picture deals **force** unwanted roles | **Supported** | L1 — Norton, Kilmer, De Havilland law |
+| V2 | **Bad sequels** follow **peak** NSA/antibody installments | **Supported as pattern** | L2–L3 — Matrix, TDK, franchise tables |
+| V3 | Targeting is **interagency hot war**, not **greed only** | **Plausible author assembly** | L3–L4 — needs primary “camp order” docs |
+| V4 | **All** famous males **must** do war movies | **Overbroad** | Weaken to **common industry pattern** |
+| V5 | Miscast war roles = **deliberate ridicule buffer** | **Partial** | L3 — [Ghost War](/influence/hollywood/ghost-war-the-antibody-phase.md) argues; not universal |
+
+**Bottom line:** The **forced-sequel + war-movie conveyor** evidence **strengthens** the **two-camp hot-war** read when stacked with **per-film camp sorting** and **one-good-movie-then-break** tables — but **does not close** without **primary documents** naming institutional intent.
 
 ---
 
@@ -723,6 +826,10 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 | Q20 | ***Matrix* helicopter vs *T2* Cyberdyne** — documented VFX / storyboard influence or independent convergence | Wachowski interviews; Cameron cross-credits |
 | Q21 | ***ID4* NYC approach** — frame-accurate **WTC + shadow** stills vs author 9/11 PP read | Blu-ray chapter marks; VFX HQ stills |
 | Q22 | ***ID4* extended Whitmore compromise scene** — theatrical-cut rationale; tie to Nimziki **compromise faction** read | Emmerich/Devlin commentary |
+| Q23 | ***Stargate* seventh chevron** — production/script revision history for “always on coverstones” beat | DVD commentary; early drafts |
+| Q24 | **Emmerich/Devlin** — interviews comparing *Stargate* vs *ID4* “realism” intent | Press 1994–1996 |
+| Q25 | **Post-*Fight Club* Norton** — full Paramount extension memo vs public Observer account | Legal archives |
+| Q26 | **War-movie conveyor** — sample 50 top male box-office 1980–2010 for uniform-role rate | Filmography study |
 
 ---
 
@@ -758,9 +865,9 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 | **British divide-and-conquer** | [/governance/war/investigations/british-divide-conquer-israel-investigation.md](/governance/war/investigations/british-divide-conquer-israel-investigation.md) | HK colony geometry |
 | **Jackie Chan** | [/influence/conspiracy/celebrities/jackie-chan.md](/influence/conspiracy/celebrities/jackie-chan.md) | HK / Beijing positioning |
 
-Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #IndependenceDay #ID4 #Area51 #911PP #NoFate #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott #Cyberdyne #WarOfTheWorlds #HostBody
+Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #IndependenceDay #ID4 #Stargate #Area51 #911PP #NoFate #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott #Cyberdyne #WarOfTheWorlds #HostBody #AncientAliens #Atlantis
 
-**Last updated:** 2026-06-14T17:00:00-04:00
+**Last updated:** 2026-06-14T17:30:00-04:00
 
 ---
 
@@ -793,6 +900,10 @@ Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #Independ
 **Thread N — *T2*:** Skynet plot, **9′-11″** sign, canal abutment crash, Cyberdyne destruction, Sarah asylum, Dyson secrecy, and *T1* deleted **“blow up Cyberdyne”** dialogue are **L1** where wiki / script / trivia sourced. **9/11 PP**, **forbidden preemptive-strike / 9/11-building rhyme**, **NSA vs CIA predestination**, and ***Matrix* helicopter mirror** are **L3–L4** — **thematic / calendar** only. **Not** claim Cameron encoded agency operations.
 
 **Thread O — *ID4* (1996 original):** Locust quote, Area 51 reveal, Nimziki secrecy, host-body autopsy, global strike, and **extended-cut Whitmore compromise lines** are **L1** where wiki / script / Movie-Censorship sourced. **WTC shadow 9/11 PP**, **declassification agenda**, **host-body = WotW Martian reality**, **Nimziki = SIGINT-withheld rhyme**, and **unity-lane NSA brightness** are **L3–L4**. ***Resurgence* (2016)** and later franchise entries **out of scope**. **Not** claim Emmerich/Devlin received agency direction.
+
+**Thread P — *Stargate* (1994 film):** Seminar scene, **Atlantis/Mars heckle**, Ra-as-alien, chevron addressing, and Jackson constellation retcon are **L1** where script / wiki sourced. **CIA/globalist ancient-mystery**, **PP ridicule training**, ***ID4* plausibility contrast**, **portal physics decoy**, and **plot-sloppiness-as-payload** are **L3–L4**. **NSA=classic / CIA=sloppy** heuristic is **L3 taste pattern**, not statistical proof. ***SG-1* TV** out of scope.
+
+**Thread G — hot war:** Forced-role cases (Norton, Kilmer, Scheider) and director override quotes (Gray, Feige) are **L1** where sourced. **Post-NSA-hit targeting**, **interagency hot war vs greed-only**, **war-movie conveyor as contain militainment**, and **miscast-as-ridicule-buffer** are **L3–L4**. **“Every famous male must do war movie”** is **weakened** to **common pattern** — not universal law.
 
 **Author's conclusion / Thread L — *Office* China:** Michael Scott closing toast and Iron Bank debt rhyme are **L1** where scripted / wiki sourced. **Subconscious retention**, **PP success = feared scenario did not manifest**, and **sovereignty-through-conversation** reads are **L3** — author thesis; **not** proven causation (no evidence Nolan or *Office* writers were directed by intelligence).
 

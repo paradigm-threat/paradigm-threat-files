@@ -1138,6 +1138,8 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 
 **Cross-link:** ***D&W*** **Void** **roster** ([§ Snipes](#case-study--wesley-snipes--prison-lane--deadpool--wolverine--slaves-on-display)) = **exhibited** **contained** **labor** **after** **quality** **already** **collapsed** **on** **their** **franchises**.
 
+**Two-camp hot war (L3):** When an **NSA-aligned** blockbuster **breaks through**, **CIA-aligned media machinery** **targets cast, directors, and producers** for **substandard follow-ups** — **not** reducible to **greed** or **one executive**. **Full assembly:** [Hollywood two-camp dossier — Thread G](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-g--hollywood-hot-war-franchise-containment-forced-labor-war-movie-conveyor) (**Norton**, **Kilmer**, **war-movie conveyor** / **Broderick–*Glory***, **Feige** override table). **War-film everyman pattern:** [CoD militainment §4.4–§4.5](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md); [Ghost War](/influence/hollywood/ghost-war-the-antibody-phase.md).
+
 ### Citation registry — executive override & blame asymmetry (L1–L2)
 
 | Beat | Documented fact | Investigation use | Source |
