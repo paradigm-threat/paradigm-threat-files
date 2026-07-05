@@ -1,6 +1,6 @@
 # Investigation: JFK & RFK — Staged Assassination Hoax (Kennedy Family Compliance)
 
-> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — **real pre-Dallas attempts** (Pavlick anchor) → **family compliance** under **car-party threat**; **[§1.1 pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar)** — **Business Plot** health-fiction fork closest analogue; **no documented pre-1963 death hoax**; **[§2.1 motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)** — **hostile Dallas**, **Stevenson** incident, **morning ad**, **open published route** = **spectacle not faction healing**; **Dealey** **robot / exploding-head** ruse; **[§2.3 PP media catalog](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)** — **Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***; **[§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)** — **mock → divide → distract** after **Russia** script failed; **Vietnam escalation** on **documented timeline**. **RFK (Jun 1968)** — **Sirhan** decoy; **Hartwell** **slug vs .22** wedge. Cross-read [agent.md](../agent.md), [§2](#2-jfk-november-1963-fake-assassination), [prophet.md](../prophet.md).
+> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — **real pre-Dallas attempts** (Pavlick anchor) → **family compliance** under **car-party threat**; **[§1.1 pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar)** — **Business Plot** health-fiction fork closest analogue; **no documented pre-1963 death hoax**; **[§2.1 motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)** — **hostile Dallas**, **Stevenson** incident, **morning ad**, **open published route** = **spectacle not faction healing**; **Dealey** **robot / exploding-head** ruse; **[§2.3 PP media catalog](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)** — **Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***; **[§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)** — **mock → divide → distract** after **Russia** script failed; **[§2.5 investigate → attempt → non-action](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)** — **FBI/SS touch** → **attempt** → **shoddy prevention**; **[§2.6 target-list intimidation](#26-target-list-intimidation-campaign--published-or-pocket-lists)** — **2017 Congressional baseball** anchor (**Hodgkinson** pocket list + **FBI** **suicide-by-cop** spin); **[§2.7 author synthesis](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)** — **Pavlick-only parseable motive**, **motive inversion**, **rogue CIA lanes**, **cartel ground cabal**; **Vietnam escalation** on **documented timeline**. **RFK (Jun 1968)** — **Sirhan** decoy; **Hartwell** **slug vs .22** wedge. Cross-read [agent.md](../agent.md), [§2](#2-jfk-november-1963-fake-assassination), [prophet.md](../prophet.md).
 
 **Status:** Open — project thesis + public-record / forensic anchors; **no** proof of either man’s post-event public life.  
 **Date:** 2026-06-29
@@ -10,7 +10,7 @@
 ## Guide
 
 1. **Shared hoax grammar (Kennedy lane)** → [§1](#1-shared-hoax-grammar) · [§1.1 Pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar) · [§1.2 Nixon inverse exit](#12-post-kennedy-inverse-exit--nixon--watergate) · [§1.3 Legal responses & gaps](#13-legal-responses--gaps-health-concealment-autopen-25th)
-2. **JFK — Nov 22, 1963 (site thesis)** → [§2](#2-jfk-november-1963-fake-assassination) · [§2.1 Dallas motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission) · [§2.2 Rebecca Black *Friday* (Tier A PP)](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) · [§2.3 PP media catalog (canonical list)](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) · [§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)
+2. **JFK — Nov 22, 1963 (site thesis)** → [§2](#2-jfk-november-1963-fake-assassination) · [§2.1 Dallas motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission) · [§2.2 Rebecca Black *Friday* (Tier A PP)](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) · [§2.3 PP media catalog (canonical list)](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) · [§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract) · [§2.5 Investigate → attempt → non-action](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope) · [§2.6 Target-list intimidation](#26-target-list-intimidation-campaign--published-or-pocket-lists) · [§2.7 Author synthesis — rogue lanes](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)
 3. **RFK — Jun 4–6, 1968 (forensic + Hartwell)** → [§3](#3-rfk-june-1968-ambassador-hotel)
 4. **Parallel table** → [§4](#4-jfk-vs-rfk-parallel-read)
 5. **Means, motive, opportunity (RFK — Hartwell)** → [§5](#5-rfk-means-motive-opportunity-hartwell)
@@ -187,7 +187,7 @@ Start with **documented pre-Dallas pressure**, not Zapruder minutiae:
 
 | Step | Evidence class | Read |
 |------|----------------|------|
-| **1** | **Real attempts before Nov 1963** | **Richard Pavlick** (1960) and other **documented** threat windows — family told **more real attempts** follow if JFK stays in office |
+| **1** | **Real attempts before Nov 1963** | **Richard Pavlick** (1960) and other **documented** threat windows — family told **more real attempts** follow if JFK stays in office; **Pavlick** also opens **[§2.5](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)** **investigate → attempt → non-action** pattern (SS trail, lost suspect) |
 | **2** | **Compliance fork** | After **very close calls**, the **Kennedy circle** was **held under explosive pressure**: **go along** with public death theater or **people in the car are shot for real** (Jackie, Connally, party) |
 | **3** | **Motorcade geometry** ([§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)) | **Weak / hated locally** → you don't **crawl slowly** through the **most hostile downtown** in an **open car** on a **published route** **six weeks after** your UN ambassador was **physically attacked** in the **same city**, with a **hostile newspaper ad** that **morning** — **faction healing** is a **luncheon** problem; **Dealey** is a **spectacle** problem |
 | **4** | **Vietnam board (documented)** | **Hard sell** → **president “shot”** → **escalation** — **timeline fact**, not conspiracy garnish |
@@ -207,6 +207,9 @@ Start with **documented pre-Dallas pressure**, not Zapruder minutiae:
 - **Predictive programming:** Film/TV/music **robot-decoy / blood-squib / motorcade-mock / generational ridicule** grammar **prefigures** Dealey **hand-wave** read — **canonical catalog:** [§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) (**Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***); **not sole proof**.
 - **JFK as Rex Bellator** — war-prep figure (Cuba, Asia, **Russia** containment), **not** peace-icon; **Russia** framed as **world deep state** while **Washington** board escalates same war.
 - **Oswald** + **Warren Commission** **magic bullet** = **confusion / containment layer** after **“Russia did it”** failed — **mock → divide → distract** grammar parallel to [§2.2 *Friday*](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect); full audit [§2.4](#24-warren-commission--magic-bullet-containment-mock-divide-distract); CIA **1035-960** **“conspiracy theorist”** ridicule **poisons** serious audit.
+- **FBI / Secret Service negligence envelope** ([§2.5](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)): **documented** repeat of **(1) agency investigates or files subject → (2) attempt proceeds → (3) no conspiracy proved, but also weak proof agencies acted on prior knowledge** — **Pavlick**, **Oswald file**, **Moore informant**, **Hinckley**, post-JFK **Ford/Reagan** lane; **Trump 2024** (**Crooks** real-time intel failure, **Routh** closed 2019 tip) — **institutional deniability** without requiring **provable FBI order**.
+- **Target-list intimidation campaigns** ([§2.6](#26-target-list-intimidation-campaign--published-or-pocket-lists)): **published or pocket lists** of officials + **violence or threat theater** to **coerce legislative conduct** — **2017 Congressional baseball** (**Hodgkinson**) as **clearest US pocket-list** case; pairs with **§2.5** when **FBI minimizes** terror/intimidation read (**suicide-by-cop** spin).
+- **Rogue lanes, motive inversion, ground cabals** ([§2.7](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)): **Pavlick** = **only citizen-parseable** war-stop logic; most attempts **invert** intent (**Trump** martyrdom); **not** unified top-level Deep State — **CIA-aligned rogue programs**, **NSA friction**, **cartel ground power** media **won’t** proportionally report.
 
 **Tier:** **Project thesis** in [agent.md](../agent.md); Hartwell **RFK forensics** = **documented wedge** paired here; Dealey **robot / no-bullet** layer = **author thesis**.
 
@@ -528,6 +531,279 @@ Source: [NYT Dec 26, 1977](https://www.nytimes.com/1977/12/26/archives/cable-sou
 
 **Tier:** **Documented** critics + CIA memo; **Salandria** + **site staged-kill** = **author**; **does not** alone prove Dallas hoax.
 
+### 2.5 Investigate → attempt → non-action (FBI / Secret Service negligence envelope)
+
+**Purpose:** Document a **repeatable institutional shape** around presidential assassination **attempts**: federal or local agencies **investigate, interview, or file** a would-be assailant (sometimes as **informant/asset**); the **attempt still occurs** (or nearly occurs); post-incident reviews find **gaps in escalation, surveillance, and inter-agency sharing** — while official conclusions land on **“no agency conspiracy”** plus **“adequate under policy / hindsight unfair.”**
+
+**Site read (author):** Same facts support **incompetence** and **permitted proceed** — neither is **proven** without separate direction evidence. Pairs with [§2 step 1–2](#best-evidence-ladder-reply--audit-order) (**Pavlick** → **compliance fork**): **real attempts** + **agency touch** + **non-prevention** make the **fake-death bargain** **credible** to the **Kennedy circle**. **Does not** require **FBI ordered the hit** — only a **deniability envelope** that **absorbs** post-event audit.
+
+**Investigator discipline:** **Documented** = IG reports, congressional testimony, contemporary press; **author synthesis** = pattern as **structural** **containment** — **not** proof Dallas was staged.
+
+#### Three-step operational definition
+
+| Step | Label | Typical artifacts |
+|------|-------|-------------------|
+| **1** | **Investigate / file / tip** | Security file, threat interview, weapons arrest, informant relationship, postcards/tips, local LE flag |
+| **2** | **Attempt** | Shooting, bomb, hijack, roofline attack — **sitting president**, **president-elect**, or **major candidate** |
+| **3** | **Aftermath** | **No sustained finding** of agency **conspiracy**; **IG/Congress** finds **failure to connect dots**; officials cite **policy**, **resource limits**, or **no overt threat** |
+
+**Uncomfortable middle:** Reviews document **prior knowledge** without **proving** agencies **wanted** the attempt — but also **fail** to show **competent use** of that knowledge.
+
+#### Master case table (Kennedy anchor + post-JFK + Trump)
+
+| Subject | When | Step 1 — agency touch | Step 2 — attempt | Step 3 — documented non-action / aftermath |
+|---------|------|----------------------|------------------|---------------------------------------------|
+| **Richard Pavlick** | Dec 1960 | Threatening **postcards** → postmaster → **SS tracking** cross-country | Dynamite **Buick** at Palm Beach; aborted when family visible | **Lost suspect in FL**; arrested on traffic stop **4 days later**; committed insane; charges **dropped after Dallas** |
+| **Thomas Vallee** | Nov 1963 | **SS** tip → pretext interview; **CPD** 24hr surveillance | Chicago motorcade window (**Nov 2**); arrested armed, **released** | Trip altered/cancelled; **Bolden** four-man-team narrative **disputed** officially |
+| **Lee Harvey Oswald** | Nov 1963 | **FBI security file** — interviews, Mexico City, note to FBI; case lapses | Dallas shooting (official) | Hoover **secretly disciplined ~17** for pre-assassination deficiencies; **not disclosed** to Warren Commission ([HSCA/Church](https://www.archives.gov/research/jfk/select-committee-report/part-1d.html)) |
+| **Sara Jane Moore** | Sep 1975 | **Paid FBI informant**; told police she might **“test”** security + owned gun; **SS interviewed** Sunday night | Shot at **Ford** San Francisco **Monday** | SS: **not serious threat** because **informant status** = **“tacit approval”**; FBI/ATF **did not call SS** before shot; **five failed phone calls** to detail not relayed ([*NYT* Sep 24–27, 1975](https://www.nytimes.com/1975/09/27/archives/failure-to-restrict-miss-moore-linked-to-role-as-informer.html)) |
+| **Lynette Fromme** | Sep 1975 | Manson follower; **July AP** violent rhetoric; SS knew she was in **Sacramento** | **Ford** Sacramento — gun **no round in chamber** | **Not on threat list** — rhetoric deemed insufficient ([*NYT* Sep 7, 1975](https://www.nytimes.com/1975/09/07/archives/gun-inquiry-finds-no-plot-evidence-in-threat-to-ford-prosecutor.html)) |
+| **Samuel Byck** | Feb 1974 | **SS investigated 1972** threat; brief **mental hold Jan 1973** | Hijack **DC-9** to crash **White House**; Nixon inside | SS judged **“harmless”** after 1972 contact ([*NYT* Feb 24, 1974](https://www.nytimes.com/1974/02/24/archives/hijacker-had-picketed-white-house-condition-is-grave.html)) |
+| **John Hinckley Jr.** | Mar 1981 | Stalked **Carter** 1980; **Oct 9 Nashville** airport — **3 handguns**, same day Carter in city; **FBI notified**, not forwarded to **SS** | **Reagan** shot Hilton | SS: would have **interviewed** if told; FBI: **no overt threat**; diary kill plans **not found** in luggage ([Reagan Library memo](https://www.reaganlibrary.gov/public/digitallibrary/whormsubject/jl003-01/551114.pdf)) |
+| **Thomas Crooks** | Jul 2024 | FBI: **not pre-known**; **local LE + SS** flagged suspicious **>1 hr**; rangefinder **~19 min** pre-shot; roof **pre-identified** vulnerability | **Trump** Butler rally — ear wound | DHS OIG (**Jul 2026**): SS missed **102 radio transmissions**; detail **never warned**; Trump on stage ([OIG report](https://www.oig.dhs.gov/sites/default/files/assets/2026-07/OIG-26-13-Jul26-Redacted.pdf)) |
+| **Ryan Routh** | Sep 2024 | **2019 FBI tip** — felon with gun; tipster **would not verify**; case **closed**; **CBP/FBI/State** tips on erratic behavior | **12 hr** shrub line at Trump golf course | FBI: acted alone; **prior tips** did not escalate ([FBI press release](https://www.fbi.gov/news/press-releases/update-on-the-fbi-investigation-of-the-attempted-assassination-of-former-president-donald-trump)) |
+
+**Trump note (site frame):** User treats Trump as **NSA-aligned** target of **CIA-adjacent** friction — **§2.5** documents **only** the **public negligence envelope**; **direction** remains **author thesis**, not **IG finding**.
+
+#### Variant lanes within the pattern
+
+| Variant | Mechanism | Examples |
+|---------|-----------|----------|
+| **A — Pre-filed subject** | Long-running **security file** or **threat interview**; attempt after **case closed** or **downgraded** | **Oswald**, **Byck**, **Moore**, **Routh** |
+| **B — Informant / asset** | Subject **on payroll** or **trusted** as **cooperator** → threat **discounted** | **Moore** (FBI + ATF) |
+| **C — Arrest without SS handoff** | **Weapons bust** near protectee; **FBI/local** treat as routine | **Hinckley** Nashville |
+| **D — Real-time scene intel** | No dossier; **local LE sees gunman**; **communications failure** | **Crooks** Butler |
+| **E — Tracked then lost** | **SS knows stalker**; loses thread before event | **Pavlick** Florida |
+
+#### Pairing to Kennedy hoax thesis
+
+| §2.5 read | Kennedy compliance read |
+|-----------|-------------------------|
+| **Pavlick (1960)** + **Vallee (1963)** | **Documented** that **real attempts** and **agency contact** precede Dallas — family told **more follow** if JFK stays |
+| **Oswald file** | Post-event **lone gunman** + **Warren** ([§2.4](#24-warren-commission--magic-bullet-containment-mock-divide-distract)) **absorbs** audit; FBI **discipline hidden** |
+| **Moore informant** | Shows **informant status** can **invert** threat assessment — useful when asking whether **assets** sit in **perpetrator** roles |
+| **Post-JFK repetition** (Ford, Reagan) | **Lone-nut + mental illness** packaging **recurs** after **agency touch** — same **grammar**, different president |
+| **Trump 2024** | **Modern** same envelope — **Crooks** = comms collapse; **Routh** = **closed tip** |
+
+#### Tier map
+
+| Claim | Tier |
+|-------|------|
+| Pavlick postcards, SS trail, Florida loss, post-Dallas charge drop | **Documented** |
+| Oswald FBI file; Hoover secret discipline; Warren non-disclosure | **Documented** — [NARA HSCA Findings](https://www.archives.gov/research/jfk/select-committee-report/part-1d.html) |
+| Moore FBI informant; SS interview; failed phone relay | **Documented** — [*NYT* 1975](https://www.nytimes.com/1975/09/27/archives/failure-to-restrict-miss-moore-linked-to-role-as-informer.html) |
+| Hinckley Nashville arrest; FBI non-forward to SS | **Documented** — [Reagan Library](https://www.reaganlibrary.gov/public/digitallibrary/whormsubject/jl003-01/551114.pdf) |
+| Byck SS 1972 “harmless” | **Documented** |
+| Crooks: 102 missed radios; detail unwarned | **Documented** — [DHS OIG 2026](https://www.oig.dhs.gov/sites/default/files/assets/2026-07/OIG-26-13-Jul26-Redacted.pdf) |
+| Routh: 2019 tip closed when tipster recanted | **Documented** — [FBI](https://www.fbi.gov/news/press-releases/update-on-the-fbi-investigation-of-the-attempted-assassination-of-former-president-donald-trump) |
+| Pattern = **intentional permit** without direction evidence | **Author synthesis** — **not** proven in any single case |
+| Pattern **supports** Kennedy **compliance fork** after **Pavlick** | **Project thesis** — [§2 step 1–2](#best-evidence-ladder-reply--audit-order) |
+
+#### Reply discipline
+
+| Audience | Lead with |
+|----------|-----------|
+| **“FBI killed JFK”** | **§2.5 does not require it** — lead **Pavlick**, **§2.1 motorcade**, **compliance fork**; cite **documented file lapses** as **envelope**, not **order** |
+| **“Pure lone nut, no warning”** | **Moore**, **Hinckley**, **Pavlick**, **Crooks** timelines — **prior touch** is **citable** |
+| **“Prove agencies incompetent”** | IG/Congress findings on **Crooks**; **Knight** on Hinckley; **1975** Ford hearings on Moore |
+| **Trump / agency war** | **Crooks** + **Routh** = **same step-3 shape**; **direction** = **site frame**, not **FBI press release** |
+
+**Cross-read:** [§1.1 Tier D Pavlick](#tier-d--documented-assassination-attempts-real-violence-not-hoax-compliance); [§2.4](#24-warren-commission--magic-bullet-containment-mock-divide-distract) (post-event **containment** after step 2); [§2.6](#26-target-list-intimidation-campaign--published-or-pocket-lists) (when step 2 includes **named target lists**); [good-actor antibody thesis](../../false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) (interagency **friction** lane — adjacent, not required).
+
+**Tier:** **Documented** case rows; **author** = pattern as **structural deniability** + Kennedy **compliance** pairing.
+
+### 2.6 Target-list intimidation campaign — published or pocket lists
+
+**Purpose:** Name a **second repeatable pattern** paired with [§2.5](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope): **lists of named officials** (in a pocket, notebook, or **published** “target map”) plus **violence or credible threat** — function = **intimidate a class of officeholders** and **shift votes, hearings, or public mood**, not only to kill one person.
+
+**Site read (author):** The **2017 Congressional Baseball shooting** is the **clearest modern US example** of **pocket-list + partisan targeting** widely reported in media — then **downgraded** by **FBI** within **seven days** to **“no terrorism nexus”** / **“suicide by cop.”** **House Intelligence majority report (May 2025)** later called that **premeditated assassination of Republicans** and **FBI public statements misleading**. **Project thesis (optional layer):** same **staged-kill grammar** as Kennedy — **public gunman** may not be the **same actor** as **ballistics** / **forensic object**; **list + spectacle** still **function** as **mass intimidation** whether or not every wound is **synthetic**.
+
+**Investigator discipline:** **Documented** = Hodgkinson list, Duncan pre-shot exchange, FBI 2017 presser, HPSCI 2025 report; **author** = intimidation-campaign frame + **shooter≠bullet** layer **not** **proven** in FBI file.
+
+#### Operational definition (three beats)
+
+| Beat | What it looks like |
+|------|-------------------|
+| **1 — List** | Handwritten **names + addresses / descriptions / phone numbers**, or **published** “target” map (crosshairs, districts, “reload”) |
+| **2 — Violence or threat theater** | Shooting, kidnapping, bombing, kneecapping — often at **soft venue** (practice field, constituent event, home) |
+| **3 — Institutional spin** | **FBI/DOJ** frames **lone actor**, **mental illness**, or **non-terror** — **§2.5 envelope** absorbs audit ([Moore](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope), **Hodgkinson** below) |
+
+**Pairing:** **§2.6** = **what the public sees** (list + terror). **§2.5** = **what agencies do after** (touch file → fail to prevent → **no conspiracy** finding + **negligence**).
+
+#### Anchor case — 2017 Congressional Baseball shooting (James T. Hodgkinson)
+
+| Field | Detail |
+|-------|--------|
+| **Date** | **14 Jun 2017** — Republican practice, Eugene Simpson Field, Alexandria VA |
+| **Casualties** | **Steve Scalise** (critical), Capitol Police **Crystal Griner** + **David Bailey**, staffer **Zack Barth**, lobbyist **Matt Mika** |
+| **Pocket list** | Paper with **six Republican members** — **Mo Brooks**, **Jeff Duncan**, **Trent Franks**, **Scott DesJarlais**, + two others; **office addresses**, **physical descriptions**, **Brooks’s phone number** on paper ([NBC](https://www.nbcnews.com/news/us-news/congressional-baseball-gunman-had-list-gop-lawmakers-names-n773571); [CBS](https://www.cbsnews.com/news/fbi-says-gunman-james-hodgkinson-acted-alone-in-alexandria-shooting/)) |
+| **Pre-attack conduct** | **~2 months** of photos of field (**15 images**, angles behind bleachers / home plate — FBI assessed **“possible probing/casing”**); asked Duncan **“Republican or Democrat team?”**; **70+ rounds** fired |
+| **FBI (7 days)** | **Jun 21 2017** joint presser: **“no nexus to terrorism”**; list **“no context”**; photos **not surveillance** — **contradicted** by case file per [HPSCI majority report May 2025](https://intelligence.house.gov/uploadedfiles/majority_report_of_baseball_shooting.pdf) |
+| **FBI (later)** | **2021** — Jill Sanborn: would **today** characterize as **domestic terrorism**; **2025 HPSCI** — **premeditated assassination attempt** on **Republicans** to **affect government conduct** |
+
+**HPSCI 2025 findings (documented):** FBI **truncated** family statements (omitted **“protest and attend rallies”**, **“may not see him again”**); **failed to substantively interview** members on field (**Mo Brooks** on list, **not interviewed**); rushed **“suicide by cop”** despite **no uniformed police** at first shots; **classified** file **obscured** weak investigation.
+
+**Site read:** Textbook **intimidation campaign** — **list** proves **class target**, not random rage; **FBI spin** = **§2.5 step 3** (**minimize terror label** → **lone + suicidal**).
+
+#### United States — other target-list or map-intimidation cases
+
+| Era | Case | List / map | Violence | Spin / notes |
+|-----|------|------------|----------|--------------|
+| **1967–71** | **COINTELPRO** (FBI) | **“Rabble rousers,” “key activists,”** Black nationalist **target lists** — Church Committee | Harassment, raids, **Fred Hampton** killing; **379** proposed actions vs Black groups | **State-side** intimidation — **CIA/FBI lane**, not left NGO ([Church Report Bk III](https://www.transformation.dk/www.raven1.net/cointeldocs/churchfinalreportIIIa.htm)) |
+| **2010–11** | **Giffords / Tucson** | **Sarah Palin “target list”** map with **crosshairs** on **20** Dem districts incl. Giffords | **Jared Loughner** shot Giffords + **6** killed | **No proven link** Loughner ↔ Palin map — but **Giffords warned** of consequences ([*NYT* Jan 2011](https://www.nytimes.com/2011/01/09/us/politics/09capital.html)) — **published-map intimidation grammar** |
+| **2017** | **Hodgkinson** | **Pocket list** (above) | Baseball practice shooting | FBI **non-terror** → HPSCI **terror** |
+| **2025** | **Vance Boelter / Minnesota** | **Notebooks** — **45+** MN Dem officials + targets in **MI, OH, WI**; fake police vehicle | Rep. **Melissa Hortman** killed; Sen. **Hoffman** wounded | Prosecutors: **meticulously planned** ([PBS](https://www.pbs.org/newshour/politics/minnesota-shooting-suspect-had-a-list-of-dozens-of-potential-democratic-targets-prosecutors-say)) — **mirror image** of Hodgkinson (**R** vs **D** target class) |
+
+**Count (US, documented list + political violence):** **Few** at **Hodgkinson/Boelter** clarity — most US political shootings are **single-target** without a **published pocket roll**. **Many more** **published-map** / **rhetoric** cases (**Giffords**, campaign **“reload”** discourse) function as **intimidation without** a shooter carrying names.
+
+#### International — obvious mass-intimidation / target-class campaigns
+
+| Country | Period | Actor (attributed) | Mechanism | Notes |
+|---------|--------|-------------------|-----------|-------|
+| **Italy** | **1969–82** “Years of Lead” | **Red Brigades** (far-left) | **Named politicians/judges** kidnapped & killed (**Aldo Moro** 1978); **14,591** terror attacks catalogued 1969–88 | **Left urban-guerrilla** target class — intimidated **entire DC party** ([Years of Lead](https://en.wikipedia.org/wiki/Years_of_Lead_(Italy))) |
+| **Italy** | Same era | **Neo-fascist / strategy of tension** (incl. **Gladio** debates) | **Indiscriminate bombings** (Piazza Fontana **1969**, Bologna **1980**) blamed on left to **panic** public toward **authoritarian** turn | **CIA-adjacent / NATO stay-behind** literature — **state-facilitated** **mass fear**, not pocket lists |
+| **West Germany** | **1970s–90s** | **RAF** (Red Army Faction) | **Assassinations** of **Siemens execs**, **Schunkert**, **Buback**, **Ponto**, **Drenkmann** — **“wanted”** communiqués | **Left** **target rolls** in propaganda |
+| **UK** | **1970s–90s** | **IRA** | **Assassination** of **Airey Neave**, **Mountbatten**, **MP** targets; **“legitimate target”** lists in comms | **Nationalist** — not globalist left, but **same intimidation grammar** |
+| **Sweden** | **1986** | **Olof Palme** assassination | **Single PM** — **no pocket list** in public record | **Unsolved** — cited in **Gladio/strategy-of-tension** discourse, **not** list-campaign anchor |
+| **Chile / S. Cone** | **1970s** | **Operation Condor** | **Cross-border** **target lists** of **left dissidents** | **CIA-aligned** **regime** coordination — **state** intimidation at scale |
+
+**Author lane split:**
+
+| Orientation | Examples | Function |
+|-------------|----------|----------|
+| **Left / “globalist” NGO or guerrilla** (site framing) | **Red Brigades**, **RAF**, **Hodgkinson**, **Boelter** (per prosecution) | **Coerce** legislatures & **punish** party class |
+| **CIA / FBI / stay-behind** (site framing) | **COINTELPRO lists**, **strategy of tension**, **Condor** | **Coerce** populations & **neutralize** leaders via **fear + blame** |
+
+**Not every shooting is a list campaign** — require **(a) named class of officials** + **(b) credible planning or published map** + **(c) violence or mass fear event**.
+
+#### Pairing §2.6 with §2.5 — Hodgkinson as dual pattern
+
+| §2.5 step | Hodgkinson instance |
+|-----------|---------------------|
+| **1 Investigate** | Family interviews (**5** members); **casing photos**; social media; **FBI** had **terror statute** definition in file |
+| **2 Attempt** | **List in pocket** + **70 rounds** at **R** **baseball practice** |
+| **3 Non-action / spin** | **7-day** **non-terror** presser; **suicide-by-cop**; **no victim interviews**; **2021** reversal only under **Jan 6** political pressure |
+
+#### Site thesis — gunman vs bullet (optional)
+
+Same **fork** as Kennedy **staged-kill** read: **public narrative** assigns **one body** (**Hodgkinson**) as **shooter**; **forensic audit** may still ask whether **every injury** matches **attributed weaponry** / **line of fire** — **§2.6 does not require** that claim; **intimidation function** lands from **list + spectacle** alone.
+
+#### Tier map
+
+| Claim | Tier |
+|-------|------|
+| Hodgkinson carried **six-name** list with **addresses/descriptions** | **Documented** |
+| Duncan **“Republican team?”** exchange before shooting | **Documented** |
+| FBI **2017** **non-terror** / **suicide-by-cop** vs **2025 HPSCI** **domestic terror** read | **Documented** |
+| Boelter **45+** Dem target notebooks (**2025**) | **Documented** (prosecution) |
+| COINTELPRO **target lists** + intimidation | **Documented** — Church Committee |
+| Italy **Years of Lead** **mass intimidation** | **Documented** |
+| Hodgkinson **≠** ballistic actor / **staged wounds** | **Author thesis** — **unproven** |
+| All **left** list campaigns = **CIA cutout** | **Rejected** — case-by-case; **Gladio** lane is **separate** documented thread |
+
+#### Reply discipline
+
+| Use | Lead with |
+|-----|-----------|
+| **Dean / congressional audience** | **Hodgkinson pocket list** + **HPSCI 2025** vs **FBI 2017** spin — **intimidation**, not “random” |
+| **“How often?”** | **Rare** with **pocket lists** (**2017**, **2025**); **common** as **rhetoric/maps** (**2010 Palin**); **Italy/COINTELPRO** = **mass** historical |
+| **Kennedy parallel** | **§2.6** = **terrorize officeholder class**; **Kennedy** = **fake-kill one president** — different **object**, shared **spectacle + institutional spin** |
+
+**Cross-read:** [§2.5](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope); [good-actor antibody thesis](../../false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md); [20th–21st c. catalog](../../false_flag/investigations/20th-21st-century-catalog.md).
+
+**Tier:** **Documented** Hodgkinson/Boelter/COINTELPRO/Italy rows; **author** = named **intimidation-campaign** pattern + optional **shooter≠bullet**.
+
+### 2.7 Author synthesis — motive inversion, rogue lanes, ground cabals
+
+**Purpose:** Capture **site author sentiment** on **post-JFK assassination attempts** and **political violence** — how it fits [§2.5](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope), [§2.6](#26-target-list-intimidation-campaign--published-or-pocket-lists), and the **Kennedy compliance** read ([§2 step 1–2](#best-evidence-ladder-reply--audit-order)). **Not mainstream adjudication** — **reply / worldview anchor** for conversations (e.g. Dean, congressional-audience threads).
+
+**Investigator discipline:** Distinguish **documented** case facts from **author moral frame** below. **Does not** claim every shooting is staged or cartel-ordered.
+
+#### Pavlick — the only parseable “citizen” motive
+
+Of documented presidential attempts, **Richard Pavlick (Dec 1960)** is the **only** case where the **author** can imagine a **civilian logic** a normal person could **parse without laughing** — willingness to die to **stop a presidency** read as **illegitimate** and, by extension, **stop shipping tens of thousands of boys** into **foreign wars** the public is already sick of.
+
+| Layer | Read |
+|-------|------|
+| **Documented** | Pavlick: anti-Catholic, *“Kennedy money bought the White House”*, dynamite Buick — [§1.1 Tier D](#tier-d--documented-assassination-attempts-real-violence-not-hoax-compliance) |
+| **Author moral frame** | Even if Pavlick’s **stated** grievance was **not** Vietnam-explicit, his attempt is the **only** one in the catalog that **resembles** a **war-stop** motive — vs **absurdist packaging** everywhere else |
+| **Site pairing** | **Real attempt** → **family compliance** after **close calls**; Pavlick fears **came true** in board outcome (**Vietnam scale-up** after Dallas) whether kill was **real** or **theater** |
+
+**Not an endorsement** of political murder — a **motive taxonomy** claim: **war-resistance** is the **only** assassin logic that **could** make **moral sense** to a **citizen**; the rest read as **institutional packaging** or **inverted outcomes**.
+
+#### Motive inversion — attempts that backfire
+
+Most post-JFK attempts **could easily produce the opposite** of whatever the **attributed gunman** supposedly wanted:
+
+| Attempt | Attributed motive (official) | Likely **inverse** outcome |
+|---------|------------------------------|----------------------------|
+| **Dallas (1963)** | Remove **war-resistant** president (Oswald frame) | **Grief + martyr** → **Vietnam escalation** ([documented timeline](#best-evidence-ladder-reply--audit-order)) |
+| **Reagan (1981)** | Hinckley / Foster obsession | **Sympathy + mandate** for hardline Cold War |
+| **Ford (1975)** | Redwoods / revolution gesture | **Bulletproof trenchcoat** era; **no** policy win for shooters |
+| **Trump (2024)** | Crooks / Routh — motive thin or closed-file | **Martyr strength**, base **hardening**, **security state** expansion — **site:** NSA-aligned target, **CIA-adjacent** friction lane |
+| **Hodgkinson (2017)** | Anti-Trump protest / terror (HPSCI) | **Republican unity** optics; **Scalise** survival narrative |
+
+**Author claim:** **Shooting a populist or war-skeptic front-runner** tends to **strengthen** the faction under attack — not remove it. That is **why** many attempts **feel** like **rogue lane** **theater** or **incompetent** **cutouts** ([§2.5](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)), not **competent top-level removal**.
+
+#### Not one Deep State — rogue lanes protecting programs
+
+**Author rejects** the cartoon **“one brain Deep State ordered the hit.”** Working model:
+
+| Element | Site read |
+|---------|-----------|
+| **Decision level** | **Not** standing **POTUS / NSC** order — **rogue parts** of **CIA-aligned** bureaucracy, **informants**, **neglected files**, **local cutouts** **protecting their own programs** when a president or faction blocks them |
+| **Alignment** | **Fragmented** — **endless special-interest** and **mafia cabals** with **partial overlap**, **not** marching in lockstep |
+| **CIA vs NSA** | **CIA activity** treated as **deep-state aligned**; **NSA** as **largest institutional opposition** — see [good-actor antibody thesis](../../false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md), [nsa-investigation](/governance/war/investigations/nsa-investigation.md) |
+| **Patterns** | [§2.5](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope) + [§2.6](#26-target-list-intimidation-campaign--published-or-pocket-lists) **do not require** a **signed order** — only **deniability** + **spectacle** |
+
+#### Ground-level cabal — cartels and media silence
+
+**Author claim (ground truth, under-reported):** The most **obvious influential cabal on U.S. soil** — in **coercion, logistics, cash, and political fear** — is **Mexican cartel infrastructure** inside the United States. **Legacy media** is **paranoid** about naming it; **won’t report** at **proportion** to **street-level** influence.
+
+| Claim | Tier |
+|-------|------|
+| Cartels run **major** U.S. **distribution / coercion** networks | **Author thesis** — **border / drug-war** literature; **not** fully developed in this file |
+| Cartels **wrote** Warren Report or **ordered** Hodgkinson | **Rejected** — **no claim** here |
+| Cartels are **part of** the **intimidation layer** the public **doesn’t** see next to **lone-nut** headlines | **Author synthesis** — **parallel** to **§2.6** **class intimidation**, **different** actor class than **FBI informant** lane |
+
+**Reply use:** When audience asks **“who is Deep State?”** — **not one group**; **CIA programs**, **NSA friction**, **cartel ground power**, **COINTELPRO-style lists**, **campaign target maps** — **overlapping**, **competing**, **often inverting** the **stated** motive of the **public shooting**.
+
+#### Absurdist motive packaging (why Pavlick stands alone)
+
+| Assailant | Official / reported motive | Author read |
+|-----------|---------------------------|-------------|
+| **Hinckley** | Jodie Foster / *Taxi Driver* | **Packaging** |
+| **Fromme** | Redwood trees / Manson milieu | **Packaging** |
+| **Moore** | Revolution + **FBI informant** | **Packaging** + **§2.5 asset lane** |
+| **Duran** | Anti-Clinton + delusion | **Packaging** |
+| **Crooks** | **No motive** on file | **Packaging** |
+| **Pavlick** | Stop illegitimate presidency (**author:** war-stop **grammar**) | **Only parseable citizen logic** |
+
+#### Tier map (§2.7)
+
+| Claim | Tier |
+|-------|------|
+| Pavlick documented facts; Vietnam **escalates after** Dallas | **Documented** |
+| Hinckley, Fromme, Moore, Hodgkinson, Crooks motives as tabulated | **Documented** (official record) |
+| **Only Pavlick** has **citizen-parseable** war-stop **moral frame** | **Author** |
+| Most attempts **invert** intended political outcome | **Author synthesis** |
+| **Rogue lanes**, not unified top-level Deep State order | **Author** — site worldview |
+| **CIA aligned** / **NSA opposition** | **Author** — [agent.md](../agent.md), antibody lane |
+| **Cartel cabal** + **media under-report** | **Author** — **under-developed**; flag for future dossier |
+
+#### Reply discipline
+
+| Audience | Lead with |
+|----------|-----------|
+| **“Who ordered it?”** | **§2.5/§2.6 patterns** — **rogue lane** + **deniability**; **not** required: **POTUS order** |
+| **“Lone nuts are random”** | **Motive inversion table** + **Hodgkinson list** |
+| **“Pavlick proves real assassination culture”** | **Yes** — **compliance fork** anchor; **Dallas** may still be **theater** on top |
+| **Cartels** | **Ground intimidation** thesis — **don’t** claim cartel **authored** JFK file without **primary** |
+
+**Cross-read:** [agent.md](../agent.md); [§6 paradigm arc](#6-paradigm-arc-betrayal-antibodies-endgame-author); [20th–21st c. catalog](../../false_flag/investigations/20th-21st-century-catalog.md).
+
+**Tier:** **Author synthesis** — canonical **sentiment capture** for post-JFK attempt threads.
+
 ---
 
 ## 3. RFK — June 1968 Ambassador Hotel
@@ -711,6 +987,9 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Q11 | **H.R. 8275 / BIDEN Act** — if either **passes**, does it **close** **Tier B** **gap** or **create** new **§4** **weaponization** lane? |
 | Q12 | **§2.3 PP catalog** — any **pre-1963** film/TV with **robot decoy + blood forensics** **both** in one scene, or is the **A-tier stack** always **assembled** from **separate** titles? |
 | Q13 | **§2.4 Salandria “transparent conspiracy”** — **primary** evidence Report **authors knew** SBT was **incredible by design** vs **patriotic rush + Specter ingenuity**? |
+| Q14 | **§2.5 negligence envelope** — any **primary** **FBI/SS** doc showing **Moore** or **Oswald** **tasked** as **assets** vs **independent** **informant** + **file** **lapse** only? |
+| Q15 | **§2.6 Hodgkinson** — independent **ballistics / line-of-fire** audit vs **HPSCI** terror read — any **primary** support for **shooter≠sole ballistic actor**? |
+| Q16 | **§2.7 cartel ground cabal** — **primary** dossier tying **U.S. cartel coercion** to **political intimidation** at **§2.6** scale, or **author flag** only? |
 
 ---
 
@@ -744,6 +1023,17 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | **CIA Dispatch 1035-960** (1967) | **§2.4** — ridicule Warren critics — [NYT](https://www.nytimes.com/1977/12/26/archives/cable-sought-to-discredit-critics-of-warren-report.html); [PDF](https://911speakout.org/wp-content/uploads/CIA-DOC-1035-960.pdf) |
 | **Donald Wilkes** — media + CIA | **§2.4** — [fac_pm/269](https://digitalcommons.law.uga.edu/fac_pm/269) |
 | **History Matters — CE 399** | **§2.4 forensic lane** — [Even More Magical](https://historymatters.com/essays/frameup/EvenMoreMagical/EvenMoreMagical.htm) |
+| **§2.5 investigate → attempt → non-action** | Master table — Pavlick, Vallee, Oswald, Moore, Hinckley, Byck, Crooks, Routh — [§2.5](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope) |
+| **DHS OIG — Trump Butler (Jul 2026)** | **§2.5** Crooks — 102 missed radios — [OIG-26-13](https://www.oig.dhs.gov/sites/default/files/assets/2026-07/OIG-26-13-Jul26-Redacted.pdf) |
+| **FBI — Trump Butler investigation** | **§2.5** Crooks not pre-known — [fbi.gov press release](https://www.fbi.gov/news/press-releases/update-on-the-fbi-investigation-of-the-attempted-assassination-of-former-president-donald-trump) |
+| ***NYT* — Moore informant (Sep 1975)** | **§2.5** Ford SF — [Sep 27, 1975](https://www.nytimes.com/1975/09/27/archives/failure-to-restrict-miss-moore-linked-to-role-as-informer.html) |
+| **Reagan Library — Hinckley / FBI handoff** | **§2.5** Nashville arrest — [WHORM JL003-01](https://www.reaganlibrary.gov/public/digitallibrary/whormsubject/jl003-01/551114.pdf) |
+| **§2.6 target-list intimidation** | Hodgkinson **2017**, Boelter **2025**, COINTELPRO, Italy — [§2.6](#26-target-list-intimidation-campaign--published-or-pocket-lists) |
+| **HPSCI Majority Report — Baseball shooting (May 2025)** | **§2.6** Hodgkinson — FBI misled public — [intelligence.house.gov PDF](https://intelligence.house.gov/uploadedfiles/majority_report_of_baseball_shooting.pdf) |
+| **NBC / CBS — Hodgkinson GOP list (Jun 2017)** | **§2.6** pocket list — [NBC](https://www.nbcnews.com/news/us-news/congressional-baseball-gunman-had-list-gop-lawmakers-names-n773571) |
+| **PBS — Boelter MN target notebooks (2025)** | **§2.6** Dem target class — [PBS News](https://www.pbs.org/newshour/politics/minnesota-shooting-suspect-had-a-list-of-dozens-of-potential-democratic-targets-prosecutors-say) |
+| **Church Committee — COINTELPRO** | **§2.6** state target lists — [Book III](https://www.transformation.dk/www.raven1.net/cointeldocs/churchfinalreportIIIa.htm) |
+| **§2.7 author synthesis** | Pavlick motive taxonomy, rogue lanes, motive inversion, cartel media silence — [§2.7](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals) |
 | **Business Plot / McCormack–Dickstein** | **§1.1 Tier A** — [NYT Nov 21, 1934](https://www.nytimes.com/1934/11/21/archives/gen-butler-bares-fascist-plot-to-seize-government-by-force-says.html); [Wikipedia + 1935 report](https://en.wikipedia.org/wiki/Business_plot) |
 | **Grover Cleveland yacht surgery** | **§1.1 Tier B** — [PBS / Algeo](https://www.pbs.org/newshour/show/the-president-is-a-sick-man-details-secret-surgery-of-president-cleveland) |
 | **Wilson stroke cover-up** | **§1.1 Tier B** — [JNS Neurosurgical Focus](https://thejns.org/focus/view/journals/neurosurg-focus/39/1/article-pE6.xml) |
@@ -771,9 +1061,9 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Good-actor / NSA antibody | [good-actor-theory-interagency-antibody](../../false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | NSA / Ellsberg / Tonkin | [nsa-investigation](/governance/war/investigations/nsa-investigation.md) |
 
-Keywords: #JFK #RFK #Kennedy #Sirhan #StagedAssassination #FakeDeath #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #FX #DarkKnightRises #RobotDecoy #BloodSquib #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #ParadigmThreatFiles
+Keywords: #JFK #RFK #Kennedy #Sirhan #StagedAssassination #FakeDeath #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #FX #DarkKnightRises #RobotDecoy #BloodSquib #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #InvestigateAttemptNonaction #FBIAssassinationEnvelope #TargetListIntimidation #CongressionalBaseballShooting #RogueDeepState #MotiveInversion #ParadigmThreatFiles
 
-**Last updated:** 2026-07-03 (§2.4 Warren / magic bullet containment; §2.3 PP catalog; *Friday* Tier A)
+**Last updated:** 2026-07-05 (§2.7 author synthesis; §2.6 target-list intimidation; §2.5 negligence envelope)
 
 ---
 

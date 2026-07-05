@@ -1,8 +1,31 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-04T14:03:02.090Z",
+    "date": "2026-07-05T15:12:39.060Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/20th-21st-century-catalog.md",
+        "href": "/events/false_flag/investigations/20th-21st-century-catalog"
+      },
+      {
+        "status": "M",
+        "path": "events/jfk/agent.md",
+        "href": "/events/jfk/agent"
+      },
+      {
+        "status": "M",
+        "path": "events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md",
+        "href": "/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-04T14:03:00.000Z",
+    "message": "Add Substack link for Part A CERN portal essay.",
     "files": [
       {
         "status": "M",
@@ -2020,28 +2043,6 @@
       {
         "src": "https://paradigmthreat.net/influence/censorship/substack-edit-page-not-found-2026-06.png",
         "alt": "Substack edit page not found while Latest feed still lists Paradigm Threat — platform enclosure and index tiering, June 2026"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-03T14:04:41.000Z",
-    "message": "Pre-publish pass on Alef essay: images, prose tables, abs URLs.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.md",
-        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.png",
-        "alt": "The Internet That Should Have Been — clogged flows and the mesh we did not get"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/censorship/substack-edit-page-not-found-2026-06.png",
-        "alt": "Substack edit page not found while Latest feed still lists Paradigm Threat — platform enclosure, June 2026"
       }
     ]
   }
