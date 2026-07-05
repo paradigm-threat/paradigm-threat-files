@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-05T15:17:41.362Z",
+    "date": "2026-07-05T16:13:01.982Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
+        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/events/philadelphia/philadelphia_experiment.png",
+        "alt": "Philadelphia Experiment — events hub art"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-05T15:17:39.000Z",
+    "message": "Ignore .venv-image-gen in gitignore.",
     "files": [
       {
         "status": "M",
@@ -8802,19 +8820,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-07-03T15:15:00.000Z",
     "message": "Re-master Alef call audio from OBS MKV source.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/alef-and-the-clogged-internet.m4a",
-        "href": "/influence/controlled_opposition/alef-and-the-clogged-internet.m4a"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-03T14:58:01.000Z",
-    "message": "Normalize Alef call audio: louder, declipped, limited.",
     "files": [
       {
         "status": "M",
