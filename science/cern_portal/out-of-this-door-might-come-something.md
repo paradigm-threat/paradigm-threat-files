@@ -123,7 +123,9 @@ Keywords: #Cern #Mars #Portal #DeadPlanetProtocol #WWW #Vav #Jerusalem #Predicti
 
 **Substack:** [paradigmthreat2.substack.com/p/out-of-this-door-might-come-something](https://open.substack.com/pub/paradigmthreat2/p/out-of-this-door-might-come-something?r=5p8s4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
-**Last updated:** 2026-07-04T10:02:00-04:00
+**Reddit (July 2026):** I tried to post this essay on Reddit. AutoModerator or human mods removed it in every instance. A few people said it was interesting; most of the rest was insults. There is no subreddit for this discussion — not obscure, not buried, none. No quantum-portal community. No life-on-Mars read except a TV show fan sub. The conclusions in this series do not already exist as living threads on that platform. Fifteen years of research on my side; lately LLMs help me draft and organize articles, but every published sentence is mine. When a platform this large has zero venue for a thesis lane and zero tolerance for posting it, that is a definitive sign of non-organic information control. Reddit remains one of the most flagrant examples of bad moderation, bad ethics, and a karma system that polices everyone into silence.
+
+**Last updated:** 2026-07-06T08:05:00-04:00
 
 ---
 

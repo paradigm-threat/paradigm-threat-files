@@ -1,8 +1,110 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-06T12:27:21.180Z",
+    "date": "2026-07-06T13:00:47.964Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md",
+        "href": "/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation"
+      },
+      {
+        "status": "M",
+        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
+        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
+      },
+      {
+        "status": "A",
+        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png",
+        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/declare-independence.md",
+        "href": "/influence/hollywood/declare-independence"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/declare-independence.png",
+        "href": "/influence/hollywood/declare-independence.png"
+      },
+      {
+        "status": "M",
+        "path": "science/cern_portal/out-of-this-door-might-come-something.md",
+        "href": "/science/cern_portal/out-of-this-door-might-come-something"
+      },
+      {
+        "status": "M",
+        "path": "science/cern_portal/page.md",
+        "href": "/science/cern_portal"
+      }
+    ],
+    "images": [
+      {
+        "src": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png"
+      },
+      {
+        "src": "/influence/hollywood/declare-independence.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png",
+        "alt": "The Philadelphia Experiment Was Not Time Travel — portal series Part B"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/declare-independence.png",
+        "alt": "Declare Independence — Independence Day as NSA unity-lane flagship"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png",
+        "alt": "Out of This Door Might Come Something — CERN portal series Part A"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
+        "alt": "LHC — 27 km ring of superconducting magnets and accelerator chain (Mars hub / CERN travel)"
+      },
+      {
+        "src": "https://paradigmthreat.net/science/cern_portal/cern-layout.png",
+        "alt": "CERN LHC — documented layout + portal architecture read (Earth); plan view with Lake Geneva, Points 1/5/8, Meyrin campus, centroid chamber; cross-section inset (green = documented, yellow = energetic harness, red = classified center)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cia_remote_viewing.jpg",
+        "alt": "CIA STARGATE — 1984 Mars remote-viewing session artwork (declassified lane; Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_plans.jpg",
+        "alt": "Future Circular Collider (FCC) — planned scale-up vs existing LHC at CERN (Nature / Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/mars_canals5.jpg",
+        "alt": "Percival Lowell — Mars and Its Canals (1906); intelligent-civilization waterworks read before Mariner (Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/ancient-stargates/ancient-stargates.png",
+        "alt": "Ancient stargates — suppressed gateways infographic; scattered Earth finds, 1950s confiscation, heaven (Nibiru / star worlds) to Earth link via ancient tablets"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/predictive_programming/doom.jpg",
+        "alt": "Doom film (2005) — quantum teleport between Earth and Mars (predictive programming catalog)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_storm.jpg",
+        "alt": "Viral CERN portal storm imagery — Geneva lightning vortex reads as “opened gate” in tabloid cycles (Mars hub)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at1.jpg",
+        "alt": "Gotthard Base Tunnel opening — BBC: “How Switzerland decided to mark world's longest rail tunnel” (1 June 2016)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at2.jpg",
+        "alt": "Gotthard ceremony — obedience theater near CERN geography (Mars hub)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-06T12:27:19.000Z",
+    "message": "Add Installment III Declare Independence — ID4 unity-lane essay.",
     "files": [
       {
         "status": "M",
@@ -8201,79 +8303,6 @@
       }
     ],
     "images": [
-      {
-        "src": "https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png",
-        "alt": "Out of This Door Might Come Something — CERN portal series Part A"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
-        "alt": "LHC — 27 km ring of superconducting magnets and accelerator chain (Mars hub / CERN travel)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_plans.jpg",
-        "alt": "Future Circular Collider (FCC) — planned scale-up vs existing LHC at CERN (Nature / Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars_canals5.jpg",
-        "alt": "Percival Lowell — Mars and Its Canals (1906); intelligent-civilization waterworks read before Mariner (Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cia_remote_viewing.jpg",
-        "alt": "CIA STARGATE — 1984 Mars remote-viewing session artwork (declassified lane; Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/doom.jpg",
-        "alt": "Doom film (2005) — quantum teleport between Earth and Mars (predictive programming catalog)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_storm.jpg",
-        "alt": "Viral CERN portal storm imagery — Geneva lightning vortex reads as “opened gate” in tabloid cycles (Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at1.jpg",
-        "alt": "Gotthard Base Tunnel opening — BBC: “How Switzerland decided to mark world's longest rail tunnel” (1 June 2016)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at2.jpg",
-        "alt": "Gotthard ceremony — obedience theater near CERN geography (Mars hub)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-04T12:03:49.000Z",
-    "message": "Rename portal pair to portal series across CERN and Philadelphia hubs.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/philadelphia/page.md",
-        "href": "/events/philadelphia"
-      },
-      {
-        "status": "M",
-        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
-        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
-      },
-      {
-        "status": "M",
-        "path": "science/cern_portal/out-of-this-door-might-come-something.md",
-        "href": "/science/cern_portal/out-of-this-door-might-come-something"
-      },
-      {
-        "status": "M",
-        "path": "science/cern_portal/page.md",
-        "href": "/science/cern_portal"
-      }
-    ],
-    "images": [
-      {
-        "src": "/events/philadelphia/philadelphia_experiment.png",
-        "alt": "Philadelphia Experiment"
-      },
-      {
-        "src": "https://paradigmthreat.net/events/philadelphia/philadelphia_experiment.png",
-        "alt": "Philadelphia Experiment — events hub art"
-      },
       {
         "src": "https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png",
         "alt": "Out of This Door Might Come Something — CERN portal series Part A"

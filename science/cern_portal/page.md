@@ -4,6 +4,7 @@
 
 **Status:** Open  
 **Reader essays (portal series):** [Part A — Out of This Door Might Come Something](/science/cern_portal/out-of-this-door-might-come-something.md) ([Substack](https://open.substack.com/pub/paradigmthreat2/p/out-of-this-door-might-come-something?r=5p8s4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)) · [Part B — Philadelphia Was Not Time Travel](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md)  
+**Distribution (July 2026):** Part A was attempted on Reddit; removed by AutoMod or mods in every instance. No existing subreddit covers this thesis lane (quantum portal, Mars cosmology, Philadelphia precursor) — see Part A footer note.  
 **Primary dossier:** [CERN as Earth–Mars Quantum Gateway](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) — æther physics, Maxwell, Mars-only siting, Dead Planet Protocol §3.4–§3.6, WWW §6.4, **disclosure sequencing §11**  
 **Ancient stargates:** [Ancient stargates hub](/history/chronology/ancient-stargates/page.md) — **27** `stargate-*.jpeg` assets, [`ancient-stargates.png`](/history/chronology/ancient-stargates/ancient-stargates.png), heaven–Earth thesis, **Cabel Adams** source lane; [image catalog investigation](/history/chronology/ancient-stargates/investigations/early-20th-century-stargate-discoveries-image-catalog-investigation.md)  
 **Philadelphia precursor:** [Philadelphia portal precursor investigation](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) (extracted from former dossier §10)
