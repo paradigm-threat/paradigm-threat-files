@@ -1,9 +1,12 @@
+import json
 import os
 import re
-import json
 import subprocess
+import urllib.error
+import urllib.request
 from datetime import datetime, timezone
 from typing import Dict, Optional
+from urllib.parse import urlparse
 
 from PIL import Image
 
@@ -13,6 +16,12 @@ from PIL import Image
 # each path (one `git log` pass); untracked or missing paths fall back to mtime.
 _BLOG_DATED_MD = re.compile(r"^(\d{4}-\d{2}-\d{2})-.+\.md$")
 _KEYWORDS_LINE_RE = re.compile(r"^Keywords:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
+_SUBSTACK_MARKER_RE = re.compile(
+    r"\*\*Substack:\*\*\s*(?:\[[^\]]+\]\((https?://[^\s)]*substack\.com/[^\s)]+)\)|<?(https?://[^\s>]*substack\.com/[^\s>]+)>?)",
+    re.IGNORECASE,
+)
+_SUBSTACK_LOOSE_RE = re.compile(r"https?://[^\s)]*substack\.com/p/[A-Za-z0-9_\-]+", re.IGNORECASE)
+_SUBSTACK_DATE_PUBLISHED_RE = re.compile(r'"datePublished"\s*:\s*"([^"]+)"')
 
 # Minified JSON (smaller index for fetch/PWA). Images keep _width/_height only.
 _JSON_DUMP_KW = {"separators": (",", ":"), "ensure_ascii": False}
@@ -43,87 +52,103 @@ def _title_from_cs_file(full_path: str) -> str | None:
     return None
 
 
-def _extract_keywords_from_markdown_file(full_path: str) -> list[str]:
-    """Parse hashtag tokens from a Keywords: line (Option B: no hyphens inside tags)."""
+def _is_substack_post_url(url: str) -> bool:
+    try:
+        parsed = urlparse(url.strip())
+    except ValueError:
+        return False
+    if parsed.scheme not in ("http", "https"):
+        return False
+    host = (parsed.netloc or "").lower()
+    if not host.endswith("substack.com"):
+        return False
+    return "/p/" in (parsed.path or "")
+
+
+def _extract_md_index_fields(full_path: str) -> tuple[str | None, list[str], str | None]:
+    """Single read: title (first # line), Keywords hashtags, Substack URL."""
     try:
         with open(full_path, "r", encoding="utf-8") as f:
             content = f.read()
     except OSError:
-        return []
+        return None, [], None
+
+    title = None
+    for line in content.splitlines()[:20]:
+        s = line.strip()
+        if s.startswith("# "):
+            title = s[2:].strip()
+            break
+
+    kw: list[str] = []
     m = _KEYWORDS_LINE_RE.search(content)
-    if not m:
-        return []
-    # One token per #… run; disallow '-' so kebab tags fail indexing until fixed.
-    return re.findall(r"#([^\s#\-]+)", m.group(1))
+    if m:
+        kw = re.findall(r"#([^\s#\-]+)", m.group(1))
+
+    substack_url = None
+    marker = _SUBSTACK_MARKER_RE.search(content)
+    if marker:
+        found = (marker.group(1) or marker.group(2) or "").strip()
+        if found and _is_substack_post_url(found):
+            substack_url = found
+    if not substack_url:
+        loose = _SUBSTACK_LOOSE_RE.search(content)
+        if loose:
+            candidate = loose.group(0).strip()
+            if _is_substack_post_url(candidate):
+                substack_url = candidate
+
+    return title, kw, substack_url
 
 
-def _strip_markdown_lite(text: str) -> str:
-    text = re.sub(r"```[\s\S]*?```", " ", text)
-    text = re.sub(r"`([^`]+)`", r"\1", text)
-    text = re.sub(r"!\[[^\]]*\]\([^)]*\)", " ", text)
-    text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text)
-    text = re.sub(r"\*\*([^*]+)\*\*", r"\1", text)
-    text = re.sub(r"\*([^*]+)\*", r"\1", text)
-    text = re.sub(r"^#{1,6}\s+", "", text, flags=re.MULTILINE)
-    text = re.sub(r"^>\s?", "", text, flags=re.MULTILINE)
-    text = re.sub(r"\*\*TL;DR:\*\*\s*", " ", text, flags=re.IGNORECASE)
-    text = re.sub(r"TL;DR:\s*", " ", text, flags=re.IGNORECASE)
-    text = re.sub(
-        r"\b[\w./-]+\.(?:jpg|jpeg|png|gif|webp|svg|mp4|webm|pdf)\b",
-        " ",
-        text,
-        flags=re.IGNORECASE,
-    )
-    text = re.sub(r"\s+", " ", text)
-    return text.strip()
+def _extract_keywords_from_markdown_file(full_path: str) -> list[str]:
+    return _extract_md_index_fields(full_path)[1]
 
 
-def _extract_tldr_plain(content: str) -> str:
-    lines = content.split("\n")
-    for i, line in enumerate(lines):
-        trimmed = line.strip()
-        if not trimmed.startswith(">"):
-            continue
-        inner = re.sub(r"^>\s?", "", trimmed)
-        if not re.match(r"(\*\*)?TL;DR:", inner, re.IGNORECASE):
-            continue
-        block: list[str] = []
-        for j in range(i, len(lines)):
-            tl = lines[j].strip()
-            if tl.startswith(">"):
-                block.append(re.sub(r"^>\s?", "", tl))
-            elif block:
-                break
-        joined = "\n".join(block)
-        joined = re.sub(r"^\*\*TL;DR:\*\*\s*", "", joined, flags=re.IGNORECASE)
-        joined = re.sub(r"^TL;DR:\s*", "", joined, flags=re.IGNORECASE)
-        return _strip_markdown_lite(joined)
-    return ""
+def _extract_substack_url_from_markdown_file(full_path: str) -> str | None:
+    return _extract_md_index_fields(full_path)[2]
 
 
-def _extract_search_snippet_from_markdown_file(full_path: str, max_body_chars: int = 1200) -> str | None:
-    """Plain-text TL;DR + body excerpt for site search (path/title/keywords alone miss body terms)."""
+def _normalize_substack_published_iso(raw: str) -> str | None:
     try:
-        with open(full_path, "r", encoding="utf-8") as f:
-            content = f.read()
-    except OSError:
+        normalized = raw.strip().replace("Z", "+00:00")
+        dt = datetime.fromisoformat(normalized)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    except ValueError:
         return None
 
-    parts: list[str] = []
-    tldr = _extract_tldr_plain(content)
-    if tldr:
-        parts.append(tldr)
 
-    body = re.sub(r"\nKeywords:\s*.+$", "", content, flags=re.IGNORECASE | re.DOTALL)
-    body = re.sub(r"^#\s+.+\n", "", body, count=1)
-    plain = _strip_markdown_lite(body)
-    if len(plain) > max_body_chars:
-        plain = plain[:max_body_chars].rsplit(" ", 1)[0]
-    if plain:
-        parts.append(plain)
-
-    snippet = " ".join(p for p in parts if p).strip()
-    return snippet or None
+def _fetch_substack_original_published(url: str, cache: Dict[str, Optional[str]]) -> str | None:
+    if not _is_substack_post_url(url):
+        return None
+    if url in cache:
+        return cache[url]
+    skip_fetch = os.environ.get("SKIP_SUBSTACK_FETCH", "").strip().lower() in ("1", "true", "yes")
+    if skip_fetch:
+        cache[url] = None
+        return None
+    try:
+        req = urllib.request.Request(
+            url,
+            headers={"User-Agent": "paradigm-threat-index/1.0 (+https://paradigmthreat.net)"},
+        )
+        with urllib.request.urlopen(req, timeout=12) as resp:
+            if resp.status and resp.status >= 400:
+                cache[url] = None
+                return None
+            html = resp.read(750_000).decode("utf-8", errors="replace")
+        match = _SUBSTACK_DATE_PUBLISHED_RE.search(html)
+        if not match:
+            cache[url] = None
+            return None
+        iso = _normalize_substack_published_iso(match.group(1))
+        cache[url] = iso
+        return iso
+    except (urllib.error.URLError, TimeoutError, OSError, ValueError):
+        cache[url] = None
+        return None
 
 
 def _git_last_commit_unix_times(repo_dir: str) -> Dict[str, int]:
@@ -206,6 +231,9 @@ def generate_index():
     include_exts = {'.md', '.txt', '.pdf', '.json', '.srt', '.jpg', '.jpeg', '.png', '.webp'}
 
     git_times = _git_last_commit_unix_times(repo_dir)
+    substack_published_cache: Dict[str, Optional[str]] = {}
+    substack_fetch_attempts = 0
+    substack_fetch_ok = 0
 
     def build_tree(current_path):
         tree = {}
@@ -235,21 +263,12 @@ def generate_index():
                 is_hooks_cs = ext == '.cs' and rel_posix.startswith('hooks/')
                 if ext not in include_exts and not is_hooks_cs:
                     continue
-                # Extract title for .md files (first # heading only)
                 title = None
+                md_keywords: list[str] = []
+                md_substack_url: str | None = None
                 if ext == '.md':
-                    try:
-                        with open(full_path, 'r', encoding='utf-8') as f:
-                            for _ in range(20):
-                                line = f.readline()
-                                if not line: break
-                                line = line.strip()
-                                if line.startswith('# '):
-                                    title = line[2:].strip()
-                                    break
-                    except Exception:
-                        pass
-                
+                    title, md_keywords, md_substack_url = _extract_md_index_fields(full_path)
+
                 file_data = {}
                 if title:
                     file_data["_title"] = title
@@ -258,12 +277,15 @@ def generate_index():
                     if cs_title:
                         file_data["_title"] = cs_title
                 if ext == '.md':
-                    kw = _extract_keywords_from_markdown_file(full_path)
-                    if kw:
-                        file_data["_keywords"] = kw
-                    snippet = _extract_search_snippet_from_markdown_file(full_path)
-                    if snippet:
-                        file_data["_searchSnippet"] = snippet
+                    if md_keywords:
+                        file_data["_keywords"] = md_keywords
+                    if md_substack_url:
+                        nonlocal substack_fetch_attempts, substack_fetch_ok
+                        substack_fetch_attempts += 1
+                        published = _fetch_substack_original_published(md_substack_url, substack_published_cache)
+                        if published:
+                            substack_fetch_ok += 1
+                            file_data["_originalPublishedAt"] = published
 
                 if ext in {'.jpg', '.jpeg', '.png', '.webp'}:
                     try:
@@ -312,6 +334,15 @@ def generate_index():
         json.dump(tree, f, **_JSON_DUMP_KW)
     
     print(f"Generated index.json with {count} files at {output_file}")
+    if substack_fetch_attempts:
+        print(
+            f"Substack original publish dates: {substack_fetch_ok}/{substack_fetch_attempts} URLs",
+            end="",
+        )
+        if os.environ.get("SKIP_SUBSTACK_FETCH", "").strip().lower() in ("1", "true", "yes"):
+            print(" (SKIP_SUBSTACK_FETCH=1)")
+        else:
+            print()
 
 if __name__ == "__main__":
     generate_index()
