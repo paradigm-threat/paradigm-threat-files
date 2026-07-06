@@ -42,6 +42,7 @@ When several reader essays explore one **ongoing thesis**—e.g. **predictive pr
 
 - **Installment I:** [`influence/controlled_opposition/not-like-this.md`](../../influence/controlled_opposition/not-like-this.md) — *Matrix* two-camp handoff.
 - **Installment II:** [`influence/hollywood/everything-burns.md`](../../influence/hollywood/everything-burns.md) — Pacific / *Dark Knight* / *24* / Hong Kong litmus test.
+- **Installment III:** [`influence/hollywood/declare-independence.md`](../../influence/hollywood/declare-independence.md) — *ID4* unity / declass lane; Whitmore speech.
 
 ### Tables, lists, and catalog prose (articles vs investigations)
 
@@ -262,7 +263,7 @@ Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_IN
 - **Theory-led flagship (biology / continuity):** [`science/biology/circle-of-life-and-how-it-began.md`](../../science/biology/circle-of-life-and-how-it-began.md) ↔ [`science/biology/investigations/dna-fingerprint-scalar-life-investigation.md`](../../science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) plus [`creation event interpretations`](../../history/chronology/investigations/creation-event-interpretations.md).
 - **First-person thesis (Constitution / TONA):** [`governance/constitution/tona-not-war-liberty-rebrand.md`](../../governance/constitution/tona-not-war-liberty-rebrand.md) ↔ [`…/constitution-amendments-nationalist-globalist-battlefield-investigation.md`](../../governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) — **I** voice in the article; tiers and claims **C1–C41** in the dossier only.
 - **Corpus image reuse (Hollywood / antibodies / PP):** [`influence/hollywood/ghost-war-the-antibody-phase.md`](../../influence/hollywood/ghost-war-the-antibody-phase.md) — hero + mid-article PNGs from militainment, Benghazi, timeline antibodies, 911 PP, PP hub, Trump-era scorecard, Iran runner.
-- **Series (predictive programming in movies):** [`not-like-this.md`](../../influence/controlled_opposition/not-like-this.md) (Installment I) ↔ [`everything-burns.md`](../../influence/hollywood/everything-burns.md) (Installment II) — dedup shared two-camp frame; Pacific litmus test only in II.
+- **Series (predictive programming in movies):** [`not-like-this.md`](../../influence/controlled_opposition/not-like-this.md) (Installment I) ↔ [`everything-burns.md`](../../influence/hollywood/everything-burns.md) (Installment II) ↔ [`declare-independence.md`](../../influence/hollywood/declare-independence.md) (Installment III — *ID4* unity lane) — dedup shared two-camp frame; Pacific litmus in II; unity/declass in III.
 - **Operational thesis (declarative, no existence hedging):** [`science/cern_portal/out-of-this-door-might-come-something.md`](../../science/cern_portal/out-of-this-door-might-come-something.md) ↔ [`…/cern-mars-quantum-gateway-investigation.md`](../../science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) — **Why nothing else fits** closing; **cern-layout.png** for geometry; tiers and FOIA in dossier only.
 
 ---
