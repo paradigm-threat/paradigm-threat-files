@@ -10,11 +10,11 @@
 2. **Allende–Jessup narrative audit** → §3  
 3. **Documented anchors + debunk layer** → §4  
 4. **Control deposit — time travel substituted** → §5  
-5. **Continuum to CERN / Montauk** → §6  
+5. **Continuum to CERN / Montauk** → §6 (§6.1 Earth-field constraint — why not Mars)  
 6. **Predictive programming catalog** → §8  
 7. **Claims registry** → §7  
-8. **Open questions** → §9  
-9. **Source books — audit + legitimacy** → §10  
+8. **Open questions + source availability tiers** → §9 (§9.1 redaction vs scarcity; **§9.2 documents not located**)  
+9. **Source books — audit + legitimacy** → §10 (catalog pitfalls §10.7)  
 
 **Reader essay (Part B):** [The Philadelphia Experiment Was Not Time Travel](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md)  
 **Portal pair Part A:** [Out of This Door Might Come Something](/science/cern_portal/out-of-this-door-might-come-something.md)  
@@ -100,12 +100,22 @@ Rotating shipboard B-field  +  Earth telluric / global B-field
 | **ONR fact sheet** admits annotated Jessup mailed **1956**; officers **Sherby** / **Hoover** had **25** copies retyped (ONR count) vs **~127** Varo Manufacturing print (Varo foreword) — **count discrepancy** | **Documented** (both versions on record) |
 | **USS Eldridge** deck log / war diary Aug–Dec 1943 — **never in Philadelphia**; Bermuda trials Sep–Oct; NY; convoy Norfolk **2 Nov**; Casablanca | **Documented** — [NHC FAQ](https://www.history.navy.mil/faqs/faq21-1.html) (working copy: `~/dev/wget/philadelphia-experiment/onr-debunk-fact-sheet/`) |
 | **SS Andrew Furuseth** movement cards — **not in Norfolk same time as Eldridge** Oct 1943; master **William S. Dodge** denial letter | **Documented** — NHC FAQ |
-| **Project Rainbow** as WWII teleport code name | **Debunked** — NHC: RAINBOW = Rome–Berlin–Tokyo axis war plans |
+| **Project Rainbow** as WWII teleport code name | **Debunked** — NHC: RAINBOW = Rome–Berlin–Tokyo axis war plans; **also** Moore 1979 deposit label; **author read:** Bifrost — see **Rainbow — three collisions** below |
 | Einstein **UFT** completed + Navy invisibility research | **Debunked** — ONR sheet: Einstein part-time **ordnance/explosives** consultant 1943–44; no invisibility work cited |
 | **USS Timmerman** high-frequency generator corona (1950s) | **Documented** adjacent — ONR offers as possible origin of "crew injury" folklore |
 | Moore located **Carl Allen / Allende** (1970s); **1969 APRO** confession/repudiation | **Secondary** — Moore & Berlitz (1979) Ch 5 |
 | Asimov / Heinlein / de Camp @ same yard 1942–1945 | **Documented proximity** — not experiment proof ([Asimov Navy Yard](/influence/predictive_programming/fiction_encoding/asimov/01-biography-and-context.md)) |
 | Operational Philadelphia teleport | **Unverified** — legend tier |
+
+**Rainbow — three collisions (author frame):** The mass-market **Project Rainbow** label (Moore/Berlitz 1979; absent from Allende letters) sits atop **two other "Rainbow" files** and one **deeper rhyme**:
+
+| Layer | What "Rainbow" points at | Tier |
+|-------|--------------------------|------|
+| **Moore/Berlitz 1979** | Pop label for 1943 harbor teleport | Deposit — §5, §10.3 Ch 12 |
+| **NHC / ONR FAQ** | Wartime **RAINBOW** = Rome–Berlin–Tokyo **axis war plans** | Documented debunk — §10.4 |
+| **Bifrost (Golden Age)** | **Rainbow bridge** — natural skyward **quantum teleport** between fixed nodes (Earth ↔ Mars–Venus–Saturn axis); geometry-matched medium routing, **not** chronology; operator-literate transit before industrial reproduction | **Author thesis** — [Ech-In-Time — Tower / rainbow bridge](/cosmos/cosmology/ech-in-time/page.md); [Stonehenge bio-EM safety](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) |
+
+**Read:** Philadelphia is **ordered reproduction** of **Bifrost-class** place routing — rotating coil on a hull instead of a planetary rainbow arc — without Golden Age shells or off-switch for crew. Debunk stops at **war plans**; pop culture stops at **time travel**; neither has to name that **Rainbow** in myth already meant **natural portal**. Montauk **Phoenix absorbs Rainbow** (§10.5 Ch 8) is a **sequel name deposit** on the same collision stack.
 
 ---
 
@@ -139,6 +149,27 @@ Rotating shipboard B-field  +  Earth telluric / global B-field
 
 **Synthesis:** Philadelphia is **prototype class** — prove medium routing, burn crew, learn hand-stabilization limits. CERN is **industrial successor** — buried ring, particle-physics cover, same æther stress grammar.
 
+### 6.1 Earth-field constraint — why not Mars, why not anywhere else
+
+**Author thesis (extends §1, §9.3):** Harbor-pair trials **must run on Earth** — not Mars, not orbit, not an off-planet sterile lab. The mechanism couples a **shipboard rotating B-field** to **Earth's telluric / global field** and to **pre-scarred least-resistance paths** between fixed nodes (Philadelphia ↔ Norfolk). You cannot calibrate that coupling on Mars; **Mars endpoint grammar** ([CERN §3](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md)) still requires **Earth-side** proof first.
+
+**Hardware scarcity (1943):** Portal-class reproduction needed **industrial rotating-field hardware**, shipyard-scale power, degaussing-adjacent culture, and a **military compartment** willing to burn crew learning bio-EM storage limits. That bundle existed in **very few places** — chiefly **US Navy yards** (Philadelphia documented for WWII EM R&D). Philadelphia was not random geography; it was **Earth-field laboratory + industrial EM node**.
+
+**Secrecy (§9.3):** Complete blackout was always weak. **Complete off-planet execution** was impossible. The trial had to occur **where the field matches the planet you intend to route on** — and where the only wartime hardware lived.
+
+**WOTW deposit mirror:** H.G. Wells — *War of the Worlds* (1898) closes with Martians at Primrose Hill building a **great flying-machine**, experimenting **"upon our denser atmosphere"** when bacteria arrest them ([WOTW Martian analysis — Flying-Machine](/cosmos/mars/investigations/wotw-martian-analysis.md)). **Author read:** return-vessel / disc-class hardware for **Earth atmosphere** cannot be finalized on **Mars** or in **total secret** — it must be **built and test-flown here** before stable UFO-class airframes can be designed for terrestrial EM conditions. The novel **leaks** open-yard assembly the way Varo leaks harbor teleport — fiction as managed disclosure, not proof Wells witnessed 1943.
+
+**Saucer arc (speculative bridge):** **UAP reporting predates Wells** — [mystery airships 1896–97](/influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md) used **dirigible** hull vocabulary, not ground disc lift-off grammar. **Flying saucer** enters public language after **Kenneth Arnold (June 1947)** and **Roswell (July 1947)** — no clean pre-war record of a **ground disc** rising under observation. **Read:** ~1943 Philadelphia proves **ship-scale harbor routing** under Navy cover; a parallel incursion lane may have needed **Earth-tested disc stability** before fielding saucer-class platforms. **Disc craft are EM-coupled** — vulnerable to **radar, lightning, and terrestrial field interference**; Roswell-class crashes fit **coupling failure** under denser-atmosphere test, not random sky junk.
+
+| Layer | Hardware | Earth requirement |
+|-------|----------|-------------------|
+| **~1896–97** | Mystery airships (reported) | Overflight / contact — pre-disc vocabulary |
+| **~1943** | DE-173 coil (legend) | **Harbor pair** — Earth field + Navy yard |
+| **~1947** | Flying disc lore (Arnold / Roswell) | **Denser-atmosphere** stability; EM fragility |
+| **2008–** | LHC ring | Buried industrial successor — same Earth coupling |
+
+Cross-ref: [spore / Martian cylinders §B](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md) (WOTW); [PURSUE — Arnold / Roswell](/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md).
+
 ---
 
 ## 7. Claims registry
@@ -150,6 +181,8 @@ Rotating shipboard B-field  +  Earth telluric / global B-field
 | P3 | Media retimes space portals as time travel (1984 film, Montauk title) | **Author interpretive** |
 | P4 | Philadelphia → Montauk → CERN = one portal engineering continuum | **Author thesis** — Montauk unverified |
 | P5 | **Allende–Jessup–Varo** = primary artifact chain; Moore/Montauk = deposit layers | **Investigation read** — see §10.1 |
+| P6 | Portal precursors must run **on Earth** against **Earth's field** — not Mars; scarce yard hardware (~1943 US Navy) | **Author thesis** — §6.1 |
+| P7 | WOTW flying-machine + post-1947 saucer arc = Earth-first atmospheric hardware tests; discs **EM-vulnerable** (Roswell read) | **Author interpretive** — speculative bridge §6.1 |
 
 Cross-ref CERN dossier claims **A12–A15**.
 
@@ -205,11 +238,65 @@ Published as [Epistle 3](http://www.marclaidlaw.com/epistle-3/) ([Steam guide mi
 5. **Philadelphia newspaper** one-paragraph clip — Allende and Varo annotators both reference; never produced.  
 6. **Moore & Berlitz** — extent of **Thin Air** (1978 novel) plot borrowing ([Wikipedia — Philadelphia Experiment](https://en.wikipedia.org/wiki/Philadelphia_Experiment)); Moore intelligence-adjacent allegations in fringe literature — separate verification lane.
 
+### 9.1 Source availability — scarcity vs institutional absence vs catalog noise
+
+**Do not** read every failed fetch as **internet redaction.** Split gaps by cause:
+
+| Tier | What | Examples | Redaction read |
+|------|------|----------|----------------|
+| **A — Obtained (primary chain intact)** | Full text in repo / IA | Allende letters + Varo margins (`jessup-case-ufo-1955/`); Moore/Berlitz 1979; Navy/ONR FAQ; Montauk partial extract | **Not missing** — harbor-pair grammar is not blocked |
+| **B — Findable; access friction** | On Anna's or Hathitrust; browser / md5 required | Steiger **493a24** (1973 Tandem PDF); Barker **7768f** (Hathitrust OCR zip); §10.7 catalog pitfalls | **Catalog noise + paywall**, not scrubbing — wrong `Allende Letters` query returns Isabel Allende + 2007 Varo repacks |
+| **C — Scarce print; poorly digitized** | Small-run fringe; no clean mirror | Steiger **1968 Award** first edition (zero Anna's hits); Barker **1963 Saucerian** pamphlet (IA LibriVox item = CD insert only); Barker **1973 Varo facsimile** not queued | **Bibliographic scarcity** — normal for stapled UFO ephemera |
+| **D — Institutional / archival absence** | Cited or admitted once; no public file | Navy FOIA: **no Rainbow / teleport** documents; ONR FAQ: Varo episode **on record**, **no file copy** in holdings; Jessup's personal Varo copy rumored lost after 1959 | **Classification or embarrassment** plausible — **not** same as deleting web PDFs; **pre-CIA archive logic** §9.3 |
+| **E — Witness-document gaps** | Allende/Varo point to clips never produced | Philadelphia **one-paragraph** newspaper; Norfolk sighting vs **Furuseth movement cards** | Hoax tell **or** local-archive work — open §9 items 4–5 |
+
+**Project read:** The **interesting** absences are **D + E** (files and clips), not failure to find Steiger on a polluted Anna's search. **Deposit** layer (Moore Rainbow name, 1984 film, Montauk title) is **public and abundant** — opposite pattern from suppression. **Bifrost / Rainbow** name collision (§4) is **grammar steering**, not book deletion.
+
+**Maintainer:** Ingest pending Anna's downloads via `~/dev/wget/philadelphia-experiment/ingest-all.sh` when files land in `~/Downloads`. **2026-07-06:** Cleaned LibriVox CD-insert artifacts from `barker-strange-case-jessup-1963/`; Steiger IA mirror borrow-locked — browser PDF only.
+
+### 9.2 Documents not located (registry)
+
+**Status:** 2026-07-06. Cross-ref §9.1 tiers. **Primary Allende–Varo letter text is obtained** (§10.2 / `jessup-case-ufo-1955/`); rows below are **secondary books**, **institutional files**, or **witness clips** still missing from the working archive.
+
+| Document | Who cites it | Search / fetch tried | Tier (§9.1) | Notes |
+|----------|--------------|----------------------|-------------|-------|
+| **Philadelphia newspaper** — one-paragraph clip on alleged trial | Allende letters; Varo annotators ("check Philadelphia papers") | Newspapers.com / local-archive lane not run; never produced in any published stack | **E** | §9 item 5 — locate or falsify |
+| **Norfolk newspaper** / contemporaneous witness report | Allende; Moore Ch 5 | Not located; **NHC Furuseth movement cards** undermine Oct 1943 Norfolk window | **E** | §9 item 4 |
+| **Navy / ONR FOIA** — operational **Project Rainbow** / Eldridge teleport / Norfolk trial file | Moore Ch 8 "Elusive Archives"; legend | Official search: **no documents** (§10.4); maintainer FOIA not yet filed | **D** | §9 item 1 |
+| **ONR internal file** — annotated Jessup / Varo reprint episode | ONR information sheet admits episode; **no copy remains** in ONR holdings per FAQ | Navy [ONR FAQ 21-2](https://www.history.navy.mil/faqs/faq21-2.html) | **D** | Episode on record; file absent |
+| **Jessup's personal Varo copy** | Fringe lore; rumored lost after **1959** death | Not located | **D** | Distinct from Varo Manufacturing print run (~127) |
+| **Steiger & Whritenour — *New UFO Breakthrough* (1968, Award Books)** | First dedicated Allende-letters book; APRO lane | Anna's search **1968 / Award**: **zero hits**; use 1973 Tandem reprint | **C** | §10.6 |
+| **Steiger & Whritenour — *The Allende Letters* (1973 Tandem)** | Letter-book + witness character; Moore cross-ref | Anna's [`…493a24`](https://annas-archive.gl/md5/16643ad2d2692601a14e2f554b493a24); [IA `newufobreakthrou0000stei`](https://archive.org/details/newufobreakthrou0000stei) **401 borrow-locked**; not in `~/Downloads` — **pending ingest** | **B** | `steiger-allende-letters-1973/` empty; `ingest-steiger-annas.sh` |
+| **Gray Barker — *The Strange Case of Dr. M.K. Jessup* (1963, Saucerian)** | Earliest Jessup-death + Philadelphia stack | Anna's [`…7768f`](https://annas-archive.gl/md5/65add3c65d2e5a9e47d83c021cc7768f) Hathitrust OCR zip (~91 KB); Libgen **no** md5 hit; no clean PDF on open web; IA LibriVox = **CD insert only** (3 pp.) — **pending ingest** | **B** + **C** | `barker-strange-case-jessup-1963/`; `ingest-barker-annas.sh` |
+| **Gray Barker — Varo edition facsimile (1973, Saucerian Press)** | Sequel to 1963 pamphlet; solicitation / MIB frame | Not queued; contactee-canon lit cites Barker **1973** reprint | **C** | Optional bibliography lane |
+| **Riley Crabb — *M.K. Jessup and the Allende Letters* (1962 pamphlet)** | Cited in contactee-canon lit; Barker 1963 drew on it | Not obtained | **C** | Pre-Barker stack |
+| **Thin Air** (Simson & Burger, 1978 novel) | Moore bibliography; plagiarism allegation ([Wikipedia](https://en.wikipedia.org/wiki/Philadelphia_Experiment)) | Not obtained | **C** | §9 item 6 — verification only |
+
+**Not missing (do not list as redaction):** Allende letters + Varo margins; Moore/Berlitz 1979; Navy/ONR FAQ; Montauk 1992 partial extract — see §10 and `~/dev/wget/philadelphia-experiment/STATUS.md`.
+
+### 9.3 Pre-CIA secrecy — archive expectations vs wartime classification
+
+**Common misread:** Because the **CIA** (1947) and the modern **national security state** did not exist in **1943**, a Philadelphia teleport trial could not have been classified — or, conversely, must have leaked immediately because there was no Langley vault.
+
+**Both inferences fail.** Wartime **Navy / War Department** secrecy already covered degaussing, radar ECM, mine countermeasures, and convoy routing at Philadelphia. **Manhattan Project** compartmentalization ran **1942–45** without the CIA. Executive orders and service regulations restricted defense information throughout WWII; the **Office of Censorship** (1941–45) shaped what reached print. The Navy could run **shipyard EM work** in a **service compartment** — no CIA paper trail required.
+
+**What did not exist yet:** unified DoD (1947), NSC, Eisenhower-era classification grids (e.g. **EO 10501**, 1953), systematic declassification review, **FOIA** (1966). Modern researchers should **not** project post-CIA FOIA expectations onto **1943** — absence of a tidy **Rainbow / teleport** bundle is **Tier D** archive silence (§9.1), not proof the yard could not classify rotating-field trials.
+
+**Complete secrecy is a separate claim.** Even under wartime rules, a **harbor-scale** event with **crew injury** in a **major civilian shipyard** (thousands of workers; Asimov / Heinlein / de Camp proximity §4) is a poor fit for **zero** rumor forever. The **Allende letters (1955–56)** and **Varo reprint (1957)** are the documented **leak grammar** — ordered reproduction in print whether the 1943 trial occurred, was exaggerated, or was fabricated later. That chain is **not** explained by "no CIA yet"; it is explained by **imperfect containment** of a story too large for one vault, or by **hoax + institutional curiosity** (ONR officers retyping annotated fringe UFO marginalia).
+
+| Question | Wrong frame | Investigation read |
+|----------|-------------|-------------------|
+| Could the Navy classify EM work in 1943? | "No CIA = no secrecy" | **Yes** — degaussing and parallel programs prove wartime compartments |
+| Why no FOIA Rainbow file? | "Must have happened / must be scrubbed" | **Ambiguous** — Tier D; debunk + log disproof is the admitted public file |
+| Why Allende → Jessup → Varo? | "CIA would have stopped it" | **Leak or hoax stack** — complete secret **failed** at the letter–reprint layer, not because Congress had not invented Langley |
+
+**Project read:** Extreme classification explains why there was no press-release teleport. **Pre-CIA archive gaps** do not dissolve the Varo anomaly — and do not prove the Navy **could not** hide shipyard EM trials. They prove the **public record** is **debunk + artifact chain + folklore**, not operational Rainbow. **Geography** is a separate constraint: the trial could not run off-planet or off-field — see §6.1. See §10.1 hoax vs classified vs deposit.
+
 ---
 
 ## 10. Source books — audit and legitimacy
 
-**Working copies (2026-07-06):** Maintainer index `~/dev/wget/philadelphia-experiment/index-philadelphia-books.md` — texts extracted from Internet Archive streams (Moore/Berlitz, Jessup Varo, Montauk PDF extract, NHC/ONR FAQ PDF). **Not** from user `Downloads/` (no Philadelphia books found there).
+**Working copies (2026-07-06):** Maintainer index `~/dev/wget/philadelphia-experiment/index-philadelphia-books.md` — **Tier A** texts from Internet Archive (Moore/Berlitz, Jessup Varo, Montauk extract, NHC/ONR FAQ). **Tier B** Steiger/Barker pending browser ingest (§10.6, §9.1). Primary Allende–Varo chain **not** missing from the open web.
 
 ### 10.1 Legitimacy determination — are these books "about" our topic or misdirection?
 
@@ -219,7 +306,7 @@ Published as [Epistle 3](http://www.marclaidlaw.com/epistle-3/) ([Steam guide mi
 |--------|-------------------------------------|---------|
 | **Allende letters + Jessup *Case for the UFO* (Varo Edition)** | **Primary corpus** — harbor pair, oblate spheroid, Flame/Freeze/hand-laying, **no time travel** in core grammar | **Legitimate artifacts** — real objects on record; ONR fact sheet confirms annotated book + reprint episode. **Content** = legend tier for the 1943 event itself; **structure** = load-bearing for space-jump read. |
 | **US Navy / ONR FAQ fact sheets** | Official **debunk** of operational teleport; **documents** Eldridge logs, Furuseth timeline, **Rainbow** war-plan name, Varo incident admission | **Legitimate institutional record** — cover story + log disproof. **Not** misdirection: debunk explains what Navy admits. Does **not** dissolve Varo artifact chain. |
-| **Moore & Berlitz — *Project Invisibility* (1979)** | Popularized legend; coined mass-market **Project Rainbow** linkage; located Allende; fed **1984 film** time-travel deposit | **Mixed — secondary + deposit amplifier.** Preserves research trails (Allende, Varo, Jessup death) but packages as "documented" thriller. **Misdirection** = retiming + **Rainbow** name collision with real WWII **RAINBOW** plans (per NHC). Treat as **bibliography**, not primary. |
+| **Moore & Berlitz — *Project Invisibility* (1979)** | Popularized legend; coined mass-market **Project Rainbow** linkage; located Allende; fed **1984 film** time-travel deposit | **Mixed — secondary + deposit amplifier.** Preserves research trails (Allende, Varo, Jessup death) but packages as "documented" thriller. **Misdirection** = retiming + **Rainbow** name collision with WWII **RAINBOW** war plans (NHC) **and** obscuring **Bifrost** rainbow-bridge grammar (§4) |
 | **Nichols & Moon — *Montauk Project* (1992)** | Sequel folklore: **time travel**, **1943↔1983**, Mars tunnels, mind control, von Neumann — grafted onto Philadelphia | **Mostly misdirection** for Philadelphia truth. **Useful** only as §5 **deposit** evidence and §6 **speculative** Montauk→Mars bridge (Nichols tier). Ch 1 / App. E echo harbor-pair; Ch 12–14 are chronology/Mars shell. |
 
 **Project read:** The **operational grammar** this investigation loads on — **Philadelphia ↔ Norfolk**, separate invisibility vs teleport, bio-EM crew injury — is **concentrated in the 1955–1957 artifact chain**, not in Montauk or the 1984 film. **Moore/Berlitz** helped **bury** that grammar under **Rainbow + time-travel pop culture**. **Montauk** extended the burying with **Mars + chair + time wars**. That pattern is **consistent with control deposit** (§5), not proof the Navy ran Montauk — but it **is** proof the **public bookshelf** was steered away from harbor-pair specificity.
@@ -294,12 +381,35 @@ Single consolidated FAQ (~1996–1998). **Not a book** — included as fourth wo
 
 **IA:** [montaukprojectex00nich](https://archive.org/details/montaukprojectex00nich) (borrow-limited; working text from PDF extract in `~/dev/wget/philadelphia-experiment/montauk-project-1992/`)
 
-### 10.6 Not obtained — queue for Anna's Archive
+### 10.6 Browser queue — Anna's Archive (2026-07-06)
 
-| Book | Why it matters |
-|------|----------------|
-| **Steiger & Whritenour — *The Allende Letters*** | Letter corpus in book form; APRO lane |
-| **Gray Barker — *The Strange Case of Dr. M.K. Jessup*** | Jessup death + Varo rumor stack (1960s) |
+Maintainer index: `~/dev/wget/philadelphia-experiment/index-philadelphia-books.md`. **Do not** treat generic Anna's search hits as interchangeable — see §10.7.
+
+| Book | Anna's md5 | Status | Notes |
+|------|------------|--------|-------|
+| **Steiger & Whritenour — *The Allende Letters: The New UFO Breakthrough*** | [`16643ad2…493a24`](https://annas-archive.gl/md5/16643ad2d2692601a14e2f554b493a24) | **Pending ingest** | ~9.3 MB PDF — browser/Anna's only; [IA `newufobreakthrou0000stei`](https://archive.org/details/newufobreakthrou0000stei) **borrow-locked** (401). Run `ingest-steiger-annas.sh`. |
+| **Gray Barker — *The Strange Case of Dr. M.K. Jessup* (1963)** | [`65add3c6…7768f`](https://annas-archive.gl/md5/65add3c65d2e5a9e47d83c021cc7768f) | **Pending ingest** | ~91 KB Hathitrust OCR zip. LibriVox IA item = CD insert only — **removed** from `barker-strange-case-jessup-1963/`. Run `ingest-barker-annas.sh`. |
+
+**Maintainer:** `~/dev/wget/philadelphia-experiment/ingest-all.sh` · `STATUS.md`
+
+**1968 Steiger first edition** (Award Books): **no** direct Anna's hit as of 2026-07-06 — use **493a24** Tandem PDF or physical scan.
+
+### 10.7 Anna's Archive — catalog pitfalls (maintainer)
+
+**Problem:** Query `Allende Letters` is **not** a clean bibliography search.
+
+| Pitfall | What shows up | Verdict |
+|---------|---------------|---------|
+| **Isabel Allende surname** | *Aphrodite*, *House of Spirits*, *Paula*, etc. | **Wrong author** — ignore |
+| **Inner Light / Global Communications 2007–2012** | *The Allende letters and the VARO Edition of the Case for the UFO* | **Wrong book** — Varo **repack** with Barker intro; duplicates §10.2 IA extract |
+| **Moore & Berlitz 1979** | Sometimes adjacent in UFO searches | Secondary — already obtained §10.3 |
+| **Steiger — correct file** | md5 ends **`493a24`**; title *The Allende Letters: The New UFO Breakthrough*; Steiger + Whritenour; **1973 Tandem** PDF ~9.3 MB | **Use this** for letter-book + APRO lane |
+| **Steiger — wrong expectation** | Searching `1968` or `Award Books` on Anna's | **Zero files** — first edition not indexed; 1973 reprint is the working copy |
+| **Barker — correct file** | md5 ends **`7768f`**; ~**91 KB zip**; Hathitrust `uiug.30112087454085` | **Use this** — OCR `.txt` pages, not PDF |
+| **Barker — wrong mirror** | IA `strangecasedrmkjessup_2508_librivox` | **LibriVox CD insert only** (3 pages) — **not** the 1963 Saucerian pamphlet |
+| **Agent / curl download** | `fast_download` → `fast_download_not_member`; `slow_download` → 403 | **Browser session only** — drop finished files in `~/Downloads` for ingest scripts |
+
+**Search strings that work:** `Steiger Whritenour New UFO Breakthrough` (1 hit); `Gray Barker Strange Case Jessup` or md5 directly — **not** bare `Allende Letters`.
 
 ---
 
@@ -316,7 +426,7 @@ Single consolidated FAQ (~1996–1998). **Not a book** — included as fourth wo
 
 Keywords: #PhiladelphiaExperiment #ProjectRainbow #Portal #Teleport #Norfolk #Allende #Jessup #Montauk #PredictiveProgramming #ParadigmThreatFiles
 
-**Last updated:** 2026-07-06T08:45:00-04:00
+**Last updated:** 2026-07-06T10:00:00-04:00
 
 ---
 

@@ -1,8 +1,55 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-06T13:00:47.964Z",
+    "date": "2026-07-06T14:25:55.989Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "events/philadelphia/earth-portal-projects-timeline.png",
+        "href": "/events/philadelphia/earth-portal-projects-timeline.png"
+      },
+      {
+        "status": "M",
+        "path": "events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md",
+        "href": "/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation"
+      },
+      {
+        "status": "M",
+        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
+        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
+      }
+    ],
+    "images": [
+      {
+        "src": "/events/philadelphia/earth-portal-projects-timeline.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png",
+        "alt": "The Philadelphia Experiment Was Not Time Travel — portal series Part B"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png",
+        "alt": "Stonehenge — Golden Age quantum portal end-port before industrial reproduction"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation-types.png",
+        "alt": "Mystery airships 1896–97 — ship-shaped sky craft before flying-saucer vocabulary"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/philadelphia/earth-portal-projects-timeline.png",
+        "alt": "Earth-first portal projects — Stonehenge to WOTW flying-machine, Philadelphia, Roswell, CERN (§6.1)"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
+        "alt": "LHC — 27 km buried ring, industrial portal successor (Mars / CERN hub)"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-06T13:00:46.000Z",
+    "message": "Prepare Declare Independence and Philadelphia Part B for publish.",
     "files": [
       {
         "status": "M",
@@ -8253,71 +8300,6 @@
       {
         "src": "https://paradigmthreat.net/science/cern_portal/cern-layout.png",
         "alt": "CERN LHC — documented layout + portal architecture read (Earth); plan view with Lake Geneva, Points 1/5/8, Meyrin campus, centroid chamber; cross-section inset (green = documented, yellow = energetic harness, red = classified center)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cia_remote_viewing.jpg",
-        "alt": "CIA STARGATE — 1984 Mars remote-viewing session artwork (declassified lane; Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/doom.jpg",
-        "alt": "Doom film (2005) — quantum teleport between Earth and Mars (predictive programming catalog)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_storm.jpg",
-        "alt": "Viral CERN portal storm imagery — Geneva lightning vortex reads as “opened gate” in tabloid cycles (Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at1.jpg",
-        "alt": "Gotthard Base Tunnel opening — BBC: “How Switzerland decided to mark world's longest rail tunnel” (1 June 2016)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at2.jpg",
-        "alt": "Gotthard ceremony — obedience theater near CERN geography (Mars hub)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-04T12:19:01.000Z",
-    "message": "Replace surface-scrubbed thesis with lightning-scarred regolith and buried Mars CERN.",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md",
-        "href": "/cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation"
-      },
-      {
-        "status": "M",
-        "path": "cosmos/mars/investigations/mars-fiction-survey.md",
-        "href": "/cosmos/mars/investigations/mars-fiction-survey"
-      },
-      {
-        "status": "M",
-        "path": "science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md",
-        "href": "/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/cern_portal/out-of-this-door-might-come-something.md",
-        "href": "/science/cern_portal/out-of-this-door-might-come-something"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png",
-        "alt": "Out of This Door Might Come Something — CERN portal series Part A"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
-        "alt": "LHC — 27 km ring of superconducting magnets and accelerator chain (Mars hub / CERN travel)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_plans.jpg",
-        "alt": "Future Circular Collider (FCC) — planned scale-up vs existing LHC at CERN (Nature / Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars_canals5.jpg",
-        "alt": "Percival Lowell — Mars and Its Canals (1906); intelligent-civilization waterworks read before Mariner (Mars hub)"
       },
       {
         "src": "https://paradigmthreat.net/cosmos/mars/cia_remote_viewing.jpg",
