@@ -36,6 +36,8 @@ Jessup was found dead in 1959 — car run off the road, exhaust routed into the 
 
 ## Ordered reproduction
 
+![Earth-first portal projects — Stonehenge to WOTW flying-machine, Philadelphia, Roswell, CERN (§6.1)](https://paradigmthreat.net/events/philadelphia/earth-portal-projects-timeline.png)
+
 Philadelphia required extreme classification and ordered reproduction — controlled humans on Earth rebuilding portal-class hardware under command, without Golden Age operator literacy. Bizarre injuries, mad crew, eighteen-day fire during hand-laying: incomplete mastery of a medium that stores polarization in living tissue when the device shuts off. The negligence is itself evidence of ordered reproduction under secrecy, not a civilian science fair gone wrong.
 
 The trial read as prototype class: prove the harbor pair, document what living tissue does when the coil shuts off, learn whether crew touch can rebalance stored medium stress before cascade failure. They proved routing. They burned crew. They learned that hands worked until they did not — and then faith in hand-laying died. That is the same learning curve buried rings would later industrialize with better cover and worse public grammar.
@@ -61,8 +63,6 @@ UAP reporting predates Wells — [mystery airships 1896–97](https://paradigmth
 ![Mystery airships 1896–97 — ship-shaped sky craft before flying-saucer vocabulary](https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation-types.png)
 
 Flying saucer enters public language after Kenneth Arnold and Roswell in 1947; there is no clean pre-war record of a disc lifting from the ground under observation. Philadelphia in the legend is ship-scale harbor routing under Navy cover. A parallel incursion lane may have needed Earth-tested disc stability before fielding saucer-class platforms. Disc craft are EM-coupled — vulnerable to radar, lightning, and terrestrial field interference; Roswell-class crashes fit coupling failure under denser-atmosphere test. Full table: [investigation §6.1](https://paradigmthreat.net/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md).
-
-![Earth-first portal projects — Stonehenge to WOTW flying-machine, Philadelphia, Roswell, CERN (§6.1)](https://paradigmthreat.net/events/philadelphia/earth-portal-projects-timeline.png)
 
 ## The Navy Yard nexus
 
