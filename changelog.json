@@ -1,8 +1,59 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-08T12:50:11.947Z",
+    "date": "2026-07-08T13:12:13.248Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/hollywood/everything-in-independence-day-is-true.md",
+        "href": "/influence/hollywood/everything-in-independence-day-is-true"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/everything-in-independence-day-is-true.png",
+        "href": "/influence/hollywood/everything-in-independence-day-is-true.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/investigations/hollywood-two-camp-war-investigation.md",
+        "href": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation"
+      },
+      {
+        "status": "A",
+        "path": "influence/hollywood/the-real-declaration.png",
+        "href": "/influence/hollywood/the-real-declaration.png"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/hollywood/everything-in-independence-day-is-true.png"
+      },
+      {
+        "src": "/influence/hollywood/the-real-declaration.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.png",
+        "alt": "Everything in Independence Day Is True — Area 51 autopsy, Whitmore, holiday farce"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/declare-independence.png",
+        "alt": "Declare Independence — Whitmore hangar speech / real declaration"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/the-real-declaration.png",
+        "alt": "The real declaration of independence — Whitmore on Rushmore, *we will not go quietly into the night*"
+      },
+      {
+        "src": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation.png",
+        "alt": "Hollywood two-camp war — investigation cover"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-08T12:50:02.000Z",
+    "message": "Stamp Hollywood dossier Last updated after Thread O sync.",
     "files": [
       {
         "status": "M",
@@ -1018,18 +1069,5 @@
         "alt": "Philadelphia Experiment — events hub art"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-05T15:17:39.000Z",
-    "message": "Ignore .venv-image-gen in gitignore.",
-    "files": [
-      {
-        "status": "M",
-        "path": ".gitignore",
-        "href": "/.gitignore"
-      }
-    ],
-    "images": []
   }
 ]
