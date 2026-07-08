@@ -54,6 +54,8 @@ The biggest reveal of all is simpler than the city fireballs. The invaders are *
 
 When the suit opens at Area 51, a smaller occupant sits inside — fragile, large-headed, the grammar the site applies to ***War of the Worlds*** Martians in the [host-body analysis](https://paradigmthreat.net/cosmos/mars/investigations/wotw-martian-analysis.md). Okun’s line on the Roswell finds is blunt: they were wearing biomechanical suits; once removed, Earth learned their anatomy. Wells wrote **sixteen slender tentacles** and brains “wearing different bodies according to their needs, just as men wear suits of clothes.” He never **opened** the body. His scientists study the exterior. No witness in the novel extracts an occupant. That omission is the cover.
 
+![Host body theory — *ID4* suit/occupant split and Martian appearance (timeline)](https://paradigmthreat.net/files/timeline/media/12.ce-18th-mudflood-and-pugachev/martian-appearance.png)
+
 *Independence Day* implies Earth scientists know the suit/occupant split **only** because they got the original Area 51 finds. The film stages the opening Wells declined. On this read, the host-body finding was **covered up** in the approved Wells disclosure — Wells as plagiarist and compromised channel for a scrubbed invasion report, not an innocent novelist who invented tentacles from nothing. The novel trained generations to fear the **suit** as if it were the organism. The 1996 hangar trains them to see the **driver**.
 
 Once you see the suit, disease still blocks settlement and harvest stays the mission. Once you see the occupant, you understand why reverse-engineering a fighter and punching a crashed host with a *“Welcome to Earth”* work as **human agency** — not as waiting for bacteria to finish the war. Wells gave nature the kill. Whitmore’s America gives the species a **task**.
@@ -123,7 +125,9 @@ Full tiers: [Thread O](https://paradigmthreat.net/influence/hollywood/investigat
 
 Keywords: #EverythingInIndependenceDayIsTrue #IndependenceDay #ID4 #EverythingIsTrue #TwoCamps #NSA #UnityLane #Whitmore #WarOfTheWorlds #HostBody #Area51 #PredictiveProgramming #HollywoodSeries
 
-**Last updated:** 2026-07-08T09:00:00-04:00
+**Substack:** [paradigmthreat2.substack.com/p/everything-in-independence-day-is](https://paradigmthreat2.substack.com/p/everything-in-independence-day-is)
+
+**Last updated:** 2026-07-08T09:23:00-04:00
 
 ---
 

@@ -1,8 +1,43 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-08T13:12:13.248Z",
+    "date": "2026-07-08T13:23:36.531Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/wotw-martian-analysis.md",
+        "href": "/cosmos/mars/investigations/wotw-martian-analysis"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/everything-in-independence-day-is-true.md",
+        "href": "/influence/hollywood/everything-in-independence-day-is-true"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/12.ce-18th-mudflood-and-pugachev/martian-appearance.png",
+        "alt": "Host body theory — Martian appearance / *ID4* suit-occupant split (timeline)"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.png",
+        "alt": "Everything in Independence Day Is True — Area 51 autopsy, Whitmore, holiday farce"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/declare-independence.png",
+        "alt": "Declare Independence — Whitmore hangar speech / real declaration"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/the-real-declaration.png",
+        "alt": "The real declaration of independence — Whitmore on Rushmore, *we will not go quietly into the night*"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-08T13:12:01.000Z",
+    "message": "Tighten ID4 essay facts and place Whitmore art mid-article.",
     "files": [
       {
         "status": "M",
@@ -1038,24 +1073,6 @@
     "repo": "paradigm-threat-files",
     "date": "2026-07-05T16:16:49.000Z",
     "message": "Tighten Philadelphia Part B: cut redundancy and LLM artifacts.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
-        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/events/philadelphia/philadelphia_experiment.png",
-        "alt": "Philadelphia Experiment — events hub art"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-05T16:13:00.000Z",
-    "message": "Expand Philadelphia Part B to flagship article length.",
     "files": [
       {
         "status": "M",

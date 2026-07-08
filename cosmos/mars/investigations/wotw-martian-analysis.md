@@ -278,6 +278,8 @@ The narrator observed a Martian picking up humans — not killing them — and t
 
 ## The Host Body Theory: What Was Inside the "Martians"
 
+![Host body theory — Martian appearance / *ID4* suit-occupant split (timeline)](https://paradigmthreat.net/files/timeline/media/12.ce-18th-mudflood-and-pugachev/martian-appearance.png)
+
 ### The Independence Day Precedent
 
 In *Independence Day* (1996), the alien invaders appear to be tall, biomechanical creatures in exo-skeletal suits. When the bio-suit is opened, the **actual alien** is revealed inside — a smaller, more fragile being with a large cranium and oversized eyes. The host body is armor, life-support system, and interface unit in one. The occupant cannot survive without it. Full blockbuster case study: [Hollywood two-camp war — Thread O (*ID4*)](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship). Reader essay: [**Everything in Independence Day Is True**](https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.md) — *ID4* stages the **public opening** Wells never performed; Area 51 autopsy as the only in-film path Earth scientists know the suit/occupant split.
