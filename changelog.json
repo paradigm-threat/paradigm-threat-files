@@ -1,8 +1,26 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-08T12:49:30.220Z",
+    "date": "2026-07-08T12:50:11.947Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/hollywood/investigations/hollywood-two-camp-war-investigation.md",
+        "href": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation.png",
+        "alt": "Hollywood two-camp war — investigation cover"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-08T12:49:20.000Z",
+    "message": "Clarify ID4 locusts as same-species humans.",
     "files": [
       {
         "status": "M",
@@ -1012,13 +1030,6 @@
         "href": "/.gitignore"
       }
     ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-05T15:16:47.000Z",
-    "message": "Remove accidentally committed .venv-image-gen from repo.",
-    "files": [],
     "images": []
   }
 ]

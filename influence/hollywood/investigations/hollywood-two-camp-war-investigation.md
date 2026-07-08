@@ -873,7 +873,7 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 
 Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #IndependenceDay #ID4 #Stargate #Area51 #911PP #NoFate #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott #Cyberdyne #WarOfTheWorlds #HostBody #AncientAliens #Atlantis
 
-**Last updated:** 2026-06-14T17:30:00-04:00
+**Last updated:** 2026-07-08T08:50:00-04:00
 
 ---
 
