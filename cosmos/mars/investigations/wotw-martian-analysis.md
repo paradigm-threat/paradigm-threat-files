@@ -280,9 +280,9 @@ The narrator observed a Martian picking up humans — not killing them — and t
 
 ### The Independence Day Precedent
 
-In *Independence Day* (1996), the alien invaders appear to be tall, biomechanical creatures in exo-skeletal suits. When the bio-suit is opened, the **actual alien** is revealed inside — a smaller, more fragile being with a large cranium and oversized eyes. The host body is armor, life-support system, and interface unit in one. The occupant cannot survive without it. Full blockbuster case study: [Hollywood two-camp war — Thread O (*ID4*)](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship).
+In *Independence Day* (1996), the alien invaders appear to be tall, biomechanical creatures in exo-skeletal suits. When the bio-suit is opened, the **actual alien** is revealed inside — a smaller, more fragile being with a large cranium and oversized eyes. The host body is armor, life-support system, and interface unit in one. The occupant cannot survive without it. Full blockbuster case study: [Hollywood two-camp war — Thread O (*ID4*)](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship). Reader essay: [**Declare Independence**](https://paradigmthreat.net/influence/hollywood/declare-independence.md) — *ID4* stages the **public opening** Wells never performed; Area 51 autopsy as the only in-film path Earth scientists know the suit/occupant split.
 
-This concept — already noted in `paradigm-threat-files/cosmos/mars/page.md` — provides the key to resolving the central mystery of Wells's Martians: **what the witnesses saw was the host body, not the occupant.**
+This concept — already noted in [Mars hub](/cosmos/mars/page.md) — provides the key to resolving the central mystery of Wells's Martians: **what the witnesses saw was the host body, not the occupant.**
 
 ### Rereading the Evidence
 
@@ -365,9 +365,9 @@ The host body finding would be the single most sensitive piece of intelligence f
 - They can be fought by targeting the host body's life-support systems rather than the occupant
 - The occupants might be captured alive by disabling the host
 
-Every piece of this intelligence would be classified at the highest level. Wells, writing the approved disclosure version, described the host body as if it were the organism — which is exactly what most witnesses believed.
+Every piece of this intelligence would be classified at the highest level. Wells, writing the approved disclosure version, described the host body as if it were the organism — which is exactly what most witnesses believed. ***Independence Day* (1996)** undoes that scrub for a mass audience: the autopsy **extracts the occupant**. Author read in [Declare Independence](https://paradigmthreat.net/influence/hollywood/declare-independence.md): Wells’s closed exterior study is the cover-up; Emmerich’s open suit is the reveal.
 
-> See `paradigm-threat-files/cosmos/mars/page.md` for the Independence Day/host body connection.
+> See [Mars hub](/cosmos/mars/page.md) for the Independence Day/host body connection.
 
 ---
 
