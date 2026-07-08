@@ -45,6 +45,7 @@ and think of him as some kind of peace maker role model when he was
 a war mongering nazi philanderer - a Rex Bellator or "Warrior King"
 appointed for the next attack on Russia. He started the Vietnam war
 to further contain russia and then fake died to make sure it would happen.
+**Chappaquiddick (Jul 1969)** — the living brother, Ted, drove off Dike Bridge; **Mary Jo Kopechne** drowned; he waited **~10 hours** to report; plea + **suspended** sentence; closed inquest. Full credibility wedge: [§3.1](investigations/jfk-rfk-staged-assassination-hoax-investigation.md#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969). That alone does **not** prove Dallas/Ambassador was theater — it **does** show the dynasty put **career self-preservation over death transparency**, which collapses the sacred-family aura and makes **compliance** under pressure **less psychologically impossible**.
 How isn't any of this obvious to everyone? Because everyone has been
 100% played on this and no one wants to admit it.
 

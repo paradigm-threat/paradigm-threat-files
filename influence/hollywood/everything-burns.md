@@ -120,7 +120,7 @@ As long as **communication channels stay open**, the China threat on screen does
 
 - [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) — **Installment I:** *Matrix* two-camp handoff, *Reloaded* Oracle-as-control, MxO, *Resurrections*.
 - **Everything Burns** (this page) — **Installment II:** Pacific / Hong Kong / *Dark Knight* / *24* / *Joker* calendar.
-- [**Declare Independence**](https://paradigmthreat.net/influence/hollywood/declare-independence.md) — **Installment III:** *ID4*; everything true; holiday farce vs real declaration; Whitmore; biosuit/Wells.
+- [**Everything in Independence Day Is True**](https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.md) — **Installment III:** *ID4*; everything true; holiday farce vs real declaration; Whitmore; biosuit/Wells.
 
 **Technical companions (not series installments):**
 
