@@ -1,8 +1,30 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-08T12:26:22.248Z",
+    "date": "2026-07-08T12:30:56.302Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "influence/hollywood/everything-in-independence-day-is-true.md",
+        "href": "/influence/hollywood/everything-in-independence-day-is-true"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.png",
+        "alt": "Everything in Independence Day Is True — Area 51 autopsy, Whitmore, holiday farce"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/declare-independence.png",
+        "alt": "Declare Independence — Whitmore hangar speech / real declaration"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-08T12:26:12.000Z",
+    "message": "Update ID4 essay hero art.",
     "files": [
       {
         "status": "M",
@@ -7841,68 +7863,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-04T14:03:00.000Z",
-    "message": "Add Substack link for Part A CERN portal essay.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/cern_portal/out-of-this-door-might-come-something.md",
-        "href": "/science/cern_portal/out-of-this-door-might-come-something"
-      },
-      {
-        "status": "M",
-        "path": "science/cern_portal/page.md",
-        "href": "/science/cern_portal"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png",
-        "alt": "Out of This Door Might Come Something — CERN portal series Part A"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
-        "alt": "LHC — 27 km ring of superconducting magnets and accelerator chain (Mars hub / CERN travel)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/cern_portal/cern-layout.png",
-        "alt": "CERN LHC — documented layout + portal architecture read (Earth); plan view with Lake Geneva, Points 1/5/8, Meyrin campus, centroid chamber; cross-section inset (green = documented, yellow = energetic harness, red = classified center)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cia_remote_viewing.jpg",
-        "alt": "CIA STARGATE — 1984 Mars remote-viewing session artwork (declassified lane; Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_plans.jpg",
-        "alt": "Future Circular Collider (FCC) — planned scale-up vs existing LHC at CERN (Nature / Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars_canals5.jpg",
-        "alt": "Percival Lowell — Mars and Its Canals (1906); intelligent-civilization waterworks read before Mariner (Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/cern_portal/ancient-stargates.png",
-        "alt": "Ancient stargates — suppressed gateways infographic; scattered Earth finds, 1950s confiscation, heaven (Nibiru / star worlds) to Earth link via ancient tablets"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/doom.jpg",
-        "alt": "Doom film (2005) — quantum teleport between Earth and Mars (predictive programming catalog)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_storm.jpg",
-        "alt": "Viral CERN portal storm imagery — Geneva lightning vortex reads as “opened gate” in tabloid cycles (Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at1.jpg",
-        "alt": "Gotthard Base Tunnel opening — BBC: “How Switzerland decided to mark world's longest rail tunnel” (1 June 2016)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at2.jpg",
-        "alt": "Gotthard ceremony — obedience theater near CERN geography (Mars hub)"
-      }
-    ]
   }
 ]
