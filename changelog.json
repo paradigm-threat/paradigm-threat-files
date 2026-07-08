@@ -1,8 +1,38 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-08T12:23:14.433Z",
+    "date": "2026-07-08T12:25:56.885Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "influence/hollywood/declare-independence.png",
+        "href": "/influence/hollywood/declare-independence.png"
+      },
+      {
+        "status": "M",
+        "path": "influence/hollywood/everything-in-independence-day-is-true.md",
+        "href": "/influence/hollywood/everything-in-independence-day-is-true"
+      }
+    ],
+    "images": [
+      {
+        "src": "/influence/hollywood/declare-independence.png"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.png",
+        "alt": "Everything in Independence Day Is True — Area 51 autopsy, Whitmore, holiday farce"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/declare-independence.png",
+        "alt": "Declare Independence — Whitmore hangar speech / real declaration"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-08T12:23:05.000Z",
+    "message": "Rename Declare Independence to Everything in Independence Day Is True.",
     "files": [
       {
         "status": "M",
@@ -7870,77 +7900,6 @@
       }
     ],
     "images": [
-      {
-        "src": "https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png",
-        "alt": "Out of This Door Might Come Something — CERN portal series Part A"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
-        "alt": "LHC — 27 km ring of superconducting magnets and accelerator chain (Mars hub / CERN travel)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/cern_portal/cern-layout.png",
-        "alt": "CERN LHC — documented layout + portal architecture read (Earth); plan view with Lake Geneva, Points 1/5/8, Meyrin campus, centroid chamber; cross-section inset (green = documented, yellow = energetic harness, red = classified center)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cia_remote_viewing.jpg",
-        "alt": "CIA STARGATE — 1984 Mars remote-viewing session artwork (declassified lane; Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_plans.jpg",
-        "alt": "Future Circular Collider (FCC) — planned scale-up vs existing LHC at CERN (Nature / Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars_canals5.jpg",
-        "alt": "Percival Lowell — Mars and Its Canals (1906); intelligent-civilization waterworks read before Mariner (Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/cern_portal/ancient-stargates.png",
-        "alt": "Ancient stargates — suppressed gateways infographic; scattered Earth finds, 1950s confiscation, heaven (Nibiru / star worlds) to Earth link via ancient tablets"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/doom.jpg",
-        "alt": "Doom film (2005) — quantum teleport between Earth and Mars (predictive programming catalog)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_storm.jpg",
-        "alt": "Viral CERN portal storm imagery — Geneva lightning vortex reads as “opened gate” in tabloid cycles (Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at1.jpg",
-        "alt": "Gotthard Base Tunnel opening — BBC: “How Switzerland decided to mark world's longest rail tunnel” (1 June 2016)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at2.jpg",
-        "alt": "Gotthard ceremony — obedience theater near CERN geography (Mars hub)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-04T13:53:52.000Z",
-    "message": "Expand Part A close on species adolescence and Earth–Mars peace.",
-    "files": [
-      {
-        "status": "M",
-        "path": "science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md",
-        "href": "/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation"
-      },
-      {
-        "status": "M",
-        "path": "science/cern_portal/out-of-this-door-might-come-something.md",
-        "href": "/science/cern_portal/out-of-this-door-might-come-something"
-      }
-    ],
-    "images": [
-      {
-        "src": "/science/cern_portal/ancient-stargates.png",
-        "alt": "Ancient stargates — suppressed gateways infographic (`ancient-stargates.png`)"
-      },
-      {
-        "src": "/science/cern_portal/cern-layout.png",
-        "alt": "CERN LHC — documented layout + portal architecture read (Earth)"
-      },
       {
         "src": "https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png",
         "alt": "Out of This Door Might Come Something — CERN portal series Part A"
