@@ -1,8 +1,42 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-09T15:15:59.538Z",
+    "date": "2026-07-09T15:31:03.506Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "A",
+        "path": "blog/2026-07-09-july-portal-id4-research-mcp-server.md",
+        "href": "/blog/2026-07-09-july-portal-id4-research-mcp-server"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png",
+        "alt": "Out of This Door Might Come Something — CERN portal series Part A"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png",
+        "alt": "The Philadelphia Experiment Was Not Time Travel — portal series Part B"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.png",
+        "alt": "Everything in Independence Day Is True — Area 51 autopsy, Whitmore, holiday farce"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/philadelphia/earth-portal-projects-timeline.png",
+        "alt": "Earth-first portal projects — Stonehenge to Philadelphia to CERN timeline"
+      },
+      {
+        "src": "https://paradigmthreat.net/influence/hollywood/declare-independence.png",
+        "alt": "Declare Independence — Whitmore hangar speech as real declaration"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-09T15:15:43.000Z",
+    "message": "Note MCP host restrictions on the front page discovery hub.",
     "files": [
       {
         "status": "M",
@@ -1098,24 +1132,6 @@
       {
         "src": "/history/mudflood/grand_canyon_criscross_lightning_scar.jpg",
         "alt": "Rivers can never cross each-other without joining together, yet criss-cross scarring is found in several places\n  in the Grand Canyon, AZ"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-05T16:59:47.000Z",
-    "message": "Expand Philadelphia Part B toward flagship article length.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
-        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/events/philadelphia/philadelphia_experiment.png",
-        "alt": "Philadelphia Experiment — events hub art"
       }
     ]
   }
