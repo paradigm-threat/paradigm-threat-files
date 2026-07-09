@@ -8,7 +8,7 @@ Open conspiracy-research hub that challenges mainstream paradigms across history
 
 **[Submit an idea for investigation](/submit)** — suggest a topic, questions, and reference links for the site to research.
 
-**[Research MCP](https://paradigmthreat.net/mcp)** — AI agents (Cursor, ChatGPT) can query this corpus via `/api/mcp` for search, chronology dates, and honest coverage when a topic is not yet indexed.
+**[Research MCP](https://paradigmthreat.net/mcp)** — AI agents (Cursor, ChatGPT) can query this corpus via `/api/mcp` for search, chronology dates, and honest coverage when a topic is not yet indexed. Free-tier hosts often block tool calls on sensitive topics before our server runs — see [/mcp](https://paradigmthreat.net/mcp).
 
 **Presence in the repo is not endorsement** — [working definition of antisemitism](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md).
 
