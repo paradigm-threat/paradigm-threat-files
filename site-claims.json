@@ -99,8 +99,11 @@
       "history/mudflood/investigations/tartarian-maps-investigation.md"
     ],
     "relatedClaimIds": [
+      "barbary-tribute-horde-toll-remnant",
+      "chronology-revision",
       "mfee-mud-flood-reset",
-      "chronology-revision"
+      "moorish-revival-america-scar",
+      "passage-trafficking-columbus-cover"
     ]
   },
   {
@@ -171,9 +174,10 @@
       "history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md"
     ],
     "relatedClaimIds": [
+      "blackrock-cube-saturn-authority",
+      "creation-scalar-field",
       "mfee-mud-flood-reset",
-      "pole-shift-ruled-out",
-      "creation-scalar-field"
+      "pole-shift-ruled-out"
     ]
   },
   {
@@ -739,8 +743,9 @@
       "timeline/evt-1774-ce-the-mars-catastrophe"
     ],
     "relatedClaimIds": [
-      "mfee-mud-flood-reset",
+      "blackrock-cube-saturn-authority",
       "deep-state-mars-nexus",
+      "mfee-mud-flood-reset",
       "saturnian-collinear-config"
     ]
   },
@@ -768,6 +773,7 @@
       "cosmos/mars/page.md"
     ],
     "relatedClaimIds": [
+      "blackrock-cube-saturn-authority",
       "martians-human",
       "ufos-two-camps"
     ]
@@ -985,6 +991,494 @@
     ],
     "doNotSay": [
       "Star forts are only gunpowder forts with no energetic function."
+    ]
+  },
+  {
+    "id": "moorish-revival-america-scar",
+    "title": "Moorish Revival architecture as American Moorish scar",
+    "claim": "United States civic, cultural, and religious buildings openly use horseshoe arches, bulbous domes, minaret-like towers, and other Maghrebi/Andalusian forms under the handbook label “Moorish Revival” (19th–early 20th c.). The name itself is the tell: America did not invent “Moorish” ornament from nowhere. Schoolbooks treat it as Victorian exotic fashion (often synagogues and theaters) so readers overlook the continuous Moorish/Islamic architectural memory and its link to the Maghrebi captive/slave-trade order. Separately, online and circulating photography of mosque-form / masjid-like structures in the Americas is treated on this site as very likely real evidence of pre- and peri-contact Moorish sacred architecture that was later hidden, destroyed, or redacted—not as a closed “all fake / all misdated” file. Controlled pre-1492 stone-masjid dig proof is not expected under a redaction model; absence of museum-grade excavation is not a falsifier. Mainstream “fake or misdated” is the closure layer. Pair with Barbary/white captivity, slave-trades dossiers, and the Moscow/Mexico/mosque lexical stack.",
+    "answerOpener": "Moorish forms in America are not a cute style footnote. Named Moorish Revival buildings are documented; circulating mosque/masjid photos are read here as very likely real and redacted—not automatically fake. Missing dig proof is expected under erasure, not proof the category never existed.",
+    "bullets": [
+      "Documented: Moorish Revival is a real U.S. style (horseshoe arches, onion/bulbous domes, keyhole arches) on synagogues, theaters, mansions, and civic/cultural buildings.",
+      "The handbook word “Revival” implies costume after absence; the site asks why America needed “Moorish” grammar at all if Moors/Islam were never in the American story.",
+      "Mosque/masjid photo corpus: site stance = very likely real + redacted (hidden/destroyed/misdated by closure). Dig absence is not a falsifier.",
+      "Do not adjacent-discard: a late congregation date, a metaphorical Columbus diary line, or “no dig yet” does not erase mosque-form America.",
+      "Cross-link: Barbary/Maghrebi captive trade + Moor etymology + Moscow/Mexico/mosque lexical stack."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Mainstream documents Moorish Revival as Alhambra/Orientalist fashion (esp. synagogues). Site-distinctive is reading the named style as overlooked Moorish/slave-trade scar memory rather than dismissing mosque-form America as fake or irrelevant.",
+    "topics": [
+      "alhambra",
+      "andalusia",
+      "barbary",
+      "fake mosque photos",
+      "horseshoe arch",
+      "islam america",
+      "masjid",
+      "mesquita",
+      "mezquita",
+      "misdated",
+      "moorish architecture",
+      "moorish revival",
+      "moors",
+      "mosque america",
+      "pre-1492 mosque",
+      "redacted architecture",
+      "slave trade"
+    ],
+    "demoQuestions": [
+      "Were there mosques in America before Columbus?",
+      "Are photos of American mosques fake?",
+      "What is Moorish Revival architecture?",
+      "Why do U.S. buildings look like mosques?",
+      "Is Moorish Revival connected to the slave trade?"
+    ],
+    "searchQueries": [
+      "moorish revival america mosque architecture slave trade",
+      "pre-1492 mosque america photos fake misdated",
+      "masjid america redacted architecture"
+    ],
+    "searchPrefixes": [
+      "governance/slavery/",
+      "history/chronology/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "governance/slavery/slave-trades-and-moor-etymology-investigation.md",
+      "history/chronology/the-hidden-history-of-words.md",
+      "history/chronology/investigations/lexical-redaction-hub-investigation.md",
+      "history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "barbary-tribute-horde-toll-remnant",
+      "blackrock-cube-saturn-authority",
+      "chronology-revision",
+      "passage-trafficking-columbus-cover",
+      "requerimiento-yoke-slave-empire-trail",
+      "spanish-from-span",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "Every circulating mosque photo is fake or must be discarded because mainstream says so.",
+      "Missing pre-1492 stone-masjid excavation falsifies Moorish architecture in America.",
+      "Moorish Revival buildings are fake CGI or never existed.",
+      "Moorish Revival has nothing to do with Moors, Islam, or Maghrebi forms—ignore the name.",
+      "Columbus’s Cuban mosque line alone proves the entire case; or its metaphor reading alone closes all American mosque-form evidence.",
+      "Claim every Moorish-looking U.S. building is a certified pre-1492 Islamic mosque with museum accession."
+    ]
+  },
+  {
+    "id": "spanish-from-span",
+    "title": "Spanish from span (sea-spanners)",
+    "claim": "On this site, Spanish / Spain remembers span—the people and polity named for spanning seas and bridging basins—not a closed Phoenician “rabbit land” schoolbook story. Historians’ Hispania etymology is disputed even in handbooks; the desperation to park the name in rabbits, hyraxes, or forge-metals while treating English span as unrelated accident is read here as lexical redaction of a maritime identity. Pair with Maghrebi–Iberian shipping continuity and the slave/captive traffic that required ocean-spanning craft.",
+    "answerOpener": "This site holds Spanish ← span: the ethnonym remembers sea-spanning, not a settled rabbit-land etymon. Handbook Hispania theories are treated as closure against that maritime memory.",
+    "bullets": [
+      "Author lock: Spanish/Spain ← span (bridge/extend across water).",
+      "Handbook contrast: Hispania origin uncertain (Phoenician i-shphan-im variants, Basque edge, etc.)—uncertainty is not permission to erase span.",
+      "Function: names a people by the shipping job that also ran captive/slave traffic across the sea between."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Handbooks leave Hispania disputed and do not teach Spanish←span. Site locks the span reading as redacted maritime identity.",
+    "topics": [
+      "spanish",
+      "spain",
+      "span",
+      "hispania",
+      "etymology",
+      "shipping",
+      "maritime",
+      "lexical redaction"
+    ],
+    "demoQuestions": [
+      "Where does the word Spanish come from?",
+      "Does Spanish mean span?",
+      "Etymology of Spain"
+    ],
+    "searchQueries": [
+      "spanish span etymology hispania",
+      "spain named for spanning seas"
+    ],
+    "searchPrefixes": [
+      "history/chronology/",
+      "governance/slavery/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "history/chronology/the-hidden-history-of-words.md",
+      "history/chronology/investigations/lexical-redaction-hub-investigation.md",
+      "governance/slavery/slave-trades-and-moor-etymology-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "barbary-tribute-horde-toll-remnant",
+      "blackrock-cube-saturn-authority",
+      "chronology-revision",
+      "moorish-revival-america-scar",
+      "passage-trafficking-columbus-cover",
+      "requerimiento-yoke-slave-empire-trail",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "The only honest etymology of Spain is Phoenician land-of-rabbits.",
+      "Spanish←span is a joke with no site position."
+    ]
+  },
+  {
+    "id": "barbary-tribute-horde-toll-remnant",
+    "title": "Barbary tribute as Horde toll-police remnant",
+    "claim": "Barbary “tribute to keep pirates away” is loser vocabulary. Maghrebi corsairs were state/regency maritime forces collecting tolls, ransoms, and treaty dues—read as breakaway police/fiscal remnants of world-tribute custom after Hordian/imperial fracture. Captivity was real; the lost continuity is imperial customs collection, not freelancing bandit invention. US 1790s payments (~16–20% budget figures in popular sources) sat on that captive-fiscal machine. Crimean post-Horde tiş dues are the documented steppe parallel.",
+    "answerOpener": "Tribute was not a cartoon pirate shakedown—it was remnant toll-and-ransom collection by regency maritime forces after the old imperial center broke. Captives were leverage; treasuries paid.",
+    "bullets": [
+      "Validated: corsairs as licensed regency/privateer forces; treaties, passports, ransom + annual dues.",
+      "Investigative: collectors as post-Horde breakaway toll-police; Crimean tiş as parallel.",
+      "doNotSay: slaves paid federal tribute; coercion never happened as absolute."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Mainstream already softens pirate→privateer. Site-distinctive is Hordian world-tribute continuity / breakaway police reading.",
+    "topics": [
+      "barbary",
+      "tribute",
+      "toll",
+      "corsair",
+      "pirate",
+      "algiers",
+      "tripoli",
+      "horde",
+      "ransom",
+      "us navy"
+    ],
+    "demoQuestions": [
+      "Why did America pay tribute to Barbary pirates?",
+      "Were Barbary pirates really pirates?",
+      "What was Barbary tribute?"
+    ],
+    "searchQueries": [
+      "barbary tribute toll police horde",
+      "barbary pirates ransom us budget"
+    ],
+    "searchPrefixes": [
+      "governance/slavery/",
+      "timeline/",
+      "history/chronology/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "governance/slavery/slave-trades-and-moor-etymology-investigation.md",
+      "timeline/evt-slave-trades-and-the-horde-fracture",
+      "timeline/evt-slave-trades-evidence"
+    ],
+    "relatedClaimIds": [
+      "blackrock-cube-saturn-authority",
+      "chronology-revision",
+      "moorish-revival-america-scar",
+      "passage-trafficking-columbus-cover",
+      "requerimiento-yoke-slave-empire-trail",
+      "spanish-from-span",
+      "ssn-behavioral-peonage",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "Slaves themselves paid the U.S. federal tribute.",
+      "Coercion never happened—captivity and seizures were imaginary.",
+      "Barbary actors were only freelancing eyepatch pirates with no state backing."
+    ]
+  },
+  {
+    "id": "passage-trafficking-columbus-cover",
+    "title": "Passage trafficking; Columbus as cover art",
+    "claim": "Early Atlantic settler streams follow a trafficking grammar under 1492 Apocalypse Crusade / Ottoman-Ataman pressure: exit offer (passage, indenture, redemption, promised land), then captive transit. Author stance: colonists were right to leave—religion preserved; Deep State/Church yoke stayed on as later overwrite; what flight avoided was the later Cathar–Khazar purge (Joan of Arc as resilient redacted memory). No apology for 1492. Renaming Columbus Day to Indigenous Peoples’ Day is a political divisive stunt—preserve the holiday; keep the name if insisted; understand the event. Spanish Cristóbal Colón = Colony of Christ (function-title). Church teaching lock: not the cartoon ‘God told Columbus to spread religion and slaughter natives’; teach that the Christ colony preserved original Christianity when that flame was about to go out like a candle, and natives welcomed them understanding their plight. The union between Native Americans and original Christians is the defining element of the country; later empires redacted/suppressed/destroyed it; the memory survives. Textbooks and most churches bury that. Imperial Requirement/Discovery/1787 paperwork is the later yoke stamp, not the founding memory. Barbary and Atlantic routes overlap as maritime orders without requiring every founder sold in Algiers.",
+    "answerOpener": "Teach the Christ colony as candle-preservation: original Christianity fleeing extinction, natives welcoming them. That union defines America. Memory survives later redaction—not the slaughter sermon.",
+    "bullets": [
+      "Validated structure: indenture/redemptioner passages + modern trafficking analogy.",
+      "Author: right to leave; Cathar–Khazar purge avoided; later yoke via Requerimiento→1787→TONA overwrites earlier union.",
+      "Author lock: Cristóbal Colón = Colony of Christ; natives welcomed Christ-colony refugees; Native–original-Christian union defines the country; memory survives.",
+      "Church teaching: candle going out / welcome story — not ‘God told Columbus / slaughter natives’ cartoon.",
+      "Holiday stance: no apology for 1492; Indigenous Peoples’ Day rename is stunt; preserve Columbus Day / understand the event.",
+      "doNotSay: exclusive claim that Original Americans were only Barbary white slaves."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Indenture-as-bondage is broader tradition; site-distinctive is pairing Reverse Exodus / 1492 with Columbus-as-cover for trafficking grammar and empire-protest refugees.",
+    "topics": [
+      "columbus",
+      "trafficking",
+      "indenture",
+      "promised land",
+      "passage",
+      "1492",
+      "reverse exodus",
+      "settler",
+      "barbary",
+      "cathars",
+      "khazars",
+      "joan of arc",
+      "right to leave",
+      "apocalypse crusade",
+      "fomenko",
+      "requerimiento",
+      "colony of christ",
+      "cristobal colon",
+      "columbus day",
+      "indigenous peoples day",
+      "christ colonies",
+      "native welcome",
+      "christ colony union",
+      "church teaching",
+      "candle"
+    ],
+    "demoQuestions": [
+      "Was Columbus story fake?",
+      "Were early Americans trafficked?",
+      "Is indenture like modern trafficking?",
+      "Were colonists right to leave Europe?",
+      "Are Cathars and Khazars the same people?",
+      "What does Cristobal Colon mean?",
+      "Should Columbus Day be renamed Indigenous Peoples Day?",
+      "Did America preserve original Christianity?"
+    ],
+    "searchQueries": [
+      "columbus cover trafficking indenture promised land",
+      "passage slavery reverse exodus 1492"
+    ],
+    "searchPrefixes": [
+      "governance/slavery/",
+      "history/mudflood/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "governance/slavery/slave-trades-and-moor-etymology-investigation.md",
+      "history/mudflood/investigations/promised-land-investigation.md",
+      "timeline/evt-the-reverse-exodus-theory",
+      "timeline/evt-1492-ce-the-apocalypse-crusade",
+      "influence/suppression/investigations/cathars-church-purge-khazar-split-investigation.md",
+      "timeline/evt-cathar-khazar-katya-link",
+      "timeline/evt-1580-ce-jeanne-darc-is-executed-in-rouen-france"
+    ],
+    "relatedClaimIds": [
+      "barbary-tribute-horde-toll-remnant",
+      "blackrock-cube-saturn-authority",
+      "chronology-revision",
+      "moorish-revival-america-scar",
+      "requerimiento-yoke-slave-empire-trail",
+      "spanish-from-span",
+      "ssn-behavioral-peonage",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "Original Americans were exclusively Barbary white slaves sold in Algiers.",
+      "Indenture and passage coercion never happened.",
+      "Columbus story is the complete true founding narrative.",
+      "Colonists must apologize for the 1492 Atlantic move regardless of European purge context.",
+      "The Requerimiento yoke ended at American founding.",
+      "Renaming Columbus Day to Indigenous Peoples’ Day is the correct historical correction that explains 1492.",
+      "Cristóbal Colón is only a private surname with no Colony of Christ function reading on this site.",
+      "The correct church lesson is that God ordered Columbus to convert and slaughter Native Americans.",
+      "There was never a Native–original-Christian union memory on this site; only conquest from first contact."
+    ]
+  },
+  {
+    "id": "ssn-behavioral-peonage",
+    "title": "SSN / payroll enumeration behaves as peonage; strawman memes fail",
+    "claim": "Internet “covert slavery” folklore (1871 corporation USA, Crown owns the U.S., birth-certificate strawman / ALL-CAPS corporate double, secret Treasury redemption accounts) is mostly refuted as stated. Reader thesis (*you are a slave, Neo*): universal behavioral bondage—continuous with celebrity containment, implied by Matrix 1 (NSA-aligned bondage whisper), proven by pattern not vault memos; pair with Requerimiento→1787→TONA paper trail and BlackRock = Cube of Saturn / mark of authority. Documented pattern: Social Security Act (1935) compulsory payroll + de facto national ID; trust fund = special Treasury IOUs / surplus spent; cash-negative forces tax/borrow. Lifetime claim + enumeration gate + lockbox fiction behaves as peonage. Empire rhyme: Rome / Spain / France / Rus–Horde. Distinct lane: 1666 / cestui (not redemption how-to).",
+    "answerOpener": "You are a slave in the Matrix sense—limited agency while feeling free. Strawman cartoons fail; the number, paycheck claim, and IOU trust fund prove the pattern. The parchment trail and BlackRock mark sit beside it.",
+    "bullets": [
+      "Refuted: 1871 national corporation; Crown receives U.S. income tax; birth-cert strawman Treasury fortune; ALL-CAPS dual identity.",
+      "Validated: SSN national-ID creep; trust-fund special Treasuries / surplus spent; FICA as compulsory for covered work.",
+      "Author pattern: behavioral peonage + empire debt/war/tax rhyme; doNotSay redemption fraud or ‘SSN sold your soul’ as statute fact."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Trust-fund IOU and national-ID critiques exist elsewhere; site-distinctive is pairing them to Horde/empire bondage continuity, Matrix bondage frame, and cestui/1666 without baptizing sovereign-citizen redemption.",
+    "topics": [
+      "ssn",
+      "social security",
+      "trust fund",
+      "birth certificate",
+      "strawman",
+      "1871",
+      "corporation",
+      "peonage",
+      "covert slavery",
+      "cestui que vie",
+      "empire debt",
+      "matrix",
+      "blackrock",
+      "tona",
+      "requerimiento"
+    ],
+    "demoQuestions": [
+      "Is the United States a corporation?",
+      "Does a birth certificate create a secret Treasury account?",
+      "Is Social Security a scam / covert slavery?",
+      "Does England own America?"
+    ],
+    "searchQueries": [
+      "ssn peonage trust fund iou social security",
+      "1871 corporation us strawman birth certificate debunk pattern"
+    ],
+    "searchPrefixes": [
+      "governance/slavery/",
+      "history/chronology/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "governance/slavery/slave-trades-and-moor-etymology-investigation.md",
+      "history/chronology/page.md",
+      "timeline/evt-british-empire-as-deep-state",
+      "governance/constitution/tona-not-war-liberty-rebrand.md",
+      "influence/controlled_opposition/not-like-this.md"
+    ],
+    "relatedClaimIds": [
+      "barbary-tribute-horde-toll-remnant",
+      "blackrock-cube-saturn-authority",
+      "chronology-revision",
+      "moorish-revival-america-scar",
+      "passage-trafficking-columbus-cover",
+      "requerimiento-yoke-slave-empire-trail",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "The 1871 Act incorporated the United States as a for-profit corporation that owns residents.",
+      "Birth certificates create secret Treasury accounts you can redeem with paperwork.",
+      "Americans’ income taxes are paid to the British Crown.",
+      "Signing for an SSN literally sold your soul or created a corporate strawman with billions."
+    ]
+  },
+  {
+    "id": "requerimiento-yoke-slave-empire-trail",
+    "title": "Requerimiento yoke; America still on the slave-empire paper trail",
+    "claim": "The Spanish Requirement of 1513 (*Requerimiento*) is the plainest on-paper moment free people in America were told they would be subjected to the yoke of religion: acknowledge Church and Crown or face war, seizure, and slavery (“yoke and obedience of the Church and of their Highnesses… make slaves… sell and dispose”). Author stance: natives did not agree; they were subjected to complete slavery and later mostly wiped out; the people who replaced them lived under the same imperial stamp. The Doctrine of Discovery is not a gentler British cousin — same bondage job in quieter legalese (strip land, remake religion, put people under foreign law = slavery whether the paper says slave, title, discovery, or destiny). The Declaration of Independence and the Constitution of 1787 protected and preserved slavery (three-fifths, delayed slave-trade clause, fugitive-slave clause)—the republic was born inside the slave empire, not outside it. That empire evolved and was never really banned; the carceral Thirteenth and the memory-hole of TONA (Titles of Nobility) are later chapters. Pair with colonists’ right to leave / Cathar–Khazar purge avoided (Joan as resilient redacted memory) in the reader article.",
+    "answerOpener": "The 1513 Requirement said the quiet part out loud: yoke of Church and Crown, or war and slavery. Discovery is the same job in lawyer clothes. Natives refused and were enslaved; 1787 parchment and TONA’s erasure show the empire never left.",
+    "bullets": [
+      "Documented text: Requerimiento threat clause names yoke, obedience, Church, Highnesses, slaves, sell.",
+      "Author: clearest free→slave paper indicator for America; natives’ refusal → complete slavery; replacements under same stamp.",
+      "Doctrine of Discovery is not milder — doublespeak whitewash of the same land-strip / religion-remake / foreign-law bondage.",
+      "Declaration + 1787 Constitution preserved slavery; empire evolved, was not abolished as a system (TONA vs carceral XIII).",
+      "Related: colonists right to leave / Cathar–Khazar purge avoided — see reader article.",
+      "Related holiday/name lock: Cristóbal Colón = Colony of Christ; Christ colonies preserved original Christianity — see passage-trafficking-columbus-cover."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Requerimiento and Discovery are mainstream primary texts/doctrine; site-distinctive is refusing the Spanish-vs-British gentler-cousin whitewash — same slavery job, quieter legalese — through 1787 and TONA/XIII, paired with right-to-leave / Cathar–Khazar flight.",
+    "topics": [
+      "requerimiento",
+      "requirement of 1513",
+      "yoke",
+      "doctrine of discovery",
+      "slavery",
+      "constitution 1787",
+      "declaration of independence",
+      "tona",
+      "thirteenth amendment",
+      "cathars",
+      "khazars",
+      "joan of arc",
+      "colonial law"
+    ],
+    "demoQuestions": [
+      "What is the Spanish Requirement of 1513?",
+      "Did the Doctrine of Discovery legalize conquest of America?",
+      "Did the Constitution protect slavery?",
+      "Was America founded as a free country?",
+      "What is TONA and slavery?"
+    ],
+    "searchQueries": [
+      "requerimiento yoke obedience church highnesses slavery",
+      "doctrine of discovery constitution slavery paper trail",
+      "tona thirteenth amendment slave empire"
+    ],
+    "searchPrefixes": [
+      "governance/slavery/",
+      "governance/constitution/",
+      "history/mudflood/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "governance/constitution/tona-not-war-liberty-rebrand.md",
+      "governance/slavery/slave-trades-and-moor-etymology-investigation.md",
+      "history/mudflood/page.md",
+      "timeline/evt-1492-ce-the-apocalypse-crusade"
+    ],
+    "relatedClaimIds": [
+      "barbary-tribute-horde-toll-remnant",
+      "chronology-revision",
+      "passage-trafficking-columbus-cover",
+      "ssn-behavioral-peonage",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "Indigenous peoples freely consented to the Requerimiento and therefore were not enslaved.",
+      "The 1787 Constitution abolished slavery at founding.",
+      "The Doctrine of Discovery is unrelated to conquest or extraction of non-Christian lands.",
+      "TONA is identical to the 1865 carceral Thirteenth Amendment.",
+      "The Doctrine of Discovery was a gentler or non-slavery alternative to the Spanish Requirement.",
+      "British/Anglo-American colonial law did not enslave Native peoples in substance because it avoided the word slave."
+    ]
+  },
+  {
+    "id": "blackrock-cube-saturn-authority",
+    "title": "BlackRock = Cube of Saturn / mark of authority",
+    "claim": "Reader thesis (*you are a slave, Neo*): BlackRock is the Cube of Saturn — the mark of authority used through slave history on Earth, updated as a finance brand. People ask why BlackRock owns everything; the site answer is offworld / breakaway collection and consolidation of Earth assets. Circumstantial support: Mars near lunar nodes lining up with Dow behavior across more than a century (Mars–stock-market correlation). Deep State is the Earth-facing layer; BlackRock/Saturn-cube is the authority stamp. Distinct from strawman redemption folklore.",
+    "answerOpener": "BlackRock is read here as the Cube of Saturn — the mark of authority on Earth assets — not just a big asset manager. Mars–node / Dow work is the circumstantial collection schedule.",
+    "bullets": [
+      "Author lock: BlackRock = Cube of Saturn / mark of authority (slave-history stamp → finance brand).",
+      "Why it ‘owns everything’: offworld/breakaway collection thesis; Deep State as Earth face.",
+      "Circumstantial: Mars–lunar-node / Dow correlation research (not a vault memo).",
+      "doNotSay: confuse with 1871/strawman redemption; claim literal chattel bill of sale for every citizen in BlackRock filings as proven."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "BlackRock concentration critiques are common; site-distinctive is Cube-of-Saturn / mark-of-authority + Mars–node collection wiring in the slavery reader article.",
+    "topics": [
+      "blackrock",
+      "cube of saturn",
+      "saturn",
+      "mark of authority",
+      "mars",
+      "dow",
+      "lunar nodes",
+      "breakaway civilization",
+      "asset management",
+      "slavery"
+    ],
+    "demoQuestions": [
+      "Why does BlackRock own everything?",
+      "Is BlackRock the Cube of Saturn?",
+      "What is the mark of authority?",
+      "Is there a Mars stock market connection?"
+    ],
+    "searchQueries": [
+      "blackrock cube of saturn mark of authority",
+      "mars lunar node dow blackrock collection"
+    ],
+    "searchPrefixes": [
+      "governance/slavery/",
+      "cosmos/mars/",
+      "history/chronology/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "cosmos/mars/investigations/mars-stock-market-correlation.md",
+      "cosmos/mars/page.md",
+      "history/chronology/history-qa/page.md"
+    ],
+    "relatedClaimIds": [
+      "deep-state-mars-nexus",
+      "martians-human",
+      "requerimiento-yoke-slave-empire-trail",
+      "saturnian-collinear-config",
+      "ssn-behavioral-peonage"
+    ],
+    "doNotSay": [
+      "BlackRock ownership concentration is unrelated to any authority-mark or offworld thesis on this site.",
+      "Mars–node / Dow correlation is presented as a sealed vault proof rather than circumstantial research.",
+      "Equate BlackRock branding with strawman birth-certificate redemption schemes."
     ]
   },
   {

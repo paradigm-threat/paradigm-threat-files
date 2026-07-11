@@ -63,6 +63,8 @@ The logic: Earth performs well (Dow +721% when Mars is *not* in node) when left 
 
 Under this assumption, the cyclic world changes (market crashes, wars, regime shifts, consolidation of banks and corporations) during Mars–node periods are not merely economic or political phenomena. They are the outcome of a **harvest cycle** — a time when gate access permits the controllers to collect tribute, enforce compliance, rotate personnel, and adjust the terms of Earth's lease. Earth does well when left alone; Earth does poorly when harvested.
 
+**Reader-essay bridge ([you are a slave, Neo.](/governance/slavery/you-are-a-slave-neo.md)):** This Dow / Mars–node stack is treated there as **circumstantial and hard to deny** once seen — Earth assets owned and collected by offworlders on a schedule. Popular “why does BlackRock own everything?” maps to **BlackRock = black rock / Cube of Saturn / mark of authority** — the same authority stamp used through Earth slave history, now on the asset manager. That lexical/authority claim is author thesis adjacent to this correlation dossier; the numbers and nodal geometry live here.
+
 ---
 
 ## Primary Source: Appendix of *Ares Le Mandat*

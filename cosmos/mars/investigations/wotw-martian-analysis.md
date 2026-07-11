@@ -202,6 +202,8 @@ The blood-feeding protocol takes on additional significance: the workers sent to
 
 > See `wotw-mfee-mars-catastrophe.md` for full analysis.
 
+**Cross-ref:** *The Time Machine* (1895) **final vision** — same **dying-planet** palette under a **time-dial** label — [time-travel literature investigation §9](/influence/predictive_programming/investigations/time-travel-literature-wells-deposit-investigation.md#9-time-machine-ending--mars-after-mfee-author-thesis).
+
 ---
 
 ### Red Weed

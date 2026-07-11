@@ -1,8 +1,278 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-11T13:14:37.560Z",
+    "date": "2026-07-11T14:00:38.201Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/mars-stock-market-correlation.md",
+        "href": "/cosmos/mars/investigations/mars-stock-market-correlation"
+      },
+      {
+        "status": "M",
+        "path": "cosmos/mars/investigations/wotw-martian-analysis.md",
+        "href": "/cosmos/mars/investigations/wotw-martian-analysis"
+      },
+      {
+        "status": "M",
+        "path": "docs/instructions/ARTICLES.md",
+        "href": "/docs/instructions/ARTICLES"
+      },
+      {
+        "status": "M",
+        "path": "events/false_flag/investigations/20th-21st-century-catalog.md",
+        "href": "/events/false_flag/investigations/20th-21st-century-catalog"
+      },
+      {
+        "status": "M",
+        "path": "events/jfk/agent.md",
+        "href": "/events/jfk/agent"
+      },
+      {
+        "status": "M",
+        "path": "events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md",
+        "href": "/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation"
+      },
+      {
+        "status": "M",
+        "path": "events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md",
+        "href": "/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation"
+      },
+      {
+        "status": "M",
+        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
+        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
+      },
+      {
+        "status": "M",
+        "path": "governance/slavery/slave-trades-and-moor-etymology-investigation.md",
+        "href": "/governance/slavery/slave-trades-and-moor-etymology-investigation"
+      },
+      {
+        "status": "A",
+        "path": "governance/slavery/you-are-a-slave-neo.md",
+        "href": "/governance/slavery/you-are-a-slave-neo"
+      },
+      {
+        "status": "A",
+        "path": "governance/slavery/you-are-a-slave-neo.png",
+        "href": "/governance/slavery/you-are-a-slave-neo.png"
+      },
+      {
+        "status": "M",
+        "path": "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+        "href": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/investigations/lexical-redaction-hub-investigation.md",
+        "href": "/history/chronology/investigations/lexical-redaction-hub-investigation"
+      },
+      {
+        "status": "M",
+        "path": "history/chronology/the-hidden-history-of-words.md",
+        "href": "/history/chronology/the-hidden-history-of-words"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/fiction_encoding/wells/index-wells.md",
+        "href": "/influence/predictive_programming/fiction_encoding/wells/index-wells"
+      },
+      {
+        "status": "A",
+        "path": "influence/predictive_programming/investigations/time-travel-literature-wells-deposit-investigation.md",
+        "href": "/influence/predictive_programming/investigations/time-travel-literature-wells-deposit-investigation"
+      },
+      {
+        "status": "M",
+        "path": "influence/predictive_programming/page.md",
+        "href": "/influence/predictive_programming"
+      },
+      {
+        "status": "M",
+        "path": "site-claims.json",
+        "href": "/site-claims.json"
+      }
+    ],
+    "images": [
+      {
+        "src": "/governance/slavery/you-are-a-slave-neo.png"
+      },
+      {
+        "src": "/cosmos/mars/investigations/mars-stock-market.png",
+        "alt": "Mars, lunar node, and Dow Jones correlation"
+      },
+      {
+        "src": "https://paradigmthreat.net/files/timeline/media/12.ce-18th-mudflood-and-pugachev/martian-appearance.png",
+        "alt": "Host body theory — Martian appearance / *ID4* suit-occupant split (timeline)"
+      },
+      {
+        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)",
+        "alt": "` / `*.png` / `*.jpg`; prefer **published** `https://paradigmthreat.net/...` URLs (timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`). **Placement:** one image **after** the paragraph that introduces the topic (illustrate the **linked investigation**, not decorate every section). **Alt text:** name the **source lane** and **what the reader should see** (e.g. “Historical antibodies — timeline chapter,” “Call of Duty militainment — Krasinski operator arc”). **Do not** copy images into the article folder unless you are creating **new** art; **link** to the canonical file in its home directory. **Consecutive-article cap:** the **same image file** must **not** appear in **two reader-facing articles published back-to-back** (the immediately prior shipped article and the one you are writing now). Reuse across the corpus is fine with spacing; when the prior article already used an asset, pick a **sibling image** from the same lane or **omit** the embed. **Newsletter budget:** many large PNGs + hero can trigger Gmail clipping—prefer **fewer, well-placed** reuses over a gallery; see **Length → Newsletter / inbox check**. **Reference:** [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`"
+      },
+      {
+        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
+        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. **TL;DR check:** grep the blockquote for `http`, `Patreon`, `$`, `§`, and dossier-style evidence — **move** hits to the body. **Opening / first-viewport check:** before the first `##`, there must be **no** markdown links to other investigations, timeline stubs, companion dossiers, or series installments — and no “first pass / companion / this installment follows” routing prose that names those files. Move that stack to **mid-body** or **`## Where next`** (see Shape step 6). **No body TL;DR:** opening must not list later section topics as a “stack of moves” / investigation tour — if a paragraph only previews, delete it (see **Voice → No body TL;DR / topic-preview pad**). **Plain-spoken / poet check:** read the opening and every section-close out loud; rewrite fragment stacks, abstract drama nouns, and neat aphorisms into ordinary lay speech (see **Voice → No poet / aphorism LLM voice**). Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Series installments:** read the **prior installment** in full; cut shared frame that Installment I already taught. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). **Grep for local/internal paths** — reject before ship: `/home/`, `~/`, `/media/`, `/docs/debate-notes`, `~/dev/wget`, bare recording filenames. Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png",
+        "alt": "The Philadelphia Experiment Was Not Time Travel — portal series Part B"
+      },
+      {
+        "src": "https://paradigmthreat.net/events/philadelphia/earth-portal-projects-timeline.png",
+        "alt": "Earth-first portal projects — Stonehenge to WOTW flying-machine, Philadelphia, Roswell, CERN (§6.1)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png",
+        "alt": "Stonehenge — Golden Age quantum portal end-port before industrial reproduction"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation-types.png",
+        "alt": "Mystery airships 1896–97 — ship-shaped sky craft before flying-saucer vocabulary"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
+        "alt": "LHC — 27 km buried ring, industrial portal successor (Mars / CERN hub)"
+      },
+      {
+        "src": "/governance/slavery/slave-trades-and-moor-etymology-investigation.png",
+        "alt": "Slave trades and Moor etymology"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/slavery/you-are-a-slave-neo.png",
+        "alt": "you are a slave, Neo."
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/saturn/black_cube_of_saturn3.jpg",
+        "alt": "Black Cube of Saturn — mark of authority"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/apocalypse/apocalypse_vasnetsov.jpg",
+        "alt": "Four horsemen — Apocalypse Crusade memory"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
+        "alt": "Promised land — passage and embed"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/tartaria/painting_joan_of_arc_stake.jpg",
+        "alt": "Joan of Arc at the stake"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png",
+        "alt": "TONA — Titles of Nobility amendment"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/genocide/white_slaves1.jpg",
+        "alt": "White slavery and captivity memory"
+      },
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      },
+      {
+        "src": "/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg",
+        "alt": "Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar."
+      },
+      {
+        "src": "/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png",
+        "alt": "Ted Cruz, Kevin Malone — investigation header graphic"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.png",
+        "alt": "The Hidden History of Words — lexical reset, Latin breakaway, and the Horde redaction wall (article hero)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/redacted.jpg",
+        "alt": "Dictionary trail ending at redaction — lexical history redaction wall"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/christ/bible_was_redacted.jpg",
+        "alt": "Bible redaction — mass translation as lexical seal"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/christ/crucifixion_simone_martini_066.jpg",
+        "alt": "Crucifixion — Simone Martini, c. 1333 (Passion trial vocabulary anchor)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png",
+        "alt": "Europe whitewash — Moor / Boor / complexion label politics"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.png",
+        "alt": "Giants, infantry, guerrilla — Horde foot lines and post-cannon survival"
+      },
+      {
+        "src": "https://paradigmthreat.net/cosmos/mars/life_on_mars_rules_earth.png",
+        "alt": "Mars-associated control — life on Mars rules Earth (lexical war cluster)"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.jpg)](https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.md",
+        "alt": "Troy was also called Yoros — short for Ierosalim, Jerusalem (#1), Tsar-Grad"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
+        "alt": "Franklin Palatine Boors vs Moors — screenshot forensics (Palatine Moors, black German King George II)"
+      },
+      {
+        "src": "/influence/predictive_programming/predictive_programming.png",
+        "alt": "Predictive Programming"
+      },
+      {
+        "src": "/influence/predictive_programming/comics.jpg",
+        "alt": "9/11 predictive programming in comics"
+      },
+      {
+        "src": "/influence/predictive_programming/doom.jpg",
+        "alt": "Doom — quantum teleport between Earth and Mars"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_women.jpg",
+        "alt": "Mars Needs Women — breeding programme theme"
+      },
+      {
+        "src": "/influence/predictive_programming/stargate.jpg",
+        "alt": "Stargate — pyramid as portal"
+      },
+      {
+        "src": "/influence/predictive_programming/wotw.jpg",
+        "alt": "War of the Worlds — heat ray, red weed, Mars inversion"
+      },
+      {
+        "src": "/influence/predictive_programming/simpsons_space_laser.jpg",
+        "alt": "The Simpsons — 9/11 imagery"
+      },
+      {
+        "src": "/influence/predictive_programming/mars_movies.jpg",
+        "alt": "Mars movies"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin.jpg",
+        "alt": "Marvin the Martian"
+      },
+      {
+        "src": "/influence/predictive_programming/marvin2.jpg",
+        "alt": "Marvin the Martian (2)"
+      },
+      {
+        "src": "/influence/predictive_programming/megaman.jpg",
+        "alt": "Mega Man"
+      },
+      {
+        "src": "/influence/predictive_programming/nazis_hollow_earth.jpg",
+        "alt": "Nazis in Hollow Earth"
+      },
+      {
+        "src": "/influence/predictive_programming/fire_on_the_mountain.jpg",
+        "alt": "Fire on the Mountain"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-11T13:14:26.000Z",
+    "message": "Add search.yaml for merge ingest and FTS field config.",
     "files": [
       {
         "status": "A",
@@ -681,108 +951,6 @@
       {
         "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
         "alt": "LHC — 27 km buried ring, industrial portal successor (Mars / CERN hub)"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-06T13:00:46.000Z",
-    "message": "Prepare Declare Independence and Philadelphia Part B for publish.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md",
-        "href": "/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation"
-      },
-      {
-        "status": "M",
-        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
-        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
-      },
-      {
-        "status": "A",
-        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png",
-        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/declare-independence.md",
-        "href": "/influence/hollywood/declare-independence"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/declare-independence.png",
-        "href": "/influence/hollywood/declare-independence.png"
-      },
-      {
-        "status": "M",
-        "path": "science/cern_portal/out-of-this-door-might-come-something.md",
-        "href": "/science/cern_portal/out-of-this-door-might-come-something"
-      },
-      {
-        "status": "M",
-        "path": "science/cern_portal/page.md",
-        "href": "/science/cern_portal"
-      }
-    ],
-    "images": [
-      {
-        "src": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png"
-      },
-      {
-        "src": "/influence/hollywood/declare-independence.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png",
-        "alt": "The Philadelphia Experiment Was Not Time Travel — portal series Part B"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/declare-independence.png",
-        "alt": "Declare Independence — Independence Day as NSA unity-lane flagship"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png",
-        "alt": "Out of This Door Might Come Something — CERN portal series Part A"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
-        "alt": "LHC — 27 km ring of superconducting magnets and accelerator chain (Mars hub / CERN travel)"
-      },
-      {
-        "src": "https://paradigmthreat.net/science/cern_portal/cern-layout.png",
-        "alt": "CERN LHC — documented layout + portal architecture read (Earth); plan view with Lake Geneva, Points 1/5/8, Meyrin campus, centroid chamber; cross-section inset (green = documented, yellow = energetic harness, red = classified center)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cia_remote_viewing.jpg",
-        "alt": "CIA STARGATE — 1984 Mars remote-viewing session artwork (declassified lane; Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_plans.jpg",
-        "alt": "Future Circular Collider (FCC) — planned scale-up vs existing LHC at CERN (Nature / Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/mars_canals5.jpg",
-        "alt": "Percival Lowell — Mars and Its Canals (1906); intelligent-civilization waterworks read before Mariner (Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/ancient-stargates/ancient-stargates.png",
-        "alt": "Ancient stargates — suppressed gateways infographic; scattered Earth finds, 1950s confiscation, heaven (Nibiru / star worlds) to Earth link via ancient tablets"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/doom.jpg",
-        "alt": "Doom film (2005) — quantum teleport between Earth and Mars (predictive programming catalog)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_storm.jpg",
-        "alt": "Viral CERN portal storm imagery — Geneva lightning vortex reads as “opened gate” in tabloid cycles (Mars hub)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at1.jpg",
-        "alt": "Gotthard Base Tunnel opening — BBC: “How Switzerland decided to mark world's longest rail tunnel” (1 June 2016)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_religious_ritual_at2.jpg",
-        "alt": "Gotthard ceremony — obedience theater near CERN geography (Mars hub)"
       }
     ]
   }

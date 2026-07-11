@@ -1,6 +1,6 @@
 # Investigation: Philadelphia Experiment — Ship-Scale Portal Precursor (1943)
 
-> **TL;DR:** **Philadelphia Experiment** / **Project Rainbow** legend as **early ship-scale æther-distortion trial** in the **same lineage** as CERN — **Allende–Jessup** corpus (space jump **Philadelphia ↔ Norfolk**, crew **Flame/Freeze**, **laying on of hands**); **media deposit** retimes portals as **time travel** (1984 film, Montauk title). **Predictive programming:** charge-to-critical ring grammar vs chronology misread — see §8. **Continuum:** 1943 ship → Montauk (claimed) → LHC ([CERN dossier §10 stub](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md#10-philadelphia-experiment-1943--precursor-stub)).
+> **TL;DR:** **Philadelphia Experiment** / **Project Rainbow** legend as **early ship-scale æther-distortion trial** in the **same lineage** as CERN — **Allende–Jessup** corpus (space jump **Philadelphia ↔ Norfolk**, crew **Flame/Freeze**, **laying on of hands**); **media deposit** retimes portals as **time travel** (1984 film, Montauk title). **Predictive programming:** charge-to-critical ring grammar vs chronology misread (§8.1–§8.3); **stasis / permanent freeze-until-thaw** flood as feasibility clue for Allende **Deep Freeze** (§8.4) — Heinlein coined **"stasis field"** (**1942**) while entering the **Philadelphia Navy Yard**. **Continuum:** 1943 ship → Montauk (claimed) → LHC ([CERN dossier §10 stub](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md#10-philadelphia-experiment-1943--precursor-stub)).
 
 **Status:** Open — legend tier for operational teleport; **Varo edition** and **Allende letters** are documented artifacts; FOIA **Project Rainbow** not located.
 
@@ -11,7 +11,7 @@
 3. **Documented anchors + debunk layer** → §4  
 4. **Control deposit — time travel substituted** → §5  
 5. **Continuum to CERN / Montauk** → §6 (§6.1 Earth-field constraint — why not Mars)  
-6. **Predictive programming catalog** → §8  
+6. **Predictive programming catalog** → §8 (§8.4 **stasis / frozen soldiers**)  
 7. **Claims registry** → §7  
 8. **Open questions + source availability tiers** → §9 (§9.1 redaction vs scarcity; **§9.2 documents not located**)  
 9. **Source books — audit + legitimacy** → §10 (catalog pitfalls §10.7)  
@@ -125,6 +125,7 @@ Rotating shipboard B-field  +  Earth telluric / global B-field
 
 | Deposit | Time-travel emphasis | Space / endpoint emphasis |
 |---------|---------------------|---------------------------|
+| ***The Time Machine* (Wells, 1895)** | **Strong** — stationary 4D engine; future-only | **Author read:** temporal cushion = EM bubble grammar — [time-travel lit §5](/influence/predictive_programming/investigations/time-travel-literature-wells-deposit-investigation.md) |
 | ***The Philadelphia Experiment* (1984 film)** | **Strong** — Nazi time escape | Weak — ship jump backdrop |
 | ***The Montauk Project* (1992)** | Title + 1943↔1983 loop | Teleport, Mars tunnels (Nichols) |
 | ***Stranger Things*** | Upside Down time fuzz | Accelerator = CERN rhyme |
@@ -134,6 +135,8 @@ Rotating shipboard B-field  +  Earth telluric / global B-field
 | **Repo [events page](/events/philadelphia/page.md)** | **Explicitly denied** | Norfolk only — author correction |
 
 **Investigation rule:** When a portal story **defaults to time travel**, check whether **space teleport + fixed endpoint** (Mars, Norfolk, Xen) was the **older or more operationally coherent layer**. Time reads as **R6 shell / misdirection** per [REDACTION.md](/docs/REDACTION.md).
+
+**Genre anchor:** Wells **1895** *Time Machine* established the **stationary fourth-dimension bubble** that later culture uses to **misread** portal hardware — literary firsts, Gaspar fork, temporal-cushion ↔ Philadelphia rhyme: [time-travel literature investigation](/influence/predictive_programming/investigations/time-travel-literature-wells-deposit-investigation.md) §1–§7.
 
 **Montauk fork:** Nichols links Montauk SAGE refit to Philadelphia aftermath and claims **Mars** as remote target via vortex aiming ([Art Bell 1994](https://artbellarchive.org/episode/may-27-1994-montauk-project-preston-nichols); [Cameron/Nichols interview](https://www.stunned.org/spook/www.psychicspy.com/montauk2.html)). Treat as sequel narrative bridging **1943 ship gate → 1980s ground antenna → CERN ring** — speculative, not A-tier.
 
@@ -183,6 +186,9 @@ Cross-ref: [spore / Martian cylinders §B](/history/mudflood/investigations/spor
 | P5 | **Allende–Jessup–Varo** = primary artifact chain; Moore/Montauk = deposit layers | **Investigation read** — see §10.1 |
 | P6 | Portal precursors must run **on Earth** against **Earth's field** — not Mars; scarce yard hardware (~1943 US Navy) | **Author thesis** — §6.1 |
 | P7 | WOTW flying-machine + post-1947 saucer arc = Earth-first atmospheric hardware tests; discs **EM-vulnerable** (Roswell read) | **Author interpretive** — speculative bridge §6.1 |
+| P8 | Allende **Deep Freeze** = involuntary **stasis-class** bio-EM failure; hand-laying = **thaw protocol** | **Legend / Allende** — §3, §8.4 |
+| P9 | Mass **stasis / cryosleep / carbonite** PP volume = feasibility clue that **freeze-until-thaw** medium effects are **known / operable** | **Author interpretive** — §8.4 |
+| P10 | Heinlein coined **"stasis field"** (**1942**) while entering **Philadelphia Navy Yard** — strongest proximity signal for Freeze grammar | **A** (dates/term) + **C** (PP read) — §8.4 |
 
 Cross-ref CERN dossier claims **A12–A15**.
 
@@ -226,6 +232,114 @@ Published as [Epistle 3](http://www.marclaidlaw.com/epistle-3/) ([Steam guide mi
 | **1984 film** | **Strongest time-travel deposit** |
 | Montauk books / Nichols | Sequel → Mars underground |
 | Asimov et al. @ Navy Yard | Proximity only |
+| Heinlein *Beyond This Horizon* (**1942**) | Coined **stasis field** at Navy Yard entry — §8.4 |
+
+### 8.4 Frozen soldiers — stasis fields and permanent freeze-until-thaw (PP feasibility clue)
+
+**Question:** Allende's **"Getting Stuck" / Deep Freeze** describes crew locked in a semi-comatose **nether world** where ordinary time **seems to stop** for the victim while shipmates watch — recoverable only by **laying on of hands** until that protocol fails. Is that an **accident** of portal hardware, or evidence that **engineered human stasis** (freeze now, thaw later) is a **real medium effect** the culture has been trained to treat as **fiction**?
+
+**Investigation frame:** Volume and specificity of **stasis / cryosleep / carbonite** predictive programming is a **feasibility clue** — same method as portal PP (§8.1) and Wells chronology flood ([time-travel lit §11](/influence/predictive_programming/investigations/time-travel-literature-wells-deposit-investigation.md)). Dense, stable, multi-decade tropes that match **operational phenomenology** raise the prior that the underlying effect is **known**. Sparse or purely comic tropes lower it.
+
+#### 8.4.1 Two grammars — do not collapse them
+
+| Grammar | Intent | Duration | Exit | Philadelphia match |
+|---------|--------|----------|------|-------------------|
+| **A — Injury Freeze** | Unwanted side-effect of bubble / coil shutdown | Hours → days (18-day Flame adjacent) | **Hand-laying** / touch rebalance | **Allende primary** — "Hell Incorporated" |
+| **B — Engineered stasis** | Deliberate storage of a living body | Years → centuries (fiction) | Device **off** / thaw chamber / solvent | **PP flood** — carbonite, cryopods, bobbles |
+| **C — Chronology mislabel** | "Time stopped" as **time travel** story | Plot-dependent | Return to "present" | Wells blur; **1984 film** deposit |
+
+**Author read:** Grammar **A** is what the letters report. Grammar **B** is what mass media **normalizes** as safe, reversible, and **military-useful**. If **B** is the **controlled** form of the same medium effect that produces **A** when operators lack literacy, then **frozen soldiers** are not folklore — they are **failed stasis** (or **successful stasis without a clean thaw protocol**).
+
+**Outcome identity (user note):** Carbonite is not an EM bubble — but the **outcome** matches Grammar B: **permanent human stasis until unfrozen**. Treat mechanism families separately; score **outcome rhyme** for PP density.
+
+#### 8.4.2 Mechanism families (stasis taxonomy)
+
+| Family | Description | Examples | Space / time coupled? |
+|--------|-------------|----------|----------------------|
+| **S1 — True stasis field** | Localized volume where **time does not pass**; contents emerge unchanged | Heinlein **Adirondack stasis field**; Vinge **bobble**; Hamilton **zero-tau** | Claims **time stop** inside envelope — rhymes Allende subjective stop |
+| **S2 — Cryosleep / hypersleep** | Cold / drug / chamber **metabolic halt** for travel | *2001*, *Alien*, *Avatar*, *Passengers*, *Interstellar* | Medical frame; **thaw** expected |
+| **S3 — Encasing solid** | Body locked in solid medium; later freed | **Carbonite** (*Empire Strikes Back*); comic ice prisons | Outcome = B; mechanism ≠ EM bubble |
+| **S4 — Accidental / injury freeze** | Field stress locks tissue without design intent | Allende **Deep Freeze**; some *Philadelphia Experiment* film beats | **Primary** for this dossier |
+| **S5 — Comic / farce thaw** | Accidental freeze → wake in future for jokes | *Futurama*, *Austin Powers*, *Demolition Man*, *Encino Man* | Trains **mockability** — R6-adjacent |
+
+**Investigation rule:** When media shows **S1–S3**, ask whether the story is **selling** reversible human storage. When it shows **S4**, ask whether it is **leaking** the injury grammar. When it shows **S5**, ask whether comedy is **containment** (same job as time-travel paradox mockery).
+
+#### 8.4.3 Anchor — Heinlein coins "stasis field" at the Navy Yard door
+
+| Fact | Date / source | Tier |
+|------|---------------|------|
+| Term **"stasis field"** first appears in Heinlein *Beyond This Horizon* | Serialized **April–May 1942** *Astounding* (as Anson MacDonald); book **1948** — [Wikipedia](https://en.wikipedia.org/wiki/Stasis_field); [SFE](https://sf-encyclopedia.com/entry/stasis_field); [Technovelgy](http://www.technovelgy.com/CT/content.asp?Bnum=401) | **A** |
+| Field = **impenetrable cubical mirror**; **no time passes** inside; living contents emerge without duration | Adirondack stasis field episode — contains a **1926** man opened in the future | **A** (text) |
+| Heinlein reports to **Naval Aircraft Factory**, Philadelphia Navy Yard, as **Assistant Mechanical Engineer** | **May 1942** — same month the serial ends ([Kirkus — Navy Yard](https://www.kirkusreviews.com/news-and-features/articles/asimov-de-camp-and-heinlein-naval-aviation-experim/)) | **A** |
+| Philadelphia Experiment legend date | **28 Oct 1943** | Legend |
+| Asimov / de Camp join same yard complex | **1942–1945** — §4 proximity row | **A** |
+
+**Read (tier C):** The English language's **default name** for "volume where a human stops aging until the field drops" enters print **as Heinlein walks into the Philadelphia EM R&D complex** that later hosts the **Freeze** legend. That is not proof he witnessed a trial. It is the **strongest single PP proximity** in this dossier for **Grammar B** existing as a **named engineering idea** beside **Grammar A** injury reports.
+
+**Chronology discipline:** *Beyond This Horizon* **predates** the Oct **1943** legend date — same as Wells vs Philadelphia. Do **not** claim the Freeze inspired the coinage. Do claim the **yard** is where **stasis vocabulary** and **rotating-field hardware culture** were **neighbors**.
+
+#### 8.4.4 Catalog — permanent / long-duration freeze-until-thaw (selected)
+
+**Strong outcome rhyme (thaw expected; body intact):**
+
+| Work | Year | Family | Beat | PP note |
+|------|------|--------|------|---------|
+| Heinlein *Beyond This Horizon* | **1942** | S1 | Adirondack **stasis field**; time traveler thawed | **Coinage** + Navy Yard entry |
+| *2001: A Space Odyssey* | 1968 | S2 | Hibernation pods; crew murdered in sleep | Normalizes **crew as cargo** |
+| *Planet of the Apes* | 1968 | S2 | Cryosleep → deep future | Accidental long stasis |
+| *Alien* / *Aliens* | 1979–86 | S2 | **Hypersleep** between stars; military cargo | Industrial thaw culture |
+| *The Empire Strikes Back* | **1980** | S3 | **Han Solo in carbonite** — permanent until unfrozen (*Jedi*) | Mass-culture **frozen prisoner / soldier** icon |
+| *Star Trek II* — Khan | 1982 | S2 | Botany Bay cryo survivors | Military genetics + thaw |
+| *The Forever War* (Haldeman) | 1974 | S1-ish | Relativistic / field language; war across time | Military stasis-adjacent |
+| Vinge *The Peace War* | 1984 | S1 | **Bobbles** — force-spheres of stopped time; weapons + prisons | Same year as *Philadelphia Experiment* film |
+| *Demolition Man* | 1993 | S2/S5 | Cryo-prison; thaw into future | Carceral stasis |
+| *Futurama* | 1999 | S5 | Fry frozen **1000 years** | Comic containment of long freeze |
+| *Avatar* | 2009 | S2 | Cryosleep to Pandora | Routine passenger stasis |
+| *Interstellar* | 2014 | S2 | Hibernation on long burns | NASA-adjacent prestige |
+| *Passengers* | 2016 | S2 | Pod failure mid-voyage | Thaw as **catastrophe** when early |
+| *Star Trek: Voyager* — "Dragon's Teeth" | 1999 | S2 | Vaadwaur revived after **900 years** | **Army** in stasis — frozen soldiers literal |
+| Games: *Halo* cryo; *Mass Effect* stasis; *Zelda* Stasis rune | 2000s– | S1/S2 | Player-facing freeze / thaw | Trains **interactable** stasis |
+
+**Weaker / adjacent (outcome similar, different thesis):**
+
+| Work | Note |
+|------|------|
+| *Austin Powers* / *Encino Man* | S5 — farce thaw; lowers seriousness |
+| *Breath of the Wild* Stasis | Object freeze, not human storage — still **named** the trope for a generation |
+| [Terranigma — Beruga](/influence/predictive_programming/investigations/terranigma-beruga-predictive-programming-investigation.md) | Cryogenic scientist — biotech immortality frame |
+| [Epstein suspended-animation dossier](/events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md) | Elite **staged death / suspended death** thesis — different file, same **thawable body** question |
+
+**Mainstream physics chorus:** Popular science often calls true time-stop stasis **impossible** (uncertainty principle — Grazier/Cass *Hollyweird Science*) while quietly funding **torpor / therapeutic hypothermia** research (NASA SpaceWorks hibernation studies, etc.). That split matches R6: **impossible fiction** on the shelf; **partial medical lane** in the lab.
+
+#### 8.4.5 Feasibility read — what the PP density implies
+
+| Observation | Implication |
+|-------------|-------------|
+| **S1 term coined 1942** at Philadelphia EM complex | Engineering culture already had a **clean name** for freeze-until-thaw volumes |
+| **S2 cryosleep** is default in **prestige** space film for **50+ years** | Public accepts **human storage** as **routine future tech** |
+| **Carbonite (1980)** = global icon of **prisoner in permanent stasis** | Outcome grammar **B** taught to children |
+| **Vinge bobbles (1984)** same year as Philadelphia **time** film | Parallel deposit: **stopped-time spheres** as weapons/prisons while harbor jump retimed as chronology |
+| **Voyager / games** revive **armies** from stasis | Explicit **frozen soldiers** — not only passengers |
+| Allende **hand-laying** = crude **thaw** | Injury grammar **A** looks like **B without operator manual** |
+| Comedy **S5** flood | Same containment job as paradox jokes — **mock** the lane |
+
+**Author thesis (P9):** The **degree** of predictive programming on permanent human stasis is **high** — coinage, military, carceral, passenger, and comic layers all present. That density is **consistent with** a **real, dangerous, partially mastered** medium effect (bio-EM / æther shear locking living tissue) that institutions prefer the public to meet as **Star Wars trivia** rather than **Navy Yard injury reports**. It does **not** prove carbonite chemistry or Heinlein's cubical mirror exist as filmed. It **raises the prior** that Allende's Freeze is **not** unique folklore but a **failed / uncontrolled instance** of Grammar B.
+
+**Counter-reads (required):**
+
+| Counter | Response |
+|---------|----------|
+| Stasis is just a convenient plot device | True for many stories — **does not erase** Heinlein–Yard timing or Allende phenomenology match |
+| Cryosleep ≠ EM bubble | Agreement — score **outcome** (thawable body) and **S1 field** separately; Philadelphia is **field-class**, not freezer-class |
+| Hand-laying proves magic, not tech | Touch-as-grounding is **EM-literate** folk protocol; failure mode is in the letters |
+| Proves 1943 freeze victims still in storage | **Not claimed** — open question only |
+
+#### 8.4.6 Open questions (stasis lane)
+
+1. Do any **Varo** margins or Allende passages describe **intentional** crew storage (Grammar B) vs only **Stuck** injury (A)?
+2. Post-1943 Navy / aerospace **torpor** or **hypothermia** programs — public trail vs classified gap?
+3. Is **Montauk Chair** trauma closer to Freeze (A) or deliberate stasis (B)?
+4. Cross-audit [Epstein suspended-animation](/events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md) — elite thaw tech vs yard injury tech = same substrate?
 
 ---
 
@@ -236,7 +350,8 @@ Published as [Epistle 3](http://www.marclaidlaw.com/epistle-3/) ([Steam guide mi
 3. **Montauk–Mars:** Independent corroboration of Nichols Mars targeting beyond interview memoir?  
 4. **Norfolk newspaper clip** Allende cited — locate or falsify? Moore Ch 5 / Varo appendix repeat the cite; **NHC Furuseth movement cards** already undermine Oct 1943 Norfolk witness window.  
 5. **Philadelphia newspaper** one-paragraph clip — Allende and Varo annotators both reference; never produced.  
-6. **Moore & Berlitz** — extent of **Thin Air** (1978 novel) plot borrowing ([Wikipedia — Philadelphia Experiment](https://en.wikipedia.org/wiki/Philadelphia_Experiment)); Moore intelligence-adjacent allegations in fringe literature — separate verification lane.
+6. **Moore & Berlitz** — extent of **Thin Air** (1978 novel) plot borrowing ([Wikipedia — Philadelphia Experiment](https://en.wikipedia.org/wiki/Philadelphia_Experiment)); Moore intelligence-adjacent allegations in fringe literature — separate verification lane.  
+7. **Stasis lane:** See **§8.4.6** — intentional storage vs injury Freeze; torpor programs; Montauk Chair; Epstein cross-read.
 
 ### 9.1 Source availability — scarcity vs institutional absence vs catalog noise
 
@@ -426,7 +541,7 @@ Maintainer index: `~/dev/wget/philadelphia-experiment/index-philadelphia-books.m
 
 Keywords: #PhiladelphiaExperiment #ProjectRainbow #Portal #Teleport #Norfolk #Allende #Jessup #Montauk #PredictiveProgramming #ParadigmThreatFiles
 
-**Last updated:** 2026-07-06T10:00:00-04:00
+**Last updated:** 2026-07-10T08:35:00-04:00
 
 ---
 

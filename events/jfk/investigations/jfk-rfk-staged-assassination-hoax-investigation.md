@@ -1,6 +1,6 @@
 # Investigation: JFK & RFK — Staged Assassination Hoax (Kennedy Family Compliance)
 
-> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — **real pre-Dallas attempts** (Pavlick anchor) → **family compliance** under **car-party threat**; **[§1.1 pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar)** — **Business Plot** health-fiction fork closest analogue; **no documented pre-1963 death hoax**; **[§2.1 motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)** — **hostile Dallas**, **Stevenson** incident, **morning ad**, **open published route** = **spectacle not faction healing**; **Dealey** **robot / exploding-head** ruse; **[§2.3 PP media catalog](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)** — **Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***; **[§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)** — **mock → divide → distract** after **Russia** script failed; **[§2.5 investigate → attempt → non-action](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)** — **FBI/SS touch** → **attempt** → **shoddy prevention**; **[§2.6 target-list intimidation](#26-target-list-intimidation-campaign--published-or-pocket-lists)** — **2017 Congressional baseball** anchor (**Hodgkinson** pocket list + **FBI** **suicide-by-cop** spin); **[§2.7 author synthesis](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)** — **Pavlick-only parseable motive**, **motive inversion**, **rogue CIA lanes**, **cartel ground cabal**; **Vietnam escalation** on **documented timeline**. **RFK (Jun 1968)** — **Sirhan** decoy; **Hartwell** **slug vs .22** wedge. **[§3.1 Chappaquiddick (Jul 1969)](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)** — **living-brother** **~10-hour** delayed report after **Mary Jo Kopechne** drowned; **serious** **public-credibility** collapse. Cross-read [agent.md](../agent.md), [§2](#2-jfk-november-1963-fake-assassination), [prophet.md](../prophet.md).
+> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — **real pre-Dallas attempts** (Pavlick anchor) → **family compliance** under **car-party threat**; **[§1.1 pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar)** — **Business Plot** health-fiction fork closest analogue; **no documented pre-1963 death hoax**; **[§1.4 death-package epistemics](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)** — **announced dead**, **photo layer**, **amplifier punishment** (Ellsberg parallel); **Tier I–III** map (**fake death** = **JFK/RFK only** in site thesis); **[§2.1 motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)** — **hostile Dallas**, **Stevenson** incident, **morning ad**, **open published route** = **spectacle not faction healing**; **Dealey** **robot / exploding-head** ruse; **[§2.3 PP media catalog](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)** — **Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***; **[§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)** — **mock → divide → distract** after **Russia** script failed; **[§2.5 investigate → attempt → non-action](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)** — **FBI/SS touch** → **attempt** → **shoddy prevention**; **[§2.6 target-list intimidation](#26-target-list-intimidation-campaign--published-or-pocket-lists)** — **2017 Congressional baseball** anchor (**Hodgkinson** pocket list + **FBI** **suicide-by-cop** spin); **[§2.7 author synthesis](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)** — **Pavlick-only parseable motive**, **motive inversion**, **rogue CIA lanes**, **cartel ground cabal**; **Vietnam escalation** on **documented timeline**. **RFK (Jun 1968)** — **Sirhan** decoy; **Hartwell** **slug vs .22** wedge. **[§3.1 Chappaquiddick (Jul 1969)](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)** — **living-brother** **~10-hour** delayed report after **Mary Jo Kopechne** drowned; **serious** **public-credibility** collapse. **[§3.2 connected deaths](#32-connected-deaths--silencing-lane-kennedy-adjacent)** — **Monroe**, **Kilgallen**, **Meyer**; **Tier I–II** default; **Kilgallen** = [prophet.md](../prophet.md) **distraction tree**. Cross-read [agent.md](../agent.md), [§2](#2-jfk-november-1963-fake-assassination), [prophet.md](../prophet.md).
 
 **Status:** Open — project thesis + public-record / forensic anchors; **no** proof of either man’s post-event public life.  
 **Date:** 2026-06-29
@@ -9,9 +9,9 @@
 
 ## Guide
 
-1. **Shared hoax grammar (Kennedy lane)** → [§1](#1-shared-hoax-grammar) · [§1.1 Pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar) · [§1.2 Nixon inverse exit](#12-post-kennedy-inverse-exit--nixon--watergate) · [§1.3 Legal responses & gaps](#13-legal-responses--gaps-health-concealment-autopen-25th)
+1. **Shared hoax grammar (Kennedy lane)** → [§1](#1-shared-hoax-grammar) · [§1.1 Pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar) · [§1.2 Nixon inverse exit](#12-post-kennedy-inverse-exit--nixon--watergate) · [§1.3 Legal responses & gaps](#13-legal-responses--gaps-health-concealment-autopen-25th) · [§1.4 Death-package epistemics](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)
 2. **JFK — Nov 22, 1963 (site thesis)** → [§2](#2-jfk-november-1963-fake-assassination) · [§2.1 Dallas motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission) · [§2.2 Rebecca Black *Friday* (Tier A PP)](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) · [§2.3 PP media catalog (canonical list)](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) · [§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract) · [§2.5 Investigate → attempt → non-action](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope) · [§2.6 Target-list intimidation](#26-target-list-intimidation-campaign--published-or-pocket-lists) · [§2.7 Author synthesis — rogue lanes](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)
-3. **RFK — Jun 4–6, 1968 (forensic + Hartwell)** → [§3](#3-rfk-june-1968-ambassador-hotel) · [§3.1 Chappaquiddick / Ted credibility](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)
+3. **RFK — Jun 4–6, 1968 (forensic + Hartwell)** → [§3](#3-rfk-june-1968-ambassador-hotel) · [§3.1 Chappaquiddick / Ted credibility](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969) · [§3.2 Connected deaths / silencing](#32-connected-deaths--silencing-lane-kennedy-adjacent)
 4. **Parallel table** → [§4](#4-jfk-vs-rfk-parallel-read)
 5. **Means, motive, opportunity (RFK — Hartwell)** → [§5](#5-rfk-means-motive-opportunity-hartwell)
 6. **Paradigm arc — betrayal, antibodies, endgame (author)** → [§6](#6-paradigm-arc-betrayal-antibodies-endgame-author)
@@ -175,6 +175,55 @@ After Lawrence’s failed attack, **Jackson** accused **Poindexter** / **Calhoun
 
 **Reply discipline:** **Documented** = 25th Amendment text, OLC autopen opinion, bill numbers; **not** claim **BIDEN Act** or **H.R. 8275** are ** enacted**.
 
+### 1.4 Death-package epistemics — announced dead, photo layer, amplifier punishment
+
+**Audit question:** What can the public **actually know** about a celebrity or political **death** — and how does **“announced dead”** differ from **staged assassination** vs **real death + cover-up**?
+
+**Short answer:** For remote auditors, **almost never certainty** — only **tiered confidence**. The public typically receives a **closed package**: a few **photos**, a **headline**, a **coroner line**, optional **funeral** (often **closed casket**), then **sealed records**. **Institutional participation** can make a subject **“dead in the narrative”** while still **alive**; **cooperative** subjects may **pose** for **convincing stills**; **non-cooperative** subjects may be **sedated and made up** for the same. Once **death is announced**, anyone who claims **“they’re alive and told me X”** faces **credibility ruin** — and **amplifiers** (journalists, lawyers, leakers) face **Pentagon Papers–class retaliation** (**prosecution**, **smear**, **career death**).
+
+#### Three death tiers (site taxonomy)
+
+| Tier | Label | Mechanism | Public sees | Kennedy-file examples |
+|------|-------|-----------|-------------|------------------------|
+| **I** | **Real death** | Body dies; cause disputed | Photos + ME ruling + burial | **Kopechne** ([§3.1](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)); default read **Monroe**, **Kilgallen** |
+| **II** | **Real death + cover-up** | Kill or allow death; **manage investigation** | Same package, **hasty** or **opaque** closure | **Monroe** murder theories; **Meyer** unsolved + diary |
+| **III** | **Announced dead / death theater** | **Narrative death** while subject **exits** public life; compliance enforced | **Spectacle** + institutional seal | **JFK**, **RFK** (site thesis); cross-read [Epstein staged death](../../false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md) |
+
+**“Announced dead”** is **Tier III in plain language**: you are **dead in the record** — stay hidden or face **real** elimination; **surfacing** destroys **you** and **anyone who amplifies** the story.
+
+#### Photo-layer discipline (author)
+
+| Claim | Tier |
+|-------|------|
+| Public **rarely** witnesses **autopsy**, **chain of custody**, or **independent** ME review for celebrities | **Documented** pattern (access restricted, “privacy”) |
+| **Cooperative** subject may **pose** for **death stills**; **non-cooperative** may be **drugged/staged** for photos | **Author operational model** — **not provable** case-by-case from outside |
+| **Headline + coroner PDF** ≠ **ground truth** when **same institutions** later proved to lie (COINTELPRO, [Tonkin](../../false_flag/investigations/20th-21st-century-catalog.md), [§1.1 Tier B](#tier-b--presidential-health-concealment-complicit-hoax-different-object)) | **Author epistemic frame** |
+| **Strong proof** either way from **photos alone** | **Rejected** — epistemic **ceiling** |
+
+**Author discipline:** We **cannot know the truth** in the strong sense from the **photo-and-press layer** alone — only **tiered confidence** based on **independent verification** (open casket, hostile journalists, leaks, contradictions in the record). **Neither** “official story proved” **nor** “definitely faked” follows from headlines and a coroner line **by themselves**.
+
+#### Amplifier punishment (Ellsberg / Pentagon Papers parallel)
+
+| Actor | Documented | Site read |
+|-------|------------|-----------|
+| **Ellsberg** | Indicted; **Espionage Act**; trials; **Plumbers** break-in | **Leak antibody** — state **punishes amplifiers**, not only leakers ([§6](#6-paradigm-arc-betrayal-antibodies-endgame-author)) |
+| ***NY Times* v. US (1971)** | Court allowed **publication** | **Legal shield** — rare |
+| **Post-announcement “witness”** | No mainstream case | **Discredited by default** — “impossible, they’re dead” |
+
+**Pairing:** Once **death is fixed in narrative**, the **Ellsberg lane** applies to **anyone who tries to break the story** — legal, professional, or worse. **Death announcement** is a **silencing technology** even when the body is **real** ([§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)).
+
+#### Reply discipline
+
+| Audience | Lead with |
+|----------|-----------|
+| **“We know Monroe/Kilgallen committed suicide”** | **Tier I–II** — **default** read; **§1.4 epistemic ceiling** — **cannot know** from press package alone |
+| **“Announced dead = JFK hoax”** | **Tier III** = **Kennedy staged assassinations** ([§2](#2-jfk-november-1963-fake-assassination), [§3](#3-rfk-june-1968-ambassador-hotel)); **don’t** conflate with every celebrity death |
+| **“Why won’t anyone talk?”** | **Amplifier punishment** + **credibility trap** (“they’re already dead”) |
+
+**Cross-read:** [§2.3 *F/X*](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) (death as special effects); [§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent) (Monroe, Kilgallen); [prophet.md](../prophet.md) (Kilgallen as distraction tree).
+
+**Tier:** **§1.4** = **epistemic foundation** for entire dossier — **not** proof of any single case.
+
 ---
 
 ## 2. JFK — November 1963 fake assassination
@@ -211,6 +260,10 @@ Start with **documented pre-Dallas pressure**, not Zapruder minutiae:
 - **Target-list intimidation campaigns** ([§2.6](#26-target-list-intimidation-campaign--published-or-pocket-lists)): **published or pocket lists** of officials + **violence or threat theater** to **coerce legislative conduct** — **2017 Congressional baseball** (**Hodgkinson**) as **clearest US pocket-list** case; pairs with **§2.5** when **FBI minimizes** terror/intimidation read (**suicide-by-cop** spin).
 - **Rogue lanes, motive inversion, ground cabals** ([§2.7](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)): **Pavlick** = **only citizen-parseable** war-stop logic; most attempts **invert** intent (**Trump** martyrdom); **not** unified top-level Deep State — **CIA-aligned rogue programs**, **NSA friction**, **cartel ground power** media **won’t** proportionally report.
 - **Chappaquiddick credibility wedge** ([§3.1](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)): Ted’s **~10-hour** delayed report after **Mary Jo Kopechne** drowned — **serious** **family/dynasty credibility** collapse; **supports** reading **Kennedy self-preservation over death transparency** as **non-impossible**; **does not** alone prove Dallas/Ambassador staging.
+- **Death-package epistemics** ([§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)): **Tier I–III** map — **announced dead** = **narrative death** + compliance; **photo layer** (cooperative stills / staged subjects) is what the public usually sees; **cannot know ground truth** from press package alone; **amplifier punishment** (Ellsberg / Pentagon Papers parallel) locks narrative after announcement.
+- **Connected deaths / silencing** ([§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)): **Monroe**, **Kilgallen**, **Meyer** default **Tier I–II** — **not** site **fake-death** cases; **Kilgallen** = [prophet.md](../prophet.md) **distraction tree**; supports **cover-up / silencing** grammar, **not** Dealey hoax proof alone.
+- **Death-package epistemics** ([§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)): **Tier I–III** map — **announced dead** = **narrative death** + compliance; **photo layer** (cooperative pose / drugged staging) + **epistemic ceiling** — public **cannot know** ground truth from **press package alone**; **amplifier punishment** (Ellsberg / Pentagon Papers parallel) once death is **fixed in narrative**.
+- **Connected deaths / silencing** ([§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)): **Monroe**, **Kilgallen**, **Meyer** default **Tier I–II** — **not** site **fake-death** cases; **Kilgallen** = [prophet.md](../prophet.md) **distraction tree**; supports **cover-up / silencing** grammar, **not** Dealey proof alone.
 
 **Tier:** **Project thesis** in [agent.md](../agent.md); Hartwell **RFK forensics** = **documented wedge** paired here; Dealey **robot / no-bullet** layer = **author thesis**.
 
@@ -953,6 +1006,73 @@ Most post-JFK attempts **could easily produce the opposite** of whatever the **a
 
 **Tier:** **Documented** Chappaquiddick facts + mainstream cover-up perception; **author** = family-credibility wedge for compliance thesis — **not** substitute for Dealey/Hartwell forensics.
 
+### 3.2 Connected deaths & silencing lane (Kennedy-adjacent)
+
+**Audit question:** Which **deaths under suspicious circumstances** orbit JFK/RFK — and how do they map to **[§1.4 death tiers](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)**?
+
+**Short answer:** **Many names** in conspiracy literature; **site fake-death thesis** applies **only** to **JFK/RFK** (**Tier III**). **Monroe**, **Kilgallen**, **Meyer** default to **Tier I–II** (real death, disputed causation / cover-up). **Downard/prophet** treats **Kilgallen/Ruby** as **distraction trees** — real events, **not** the forest ([prophet.md](../prophet.md)).
+
+#### Tier map (reply order)
+
+| Person | When | JFK/RFK link | Official | Site tier | §1.4 tier |
+|--------|------|--------------|----------|-----------|-----------|
+| **Marilyn Monroe** | Aug 1962 | Affairs **JFK/RFK** alleged; cut off summer **1962** | Probable **suicide** — barbiturate OD | **Pre-Dallas** credibility / exposure lane — **not** hoax proof | **I–II** default |
+| **Mary Pinchot Meyer** | Oct 1964 | JFK mistress; unsolved Georgetown shooting | Murder — **Crump** acquitted | **Silencing** theories; diary destruction (Angleton) **alleged** | **I–II** |
+| **Dorothy Kilgallen** | Nov 1965 | Warren skeptic; published **Ruby** testimony; JFK probe | ME **undetermined** — alcohol + barbiturates | **Witness silencing** candidate; [prophet.md](../prophet.md) = **distraction** not core | **I–II** |
+| **Jack Ruby** | Jan 1967 | Killed **Oswald** | Lung cancer in custody | **Patsy** narrative; prophet **distraction** | **I** |
+| **Mary Jo Kopechne** | Jul 1969 | RFK campaign staff | **Drowning** — Ted delayed report | [§3.1](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969) — **real death**, dynasty optics | **I** |
+| **JFK / RFK** | 1963, 1968 | — | **Assassinated** | **Staged death** thesis | **III** |
+
+#### Marilyn Monroe — pressure on Kennedy family?
+
+| Knowable (documented / reported) | Unknowable / disputed |
+|----------------------------------|----------------------|
+| Affairs with **both** brothers widely alleged; **Happy Birthday** MSG May **1962** | Whether she knew **Dallas staging** (died **15 months before**) |
+| Kennedys **cut contact** summer **1962** | **Murder** vs **suicide** — no conviction |
+| **Summers** / press: political **risk**, investigation **pressure** | **Guilaroff** memoir: RFK **“threatened”** her, **“dangerous secrets”** — second-hand |
+
+**Site read:** Monroe knew **affair fallout** and **political danger** — **not** documented proof she knew **family compliance / fake assassination**. If **Tier II** murder, motive in literature = **exposure / mob / CIA** — not **“she knew Dallas was theater.”** **Announced-dead (Tier III)** for Monroe requires **full institutional chain** fraud — **heavier** than default **Tier I–II**.
+
+#### Dorothy Kilgallen
+
+| Fact | Tier |
+|------|------|
+| Investigating JFK; published Ruby testimony excerpts | **Documented** |
+| Found dead; **missing research files** alleged (Mark Shaw etc.) | **Alleged** |
+| DA cold case **opened 2017, closed** — no murder evidence; **Bragg** declined reopen **2024/25** | **Documented** |
+| **Announced dead while alive** | **Not argued** — no credible alive-in-hiding lane |
+
+**prophet.md:** Kilgallen is **“meaningless chatter surrounding the event”** — **trap** routing researchers away from **Dealey spectacle** thesis. **Compatible** with **real suspicious death** + **distraction function**.
+
+#### Witness-death lists (Jones, Marrs, Belzer)
+
+Long **“mysterious witness death”** catalogs (**Bowers**, **Ferrie**, **Giancana**, **Roselli**, **de Mohrenschildt**, etc.): ***TIME*** (1967) criticized Jones for **factual errors**; HSCA era saw **cluster** deaths — **convenient** for cover-up reads, **weak** as standalone proof (many natural causes, weak linkage).
+
+**Discipline:** Use as **silencing-pattern** context — **not** automatic **Tier III**.
+
+#### Pairing to compliance thesis
+
+| Death lane | Supports |
+|------------|----------|
+| **Monroe (pre-Dallas)** | Dynasty **sexual/political** exposure risk; **institutional** pressure grammar |
+| **Kilgallen / Meyer** | **Reopening** JFK narrative **punished** or **frustrated** |
+| **Chappaquiddick** | Living Kennedy **manages death for optics** |
+| **JFK/RFK Tier III** | **Death announcement** as **exit + compliance** |
+
+**Does not prove** Dallas/Ambassador staging **without** Dealey/Hartwell forensics.
+
+#### Reply discipline
+
+| Audience | Lead with |
+|----------|-----------|
+| **“Monroe was murdered to protect Kennedys”** | **Tier II** — **disputed**; she knew **affair pressure**, **not** documented **fake-death** plot |
+| **“Kilgallen proves cover-up”** | **Tier I–II** silencing lane; [prophet.md](../prophet.md) = **don’t** let it **replace** Dealey audit |
+| **“Could they be announced dead?”** | **§1.4** — **possible in theory**; needs **institutional chain** beyond a headline; **JFK/RFK** = **only** site **Tier III** cases |
+
+**Cross-read:** [§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment); [§3.1](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969); [Epstein staged death](../../false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md).
+
+**Tier:** **Documented** official rulings + citable facts where noted; **author** = tier map + Monroe pressure read — **not** substitute for Dealey/Hartwell forensics.
+
 ---
 
 ## 4. JFK vs RFK parallel read
@@ -967,7 +1087,7 @@ Most post-JFK attempts **could easily produce the opposite** of whatever the **a
 | **War board / politics** | **Vietnam** | **1968** election / **re-open JFK** threat removed | Ted **presidency** path **killed** by scandal |
 | **Site file** | [agent.md](../agent.md) | This investigation | [§3.1](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969) |
 
-**Site synthesis:** RFK lane **confirms** JFK was **not** a one-off — **Kennedy compliance** with **staged death** is **repeatable**. **Chappaquiddick** shows the **surviving political Kennedy** could still **manage a fatal night for career optics**. [§1.1](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar) places that playbook in **longer institutional grammar** (Business Plot, health hoaxes, Pavlick) **without** substituting for Dealey / Hartwell forensics.
+**Site synthesis:** RFK lane **confirms** JFK was **not** a one-off — **Kennedy compliance** with **staged death** is **repeatable**. **Chappaquiddick** shows the **surviving political Kennedy** could still **manage a fatal night for career optics**. **[§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)** names **announced dead** as **Tier III** grammar for **JFK/RFK only** in site thesis; **[§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)** places **Monroe/Kilgallen** in **Tier I–II** silencing lane. [§1.1](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar) places that playbook in **longer institutional grammar** (Business Plot, health hoaxes, Pavlick) **without** substituting for Dealey / Hartwell forensics.
 
 ---
 
@@ -1047,6 +1167,11 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Q15 | **§2.6 Hodgkinson** — independent **ballistics / line-of-fire** audit vs **HPSCI** terror read — any **primary** support for **shooter≠sole ballistic actor**? |
 | Q16 | **§2.7 cartel ground cabal** — **primary** dossier tying **U.S. cartel coercion** to **political intimidation** at **§2.6** scale, or **author flag** only? |
 | Q17 | **§3.1 Chappaquiddick** — any **primary** link between **Ted’s handlers / legal team** and **Dallas / Ambassador** narrative management, or **credibility wedge** remains **analogue-only**? |
+| Q18 | **§1.4 announced dead** — any **primary** case of **celebrity death** with **credible proof-of-life** after **full** coroner + burial chain (not mere **death hoax** tabloid)? |
+| Q19 | **§3.2 Monroe** — **primary** source beyond **Guilaroff/Summers** for **RFK threat** or **Washington secrets** claim; **Kilgallen** — independent audit of **missing files** allegation vs **2017/2024** DA closures? |
+| Q18 | **§1.4 announced dead** — any **primary** case where **celebrity death photos** were **later proved staged** while subject **lived**, or **author model** only? |
+| Q19 | **§3.2 Monroe** — **primary** link between **Guilaroff “dangerous secrets”** and **Kennedy compliance** (vs **affair exposure** only)? |
+| Q20 | **§3.2 Kilgallen** — **missing files** — any **inventory** in **estate / DA** record vs **Shaw** allegations only? |
 
 ---
 
@@ -1092,6 +1217,14 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | **Church Committee — COINTELPRO** | **§2.6** state target lists — [Book III](https://www.transformation.dk/www.raven1.net/cointeldocs/churchfinalreportIIIa.htm) |
 | **§2.7 author synthesis** | Pavlick motive taxonomy, rogue lanes, motive inversion, cartel media silence — [§2.7](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals) |
 | **§3.1 Chappaquiddick** | Ted Kennedy / Mary Jo Kopechne — delayed report, Boyle inquest, leniency — [§3.1](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969) |
+| **§1.4 death-package epistemics** | Announced dead, photo layer, amplifier punishment, Tier I–III — [§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment) |
+| **§3.2 connected deaths** | Monroe, Kilgallen, Meyer, witness lists — [§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent) |
+| **Anthony Summers — *The Secret Lives of Marilyn Monroe*** | **§3.2** Monroe / Kennedy affairs — cited in secondary literature |
+| **Mark Shaw — *The Reporter Who Knew Too Much*** | **§3.2** Kilgallen missing-files lane — disputed |
+| **§1.4 death-package epistemics** | Announced dead, photo layer, Tier I–III, amplifier punishment — [§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment) |
+| **§3.2 connected deaths** | Monroe, Kilgallen, Meyer, witness lists — [§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent) |
+| **Anthony Summers — *The Secret Lives of Marilyn Monroe*** | **§3.2** Monroe / Kennedy affairs — mainstream biography lane |
+| **Mark Shaw — *The Reporter Who Knew Too Much*** | **§3.2** Kilgallen — missing-files allegations |
 | **Britannica — Chappaquiddick** | **§3.1** overview — [britannica.com](https://www.britannica.com/event/Chappaquiddick-incident) |
 | ***NYT* — Boyle inquest excerpts (1970)** | **§3.1** negligence / Dyke Road intent — [archives](https://www.nytimes.com/1970/04/30/archives/excerpts-from-judges-report-in-kopechne-inquest.html) |
 | ***NYT* — crash report (Jul 20, 1969)** | **§3.1** delayed police statement — [archives](https://www.nytimes.com/1969/07/20/archives/woman-passenger-killed-kennedy-escapes-in-crash-senator-tells-the.html) |
@@ -1122,9 +1255,9 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Good-actor / NSA antibody | [good-actor-theory-interagency-antibody](../../false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | NSA / Ellsberg / Tonkin | [nsa-investigation](/governance/war/investigations/nsa-investigation.md) |
 
-Keywords: #JFK #RFK #Kennedy #Sirhan #StagedAssassination #FakeDeath #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #FX #DarkKnightRises #RobotDecoy #BloodSquib #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #InvestigateAttemptNonaction #FBIAssassinationEnvelope #TargetListIntimidation #CongressionalBaseballShooting #RogueDeepState #MotiveInversion #Chappaquiddick #TedKennedy #MaryJoKopechne #ParadigmThreatFiles
+Keywords: #JFK #RFK #Kennedy #Sirhan #StagedAssassination #FakeDeath #AnnouncedDead #DeathPackageEpistemics #MarilynMonroe #DorothyKilgallen #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #FX #DarkKnightRises #RobotDecoy #BloodSquib #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #InvestigateAttemptNonaction #FBIAssassinationEnvelope #TargetListIntimidation #CongressionalBaseballShooting #RogueDeepState #MotiveInversion #Chappaquiddick #TedKennedy #MaryJoKopechne #ParadigmThreatFiles
 
-**Last updated:** 2026-07-08 (§3.1 Chappaquiddick credibility wedge; §2.7 author synthesis; §2.6 target-list intimidation; §2.5 negligence envelope)
+**Last updated:** 2026-07-09 (§1.4 death-package epistemics; §3.2 connected deaths / silencing lane; §3.1 Chappaquiddick)
 
 ---
 
@@ -1132,7 +1265,7 @@ Keywords: #JFK #RFK #Kennedy #Sirhan #StagedAssassination #FakeDeath #WarrenComm
 
 - **Victims / bystanders:** **Schrade**, **Weisel**, **Goldstein**, **Stroll**, **Evans** — **real injuries** in official record; hoax thesis **does not** deny **pantry violence**, only **RFK fatality** **as packaged**.
 - **Sirhan:** **Convicted**; this file **audits** **forensic closure**, **not** a **legal** appeal brief.
-- **Tiers:** Eyewitness / NARA excerpts = **documented**; **JFK hoax** = **project thesis** ([agent.md](../agent.md)); **RFK faked death** = **author** (Hartwell + site parallel) until **independent** ballistic **replication**.
+- **Tiers:** Eyewitness / NARA excerpts = **documented**; **JFK hoax** = **project thesis** ([agent.md](../agent.md)); **RFK faked death** = **author** (Hartwell + site parallel) until **independent** ballistic **replication**; **Monroe/Kilgallen** = **Tier I–II** default ([§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment), [§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)) — **epistemic ceiling** from photo/press package alone.
 - **Survival:** **Not** claimed **proven** for either brother.
 
 ---

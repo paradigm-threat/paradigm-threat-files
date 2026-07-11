@@ -2,10 +2,13 @@
 
 > Downloaded from Project Gutenberg. Public domain.
 
+**Investigation:** [Time-travel literature — Wells pivot, genre firsts, **§11 containment anchor**, Philadelphia bubble rhyme](/influence/predictive_programming/investigations/time-travel-literature-wells-deposit-investigation.md) · *The Time Machine* — `~/dev/wget/wells/the-time-machine.txt` ([Gutenberg #35](https://www.gutenberg.org/ebooks/35))
+
 ## Files
 
 | File | Title | Year | Words (approx) | Source |
 |------|-------|------|-----------------|--------|
+| `the-time-machine.txt` | *The Time Machine* | 1895 | ~35,000 | Gutenberg #35 |
 | `tales-of-space-and-time.txt` | *Tales of Space and Time* | 1899 | ~80,000 | Gutenberg #27365 |
 | `country-of-the-blind-and-other-stories.txt` | *The Country of the Blind and Other Stories* | 1911 | ~170,000 | Gutenberg #11870 |
 
