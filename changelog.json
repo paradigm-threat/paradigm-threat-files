@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "date": "2026-07-11T22:22:25.000Z",
+    "message": "chore: mesh tip-notify probe after gateway deploy",
+    "files": [
+      {
+        "status": "A",
+        "path": ".relay/mesh-probe.txt",
+        "href": "/.relay/mesh-probe.txt"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
     "date": "2026-07-11T16:32:27.000Z",
     "message": "Clarify 1492 and Peace wording in you-are-a-slave-neo.",
     "files": [
@@ -801,23 +814,6 @@
       {
         "src": "https://paradigmthreat.net/influence/hollywood/declare-independence.png",
         "alt": "Declare Independence — Whitmore hangar speech / real declaration"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-08T12:26:12.000Z",
-    "message": "Update ID4 essay hero art.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/hollywood/everything-in-independence-day-is-true.png",
-        "href": "/influence/hollywood/everything-in-independence-day-is-true.png"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/hollywood/everything-in-independence-day-is-true.png"
       }
     ]
   }
