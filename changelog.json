@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-11T14:14:05.861Z",
+    "date": "2026-07-11T14:32:18.722Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "search.yaml",
+        "href": "/search.yaml"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-11T14:13:54.000Z",
+    "message": "Add TL;DR to you-are-a-slave-neo.",
     "files": [
       {
         "status": "M",
@@ -941,40 +954,6 @@
       {
         "src": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation.png",
         "alt": "Hollywood two-camp war — investigation cover"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-06T14:53:41.000Z",
-    "message": "Move Philadelphia portal timeline figure into Ordered reproduction section.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
-        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png",
-        "alt": "The Philadelphia Experiment Was Not Time Travel — portal series Part B"
-      },
-      {
-        "src": "https://paradigmthreat.net/events/philadelphia/earth-portal-projects-timeline.png",
-        "alt": "Earth-first portal projects — Stonehenge to WOTW flying-machine, Philadelphia, Roswell, CERN (§6.1)"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png",
-        "alt": "Stonehenge — Golden Age quantum portal end-port before industrial reproduction"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation-types.png",
-        "alt": "Mystery airships 1896–97 — ship-shaped sky craft before flying-saucer vocabulary"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
-        "alt": "LHC — 27 km buried ring, industrial portal successor (Mars / CERN hub)"
       }
     ]
   }
