@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "serve . -p 3010 --cors",
     "check-keywords": "./.venv/bin/python scripts/check_keywords_format.py",
-    "generate-index": "./.venv/bin/python scripts/generate-index.py",
     "generate-changelog": "node scripts/generate-changelog.cjs",
     "validate-site-claims": "node scripts/validate-site-claims.cjs",
     "autogen": "npm run check-keywords && npm run generate-changelog && npm run validate-site-claims",

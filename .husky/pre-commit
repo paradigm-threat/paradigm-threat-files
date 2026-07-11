@@ -1,3 +1,3 @@
-# Catalog JSON (index.json) is built on the relay server via QUERY/SQLite (path_tree).
+# Catalog indexes are built on the relay server via QUERY/SQLite (path_tree).
 # Keep keyword + claims validation and changelog on commit.
 PARADIGM_CHANGELOG_STAGED_TOP=1 npm run check-keywords && npm run generate-changelog && npm run validate-site-claims && git add changelog.json

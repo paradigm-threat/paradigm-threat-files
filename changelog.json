@@ -1,6 +1,29 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "date": "2026-07-11T15:46:15.000Z",
+    "message": "Index file paths via gateway path_tree instead of index.json.",
+    "files": [
+      {
+        "status": "M",
+        "path": ".husky/pre-commit",
+        "href": "/.husky/pre-commit"
+      },
+      {
+        "status": "M",
+        "path": "package.json",
+        "href": "/package.json"
+      },
+      {
+        "status": "M",
+        "path": "search.yaml",
+        "href": "/search.yaml"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
     "date": "2026-07-11T14:32:07.000Z",
     "message": "Probe post-receive SQLite index refresh.",
     "files": [
@@ -862,94 +885,6 @@
       {
         "src": "https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.png",
         "alt": "Everything in Independence Day Is True — Area 51 autopsy, Whitmore, holiday farce"
-      },
-      {
-        "src": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation.png",
-        "alt": "Hollywood two-camp war — investigation cover"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-08T12:18:46.000Z",
-    "message": "Rewrite Declare Independence: everything in ID4 is true.",
-    "files": [
-      {
-        "status": "M",
-        "path": "cosmos/mars/investigations/wotw-martian-analysis.md",
-        "href": "/cosmos/mars/investigations/wotw-martian-analysis"
-      },
-      {
-        "status": "M",
-        "path": "docs/instructions/ARTICLES.md",
-        "href": "/docs/instructions/ARTICLES"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/not-like-this.md",
-        "href": "/influence/controlled_opposition/not-like-this"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/declare-independence.md",
-        "href": "/influence/hollywood/declare-independence"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/everything-burns.md",
-        "href": "/influence/hollywood/everything-burns"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/investigations/hollywood-two-camp-war-investigation.md",
-        "href": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/page.md",
-        "href": "/influence/hollywood"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)",
-        "alt": "` / `*.png` / `*.jpg`; prefer **published** `https://paradigmthreat.net/...` URLs (timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`). **Placement:** one image **after** the paragraph that introduces the topic (illustrate the **linked investigation**, not decorate every section). **Alt text:** name the **source lane** and **what the reader should see** (e.g. “Historical antibodies — timeline chapter,” “Call of Duty militainment — Krasinski operator arc”). **Do not** copy images into the article folder unless you are creating **new** art; **link** to the canonical file in its home directory. **Consecutive-article cap:** the **same image file** must **not** appear in **two reader-facing articles published back-to-back** (the immediately prior shipped article and the one you are writing now). Reuse across the corpus is fine with spacing; when the prior article already used an asset, pick a **sibling image** from the same lane or **omit** the embed. **Newsletter budget:** many large PNGs + hero can trigger Gmail clipping—prefer **fewer, well-placed** reuses over a gallery; see **Length → Newsletter / inbox check**. **Reference:** [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`"
-      },
-      {
-        "src": "https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor).",
-        "alt": "` hero or opening hook paragraph)—not a `##`, not `> **TL;DR:**`, not a date stamp. **TL;DR check:** grep the blockquote for `http`, `Patreon`, `$`, `§`, and dossier-style evidence — **move** hits to the body. **No “narrative spine” / companion-dossier routing** between the hook and the first `##` body section — that belongs in **`## Where next`** (see Shape step 6). Use `**Last updated:**` once at the **end** (with optional attribution after it); do not duplicate `**Updated:**` under the lede. **Series installments:** read the **prior installment** in full; cut shared frame that Installment I already taught. **Grep the article for `|`** — any pipe-table row means **rewrite as paragraphs** before Substack paste (see **Tables, lists, and catalog prose**). **Grep for local/internal paths** — reject before ship: `/home/`, `~/`, `/media/`, `/docs/debate-notes`, `~/dev/wget`, bare recording filenames. Run the **Verifiable externals pass** below on every ship. Run the **de-LLM sweep** (§ Phrasing we are tired of) — mandatory, not optional. **Grep for drafting meta** — reject before ship: `voice-note`, `User query`, `session capture`, `misheard`, `does it check out`, `transcription` (when referring to author/assistant workflow, not primary sources), `I am not asking you`, `I am asking you to`, `I'm not asking`, `To be clear`, `It is worth noting`.\n\n---\n\n## Length (Substack / email)\n\n**Authoritative ceiling (email, not Substack’s own word cap):** Substack states there is **no** word-count or length restriction on posts, but the editor can show **“Post too long for email”** when the **email** may be **clipped or truncated** in some inboxes—specifically citing **Gmail** truncating messages **over 102KB** (**serialized message size** in the inbox: HTML, images, embeds, tracking—not raw Markdown word count). You can still publish; readers may need **“View entire message.”** There is **no** reliable standalone **“Gmail word limit”**; clipping risk tracks **rendered email bytes**. Source: [Substack Support — *Why does it say “Post too long” in the post editor?*"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
-        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
-        "alt": "9/11 predictive programming — media rehearsal before the public event"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
-        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/controlled_resistance.jpg",
-        "alt": "Controlled resistance — manufactured dissent that looks like real opposition"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
-        "alt": "Celebrity modern slavery — contracts, containment, and creative control"
-      },
-      {
-        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/declare-independence.png",
-        "alt": "Declare Independence — Independence Day as NSA unity-lane flagship"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/everything-burns.png",
-        "alt": "Everything Burns — The Dark Knight, Hong Kong finance, and the Hollywood two-camp war (Pacific lane)"
       },
       {
         "src": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation.png",

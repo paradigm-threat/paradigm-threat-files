@@ -33,9 +33,7 @@ Blog roundups should **illustrate** major lanes—not only link to them. Embed *
 
 ## Adding new blog entries
 
-Create new posts in `blog/` with the naming convention `YYYY-MM-DD-slug.md`. Run `npm run generate-index` (or the pre-commit hook will run it) to include the new file in `index.json`.
-
-**`index.json` `_updated` for blog:** For files matching `blog/YYYY-MM-DD-*.md`, `scripts/generate-index.py` sets `_updated` to that calendar date at **12:00 UTC** (not filesystem mtime), so the site blog list (`AutoIndex` with `format="blog"`) shows the correct day per post after checkouts or bulk regen. Files like `blog/page.md` still use mtime.
+Create new posts in `blog/` with the naming convention `YYYY-MM-DD-slug.md`. After push, Relay `path_tree` indexes the tip (including `_updated` from the `YYYY-MM-DD` slug at 12:00 UTC for blog posts).
 
 ### Substack published articles (required before drafting)
 
