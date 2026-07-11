@@ -1,0 +1,20 @@
+name: paradigm-threat-files
+version: "0.1.0"
+tools:
+  search_site:
+    description: Keyword AND search over index.json via Relay QUERY / sqlite plugin
+    aliases: [search]
+    via: query
+    collection: index
+  get_site_claims:
+    description: Match curated thesis cards in site-claims.json
+    via: json_match
+    source: site-claims.json
+  research_status:
+    description: Coverage envelope — corpus hits vs gaps for a question (QUERY-backed)
+    via: research_status
+    collection: index
+  read_article:
+    description: Read a markdown (or other) blob by repo-relative path
+    aliases: [fetch]
+    via: git_read
