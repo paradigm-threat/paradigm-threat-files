@@ -1,8 +1,21 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-11T11:08:36.117Z",
+    "date": "2026-07-11T12:24:20.860Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "hooks/server/query.cs",
+        "href": "/hooks/server/query.cs"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-11T11:08:13.000Z",
+    "message": "Enable Relay QUERY/sqlite indexing and MCP tool catalog.",
     "files": [
       {
         "status": "M",
@@ -848,77 +861,6 @@
       {
         "src": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation.png",
         "alt": "Hollywood two-camp war — investigation cover"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-05T20:59:42.000Z",
-    "message": "Add Stargate contrast and Hollywood hot-war Thread G; per-film camp rule.",
-    "files": [
-      {
-        "status": "M",
-        "path": "events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md",
-        "href": "/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation"
-      },
-      {
-        "status": "M",
-        "path": "governance/war/investigations/nsa-investigation.md",
-        "href": "/governance/war/investigations/nsa-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/controlled_opposition/not-like-this.md",
-        "href": "/influence/controlled_opposition/not-like-this"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/investigations/hollywood-two-camp-war-investigation.md",
-        "href": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/page.md",
-        "href": "/influence/hollywood"
-      },
-      {
-        "status": "M",
-        "path": "influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md",
-        "href": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png",
-        "alt": "Not Like This — Matrix containment and the two-camp war for movies"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png",
-        "alt": "9/11 predictive programming — media rehearsal before the public event"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png",
-        "alt": "Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/controlled_opposition/controlled_resistance.jpg",
-        "alt": "Controlled resistance — manufactured dissent that looks like real opposition"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
-        "alt": "Celebrity modern slavery — contracts, containment, and creative control"
-      },
-      {
-        "src": "https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "alt": "Historical antibodies — independent agents against erasure (timeline chapter)"
-      },
-      {
-        "src": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation.png",
-        "alt": "Hollywood two-camp war — investigation cover"
-      },
-      {
-        "src": "/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png",
-        "alt": "Celebrity modern slavery — contracts, containment, NDAs, and creative control"
       }
     ]
   }
