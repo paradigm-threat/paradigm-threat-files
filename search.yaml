@@ -1,0 +1,11 @@
+plugin: sqlite
+collections:
+  index:
+    sources:
+      - type: meta_yaml
+        glob: data/**/meta.yaml
+      - type: path_index
+        path: index.json
+        mode: merge
+    idFields: [path, _meta_dir, id]
+    ftsFields: [_title, title, _keywords, keywords, description, summary]
