@@ -4,10 +4,7 @@ collections:
     sources:
       - type: meta_yaml
         glob: data/**/meta.yaml
-      - type: path_index
-        path: index.json
+      - type: path_tree
         mode: merge
     idFields: [path, _meta_dir, id]
     ftsFields: [_title, title, _keywords, keywords, description, summary]
-
-# fleet post-receive index probe 20260711T143207Z

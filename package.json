@@ -9,7 +9,7 @@
     "generate-index": "./.venv/bin/python scripts/generate-index.py",
     "generate-changelog": "node scripts/generate-changelog.cjs",
     "validate-site-claims": "node scripts/validate-site-claims.cjs",
-    "autogen": "npm run check-keywords && npm run generate-index && npm run generate-changelog && npm run validate-site-claims",
+    "autogen": "npm run check-keywords && npm run generate-changelog && npm run validate-site-claims",
     "generate-mgga-onepager": "./.venv/bin/python scripts/generate-mgga-onepager.py",
     "exact-change-sim": "node scripts/exact-change-wallet-sim.mjs",
     "prepare": "husky"
