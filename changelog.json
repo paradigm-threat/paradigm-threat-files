@@ -1,8 +1,50 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-11T14:07:45.755Z",
+    "date": "2026-07-11T14:14:05.861Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/slavery/you-are-a-slave-neo.md",
+        "href": "/governance/slavery/you-are-a-slave-neo"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/governance/slavery/you-are-a-slave-neo.png",
+        "alt": "you are a slave, Neo."
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/saturn/black_cube_of_saturn3.jpg",
+        "alt": "Black Cube of Saturn — mark of authority"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/apocalypse/apocalypse_vasnetsov.jpg",
+        "alt": "Four horsemen — Apocalypse Crusade memory"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
+        "alt": "Promised land — passage and embed"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/tartaria/painting_joan_of_arc_stake.jpg",
+        "alt": "Joan of Arc at the stake"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png",
+        "alt": "TONA — Titles of Nobility amendment"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/genocide/white_slaves1.jpg",
+        "alt": "White slavery and captivity memory"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-11T14:07:34.000Z",
+    "message": "Add Substack link for you-are-a-slave-neo.",
     "files": [
       {
         "status": "M",
@@ -935,18 +977,5 @@
         "alt": "LHC — 27 km buried ring, industrial portal successor (Mars / CERN hub)"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-06T14:46:09.000Z",
-    "message": "Add Substack original publish dates to index.json and remove search snippets.",
-    "files": [
-      {
-        "status": "M",
-        "path": "scripts/generate-index.py",
-        "href": "/scripts/generate-index.py"
-      }
-    ],
-    "images": []
   }
 ]
