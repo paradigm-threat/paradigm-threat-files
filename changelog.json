@@ -1,6 +1,48 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "date": "2026-07-11T16:32:27.000Z",
+    "message": "Clarify 1492 and Peace wording in you-are-a-slave-neo.",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/slavery/you-are-a-slave-neo.md",
+        "href": "/governance/slavery/you-are-a-slave-neo"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/governance/slavery/you-are-a-slave-neo.png",
+        "alt": "you are a slave, Neo."
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/saturn/black_cube_of_saturn3.jpg",
+        "alt": "Black Cube of Saturn — mark of authority"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/apocalypse/apocalypse_vasnetsov.jpg",
+        "alt": "Four horsemen — Apocalypse Crusade memory"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
+        "alt": "Promised land — passage and embed"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/tartaria/painting_joan_of_arc_stake.jpg",
+        "alt": "Joan of Arc at the stake"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png",
+        "alt": "TONA — Titles of Nobility amendment"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/genocide/white_slaves1.jpg",
+        "alt": "White slavery and captivity memory"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
     "date": "2026-07-11T15:51:18.000Z",
     "message": "Remove index.json; rely on Relay path_tree for file catalogs.",
     "files": [
@@ -776,36 +818,6 @@
     "images": [
       {
         "src": "/influence/hollywood/everything-in-independence-day-is-true.png"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-08T12:25:47.000Z",
-    "message": "Clarify ID4 lede and embed renamed hero mid-article.",
-    "files": [
-      {
-        "status": "A",
-        "path": "influence/hollywood/declare-independence.png",
-        "href": "/influence/hollywood/declare-independence.png"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/everything-in-independence-day-is-true.md",
-        "href": "/influence/hollywood/everything-in-independence-day-is-true"
-      }
-    ],
-    "images": [
-      {
-        "src": "/influence/hollywood/declare-independence.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.png",
-        "alt": "Everything in Independence Day Is True — Area 51 autopsy, Whitmore, holiday farce"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/declare-independence.png",
-        "alt": "Declare Independence — Whitmore hangar speech / real declaration"
       }
     ]
   }
