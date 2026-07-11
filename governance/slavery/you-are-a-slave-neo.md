@@ -44,7 +44,7 @@ On Fomenko’s timeline, and on my read, the **Cathars** and the **Khazars** are
 
 ![Joan of Arc at the stake](https://paradigmthreat.net/history/chronology/tartaria/painting_joan_of_arc_stake.jpg)
 
-They should never apologize for the **1492** move to America, no matter what came later on this continent. Renaming Columbus Day to “Indigenous Peoples’ Day” is a political stunt that divides people and explains nothing. Keep the holiday. Keep the name if you insist. Understand the event. Spanish *Cristóbal Colón* translates as **Colony of Christ** — a title for the function, not a tidy sailor biography ([1492 Apocalypse Crusade](https://paradigmthreat.net/timeline/evt-1492-ce-the-apocalypse-crusade)).
+Christians should never apologize for the **1492** move to America, no matter what came later on this continent. Renaming Columbus Day to “Indigenous Peoples’ Day” is a political stunt that divides people and explains nothing. Keep the holiday. Keep the name if you insist. Understand the event. Spanish *Cristóbal Colón* translates as **Colony of Christ** — a title for the function, not a tidy sailor biography ([1492 Apocalypse Crusade](https://paradigmthreat.net/timeline/evt-1492-ce-the-apocalypse-crusade)).
 
 Christians should know this and teach it to children in church. Not the cartoon sermon — “Columbus was told by God to spread the religion and ended up slaughtering Native Americans.” Teach this: the Christ colony preserved original Christianity when that flame was about to go out like a candle. Refugees of that faith reached a land already peopled. On this read, natives welcomed them and understood the plight — sanctuary for a Christianity Europe was burning. That **union between Native Americans and original Christians** is the defining element of this country. Later empires redacted it, suppressed it, and tried to destroy it. The memory still survives. Textbooks bury it. Churches look away and apologize. That loss of memory is the real wound.
 
@@ -90,7 +90,7 @@ Empires that ran endless war, bad taxes, and compound debt before they broke mat
 
 You already live inside the paperwork: a number on your paycheck, a charter that protected slavery, a religious yoke stamped in 1513 and whitewashed by British forms, an asset brand that acts like the old mark of authority while markets move on offworld schedules. Calling everyone on Earth a slave is not movie talk. It is the plain word for the system you were born into.
 
-You are a slave, Neo. Like everyone else you were born into bondage. That should be nothing new. Every slave prays for Peace because only the end of war can bring the start of the reasoning process that ends slavery.
+You are a slave, Neo. Like everyone else you were born into bondage. That should be nothing new. Every slave prays for Peace - not Liberation - because only the end of war can bring the start of the reasoning process that ends slavery.
 
 ## Where next
 
