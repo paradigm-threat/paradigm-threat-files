@@ -84,13 +84,11 @@ You still need a number to work, bank, drive, file taxes, and often to keep a ro
 
 Empires that ran endless war, bad taxes, and compound debt before they broke match the modern federal stack. Celebrity containment and ordinary payroll extraction are the same kind of system. Fame is only the costume.
 
-## You already knew
-
-Morpheus was not talking about a corporate strawman. He was talking about being born into a system that takes from you and names you before you can refuse. A lot of people heard that, agreed, then looked away.
+## Pray for Peace
 
 You already live inside the paperwork: a number on your paycheck, a charter that protected slavery, a religious yoke stamped in 1513 and whitewashed by British forms, an asset brand that acts like the old mark of authority while markets move on offworld schedules. Calling everyone on Earth a slave is not movie talk. It is the plain word for the system you were born into.
 
-You are a slave, Neo. Like everyone else you were born into bondage. That should be nothing new.
+You are a slave, Neo. Like everyone else you were born into bondage. That should be nothing new. Every slave prays for Peace because only the end of war can bring the start of the reasoning process that ends slavery.
 
 ## Where next
 
@@ -118,7 +116,9 @@ You are a slave, Neo. Like everyone else you were born into bondage. That should
 
 Keywords: #Slavery #Barbary #Tribute #HordianEmpire #Tartaria #Trafficking #Columbus #ColonyOfChrist #MoorishRevival #Spanish #Passage #SSN #CovertSlavery #Matrix #NSA #Bondage #Mars #BreakawayCivilization #BlackRock #Saturn #CubeOfSaturn #Fomenko #1492 #Ottoman #ApocalypseCrusade #Cathars #Khazars #JoanOfArc #Requerimiento #DoctrineOfDiscovery #TONA #Constitution
 
-**Last updated:** 2026-07-11T09:55:00-04:00
+**Substack:** [paradigmthreat2.substack.com/p/you-are-a-slave-neo](https://open.substack.com/pub/paradigmthreat2/p/you-are-a-slave-neo?r=5p8s4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+**Last updated:** 2026-07-11T10:10:00-04:00
 
 ---
 

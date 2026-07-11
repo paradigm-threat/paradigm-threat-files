@@ -1,8 +1,50 @@
 [
   {
     "repo": "paradigm-threat-files",
-    "date": "2026-07-11T14:00:38.201Z",
+    "date": "2026-07-11T14:07:45.755Z",
     "message": "(staged)",
+    "files": [
+      {
+        "status": "M",
+        "path": "governance/slavery/you-are-a-slave-neo.md",
+        "href": "/governance/slavery/you-are-a-slave-neo"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://paradigmthreat.net/governance/slavery/you-are-a-slave-neo.png",
+        "alt": "you are a slave, Neo."
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/saturn/black_cube_of_saturn3.jpg",
+        "alt": "Black Cube of Saturn — mark of authority"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/apocalypse/apocalypse_vasnetsov.jpg",
+        "alt": "Four horsemen — Apocalypse Crusade memory"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png",
+        "alt": "Promised land — passage and embed"
+      },
+      {
+        "src": "https://paradigmthreat.net/history/chronology/tartaria/painting_joan_of_arc_stake.jpg",
+        "alt": "Joan of Arc at the stake"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.png",
+        "alt": "TONA — Titles of Nobility amendment"
+      },
+      {
+        "src": "https://paradigmthreat.net/governance/genocide/white_slaves1.jpg",
+        "alt": "White slavery and captivity memory"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-files",
+    "date": "2026-07-11T14:00:27.000Z",
+    "message": "Add you-are-a-slave-Neo reader article and slavery paper-trail claims.",
     "files": [
       {
         "status": "M",
@@ -906,52 +948,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-06T14:25:54.000Z",
-    "message": "Philadelphia Part B: Earth-field thesis, timeline art, Substack link.",
-    "files": [
-      {
-        "status": "A",
-        "path": "events/philadelphia/earth-portal-projects-timeline.png",
-        "href": "/events/philadelphia/earth-portal-projects-timeline.png"
-      },
-      {
-        "status": "M",
-        "path": "events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md",
-        "href": "/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation"
-      },
-      {
-        "status": "M",
-        "path": "events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md",
-        "href": "/events/philadelphia/the-philadelphia-experiment-was-not-time-travel"
-      }
-    ],
-    "images": [
-      {
-        "src": "/events/philadelphia/earth-portal-projects-timeline.png"
-      },
-      {
-        "src": "https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png",
-        "alt": "The Philadelphia Experiment Was Not Time Travel — portal series Part B"
-      },
-      {
-        "src": "https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png",
-        "alt": "Stonehenge — Golden Age quantum portal end-port before industrial reproduction"
-      },
-      {
-        "src": "https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation-types.png",
-        "alt": "Mystery airships 1896–97 — ship-shaped sky craft before flying-saucer vocabulary"
-      },
-      {
-        "src": "https://paradigmthreat.net/events/philadelphia/earth-portal-projects-timeline.png",
-        "alt": "Earth-first portal projects — Stonehenge to WOTW flying-machine, Philadelphia, Roswell, CERN (§6.1)"
-      },
-      {
-        "src": "https://paradigmthreat.net/cosmos/mars/cern_stargate_mars1.jpg",
-        "alt": "LHC — 27 km buried ring, industrial portal successor (Mars / CERN hub)"
-      }
-    ]
   }
 ]
