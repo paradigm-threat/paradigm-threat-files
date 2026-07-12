@@ -376,18 +376,19 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 
 **Session capture (author, Jul 2026 — consolidated):**
 
-> This is part of the **controlled-opposition pattern**: **allies until the last / key / significant moment, then betrayal.** **Jan 6 was the obvious planned betrayal date.** They knew Trump would **support the protest**, and they could **depict it differently in the media.** Trump saw this coming too. In his **book and interviews** he specifically mentioned the phenomenon where **you don't really know who your allies are — until you do something that goes against the grain.** And then suddenly **they all betray you and reveal themselves to you — in a permanent way.**
+> This is part of the **controlled-opposition pattern**: **allies until the last / key / significant moment, then betrayal.** **Jan 6 was the obvious planned betrayal date.** They knew Trump would **support the protest**, and they could **depict it differently in the media.** Trump saw this coming too. In his **[November 1992 Charlie Rose interview](https://rollcall.com/factbase/trump/transcript/donald-trump-interview-new-york-ny-november-6-1992/)** he said he had wanted to **lose everything for a time to see who’s loyal**—and found **you can’t guess it, can’t predict it**; people he had **supported for years** were **not there** when the **early-1990s downturn** hit. **Jan 6** applied that **loyalty test** at national scale: they **betrayed him and revealed themselves in a permanent way.**
 >
 > **Trump was trying to reveal to America who the RINOs were**, because **Republicans really didn't know.** There was **only one way to do it**: have **that moment when they would all betray him** — then **survive the moment**, and **Creative Evolution.** If this sounds familiar, it should be. **That's how the Christian revolution started as well.**
 
 **What the author means:** The **Graham arc** is not contradiction noise — it is **CO grammar**. Graham **echoed** Trump’s **“rigged election”** rhetoric **Nov–Dec 2020** ([The Hill Jan 2021](https://thehill.com/homenews/senate/533055-lindsey-graham-says-enough-is-enough-on-trumps-bid-to-overturn-the-election-count-me/)) — **ally posture** through the certification fight — then **Jan 6 floor**: **“Count me out. Enough is enough”** ([Newsweek tapes](https://www.newsweek.com/lindsey-graham-tapes-biden-jan6-trump-transcript-1705477)) — **permanent reveal** on the **key date**. Same **pattern** on **McConnell** (condemned Trump for **provoking** mob), **Cheney** (Jan 6 impeachment + committee), **McCarthy** (resign tape). **Media** then **locks** the **betrayal frame** while **obits** later restore **“Trump ally”** — [§ media pattern](#media-pattern--trump-ally-boilerplate-vs-vote-record).
 
-**Trump-side read (author — not proven coordination memo):** Trump **deliberately** forced a **grain-breaking** moment so the **base** could **see** who would **not** follow through on **election resolution** — a **RINO reveal**, not only a **loss**. **Survive the moment** → **Creative Evolution** (author term for **post-betrayal** **realignment** / **second-term** **populist** **lane**). **Historical comparison (author):** early **Christian** **movement** — **crisis**, **institutional** **betrayal** by **priests** who **served** **Rome**, **survival** through **crucifixion** and **resurrection**, then a **new** **revolution**; **ancient** **lesson** **applied** **in** **the** **present**, **not** **identity** of **events**.
+**Trump-side read (author — not proven coordination memo):** Trump **deliberately** forced a **loyalty-test moment** so the **base** could **see** who would **not** follow through on **election resolution** — a **RINO reveal**, not only a **loss**. **Survive the moment** → **Creative Evolution** (author term for **post-betrayal** **realignment** / **second-term** **populist** **lane**). **Historical comparison (author):** early **Christian** **movement** — **crisis**, **institutional** **betrayal** by **priests** who **served** **Rome**, **survival** through **crucifixion** and **resurrection**, then a **new** **revolution**; **ancient** **lesson** **applied** **in** **the** **present**, **not** **identity** of **events**.
 
 **Documented rhymes (Tier A–B — Trump loyalty / testing language, not Jan 6 planning proof):**
 
 | Item | Detail | Source | Tier |
 |------|--------|--------|------|
+| **Charlie Rose loyalty test (6 Nov 1992)** | Wanted to **lose everything** to see **who’s loyal**; **“You can’t guess it. You can’t predict it”**; long-supported people **not there** in **early-1990s** downturn | [Roll Call Factbase](https://rollcall.com/factbase/trump/transcript/donald-trump-interview-new-york-ny-november-6-1992/); [Charlie Rose](https://charlierose.com/videos/14730) | A |
 | **Friendship test** | **“Sometimes you’d like to test them … let the world think that I blew it just to test whether or not in fact the friends were friends”** | [Woodward 1989 Trump interview](https://www.washingtonpost.com/opinions/interactive/2024/bob-woodward-trump-interview-1989/) | A |
 | **Loyalty when down** | Same interview: when rich friends **lost** status, **“the same people … kissing their a-- are gone”** | Woodward 1989 | A |
 | **Second term = loyalty over credentials** | **2024** campaign: Trump **punishes** perceived **betrayal**, **rewards** **loyalists** over **Mattis/Kelly/Barr** class | [PBS Karl / *Retribution*](https://www.pbs.org/newshour/show/jonathan-karl-explores-trumps-focus-on-retribution-in-new-book) | B |
@@ -397,7 +398,7 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 | **Second impeachment Feb 2021** | Voted **not guilty** — **returned** to **fold** despite **Jan 6** **break** | [Graham office](https://www.lgraham.senate.gov/public/index.cfm/2021/2/graham-on-acquittal-in-senate-impeachment-trial) | A |
 | **Pickens rally Jul 1 2023** | **MAGA** **crowd** **heavily** **booed** Graham **throughout** **~5** **min** **speech**; **“traitor”** **chants** reported | [The Hill](https://thehill.com/homenews/campaign/4077580-trump-supporters-boo-call-lindsey-graham-a-traitor-at-south-carolina-rally/); [The State](https://www.thestate.com/news/politics-government/article276935188.html) | A |
 | **Trump at Pickens** | Did **not** **directly** **attack** Graham; **stood** **back** **while** **crowd** **booed**; later **defended** **lightly**: **“when I need some of those liberal votes, he’s always there”**; **“pretty liberal people, but he’s good”**; **“I’m gonna have to work on these people”** | [Fox News](https://www.foxnews.com/politics/trump-ally-lindsey-graham-booed-off-stage-south-carolina-maga-rally-near-his-hometown); [Rolling Stone](https://www.rollingstone.com/politics/politics-news/lindsey-graham-booed-trump-rally-south-carolina-1234782230/) | A |
-| **“Against the grain” (author paraphrase)** | **No** **single** **verified** **memoir/interview** **line** **located**; **author** **maps** **Jan** **6** **CO** **to** **Trump’s** **loyalty-test** **theme** — **Woodward** **1989** **is** **citable** **anchor** | Author synthesis | C |
+| **Jan 6 RINO-reveal application** | Maps **Rose 1992** loyalty framework to **2020–21** **CO** **betrayal** **date** — **author** **read**, **not** **White** **House** **memo** | Author synthesis | C |
 
 ### The reconciliation — media whitewash vs the base (author read)
 
@@ -479,6 +480,8 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 ## Historical backward pass — democracy as managed game
 
 ### *House of Cards* grammar (author — fiction as honest manual)
+
+**Instance catalog:** [**Twenty** Frank Underwood kompromat beats](https://paradigmthreat.net/governance/war/investigations/house-of-cards-kompromat-blackmail-instances-investigation.md) (seasons 1–5) — vote whip, bill kill/pass, opponent destruction. Reader essay: [managed-democracy-puppets-and-redemption.md](/governance/war/managed-democracy-puppets-and-redemption.md).
 
 | Show mechanic | Real-politics rhyme in this file |
 |---------------|----------------------------------|
@@ -651,7 +654,7 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 | 10 | **Two** **GOPs** **(MAGA** **vs** **non-MAGA)** **hide** **inside** **one** **brand** on **Ukraine** | Pew + Chicago Council |
 | 11 | **CO** **grammar:** **allies** **until** **key** **moment**, **then** **permanent** **betrayal** — **Jan 6** **=** **planned** **reveal** **date** | Author / pattern |
 | 12 | **Graham** **echo-then-betray** (**rigged** **election** **Nov–Dec** **2020** → **“Count** **me** **out”** **Jan** **6**) **is** **textbook** **CO**, **not** **random** **flip** | Author + documented |
-| 13 | **Trump** **sought** **RINO** **reveal** for **Republican** **base** — **only** **way** **was** **grain-breaking** **moment**, **survive**, **Creative** **Evolution** | Author thesis |
+| 13 | **Trump** **sought** **RINO** **reveal** for **Republican** **base** — **only** **way** **was** **loyalty-test** **moment**, **survive**, **Creative** **Evolution** | Author thesis |
 | 14 | **Jan 6** **handlers** **knew** Trump **would** **support** **protest**; **media** **could** **reframe** **after** **riot** | Speculative |
 | 15 | **Christian** **revolution** **rhyme:** **crisis**, **institutional** **betrayal**, **survival**, **revelation** **who** **served** **Rome** | Author pattern / metaphor |
 | 16 | **Epstein** **two-axis:** **Russia/Ukraine** **maximalism** **+** **Jan** **6** **resolution-block** **=** **very** **likely** **compromised** (**Graham**, **McConnell**, **Cheney**, **McCarthy**) | Hypothesis |
@@ -677,7 +680,7 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 | 5 | **European** **leader** **poll** **vs** **Ukraine** **aid** **gap** **2022–26** | **Eurobarometer**, **national** **polls** |
 | 6 | **Feb 2025** **Graham** **Zelensky** **flip** — **temporary** **or** **strategic**? | **Trip** **log** **Jul 2026** **Kyiv** **suggests** **return** **to** **maximalism** |
 | 7 | **Who** **benefits** **from** **Graham** **seat** **appointment** **before** **Nov 2026**? | **SC** **politics** **tracking** |
-| 8 | **Trump** **loyalty-test** **/** **“against** **the** **grain”** **wording** | **Closed** — **Woodward** **1989** **friendship-test** **quotes** **logged**; **“against** **the** **grain”** = **author** **paraphrase**, **not** **verified** **single** **book** **line** ([§ Jan 6 CO](#jan-6--ally-then-betray-controlled-opposition-pattern-author-thesis)) |
+| 8 | **Trump** **loyalty-test** **wording** | **Closed** — **Charlie** **Rose** **6** **Nov** **1992** (**Roll** **Call** **Factbase**); **Woodward** **1989** **parallel**; **Jan** **6** **RINO-reveal** **application** = **author** **read** ([§ Jan 6 CO](#jan-6--ally-then-betray-controlled-opposition-pattern-author-thesis)) |
 | 9 | **Sanctioning** **Russia** **Act** — **500%** **tariff** **language**, **WH** **water-down** | **Congress.gov**, **press** **2025–26** |
 
 ---
@@ -692,7 +695,7 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 - [x] **Pew / Chicago Council** base vs leadership — [§GOP threads B](#b-republican-base-vs-party-leadership-polls)
 - [x] **Thune / SAVE Act 2026** — [§GOP threads C](#c-thune-era--save-act-vs-filibuster-2026)
 - [x] **Article theme hooks** — [§ Article themes](#article-themes--candidate-hooks-for-reader-essay)
-- [x] **Trump** **loyalty-test** **/** **Woodward** **1989** **anchor** — **“against** **the** **grain”** **closed** **as** **author** **paraphrase**
+- [x] **Trump** **loyalty-test** **/** **Charlie** **Rose** **1992** **anchor** — **Factbase** **logged**; **Jan** **6** **RINO-reveal** **application** **author** **read**
 - [x] **DINO** **Israel/Ukraine** **whip** **examples** — **Feb** **2024** **$95B** **70–29** **Senate** ([§ DINO mirror](#dino-mirror--democratic-managed-opposition-hypothesis))
 - [ ] **Graham** **ME** **/** **autopsy** **release** — **retired** **12** **Jul** **2026**: **no** **public** **ME** **record**; **cannot** **adjudicate** **further** **without** **release**
 - [ ] **2025–26** **sudden** **elite** **cardiac** **cluster** **catalog** — **future** **event** **watch** **only**
@@ -704,6 +707,7 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 - [ ] **INVESTIGATIONS_DEEP_DIVE.md** §0 row
 - [x] **DINO mirror §** + bidirectional link to [Obama / Malcolm X dossier](/governance/war/investigations/obama-malcolm-x-paternity-birth-record-curation-investigation.md)
 - [x] **Reader article** sibling — [managed-democracy-puppets-and-redemption.md](/governance/war/managed-democracy-puppets-and-redemption.md)
+- [x] **House of Cards instance catalog** — [house-of-cards-kompromat-blackmail-instances-investigation.md](/governance/war/investigations/house-of-cards-kompromat-blackmail-instances-investigation.md)
 
 ---
 
