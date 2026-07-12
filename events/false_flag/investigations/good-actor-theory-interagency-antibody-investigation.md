@@ -288,6 +288,17 @@ On this map, the cleanest **operative** question for post-9/11 franchises is not
 
 **Paradigm Threat read:** Sneakers encodes **interagency distrust** and information-as-battlefield—the same structural frame as CIA (covert regime change) vs NSA (signals, codes, ostensibly law-bound charter) vs FBI (domestic, politically shackled). The film does **not** prove the good-actor thesis; it is **cultural corroboration** that the rivalry was legible to Hollywood in 1992.
 
+### *Burn After Reading* (2008) — CIA audit satire (L1 plot; L3 read)
+
+| Claim | Source |
+|-------|--------|
+| **Osbourne Cox** removed from **SigInt** desk and **Balkans**; demoted to **State** at lower clearance after **drinking** intervention | [Daily Script PDF](https://www.dailyscript.com/scripts/BurnAfterReading.pdf) |
+| **Chad Feldheimer** guesses disc contains **“Signals intelligence shit, CIA shit”** | Same |
+| **Gardner Chubb** refuses FBI on dead body: **“Burn the body. Get rid of it.”** — **“we don’t want those idiots blundering around”** | Same |
+| Closing: **“What did we learn, Palmer.”** — **no institutional lesson** | Same |
+
+**Paradigm Threat read:** ***Burn After Reading*** extends the ***Sneakers*** interagency map into **pure farce** — the **CIA** is **past competent analysis**, **fires independent thinkers**, **breaks domestic law** to **cover its mess**, and **excludes the FBI** while **everyone** still **name-checks SIGINT** and **phone taps** in **pop-culture form**. **NSA-aligned** on the Hollywood taxonomy **by audit lane**, not by **heroic agency** — pairs [Hollywood Thread Q](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-q--burn-after-reading-2008-cia-decay--interagency-satire).
+
 ---
 
 ## IV. Predictive Programming — *Tom Clancy's Jack Ryan: Ghost War* (2026)

@@ -2,7 +2,7 @@
 
 ![Hollywood two-camp war — investigation cover](hollywood-two-camp-war-investigation.png)
 
-> **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: war-prep with China? **Cyber / unity lane:** agency, declass, common foe? **Thread N — *T2*; Thread O — *ID4* (1996)** = NSA flagships. **Thread P — *Stargate* (1994 film)** = **CIA/globalist contrast** — ancient aliens + modern authority, **Atlantis/Mars laughed off**, sketchy portal physics/plot; **nothing “fake”** in *ID4* by comparison. **Author heuristic:** NSA-camp blockbusters **rarer** and often **classics**; CIA-camp titles **more common**, **contradictory plots** tolerated to move misdirection payload.
+> **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: war-prep with China? **Cyber / unity lane:** agency, declass, common foe? **Thread N — *T2*; Thread O — *ID4* (1996)** = NSA flagships. **Thread P — *Stargate* (1994 film)** = **CIA/globalist contrast** — ancient aliens + modern authority, **Atlantis/Mars laughed off**, sketchy portal physics/plot; **nothing “fake”** in *ID4* by comparison. **Thread Q — *Burn After Reading* (2008)** = **NSA-aligned interagency satire** — CIA **SigInt** purge, **burn the body** (no FBI), bumbling domestic law enforcement, **“What did we learn?”** closure. **Author heuristic:** NSA-camp blockbusters **rarer** and often **classics**; CIA-camp titles **more common**, **contradictory plots** tolerated to move misdirection payload.
 
 **Date:** 2026-06-17  
 **Status:** Open investigation; **reader essay published** 2026-06-17.  
@@ -27,7 +27,8 @@
 8. [Thread N — *Terminator 2: Judgment Day* (1991): cyber-antibody flagship](#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship)
 9. [Thread O — *Independence Day* (1996, original): unity-lane NSA flagship](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship)
 10. [Thread P — *Stargate* (1994 film): globalist / CIA contrast to *ID4*](#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4)
-11. [Thread G — Hollywood hot war: containment, forced labor, war-movie conveyor](#thread-g--hollywood-hot-war-franchise-containment-forced-labor-war-movie-conveyor)
+11. [Thread Q — *Burn After Reading* (2008): CIA decay / interagency satire](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire)
+12. [Thread G — Hollywood hot war: containment, forced labor, war-movie conveyor](#thread-g--hollywood-hot-war-franchise-containment-forced-labor-war-movie-conveyor)
 12. [Thread C — *Rush Hour* franchise (1998–2001)](#thread-c--rush-hour-franchise-19982001)
 12. [Thread M — Stolen memory: Jackie Chan artifacts, Taiwan, tech trigger](#thread-m--stolen-memory-jackie-chan-artifacts-taiwan-tech-trigger)
 13. [Thread K — *24* (TV, 2001–2010): China torture, proxy terror, CTU destruction](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction)
@@ -281,6 +282,58 @@ Cross-read [**Not Like This § *ID4* vs *Stargate***](https://paradigmthreat.net
 
 ---
 
+## Thread Q — *Burn After Reading* (2008): CIA decay / interagency satire
+
+**Scope:** ***Burn After Reading*** (2008 theatrical film). Coen Brothers comedy — **no** claim of agency production contact unless sourced later.
+
+**Author thesis (verbatim capture):** ***Burn After Reading* belongs on the NSA-aligned movie list** because it is **heavily critical of the CIA** — not as cartoon villains but as **bureaucratically wasteful, intransigent, casually law-breaking** institution that **fires independent thinkers**, **covers its own messes**, and **refuses domestic law enforcement** when a corpse would embarrass the desk. The film’s **transactional analysis** is **subtle but extremely powerful**: every character chases **sex, money, or status** while **misreading** a worthless analyst memoir; the agency ends with **no lesson learned** — **“What did we learn, Palmer?”** / **“I don’t fucking know either.”** That closure reads as **CIA past its prime**: even **average dullards** (Chad, the Brad Pitt gym trainer) operate in a culture where **phone taps**, **SIGINT**, and **“CIA shit”** are **pop-culture wallpaper** — a **Hollywood-overblown** version of real collection grammar. **NSA charter vocabulary** enters through **SigInt** explicitly: Osborne Cox is **removed from the SigInt desk** after his drinking problem surfaces; Chad later guesses the lost disc holds **“Signals intelligence shit.”** The **FBI** is portrayed as **bumbling** and **excluded on purpose** — Palmer asks whether to **interface with the FBI** on a recovered body; **Gardner Chubb** refuses: **“No! No, we don’t want those idiots blundering around in this. Burn the body.”** That is a **clear sovereignty / constitutional violation read** — **extrajudicial disposal** to **protect the institution**, not **serve police power**.
+
+### Plot beats (L1)
+
+| Beat | Detail | Tier |
+|------|--------|------|
+| **SigInt purge** | **Palmer** and **Peck** remove analyst **Osbourne Cox** from **Balkans** and **SigInt** entirely; demotion to **State** at **lower clearance** — framed as **drinking problem**, not merit | L1 — [published screenplay PDF](https://www.dailyscript.com/scripts/BurnAfterReading.pdf) |
+| **Memoir chaos** | Cox’s unfinished **memoir** CD copied by gym staff; **Russian embassy** (**Kolyma-2**) and **Treasury** agent **Harry Pfarrer** pulled into **competing blackmail / sex plots** | L1 |
+| **Chad’s SIGINT guess** | **Chad Feldheimer** (Brad Pitt): disc might be **“Highly classified shit… Signals intelligence shit, CIA shit”** | L1 — screenplay |
+| **Surveillance culture** | Chad and Linda **tap Pfarrer’s phone**; Chad cites **standard tactics** in **absurd** fitness-bro register | L1 |
+| **Body in Chesapeake** | Agency **surveillance** follows Pfarrer after **gunshot** at Cox house; body **dumped**, later **recovered scrubbed of ID** | L1 |
+| **Burn the body** | Chubb to Palmer: **do not** interface with **FBI** — **“Burn the body. Get rid of it.”** | L1 |
+| **Closing non-lesson** | **Chubb:** **“What did we learn, Palmer.”** / **“I don’t fucking know either… I guess we learned not to do it again… Although I’m fucked if I know what we did.”** | L1 |
+| **Aerial CIA HQ** | Final shot pulls back from **CIA headquarters** through clouds — **institutional shrug** | L1 |
+
+**Discipline:** Published screenplay uses **“SigInt”** and **signals intelligence** dialogue — **not** the literal acronym **“NSA.”** Author camp read maps **SigInt desk** to **NSA charter rhyme** ([NSA investigation § V](/governance/war/investigations/nsa-investigation.md)); **Palmer/Chubb** are **CIA** chain-of-command.
+
+### Investigator assessment
+
+| # | Author claim | Verdict | Notes |
+|---|--------------|---------|-------|
+| V1 | Film **audits CIA** as **wasteful / lawless / cover-up** | **Supported (L1 plot)** | **Burn the body** + **FBI exclusion** are explicit |
+| V2 | **SigInt** vocabulary = **NSA-domain** rhyme | **Supported as taxonomy** | L3 — desk is **inside CIA** on-screen; **charter** read is author frame |
+| V3 | **FBI bumbling** + **exclusion** | **Supported (L1)** | Chubb **“idiots blundering”** |
+| V4 | **Transactional analysis** — petty motives, **no intelligence outcome** | **Supported (L1 theme)** | Coen **farce** structure |
+| V5 | **CIA past its prime** / **institutional decay** | **Supported as author read** | L3 — closing **learned nothing** |
+| V6 | Chad = **pop SIGINT literacy** in **Hollywood-overblown** form | **Supported (L1 + L3)** | Pitt character **not** analyst but **knows tropes** |
+| V7 | **Burn body** = **sovereignty / constitutional** violation | **Supported as legal read** | L3 — **no** on-screen warrant / ME chain |
+| V8 | Coen Brothers received **agency direction** | **Unproven** | **No production evidence** in dossier |
+
+**Bottom line (investigator):** ***Burn After Reading* fits the interagency-satire catalog** alongside ***Sneakers*** — **audit CIA infection**, **name SIGINT**, **sideline FBI**, **no war-prep**. **NSA-aligned** on this taxonomy **by critique lane**, not by **celebrating** any agency.
+
+### Author reads (L3–L4)
+
+| Read | Tier | Notes |
+|------|------|-------|
+| **Institutional arson** — CIA **creates** chaos, then **destroys evidence** rather than **submit to police power** | L3 | **Burn the body** beat |
+| **Independent thinker purge** — Cox **assaulted** by demotion; **drinking** as **HR pretext** | L3 | Opening **SigInt** firing scene |
+| **SIGINT as wallpaper** — **everyone** knows **tap / SigInt** tropes; **competence** absent | L3 | Chad + Linda **phone plot** |
+| **Antibody rhyme** — film **legible** to audience that **CIA** is **post-competence** bureaucracy | L3 | Pairs [good-actor § II.G](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
+| **No lesson learned** — **cover-up without reform** | L3 | Final **Chubb/Palmer** exchange |
+
+**Camp label (author):** ***Burn After Reading* (2008) = NSA-aligned (interagency satire / CIA audit lane)** — **high-confidence** on this taxonomy.
+
+Cross-read [NSA investigation § V Fiction rhyme](/governance/war/investigations/nsa-investigation.md); [good-actor — *Sneakers* dialogue map](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md#sneakers--dialogue-map-nsa-vs-cia-vs-fbi).
+
+---
+
 ## Thread C — *Rush Hour* franchise (1998–2001)
 
 ### *Rush Hour* (1998) — buddy partnership (L1)
@@ -389,6 +442,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 | ***The Martian*** | 2015 | NASA–CNSA cooperation saves hero | Globalist-neutral | None | Released | Contrast bucket |
 | ***Arrival*** | 2016 | US–China cooperate on aliens | Globalist-neutral | None | Released | Contrast bucket |
 | ***The Dark Knight Rises*** | 2012 | No HK/Lau arc; Bane occupation | Containment sequel | Low | Released China later | **Typical** sequel — [Thread G](#thread-g--one-off-masterpiece--franchise-containment) |
+| ***Burn After Reading*** | 2008 | CIA **SigInt** purge; **burn the body**; FBI excluded | NSA | None | Released | Interagency satire — [Thread Q](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire) |
 | ***Joker*** (Phillips) | 2019 | Arthur Fleck victim narrative; protest “clowns” | CIA/MI6 | Low (war) / **high (counter-msg)** | Released | [Thread I](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019) |
 
 **TODO rows:** *Seven* (no China axis); *Arbitrage* (verify); *Tomorrow Never Dies* (HK banker?); *Blood Diamond* (wrong theater); 2012–2020 appeasement-era catalog expansion.
@@ -404,6 +458,17 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 | ***Stargate*** (film) | 1994 | **Ancient aliens** + god-king; **Atlantis/Mars ridicule**; sketchy gate physics/plot | **CIA/MI6** | **Contrast *ID4*** — [Thread P](#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4); **Emmerich/Devlin** also did *ID4* |
 | ***The Matrix*** | 1999 | Red pill; passport **9/11** PP; **Wake Up** credits | **NSA** | Installment I — [Matrix dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) |
 | ***The Matrix Reloaded* → *Resurrections*** | 2003–2021 | Oracle-as-control contained; nostalgia reset | **CIA** | Contain handoff — same dossier |
+
+### Interagency satire / CIA audit catalog (working table)
+
+**Legend:** **NSA camp (author)** = titles that **audit, ridicule, or constrain** the **CIA infection lane** (bureaucratic waste, lawlessness, cover-up) while often naming **SIGINT** vocabulary or contrasting **FBI** incompetence. Not war-prep litmus.
+
+| Title | Year | Lane signal | Camp (author) | Notes |
+|-------|------|-------------|---------------|-------|
+| ***Sneakers*** | 1992 | NSA vs CIA vs FBI; “we’re the good guys”; information war | **NSA** | Dialogue map — [good-actor § II.G](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
+| ***Burn After Reading*** | 2008 | CIA **SigInt** desk purge; memoir chaos; **burn the body** not FBI; transactional incompetence | **NSA** | **Flagship satire** — [Thread Q](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire) |
+
+**TODO rows:** *Three Days of the Condor* (1975); *Syriana* (2005); *The Recruit* (2003) — verify camp per title.
 
 **TODO rows:** *Tron* (1982); *WarGames* (1983); later ***Terminator*** sequels / TV (contain drift).
 
@@ -908,6 +973,8 @@ Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #Independ
 **Thread O — *ID4* (1996 original):** Locust quote, Area 51 reveal, Nimziki secrecy, host-body autopsy, global strike, **title *Independence Day* = independence-from-parasite read**, and **extended-cut Whitmore compromise lines** are **L1** where wiki / script / Movie-Censorship sourced. **WTC shadow 9/11 PP**, **declassification agenda**, **host-body = WotW Martian reality / Wells cover-up lane**, **holiday farce vs film as real declaration**, **secrecy-as-blindness** + **hammer/toilet tax analogy**, **Nimziki = SIGINT-withheld rhyme**, and **unity-lane NSA brightness** are **L3–L4**. Reader essay: [Everything in Independence Day Is True](https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.md). ***Resurgence* (2016)** and later franchise entries **out of scope**. **Not** claim Emmerich/Devlin received agency direction.
 
 **Thread P — *Stargate* (1994 film):** Seminar scene, **Atlantis/Mars heckle**, Ra-as-alien, chevron addressing, and Jackson constellation retcon are **L1** where script / wiki sourced. **CIA/globalist ancient-mystery**, **PP ridicule training**, ***ID4* plausibility contrast**, **portal physics decoy**, and **plot-sloppiness-as-payload** are **L3–L4**. **NSA=classic / CIA=sloppy** heuristic is **L3 taste pattern**, not statistical proof. ***SG-1* TV** out of scope.
+
+**Thread Q — *Burn After Reading* (2008):** **SigInt** purge, Chad **signals intelligence** dialogue, **burn the body** / **FBI exclusion**, and **Chubb/Palmer** closing are **L1** where [Daily Script PDF](https://www.dailyscript.com/scripts/BurnAfterReading.pdf) sourced. **CIA decay**, **transactional farce**, **NSA charter rhyme via SigInt**, **sovereignty violation read**, and **NSA-aligned audit camp** are **L3–L4**. **No literal “NSA” agency name** in published screenplay — **SigInt** vocabulary only. **Not** claim Coen Brothers received agency direction.
 
 **Thread G — hot war:** Forced-role cases (Norton, Kilmer, Scheider) and director override quotes (Gray, Feige) are **L1** where sourced. **Post-NSA-hit targeting**, **interagency hot war vs greed-only**, **war-movie conveyor as contain militainment**, and **miscast-as-ridicule-buffer** are **L3–L4**. **“Every famous male must do war movie”** is **weakened** to **common pattern** — not universal law.
 

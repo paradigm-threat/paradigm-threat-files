@@ -2,7 +2,7 @@ name: paradigm-threat-files
 version: "0.1.0"
 tools:
   search_site:
-    description: Keyword AND search over index.json via Relay QUERY / sqlite plugin
+    description: Keyword AND search over the Relay SQLite content index
     aliases: [search]
     via: query
     collection: index

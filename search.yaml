@@ -7,4 +7,4 @@ collections:
       - type: path_tree
         mode: merge
     idFields: [path, _meta_dir, id]
-    ftsFields: [_title, title, _keywords, keywords, description, summary]
+    ftsFields: [_title, title, _keywords, keywords, description, summary, content_kind]

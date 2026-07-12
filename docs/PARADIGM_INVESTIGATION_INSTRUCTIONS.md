@@ -83,7 +83,7 @@ When generating or landing a **new** `.md` article, **hub**, or **major investig
 3. **Chronology investigations index** — For anything under **`history/chronology/`** or tightly paired with that lane: add or refresh a row in **[`history/chronology/investigations/index-investigations.md`](../history/chronology/investigations/index-investigations.md)** (and sibling indexes like war hub `page.md` when the topic is governance/war).
 4. **Cross-links** — In related **dossiers**, add a **Related** / **References** row (or hub table row) pointing **to** and **from** the new file so navigation is bidirectional.
 5. **Folder `page.md` + AutoIndex** — If the new file is a **sibling** of a `page.md` that hides directory listings, append or refresh **`<AutoIndex … />`** per **[`docs/instructions/PAGE_MD_AUTOINDEX.md`](instructions/PAGE_MD_AUTOINDEX.md)**.
-6. **`npm run autogen`** — From repo root after substantive `.md` edits so `index.json` / `changelog.json` and **Keywords** lint stay aligned.
+6. **`npm run autogen`** — From repo root after substantive `.md` edits so **Keywords** and site-claims validation stay aligned. Catalog dates and content kind are indexed by Relay SQLite from git history.
 7. **Optional:** Duplicate a **one-line** entry under **`## My Articles`** on root `page.md` when the piece should be **editorially featured** alongside category listing.
 
 ### Reorganization (when asked to simplify)
@@ -143,7 +143,7 @@ When discussing defense budgets vs commercial games: cite **parallel ecosystems*
 - **`governance/war/investigations/page.md`** (and similar `page.md` files): update the investigation row blurb when the scope or thesis changes materially.
 - **`history/chronology/investigations/index-investigations.md`:** add a table row when a new chronology investigation or **`history/chronology/*.md`** reader essay / hub ships or changes scope.
 - **`docs/INVESTIGATIONS_DEEP_DIVE.md`:** add or refresh a row when an investigation has substantial open TODOs worth tracking repo-wide.
-- **Keyword line:** before regenerating `index.json` / `changelog.json`, run `npm run autogen` from repo root (it runs `check-keywords` then index + changelog). If `check-keywords` reports a file, fix the `Keywords:` line to Option B tokens.
+- **Keyword line:** run `npm run autogen` from repo root before shipping substantive edits. If `check-keywords` reports a file, fix the `Keywords:` line to Option B tokens. Relay builds search/date metadata from the repo tip; there is no committed `index.json` or `changelog.json` to regenerate.
 
 ---
 

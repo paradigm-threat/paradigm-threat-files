@@ -101,7 +101,7 @@ This document tracks the mapping of old directory paths to the new "Spheres of I
 4. **Create or update index files:**
    - Folders with 2+ files: add `index.md` (or use existing `index-*.md` / `README.md`) that links to each file.
    - Folders with 1 file: no index required.
-5. **Update `index.json`** (or run `scripts/generate-index.ts`) so AssetBrowser sees new paths.
+5. **Push to Relay** so the SQLite `path_tree` index sees new paths.
 6. **Exclude:** Any `paradigm-threat-timeline/content/*` files. Only `investigations/*` are migrated.
 
 ### New Investigations (not from timeline)

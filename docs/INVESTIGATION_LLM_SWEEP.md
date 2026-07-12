@@ -119,7 +119,7 @@ For top **3** author claims, propose:
 
 ## What the LLM must NOT do
 
-- Edit any `*investigation*.md`, article, `page.md`, `index.json`, or `changelog.json`.
+- Edit any `*investigation*.md`, article, or `page.md`.
 - Auto-resolve contradictions by picking a side.
 - Remove or soften author thesis blocks without author approval.
 - Invent citations or quote text not verified ([`ARTICLES.md` verifiable externals pass](instructions/ARTICLES.md#verifiable-externals-pass-required-before-ship)).
