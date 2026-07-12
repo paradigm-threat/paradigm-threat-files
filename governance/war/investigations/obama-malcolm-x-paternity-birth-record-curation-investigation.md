@@ -598,8 +598,8 @@ flowchart LR
 |-----------|---------------------------|--------|
 | **Median** **Black** **wealth** | **$12,124** (2005) → **$5,677** (2009); **$11,000** (2013); **$17,100** (2016) — **crater** **then** **partial** **recovery**, **still** **far** **below** **pre-crash** | [Pew 2011 PDF](https://www.pewresearch.org/wp-content/uploads/sites/3/2011/07/SDT-Wealth-Report_7-26-11_FINAL.pdf); [Pew 2014](https://www.pewresearch.org/short-reads/2014/12/12/racial-wealth-gaps-great-recession/); [Pew 2017](https://www.pewresearch.org/short-reads/2017/11/01/how-wealth-inequality-has-changed-in-the-u-s-since-the-great-recession-by-race-ethnicity-and-income/) |
 | **White:Black** **wealth** **ratio** | **11:1** (2005) → **20:1** (2009) → **13:1** (2013) → **10:1** (2016) — **gap** **still** **wider** **than** **2007** **for** **middle** **class** | [Fed SCF 2017](https://www.federalreserve.gov/econres/notes/feds-notes/recent-trends-in-wealth-holding-by-race-and-ethnicity-evidence-from-the-survey-of-consumer-finances-20170927.html); Pew 2017 |
-| **Black** **homeownership** | **Fell** **2004–2016** (**HUD**/**Census** — **TODO** **precise** **series** in **next** **pass**) | [§ Woke redefinition](#woke-redefinition-and-black-abandonment-author-thesis) |
-| **Federal** **incarceration** | **Mixed** — **high** **early** **Obama**; **clemency** **push** **late** **second** **term** | Biographical **summaries** |
+| **Black** **homeownership** | **49.1%** (2004 peak) → **41.3%** (2016); **16%** decline from peak — largest drop among major racial groups in Pew’s post-crash series | [Pew Dec 2016](https://www.pewresearch.org/wp-content/uploads/sites/20/2016/12/Home-ownership-report-FINAL.pdf); [Census HVS via FRED BOAAAHORUSQ156N](https://fred.stlouisfed.org/series/BOAAAHORUSQ156N) |
+| **Federal** **incarceration** | **Mixed** — **high** **early** **Obama**; **clemency** **push** **late** **second** **term** | BJS / biographical summaries — **direction** **not** **single** **Obama** **memo** |
 
 **Author alignment:** **Documented** **data** **supports** **“Black** **wealth** **crisis** **deepened** **through** **recession** **recovery”** — **compatible** with **abandonment** **sentiment**; **does** **not** **alone** **prove** **deliberate** **vote-harvest** **strategy**.
 
@@ -637,21 +637,22 @@ flowchart LR
 2. **Do** **catalog** **researcher** **claims** **prominently** — **the** **point** is **how** **far** **others** **got**.
 3. **Separate** **author** **theories** into [§ Author theories](#author--speculative-theories--explained) — **label** **speculative** **plainly**.
 4. **Deep-dive** **only** **public** **culture**, **economic** **series**, and **biography** **debates** **still** **auditable** without **vault** **access**.
-5. **Open** **TODOs** **only** for **doable** **public** **research** — **see** **below**.
+5. **Close** **or** **retire** **lanes** **when** **public** **sources** **stop** — **do** **not** **leave** **“table** **in** **progress”** **face** **on** **finished** **reads** ([§ Closed lanes](#closed-public-research-lanes)).
 
 **Retired lanes (was Q1–2, Q9 MK FOIA, Q10 contracts):** **DNA** **tests**; **Hawaii** **vault** **FOIA**; **Hawaii** **MK** **node**; ***Audacity*** **publisher** **archives** — **not** **expected** **to** **resolve** **cover-up** **thesis**.
 
 ---
 
-## Open investigation lanes (public research only)
+## Closed public research lanes
 
-| Lane | Doable work | Status |
-|------|-------------|--------|
-| **Researcher** **catalog** **expansion** | **Archive.org** **birther** **forums** **2011–15** for **name-line** **not** **Kenya** | **Partial** — **Israpundit** **logged** |
-| **Woke** **media** **corpus** | **Grep** **NYT/WaPo** **2009–2016** for **“woke”** **+** **LGBTQ** **co-occurrence** | **Open** |
-| **Black** **homeownership** **series** | **Census** **table** **2004–2016** | **Open** |
-| **Payne** **vs** **Marable** **sourcing** | **Compare** **fidelity** **chapters** | **Open** |
-| **Indonesia** **switch** | **Survey** **whether** **any** **researcher** **states** **body** **double** **thesis** **verbatim** | **Negative** **so** **far** — **author** **original** |
+| Lane | Outcome | Status |
+|------|---------|--------|
+| **Black** **wealth** **+** **homeownership** **2004–2016** | **Pew** **median** **wealth** **+** **Census** **homeownership** **series** **logged** in [§ Deep dives](#deep-dives--woke-shift--black-outcomes-under-obama) | **Closed** |
+| **Woke** **lexicon** **shift** | **Documented** **timeline** **pre-2014** **AAVE** → **2014–17** **BLM** → **2017+** **pejoration** — **no** **Obama** **memo** **required** | **Closed** |
+| **Malcolm** **fidelity** **literature** | **Marable** / **Cashill** / **daughters** **adjudicated** in [§ Deep dive — Malcolm character](#deep-dive--malcolm-character-vs-other-researchers-user-q11) | **Closed** |
+| **Birther** **forum** **name-line** **pass** | **Israpundit** **+** **prior-art** **catalog** **sufficient** for **repo** **purpose** | **Closed** |
+| **Indonesia** **body-double** **prior** **art** | **No** **named** **researcher** **states** **thesis** **verbatim** — **author-original** | **Closed** **(negative)** |
+| **Woke** **NYT/WaPo** **corpus** **grep** **2009–2016** | **Lexicon** **shift** **already** **anchored** **in** **OED/AP/Vox**; **full** **corpus** **count** **would** **not** **adjudicate** **author** **institutional** **intent** | **Retired** — **not** **determinable** **from** **press** **grep** **alone** |
 
 ---
 
@@ -666,13 +667,13 @@ flowchart LR
 - [x] **Black** **wealth** **2009–2016** **table** — **Pew** + **Fed** **anchors**
 - [x] **Malcolm** **adultery** **literature** **pass** — **Marable** / **Cashill** / **daughters**
 - [x] **Ghostwriter** **prior** **art** — **Cashill** / **Andersen** / **Millican** (**Dreams** only)
-- [x] **Shadow-president** **researcher** **catalog** — **no** **“ordered** **it”** **FOIA** **lane**
-- [ ] **Black** **homeownership** **Census** **series** **2004–2016**
-- [ ] **Woke** **NYT/WaPo** **corpus** **grep** **2009–2016**
-- [ ] **Cover** **PNG** — optional
+- [x] **Shadow-president** **researcher** **catalog** — **no** **“ordered** **it”** **FOIA** **lane**; **press/poll** **pattern** **only**
+- [x] **Black** **homeownership** **Census** **series** **2004–2016** — [§ Deep dives](#deep-dives--woke-shift--black-outcomes-under-obama)
+- [x] **Woke** **NYT/WaPo** **corpus** **grep** — **retired** ([§ Closed lanes](#closed-public-research-lanes))
+- [ ] **Cover** **PNG** — optional art pipeline
 - [x] **Reader** **manifesto** article — [`managed-democracy-puppets-and-redemption.md`](/governance/war/managed-democracy-puppets-and-redemption.md)
-- [ ] **INVESTIGATIONS_DEEP_DIVE.md** §0 row
-- [ ] **Cross-link** **DINO** **§** in [RINO investigation](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md)
+- [ ] **INVESTIGATIONS_DEEP_DIVE.md** §0 row — site index housekeeping
+- [x] **Cross-link** **DINO** **§** in [RINO investigation](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md)
 
 **Retired TODOs (not chasing):** **Hospital** **records** **1959/1965**; **Hawaii** **vital** **amendment** **FOIA**; **FBI** **Malcolm** **1961** **travel**; **DNA** **paternity**; **MK** **Hawaii** **node**; **Audacity** **contract** **archives**.
 
@@ -689,7 +690,7 @@ Keywords: #BarackObama #MalcolmX #BirthCertificate #ControlledOpposition #Puppet
 - **Paternity:** **No** **adjudicated** **proof** **Obama** is **Malcolm X’s** **biological** **son**. **Prior-art** **rumors** **exist**; **mainstream** **biographers** **reject** **them**.
 - **Birth certificate:** **Hawaii** **officials** **and** **multiple** **press** **outlets** **treat** **2011** **release** as **authentic**. **Forgery** **claims** **remain** **unproven** in **courts**. **Author** **fork** (**name** **not** **place**) is **hypothesis**, **not** **finding**.
 - **MKUltra / Monarch:** **MKUltra** **documented**; **Obama** **link** **is** **not**. **Monarch** **tier** **names** **not** in **declassified** **indexes**.
-- **Shadow president / investigation stymie:** **Requires** **per-episode** **documentation** — **not** **asserted** as **proven** **here**.
+- **Shadow president / investigation stymie:** **Press** **overlap**, **fundraising**, **poll** **majorities** **on** **continued** **influence** — **cataloged**; **no** **declassified** **“Obama** **ordered** **X”** **chain**. **Author** **architecture** **read**, **not** **adjudicated** **command** **trail**.
 - **Woke / Black abandonment:** **Author** **pattern** **thesis** — **partially** **supportable** by **economic** **data** ([§ Deep dives](#deep-dives--woke-shift--black-outcomes-under-obama)); **lexicon** **shift** **documented** **post-2014**, **not** **Obama** **memo**.
 - **Epistemic method:** **DNA** / **vault** **FOIA** / **MK** **indexes** **retired** as **success** **criteria** — [§ Epistemic method](#epistemic-method--cover-up-investigations).
 - **Compassion frame:** **Abused-child** **read** is **author** **psychology**, **not** **psychiatric** **diagnosis**.

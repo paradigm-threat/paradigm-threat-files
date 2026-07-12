@@ -365,7 +365,7 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 | **1 — both** | **Liz Cheney** | **Neocon** **Ukraine** hawk | **Jan 6** impeachment + **committee** | [§ roster](#extended-rino-roster--clash-vs-ally-snapshots) |
 | **1 — both** | **Kevin McCarthy** | **Enabled** Ukraine aid | **Resign** tape Jan 6 | Same |
 | **2 — A only** | **Thune, Romney, Murkowski, Collins, Johnson, Stefanik, Wicker** | **Pro-aid** / institutional | Weak or **no** Jan 6 break | **Compromised-adjacent**, not Tier 1 |
-| **2 — cohort** | **~31 Senate Rs** (2024 packages) | **Y** on **$95B** / **$60B** | — | **Congress.gov** TODO |
+| **2 — cohort** | **~31 Senate Rs** (2024 packages) | **Y** on **$95B** / **$60B** | — | [CNN Feb 2024](https://www.cnn.com/2024/02/14/politics/mitch-mcconnell-foreign-aid) (**70–29** Senate) |
 | **3 — excluded** | **Cruz, Sasse** | **Not** Axis A maximalist | Partial / NeverTrump | — |
 
 **Cross-read:** [Cruz / ~2005 GOP panic](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#the-national-security-thesis-media-blackmail-and-controlled-candidacies); [Trump uncompromised dynasty](/events/trump/index-trump-investigation.md) — **contrast** **figure**. **Jan 6 CO pattern:** [§ ally-then-betray](#jan-6--ally-then-betray-controlled-opposition-pattern-author-thesis). **Exit architecture:** if compromise network **cannot** **dispose** **assets** **publicly** without **blowback**, **staged death** + **paradise retirement** is **consistent** with **Epstein** **death–revival** **template** ([§ fake-death lane](#fake-death--staged-cardiac-lane-author-thesis--jul-2026)).
@@ -397,6 +397,7 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 | **Second impeachment Feb 2021** | Voted **not guilty** — **returned** to **fold** despite **Jan 6** **break** | [Graham office](https://www.lgraham.senate.gov/public/index.cfm/2021/2/graham-on-acquittal-in-senate-impeachment-trial) | A |
 | **Pickens rally Jul 1 2023** | **MAGA** **crowd** **heavily** **booed** Graham **throughout** **~5** **min** **speech**; **“traitor”** **chants** reported | [The Hill](https://thehill.com/homenews/campaign/4077580-trump-supporters-boo-call-lindsey-graham-a-traitor-at-south-carolina-rally/); [The State](https://www.thestate.com/news/politics-government/article276935188.html) | A |
 | **Trump at Pickens** | Did **not** **directly** **attack** Graham; **stood** **back** **while** **crowd** **booed**; later **defended** **lightly**: **“when I need some of those liberal votes, he’s always there”**; **“pretty liberal people, but he’s good”**; **“I’m gonna have to work on these people”** | [Fox News](https://www.foxnews.com/politics/trump-ally-lindsey-graham-booed-off-stage-south-carolina-maga-rally-near-his-hometown); [Rolling Stone](https://www.rollingstone.com/politics/politics-news/lindsey-graham-booed-trump-rally-south-carolina-1234782230/) | A |
+| **“Against the grain” (author paraphrase)** | **No** **single** **verified** **memoir/interview** **line** **located**; **author** **maps** **Jan** **6** **CO** **to** **Trump’s** **loyalty-test** **theme** — **Woodward** **1989** **is** **citable** **anchor** | Author synthesis | C |
 
 ### The reconciliation — media whitewash vs the base (author read)
 
@@ -415,11 +416,9 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 
 **Investigation read:** **CO** **cycle** = **betray** on **key** **date** → **institutional** **+** **media** **reconciliation** → **“reliable** **ally”** **label** **restored** → **base** **still** **booed** **anyway** (**Pickens**). **Trump** **letting** **the** **crowd** **speak** **reads** as **RINO-reveal** **grammar** **without** **Trump** **having** **to** **say** **it** **outright** — **parallel** **author** **thesis** **that** **Trump** **was** **teaching** **Republicans** **who** **the** **RINOs** **were**. **Media** **ally** **headlines** **same** **day** (**Fox:** **“Trump** **ally** **Graham** **booed”**) = **whitewash** **+** **truth** **in** **one** **package**.
 
-**Note on “progressive”:** Author recalled Graham as **“progressive”** on certain policies. **On-record** **Trump** **wording** at **Pickens** is **“liberal** **votes”** / **“pretty** **liberal** **people”** ([Fox](https://www.foxnews.com/politics/trump-ally-lindsey-graham-booed-off-stage-south-carolina-maga-rally-near-his-hometown)) — **same** **lane**, **cite** **press** **verbatim** in **article**.
+**Note on “progressive”:** Author recalled Graham as **“progressive”** on certain policies. **On-record** **Trump** **wording** at **Pickens** is **“liberal** **votes”** / **“pretty** **liberal** **people”** ([Fox](https://www.foxnews.com/politics/trump-ally-lindsey-graham-booed-off-stage-south-carolina-maga-rally-near-his-hometown)) — **same** **lane**, **cite** **press** **verbatim** in **article**. **No** **second** **Trump** **interview** **with** **“progressive”** **located**; **Pickens** **press** **is** **the** **record**.
 
-**TODO:** Locate **author** **“progressive”** **quote** **if** **from** **different** **Trump** **interview** **than** **Pickens**.
-
-**Link to Epstein two-axis (author):** **Jan 6** **betrayal** = **Axis B** **resolution-block**; **Ukraine** **maximalism** = **Axis A**. Figures who **both** **ally-then-betray** on **Jan 6** **and** **force** **Russia** **war** **economics** — **Graham**, **McConnell**, **Cheney**, **McCarthy** — **very likely** **[compromise lane](/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md)** (hypothesis). **Full roster:** **TODO** [§ Epstein two-axis expansion](#epstein--blackmail-compromise-lane-hypothesis).
+**Link to Epstein two-axis (author):** **Jan 6** **betrayal** = **Axis B** **resolution-block**; **Ukraine** **maximalism** = **Axis A**. Figures who **both** **ally-then-betray** on **Jan 6** **and** **force** **Russia** **war** **economics** — **Graham**, **McConnell**, **Cheney**, **McCarthy** — **very likely** **[compromise lane](/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md)** (hypothesis). **Full roster:** [§ Epstein two-axis discriminator](#epstein-two-axis-discriminator-author-thesis).
 
 **Falsifiers:** **Leaked** **coordination** **memo** **scheduling** **Jan 6** **floor** **breaks**; **proof** Trump **did not** **intend** **protest** **support**; **Graham** **only** **break** **without** **prior** **ally** **echo** (**refuted** — **echo** **documented**).
 
@@ -678,7 +677,7 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 | 5 | **European** **leader** **poll** **vs** **Ukraine** **aid** **gap** **2022–26** | **Eurobarometer**, **national** **polls** |
 | 6 | **Feb 2025** **Graham** **Zelensky** **flip** — **temporary** **or** **strategic**? | **Trip** **log** **Jul 2026** **Kyiv** **suggests** **return** **to** **maximalism** |
 | 7 | **Who** **benefits** **from** **Graham** **seat** **appointment** **before** **Nov 2026**? | **SC** **politics** **tracking** |
-| 8 | **Exact** **Trump** **book/interview** **“against** **the** **grain”** **ally-reveal** **quote** | **Memoirs**, **interview** **archives**; **rhyme** [Woodward 1989](https://www.washingtonpost.com/opinions/interactive/2024/bob-woodward-trump-interview-1989/) |
+| 8 | **Trump** **loyalty-test** **/** **“against** **the** **grain”** **wording** | **Closed** — **Woodward** **1989** **friendship-test** **quotes** **logged**; **“against** **the** **grain”** = **author** **paraphrase**, **not** **verified** **single** **book** **line** ([§ Jan 6 CO](#jan-6--ally-then-betray-controlled-opposition-pattern-author-thesis)) |
 | 9 | **Sanctioning** **Russia** **Act** — **500%** **tariff** **language**, **WH** **water-down** | **Congress.gov**, **press** **2025–26** |
 
 ---
@@ -693,11 +692,13 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 - [x] **Pew / Chicago Council** base vs leadership — [§GOP threads B](#b-republican-base-vs-party-leadership-polls)
 - [x] **Thune / SAVE Act 2026** — [§GOP threads C](#c-thune-era--save-act-vs-filibuster-2026)
 - [x] **Article theme hooks** — [§ Article themes](#article-themes--candidate-hooks-for-reader-essay)
-- [ ] **Graham** **ME** **/** **autopsy** **release** — **compare** **to** [§ fake-death lane](#fake-death--staged-cardiac-lane-author-thesis--jul-2026)
-- [ ] **2025–26** **sudden** **elite** **cardiac** **cluster** **catalog**
-- [ ] **House Freedom Caucus** **no** votes on **2024** **Ukraine** **bills** + **Johnson** **day-by-day** **Feb–Apr 2024**
-- [ ] **GovTrack ideology distance** Graham/McConnell vs Trump **2017–2026**
-- [ ] **US Republican voter** **polls** on **Ukraine** **aid** vs **Senate** **GOP** **whip** **counts**
+- [x] **Trump** **loyalty-test** **/** **Woodward** **1989** **anchor** — **“against** **the** **grain”** **closed** **as** **author** **paraphrase**
+- [x] **DINO** **Israel/Ukraine** **whip** **examples** — **Feb** **2024** **$95B** **70–29** **Senate** ([§ DINO mirror](#dino-mirror--democratic-managed-opposition-hypothesis))
+- [ ] **Graham** **ME** **/** **autopsy** **release** — **retired** **12** **Jul** **2026**: **no** **public** **ME** **record**; **cannot** **adjudicate** **further** **without** **release**
+- [ ] **2025–26** **sudden** **elite** **cardiac** **cluster** **catalog** — **future** **event** **watch** **only**
+- [ ] **House Freedom Caucus** **no** **votes** **detail** — **low** **priority**; **Johnson** **hold** **summarized** in [§GOP threads A](#a-mike-johnson--ukraine-aid-hold-febapr-2024)
+- [ ] **GovTrack ideology distance** — **not** **determinative** **for** **Epstein** **axis**; **retired**
+- [ ] **US Republican voter** **polls** **vs** **Senate** **whip** — **Pew/Chicago** **Council** **logged** in [§GOP threads B](#b-republican-base-vs-party-leadership-polls)
 - [ ] **Cover image** — optional PNG when art pipeline runs
 - [ ] **Reader article** sibling — only if author **names** path
 - [ ] **INVESTIGATIONS_DEEP_DIVE.md** §0 row
