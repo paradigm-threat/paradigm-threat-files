@@ -99,10 +99,13 @@ or *not* believing.
 * [Napoleonic artillery & airships](/governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md) — Sound cannons, artillery, lighter-than-air tech claims.
 * [Ship-shaped airships — Earth lift (Category A)](/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md) — Boat/canoe hull airships; Clonmacnoise → Pugachev; Napoleon invincibility; mud-flood burial.
 * [Occupy Wall Street](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) — Origins, collapse, surveillance, controlled-opposition thesis.
+* [RINO effect — Graham, McConnell, Trump](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md) — Ukraine/Iran split, media “ally” framing, controlled GOP opposition (Jul 2026).
+* [Obama / Malcolm X — birth record & puppet curation](/governance/war/investigations/obama-malcolm-x-paternity-birth-record-curation-investigation.md) — name-change birth-cert fork, prior art, MK plausibility, woke pivot (Jul 2026).
 * [Operation Paperclip & Nazi continuity](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) — US absorption of German science; WWII defeat narrative vs continuity.
 * [The Four Reverse Crusades](/governance/war/investigations/reverse-crusades-comparison.md) — Structural comparison (1812, 1914, 1941, 2022-style arcs).
 * [Zelensky open letter (Jun 2026)](/governance/war/investigations/zelensky-open-letter-reality-model-investigation.md) — Operative reality model, TA / word choice, reverse-crusade figurehead read.
 * [Zelensky’s letter is a memory weapon](/governance/war/zelensky-forward-history-memory-war.md) — Reader essay: forward-only history vs buried Holodomor on the same soil.
+* [Managed democracy, puppets, and redemption](/governance/war/managed-democracy-puppets-and-redemption.md) — Reader essay: *House of Cards* grammar, Obama/RINO puppet slots, Epstein two-axis read, DINO symmetry, Christian mercy exit; links RINO + Obama dossiers.
 * [Holodomor–Holocaust memory investigation](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md) — Memory redaction, Dec 1932 Stalin primaries, geography of horror.
 * [Soviet Collapse](/governance/war/investigations/soviet-collapse-investigation.md) — Western orchestration, media, post-WWII isolation.
 * [RMS Titanic (1912)](/governance/war/investigations/titanic-sinking-investigation.md) — Timing, alternative narratives, inquiries and aftermath.
@@ -417,6 +420,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 * [Consensus theater and the stalled physics pipeline](/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md) — Big Mysteries Survey press read: terminology parade, creation fork, audit vs waiting room; links consensus-theater dossier.
 * [A history lesson on the time Napoleon carried around corpses](/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md) — One long read: Napoleon, Curie, timeline, famines/genocide lane, captured medicine (no sequel post).
 * [The Lost Tribe of Benjamin — fresco, Franklin, monotheism’s war](/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md) — Capitol Apotheosis, Fomenko corroboration vs author spine, Palatine Moors fork, manifesto close; links [Apotheosis dossier](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md).
+* [Managed democracy, puppets, and redemption](/governance/war/managed-democracy-puppets-and-redemption.md) — *House of Cards* epiphany, curated puppets (Obama + RINO/DINO), Epstein two-axis discriminator, identical party mechanics, Christian redemption closing; links [RINO](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md) + [Obama/Malcolm X](/governance/war/investigations/obama-malcolm-x-paternity-birth-record-curation-investigation.md) dossiers.
 
 ### Hubs and broad entry points
 

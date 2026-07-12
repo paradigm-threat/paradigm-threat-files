@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-files",
+    "date": "2026-07-11T22:28:58.000Z",
+    "message": "chore: mesh tip-notify probe round 4 full ring fix",
+    "files": [
+      {
+        "status": "M",
+        "path": ".relay/mesh-probe.txt",
+        "href": "/.relay/mesh-probe.txt"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-files",
     "date": "2026-07-11T22:26:53.000Z",
     "message": "chore: mesh tip-notify probe round 3 full ring",
     "files": [
@@ -757,37 +770,6 @@
       }
     ],
     "images": [
-      {
-        "src": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation.png",
-        "alt": "Hollywood two-camp war — investigation cover"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-files",
-    "date": "2026-07-08T12:49:20.000Z",
-    "message": "Clarify ID4 locusts as same-species humans.",
-    "files": [
-      {
-        "status": "M",
-        "path": "influence/hollywood/everything-in-independence-day-is-true.md",
-        "href": "/influence/hollywood/everything-in-independence-day-is-true"
-      },
-      {
-        "status": "M",
-        "path": "influence/hollywood/investigations/hollywood-two-camp-war-investigation.md",
-        "href": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation"
-      }
-    ],
-    "images": [
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.png",
-        "alt": "Everything in Independence Day Is True — Area 51 autopsy, Whitmore, holiday farce"
-      },
-      {
-        "src": "https://paradigmthreat.net/influence/hollywood/declare-independence.png",
-        "alt": "Declare Independence — Whitmore hangar speech / real declaration"
-      },
       {
         "src": "/influence/hollywood/investigations/hollywood-two-camp-war-investigation.png",
         "alt": "Hollywood two-camp war — investigation cover"
