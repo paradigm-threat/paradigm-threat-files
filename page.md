@@ -144,6 +144,7 @@ or *not* believing.
 * [Wuxing and the Five Planets](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) — Dark Ages observational record; five phases and planets.
 * [Pre-Mudflood Maps](/history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.md) — Fra Mauro, Sahara, under-500-year desert claims.
 * [American burial mounds — MFEE fossilization, Smithsonian erasure, national-park gatekeeping](/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md) — Bilbo Mound, mound destruction vs cover-up, giant press, parks/plaques, forced identity.
+* [Bilbo Mound and America's buried past](/history/mudflood/bilbo-mound-and-americas-buried-past.md) — Reader essay: catastrophe graves, MFEE hinge, generational scar, pro-American ancestry.
 * [Blood rain](/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md) — Passat dust, Dust Bowl, post–mud-flood ecological shocks.
 * [Cargo Cults](/history/mudflood/investigations/cargo-cults-investigation.md) — Official history vs manna redaction and behavior.
 * [MFEE Investigation](/history/mudflood/investigations/mfee-investigation.md) — Map evidence and boundary changes over time.

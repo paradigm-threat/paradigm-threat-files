@@ -1,9 +1,11 @@
 # Investigation: American Burial Mounds — MFEE Fossilization, Smithsonian Erasure, and National-Park Gatekeeping
 
-> **TL;DR:** North America's earthen mounds — from the Bilbo shell mound at Savannah to Wisconsin effigy complexes and Ohio's Serpent Mound — are framed here not as planned ritual burial architecture but as **instantaneous burial and fossilization sites** from the [MudFlood Energetic Event](/timeline/evt-the-mudflood-world-cataclysm) (MFEE, ~1774). The [Smithsonian Institution](https://www.si.edu/) and its Bureau of American Ethnology **did** conduct systematic mound excavations (1881–1890, Cyrus Thomas); mainstream debunks of **giant-skeleton hoaxes** are real but often **overreach** into dismissing mound destruction, newspaper reports, and the **memory-war** function of federal parks. This dossier cross-reads repo giant/mudflood material, documents general claims and debunks, and tests the author thesis that mound leveling was **evidence erasure** (not cheap housing), that **"building on Indian burial grounds"** was manufactured folklore, and that **national monuments** now **gate** a false pre-Columbian past while keeping independent investigators off sensitive strata.
+![American burial mounds — MFEE fossilization, Smithsonian erasure, national-park gatekeeping](american-burial-mounds-mfee-smithsonian-national-parks-investigation.png)
+
+> **TL;DR:** North America's earthen mounds — from the Bilbo shell mound at Savannah to Wisconsin effigy complexes and Ohio's Serpent Mound — are framed here not as planned ritual burial architecture but as **instantaneous burial and fossilization sites** from the [MudFlood Energetic Event](/timeline/evt-the-mudflood-world-cataclysm) (MFEE, ~1774). **Investigative logic (author):** destruction, press reports, Smithsonian/BAE dismantling, giant clippings, park gatekeeping, and the **"Indian burial mound"** label **all line up to one load-bearing proof** — **MFEE happened**. Prove that, and the official ritual-burial / deep-prehistory frame is **not a rival theory** but a **deliberate substitute** for a different event; alternate mainstream explanations read as **cover-up and whitewash**, not innocent error. This dossier assembles the converging lanes and documents general claims and debunks while the **MFEE mechanism** remains the single open adjudication.
 
 **Status:** Open — Bilbo anchor documented; mound-destruction primary archive pass incomplete; national-park regulatory map in progress.  
-**Related:** [MFEE investigation](mfee-investigation.md) | [MudFlood main article](../page.md) | [Giants of Japan — debunk overreach](/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) | [Cherokee Moors / forced identity labels](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) | [Giants, infantry, guerrilla etymology](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) | [Methods: debunk overreach](/docs/METHODS_DEBUNK_OVERREACH_ADJACENT_DISCARD.md)
+**Related:** [Reader essay — Bilbo Mound and America's buried past](../bilbo-mound-and-americas-buried-past.md) | [MFEE investigation](mfee-investigation.md) | [MudFlood main article](../page.md) | [Giants of Japan — debunk overreach](/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) | [Cherokee Moors / forced identity labels](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) | [Giants, infantry, guerrilla etymology](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) | [Methods: debunk overreach](/docs/METHODS_DEBUNK_OVERREACH_ADJACENT_DISCARD.md)
 
 ---
 
@@ -11,18 +13,19 @@
 
 | If you want… | Section |
 |--------------|---------|
+| **Why only MFEE needs proving** | §2 |
 | Author thesis in one pass | §1 |
-| Bilbo Mound (Savannah) deep dive | §2 |
-| Mound types and distribution | §3 |
-| MFEE fossilization mechanism | §4 |
-| What the Smithsonian actually did (documented) | §5 |
-| Giant skeleton claims vs mainstream debunks | §6 |
-| Destruction: housing myth vs cover-up read | §7 |
-| "Indian burial grounds" folklore | §8 |
-| National parks, monuments, federal gate | §9 |
-| Forced "Native American" identity / giant erasure | §10 |
-| Repo images and news clippings | §11 |
-| Claims matrix (claim / debunk / paradigm read) | §12 |
+| Bilbo Mound (Savannah) deep dive | §3 |
+| Mound types and distribution | §4 |
+| MFEE fossilization mechanism | §5 |
+| What the Smithsonian actually did (documented) | §6 |
+| Giant skeleton claims vs mainstream debunks | §7 |
+| Destruction: housing myth vs cover-up read | §8 |
+| "Indian burial grounds" folklore | §9 |
+| National parks, monuments, federal gate | §10 |
+| Forced "Native American" identity / giant erasure | §11 |
+| Repo images and news clippings | §12 |
+| Claims matrix (claim / debunk / paradigm read) | §13 |
 
 ---
 
@@ -41,9 +44,63 @@
 
 ---
 
-## 2. Bilbo Mound (Savannah, Georgia) — case study
+## 2. Investigative logic — one load-bearing proof (MFEE)
 
-### 2.1 Site facts (documented)
+> **Author thesis:** Every evidence lane in this dossier **converges on MFEE**. We do **not** need separate proofs for cover-up, whitewash, substitute labels, Smithsonian erasure, or park gatekeeping — those are **downstream of the same event**. **All we need to prove is that the MFEE happened** at these sites (catastrophic burial / fossilization, ~1774). Once that is established, the official **“Indian burial mound”** frame is **automatically** a **deliberate substitute for a different event** — not a good-faith rival interpretation.
+
+### 2.1 What the official label claims vs what MFEE implies
+
+| Dimension | Official “Indian burial mound” frame | If MFEE is true |
+|-----------|--------------------------------------|-----------------|
+| **Cause** | Intentional ritual earthwork | Catastrophe deposit (electric strike + mud burial) |
+| **Time** | Deep prehistory (Archaic, Hopewell, Mississippian, etc.) | Recent world cataclysm (~1774) |
+| **Agency** | Indigenous builders, ceremonial religion | Mass mortality; no planner |
+| **Bones** | Ancestor burials, staged mortuary rites | Petrified / friable giant (or other) remains misread |
+| **Science split** | Archaeology + ethnography | Same event **misfiled** into paleontology (“dinosaurs”) and ethnography (“tribes”) |
+
+These rows are **mutually exclusive**. If MFEE formed the heaps, the ritual-burial label is **wrong on every axis** — not “partly right.”
+
+### 2.2 Why alternate explanations read as cover-up / whitewash
+
+Once MFEE is the physical truth, mainstream explanations do not look like **innocent mistakes at scale**. They look like a **coordinated substitute narrative**:
+
+| Evidence lane (this dossier) | Without MFEE | **With MFEE proved** |
+|------------------------------|--------------|----------------------|
+| **Mass mound destruction** (farms, rails, cities) | Sad collateral loss | **Signature erasure** of catastrophe geology |
+| **BAE / Cyrus Thomas dismantling** (1881–1890) | Era-typical destructive archaeology | **Post-event cleanup** — remove contents, fix story |
+| **Giant skeleton press** | Hoaxes and mismeasurement only | **True reports** of wrong-scale remains, then **debunked away** |
+| **Hrdlička / “no giants”** | Scientific skepticism | **Institutional closure** on stature anomaly |
+| **“Indian burial grounds” folklore** | Respect taboo + Hollywood | **Manufactured curse** after physical evidence removed |
+| **NPS plaques, ARPA, NAGPRA** | Heritage protection | **Lock the substitute** — only authorized buckets may speak |
+| **Forced “Native American” identity buckets** | Complex race history | **Compress survivors** into the only approved pre-Columbian slot |
+| **Radiocarbon “thousands of years”** | Deep indigenous continuity | **Calibration / chronology whitewash** ([radiocarbon investigation](/history/chronology/investigations/radiocarbon-dating-investigation.md)) |
+
+**Author read:** The alternate explanations are **100% cover-up and whitewash** relative to MFEE reality — not parallel theories deserving equal weight. They are what you would **expect** after a civilizational reset: destroy the strata, reclassify the bones, assign a **respectable indigenous ritual** origin, and **criminalize independent digging**.
+
+### 2.3 Logical dependency (single hinge)
+
+```text
+Prove MFEE at the mounds
+    → official “burial mound” label = substitute for catastrophe (not optional)
+    → destruction + Smithsonian + parks = downstream erasure (corollary, not separate thesis)
+    → giant press + identity compression = same memory-war operation (stature + census views)
+```
+
+**What remains open:** **Whether MFEE happened** — stratigraphy, petrification signatures, chronology reset, cross-site correlation with [MFEE map evidence](mfee-investigation.md). **What is not a separate mountain of proof:** whether institutions **substituted** a false past once the physical event is granted.
+
+### 2.4 How to use this file
+
+- **§3–§12** document **converging lanes** — each strengthens the **MFEE hinge**, not a freestanding cover-up case.
+- **Skeptics** who accept mound loss and BAE excavation but reject MFEE are arguing for **substitute narrative without naming it**.
+- **Debunks** of giant **hoaxes** (e.g. 2014 satire) do **not** touch the hinge; per [METHODS_DEBUNK_OVERREACH](/docs/METHODS_DEBUNK_OVERREACH_ADJACENT_DISCARD.md), they must not be used to dismiss **mound destruction** or **press tiers** as if that cleared the ritual-burial frame.
+
+**Evidence tier:** §2 = **author investigative logic**; individual lanes below carry their own **documented / open / speculative** tiers.
+
+---
+
+## 3. Bilbo Mound (Savannah, Georgia) — case study
+
+### 3.1 Site facts (documented)
 
 | Field | Detail |
 |-------|--------|
@@ -62,7 +119,7 @@
 - **Federal and university archaeology** reframed the site through **centuries of institutional language** ("shell midden," "St. Simons phase") while **commercial and military river engineering** altered the landscape (Savannah River dredging lowered relative elevations).
 - **Date controversies** ("Naw, that couldn't be right") show **institutional reluctance** to accept **very early American complexity** — rhyming with the broader **memory-war** pattern even when the paradigm mechanism is not invoked.
 
-### 2.2 Bilbo vs author thesis
+### 3.2 Bilbo vs author thesis
 
 | Question | Mainstream | Paradigm (open) |
 |----------|------------|-----------------|
@@ -72,7 +129,7 @@
 
 ---
 
-## 3. American mound landscape — types and distribution
+## 4. American mound landscape — types and distribution
 
 North America hosts **tens of thousands** of earthen features. Archaeology sorts them into families; this investigation **maps types to the thesis** without accepting each type's ritual label as closed fact.
 
@@ -96,7 +153,7 @@ North America hosts **tens of thousands** of earthen features. Archaeology sorts
 
 ---
 
-## 4. MFEE mechanism — instantaneous burial and fossilization
+## 5. MFEE mechanism — instantaneous burial and fossilization
 
 Cross-link: [MudFlood § Giants](../page.md) and [Safire / electric petrification](https://www.safireproject.com/) cited there.
 
@@ -117,11 +174,11 @@ Cross-link: [MudFlood § Giants](../page.md) and [Safire / electric petrificatio
 
 ---
 
-## 5. Smithsonian and Bureau of Ethnology — documented mound program
+## 6. Smithsonian and Bureau of Ethnology — documented mound program
 
 This section is **primary-source grounded** — independent of giant-hoax satire.
 
-### 5.1 Division of Mound Exploration (1881–1890)
+### 6.1 Division of Mound Exploration (1881–1890)
 
 | Item | Source |
 |------|--------|
@@ -137,7 +194,7 @@ This section is **primary-source grounded** — independent of giant-hoax satire
 - **Railroad and development** already destroyed many groups before BAE arrival (Thomas notes railroad lines carrying away mound earth).
 - **Intellectual outcome:** Thomas argued **mounds were built by ancestors of historic tribes** (including Cherokee), **not** a vanished "Mound Builder race" separate from Native Americans — debunking **one** racist theory while **cementing** another baseline: **small-body indigenous builders**, pre-MFEE in calendar terms.
 
-### 5.2 Hrdlička and the giant-skeleton lane (1934)
+### 6.2 Hrdlička and the giant-skeleton lane (1934)
 
 **Aleš Hrdlička**, Smithsonian curator of anthropology, publicly rejected **7–8 ft routine giant skeletons** (1934), blaming **amateur mismeasurement** and **"will to believe"** ([Wikipedia — Giant human skeletons](https://en.wikipedia.org/wiki/Giant_human_skeletons) summarizes the institutional record).
 
@@ -152,17 +209,17 @@ This section is **primary-source grounded** — independent of giant-hoax satire
 
 ---
 
-## 6. Giant skeleton newspaper claims — claims, debunks, and overreach
+## 7. Giant skeleton newspaper claims — claims, debunks, and overreach
 
 ![Newspaper clippings — giant skeleton reports, repo corpus](/governance/genocide/giants_faeries/giants_news.jpg?w=480 '{"className":"rounded-md m-auto"}')
 
-### 6.1 Documented pattern (mainstream)
+### 7.1 Documented pattern (mainstream)
 
 - **19th–early 20th c. press** frequently reported **oversized skeletons** in mounds ([Factinate summary](https://www.factinate.com/history/truth-behind-smithsonian-giants-myth)).
 - **No verified complete giant human skeleton** has passed modern physical anthropology — measurements were often **estimates**, **composite bones**, or **hoaxes** (Cardiff Giant, etc.).
 - **Hrdlička line** remains the institutional anchor.
 
-### 6.2 Author read (qualified)
+### 7.2 Author read (qualified)
 
 | Layer | Claim | Tier |
 |-------|-------|------|
@@ -176,17 +233,19 @@ This section is **primary-source grounded** — independent of giant-hoax satire
 
 ---
 
-## 7. Mound destruction — housing myth vs deliberate erasure
+## 8. Mound destruction — housing myth vs deliberate erasure
 
-### 7.1 Mainstream narrative
+### 8.1 Mainstream narrative
 
 - Thousands of mounds **lost** to **farming, urbanization, railroads, gravel mining** — often **before** legal protection.
 - **19th c. settlers** treated mounds as **convenient earth** — not uniquely anti-indigenous malice, but **collateral** to land rush.
 - **Smithsonian/BAE** excavations **also destroyed** sites in the name of science.
 
-### 7.2 Author thesis
+### 8.2 Author thesis (corollary of §2)
 
 > **Bottom line:** They were destroyed to **cover up evidence**, not to build cheap housing. The destruction **created** the myth of **"building on Indian burial grounds"** — yes deliberate, but not mere rudeness to a defeated culture; it was **erasing the original version** and replacing it with **cowboys and Indians** and nothing else.
+
+**Logical status:** This is **not a separate proof obligation** — if **MFEE** is true (§2), leveling mounds and installing the **ritual-burial substitute** is what **must** follow. §8 documents **observed behavior** that **converges** on that hinge.
 
 **Unpack:**
 
@@ -205,7 +264,7 @@ This section is **primary-source grounded** — independent of giant-hoax satire
 
 ---
 
-## 8. "Building on Indian burial grounds" — manufactured folklore
+## 9. "Building on Indian burial grounds" — manufactured folklore
 
 | Element | Mainstream | Paradigm read |
 |---------|------------|---------------|
@@ -217,9 +276,9 @@ This section is **primary-source grounded** — independent of giant-hoax satire
 
 ---
 
-## 9. National parks, monuments, and federal gatekeeping
+## 10. National parks, monuments, and federal gatekeeping
 
-### 9.1 Protected sites as narrative locks
+### 10.1 Protected sites as narrative locks
 
 When the federal government **misidentifies** a structure's origin, **protection becomes imprisonment of the error**:
 
@@ -239,7 +298,7 @@ When the federal government **misidentifies** a structure's origin, **protection
 
 **Author read:** The **gate opened** means the **official message on plaques and billboards** is the **permitted past**. Federal regulations **keep normal people away** from strata where **independent discovery** might contradict **cowboys-and-Indians prehistory** — not because every ranger knows the cover-up, but because **institutional identifiers** (tribal, Mississippian, Archaic) **channel** all anomalies back into **approved buckets**.
 
-### 9.2 Misidentification cascade
+### 10.2 Misidentification cascade
 
 ```
 MFEE catastrophe site → labeled "burial mound" → protected as "sacred indigenous earthwork"
@@ -254,7 +313,7 @@ MFEE catastrophe site → labeled "burial mound" → protected as "sacred indige
 
 ---
 
-## 10. Forced identity, giant erasure, and the "Indian" bucket
+## 11. Forced identity, giant erasure, and the "Indian" bucket
 
 The mound memory war connects to **identity compression** documented elsewhere in the repo:
 
@@ -270,7 +329,7 @@ The mound memory war connects to **identity compression** documented elsewhere i
 
 ---
 
-## 11. Repo corpus cross-reference
+## 12. Repo corpus cross-reference
 
 | Asset | Path | Use in this dossier |
 |-------|------|---------------------|
@@ -286,36 +345,38 @@ The mound memory war connects to **identity compression** documented elsewhere i
 
 ---
 
-## 12. Claims matrix — general claims, debunks, paradigm read
+## 13. Claims matrix — general claims, debunks, paradigm read
 
 | # | Claim | Mainstream debunk / status | Paradigm read | Tier |
 |---|-------|------------------------------|---------------|------|
+| 0 | **Only MFEE needs proving**; then ritual-burial label = substitute | N/A — logical dependency | **All other lanes are corollary** (§2) | **Author** |
 | 1 | Mounds are **ritual burial / ceremonial** earthworks | Archaeological consensus | **Post-MFEE catastrophe morphology** misread as intentional | Author |
 | 2 | **Mound Builder race** separate from Indians | Debunked by Cyrus Thomas (1894) | Correct debunk of **white** Mound Builder — **wrong** if used to deny **giant** or **pre-MFEE** builders | Mixed |
 | 3 | Smithsonian **admitted** destroying **thousands of giants** (2014) | **False** — satire ([Reuters](https://www.reuters.com/article/fact-check/claims-that-the-smithsonian-destroyed-thousands-of-giant-skeletons-are-many-ye-idUSL1N2ZG1I0/)) | Distraction from **real** mound dismantling | Debunk hoax; keep open on reclassification |
 | 4 | **No giants ever** | Hrdlička; no verified skeleton | **Misfiled** bones + **press** + **electric petrification** thesis | Open |
-| 5 | Mounds destroyed for **farming/housing** only | Economic history | **Primary motive: evidence erasure** | Author |
+| 5 | Mounds destroyed for **farming/housing** only | Economic history | **Downstream erasure** after substitute narrative (§2) | Author |
 | 6 | **Indian burial grounds** curse is ancient belief | Mixed ethnography + Hollywood | **Manufactured** post-destruction folklore | Author |
-| 7 | National parks **protect heritage** | Institutional mission | **Protect false past** when identification wrong | Author |
+| 7 | National parks **protect heritage** | Institutional mission | **Lock the substitute** when identification is catastrophe misfiled | Author |
 | 8 | Bilbo = **~3500 BC** intentional mound | Supported by RC dates (disputed) | **Reoccupation** of catastrophe feature; date calibration open | Open |
 | 9 | Forced **Native American** identity | Delaware §106 etc. document **state** race labels | **Compresses** Moors/giants into one **approved** indigenous slot | Partial doc |
 | 10 | Dinosaur fossils = **deep time only** | Geology consensus | **Misidentified giant** mortality from MFEE | Speculative |
 
 ---
 
-## 13. Author's open claims (registry)
+## 14. Author's open claims (registry)
 
+0. **Single hinge:** Prove **MFEE** at the mounds → the official **“Indian burial mound”** label is **automatically** a **deliberate substitute** for catastrophe; alternate mainstream explanations are **cover-up/whitewash**, not rival science (§2).
 1. **Mounds are not planned ritual architecture** — they are **MFEE instantaneous burial/fossilization** features.
-2. **Smithsonian/BAE mound program** participated in **deliberate evidence destruction**, not neutral salvage.
+2. **Smithsonian/BAE mound program** participated in **downstream erasure** after the substitute narrative was fixed — not neutral salvage.
 3. **Giant skeleton press** points at **real events** mislabeled — satire debunks do not clear the lane.
-4. **Mound leveling** prioritized **cover-up** over **housing economics**.
+4. **Mound leveling** removed catastrophe signatures while the **ritual-burial substitute** was installed.
 5. **"Building on Indian burial grounds"** was **deliberately cultivated** post-destruction folklore.
-6. **National parks/monuments** **enforce** the misidentified past through **law + plaque**.
+6. **National parks/monuments** **enforce** the substitute through **law + plaque**.
 7. **Giant erasure** and **forced Native identity** are **the same operation** viewed from stature vs census angles.
 
 ---
 
-## 14. Questions to clarify, verify, or debunk
+## 15. Questions to clarify, verify, or debunk
 
 | # | Question | How to adjudicate |
 |---|----------|-------------------|
@@ -330,14 +391,15 @@ The mound memory war connects to **identity compression** documented elsewhere i
 
 ---
 
-## 15. Weak points / remaining research TODOs
+## 16. Weak points / remaining research TODOs
 
-- [ ] Download and index **MS 2400** mound exploration reports for **destruction language**
+**Single open adjudication:** **MFEE** — stratigraphy, petrification, chronology ([§2](/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md#2-investigative-logic--one-load-bearing-proof-mfee), [§5](/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md#5-mfee-mechanism--instantaneous-burial-and-fossilization)). Cover-up lanes (§6–§11) are **converging evidence**, not separate theses requiring independent proof once MFEE is granted.
+
+- [ ] Download and index **MS 2400** mound exploration reports for **destruction language** (supports §2 convergence, not a freestanding cover-up case)
 - [ ] Full pass on **wisconsinmounds.com** Destroyed Mounds — mirror to `wget/mudflood/`
 - [ ] Bilbo: primary Haag (1957) report PDF vs popular **3540 BC** headline
 - [ ] Serpent Mound: 19th c. **destruction attempts** (farmer plow) vs modern NPS frame
 - [ ] Site-claims.json **giants-fate** — add backlink after publish
-- [ ] Optional PNG header asset (investigation.png) — not blocking
 
 ---
 
@@ -354,7 +416,8 @@ Keywords: #BurialMounds #MFEE #Smithsonian #Giants #NationalParks #SerpentMound 
 - **Living indigenous nations** and **tribal sovereignty** are not targets of this file — it critiques **federal classification** and **19th–20th c. institutional narratives**, not contemporary tribal membership fights.
 - **Satire debunks** (2014 Smithsonian giant headline) are **accepted** — they do not disprove **documented mound excavation/destruction**.
 - **Giant skeleton claims** remain **unverified** in mainstream anthropology; press clippings are **Tier B** until accessioned.
-- **MFEE fossilization** of mounds is **author thesis** — not proven by Bilbo stratigraphy alone.
+- **MFEE fossilization** of mounds is **author thesis** — the **single hinge** (§2); not proven by Bilbo stratigraphy alone.
+- **Cover-up / whitewash** reads in §6–§11 are **conditional on MFEE** — presented as **corollary**, not freestanding proof of conspiracy without the physical event.
 - **National park critique** describes **structural gatekeeping** when identification is wrong — not a call to vandalize protected sites.
 - Cross-investigations are **thematic rhymes**, not closed findings.
 - See [METHODS_DEBUNK_OVERREACH](/docs/METHODS_DEBUNK_OVERREACH_ADJACENT_DISCARD.md) before using giant-hoax debunks against adjacent mound-destruction claims.

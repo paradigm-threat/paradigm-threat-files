@@ -284,7 +284,7 @@ petrified. The island had redirected the secondary energy around its bulk and ba
   In America, Europe, Africa, and Asia, the expurgation of our large-scale human brethren is today known as the
 Smithsonian Cover Up. How and why did the giants die?
 The [giant mounds](http://www.wisconsinmounds.com/DestroyedMounds.html) found all over America may not be
-burial mounds as commonly thought, but instead may be the result of the MudFlood Energetic Event. Full dossier: [American burial mounds investigation](investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md) (Bilbo Mound, Smithsonian mound program, national-park gatekeeping, "Indian burial grounds" folklore). During this event, the
+burial mounds as commonly thought, but instead may be the result of the MudFlood Energetic Event. Reader essay: [Bilbo Mound and America's buried past](bilbo-mound-and-americas-buried-past.md). Full dossier: [American burial mounds investigation](investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md) (Bilbo Mound, Smithsonian mound program, national-park gatekeeping, "Indian burial grounds" folklore). During this event, the
 giants were wiped out by catastrophic electric discharges from the ground and atmosphere. The giants were too large and
 there was nowhere to hide. As they were struck down, their bones became instantaneously fossilized, and then buried
 forming the 'burial' mounds as well as 'dinosaur' fossil sites.
