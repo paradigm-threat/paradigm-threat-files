@@ -12,7 +12,7 @@
 
 Every paradigm-threat-files investigation that uses the `*investigation.md` filename convention, plus [reverse-crusades-comparison.md](/governance/war/investigations/reverse-crusades-comparison.md), [vril-society.md](/governance/war/investigations/vril-society.md), and [wuxing-five-planets-dark-ages.md](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) (same treatment as site indexes). Deep-dive validation in §2 below applies only where a subsection exists; the rest are listed here so nothing is orphaned.
 
-**Count:** 97 files in the lists below.
+**Count:** 98 files in the lists below.
 
 **Supplementary** (same research lane, different filename): [Chronology investigations index](/history/chronology/investigations/index-investigations.md) lists companion articles and **chronology reader essays** under `history/chronology/` (e.g. [Indigenous creation dates, legends, and geology](/history/chronology/indigenous-creation-legends-and-geology.md)). [War investigations hub](/governance/war/investigations/page.md) lists thematic clusters. Fiction-encoding threads: [Narnia planetary encoding](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md), [Tolkien redacted fact](/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md), [Swift investigation](/influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift.md), [Asimov investigation threads](/influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads.md).
 
@@ -88,6 +88,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: John Michell — *The View Over Atlantis* / *The New View Over Atlantis*](/history/chronology/investigations/view-over-atlantis-michell-investigation.md)
 - [Investigation: Wuxing and the Five Planets — Dark Ages Observational Record](/history/chronology/investigations/wuxing-five-planets-dark-ages.md)
 - [Pre-Mudflood Maps — Fra Mauro, the Sahara, and Under-500-Year Desert Claims](/history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.md)
+- [Investigation: American Burial Mounds — MFEE Fossilization, Smithsonian Erasure, and National-Park Gatekeeping](/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md)
 - [Investigation: Blood rain, Passat dust, Dust Bowl, and large-scale ecological / atmospheric shocks (post–mud-flood oddities)](/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md)
 - [Investigation: Cargo Cults — Official History, Human Behavior, and 18th–19th Century / Manna Redaction](/history/mudflood/investigations/cargo-cults-investigation.md)
 - [MFEE Investigation — Evidence and Map Changes Over Time](/history/mudflood/investigations/mfee-investigation.md)

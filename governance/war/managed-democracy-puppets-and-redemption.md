@@ -130,7 +130,17 @@ The counter-plan is not populist revenge. It is the **nationalist intelligence l
 
 The horrible crusades taught a lesson the counter-plan took seriously: **evil only begets more evil**. Attacking your enemies makes them stronger. That is why the answer is not another war on the enemy class—it is exposure, survival, and a path out.
 
-That is the same move as the first Christian revolution: Instanbul/Rome’s priests betrayed the movement, the movement **survived the betrayal**, and what followed was not a round of executions—it was a civilization that left room for **conversion**. The counter-plan’s non-negotiable goal is that **everyone** gets a real chance at redemption—not a perp walk, not an eternal cage—including the people who ran the globalist, anti-sovereignty, anti-human machine: Marxist capture, Atlantic war plans, kompromat governance, and every last instigator or agent of the deep state plans.
+That is the same move as the first Christian revolution: Instanbul/Rome’s priests betrayed the movement, the movement **survived the betrayal**, and what followed was not just a round of executions—it was a civilization that left room for **conversion**. The counter-plan’s non-negotiable goal is that **everyone** gets a real chance at redemption—not a perp walk, not an eternal cage—including the people who ran the globalist, anti-sovereignty, anti-human machine: Marxist capture, Atlantic war plans, kompromat governance, and every last instigator or agent of the deep state plans.
+
+---
+
+## Censorship — Reddit permanent ban, empty inbox (July 2026)
+
+Managed democracy does not stop at Congress. **Reddit perm-banned my account** in July 2026 — days after it removed an [**Alef and the clogged internet**](/influence/controlled_opposition/alef-and-the-clogged-internet.md) share from my **own profile page**. The app shows a red banner: *This account has been banned permanently. Check your inbox for a message with more information.* I open **Inbox** as instructed. **Empty.** No rule. No cited post. No appeal. Just Snoo asking me to turn on notifications.
+
+I have **no clue** what the ban is for. Reddit’s whole pitch is **community karma** — upvotes and downvotes sorting wheat from chaff. If my takes are wrong, **let bad karma work itself out**. You’d think that is the product. Instead: silent permanent ban, and a UI that **points you to an inbox that does not contain the explanation**. Same opacity grammar as the [GitHub ban](/influence/censorship/github-ban) and the [Instagram / Substack blocks](/influence/censorship/platform-blocks-instagram-substack-2026-06.md): enforce first, explain never—or explain in a box you cannot open. Screenshot and full log: [Reddit censorship dossier](/influence/censorship/reddit-personal-page-removal-2026-07.md).
+
+![Reddit — permanent ban banner, empty inbox (July 2026)](https://paradigmthreat.net/influence/censorship/reddit-perm-ban-empty-inbox-2026-07.png)
 
 ---
 
@@ -141,6 +151,7 @@ That is the same move as the first Christian revolution: Instanbul/Rome’s prie
 - [Obama / Malcolm X — birth record fork, mechanism lanes, woke pivot, shadow-president](https://paradigmthreat.net/governance/war/investigations/obama-malcolm-x-paternity-birth-record-curation-investigation.md)
 - [Zelensky’s letter is a memory weapon — figurehead role, Reverse Crusade IV](https://paradigmthreat.net/governance/war/zelensky-forward-history-memory-war.md)
 - [Epstein blackmail network — compromise lane hypothesis](https://paradigmthreat.net/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md)
+- [Reddit censorship — profile removal and permanent ban, empty inbox (July 2026)](https://paradigmthreat.net/influence/censorship/reddit-personal-page-removal-2026-07)
 - [Reverse crusades comparison — 1812, 1914, 1941, 2022 packaging](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md)
 - [Constitution — nationalist vs globalist battlefield](https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md)
 
@@ -162,7 +173,7 @@ Keywords: #ManagedDemocracy #HouseOfCards #Obama #MalcolmX #RINO #DINO #LindseyG
 
 **Substack:** [Managed democracy, puppets, and redemption](https://open.substack.com/pub/paradigmthreat2/p/managed-democracy-puppets-and-redemption)
 
-**Last updated:** 2026-07-12T11:05:00-04:00
+**Last updated:** 2026-07-12T12:30:00-04:00
 
 ---
 

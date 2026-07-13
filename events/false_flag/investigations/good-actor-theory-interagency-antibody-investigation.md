@@ -294,10 +294,11 @@ On this map, the cleanest **operative** question for post-9/11 franchises is not
 |-------|--------|
 | **Osbourne Cox** removed from **SigInt** desk and **Balkans**; demoted to **State** at lower clearance after **drinking** intervention | [Daily Script PDF](https://www.dailyscript.com/scripts/BurnAfterReading.pdf) |
 | **Chad Feldheimer** guesses disc contains **“Signals intelligence shit, CIA shit”** | Same |
+| **Harry Pfarrer** (George Clooney): **cell phones** → **“pretty soon they're gonna know where everyone is… at any given moment… it's almost the reality now”** | [Harry dialogue corpus](http://nldslab.soe.ucsc.edu/charactercreator/film_corpus/film_20100519/output/burn-after-reading-harry.txt) |
 | **Gardner Chubb** refuses FBI on dead body: **“Burn the body. Get rid of it.”** — **“we don’t want those idiots blundering around”** | Same |
 | Closing: **“What did we learn, Palmer.”** — **no institutional lesson** | Same |
 
-**Paradigm Threat read:** ***Burn After Reading*** extends the ***Sneakers*** interagency map into **pure farce** — the **CIA** is **past competent analysis**, **fires independent thinkers**, **breaks domestic law** to **cover its mess**, and **excludes the FBI** while **everyone** still **name-checks SIGINT** and **phone taps** in **pop-culture form**. **NSA-aligned** on the Hollywood taxonomy **by audit lane**, not by **heroic agency** — pairs [Hollywood Thread Q](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-q--burn-after-reading-2008-cia-decay--interagency-satire).
+**Paradigm Threat read:** ***Burn After Reading*** extends the ***Sneakers*** interagency map into **pure farce** — the **CIA** is **past competent analysis**, **fires independent thinkers**, **breaks domestic law** to **cover its mess**, and **excludes the FBI** while **everyone** still **name-checks SIGINT** and **phone taps** in **pop-culture form**. **Harry** (Clooney) tosses off **mass cellphone geolocation** as **imminent everyday reality** — **NSA-domain** grammar in a **Treasury nitwit’s** mouth. **NSA-aligned** on the Hollywood taxonomy **by audit lane**, not by **heroic agency** — pairs [Hollywood Thread Q](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-q--burn-after-reading-2008-cia-decay--interagency-satire).
 
 ---
 
