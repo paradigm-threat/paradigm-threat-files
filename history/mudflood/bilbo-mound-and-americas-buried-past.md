@@ -2,7 +2,7 @@
 
 America's burial mounds were catastrophe graves from a recent strike—not slow ceremonial earthworks
 
-![American burial mounds — Bilbo Mound, MFEE catastrophe graves, and the substitute narrative](https://paradigmthreat.net/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.png)
+![American burial mounds — Bilbo Mound, MFEE catastrophe graves, and the substitute narrative](https://paradigmthreat.net/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation-bilbo-mound.png)
 
 Bilbo Mound is a real hill east of Savannah, Georgia, where the Savannah River meets the sea. Archaeologists file it as site **9CH4**; you can visit the fenced rise in the swamp east of downtown. It is the starting point for an investigation into what was hidden, redacted, and whitewashed.
 
@@ -21,6 +21,8 @@ Official archaeology calls it an old Indian village mound—layers of shell and 
 The mainstream story is incremental: people dumped shell, added earth, held feasts, buried elders. That may be true for some layers. I do not believe it is the root truth for the shape of the continent. Bilbo sits beside a living city. If officials can misname one mound there, they can misname ten thousand across a hemisphere.
 
 That is why this does not stop at Bilbo. The same heap shape repeats nationwide, and each copy gets its own ancient village or burial legend. Either tens of thousands of unrelated peoples built the same accident, or one recent catastrophe made the heaps and later institutions renamed them as slow ceremony. I read the second. You cannot test that read on one dug-over hill in Savannah—you have to name the planet-scale strike I believe formed them, then see whether the official labels still hold.
+
+![American burial mounds investigation — MFEE fossilization, Smithsonian erasure, mound substitute narrative](https://paradigmthreat.net/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.png)
 
 ---
 
@@ -46,13 +48,27 @@ On the MFEE read, the burial mounds were **instantaneous**: one pulse of death a
 
 The simpler read is mass mortality: everyone who stood together when the sky and ground turned hostile stayed together under the mud. Petrification and burial were not separate acts spaced by seasons; they were the same event from different angles—electric strike, mineralization, heap. The [mechanism file](https://paradigmthreat.net/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md#5-mfee-mechanism--instantaneous-burial-and-fossilization) holds the technical chain; here I state the human picture. A conical hill with bones too friable to lift intact may be a mass grave that was never meant to be dug at all.
 
+![Giant burial at Serpent Mound — effigy earthwork read as ritual, not catastrophe grave](https://paradigmthreat.net/history/mudflood/giant_burial_serpent_mound2.jpg)
+
 ---
 
 ## From Wisconsin to Ohio to the continent — then the world
 
 Spread out from Bilbo and the same mislabel repeats across the country. Wisconsin lost long animal-shaped earthworks—serpent, bird, turtle lines—bulldozed for farms and suburbs while locals kept lists of what vanished. Ohio’s Serpent Mound still stands under state protection, but the park caption treats it as ancient ceremony and never mentions electric scarring or burial in a single afternoon. Huge platform mounds recall the scale of Cahokia, the great mound city near St. Louis; ring-shaped shell heaps line the Atlantic and Gulf coasts; conical hills cover the Mississippi valley and the Southeast. Archaeology files all of that under period names like Adena, Hopewell, and Mississippian—many labels for one physical fact: **a heap where a heap should not be if only small bodies and patient seasons built the world**. The [mound types survey](https://paradigmthreat.net/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md#4-american-mound-landscape--types-and-distribution) in the investigation breaks down the map.
 
+![Giant mounds distribution — conical and effigy heaps across the continent](https://paradigmthreat.net/history/mudflood/giant_mounds.jpg)
+
+![Wisconsin mound destruction — newspaper clipping on lost effigy earthworks](https://paradigmthreat.net/history/mudflood/giant_mounds_wisconsin_destruction.jpg)
+
+![Wisconsin elevated prairie mound map — effigy lines before suburban erasure](https://paradigmthreat.net/history/mudflood/giant_mounds_wisconsin_elevated_prairie_map.jpg)
+
+![Giant turtle effigy mound — animal-shaped earthwork in the Midwest pattern](https://paradigmthreat.net/history/mudflood/giant_turtle_mound.jpg)
+
 ![Serpent Mound, Ohio — effigy earthwork under the ceremonial caption](https://paradigmthreat.net/history/mudflood/serpent_mound.jpg)
+
+![Wisconsin mound loss — second press clipping on bulldozed earthworks](https://paradigmthreat.net/history/mudflood/giant_mounds_wisconsin_destruction2.jpg)
+
+![Wisconsin mound article — citizen record of destroyed effigy complexes](https://paradigmthreat.net/history/mudflood/giant_mounds_wisconsin_article.jpg)
 
 The pattern is not American alone. Buried first floors in cities on other continents, mud lines in digs with no honest story for how they arrived, and words like **mound**, **tell**, and **barrow** that always assume the heap came first and the explanation came later. The [MudFlood hub](https://paradigmthreat.net/history/mudflood) tracks the worldwide rhyme—buried architecture, map discontinuities, empire holes in the textbooks. America’s tens of thousands of earthworks are not a separate mystery. They are the local chapter of the same MFEE scar.
 
@@ -67,6 +83,16 @@ What changed my mind was not one hill. It was **fits**—many independent lines 
 The Smithsonian Institution and its Bureau of American Ethnology **systematically dismantled** mound fields across the eastern United States in the 1880s and 1890s—complete excavations, bones shipped or “too soft to preserve,” earthworks erased while railroads and farms had already taken their share. That is documented. Separately, nineteenth-century newspapers reported oversized skeletons in mound contexts again and again. A 2014 satire headline about the Smithsonian “admitting” giant destruction is **fake**; I name that once so nobody wastes a day on it. The satire does not erase the **real** dismantling program.
 
 ![Newspaper clippings — giant skeleton reports from mound excavations](https://paradigmthreat.net/governance/genocide/giants_faeries/giants_news.jpg)
+
+![Giant skeleton press — American mound context clipping](https://paradigmthreat.net/governance/genocide/giants_faeries/giants_america.jpg)
+
+![Giant bones from mound dig — press photo in repo corpus](https://paradigmthreat.net/governance/genocide/giants_faeries/giant_bones.jpg)
+
+![Genocide giants scale chart — stature reference from press and excavation reports](https://paradigmthreat.net/governance/genocide/giants_faeries/genocide_giants9.jpg)
+
+![Genocide giants clipping — oversized remains in institutional context](https://paradigmthreat.net/governance/genocide/giants_faeries/genocide_giants1.jpg)
+
+![Genocide giants clipping — mound-era giant skeleton report](https://paradigmthreat.net/governance/genocide/giants_faeries/genocide_giants4.jpg)
 
 The same case strengthens when you pull in other lines. Old maps show coastlines and landmasses that no longer match today’s charts—the Pacific opening up, California drawn as an island, mountain ranges appearing where earlier maps left blank space ([MFEE map file](https://paradigmthreat.net/history/mudflood/investigations/mfee-investigation.md)). The Grand Canyon and similar terrain look less like slow water and more like a discharge scar. A vast inland empire—Tartary, Horde, call it what you will—sits **missing** from the authorized past while today’s politics often feel like a second act of the same play. None of those lines alone closes the case in a courtroom. Together they read like witnesses who never met but tell the same story: **something enormous happened recently**, and the gentle prehistory we teach children is a cover story pasted over it. That cover story is the only way the Smithsonian’s behavior looks innocent **if** the mounds were only Indian cemeteries—and I do not believe they were only that.
 
@@ -120,7 +146,7 @@ This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRIS
 
 Keywords: #BilboMound #BurialMounds #MFEE #Smithsonian #Giants #MemoryWar #Savannah #ParadigmThreatFiles
 
-**Last updated:** 2026-07-13T10:25:00-04:00
+**Last updated:** 2026-07-13T10:30:00-04:00
 
 ---
 
