@@ -6,7 +6,7 @@ America's burial mounds were catastrophe graves from a recent strike—not slow 
 
 Bilbo Mound is a real hill east of Savannah, Georgia, where the Savannah River meets the sea. Archaeologists file it as site **9CH4**; you can visit the fenced rise in the swamp east of downtown. It is the starting point for an investigation into what was hidden, redacted, and whitewashed.
 
-If you are thinking about a group trip to Bilbo, hear this first: **the hill has already been picked over.** For almost a century, archaeologists, looters, and city crews have dug it, fenced it, drained it, and written the official story about what they found. You are not walking up to a sealed tomb. You are walking up to what is left after the interesting parts were removed.
+If you are thinking about a group trip to Bilbo specifically to investigate my claims, keep in mind that **the hill has already been picked over.** For almost a century, archaeologists, looters, and city crews have dug it, fenced it, drained it, and written the official story about what they found. You are not walking up to a sealed tomb. You are walking up to what is left after the interesting parts were removed.
 
 You can still go—but the dirt will not settle the argument. Whatever could have settled it is **gone**: dug up, hauled away, filed in a report that already calls the mound a village dump from thousands of years ago. From here on we think: does that story still make sense when the ground cannot talk back? Bilbo is where we start, not what proves the case.
 
@@ -116,8 +116,6 @@ To be **pro-American** is to respect the ancestry that made America possible—n
 
 Until the destruction, annihilation, and erasure of those real natives is **named and taught**—until children learn what was buried under the golf course and the subdivision—patriotism is performance. Anyone who denies the **potential reality** of these mounds, or shows no interest in digging for America’s actual past, is in effect **anti-American**: not because they hate a flag, but because they refuse the ground the flag stands on.
 
-The [Constitution and amendments battlefield file](https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) tracks how later law wars replay the same memory fight. The moral spine is simpler: honor the dead by **not lying about how they died**.
-
 ---
 
 ## Where next
@@ -144,9 +142,11 @@ No public agency publishes “quantum mud weapon from Mars, 1774” in a press r
 
 This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—that later institutions degraded an older understanding of Earth and cosmos, and that modern consensus is not the default truth. Living indigenous nations and tribal sovereignty are not the target here; the critique is **federal classification**, **museum captions**, and **nineteenth–twentieth-century institutional narratives** that may misfile catastrophe geology as “sacred indigenous earthwork.” Satire debunks of giant headlines are accepted where cited; they do not clear documented mound dismantling. Full evidence tiers and open questions live in the [investigation Limits block](https://paradigmthreat.net/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md#limits-and-disclaimers).
 
-Keywords: #BilboMound #BurialMounds #MFEE #Smithsonian #Giants #MemoryWar #Savannah #ParadigmThreatFiles
+Keywords: #BilboMound #BurialMounds #MFEE #MudFlood #Smithsonian #Giants #MemoryWar #Savannah #NationalParks #SerpentMound #MoundBuilders #IndianBurialGrounds #Wisconsin #EffigyMounds #CyrusThomas #SubstituteNarrative #Petrification #Tartary #Atlantis #Mars #GoldenAge #ParadigmThreatFiles
 
-**Last updated:** 2026-07-13T10:30:00-04:00
+**Substack:** [Bilbo Mound and America's buried past](https://paradigmthreat2.substack.com/p/bilbo-mound-and-americas-buried-past)
+
+**Last updated:** 2026-07-13T11:54:00-04:00
 
 ---
 
