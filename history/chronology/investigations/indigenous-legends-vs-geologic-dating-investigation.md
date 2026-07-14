@@ -306,4 +306,4 @@ Keywords: #IndigenousLegends #Geochronology #Radiocarbon #Dendrochronology #Oral
 
 ### Investigator notes (maintainers / LLMs)
 
-- Regenerate site index after substantive edits: from repo root, `npm run autogen` (keywords lint + index).
+- After substantive edits: from repo root, `npm run autogen` (keywords + site-claims validation). Relay reindexes on push.
