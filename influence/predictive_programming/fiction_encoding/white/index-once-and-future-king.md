@@ -41,9 +41,14 @@ Arthur's life from boyhood (Wart, tutored by Merlin) through kingship, the Round
 
 ## Saturnian Cosmology Mapping
 
-- **Arthur and Merlin** = two aspects of **Jupiter** (same character split). Merlin parallels Moses; long flowing beard = coma ejection from Jupiter's south pole = Mountain of Heaven (Sinai, Olympus).
+- **Arthur and Merlin** = two aspects of **Jupiter** (same character split): Arthur is the crowned / benevolent king face; Merlin is the uncrowned / terrible knowledge-keeper. Merlin parallels Moses; long flowing beard = coma ejection from Jupiter's south pole = Mountain of Heaven (Sinai, Olympus). His stone / cave / tree imprisonment and surviving unseen voice preserve visible removal without total death, matching Jupiter’s final departure from the Dark Age scene.
+- **Crown mechanism guardrail** = the Sun’s corona requires eclipse / conjunction and follows orbital alignment, not Jupiter’s axial rotation. A rotating Jovian coma / anode-glow asymmetry is a separate, unproved possibility.
+- **Lancelot** = **Mars**, the warrior.
+- **Guinevere / Gwenhwyfar and Morgan le Fay / Morgana** = later good/desirable and terrible/witch faces of **Venus**; Morgan retains healer residue.
 - **Holy Grail** = Tree of Life, Yggdrasil, Axis Mundi—the Golden Age configuration "lost" when it ended. The quest = seeking a new sun age.
 - **Once and Future King** = slow emergence of our Sun over time to drive away all the fallen god-kings.
+
+The method is explicitly [**non-Jungian**](/docs/PRISCA_SAPIENTIA.md#explicit-non-jungian-method-author-lock-2026-07-14): recurring roles are comparative sky-memory evidence, not products of a collective unconscious. Full layer reconciliation: [myth → planet remap registry](/influence/predictive_programming/fiction_encoding/myth-planet-remap-registry.md).
 
 ## Investigations
 

@@ -12,7 +12,7 @@ Ongoing. This investigation examines the US Civil War (1861–1865) through alte
 1. **British involvement:** England funded and supplied both sides — munitions, blockade runners, warships for the Confederacy — profiting from the conflict and keeping America divided.
 2. **Northern freed slaves as cannon fodder:** Northern freedmen, struck by severe poverty after being detached from their masters, were an easy pool to route into a massive slave army and send against the South. Emancipation and recruitment were strategic, not purely humanitarian.
 3. **Slavery as instrument, not cause:** Slavery was not the *cause* of the Civil War; it was the *instrument* that waged it. The Union weaponized emancipation and black recruitment to field an army and win the war.
-4. **Author research — DU weapon thesis:** The war may have been ended by the creation of a DU (depleted uranium) weapon. *Note: This claim requires verification. DU technology is conventionally dated to the 20th century (post-WWII). See Open Questions below.*
+4. **Author research — DU weapon thesis:** The war may have been ended by the creation, deployment, or threatened deployment of a DU (depleted uranium) weapon. The expected surviving evidence is not an ordnance archive but Jules Verne’s *From the Earth to the Moon* (1865), read here as **redacted fact**: an explicit technical disclosure of DU-like projectile logic without naming the material, manufacture, or classified radiation effects. *Note: conventional munitions history dates DU weapons to the 20th century; this file treats that conflict as part of the redaction problem, not as closure.*
 
 ---
 
@@ -78,24 +78,30 @@ The Civil War may have been ended by the **deployment or threatened deployment o
 
 This thesis is developed in the timeline article [19th Century Weapons & Declassification](/content/13.ce-19th-rise-of-communism/13.05.00-19th-century-weapons.md):
 
-- **Jules Verne, *From the Earth to the Moon* (1865):** Serialized the same year the war ended. The Columbiad cannon and Gun Club of Baltimore (Civil War artillerists) describe projectile technology that maps to depleted uranium munitions — small, dense, high-velocity penetrators producing pyrophoric and radiological effects.
+- **Jules Verne, *From the Earth to the Moon* (1865):** Serialized the same year the war ended. The Columbiad cannon, Gun Club of Baltimore, and postwar contest among weapons designers are treated here as **extremely high-likelihood redacted fact**, not ordinary fiction or loose predictive programming. The book describes the Civil War’s ending logic: artillery designers understood that a new projectile / launch system was imminent that could not be resisted. It gives the DU-like engineering frame — dense high-velocity projectile, catastrophic penetrator logic, military-industrial expertise — while omitting **what the material is**, **how it was made**, and any classified radiological effects.
 - **Pattern:** Weapons are declassified, not invented. DU (Verne 1865 → acknowledged 1991 Gulf War). See [Atlantis → Jesuit knowledge chain](/timeline/evt-the-deep-state-and-the-atlantean-priest-class).
 - **Lee's surrender (April 9):** Surrender preferable to annihilation. Four years collapsed in seven weeks.
 
+### Verne as Redacted Fact, Not Fiction
+
+**Author lock (2026-07-14):** The only evidence we should expect for a Civil War DU-class weapon is *From the Earth to the Moon*. If the weapon existed, its material, production chain, deployment doctrine, and radiation effects would have been **100% military classified**. A surviving War Department memo saying “depleted uranium ended the war” is not a reasonable target. Verne’s book is valuable precisely because it speaks in the sanctioned form: “fiction” that preserves the designer challenge, projectile logic, and postwar weapons culture while stripping the dangerous names and manufacturing instructions.
+
+The book therefore moves from **SPEC / PP color** to this file’s **primary redacted-fact clue**. It does not prove every downstream Georgia / Lee / Savannah claim by itself, but it is the main disclosure spine for why the war could end by threat of a weapon not yet admitted in public military history.
+
 ### Mainstream Skepticism
 
-Depleted uranium as a military technology is conventionally dated to the **20th century** — post-WWII. No documented DU ordnance exists in 1865 archival records. The thesis rests on:
+Depleted uranium as a military technology is conventionally dated to the **20th century** — post-WWII. No documented DU ordnance exists in 1865 archival records. Under this thesis, that silence is expected if the weapon and its radiation knowledge were classified. The thesis rests on:
 
 **Narrative control (modern parallel):** How **DU-class** battlefield harm stays **unreported** or **disputed** worldwide — documented Bosnia/IWPR pattern, Iraq silence, Iran **2026** blind spot — is argued in [Islamabad Installment III](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) and [investigation §2.1.1](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation.md). See also [nukes-dont-exist investigation](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md).
 
-1. Verne's fiction as disclosure (predictive programming pattern)
+1. Verne’s *From the Earth to the Moon* as **redacted-fact disclosure**, not merely fiction
 2. The suddenness of Confederate collapse (seven weeks)
 3. The timeline's broader thesis: controlled declassification from priest-class knowledge base
 
 ### Action
 
-- [ ] Cross-reference Verne's engineering specifics with actual 1865 ordnance
-- [ ] Trace any primary-source references to "heavy projectile" or unusual Union artillery in late war
+- [ ] Extract Verne’s projectile / Gun Club / designer-challenge passages into a redacted-fact evidence table
+- [ ] Cross-reference Verne’s engineering specifics with known 1865 public ordnance as the **cover layer**, not as the expected classified DU record
 
 ---
 
@@ -118,6 +124,7 @@ Depleted uranium as a military technology is conventionally dated to the **20th 
 - Post-war: Reconstruction, sharecropping, Jim Crow — continuation of economic and social subordination under new forms
 - [Constitution & amendments — nationalist vs globalist battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) — TONA vs 1865 13th; 14th birthright; Liberty §12; cascade §13; *Trump v. Barbara* §14
 - [TONA, Not War — Liberty’s Rebrand](/governance/constitution/tona-not-war-liberty-rebrand.md) — reader essay companion
+- [Georgia naming — Savannah Civil War / DU land-intact deal (§7)](/history/chronology/investigations/georgia-mirror-naming-rus-horde-mars-investigation.md) — localizes DU thesis: Fort Pulaski rifled-cannon cover, Savannah Christmas surrender as land-preservation bargain, Georgia as expected longest holdout
 
 ---
 
@@ -125,7 +132,7 @@ Depleted uranium as a military technology is conventionally dated to the **20th 
 
 - [ ] Quantify British financial flows to Union vs. Confederacy
 - [ ] Map recruitment demographics: free North vs. liberated South
-- [ ] Author clarification on DU weapon thesis — substance, source, mechanism
+- [x] Author clarification on DU weapon thesis — expected evidence is Verne as redacted fact; official DU records are not expected
 - [ ] Compare with [Soviet collapse](soviet-collapse-investigation.md) — external orchestration, media, division
 - [ ] Fomenko/New Chronology treatment of US Civil War
 

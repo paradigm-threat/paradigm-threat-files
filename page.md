@@ -117,8 +117,10 @@ or *not* believing.
 
 #### History
 
-* [Prisca sapientia (timeline)](https://paradigmthreat.net/timeline/evt-prisca-sapientia) — Epistemic foundation: ancient wisdom degraded, not superseded; [reference doc](/docs/PRISCA_SAPIENTIA.md).
+* [Prisca sapientia (timeline)](https://paradigmthreat.net/timeline/evt-prisca-sapientia) — Epistemic foundation: ancient wisdom degraded, not superseded; explicitly non-Jungian sky-memory method in the [reference doc](/docs/PRISCA_SAPIENTIA.md#explicit-non-jungian-method-author-lock-2026-07-14).
 * [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — **Master cross-ref** for word redaction: Protestant mistranslation, *nice* / *left-right* / *righteous*, eponyms (Patsey, Moran, Bacon); **AU-027**.
+* [Georgia was the Second Promised Land](/history/chronology/georgia-was-the-second-promised-land.md) — Reader essay: 1492 both-sides flight, George=Mars whitewash proof, Savannah DU; companion [AU-033 investigation](/history/chronology/investigations/georgia-mirror-naming-rus-horde-mars-investigation.md).
+* [Georgia naming — Caucasus mirror, Hanover kings, Mars / Saturnian lanes](/history/chronology/investigations/georgia-mirror-naming-rus-horde-mars-investigation.md) — Twin *Georgia* toponyms; pluralism stack; British scorched earth / Civil War forests; Savannah DU land-intact deal; **1492 both-sides flight** founding spirit; **AU-033**.
 * [The Hidden History of Words](/history/chronology/the-hidden-history-of-words.md) — Reader essay: lexical reset, Latin breakaway, Horde redaction wall, curated word glossary; **AU-028**.
 * [Eponym words — forgotten people](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) — Lane B: person → word → actor/brand oscillation.
 * [Author-unique theories — registry](/history/chronology/investigations/author-unique-theories.md) — Hub of author-only claims with no close prior art; **AU-026** Nicaea/*nice*; **AU-028** Latin breakaway.
@@ -185,6 +187,7 @@ or *not* believing.
 * [The Urantia Book (1955) -- Controlled Opposition and Predictive Programming](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md) — Open: CO and PP read of the text.
 * [*Terranigma* — Beruga, bioweapon & eschatology PP (open)](/influence/predictive_programming/investigations/terranigma-beruga-predictive-programming-investigation.md) — 1995 JRPG: cryo scientist, **Asmodeus** virus, robot triage, Mosque/NeoTokio & north-map rhymes; dossier.
 * [White vs Excalibur: Sulphur + Mercury](/influence/predictive_programming/fiction_encoding/white/white-excalibur-sulphur-mercury-investigation.md) — Book vs movie; managed disclosure question.
+* [Myth → planet remap registry](/influence/predictive_programming/fiction_encoding/myth-planet-remap-registry.md) — Layered Arthurian/planetary remaps (Round Table vs Once and Future vs Georgia George=Mars split), corona/rotation guardrail, and non-Jungian method.
 * [T.H. White, The Once and Future King](/influence/predictive_programming/fiction_encoding/white/white-saturnian-round-table-investigation.md) — Saturnian round table and Arthur encoding.
 * [Zombie Genre](/influence/predictive_programming/fiction_encoding/zombies/index-zombie-genre-investigation.md) — Genre history, plague imagery, managed disaster narratives.
 * [The 1979 Religious Revival](/influence/religion/1979-religious-revival-investigation.md) — CIA backing and global revival phenomenon.

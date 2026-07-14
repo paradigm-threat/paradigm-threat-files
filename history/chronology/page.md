@@ -695,6 +695,22 @@ dragons and witches (Venus). During this period, the nonlinear orbit between pla
 resulting in the
 inevitable [Breaking of the Round Table.](https://artifactsjournal.missouri.edu/2015/08/king-arthur-and-his-part-in-the-breaking-of-the-round-table/)
 
+**Expanded Dark Age myth map (author refinement, 2026-07-14):** Arthur and Merlin preserve two literary faces of
+**one Jupiter**: Arthur is the crowned, benevolent king; Merlin is the uncrowned, terrible knowledge-keeper whose
+coma-beard also survives in the Jupiter/Moses complex. **Lancelot is Mars.** Venus is likewise split by later Western
+moral literature into **Guinevere / Gwenhwyfar**, the desirable face, and **Morgan le Fay / Morgana**, the terrible
+witch face that still retains healer residue. The **Holy Grail** is the lost collinear Golden Age plasma axis; its
+restoration was promised but never occurred. The *Once and Future King* return-theme belongs to the later **Sun**
+destiny layer and does not erase Arthur-as-Jupiter during the Round Table reign.
+
+This comparison is explicitly **non-Jungian**: recurring roles are tested as intelligent eyewitness memory of a changed
+sky, not explained through a collective unconscious or ancestral childishness.
+
+The crown mechanism must remain precise. The **Sun's corona** around Jupiter requires eclipse / conjunction and follows
+**orbital alignment**, not Jupiter's axial rotation. A localized Jovian coma or anode glow could change with rotation
+only if its emitting structure co-rotated; that exact mechanism and period remain unproved. See the
+[myth → planet remap registry](/influence/predictive_programming/fiction_encoding/myth-planet-remap-registry.md).
+
 #### Pyramids were Portals
 
 During this time, it was again possible for humans to exploit powerful natural Birkeland Currents coursing between the
@@ -746,6 +762,12 @@ seemed to have the effect of calming the destructive rage of Venus, and She retu
 around Jupiter changes slightly resulting in a _260-day year_ and Earth manages to **capture The Moon**, which becomes
 visible for the first time. With the Absu significantly reduced, stars were also visible in the southern hemisphere for
 the first time.
+
+The later **Merlin** tradition retains this disappearance-and-return grammar without requiring a complete return to
+ordinary life. Across Malory and Vulgate / Post-Vulgate variants, Merlin is sealed beneath stone or in a cave / tree
+prison; an unseen voice can remain audible after his visible removal. In the author map, that living entombment
+foreshadows Jupiter's final departure from the Earth-centered Dark Age scene: sealed away, still remembered as an
+active voice, not simply annihilated.
 
 ### 2193 B.C.E. Earth leaves last Absu layer and Jupiter consumes Venus again
 
@@ -869,6 +891,13 @@ Based on the increase in the number of days (+92) in a year, we can ascertain th
 orbit and is on an independent orbit around the Sun. The _newly independent_ inner planets begin to form final
 electro-magnetic fields. Full exposure to the Sun causes the Earth to become covered in obscuring clouds and a plague
 of darkness lasting 20 years.
+
+This is the final sky transition behind the author’s **natural first promised land**. Priests had promised restoration
+of the Grail / collinear configuration; it never returned. After the obscuring darkness cleared, the actual Sun became
+the sovereign visible from everywhere on Earth. That worldwide solar deliverance is the **Once and Future King**
+destiny layer and the first promised land in the natural, age-of-the-world sense—not the separate 1492 BCE/CE
+geographic exodus sequence. See the
+[promised-land investigation](/history/mudflood/investigations/promised-land-investigation.md#0-natural-first-promised-land--golden-age-fall-failed-grail-sun-out-author-lock-2026-07-14).
 In [Worlds in Collision](https://books.google.com/books?id=FJst27kSVBgC&pg=PA189&lpg=PA189&dq=When+Venus+sprang+out+of+Jupiter+as+a+comet)
 , Immanuel Velikovsky describes other plagues like frogs and locusts:
 

@@ -114,6 +114,8 @@ The argument is not that every culture tells the *same narrative* with the same 
 
 Furthermore, the Saturn theory holds that ancient myth and ritual typically commemorate dramatic events actually witnessed by human beings — not abstract psychology. Recurring anomalies across cultures (fire-breathing dragons eclipsing the sun, celestial ladders, sacred marriages of Venus and Mars) are too specific and improbable to arise independently from "universal human needs." When the same improbable motif appears across unrelated cultures, something other than coincidence is indicated.
 
+**Author-method note:** This is explicitly **not a Jungian explanation**. The author rejects Carl Jung’s collective-unconscious and archetypal-psychology proposals as products of missing the catastrophist context and underrating ancestral intelligence. In this project, *archetype* is descriptive shorthand for a repeated role in the evidence, not a psychic cause. The working hypothesis is that ancestors intelligently preserved witnessed sky events. See [Prisca sapientia — Explicit non-Jungian method](/docs/PRISCA_SAPIENTIA.md#explicit-non-jungian-method-author-lock-2026-07-14).
+
 **Ancient texts cited in this project that describe the same celestial events:**
 - *Genesis* 1:3–4 (Hebrew Bible) — "Let there be light"; God divides light from darkness. Interpreted as the moment Saturn's system enters the Sun's orbit and the collinear configuration ignites.
 - *Popol Vuh* (Maya-Quiché) — Describes a previous "sun" that "remained fixed in the sky like a mirror. Certainly it was not the same sun which we see, it is said in their old tales." Also references *Hurakan* as a southern-hemisphere light source before the Golden Age.

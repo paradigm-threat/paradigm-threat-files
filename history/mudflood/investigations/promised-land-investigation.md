@@ -16,6 +16,12 @@ This investigation examines the **whole concept of deliverance to a promised lan
 
 # PART ONE: OPEN THEORY — THE SEQUENCE OF PROMISED LANDS
 
+## 0. Natural first promised land — Golden Age fall, failed Grail, Sun-out (author lock 2026-07-14)
+
+**Deeper layer than the 1492 BCE/CE geographic pair below.** After the **Golden Age** fell, priests promised restoration of the **Holy Grail** — the **collinear configuration** (polar plasma axis / Tree of Life). That restoration **never happened**. Earth instead left Jupiter’s nonlinear orbit; after the timeline’s obscuring solar darkness cleared, the promised land was reached **everywhere on Earth** when the **Sun finally came out**. This is the solar age as deliverance and the **Once and Future King** destiny layer—not a claim that reigning Round Table Arthur was never Jupiter. Cite: [timeline — Passover / independent solar orbit](/timeline/evt-the-passover-of-comet-venus-and-exodus-from-the-py); [Saturnian Round Table — Grail lost; Once and Future King → Sun](/influence/predictive_programming/fiction_encoding/white/white-saturnian-round-table-investigation.md); [myth → planet remap registry](/influence/predictive_programming/fiction_encoding/myth-planet-remap-registry.md).
+
+**Georgia as second promised land** (Atlantic 1492 fugitive/plural transplant) is the local thesis in [Georgia was the Second Promised Land](/history/chronology/georgia-was-the-second-promised-land.md) and [AU-033 §8.0](/history/chronology/investigations/georgia-mirror-naming-rus-horde-mars-investigation.md). **Do not confuse** this natural “first” with §I’s **1492 BCE Europe = first exodus-land** (elite geographic deliverance). Both are author layers; label which “first” you mean.
+
 ## I. 1492 BCE — First exodus; Europe as first promised land (author's theory)
 
 - **Event (open theory):** The rulers of the **pyramidal empire** lost control of it and **lost the faith of the people**. They had to **leave in an exodus**. It was **only the leadership** in the exodus—not the general population.

@@ -1,6 +1,9 @@
 # Zur Frage der psychologischen Grundlagen und des Ursprungs der Religion — Index
 
 > **TL;DR:** Lecture delivered 25 March 1921 at the Psychological Society of Sofia (translated from Bulgarian). Kinkel applies Freudian psychoanalysis to the origin and development of religion, arguing for a psychoanalytic sociology in which religious ideas and moods derive from universal infantile complexes.
+
+**Project method (archive, not endorsement):** This index preserves Kinkel’s Freudian / developmental-psychology framing for research. Paradigm Threat does **not** adopt that reduction of ancestral religion to childish projection. Recurring myth is tested first as intelligent eyewitness sky memory; see [Prisca sapientia — Explicit non-Jungian method](/docs/PRISCA_SAPIENTIA.md#explicit-non-jungian-method-author-lock-2026-07-14).
+
 **Author:** Dr. Johann Kinkel (Ivan Kinkel)  
 **Published:** 1922 (Internationaler Psychoanalytischer Verlag, Leipzig–Wien–Zürich)  
 **Subtitle:** *Beitrag zum System der psychoanalytischen Soziologie*  

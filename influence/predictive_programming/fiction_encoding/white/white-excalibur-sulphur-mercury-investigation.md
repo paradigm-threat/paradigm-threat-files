@@ -76,10 +76,10 @@ Mandrake root — love potion, aphrodisiac; overdose causes pain and death. Morg
 
 **Encoding logic:**
 
-- **Arthur and Merlin** = two aspects of the same character—Jupiter. Merlin parallels Moses (both = Jupiter); long flowing beard = coma ejection from Jupiter's south pole = Mountain of Heaven.
-- **Merlin** = keeper of ancient/occult knowledge; archetypal British wizard.
-- **Arthur** = once-and-future king of Britain (= the slow emergence of our Sun, which will drive away all fallen god-kings).
-- **Morgana** = one who seeks and abuses the Art—initiate who turns it to destructive ends.
+- **Arthur and Merlin** = two aspects of the same character—Jupiter. Arthur is its crowned / benevolent king face; Merlin its uncrowned / terrible knowledge-keeper. Merlin parallels Moses (both = Jupiter); long flowing beard = coma ejection from Jupiter's south pole = Mountain of Heaven. The Sun-corona crown requires orbital conjunction, not Jupiter's axial rotation; a rotating local Jovian glow remains a separate, unproved possibility.
+- **Merlin** = keeper of ancient/occult knowledge; recurring British wizard role (**descriptive**, not Jungian).
+- **Arthur as reigning king** = Jupiter; **Once-and-Future / return language** = the slow emergence of our Sun, which drives away the fallen god-kings. These are different layers, not competing assignments.
+- **Morgana** = terrible / witch face of Venus and one who seeks and abuses the Art; **Guinevere / Gwenhwyfar** carries the desirable face. Morgana’s healer residue prevents this later Western moral split from becoming absolute.
 - Placing the sulphur–mercury catechism in a **fantasy film** allows it to be **hidden in plain sight**: dismissible as fiction, but legible to those who recognise the formula.
 
 **Predictions if true:**
@@ -127,7 +127,7 @@ The sulphur–mercury addition connects to the [Saturnian Round Table thesis](wh
 
 The Arthur myth encodes **both** (a) the celestial Round Table configuration (Jupiter/Mars/Venus/Earth) *and* (b) lost metallurgical/alchemical knowledge. The timeline's [Imperial Technology](/timeline/evt-imperial-technology-and-the-knowledge-of-the-horde) article argues that medieval alchemy is "degraded residue of Horde industrial metallurgy"—"transmutation of metals" encodes real processes (cupellation, geopolymer). When Empire fragmented, metallurgical techniques became orphaned trade secrets; later generations read surviving texts as mysticism.
 
-**Merlin** (Jupiter's wizard-aspect, parallel to Moses) in this framing is keeper of *both* the cosmological memory (Round Table = planetary config; Grail = Tree of Life/Yggdrasil = Golden Age "lost" when it ended) *and* the metallurgical Art. Excalibur's addition of the sulphur–mercury catechism **reconnects** the film's Arthur myth to this dual strand: the wizard who knows the celestial configuration also knows the transmutation formula.
+**Merlin** (Jupiter's wizard-aspect, parallel to Moses) in this framing is keeper of *both* the cosmological memory (Round Table = planetary config; Grail = Tree of Life/Yggdrasil = Golden Age "lost" when it ended) *and* the metallurgical Art. His older living-entombment grammar—sealed under stone or in a cave / tree prison, with an unseen voice surviving in variants—maps Jupiter’s visible departure without simple annihilation. *Excalibur*'s addition of the sulphur–mercury catechism **reconnects** the film's Arthur myth to this dual strand: the wizard who knows the celestial configuration also knows the transmutation formula.
 
 ### 2. Electrical Discharge and Transmutation
 

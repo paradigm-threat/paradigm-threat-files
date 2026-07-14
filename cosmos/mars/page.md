@@ -718,9 +718,11 @@ Regardless, 'Apostolic' Christianity was generally unconvincing to the world at 
 and had to be reasserted through many bloody
 [Christian Crusades](https://www.differentspirit.org/resources/crusades.php).
 Polytheism became Paganism and all tails of the Gods would be re-written as purely human stories.
-Some examples are the stories of both King Arthur and Jesus Christ
-which are [allegories](http://solarmythology.com/lessons/christ2002.htm) for the Sun appearing to earth,
-creating the first Seasons.
+Some examples are the stories of both King Arthur and Jesus Christ, later parked as
+[solar allegories](http://solarmythology.com/lessons/christ2002.htm) for the Sun appearing to earth and
+creating the first Seasons. That Sun/return language is a **destiny layer** (Once and Future), not a claim
+that reigning Round Table Arthur was never Jupiter — see the
+[myth → planet remap registry](/influence/predictive_programming/fiction_encoding/myth-planet-remap-registry.md).
 Publishing redacted pagan beliefs through mass media was the Deep State's primary subterfuge for
 controlling humanity through religion.
 
