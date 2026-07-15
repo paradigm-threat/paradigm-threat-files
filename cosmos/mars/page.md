@@ -1,4 +1,4 @@
-![# The Deep State is on Mars
+# The Deep State is on Mars
 
 This article has been rewritten with the following updates.
 Originally I said the Martian appearances in the War of the Worlds book must have been a redaction by H.G. Wells,
@@ -394,7 +394,7 @@ Ba'al, Elah, El Roi, Elyon, HaShem or just 'God'.
 **Related reading:** [The Mars Dagger — What Leaks When Buried Knowledge Surfaces](/cosmos/mars/mars-dagger.md) — keeper-cult fracture, Joseph Smith as **organic leak** of buried pre-cataclysmic knowledge (not Martian recruitment), and **containment** at Carthage 1844. Technical dossier: [mars-dagger investigation](/cosmos/mars/investigations/mars-dagger-investigation.md). The Smith family's inscribed **Mars dagger** (Barrett-line sigils, Adonai on blade) is **operator hardware** from a fractured planetary cult line — distinct from breakaway Mars **reacting** to seal a scaling leak.
 
 
-![### The Gotthard Base Tunnel [Opening Ceremony](https://www.bbc.com/news/in-pictures-36428799) in Switzerland:
+### The Gotthard Base Tunnel [Opening Ceremony](https://www.bbc.com/news/in-pictures-36428799) in Switzerland
 
 
 ![CERN Ritual 4](/cosmos/mars/cern_religious_ritual_at5.jpg?w=360 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4", "priority":"true"}')
@@ -453,7 +453,7 @@ In modern times, breeding on Earth became strictly controlled under "Marital" We
 Saturnian Cosmology reminds us that humans existed on Mars in the Golden Age.
 
 
-![### Martians speak Latin
+### Martians speak Latin
 
 Why else would
 a [dead language](https://www.babbel.com/en/magazine/fact-vs-fiction-is-latin-a-dead-language)

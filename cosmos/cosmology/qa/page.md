@@ -49,4 +49,10 @@ When adding **Q3+**, append a row here and add a file; run `npm run autogen` fro
 - [Plasma cosmology hub](/cosmos/cosmology/a.md) — Alfvén / electric universe cross-links
 - [The Incorrectly Scaled Universe](/cosmos/cosmology/the-incorrectly-scaled-universe.md) — distance-ladder / scaling critique
 
+## Browse this section
+
+<AutoIndex sort="name-asc" title="Files in this section" />
+
+---
+
 Keywords: #Cosmology #CosmologyQA #BigBang #BigMelt

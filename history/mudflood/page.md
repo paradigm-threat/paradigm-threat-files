@@ -80,7 +80,7 @@ This was the final war between the *Royal* Christian giants who descended direct
 and the smaller humans representing 'Apostolic' Christianity (ruled by the Romanov dynasty).
 In the war to stop Pugachev, nearly all the human giants of the earth were eliminated.
 
-![## Hypothesis: The MudFlood was caused by Energy Weapons on Mars
+## Hypothesis: The MudFlood was caused by Energy Weapons on Mars
 
 The collection of memories known as the “MudFlood” may have come from a series of catastrophic events that occurred
 after the Pugachev Rebellion of 1773 when strategic positions on the Earth were targeted by

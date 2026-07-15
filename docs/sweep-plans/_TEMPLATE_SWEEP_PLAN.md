@@ -1,17 +1,17 @@
-# Sweep plan: {Investigation title}
+# Sweep plan: [Investigation title]
 
 **Implementation status:** PENDING AUTHOR REVIEW  
 **Sweep date:** YYYY-MM-DD  
 **Trigger:** daily | post-update | author-requested  
 **Target investigation:** `{repo-relative-path-to-investigation.md}`  
-**Last investigation update (file):** {date from file or git}  
-**Prior plan for this slug:** {path or none}
+**Last investigation update (file):** [date from file or git]  
+**Prior plan for this slug:** [path or none]
 
 ---
 
 ## Executive summary
 
-{3–6 sentences: overall health, biggest risk to credibility, biggest opportunity (investigation gold), recommended author action priority.}
+[3–6 sentences: overall health, biggest risk to credibility, biggest opportunity (investigation gold), recommended author action priority.]
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 2. Pushback — why you might be on the wrong track
 
-### Claim: {short label}
+### Claim: [short label]
 
 - **Author position:** …
 - **Skeptic counter:** …
@@ -33,7 +33,7 @@
 - **Within-repo tension:** … (link other investigation if any)
 - **Suggested bridge or reframe:** … (suggestion only — author decides)
 
-{Repeat per major author thesis block.}
+[Repeat per major author thesis block.]
 
 ---
 
@@ -116,5 +116,5 @@
 ## Investigator notes (sweep run metadata)
 
 - **Model / session:** …
-- **Repos searched:** paradigm-threat-files {+ others if any}
+- **Repos searched:** paradigm-threat-files [+ others if any]
 - **Web searches run:** …

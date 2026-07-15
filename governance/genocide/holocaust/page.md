@@ -33,6 +33,10 @@
 - [Palestine genocide dossier](/governance/genocide/palestine/a.md)
 - [WWII Reverse Crusade III](/timeline/evt-world-war-ii-reverse-crusade-iii)
 
+## Browse this section
+
+<AutoIndex sort="name-asc" title="Files in this section" />
+
 ---
 
 Keywords: #Holodomor #Holocaust

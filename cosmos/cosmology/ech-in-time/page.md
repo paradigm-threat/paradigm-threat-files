@@ -143,6 +143,10 @@ More coming soon
 
 
 
+## Browse this section
+
+<AutoIndex sort="name-asc" title="Files in this section" />
+
 ## Ech-In-Time Chat
 
 <ChatRoom channel="ech-in-time" title="Censorship Chatroom"/>

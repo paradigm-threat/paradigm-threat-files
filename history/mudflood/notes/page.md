@@ -394,6 +394,10 @@ influence/conspiracy theory, you **will** encounter a series of corporate-funded
 of your investigation - and into controlled opposition conclusions; New Age movements like 5D, Flat Earth, Fetus-looking
 Ancient Aliens, or invisible Gods. Keep an open mind, Inspector - and happy investigating!
 
+## Browse this section
+
+<AutoIndex sort="name-asc" title="Files in this section" />
+
 ---
 
 Keywords: #Mudflood

@@ -12,6 +12,10 @@ Pluto is treated here as an **investigation** rather than a settled fact: whethe
 - [History / Chronology](/history/chronology) — Norse Helheim/Pluto (underworld) mapping; Dark Ages five planets.
 - [Wuxing and Five Planets](/history/chronology/investigations/wuxing-five-planets-dark-ages) — No Pluto in Dark Ages configuration.
 
+## Browse this section
+
+<AutoIndex sort="name-asc" title="Files in this section" />
+
 ---
 
 Keywords: #Pluto

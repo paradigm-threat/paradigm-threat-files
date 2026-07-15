@@ -20,4 +20,10 @@ Constitutional text, amendments, and sovereignty threads in the Paradigm Threat 
 
 **Related (other folders):** [US Civil War](/governance/war/investigations/us-civil-war-investigation.md); [American Revolution](/governance/war/investigations/american-revolution-investigation.md); [constitutional coining / Fed](/governance/usury/d.md); [slave trades](/governance/slavery/slave-trades-and-moor-etymology-investigation.md).
 
+## Browse this section
+
+<AutoIndex sort="name-asc" title="Files in this section" />
+
+---
+
 Keywords: #Constitution #Governance
