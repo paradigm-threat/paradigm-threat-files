@@ -702,6 +702,64 @@
     ]
   },
   {
+    "id": "king-george-planet-mars",
+    "title": "King George was planet Mars",
+    "claim": "The site identifies King George as a later royal personification and laundering shell for planet Mars. George began as an important Mars name and warrior office; St. George, Horus, Maurus/Moors, Mavors, and Mars preserve branches of that identity after imperial pronunciation collapsed. The harmless Greek 'earth-worker' or farmer gloss is treated as a later semantic demotion, while the George II dedication of Georgia fixed the planetary name under a human king.",
+    "answerOpener": "King George was planet Mars in the site’s model: the human king and royal dedication are later shells over an older George/Mars warrior identity.",
+    "bullets": [
+      "George is the mounted warrior and dragon-killer occupying the Mars slot in surviving sky myth.",
+      "Pronunciation drift runs through George, Spanish Jorge ('Hor-heh'), Horus/Horos/Heru, Maurus/Mauros/Moors, archaic Latin Mavors, and Mars.",
+      "After the empire fell, official pronunciation was reconstructed from damaged or consonantal books while ordinary people preserved regional spoken forms.",
+      "The Greek farmer/earth-worker gloss demotes the sky-warrior name; King George II and the Georgia charter provide the later royal cover."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "The direct King George = planet Mars identification, pronunciation-drift chain, semantic-demotion reading, and twin-Georgia laundering model form AU-033.",
+    "topics": [
+      "king george",
+      "george",
+      "georgia",
+      "mars",
+      "st george",
+      "jorge",
+      "horus",
+      "maurus",
+      "moors",
+      "mavors",
+      "pronunciation drift",
+      "lexical redaction"
+    ],
+    "demoQuestions": [
+      "Who was King George really?",
+      "Was King George planet Mars?",
+      "Why was Georgia named George?",
+      "How are George, Horus, Moors, and Mars connected?"
+    ],
+    "searchQueries": [
+      "king george planet mars george jorge horus maurus mavors",
+      "georgia named after mars st george lexical redaction"
+    ],
+    "searchPrefixes": [
+      "history/chronology/",
+      "cosmos/mars/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/georgia-was-the-second-promised-land.md",
+      "history/chronology/investigations/georgia-mirror-naming-rus-horde-mars-investigation.md",
+      "history/chronology/the-hidden-history-of-words.md"
+    ],
+    "relatedClaimIds": [
+      "martians-human",
+      "chronology-revision",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "The site treats Georgia as merely named for an unrelated British king.",
+      "The site accepts farmer or earth-worker as the original meaning of George.",
+      "Fomenko explicitly proves the exact George-to-Mars chain; he supplies the pronunciation-flexion method, while the chain is Ari Asulin’s identification."
+    ]
+  },
+  {
     "id": "martians-human",
     "title": "Martians and human identity",
     "claim": "Ancient Martians existed since the Golden Age and became a breakaway civilization. Other beings may not look “human-built,” but in this site’s frame they share the same human genealogy. Mars ties to deep-state power; biomechanical hosts and CIA 1984 RV “people on Mars” are supporting documents—not the whole story.",
