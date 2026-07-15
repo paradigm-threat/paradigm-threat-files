@@ -2,13 +2,15 @@
 
 Lexical reset, Latin breakaway, and the Horde redaction wall behind everyday English
 
-![The Hidden History of Words — lexical reset, Latin breakaway, and the Horde redaction wall (article hero)](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.png)
+The Hidden History of Words — lexical reset, Latin breakaway, and the Horde redaction wall (article hero)
 
 Every dictionary entry is a dead end. Trace a word backward through the handbook and you eventually hit the same wall: the deliberate erasure of the Rus–Horde empire from world memory.
 
 > **TL;DR:** After the Horde fracture, nearly **no English word** still points to a remembered origin. Vocabulary was **reset** through Protestant mass print, Latin-West mistranslation, and **forgotten eponyms** buried under handbook etymology. **Latin** kept changing through the medieval period — a breakaway civilization's language, not a deep antiquity stratum — fed by **informational passageways** (visions, telepathy to religious leaders). English was **pinned** by a tiny print elite (Shakespeare, Bacon, King James, Scaliger) before mass literacy; Fomenko reads their material as **eastern** in origin. Below: the meta-thesis and a curated word glossary; full audit in the [lexical redaction hub](https://paradigmthreat.net/history/chronology/investigations/lexical-redaction-hub-investigation.md).
 
 ---
+
+
 
 ## The Reset Nobody Teaches
 
@@ -20,6 +22,8 @@ On the Fomenko read, everything Shakespeare wrote and much of what Bacon redacte
 
 ---
 
+
+
 ## Latin as Breakaway Language
 
 Latin is a **breakaway language** from a **breakaway civilization**, not a stratum that has been stable since Rome. It **kept changing through the medieval period** — which fits if Latin is the product of church and empire, and which undercuts “ancient alien” narratives: if extraterrestrials involved in Earth history were truly ancient, their language should be **stable**. Medieval Latin drifted at **one degree of separation** from living speech, heavily pushed by world events — possibly off-world events.
@@ -30,27 +34,37 @@ The **Nicaea / *nice*** mnemonic — eastern Christians as foolish, then **nice*
 
 ---
 
+
+
 ## The Horde Redaction Wall
 
 Every English word you trace eventually hits the **deliberately erased** Russian Horde empire. Because that layer was scrubbed from all record during the medieval fracture, **no dictionary entry** preserves a clean chain to its real origin.
 
-![Dictionary trail ending at redaction — lexical history redaction wall](https://paradigmthreat.net/history/chronology/redacted.jpg)
+Dictionary trail ending at redaction — lexical history redaction wall
 
 Latin spread from Horde imperial practice across vassal states and colonies. After the Horde was destroyed, most of its languages were destroyed with it. What remained for the fragments to choose between was **Latin in the west** and **Cyrillic in the east**. Vulgar indigenous tongues were **collapsed** in consolidation waves — the French Revolution is the textbook example of regions forced into one national language while local speech was burned out of the map.
+
+The collapse did not erase speech and books at the same rate. It broke the **authoritative pronunciation chain**. Written texts survived after the imperial readers who knew how to pronounce their names had been scattered, killed, or divided among hostile successor states. Later translators found consonantal, damaged, and recopied books and supplied vowels and sounds from their own languages. Many of those reconstructions were wrong; some were politically useful because they made related names look unrelated.
+
+Ordinary people preserved a different record. They continued using regional slang, accents, and inherited versions of the old names without knowing the lost imperial spelling rules. Folk pronunciations are therefore not merely corrupt descendants. They may preserve the spoken continuity that official translation lost. Fomenko and Nosovsky’s [linguistic preface](https://chronologia.org/en/how_it_was/preface.html) emphasizes consonant-only writing, later free vocalization, and confusion among sounds; *[Empire* §16.15](https://chronologia.org/en/chronologia5/empire16_10.html#i1615) gives Egyptian **Rutennu / Lutennu** and notes the same R/L flexion in Chinese. Their [Horde / Hellas comparison](https://chronologia.org/en/how_it_was/05.html) applies the method in Europe. The redaction wall is therefore also a wall between **living regional mouths** and **later official readers of books**.
 
 **England** belongs in the same toponym class — see **Place Names → England** below for the full **name-relocation** read (Horde imperial name, not only a province label).
 
 ---
 
+
+
 ## Closure Authors and Language Wars
 
 Mass translation projects — the King James Bible, Scaligerian chronology, the Shakespeare folio — function as **seal**: brilliant-author myth. We are meant to believe one genius simply **invented** the modern lexicon and we can trust the handbook forever.
 
-![Bible redaction — mass translation as lexical seal](https://paradigmthreat.net/history/chronology/christ/bible_was_redacted.jpg)
+Bible redaction — mass translation as lexical seal
 
 **French** can be read as a deliberately **difficult** language that eastern tongues could not pronounce easily — a short consolidated history after the Revolution destroyed regional vulgar speech. **Napoleon** then weaponized and exported French as a tool of national unity, military efficiency, and cultural dominance across Europe ([Napoleon two-camps essay](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md) — language export, not medicine). French nearly became the language of the world; German nearly took that role instead; France ended subordinate to Germany and **rescued by the Allies**.
 
 ---
+
+
 
 ## Words That Still Carry the Scar
 
@@ -78,7 +92,7 @@ Post-Nicene pedagogy and Latin-West print **upgraded** the slur into **civilizat
 
 On corrected chronology, European **Jew** has **one generative moment**: the Passion trial under Latin imperial procedure. Latin naming leads; Greek *Ioudaios* crystallizes second — same catastrophe, same courtroom ([Jew word investigation](https://paradigmthreat.net/history/chronology/investigations/jew-word-terminology-judas-judicial.md)).
 
-![Crucifixion — Simone Martini, c. 1333 (Passion trial vocabulary anchor)](https://paradigmthreat.net/history/chronology/christ/crucifixion_simone_martini_066.jpg)
+Crucifixion — Simone Martini, c. 1333 (Passion trial vocabulary anchor)
 
 #### Jew
 
@@ -102,7 +116,7 @@ Modern culture **oscillates** the name again: **Judas Priest** (band, **1969**) 
 
 Imperial stratum labels were **split** so autochthon myth could replace exodus memory.
 
-![Europe whitewash — Moor / Boor / complexion label politics](https://paradigmthreat.net/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png)
+Europe whitewash — Moor / Boor / complexion label politics
 
 #### Moor
 
@@ -120,7 +134,7 @@ On this read **Boor** is the **forced split** from **Moor**: one bloodline recod
 
 Giant-line warfare → cannon → irregular survival; **Pugachev** anchor under **Guerrilla**; **1492** **nightmare** under **Nightmare** below.
 
-![Giants, infantry, guerrilla — Horde foot lines and post-cannon survival](https://paradigmthreat.net/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.png)
+Giants, infantry, guerrilla — Horde foot lines and post-cannon survival
 
 #### Infantry
 
@@ -150,7 +164,7 @@ English **to trump** — to **overcome**, to **beat**, to play the winning card 
 
 By the **1500s** the verb **shifted again**: **to trump** meant **to deceive or cheat**. Handbook etymology blames street **mountebanks** — a folk story too small for a society-wide flip. On this read **trumpets** were remembered as instruments of **injustice** — siege horns and **aristocratic fanfare** before expropriation — and **to trump** names what power **did** to the defeated: **cheated** them of land, law, and memory. The pejoration fits **mass trauma**, not peddlers.
 
-The candidate event large enough to **re-point** the word is the **[1492 Apocalypse Crusade](https://paradigmthreat.net/timeline/evt-the-apocalypse-crusade-reverse-exodus)** — invasion and reordering of **Europe** on the repo timeline, **cannons absolutely active** beside **canon** seal and **trumpet** proclamation ([chronology hub — 1492 CE](https://paradigmthreat.net/history/chronology/page.md); Fomenko [**Noah = Columbus**](https://chronologia.org/en/chronologia5/add2_6.html) fleet language). Something **completely unjustifiable** had to occur for **trump** to acquire **cheat** in the same centuries **cannon** acquired **rule** — war tech and **aristocratic noise** fused in folk mouth, then print **separated** them again for schoolbooks. **Open** row: dated **1500s** **trump** = “cheat” attestations beside **1492** print and artillery corpus; mountebank etymology stays the **closure** contrast.
+The candidate event large enough to **re-point** the word is the **[1492 Apocalypse Crusade](https://paradigmthreat.net/timeline/evt-the-apocalypse-crusade-reverse-exodus)** — invasion and reordering of **Europe** on the repo timeline, **cannons absolutely active** beside **canon** seal and **trumpet** proclamation ([chronology hub — 1492 CE](https://paradigmthreat.net/history/chronology/page.md); Fomenko **[Noah = Columbus](https://chronologia.org/en/chronologia5/add2_6.html)** fleet language). Something **completely unjustifiable** had to occur for **trump** to acquire **cheat** in the same centuries **cannon** acquired **rule** — war tech and **aristocratic noise** fused in folk mouth, then print **separated** them again for schoolbooks. **Open** row: dated **1500s** **trump** = “cheat” attestations beside **1492** print and artillery corpus; mountebank etymology stays the **closure** contrast.
 
 #### Crusade
 
@@ -170,9 +184,15 @@ Aside from planetary **cataclysm** ([MudFlood / MFEE](https://paradigmthreat.net
 
 Handbooks treat **war** as **human nature** — biology, sin, scarcity, tribal instinct. On this timeline **war was essential to establish lasting control**, and it was **not** a species trait first: it was **imposed**, **scheduled**, and **lexically branded** by actors who associated themselves with the planet **Mars** — directly, not metaphorically. After the [MudFlood Energetic Event (~1774)](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm), a **breakaway Martian faction** consolidated power on Earth while telepathic resistance was broken ([Mars hub](https://paradigmthreat.net/cosmos/mars/page.md); [chronology — Martian control](https://paradigmthreat.net/history/chronology/page.md)). **Fomenko** compresses the **Trojan War**, **Passion**, and **Crusade** sieges into **medieval Yoros / Tsar-Grad** ([§02 — Troy = Jerusalem](https://chronologia.org/en/how_it_was/02.html)) — the same wars handbooks call “ancient Greece” are, on NC time, **recent martial operations** whose vocabulary still carries the **Mars** stamp.
 
-![Mars-associated control — life on Mars rules Earth (lexical war cluster)](https://paradigmthreat.net/cosmos/mars/life_on_mars_rules_earth.png)
+Mars-associated control — life on Mars rules Earth (lexical war cluster)
 
 The [Mars hub](https://paradigmthreat.net/cosmos/mars/page.md) lists **Mar-** conquest terms — **martial law**, **marriage**, **merger**, **martyr**, **murder**, **maritime**, **marring** — as **systems of control** named after the **planet of conquest**; entries below unpack each; handbooks split them across unrelated roots.
+
+#### George / Jorge / Horus / Maurus / Mavors / Mars
+
+**George** began as an important name of **Mars**. Its modern “earth-worker” or farmer gloss is the later demotion: a planetary warrior reduced to an agricultural occupation. The name then remained alive in separate regional mouths. English **George** becomes Spanish **Jorge**, pronounced roughly *Hor-heh*, which makes the George/Horus connection audible. **Horus / Horos / Heru** sits beside **Maurus / Mauros**, **Moor**, archaic Latin **Mavors**, and **Mars**.
+
+The chain is **George → Jorge (“Hor-heh”) → Horus / Horos / Heru → Maurus / Mauros / Moors → Mavors → Mars**. It records deliberate drift across successor cultures, not a tidy handbook stemma. Each culture kept, softened, supplied, or dropped sounds according to its own speech. After the imperial pronunciation was lost, translators fixed the branches as separate dictionary words while common people continued their local versions. The [Georgia naming investigation](https://paradigmthreat.net/history/chronology/investigations/georgia-mirror-naming-rus-horde-mars-investigation.md) carries the Fomenko sound-flexion citations and the St. George/Horus/Mars warrior-slot demonstration.
 
 #### Martial / March / Marshal
 
@@ -240,9 +260,9 @@ Imperial toponyms **outlive** the geography: the label stays while the map is **
 
 Handbooks park **Troy** in phantom **Bronze Age Anatolia**, **Jerusalem** in **Palestine**, and treat them as **unrelated** words separated by millennia. **Fomenko** and **Nosovskiy** read them as **one recycled holy-city label** on the **Bosphorus** — later **split** and **relocated** so the empire could forget where the Passion actually happened.
 
-At **Yoros** (Turkish) / **Eros** (fortress name in [*Forgotten Jerusalem*](https://chronologia.org/en/forgotten_jerusalem/index.html)) on the **Asian shore** near the Black Sea mouth, medieval sources already carried **Hierosolyma** / **Ierosalim** — **Jerusalem** in Latin and Greek dress. The same site was remembered in epic as **Troy** / **Troia**; Fomenko identifies **Troy** with **Yoros Castle** and **Gospel Jerusalem** with this **first** metropolitan holy city (**Jerusalem I**), not the Ottoman village **Al-Quds** the West later promoted ([*How It Was In Reality* — Yoros = Jerusalem = Troy](https://chronologia.org/en/how_it_was/02.html); [chronology hub — Deep State at Jerusalem #1](https://paradigmthreat.net/history/chronology/page.md)). **Beykoz** hill above the Bosphorus is **Golgotha** on their map — two hours on foot from **Eros–Jerusalem**, matching Gospel distance claims in the same book’s **Calvary** chapter.
+At **Yoros** (Turkish) / **Eros** (fortress name in *[Forgotten Jerusalem](https://chronologia.org/en/forgotten_jerusalem/index.html)*) on the **Asian shore** near the Black Sea mouth, medieval sources already carried **Hierosolyma** / **Ierosalim** — **Jerusalem** in Latin and Greek dress. The same site was remembered in epic as **Troy** / **Troia**; Fomenko identifies **Troy** with **Yoros Castle** and **Gospel Jerusalem** with this **first** metropolitan holy city (**Jerusalem I**), not the Ottoman village **Al-Quds** the West later promoted (*[How It Was In Reality* — Yoros = Jerusalem = Troy](https://chronologia.org/en/how_it_was/02.html); [chronology hub — Deep State at Jerusalem #1](https://paradigmthreat.net/history/chronology/page.md)). **Beykoz** hill above the Bosphorus is **Golgotha** on their map — two hours on foot from **Eros–Jerusalem**, matching Gospel distance claims in the same book’s **Calvary** chapter.
 
-[![Troy was also called Yoros — short for Ierosalim, Jerusalem (#1), Tsar-Grad](https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.jpg)](https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.md)
+[Troy was also called Yoros — short for Ierosalim, Jerusalem (#1), Tsar-Grad](https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.md)
 
 That triple equation — **Troy = Yoros = Jerusalem** — is lexical redaction at **civilization** scale: one **Tsar-Grad** / **New Rome** pole (**Constantinople** layer beside it) **fractured** into separate homework words. Schoolchildren memorize **Trojan War** and **Passion Week** as different countries; corrected time puts **siege**, **trial**, and **crucifixion** vocabulary in the **same ear** beside **Crusade** and **Jew** clusters above. **Moscow** as **Jerusalem II** and **Palestine** as **Jerusalem III** are later **repointings** of the same brand — see **Moscow / Mexico** below and [chronology — Kremlin as 2nd Jerusalem](https://paradigmthreat.net/history/chronology/page.md).
 
@@ -250,7 +270,7 @@ That triple equation — **Troy = Yoros = Jerusalem** — is lexical redaction a
 
 Handbooks tie *England* to the Angles. On this read **England** may have been **one of many names of the Rus–Horde itself** — not only a western province but a **white-people land** label inside a vast empire that also answered to **Egypt**, **Jerusalem**, **Rome** (or **Rome III**), and other recycled imperial brands. **Relocating a name** is among the strongest redaction moves: the word survives; the map shrinks.
 
-Modern **England** may have absorbed much of the **reputation and history** of the Russian Horde empire — suddenly “remembering” itself as a foundational **King Arthur**-style kingdom with **ties over the sea** ([Rus–Horde lexicon — *King Arthur* / *Rus!*](https://paradigmthreat.net/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md)). The island already had **horse cavalry** and **metal armor** as a **vassal** inheritance from the imperial host. After the [MudFlood Energetic Event (~1774)](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm), most **horses in the east** were gone — making it easy for the Atlantic fragment to claim it had always been the **original horse-cavalry empire**. Post-MFEE **Britain** then **assumed the vacuum**: existing authorities and peoples often **followed** the new center or were **severely punished** if they did not — which is how a small island could inherit **global ties** and become the **British Empire** with no other honest explanation than **seizure of a collapsed Horde world** ([chronology hub](https://paradigmthreat.net/history/chronology/page.md)).
+Modern **England** may have absorbed much of the **reputation and history** of the Russian Horde empire — suddenly “remembering” itself as a foundational **King Arthur**-style kingdom with **ties over the sea** ([Rus–Horde lexicon — *King Arthur* / *Rus!](https://paradigmthreat.net/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md)*). The island already had **horse cavalry** and **metal armor** as a **vassal** inheritance from the imperial host. After the [MudFlood Energetic Event (~1774)](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm), most **horses in the east** were gone — making it easy for the Atlantic fragment to claim it had always been the **original horse-cavalry empire**. Post-MFEE **Britain** then **assumed the vacuum**: existing authorities and peoples often **followed** the new center or were **severely punished** if they did not — which is how a small island could inherit **global ties** and become the **British Empire** with no other honest explanation than **seizure of a collapsed Horde world** ([chronology hub](https://paradigmthreat.net/history/chronology/page.md)).
 
 #### New World
 
@@ -262,7 +282,7 @@ On corrected time the phrase may mark **newly redacted map** more than **newly s
 
 Handbooks treat **Maya** as an **ancient Mesoamerican civilization** — calendars, pyramids, a “Classic Collapse” pushed into phantom antiquity so recent destruction reads as mystery ([Common Questions Q4 — Maya collapse](https://paradigmthreat.net/history/common-questions#q4-why-did-the-maya-civilization-collapse-why-was-it-advanced-why-does-the-mainstream-record-say-they-collapsed-over-1000-years-ago)).
 
-**Fomenko** and **Nosovskiy** read the **word** differently — as **imperial toponym**, not ethnographic fossil. In [*How It Was In Reality*](https://chronologia.org/en/how_it_was/06_15.html) and [*Conquest of America*](https://chronologia.org/en/ermak/index.html) they argue **America** was colonized by **Rus–Horde** and **Osmania** armies in the **XIV–XVI centuries**, and that **Maya-Kiche** / **Kiche Maya** names the **first Horde–Cossack wave** in the Americas — **Kiche** heard beside Russian **kochevnik** (nomad cavalry). Russian chronicles name khan **Kuchum**; Fomenko treats **Kuchum** as a chronicle pronunciation of **Kiche Maya**, with **Kuchum’s domain** the same polity Spanish sources call **Mexico** / **Meshiko** (ataman **Yermak** = conquistador **Cortés** on their identification — the **Russian prince** who took Central America, not “Siberia” alone).
+**Fomenko** and **Nosovskiy** read the **word** differently — as **imperial toponym**, not ethnographic fossil. In *[How It Was In Reality](https://chronologia.org/en/how_it_was/06_15.html)* and *[Conquest of America](https://chronologia.org/en/ermak/index.html)* they argue **America** was colonized by **Rus–Horde** and **Osmania** armies in the **XIV–XVI centuries**, and that **Maya-Kiche** / **Kiche Maya** names the **first Horde–Cossack wave** in the Americas — **Kiche** heard beside Russian **kochevnik** (nomad cavalry). Russian chronicles name khan **Kuchum**; Fomenko treats **Kuchum** as a chronicle pronunciation of **Kiche Maya**, with **Kuchum’s domain** the same polity Spanish sources call **Mexico** / **Meshiko** (ataman **Yermak** = conquistador **Cortés** on their identification — the **Russian prince** who took Central America, not “Siberia” alone).
 
 On that read **Maya** is not an exotic tribe label but **“my country”** in the conqueror’s mouth: **Maya-Rica** — medieval **-rica** meaning **state** (as in **Costa Rica**) — glossed as **Maya-state**, **the state of Maya**, **my state**. **America** / **Ame-Rica** may then double as **Yermak’s** name on the map **or** as **Maya-Rica** frozen into continent-scale print. Either way the handbook separates **Maya** from **Russia**, **Yermak**, and **Horde colonization**; the NC lane keeps them **phonetically coupled**. **Popol Vuh** enters the same stack as another **Bible-variant** chronicle of **XIV–XVI** events in Fomenko’s American settlement books — lexical redaction at **civilization** scale, not dictionary scale.
 
@@ -276,9 +296,9 @@ Handbooks derive **Spain** / **Spanish** from Latin **Hispania** and then stall:
 
 #### Moscow / Mexico / Mosque / Mosquito
 
-**Fomenko** places **Moscow** among the imperial **Jerusalem** poles — **Jerusalem II** after Constantinople ([*Settlement of America*](https://chronologia.org/en/nch6_2_settlement_of_amerika/index.html); [chronology hub — Kremlin as 2nd Jerusalem](https://paradigmthreat.net/history/chronology/page.md)). On corrected time the name is the **metropolitan seat** the West later **localized**, **burned**, and **renamed** out of living memory.
+**Fomenko** places **Moscow** among the imperial **Jerusalem** poles — **Jerusalem II** after Constantinople (*[Settlement of America](https://chronologia.org/en/nch6_2_settlement_of_amerika/index.html)*; [chronology hub — Kremlin as 2nd Jerusalem](https://paradigmthreat.net/history/chronology/page.md)). On corrected time the name is the **metropolitan seat** the West later **localized**, **burned**, and **renamed** out of living memory.
 
-The same **Kuchum** / **Yermak** = **Cortés** polity named under **Maya** above appears in America as **Mexico** / **Meshiko** — a **redaction scar** until the map forgets Moscow. In [*Conquest of America*](https://chronologia.org/en/ermak/index.html) (**§8.4**, [**§8.12**](https://chronologia.org/ermak_kortes/8_12.html)) **Meshiko** is a distortion of **Moskva** / **Muscovite Tartary**; Romanov chronicles **relocated** the conquest east so schoolbooks never say **Russia took Mexico**.
+The same **Kuchum** / **Yermak** = **Cortés** polity named under **Maya** above appears in America as **Mexico** / **Meshiko** — a **redaction scar** until the map forgets Moscow. In *[Conquest of America](https://chronologia.org/en/ermak/index.html)* (**§8.4**, **[§8.12](https://chronologia.org/ermak_kortes/8_12.html)**) **Meshiko** is a distortion of **Moskva** / **Muscovite Tartary**; Romanov chronicles **relocated** the conquest east so schoolbooks never say **Russia took Mexico**.
 
 That makes **Mexico** the hinge in the American branch of the sequence — not etymological accident but **toponym relocation**: imperial **Moscow** printed on the **wrong continent**, then **sealed** as “pre-Columbian indigenous empire.”
 
@@ -330,7 +350,7 @@ Colonization and founding print **mislabel** who was in the room — screenshot 
 
 Franklin misquote forensics — **Boors** swapped for **Moors** in Palatine founding memory; label politics in screenshot-era print ([investigation](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md)). **Redacted books** remember what Yale and Founders Online omit: a **black German King George II** gloss beside **Palatine Moors** — a king who does **not** sit cleanly on the modern Great Britain island. Hanover held a German throne; in eighteenth-century **swarthy** speech, *black* often meant **eastern imperial** peoples — Russians included — not the shrunken island map schoolbooks sell today ([Lost Tribe essay — Franklin / George II](https://paradigmthreat.net/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md)). The screenshot is **curriculum forensics**: proof that print culture once carried a **Horde-east court horizon** the standard Franklin recension whitewashed away.
 
-[![Franklin Palatine Boors vs Moors — screenshot forensics (Palatine Moors, black German King George II)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md)
+[Franklin Palatine Boors vs Moors — screenshot forensics (Palatine Moors, black German King George II)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md)
 
 ### Extirpation
 
@@ -344,6 +364,8 @@ Speculative Lane B links **cryptid** survivors of Horde **extirpation** campaign
 
 ---
 
+
+
 ## Reader Witness — Memory Across Communities
 
 This essay is not only philology. Many families — Jewish, Christian, Romani, and others — carry **living memory** of **recent imperial greatness**: shared law, shared faith before fracture, a polity that feels **closer than the textbook** allows. The author grew up **Jewish**; at **thirteen** he had **bar mitzvah** at the **Western Wall**. That rite is not “wandering tribe” memory alone — for many it is memory of **participation in a powerful kingdom**. His father was born in **Morocco**; in that line he hears **conqueror** residue, not eternal exile. On this read those testimonies sit beside the **lexical wound**: the same centuries that **erased Rus–Horde** from world print also **pushed** cross-community greatness memory into myth, family lore, and **words that no longer point home**.
@@ -352,6 +374,8 @@ This essay is not only philology. Many families — Jewish, Christian, Romani, a
 
 ---
 
+
+
 ## Memory, Hope, and Return
 
 If memory survives this stubbornly in **dictionaries** and **families**, the author holds that **common greatness may have been real** — and may return. That is **not** a scientific claim.
@@ -359,6 +383,8 @@ If memory survives this stubbornly in **dictionaries** and **families**, the aut
 **Quote hygiene (corrected while drafting the Chronologia forum post):** the hope-through-memory line the author cites is from **Boorman’s *Excalibur* (1981)** — *And because it will not be forgotten, that fair time may come again.* The **Lerner & Loewe *Camelot*** musical and **1967** film use a **different** refrain — *Don't let it be forgot* — memory through young **Tom**, not the same screenplay beat. **T.H. White**, *The Once and Future King*, carries **return** prophecy (“once and future king”) but **not** that exact film line. **T.S. Eliot** is **not** part of this chain. See [Chronologia forum reply — hope note](the-hidden-history-of-words-chronologia-forum-reply.md).
 
 ---
+
+
 
 ## Where Next
 
@@ -377,6 +403,8 @@ If memory survives this stubbornly in **dictionaries** and **families**, the aut
 
 ---
 
+
+
 ## Framing and Limits
 
 **Prisca sapientia** applies; modern historical linguistics is **contrast**, not default truth. Handbook etymology (OED, Etymonline) is quoted in dossiers as the **establishment closure layer** — disproving a speculative phonetic link does not erase the **redaction-wall** thesis.
@@ -385,11 +413,11 @@ If memory survives this stubbornly in **dictionaries** and **families**, the aut
 
 ---
 
-Keywords: #LexicalRedaction #HiddenHistory #Latin #Nicaea #RusHorde #Etymology #WordRedaction #Mars #Martyr #French #English #ParadigmThreatFiles
+Keywords: #LexicalRedaction #HiddenHistory #Latin #Nicaea #RusHorde #Etymology #WordRedaction #PronunciationDrift #George #Jorge #Horus #Maurus #Mavors #Moors #Mars #Martyr #French #English #ParadigmThreatFiles
 
 **Substack:** [paradigmthreat2.substack.com/p/the-hidden-history-of-words](https://paradigmthreat2.substack.com/p/the-hidden-history-of-words)
 
-**Last updated:** 2026-06-27 (**nightmare** / **1492** night mare **AU-030**; forum sync: **righteous** Rus–Horde read; Chronologia BBCode link).
+**Last updated:** 2026-07-15 (post-imperial pronunciation-loss mechanism; George/Jorge/Horus/Maurus/Mavors/Mars drift).
 
 ---
 

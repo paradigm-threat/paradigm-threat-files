@@ -76,6 +76,12 @@ Now the deep name. This is the article’s largest interpretive claim, placed af
 
 The argument instead begins with the catastrophist premise that the old tales were **sky myths** — gods, dragons, maidens, and warriors were what people watched when planets and cometary forms filled the sky. Take the familiar **St. George story**. A dragon terrorizes a land and threatens a princess; a warrior rides out, kills it, order returns. That is Perseus and Andromeda, Horus and the serpent, Hercules against the chaos monster, and many folk parallels. The dragon/serpent is the Venus trauma form; the maiden is its threatened face; the **warrior who restores** is the red war star the ancients already named **Mars**. Classical peoples kept calling that body Mars. The Christian West kept calling the warrior **George** and forgot the planet. So **George fills the Mars slot** — the first knight and first king in one figure, Dark Ages martial order after the dragon war.
 
+The name preserves the deliberate drift. English **George** becomes Spanish **Jorge**, pronounced roughly *Hor-heh*, making the George/Horus connection audible. **Horus / Horos / Heru** then sits beside **Maurus / Mauros**, **Moor**, archaic Latin **Mavors**, and **Mars**. Different cultures kept, softened, added, or dropped sounds while preserving the body and function of the name.
+
+![George, Horus, and Mars — the warrior name preserved through regional pronunciation drift](https://paradigmthreat.net/history/chronology/george-horus-mars.png)
+
+The fall of the empire broke the shared pronunciation system. Books survived after the people who knew how to read their names aloud had been scattered or killed. Later translators found consonantal and damaged texts and supplied pronunciations that often belonged to their own language and politics. Ordinary people continued speaking regional slang, accents, and inherited versions of the old names. Those folk forms are not corrupt leftovers; they may preserve the spoken continuity that official translation lost. Fomenko and Nosovsky use this method across Europe and Asia: their [linguistic preface](https://chronologia.org/en/how_it_was/preface.html) warns that old names were often written without vowels and vocalized later, with **L/R** and other consonants confused; [*Empire* §16.15](https://chronologia.org/en/chronologia5/empire16_10.html#i1615) cites Egyptian **Rutennu / Lutennu** and says the same R/L flexion occurs in Chinese; their [Horde / Hellas comparison](https://chronologia.org/en/how_it_was/05.html) applies the interchange in Europe. I apply that cultural-pronunciation rule here. The harmless Greek “earth-worker” or farmer gloss is the later demotion of an important Mars name, not its origin.
+
 ![The Mars scar — the red war-star that returned close to Earth for centuries, the warrior the West later renamed George](https://paradigmthreat.net/history/chronology/saturn/mars-scar.jpg)
 
 Why did Mars become the durable popular figure? **It stuck around longer.** After Jupiter’s rule broke and Venus moved toward her final orbit, Mars kept returning close to Earth — nine encounters across 119 years on this chronology before its final departure around 686–685 BCE. That late, repeated spectacle had time to harden the warrior role into social practice. **Rus–Horde knighthood is Mars memory institutionalized**: George as mounted protector, war-khan, restorer of order.
@@ -90,13 +96,15 @@ This is not Jung. I do not explain the repeated warrior, dragon, king, and witch
 
 ## Savannah, the advanced weapon, and the land-intact deal
 
-My theory of how the Civil War was decided at Georgia: Savannah holds a clue that an **advanced weapon** — sold publicly as some kind of rifle or cannon projectile — started or turned the war. That story may be the cover for **depleted uranium** already in play. I put extremely high confidence on DU existing then. Georgians ended their war rather than lose the land to that radiation device. Keeping the land intact was part of the deal. Otherwise this state should have held out longer than anyone — swamp, climate, deep pluralist culture.
+My theory of how the Civil War was decided at Georgia: Savannah holds a clue that an **advanced weapon** — sold publicly as some kind of rifle or cannon projectile — started or turned the war. That story may be the cover for **depleted uranium** already in play. I put extremely high confidence on DU existing then. Georgians ended their war rather than lose the land to that devastating device. Keeping the land intact was part of the deal. Otherwise this state should have held out longer than anyone — swamp, climate, deep pluralist culture.
 
 Here is where the opening rule applies again. If a dense super-projectile existed in the 1860s, its material, manufacture, and radiation effects would be likely candidates for classification; an ordinary ordnance file would therefore be unlikely to confirm it. A deniable disclosure could instead survive as fiction. That is why I read Jules Verne’s *From the Earth to the Moon* (**1865**) as **redacted fact**, not merely a novel. A gun club fresh off a great war, fixated on an irresistible new projectile and the precise engineering of firing it, published the very year the American war ends — that is the proposed disclosure. The [US Civil War investigation](https://paradigmthreat.net/governance/war/investigations/us-civil-war-investigation.md) holds the passage-by-passage spine. The missing archive is consistent with the model; Verne supplies the positive public clue. Fort Pulaski’s rifled guns cracking brick is the best-documented public “miracle” at the coast; whether that is the local cover clue is still open. Local land fights over fire and radiation ([Atkinson / Brantley](https://paradigmthreat.net/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.md)) rhyme as the same instinct: keep the ground.
 
 ![Atkinson / Brantley Georgia radiation-weapon investigation — modern south-Georgia land fights over fire and radiation](https://paradigmthreat.net/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.png)
 
 Stack it: 1492 both-sides flight → Moorish stream into Georgia → Trustee plurality → Christmas land deal → modern refusal to lose the dirt. Same spine.
+
+This is the endpoint of the “alternate” history of Georgia as I have been investigating it. I do not dispute anything that happened after the Civil War. Feel free to challenge me on any point; I would be happy to do a deep dive. Thanks for reading.
 
 ---
 
@@ -109,9 +117,11 @@ Stack it: 1492 both-sides flight → Moorish stream into Georgia → Trustee plu
 - [Bilbo Mound](https://paradigmthreat.net/history/mudflood/bilbo-mound-and-americas-buried-past.md) — Savannah ground as MFEE case  
 - [Make Gordonston Great Again](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.md) · [Ghost tourism](https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.md) — Savannah substitute narratives  
 
-Keywords: #Georgia #SecondPromisedLand #FirstPromisedLand #HolyGrail #GoldenAge #SunAge #1492 #BothSidesFlight #Moors #Indenture #George #Mars #StGeorge #Lancelot #Arthur #Merlin #Whitewash #Savannah #DepletedUranium #Pluralism #ParadigmThreatFiles
+Keywords: #Georgia #SecondPromisedLand #FirstPromisedLand #HolyGrail #GoldenAge #SunAge #1492 #BothSidesFlight #Moors #Maurus #Jorge #Horus #Mavors #PronunciationDrift #Indenture #George #Mars #StGeorge #Lancelot #Arthur #Merlin #Whitewash #Savannah #DepletedUranium #Pluralism #ParadigmThreatFiles
 
-**Last updated:** 2026-07-14
+**Substack:** [paradigmthreat2.substack.com/p/georgia-was-the-second-promised-land](https://paradigmthreat2.substack.com/p/georgia-was-the-second-promised-land)
+
+**Last updated:** 2026-07-15
 
 ---
 

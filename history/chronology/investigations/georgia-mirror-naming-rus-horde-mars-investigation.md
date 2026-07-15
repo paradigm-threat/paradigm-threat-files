@@ -362,6 +362,23 @@ Transcript in `~/dev/wget/talbott/`. Same method as §5.3: princess → Venus qu
 
 Horus = Mars (Cardona); Horus-serpent → St. George icon (egyptology note); Fomenko George war-cult / Girkland = Land of St. George / Perseus twin — **war-name** and toponym weight, not planet glossary.
 
+#### 5.6.4 Deliberate pronunciation drift — George / Jorge / Horus / Maurus / Mavors / Mars
+
+**Author chain:** **George → Spanish Jorge (“Hor-heh”) → Horus / Horos / Heru → Maurus / Mauros / Moors → Mavors → Mars.** This is not being offered as a conventional dictionary stemma. It is deliberate cultural pronunciation drift under lexical redaction: languages keep, soften, add, drop, or interchange difficult sounds while preserving the recognizable body and planetary-warrior function of the name. Spanish **Jorge** makes the George/Horus adjacency especially audible. **Maurus / Mauros** carries the sound into the Moor lane; archaic Latin **Mavors** supplies the direct near-form of Mars. The Greek *geōrgos* “earth-worker / farmer” explanation is read here as the later semantic demotion of an important sky name, not its origin.
+
+**Collapse mechanism (author finding, 2026-07-15):** The imperial fall broke the authoritative **spoken** chain before it erased every book. Texts survived after many custodians of their pronunciation had been scattered, killed, or separated into hostile successor cultures. Later translators encountered consonantal, damaged, recopied, or politically inconvenient names and supplied vowels and sounds from their own regional mouths. Meanwhile ordinary people kept using local slang, accents, and inherited versions. The resulting divergence is therefore two-sided: **official book pronunciation became reconstruction**, while **folk pronunciation preserved regional continuity** without a surviving imperial glossary to prove that the forms had once been one name. Deliberate redaction could then select the reconstruction that best separated saint, ethnicity, king, occupation, and planet.
+
+Fomenko and Nosovsky provide the comparative method:
+
+| Source | Relevant statement | Use here |
+|--------|--------------------|----------|
+| [*How It Was in Reality* — preface](https://chronologia.org/en/how_it_was/preface.html) | Ancient names were often written with consonants only and vocalized later; proper names therefore acquired ambiguous readings. The authors also flag confusion among **L/R**, **F/T**, **B/V**, and other sounds. | Names can drift through later vocalization and culture-specific pronunciation without losing their underlying identity. |
+| [*Empire*, ch. 16 §15](https://chronologia.org/en/chronologia5/empire16_10.html#i1615) | Citing Brugsch, the authors say Egyptian **Rutennu** was also pronounced **Lutennu**, call R/L flexion frequent in Egyptian texts, and note the same feature in Chinese. | Direct Egypt–Asia warrant for treating liquid consonants as unstable across transmission. |
+| [*How It Was in Reality*, ch. 5](https://chronologia.org/en/how_it_was/05.html) | “Hellas” is compared with “Horde / Olda” on the rule that **L and R often interchanged**. | Shows their method applied to European names, not only Egyptian or Chinese examples. |
+| [*Empire*, ch. 6](https://chronologia.org/en/chronologia5/empire06_01.html) | Chinese and Japanese R/L are treated as non-distinct; the authors also say **M/N** are close and readily morph into one another. | Additional Asian example of culture-dependent consonantal realization. |
+
+**Evidence status:** Fomenko supports the **drift rule**, not this exact George→Mars chain. The chain itself is an **author identification** combining sound continuity, the St. George/Horus warrior slot, Moor/Maurus identity transmission, and Mavors/Mars. Under the redaction model, the split across saint, ethnicity, royal name, occupational gloss, and planet is the mechanism rather than an objection.
+
 ### 5.7 Georgium Sidus and other near-misses
 
 | Finding | Relation |
@@ -893,9 +910,9 @@ Georgia-specific hinge: the **Georgia Experiment** (anti-slavery, multi-sect set
 | [Ghost tourism investigation](/influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation.md) | Savannah substitute narrative |
 | [Author-unique registry](/history/chronology/investigations/author-unique-theories.md) | **AU-033** |
 
-Keywords: #Georgia #Sakartvelo #GeorgeII #GeorgeIII #RusHorde #Fomenko #Naming #LexicalRedaction #Mars #Lancelot #Saturnian #StGeorge #WarriorHero #Talbott #Cardona #Horus #Pawnee #Skidi #Skiri #UPirikucu #Murie #GeorgiumSidus #Savannah #BilboMound #PromisedLand #MirrorToponym #Oglethorpe #GeorgiaExperiment #ScorchedEarth #LongleafPine #Sherman #RuinNation #Hollywood #GeorgiaGuidestones #Pluralism #CivilWar #DepletedUranium #FortPulaski #ApocalypseCrusade #1492 #ReverseExodus #Moors #Indenture #BothSidesFlight #ParadigmThreatFiles
+Keywords: #Georgia #Sakartvelo #GeorgeII #GeorgeIII #RusHorde #Fomenko #Naming #LexicalRedaction #PronunciationDrift #Jorge #Maurus #Mavors #Mars #Lancelot #Saturnian #StGeorge #WarriorHero #Talbott #Cardona #Horus #Pawnee #Skidi #Skiri #UPirikucu #Murie #GeorgiumSidus #Savannah #BilboMound #PromisedLand #MirrorToponym #Oglethorpe #GeorgiaExperiment #ScorchedEarth #LongleafPine #Sherman #RuinNation #Hollywood #GeorgiaGuidestones #Pluralism #CivilWar #DepletedUranium #FortPulaski #ApocalypseCrusade #1492 #ReverseExodus #Moors #Indenture #BothSidesFlight #ParadigmThreatFiles
 
-**Last updated:** 2026-07-14 (plan §0; weak points §12 redo; Verne redacted-fact; C1/Q2/Q12 closed)
+**Last updated:** 2026-07-15 (George/Jorge/Horus/Maurus/Mavors/Mars pronunciation-drift lane + Fomenko L/R citations)
 
 ---
 
