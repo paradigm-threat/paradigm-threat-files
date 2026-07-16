@@ -151,6 +151,7 @@ or *not* believing.
 * [Blood rain](/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md) — Passat dust, Dust Bowl, post–mud-flood ecological shocks.
 * [Cargo Cults](/history/mudflood/investigations/cargo-cults-investigation.md) — Official history vs manna redaction and behavior.
 * [MFEE Investigation](/history/mudflood/investigations/mfee-investigation.md) — Map evidence and boundary changes over time.
+* [Mudfossil University / Roger Spurr](/history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md) — Soft-tissue mudfossils, Helix P-234 mtDNA, Yale outreach claims (open).
 * [Deliverance to a Promised Land](/history/mudflood/investigations/promised-land-investigation.md) — 1492 BCE/CE threads; Europe, America, promised lands.
 * [Spore / aerial biological disaster](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md) — Post–MFEE ecology, sanitization, Martian cylinders, fiction parallels.
 * [Tartarian Maps Investigation](/history/mudflood/investigations/tartarian-maps-investigation.md) — Forbidden maps, disclosure, downloads.

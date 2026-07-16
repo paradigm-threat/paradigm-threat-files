@@ -72,6 +72,8 @@ Recurring claims across Spurr’s site pillars, Academia abstracts, and intervie
 | **PCR summary** | A1/A1R: all three samples **positive**, negative control **negative**. 2F/2R and 4F/4R: tip + lung **positive**, mud tip **negative**. |
 | **BLAST (tip + lung)** | Primer A1 → *Homo sapiens* mitochondrial **Cytochrome b**; primer 4F → *Homo sapiens* mitochondrial **D-loop**. Report states ~**80–100 bp** of usable sequence. |
 | **Yale** | **Not mentioned** in this document. |
+| **DOCX media (archived)** | Helix logo; agarose gel (matches lane narrative); **four chromatogram PNGs**; one WMF (unconverted this pass). Path: local `wget/.../helix/docx-media/`. |
+| **Independent BLAST recheck** | Sequence taken from chromatogram `image3.png` (~80 bp clean region) submitted to NCBI BLASTN/nt (**RID `5HJPCABD014`**, 2026-07-16): top hits *H. sapiens* **D-loop** / **CYTB** at **96–98%** identity. **Confirms** Helix’s human-mtDNA BLAST class for that trace; **does not** establish antiquity or rule out contamination. |
 
 **Lab is real; interpretation is contested.** Helix markets paleo/aDNA work to the public. A paid PCR+BLAST report that returns human mtDNA on short amplicons is **not** the same as authenticated ancient human DNA from a giant soft-tissue fossil.
 
@@ -86,22 +88,34 @@ Recurring claims across Spurr’s site pillars, Academia abstracts, and intervie
 | **Mud Tip weaker** | Not BLAST-matched in the sequenced set the way tip/lung are; still counted in Spurr’s “3 tests” marketing. |
 | **Eton ≠ Yale** | Sequencing vendor is **Eton Biosciences** (commercial; [etonbio.com](https://www.etonbio.com/)). Conference abstract variants saying “Eaton Biosciences” / “Helix Paleo Lab” are **name drift**, not Ivy League co-authorship. |
 
-**Conference abstract (secondary):** Longdom proceedings listing — Adrian **Husbands** & Roger **Spurr**, *Could geological features be mineralized human remains? What DNA testing reveals* — ties samples to a **2012 Middletown, CT** shallow dig; lung ≈ modern adult size; fingertips scaled to ~**50 ft** and ~**200 ft** beings; mentions Helix + “Eaton” + CAT + **coroner**. Page was flaky (522); treat as **conference-series abstract**, not peer-reviewed geology. Aligns with Spurr’s Connecticut residence and 2012 origin story.
+**Conference abstract (secondary):** Longdom proceedings listing — Adrian **Husbands** & Roger **Spurr**, *Could geological features be mineralized human remains? What DNA testing reveals* — ties samples to a **2012 Middletown, CT** shallow dig; lung ≈ modern adult size; fingertips scaled to ~**50 ft** and ~**200 ft** beings; mentions Helix + “Eaton” + CAT + **coroner**. Page was flaky (522); treat as **conference-series abstract**, not peer-reviewed geology. Aligns with Spurr’s Connecticut residence and 2012 origin story. **Adrian Husbands** could not be firmly linked to mudfossil work this pass (a Dundee medical-education Academia profile exists — may be a different person or listing noise).
 
-**Provenance still thin:** Discourse (Jan 2025) “**4 ft wide** left hand” / “36 inch tip”; Academia/OSOM “**10 × 12 hole**.” GPS, continuous custody photos, and independent resampling **not** in hand.
+**Provenance still thin:** Discourse (Jan 2025) “**4 ft wide** left hand” / “36 inch tip”; Academia/OSOM “**10 × 12 hole**”; Longdom “shallow construction dig” in **Middletown, CT** (city only — no GPS). Continuous custody photos **not** in hand.
 
 ### 3.2 CAT / CT and anatomy
 
 | Element | Spurr presentation | Validation status |
 |---------|--------------------|-------------------|
-| **Scan count** | “**7** cat scans” (marketing / Academia blurbs). | DICOM / facility reports **still missing**. |
+| **Scan count** | “**7** cat scans” (marketing / Academia blurbs). | DICOM / facility reports **still missing**. Video `bgnx2nN2a7U` transcript shows on-screen CT-like finger slices (tendon/bone commentary) — **screenshots only**, not radiology files. |
 | **Kentucky creek head** | CT: crushed forehead, knife wound, knit cap ([OSOM #11](https://www.theothersideofmidnight.com/2018-08-19_spurr/)). | High-specificity if real radiology — obtain scans. |
-| **“Lung” + coroner** | Wet lung / pleura claims; Longdom abstract: coroner autopsy experience confirmed anatomical match. | Coroner **name** missing; Myers ([Pharyngula, 2020](https://freethoughtblogs.com/pharyngula/2020/11/22/funny-looking-rocks-are-not-fossils/)) rejects on-camera “lung” as non-anatomy / weathering. |
-| **Anatomist** | Unnamed “expert anatomist.” | Still **unverified**. |
+| **“Lung” + coroner** | Wet lung / pleura claims; Longdom abstract: coroner autopsy experience confirmed anatomical match. | Coroner **name** missing after search; Myers ([Pharyngula, 2020](https://freethoughtblogs.com/pharyngula/2020/11/22/funny-looking-rocks-are-not-fossils/)) rejects on-camera “lung” as non-anatomy / weathering. |
+| **Anatomist** | Unnamed “expert anatomist.” | Still **unverified** / unnamed. |
 
 ### 3.3 Process recreation
 
 Spurr claims **electro-fossil / mudfossilization** chemistry was **recreated in the lab**. MFU PDFs now mirrored locally: `Fascia_and_Solvomorphism.pdf`, `Fascia_Facilitated_Fossilization.pdf`, `Introduction_To_Mud_Fossils_and_Geology.pdf`. Independent third-lab redo still **not** done.
+
+### 3.4 Stonehenge Heelstone claim vs this repo’s Stonehenge lane
+
+Spurr PDF *[Stonehendge Heelstone a foot from a Giant](https://mfutools.com/Stonehendge_Heelstone_a_foot_from_a_Gian.pdf)* (byline Middletown CT, **2015-11-20**): Heelstone = **giant’s foot**; black iron-oxide / “ferritin” marrow stain; tendon cut; rust = cadaverine/putrescine fluids; cites own DNA/CT as scale proof; linked video `0TIcBzgy6m8` (**private** as of 2026-07-16).
+
+| Spurr (S8) | This repo’s Stonehenge reading |
+|------------|--------------------------------|
+| Heelstone is **petrified anatomy** (foot) | Heelstone / avenue axis = **portal / Birkeland focal column** — [portal investigation](/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md); essay [Stonehenge quantum portal](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) |
+| Soft-tissue chemistry pending collaborators | Monument class = **Golden Age spiral end-port**, not soft-tissue ossuary |
+| Overlap | Shared interest in **non-calendar** Stonehenge; **no** endorsement of foot-pareidolia |
+
+**Project stance:** Keep Heelstone-as-foot in the **macro-topography** lane (low priority); do **not** merge into the portal thesis.
 
 ---
 
@@ -215,28 +229,29 @@ Claims unique to *this* file’s framing (not proven):
 
 | # | Question | How to adjudicate |
 |---|----------|-------------------|
-| Q1 | ~~Full Helix report?~~ **Done (text).** Can we get **embedded chromatogram images** / original letterhead PDF? | Re-export DOCX images; ask Spurr or Helix for signed PDF. |
-| Q2 | Exact **field provenance** of the 10×12 hole, lung, hand, Kentucky head? | GPS, dated photos, witnesses, geology of the hole (Middletown CT dig per Longdom abstract). |
-| Q3 | Who is the **anatomist** / **coroner** named in abstracts? | Name + signed statement. |
-| Q4 | **Yale Narrative A vs B:** named contacts; any Yale output Spurr thinks “took credit”? | Spurr clarification (Discourse/email); still no hit in literature search this pass. |
-| Q5 | Do CT images of the Kentucky head show **biological** cranial anatomy vs concretion? | Independent radiologist blind read. |
-| Q6 | Can electro-fossilization be **replicated** from published steps? | Protocol from mirrored fascia PDFs → third party. |
-| Q7 | Would **modern aDNA lab** redo (damage patterns, UDG, independent lab) still hit human? | Highest-value falsifier for contamination thesis. |
-| Q8 | Timestamped video claim sheet (lung, hand, Stonehenge foot, living Earth)? | MFU Research DB / transcripts. |
+| Q1 | ~~Full Helix report?~~ **Done (text + media).** Signed PDF / raw AB1 chromatograms? | Ask Helix/Spurr ([outreach drafts](file local: wget/.../outreach-emails.md)). |
+| Q2 | Exact **field provenance** of Middletown dig / Kentucky head? | GPS still missing; city-level only. |
+| Q3 | Who is the **anatomist** / **coroner**? | **Dead end this pass** — never named publicly. |
+| Q4 | **Yale Narrative A vs B:** named contacts? | Still need Spurr clarification; P-234 falsifies “Yale ran the tests.” |
+| Q5 | CT images biological vs concretion? | Need DICOM / letterhead; video stills insufficient. |
+| Q6 | Electro-fossilization third-lab redo? | Open. |
+| Q7 | Modern aDNA lab redo (damage patterns, UDG)? | Highest-value falsifier for contamination thesis. |
+| Q8 | Full channel timestamp sheet? | Partial claim sheet written; yt-dlp API currently broken/private for key IDs. |
 
 ---
 
 ## 10. Weak points / remaining research TODOs
 
-- [x] Archive Helix **P-234** DOCX + extracted text under `wget/mudflood/mudfossil-university/` (+ MFU PDFs, site mirrors). See archive `README.md`.
-- [x] Confirm Helix lab identity (Warren MI; Tom Prychitko; helixbiolab.com).
-- [x] Literature pass: no Yale publication found citing Spurr/Helix P-234; sequencing vendor = **Eton**, not Yale.
-- [ ] Extract / archive **chromatogram figures** from the DOCX; locate CT DICOM / stills.
-- [ ] Name anatomist/coroner; Middletown dig GPS.
-- [ ] Timestamped claim sheet for top MFU videos.
-- [ ] Cross-check Stonehenge Heelstone claim vs [Stonehenge portal / chronology](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md).
-- [ ] Optional: email Helix / Spurr for clarification on contamination controls and Yale claim.
-- [ ] Decide later whether a **short reader article** is warranted; dossier-only until author names a path.
+- [x] Archive Helix **P-234** DOCX + text + gel/chromatogram media; MFU PDF corpus; site mirrors.
+- [x] Confirm Helix / Prychitko / Eton identity.
+- [x] Independent NCBI BLAST recheck of chromatogram sequence (**RID `5HJPCABD014`**).
+- [x] Yale literature pass (no Spurr credit hit); Stonehenge Heelstone cross-check vs portal lane.
+- [x] Draft outreach emails to Spurr + Helix (local `wget/.../outreach-emails.md` — **not sent**).
+- [x] Priority claim sheet (`wget/.../claim-sheet.md`).
+- [ ] Send outreach (author decision); archive any replies.
+- [ ] Obtain CT DICOM / facility reports; dig GPS if Spurr shares.
+- [ ] Convert remaining DOCX `image7.wmf`; dump captions for `bgnx2nN2a7U` / `nfdxxyT7Dco` when YouTube API cooperates.
+- [ ] Optional reader article — only if author names a path.
 
 ---
 
@@ -246,6 +261,8 @@ Claims unique to *this* file’s framing (not proven):
 |------|-----|
 | [MFEE Investigation](mfee-investigation.md) | Mud burial / map change thesis |
 | [American burial mounds](american-burial-mounds-mfee-smithsonian-national-parks-investigation.md) | Giants, fossilization, institutional gatekeeping |
+| [Stonehenge portal / Birkeland](/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md) | Contrast Heelstone-as-foot vs portal geometry |
+| [Stonehenge quantum portal essay](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) | Reader-facing Stonehenge thesis |
 | [Mudflood hub](../page.md) | Controlled-opposition / deepfake mudflood media warning |
 | [Blood rain / ecological disasters](blood-rain-dust-ecological-disasters-investigation.md) | Post-catastrophe ecology oddities |
 | [Æther vocabulary](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) | Separate physics lane if DEFT is audited |
@@ -269,6 +286,9 @@ Keywords: #MudfossilUniversity #RogerSpurr #Mudfossils #BiologicalGeology #Giant
 ## Investigator notes
 
 - Chat seed: `#mudflood` guest thread 2025-02-06 (Roger Spurr / Mudfossil University add-a-section ask) on `chat/public`. Playbook: [`docs/CHAT_REQUEST_RESPONSE.md`](/docs/CHAT_REQUEST_RESPONSE.md) §8 Example B.
+- Chat reply posted 2026-07-16 as `protricity` in `#mudflood` with live investigation URL.
 - Session 2026-07-16 (a): first dossier draft.
-- Session 2026-07-16 (b): archived Helix P-234 DOCX from mfutools; extracted full text; confirmed Helix/Prychitko/Eton; Yale absent from report; MFU PDF corpus mirrored; wget README written at `/home/ari/dev/wget/mudflood/mudfossil-university/README.md`.
-- DOCX embeds YouTube link `https://www.youtube.com/watch?v=nfdxxyT7Dco` near chromatogram section — candidate for figure capture next.
+- Session 2026-07-16 (b): Helix P-234 archive + Eton/Yale analysis; MFU PDF corpus; wget README.
+- Session 2026-07-16 (c): DOCX media extract; NCBI BLAST RID `5HJPCABD014` (human D-loop/CYTB); Stonehenge Heelstone cross-check; `claim-sheet.md` + `outreach-emails.md`; anatomist/coroner name search dead end; yt-dlp API failures / `0TIcBzgy6m8` private.
+- Local archive: `/home/ari/dev/wget/mudflood/mudfossil-university/`.
+- **Do not** paste data-broker street/phone into public dossier — Middletown CT city-level only.
