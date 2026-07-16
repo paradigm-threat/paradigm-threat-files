@@ -261,7 +261,7 @@ These things we were instructed to believe, but are actually fake.
 * [9/11 Was an Inside Job by 'Good' Actors](/events/911)
 * [Apollo Missions were staged](/events/apollo)
 * [Atomic bombs are fake](/science/nukes)
-* [JFK Was Never Assassinated](/events/jfk)
+* [JFK Was Never Assassinated](/events/jfk/jfk-was-never-assassinated)
 * [Astronomy is a Religion, not Science](/cosmos/cosmology/astronomy)
 * [QAnon/Snowden/Manning are controlled opposition agents](/influence/controlled_opposition)
 * [False Flags](/events/false_flag)

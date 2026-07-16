@@ -1,6 +1,6 @@
 # Investigation: JFK & RFK — Staged Assassination Hoax (Kennedy Family Compliance)
 
-> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — **real pre-Dallas attempts** (Pavlick anchor) → **family compliance** under **car-party threat**; **[§1.1 pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar)** — **Business Plot** health-fiction fork closest analogue; **no documented pre-1963 death hoax**; **[§1.4 death-package epistemics](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)** — **announced dead**, **photo layer**, **amplifier punishment** (Ellsberg parallel); **Tier I–III** map (**fake death** = **JFK/RFK only** in site thesis); **[§2.1 motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)** — **hostile Dallas**, **Stevenson** incident, **morning ad**, **open published route** = **spectacle not faction healing**; **Dealey** **robot / exploding-head** ruse; **[§2.3 PP media catalog](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)** — **Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***; **[§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)** — **mock → divide → distract** after **Russia** script failed; **[§2.5 investigate → attempt → non-action](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)** — **FBI/SS touch** → **attempt** → **shoddy prevention**; **[§2.6 target-list intimidation](#26-target-list-intimidation-campaign--published-or-pocket-lists)** — **2017 Congressional baseball** anchor (**Hodgkinson** pocket list + **FBI** **suicide-by-cop** spin); **[§2.7 author synthesis](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)** — **Pavlick-only parseable motive**, **motive inversion**, **rogue CIA lanes**, **cartel ground cabal**; **Vietnam escalation** on **documented timeline**. **RFK (Jun 1968)** — **Sirhan** decoy; **Hartwell** **slug vs .22** wedge; **[§3.0 Cesar cleared](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)** (**Jul 2026** — Cesar **did not** shoot RFK). **[§3.1 Chappaquiddick (Jul 1969)](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)** — **living-brother** **~10-hour** delayed report after **Mary Jo Kopechne** drowned; **serious** **public-credibility** collapse. **[§3.2 connected deaths](#32-connected-deaths--silencing-lane-kennedy-adjacent)** — **Monroe**, **Kilgallen**, **Meyer**; **Tier I–II** default; **Kilgallen** = [prophet.md](../prophet.md) **distraction tree**. **[§3.3 contradictions as method](#33-author-sentiment--contradictions-as-method-disclosure-envelope)** — seals are **disclosure blockers**, **not** theory weaknesses; **enough** to stop leaks. Cross-read [agent.md](../agent.md), [§2](#2-jfk-november-1963-fake-assassination), [prophet.md](../prophet.md).
+> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — **real pre-Dallas attempts** (Pavlick anchor) → **family compliance** under **car-party threat**; **[§1.1 pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar)** — **Business Plot** health-fiction fork closest analogue; **no documented pre-1963 death hoax**; **[§1.4 death-package epistemics](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)** — **announced dead**, **photo layer**, **amplifier punishment** (Ellsberg parallel); **Tier I–III** map (**fake death** = **JFK/RFK only** in site thesis); **[§2.1 motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)** — **hostile Dallas**, **Stevenson** incident, **morning ad**, **open published route** = **spectacle not faction healing**; **Dealey** **robot / exploding-head** ruse; **[§2.3 PP media catalog](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)** — **Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***; **[§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)** — **mock → divide → distract** after **Russia** script failed; **[§2.5 investigate → attempt → non-action](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)** — **FBI/SS touch** → **attempt** → **shoddy prevention**; **[§2.6 target-list intimidation](#26-target-list-intimidation-campaign--published-or-pocket-lists)** — **2017 Congressional baseball** anchor (**Hodgkinson** pocket list + **FBI** **suicide-by-cop** spin); **[§2.7 author synthesis](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)** — **Pavlick-only parseable motive**, **motive inversion**, **rogue CIA lanes**, **cartel ground cabal**; **Vietnam escalation** on **documented timeline**. **RFK (Jun 1968)** — **Sirhan** decoy; **Hartwell** **slug vs .22** wedge; **[§3.0 Cesar cleared](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)** (**Jul 2026** — Cesar **did not** shoot RFK). **[§3.1 Chappaquiddick (Jul 1969)](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)** — **living-brother** **~10-hour** delayed report after **Mary Jo Kopechne** drowned; **serious** **public-credibility** collapse. **[§3.2 connected deaths](#32-connected-deaths--silencing-lane-kennedy-adjacent)** — **Monroe**, **Kilgallen**, **Meyer**; **Tier I–II** default; **Kilgallen** = [prophet.md](../prophet.md) **distraction tree**. **[§3.3 contradictions as method](#33-author-sentiment--contradictions-as-method-disclosure-envelope)** — seals are **disclosure blockers**, **not** theory weaknesses; **enough** to stop leaks. Cross-read [JFK Was Never Assassinated](../jfk-was-never-assassinated.md), [agent.md](../agent.md) (hub), [§2](#2-jfk-november-1963-fake-assassination), [prophet.md](../prophet.md).
 
 **Status:** Open — project thesis + public-record / forensic anchors; **no** proof of either man’s post-event public life.  
 **Date:** 2026-06-29
@@ -228,7 +228,7 @@ After Lawrence’s failed attack, **Jackson** accused **Poindexter** / **Calhoun
 
 ## 2. JFK — November 1963 fake assassination
 
-**Canonical site essay:** [agent.md](../agent.md) (summary + author sentiment below).
+**Canonical site essay:** [JFK Was Never Assassinated](../jfk-was-never-assassinated.md). Hub: [agent.md](../agent.md).
 
 ### Best evidence ladder (reply / audit order)
 
@@ -253,7 +253,7 @@ Start with **documented pre-Dallas pressure**, not Zapruder minutiae:
 - **Why comply:** Deep State would **continue real assassination attempts** if JFK stayed in power; **fake death** allowed **Asian war** scale-up **without** his resistance — **Vietnam escalation after Dallas** is **documented**, not speculative.
 - **Dealey Plaza** motorcade = **elaborate ruse**; **automatronic robot / mannequin** + **exploding head** timed like gunshot; **Jacqueline** and **Connally** party went along under **car-party threat**.
 - **No shooters required (thesis):** Spectacle can run **without** resolving **Oswald**, **magic bullet**, or **grassy knoll** — those are **distraction** once the **kill layer** is read as **synthetic**.
-- **Predictive programming:** Film/TV/music **robot-decoy / blood-squib / motorcade-mock / generational ridicule** grammar **prefigures** Dealey **hand-wave** read — **canonical catalog:** [§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) (**Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***); **not sole proof**.
+- **Predictive programming:** Film/TV/music **robot-decoy / blood-squib / motorcade-mock / generational ridicule** grammar **prefigures** Dealey **hand-wave** read — **canonical catalog:** [§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) (**Tier A:** *Girl Hair* — motorcade + Tooth Fairy/Baby Tooth + **Bizarro Santa** + *“fairy tale?”* **laugh-track containment**, ***F/X***, ***TDKR***, **Rebecca Black *Friday***); **not sole proof**.
 - **JFK as Rex Bellator** — war-prep figure (Cuba, Asia, **Russia** containment), **not** peace-icon; **Russia** framed as **world deep state** while **Washington** board escalates same war.
 - **Oswald** + **Warren Commission** **magic bullet** = **confusion / containment layer** after **“Russia did it”** failed — **mock → divide → distract** grammar parallel to [§2.2 *Friday*](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect); full audit [§2.4](#24-warren-commission--magic-bullet-containment-mock-divide-distract); CIA **1035-960** **“conspiracy theorist”** ridicule **poisons** serious audit.
 - **FBI / Secret Service negligence envelope** ([§2.5](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)): **documented** repeat of **(1) agency investigates or files subject → (2) attempt proceeds → (3) no conspiracy proved, but also weak proof agencies acted on prior knowledge** — **Pavlick**, **Oswald file**, **Moore informant**, **Hinckley**, post-JFK **Ford/Reagan** lane; **Trump 2024** (**Crooks** real-time intel failure, **Routh** closed 2019 tip) — **institutional deniability** without requiring **provable FBI order**.
@@ -393,7 +393,7 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 
 | Tier | Work | Year | Mechanism | JFK hoax layer |
 |------|------|------|-----------|----------------|
-| **A** | ***Space Ghost Coast to Coast* — “Girl Hair”** | 1999 | **Moving car** hit (**Phantom Cruiser** ↔ **motorcade**); **robot built to look like** Tooth Fairy destroyed; real figure alive; **witness disposal**; **Baby Tooth Survey** colors Tooth Fairy as **Kennedy-adjacent** mask | **Motorcade + robot decoy**; real target exits |
+| **A** | ***Space Ghost Coast to Coast* — “Girl Hair”** | 1999 | **Moving car** hit; **robot** Tooth Fairy decoy; **children’s teeth** plot; **Bizarro Santa**; *“You gonna believe that fairy tale?”* + *“I'm the good one”*; Baby Tooth / PTBT | **Motorcade + decoy + surviving alter + conspiracy-ridicule laugh track** |
 | **A** | ***F/X*** (*Murder by Illusion*) | 1986 | **Public staged hit** — blanks + **radio-triggered blood squib vest**; victim enters protection **alive** | **Exploding blood bag / squib “death”** |
 | **A** | ***The Dark Knight Rises*** (opening plane hijack) | 2012 | **Live target’s blood drawn** → **transfused into age-matched corpse** → **crash wreckage** fools agency forensics | **Blood staging for investigators** |
 | **A** | **Rebecca Black — *Friday*** | 2011 | **Nov 22 = Friday** calendar lock; **limousine seat** lyrics; **“get down”** shooting grammar; **mass mockery** **disconnects** next gen from assassination grief | **Hoax shooting encoded as joke** — [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) |
@@ -464,9 +464,73 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 
 **Chronology note:** *Girl Hair* is **1999** — post-Dallas **reinforcement / cultural residue**, not a 1962 prediction. Fits dossier PP use (grammar that **teaches** the decoy reading); pairs with **Whipping Post** aired **Nov 22** ([Tier B](#tier-b--adjacent-spectacle-jfk-rhyme-identity-swap)).
 
-**Site read:** Exact **“not killed — robot built to look like me was destroyed”** grammar for [agent.md](../agent.md) **automatronic decoy** layer. Episode also orders Moltar to **“Construct a robot, name it Orlando”** — doppelgänger tooling is **theme**, not one gag. **Motorcade rhyme** + **Baby Tooth / Tooth Fairy** encode **strengthen** Tier A without requiring a documented nickname.
+#### Girl Hair — Bizarro Santa as surviving JFK alter (author)
 
-**Tier:** **Author PP** — **strongest scripted precedent** for robot-replacement fake death in this dossier; **motorcade + Tooth Fairy/Kennedy** layers = **author encode** atop **citable** survey/treaty facts.
+**Episode citation (teeth collection is *in the plot*):** Space Ghost has **giant bags of human teeth** on the desk. “Santa” arrives and explains why he wanted the Tooth Fairy destroyed:
+
+> **SANTA:** *So that I could be the Tooth Fairy, Moltar. Then Santa could use all the little children's teeth to make bizarre and twisted toys for Santa's own amusement! Ho ho ho ho ho!!!*
+
+Space Ghost doubts him; the mask drops:
+
+> **SANTA:** *Because I'm not the Santa you know! I'm Bizarro Santa! From the Electroid Dimension!*
+
+Then: *“Ho ho ho! Give me the teeth! I have plans for those teeth!”* ([snard transcript](https://www.snard.com/sg/guide/?ep=71&fmt=2))
+
+| Figure | Surface | Author encode |
+|--------|---------|----------------|
+| **Tooth Fairy** | Victim of public “kill”; survives via **robot decoy** | **Death-theater target** / announced-dead grammar |
+| **Santa** | Beloved gift-bringer everyone trusts | **Public JFK brand** — peace icon, treaty president, Camelot |
+| **Bizarro Santa** | Same body; reveals **twisted** use of **children’s teeth** | **Surviving JFK alter** — **not** what the public thinks; still after the teeth |
+
+**Why “bizarre” fits Baby Tooth / PTBT (author):** The survey’s headline political payoff was a **ban on atmospheric nuclear testing** framed as radiation-from-teeth science. Author read: that outcome is itself **extremely bizarre / politically dubious** as the *only* real deliverable of a mass **children’s-teeth** harvest — soft-power optics that **launder** a nuclear-state story into **Santa/good-president** branding. *Girl Hair* names the motive in plain cartoon language: **children’s teeth → bizarre and twisted toys for his own amusement**.
+
+**Author synthesis (2026-07-16):** **Bizarro Santa** and the **Tooth Fairy** are **paired Kennedy masks**, not rivals only:
+
+1. Public “Santa” (good JFK) wants the **Fairy’s** tooth franchise  
+2. He is revealed as **Bizarro** — the **real** ego behind the beloved brand  
+3. The Fairy’s **robot** takes the hit while the Fairy lives → **staged assassination** grammar  
+4. The survivor who still hunts teeth = **announced-dead JFK** still operating — **absolutely not** the peace-icon everyone thinks ([agent.md](../agent.md) Rex Bellator vs hero illusion)
+
+#### Girl Hair — “You gonna believe that fairy tale?” (author — containment laugh track)
+
+**Episode citation:**
+
+> **BIZARRO SANTA:** *Ho ho ho-oh Tannebaum! You gonna believe that fairy tale? Trust in me. I'm the good one.*
+
+(Tooth Fairy counters: *“No, Space Ghost! I'm the good one!”* — [snard transcript](https://www.snard.com/sg/guide/?ep=71&fmt=2))
+
+**Surface read:** Comic relief — “fairy tale” pun because the rival is the **Tooth Fairy**.
+
+**Author sentiment (2026-07-16):** The pun was available because the **Tooth Fairy connection already existed** in the plot (and, outside the show, in the **Baby Tooth / Kennedy** lane). So the line is **not** only a gag. Once you read the **matrix code** on this episode — motorcade hit, robot decoy, children’s teeth, Bizarro Santa as surviving twisted alter — and you **explain it to someone**, they are already **pre-programmed** with the JFK/CIA term **“conspiracy theorist”** ([§2.4](#24-warren-commission--magic-bullet-containment-mock-divide-distract) / CIA **1035-960**). Their **preprogrammed response** makes the **room laugh at you**:
+
+> *You gonna believe that fairy tale?*
+
+Same grammar as Bizarro Santa’s line: **ridicule as thought-stopper**, then *“Trust in me. I'm the good one”* — trust the **official / Camelot brand**, not the decode. *Friday* trains the next generation to **mock** assassination grief ([§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect)); *Girl Hair* scripts the **exact laugh line** used against anyone who breaks the code.
+
+#### “Tooth Fairy” as containment code word (documented — Weisberg 1992)
+
+**Author claim:** In assassination-research culture, critics often invoke the **Tooth Fairy** not as folklore analysis but as an **insult** — a **code word** that delivers the same payload as CIA **“conspiracy theorist”** ([§2.4](#24-warren-commission--magic-bullet-containment-mock-divide-distract) / **1035-960**) without saying the banned term out loud: *this is childish nonsense; laugh now*.
+
+**Documented example — Harold Weisberg**, *Whitewash* author, to *The Washington Post* (Feb 27, 1992), dismissing Howard Donahue’s accidental-shooting theory:
+
+> *I rank it with the tooth fairy. Publishers have gone through the bottom of the barrel with JFK material, and are now in the sewers.*
+
+Source: [“The Accidental Assassination? Book Adds Twist to JFK Theories,” *Washington Post*, Feb 27, 1992](https://www.washingtonpost.com/archive/lifestyle/1992/02/27/the-accidental-assassination-book-adds-twist-to-jfk-theories/419051cb-412b-4039-95a0-90b77bba1452/).
+
+| Layer | Read | Tier |
+|-------|------|------|
+| Weisberg used **“tooth fairy”** to **mock** a JFK theory in mainstream press | **Documented** — *Post* interview | |
+| Function = **ridicule / thought-stopper**, same class as **“conspiracy theorist”** | **Author** — containment continuity; **code word** so the room gets the message | |
+| Pre-dates *Girl Hair* (1999) by **7 years** | **Documented** chronology — the insult was **already live** in JFK discourse before Bizarro Santa’s *“fairy tale?”* line | |
+| Weisberg “meant” Baby Tooth Survey / staged-death encode | **Rejected** as claim — he was **insulting**; site reads the **word choice** as **loaded** in a Kennedy–teeth cultural field | |
+
+**Site pairing:** **1035-960** → say **conspiracy theorist**. Research-community / press → say **tooth fairy** / **fairy tale**. *Girl Hair* (1999) then **airs the laugh track on camera**. Audience already knows what the code means.
+
+**Does not require** Weisberg to be CIA or hostile to all criticism — he was a **major Warren critic**. That makes the cite sharper: even **inside** assassination research, **Tooth Fairy** is the **sanctioned punchline** for theories ranked beneath serious debate.
+
+**Site read:** Exact **“not killed — robot built to look like me was destroyed”** grammar for [agent.md](../agent.md) **automatronic decoy** layer. Episode also orders Moltar to **“Construct a robot, name it Orlando”** — doppelgänger tooling is **theme**, not one gag. **Motorcade rhyme** + **Baby Tooth / Tooth Fairy** + **Bizarro Santa = surviving twisted JFK** + **“fairy tale” / Tooth Fairy containment laugh** (Weisberg → *Girl Hair*) encode **strengthen** Tier A without requiring a documented nickname.
+
+**Tier:** **Author PP** — **strongest scripted precedent** for robot-replacement fake death in this dossier; **motorcade + Tooth Fairy/Kennedy + Bizarro Santa alter + fairy-tale ridicule** layers = **author encode** atop **citable** survey/treaty facts + **verbatim** episode dialogue + **documented** Weisberg code-word use.
 
 ##### 2. *F/X* (1986) — subtitled *Murder by Illusion*
 
@@ -522,6 +586,27 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 | ***Assassin*** (1986 TV) | **Human-indistinguishable robot** assassinates officials | [NYT review](https://www.nytimes.com/1986/03/19/arts/assassin-a-cbs-movie-about-a-killer-robot.html) |
 | ***Space Ghost C2C* — “Whipping Post”** (2003-11-22) | Robot **replacement** monologue on **Dallas anniversary** | [snard.com ep. 84](https://www.snard.com/sg/guide/?ep=84&fmt=2) |
 | **“Paul is dead”** | **Lookalike replacement** after alleged crash — pre-TV **double folklore** | [Wikipedia](https://en.wikipedia.org/wiki/Paul_is_dead) |
+| ***SpongeBob* — “Krab Borg”** (2002) | Crew convinced boss is **robot doppelgänger**; tie him up / interrogate appliances for the “real” Krabs — **replacement paranoia comedy** | [SB wiki](https://spongebob.fandom.com/wiki/Krab_Borg) |
+| ***Zita the Spacegirl*** (comics) | Rogue **robot doppelgänger** wears her face, ruins reputation while she’s away | [Wikipedia](https://en.wikipedia.org/wiki/Zita_the_Spacegirl) |
+| ***The Twilight Zone*** (robot/double episodes) | Recurring **synthetic person / double** dread (e.g. “From Agnes—with Love” and related android/identity arcs) — **existential** substrate, not Dealey plot | [Wikipedia — TZ episodes](https://en.wikipedia.org/wiki/List_of_The_Twilight_Zone_(1959_TV_series)_episodes) |
+| ***Red Dwarf* — “Tikka to Ride”** (1997) | Timeline botch at **Dallas Nov 22**; aging/future **JFK** must help **assassinate his past self** to restore history — **explicit JFK + fake/altered assassination** satire | [Wikipedia](https://en.wikipedia.org/wiki/Tikka_to_Ride); [official guide](https://reddwarf.co.uk/episodes/tikkatoride/) |
+
+#### Tier B2 — discourse lanes (same thesis neighborhood — not PP exhibits)
+
+**Purpose:** Map **where else** robot-double / surviving-JFK talk lives — so reply discipline can **use** or **refuse** each lane without confusing them with Tier A (*Girl Hair*, *F/X*, *TDKR*, *Friday*).
+
+| Lane | Core claim | Fit to site thesis | Reply discipline |
+|------|------------|--------------------|------------------|
+| **“Dead double” fringe** (old boards / Reddit / Quora) | Real JFK sidelined by **illness** (often Addison’s); **lookalike / altered double** in Dealey limo as sacrificial proxy | **Partial rhyme** — **proxy in the car** matches decoy grammar; usually assumes **real kill of the double**, not **staged death theater** / robot | Use for **double-in-limousine** discourse; **don’t** adopt medical-nursing-home lore as site proof |
+| **QAnon / “JFK Jr. alive” offshoots** (≈2018→) | JFK Jr. faked 1999 crash; some threads **back-blend** to **JFK Sr.** surviving Dallas | **Announced-dead family** grammar adjacent to [§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment); **contaminated** brand — not forensic | **Refuse as load-bearing**; cite only as **modern folklore** that **keeps survival talk alive** while poisoning serious audit |
+| **Satirical sci-fi / “impossible robot” mock** | Writers parody “out of control” conspiracies with **1963 robot doubles** as absurd | **Containment-adjacent** — trains audience to hear **robot decoy** and **laugh** (*“fairy tale”* lane — [Girl Hair](#girl-hair--you-gonna-believe-that-fairy-tale-author--containment-laugh-track)) | Site **inverts**: absurdity packaging can **hide** operational PP (*Girl Hair* still states the mechanism) |
+| **Bubble / isolation / Peanut Island** jokes | Historical figures living out days in **secret bunkers** / bases | Soft **survival-in-isolation** folklore; Peanut Island was a **real** Kennedy-era **continuity bunker** project — jokes ride that fact | **Atmosphere** only — not proof of post-Dallas life |
+
+**Krab Borg vs Girl Hair (author):** *Krab Borg* is **paranoia that the boss is a robot** (and they’re usually **wrong** / comic). *Girl Hair* is the **inverse operational statement**: the public kill **was** a robot; the real one **walks**. Same doppelgänger vocabulary, **opposite truth value** — useful as **mass children’s TV** residue that makes robot-replacement **thinkable**, weaker as Dealey encode than *Girl Hair*.
+
+**Red Dwarf vs site thesis:** *Tikka to Ride* needs **JFK dead in the history books** so hard that a living Kennedy must **shoot himself in the past** to restore the martyr timeline — satire that **admits** the assassination is a **timeline product**, not a simple lone-nut accident. Adjacent to **staged history**, not identical to **robot decoy**.
+
+**Zita / Twilight Zone:** Pure **doppelgänger / synthetic identity** substrate — Tier B spectacle grammar; no motorcade or teeth encode.
 
 #### Tier C — substrate (film grammar / weak PP)
 
@@ -538,8 +623,14 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 | **Girl Hair** line is **verbatim** match for **“robot built to look like me”** decoy thesis | **Citable** — [snard transcript](https://www.snard.com/sg/guide/?ep=71&fmt=2) |
 | **Girl Hair** **Phantom Cruiser** ↔ **Dealey motorcade** (moving-car kill platform) | **Author rhyme** — vehicle + witnesses + decoy reveal |
 | **Girl Hair** **Tooth Fairy** ↔ **Baby Tooth Survey** / Kennedy PTBT lane | **Documented** survey + treaty link; **author** = Kennedy-adjacent mask (nickname **not** required) |
+| **Girl Hair** **Bizarro Santa** — children’s teeth for **“bizarre and twisted”** toys; **not** the Santa everyone knows | **Citable** plot ([snard](https://www.snard.com/sg/guide/?ep=71&fmt=2)); **author** = surviving JFK alter / Rex Bellator under Camelot brand |
+| **Girl Hair** *“You gonna believe that fairy tale?”* / *“I'm the good one”* | **Citable** dialogue; **author** = **preprogrammed** ridicule response after decode — pairs CIA **“conspiracy theorist”** ([§2.4](#24-warren-commission--magic-bullet-containment-mock-divide-distract)) |
+| **Weisberg (1992)** — *“I rank it with the tooth fairy”* | **Documented** — [*Washington Post*](https://www.washingtonpost.com/archive/lifestyle/1992/02/27/the-accidental-assassination-book-adds-twist-to-jfk-theories/419051cb-412b-4039-95a0-90b77bba1452/); **author** = **Tooth Fairy** as **containment code word** (pre-*Girl Hair*) |
 | **TDKR + F/X** demonstrate **forensic / witness-facing** staging (blood in corpse, squib vest) | **Citable** — script + Wikipedia |
 | ***Friday*** **motorcade encode + mass mockery** — **inappropriate** without hoax read; **disconnects** next generation from assassination grief | **Author Tier A** — [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) |
+| **Krab Borg / Zita / Twilight Zone** = same **robot-double vocabulary** as *Girl Hair* | **Tier B** — adjacent PP residue |
+| ***Red Dwarf* “Tikka to Ride”** = **explicit Dallas** satire (living JFK must fix history by dying) | **Tier B** — JFK timeline product |
+| **Dead-double fringe / QAnon Jr. survival** | **Tier B2 discourse** — **not** site proof; QAnon = **contaminated** |
 | Any single PP title **proves** Nov 22 1963 was hoaxed | **Rejected** — **adjunct** to Pavlick, §2.1, Hartwell |
 
 **Cross-read:** [prophet.md](../prophet.md) (Downard **Killing the King** — spectacle requires audience); [Epstein staged death](../../false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md) (later **public death ≠ exit** precedent); [§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract) (official **mock-divide-distract** lane — pairs with [§2.2 *Friday*](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect)).
@@ -618,6 +709,7 @@ Source: [NYT Dec 26, 1977](https://www.nytimes.com/1977/12/26/archives/cable-sou
 | **Forensic skeptic** (“prove hoax”) | **Pavlick**, **§2.1 motorcade**, **Hartwell** — **not** magic bullet alone |
 | **“Magic bullet proves lone gunman”** | **Russell dissent**, Epstein **load-bearing contradiction**, CE 399 **chain disputes** — then **§2 staged-kill** if appropriate |
 | **“You’re a conspiracy theorist”** | **CIA 1035-960** documented **coinage deployment** — **thought-stopper**, not argument |
+| **“I rank it with the tooth fairy”** | **Code-word** variant — same ridicule class; [Weisberg / *Washington Post* 1992](https://www.washingtonpost.com/archive/lifestyle/1992/02/27/the-accidental-assassination-book-adds-twist-to-jfk-theories/419051cb-412b-4039-95a0-90b77bba1452/); pairs *Girl Hair* *“fairy tale?”* ([§2.3](#girl-hair--you-gonna-believe-that-fairy-tale-author--containment-laugh-track)) |
 | **Generational** (“school only taught stupid bullet”) | **§2.4 + §2.2** — **official + viral** **mock layers** **replace** **investigation transmission** |
 
 **Tier:** **Documented** critics + CIA memo; **Salandria** + **site staged-kill** = **author**; **does not** alone prove Dallas hoax.
@@ -1341,6 +1433,7 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | **Mark Lane**, *Rush to Judgment* (1966) | **§2.4** — coined **“magic bullet”** label — [Wikipedia](https://en.wikipedia.org/wiki/Rush_to_Judgment) |
 | **Vincent Salandria** (1977) | **§2.4** — Report **designed to fall to pieces** / **divide et impera** — [ratical.org essay](https://ratical.org/ratville/JFK/FalseMystery/DesignOfWarrenReport.html) |
 | **CIA Dispatch 1035-960** (1967) | **§2.4** — ridicule Warren critics — [NYT](https://www.nytimes.com/1977/12/26/archives/cable-sought-to-discredit-critics-of-warren-report.html); [PDF](https://911speakout.org/wp-content/uploads/CIA-DOC-1035-960.pdf) |
+| **Weisberg / *Washington Post* (Feb 27, 1992)** | **§2.3 / §2.4** — *“I rank it with the tooth fairy”* — [archive](https://www.washingtonpost.com/archive/lifestyle/1992/02/27/the-accidental-assassination-book-adds-twist-to-jfk-theories/419051cb-412b-4039-95a0-90b77bba1452/) |
 | **Donald Wilkes** — media + CIA | **§2.4** — [fac_pm/269](https://digitalcommons.law.uga.edu/fac_pm/269) |
 | **History Matters — CE 399** | **§2.4 forensic lane** — [Even More Magical](https://historymatters.com/essays/frameup/EvenMoreMagical/EvenMoreMagical.htm) |
 | **§2.5 investigate → attempt → non-action** | Master table — Pavlick, Vallee, Oswald, Moore, Hinckley, Byck, Crooks, Routh — [§2.5](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope) |
@@ -1395,9 +1488,9 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Good-actor / NSA antibody | [good-actor-theory-interagency-antibody](../../false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | NSA / Ellsberg / Tonkin | [nsa-investigation](/governance/war/investigations/nsa-investigation.md) |
 
-Keywords: #JFK #RFK #Kennedy #Sirhan #ThaneCesar #StagedAssassination #FakeDeath #AnnouncedDead #DeathPackageEpistemics #DisclosureEnvelope #ContradictionsAsMethod #MarilynMonroe #DorothyKilgallen #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #ToothFairy #BabyToothSurvey #PhantomCruiser #FX #DarkKnightRises #RobotDecoy #BloodSquib #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #InvestigateAttemptNonaction #FBIAssassinationEnvelope #TargetListIntimidation #CongressionalBaseballShooting #RogueDeepState #MotiveInversion #Chappaquiddick #TedKennedy #MaryJoKopechne #ParadigmThreatFiles
+Keywords: #JFK #RFK #Kennedy #Sirhan #ThaneCesar #StagedAssassination #FakeDeath #AnnouncedDead #DeathPackageEpistemics #DisclosureEnvelope #ContradictionsAsMethod #MarilynMonroe #DorothyKilgallen #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #ToothFairy #BabyToothSurvey #BizarroSanta #PhantomCruiser #FX #DarkKnightRises #RobotDecoy #BloodSquib #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #InvestigateAttemptNonaction #FBIAssassinationEnvelope #TargetListIntimidation #CongressionalBaseballShooting #RogueDeepState #MotiveInversion #Chappaquiddick #TedKennedy #MaryJoKopechne #ParadigmThreatFiles
 
-**Last updated:** 2026-07-16 (§2.3 Girl Hair motorcade + Baby Tooth/Tooth Fairy encode; §3.3 disclosure envelope; §3.0 Cesar)
+**Last updated:** 2026-07-16 (Weisberg *“tooth fairy”* as containment code word; §2.3 related rhymes + Girl Hair fairy-tale laugh track)
 
 ---
 
