@@ -1,6 +1,6 @@
 # JFK Was Never Assassinated
 
-Staged fake death under family agreement — not another shooter theory
+Neither was RFK — staged fake death under family agreement
 
 ![JFK was never assassinated — staged fake death under family agreement](https://paradigmthreat.net/events/jfk/jfk-was-never-assassinated.png)
 
@@ -125,7 +125,7 @@ Supporting write-ups and companions:
 
 Keywords: #JFK #RFK #RFKJr #NeverAssassinated #StagedAssassination #FakeDeath #Pavlick #Vietnam #MotiveInversion #ConspiracyTheorist #ToothFairy #GirlHair #RebeccaBlack #SamuelKickin #Greer #Connally #Hartwell #ThaneCesar #Chappaquiddick #DisclosureEnvelope #Antibody #ValKilmer #BoomerSurvivalism #ParadigmThreatFiles
 
-**Last updated:** 2026-07-16T11:50:30-04:00
+**Last updated:** 2026-07-16 11:54 EDT
 
 ---
 
