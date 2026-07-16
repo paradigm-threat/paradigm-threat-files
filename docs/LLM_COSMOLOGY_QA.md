@@ -35,6 +35,7 @@
 
 - [`docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](PARADIGM_INVESTIGATION_INSTRUCTIONS.md) — investigation structure, evidence tiers
 - [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) — substrate / Maxwell canon
+- [`docs/CHAT_REQUEST_RESPONSE.md`](CHAT_REQUEST_RESPONSE.md) — site chat leads → investigate → `protricity` reply
 - [`.cursor/rules/paradigm-threat-cosmology-qa.mdc`](../.cursor/rules/paradigm-threat-cosmology-qa.mdc) — Cursor rule mirror
 
-**Date:** 2026-06-26
+**Date:** 2026-06-26 (chat-request cross-link **2026-07-16**)

@@ -278,5 +278,5 @@ This dossier maps **published dating methods** inside the Saturnian/catastrophis
 ## Investigator notes
 
 - Local Cook mirror: `~/dev/wget/saturniancosmology.org/` (`chron.php.html`, `long.php.html`, `planets.php.html`, `age.php.html`).
-- Chat trigger: `#cosmology` guest recommendation of the Tiki-Toki URL (Oct 2025) flagged in prior Discord research pass.
+- Chat trigger: `#cosmology` guest Tiki-Toki URL (2025-10-18, id 5384); reply posted 2026-07-16 as `protricity`. Playbook: [`docs/CHAT_REQUEST_RESPONSE.md`](/docs/CHAT_REQUEST_RESPONSE.md) §8 Example A.
 - Canvas companion (session): `saturnian-timelines-compare.canvas.tsx` under the active Cursor project `canvases/` folder.

@@ -8,6 +8,8 @@
 
 **Cosmology Q&A / social replies** (Big Melt, Bang, eternal universe, Einstein extrapolation, public comment templates) — **[`docs/LLM_COSMOLOGY_QA.md`](LLM_COSMOLOGY_QA.md)** → hub **[`cosmos/cosmology/qa/page.md`](../cosmos/cosmology/qa/page.md)**.
 
+**Site chat leads** (find guest asks on Relay `chat/public`, investigate, reply as `protricity` with live link) — **[`docs/CHAT_REQUEST_RESPONSE.md`](CHAT_REQUEST_RESPONSE.md)**; Cursor rule **`.cursor/rules/paradigm-threat-chat-requests.mdc`**.
+
 **Dates / timezone:** **`Last updated`** and hand-stamped calendar dates use **US Eastern** (`America/New_York`) — see **§ Dates and timezone** below; Cursor rule **`.cursor/rules/paradigm-threat-eastern-time.mdc`**.
 
 **Epistemic foundation (all investigations and articles):** **[`docs/PRISCA_SAPIENTIA.md`](PRISCA_SAPIENTIA.md)** — **prisca sapientia**: the ancients possessed vast understanding of universe, nature, and theology; later science and institutions degraded or captured it. **Required:** every `*investigation*.md` opens **Limits and disclaimers** with the standard **Prisca sapientia** paragraph (below); articles include it in **`## Framing and limits`** (or link once there).
