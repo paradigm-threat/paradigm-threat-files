@@ -1,6 +1,6 @@
 # Investigation: JFK & RFK — Staged Assassination Hoax (Kennedy Family Compliance)
 
-> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — **real pre-Dallas attempts** (Pavlick anchor) → **family compliance** under **car-party threat**; **[§1.1 pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar)** — **Business Plot** health-fiction fork closest analogue; **no documented pre-1963 death hoax**; **[§1.4 death-package epistemics](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)** — **announced dead**, **photo layer**, **amplifier punishment** (Ellsberg parallel); **Tier I–III** map (**fake death** = **JFK/RFK only** in site thesis); **[§2.1 motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)** — **hostile Dallas**, **Stevenson** incident, **morning ad**, **open published route** = **spectacle not faction healing**; **Dealey** **robot / exploding-head** ruse; **[§2.3 PP media catalog](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)** — **Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***; **[§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)** — **mock → divide → distract** after **Russia** script failed; **[§2.5 investigate → attempt → non-action](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)** — **FBI/SS touch** → **attempt** → **shoddy prevention**; **[§2.6 target-list intimidation](#26-target-list-intimidation-campaign--published-or-pocket-lists)** — **2017 Congressional baseball** anchor (**Hodgkinson** pocket list + **FBI** **suicide-by-cop** spin); **[§2.7 author synthesis](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)** — **Pavlick-only parseable motive**, **motive inversion**, **rogue CIA lanes**, **cartel ground cabal**; **Vietnam escalation** on **documented timeline**. **RFK (Jun 1968)** — **Sirhan** decoy; **Hartwell** **slug vs .22** wedge. **[§3.1 Chappaquiddick (Jul 1969)](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)** — **living-brother** **~10-hour** delayed report after **Mary Jo Kopechne** drowned; **serious** **public-credibility** collapse. **[§3.2 connected deaths](#32-connected-deaths--silencing-lane-kennedy-adjacent)** — **Monroe**, **Kilgallen**, **Meyer**; **Tier I–II** default; **Kilgallen** = [prophet.md](../prophet.md) **distraction tree**. Cross-read [agent.md](../agent.md), [§2](#2-jfk-november-1963-fake-assassination), [prophet.md](../prophet.md).
+> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — **real pre-Dallas attempts** (Pavlick anchor) → **family compliance** under **car-party threat**; **[§1.1 pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar)** — **Business Plot** health-fiction fork closest analogue; **no documented pre-1963 death hoax**; **[§1.4 death-package epistemics](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)** — **announced dead**, **photo layer**, **amplifier punishment** (Ellsberg parallel); **Tier I–III** map (**fake death** = **JFK/RFK only** in site thesis); **[§2.1 motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)** — **hostile Dallas**, **Stevenson** incident, **morning ad**, **open published route** = **spectacle not faction healing**; **Dealey** **robot / exploding-head** ruse; **[§2.3 PP media catalog](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)** — **Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***; **[§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)** — **mock → divide → distract** after **Russia** script failed; **[§2.5 investigate → attempt → non-action](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)** — **FBI/SS touch** → **attempt** → **shoddy prevention**; **[§2.6 target-list intimidation](#26-target-list-intimidation-campaign--published-or-pocket-lists)** — **2017 Congressional baseball** anchor (**Hodgkinson** pocket list + **FBI** **suicide-by-cop** spin); **[§2.7 author synthesis](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)** — **Pavlick-only parseable motive**, **motive inversion**, **rogue CIA lanes**, **cartel ground cabal**; **Vietnam escalation** on **documented timeline**. **RFK (Jun 1968)** — **Sirhan** decoy; **Hartwell** **slug vs .22** wedge; **[§3.0 Cesar cleared](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)** (**Jul 2026** — Cesar **did not** shoot RFK). **[§3.1 Chappaquiddick (Jul 1969)](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)** — **living-brother** **~10-hour** delayed report after **Mary Jo Kopechne** drowned; **serious** **public-credibility** collapse. **[§3.2 connected deaths](#32-connected-deaths--silencing-lane-kennedy-adjacent)** — **Monroe**, **Kilgallen**, **Meyer**; **Tier I–II** default; **Kilgallen** = [prophet.md](../prophet.md) **distraction tree**. **[§3.3 contradictions as method](#33-author-sentiment--contradictions-as-method-disclosure-envelope)** — seals are **disclosure blockers**, **not** theory weaknesses; **enough** to stop leaks. Cross-read [agent.md](../agent.md), [§2](#2-jfk-november-1963-fake-assassination), [prophet.md](../prophet.md).
 
 **Status:** Open — project thesis + public-record / forensic anchors; **no** proof of either man’s post-event public life.  
 **Date:** 2026-06-29
@@ -11,7 +11,7 @@
 
 1. **Shared hoax grammar (Kennedy lane)** → [§1](#1-shared-hoax-grammar) · [§1.1 Pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar) · [§1.2 Nixon inverse exit](#12-post-kennedy-inverse-exit--nixon--watergate) · [§1.3 Legal responses & gaps](#13-legal-responses--gaps-health-concealment-autopen-25th) · [§1.4 Death-package epistemics](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)
 2. **JFK — Nov 22, 1963 (site thesis)** → [§2](#2-jfk-november-1963-fake-assassination) · [§2.1 Dallas motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission) · [§2.2 Rebecca Black *Friday* (Tier A PP)](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) · [§2.3 PP media catalog (canonical list)](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) · [§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract) · [§2.5 Investigate → attempt → non-action](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope) · [§2.6 Target-list intimidation](#26-target-list-intimidation-campaign--published-or-pocket-lists) · [§2.7 Author synthesis — rogue lanes](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)
-3. **RFK — Jun 4–6, 1968 (forensic + Hartwell)** → [§3](#3-rfk-june-1968-ambassador-hotel) · [§3.1 Chappaquiddick / Ted credibility](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969) · [§3.2 Connected deaths / silencing](#32-connected-deaths--silencing-lane-kennedy-adjacent)
+3. **RFK — Jun 4–6, 1968 (forensic + Hartwell)** → [§3](#3-rfk-june-1968-ambassador-hotel) · [§3.0 Thane Cesar cleared](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026) · [§3.1 Chappaquiddick / Ted credibility](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969) · [§3.2 Connected deaths / silencing](#32-connected-deaths--silencing-lane-kennedy-adjacent) · [§3.3 Contradictions as method](#33-author-sentiment--contradictions-as-method-disclosure-envelope)
 4. **Parallel table** → [§4](#4-jfk-vs-rfk-parallel-read)
 5. **Means, motive, opportunity (RFK — Hartwell)** → [§5](#5-rfk-means-motive-opportunity-hartwell)
 6. **Paradigm arc — betrayal, antibodies, endgame (author)** → [§6](#6-paradigm-arc-betrayal-antibodies-endgame-author)
@@ -262,8 +262,8 @@ Start with **documented pre-Dallas pressure**, not Zapruder minutiae:
 - **Chappaquiddick credibility wedge** ([§3.1](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)): Ted’s **~10-hour** delayed report after **Mary Jo Kopechne** drowned — **serious** **family/dynasty credibility** collapse; **supports** reading **Kennedy self-preservation over death transparency** as **non-impossible**; **does not** alone prove Dallas/Ambassador staging.
 - **Death-package epistemics** ([§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)): **Tier I–III** map — **announced dead** = **narrative death** + compliance; **photo layer** (cooperative stills / staged subjects) is what the public usually sees; **cannot know ground truth** from press package alone; **amplifier punishment** (Ellsberg / Pentagon Papers parallel) locks narrative after announcement.
 - **Connected deaths / silencing** ([§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)): **Monroe**, **Kilgallen**, **Meyer** default **Tier I–II** — **not** site **fake-death** cases; **Kilgallen** = [prophet.md](../prophet.md) **distraction tree**; supports **cover-up / silencing** grammar, **not** Dealey hoax proof alone.
-- **Death-package epistemics** ([§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)): **Tier I–III** map — **announced dead** = **narrative death** + compliance; **photo layer** (cooperative pose / drugged staging) + **epistemic ceiling** — public **cannot know** ground truth from **press package alone**; **amplifier punishment** (Ellsberg / Pentagon Papers parallel) once death is **fixed in narrative**.
-- **Connected deaths / silencing** ([§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)): **Monroe**, **Kilgallen**, **Meyer** default **Tier I–II** — **not** site **fake-death** cases; **Kilgallen** = [prophet.md](../prophet.md) **distraction tree**; supports **cover-up / silencing** grammar, **not** Dealey proof alone.
+- **Thane Cesar cleared (Hartwell Jul 2026)** ([§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)): **second-gun** lane **fails** MMO — Cesar **did not** shoot RFK; clearing him **strengthens** staged-death fork (**Sirhan ≠ fatal** + **no other shooter**) over “find the rear gunman.”
+- **Contradictions as method / disclosure envelope** ([§3.3](#33-author-sentiment--contradictions-as-method-disclosure-envelope)): sealed slug, Cesar tree, Moldea closure, living decoy, pantry blood, no proof-of-life — **not** “theory weaknesses” and **not** standard ME/LAPD policy; **targeted non-auditability**; **enough** to **prevent leaking the truth** — **no question**.
 
 **Tier:** **Project thesis** in [agent.md](../agent.md); Hartwell **RFK forensics** = **documented wedge** paired here; Dealey **robot / no-bullet** layer = **author thesis**.
 
@@ -393,7 +393,7 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 
 | Tier | Work | Year | Mechanism | JFK hoax layer |
 |------|------|------|-----------|----------------|
-| **A** | ***Space Ghost Coast to Coast* — “Girl Hair”** | 1999 | **Robot built to look like target** destroyed in public; real figure alive; **witness disposal**; decoy robots vs assassination attempts | **Robot decoy killed instead of real person** |
+| **A** | ***Space Ghost Coast to Coast* — “Girl Hair”** | 1999 | **Moving car** hit (**Phantom Cruiser** ↔ **motorcade**); **robot built to look like** Tooth Fairy destroyed; real figure alive; **witness disposal**; **Baby Tooth Survey** colors Tooth Fairy as **Kennedy-adjacent** mask | **Motorcade + robot decoy**; real target exits |
 | **A** | ***F/X*** (*Murder by Illusion*) | 1986 | **Public staged hit** — blanks + **radio-triggered blood squib vest**; victim enters protection **alive** | **Exploding blood bag / squib “death”** |
 | **A** | ***The Dark Knight Rises*** (opening plane hijack) | 2012 | **Live target’s blood drawn** → **transfused into age-matched corpse** → **crash wreckage** fools agency forensics | **Blood staging for investigators** |
 | **A** | **Rebecca Black — *Friday*** | 2011 | **Nov 22 = Friday** calendar lock; **limousine seat** lyrics; **“get down”** shooting grammar; **mass mockery** **disconnects** next gen from assassination grief | **Hoax shooting encoded as joke** — [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) |
@@ -429,9 +429,44 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 
 **Context:** She uses **robotic doppelgängers** because **Bizarro Santa has been trying to kill her for years**. Public narrative = **Fairy destroyed**; operative reality = **synthetic body** took the hit.
 
-**Site read:** Exact **“not killed — robot built to look like me was destroyed”** grammar for [agent.md](../agent.md) **automatronic decoy** layer. Episode also orders Moltar to **“Construct a robot, name it Orlando”** — doppelgänger tooling is **theme**, not one gag.
+#### Girl Hair — motorcade rhyme (author)
 
-**Tier:** **Author PP** — **strongest scripted precedent** for robot-replacement fake death in this dossier.
+| Dealey (1963) | *Girl Hair* (1999) |
+|---------------|---------------------|
+| **Moving car** as the stage (open limo / motorcade) | **Moving car** as the stage (**Phantom Cruiser**) |
+| Public hit during **transit**, not a closed room | Hit while **driving** — pedestrian “killed” |
+| Spectacle needs **vehicle + crowd + witnesses** | Space Ghost **disposes of witnesses** after the hit |
+| Kill layer disputed / synthetic in site thesis | Reveal: destroyed a **robot**, not the real figure |
+
+**Site read:** PP stack is **motorcade grammar + decoy body** — same board language as [§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission) and [§2.2 *Friday*](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) (**vehicle-as-kill-platform**), with an explicit **robot** punchline *Friday* lacks.
+
+#### Girl Hair — Tooth Fairy / Baby Tooth Survey encode (author)
+
+**Audit:** Why **Tooth Fairy** as the decoy mask — not a random fairy-tale bit?
+
+| Layer | Fact / read | Tier |
+|-------|-------------|------|
+| **Baby Tooth Survey** (St. Louis, 1958–1970) | Sr-90 in children’s deciduous teeth; ~300k+ teeth collected | **Documented** — [Wikipedia](https://en.wikipedia.org/wiki/Baby_Tooth_Survey) |
+| **Kennedy link** | Survey results reached JFK’s science lane; widely cited as helping push the **1963 Partial Nuclear Test Ban Treaty** | **Documented** |
+| **“Tooth Fairy” naming** | Coverage frames the survey as the **Tooth Fairy going scientific**; related radiation work called the **“Tooth Fairy Project”** (RPHP; NRC “Tooth Fairy Issue”) | **Documented** — e.g. [Smithsonian](https://americanhistory.si.edu/explore/stories/tooth-fairy-goes-scientific) |
+| Someone **called** JFK “Tooth Fairy” in period slang | Plausible in survey/White House joke lane; **no cite found** | **Author conjecture** — **not required** |
+| Adult Swim writers **intended** JFK | Unprovable | Same as *Friday* intent problem |
+
+**Author encode (2026-07-16):** Random check for a Kennedy–“Tooth Fairy” nickname hit the **strongest available bridge** — not an epithet clip, but the **one presidential science brand** that owns **teeth + fairy** language in the Dallas years. **Tooth Fairy** in *Girl Hair* is a **non-random mask** for a decoy-assassination sketch if you already hold the staged-death thesis:
+
+1. **Moving car** delivers the “assassination”  
+2. Public believes the **named figure** is dead  
+3. Truth: **robot built to look like** the target  
+4. Real one walks away  
+5. **Baby Tooth Survey** colors why **Tooth Fairy** is **Kennedy-adjacent** (fallout teeth, kids, treaty president)
+
+**Dark double meaning (author):** Fairy who **takes children’s teeth** for nuclear-state science / treaty optics — while [agent.md](../agent.md) Rex Bellator read says the same board later **sells boys into Asia**.
+
+**Chronology note:** *Girl Hair* is **1999** — post-Dallas **reinforcement / cultural residue**, not a 1962 prediction. Fits dossier PP use (grammar that **teaches** the decoy reading); pairs with **Whipping Post** aired **Nov 22** ([Tier B](#tier-b--adjacent-spectacle-jfk-rhyme-identity-swap)).
+
+**Site read:** Exact **“not killed — robot built to look like me was destroyed”** grammar for [agent.md](../agent.md) **automatronic decoy** layer. Episode also orders Moltar to **“Construct a robot, name it Orlando”** — doppelgänger tooling is **theme**, not one gag. **Motorcade rhyme** + **Baby Tooth / Tooth Fairy** encode **strengthen** Tier A without requiring a documented nickname.
+
+**Tier:** **Author PP** — **strongest scripted precedent** for robot-replacement fake death in this dossier; **motorcade + Tooth Fairy/Kennedy** layers = **author encode** atop **citable** survey/treaty facts.
 
 ##### 2. *F/X* (1986) — subtitled *Murder by Illusion*
 
@@ -501,6 +536,8 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 |-------|------|
 | Mainstream film/TV/music **taught audiences** robot-decoy, blood-squib, **motorcade-mock**, and **generational ridicule** grammar before and after Dallas | **Pattern** — **Tier A** titles dated |
 | **Girl Hair** line is **verbatim** match for **“robot built to look like me”** decoy thesis | **Citable** — [snard transcript](https://www.snard.com/sg/guide/?ep=71&fmt=2) |
+| **Girl Hair** **Phantom Cruiser** ↔ **Dealey motorcade** (moving-car kill platform) | **Author rhyme** — vehicle + witnesses + decoy reveal |
+| **Girl Hair** **Tooth Fairy** ↔ **Baby Tooth Survey** / Kennedy PTBT lane | **Documented** survey + treaty link; **author** = Kennedy-adjacent mask (nickname **not** required) |
 | **TDKR + F/X** demonstrate **forensic / witness-facing** staging (blood in corpse, squib vest) | **Citable** — script + Wikipedia |
 | ***Friday*** **motorcade encode + mass mockery** — **inappropriate** without hoax read; **disconnects** next generation from assassination grief | **Author Tier A** — [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) |
 | Any single PP title **proves** Nov 22 1963 was hoaxed | **Rejected** — **adjunct** to Pavlick, §2.1, Hartwell |
@@ -875,6 +912,7 @@ Most post-JFK attempts **could easily produce the opposite** of whatever the **a
 | **Local index** | `~/dev/wget/hartwell/index-who-shot-rfk.md` | Paradigm Threat summary of Hartwell thesis |
 | **Earlier Hartwell RFK PDF (2020)** | [History Was Staged — RFK faked assassination](https://deanhartwell.weebly.com/uploads/3/7/3/1/3731990/history_was_staged.pdf) | Prior essay on same lane (site hub) |
 | **RFK autopsy (hosted by Hartwell)** | [rfk_autopsy.pdf](https://deanhartwell.weebly.com/uploads/3/7/3/1/3731990/rfk_autopsy.pdf) | Primary autopsy doc for height / eye-color disputes on hub page |
+| **“Thane Cesar Did Not Shoot RFK” (Jul 15, 2026)** | [deanhartwell.weebly.com/essays/thane-cesar-did-not-shoot-rfk](https://deanhartwell.weebly.com/essays/thane-cesar-did-not-shoot-rfk) | Clears Cesar via **MMO**; pairs with *Who Shot RFK* — [§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026) |
 
 **Hartwell’s two-sentence forensic core** (2025 Substack / pamphlet — use when citing him):
 
@@ -950,6 +988,56 @@ Most post-JFK attempts **could easily produce the opposite** of whatever the **a
 > “The story of the bullet is part of a larger narrative designed to convince the public falsely that RFK had been killed. In other words, he faked his death.”
 
 **Not proven** in pamphlet — **alternative** when **official forensics fail** and **eyewitness + ballistics** exclude Sirhan as **Kennedy’s killer**.
+
+### 3.0 Thane Cesar — Hartwell clears second-gun lane (Jul 2026)
+
+**Audit question:** If Sirhan’s **.22** cannot account for the **fatal brain slug**, was **Thane Eugene Cesar** (Ace Security, armed rear escort) the **second shooter**?
+
+**Hartwell assessment (Jul 15, 2026):** **No.** Cesar **lacked means, motive, and opportunity** to intentionally shoot Kennedy — and the **unintentional** discharge read also fails. Full essay: [Thane Cesar Did Not Shoot RFK](https://deanhartwell.weebly.com/essays/thane-cesar-did-not-shoot-rfk).
+
+#### Documented role (context)
+
+| Fact | Notes |
+|------|-------|
+| **Thane Eugene Cesar (1942–2019)** | Ace Guard Service; called that afternoon for Ambassador crowd control |
+| Position | Helped **lead / escort** RFK; behind Kennedy when Sirhan opened fire ahead |
+| Weapon (admission) | **.38 Rohm** revolver that night |
+| Police status | Treated as **witness**, not suspect |
+
+#### Hartwell MMO (author — from essay + Moldea)
+
+| Factor | Hartwell argument |
+|--------|-------------------|
+| **Means** | A **.38** slug is **larger** than Sirhan’s **.22** (so size *could* fit autopsy narrative) — but using a **different caliber** makes **no sense** for someone trying to **disguise** as Sirhan’s assassin |
+| **Motive** | Openly disliked RFK; supported **George Wallace** — **dislike ≠ advocacy of violence**; removing RFK did **not** help a **third-party** with no path to win November |
+| **Opportunity** | Narrow pantry, **dozens of witnesses**; could not anticipate going unseen at **point-blank** range alleged in autopsy; risk of catching **Sirhan’s** fire; **no** apparent criminal / irrational history |
+| **Unintentional** | Would notice a discharge → either **admit** at scene or **exit quietly**; Cesar did **neither** — **stayed and talked to police** |
+| **Polygraph** | Voluntarily passed test by **Edward Gelb**; denied involvement |
+
+**Source Hartwell cites:** Dan E. Moldea, *The Killing of Robert F. Kennedy: An Investigation of Motive, Means and Opportunity*, **50th Anniversary Edition** (2018).
+
+#### Pairing to staged-death thesis
+
+| Claim | Tier |
+|-------|------|
+| Cesar rear escort with **.38**; police witness not suspect; Gelb polygraph (per Moldea / Hartwell) | **Documented** via secondary (Moldea); **not** re-audited here |
+| Cesar **did not** intentionally or accidentally shoot RFK | **Hartwell author** — [essay](https://deanhartwell.weebly.com/essays/thane-cesar-did-not-shoot-rfk); aligns **Moldea**; **contra** classic second-gun researchers |
+| Clearing Cesar **proves** RFK faked death | **Rejected** — necessary **cleanup** of competing tree, **not** standalone proof |
+| Sirhan **≠** fatal + **no other shooter** → fatal slug / death package as **narrative** | **Hartwell + site** — same fork as *Who Shot RFK*; Cesar clear **removes** the popular “rear gunman” escape hatch |
+
+**Site read:** Cesar-as-assassin is a **distraction tree** (parallel to Kilgallen/Ruby in [prophet.md](../prophet.md)). Hartwell’s clear forces the case back onto the **unspeakable** fork: if **Sirhan cannot fire the fatal slug** and **Cesar did not**, and the official frame has **no other shooter**, the **death announcement** itself is the product under audit ([§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)).
+
+#### Reply discipline
+
+| Audience | Lead with |
+|----------|-----------|
+| **“Cesar shot him from behind”** | Hartwell MMO + [essay](https://deanhartwell.weebly.com/essays/thane-cesar-did-not-shoot-rfk) — different caliber = bad disguise; stayed and talked |
+| **“Then who killed RFK?”** | Wrong frame if holding hoax thesis — **fatal slug narrative** + **Sirhan decoy**; not “find gunman #2” |
+| **“Moldea cleared Cesar so lone-nut stands”** | Moldea clears Cesar for **real murder** closure; Hartwell uses same clear for **staged-death** fork |
+
+**Cross-read:** [§3 Hartwell forensic core](#dean-hartwell--primary-rfk-forensic-source-cite-when-needed); [§5 MMO](#5-rfk-means-motive-opportunity-hartwell); Q3 (resolved → residual).
+
+**Tier:** **Hartwell author** assessment adopted as **site reply default** on Cesar; **open** residual = any **primary** ballistics proving Cesar **discharged** that night.
 
 ### 3.1 Chappaquiddick — Ted Kennedy / family credibility wedge (Jul 1969)
 
@@ -1073,6 +1161,52 @@ Long **“mysterious witness death”** catalogs (**Bowers**, **Ferrie**, **Gian
 
 **Tier:** **Documented** official rulings + citable facts where noted; **author** = tier map + Monroe pressure read — **not** substitute for Dealey/Hartwell forensics.
 
+### 3.3 Author sentiment — contradictions as method (disclosure envelope)
+
+**Purpose:** Capture **site author** reply to the claim that RFK/JFK staged-death reads have “weak points” — sealed brain slug, no independent re-measure, Cesar-as-forever-suspect, Moldea’s opposite endgame, polygraph soft proof, real pantry wounds, no proof-of-life, institutional scale / no leak, Sirhan still imprisoned.
+
+**Author sentiment (2026-07-16):** Those are **not weaknesses in the theory**. They are **real-time redactions** and **necessary blockers of real disclosure**. You **cannot** argue that stack is **standard policy**. You also **cannot** argue it would **fail** to stop leaks — it is **definitely enough**. **No question.**
+
+#### Not “standard policy”
+
+Routine ME / LAPD / Secret Service opacity is **messy and random**. The Kennedy death-package stack is **selective and coordinated** around the **one claim that would break the file**:
+
+| Apparent “gap” | Author read — **method**, not bug |
+|----------------|-------------------------------------|
+| Fatal slug **unrecovered** / “still in Arlington / too dangerous” | **Physical redaction** — the exhibit that closes the case is put **beyond audit** |
+| No **independent** primary slug measurement | **Access denial** — not a failed argument |
+| Forever hunt for **Cesar / rear gunman** | **Distraction tree** — researchers parked on **which gunman** ([§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026), [prophet.md](../prophet.md)) |
+| **Moldea** clears Cesar toward **lone-nut closure** | **Containment literature** — same facts routed to **wrong endgame** |
+| Polygraph / “stayed and talked” soft for court | Fine for **MMO purge** of a named cutout; not the load-bearing proof |
+| **Real** pantry casualties (Schrade et al.) | **Spectacle needs blood** — bystanders can bleed while the **presidential death package** is theater |
+| No public **proof-of-life** | **Announced-dead success condition** ([§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)) — survival *must* leave no trail |
+| Massive cast / “why no leak?” | **Amplifier punishment** + career/legal ruin — truth needs **no viable disclosure path**, not a perfect cover story |
+| **Sirhan** still imprisoned decades later | **Living decoy** kept on the board so the file never reopens as **hoax** |
+
+**Author claim:** This is **targeted non-auditability**, not bureaucratic accident. The **coincidences and contradictions are the method**.
+
+#### Enough to prevent leaking the truth
+
+| Claim | Author stance |
+|-------|---------------|
+| Death **announced** + body **sealed** + debate parked on **gunmen** + amplifiers **punishable** | **Enough** to stop disclosure — **no question** |
+| “Maybe someone would still leak” | **Rejected** as reply discipline — the envelope **works**; that is why generations still argue Oswald/Sirhan/Cesar instead of **death theater** |
+| “Unfalsifiable = weak theory” | **Rejected** — under containment, **unfalsifiability is a feature** of the seal, not a bug in the read |
+
+**Right reply:** not “maybe those are soft spots.” **The contradictions are the method, and the method works.**
+
+#### Reply discipline
+
+| Audience | Lead with |
+|----------|-----------|
+| **“Your theory has holes”** | List the seals → **§3.3** — **not holes**; **disclosure blockers**; **not standard policy** |
+| **“That’s just how autopsies work”** | **Selective** stack around the **fatal presidential claim** — not random ME opacity |
+| **“Someone would have talked”** | **[§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)** amplifier punishment — envelope is **enough**; **no question** |
+
+**Cross-read:** [§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment); [§3.0 Cesar](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026); [§2.4 Warren containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract); [§6 betrayal](#jfk-compliance-as-betrayal).
+
+**Tier:** **Author sentiment** — canonical for RFK/JFK **“weakness”** challenges; pairs with Hartwell forensic wedge without requiring proof-of-life.
+
 ---
 
 ## 4. JFK vs RFK parallel read
@@ -1080,14 +1214,14 @@ Long **“mysterious witness death”** catalogs (**Bowers**, **Ferrie**, **Gian
 | Dimension | JFK 1963 | RFK 1968 | **Ted / Chappaquiddick 1969** |
 |-----------|----------|----------|------------------------------|
 | **Spectacle** | National motorcade | Primary-night **victory** → **pantry** | Island party → **bridge death** → **delayed police** |
-| **Shooter myth** | Oswald | Sirhan | — (crash + delay) |
+| **Shooter myth** | Oswald | Sirhan (**Cesar cleared** — [§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)) | — (crash + delay) |
 | **Witness / process problem** | Magic bullet, few clear lines | Sirhan **in front**, RFK **falls back**, shots **after pin** | **Closed inquest**; **~10-hour** silence |
 | **Autopsy / ballistics / legal** | Warren Commission theater | Wolfer map; **slug size** vs **.22** | **Guilty** leaving scene; **suspended** sentence; Boyle **negligence** |
 | **Family precedent** | Pavlick **real** attempts → **compliance fork** | **JFK “murder”** five years prior | **Living brother** **credibility collapse** ([§3.1](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)) |
 | **War board / politics** | **Vietnam** | **1968** election / **re-open JFK** threat removed | Ted **presidency** path **killed** by scandal |
 | **Site file** | [agent.md](../agent.md) | This investigation | [§3.1](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969) |
 
-**Site synthesis:** RFK lane **confirms** JFK was **not** a one-off — **Kennedy compliance** with **staged death** is **repeatable**. **Chappaquiddick** shows the **surviving political Kennedy** could still **manage a fatal night for career optics**. **[§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)** names **announced dead** as **Tier III** grammar for **JFK/RFK only** in site thesis; **[§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)** places **Monroe/Kilgallen** in **Tier I–II** silencing lane. [§1.1](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar) places that playbook in **longer institutional grammar** (Business Plot, health hoaxes, Pavlick) **without** substituting for Dealey / Hartwell forensics.
+**Site synthesis:** RFK lane **confirms** JFK was **not** a one-off — **Kennedy compliance** with **staged death** is **repeatable**. **Hartwell Jul 2026** clears **Cesar** as second gun ([§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)) — removes the popular **rear-shooter** escape hatch so the **slug vs .22 + no other shooter** fork stands. **[§3.3](#33-author-sentiment--contradictions-as-method-disclosure-envelope):** sealed exhibits, distraction trees, and amplifier punishment are **the method** — **not** theory holes; **not** standard policy; **enough** to prevent disclosure. **Chappaquiddick** shows the **surviving political Kennedy** could still **manage a fatal night for career optics**. **[§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)** names **announced dead** as **Tier III** grammar for **JFK/RFK only** in site thesis; **[§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)** places **Monroe/Kilgallen** in **Tier I–II** silencing lane. [§1.1](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar) places that playbook in **longer institutional grammar** (Business Plot, health hoaxes, Pavlick) **without** substituting for Dealey / Hartwell forensics.
 
 ---
 
@@ -1099,7 +1233,7 @@ Long **“mysterious witness death”** catalogs (**Bowers**, **Ferrie**, **Gian
 | **Motive** | Same **enemies** as JFK; as **president** could **re-open** Dallas case |
 | **Opportunity** | **Ambassador Hotel** (film-history venue); **sympathy** after **family tragedy**; **primary win** → maximum **grief** window |
 
-**Site read:** Aligns with **JFK** **Deep State** / **family compliance** frame in [agent.md](../agent.md) — Hartwell supplies **RFK-specific** **forensic** **wedge**; site does **not** require every Hartwell **contact** name to be **adjudicated**.
+**Site read:** Aligns with **JFK** **Deep State** / **family compliance** frame in [agent.md](../agent.md) — Hartwell supplies **RFK-specific** **forensic** **wedge**; site does **not** require every Hartwell **contact** name to be **adjudicated**. **Negative MMO:** Cesar as second shooter **fails** ([§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)) — do **not** route RFK means through “find rear gunman.”
 
 ---
 
@@ -1152,7 +1286,7 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 |----|----------|
 | Q1 | **NARA 2025 RFK releases** — full **grand jury** PDF set vs Hartwell excerpts? |
 | Q2 | **Brain slug** — any **primary** **measurement** of **hole** vs **.22** in **autopsy** photos? |
-| Q3 | **Thane Cesar** — armed rear guard; **discharged**? **Moldea** vs **second-gun** researchers |
+| Q3 | **Thane Cesar** — **Hartwell Jul 2026** clears via MMO ([§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)); residual: any **primary** proof Cesar’s **.38 discharged** that night vs **second-gun** researchers still claiming rear shot? |
 | Q4 | **JFK–RFK** — shared **handlers** / **LAPD** / **CIA** nodes in **both** hoaxes? |
 | Q5 | **Post-1968 RFK** — any **credible** **proof-of-life** dossier (tier **D** only)? |
 | Q6 | **Sirhan** — **hypnosis** / **Manchurian** lane vs **decoy** lane — **discourse** not **mutually exclusive** |
@@ -1162,6 +1296,7 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Q10 | **Watergate containment (§1.2)** — **primary** **link** between **CIA / FBI** **nodes** and **Dean** **flip**, or **author** **pattern** **only**? |
 | Q11 | **H.R. 8275 / BIDEN Act** — if either **passes**, does it **close** **Tier B** **gap** or **create** new **§4** **weaponization** lane? |
 | Q12 | **§2.3 PP catalog** — any **pre-1963** film/TV with **robot decoy + blood forensics** **both** in one scene, or is the **A-tier stack** always **assembled** from **separate** titles? |
+| Q22 | **§2.3 Girl Hair / Baby Tooth** — any **primary** period quote calling JFK “Tooth Fairy,” or **Kennedy-adjacent mask** remains **survey/treaty association** only? |
 | Q13 | **§2.4 Salandria “transparent conspiracy”** — **primary** evidence Report **authors knew** SBT was **incredible by design** vs **patriotic rush + Specter ingenuity**? |
 | Q14 | **§2.5 negligence envelope** — any **primary** **FBI/SS** doc showing **Moore** or **Oswald** **tasked** as **assets** vs **independent** **informant** + **file** **lapse** only? |
 | Q15 | **§2.6 Hodgkinson** — independent **ballistics / line-of-fire** audit vs **HPSCI** terror read — any **primary** support for **shooter≠sole ballistic actor**? |
@@ -1172,6 +1307,7 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Q18 | **§1.4 announced dead** — any **primary** case where **celebrity death photos** were **later proved staged** while subject **lived**, or **author model** only? |
 | Q19 | **§3.2 Monroe** — **primary** link between **Guilaroff “dangerous secrets”** and **Kennedy compliance** (vs **affair exposure** only)? |
 | Q20 | **§3.2 Kilgallen** — **missing files** — any **inventory** in **estate / DA** record vs **Shaw** allegations only? |
+| Q21 | **§3.3 disclosure envelope** — any **primary** leak path that **survived** sealed-slug + amplifier-punishment grammar, or author stance (**enough / no question**) stands? |
 
 ---
 
@@ -1184,17 +1320,19 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | **Dean Hartwell — site hub** | [deanhartwell.weebly.com](https://deanhartwell.weebly.com/) |
 | **Hartwell — RFK hub** | [robert-f-kennedy.html](https://deanhartwell.weebly.com/robert-f-kennedy.html) |
 | **Hartwell — *Who Shot RFK* (2025)** | Substack [@pwp911](https://substack.com/@pwp911); see [§3 Hartwell block](#dean-hartwell--primary-rfk-forensic-source-cite-when-needed) |
+| **Hartwell — “Thane Cesar Did Not Shoot RFK” (Jul 15, 2026)** | [Essay](https://deanhartwell.weebly.com/essays/thane-cesar-did-not-shoot-rfk) — [§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026) |
 | **Hartwell — *History Was Staged* (2020)** | [history_was_staged.pdf](https://deanhartwell.weebly.com/uploads/3/7/3/1/3731990/history_was_staged.pdf) |
 | **Hartwell — hosted autopsy** | [rfk_autopsy.pdf](https://deanhartwell.weebly.com/uploads/3/7/3/1/3731990/rfk_autopsy.pdf) |
 | `~/dev/wget/hartwell/who_shot_rfk.pdf` | Local mirror of 2025 pamphlet |
 | `~/dev/wget/hartwell/index-who-shot-rfk.md` | Wget index / summary |
 | John Hunt, *Buried in Plain Sight* (2022) | Wolfer / slug **forensics** (via Hartwell) |
 | Shane O’Sullivan, *Who Killed Bobby?* (2008) | Romero / pantry geometry |
-| Dan Moldea, *The Killing of Robert F. Kennedy* (1995) | Thane Cesar |
+| Dan Moldea, *The Killing of Robert F. Kennedy* (1995; **50th ann. ed. 2018**) | Thane Cesar MMO — Hartwell’s cited source for [§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026) |
 | [Epstein staged death](../../false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md) | Later **public death ≠ exit** precedent |
 | Rebecca Black — **“Friday”** (2011) | **§2.2 / §2.3 Tier A** — motorcade mock, generational disconnect; **not** ballistics evidence |
 | **§2.3 PP media catalog** | **Canonical list** — *Girl Hair*, *F/X*, *TDKR*, Tier B–C table; [§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) |
 | ***Space Ghost C2C* — “Girl Hair”** transcript | **§2.3 Tier A** — [snard.com ep. 71](https://www.snard.com/sg/guide/?ep=71&fmt=2) |
+| **Baby Tooth Survey** | **§2.3 Girl Hair** Tooth Fairy encode — [Wikipedia](https://en.wikipedia.org/wiki/Baby_Tooth_Survey); [Smithsonian — Tooth Fairy goes scientific](https://americanhistory.si.edu/explore/stories/tooth-fairy-goes-scientific) |
 | ***F/X*** (1986) | **§2.3 Tier A** — [Wikipedia](https://en.wikipedia.org/wiki/F/X) |
 | ***The Dark Knight Rises*** opening script | **§2.3 Tier A** — [screenplay excerpt](https://scriptreader.ai/view_script?movieid=fc56dbc6d4652b315b86b71c8d688c1ccdea9c5f1fd07763d2659fde2e2fc49a) |
 | **Bullet hit squib** (film grammar) | **§2.3 Tier C** — [Wikipedia](https://en.wikipedia.org/wiki/Bullet_hit_squib) |
@@ -1217,6 +1355,8 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | **Church Committee — COINTELPRO** | **§2.6** state target lists — [Book III](https://www.transformation.dk/www.raven1.net/cointeldocs/churchfinalreportIIIa.htm) |
 | **§2.7 author synthesis** | Pavlick motive taxonomy, rogue lanes, motive inversion, cartel media silence — [§2.7](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals) |
 | **§3.1 Chappaquiddick** | Ted Kennedy / Mary Jo Kopechne — delayed report, Boyle inquest, leniency — [§3.1](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969) |
+| **§3.0 Thane Cesar** | Hartwell clears second-gun lane — [§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026); [essay](https://deanhartwell.weebly.com/essays/thane-cesar-did-not-shoot-rfk) |
+| **§3.3 contradictions as method** | Author sentiment — disclosure blockers ≠ theory weaknesses — [§3.3](#33-author-sentiment--contradictions-as-method-disclosure-envelope) |
 | **§1.4 death-package epistemics** | Announced dead, photo layer, amplifier punishment, Tier I–III — [§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment) |
 | **§3.2 connected deaths** | Monroe, Kilgallen, Meyer, witness lists — [§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent) |
 | **Anthony Summers — *The Secret Lives of Marilyn Monroe*** | **§3.2** Monroe / Kennedy affairs — cited in secondary literature |
@@ -1255,9 +1395,9 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Good-actor / NSA antibody | [good-actor-theory-interagency-antibody](../../false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | NSA / Ellsberg / Tonkin | [nsa-investigation](/governance/war/investigations/nsa-investigation.md) |
 
-Keywords: #JFK #RFK #Kennedy #Sirhan #StagedAssassination #FakeDeath #AnnouncedDead #DeathPackageEpistemics #MarilynMonroe #DorothyKilgallen #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #FX #DarkKnightRises #RobotDecoy #BloodSquib #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #InvestigateAttemptNonaction #FBIAssassinationEnvelope #TargetListIntimidation #CongressionalBaseballShooting #RogueDeepState #MotiveInversion #Chappaquiddick #TedKennedy #MaryJoKopechne #ParadigmThreatFiles
+Keywords: #JFK #RFK #Kennedy #Sirhan #ThaneCesar #StagedAssassination #FakeDeath #AnnouncedDead #DeathPackageEpistemics #DisclosureEnvelope #ContradictionsAsMethod #MarilynMonroe #DorothyKilgallen #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #ToothFairy #BabyToothSurvey #PhantomCruiser #FX #DarkKnightRises #RobotDecoy #BloodSquib #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #InvestigateAttemptNonaction #FBIAssassinationEnvelope #TargetListIntimidation #CongressionalBaseballShooting #RogueDeepState #MotiveInversion #Chappaquiddick #TedKennedy #MaryJoKopechne #ParadigmThreatFiles
 
-**Last updated:** 2026-07-09 (§1.4 death-package epistemics; §3.2 connected deaths / silencing lane; §3.1 Chappaquiddick)
+**Last updated:** 2026-07-16 (§2.3 Girl Hair motorcade + Baby Tooth/Tooth Fairy encode; §3.3 disclosure envelope; §3.0 Cesar)
 
 ---
 
@@ -1265,9 +1405,10 @@ Keywords: #JFK #RFK #Kennedy #Sirhan #StagedAssassination #FakeDeath #AnnouncedD
 
 - **Victims / bystanders:** **Schrade**, **Weisel**, **Goldstein**, **Stroll**, **Evans** — **real injuries** in official record; hoax thesis **does not** deny **pantry violence**, only **RFK fatality** **as packaged**.
 - **Sirhan:** **Convicted**; this file **audits** **forensic closure**, **not** a **legal** appeal brief.
-- **Tiers:** Eyewitness / NARA excerpts = **documented**; **JFK hoax** = **project thesis** ([agent.md](../agent.md)); **RFK faked death** = **author** (Hartwell + site parallel) until **independent** ballistic **replication**; **Monroe/Kilgallen** = **Tier I–II** default ([§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment), [§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)) — **epistemic ceiling** from photo/press package alone.
-- **Survival:** **Not** claimed **proven** for either brother.
+- **Tiers:** Eyewitness / NARA excerpts = **documented**; **JFK hoax** = **project thesis** ([agent.md](../agent.md)); **RFK faked death** = **author** (Hartwell + site parallel); **Monroe/Kilgallen** = **Tier I–II** default ([§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment), [§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)).
+- **Survival:** **Not** claimed **proven** for either brother — under [§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment) / [§3.3](#33-author-sentiment--contradictions-as-method-disclosure-envelope), **absence of proof-of-life** is the **announced-dead success condition**, **not** a soft spot in the thesis.
+- **“Weaknesses” challenge:** Author **rejects** reading sealed slug, Cesar trees, Moldea closure, living decoy, or no-leak as **theory failures** — those are **disclosure blockers** and **the method**; envelope is **enough** to prevent leaking the truth ([§3.3](#33-author-sentiment--contradictions-as-method-disclosure-envelope)).
 
 ---
 
-*Investigator notes: Hartwell — [deanhartwell.weebly.com](https://deanhartwell.weebly.com/), *Who Shot RFK* (2025) via [Substack @pwp911](https://substack.com/@pwp911), local mirror `~/dev/wget/hartwell/`; Hunt 2022; NARA RFK 2025 paths in Hartwell pamphlet.*
+*Investigator notes: Hartwell — [deanhartwell.weebly.com](https://deanhartwell.weebly.com/), *Who Shot RFK* (2025) via [Substack @pwp911](https://substack.com/@pwp911), [Thane Cesar Did Not Shoot RFK](https://deanhartwell.weebly.com/essays/thane-cesar-did-not-shoot-rfk) (Jul 15, 2026) → [§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026); local mirror `~/dev/wget/hartwell/`; Hunt 2022; NARA RFK 2025 paths in Hartwell pamphlet.*
