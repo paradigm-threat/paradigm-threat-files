@@ -326,15 +326,15 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 
 **Track:** Rebecca Black — **“Friday”** (2011, ARK Music Factory). **Documented fact:** **November 22, 1963** was a **Friday**. The viral clip became a **mass ridicule** object (“worst song ever”).
 
-**Site read (author — Tier A PP):** The lyrics **encrypt-mock the Dallas motorcade / hoax shooting** in **teen-party** packaging. Without that read, the **seat geometry + “get down on Friday” + calendar lock** is **inappropriate encoding** — too specific to be innocent party-pop. The **primary function** is not forensic proof but **generational PP**:
+**Site read (author — Tier A PP):** This is **not** a clean encrypted-disclosure exhibit. It is a **conviction trap**. The average person will **not** be convinced that teen party-pop encodes Dallas — and after they meet the meme’s **false** details (**Samuel Kickin**, **Bran Flakes**), they will treat the whole stack as crackpot. Pattern-readers can still **note** the rhyme cluster; they cannot **win** the room with it. Secondary effects still land:
 
 1. **Mock the assassination** — treat **JFK’s “death”** as **laughable / cringe**, not sacred trauma.
 2. **Disconnect the next generation** — **2011 teens** inherit **“Friday”** as **meme**, not **“where were you when Kennedy was shot.”**
 3. **Containment by ridicule** — anyone who **hears Dallas** in the track is **socially punished** (same tier as the song itself).
 
-**Revelation of the Method** by **embarrassment**: those who **feel** the rhyme **cannot prove** it in a court; those who **mock** the track **perform** the ritual. **Author:** assume **Rebecca** **not culpable** for board intent — the **artifact** can **function** without the **host** being **in on** it.
+**Revelation of the Method** by **embarrassment**: those who **feel** the rhyme **cannot prove** it; those who **mock** the track **perform** the ritual. **Author:** assume **Rebecca** **not culpable** for board intent — the **artifact** can **function** without the **host** being **in on** it.
 
-**Investigator discipline:** **Tier A** for **PP / generational grief decay** ([§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)). **Not** **forensic exhibit A** — still **do not lead** with *Friday* in replies to ballistics researchers (use [§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission), Pavlick, Hartwell). Lyrics **never name** Dallas or Kennedy — **intentionality** remains **author thesis**, not **provable** production doc.
+**Investigator discipline:** **Tier A** for **PP / generational grief decay** ([§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)). **Not** **forensic exhibit A** — **do not lead** with *Friday* (use [§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission), Pavlick, Hartwell). Lyrics **never name** Dallas or Kennedy. Inventory the connections; do **not** sell them as conspiracy proof.
 
 #### Poisoned hinge — “Samuel Kickin” as controlled-opposition obfuscation (author)
 
@@ -348,18 +348,21 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 4. **Social kill** — anyone **about to claim** the Dallas encode who repeats Kickin looks like they **did not research**; anyone who **catches** the plant and **self-censors** the whole pattern also loses. The fight becomes **“were you dumb enough to believe Kickin?”** instead of **does the encode fit?**  
 5. **Result** — the **pattern** never gets a clean hearing; only the **debunkable plant** does.
 
-**Discipline:** separate **artifact** (lyric cluster) from **meme packaging** (Kickin / Bran Flakes). Debunking the plant **strengthens** investigator caution; it does **not** erase the **inappropriate** motorcade encode. Same class as QAnon “JFK Jr. is alive” — **keeps the topic warm** while **poisoning** serious audit ([JFK Was Never Assassinated](../jfk-was-never-assassinated.md) contaminated-folklore note).
+**Discipline:** separate **lyric cluster** from **meme packaging** (Kickin / Bran Flakes). Debunking the plants **does** kill conviction for the average listener — that is the trap. Investigators may still **note** residual rhymes (Friday calendar, seat chart, “get down”) without treating them as proof. Same class as QAnon “JFK Jr. is alive” — **keeps the topic warm** while **poisoning** serious audit ([JFK Was Never Assassinated](../jfk-was-never-assassinated.md)).
 
-#### Lyric hooks → motorcade reads (author — low confidence)
+#### Connection inventory (note all — none are courtroom proof)
 
-| Lyric (2011 release) | Hoax / motorcade read (speculative) |
-|----------------------|-------------------------------------|
-| **“Friday, Friday”** / **“Gotta get down on Friday”** | **Calendar lock:** assassination **Friday**; **“get down”** = **hit the deck** / **duck** command in **shooting** grammar (also **party** double entendre) |
-| **“Kickin' in the front seat”** / **“Sittin' in the back seat”** / **“Which seat can I take?”** | **Two layers + poisoned hinge:** (1) **Viral meme** claims the driver was **“Samuel Kickin”** so the lyric **names** him. **Documented false** — limousine driver was **William R. Greer** ([roster](https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy); [EW](https://ew.com/music/rebecca-black-cannot-confirm-or-deny-if-her-song-friday-is-about-jfks-assassination/)). Closest real garbled candidate: **Sam Kinney** drove **Halfback** (follow-up), not the limo. (2) **Site seating chart (holds without the fake name):** **Connally** (and Nellie) on **front jump seats**; **JFK–Jackie** in the **rear**. **Author:** **Samuel Kickin** = **controlled-opposition obfuscation** — a **debunkable plant** that makes the **whole Friday→Dallas decode look stupid** once fact-checked; do **not** surrender calendar lock / seat geometry / “get down” when the fake name falls |
-| **“Got to get down to the bus stop”** | **Procession** metaphor — **scheduled route**, **public vehicle**, **everyone** **moving** on a **published line** (motorcade as **celebrity bus run**) |
-| **“Everybody's rushing”** / **“Ticking on and on”** | **Countdown** / **parade** tempo — **slow turn** into **Dealey**, **fixed** **time window** |
-| **“7 a.m., waking up in the morning”** | **Morning-of** **schedule** energy — Dallas **motorcade day** **starts** like any **school-trip** **innocence** before **spectacle** |
-| **“Fun, fun, fun, fun”** / **“Partyin', partyin'”** | **Trivializing** **national trauma** — **mock** tone consistent with **“nut country”** **absurdity** of **hand-waving** through **hostile** turf ([§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)) |
+| Lyric / claim | Alleged Dallas link | Status |
+|---------------|---------------------|--------|
+| **“Friday, Friday”** | Assassination day was a **Friday** (Nov 22, 1963) | **True** calendar fact |
+| **“Gotta get down on Friday”** | Secret Service yelled at Jackie to **“get down”** | Meme claim — matches **hit-the-deck** / shooting grammar; also ordinary **party** slang |
+| **“Kickin' in the front seat”** / **“Sittin' in the back seat”** / **“Which seat can I take?”** | (a) Driver **“Samuel Kickin”**; (b) limo seating | **(a) False** — limo driver **William R. Greer** ([roster](https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy); [EW](https://ew.com/music/rebecca-black-cannot-confirm-or-deny-if-her-song-friday-is-about-jfks-assassination/)); closest garbled name **Sam Kinney** = follow-up car. **(b)** Seat chart rhyme: **Connally** front jump seats / **JFK–Jackie** rear — residual pattern only |
+| **“Gotta have my bowl / gotta have cereal”** | JFK ate **Bran Flakes** that morning | **False** — reported breakfast toast with marmalade and eggs ([EW](https://ew.com/music/rebecca-black-cannot-confirm-or-deny-if-her-song-friday-is-about-jfks-assassination/)) — **poisoned hinge** with Kickin |
+| **“Everybody's rushing”** | (a) Heard as **“everybody's Russian”** — Cold War; (b) parade / countdown tempo | **(a)** Stretch / ear-pun; **(b)** speculative |
+| **“Ticking on and on”** | Countdown into Dealey | Speculative |
+| **“Got to get down to the bus stop”** | Motorcade as published public route; meme sometimes adds a school-bus bill | Weak stretch |
+| **“7 a.m., waking up in the morning”** | Morning-of schedule energy | Speculative |
+| **“Fun, fun, fun”** / **“Partyin'”** | Trivializing national trauma | Tone / mock layer — not evidence |
 
 #### Why “everyone thought it was awful” (site framing)
 
@@ -367,7 +370,7 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 |-----------------|-----------|
 | **Bad production**, **vapid** lyrics, **paid** vanity video | **Correct surface** — **function** may still land even if **not** deliberately **bad** (**author:** assume **Rebecca** **not** **culpable** for **board** **intent**) |
 | **Meme** **humiliation** of Rebecca Black | **Audience** trained to **ridicule** **anyone** who **hears** **Dallas** in **“get down on Friday”** |
-| **No political content** (surface) | **Encrypted hoax-shooting read** — **inappropriate** unless **Dallas motorcade** decode; **generational** **mock** **layer** |
+| **No political content** (surface) | **Conviction trap** — rhyme inventory exists; average ear will not buy Dallas; poisoned hinges (Kickin / Bran Flakes) make believers look unserious |
 
 #### Generational detachment read (author PP — primary *Friday* function)
 
@@ -410,7 +413,7 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 | **A** | ***Space Ghost Coast to Coast* — “Girl Hair”** | 1999 | **Moving car** hit; **robot** Tooth Fairy decoy; **children’s teeth** plot; **Bizarro Santa**; *“You gonna believe that fairy tale?”* + *“I'm the good one”*; Baby Tooth / PTBT | **Motorcade + decoy + surviving alter + conspiracy-ridicule laugh track** |
 | **A** | ***F/X*** (*Murder by Illusion*) | 1986 | **Public staged hit** — blanks + **radio-triggered blood squib vest**; victim enters protection **alive** | **Exploding blood bag / squib “death”** |
 | **A** | ***The Dark Knight Rises*** (opening plane hijack) | 2012 | **Live target’s blood drawn** → **transfused into age-matched corpse** → **crash wreckage** fools agency forensics | **Blood staging for investigators** |
-| **A** | **Rebecca Black — *Friday*** | 2011 | **Nov 22 = Friday** calendar lock; **limousine seat** lyrics; **“get down”** shooting grammar; **mass mockery** **disconnects** next gen from assassination grief | **Hoax shooting encoded as joke** — [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) |
+| **A** | **Rebecca Black — *Friday*** | 2011 | **Nov 22 = Friday**; seat / “get down” / cereal / Russian-pun meme stack; **Kickin + Bran Flakes** as poisoned hinges; **mass mockery** | **Conviction trap + generational mock** — [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) |
 | **B** | ***Scanners*** | 1981 | **Plaster/gelatin dummy head** destroyed in public (ConSec demo) — **exploding-head spectacle** | **Synthetic head destruction** (not hoax plot) |
 | **B** | ***Gravity Falls* — “A Tale of Two Stans”** | 2015 | **Dummy in car** pushed off cliff; crash/explosion **fakes death** for identity swap | **Prop body for public death record** |
 | **B** | ***Capricorn One*** | 1977 | **Empty spacecraft burns on re-entry** — world believes crew dead; astronauts alive | **Forensic death without blood** |
@@ -577,18 +580,18 @@ Source: [“The Accidental Assassination? Book Adds Twist to JFK Theories,” *W
 |-------|--------|
 | **Release** | March 2011 (ARK Music Factory); viral **teen** **pop** |
 | **Documented calendar fact** | **November 22, 1963** was a **Friday** |
-| **Full decode** | [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) — lyric table, generational detachment, psyop grammar |
+| **Full inventory** | [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) — connection table, poisoned hinges, generational mock |
 
 **Site read (Tier A — why not Tier B/C):**
 
 | Layer | Read |
 |-------|------|
-| **Hoax shooting encode** | **“Friday, Friday”** / **“Gotta get down on Friday”** — **calendar lock** to assassination day + **“get down”** = **hit the deck** / shooting command; **front seat / back seat / which seat** = **limousine geometry** ([§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)) |
-| **Inappropriate unless hoax** | **Author:** absent a **Dallas motorcade** read, the **seat + Friday + get down** cluster is **too pointed** for innocent **party-pop** — functions as **encrypted mock** of a **hoax shooting**, not random cringe |
+| **Conviction trap** | Average ear will **not** buy Dallas-from-*Friday*; meme plants (**Kickin**, **Bran Flakes**) make believers look unserious |
+| **Connection inventory** | Friday calendar (**true**); Jackie **“get down”** (meme); seat chart residual; cereal/Bran Flakes (**false**); rushing→Russian (**stretch**) — [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) |
 | **Generational disconnect** | **Mass ridicule** trains **next cohort** to **laugh at** the track — and by **contamination**, to **treat JFK grief as meme-tier**, not **sacred trauma** |
 | **Containment** | Parent **hoax** talk → teen **quotes** *Friday* → fight over **respect vs mockery** **replaces** **audit** |
 
-**Tier:** **Author PP — Tier A** for **generational mock + motorcade encode**; **not** forensic proof; Rebecca **not** assumed **culpable**.
+**Tier:** **Author PP — Tier A** for **conviction trap + generational mock**; **not** forensic proof; Rebecca **not** assumed **culpable**.
 
 #### Tier B — adjacent (spectacle, JFK rhyme, identity swap)
 
@@ -641,7 +644,7 @@ Source: [“The Accidental Assassination? Book Adds Twist to JFK Theories,” *W
 | **Girl Hair** *“You gonna believe that fairy tale?”* / *“I'm the good one”* | **Citable** dialogue; **author** = **preprogrammed** ridicule response after decode — pairs CIA **“conspiracy theorist”** ([§2.4](#24-warren-commission--magic-bullet-containment-mock-divide-distract)) |
 | **Weisberg (1992)** — *“I rank it with the tooth fairy”* | **Documented** — [*Washington Post*](https://www.washingtonpost.com/archive/lifestyle/1992/02/27/the-accidental-assassination-book-adds-twist-to-jfk-theories/419051cb-412b-4039-95a0-90b77bba1452/); **author** = **Tooth Fairy** as **containment code word** (pre-*Girl Hair*) |
 | **TDKR + F/X** demonstrate **forensic / witness-facing** staging (blood in corpse, squib vest) | **Citable** — script + Wikipedia |
-| ***Friday*** **motorcade encode + mass mockery** — **inappropriate** without hoax read; **disconnects** next generation from assassination grief | **Author Tier A** — [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) |
+| ***Friday*** **conviction trap + mass mockery** — average person unconvinced; Kickin/Bran Flakes poison the stack; **disconnects** next generation from assassination grief | **Author Tier A** — [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) |
 | **Krab Borg / Zita / Twilight Zone** = same **robot-double vocabulary** as *Girl Hair* | **Tier B** — adjacent PP residue |
 | ***Red Dwarf* “Tikka to Ride”** = **explicit Dallas** satire (living JFK must fix history by dying) | **Tier B** — JFK timeline product |
 | **Dead-double fringe / QAnon Jr. survival** | **Tier B2 discourse** — **not** site proof; QAnon = **contaminated** |
