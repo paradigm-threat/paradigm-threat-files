@@ -88,7 +88,7 @@ The through-line is **who controls propagation** — scam meshes that simulate c
 ### Events — JFK/RFK hoax dossier
 
 - [JFK & RFK staged assassination hoax investigation](https://paradigmthreat.net/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation) — **790 lines**; Dallas motorcade audit §2.1; Tier-A PP catalog §2.3 (*Friday* generational disconnect §2.2); Warren magic bullet containment §2.4; pre-1963 precedents §1.1 (Business Plot Tier A); Nixon inverse exit §1.2; legal gaps §1.3 (health concealment, autopen, 25th).
-- [events/jfk/agent](https://paradigmthreat.net/events/jfk/agent) — agent framing updated with investigation precedents.
+- [JFK Was Never Assassinated](https://paradigmthreat.net/events/jfk/jfk-was-never-assassinated) — reader essay (hub formerly agent framing).
 
 ### Site claims and search hygiene
 
@@ -133,7 +133,7 @@ The site repo shipped **reader infrastructure** and **operational fixes** in par
 2. **Constitution:** [TONA, Not War](https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand) → [amendments investigation §2.8](https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation) → [US Civil War investigation](https://paradigmthreat.net/governance/war/investigations/us-civil-war-investigation).
 3. **Invention:** [ECW article](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-and-aftermath) → [invention spec](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-spec) → [modern celebrity slavery](https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery) (containment rhymes).
 4. **Mars / keeper cult:** [Mars Dagger essay](https://paradigmthreat.net/cosmos/mars/mars-dagger) → [mars-dagger investigation](https://paradigmthreat.net/cosmos/mars/investigations/mars-dagger-investigation) → [CERN–Mars gateway](https://paradigmthreat.net/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation) → [MFEE investigation](https://paradigmthreat.net/history/mudflood/investigations/mfee-investigation).
-5. **Spectacle hoax:** [JFK/RFK investigation §2.1–§2.4](https://paradigmthreat.net/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation) → [JFK agent](https://paradigmthreat.net/events/jfk/agent) → [compromised court cases](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation).
+5. **Spectacle hoax:** [JFK/RFK investigation §2.1–§2.4](https://paradigmthreat.net/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation) → [JFK Was Never Assassinated](https://paradigmthreat.net/events/jfk/jfk-was-never-assassinated) → [compromised court cases](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation).
 6. **Chronology metrology:** [crucifixion nail investigation](https://paradigmthreat.net/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation) → [Hidden History of Words](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words) → [877 CE Nicaea event](https://paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated).
 
 ---

@@ -1,6 +1,6 @@
 # Investigation: JFK & RFK — Staged Assassination Hoax (Kennedy Family Compliance)
 
-> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — **real pre-Dallas attempts** (Pavlick anchor) → **family compliance** under **car-party threat**; **[§1.1 pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar)** — **Business Plot** health-fiction fork closest analogue; **no documented pre-1963 death hoax**; **[§1.4 death-package epistemics](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)** — **announced dead**, **photo layer**, **amplifier punishment** (Ellsberg parallel); **Tier I–III** map (**fake death** = **JFK/RFK only** in site thesis); **[§2.1 motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)** — **hostile Dallas**, **Stevenson** incident, **morning ad**, **open published route** = **spectacle not faction healing**; **Dealey** **robot / exploding-head** ruse; **[§2.3 PP media catalog](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)** — **Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***; **[§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)** — **mock → divide → distract** after **Russia** script failed; **[§2.5 investigate → attempt → non-action](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)** — **FBI/SS touch** → **attempt** → **shoddy prevention**; **[§2.6 target-list intimidation](#26-target-list-intimidation-campaign--published-or-pocket-lists)** — **2017 Congressional baseball** anchor (**Hodgkinson** pocket list + **FBI** **suicide-by-cop** spin); **[§2.7 author synthesis](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)** — **Pavlick-only parseable motive**, **motive inversion**, **rogue CIA lanes**, **cartel ground cabal**; **Vietnam escalation** on **documented timeline**. **RFK (Jun 1968)** — **Sirhan** decoy; **Hartwell** **slug vs .22** wedge; **[§3.0 Cesar cleared](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)** (**Jul 2026** — Cesar **did not** shoot RFK). **[§3.1 Chappaquiddick (Jul 1969)](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)** — **living-brother** **~10-hour** delayed report after **Mary Jo Kopechne** drowned; **serious** **public-credibility** collapse. **[§3.2 connected deaths](#32-connected-deaths--silencing-lane-kennedy-adjacent)** — **Monroe**, **Kilgallen**, **Meyer**; **Tier I–II** default; **Kilgallen** = [prophet.md](../prophet.md) **distraction tree**. **[§3.3 contradictions as method](#33-author-sentiment--contradictions-as-method-disclosure-envelope)** — seals are **disclosure blockers**, **not** theory weaknesses; **enough** to stop leaks. Cross-read [JFK Was Never Assassinated](../jfk-was-never-assassinated.md), [agent.md](../agent.md) (hub), [§2](#2-jfk-november-1963-fake-assassination), [prophet.md](../prophet.md).
+> **TL;DR:** **Open** dossier on **two paired Kennedy “assassinations”** read as **public death theater**, not lone-gunman murders: **JFK (Nov 1963)** — **real pre-Dallas attempts** (Pavlick anchor) → **family compliance** under **car-party threat**; **[§1.1 pre-1963 precedents](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar)** — **Business Plot** health-fiction fork closest analogue; **no documented pre-1963 death hoax**; **[§1.4 death-package epistemics](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)** — **announced dead**, **photo layer**, **amplifier punishment** (Ellsberg parallel); **Tier I–III** map (**fake death** = **JFK/RFK only** in site thesis); **[§2.1 motorcade audit](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)** — **hostile Dallas**, **Stevenson** incident, **morning ad**, **open published route** = **spectacle not faction healing**; **Dealey** **robot / exploding-head** ruse; **[§2.3 PP media catalog](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)** — **Tier A:** *Girl Hair*, ***F/X***, ***TDKR***, **Rebecca Black *Friday***; **[§2.4 Warren / magic bullet containment](#24-warren-commission--magic-bullet-containment-mock-divide-distract)** — **mock → divide → distract** after **Russia** script failed; **[§2.5 investigate → attempt → non-action](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)** — **FBI/SS touch** → **attempt** → **shoddy prevention**; **[§2.6 target-list intimidation](#26-target-list-intimidation-campaign--published-or-pocket-lists)** — **2017 Congressional baseball** anchor (**Hodgkinson** pocket list + **FBI** **suicide-by-cop** spin); **[§2.7 author synthesis](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals)** — **Pavlick-only parseable motive**, **motive inversion**, **rogue CIA lanes**, **cartel ground cabal**; **Vietnam escalation** on **documented timeline**. **RFK (Jun 1968)** — **Sirhan** decoy; **Hartwell** **slug vs .22** wedge; **[§3.0 Cesar cleared](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)** (**Jul 2026** — Cesar **did not** shoot RFK). **[§3.1 Chappaquiddick (Jul 1969)](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)** — **living-brother** **~10-hour** delayed report after **Mary Jo Kopechne** drowned; **serious** **public-credibility** collapse. **[§3.2 connected deaths](#32-connected-deaths--silencing-lane-kennedy-adjacent)** — **Monroe**, **Kilgallen**, **Meyer**; **Tier I–II** default; **Kilgallen** = [prophet.md](../prophet.md) **distraction tree**. **[§3.3 contradictions as method](#33-author-sentiment--contradictions-as-method-disclosure-envelope)** — seals are **disclosure blockers**, **not** theory weaknesses; **enough** to stop leaks. Cross-read [JFK Was Never Assassinated](../jfk-was-never-assassinated.md), [§2](#2-jfk-november-1963-fake-assassination), [prophet.md](../prophet.md).
 
 **Status:** Open — project thesis + public-record / forensic anchors; **no** proof of either man’s post-event public life.  
 **Date:** 2026-06-29
@@ -228,7 +228,7 @@ After Lawrence’s failed attack, **Jackson** accused **Poindexter** / **Calhoun
 
 ## 2. JFK — November 1963 fake assassination
 
-**Canonical site essay:** [JFK Was Never Assassinated](../jfk-was-never-assassinated.md). Hub: [agent.md](../agent.md).
+**Canonical site essay:** [JFK Was Never Assassinated](../jfk-was-never-assassinated.md). 
 
 ### Best evidence ladder (reply / audit order)
 
@@ -265,7 +265,7 @@ Start with **documented pre-Dallas pressure**, not Zapruder minutiae:
 - **Thane Cesar cleared (Hartwell Jul 2026)** ([§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)): **second-gun** lane **fails** MMO — Cesar **did not** shoot RFK; clearing him **strengthens** staged-death fork (**Sirhan ≠ fatal** + **no other shooter**) over “find the rear gunman.”
 - **Contradictions as method / disclosure envelope** ([§3.3](#33-author-sentiment--contradictions-as-method-disclosure-envelope)): sealed slug, Cesar tree, Moldea closure, living decoy, pantry blood, no proof-of-life — **not** “theory weaknesses” and **not** standard ME/LAPD policy; **targeted non-auditability**; **enough** to **prevent leaking the truth** — **no question**.
 
-**Tier:** **Project thesis** in [agent.md](../agent.md); Hartwell **RFK forensics** = **documented wedge** paired here; Dealey **robot / no-bullet** layer = **author thesis**.
+**Tier:** **Project thesis** in [JFK Was Never Assassinated](../jfk-was-never-assassinated.md); Hartwell **RFK forensics** = **documented wedge** paired here; Dealey **robot / no-bullet** layer = **author thesis**.
 
 **Supporting in repo:** [prophet.md](../prophet.md) (Downard / sorcerous read — **adjacent**, not required for forensic hoax lane).
 
@@ -385,7 +385,7 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 
 ### 2.3 Predictive programming media catalog (robot decoy + blood forensics)
 
-**Purpose:** **Canonical list** of film/TV/music cited for the **JFK Dealey robot / exploding-head / fake-death / generational-mock** thesis in [agent.md](../agent.md) and **evidence ladder step 6**. **PP prefigures grammar** — **not** proof Dallas was staged.
+**Purpose:** **Canonical list** of film/TV/music cited for the **JFK Dealey robot / exploding-head / fake-death / generational-mock** thesis in [JFK Was Never Assassinated](../jfk-was-never-assassinated.md) and **evidence ladder step 6**. **PP prefigures grammar** — **not** proof Dallas was staged.
 
 **Reply discipline:** Lead forensic skeptics with **Pavlick**, **§2.1 motorcade**, **Hartwell** — use **§2.3** when asked *“where does the robot / blood-bag / generational-mock read come from?”* **Do not** treat cartoons, action films, or viral pop as **ballistics exhibits**.
 
@@ -460,7 +460,7 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 4. Real one walks away  
 5. **Baby Tooth Survey** colors why **Tooth Fairy** is **Kennedy-adjacent** (fallout teeth, kids, treaty president)
 
-**Dark double meaning (author):** Fairy who **takes children’s teeth** for nuclear-state science / treaty optics — while [agent.md](../agent.md) Rex Bellator read says the same board later **sells boys into Asia**.
+**Dark double meaning (author):** Fairy who **takes children’s teeth** for nuclear-state science / treaty optics — while [JFK Was Never Assassinated](../jfk-was-never-assassinated.md) Rex Bellator read says the same board later **sells boys into Asia**.
 
 **Chronology note:** *Girl Hair* is **1999** — post-Dallas **reinforcement / cultural residue**, not a 1962 prediction. Fits dossier PP use (grammar that **teaches** the decoy reading); pairs with **Whipping Post** aired **Nov 22** ([Tier B](#tier-b--adjacent-spectacle-jfk-rhyme-identity-swap)).
 
@@ -489,7 +489,7 @@ Then: *“Ho ho ho! Give me the teeth! I have plans for those teeth!”* ([snard
 1. Public “Santa” (good JFK) wants the **Fairy’s** tooth franchise  
 2. He is revealed as **Bizarro** — the **real** ego behind the beloved brand  
 3. The Fairy’s **robot** takes the hit while the Fairy lives → **staged assassination** grammar  
-4. The survivor who still hunts teeth = **announced-dead JFK** still operating — **absolutely not** the peace-icon everyone thinks ([agent.md](../agent.md) Rex Bellator vs hero illusion)
+4. The survivor who still hunts teeth = **announced-dead JFK** still operating — **absolutely not** the peace-icon everyone thinks ([JFK Was Never Assassinated](../jfk-was-never-assassinated.md) Rex Bellator vs hero illusion)
 
 #### Girl Hair — “You gonna believe that fairy tale?” (author — containment laugh track)
 
@@ -528,7 +528,7 @@ Source: [“The Accidental Assassination? Book Adds Twist to JFK Theories,” *W
 
 **Does not require** Weisberg to be CIA or hostile to all criticism — he was a **major Warren critic**. That makes the cite sharper: even **inside** assassination research, **Tooth Fairy** is the **sanctioned punchline** for theories ranked beneath serious debate.
 
-**Site read:** Exact **“not killed — robot built to look like me was destroyed”** grammar for [agent.md](../agent.md) **automatronic decoy** layer. Episode also orders Moltar to **“Construct a robot, name it Orlando”** — doppelgänger tooling is **theme**, not one gag. **Motorcade rhyme** + **Baby Tooth / Tooth Fairy** + **Bizarro Santa = surviving twisted JFK** + **“fairy tale” / Tooth Fairy containment laugh** (Weisberg → *Girl Hair*) encode **strengthen** Tier A without requiring a documented nickname.
+**Site read:** Exact **“not killed — robot built to look like me was destroyed”** grammar for [JFK Was Never Assassinated](../jfk-was-never-assassinated.md) **automatronic decoy** layer. Episode also orders Moltar to **“Construct a robot, name it Orlando”** — doppelgänger tooling is **theme**, not one gag. **Motorcade rhyme** + **Baby Tooth / Tooth Fairy** + **Bizarro Santa = surviving twisted JFK** + **“fairy tale” / Tooth Fairy containment laugh** (Weisberg → *Girl Hair*) encode **strengthen** Tier A without requiring a documented nickname.
 
 **Tier:** **Author PP** — **strongest scripted precedent** for robot-replacement fake death in this dossier; **motorcade + Tooth Fairy/Kennedy + Bizarro Santa alter + fairy-tale ridicule** layers = **author encode** atop **citable** survey/treaty facts + **verbatim** episode dialogue + **documented** Weisberg code-word use.
 
@@ -675,7 +675,7 @@ Source: [“The Accidental Assassination? Book Adds Twist to JFK Theories,” *W
 | CIA **1035-960** instructed **media ridicule** of Warren critics | **Documented** — [NYT](https://www.nytimes.com/1977/12/26/archives/cable-sought-to-discredit-critics-of-warren-report.html) |
 | Salandria: Report **designed to self-destruct** / **transparent conspiracy** / **divide et impera** | **Author thesis (Salandria)** — [1977 essay](https://ratical.org/ratville/JFK/FalseMystery/DesignOfWarrenReport.html) |
 | Commission **intentionally** planted **absurd** SBT **with no basis** solely to **kill public interest** | **Author synthesis** — aligns **Salandria** + **site staged-kill** read; **not** mainstream Warren apologia |
-| If Dealey kill layer is **synthetic**, **magic-bullet forensics** are **misplaced theater** (arguing squib physics when head was **prop**) | **Project thesis** — [agent.md](../agent.md), [§2 step 7](#best-evidence-ladder-reply--audit-order) |
+| If Dealey kill layer is **synthetic**, **magic-bullet forensics** are **misplaced theater** (arguing squib physics when head was **prop**) | **Project thesis** — [JFK Was Never Assassinated](../jfk-was-never-assassinated.md), [§2 step 7](#best-evidence-ladder-reply--audit-order) |
 | CE 399 **chain of custody** / **pristine** bullet disputes | **Forensic research lane** — [History Matters — Even More Magical](https://historymatters.com/essays/frameup/EvenMoreMagical/EvenMoreMagical.htm) |
 
 #### Salandria — “transparent conspiracy” (closest published analogue to site containment read)
@@ -971,7 +971,7 @@ Most post-JFK attempts **could easily produce the opposite** of whatever the **a
 | **Only Pavlick** has **citizen-parseable** war-stop **moral frame** | **Author** |
 | Most attempts **invert** intended political outcome | **Author synthesis** |
 | **Rogue lanes**, not unified top-level Deep State order | **Author** — site worldview |
-| **CIA aligned** / **NSA opposition** | **Author** — [agent.md](../agent.md), antibody lane |
+| **CIA aligned** / **NSA opposition** | **Author** — [JFK Was Never Assassinated](../jfk-was-never-assassinated.md), antibody lane |
 | **Cartel cabal** + **media under-report** | **Author** — **under-developed**; flag for future dossier |
 
 #### Reply discipline
@@ -983,7 +983,7 @@ Most post-JFK attempts **could easily produce the opposite** of whatever the **a
 | **“Pavlick proves real assassination culture”** | **Yes** — **compliance fork** anchor; **Dallas** may still be **theater** on top |
 | **Cartels** | **Ground intimidation** thesis — **don’t** claim cartel **authored** JFK file without **primary** |
 
-**Cross-read:** [agent.md](../agent.md); [§6 paradigm arc](#6-paradigm-arc-betrayal-antibodies-endgame-author); [20th–21st c. catalog](../../false_flag/investigations/20th-21st-century-catalog.md).
+**Cross-read:** [JFK Was Never Assassinated](../jfk-was-never-assassinated.md); [§6 paradigm arc](#6-paradigm-arc-betrayal-antibodies-endgame-author); [20th–21st c. catalog](../../false_flag/investigations/20th-21st-century-catalog.md).
 
 **Tier:** **Author synthesis** — canonical **sentiment capture** for post-JFK attempt threads.
 
@@ -1182,7 +1182,7 @@ Most post-JFK attempts **could easily produce the opposite** of whatever the **a
 | **“Does this prove Dallas was fake?”** | **No** — use as **credibility wedge**; lead forensics with **Pavlick**, **§2.1**, **Hartwell** |
 | **“How does it pair with our thesis?”** | Living brother shows **self-preservation over death transparency** — same **grammar** as **compliance fork**, different **object** |
 
-**Cross-read:** [§6 betrayal / credibility poison](#jfk-compliance-as-betrayal); [agent.md](../agent.md) (hero illusion vs Rex Bellator); [§2.7 rogue lanes](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals).
+**Cross-read:** [§6 betrayal / credibility poison](#jfk-compliance-as-betrayal); [JFK Was Never Assassinated](../jfk-was-never-assassinated.md) (hero illusion vs Rex Bellator); [§2.7 rogue lanes](#27-author-synthesis--motive-inversion-rogue-lanes-ground-cabals).
 
 **Tier:** **Documented** Chappaquiddick facts + mainstream cover-up perception; **author** = family-credibility wedge for compliance thesis — **not** substitute for Dealey/Hartwell forensics.
 
@@ -1311,7 +1311,7 @@ Routine ME / LAPD / Secret Service opacity is **messy and random**. The Kennedy 
 | **Autopsy / ballistics / legal** | Warren Commission theater | Wolfer map; **slug size** vs **.22** | **Guilty** leaving scene; **suspended** sentence; Boyle **negligence** |
 | **Family precedent** | Pavlick **real** attempts → **compliance fork** | **JFK “murder”** five years prior | **Living brother** **credibility collapse** ([§3.1](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969)) |
 | **War board / politics** | **Vietnam** | **1968** election / **re-open JFK** threat removed | Ted **presidency** path **killed** by scandal |
-| **Site file** | [agent.md](../agent.md) | This investigation | [§3.1](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969) |
+| **Site file** | [JFK Was Never Assassinated](../jfk-was-never-assassinated.md) | This investigation | [§3.1](#31-chappaquiddick--ted-kennedy--family-credibility-wedge-jul-1969) |
 
 **Site synthesis:** RFK lane **confirms** JFK was **not** a one-off — **Kennedy compliance** with **staged death** is **repeatable**. **Hartwell Jul 2026** clears **Cesar** as second gun ([§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)) — removes the popular **rear-shooter** escape hatch so the **slug vs .22 + no other shooter** fork stands. **[§3.3](#33-author-sentiment--contradictions-as-method-disclosure-envelope):** sealed exhibits, distraction trees, and amplifier punishment are **the method** — **not** theory holes; **not** standard policy; **enough** to prevent disclosure. **Chappaquiddick** shows the **surviving political Kennedy** could still **manage a fatal night for career optics**. **[§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment)** names **announced dead** as **Tier III** grammar for **JFK/RFK only** in site thesis; **[§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)** places **Monroe/Kilgallen** in **Tier I–II** silencing lane. [§1.1](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar) places that playbook in **longer institutional grammar** (Business Plot, health hoaxes, Pavlick) **without** substituting for Dealey / Hartwell forensics.
 
@@ -1325,7 +1325,7 @@ Routine ME / LAPD / Secret Service opacity is **messy and random**. The Kennedy 
 | **Motive** | Same **enemies** as JFK; as **president** could **re-open** Dallas case |
 | **Opportunity** | **Ambassador Hotel** (film-history venue); **sympathy** after **family tragedy**; **primary win** → maximum **grief** window |
 
-**Site read:** Aligns with **JFK** **Deep State** / **family compliance** frame in [agent.md](../agent.md) — Hartwell supplies **RFK-specific** **forensic** **wedge**; site does **not** require every Hartwell **contact** name to be **adjudicated**. **Negative MMO:** Cesar as second shooter **fails** ([§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)) — do **not** route RFK means through “find rear gunman.”
+**Site read:** Aligns with **JFK** **Deep State** / **family compliance** frame in [JFK Was Never Assassinated](../jfk-was-never-assassinated.md) — Hartwell supplies **RFK-specific** **forensic** **wedge**; site does **not** require every Hartwell **contact** name to be **adjudicated**. **Negative MMO:** Cesar as second shooter **fails** ([§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026)) — do **not** route RFK means through “find rear gunman.”
 
 ---
 
@@ -1342,7 +1342,7 @@ Routine ME / LAPD / Secret Service opacity is **messy and random**. The Kennedy 
 | **Institutional damage** | **Government credibility** **poisoned at the root**: if **Dallas** was **theater**, **every** later **crisis** is **auditable** as **possible stagecraft** — **Vietnam** follows as **war the living JFK would have blocked** |
 | **War board** | **Fake assassination** **removed resistance** to **Asian war scale-up**; **public grief** **substituted** for **policy consent** |
 
-**Tier:** **Author thesis** — moral/political framing atop [agent.md](../agent.md) **compliance** read (**Pavlick** real attempt → **family ordered** to **fake death**).
+**Tier:** **Author thesis** — moral/political framing atop [JFK Was Never Assassinated](../jfk-was-never-assassinated.md) **compliance** read (**Pavlick** real attempt → **family ordered** to **fake death**).
 
 ### Antibody counter-moves (saved the republic — author)
 
@@ -1407,7 +1407,7 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 
 | Source | Role |
 |--------|------|
-| [agent.md](../agent.md) | **JFK** site thesis (primary) |
+| [JFK Was Never Assassinated](../jfk-was-never-assassinated.md) | **JFK** site thesis (primary) |
 | [prophet.md](../prophet.md) | Downard / cultural sorcery (secondary) |
 | **Dean Hartwell — site hub** | [deanhartwell.weebly.com](https://deanhartwell.weebly.com/) |
 | **Hartwell — RFK hub** | [robert-f-kennedy.html](https://deanhartwell.weebly.com/robert-f-kennedy.html) |
@@ -1481,7 +1481,7 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 
 | File | Link |
 |------|------|
-| JFK essay | [../agent.md](../agent.md) |
+| JFK essay | [../jfk-was-never-assassinated.md](../jfk-was-never-assassinated.md) |
 | Downard tribute | [../prophet.md](../prophet.md) |
 | Staged death / suspended animation | [epstein-death-escape](../../false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md) |
 | 20th–21st c. catalog | [20th-21st-century-catalog](../../false_flag/investigations/20th-21st-century-catalog.md) |
@@ -1498,7 +1498,7 @@ Keywords: #JFK #RFK #Kennedy #Sirhan #ThaneCesar #StagedAssassination #FakeDeath
 
 - **Victims / bystanders:** **Schrade**, **Weisel**, **Goldstein**, **Stroll**, **Evans** — **real injuries** in official record; hoax thesis **does not** deny **pantry violence**, only **RFK fatality** **as packaged**.
 - **Sirhan:** **Convicted**; this file **audits** **forensic closure**, **not** a **legal** appeal brief.
-- **Tiers:** Eyewitness / NARA excerpts = **documented**; **JFK hoax** = **project thesis** ([agent.md](../agent.md)); **RFK faked death** = **author** (Hartwell + site parallel); **Monroe/Kilgallen** = **Tier I–II** default ([§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment), [§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)).
+- **Tiers:** Eyewitness / NARA excerpts = **documented**; **JFK hoax** = **project thesis** ([JFK Was Never Assassinated](../jfk-was-never-assassinated.md)); **RFK faked death** = **author** (Hartwell + site parallel); **Monroe/Kilgallen** = **Tier I–II** default ([§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment), [§3.2](#32-connected-deaths--silencing-lane-kennedy-adjacent)).
 - **Survival:** **Not** claimed **proven** for either brother — under [§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment) / [§3.3](#33-author-sentiment--contradictions-as-method-disclosure-envelope), **absence of proof-of-life** is the **announced-dead success condition**, **not** a soft spot in the thesis.
 - **“Weaknesses” challenge:** Author **rejects** reading sealed slug, Cesar trees, Moldea closure, living decoy, or no-leak as **theory failures** — those are **disclosure blockers** and **the method**; envelope is **enough** to prevent leaking the truth ([§3.3](#33-author-sentiment--contradictions-as-method-disclosure-envelope)).
 
