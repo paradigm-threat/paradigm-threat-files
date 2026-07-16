@@ -72,6 +72,7 @@ or *not* believing.
 * [The Mars Dagger — What Leaks When Buried Knowledge Surfaces](/cosmos/mars/mars-dagger.md) — Reader essay: keeper-cult fracture, Smith leak-not-recruitment, Carthage containment; dossier [mars-dagger investigation](/cosmos/mars/investigations/mars-dagger-investigation.md).
 * [Pluto](/cosmos/pluto/investigations/pluto-origin-visibility-investigation.md) — Visibility, naming, and “lost to hell” cosmology read.
 * [Venus](/cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation.md) — From Saturnian cosmology to the Venera program.
+* [Saturnian cosmology — published timelines](/cosmos/cosmology/investigations/saturnian-cosmology-published-timelines-investigation.md) — Cook/Tiki-Toki vs Talbott–Cardona vs this timeline: year gaps, C-14, solar origin.
 
 #### Events
 

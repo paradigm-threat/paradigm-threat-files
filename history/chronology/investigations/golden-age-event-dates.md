@@ -3,6 +3,8 @@
 > **TL;DR:** The Golden Age (4077–3147 BCE, Saturnian chronology) has few datable internal events. Jno Cook provides the only explicit chronology; Talbott and Thornhill treat the Golden Age as a mythical epoch without BCE dates. Velikovsky's Venus/Mars dates (1500–686 BCE) apply to the Dark Ages, not the Saturnian Golden Age.
 **Status:** Open  
 **Sources:** Jno Cook (jnocook.net, saturniancosmology.org), David Talbott (*The Saturn Myth*, *The Myth of the Golden Age*), paradigm-threat-files chronology page  
+
+**Cross-read:** Full published-timeline compare (Cook/Tiki-Toki dating method, C-14, solar origin): [Saturnian cosmology — published timelines](/cosmos/cosmology/investigations/saturnian-cosmology-published-timelines-investigation.md).  
 **Wget scan:** 2026-03-22 — `/home/ari/dev/wget` (saturniancosmology.org, talbott, thornhill, velikovsky)
 
 ## Summary
