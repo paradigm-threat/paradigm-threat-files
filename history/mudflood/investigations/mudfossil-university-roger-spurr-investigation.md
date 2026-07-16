@@ -1,8 +1,8 @@
 # Investigation: Mudfossil University / Roger Spurr — Claims, Citations, Yale History, and Validation Status (Open)
 
-> **TL;DR:** **Roger Spurr** (**[Mudfossil University](https://www.youtube.com/@mudfossiluniversity)** / **[mfutools.com](https://mfutools.com/)**) claims many rocks/landforms are **soft-tissue mudfossils**, citing **Helix Biological Laboratory Project P-234** (2015): short **~100 bp** human **mtDNA** PCR/BLAST hits on **“36 inch tip”** and **“Lung”** samples (sequencing via **Eton Biosciences**, NJ). That report is now **archived and read** ([§3.1](#31-dna-lab-report-helix-p-234-archived)); it **does not name Yale**. Spurr’s **Yale** stories remain **outreach claims** ([§4](#4-yale-harvard-and-academia-outreach)). High DNA yields + short human primers leave a **strong contamination alternative**. Adjacent to—not identical with—[MFEE](mfee-investigation.md).
+> **TL;DR:** **Roger Spurr** (**[Mudfossil University](https://www.youtube.com/@mudfossiluniversity)** / **[mfutools.com](https://mfutools.com/)**) claims many rocks/landforms are **soft-tissue mudfossils**, citing **Helix Biological Laboratory Project P-234** (2015): short **~100 bp** human **mtDNA** PCR/BLAST hits on **“36 inch tip”** and **“Lung”** samples (sequencing via **Eton Biosciences**, NJ). That report is now **archived and read** ([§3.1](#31-dna-lab-report-helix-p-234-archived)); it **does not name Yale**. Spurr’s **Yale** stories are **outreach packaging**, not the load-bearing proof ([§4](#4-yale-harvard-and-academia-outreach), [§7.1](#71-controlled-opposition-assessment)). High DNA yields + short human primers leave a **strong contamination alternative**. **No solid controlled-opposition agent read** this pass — scientific weak points dominate. Adjacent to—not identical with—[MFEE](mfee-investigation.md).
 
-**Status:** Open — Helix P-234 text secured; Yale credit claim still undocumented; CT/anatomist/coroner primaries still missing.
+**Status:** Open — Helix P-234 + captions archived; outreach sent (awaiting CT/DICOM/GPS replies); Yale credit claim still undocumented.
 
 ## Guide (read order)
 
@@ -11,7 +11,7 @@
 3. Want **DNA / CT evidence** → [§3](#3-named-evidence-dna-ct-anatomist)
 4. Want **what he cites** → [§5](#5-citations-and-intertexts-spurr-side)
 5. Want **debunks / risk** → [§6](#6-skeptical-and-mainstream-counters)
-6. Want **overlap with this site** → [§7](#7-overlap-with-mfee-giants-and-this-repo)
+6. Want **overlap / CO assessment** → [§7](#7-overlap-with-mfee-giants-and-this-repo)
 7. Want **open work** → [§9](#9-questions-to-clarify-verify-or-debunk) / [§10](#10-weak-points--remaining-research-todos)
 
 ---
@@ -207,9 +207,29 @@ Named or linked authorities on [mfutools.com](https://mfutools.com/) and intervi
 | **[American burial mounds](american-burial-mounds-mfee-smithsonian-national-parks-investigation.md)** | Giants in press, Smithsonian gatekeeping, fossilization language | Mounds = cultural/burial archaeology + MFEE fossilization thesis; Spurr = roadside rocks / Earth features as bodies. |
 | **[Giants etymology / Horde](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md)** | Giant humans as historical problem | Lexical/political vs soft-tissue specimen claims. |
 | **Æther / Maxwell vocabulary** ([repo canon](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md)) | Spurr’s electron-flood / aether essays rhyme thematically | Do **not** collapse Spurr DEFT into project æther ontology without separate physics audit. |
-| **Controlled-opposition caution** | Mudflood hub already warns many mud-flood YouTube products are **easy-debunk bait** ([mudflood `page.md`](../page.md)) | MFU could be (a) earnest citizen science, (b) pareidolia cult, (c) **poison-the-well** adjacent to serious mud/giant research — **open**, not decided. |
+| **Mudflood hub media caution** | Hub already warns many mud-flood YouTube products are **easy-debunk bait** ([mudflood `page.md`](../page.md)) | MFU sits in that risk class as **reputational adjacency**, not as proven poison-the-well. |
 
 **Author / project stance (working):** Worth documenting because community readers arrive from Spurr; **physical specimen + DNA + CT** claims are **falsifiable** and therefore higher priority than Google Earth dragons. Landscape-organ catalog is **low priority** until hand-specimen lane is settled.
+
+### 7.1 Controlled-opposition assessment
+
+**Verdict (2026-07-16):** **No solid signs of an agent-style controlled-opposition op.** Stronger default: **sincere citizen-scientist / YouTube lane** with overclaim, contamination-vulnerable lab work, and prestige-theater packaging. Revisit if funding trails, message discipline that *avoids* dig GPS / third-lab aDNA, or handler patterns appear.
+
+**Yale is not the hinge.** Load-bearing claim stack is **S1** (rocks = soft tissue) + **Helix P-234** mtDNA + **CT / coroner** narratives. **S11** (Yale/Harvard refused *or* “took credit”) is **legitimacy packaging**. “Yale ran the tests” is **falsified** by P-234 (Helix + Eton). Narrative A vs B remain **undocumented and mutually awkward**.
+
+| Soft CO-adjacent pattern | What this pass actually shows |
+|--------------------------|-------------------------------|
+| Prestige Ivy fixation | A/B clash; no named contacts, letters, or Yale paper citing Spurr |
+| Unfalsifiable “academia dark” | Keeps attention on persecution rather than sample custody |
+| Kitchen-sink stack (DEFT / manna / living Earth) | Dilutes mudfossil hand-specimen lane into alt-phys brand |
+| “Professor” branding | Project title — **not** a verified university chair |
+| Easy-debunk landscape IDs | Reputational hazard for mud/giant research ([hub warning](../page.md)); **not** proof of intentional poison-the-well |
+
+**Missing for a real CO call:** funding trail, institutional handlers, disciplined steering *away* from falsifiers (coords, DICOMs, independent aDNA).
+
+**Forward test:** Supplying **DICOMs + dig GPS + named coroner/anatomist** is **anti-CO** behavior. Doubling down only on Yale drama without primaries reads as **ego/brand**, still not control.
+
+Hub grammar for intentional CO ops: [controlled opposition hub](/influence/controlled_opposition/page.md). This dossier does **not** place Spurr in that class on present evidence.
 
 ---
 
@@ -218,9 +238,10 @@ Named or linked authorities on [mfutools.com](https://mfutools.com/) and intervi
 Claims unique to *this* file’s framing (not proven):
 
 1. Spurr’s **hand-specimen / DNA / CT** lane deserves a **separate evidentiary track** from his **macro-topography** lane.
-2. The **Yale took credit** claim is **not supported** by Helix P-234 and remains a **documentary gap** (not a verified institutional plot).
+2. The **Yale took credit** claim is **not supported** by Helix P-234 and remains a **documentary gap** (not a verified institutional plot). **Yale is packaging (S11), not the load-bearing hinge.**
 3. Helix P-234 is a **real commercial report** with human mtDNA BLAST hits; **contamination** is currently the **stronger default** reading until authenticated aDNA methods are applied.
 4. MFU may function socially as a **gateway** that brings people to mud/giant questions—and as a **reputational hazard** if over-claimed landscape IDs are treated as the whole thesis (same class of risk the mudflood hub already flags for deepfake buried-building spam).
+5. **Controlled opposition:** **No agent-style CO finding** this pass ([§7.1](#71-controlled-opposition-assessment)); weak points are **scientific** (contamination, missing primaries), not “they work for Yale.”
 
 ---
 
@@ -250,7 +271,9 @@ Claims unique to *this* file’s framing (not proven):
 - [x] Priority claim sheet (`wget/.../claim-sheet.md`).
 - [ ] Send outreach (author decision); archive any replies.
 - [ ] Obtain CT DICOM / facility reports; dig GPS if Spurr shares.
-- [ ] Convert remaining DOCX `image7.wmf`; dump captions for `bgnx2nN2a7U` / `nfdxxyT7Dco` when YouTube API cooperates.
+- [x] Caption dumps: `bgnx2nN2a7U` (Original Gods — DNA/CT/Yale) + `nfdxxyT7Dco` (**Manna / mono-atomic gold**, not DNA walkthrough; DOCX link was misplaced expectation). Local: `wget/.../videos/`.
+- [ ] Convert remaining DOCX `image7.wmf`.
+- [ ] Heelstone video `0TIcBzgy6m8` still **private** — PDF only unless Spurr opens it.
 - [ ] Optional reader article — only if author names a path.
 
 ---
@@ -263,13 +286,14 @@ Claims unique to *this* file’s framing (not proven):
 | [American burial mounds](american-burial-mounds-mfee-smithsonian-national-parks-investigation.md) | Giants, fossilization, institutional gatekeeping |
 | [Stonehenge portal / Birkeland](/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md) | Contrast Heelstone-as-foot vs portal geometry |
 | [Stonehenge quantum portal essay](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) | Reader-facing Stonehenge thesis |
-| [Mudflood hub](../page.md) | Controlled-opposition / deepfake mudflood media warning |
+| [Mudflood hub](../page.md) | Easy-debunk / deepfake mudflood media warning |
+| [Controlled opposition hub](/influence/controlled_opposition/page.md) | CO grammar; MFU **not** classed as agent op ([§7.1](#71-controlled-opposition-assessment)) |
 | [Blood rain / ecological disasters](blood-rain-dust-ecological-disasters-investigation.md) | Post-catastrophe ecology oddities |
 | [Æther vocabulary](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) | Separate physics lane if DEFT is audited |
 
 ---
 
-Keywords: #MudfossilUniversity #RogerSpurr #Mudfossils #BiologicalGeology #GiantHumans #MtDNA #HelixBiologicalLaboratory #EtonBiosciences #TomPrychitko #Yale #Harvard #Fascia #Solvomorphism #LivingEarth #Pareidolia #MFEE #ParadigmThreatFiles
+Keywords: #MudfossilUniversity #RogerSpurr #Mudfossils #BiologicalGeology #GiantHumans #MtDNA #HelixBiologicalLaboratory #EtonBiosciences #TomPrychitko #Yale #Harvard #Fascia #Solvomorphism #LivingEarth #Pareidolia #ControlledOpposition #MFEE #ParadigmThreatFiles
 
 *Last updated: 2026-07-16*
 
@@ -278,6 +302,7 @@ Keywords: #MudfossilUniversity #RogerSpurr #Mudfossils #BiologicalGeology #Giant
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
 - **Investigation, not endorsement:** Cataloging Spurr’s claims does not certify mudfossils, giants-as-landscape, or DEFT physics.
+- **Controlled opposition:** [§7.1](#71-controlled-opposition-assessment) finds **no agent-style CO** on present evidence; soft CO-adjacent patterns ≠ proof of control.
 - **Evidence tiers:** Helix P-234 report text (Spurr-hosted DOCX) > Spurr videos/LinkedIn/Discourse > interview writeups > hostile blogs. Peer-reviewed geology affirming MFU was **not found** in this pass.
 - **Author thesis sections** are first-class for pattern work but **not** automatically factual.
 - **Hostile sources** (e.g. Myers) are used for **falsification checklists**, not as moral authority.
@@ -290,5 +315,6 @@ Keywords: #MudfossilUniversity #RogerSpurr #Mudfossils #BiologicalGeology #Giant
 - Session 2026-07-16 (a): first dossier draft.
 - Session 2026-07-16 (b): Helix P-234 archive + Eton/Yale analysis; MFU PDF corpus; wget README.
 - Session 2026-07-16 (c): DOCX media extract; NCBI BLAST RID `5HJPCABD014` (human D-loop/CYTB); Stonehenge Heelstone cross-check; `claim-sheet.md` + `outreach-emails.md`; anatomist/coroner name search dead end; yt-dlp API failures / `0TIcBzgy6m8` private.
+- Session 2026-07-16 (d): Caption archive (`bgnx2nN2a7U`, `nfdxxyT7Dco` = Manna not DNA walkthrough); author sent Spurr/Helix outreach; **§7.1 CO assessment** — no agent op; Yale not hinge.
 - Local archive: `/home/ari/dev/wget/mudflood/mudfossil-university/`.
 - **Do not** paste data-broker street/phone into public dossier — Middletown CT city-level only.

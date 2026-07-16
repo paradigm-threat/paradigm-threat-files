@@ -5,15 +5,18 @@ alwaysApply: true
 
 # paradigm-threat-files: site chat request → reply
 
-When the author asks to **find**, **triage**, or **respond to** Paradigm Threat **site chat** leads (guest “what do you think?”, “add a section”, unanswered recommendations):
+When the author asks to **find**, **triage**, or **respond to** Paradigm Threat **site chat** leads (guest “what do you think?”, “add a section”, unanswered recommendations), or to **post a chat update with a live investigation link** / **push everything live**:
 
 1. Read **`docs/CHAT_REQUEST_RESPONSE.md`** (full playbook + worked examples).
-2. Chat is **Relay git** on **`paradigm-threat-site`** branch **`chat/public`** under `.relay/chat/channels/<channel>/` — **not** Discord.
+2. Chat is **Relay git** on **`paradigm-threat-site`** branch **`chat/public`** under `.relay/chat/channels/<channel>/` — **not** Discord. Prefer `git fetch` + remote tip over a stale local branch.
 3. Inspect with `git show "chat/public:.relay/chat/channels/…"` / `git grep` from `paradigm-threat-site`.
-4. Ship research per **`docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md`** when the lead needs a dossier.
+4. Ship research per **`docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md`** when the lead needs a dossier; wire hub indexes.
 5. Close the loop with a **short** channel post as **`protricity`** (`anonymous: false`) and a **live** `https://paradigmthreat.net/…` link — **push `paradigm-threat-files` first** so Relay does not return `not_found`.
-6. Confirm before posting unless the author already ordered “reply to that thread / post to chat.”
+6. Confirm before posting unless the author already ordered “reply to that thread / post to chat / push everything live.”
 
-**Canonical example:** `#cosmology` Oct 2025 Tiki-Toki Saturnian timeline → investigation → 2026-07-16 reply (see §8 Example A in the doc).
+**Worked examples** (doc §8):
+
+- **A** — `#cosmology` Oct 2025 Tiki-Toki Saturnian timeline → investigation → 2026-07-16 reply
+- **B** — `#mudflood` Feb 2025 Mudfossil University “add a section” → Spurr dossier → 2026-07-16 reply + live push
 
 **Not this rule:** external Facebook/X cosmology debunk templates → **`docs/LLM_COSMOLOGY_QA.md`**.

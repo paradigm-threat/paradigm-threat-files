@@ -176,8 +176,65 @@
     "relatedClaimIds": [
       "blackrock-cube-saturn-authority",
       "creation-scalar-field",
+      "cosmic-life-cycle",
       "mfee-mud-flood-reset",
       "pole-shift-ruled-out"
+    ]
+  },
+  {
+    "id": "cosmic-life-cycle",
+    "title": "Cosmic life cycle (solar-system scale)",
+    "claim": "The universe is eternal; Big Bang / Big Melt / Big Rip language describes the repeated life cycle of a solar system, not the birth or death of the whole cosmos. Proto-planets form inside the Sun, are born via CME-like ejection, may be captured by a brown-dwarf host (proto-Saturn), return electrically into the Sun’s domain (conception / Golden Age collinear stack), break up through Dark Ages cataclysms into modern orbits, then eventually rip outward so the cycle can restart. Mainstream Bang dogma is read as that remembered solar-system rebirth scaled up after telescopes left the system.",
+    "answerOpener": "This site’s cosmic life cycle is at solar-system scale: the universe is eternal; Bang/Melt/Rip name rebirth and death of a system—not creation of everything from nothing.",
+    "bullets": [
+      "Sun builds proto-planets internally → violent birth / CME → outer system → brown-dwarf capture → electrical return / Golden Age → Dark Ages breakup → stable orbits → eventual rip / empty system → next cycle.",
+      "≈4077 BCE proto-Saturn joining the Sun’s electrical domain is a lifecycle chapter (conception / Golden Age), not “no lifecycle.”",
+      "Gap Theory / ruin-restitution and EU/Saturnian testimony are adjacent; the short solar-system rebirth cycle as stated here is author synthesis (Thornhill does not publish the same full cycle)."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Timeline Cosmic Life Cycle + chronology hub synthesis (Saturnian + EU + eternal universe + Bang-as-scaled-up-system-rebirth) is site-original; pieces exist in Gap Theory and EU without this package.",
+    "topics": [
+      "cosmic life cycle",
+      "solar system lifecycle",
+      "big bang",
+      "big melt",
+      "big rip",
+      "eternal universe",
+      "proto-saturn",
+      "brown dwarf",
+      "golden age",
+      "birkeland"
+    ],
+    "demoQuestions": [
+      "Does Paradigm Threat believe in a cosmic lifecycle?",
+      "Is the Big Bang the start of the universe?",
+      "What is the cosmic life cycle?"
+    ],
+    "searchQueries": [
+      "cosmic life cycle solar system big bang eternal universe"
+    ],
+    "searchPrefixes": [
+      "history/chronology/",
+      "cosmos/cosmology/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/page.md",
+      "timeline/evt-cosmic-life-cycle",
+      "cosmos/cosmology/qa/q01-big-melt-eternal-universe-solar-cycle.md",
+      "timeline/evt-4077-bce-proto-saturn-joins-sun-orbit"
+    ],
+    "relatedClaimIds": [
+      "saturnian-collinear-config",
+      "creation-scalar-field",
+      "earth-age-young",
+      "chronology-revision"
+    ],
+    "doNotSay": [
+      "The site rejects any cosmic or solar-system lifecycle.",
+      "Paradigm Threat only describes electrical joining with no birth–death–rebirth cycle.",
+      "The site treats the Big Bang as the literal creation of the entire universe."
     ]
   },
   {
@@ -657,6 +714,7 @@
     ],
     "relatedClaimIds": [
       "chronology-revision",
+      "cosmic-life-cycle",
       "giants-fate"
     ]
   },
@@ -871,7 +929,9 @@
       "timeline/evt-spawning-of-the-first-life-forms"
     ],
     "relatedClaimIds": [
-      "aether-substrate"
+      "aether-substrate",
+      "cosmic-life-cycle",
+      "saturnian-collinear-config"
     ]
   },
   {
@@ -997,7 +1057,8 @@
       "page.md"
     ],
     "relatedClaimIds": [
-      "saturnian-collinear-config"
+      "saturnian-collinear-config",
+      "cosmic-life-cycle"
     ],
     "doNotSay": [
       "The site predicts an imminent civilization-erasing pole shift.",

@@ -29,7 +29,7 @@ These are the Saturnian / catastrophist authors **already wired** into this corp
 | **Ev Cochrane** — *Martian Metamorphoses*; Aeon essays | Mars / Venus myth physics | Catastrophist planet lore; **no** Cook-length timeline |
 | **Immanuel Velikovsky** — *Worlds in Collision* | Exodus / Venus / Mars near approaches | **1500–686 BCE** only; **not** Saturnian Golden Age BCE |
 | **Alfred de Grazia** — Quantavolution (*Chaos and Creation*, *Iron Age of Mars*, …) | Young-system / electrical geology; Mars iron age synthesis | Catastrophist **framework**; Cook notes “young Earth thesis”; dates mixed with Velikovsky/SIS |
-| **This timeline (Paradigm Threat)** | Collinear Golden Age, Dark Ages, MudFlood, phantom time, C-14 rejection | Cook’s **4077 / 3147** pins **plus** NC/Illig CE compression **plus** author solar-entry / hollow-planet layers |
+| **This timeline (Paradigm Threat)** | Collinear Golden Age, Dark Ages, MudFlood, phantom time, C-14 rejection, **cosmic life cycle** | Cook’s **4077 / 3147** pins **plus** NC/Illig CE compression **plus** author solar-system lifecycle / hollow-planet layers |
 
 **Related in-repo (not re-opened here):** [creation-event-interpretations](/history/chronology/investigations/creation-event-interpretations.md), [biblical sky texts](/history/chronology/investigations/biblical-sky-texts-saturnian-citation-investigation.md), [Etana / king list](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md), [Venus → Venera](/cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation.md), [radiocarbon](/history/chronology/investigations/radiocarbon-dating-investigation.md), [Illig–Fomenko boundary](/history/chronology/investigations/illig-fomenko-boundary.md).
 
@@ -68,7 +68,7 @@ These are the Saturnian / catastrophist authors **already wired** into this corp
 | Post-3147 Venus/Mars | **Keeps** Velikovsky-style adjustments (Exodus **1492 BC**, Mars **747 / 685 BC**, etc.) | Cook: they **deny** post-breakup Venus/Mars catastrophes | Core thesis | Keeps Dark Ages planetary war lane; also **1774 MudFlood / Mars** (phantom-time C14 hook) |
 | CE compression | **Standard** Scaligerian centuries | Standard | Standard | **Illig / Fomenko** phantom centuries; **774→1774** C14 spike remapping |
 | Carbon dating | **Uses** INTCAL98 / dendro as solar-year absolute; reinterprets offset via **short years** | EU critiques radiometric assumptions (Thornhill et al.) | Critiqued mid-century; not Cook’s table | **Ruled out** for electrical catastrophe dating ([radiocarbon investigation](/history/chronology/investigations/radiocarbon-dating-investigation.md)) |
-| Solar / system origin | Saturn **enters** existing Solar System (repeat visits; last **≈3 mya** “stay”); Sun already there but **obscured** under Absu/coma | Proto-Saturn **brown dwarf outside**; **captured** by Sun; entry flare ends darkness | Does not replace solar origin story | **Proto-Saturn joins Sun’s orbit** as cathode supercapacitor / flare ([evt](/timeline/evt-4077-bce-proto-saturn-joins-sun-orbit)); hollow planets; anti–Big Bang stance |
+| Solar / system origin | Saturn **enters** existing Solar System (repeat visits; last **≈3 mya** “stay”); Sun already there but **obscured** under Absu/coma | Proto-Saturn **brown dwarf outside**; **captured** by Sun; entry flare ends darkness | Does not replace solar origin story | **Cosmic life cycle** (solar-system birth→capture→Golden Age→Dark Ages→rip→repeat); universe **eternal**; ≈4077 is conception / joining chapter — [Cosmic Life Cycle](/timeline/evt-cosmic-life-cycle) |
 | Deep geologic time | Appendix L keeps **billions of years** (formation of Earth/Mars, Cambrian, etc.) | Mixed; Cardona focuses on witnessed phases | Historical memory catastrophes | Stronger push against deep-time dogma; C14/electrical “old carbon” thesis |
 
 **Overlap (high):** Polar / collinear Saturn–Venus–Mars–Earth sky; Saturn as primordial “sun”; Era of the Gods; breakup flood; plasma / EU language.
@@ -200,17 +200,28 @@ Myth + EU plasma: polar configuration of planets; electrical scarring; **no** de
 
 Velikovsky: recent **orbital** catastrophes inside an already-existing system. de Grazia: **quantavolution** — geologically/astronomically **young** reorganization; electrical creativity; not a Cook-style visitor chronology.
 
-### 6.5 This timeline
+### 6.5 This timeline — **yes, a cosmic (solar-system) lifecycle**
 
-Aligns with Cardona/Talbott **witness** language and Cook **4077** pin, but frames **4077** as **proto-Saturn joining the Sun’s orbit** — cathode supercapacitor / Birkeland stack / polar flare ([proto-Saturn event](/timeline/evt-4077-bce-proto-saturn-joins-sun-orbit)) — and rejects Big Bang deep-time religion ([1927 consensus event](/timeline/evt-1927-ce-big-bang-scientific-consensus-religion)). Hollow-planet and scalar-energy before-creation lanes are **author extensions** beyond Cook.
+Paradigm Threat **does** subscribe to a **cosmic life cycle** — at **solar-system** scale, not as a textbook stellar-evolution story for Sol, and **not** as a Big Bang birth of the whole universe. Canonical write-ups: [Cosmic Life Cycle](/timeline/evt-cosmic-life-cycle), [Chronology hub § Cosmic Life Cycle](/history/chronology/page.md), [Q1](/cosmos/cosmology/qa/q01-big-melt-eternal-universe-solar-cycle.md). Site claim id: **`cosmic-life-cycle`**.
 
-| Model | What “starts” the system humans remember? | Does it describe Sun’s stellar lifecycle? |
-|-------|--------------------------------------------|-------------------------------------------|
-| Cook | Saturn’s capture / coma / nova | **No** (Sun pre-exists; revealed) |
-| Cardona | Brown-dwarf Saturn → Solar capture | **No** (dwarf flares, not Sol’s birth) |
-| Talbott/EU | Polar configuration assembly | **No** |
-| Velikovsky | N/A (recent wars) | **No** |
-| **This timeline** | Proto-Saturn enters Sun’s electrical domain ≈4077 | **No** stellar lifecycle; **yes** electrical joining / flare |
+**Cycle (author synthesis):**
+
+1. Sun builds **proto-planets** internally (capacitor / hollow structure).
+2. Violent **birth** (CME-like ejection) to the outer system.
+3. Capture / impregnation by a **brown-dwarf** host (proto-Saturn), then electrical **return** into the Sun’s domain — **conception**.
+4. Plasma-sheath explosion → gas giants + Birkeland coalescence → **collinear Golden Age** (life creation); ≈**4077 BCE** pin is a chapter here ([proto-Saturn joins Sun](/timeline/evt-4077-bce-proto-saturn-joins-sun-orbit)).
+5. Collinear breakup → **Dark Ages** cataclysms → modern orbits.
+6. Long stability → density/conductivity loss → **rip** outward → empty system → **next cycle**.
+
+The universe is treated as **eternal**; Bang/Melt/Rip language is that lifecycle **scaled up** after telescopes left the solar system ([1927 consensus event](/timeline/evt-1927-ce-big-bang-scientific-consensus-religion)).
+
+| Model | What “starts” the remembered Golden Age chapter? | Lifecycle? |
+|-------|--------------------------------------------------|------------|
+| Cook | Saturn’s capture / coma / nova | Partial (visitor Saturn; keeps geologic deep time in Appendix L) |
+| Cardona | Brown-dwarf Saturn → Solar capture | Phase outline; not the full PT birth→rip cycle |
+| Talbott/EU | Polar configuration assembly | Myth/physics sequence; Thornhill does not state PT’s full cycle |
+| Velikovsky | N/A (recent wars) | No |
+| **This timeline** | Proto-Saturn enters Sun’s electrical domain ≈4077 (conception / Golden Age) | **Yes — solar-system cosmic life cycle** (birth → capture → Golden Age → Dark Ages → rip → repeat); universe eternal |
 
 ---
 
@@ -222,6 +233,7 @@ Claims that are **this dossier’s synthesis** or **this project’s fork**, not
 2. **The largest dating conflict with this site is methodological:** Cook **needs** C-14/dendro; this site **forbids** C-14 for catastrophe epochs — so Cook’s 10,900 / paleolithic stretch is **non-portable** without a replacement clock.
 3. **Thunderbolts “no post-3147 Venus/Mars”** is a second hard fork: if they are right, Cook’s Tiki-Toki **middle third** is fan fiction; if Cook is right, Thunderbolts chronology is truncated.
 4. **Variable-year conversion** can explain king-list “implausible” reigns without Fomenko — but this project often prefers **redaction / duplication** explanations for long reigns; both can be true in different eras, and the dossier should not collapse them.
+5. **Cosmic life cycle** (solar-system birth–Golden Age–rip–repeat; eternal universe) is **this project’s** package — [site claim `cosmic-life-cycle`](/site-claims.json) — not Cook’s Appendix L deep-time stack and not a denial of lifecycle.
 
 ---
 
@@ -260,8 +272,9 @@ Claims that are **this dossier’s synthesis** or **this project’s fork**, not
 | [Creation event interpretations](/history/chronology/investigations/creation-event-interpretations.md) | Myth ↔ nova mapping |
 | [Radiocarbon dating](/history/chronology/investigations/radiocarbon-dating-investigation.md) | Why this site rejects Cook’s clock |
 | [Timeline synchronization](/timeline/evt-timeline-synchronization) | Year-zero chapter thesis |
-| [Proto-Saturn joins Sun](/timeline/evt-4077-bce-proto-saturn-joins-sun-orbit) | This timeline’s solar-entry frame |
-| [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | Registry hub |
+| [Proto-Saturn joins Sun](/timeline/evt-4077-bce-proto-saturn-joins-sun-orbit) | This timeline’s Golden Age joining chapter |
+| [Cosmic Life Cycle](/timeline/evt-cosmic-life-cycle) | Site solar-system lifecycle (birth→rip→repeat) |
+| [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | Registry hub (AU-034) |
 
 ---
 

@@ -3,7 +3,7 @@
 > **TL;DR:** Central index of **Paradigm Threat / author** claims that are **not** standard Fomenko, Illig, Velikovsky, etc., and for which **no close prior-art match** has been found in mainstream or NC literature after repo search. Each entry links to its **canonical dossier** or timeline event. **Prior art: none** means **no external author stating the same package** — adjacent ideas may exist; see per-file Limits.
 
 **Status:** Living registry (add rows when a new author-unique thread ships).  
-**Last updated:** 2026-07-14 (AU-033 plan §0 + weak points §12 redo)
+**Last updated:** 2026-07-16 (AU-034 cosmic life cycle + site claim)
 **Lexical redaction cross-ref hub:** [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — master table for all **word-redaction** dossiers (**AU-027** meta-thesis).
 
 ---
@@ -42,6 +42,7 @@ Per-investigation **§ Author open claims** blocks remain the **detail** registr
 | ID | Theory (short) | Prior art | Canonical doc |
 |----|----------------|-----------|-----------------|
 | **AU-010** | **Incorrectly scaled universe** — curved-light **aether** paths → systematic **over-scale** + mirror duplication; one-force gravity read | **partial** (EU, Dowdye, Arp adjacent; **bundle** author) | [Incorrectly scaled universe](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md) |
+| **AU-034** | **Cosmic life cycle** — eternal universe; Bang/Melt/Rip = **solar-system** birth→brown-dwarf capture→Golden Age→Dark Ages→rip→repeat (not cosmos-from-nothing); ≈4077 joining is a lifecycle chapter | **partial** (Gap Theory, EU pieces; **full cycle package** author / timeline) | [Cosmic Life Cycle](/timeline/evt-cosmic-life-cycle); [Chronology § Cosmic Life Cycle](/history/chronology/page.md); site claim **`cosmic-life-cycle`** |
 
 ## Christianity & war (author vs Fomenko)
 

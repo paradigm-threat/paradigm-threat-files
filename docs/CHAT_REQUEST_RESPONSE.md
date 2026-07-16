@@ -16,7 +16,7 @@
 |--------|---------|
 | Guest asks **“what do you think?”** about a URL / channel / claim | Research → investigation (or FAQ reply) → **post in the same channel** with link |
 | Guest says **“add a section about X”** | Investigation dossier → wire indexes → reply with link |
-| Author says **reply to the chat lead from …** | Find the message → reply as **`protricity`** (unless told otherwise) |
+| Author says **reply to the chat lead** / **post update with link** / **push everything live** | Find the message → **publish files** → reply as **`protricity`** (unless told otherwise) |
 | Pure cosmology **Facebook/X** debunk (no site chat) | Use [`LLM_COSMOLOGY_QA.md`](LLM_COSMOLOGY_QA.md) — **not** this doc |
 
 **Do not** invent Discord APIs. Site chat is **git on Relay** (`chat/public`), not Discord.
@@ -28,16 +28,17 @@
 | Item | Value |
 |------|--------|
 | Git branch | `chat/public` on **`paradigm-threat-site`** |
-| Paths | `.relay/chat/channels/<channel>/<ISO-ts>_<id>_<ulid>.md` |
+| Paths | `.relay/chat/channels/<channel>/<compact-ISO>_<8-digit>_<ULID>.md` |
 | Local inspect | `cd paradigm-threat-site && git show "chat/public:.relay/chat/channels/<channel>/<file>.md"` |
 | List channel | `git ls-tree --name-only chat/public:.relay/chat/channels/<channel>/` |
 | Grep | `git grep -i 'needle' chat/public -- '.relay/chat/channels/<channel>/'` |
+| Prefer remotes | `git fetch dfw1 chat/public` then inspect `dfw1/chat/public:…` — local `chat/public` may lag |
 | HTTP read | `GET` host `https://paradigm-threat-site.<region>.relaygateway.net/<path>` with header `X-Relay-Branch: chat/public` |
 | Regions | Derive from `NEXT_PUBLIC_FILES_BASE_URL` by swapping `paradigm-threat-files.` → `paradigm-threat-site.` (see `lib/chat/chatRelayOrigin.ts`) |
 
 **Author account for Ari replies:** `protricity` (`anonymous: false`). Guests often appear as `author: guest`.
 
-Channels are flat (no nested “threads”); “reply to the thread” means **post again in the same channel** and open with `Re: …` so readers can connect it.
+Channels are flat (no nested “threads”); “reply to the thread” means **post again in the same channel** and open with `Re: …` so readers can connect it. Guests often spray several messages the same day — reply once against the **clearest ask** (e.g. the “add a section” line), not every message.
 
 ---
 
@@ -47,7 +48,7 @@ Channels are flat (no nested “threads”); “reply to the thread” means **p
 
 Example: “Saturnian Cosmology tiki-toki timeline — `#cosmology` Oct 2025.”
 
-1. `git ls-tree` / `git grep` that channel + month.
+1. `git ls-tree` / `git grep` that channel + month (fetch remotes first if needed).
 2. Open the guest message + any later guest replies.
 3. Confirm nothing from **`protricity`** already closed it.
 
@@ -57,6 +58,7 @@ Useful patterns in message bodies:
 
 - `https://` + “what do you think” / “check out” / “you should add”
 - Channel-topic citations (YouTube channels, archives, timelines)
+- “add a section about …” / “now you have to add …”
 
 Prioritize: **explicit asks of Ari**, **add-a-section** requests, **unique research URLs**. Skip news dumps and spam.
 
@@ -76,6 +78,10 @@ Before writing a new dossier: `rg` / glob under `paradigm-threat-files` for the 
 
 **Voice in chat:** short, plain, first-person-as-Ari / site voice. No dossier TL;DR paste. Target **~2–4 sentences**, under **1024** chars (`CHAT_CONTENT_MAX`).
 
+Typical shape:
+
+> Re: \<topic\> — \<one beat of what you did\>. \<one beat of finding / status\>. \<live URL\>
+
 ---
 
 ## 5. Posting a comment (Relay PUT)
@@ -84,15 +90,20 @@ Preferred when running in-repo tooling: **`putComment`** / MCP **`submit_chat_co
 
 **Manual PUT** (agents without MCP):
 
-1. Build markdown with frontmatter (`schema: paradigm.chat.v1`, `channel`, `author: protricity`, `anonymous: false`, `source: mcp` or `web`, `created` ISO UTC).
-2. Path: `.relay/chat/channels/<channel>/<compact-ISO>_<8-digit>_<ULID>.md` (see `lib/chat/chatPath.ts`).
+1. Build markdown with frontmatter (`schema: paradigm.chat.v1`, `channel`, `author: protricity`, `anonymous: false`, `source: mcp` or `web`, `created` ISO UTC with `Z`).
+2. Path: `.relay/chat/channels/<channel>/<compact-ISO>_<8-digit>_<ULID>.md`
+   - Compact ISO = `new Date().toISOString().replace(/[:.]/g, '-')` → e.g. `2026-07-16T12-17-29-344Z`
+   - **Do not** use offset forms that expand to `+00-00` in the filename
+   - ULID-ish id: 26 uppercase hex chars (see `lib/chat/chatPath.ts` `newCommentId`)
 3. `PUT` to `https://paradigm-threat-site.dfw1.relaygateway.net/<path>` with headers:
    - `X-Relay-Branch: chat/public`
    - `content-type: text/plain; charset=utf-8`
 4. Expect `200` + JSON `{ "branch":"chat/public", "commit":"…", "path":"…" }`.
 5. Verify with `GET` same URL + branch header.
 
-**Confirm with the author before posting** unless they already ordered “post to chat” / “reply to that thread.”
+**Regions:** Prefer **one** successful PUT (dfw1). Peer hooks usually propagate; only re-PUT other regions if verify fails and content/path stay identical.
+
+**Confirm with the author before posting** unless they already ordered “post to chat” / “reply to that thread” / “push everything live” with a link.
 
 ---
 
@@ -100,15 +111,19 @@ Preferred when running in-repo tooling: **`putComment`** / MCP **`submit_chat_co
 
 Chat links use **`https://paradigmthreat.net/...`**. The SPA shells any path; **content** comes from **`paradigm-threat-files`** on Relay.
 
-1. Commit the investigation + index wiring (`page.md`, `docs/INVESTIGATIONS_DEEP_DIVE.md`, lane indexes).
-2. Push **all** configured remotes (`dfw1`, `lon1`, `hkg1`, `gitlab`, …).
+1. Commit the investigation + index wiring (`page.md`, `docs/INVESTIGATIONS_DEEP_DIVE.md`, related-investigation cross-links, lane indexes).
+2. Push **all** configured remotes (`dfw1`, `lon1`, `hkg1`, `gitlab`, …). Lon1/hkg1 may already be current via peer notify — still attempt push or verify.
 3. Verify raw files host returns markdown, not `not_found`:
 
 ```bash
 curl -sS 'https://paradigm-threat-files.dfw1.relaygateway.net/<repo-relative-path>.md' | head -5
 ```
 
-**Do not** post a public link to an untracked / unpushed file. If the author has not asked to commit, ask once; if they asked to post the chat update **with** a link, treat publish as in-scope for that request.
+**Do not** post a public link to an untracked / unpushed file. If the author has not asked to commit, ask once; if they asked to post the chat update **with** a link / **push everything live**, treat publish as in-scope for that request.
+
+**Commit hygiene:** stage only the investigation + its index wiring — leave unrelated dirty trees alone.
+
+**Local research archives** (e.g. `/home/ari/dev/wget/…`) stay **out of** `paradigm-threat-files` git; cite them in Investigator notes only.
 
 ---
 
@@ -117,7 +132,8 @@ curl -sS 'https://paradigm-threat-files.dfw1.relaygateway.net/<repo-relative-pat
 In the investigation’s **Investigator notes** (not the reader body), record:
 
 - Channel, date, guest ask (and message path or id if useful)
-- That a chat reply was posted (date)
+- That a chat reply was posted (date) as `protricity`
+- Pointer to this playbook (`docs/CHAT_REQUEST_RESPONSE.md` §8)
 
 Example: `Chat trigger: #cosmology guest Tiki-Toki URL (2025-10-18); reply posted 2026-07-16 as protricity.`
 
@@ -147,25 +163,49 @@ Example: `Chat trigger: #cosmology guest Tiki-Toki URL (2025-10-18); reply poste
 
 **Pattern:** recommendation URL → deep dossier → short `Re:` reply → publish before/with link.
 
-### Example B — Mudfossil University (`#mudflood`, 2025-02-06) → investigation
+---
 
-**Guest ask:** praise + **“now you have to add a section about mudfossil university”** (+ channel URL).
+### Example B — Mudfossil University (`#mudflood`, 2025-02-06) → investigation → reply → live
 
-**Agent steps:** dossier [`history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md`](../history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md); Investigator notes cite the chat seed. **Same close-loop:** when author asks to reply, post brief `#mudflood` note + live investigation URL as `protricity`.
+**Guest cluster** (`author: guest`, `#mudflood`, 2025-02-06) — several messages the same afternoon. Clearest ask (id `5363`):
+
+> … now you have to add a section about mudfossil university …
+
+(Also linked `https://www.youtube.com/@mudfossiluniversity` and credited Roger Spurr / DNA claims.)
+
+**Author arc (2026-07-16):**
+
+1. Create investigation into Mudfossil University / Roger Spurr (claims, citations, Yale history, validation).
+2. Continue remaining research TODOs (Helix P-234 archive, BLAST recheck, claim sheet, outreach drafts, Stonehenge contrast).
+3. **“add a comment to the thread… with investigation link. keep it short… push everything live.”**
+
+**Agent steps taken:**
+
+1. Located seed via `git grep -i mudfossil chat/public -- '.relay/chat/channels/mudflood/'`.
+2. Wrote [`history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md`](../history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md); wired `page.md`, `docs/INVESTIGATIONS_DEEP_DIVE.md`, MFEE related link. Local wget archive cited in Investigator notes only (not committed).
+3. Committed + pushed files remotes; verified Relay returned the updated markdown (incl. BLAST RID).
+4. Posted as **`protricity`** in `#mudflood`:
+
+> Re: Mudfossil University — dug in. Helix P-234 DNA report archived; Yale stories do not match the lab paperwork. Open investigation: https://paradigmthreat.net/history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md
+
+5. Noted chat seed + reply date in Investigator notes.
+
+**Pattern:** “add a section” ask → open dossier (not a soft reader article unless named) → brief `Re:` + live URL → publish is in-scope when author says push live / post with link.
 
 ---
 
 ## 9. Checklist (copy)
 
-- [ ] Found guest message + channel + date on `chat/public`
+- [ ] Fetched / inspected guest message + channel + date on `chat/public` (prefer remote tip)
 - [ ] Checked for existing `protricity` reply and existing corpus coverage
 - [ ] Deliverable ready (investigation or short answer)
-- [ ] Author confirmed posting (or ordered it)
-- [ ] Investigation **pushed** to files remotes (if linking)
+- [ ] Indexes wired (`page.md`, deep-dive, related links) if new investigation
+- [ ] Author confirmed posting (or ordered reply / push live with link)
+- [ ] Investigation **committed + pushed** to files remotes (if linking)
 - [ ] Verified files Relay returns content (not `not_found`)
-- [ ] Posted brief `#channel` comment as **`protricity`**
+- [ ] Posted brief `#channel` comment as **`protricity`** (`Re: …` + URL)
 - [ ] Noted chat seed + reply in Investigator notes
-- [ ] Wired discovery indexes if new investigation
+- [ ] Left unrelated dirty files unstaged
 
 ---
 
@@ -177,3 +217,6 @@ Example: `Chat trigger: #cosmology guest Tiki-Toki URL (2025-10-18); reply poste
 - Treating Discord ban archives as the live chat store
 - Editing `chat/public` history / other users’ messages
 - Skipping confirmation when the author only asked to *draft* a reply
+- Mangling comment filenames with timezone offsets (`+00-00`) instead of compact `…Z`
+- Committing wget / local research dumps into `paradigm-threat-files`
+- Staging unrelated modified files when publishing one investigation
