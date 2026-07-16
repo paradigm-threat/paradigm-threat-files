@@ -336,12 +336,26 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 
 **Investigator discipline:** **Tier A** for **PP / generational grief decay** ([§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics)). **Not** **forensic exhibit A** — still **do not lead** with *Friday* in replies to ballistics researchers (use [§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission), Pavlick, Hartwell). Lyrics **never name** Dallas or Kennedy — **intentionality** remains **author thesis**, not **provable** production doc.
 
+#### Poisoned hinge — “Samuel Kickin” as controlled-opposition obfuscation (author)
+
+**What people are told:** the driver was **Samuel Kickin** → lyric is a **proper name**. **What the roster says:** **William R. Greer** drove the limo; **Sam Kinney** drove the follow-up. **Samuel Kickin** has **no** Warren / Secret Service footprint.
+
+**Site read:** the fake name is **not** an innocent error that “thins” an otherwise coincidental song. It is the **confusion product** — **controlled opposition** for the decode lane:
+
+1. **Plant** a **falsifiable** name-hook so the meme **spreads** (people love a named villain).  
+2. **Wait** for **fact-check** culture (EW, Wikipedia, snopes-tier) to **kill** “Samuel Kickin.”  
+3. **Collateral** — audiences **discard** Friday calendar lock, seat geometry, and “get down” **with** the fake name.  
+4. **Social kill** — anyone **about to claim** the Dallas encode who repeats Kickin looks like they **did not research**; anyone who **catches** the plant and **self-censors** the whole pattern also loses. The fight becomes **“were you dumb enough to believe Kickin?”** instead of **does the encode fit?**  
+5. **Result** — the **pattern** never gets a clean hearing; only the **debunkable plant** does.
+
+**Discipline:** separate **artifact** (lyric cluster) from **meme packaging** (Kickin / Bran Flakes). Debunking the plant **strengthens** investigator caution; it does **not** erase the **inappropriate** motorcade encode. Same class as QAnon “JFK Jr. is alive” — **keeps the topic warm** while **poisoning** serious audit ([JFK Was Never Assassinated](../jfk-was-never-assassinated.md) contaminated-folklore note).
+
 #### Lyric hooks → motorcade reads (author — low confidence)
 
 | Lyric (2011 release) | Hoax / motorcade read (speculative) |
 |----------------------|-------------------------------------|
 | **“Friday, Friday”** / **“Gotta get down on Friday”** | **Calendar lock:** assassination **Friday**; **“get down”** = **hit the deck** / **duck** command in **shooting** grammar (also **party** double entendre) |
-| **“Kickin' in the front seat”** / **“Sittin' in the back seat”** / **“Which seat can I take?”** | **Limousine geometry:** **Connally** / **front jump seat** vs **JFK–Jackie** **rear**; **compliance** “who goes where” in the **kill car** |
+| **“Kickin' in the front seat”** / **“Sittin' in the back seat”** / **“Which seat can I take?”** | **Two layers + poisoned hinge:** (1) **Viral meme** claims the driver was **“Samuel Kickin”** so the lyric **names** him. **Documented false** — limousine driver was **William R. Greer** ([roster](https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy); [EW](https://ew.com/music/rebecca-black-cannot-confirm-or-deny-if-her-song-friday-is-about-jfks-assassination/)). Closest real garbled candidate: **Sam Kinney** drove **Halfback** (follow-up), not the limo. (2) **Site seating chart (holds without the fake name):** **Connally** (and Nellie) on **front jump seats**; **JFK–Jackie** in the **rear**. **Author:** **Samuel Kickin** = **controlled-opposition obfuscation** — a **debunkable plant** that makes the **whole Friday→Dallas decode look stupid** once fact-checked; do **not** surrender calendar lock / seat geometry / “get down” when the fake name falls |
 | **“Got to get down to the bus stop”** | **Procession** metaphor — **scheduled route**, **public vehicle**, **everyone** **moving** on a **published line** (motorcade as **celebrity bus run**) |
 | **“Everybody's rushing”** / **“Ticking on and on”** | **Countdown** / **parade** tempo — **slow turn** into **Dealey**, **fixed** **time window** |
 | **“7 a.m., waking up in the morning”** | **Morning-of** **schedule** energy — Dallas **motorcade day** **starts** like any **school-trip** **innocence** before **spectacle** |
@@ -1490,7 +1504,7 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 
 Keywords: #JFK #RFK #Kennedy #Sirhan #ThaneCesar #StagedAssassination #FakeDeath #AnnouncedDead #DeathPackageEpistemics #DisclosureEnvelope #ContradictionsAsMethod #MarilynMonroe #DorothyKilgallen #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #ToothFairy #BabyToothSurvey #BizarroSanta #PhantomCruiser #FX #DarkKnightRises #RobotDecoy #BloodSquib #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #InvestigateAttemptNonaction #FBIAssassinationEnvelope #TargetListIntimidation #CongressionalBaseballShooting #RogueDeepState #MotiveInversion #Chappaquiddick #TedKennedy #MaryJoKopechne #ParadigmThreatFiles
 
-**Last updated:** 2026-07-16 (Weisberg *“tooth fairy”* as containment code word; §2.3 related rhymes + Girl Hair fairy-tale laugh track)
+**Last updated:** 2026-07-16 11:15 EDT (*Friday* Samuel Kickin poisoned hinge / controlled-opposition obfuscation; Weisberg *“tooth fairy”* as containment code word; §2.3 related rhymes + Girl Hair fairy-tale laugh track)
 
 ---
 
