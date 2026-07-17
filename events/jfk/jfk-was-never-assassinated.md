@@ -129,7 +129,9 @@ Supporting write-ups and companions:
 
 Keywords: #JFK #RFK #RFKJr #NeverAssassinated #StagedAssassination #FakeDeath #Pavlick #Vietnam #MotiveInversion #ConspiracyTheorist #ToothFairy #GirlHair #RebeccaBlack #SamuelKickin #Greer #Connally #Hartwell #ThaneCesar #Chappaquiddick #DisclosureEnvelope #Antibody #ValKilmer #BoomerSurvivalism #ParadigmThreatFiles
 
-**Last updated:** 2026-07-17T12:07:00-04:00
+**Substack:** [paradigmthreat2.substack.com/p/jfk-was-never-assassinated](https://open.substack.com/pub/paradigmthreat2/p/jfk-was-never-assassinated?r=5p8s4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+**Last updated:** 2026-07-17T12:22:00-04:00
 
 ---
 
