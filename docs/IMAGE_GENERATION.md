@@ -108,6 +108,18 @@ Sky-era rules and cinematic spec: [`paradigm-threat-timeline/docs/IMAGE_GENERATI
 
 [`docs/instructions/ARTICLES.md`](instructions/ARTICLES.md) — reuse corpus art first; absolute `https://paradigmthreat.net/...` URLs when embedding.
 
+## Factual audit before embedding
+
+Generated images are **not factual sources**. Before an image is linked from an article:
+
+1. Open it at full resolution and read **every visible word**, including small print.
+2. Verify every quotation, signature, headline, date, title, seal, caption, and attribution independently.
+3. Check chronology in diagrams. A film, book, or event shown as a precursor must actually predate the event it points toward.
+4. Reject unrelated “prediction” lists and plausible-looking details that the prompt did not request.
+5. Regenerate or omit any image containing a claim that cannot be verified. Descriptive alt text does not repair false text inside the pixels.
+
+Prefer **text-free base art** with a clean title area. Add short, verified labels afterward with `annotate-illustration.py` or another deterministic graphics tool. Never ask the image model to invent quotations, signatures, citations, newspaper headlines, or historical documents.
+
 ## WebMCP
 
 Read-only tool `prepare_illustration_prompt` (site) returns merged prompt + CLI command — does **not** call HF. Run `generate-illustration.py` locally after approval.
