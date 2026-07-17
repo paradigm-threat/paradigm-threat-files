@@ -24,6 +24,10 @@ In **December 1960**, before Kennedy took office, **Richard Pavlick** positioned
 
 Pavlick turned that inherited fear into attempted political violence. Calling him only a lone madman removes the decades of public anxiety he represented; recognizing that setting does **not** establish a Vatican plot or prove that anyone ordered him. A postmaster's warning brought a Secret Service alert, and Palm Beach police arrested him before another attempt. The family still got the lesson: **close calls would continue** if JFK stayed in power under that kind of pressure — the same die-for-real vs fake-death choice already named above. Jackie, Connally, and the car party were inside that choice. Earlier presidential coercion and health fiction — not fake death — are in [investigation §1.1](https://paradigmthreat.net/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar).
 
+![Richard Pavlick after his arrest — viral meme](https://paradigmthreat.net/events/jfk/assassination.jpg)
+
+*Viral Pavlick meme; it simplifies the timing and credits the Secret Service rather than the Palm Beach police who arrested him.*
+
 JFK was not a peace martyr. He was preparing America for containment against Russia and opening Asian war after the country was already sick of war. Grief for a peace martyr does not sell Asian escalation. What the public got instead was the inverted story: a **Russian / communist-allied lone gunman** — a frame Oswald himself denied — so the country would go to Vietnam to keep Russia from backing the North. Documented history shows Vietnam **escalation after** Dallas. Early press tried “Russia killed JFK”; when that did not stick cleanly, Oswald, magic bullet, and conspiracy-theory ridicule took over. See [investigation §2.4](https://paradigmthreat.net/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md#24-warren-commission--magic-bullet-containment-mock-divide-distract). The Russia-sponsored lone-gunman story sold the war; the fake death under family agreement took him out of power while grief did the political work.
 
 That grief-to-war pipeline did not end in 1963. The **Gulf of Tonkin** later sold another war on a false account of an attack; the Ellsberg and Hanyok records showed that signals intelligence did not support the claimed second attack. The wider pattern appears in [Not Like This](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) and the [good-actor investigation](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).
@@ -125,7 +129,7 @@ Supporting write-ups and companions:
 
 Keywords: #JFK #RFK #RFKJr #NeverAssassinated #StagedAssassination #FakeDeath #Pavlick #Vietnam #MotiveInversion #ConspiracyTheorist #ToothFairy #GirlHair #RebeccaBlack #SamuelKickin #Greer #Connally #Hartwell #ThaneCesar #Chappaquiddick #DisclosureEnvelope #Antibody #ValKilmer #BoomerSurvivalism #ParadigmThreatFiles
 
-**Last updated:** 2026-07-17T11:59:00-04:00
+**Last updated:** 2026-07-17T12:07:00-04:00
 
 ---
 
