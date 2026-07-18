@@ -1,8 +1,9 @@
 /**
- * Thin tip: rasters are IPFS stubs; `?w=` optimize 500s when Kubo is down.
- * 1) Neutralize double-quotes (md2ast mangles absolute image URLs when alt has ")
- * 2) Strip Relay ?w= width queries
- * 3) Point ](/corpus/… rasters at GitLab Pages via literal replaceAll
+ * Thin tip rasters are IPFS stubs; park Kubo is often down.
+ * Retarget markdown image URLs to GitLab Pages (binary mirror).
+ *
+ * CleverScript: only export function / export default; no export const.
+ * Prefer literal replaceAll — avoid host+path concat (path corruption risk).
  */
 
 function replaceAllLiteral(text, needle, replacement) {
@@ -23,12 +24,42 @@ function replaceAllLiteral(text, needle, replacement) {
   return out
 }
 
+/** md2ast drops/mangles ![alt](https://…) when alt contains double quotes. */
+function softenImageAltQuotes(md) {
+  if (!md || typeof md !== 'string') return ''
+  let out = ''
+  let pos = 0
+  while (pos < md.length) {
+    const start = md.indexOf('![', pos)
+    if (start < 0) {
+      out = out + md.slice(pos)
+      break
+    }
+    out = out + md.slice(pos, start)
+    const mid = md.indexOf('](', start)
+    if (mid < 0) {
+      out = out + md.slice(start)
+      break
+    }
+    let alt = md.slice(start + 2, mid)
+    alt = replaceAllLiteral(alt, '"', "'")
+    out = out + '![' + alt + ']('
+    pos = mid + 2
+  }
+  return out
+}
+
 export function rewriteMarkdownAssetUrls(md, mirrorBase) {
   if (!md || typeof md !== 'string') return ''
-  let s = md
+  let s = softenImageAltQuotes(md)
 
-  // md2ast corrupts https image URLs when alt contains "; use single quotes instead.
-  s = replaceAllLiteral(s, '"', "'")
+  // Exact tip title: space + '{"className":"sm:float-right …"}'
+  // Build with split strings so the file source stays CleverScript-safe.
+  s = replaceAllLiteral(
+    s,
+    " '{" + '"className":"' + 'sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"' + "}'",
+    ''
+  )
 
   s = replaceAllLiteral(s, '.jpg?w=360', '.jpg')
   s = replaceAllLiteral(s, '.jpeg?w=360', '.jpeg')
