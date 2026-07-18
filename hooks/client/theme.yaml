@@ -651,6 +651,8 @@ themes:
         backgroundColor: "transparent"
         color: "var(muted)"
         cursor: "pointer"
+        userSelect: "none"
+        WebkitUserSelect: "none"
       ".pt-changelog-status":
         margin: "0.5rem 0"
         fontSize: "0.875rem"
