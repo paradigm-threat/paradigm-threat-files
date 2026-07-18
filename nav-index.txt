@@ -1,0 +1,80 @@
+blog/2021-11-30-2020-2021-paradigm-threat-old.md	2020–2021: paradigm-threat-old — Project Beginnings and Maintenance
+blog/2022-11-30-2022-old2-sources-content.md	2022: paradigm-threat-old2 Rebuild, Sources Submodule, and Content Expansion
+blog/2023-04-30-2023-q1-q2-asset-overhaul.md	2023 Q1–Q2: Asset Overhaul and Final Old2 Iteration
+blog/2023-10-31-paradigm-threat-site-launch.md	October 2023: Paradigm Threat Site Launches
+blog/2024-06-30-2024-h1-vercel-chronology-investigations.md	2024 H1: Vercel, Chronology, Mars, and Investigations
+blog/2024-12-31-2024-h2-events-year-end.md	2024 H2: 9/11 Theory, Chat Fixes, and Year-End Updates
+blog/2025-09-30-paradigm-threat-files-launch.md	September 2025: paradigm-threat-files Repository Created
+blog/2026-01-31-january-2026-project-beginnings.md	January 2026: Timeline Project Begins, paradigm-threat-files Refactor
+blog/2026-02-21-pre-launch-buildup.md	February 21, 2026: Pre-Launch Build — Media, Structure, and Content
+blog/2026-02-22-new-timeline-project.md	A Dedicated Timeline for Earth's Hidden History
+blog/2026-02-24-timeline-update.md	Timeline Update: Atlantis Investigation, Joan of Arc, and the Absu
+blog/2026-02-25-timeline-update.md	Timeline Update: New Articles, Restructure, and a Media Audit
+blog/2026-02-26-timeline-update.md	Timeline Update: Author Profiles, Third Story, Core Concepts, and Major Restructure
+blog/2026-02-27-timeline-update.md	Timeline Update: Chapter Consolidation, New Articles, Print-Ready PDF, and Chronological Corrections
+blog/2026-02-28-timeline-update.md	Timeline Update: New Chapters 13–15, Ch11 Reorganization, 3-Tier Export Hierarchy, and Animation Module
+blog/2026-03-01-timeline-update.md	Timeline Update: Massive Condensation, Mars Catastrophe, Operation Mockingbird, and PDF Shrinks to 420 Pages
+blog/2026-03-03-timeline-update.md	Timeline Update: Investigations Library, Maxwell & the Aether, Nuclear Myths, Browser Mode, and 13 New Articles
+blog/2026-03-05-timeline-update.md	Timeline Update: Flexner Report, Weather Control, CERN, Mars Literature, Asimov, and 38 New Investigations
+blog/2026-03-09-timeline-update.md	Timeline Update: Six Wars, World Wars, Trump, Pyramids, Seven Days, Population Control, and Major Restructuring
+blog/2026-03-10-timeline-update.md	Timeline Update: Content Reduction, Fiction-Encoding Investigations, Arthurian Cosmology, and New Appendix Overflow
+blog/2026-03-11-timeline-update.md	Timeline Update: Stolen Credit Suite, Yakuza Investigation, Site SSR, and TTS Improvements
+blog/2026-03-12-content-update.md	Content Update: Identity Investigations, Tornado Thesis, Ed Wood, Hairy Mary, and Reorganization
+blog/2026-03-14-soul-science-israel-divide-conquer-investigations.md	Soul Science, Israel Divide-and-Conquer, and Chronology Investigations
+blog/2026-03-16-cia-investigation-timeline-article.md	CIA Investigation and Timeline Article
+blog/2026-03-17-authors-cataclysm-controlled-opposition.md	Authors Who Read Cataclysm + Controlled Opposition Theory
+blog/2026-03-20-timeline-update.md	Radiocarbon Dating Investigation + Timeline Updates
+blog/2026-03-23-timeline-files-site-update.md	Golden Age rollout, MFEE appendices, investigations, and site/TTS polish
+blog/2026-03-28-timeline-tldr-appendix-split-investigations-site.md	Book TL;DR sweep, appendix split (XVI–XXII), war and fiction investigations, exports, site reader
+blog/2026-03-30-github-ban-gitlab-migration-and-repo-updates.md	GitHub account and 72 repos deleted; GitLab migration; Swift / *Gulliver* Mars dossier and site index updates
+blog/2026-04-03-prester-john-religious-edition-brand-slogans.md	Prester John NC dossier; *Jacob’s Ladder* / Eckhart & Cathar–Khazar suppression; Chronologia perspective; religious edition; brand & site — April 3, 2026
+blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md	Relay network engineering shift; GitHub and crates.io lockout; griffin timeline merge; site and files updates — April 5, 2026
+blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md	Jade Helm and Cruz / Kevin investigations; Venus probes; Relay branch policy; Paradigm site TTS; Forgotten Future GitLab Pages — April 2026
+blog/2026-04-14-pyramid-artemis-investigations-ae911truth-site-share-og.md	Pyramid-stack and Artemis II investigations; AE911Truth file; war and suppression files; timeline appendix cites; site share modal, `/files` proxy, and OG descriptions — April 2026
+blog/2026-04-18-cod-mw-militainment-spore-blood-rain-tts-unicode.md	*Call of Duty* Modern Warfare militainment investigation; spore / blood-rain mudflood files; Cruz / Office cross-reads; editor docs; timeline PP links; TTS Unicode arrows — April 2026
+blog/2026-04-25-netanyahu-health-disclosure-controlled-opposition-fomenko-site-toc.md	Netanyahu cancer “health reset”; controlled-opposition cluster expansions; Fomenko verification investigations; site TOC + error UX; timeline JSON minification — April 2026
+blog/2026-04-27-cia-1984-mars-reading-room-find-restructure-chrono-article.md	The 1984 Mars Reading Room PDF as a thesis hit; controlled-opposition investigations restructure; *Chrono Trigger* article; timeline + antisemitism doc churn — late April 2026
+blog/2026-05-05-may-roundup-circle-of-life-cancer-success-site-updates.md	May 2026 roundup: Circle of Life, Cure for Cancer, Success essay, Mars hubs, and paradigm-threat-site upgrades
+blog/2026-05-14-md2ast-migration-downtime-cave-story-pursue-consensus-theater-roundup.md	Mid-May 2026: md2ast migration, brief downtime, Cave Story & PURSUE lanes, cosmology and geoengineering drops, Big Mysteries consensus theater
+blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack.md	Late May 2026: Ghost War antibody lane, Napoleon medicine, prisca sapientia, Relay migration, and six Substack drops
+blog/2026-06-10-june-roundup-stonehenge-benjamin-celebrity-slavery-gordonston-memory-war.md	Early June 2026: Stonehenge portal, Benjamin tribe, celebrity IP slavery, Gordonston MGGA, consent rites, and the memory-war cluster
+blog/2026-06-19-june-roundup-internet-matrix-pp-education-site-ai.md	Late June 2026: Internet That Should Have Been, Matrix PP series, education Installment II, Site AI, and WebMCP on paradigmthreat.net
+blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai.md	Late June 2026: lexical redaction, Rife OCR, Islamabad hinge, sealed web, Pacific PP, Epstein cluster, and Site AI
+blog/2026-07-03-july-roundup-alef-tona-ecw-mars-jfk-constitution-cern-censorship.md	Early July 2026: clogged internet, TONA rebrand, ECW invention, Mars dagger, JFK hoax dossier, CERN gate, and platform strikes
+blog/2026-07-09-july-portal-id4-research-mcp-server.md	Mid-July 2026: portal series, ID4 unity lane, Research MCP for any AI host, and Dead Planet timeline
+blog/page.md	Blog
+README.md	README.md
+REORGANIZATION_MAP.md	Directory Reorganization Map
+book/page.md	Paradigm Threat: The Third Story
+cosmos/cosmology/a.md	cosmos/cosmology/a.md
+cosmos/cosmology/astronomy/page.md	cosmos/cosmology/astronomy/page.md
+cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md	Consensus theater and the stalled physics pipeline
+cosmos/cosmology/de_grazia/README.md	Alfred de Grazia — Complete Works Index
+cosmos/cosmology/de_grazia/books/burning-of-troy.md	The Burning of Troy
+cosmos/cosmology/de_grazia/books/chaos-and-creation.md	Chaos and Creation
+cosmos/cosmology/de_grazia/books/cosmic-heretics.md	Cosmic Heretics
+cosmos/cosmology/de_grazia/books/disastrous-love-affair.md	The Disastrous Love Affair of Moon and Mars
+cosmos/cosmology/de_grazia/books/divine-succession.md	The Divine Succession: A Science of Gods Old and New
+cosmos/cosmology/de_grazia/books/fire-not-blown.md	A Fire Not Blown
+cosmos/cosmology/de_grazia/books/gods-fire.md	God's Fire: Moses and the Management of Exodus
+cosmos/cosmology/de_grazia/books/homo-schizo-i.md	Homo Schizo I: Human and Cultural Hologenesis
+cosmos/cosmology/de_grazia/books/homo-schizo-ii.md	Homo Schizo II: Human Nature and Behavior
+cosmos/cosmology/de_grazia/books/iron-age-of-mars.md	The Iron Age of Mars
+cosmos/cosmology/de_grazia/books/ka.md	KA: A Handbook of Mythology, Sacred Practices, Electrical Phenomena, and Their Linguistic Connections in the Ancient Mediterranean World
+cosmos/cosmology/de_grazia/books/lately-tortured-earth.md	Lately Tortured Earth: Exoterrestrial Forces and Quantavolution in the Solar System
+cosmos/cosmology/de_grazia/books/q-intro.md	Quantavolution and Catastrophe: Introduction to the Series & Q-C Test
+cosmos/cosmology/de_grazia/books/recollections-fallen-sky.md	Recollections of a Fallen Sky: Velikovsky and Cultural Amnesia
+cosmos/cosmology/de_grazia/books/solaria-binaria.md	Solaria Binaria: Origins of the Sun and Its Planets
+cosmos/cosmology/de_grazia/books/velikovsky-affair.md	The Velikovsky Affair: Scientism vs. Science
+cosmos/cosmology/ech-in-time/page.md	cosmos/cosmology/ech-in-time/page.md
+cosmos/cosmology/hollow_earth/A.md	cosmos/cosmology/hollow_earth/A.md
+cosmos/cosmology/hollow_earth/ANNAS_ARCHIVE_DOWNLOADS_INDEX.md	Anna's Archive — Hollow Earth Downloads Index
+cosmos/cosmology/hollow_earth/hollow-earth-investigation.md	Investigation: Hollow Earth — Sources, Maps, Books, and Atlantis
+cosmos/cosmology/hollow_earth/hollow_earth_chat.md	cosmos/cosmology/hollow_earth/hollow_earth_chat.md
+cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md	Investigation: Tham Luang Cave Rescue (2018) — Cover-up and Alternate Theories
+cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md	Investigation: Big Mysteries Survey — consensus theater, menu design, and the stalled physics pipeline
+cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md	Investigation: The Incorrectly Scaled Universe — Curved-Light Aether Model, Maxwell Lineage, and Cosmological Inference Risk
+cosmos/cosmology/investigations/saturnian-cosmology-published-timelines-investigation.md	Investigation: Saturnian Cosmology — Published Timelines, Year Discrepancies, Year-Counting, and Solar Origin (Open)
+cosmos/cosmology/qa/page.md	Cosmology Q&A — Big Bang, Big Melt, eternal universe, solar-system lifecycle
+cosmos/cosmology/qa/q01-big-melt-eternal-universe-solar-cycle.md	Q1 — Big Melt, eternal universe, and solar-system lifecycle
+cosmos/cosmology/qa/q02-einstein-math-cosmic-extrapolation.md	Q2 — Did Einstein warn his theories weren’t established in grounded math?

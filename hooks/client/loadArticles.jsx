@@ -1,5 +1,4 @@
 import manifest from '@hooks'
-import { parseJson, queryIndexBody } from 'hooks/client/jsonUtil.jsx'
 
 function clientBase() {
   try {
@@ -53,89 +52,85 @@ export function rowTitle(row) {
   return 'Untitled'
 }
 
-function contentKind(row) {
+function tryGetText(url) {
   try {
-    if (row.content_kind && typeof row.content_kind === 'string') return row.content_kind
-  } catch (e) {}
-  return ''
+    const resp = fetch(url, { method: 'GET' })
+    if (!resp || resp.ok !== true) return ''
+    return resp.text ? resp.text : ''
+  } catch (e) {
+    return ''
+  }
 }
 
-/** Keep browsable markdown articles; drop excludes / manifests. */
-export function isArticleRow(row) {
-  const path = rowPath(row)
-  if (path.length === 0) return false
-  if (path === 'assets.manifest.json') return false
-  if (path.indexOf('.github/') === 0) return false
-  const kind = contentKind(row)
-  if (kind === 'exclude') return false
-  const lower = path.toLowerCase()
-  if (lower.length < 3) return false
-  if (lower.slice(lower.length - 3) !== '.md') return false
-  return true
-}
-
-function rowsFromPayload(data) {
+/** Parse `path\\ttitle` lines — no JSON.parse (missing in some CS module envs). */
+function rowsFromNavText(text) {
   let out = []
-  if (!data) return out
-  let list = null
-  try {
-    if (data.articles && data.articles.length >= 0) list = data.articles
-  } catch (e) {}
-  try {
-    if (!list && data.results && data.results.length >= 0) list = data.results
-  } catch (e2) {}
-  if (!list) return out
-  for (let i = 0; i < list.length; i++) {
-    if (isArticleRow(list[i])) out = out.concat([list[i]])
+  if (!text || text.length === 0) return out
+  const lines = text.split('\n')
+  for (let i = 0; i < lines.length; i++) {
+    let line = lines[i]
+    if (!line || line.length === 0) continue
+    const tab = line.indexOf('\t')
+    let path = line
+    let title = line
+    if (tab >= 0) {
+      path = line.slice(0, tab)
+      title = line.slice(tab + 1)
+    }
+    if (path.length < 4) continue
+    if (path.slice(path.length - 3).toLowerCase() !== '.md') continue
+    out = out.concat([{ path: path, title: title, content_kind: 'article' }])
   }
   return out
 }
 
-function tryFetchJson(url, options) {
-  try {
-    const resp = fetch(url, options)
-    if (!resp || resp.ok !== true) return null
-    const text = resp.text ? resp.text : ''
-    if (text.length === 0) return null
-    return parseJson(text)
-  } catch (e) {
-    return null
-  }
-}
-
 /**
  * Article index for Index / Home.
- *
- * Prefer committed nav-index.json (GET) so SSR and browser hydrate match.
- * Browser sync XHR historically dropped QUERY bodies / methods, which emptied
- * the client tree after a good SSR paint (hydrate mismatch).
- *
- * QUERY remains a fallback for environments where nav-index is missing.
+ * Prefer nav-index.txt (TSV) so SSR + browser hydrate match without JSON.parse
+ * or QUERY (browser sync XHR historically dropped QUERY bodies).
  */
 export function loadArticleRows(limit) {
   let lim = 48
   if (typeof limit === 'number' && limit > 0) lim = limit
   const base = clientBase()
-  const navUrl = base.length > 0 ? base + '/nav-index.json' : '/nav-index.json'
-  const nav = tryFetchJson(navUrl, { method: 'GET' })
-  const fromNav = rowsFromPayload(nav)
-  if (fromNav.length > 0) {
-    if (fromNav.length > lim) {
-      let clipped = []
-      for (let i = 0; i < lim; i++) {
-        clipped = clipped.concat([fromNav[i]])
-      }
-      return clipped
+  const navUrl = base.length > 0 ? base + '/nav-index.txt' : '/nav-index.txt'
+  let rows = rowsFromNavText(tryGetText(navUrl))
+  if (rows.length === 0) {
+    // Legacy JSON fallback when txt missing (requires JSON in module env).
+    const jsonUrl = base.length > 0 ? base + '/nav-index.json' : '/nav-index.json'
+    const raw = tryGetText(jsonUrl)
+    if (raw.length > 0) {
+      try {
+        const data = JSON.parse(raw)
+        if (data && data.articles) {
+          let out = []
+          for (let i = 0; i < data.articles.length; i++) {
+            const a = data.articles[i]
+            let path = ''
+            try {
+              if (a.path) path = a.path
+            } catch (e) {}
+            if (path.length < 4) continue
+            if (path.slice(path.length - 3).toLowerCase() !== '.md') continue
+            let title = path
+            try {
+              if (a.title) title = a.title
+            } catch (e2) {}
+            out = out.concat([{ path: path, title: title, content_kind: 'article' }])
+          }
+          rows = out
+        }
+      } catch (e3) {}
     }
-    return fromNav
   }
-
-  const queryUrl = base.length > 0 ? base + '/' : '/'
-  const queried = tryFetchJson(queryUrl, {
-    method: 'QUERY',
-    body: queryIndexBody('', lim, ''),
-  })
-  return rowsFromPayload(queried)
+  if (rows.length > lim) {
+    let clipped = []
+    for (let i = 0; i < lim; i++) {
+      clipped = clipped.concat([rows[i]])
+    }
+    return clipped
+  }
+  return rows
 }
 
 export function featuredArticlePath(rows) {
