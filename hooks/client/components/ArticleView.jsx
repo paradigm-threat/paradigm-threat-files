@@ -111,7 +111,7 @@ function pathSlash() {
 }
 
 /**
- * On-tree article — plain MarkdownRenderer (hard overrides disabled: AutoIndex, ChangeLog, etc.).
+ * On-tree article — MarkdownRenderer with overrides for AutoIndex / ChangeLog / ChatRoom.
  */
 export default function ArticleView(props) {
   let filePathProp = 'README.md'
