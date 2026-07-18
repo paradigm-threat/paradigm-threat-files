@@ -1,9 +1,9 @@
 /**
  * Thin ChangeLog matching production tabs (Articles / Investigations / Blog / Recent).
- * Buckets are built once (nav-index load + classify/sort); tab clicks only swap the panel.
+ * Buckets are built once per page (useRef); tab clicks only swap the panel list.
  * CleverScript: no module-level const arrays; avoid onClick closures over loop vars.
  */
-import React, { useState } from 'react'
+import React, { useState, useRef } from 'react'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 
 function basename(path) {
@@ -23,28 +23,44 @@ function classifyPath(path) {
   return 'article'
 }
 
-/** Stable descending path sort without Array.sort (CleverScript-safe). */
-function sortByPathDesc(rows) {
-  let out = []
+/** Take up to `limit` newest paths without a full O(n²) sort of the whole list. */
+function takeNewestByPath(rows, limit) {
+  let best = []
   for (let i = 0; i < rows.length; i++) {
     const row = rows[i]
     const p = rowPath(row)
-    let inserted = false
-    let next = []
-    for (let j = 0; j < out.length; j++) {
-      if (!inserted && p > rowPath(out[j])) {
-        next = next.concat([row])
-        inserted = true
+    if (best.length < limit) {
+      let next = []
+      let inserted = false
+      for (let j = 0; j < best.length; j++) {
+        if (!inserted && p > rowPath(best[j])) {
+          next = next.concat([row])
+          inserted = true
+        }
+        next = next.concat([best[j]])
       }
-      next = next.concat([out[j]])
+      if (!inserted) next = next.concat([row])
+      best = next
+    } else if (p > rowPath(best[best.length - 1])) {
+      let next = []
+      let inserted = false
+      for (let j = 0; j < best.length; j++) {
+        if (!inserted && p > rowPath(best[j])) {
+          next = next.concat([row])
+          inserted = true
+        }
+        if (next.length < limit) {
+          next = next.concat([best[j]])
+        }
+      }
+      if (!inserted && next.length < limit) next = next.concat([row])
+      best = next
     }
-    if (!inserted) next = next.concat([row])
-    out = next
   }
-  return out
+  return best
 }
 
-function buildBuckets(rows) {
+function buildBuckets(rows, limit) {
   let articles = []
   let investigations = []
   let blog = []
@@ -55,40 +71,12 @@ function buildBuckets(rows) {
     else if (kind === 'investigation') investigations = investigations.concat([rows[i]])
     else if (kind === 'article') articles = articles.concat([rows[i]])
   }
-  articles = sortByPathDesc(articles)
-  investigations = sortByPathDesc(investigations)
-  blog = sortByPathDesc(blog)
-  // Recent: merge already-sorted lists (newest path first) without re-sorting the concat.
-  let recent = []
-  let ia = 0
-  let ii = 0
-  let ib = 0
-  while (ia < articles.length || ii < investigations.length || ib < blog.length) {
-    let best = null
-    let which = ''
-    if (ia < articles.length) {
-      best = articles[ia]
-      which = 'a'
-    }
-    if (ii < investigations.length) {
-      const p = rowPath(investigations[ii])
-      if (!best || p > rowPath(best)) {
-        best = investigations[ii]
-        which = 'i'
-      }
-    }
-    if (ib < blog.length) {
-      const p2 = rowPath(blog[ib])
-      if (!best || p2 > rowPath(best)) {
-        best = blog[ib]
-        which = 'b'
-      }
-    }
-    recent = recent.concat([best])
-    if (which === 'a') ia = ia + 1
-    else if (which === 'i') ii = ii + 1
-    else ib = ib + 1
-  }
+  // Only keep what the UI shows (+ a little headroom) — avoids sorting hundreds of rows.
+  const keep = limit + 8
+  articles = takeNewestByPath(articles, keep)
+  investigations = takeNewestByPath(investigations, keep)
+  blog = takeNewestByPath(blog, keep)
+  const recent = takeNewestByPath(articles.concat(investigations).concat(blog), keep)
   return {
     articles: articles,
     investigations: investigations,
@@ -103,19 +91,6 @@ function emptyBuckets() {
     investigations: [],
     blog: [],
     recent: [],
-  }
-}
-
-/** One-shot cache — tab setState must not reload/sort nav-index again. */
-function getCachedBuckets() {
-  try {
-    const g = globalThis
-    if (g && g.__ptChangeLogBuckets) return g.__ptChangeLogBuckets
-    const built = buildBuckets(loadArticleRows(400))
-    if (g) g.__ptChangeLogBuckets = built
-    return built
-  } catch (e) {
-    return buildBuckets(loadArticleRows(400))
   }
 }
 
@@ -136,12 +111,17 @@ export default function ChangeLog(props) {
   } catch (e) {}
 
   const [activeTab, setActiveTab] = useState('articles')
-  let buckets = emptyBuckets()
-  try {
-    buckets = getCachedBuckets()
-  } catch (e2) {
-    buckets = emptyBuckets()
+  // useRef box is created once (CleverScript keeps the first non-null slot).
+  // Mutate through a `let` alias — assigning fields on a `const` binding throws.
+  const cacheRef = useRef({ ready: false, buckets: emptyBuckets() })
+  let box = cacheRef.current
+  if (box && box.ready !== true) {
+    let built = buildBuckets(loadArticleRows(400), limit)
+    box.buckets = built
+    box.ready = true
   }
+  let buckets = emptyBuckets()
+  if (box && box.buckets) buckets = box.buckets
 
   let panel = []
   if (activeTab === 'articles') panel = buckets.articles
