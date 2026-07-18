@@ -624,14 +624,41 @@ themes:
         borderRadius: "0.5rem"
         backgroundColor: "var(card)"
         boxSizing: "border-box"
-      ".pt-changelog-title":
-        fontSize: "1.125rem"
-        fontWeight: "700"
-        margin: "0 0 0.75rem"
+        maxHeight: "28rem"
+        display: "flex"
+        flexDirection: "column"
+        minHeight: 0
+      ".pt-changelog-toolbar":
+        display: "flex"
+        flexWrap: "wrap"
+        gap: "0.35rem"
+        marginBottom: "0.75rem"
+        flexShrink: 0
+      ".pt-changelog-tab":
+        padding: "0.35rem 0.7rem"
+        fontSize: "0.8125rem"
+        fontWeight: "600"
+        borderWidth: 1
+        borderStyle: "solid"
+        borderColor: "var(border)"
+        borderRadius: "0.375rem"
+        backgroundColor: "transparent"
+        color: "var(muted)"
+        cursor: "pointer"
+      ".pt-changelog-tab-active":
+        color: "var(foreground)"
+        borderColor: "var(primary)"
+        backgroundColor: "var(secondary)"
+      ".pt-changelog-status":
+        margin: "0.5rem 0"
+        fontSize: "0.875rem"
       ".pt-changelog-list":
         listStyle: "none"
         margin: 0
         padding: 0
+        overflowY: "auto"
+        minHeight: 0
+        flex: 1
       ".pt-changelog-item":
         margin: "0 0 0.4rem"
         fontSize: "0.875rem"

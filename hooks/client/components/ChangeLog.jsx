@@ -1,55 +1,145 @@
 /**
- * Thin ChangeLog for MarkdownRenderer overrides.
- * Lists recent blog posts from nav-index (date-coded paths sort newest-first).
+ * Thin ChangeLog matching production tabs (Articles / Investigations / Blog / Recent).
+ * Loads nav-index once, filters per tab client-side (async load state on mount).
  */
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 
+const TABS = [
+  { id: 'articles', label: 'Articles' },
+  { id: 'investigations', label: 'Investigations' },
+  { id: 'blog', label: 'Blog' },
+  { id: 'recent', label: 'Recent' },
+]
+
+function basename(path) {
+  const parts = path.split('/')
+  return parts[parts.length - 1] || ''
+}
+
+function classifyPath(path) {
+  if (!path || path.length < 4) return 'exclude'
+  if (path.slice(path.length - 3).toLowerCase() !== '.md') return 'exclude'
+  const base = basename(path)
+  if (base === 'page.md' || base.toLowerCase() === 'readme.md') return 'exclude'
+  if (path.indexOf('docs/') === 0) return 'exclude'
+  if (path.indexOf('blog/') === 0) return 'blog'
+  if (path.indexOf('/investigations/') >= 0) return 'investigation'
+  if (base.toLowerCase().indexOf('investigation') >= 0) return 'investigation'
+  return 'article'
+}
+
+function sortByPathDesc(rows) {
+  let out = []
+  for (let i = 0; i < rows.length; i++) {
+    out = out.concat([rows[i]])
+  }
+  for (let a = 0; a < out.length; a++) {
+    for (let b = a + 1; b < out.length; b++) {
+      const pa = rowPath(out[a])
+      const pb = rowPath(out[b])
+      if (pb > pa) {
+        const tmp = out[a]
+        out[a] = out[b]
+        out[b] = tmp
+      }
+    }
+  }
+  return out
+}
+
 export default function ChangeLog(props) {
-  let limit = 12
+  let limit = 16
   try {
     if (props && typeof props.limit === 'number' && props.limit > 0) limit = props.limit
   } catch (e) {}
 
-  const rows = loadArticleRows(400)
-  let blog = []
-  for (let i = 0; i < rows.length; i++) {
-    const p = rowPath(rows[i])
-    if (p.indexOf('blog/') === 0) blog = blog.concat([rows[i]])
-  }
+  const [activeTab, setActiveTab] = useState('articles')
+  const [loading, setLoading] = useState(true)
+  const [buckets, setBuckets] = useState({
+    articles: [],
+    investigations: [],
+    blog: [],
+    recent: [],
+  })
 
-  for (let a = 0; a < blog.length; a++) {
-    for (let b = a + 1; b < blog.length; b++) {
-      const pa = rowPath(blog[a])
-      const pb = rowPath(blog[b])
-      if (pb > pa) {
-        const tmp = blog[a]
-        blog[a] = blog[b]
-        blog[b] = tmp
-      }
+  useEffect(() => {
+    setLoading(true)
+    const rows = loadArticleRows(400)
+    let articles = []
+    let investigations = []
+    let blog = []
+    for (let i = 0; i < rows.length; i++) {
+      const p = rowPath(rows[i])
+      const kind = classifyPath(p)
+      if (kind === 'blog') blog = blog.concat([rows[i]])
+      else if (kind === 'investigation') investigations = investigations.concat([rows[i]])
+      else if (kind === 'article') articles = articles.concat([rows[i]])
     }
-  }
+    articles = sortByPathDesc(articles)
+    investigations = sortByPathDesc(investigations)
+    blog = sortByPathDesc(blog)
+    const recent = sortByPathDesc(articles.concat(investigations).concat(blog))
+    setBuckets({
+      articles: articles,
+      investigations: investigations,
+      blog: blog,
+      recent: recent,
+    })
+    setLoading(false)
+  }, [])
 
-  const lim = blog.length < limit ? blog.length : limit
+  let panel = []
+  if (activeTab === 'articles') panel = buckets.articles
+  else if (activeTab === 'investigations') panel = buckets.investigations
+  else if (activeTab === 'blog') panel = buckets.blog
+  else panel = buckets.recent
+
+  const lim = panel.length < limit ? panel.length : limit
   let items = []
   for (let j = 0; j < lim; j++) {
-    const p = rowPath(blog[j])
-    const title = rowTitle(blog[j])
+    const p = rowPath(panel[j])
+    const title = rowTitle(panel[j])
     const href = siteHref('/' + p)
     items = items.concat([
-      <li key={'cl-' + j} className="pt-changelog-item">
+      <li key={'cl-' + activeTab + '-' + j} className="pt-changelog-item">
         <a href={href}>{title}</a>
       </li>,
     ])
   }
 
+  let tabBtns = []
+  for (let t = 0; t < TABS.length; t++) {
+    const tab = TABS[t]
+    const isActive = activeTab === tab.id
+    tabBtns = tabBtns.concat([
+      <button
+        key={'tab-' + tab.id}
+        type="button"
+        className={isActive ? 'pt-changelog-tab pt-changelog-tab-active' : 'pt-changelog-tab'}
+        aria-selected={isActive ? 'true' : 'false'}
+        onClick={() => {
+          setActiveTab(tab.id)
+        }}
+      >
+        {tab.label}
+      </button>,
+    ])
+  }
+
   return (
     <section className="pt-changelog" aria-label="Change log">
-      <h2 className="pt-changelog-title">Recent updates</h2>
-      {items.length === 0 ? (
-        <p className="pt-muted">No blog posts indexed yet.</p>
+      <div className="pt-changelog-toolbar" role="tablist" aria-label="Content kind">
+        {tabBtns}
+      </div>
+      {loading ? (
+        <p className="pt-muted pt-changelog-status">Fetching recent updates…</p>
+      ) : items.length === 0 ? (
+        <p className="pt-muted pt-changelog-status">No indexed items in this tab.</p>
       ) : (
-        <ul className="pt-changelog-list">{items}</ul>
+        <ul className="pt-changelog-list" role="tabpanel">
+          {items}
+        </ul>
       )}
     </section>
   )
