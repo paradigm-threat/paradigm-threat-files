@@ -1,16 +1,10 @@
 /**
  * Thin ChangeLog matching production tabs (Articles / Investigations / Blog / Recent).
  * Sync nav-index load (CleverScript-friendly); tab switch is client state only.
+ * Note: CleverScript module-level const arrays are not visible inside functions — keep tab defs local.
  */
 import React, { useState } from 'react'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
-
-const TABS = [
-  { id: 'articles', label: 'Articles' },
-  { id: 'investigations', label: 'Investigations' },
-  { id: 'blog', label: 'Blog' },
-  { id: 'recent', label: 'Recent' },
-]
 
 function basename(path) {
   const parts = path.split('/')
@@ -99,14 +93,15 @@ export default function ChangeLog(props) {
     ])
   }
 
+  const tabIds = ['articles', 'investigations', 'blog', 'recent']
+  const tabLabels = ['Articles', 'Investigations', 'Blog', 'Recent']
   let tabBtns = []
-  for (let t = 0; t < TABS.length; t++) {
-    const tab = TABS[t]
-    const isActive = activeTab === tab.id
+  for (let t = 0; t < tabIds.length; t++) {
+    const tabId = tabIds[t]
+    const label = tabLabels[t]
+    const isActive = activeTab === tabId
     const cls = isActive ? 'pt-changelog-tab pt-changelog-tab-active' : 'pt-changelog-tab'
     const selected = isActive ? 'true' : 'false'
-    const tabId = tab.id
-    const label = tab.label
     tabBtns = tabBtns.concat([
       <button
         key={'tab-' + tabId}
