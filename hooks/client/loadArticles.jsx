@@ -156,12 +156,10 @@ export function isFeelingLuckyCandidate(path) {
   return true
 }
 
-// WASM has no Date.now — bump a counter for rotating picks.
-let luckySeq = 0
-
 /**
  * Pick a rotating article path from nav-index.
  * Avoids Date/Math.random (unavailable or panicky under CleverScript WASM).
+ * Sequence lives on globalThis — CleverScript does not keep module-level lets.
  */
 export function pickFeelingLuckyPath() {
   const rows = loadArticleRows(200)
@@ -173,8 +171,19 @@ export function pickFeelingLuckyPath() {
     }
   }
   if (candidates.length === 0) return ''
-  luckySeq = luckySeq + 1
-  let idx = luckySeq % candidates.length
+  let seq = 0
+  try {
+    const g = globalThis
+    if (g) {
+      const prev = g.__ptLuckySeq
+      if (typeof prev === 'number') seq = prev + 1
+      else seq = 1
+      g.__ptLuckySeq = seq
+    }
+  } catch (e) {
+    seq = 1
+  }
+  let idx = seq % candidates.length
   if (idx < 0) idx = 0
   if (idx >= candidates.length) idx = 0
   return candidates[idx]
