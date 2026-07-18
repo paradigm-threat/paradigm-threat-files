@@ -70,12 +70,12 @@ function softenImageAltQuotes(md) {
  * Rewrite ](/top/…raster) → GitLab Pages; leave ](/top/….md) alone.
  */
 function rewriteRasterRoot(s, top) {
-  const from = '](/' + top + '/'
+  const rootPrefix = '](/' + top + '/'
   const toHost = '](https://paradigm-threat-files-69f9dc.gitlab.io/' + top + '/'
   let out = ''
   let pos = 0
   while (pos < s.length) {
-    const idx = s.indexOf(from, pos)
+    const idx = s.indexOf(rootPrefix, pos)
     if (idx < 0) {
       out = out + s.slice(pos)
       break
@@ -86,7 +86,7 @@ function rewriteRasterRoot(s, top) {
       out = out + s.slice(idx)
       break
     }
-    const after = s.slice(idx + from.length, close)
+    const after = s.slice(idx + rootPrefix.length, close)
     let pathOnly = after
     const sp = after.indexOf(' ')
     if (sp >= 0) pathOnly = after.slice(0, sp)
