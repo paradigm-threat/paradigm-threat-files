@@ -42,7 +42,10 @@ export default function HomePage() {
               <header className="pt-header">
                 <h1 className="pt-title">Articles</h1>
                 <p className="pt-muted pt-lead">
-                  Browse markdown in this thin files corpus.
+                  Markdown index for this thin Relay park. Welcome and project
+                  overview live on{' '}
+                  <a href={siteHref('/')}>Home</a>
+                  ; rasters load from the GitLab Pages binary mirror.
                 </p>
                 <p className="pt-home-cta-row">
                   {featured.length > 0 ? (

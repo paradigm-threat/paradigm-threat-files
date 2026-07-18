@@ -53,8 +53,10 @@ export default function ParadigmFilesRelayRoot() {
     page = <SearchPage currentPath="/search" />
   } else if (route === '/' || route === '/index.md' || route === '/page.md') {
     page = <ArticleView currentPath="/" filePath="page.md" />
-  } else if (route === '/articles' || route === '/README.md') {
+  } else if (route === '/articles') {
     page = <HomePage />
+  } else if (route === '/README.md') {
+    page = <ArticleView currentPath="/README.md" filePath="README.md" />
   } else {
     page = <ArticleView currentPath={route} filePath={articleFilePath(route)} />
   }

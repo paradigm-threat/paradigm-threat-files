@@ -20,14 +20,21 @@ export default function run(ctx, next) {
   if (html !== null) { return html; }
 
   var ipfsOpts = { sources: ["inline", "manifest"], manifestPath: "assets.manifest.json" };
+
+  // Resolve/fetch before width optimize. When Kubo is down, fetch returns a
+  // status JSON body — optimizing that throws "decode image" and 500s the GET.
+  var file = resolveIpfsFromGetContext(ctx, ipfsOpts);
+  if (file !== null) { return file; }
+
   var maxW = queryWidth(ctx);
   if (maxW !== null) {
     var bytes = fetchIpfsBytesFromGetContext(ctx, ipfsOpts);
-    var webp = optimizeRasterFromGetContext(ctx, bytes, { width: maxW });
-    if (webp !== null) { return webp; }
+    if (bytes !== null) {
+      var webp = optimizeRasterFromGetContext(ctx, bytes, { width: maxW });
+      if (webp !== null) { return webp; }
+    }
   }
-  var file = resolveIpfsFromGetContext(ctx, ipfsOpts);
-  if (file !== null) { return file; }
+
   var optimized = optimizeRasterFromGetContext(ctx);
   if (optimized !== null) { return optimized; }
   return next();

@@ -50,6 +50,13 @@ export default function Nav(props) {
             <NavLink href="/" label="Home" icon={<IconHome />} active={isActive('/')} />
             <NavLink href="/search" label="Search" icon={<IconSearch />} active={isActive('/search')} />
             <NavLink href="/articles" label="Files" icon={<IconBook />} active={isActive('/articles')} />
+            <a
+              className="pt-nav-link"
+              href="https://paradigm-threat-timeline.dfw1.relaygateway.net/"
+              rel="noopener noreferrer"
+            >
+              <span>Timeline</span>
+            </a>
           </nav>
         </div>
         <div className="pt-nav-actions">
@@ -82,6 +89,13 @@ export default function Nav(props) {
             <NavLink href="/" label="Home" icon={<IconHome />} active={isActive('/')} />
             <NavLink href="/search" label="Search" icon={<IconSearch />} active={isActive('/search')} />
             <NavLink href="/articles" label="Files" icon={<IconBook />} active={isActive('/articles')} />
+            <a
+              className="pt-nav-link"
+              href="https://paradigm-threat-timeline.dfw1.relaygateway.net/"
+              rel="noopener noreferrer"
+            >
+              <span>Timeline</span>
+            </a>
           </nav>
         </div>
       ) : null}

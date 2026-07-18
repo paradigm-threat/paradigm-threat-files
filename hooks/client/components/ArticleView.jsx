@@ -3,6 +3,12 @@ import { MarkdownRenderer } from '@clevertree/markdown'
 import SiteChrome from 'hooks/client/components/SiteChrome.jsx'
 import Layout from 'hooks/client/components/Layout.jsx'
 import DirNav from 'hooks/client/components/DirNav.jsx'
+import {
+  loadArticleRows,
+  rowPath,
+  siteHref,
+} from 'hooks/client/loadArticles.jsx'
+import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
 import manifest from '@hooks'
 
 function str(v) {
@@ -159,7 +165,12 @@ export default function ArticleView(props) {
     }
   }
 
-  const body = errMsg ? '# Error\n\n' + errMsg : markdownContent
+  const rawBody = errMsg ? '# Error\n\n' + errMsg : markdownContent
+  const body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody)
+
+  const neighbors = neighborPaths(pathPart)
+  const prevHref = neighbors.prev.length > 0 ? siteHref('/' + neighbors.prev) : ''
+  const nextHref = neighbors.next.length > 0 ? siteHref('/' + neighbors.next) : ''
 
   return (
     <SiteChrome currentPath={currentPath}>
@@ -185,10 +196,45 @@ export default function ArticleView(props) {
                   onMdLinkClick(href)
                 }}
               />
+              {prevHref.length > 0 || nextHref.length > 0 ? (
+                <nav className="pt-article-neighbors" aria-label="Adjacent articles">
+                  {prevHref.length > 0 ? (
+                    <a className="pt-btn" href={prevHref}>
+                      Previous
+                    </a>
+                  ) : (
+                    <span className="pt-muted">Previous</span>
+                  )}
+                  {nextHref.length > 0 ? (
+                    <a className="pt-btn" href={nextHref}>
+                      Next
+                    </a>
+                  ) : (
+                    <span className="pt-muted">Next</span>
+                  )}
+                </nav>
+              ) : null}
             </Layout>
           </div>
         </div>
       </main>
     </SiteChrome>
   )
+}
+
+function neighborPaths(currentRel) {
+  const cur = normalizeRelPath(currentRel)
+  const rows = loadArticleRows(200)
+  let idx = -1
+  for (let i = 0; i < rows.length; i++) {
+    if (rowPath(rows[i]) === cur) {
+      idx = i
+      break
+    }
+  }
+  let prev = ''
+  let next = ''
+  if (idx > 0) prev = rowPath(rows[idx - 1])
+  if (idx >= 0 && idx + 1 < rows.length) next = rowPath(rows[idx + 1])
+  return { prev: prev, next: next }
 }

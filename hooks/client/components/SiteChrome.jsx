@@ -11,11 +11,18 @@ export default function SiteChrome(props) {
       {children}
       <footer className="pt-footer">
         <p className="pt-muted">
-          Thin files corpus on Relay (no binaries; IPFS media). Timeline UI:{' '}
-          <a href="https://paradigm-threat-timeline.dfw1.relaygateway.net" rel="noopener noreferrer">
+          Thin files corpus on Relay (IPFS stubs in-git; images via{' '}
+          <a
+            href="https://paradigm-threat-files-69f9dc.gitlab.io/"
+            rel="noopener noreferrer"
+          >
+            GitLab Pages
+          </a>
+          ). Timeline UI:{' '}
+          <a href="https://paradigm-threat-timeline.dfw1.relaygateway.net/" rel="noopener noreferrer">
             paradigm-threat-timeline
           </a>
-          . Production remains at{' '}
+          . Production:{' '}
           <a href="https://paradigmthreat.net" target="_blank" rel="noopener noreferrer">
             paradigmthreat.net
           </a>
