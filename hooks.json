@@ -12,6 +12,7 @@
     { "path": "hooks/client/components/SiteChrome.jsx", "name": "SiteChrome" },
     { "path": "hooks/client/components/Layout.jsx", "name": "Layout" },
     { "path": "hooks/client/components/DirNav.jsx", "name": "DirNav" },
+    { "path": "hooks/client/components/AutoIndex.jsx", "name": "AutoIndex" },
     { "path": "hooks/client/components/HomePage.jsx", "name": "HomePage" },
     { "path": "hooks/client/components/ArticleView.jsx", "name": "ArticleView" },
     { "path": "hooks/client/components/SearchPage.jsx", "name": "SearchPage" },

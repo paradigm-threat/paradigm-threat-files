@@ -4,10 +4,10 @@ Hard custom markdown / site components are **not** wired yet. Plain `@clevertree
 
 | Component | Status | Notes |
 |-----------|--------|-------|
-| AutoIndex | deferred | Tag left inert; DirNav covers index. Expansion corrupted SSR text once. |
-| ChangeLog | stripped | `expandMdComponents` removes the tag |
+| AutoIndex | overrides | `MarkdownRenderer overrides.AutoIndex` (needs runtime with overrides support) |
+| ChangeLog | stripped | Override returns empty stub |
 | EmbedFile | disabled | |
-| ChatRoom-in-md | stripped | Self-closing tag only; attributed tags still inert |
+| ChatRoom-in-md | stripped | Override returns empty stub |
 | PopImage / gallery | disabled | Use plain `img`; RelayImage later |
 | VisTimeline / maps / Three | deferred | Host-native later |
 | Files `/timeline` subpath | deferred | Timeline on its own subdomain |

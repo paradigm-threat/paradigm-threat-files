@@ -9,7 +9,7 @@ import {
   siteHref,
 } from 'hooks/client/loadArticles.jsx'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
-import { expandMdComponents } from 'hooks/client/expandMdComponents.jsx'
+import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
 import manifest from '@hooks'
 
 function str(v) {
@@ -167,13 +167,27 @@ export default function ArticleView(props) {
   }
 
   const rawBody = errMsg ? '# Error\n\n' + errMsg : markdownContent
-  const body = errMsg
-    ? rawBody
-    : expandMdComponents(rewriteMarkdownAssetUrls(rawBody), pathPart)
+  const body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody)
 
   const neighbors = neighborPaths(pathPart)
   const prevHref = neighbors.prev.length > 0 ? siteHref('/' + neighbors.prev) : ''
   const nextHref = neighbors.next.length > 0 ? siteHref('/' + neighbors.next) : ''
+
+  function renderAutoIndex(p) {
+    let pathAttr = ''
+    let sortAttr = 'name-asc'
+    try {
+      if (p && typeof p.path === 'string') pathAttr = p.path
+    } catch (e) {}
+    try {
+      if (p && typeof p.sort === 'string') sortAttr = p.sort
+    } catch (e) {}
+    return <AutoIndex path={pathAttr} sort={sortAttr} currentPath={pathPart} />
+  }
+
+  function renderEmptyMdStub() {
+    return <span className="pt-muted" />
+  }
 
   return (
     <SiteChrome currentPath={currentPath}>
@@ -197,6 +211,11 @@ export default function ArticleView(props) {
                 }}
                 anchorOnClick={(href) => {
                   onMdLinkClick(href)
+                }}
+                overrides={{
+                  AutoIndex: renderAutoIndex,
+                  ChangeLog: renderEmptyMdStub,
+                  ChatRoom: renderEmptyMdStub,
                 }}
               />
               {prevHref.length > 0 || nextHref.length > 0 ? (
