@@ -6,6 +6,7 @@
     { "path": "hooks/client/components/Icons.jsx", "name": "Icons" },
     { "path": "hooks/client/components/ThemeToggle.jsx", "name": "ThemeToggle" },
     { "path": "hooks/client/components/Nav.jsx", "name": "Nav" },
+    { "path": "hooks/client/components/FeelingLucky.jsx", "name": "FeelingLucky" },
     { "path": "hooks/client/components/SiteChrome.jsx", "name": "SiteChrome" },
     { "path": "hooks/client/components/Layout.jsx", "name": "Layout" },
     { "path": "hooks/client/components/DirNav.jsx", "name": "DirNav" },
