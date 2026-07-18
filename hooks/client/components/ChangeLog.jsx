@@ -1,6 +1,6 @@
 /**
  * Thin ChangeLog matching production tabs (Articles / Investigations / Blog / Recent).
- * CSS radio + :has() tabs (styles inlined — theme styler drops complex selectors).
+ * CSS radio tabs with inputs nested in labels (htmlFor is dropped by CleverScript JSX).
  * No setState: CleverScript setState re-renders the full markdown article (~1s).
  */
 import React from 'react'
@@ -122,7 +122,7 @@ function tabCss() {
     '.pt-changelog:has(#pt-cl-investigations:checked) .pt-changelog-tab-investigations,' +
     '.pt-changelog:has(#pt-cl-blog:checked) .pt-changelog-tab-blog,' +
     '.pt-changelog:has(#pt-cl-recent:checked) .pt-changelog-tab-recent{' +
-    'color:var(--foreground,#e2e8f0);border-color:var(--primary,#818cf8);background:var(--secondary,#1e293b);}'
+    'color:#e2e8f0;border-color:#818cf8;background-color:#1e293b;}'
   )
 }
 
@@ -137,35 +137,37 @@ export default function ChangeLog(props) {
   return (
     <section className="pt-changelog" aria-label="Change log">
       <style>{tabCss()}</style>
-      <input
-        type="radio"
-        name="pt-changelog-tab"
-        id="pt-cl-articles"
-        className="pt-changelog-radio"
-        checked={true}
-      />
-      <input
-        type="radio"
-        name="pt-changelog-tab"
-        id="pt-cl-investigations"
-        className="pt-changelog-radio"
-      />
-      <input type="radio" name="pt-changelog-tab" id="pt-cl-blog" className="pt-changelog-radio" />
-      <input type="radio" name="pt-changelog-tab" id="pt-cl-recent" className="pt-changelog-radio" />
       <div className="pt-changelog-toolbar" role="tablist" aria-label="Content kind">
-        <label htmlFor="pt-cl-articles" className="pt-changelog-tab pt-changelog-tab-articles">
+        <label className="pt-changelog-tab pt-changelog-tab-articles">
+          <input
+            type="radio"
+            name="pt-changelog-tab"
+            id="pt-cl-articles"
+            className="pt-changelog-radio"
+            checked={true}
+          />
           Articles
         </label>
-        <label
-          htmlFor="pt-cl-investigations"
-          className="pt-changelog-tab pt-changelog-tab-investigations"
-        >
+        <label className="pt-changelog-tab pt-changelog-tab-investigations">
+          <input
+            type="radio"
+            name="pt-changelog-tab"
+            id="pt-cl-investigations"
+            className="pt-changelog-radio"
+          />
           Investigations
         </label>
-        <label htmlFor="pt-cl-blog" className="pt-changelog-tab pt-changelog-tab-blog">
+        <label className="pt-changelog-tab pt-changelog-tab-blog">
+          <input type="radio" name="pt-changelog-tab" id="pt-cl-blog" className="pt-changelog-radio" />
           Blog
         </label>
-        <label htmlFor="pt-cl-recent" className="pt-changelog-tab pt-changelog-tab-recent">
+        <label className="pt-changelog-tab pt-changelog-tab-recent">
+          <input
+            type="radio"
+            name="pt-changelog-tab"
+            id="pt-cl-recent"
+            className="pt-changelog-radio"
+          />
           Recent
         </label>
       </div>
