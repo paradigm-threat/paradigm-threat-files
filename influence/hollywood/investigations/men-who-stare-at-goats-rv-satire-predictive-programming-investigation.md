@@ -18,13 +18,15 @@
 2. **Documented substrate** (book / film / programs) → §2  
 3. **2009 film as containment of the 2004 book** → §3  
 4. **Abu Ghraib — Ronson’s sink vs author’s counter-read** → §3.7  
-5. **Lies to the viewer / MKULTRA bubble** → §4  
-6. **Jedi / *Star Wars* chronology** → §5  
-7. **Ability map (book ↔ Ep. IV–V) + dark Jedi** → §5.4–§5.5  
-8. **Author’s open claims** → §6  
-9. **Article** ([The Jedi Who Stare at Goats](/influence/hollywood/the-jedi-who-stare-at-goats.md)) → §6.1  
-10. **Questions / TODOs** → §7–§8  
-11. **Related** → §9  
+5. **McGregor casting / typecasting containment** → §3.8  
+6. **Lies to the viewer / MKULTRA bubble** → §4  
+7. **Jedi / *Star Wars* chronology** → §5  
+8. **Ability map (book ↔ Ep. IV–V) + dark Jedi** → §5.4–§5.5  
+9. **Force ruin / Ep. I–III + VII–IX containment** → §5.6  
+10. **Author’s open claims** → §6  
+11. **Article** ([The Jedi Who Stare at Goats](/influence/hollywood/the-jedi-who-stare-at-goats.md)) → §6.1  
+12. **Questions / TODOs** → §7–§8  
+13. **Related** → §9  
 
 ---
 
@@ -70,7 +72,7 @@
 |------|----------------------------------------|
 | **Bill Django** (Jeff Bridges) | Jim Channon / First Earth Battalion founder lane |
 | **Lyn Cassady** (George Clooney) | Composite psychic soldier (Ronson trail includes Wheaton, Savelli lore, Fort Meade viewers) |
-| **Bob Wilton** (Ewan McGregor) | Reporter stand-in (Ronson-class outsider) |
+| **Bob Wilton** (Ewan McGregor) | Reporter stand-in (Ronson-class outsider). **Author:** casting Obi-Wan’s actor into a Jedi-mocking comedy = **containment typecasting**, not “clever casting” (§3.8) |
 | **Larry Hooper** (Kevin Spacey) | Rogue PSYOP / “dark side” of the same stack |
 | **New Earth Army** | Fictionalized **First Earth Battalion** |
 
@@ -223,6 +225,18 @@ Comedy tone + Iraq farce = **respectable public subset** of a much darker stack 
 | Abu Ghraib motive = ideological sexual-humiliation strategy (NSA/CIA family), not First Earth | **Author** — historical pattern thesis |
 | Ronson = **controlled opposition** (witting or useful) | **Author** — stronger than earlier “not claiming witting asset” posture; intent still unproven in court sense |
 | Reputation damage to real Jedi / psychic operators | **Author** — cultural-effect claim |
+
+### 3.8 McGregor casting — containment typecasting, not “clever”
+
+**Author (2026-07-18):** Surprised to see **Ewan McGregor** in a movie mocking Jedi. That is hard to explain as a wise casting decision. McGregor is **Obi-Wan** in the *Star Wars* prequels. Putting him in the goats comedy is a slap at his own myth role. The better read is **containment typecasting**: keep space / Jedi-facing actors in a **tight reuse pool** so the same faces carry both the noble myth and the ridicule vaccine. Reuse makes **loyalty** and message control easier under contract gravity.
+
+| Claim | Tier |
+|-------|------|
+| McGregor as Wilton is **not** “clever casting irony” as the main explanation | **Author** |
+| Casting = **containment typecasting** of Jedi/space actors for reuse + loyalty | **Author** |
+| McGregor did play Obi-Wan (prequels) and Wilton (2009 goats film) | **Documented** (filmography) |
+
+Shipped in reader essay [The Jedi Who Stare at Goats](/influence/hollywood/the-jedi-who-stare-at-goats.md).
 
 ---
 
@@ -394,6 +408,45 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 
 **Author synthesis:** Yes — the stack has a **dark Jedi equivalent**: someone with the **same training** operating for **coercion, torture, assassination support, or rogue privatized evil**, against Channon’s warrior-monk peace face. The book proves the **corruption arc**; the film **personifies** it as Hooper and even says **“dark side.”** Lucas already shipped the archetype as **Vader / Sith** in **1977** (Ep. IV) before the book — so the OT **pre-encodes** the light/dark split of one Force/training system.
 
+### 5.6 Force containment — Ep. I–III start the ruin; Ep. VII–IX finish it
+
+**Author (2026-07-18):** Episodes **IV–V** already mapped onto goat / MKULTRA-adjacent reality (not-being-seen, lethal will, far-sense, levitation pedagogy — §5.4). Later films **moved the Force away** from that stack. That is **containment strategy**, not “bad casting” or random franchise decay.
+
+#### 5.6.1 Prequels (Ep. I–III) — early ruin, loud audience complaint
+
+| Change | Film | Effect on Force vs goat / MKULTRA reality | Tier |
+|--------|------|---------------------------------------------|------|
+| **Midichlorians** | Ep. I | Force reduced to **blood-count biology** instead of æther / training / will / spirituality | **Documented** (film text); **Author:** ruin |
+| **Emperor seeks resurrection / cheat death** | Ep. II–III (Palpatine / Plagueis lane) | Immortality-tech plot replaces soul-focus / Bardo-stay grammar; **becomes Ep. IX spine** | **Documented** plot; **Author:** early tell |
+| Audience revolt over “ruined Force” | Contemporary reception | Public already sensed the concept was being cheapened **in front of them** | **Documented** (reception history); motive = **Author** |
+
+**Author unpack:** The original creators / stewards of the franchise were already **wrecking the Force concept** in Ep. I–III. Many complained. The sequel trilogy did not invent the motive — it **took it to conclusion**.
+
+#### 5.6.2 Sequel trilogy (Ep. VII–IX) — scrub the rhyme with real ops
+
+| Change | Film | Toward goat / MKULTRA? | Away? | Notes |
+|--------|------|------------------------|-------|-------|
+| **Mind reading / probe** reinforced | Ep. VII | **Yes — true ability** | — | Author: keep this as real-ladder reinforcement inside the reboot |
+| **Stop blaster bolt mid-air** | Ep. VII (Kylo freeze) | — | **Yes** | Spectacle freeze-frame; not quiet lethal stare / not-being-seen |
+| **Remote Force projection / appearing** — can be **fatal** to the projector | Ep. VIII (Luke at Crait) | — | **Yes** | Real far-presence / far-sense lore was not sold as suicide stagecraft |
+| **Transfer / warp objects across locations** via Force dyad | Ep. IX | — | **Yes** | Teleport-adjacent object magic; not RV / barrier-perception code |
+| **Jedi can be cloned** — ability without lived spiritual path | Ep. IX (Snoke / strand-cast grammar; clone Emperor lane) | — | **Yes** | **Detaches spirituality from ability** — opposite of æther / Bardo / abused-operator personhood |
+| **Palpatine resurrection** as climax | Ep. IX | — | **Yes** | Pays off Ep. II–III cheat-death seed; Force as lab immortality project |
+
+**Author verdict:** Ep. VII–IX **ruin the Force and the franchise with it** so the myth OS no longer points at real Jedi / psychic cadre. Disney takeover + decanon talk are symptoms of the same containment, not proof that the casting department merely failed.
+
+#### 5.6.3 Cadre redemption (landing claim)
+
+**Author:** Agents from the real program were **victims of massive abuse**, often across **most of their lives**, living in the MKULTRA-style bubble (§4). Many **never understood the agenda** behind crimes they may have committed while task-blind. They **still deserve redemption while alive**. Goats book, 2009 comedy, and Force-ruin films were built to **deny** that hearing — laugh first, scrub the myth, never ask second.
+
+| Claim | Tier |
+|-------|------|
+| Ep. I midichlorians + Ep. II–III resurrection seed = early Force ruin | **Author** on motive; **Documented** as film text |
+| Ep. VII–IX Force changes move myth **away** from goat / MKULTRA reality | **Author** |
+| Ep. VII mind-reading reinforcement = true ability still shown | **Author** (ability); **Documented** (film) |
+| Containment strategy, **not** bad casting | **Author** |
+| Cadre = abuse victims; agenda often unknown to them; redemption while alive | **Author** |
+
 ---
 
 ## 6. Author’s open claims (pattern registry)
@@ -417,8 +470,10 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 15. **2026 Iran “smash”** sits on the same long ideological arc as Abu Ghraib humiliation doctrine (author pattern link — not claimed as Ronson’s thesis).  
 16. **Everything in *Star Wars* is true** (author) — levitation; Force/æther; invisibility-as-not-seen; Obi-Wan death / Bardo-stay / guide-exception; dark-Jedi kill capability with limits.  
 17. **Child recruitment** into real Jedi training; missions framed as heroism = mostly **spy** tasking inside MKULTRA-style bubble.  
-18. ***Star Wars* franchise containment** — many hands beyond Lucas; sequel disinterest then return; Holiday Special / possible Hamill replacement; Boba Fett–class beats lifted into Ep. V without credit; long freeze to merch/games; Disney trilogy as further containment (even decanon talk).  
-19. **Cadre deserve redemption while alive** — goats product was built to deny that hearing.
+18. ***Star Wars* franchise containment** — many hands beyond Lucas; sequel disinterest then return; Holiday Special / possible Hamill replacement; Boba Fett–class beats lifted into Ep. V without credit; long freeze to merch/games; Disney trilogy as further containment (even decanon talk); **Force ruin** from Ep. I midichlorians + Ep. II–III resurrection seed through Ep. VII–IX spectacle / clone / object-warp grammar (§5.6) — **containment strategy, not bad casting**.  
+19. **Cadre deserve redemption while alive** — abuse victims across most of their lives; often **never understood the agenda** behind crimes committed under bubble tasking; goats product + Force-ruin films built to deny that hearing.  
+20. **McGregor casting = containment typecasting** — Obi-Wan’s actor in a Jedi-mocking comedy is not a wise artistic choice; tight reuse of space/Jedi faces for loyalty and message control (§3.8).  
+21. **Ep. VII–IX moved Force away from goat / MKULTRA reality** — mid-air bolt freeze; fatal remote projection; cross-location object transfer; Jedi cloning detaches spirituality from ability; Ep. VII mind-reading still true (§5.6).
 
 ---
 
@@ -491,6 +546,8 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 | Q16 | Egypt / Muslim Brotherhood detention sexual-humiliation **scale** claims — which primaries? | Human-rights reports + Arab Spring era dossiers (tier carefully) |
 | Q17 | Any evidence Ronson was **tasked / steered** (witting CO) vs useful idiot + publisher incentives? | Contracts, editors, Channel 4 brief, Soft Skull / Picador trail — likely thin |
 | Q18 | Author’s **cadre size** (“thousands / hundreds of thousands”) — any order-of-magnitude from force structure? | INSCOM / SF / contractor headcounts — keep as **rhetoric** until numbered |
+| Q19 | McGregor casting trail — who pushed Obi-Wan’s actor into Wilton; any other Jedi/space faces in goats-adjacent reuse pool? | Casting notes; agent/studio trail; compare Clooney/Spacey/Bridges franchise adjacency |
+| Q20 | Sequel Force grammar — primary shot list for bolt-freeze, fatal projection, dyad object-transfer, clone/Snoke lanes vs OT ability map | Ep. VII–IX close read + reception “ruined Force” archive |
 
 ---
 
@@ -525,9 +582,9 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 
 ---
 
-Keywords: #MenWhoStareAtGoats #RemoteViewing #Stargate #FirstEarthBattalion #JimChannon #JediWarrior #StarWars #PredictiveProgramming #MKULTRA #JonRonson #GeorgeClooney #SatireShell #PsychologicalWarfare #AbuGhraib #ControlledOpposition #ParadigmThreatFiles
+Keywords: #MenWhoStareAtGoats #RemoteViewing #Stargate #FirstEarthBattalion #JimChannon #JediWarrior #StarWars #PredictiveProgramming #MKULTRA #JonRonson #GeorgeClooney #EwanMcGregor #Midichlorians #SequelTrilogy #SatireShell #PsychologicalWarfare #AbuGhraib #ControlledOpposition #ParadigmThreatFiles
 
-*Last updated: 2026-07-18* (article shipped: [The Jedi Who Stare at Goats](/influence/hollywood/the-jedi-who-stare-at-goats.md); claims 16–19)
+*Last updated: 2026-07-18* (§5.6 Force ruin Ep. I–III / VII–IX; claims 18–21; article redemption landing)
 
 ---
 
@@ -553,6 +610,7 @@ Keywords: #MenWhoStareAtGoats #RemoteViewing #Stargate #FirstEarthBattalion #Jim
 
 - Session prompt (2026-07-18): author asked to find RV investigations and add goats / Jedi / Star Wars / session-lie / MKULTRA-bubble thesis.  
 - Same day later: author rejects Ronson Abu Ghraib origin; CO-agent + cadre-damage; article voice memo → shipped [The Jedi Who Stare at Goats](/influence/hollywood/the-jedi-who-stare-at-goats.md) (everything in *Star Wars* true; Bardo/Obi-Wan; child Jedi; Lucasfilm containment).  
+- Same day: McGregor = containment typecasting (§3.8); Force ruin Ep. I–III / VII–IX (§5.6) — midichlorians, resurrection seed→IX, bolt freeze, fatal projection, object warp, clone Jedi; redemption landing = lifelong abuse / unknown agenda.  
 - **Local book corpus:** `/home/ari/dev/wget/ronson/` — prefer `men-who-stare-at-goats-2004-a445ec7b.epub` + `text/men-who-stare-at-goats-2004.epub.txt`; chapter index + line anchors `men-who-stare-at-goats-2004.md`; splits in `text/chapters/`; corpus notes `INDEX.md` / `README.md`. Anna’s “2011” EPUB = same 2004 body (Word repackage), not a revised edition. Chrome downloads land on `/media/ari/HD/Downloads`, not `~/Downloads`.  
 - **Primary confirms:** Wheaton **Project Jedi**; invisibility → “**not being seen**” / “If you’re not observed, you are invisible”; book **ch. 9 title = THE DARK SIDE**; film **Hooper** absent from book; Abu Ghraib = ch. 7/9/11 spine.  
 - Secondary chronology aid (not A-tier): Defense Forum / “Warrior Monk” essay — verify before promoting quotes.  
