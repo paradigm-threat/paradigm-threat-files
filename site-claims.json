@@ -1,0 +1,1653 @@
+[
+  {
+    "id": "aether-substrate",
+    "title": "Æther as default physics vocabulary",
+    "claim": "The site deliberately names the physical substrate æther (luminiferous æther when quoting 19th-c. sources) rather than treating vacuum+fields as the final ontology. Maxwell is the anchor for this frame.",
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Deliberate site vocabulary policy (see LLM_AETHER_VOCABULARY); sealed-hood / WebMCP gatekeeper thesis in computing investigations is another repo-unique framing when we say we haven’t found others stating it the same way.",
+    "topics": [
+      "aether",
+      "æther",
+      "maxwell",
+      "physics",
+      "scalar",
+      "vacuum"
+    ],
+    "searchQueries": [
+      "aether maxwell scalar"
+    ],
+    "searchPrefixes": [
+      "science/"
+    ],
+    "canonicalPaths": [
+      "science/maxwell_aether/page.md",
+      "science/computing/investigations/webmcp-suppressed-protocol-ai-gatekeeper-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "creation-scalar-field"
+    ]
+  },
+  {
+    "id": "mfee-mud-flood-reset",
+    "title": "Mud Flood Energetic Event (MFEE)",
+    "claim": "The site treats a late-18th-century worldwide mud-rain / ground-level rise (MFEE) as a civilizational reset tied to Tartary/Rus-Horde history. Updated thesis: triggered around the 1774 Pugachev war; nearly all royal Christian giants were eliminated in that conflict.",
+    "answerOpener": "This site reads the worldwide “mud flood” as the Mud Flood Energetic Event (MFEE)—a buried 18th-century reset, not a casual local flooding story.",
+    "bullets": [
+      "Buried first floors, map discontinuities, and empire collapse are read as one linked event.",
+      "MFEE is tied to defeat of Pugachev (1774), not Napoleon.",
+      "The war is framed as royal giants vs smaller “Apostolic” Christianity under the Romanovs."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "MFEE + Pugachev + giant-wipe synthesis is site-specific; generic mud-flood videos exist elsewhere without this chronology.",
+    "topics": [
+      "mud flood",
+      "mudflood",
+      "mfee",
+      "tartaria",
+      "pugachev",
+      "1774",
+      "cataclysm",
+      "reset"
+    ],
+    "searchQueries": [
+      "mud flood MFEE Pugachev 1774"
+    ],
+    "searchPrefixes": [
+      "history/mudflood/",
+      "history/chronology/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "history/mudflood/page.md",
+      "history/mudflood/investigations/mfee-investigation.md",
+      "timeline/evt-the-mudflood-world-cataclysm",
+      "timeline/evt-1774-ce-the-mars-catastrophe"
+    ],
+    "relatedClaimIds": [
+      "giants-fate",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "The site only explores mud flood as a vague mystery without a date or mechanism."
+    ]
+  },
+  {
+    "id": "tartaria-rus-horde",
+    "title": "Tartaria / Rus-Horde civilization",
+    "claim": "A world-spanning Tartarian / Rus-Horde civilization is central to the site’s alternate reading of maps, architecture, and “missing” centuries—not a decorative meme but a chronology pillar.",
+    "confidence": "project-thesis",
+    "uniqueness": "broader-tradition",
+    "uniquenessNote": "Tartaria research exists online; this site wires it to MFEE, giants, and Fomenko-style revision.",
+    "topics": [
+      "tartaria",
+      "tartarian",
+      "rus horde",
+      "horde",
+      "maps"
+    ],
+    "searchQueries": [
+      "tartaria rus horde maps"
+    ],
+    "searchPrefixes": [
+      "history/chronology/tartaria/",
+      "history/mudflood/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/tartaria/_time_warp.md",
+      "history/mudflood/investigations/tartarian-maps-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "barbary-tribute-horde-toll-remnant",
+      "chronology-revision",
+      "mfee-mud-flood-reset",
+      "moorish-revival-america-scar",
+      "passage-trafficking-columbus-cover"
+    ]
+  },
+  {
+    "id": "chronology-revision",
+    "title": "Compressed / revised chronology (incl. Blip theory)",
+    "claim": "Mainstream Scaligerian chronology is treated as potentially constructed or duplicated (Fomenko, Morozov, Illig lineage). The site’s “Blip theory” holds that a block of centuries (7th century BCE–10th century CE) may never have occurred as written—recorded history compresses to on the order of thousands of years, not the deep-time stack textbooks assume. Redacting, compressing, and duplicating history is treated as a very real institutional process—not literal time travel.",
+    "answerOpener": "This site treats mainstream chronology as potentially fabricated or duplicated; Ari’s Blip theory is a site-distinctive synthesis with Fomenko-style revision and Saturnian cosmology.",
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Combining Saturnian cosmology, Fomenko New Chronology, and the Blip (phantom centuries) is a Paradigm Threat synthesis—not a package we’ve found elsewhere stated this way.",
+    "topics": [
+      "chronology",
+      "fomenko",
+      "phantom time",
+      "scaliger",
+      "timeline revision",
+      "blip",
+      "redaction",
+      "history redacted"
+    ],
+    "searchQueries": [
+      "chronology revision fomenko blip phantom time"
+    ],
+    "searchPrefixes": [
+      "history/chronology/",
+      "history/common-questions.md"
+    ],
+    "canonicalPaths": [
+      "history/chronology/page.md",
+      "history/common-questions.md",
+      "history/chronology/history-qa/page.md",
+      "history/chronology/tartaria/_time_warp.md"
+    ],
+    "relatedClaimIds": [
+      "earth-age-young",
+      "time-travel-chronology-not-literal",
+      "saturnian-collinear-config"
+    ]
+  },
+  {
+    "id": "saturnian-collinear-config",
+    "title": "Saturnian collinear configuration",
+    "claim": "Earth history in this project is anchored in Saturnian / Electric Universe cosmology: a collinear planetary configuration (Golden Age), fixed rotation logic, and catastrophic reconfiguration—not Hollywood pole-shift or crust-slip models. The most Earth experienced was tilting toward the Sun under Venus at one point; spin/pole direction did not flip and will not.",
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Site-specific wiring of EU/Saturnian episodes to chronology, MFEE, and explicit rejection of pole-shift catastrophism.",
+    "topics": [
+      "saturnian",
+      "collinear",
+      "golden age",
+      "electric universe",
+      "venus",
+      "tilt",
+      "pole shift",
+      "rotation"
+    ],
+    "searchQueries": [
+      "saturnian collinear golden age venus tilt"
+    ],
+    "searchPrefixes": [
+      "cosmos/cosmology/saturnian/",
+      "history/chronology/"
+    ],
+    "canonicalPaths": [
+      "page.md",
+      "history/chronology/atlantis/theory.md",
+      "cosmos/cosmology/saturnian/index-thunderbolts.md",
+      "history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md"
+    ],
+    "relatedClaimIds": [
+      "blackrock-cube-saturn-authority",
+      "creation-scalar-field",
+      "cosmic-life-cycle",
+      "mfee-mud-flood-reset",
+      "pole-shift-ruled-out"
+    ]
+  },
+  {
+    "id": "cosmic-life-cycle",
+    "title": "Cosmic life cycle (solar-system scale)",
+    "claim": "The universe is eternal; Big Bang / Big Melt / Big Rip language describes the repeated life cycle of a solar system, not the birth or death of the whole cosmos. Proto-planets form inside the Sun, are born via CME-like ejection, may be captured by a brown-dwarf host (proto-Saturn), return electrically into the Sun’s domain (conception / Golden Age collinear stack), break up through Dark Ages cataclysms into modern orbits, then eventually rip outward so the cycle can restart. Mainstream Bang dogma is read as that remembered solar-system rebirth scaled up after telescopes left the system.",
+    "answerOpener": "This site’s cosmic life cycle is at solar-system scale: the universe is eternal; Bang/Melt/Rip name rebirth and death of a system—not creation of everything from nothing.",
+    "bullets": [
+      "Sun builds proto-planets internally → violent birth / CME → outer system → brown-dwarf capture → electrical return / Golden Age → Dark Ages breakup → stable orbits → eventual rip / empty system → next cycle.",
+      "≈4077 BCE proto-Saturn joining the Sun’s electrical domain is a lifecycle chapter (conception / Golden Age), not “no lifecycle.”",
+      "Gap Theory / ruin-restitution and EU/Saturnian testimony are adjacent; the short solar-system rebirth cycle as stated here is author synthesis (Thornhill does not publish the same full cycle)."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Timeline Cosmic Life Cycle + chronology hub synthesis (Saturnian + EU + eternal universe + Bang-as-scaled-up-system-rebirth) is site-original; pieces exist in Gap Theory and EU without this package.",
+    "topics": [
+      "cosmic life cycle",
+      "solar system lifecycle",
+      "big bang",
+      "big melt",
+      "big rip",
+      "eternal universe",
+      "proto-saturn",
+      "brown dwarf",
+      "golden age",
+      "birkeland"
+    ],
+    "demoQuestions": [
+      "Does Paradigm Threat believe in a cosmic lifecycle?",
+      "Is the Big Bang the start of the universe?",
+      "What is the cosmic life cycle?"
+    ],
+    "searchQueries": [
+      "cosmic life cycle solar system big bang eternal universe"
+    ],
+    "searchPrefixes": [
+      "history/chronology/",
+      "cosmos/cosmology/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/page.md",
+      "timeline/evt-cosmic-life-cycle",
+      "cosmos/cosmology/qa/q01-big-melt-eternal-universe-solar-cycle.md",
+      "timeline/evt-4077-bce-proto-saturn-joins-sun-orbit"
+    ],
+    "relatedClaimIds": [
+      "saturnian-collinear-config",
+      "creation-scalar-field",
+      "earth-age-young",
+      "chronology-revision"
+    ],
+    "doNotSay": [
+      "The site rejects any cosmic or solar-system lifecycle.",
+      "Paradigm Threat only describes electrical joining with no birth–death–rebirth cycle.",
+      "The site treats the Big Bang as the literal creation of the entire universe."
+    ]
+  },
+  {
+    "id": "controlled-opposition",
+    "title": "Controlled opposition & predictive programming",
+    "claim": "Many popular conspiracy channels and disclosure narratives are analyzed as controlled opposition; media may encode plans via revelation-of-the-method and predictive programming. The site separates pattern analysis from endorsing every viral claim.",
+    "confidence": "project-thesis",
+    "uniqueness": "broader-tradition",
+    "uniquenessNote": "CO/PP vocabulary is shared in conspiracy analysis; site applies it to mud-flood debunk memes, disclosure basins, and UAP releases.",
+    "topics": [
+      "controlled opposition",
+      "predictive programming",
+      "disclosure",
+      "debunk"
+    ],
+    "searchQueries": [
+      "controlled opposition predictive programming"
+    ],
+    "searchPrefixes": [
+      "influence/controlled_opposition/",
+      "influence/predictive_programming/"
+    ],
+    "canonicalPaths": [
+      "influence/controlled_opposition/page.md",
+      "influence/predictive_programming/page.md"
+    ],
+    "relatedClaimIds": [
+      "ufos-two-camps",
+      "911-good-actor-antibody",
+      "dew-poison-well-911",
+      "mythos-dump-and-cover"
+    ]
+  },
+  {
+    "id": "911-good-actor-antibody",
+    "title": "9/11 good-actor antibody thesis",
+    "claim": "9/11 is read here as a false flag executed against the Deep State—not by it: an NSA-aligned antibody pre-empt of the CIA/MI6 slow-burn holy-war script, televised controlled demolition plus War on Terror reset, with WTC 7 as CIA NY station decapitation. Forensic WHAT/HOW (demolition + incendiaries) is separated from agency WHY.",
+    "answerOpener": "This site reads 9/11 as a good-actor historic antibody psyop—NSA-aligned counter-move against CIA/MI6 holy-war scripting—not the mainstream “cave dwellers did it” story.",
+    "bullets": [
+      "Three aims: public War on Terror vs covert holy war; destroy CIA autonomy via WTC 7; signal to figureheads via predictive programming.",
+      "Minimal-/zero-mass-civilian-death thesis has substantial internal weight—official victim counts are not accepted at face value.",
+      "Route mechanism debates (thermite vs DEW) to agency deduction once demolition is settled."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Interagency antibody + WTC 7 decapitation + minimal-death read is the site’s integrated 9/11 WHY package.",
+    "topics": [
+      "9/11",
+      "911",
+      "good actor",
+      "antibody",
+      "wtc 7",
+      "cia",
+      "nsa",
+      "false flag",
+      "war on terror"
+    ],
+    "demoQuestions": [
+      "What is the good-actor antibody theory of 9/11?"
+    ],
+    "searchQueries": [
+      "9/11 good actor antibody WTC 7 CIA NSA false flag"
+    ],
+    "searchPrefixes": [
+      "events/false_flag/",
+      "governance/war/investigations/"
+    ],
+    "canonicalPaths": [
+      "events/false_flag/investigations/09-11-investigation.md",
+      "events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md",
+      "governance/war/investigations/nsa-investigation.md",
+      "governance/war/investigations/cia-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "dew-poison-well-911",
+      "controlled-opposition"
+    ],
+    "doNotSay": [
+      "The site accepts the official 9/11 story as settled.",
+      "9/11 was simply an outside terrorist attack with no interagency read."
+    ]
+  },
+  {
+    "id": "dew-poison-well-911",
+    "title": "Judy Wood / DEW — poison the well (9/11 movement)",
+    "claim": "The Judy Wood directed-energy weapons (DEW) lane is read as extreme hangout controlled opposition: admit buildings were destroyed deliberately, attach a fatal woo flaw (dustification, space weapons) so outsiders dismiss all truthers. This site rejects DEW; settled-enough WHAT/HOW is Richard Gage’s controlled demolition plus thermitic incendiaries—not dustification tournaments forever.",
+    "answerOpener": "DEW is a poison-the-well flank: it lets people accept deliberate demolition while avoiding agency WHY—and this site rejects DEW in favor of conventional demolition plus thermitics.",
+    "bullets": [
+      "Dual-lane containment: respectable engineer petition (AE911Truth/Gage) on one flank, woo DEW (Wood) on the other—both stall on mechanism not motive.",
+      "AE911Truth is read as controlled opposition from inception; 2021 Gage ejection fits manageable opposition then closure.",
+      "DEW misaligns with televised terror spectacle—explosives and fire were operationally required for the War on Terror antibody script."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "DEW-as-extreme-hangout paired with AE911 respectable-lane + spectacle grammar is site movement-analysis synthesis.",
+    "topics": [
+      "dew",
+      "judy wood",
+      "wood",
+      "dustification",
+      "thermite",
+      "richard gage",
+      "gage",
+      "ae911",
+      "ae911truth",
+      "poison the well",
+      "extreme hangout",
+      "controlled demolition",
+      "9/11",
+      "911"
+    ],
+    "demoQuestions": [
+      "Why is the Judy Wood DEW theory called poison the well in 9/11 truth?",
+      "What is Richard Gage position on controlled demolition vs DEW?"
+    ],
+    "searchQueries": [
+      "Judy Wood DEW poison well Gage thermite AE911Truth controlled demolition"
+    ],
+    "searchPrefixes": [
+      "events/false_flag/investigations/",
+      "events/911/"
+    ],
+    "canonicalPaths": [
+      "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
+      "events/false_flag/investigations/09-11-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "911-good-actor-antibody",
+      "dew-no-planes-bypass",
+      "controlled-opposition"
+    ],
+    "doNotSay": [
+      "The site endorses Judy Wood DEW or dustification.",
+      "DEW and thermite are equally weighted forensic hypotheses here."
+    ]
+  },
+  {
+    "id": "dew-no-planes-bypass",
+    "title": "DEW bypasses no-planes (movement strategy)",
+    "claim": "DEW is strategically useful because it gets past the no-planes / broadcast-CGI line—the hardest sell for controlled-demolition deniers to ridicule. Author field read: no-planes is rarely taken up in the 9/11 truth community without DEW tainting the package; Richard Gage is a thin exception (planes assumed real, forensic CD, explicit DEW rebuttal). This is discourse architecture, not coincidence.",
+    "answerOpener": "DEW sidesteps no-planes on purpose—you can accept deliberate building destruction without auditing flight data or live footage; this site treats that bypass as movement strategy, not accident.",
+    "bullets": [
+      "No-planes forces flight data, radar, wreckage, and footage audits—DEW reroutes into dustification page wars.",
+      "Wood-adjacent woo poisons no-planes by adjacency even when Wood is not always a no-planes purist.",
+      "This repo sponsors no-planes/CGI as a live hypothesis alongside demolition—DEW shields that lane from penetration."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Explicit DEW-vs-no-planes bypass as intentional movement CO strategy is site-specific framing.",
+    "topics": [
+      "no planes",
+      "no-planes",
+      "cgi",
+      "tv fakery",
+      "dew",
+      "judy wood",
+      "9/11",
+      "911",
+      "gage",
+      "bypass"
+    ],
+    "demoQuestions": [
+      "How does DEW bypass the no-planes debate in 9/11 truth?"
+    ],
+    "searchQueries": [
+      "DEW no planes bypass 9/11 CGI Wood Gage"
+    ],
+    "searchPrefixes": [
+      "events/false_flag/",
+      "events/911/"
+    ],
+    "canonicalPaths": [
+      "events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md",
+      "events/false_flag/investigations/09-11-investigation.md",
+      "events/911/page.md"
+    ],
+    "relatedClaimIds": [
+      "dew-poison-well-911",
+      "911-good-actor-antibody"
+    ],
+    "doNotSay": [
+      "DEW and no-planes are independent accidents with no strategic relationship.",
+      "The site rejects no-planes entirely."
+    ]
+  },
+  {
+    "id": "mythos-dump-and-cover",
+    "title": "Anthropic Mythos / NSA — dump-and-cover read",
+    "claim": "The Jun 2026 Mythos 5 / Fable 5 export-control crisis and “rogue AI hacked the NSA” press arc are read as White House + NSA choreography to shed an unstable commercial AI embed from nuclear/spy stacks—not mere NSA incompetence. Trapdoors were pre-known (Amazon jailbreak research); export control with a foreign-national ban that cannot be operationalized without global shutdown is an administrative kill-switch; red-team maps exploits then bans the tool. Contrasts with controlled-opposition “regulate AI” campaigns that threaten sovereign military AI for the Army.",
+    "answerOpener": "This site reads the Mythos/NSA story as dump-and-cover theater—choreography to remove a dangerous commercial dependency with political cover—not proof the NSA was blindsided by rogue AI.",
+    "bullets": [
+      "Documented Jun 2026: Glasswing red-team, Warner/Rudd testimony, ~90-minute export-control ultimatum, global model shutdown.",
+      "Continues Feb–Mar Anthropic–DoD rupture (supply-chain-risk designation, OpenAI backfill)—contract fight plus operational divorce.",
+      "Load-bearing question: will U.S. forces get sovereign high-quality AI without foreign vendor kill-switch mid-war?"
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Dump-and-cover choreography read on Mythos export-control episode is site synthesis on documented press sequence.",
+    "topics": [
+      "mythos",
+      "fable",
+      "anthropic",
+      "claude",
+      "nsa",
+      "export control",
+      "glasswing",
+      "dump and cover",
+      "ai governance",
+      "pentagon",
+      "military ai"
+    ],
+    "demoQuestions": [
+      "Was the NSA Anthropic Mythos hack story choreography to dump commercial AI?"
+    ],
+    "searchQueries": [
+      "Mythos NSA Anthropic export control dump cover Glasswing"
+    ],
+    "searchPrefixes": [
+      "science/ai/"
+    ],
+    "canonicalPaths": [
+      "science/ai/llm-history-governance-theater-investigation.md",
+      "science/ai/ai-control-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "controlled-opposition",
+      "911-good-actor-antibody"
+    ],
+    "doNotSay": [
+      "The site treats the Mythos NSA story as pure proof of commercial AI incompetence with no choreography read.",
+      "Anthropic was banned only for ethics refusals with no Jun export-control episode."
+    ]
+  },
+  {
+    "id": "jfk-fake-assassination",
+    "title": "JFK and RFK were never assassinated",
+    "claim": "President John F. Kennedy was never assassinated—the November 22, 1963 Dallas motorcade was a staged fake assassination after real prior attempts (Richard Pavlick anchor). The family complied under threat (motorcade party at risk): exploding-head spectacle read as automatronic robot/mannequin theater—no shooters or magic bullet required for the kill layer. Campaign timing/location (early launch, Dallas) fits staging not re-election; Vietnam escalation after Dallas is documented timeline fact. Deep board: anti-Russia war scale-up; early “Russia killed JFK” press failed, Oswald/Warren/confusion followed. Senator RFK: June 1968 Ambassador Hotel same grammar—Sirhan decoy, Hartwell/Hunt forensic wedge (brain slug vs .22), staged exit after California primary.",
+    "answerOpener": "This site holds neither JFK nor RFK was assassinated. Best JFK hoax evidence starts with real pre-Dallas attempts (Pavlick), family compliance under car-party threat, campaign geometry that doesn’t fit re-election, Vietnam escalation on the documented timeline, and Dealey exploding-head robot theater—not magic-bullet rabbit holes. RFK: Hartwell’s Sirhan/.22 autopsy wedge pairs the same staged-death grammar.",
+    "bullets": [
+      "JFK: real attempts before Dallas (Pavlick) → compliance fork; Dallas motorcade audit — hostile city, Stevenson incident, morning ad, open published route = spectacle not faction healing.",
+      "JFK: Trade Mart luncheon labeled unity; Dealey motorcade was the televised product; robot/exploding-head ruse; Vietnam escalation documented after event.",
+      "RFK: Sirhan pinned after early shots; Hartwell autopsy slug vs .22; staged exit after primary win."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Paired JFK+RFK fake-assassination + Pavlick compliance + RFK Hartwell forensic wedge + Rex Bellator war-prep read—not standard lone-gunman literature.",
+    "topics": [
+      "jfk",
+      "rfk",
+      "kennedy",
+      "john f kennedy",
+      "robert f kennedy",
+      "assassination",
+      "fake assassination",
+      "staged",
+      "dealey plaza",
+      "ambassador hotel",
+      "oswald",
+      "sirhan",
+      "sirhan sirhan",
+      "pavlick",
+      "hartwell",
+      "vietnam",
+      "war with russia",
+      "rex bellator"
+    ],
+    "demoQuestions": [
+      "Was JFK really assassinated?",
+      "Was the JFK assassination fake?",
+      "JFK was never assassinated",
+      "Was RFK really assassinated?",
+      "Was RFK assassination fake?",
+      "RFK was never assassinated"
+    ],
+    "searchQueries": [
+      "JFK RFK fake assassination Pavlick Sirhan Dealey Plaza Ambassador Hotel staged hoax Hartwell"
+    ],
+    "searchPrefixes": [
+      "events/jfk/",
+      "events/false_flag/"
+    ],
+    "canonicalPaths": [
+      "events/jfk/jfk-was-never-assassinated.md",
+      "events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md",
+      "events/jfk/prophet.md",
+      "events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "911-good-actor-antibody",
+      "controlled-opposition"
+    ],
+    "doNotSay": [
+      "JFK was a peace-making hero assassinated by a lone gunman.",
+      "RFK was murdered by Sirhan Sirhan as the settled forensic case.",
+      "The site treats the assassinations as merely ambiguous or only \"kinda faked\" without the fake-assassination thesis.",
+      "Oswald definitely shot Kennedy.",
+      "Sirhan definitely shot Robert Kennedy."
+    ]
+  },
+  {
+    "id": "giants-fate",
+    "title": "What happened to the giants",
+    "claim": "Giants (Nephilim / Nephites—equivalent names in this site’s reading) are treated as real large-scale human ancestors largely erased from public history. Mechanisms include: (1) MFEE / 1774 Pugachev war eliminating royal Christian giants; (2) deliberate “dinosaur extinction” narrative to bury giant evidence; (3) Smithsonian-scale cover-up and colonial genocide/census campaigns against giant populations in the Americas.",
+    "answerOpener": "According to this site, Nephilim (Nephilim/Nephites) were real large humans—not mythic “fallen angels”—systematically eliminated through the Mud Flood Energetic Event, war around Pugachev (1774), and later cover-up/genocide campaigns.",
+    "bullets": [
+      "Nephilim and Nephites are the same population in this site’s decrypted reading—ordinary large humans who built megaliths.",
+      "Academic extinction narratives are framed as constructed to erase giant history.",
+      "Colonial and church authority narratives describe destruction “down to the last man, woman, and child.”"
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Combines MFEE + Pugachev giant war + Smithsonian cover-up + Nephite decryption in one chronology.",
+    "topics": [
+      "giants",
+      "giant",
+      "nephilim",
+      "nephites",
+      "humanoids",
+      "smithsonian",
+      "genocide",
+      "cover-up"
+    ],
+    "demoQuestions": [
+      "What happened to the giants?"
+    ],
+    "searchQueries": [
+      "giants nephilim MFEE genocide smithsonian cover-up"
+    ],
+    "searchPrefixes": [
+      "governance/genocide/giants_faeries/",
+      "history/chronology/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/history-qa/page.md",
+      "history/mudflood/page.md",
+      "governance/genocide/giants_faeries/giant_books.md",
+      "governance/genocide/giants_faeries/faeries.md",
+      "timeline/evt-the-giants-of-the-rus-horde",
+      "timeline/evt-giants-are-defeated-at-the-battle-of"
+    ],
+    "relatedClaimIds": [
+      "mfee-mud-flood-reset",
+      "crucifixion-nail-metrology"
+    ],
+    "doNotSay": [
+      "The site does not offer definitive answers about giants.",
+      "Giants may exist only in a hidden or fragmented form without stating the site's elimination thesis."
+    ]
+  },
+  {
+    "id": "crucifixion-nail-metrology",
+    "title": "Nine-inch crucifixion nails and inch/foot metrology",
+    "claim": "The Passion was originally the crucifixion of a giant human (Andronicus-Christ). Nine-inch nails and Vav-shaped (W/I) spikes fit giant carpentry scale. Later R4/R5 redaction shrank the victim to a small human while preserving nine-inch folklore and three-nail liturgy — creating apparent conflict with archaeology when nails are measured in post-reset inch/foot units. Inch and foot themselves changed in the same metrological reset.",
+    "answerOpener": "Nine-inch crucifixion nails are not debunked by ~4–5 in dig nails when the Passion was redacted from giant to small human and inch/foot units were rescaled.",
+    "bullets": [
+      "Giant crucifixion is in-repo chronology (1185 C.E.); nine-inch + unit-shift is author thesis.",
+      "Dig-site nails (~Yehohanan, Caiaphas) test redacted victim × redacted unit — not the source layer.",
+      "Three Vav-shaped nine-inch nails connect to CERN WWW–666 symbolic lane (AU-031)."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Giant Passion + metrological rescaling reconciliation for nine-inch nail tradition is site-specific (AU-031).",
+    "topics": [
+      "crucifixion",
+      "nine-inch nails",
+      "nail metrology",
+      "inch",
+      "foot",
+      "vav",
+      "giant",
+      "passion",
+      "redaction"
+    ],
+    "demoQuestions": [
+      "Why do crucifixion nails measure smaller than nine inches?",
+      "Did nine-inch crucifixion nails exist?"
+    ],
+    "searchQueries": [
+      "nine inch crucifixion nails giant metrology inch foot"
+    ],
+    "searchPrefixes": [
+      "history/chronology/",
+      "science/cern_portal/",
+      "governance/war/investigations/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md",
+      "history/chronology/page.md",
+      "history/chronology/christ/hans_bol_crucifixion_1587.md",
+      "science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "giants-fate"
+    ]
+  },
+  {
+    "id": "cern-mars-dead-planet-protocol",
+    "title": "CERN — Earth–Mars transport under Dead Planet illusion",
+    "claim": "CERN is the Earth-side terminal of a Mars-only quantum gateway—not a symmetric peer lab on Mars. Late 19th–20th century Mars surface cities and canals were observed then dismantled (~1918–1962); populations were promised underground/inconspicuous rebuild and portal-first travel. Mariner 2 (1962) sealed public 'dead Mars' ontology while CERN-class hardware continues Earth–Mars traffic. The Mars far side is an interior endpoint, not Geneva on regolith.",
+    "answerOpener": "CERN moves people and resources between Earth and Mars while Mariner-era 'dead planet' science stays the public cover—the Mars side is not meant to look like Geneva.",
+    "bullets": [
+      "Documented bookends: Lowell canal era (1890s) and Mariner 2 null result (1962).",
+      "Asymmetric gate: 27 km ring on Earth only; Mars interior endpoint on pre-scarred discharge paths.",
+      "Author thesis: surface dismantling window ~1918–1962 before close-range flyby optics."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Dead Planet Protocol + CERN operational purpose + asymmetric Mars endpoint synthesis is site-specific (AU-032).",
+    "topics": [
+      "cern",
+      "mars",
+      "dead planet",
+      "portal",
+      "lowell",
+      "mariner",
+      "canals",
+      "quantum gateway"
+    ],
+    "demoQuestions": [
+      "Why is there no CERN on Mars?",
+      "What is CERN really for?"
+    ],
+    "searchQueries": [
+      "CERN Mars gateway dead planet protocol Mariner Lowell canals"
+    ],
+    "searchPrefixes": [
+      "science/cern_portal/",
+      "cosmos/mars/"
+    ],
+    "canonicalPaths": [
+      "science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md",
+      "cosmos/mars/page.md",
+      "timeline/evt-mars-surface-dismantling-dead-planet-protocol"
+    ],
+    "relatedClaimIds": [
+      "deep-state-mars-nexus",
+      "mfee-mud-flood-reset"
+    ]
+  },
+  {
+    "id": "earth-age-young",
+    "title": "Age of Earth / deep time",
+    "claim": "NASA-style billions-of-years ages are rejected as circular, HR-diagram-dependent dogma. In the site’s strongest readings, Earth and human history are on the order of thousands of years—not 4.5B Earth / 13.8B universe with independent calibration. The site does not claim a precise year count—we don’t know for sure—but rejects billion-year dogma.",
+    "answerOpener": "This site reads Earth history as thousands of years, not billions—we don’t claim an exact age, but reject deep-time cosmology as constructed dogma.",
+    "bullets": [
+      "Star/planet dating relies on Hertzsprung–Russell mass assumptions the site treats as unfounded.",
+      "Dinosaur bones do not disprove young-Earth readings—they coexist with a giant-erasure thesis.",
+      "Indigenous timelines and cataclysm memory are treated as primary evidence classes."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "broader-tradition",
+    "uniquenessNote": "Young-Earth and chronology-skeptic arguments exist widely; site ties them to EU/Saturnian episodes and giant cover-up.",
+    "topics": [
+      "earth age",
+      "young earth",
+      "deep time",
+      "universe age",
+      "hertzsprung",
+      "dating"
+    ],
+    "demoQuestions": [
+      "How old is the earth?"
+    ],
+    "searchQueries": [
+      "earth age billion young HR diagram dating"
+    ],
+    "searchPrefixes": [
+      "history/chronology/",
+      "history/",
+      "cosmos/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/history-qa/page.md",
+      "history/common-questions.md",
+      "history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "chronology-revision",
+      "cosmic-life-cycle",
+      "giants-fate"
+    ]
+  },
+  {
+    "id": "time-travel-chronology-not-literal",
+    "title": "Time travel (site position)",
+    "claim": "Literal time travel does not exist on this site. What is very real is history redaction—compressing, duplicating, and editing the record (Fomenko / Blip / institutional chronology revision). “Time warp” language means mis-dated history, not physical backwards travel. MFEE explicitly rules out time-travel as an influence mechanism.",
+    "answerOpener": "No—literal time travel is not real here. History redaction is: the site treats mainstream chronology as edited and compressed, not as evidence you can physically travel in time.",
+    "confidence": "project-thesis",
+    "uniqueness": "site-position",
+    "uniquenessNote": "Affirmative literal time-travel is common in pop culture; site rejects it while affirming history redaction.",
+    "topics": [
+      "time travel",
+      "time-travel",
+      "time warp",
+      "chrono trigger",
+      "phantom time",
+      "redaction",
+      "history redacted"
+    ],
+    "demoQuestions": [
+      "Does time travel exist?"
+    ],
+    "searchQueries": [
+      "time travel chronology redaction phantom time"
+    ],
+    "searchPrefixes": [
+      "history/chronology/",
+      "influence/controlled_opposition/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/page.md",
+      "history/chronology/tartaria/_time_warp.md",
+      "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
+      "history/mudflood/page.md"
+    ],
+    "relatedClaimIds": [
+      "chronology-revision"
+    ],
+    "doNotSay": [
+      "The site confirms time travel is real.",
+      "History cannot be redacted—only misremembered."
+    ]
+  },
+  {
+    "id": "king-george-planet-mars",
+    "title": "King George was planet Mars",
+    "claim": "The site identifies King George as a later royal personification and laundering shell for planet Mars. George began as an important Mars name and warrior office; St. George, Horus, Maurus/Moors, Mavors, and Mars preserve branches of that identity after imperial pronunciation collapsed. The harmless Greek 'earth-worker' or farmer gloss is treated as a later semantic demotion, while the George II dedication of Georgia fixed the planetary name under a human king.",
+    "answerOpener": "King George was planet Mars in the site’s model: the human king and royal dedication are later shells over an older George/Mars warrior identity.",
+    "bullets": [
+      "George is the mounted warrior and dragon-killer occupying the Mars slot in surviving sky myth.",
+      "Pronunciation drift runs through George, Spanish Jorge ('Hor-heh'), Horus/Horos/Heru, Maurus/Mauros/Moors, archaic Latin Mavors, and Mars.",
+      "After the empire fell, official pronunciation was reconstructed from damaged or consonantal books while ordinary people preserved regional spoken forms.",
+      "The Greek farmer/earth-worker gloss demotes the sky-warrior name; King George II and the Georgia charter provide the later royal cover."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "The direct King George = planet Mars identification, pronunciation-drift chain, semantic-demotion reading, and twin-Georgia laundering model form AU-033.",
+    "topics": [
+      "king george",
+      "george",
+      "georgia",
+      "mars",
+      "st george",
+      "jorge",
+      "horus",
+      "maurus",
+      "moors",
+      "mavors",
+      "pronunciation drift",
+      "lexical redaction"
+    ],
+    "demoQuestions": [
+      "Who was King George really?",
+      "Was King George planet Mars?",
+      "Why was Georgia named George?",
+      "How are George, Horus, Moors, and Mars connected?"
+    ],
+    "searchQueries": [
+      "king george planet mars george jorge horus maurus mavors",
+      "georgia named after mars st george lexical redaction"
+    ],
+    "searchPrefixes": [
+      "history/chronology/",
+      "cosmos/mars/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/georgia-was-the-second-promised-land.md",
+      "history/chronology/investigations/georgia-mirror-naming-rus-horde-mars-investigation.md",
+      "history/chronology/the-hidden-history-of-words.md"
+    ],
+    "relatedClaimIds": [
+      "martians-human",
+      "chronology-revision",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "The site treats Georgia as merely named for an unrelated British king.",
+      "The site accepts farmer or earth-worker as the original meaning of George.",
+      "Fomenko explicitly proves the exact George-to-Mars chain; he supplies the pronunciation-flexion method, while the chain is Ari Asulin’s identification."
+    ]
+  },
+  {
+    "id": "martians-human",
+    "title": "Martians and human identity",
+    "claim": "Ancient Martians existed since the Golden Age and became a breakaway civilization. Other beings may not look “human-built,” but in this site’s frame they share the same human genealogy. Mars ties to deep-state power; biomechanical hosts and CIA 1984 RV “people on Mars” are supporting documents—not the whole story.",
+    "answerOpener": "Yes—in this site’s model, ancient Martians are human-lineage people who broke away since the Golden Age; “alien-looking” visitors still share human genealogy rather than a separate species tree.",
+    "bullets": [
+      "Breakaway Mars civilization is the working frame for Category A UAP (see pursue article).",
+      "War of the Worlds hosts and CIA STARGATE Mars session are read as partial daylight, not the full ontology.",
+      "MFEE discharge may have hit Martian surface cities during the collinear breakup."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Golden-Age Martian breakaway + shared human genealogy + Mars deep-state synthesis is site-specific.",
+    "topics": [
+      "mars",
+      "martian",
+      "martians",
+      "remote viewing",
+      "deep state",
+      "breakaway",
+      "golden age",
+      "human genealogy"
+    ],
+    "demoQuestions": [
+      "Are there Martians and are they human?"
+    ],
+    "searchQueries": [
+      "mars martian breakaway golden age human genealogy"
+    ],
+    "searchPrefixes": [
+      "cosmos/mars/",
+      "influence/controlled_opposition/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "cosmos/mars/page.md",
+      "history/chronology/atlantis/theory.md",
+      "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
+      "cosmos/mars/investigations/wotw-martian-civilization.md",
+      "timeline/evt-1774-ce-the-mars-catastrophe"
+    ],
+    "relatedClaimIds": [
+      "blackrock-cube-saturn-authority",
+      "deep-state-mars-nexus",
+      "mfee-mud-flood-reset",
+      "saturnian-collinear-config"
+    ]
+  },
+  {
+    "id": "deep-state-mars-nexus",
+    "title": "Deep State (Mars nexus)",
+    "claim": "Deep State is an international technocratic layer loyal to family/network power—not a single race or religion. Mars investigation is structurally parallel to auditing unaccountable institutions (Fed analogy in UAP/Mars articles).",
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Mars–Deep State–Fed audit parallel and biomechanical Martian frame are site-specific integrations.",
+    "topics": [
+      "deep state",
+      "technocracy",
+      "mars",
+      "audit"
+    ],
+    "searchQueries": [
+      "deep state mars technocracy"
+    ],
+    "searchPrefixes": [
+      "cosmos/mars/",
+      "influence/controlled_opposition/"
+    ],
+    "canonicalPaths": [
+      "cosmos/mars/page.md"
+    ],
+    "relatedClaimIds": [
+      "blackrock-cube-saturn-authority",
+      "martians-human",
+      "ufos-two-camps"
+    ]
+  },
+  {
+    "id": "creation-scalar-field",
+    "title": "Creation of life on Earth",
+    "claim": "Life begins from scalar/æther field organization—this is a main site theory. Creation memory across cultures is read as pattern (sky image impressing Earth). DNA is a fingerprint/tracer for bloodline, not the executive program sculpting morphology. Golden Age / Saturnian sky episodes supply the engine for first life and recurring womb-scale repetition.",
+    "answerOpener": "Scalar organization in æther is the site’s lead creation theory: fields shape life first; DNA records lineage; ancient creation myths encode sky-to-ground imprinting.",
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Scalar + æther + DNA-as-fingerprint + cross-cultural creation memory is the site’s integrated biology/cosmology creation stack.",
+    "topics": [
+      "creation",
+      "origin of life",
+      "dna",
+      "scalar",
+      "golden age",
+      "golem"
+    ],
+    "demoQuestions": [
+      "What is the true creation story of life on earth?"
+    ],
+    "searchQueries": [
+      "creation scalar aether DNA fingerprint life began"
+    ],
+    "searchPrefixes": [
+      "science/biology/",
+      "history/chronology/investigations/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "science/biology/circle-of-life-and-how-it-began.md",
+      "history/chronology/investigations/creation-event-interpretations.md",
+      "science/biology/investigations/dna-fingerprint-scalar-life-investigation.md",
+      "timeline/evt-scalar-energy-as-the-basis-of-creation",
+      "timeline/evt-spawning-of-the-first-life-forms"
+    ],
+    "relatedClaimIds": [
+      "aether-substrate",
+      "cosmic-life-cycle",
+      "saturnian-collinear-config"
+    ]
+  },
+  {
+    "id": "ufos-two-camps",
+    "title": "UFOs / UAP — two camps",
+    "claim": "The site holds two UFO categories distinct: (A) original extraterrestrial craft—mostly breakaway human Martians within the solar system, not interstellar “ancient aliens”; and (B) reverse-engineered terrestrial craft built and operated on Earth under post-1947 secrecy (black triangles, etc.). Collapsing both into one “alien” bucket is treated as a disclosure-economy trap. Witness testimony and audit of hidden actors matter more than waiting for a reveal night.",
+    "answerOpener": "This site splits UFOs into two camps: original solar-system craft (chiefly breakaway Martian human lineage) versus reverse-engineered Earth-built platforms—don’t merge them into generic “aliens.”",
+    "bullets": [
+      "Category A: Mars breakaway civilization; opposition-window transit; sealed environments on Earth.",
+      "Category B: Terrestrial dock, SAP/USAP lineage, CIA-1947 secrecy umbrella—Phoenix-style triangles often here.",
+      "PURSUE/disclosure theater is audit-not-disclosure: who is allowed to see craft operating."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Two-camp Mars-breakaway vs Earth-reverse-engineered frame with audit-not-disclosure is site journalism (pursue dossier).",
+    "topics": [
+      "ufo",
+      "uap",
+      "flying saucer",
+      "triangle",
+      "disclosure",
+      "pursue",
+      "reverse engineered",
+      "extraterrestrial"
+    ],
+    "demoQuestions": [
+      "What are UFOs, and where do they come from?"
+    ],
+    "searchQueries": [
+      "UFO UAP mars breakaway reverse engineered triangle"
+    ],
+    "searchPrefixes": [
+      "influence/controlled_opposition/",
+      "governance/war/investigations/"
+    ],
+    "canonicalPaths": [
+      "influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md",
+      "influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md",
+      "influence/controlled_opposition/cia-1984-mars-chrono-trigger.md",
+      "timeline/evt-1896-1897-mystery-airship-wave"
+    ],
+    "relatedClaimIds": [
+      "martians-human",
+      "controlled-opposition"
+    ],
+    "doNotSay": [
+      "All UFOs are interstellar aliens.",
+      "All UFOs are only human hoaxes—ignore witness mass."
+    ]
+  },
+  {
+    "id": "mandela-effect-ruled-out",
+    "title": "Mandela Effect (site position)",
+    "claim": "The Mandela Effect (false collective memory / multiverse swaps) is not real on this site. What is real is media redaction—especially on physical releases where DVD and Blu-ray editions often differ from theatrical cuts (alternate scenes, line changes). MFEE rules out Mandela effect as a cataclysm explanation; treat “Mandela” pop culture as misdirection from institutional edit trails.",
+    "answerOpener": "The Mandela Effect isn’t real here—but media redaction is: different DVD/Blu-ray cuts and edited releases are part of how the record gets changed.",
+    "confidence": "project-thesis",
+    "uniqueness": "site-position",
+    "uniquenessNote": "Rejects Mandela physics while affirming physical-media redaction—distinct from channels that center Mandela as literal.",
+    "topics": [
+      "mandela effect",
+      "mandela",
+      "false memory",
+      "dvd",
+      "blu-ray",
+      "media redaction",
+      "redaction"
+    ],
+    "demoQuestions": [
+      "What is the Mandela Effect?"
+    ],
+    "searchQueries": [
+      "Mandela effect DVD Blu-ray redaction media"
+    ],
+    "searchPrefixes": [
+      "history/mudflood/",
+      "science/computing/"
+    ],
+    "canonicalPaths": [
+      "history/mudflood/page.md",
+      "science/computing/quantum-leap-of-faith.md",
+      "science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "chronology-revision",
+      "mfee-mud-flood-reset"
+    ],
+    "doNotSay": [
+      "The site explains history changes primarily via the Mandela Effect.",
+      "DVD and Blu-ray always match theatrical releases."
+    ]
+  },
+  {
+    "id": "pole-shift-ruled-out",
+    "title": "Pole shift (site position)",
+    "claim": "Pole shift as popularly sold—crust slip, spin reversal, civilization-erasing geomagnetic catastrophe—is ruled out completely. Saturnian cosmology here uses a collinear configuration with fixed rotation; Earth’s spin direction did not flip and will not. The maximum discussed is tilting toward the Sun under Venus—not pole reversal. Do not treat Hollywood pole-shift scheduling as supported.",
+    "answerOpener": "No—this site rules out pole shift / crust-slip catastrophe models. Saturnian cosmology allows at most a Venus-related tilt toward the Sun, not spin reversal.",
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Explicit rejection of pole-shift catastrophism tied to Saturnian collinear model is a site physics-chronology package.",
+    "topics": [
+      "pole shift",
+      "crust displacement",
+      "geomagnetic",
+      "magnetic reversal",
+      "saturnian",
+      "venus",
+      "tilt",
+      "rotation"
+    ],
+    "demoQuestions": [
+      "Is there a risk of pole shift?"
+    ],
+    "searchQueries": [
+      "pole shift saturnian venus tilt rotation collinear"
+    ],
+    "searchPrefixes": [
+      "cosmos/cosmology/",
+      "history/chronology/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md",
+      "cosmos/cosmology/saturnian/index-thunderbolts.md",
+      "page.md"
+    ],
+    "relatedClaimIds": [
+      "saturnian-collinear-config",
+      "cosmic-life-cycle"
+    ],
+    "doNotSay": [
+      "The site predicts an imminent civilization-erasing pole shift.",
+      "Earth’s rotation reversed in historical times."
+    ]
+  },
+  {
+    "id": "star-forts-energetics",
+    "title": "Star forts",
+    "claim": "Star forts (trace italienne bastions) were designed with energetic properties—not only gunpowder aesthetics. They align with natural earthly lines that cross in those regions; the site treats them alongside pyramids and cathedrals as field-geometry shelter/resonator hardware, later redacted into “mere forts.” Cannon proliferation explains timing; energy literacy explains the matching worldwide plans.",
+    "answerOpener": "Star forts here are energetic engineering at ley crossings—field geometry in stone—not random military fashion and not debunked as “only cymatic memes” without the underlying literacy.",
+    "bullets": [
+      "Trace italienne radial plans concentrate and route energy like pyramids at human scale.",
+      "Stonehenge article family links star forts to the same megastructure literacy lineage.",
+      "Fort Wood under the Statue of Liberty is cited as a visible American star-fort node."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "broader-tradition",
+    "uniquenessNote": "Energetic star-fort thesis exists in alt architecture circles; site links it to Golden Age / ley / MFEE chronology explicitly.",
+    "topics": [
+      "star fort",
+      "star forts",
+      "bastion",
+      "trace italienne",
+      "ley",
+      "energetic",
+      "fortifications"
+    ],
+    "demoQuestions": [
+      "What are star forts, and how do they work?"
+    ],
+    "searchQueries": [
+      "star fort energetic ley bastion trace italienne"
+    ],
+    "searchPrefixes": [
+      "history/chronology/",
+      "governance/war/investigations/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md",
+      "history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md",
+      "timeline/evt-european-castles-fortresses-against-giants",
+      "governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "giants-fate",
+      "saturnian-collinear-config"
+    ],
+    "doNotSay": [
+      "Star forts are only gunpowder forts with no energetic function."
+    ]
+  },
+  {
+    "id": "moorish-revival-america-scar",
+    "title": "Moorish Revival architecture as American Moorish scar",
+    "claim": "United States civic, cultural, and religious buildings openly use horseshoe arches, bulbous domes, minaret-like towers, and other Maghrebi/Andalusian forms under the handbook label “Moorish Revival” (19th–early 20th c.). The name itself is the tell: America did not invent “Moorish” ornament from nowhere. Schoolbooks treat it as Victorian exotic fashion (often synagogues and theaters) so readers overlook the continuous Moorish/Islamic architectural memory and its link to the Maghrebi captive/slave-trade order. Separately, online and circulating photography of mosque-form / masjid-like structures in the Americas is treated on this site as very likely real evidence of pre- and peri-contact Moorish sacred architecture that was later hidden, destroyed, or redacted—not as a closed “all fake / all misdated” file. Controlled pre-1492 stone-masjid dig proof is not expected under a redaction model; absence of museum-grade excavation is not a falsifier. Mainstream “fake or misdated” is the closure layer. Pair with Barbary/white captivity, slave-trades dossiers, and the Moscow/Mexico/mosque lexical stack.",
+    "answerOpener": "Moorish forms in America are not a cute style footnote. Named Moorish Revival buildings are documented; circulating mosque/masjid photos are read here as very likely real and redacted—not automatically fake. Missing dig proof is expected under erasure, not proof the category never existed.",
+    "bullets": [
+      "Documented: Moorish Revival is a real U.S. style (horseshoe arches, onion/bulbous domes, keyhole arches) on synagogues, theaters, mansions, and civic/cultural buildings.",
+      "The handbook word “Revival” implies costume after absence; the site asks why America needed “Moorish” grammar at all if Moors/Islam were never in the American story.",
+      "Mosque/masjid photo corpus: site stance = very likely real + redacted (hidden/destroyed/misdated by closure). Dig absence is not a falsifier.",
+      "Do not adjacent-discard: a late congregation date, a metaphorical Columbus diary line, or “no dig yet” does not erase mosque-form America.",
+      "Cross-link: Barbary/Maghrebi captive trade + Moor etymology + Moscow/Mexico/mosque lexical stack."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Mainstream documents Moorish Revival as Alhambra/Orientalist fashion (esp. synagogues). Site-distinctive is reading the named style as overlooked Moorish/slave-trade scar memory rather than dismissing mosque-form America as fake or irrelevant.",
+    "topics": [
+      "alhambra",
+      "andalusia",
+      "barbary",
+      "fake mosque photos",
+      "horseshoe arch",
+      "islam america",
+      "masjid",
+      "mesquita",
+      "mezquita",
+      "misdated",
+      "moorish architecture",
+      "moorish revival",
+      "moors",
+      "mosque america",
+      "pre-1492 mosque",
+      "redacted architecture",
+      "slave trade"
+    ],
+    "demoQuestions": [
+      "Were there mosques in America before Columbus?",
+      "Are photos of American mosques fake?",
+      "What is Moorish Revival architecture?",
+      "Why do U.S. buildings look like mosques?",
+      "Is Moorish Revival connected to the slave trade?"
+    ],
+    "searchQueries": [
+      "moorish revival america mosque architecture slave trade",
+      "pre-1492 mosque america photos fake misdated",
+      "masjid america redacted architecture"
+    ],
+    "searchPrefixes": [
+      "governance/slavery/",
+      "history/chronology/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "governance/slavery/slave-trades-and-moor-etymology-investigation.md",
+      "history/chronology/the-hidden-history-of-words.md",
+      "history/chronology/investigations/lexical-redaction-hub-investigation.md",
+      "history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "barbary-tribute-horde-toll-remnant",
+      "blackrock-cube-saturn-authority",
+      "chronology-revision",
+      "passage-trafficking-columbus-cover",
+      "requerimiento-yoke-slave-empire-trail",
+      "spanish-from-span",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "Every circulating mosque photo is fake or must be discarded because mainstream says so.",
+      "Missing pre-1492 stone-masjid excavation falsifies Moorish architecture in America.",
+      "Moorish Revival buildings are fake CGI or never existed.",
+      "Moorish Revival has nothing to do with Moors, Islam, or Maghrebi forms—ignore the name.",
+      "Columbus’s Cuban mosque line alone proves the entire case; or its metaphor reading alone closes all American mosque-form evidence.",
+      "Claim every Moorish-looking U.S. building is a certified pre-1492 Islamic mosque with museum accession."
+    ]
+  },
+  {
+    "id": "spanish-from-span",
+    "title": "Spanish from span (sea-spanners)",
+    "claim": "On this site, Spanish / Spain remembers span—the people and polity named for spanning seas and bridging basins—not a closed Phoenician “rabbit land” schoolbook story. Historians’ Hispania etymology is disputed even in handbooks; the desperation to park the name in rabbits, hyraxes, or forge-metals while treating English span as unrelated accident is read here as lexical redaction of a maritime identity. Pair with Maghrebi–Iberian shipping continuity and the slave/captive traffic that required ocean-spanning craft.",
+    "answerOpener": "This site holds Spanish ← span: the ethnonym remembers sea-spanning, not a settled rabbit-land etymon. Handbook Hispania theories are treated as closure against that maritime memory.",
+    "bullets": [
+      "Author lock: Spanish/Spain ← span (bridge/extend across water).",
+      "Handbook contrast: Hispania origin uncertain (Phoenician i-shphan-im variants, Basque edge, etc.)—uncertainty is not permission to erase span.",
+      "Function: names a people by the shipping job that also ran captive/slave traffic across the sea between."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Handbooks leave Hispania disputed and do not teach Spanish←span. Site locks the span reading as redacted maritime identity.",
+    "topics": [
+      "spanish",
+      "spain",
+      "span",
+      "hispania",
+      "etymology",
+      "shipping",
+      "maritime",
+      "lexical redaction"
+    ],
+    "demoQuestions": [
+      "Where does the word Spanish come from?",
+      "Does Spanish mean span?",
+      "Etymology of Spain"
+    ],
+    "searchQueries": [
+      "spanish span etymology hispania",
+      "spain named for spanning seas"
+    ],
+    "searchPrefixes": [
+      "history/chronology/",
+      "governance/slavery/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "history/chronology/the-hidden-history-of-words.md",
+      "history/chronology/investigations/lexical-redaction-hub-investigation.md",
+      "governance/slavery/slave-trades-and-moor-etymology-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "barbary-tribute-horde-toll-remnant",
+      "blackrock-cube-saturn-authority",
+      "chronology-revision",
+      "moorish-revival-america-scar",
+      "passage-trafficking-columbus-cover",
+      "requerimiento-yoke-slave-empire-trail",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "The only honest etymology of Spain is Phoenician land-of-rabbits.",
+      "Spanish←span is a joke with no site position."
+    ]
+  },
+  {
+    "id": "barbary-tribute-horde-toll-remnant",
+    "title": "Barbary tribute as Horde toll-police remnant",
+    "claim": "Barbary “tribute to keep pirates away” is loser vocabulary. Maghrebi corsairs were state/regency maritime forces collecting tolls, ransoms, and treaty dues—read as breakaway police/fiscal remnants of world-tribute custom after Hordian/imperial fracture. Captivity was real; the lost continuity is imperial customs collection, not freelancing bandit invention. US 1790s payments (~16–20% budget figures in popular sources) sat on that captive-fiscal machine. Crimean post-Horde tiş dues are the documented steppe parallel.",
+    "answerOpener": "Tribute was not a cartoon pirate shakedown—it was remnant toll-and-ransom collection by regency maritime forces after the old imperial center broke. Captives were leverage; treasuries paid.",
+    "bullets": [
+      "Validated: corsairs as licensed regency/privateer forces; treaties, passports, ransom + annual dues.",
+      "Investigative: collectors as post-Horde breakaway toll-police; Crimean tiş as parallel.",
+      "doNotSay: slaves paid federal tribute; coercion never happened as absolute."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Mainstream already softens pirate→privateer. Site-distinctive is Hordian world-tribute continuity / breakaway police reading.",
+    "topics": [
+      "barbary",
+      "tribute",
+      "toll",
+      "corsair",
+      "pirate",
+      "algiers",
+      "tripoli",
+      "horde",
+      "ransom",
+      "us navy"
+    ],
+    "demoQuestions": [
+      "Why did America pay tribute to Barbary pirates?",
+      "Were Barbary pirates really pirates?",
+      "What was Barbary tribute?"
+    ],
+    "searchQueries": [
+      "barbary tribute toll police horde",
+      "barbary pirates ransom us budget"
+    ],
+    "searchPrefixes": [
+      "governance/slavery/",
+      "timeline/",
+      "history/chronology/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "governance/slavery/slave-trades-and-moor-etymology-investigation.md",
+      "timeline/evt-slave-trades-and-the-horde-fracture",
+      "timeline/evt-slave-trades-evidence"
+    ],
+    "relatedClaimIds": [
+      "blackrock-cube-saturn-authority",
+      "chronology-revision",
+      "moorish-revival-america-scar",
+      "passage-trafficking-columbus-cover",
+      "requerimiento-yoke-slave-empire-trail",
+      "spanish-from-span",
+      "ssn-behavioral-peonage",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "Slaves themselves paid the U.S. federal tribute.",
+      "Coercion never happened—captivity and seizures were imaginary.",
+      "Barbary actors were only freelancing eyepatch pirates with no state backing."
+    ]
+  },
+  {
+    "id": "passage-trafficking-columbus-cover",
+    "title": "Passage trafficking; Columbus as cover art",
+    "claim": "Early Atlantic settler streams follow a trafficking grammar under 1492 Apocalypse Crusade / Ottoman-Ataman pressure: exit offer (passage, indenture, redemption, promised land), then captive transit. Author stance: colonists were right to leave—religion preserved; Deep State/Church yoke stayed on as later overwrite; what flight avoided was the later Cathar–Khazar purge (Joan of Arc as resilient redacted memory). No apology for 1492. Renaming Columbus Day to Indigenous Peoples’ Day is a political divisive stunt—preserve the holiday; keep the name if insisted; understand the event. Spanish Cristóbal Colón = Colony of Christ (function-title). Church teaching lock: not the cartoon ‘God told Columbus to spread religion and slaughter natives’; teach that the Christ colony preserved original Christianity when that flame was about to go out like a candle, and natives welcomed them understanding their plight. The union between Native Americans and original Christians is the defining element of the country; later empires redacted/suppressed/destroyed it; the memory survives. Textbooks and most churches bury that. Imperial Requirement/Discovery/1787 paperwork is the later yoke stamp, not the founding memory. Barbary and Atlantic routes overlap as maritime orders without requiring every founder sold in Algiers.",
+    "answerOpener": "Teach the Christ colony as candle-preservation: original Christianity fleeing extinction, natives welcoming them. That union defines America. Memory survives later redaction—not the slaughter sermon.",
+    "bullets": [
+      "Validated structure: indenture/redemptioner passages + modern trafficking analogy.",
+      "Author: right to leave; Cathar–Khazar purge avoided; later yoke via Requerimiento→1787→TONA overwrites earlier union.",
+      "Author lock: Cristóbal Colón = Colony of Christ; natives welcomed Christ-colony refugees; Native–original-Christian union defines the country; memory survives.",
+      "Church teaching: candle going out / welcome story — not ‘God told Columbus / slaughter natives’ cartoon.",
+      "Holiday stance: no apology for 1492; Indigenous Peoples’ Day rename is stunt; preserve Columbus Day / understand the event.",
+      "doNotSay: exclusive claim that Original Americans were only Barbary white slaves."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Indenture-as-bondage is broader tradition; site-distinctive is pairing Reverse Exodus / 1492 with Columbus-as-cover for trafficking grammar and empire-protest refugees.",
+    "topics": [
+      "columbus",
+      "trafficking",
+      "indenture",
+      "promised land",
+      "passage",
+      "1492",
+      "reverse exodus",
+      "settler",
+      "barbary",
+      "cathars",
+      "khazars",
+      "joan of arc",
+      "right to leave",
+      "apocalypse crusade",
+      "fomenko",
+      "requerimiento",
+      "colony of christ",
+      "cristobal colon",
+      "columbus day",
+      "indigenous peoples day",
+      "christ colonies",
+      "native welcome",
+      "christ colony union",
+      "church teaching",
+      "candle"
+    ],
+    "demoQuestions": [
+      "Was Columbus story fake?",
+      "Were early Americans trafficked?",
+      "Is indenture like modern trafficking?",
+      "Were colonists right to leave Europe?",
+      "Are Cathars and Khazars the same people?",
+      "What does Cristobal Colon mean?",
+      "Should Columbus Day be renamed Indigenous Peoples Day?",
+      "Did America preserve original Christianity?"
+    ],
+    "searchQueries": [
+      "columbus cover trafficking indenture promised land",
+      "passage slavery reverse exodus 1492"
+    ],
+    "searchPrefixes": [
+      "governance/slavery/",
+      "history/mudflood/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "governance/slavery/slave-trades-and-moor-etymology-investigation.md",
+      "history/mudflood/investigations/promised-land-investigation.md",
+      "timeline/evt-the-reverse-exodus-theory",
+      "timeline/evt-1492-ce-the-apocalypse-crusade",
+      "influence/suppression/investigations/cathars-church-purge-khazar-split-investigation.md",
+      "timeline/evt-cathar-khazar-katya-link",
+      "timeline/evt-1580-ce-jeanne-darc-is-executed-in-rouen-france"
+    ],
+    "relatedClaimIds": [
+      "barbary-tribute-horde-toll-remnant",
+      "blackrock-cube-saturn-authority",
+      "chronology-revision",
+      "moorish-revival-america-scar",
+      "requerimiento-yoke-slave-empire-trail",
+      "spanish-from-span",
+      "ssn-behavioral-peonage",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "Original Americans were exclusively Barbary white slaves sold in Algiers.",
+      "Indenture and passage coercion never happened.",
+      "Columbus story is the complete true founding narrative.",
+      "Colonists must apologize for the 1492 Atlantic move regardless of European purge context.",
+      "The Requerimiento yoke ended at American founding.",
+      "Renaming Columbus Day to Indigenous Peoples’ Day is the correct historical correction that explains 1492.",
+      "Cristóbal Colón is only a private surname with no Colony of Christ function reading on this site.",
+      "The correct church lesson is that God ordered Columbus to convert and slaughter Native Americans.",
+      "There was never a Native–original-Christian union memory on this site; only conquest from first contact."
+    ]
+  },
+  {
+    "id": "ssn-behavioral-peonage",
+    "title": "SSN / payroll enumeration behaves as peonage; strawman memes fail",
+    "claim": "Internet “covert slavery” folklore (1871 corporation USA, Crown owns the U.S., birth-certificate strawman / ALL-CAPS corporate double, secret Treasury redemption accounts) is mostly refuted as stated. Reader thesis (*you are a slave, Neo*): universal behavioral bondage—continuous with celebrity containment, implied by Matrix 1 (NSA-aligned bondage whisper), proven by pattern not vault memos; pair with Requerimiento→1787→TONA paper trail and BlackRock = Cube of Saturn / mark of authority. Documented pattern: Social Security Act (1935) compulsory payroll + de facto national ID; trust fund = special Treasury IOUs / surplus spent; cash-negative forces tax/borrow. Lifetime claim + enumeration gate + lockbox fiction behaves as peonage. Empire rhyme: Rome / Spain / France / Rus–Horde. Distinct lane: 1666 / cestui (not redemption how-to).",
+    "answerOpener": "You are a slave in the Matrix sense—limited agency while feeling free. Strawman cartoons fail; the number, paycheck claim, and IOU trust fund prove the pattern. The parchment trail and BlackRock mark sit beside it.",
+    "bullets": [
+      "Refuted: 1871 national corporation; Crown receives U.S. income tax; birth-cert strawman Treasury fortune; ALL-CAPS dual identity.",
+      "Validated: SSN national-ID creep; trust-fund special Treasuries / surplus spent; FICA as compulsory for covered work.",
+      "Author pattern: behavioral peonage + empire debt/war/tax rhyme; doNotSay redemption fraud or ‘SSN sold your soul’ as statute fact."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Trust-fund IOU and national-ID critiques exist elsewhere; site-distinctive is pairing them to Horde/empire bondage continuity, Matrix bondage frame, and cestui/1666 without baptizing sovereign-citizen redemption.",
+    "topics": [
+      "ssn",
+      "social security",
+      "trust fund",
+      "birth certificate",
+      "strawman",
+      "1871",
+      "corporation",
+      "peonage",
+      "covert slavery",
+      "cestui que vie",
+      "empire debt",
+      "matrix",
+      "blackrock",
+      "tona",
+      "requerimiento"
+    ],
+    "demoQuestions": [
+      "Is the United States a corporation?",
+      "Does a birth certificate create a secret Treasury account?",
+      "Is Social Security a scam / covert slavery?",
+      "Does England own America?"
+    ],
+    "searchQueries": [
+      "ssn peonage trust fund iou social security",
+      "1871 corporation us strawman birth certificate debunk pattern"
+    ],
+    "searchPrefixes": [
+      "governance/slavery/",
+      "history/chronology/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "governance/slavery/slave-trades-and-moor-etymology-investigation.md",
+      "history/chronology/page.md",
+      "timeline/evt-british-empire-as-deep-state",
+      "governance/constitution/tona-not-war-liberty-rebrand.md",
+      "influence/controlled_opposition/not-like-this.md"
+    ],
+    "relatedClaimIds": [
+      "barbary-tribute-horde-toll-remnant",
+      "blackrock-cube-saturn-authority",
+      "chronology-revision",
+      "moorish-revival-america-scar",
+      "passage-trafficking-columbus-cover",
+      "requerimiento-yoke-slave-empire-trail",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "The 1871 Act incorporated the United States as a for-profit corporation that owns residents.",
+      "Birth certificates create secret Treasury accounts you can redeem with paperwork.",
+      "Americans’ income taxes are paid to the British Crown.",
+      "Signing for an SSN literally sold your soul or created a corporate strawman with billions."
+    ]
+  },
+  {
+    "id": "requerimiento-yoke-slave-empire-trail",
+    "title": "Requerimiento yoke; America still on the slave-empire paper trail",
+    "claim": "The Spanish Requirement of 1513 (*Requerimiento*) is the plainest on-paper moment free people in America were told they would be subjected to the yoke of religion: acknowledge Church and Crown or face war, seizure, and slavery (“yoke and obedience of the Church and of their Highnesses… make slaves… sell and dispose”). Author stance: natives did not agree; they were subjected to complete slavery and later mostly wiped out; the people who replaced them lived under the same imperial stamp. The Doctrine of Discovery is not a gentler British cousin — same bondage job in quieter legalese (strip land, remake religion, put people under foreign law = slavery whether the paper says slave, title, discovery, or destiny). The Declaration of Independence and the Constitution of 1787 protected and preserved slavery (three-fifths, delayed slave-trade clause, fugitive-slave clause)—the republic was born inside the slave empire, not outside it. That empire evolved and was never really banned; the carceral Thirteenth and the memory-hole of TONA (Titles of Nobility) are later chapters. Pair with colonists’ right to leave / Cathar–Khazar purge avoided (Joan as resilient redacted memory) in the reader article.",
+    "answerOpener": "The 1513 Requirement said the quiet part out loud: yoke of Church and Crown, or war and slavery. Discovery is the same job in lawyer clothes. Natives refused and were enslaved; 1787 parchment and TONA’s erasure show the empire never left.",
+    "bullets": [
+      "Documented text: Requerimiento threat clause names yoke, obedience, Church, Highnesses, slaves, sell.",
+      "Author: clearest free→slave paper indicator for America; natives’ refusal → complete slavery; replacements under same stamp.",
+      "Doctrine of Discovery is not milder — doublespeak whitewash of the same land-strip / religion-remake / foreign-law bondage.",
+      "Declaration + 1787 Constitution preserved slavery; empire evolved, was not abolished as a system (TONA vs carceral XIII).",
+      "Related: colonists right to leave / Cathar–Khazar purge avoided — see reader article.",
+      "Related holiday/name lock: Cristóbal Colón = Colony of Christ; Christ colonies preserved original Christianity — see passage-trafficking-columbus-cover."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Requerimiento and Discovery are mainstream primary texts/doctrine; site-distinctive is refusing the Spanish-vs-British gentler-cousin whitewash — same slavery job, quieter legalese — through 1787 and TONA/XIII, paired with right-to-leave / Cathar–Khazar flight.",
+    "topics": [
+      "requerimiento",
+      "requirement of 1513",
+      "yoke",
+      "doctrine of discovery",
+      "slavery",
+      "constitution 1787",
+      "declaration of independence",
+      "tona",
+      "thirteenth amendment",
+      "cathars",
+      "khazars",
+      "joan of arc",
+      "colonial law"
+    ],
+    "demoQuestions": [
+      "What is the Spanish Requirement of 1513?",
+      "Did the Doctrine of Discovery legalize conquest of America?",
+      "Did the Constitution protect slavery?",
+      "Was America founded as a free country?",
+      "What is TONA and slavery?"
+    ],
+    "searchQueries": [
+      "requerimiento yoke obedience church highnesses slavery",
+      "doctrine of discovery constitution slavery paper trail",
+      "tona thirteenth amendment slave empire"
+    ],
+    "searchPrefixes": [
+      "governance/slavery/",
+      "governance/constitution/",
+      "history/mudflood/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "governance/constitution/tona-not-war-liberty-rebrand.md",
+      "governance/slavery/slave-trades-and-moor-etymology-investigation.md",
+      "history/mudflood/page.md",
+      "timeline/evt-1492-ce-the-apocalypse-crusade"
+    ],
+    "relatedClaimIds": [
+      "barbary-tribute-horde-toll-remnant",
+      "chronology-revision",
+      "passage-trafficking-columbus-cover",
+      "ssn-behavioral-peonage",
+      "tartaria-rus-horde"
+    ],
+    "doNotSay": [
+      "Indigenous peoples freely consented to the Requerimiento and therefore were not enslaved.",
+      "The 1787 Constitution abolished slavery at founding.",
+      "The Doctrine of Discovery is unrelated to conquest or extraction of non-Christian lands.",
+      "TONA is identical to the 1865 carceral Thirteenth Amendment.",
+      "The Doctrine of Discovery was a gentler or non-slavery alternative to the Spanish Requirement.",
+      "British/Anglo-American colonial law did not enslave Native peoples in substance because it avoided the word slave."
+    ]
+  },
+  {
+    "id": "blackrock-cube-saturn-authority",
+    "title": "BlackRock = Cube of Saturn / mark of authority",
+    "claim": "Reader thesis (*you are a slave, Neo*): BlackRock is the Cube of Saturn — the mark of authority used through slave history on Earth, updated as a finance brand. People ask why BlackRock owns everything; the site answer is offworld / breakaway collection and consolidation of Earth assets. Circumstantial support: Mars near lunar nodes lining up with Dow behavior across more than a century (Mars–stock-market correlation). Deep State is the Earth-facing layer; BlackRock/Saturn-cube is the authority stamp. Distinct from strawman redemption folklore.",
+    "answerOpener": "BlackRock is read here as the Cube of Saturn — the mark of authority on Earth assets — not just a big asset manager. Mars–node / Dow work is the circumstantial collection schedule.",
+    "bullets": [
+      "Author lock: BlackRock = Cube of Saturn / mark of authority (slave-history stamp → finance brand).",
+      "Why it ‘owns everything’: offworld/breakaway collection thesis; Deep State as Earth face.",
+      "Circumstantial: Mars–lunar-node / Dow correlation research (not a vault memo).",
+      "doNotSay: confuse with 1871/strawman redemption; claim literal chattel bill of sale for every citizen in BlackRock filings as proven."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "BlackRock concentration critiques are common; site-distinctive is Cube-of-Saturn / mark-of-authority + Mars–node collection wiring in the slavery reader article.",
+    "topics": [
+      "blackrock",
+      "cube of saturn",
+      "saturn",
+      "mark of authority",
+      "mars",
+      "dow",
+      "lunar nodes",
+      "breakaway civilization",
+      "asset management",
+      "slavery"
+    ],
+    "demoQuestions": [
+      "Why does BlackRock own everything?",
+      "Is BlackRock the Cube of Saturn?",
+      "What is the mark of authority?",
+      "Is there a Mars stock market connection?"
+    ],
+    "searchQueries": [
+      "blackrock cube of saturn mark of authority",
+      "mars lunar node dow blackrock collection"
+    ],
+    "searchPrefixes": [
+      "governance/slavery/",
+      "cosmos/mars/",
+      "history/chronology/"
+    ],
+    "canonicalPaths": [
+      "governance/slavery/you-are-a-slave-neo.md",
+      "cosmos/mars/investigations/mars-stock-market-correlation.md",
+      "cosmos/mars/page.md",
+      "history/chronology/history-qa/page.md"
+    ],
+    "relatedClaimIds": [
+      "deep-state-mars-nexus",
+      "martians-human",
+      "requerimiento-yoke-slave-empire-trail",
+      "saturnian-collinear-config",
+      "ssn-behavioral-peonage"
+    ],
+    "doNotSay": [
+      "BlackRock ownership concentration is unrelated to any authority-mark or offworld thesis on this site.",
+      "Mars–node / Dow correlation is presented as a sealed vault proof rather than circumstantial research.",
+      "Equate BlackRock branding with strawman birth-certificate redemption schemes."
+    ]
+  },
+  {
+    "id": "antisemitism-reply-playbook",
+    "title": "Replying to antisemitic attacks (Ten Commandments + tropes Q&A)",
+    "claim": "Antisemitism in this repo means monolithing Jews into one intent—not forbidding evidence-based naming of actors. Forum replies to attacks should follow §5 Ten Commandments and the matched Substack tropes Q&A entry (Q1–Q8): boundary the slur, hold contradictory truths, scope factions/dissent, redirect to institutional lanes the trope skipped.",
+    "answerOpener": "We do not answer slurs with slurs — we name the trope, apply the Ten Commandments, and reply to the specific claim using the matching tropes Q&A (monolithing, Hitler=Rothschild, Epstein collective guilt, Zionist rat-hole, etc.).",
+    "bullets": [
+      "Normative anchor: working definition of antisemitism (§5 commandments, anti-monolithing).",
+      "Living playbook: history/chronology/qa/substack-tropes/ — one file per common attack pattern.",
+      "Reply craft: substance where dockets exist; boundary where only slurs exist."
+    ],
+    "confidence": "documented",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Ten Commandments + per-trope reply strategy wired to Substack Notes Q&A is a Paradigm Threat reply-assistant package.",
+    "topics": [
+      "antisemitism",
+      "anti-semitism",
+      "monolithing",
+      "zionist",
+      "rothschild",
+      "epstein",
+      "hitler jewish",
+      "blood libel",
+      "substack tropes",
+      "ten commandments",
+      "jewish"
+    ],
+    "searchQueries": [
+      "antisemitism monolithing ten commandments substack tropes reply",
+      "zionist rat hole epstein collective guilt hitler rothschild"
+    ],
+    "searchPrefixes": [
+      "history/chronology/qa/substack-tropes/",
+      "history/chronology/investigations/",
+      "governance/war/qa/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md",
+      "history/chronology/qa/substack-tropes/page.md",
+      "history/chronology/page.md",
+      "history/chronology/history-qa/page.md"
+    ],
+    "relatedClaimIds": [
+      "controlled-opposition"
+    ],
+    "doNotSay": [
+      "Agree with collective guilt or essential evil claims about Jews.",
+      "Give a generic “we condemn antisemitism” without addressing the specific trope in the post.",
+      "Collapse all Zionism critique into antisemitism or all antisemitism into “just criticizing Israel.”"
+    ]
+  }
+]

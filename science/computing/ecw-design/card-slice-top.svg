@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="102mm" height="100mm" viewBox="0 0 102 100">
+  <title>ECW Card Slice top 3Q-2D-1N-4P tray 77x90mm</title>
+  <defs>
+    <style>
+      .outline { fill: #2a2a2a; stroke: #111; stroke-width: 0.3; }
+      .tray-bg { fill: #252525; stroke: #444; stroke-width: 0.2; }
+      .pocket { fill: #1a1a1a; stroke: #555; stroke-width: 0.25; }
+      .coin-q { fill: #c0c0c0; stroke: #888; stroke-width: 0.2; }
+      .coin-d { fill: #c8c8c8; stroke: #888; stroke-width: 0.2; }
+      .coin-n { fill: #b8b8b8; stroke: #888; stroke-width: 0.2; }
+      .coin-p { fill: #d4af37; stroke: #996; stroke-width: 0.2; }
+      .led { fill: #ff9900; stroke: #cc6600; stroke-width: 0.15; }
+      .rail { fill: #333; stroke: #222; stroke-width: 0.25; }
+      .display { fill: #0a0a0a; stroke: #666; stroke-width: 0.2; }
+      .halo { fill: none; stroke: #88ccff; stroke-width: 0.6; opacity: 0.9; }
+      .wheel { fill: #444; stroke: #888; stroke-width: 0.25; }
+      .label { font-family: sans-serif; font-size: 2px; fill: #aaa; }
+      .dim { font-family: sans-serif; font-size: 1.8px; fill: #666; }
+      .title { font-family: sans-serif; font-size: 2.5px; fill: #ccc; font-weight: bold; }
+    </style>
+  </defs>
+
+  <!-- Pocket radii: coin/2 + 0.4mm clearance -->
+  <!-- Q 12.53 | D 9.355 | N 11.005 | P 9.925 -->
+
+  <g id="outline">
+    <rect class="outline" x="0.5" y="0.5" width="101" height="97" rx="1.5"/>
+    <text class="title" x="3" y="5">ECW Card Slice - coin face 77x90 mm + 18 mm edge rail</text>
+  </g>
+
+  <!-- Tray active area 77.18 x ~89.8 mm; offset left 4 mm -->
+  <rect class="tray-bg" x="4" y="8" width="77.18" height="82" rx="0.8"/>
+
+  <g id="coins" transform="translate(4, 8)">
+    <!-- Row 1: 3 quarters -->
+    <g id="row_quarters">
+      <circle class="pocket" cx="12.53" cy="12.53" r="12.53"/>
+      <circle class="coin-q" cx="12.53" cy="12.53" r="12.13"/>
+      <circle class="pocket" cx="38.59" cy="12.53" r="12.53"/>
+      <circle class="coin-q" cx="38.59" cy="12.53" r="12.13"/>
+      <circle class="pocket" cx="64.65" cy="12.53" r="12.53"/>
+      <circle class="coin-q" cx="64.65" cy="12.53" r="12.13"/>
+      <text class="label" x="1" y="13">3Q</text>
+    </g>
+
+    <!-- Row 2: 2 dimes + 1 nickel (centered, 61.4 mm wide) -->
+    <g id="row_middle">
+      <circle class="pocket" cx="17.2" cy="37.07" r="9.355"/>
+      <circle class="coin-d" cx="17.2" cy="37.07" r="8.955"/>
+      <circle class="pocket" cx="36.86" cy="37.07" r="9.355"/>
+      <circle class="coin-d" cx="36.86" cy="37.07" r="8.955"/>
+      <circle class="pocket" cx="58.28" cy="37.07" r="11.005"/>
+      <circle class="coin-n" cx="58.28" cy="37.07" r="10.605"/>
+      <text class="label" x="1" y="38">2D-1N</text>
+    </g>
+
+    <!-- Row 3-4: 4 pennies 2x2 (40.7 mm block, centered) -->
+    <g id="row_pennies">
+      <circle class="pocket" cx="28.17" cy="59.0" r="9.925"/>
+      <circle class="coin-p" cx="28.17" cy="59.0" r="9.525"/>
+      <circle class="pocket" cx="49.02" cy="59.0" r="9.925"/>
+      <circle class="coin-p" cx="49.02" cy="59.0" r="9.525"/>
+      <circle class="pocket" cx="28.17" cy="79.85" r="9.925"/>
+      <circle class="coin-p" cx="28.17" cy="79.85" r="9.525"/>
+      <circle class="pocket" cx="49.02" cy="79.85" r="9.925"/>
+      <circle class="coin-p" cx="49.02" cy="79.85" r="9.525"/>
+      <text class="label" x="1" y="68">4P</text>
+    </g>
+  </g>
+
+  <g id="leds">
+    <g transform="translate(4, 8)">
+      <circle class="led" cx="12.53" cy="25.5" r="0.8"/>
+      <circle class="led" cx="38.59" cy="25.5" r="0.8"/>
+      <circle class="led" cx="64.65" cy="25.5" r="0.8"/>
+      <circle class="led" cx="17.2" cy="46.8" r="0.8"/>
+      <circle class="led" cx="36.86" cy="46.8" r="0.8"/>
+      <circle class="led" cx="58.28" cy="46.8" r="0.8"/>
+      <circle class="led" cx="28.17" cy="69.3" r="0.8"/>
+      <circle class="led" cx="49.02" cy="69.3" r="0.8"/>
+      <circle class="led" cx="28.17" cy="90.1" r="0.8"/>
+      <circle class="led" cx="49.02" cy="90.1" r="0.8"/>
+    </g>
+  </g>
+
+  <g id="edge_rail" transform="translate(83, 8)">
+    <rect class="rail" x="0" y="0" width="18" height="88" rx="0.5"/>
+    <g id="display" transform="translate(2, 2)">
+      <text class="dim" x="0" y="-0.8" fill="#88ccff">BILL+ halo</text>
+      <rect class="halo" x="-0.5" y="0" width="15" height="6.5" rx="0.8"/>
+      <rect class="display" x="0" y="0.5" width="14" height="5.5" rx="0.4"/>
+      <text x="1.5" y="4.5" font-family="monospace" font-size="3.2" fill="#33ff66">20.24</text>
+    </g>
+    <g id="wheel_int" transform="translate(9, 20)">
+      <text class="dim" x="0" y="-8.5" text-anchor="middle">INT wheel</text>
+      <circle class="wheel" cx="0" cy="0" r="5.5"/>
+      <circle cx="0" cy="0" r="4" fill="none" stroke="#666" stroke-width="0.3"/>
+      <line x1="0" y1="-5.5" x2="0" y2="-3.5" stroke="#888" stroke-width="0.35"/>
+      <text class="dim" x="0" y="1" text-anchor="middle" font-size="1.5">0-99</text>
+      <text class="label" x="0" y="8.5" text-anchor="middle">$</text>
+    </g>
+    <g id="wheel_cent" transform="translate(9, 38)">
+      <text class="dim" x="0" y="-8.5" text-anchor="middle">cent wheel</text>
+      <circle class="wheel" cx="0" cy="0" r="5.5"/>
+      <circle cx="0" cy="0" r="4" fill="none" stroke="#666" stroke-width="0.3"/>
+      <line x1="0" y1="-5.5" x2="0" y2="-3.5" stroke="#888" stroke-width="0.35"/>
+      <text class="dim" x="0" y="1" text-anchor="middle" font-size="1.5">0-99</text>
+      <text class="label" x="0" y="8.5" text-anchor="middle">c</text>
+    </g>
+    <text class="dim" x="1" y="58" font-size="1.5">rotary</text>
+    <text class="dim" x="1" y="61" font-size="1.5">not slides</text>
+  </g>
+
+  <text class="dim" x="4" y="98">10 slots: 3Q + 2D + 1N + 4P = 104 cents face</text>
+</svg>

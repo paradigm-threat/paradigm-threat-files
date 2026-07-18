@@ -1,0 +1,7 @@
+{
+  "hooks": [
+    { "path": "hooks/client/components/Layout.jsx", "name": "Layout" },
+    { "path": "hooks/client/get.jsx", "name": "client get" }
+  ],
+  "relayPathSlash": "/"
+}

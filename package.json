@@ -1,0 +1,23 @@
+{
+  "name": "paradigm-threat-files",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "serve . -p 3010 --cors",
+    "check-keywords": "./.venv/bin/python scripts/check_keywords_format.py",
+    "validate-site-claims": "node scripts/validate-site-claims.cjs",
+    "autogen": "npm run check-keywords && npm run validate-site-claims",
+    "generate-mgga-onepager": "./.venv/bin/python scripts/generate-mgga-onepager.py",
+    "exact-change-sim": "node scripts/exact-change-wallet-sim.mjs",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "glob": "^11.0.3",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "serve": "^14.2.5"
+  }
+}

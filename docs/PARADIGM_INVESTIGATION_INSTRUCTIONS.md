@@ -1,0 +1,152 @@
+# Paradigm investigation files — author / assistant instructions
+
+**Purpose:** Capture how *paradigm-threat-files* investigations are written and maintained so sessions stay consistent.
+
+**Reader-facing articles** (parent-folder essays: **thesis-led** voice, hook, theory-first pacing, lay citations with dossiers for heavy proof) — **[`docs/instructions/ARTICLES.md`](instructions/ARTICLES.md)**.
+
+**Investigation LLM sweep** (scheduled or post-update quality review; **plan files only**, no autonomous edits) — **[`docs/INVESTIGATION_LLM_SWEEP.md`](INVESTIGATION_LLM_SWEEP.md)**.
+
+**Cosmology Q&A / social replies** (Big Melt, Bang, eternal universe, Einstein extrapolation, public comment templates) — **[`docs/LLM_COSMOLOGY_QA.md`](LLM_COSMOLOGY_QA.md)** → hub **[`cosmos/cosmology/qa/page.md`](../cosmos/cosmology/qa/page.md)**.
+
+**Site chat leads** (find guest asks on Relay `chat/public`, investigate, reply as `protricity` with live link) — **[`docs/CHAT_REQUEST_RESPONSE.md`](CHAT_REQUEST_RESPONSE.md)**; Cursor rule **`.cursor/rules/paradigm-threat-chat-requests.mdc`**.
+
+**Dates / timezone:** **`Last updated`** and hand-stamped calendar dates use **US Eastern** (`America/New_York`) — see **§ Dates and timezone** below; Cursor rule **`.cursor/rules/paradigm-threat-eastern-time.mdc`**.
+
+**Epistemic foundation (all investigations and articles):** **[`docs/PRISCA_SAPIENTIA.md`](PRISCA_SAPIENTIA.md)** — **prisca sapientia**: the ancients possessed vast understanding of universe, nature, and theology; later science and institutions degraded or captured it. **Required:** every `*investigation*.md` opens **Limits and disclaimers** with the standard **Prisca sapientia** paragraph (below); articles include it in **`## Framing and limits`** (or link once there).
+
+**Magic / operator technology (investigations citing ceremonial magic, folk magic, grimoires):** **[`docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md`](MAGIC_AS_OPERATOR_TECHNOLOGY.md)** — *magic* = misfiled technology **demonstrable in nature or lab**; supernatural magic is **not supported**. Link once in **Guide** or **Limits** when the dossier uses historical *magic* language.
+
+**Redaction vocabulary (investigations using narrative rewrite / omission / shell narratives):** **[`docs/REDACTION.md`](REDACTION.md)** — six composable operations **R1–R6** (subtractive through shell/misdirection); **Fomenko / Biblical class** = **R4** (inversive); tag **documented** vs **inferred**. When a dossier discusses “redaction,” “flattening,” “memoir rewrite,” or “respectable shell” press, link **REDACTION.md** once in **Guide** or a dedicated **§0.x** applied table (see [Royal Rife §0.1](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md)).
+
+**Standard paragraph (investigations — paste at top of Limits):**
+
+> **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+
+---
+
+## Structure (typical)
+
+1. **Title** — topic + scope in one line (`#` heading at top of file). **Do not** use YAML `---` frontmatter blocks (`title:`, `description:`, `keywords:`); the site and index read title, snippet, hashtags, and OG image from the markdown **body** (`#` title, `> **TL;DR:**`, first paragraph, `Keywords:` line, first `![]()`).
+2. **Optional header image** — path under repo; keep alt text short. **Articles** that cover the same topic may **reuse** this asset (and other corpus PNGs/JPGs) via absolute `https://paradigmthreat.net/...` URLs at the matching **`##` section**—see **[`docs/instructions/ARTICLES.md`](instructions/ARTICLES.md) → Shape → “Reuse existing corpus images.”**
+3. **TL;DR** — one blockquote: thesis, strongest cites, cross-links to other investigations. Avoid duplicating the whole Limits list here.
+4. **Status** — Open / closed; one sentence.
+5. **Guide (read order)** — optional numbered list: “if you want X → section Y”. Use for long files so everyday readers can skip to militainment, money, clues, etc.
+6. **Body** — numbered sections with stable anchors. Prefer **one** interpretive synthesis per theme (avoid repeating the same Russia/Iran contrast in §2 and again in §6). **Do not** scatter **limits / disclaimer** boilerplate through the body; one sentence of **in-section** nuance where analytically necessary is OK.
+7. **Author’s originating thesis (when the author supplies it)** — **Required** whenever the author provides **sentiment**, **pattern language**, or **claims** that are **not** yet evidenced in third-party sources: include their **words** (blockquote **verbatim** where possible) **and** a **short** **“what they mean”** **unpack** so readers grasp **intent** and **pattern stakes**. This material **establishes** **why** the investigation exists for **Paradigm Threat**; it is **not** optional padding. **Do not** replace it with only “unsupported” or a one-line dismissal. **Separate** **visibly** from **evidence-backed** **findings** (subsections or **labels**: **Author** vs **Documented** vs **Speculative**).
+8. **Author’s open claims (optional section, but required when §7 applies)** — numbered or tabulated list of claims that are **unique** to this file or **not** fully grounded elsewhere in the repo — **before** the **open questions** block. Purpose: **pattern** **registry** for **cross-investigation** **threads**, not **pretense** that every claim is **proven**. **Hub indexes:** [author-unique theories registry](/history/chronology/investigations/author-unique-theories.md); [lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) for **word / eponym** threads.
+9. **Questions to clarify, verify, or debunk** — table or list **following** **§8** (when present): **falsifiable** **hooks**, **FOIA**/**archive** **targets**, **or** **mainstream** **sources** **that** **could** **adjudicate** **author** **claims**. Distinct from **routine** **TODOs**; may **merge** **weak** **points** **here** **when** **appropriate**.
+10. **Weak points / remaining research TODOs** — when **not** **folded** **into** **§9**, keep a **table** **or** **checkboxes** **for** **assistant** **follow-up** **(citations**, **missing** **books**, **etc.)**.
+11. **Keywords** — one line near end of file, **exactly** `Keywords:` (case-insensitive on that label) followed by space-separated hashtags. **Option B (required):** each tag is `#` plus a **single PascalCase token** — letters and digits only, **no hyphens and no underscores** inside the tag (e.g. `#RemoteViewing`, `#ParadigmThreatFiles`, not `#remote-viewing` or `#predictive_programming`). Relay QUERY and `npm run check-keywords` only read this line; **do not** use a `## Keywords` heading (it is ignored and `npm run check-keywords` fails the repo).
+12. **Date line** — last substantive update; trim verbose changelog if git history suffices. Use the **calendar date in US Eastern** (`America/New_York`, **ET** / **EDT** / **EST** as appropriate)—not UTC rollover and not the assistant host’s local zone unless it is already Eastern. Format: `*Last updated: YYYY-MM-DD*` or `**Last updated:** YYYY-MM-DD` at file end (articles) or in the instructions footer (docs). When time-of-day matters (session notes, sweep plans), append time with zone, e.g. `2026-06-26 09:38 EDT`. Assistants: `TZ=America/New_York date +%Y-%m-%d` before stamping dates.
+13. **Limits and disclaimers** — **one** consolidated block at **end of file**, **after Keywords** and **before** Investigator notes. **Open** with the **Prisca sapientia** paragraph ([`PRISCA_SAPIENTIA.md`](PRISCA_SAPIENTIA.md)); then fiction vs evidence, cross-links thematic, evidence tiers, assistant bias, **and** **explicit** **note** **that** **author** **thesis** **sections** **are** **first-class** **but** **not** **automatically** **factual**. Everyday readers who skip to substance can stop before this section; it still satisfies repo-wide evidence discipline. **TL;DR** should not paste the full Limits list (thesis + strongest cites only).
+14. **Investigator notes (optional)** — after Limits; **maintainers and LLMs** only: local machine paths, subtitle file locations, grep/session hints. Do **not** put these in the body or duplicate Limits here. See **Online vs local content** below.
+
+### Online vs local content
+
+- **Online readers** (static site, GitLab browse, strangers cloning the repo) have **no access** to the author’s OS paths (`/home/…`, `/media/…`, `C:\…`, etc.). Those paths **do not belong** in the main investigation text, Limits, Related table, or scattered footnotes.
+- Keep the body to **repo-relative links** (`/docs/…`, `/governance/…`), public URLs, and citable secondary sources.
+- Put machine-local paths and assistant-only reminders in **Investigator notes** at the **very end** of the `.md` file (after **Limits and disclaimers**). Casual readers typically stop after **Keywords**; **Limits** is the repo-wide evidence discipline block.
+- **No drafting-process meta in the body:** Do **not** put voice-note transcription errors, **“User query (session …)”** blocks, **session capture** headers, or **author confusion** between similar names (e.g. misheard **Poe** vs **Prince**) in investigation **body** sections, **Limits**, or **weak-points** tables. **Resolve** before ship: identify the correct subject, drop the wrong thread, or **ask the author**. Transcription mix-ups and “heard in chat — does it check out?” belong in **Investigator notes** only — if anywhere — not in the investigation readers open from the site.
+- **CIA Reading Room bulk mirror (author machine):** operational layout, Playwright/OCR/index commands, and logs live only in **`~/dev/wget/cia/cia-reading-room-local-mirror-and-ocr-operations.md`** (outside **paradigm-threat-files**); the public investigation stays **CIA.gov + citations + hypotheses**; see **Investigator notes** in [`cia-reading-room-mars-exploration-1984-rv-investigation.md`](../influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) (Mars mirror + transcript regen); for **Iran / two-way / Super Cockpit** context only, [`cia-reading-room-rv-two-way-iran-revival-investigation.md`](../influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md).
+
+### Investigations folder vs parent “article” pages (controlled opposition pattern; generalize elsewhere)
+
+Some hubs use an **`investigations/`** subfolder for **technical dossiers** and keep **reader-facing articles** one level up (same parent topic folder). **Paradigm rule:**
+
+| Location | Voice & scope | What belongs there |
+|----------|----------------|-------------------|
+| **`…/investigations/*.md`** | **Verbose, speculative, evidence-heavy** — stable section anchors, long tables, FOIA chains, author verdict blocks, **Limits** + **Investigator notes**, full **Keywords** (Option B). | Everything needed for **audit**, **cross-linking**, and **LLM chunking**; **all** tiered citations and **open questions**. |
+| **Parent folder `…/*.md`** (sibling of `investigations/`) | **Article voice** — **theory-led** modern essay (**[`ARTICLES.md`](instructions/ARTICLES.md)**): **hook**, **short `##` sections**, **clear flow**, **clinical but inspired**; **first-person (*I*) default** for thesis and interpretation — Ari **speaks** on the page; **no** “**author read**,” “**author tier**,” or “**the author**” in the body. **Article body stays project-agnostic** (no hosting project or repository name in running prose); see **ARTICLES.md → Reader-facing prose (generic surface)**. Articles may read as **strong manifesto** when the topic demands; **evidence density** and **Limits** posture stay in **`investigations/`** dossiers. Avoid **“this essay / this piece”** syllabus metal. **Attribution footer** after `Last updated` per **ARTICLES.md**. **Inline links** to primaries and dossiers for depth. **Do not** fill the body with **Limits**-class stacks or **sprinkled** caveats—**send** readers to the dossier; use **at most one** short **`## Framing and limits`** block **after** **Where next**, **before** `Keywords:` when needed (**ARTICLES.md → Shape**). **Assume an intelligent reader**—minimal hand-holding. **Bold** in body prose per **ARTICLES.md** (**emphasis** or **new terminology** only). | **Main ideas only**; **no** duplicate of the dossier’s tables unless a **small** summary figure is truly useful. One **Keywords** line still **required** for `check-keywords` (and Relay search keywords). |
+
+**Assistant / agent constraints (hard):**
+
+- **Do not** create or fully draft **article**-style pages in the parent folder **unless** the author **names the output path** (e.g. `influence/…/my-article.md`) in the request. **Exploratory** or **“write an article about X”** prompts **without** an explicit path → **stop** and ask for the path, or only update **`investigations/`** dossiers per existing investigation rules.
+- When the author **does** name a path, they will **often paste conjecture / bullet themes first** (as with Mars + *Chrono Trigger*). **Fold that sentiment into the article**; **do not** silently discard author stakes. Technical proof and **Limits**-class discipline stay primarily in the linked **`investigations/`** file(s).
+- **Cross-link discipline:** parent articles link **out** to investigations and hubs; **avoid** duplicating long investigative arcs in both places. If a fact needs five citations, it lives in **`investigations/`**; the article **summarizes** and **links**.
+- **Site root [`page.md`](../page.md) — discovery (two surfaces):** The live welcome page lists investigations in **`## Investigation Categories`** (`#### Cosmos`, `#### History`, `#### Influence`, …). **When you add a new investigation, chronology reader essay, hub, or reader-facing article**, add a **bullet there under the matching `####`** (alphabetical or thematic order **within that block**—one line + optional em dash blurb; link the primary **`investigations/`** dossier when the new file is an **entry page** pointing at dossiers). **Separately**, optional high-visibility items may also go under **`## My Articles`** (`### Reader-facing articles` vs `### Hubs and broad entry points`)—use for **flagship** essays or **major hubs**, not required for every file if it already sits in **Investigation Categories**.
+
+**Examples (reference implementations):**
+
+- [`influence/controlled_opposition/cia-1984-mars-chrono-trigger.md`](../influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) (article) ↔ [`…/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md`](../influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) (dossier).
+- [`history/chronology/indigenous-creation-legends-and-geology.md`](../history/chronology/indigenous-creation-legends-and-geology.md) (lay reader essay + prose citations) ↔ [`…/investigations/indigenous-legends-vs-geologic-dating-investigation.md`](../history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md) (dossier).
+
+### Front page (`page.md`) — optional structure (recommendation)
+
+- **`## Investigation Categories`** is the **primary** master list readers scan; keep **`####`** sections tidy (one bullet = one line + short blurb).
+- **`## My Articles`** benefits from **two short subheads**: **`### Reader-facing articles`** (parent-folder essays + long standalone investigation reads) vs **`### Hubs and broad entry points`** (`/history/mudflood`, `/cosmos/mars`, etc.). Use for **highlight** entries; they **do not replace** a bullet under **Investigation Categories** unless the item is **only** a deep-link highlight (prefer **both** for major launches).
+- **`## Investigation Categories` → `#### Influence`:** Consider a **short bullet** for the **[controlled opposition hub](/influence/controlled_opposition/page)** and **one line** pointing to the **Mars × *Chrono* article** so the master list mirrors `page.md`—optional; avoids only ever surfacing heavy **`investigations/`** paths.
+
+### New article or hub — discovery checklist (assistants)
+
+When generating or landing a **new** `.md` article, **hub**, or **major investigation** (author-named path or assistant-created under `paradigm-threat-files`):
+
+1. **Site root [`page.md`](../page.md)** — Under **`## Investigation Categories`**, add a bullet in the correct **`#### …`** section (e.g. chronology / history lane → **`#### History`**). Match existing style: `* [Title](path.md) — blurb.`
+2. **Topic hub `page.md`** (if the tree has one) — e.g. **[`history/chronology/page.md`](../history/chronology/page.md)** for timeline work: add a **short prose link** in the section readers already use for that theme (do not rely on AutoIndex alone for **first** discovery of a new flagship page).
+3. **Chronology investigations index** — For anything under **`history/chronology/`** or tightly paired with that lane: add or refresh a row in **[`history/chronology/investigations/index-investigations.md`](../history/chronology/investigations/index-investigations.md)** (and sibling indexes like war hub `page.md` when the topic is governance/war).
+4. **Cross-links** — In related **dossiers**, add a **Related** / **References** row (or hub table row) pointing **to** and **from** the new file so navigation is bidirectional.
+5. **Folder `page.md` + AutoIndex** — If the new file is a **sibling** of a `page.md` that hides directory listings, append or refresh **`<AutoIndex … />`** per **[`docs/instructions/PAGE_MD_AUTOINDEX.md`](instructions/PAGE_MD_AUTOINDEX.md)**.
+6. **`npm run autogen`** — From repo root after substantive `.md` edits so **Keywords** and site-claims validation stay aligned. Catalog dates and content kind are indexed by Relay SQLite from git history.
+7. **Optional:** Duplicate a **one-line** entry under **`## My Articles`** on root `page.md` when the piece should be **editorially featured** alongside category listing.
+
+### Reorganization (when asked to simplify)
+
+- **Do not lose data.** Merge sections by moving paragraphs and tables into the surviving heading; never drop citations, URLs, or checklist rows without pasting them elsewhere.
+- **Reduce redundancy.** One **Limits** block at **file end** (before Investigator notes); one **Related investigations** table (do not duplicate the same links in a separate “Cross-links” section). One interpretive “premise” statement — cross-reference earlier sections instead of restating.
+- **Everyday readers:** Keep a short **Guide (read order)** as a numbered list (reliable on all renderers). Prefer plain sentences; **bold** for emphasis and labels, not every entity name.
+- **Closing a session:** Refresh **`governance/war/investigations/page.md`** row if scope changed; add/update **`docs/INVESTIGATIONS_DEEP_DIVE.md`** row **and** §2 validation block when the file has material open TODOs; update **site root [`page.md`](../page.md)** **`## Investigation Categories`** (and **`## My Articles`** if featured) per **New article or hub — discovery checklist** above; update **topic hub `page.md`** and **`index-investigations.md`** when the lane uses them; run final pass on **open questions** and **weak points / TODOs**; **`npm run autogen`**; **commit** and **push all configured remotes** (`origin`, relays, etc.) when the author asks for repo sync. **Optional quality pass:** run or schedule an **[Investigation LLM sweep](INVESTIGATION_LLM_SWEEP.md)** (plan file only — **no** autonomous investigation edits).
+
+---
+
+## Dates and timezone
+
+- **Default clock:** **US Eastern** — IANA zone **`America/New_York`** (**ET**; **EDT** Mar–Nov, **EST** otherwise). Use for **`Last updated`** lines, investigation footers, sweep-plan filenames/dates, and assistant session stamps whenever a calendar date is written by hand.
+- **Format:** **`YYYY-MM-DD`** for date-only lines; add **`HH:MM TZ`** (e.g. `09:38 EDT`) only when time-of-day is useful.
+- **Do not** use UTC midnight, server local time, or the model’s default “today” without checking Eastern—late-night UTC can land on the **wrong calendar day** for US readers.
+- **Assistants:** before stamping, run `TZ=America/New_York date +%Y-%m-%d` (or `date '+%Y-%m-%d %H:%M %Z'` when time matters).
+- **Cursor rule mirror:** `.cursor/rules/paradigm-threat-eastern-time.mdc` (`alwaysApply: true`).
+
+---
+
+## Evidence and tone
+
+- **Verifiable externals (required pass):** Before ship, audit **every blockquote and verbatim external attribution** — lyrics, film/TV lines, speeches, headlines, statistics, DOIs. LLMs **confabulate** plausible quotes; author thesis is **not** exempt when it is **mislabeled** as someone else’s words. **Canonical failure:** Spinal Tap **“Stonehenge”** was drafted as **“And the soft winds blow…”**; the real line is **“Where the banshees live and they do live well”** ([Songfacts](https://www.songfacts.com/lyrics/spinal-tap/stonehenge)) — fixed 2026-06 in [`stonehenge-quantum-portal-golden-age-and-dark-ages.md`](../history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md). Full checklist: **[`docs/instructions/ARTICLES.md` → Verifiable externals pass](instructions/ARTICLES.md#verifiable-externals-pass-required-before-ship)**.
+- **Tiers:** Primary > secondary press > social. Flag FOIA-derived figures and wiki-as-convenience vs peer-reviewed claims.
+- **Author sentiment vs verification:** When the author supplies **pattern thesis** or **claims without external citations**, the investigation **must** still **present** that material **prominently** (see **Structure §7–9**). Assistants **add** **context**, **feasibility**, **counterarguments**, and **sources** **without** **replacing** the author’s **voice** **with** **only** **debunking** or **omission**. The **Limits** block states evidence discipline; it does **not** delete the **author’s** **stakes**.
+- **Cross-investigations:** Links are **thematic rhymes**, not proof that fictional plots equal documented history.
+- **Clue threads** (e.g. fiction foreshadowing, casting irony): label as **clues**, not closed findings. When the author asks for **no disclaimer boilerplate** in a clue block, keep the clue language; the file-level Limits still govern evidence tiers for the repo.
+- **Bolding:** Use sparingly — emphasis and section labels, not every proper noun.
+
+---
+
+## Physics / æther vocabulary (all `paradigm-threat*` repos)
+
+- **Canon:** [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) — debate summary, **Maxwell** cite path, **one-line** disclaimer template, and Copilot/Cursor **`.cursor/rules/paradigm-threat-aether-vocabulary.mdc`** mirror.
+- **Running voice:** **æther** (or **aether** in slugs) for the substrate; do **not** use **quantum / ZPE / dark matter** as silent “mainstream-complete” substitutes except in **citation / definition / debate**.
+- **Optional bridge:** one sentence may note mainstream **fields in vacuum + relativity + QED** as **translation**, not **replacement** of the author’s ontology.
+
+---
+
+## Money / engines / militainment
+
+When discussing defense budgets vs commercial games: cite **parallel ecosystems** (America’s Army, VBS, DARWARS, DARPA programs) **separately** from publisher AAA budgets (Activision, platform deals, court filings). Do not collapse into “Pentagon funded Call of Duty” without a specific line-item source.
+
+---
+
+## Git
+
+- Commit investigation changes with a clear one-line message.
+- Push to **all** configured remotes (`origin`, relay mirrors such as `dfw1`, `hkg1`, `lon1`, … per `git remote -v`) when the author requests repo sync. **`atlanta2` and `jp-osa` are retired** — do not re-add unless ops restores those hosts.
+
+---
+
+## Index maintenance
+
+- **Site root [`page.md`](../page.md):** **`## Investigation Categories`** — add new bullets when a new article, hub, or investigation should be **site-discoverable** (see **New article or hub — discovery checklist**).
+- **`governance/war/investigations/page.md`** (and similar `page.md` files): update the investigation row blurb when the scope or thesis changes materially.
+- **`history/chronology/investigations/index-investigations.md`:** add a table row when a new chronology investigation or **`history/chronology/*.md`** reader essay / hub ships or changes scope.
+- **`docs/INVESTIGATIONS_DEEP_DIVE.md`:** add or refresh a row when an investigation has substantial open TODOs worth tracking repo-wide.
+- **Keyword line:** run `npm run autogen` from repo root before shipping substantive edits. If `check-keywords` reports a file, fix the `Keywords:` line to Option B tokens. Relay builds search/date metadata from the repo tip; there is no committed `index.json` or `changelog.json` to regenerate.
+
+---
+
+**Date:** 2026-04-18 — Initial instructions from *Call of Duty: Modern Warfare* investigation session (reorg, citations, clue threads, funding sections). **Updates:** reorganization rules (no data loss, deep dive + page.md on close, push all remotes); **online vs local** — no absolute OS paths in body; optional **Investigator notes** appendix at file end for LLM/maintainer paths. **2026-04-19** — **Limits/disclaimers** placement: **consolidated at end of file** (after Keywords, before Investigator notes); body sections stay lean. **2026-04-21** — **Author’s originating thesis**, **open claims**, and **questions to clarify/debunk** added to **Structure** and **Evidence and tone**; applies **repo-wide** so investigations **preserve** **author** **pattern** **language** **alongside** **verification**. **2026-04-27** — **æther vocabulary + Maxwell debate** canon (`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`, `.cursor/rules/paradigm-threat-aether-vocabulary.mdc` in each `paradigm-threat*` repo). **2026-04-27 (b)** — CIA Reading Room **local mirror** companion file path documented under **Online vs local content** (`~/dev/wget/cia/cia-reading-room-local-mirror-and-ocr-operations.md`). **2026-04-26** — **Keywords:** Option B enforced repo-wide (PascalCase tags, no hyphens/underscores in tag text); no `## Keywords`; `npm run check-keywords` + indexer alignment. **2026-04-27 (c)** — **`investigations/` vs parent articles:** table + **hard rule**: no new article pages **unless** author gives **explicit output path**; reference article [`cia-1984-mars-chrono-trigger.md`](../influence/controlled_opposition/cia-1984-mars-chrono-trigger.md). **2026-04-29** — **Site root `page.md`:** new reader-facing work listed under **`## My Articles`** where featured; **2026-04-29 (b)** — **Primary discoverability** clarified: **`## Investigation Categories` → `#### …`** is **required** for new bullets; **New article or hub — discovery checklist**; **`index-investigations.md`** + topic **`page.md`**; **Closing a session** + **Index maintenance** aligned; remotes note includes all configured names. **2026-04-30** — **[`docs/instructions/ARTICLES.md`](instructions/ARTICLES.md)** — reader-facing **article** voice (hook, lay reader, **clinical-but-inspired** stakes, citations in prose, optional Limits); linked from Purpose and parent-folder table. **2026-04-29 (c)** — **ARTICLES.md** refresh: body stays **light** on **Limits**-class material (**send** readers to dossier); **first person (*I*)** + required **attribution footer**; discourage overused **“not A, it is B”** LLM cadence; parent-folder table row updated. **2026-04-30 (b)** — Articles default **lighter on lament**; **drive points** in **cool exact** prose; reference example blurb **lay reader essay** (not “lay lament”). **2026-04-30 (c)** — ARTICLES: **state the claim** (no “**my hard moral read**” scaffolding); footer **replaces** constant who-is-speaking reminders; **no hand-holding** / **intelligent reader** default. **2026-04-30 (d)** — ARTICLES: **bold** only for **emphasis** or **new terminology**; avoid **sparkle bold** / **sparkle fatigue**. **2026-04-29 (e)** — ARTICLES: **Length (Substack / email)** — target **~2k–3.2k words**; **Gmail 102KB** clip per [Substack Support](https://support.substack.com/hc/en-us/articles/360038866571-Why-does-it-say-Post-too-long-in-the-post-editor); **~3.5k** soft ceiling. **2026-04-30 (f)** — ARTICLES + parent-folder table: **I** as Ari for **memory / judgment / stakes**; avoid **“this essay / this piece”** scaffolding; trim **stance meta**, not first person; **PAGE_MD_AUTOINDEX** blurb aligned. **2026-05-05** — **Theory-led** reader-essay default codified in **ARTICLES.md** (unified thesis first, **manifesto** tone allowed, dossiers hold proof density); **Purpose** line + parent-folder **Article voice** row updated for **documentary default** + **selective** first person; reference flagship [`circle-of-life-and-how-it-began.md`](../science/biology/circle-of-life-and-how-it-began.md). **2026-05-06** — **ARTICLES.md** **Reader-facing prose (generic surface)**: article bodies **project-agnostic**; theory-led subsection restored after generic rules; parent-folder row cites generic-surface rule. **2026-05-07** — **ARTICLES.md**: disclaimers **batched** in **`## Framing and limits`** (**after** **Where next**, **before** `Keywords:`); **avoid** mid-essay **disclaimer sprawl**; parent-folder table row + **Circle of Life** article aligned. **2026-06-04** — **Verifiable externals pass** in **ARTICLES.md** + **Evidence and tone** here; Spinal Tap **“soft winds blow”** confabulation cited as canonical failure; [`stonehenge-quantum-portal-golden-age-and-dark-ages.md`](../history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) lyric corrected. **2026-06-25** — **[`docs/REDACTION.md`](REDACTION.md)** canonical **R1–R6** vocabulary; capture/rewrite dossiers link once; applied-table pattern in [Royal Rife §0.1](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md). **2026-06-26** — **Dates and timezone:** **`Last updated`** and hand-stamped dates use **US Eastern** (`America/New_York`); Cursor rule `.cursor/rules/paradigm-threat-eastern-time.mdc`.
