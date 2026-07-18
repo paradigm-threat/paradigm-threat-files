@@ -3,6 +3,7 @@
  * Prefer href navigation from parent; optional onUp/onHome for same-page state.
  */
 import { propOr, propStr } from 'hooks/client/propOr.jsx'
+import { siteHref } from 'hooks/client/loadArticles.jsx'
 
 export default function Layout(props) {
   const path = propStr(props, 'filePath', 'README.md')
@@ -20,7 +21,7 @@ export default function Layout(props) {
             Up
           </button>
         ) : (
-          <a className="pt-btn" href="/">
+          <a className="pt-btn" href={siteHref('/')}>
             Up
           </a>
         )}
@@ -29,7 +30,7 @@ export default function Layout(props) {
             Home
           </button>
         ) : (
-          <a className="pt-btn" href="/README.md">
+          <a className="pt-btn" href={siteHref('/README.md')}>
             Home
           </a>
         )}
