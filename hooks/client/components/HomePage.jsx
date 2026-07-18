@@ -1,5 +1,4 @@
 import React from 'react'
-import manifest from '@hooks'
 import SiteChrome from 'hooks/client/components/SiteChrome.jsx'
 import DirNav from 'hooks/client/components/DirNav.jsx'
 import {
@@ -14,70 +13,6 @@ import {
  * Show article index + link into real markdown bodies.
  */
 export default function HomePage() {
-  const base = (() => {
-    try {
-      if (typeof manifest.relayClientBaseUrl === 'string') return manifest.relayClientBaseUrl
-    } catch (e) {}
-    return ''
-  })()
-  const qProbe = fetch(base.length > 0 ? base + '/' : '/', {
-    method: 'QUERY',
-    body: '{"collection":"index","query":"","limit":5}',
-  })
-  let qStatus = -1
-  let qLen = 0
-  let qHead = ''
-  if (qProbe) {
-    if (qProbe.status) qStatus = qProbe.status
-    const qt = qProbe.text ? qProbe.text : ''
-    qLen = qt.length
-    qHead = qt.slice(0, 80)
-  }
-  const nProbe = fetch(base.length > 0 ? base + '/nav-index.json' : '/nav-index.json', {
-    method: 'GET',
-  })
-  let nStatus = -1
-  let nLen = 0
-  if (nProbe) {
-    if (nProbe.status) nStatus = nProbe.status
-    const nt = nProbe.text ? nProbe.text : ''
-    nLen = nt.length
-  }
-  let parsedN = 0
-  let parseErr = ''
-  try {
-    if (nProbe && nProbe.ok === true && nProbe.text) {
-      const d = JSON.parse(nProbe.text)
-      if (d && d.articles) parsedN = d.articles.length
-      else parsedN = -3
-    } else {
-      parsedN = -4
-    }
-  } catch (e2) {
-    parsedN = -1
-    try {
-      parseErr = '' + e2
-    } catch (e3) {
-      parseErr = 'catch'
-    }
-  }
-  let parsedQ = 0
-  let parseErrQ = ''
-  try {
-    if (qProbe && qProbe.ok === true && qProbe.text) {
-      const dq = JSON.parse(qProbe.text)
-      if (dq && dq.results) parsedQ = dq.results.length
-      else parsedQ = -3
-    }
-  } catch (e4) {
-    parsedQ = -1
-    try {
-      parseErrQ = '' + e4
-    } catch (e5) {
-      parseErrQ = 'catch'
-    }
-  }
-
   const rows = loadArticleRows(80)
   const featured = featuredArticlePath(rows)
   const items = []
@@ -107,30 +42,6 @@ export default function HomePage() {
                 <h1 className="pt-title">Paradigm Threat</h1>
                 <p className="pt-muted pt-lead">
                   Thin files corpus on Relay — browse markdown articles below.
-                </p>
-                <p className="pt-muted" id="pt-debug-fetch">
-                  {'dbg q=' +
-                    qStatus +
-                    ' qlen=' +
-                    qLen +
-                    ' n=' +
-                    nStatus +
-                    ' nlen=' +
-                    nLen +
-                    ' parsed=' +
-                    parsedN +
-                    ' pq=' +
-                    parsedQ +
-                    ' pe=' +
-                    parseErr +
-                    ' peq=' +
-                    parseErrQ +
-                    ' rows=' +
-                    rows.length +
-                    ' base=' +
-                    base +
-                    ' head=' +
-                    qHead}
                 </p>
                 {featured.length > 0 ? (
                   <p>
