@@ -158,8 +158,7 @@ export function isFeelingLuckyCandidate(path) {
 
 /**
  * Pick a rotating article path from nav-index.
- * Avoids Date/Math.random (WASM has no time; CleverScript module lets are unreliable).
- * Prefer performance.now() via host; else pathname length.
+ * Avoids Date/Math.random and bitwise ops (unsupported in CleverScript / WASM).
  */
 export function pickFeelingLuckyPath() {
   const rows = loadArticleRows(200)
@@ -174,14 +173,15 @@ export function pickFeelingLuckyPath() {
   let idx = 0
   try {
     const g = globalThis
+    let sum = 0
+    if (g && g.location && typeof g.location.pathname === 'string') {
+      sum = g.location.pathname.length
+    }
     if (g && g.performance && typeof g.performance.now === 'function') {
       const n = g.performance.now()
-      if (typeof n === 'number') {
-        idx = (n | 0) % candidates.length
-      }
-    } else if (g && g.location && typeof g.location.pathname === 'string') {
-      idx = g.location.pathname.length % candidates.length
+      if (typeof n === 'number') sum = sum + n
     }
+    idx = sum % candidates.length
   } catch (e) {
     idx = 0
   }
