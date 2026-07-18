@@ -659,6 +659,14 @@ themes:
         overflowY: "auto"
         minHeight: 0
         flex: 1
+      ".pt-changelog [data-changelog-panel]":
+        display: "flex"
+        flexDirection: "column"
+        minHeight: 0
+        flex: 1
+        overflow: "hidden"
+      ".pt-changelog [data-changelog-panel][hidden]":
+        display: "none"
       ".pt-changelog-item":
         margin: "0 0 0.4rem"
         fontSize: "0.875rem"
