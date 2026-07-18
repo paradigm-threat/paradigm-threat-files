@@ -94,10 +94,10 @@ function relFromUrl(url) {
   return stripQuery(path)
 }
 
-function findMdImageClose(md, from) {
+function findMdImageClose(md, startAt) {
   // Prefer ](/ or ](http so we do not match stray ]( in alt text.
-  const a = md.indexOf('](/', from)
-  const b = md.indexOf('](http', from)
+  const a = md.indexOf('](/', startAt)
+  const b = md.indexOf('](http', startAt)
   if (a < 0) return b
   if (b < 0) return a
   if (a < b) return a
