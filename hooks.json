@@ -4,6 +4,7 @@
     { "path": "hooks/client/jsonUtil.jsx", "name": "jsonUtil" },
     { "path": "hooks/client/loadArticles.jsx", "name": "loadArticles" },
     { "path": "hooks/client/rewriteAssets.jsx", "name": "rewriteAssets" },
+    { "path": "hooks/client/expandMdComponents.jsx", "name": "expandMdComponents" },
     { "path": "hooks/client/components/Icons.jsx", "name": "Icons" },
     { "path": "hooks/client/components/ThemeToggle.jsx", "name": "ThemeToggle" },
     { "path": "hooks/client/components/Nav.jsx", "name": "Nav" },

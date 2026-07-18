@@ -9,6 +9,7 @@ import {
   siteHref,
 } from 'hooks/client/loadArticles.jsx'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
+import { expandMdComponents } from 'hooks/client/expandMdComponents.jsx'
 import manifest from '@hooks'
 
 function str(v) {
@@ -166,7 +167,9 @@ export default function ArticleView(props) {
   }
 
   const rawBody = errMsg ? '# Error\n\n' + errMsg : markdownContent
-  const body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody)
+  const body = errMsg
+    ? rawBody
+    : expandMdComponents(rewriteMarkdownAssetUrls(rawBody), pathPart)
 
   const neighbors = neighborPaths(pathPart)
   const prevHref = neighbors.prev.length > 0 ? siteHref('/' + neighbors.prev) : ''
