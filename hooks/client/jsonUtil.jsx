@@ -24,14 +24,12 @@ export function queryIndexBody(query, limit, order) {
   return body + '}'
 }
 
+/** CleverScript SSR: use JSON.parse directly (globalThis.JSON is unreliable). */
 export function parseJson(text) {
   try {
-    const g = globalThis
-    if (g && g.JSON && typeof g.JSON.parse === 'function') {
-      return g.JSON.parse(text)
-    }
+    if (!text || text.length === 0) return null
+    return JSON.parse(text)
   } catch (e) {
     return null
   }
-  return null
 }
