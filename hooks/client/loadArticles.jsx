@@ -1,3 +1,4 @@
+import manifest from '@hooks'
 import { parseJson, queryIndexBody } from 'hooks/client/jsonUtil.jsx'
 
 function str(v) {
@@ -8,6 +9,19 @@ function str(v) {
   }
   if (typeof v === 'number') return '' + v
   if (typeof v === 'string') return v
+  return ''
+}
+
+function clientBase() {
+  try {
+    if (typeof manifest.relayClientBaseUrl === 'string') {
+      let b = manifest.relayClientBaseUrl
+      while (b.length > 0 && b.charAt(b.length - 1) === '/') {
+        b = b.slice(0, b.length - 1)
+      }
+      return b
+    }
+  } catch (e) {}
   return ''
 }
 
@@ -53,41 +67,57 @@ export function isArticleRow(row) {
   return true
 }
 
+function rowsFromPayload(data) {
+  const out = []
+  if (!data) return out
+  let list = null
+  try {
+    if (data.results && data.results.length >= 0) list = data.results
+  } catch (e) {}
+  try {
+    if (!list && data.articles && data.articles.length >= 0) list = data.articles
+  } catch (e2) {}
+  if (!list) return out
+  for (let i = 0; i < list.length; i++) {
+    if (isArticleRow(list[i])) out.push(list[i])
+  }
+  return out
+}
+
 /**
  * Same-repo article index. Prefers QUERY JSON (SSR host supports QUERY);
  * falls back to committed nav-index.json via GET.
+ * Uses absolute URLs (relayClientBaseUrl) — same as ArticleView — so SSR
+ * RepoFetchHost resolves paths reliably.
  */
 export function loadArticleRows(limit) {
   let lim = 48
   if (typeof limit === 'number' && limit > 0) lim = limit
+  const base = clientBase()
 
-  const resp = fetch('/', {
+  // Relative root works for SSR QUERY; absolute also maps via asset_base_url.
+  const queryUrl = base.length > 0 ? base + '/' : '/'
+  const resp = fetch(queryUrl, {
     method: 'QUERY',
-    headers: {
-      Accept: 'application/json',
-    },
     body: queryIndexBody('', lim, ''),
   })
   if (resp && resp.ok === true) {
     const text = resp.text ? resp.text : ''
     if (text.length > 0) {
       const data = parseJson(text)
-      if (data && data.results && data.results.length >= 0) {
-        const out = []
-        for (let i = 0; i < data.results.length; i++) {
-          if (isArticleRow(data.results[i])) out.push(data.results[i])
-        }
-        if (out.length > 0) return out
-      }
+      const out = rowsFromPayload(data)
+      if (out.length > 0) return out
     }
   }
 
-  const fallback = fetch('/nav-index.json', { method: 'GET' })
+  const navUrl = base.length > 0 ? base + '/nav-index.json' : '/nav-index.json'
+  const fallback = fetch(navUrl, { method: 'GET' })
   if (fallback && fallback.ok === true) {
     const text = fallback.text ? fallback.text : ''
-    const data = parseJson(text)
-    if (data && data.articles && data.articles.length > 0) {
-      return data.articles
+    if (text.length > 0) {
+      const data = parseJson(text)
+      const out = rowsFromPayload(data)
+      if (out.length > 0) return out
     }
   }
   return []
