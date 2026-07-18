@@ -1,6 +1,7 @@
 /**
  * Thin ChangeLog matching production tabs (Articles / Investigations / Blog / Recent).
- * Tab switches update the DOM only — CleverScript setState re-renders the whole article (~1s).
+ * CSS radio tabs — no setState (avoids ~1s full markdown re-render) and no document APIs
+ * (CleverScript click handlers do not receive the DOM event).
  */
 import React from 'react'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
@@ -110,44 +111,6 @@ function panelBody(rows, limit, tabId) {
   )
 }
 
-/** Swap visible panel without React setState (avoids full markdown re-render). */
-function activateTab(tabId) {
-  try {
-    const root = document.querySelector('.pt-changelog')
-    if (!root) return
-    const tabs = root.querySelectorAll('[data-changelog-tab]')
-    for (let i = 0; i < tabs.length; i++) {
-      const btn = tabs[i]
-      let id = ''
-      try {
-        id = btn.getAttribute('data-changelog-tab') || ''
-      } catch (e) {}
-      const on = id === tabId
-      btn.className = on ? 'pt-changelog-tab pt-changelog-tab-active' : 'pt-changelog-tab'
-      try {
-        btn.setAttribute('aria-selected', on ? 'true' : 'false')
-      } catch (e2) {}
-    }
-    const panels = root.querySelectorAll('[data-changelog-panel]')
-    for (let j = 0; j < panels.length; j++) {
-      const panel = panels[j]
-      let pid = ''
-      try {
-        pid = panel.getAttribute('data-changelog-panel') || ''
-      } catch (e3) {}
-      const show = pid === tabId
-      try {
-        if (show) panel.removeAttribute('hidden')
-        else panel.setAttribute('hidden', 'hidden')
-      } catch (e4) {
-        try {
-          panel.hidden = !show
-        } catch (e5) {}
-      }
-    }
-  } catch (e6) {}
-}
-
 export default function ChangeLog(props) {
   let limit = 16
   try {
@@ -158,60 +121,48 @@ export default function ChangeLog(props) {
 
   return (
     <section className="pt-changelog" aria-label="Change log">
+      <input
+        type="radio"
+        name="pt-changelog-tab"
+        id="pt-cl-articles"
+        className="pt-changelog-radio"
+        defaultChecked
+      />
+      <input
+        type="radio"
+        name="pt-changelog-tab"
+        id="pt-cl-investigations"
+        className="pt-changelog-radio"
+      />
+      <input type="radio" name="pt-changelog-tab" id="pt-cl-blog" className="pt-changelog-radio" />
+      <input type="radio" name="pt-changelog-tab" id="pt-cl-recent" className="pt-changelog-radio" />
       <div className="pt-changelog-toolbar" role="tablist" aria-label="Content kind">
-        <button
-          type="button"
-          className="pt-changelog-tab pt-changelog-tab-active"
-          data-changelog-tab="articles"
-          aria-selected="true"
-          onClick={() => {
-            activateTab('articles')
-          }}
-        >
+        <label htmlFor="pt-cl-articles" className="pt-changelog-tab pt-changelog-tab-articles">
           Articles
-        </button>
-        <button
-          type="button"
-          className="pt-changelog-tab"
-          data-changelog-tab="investigations"
-          aria-selected="false"
-          onClick={() => {
-            activateTab('investigations')
-          }}
+        </label>
+        <label
+          htmlFor="pt-cl-investigations"
+          className="pt-changelog-tab pt-changelog-tab-investigations"
         >
           Investigations
-        </button>
-        <button
-          type="button"
-          className="pt-changelog-tab"
-          data-changelog-tab="blog"
-          aria-selected="false"
-          onClick={() => {
-            activateTab('blog')
-          }}
-        >
+        </label>
+        <label htmlFor="pt-cl-blog" className="pt-changelog-tab pt-changelog-tab-blog">
           Blog
-        </button>
-        <button
-          type="button"
-          className="pt-changelog-tab"
-          data-changelog-tab="recent"
-          aria-selected="false"
-          onClick={() => {
-            activateTab('recent')
-          }}
-        >
+        </label>
+        <label htmlFor="pt-cl-recent" className="pt-changelog-tab pt-changelog-tab-recent">
           Recent
-        </button>
+        </label>
       </div>
-      <div data-changelog-panel="articles">{panelBody(buckets.articles, limit, 'articles')}</div>
-      <div data-changelog-panel="investigations" hidden>
+      <div className="pt-changelog-panel pt-changelog-panel-articles">
+        {panelBody(buckets.articles, limit, 'articles')}
+      </div>
+      <div className="pt-changelog-panel pt-changelog-panel-investigations">
         {panelBody(buckets.investigations, limit, 'investigations')}
       </div>
-      <div data-changelog-panel="blog" hidden>
+      <div className="pt-changelog-panel pt-changelog-panel-blog">
         {panelBody(buckets.blog, limit, 'blog')}
       </div>
-      <div data-changelog-panel="recent" hidden>
+      <div className="pt-changelog-panel pt-changelog-panel-recent">
         {panelBody(buckets.recent, limit, 'recent')}
       </div>
     </section>
