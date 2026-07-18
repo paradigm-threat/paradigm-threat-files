@@ -44,13 +44,38 @@ export default function HomePage() {
     nLen = nt.length
   }
   let parsedN = 0
+  let parseErr = ''
   try {
     if (nProbe && nProbe.ok === true && nProbe.text) {
       const d = JSON.parse(nProbe.text)
       if (d && d.articles) parsedN = d.articles.length
+      else parsedN = -3
+    } else {
+      parsedN = -4
     }
   } catch (e2) {
     parsedN = -1
+    try {
+      parseErr = '' + e2
+    } catch (e3) {
+      parseErr = 'catch'
+    }
+  }
+  let parsedQ = 0
+  let parseErrQ = ''
+  try {
+    if (qProbe && qProbe.ok === true && qProbe.text) {
+      const dq = JSON.parse(qProbe.text)
+      if (dq && dq.results) parsedQ = dq.results.length
+      else parsedQ = -3
+    }
+  } catch (e4) {
+    parsedQ = -1
+    try {
+      parseErrQ = '' + e4
+    } catch (e5) {
+      parseErrQ = 'catch'
+    }
   }
 
   const rows = loadArticleRows(80)
@@ -94,6 +119,12 @@ export default function HomePage() {
                     nLen +
                     ' parsed=' +
                     parsedN +
+                    ' pq=' +
+                    parsedQ +
+                    ' pe=' +
+                    parseErr +
+                    ' peq=' +
+                    parseErrQ +
                     ' rows=' +
                     rows.length +
                     ' base=' +
