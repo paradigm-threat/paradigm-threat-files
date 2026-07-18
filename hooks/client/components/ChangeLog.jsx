@@ -113,6 +113,7 @@ function panelBody(rows, limit, tabId) {
 
 function tabCss() {
   return (
+    '.pt-changelog-tab{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none;}' +
     '.pt-changelog-panel{display:none;flex-direction:column;min-height:0;flex:1;overflow:hidden;}' +
     '.pt-changelog:has(#pt-cl-articles:checked) .pt-changelog-panel-articles{display:flex;}' +
     '.pt-changelog:has(#pt-cl-investigations:checked) .pt-changelog-panel-investigations{display:flex;}' +
