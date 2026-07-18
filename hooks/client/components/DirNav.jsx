@@ -4,20 +4,20 @@ import { loadArticleRows, rowPath, rowTitle } from 'hooks/client/loadArticles.js
 /** Left directory from same-repo QUERY (SSR) or nav-index.json fallback. */
 export default function DirNav() {
   const rows = loadArticleRows(60)
-  const items = []
+  let items = []
   const n = rows.length < 40 ? rows.length : 40
   for (let i = 0; i < n; i++) {
     const row = rows[i]
     const path = rowPath(row)
     if (path.length === 0) continue
     const href = '/' + path
-    items.push(
+    items = items.concat([
       <li key={'d-' + i} className="pt-dir-item">
         <a href={href} className="pt-dir-link">
           {rowTitle(row)}
         </a>
       </li>,
-    )
+    ])
   }
 
   return (

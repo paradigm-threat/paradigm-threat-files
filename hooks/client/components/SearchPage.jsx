@@ -53,7 +53,7 @@ function runSearch(query) {
   if (text.length === 0) return { error: 'Empty search response', rows: [] }
   const data = parseJson(text)
   if (data && data.results && data.results.length >= 0) {
-    const rows = []
+    let rows = []
     for (let i = 0; i < data.results.length; i++) {
       const row = data.results[i]
       let path = ''
@@ -67,7 +67,7 @@ function runSearch(query) {
         if (row.content_kind && typeof row.content_kind === 'string') kind = row.content_kind
       } catch (e2) {}
       if (kind === 'exclude') continue
-      rows.push(row)
+      rows = rows.concat([row])
     }
     return { error: '', rows: rows }
   }
@@ -115,9 +115,9 @@ export default function SearchPage(props) {
     setResult(runSearch(q))
   }
 
-  const items = []
+  let items = []
   for (let i = 0; i < result.rows.length; i++) {
-    items.push(<ResultItem key={'r-' + i} row={result.rows[i]} />)
+    items = items.concat([<ResultItem key={'r-' + i} row={result.rows[i]} />])
   }
 
   return (

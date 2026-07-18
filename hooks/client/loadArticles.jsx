@@ -79,7 +79,7 @@ function rowsFromPayload(data) {
   } catch (e2) {}
   if (!list) return out
   for (let i = 0; i < list.length; i++) {
-    if (isArticleRow(list[i])) out.push(list[i])
+    if (isArticleRow(list[i])) out = out.concat([list[i]])
   }
   return out
 }

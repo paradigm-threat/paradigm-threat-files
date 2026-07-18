@@ -15,20 +15,20 @@ import {
 export default function HomePage() {
   const rows = loadArticleRows(80)
   const featured = featuredArticlePath(rows)
-  const items = []
+  let items = []
   const n = rows.length < 30 ? rows.length : 30
   for (let i = 0; i < n; i++) {
     const row = rows[i]
     const path = rowPath(row)
     if (path.length === 0) continue
-    items.push(
+    items = items.concat([
       <li key={'h-' + i} className="pt-result-item">
         <a href={'/' + path} className="pt-result-link">
           <span className="pt-result-title">{rowTitle(row)}</span>
           <span className="pt-muted pt-result-path">{path}</span>
         </a>
       </li>,
-    )
+    ])
   }
 
   return (

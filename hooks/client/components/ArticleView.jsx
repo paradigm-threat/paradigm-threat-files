@@ -49,11 +49,11 @@ function resolveMdHref(href, currentPath, slash, baseUrl) {
   if (lio >= 0) dir = dir.slice(0, lio)
   else dir = ''
   const parts = rel.split(slash)
-  const segs = []
+  let segs = []
   if (dir.length > 0) {
     const dparts = dir.split(slash)
     for (let i = 0; i < dparts.length; i++) {
-      if (dparts[i].length > 0) segs.push(dparts[i])
+      if (dparts[i].length > 0) segs = segs.concat([dparts[i]])
     }
   }
   for (let j = 0; j < parts.length; j++) {
@@ -61,9 +61,15 @@ function resolveMdHref(href, currentPath, slash, baseUrl) {
     if (p.length === 0 || p === '.') {
       /* skip */
     } else if (p === '..') {
-      if (segs.length > 0) segs.pop()
+      if (segs.length > 0) {
+        let next = []
+        for (let s = 0; s < segs.length - 1; s++) {
+          next = next.concat([segs[s]])
+        }
+        segs = next
+      }
     } else {
-      segs.push(p)
+      segs = segs.concat([p])
     }
   }
   let out = ''
