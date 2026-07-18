@@ -31,20 +31,18 @@ export default function run(ctx, next) {
 
   var ipfsOpts = { sources: ["inline", "manifest"], manifestPath: "assets.manifest.json" };
 
-  // Resolve/fetch before width optimize. When Kubo is down, resolve returns
-  // asset-status JSON — do not serve that as the image body.
-  var file = resolveIpfsFromGetContext(ctx, ipfsOpts);
-  if (file !== null && !isAssetStatusFile(file)) { return file; }
-
+  // Width optimize before full resolve so ?w= can WebP from cached bytes.
   var maxW = queryWidth(ctx);
   if (maxW !== null) {
     var bytes = fetchIpfsBytesFromGetContext(ctx, ipfsOpts);
-    // fetchIpfsBytes may also return an asset-status file object on error.
     if (bytes !== null && !isAssetStatusFile(bytes)) {
       var webp = optimizeRasterFromGetContext(ctx, bytes, { width: maxW });
       if (webp !== null) { return webp; }
     }
   }
+
+  var file = resolveIpfsFromGetContext(ctx, ipfsOpts);
+  if (file !== null && !isAssetStatusFile(file)) { return file; }
 
   var optimized = optimizeRasterFromGetContext(ctx);
   if (optimized !== null) { return optimized; }
