@@ -15,7 +15,7 @@ Open conspiracy-research hub that challenges mainstream paradigms across history
 <ChangeLog />
 
 !["These times are dark but every shadow, no matter how deep,
-  is threatened by morning light" - Queen Isabella, The Fountain (2006)](/influence/conspiracy/scientific_truth.jpg?w=360 '{"className":"sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"}')
+  is threatened by morning light - Queen Isabella, The Fountain, 2006](/influence/conspiracy/scientific_truth.jpg?w=360 '{"className":"sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"}')
 
 ## Paradigm Threat Project
 

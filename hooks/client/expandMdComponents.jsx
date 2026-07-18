@@ -24,13 +24,22 @@ function replaceAllLiteral(text, needle, replacement) {
 }
 
 function attrValue(tag, name) {
-  const key = name + '="'
+  const key = name + '='
   const i = tag.indexOf(key)
   if (i < 0) return ''
-  const start = i + key.length
-  const end = tag.indexOf('"', start)
-  if (end < 0) return ''
-  return tag.slice(start, end)
+  let start = i + key.length
+  let end = tag.length
+  const sp = tag.indexOf(' ', start)
+  const sc = tag.indexOf('/', start)
+  if (sp >= 0 && sp < end) end = sp
+  if (sc >= 0 && sc < end) end = sc
+  let raw = tag.slice(start, end)
+  if (raw.length >= 2) {
+    const a = raw.charAt(0)
+    const b = raw.charAt(raw.length - 1)
+    if (a === b) raw = raw.slice(1, raw.length - 1)
+  }
+  return raw
 }
 
 function parentDir(rel) {
