@@ -417,7 +417,7 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 | Change | Film | Effect on Force vs goat / MKULTRA reality | Tier |
 |--------|------|---------------------------------------------|------|
 | **Midichlorians** | Ep. I | Force reduced to **blood-count biology** instead of æther / training / will / spirituality | **Documented** (film text); **Author:** ruin |
-| **Emperor seeks resurrection / cheat death** | Ep. II–III (Palpatine / Plagueis lane) | Immortality-tech plot replaces soul-focus / Bardo-stay grammar; **becomes Ep. IX spine** | **Documented** plot; **Author:** early tell |
+| **Emperor seeks resurrection / cheat death** | Ep. II–III (Palpatine / Plagueis lane) | Immortality-tech plot replaces soul-focus / Bardo-stay framing; **becomes Ep. IX spine** | **Documented** plot; **Author:** early tell |
 | Audience revolt over “ruined Force” | Contemporary reception | Public already sensed the concept was being cheapened **in front of them** | **Documented** (reception history); motive = **Author** |
 
 **Author unpack:** The original creators / stewards of the franchise were already **wrecking the Force concept** in Ep. I–III. Many complained. The sequel trilogy did not invent the motive — it **took it to conclusion**.
@@ -427,11 +427,19 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 | Change | Film | Toward goat / MKULTRA? | Away? | Notes |
 |--------|------|------------------------|-------|-------|
 | **Mind reading / probe** reinforced | Ep. VII | **Yes — true ability** | — | Author: keep this as real-ladder reinforcement inside the reboot |
-| **Stop blaster bolt mid-air** | Ep. VII (Kylo freeze) | — | **Yes** | Spectacle freeze-frame; not quiet lethal stare / not-being-seen |
+| **Stop blaster bolt mid-air** | Ep. VII (Kylo freeze) | — | **Yes** | Comic-book / video-game stasis; breaks OT-scale **faith** that Force powers felt almost real / human-scale |
 | **Remote Force projection / appearing** — can be **fatal** to the projector | Ep. VIII (Luke at Crait) | — | **Yes** | Real far-presence / far-sense lore was not sold as suicide stagecraft |
 | **Transfer / warp objects across locations** via Force dyad | Ep. IX | — | **Yes** | Teleport-adjacent object magic; not RV / barrier-perception code |
-| **Jedi can be cloned** — ability without lived spiritual path | Ep. IX (Snoke / strand-cast grammar; clone Emperor lane) | — | **Yes** | **Detaches spirituality from ability** — opposite of æther / Bardo / abused-operator personhood |
+| **Jedi can be cloned** — ability without lived spiritual path | Ep. IX (Snoke / strand-casts; clone Emperor lane) | — | **Yes** | **Detaches spirituality from ability** — opposite of æther / Bardo / abused-operator personhood |
 | **Palpatine resurrection** as climax | Ep. IX | — | **Yes** | Pays off Ep. II–III cheat-death seed; Force as lab immortality project |
+
+**Reception rhyme (documented complaint culture — not proof of containment intent):**
+
+| Complaint | Source | What it supports |
+|-----------|--------|------------------|
+| Midichlorians take a **spiritual** Force and make it **mundane** blood-count biology; Abrams himself prefers Obi-Wan’s faith language | [IGN, 2019](https://www.ign.com/articles/2019/12/12/jj-abrams-and-daisy-ridley-on-why-there-are-no-midichlorians-in-the-star-wars-sequels) | Ep. I already broke belief OS many viewers held from OT |
+| Kylo bolt-freeze is **nonsense even in *Star Wars* physics** (plasma hanging, then resuming path); same stasis already lived in **video games** (e.g. KOTOR) | [Sci-Fi SE physics thread](https://scifi.stackexchange.com/questions/125167/was-kylo-rens-blaster-bolt-freezing-really-force-telekinesis); [ability history](https://scifi.stackexchange.com/questions/110994/have-kylo-rens-force-abilities-been-shown-before) | Unrealistic spectacle vs OT-scale believable mysticism |
+| After Ep. VIII, room summary: Lucasfilm seemed to be “**just making up new rules for the Force**” (projection + Leia space float) | [Business Insider, 2018](https://www.businessinsider.com/star-wars-the-last-jedi-how-luke-skywalker-used-force-projection-2018-1) | Faith-break / rule-inflation as public reception, not only author thesis |
 
 **Author verdict:** Ep. VII–IX **ruin the Force and the franchise with it** so the myth OS no longer points at real Jedi / psychic cadre. Disney takeover + decanon talk are symptoms of the same containment, not proof that the casting department merely failed.
 
@@ -470,7 +478,7 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 15. **2026 Iran “smash”** sits on the same long ideological arc as Abu Ghraib humiliation doctrine (author pattern link — not claimed as Ronson’s thesis).  
 16. **Everything in *Star Wars* is true** (author) — levitation; Force/æther; invisibility-as-not-seen; Obi-Wan death / Bardo-stay / guide-exception; dark-Jedi kill capability with limits.  
 17. **Child recruitment** into real Jedi training; missions framed as heroism = mostly **spy** tasking inside MKULTRA-style bubble.  
-18. ***Star Wars* franchise containment** — many hands beyond Lucas; sequel disinterest then return; Holiday Special / possible Hamill replacement; Boba Fett–class beats lifted into Ep. V without credit; long freeze to merch/games; Disney trilogy as further containment (even decanon talk); **Force ruin** from Ep. I midichlorians + Ep. II–III resurrection seed through Ep. VII–IX spectacle / clone / object-warp grammar (§5.6) — **containment strategy, not bad casting**.  
+18. ***Star Wars* franchise containment** — many hands beyond Lucas; sequel disinterest then return; Holiday Special / possible Hamill replacement; Boba Fett–class beats lifted into Ep. V without credit; long freeze to merch/games; Disney trilogy as further containment (even decanon talk); **Force ruin** from Ep. I midichlorians + Ep. II–III resurrection seed through Ep. VII–IX spectacle / clone / object-warp (§5.6) — **containment strategy, not bad casting**.  
 19. **Cadre deserve redemption while alive** — abuse victims across most of their lives; often **never understood the agenda** behind crimes committed under bubble tasking; goats product + Force-ruin films built to deny that hearing.  
 20. **McGregor casting = containment typecasting** — Obi-Wan’s actor in a Jedi-mocking comedy is not a wise artistic choice; tight reuse of space/Jedi faces for loyalty and message control (§3.8).  
 21. **Ep. VII–IX moved Force away from goat / MKULTRA reality** — mid-air bolt freeze; fatal remote projection; cross-location object transfer; Jedi cloning detaches spirituality from ability; Ep. VII mind-reading still true (§5.6).
@@ -547,7 +555,7 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 | Q17 | Any evidence Ronson was **tasked / steered** (witting CO) vs useful idiot + publisher incentives? | Contracts, editors, Channel 4 brief, Soft Skull / Picador trail — likely thin |
 | Q18 | Author’s **cadre size** (“thousands / hundreds of thousands”) — any order-of-magnitude from force structure? | INSCOM / SF / contractor headcounts — keep as **rhetoric** until numbered |
 | Q19 | McGregor casting trail — who pushed Obi-Wan’s actor into Wilton; any other Jedi/space faces in goats-adjacent reuse pool? | Casting notes; agent/studio trail; compare Clooney/Spacey/Bridges franchise adjacency |
-| Q20 | Sequel Force grammar — primary shot list for bolt-freeze, fatal projection, dyad object-transfer, clone/Snoke lanes vs OT ability map | Ep. VII–IX close read + reception “ruined Force” archive |
+| Q20 | Sequel Force changes — primary shot list for bolt-freeze, fatal projection, dyad object-transfer, clone/Snoke lanes vs OT ability map; reception archive on faith-break | Ep. VII–IX close read + midichlorian / “new rules” press |
 
 ---
 
@@ -584,7 +592,7 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 
 Keywords: #MenWhoStareAtGoats #RemoteViewing #Stargate #FirstEarthBattalion #JimChannon #JediWarrior #StarWars #PredictiveProgramming #MKULTRA #JonRonson #GeorgeClooney #EwanMcGregor #Midichlorians #SequelTrilogy #SatireShell #PsychologicalWarfare #AbuGhraib #ControlledOpposition #ParadigmThreatFiles
 
-*Last updated: 2026-07-18* (§5.6 Force ruin Ep. I–III / VII–IX; claims 18–21; article redemption landing)
+*Last updated: 2026-07-18* (§5.6 reception cites: Abrams/IGN midichlorians; SE bolt-freeze; BI “new rules”)
 
 ---
 
