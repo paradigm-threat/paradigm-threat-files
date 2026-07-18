@@ -1,9 +1,8 @@
 /**
  * Thin ChangeLog matching production tabs (Articles / Investigations / Blog / Recent).
- * Build buckets once into useState (via useEffect); tab clicks only change activeTab.
- * CleverScript: no module-level const arrays; avoid onClick closures over loop vars.
+ * Tab switches update the DOM only — CleverScript setState re-renders the whole article (~1s).
  */
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 
 function basename(path) {
@@ -23,7 +22,6 @@ function classifyPath(path) {
   return 'article'
 }
 
-/** Take up to `limit` newest paths without a full O(n²) sort of the whole list. */
 function takeNewestByPath(rows, limit) {
   let best = []
   for (let i = 0; i < rows.length; i++) {
@@ -84,23 +82,70 @@ function buildBuckets(rows, limit) {
   }
 }
 
-function emptyBuckets() {
-  return {
-    articles: [],
-    investigations: [],
-    blog: [],
-    recent: [],
+function listItems(rows, limit, tabId) {
+  const lim = rows.length < limit ? rows.length : limit
+  let items = []
+  for (let j = 0; j < lim; j++) {
+    const p = rowPath(rows[j])
+    const title = rowTitle(rows[j])
+    const href = siteHref('/' + p)
+    items = items.concat([
+      <li key={'cl-' + tabId + '-' + j} className="pt-changelog-item">
+        <a href={href}>{title}</a>
+      </li>,
+    ])
   }
+  return items
 }
 
-function tabClass(activeTab, id) {
-  if (activeTab === id) return 'pt-changelog-tab pt-changelog-tab-active'
-  return 'pt-changelog-tab'
+function panelBody(rows, limit, tabId) {
+  const items = listItems(rows, limit, tabId)
+  if (items.length === 0) {
+    return <p className="pt-muted pt-changelog-status">No indexed items in this tab.</p>
+  }
+  return (
+    <ul className="pt-changelog-list" role="tabpanel">
+      {items}
+    </ul>
+  )
 }
 
-function tabSelected(activeTab, id) {
-  if (activeTab === id) return 'true'
-  return 'false'
+/** Swap visible panel without React setState (avoids full markdown re-render). */
+function activateTab(tabId) {
+  try {
+    const root = document.querySelector('.pt-changelog')
+    if (!root) return
+    const tabs = root.querySelectorAll('[data-changelog-tab]')
+    for (let i = 0; i < tabs.length; i++) {
+      const btn = tabs[i]
+      let id = ''
+      try {
+        id = btn.getAttribute('data-changelog-tab') || ''
+      } catch (e) {}
+      const on = id === tabId
+      btn.className = on ? 'pt-changelog-tab pt-changelog-tab-active' : 'pt-changelog-tab'
+      try {
+        btn.setAttribute('aria-selected', on ? 'true' : 'false')
+      } catch (e2) {}
+    }
+    const panels = root.querySelectorAll('[data-changelog-panel]')
+    for (let j = 0; j < panels.length; j++) {
+      const panel = panels[j]
+      let pid = ''
+      try {
+        pid = panel.getAttribute('data-changelog-panel') || ''
+      } catch (e3) {}
+      const show = pid === tabId
+      try {
+        if (show) panel.removeAttribute('hidden')
+        else panel.setAttribute('hidden', 'hidden')
+      } catch (e4) {
+        try {
+          panel.hidden = !show
+        } catch (e5) {}
+      }
+    }
+  } catch (e6) {}
 }
 
 export default function ChangeLog(props) {
@@ -109,91 +154,66 @@ export default function ChangeLog(props) {
     if (props && typeof props.limit === 'number' && props.limit > 0) limit = props.limit
   } catch (e) {}
 
-  const [activeTab, setActiveTab] = useState('articles')
-  // null = not stored yet (CleverScript useState only seeds while value is Null)
-  const [buckets, setBuckets] = useState(null)
-
-  useEffect(() => {
-    if (buckets !== null) return
-    setBuckets(buildBuckets(loadArticleRows(400), limit))
-  }, [])
-
-  // SSR / first paint: compute once for display. After useEffect, buckets is state — tab clicks skip rebuild.
-  let view = buckets
-  if (view === null) {
-    view = buildBuckets(loadArticleRows(400), limit)
-  }
-
-  let panel = []
-  if (activeTab === 'articles') panel = view.articles
-  else if (activeTab === 'investigations') panel = view.investigations
-  else if (activeTab === 'blog') panel = view.blog
-  else panel = view.recent
-
-  const lim = panel.length < limit ? panel.length : limit
-  let items = []
-  for (let j = 0; j < lim; j++) {
-    const p = rowPath(panel[j])
-    const title = rowTitle(panel[j])
-    const href = siteHref('/' + p)
-    items = items.concat([
-      <li key={'cl-' + activeTab + '-' + j} className="pt-changelog-item">
-        <a href={href}>{title}</a>
-      </li>,
-    ])
-  }
+  const buckets = buildBuckets(loadArticleRows(400), limit)
 
   return (
     <section className="pt-changelog" aria-label="Change log">
       <div className="pt-changelog-toolbar" role="tablist" aria-label="Content kind">
         <button
           type="button"
-          className={tabClass(activeTab, 'articles')}
-          aria-selected={tabSelected(activeTab, 'articles')}
+          className="pt-changelog-tab pt-changelog-tab-active"
+          data-changelog-tab="articles"
+          aria-selected="true"
           onClick={() => {
-            setActiveTab('articles')
+            activateTab('articles')
           }}
         >
           Articles
         </button>
         <button
           type="button"
-          className={tabClass(activeTab, 'investigations')}
-          aria-selected={tabSelected(activeTab, 'investigations')}
+          className="pt-changelog-tab"
+          data-changelog-tab="investigations"
+          aria-selected="false"
           onClick={() => {
-            setActiveTab('investigations')
+            activateTab('investigations')
           }}
         >
           Investigations
         </button>
         <button
           type="button"
-          className={tabClass(activeTab, 'blog')}
-          aria-selected={tabSelected(activeTab, 'blog')}
+          className="pt-changelog-tab"
+          data-changelog-tab="blog"
+          aria-selected="false"
           onClick={() => {
-            setActiveTab('blog')
+            activateTab('blog')
           }}
         >
           Blog
         </button>
         <button
           type="button"
-          className={tabClass(activeTab, 'recent')}
-          aria-selected={tabSelected(activeTab, 'recent')}
+          className="pt-changelog-tab"
+          data-changelog-tab="recent"
+          aria-selected="false"
           onClick={() => {
-            setActiveTab('recent')
+            activateTab('recent')
           }}
         >
           Recent
         </button>
       </div>
-      {items.length === 0 ? (
-        <p className="pt-muted pt-changelog-status">No indexed items in this tab.</p>
-      ) : (
-        <ul className="pt-changelog-list" role="tabpanel">
-          {items}
-        </ul>
-      )}
+      <div data-changelog-panel="articles">{panelBody(buckets.articles, limit, 'articles')}</div>
+      <div data-changelog-panel="investigations" hidden>
+        {panelBody(buckets.investigations, limit, 'investigations')}
+      </div>
+      <div data-changelog-panel="blog" hidden>
+        {panelBody(buckets.blog, limit, 'blog')}
+      </div>
+      <div data-changelog-panel="recent" hidden>
+        {panelBody(buckets.recent, limit, 'recent')}
+      </div>
     </section>
   )
 }
