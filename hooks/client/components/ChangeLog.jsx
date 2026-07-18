@@ -1,9 +1,9 @@
 /**
  * Thin ChangeLog matching production tabs (Articles / Investigations / Blog / Recent).
- * Buckets are built once per page (useRef); tab clicks only swap the panel list.
+ * Build buckets once into useState (via useEffect); tab clicks only change activeTab.
  * CleverScript: no module-level const arrays; avoid onClick closures over loop vars.
  */
-import React, { useState, useRef } from 'react'
+import React, { useState, useEffect } from 'react'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 
 function basename(path) {
@@ -71,7 +71,6 @@ function buildBuckets(rows, limit) {
     else if (kind === 'investigation') investigations = investigations.concat([rows[i]])
     else if (kind === 'article') articles = articles.concat([rows[i]])
   }
-  // Only keep what the UI shows (+ a little headroom) — avoids sorting hundreds of rows.
   const keep = limit + 8
   articles = takeNewestByPath(articles, keep)
   investigations = takeNewestByPath(investigations, keep)
@@ -111,23 +110,25 @@ export default function ChangeLog(props) {
   } catch (e) {}
 
   const [activeTab, setActiveTab] = useState('articles')
-  // useRef box is created once (CleverScript keeps the first non-null slot).
-  // Mutate through a `let` alias — assigning fields on a `const` binding throws.
-  const cacheRef = useRef({ ready: false, buckets: emptyBuckets() })
-  let box = cacheRef.current
-  if (box && box.ready !== true) {
-    let built = buildBuckets(loadArticleRows(400), limit)
-    box.buckets = built
-    box.ready = true
+  // null = not stored yet (CleverScript useState only seeds while value is Null)
+  const [buckets, setBuckets] = useState(null)
+
+  useEffect(() => {
+    if (buckets !== null) return
+    setBuckets(buildBuckets(loadArticleRows(400), limit))
+  }, [])
+
+  // SSR / first paint: compute once for display. After useEffect, buckets is state — tab clicks skip rebuild.
+  let view = buckets
+  if (view === null) {
+    view = buildBuckets(loadArticleRows(400), limit)
   }
-  let buckets = emptyBuckets()
-  if (box && box.buckets) buckets = box.buckets
 
   let panel = []
-  if (activeTab === 'articles') panel = buckets.articles
-  else if (activeTab === 'investigations') panel = buckets.investigations
-  else if (activeTab === 'blog') panel = buckets.blog
-  else panel = buckets.recent
+  if (activeTab === 'articles') panel = view.articles
+  else if (activeTab === 'investigations') panel = view.investigations
+  else if (activeTab === 'blog') panel = view.blog
+  else panel = view.recent
 
   const lim = panel.length < limit ? panel.length : limit
   let items = []

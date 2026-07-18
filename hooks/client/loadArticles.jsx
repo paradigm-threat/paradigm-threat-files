@@ -84,17 +84,41 @@ function rowsFromNavText(text) {
   return out
 }
 
+function readNavCache() {
+  try {
+    if (typeof localStorage !== 'undefined' && localStorage.getItem) {
+      const t = localStorage.getItem('pt-nav-index-txt')
+      if (typeof t === 'string' && t.length > 0) return t
+    }
+  } catch (e) {}
+  return ''
+}
+
+function writeNavCache(text) {
+  try {
+    if (typeof localStorage !== 'undefined' && localStorage.setItem && text && text.length > 0) {
+      localStorage.setItem('pt-nav-index-txt', text)
+    }
+  } catch (e) {}
+}
+
 /**
  * Article index for Index / Home.
  * Prefer nav-index.txt (TSV) so SSR + browser hydrate match without JSON.parse
  * or QUERY (browser sync XHR historically dropped QUERY bodies).
+ * Browser: cache raw TSV in localStorage so tab re-renders do not re-fetch.
  */
 export function loadArticleRows(limit) {
   let lim = 48
   if (typeof limit === 'number' && limit > 0) lim = limit
   const base = clientBase()
   const navUrl = base.length > 0 ? base + '/nav-index.txt' : '/nav-index.txt'
-  let rows = rowsFromNavText(tryGetText(navUrl))
+  let text = readNavCache()
+  if (!text || text.length === 0) {
+    text = tryGetText(navUrl)
+    if (text && text.length > 0) writeNavCache(text)
+  }
+  let rows = rowsFromNavText(text)
   if (rows.length === 0) {
     // Legacy JSON fallback when txt missing (requires JSON in module env).
     const jsonUrl = base.length > 0 ? base + '/nav-index.json' : '/nav-index.json'

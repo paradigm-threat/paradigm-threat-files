@@ -18,6 +18,15 @@ function EmptyMdStub() {
   return <span className="pt-md-stub" aria-hidden="true" />
 }
 
+/** Module-level so override identity stays stable across parent re-renders (avoids remounting ChangeLog). */
+function renderChangeLog(p) {
+  let lim = 16
+  try {
+    if (p && typeof p.limit === 'number' && p.limit > 0) lim = p.limit
+  } catch (e) {}
+  return <ChangeLog limit={lim} />
+}
+
 function str(v) {
   if (v === null) return ''
   if (typeof v === 'boolean') {
@@ -189,14 +198,6 @@ export default function ArticleView(props) {
       if (p && typeof p.sort === 'string') sortAttr = p.sort
     } catch (e) {}
     return <AutoIndex path={pathAttr} sort={sortAttr} currentPath={pathPart} />
-  }
-
-  function renderChangeLog(p) {
-    let lim = 16
-    try {
-      if (p && typeof p.limit === 'number' && p.limit > 0) lim = p.limit
-    } catch (e) {}
-    return <ChangeLog limit={lim} />
   }
 
   return (
