@@ -1,7 +1,7 @@
 /**
  * Thin ChangeLog matching production tabs (Articles / Investigations / Blog / Recent).
- * CSS radio tabs — no setState (avoids ~1s full markdown re-render) and no document APIs
- * (CleverScript click handlers do not receive the DOM event).
+ * CSS radio + :has() tabs (styles inlined — theme styler drops complex selectors).
+ * No setState: CleverScript setState re-renders the full markdown article (~1s).
  */
 import React from 'react'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
@@ -111,6 +111,21 @@ function panelBody(rows, limit, tabId) {
   )
 }
 
+function tabCss() {
+  return (
+    '.pt-changelog-panel{display:none;flex-direction:column;min-height:0;flex:1;overflow:hidden;}' +
+    '.pt-changelog:has(#pt-cl-articles:checked) .pt-changelog-panel-articles{display:flex;}' +
+    '.pt-changelog:has(#pt-cl-investigations:checked) .pt-changelog-panel-investigations{display:flex;}' +
+    '.pt-changelog:has(#pt-cl-blog:checked) .pt-changelog-panel-blog{display:flex;}' +
+    '.pt-changelog:has(#pt-cl-recent:checked) .pt-changelog-panel-recent{display:flex;}' +
+    '.pt-changelog:has(#pt-cl-articles:checked) .pt-changelog-tab-articles,' +
+    '.pt-changelog:has(#pt-cl-investigations:checked) .pt-changelog-tab-investigations,' +
+    '.pt-changelog:has(#pt-cl-blog:checked) .pt-changelog-tab-blog,' +
+    '.pt-changelog:has(#pt-cl-recent:checked) .pt-changelog-tab-recent{' +
+    'color:var(--foreground,#e2e8f0);border-color:var(--primary,#818cf8);background:var(--secondary,#1e293b);}'
+  )
+}
+
 export default function ChangeLog(props) {
   let limit = 16
   try {
@@ -121,12 +136,13 @@ export default function ChangeLog(props) {
 
   return (
     <section className="pt-changelog" aria-label="Change log">
+      <style>{tabCss()}</style>
       <input
         type="radio"
         name="pt-changelog-tab"
         id="pt-cl-articles"
         className="pt-changelog-radio"
-        defaultChecked
+        checked={true}
       />
       <input
         type="radio"

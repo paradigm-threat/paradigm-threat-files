@@ -651,22 +651,6 @@ themes:
         backgroundColor: "transparent"
         color: "var(muted)"
         cursor: "pointer"
-      ".pt-changelog:has(#pt-cl-articles:checked) .pt-changelog-tab-articles":
-        color: "var(foreground)"
-        borderColor: "var(primary)"
-        backgroundColor: "var(secondary)"
-      ".pt-changelog:has(#pt-cl-investigations:checked) .pt-changelog-tab-investigations":
-        color: "var(foreground)"
-        borderColor: "var(primary)"
-        backgroundColor: "var(secondary)"
-      ".pt-changelog:has(#pt-cl-blog:checked) .pt-changelog-tab-blog":
-        color: "var(foreground)"
-        borderColor: "var(primary)"
-        backgroundColor: "var(secondary)"
-      ".pt-changelog:has(#pt-cl-recent:checked) .pt-changelog-tab-recent":
-        color: "var(foreground)"
-        borderColor: "var(primary)"
-        backgroundColor: "var(secondary)"
       ".pt-changelog-status":
         margin: "0.5rem 0"
         fontSize: "0.875rem"
@@ -677,20 +661,6 @@ themes:
         overflowY: "auto"
         minHeight: 0
         flex: 1
-      ".pt-changelog-panel":
-        display: "none"
-        flexDirection: "column"
-        minHeight: 0
-        flex: 1
-        overflow: "hidden"
-      ".pt-changelog:has(#pt-cl-articles:checked) .pt-changelog-panel-articles":
-        display: "flex"
-      ".pt-changelog:has(#pt-cl-investigations:checked) .pt-changelog-panel-investigations":
-        display: "flex"
-      ".pt-changelog:has(#pt-cl-blog:checked) .pt-changelog-panel-blog":
-        display: "flex"
-      ".pt-changelog:has(#pt-cl-recent:checked) .pt-changelog-panel-recent":
-        display: "flex"
       ".pt-changelog-item":
         margin: "0 0 0.4rem"
         fontSize: "0.875rem"
