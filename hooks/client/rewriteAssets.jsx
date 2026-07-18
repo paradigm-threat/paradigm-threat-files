@@ -4,7 +4,9 @@
  * binary mirror (same corpus paths) and strip Relay `?w=` width queries.
  */
 
-export const ASSET_MIRROR_BASE = 'https://paradigm-threat-files-69f9dc.gitlab.io'
+function assetMirrorBase() {
+  return 'https://paradigm-threat-files-69f9dc.gitlab.io'
+}
 
 function isRasterPath(path) {
   if (!path || typeof path !== 'string') return false
@@ -32,12 +34,12 @@ function stripQuery(path) {
 }
 
 /**
- * Rewrite `](/path.jpg?w=360…)` (and `](http…paradigmthreat…/path.jpg?w=)`)
+ * Rewrite `](/path.jpg?w=360…)` (and same-site absolute rasters)
  * to the GitLab Pages mirror without width query.
  */
 export function rewriteMarkdownAssetUrls(md, mirrorBase) {
   if (!md || typeof md !== 'string') return ''
-  let mirror = ASSET_MIRROR_BASE
+  let mirror = assetMirrorBase()
   if (typeof mirrorBase === 'string' && mirrorBase.length > 0) mirror = mirrorBase
   while (mirror.length > 0 && mirror.charAt(mirror.length - 1) === '/') {
     mirror = mirror.slice(0, mirror.length - 1)
@@ -64,7 +66,6 @@ export function rewriteMarkdownAssetUrls(md, mirrorBase) {
     let rewritten = url
     let path = url
     if (path.indexOf('://') >= 0) {
-      // Absolute — only rewrite same-site / known files hosts to the mirror.
       const markers = [
         'paradigmthreat.net/',
         'paradigm-threat-files.dfw1.relaygateway.net/',
