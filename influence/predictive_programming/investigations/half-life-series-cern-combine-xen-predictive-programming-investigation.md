@@ -1,38 +1,56 @@
-# *Half-Life* series — CERN parallels, Combine/Borg grammar, Xen, and predictive programming (open)
+# *Half-Life* series — Xen/CERN portals, Combine warning, NSA camp, and sequel containment (open)
 
-> **TL;DR:** Valve’s ***Half-Life*** lineage (**1998–2020+**) foregrounds **resonance cascades**, **portal transit** to the border-world **Xen**, and an **interdimensional empire** (**Combine**) whose occupation grammar mirrors **assimilatory SF villains** (e.g. **Borg**). ***Half-Life* (1998)** is **directly inspired by real portal cosmology** — **Black Mesa** ≈ buried ring lab; **Lambda** teleporters ≈ gate hardware — while **withholding where Xen actually is**. **Xen** is a **semi-realistic render of gas-giant interiors** (**Jupiter, Saturn, Uranus, Neptune**): **hollow** shells, **orange plasma sky**, fog, and **hard-rock floating islands** that are **captured small planets and moons** serving as **quantum portal endpoints** inside the giant. Canon copy places Xen in a **border dimension** or **another universe** — **misdirection** so players do not map the level art onto **nearby solar-system giants**. **Transhumanism** is staged as **trade**; **ecocide** as drained coasts and resource theft. **Cross-ref:** [Predictive programming hub](../page.md) | [CERN–Mars dossier](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) | [Hollow planets](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md).
+> **TL;DR:** Valve’s ***Half-Life*** lineage (**1998–2020+**): **HL1** = accelerator / **Xen** portal realism + standard portal-accident PP. **HL2 only** = **NSA-aligned** grounded warning (benefactors, industrial portals, water→Mars, G-Man good actor). **Ep1+ / Epistle 3 / *Alyx*** = **containment**. **Author conclusion:** Laidlaw’s sole-writer HL2 vision was **swapped**; **2016** severing (“not in my hands”); **2017** Epistle 3 time-missile dump he owns only as **fanfic/dream** — and **“genderswapped”** is his **political code word** for that dump (not a throwaway joke). Twin: [*Children of Men*](children-of-men-nsa-warning-predictive-programming-investigation.md). **Cross-ref:** [PP hub](../page.md) | [CERN–Mars](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) | [Philadelphia stasis](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md#84-frozen-soldiers--stasis-fields-and-permanent-freeze-until-thaw-pp-feasibility-clue) | [two-camp](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md).
 
-**Status:** Open — franchise lore is **secondary-sourced** (wiki/developer commentary); **no** claim Valve consulted CERN internal documents.
+**Date:** 2026-07-18  
+**Status:** Open — franchise lore secondary-sourced; camp / containment = author interpretive; **no** claim Valve consulted CERN or intel sponsors.
 
-**Guide (read order)**
+**Redaction vocabulary:** [`docs/REDACTION.md`](/docs/REDACTION.md) — sequel/time-travel deposit ≈ **R6** when it replaces place-routing realism; Epistle 3 / *Alyx* chronology rewrite = **inferred** containment (author).
 
-1. Documented fiction beats (short) → §1  
-2. Author’s originating thesis (portal realism) → §2  
-3. **Xen = gas-giant interior; captured moons = portal nodes; location misdirection** → §2.1  
-4. CERN / portal / teleport PP lane (repo context) → §3  
-5. Transhumanism + ecocide in-setting → §4  
-6. Combine-type assimilation — comparative table → §5  
-7. Open questions → §6  
+**Stub note:** Former standalone path [`half-life-2-nsa-combine-warning-containment-investigation.md`](half-life-2-nsa-combine-warning-containment-investigation.md) redirects here (§6+).
+
+---
+
+## Guide (read order)
+
+1. Documented fiction beats → §1  
+2. Author thesis — portal / Xen realism → §2–§2.1  
+3. CERN / portal PP lane → §3  
+4. Transhumanism + water / ocean / Mars → §4  
+5. Combine-type assimilation table → §5  
+6. **Author thesis — HL2 NSA warning** → §6  
+7. Production / motivation citations → §7  
+8. HL1 vs HL2 — trope vs warning → §8  
+9. Portal realism vs *Portal* satire → §9  
+10. Benefactors / harvest stakes → §10  
+11. G-Man as good actor → §11  
+12. Philadelphia — slow future teleport → §12  
+13. **Containment:** Episodes, Epistle 3, *Alyx* → §13 (Laidlaw → §13.0; **author conclusion** → §13.5)  
+14. Author’s open claims → §14  
+15. Questions / TODOs → §15–§16  
+16. Related → §17  
 
 ---
 
 ## 1. Documented fiction beats (summary)
 
-**Tier:** mainstream encyclopedia + Valve wiki — **secondary**, not primary design documents.
+**Tier:** shipped games + design book + Laidlaw leak — wiki as navigation; prefer primaries in §7.
 
-| Work | Beats relevant to this dossier |
-|------|--------------------------------|
-| *Half-Life* (1998) | **Black Mesa** underground lab; **resonance cascade**; **Lambda** teleporter complex; transit to **Xen**; military containment. Lore labels Xen a **border dimension** / not our universe — **misdirection** read in §2.1 ([*Half-Life* — setting](https://en.wikipedia.org/wiki/Half-Life_(video_game)); [Xen — Combine OverWiki](https://combineoverwiki.net/wiki/Xen)). |
-| *Half-Life 2* (2004) | **Combine** occupation of Earth; **Citadel**; **suppression field**; **Stalkers** and other **cyborg** labor; **Dr. Breen** as collaborator face of empire; **water** and environmental ruin as part of occupied Earth’s condition ([*Half-Life 2*](https://en.wikipedia.org/wiki/Half-Life_2); [Combine — franchise summary](https://combineoverwiki.net/wiki/Combine)). |
-| Episodes / *Alyx* | Continuation of Combine **extraction** and **infrastructure** themes; VR emphasis on **scale** of alien tech. |
-| **Marc Laidlaw — "Epistle 3" (2017)** | Leaked *Half-Life 2: Episode 3* plot: **Borealis** **phases in/out** at Combine lens; **Bootstrap Device** (Aperture dry dock) — self-contained field, **instant jump without entry/exit portals**; device **"travelled in time as well as space"**; timeloops; **time-travelling missile** ([Epistle 3](http://www.marclaidlaw.com/epistle-3/); [Steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1119543547)). |
-| ***Portal* / *Portal 2*** (2007–2011) | **Aperture** circular test chambers; energy rings open **instant** traversable holes — satire of ring-lab portal grammar. |
+| Work | Year | Beats relevant to this dossier |
+|------|------|--------------------------------|
+| *Half-Life* | 1998 | **Black Mesa**; **resonance cascade**; **Lambda** teleporters; transit to **Xen**; G-Man “hire” / stasis; military containment. Lore labels Xen a **border dimension** — **misdirection** read in §2.1 ([*Half-Life*](https://en.wikipedia.org/wiki/Half-Life_(video_game)); [Xen — OverWiki](https://combineoverwiki.net/wiki/Xen)). |
+| *Half-Life 2* | 2004 | **Combine** occupation; Breen **“Our Benefactors”**; Citadel; Striders; Coast / drained harbors; suppression field; Stalkers; Resistance; G-Man reclaim ([*Half-Life 2*](https://en.wikipedia.org/wiki/Half-Life_2); [Combine](https://combineoverwiki.net/wiki/Combine)). |
+| *HL2: Episode One* | 2006 | **Retcon open:** Vortigaunts free Gordon + save Alyx from HL2 Citadel freeze; G-Man influence interrupted ([writers](https://www.fandom.com/articles/half-life-alyxs-ending)) |
+| *HL2: Episode Two* | 2007 | Borealis / Aperture seed; Eli death cliffhanger; Advisors |
+| Laidlaw **Epistle 3** | 2017 | Leaked Ep3 outline: Borealis phases; Bootstrap Device; **time + space**; gender-swapped letter ([Wayback](https://web.archive.org/web/20170825025137/http:/www.marclaidlaw.com/epistle-3/); [Valve Archive](https://valvearchive.com/laidlaw-vault/epistle-three/)) |
+| *Half-Life: Alyx* | 2020 | VR-only launch; Vault holds **G-Man**; ending **rewrites** Ep2 — Eli lives, Alyx taken into stasis |
+| ***Portal* / *Portal 2*** | 2007–2011 | Aperture circular chambers; instant traversable holes — satire of ring-lab portal grammar |
 
-**Terminology note:** The border dimension is canonically [**Xen**](https://combineoverwiki.net/wiki/Xen) (also styled *Xen* in subtitles). English speakers often mishear it as **“Zen.”** This file uses **Xen** throughout.
+**Terminology:** Canon border world is [**Xen**](https://combineoverwiki.net/wiki/Xen) (often misheard “Zen”). This file uses **Xen** throughout.
 
 ---
 
-## 2. Author’s originating thesis
+## 2. Author’s originating thesis — portal / Xen realism
 
 > **Portal / CERN realism:** *Half-Life* (1998) is **among the most realistic game depictions** of how **actual portal infrastructure** behaves — underground accelerator accident, **resonance cascade**, **instant** Lambda jumps, unstable bridges — parallel to **[CERN](/cosmos/mars/page.md#how-do-humans-travel-to-and-from-mars)** and **[CERN–Mars gateway](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md)** framing in this repository. The game shows **the mechanics** and **the destination ecology** without naming **which body** Xen maps onto (§2.1).
 >
@@ -95,34 +113,34 @@ If audiences accept **“Xen = alien dimension far away”**, they will not reco
 
 **Documented (site-internal):** The **[Mars hub](/cosmos/mars/page.md)** treats large colliders as **loci for extreme energy** and **quantum-tunnel** rhetoric tied to **interplanetary gates** and **CERN** imagery (including **FCC** scaling). That material is **hypothesis-tier** physics and **not** peer-reviewed closure; it **rhymes** with *Half-Life*’s **underground accelerator accident → permanent portal instability** plot.
 
-**Speculative PP read:** If audiences accept **“ accelerator opens door”** as **pure fiction**, real facility expansions feel **less uncanny** when reported in **Nature** or **press**—classic **familiarization** logic per [PP hub definition](../page.md).
+**Speculative PP read:** If audiences accept **“accelerator opens door”** as **pure fiction**, real facility expansions feel **less uncanny** when reported in **Nature** or **press**—classic **familiarization** logic per [PP hub definition](../page.md).
 
-### 3.1 Epistle 3 / Borealis — oscillating gate + Bootstrap Device
-
-**Source tier:** **Published author leak** (Laidlaw blog, 2017) — **not** shipped game canon.
-
-**Charge-to-critical / space-routing beats:**
-
-- **Borealis** appears as **"vast hologram fading in and out"** — **oscillating gate**, not a steady door; Combine erected compound to **seize ship when materialized** ([Epistle 3](http://www.marclaidlaw.com/epistle-3/)).
-- **Bootstrap Device:** field **large enough to surround the ship**; **"entirely self-contained"**; **"travel instantaneously to any chosen destination without having to cover the intervening space"** — **no entry/exit portals**; activated under invasion, flung toward **Arctica**.
-- Rhymes **opposition-window** / **unstable tunnel** grammar in [CERN dossier §3](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) and **1943 Philadelphia** ship jump ([Philadelphia investigation](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md)).
-
-**Time-travel deposit in same leak:**
-
-- Device **"travelled in time as well as space"**; Borealis stretched **"as an elastic band"** across **Lake Huron ↔ Arctic ↔ Combine staging worlds**; **timeloops**, **"time-travelling missile"** finale.
-- **Author read:** **Both** accurate **place-routing** vocabulary **and** explicit **chronology misread** in one plot — same **R6 deposit** pattern as *Philadelphia Experiment* (1984 film) and *Montauk Project* title ([Philadelphia §5](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md)).
-
-**Cross-ref:** [Part A reader essay](/science/cern_portal/out-of-this-door-might-come-something.md) · [Part B reader essay](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md).
+**Epistle 3 / Borealis (place-routing layer only):** Laidlaw’s 2017 leak describes Borealis as an **oscillating** ship-scale gate and a **Bootstrap Device** that jumps **without entry/exit portals** — Philadelphia / CERN rhyme. Full text, **time-travel deposit**, and **containment** read → **§13**. Primaries: [Epistle 3 Wayback](https://web.archive.org/web/20170825025137/http:/www.marclaidlaw.com/epistle-3/) · [Philadelphia](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) · [Part A](/science/cern_portal/out-of-this-door-might-come-something.md) · [Part B](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md).
 
 ---
 
-## 4. Transhumanism and environmental ruin (fiction-layer)
+## 4. Transhumanism, water teleport, ocean infestation (fiction-layer + author Mars)
 
 **Documented pattern in lore summaries:** Combine forces use **human modification** (**Stalkers**, **Overwatch** aesthetics, **Advisor** dependency) and **technocratic management** of populations; **suppression field** alters **biology at civilization scale** ([Combine — OverWiki](https://combineoverwiki.net/wiki/Combine)).
 
-**Ecocide texture:** The **City 17** region and expanded lore emphasize **toxic** landscape, **industrial drainage**, and **resource extraction** tonality—**water stress** and dead ecosystem reads are **standard critical readings** of the art direction ([*Half-Life 2* — reception/world](https://en.wikipedia.org/wiki/Half-Life_2)).
+### 4.1 Water teleport → dry coasts
 
-**Cross-link:** [AI control investigation](/science/ai/ai-control-investigation.md) — **machine reliance**, **ghost-in-machine** governance tropes.
+| Layer | Content | Tier |
+|-------|---------|------|
+| **Shipped art** | Receded coast, stranded vessels, dry docks (Highway 17 / Sandtraps / canals); moss lines above current water | **Documented** |
+| **Raising the Bar** | Giant Combine **“drain”** = **teleporter** sending water to **other Combine-enslaved worlds** | **Documented (design book via secondary)** — [OverWiki](https://combineoverwiki.net/wiki/Combine) / [HL Wiki](https://half-life.fandom.com/wiki/Combine) |
+| **Cut concept** | Dried seafloor, whale bones, Aral Sea rhyme | **B** |
+| **Author** | Recipient = **Mars** (water-starved branch of same harvest economy) | **Author / Speculative** |
+
+**Pattern family:** Dying-planet **hydrology theft** — [spore / *Burning World* lane](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md); Wells WOTW resource invasion.
+
+### 4.2 Ocean infestation / spore ecology rhyme
+
+**Documented:** Xen wildlife on Coast; antlions; *Lost Coast* Fisherman — no fish, only **leeches** that devour anyone entering the water ([Combine lore](https://half-life.fandom.com/wiki/Combine)).
+
+**Author:** Alien marine life **kills Earth life** — same **invasive biological shock** family as [American chestnut blight / Martian cylinder](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md) and Wells **red weed**.
+
+**Cross-link:** [AI control investigation](/science/ai/ai-control-investigation.md) — machine reliance, ghost-in-machine governance tropes.
 
 ---
 
@@ -146,56 +164,318 @@ If audiences accept **“Xen = alien dimension far away”**, they will not reco
 
 ---
 
-## 6. Questions to clarify, verify, or debunk
+## 6. Author’s originating thesis — HL2 NSA warning
 
-| Question | Target |
-|----------|--------|
-| Did **Marc Laidlaw** / team cite **CERN** or **particle** facilities in interviews? | **Primary** interviews, *Raising the Bar*, commentary tracks |
-| Art direction sources for **Xen** — gas-giant interior, cloud decks, floating rock | **Concept art** pipeline; compare **Juno / Cassini** interior-atmosphere rhetoric |
-| Who first framed Xen as **border dimension** vs **in-system giant** in design docs? | Wiki cites vs **primary** script / *Half-Life* Bible if released |
-| Combine **water** / resource rhetoric — **exact** in-game datelines vs fan extrapolation | Script dumps / wiki citations to **primary** lines |
+**Author (verbatim capture, 2026-07-18):**
+
+> HL1 appears to be a pretty standard predictive programming game with a common trope of ‘something came through the portal we opened’. HL2 was a major revision occurring in the future with an alien invasion well under way. I believe HL2 only is NSA aligned in a major way. It reveals a real threat — harvesting borg-like aliens who are acting like our benefactors. It shows portal technology as it really works, rather than hokey technology like in portal games. It mentions themes of genocide and earth resistance, and shows martian style tripods. It pushes the boundaries of horror not as a genre, but as a warning that such horrors can land on the earth we know. It shows aliens sucking resources from earth, even infesting the ocean with alien life that kills earth life. Similar to my theory on the fungi spread that killed the chestnuts. It seems to show a plot where water is transferred to another planet that needs it (Mars) causing our ocean levels to drop. It shows the Gman might be good (NSA aligned good actor) trying to fight the covert evil by any means necessary and having major influence over our government.
+>
+> Half-Life 2 episode 1 and beyond represent 100% containment. The ending of HL2 was changed completely — Alex survives, Gordon isn’t controlled by Gman anymore. Very anti pattern. Worst offender was the Borealis subplot that was never finished — it introduced time travel into the past in an otherwise very realistic physics game. Suddenly the Gman was a time traveler who could change the future or the past. I figure when the devs found out about the real plot in ep3, the entire project fell apart. It was revealed in a letter about 10 years ago and turns out the plot is absolutely terrible compared to what HL2 set up. So that’s containment. The Alex game only available on VR was MORE containment — only certain rich kids could even play it. It tied the time travel plot together.
+>
+> Note in my Philadelphia project investigation that a ‘very slow teleport’ into the future is possible and demonstrated in that experiment.
+>
+> To me this game stood out because unlike other games, it felt extremely grounded, but a real need to warn us about a potential future, similar to Children of Men, which we’re investigating next.
+
+**What they mean (unpack):**
+
+| Author stake | Pattern read |
+|--------------|--------------|
+| **HL1 = standard PP** | Accelerator accident → incursion — familiarization trope |
+| **HL2 = NSA-aligned warning** | Occupation already won; “benefactors”; harvest; grounded Earth horror — [two-camp](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) **unity / common-foe / audit** lane rhyme with *ID4* |
+| **Portal realism** | Industrial place-routing, not *Portal*’s cartoon holes |
+| **Water → dry planet** | Teleport drain of oceans → **Mars water need** (author destination; design docs say “other Combine worlds”) |
+| **Ocean biota kill** | Same **invasive ecology** family as [chestnut / spore](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md) |
+| **G-Man = good actor** | Covert operator with government reach; stasis/hire grammar; may oppose Combine “plan” |
+| **Ep1+ = containment** | Ending rewrite; Borealis **time** deposit; Epistle 3 quality collapse; *Alyx* VR + timeline rewrite |
+| **Philadelphia slow future teleport** | Stasis / Deep Freeze outcome = arrive in a later calendar without Wells time machine (§12) |
+
+**Separation rule:** §1 / §3–§5 / §7 mark **Documented** where sourced. §2 / §6 / §11–§14 carry **Author** and **Speculative** labels. Author stakes stay first-class; they are **not** auto-factual.
 
 ---
 
-## 7. Weak points / remaining research TODOs
+## 7. Production / motivation citations (deep dive)
 
-- [ ] Pull **verbatim** developer quotes on **portal** science inspiration  
-- [ ] Add **primary** citations for **ecological** readings (drainage / coast levels) if script confirms  
-- [ ] Optional: link **Episode Two** ** Advisors** / **moss** ecology beats if expanding §4  
+**Question:** What did the makers say they were trying to *do*? What message is **documentable** vs **author pattern-read**?
+
+### 7.1 Marc Laidlaw — world expansion, atmosphere, not a pamphlet
+
+| Claim | Source | Tier |
+|-------|--------|------|
+| HL1 was **not** designed as a series world; HL2’s first task was to **create a new world** that still flows from Black Mesa | Laidlaw interview, [Game Developer / Gamasutra, 2003](https://www.gamedeveloper.com/design/marc-laidlaw-on-story-and-narrative) | **A** |
+| Lived by Poe’s **“Totality of Effect”** and Tiptree’s **“Start 500 feet underground… don’t tell them”** | Same interview | **A** |
+| Wanted **personality / authorship** in games, not “message hammered into” the player | Same interview | **A** |
+| HL2 characters = surviving Black Mesa science team | [Lightspeed Magazine interview](https://www.lightspeedmagazine.com/nonfiction/feature-interview-marc-laidlaw-creator-of-half-life/) | **A** |
+| Breen’s end speech = **Lovecraftian** “teasing view of things beyond imagining” | Same Lightspeed interview | **A** |
+
+**Read (Documented):** Craft + cosmic dread + occupied Earth — not an explicit “we warn about real aliens.”
+
+**Read (Author / Speculative):** Refusal of cartoon messaging + grounded occupation horror = **NSA-camp warning grammar** (*ID4* / *T2* / *Children of Men*) — intellectual assembly; no PSA title card.
+
+### 7.2 Valve — fidelity and “picked to the bone”
+
+| Claim | Source | Tier |
+|-------|--------|------|
+| Earth **“infested with aliens and being picked to the bone”** | Marketing / encyclopedia (e.g. [2007 Wikipedia Combine](https://wikipedia2007.classicistranieri.com/en/c/o/m/Combine_%28Half-Life_2%29_a5c0.html)) | **B** |
+| Facial animation / Source tech → believable characters → richer story | Laidlaw [Arcade Attack](https://www.arcadeattack.co.uk/marc-laidlaw-half-life-3/) | **A** |
+
+### 7.3 Design book — water as teleport harvest
+
+See §4.1 table (*Raising the Bar* via OverWiki/HL Wiki). **Author Mars destination** not Valve-confirmed.
+
+### 7.4 Breen / “benefactors”
+
+Breencasts: Combine as **“Our Benefactors”** and **“universal union”** ([Wallace Breen — OverWiki](https://combineoverwiki.net/wiki/Wallace_Breen)). **Author:** false-benefactor disclosure — harvest empire in upgrade language.
+
+### 7.5 What production citations do *not* show
+
+| Missing | Implication |
+|---------|-------------|
+| No public Valve–NSA / DoD sponsorship line | Camp label stays **Author / L3** |
+| No Laidlaw quote naming Mars as water destination | Mars map = **author** |
+| No admission Episodes were ordered as “containment” | Containment = **pattern thesis** over documented ending changes |
 
 ---
 
-## Related investigations
+## 8. HL1 vs HL2 — trope vs warning
+
+| | *Half-Life* (1998) | *Half-Life 2* (2004) |
+|--|--------------------|----------------------|
+| **Inciting grammar** | We opened it → **cascade** → invaders | Invasion **already concluded** (Seven Hour War lore); player wakes into **occupation** |
+| **PP class (author)** | Standard “portal accident” familiarization | **NSA-aligned future warning** — grounded Earth, ongoing extractive empire |
+| **Horror job** | Lab survival / Xen otherworld | **This planet** after surrender; streets, coasts, camps |
+| **Dossier home** | §2–§3 | §6–§13 |
+
+**Documented continuity:** G-Man stasis bridges the gap (~20 years in lore). **Author:** same **slow future teleport** class as Philadelphia Deep Freeze (§12).
+
+---
+
+## 9. Portal realism vs *Portal* satire
+
+| Franchise beat | Author read |
+|----------------|-------------|
+| Black Mesa / Lambda / Citadel / Combine dark-fusion teleports | **Industrial** place-routing; energy cost; infrastructure; failure modes — [CERN dossier](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) |
+| *Portal* / *Portal 2* Aperture chambers | **Hokey / puzzle satire** of ring-hole grammar — inoculates audience to treat portals as comedy |
+| Epistle 3 Bootstrap Device | Brief return to **self-contained hull jump** (Philadelphia rhyme) **plus** time deposit — §13 |
+
+**Cross-ref:** [Philadelphia §8](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) · [Part A](/science/cern_portal/out-of-this-door-might-come-something.md).
+
+---
+
+## 10. Combine as “benefactors” / Borg-class harvest (author stakes)
+
+**Documented pattern:** §5 table + Breen grammar (§7.4).
+
+**Author stakes preserved:**
+
+- Harvesting **Borg-like** assimilators posing as **benefactors**  
+- **Genocide** + **Earth resistance** as central moral grammar  
+- **Striders** = Martian **tripod** visual rhyme (*War of the Worlds*)  
+- Horror as **warning that this can land on the Earth we know**, not as genre tourism  
+
+**Camp (author):** NSA-aligned **common-foe / audit** lane — rhymes [Thread O — *ID4*](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship).
+
+---
+
+## 11. G-Man as NSA-aligned good actor (author)
+
+| Beat | Documented | Author read |
+|------|------------|-------------|
+| Employs / stashes Gordon between games | Yes (HL1 ending → HL2 open) | **Slow future teleport** operator (§12) |
+| Flickers on Breencast screens | Yes (art/script notes) | Influence **inside** occupation media stack |
+| Reclaims Gordon at HL2 ending | Yes | Still running a **long game** against Combine |
+| Interrupted by Vortigaunts in Ep1 | Yes | **Containment** begins — good-actor leash cut |
+| Imprisoned by Combine in *Alyx* Vault | Yes | Empire treats him as **threat** — fits “against the plan” |
+| Offers Alyx timeline “nudge”; takes her | Yes | Power to rewrite events — **time deposit** completion |
+
+**Camp label (author):** G-Man ≈ **NSA-aligned good actor** — fights covert evil by any means; major influence over government/science pathways. **Not proven** as allegory Valve intended.
+
+**Counter-read:** Mainstream fan read = amoral employer / cosmic bureaucracy. Epistle 3 / *Alyx* push him toward **explicit chronal editor** — author tags as **containment damage** to the HL2-grounded operator.
+
+---
+
+## 12. Philadelphia — “very slow teleport” into the future
+
+**Author note:** The [Philadelphia portal precursor investigation](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) treats Allende **Deep Freeze / Getting Stuck** and the wider **stasis / freeze-until-thaw** PP flood (§8.4) as evidence that medium effects can **hold a living body while calendar time advances** — a **very slow teleport into the future** without a Wells “time machine.”
+
+| Philadelphia grammar | HL rhyme |
+|----------------------|----------|
+| Freeze / stasis until thaw | G-Man **stasis** of Gordon (~20 years) |
+| Place teleport Philadelphia ↔ Norfolk | Citadel / Lambda **place** routing |
+| Media deposit retimes portals as **time travel** | Epistle 3 / *Alyx* **chronology** rewrite (§13) |
+
+**Discipline:** Prefer **space teleport + stasis** before accepting **time travel** as the primary layer ([Philadelphia §5](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md#5-control-deposit--time-travel-substituted-for-space-teleport)).
+
+---
+
+## 13. Containment — Episodes, Epistle 3, *Alyx*
+
+**Author thesis:** *Episode One* and beyond = **100% containment** of the HL2 warning.
+
+### 13.0 Marc Laidlaw chronology — sole HL2 writer, Episode team, 2016 exit (**not** “quit before Ep1”)
+
+**Correction (Documented):** The sci-fi novelist who shaped *Half-Life* / *Half-Life 2* plot, **Marc Laidlaw**, did **not** leave Valve before *Episode One* (2006). He remained **lead writer** on the Episodes and left the company in **January 2016** — nearly a decade later.
+
+| Fact | Source | Tier |
+|------|--------|------|
+| **Sole writer** on *Half-Life* and *Half-Life 2* | Valve bio / press ([The Verge, 2016](https://www.theverge.com/2016/1/8/10736894/half-life-writer-marc-laidlaw-leaves-valve); [GameSpot](https://www.gamespot.com/articles/half-life-writer-marc-laidlaw-confirms-valve-retir/1100-6433621/)) | **A/B** |
+| Episodes written by **Laidlaw + Erik Wolpaw + Chet Faliszek**; Laidlaw **lead** | [*Episode One* — Wikipedia](https://en.wikipedia.org/wiki/Half-Life_2:_Episode_One); [OverWiki — Laidlaw](https://combineoverwiki.net/wiki/Marc_Laidlaw) | **A/B** |
+| Laidlaw **retires / leaves Valve** ~**Jan 2016** after ~18 years (joined 1997) | [Eurogamer](https://www.eurogamer.net/half-life-writer-marc-laidlaw-leaves-valve); [Polygon](https://www.polygon.com/2016/1/8/10736578/half-life-writer-marc-laidlaw-valve-retirement/); [PC Gamer](https://www.pcgamer.com/rumour-marc-laidlaw-has-left-valve/) | **A** |
+| Post-exit **severing:** no longer employee; not day-to-day; not spokesman; not privy; **not working on Valve games**; “Where Valve may choose to take Half-Life… is **not in my hands**” | Same 2016 email trail (authenticated in press) | **A** |
+| Epistle 3 published **Aug 2017** (post-departure) | Laidlaw blog / archive | **A** |
+| *Alyx* (2020) writers: Wolpaw, Pinkerton, Vanaman — **not** Laidlaw | Public credits | **A** |
+
+**Author containment read (L3) — what *is* the clue:**
+
+1. **Sole → committee at Ep1:** The HL2 warning stack was written under **one** novelist’s control. Containment grammar (ending rewrite, Alyx rescue, G-Man leash cut) arrives with a **new writing room** (Old Man Murray cohort) even while Laidlaw stays as lead — same **team-replacement / dilution** family as [*Matrix* containment](matrix-not-like-this-containment-investigation.md) (original payload team vs sequel handlers).  
+2. **2016 severing:** Public refusal to speak for Valve or the ongoing plot — “not in my hands” — reads as **hard cut** between HL2-era sole authorship and whatever Ep3/*Alyx* became. (If an interview said “no comment on plot **since HL2**,” treat that as **his framing of ownership**—Episodes were already collaborative; it does **not** erase Ep1/Ep2 credits.)  
+3. **2017 Epistle 3:** After years of Ep3 non-ship, he posts a weak Borealis/time outline as unofficial **“fanfic” / dream snapshot** (§13.1) — **not** a Valve-stamped bible. Sequence reads as **payload author exiting**, then dumping a **ruined or discarded** sketch rather than shipping HL2-grade continuation.  
+4. ***Alyx* without Laidlaw:** Chronology rewrite + VR gate under a later writing team — further distance from the sole-author HL2 warning.
+
+**Do not claim:** Laidlaw “quit before Ep1,” was fired for knowing too much, or that Wolpaw/Faliszek were intel plants. Those are **unsupported**. The **documented** sole→team shift + **2016** severing + post-exit Epistle 3 (with his own non-canon disclaimer) remain the usable containment chronology.
+
+### 13.1 Epistle 3 / Borealis — full block (place + time)
+
+**What the ~2017 letter is:** Laidlaw’s blog post **“Epistle 3”** (~10 years after *Episode Two*, ~18 months after he left Valve) — a genderswapped letter (Gertie Fremont / Hyperborea / Disparate). Community “translated” names: Gordon, Borealis, Combine ([Wayback original](https://web.archive.org/web/20170825025137/http:/www.marclaidlaw.com/epistle-3/); [Valve Archive name-restored](https://valvearchive.com/laidlaw-vault/epistle-three/episode_three.html); [Polygon](https://www.polygon.com/2017/8/25/16202006/half-life-2-episode-3-plot-mark-laidlaw-valve/)).
+
+**Does the letter include the time/dimensional bomb into Combine HQ?** **Yes — in the text itself.** After Mossman is shot, Alyx and Gordon “armed the Borealis, creating a **time-travelling missile**, and steered it for the heart of the Combine’s command center” / invasion nexus (name-restored wording). The narrator then sees the strike register as futile against a vast Combine construct (Dyson-sphere scale in the letter).
+
+**Does that confirm Laidlaw “came up with” official Valve Episode 3?** **No.**
+
+| Claim | Status |
+|-------|--------|
+| Laidlaw **wrote and published** that sketch under his name | **Documented** |
+| Sketch contains **time-travelling missile → Combine nexus** | **Documented** (letter text) |
+| Sketch = locked Valve Ep3 production bible / shipped plot | **Not confirmed** |
+| Laidlaw’s own framing (2017) | **“fanfic”**; **“genderswapped snapshot of a dream I had many years ago”** (Twitter @marc_laidlaw, 24 Aug 2017 — OverWiki/Polygon) |
+| Laidlaw later (2023) | Regrets posting; **“I was deranged”**; outline created false impression a real Ep3 would match it; **“wasn’t Episode Three at all”** (RPS) |
+
+**Author stake (preserve):** We **do not know** whether the horrible Ep3 time-bomb ending was ever Valve’s real locked plot, a committee product, or only Laidlaw’s discarded dream dump after severing. The letter proves **he authored that prose**; it does **not** prove Valve signed it. That ambiguity **is** the containment clue: the sole HL2 novelist is cut off (“not in my hands”), then a weak time-travel finale appears under a **non-canon** label.
+
+**Author quality / ownership read (L3):** HL2 is among the strongest grounded warning plots in games — Laidlaw’s **sole-writer** peak. Epistle 3’s time-missile / Mossman-shot / futile Dyson-sphere beat reads as a **swap** of that vision for something he will **not** stand behind as the real continuation: he labels it **fanfic/dream**, later says posting it was **“deranged”**, and that fans wrongly thought a shipped Ep3 “would have been anything like” that outline — **“what people got wasn’t Episode Three at all”** ([Rock Paper Shotgun via IGN/Kotaku, 2023](https://www.ign.com/articles/marc-laidlaw-on-publishing-half-life-3-plot-fan-fiction)). Separately he said he had hoped Ep3 would tie HL2 threads so he could **step away**, and **“Unfortunately, I was not able to do that”** ([Arcade Attack](https://www.arcadeattack.co.uk/marc-laidlaw-half-life-3/)). **Author assembly:** amazing HL2 vision → unable to finish his reset → public dump of a sketch he treats as **not** the real thing.
+
+**Author decode — “genderswapped” as political code (L3):** In the same tweet he called the sketch **“fanfic”** and **“a genderswapped snapshot of a dream.”**  
+- **Surface (Documented):** Epistle 3’s prose **literally** swaps genders/names (Gordon → Gertie Fremont, Alyx → Alex Vaunt, etc.) — so the adjective has a **denotative** hook.  
+- **Author read:** Choosing **“genderswapped”** as the public punchline is **no accident** — it is the **code word** that marks the dumped outline as **political** (era identity/gender theater / containment-era packaging), i.e. he is **saying “this is political”** without using that noun. Fans hear a joke about pronouns in a letter; the author hears a **deliberate signal** that what replaced (or stands in for) his HL2-grade vision is **politicized product he will only own as dream/fanfic**.  
+- **Tier discipline:** Laidlaw **did** say **“genderswapped.”** He did **not** gloss it as “I mean political.” The **code-word → political** step is **author interpretive** and stays labeled as such.
+
+**Charge-to-critical / space-routing beats (same letter):**
+
+- **Borealis** phasing in/out — oscillating gate; Combine compound to seize ship when materialized  
+- **Bootstrap Device:** self-contained field; instantaneous jump without covering intervening space — Philadelphia / CERN rhyme  
+- Rhymes [CERN §3](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) and [Philadelphia](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md)
+
+**Time-travel deposit:** device travelled in **time as well as space**; elastic-band stretches; timeloops; **time-travelling missile** finale — **R6 chronology deposit** atop place-routing grammar ([Philadelphia §5](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md)).
+
+### 13.2 Ending rewrite (Documented mechanics + Author tag)
+
+| Change | Documented | Author containment read |
+|--------|------------|-------------------------|
+| Ep1 opens by **rewinding** HL2 Citadel beat — Alyx saved; Gordon freed from G-Man | Writers ([Fandom / Wolpaw–Pinkerton](https://www.fandom.com/articles/half-life-alyxs-ending)) | Breaks HL2 closure; **anti-pattern** vs G-Man long game |
+| Ep2 seeds **Borealis** (Aperture ship unstuck) | Shipped | Inserts unfinished **time** subplot into physics-grounded series |
+| Epistle 3 (2017) | Laidlaw letter (§13.1) | Author: plot **terrible** vs HL2 setup; project **fell apart** |
+| *Alyx* (2020): VR hardware gate; saves Eli; G-Man takes Alyx | Shipped + writer interviews | **More containment** — chronology cemented; audience limited to VR owners (“rich kids”) |
+
+### 13.3 Pattern family
+
+Same **franchise containment** grammar as [*Matrix* “Not Like This”](matrix-not-like-this-containment-investigation.md): original payload → sequel fracture → quality / access collapse → nostalgia or side-channel rewrite.
+
+### 13.4 What “devs found out” means here
+
+**Author speculative:** When Episode 3’s real plot direction became clear internally, the **warning stack** could not continue cleanly — stall, weak outline leak, then *Alyx* as **timeline glue** under VR exclusivity.
+
+**Documented constraint:** No public memo proves intel pressure. What **is** documented: **sole Laidlaw authorship on HL2** → **Episode writing team** at Ep1 (§13.0); multi-year Ep3 non-ship; Laidlaw **2016** departure; Epistle 3 (2017) as unofficial letter; *Alyx* under a later writing team with **time rewrite** as climax.
+
+### 13.5 Author’s conclusion (2026-07-18 capture)
+
+**Verdict (Author):** *Half-Life 2* is an **NSA-aligned** grounded future warning — among the strongest plots in games — authored under Laidlaw’s **sole** control. That vision was **contained**: Ep1+ ending rewrite and writing-room dilution; **2016** hard severing from Valve (“not in my hands”); then **2017** Epistle 3 — a **time-travelling missile** sketch that wrecks the HL2 physics/warning grammar — which Laidlaw will only own as **fanfic** and a **“genderswapped snapshot of a dream.”**
+
+**On “genderswapped”:** He is **saying political**. The code word is not accidental. Surface denotation (letter name-swaps) is the cover; the public punchline marks the dumped outline as **politicized product** replacing his real vision — something he clearly will **not** claim as the true continuation (later: posting it was **“deranged”**; it **“wasn’t Episode Three at all”**).
+
+**What remains open:** Whether Valve ever locked that time-bomb as production Ep3. Documented: he wrote the prose; he disclaimed it; he could not finish the reset he wanted. **Containment pattern stands** either way.
+
+---
+
+## 14. Author’s open claims
+
+1. ***Half-Life* (1998)** discloses **portal / Xen** grammar with location misdirection (§2.1).  
+2. ***Half-Life 2* only** (not HL1, not Episodes/*Alyx*) is **NSA-aligned in a major way**.  
+3. Combine = **real-threat disclosure** of **harvest / Borg-class** empire posing as **benefactors**.  
+4. HL2 portal grammar ≈ **how portals really work**; *Portal* = **hokey** inoculation.  
+5. Ocean drop = **water transferred** to a dry world — author: **Mars**.  
+6. Ocean Xen-life kill = same **invasive ecology** family as chestnut blight / spore thesis.  
+7. **G-Man** = possible **NSA-aligned good actor** with government-scale influence.  
+8. **Ep1+** = **containment**; Borealis/time travel = worst anti-pattern; Epistle 3 proves the collapse; *Alyx* VR = access + chronology containment.  
+9. **Writer chronology as containment clue:** sole Laidlaw on HL2 → Episode co-writers at Ep1 (he stays lead, does **not** quit pre-Ep1) → **2016** severing (“not in my hands”) → Epistle 3 (2017) as **fanfic/dream** with time-missile beat — **not** proven Valve-locked Ep3; **“genderswapped”** = author-read **political code word** (§13.0–§13.1).  
+10. G-Man stasis = **Philadelphia-class slow future teleport**.  
+11. HL2 stands with ***Children of Men*** as **grounded future warning** (intellectual, not didactic).
+
+---
+
+## 15. Questions to clarify, verify, or debunk
+
+| # | Question | Target |
+|---|----------|--------|
+| Q1 | Did Laidlaw / team cite **CERN** or particle facilities? | Primary interviews, *Raising the Bar* |
+| Q2 | Art direction sources for **Xen** — gas-giant interior | Concept art; Juno / Cassini rhetoric |
+| Q3 | Exact *Raising the Bar* page/quote for water-teleport drain | Physical / PDF book |
+| Q4 | Strider design notes — explicit WOTW tripod cite? | Art commentary |
+| Q5 | Internal Ep3 docs beyond Epistle 3 | Leaks with provenance |
+| Q6 | *Alyx* VR exclusivity — Valve statements on audience | Platform economics vs containment |
+| Q7 | Benefactors / suppression field vs depopulation rhetoric elsewhere | Cross [*Children of Men*](children-of-men-nsa-warning-predictive-programming-investigation.md) |
+| Q8 | Exact Valve hire dates for Wolpaw/Faliszek relative to Ep1 greenlight | Press / credits; test “team dilution at containment start” |
+
+---
+
+## 16. Weak points / remaining research TODOs
+
+- [ ] Pull **verbatim** *Raising the Bar* drain/teleport paragraph  
+- [ ] Script-dump Breencast lines for suppression field / water / genocide wording  
+- [ ] Pull **verbatim** developer quotes on portal science inspiration  
+- [ ] Optional: Thread row in [hollywood two-camp](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md)  
+- [ ] Compare Epistle 3 quality claims to 2017 fan reception  
+- [ ] Pin Wolpaw/Faliszek Valve start dates vs Ep1 production window (§13.0 Q8)  
+
+---
+
+## 17. Related investigations
 
 | File | Relation |
 |------|----------|
+| [*Children of Men*](children-of-men-nsa-warning-predictive-programming-investigation.md) | Twin grounded **future warning** film |
+| [HL2 path stub](half-life-2-nsa-combine-warning-containment-investigation.md) | Redirect to this file (§6+) |
 | [Predictive programming hub](../page.md) | Games catalog; PP definitions |
 | [Terranigma — Beruga](terranigma-beruga-predictive-programming-investigation.md) | Plague/triage/robot establishment |
 | [*Final Fantasy* I–VII](final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md) | JRPG Tartaria echo / VI catastrophe / VII state-media PP |
 | [Mars hub — CERN / gates](/cosmos/mars/page.md) | Quantum tunnel / gate cosmology |
 | [Hollow Earth investigation](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md) | Shell / inner-sun references for Xen read |
-| [Philadelphia portal precursor](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) | 1943 ship-scale PP; Epistle 3 lineage |
+| [Philadelphia portal precursor](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) | Slow future teleport / stasis; Borealis lineage |
+| [Time-travel literature — Wells deposit](time-travel-literature-wells-deposit-investigation.md) | Chronology deposit vs place routing |
+| [Spore / chestnut / Martian cylinders](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md) | Ocean / ecology invasion rhyme |
+| [Hollywood two-camp](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) | NSA camp taxonomy |
+| [Matrix containment](matrix-not-like-this-containment-investigation.md) | Sequel containment pattern family |
 | [CERN–Mars gateway dossier](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) | Ring terminal thesis |
 
 ---
 
-Last updated: 2026-07-04
+*Last updated: 2026-07-18*
 
-Keywords: #HalfLife #HalfLife2 #Combine #Xen #CERN #PredictiveProgramming #Transhumanism #Portal #ParadigmThreatFiles #VideoGames #Borg
+Keywords: #HalfLife #HalfLife2 #Combine #Xen #CERN #GMan #PredictiveProgramming #NSA #Containment #Portal #Borealis #HalfLifeAlyx #Transhumanism #ParadigmThreatFiles #VideoGames #Borg #Mars #WarOfTheWorlds
 
 ---
 
 ## Limits and disclaimers
 
-
-
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-**Fiction vs evidence:** Valve fiction is **not** proof of **CERN** operational methods, **real** extraterrestrial empires, or **actual** planetary interiors.
+**Fiction vs evidence:** Valve fiction is **not** proof of **CERN** operational methods, **real** extraterrestrial empires, **actual** planetary interiors, NSA authorship, or operational Mars water theft.
 
 **Comparative SF:** **Borg** / **Combine** parallels are **narrative pattern** study; they do **not** map onto **real-world** ethnic, national, or religious groups.
 
-**Author thesis:** §2.1 **Xen = gas-giant interior**; **captured moons = portal endpoints**; **border-dimension** lore as **misdirection** — anchored to site hollow-planet cosmology ([Hollow Earth](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md), [Mars hub](/cosmos/mars/page.md)), **not** Valve-confirmed design intent.
+**Camp labels:** **NSA-aligned** follows the repo’s [two-camp Hollywood taxonomy](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) — **author interpretive (L3)**, not a documented agency contract.
+
+**Author thesis:** §2.1 **Xen = gas-giant interior**; §6 / §11–§14 HL2 camp + containment + G-Man — **first-class** for pattern work, **not** automatically factual or Valve-confirmed.
+
+**Design-book lore:** Water-teleport drain is **Raising the Bar / cut-concept** tier unless/until in-game dialogue confirms it.
 
 **Health / vaccines:** This dossier does **not** advance medical claims; **Terranigma**-style **vaccine** wording in other files is **fiction-layer** only.
 
@@ -203,4 +483,7 @@ Keywords: #HalfLife #HalfLife2 #Combine #Xen #CERN #PredictiveProgramming #Trans
 
 ## Investigator notes
 
-Combine OverWiki and Wikipedia used as **navigation aids**; for contested lines, prefer **script dumps** or **official re-releases**.
+- OverWiki + HL Wiki used as **navigation aids**; for contested lines, prefer **script dumps**, *Raising the Bar* PDF, or official re-releases.  
+- Epistle 3 mirrors: Wayback Laidlaw; Valve Archive; Steam community “translated” names guide.  
+- 2026-07-18: merged former standalone HL2 NSA/containment dossier into this file; stub left at old path.  
+- Pair with [*Children of Men*](children-of-men-nsa-warning-predictive-programming-investigation.md) as twin **grounded warning** files.

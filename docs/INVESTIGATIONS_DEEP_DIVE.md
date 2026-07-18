@@ -108,6 +108,8 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: Lacatski / AAWSAP — insider program mechanics, politics, Great Awakening “conditional tech” rhyme (Open)](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md)
 - [Investigation: Toynbee Tiles — *Resurrect Dead* (2011) and the street campaign](/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md)
 - [Investigation: Trump-era Hollywood as predictive programming — trends, rhymes, and scorecard (2016–2026)](/influence/hollywood/trump-era-hollywood-political-media-investigation.md)
+- [Investigation: *Half-Life* series — Xen/CERN, Combine, NSA warning, containment (Open)](/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md) — [HL2 stub](/influence/predictive_programming/investigations/half-life-2-nsa-combine-warning-containment-investigation.md) redirects here
+- [Investigation: *Children of Men* (2006) — NSA future warning / intellectual PP (Open)](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md)
 - [Reader essay: *Ghost War: The Antibody Phase* — post-hoc PP vs Syria 2024 / Iran 2026](/influence/hollywood/ghost-war-the-antibody-phase.md)
 - [Reader essay: **Everything Burns** — *Dark Knight*, Hong Kong finance, Hollywood two-camp war (Pacific lane)](/influence/hollywood/everything-burns.md)
 - [Investigation: Hollywood two-camp war — media catalog (Pacific lane), Hong Kong, US–China war fiction (Open)](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md)

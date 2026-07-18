@@ -3,7 +3,7 @@
 > **TL;DR:** Central index of **Paradigm Threat / author** claims that are **not** standard Fomenko, Illig, Velikovsky, etc., and for which **no close prior-art match** has been found in mainstream or NC literature after repo search. Each entry links to its **canonical dossier** or timeline event. **Prior art: none** means **no external author stating the same package** — adjacent ideas may exist; see per-file Limits.
 
 **Status:** Living registry (add rows when a new author-unique thread ships).  
-**Last updated:** 2026-07-16 (AU-034 cosmic life cycle + site claim)
+**Last updated:** 2026-07-18 (AU-035 HL2 / AU-036 *Children of Men*)
 **Lexical redaction cross-ref hub:** [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — master table for all **word-redaction** dossiers (**AU-027** meta-thesis).
 
 ---
@@ -43,6 +43,13 @@ Per-investigation **§ Author open claims** blocks remain the **detail** registr
 |----|----------------|-----------|-----------------|
 | **AU-010** | **Incorrectly scaled universe** — curved-light **aether** paths → systematic **over-scale** + mirror duplication; one-force gravity read | **partial** (EU, Dowdye, Arp adjacent; **bundle** author) | [Incorrectly scaled universe](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md) |
 | **AU-034** | **Cosmic life cycle** — eternal universe; Bang/Melt/Rip = **solar-system** birth→brown-dwarf capture→Golden Age→Dark Ages→rip→repeat (not cosmos-from-nothing); ≈4077 joining is a lifecycle chapter | **partial** (Gap Theory, EU pieces; **full cycle package** author / timeline) | [Cosmic Life Cycle](/timeline/evt-cosmic-life-cycle); [Chronology § Cosmic Life Cycle](/history/chronology/page.md); site claim **`cosmic-life-cycle`** |
+
+## Influence / predictive programming (camp + containment)
+
+| ID | Theory (short) | Prior art | Canonical doc |
+|----|----------------|-----------|-----------------|
+| **AU-035** | ***Half-Life 2* only** is **NSA-aligned** major warning; Ep1+/*Alyx* = containment; Laidlaw sole HL2 vision **swapped**; Epistle 3 time-missile dump owned only as fanfic/dream; **“genderswapped”** = **political code word** (author) | **partial** (Combine readings common; **NSA-camp + genderswapped-as-political** package author) | [HL series §13.5 conclusion](/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md#135-authors-conclusion-2026-07-18-capture) ([stub](/influence/predictive_programming/investigations/half-life-2-nsa-combine-warning-containment-investigation.md)) |
+| **AU-036** | ***Children of Men*** = **NSA-aligned** intellectual warning; **Ark of the Arts** = elite expects to survive die-off / complicit depopulation hint; Quietus vs pot; false-flag fear; resistance ≠ bombing | **partial** (post-9/11 readings common; **Ark/govt-behind + NSA-camp package** author) | [*Children of Men* dossier](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md) |
 
 ## Christianity & war (author vs Fomenko)
 

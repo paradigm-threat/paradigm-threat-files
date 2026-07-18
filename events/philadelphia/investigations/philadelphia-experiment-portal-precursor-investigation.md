@@ -250,7 +250,9 @@ Published as [Epistle 3](http://www.marclaidlaw.com/epistle-3/) ([Steam guide mi
 
 **Author read:** Grammar **A** is what the letters report. Grammar **B** is what mass media **normalizes** as safe, reversible, and **military-useful**. If **B** is the **controlled** form of the same medium effect that produces **A** when operators lack literacy, then **frozen soldiers** are not folklore — they are **failed stasis** (or **successful stasis without a clean thaw protocol**).
 
-**Outcome identity (user note):** Carbonite is not an EM bubble — but the **outcome** matches Grammar B: **permanent human stasis until unfrozen**. Treat mechanism families separately; score **outcome rhyme** for PP density.
+**Outcome identity (author note):** Carbonite is not an EM bubble — but the **outcome** matches Grammar B: **permanent human stasis until unfrozen**. Treat mechanism families separately; score **outcome rhyme** for PP density.
+
+**Author phrasing (2026-07-18) — “very slow teleport into the future”:** When stasis / Deep Freeze holds a living body while **calendar time advances**, the operational **outcome** is arrival in a **later date** without a Wells chronology engine — a **very slow teleport into the future**. Same outcome class as G-Man **stasis** of Gordon Freeman between *Half-Life* and *Half-Life 2* (~20 years). Prefer this **stasis outcome** before accepting media **time-travel** deposits as the primary layer (§5). Cross-ref: [*Half-Life* series dossier §12 — Philadelphia slow future teleport](/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md#12-philadelphia--very-slow-teleport-into-the-future).
 
 #### 8.4.2 Mechanism families (stasis taxonomy)
 
@@ -535,13 +537,14 @@ Maintainer index: `~/dev/wget/philadelphia-experiment/index-philadelphia-books.m
 | [Part B reader essay](/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md) | Lay narrative spine |
 | [CERN–Mars gateway dossier](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) | Ring terminal; §10 stub |
 | [Half-Life PP dossier](/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md) | Resonance cascade; Epistle 3 |
+| [*Half-Life* series — G-Man / containment §11–§13](/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md#11-g-man-as-nsa-aligned-good-actor-author) | G-Man stasis = slow future teleport; Borealis time deposit as containment ([HL2 stub](/influence/predictive_programming/investigations/half-life-2-nsa-combine-warning-containment-investigation.md)) |
 | [PP hub](/influence/predictive_programming/page.md) | Media catalog |
 | [Stonehenge portal](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) | Golden Age bio-EM safety |
 | `~/dev/wget/philadelphia-experiment/index-philadelphia-books.md` | Source book chapter index (maintainer) |
 
 Keywords: #PhiladelphiaExperiment #ProjectRainbow #Portal #Teleport #Norfolk #Allende #Jessup #Montauk #PredictiveProgramming #ParadigmThreatFiles
 
-**Last updated:** 2026-07-10T08:35:00-04:00
+**Last updated:** 2026-07-18
 
 ---
 
