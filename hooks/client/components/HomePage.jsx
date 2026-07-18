@@ -1,6 +1,7 @@
 import React from 'react'
 import SiteChrome from 'hooks/client/components/SiteChrome.jsx'
 import DirNav from 'hooks/client/components/DirNav.jsx'
+import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
 import {
   featuredArticlePath,
   loadArticleRows,
@@ -10,8 +11,7 @@ import {
 } from 'hooks/client/loadArticles.jsx'
 
 /**
- * Home — README in this corpus is empty (keywords only).
- * Show article index + link into real markdown bodies.
+ * Article index (Files /articles) — list corpus markdown with CTAs.
  */
 export default function HomePage() {
   const rows = loadArticleRows(80)
@@ -33,27 +33,28 @@ export default function HomePage() {
   }
 
   return (
-    <SiteChrome currentPath="/">
+    <SiteChrome currentPath="/articles">
       <main className="pt-page" id="pt-home">
         <div className="pt-columns">
           <DirNav />
           <div className="pt-column-main">
             <div className="pt-container">
               <header className="pt-header">
-                <h1 className="pt-title">Paradigm Threat</h1>
+                <h1 className="pt-title">Articles</h1>
                 <p className="pt-muted pt-lead">
-                  Thin files corpus on Relay — browse markdown articles below.
+                  Browse markdown in this thin files corpus.
                 </p>
-                {featured.length > 0 ? (
-                  <p>
+                <p className="pt-home-cta-row">
+                  {featured.length > 0 ? (
                     <a className="pt-btn pt-btn-primary" href={siteHref('/' + featured)}>
                       Open latest blog article
                     </a>
-                  </p>
-                ) : null}
+                  ) : null}
+                  <FeelingLucky />
+                </p>
               </header>
               <section className="pt-section">
-                <h2 className="pt-section-title">Articles</h2>
+                <h2 className="pt-section-title">Index</h2>
                 {items.length === 0 ? (
                   <p className="pt-muted">Index empty — try Search after hydrate, or open a known path.</p>
                 ) : (

@@ -30,7 +30,7 @@ export default function Layout(props) {
             Home
           </button>
         ) : (
-          <a className="pt-btn" href={siteHref('/README.md')}>
+          <a className="pt-btn" href={siteHref('/')}>
             Home
           </a>
         )}

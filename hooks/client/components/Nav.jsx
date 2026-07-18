@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import ThemeToggle from 'hooks/client/components/ThemeToggle.jsx'
+import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
 import { IconBook, IconClose, IconHome, IconMenu, IconSearch } from 'hooks/client/components/Icons.jsx'
 import { propOr, propStr } from 'hooks/client/propOr.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
@@ -26,7 +27,14 @@ export default function Nav(props) {
 
   function isActive(href) {
     if (href === '/') {
-      return currentPath === '/' || currentPath === '/index.md' || currentPath === '/README.md'
+      return (
+        currentPath === '/' ||
+        currentPath === '/index.md' ||
+        currentPath === '/page.md'
+      )
+    }
+    if (href === '/articles') {
+      return currentPath === '/articles' || currentPath === '/README.md'
     }
     return currentPath === href
   }
@@ -41,11 +49,12 @@ export default function Nav(props) {
           <nav className="pt-nav-desktop md:pt-nav-desktop-md">
             <NavLink href="/" label="Home" icon={<IconHome />} active={isActive('/')} />
             <NavLink href="/search" label="Search" icon={<IconSearch />} active={isActive('/search')} />
-            <NavLink href="/README.md" label="Files" icon={<IconBook />} active={isActive('/README.md')} />
+            <NavLink href="/articles" label="Files" icon={<IconBook />} active={isActive('/articles')} />
           </nav>
         </div>
         <div className="pt-nav-actions">
           <div className="pt-nav-actions-desktop md:pt-nav-actions-desktop-md">
+            <FeelingLucky />
             <ThemeToggle />
           </div>
           <button
@@ -66,10 +75,13 @@ export default function Nav(props) {
             <span className="pt-nav-mobile-label">Display</span>
             <ThemeToggle />
           </div>
+          <div className="pt-nav-mobile-tools">
+            <FeelingLucky />
+          </div>
           <nav className="pt-nav-mobile-links">
             <NavLink href="/" label="Home" icon={<IconHome />} active={isActive('/')} />
             <NavLink href="/search" label="Search" icon={<IconSearch />} active={isActive('/search')} />
-            <NavLink href="/README.md" label="Files" icon={<IconBook />} active={isActive('/README.md')} />
+            <NavLink href="/articles" label="Files" icon={<IconBook />} active={isActive('/articles')} />
           </nav>
         </div>
       ) : null}

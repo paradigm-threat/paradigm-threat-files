@@ -144,3 +144,39 @@ export function featuredArticlePath(rows) {
   }
   return ''
 }
+
+/** Paths eligible for I'm Feeling Lucky (files park — markdown articles only). */
+export function isFeelingLuckyCandidate(path) {
+  if (!path || typeof path !== 'string') return false
+  if (path.length < 4) return false
+  const lower = path.toLowerCase()
+  if (lower.slice(lower.length - 3) !== '.md') return false
+  if (lower.indexOf('.auto.md') >= 0) return false
+  if (path === 'README.md' || path === 'page.md') return false
+  return true
+}
+
+/**
+ * Pick a random article path from nav-index.
+ * Uses Date.now() modulo (CleverScript has no Math.random in core).
+ */
+export function pickFeelingLuckyPath() {
+  const rows = loadArticleRows(200)
+  let candidates = []
+  for (let i = 0; i < rows.length; i++) {
+    const p = rowPath(rows[i])
+    if (isFeelingLuckyCandidate(p)) {
+      candidates = candidates.concat([p])
+    }
+  }
+  if (candidates.length === 0) return ''
+  let idx = 0
+  try {
+    idx = Date.now() % candidates.length
+  } catch (e) {
+    idx = 0
+  }
+  if (idx < 0) idx = 0
+  if (idx >= candidates.length) idx = 0
+  return candidates[idx]
+}

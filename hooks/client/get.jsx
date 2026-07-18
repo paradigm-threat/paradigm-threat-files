@@ -42,7 +42,7 @@ function initialRoute() {
 function articleFilePath(route) {
   let t = normalizeRoute(route)
   if (t.charAt(0) === '/') t = t.slice(1)
-  if (t.length === 0) return 'README.md'
+  if (t.length === 0) return 'page.md'
   return t
 }
 
@@ -51,7 +51,9 @@ export default function ParadigmFilesRelayRoot() {
   let page = null
   if (route === '/search') {
     page = <SearchPage currentPath="/search" />
-  } else if (route === '/' || route === '/index.md') {
+  } else if (route === '/' || route === '/index.md' || route === '/page.md') {
+    page = <ArticleView currentPath="/" filePath="page.md" />
+  } else if (route === '/articles' || route === '/README.md') {
     page = <HomePage />
   } else {
     page = <ArticleView currentPath={route} filePath={articleFilePath(route)} />

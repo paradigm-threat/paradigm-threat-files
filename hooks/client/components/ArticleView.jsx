@@ -173,7 +173,7 @@ export default function ArticleView(props) {
                 navigateFile(parentDir(routePath, slash))
               }}
               onHome={() => {
-                navigateFile('README.md')
+                navigateFile('page.md')
               }}
             >
               <MarkdownRenderer
