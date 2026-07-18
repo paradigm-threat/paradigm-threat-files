@@ -106,6 +106,19 @@ function emptyBuckets() {
   }
 }
 
+/** One-shot cache — tab setState must not reload/sort nav-index again. */
+function getCachedBuckets() {
+  try {
+    const g = globalThis
+    if (g && g.__ptChangeLogBuckets) return g.__ptChangeLogBuckets
+    const built = buildBuckets(loadArticleRows(400))
+    if (g) g.__ptChangeLogBuckets = built
+    return built
+  } catch (e) {
+    return buildBuckets(loadArticleRows(400))
+  }
+}
+
 function tabClass(activeTab, id) {
   if (activeTab === id) return 'pt-changelog-tab pt-changelog-tab-active'
   return 'pt-changelog-tab'
@@ -123,13 +136,12 @@ export default function ChangeLog(props) {
   } catch (e) {}
 
   const [activeTab, setActiveTab] = useState('articles')
-  // Persist buckets across re-renders: tab clicks must not reload/sort nav-index again.
-  const [bucketState] = useState({ ready: false, buckets: emptyBuckets() })
-  if (bucketState.ready !== true) {
-    bucketState.buckets = buildBuckets(loadArticleRows(400))
-    bucketState.ready = true
+  let buckets = emptyBuckets()
+  try {
+    buckets = getCachedBuckets()
+  } catch (e2) {
+    buckets = emptyBuckets()
   }
-  const buckets = bucketState.buckets
 
   let panel = []
   if (activeTab === 'articles') panel = buckets.articles
