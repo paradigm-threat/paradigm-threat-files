@@ -34,17 +34,23 @@ function attrValue(tag, name) {
 }
 
 function parentDir(rel) {
-  let t = rel || ''
-  while (t.length > 0 && t.charAt(0) === '/') t = t.slice(1)
+  let t = ''
+  if (typeof rel === 'string') t = rel
+  while (t.length > 0 && t.charAt(0) === '/') {
+    t = t.slice(1)
+  }
   const slash = t.lastIndexOf('/')
   if (slash < 0) return ''
   return t.slice(0, slash)
 }
 
 function buildAutoIndexList(pathProp, sortName, currentRel) {
-  let dir = pathProp
-  if (!dir || dir.length === 0) dir = parentDir(currentRel)
-  while (dir.length > 0 && dir.charAt(0) === '/') dir = dir.slice(1)
+  let dir = ''
+  if (typeof pathProp === 'string') dir = pathProp
+  if (dir.length === 0) dir = parentDir(currentRel)
+  while (dir.length > 0 && dir.charAt(0) === '/') {
+    dir = dir.slice(1)
+  }
 
   const rows = loadArticleRows(200)
   let picked = []
@@ -54,14 +60,11 @@ function buildAutoIndexList(pathProp, sortName, currentRel) {
     if (p === 'page.md' || p === 'README.md') continue
     if (dir.length === 0) {
       picked = picked.concat([rows[i]])
-    } else if (p === dir + '.md') {
-      /* skip */
     } else if (p.indexOf(dir + '/') === 0) {
       picked = picked.concat([rows[i]])
     }
   }
 
-  // Simple path sort (CleverScript-safe).
   for (let a = 0; a < picked.length; a++) {
     for (let b = a + 1; b < picked.length; b++) {
       const pa = rowPath(picked[a])
@@ -126,6 +129,8 @@ export function expandMdComponents(md, currentRel) {
   s = replaceAllLiteral(s, '<ChangeLog/>', '')
   s = replaceAllLiteral(s, '<ChatRoom />', '')
   s = replaceAllLiteral(s, '<ChatRoom/>', '')
-  s = expandAutoIndexTags(s, currentRel || '')
+  let rel = ''
+  if (typeof currentRel === 'string') rel = currentRel
+  s = expandAutoIndexTags(s, rel)
   return s
 }
