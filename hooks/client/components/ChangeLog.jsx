@@ -1,6 +1,6 @@
 /**
  * Thin ChangeLog matching production tabs (Articles / Investigations / Blog / Recent).
- * Sync nav-index load; tab switch via useState.
+ * Buckets are built once (nav-index load + classify/sort); tab clicks only swap the panel.
  * CleverScript: no module-level const arrays; avoid onClick closures over loop vars.
  */
 import React, { useState } from 'react'
@@ -23,21 +23,23 @@ function classifyPath(path) {
   return 'article'
 }
 
+/** Stable descending path sort without Array.sort (CleverScript-safe). */
 function sortByPathDesc(rows) {
   let out = []
   for (let i = 0; i < rows.length; i++) {
-    out = out.concat([rows[i]])
-  }
-  for (let a = 0; a < out.length; a++) {
-    for (let b = a + 1; b < out.length; b++) {
-      const pa = rowPath(out[a])
-      const pb = rowPath(out[b])
-      if (pb > pa) {
-        const tmp = out[a]
-        out[a] = out[b]
-        out[b] = tmp
+    const row = rows[i]
+    const p = rowPath(row)
+    let inserted = false
+    let next = []
+    for (let j = 0; j < out.length; j++) {
+      if (!inserted && p > rowPath(out[j])) {
+        next = next.concat([row])
+        inserted = true
       }
+      next = next.concat([out[j]])
     }
+    if (!inserted) next = next.concat([row])
+    out = next
   }
   return out
 }
@@ -56,12 +58,51 @@ function buildBuckets(rows) {
   articles = sortByPathDesc(articles)
   investigations = sortByPathDesc(investigations)
   blog = sortByPathDesc(blog)
-  const recent = sortByPathDesc(articles.concat(investigations).concat(blog))
+  // Recent: merge already-sorted lists (newest path first) without re-sorting the concat.
+  let recent = []
+  let ia = 0
+  let ii = 0
+  let ib = 0
+  while (ia < articles.length || ii < investigations.length || ib < blog.length) {
+    let best = null
+    let which = ''
+    if (ia < articles.length) {
+      best = articles[ia]
+      which = 'a'
+    }
+    if (ii < investigations.length) {
+      const p = rowPath(investigations[ii])
+      if (!best || p > rowPath(best)) {
+        best = investigations[ii]
+        which = 'i'
+      }
+    }
+    if (ib < blog.length) {
+      const p2 = rowPath(blog[ib])
+      if (!best || p2 > rowPath(best)) {
+        best = blog[ib]
+        which = 'b'
+      }
+    }
+    recent = recent.concat([best])
+    if (which === 'a') ia = ia + 1
+    else if (which === 'i') ii = ii + 1
+    else ib = ib + 1
+  }
   return {
     articles: articles,
     investigations: investigations,
     blog: blog,
     recent: recent,
+  }
+}
+
+function emptyBuckets() {
+  return {
+    articles: [],
+    investigations: [],
+    blog: [],
+    recent: [],
   }
 }
 
@@ -82,7 +123,13 @@ export default function ChangeLog(props) {
   } catch (e) {}
 
   const [activeTab, setActiveTab] = useState('articles')
-  const buckets = buildBuckets(loadArticleRows(400))
+  // Persist buckets across re-renders: tab clicks must not reload/sort nav-index again.
+  const [bucketState] = useState({ ready: false, buckets: emptyBuckets() })
+  if (bucketState.ready !== true) {
+    bucketState.buckets = buildBuckets(loadArticleRows(400))
+    bucketState.ready = true
+  }
+  const buckets = bucketState.buckets
 
   let panel = []
   if (activeTab === 'articles') panel = buckets.articles
