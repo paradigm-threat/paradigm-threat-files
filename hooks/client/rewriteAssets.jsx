@@ -74,9 +74,9 @@ function classFromTitle(title) {
 }
 
 function startsWithHttp(url) {
-  if (!url || url.length < 8) return false
-  if (url.indexOf('https://') === 0) return true
-  if (url.indexOf('http://') === 0) return true
+  if (!url || typeof url !== 'string') return false
+  if (url.length >= 8 && url.slice(0, 8) === 'https://') return true
+  if (url.length >= 7 && url.slice(0, 7) === 'http://') return true
   return false
 }
 
