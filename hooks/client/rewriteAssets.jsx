@@ -1,7 +1,6 @@
 /**
  * Thin tip: rasters are IPFS stubs and `?w=` optimize 500s when Kubo is down.
- * Convert markdown images to HTML <img> (absolute GitLab Pages src) so md2ast
- * does not re-resolve URLs (absolute `](https://…)` breaks when alt contains `"`).
+ * Convert markdown images to HTML <img> with GitLab Pages absolute src.
  */
 
 function assetMirrorBase() {
@@ -51,15 +50,12 @@ function classFromTitle(title) {
   if (!title || typeof title !== 'string') return ''
   let t = title.trim()
   if (t.length < 2) return ''
-  if (t.charAt(0) === "'" || t.charAt(0) === '"') {
-    t = t.slice(1)
-  }
+  if (t.charAt(0) === "'" || t.charAt(0) === '"') t = t.slice(1)
   if (t.length > 0) {
     const last = t.charAt(t.length - 1)
     if (last === "'" || last === '"') t = t.slice(0, t.length - 1)
   }
   t = t.trim()
-  if (t.indexOf('className') < 0) return ''
   const key = '"className"'
   const at = t.indexOf(key)
   if (at < 0) return ''
@@ -77,30 +73,35 @@ function classFromTitle(title) {
   return cls.trim()
 }
 
+function startsWithHttp(url) {
+  if (!url || url.length < 8) return false
+  if (url.indexOf('https://') === 0) return true
+  if (url.indexOf('http://') === 0) return true
+  return false
+}
+
 function relFromUrl(url) {
   let path = url
-  if (path.indexOf('://') >= 0) {
-    const markers = [
-      'paradigmthreat.net/',
-      'paradigm-threat-files.dfw1.relaygateway.net/',
-      'relay.paradigmthreat.net/',
-      'paradigm-threat-files-69f9dc.gitlab.io/',
-    ]
-    let cut = -1
-    for (let m = 0; m < markers.length; m++) {
-      const at = path.indexOf(markers[m])
-      if (at >= 0) {
-        cut = at + markers[m].length
-        break
-      }
+  if (startsWithHttp(path)) {
+    const hostEnd = path.indexOf('/', 8)
+    if (hostEnd < 0) return ''
+    path = path.slice(hostEnd + 1)
+  } else {
+    while (path.length > 0 && path.charAt(0) === '/') {
+      path = path.slice(1)
     }
-    if (cut < 0) return ''
-    path = path.slice(cut)
-  }
-  while (path.length > 0 && path.charAt(0) === '/') {
-    path = path.slice(1)
   }
   return stripQuery(path)
+}
+
+function findMdImageClose(md, from) {
+  // Prefer ](/ or ](http so we do not match stray ]( in alt text.
+  const a = md.indexOf('](/', from)
+  const b = md.indexOf('](http', from)
+  if (a < 0) return b
+  if (b < 0) return a
+  if (a < b) return a
+  return b
 }
 
 /**
@@ -124,10 +125,11 @@ export function rewriteMarkdownAssetUrls(md, mirrorBase) {
     }
     out = out + md.slice(pos, bang)
     const altOpen = bang + 2
-    const altClose = md.indexOf('](', altOpen)
-    if (altClose < 0) {
-      out = out + md.slice(bang)
-      break
+    const altClose = findMdImageClose(md, altOpen)
+    if (altClose < 0 || altClose < altOpen) {
+      out = out + md.slice(bang, bang + 2)
+      pos = bang + 2
+      continue
     }
     const alt = md.slice(altOpen, altClose)
     let j = altClose + 2
@@ -153,7 +155,9 @@ export function rewriteMarkdownAssetUrls(md, mirrorBase) {
       const src = mirror + '/' + rel
       const cls = classFromTitle(title)
       let tag = '<img src="' + src + '" alt="' + escapeAttr(alt) + '"'
-      if (cls.length > 0) tag = tag + ' class="' + escapeAttr(cls) + '"'
+      if (cls.length > 0) {
+        tag = tag + ' class="' + escapeAttr(cls) + '"'
+      }
       tag = tag + ' />'
       out = out + tag
       pos = j
