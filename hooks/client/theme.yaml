@@ -298,13 +298,16 @@ themes:
         backgroundColor: "var(bg)"
         color: "var(foreground)"
         minHeight: "100vh"
+        height: "auto"
         display: "flex"
         flexDirection: "column"
       ".pt-shell-body":
-        flex: 1
+        flexGrow: 1
+        flexShrink: 0
+        flexBasis: "auto"
         display: "flex"
         flexDirection: "column"
-        minHeight: 0
+        minHeight: "auto"
       ".pt-site-nav":
         position: "sticky"
         top: 0
@@ -393,8 +396,10 @@ themes:
       ".pt-page":
         backgroundColor: "var(bg)"
         color: "var(foreground)"
-        flex: 1
-        minHeight: 0
+        flexGrow: 1
+        flexShrink: 0
+        flexBasis: "auto"
+        minHeight: "auto"
       ".pt-container":
         maxWidth: "64rem"
         marginLeft: "auto"
@@ -582,7 +587,7 @@ themes:
       ".pt-article-page":
         display: "flex"
         flexDirection: "column"
-        minHeight: 0
+        minHeight: "auto"
       ".pt-article-toolbar":
         display: "flex"
         flexWrap: "wrap"
@@ -600,22 +605,50 @@ themes:
         minWidth: 0
         wordBreak: "break-all"
       ".pt-article-body":
-        flex: 1
-        overflowY: "auto"
+        flexGrow: 0
+        flexShrink: 1
+        flexBasis: "auto"
+        overflowY: "visible"
         padding: "1rem"
         maxWidth: "64rem"
         marginLeft: "auto"
         marginRight: "auto"
         width: "100%"
         boxSizing: "border-box"
+      ".pt-changelog":
+        margin: "1.5rem 0"
+        padding: "1rem"
+        borderWidth: 1
+        borderStyle: "solid"
+        borderColor: "var(border)"
+        borderRadius: "0.5rem"
+        backgroundColor: "var(card)"
+        boxSizing: "border-box"
+      ".pt-changelog-title":
+        fontSize: "1.125rem"
+        fontWeight: "700"
+        margin: "0 0 0.75rem"
+      ".pt-changelog-list":
+        listStyle: "none"
+        margin: 0
+        padding: 0
+      ".pt-changelog-item":
+        margin: "0 0 0.4rem"
+        fontSize: "0.875rem"
+      ".pt-md-stub":
+        display: "none"
       ".pt-footer":
         marginTop: "auto"
+        flexShrink: 0
+        position: "relative"
+        zIndex: 1
         padding: "1.5rem 1rem"
         borderTopWidth: 1
         borderTopStyle: "solid"
         borderTopColor: "var(border)"
         textAlign: "center"
         fontSize: "0.875rem"
+        backgroundColor: "var(bg)"
       ".relay-image":
         display: "flex"
         flexDirection: "column"

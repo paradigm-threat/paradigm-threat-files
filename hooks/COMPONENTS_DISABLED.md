@@ -4,10 +4,10 @@ Hard custom markdown / site components are **not** wired yet. Plain `@clevertree
 
 | Component | Status | Notes |
 |-----------|--------|-------|
-| AutoIndex | overrides | `MarkdownRenderer overrides.AutoIndex` (needs runtime with overrides support) |
-| ChangeLog | stripped | Override returns empty stub |
+| AutoIndex | overrides | `MarkdownRenderer overrides.AutoIndex` |
+| ChangeLog | overrides | Thin recent-blog list (`hooks/client/components/ChangeLog.jsx`) |
 | EmbedFile | disabled | |
-| ChatRoom-in-md | stripped | Override returns empty stub |
+| ChatRoom-in-md | stub | Override returns hidden stub until chat lands |
 | PopImage / gallery | disabled | Use plain `img`; RelayImage later |
 | VisTimeline / maps / Three | deferred | Host-native later |
 | Files `/timeline` subpath | deferred | Timeline on its own subdomain |

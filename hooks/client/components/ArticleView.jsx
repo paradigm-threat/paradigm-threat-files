@@ -10,7 +10,13 @@ import {
 } from 'hooks/client/loadArticles.jsx'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
 import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
+import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
 import manifest from '@hooks'
+
+/** Stub for markdown tags not yet implemented (module-level for CleverScript scope). */
+function EmptyMdStub() {
+  return <span className="pt-md-stub" aria-hidden="true" />
+}
 
 function str(v) {
   if (v === null) return ''
@@ -185,10 +191,6 @@ export default function ArticleView(props) {
     return <AutoIndex path={pathAttr} sort={sortAttr} currentPath={pathPart} />
   }
 
-  function renderEmptyMdStub() {
-    return <span className="pt-muted" />
-  }
-
   return (
     <SiteChrome currentPath={currentPath}>
       <main className="pt-page pt-article-page">
@@ -214,8 +216,8 @@ export default function ArticleView(props) {
                 }}
                 overrides={{
                   AutoIndex: renderAutoIndex,
-                  ChangeLog: renderEmptyMdStub,
-                  ChatRoom: renderEmptyMdStub,
+                  ChangeLog: ChangeLog,
+                  ChatRoom: EmptyMdStub,
                 }}
               />
               {prevHref.length > 0 || nextHref.length > 0 ? (
