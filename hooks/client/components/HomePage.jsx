@@ -6,6 +6,7 @@ import {
   loadArticleRows,
   rowPath,
   rowTitle,
+  siteHref,
 } from 'hooks/client/loadArticles.jsx'
 
 /**
@@ -23,7 +24,7 @@ export default function HomePage() {
     if (path.length === 0) continue
     items = items.concat([
       <li key={'h-' + i} className="pt-result-item">
-        <a href={'/' + path} className="pt-result-link">
+        <a href={siteHref('/' + path)} className="pt-result-link">
           <span className="pt-result-title">{rowTitle(row)}</span>
           <span className="pt-muted pt-result-path">{path}</span>
         </a>
@@ -45,7 +46,7 @@ export default function HomePage() {
                 </p>
                 {featured.length > 0 ? (
                   <p>
-                    <a className="pt-btn pt-btn-primary" href={'/' + featured}>
+                    <a className="pt-btn pt-btn-primary" href={siteHref('/' + featured)}>
                       Open latest blog article
                     </a>
                   </p>

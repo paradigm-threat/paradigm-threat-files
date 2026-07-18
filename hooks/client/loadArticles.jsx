@@ -1,17 +1,6 @@
 import manifest from '@hooks'
 import { parseJson, queryIndexBody } from 'hooks/client/jsonUtil.jsx'
 
-function str(v) {
-  if (v === null) return ''
-  if (typeof v === 'boolean') {
-    if (v) return 'true'
-    return 'false'
-  }
-  if (typeof v === 'number') return '' + v
-  if (typeof v === 'string') return v
-  return ''
-}
-
 function clientBase() {
   try {
     if (typeof manifest.relayClientBaseUrl === 'string') {
@@ -23,6 +12,24 @@ function clientBase() {
     }
   } catch (e) {}
   return ''
+}
+
+/** Match SSR HTML href rewriting (`asset_base_url` + relative path). */
+export function siteHref(path) {
+  let p = ''
+  if (typeof path === 'string') p = path
+  if (p.length === 0) p = '/'
+  if (p.charAt(0) === '#' || p.indexOf('mailto:') === 0 || p.indexOf('tel:') === 0) {
+    return p
+  }
+  if (p.indexOf('://') >= 0) return p
+  while (p.length > 0 && p.charAt(0) === '/') {
+    p = p.slice(1)
+  }
+  const base = clientBase()
+  if (base.length === 0) return '/' + p
+  if (p.length === 0) return base + '/'
+  return base + '/' + p
 }
 
 export function rowPath(row) {
@@ -72,10 +79,10 @@ function rowsFromPayload(data) {
   if (!data) return out
   let list = null
   try {
-    if (data.results && data.results.length >= 0) list = data.results
+    if (data.articles && data.articles.length >= 0) list = data.articles
   } catch (e) {}
   try {
-    if (!list && data.articles && data.articles.length >= 0) list = data.articles
+    if (!list && data.results && data.results.length >= 0) list = data.results
   } catch (e2) {}
   if (!list) return out
   for (let i = 0; i < list.length; i++) {
@@ -84,43 +91,51 @@ function rowsFromPayload(data) {
   return out
 }
 
+function tryFetchJson(url, options) {
+  try {
+    const resp = fetch(url, options)
+    if (!resp || resp.ok !== true) return null
+    const text = resp.text ? resp.text : ''
+    if (text.length === 0) return null
+    return parseJson(text)
+  } catch (e) {
+    return null
+  }
+}
+
 /**
- * Same-repo article index. Prefers QUERY JSON (SSR host supports QUERY);
- * falls back to committed nav-index.json via GET.
- * Uses absolute URLs (relayClientBaseUrl) — same as ArticleView — so SSR
- * RepoFetchHost resolves paths reliably.
+ * Article index for Index / Home.
+ *
+ * Prefer committed nav-index.json (GET) so SSR and browser hydrate match.
+ * Browser sync XHR historically dropped QUERY bodies / methods, which emptied
+ * the client tree after a good SSR paint (hydrate mismatch).
+ *
+ * QUERY remains a fallback for environments where nav-index is missing.
  */
 export function loadArticleRows(limit) {
   let lim = 48
   if (typeof limit === 'number' && limit > 0) lim = limit
   const base = clientBase()
+  const navUrl = base.length > 0 ? base + '/nav-index.json' : '/nav-index.json'
+  const nav = tryFetchJson(navUrl, { method: 'GET' })
+  const fromNav = rowsFromPayload(nav)
+  if (fromNav.length > 0) {
+    if (fromNav.length > lim) {
+      let clipped = []
+      for (let i = 0; i < lim; i++) {
+        clipped = clipped.concat([fromNav[i]])
+      }
+      return clipped
+    }
+    return fromNav
+  }
 
-  // Relative root works for SSR QUERY; absolute also maps via asset_base_url.
   const queryUrl = base.length > 0 ? base + '/' : '/'
-  const resp = fetch(queryUrl, {
+  const queried = tryFetchJson(queryUrl, {
     method: 'QUERY',
     body: queryIndexBody('', lim, ''),
   })
-  if (resp && resp.ok === true) {
-    const text = resp.text ? resp.text : ''
-    if (text.length > 0) {
-      const data = parseJson(text)
-      const out = rowsFromPayload(data)
-      if (out.length > 0) return out
-    }
-  }
-
-  const navUrl = base.length > 0 ? base + '/nav-index.json' : '/nav-index.json'
-  const fallback = fetch(navUrl, { method: 'GET' })
-  if (fallback && fallback.ok === true) {
-    const text = fallback.text ? fallback.text : ''
-    if (text.length > 0) {
-      const data = parseJson(text)
-      const out = rowsFromPayload(data)
-      if (out.length > 0) return out
-    }
-  }
-  return []
+  return rowsFromPayload(queried)
 }
 
 export function featuredArticlePath(rows) {

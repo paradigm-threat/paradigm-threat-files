@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import ThemeToggle from 'hooks/client/components/ThemeToggle.jsx'
 import { IconBook, IconClose, IconHome, IconMenu, IconSearch } from 'hooks/client/components/Icons.jsx'
 import { propOr, propStr } from 'hooks/client/propOr.jsx'
+import { siteHref } from 'hooks/client/loadArticles.jsx'
 
 function NavLink(props) {
   const href = propStr(props, 'href', '#')
@@ -10,7 +11,7 @@ function NavLink(props) {
   const active = propOr(props, 'active', false)
   const className = active ? 'pt-nav-link pt-nav-link-active' : 'pt-nav-link'
   return (
-    <a href={href} className={className}>
+    <a href={siteHref(href)} className={className}>
       {icon}
       <span>{label}</span>
     </a>
@@ -34,7 +35,7 @@ export default function Nav(props) {
     <header className="pt-site-nav" data-site-navbar="true">
       <div className="pt-nav-inner">
         <div className="pt-nav-brand-row">
-          <a href="/" className="pt-brand">
+          <a href={siteHref('/')} className="pt-brand">
             Paradigm Threat
           </a>
           <nav className="pt-nav-desktop md:pt-nav-desktop-md">

@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import SiteChrome from 'hooks/client/components/SiteChrome.jsx'
 import { IconSearch } from 'hooks/client/components/Icons.jsx'
 import { parseJson, queryIndexBody } from 'hooks/client/jsonUtil.jsx'
+import { siteHref } from 'hooks/client/loadArticles.jsx'
 
 function str(v) {
   if (v === null) return ''
@@ -37,13 +38,18 @@ function rowPath(row) {
 }
 
 function runSearch(query) {
-  const resp = fetch('/', {
-    method: 'QUERY',
-    headers: {
-      Accept: 'application/json',
-    },
-    body: queryIndexBody(query, 24, ''),
-  })
+  let resp = null
+  try {
+    resp = fetch('/', {
+      method: 'QUERY',
+      headers: {
+        Accept: 'application/json',
+      },
+      body: queryIndexBody(query, 24, ''),
+    })
+  } catch (e) {
+    return { error: 'Search failed (QUERY unavailable in this browser host)', rows: [] }
+  }
   if (!resp || resp.ok !== true) {
     let st = 0
     if (resp && resp.status) st = resp.status
@@ -77,7 +83,7 @@ function runSearch(query) {
 function ResultItem(props) {
   const row = props.row
   const path = rowPath(row)
-  const href = path.length > 0 ? '/' + path : '/README.md'
+  const href = path.length > 0 ? siteHref('/' + path) : siteHref('/README.md')
   return (
     <li className="pt-result-item">
       <a href={href} className="pt-result-link">
