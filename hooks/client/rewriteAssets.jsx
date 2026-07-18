@@ -1,9 +1,8 @@
 /**
  * Thin tip rasters are IPFS stubs; park Kubo is often down.
- * Retarget markdown image URLs to GitLab Pages (binary mirror).
+ * Retarget markdown *image* URLs only to GitLab Pages (not .md links).
  *
  * CleverScript: only export function / export default; no export const.
- * Prefer literal replaceAll — avoid host+path concat (path corruption risk).
  */
 
 function replaceAllLiteral(text, needle, replacement) {
@@ -22,6 +21,24 @@ function replaceAllLiteral(text, needle, replacement) {
     pos = idx + fl
   }
   return out
+}
+
+function endsWithLiteral(s, suffix) {
+  if (!s || !suffix) return false
+  if (suffix.length > s.length) return false
+  return s.slice(s.length - suffix.length) === suffix
+}
+
+function pathLooksLikeRaster(pathPart) {
+  const p = pathPart || ''
+  if (endsWithLiteral(p, '.jpg')) return true
+  if (endsWithLiteral(p, '.jpeg')) return true
+  if (endsWithLiteral(p, '.png')) return true
+  if (endsWithLiteral(p, '.gif')) return true
+  if (endsWithLiteral(p, '.webp')) return true
+  if (endsWithLiteral(p, '.JPG')) return true
+  if (endsWithLiteral(p, '.PNG')) return true
+  return false
 }
 
 /** md2ast drops/mangles ![alt](https://…) when alt contains double quotes. */
@@ -49,12 +66,45 @@ function softenImageAltQuotes(md) {
   return out
 }
 
+/**
+ * Rewrite ](/top/…raster) → GitLab Pages; leave ](/top/….md) alone.
+ */
+function rewriteRasterRoot(s, top) {
+  const from = '](/' + top + '/'
+  const toHost = '](https://paradigm-threat-files-69f9dc.gitlab.io/' + top + '/'
+  let out = ''
+  let pos = 0
+  while (pos < s.length) {
+    const idx = s.indexOf(from, pos)
+    if (idx < 0) {
+      out = out + s.slice(pos)
+      break
+    }
+    out = out + s.slice(pos, idx)
+    const close = s.indexOf(')', idx)
+    if (close < 0) {
+      out = out + s.slice(idx)
+      break
+    }
+    const after = s.slice(idx + from.length, close)
+    let pathOnly = after
+    const sp = after.indexOf(' ')
+    if (sp >= 0) pathOnly = after.slice(0, sp)
+    if (pathLooksLikeRaster(pathOnly)) {
+      out = out + toHost + after + ')'
+    } else {
+      out = out + s.slice(idx, close + 1)
+    }
+    pos = close + 1
+  }
+  return out
+}
+
 export function rewriteMarkdownAssetUrls(md, mirrorBase) {
   if (!md || typeof md !== 'string') return ''
   let s = softenImageAltQuotes(md)
 
   // Exact tip title: space + '{"className":"sm:float-right …"}'
-  // Build with split strings so the file source stays CleverScript-safe.
   s = replaceAllLiteral(
     s,
     " '{" + '"className":"' + 'sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"' + "}'",
@@ -77,46 +127,14 @@ export function rewriteMarkdownAssetUrls(md, mirrorBase) {
   s = replaceAllLiteral(s, '.jpg?w=640', '.jpg')
   s = replaceAllLiteral(s, '.png?w=640', '.png')
 
-  s = replaceAllLiteral(
-    s,
-    '](/influence/',
-    '](https://paradigm-threat-files-69f9dc.gitlab.io/influence/'
-  )
-  s = replaceAllLiteral(
-    s,
-    '](/history/',
-    '](https://paradigm-threat-files-69f9dc.gitlab.io/history/'
-  )
-  s = replaceAllLiteral(
-    s,
-    '](/cosmos/',
-    '](https://paradigm-threat-files-69f9dc.gitlab.io/cosmos/'
-  )
-  s = replaceAllLiteral(
-    s,
-    '](/governance/',
-    '](https://paradigm-threat-files-69f9dc.gitlab.io/governance/'
-  )
-  s = replaceAllLiteral(
-    s,
-    '](/science/',
-    '](https://paradigm-threat-files-69f9dc.gitlab.io/science/'
-  )
-  s = replaceAllLiteral(
-    s,
-    '](/events/',
-    '](https://paradigm-threat-files-69f9dc.gitlab.io/events/'
-  )
-  s = replaceAllLiteral(
-    s,
-    '](/blog/',
-    '](https://paradigm-threat-files-69f9dc.gitlab.io/blog/'
-  )
-  s = replaceAllLiteral(
-    s,
-    '](/book/',
-    '](https://paradigm-threat-files-69f9dc.gitlab.io/book/'
-  )
+  s = rewriteRasterRoot(s, 'influence')
+  s = rewriteRasterRoot(s, 'history')
+  s = rewriteRasterRoot(s, 'cosmos')
+  s = rewriteRasterRoot(s, 'governance')
+  s = rewriteRasterRoot(s, 'science')
+  s = rewriteRasterRoot(s, 'events')
+  s = rewriteRasterRoot(s, 'blog')
+  s = rewriteRasterRoot(s, 'book')
 
   if (typeof mirrorBase === 'string' && mirrorBase.length > 0) {
     /* call-site compat */
