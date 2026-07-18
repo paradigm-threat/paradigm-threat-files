@@ -112,7 +112,7 @@ Preferred when running in-repo tooling: **`putComment`** / MCP **`submit_chat_co
 Chat links use **`https://paradigmthreat.net/...`**. The SPA shells any path; **content** comes from **`paradigm-threat-files`** on Relay.
 
 1. Commit the investigation + index wiring (`page.md`, `docs/INVESTIGATIONS_DEEP_DIVE.md`, related-investigation cross-links, lane indexes).
-2. Push **all** configured remotes (`dfw1`, `lon1`, `hkg1`, `gitlab`, …). Lon1/hkg1 may already be current via peer notify — still attempt push or verify.
+2. Publish per **[`docs/GIT_REMOTE_STRATEGY.md`](GIT_REMOTE_STRATEGY.md)**: work on branch **`gitlab`** → rebase onto Relay **`dfw1/main`** → push **`dfw1` / `hkg1` / `lon1`** **`main`** (live) → push **`gitlab`** remote branch **`gitlab`** (backup). Do **not** push day-to-day to `gitlab/main`. Lon1/hkg1 may already be current via peer notify — still attempt push or verify.
 3. Verify raw files host returns markdown, not `not_found`:
 
 ```bash

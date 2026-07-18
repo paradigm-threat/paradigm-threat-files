@@ -1,0 +1,18 @@
+---
+description: Relay main is production; GitLab uses branch gitlab — never treat them as one tip
+alwaysApply: true
+---
+
+# paradigm-threat-files: git remotes (Relay `main` vs GitLab `gitlab`)
+
+**Canon:** [`docs/GIT_REMOTE_STRATEGY.md`](docs/GIT_REMOTE_STRATEGY.md)
+
+## Rules (compact)
+
+- **Production:** Relay remotes **`dfw1` / `hkg1` / `lon1`** branch **`main`** — live site content.
+- **GitLab backup:** remote **`gitlab`**, branch **`gitlab`** (tracks `gitlab/gitlab`). **Not** `gitlab/main` for day-to-day pushes.
+- **Local default checkout:** branch **`gitlab`**.
+- **Ordinary commit + push:** `git push gitlab HEAD:gitlab` only.
+- **Go live / push remotes / push everything live:** `git fetch` → **rebase/merge onto `dfw1/main`** → push all three Relay `main` → then `git push gitlab HEAD:gitlab`.
+- **Never** assume GitLab tip == Relay tip. **Never** dual cherry-pick as sync. **Never** force-push Relay `main` unless the author explicitly orders it.
+- **Never** land long-lived commits on only one Relay.

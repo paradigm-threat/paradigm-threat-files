@@ -11,8 +11,10 @@ When the author asks to **find**, **triage**, or **respond to** Paradigm Threat 
 2. Chat is **Relay git** on **`paradigm-threat-site`** branch **`chat/public`** under `.relay/chat/channels/<channel>/` — **not** Discord. Prefer `git fetch` + remote tip over a stale local branch.
 3. Inspect with `git show "chat/public:.relay/chat/channels/…"` / `git grep` from `paradigm-threat-site`.
 4. Ship research per **`docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md`** when the lead needs a dossier; wire hub indexes.
-5. Close the loop with a **short** channel post as **`protricity`** (`anonymous: false`) and a **live** `https://paradigmthreat.net/…` link — **push `paradigm-threat-files` first** so Relay does not return `not_found`.
+5. Close the loop with a **short** channel post as **`protricity`** (`anonymous: false`) and a **live** `https://paradigmthreat.net/…` link — **push Relay `main` first** (see **`docs/GIT_REMOTE_STRATEGY.md`**) so Relay does not return `not_found`. GitLab backup is branch **`gitlab`**, not `gitlab/main`.
 6. Confirm before posting unless the author already ordered “reply to that thread / post to chat / push everything live.”
+
+**Git remotes:** Relay **`main`** = production; GitLab branch **`gitlab`** = backup. Cursor rule **`.cursor/rules/paradigm-threat-git-remotes.mdc`**.
 
 **Worked examples** (doc §8):
 
