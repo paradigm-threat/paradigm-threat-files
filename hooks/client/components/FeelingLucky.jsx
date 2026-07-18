@@ -2,11 +2,9 @@ import React from 'react'
 import { isClientLive } from '@clevertree/style-internal'
 import { pickFeelingLuckyPath, siteHref } from 'hooks/client/loadArticles.jsx'
 
-// Build label without apostrophe literals (CleverScript JSX text breaks on ').
-const LUCKY_LABEL = 'I' + String.fromCharCode(39) + 'm Feeling Lucky'
-
 /**
  * Random article from nav-index (files park only). Navigate via location.href.
+ * Label omits apostrophe — CleverScript treats JSX text like single-quoted strings.
  */
 export default function FeelingLucky() {
   const live = isClientLive() === true
@@ -16,7 +14,7 @@ export default function FeelingLucky() {
       type="button"
       className="pt-btn pt-feeling-lucky"
       disabled={!live}
-      title={live ? LUCKY_LABEL : 'Available after page loads'}
+      title={live ? 'Feeling Lucky' : 'Available after page loads'}
       onClick={() => {
         if (!live) return
         const path = pickFeelingLuckyPath()
@@ -29,7 +27,7 @@ export default function FeelingLucky() {
         } catch (e) {}
       }}
     >
-      {LUCKY_LABEL}
+      Feeling Lucky
     </button>
   )
 }
