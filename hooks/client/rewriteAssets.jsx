@@ -49,16 +49,42 @@ function softenImageAltQuotes(md) {
   return out
 }
 
+/** Drop markdown link/image titles: ](url '…') / ](url "…") → ](url). */
+function stripMdLinkTitles(md) {
+  if (!md || typeof md !== 'string') return ''
+  let out = ''
+  let pos = 0
+  while (pos < md.length) {
+    const open = md.indexOf('](', pos)
+    if (open < 0) {
+      out = out + md.slice(pos)
+      break
+    }
+    out = out + md.slice(pos, open + 2)
+    const close = md.indexOf(')', open + 2)
+    if (close < 0) {
+      out = out + md.slice(open + 2)
+      break
+    }
+    let inner = md.slice(open + 2, close)
+    let cut = -1
+    const sp1 = inner.indexOf(" '")
+    const sp2 = inner.indexOf(' "')
+    if (sp1 >= 0) cut = sp1
+    if (sp2 >= 0) {
+      if (cut < 0 || sp2 < cut) cut = sp2
+    }
+    if (cut >= 0) inner = inner.slice(0, cut)
+    out = out + inner + ')'
+    pos = close + 1
+  }
+  return out
+}
+
 export function rewriteMarkdownAssetUrls(md, mirrorBase) {
   if (!md || typeof md !== 'string') return ''
   let s = softenImageAltQuotes(md)
-
-  // Drop float-title JSON (Next leftover).
-  s = replaceAllLiteral(
-    s,
-    " '{" + '"className":"' + 'sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"' + "}'",
-    ''
-  )
+  s = stripMdLinkTitles(s)
 
   if (typeof mirrorBase === 'string' && mirrorBase.length > 0) {
     /* call-site compat */
