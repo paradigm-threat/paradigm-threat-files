@@ -127,9 +127,11 @@ Interpretive claims that stay first-class here and are prosecuted with tiers in 
 
 Æther naming follows the project vocabulary note linked from the [Maxwell / æther lane](https://paradigmthreat.net/science/maxwell_aether/02-did-maxwell-prove-the-aether.md). No operational instructions for harm.
 
+**Substack:** [paradigmthreat2.substack.com/p/the-jedi-who-stare-at-goats](https://paradigmthreat2.substack.com/p/the-jedi-who-stare-at-goats)
+
 Keywords: #TheJediWhoStareAtGoats #MenWhoStareAtGoats #StarWars #JediKnight #RemoteViewing #JonRonson #GeorgeClooney #EwanMcGregor #ControlledOpposition #AbuGhraib #MKULTRA #FrankOlson #HeavensGate #UriGeller #CrazyRulersOfTheWorld #StargateFilm #PredictiveProgramming #Midichlorians #SequelTrilogy #Aether #Bardo #ParadigmThreatFiles
 
-**Last updated:** 2026-07-18T09:18:24-04:00
+**Last updated:** 2026-07-18T09:26:07-04:00
 
 ---
 

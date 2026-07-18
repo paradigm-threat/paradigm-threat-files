@@ -487,7 +487,7 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 
 ## 6.1 Article plan (reader essay)
 
-**Status:** **Shipped** — [**The Jedi Who Stare at Goats**](/influence/hollywood/the-jedi-who-stare-at-goats.md) (`influence/hollywood/the-jedi-who-stare-at-goats.md`), 2026-07-18. Further passes may deepen *Star Wars* containment / Bardo / child-recruitment cites without moving the thesis.
+**Status:** **Shipped** — [**The Jedi Who Stare at Goats**](/influence/hollywood/the-jedi-who-stare-at-goats.md) (`influence/hollywood/the-jedi-who-stare-at-goats.md`), 2026-07-18. **Substack:** [paradigmthreat2.substack.com/p/the-jedi-who-stare-at-goats](https://paradigmthreat2.substack.com/p/the-jedi-who-stare-at-goats). Further passes may deepen *Star Wars* containment / Bardo / child-recruitment cites without moving the thesis.
 
 **Path:**  
 `influence/hollywood/the-jedi-who-stare-at-goats.md`
@@ -584,7 +584,7 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 | [RV fiction index](/science/telepathy/remote_viewing/index-remote-viewing-fiction.md) | Pre-1970s fiction encoding of scrying / two-way devices |
 | [RV as æther physics (stub)](/science/telepathy/remote_viewing/aether-consciousness.md) | Physics framing |
 | [Hollywood two-camp war](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) | Militainment / satire taxonomy |
-| [**The Jedi Who Stare at Goats**](/influence/hollywood/the-jedi-who-stare-at-goats.md) | **Reader essay** for this dossier — look-away hook; Ronson CO; everything in *Star Wars* true |
+| [**The Jedi Who Stare at Goats**](/influence/hollywood/the-jedi-who-stare-at-goats.md) | **Reader essay** for this dossier — look-away hook; Ronson CO; everything in *Star Wars* true · [Substack](https://paradigmthreat2.substack.com/p/the-jedi-who-stare-at-goats) |
 | [*Everything in Independence Day Is True*](/influence/hollywood/everything-in-independence-day-is-true.md) | Sister thesis: blockbuster as true under genre shell |
 | [`docs/REDACTION.md`](/docs/REDACTION.md) | R1–R6 vocabulary |
 
