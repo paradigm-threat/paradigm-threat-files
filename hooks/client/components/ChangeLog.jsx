@@ -1,8 +1,8 @@
 /**
  * Thin ChangeLog matching production tabs (Articles / Investigations / Blog / Recent).
- * Loads nav-index once, filters per tab client-side (async load state on mount).
+ * Sync nav-index load (CleverScript-friendly); tab switch is client state only.
  */
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 
 const TABS = [
@@ -48,6 +48,29 @@ function sortByPathDesc(rows) {
   return out
 }
 
+function buildBuckets(rows) {
+  let articles = []
+  let investigations = []
+  let blog = []
+  for (let i = 0; i < rows.length; i++) {
+    const p = rowPath(rows[i])
+    const kind = classifyPath(p)
+    if (kind === 'blog') blog = blog.concat([rows[i]])
+    else if (kind === 'investigation') investigations = investigations.concat([rows[i]])
+    else if (kind === 'article') articles = articles.concat([rows[i]])
+  }
+  articles = sortByPathDesc(articles)
+  investigations = sortByPathDesc(investigations)
+  blog = sortByPathDesc(blog)
+  const recent = sortByPathDesc(articles.concat(investigations).concat(blog))
+  return {
+    articles: articles,
+    investigations: investigations,
+    blog: blog,
+    recent: recent,
+  }
+}
+
 export default function ChangeLog(props) {
   let limit = 16
   try {
@@ -55,39 +78,7 @@ export default function ChangeLog(props) {
   } catch (e) {}
 
   const [activeTab, setActiveTab] = useState('articles')
-  const [loading, setLoading] = useState(true)
-  const [buckets, setBuckets] = useState({
-    articles: [],
-    investigations: [],
-    blog: [],
-    recent: [],
-  })
-
-  useEffect(() => {
-    setLoading(true)
-    const rows = loadArticleRows(400)
-    let articles = []
-    let investigations = []
-    let blog = []
-    for (let i = 0; i < rows.length; i++) {
-      const p = rowPath(rows[i])
-      const kind = classifyPath(p)
-      if (kind === 'blog') blog = blog.concat([rows[i]])
-      else if (kind === 'investigation') investigations = investigations.concat([rows[i]])
-      else if (kind === 'article') articles = articles.concat([rows[i]])
-    }
-    articles = sortByPathDesc(articles)
-    investigations = sortByPathDesc(investigations)
-    blog = sortByPathDesc(blog)
-    const recent = sortByPathDesc(articles.concat(investigations).concat(blog))
-    setBuckets({
-      articles: articles,
-      investigations: investigations,
-      blog: blog,
-      recent: recent,
-    })
-    setLoading(false)
-  }, [])
+  const buckets = buildBuckets(loadArticleRows(400))
 
   let panel = []
   if (activeTab === 'articles') panel = buckets.articles
@@ -112,17 +103,21 @@ export default function ChangeLog(props) {
   for (let t = 0; t < TABS.length; t++) {
     const tab = TABS[t]
     const isActive = activeTab === tab.id
+    const cls = isActive ? 'pt-changelog-tab pt-changelog-tab-active' : 'pt-changelog-tab'
+    const selected = isActive ? 'true' : 'false'
+    const tabId = tab.id
+    const label = tab.label
     tabBtns = tabBtns.concat([
       <button
-        key={'tab-' + tab.id}
+        key={'tab-' + tabId}
         type="button"
-        className={isActive ? 'pt-changelog-tab pt-changelog-tab-active' : 'pt-changelog-tab'}
-        aria-selected={isActive ? 'true' : 'false'}
+        className={cls}
+        aria-selected={selected}
         onClick={() => {
-          setActiveTab(tab.id)
+          setActiveTab(tabId)
         }}
       >
-        {tab.label}
+        {label}
       </button>,
     ])
   }
@@ -132,9 +127,7 @@ export default function ChangeLog(props) {
       <div className="pt-changelog-toolbar" role="tablist" aria-label="Content kind">
         {tabBtns}
       </div>
-      {loading ? (
-        <p className="pt-muted pt-changelog-status">Fetching recent updates…</p>
-      ) : items.length === 0 ? (
+      {items.length === 0 ? (
         <p className="pt-muted pt-changelog-status">No indexed items in this tab.</p>
       ) : (
         <ul className="pt-changelog-list" role="tabpanel">

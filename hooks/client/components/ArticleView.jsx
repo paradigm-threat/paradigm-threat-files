@@ -191,6 +191,14 @@ export default function ArticleView(props) {
     return <AutoIndex path={pathAttr} sort={sortAttr} currentPath={pathPart} />
   }
 
+  function renderChangeLog(p) {
+    let lim = 16
+    try {
+      if (p && typeof p.limit === 'number' && p.limit > 0) lim = p.limit
+    } catch (e) {}
+    return <ChangeLog limit={lim} />
+  }
+
   return (
     <SiteChrome currentPath={currentPath}>
       <main className="pt-page pt-article-page">
@@ -216,7 +224,7 @@ export default function ArticleView(props) {
                 }}
                 overrides={{
                   AutoIndex: renderAutoIndex,
-                  ChangeLog: ChangeLog,
+                  ChangeLog: renderChangeLog,
                   ChatRoom: EmptyMdStub,
                 }}
               />
