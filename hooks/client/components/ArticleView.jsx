@@ -167,8 +167,9 @@ export default function ArticleView(props) {
   }
 
   const rawBody = errMsg ? '# Error\n\n' + errMsg : markdownContent
-  // Temporarily skip expandMdComponents to isolate SSR text corruption.
-  const body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody)
+  const body = errMsg
+    ? rawBody
+    : expandMdComponents(rewriteMarkdownAssetUrls(rawBody), pathPart)
 
   const neighbors = neighborPaths(pathPart)
   const prevHref = neighbors.prev.length > 0 ? siteHref('/' + neighbors.prev) : ''
