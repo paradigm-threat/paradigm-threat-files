@@ -936,6 +936,7 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 | **Brandy Vaughan** | [/influence/conspiracy/celebrities/brandy-vaughan.md](/influence/conspiracy/celebrities/brandy-vaughan.md) | Merck whistleblower; anti-vax activist death |
 | **Cruz / media blackmail thesis** | [/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md) | Closet Trump supporters; leverage |
 | **CoD militainment** | [/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) | Games lane |
+| ***Men Who Stare at Goats* — RV satire / Jedi** | [/influence/hollywood/investigations/men-who-stare-at-goats-rv-satire-predictive-programming-investigation.md](/influence/hollywood/investigations/men-who-stare-at-goats-rv-satire-predictive-programming-investigation.md) | Comedy **R6** shell over psychic warfare; Clooney sensor bubble; sibling to Thread Q satire lane |
 | **British divide-and-conquer** | [/governance/war/investigations/british-divide-conquer-israel-investigation.md](/governance/war/investigations/british-divide-conquer-israel-investigation.md) | HK colony geometry |
 | **Jackie Chan** | [/influence/conspiracy/celebrities/jackie-chan.md](/influence/conspiracy/celebrities/jackie-chan.md) | HK / Beijing positioning |
 
