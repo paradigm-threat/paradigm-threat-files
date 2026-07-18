@@ -39,6 +39,9 @@ function rowPath(row) {
 function runSearch(query) {
   const resp = fetch('/', {
     method: 'QUERY',
+    headers: {
+      Accept: 'application/json',
+    },
     body: queryIndexBody(query, 24, ''),
   })
   if (!resp || resp.ok !== true) {
@@ -50,7 +53,23 @@ function runSearch(query) {
   if (text.length === 0) return { error: 'Empty search response', rows: [] }
   const data = parseJson(text)
   if (data && data.results && data.results.length >= 0) {
-    return { error: '', rows: data.results }
+    const rows = []
+    for (let i = 0; i < data.results.length; i++) {
+      const row = data.results[i]
+      let path = ''
+      try {
+        if (row.path && typeof row.path === 'string') path = row.path
+      } catch (e) {}
+      if (path.length === 0) continue
+      if (path === 'assets.manifest.json') continue
+      let kind = ''
+      try {
+        if (row.content_kind && typeof row.content_kind === 'string') kind = row.content_kind
+      } catch (e2) {}
+      if (kind === 'exclude') continue
+      rows.push(row)
+    }
+    return { error: '', rows: rows }
   }
   return { error: 'Could not parse search response', rows: [] }
 }

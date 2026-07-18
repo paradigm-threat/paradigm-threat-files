@@ -7,6 +7,7 @@ import StyleContext from '@clevertree/style'
 import manifest from '@hooks'
 import ArticleView from 'hooks/client/components/ArticleView.jsx'
 import SearchPage from 'hooks/client/components/SearchPage.jsx'
+import HomePage from 'hooks/client/components/HomePage.jsx'
 
 function str(v) {
   if (v === null) return ''
@@ -51,7 +52,7 @@ export default function ParadigmFilesRelayRoot() {
   if (route === '/search') {
     page = <SearchPage currentPath="/search" />
   } else if (route === '/' || route === '/index.md') {
-    page = <ArticleView currentPath="/" filePath="README.md" />
+    page = <HomePage />
   } else {
     page = <ArticleView currentPath={route} filePath={articleFilePath(route)} />
   }
