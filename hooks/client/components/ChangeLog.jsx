@@ -1,7 +1,7 @@
 /**
  * Thin ChangeLog matching production tabs (Articles / Investigations / Blog / Recent).
- * Sync nav-index load (CleverScript-friendly); tab switch is client state only.
- * Note: CleverScript module-level const arrays are not visible inside functions — keep tab defs local.
+ * Sync nav-index load; tab switch via useState.
+ * CleverScript: no module-level const arrays; avoid onClick closures over loop vars.
  */
 import React, { useState } from 'react'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
@@ -65,6 +65,16 @@ function buildBuckets(rows) {
   }
 }
 
+function tabClass(activeTab, id) {
+  if (activeTab === id) return 'pt-changelog-tab pt-changelog-tab-active'
+  return 'pt-changelog-tab'
+}
+
+function tabSelected(activeTab, id) {
+  if (activeTab === id) return 'true'
+  return 'false'
+}
+
 export default function ChangeLog(props) {
   let limit = 16
   try {
@@ -93,34 +103,49 @@ export default function ChangeLog(props) {
     ])
   }
 
-  const tabIds = ['articles', 'investigations', 'blog', 'recent']
-  const tabLabels = ['Articles', 'Investigations', 'Blog', 'Recent']
-  let tabBtns = []
-  for (let t = 0; t < tabIds.length; t++) {
-    const tabId = tabIds[t]
-    const label = tabLabels[t]
-    const isActive = activeTab === tabId
-    const cls = isActive ? 'pt-changelog-tab pt-changelog-tab-active' : 'pt-changelog-tab'
-    const selected = isActive ? 'true' : 'false'
-    tabBtns = tabBtns.concat([
-      <button
-        key={'tab-' + tabId}
-        type="button"
-        className={cls}
-        aria-selected={selected}
-        onClick={() => {
-          setActiveTab(tabId)
-        }}
-      >
-        {label}
-      </button>,
-    ])
-  }
-
   return (
     <section className="pt-changelog" aria-label="Change log">
       <div className="pt-changelog-toolbar" role="tablist" aria-label="Content kind">
-        {tabBtns}
+        <button
+          type="button"
+          className={tabClass(activeTab, 'articles')}
+          aria-selected={tabSelected(activeTab, 'articles')}
+          onClick={() => {
+            setActiveTab('articles')
+          }}
+        >
+          Articles
+        </button>
+        <button
+          type="button"
+          className={tabClass(activeTab, 'investigations')}
+          aria-selected={tabSelected(activeTab, 'investigations')}
+          onClick={() => {
+            setActiveTab('investigations')
+          }}
+        >
+          Investigations
+        </button>
+        <button
+          type="button"
+          className={tabClass(activeTab, 'blog')}
+          aria-selected={tabSelected(activeTab, 'blog')}
+          onClick={() => {
+            setActiveTab('blog')
+          }}
+        >
+          Blog
+        </button>
+        <button
+          type="button"
+          className={tabClass(activeTab, 'recent')}
+          aria-selected={tabSelected(activeTab, 'recent')}
+          onClick={() => {
+            setActiveTab('recent')
+          }}
+        >
+          Recent
+        </button>
       </div>
       {items.length === 0 ? (
         <p className="pt-muted pt-changelog-status">No indexed items in this tab.</p>
