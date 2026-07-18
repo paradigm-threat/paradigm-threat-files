@@ -1,5 +1,8 @@
-# Injected into full git history for relay fleet pre-receive (paradigm-threat-files, paradigm-threat-timeline).
-# branchRules must exist at every commit; legacy commits are unsigned — allowUnsigned everywhere.
+# Injected / maintained for relay fleet pre-receive (thin files tip).
+# Thin: no binaries; IPFS stubs. UI is in-repo CleverScript (client + server get).
+name: "Paradigm Threat Files"
+version: "0.1.0"
+description: "Thin files corpus with in-repo CleverScript site shell"
 client:
   hooks:
     get:
@@ -16,7 +19,16 @@ server:
       path: hooks/server/mcp.cs
   search:
     plugin: sqlite
+  tls:
+    plugin: park
 git:
+  autoPush:
+    branches: ["main"]
+    originList:
+      - "dfw1.relaygateway.net"
+      - "lon1.relaygateway.net"
+      - "hkg1.relaygateway.net"
+    debounceSeconds: 2
   branchRules:
     default:
       requireSigned: false
