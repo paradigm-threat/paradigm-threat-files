@@ -68,7 +68,7 @@ export function isArticleRow(row) {
 }
 
 function rowsFromPayload(data) {
-  const out = []
+  let out = []
   if (!data) return out
   let list = null
   try {
