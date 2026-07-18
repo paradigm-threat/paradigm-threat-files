@@ -3,31 +3,37 @@ import { isClientLive } from '@clevertree/style-internal'
 import { pickFeelingLuckyPath, siteHref } from 'hooks/client/loadArticles.jsx'
 
 /**
- * Random article from nav-index (files park only). Navigate via location.href.
- * Label omits apostrophe — CleverScript treats JSX text like single-quoted strings.
+ * Random article from nav-index (files park only).
+ * Prefer native navigate() host binding; fall back to <a href>.
  */
 export default function FeelingLucky() {
   const live = isClientLive() === true
+  const path = pickFeelingLuckyPath()
+  const href = path.length > 0 ? siteHref('/' + path) : '#'
 
   return (
-    <button
-      type="button"
+    <a
       className="pt-btn pt-feeling-lucky"
-      disabled={!live}
-      title={live ? 'Feeling Lucky' : 'Available after page loads'}
+      href={live ? href : '#'}
+      title="Feeling Lucky"
       onClick={() => {
         if (!live) return
-        const path = pickFeelingLuckyPath()
-        if (path.length === 0) return
+        const next = pickFeelingLuckyPath()
+        if (next.length === 0) return
+        const dest = siteHref('/' + next)
         try {
-          const g = globalThis
-          if (g && g.location) {
-            g.location.href = siteHref('/' + path)
-          }
-        } catch (e) {}
+          navigate(dest)
+        } catch (e) {
+          try {
+            const g = globalThis
+            if (g && g.location) {
+              g.location.href = dest
+            }
+          } catch (e2) {}
+        }
       }}
     >
       Feeling Lucky
-    </button>
+    </a>
   )
 }

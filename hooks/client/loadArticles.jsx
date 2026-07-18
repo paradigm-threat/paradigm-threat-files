@@ -158,8 +158,8 @@ export function isFeelingLuckyCandidate(path) {
 
 /**
  * Pick a rotating article path from nav-index.
- * Avoids Date/Math.random (unavailable or panicky under CleverScript WASM).
- * Sequence lives on globalThis — CleverScript does not keep module-level lets.
+ * Avoids Date/Math.random (WASM has no time; CleverScript module lets are unreliable).
+ * Prefer performance.now() via host; else pathname length.
  */
 export function pickFeelingLuckyPath() {
   const rows = loadArticleRows(200)
@@ -171,19 +171,20 @@ export function pickFeelingLuckyPath() {
     }
   }
   if (candidates.length === 0) return ''
-  let seq = 0
+  let idx = 0
   try {
     const g = globalThis
-    if (g) {
-      const prev = g.__ptLuckySeq
-      if (typeof prev === 'number') seq = prev + 1
-      else seq = 1
-      g.__ptLuckySeq = seq
+    if (g && g.performance && typeof g.performance.now === 'function') {
+      const n = g.performance.now()
+      if (typeof n === 'number') {
+        idx = (n | 0) % candidates.length
+      }
+    } else if (g && g.location && typeof g.location.pathname === 'string') {
+      idx = g.location.pathname.length % candidates.length
     }
   } catch (e) {
-    seq = 1
+    idx = 0
   }
-  let idx = seq % candidates.length
   if (idx < 0) idx = 0
   if (idx >= candidates.length) idx = 0
   return candidates[idx]
