@@ -12,15 +12,17 @@ function readSystemDark() {
   }
 }
 
-function resolveTheme() {
+function resolveTheme(allowSystem) {
   const stored = getCurrentTheme()
   if (stored === 'dark' || stored === 'light') return stored
+  // SSR + first hydrate pass must match: never read matchMedia until live.
+  if (!allowSystem) return 'light'
   return readSystemDark() ? 'dark' : 'light'
 }
 
 export default function ThemeToggle() {
   const live = isClientLive() === true
-  const resolved = resolveTheme()
+  const resolved = resolveTheme(live)
   const next = resolved === 'dark' ? 'light' : 'dark'
 
   return (
