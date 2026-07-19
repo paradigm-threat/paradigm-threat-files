@@ -27,6 +27,10 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - Prefer **try-catch** for missing props.
 - **CSS radio tabs** for ChangeLog (no `setState` tab state — it remounts the article). Host `RadioTabs` is available when you want generic tabs.
 - Nest tab radios in `<label>` (no `htmlFor`).
+- **No named function expressions** (`return function foo() {}`) — use arrows (`() => {}`).
+- **No `encodeURIComponent` / `charCodeAt` / `window`** — not in the CS allowlist (`document` + `globalThis` are). Prefer simple string loops.
+- **Module `const` arrays/objects are flaky inside nested components** — use top-level functions or pass props (see FontToggle).
+- Theme CSS is **pruned to used `className`s** — keep a hidden marker vnode for classes only needed after client interaction (e.g. gallery overlay).
 
 ## SSR data
 

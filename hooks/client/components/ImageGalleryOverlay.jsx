@@ -106,7 +106,17 @@ export default function ImageGalleryOverlay() {
     } catch (e) {}
   }, [live, open, rev])
 
-  if (!live || !open || !current) return null
+  if (!live || !open || !current) {
+    // Keep gallery theme classes in the SSR used-class set (CSS is pruned to usage).
+    return (
+      <div
+        className="pt-gallery pt-gallery-header pt-gallery-count pt-gallery-close pt-gallery-stage pt-gallery-img pt-gallery-nav pt-gallery-prev pt-gallery-next pt-gallery-caption"
+        hidden={true}
+        aria-hidden="true"
+        data-pt-gallery-css="true"
+      />
+    )
+  }
 
   const src = galleryDisplaySrc(current)
   const caption = captionFor(current)
