@@ -352,7 +352,9 @@ than 20 hospitals. Nearly 40,000 homes were completely destroyed or damaged."
 All technological advances in Human History have coincided with acts of war.
 [https://sites.google.com/a/umn.edu/historpedia/home/science-technology/developments-in-airplanes-between-world-war-one-and-world-war-two-fall-2012](https://sites.google.com/a/umn.edu/historpedia/home/science-technology/developments-in-airplanes-between-world-war-one-and-world-war-two-fall-2012)
 
-### Japan was Napalmed (Nuke Bombs are Fake):
+### Japan Firebombing Context (Nuke Flash Half-Hoax; DU Real):
+
+> **Correction (2026-07-19):** Older heading said “Nuke Bombs are Fake.” Current stance: **half-hoax** — **disintegrating flash for miles** is the hoax half; **depleted uranium** is real and cancer-causing. Mind-change: NSA-aligned fear of the **DU proxy threat**. Full note: [`/science/nukes`](/science/nukes/page.md).
 
 ![Nuclear Bomb Science Fiction](../../science/nukes/nuclear_bombs_science_fiction.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
 
@@ -360,7 +362,9 @@ All technological advances in Human History have coincided with acts of war.
 
 ![Death Object Book](../../science/nukes/book.jpg?w=384 '{"className":"rounded-md sm:float-left clear-left m-auto sm:m-1 sm:mr-4"}')
 
-![Nuclear Bomb are fake](../../science/nukes/nuclear_bombs_fake.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+![Nuclear bomb half-hoax — flash myth vs DU](../../science/nukes/nuclear_bombs_fake.jpg?w=384 '{"className":"rounded-md sm:float-right clear-right m-auto sm:m-1 sm:ml-4"}')
+
+Firebombing scale still matters as context for oversold flash mythology (not as a total-hoax proof):
 
 "TNT could have been used to fabricate any A-Bomb test. And yes, conventional bombs can and do produce the classic
 mushroom clouds that we routinely associate with atomic bombs."
@@ -373,6 +377,8 @@ approximately 100,000 civilians in a single night. Almost 270,000 buildings were
 "The US firebombing campaign destroyed 180 square miles of 67 cities, killed more than 300,000 people and injured an
 additional 400,000, figures that exclude the atomic bombing of Hiroshima and Nagasaki"
 [https://apjjf.org/-Mark-Selden/2414/article.html](https://apjjf.org/-Mark-Selden/2414/article.html)
+
+DU / half-hoax dossiers: [nukes hub](/science/nukes/page.md) · [Islamabad DU blind spot](/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md)
 
 ### Suppressed Technology in the 20th Century:
 

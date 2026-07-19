@@ -62,7 +62,7 @@
 | IWPR Bosnia cancer reporting | [IWPR](https://iwpr.net/global-voices/bosnians-say-nato-bombs-brought-angel-death) | B — regional press |
 | Bosnian doctors: lack of publicised DU research → **climate of distrust** (Dizdarevic, Saracevic) | [IWPR § “Information black hole”](https://iwpr.net/global-voices/bosnians-say-nato-bombs-brought-angel-death) | B — quoted officials |
 | RT Iraq/Balkans survivor coverage | [RT Iraq DU](https://www.rt.com/news/iraq-depleted-uranium-cancer/); [RT Serbia suits](https://www.rt.com/world/article/824174-serbiya-nato-uran-voina-sud) | C — alternate press; contested |
-| Hiroshima DU author read | [nukes-dont-exist investigation](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md) | Author thesis |
+| Hiroshima DU / half-hoax author read | [nukes half-hoax investigation](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md); [hub](https://paradigmthreat.net/science/nukes/) | Author thesis |
 
 **Skeptic:** WHO/NATO and many epidemiological reviews **dispute** proven DU→cancer causation at population scale; author cites **media asymmetry** and **Iran policy blind spot**, not settled oncology.
 
@@ -134,7 +134,7 @@
 4. Lifetime hinge / WWII analogy — §2; [LLM §2.4](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md).  
 5. **DU sci-fi blind spot**; only “unnecessary war” argument — §2.1.  
 6. Iraq/Balkans DU reporting asymmetry (RT, IWPR) — §2.1.  
-7. Hiroshima/Nagasaki DU cover-up — §2.1 — **author read**; [nukes investigation](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md).  
+7. Hiroshima/Nagasaki DU cover-up — §2.1 — **author read**; [nukes half-hoax](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md).  
 8. DU misreport → Iran crisis — §2.1 — **author thesis**.  
 9. Worldwide DU silence **without conspiracy** (fear / unprofitability / ignorance) — §2.1.1; [reader essay § DU](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md).  
 10. Sentries unwarned on hot ground; EU cleanup funds unused — §2.1.1 — **IWPR documented**.  
@@ -168,7 +168,7 @@
 | [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md) | MOU timeline |
 | [Good-actor / antibody](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) | 80-year arc |
 | [CIA investigation](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md) | Iran pipeline, DU, MOU extension |
-| [Nukes investigation — enriched/depleted](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md) | Hiroshima DU author read |
+| [Nukes half-hoax — flash myth vs DU](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md) | Hiroshima DU / half-hoax author read |
 | [Nuke waste is safe — Winsor](https://paradigmthreat.net/science/nukes/investigations/nuke-waste-is-safe-investigation.md) | Enriched/depleted, DU harm |
 | [Marie Curie radiation narrative](https://paradigmthreat.net/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) | Post-war fear monopoly |
 | [LLM investigation §2.4](https://paradigmthreat.net/science/ai/llm-history-governance-theater-investigation.md) | Downstream AI/Bill of Rights |

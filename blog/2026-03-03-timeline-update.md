@@ -53,7 +53,7 @@ The project's living knowledge base has been reorganized into a proper directory
 - [Did Maxwell Prove the Aether?](https://paradigmthreat.net/science/maxwell_aether/02-did-maxwell-prove-the-aether.md) — Analysis of the original equations vs. Heaviside's truncation
 
 ### Nuclear Weapons & Energy
-- [Nukes Don't Exist Investigation](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md) — The case against nuclear detonation
+- [Nukes Half-Hoax Investigation](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md) — Flash myth vs real DU (full-hoax retired 2026-07-19; hub: [/science/nukes](https://paradigmthreat.net/science/nukes/))
 - [Nuclear Waste Is Safe Investigation](https://paradigmthreat.net/science/nukes/investigations/nuke-waste-is-safe-investigation.md) — Radiation hormesis and the waste mythology
 
 ### Chronology

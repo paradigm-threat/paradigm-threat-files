@@ -2,6 +2,8 @@
 
 > **TL;DR:** Reader-facing Q&A from social threads (anonymized). Each entry names the **black-and-white** claim cable and comment sections usually run, lists **facts kept out of frame**, and answers with the **complicated reality** our Iran lane already argues: CIA/MI6 **long file**, **Epic Fury** as military unwind of the **proxy + missile shield**, **enriched uranium / dirty-bomb risk** as the stated red line, and **two scoreboards** (strike ledger vs fiscal/political ledger) that mainstream rarely holds in one view.
 
+**Site stance (nuclear / DU):** **Half-hoax** — Hollywood flash-for-miles myth vs real **depleted uranium**. Not “atomic bombs are fake.” Hub: [science/nukes](https://paradigmthreat.net/science/nukes/) · fatwa/DU: [CIA §IV](../investigations/cia-investigation.md#authors-opinion-fatwa-depleted-uranium-and-the-real-iranian-nuclear-threat) · DU blind spot: [Islamabad Installment III](../islamabad-peace-deal-the-war-nobody-cares-about-2026.md).
+
 **Status:** Living — sourced from Facebook / thread comments, spring–summer 2026.  
 **Parent article:** [Mission Accomplished (Again): Iran, 2026](../mission-accomplished-again-iran-2026.md)  
 **Ops spine:** [Iran war runner](../investigations/iran-2026-war-runner.md)  
