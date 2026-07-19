@@ -121,19 +121,34 @@ function writeNavCache(text) {
   } catch (e) {}
 }
 
-let cachedNavRows = null
-
-function clipRows(rows, lim) {
-  if (rows.length <= lim) return rows
-  let clipped = []
-  for (let i = 0; i < lim; i++) {
-    clipped = clipped.concat([rows[i]])
+function navCacheStore() {
+  try {
+    return globalThis
+  } catch (e) {
+    return null
   }
-  return clipped
+}
+
+function readCachedNavRows() {
+  const g = navCacheStore()
+  if (!g) return null
+  try {
+    if (g.ptNavRowsCache) return g.ptNavRowsCache
+  } catch (e) {}
+  return null
+}
+
+function writeCachedNavRows(rows) {
+  const g = navCacheStore()
+  if (!g) return
+  try {
+    g.ptNavRowsCache = rows
+  } catch (e) {}
 }
 
 function loadAllArticleRows() {
-  if (cachedNavRows !== null) return cachedNavRows
+  const cached = readCachedNavRows()
+  if (cached !== null) return cached
   const base = clientBase()
   const navUrl = base.length > 0 ? base + '/nav-index.txt' : '/nav-index.txt'
   let text = readNavCache()
@@ -169,8 +184,17 @@ function loadAllArticleRows() {
       } catch (e3) {}
     }
   }
-  cachedNavRows = rows
-  return cachedNavRows
+  writeCachedNavRows(rows)
+  return rows
+}
+
+function clipRows(rows, lim) {
+  if (rows.length <= lim) return rows
+  let clipped = []
+  for (let i = 0; i < lim; i++) {
+    clipped = clipped.concat([rows[i]])
+  }
+  return clipped
 }
 
 /**
