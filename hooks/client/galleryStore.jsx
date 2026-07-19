@@ -133,13 +133,13 @@ export function galleryImages() {
 
 export function galleryIndex() {
   const el = bus()
-  if (!el) return -1
+  if (!el) return 0 - 1
   try {
     const raw = el.getAttribute('data-index')
-    const n = typeof raw === 'string' ? parseInt(raw, 10) : -1
+    const n = typeof raw === 'string' ? parseInt(raw, 10) : 0 - 1
     if (n === n) return n
   } catch (e) {}
-  return -1
+  return 0 - 1
 }
 
 export function galleryIsOpen() {
@@ -210,10 +210,9 @@ export function openGalleryAt(srcRaw) {
     const el = bus()
     if (!el) return
     try {
-      el.setAttribute(
-        'data-override',
-        JSON.stringify([{ src: src, alt: '', highResSrc: '' }]),
-      )
+      const one = { src: src, alt: '', highResSrc: '' }
+      const only = [one]
+      el.setAttribute('data-override', JSON.stringify(only))
       el.setAttribute('data-index', '0')
       el.setAttribute('data-open', '1')
       bump()
