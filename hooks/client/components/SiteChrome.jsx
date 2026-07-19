@@ -2,27 +2,17 @@ import React from 'react'
 import Nav from 'hooks/client/components/Nav.jsx'
 import { propStr } from 'hooks/client/propOr.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
+import { Link } from '@relay/ui'
+import { prop } from '@relay/util'
 
 function FooterLink(props) {
-  const href = props.href
-  const label = props.label
-  const external = props.external === true
-  if (external) {
-    return (
-      <a
-        href={href}
-        className="pt-footer-link"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        {label}
-      </a>
-    )
-  }
+  const href = prop(props, 'href', '#')
+  const label = prop(props, 'label', '')
+  const external = prop(props, 'external', false) === true
   return (
-    <a href={href} className="pt-footer-link">
+    <Link href={href} className="pt-footer-link" external={external}>
       {label}
-    </a>
+    </Link>
   )
 }
 
