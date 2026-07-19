@@ -25,13 +25,21 @@ function NavLink(props) {
   const active = propOr(props, 'active', false)
   const external = propOr(props, 'external', false)
   const className = active ? 'pt-nav-link pt-nav-link-active' : 'pt-nav-link'
+  if (external === true) {
+    return (
+      <a
+        href={href}
+        className={className}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {icon}
+        <span>{label}</span>
+      </a>
+    )
+  }
   return (
-    <a
-      href={href}
-      className={className}
-      target={external ? '_blank' : undefined}
-      rel={external ? 'noopener noreferrer' : undefined}
-    >
+    <a href={href} className={className}>
       {icon}
       <span>{label}</span>
     </a>

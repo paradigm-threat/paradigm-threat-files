@@ -7,13 +7,20 @@ function FooterLink(props) {
   const href = props.href
   const label = props.label
   const external = props.external === true
+  if (external) {
+    return (
+      <a
+        href={href}
+        className="pt-footer-link"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {label}
+      </a>
+    )
+  }
   return (
-    <a
-      href={href}
-      className="pt-footer-link"
-      target={external ? '_blank' : undefined}
-      rel={external ? 'noopener noreferrer' : undefined}
-    >
+    <a href={href} className="pt-footer-link">
       {label}
     </a>
   )

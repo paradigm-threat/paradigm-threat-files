@@ -5,7 +5,8 @@ Hard rules for **SSR site-shell** hooks on this repo. Breaking them has taken th
 ## Language subset
 
 - **Always brace** `for`, `while`, and `if` bodies — even one-liners.
-- **No** `parseInt`, `Number`, `Date`, or `Math.random`.
+- No `parseInt`, `Number`, `Date`, or `Math.random`.
+- **No bare `undefined` in JSX** — branch into separate elements instead of `prop={cond ? x : undefined}`.
 - **No unary minus literals** in return positions (e.g. `return -1`); compare directly or use positive bounds.
 - Prefer **`propOr` / try-catch** for missing props.
 - **CSS radio tabs** for ChangeLog (no `setState` tab state — it remounts the article).
