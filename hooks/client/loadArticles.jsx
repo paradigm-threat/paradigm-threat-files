@@ -121,15 +121,19 @@ function writeNavCache(text) {
   } catch (e) {}
 }
 
-/**
- * Article index for Index / Home.
- * Prefer nav-index.txt (TSV) so SSR + browser hydrate match without JSON.parse
- * or QUERY (browser sync XHR historically dropped QUERY bodies).
- * Browser: cache raw TSV in localStorage so tab re-renders do not re-fetch.
- */
-export function loadArticleRows(limit) {
-  let lim = 48
-  if (typeof limit === 'number' && limit > 0) lim = limit
+let cachedNavRows = null
+
+function clipRows(rows, lim) {
+  if (rows.length <= lim) return rows
+  let clipped = []
+  for (let i = 0; i < lim; i++) {
+    clipped = clipped.concat([rows[i]])
+  }
+  return clipped
+}
+
+function loadAllArticleRows() {
+  if (cachedNavRows !== null) return cachedNavRows
   const base = clientBase()
   const navUrl = base.length > 0 ? base + '/nav-index.txt' : '/nav-index.txt'
   let text = readNavCache()
@@ -139,7 +143,6 @@ export function loadArticleRows(limit) {
   }
   let rows = rowsFromNavText(text)
   if (rows.length === 0) {
-    // Legacy JSON fallback when txt missing (requires JSON in module env).
     const jsonUrl = base.length > 0 ? base + '/nav-index.json' : '/nav-index.json'
     const raw = tryGetText(jsonUrl)
     if (raw.length > 0) {
@@ -166,14 +169,22 @@ export function loadArticleRows(limit) {
       } catch (e3) {}
     }
   }
-  if (rows.length > lim) {
-    let clipped = []
-    for (let i = 0; i < lim; i++) {
-      clipped = clipped.concat([rows[i]])
-    }
-    return clipped
-  }
-  return rows
+  cachedNavRows = rows
+  return cachedNavRows
+}
+
+/**
+ * Article index for Index / Home.
+ * Prefer nav-index.txt (TSV) so SSR + browser hydrate match without JSON.parse
+ * or QUERY (browser sync XHR historically dropped QUERY bodies).
+ * Browser: cache raw TSV in localStorage so tab re-renders do not re-fetch.
+ * SSR: module cache avoids repeated fetch/parse when DirNav + ChangeLog both load.
+ */
+export function loadArticleRows(limit) {
+  let lim = 48
+  if (typeof limit === 'number' && limit > 0) lim = limit
+  const rows = loadAllArticleRows()
+  return clipRows(rows, lim)
 }
 
 export function featuredArticlePath(rows) {

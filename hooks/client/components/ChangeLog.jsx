@@ -162,7 +162,7 @@ function takeLimit(items, limit) {
 
 function buildBuckets(limit) {
   // Prefer nav-index.txt (not same-host QUERY) so SSR site-shell cannot deadlock GET.
-  const rows = loadArticleRows(400)
+  const rows = loadArticleRows(200)
   let articles = []
   let investigations = []
   let blog = []
