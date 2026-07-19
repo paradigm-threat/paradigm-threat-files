@@ -1,4 +1,0 @@
-# CI/CD disabled — re-enable by restoring the previous .gitlab-ci.yml from git history.
-workflow:
-  rules:
-    - when: never
