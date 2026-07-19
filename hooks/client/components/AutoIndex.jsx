@@ -3,6 +3,7 @@
  * Lists nav-index rows under an optional path= directory.
  */
 import React from 'react'
+import { isClientLive } from '@clevertree/style-internal'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 
 function str(v) {
@@ -34,6 +35,15 @@ export default function AutoIndex(props) {
   try {
     if (props && typeof props.currentPath === 'string') currentRel = props.currentPath
   } catch (e) {}
+
+  if (isClientLive() !== true) {
+    return (
+      <nav className="pt-autoindex" aria-label="Auto index" data-pt-autoindex-ssr="1">
+        <h3 className="pt-autoindex-title">Index</h3>
+        <p className="pt-muted">Index loads after page open…</p>
+      </nav>
+    )
+  }
 
   let dir = pathProp
   if (dir.length === 0) dir = parentDir(currentRel)

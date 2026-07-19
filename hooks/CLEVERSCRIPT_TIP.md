@@ -38,6 +38,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - **Never** `fetch` / QUERY the **same Host** during site-shell SSR — it deadlocks the gateway worker.
 - Prefer on-tree blobs: **`nav-index.txt`**, sidecar JSON, static catalogs — load via **`cachedGet`** / **`parseNavIndexTxt`** (request-local cache).
 - Regenerate nav index before push: `python3 scripts/build-nav-index.py` (writes optional `_updated` ISO column).
+- **SSR must stay light:** gate heavy catalog / markdown work with `isClientLive() === true`. On SSR (`!== true`), return a chrome shell + short “loads after page open…” placeholder — do **not** call `loadArticleRows`, `MarkdownRenderer`, or full nav-index parse until the client is live.
 
 ## Pre-push smoke
 
@@ -47,7 +48,7 @@ From a machine with the repo synced locally and relay-gateway on `:8080`:
 ./scripts/ssr-smoke.sh
 ```
 
-Expect **HTTP 200**, body contains `pt-changelog` and `Paradigm Threat` (brand marker).
+Expect **HTTP 200**, body contains `pt-changelog` (SSR shell ok) and `Paradigm Threat` (brand marker). Full ChangeLog cards / article HTML fill after hydrate.
 
 If ChangeLog parse breaks, parked GET `/` must return **500 Site shell / SSR failed**, not **Unknown Host** (gateway A1).
 

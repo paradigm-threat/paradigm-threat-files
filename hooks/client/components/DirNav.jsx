@@ -1,4 +1,5 @@
 import React from 'react'
+import { isClientLive } from '@clevertree/style-internal'
 import { buildDirTree } from '@relay/catalog'
 import { take } from '@relay/util'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
@@ -90,6 +91,21 @@ function FolderBranch(props) {
 
 /** Left directory — nested via @relay/catalog.buildDirTree (SSR-safe arrays). */
 export default function DirNav() {
+  if (isClientLive() !== true) {
+    return (
+      <aside
+        className="pt-dir-nav lg:pt-dir-nav-lg"
+        aria-label="Directory"
+        data-pt-dirnav-ssr="1"
+      >
+        <div className="pt-dir-head">
+          <h2 className="pt-dir-title">Directory</h2>
+        </div>
+        <p className="pt-muted">Directory loads after page open…</p>
+      </aside>
+    )
+  }
+
   const rows = take(loadArticleRows(100), 100)
   const tree = buildDirTree(rows)
   let hasFolders = false

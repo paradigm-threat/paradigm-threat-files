@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { isClientLive } from '@clevertree/style-internal'
 import { MarkdownRenderer } from '@clevertree/markdown'
 import SiteChrome from 'hooks/client/components/SiteChrome.jsx'
 import Layout from 'hooks/client/components/Layout.jsx'
@@ -195,30 +196,34 @@ export default function ArticleView(props) {
   }
 
   let pathPart = normalizeRelPath(routePath)
+  const live = isClientLive() === true
   let markdownContent = ''
   let errMsg = ''
-  let baseStr = clientBase()
-  while (baseStr.length > 0 && baseStr.charAt(baseStr.length - 1) === '/') {
-    baseStr = baseStr.slice(0, baseStr.length - 1)
-  }
-  if (baseStr.length === 0) {
-    errMsg = 'Missing relayClientBaseUrl — open via Relay host preset.'
-  } else {
-    const url = baseStr + slash + pathPart
-    const resp = fetch(url, { method: 'GET' })
-    if (resp && resp.ok === true) {
-      markdownContent = resp.text ? resp.text : ''
+  // SSR: chrome only — skip blob fetch + MarkdownRenderer (dominant home TTFB).
+  if (live) {
+    let baseStr = clientBase()
+    while (baseStr.length > 0 && baseStr.charAt(baseStr.length - 1) === '/') {
+      baseStr = baseStr.slice(0, baseStr.length - 1)
+    }
+    if (baseStr.length === 0) {
+      errMsg = 'Missing relayClientBaseUrl — open via Relay host preset.'
     } else {
-      let st = 0
-      if (resp && resp.status) st = resp.status
-      errMsg = 'Could not load file (HTTP ' + st + ')'
+      const url = baseStr + slash + pathPart
+      const resp = fetch(url, { method: 'GET' })
+      if (resp && resp.ok === true) {
+        markdownContent = resp.text ? resp.text : ''
+      } else {
+        let st = 0
+        if (resp && resp.status) st = resp.status
+        errMsg = 'Could not load file (HTTP ' + st + ')'
+      }
     }
   }
 
   const rawBody = errMsg ? '# Error\n\n' + errMsg : markdownContent
   const body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody)
 
-  const neighbors = neighborPaths(pathPart)
+  const neighbors = live ? neighborPaths(pathPart) : { prev: '', next: '' }
   const prevHref = neighbors.prev.length > 0 ? siteHref('/' + neighbors.prev) : ''
   const nextHref = neighbors.next.length > 0 ? siteHref('/' + neighbors.next) : ''
   const hideToolbar =
@@ -255,23 +260,29 @@ export default function ArticleView(props) {
                 navigateFile('page.md')
               }}
             >
-              <MarkdownRenderer
-                content={body}
-                navigate={(to) => {
-                  navigateFile(to)
-                }}
-                anchorOnClick={(href) => {
-                  onMdLinkClick(href)
-                }}
-                overrides={{
-                  AutoIndex: renderAutoIndex,
-                  ChangeLog: renderChangeLog,
-                  ChatRoom: EmptyMdStub,
-                  PopImage: renderPopImage,
-                  img: renderPopImage,
-                }}
-              />
-              {prevHref.length > 0 || nextHref.length > 0 ? (
+              {!live ? (
+                <div className="pt-md" data-pt-article-ssr="1">
+                  <p className="pt-muted">Article loads after page open…</p>
+                </div>
+              ) : (
+                <MarkdownRenderer
+                  content={body}
+                  navigate={(to) => {
+                    navigateFile(to)
+                  }}
+                  anchorOnClick={(href) => {
+                    onMdLinkClick(href)
+                  }}
+                  overrides={{
+                    AutoIndex: renderAutoIndex,
+                    ChangeLog: renderChangeLog,
+                    ChatRoom: EmptyMdStub,
+                    PopImage: renderPopImage,
+                    img: renderPopImage,
+                  }}
+                />
+              )}
+              {live && (prevHref.length > 0 || nextHref.length > 0) ? (
                 <nav className="pt-article-neighbors" aria-label="Adjacent articles">
                   {prevHref.length > 0 ? (
                     <a className="pt-btn" href={prevHref}>

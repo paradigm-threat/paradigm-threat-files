@@ -3,6 +3,7 @@
  * Card chrome lives in theme.yaml; only :has() radio wiring stays inline.
  */
 import React from 'react'
+import { isClientLive } from '@clevertree/style-internal'
 import { basename } from '@relay/path'
 import { formatTiny, formatLong, formatFeed, sameDay } from '@relay/date'
 import { take, sortBy } from '@relay/util'
@@ -177,6 +178,19 @@ export default function ChangeLog(props) {
   try {
     if (props && typeof props.limit === 'number' && props.limit > 0) limit = props.limit
   } catch (e) {}
+
+  // SSR: skip nav-index parse / card fan-out; hydrate fills after isClientLive.
+  if (isClientLive() !== true) {
+    return (
+      <section
+        className="pt-changelog"
+        aria-label="Change log"
+        data-pt-changelog-ssr="1"
+      >
+        <p className="pt-muted">Change log loads after page open…</p>
+      </section>
+    )
+  }
 
   const buckets = buildBuckets(limit)
 
