@@ -1,267 +1,286 @@
 /**
- * Gallery state singleton.
- * CleverScript: no `export const`; module let/const Undefined inside nested
- * `function` bodies. Default-export one IIFE object of closed-over arrows.
- * Avoid encodeURIComponent / charCodeAt / window.
+ * Gallery store — CleverScript cannot read module-level const/let from nested
+ * function bodies. Hang mutable state on an exported function object instead.
  */
 
-function createGalleryApi() {
-  const s = {
-    images: [],
-    override: null,
-    index: -1,
-    open: false,
-    rev: 0,
-    listeners: [],
-  }
+export function galleryBag() {
+  return null
+}
 
-  const strSrc = (v) => {
-    if (typeof v === 'string') return v
-    return ''
-  }
-
-  const isAlnumChar = (c) => {
-    if (c >= '0' && c <= '9') return true
-    if (c >= 'A' && c <= 'Z') return true
-    if (c >= 'a' && c <= 'z') return true
-    return false
-  }
-
-  const emit = () => {
-    s.rev = s.rev + 1
-    const list = s.listeners
-    for (let i = 0; i < list.length; i++) {
-      try {
-        list[i](s.rev)
-      } catch (e) {}
+function S() {
+  if (!galleryBag.s) {
+    galleryBag.s = {
+      images: [],
+      override: null,
+      index: -1,
+      open: false,
+      rev: 0,
+      listeners: [],
     }
   }
+  return galleryBag.s
+}
 
-  const images = () => {
-    if (s.override) return s.override
-    return s.images
+function strSrc(v) {
+  if (typeof v === 'string') return v
+  return ''
+}
+
+function emit() {
+  const s = S()
+  s.rev = s.rev + 1
+  const list = s.listeners
+  for (let i = 0; i < list.length; i++) {
+    try {
+      list[i](s.rev)
+    } catch (e) {}
   }
+}
 
-  return {
-    galleryRev: () => s.rev,
+function images() {
+  const s = S()
+  if (s.override) return s.override
+  return s.images
+}
 
-    gallerySubscribe: (fn) => {
-      s.listeners = s.listeners.concat([fn])
-      return () => {
-        let next = []
-        for (let i = 0; i < s.listeners.length; i++) {
-          if (s.listeners[i] !== fn) {
-            next = next.concat([s.listeners[i]])
-          }
-        }
-        s.listeners = next
+function isAlnumChar(c) {
+  if (c >= '0' && c <= '9') return true
+  if (c >= 'A' && c <= 'Z') return true
+  if (c >= 'a' && c <= 'z') return true
+  return false
+}
+
+export function galleryRev() {
+  return S().rev
+}
+
+export function gallerySubscribe(fn) {
+  const s = S()
+  s.listeners = s.listeners.concat([fn])
+  return () => {
+    const cur = S()
+    let next = []
+    for (let i = 0; i < cur.listeners.length; i++) {
+      if (cur.listeners[i] !== fn) {
+        next = next.concat([cur.listeners[i]])
       }
-    },
+    }
+    cur.listeners = next
+  }
+}
 
-    galleryImages: () => images(),
+export function galleryImages() {
+  return images()
+}
 
-    galleryIndex: () => s.index,
+export function galleryIndex() {
+  return S().index
+}
 
-    galleryIsOpen: () => s.open === true,
+export function galleryIsOpen() {
+  return S().open === true
+}
 
-    registerGalleryImage: (img) => {
-      const src = strSrc(img && img.src)
-      if (src.length === 0) return
-      for (let i = 0; i < s.images.length; i++) {
-        if (strSrc(s.images[i].src) === src) return
-      }
-      const alt = img && typeof img.alt === 'string' ? img.alt : ''
+export function registerGalleryImage(img) {
+  const src = strSrc(img && img.src)
+  if (src.length === 0) return
+  const s = S()
+  for (let i = 0; i < s.images.length; i++) {
+    if (strSrc(s.images[i].src) === src) return
+  }
+  const alt = img && typeof img.alt === 'string' ? img.alt : ''
+  const highResSrc =
+    img && typeof img.highResSrc === 'string' ? img.highResSrc : ''
+  let children = null
+  try {
+    if (img && img.children !== null) {
+      children = img.children
+    }
+  } catch (e) {}
+  s.images = s.images.concat([
+    { src: src, alt: alt, highResSrc: highResSrc, children: children },
+  ])
+  emit()
+}
+
+export function syncGalleryImageMeta(img) {
+  const src = strSrc(img && img.src)
+  if (src.length === 0) return
+  const s = S()
+  for (let i = 0; i < s.images.length; i++) {
+    if (strSrc(s.images[i].src) === src) {
+      const prev = s.images[i]
+      const alt = img && typeof img.alt === 'string' ? img.alt : prev.alt
       const highResSrc =
-        img && typeof img.highResSrc === 'string' ? img.highResSrc : ''
-      let children = null
+        img && typeof img.highResSrc === 'string'
+          ? img.highResSrc
+          : prev.highResSrc
+      let children = prev.children
       try {
         if (img && img.children !== null) {
           children = img.children
         }
       } catch (e) {}
-      s.images = s.images.concat([
-        { src: src, alt: alt, highResSrc: highResSrc, children: children },
-      ])
-      emit()
-    },
-
-    syncGalleryImageMeta: (img) => {
-      const src = strSrc(img && img.src)
-      if (src.length === 0) return
-      for (let i = 0; i < s.images.length; i++) {
-        if (strSrc(s.images[i].src) === src) {
-          const prev = s.images[i]
-          const alt =
-            img && typeof img.alt === 'string' ? img.alt : prev.alt
-          const highResSrc =
-            img && typeof img.highResSrc === 'string'
-              ? img.highResSrc
-              : prev.highResSrc
-          let children = prev.children
-          try {
-            if (img && img.children !== null) {
-              children = img.children
-            }
-          } catch (e) {}
-          let next = []
-          for (let j = 0; j < s.images.length; j++) {
-            if (j === i) {
-              next = next.concat([
-                {
-                  src: src,
-                  alt: alt,
-                  highResSrc: highResSrc,
-                  children: children,
-                },
-              ])
-            } else {
-              next = next.concat([s.images[j]])
-            }
-          }
-          s.images = next
-          return
-        }
-      }
-    },
-
-    unregisterGalleryImage: (srcRaw) => {
-      const src = strSrc(srcRaw)
-      if (src.length === 0) return
       let next = []
-      let found = false
-      for (let i = 0; i < s.images.length; i++) {
-        if (strSrc(s.images[i].src) === src) {
-          found = true
-        } else {
-          next = next.concat([s.images[i]])
-        }
-      }
-      if (!found) return
-      s.images = next
-      emit()
-    },
-
-    openGalleryAt: (srcRaw) => {
-      const src = strSrc(srcRaw)
-      const list = images()
-      let idx = -1
-      for (let i = 0; i < list.length; i++) {
-        if (strSrc(list[i].src) === src) {
-          idx = i
-          break
-        }
-      }
-      if (idx < 0) return
-      s.index = idx
-      s.open = true
-      emit()
-    },
-
-    openGallery: (items, startIndex) => {
-      let list = []
-      if (items && typeof items.length === 'number') {
-        for (let i = 0; i < items.length; i++) {
-          const src = strSrc(items[i] && items[i].src)
-          if (src.length === 0) continue
-          const alt =
-            items[i] && typeof items[i].alt === 'string' ? items[i].alt : ''
-          const highResSrc =
-            items[i] && typeof items[i].highResSrc === 'string'
-              ? items[i].highResSrc
-              : ''
-          let children = null
-          try {
-            if (items[i] && items[i].children !== null) {
-              children = items[i].children
-            }
-          } catch (e) {}
-          list = list.concat([
-            { src: src, alt: alt, highResSrc: highResSrc, children: children },
+      for (let j = 0; j < s.images.length; j++) {
+        if (j === i) {
+          next = next.concat([
+            {
+              src: src,
+              alt: alt,
+              highResSrc: highResSrc,
+              children: children,
+            },
           ])
+        } else {
+          next = next.concat([s.images[j]])
         }
       }
-      if (list.length === 0) return
-      let idx = typeof startIndex === 'number' ? startIndex : 0
-      if (idx < 0) idx = 0
-      if (idx >= list.length) idx = list.length - 1
-      s.override = list
-      s.index = idx
-      s.open = true
-      emit()
-    },
-
-    closeGallery: () => {
-      if (s.open !== true && !s.override) return
-      s.open = false
-      s.override = null
-      try {
-        const loc = document.location
-        if (loc && typeof loc.hash === 'string' && loc.hash.indexOf('#img=') === 0) {
-          loc.hash = ''
-        }
-      } catch (e) {}
-      emit()
-    },
-
-    galleryGoNext: () => {
-      const list = images()
-      if (list.length <= 1) return
-      s.index = (s.index + 1) % list.length
-      emit()
-    },
-
-    galleryGoPrev: () => {
-      const list = images()
-      if (list.length <= 1) return
-      s.index = (s.index - 1 + list.length) % list.length
-      emit()
-    },
-
-    setGalleryHash: (srcRaw) => {
-      const src = strSrc(srcRaw)
-      if (src.length === 0) return
-      try {
-        const loc = document.location
-        if (!loc) return
-        const hash = '#img=' + src
-        if (loc.hash === hash) return
-        loc.hash = 'img=' + src
-      } catch (e) {}
-    },
-
-    readHashImgSrc: () => {
-      try {
-        const loc = document.location
-        if (!loc || typeof loc.hash !== 'string') return ''
-        const hash = loc.hash
-        if (hash.indexOf('#img=') !== 0) return ''
-        return hash.slice(5)
-      } catch (e) {
-        return ''
-      }
-    },
-
-    galleryDisplaySrc: (img) => {
-      if (!img) return ''
-      const hi = typeof img.highResSrc === 'string' ? img.highResSrc : ''
-      const src = strSrc(img.src)
-      if (hi.length > 0) return hi
-      return src
-    },
-
-    safeImgDomId: (srcRaw) => {
-      const src = strSrc(srcRaw)
-      if (src.length === 0) return 'img-unknown'
-      let out = 'img-'
-      for (let i = 0; i < src.length; i++) {
-        const c = src.charAt(i)
-        if (isAlnumChar(c)) out = out + c
-        else out = out + '-'
-      }
-      return out
-    },
+      s.images = next
+      return
+    }
   }
-
 }
 
-export default createGalleryApi()
+export function unregisterGalleryImage(srcRaw) {
+  const src = strSrc(srcRaw)
+  if (src.length === 0) return
+  const s = S()
+  let next = []
+  let found = false
+  for (let i = 0; i < s.images.length; i++) {
+    if (strSrc(s.images[i].src) === src) {
+      found = true
+    } else {
+      next = next.concat([s.images[i]])
+    }
+  }
+  if (!found) return
+  s.images = next
+  emit()
+}
+
+export function openGalleryAt(srcRaw) {
+  const src = strSrc(srcRaw)
+  const list = images()
+  let idx = -1
+  for (let i = 0; i < list.length; i++) {
+    if (strSrc(list[i].src) === src) {
+      idx = i
+      break
+    }
+  }
+  if (idx < 0) return
+  const s = S()
+  s.index = idx
+  s.open = true
+  emit()
+}
+
+export function openGallery(items, startIndex) {
+  let list = []
+  if (items && typeof items.length === 'number') {
+    for (let i = 0; i < items.length; i++) {
+      const src = strSrc(items[i] && items[i].src)
+      if (src.length === 0) continue
+      const alt =
+        items[i] && typeof items[i].alt === 'string' ? items[i].alt : ''
+      const highResSrc =
+        items[i] && typeof items[i].highResSrc === 'string'
+          ? items[i].highResSrc
+          : ''
+      let children = null
+      try {
+        if (items[i] && items[i].children !== null) {
+          children = items[i].children
+        }
+      } catch (e) {}
+      list = list.concat([
+        { src: src, alt: alt, highResSrc: highResSrc, children: children },
+      ])
+    }
+  }
+  if (list.length === 0) return
+  let idx = typeof startIndex === 'number' ? startIndex : 0
+  if (idx < 0) idx = 0
+  if (idx >= list.length) idx = list.length - 1
+  const s = S()
+  s.override = list
+  s.index = idx
+  s.open = true
+  emit()
+}
+
+export function closeGallery() {
+  const s = S()
+  if (s.open !== true && !s.override) return
+  s.open = false
+  s.override = null
+  try {
+    const loc = document.location
+    if (loc && typeof loc.hash === 'string' && loc.hash.indexOf('#img=') === 0) {
+      loc.hash = ''
+    }
+  } catch (e) {}
+  emit()
+}
+
+export function galleryGoNext() {
+  const list = images()
+  if (list.length <= 1) return
+  const s = S()
+  s.index = (s.index + 1) % list.length
+  emit()
+}
+
+export function galleryGoPrev() {
+  const list = images()
+  if (list.length <= 1) return
+  const s = S()
+  s.index = (s.index - 1 + list.length) % list.length
+  emit()
+}
+
+export function setGalleryHash(srcRaw) {
+  const src = strSrc(srcRaw)
+  if (src.length === 0) return
+  try {
+    const loc = document.location
+    if (!loc) return
+    const hash = '#img=' + src
+    if (loc.hash === hash) return
+    loc.hash = 'img=' + src
+  } catch (e) {}
+}
+
+export function readHashImgSrc() {
+  try {
+    const loc = document.location
+    if (!loc || typeof loc.hash !== 'string') return ''
+    const hash = loc.hash
+    if (hash.indexOf('#img=') !== 0) return ''
+    return hash.slice(5)
+  } catch (e) {
+    return ''
+  }
+}
+
+export function galleryDisplaySrc(img) {
+  if (!img) return ''
+  const hi = typeof img.highResSrc === 'string' ? img.highResSrc : ''
+  const src = strSrc(img.src)
+  if (hi.length > 0) return hi
+  return src
+}
+
+export function safeImgDomId(srcRaw) {
+  const src = strSrc(srcRaw)
+  if (src.length === 0) return 'img-unknown'
+  let out = 'img-'
+  for (let i = 0; i < src.length; i++) {
+    const c = src.charAt(i)
+    if (isAlnumChar(c)) out = out + c
+    else out = out + '-'
+  }
+  return out
+}

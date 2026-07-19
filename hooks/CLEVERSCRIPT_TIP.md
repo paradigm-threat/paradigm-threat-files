@@ -30,7 +30,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - Nest tab radios in `<label>` (no `htmlFor`).
 - **No named function expressions** (`return function foo() {}`) — use arrows (`() => {}`).
 - **No `encodeURIComponent` / `charCodeAt` / `window`** — not in the CS allowlist (`document` + `globalThis` are). Prefer simple string loops.
-- **Module `const`/`let` bindings are Undefined inside nested `function` bodies** — close shared mutable state in an IIFE and `export const fn = api.fn` (gallery store). Prefer top-level helpers or props for simpler cases (FontToggle).
+- **Module `const`/`let` bindings are Undefined inside nested `function` bodies** — hang shared mutable state on an **exported function object** (e.g. `galleryBag.s = …` via a lazy `S()` helper). Do **not** use `export const`, IIFE + `export default create()`, or module-level `const store` read from nested `function` bodies. Prefer top-level helpers or props for simpler cases (FontToggle).
 - Theme CSS is **pruned to used `className`s** — keep a hidden marker vnode for classes only needed after client interaction (e.g. gallery overlay).
 
 ## SSR data

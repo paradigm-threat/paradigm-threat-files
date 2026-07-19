@@ -1,6 +1,17 @@
 import React, { useState, useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
-import gallery from 'hooks/client/galleryStore.jsx'
+import {
+  gallerySubscribe,
+  galleryRev,
+  galleryIsOpen,
+  galleryImages,
+  galleryIndex,
+  setGalleryHash,
+  closeGallery,
+  galleryGoNext,
+  galleryGoPrev,
+  galleryDisplaySrc,
+} from 'hooks/client/galleryStore.jsx'
 import {
   IconClose,
   IconChevronLeft,
@@ -33,8 +44,8 @@ export default function ImageGalleryOverlay() {
 
   useEffect(() => {
     if (!live) return
-    return gallery.gallerySubscribe((r) => {
-      setTick(typeof r === 'number' ? r : gallery.galleryRev())
+    return gallerySubscribe((r) => {
+      setTick(typeof r === 'number' ? r : galleryRev())
     })
   }, [live])
 
@@ -43,17 +54,22 @@ export default function ImageGalleryOverlay() {
   let index = -1
   let current = null
   if (live) {
-    open = gallery.galleryIsOpen()
-    images = gallery.galleryImages()
-    index = gallery.galleryIndex()
-    if (open && index >= 0 && index < images.length) {
-      current = images[index]
+    try {
+      open = galleryIsOpen()
+      images = galleryImages()
+      index = galleryIndex()
+      if (open && index >= 0 && index < images.length) {
+        current = images[index]
+      }
+    } catch (e) {
+      open = false
+      current = null
     }
   }
 
   useEffect(() => {
     if (!live || !open || !current) return
-    gallery.setGalleryHash(current.src)
+    setGalleryHash(current.src)
   }, [live, open, index, rev])
 
   useEffect(() => {
@@ -63,9 +79,9 @@ export default function ImageGalleryOverlay() {
       try {
         if (e && typeof e.key === 'string') key = e.key
       } catch (err) {}
-      if (key === 'Escape') gallery.closeGallery()
-      if (key === 'ArrowRight') gallery.galleryGoNext()
-      if (key === 'ArrowLeft') gallery.galleryGoPrev()
+      if (key === 'Escape') closeGallery()
+      if (key === 'ArrowRight') galleryGoNext()
+      if (key === 'ArrowLeft') galleryGoPrev()
     }
     try {
       if (document && document.addEventListener) {
@@ -107,7 +123,7 @@ export default function ImageGalleryOverlay() {
     )
   }
 
-  const src = gallery.galleryDisplaySrc(current)
+  const src = galleryDisplaySrc(current)
   const caption = captionFor(current)
   const hasCaption = caption.length > 0
   const countLabel =
@@ -129,7 +145,7 @@ export default function ImageGalleryOverlay() {
           className="pt-gallery-close"
           aria-label="Close gallery"
           onClick={() => {
-            gallery.closeGallery()
+            closeGallery()
           }}
         >
           <IconClose />
@@ -142,7 +158,7 @@ export default function ImageGalleryOverlay() {
             className="pt-gallery-nav pt-gallery-prev"
             aria-label="Previous image"
             onClick={() => {
-              gallery.galleryGoPrev()
+              galleryGoPrev()
             }}
           >
             <IconChevronLeft />
@@ -155,7 +171,7 @@ export default function ImageGalleryOverlay() {
             className="pt-gallery-nav pt-gallery-next"
             aria-label="Next image"
             onClick={() => {
-              gallery.galleryGoNext()
+              galleryGoNext()
             }}
           >
             <IconChevronRight />
