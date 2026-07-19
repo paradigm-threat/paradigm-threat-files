@@ -1,11 +1,11 @@
 /**
  * Gallery state singleton.
- * CleverScript: module-level bindings are Undefined inside nested function bodies.
- * One IIFE closes over the store; export the closed-over arrows only.
+ * CleverScript: no `export const`; module let/const Undefined inside nested
+ * `function` bodies. Default-export one IIFE object of closed-over arrows.
  * Avoid encodeURIComponent / charCodeAt / window.
  */
 
-const api = (() => {
+function createGalleryApi() {
   const s = {
     images: [],
     override: null,
@@ -261,22 +261,7 @@ const api = (() => {
       return out
     },
   }
-})()
 
-export const galleryRev = api.galleryRev
-export const gallerySubscribe = api.gallerySubscribe
-export const galleryImages = api.galleryImages
-export const galleryIndex = api.galleryIndex
-export const galleryIsOpen = api.galleryIsOpen
-export const registerGalleryImage = api.registerGalleryImage
-export const syncGalleryImageMeta = api.syncGalleryImageMeta
-export const unregisterGalleryImage = api.unregisterGalleryImage
-export const openGalleryAt = api.openGalleryAt
-export const openGallery = api.openGallery
-export const closeGallery = api.closeGallery
-export const galleryGoNext = api.galleryGoNext
-export const galleryGoPrev = api.galleryGoPrev
-export const setGalleryHash = api.setGalleryHash
-export const readHashImgSrc = api.readHashImgSrc
-export const galleryDisplaySrc = api.galleryDisplaySrc
-export const safeImgDomId = api.safeImgDomId
+}
+
+export default createGalleryApi()

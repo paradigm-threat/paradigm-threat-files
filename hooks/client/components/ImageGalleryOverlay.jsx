@@ -1,17 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
-import {
-  gallerySubscribe,
-  galleryRev,
-  galleryImages,
-  galleryIndex,
-  galleryIsOpen,
-  closeGallery,
-  galleryGoNext,
-  galleryGoPrev,
-  setGalleryHash,
-  galleryDisplaySrc,
-} from 'hooks/client/galleryStore.jsx'
+import gallery from 'hooks/client/galleryStore.jsx'
 import {
   IconClose,
   IconChevronLeft,
@@ -44,8 +33,8 @@ export default function ImageGalleryOverlay() {
 
   useEffect(() => {
     if (!live) return
-    return gallerySubscribe((r) => {
-      setTick(typeof r === 'number' ? r : galleryRev())
+    return gallery.gallerySubscribe((r) => {
+      setTick(typeof r === 'number' ? r : gallery.galleryRev())
     })
   }, [live])
 
@@ -54,9 +43,9 @@ export default function ImageGalleryOverlay() {
   let index = -1
   let current = null
   if (live) {
-    open = galleryIsOpen()
-    images = galleryImages()
-    index = galleryIndex()
+    open = gallery.galleryIsOpen()
+    images = gallery.galleryImages()
+    index = gallery.galleryIndex()
     if (open && index >= 0 && index < images.length) {
       current = images[index]
     }
@@ -64,7 +53,7 @@ export default function ImageGalleryOverlay() {
 
   useEffect(() => {
     if (!live || !open || !current) return
-    setGalleryHash(current.src)
+    gallery.setGalleryHash(current.src)
   }, [live, open, index, rev])
 
   useEffect(() => {
@@ -74,9 +63,9 @@ export default function ImageGalleryOverlay() {
       try {
         if (e && typeof e.key === 'string') key = e.key
       } catch (err) {}
-      if (key === 'Escape') closeGallery()
-      if (key === 'ArrowRight') galleryGoNext()
-      if (key === 'ArrowLeft') galleryGoPrev()
+      if (key === 'Escape') gallery.closeGallery()
+      if (key === 'ArrowRight') gallery.galleryGoNext()
+      if (key === 'ArrowLeft') gallery.galleryGoPrev()
     }
     try {
       if (document && document.addEventListener) {
@@ -118,7 +107,7 @@ export default function ImageGalleryOverlay() {
     )
   }
 
-  const src = galleryDisplaySrc(current)
+  const src = gallery.galleryDisplaySrc(current)
   const caption = captionFor(current)
   const hasCaption = caption.length > 0
   const countLabel =
@@ -132,45 +121,28 @@ export default function ImageGalleryOverlay() {
       role="dialog"
       aria-modal="true"
       aria-label="Image gallery"
-      onClick={() => {
-        closeGallery()
-      }}
     >
-      <div
-        className="pt-gallery-header"
-        onClick={(e) => {
-          try {
-            if (e && e.stopPropagation) e.stopPropagation()
-          } catch (err) {}
-        }}
-      >
+      <div className="pt-gallery-header">
         <div className="pt-gallery-count">{countLabel}</div>
         <button
           type="button"
           className="pt-gallery-close"
-          aria-label="Close image gallery"
+          aria-label="Close gallery"
           onClick={() => {
-            closeGallery()
+            gallery.closeGallery()
           }}
         >
           <IconClose />
         </button>
       </div>
-      <div
-        className="pt-gallery-stage"
-        onClick={(e) => {
-          try {
-            if (e && e.stopPropagation) e.stopPropagation()
-          } catch (err) {}
-        }}
-      >
+      <div className="pt-gallery-stage">
         {multi ? (
           <button
             type="button"
             className="pt-gallery-nav pt-gallery-prev"
             aria-label="Previous image"
             onClick={() => {
-              galleryGoPrev()
+              gallery.galleryGoPrev()
             }}
           >
             <IconChevronLeft />
@@ -183,7 +155,7 @@ export default function ImageGalleryOverlay() {
             className="pt-gallery-nav pt-gallery-next"
             aria-label="Next image"
             onClick={() => {
-              galleryGoNext()
+              gallery.galleryGoNext()
             }}
           >
             <IconChevronRight />
@@ -191,16 +163,7 @@ export default function ImageGalleryOverlay() {
         ) : null}
       </div>
       {hasCaption ? (
-        <div
-          className="pt-gallery-caption"
-          onClick={(e) => {
-            try {
-              if (e && e.stopPropagation) e.stopPropagation()
-            } catch (err) {}
-          }}
-        >
-          {caption}
-        </div>
+        <div className="pt-gallery-caption">{caption}</div>
       ) : null}
     </div>
   )

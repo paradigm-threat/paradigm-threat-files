@@ -1,14 +1,7 @@
 import React, { useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
 import { prop } from '@relay/util'
-import {
-  registerGalleryImage,
-  syncGalleryImageMeta,
-  unregisterGalleryImage,
-  openGalleryAt,
-  readHashImgSrc,
-  safeImgDomId,
-} from 'hooks/client/galleryStore.jsx'
+import gallery from 'hooks/client/galleryStore.jsx'
 import { IconMaximize } from 'hooks/client/components/Icons.jsx'
 
 function str(v) {
@@ -29,24 +22,24 @@ export default function PopImage(props) {
     }
   } catch (e) {}
   const live = isClientLive() === true
-  const id = safeImgDomId(src)
+  const id = gallery.safeImgDomId(src)
 
   useEffect(() => {
     if (!live || src.length === 0) return
-    registerGalleryImage({
+    gallery.registerGalleryImage({
       src: src,
       alt: alt,
       highResSrc: highResSrc,
       children: children,
     })
     return () => {
-      unregisterGalleryImage(src)
+      gallery.unregisterGalleryImage(src)
     }
   }, [live, src])
 
   useEffect(() => {
     if (!live || src.length === 0) return
-    syncGalleryImageMeta({
+    gallery.syncGalleryImageMeta({
       src: src,
       alt: alt,
       highResSrc: highResSrc,
@@ -56,9 +49,9 @@ export default function PopImage(props) {
 
   useEffect(() => {
     if (!live || src.length === 0) return
-    const target = readHashImgSrc()
+    const target = gallery.readHashImgSrc()
     if (target.length > 0 && target === src) {
-      openGalleryAt(src)
+      gallery.openGalleryAt(src)
       try {
         if (document && document.getElementById) {
           const el = document.getElementById(id)
@@ -82,7 +75,7 @@ export default function PopImage(props) {
       data-pt-popimage="true"
       onClick={() => {
         if (!live || src.length === 0) return
-        openGalleryAt(src)
+        gallery.openGalleryAt(src)
       }}
       onKeyDown={(e) => {
         if (!live) return
@@ -94,7 +87,7 @@ export default function PopImage(props) {
           try {
             if (e && e.preventDefault) e.preventDefault()
           } catch (err2) {}
-          openGalleryAt(src)
+          gallery.openGalleryAt(src)
         }
       }}
     >
