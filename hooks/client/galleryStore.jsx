@@ -16,7 +16,7 @@ function isAlnumChar(c) {
 }
 
 function createGalleryApi() {
-  const s = {
+  let s = {
     images: [],
     override: null,
     index: 0 - 1,
