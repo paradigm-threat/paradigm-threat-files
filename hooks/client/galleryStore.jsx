@@ -1,12 +1,13 @@
 /**
- * Module gallery state on globalThis (no React Context / no module const).
- * CleverScript: nested scopes cannot see module-level const/lets reliably.
+ * Module gallery state on a function object (no globalThis / no module let).
+ * CleverScript: avoid encodeURIComponent, charCodeAt; named function expressions.
  */
 
+function storeBag() {}
+
 function root() {
-  const g = globalThis
-  if (!g.__ptGallery) {
-    g.__ptGallery = {
+  if (!storeBag._s) {
+    storeBag._s = {
       images: [],
       override: null,
       index: -1,
@@ -15,7 +16,7 @@ function root() {
       listeners: [],
     }
   }
-  return g.__ptGallery
+  return storeBag._s
 }
 
 function emit() {
@@ -206,15 +207,9 @@ export function closeGallery() {
   s.open = false
   s.override = null
   try {
-    const g = globalThis
-    if (g && g.location && typeof g.location.hash === 'string') {
-      if (g.location.hash.indexOf('#img=') === 0 && g.history && g.history.replaceState) {
-        const path =
-          typeof g.location.pathname === 'string' ? g.location.pathname : ''
-        const search =
-          typeof g.location.search === 'string' ? g.location.search : ''
-        g.history.replaceState(null, '', path + search)
-      }
+    const loc = document.location
+    if (loc && typeof loc.hash === 'string' && loc.hash.indexOf('#img=') === 0) {
+      loc.hash = ''
     }
   } catch (e) {}
   emit()
@@ -240,20 +235,19 @@ export function setGalleryHash(srcRaw) {
   const src = strSrc(srcRaw)
   if (src.length === 0) return
   try {
-    const g = globalThis
-    if (!g || !g.history || !g.history.replaceState) return
-    // CleverScript has no encodeURIComponent — keep raw src in hash (live uses encode).
+    const loc = document.location
+    if (!loc) return
     const hash = '#img=' + src
-    if (g.location && g.location.hash === hash) return
-    g.history.replaceState(null, '', hash)
+    if (loc.hash === hash) return
+    loc.hash = 'img=' + src
   } catch (e) {}
 }
 
 export function readHashImgSrc() {
   try {
-    const g = globalThis
-    if (!g || !g.location || typeof g.location.hash !== 'string') return ''
-    const hash = g.location.hash
+    const loc = document.location
+    if (!loc || typeof loc.hash !== 'string') return ''
+    const hash = loc.hash
     if (hash.indexOf('#img=') !== 0) return ''
     return hash.slice(5)
   } catch (e) {
@@ -269,17 +263,20 @@ export function galleryDisplaySrc(img) {
   return src
 }
 
+function isAlnumChar(c) {
+  if (c >= '0' && c <= '9') return true
+  if (c >= 'A' && c <= 'Z') return true
+  if (c >= 'a' && c <= 'z') return true
+  return false
+}
+
 export function safeImgDomId(srcRaw) {
   const src = strSrc(srcRaw)
   if (src.length === 0) return 'img-unknown'
   let out = 'img-'
   for (let i = 0; i < src.length; i++) {
     const c = src.charAt(i)
-    const code = src.charCodeAt(i)
-    const isNum = code >= 48 && code <= 57
-    const isUpper = code >= 65 && code <= 90
-    const isLower = code >= 97 && code <= 122
-    if (isNum || isUpper || isLower) out = out + c
+    if (isAlnumChar(c)) out = out + c
     else out = out + '-'
   }
   return out

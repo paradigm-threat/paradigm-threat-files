@@ -71,21 +71,12 @@ export default function ImageGalleryOverlay() {
       if (key === 'ArrowLeft') galleryGoPrev()
     }
     try {
-      const g = globalThis
-      if (g && g.addEventListener) {
-        g.addEventListener('keydown', onKey)
+      if (document && document.addEventListener) {
+        document.addEventListener('keydown', onKey)
         return () => {
           try {
-            if (g.removeEventListener) g.removeEventListener('keydown', onKey)
+            document.removeEventListener('keydown', onKey)
           } catch (e2) {}
-        }
-      }
-      if (g && g.document && g.document.addEventListener) {
-        g.document.addEventListener('keydown', onKey)
-        return () => {
-          try {
-            g.document.removeEventListener('keydown', onKey)
-          } catch (e3) {}
         }
       }
     } catch (e) {}
@@ -95,13 +86,12 @@ export default function ImageGalleryOverlay() {
     if (!live || !open) return
     let prev = ''
     try {
-      const doc = globalThis.document
-      if (doc && doc.body && doc.body.style) {
-        prev = doc.body.style.overflow
-        doc.body.style.overflow = 'hidden'
+      if (document && document.body && document.body.style) {
+        prev = document.body.style.overflow
+        document.body.style.overflow = 'hidden'
         return () => {
           try {
-            doc.body.style.overflow = prev
+            document.body.style.overflow = prev
           } catch (e) {}
         }
       }

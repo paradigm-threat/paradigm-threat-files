@@ -60,9 +60,8 @@ export default function PopImage(props) {
     if (target.length > 0 && target === src) {
       openGalleryAt(src)
       try {
-        const doc = globalThis.document
-        if (doc && doc.getElementById) {
-          const el = doc.getElementById(id)
+        if (document && document.getElementById) {
+          const el = document.getElementById(id)
           if (el && el.scrollIntoView) {
             el.scrollIntoView({ behavior: 'auto', block: 'center' })
           }
