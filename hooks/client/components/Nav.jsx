@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import ThemeToggle from 'hooks/client/components/ThemeToggle.jsx'
 import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
 import {
+  IconBook,
   IconClock,
   IconClose,
   IconHeart,
@@ -93,8 +94,15 @@ export default function Nav(props) {
     return currentPath === href
   }
 
+  // Match live footer/nav order; Donate stays in actions (Patreon).
   const navLinks = [
     { href: siteHref('/search'), label: 'Search', icon: <IconSearch />, active: isActive('/search') },
+    {
+      href: 'https://paradigmthreat.net/submit',
+      label: 'Submit',
+      icon: <IconBook />,
+      external: true,
+    },
     { href: siteHref('/'), label: 'Home', icon: <IconHome />, active: isActive('/') },
     {
       href: 'https://paradigm-threat-timeline.dfw1.relaygateway.net/',
@@ -143,18 +151,18 @@ export default function Nav(props) {
             </picture>
             <span className="pt-brand-fallback">Paradigm Threat</span>
           </a>
-          <nav className="pt-nav-desktop md:pt-nav-desktop-md">
+          <nav className="pt-nav-desktop lg:pt-nav-desktop-lg">
             {renderNavLinks(navLinks, 'nav-d-')}
           </nav>
         </div>
         <div className="pt-nav-actions">
-          <div className="pt-nav-actions-desktop md:pt-nav-actions-desktop-md">
+          <div className="pt-nav-actions-desktop lg:pt-nav-actions-desktop-lg">
             <FeelingLucky />
             <ThemeToggle />
           </div>
           <button
             type="button"
-            className="pt-icon-btn pt-nav-menu-btn md:pt-nav-menu-btn-md"
+            className="pt-icon-btn pt-nav-menu-btn lg:pt-nav-menu-btn-lg"
             aria-label={isOpen ? 'Close menu' : 'Open menu'}
             onClick={() => {
               setOpen(!isOpen)
@@ -165,7 +173,7 @@ export default function Nav(props) {
         </div>
       </div>
       {isOpen ? (
-        <div className="pt-nav-mobile md:pt-nav-mobile-md">
+        <div className="pt-nav-mobile lg:pt-nav-mobile-lg">
           <div className="pt-nav-mobile-tools">
             <span className="pt-nav-mobile-label">Display</span>
             <ThemeToggle />

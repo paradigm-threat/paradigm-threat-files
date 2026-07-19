@@ -12,7 +12,7 @@ Open conspiracy-research hub that challenges mainstream paradigms across history
 
 **Presence in the repo is not endorsement** — [working definition of antisemitism](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md).
 
-<ChangeLog />
+<ChangeLog limit={8} />
 
 !["These times are dark but every shadow, no matter how deep,
   is threatened by morning light" - Queen Isabella, The Fountain (2006)](/influence/conspiracy/scientific_truth.jpg?w=360 '{"className":"sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"}')

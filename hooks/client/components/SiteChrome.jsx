@@ -26,6 +26,11 @@ export default function SiteChrome(props) {
       <footer className="pt-footer">
         <nav className="pt-footer-nav" aria-label="Site">
           <FooterLink href={siteHref('/search')} label="Search" />
+          <FooterLink
+            href="https://paradigmthreat.net/submit"
+            label="Submit"
+            external={true}
+          />
           <FooterLink href={siteHref('/')} label="Home" />
           <FooterLink
             href="https://paradigm-threat-timeline.dfw1.relaygateway.net/"
@@ -43,11 +48,6 @@ export default function SiteChrome(props) {
             label="Videos"
             external={true}
           />
-          <FooterLink
-            href="https://www.patreon.com/c/ahsctimeline"
-            label="Donate"
-            external={true}
-          />
         </nav>
         <p className="pt-muted pt-footer-note">
           Thin files corpus on Relay — markdown in-git; rasters via{' '}
@@ -62,6 +62,25 @@ export default function SiteChrome(props) {
             paradigmthreat.net
           </a>
           .
+        </p>
+        <p className="pt-footer-actions">
+          <a
+            href="https://www.patreon.com/c/ahsctimeline"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="pt-footer-accent"
+          >
+            Support on Patreon
+          </a>
+          {' · '}
+          <a
+            href="https://paradigmthreat2.substack.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="pt-footer-accent"
+          >
+            Substack
+          </a>
         </p>
         <p className="pt-footer-relay">
           <a href="https://relaygateway.net" target="_blank" rel="noopener noreferrer">

@@ -35,7 +35,7 @@ export default function HomePage() {
   return (
     <SiteChrome currentPath="/articles">
       <main className="pt-page" id="pt-home">
-        <div className="pt-columns">
+        <div className="pt-columns lg:pt-columns-lg">
           <DirNav />
           <div className="pt-column-main">
             <div className="pt-container">

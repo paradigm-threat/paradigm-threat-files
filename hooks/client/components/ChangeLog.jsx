@@ -1,6 +1,6 @@
 /**
  * Thin ChangeLog matching live paradigmthreat.net tabs + card/feed styles.
- * Uses @relay/date|path|util|catalog — CSS radio tabs (no setState).
+ * Card chrome lives in theme.yaml; only :has() radio wiring stays inline.
  */
 import React from 'react'
 import { basename } from '@relay/path'
@@ -10,7 +10,7 @@ import { contentKind, publishedFromBlogPath } from '@relay/catalog'
 import { loadArticleRows, rowPath, rowTitle, rowUpdated, siteHref } from 'hooks/client/loadArticles.jsx'
 
 function buildBuckets(limit) {
-  const rows = loadArticleRows(200)
+  const rows = loadArticleRows(120)
   let articles = []
   let investigations = []
   let blog = []
@@ -156,9 +156,9 @@ function panelRecent(items) {
   )
 }
 
+/** Radio show/hide only — colors/layout come from theme.yaml. */
 function tabCss() {
   return (
-    '.pt-changelog-tab{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none;}' +
     '.pt-changelog-panel{display:none;flex-direction:column;min-height:0;flex:1;overflow:hidden;}' +
     '.pt-changelog:has(#pt-cl-articles:checked) .pt-changelog-panel-articles{display:flex;}' +
     '.pt-changelog:has(#pt-cl-investigations:checked) .pt-changelog-panel-investigations{display:flex;}' +
@@ -168,36 +168,12 @@ function tabCss() {
     '.pt-changelog:has(#pt-cl-investigations:checked) .pt-changelog-tab-investigations,' +
     '.pt-changelog:has(#pt-cl-blog:checked) .pt-changelog-tab-blog,' +
     '.pt-changelog:has(#pt-cl-recent:checked) .pt-changelog-tab-recent{' +
-    'color:#e2e8f0;border-color:#818cf8;background-color:#1e293b;}' +
-    '.pt-cl-cards{display:flex;flex-direction:column;gap:0.75rem;}' +
-    '.pt-cl-card-item{margin:0;list-style:none;}' +
-    '.pt-cl-card{display:flex;gap:0.75rem;align-items:flex-start;padding:0.65rem 0.75rem;' +
-    'border-radius:0.5rem;border:1px solid rgba(203,213,225,0.7);background:rgba(255,255,255,0.6);' +
-    'text-decoration:none;color:inherit;transition:border-color 0.15s ease,box-shadow 0.15s ease;}' +
-    '.pt-cl-card:hover{border-color:#8b5cf6;box-shadow:0 2px 8px rgba(15,23,42,0.06);}' +
-    '.pt-cl-card-media{flex-shrink:0;}' +
-    '.pt-cl-card-thumb-logo{width:4.5rem;height:4.5rem;border-radius:0.25rem;border:1px solid #cbd5e1;' +
-    'object-fit:contain;padding:0.2rem;background:#f8fafc;}' +
-    '.pt-cl-card-body{min-width:0;flex:1;}' +
-    '.pt-cl-card-title{margin:0 0 0.2rem;font-size:1rem;font-weight:700;line-height:1.3;color:#f8fafc;}' +
-    '.pt-cl-card-dates{display:flex;flex-direction:column;gap:0.1rem;margin-bottom:0.35rem;}' +
-    '.pt-cl-card-date{display:block;font-size:0.75rem;color:#94a3b8;margin-bottom:0.35rem;}' +
-    '.pt-cl-card-dates .pt-cl-card-date{margin-bottom:0;}' +
-    '.pt-cl-card-byline{margin:0;font-size:0.875rem;line-height:1.45;color:#cbd5e1;}' +
-    '.pt-cl-feed{display:flex;flex-direction:column;gap:0.65rem;}' +
-    '.pt-cl-entry{display:flex;gap:0.75rem;align-items:flex-start;margin:0;list-style:none;}' +
-    '.pt-cl-entry-thumb{flex-shrink:0;width:3.5rem;height:3.5rem;border-radius:0.25rem;' +
-    'border:1px solid #cbd5e1;background:#f8fafc;display:flex;align-items:center;justify-content:center;}' +
-    '.pt-cl-entry-logo{width:2.75rem;height:2.75rem;object-fit:contain;}' +
-    '.pt-cl-entry-body{min-width:0;flex:1;font-size:0.875rem;color:#e2e8f0;}' +
-    '.pt-cl-entry-title{margin:0 0 0.15rem;line-height:1.35;}' +
-    '.pt-cl-entry-file{font-size:0.8125rem;opacity:0.85;}' +
-    '.pt-cl-entry-file a{color:#93c5fd;}'
+    'color:inherit;border-color:currentColor;font-weight:700;}'
   )
 }
 
 export default function ChangeLog(props) {
-  let limit = 16
+  let limit = 8
   try {
     if (props && typeof props.limit === 'number' && props.limit > 0) limit = props.limit
   } catch (e) {}

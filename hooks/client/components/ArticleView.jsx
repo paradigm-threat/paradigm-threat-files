@@ -20,7 +20,7 @@ function EmptyMdStub() {
 
 /** Module-level so override identity stays stable across parent re-renders (avoids remounting ChangeLog). */
 function renderChangeLog(p) {
-  let lim = 16
+  let lim = 8
   try {
     if (p && typeof p.limit === 'number' && p.limit > 0) lim = p.limit
   } catch (e) {}
@@ -208,7 +208,7 @@ export default function ArticleView(props) {
   return (
     <SiteChrome currentPath={currentPath}>
       <main className="pt-page pt-article-page">
-        <div className="pt-columns">
+        <div className="pt-columns lg:pt-columns-lg">
           <DirNav />
           <div className="pt-column-main">
             <Layout

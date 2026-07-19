@@ -2,8 +2,24 @@
  * Repo shell: path label + Up / Home + scrollable content.
  * Prefer href navigation from parent; optional onUp/onHome for same-page state.
  */
+import { dirname } from '@relay/path'
 import { propOr, propStr } from 'hooks/client/propOr.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
+
+function parentHref(filePath) {
+  let rel = typeof filePath === 'string' ? filePath : ''
+  while (rel.length > 0 && rel.charAt(0) === '/') {
+    rel = rel.slice(1)
+  }
+  if (rel.length === 0 || rel === 'page.md' || rel === 'README.md') {
+    return siteHref('/')
+  }
+  const dir = dirname(rel)
+  if (!dir || dir === '.' || dir === '/') {
+    return siteHref('/')
+  }
+  return siteHref('/' + dir + '/page.md')
+}
 
 export default function Layout(props) {
   const path = propStr(props, 'filePath', 'README.md')
@@ -11,6 +27,7 @@ export default function Layout(props) {
   const onUp = propOr(props, 'onUp', null)
   const onHome = propOr(props, 'onHome', null)
   const children = props.children
+  const upHref = parentHref(path)
 
   if (hideToolbar === true) {
     return (
@@ -30,7 +47,7 @@ export default function Layout(props) {
             Up
           </button>
         ) : (
-          <a className="pt-btn" href={siteHref('/')}>
+          <a className="pt-btn" href={upHref}>
             Up
           </a>
         )}

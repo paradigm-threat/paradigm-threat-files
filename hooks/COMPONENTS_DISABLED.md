@@ -4,11 +4,11 @@ Hard custom markdown / site components are enabled incrementally on the thin par
 
 | Component | Status | Notes |
 |-----------|--------|-------|
-| AutoIndex | **shipped** | `MarkdownRenderer overrides.AutoIndex`; tree polish via DirNav |
-| ChangeLog | **shipped** | CSS radio tabs; nav-index dates; card/feed styling vs live site |
+| AutoIndex | **shipped** | `MarkdownRenderer overrides.AutoIndex`; styles in theme.yaml |
+| DirNav | **shipped** | Nested tree via `@relay/catalog.buildDirTree` (capped depth/files); FeelingLucky in aside |
+| ChangeLog | **shipped** | Theme-aware card/feed; CSS radio tabs; default limit 8 on home |
 | ThemeToggle | **shipped** | Post-`isClientLive` without SSR flicker |
-| SiteChrome / Nav / footer | **shipped** | Live nav set + wordmark; Relay footer attribution |
-| DirNav | **shipped** | Flat index from nav-index (nested tree deferred — CS dynamic keys) |
+| SiteChrome / Nav / footer | **shipped** | Live order + Submit; Patreon/Substack accents; lg breakpoint nav |
 | EmbedFile | disabled | |
 | ChatRoom-in-md | stub | Override returns hidden stub until chat lands on tip |
 | PopImage / gallery | disabled | After thumbs; hash gallery like live |
