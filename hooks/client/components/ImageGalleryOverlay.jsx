@@ -43,7 +43,7 @@ export default function ImageGalleryOverlay() {
 
   useEffect(() => {
     if (!live) return
-    return gallerySubscribe(function onRev(rev) {
+    return gallerySubscribe((rev) => {
       setTick(typeof rev === 'number' ? rev : galleryRev())
     })
   }, [live])
@@ -61,7 +61,7 @@ export default function ImageGalleryOverlay() {
 
   useEffect(() => {
     if (!live || !open) return
-    function onKey(e) {
+    const onKey = (e) => {
       let key = ''
       try {
         if (e && typeof e.key === 'string') key = e.key
@@ -74,7 +74,7 @@ export default function ImageGalleryOverlay() {
       const g = globalThis
       if (g && g.addEventListener) {
         g.addEventListener('keydown', onKey)
-        return function cleanup() {
+        return () => {
           try {
             if (g.removeEventListener) g.removeEventListener('keydown', onKey)
           } catch (e2) {}
@@ -82,7 +82,7 @@ export default function ImageGalleryOverlay() {
       }
       if (g && g.document && g.document.addEventListener) {
         g.document.addEventListener('keydown', onKey)
-        return function cleanup() {
+        return () => {
           try {
             g.document.removeEventListener('keydown', onKey)
           } catch (e3) {}
@@ -99,7 +99,7 @@ export default function ImageGalleryOverlay() {
       if (doc && doc.body && doc.body.style) {
         prev = doc.body.style.overflow
         doc.body.style.overflow = 'hidden'
-        return function cleanup() {
+        return () => {
           try {
             doc.body.style.overflow = prev
           } catch (e) {}

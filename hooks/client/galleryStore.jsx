@@ -36,7 +36,7 @@ export function galleryRev() {
 export function gallerySubscribe(fn) {
   const s = root()
   s.listeners = s.listeners.concat([fn])
-  return function unsubscribe() {
+  return () => {
     const cur = root()
     let next = []
     for (let i = 0; i < cur.listeners.length; i++) {

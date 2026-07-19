@@ -39,7 +39,7 @@ export default function PopImage(props) {
       highResSrc: highResSrc,
       children: children,
     })
-    return function cleanup() {
+    return () => {
       unregisterGalleryImage(src)
     }
   }, [live, src])
