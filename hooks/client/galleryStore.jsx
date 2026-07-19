@@ -1,22 +1,19 @@
 /**
- * Module gallery state on a function object (no globalThis / no module let).
- * CleverScript: avoid encodeURIComponent, charCodeAt; named function expressions.
+ * Module gallery state (plain object — CS forbids props on function values).
+ * CleverScript: avoid encodeURIComponent, charCodeAt, window, named fn expressions.
  */
 
-function storeBag() {}
+const GALLERY = {
+  images: [],
+  override: null,
+  index: -1,
+  open: false,
+  rev: 0,
+  listeners: [],
+}
 
 function root() {
-  if (!storeBag._s) {
-    storeBag._s = {
-      images: [],
-      override: null,
-      index: -1,
-      open: false,
-      rev: 0,
-      listeners: [],
-    }
-  }
-  return storeBag._s
+  return GALLERY
 }
 
 function emit() {

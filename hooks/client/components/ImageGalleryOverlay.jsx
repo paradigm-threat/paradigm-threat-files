@@ -40,24 +40,32 @@ export default function ImageGalleryOverlay() {
   const live = isClientLive() === true
   const tick = useState(0)
   const setTick = tick[1]
+  const rev = tick[0]
 
   useEffect(() => {
     if (!live) return
-    return gallerySubscribe((rev) => {
-      setTick(typeof rev === 'number' ? rev : galleryRev())
+    return gallerySubscribe((r) => {
+      setTick(typeof r === 'number' ? r : galleryRev())
     })
   }, [live])
 
-  const open = live && galleryIsOpen()
-  const images = galleryImages()
-  const index = galleryIndex()
-  const current =
-    open && index >= 0 && index < images.length ? images[index] : null
+  let open = false
+  let images = []
+  let index = -1
+  let current = null
+  if (live) {
+    open = galleryIsOpen()
+    images = galleryImages()
+    index = galleryIndex()
+    if (open && index >= 0 && index < images.length) {
+      current = images[index]
+    }
+  }
 
   useEffect(() => {
     if (!live || !open || !current) return
     setGalleryHash(current.src)
-  }, [live, open, index])
+  }, [live, open, index, rev])
 
   useEffect(() => {
     if (!live || !open) return
@@ -80,7 +88,7 @@ export default function ImageGalleryOverlay() {
         }
       }
     } catch (e) {}
-  }, [live, open, index])
+  }, [live, open, index, rev])
 
   useEffect(() => {
     if (!live || !open) return
@@ -96,9 +104,9 @@ export default function ImageGalleryOverlay() {
         }
       }
     } catch (e) {}
-  }, [live, open])
+  }, [live, open, rev])
 
-  if (!open || !current) return null
+  if (!live || !open || !current) return null
 
   const src = galleryDisplaySrc(current)
   const caption = captionFor(current)
