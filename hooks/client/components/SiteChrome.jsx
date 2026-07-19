@@ -1,5 +1,6 @@
 import React from 'react'
 import Nav from 'hooks/client/components/Nav.jsx'
+import ImageGalleryOverlay from 'hooks/client/components/ImageGalleryOverlay.jsx'
 import { propStr } from 'hooks/client/propOr.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
 import { Link } from '@relay/ui'
@@ -88,6 +89,7 @@ export default function SiteChrome(props) {
           </a>
         </p>
       </footer>
+      <ImageGalleryOverlay />
     </div>
   )
 }

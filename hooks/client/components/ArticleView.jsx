@@ -11,6 +11,7 @@ import {
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
 import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
 import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
+import PopImage from 'hooks/client/components/PopImage.jsx'
 import manifest from '@hooks'
 
 /** Stub for markdown tags not yet implemented (module-level for CleverScript scope). */
@@ -25,6 +26,39 @@ function renderChangeLog(p) {
     if (p && typeof p.limit === 'number' && p.limit > 0) lim = p.limit
   } catch (e) {}
   return <ChangeLog limit={lim} />
+}
+
+function renderPopImage(p) {
+  let src = ''
+  let alt = ''
+  let className = ''
+  let highResSrc = ''
+  let children = null
+  try {
+    if (p && typeof p.src === 'string') src = p.src
+  } catch (e) {}
+  try {
+    if (p && typeof p.alt === 'string') alt = p.alt
+  } catch (e) {}
+  try {
+    if (p && typeof p.className === 'string') className = p.className
+  } catch (e) {}
+  try {
+    if (p && typeof p.highResSrc === 'string') highResSrc = p.highResSrc
+  } catch (e) {}
+  try {
+    if (p && p.children !== null && p.children !== undefined) children = p.children
+  } catch (e) {}
+  return (
+    <PopImage
+      src={src}
+      alt={alt}
+      className={className}
+      highResSrc={highResSrc}
+    >
+      {children}
+    </PopImage>
+  )
 }
 
 function str(v) {
@@ -233,6 +267,8 @@ export default function ArticleView(props) {
                   AutoIndex: renderAutoIndex,
                   ChangeLog: renderChangeLog,
                   ChatRoom: EmptyMdStub,
+                  PopImage: renderPopImage,
+                  img: renderPopImage,
                 }}
               />
               {prevHref.length > 0 || nextHref.length > 0 ? (

@@ -11,7 +11,7 @@ Hard custom markdown / site components are enabled incrementally on the thin par
 | SiteChrome / Nav / footer | **shipped** | Live navbar order + glass/blur; FontToggle; absolute mobile drawer; FeelingLucky in DirNav + mobile Directory |
 | EmbedFile | disabled | |
 | ChatRoom-in-md | stub | Override returns hidden stub until chat lands on tip |
-| PopImage / gallery | disabled | After thumbs; hash gallery like live |
+| PopImage / gallery | **shipped** | `img`/`PopImage` overrides; `galleryStore` + fullscreen overlay; `#img=` hash |
 | VisTimeline / maps / Three | deferred | Own routes / timeline tip |
 | Files `/timeline` subpath | deferred | External timeline host only |
 | `expandMdComponents.jsx` / `rewriteAssets.jsx` | pass-through | Re-enable rewrite when asset URL policy is stable |

@@ -674,6 +674,142 @@ themes:
         marginRight: "auto"
         width: "100%"
         boxSizing: "border-box"
+      ".pt-popimage":
+        display: "block"
+        width: "fit-content"
+        maxWidth: "100%"
+        marginLeft: "auto"
+        marginRight: "auto"
+        marginTop: "1rem"
+        marginBottom: "1rem"
+        cursor: "pointer"
+        borderRadius: "0.75rem"
+        overflow: "hidden"
+        boxShadow: "0 10px 15px -3px rgba(15, 23, 42, 0.12)"
+        boxSizing: "border-box"
+      ".pt-popimage-inner":
+        position: "relative"
+        display: "block"
+      ".pt-popimage-img":
+        display: "block"
+        maxWidth: "100%"
+        height: "auto"
+      ".pt-popimage-hover":
+        position: "absolute"
+        left: 0
+        right: 0
+        top: 0
+        bottom: 0
+        display: "flex"
+        alignItems: "center"
+        justifyContent: "center"
+        backgroundColor: "transparent"
+        pointerEvents: "none"
+        transition: "background-color 0.2s ease"
+      ".pt-popimage:hover .pt-popimage-hover":
+        backgroundColor: "rgba(0, 0, 0, 0.2)"
+      ".pt-popimage-max":
+        color: "#ffffff"
+        opacity: 0
+        transition: "opacity 0.2s ease"
+        filter: "drop-shadow(0 2px 6px rgba(0,0,0,0.45))"
+      ".pt-popimage:hover .pt-popimage-max":
+        opacity: 1
+      ".pt-popimage-caption":
+        padding: "0.5rem 0.75rem"
+        fontSize: "0.875rem"
+        color: "var(muted)"
+        textAlign: "center"
+      ".pt-gallery":
+        position: "fixed"
+        left: 0
+        right: 0
+        top: 0
+        bottom: 0
+        zIndex: 200
+        display: "flex"
+        flexDirection: "column"
+        backgroundColor: "#000000"
+        userSelect: "none"
+      ".pt-gallery-header":
+        flexShrink: 0
+        height: "3.5rem"
+        paddingLeft: "1rem"
+        paddingRight: "1rem"
+        display: "flex"
+        alignItems: "center"
+        justifyContent: "space-between"
+        borderBottomWidth: 1
+        borderBottomStyle: "solid"
+        borderBottomColor: "rgba(255,255,255,0.1)"
+        backgroundColor: "rgba(0,0,0,0.95)"
+        boxSizing: "border-box"
+      ".pt-gallery-count":
+        color: "rgba(255,255,255,0.5)"
+        fontSize: "0.875rem"
+        fontFamily: "ui-monospace, SFMono-Regular, Menlo, monospace"
+        overflow: "hidden"
+        textOverflow: "ellipsis"
+        whiteSpace: "nowrap"
+        marginRight: "1rem"
+        minWidth: 0
+      ".pt-gallery-close":
+        display: "inline-flex"
+        alignItems: "center"
+        justifyContent: "center"
+        padding: "0.5rem"
+        color: "rgba(255,255,255,0.65)"
+        backgroundColor: "transparent"
+        borderWidth: 0
+        cursor: "pointer"
+      ".pt-gallery-close:hover":
+        color: "#ffffff"
+      ".pt-gallery-stage":
+        position: "relative"
+        flex: 1
+        minHeight: 0
+        display: "flex"
+        alignItems: "center"
+        justifyContent: "center"
+        padding: "0.5rem 2.5rem"
+        boxSizing: "border-box"
+      ".pt-gallery-img":
+        maxWidth: "99vw"
+        maxHeight: "calc(100vh - 7rem)"
+        objectFit: "contain"
+        borderRadius: "0.5rem"
+        boxShadow: "0 25px 50px -12px rgba(0,0,0,0.5)"
+      ".pt-gallery-nav":
+        position: "absolute"
+        top: "50%"
+        transform: "translateY(-50%)"
+        display: "inline-flex"
+        alignItems: "center"
+        justifyContent: "center"
+        padding: "0.75rem"
+        borderRadius: "9999px"
+        borderWidth: 0
+        backgroundColor: "rgba(255,255,255,0.12)"
+        color: "#ffffff"
+        cursor: "pointer"
+        zIndex: 2
+      ".pt-gallery-prev":
+        left: "0.75rem"
+      ".pt-gallery-next":
+        right: "0.75rem"
+      ".pt-gallery-caption":
+        flexShrink: 0
+        maxHeight: "22vh"
+        overflowY: "auto"
+        borderTopWidth: 1
+        borderTopStyle: "solid"
+        borderTopColor: "rgba(255,255,255,0.1)"
+        backgroundColor: "rgba(0,0,0,0.95)"
+        padding: "0.75rem 1rem"
+        fontSize: "0.875rem"
+        color: "rgba(255,255,255,0.9)"
+        lineHeight: "1.5"
+        textAlign: "center"
       ".pt-changelog":
         margin: "1.5rem 0"
         padding: "1rem"
