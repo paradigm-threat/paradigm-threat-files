@@ -1,6 +1,9 @@
 # Investigation: Galen Winsor — “Nuclear Waste is Safe” (alternative framework)
 
 > **TL;DR:** Investigation: Galen Winsor — “Nuclear Waste is Safe” (alternative framework): Galen Winsor was a nuclear fuel processing specialist who worked at Hanford (1950–1975), Oak Ridge National Laboratories, GE's Midwest Fuel Recovery Plant in Morris, Illinois, GE's Fuel Fabrication Facility in San Jose and Wilmington, NC, and every major reactor decommissioning project in the US through the 1980s.
+
+**Stance cross-link (2026-07-19):** Project nuclear position is **half-hoax** — flash-for-miles myth vs real **DU** harm — not “nukes don’t exist.” Winsor’s enriched-handling demonstrations support distinguishing scare stories from **DU**; they do **not** license total-hoax. Hub: [`/science/nukes`](/science/nukes/page.md) · [half-hoax dossier](/science/nukes/investigations/nukes-dont-exist-investigation.md).
+
 **Spelling:** The person is standardly **Galen Winsor** (1926–2008). This file still uses *Windsor* in many internal lines because the working lecture transcript and older mirrors used that spelling; search both if grepping.
 
 ## Source Material

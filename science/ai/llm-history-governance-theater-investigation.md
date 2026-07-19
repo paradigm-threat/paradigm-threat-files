@@ -259,7 +259,7 @@
 | **Iran “didn’t realize” DU / fatwa blind spot** | **Author thesis** — see [CIA investigation](/governance/war/investigations/cia-investigation.md); **not** adjudicated as Iranian intent here |
 | **MI6/CIA setup** | Long-running project thesis; **MOU does not prove** covert script |
 
-**Cross-investigations:** [Iran 2026 war runner](/governance/war/investigations/iran-2026-war-runner.md) · [Mission Accomplished (Again) essay](/governance/war/mission-accomplished-again-iran-2026.md) · [**The Peace Deal Nobody Cares About** — Installment III reader essay](/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) · [Islamabad peace deal investigation](/governance/war/investigations/islamabad-peace-deal-investigation.md) · [CIA investigation §IV](/governance/war/investigations/cia-investigation.md) · [science/nukes](/science/nukes/A.md) (atomic-bomb mechanism skepticism)
+**Cross-investigations:** [Iran 2026 war runner](/governance/war/investigations/iran-2026-war-runner.md) · [Mission Accomplished (Again) essay](/governance/war/mission-accomplished-again-iran-2026.md) · [**The Peace Deal Nobody Cares About** — Installment III reader essay](/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) · [Islamabad peace deal investigation](/governance/war/investigations/islamabad-peace-deal-investigation.md) · [CIA investigation §IV](/governance/war/investigations/cia-investigation.md) · [science/nukes half-hoax hub](/science/nukes/page.md) (flash myth vs DU; archival dump: [`A.md`](/science/nukes/A.md))
 
 ### 2.3 Logic Check (Assistant Validation of §2–§2.2.1, §2.1.1, §2.4)
 

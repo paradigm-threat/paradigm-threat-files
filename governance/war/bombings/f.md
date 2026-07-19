@@ -146,7 +146,9 @@ than 20 hospitals. Nearly 40,000 homes were completely destroyed or damaged."
 All technological advances in Human History have coincided with acts of war.  
 [https://sites.google.com/a/umn.edu/historpedia/home/science-technology/developments-in-airplanes-between-world-war-one-and-world-war-two-fall-2012](https://sites.google.com/a/umn.edu/historpedia/home/science-technology/developments-in-airplanes-between-world-war-one-and-world-war-two-fall-2012)
 
-### Japan was Napalmed (Nuke Bombs are Fake):
+### Japan Firebombing Context (Nuke Flash Half-Hoax; DU Real):
+
+> **Correction (2026-07-19):** Older heading said “Nuke Bombs are Fake.” Current stance: **half-hoax** — flash-for-miles myth vs real **DU**. See [`/science/nukes`](https://paradigmthreat.net/science/nukes/).
 
 "TNT could have been used to fabricate any A-Bomb test. And yes, conventional bombs can and do produce the classic
 mushroom clouds that we routinely associate with atomic bombs."  

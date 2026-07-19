@@ -42,6 +42,8 @@ The dossier lane is uglier: it treats **extremism as a manageable risk surface**
 
 ## The endgame the dossier names
 
+**Site stance (nuclear / DU — 2026-07-19):** This project does **not** claim “all nuclear bombs are fake.” The stance is **half-hoax**: the **disintegrating flash for miles** / Hollywood fission spectacle is the hoax half; **depleted uranium is real and cancer-causing**. Full correction and mind-change note (NSA-aligned fear of DU proxies): [Nuclear weapons — half-hoax hub](https://paradigmthreat.net/science/nukes/). Audit dossier: [half-hoax investigation](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md).
+
 The public argument is always the Hollywood bomb. The dossier’s author lane argues the sharper risk sits in **material the press treats as boring**: **depleted uranium** framed as an innocent byproduct of a “peaceful” program, plus a **fatwa** the world reads as a guarantee. You can reject the mechanism and still accept the policy consequence: **latency is treated as intolerable** once missiles, proxies, and ideology stack on top of it.
 
 [Author opinion: fatwa, depleted uranium, and the real Iranian nuclear threat](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md#authors-opinion-fatwa-depleted-uranium-and-the-real-iranian-nuclear-threat)
@@ -91,6 +93,16 @@ Second: **cost accounting** is always late, always revised, and always political
 Third: **polls** measure **approval of handling**, not **secret knowledge of outcomes**. A majority can oppose action and still accept a narrative that “the worst is past” once the screen stops flashing red every night.
 
 Fourth: the press still rewards **clean arcs**—villain, strike, victory lap—over **messy equilibrium**. Equilibrium stories are harder to film. So the same week can host both a **Rubio** “objectives met” arc and a **PBS/CNBC** “no end in sight” arc, and both can be faithful to different slices of the truth.
+
+### Canonical Rubio cite — nuclear Hormuz / “leave behind”
+
+When this article (or companion replies) needs a **verified** administration line for **why a nuclear Iran cannot be left as the future board**, use Secretary of State **Marco Rubio** at the White House briefing on **May 5, 2026** — **not** Vance:
+
+> *“If Iran had a nuclear weapon, they'd close the strait, and they'd tell the world, what are you going to do about it? We have a nuclear weapon. We can attack you with it. That's the world none of us want to leave behind.”*
+
+Often continued: *“It won't happen under this President's watch.”* Primary transcript: [Rev — White House press briefing 5/05/26](https://www.rev.com/transcripts/white-house-press-briefing-on-5-05-26). Contemporaneous report: [Iran International](https://www.iranintl.com/en/202605059665). Short cite: *“the world none of us want to leave behind”* (Rubio, May 5, 2026).
+
+**Author read (why the line carries weight):** This is more than gas-price / shipping rhetoric. In the [good-actor / antibody](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) frame, Rubio’s sentence marks the **sunsetting of the ~80-year agency fight** and of the **defeated holy-war geometry** — the OSS→CIA / MI6 Iran-and-religion pipeline (Ajax → Shah → 1979 → nuclear threshold) that antibodies have been trying to end since the public **War on Terror** fork after **9/11** (read there as CIA defeat and forced daylight, not CIA victory). *“None of us want to leave behind”* implies a **prepared, multi-decade plan now executing as necessity**: close the nuclear-Hormuz blackmail board so the next generation does not inherit that world. Use the quote when arguing Iran 2026 as **endgame cleanup**, not impulsive theater.
 
 ## Two meters on the same week
 
@@ -197,7 +209,7 @@ Keywords: #IranWar #MissionAccomplished #EpicFury #MediaBias #Cia #Mi6 #NuclearM
 
 **Substack:** [paradigmthreat2.substack.com/p/mission-accomplished-again-what-the](https://paradigmthreat2.substack.com/p/mission-accomplished-again-what-the)
 
-**Last updated:** 2026-05-15
+**Last updated:** 2026-07-19
 
 ---
 

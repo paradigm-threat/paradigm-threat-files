@@ -1,10 +1,20 @@
 
+> **TL;DR:** **Archival dump — not current project stance.** Current half-hoax hub: [`/science/nukes`](/science/nukes/page.md). This file keeps **Galen Winsor** lecture notes plus a long [heiwaco](http://www.members.tripod.com/heiwaco/bomb.htm) **total-hoax** scrape. As of **2026-07-19** the site position is **half-hoax**: **disintegrating flash for miles = hoax**; **DU = real / cancer-causing**. Do not cite this page as “nukes don’t exist.”
 
-> **TL;DR:** Ben Williams Presents: The Nuclear Scare Scam by GALEN WINSOR (1986) Galen Winsor is a nuclear physicist of renown who worked at, and helped design, nuclear power plants in Hanford, WA; Oak Ridge, TN; Morris, IL, San Jose, CA; Wilmington, NJ. Among his positions of expertise he was in charge of measuring and controlling the nuclear fuel inventory and storage.
+## Correction (2026-07-19) — read before the archive
+
+**Superseded claim in this file:** “atomic bombs do not work / are a total hoax.”
+
+**Current claim:** see [Nuclear Weapons — Half-Hoax Hub](/science/nukes/page.md) and [half-hoax investigation](/science/nukes/investigations/nukes-dont-exist-investigation.md). Author left full-hoax after treating **NSA-aligned fear of the DU proxy threat** as decisive signal (harder to dismiss than press/fatwa Hollywood-bomb language).
+
+What follows below is retained as **source archive** (Winsor + heiwaco), not as endorsed thesis.
+
+---
+
 ## [The Nuclear Scam by Galen Winsor (1986)](https://www.youtube.com/watch?v=IVoKztKs6-E)
 
 ```
-Note: This investigation is a work in progress. Check back soon for more updates!
+Note: Archival mirror. Current stance = half-hoax — /science/nukes
 ```
 
 Ben Williams Presents: The Nuclear Scare Scam by GALEN WINSOR (1986)
@@ -1914,5 +1924,7 @@ Question remains when will all parties agree that nuclear weapons are a hoax?
 
 ---
 
-Keywords: #Nuclear #Scam #Galen #Winsor
+Keywords: #Nuclear #GalenWinsor #Archival #HalfHoaxSupersedes
+
+*Last updated: 2026-07-19 (correction banner only; archive body retained)*
 

@@ -11,7 +11,7 @@ Note: This section is **a work in progress**. Check back soon for more updates!
 
 ### [Covid19 was a simulated fake pandemic](/influence/conspiracy/covid19)
 
-### [Nuclear Bombs are Fake](/science/nukes/nukes)
+### [Nuclear Bomb Flash is Half-Hoax; DU is Real](/science/nukes)
 
 ### [Apollo Missions](/events/apollo)
 

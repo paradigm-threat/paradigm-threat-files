@@ -1,25 +1,59 @@
-# Investigation: "Nukes Don't Exist" — Alternative Framework Analysis
+# Investigation: Nuclear Weapons Half-Hoax — Dubay Audit and Author Correction
 
-> **TL;DR:** Investigation: "Nukes Don't Exist" — Alternative Framework Analysis: This investigation proceeds from the following alternative framework:
-## Source Material
-**File**: `nukes-dont-exist.mp4`  
-**Type**: Podcast/video (~8 minutes)  
-**Date Analyzed**: 2026  
-**Documentary Referenced**: *Nuclear Hoax: Nukes Do Not Exist* (2019), directed by **Eric Dubay** — [IMDB tt38551401](https://www.imdb.com/title/tt38551401/)  
-**Description**: The podcast features a host and a guest (Dubay) discussing his documentary work. Dubay directs listeners to his website "nuclear weapons do not exist" to view three documentaries exposing nuclear test footage as fabricated.
+> **TL;DR:** **Half-hoax** is the project stance (2026-07-19). The **disintegrating flash for miles** is the hoax half; **depleted uranium (DU)** is **real and cancer-causing**. Total-hoax presenters (Dubay *et al.*) overreach; older hub labels that said “atomic bombs are fake” are **superseded**. Mind-change hinge: **NSA-aligned / antibody** fear of the **DU proxy threat** outranked every competing danger — hard to dismiss as press/fatwa consensus error. Hub: [`/science/nukes`](/science/nukes/page.md). DU prose: [Islamabad § DU blind spot](/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md).
 
-## Framework Assumptions
-
-This investigation proceeds from the following alternative framework:
-
-1. **Controlled narrative**: The nuclear physics establishment operates as a fear-based authority structure, similar in function to how organized religion controls populations through fear of the unknown. The "nuclear priesthood" has incentive to maintain opacity around what these materials actually do.
-2. **Enriched vs. depleted distinction**: Concentrated, enriched uranium and related isotopes may be biologically inert or even beneficial to humans (consistent with radiation hormesis research). Depleted uranium—the waste byproduct stripped of useful isotopes—is the genuinely toxic substance.
-3. **Media conflation**: The nuclear establishment deliberately conflates enriched and depleted materials, attributing the known harms of depleted uranium to all nuclear materials, thus justifying vast regulatory budgets and the sequestration of valuable fuel.
-4. **Hiroshima/Nagasaki**: The bombings were real events but likely overstated in magnitude, with depleted uranium contamination responsible for the long-term health effects attributed to "radiation."
+**Status:** Corrected — full-hoax retired; dossier retained as audit of total-hoax media plus half-hoax registry  
+**Date analyzed (source podcast):** 2026  
+**Author correction stamped:** 2026-07-19 (US Eastern)
 
 ---
 
-## Summary of Claims
+## Source Material
+
+**File**: `nukes-dont-exist.mp4`  
+**Type**: Podcast/video (~8 minutes)  
+**Documentary Referenced**: *Nuclear Hoax: Nukes Do Not Exist* (2019), directed by **Eric Dubay** — [IMDB tt38551401](https://www.imdb.com/title/tt38551401/)  
+**Description**: Host and guest (Dubay) discuss his documentary work. Dubay directs listeners to a “nuclear weapons do not exist” site for documentaries claiming nuclear test footage is fabricated.
+
+---
+
+## Author’s originating thesis and correction (2026-07-19)
+
+### Author words (verbatim sense of the session)
+
+> I used to believe nuclear bombs were a hoax, but now I believe they are half-hoax. (1) Disintegrating flash for miles is definitely a hoax. (2) DU very real, very cancer causing. I changed my mind when I realized how NSA-aligned entities were more afraid of the DU proxy threat than any other possible danger in this world. That was the biggest one. Hard to imagine they are simply “wrong” on the issue because the press and fatwa say so.
+
+### What they mean
+
+| Piece | Unpack |
+|-------|--------|
+| **Used to believe full hoax** | Older Paradigm Threat labels and archival scrapes treated the entire nuclear-weapons stack as theater (napalm-only Japan, fake footage, no functioning weapons). |
+| **Half-hoax now** | Split the claim: **spectacle** (city-vaporizing flash, exaggerated yields in popular mind) stays in **hoax / oversell**; **DU** stays in **documented harm / weapon**. |
+| **Flash for miles** | The cinema image of instantaneous disintegration across miles is not accepted as the load-bearing fact of Hiroshima-class history. |
+| **DU real / cancer** | Aligns with battlefield epidemiology lanes already in-repo (Iraq, Balkans) and with Iran **2026** latency/fatwa miss. |
+| **NSA-aligned fear as hinge** | Antibody factions prioritizing DU proxies over Hollywood fission is treated as **signal**, not as optional color. Press + fatwa “no bomb” language is a **weak** reason to call those actors wrong. |
+
+**Author open claims (registry):**
+
+1. Older personal and site stance was **full hoax**; current stance is **half-hoax**.
+2. **Disintegrating flash for miles** is hoax / propaganda amplification.
+3. **DU** is real, weaponisable, and cancer-causing — not sci-fi.
+4. **NSA-aligned / antibody** priority on DU proxy risk is evidence that DU is the serious board, not that “nukes don’t exist.”
+5. Fatwa + Western press focus on sci-fi bombs **misdirect** away from DU latency (ties [CIA opinion](/governance/war/investigations/cia-investigation.md#authors-opinion-fatwa-depleted-uranium-and-the-real-iranian-nuclear-threat)).
+
+---
+
+## Framework Assumptions (half-hoax)
+
+1. **Controlled narrative**: Fear authority around “the bomb” still functions like a priesthood — opacity + existential theater.
+2. **Enriched vs depleted distinction**: Enriched / reactor-grade scare stories and **depleted** battlefield toxicity must not be flattened into one word (“radiation”).
+3. **Media conflation**: Hollywood fission absorbs public attention; **DU** is filed under fiction or “byproduct.”
+4. **Hiroshima/Nagasaki**: Real destruction events; magnitude and mechanism in popular memory overstated toward flash myth; long-term health profiles rhyme with **DU / heavy-metal** lanes more than permanent “fallout wasteland” mythology.
+5. **Not a total hoax**: Competing states, reactors, and antibody urgency on DU are incompatible with “nothing nuclear works at all.”
+
+---
+
+## Summary of Claims (Dubay podcast — audited)
 
 1. Nuclear test footage is fake — filmed with models and dynamite
 2. Hiroshima and Nagasaki were firebombed, not nuked
@@ -33,7 +67,7 @@ This investigation proceeds from the following alternative framework:
 
 ### Claim 1: Nuclear Test Footage is Fake
 
-**ASSESSMENT: The presenters raise legitimate visual anomalies but overreach to a total-hoax conclusion**
+**ASSESSMENT: Legitimate visual anomalies; total-hoax overreach**
 
 **What they get right:**
 - Early nuclear test footage does contain genuine anomalies: camera angles that should be impossible given the claimed blast radius, inconsistent scaling between structures and explosions, and reused tree-line shots from different "tests"
@@ -41,42 +75,42 @@ This investigation proceeds from the following alternative framework:
 - Cold War–era visual media was routinely staged, edited, and used for propaganda purposes by all parties. This is not speculation—it is documented history.
 
 **Where the claim goes too far:**
-- Even under our alternative framework, nuclear fission is real. Reactors demonstrably produce energy from uranium fission—Galen Windsor himself worked in these facilities for 35 years and never disputed that fission works. If fission works in a controlled reactor, there is no physical law preventing an uncontrolled chain reaction.
-- Over 2,000 tests are claimed worldwide. Even if some early footage was faked or enhanced for propaganda value—which is entirely plausible—it is a stretch to argue that every test by every competing nation (including the USSR, China, France, India, Pakistan, North Korea) was theater. These nations had every incentive to expose each other's frauds.
-- **Under our framework**: The more parsimonious explanation is that nuclear weapons exist but their yields and effects have been systematically exaggerated. The footage looks fake because some of it probably was enhanced or fabricated—but as propaganda amplification of a real capability, not as evidence of a total hoax.
+- Even under half-hoax, fission can be real. Reactors demonstrably produce energy from uranium fission—Galen Windsor himself worked in these facilities for 35 years and never disputed that fission works.
+- Over 2,000 tests are claimed worldwide. Even if some early footage was faked or enhanced for propaganda value—which is entirely plausible—it is a stretch to argue that every test by every competing nation was theater.
+- **Under half-hoax**: Footage can look fake because the **flash / yield theater** was amplified — propaganda around a real or partial capability, not proof that **nothing** nuclear exists. The **disintegrating flash for miles** claim sits in the **hoax half**.
 
-**Key counterargument even under alternative assumptions:**
-Windsor himself, in his 91-minute lecture, never once claims nuclear weapons don't exist. He handled plutonium for decades and explicitly states that 2.5 kg of plutonium delivered 20,000 tons of TNT equivalent over Nagasaki. He disputes the health narrative, not the physics of fission. The podcast presenters are going further than their own primary source.
+**Key counterargument:**
+Windsor, in his 91-minute lecture, never once claims nuclear weapons don't exist. He handled plutonium for decades and disputes the health narrative more than the physics of fission. Total-hoax presenters go further than their own primary source.
 
 ---
 
 ### Claim 2: Hiroshima and Nagasaki Were Firebombed, Not Nuked
 
-**ASSESSMENT: The firebombing comparison has merit; the "not nuked at all" conclusion does not**
+**ASSESSMENT: Firebombing comparison has merit; “not nuked at all” does not**
 
 **What they get right:**
-- The destruction patterns in Hiroshima and Nagasaki are visually comparable to firebombed cities like Tokyo and Dresden. This is a legitimate observation.
-- The U.S. military had been firebombing Japanese cities for months prior. The infrastructure for massive incendiary campaigns already existed.
-- Official casualty figures have been revised many times and range wildly (Hiroshima: 90,000 to 166,000), which is unusual for a well-documented event.
+- Destruction patterns in Hiroshima and Nagasaki are visually comparable to firebombed cities like Tokyo and Dresden.
+- The U.S. military had been firebombing Japanese cities for months prior.
+- Official casualty figures have been revised many times (Hiroshima: 90,000 to 166,000).
 
-**Under the enriched/depleted framework:**
-- If the bombs were nuclear but significantly smaller than claimed (perhaps 1% of stated yield or less), this would explain why the destruction looks comparable to large-scale firebombing—because most of the destruction *was* from fire, not from a massive nuclear blast.
-- The long-term health effects (cancers, birth defects) attributed to "radiation" could be reinterpreted through the depleted uranium lens: if depleted uranium was used in the weapon casing or scattered as a byproduct, the chemical toxicity of DU—which is well-documented even by mainstream sources—would produce exactly the symptoms observed in hibakusha. DU is immunotoxic, teratogenic, neurotoxic, and has leukemogenic potential according to peer-reviewed epidemiology.
-- A 2005 epidemiology review concluded that "the human epidemiological evidence is consistent with increased risk of birth defects in offspring of persons exposed to DU." The health effects attributed to atomic radiation in Hiroshima and Nagasaki are a very close match to the DU exposure profile documented in Gulf War veterans and Iraqi civilians near DU munitions sites.
+**Under half-hoax / enriched–depleted:**
+- Smaller-than-claimed yield plus fire explains cityscape similarity to large incendiary raids **without** requiring the miles-wide vaporization myth.
+- Long-term health effects (cancers, birth defects) attributed to "radiation" can be reinterpreted through the **DU** lens: chemical toxicity of DU — immunotoxic, teratogenic, neurotoxic, leukemogenic in peer-reviewed DU epidemiology — matches hibakusha / war-zone profiles better than permanent sci-fi fallout.
+- A 2005 epidemiology review concluded that "the human epidemiological evidence is consistent with increased risk of birth defects in offspring of persons exposed to DU."
 
-**Where the claim falls apart:**
-- Japan itself has never disputed the atomic bombings. Japan had no incentive to participate in an American propaganda scheme—quite the opposite. If it were a mere firebombing, Japan's post-war government would have gained enormous political leverage by exposing the fraud. They never did.
-- Hiroshima was destroyed by a single aircraft. Tokyo required 334 B-29 bombers. Something qualitatively different happened, even if the magnitude was overstated.
-- Flash burns that imprinted kimono patterns onto skin require an instantaneous thermal pulse that firebombing cannot produce.
+**Where total-hoax falls apart:**
+- Japan has never disputed the atomic bombings; post-war Japan had no incentive to shelter an American total fraud.
+- Hiroshima was destroyed by a single aircraft; Tokyo required hundreds of B-29s — something qualitatively different happened even if magnitude was overstated.
+- Instantaneous thermal patterning (kimono flash burns) is not ordinary area firebombing — but that does **not** license the miles-of-disintegration public myth. Half-hoax keeps **thermal pulse / oversell** distinct from **DU reality**.
 
 **Most likely alternative interpretation:**
-A small nuclear device was used—possibly much smaller than the 15-20 kiloton claims—combined with DU contamination that produced the long-term health effects. The event was then amplified in the retelling to justify the enormous nuclear weapons budget that followed.
+An event involving nuclear materials (possibly much smaller than 15–20 kt claims), plus **DU / heavy contamination** for long-term harm, then amplified into Hollywood flash myth to fund decades of fear authority.
 
 ---
 
 ### Claim 3: Galen Windsor Ate Radioactive Material, Proving It's Harmless
 
-**ASSESSMENT: This is the strongest claim in the video and directly supports the enriched/depleted framework**
+**ASSESSMENT: Strongest claim in the video; supports enriched-vs-depleted, not “nukes don’t exist”**
 
 **What Windsor actually demonstrated:**
 - He ate uranium oxide (U3O8) publicly on lecture tours for years
@@ -85,71 +119,75 @@ A small nuclear device was used—possibly much smaller than the 15-20 kiloton c
 - He handled plutonium bare-handed for 15 years at Hanford (1950-1965)
 - He passed through radiation monitors after swimming—without triggering them
 
-**Why this is significant under our framework:**
-- Windsor was not a random crank. He designed the analytical sampling system for GE's fuel reprocessing plant. He was the manager of safety and analytical services. He was recognized by Atomic Energy Commissions of major nations.
-- His demonstrations involved *enriched* materials—spent reactor fuel, which contains enhanced isotopes. Under the enriched-is-safe framework, his demonstrations are exactly what you would predict: genuine enriched nuclear material causing zero harm to a handler with decades of exposure.
-- The radiation hormesis hypothesis—a real scientific hypothesis studied in peer-reviewed journals including *Nature* and *Science*—proposes that low-dose radiation activates DNA repair mechanisms. Studies in Kerala, India (80x normal background radiation) showed *no excess cancer risk* in a decade-long study of 69,985 residents. This is consistent with Windsor's experience.
-- Radon therapy spas exist in the US, Germany, Austria, Czech Republic, and Poland, where people *intentionally* expose themselves to elevated radon levels for perceived health benefits. These are not fringe—they are mainstream medical tourism in Central Europe.
+**Why this matters under half-hoax:**
+- Demonstrations involve materials in the **enriched / spent-fuel** discourse Winsor used to attack regulatory terror — not a license to dismiss **DU** munitions harm.
+- Radiation hormesis remains a real scientific hypothesis; Kerala background studies and Central European radon spas sit in the peer-reviewed / medical-tourism record.
+- Winsor himself distinguishes dangerous criticality (“blue flash”) from everyday “waste” scare stories.
 
-**The strongest counterargument under our assumptions:**
-- Windsor's demonstrations prove that *he specifically* was not harmed. But individual anecdotes—even dramatic ones spanning decades—are not controlled studies. It is possible that Windsor had unusual genetic resilience, or that his specific exposure routes (ingestion of insoluble oxide, external contact) bypassed the pathways through which these materials cause harm.
-- Windsor himself distinguishes between safe and unsafe nuclear scenarios. He explicitly warns that bringing two half-critical-masses together produces a lethal "blue flash" and that 8 men died from 34 accidental criticalities. He does not claim *all* nuclear material is harmless—he claims the *regulatory limits* are absurdly conservative for the materials most people encounter.
-- Even under the enriched-is-safe model, his argument has a gap: he never addresses inhalation. Alpha-emitting particles that are harmless on skin or in the gut may behave differently in lung tissue. This is the one exposure route Windsor consistently avoids discussing in detail.
+**Honest gaps:**
+- Individual survival ≠ controlled study.
+- Inhalation / aerosol pathways (central to **DU** battlefield harm) are under-discussed in Winsor’s stage demonstrations.
 
 ---
 
 ### Claim 4: Nuclear Weapons Are a Cold War Money Scheme
 
-**ASSESSMENT: The financial incentive structure is real; the "total hoax" conclusion isn't supported**
+**ASSESSMENT: Financial incentive is real; “total hoax” is not required**
 
 **What they get right:**
-- The nuclear weapons complex has consumed trillions of dollars since 1945. The financial incentive to maintain the narrative of existential nuclear threat is enormous.
-- The "nuclear priesthood" model—where an elite class controls access to knowledge and materials, justified by fear—is structurally identical to how organized religion has operated historically. This parallel is striking.
-- Windsor's own experience confirms this: when he offered to take spent fuel from Portland General Electric for free, they told him "go to hell—we value it more valuable than platinum or gold." The industry controls a commodity worth $10 million per ton by calling it "waste" and frightening the public away from it. This is not speculation; it is Windsor's direct, first-hand account from inside the industry.
+- The nuclear complex has consumed trillions since 1945.
+- Fear priesthood structure is real.
+- Winsor’s spent-fuel-as-commodity account ($10 million/ton in his era) remains a sharp insider claim.
 
 **Where they overreach:**
-- The podcast implies there is no nuclear capability at all—that the entire thing is theater. But the financial incentive works just as well (better, actually) if nuclear weapons are real but their effects are overstated. You don't need a total hoax to explain the money pipeline. You just need exaggeration, which is the normal mode of every military-industrial complex in history.
-- Under our framework: the "scare scam" is real, but what's being scammed is the *magnitude of danger*, not the *existence of fission*. The nuclear establishment benefits from both the weapons budget AND from suppressing civilian access to nuclear energy (Windsor's point about small neighborhood reactors being blocked by the "federal energy cartel").
+- Money pipeline works as well or better if effects are **overstated** while **DU** and latency stay real. Half-hoax, not zero weapons, explains the budget **and** antibody panic on DU proxies.
 
 ---
 
 ### Claim 5: Vegetation Returned Quickly After the Bombings
 
-**ASSESSMENT: This observation is factually correct and genuinely anomalous under the mainstream narrative**
+**ASSESSMENT: Factually correct; anomalous under wasteland mythology**
 
 **The facts:**
 - Plants and trees began regrowing in Hiroshima within weeks to months
-- Hiroshima is today a bustling city with no residual radiation concerns
-- By contrast, mainstream science claims Chernobyl and nuclear test sites remain contaminated for decades or centuries
+- Hiroshima today has no residual “dead zone” narrative like Chernobyl popular imagery
 
-**Under the enriched/depleted framework:**
-- If the weapon used enriched uranium (which it was—U-235 for Hiroshima, plutonium for Nagasaki), and if enriched materials are biologically benign, then rapid vegetation recovery is exactly what you would expect. The initial blast destroyed structures through heat and pressure—mechanical damage, not persistent toxicity. Without persistent toxic contamination from depleted uranium, the land rebounds quickly.
-- The fact that Hiroshima recovered while Gulf War sites in Iraq showed devastating long-term health effects is a data point that differentiates the two: Hiroshima involved enriched material in a weapon; Iraq involved depleted uranium in munitions. The health outcomes diverge accordingly.
-
-**Honest counterargument:**
-- Mainstream science does have an explanation: the Hiroshima bomb was an airburst (~600m altitude), which dispersed fallout into the upper atmosphere rather than contaminating the ground. A ground-burst nuclear weapon would leave far more persistent contamination. This explanation is physically coherent and does not require our alternative framework—the rapid recovery is expected under mainstream models for airburst detonations.
-- However: this mainstream explanation also means the land was never seriously contaminated, which undermines the narrative of nuclear weapons as civilization-ending radiation catastrophes. The "nuclear winter" narrative and the fear of permanent contamination that drove the Cold War arms race are at odds with the observable fact that Hiroshima recovers in months. Under our framework or theirs, the fear has been overstated.
+**Under half-hoax:**
+- Rapid recovery undermines permanent-contamination theater of the flash myth.
+- Airburst mainstream explanation also undermines “one bomb = eternal wasteland” Cold War sales — under either frame the fear was oversold.
+- **DU** harm is not the same claim as “the city stayed radioactive forever.”
 
 ---
 
 ## Overall Assessment
 
-**Where the presenters are right:**
-- The nuclear industry operates as a fear-based authority structure
-- Some nuclear test footage contains genuine visual anomalies
-- Galen Windsor's demonstrations are real and directly challenge the official danger narrative
-- The financial incentives to maintain nuclear fear are enormous
-- Hiroshima's rapid recovery is inconsistent with the "nuclear wasteland" narrative
+**Where total-hoax presenters are right:**
+- Fear authority is real
+- Some test footage is anomalous / staged-enhanced
+- Winsor’s demonstrations challenge uniform “radiation = death” messaging
+- Financial incentives to maintain nuclear terror are enormous
+- Hiroshima recovery clashes with wasteland mythology
+- **Flash-for-miles public myth belongs in the hoax half**
 
-**Where the presenters go too far, even under alternative assumptions:**
-- Claiming nukes don't exist at all goes further than their own primary source (Windsor) who worked with fissile materials for 35 years and never disputed that fission works
-- The "firebombing only" claim ignores flash-burn evidence and Japan's own lack of incentive to participate in a hoax
-- Conflating "radiation from enriched materials is overstated" with "nuclear weapons are fake" is a logical leap their evidence doesn't support
+**Where they go too far:**
+- “Nukes don’t exist at all” exceeds Winsor and exceeds antibody behavior on **DU**
+- Firebombing-only erases qualitative differences without explaining DU health rhyme
+- Conflating enriched oversell with “DU is fake” is the exact inversion of half-hoax
 
-**The more defensible position:**
-Nuclear weapons are real but their effects—particularly the long-term health effects and the specter of permanent contamination—have been systematically overstated to justify the nuclear weapons budget, suppress civilian nuclear energy, and maintain control over an immensely valuable commodity ($10 million/ton spent fuel). The genuine health harms observed in bomb survivors and war zones may be primarily attributable to depleted uranium chemical toxicity rather than "radiation" as popularly understood. Windsor's demonstrations support this: the enriched materials he ate, drank, and swam in caused him no harm over decades, while depleted uranium munitions produce devastating health effects wherever they are used.
+**Project position (2026-07-19):**
+Nuclear **spectacle** (miles of disintegration, civilization-ending flash as sold) is **half-hoax**. **Depleted uranium** is **real and cancer-causing**. The author left full-hoax after treating **NSA-aligned fear of DU proxy capability** as decisive signal — not after deferring to press or fatwa language about Hollywood bombs.
 
-**Documented worldwide DU media gap (reader essay):** The Iran **2026** installment [*The Peace Deal Nobody Cares About*](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) — § **The DU blind spot** and **When one topic vanishes worldwide** — is the **canonical prose** for how **depleted uranium** was filed under **science fiction**, **under-reported** on Iraq/Balkans battlefields, and **self-censored** worldwide through **fear**, **unprofitability** (reopening WWII narrative wounds), and **ignorance** (unwarned guards on contaminated sites — [IWPR Bosnia](https://iwpr.net/global-voices/bosnians-say-nato-bombs-brought-angel-death)), **not** a coordinated conspiracy of silence. Citation dossier: [Islamabad peace deal investigation §2.1–§2.1.1](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation.md). **Hiroshima/Nagasaki DU** claims in this file rhyme with that essay’s author read.
+**Documented worldwide DU media gap (reader essay):** [*The Peace Deal Nobody Cares About*](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) — § **The DU blind spot** and **When one topic vanishes worldwide**. Citation dossier: [Islamabad §2.1–§2.1.1](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation.md). Hub: [`/science/nukes`](/science/nukes/page.md).
+
+---
+
+## Questions to clarify, verify, or debunk
+
+| # | Question | How to adjudicate |
+|---|----------|-------------------|
+| Q1 | Which specific NSA / antibody primary sources most clearly prioritize DU over fission flash? | Cross-walk [good-actor](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md), [NSA investigation](/governance/war/investigations/nsa-investigation.md), Iran 2026 runner |
+| Q2 | Best forensic brief distinguishing thermal flash patterning from DU chronic epidemiology at Hiroshima? | Peer review + hibakusha vs Gulf War DU literature |
+| Q3 | Which archival site pages still assert total hoax after this correction? | Grep hub captions; keep [`A.md`](/science/nukes/A.md) as archive only |
 
 ---
 
@@ -167,8 +205,15 @@ Nuclear weapons are real but their effects—particularly the long-term health e
 
 ---
 
+Keywords: #Nukes #HalfHoax #DepletedUranium #Dubay #GalenWinsor #ParadigmThreat
+
+*Last updated: 2026-07-19*
+
+## Limits and disclaimers
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-Keywords: #Nukes #Dont #Exist #Don #Alternative #Framework #Analysis
-
+- **Author thesis sections** (especially the 2026-07-19 correction and NSA-aligned DU hinge) are **first-class** for Paradigm Threat pattern work and are **not** automatically factual findings.
+- Dubay total-hoax claims are audited here; rejecting total-hoax is **not** an endorsement of every official kiloton figure.
+- DU health claims cite contested epidemiology; “very cancer-causing” is **author + supporting peer-review lane**, not a closed WHO verdict in this file.
+- Fiction / propaganda footage and real munitions harm can coexist; evidence tiers must stay split.

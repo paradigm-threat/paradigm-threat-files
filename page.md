@@ -229,8 +229,9 @@ or *not* believing.
 * [Exact-Change Wallet — Invention and Aftermath](/science/computing/exact-change-wallet-invention-and-aftermath.md) — Author invention: wallet-sized MCU, LED coin map, minimum 3Q/1D/2N/4P inventory; **§I inventor containment** (McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean); why it was never shipped.
 * [U.S. physical coin circulation — phase-out and cashless transition](/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md) — Penny halt (Nov 2025), Fed coin-terminal friction, Mint seigniorage; consumer shift to digital payments; bearer-cash enclosure pattern.
 * [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) — Reader essay: vector vs raster, analog substrate, commons capture, walled gardens; hooks the infinite-index thesis.
+* [Nuclear weapons — half-hoax hub](/science/nukes) — Flash myth vs real DU; author correction 2026-07-19.
 * [Galen Winsor](/science/nukes/investigations/nuke-waste-is-safe-investigation.md) — “Nuclear waste is safe” alternative framework.
-* ["Nukes Don't Exist"](/science/nukes/investigations/nukes-dont-exist-investigation.md) — Alternative framework vs standard nuclear model.
+* [Nukes half-hoax — Dubay audit](/science/nukes/investigations/nukes-dont-exist-investigation.md) — Total-hoax rejected; flash hoax / DU real.
 
 <figure className="sm:float-left clear-left m-auto sm:m-1 sm:mr-6 sm:max-w-sm">
   <a href="https://americanfreepress.net/dhs-fishing-on-the-internet-for-dissidents-truthseekers/" target="_blank">
@@ -263,7 +264,7 @@ These things we were instructed to believe, but are actually fake.
 
 * [9/11 Was an Inside Job by 'Good' Actors](/events/911)
 * [Apollo Missions were staged](/events/apollo)
-* [Atomic bombs are fake](/science/nukes)
+* [Atomic bomb flash is half-hoax; DU is real](/science/nukes) — Supersedes older “bombs are fake” label (2026-07-19).
 * [JFK Was Never Assassinated](/events/jfk/jfk-was-never-assassinated)
 * [Astronomy is a Religion, not Science](/cosmos/cosmology/astronomy)
 * [QAnon/Snowden/Manning are controlled opposition agents](/influence/controlled_opposition)
