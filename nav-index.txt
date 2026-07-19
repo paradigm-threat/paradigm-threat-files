@@ -1,80 +1,554 @@
-blog/2021-11-30-2020-2021-paradigm-threat-old.md	2020–2021: paradigm-threat-old — Project Beginnings and Maintenance
-blog/2022-11-30-2022-old2-sources-content.md	2022: paradigm-threat-old2 Rebuild, Sources Submodule, and Content Expansion
-blog/2023-04-30-2023-q1-q2-asset-overhaul.md	2023 Q1–Q2: Asset Overhaul and Final Old2 Iteration
-blog/2023-10-31-paradigm-threat-site-launch.md	October 2023: Paradigm Threat Site Launches
-blog/2024-06-30-2024-h1-vercel-chronology-investigations.md	2024 H1: Vercel, Chronology, Mars, and Investigations
-blog/2024-12-31-2024-h2-events-year-end.md	2024 H2: 9/11 Theory, Chat Fixes, and Year-End Updates
-blog/2025-09-30-paradigm-threat-files-launch.md	September 2025: paradigm-threat-files Repository Created
-blog/2026-01-31-january-2026-project-beginnings.md	January 2026: Timeline Project Begins, paradigm-threat-files Refactor
-blog/2026-02-21-pre-launch-buildup.md	February 21, 2026: Pre-Launch Build — Media, Structure, and Content
-blog/2026-02-22-new-timeline-project.md	A Dedicated Timeline for Earth's Hidden History
-blog/2026-02-24-timeline-update.md	Timeline Update: Atlantis Investigation, Joan of Arc, and the Absu
-blog/2026-02-25-timeline-update.md	Timeline Update: New Articles, Restructure, and a Media Audit
-blog/2026-02-26-timeline-update.md	Timeline Update: Author Profiles, Third Story, Core Concepts, and Major Restructure
-blog/2026-02-27-timeline-update.md	Timeline Update: Chapter Consolidation, New Articles, Print-Ready PDF, and Chronological Corrections
-blog/2026-02-28-timeline-update.md	Timeline Update: New Chapters 13–15, Ch11 Reorganization, 3-Tier Export Hierarchy, and Animation Module
-blog/2026-03-01-timeline-update.md	Timeline Update: Massive Condensation, Mars Catastrophe, Operation Mockingbird, and PDF Shrinks to 420 Pages
-blog/2026-03-03-timeline-update.md	Timeline Update: Investigations Library, Maxwell & the Aether, Nuclear Myths, Browser Mode, and 13 New Articles
-blog/2026-03-05-timeline-update.md	Timeline Update: Flexner Report, Weather Control, CERN, Mars Literature, Asimov, and 38 New Investigations
-blog/2026-03-09-timeline-update.md	Timeline Update: Six Wars, World Wars, Trump, Pyramids, Seven Days, Population Control, and Major Restructuring
-blog/2026-03-10-timeline-update.md	Timeline Update: Content Reduction, Fiction-Encoding Investigations, Arthurian Cosmology, and New Appendix Overflow
-blog/2026-03-11-timeline-update.md	Timeline Update: Stolen Credit Suite, Yakuza Investigation, Site SSR, and TTS Improvements
-blog/2026-03-12-content-update.md	Content Update: Identity Investigations, Tornado Thesis, Ed Wood, Hairy Mary, and Reorganization
-blog/2026-03-14-soul-science-israel-divide-conquer-investigations.md	Soul Science, Israel Divide-and-Conquer, and Chronology Investigations
-blog/2026-03-16-cia-investigation-timeline-article.md	CIA Investigation and Timeline Article
-blog/2026-03-17-authors-cataclysm-controlled-opposition.md	Authors Who Read Cataclysm + Controlled Opposition Theory
-blog/2026-03-20-timeline-update.md	Radiocarbon Dating Investigation + Timeline Updates
-blog/2026-03-23-timeline-files-site-update.md	Golden Age rollout, MFEE appendices, investigations, and site/TTS polish
-blog/2026-03-28-timeline-tldr-appendix-split-investigations-site.md	Book TL;DR sweep, appendix split (XVI–XXII), war and fiction investigations, exports, site reader
-blog/2026-03-30-github-ban-gitlab-migration-and-repo-updates.md	GitHub account and 72 repos deleted; GitLab migration; Swift / *Gulliver* Mars dossier and site index updates
-blog/2026-04-03-prester-john-religious-edition-brand-slogans.md	Prester John NC dossier; *Jacob’s Ladder* / Eckhart & Cathar–Khazar suppression; Chronologia perspective; religious edition; brand & site — April 3, 2026
-blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md	Relay network engineering shift; GitHub and crates.io lockout; griffin timeline merge; site and files updates — April 5, 2026
-blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md	Jade Helm and Cruz / Kevin investigations; Venus probes; Relay branch policy; Paradigm site TTS; Forgotten Future GitLab Pages — April 2026
-blog/2026-04-14-pyramid-artemis-investigations-ae911truth-site-share-og.md	Pyramid-stack and Artemis II investigations; AE911Truth file; war and suppression files; timeline appendix cites; site share modal, `/files` proxy, and OG descriptions — April 2026
-blog/2026-04-18-cod-mw-militainment-spore-blood-rain-tts-unicode.md	*Call of Duty* Modern Warfare militainment investigation; spore / blood-rain mudflood files; Cruz / Office cross-reads; editor docs; timeline PP links; TTS Unicode arrows — April 2026
-blog/2026-04-25-netanyahu-health-disclosure-controlled-opposition-fomenko-site-toc.md	Netanyahu cancer “health reset”; controlled-opposition cluster expansions; Fomenko verification investigations; site TOC + error UX; timeline JSON minification — April 2026
-blog/2026-04-27-cia-1984-mars-reading-room-find-restructure-chrono-article.md	The 1984 Mars Reading Room PDF as a thesis hit; controlled-opposition investigations restructure; *Chrono Trigger* article; timeline + antisemitism doc churn — late April 2026
-blog/2026-05-05-may-roundup-circle-of-life-cancer-success-site-updates.md	May 2026 roundup: Circle of Life, Cure for Cancer, Success essay, Mars hubs, and paradigm-threat-site upgrades
-blog/2026-05-14-md2ast-migration-downtime-cave-story-pursue-consensus-theater-roundup.md	Mid-May 2026: md2ast migration, brief downtime, Cave Story & PURSUE lanes, cosmology and geoengineering drops, Big Mysteries consensus theater
-blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack.md	Late May 2026: Ghost War antibody lane, Napoleon medicine, prisca sapientia, Relay migration, and six Substack drops
-blog/2026-06-10-june-roundup-stonehenge-benjamin-celebrity-slavery-gordonston-memory-war.md	Early June 2026: Stonehenge portal, Benjamin tribe, celebrity IP slavery, Gordonston MGGA, consent rites, and the memory-war cluster
-blog/2026-06-19-june-roundup-internet-matrix-pp-education-site-ai.md	Late June 2026: Internet That Should Have Been, Matrix PP series, education Installment II, Site AI, and WebMCP on paradigmthreat.net
-blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai.md	Late June 2026: lexical redaction, Rife OCR, Islamabad hinge, sealed web, Pacific PP, Epstein cluster, and Site AI
-blog/2026-07-03-july-roundup-alef-tona-ecw-mars-jfk-constitution-cern-censorship.md	Early July 2026: clogged internet, TONA rebrand, ECW invention, Mars dagger, JFK hoax dossier, CERN gate, and platform strikes
-blog/2026-07-09-july-portal-id4-research-mcp-server.md	Mid-July 2026: portal series, ID4 unity lane, Research MCP for any AI host, and Dead Planet timeline
-blog/page.md	Blog
-README.md	README.md
-REORGANIZATION_MAP.md	Directory Reorganization Map
-book/page.md	Paradigm Threat: The Third Story
-cosmos/cosmology/a.md	cosmos/cosmology/a.md
-cosmos/cosmology/astronomy/page.md	cosmos/cosmology/astronomy/page.md
-cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md	Consensus theater and the stalled physics pipeline
-cosmos/cosmology/de_grazia/README.md	Alfred de Grazia — Complete Works Index
-cosmos/cosmology/de_grazia/books/burning-of-troy.md	The Burning of Troy
-cosmos/cosmology/de_grazia/books/chaos-and-creation.md	Chaos and Creation
-cosmos/cosmology/de_grazia/books/cosmic-heretics.md	Cosmic Heretics
-cosmos/cosmology/de_grazia/books/disastrous-love-affair.md	The Disastrous Love Affair of Moon and Mars
-cosmos/cosmology/de_grazia/books/divine-succession.md	The Divine Succession: A Science of Gods Old and New
-cosmos/cosmology/de_grazia/books/fire-not-blown.md	A Fire Not Blown
-cosmos/cosmology/de_grazia/books/gods-fire.md	God's Fire: Moses and the Management of Exodus
-cosmos/cosmology/de_grazia/books/homo-schizo-i.md	Homo Schizo I: Human and Cultural Hologenesis
-cosmos/cosmology/de_grazia/books/homo-schizo-ii.md	Homo Schizo II: Human Nature and Behavior
-cosmos/cosmology/de_grazia/books/iron-age-of-mars.md	The Iron Age of Mars
-cosmos/cosmology/de_grazia/books/ka.md	KA: A Handbook of Mythology, Sacred Practices, Electrical Phenomena, and Their Linguistic Connections in the Ancient Mediterranean World
-cosmos/cosmology/de_grazia/books/lately-tortured-earth.md	Lately Tortured Earth: Exoterrestrial Forces and Quantavolution in the Solar System
-cosmos/cosmology/de_grazia/books/q-intro.md	Quantavolution and Catastrophe: Introduction to the Series & Q-C Test
-cosmos/cosmology/de_grazia/books/recollections-fallen-sky.md	Recollections of a Fallen Sky: Velikovsky and Cultural Amnesia
-cosmos/cosmology/de_grazia/books/solaria-binaria.md	Solaria Binaria: Origins of the Sun and Its Planets
-cosmos/cosmology/de_grazia/books/velikovsky-affair.md	The Velikovsky Affair: Scientism vs. Science
-cosmos/cosmology/ech-in-time/page.md	cosmos/cosmology/ech-in-time/page.md
-cosmos/cosmology/hollow_earth/A.md	cosmos/cosmology/hollow_earth/A.md
-cosmos/cosmology/hollow_earth/ANNAS_ARCHIVE_DOWNLOADS_INDEX.md	Anna's Archive — Hollow Earth Downloads Index
-cosmos/cosmology/hollow_earth/hollow-earth-investigation.md	Investigation: Hollow Earth — Sources, Maps, Books, and Atlantis
-cosmos/cosmology/hollow_earth/hollow_earth_chat.md	cosmos/cosmology/hollow_earth/hollow_earth_chat.md
-cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md	Investigation: Tham Luang Cave Rescue (2018) — Cover-up and Alternate Theories
-cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md	Investigation: Big Mysteries Survey — consensus theater, menu design, and the stalled physics pipeline
-cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md	Investigation: The Incorrectly Scaled Universe — Curved-Light Aether Model, Maxwell Lineage, and Cosmological Inference Risk
-cosmos/cosmology/investigations/saturnian-cosmology-published-timelines-investigation.md	Investigation: Saturnian Cosmology — Published Timelines, Year Discrepancies, Year-Counting, and Solar Origin (Open)
-cosmos/cosmology/qa/page.md	Cosmology Q&A — Big Bang, Big Melt, eternal universe, solar-system lifecycle
-cosmos/cosmology/qa/q01-big-melt-eternal-universe-solar-cycle.md	Q1 — Big Melt, eternal universe, and solar-system lifecycle
-cosmos/cosmology/qa/q02-einstein-math-cosmic-extrapolation.md	Q2 — Did Einstein warn his theories weren’t established in grounded math?
+influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md	*Half-Life* series — Xen/CERN portals, Combine warning, NSA camp, and sequel containment (open)	2026-07-18T19:31:16-04:00
+influence/predictive_programming/investigations/half-life-2-nsa-combine-warning-containment-investigation.md	*Half-Life 2* — NSA warning / containment (stub → merged dossier)	2026-07-18T19:31:16-04:00
+influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md	*Children of Men* (2006) — NSA-aligned future warning, intellectual PP, production motives (open)	2026-07-18T19:31:16-04:00
+history/chronology/investigations/author-unique-theories.md	Author-Unique Theories — Registry	2026-07-18T19:31:16-04:00
+events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md	Investigation: Philadelphia Experiment — Ship-Scale Portal Precursor (1943)	2026-07-18T19:31:16-04:00
+hooks/COMPONENTS_DISABLED.md	CleverScript components — disabled / shipped	2026-07-18T18:14:57-04:00
+events/jfk/jfk-was-never-assassinated.md	JFK Was Never Assassinated	2026-07-17T12:22:46-04:00
+events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md	Investigation: JFK & RFK — Staged Assassination Hoax (Kennedy Family Compliance)	2026-07-16T11:27:20-04:00
+events/false_flag/investigations/20th-21st-century-catalog.md	False Flags: 20th–21st Century Catalog	2026-07-16T09:48:31-04:00
+blog/2026-07-09-july-portal-id4-research-mcp-server.md	Mid-July 2026: portal series, ID4 unity lane, Research MCP for any AI host, and Dead Planet timeline	2026-07-16T09:48:31-04:00
+blog/2026-07-03-july-roundup-alef-tona-ecw-mars-jfk-constitution-cern-censorship.md	Early July 2026: clogged internet, TONA rebrand, ECW invention, Mars dagger, JFK hoax dossier, CERN gate, and platform strikes	2026-07-16T09:48:31-04:00
+history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md	Investigation: Mudfossil University / Roger Spurr — Claims, Citations, Yale History, and Validation Status (Open)	2026-07-16T09:40:06-04:00
+cosmos/cosmology/investigations/saturnian-cosmology-published-timelines-investigation.md	Investigation: Saturnian Cosmology — Published Timelines, Year Discrepancies, Year-Counting, and Solar Origin (Open)	2026-07-16T09:40:06-04:00
+events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md	Investigation: Epstein Death — Escape Thesis, Suspended Animation, and Bloodline Endgame	2026-07-16T09:39:31-04:00
+history/mudflood/investigations/mfee-investigation.md	MFEE Investigation — Evidence and Map Changes Over Time	2026-07-16T08:17:05-04:00
+history/chronology/investigations/index-investigations.md	Chronology Investigations — Index	2026-07-16T08:12:33-04:00
+history/chronology/investigations/golden-age-event-dates.md	Investigation: Golden Age Event Dates (Jno Cook / Talbott)	2026-07-16T08:12:33-04:00
+history/chronology/georgia-was-the-second-promised-land.md	Georgia was the Second Promised Land.	2026-07-15T08:26:34-04:00
+history/chronology/the-hidden-history-of-words.md	The Hidden History of Words	2026-07-15T07:11:03-04:00
+history/chronology/investigations/lexical-redaction-hub-investigation.md	Lexical Redaction Hub — Words After the Horde Fracture	2026-07-15T07:11:03-04:00
+history/chronology/investigations/georgia-mirror-naming-rus-horde-mars-investigation.md	Investigation: Georgia naming — Caucasus mirror, Hanover kings, and Mars / Saturnian lanes (open)	2026-07-15T07:11:03-04:00
+influence/predictive_programming/fiction_encoding/white/white-saturnian-round-table-investigation.md	T.H. White, The Once and Future King: Saturnian Round Table Investigation	2026-07-14T09:58:14-04:00
+influence/predictive_programming/fiction_encoding/white/white-excalibur-sulphur-mercury-investigation.md	White vs Excalibur: Sulphur + Mercury — Book vs Movie, Managed Disclosure?	2026-07-14T09:58:14-04:00
+influence/predictive_programming/fiction_encoding/white/index-once-and-future-king.md	The Once and Future King (1958) — Index	2026-07-14T09:58:14-04:00
+influence/predictive_programming/fiction_encoding/myth-planet-remap-registry.md	Myth → planet remap registry (author / repo / catastrophist)	2026-07-14T09:58:14-04:00
+influence/controlled_opposition/make-gordonston-great-again.md	Make Gordonston Great Again	2026-07-14T09:58:14-04:00
+history/mudflood/investigations/promised-land-investigation.md	Investigation: Deliverance to a Promised Land — 1492 BCE/CE, Europe, America, and the Final Promised Lands	2026-07-14T09:58:14-04:00
+history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md	Investigation: American Burial Mounds — MFEE Fossilization, Smithsonian Erasure, and National-Park Gatekeeping	2026-07-14T09:58:14-04:00
+history/mudflood/bilbo-mound-and-americas-buried-past.md	Bilbo Mound and America's buried past	2026-07-14T09:58:14-04:00
+history/kinkel/index-psychologische-grundlagen-1922.md	Zur Frage der psychologischen Grundlagen und des Ursprungs der Religion — Index	2026-07-14T09:58:14-04:00
+history/common-questions.md	Common Questions About Alternate Chronology	2026-07-14T09:58:14-04:00
+history/chronology/christ/astrology.md	astrology	2026-07-14T09:58:14-04:00
+governance/war/investigations/us-civil-war-investigation.md	Investigation: US Civil War — British Funding, Slavery as Instrument, and the DU Weapon Thesis	2026-07-14T09:58:14-04:00
+governance/war/managed-democracy-puppets-and-redemption.md	Managed democracy, puppets, and redemption	2026-07-14T08:19:10-04:00
+history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md	Indigenous legends vs. geologic deep-time — dating clash investigation	2026-07-14T08:18:24-04:00
+influence/hollywood/investigations/hollywood-two-camp-war-investigation.md	Investigation: Hollywood two-camp war — media catalog (Pacific lane: war-prep litmus)	2026-07-13T09:08:02-04:00
+influence/censorship/reddit-personal-page-removal-2026-07.md	Reddit censorship — profile removal and permanent ban (July 2026)	2026-07-13T09:08:02-04:00
+influence/censorship/platform-blocks-instagram-substack-2026-06.md	Platform blocks — Instagram image posts and Substack phantom listings (June 2026)	2026-07-13T09:08:02-04:00
+governance/war/investigations/nsa-investigation.md	Investigation: NSA — SIGINT Antibody, Tonkin Reckoning, and the Tron Theory	2026-07-13T09:08:02-04:00
+events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md	Investigation: Good-Actor Theory of 9/11 — Interagency War, Antibodies, and the Eighty-Year Script	2026-07-13T09:08:02-04:00
+governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md	Investigation: The RINO Effect — Graham, McConnell, Trump, Ukraine/Iran Split, and Controlled GOP Opposition	2026-07-12T09:33:07-04:00
+governance/war/investigations/house-of-cards-kompromat-blackmail-instances-investigation.md	Investigation: *House of Cards* (U.S.) — Frank Underwood kompromat / blackmail instance catalog	2026-07-12T09:33:07-04:00
+governance/war/investigations/obama-malcolm-x-paternity-birth-record-curation-investigation.md	Investigation: Obama, Malcolm X, Birth-Record Curation, and Puppet Architecture	2026-07-12T09:19:33-04:00
+REORGANIZATION_MAP.md	Directory Reorganization Map	2026-07-12T08:55:05-04:00
+governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md	Investigation: Ted Cruz, Kevin Malone (*The Office*), and the “Hijacked Plan” Hypothesis	2026-07-12T08:36:00-04:00
+governance/slavery/you-are-a-slave-neo.md	you are a slave, Neo.	2026-07-11T12:32:27-04:00
+influence/predictive_programming/investigations/time-travel-literature-wells-deposit-investigation.md	Investigation: Time-travel literature — genre firsts, Wells pivot, and space-to-chronology deposit	2026-07-11T10:00:27-04:00
+influence/predictive_programming/fiction_encoding/wells/index-wells.md	H.G. Wells — Downloaded Texts Index	2026-07-11T10:00:27-04:00
+governance/slavery/slave-trades-and-moor-etymology-investigation.md	Slave Trades of Earth History & Moor Etymology	2026-07-11T10:00:27-04:00
+events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md	The Philadelphia Experiment Was Not Time Travel	2026-07-11T10:00:27-04:00
+cosmos/mars/investigations/wotw-martian-analysis.md	The Martians and Their Machines: A Technical Analysis	2026-07-11T10:00:27-04:00
+cosmos/mars/investigations/mars-stock-market-correlation.md	Mars and the Stock Market: Investigation into Celestial Correlation	2026-07-11T10:00:27-04:00
+influence/hollywood/everything-in-independence-day-is-true.md	Everything in Independence Day Is True	2026-07-08T09:23:26-04:00
+influence/hollywood/everything-burns.md	Everything Burns	2026-07-08T08:23:05-04:00
+influence/controlled_opposition/not-like-this.md	Not Like This	2026-07-08T08:23:05-04:00
+science/cern_portal/out-of-this-door-might-come-something.md	Out of This Door Might Come Something	2026-07-06T09:00:46-04:00
+influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md	Investigation: Celebrity “modern slavery” — contracts, containment, NDAs, and the inability to choose	2026-07-05T16:59:42-04:00
+influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md	Investigation: *The Matrix* — “Not Like This” containment thesis (controlled opposition, sequel fracture, MxO, *Resurrections*)	2026-07-05T16:49:08-04:00
+influence/conspiracy/celebrities/jackie-chan.md	Jackie Chan: Investigation into Political Allegiance and British Hong Kong	2026-07-05T16:49:08-04:00
+governance/war/investigations/cia-investigation.md	Investigation: CIA — OSS Rebrand, Nazi Gold, Iran, 9/11, and the Antibody Thesis	2026-07-05T16:49:08-04:00
+cosmos/mars/investigations/wotw-martian-civilization.md	H.G. Wells — Martian Civilization: Cross-Source Intelligence Dossier	2026-07-05T16:49:08-04:00
+blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai.md	Late June 2026: lexical redaction, Rife OCR, Islamabad hinge, sealed web, Pacific PP, Epstein cluster, and Site AI	2026-07-05T16:49:08-04:00
+blog/2026-06-19-june-roundup-internet-matrix-pp-education-site-ai.md	Late June 2026: Internet That Should Have Been, Matrix PP series, education Installment II, Site AI, and WebMCP on paradigmthreat.net	2026-07-05T16:49:08-04:00
+science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md	Investigation: CERN as Earth–Mars Quantum Gateway — Æther Physics, Maxwell, and Mars-Only Siting	2026-07-05T11:15:23-04:00
+history/chronology/ancient-stargates/investigations/early-20th-century-stargate-discoveries-image-catalog-investigation.md	Early 20th-century stargate discoveries — image catalog, source trace, and heaven–Earth link (open)	2026-07-05T11:15:23-04:00
+cosmos/mars/investigations/mars-fiction-survey.md	Mars Fiction & Nonfiction Literature Survey (19th–20th Century)	2026-07-04T08:19:01-04:00
+cosmos/mars/investigations/barsoom-pre-mfee-mythic-memory-investigation.md	Investigation: Barsoom as Pre-MFEE Mars — Mythic Memory Release	2026-07-04T08:19:01-04:00
+influence/predictive_programming/fiction_encoding/fiction-presented-as-fact-investigation.md	Science Fiction & Fantasy: Fiction Presented as Fact	2026-07-04T07:54:12-04:00
+history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md	Investigation: Spore / aerial biological disaster — post–MFEE ecology, sanitization, Martian cylinders, and fiction parallels	2026-07-04T07:54:12-04:00
+cosmos/mars/investigations/index-mars.md	Mars Literature — Index of Downloaded Texts	2026-07-04T07:54:12-04:00
+influence/controlled_opposition/alef-and-the-clogged-internet.md	Alef and the clogged internet	2026-07-03T18:28:28-04:00
+events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md	Investigation: ic911a.org / 9/11 Revisionist — Accountability Branding, DEW Hangout, and Movement Fracture	2026-07-03T18:28:28-04:00
+history/chronology/investigations/jew-word-terminology-judas-judicial.md	Investigation: The Word *Jew* — Crucifixion Moment, Latin → Greek, Judas & the Latin Church	2026-07-03T09:38:24-04:00
+history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md	Giants, Infantry, Guerrilla, and the Children's Crusade — Lexical Investigation	2026-07-03T09:38:24-04:00
+history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md	Investigation: Crucifixion Giant Redaction — Nine-Inch Nails, Vav Shape, and Inch/Foot Metrology	2026-07-03T09:38:24-04:00
+history/chronology/christ/hans_bol_crucifixion_1587.md	hans bol crucifixion 1587	2026-07-03T09:38:24-04:00
+governance/war/investigations/martyr-word-history-investigation.md	Investigation: The Word "Martyr" — Etymology, Mars/Murder, and the Real Nature of a Martyr	2026-07-03T09:38:24-04:00
+governance/genocide/giants_faeries/a.md	a	2026-07-03T09:38:24-04:00
+governance/constitution/tona-not-war-liberty-rebrand.md	TONA, Not War — Liberty’s Rebrand	2026-07-02T09:24:57-04:00
+governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md	Investigation: U.S. Constitution and Amendments — Nationalist vs. Globalist Battlefield	2026-07-02T08:49:49-04:00
+history/mudflood/investigations/tartarian-maps-investigation.md	Tartarian Maps Investigation — Forbidden Maps, Disclosure, and Downloads	2026-07-01T09:17:37-04:00
+science/computing/exact-change-wallet-invention-and-aftermath.md	Exact-Change Wallet — Invention and Aftermath	2026-06-30T11:50:11-04:00
+science/health/royal-rife-frequency-medicine-suppression.md	Royal Rife — what the letters say when the banquet only heard the microscope	2026-06-30T11:41:00-04:00
+science/computing/the-internet-that-should-have-been.md	The Internet That Should Have Been	2026-06-30T11:41:00-04:00
+science/computing/quantum-leap-of-faith.md	Quantum Leap (of faith)	2026-06-30T11:41:00-04:00
+science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md	Investigation: U.S. Physical Coin Circulation — Phase-Out, Supply Friction, and the Cashless Transition	2026-06-30T11:41:00-04:00
+science/computing/investigations/internet-that-should-have-been-investigation.md	Investigation: The Internet That Should Have Been — Machine-Readable Web, Wrong Turns, and the AI Gate	2026-06-30T11:41:00-04:00
+science/computing/investigations/google-dont-be-evil-enclosure-investigation.md	Investigation: Google — Don't Be Evil to Enclosure (Android Verification & Pocket-Computer Gatekeeping)	2026-06-30T11:41:00-04:00
+influence/suppression/modern-celebrity-slavery.md	It's gonna be a long, long time.	2026-06-30T11:41:00-04:00
+influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md	Investigation: Canceling the High Poppy — founders, mandatory boards, and removal by the governance layer they had to adopt	2026-06-30T11:41:00-04:00
+influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md	Compromised Court Cases and Declared Reality — Investigation	2026-06-30T11:41:00-04:00
+influence/censorship/github-ban.md	github ban	2026-06-30T11:41:00-04:00
+science/computing/exact-change-wallet-invention-spec.md	Exact-Change Wallet — invention specification	2026-06-30T11:31:24-04:00
+science/computing/ecw-design/chatgpt-prompt.md	ChatGPT render prompt — ECW (Exact-Change Wallet)	2026-06-29T13:10:51-04:00
+events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md	Investigation: Richard Gage, AE911Truth, and the Controlled-Demolition Thesis (9/11)	2026-06-29T09:43:43-04:00
+science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md	Investigation: Quantum Computer as Infinitely Indexed Memory — Storage-First Thesis vs Mainstream Processing Narrative	2026-06-28T09:45:12-04:00
+cosmos/mars/mars-dagger.md	The Mars Dagger — Joseph Smith's Household Hardware	2026-06-28T09:45:12-04:00
+cosmos/mars/investigations/mars-dagger-investigation.md	Investigation: Mars Dagger — Ritual Hardware, Post-MFEE Recovery, and the Smith Analog-Index Line	2026-06-28T09:45:12-04:00
+science/geoengineering/weather-modification-investigation.md	Investigation: Weather Modification — From Cloud Seeding to Ionospheric Heaters	2026-06-28T08:15:46-04:00
+influence/hollywood/trump-era-hollywood-political-media-investigation.md	Investigation: Trump-era Hollywood as predictive programming — trends, rhymes, and scorecard (2016–2026)	2026-06-28T08:15:46-04:00
+history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md	Rus-Horde echoes in English political and military vocabulary (open investigation)	2026-06-27T07:35:12-04:00
+history/chronology/investigations/nightmare-night-mare-1492-apocalypse-crusade-investigation.md	Nightmare — Night Mare and the 1492 Apocalypse Crusade (open)	2026-06-27T07:35:12-04:00
+influence/perspective/russian-perspective.md	Chronologia forum — resistance to Third Story–style outreach	2026-06-26T19:29:12-04:00
+history/chronology/the-hidden-history-of-words-chronologia-forum-reply.md	Chronologia forum reply — Hidden History of Words	2026-06-26T19:29:12-04:00
+cosmos/cosmology/qa/q03-hall-of-mirrors-plasma-hubble-thread.md	Q3 — Hall of mirrors, plasma, Hubble misread, observer reply (Tommy thread, June 2026)	2026-06-26T10:04:58-04:00
+cosmos/cosmology/qa/q01-big-melt-eternal-universe-solar-cycle.md	Q1 — Big Melt, eternal universe, and solar-system lifecycle	2026-06-26T10:04:58-04:00
+history/chronology/jerusalem/troy_1st_jerusalem.md	Troy = Yoros = Jerusalem (#1)	2026-06-26T09:39:50-04:00
+history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md	Investigation (speculative): “New World,” “new lands,” and post–mud-flood memory	2026-06-26T09:39:50-04:00
+history/chronology/investigations/eponym-words-forgotten-people-investigation.md	Eponym Words — Forgotten People Behind Everyday Language (open)	2026-06-26T09:39:50-04:00
+governance/war/investigations/america-first-legal-victory-trend-investigation.md	Investigation: America First Legal — victory trend, Trump-alignment, and claim validation (2021–2026)	2026-06-26T09:39:50-04:00
+cosmos/cosmology/qa/q02-einstein-math-cosmic-extrapolation.md	Q2 — Did Einstein warn his theories weren’t established in grounded math?	2026-06-26T09:39:50-04:00
+cosmos/cosmology/a.md	a	2026-06-26T09:39:50-04:00
+history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md	Two Branches of Christianity: Fomenko vs. Paradigm Threat	2026-06-26T08:05:46-04:00
+history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md	Investigation (open): Skinwalkers, cryptids, and the “cryptic” survival mechanism — a Rus–Horde lineage hypothesis + a no-sorcery model	2026-06-26T08:05:46-04:00
+history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md	Investigation: Nicaea, *Nice*, and Western Civility — Mnemonic Moral Rebranding	2026-06-26T08:05:46-04:00
+history/chronology/investigations/index-chronologia.md	chronologia.org — Site Index	2026-06-26T08:05:46-04:00
+history/chronology/investigations/illig-fomenko-boundary.md	Illig vs Fomenko Phantom Time Boundary — Investigation	2026-06-26T08:05:46-04:00
+history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md	Franklin “Palatine Moors” Screenshot — Text Forensics, Colonial Context, and Book Hunt	2026-06-26T08:05:46-04:00
+history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.md	Fomenko New Chronology — Partial Verification, Access, and Public Reproducibility	2026-06-26T08:05:46-04:00
+history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md	Europe: White Bloodline, Complexion Labels, and Whitewash — Fomenko vs. Author Thesis	2026-06-26T08:05:46-04:00
+history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.md	Investigation: Afterlife Maps (Heaven / Hell / Purgatory), Tibetan Bardo, and Protestantism — Rus-Horde New Chronology Lens	2026-06-26T08:05:46-04:00
+science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md	Royal Rife — two-tier medicine, Flexner capture, and frequency suppression (investigation)	2026-06-25T09:43:01-04:00
+science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md	Marie Curie, battlefield radiation, and post-war nuclear narrative (open investigation)	2026-06-25T09:27:21-04:00
+science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md	Virus isolation proof — skeptical audit (dual-track, author-boundary)	2026-06-25T09:27:21-04:00
+influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md	Investigation: Tolkien's Fiction as Redacted Fact	2026-06-25T09:27:21-04:00
+governance/war/investigations/vril-society.md	Vril Society: Claim, Debunk, and Redaction Potential	2026-06-25T09:27:21-04:00
+history/chronology/investigations/creation-event-interpretations.md	Creation Event Interpretations Across Religions	2026-06-25T09:02:50-04:00
+history/chronology/investigations/biblical-sky-texts-saturnian-citation-investigation.md	Biblical Sky Texts — Saturnian Citation Tiers	2026-06-25T09:02:50-04:00
+cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md	Consensus theater and the stalled physics pipeline	2026-06-25T09:02:50-04:00
+governance/war/investigations/pitcairn-bounty-mutiny-sovereignty-and-narratives.md	Pitcairn: Bounty mutiny narratives, sovereignty, and modern law	2026-06-25T08:49:06-04:00
+events/false_flag/investigations/epstein-online-citations-research-bank.md	Investigation: Epstein Online Citations — Research Bank & Future Dossiers	2026-06-25T08:49:06-04:00
+events/false_flag/investigations/epstein-island-archipelago-blackmail-investigation.md	Investigation: Epstein Island Archipelago — Blackmail Geography, Pitcairn, and the NSA Secrecy Pillar	2026-06-25T08:49:06-04:00
+events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md	Investigation: Epstein Blackmail Network — 9/11 Cross-Links, Agency Alignment, and Compromise Hypothesis	2026-06-25T08:49:06-04:00
+events/false_flag/investigations/09-11-investigation.md	Investigation: September 11, 2001 — Good-Actor Historic Antibody Thesis	2026-06-25T08:49:06-04:00
+science/ai/llm-history-governance-theater-investigation.md	Investigation: LLM History, Governance Theater, and the Military–Corporate Split	2026-06-24T10:05:01-04:00
+science/ai/ai-control-investigation.md	Artificial Intelligence: Control and Predictive Programming Investigation	2026-06-23T20:43:12-04:00
+governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md	The Peace Deal Nobody Cares About	2026-06-23T11:21:10-04:00
+governance/war/investigations/islamabad-peace-deal-investigation.md	Investigation: Islamabad Peace Deal — MOU, Antibody Close, and Islam Awakening Thesis	2026-06-23T11:21:10-04:00
+governance/war/investigations/iran-2026-war-runner.md	Iran War Runner — Timeline, Dual Track, and Current State	2026-06-23T10:58:19-04:00
+science/nukes/investigations/nukes-dont-exist-investigation.md	Investigation: "Nukes Don't Exist" — Alternative Framework Analysis	2026-06-23T10:53:27-04:00
+science/nukes/investigations/nuke-waste-is-safe-investigation.md	Investigation: Galen Winsor — “Nuclear Waste is Safe” (alternative framework)	2026-06-23T10:53:27-04:00
+governance/war/mission-accomplished-again-iran-2026.md	Mission Accomplished (Again): What the Media Will Not Admit About Iran, 2026	2026-06-23T10:53:27-04:00
+history/chronology/responsibility-to-the-next-generation.md	Responsibility to the Next Generation	2026-06-23T10:21:51-04:00
+history/chronology/investigations/responsibility-to-the-next-generation-investigation.md	Investigation: Responsibility to the Next Generation — Education in the AI Era	2026-06-23T10:21:51-04:00
+history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md	“Moorish by Blood, Liberia by Record” — Ten Presidents Infographic Forensics	2026-06-23T10:21:51-04:00
+history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md	Cherokee Moors Meme — Delaware Lenape “Moor” Label, Photo Forensics, and Three Moor Lanes	2026-06-23T10:21:51-04:00
+history/chronology/qa/substack-tropes/q08-biblical-slurs-blood-libel-memes.md	Q8 — Biblical slurs (Abraham/Sarah incest memes)	2026-06-22T19:04:11-04:00
+history/chronology/qa/substack-tropes/q07-substack-thread-chaos.md	Q7 — Substack thread chaos: schizoposting, bots, “nice humans / bad room”	2026-06-22T19:04:11-04:00
+history/chronology/qa/substack-tropes/q06-iran-war-blame-monolith.md	Q6 — “Iran war started by Jews / coward Nazi Jews lost”	2026-06-22T19:04:11-04:00
+history/chronology/qa/substack-tropes/q05-zionist-rat-hole-ethnic-exit.md	Q5 — “Zionist rat hole” as the whole deep state	2026-06-22T19:04:11-04:00
+history/chronology/qa/substack-tropes/q04-epstein-collective-guilt.md	Q4 — Epstein / abuse headline → “all Jews are pedophiles”	2026-06-22T19:04:11-04:00
+history/chronology/qa/substack-tropes/q03-nazi-heroics-vs-jewish-evil.md	Q3 — “Heroic Nazis vs evil Jews” (dual cartoon)	2026-06-22T19:04:11-04:00
+history/chronology/qa/substack-tropes/q02-hitler-rothschild-genealogy-swap.md	Q2 — “Hitler was a Rothschild / Jewish Hitler” charts	2026-06-22T19:04:11-04:00
+history/chronology/qa/substack-tropes/q01-monolithing-inherited-evil.md	Q1 — “All Jews evil / Satanic / inherited evil”	2026-06-22T19:04:11-04:00
+history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md	Paradigm Threat — Working Definition of Antisemitism (Religious-Unity Frame)	2026-06-22T19:04:11-04:00
+history/chronology/when-your-child-wont-fit-the-grade.md	When your child won’t fit the grade	2026-06-19T08:28:50-04:00
+science/computing/investigations/webmcp-suppressed-protocol-ai-gatekeeper-investigation.md	Moved	2026-06-19T07:16:48-04:00
+influence/stolen_credit/nintendo-sony-breakup.md	The Nintendo–Sony Breakup and the Birth of PlayStation	2026-06-19T07:16:48-04:00
+governance/war/qa/q05-mainstream-packaging-long-file.md	Q5 — Mainstream packaging: two meters, long file, TDS shortcuts	2026-06-18T10:23:20-04:00
+governance/war/qa/q04-israel-bibi-oil-single-motive.md	Q4 — “Oil and Bibi” as the only motive	2026-06-18T10:23:20-04:00
+governance/war/qa/q03-mou-strait-sanctions-uranium.md	Q3 — Strait open, sanctions, $300B rebuild, “they keep the uranium”	2026-06-18T10:23:20-04:00
+governance/war/qa/q02-soldiers-lives-and-war-powers.md	Q2 — Soldiers’ lives, “no good reason,” unconstitutional war	2026-06-18T10:23:20-04:00
+governance/war/qa/q01-we-lost-versus-two-scoreboards.md	Q1 — “We lost” / bad MOU / “Art of the kneel”	2026-06-18T10:23:20-04:00
+science/health/virus.md	virus	2026-06-17T19:51:15-04:00
+influence/hollywood/harry_potter_carnivals_of_life_and_death.md	harry potter carnivals of life and death	2026-06-17T19:51:15-04:00
+influence/conspiracy/essays/wake_up_neo.md	wake up neo	2026-06-17T19:51:15-04:00
+influence/conspiracy/A.md	A	2026-06-17T19:51:15-04:00
+history/chronology/saturn/vletter.md	vletter	2026-06-17T19:51:15-04:00
+history/chronology/atlantis/theory.md	theory	2026-06-17T19:51:15-04:00
+cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation.md	*Ares Le Mandat*: Mars-linked Earth influence — investigation (hub + Israel–Gaza audit)	2026-06-17T19:51:15-04:00
+influence/suppression/investigations/trump-mobile-t1-media-trust-industrial-narrative-investigation.md	Trump Mobile T1 — Media Trust, “Chinese Phone,” Chip Sovereignty, and the “Scam CEO” Narrative Frame	2026-06-17T19:33:37-04:00
+influence/religion/exorcism-demonology-disease-colonial-memory-investigation.md	Exorcism, Demonology, Disease — and the Colonial Memory Layer	2026-06-17T19:33:37-04:00
+influence/controlled_opposition/make-gordonston-draft-resignation-letter.md	Draft — letter of resignation from Gordonston volunteer participation	2026-06-17T19:33:37-04:00
+influence/controlled_opposition/investigations/the-shizz-forum-timeline-community-governance-investigation.md	The Shizz (theshizz.org) — forum timeline, scene overlaps, and community–money hygiene (open)	2026-06-17T19:33:37-04:00
+influence/controlled_opposition/investigations/magfest-community-governance-investigation.md	MAGFest — community origins, nonprofit scale-up, governance crises, and freeplay policy (open)	2026-06-17T19:33:37-04:00
+influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md	Gordonston — Juliette Gordon Low Park history, church campus, and volunteer children’s education vision (open)	2026-06-17T19:33:37-04:00
+influence/conspiracy/investigations/ghost-tourism-memory-echo-vs-spirit-suppressed-continuity-investigation.md	Ghost Tourism, Memory Echo vs. Spirit — and the Suppression Hypothesis	2026-06-17T19:33:37-04:00
+history/chronology/investigations/view-over-atlantis-michell-investigation.md	Investigation: John Michell — *The View Over Atlantis* / *The New View Over Atlantis*	2026-06-17T19:33:37-04:00
+history/chronology/investigations/view-over-atlantis-michell-chapter-summaries.md	John Michell — *The View Over Atlantis* / *The New View Over Atlantis* — chapter list and summaries	2026-06-17T19:33:37-04:00
+history/chronology/investigations/the-pyramid-les-brown-investigation.md	Investigation: Les Brown — *The Pyramid: How to Build It, How to Use It*	2026-06-17T19:33:37-04:00
+history/chronology/investigations/les-brown-pyramid-chapter-summaries.md	Les Brown — *The Pyramid: How to Build It, How to Use It* — chapter index and summaries	2026-06-17T19:33:37-04:00
+blog/2026-06-10-june-roundup-stonehenge-benjamin-celebrity-slavery-gordonston-memory-war.md	Early June 2026: Stonehenge portal, Benjamin tribe, celebrity IP slavery, Gordonston MGGA, consent rites, and the memory-war cluster	2026-06-17T19:33:37-04:00
+blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack.md	Late May 2026: Ghost War antibody lane, Napoleon medicine, prisca sapientia, Relay migration, and six Substack drops	2026-06-17T19:33:37-04:00
+blog/2026-05-14-md2ast-migration-downtime-cave-story-pursue-consensus-theater-roundup.md	Mid-May 2026: md2ast migration, brief downtime, Cave Story & PURSUE lanes, cosmology and geoengineering drops, Big Mysteries consensus theater	2026-06-17T19:33:37-04:00
+blog/2026-05-05-may-roundup-circle-of-life-cancer-success-site-updates.md	May 2026 roundup: Circle of Life, Cure for Cancer, Success essay, Mars hubs, and paradigm-threat-site upgrades	2026-06-17T19:33:37-04:00
+blog/2026-04-27-cia-1984-mars-reading-room-find-restructure-chrono-article.md	The 1984 Mars Reading Room PDF as a thesis hit; controlled-opposition investigations restructure; *Chrono Trigger* article; timeline + antisemitism doc churn — late April 2026	2026-06-17T19:33:37-04:00
+blog/2026-04-25-netanyahu-health-disclosure-controlled-opposition-fomenko-site-toc.md	Netanyahu cancer “health reset”; controlled-opposition cluster expansions; Fomenko verification investigations; site TOC + error UX; timeline JSON minification — April 2026	2026-06-17T19:33:37-04:00
+blog/2026-04-18-cod-mw-militainment-spore-blood-rain-tts-unicode.md	*Call of Duty* Modern Warfare militainment investigation; spore / blood-rain mudflood files; Cruz / Office cross-reads; editor docs; timeline PP links; TTS Unicode arrows — April 2026	2026-06-17T19:33:37-04:00
+blog/2026-04-14-pyramid-artemis-investigations-ae911truth-site-share-og.md	Pyramid-stack and Artemis II investigations; AE911Truth file; war and suppression files; timeline appendix cites; site share modal, `/files` proxy, and OG descriptions — April 2026	2026-06-17T19:33:37-04:00
+blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md	Jade Helm and Cruz / Kevin investigations; Venus probes; Relay branch policy; Paradigm site TTS; Forgotten Future GitLab Pages — April 2026	2026-06-17T19:33:37-04:00
+blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md	Relay network engineering shift; GitHub and crates.io lockout; griffin timeline merge; site and files updates — April 5, 2026	2026-06-17T19:33:37-04:00
+influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md	SDA × Games Done Quick × Mike Uyama × MSF — charity polarization, money-flow opacity, and controlled-opposition pattern language (open)	2026-06-17T08:32:31-04:00
+influence/controlled_opposition/investigations/pursue-2026-may-uap-release-investigation.md	Investigation: PURSUE Release 01 (May 8, 2026) — what the Trump-era UAP "declassification" actually is, and what it carefully isn't	2026-06-17T08:32:31-04:00
+influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md	Investigation: AAWSAP / Lacatski — insider program mechanics, political friction, and the “tech after enlightenment” rhyme	2026-06-17T08:32:31-04:00
+cosmos/flat_earth/flat-earth-qa-debunks.md	Flat Earth — Q&A and Debunks (Pilot Spin Meme Entry)	2026-06-17T08:32:31-04:00
+cosmos/flat_earth/flat-earth-investigation.md	Investigation: Flat Earth — History, Myth, and Misinterpretation	2026-06-17T08:32:31-04:00
+science/biology/investigations/nervous-system-existence-skepticism-investigation.md	Investigation: The Nervous System — Historical Critics, Blood/Bone Sufficiency Claims, and Whether Nerves Are Real or Redundant	2026-06-12T14:27:18-04:00
+history/chronology/investigations/takenouchi-documents-japan-horde-christ-burial-investigation.md	Takenouchi Documents, Dr. Takeuchi, and Japan as Eastern Rus-Horde — Investigation	2026-06-10T09:05:33-04:00
+governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md	Investigation: Holodomor, Holocaust — Memory Redaction, Geography of Horror, and the Sacrifice Frame	2026-06-07T11:10:58-04:00
+influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md	Investigation (open): Giants of Japan — “archival footage” aesthetics, *Big Man Japan* (2007), and debunk-overreach as a perception-management tactic	2026-06-07T11:02:55-04:00
+governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md	Pearl Harbor — Hijacked Imperial Japan, Western Grooming, and the Barbarossa Trigger (Investigation)	2026-06-07T11:02:55-04:00
+governance/war/investigations/yakuza-remote-control-investigation.md	Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan	2026-06-07T08:17:54-04:00
+governance/war/investigations/wwii-fascism-religious-apparatus-investigation.md	Investigation: Why Japan, Italy, and Germany — Fascism as Religious-Apparatus Takeover	2026-06-07T08:17:54-04:00
+governance/war/investigations/reverse-crusades-comparison.md	The Four Reverse Crusades: A Structural Comparison	2026-06-07T08:17:54-04:00
+governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md	Investigation: Operation Paperclip, Nazi Continuity, and the WWII “Defeat” Narrative	2026-06-07T08:17:54-04:00
+governance/war/zelensky-forward-history-memory-war.md	Zelensky’s letter is a memory weapon	2026-06-05T18:34:57-04:00
+governance/war/investigations/zelensky-open-letter-reality-model-investigation.md	Investigation: Zelensky — open letter (4 June 2026), operative reality model, and reverse-crusade figurehead read	2026-06-05T18:14:11-04:00
+influence/predictive_programming/investigations/terranigma-beruga-predictive-programming-investigation.md	*Terranigma* — Beruga, bioweapon grammar, and predictive-programming reads (open)	2026-06-05T09:46:21-04:00
+influence/predictive_programming/investigations/evo-search-for-eden-deep-time-saturnian-cosmology-predictive-programming-investigation.md	*E.V.O.: Search for Eden* — deep-time evolution PP, Saturnian cosmology half-rhyme, and blended creation grammar (open)	2026-06-05T09:46:21-04:00
+history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md	Stonehenge: Quantum Portal of the Golden Age — and Why They Want You to Laugh	2026-06-05T09:46:21-04:00
+history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md	Stonehenge as Portal — Birkeland Current, Ley Crossings, and Golden-Age Geometry	2026-06-04T08:42:19-04:00
+science/health/viruses-were-never-found-only-aetheric-disease.md	Viruses Were Never Found in the Lab — Only the Shadow of an Ætheric Disease	2026-06-02T10:02:26-04:00
+influence/hollywood/ghost-war-the-antibody-phase.md	Ghost War: The Antibody Phase	2026-06-02T10:02:26-04:00
+influence/conspiracy/the-real-ghostbusters.md	The Real Ghostbusters: The Ethereal Noise Floor	2026-06-02T10:02:26-04:00
+history/chronology/napoleon-corpses-dry-egypt-siberian-disease.md	Two Camps of Medicine: Jaffa, Red Mercury, and the Radiation Cover Story	2026-06-02T10:02:26-04:00
+history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md	USA was founded by the 'Lost' Tribe of Benjamin	2026-06-02T10:02:26-04:00
+governance/genocide/vaccines-circumcision-childhood-consent-religion.md	Vaccines and circumcision — two rites, one consent theft	2026-06-02T10:02:26-04:00
+history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md	Prester John, *Presbyter Ioannes*, and the Rus–Horde Christian East — NC and author thesis	2026-06-02T09:56:32-04:00
+history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md	Investigation: Apotheosis of Washington — Benjamin Tribe, America, and Rus-Horde Memory War	2026-06-02T09:56:32-04:00
+governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation.md	Investigation: Ship-Shaped Airships — Earth-Made Lift, Class Suppression, and the 18th–20th Century Russia Pattern	2026-06-02T09:56:32-04:00
+governance/war/investigations/hormuz-tartarian-nexus-decoding-infographic-investigation.md	Investigation: “Decoding Hormuz — The Suppressed Tartarian Nexus” (infographic validation)	2026-06-02T09:56:32-04:00
+governance/war/investigations/american-revolution-investigation.md	Investigation: American Revolution — A Tiny Piece in a Much Bigger Puzzle	2026-06-02T09:56:32-04:00
+influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md	OverClocked ReMix (OCR) — polarization, privatization, and controlled-opposition pattern language (open)	2026-06-01T22:18:38-04:00
+influence/controlled_opposition/success-by-any-means-necessary.md	Success — by any means necessary	2026-06-01T19:24:29-04:00
+influence/controlled_opposition/cia-1984-mars-chrono-trigger.md	Was Chrono Trigger’s plot based on a 1984 CIA Mars remote viewing session?	2026-06-01T19:24:29-04:00
+influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md	Investigation: CIA Reading Room — *Mars Exploration*, 22 May 1984 (`CIA-RDP96-00788R001900760001-9`)	2026-05-31T10:19:48-04:00
+history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md	Childhood “Autism Spectrum”: Conformity Grading, Diagnostic Umbrella, and Autodidactic Profiles	2026-05-31T10:19:48-04:00
+governance/genocide/vaccine/a.md	a	2026-05-31T10:19:48-04:00
+governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.md	Vaccine injury, liability immunity, and the unknowable reckoning — COVID archive, MMR/autism, and RFK Jr. at HHS	2026-05-31T10:19:48-04:00
+influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md	You do not have to stop loving *Cave Story*	2026-05-29T13:06:06-04:00
+influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.md	*Cave Story* × Studio Pixel × Nicalis — controlled opposition, timeline skepticism, and legal chill on fan engines (open)	2026-05-29T13:06:06-04:00
+influence/religion/1979-religious-revival-investigation.md	Investigation: The 1979 Religious Revival — CIA Backing and Global Phenomenon	2026-05-26T08:48:45-04:00
+science/microchips/microchips-shrinking-technology-investigation.md	Microchips: Shrinking Technology Investigation	2026-05-24T10:33:19-04:00
+influence/predictive_programming/investigations/martin-elden-ring-reconstructed-timeline-investigation.md	George R. R. Martin, *Game of Thrones*, other Martin works, and *Elden Ring* — reconstructed timeline, fiction quarantine, and dragon decoding (open)	2026-05-24T10:33:19-04:00
+influence/predictive_programming/fiction_encoding/grrm/index.md	George R. R. Martin — investigation index	2026-05-24T10:33:19-04:00
+influence/predictive_programming/fiction_encoding/grrm/index-george-rr-martin-world-of-ice-and-fire-investigation.md	Investigation (speculative): George R. R. Martin, *The World of Ice & Fire*, and the “fictional historian” pattern	2026-05-24T10:33:19-04:00
+science/nukes/investigations/red-mercury-barclay-1996-novel-investigation.md	Red Mercury — Max Barclay (1996) novel: claims, validation, open research	2026-05-23T10:31:07-04:00
+influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md	*Final Fantasy* I–VII — Tartaria / Rus–Horde echoes, buried airships, mud-flood grammar, and predictive programming (open)	2026-05-23T10:15:01-04:00
+history/chronology/investigations/napoleon-egypt-burial-siberia-health-investigation.md	Two camps of French war medicine — Napoleon, red mercury, radiation redaction	2026-05-23T10:09:29-04:00
+governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md	Investigation: Napoleonic Artillery, “Sound Cannons,” and Lighter-Than-Air Technology	2026-05-23T08:50:40-04:00
+science/health/investigations/napoleon-plague-murad-bay-screenshot-source-hunt-investigation.md	Napoleon Plague Screenshot — Book Identification, Citation Forensics, and Claim Decomposition	2026-05-23T08:33:32-04:00
+science/health/probiotics_chernobyl/ssstwitter.com_1772378839442-investigation.md	Investigation: David Straight's Chernobyl Probiotics Claims	2026-05-22T20:06:46-04:00
+science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md	Virus media — predictive programming (evolution, genome causality, zombie etiology)	2026-05-22T20:06:46-04:00
+science/havana_syndrome/havana-syndrome-investigation.md	Investigation: Havana Syndrome — Gaslighting the Public on Directed Energy Weapons	2026-05-22T20:06:46-04:00
+science/geoengineering/tornado-power-station-investigation.md	Tornado–Power Station Explosion: Investigation into Electromagnetic Tornado Suppression and Media Cover-up	2026-05-22T20:06:46-04:00
+science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.md	Rural Burn Zones Need a Density Moratorium, Not a DEW Investigation	2026-05-22T20:06:46-04:00
+science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.md	Investigation: Atkinson, Georgia (April 2026) — Radiation Weapon Claims and the Lahaina/LA Wildfire Pattern	2026-05-22T20:06:46-04:00
+science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md	Investigation: German New Medicine (LearningGNM), cancer-paradigm rhymes, industry scale, and repo adjacencies	2026-05-22T20:06:46-04:00
+science/biology/investigations/dna-fingerprint-scalar-life-investigation.md	Investigation: DNA as Fingerprint, Not Blueprint — Scalar / ZPE Medium, First Life, and Ontogeny	2026-05-22T20:06:46-04:00
+science/biology/circle-of-life-and-how-it-began.md	The Circle of Life and How It Began	2026-05-22T20:06:46-04:00
+influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md	Investigation (open): Indigenous control systems — witchcraft discourse, Vodou “work,” and reservation containment hypotheses	2026-05-22T20:06:46-04:00
+influence/suppression/investigations/eckhart-jacobs-ladder-hell-quote-attribution-investigation.md	Investigation: “Hell burns attachments” — *Jacob’s Ladder*, Eckhart (mis)attribution, Paradigm Threat read	2026-05-22T20:06:46-04:00
+influence/suppression/investigations/cathars-church-purge-khazar-split-investigation.md	Investigation: The Cathars — enemy memory, catharization, resistance to monotheism, and the Khazar–Cathar split thesis	2026-05-22T20:06:46-04:00
+influence/predictive_programming/fiction_encoding/zombies/index-zombie-genre-investigation.md	Zombie Genre — Investigation	2026-05-22T20:06:46-04:00
+influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md	Investigation: The Urantia Book (1955) -- Controlled Opposition and Predictive Programming (Open)	2026-05-22T20:06:46-04:00
+influence/predictive_programming/fiction_encoding/thompson/thompson-managed-disclosure-investigation.md	Investigation: Hunter S. Thompson — Satan-Worshipper Bar Story as Potential Managed Disclosure	2026-05-22T20:06:46-04:00
+influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift.md	Swift investigation — debate rails, drift, and sentiment (record)	2026-05-22T20:06:46-04:00
+influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md	Bram Stoker — Investigation	2026-05-22T20:06:46-04:00
+influence/predictive_programming/fiction_encoding/shelley/shelley-frankenstein-true-story-investigation.md	Mary Shelley — Frankenstein as Potential True Story: Investigation	2026-05-22T20:06:46-04:00
+influence/predictive_programming/fiction_encoding/princess-bride/index-princess-bride-andronicus-fezzik-investigation.md	Investigation (speculative): Fomenko’s Andronicus-Christ, *The Princess Bride*, and “Colossus” dialogue	2026-05-22T20:06:46-04:00
+influence/predictive_programming/fiction_encoding/ed-wood-plan9/index-ed-wood-plan9-investigation.md	Ed Wood and Plan 9 from Outer Space — Investigation	2026-05-22T20:06:46-04:00
+influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md	Investigation: C. S. Lewis and Saturnian / Planetary Cosmology Encoding	2026-05-22T20:06:46-04:00
+influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads.md	Asimov: Investigation Threads	2026-05-22T20:06:46-04:00
+influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md	PURSUE Release 01 — What Am I Asking U FO?	2026-05-22T20:06:46-04:00
+influence/controlled_opposition/investigations/mel-gibson-post-2006-payback-form-unwilling-co-investigation.md	Mel Gibson — post-2006 capture, payback-form directing, and unwilling controlled-opposition read (open)	2026-05-22T20:06:46-04:00
+influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md	*Homestuck* × Andrew Hussie — controlled opposition, canon privatization, and community fracture (open)	2026-05-22T20:06:46-04:00
+influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md	Investigation: “Great Awakening” / Alien Savior / Revaluation (Dinar) / Lightworker Cluster — Controlled Opposition and the Human “Reset” Thesis	2026-05-22T20:06:46-04:00
+influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md	Investigation: CIA Reading Room — Remote Viewing, “Two-Way” Influence, and the Iran / Religious-Revival Hypothesis (Clue-First)	2026-05-22T20:06:46-04:00
+influence/controlled_opposition/investigations/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.md	Moved: CIA Reading Room — RV two-way, Iran / religious-revival investigation	2026-05-22T20:06:46-04:00
+influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md	Investigation: BRSINV / CB St. Julian — captured courts, Zionist framing, and demoralization CO (open)	2026-05-22T20:06:46-04:00
+influence/controlled_opposition/investigations/5g-rollout-controlled-opposition-predictive-programming-investigation.md	5G tower rollout narratives — controlled opposition and predictive-programming hypothesis (open)	2026-05-22T20:06:46-04:00
+influence/controlled_opposition/captured-courts-wrong-villain.md	Captured courts, wrong villain	2026-05-22T20:06:46-04:00
+influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md	Investigation: Toynbee Tiles — *Resurrect Dead* (2011) and the street campaign	2026-05-22T20:06:46-04:00
+influence/conspiracy/celebrities/INDEX-identity-investigations.md	Identity Investigations — Index and Methodology	2026-05-22T20:06:46-04:00
+history/orphan_trains/orphan-trains-investigation.md	Orphan Trains, Mass Displacement, and the MFEE Thesis	2026-05-22T20:06:46-04:00
+history/mudflood/investigations/cargo-cults-investigation.md	Investigation: Cargo Cults — Official History, Human Behavior, and 18th–19th Century / Manna Redaction	2026-05-22T20:06:46-04:00
+history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md	Investigation: Blood rain, Passat dust, Dust Bowl, and large-scale ecological / atmospheric shocks (post–mud-flood oddities)	2026-05-22T20:06:46-04:00
+history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.md	Pre-Mudflood Maps — Fra Mauro, the Sahara, and Under-500-Year Desert Claims	2026-05-22T20:06:46-04:00
+history/chronology/investigations/wuxing-five-planets-dark-ages.md	Investigation: Wuxing and the Five Planets — Dark Ages Observational Record	2026-05-22T20:06:46-04:00
+history/chronology/investigations/soul-science-investigation.md	Investigation: History of Soul Science — From First References to the Mind as Replacement	2026-05-22T20:06:46-04:00
+history/chronology/investigations/radiocarbon-dating-investigation.md	Investigation: Radiocarbon Dating — Dogmatic Adoption and the Electrical Activity Problem	2026-05-22T20:06:46-04:00
+history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md	Investigation: Pyramid “Energy” — Kerrell & Goggin (1977) and Large Stone Geometry	2026-05-22T20:06:46-04:00
+history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md	Investigation (concluded): Griffins and other “myth” fauna in sober historical texts — extinction by human pressure?	2026-05-22T20:06:46-04:00
+history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md	Investigation: Etana, the Sumerian King List, and "Wheels in the Sky" Testimony (Open)	2026-05-22T20:06:46-04:00
+history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md	Investigation: Artemis II — Mission as Faith Test, Staged-Production Readings, and Foreign-Press Patterns	2026-05-22T20:06:46-04:00
+governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md	Investigation: Armed confrontations — U.S. citizens vs. federal government, military, and federal agents	2026-05-22T20:06:46-04:00
+governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.md	Investigation: Donald Trump — Assassination & Severe-Security Incidents, Press vs. Trump, Kimmel / WHCD (April 2026), Media Framing (incl. Charlie Kirk Rhyme), and the White House Ballroom as “Secure Venue”	2026-05-22T20:06:46-04:00
+governance/war/investigations/titanic-sinking-investigation.md	Investigation: RMS Titanic (1912) — Timing, Alternative Narratives, and Aftermath	2026-05-22T20:06:46-04:00
+governance/war/investigations/soviet-collapse-investigation.md	Investigation: Soviet Collapse — Western Orchestration, Media, and Post-WWII Isolation	2026-05-22T20:06:46-04:00
+governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md	Investigation: Occupy Wall Street — origins, collapse, surveillance, and the “controlled opposition” thesis	2026-05-22T20:06:46-04:00
+governance/war/investigations/jonestown-guyana-1978-cia-latin-america-pattern-investigation.md	Jonestown (18 November 1978): disputed narratives, CIA footprint, and Central American parallels	2026-05-22T20:06:46-04:00
+governance/war/investigations/french-revolution-investigation.md	Investigation: French Revolution — Societized Consolidation and Political Reorganization	2026-05-22T20:06:46-04:00
+governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md	Investigation: Dubious “Stand Down” Orders — Benghazi (2012), Libya’s Breakup, and Pattern Echoes	2026-05-22T20:06:46-04:00
+governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md	Investigation: *Call of Duty: Modern Warfare* — Original Trilogy vs. Soft Reboot, Militainment, Iran–Russia Framing, and Cross-Media Operator Archetypes	2026-05-22T20:06:46-04:00
+governance/war/investigations/british-divide-conquer-israel-investigation.md	Investigation: British Empire Divide-and-Conquer — Israel, India/Pakistan, Africa, and the Deep State Hypothesis	2026-05-22T20:06:46-04:00
+governance/war/investigations/british-civil-war-investigation.md	Investigation: British Civil War — Societized Consolidation and the Template for Western Governance	2026-05-22T20:06:46-04:00
+events/trump/index-trump-investigation.md	Investigation: Trump, Historic Antibodies, and the Uncompromised Dynasty Thesis	2026-05-22T20:06:46-04:00
+events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md	Investigation: Netanyahu “faked death” rumors — motive, proof-of-life theater, and the April 24, 2026 health disclosure	2026-05-22T20:06:46-04:00
+events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md	Investigation: Ariel Sharon — Timeline, Gaza Disengagement, Coma Secrecy, and “Controlled Opposition” Threads	2026-05-22T20:06:46-04:00
+cosmos/venus/investigations/venus-from-saturnian-to-venera-investigation.md	Investigation: Venus — From Saturnian Cosmology to Venera	2026-05-22T20:06:46-04:00
+cosmos/pluto/investigations/pluto-origin-visibility-investigation.md	Investigation: Pluto — The Unseen Planet, Lost to Hell	2026-05-22T20:06:46-04:00
+cosmos/mars/investigations/mars-earth-reincarnation-investigation.md	Investigation: Mars–Earth Reincarnation — Mass Death on Mars and Souls Reborn on Earth	2026-05-22T20:06:46-04:00
+cosmos/mars/investigations/anthony-of-boston-mars360-investigation.md	Anthony of Boston (Anthony Moore) and the Mars 360 Mythos	2026-05-22T20:06:46-04:00
+cosmos/cosmology/the-incorrectly-scaled-universe.md	The Incorrectly Scaled Universe	2026-05-22T20:06:46-04:00
+cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md	Investigation: The Incorrectly Scaled Universe — Curved-Light Aether Model, Maxwell Lineage, and Cosmological Inference Risk	2026-05-22T20:06:46-04:00
+cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md	Investigation: Big Mysteries Survey — consensus theater, menu design, and the stalled physics pipeline	2026-05-22T20:06:46-04:00
+cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md	Investigation: Tham Luang Cave Rescue (2018) — Cover-up and Alternate Theories	2026-05-22T20:06:46-04:00
+cosmos/cosmology/hollow_earth/hollow-earth-investigation.md	Investigation: Hollow Earth — Sources, Maps, Books, and Atlantis	2026-05-22T20:06:46-04:00
+science/biology/the-cure-for-cancer.md	The Cure for Cancer	2026-05-16T13:13:28-04:00
+influence/controlled_opposition/what-are-you-waiting-for.md	What Are You Waiting For?	2026-05-16T13:13:28-04:00
+influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md	Mystery Airships 1896–1897 — The Vocabulary Bridge Before "UFO"	2026-05-16T13:13:28-04:00
+history/chronology/indigenous-creation-legends-and-geology.md	How old is your house? — memory, geology, and the long argument	2026-05-16T13:13:28-04:00
+events/false_flag/investigations/iran-2026-propaganda-thesis.md	Investigation: Iran 2026 — Propaganda War Thesis	2026-05-16T13:13:28-04:00
+cosmos/mars/investigations/wotw-timeline.md	War of the Worlds: Technical Timeline	2026-05-16T13:13:28-04:00
+.github/copilot-instructions.md	paradigm-threat-files: Copilot Instructions	2026-05-15T08:39:51-04:00
+science/geoengineering/investigations/brantley-burn-zone-density-moratorium-template.md	Brantley / Rural Georgia Burn-Zone Density Moratorium — Action Template	2026-05-13T14:10:22-04:00
+science/telepathy/remote_viewing/aether-consciousness.md	Remote Viewing as Aether Physics — Investigation	2026-05-07T09:25:25-04:00
+science/maxwell_aether/02-did-maxwell-prove-the-aether.md	Did Maxwell's Work Actually Prove the Aether Exists?	2026-05-07T08:34:32-04:00
+cosmos/mars/ares-le-mandat-first-edition-chapter-index.md	*Ares Le Mandat* — first edition chapter index & table of contents	2026-05-05T07:36:54-04:00
+history/chronology/investigations/indigenous-creation-dates.md	Indigenous Creation Chronologies — Investigation	2026-04-28T16:17:35+00:00
+influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md	Mars Exploration, 22 May 1984 — full writeup (`CIA-RDP96-00788R001900760001-9`)	2026-04-28T06:53:18-04:00
+science/telepathy/remote_viewing/index-remote-viewing-fiction.md	Remote Viewing / Remote Control in Fiction — Master Index	2026-04-27T10:29:07-04:00
+science/nukes/chat_nukes.md	chat nukes	2026-04-27T10:29:07-04:00
+science/nukes/A.md	A	2026-04-27T10:29:07-04:00
+science/maxwell_aether/04-steinmetz-heaviside-sources.md	Steinmetz and Heaviside Primary Sources — Verification	2026-04-27T10:29:07-04:00
+science/maxwell_aether/03-dayton-miller.md	Dayton Miller Interferometry — Investigation	2026-04-27T10:29:07-04:00
+science/maxwell_aether/01-burden-of-proof-debate.md	The Burden of Proof: Who Must Prove the Aether Does or Doesn't Exist?	2026-04-27T10:29:07-04:00
+science/health/tennant/index-tennant-healing-voltage.md	Dr. Jerry Tennant — Healing is Voltage: Index of Research and Claims	2026-04-27T10:29:07-04:00
+science/health/probiotics_chernobyl/ssstwitter.com_1772378839442-transcript.md	Transcript: ssstwitter.com_1772378839442.mp3	2026-04-27T10:29:07-04:00
+science/health/probiotics_chernobyl/soviet-probiotic-research-the-real-story.md	The Lost Soviet Probiotic: How a Bulgarian Cancer Discovery Became a Cold War Secret	2026-04-27T10:29:07-04:00
+science/health/a.md	a	2026-04-27T10:29:07-04:00
+science/geoengineering/a.md	a	2026-04-27T10:29:07-04:00
+science/anti_gravity/a.md	a	2026-04-27T10:29:07-04:00
+science/5g/0.md	0	2026-04-27T10:29:07-04:00
+influence/stolen_credit/yasunori-mitsuda.md	Yasunori Mitsuda — Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/vgm-preservation-credits.md	VGM Preservation & Publisher Credit Policies	2026-04-27T10:29:07-04:00
+influence/stolen_credit/tommy-tallarico.md	Tommy Tallarico — Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/square-battle-system-lineage.md	Square / Final Fantasy — Battle System Lineage & Talent Exodus	2026-04-27T10:29:07-04:00
+influence/stolen_credit/robin-beanland.md	Robin Beanland — Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/rare-nintendo-rd.md	Rare & Nintendo R&D — Credit Theft Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/nobuo-uematsu.md	Nobuo Uematsu — Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/mozart-nannerl.md	Mozart / Nannerl (Maria Anna Mozart) — Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/minako-hamano.md	Minako Hamano — Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/koji-kondo.md	Koji Kondo — Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/kinuyo-yamashita.md	Kinuyo Yamashita — Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/jeremy-soule.md	Jeremy Soule — Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/gershwin-kay-swift.md	Gershwin / Kay Swift — Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/ferde-grofe.md	Ferde Grofé — Rhapsody in Blue Orchestration	2026-04-27T10:29:07-04:00
+influence/stolen_credit/fanny-mendelssohn.md	Fanny Mendelssohn (Fanny Hensel) — Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/eveline-fischer.md	Eveline Fischer — Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/dave-wise.md	Dave Wise — Investigation	2026-04-27T10:29:07-04:00
+influence/stolen_credit/capcom.md	Capcom — Mega Man Franchise & Stolen Credit	2026-04-27T10:29:07-04:00
+influence/stolen_credit/beethoven-deafness.md	Beethoven / Deafness Narrative — Investigation	2026-04-27T10:29:07-04:00
+influence/religion/hairy_mary/index-pregnant-mary-magdalene.md	Pregnant Mary Magdalene?	2026-04-27T10:29:07-04:00
+influence/religion/hairy_mary/index-met-museum-wild-woman-unicorn.md	Playing Card, with Wild Woman and Unicorn	2026-04-27T10:29:07-04:00
+influence/religion/hairy_mary/index-hairy-mary-original.md	Hairy Mary	2026-04-27T10:29:07-04:00
+influence/religion/hairy_mary/index-hairy-mary-one-more-time.md	Hairy Mary – One More Time	2026-04-27T10:29:07-04:00
+influence/predictive_programming/the_office.md	the office	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/wells/massacre-of-mankind-2017-reference.md	The Massacre of Mankind (2017) — Reference	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/wells/index-island-of-dr-moreau.md	The Island of Dr. Moreau (1896) — Index & Investigation	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/tolkien/RESEARCH-three-tasks-source-mapping.md	Research: Three Tasks — Silmarillion Source Mapping, Heimskringla Euhemerism, Teutonic Mythology	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/tolkien/ARTICLE-palantir-analysis.md	The Palantíri: Tolkien's Seeing-Stones — Analysis	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/thompson/index-thompson-main.md	Hunter S. Thompson — Main Index	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/thompson/index-playboy-interview.md	The Playboy Interview — Hunter S. Thompson	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/thompson/index-kitchen-readings.md	The Kitchen Readings: Untold Stories of Hunter S. Thompson — Index	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/thompson/index-hells-angels.md	Hell's Angels — Index and Government-Antagonistic Highlights	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/thompson/index-great-shark-hunt.md	The Great Shark Hunt — Index and Government-Antagonistic Highlights	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/thompson/index-fear-and-loathing.md	Fear and Loathing in Las Vegas — Index and Government-Antagonistic Highlights	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/thompson/index-fear-and-loathing-in-america.md	Fear and Loathing in America — Index	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/thompson/index-curse-of-lono.md	The Curse of Lono — Index	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/swift/swift-tartary-rus-timeline-mirrors.md	Swift — Tartary / Rus-timeline mirrors (speculative thread)	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/swift/swift-mars-giants-publication-stance.md	Swift — Mars, scale beings, and how *Gulliver* was sold to readers	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/swift/index-tale-of-a-tub.md	*A Tale of a Tub* — Index stub	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/swift/index-swift-select-works-vol1-1823.md	*Select Works* (Swift) — Volume I only, 1823	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/swift/index-swift-corpus-and-editions.md	Swift — Corpus & edition map	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/swift/index-gullivers-travels.md	*Gulliver’s Travels* — Index & summary	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/swift/index-battle-of-the-books.md	*The Battle of the Books* — Index stub	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/stoker/index-dracula.md	Dracula — Index	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/princess-bride/index.md	*The Princess Bride* — investigation index	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/machen/index-machen.md	Arthur Machen — Downloaded Texts Index	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/lovecraft/index-lovecraft.md	H.P. Lovecraft — Complete Fiction Index	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/jules-verne/index-jules-verne.md	Jules Verne Collection — Index	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/cslewis/index-cslewis.md	C. S. Lewis Collection — Index	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/card/index-card.md	Orson Scott Card — Enderverse Investigation Index	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/blackwood/index-blackwood.md	Algernon Blackwood — Downloaded Texts Index	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/asimov/youth-index.md	Youth — Clue Index for Timeline Investigation	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/asimov/magnificent-possession-index.md	The Magnificent Possession — Clue Index for Timeline Investigation	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/asimov/lets-get-together-index.md	Let's Get Together — Clue Index for Timeline Investigation	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/asimov/i-robot-index.md	I, Robot — Clue Index for Timeline Investigation	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/asimov/foundation-index.md	Foundation — Clue Index for Timeline Investigation	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/asimov/everest-index.md	Everest — Clue Index for Timeline Investigation	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/asimov/03-themes-for-timeline-study.md	Isaac Asimov: Themes for Timeline Study	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/asimov/02-bibliography-and-major-works.md	Isaac Asimov: Bibliography and Major Works	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/asimov/01-biography-and-context.md	Isaac Asimov: Biography and Context	2026-04-27T10:29:07-04:00
+influence/predictive_programming/fiction_encoding/arnold/arnold-books-bibliography.md	Edwin Lester Arnold — Bibliography	2026-04-27T10:29:07-04:00
+influence/controlled_opposition/z.md	z	2026-04-27T10:29:07-04:00
+influence/controlled_opposition/chat_controlled_opposition.md	chat controlled opposition	2026-04-27T10:29:07-04:00
+influence/controlled_opposition/alice.md	alice	2026-04-27T10:29:07-04:00
+influence/controlled_opposition/00.md	00	2026-04-27T10:29:07-04:00
+influence/conspiracy/topics/zoot.md	zoot	2026-04-27T10:29:07-04:00
+influence/conspiracy/topics/criticism.md	criticism	2026-04-27T10:29:07-04:00
+influence/conspiracy/topics/circumcision_cult.md	circumcision cult	2026-04-27T10:29:07-04:00
+influence/conspiracy/topics/bitcoin.md	bitcoin	2026-04-27T10:29:07-04:00
+influence/conspiracy/religion.md	religion	2026-04-27T10:29:07-04:00
+influence/conspiracy/essays/riding_the_bus.md	riding the bus	2026-04-27T10:29:07-04:00
+influence/conspiracy/essays/magic_history.md	magic history	2026-04-27T10:29:07-04:00
+influence/conspiracy/essays/drugs.md	drugs	2026-04-27T10:29:07-04:00
+influence/conspiracy/essays/Something_in_books.md	Something in books	2026-04-27T10:29:07-04:00
+influence/conspiracy/celebrities/shelley-winters.md	Shelley Winters: Investigation into Hollywood Identity and Name Change	2026-04-27T10:29:07-04:00
+influence/conspiracy/celebrities/sheila-florance.md	Sheila Florance: Investigation into Australian Identity and Prisoner	2026-04-27T10:29:07-04:00
+influence/conspiracy/celebrities/ruth-gordon.md	Ruth Gordon: Investigation into Hollywood Identity and Late-Career Ascent	2026-04-27T10:29:07-04:00
+influence/conspiracy/celebrities/richard-askwith.md	Richard Askwith: Investigation into British Establishment and Narrative Influence	2026-04-27T10:29:07-04:00
+influence/conspiracy/celebrities/prince.md	Prince: Investigation into Androgyny, Death, and Identity	2026-04-27T10:29:07-04:00
+influence/conspiracy/celebrities/golda.md	Golda Meir: Investigation into Identity, British Orchestration, and Israel's Creation	2026-04-27T10:29:07-04:00
+influence/conspiracy/celebrities/gandhi.md	Gandhi: Investigation into British Loyalty, Racial Attitudes, and Assassination	2026-04-27T10:29:07-04:00
+influence/conspiracy/celebrities/gal-gadot.md	Gal Gadot: Investigation into IDF Service, Hollywood Ascent, and Israeli Narrative	2026-04-27T10:29:07-04:00
+influence/conspiracy/celebrities/bruce-lee.md	Bruce Lee: Investigation into Death, Identity, Wing Chun, and British Suppression of Female Martial Arts	2026-04-27T10:29:07-04:00
+influence/conspiracy/celebrities/brett-gelman.md	Brett Gelman: Investigation into Conspiracy-Theorist Persona and Hollywood Encoding	2026-04-27T10:29:07-04:00
+influence/conspiracy/celebrities/brandy-vaughan.md	Brandy Vaughan: Investigation into Death of Merck Whistleblower and Anti-Vax Activist	2026-04-27T10:29:07-04:00
+influence/conspiracy/achat.md	achat	2026-04-27T10:29:07-04:00
+influence/censorship/f.md	f	2026-04-27T10:29:07-04:00
+history/thunderbolts-forum-archives.md	Thunderbolts Forum Deletions — Evidence Archive	2026-04-27T10:29:07-04:00
+history/requerimiento-dating.md	Requerimiento 1513 Dating — Investigation	2026-04-27T10:29:07-04:00
+history/other_refs/index-other-references.md	Other Reference Texts — Index	2026-04-27T10:29:07-04:00
+history/maps/map_tartaria_hondius.md	map tartaria hondius	2026-04-27T10:29:07-04:00
+history/maps/chat_maps.md	chat maps	2026-04-27T10:29:07-04:00
+history/kinkel/nenovsky_Kinkel_EJHET_2015.md	Ivan Kinkel's (1883–1945) Theory of Economic Development	2026-04-27T10:29:07-04:00
+history/kinkel/johanna-kinkel.md	Johanna Kinkel (1810–1858)	2026-04-27T10:29:07-04:00
+history/kinkel/index-ivan-kinkel-sources.md	Ivan Kinkel — Sources Index	2026-04-27T10:29:07-04:00
+history/kinkel/index-de-jonge-gottfried-kinkel.md	Gottfried Kinkel as Political and Social Thinker — Index	2026-04-27T10:29:07-04:00
+history/kinkel/gottfried-kinkel.md	Gottfried Kinkel (1815–1882)	2026-04-27T10:29:07-04:00
+history/kinkel/dickens.md	dickens	2026-04-27T10:29:07-04:00
+history/joan_of_arc/naming-history.md	Joan of Arc Naming History — Investigation	2026-04-27T10:29:07-04:00
+history/chronology/tartaria/painting_joan_of_arc_stake.md	painting joan of arc stake	2026-04-27T10:29:07-04:00
+history/chronology/tartaria/map_1754_tartaria.md	map 1754 tartaria	2026-04-27T10:29:07-04:00
+history/chronology/tartaria/israel_fake_history.md	israel fake history	2026-04-27T10:29:07-04:00
+history/chronology/tartaria/galileo_facing_the_inquisition.md	galileo facing the inquisition	2026-04-27T10:29:07-04:00
+history/chronology/tartaria/frankenstein.md	frankenstein	2026-04-27T10:29:07-04:00
+history/chronology/tartaria/eight_pointed_star_and_crescent.md	eight pointed star and crescent	2026-04-27T10:29:07-04:00
+history/chronology/tartaria/chronology.md	Reasons the Roman Empire never existed	2026-04-27T10:29:07-04:00
+history/chronology/tartaria/_time_warp.md	 time warp	2026-04-27T10:29:07-04:00
+history/chronology/saturn/prometheus.md	prometheus	2026-04-27T10:29:07-04:00
+history/chronology/saturn/events.md	events	2026-04-27T10:29:07-04:00
+history/chronology/saturn/chat_saturnian_cosmology.md	chat saturnian cosmology	2026-04-27T10:29:07-04:00
+history/chronology/saturn/cathoderal.md	cathoderal	2026-04-27T10:29:07-04:00
+history/chronology/saturn/a.md	a	2026-04-27T10:29:07-04:00
+history/chronology/pyramids/pyramiden_splitsbergen_1928.md	pyramiden splitsbergen 1928	2026-04-27T10:29:07-04:00
+history/chronology/jerusalem/troy_protected_from_mars_by_antonio_raffaele_calliano_1815.md	troy protected from mars by antonio raffaele calliano 1815	2026-04-27T10:29:07-04:00
+history/chronology/jerusalem/kremlin_2nd_jerusalem_boris_godunov.md	kremlin 2nd jerusalem boris godunov	2026-04-27T10:29:07-04:00
+history/chronology/investigations/wells-crystal-egg-1666-beast-speculation.md	Investigation (speculative): Crystal Eggs, Mass Influence, and 1666 — *The Crystal Egg* as Cover Story?	2026-04-27T10:29:07-04:00
+history/chronology/investigations/slow-ecological-collapse-mfee-through-donner-era.md	Investigation (speculative): Slow ecological collapse — MFEE through the Donner era	2026-04-27T10:29:07-04:00
+history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-chapter-summaries.md	*The Guide to Pyramid Energy* — Bill Kerrell & Kathy Goggin (Forces, Santa Monica, 1977)	2026-04-27T10:29:07-04:00
+history/chronology/investigations/jewish-press-revolutionary-russia-verified-quotations.md	Investigation: Jewish Press on Revolutionary Russia — Verified Quotations Only	2026-04-27T10:29:07-04:00
+history/chronology/investigations/index-offenbarung.md	Die Offenbarung Johannis — English Index	2026-04-27T10:29:07-04:00
+history/chronology/investigations/gnostic-vs-agnostic-theism-atheism-after-planet-gods.md	Investigation: Gnosis vs Agnosticism — Theism, Atheism, and Post–Planet-God Religion	2026-04-27T10:29:07-04:00
+history/chronology/investigations/GOLDEN_AGE_ADDITIONS_REPORT.md	Golden Age Additions Report	2026-04-27T10:29:07-04:00
+history/chronology/deep-state-terminology.md	Deep State / Pyramidal Empire / Fallen Atlantean Empire — terminology	2026-04-27T10:29:07-04:00
+history/chronology/creation-dates-validation.md	Investigation: Validation of Jno Cook's Creation Date Claims	2026-04-27T10:29:07-04:00
+history/chronology/christ/twelve_tribes_zodiac.md	twelve tribes zodiac	2026-04-27T10:29:07-04:00
+history/chronology/christ/son_of_man.md	son of man	2026-04-27T10:29:07-04:00
+history/chronology/christ/merton.md	merton	2026-04-27T10:29:07-04:00
+history/chronology/christ/crucifixion_descent_tintoretto_1565.md	crucifixion descent tintoretto 1565	2026-04-27T10:29:07-04:00
+history/chronology/christ/chat_christ.md	chat christ	2026-04-27T10:29:07-04:00
+governance/war/investigations/pitcairn-island-timeline.md	Pitcairn Island — timeline of events	2026-04-27T10:29:07-04:00
+governance/war/bombings/f.md	f	2026-04-27T10:29:07-04:00
+governance/usury/e.md	e	2026-04-27T10:29:07-04:00
+governance/usury/dead_at_sea.md	dead at sea	2026-04-27T10:29:07-04:00
+governance/usury/d.md	d	2026-04-27T10:29:07-04:00
+governance/usury/chat_usury.md	chat usury	2026-04-27T10:29:07-04:00
+governance/genocide/palestine/a.md	a	2026-04-27T10:29:07-04:00
+governance/genocide/giants_faeries/giant_books.md	giant books	2026-04-27T10:29:07-04:00
+governance/genocide/giants_faeries/faeries.md	faeries	2026-04-27T10:29:07-04:00
+governance/genocide/achat.md	achat	2026-04-27T10:29:07-04:00
+governance/genocide/a.md	a	2026-04-27T10:29:07-04:00
+governance/genocide/Predictive_Programming_Archon_Defender_2009.md	Predictive Programming Archon Defender 2009	2026-04-27T10:29:07-04:00
+events/jfk/prophet.md	prophet	2026-04-27T10:29:07-04:00
+events/false_flag/a.md	a	2026-04-27T10:29:07-04:00
+events/apollo/zmoon.md	zmoon	2026-04-27T10:29:07-04:00
+events/apollo/questions.md	questions	2026-04-27T10:29:07-04:00
+events/apollo/gus.md	gus	2026-04-27T10:29:07-04:00
+events/apollo/a.md	a	2026-04-27T10:29:07-04:00
+cosmos/venus/investigations/index-venus.md	Venus Investigations — Index	2026-04-27T10:29:07-04:00
+cosmos/pluto/investigations/index-pluto.md	Pluto Investigations — Index	2026-04-27T10:29:07-04:00
+cosmos/mars/wotw/motive.md	motive	2026-04-27T10:29:07-04:00
+cosmos/mars/wotw/a.md	a	2026-04-27T10:29:07-04:00
+cosmos/mars/tripod/a.md	a	2026-04-27T10:29:07-04:00
+cosmos/mars/investigations/wotw.md	The War of the Worlds	2026-04-27T10:29:07-04:00
+cosmos/mars/investigations/wotw-telepathic-purge.md	The Telepathic Purge: A Pattern Across Mars Fiction	2026-04-27T10:29:07-04:00
+cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md	Death on Mars: The MFEE and the Nuclear Massacre	2026-04-27T10:29:07-04:00
+cosmos/mars/investigations/wotw-forbidden-blood.md	The Forbidden Blood: Human Blood-Feeding as Discipline Collapse	2026-04-27T10:29:07-04:00
+cosmos/mars/investigations/arnold-gullivar-jones-reference.md	Lieut. Gullivar Jones: His Vacation — Reference Document	2026-04-27T10:29:07-04:00
+cosmos/mars/death-on-mars-analysis.md	Death on Mars Book Analysis	2026-04-27T10:29:07-04:00
+cosmos/mars/burroughs_barsoom/warlord-of-mars-index.md	The Warlord of Mars — Clue Index	2026-04-27T10:29:07-04:00
+cosmos/mars/burroughs_barsoom/thuvia-maid-of-mars-index.md	Thuvia, Maid of Mars — Clue Index	2026-04-27T10:29:07-04:00
+cosmos/mars/burroughs_barsoom/princess-of-mars-index.md	A Princess of Mars — Clue Index	2026-04-27T10:29:07-04:00
+cosmos/mars/burroughs_barsoom/master-mind-of-mars-index.md	The Master Mind of Mars — Clue Index	2026-04-27T10:29:07-04:00
+cosmos/mars/burroughs_barsoom/gods-of-mars-index.md	The Gods of Mars — Clue Index	2026-04-27T10:29:07-04:00
+cosmos/mars/burroughs_barsoom/fighting-man-of-mars-index.md	A Fighting Man of Mars — Clue Index	2026-04-27T10:29:07-04:00
+cosmos/mars/burroughs_barsoom/chessmen-of-mars-index.md	The Chessmen of Mars — Clue Index	2026-04-27T10:29:07-04:00
+cosmos/flat_earth/co.md	co	2026-04-27T10:29:07-04:00
+cosmos/cosmology/saturnian/index-thunderbolts.md	thunderbolts.info — Site Index	2026-04-27T10:29:07-04:00
+cosmos/cosmology/saturnian/index-saturniancosmology.md	saturniancosmology.org — Site Index	2026-04-27T10:29:07-04:00
+cosmos/cosmology/saturnian/index-safireproject.md	SAFIRE Project — Site Index	2026-04-27T10:29:07-04:00
+cosmos/cosmology/saturnian/index-mythsarehistory.md	www.mythsarehistory.com — Site Index	2026-04-27T10:29:07-04:00
+cosmos/cosmology/hollow_earth/hollow_earth_chat.md	hollow earth chat	2026-04-27T10:29:07-04:00
+cosmos/cosmology/hollow_earth/ANNAS_ARCHIVE_DOWNLOADS_INDEX.md	Anna's Archive — Hollow Earth Downloads Index	2026-04-27T10:29:07-04:00
+cosmos/cosmology/hollow_earth/A.md	A	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/velikovsky-affair.md	The Velikovsky Affair: Scientism vs. Science	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/solaria-binaria.md	Solaria Binaria: Origins of the Sun and Its Planets	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/recollections-fallen-sky.md	Recollections of a Fallen Sky: Velikovsky and Cultural Amnesia	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/q-intro.md	Quantavolution and Catastrophe: Introduction to the Series & Q-C Test	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/lately-tortured-earth.md	Lately Tortured Earth: Exoterrestrial Forces and Quantavolution in the Solar System	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/ka.md	KA: A Handbook of Mythology, Sacred Practices, Electrical Phenomena, and Their Linguistic Connections in the Ancient Mediterranean World	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/iron-age-of-mars.md	The Iron Age of Mars	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/homo-schizo-ii.md	Homo Schizo II: Human Nature and Behavior	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/homo-schizo-i.md	Homo Schizo I: Human and Cultural Hologenesis	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/gods-fire.md	God's Fire: Moses and the Management of Exodus	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/fire-not-blown.md	A Fire Not Blown	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/divine-succession.md	The Divine Succession: A Science of Gods Old and New	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/disastrous-love-affair.md	The Disastrous Love Affair of Moon and Mars	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/cosmic-heretics.md	Cosmic Heretics	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/chaos-and-creation.md	Chaos and Creation	2026-04-27T10:29:07-04:00
+cosmos/cosmology/de_grazia/books/burning-of-troy.md	The Burning of Troy	2026-04-27T10:29:07-04:00
+blog/2026-04-03-prester-john-religious-edition-brand-slogans.md	Prester John NC dossier; *Jacob’s Ladder* / Eckhart & Cathar–Khazar suppression; Chronologia perspective; religious edition; brand & site — April 3, 2026	2026-04-27T10:29:07-04:00
+blog/2026-03-30-github-ban-gitlab-migration-and-repo-updates.md	GitHub account and 72 repos deleted; GitLab migration; Swift / *Gulliver* Mars dossier and site index updates	2026-04-27T10:29:07-04:00
+blog/2026-03-28-timeline-tldr-appendix-split-investigations-site.md	Book TL;DR sweep, appendix split (XVI–XXII), war and fiction investigations, exports, site reader	2026-04-27T10:29:07-04:00
+blog/2026-03-23-timeline-files-site-update.md	Golden Age rollout, MFEE appendices, investigations, and site/TTS polish	2026-04-27T10:29:07-04:00
+blog/2026-03-20-timeline-update.md	Radiocarbon Dating Investigation + Timeline Updates	2026-04-27T10:29:07-04:00
+blog/2026-03-17-authors-cataclysm-controlled-opposition.md	Authors Who Read Cataclysm + Controlled Opposition Theory	2026-04-27T10:29:07-04:00
+blog/2026-03-16-cia-investigation-timeline-article.md	CIA Investigation and Timeline Article	2026-04-27T10:29:07-04:00
+blog/2026-03-14-soul-science-israel-divide-conquer-investigations.md	Soul Science, Israel Divide-and-Conquer, and Chronology Investigations	2026-04-27T10:29:07-04:00
+blog/2026-03-12-content-update.md	Content Update: Identity Investigations, Tornado Thesis, Ed Wood, Hairy Mary, and Reorganization	2026-04-27T10:29:07-04:00
+blog/2026-03-11-timeline-update.md	Timeline Update: Stolen Credit Suite, Yakuza Investigation, Site SSR, and TTS Improvements	2026-04-27T10:29:07-04:00
+blog/2026-03-10-timeline-update.md	Timeline Update: Content Reduction, Fiction-Encoding Investigations, Arthurian Cosmology, and New Appendix Overflow	2026-04-27T10:29:07-04:00
+blog/2026-03-09-timeline-update.md	Timeline Update: Six Wars, World Wars, Trump, Pyramids, Seven Days, Population Control, and Major Restructuring	2026-04-27T10:29:07-04:00
+blog/2026-03-05-timeline-update.md	Timeline Update: Flexner Report, Weather Control, CERN, Mars Literature, Asimov, and 38 New Investigations	2026-04-27T10:29:07-04:00
+blog/2026-03-03-timeline-update.md	Timeline Update: Investigations Library, Maxwell & the Aether, Nuclear Myths, Browser Mode, and 13 New Articles	2026-04-27T10:29:07-04:00
+blog/2026-03-01-timeline-update.md	Timeline Update: Massive Condensation, Mars Catastrophe, Operation Mockingbird, and PDF Shrinks to 420 Pages	2026-04-27T10:29:07-04:00
+blog/2026-02-28-timeline-update.md	Timeline Update: New Chapters 13–15, Ch11 Reorganization, 3-Tier Export Hierarchy, and Animation Module	2026-04-27T10:29:07-04:00
+blog/2026-02-27-timeline-update.md	Timeline Update: Chapter Consolidation, New Articles, Print-Ready PDF, and Chronological Corrections	2026-04-27T10:29:07-04:00
+blog/2026-02-26-timeline-update.md	Timeline Update: Author Profiles, Third Story, Core Concepts, and Major Restructure	2026-04-27T10:29:07-04:00
+blog/2026-02-25-timeline-update.md	Timeline Update: New Articles, Restructure, and a Media Audit	2026-04-27T10:29:07-04:00
+blog/2026-02-24-timeline-update.md	Timeline Update: Atlantis Investigation, Joan of Arc, and the Absu	2026-04-27T10:29:07-04:00
+blog/2026-02-22-new-timeline-project.md	A Dedicated Timeline for Earth's Hidden History	2026-04-27T10:29:07-04:00
+blog/2026-02-21-pre-launch-buildup.md	February 21, 2026: Pre-Launch Build — Media, Structure, and Content	2026-04-27T10:29:07-04:00
+blog/2026-01-31-january-2026-project-beginnings.md	January 2026: Timeline Project Begins, paradigm-threat-files Refactor	2026-04-27T10:29:07-04:00
+blog/2025-09-30-paradigm-threat-files-launch.md	September 2025: paradigm-threat-files Repository Created	2026-04-27T10:29:07-04:00
+blog/2024-12-31-2024-h2-events-year-end.md	2024 H2: 9/11 Theory, Chat Fixes, and Year-End Updates	2026-04-27T10:29:07-04:00
+blog/2024-06-30-2024-h1-vercel-chronology-investigations.md	2024 H1: Vercel, Chronology, Mars, and Investigations	2026-04-27T10:29:07-04:00
+blog/2023-10-31-paradigm-threat-site-launch.md	October 2023: Paradigm Threat Site Launches	2026-04-27T10:29:07-04:00
+blog/2023-04-30-2023-q1-q2-asset-overhaul.md	2023 Q1–Q2: Asset Overhaul and Final Old2 Iteration	2026-04-27T10:29:07-04:00
+blog/2022-11-30-2022-old2-sources-content.md	2022: paradigm-threat-old2 Rebuild, Sources Submodule, and Content Expansion	2026-04-27T10:29:07-04:00
+blog/2021-11-30-2020-2021-paradigm-threat-old.md	2020–2021: paradigm-threat-old — Project Beginnings and Maintenance	2026-04-27T10:29:07-04:00
+hooks/CLEVERSCRIPT_TIP.md	CleverScript tip hygiene (paradigm-threat-files)

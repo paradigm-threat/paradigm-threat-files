@@ -1,10 +1,10 @@
 /**
  * Thin ChangeLog matching live paradigmthreat.net tabs + card/feed styles.
  * CSS radio tabs (no setState — CleverScript setState re-renders the article).
- * Dates from Relay QUERY `_updated` (+ blog path publish date).
+ * Dates from nav-index `_updated` column (+ blog path publish date).
  */
 import React from 'react'
-import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
+import { loadArticleRows, rowPath, rowTitle, rowUpdated, siteHref } from 'hooks/client/loadArticles.jsx'
 
 function basename(path) {
   const parts = path.split('/')
@@ -171,8 +171,9 @@ function buildBuckets(limit) {
     const kind = classifyPath(path)
     if (kind !== 'exclude') {
       const fromPath = dateFromBasename(path)
+      const fromNav = rowUpdated(rows[i])
       const published = kind === 'blog' ? publishedFromBlogPath(path) : ''
-      const updatedAt = fromPath
+      const updatedAt = fromNav.length > 0 ? fromNav : fromPath
       const item = {
         path: path,
         title: rowTitle(rows[i]),
@@ -201,6 +202,8 @@ function buildBuckets(limit) {
     recent: recent,
   }
 }
+
+const LOGO_URL = 'https://paradigmthreat.net/site/favicon.svg'
 
 function contentCard(item, tabId, idx) {
   const title = item.title
@@ -239,6 +242,9 @@ function contentCard(item, tabId, idx) {
   return (
     <li key={'cl-card-' + tabId + '-' + idx} className="pt-cl-card-item">
       <a href={item.href} className="pt-cl-card">
+        <div className="pt-cl-card-media" aria-hidden="true">
+          <img src={LOGO_URL} alt="" className="pt-cl-card-thumb-logo" />
+        </div>
         <div className="pt-cl-card-body">
           <h3 className="pt-cl-card-title">{title}</h3>
           {dates}
@@ -259,7 +265,9 @@ function recentEntry(item, idx) {
   const file = basename(item.path)
   return (
     <li key={'cl-recent-' + idx} className="pt-cl-entry">
-      <div className="pt-cl-entry-thumb" aria-hidden="true" />
+      <div className="pt-cl-entry-thumb" aria-hidden="true">
+        <img src={LOGO_URL} alt="" className="pt-cl-entry-logo" />
+      </div>
       <div className="pt-cl-entry-body">
         <div className="pt-cl-entry-title">{line}</div>
         <div className="pt-cl-entry-file">
@@ -318,9 +326,12 @@ function tabCss() {
     '.pt-cl-cards{display:flex;flex-direction:column;gap:0.75rem;}' +
     '.pt-cl-card-item{margin:0;list-style:none;}' +
     '.pt-cl-card{display:flex;gap:0.75rem;align-items:flex-start;padding:0.65rem 0.75rem;' +
-    'border-radius:0.5rem;border:1px solid #334155;background:rgba(15,23,42,0.5);' +
-    'text-decoration:none;color:inherit;}' +
-    '.pt-cl-card:hover{border-color:#a78bfa;}' +
+    'border-radius:0.5rem;border:1px solid rgba(203,213,225,0.7);background:rgba(255,255,255,0.6);' +
+    'text-decoration:none;color:inherit;transition:border-color 0.15s ease,box-shadow 0.15s ease;}' +
+    '.pt-cl-card:hover{border-color:#8b5cf6;box-shadow:0 2px 8px rgba(15,23,42,0.06);}' +
+    '.pt-cl-card-media{flex-shrink:0;}' +
+    '.pt-cl-card-thumb-logo{width:4.5rem;height:4.5rem;border-radius:0.25rem;border:1px solid #cbd5e1;' +
+    'object-fit:contain;padding:0.2rem;background:#f8fafc;}' +
     '.pt-cl-card-body{min-width:0;flex:1;}' +
     '.pt-cl-card-title{margin:0 0 0.2rem;font-size:1rem;font-weight:700;line-height:1.3;color:#f8fafc;}' +
     '.pt-cl-card-dates{display:flex;flex-direction:column;gap:0.1rem;margin-bottom:0.35rem;}' +
@@ -330,7 +341,8 @@ function tabCss() {
     '.pt-cl-feed{display:flex;flex-direction:column;gap:0.65rem;}' +
     '.pt-cl-entry{display:flex;gap:0.75rem;align-items:flex-start;margin:0;list-style:none;}' +
     '.pt-cl-entry-thumb{flex-shrink:0;width:3.5rem;height:3.5rem;border-radius:0.25rem;' +
-    'border:1px solid #334155;background:#0f172a;}' +
+    'border:1px solid #cbd5e1;background:#f8fafc;display:flex;align-items:center;justify-content:center;}' +
+    '.pt-cl-entry-logo{width:2.75rem;height:2.75rem;object-fit:contain;}' +
     '.pt-cl-entry-body{min-width:0;flex:1;font-size:0.875rem;color:#e2e8f0;}' +
     '.pt-cl-entry-title{margin:0 0 0.15rem;line-height:1.35;}' +
     '.pt-cl-entry-file{font-size:0.8125rem;opacity:0.85;}' +

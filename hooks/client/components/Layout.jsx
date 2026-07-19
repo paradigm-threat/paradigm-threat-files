@@ -7,9 +7,18 @@ import { siteHref } from 'hooks/client/loadArticles.jsx'
 
 export default function Layout(props) {
   const path = propStr(props, 'filePath', 'README.md')
+  const hideToolbar = propOr(props, 'hideToolbar', false)
   const onUp = propOr(props, 'onUp', null)
   const onHome = propOr(props, 'onHome', null)
   const children = props.children
+
+  if (hideToolbar === true) {
+    return (
+      <div className="pt-layout pt-layout-home" id="layout">
+        <div className="pt-article-body">{children}</div>
+      </div>
+    )
+  }
 
   return (
     <div className="pt-layout" id="layout">

@@ -187,6 +187,11 @@ export default function ArticleView(props) {
   const neighbors = neighborPaths(pathPart)
   const prevHref = neighbors.prev.length > 0 ? siteHref('/' + neighbors.prev) : ''
   const nextHref = neighbors.next.length > 0 ? siteHref('/' + neighbors.next) : ''
+  const hideToolbar =
+    currentPath === '/' ||
+    currentPath === '/index.md' ||
+    currentPath === '/page.md' ||
+    pathPart === 'page.md'
 
   function renderAutoIndex(p) {
     let pathAttr = ''
@@ -208,6 +213,7 @@ export default function ArticleView(props) {
           <div className="pt-column-main">
             <Layout
               filePath={pathPart}
+              hideToolbar={hideToolbar}
               onUp={() => {
                 navigateFile(parentDir(routePath, slash))
               }}

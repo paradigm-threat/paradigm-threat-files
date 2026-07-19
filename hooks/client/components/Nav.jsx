@@ -1,22 +1,67 @@
 import React, { useState } from 'react'
 import ThemeToggle from 'hooks/client/components/ThemeToggle.jsx'
 import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
-import { IconBook, IconClose, IconHome, IconMenu, IconSearch } from 'hooks/client/components/Icons.jsx'
+import {
+  IconClock,
+  IconClose,
+  IconHeart,
+  IconHome,
+  IconMenu,
+  IconMessage,
+  IconRss,
+  IconSearch,
+  IconVideo,
+} from 'hooks/client/components/Icons.jsx'
 import { propOr, propStr } from 'hooks/client/propOr.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
+
+const WORDMARK_URL = 'https://paradigmthreat.net/site/header.png'
+const MARK_URL = 'https://paradigmthreat.net/site/favicon.svg'
 
 function NavLink(props) {
   const href = propStr(props, 'href', '#')
   const label = propStr(props, 'label', '')
   const icon = propOr(props, 'icon', null)
   const active = propOr(props, 'active', false)
+  const external = propOr(props, 'external', false)
   const className = active ? 'pt-nav-link pt-nav-link-active' : 'pt-nav-link'
   return (
-    <a href={siteHref(href)} className={className}>
+    <a
+      href={href}
+      className={className}
+      target={external ? '_blank' : undefined}
+      rel={external ? 'noopener noreferrer' : undefined}
+    >
       {icon}
       <span>{label}</span>
     </a>
   )
+}
+
+function renderNavLinks(links, prefix) {
+  let out = []
+  for (let i = 0; i < links.length; i++) {
+    const link = links[i]
+    let active = false
+    try {
+      if (link.active === true) active = true
+    } catch (e) {}
+    let external = false
+    try {
+      if (link.external === true) external = true
+    } catch (e) {}
+    out = out.concat([
+      <NavLink
+        key={prefix + i}
+        href={link.href}
+        label={link.label}
+        icon={link.icon}
+        active={active}
+        external={external}
+      />,
+    ])
+  }
+  return out
 }
 
 export default function Nav(props) {
@@ -33,30 +78,65 @@ export default function Nav(props) {
         currentPath === '/page.md'
       )
     }
+    if (href === '/search') return currentPath === '/search'
     if (href === '/articles') {
       return currentPath === '/articles' || currentPath === '/README.md'
     }
     return currentPath === href
   }
 
+  const navLinks = [
+    { href: siteHref('/search'), label: 'Search', icon: <IconSearch />, active: isActive('/search') },
+    { href: siteHref('/'), label: 'Home', icon: <IconHome />, active: isActive('/') },
+    {
+      href: 'https://paradigm-threat-timeline.dfw1.relaygateway.net/',
+      label: 'Timeline',
+      icon: <IconClock />,
+      external: true,
+    },
+    {
+      href: 'https://paradigmthreat.net/chat',
+      label: 'Chat',
+      icon: <IconMessage />,
+      external: true,
+    },
+    {
+      href: 'https://paradigmthreat2.substack.com/',
+      label: 'Substack',
+      icon: <IconRss />,
+      external: true,
+    },
+    {
+      href: 'https://www.bitchute.com/channel/paradigmthreat',
+      label: 'Videos',
+      icon: <IconVideo />,
+      external: true,
+    },
+    {
+      href: 'https://www.patreon.com/c/ahsctimeline',
+      label: 'Donate',
+      icon: <IconHeart />,
+      external: true,
+    },
+  ]
+
   return (
     <header className="pt-site-nav" data-site-navbar="true">
       <div className="pt-nav-inner">
         <div className="pt-nav-brand-row">
-          <a href={siteHref('/')} className="pt-brand">
-            Paradigm Threat
+          <a href={siteHref('/')} className="pt-brand pt-brand-link">
+            <picture>
+              <source media="(max-width: 350px)" srcSet={MARK_URL} />
+              <img
+                src={WORDMARK_URL}
+                alt="Paradigm Threat"
+                className="pt-brand-img"
+              />
+            </picture>
+            <span className="pt-brand-fallback">Paradigm Threat</span>
           </a>
           <nav className="pt-nav-desktop md:pt-nav-desktop-md">
-            <NavLink href="/" label="Home" icon={<IconHome />} active={isActive('/')} />
-            <NavLink href="/search" label="Search" icon={<IconSearch />} active={isActive('/search')} />
-            <NavLink href="/articles" label="Files" icon={<IconBook />} active={isActive('/articles')} />
-            <a
-              className="pt-nav-link"
-              href="https://paradigm-threat-timeline.dfw1.relaygateway.net/"
-              rel="noopener noreferrer"
-            >
-              <span>Timeline</span>
-            </a>
+            {renderNavLinks(navLinks, 'nav-d-')}
           </nav>
         </div>
         <div className="pt-nav-actions">
@@ -86,16 +166,7 @@ export default function Nav(props) {
             <FeelingLucky />
           </div>
           <nav className="pt-nav-mobile-links">
-            <NavLink href="/" label="Home" icon={<IconHome />} active={isActive('/')} />
-            <NavLink href="/search" label="Search" icon={<IconSearch />} active={isActive('/search')} />
-            <NavLink href="/articles" label="Files" icon={<IconBook />} active={isActive('/articles')} />
-            <a
-              className="pt-nav-link"
-              href="https://paradigm-threat-timeline.dfw1.relaygateway.net/"
-              rel="noopener noreferrer"
-            >
-              <span>Timeline</span>
-            </a>
+            {renderNavLinks(navLinks, 'nav-m-')}
           </nav>
         </div>
       ) : null}

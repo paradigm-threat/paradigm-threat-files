@@ -52,6 +52,14 @@ export function rowTitle(row) {
   return 'Untitled'
 }
 
+export function rowUpdated(row) {
+  if (!row) return ''
+  try {
+    if (row._updated && typeof row._updated === 'string') return row._updated
+  } catch (e) {}
+  return ''
+}
+
 function tryGetText(url) {
   try {
     const resp = fetch(url, { method: 'GET' })
@@ -62,7 +70,7 @@ function tryGetText(url) {
   }
 }
 
-/** Parse `path\\ttitle` lines — no JSON.parse (missing in some CS module envs). */
+/** Parse `path\\ttitle\\tupdatedIso` lines — no JSON.parse (missing in some CS module envs). */
 function rowsFromNavText(text) {
   let out = []
   if (!text || text.length === 0) return out
@@ -73,13 +81,22 @@ function rowsFromNavText(text) {
     const tab = line.indexOf('\t')
     let path = line
     let title = line
+    let updated = ''
     if (tab >= 0) {
       path = line.slice(0, tab)
-      title = line.slice(tab + 1)
+      const tab2 = line.indexOf('\t', tab + 1)
+      if (tab2 >= 0) {
+        title = line.slice(tab + 1, tab2)
+        updated = line.slice(tab2 + 1)
+      } else {
+        title = line.slice(tab + 1)
+      }
     }
     if (path.length < 4) continue
     if (path.slice(path.length - 3).toLowerCase() !== '.md') continue
-    out = out.concat([{ path: path, title: title, content_kind: 'article' }])
+    const row = { path: path, title: title, content_kind: 'article' }
+    if (updated.length > 0) row._updated = updated
+    out = out.concat([row])
   }
   return out
 }
