@@ -1,18 +1,17 @@
 /**
  * Gallery state singleton.
- * CleverScript: module-level `const` objects are Undefined inside nested fn bodies —
- * keep the store on `document` instead. Avoid encodeURIComponent / charCodeAt / window.
+ * CleverScript: module-level `const` object bindings read as Undefined inside
+ * nested `function` bodies — use lazy `let` init instead. Avoid encodeURIComponent /
+ * charCodeAt / window.
  */
 
+let store = null
+
 function root() {
-  let s = null
-  try {
-    s = document.__ptGallery
-  } catch (e) {
-    s = null
+  if (store) {
+    return store
   }
-  if (s) return s
-  s = {
+  store = {
     images: [],
     override: null,
     index: -1,
@@ -20,19 +19,16 @@ function root() {
     rev: 0,
     listeners: [],
   }
-  try {
-    document.__ptGallery = s
-  } catch (e2) {}
-  return s
+  return store
 }
 
 function emit() {
-  const store = root()
-  store.rev = store.rev + 1
-  const list = store.listeners
+  const s = root()
+  s.rev = s.rev + 1
+  const list = s.listeners
   for (let i = 0; i < list.length; i++) {
     try {
-      list[i](store.rev)
+      list[i](s.rev)
     } catch (e) {}
   }
 }
