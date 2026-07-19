@@ -94,8 +94,10 @@ function rowsFromNavText(text) {
     }
     if (path.length < 4) continue
     if (path.slice(path.length - 3).toLowerCase() !== '.md') continue
-    const row = { path: path, title: title, content_kind: 'article' }
-    if (updated.length > 0) row._updated = updated
+    let row = { path: path, title: title, content_kind: 'article' }
+    if (updated.length > 0) {
+      row = { path: path, title: title, content_kind: 'article', _updated: updated }
+    }
     out = out.concat([row])
   }
   return out
