@@ -75,7 +75,7 @@ export function registerGalleryImage(img) {
     img && typeof img.highResSrc === 'string' ? img.highResSrc : ''
   let children = null
   try {
-    if (img && img.children !== null && img.children !== undefined) {
+    if (img && img.children !== null) {
       children = img.children
     }
   } catch (e) {}
@@ -100,7 +100,7 @@ export function syncGalleryImageMeta(img) {
           : prev.highResSrc
       let children = prev.children
       try {
-        if (img && img.children !== null && img.children !== undefined) {
+        if (img && img.children !== null) {
           children = img.children
         }
       } catch (e) {}
@@ -174,11 +174,7 @@ export function openGallery(items, startIndex) {
           : ''
       let children = null
       try {
-        if (
-          items[i] &&
-          items[i].children !== null &&
-          items[i].children !== undefined
-        ) {
+        if (items[i] && items[i].children !== null) {
           children = items[i].children
         }
       } catch (e) {}

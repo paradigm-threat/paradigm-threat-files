@@ -48,7 +48,7 @@ function renderPopImage(p) {
     if (p && typeof p.highResSrc === 'string') highResSrc = p.highResSrc
   } catch (e) {}
   try {
-    if (p && p.children !== null && p.children !== undefined) children = p.children
+    if (p && p.children !== null) children = p.children
   } catch (e) {}
   return (
     <PopImage
@@ -266,7 +266,7 @@ export default function ArticleView(props) {
                   {/* Keep hydrate-only theme classes in the SSR used-class set. */}
                   <span
                     aria-hidden="true"
-                    style={{ display: 'none' }}
+                    hidden={true}
                     className="pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item"
                     data-pt-md-css="true"
                   />

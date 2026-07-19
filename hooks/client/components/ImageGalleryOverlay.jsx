@@ -21,7 +21,7 @@ import {
 function captionFor(img) {
   if (!img) return ''
   try {
-    if (img.children !== null && img.children !== undefined) {
+    if (img.children !== null) {
       if (typeof img.children === 'string') return img.children
     }
   } catch (e) {}

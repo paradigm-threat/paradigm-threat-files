@@ -24,7 +24,7 @@ export default function PopImage(props) {
   const highResSrc = str(prop(props, 'highResSrc', ''))
   let children = null
   try {
-    if (props && props.children !== null && props.children !== undefined) {
+    if (props && props.children !== null) {
       children = props.children
     }
   } catch (e) {}

@@ -20,7 +20,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 ## Language subset
 
 - **Always brace** `for`, `while`, and `if` bodies — even one-liners.
-- **No bare `undefined` in JSX** — branch into separate elements instead of `prop={cond ? x : undefined}` (or use `omitUndefined` / `safeProps`).
+- **No bare `undefined` identifier** — pinned fleet WASM may predate the `undefined` binding. Use `null` checks + try/catch for missing props; `typeof x === 'undefined'` (string) is OK. Never write `!== undefined` / `=== undefined`.
 - **No regex literals** (`/…/`) — loop characters or host helpers instead.
 - **Do not mutate `const` objects** — rebuild with `let` when adding fields.
 - **No unary minus literals** in return positions (e.g. `return -1`); compare directly or use positive bounds.
