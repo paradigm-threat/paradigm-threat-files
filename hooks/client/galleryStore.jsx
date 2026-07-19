@@ -102,6 +102,7 @@ export function galleryRev() {
 export function gallerySubscribe(fn) {
   let last = galleryRev()
   let active = true
+  let timerId = null
   function tick() {
     if (!active) return
     const rev = galleryRev()
@@ -111,19 +112,15 @@ export function gallerySubscribe(fn) {
         fn(rev)
       } catch (e) {}
     }
-    try {
-      if (document && document.defaultView && document.defaultView.setTimeout) {
-        document.defaultView.setTimeout(tick, 80)
-        return
-      }
-    } catch (e2) {}
-    try {
-      setTimeout(tick, 80)
-    } catch (e3) {}
   }
-  tick()
+  try {
+    timerId = setInterval(tick, 80)
+  } catch (e) {}
   return () => {
     active = false
+    try {
+      if (timerId !== null) clearInterval(timerId)
+    } catch (e2) {}
   }
 }
 
