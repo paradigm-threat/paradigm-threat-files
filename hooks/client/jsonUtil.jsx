@@ -24,7 +24,7 @@ export function queryIndexBody(query, limit, order) {
   return body + '}'
 }
 
-/** CleverScript SSR: use JSON.parse directly (globalThis.JSON is unreliable). */
+/** CleverScript: prefer bare `JSON.parse` (Rust builtin). `globalThis.JSON` is mirrored too. */
 export function parseJson(text) {
   try {
     if (!text || text.length === 0) return null

@@ -30,7 +30,8 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - Nest tab radios in `<label>` (no `htmlFor`).
 - **No named function expressions** (`return function foo() {}`) — use arrows (`() => {}`).
 - **No `encodeURIComponent` / `charCodeAt` / `window`** — not in the CS allowlist (`document` + `globalThis` are). Prefer simple string loops.
-- **Module `const`/`let` bindings are Undefined inside nested `function` bodies** — hang shared mutable state on an **exported function object** (e.g. `galleryBag.s = …` via a lazy `S()` helper). Do **not** use `export const`, IIFE + `export default create()`, or module-level `const store` read from nested `function` bodies. Prefer top-level helpers or props for simpler cases (FontToggle).
+- **Module `const`/`let` bindings are Undefined inside nested `function` bodies** — do **not** keep shared mutable gallery/UI state in module bindings, `document.__foo` bags, or properties on export functions (those often do not stick). Prefer a real DOM bus (`#id` + `data-*` attributes) with **`JSON.stringify` / `JSON.parse`** (Rust builtins) and a short poll subscribe, or pass state via React props. Named `export function` only (no `export const`, no `export default create()`).
+- **`JSON.parse` / `JSON.stringify`** are first-class CleverScript builtins (injected by the runtime). Prefer bare `JSON.*` over hand-rolled escapes; `globalThis.JSON` is mirrored.
 - Theme CSS is **pruned to used `className`s** — keep a hidden marker vnode for classes only needed after client interaction (e.g. gallery overlay).
 
 ## SSR data
