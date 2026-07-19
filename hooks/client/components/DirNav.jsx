@@ -7,7 +7,31 @@ import {
 } from 'hooks/client/loadArticles.jsx'
 
 function folderLabel(name) {
-  return name.replace(/_/g, ' ')
+  let out = ''
+  for (let i = 0; i < name.length; i++) {
+    const c = name.charAt(i)
+    if (c === '_') out = out + ' '
+    else out = out + c
+  }
+  return out
+}
+
+function splitPath(path) {
+  let parts = []
+  let cur = ''
+  for (let i = 0; i < path.length; i++) {
+    const c = path.charAt(i)
+    if (c === '/') {
+      if (cur.length > 0) {
+        parts = parts.concat([cur])
+        cur = ''
+      }
+    } else {
+      cur = cur + c
+    }
+  }
+  if (cur.length > 0) parts = parts.concat([cur])
+  return parts
 }
 
 function insertPath(tree, parts, row) {
