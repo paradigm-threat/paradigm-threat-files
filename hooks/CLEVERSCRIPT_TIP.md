@@ -13,6 +13,7 @@ Thin tip code via **`@relay/*`** (registered on SSR + WASM):
 | `@relay/path` | `basename`, `dirname`, `join`, `split` |
 | `@relay/util` | `sortBy`, `take`, `prop`, `omitUndefined` |
 | `@relay/ui` | `cachedGet`, `Link`, `RadioTabs`, `safeProps` |
+| `@relay/tts` | `synthesize` (Piper WAV→data URL), `AudioPlayer` |
 
 ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`parse`/`now`, `Array#sort`/`slice` (return **new** arrays), `String#replaceAll`, `undefined`→`null`. Prefer `Date.from(iso)` over reinventing month tables; still no `new Date()`.
 

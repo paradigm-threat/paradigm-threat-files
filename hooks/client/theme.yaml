@@ -977,6 +977,51 @@ themes:
       ".pt-back-top-visible":
         display: "inline-flex"
         alignItems: "center"
+      ".pt-tts-dock":
+        position: "fixed"
+        left: "1rem"
+        right: "1rem"
+        bottom: "4.5rem"
+        zIndex: 85
+        display: "none"
+        flexDirection: "column"
+        gap: "0.35rem"
+        padding: "0.65rem 0.85rem"
+        borderRadius: "0.75rem"
+        borderWidth: 1
+        borderStyle: "solid"
+        borderColor: "var(border)"
+        backgroundColor: "var(secondary)"
+        boxShadow: "0 12px 28px rgba(15, 23, 42, 0.18)"
+        boxSizing: "border-box"
+        maxWidth: "28rem"
+        marginLeft: "auto"
+      ".pt-tts-dock-visible":
+        display: "flex"
+      ".pt-tts-dock-row":
+        display: "flex"
+        flexWrap: "wrap"
+        alignItems: "center"
+        gap: "0.4rem"
+      ".pt-tts-btn":
+        display: "inline-flex"
+        alignItems: "center"
+        justifyContent: "center"
+        padding: "0.35rem 0.75rem"
+        borderRadius: "9999px"
+        borderWidth: 0
+        backgroundColor: "var(primary)"
+        color: "var(primaryFg)"
+        fontSize: "0.8125rem"
+        fontWeight: "600"
+        cursor: "pointer"
+      ".pt-tts-status":
+        fontSize: "0.75rem"
+        color: "var(muted)"
+        marginLeft: "0.25rem"
+      ".pt-tts-err":
+        fontSize: "0.75rem"
+        color: "#b91c1c"
       ".pt-dir-head":
         display: "flex"
         alignItems: "center"

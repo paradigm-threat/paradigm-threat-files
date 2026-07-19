@@ -2,6 +2,7 @@ import React from 'react'
 import Nav from 'hooks/client/components/Nav.jsx'
 import ImageGalleryOverlay from 'hooks/client/components/ImageGalleryOverlay.jsx'
 import BackToTop from 'hooks/client/components/BackToTop.jsx'
+import ArticleTtsDock from 'hooks/client/components/ArticleTtsDock.jsx'
 import { propStr } from 'hooks/client/propOr.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
 import { Link } from '@relay/ui'
@@ -91,6 +92,7 @@ export default function SiteChrome(props) {
         </p>
       </footer>
       <ImageGalleryOverlay />
+      <ArticleTtsDock />
       <BackToTop />
     </div>
   )

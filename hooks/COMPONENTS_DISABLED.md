@@ -13,6 +13,7 @@ Hard custom markdown / site components are enabled incrementally on the thin par
 | ChatRoom-in-md | stub | Override returns hidden stub until chat lands on tip |
 | PopImage / gallery | **shipped** | `img`/`PopImage` overrides; gallery overlay; `#img=` hash; CSS used-class marker |
 | Floating dir / back-to-top | **shipped** | sticky `pt-dir-nav-lg`; `BackToTop` after scroll |
+| Article TTS dock | **shipped** | `@relay/tts` Piper synthesize + AudioPlayer; Play/Pause/Stop |
 | VisTimeline / maps / Three | deferred | Own routes / timeline tip |
 | Files `/timeline` subpath | deferred | External timeline host only |
 | `expandMdComponents.jsx` / `rewriteAssets.jsx` | pass-through | Re-enable rewrite when asset URL policy is stable |
