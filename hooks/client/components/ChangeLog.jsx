@@ -4,7 +4,6 @@
  * Dates from Relay QUERY `_updated` (+ blog path publish date).
  */
 import React from 'react'
-import { parseJson, queryIndexBody } from 'hooks/client/jsonUtil.jsx'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 
 function basename(path) {
@@ -117,8 +116,7 @@ function classifyPath(path) {
   return 'article'
 }
 
-function publishedFromBlogPath(path) {
-  if (!path || path.indexOf('blog/') !== 0) return ''
+function dateFromBasename(path) {
   const base = basename(path)
   if (base.length < 10) return ''
   if (base.charAt(4) !== '-' || base.charAt(7) !== '-') return ''
@@ -129,77 +127,9 @@ function publishedFromBlogPath(path) {
   return y + '-' + m + '-' + d + 'T12:00:00Z'
 }
 
-function rowUpdated(row) {
-  try {
-    if (row && row._updated && typeof row._updated === 'string') return row._updated
-  } catch (e) {}
-  return ''
-}
-
-function rowKind(row, path) {
-  const local = classifyPath(path)
-  if (local === 'exclude') return 'exclude'
-  try {
-    if (row && row.content_kind && typeof row.content_kind === 'string') {
-      const k = row.content_kind
-      if (k === 'exclude') return 'exclude'
-      if (k === 'article' || k === 'investigation' || k === 'blog') return k
-    }
-  } catch (e) {}
-  return local
-}
-
-function queryCatalogRows() {
-  let resp = null
-  try {
-    resp = fetch('/', {
-      method: 'QUERY',
-      headers: {
-        Accept: 'application/json',
-      },
-      body: queryIndexBody('', 2500, ''),
-    })
-  } catch (e) {
-    return []
-  }
-  if (!resp || resp.ok !== true) return []
-  let text = resp.text ? resp.text : ''
-  if (text.length === 0) return []
-  const data = parseJson(text)
-  if (!data || !data.results) return []
-  let out = []
-  for (let i = 0; i < data.results.length; i++) {
-    out = out.concat([data.results[i]])
-  }
-  return out
-}
-
-function itemFromRow(row) {
-  const path = rowPath(row)
-  if (path.length === 0) return null
-  const kind = rowKind(row, path)
-  if (kind === 'exclude') return null
-  if (path.slice(path.length - 3).toLowerCase() !== '.md') return null
-  const title = rowTitle(row)
-  const updatedAt = rowUpdated(row)
-  let originalPublishedAt = ''
-  try {
-    if (row._originalPublishedAt && typeof row._originalPublishedAt === 'string') {
-      originalPublishedAt = row._originalPublishedAt
-    }
-  } catch (e) {}
-  if (originalPublishedAt.length === 0 && kind === 'blog') {
-    originalPublishedAt = publishedFromBlogPath(path)
-  }
-  return {
-    path: path,
-    title: title,
-    kind: kind,
-    href: siteHref('/' + path),
-    updatedAt: updatedAt,
-    originalPublishedAt: originalPublishedAt,
-    sortKey: updatedAt.length > 0 ? updatedAt : path,
-  }
+function publishedFromBlogPath(path) {
+  if (!path || path.indexOf('blog/') !== 0) return ''
+  return dateFromBasename(path)
 }
 
 function sortByUpdatedDesc(items) {
@@ -230,36 +160,8 @@ function takeLimit(items, limit) {
   return out
 }
 
-function buildBucketsFromQuery(limit) {
-  const rows = queryCatalogRows()
-  let articles = []
-  let investigations = []
-  let blog = []
-  for (let i = 0; i < rows.length; i++) {
-    const item = itemFromRow(rows[i])
-    if (item) {
-      if (item.kind === 'blog') blog = blog.concat([item])
-      else if (item.kind === 'investigation') investigations = investigations.concat([item])
-      else if (item.kind === 'article') articles = articles.concat([item])
-    }
-  }
-  articles = takeLimit(sortByUpdatedDesc(articles), limit)
-  investigations = takeLimit(sortByUpdatedDesc(investigations), limit)
-  blog = takeLimit(sortByUpdatedDesc(blog), limit)
-  const recent = takeLimit(
-    sortByUpdatedDesc(articles.concat(investigations).concat(blog)),
-    limit,
-  )
-  return {
-    articles: articles,
-    investigations: investigations,
-    blog: blog,
-    recent: recent,
-    fromQuery: rows.length > 0,
-  }
-}
-
-function buildBucketsFromNav(limit) {
+function buildBuckets(limit) {
+  // Prefer nav-index.txt (not same-host QUERY) so SSR site-shell cannot deadlock GET.
   const rows = loadArticleRows(400)
   let articles = []
   let investigations = []
@@ -268,14 +170,17 @@ function buildBucketsFromNav(limit) {
     const path = rowPath(rows[i])
     const kind = classifyPath(path)
     if (kind !== 'exclude') {
+      const fromPath = dateFromBasename(path)
+      const published = kind === 'blog' ? publishedFromBlogPath(path) : ''
+      const updatedAt = fromPath
       const item = {
         path: path,
         title: rowTitle(rows[i]),
         kind: kind,
         href: siteHref('/' + path),
-        updatedAt: '',
-        originalPublishedAt: kind === 'blog' ? publishedFromBlogPath(path) : '',
-        sortKey: path,
+        updatedAt: updatedAt,
+        originalPublishedAt: published,
+        sortKey: updatedAt.length > 0 ? updatedAt : path,
       }
       if (kind === 'blog') blog = blog.concat([item])
       else if (kind === 'investigation') investigations = investigations.concat([item])
@@ -294,14 +199,7 @@ function buildBucketsFromNav(limit) {
     investigations: investigations,
     blog: blog,
     recent: recent,
-    fromQuery: false,
   }
-}
-
-function buildBuckets(limit) {
-  const q = buildBucketsFromQuery(limit)
-  if (q.fromQuery) return q
-  return buildBucketsFromNav(limit)
 }
 
 function contentCard(item, tabId, idx) {
