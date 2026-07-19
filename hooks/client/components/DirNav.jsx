@@ -4,13 +4,9 @@ import { take } from '@relay/util'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
 
-const MAX_TOP = 14
-const MAX_FILES = 5
-const MAX_DEPTH = 2
-
-function fileItems(files, keyPrefix) {
+function fileItems(files, keyPrefix, maxFiles) {
   let items = []
-  const n = files.length < MAX_FILES ? files.length : MAX_FILES
+  const n = files.length < maxFiles ? files.length : maxFiles
   for (let i = 0; i < n; i++) {
     const row = files[i]
     const path = rowPath(row)
@@ -23,10 +19,10 @@ function fileItems(files, keyPrefix) {
       </li>,
     ])
   }
-  if (files.length > MAX_FILES) {
+  if (files.length > maxFiles) {
     items = items.concat([
       <li key={keyPrefix + 'more'} className="pt-dir-item pt-muted">
-        +{files.length - MAX_FILES} more
+        +{files.length - maxFiles} more
       </li>,
     ])
   }
@@ -37,6 +33,9 @@ function FolderBranch(props) {
   const node = props.node
   const depth = props.depth
   const keyPrefix = props.keyPrefix
+  const maxTop = props.maxTop
+  const maxFiles = props.maxFiles
+  const maxDepth = props.maxDepth
   let name = ''
   let files = []
   let folders = []
@@ -50,10 +49,10 @@ function FolderBranch(props) {
     if (node && node.folders) folders = node.folders
   } catch (e3) {}
 
-  const fileEls = fileItems(files, keyPrefix)
+  const fileEls = fileItems(files, keyPrefix, maxFiles)
   let folderEls = []
-  if (depth < MAX_DEPTH) {
-    const nf = folders.length < MAX_TOP ? folders.length : MAX_TOP
+  if (depth < maxDepth) {
+    const nf = folders.length < maxTop ? folders.length : maxTop
     for (let i = 0; i < nf; i++) {
       folderEls = folderEls.concat([
         <FolderBranch
@@ -61,6 +60,9 @@ function FolderBranch(props) {
           node={folders[i]}
           depth={depth + 1}
           keyPrefix={keyPrefix + 'd' + i + '-'}
+          maxTop={maxTop}
+          maxFiles={maxFiles}
+          maxDepth={maxDepth}
         />,
       ])
     }
@@ -110,7 +112,14 @@ export default function DirNav() {
       {!hasFolders && !hasFiles ? (
         <p className="pt-muted">No indexed articles yet.</p>
       ) : (
-        <FolderBranch node={tree} depth={0} keyPrefix="r-" />
+        <FolderBranch
+          node={tree}
+          depth={0}
+          keyPrefix="r-"
+          maxTop={14}
+          maxFiles={5}
+          maxDepth={2}
+        />
       )}
     </aside>
   )
