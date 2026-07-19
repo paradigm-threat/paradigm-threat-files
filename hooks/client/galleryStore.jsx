@@ -1,28 +1,38 @@
 /**
- * Module gallery state (plain object — CS forbids props on function values).
- * CleverScript: avoid encodeURIComponent, charCodeAt, window, named fn expressions.
+ * Gallery state singleton.
+ * CleverScript: module-level `const` objects are Undefined inside nested fn bodies —
+ * keep the store on `document` instead. Avoid encodeURIComponent / charCodeAt / window.
  */
 
-const GALLERY = {
-  images: [],
-  override: null,
-  index: -1,
-  open: false,
-  rev: 0,
-  listeners: [],
-}
-
 function root() {
-  return GALLERY
+  let s = null
+  try {
+    s = document.__ptGallery
+  } catch (e) {
+    s = null
+  }
+  if (s) return s
+  s = {
+    images: [],
+    override: null,
+    index: -1,
+    open: false,
+    rev: 0,
+    listeners: [],
+  }
+  try {
+    document.__ptGallery = s
+  } catch (e2) {}
+  return s
 }
 
 function emit() {
-  const s = root()
-  s.rev = s.rev + 1
-  const list = s.listeners
+  const store = root()
+  store.rev = store.rev + 1
+  const list = store.listeners
   for (let i = 0; i < list.length; i++) {
     try {
-      list[i](s.rev)
+      list[i](store.rev)
     } catch (e) {}
   }
 }
