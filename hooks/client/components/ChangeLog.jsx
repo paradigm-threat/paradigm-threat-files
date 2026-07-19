@@ -12,8 +12,29 @@ function basename(path) {
   return parts[parts.length - 1] || ''
 }
 
+function digitVal(c) {
+  const code = c.charCodeAt(0)
+  if (code < 48) return -1
+  if (code > 57) return -1
+  return code - 48
+}
+
+/** CleverScript has no parseInt — decimal digits only. */
+function toInt(s) {
+  if (!s || typeof s !== 'string' || s.length === 0) return 0
+  let n = 0
+  let i = 0
+  while (i < s.length) {
+    const d = digitVal(s.charAt(i))
+    if (d < 0) break
+    n = n * 10 + d
+    i = i + 1
+  }
+  return n
+}
+
 function monthShort(mm) {
-  const n = parseInt(mm, 10)
+  const n = toInt(mm)
   if (n === 1) return 'Jan'
   if (n === 2) return 'Feb'
   if (n === 3) return 'Mar'
@@ -30,7 +51,7 @@ function monthShort(mm) {
 }
 
 function monthLong(mm) {
-  const n = parseInt(mm, 10)
+  const n = toInt(mm)
   if (n === 1) return 'January'
   if (n === 2) return 'February'
   if (n === 3) return 'March'
@@ -76,7 +97,7 @@ function formatFeedStamp(iso) {
   let d = iso.slice(8, 10)
   if (mo.charAt(0) === '0') mo = mo.slice(1)
   if (d.charAt(0) === '0') d = d.slice(1)
-  let h = parseInt(iso.slice(11, 13), 10)
+  let h = toInt(iso.slice(11, 13))
   const mi = iso.slice(14, 16)
   if (!(h >= 0) || mi.length !== 2) return formatDateTiny(iso)
   let ampm = 'AM'
@@ -111,7 +132,7 @@ function publishedFromBlogPath(path) {
   const y = base.slice(0, 4)
   const m = base.slice(5, 7)
   const d = base.slice(8, 10)
-  if (parseInt(y, 10) < 1990) return ''
+  if (toInt(y) < 1990) return ''
   return y + '-' + m + '-' + d + 'T12:00:00Z'
 }
 
