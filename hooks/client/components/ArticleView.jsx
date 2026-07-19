@@ -263,6 +263,13 @@ export default function ArticleView(props) {
               {!live ? (
                 <div className="pt-md" data-pt-article-ssr="1">
                   <p className="pt-muted">Article loads after page open…</p>
+                  {/* Keep hydrate-only theme classes in the SSR used-class set. */}
+                  <span
+                    aria-hidden="true"
+                    style={{ display: 'none' }}
+                    className="pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item"
+                    data-pt-md-css="true"
+                  />
                 </div>
               ) : (
                 <MarkdownRenderer

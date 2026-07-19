@@ -8,8 +8,13 @@ URL="http://127.0.0.1:${PORT}/"
 
 body="$(curl -fsS -H "Host: ${HOST}" -H 'Accept: text/html' "$URL")"
 
+echo "$body" | grep -q 'data-pt-article-ssr' || {
+  echo "FAIL: missing data-pt-article-ssr (light SSR shell) in body" >&2
+  exit 1
+}
+
 echo "$body" | grep -q 'pt-changelog' || {
-  echo "FAIL: missing pt-changelog in SSR body" >&2
+  echo "FAIL: missing pt-changelog used-class marker in SSR body" >&2
   exit 1
 }
 
