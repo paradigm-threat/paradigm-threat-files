@@ -2,22 +2,36 @@
 
 Hard rules for **SSR site-shell** hooks on this repo. Breaking them has taken the parked site offline.
 
+## Prefer host helpers
+
+Thin tip code via **`@relay/*`** (registered on SSR + WASM):
+
+| Module | Use for |
+|--------|---------|
+| `@relay/catalog` | `parseNavIndexTxt`, `contentKind`, `buildDirTree`, `publishedFromBlogPath`, `loadNavIndex` |
+| `@relay/date` | `formatTiny` / `formatLong` / `formatFeed` / `sameDay` |
+| `@relay/path` | `basename`, `dirname`, `join`, `split` |
+| `@relay/util` | `sortBy`, `take`, `prop`, `omitUndefined` |
+| `@relay/ui` | `cachedGet`, `Link`, `RadioTabs`, `safeProps` |
+
+ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`parse`/`now`, `Array#sort`/`slice` (return **new** arrays), `String#replaceAll`, `undefined`→`null`. Prefer `Date.from(iso)` over reinventing month tables; still no `new Date()`.
+
 ## Language subset
 
 - **Always brace** `for`, `while`, and `if` bodies — even one-liners.
-- No `parseInt`, `Number`, `Date`, or `Math.random`.
-- **No bare `undefined` in JSX** — branch into separate elements instead of `prop={cond ? x : undefined}`.
-- **No regex literals** (`/…/`) — loop characters instead.
+- **No bare `undefined` in JSX** — branch into separate elements instead of `prop={cond ? x : undefined}` (or use `omitUndefined` / `safeProps`).
+- **No regex literals** (`/…/`) — loop characters or host helpers instead.
 - **Do not mutate `const` objects** — rebuild with `let` when adding fields.
 - **No unary minus literals** in return positions (e.g. `return -1`); compare directly or use positive bounds.
-- Prefer **`propOr` / try-catch** for missing props.
-- **CSS radio tabs** for ChangeLog (no `setState` tab state — it remounts the article).
+- **No computed object keys** — use `@relay/catalog.buildDirTree` instead of tip-built trees.
+- Prefer **try-catch** for missing props.
+- **CSS radio tabs** for ChangeLog (no `setState` tab state — it remounts the article). Host `RadioTabs` is available when you want generic tabs.
 - Nest tab radios in `<label>` (no `htmlFor`).
 
 ## SSR data
 
 - **Never** `fetch` / QUERY the **same Host** during site-shell SSR — it deadlocks the gateway worker.
-- Prefer on-tree blobs: **`nav-index.txt`**, sidecar JSON, static catalogs.
+- Prefer on-tree blobs: **`nav-index.txt`**, sidecar JSON, static catalogs — load via **`cachedGet`** / **`parseNavIndexTxt`** (request-local cache).
 - Regenerate nav index before push: `python3 scripts/build-nav-index.py` (writes optional `_updated` ISO column).
 
 ## Pre-push smoke
@@ -34,5 +48,5 @@ If ChangeLog parse breaks, parked GET `/` must return **500 Site shell / SSR fai
 
 ## Related
 
-- Gap log: `relay-gateway/docs/CLEVERSCRIPT_GAP_LOG.md` (G-005, G-006)
+- Gap log: `relay-gateway/docs/CLEVERSCRIPT_GAP_LOG.md` (G-005–G-007)
 - Disabled components: `hooks/COMPONENTS_DISABLED.md`

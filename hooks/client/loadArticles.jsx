@@ -1,4 +1,7 @@
 import manifest from '@hooks'
+import { parseNavIndexTxt } from '@relay/catalog'
+import { take } from '@relay/util'
+import { cachedGet } from '@relay/ui'
 
 function clientBase() {
   try {
@@ -60,155 +63,44 @@ export function rowUpdated(row) {
   return ''
 }
 
-function tryGetText(url) {
-  try {
-    const resp = fetch(url, { method: 'GET' })
-    if (!resp || resp.ok !== true) return ''
-    return resp.text ? resp.text : ''
-  } catch (e) {
-    return ''
-  }
-}
-
-/** Parse `path\\ttitle\\tupdatedIso` lines — no JSON.parse (missing in some CS module envs). */
-function rowsFromNavText(text) {
-  let out = []
-  if (!text || text.length === 0) return out
-  const lines = text.split('\n')
-  for (let i = 0; i < lines.length; i++) {
-    let line = lines[i]
-    if (!line || line.length === 0) continue
-    const tab = line.indexOf('\t')
-    let path = line
-    let title = line
-    let updated = ''
-    if (tab >= 0) {
-      path = line.slice(0, tab)
-      const tab2 = line.indexOf('\t', tab + 1)
-      if (tab2 >= 0) {
-        title = line.slice(tab + 1, tab2)
-        updated = line.slice(tab2 + 1)
-      } else {
-        title = line.slice(tab + 1)
-      }
-    }
-    if (path.length < 4) continue
-    if (path.slice(path.length - 3).toLowerCase() !== '.md') continue
-    let row = { path: path, title: title, content_kind: 'article' }
-    if (updated.length > 0) {
-      row = { path: path, title: title, content_kind: 'article', _updated: updated }
-    }
-    out = out.concat([row])
-  }
-  return out
-}
-
-function readNavCache() {
-  try {
-    if (typeof localStorage !== 'undefined' && localStorage.getItem) {
-      const t = localStorage.getItem('pt-nav-index-txt')
-      if (typeof t === 'string' && t.length > 0) return t
-    }
-  } catch (e) {}
-  return ''
-}
-
-function writeNavCache(text) {
-  try {
-    if (typeof localStorage !== 'undefined' && localStorage.setItem && text && text.length > 0) {
-      localStorage.setItem('pt-nav-index-txt', text)
-    }
-  } catch (e) {}
-}
-
-function navCacheStore() {
-  try {
-    return globalThis
-  } catch (e) {
-    return null
-  }
-}
-
-function readCachedNavRows() {
-  const g = navCacheStore()
-  if (!g) return null
-  try {
-    if (g.ptNavRowsCache) return g.ptNavRowsCache
-  } catch (e) {}
-  return null
-}
-
-function writeCachedNavRows(rows) {
-  const g = navCacheStore()
-  if (!g) return
-  try {
-    g.ptNavRowsCache = rows
-  } catch (e) {}
-}
-
-function loadAllArticleRows() {
-  const cached = readCachedNavRows()
-  if (cached !== null) return cached
-  const base = clientBase()
-  const navUrl = base.length > 0 ? base + '/nav-index.txt' : '/nav-index.txt'
-  let text = readNavCache()
-  if (!text || text.length === 0) {
-    text = tryGetText(navUrl)
-    if (text && text.length > 0) writeNavCache(text)
-  }
-  let rows = rowsFromNavText(text)
-  if (rows.length === 0) {
-    const jsonUrl = base.length > 0 ? base + '/nav-index.json' : '/nav-index.json'
-    const raw = tryGetText(jsonUrl)
-    if (raw.length > 0) {
-      try {
-        const data = JSON.parse(raw)
-        if (data && data.articles) {
-          let out = []
-          for (let i = 0; i < data.articles.length; i++) {
-            const a = data.articles[i]
-            let path = ''
-            try {
-              if (a.path) path = a.path
-            } catch (e) {}
-            if (path.length < 4) continue
-            if (path.slice(path.length - 3).toLowerCase() !== '.md') continue
-            let title = path
-            try {
-              if (a.title) title = a.title
-            } catch (e2) {}
-            out = out.concat([{ path: path, title: title, content_kind: 'article' }])
-          }
-          rows = out
-        }
-      } catch (e3) {}
-    }
-  }
-  writeCachedNavRows(rows)
-  return rows
-}
-
-function clipRows(rows, lim) {
-  if (rows.length <= lim) return rows
-  let clipped = []
-  for (let i = 0; i < lim; i++) {
-    clipped = clipped.concat([rows[i]])
-  }
-  return clipped
-}
-
 /**
- * Article index for Index / Home.
- * Prefer nav-index.txt (TSV) so SSR + browser hydrate match without JSON.parse
- * or QUERY (browser sync XHR historically dropped QUERY bodies).
- * Browser: cache raw TSV in localStorage so tab re-renders do not re-fetch.
- * SSR: module cache avoids repeated fetch/parse when DirNav + ChangeLog both load.
+ * Article index for Index / Home / ChangeLog / DirNav.
+ * Host `cachedGet` + `parseNavIndexTxt` share a request-local tip cache on SSR.
  */
 export function loadArticleRows(limit) {
   let lim = 48
   if (typeof limit === 'number' && limit > 0) lim = limit
-  const rows = loadAllArticleRows()
-  return clipRows(rows, lim)
+  const base = clientBase()
+  const navUrl = base.length > 0 ? base + '/nav-index.txt' : '/nav-index.txt'
+  const text = cachedGet(navUrl)
+  let rows = parseNavIndexTxt(text)
+  if (rows && rows.length > 0) return take(rows, lim)
+  // Fallback: JSON index when TSV missing (rare).
+  const jsonUrl = base.length > 0 ? base + '/nav-index.json' : '/nav-index.json'
+  const raw = cachedGet(jsonUrl)
+  if (!raw || raw.length === 0) return []
+  try {
+    const data = JSON.parse(raw)
+    if (!data || !data.articles) return []
+    let out = []
+    for (let i = 0; i < data.articles.length; i++) {
+      const a = data.articles[i]
+      let path = ''
+      try {
+        if (a.path) path = a.path
+      } catch (e) {}
+      if (path.length < 4) continue
+      if (path.slice(path.length - 3).toLowerCase() !== '.md') continue
+      let title = path
+      try {
+        if (a.title) title = a.title
+      } catch (e2) {}
+      out = out.concat([{ path: path, title: title, content_kind: 'article' }])
+    }
+    return take(out, lim)
+  } catch (e3) {
+    return []
+  }
 }
 
 export function featuredArticlePath(rows) {

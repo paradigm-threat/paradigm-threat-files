@@ -1,198 +1,44 @@
 /**
  * Thin ChangeLog matching live paradigmthreat.net tabs + card/feed styles.
- * CSS radio tabs (no setState — CleverScript setState re-renders the article).
- * Dates from nav-index `_updated` column (+ blog path publish date).
+ * Uses @relay/date|path|util|catalog — CSS radio tabs (no setState).
  */
 import React from 'react'
+import { basename } from '@relay/path'
+import { formatTiny, formatLong, formatFeed, sameDay } from '@relay/date'
+import { take, sortBy } from '@relay/util'
+import { contentKind, publishedFromBlogPath } from '@relay/catalog'
 import { loadArticleRows, rowPath, rowTitle, rowUpdated, siteHref } from 'hooks/client/loadArticles.jsx'
 
-function basename(path) {
-  const parts = path.split('/')
-  return parts[parts.length - 1] || ''
-}
-
-function monthShort(mm) {
-  if (mm === '01') return 'Jan'
-  if (mm === '02') return 'Feb'
-  if (mm === '03') return 'Mar'
-  if (mm === '04') return 'Apr'
-  if (mm === '05') return 'May'
-  if (mm === '06') return 'Jun'
-  if (mm === '07') return 'Jul'
-  if (mm === '08') return 'Aug'
-  if (mm === '09') return 'Sep'
-  if (mm === '10') return 'Oct'
-  if (mm === '11') return 'Nov'
-  if (mm === '12') return 'Dec'
-  return mm
-}
-
-function monthLong(mm) {
-  if (mm === '01') return 'January'
-  if (mm === '02') return 'February'
-  if (mm === '03') return 'March'
-  if (mm === '04') return 'April'
-  if (mm === '05') return 'May'
-  if (mm === '06') return 'June'
-  if (mm === '07') return 'July'
-  if (mm === '08') return 'August'
-  if (mm === '09') return 'September'
-  if (mm === '10') return 'October'
-  if (mm === '11') return 'November'
-  if (mm === '12') return 'December'
-  return mm
-}
-
-/** CleverScript: digit string to number without unary minus / parseInt. */
-function hourToInt(hh) {
-  if (!hh || hh.length !== 2) return 0
-  const a = hh.charCodeAt(0)
-  const b = hh.charCodeAt(1)
-  if (a < 48 || a > 57) return 0
-  if (b < 48 || b > 57) return 0
-  return (a - 48) * 10 + (b - 48)
-}
-
-function yearAtLeast1990(y) {
-  if (!y || y.length !== 4) return false
-  if (y < '1990') return false
-  return true
-}
-
-/** "Jul 18, 2026" from ISO or YYYY-MM-DD (no Date — CleverScript). */
-function formatDateTiny(iso) {
-  if (!iso || typeof iso !== 'string' || iso.length < 10) return ''
-  const y = iso.slice(0, 4)
-  const m = iso.slice(5, 7)
-  let d = iso.slice(8, 10)
-  if (y.length !== 4 || iso.charAt(4) !== '-') return ''
-  if (d.charAt(0) === '0') d = d.slice(1)
-  return monthShort(m) + ' ' + d + ', ' + y
-}
-
-/** "November 30, 2021" */
-function formatDateLong(iso) {
-  if (!iso || typeof iso !== 'string' || iso.length < 10) return ''
-  const y = iso.slice(0, 4)
-  const m = iso.slice(5, 7)
-  let d = iso.slice(8, 10)
-  if (y.length !== 4 || iso.charAt(4) !== '-') return ''
-  if (d.charAt(0) === '0') d = d.slice(1)
-  return monthLong(m) + ' ' + d + ', ' + y
-}
-
-/** "7/18/26, 7:31 PM" from ISO local stamp (no Date). */
-function formatFeedStamp(iso) {
-  if (!iso || typeof iso !== 'string' || iso.length < 16) return formatDateTiny(iso)
-  const y = iso.slice(2, 4)
-  let mo = iso.slice(5, 7)
-  let d = iso.slice(8, 10)
-  if (mo.charAt(0) === '0') mo = mo.slice(1)
-  if (d.charAt(0) === '0') d = d.slice(1)
-  let h = hourToInt(iso.slice(11, 13))
-  const mi = iso.slice(14, 16)
-  if (mi.length !== 2) return formatDateTiny(iso)
-  let ampm = 'AM'
-  if (h >= 12) ampm = 'PM'
-  if (h === 0) h = 12
-  else if (h > 12) h = h - 12
-  return mo + '/' + d + '/' + y + ', ' + h + ':' + mi + ' ' + ampm
-}
-
-function sameDay(a, b) {
-  if (!a || !b || a.length < 10 || b.length < 10) return false
-  return a.slice(0, 10) === b.slice(0, 10)
-}
-
-function classifyPath(path) {
-  if (!path || path.length < 4) return 'exclude'
-  if (path.slice(path.length - 3).toLowerCase() !== '.md') return 'exclude'
-  const base = basename(path)
-  if (base === 'page.md' || base.toLowerCase() === 'readme.md') return 'exclude'
-  if (path.indexOf('docs/') === 0) return 'exclude'
-  if (path.indexOf('blog/') === 0) return 'blog'
-  if (path.indexOf('/investigations/') >= 0) return 'investigation'
-  if (base.toLowerCase().indexOf('investigation') >= 0) return 'investigation'
-  return 'article'
-}
-
-function dateFromBasename(path) {
-  const base = basename(path)
-  if (base.length < 10) return ''
-  if (base.charAt(4) !== '-' || base.charAt(7) !== '-') return ''
-  const y = base.slice(0, 4)
-  const m = base.slice(5, 7)
-  const d = base.slice(8, 10)
-  if (!yearAtLeast1990(y)) return ''
-  return y + '-' + m + '-' + d + 'T12:00:00Z'
-}
-
-function publishedFromBlogPath(path) {
-  if (!path || path.indexOf('blog/') !== 0) return ''
-  return dateFromBasename(path)
-}
-
-function sortByUpdatedDesc(items) {
-  let out = []
-  for (let i = 0; i < items.length; i++) {
-    const item = items[i]
-    let next = []
-    let inserted = false
-    for (let j = 0; j < out.length; j++) {
-      if (!inserted && item.sortKey > out[j].sortKey) {
-        next = next.concat([item])
-        inserted = true
-      }
-      next = next.concat([out[j]])
-    }
-    if (!inserted) next = next.concat([item])
-    out = next
-  }
-  return out
-}
-
-function takeLimit(items, limit) {
-  if (items.length <= limit) return items
-  let out = []
-  for (let i = 0; i < limit; i++) {
-    out = out.concat([items[i]])
-  }
-  return out
-}
-
 function buildBuckets(limit) {
-  // Prefer nav-index.txt (not same-host QUERY) so SSR site-shell cannot deadlock GET.
   const rows = loadArticleRows(200)
   let articles = []
   let investigations = []
   let blog = []
   for (let i = 0; i < rows.length; i++) {
     const path = rowPath(rows[i])
-    const kind = classifyPath(path)
-    if (kind !== 'exclude') {
-      const fromPath = dateFromBasename(path)
-      const fromNav = rowUpdated(rows[i])
-      const published = kind === 'blog' ? publishedFromBlogPath(path) : ''
-      const updatedAt = fromNav.length > 0 ? fromNav : fromPath
-      const item = {
-        path: path,
-        title: rowTitle(rows[i]),
-        kind: kind,
-        href: siteHref('/' + path),
-        updatedAt: updatedAt,
-        originalPublishedAt: published,
-        sortKey: updatedAt.length > 0 ? updatedAt : path,
-      }
-      if (kind === 'blog') blog = blog.concat([item])
-      else if (kind === 'investigation') investigations = investigations.concat([item])
-      else articles = articles.concat([item])
+    const kind = contentKind(path)
+    if (kind === 'exclude') continue
+    const fromNav = rowUpdated(rows[i])
+    const published = kind === 'blog' ? publishedFromBlogPath(path) : ''
+    const updatedAt = fromNav.length > 0 ? fromNav : published
+    const item = {
+      path: path,
+      title: rowTitle(rows[i]),
+      kind: kind,
+      href: siteHref('/' + path),
+      updatedAt: updatedAt,
+      originalPublishedAt: published,
+      sortKey: updatedAt.length > 0 ? updatedAt : path,
     }
+    if (kind === 'blog') blog = blog.concat([item])
+    else if (kind === 'investigation') investigations = investigations.concat([item])
+    else articles = articles.concat([item])
   }
-  articles = takeLimit(sortByUpdatedDesc(articles), limit)
-  investigations = takeLimit(sortByUpdatedDesc(investigations), limit)
-  blog = takeLimit(sortByUpdatedDesc(blog), limit)
-  const recent = takeLimit(
-    sortByUpdatedDesc(articles.concat(investigations).concat(blog)),
+  articles = take(sortBy(articles, 'sortKey', true), limit)
+  investigations = take(sortBy(investigations, 'sortKey', true), limit)
+  blog = take(sortBy(blog, 'sortKey', true), limit)
+  const recent = take(
+    sortBy(articles.concat(investigations).concat(blog), 'sortKey', true),
     limit,
   )
   return {
@@ -208,10 +54,10 @@ const LOGO_URL = 'https://paradigmthreat.net/site/favicon.svg'
 function contentCard(item, tabId, idx) {
   const title = item.title
   const updatedLine = item.updatedAt.length > 0
-    ? 'Last updated: ' + formatDateTiny(item.updatedAt)
+    ? 'Last updated: ' + formatTiny(item.updatedAt)
     : ''
   const publishedLine = item.originalPublishedAt.length > 0
-    ? 'Originally published: ' + formatDateTiny(item.originalPublishedAt)
+    ? 'Originally published: ' + formatTiny(item.originalPublishedAt)
     : ''
   const showBoth =
     publishedLine.length > 0 &&
@@ -224,7 +70,7 @@ function contentCard(item, tabId, idx) {
       : updatedLine
   const byline =
     item.kind === 'blog' && item.originalPublishedAt.length > 0
-      ? formatDateLong(item.originalPublishedAt) + ' — Paradigm Threat'
+      ? formatLong(item.originalPublishedAt) + ' — Paradigm Threat'
       : ''
 
   let dates = null
@@ -257,7 +103,7 @@ function contentCard(item, tabId, idx) {
 
 function recentEntry(item, idx) {
   const stamp =
-    item.updatedAt.length > 0 ? formatFeedStamp(item.updatedAt) : ''
+    item.updatedAt.length > 0 ? formatFeed(item.updatedAt) : ''
   const line =
     (stamp.length > 0 ? stamp + ' - ' : '') +
     item.title +
