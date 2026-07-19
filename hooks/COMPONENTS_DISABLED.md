@@ -8,7 +8,7 @@ Hard custom markdown / site components are enabled incrementally on the thin par
 | ChangeLog | **shipped** | CSS radio tabs; nav-index dates; card/feed styling vs live site |
 | ThemeToggle | **shipped** | Post-`isClientLive` without SSR flicker |
 | SiteChrome / Nav / footer | **shipped** | Live nav set + wordmark; Relay footer attribution |
-| DirNav | **shipped** | Nested folders from nav-index; Expand/Collapse |
+| DirNav | **shipped** | Flat index from nav-index (nested tree deferred — CS dynamic keys) |
 | EmbedFile | disabled | |
 | ChatRoom-in-md | stub | Override returns hidden stub until chat lands on tip |
 | PopImage / gallery | disabled | After thumbs; hash gallery like live |
