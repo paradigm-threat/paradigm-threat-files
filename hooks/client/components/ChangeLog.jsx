@@ -210,7 +210,9 @@ function sortByUpdatedDesc(items) {
 function takeLimit(items, limit) {
   if (items.length <= limit) return items
   let out = []
-  for (let i = 0; i < limit; i++) out = out.concat([items[i]])
+  for (let i = 0; i < limit; i++) {
+    out = out.concat([items[i]])
+  }
   return out
 }
 
@@ -221,10 +223,11 @@ function buildBucketsFromQuery(limit) {
   let blog = []
   for (let i = 0; i < rows.length; i++) {
     const item = itemFromRow(rows[i])
-    if (!item) continue
-    if (item.kind === 'blog') blog = blog.concat([item])
-    else if (item.kind === 'investigation') investigations = investigations.concat([item])
-    else if (item.kind === 'article') articles = articles.concat([item])
+    if (item) {
+      if (item.kind === 'blog') blog = blog.concat([item])
+      else if (item.kind === 'investigation') investigations = investigations.concat([item])
+      else if (item.kind === 'article') articles = articles.concat([item])
+    }
   }
   articles = takeLimit(sortByUpdatedDesc(articles), limit)
   investigations = takeLimit(sortByUpdatedDesc(investigations), limit)
@@ -250,19 +253,20 @@ function buildBucketsFromNav(limit) {
   for (let i = 0; i < rows.length; i++) {
     const path = rowPath(rows[i])
     const kind = classifyPath(path)
-    if (kind === 'exclude') continue
-    const item = {
-      path: path,
-      title: rowTitle(rows[i]),
-      kind: kind,
-      href: siteHref('/' + path),
-      updatedAt: '',
-      originalPublishedAt: kind === 'blog' ? publishedFromBlogPath(path) : '',
-      sortKey: path,
+    if (kind !== 'exclude') {
+      const item = {
+        path: path,
+        title: rowTitle(rows[i]),
+        kind: kind,
+        href: siteHref('/' + path),
+        updatedAt: '',
+        originalPublishedAt: kind === 'blog' ? publishedFromBlogPath(path) : '',
+        sortKey: path,
+      }
+      if (kind === 'blog') blog = blog.concat([item])
+      else if (kind === 'investigation') investigations = investigations.concat([item])
+      else articles = articles.concat([item])
     }
-    if (kind === 'blog') blog = blog.concat([item])
-    else if (kind === 'investigation') investigations = investigations.concat([item])
-    else articles = articles.concat([item])
   }
   articles = takeLimit(sortByUpdatedDesc(articles), limit)
   investigations = takeLimit(sortByUpdatedDesc(investigations), limit)
