@@ -8,7 +8,7 @@ Hard custom markdown / site components are enabled incrementally on the thin par
 | DirNav | **shipped** | Nested tree via `@relay/catalog.buildDirTree` (capped depth/files); FeelingLucky in aside |
 | ChangeLog | **shipped** | Theme-aware card/feed; CSS radio tabs; default limit 8 on home |
 | ThemeToggle | **shipped** | Post-`isClientLive` without SSR flicker |
-| SiteChrome / Nav / footer | **shipped** | Live order + Submit; Patreon/Substack accents; lg breakpoint nav |
+| SiteChrome / Nav / footer | **shipped** | Live navbar order + glass/blur; FontToggle; absolute mobile drawer; FeelingLucky in DirNav + mobile Directory |
 | EmbedFile | disabled | |
 | ChatRoom-in-md | stub | Override returns hidden stub until chat lands on tip |
 | PopImage / gallery | disabled | After thumbs; hash gallery like live |

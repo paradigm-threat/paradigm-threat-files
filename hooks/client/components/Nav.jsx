@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import ThemeToggle from 'hooks/client/components/ThemeToggle.jsx'
+import FontToggle from 'hooks/client/components/FontToggle.jsx'
 import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
 import {
-  IconBook,
   IconClock,
   IconClose,
   IconHeart,
@@ -19,13 +19,28 @@ import { siteHref } from 'hooks/client/loadArticles.jsx'
 const WORDMARK_URL = 'https://paradigmthreat.net/site/header.png'
 const MARK_URL = 'https://paradigmthreat.net/site/favicon.svg'
 
+/** Glass + font CSS that themed-styler cannot express (backdrop-filter / data-font). */
+function navChromeCss() {
+  return (
+    '@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&family=Libre+Franklin:ital,wght@0,400;0,600;1,400&display=swap");' +
+    '.pt-site-nav{-webkit-backdrop-filter:saturate(180%) blur(12px);backdrop-filter:saturate(180%) blur(12px);}' +
+    '.pt-article-body{font-family:"EB Garamond",Georgia,serif;font-size:1.125rem;line-height:1.65;}' +
+    'html[data-font="franklin"] .pt-article-body{font-family:"Libre Franklin",system-ui,sans-serif;font-size:1.05rem;}' +
+    'html[data-font="mono"] .pt-article-body{font-family:"JetBrains Mono","Courier New",monospace;font-size:0.95rem;}'
+  )
+}
+
 function NavLink(props) {
   const href = propStr(props, 'href', '#')
   const label = propStr(props, 'label', '')
   const icon = propOr(props, 'icon', null)
   const active = propOr(props, 'active', false)
   const external = propOr(props, 'external', false)
-  const className = active ? 'pt-nav-link pt-nav-link-active' : 'pt-nav-link'
+  const mobile = propOr(props, 'mobile', false)
+  let className = active ? 'pt-nav-link pt-nav-link-active' : 'pt-nav-link'
+  if (mobile === true) {
+    className = className + ' pt-nav-link-mobile'
+  }
   if (external === true) {
     return (
       <a
@@ -47,7 +62,7 @@ function NavLink(props) {
   )
 }
 
-function renderNavLinks(links, prefix) {
+function renderNavLinks(links, prefix, mobile) {
   let out = []
   for (let i = 0; i < links.length; i++) {
     const link = links[i]
@@ -67,6 +82,7 @@ function renderNavLinks(links, prefix) {
         icon={link.icon}
         active={active}
         external={external}
+        mobile={mobile}
       />,
     ])
   }
@@ -88,21 +104,12 @@ export default function Nav(props) {
       )
     }
     if (href === '/search') return currentPath === '/search'
-    if (href === '/articles') {
-      return currentPath === '/articles' || currentPath === '/README.md'
-    }
     return currentPath === href
   }
 
-  // Match live footer/nav order; Donate stays in actions (Patreon).
+  // Live site navbar order (Submit lives in footer only).
   const navLinks = [
     { href: siteHref('/search'), label: 'Search', icon: <IconSearch />, active: isActive('/search') },
-    {
-      href: 'https://paradigmthreat.net/submit',
-      label: 'Submit',
-      icon: <IconBook />,
-      external: true,
-    },
     { href: siteHref('/'), label: 'Home', icon: <IconHome />, active: isActive('/') },
     {
       href: 'https://paradigm-threat-timeline.dfw1.relaygateway.net/',
@@ -138,52 +145,62 @@ export default function Nav(props) {
 
   return (
     <header className="pt-site-nav" data-site-navbar="true">
-      <div className="pt-nav-inner">
-        <div className="pt-nav-brand-row">
-          <a href={siteHref('/')} className="pt-brand pt-brand-link">
-            <picture>
-              <source media="(max-width: 350px)" srcSet={MARK_URL} />
-              <img
-                src={WORDMARK_URL}
-                alt="Paradigm Threat"
-                className="pt-brand-img"
-              />
-            </picture>
-            <span className="pt-brand-fallback">Paradigm Threat</span>
-          </a>
-          <nav className="pt-nav-desktop lg:pt-nav-desktop-lg">
-            {renderNavLinks(navLinks, 'nav-d-')}
-          </nav>
-        </div>
-        <div className="pt-nav-actions">
-          <div className="pt-nav-actions-desktop lg:pt-nav-actions-desktop-lg">
-            <FeelingLucky />
-            <ThemeToggle />
+      <style>{navChromeCss()}</style>
+      <div className="pt-nav-bar">
+        <div className="pt-nav-inner md:pt-nav-inner-md">
+          <div className="pt-nav-brand-row">
+            <a href={siteHref('/')} className="pt-brand pt-brand-link">
+              <picture>
+                <source media="(max-width: 350px)" srcSet={MARK_URL} />
+                <img
+                  src={WORDMARK_URL}
+                  alt="Paradigm Threat"
+                  className="pt-brand-img md:pt-brand-img-md"
+                />
+              </picture>
+              <span className="pt-brand-fallback">Paradigm Threat</span>
+            </a>
+            <nav className="pt-nav-desktop lg:pt-nav-desktop-lg" aria-label="Primary">
+              {renderNavLinks(navLinks, 'nav-d-', false)}
+            </nav>
           </div>
-          <button
-            type="button"
-            className="pt-icon-btn pt-nav-menu-btn lg:pt-nav-menu-btn-lg"
-            aria-label={isOpen ? 'Close menu' : 'Open menu'}
-            onClick={() => {
-              setOpen(!isOpen)
-            }}
-          >
-            {isOpen ? <IconClose /> : <IconMenu />}
-          </button>
+          <div className="pt-nav-actions">
+            <div className="pt-nav-actions-desktop lg:pt-nav-actions-desktop-lg">
+              <FontToggle />
+              <ThemeToggle />
+            </div>
+            <button
+              type="button"
+              className="pt-icon-btn pt-nav-menu-btn lg:pt-nav-menu-btn-lg"
+              aria-label={isOpen ? 'Close menu' : 'Open menu'}
+              aria-expanded={isOpen ? 'true' : 'false'}
+              onClick={() => {
+                setOpen(!isOpen)
+              }}
+            >
+              {isOpen ? <IconClose /> : <IconMenu />}
+            </button>
+          </div>
         </div>
       </div>
       {isOpen ? (
-        <div className="pt-nav-mobile lg:pt-nav-mobile-lg">
-          <div className="pt-nav-mobile-tools">
-            <span className="pt-nav-mobile-label">Display</span>
-            <ThemeToggle />
+        <div className="pt-nav-mobile lg:pt-nav-mobile-lg" role="dialog" aria-label="Mobile menu">
+          <div className="pt-nav-mobile-inner">
+            <div className="pt-nav-mobile-tools">
+              <span className="pt-nav-mobile-label">Display</span>
+              <div className="pt-nav-mobile-tool-row">
+                <FontToggle />
+                <ThemeToggle />
+              </div>
+            </div>
+            <nav className="pt-nav-mobile-links" aria-label="Mobile primary">
+              {renderNavLinks(navLinks, 'nav-m-', true)}
+            </nav>
+            <div className="pt-nav-mobile-dir">
+              <div className="pt-nav-mobile-label">Directory</div>
+              <FeelingLucky />
+            </div>
           </div>
-          <div className="pt-nav-mobile-tools">
-            <FeelingLucky />
-          </div>
-          <nav className="pt-nav-mobile-links">
-            {renderNavLinks(navLinks, 'nav-m-')}
-          </nav>
         </div>
       ) : null}
     </header>
