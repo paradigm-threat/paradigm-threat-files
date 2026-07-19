@@ -242,11 +242,8 @@ export function setGalleryHash(srcRaw) {
   try {
     const g = globalThis
     if (!g || !g.history || !g.history.replaceState) return
-    let enc = src
-    try {
-      if (typeof encodeURIComponent === 'function') enc = encodeURIComponent(src)
-    } catch (e) {}
-    const hash = '#img=' + enc
+    // CleverScript has no encodeURIComponent — keep raw src in hash (live uses encode).
+    const hash = '#img=' + src
     if (g.location && g.location.hash === hash) return
     g.history.replaceState(null, '', hash)
   } catch (e) {}
@@ -258,11 +255,7 @@ export function readHashImgSrc() {
     if (!g || !g.location || typeof g.location.hash !== 'string') return ''
     const hash = g.location.hash
     if (hash.indexOf('#img=') !== 0) return ''
-    const raw = hash.slice(5)
-    try {
-      if (typeof decodeURIComponent === 'function') return decodeURIComponent(raw)
-    } catch (e) {}
-    return raw
+    return hash.slice(5)
   } catch (e) {
     return ''
   }
