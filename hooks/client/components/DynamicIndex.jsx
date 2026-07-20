@@ -338,7 +338,7 @@ export default function DynamicIndex(props) {
         data-pt-toc-ssr="1"
       >
         <div className="pt-toc-head">
-          <h2 className="pt-toc-title">Table of Contents</h2>
+          <h2 className="pt-toc-title">{'Table of Contents'}</h2>
         </div>
         <p className="pt-muted">Contents load after page open…</p>
         <span
