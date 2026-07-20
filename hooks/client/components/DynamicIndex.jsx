@@ -1,5 +1,6 @@
 /**
  * Right-column TOC — scrape headings from .pt-article-body (poll; no MutationObserver).
+ * Scroll-spy active link via getBoundingClientRect (Dom host).
  */
 import React, { useState, useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
@@ -96,6 +97,12 @@ function fingerprint(items) {
   return s
 }
 
+function truncateTitle(title) {
+  const t = str(title).trim()
+  if (t.length <= 72) return t
+  return t.slice(0, 69) + '...'
+}
+
 function scanHeadings() {
   let nodes = []
   try {
@@ -109,12 +116,25 @@ function scanHeadings() {
 
   let used = []
   let out = []
+  const maxItems = 80
   for (let i = 0; i < nodes.length; i++) {
+    if (out.length >= maxItems) break
     const el = nodes[i]
     if (!el) continue
     if (headingExcluded(el)) continue
     const level = headingLevel(el)
     if (level < 1) continue
+    // Skip lone page H1 (article title) — TOC starts at sections.
+    if (level === 1 && out.length === 0 && i === 0) {
+      let onlyH1 = true
+      for (let j = 1; j < nodes.length; j++) {
+        if (headingLevel(nodes[j]) >= 1) {
+          onlyH1 = false
+          break
+        }
+      }
+      if (!onlyH1) continue
+    }
     let title = ''
     try {
       if (typeof el.textContent === 'string') title = el.textContent
@@ -153,16 +173,37 @@ function scrollToId(id) {
   } catch (e) {}
 }
 
+function activeHeadingId(items) {
+  if (!items || items.length === 0) return ''
+  let best = items[0].id
+  for (let i = 0; i < items.length; i++) {
+    const id = items[i].id
+    try {
+      const el = document.getElementById(id)
+      if (!el || !el.getBoundingClientRect) continue
+      const r = el.getBoundingClientRect()
+      if (r && typeof r.top === 'number' && r.top <= 120) {
+        best = id
+      }
+    } catch (e) {}
+  }
+  return best
+}
+
 /** Sticky on-this-page index (lg sidebar). */
 export default function DynamicIndex() {
   const live = isClientLive() === true
   const state = useState([])
   const items = state[0]
   const setItems = state[1]
+  const activeState = useState('')
+  const activeId = activeState[0]
+  const setActiveId = activeState[1]
 
   useEffect(() => {
     if (!live) return
     let lastFp = ''
+    let lastActive = ''
     const tick = () => {
       try {
         const next = scanHeadings()
@@ -171,10 +212,15 @@ export default function DynamicIndex() {
           lastFp = fp
           setItems(next)
         }
+        const aid = activeHeadingId(next)
+        if (aid !== lastActive) {
+          lastActive = aid
+          setActiveId(aid)
+        }
       } catch (e) {}
     }
     tick()
-    const timerId = setInterval(tick, 600)
+    const timerId = setInterval(tick, 400)
     return () => {
       try {
         clearInterval(timerId)
@@ -196,22 +242,16 @@ export default function DynamicIndex() {
         <span
           aria-hidden="true"
           hidden={true}
-          className="pt-toc-list pt-toc-item pt-toc-link pt-toc-l1 pt-toc-l2 pt-toc-l3 pt-toc-l4 pt-toc-l5 pt-toc-l6"
+          className="pt-toc-list pt-toc-item pt-toc-link pt-toc-link-active pt-toc-l1 pt-toc-l2 pt-toc-l3 pt-toc-l4 pt-toc-l5 pt-toc-l6"
           data-pt-toc-css="true"
         />
       </aside>
     )
   }
 
+  // No ghost column when there is nothing to index.
   if (items.length === 0) {
-    return (
-      <aside
-        className="pt-toc lg:pt-toc-lg"
-        aria-label="On this page"
-        data-pt-toc-empty="1"
-        hidden={true}
-      />
-    )
+    return null
   }
 
   let links = []
@@ -224,16 +264,19 @@ export default function DynamicIndex() {
     if (it.level === 5) lvlCls = 'pt-toc-l5'
     if (it.level === 6) lvlCls = 'pt-toc-l6'
     const hid = it.id
+    let linkCls = 'pt-toc-link ' + lvlCls
+    if (hid === activeId) linkCls = linkCls + ' pt-toc-link-active'
     links = links.concat([
       <li key={hid} className="pt-toc-item">
         <button
           type="button"
-          className={'pt-toc-link ' + lvlCls}
+          className={linkCls}
           onClick={() => {
+            setActiveId(hid)
             scrollToId(hid)
           }}
         >
-          {it.title}
+          {truncateTitle(it.title)}
         </button>
       </li>,
     ])

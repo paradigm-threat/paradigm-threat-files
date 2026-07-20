@@ -961,29 +961,32 @@ themes:
         zIndex: 20
       ".pt-toc":
         display: "none"
-        width: "14rem"
+        width: "15rem"
         flexShrink: 0
-        padding: "0.5rem"
+        padding: "0.85rem 0.65rem"
         borderWidth: 1
         borderStyle: "solid"
         borderColor: "var(border)"
-        borderRadius: "0.5rem"
+        borderRadius: "1rem"
         backgroundColor: "var(card)"
         maxHeight: "calc(100vh - 8rem)"
         overflowY: "auto"
         boxSizing: "border-box"
+        boxShadow: "0 10px 28px rgba(15, 23, 42, 0.12)"
       ".pt-toc-lg":
         display: "block"
         position: "sticky"
         top: "6rem"
         zIndex: 20
       ".pt-toc-head":
-        marginBottom: "0.5rem"
+        marginBottom: "0.65rem"
+        paddingLeft: "0.5rem"
+        paddingRight: "0.5rem"
       ".pt-toc-title":
         margin: 0
-        fontSize: "0.75rem"
+        fontSize: "0.6875rem"
         fontWeight: "700"
-        letterSpacing: "0.06em"
+        letterSpacing: "0.1em"
         textTransform: "uppercase"
         color: "var(muted)"
       ".pt-toc-list":
@@ -1003,33 +1006,60 @@ themes:
         cursor: "pointer"
         fontSize: "0.8125rem"
         lineHeight: "1.35"
-        paddingTop: "0.25rem"
-        paddingBottom: "0.25rem"
-        paddingRight: "0.25rem"
+        paddingTop: "0.4rem"
+        paddingBottom: "0.4rem"
+        paddingRight: "0.5rem"
+        borderRadius: "0.65rem"
         boxSizing: "border-box"
-      ".pt-toc-l1":
-        paddingLeft: "0.25rem"
+        opacity: 0.88
+      ".pt-toc-link-active":
+        backgroundColor: "rgba(37, 99, 235, 0.12)"
+        opacity: 1
         fontWeight: "700"
+      ".pt-toc-l1":
+        paddingLeft: "0.5rem"
+        fontWeight: "700"
+        fontSize: "0.8125rem"
       ".pt-toc-l2":
-        paddingLeft: "0.75rem"
+        paddingLeft: "0.95rem"
         fontWeight: "500"
-        opacity: 0.9
+        fontSize: "0.75rem"
+        borderLeftWidth: 1
+        borderLeftStyle: "solid"
+        borderLeftColor: "var(border)"
+        marginLeft: "0.35rem"
       ".pt-toc-l3":
-        paddingLeft: "1.25rem"
+        paddingLeft: "1.35rem"
         fontSize: "0.75rem"
         opacity: 0.85
+        borderLeftWidth: 1
+        borderLeftStyle: "solid"
+        borderLeftColor: "var(border)"
+        marginLeft: "0.35rem"
       ".pt-toc-l4":
         paddingLeft: "1.75rem"
-        fontSize: "0.75rem"
+        fontSize: "0.6875rem"
         opacity: 0.8
+        borderLeftWidth: 1
+        borderLeftStyle: "solid"
+        borderLeftColor: "var(border)"
+        marginLeft: "0.35rem"
       ".pt-toc-l5":
-        paddingLeft: "2.25rem"
-        fontSize: "0.75rem"
+        paddingLeft: "2.15rem"
+        fontSize: "0.6875rem"
         opacity: 0.75
+        borderLeftWidth: 1
+        borderLeftStyle: "solid"
+        borderLeftColor: "var(border)"
+        marginLeft: "0.35rem"
       ".pt-toc-l6":
-        paddingLeft: "2.75rem"
-        fontSize: "0.75rem"
+        paddingLeft: "2.55rem"
+        fontSize: "0.6875rem"
         opacity: 0.7
+        borderLeftWidth: 1
+        borderLeftStyle: "solid"
+        borderLeftColor: "var(border)"
+        marginLeft: "0.35rem"
       ".pt-back-top":
         position: "fixed"
         right: "1rem"

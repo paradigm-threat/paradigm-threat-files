@@ -232,6 +232,7 @@ export default function ArticleView(props) {
     currentPath === '/index.md' ||
     currentPath === '/page.md' ||
     pathPart === 'page.md'
+  const showToc = hideToolbar !== true
 
   function renderAutoIndex(p) {
     let pathAttr = ''
@@ -310,7 +311,7 @@ export default function ArticleView(props) {
               ) : null}
             </Layout>
           </div>
-          <DynamicIndex />
+          {showToc ? <DynamicIndex /> : null}
         </div>
       </main>
     </SiteChrome>
