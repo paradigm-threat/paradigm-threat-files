@@ -33,7 +33,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - **Module `const`/`let` bindings are Undefined inside nested `function` bodies** — prefer `export const api = createApi()` where methods close over locals inside `createApi()`. Named `export function` / `export const` / `export let` / `export default` are supported. Do **not** use `export default create()` (call expression as sole default without binding).
 - **`JSON.parse` / `JSON.stringify`** are first-class CleverScript builtins (injected by the runtime). Prefer bare `JSON.*`; `globalThis.JSON` is mirrored.
 - **Avoid unary minus after `return`** — `return -1` parses as `return` then subtract. Use `return 0 - 1` or `return (-1)`.
-- **`document` / `setInterval`** are injected builtins (WASM DOM host; SSR stubs).
+- **`document` / `setInterval`** are injected builtins (WASM DOM host; SSR stubs). Host methods used on tip: `querySelector` / `querySelectorAll`, DomNode `setAttribute` / `getAttribute` / `scrollIntoView`, plus `getElementById`.
 - Theme CSS is **pruned to used `className`s** — keep a hidden marker vnode for classes only needed after client interaction (e.g. gallery overlay).
 
 ## SSR data

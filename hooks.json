@@ -18,6 +18,7 @@
     { "path": "hooks/client/components/SiteChrome.jsx", "name": "SiteChrome" },
     { "path": "hooks/client/components/Layout.jsx", "name": "Layout" },
     { "path": "hooks/client/components/DirNav.jsx", "name": "DirNav" },
+    { "path": "hooks/client/components/DynamicIndex.jsx", "name": "DynamicIndex" },
     { "path": "hooks/client/components/AutoIndex.jsx", "name": "AutoIndex" },
     { "path": "hooks/client/components/ChangeLog.jsx", "name": "ChangeLog" },
     { "path": "hooks/client/components/HomePage.jsx", "name": "HomePage" },

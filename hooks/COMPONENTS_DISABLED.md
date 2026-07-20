@@ -17,6 +17,6 @@ Hard custom markdown / site components are enabled incrementally on the thin par
 | VisTimeline / maps / Three | deferred | Own routes / timeline tip |
 | Files `/timeline` subpath | deferred | External timeline host only |
 | `expandMdComponents.jsx` / `rewriteAssets.jsx` | pass-through | Re-enable rewrite when asset URL policy is stable |
-| Right TOC column | deferred | No CS TOC hook yet |
+| Right TOC column | **shipped** | `DynamicIndex` — polls `.pt-article-body` headings; sticky `pt-toc-lg` |
 
 Re-enable deferred rows one at a time using `hooks/CLEVERSCRIPT_TIP.md` + `./scripts/ssr-smoke.sh`.

@@ -4,6 +4,7 @@ import { MarkdownRenderer } from '@clevertree/markdown'
 import SiteChrome from 'hooks/client/components/SiteChrome.jsx'
 import Layout from 'hooks/client/components/Layout.jsx'
 import DirNav from 'hooks/client/components/DirNav.jsx'
+import DynamicIndex from 'hooks/client/components/DynamicIndex.jsx'
 import {
   loadArticleRows,
   rowPath,
@@ -309,6 +310,7 @@ export default function ArticleView(props) {
               ) : null}
             </Layout>
           </div>
+          <DynamicIndex />
         </div>
       </main>
     </SiteChrome>
