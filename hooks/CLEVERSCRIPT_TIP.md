@@ -35,7 +35,8 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - **`JSON.parse` / `JSON.stringify`** are first-class CleverScript builtins (injected by the runtime). Prefer bare `JSON.*`; `globalThis.JSON` is mirrored.
 - **Avoid unary minus after `return`** — `return -1` parses as `return` then subtract. Use `return 0 - 1` or `return (-1)`.
 - **`document` / `setInterval`** are injected builtins (WASM DOM host; SSR stubs). Host methods used on tip: `querySelector` / `querySelectorAll`, DomNode `setAttribute` / `getAttribute` / `scrollIntoView` / `getBoundingClientRect`, plus `getElementById`.
-- Theme CSS is **pruned to used `className`s** — keep a hidden marker vnode for classes only needed after client interaction (e.g. gallery overlay).
+- Theme CSS is **pruned to used `className`s** — keep a hidden marker vnode for classes only needed after client interaction (e.g. gallery overlay). TOC markers live in **`SiteChrome`** so home → article soft-nav still has `lg:pt-toc-lg` (otherwise TOC stays `display:none`).
+- **Do not `return null` from components that own `useEffect` polls** — CleverScript unmount kills the effect (TOC empty forever). Keep a hidden mounted shell (`pt-toc-empty`).
 
 ## SSR data
 

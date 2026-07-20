@@ -92,6 +92,13 @@ export default function SiteChrome(props) {
       </footer>
       <ImageGalleryOverlay />
       <ArticleTtsDock />
+      {/* TOC classes must ship on every shell — home soft-nav to articles needs lg:pt-toc-lg. */}
+      <span
+        aria-hidden="true"
+        hidden={true}
+        className="pt-toc lg:pt-toc-lg pt-toc-empty pt-toc-head pt-toc-title pt-toc-list pt-toc-item pt-toc-link pt-toc-link-active pt-toc-l1 pt-toc-l2 pt-toc-l3 pt-toc-l4 pt-toc-l5 pt-toc-l6 pt-column-main lg:pt-column-main-lg"
+        data-pt-toc-css="true"
+      />
     </div>
   )
 }

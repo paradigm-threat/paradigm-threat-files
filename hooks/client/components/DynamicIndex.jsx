@@ -1,9 +1,11 @@
 /**
  * Right-column TOC — scrape headings from .pt-article-body (poll; no MutationObserver).
  * Scroll-spy active link via getBoundingClientRect (Dom host).
+ * Hash deep-link + data-toc-ignore subtree skip.
  */
 import React, { useState, useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
+import { propStr } from 'hooks/client/propOr.jsx'
 
 function str(v) {
   if (v === null) return ''
@@ -59,7 +61,31 @@ function headingLevel(el) {
   return 0
 }
 
+/** Mark headings under [data-toc-ignore] (no DomNode#closest — use subtree query). */
+function markIgnoredHeadings() {
+  let nodes = []
+  try {
+    const list = document.querySelectorAll(
+      '.pt-article-body [data-toc-ignore] h1, .pt-article-body [data-toc-ignore] h2, .pt-article-body [data-toc-ignore] h3, .pt-article-body [data-toc-ignore] h4, .pt-article-body [data-toc-ignore] h5, .pt-article-body [data-toc-ignore] h6'
+    )
+    if (list && typeof list.length === 'number') nodes = list
+  } catch (e) {
+    return
+  }
+  for (let i = 0; i < nodes.length; i++) {
+    const el = nodes[i]
+    if (!el) continue
+    try {
+      el.setAttribute('data-pt-toc-skip', '1')
+    } catch (e2) {}
+  }
+}
+
 function headingExcluded(el) {
+  try {
+    const skip = el.getAttribute('data-pt-toc-skip')
+    if (skip !== null) return true
+  } catch (e0) {}
   try {
     const ignore = el.getAttribute('data-toc-ignore')
     if (ignore !== null) return true
@@ -103,7 +129,22 @@ function truncateTitle(title) {
   return t.slice(0, 69) + '...'
 }
 
+function locationHashId() {
+  try {
+    const loc = document.location
+    if (!loc) return ''
+    let h = ''
+    if (typeof loc.hash === 'string') h = loc.hash
+    if (h.length === 0) return ''
+    if (h.charAt(0) === '#') h = h.slice(1)
+    return h
+  } catch (e) {
+    return ''
+  }
+}
+
 function scanHeadings() {
+  markIgnoredHeadings()
   let nodes = []
   try {
     const list = document.querySelectorAll(
@@ -190,78 +231,7 @@ function activeHeadingId(items) {
   return best
 }
 
-/** Sticky on-this-page index (lg sidebar). */
-export default function DynamicIndex() {
-  const live = isClientLive() === true
-  const state = useState([])
-  const items = state[0]
-  const setItems = state[1]
-  const activeState = useState('')
-  const activeId = activeState[0]
-  const setActiveId = activeState[1]
-
-  useEffect(() => {
-    if (!live) return
-    let lastFp = ''
-    let lastActive = ''
-    const tick = () => {
-      try {
-        const next = scanHeadings()
-        const fp = fingerprint(next)
-        if (fp !== lastFp) {
-          lastFp = fp
-          setItems(next)
-        }
-        const aid = activeHeadingId(next)
-        if (aid !== lastActive) {
-          lastActive = aid
-          setActiveId(aid)
-        }
-      } catch (e) {}
-    }
-    tick()
-    const timerId = setInterval(tick, 400)
-    return () => {
-      try {
-        clearInterval(timerId)
-      } catch (e2) {}
-    }
-  }, [live])
-
-  if (!live) {
-    return (
-      <aside
-        className="pt-toc lg:pt-toc-lg"
-        aria-label="On this page"
-        data-pt-toc-ssr="1"
-      >
-        <div className="pt-toc-head">
-          <h2 className="pt-toc-title">On this page</h2>
-        </div>
-        <p className="pt-muted">Contents load after page open…</p>
-        <span
-          aria-hidden="true"
-          hidden={true}
-          className="pt-toc-list pt-toc-item pt-toc-link pt-toc-link-active pt-toc-l1 pt-toc-l2 pt-toc-l3 pt-toc-l4 pt-toc-l5 pt-toc-l6"
-          data-pt-toc-css="true"
-        />
-      </aside>
-    )
-  }
-
-  // Keep the instance mounted while empty so the poll effect can fill headings.
-  // Returning null unmounts CleverScript hooks and freezes TOC at empty forever.
-  if (items.length === 0) {
-    return (
-      <aside
-        className="pt-toc pt-toc-empty lg:pt-toc-lg"
-        aria-label="On this page"
-        data-pt-toc-empty="1"
-        hidden={true}
-      />
-    )
-  }
-
+function renderTocLinks(items, activeId, setActiveId) {
   let links = []
   for (let i = 0; i < items.length; i++) {
     const it = items[i]
@@ -289,11 +259,116 @@ export default function DynamicIndex() {
       </li>,
     ])
   }
+  return links
+}
+
+/** Sticky on-this-page index (mobile full-width + lg sidebar). */
+export default function DynamicIndex(props) {
+  const pathKey = propStr(props, 'pathKey', '')
+  const live = isClientLive() === true
+  const state = useState([])
+  const items = state[0]
+  const setItems = state[1]
+  const activeState = useState('')
+  const activeId = activeState[0]
+  const setActiveId = activeState[1]
+
+  useEffect(() => {
+    if (!live) return
+    let lastFp = ''
+    let lastActive = ''
+    let didHashJump = false
+    let stableTicks = 0
+    setItems([])
+    setActiveId('')
+    const tick = () => {
+      try {
+        const next = scanHeadings()
+        const fp = fingerprint(next)
+        if (fp !== lastFp) {
+          lastFp = fp
+          stableTicks = 0
+          setItems(next)
+        } else {
+          stableTicks = stableTicks + 1
+        }
+        if (!didHashJump && next.length > 0) {
+          const want = locationHashId()
+          if (want.length === 0) {
+            didHashJump = true
+          } else {
+            let found = false
+            for (let i = 0; i < next.length; i++) {
+              if (next[i].id === want) {
+                found = true
+                break
+              }
+            }
+            if (found) {
+              didHashJump = true
+              setActiveId(want)
+              lastActive = want
+              scrollToId(want)
+            } else if (stableTicks >= 2) {
+              didHashJump = true
+            }
+          }
+        }
+        const aid = activeHeadingId(next)
+        if (aid !== lastActive) {
+          lastActive = aid
+          setActiveId(aid)
+        }
+      } catch (e) {}
+    }
+    tick()
+    const timerId = setInterval(tick, 400)
+    return () => {
+      try {
+        clearInterval(timerId)
+      } catch (e2) {}
+    }
+  }, [live, pathKey])
+
+  if (!live) {
+    return (
+      <aside
+        className="pt-toc lg:pt-toc-lg"
+        aria-label="Table of contents"
+        data-pt-toc-ssr="1"
+      >
+        <div className="pt-toc-head">
+          <h2 className="pt-toc-title">Table of Contents</h2>
+        </div>
+        <p className="pt-muted">Contents load after page open…</p>
+        <span
+          aria-hidden="true"
+          hidden={true}
+          className="pt-toc-list pt-toc-item pt-toc-link pt-toc-link-active pt-toc-l1 pt-toc-l2 pt-toc-l3 pt-toc-l4 pt-toc-l5 pt-toc-l6 pt-toc-empty"
+          data-pt-toc-css="true"
+        />
+      </aside>
+    )
+  }
+
+  // Keep the instance mounted while empty so the poll effect can fill headings.
+  // Returning null unmounts CleverScript hooks and freezes TOC at empty forever.
+  if (items.length === 0) {
+    return (
+      <aside
+        className="pt-toc pt-toc-empty lg:pt-toc-lg"
+        aria-label="Table of contents"
+        data-pt-toc-empty="1"
+      />
+    )
+  }
+
+  const links = renderTocLinks(items, activeId, setActiveId)
 
   return (
-    <aside className="pt-toc lg:pt-toc-lg" aria-label="On this page">
+    <aside className="pt-toc lg:pt-toc-lg" aria-label="Table of contents">
       <div className="pt-toc-head">
-        <h2 className="pt-toc-title">On this page</h2>
+        <h2 className="pt-toc-title">Table of Contents</h2>
       </div>
       <ul className="pt-toc-list">{links}</ul>
     </aside>
