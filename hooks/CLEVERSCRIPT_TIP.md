@@ -26,6 +26,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - **No unary minus literals** in return positions (e.g. `return -1`); compare directly or use positive bounds.
 - **No computed object keys** — use `@relay/catalog.buildDirTree` instead of tip-built trees.
 - Prefer **try-catch** for missing props.
+- **No `Array#indexOf`** — only `String#indexOf` exists. Loop to test membership.
 - **CSS radio tabs** for ChangeLog (no `setState` tab state — it remounts the article). Host `RadioTabs` is available when you want generic tabs.
 - Nest tab radios in `<label>` (no `htmlFor`).
 - **No named function expressions** (`return function foo() {}`) — use arrows (`() => {}`).

@@ -70,10 +70,17 @@ function headingExcluded(el) {
   return false
 }
 
+function idInUsed(id, used) {
+  for (let i = 0; i < used.length; i++) {
+    if (used[i] === id) return true
+  }
+  return false
+}
+
 function uniqueId(base, used) {
   let id = base
   let n = 1
-  while (used.indexOf(id) >= 0) {
+  while (idInUsed(id, used)) {
     id = base + '_' + n
     n = n + 1
   }
