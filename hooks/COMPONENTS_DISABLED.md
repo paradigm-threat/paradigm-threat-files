@@ -8,12 +8,12 @@ Hard custom markdown / site components are enabled incrementally on the thin par
 | DirNav | **shipped** | Nested tree via `@relay/catalog.buildDirTree` (capped depth/files); FeelingLucky in aside |
 | ChangeLog | **shipped** | Theme-aware card/feed; CSS radio tabs; default limit 8 on home |
 | ThemeToggle | **shipped** | Post-`isClientLive` without SSR flicker |
-| SiteChrome / Nav / footer | **shipped** | Live navbar + FontToggle; BackToTop; sticky Directory on lg |
+| SiteChrome / Nav / footer | **shipped** | Live navbar + FontToggle; sticky Directory on lg |
 | EmbedFile | disabled | |
 | ChatRoom-in-md | stub | Override returns hidden stub until chat lands on tip |
 | PopImage / gallery | **shipped** | `img`/`PopImage` overrides; gallery overlay; `#img=` hash; CSS used-class marker |
-| Floating dir / back-to-top | **shipped** | sticky `pt-dir-nav-lg`; `BackToTop` after scroll |
-| Article TTS dock | **shipped** | `@relay/tts` Piper synthesize + AudioPlayer; Play/Pause/Stop |
+| Floating dir / back-to-top | **shipped** | sticky `pt-dir-nav-lg`; back-to-top chevron in TTS dock |
+| Article TTS dock | **shipped** | Old-site style: indigo play/pause circle, stop, seek count; Piper `@relay/tts` |
 | VisTimeline / maps / Three | deferred | Own routes / timeline tip |
 | Files `/timeline` subpath | deferred | External timeline host only |
 | `expandMdComponents.jsx` / `rewriteAssets.jsx` | pass-through | Re-enable rewrite when asset URL policy is stable |

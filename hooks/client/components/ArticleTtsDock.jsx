@@ -1,6 +1,16 @@
-import React, { useState } from 'react'
+/**
+ * Bottom TTS dock — visual match for paradigm-threat-site ArticleTTSOverlay
+ * (circular indigo play/pause, stop, optional back-to-top).
+ */
+import React, { useState, useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
 import { AudioPlayer, synthesize } from '@relay/tts'
+import {
+  IconPlay,
+  IconPause,
+  IconStop,
+  IconChevronUp,
+} from 'hooks/client/components/Icons.jsx'
 
 function articlePlainText() {
   try {
@@ -48,6 +58,41 @@ function takeChunk(sentences, start, maxChars) {
   return { text: out, next: i }
 }
 
+function scrollY() {
+  try {
+    if (document && document.documentElement) {
+      const y = document.documentElement.scrollTop
+      if (typeof y === 'number' && y > 0) return y
+    }
+  } catch (e) {}
+  try {
+    if (document && document.body) {
+      const y2 = document.body.scrollTop
+      if (typeof y2 === 'number') return y2
+    }
+  } catch (e2) {}
+  return 0
+}
+
+function scrollToTop() {
+  try {
+    if (document && document.documentElement) {
+      document.documentElement.scrollTop = 0
+    }
+  } catch (e) {}
+  try {
+    if (document && document.body) {
+      document.body.scrollTop = 0
+    }
+  } catch (e2) {}
+  try {
+    const view = document.defaultView
+    if (view && view.scrollTo) {
+      view.scrollTo(0, 0)
+    }
+  } catch (e3) {}
+}
+
 /** Bottom playback dock — Piper via @relay/tts (client-live only). */
 export default function ArticleTtsDock() {
   const live = isClientLive() === true
@@ -72,6 +117,27 @@ export default function ArticleTtsDock() {
   const busyState = useState(false)
   const busy = busyState[0]
   const setBusy = busyState[1]
+  const scrollState = useState(false)
+  const scrolled = scrollState[0]
+  const setScrolled = scrollState[1]
+
+  useEffect(() => {
+    if (!live) return
+    const onScroll = () => {
+      setScrolled(scrollY() > 280)
+    }
+    onScroll()
+    try {
+      if (document && document.addEventListener) {
+        document.addEventListener('scroll', onScroll)
+        return () => {
+          try {
+            document.removeEventListener('scroll', onScroll)
+          } catch (e) {}
+        }
+      }
+    } catch (e2) {}
+  }, [live])
 
   function stopAll() {
     setPlaying(false)
@@ -117,8 +183,19 @@ export default function ArticleTtsDock() {
     }
   }
 
-  function onPlayClick() {
+  function onPlayToggle() {
     if (!live) return
+    if (playing) {
+      setPlaying(false)
+      setCmdSeq(cmdSeq + 1)
+      return
+    }
+    if (src.length > 0) {
+      setPlaying(true)
+      setCmdSeq(cmdSeq + 1)
+      return
+    }
+    scrollToTop()
     let list = sentences
     if (!list || list.length === 0) {
       list = splitSentences(articlePlainText())
@@ -129,11 +206,6 @@ export default function ArticleTtsDock() {
       return
     }
     playFrom(list, 0)
-  }
-
-  function onPauseClick() {
-    setPlaying(false)
-    setCmdSeq(cmdSeq + 1)
   }
 
   function onStopClick() {
@@ -148,47 +220,78 @@ export default function ArticleTtsDock() {
   if (!live) {
     return (
       <div
-        className="pt-tts-dock pt-tts-dock-visible"
+        className="pt-tts-dock lg:pt-tts-dock-lg pt-tts-dock-visible"
         hidden={true}
         aria-hidden="true"
         data-pt-tts-css="true"
-      />
+      >
+        <span
+          aria-hidden="true"
+          hidden={true}
+          className="pt-tts-panel pt-tts-dock-row pt-tts-play pt-tts-stop pt-tts-top pt-tts-status pt-tts-err pt-tts-count"
+        />
+      </div>
     )
   }
 
+  let status = 'Ready'
+  if (busy) status = 'Synthesizing…'
+  else if (playing) status = 'Playing'
+  let countLabel = ''
+  if (sentences && sentences.length > 0) {
+    let shown = sentenceIdx
+    if (shown < 1) shown = 1
+    if (shown > sentences.length) shown = sentences.length
+    countLabel = shown + ' / ' + sentences.length
+  }
+
   return (
-    <div className="pt-tts-dock pt-tts-dock-visible" data-pt-tts-dock="true">
-      <div className="pt-tts-dock-row">
-        <button
-          type="button"
-          className="pt-tts-btn"
-          disabled={busy}
-          onClick={onPlayClick}
-          title="Play article (Piper)"
-        >
-          Play
-        </button>
-        <button
-          type="button"
-          className="pt-tts-btn"
-          onClick={onPauseClick}
-          title="Pause"
-        >
-          Pause
-        </button>
-        <button
-          type="button"
-          className="pt-tts-btn"
-          onClick={onStopClick}
-          title="Stop"
-        >
-          Stop
-        </button>
-        <span className="pt-tts-status">
-          {busy ? 'Synthesizing…' : playing ? 'Playing' : 'Ready'}
-        </span>
-      </div>
+    <div
+      className="pt-tts-dock lg:pt-tts-dock-lg pt-tts-dock-visible"
+      data-pt-tts-dock="true"
+    >
       {err.length > 0 ? <div className="pt-tts-err">{err}</div> : null}
+      <div className="pt-tts-panel">
+        <div className="pt-tts-dock-row">
+          <button
+            type="button"
+            className="pt-tts-play"
+            disabled={busy}
+            onClick={onPlayToggle}
+            aria-label={playing ? 'Pause' : 'Play article'}
+            title={playing ? 'Pause' : 'Play article (Piper)'}
+          >
+            {playing ? <IconPause /> : <IconPlay />}
+          </button>
+          <button
+            type="button"
+            className="pt-tts-stop"
+            onClick={onStopClick}
+            aria-label="Stop"
+            title="Stop"
+          >
+            <IconStop />
+          </button>
+          {scrolled ? (
+            <button
+              type="button"
+              className="pt-tts-top"
+              onClick={() => {
+                scrollToTop()
+              }}
+              aria-label="Back to top"
+              title="Back to top"
+            >
+              <IconChevronUp />
+            </button>
+          ) : null}
+          {countLabel.length > 0 ? (
+            <span className="pt-tts-count">{countLabel}</span>
+          ) : (
+            <span className="pt-tts-status">{status}</span>
+          )}
+        </div>
+      </div>
       {src.length > 0 ? (
         <AudioPlayer
           src={src}

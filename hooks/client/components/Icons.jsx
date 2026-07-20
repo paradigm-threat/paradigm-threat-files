@@ -151,3 +151,51 @@ export function IconChevronRight() {
     </Icon>
   )
 }
+
+export function IconChevronUp() {
+  return (
+    <Icon size={20}>
+      <path d="m18 15-6-6-6 6" />
+    </Icon>
+  )
+}
+
+/** Filled play triangle (TTS dock — matches old site lucide Play). */
+export function IconPlay() {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width={24}
+      height={24}
+      viewBox="0 0 24 24"
+      aria-hidden="true"
+      style={{ display: 'inline-block', flexShrink: 0, marginLeft: '0.15rem' }}
+    >
+      <polygon points="6 3 20 12 6 21 6 3" fill="currentColor" />
+    </svg>
+  )
+}
+
+export function IconPause() {
+  return (
+    <Icon size={24}>
+      <rect x="6" y="4" width="4" height="16" rx="1" />
+      <rect x="14" y="4" width="4" height="16" rx="1" />
+    </Icon>
+  )
+}
+
+export function IconStop() {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width={18}
+      height={18}
+      viewBox="0 0 24 24"
+      aria-hidden="true"
+      style={{ display: 'inline-block', flexShrink: 0 }}
+    >
+      <rect x="5" y="5" width="14" height="14" rx="1" fill="currentColor" />
+    </svg>
+  )
+}
