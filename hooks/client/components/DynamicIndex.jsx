@@ -249,9 +249,17 @@ export default function DynamicIndex() {
     )
   }
 
-  // No ghost column when there is nothing to index.
+  // Keep the instance mounted while empty so the poll effect can fill headings.
+  // Returning null unmounts CleverScript hooks and freezes TOC at empty forever.
   if (items.length === 0) {
-    return null
+    return (
+      <aside
+        className="pt-toc pt-toc-empty lg:pt-toc-lg"
+        aria-label="On this page"
+        data-pt-toc-empty="1"
+        hidden={true}
+      />
+    )
   }
 
   let links = []

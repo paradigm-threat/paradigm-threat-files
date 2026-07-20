@@ -978,6 +978,8 @@ themes:
         position: "sticky"
         top: "6rem"
         zIndex: 20
+      ".pt-toc-empty":
+        display: "none"
       ".pt-toc-head":
         marginBottom: "0.65rem"
         paddingLeft: "0.5rem"

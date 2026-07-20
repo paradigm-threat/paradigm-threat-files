@@ -228,11 +228,18 @@ export default function ArticleView(props) {
   const prevHref = neighbors.prev.length > 0 ? siteHref('/' + neighbors.prev) : ''
   const nextHref = neighbors.next.length > 0 ? siteHref('/' + neighbors.next) : ''
   const hideToolbar =
+    pathPart === 'page.md' ||
+    pathPart === 'README.md' ||
+    pathPart === 'index.md' ||
     currentPath === '/' ||
     currentPath === '/index.md' ||
-    currentPath === '/page.md' ||
-    pathPart === 'page.md'
-  const showToc = hideToolbar !== true
+    currentPath === '/page.md'
+  // Prefer file path so SPA/in-app navigations still show TOC on articles.
+  const showToc =
+    pathPart !== 'page.md' &&
+    pathPart !== 'README.md' &&
+    pathPart !== 'index.md' &&
+    pathPart.length > 0
 
   function renderAutoIndex(p) {
     let pathAttr = ''
