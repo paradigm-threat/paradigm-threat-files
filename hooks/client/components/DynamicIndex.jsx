@@ -368,7 +368,7 @@ export default function DynamicIndex(props) {
   return (
     <aside className="pt-toc lg:pt-toc-lg" aria-label="Table of contents">
       <div className="pt-toc-head">
-        <h2 className="pt-toc-title">Table of Contents</h2>
+        <h2 className="pt-toc-title">{'Table of Contents'}</h2>
       </div>
       <ul className="pt-toc-list">{links}</ul>
     </aside>
