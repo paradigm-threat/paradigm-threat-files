@@ -12,7 +12,7 @@
 4. Want **what he cites** → [§5](#5-citations-and-intertexts-spurr-side)
 5. Want **debunks / risk** → [§6](#6-skeptical-and-mainstream-counters)
 6. Want **overlap / CO / poison pills** → [§7](#7-overlap-with-mfee-giants-and-this-repo) / [§7.2](#72-poison-pill--easy-debunk-inventory-co-adjacent-function)
-7. Want **Spurr email thread** → [§11](#11-spurr-correspondence-2026-07)
+7. Want **Spurr email thread / follow-up letter** → [§11](#11-spurr-correspondence-2026-07) / [§11.1](#111-author-follow-up-letter-draft--send--2026-07-21)
 8. Want **open work** → [§9](#9-questions-to-clarify-verify-or-debunk) / [§10](#10-weak-points--remaining-research-todos)
 
 ---
