@@ -119,13 +119,19 @@ Do not use local `main` as the daily work branch unless explicitly syncing produ
 
 ## Ancestry heal (2026-07-21)
 
-Relay `main` and the old GitLab tip had **unrelated roots** (Relay reborn ~2026-07-18; GitLab kept the long March–July line). Cherry-pick was required for every go-live.
+Relay `main` and the old GitLab tip had **unrelated / incomplete roots**. Relay tip `8ec8fc17` cites parent `de69f1e5…` that **neither this clone nor deepen-fetch from dfw1 can read** — Relay history is effectively **shallow/broken at the cut**, which is why `merge-base` with GitLab fails and why GitLab rejects force-pushes that include Relay commits (`shallow update not allowed`).
 
-**Heal (careful):**
+**Done carefully (2026-07-21):**
 
-1. Tag archive: `archive/gitlab-pre-relay-align-2026-07-21` → old `gitlab/gitlab` tip (`86b27490`). Also keep `gitlab/main` (still on the old line at Jedi ship) as a second archive ref.
-2. Land this strategy doc + remotes Cursor rule + disabled `.gitlab-ci.yml` onto Relay `main` (they were GitLab-only).
-3. Force-push **only** `gitlab/gitlab` to the new Relay-aligned tip. **Do not** force-push Relay `main` or `gitlab/main`.
+1. Tag archive: `archive/gitlab-pre-relay-align-2026-07-21` → old `gitlab/gitlab` tip (`86b27490`). `gitlab/main` still on the old line (Jedi ship) as a second archive ref.
+2. Land this strategy doc + remotes Cursor rule + disabled `.gitlab-ci.yml` onto Relay `main` (`aa09690c`) and FF-push all three Relays.
+3. **FF** (not force) `gitlab/gitlab` to `fce6897b` — same **tree** as Relay tip `aa09690c`, parent = pre-align GitLab tip. Backup tip content now matches production tip content.
 
-After heal, `git merge-base HEAD dfw1/main` must succeed on the daily `gitlab` branch. Go-live returns to rebase/FF onto `dfw1/main`, then push all three Relays, then `git push gitlab HEAD:gitlab`.
+**Still open (needs Relay-side fix, not another GitLab force):**
+
+- Restore full objects behind Relay `main` (or replace Relay root with a true orphan commit whose tree is current tip) so clones are not shallow and `git merge-base HEAD dfw1/main` works.
+- Until then, go-live may still need **tree-aware** publish (cherry-pick / commit-tree), not a normal rebase onto `dfw1/main`.
+
+**Do not** force-push Relay `main` or `gitlab/main` without an explicit author order.
+
 
