@@ -1,18 +1,19 @@
 ---
-description: Relay main is production; GitLab uses branch gitlab — never treat them as one tip
+description: Single main on GitLab + Relays — GitLab is forge SoT
 alwaysApply: true
 ---
 
-# paradigm-threat-files: git remotes (Relay `main` vs GitLab `gitlab`)
+# paradigm-threat-files: git remotes (single `main`)
 
 **Canon:** [`docs/GIT_REMOTE_STRATEGY.md`](docs/GIT_REMOTE_STRATEGY.md)
 
 ## Rules (compact)
 
-- **Production:** Relay remotes **`dfw1` / `hkg1` / `lon1`** branch **`main`** — live site content.
-- **GitLab backup:** remote **`gitlab`**, branch **`gitlab`** (tracks `gitlab/gitlab`). **Not** `gitlab/main` for day-to-day pushes.
-- **Local default checkout:** branch **`gitlab`**.
-- **Ordinary commit + push:** `git push gitlab HEAD:gitlab` only.
-- **Go live / push remotes / push everything live:** `git fetch` → **rebase/merge onto `dfw1/main`** → push all three Relay `main` → then `git push gitlab HEAD:gitlab`.
-- **Never** assume GitLab tip == Relay tip. **Never** dual cherry-pick as sync. **Never** force-push Relay `main` unless the author explicitly orders it.
+- **One tip:** GitLab **`main`** and Relay **`dfw1` / `hkg1` / `lon1` `main`** stay identical.
+- **Forge SoT:** remote **`gitlab`**, branch **`main`**.
+- **Local default checkout:** branch **`main`**.
+- **Ordinary commit + push:** `git push gitlab HEAD:main`.
+- **Go live / push remotes / push everything live:** push the **same** tip to all three Relay `main`, then confirm GitLab matches.
+- **Never** dual cherry-pick as sync. **Never** force-push Relay `main` unless the author explicitly orders it (prefer reclone from GitLab).
 - **Never** land long-lived commits on only one Relay.
+- Do **not** use retired workarounds: `gitlab` work branch, `relay-publish`.

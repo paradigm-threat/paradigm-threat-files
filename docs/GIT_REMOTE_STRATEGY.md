@@ -1,7 +1,7 @@
-# Git remotes — Relay `main` vs GitLab `gitlab` branch
+# Git remotes — single `main` (GitLab + Relay)
 
-**Date:** 2026-07-18  
-**Purpose:** Stop treating GitLab `main` and Relay `main` as the same tip. That false identity caused repeated split-brain (Jedi ship on GitLab / hkg1 / lon1 while dfw1 moved on without it).
+**Date:** 2026-07-21  
+**Purpose:** One shared tip everywhere. GitLab is forge source of truth; Relay `dfw1` / `hkg1` / `lon1` serve the same `main`.
 
 ---
 
@@ -9,80 +9,58 @@
 
 | Surface | Branch | Role |
 |---------|--------|------|
-| **Relay** (`dfw1`, `hkg1`, `lon1`) | **`main`** | **Production / canonical live tree** for `paradigmthreat.net` content. Site + chat resolve from here. |
-| **GitLab** (`gitlab`) | **`gitlab`** | **Backup / MR / CI mirror** of author + agent work. **Not** the live site tip. |
-| **Local default checkout** | **`gitlab`** | Day-to-day commits. Tracks `gitlab/gitlab`. |
+| **GitLab** (`gitlab`) | **`main`** | Forge backup / MR / CI — **source of truth** for history. |
+| **Relay** (`dfw1`, `hkg1`, `lon1`) | **`main`** | Production for `paradigmthreat.net` content. Must match GitLab `main`. |
+| **Local default checkout** | **`main`** | Day-to-day commits. Tracks `gitlab/main` (or any remote `main`). |
 
-Do **not** push day-to-day work to `gitlab/main`. Leave GitLab’s `main` alone unless deliberately syncing or retiring it.
-
----
-
-## Day-to-day (enough to avoid *accidental* dual-main)
-
-```bash
-# Stay on the GitLab work branch
-git checkout gitlab
-git pull --ff-only   # from gitlab/gitlab
-
-# Commit as usual, then:
-git push gitlab HEAD:gitlab
-```
-
-That alone **prevents** “I pushed to GitLab `main` and thought relays updated.” Relays do **not** auto-follow the `gitlab` branch.
+Do **not** use a long-lived `gitlab` work branch or `relay-publish` cherry-pick branch. Those were split-brain workarounds (retired 2026-07-21).
 
 ---
 
-## Publish to production (required when content must go live)
-
-Relays only move when you **intentionally** update **`main`** on Relay remotes.
+## Day-to-day
 
 ```bash
-git fetch dfw1
-git fetch hkg1
-git fetch lon1
-git fetch gitlab
+git checkout main
+git pull --ff-only   # from gitlab/main (or your upstream)
 
-# Integrate latest production tip into your work branch first
-git checkout gitlab
-git rebase dfw1/main          # or: merge dfw1/main
-# fix conflicts, re-test, commit if needed
+# Commit as usual, then push forge first:
+git push gitlab HEAD:main
 
-# Push production
+# Go live — same tip to all Relays:
 git push dfw1 HEAD:main
 git push hkg1 HEAD:main
 git push lon1 HEAD:main
+```
 
-# Mirror the same tip to GitLab’s backup branch
-git push gitlab HEAD:gitlab
+Or, when going live in one step after the commit is on `main`:
+
+```bash
+git push gitlab HEAD:main
+git push dfw1 HEAD:main && git push hkg1 HEAD:main && git push lon1 HEAD:main
 ```
 
 **Hard rules**
 
-1. **Never** `git push` the same local tip to `gitlab/main` and Relay `main` and assume they share history.
-2. **Never** cherry-pick the same change onto two unrelated tips as a long-term sync strategy.
-3. **Never** land feature commits only on one Relay (e.g. CleverScript on dfw1 only) without first integrating into the shared `main` line you will push to **all** relays.
-4. Before multi-relay push, tips must be **fast-forward compatible** with `dfw1/main` (or you deliberately force with author approval).
+1. All four remotes’ `main` tips must stay identical (or FF-compatible from the same spine).
+2. **Never** dual cherry-pick onto unrelated histories.
+3. **Never** land long-lived commits on only one Relay.
+4. **Never** force-push Relay `main` unless the author explicitly orders it (prefer bare reclone from GitLab if history must be replaced).
 
 **Preflight**
 
 ```bash
 git fetch --all
-git merge-base --is-ancestor dfw1/main HEAD || echo "BLOCK: rebase onto dfw1/main first"
+test "$(git rev-parse HEAD)" = "$(git rev-parse gitlab/main)" || echo "BLOCK: update local main from gitlab first"
+git merge-base --is-ancestor dfw1/main HEAD || echo "BLOCK: rebase/FF onto production tip first"
 ```
 
 ---
 
-## Is renaming the GitLab branch enough?
+## Catalog / shallow clones
 
-**Necessary, not sufficient.**
+Relay **`sync-relay-catalog.sh`** defaults to **full** bare clones (`RELAY_CATALOG_CLONE_DEPTH=0`) for thin repos. Shallow (`=1`) is opt-in for free-tier stub forges only — see relay-master README / `RELAY_TRUST_AND_BOOTSTRAP.md`.
 
-| Helps | Still required |
-|-------|----------------|
-| Stops confusing GitLab `main` with Relay `main` | Always **rebase/merge onto Relay `main` before** production push |
-| Makes “push to GitLab” mean `gitlab/gitlab` | Push **all three** relays together after rebase |
-| Local checkout `gitlab` matches the backup remote | No relay-only forks; no cherry-pick dual history |
-
-Without the publish ritual, work on `gitlab` never reaches the live site — and work done only on Relay `main` never reaches GitLab.
+Catalog entries for this repo point at **GitLab** with the GitLab-spine trusted root (not the old Relay orphan cut).
 
 ---
 
@@ -90,48 +68,21 @@ Without the publish ritual, work on `gitlab` never reaches the live site — and
 
 When the author asks to **commit and push**:
 
-1. Ensure checkout is **`gitlab`** (or create/update it from current work).
-2. `git push gitlab HEAD:gitlab`.
-3. If they asked to **go live** / **push remotes** / **push everything live**: rebase onto `dfw1/main`, then push `dfw1` / `hkg1` / `lon1` **`main`**, then refresh `gitlab/gitlab`.
+1. Ensure checkout is **`main`**.
+2. `git push gitlab HEAD:main`.
+3. If they asked to **go live** / **push remotes** / **push everything live**: push the **same** tip to `dfw1` / `hkg1` / `lon1` **`main`**.
 4. Do **not** force-push Relay `main` unless the author explicitly orders it.
 
 Canon pointer for chat live-publish: [`docs/CHAT_REQUEST_RESPONSE.md`](CHAT_REQUEST_RESPONSE.md) §6.
 
 ---
 
-## One-time setup (already applied 2026-07-18)
+## Heal history (2026-07-21)
 
-```bash
-git checkout -B gitlab HEAD
-git push -u gitlab HEAD:gitlab
-# local branch gitlab tracks gitlab/gitlab
-```
+Split-brain between GitLab’s long line and a broken/shallow Relay cut was repaired by:
 
-Optional: point local `main` at Relay for comparison only:
+1. Fast-forwarding GitLab `main` onto the GitLab spine tip.
+2. Bare-repo swap on each Relay from GitLab (full history), keeping on-box backups.
+3. Retiring `relay-publish` and the dual-branch publish ritual.
 
-```bash
-git branch -u dfw1/main main
-```
-
-Do not use local `main` as the daily work branch unless explicitly syncing production.
-
----
-
-## Ancestry heal (2026-07-21)
-
-Relay `main` and the old GitLab tip had **unrelated / incomplete roots**. Relay tip `8ec8fc17` cites parent `de69f1e5…` that **neither this clone nor deepen-fetch from dfw1 can read** — Relay history is effectively **shallow/broken at the cut**, which is why `merge-base` with GitLab fails and why GitLab rejects force-pushes that include Relay commits (`shallow update not allowed`).
-
-**Done carefully (2026-07-21):**
-
-1. Tag archive: `archive/gitlab-pre-relay-align-2026-07-21` → old `gitlab/gitlab` tip (`86b27490`). `gitlab/main` still on the old line (Jedi ship) as a second archive ref.
-2. Land this strategy doc + remotes Cursor rule + disabled `.gitlab-ci.yml` onto Relay `main` (`aa09690c`) and FF-push all three Relays.
-3. **FF** (not force) `gitlab/gitlab` to `fce6897b` — same **tree** as Relay tip `aa09690c`, parent = pre-align GitLab tip. Backup tip content now matches production tip content.
-
-**Still open (needs Relay-side fix, not another GitLab force):**
-
-- Restore full objects behind Relay `main` (or replace Relay root with a true orphan commit whose tree is current tip) so clones are not shallow and `git merge-base HEAD dfw1/main` works.
-- Until then, go-live may still need **tree-aware** publish (cherry-pick / commit-tree), not a normal rebase onto `dfw1/main`.
-
-**Do not** force-push Relay `main` or `gitlab/main` without an explicit author order.
-
-
+Archive tags (examples): `archive/gitlab-pre-relay-align-2026-07-21`, `archive/pre-unify-2026-07-21-gitlab-spine`.
