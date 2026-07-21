@@ -1,6 +1,7 @@
 import manifest from '@hooks'
-import { parseNavIndexTxt } from '@relay/catalog'
+import { parseNavIndexTxt, isFeelingLuckyCandidate, pickFeelingLuckyPath as hostPickLucky } from '@relay/catalog'
 import { take } from '@relay/util'
+import { siteHref as hostSiteHref } from '@relay/path'
 import { cachedGet } from '@relay/ui'
 
 function clientBase() {
@@ -18,20 +19,7 @@ function clientBase() {
 
 /** Match SSR HTML href rewriting (`asset_base_url` + relative path). */
 export function siteHref(path) {
-  let p = ''
-  if (typeof path === 'string') p = path
-  if (p.length === 0) p = '/'
-  if (p.charAt(0) === '#' || p.indexOf('mailto:') === 0 || p.indexOf('tel:') === 0) {
-    return p
-  }
-  if (p.indexOf('://') >= 0) return p
-  while (p.length > 0 && p.charAt(0) === '/') {
-    p = p.slice(1)
-  }
-  const base = clientBase()
-  if (base.length === 0) return '/' + p
-  if (p.length === 0) return base + '/'
-  return base + '/' + p
+  return hostSiteHref(clientBase(), path)
 }
 
 export function rowPath(row) {
@@ -115,47 +103,25 @@ export function featuredArticlePath(rows) {
   return ''
 }
 
-/** Paths eligible for I'm Feeling Lucky (files park — markdown articles only). */
-export function isFeelingLuckyCandidate(path) {
-  if (!path || typeof path !== 'string') return false
-  if (path.length < 4) return false
-  const lower = path.toLowerCase()
-  if (lower.slice(lower.length - 3) !== '.md') return false
-  if (lower.indexOf('.auto.md') >= 0) return false
-  if (path === 'README.md' || path === 'page.md') return false
-  return true
-}
+export { isFeelingLuckyCandidate }
 
 /**
- * Pick a rotating article path from nav-index.
- * Avoids Date/Math.random and bitwise ops (unsupported in CleverScript / WASM).
+ * Pick a rotating article path from nav-index (host pick + tip seed).
  */
 export function pickFeelingLuckyPath() {
   const rows = loadArticleRows(200)
-  let candidates = []
-  for (let i = 0; i < rows.length; i++) {
-    const p = rowPath(rows[i])
-    if (isFeelingLuckyCandidate(p)) {
-      candidates = candidates.concat([p])
-    }
-  }
-  if (candidates.length === 0) return ''
-  let idx = 0
+  let seed = 0
   try {
     const g = globalThis
-    let sum = 0
     if (g && g.location && typeof g.location.pathname === 'string') {
-      sum = g.location.pathname.length
+      seed = g.location.pathname.length
     }
     if (g && g.performance && typeof g.performance.now === 'function') {
       const n = g.performance.now()
-      if (typeof n === 'number') sum = sum + n
+      if (typeof n === 'number') seed = seed + n
     }
-    idx = sum % candidates.length
   } catch (e) {
-    idx = 0
+    seed = 0
   }
-  if (idx < 0) idx = 0
-  if (idx >= candidates.length) idx = 0
-  return candidates[idx]
+  return hostPickLucky(rows, seed)
 }

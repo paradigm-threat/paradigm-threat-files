@@ -863,6 +863,36 @@ themes:
         fontSize: "0.875rem"
       ".pt-md-stub":
         display: "none"
+      ".pt-embed":
+        display: "flex"
+        flexDirection: "column"
+        width: "100%"
+        minHeight: "28rem"
+        marginTop: "1rem"
+        marginBottom: "1rem"
+        gap: "0.5rem"
+      ".pt-embed-empty":
+        minHeight: "auto"
+      ".pt-embed-frame":
+        width: "100%"
+        flex: 1
+        minHeight: "24rem"
+        borderWidth: 0
+        borderRadius: "0.75rem"
+        backgroundColor: "#ffffff"
+        boxShadow: "inset 0 1px 4px rgba(15, 23, 42, 0.12)"
+      ".pt-embed-caption":
+        marginTop: "0.25rem"
+        fontSize: "0.75rem"
+        fontStyle: "italic"
+        opacity: 0.8
+        textAlign: "justify"
+      ".pt-embed-link":
+        fontSize: "0.75rem"
+        wordBreak: "break-all"
+        opacity: 0.6
+        color: "var(primary)"
+        textDecoration: "none"
       ".pt-footer":
         marginTop: "auto"
         flexShrink: 0

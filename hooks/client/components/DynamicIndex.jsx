@@ -5,6 +5,7 @@
  */
 import React, { useState, useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
+import { slugify, uniqueId } from '@relay/util'
 import { propStr } from 'hooks/client/propOr.jsx'
 
 function str(v) {
@@ -12,37 +13,6 @@ function str(v) {
   if (typeof v === 'string') return v
   if (typeof v === 'number') return '' + v
   return ''
-}
-
-function trimEndUnderscore(s) {
-  let t = s
-  while (t.length > 0 && t.charAt(t.length - 1) === '_') {
-    t = t.slice(0, t.length - 1)
-  }
-  return t
-}
-
-function slugify(title) {
-  const s = str(title).toLowerCase()
-  let out = ''
-  for (let i = 0; i < s.length; i++) {
-    const c = s.charAt(i)
-    if (c === ' ' || c === '\t' || c === '\n' || c === '\r') {
-      if (out.length > 0 && out.charAt(out.length - 1) !== '_') {
-        out = out + '_'
-      }
-    } else if (
-      (c >= 'a' && c <= 'z') ||
-      (c >= '0' && c <= '9') ||
-      c === '-' ||
-      c === '_'
-    ) {
-      out = out + c
-    }
-  }
-  out = trimEndUnderscore(out)
-  if (out.length === 0) return 'section'
-  return out
 }
 
 function headingLevel(el) {
@@ -95,23 +65,6 @@ function headingExcluded(el) {
     if (typeof cls === 'string' && cls.indexOf('no-index') >= 0) return true
   } catch (e2) {}
   return false
-}
-
-function idInUsed(id, used) {
-  for (let i = 0; i < used.length; i++) {
-    if (used[i] === id) return true
-  }
-  return false
-}
-
-function uniqueId(base, used) {
-  let id = base
-  let n = 1
-  while (idInUsed(id, used)) {
-    id = base + '_' + n
-    n = n + 1
-  }
-  return id
 }
 
 function fingerprint(items) {

@@ -8,10 +8,10 @@ Thin tip code via **`@relay/*`** (registered on SSR + WASM):
 
 | Module | Use for |
 |--------|---------|
-| `@relay/catalog` | `parseNavIndexTxt`, `contentKind`, `buildDirTree`, `publishedFromBlogPath`, `loadNavIndex` |
+| `@relay/catalog` | `parseNavIndexTxt`, `contentKind`, `buildDirTree`, `publishedFromBlogPath`, `loadNavIndex`, `neighborPaths`, `isFeelingLuckyCandidate`, `pickFeelingLuckyPath` |
 | `@relay/date` | `formatTiny` / `formatLong` / `formatFeed` / `sameDay` |
-| `@relay/path` | `basename`, `dirname`, `join`, `split` |
-| `@relay/util` | `sortBy`, `take`, `prop`, `omitUndefined` |
+| `@relay/path` | `basename`, `dirname`, `join`, `split`, `normalizeRel`, `resolveRel`, `parentDir`, `siteHref`, `resolveEmbedSrc`, `resolveAssetUrl`, `rewriteMarkdownAssetUrls` |
+| `@relay/util` | `sortBy`, `take`, `prop`, `omitUndefined`, `slugify`, `uniqueId`, `includes` |
 | `@relay/ui` | `cachedGet`, `Link`, `RadioTabs`, `safeProps` |
 | `@relay/tts` | `synthesize` (Piper WAV→data URL), `AudioPlayer` |
 
