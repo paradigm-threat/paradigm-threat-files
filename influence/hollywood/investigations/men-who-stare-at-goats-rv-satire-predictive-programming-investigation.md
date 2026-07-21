@@ -19,6 +19,8 @@
 3. **2009 film as containment of the 2004 book** → §3  
 4. **Abu Ghraib — Ronson’s sink vs author’s counter-read** → §3.7  
 5. **McGregor casting / typecasting containment** → §3.8  
+5a. **French-hoax / Soviet-copycat origin fable** → §3.3.1  
+5b. **Book people vs film inventions** → §3.3.2  
 6. **Lies to the viewer / MKULTRA bubble** → §4  
 7. **Jedi / *Star Wars* chronology** → §5  
 8. **Ability map (book ↔ Ep. IV–V) + dark Jedi** → §5.4–§5.5  
@@ -72,8 +74,8 @@
 |------|----------------------------------------|
 | **Bill Django** (Jeff Bridges) | Jim Channon / First Earth Battalion founder lane |
 | **Lyn Cassady** (George Clooney) | Composite psychic soldier (Ronson trail includes Wheaton, Savelli lore, Fort Meade viewers) |
-| **Bob Wilton** (Ewan McGregor) | Reporter stand-in (Ronson-class outsider). **Author:** casting Obi-Wan’s actor into a Jedi-mocking comedy = **containment typecasting**, not “clever casting” (§3.8) |
-| **Larry Hooper** (Kevin Spacey) | Rogue PSYOP / “dark side” of the same stack |
+| **Bob Wilton** (Ewan McGregor) | **Film invention** — small-town reporter writing up the story (Ronson stand-in; not in the book). **Author:** casting Obi-Wan’s actor into a Jedi-mocking comedy = **containment typecasting**, not “clever casting” (§3.8) |
+| **Larry Hooper** (Kevin Spacey) | **Film invention** — dark-side rival / black-site face; **absent** from Ronson (book already has ch. 9 *THE DARK SIDE* without this name) |
 | **New Earth Army** | Fictionalized **First Earth Battalion** |
 
 **Primary public entries:** [Wikipedia — book](https://en.wikipedia.org/wiki/The_Men_Who_Stare_at_Goats) · [Wikipedia — film](https://en.wikipedia.org/wiki/The_Men_Who_Stare_at_Goats_(film)) · [First Earth Battalion](https://en.wikipedia.org/wiki/First_Earth_Battalion) · [Jim Channon](https://en.wikipedia.org/wiki/Jim_Channon).
@@ -138,6 +140,33 @@ Aligned with in-repo [ghost-tourism §8](/influence/conspiracy/investigations/gh
 
 Comedy tone + Iraq farce = **respectable public subset** of a much darker stack — classic **[R6 shell](/docs/REDACTION.md)**.
 
+### 3.3.1 French-hoax origin fable — insulting misdirection
+
+**Author (2026-07-18):** In the **2009 film** (general-class exposition; Hopgood / Stubblebine-adjacent lane), and in Cold War folklore the goats product leans on, the story goes: **Russians** only opened psychic-spy research because they thought **America** was already doing it — after reading a **French magazine hoax** (classic *Nautilus* / *Constellation*–*Science et Vie* telepathy press, ~1959–60). The implication is that the **whole international stack** happened by **accident**: paranoia + fake article + copycat fear.
+
+**Author verdict:** That is **containment and misdirection**, and it is **rather insulting**. It makes **everyone in all governments involved look very stupid** — as if they could not detect this class of capability in their **own literature**, **own people**, or **own labs** without enemy-spy paranoia or getting faked out by a magazine. Real programs do not bootstrap from a joke clip alone. The fable lets the audience file psychic warfare under “Cold War silliness” and stop asking who trained whom **on purpose**.
+
+| Layer | Status |
+|-------|--------|
+| Film delivers a French-hoax / Soviet-copycat origin beat via general-class voice | **Author recall** of 2009 film — confirm on shot list (Q21) |
+| Historical “Nautilus Affair” French press → Soviet interest narrative exists in intel / secondary literature | **Documented** as a **told** origin story (often labeled hoax) — e.g. STAR GATE-era assessments cite French articles sparking Soviet permission structure; see Black Vault / Nautilus Affair secondary writeups |
+| “Whole thing happened by accident / hoax / paranoia” as the **preferred public OS** | **Author** — containment read |
+| Insult: governments too dumb to notice own literature / people without enemy spy or magazine fake | **Author** |
+
+Ronson’s **2004** EPUB chapter text (local corpus) does **not** foreground the French-hoax line the way the film’s exposition does — treat book presence as **open** until a primary page is pinned; the **misdirection function** still lands in the goats media stack via the film and wider folklore.
+
+### 3.3.2 Book people vs film inventions (light map)
+
+| Surface | What it is |
+|---------|------------|
+| **Book** | Nonfiction oral history — mostly **real named** people (Stubblebine, Channon, Wheaton, Geller, Buchanan, McMoneagle, Alexander, Dames, Savelli, Eric Olson, …). One clear cover: **Joseph Curtis** (Abu Ghraib source). Failure mode = **misread / mis-center**, not a fake cast. |
+| **Film** | **Fiction** comedy — end titles: Cassady / Django based on real persons; **all other characters invented or composites**. Invents Iraq buddy plot, Wilton-as-reporter writing the story, Hooper, Hopgood, etc. |
+| **Containment read** | Keep a few real-name rhymes as garnish; invent the plot so the audience cannot treat the oral history as evidence without “believing a movie.” |
+
+Ronson’s entry trail is **Uri Geller** (already a decades-old public CIA/SRI rumor lane), **not** “I was inspired by the STAR GATE FOIA dump.” He never explains institutional **RV startup** (SRI / SCANATE / Soviet-gap paper trail). Separate from First Earth / Vietnam causal story he *does* narrate.
+
+---
+
 ### 3.4 Containment hypothesis — pattern table
 
 | Signal | Documented / author | Why it matters for CO read |
@@ -148,6 +177,7 @@ Comedy tone + Iraq farce = **respectable public subset** of a much darker stack 
 | **Fiction label** | Film is openly a narrative comedy | Audience **cannot** treat it as evidence without looking like they “believe a movie” |
 | **Same Clooney year-cluster** | ***Burn After Reading* (2008)** also Clooney in CIA-decay satire ([Thread Q](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-q--burn-after-reading-2008-cia-decay--interagency-satire)) | Author clue: **comedy CIA stack** as recurring containment grammar — **not** proof of one handler |
 | **Payload still present** | Jedi soldiers, goat stare, psychic unit, Iraq reactivation | Containment often **keeps** the leak so it can be **laughed off**, not erased (**R6**, not pure **R1**) |
+| **French-hoax / Soviet-copycat origin** | Film + Cold War folklore (*Nautilus* press lane) | Frames whole stack as **accident / paranoia** — insulting misdirection (§3.3.1) |
 
 **Author verdict (open, not court):** **2009 = CO containment of 2004** is the **working read**. Studio memos proving intent are **not** in hand; the **genre operation itself** is the strongest available tell.
 
@@ -481,7 +511,9 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 18. ***Star Wars* franchise containment** — many hands beyond Lucas; sequel disinterest then return; Holiday Special / possible Hamill replacement; Boba Fett–class beats lifted into Ep. V without credit; long freeze to merch/games; Disney trilogy as further containment (even decanon talk); **Force ruin** from Ep. I midichlorians + Ep. II–III resurrection seed through Ep. VII–IX spectacle / clone / object-warp (§5.6) — **containment strategy, not bad casting**.  
 19. **Cadre deserve redemption while alive** — abuse victims across most of their lives; often **never understood the agenda** behind crimes committed under bubble tasking; goats product + Force-ruin films built to deny that hearing.  
 20. **McGregor casting = containment typecasting** — Obi-Wan’s actor in a Jedi-mocking comedy is not a wise artistic choice; tight reuse of space/Jedi faces for loyalty and message control (§3.8).  
-21. **Ep. VII–IX moved Force away from goat / MKULTRA reality** — mid-air bolt freeze; fatal remote projection; cross-location object transfer; Jedi cloning detaches spirituality from ability; Ep. VII mind-reading still true (§5.6).
+21. **Ep. VII–IX moved Force away from goat / MKULTRA reality** — mid-air bolt freeze; fatal remote projection; cross-location object transfer; Jedi cloning detaches spirituality from ability; Ep. VII mind-reading still true (§5.6).  
+22. **French-hoax / Soviet-copycat origin fable** — film (and Cold War folklore) implies the whole psychic-spy stack started because Russians read a French magazine hoax about America; **insulting containment** that makes governments look too stupid to notice their own literature/people without enemy paranoia (§3.3.1).  
+23. **Film invents cast/plot; book misframes real people** — Wilton (reporter writing the story) and Hooper are film inventions; Ronson never explains RV institutional startup and enters via already-public Geller rumor (§3.3.2).
 
 ---
 
@@ -556,6 +588,7 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 | Q18 | Author’s **cadre size** (“thousands / hundreds of thousands”) — any order-of-magnitude from force structure? | INSCOM / SF / contractor headcounts — keep as **rhetoric** until numbered |
 | Q19 | McGregor casting trail — who pushed Obi-Wan’s actor into Wilton; any other Jedi/space faces in goats-adjacent reuse pool? | Casting notes; agent/studio trail; compare Clooney/Spacey/Bridges franchise adjacency |
 | Q20 | Sequel Force changes — primary shot list for bolt-freeze, fatal projection, dyad object-transfer, clone/Snoke lanes vs OT ability map; reception archive on faith-break | Ep. VII–IX close read + midichlorian / “new rules” press |
+| Q21 | Exact **film dialogue** (and any **Ronson book page**) for French-hoax / Soviet psychic-origin beat; confirm *Nautilus* / *Constellation*–*Science et Vie* match | 2009 subtitle/script; Ronson EPUB grep; STAR GATE assessments |
 
 ---
 
@@ -592,7 +625,7 @@ Do **not** collapse these into one “Jedi after Star Wars” slogan.
 
 Keywords: #MenWhoStareAtGoats #RemoteViewing #Stargate #FirstEarthBattalion #JimChannon #JediWarrior #StarWars #PredictiveProgramming #MKULTRA #JonRonson #GeorgeClooney #EwanMcGregor #Midichlorians #SequelTrilogy #SatireShell #PsychologicalWarfare #AbuGhraib #ControlledOpposition #ParadigmThreatFiles
 
-*Last updated: 2026-07-18* (§5.6 reception cites: Abrams/IGN midichlorians; SE bolt-freeze; BI “new rules”)
+*Last updated: 2026-07-18* (§3.3.2 film invents cast/plot; claim 23)
 
 ---
 
@@ -619,6 +652,8 @@ Keywords: #MenWhoStareAtGoats #RemoteViewing #Stargate #FirstEarthBattalion #Jim
 - Session prompt (2026-07-18): author asked to find RV investigations and add goats / Jedi / Star Wars / session-lie / MKULTRA-bubble thesis.  
 - Same day later: author rejects Ronson Abu Ghraib origin; CO-agent + cadre-damage; article voice memo → shipped [The Jedi Who Stare at Goats](/influence/hollywood/the-jedi-who-stare-at-goats.md) (everything in *Star Wars* true; Bardo/Obi-Wan; child Jedi; Lucasfilm containment).  
 - Same day: McGregor = containment typecasting (§3.8); Force ruin Ep. I–III / VII–IX (§5.6) — midichlorians, resurrection seed→IX, bolt freeze, fatal projection, object warp, clone Jedi; redemption landing = lifelong abuse / unknown agenda.  
+- Same day PM: French-hoax / Soviet-copycat origin fable as insulting containment (§3.3.1) — whole stack as accident/paranoia; governments look too stupid to notice own literature/people.  
+- Same day evening: light book-vs-film inventiveness map (§3.3.2) — film invents Wilton/Hooper/Iraq plot; book real names + misframe; Ronson enters via Geller, never explains RV startup.  
 - **Local book corpus:** `/home/ari/dev/wget/ronson/` — prefer `men-who-stare-at-goats-2004-a445ec7b.epub` + `text/men-who-stare-at-goats-2004.epub.txt`; chapter index + line anchors `men-who-stare-at-goats-2004.md`; splits in `text/chapters/`; corpus notes `INDEX.md` / `README.md`. Anna’s “2011” EPUB = same 2004 body (Word repackage), not a revised edition. Chrome downloads land on `/media/ari/HD/Downloads`, not `~/Downloads`.  
 - **Primary confirms:** Wheaton **Project Jedi**; invisibility → “**not being seen**” / “If you’re not observed, you are invisible”; book **ch. 9 title = THE DARK SIDE**; film **Hooper** absent from book; Abu Ghraib = ch. 7/9/11 spine.  
 - Secondary chronology aid (not A-tier): Defense Forum / “Warrior Monk” essay — verify before promoting quotes.  
