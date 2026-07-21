@@ -10,6 +10,7 @@
     { "path": "hooks/client/components/ThemeToggle.jsx", "name": "ThemeToggle" },
     { "path": "hooks/client/components/FontToggle.jsx", "name": "FontToggle" },
     { "path": "hooks/client/components/PopImage.jsx", "name": "PopImage" },
+    { "path": "hooks/client/components/EmbedFile.jsx", "name": "EmbedFile" },
     { "path": "hooks/client/components/ImageGalleryOverlay.jsx", "name": "ImageGalleryOverlay" },
     { "path": "hooks/client/components/BackToTop.jsx", "name": "BackToTop" },
     { "path": "hooks/client/components/ArticleTtsDock.jsx", "name": "ArticleTtsDock" },

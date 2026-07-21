@@ -38,6 +38,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - **`document` / `setInterval`** are injected builtins (WASM DOM host; SSR stubs). Host methods used on tip: `querySelector` / `querySelectorAll`, DomNode `setAttribute` / `getAttribute` / `scrollIntoView` / `getBoundingClientRect`, plus `getElementById`.
 - Theme CSS is **pruned to used `className`s** — keep a hidden marker vnode for classes only needed after client interaction (e.g. gallery overlay). TOC markers live in **`SiteChrome`** so home → article soft-nav still has `lg:pt-toc-lg` (otherwise TOC stays `display:none`).
 - **Do not `return null` from components that own `useEffect` polls** — CleverScript unmount kills the effect (TOC empty forever). Keep a hidden mounted shell (`pt-toc-empty`).
+- **New tip modules must be listed in `hooks.json`** — CSR hydrate only prefetches that manifest (SSR follows imports). Missing entries → `Module not found: hooks/...` hydration error with static shell left below.
 
 ## SSR data
 
