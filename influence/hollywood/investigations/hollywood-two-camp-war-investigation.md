@@ -2,10 +2,10 @@
 
 ![Hollywood two-camp war — investigation cover](hollywood-two-camp-war-investigation.png)
 
-> **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: war-prep with China? **Cyber / unity lane:** agency, declass, common foe? **Thread N — *T2*; Thread O — *ID4* (1996)** = NSA flagships. **Thread P — *Stargate* (1994 film)** = **CIA/globalist contrast** — ancient aliens + modern authority, **Atlantis/Mars laughed off**, sketchy portal physics/plot; **nothing “fake”** in *ID4* by comparison. **Thread Q — *Burn After Reading* (2008)** = **NSA-aligned interagency satire** — CIA **SigInt** purge, **Harry (Clooney) cellphone geolocation forecast**, **burn the body** (no FBI), **“What did we learn?”** closure. **Author heuristic:** NSA-camp blockbusters **rarer** and often **classics**; CIA-camp titles **more common**, **contradictory plots** tolerated to move misdirection payload.
+> **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: war-prep with China? **Cyber / unity lane:** agency, declass, common foe? **Thread N — *T2*; Thread O — *ID4* (1996)** = NSA flagships. **Thread P — *Stargate* (1994 film)** = **CIA/globalist contrast** — ancient aliens + modern authority, **Atlantis/Mars laughed off**, sketchy portal physics/plot; **nothing “fake”** in *ID4* by comparison. **Thread Q — *Burn After Reading* (2008)** = **NSA-aligned interagency satire** — CIA **SigInt** purge, **Harry (Clooney) cellphone geolocation forecast**, **burn the body** (no FBI), **“What did we learn?”** closure. ***Congo* (1995)** = **NSA overall** (Ross *loveless…sons of bitches* CIA audit + pro-African balance) with **residual CIA Africa contempt** (Monroe *settle scores*) and ***King Solomon’s Mines* / Zinj** memory-war payload. **Author heuristic:** NSA-camp blockbusters **rarer** and often **classics**; CIA-camp titles **more common**, **contradictory plots** tolerated to move misdirection payload.
 
 **Date:** 2026-06-17  
-**Status:** Open investigation; **reader essay published** 2026-06-17.  
+**Status:** Open investigation; **reader essay published** 2026-06-17; ***Congo* / Spielberg brand cluster** added 2026-07-21.  
 **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md)
 
 ---
@@ -17,7 +17,7 @@
 1. [Thread A — Definitions and litmus test](#thread-a--definitions-and-litmus-test)
 2. [Paradigm methodology — evidence tiers](#paradigm-methodology--evidence-tiers)
 3. [Author’s originating thesis](#authors-originating-thesis)
-4. [Thread D — Media catalog (film + TV working tables)](#thread-d--media-catalog-film--tv-working-tables)
+4. [Thread D — Media catalog (film + TV working tables)](#thread-d--media-catalog-film--tv-working-tables) — includes [*Congo* (1995)](#congo-1995--nsa-overall-cia-audit-residual-africa-contempt-ksmzinj); [Spielberg brand / Kennedy–Marshall (open)](#author--spielberg-brand--kennedy-marshall-machine-open)
 5. [Thread E — Games and interactive war fiction](#thread-e--games-and-interactive-war-fiction)
 6. [Thread F — Censorship vs camp](#thread-f--censorship-vs-camp)
 
@@ -446,6 +446,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 | ***Arrival*** | 2016 | US–China cooperate on aliens | Globalist-neutral | None | Released | Contrast bucket |
 | ***The Dark Knight Rises*** | 2012 | No HK/Lau arc; Bane occupation | Containment sequel | Low | Released China later | **Typical** sequel — [Thread G](#thread-g--one-off-masterpiece--franchise-containment) |
 | ***Burn After Reading*** | 2008 | CIA **SigInt** purge; **cellphone geolocation** forecast; **burn the body**; FBI excluded | NSA | None | Released | Interagency satire — [Thread Q](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire) |
+| ***Congo*** | 1995 | Congo theater (n/a China); Ross CIA audit; Monroe Africa contempt residual | NSA (overall; mixed residual) | None | Released | CIA audit + *KSM*/Zinj — [Congo note](#congo-1995--nsa-overall-cia-audit-residual-africa-contempt-ksmzinj) |
 | ***Joker*** (Phillips) | 2019 | Arthur Fleck victim narrative; protest “clowns” | CIA/MI6 | Low (war) / **high (counter-msg)** | Released | [Thread I](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019) |
 
 **TODO rows:** *Seven* (no China axis); *Arbitrage* (verify); *Tomorrow Never Dies* (HK banker?); *Blood Diamond* (wrong theater); 2012–2020 appeasement-era catalog expansion.
@@ -470,10 +471,66 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 |-------|------|-------------|---------------|-------|
 | ***Sneakers*** | 1992 | NSA vs CIA vs FBI; “we’re the good guys”; information war | **NSA** | Dialogue map — [good-actor § II.G](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | ***Burn After Reading*** | 2008 | CIA **SigInt** desk purge; **Harry cellphone location** line; memoir chaos; **burn the body** not FBI; transactional incompetence | **NSA** | **Flagship satire** — [Thread Q](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire) |
+| ***Congo*** | 1995 | Ross *“loveless bunch of sons of bitches”* (CIA); Wanta names CIA past; **residual** Monroe *settle scores* Africa contempt; pro-African **balance**; *KSM*/Zinj | **NSA** (overall; mixed residual) | [Congo note](#congo-1995--nsa-overall-cia-audit-residual-africa-contempt-ksmzinj) |
 
 **TODO rows:** *Three Days of the Condor* (1975); *Syriana* (2005); *The Recruit* (2003) — verify camp per title.
 
 **TODO rows:** *Tron* (1982); *WarGames* (1983); later ***Terminator*** sequels / TV (contain drift).
+
+### *Congo* (1995) — NSA overall; CIA audit; residual Africa contempt; *KSM*/Zinj
+
+**Scope:** ***Congo*** (1995 theatrical film; Frank Marshall dir.; John Patrick Shanley screenplay; Kennedy/Marshall). Based on Michael Crichton’s 1980 novel. **No** claim of agency production contact.
+
+**Camp label (author):** ***Congo* (1995) = NSA-aligned overall** (interagency satire / CIA audit lane) — **with residual CIA-aligned Africa-contempt dialogue** that the finished cut **balances** rather than fully purges. **Not** a pure flagship like *Burn After Reading*.
+
+#### Dialogue (L1)
+
+| Beat | Detail | Tier |
+|------|--------|------|
+| **Ross CIA audit** | Monroe: *“So why'd you quit the CIA?”* / Karen: *“I never worked for the CIA.”* / Monroe: *“Of course you didn't. But if you HAD worked for the CIA, why would you quit?”* / Karen: *“'Cause they're a loveless bunch of sons of bitches.”* | L1 — [Clip.Cafe](https://clip.cafe/congo-1995/so-why-did-quit-the-cia-i-never-worked-the-cia/); [MovieMistakes quotes](https://www.moviemistakes.com/film298/quotes) |
+| **Wanta names CIA** | Captain Wanta: used to work for the C.I.A., now TraviCom — pays better? | L1 |
+| **Monroe Africa contempt** | *“When these little African countries get into a dispute, they tend to just murder everybody. They live for the opportunity to settle scores… and they have a lot of scores to settle.”* Self-intro: *“I'm your great white hunter for this trip, though I happen to be black.”* Softener in same cluster: Kigani / *“20th century sucks…”* | L1 — [IMDb Monroe](https://www.imdb.com/title/tt0112715/characters/nm0001368/); [movie-sounds](https://movie-sounds.org/famous/congo-1995/666659) |
+| **Zinj = Solomon’s mine** | Monroe: believed King Solomon had a diamond mine in the Congo at Zinj. Homolka: Solomon’s men found diamonds, built the city around the mine, diamonds flowed to Solomon; *“So that's why Solomon's diamonds were never found…”* | L1 — [IMDb Homolka](https://www.imdb.com/title/tt0112715/characters/nm0000347/) |
+
+**Author reads (L3–L4):**
+
+| Read | Tier | Notes |
+|------|------|-------|
+| **NSA overall by CIA audit + balance** | L3 | Ross *loveless…sons of bitches* + pro-African character work (Amy homecoming; Ghost Tribe cooperation; Hudson/Lindo competence) **balances** Monroe’s anti-African payload — **balance**, not erasure |
+| **Monroe settle-scores = residual CIA grammar** | L3 | Contempt-for-Africa spoken through a Black English “great white hunter” mouthpiece — leftover **CIA-aligned** narrative |
+| **Spielberg entry = path to fully CIA-aligned cut** | L3 | Fox handed project to Spielberg after Crichton; he considered animatronics then **passed** ([Den of Geek / Starlog](https://www.denofgeek.com/movies/the-strange-prehistory-of-1995s-congo/)). Counterfactual: his cut would have been **fully CIA**. |
+| **Congo pass = cannot direct, not “chose not to”** | L3 | Author: *Congo* is the **incapacity exhibit** — attached, gorilla/production failure, recommended cancel / let go, **never directed** the finished film. Official “pass” talk is the **narrative**; brand whitewash hides the **cannot**. See [Spielberg brand section](#author--spielberg-brand--kennedy-marshall-machine-open). |
+| **Marshall/Kennedy orbit = ballast vs NSA drift** | L4 | Finished film: Marshall directed, Kennedy produced (Amblin co-founders with Spielberg). Author: that orbit kept residual CIA Africa grammar on screen so the title would not drift **too NSA**. Chronology: Spielberg passed early-80s; Marshall **re-entered** as director when Kennedy/Marshall acquired rights ~1992 — not continuous “kept from Spielberg’s chair.” **Professional triangle**, not personal gossip. |
+
+#### King Solomon’s Mines / Zinj repeating narrative
+
+**L1 homage:** Crichton **cheerfully** called *Congo* a modern revitalization of H. Rider Haggard’s ***King Solomon’s Mines*** (1885) — Victorian lost-world adventure in the 20th century ([michaelcrichton.com](https://michaelcrichton.com/works/congo/); *People* 1981). The film keeps Zinj as Solomon’s diamond mine (Homolka / Monroe, above).
+
+**Repeating media (L1 pattern):** Haggard → multiple *KSM* / Quatermain adaptations (1937, 1950, 1985 Connery, etc.) → Crichton novel (1980) → Marshall film (1995). Connery loop: Crichton wanted him as Munro; Connery later played Quatermain. This is **memory-war pulp**, not throwaway camp — religion and imperial history sit under the adventure shell.
+
+**Author — empire whitewash (L3):** A Solomon-mines-in-Africa story only makes sense if there was a **worldwide empire / vassal map**; otherwise “ruling” African diamond geography from a Levantine small-kingdom frame is impossible. The Levantine / Mediterranean extraction myth (**“Solomon’s men”** on-screen; broader Ophir/Phoenician folklore often mapped onto Zinj) **replaces** imperial-vassal geography — Africa as Horde / world-tribe theater — with a **small-kingdom seafaring** story that keeps Solomon “biblical Levant” while mining Africa. That is **memory surgery**: a whitewash that **disconnects the Rus–Horde empire from its vassals**. Cross-read [lost tribe of Benjamin / world tribes](/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md); [mudflood / Tartarian vassals](/history/mudflood/page.md); [Prester John / NC Solomon Temple](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md); [moorish presidents — Solomon ↔ Suleiman](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md).
+
+**Discipline:** Film says **“Solomon’s men,”** not “Phoenicians.” Mapping Solomon’s men → Phoenician/Mediterranean whitewash is **author decode (L3)** unless a novel page is cited later. Novel frescoes describe a local mining culture with human slaves — do not invent a Crichton Phoenician speech.
+
+**Bottom line:** *Congo* lands **NSA overall** on the **CIA audit line** and **pro-African balance**, while carrying **residual CIA Africa contempt** and a **repeating Solomon-mines memory payload**. Production hell is **not** the NSA proof; Spielberg’s failure to deliver a directed cut is the author’s **cannot** exhibit — see next section.
+
+---
+
+### Author — Spielberg brand / Kennedy–Marshall machine (open)
+
+**Premise (author):** The only reason to believe the official Spielberg-competence narrative is **never having heard the criticisms**. Criticism is **not fringe-only**. ***Congo*** is **proof he cannot** make/direct that film — not evidence he politely declined. This cluster stays **open** where speculation still stacks; it is **not** filed under Weak points.
+
+| Beat | Tier | Notes |
+|------|------|-------|
+| **Criticism exists** | L1 reception | *Poltergeist* DGA / “who directed?” fight — Hooper credit; Spielberg-heavy marketing; trailer denigrated the director; Spielberg’s “Tobe isn’t take-charge” quotes then open letter ([Slate](https://slate.com/culture/2026/06/poltergeist-steven-spielberg-horror-movie-tobe-hooper-director.html); [Collider](https://collider.com/poltergeist-director-steven-spielberg-tobe-hooper/)). “Overrated / sentimental” discourse and Critical Drinker / fan lanes on Kennedy as career **project manager** for Spielberg are easy to find. Existence of criticism ≠ auto-proof of every claim. |
+| **“Steven Spielberg Presents”** without directing | L1 banner + L3 whitewash | *Back to the Future*, *Goonies*, *Gremlins*, *Poltergeist*, *Young Sherlock Holmes*, etc. — brand sells **competence / control** ([SlashFilm](https://www.slashfilm.com/1889965/best-steven-spielberg-presents-movies-ranked/); BTTF: Zemeckis directed; EP Spielberg + Marshall + Kennedy). Many EP titles were still Amblin hands-on — do not claim zero involvement for every title; the **banner** is still whitewash grammar. |
+| ***Austin Powers in Goldmember* (2002)** | L1 cameo + L3 decode | Spielberg on-screen “directing” the star-studded *Austinpussy* movie-within-movie (Cruise, Paltrow, etc.) — Hollywood myth-making as **competence ritual** ([DGA / Roach](https://www.dga.org/craft/dgaq/issues/1503-summer-2015/shot-to-remember-austin-powers)). |
+| **Lucasfilm / Kennedy / silent-proxy speculation** | Open | **L1:** Lucas appointed Kennedy (2012); Spielberg praised “my long time producing partner” and pledged support ([Deadline](https://deadline.com/2012/06/lucasfilms-names-kathleen-kennedy-as-co-chair-280744/)). **Open:** r/CriticalDrinker commentors speculate Spielberg acted as **silent proxy** so his trusted ally would oversee *Star Wars*. Leave open — do not close as proven; do not call weak. |
+| **Domineering control system among the three** | Author open | Abundance of conspiracy claims among Spielberg / Kennedy / Marshall **line up** with a domineering control stack Spielberg is part of. Rhymes stack; refuse premature close. |
+| ***Congo* = cannot (not chose not to)** | Author L3 | Attached → production failure → never directed finished film. Brand + *Presents* + *Goldmember* hide the incapacity. Early solo credits (*Jaws*, etc.) are **pre-machine / contested canon** — they do not cancel the brand-era **cannot**. |
+| **Cannot make movies without Kennedy–Marshall** | Author | Structurally: Kennedy produced most Spielberg features ~30 years; Amblin trio; Marshall co-founder. Author bottom line: the whitewash was necessary to make Spielberg look competent; he is among the most **manufactured** celebrities in history (**Author L4** one-line capture). |
+
+**Open questions (stack, don’t close):** Q27–Q29 below.
 
 ### TV catalog (working table)
 
@@ -904,6 +961,9 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 | Q24 | **Emmerich/Devlin** — interviews comparing *Stargate* vs *ID4* “realism” intent | Press 1994–1996 |
 | Q25 | **Post-*Fight Club* Norton** — full Paramount extension memo vs public Observer account | Legal archives |
 | Q26 | **War-movie conveyor** — sample 50 top male box-office 1980–2010 for uniform-role rate | Filmography study |
+| Q27 | ***Congo* novel** — any page that names **Phoenicians** (vs film “Solomon’s men”) for Zinj founding? | Novel text; annotated editions |
+| Q28 | **Spielberg / Lucasfilm** — primary evidence beyond public praise that Spielberg **steered** Kennedy’s appointment (CriticalDrinker-commentor proxy claim)? | Memos; contemporaneous reporting; leave open |
+| Q29 | **“Spielberg Presents”** titles — which had **near-honorific** EP vs documented hands-on Amblin control? | Production histories title-by-title |
 
 ---
 
@@ -936,12 +996,16 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 | **Brandy Vaughan** | [/influence/conspiracy/celebrities/brandy-vaughan.md](/influence/conspiracy/celebrities/brandy-vaughan.md) | Merck whistleblower; anti-vax activist death |
 | **Cruz / media blackmail thesis** | [/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md) | Closet Trump supporters; leverage |
 | **CoD militainment** | [/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) | Games lane |
+| ***Men Who Stare at Goats* — RV satire / Jedi** | [/influence/hollywood/investigations/men-who-stare-at-goats-rv-satire-predictive-programming-investigation.md](/influence/hollywood/investigations/men-who-stare-at-goats-rv-satire-predictive-programming-investigation.md) | Comedy **R6** shell over psychic warfare; Clooney sensor bubble; sibling to Thread Q satire lane |
 | **British divide-and-conquer** | [/governance/war/investigations/british-divide-conquer-israel-investigation.md](/governance/war/investigations/british-divide-conquer-israel-investigation.md) | HK colony geometry |
 | **Jackie Chan** | [/influence/conspiracy/celebrities/jackie-chan.md](/influence/conspiracy/celebrities/jackie-chan.md) | HK / Beijing positioning |
+| **Lost tribe of Benjamin / world tribes** | [/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md](/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md) | *Congo* / *KSM* empire-whitewash rhyme |
+| **Prester John / NC Solomon** | [/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md) | Solomon Temple memory vs African-mine Levant frame |
+| **Mudflood / Tartarian vassals** | [/history/mudflood/page.md](/history/mudflood/page.md) | Worldwide vassal map vs Solomon-mines small-kingdom story |
 
-Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #IndependenceDay #ID4 #Stargate #Area51 #911PP #NoFate #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott #Cyberdyne #WarOfTheWorlds #HostBody #AncientAliens #Atlantis
+Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #IndependenceDay #ID4 #Stargate #Area51 #911PP #NoFate #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott #Cyberdyne #WarOfTheWorlds #HostBody #AncientAliens #Atlantis #Congo #KingSolomonsMines #Zinj #Spielberg #KathleenKennedy #FrankMarshall #BurnAfterReading
 
-**Last updated:** 2026-07-08T08:55:00-04:00
+**Last updated:** 2026-07-21T08:52:00-04:00
 
 ---
 
@@ -978,6 +1042,10 @@ Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #Independ
 **Thread P — *Stargate* (1994 film):** Seminar scene, **Atlantis/Mars heckle**, Ra-as-alien, chevron addressing, and Jackson constellation retcon are **L1** where script / wiki sourced. **CIA/globalist ancient-mystery**, **PP ridicule training**, ***ID4* plausibility contrast**, **portal physics decoy**, and **plot-sloppiness-as-payload** are **L3–L4**. **NSA=classic / CIA=sloppy** heuristic is **L3 taste pattern**, not statistical proof. ***SG-1* TV** out of scope.
 
 **Thread Q — *Burn After Reading* (2008):** **SigInt** purge, Chad **signals intelligence** dialogue, **Harry (Clooney) cellphone geolocation** forecast (**“pretty soon they're gonna know where everyone is… at any given moment”**), **burn the body** / **FBI exclusion**, and **Chubb/Palmer** closing are **L1** where [Daily Script PDF](https://www.dailyscript.com/scripts/BurnAfterReading.pdf) / [Harry dialogue corpus](http://nldslab.soe.ucsc.edu/charactercreator/film_corpus/film_20100519/output/burn-after-reading-harry.txt) sourced. **CIA decay**, **transactional farce**, **NSA charter rhyme via SigInt**, **mass location collection inevitability**, **sovereignty violation read**, and **NSA-aligned audit camp** are **L3–L4**. **No literal “NSA” agency name** in published screenplay — **SigInt** vocabulary only. **Not** claim Coen Brothers received agency direction.
+
+***Congo* (1995) / Thread D satire catalog:** Ross CIA *loveless…sons of bitches* exchange, Monroe *settle scores* / *great white hunter* lines, and Homolka/Monroe Zinj–Solomon dialogue are **L1** where quote corpora sourced. **NSA overall**, **residual CIA Africa contempt**, **pro-African balance**, **Spielberg entry = full-CIA path**, ***Congo* pass = cannot (not chose not to)**, and **Marshall/Kennedy ballast vs NSA drift** are **L3–L4**. Crichton *King Solomon’s Mines* homage is **L1**; **Rus–Horde / worldwide-empire whitewash** and **Solomon’s men → Phoenician** map are **L3** — do **not** claim Crichton said “Phoenicians” without a novel page cite. **Not** claim Marshall/Shanley received agency direction.
+
+**Author — Spielberg brand / Kennedy–Marshall machine:** *Poltergeist* credit fight, *Presents* marketing banner, *Goldmember* cameo, and 2012 Lucas/Kennedy/Spielberg public statements are **L1** where sourced. **Whitewash / manufactured competence**, **cannot-direct without the machine**, **most manufactured celebrity**, and **Lucasfilm silent-proxy** reads are **L3–L4 / open** — leave open; **not** Weak points. **No** L1 claim of a personal Spielberg–Kennedy affair.
 
 **Thread G — hot war:** Forced-role cases (Norton, Kilmer, Scheider) and director override quotes (Gray, Feige) are **L1** where sourced. **Post-NSA-hit targeting**, **interagency hot war vs greed-only**, **war-movie conveyor as contain militainment**, and **miscast-as-ridicule-buffer** are **L3–L4**. **“Every famous male must do war movie”** is **weakened** to **common pattern** — not universal law.
 
