@@ -385,6 +385,8 @@ https://paradigmthreat.net
 | [Stonehenge quantum portal essay](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) | Reader-facing Stonehenge thesis |
 | [Mudflood hub](../page.md) | Easy-debunk / deepfake mudflood media warning |
 | [Controlled opposition hub](/influence/controlled_opposition/page.md) | CO grammar; **S8 dragons = CO content**; Spurr operator = soft door-closing ([§7.1](#71-controlled-opposition-assessment), [§7.2](#72-poison-pill--easy-debunk-inventory-co-adjacent-function)) |
+| [Meltrix / Druzhinin mudflood CO](meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md) | Sibling poison-pill deep dive (Flat Earth mudflood + Meltology / Meltrix) |
+| [Mudflood gatekeepers and poison pills](/influence/controlled_opposition/mudflood-gatekeepers-and-poison-pills.md) | Reader article: Spurr email door-close as CO tell; StolenHistory ban; Autodidactic contrast |
 | [Griffins / myth fauna — fire-dragon = comet Venus](/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md) | Repo dragon rule: **no** Earth dragons; one fire-dragon event = **Venus 1492 BCE** |
 | [Passover of Comet Venus](/timeline/evt-passover-of-comet-venus) | Canon “dragon” = comet Venus, not landscape anatomy |
 | [Blood rain / ecological disasters](blood-rain-dust-ecological-disasters-investigation.md) | Post-catastrophe ecology oddities |
