@@ -1,5 +1,5 @@
 import manifest from '@hooks'
-import { parseNavIndexTxt, isFeelingLuckyCandidate, pickFeelingLuckyPath as hostPickLucky } from '@relay/catalog'
+import { parseNavIndexTxt, pickFeelingLuckyPath as hostPickLucky } from '@relay/catalog'
 import { take } from '@relay/util'
 import { siteHref as hostSiteHref } from '@relay/path'
 import { cachedGet } from '@relay/ui'
@@ -102,8 +102,6 @@ export function featuredArticlePath(rows) {
   }
   return ''
 }
-
-export { isFeelingLuckyCandidate }
 
 /**
  * Pick a rotating article path from nav-index (host pick + tip seed).
