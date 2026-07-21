@@ -68,7 +68,6 @@
 | [Plain transcript (.txt)](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-transcript.txt) | **`pdftotext`** extract. **Transcript regen** steps: **[Mars file — Investigator notes](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)**. |
 | [Cosmos — Mars hub](/cosmos/mars/page.md) | Motif layer. |
 | [RV / æther (stub)](/science/telepathy/remote_viewing/aether-consciousness.md) | Stargate-era RV framing hooks. |
-| [*Men Who Stare at Goats* — satire shell / Jedi / session-lie](/influence/hollywood/investigations/men-who-stare-at-goats-rv-satire-predictive-programming-investigation.md) | Ronson + 2009 film as **R6** comedy disclosure; viewer bubble / MKULTRA rhyme; Jedi vs *Star Wars* chronology. |
 
 **Also read:** [Great Awakening / revaluation (dinar) cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [CIA institution file](/governance/war/investigations/cia-investigation.md)
 

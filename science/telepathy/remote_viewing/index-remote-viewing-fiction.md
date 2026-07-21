@@ -158,8 +158,6 @@ This is either:
 ## Cross-References
 
 - **Timeline article:** [Predictive Programming: Fiction as Control](/timeline/evt-predictive-programming-fiction-as-control)
-- **Modern militainment / STAR GATE satire shell:** [*The Men Who Stare at Goats* investigation](/influence/hollywood/investigations/men-who-stare-at-goats-rv-satire-predictive-programming-investigation.md) — Ronson book + 2009 film; Jedi / *Star Wars* chronology; session-lie thesis
-- **CIA Reading Room RV (Mars 1984):** [dossier](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)
 - **War of the Worlds analysis:** `wget/text/wotw.md` and related files
 - **Saturnian Cosmology sources:** `wget/saturniancosmology.org/`
 - **Thunderbolts sources:** `wget/thunderbolts.info/`

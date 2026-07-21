@@ -1,0 +1,404 @@
+{
+  "articles": [
+    {
+      "path": "blog/2021-11-30-2020-2021-paradigm-threat-old.md",
+      "title": "2020\u20132021: paradigm-threat-old \u2014 Project Beginnings and Maintenance",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2022-11-30-2022-old2-sources-content.md",
+      "title": "2022: paradigm-threat-old2 Rebuild, Sources Submodule, and Content Expansion",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2023-04-30-2023-q1-q2-asset-overhaul.md",
+      "title": "2023 Q1\u2013Q2: Asset Overhaul and Final Old2 Iteration",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2023-10-31-paradigm-threat-site-launch.md",
+      "title": "October 2023: Paradigm Threat Site Launches",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2024-06-30-2024-h1-vercel-chronology-investigations.md",
+      "title": "2024 H1: Vercel, Chronology, Mars, and Investigations",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2024-12-31-2024-h2-events-year-end.md",
+      "title": "2024 H2: 9/11 Theory, Chat Fixes, and Year-End Updates",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2025-09-30-paradigm-threat-files-launch.md",
+      "title": "September 2025: paradigm-threat-files Repository Created",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-01-31-january-2026-project-beginnings.md",
+      "title": "January 2026: Timeline Project Begins, paradigm-threat-files Refactor",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-02-21-pre-launch-buildup.md",
+      "title": "February 21, 2026: Pre-Launch Build \u2014 Media, Structure, and Content",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-02-22-new-timeline-project.md",
+      "title": "A Dedicated Timeline for Earth's Hidden History",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-02-24-timeline-update.md",
+      "title": "Timeline Update: Atlantis Investigation, Joan of Arc, and the Absu",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-02-25-timeline-update.md",
+      "title": "Timeline Update: New Articles, Restructure, and a Media Audit",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-02-26-timeline-update.md",
+      "title": "Timeline Update: Author Profiles, Third Story, Core Concepts, and Major Restructure",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-02-27-timeline-update.md",
+      "title": "Timeline Update: Chapter Consolidation, New Articles, Print-Ready PDF, and Chronological Corrections",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-02-28-timeline-update.md",
+      "title": "Timeline Update: New Chapters 13\u201315, Ch11 Reorganization, 3-Tier Export Hierarchy, and Animation Module",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-01-timeline-update.md",
+      "title": "Timeline Update: Massive Condensation, Mars Catastrophe, Operation Mockingbird, and PDF Shrinks to 420 Pages",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-03-timeline-update.md",
+      "title": "Timeline Update: Investigations Library, Maxwell & the Aether, Nuclear Myths, Browser Mode, and 13 New Articles",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-05-timeline-update.md",
+      "title": "Timeline Update: Flexner Report, Weather Control, CERN, Mars Literature, Asimov, and 38 New Investigations",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-09-timeline-update.md",
+      "title": "Timeline Update: Six Wars, World Wars, Trump, Pyramids, Seven Days, Population Control, and Major Restructuring",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-10-timeline-update.md",
+      "title": "Timeline Update: Content Reduction, Fiction-Encoding Investigations, Arthurian Cosmology, and New Appendix Overflow",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-11-timeline-update.md",
+      "title": "Timeline Update: Stolen Credit Suite, Yakuza Investigation, Site SSR, and TTS Improvements",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-12-content-update.md",
+      "title": "Content Update: Identity Investigations, Tornado Thesis, Ed Wood, Hairy Mary, and Reorganization",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-14-soul-science-israel-divide-conquer-investigations.md",
+      "title": "Soul Science, Israel Divide-and-Conquer, and Chronology Investigations",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-16-cia-investigation-timeline-article.md",
+      "title": "CIA Investigation and Timeline Article",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-17-authors-cataclysm-controlled-opposition.md",
+      "title": "Authors Who Read Cataclysm + Controlled Opposition Theory",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-20-timeline-update.md",
+      "title": "Radiocarbon Dating Investigation + Timeline Updates",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-23-timeline-files-site-update.md",
+      "title": "Golden Age rollout, MFEE appendices, investigations, and site/TTS polish",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-28-timeline-tldr-appendix-split-investigations-site.md",
+      "title": "Book TL;DR sweep, appendix split (XVI\u2013XXII), war and fiction investigations, exports, site reader",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-03-30-github-ban-gitlab-migration-and-repo-updates.md",
+      "title": "GitHub account and 72 repos deleted; GitLab migration; Swift / *Gulliver* Mars dossier and site index updates",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-04-03-prester-john-religious-edition-brand-slogans.md",
+      "title": "Prester John NC dossier; *Jacob\u2019s Ladder* / Eckhart & Cathar\u2013Khazar suppression; Chronologia perspective; religious edition; brand & site \u2014 April 3, 2026",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-04-05-relay-network-shift-github-crates-lockout-and-updates.md",
+      "title": "Relay network engineering shift; GitHub and crates.io lockout; griffin timeline merge; site and files updates \u2014 April 5, 2026",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-04-10-jade-helm-cruz-kevin-venus-relay-site-tts.md",
+      "title": "Jade Helm and Cruz / Kevin investigations; Venus probes; Relay branch policy; Paradigm site TTS; Forgotten Future GitLab Pages \u2014 April 2026",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-04-14-pyramid-artemis-investigations-ae911truth-site-share-og.md",
+      "title": "Pyramid-stack and Artemis II investigations; AE911Truth file; war and suppression files; timeline appendix cites; site share modal, `/files` proxy, and OG descriptions \u2014 April 2026",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-04-18-cod-mw-militainment-spore-blood-rain-tts-unicode.md",
+      "title": "*Call of Duty* Modern Warfare militainment investigation; spore / blood-rain mudflood files; Cruz / Office cross-reads; editor docs; timeline PP links; TTS Unicode arrows \u2014 April 2026",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-04-25-netanyahu-health-disclosure-controlled-opposition-fomenko-site-toc.md",
+      "title": "Netanyahu cancer \u201chealth reset\u201d; controlled-opposition cluster expansions; Fomenko verification investigations; site TOC + error UX; timeline JSON minification \u2014 April 2026",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-04-27-cia-1984-mars-reading-room-find-restructure-chrono-article.md",
+      "title": "The 1984 Mars Reading Room PDF as a thesis hit; controlled-opposition investigations restructure; *Chrono Trigger* article; timeline + antisemitism doc churn \u2014 late April 2026",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-05-05-may-roundup-circle-of-life-cancer-success-site-updates.md",
+      "title": "May 2026 roundup: Circle of Life, Cure for Cancer, Success essay, Mars hubs, and paradigm-threat-site upgrades",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-05-14-md2ast-migration-downtime-cave-story-pursue-consensus-theater-roundup.md",
+      "title": "Mid-May 2026: md2ast migration, brief downtime, Cave Story & PURSUE lanes, cosmology and geoengineering drops, Big Mysteries consensus theater",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-05-26-may-late-roundup-ghost-war-napoleon-prisca-relay-migration-substack.md",
+      "title": "Late May 2026: Ghost War antibody lane, Napoleon medicine, prisca sapientia, Relay migration, and six Substack drops",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-06-10-june-roundup-stonehenge-benjamin-celebrity-slavery-gordonston-memory-war.md",
+      "title": "Early June 2026: Stonehenge portal, Benjamin tribe, celebrity IP slavery, Gordonston MGGA, consent rites, and the memory-war cluster",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-06-19-june-roundup-internet-matrix-pp-education-site-ai.md",
+      "title": "Late June 2026: Internet That Should Have Been, Matrix PP series, education Installment II, Site AI, and WebMCP on paradigmthreat.net",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai.md",
+      "title": "Late June 2026: lexical redaction, Rife OCR, Islamabad hinge, sealed web, Pacific PP, Epstein cluster, and Site AI",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-07-03-july-roundup-alef-tona-ecw-mars-jfk-constitution-cern-censorship.md",
+      "title": "Early July 2026: clogged internet, TONA rebrand, ECW invention, Mars dagger, JFK hoax dossier, CERN gate, and platform strikes",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/2026-07-09-july-portal-id4-research-mcp-server.md",
+      "title": "Mid-July 2026: portal series, ID4 unity lane, Research MCP for any AI host, and Dead Planet timeline",
+      "content_kind": "article"
+    },
+    {
+      "path": "blog/page.md",
+      "title": "Blog",
+      "content_kind": "article"
+    },
+    {
+      "path": "README.md",
+      "title": "README.md",
+      "content_kind": "article"
+    },
+    {
+      "path": "REORGANIZATION_MAP.md",
+      "title": "Directory Reorganization Map",
+      "content_kind": "article"
+    },
+    {
+      "path": "book/page.md",
+      "title": "Paradigm Threat: The Third Story",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/a.md",
+      "title": "cosmos/cosmology/a.md",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/astronomy/page.md",
+      "title": "cosmos/cosmology/astronomy/page.md",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md",
+      "title": "Consensus theater and the stalled physics pipeline",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/README.md",
+      "title": "Alfred de Grazia \u2014 Complete Works Index",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/burning-of-troy.md",
+      "title": "The Burning of Troy",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/chaos-and-creation.md",
+      "title": "Chaos and Creation",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/cosmic-heretics.md",
+      "title": "Cosmic Heretics",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/disastrous-love-affair.md",
+      "title": "The Disastrous Love Affair of Moon and Mars",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/divine-succession.md",
+      "title": "The Divine Succession: A Science of Gods Old and New",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/fire-not-blown.md",
+      "title": "A Fire Not Blown",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/gods-fire.md",
+      "title": "God's Fire: Moses and the Management of Exodus",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/homo-schizo-i.md",
+      "title": "Homo Schizo I: Human and Cultural Hologenesis",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/homo-schizo-ii.md",
+      "title": "Homo Schizo II: Human Nature and Behavior",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/iron-age-of-mars.md",
+      "title": "The Iron Age of Mars",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/ka.md",
+      "title": "KA: A Handbook of Mythology, Sacred Practices, Electrical Phenomena, and Their Linguistic Connections in the Ancient Mediterranean World",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/lately-tortured-earth.md",
+      "title": "Lately Tortured Earth: Exoterrestrial Forces and Quantavolution in the Solar System",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/q-intro.md",
+      "title": "Quantavolution and Catastrophe: Introduction to the Series & Q-C Test",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/recollections-fallen-sky.md",
+      "title": "Recollections of a Fallen Sky: Velikovsky and Cultural Amnesia",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/solaria-binaria.md",
+      "title": "Solaria Binaria: Origins of the Sun and Its Planets",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/de_grazia/books/velikovsky-affair.md",
+      "title": "The Velikovsky Affair: Scientism vs. Science",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/ech-in-time/page.md",
+      "title": "cosmos/cosmology/ech-in-time/page.md",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/hollow_earth/A.md",
+      "title": "cosmos/cosmology/hollow_earth/A.md",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/hollow_earth/ANNAS_ARCHIVE_DOWNLOADS_INDEX.md",
+      "title": "Anna's Archive \u2014 Hollow Earth Downloads Index",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/hollow_earth/hollow-earth-investigation.md",
+      "title": "Investigation: Hollow Earth \u2014 Sources, Maps, Books, and Atlantis",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/hollow_earth/hollow_earth_chat.md",
+      "title": "cosmos/cosmology/hollow_earth/hollow_earth_chat.md",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md",
+      "title": "Investigation: Tham Luang Cave Rescue (2018) \u2014 Cover-up and Alternate Theories",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md",
+      "title": "Investigation: Big Mysteries Survey \u2014 consensus theater, menu design, and the stalled physics pipeline",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md",
+      "title": "Investigation: The Incorrectly Scaled Universe \u2014 Curved-Light Aether Model, Maxwell Lineage, and Cosmological Inference Risk",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/investigations/saturnian-cosmology-published-timelines-investigation.md",
+      "title": "Investigation: Saturnian Cosmology \u2014 Published Timelines, Year Discrepancies, Year-Counting, and Solar Origin (Open)",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/qa/page.md",
+      "title": "Cosmology Q&A \u2014 Big Bang, Big Melt, eternal universe, solar-system lifecycle",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/qa/q01-big-melt-eternal-universe-solar-cycle.md",
+      "title": "Q1 \u2014 Big Melt, eternal universe, and solar-system lifecycle",
+      "content_kind": "article"
+    },
+    {
+      "path": "cosmos/cosmology/qa/q02-einstein-math-cosmic-extrapolation.md",
+      "title": "Q2 \u2014 Did Einstein warn his theories weren\u2019t established in grounded math?",
+      "content_kind": "article"
+    }
+  ]
+}

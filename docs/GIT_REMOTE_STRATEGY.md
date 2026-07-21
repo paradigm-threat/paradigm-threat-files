@@ -114,3 +114,18 @@ git branch -u dfw1/main main
 ```
 
 Do not use local `main` as the daily work branch unless explicitly syncing production.
+
+---
+
+## Ancestry heal (2026-07-21)
+
+Relay `main` and the old GitLab tip had **unrelated roots** (Relay reborn ~2026-07-18; GitLab kept the long March–July line). Cherry-pick was required for every go-live.
+
+**Heal (careful):**
+
+1. Tag archive: `archive/gitlab-pre-relay-align-2026-07-21` → old `gitlab/gitlab` tip (`86b27490`). Also keep `gitlab/main` (still on the old line at Jedi ship) as a second archive ref.
+2. Land this strategy doc + remotes Cursor rule + disabled `.gitlab-ci.yml` onto Relay `main` (they were GitLab-only).
+3. Force-push **only** `gitlab/gitlab` to the new Relay-aligned tip. **Do not** force-push Relay `main` or `gitlab/main`.
+
+After heal, `git merge-base HEAD dfw1/main` must succeed on the daily `gitlab` branch. Go-live returns to rebase/FF onto `dfw1/main`, then push all three Relays, then `git push gitlab HEAD:gitlab`.
+
