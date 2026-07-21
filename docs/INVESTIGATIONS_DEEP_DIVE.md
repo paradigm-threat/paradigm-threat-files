@@ -94,6 +94,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: Cargo Cults — Official History, Human Behavior, and 18th–19th Century / Manna Redaction](/history/mudflood/investigations/cargo-cults-investigation.md)
 - [MFEE Investigation — Evidence and Map Changes Over Time](/history/mudflood/investigations/mfee-investigation.md)
 - [Investigation: Mudfossil University / Roger Spurr — Claims, Citations, Yale History, and Validation Status (Open)](/history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md)
+- [Investigation: Meltrix / Meltology and Philipp Druzhinin — Mudflood-Adjacent Controlled Opposition and Poison Pills (Open)](/history/mudflood/investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md)
 - [Investigation: Deliverance to a Promised Land — 1492 BCE/CE, Europe, America, and the Final Promised Lands](/history/mudflood/investigations/promised-land-investigation.md)
 - [Investigation: Spore / aerial biological disaster — post–MFEE ecology, sanitization, Martian cylinders, and fiction parallels](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md)
 - [Tartarian Maps Investigation — Forbidden Maps, Disclosure, and Downloads](/history/mudflood/investigations/tartarian-maps-investigation.md)
@@ -191,8 +192,9 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 | 31 | Royal Rife — two-tier suppression / Flexner capture | [royal-rife-44-doctors-forced-amnesia-suppression-investigation.md](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md) | §14: USC minutes; Crane 1961 court record; Foord primary; OCR complete (`index-ocr-findings.md`) | Lynes (1987); LA Times PDF; [`REDACTION.md`](/docs/REDACTION.md) |
 | 32 | Mudfossil University / Roger Spurr — DNA, CT, Yale outreach | [mudfossil-university-roger-spurr-investigation.md](/history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md) | P-234 + BLAST; **S8 Google Earth dragons = CO** (repo dragon = comet Venus only); Spurr email door-closing; soft operator, hard poison stack | Local wget; §7.2 / §11 |
 | 33 | Saturnian cosmology — published timelines vs PT | [saturnian-cosmology-published-timelines-investigation.md](/cosmos/cosmology/investigations/saturnian-cosmology-published-timelines-investigation.md) | §8–§9: Cardona volume BCE extract; INTCAL20 recompute; Tiki-Toki story CSV; Thunderbolts dated-timeline sweep; replacement clock if C-14 banned | Cook chron.php; Tiki-Toki 540208; Cardona God Star series |
+| 34 | Meltrix / Druzhinin — mudflood CO poison pills | [meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md](/history/mudflood/investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md) | Druzhinin FE scrape; Meltrix transcripts; light Autodidactic playlist audit (§5 watchlist) | meltology.org; @PhilippDr; Autodidactic hub embed |
 
-**Total in §1 table:** 33 investigations with explicit unfinished work. **Full corpus:** 100 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
+**Total in §1 table:** 34 investigations with explicit unfinished work. **Full corpus:** 101 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
 
 ---
 

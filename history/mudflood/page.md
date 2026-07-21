@@ -46,6 +46,8 @@ a Great Reset, or any kind of historical redaction. However, these theories cann
 
 <iframe width="400" height="200" src="https://www.youtube.com/embed/1dYfT2ccNNQ" title="Exploring the MudFlood -- Autodidactic" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen="true" className="m-auto max-w-full"/>
 
+**Autodidactic carve-out:** The embedded channel is **not** classed as controlled opposition here — author reports **no CO red flags yet**. See [Meltrix / Druzhinin / Autodidactic contrast](investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md#5-autodidactic--author-non-co-contrast) and the reader article [Mudflood gatekeepers and poison pills](/influence/controlled_opposition/mudflood-gatekeepers-and-poison-pills.md).
+
 Researching any topic related to a Worldwide MudFlood Theory is difficult due to a lack of reliable research material.
 Virtually all MudFlood
 [books](https://www.amazon.com/gp/product/B07RV48YMN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1),
@@ -57,7 +59,7 @@ This media typically features [deep fake images](https://en.wikipedia.org/wiki/D
 These images are *designed to be easily debunked* and purposefully and
 perpetually [net-boosted](https://www.meetcortex.com/blog/instagram-changes-algorithm-for-2018). The proliferation of
 *"deep fake"* images is a [Revelation of the Method](https://www.counterpunch.org/2022/04/29/revelation-of-the-method/)
-strategy that promotes discreditation of MudFlood Research.
+strategy that promotes discreditation of MudFlood Research. **Exception:** do not dump Autodidactic into that “virtually all” CO bucket — see carve-out above. Named CO / poison stacks: Philipp Druzhinin, Meltrix/Meltology, **StolenHistory** (deepfake bait + forum ban of CO critique — [§6](investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md#6-stolenhistoryorg--korbendallas)) ([dossier](investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md)).
 
 ```
 Note: This investigation is a work in progress. Check back soon for more updates!

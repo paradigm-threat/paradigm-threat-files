@@ -152,6 +152,7 @@ or *not* believing.
 * [Cargo Cults](/history/mudflood/investigations/cargo-cults-investigation.md) — Official history vs manna redaction and behavior.
 * [MFEE Investigation](/history/mudflood/investigations/mfee-investigation.md) — Map evidence and boundary changes over time.
 * [Mudfossil University / Roger Spurr](/history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md) — Soft-tissue mudfossils, Helix P-234 mtDNA, Yale outreach claims (open).
+* [Meltrix / Druzhinin — mudflood CO poison pills](/history/mudflood/investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md) — Meltrix + Druzhinin + **StolenHistory** = CO; **Autodidactic = not CO** (open).
 * [Deliverance to a Promised Land](/history/mudflood/investigations/promised-land-investigation.md) — 1492 BCE/CE threads; Europe, America, promised lands.
 * [Spore / aerial biological disaster](/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.md) — Post–MFEE ecology, sanitization, Martian cylinders, fiction parallels.
 * [Tartarian Maps Investigation](/history/mudflood/investigations/tartarian-maps-investigation.md) — Forbidden maps, disclosure, downloads.
@@ -160,6 +161,7 @@ or *not* believing.
 #### Influence
 
 * [Controlled opposition hub](/influence/controlled_opposition/page) — CO patterns, QAnon cluster, CIA Reading Room Mars **remote viewing** dossier; readable [**Mars × *Chrono Trigger* article**](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md).
+* [Mudflood gatekeepers and poison pills](/influence/controlled_opposition/mudflood-gatekeepers-and-poison-pills.md) — Poison-pill = CO; MudFossilsResearcher email; StolenHistory ban; seriousness + anti-agnosticism (Jul 2026).
 * [Captured courts, wrong villain](/influence/controlled_opposition/captured-courts-wrong-villain.md) — **BRSINV** / St. Julian: federal court-capture substance vs **Zionist** scapegoat trap; **Blue_French_Qtr** Brantley demoralization; **1979** / CIA / NSA counter-frame.
 * [BRSINV / St. Julian — captured courts & Zionist framing CO (open)](/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md) — Julian J1–J18 vs author counters; Brantley identity map.
 * [Make Gordonston Great Again](/influence/controlled_opposition/make-gordonston-great-again.md) — Savannah **Gordonston** reader essay: Hollywood location shoot / Facebook ban hook; Juliette Low park access; volunteer homework at Christ’s Community; links [Gordonston investigation](/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md).
