@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import { setCurrentTheme, getCurrentTheme, isClientLive } from '@clevertree/style-internal'
 import { IconMoon, IconSun } from 'hooks/client/components/Icons.jsx'
 
@@ -22,8 +22,21 @@ function resolveTheme(allowSystem) {
 
 export default function ThemeToggle() {
   const live = isClientLive() === true
-  const resolved = resolveTheme(live)
-  const next = resolved === 'dark' ? 'light' : 'dark'
+  const state = useState('light')
+  const theme = state[0]
+  const setTheme = state[1]
+
+  useEffect(() => {
+    if (!live) return
+    const resolved = resolveTheme(true)
+    setTheme(resolved)
+    // Keep html class / injected CSS aligned with resolved preference.
+    try {
+      setCurrentTheme(resolved)
+    } catch (e) {}
+  }, [live])
+
+  const next = theme === 'dark' ? 'light' : 'dark'
 
   return (
     <button
@@ -36,9 +49,10 @@ export default function ThemeToggle() {
       onClick={() => {
         if (!live) return
         setCurrentTheme(next)
+        setTheme(next)
       }}
     >
-      {resolved === 'dark' ? <IconSun /> : <IconMoon />}
+      {theme === 'dark' ? <IconSun /> : <IconMoon />}
     </button>
   )
 }

@@ -1,25 +1,37 @@
 import React, { useState, useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
 
+/**
+ * Apply article font via html[data-font]. Use bare `document` (CleverScript builtin);
+ * globalThis.document is often unset in tip handlers so setAttribute silently no-ops.
+ */
 function applyFont(key) {
   try {
-    const doc = globalThis.document
-    if (!doc || !doc.documentElement) return
+    if (!document || !document.documentElement) return
     if (key === 'garamond') {
-      doc.documentElement.removeAttribute('data-font')
+      document.documentElement.removeAttribute('data-font')
     } else {
-      doc.documentElement.setAttribute('data-font', key)
+      document.documentElement.setAttribute('data-font', key)
     }
   } catch (e) {}
 }
 
 function readSavedFont() {
   try {
-    if (typeof localStorage === 'undefined' || !localStorage.getItem) return 'garamond'
+    if (typeof localStorage === 'undefined') return 'garamond'
+    if (!localStorage.getItem) return 'garamond'
     const s = localStorage.getItem('content-font')
     if (s === 'franklin' || s === 'mono' || s === 'garamond') return s
   } catch (e) {}
   return 'garamond'
+}
+
+function saveFont(key) {
+  try {
+    if (typeof localStorage === 'undefined') return
+    if (!localStorage.setItem) return
+    localStorage.setItem('content-font', key)
+  } catch (e) {}
 }
 
 function fontFamilyFor(key) {
@@ -40,7 +52,7 @@ function nextFont(key) {
   return 'garamond'
 }
 
-/** Cycle article fonts — matches live FontToggle (Ag badge). */
+/** Cycle article fonts — Ag badge. */
 export default function FontToggle() {
   const live = isClientLive() === true
   const state = useState('garamond')
@@ -68,11 +80,7 @@ export default function FontToggle() {
         if (!live) return
         const next = nextFont(font)
         setFont(next)
-        try {
-          if (typeof localStorage !== 'undefined' && localStorage.setItem) {
-            localStorage.setItem('content-font', next)
-          }
-        } catch (e) {}
+        saveFont(next)
         applyFont(next)
       }}
     >
