@@ -123,9 +123,9 @@ export default function ArticleView(props) {
     if (baseStr.length === 0) {
       errMsg = 'Missing relayClientBaseUrl — open via Relay host preset.'
     } else {
-      // CDN caches tip blobs (max-age=3600). CleverScript fetch ignores cache:'no-store',
-      // so bust with a query so CSR does not parse a stale page.md (UTF-8 em-dash WASM panic).
-      const url = baseStr + '/' + pathPart + '?t=' + String(Date.now())
+      // CDN caches tip blobs (max-age=3600). CleverScript fetch ignores cache:'no-store'
+      // and Date.now() breaks SSR compile - static bust so CSR skips stale em-dash page.md.
+      const url = baseStr + '/' + pathPart + '?v=ptmd3'
       const resp = fetch(url, { method: 'GET' })
       if (resp && resp.ok === true) {
         markdownContent = resp.text ? resp.text : ''
