@@ -1,8 +1,8 @@
 /**
- * Host/OS-agnostic ATX heading extract for TOC + heading id stamps.
- * Pure markdown string walk — no document/window/path APIs.
- * CleverScript-safe: no regex literals; charAt loops only.
+ * TOC heading extract — prefer Rust @relay/catalog when fleet WASM is new enough;
+ * fall back to local ATX walk so older hosts keep working.
  */
+import { extractMarkdownHeadings as hostExtract } from '@relay/catalog'
 import { slugify, uniqueId } from '@relay/util'
 
 const MAX_TOC = 80
@@ -38,7 +38,6 @@ function trimStartSpaces(s) {
   return s.slice(i)
 }
 
-/** Collapse CommonMark leading indent (0–3 spaces) for fence / ATX detection. */
 function skipIndent(line) {
   let i = 0
   while (i < line.length && i < 3 && line.charAt(i) === ' ') {
@@ -82,7 +81,6 @@ function closesFence(line, openCh, openCount) {
   if (m.count < openCount) {
     return false
   }
-  // Closing fence: only optional spaces after marker.
   let i = start + m.count
   while (i < line.length) {
     const c = line.charAt(i)
@@ -101,7 +99,6 @@ function stripTrailingAtxCloser(title) {
     end = end - 1
   }
   if (end < t.length) {
-    // Require whitespace before trailing ### if any content remains.
     if (end === 0) {
       return ''
     }
@@ -113,9 +110,6 @@ function stripTrailingAtxCloser(title) {
   return t
 }
 
-/**
- * Parse ATX heading. Returns null or { level, title }.
- */
 function parseAtxHeading(line) {
   const start = skipIndent(line)
   let i = start
@@ -187,11 +181,7 @@ function lineLooksLikeHtmlOpenWithIgnore(line) {
   return lineHasTocIgnore(line)
 }
 
-/**
- * Extract headings from markdown.
- * @returns {{ tocItems: Array<{id,title,level}>, idQueue: Array<{id,title,level}> }}
- */
-export function extractMarkdownHeadings(md) {
+function extractMarkdownHeadingsLocal(md) {
   const empty = { tocItems: [], idQueue: [] }
   const text = str(md)
   if (text.length === 0) {
@@ -253,7 +243,6 @@ export function extractMarkdownHeadings(md) {
         let id = slugify(heading.title)
         id = uniqueId(id, used)
         used = used.concat([id])
-        // Stamp ids for ignored headings too (renderer still emits them).
         let skipToc = false
         if (skipTocRegion) {
           skipToc = true
@@ -275,8 +264,6 @@ export function extractMarkdownHeadings(md) {
     i = i + 1
   }
 
-  // TOC: omit first H1 when it is the page title and more headings follow.
-  // Also omit skipToc entries (data-toc-ignore / no-index) from the list only.
   let tocItems = []
   let startIdx = 0
   if (all.length > 1 && all[0].level === 1) {
@@ -313,4 +300,16 @@ export function extractMarkdownHeadings(md) {
   }
 
   return { tocItems: tocItems, idQueue: idQueue }
+}
+
+export function extractMarkdownHeadings(md) {
+  try {
+    if (typeof hostExtract === 'function') {
+      const host = hostExtract(md)
+      if (host && host.tocItems && host.idQueue) {
+        return host
+      }
+    }
+  } catch (e) {}
+  return extractMarkdownHeadingsLocal(md)
 }

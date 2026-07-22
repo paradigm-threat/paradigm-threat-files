@@ -4,7 +4,6 @@
     { "path": "hooks/client/jsonUtil.jsx", "name": "jsonUtil" },
     { "path": "hooks/client/loadArticles.jsx", "name": "loadArticles" },
     { "path": "hooks/client/rewriteAssets.jsx", "name": "rewriteAssets" },
-    { "path": "hooks/client/expandMdComponents.jsx", "name": "expandMdComponents" },
     { "path": "hooks/client/extractMarkdownHeadings.js", "name": "extractMarkdownHeadings" },
     { "path": "hooks/client/headingOverrides.jsx", "name": "headingOverrides" },
     { "path": "hooks/client/galleryStore.jsx", "name": "galleryStore" },

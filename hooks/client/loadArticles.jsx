@@ -1,8 +1,6 @@
 import manifest from '@hooks'
-import { parseNavIndexTxt, pickFeelingLuckyPath as hostPickLucky } from '@relay/catalog'
-import { take } from '@relay/util'
+import { loadNavIndex, pickFeelingLuckyPath as hostPickLucky } from '@relay/catalog'
 import { siteHref as hostSiteHref } from '@relay/path'
-import { cachedGet } from '@relay/ui'
 
 function clientBase() {
   try {
@@ -53,42 +51,16 @@ export function rowUpdated(row) {
 
 /**
  * Article index for Index / Home / ChangeLog / DirNav.
- * Host `cachedGet` + `parseNavIndexTxt` share a request-local tip cache on SSR.
+ * Host `loadNavIndex` uses request-local tip cache (same as cachedGet + parseNavIndexTxt).
  */
 export function loadArticleRows(limit) {
   let lim = 48
   if (typeof limit === 'number' && limit > 0) lim = limit
-  const base = clientBase()
-  const navUrl = base.length > 0 ? base + '/nav-index.txt' : '/nav-index.txt'
-  const text = cachedGet(navUrl)
-  let rows = parseNavIndexTxt(text)
-  if (rows && rows.length > 0) return take(rows, lim)
-  // Fallback: JSON index when TSV missing (rare).
-  const jsonUrl = base.length > 0 ? base + '/nav-index.json' : '/nav-index.json'
-  const raw = cachedGet(jsonUrl)
-  if (!raw || raw.length === 0) return []
   try {
-    const data = JSON.parse(raw)
-    if (!data || !data.articles) return []
-    let out = []
-    for (let i = 0; i < data.articles.length; i++) {
-      const a = data.articles[i]
-      let path = ''
-      try {
-        if (a.path) path = a.path
-      } catch (e) {}
-      if (path.length < 4) continue
-      if (path.slice(path.length - 3).toLowerCase() !== '.md') continue
-      let title = path
-      try {
-        if (a.title) title = a.title
-      } catch (e2) {}
-      out = out.concat([{ path: path, title: title, content_kind: 'article' }])
-    }
-    return take(out, lim)
-  } catch (e3) {
-    return []
-  }
+    const rows = loadNavIndex(lim)
+    if (rows && rows.length > 0) return rows
+  } catch (e) {}
+  return []
 }
 
 export function featuredArticlePath(rows) {

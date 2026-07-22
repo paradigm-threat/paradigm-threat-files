@@ -8,7 +8,7 @@ Thin tip code via **`@relay/*`** (registered on SSR + WASM):
 
 | Module | Use for |
 |--------|---------|
-| `@relay/catalog` | `parseNavIndexTxt`, `contentKind`, `buildDirTree`, `publishedFromBlogPath`, `loadNavIndex`, `neighborPaths`, `isFeelingLuckyCandidate`, `pickFeelingLuckyPath` |
+| `@relay/catalog` | `parseNavIndexTxt`, `loadNavIndex`, `extractMarkdownHeadings`, `contentKind`, `buildDirTree`, `publishedFromBlogPath`, `neighborPaths`, `isFeelingLuckyCandidate`, `pickFeelingLuckyPath` |
 | `@relay/date` | `formatTiny` / `formatLong` / `formatFeed` / `sameDay` |
 | `@relay/path` | `basename`, `dirname`, `join`, `split`, `normalizeRel`, `resolveRel`, `parentDir`, `siteHref`, `resolveEmbedSrc`, `resolveAssetUrl`, `rewriteMarkdownAssetUrls` |
 | `@relay/util` | `sortBy`, `take`, `prop`, `omitUndefined`, `slugify`, `uniqueId`, `includes` |
@@ -44,7 +44,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 ## SSR data
 
 - **Never** `fetch` / QUERY the **same Host** during site-shell SSR — it deadlocks the gateway worker.
-- Prefer on-tree blobs: **`nav-index.txt`**, sidecar JSON, static catalogs — load via **`cachedGet`** / **`parseNavIndexTxt`** (request-local cache).
+- Prefer on-tree blobs: **`nav-index.txt`**, sidecar JSON, static catalogs — load via **`loadNavIndex(limit)`** (host cached tip GET + parse). Tip `extractMarkdownHeadings` prefers host `@relay/catalog.extractMarkdownHeadings` when fleet WASM is new enough; local ATX walk is the fallback.
 - Regenerate nav index before push: `python3 scripts/build-nav-index.py` (writes optional `_updated` ISO column).
 - **SSR must stay light:** gate heavy catalog / markdown work with `isClientLive() === true`. On SSR (`!== true`), return a chrome shell + short “loads after page open…” placeholder — do **not** call `loadArticleRows`, `MarkdownRenderer`, or full nav-index parse until the client is live.
 - **Homepage `page.md` UTF-8 hazard (2026-07-22):** fleet WASM panics with `byte index … is not a char boundary` inside multi-byte chars (`—`, `“`, …) while hydrating `/`, then `[embed] boot failed RuntimeError: unreachable`. Keep **`page.md` ASCII-only** (no curly quotes, em dashes, arrows, æ). Hero image alts short/single-line. ArticleView fetches `page.md?v=ptmdN` (bump N when content must pierce CDN `max-age=3600`; CleverScript `fetch` ignores `cache:'no-store'`; do **not** use `Date.now()` in tip — breaks SSR compile). Root cause is Relay runtime byte-slice; content hygiene unblocks the parked site.
