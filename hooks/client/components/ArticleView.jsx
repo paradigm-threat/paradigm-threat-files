@@ -125,7 +125,7 @@ export default function ArticleView(props) {
     } else {
       // CDN caches tip blobs (max-age=3600). CleverScript fetch ignores cache:'no-store'
       // and Date.now() breaks SSR compile - static bust so CSR skips stale em-dash page.md.
-      const url = baseStr + '/' + pathPart + '?v=ptmd3'
+      const url = baseStr + '/' + pathPart + '?v=ptmd4'
       const resp = fetch(url, { method: 'GET' })
       if (resp && resp.ok === true) {
         markdownContent = resp.text ? resp.text : ''

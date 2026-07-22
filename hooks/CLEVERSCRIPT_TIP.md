@@ -46,7 +46,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - Prefer on-tree blobs: **`nav-index.txt`**, sidecar JSON, static catalogs — load via **`cachedGet`** / **`parseNavIndexTxt`** (request-local cache).
 - Regenerate nav index before push: `python3 scripts/build-nav-index.py` (writes optional `_updated` ISO column).
 - **SSR must stay light:** gate heavy catalog / markdown work with `isClientLive() === true`. On SSR (`!== true`), return a chrome shell + short “loads after page open…” placeholder — do **not** call `loadArticleRows`, `MarkdownRenderer`, or full nav-index parse until the client is live.
-- **Homepage `page.md` UTF-8 hazard (2026-07-22):** fleet WASM panicked with `byte index … is not a char boundary; it is inside '—'` while hydrating `/`, then `[embed] boot failed RuntimeError: unreachable` (static SSR shell left up). Prefer **ASCII ` - `** instead of Unicode em/en dashes in `page.md` (especially the first ~2 KB). Keep hero image alts **short, single-line**. Root cause is a Relay runtime byte-slice bug; content hygiene unblocks the parked site.
+- **Homepage `page.md` UTF-8 hazard (2026-07-22):** fleet WASM panics with `byte index … is not a char boundary` inside multi-byte chars (`—`, `“`, …) while hydrating `/`, then `[embed] boot failed RuntimeError: unreachable`. Keep **`page.md` ASCII-only** (no curly quotes, em dashes, arrows, æ). Hero image alts short/single-line. ArticleView fetches `page.md?v=ptmdN` (bump N when content must pierce CDN `max-age=3600`; CleverScript `fetch` ignores `cache:'no-store'`; do **not** use `Date.now()` in tip — breaks SSR compile). Root cause is Relay runtime byte-slice; content hygiene unblocks the parked site.
 
 ## Pre-push smoke
 
