@@ -3,10 +3,9 @@ import { getCurrentTheme, isClientLive } from '@clevertree/style-internal'
 import { IconMoon, IconSun } from 'hooks/client/components/Icons.jsx'
 
 /**
- * Dual light/dark rules already ship in #relay-ssr-theme. Toggling html.light /
- * html.dark is enough. Do NOT call setCurrentTheme here — it re-renders the full
- * tip stylesheet (~60KB) and stalls the Dom host so the button feels dead.
- * Also omit data-theme attrs: embed click delegation would invoke setCurrentTheme.
+ * Dual light/dark rules already ship in #relay-ssr-theme. Flip html.light /
+ * html.dark only — never call setCurrentTheme (full CSS rebuild stalls Dom).
+ * Never put data-theme on this button (embed delegation → setCurrentTheme).
  */
 
 function readSystemDark() {
@@ -47,9 +46,22 @@ function applyThemeClass(name) {
   } catch (e) {}
 }
 
+function readHtmlTheme() {
+  try {
+    if (!document || !document.documentElement) return ''
+    const c = document.documentElement.className
+    if (typeof c !== 'string') return ''
+    if (c.indexOf('dark') >= 0) return 'dark'
+    if (c.indexOf('light') >= 0) return 'light'
+  } catch (e) {}
+  return ''
+}
+
 function resolveTheme(allowSystem) {
   const saved = readSavedTheme()
   if (saved === 'dark' || saved === 'light') return saved
+  const onHtml = readHtmlTheme()
+  if (onHtml === 'dark' || onHtml === 'light') return onHtml
   const stored = getCurrentTheme()
   if (stored === 'dark' || stored === 'light') return stored
   if (!allowSystem) return 'light'
@@ -61,20 +73,25 @@ export default function ThemeToggle() {
   const state = useState('light')
   const theme = state[0]
   const setTheme = state[1]
+  const readyState = useState(false)
+  const ready = readyState[0]
+  const setReady = readyState[1]
 
   useEffect(() => {
     if (!live) return
+    if (ready) return
     const resolved = resolveTheme(true)
     setTheme(resolved)
     applyThemeClass(resolved)
-  }, [live])
+    setReady(true)
+  }, [live, ready])
 
   return (
     <button
       type="button"
       id="pt-theme-toggle"
       className="pt-icon-btn"
-      title={live ? 'Toggle theme' : 'Theme toggle available after page loads'}
+      title={live ? 'Toggle theme (' + theme + ')' : 'Theme toggle available after page loads'}
       disabled={!live}
       onClick={() => {
         if (!live) return
