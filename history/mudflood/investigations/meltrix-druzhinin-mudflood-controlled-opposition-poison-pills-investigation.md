@@ -154,7 +154,7 @@ M1–M2 on the Meltrix claim stack **overlap this supported thesis**. Do **not**
 | Item | Public / repo record |
 |------|----------------------|
 | **Site** | **[stolenhistory.org](https://stolenhistory.net/)** / StolenHistory forum — long-running English hub for Tartaria / mudflood / “stolen history” threads. |
-| **KorbenDallas** | Prominent admin / poster associated with viral “buried building” imagery; repo already captions a **Winter Palace deepfake** as MudFlood CO bait ([notes](../notes/page.md) image). |
+| **KorbenDallas** (silly name for a serious investigator) | Prominent admin / poster associated with viral “buried building” imagery; repo already captions a **Winter Palace deepfake** as MudFlood CO bait ([notes](../notes/page.md) image). |
 | **Hub prior** | [Mudflood hub](../page.md) and [notes](../notes/page.md) already name stolenhistory.org admins as controlled opposition agents alongside Druzhinin. |
 
 ### 6.2 Author firsthand — accusation, demonstration, ban
