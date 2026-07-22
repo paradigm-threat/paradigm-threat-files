@@ -28,12 +28,7 @@ export default function ThemeToggle() {
 
   useEffect(() => {
     if (!live) return
-    const resolved = resolveTheme(true)
-    setTheme(resolved)
-    // Keep html class / injected CSS aligned with resolved preference.
-    try {
-      setCurrentTheme(resolved)
-    } catch (e) {}
+    setTheme(resolveTheme(true))
   }, [live])
 
   const next = theme === 'dark' ? 'light' : 'dark'
