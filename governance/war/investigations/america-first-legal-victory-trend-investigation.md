@@ -115,7 +115,7 @@ Keyword hits across all **1,004** bodies (non-exclusive; one PR can match many):
 1. **Immigration** — border metering (**Mullin** / **Noem v. Al Otro Lado**), **TPS** judicial-review bar, **administrative closure** settlement with **Texas**.
 2. **Parental rights** — **California AB 1955** injunction (**Mirabelli** follow-on).
 3. **DEI dismantling** — agency rule repeals, **Title VI/IX** complaints → investigations.
-4. **Election administration** — **Maricopa** / **Arizona** recorder authority (mixed win/pending).
+4. **Election administration** — **Maricopa** / **Arizona** recorder authority (mixed win/pending). Cross-read (2020 theft thesis vs forward audit timing): [2020 election fraud — selective battleground / midterm audits](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md).
 5. **Foreign-aid law** — **Taylor Force Act** / **Palestinian Authority** (labeled **“MAJOR VICTORY FOR PEACE”**).
 
 These are the **channels** where post-war **nationalist flow** is easiest to **measure** in AFL’s docket — **not** because the war was ever going to be **litigated inside AFL’s WordPress**. The corpus is a **gauge**, not the **whole hydraulic system**.

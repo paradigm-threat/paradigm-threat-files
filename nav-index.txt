@@ -1,3 +1,6 @@
+influence/controlled_opposition/mudflood-gatekeepers.md	Mudflood gatekeepers	2026-07-22T09:24:09-04:00
+history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md	Investigation: Mudfossil University / Roger Spurr — Claims, Citations, Yale History, and Validation Status (Open)	2026-07-22T09:24:09-04:00
+history/mudflood/investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md	Investigation: Meltrix / Meltology, Philipp Druzhinin, StolenHistory, and Autodidactic Contrast — Mudflood-Adjacent Controlled Opposition and Poison Pills (Open)	2026-07-22T09:24:09-04:00
 hooks/COMPONENTS_DISABLED.md	CleverScript components — disabled / shipped	2026-07-22T09:00:45-04:00
 hooks/CLEVERSCRIPT_TIP.md	CleverScript tip hygiene (paradigm-threat-files)	2026-07-22T08:52:08-04:00
 science/telepathy/remote_viewing/index-remote-viewing-fiction.md	Remote Viewing / Remote Control in Fiction — Master Index	2026-07-21T09:57:20-04:00
@@ -5,8 +8,6 @@ influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-
 influence/hollywood/the-jedi-who-stare-at-goats.md	The Jedi Who Stare at Goats	2026-07-21T09:48:05-04:00
 influence/hollywood/investigations/men-who-stare-at-goats-rv-satire-predictive-programming-investigation.md	Investigation: *The Men Who Stare at Goats* — satire as shell, RV session lies, Jedi / *Star Wars* chronology	2026-07-21T09:48:05-04:00
 influence/hollywood/investigations/hollywood-two-camp-war-investigation.md	Investigation: Hollywood two-camp war — media catalog (Pacific lane: war-prep litmus)	2026-07-21T09:48:05-04:00
-history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md	Investigation: Mudfossil University / Roger Spurr — Claims, Citations, Yale History, and Validation Status (Open)	2026-07-21T09:45:43-04:00
-history/mudflood/investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md	Investigation: Meltrix / Meltology, Philipp Druzhinin, StolenHistory, and Autodidactic Contrast — Mudflood-Adjacent Controlled Opposition and Poison Pills (Open)	2026-07-21T09:45:43-04:00
 science/nukes/investigations/nukes-dont-exist-investigation.md	Investigation: Nuclear Weapons Half-Hoax — Dubay Audit and Author Correction	2026-07-19T11:16:35-04:00
 science/nukes/investigations/nuke-waste-is-safe-investigation.md	Investigation: Galen Winsor — “Nuclear Waste is Safe” (alternative framework)	2026-07-19T11:16:35-04:00
 science/nukes/A.md	A	2026-07-19T11:16:35-04:00
@@ -587,4 +588,4 @@ node_modules/balanced-match/LICENSE.md	LICENSE
 node_modules/arg/LICENSE.md	LICENSE
 node_modules/ansi-align/CHANGELOG.md	Changelog
 node_modules/@isaacs/balanced-match/LICENSE.md	LICENSE
-influence/controlled_opposition/mudflood-gatekeepers.md	Mudflood gatekeepers
+governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md	Investigation: 2020 Election Fraud — Selective Battleground Theft, Court Blockade, and Midterm Audit Timing
