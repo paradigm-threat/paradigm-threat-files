@@ -12,6 +12,8 @@ import {
   siteHref,
 } from 'hooks/client/loadArticles.jsx'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
+import { extractMarkdownHeadings } from 'hooks/client/extractMarkdownHeadings.js'
+import { makeHeadingOverrides } from 'hooks/client/headingOverrides.jsx'
 import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
 import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
@@ -139,6 +141,20 @@ export default function ArticleView(props) {
 
   const rawBody = errMsg ? '# Error\n\n' + errMsg : markdownContent
   const body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody, pathPart)
+  const headingExtract = extractMarkdownHeadings(body)
+  let tocItems = []
+  let idQueue = []
+  try {
+    if (headingExtract && headingExtract.tocItems) {
+      tocItems = headingExtract.tocItems
+    }
+  } catch (eToc) {}
+  try {
+    if (headingExtract && headingExtract.idQueue) {
+      idQueue = headingExtract.idQueue
+    }
+  } catch (eQ) {}
+  const headingOverrides = makeHeadingOverrides(idQueue)
 
   const neighbors = live
     ? hostNeighborPaths(pathPart, loadArticleRows(200))
@@ -242,6 +258,12 @@ export default function ArticleView(props) {
                     EmbedFile: renderEmbedFile,
                     PopImage: renderPopImage,
                     img: renderPopImage,
+                    h1: headingOverrides.h1,
+                    h2: headingOverrides.h2,
+                    h3: headingOverrides.h3,
+                    h4: headingOverrides.h4,
+                    h5: headingOverrides.h5,
+                    h6: headingOverrides.h6,
                   }}
                 />
               )}
@@ -265,7 +287,9 @@ export default function ArticleView(props) {
               ) : null}
             </Layout>
           </div>
-          {showToc ? <DynamicIndex pathKey={pathPart} /> : null}
+          {showToc ? (
+            <DynamicIndex pathKey={pathPart} items={tocItems} />
+          ) : null}
         </div>
       </main>
     </SiteChrome>
