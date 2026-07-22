@@ -1,6 +1,9 @@
 /**
  * MarkdownRenderer h1–h6 overrides that stamp ids from extractMarkdownHeadings idQueue.
  * Cursor is closed over locals (CleverScript: module bindings are Undefined inside nested functions).
+ *
+ * IMPORTANT: do not name local callables `h1`/`h2`/… — CleverScript JSX may resolve
+ * lowercase tags to those bindings and recurse until stack overflow.
  */
 import React from 'react'
 
@@ -50,7 +53,7 @@ export function makeHeadingOverrides(idQueue) {
     return id
   }
 
-  const h1 = (p) => {
+  const renderHeading1 = (p) => {
     const id = nextId()
     const children = readChildren(p)
     const className = readClassName(p)
@@ -70,7 +73,7 @@ export function makeHeadingOverrides(idQueue) {
     return <h1>{children}</h1>
   }
 
-  const h2 = (p) => {
+  const renderHeading2 = (p) => {
     const id = nextId()
     const children = readChildren(p)
     const className = readClassName(p)
@@ -90,7 +93,7 @@ export function makeHeadingOverrides(idQueue) {
     return <h2>{children}</h2>
   }
 
-  const h3 = (p) => {
+  const renderHeading3 = (p) => {
     const id = nextId()
     const children = readChildren(p)
     const className = readClassName(p)
@@ -110,7 +113,7 @@ export function makeHeadingOverrides(idQueue) {
     return <h3>{children}</h3>
   }
 
-  const h4 = (p) => {
+  const renderHeading4 = (p) => {
     const id = nextId()
     const children = readChildren(p)
     const className = readClassName(p)
@@ -130,7 +133,7 @@ export function makeHeadingOverrides(idQueue) {
     return <h4>{children}</h4>
   }
 
-  const h5 = (p) => {
+  const renderHeading5 = (p) => {
     const id = nextId()
     const children = readChildren(p)
     const className = readClassName(p)
@@ -150,7 +153,7 @@ export function makeHeadingOverrides(idQueue) {
     return <h5>{children}</h5>
   }
 
-  const h6 = (p) => {
+  const renderHeading6 = (p) => {
     const id = nextId()
     const children = readChildren(p)
     const className = readClassName(p)
@@ -171,11 +174,11 @@ export function makeHeadingOverrides(idQueue) {
   }
 
   return {
-    h1: h1,
-    h2: h2,
-    h3: h3,
-    h4: h4,
-    h5: h5,
-    h6: h6,
+    h1: renderHeading1,
+    h2: renderHeading2,
+    h3: renderHeading3,
+    h4: renderHeading4,
+    h5: renderHeading5,
+    h6: renderHeading6,
   }
 }

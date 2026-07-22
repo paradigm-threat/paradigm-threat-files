@@ -38,6 +38,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - **`document` / `setInterval`** are injected builtins (WASM DOM host; SSR stubs). Available when needed: `querySelector` / `querySelectorAll`, DomNode attrs / `scrollIntoView` / `getBoundingClientRect`, `getElementById`. Prefer host-agnostic paths (e.g. content-derived TOC) over Dom scraping.
 - Theme CSS is **pruned to used `className`s** — keep a hidden marker vnode for classes only needed after client interaction (e.g. gallery overlay). TOC markers live in **`SiteChrome`** so home → article soft-nav still has `lg:pt-toc-lg` (otherwise TOC stays `display:none`).
 - **TOC is content-derived and host/OS-agnostic** — `extractMarkdownHeadings` walks the markdown string (ATX + fence skip); `makeHeadingOverrides` stamps matching `id`s on `h1`–`h6`; `DynamicIndex` renders from `items` props with `#id` links and hash-only active state. **Do not** rebuild the TOC via `querySelector` / Dom poll / scroll-spy geometry.
+- **Heading override callables must not be named `h1`…`h6`** — CleverScript JSX can resolve those lowercase tags to the local binding and recurse until “Maximum recursion depth exceeded”. Name them `renderHeading1`, etc.
 - **New tip modules must be listed in `hooks.json`** — CSR hydrate only prefetches that manifest (SSR follows imports). Missing entries → `Module not found: hooks/...` hydration error with static shell left below.
 
 ## SSR data
