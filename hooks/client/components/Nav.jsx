@@ -18,9 +18,11 @@ import { siteHref } from 'hooks/client/loadArticles.jsx'
 
 const WORDMARK_URL = 'https://paradigmthreat.net/site/header.png'
 const MARK_URL = 'https://paradigmthreat.net/site/favicon.svg'
+const FONT_STYLESHEET =
+  'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&family=Libre+Franklin:ital,wght@0,400;0,600;1,400&display=swap'
 
 /** Glass + article font stacks (themed-styler cannot express backdrop-filter / data-font).
- * Fonts load via deferred <link> in Nav — do not @import here (blocks first paint ~seconds). */
+ * Prefer <link rel="stylesheet"> in Nav over @import inside <style> (blocks paint). */
 function navChromeCss() {
   return (
     '.pt-site-nav{-webkit-backdrop-filter:saturate(180%) blur(12px);backdrop-filter:saturate(180%) blur(12px);}' +
@@ -29,12 +31,6 @@ function navChromeCss() {
     'html[data-font="mono"] .pt-article-body{font-family:"JetBrains Mono","Courier New",monospace;font-size:0.95rem;}'
   )
 }
-
-const FONT_STYLESHEET =
-  'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&family=Libre+Franklin:ital,wght@0,400;0,600;1,400&display=swap'
-
-/** Glass + article font stacks (themed-styler cannot express backdrop-filter / data-font).
- * Prefer <link rel="stylesheet"> in Nav over @import inside <style> (blocks paint). */
 
 function NavLink(props) {
   const href = propStr(props, 'href', '#')
