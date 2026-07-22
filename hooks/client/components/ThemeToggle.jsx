@@ -1,40 +1,10 @@
 import React, { useState, useEffect } from 'react'
-import { getCurrentTheme, isClientLive } from '@clevertree/style-internal'
-import { IconMoon, IconSun } from 'hooks/client/components/Icons.jsx'
+import { isClientLive } from '@clevertree/style-internal'
 
 /**
- * Dual light/dark rules already ship in #relay-ssr-theme. Flip html.light /
- * html.dark only — never call setCurrentTheme (full CSS rebuild stalls Dom).
- * Never put data-theme on this button (embed delegation → setCurrentTheme).
+ * Flip html.light / html.dark only. Dual theme CSS is already in #relay-ssr-theme.
+ * Do not call setCurrentTheme or set data-theme (both stall / re-inject CSS).
  */
-
-function readSystemDark() {
-  try {
-    const g = globalThis
-    if (!g || !g.matchMedia) return false
-    return g.matchMedia('(prefers-color-scheme: dark)').matches === true
-  } catch (e) {
-    return false
-  }
-}
-
-function readSavedTheme() {
-  try {
-    if (typeof localStorage === 'undefined') return ''
-    if (!localStorage.getItem) return ''
-    const s = localStorage.getItem('pt-theme')
-    if (s === 'dark' || s === 'light') return s
-  } catch (e) {}
-  return ''
-}
-
-function saveTheme(name) {
-  try {
-    if (typeof localStorage === 'undefined') return
-    if (!localStorage.setItem) return
-    localStorage.setItem('pt-theme', name)
-  } catch (e) {}
-}
 
 function applyThemeClass(name) {
   try {
@@ -57,15 +27,30 @@ function readHtmlTheme() {
   return ''
 }
 
-function resolveTheme(allowSystem) {
+function readSavedTheme() {
+  try {
+    if (typeof localStorage === 'undefined') return ''
+    if (!localStorage.getItem) return ''
+    const s = localStorage.getItem('pt-theme')
+    if (s === 'dark' || s === 'light') return s
+  } catch (e) {}
+  return ''
+}
+
+function saveTheme(name) {
+  try {
+    if (typeof localStorage === 'undefined') return
+    if (!localStorage.setItem) return
+    localStorage.setItem('pt-theme', name)
+  } catch (e) {}
+}
+
+function resolveInitialTheme() {
   const saved = readSavedTheme()
   if (saved === 'dark' || saved === 'light') return saved
   const onHtml = readHtmlTheme()
   if (onHtml === 'dark' || onHtml === 'light') return onHtml
-  const stored = getCurrentTheme()
-  if (stored === 'dark' || stored === 'light') return stored
-  if (!allowSystem) return 'light'
-  return readSystemDark() ? 'dark' : 'light'
+  return 'light'
 }
 
 export default function ThemeToggle() {
@@ -73,18 +58,13 @@ export default function ThemeToggle() {
   const state = useState('light')
   const theme = state[0]
   const setTheme = state[1]
-  const readyState = useState(false)
-  const ready = readyState[0]
-  const setReady = readyState[1]
 
   useEffect(() => {
     if (!live) return
-    if (ready) return
-    const resolved = resolveTheme(true)
+    const resolved = resolveInitialTheme()
     setTheme(resolved)
     applyThemeClass(resolved)
-    setReady(true)
-  }, [live, ready])
+  }, [live])
 
   return (
     <button
@@ -101,7 +81,7 @@ export default function ThemeToggle() {
         setTheme(next)
       }}
     >
-      {theme === 'dark' ? <IconSun /> : <IconMoon />}
+      {theme === 'dark' ? 'Sun' : 'Moon'}
     </button>
   )
 }
