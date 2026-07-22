@@ -124,7 +124,9 @@ export default function ArticleView(props) {
       errMsg = 'Missing relayClientBaseUrl — open via Relay host preset.'
     } else {
       const url = baseStr + '/' + pathPart
-      const resp = fetch(url, { method: 'GET' })
+      // CDN may cache tip blobs (max-age=3600). Stale page.md with Unicode
+      // em-dashes panicked fleet WASM mid-hydrate - always revalidate on CSR.
+      const resp = fetch(url, { method: 'GET', cache: 'no-store' })
       if (resp && resp.ok === true) {
         markdownContent = resp.text ? resp.text : ''
       } else {
