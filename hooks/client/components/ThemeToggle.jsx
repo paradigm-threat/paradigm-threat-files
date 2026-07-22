@@ -1,17 +1,18 @@
 import React, { useState, useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
+import { IconMoon, IconSun } from 'hooks/client/components/Icons.jsx'
 
 /**
  * Flip html.light / html.dark only. Dual theme CSS is already in #relay-ssr-theme.
- * Do not call setCurrentTheme or set data-theme (both stall / re-inject CSS).
+ * CleverScript tip Dom: use setAttribute('class', …) — classList is unreliable in tip handlers.
+ * Do not call setCurrentTheme or set data-theme (full CSS rebuild / embed delegation stalls).
  */
 
 function applyThemeClass(name) {
   try {
     if (!document || !document.documentElement) return
-    document.documentElement.classList.remove('light', 'dark')
     if (name === 'light' || name === 'dark') {
-      document.documentElement.classList.add(name)
+      document.documentElement.setAttribute('class', name)
     }
   } catch (e) {}
 }
@@ -19,7 +20,17 @@ function applyThemeClass(name) {
 function readHtmlTheme() {
   try {
     if (!document || !document.documentElement) return ''
-    const c = document.documentElement.className
+    let c = ''
+    try {
+      c = document.documentElement.getAttribute('class')
+    } catch (e0) {}
+    if (typeof c !== 'string') {
+      try {
+        if (typeof document.documentElement.className === 'string') {
+          c = document.documentElement.className
+        }
+      } catch (e1) {}
+    }
     if (typeof c !== 'string') return ''
     if (c.indexOf('dark') >= 0) return 'dark'
     if (c.indexOf('light') >= 0) return 'light'
@@ -81,7 +92,7 @@ export default function ThemeToggle() {
         setTheme(next)
       }}
     >
-      {theme === 'dark' ? 'Sun' : 'Moon'}
+      {theme === 'dark' ? <IconSun /> : <IconMoon />}
     </button>
   )
 }
