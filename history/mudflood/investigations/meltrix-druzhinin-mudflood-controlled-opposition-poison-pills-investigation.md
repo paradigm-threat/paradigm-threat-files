@@ -187,7 +187,7 @@ This is **stronger** than YouTube content-only CO (Druzhinin / Meltrix): it is *
 2. **Meltrix / Meltology is controlled-opposition content** — mountains-as-buildings + simulation / all-dates-fake.
 3. **StolenHistory.org is controlled-opposition** — deepfake/poison-pill promotion **plus** censorship of real posts and **ban** of the author after on-forum CO demonstration ([§6](#6-stolenhistoryorg--korbendallas)).
 4. **Autodidactic is not controlled opposition** on present evidence — **no red flags yet** ([§5](#5-autodidactic--author-non-co-contrast)).
-4b. **Anatoly Fomenko / Gleb Nosovskiy (New Chronology) are not controlled opposition** — map/chronicle dissent usable by MFEE; chronological rigidity ≠ FE/Meltrix/deepfake gatekeeper product ([reader article](/influence/controlled_opposition/mudflood-gatekeepers-and-poison-pills.md)).
+4b. **Anatoly Fomenko / Gleb Nosovskiy (New Chronology) are not controlled opposition** — map/chronicle dissent usable by MFEE; chronological rigidity ≠ FE/Meltrix/deepfake gatekeeper product ([reader article](/influence/controlled_opposition/mudflood-gatekeepers.md)).
 5. **Strip rule:** Keep documented grade raises, map discontinuities, energetic / mud-rain hypotheses; **discard** Flat Earth, Meltrix hologram, mountains-as-brick, deepfake bury spam, and Tartaria-as-proven-high-tech-empire-from-map-labels as load-bearing.
 6. **Paycheck / handler trails** remain **unproven** for all named parties; StolenHistory CO call rests on **content + moderation behavior** (author primary), not a funding dossier.
 
@@ -218,7 +218,7 @@ This is **stronger** than YouTube content-only CO (Druzhinin / Meltrix): it is *
 - [ ] Optional: Wayback / screenshot of the *accusation* thread (pre-ban post body), if still recoverable.
 - [ ] Archive meltology.org / key Meltrix posts locally (`wget/`).
 - [x] Author camps for Mind Unveiled / Jon Levi / Tartaria Vault / Max Igan / Eagle Eye (+ Baked, Howdie, YD lane, Spurr dragons-only).
-- [x] Reader article: [Mudflood gatekeepers and poison pills](/influence/controlled_opposition/mudflood-gatekeepers-and-poison-pills.md) (2026-07-21).
+- [x] Reader article: [Mudflood gatekeepers](/influence/controlled_opposition/mudflood-gatekeepers.md) (2026-07-21).
 
 ---
 
@@ -233,7 +233,7 @@ This is **stronger** than YouTube content-only CO (Druzhinin / Meltrix): it is *
 | [Mudflood notes — CO agents](../notes/page.md) | Prior StolenHistory / Druzhinin naming; Winter Palace deepfake |
 | [Flat earth investigation](/cosmos/flat_earth/flat-earth-investigation.md) | FE as diversion / PsyOp grammar |
 | [Controlled opposition hub](/influence/controlled_opposition/page.md) | Manufactured dissent grammar |
-| [Mudflood gatekeepers and poison pills](/influence/controlled_opposition/mudflood-gatekeepers-and-poison-pills.md) | Reader article: CO tells, Spurr email, StolenHistory ban, Autodidactic, anti-doomer |
+| [Mudflood gatekeepers](/influence/controlled_opposition/mudflood-gatekeepers.md) | Reader article: CO tells, Spurr email, StolenHistory ban, Autodidactic, anti-doomer |
 | [Passover of Comet Venus](/timeline/evt-passover-of-comet-venus) | Repo dragon = Venus, not landscape melt |
 
 ---

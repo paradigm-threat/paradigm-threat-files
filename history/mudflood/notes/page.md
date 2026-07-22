@@ -396,7 +396,7 @@ Ancient Aliens, or invisible Gods. Keep an open mind, Inspector - and happy inve
 
 **StolenHistory (author firsthand):** Forum CO is not only deepfake bait — they **censor real posts**, cultivate **loyalty to poison pills**, eliminate challenges to that mindset, and **banned** the author after an on-forum CO accusation with demonstration. Ban screen: ![You have been banned — stolenhistory.net](../../influence/censorship/stolenhistory.jpg?w=480). Full write-up: [dossier §6](../investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md#6-stolenhistoryorg--korbendallas).
 
-**Poison-pill deep dive (2026-07-21):** [Meltrix / Druzhinin / StolenHistory / Autodidactic](../investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md) — Druzhinin/Meltrix/StolenHistory = CO; **Autodidactic = not CO**. Parallel: [Mudfossil University / Spurr](../investigations/mudfossil-university-roger-spurr-investigation.md). Reader article: [Mudflood gatekeepers and poison pills](/influence/controlled_opposition/mudflood-gatekeepers-and-poison-pills.md).
+**Poison-pill deep dive (2026-07-21):** [Meltrix / Druzhinin / StolenHistory / Autodidactic](../investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md) — Druzhinin/Meltrix/StolenHistory = CO; **Autodidactic = not CO**. Parallel: [Mudfossil University / Spurr](../investigations/mudfossil-university-roger-spurr-investigation.md). Reader article: [Mudflood gatekeepers](/influence/controlled_opposition/mudflood-gatekeepers.md).
 
 ## Browse this section
 

@@ -1,8 +1,8 @@
-# Mudflood gatekeepers and poison pills
+# Mudflood gatekeepers
 
 How controlled-opposition agents seal valid questions — and why seriousness is non-negotiable
 
-![Mudflood gatekeepers and poison pills — locked gate vs open inquiry; poison-pill rule; four document questions](https://paradigmthreat.net/influence/controlled_opposition/mudflood-gatekeepers-and-poison-pills.png)
+![Mudflood gatekeepers — locked gate vs open inquiry; four document questions](https://paradigmthreat.net/influence/controlled_opposition/mudflood-gatekeepers.png)
 
 > **TL;DR:** Every theory with real traction is gated by controlled-opposition agents who stick to one issue, refuse alternate explanations, and weave poison pills through everything else. The giveaway is the pill — Flat Earth, simulation dead ends, landscape dragons, deepfake bury bait, Younger Dryas as closed calendar — plus fame without a path for the next investigator. I emailed MudFossilsResearcher with four document questions and got voice-only stalls; I still leave the door open if he ships paper. StolenHistory banned me for naming the pattern on their forum. Non-seriousness is a red flag. The next step is that everyone should know what a controlled-opposition agent is — even people who never care about mudflood — because a living person can have a job to keep you from ever hearing a piece of knowledge. That is extreme anti-agnosticism. Humans are intelligent, ethical, and capable of utopia.
 
@@ -97,7 +97,7 @@ Poison-pill inventories, Spurr email chronology, and StolenHistory ban exhibit:
 
 Keywords: #ControlledOpposition #PoisonPill #Mudflood #StolenHistory #MudfossilUniversity #Autodidactic #Fomenko #Nosovskiy #NewChronology #Meltrix #Meltology #PhilippDruzhinin #RogerSpurr #KorbenDallas #MaxIgan #JonLevi #TartariaVault #YoungerDryas #RandallCarlson #GrahamHancock #FlatEarth #AntiAgnosticism #ParadigmThreatFiles
 
-**Last updated:** 2026-07-21T09:45:06-04:00
+**Last updated:** 2026-07-22
 
 ---
 

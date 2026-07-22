@@ -46,7 +46,7 @@ a Great Reset, or any kind of historical redaction. However, these theories cann
 
 <iframe width="400" height="200" src="https://www.youtube.com/embed/1dYfT2ccNNQ" title="Exploring the MudFlood -- Autodidactic" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen="true" className="m-auto max-w-full"/>
 
-**Autodidactic carve-out:** The embedded channel is **not** classed as controlled opposition here — author reports **no CO red flags yet**. See [Meltrix / Druzhinin / Autodidactic contrast](investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md#5-autodidactic--author-non-co-contrast) and the reader article [Mudflood gatekeepers and poison pills](/influence/controlled_opposition/mudflood-gatekeepers-and-poison-pills.md).
+**Autodidactic carve-out:** The embedded channel is **not** classed as controlled opposition here — author reports **no CO red flags yet**. See [Meltrix / Druzhinin / Autodidactic contrast](investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md#5-autodidactic--author-non-co-contrast) and the reader article [Mudflood gatekeepers](/influence/controlled_opposition/mudflood-gatekeepers.md).
 
 Researching any topic related to a Worldwide MudFlood Theory is difficult due to a lack of reliable research material.
 Virtually all MudFlood

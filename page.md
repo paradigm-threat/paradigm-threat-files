@@ -158,7 +158,7 @@ or *not* believing.
 #### Influence
 
 * [Controlled opposition hub](/influence/controlled_opposition/page) - CO patterns, QAnon cluster, CIA Reading Room Mars **remote viewing** dossier; readable [**Mars x *Chrono Trigger* article**](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md).
-* [Mudflood gatekeepers and poison pills](/influence/controlled_opposition/mudflood-gatekeepers-and-poison-pills.md) - Poison-pill = CO; MudFossilsResearcher email; StolenHistory ban; seriousness + anti-agnosticism (Jul 2026).
+* [Mudflood gatekeepers](/influence/controlled_opposition/mudflood-gatekeepers.md) - Controlled-opposition gatekeepers in the mudflood lane; MudFossilsResearcher email; StolenHistory ban; seriousness + anti-agnosticism (Jul 2026).
 * [Captured courts, wrong villain](/influence/controlled_opposition/captured-courts-wrong-villain.md) - **BRSINV** / St. Julian: federal court-capture substance vs **Zionist** scapegoat trap; **Blue_French_Qtr** Brantley demoralization; **1979** / CIA / NSA counter-frame.
 * [BRSINV / St. Julian - captured courts & Zionist framing CO (open)](/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md) - Julian J1-J18 vs author counters; Brantley identity map.
 * [Make Gordonston Great Again](/influence/controlled_opposition/make-gordonston-great-again.md) - Savannah **Gordonston** reader essay: Hollywood location shoot / Facebook ban hook; Juliette Low park access; volunteer homework at Christ's Community; links [Gordonston investigation](/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md).
