@@ -122,7 +122,8 @@ export default function DynamicIndex(props) {
     }
   }, [live, pathKey])
 
-  if (!live) {
+  // SSR: still render TOC when P0 extract produced items (article-first).
+  if (!live && items.length === 0) {
     return (
       <aside
         className="pt-toc lg:pt-toc-lg"
@@ -153,7 +154,22 @@ export default function DynamicIndex(props) {
     )
   }
 
-  const links = renderTocLinks(items, activeId)
+  const links = renderTocLinks(items, live ? activeId : '')
+
+  if (!live) {
+    return (
+      <aside
+        className="pt-toc lg:pt-toc-lg"
+        aria-label="Table of contents"
+        data-pt-toc="1"
+      >
+        <div className="pt-toc-head">
+          <h2 className="pt-toc-title">{'Table of Contents'}</h2>
+        </div>
+        <ul className="pt-toc-list">{links}</ul>
+      </aside>
+    )
+  }
 
   return (
     <aside className="pt-toc lg:pt-toc-lg" aria-label="Table of contents">

@@ -83,7 +83,7 @@ or *not* believing.
 
 * [TONA, Not War - Liberty's Rebrand](/governance/constitution/tona-not-war-liberty-rebrand.md) - Reader essay: TONA abolition-by-disconnect; war tangent; Liberty 1886 rebrand; amendment cascade; *Trump v. Barbara* (June 2026).
 * [Constitution & amendments - nationalist vs globalist battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) - TONA "original 13th"; carceral replacement 13th; 14th birthright; Liberty section 12; cascade section 13; SCOTUS section 14; full scorecard.
-* [2020 election fraud — selective battleground, AZ logs, midterm audit timing](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) - Selective theft thesis; overcapacity delays; Cyber Ninjas vs routers; Edison CO meme; AFL wins for 2026 audits.
+* [2020 election fraud — selective battleground, AZ logs, midterm audit timing](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) - Selective theft; AZ routers; Edison CO; **one-node virus**; midterm **all-or-nothing legitimacy**; AFL/2026 audits.
 * [Slave trades & Moor etymology](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) - Historical slave systems and Moor / Morocco naming threads.
 * [American Revolution](/governance/war/investigations/american-revolution-investigation.md) - Atlantic context; a small piece of a larger puzzle.
 * [British Civil War](/governance/war/investigations/british-civil-war-investigation.md) - Societized consolidation; template for Western governance.
@@ -159,6 +159,7 @@ or *not* believing.
 #### Influence
 
 * [Controlled opposition hub](/influence/controlled_opposition/page) - CO patterns, QAnon cluster, CIA Reading Room Mars **remote viewing** dossier; readable [**Mars x *Chrono Trigger* article**](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md).
+* [2020 election — Edison/Dominion CO vs forward audits](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) - Poisoned hinge; **one-node ≠ network**; all-or-nothing midterm legitimacy; AFL/2026 audits.
 * [Mudflood gatekeepers](/influence/controlled_opposition/mudflood-gatekeepers.md) - Controlled-opposition gatekeepers in the mudflood lane; MudFossilsResearcher email; StolenHistory ban; seriousness + anti-agnosticism (Jul 2026).
 * [Captured courts, wrong villain](/influence/controlled_opposition/captured-courts-wrong-villain.md) - **BRSINV** / St. Julian: federal court-capture substance vs **Zionist** scapegoat trap; **Blue_French_Qtr** Brantley demoralization; **1979** / CIA / NSA counter-frame.
 * [BRSINV / St. Julian - captured courts & Zionist framing CO (open)](/influence/controlled_opposition/investigations/brsinv-st-julian-captured-courts-zionist-framing-investigation.md) - Julian J1-J18 vs author counters; Brantley identity map.

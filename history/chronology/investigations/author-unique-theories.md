@@ -55,7 +55,7 @@ Per-investigation **§ Author open claims** blocks remain the **detail** registr
 
 | ID | Theory (short) | Prior art | Canonical doc |
 |----|----------------|-----------|-----------------|
-| **AU-037** | **2020 selective battleground theft** + **delay/overcapacity** exploit; AZ **router/log** denial + spectacle recount as **containment**; antibodies abandoned 2020 proof for **2026 audit** lawfare; Edison/Dominion memes = **poisoned-hinge CO** vs AFL process wins | **partial** (fraud claims widespread; **selective + midterm-timing + Edison-as-CO vs AFL** package author) | [2020 election fraud dossier](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) |
+| **AU-037** | **2020 selective battleground theft** + delay exploit; AZ log denial + spectacle recount; antibodies → **2026** audits; Edison = poisoned-hinge CO; **one-node → network-collapse** virus; midterm legitimacy **all-or-nothing / faith**; **no** institutional-headline faith owed | **partial** (pieces widespread; **full package** author) | [2020 election fraud dossier](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) |
 
 ## Christianity & war (author vs Fomenko)
 

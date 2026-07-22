@@ -1,8 +1,11 @@
+hooks/CLEVERSCRIPT_TIP.md	CleverScript tip hygiene (paradigm-threat-files)	2026-07-22T09:43:46-04:00
+history/chronology/investigations/author-unique-theories.md	Author-Unique Theories — Registry	2026-07-22T09:27:30-04:00
+governance/war/investigations/america-first-legal-victory-trend-investigation.md	Investigation: America First Legal — victory trend, Trump-alignment, and claim validation (2021–2026)	2026-07-22T09:27:30-04:00
+governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md	Investigation: 2020 Election Fraud — Selective Battleground Theft, Court Blockade, and Midterm Audit Timing	2026-07-22T09:27:30-04:00
 influence/controlled_opposition/mudflood-gatekeepers.md	Mudflood gatekeepers	2026-07-22T09:24:09-04:00
 history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md	Investigation: Mudfossil University / Roger Spurr — Claims, Citations, Yale History, and Validation Status (Open)	2026-07-22T09:24:09-04:00
 history/mudflood/investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md	Investigation: Meltrix / Meltology, Philipp Druzhinin, StolenHistory, and Autodidactic Contrast — Mudflood-Adjacent Controlled Opposition and Poison Pills (Open)	2026-07-22T09:24:09-04:00
 hooks/COMPONENTS_DISABLED.md	CleverScript components — disabled / shipped	2026-07-22T09:00:45-04:00
-hooks/CLEVERSCRIPT_TIP.md	CleverScript tip hygiene (paradigm-threat-files)	2026-07-22T08:52:08-04:00
 science/telepathy/remote_viewing/index-remote-viewing-fiction.md	Remote Viewing / Remote Control in Fiction — Master Index	2026-07-21T09:57:20-04:00
 influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md	Investigation: CIA Reading Room — Remote Viewing, “Two-Way” Influence, and the Iran / Religious-Revival Hypothesis (Clue-First)	2026-07-21T09:57:20-04:00
 influence/hollywood/the-jedi-who-stare-at-goats.md	The Jedi Who Stare at Goats	2026-07-21T09:48:05-04:00
@@ -23,7 +26,6 @@ blog/2026-03-03-timeline-update.md	Timeline Update: Investigations Library, Maxw
 influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md	*Half-Life* series — Xen/CERN portals, Combine warning, NSA camp, and sequel containment (open)	2026-07-18T19:30:18-04:00
 influence/predictive_programming/investigations/half-life-2-nsa-combine-warning-containment-investigation.md	*Half-Life 2* — NSA warning / containment (stub → merged dossier)	2026-07-18T19:30:18-04:00
 influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md	*Children of Men* (2006) — NSA-aligned future warning, intellectual PP, production motives (open)	2026-07-18T19:30:18-04:00
-history/chronology/investigations/author-unique-theories.md	Author-Unique Theories — Registry	2026-07-18T19:30:18-04:00
 events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md	Investigation: Philadelphia Experiment — Ship-Scale Portal Precursor (1943)	2026-07-18T19:30:18-04:00
 events/jfk/jfk-was-never-assassinated.md	JFK Was Never Assassinated	2026-07-17T12:22:46-04:00
 events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md	Investigation: JFK & RFK — Staged Assassination Hoax (Kennedy Family Compliance)	2026-07-16T11:27:20-04:00
@@ -125,7 +127,6 @@ cosmos/cosmology/qa/q01-big-melt-eternal-universe-solar-cycle.md	Q1 — Big Melt
 history/chronology/jerusalem/troy_1st_jerusalem.md	Troy = Yoros = Jerusalem (#1)	2026-06-26T09:39:50-04:00
 history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md	Investigation (speculative): “New World,” “new lands,” and post–mud-flood memory	2026-06-26T09:39:50-04:00
 history/chronology/investigations/eponym-words-forgotten-people-investigation.md	Eponym Words — Forgotten People Behind Everyday Language (open)	2026-06-26T09:39:50-04:00
-governance/war/investigations/america-first-legal-victory-trend-investigation.md	Investigation: America First Legal — victory trend, Trump-alignment, and claim validation (2021–2026)	2026-06-26T09:39:50-04:00
 cosmos/cosmology/qa/q02-einstein-math-cosmic-extrapolation.md	Q2 — Did Einstein warn his theories weren’t established in grounded math?	2026-06-26T09:39:50-04:00
 cosmos/cosmology/a.md	a	2026-06-26T09:39:50-04:00
 history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md	Two Branches of Christianity: Fomenko vs. Paradigm Threat	2026-06-26T08:05:46-04:00
@@ -588,4 +589,3 @@ node_modules/balanced-match/LICENSE.md	LICENSE
 node_modules/arg/LICENSE.md	LICENSE
 node_modules/ansi-align/CHANGELOG.md	Changelog
 node_modules/@isaacs/balanced-match/LICENSE.md	LICENSE
-governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md	Investigation: 2020 Election Fraud — Selective Battleground Theft, Court Blockade, and Midterm Audit Timing

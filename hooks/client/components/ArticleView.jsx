@@ -3,6 +3,7 @@ import { isClientLive } from '@clevertree/style-internal'
 import { MarkdownRenderer } from '@clevertree/markdown'
 import { neighborPaths as hostNeighborPaths } from '@relay/catalog'
 import { normalizeRel, resolveRel, parentDir } from '@relay/path'
+import { cachedGet } from '@relay/ui'
 import SiteChrome from 'hooks/client/components/SiteChrome.jsx'
 import Layout from 'hooks/client/components/Layout.jsx'
 import DirNav from 'hooks/client/components/DirNav.jsx'
@@ -19,6 +20,12 @@ import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
 import manifest from '@hooks'
+
+/** Skip SSR MarkdownRenderer for absurdly large tips (hydrate fills). */
+const MAX_SSR_MD_CHARS = 400000
+
+/** Tip CDN bust — bump when ASCII-safe content must pierce max-age=3600. */
+const MD_CACHE_BUST = 'ptmd5'
 
 /** Stub for markdown tags not yet implemented (module-level for CleverScript scope). */
 function EmptyMdStub() {
@@ -81,6 +88,46 @@ function clientBase() {
 }
 
 /**
+ * Tip-safe article load (P0). SSR: RepoFetchHost in-process git. CSR: tip GET + CDN bust.
+ * Prefer cachedGet over same-Host fetch during SSR (deadlock).
+ */
+function loadArticleMarkdown(pathPart) {
+  const rel = '/' + pathPart + '?v=' + MD_CACHE_BUST
+  try {
+    const text = cachedGet(rel)
+    if (typeof text === 'string' && text.length > 0) {
+      return { markdownContent: text, errMsg: '' }
+    }
+  } catch (e) {}
+  // CSR fallback when cachedGet empty (older hosts): absolute tip URL.
+  const live = isClientLive() === true
+  if (live) {
+    const baseStr = clientBase()
+    if (baseStr.length === 0) {
+      return {
+        markdownContent: '',
+        errMsg: 'Missing relayClientBaseUrl — open via Relay host preset.',
+      }
+    }
+    const url = baseStr + '/' + pathPart + '?v=' + MD_CACHE_BUST
+    const resp = fetch(url, { method: 'GET' })
+    if (resp && resp.ok === true) {
+      return {
+        markdownContent: resp.text ? resp.text : '',
+        errMsg: '',
+      }
+    }
+    let st = 0
+    if (resp && resp.status) st = resp.status
+    return {
+      markdownContent: '',
+      errMsg: 'Could not load file (HTTP ' + st + ')',
+    }
+  }
+  return { markdownContent: '', errMsg: 'Could not load file' }
+}
+
+/**
  * On-tree article — MarkdownRenderer with overrides for AutoIndex / ChangeLog / EmbedFile.
  */
 export default function ArticleView(props) {
@@ -117,26 +164,13 @@ export default function ArticleView(props) {
 
   let pathPart = normalizeRel(routePath)
   const live = isClientLive() === true
-  let markdownContent = ''
-  let errMsg = ''
-  // SSR: chrome only — skip blob fetch + MarkdownRenderer (dominant home TTFB).
-  if (live) {
-    const baseStr = clientBase()
-    if (baseStr.length === 0) {
-      errMsg = 'Missing relayClientBaseUrl — open via Relay host preset.'
-    } else {
-      // CDN caches tip blobs (max-age=3600). CleverScript fetch ignores cache:'no-store'
-      // and Date.now() breaks SSR compile - static bust so CSR skips stale em-dash page.md.
-      const url = baseStr + '/' + pathPart + '?v=ptmd4'
-      const resp = fetch(url, { method: 'GET' })
-      if (resp && resp.ok === true) {
-        markdownContent = resp.text ? resp.text : ''
-      } else {
-        let st = 0
-        if (resp && resp.status) st = resp.status
-        errMsg = 'Could not load file (HTTP ' + st + ')'
-      }
-    }
+  const loaded = loadArticleMarkdown(pathPart)
+  let markdownContent = loaded.markdownContent
+  let errMsg = loaded.errMsg
+  let deferHugeSsr = false
+  if (!live && !errMsg && markdownContent.length > MAX_SSR_MD_CHARS) {
+    deferHugeSsr = true
+    markdownContent = ''
   }
 
   const rawBody = errMsg ? '# Error\n\n' + errMsg : markdownContent
@@ -156,6 +190,7 @@ export default function ArticleView(props) {
   } catch (eQ) {}
   const headingOverrides = makeHeadingOverrides(idQueue)
 
+  // P2 catalog — neighbors only when live.
   const neighbors = live
     ? hostNeighborPaths(pathPart, loadArticleRows(200))
     : { prev: '', next: '' }
@@ -214,6 +249,8 @@ export default function ArticleView(props) {
     )
   }
 
+  const showArticleBody = !deferHugeSsr && (errMsg.length > 0 || body.length > 0)
+
   return (
     <SiteChrome currentPath={currentPath}>
       <main className="pt-page pt-article-page">
@@ -230,9 +267,31 @@ export default function ArticleView(props) {
                 navigateFile('page.md')
               }}
             >
-              {!live ? (
-                <div className="pt-md" data-pt-article-ssr="1">
-                  <p className="pt-muted">Article loads after page open…</p>
+              {showArticleBody ? (
+                <div className="pt-md" data-pt-article="1">
+                  <MarkdownRenderer
+                    content={body}
+                    navigate={(to) => {
+                      navigateFile(to)
+                    }}
+                    anchorOnClick={(href) => {
+                      onMdLinkClick(href)
+                    }}
+                    overrides={{
+                      AutoIndex: renderAutoIndex,
+                      ChangeLog: renderChangeLog,
+                      ChatRoom: EmptyMdStub,
+                      EmbedFile: renderEmbedFile,
+                      PopImage: renderPopImage,
+                      img: renderPopImage,
+                      h1: headingOverrides.h1,
+                      h2: headingOverrides.h2,
+                      h3: headingOverrides.h3,
+                      h4: headingOverrides.h4,
+                      h5: headingOverrides.h5,
+                      h6: headingOverrides.h6,
+                    }}
+                  />
                   {/* Keep hydrate-only theme classes in the SSR used-class set. */}
                   <span
                     aria-hidden="true"
@@ -242,29 +301,15 @@ export default function ArticleView(props) {
                   />
                 </div>
               ) : (
-                <MarkdownRenderer
-                  content={body}
-                  navigate={(to) => {
-                    navigateFile(to)
-                  }}
-                  anchorOnClick={(href) => {
-                    onMdLinkClick(href)
-                  }}
-                  overrides={{
-                    AutoIndex: renderAutoIndex,
-                    ChangeLog: renderChangeLog,
-                    ChatRoom: EmptyMdStub,
-                    EmbedFile: renderEmbedFile,
-                    PopImage: renderPopImage,
-                    img: renderPopImage,
-                    h1: headingOverrides.h1,
-                    h2: headingOverrides.h2,
-                    h3: headingOverrides.h3,
-                    h4: headingOverrides.h4,
-                    h5: headingOverrides.h5,
-                    h6: headingOverrides.h6,
-                  }}
-                />
+                <div className="pt-md" data-pt-article-ssr="1">
+                  <p className="pt-muted">Article loads after page open…</p>
+                  <span
+                    aria-hidden="true"
+                    hidden={true}
+                    className="pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item pt-embed pt-embed-frame pt-embed-caption pt-embed-link pt-embed-empty"
+                    data-pt-md-css="true"
+                  />
+                </div>
               )}
               {live && (prevHref.length > 0 || nextHref.length > 0) ? (
                 <nav className="pt-article-neighbors" aria-label="Adjacent articles">
