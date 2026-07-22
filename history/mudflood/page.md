@@ -59,7 +59,7 @@ This media typically features [deep fake images](https://en.wikipedia.org/wiki/D
 These images are *designed to be easily debunked* and purposefully and
 perpetually [net-boosted](https://www.meetcortex.com/blog/instagram-changes-algorithm-for-2018). The proliferation of
 *"deep fake"* images is a [Revelation of the Method](https://www.counterpunch.org/2022/04/29/revelation-of-the-method/)
-strategy that promotes discreditation of MudFlood Research. **Exception:** do not dump Autodidactic into that “virtually all” CO bucket — see carve-out above. Named CO / poison stacks: Philipp Druzhinin, Meltrix/Meltology, **StolenHistory** (deepfake bait + forum ban of CO critique — [§6](investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md#6-stolenhistoryorg--korbendallas)) ([dossier](investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md)).
+strategy that promotes discreditation of MudFlood Research. **Exception:** do not dump Autodidactic into that “virtually all” CO bucket — see carve-out above. Named CO / poison stacks: Philipp Druzhinin, **Meltrix brand** (hologram / all-dates-fake / FE — **not** melted-city or park-rock scarring theses, which this hub **supports**), **StolenHistory** (deepfake bait + forum ban of CO critique — [§6](investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md#6-stolenhistoryorg--korbendallas)) ([dossier](investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md)).
 
 ```
 Note: This investigation is a work in progress. Check back soon for more updates!

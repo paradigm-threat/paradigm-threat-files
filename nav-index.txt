@@ -1,7 +1,7 @@
-hooks/CLEVERSCRIPT_TIP.md	CleverScript tip hygiene (paradigm-threat-files)	2026-07-22T09:43:46-04:00
-history/chronology/investigations/author-unique-theories.md	Author-Unique Theories — Registry	2026-07-22T09:27:30-04:00
+hooks/CLEVERSCRIPT_TIP.md	CleverScript tip hygiene (paradigm-threat-files)	2026-07-22T10:28:02-04:00
+history/chronology/investigations/author-unique-theories.md	Author-Unique Theories — Registry	2026-07-22T10:28:02-04:00
+governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md	Investigation: 2020 Election Fraud — Selective Battleground Theft, Court Blockade, and Midterm Audit Timing	2026-07-22T10:28:02-04:00
 governance/war/investigations/america-first-legal-victory-trend-investigation.md	Investigation: America First Legal — victory trend, Trump-alignment, and claim validation (2021–2026)	2026-07-22T09:27:30-04:00
-governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md	Investigation: 2020 Election Fraud — Selective Battleground Theft, Court Blockade, and Midterm Audit Timing	2026-07-22T09:27:30-04:00
 influence/controlled_opposition/mudflood-gatekeepers.md	Mudflood gatekeepers	2026-07-22T09:24:09-04:00
 history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md	Investigation: Mudfossil University / Roger Spurr — Claims, Citations, Yale History, and Validation Status (Open)	2026-07-22T09:24:09-04:00
 history/mudflood/investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md	Investigation: Meltrix / Meltology, Philipp Druzhinin, StolenHistory, and Autodidactic Contrast — Mudflood-Adjacent Controlled Opposition and Poison Pills (Open)	2026-07-22T09:24:09-04:00

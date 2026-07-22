@@ -1,8 +1,8 @@
 # Investigation: Mudfossil University / Roger Spurr — Claims, Citations, Yale History, and Validation Status (Open)
 
-> **TL;DR:** **Roger Spurr** (**[Mudfossil University](https://www.youtube.com/@mudfossiluniversity)** / **[mfutools.com](https://mfutools.com/)**) claims many rocks/landforms are **soft-tissue mudfossils**, citing **Helix Biological Laboratory Project P-234** (2015): short **~100 bp** human **mtDNA** PCR/BLAST hits on **“36 inch tip”** and **“Lung”** samples (sequencing via **Eton Biosciences**, NJ). That report is now **archived and read** ([§3.1](#31-dna-lab-report-helix-p-234-archived)); it **does not name Yale**. Spurr’s **Yale** stories are **outreach packaging**, not the load-bearing proof ([§4](#4-yale-harvard-and-academia-outreach), [§7.1](#71-controlled-opposition-assessment)). High DNA yields + short human primers leave a **strong contamination alternative**. **Google Earth “dragons” / continent-bodies (S8) = CO poison** for this repo — we do **not** support Earth dragons; the only dragon is **comet Venus** ([§7.2](#72-poison-pill--easy-debunk-inventory-co-adjacent-function)). **2026-07-16→20 email thread:** Spurr **never answered** contamination / Yale / CT / Middletown questions; voice-only stall ([§11](#11-spurr-correspondence-2026-07)). Soft **door-closing** contact; S8 content classed **CO**; person still unproven agent. Adjacent to—not identical with—[MFEE](mfee-investigation.md).
+> **TL;DR:** **Roger Spurr** (**[Mudfossil University](https://www.youtube.com/@mudfossiluniversity)** / **[mfutools.com](https://mfutools.com/)**) claims many rocks/landforms are **soft-tissue mudfossils**, citing **Helix Biological Laboratory Project P-234** (2015): short **~100 bp** human **mtDNA** PCR/BLAST hits on **“36 inch tip”** and **“Lung”** samples (sequencing via **Eton Biosciences**, NJ). That report is now **archived and read** ([§3.1](#31-dna-lab-report-helix-p-234-archived)); it **does not name Yale**. Spurr’s **Yale** stories are **outreach packaging**, not the load-bearing proof ([§4](#4-yale-harvard-and-academia-outreach), [§7.1](#71-controlled-opposition-assessment)). High DNA yields + short human primers leave a **strong contamination alternative**. **Author CO call ([§7.1](#71-controlled-opposition-assessment)):** (1) **S8 Google Earth dragons / continent-bodies = CO poison** — only dragon is **comet Venus** ([§7.2](#72-poison-pill--easy-debunk-inventory-co-adjacent-function)); (2) **non-serious YouTube dead-end** on the Jul 2026 document thread (“refer to my Youtube… They are of no interest to me”) — same grammar as **9/11 DEW-church hecklers**. Soft-tissue / Helix can stay open **without** Spurr as primary. **No payroll proof.** Adjacent to—not identical with—[MFEE](mfee-investigation.md).
 
-**Status:** Open — Helix P-234 + captions archived; Spurr outreach reply thread archived ([§11](#11-spurr-correspondence-2026-07)); **zero written answers** to Q1–Q4; CT/DICOM/GPS/Yale names still missing; treat Spurr as **low-yield primary contact** unless he ships documents.
+**Status:** Open — Helix P-234 + captions archived; Spurr outreach reply thread archived ([§11](#11-spurr-correspondence-2026-07)); **zero citable answers** to Q1–Q4; operator classed **CO** (dragons + non-serious dead-end); treat as **exhausted primary** unless he ships documents.
 
 ## Guide (read order)
 
@@ -214,26 +214,29 @@ Named or linked authorities on [mfutools.com](https://mfutools.com/) and intervi
 
 ### 7.1 Controlled-opposition assessment
 
-**Verdict (2026-07-21):** Still **no proven agent-style controlled-opposition op** (no funding trail, no handlers). Update from 2026-07-16: the **Spurr reply thread** ([§11](#11-spurr-correspondence-2026-07)) now shows **message discipline that avoids falsifiers** — the dossier’s own revisit trigger. Soft read upgraded to **dead-end / door-closing contact**, compatible with (a) controlled narrative management, (b) ego/brand protection, or (c) elderly operator who will only talk voice and never ships paper. **Do not** treat “he refused email answers” alone as proof of agency; **do** stop waiting on him for CT/GPS/Yale names.
+**Verdict (2026-07-22, author upgrade):** **Roger Spurr / MudFossilsResearcher is controlled opposition** for this repo on **two hinges** — still **no proven payroll / handlers**:
 
-**Yale is not the hinge.** Load-bearing claim stack is **S1** (rocks = soft tissue) + **Helix P-234** mtDNA + **CT / coroner** narratives. **S11** (Yale/Harvard refused *or* “took credit”) is **legitimacy packaging**. “Yale ran the tests” is **falsified** by P-234 (Helix + Eton). Narrative A vs B remain **undocumented and mutually awkward**.
+1. **Content poison (S8):** Google Earth **literal dragons / continent-bodies** — easy-debunk bait ([§7.2](#72-poison-pill--easy-debunk-inventory-co-adjacent-function)); project dragon = **comet Venus** only.
+2. **Behavioral poison (non-serious dead-end):** The Jul 16–21 email thread ([§11](#11-spurr-correspondence-2026-07)) — phone stalls, monitor photos instead of files, Typhon pivot, then **“Please simply refer to my Youtube channel…..They are of no interest to me.”** That is the same grammar the author knows from **9/11 DEW-church hecklers**: warm enough to stay in the thread, never serious enough to ship a falsifier, exit with **go consume my media / go read this** when pressed for documents. Same family as [Alef / clogged-internet — DEW church homework loops](/influence/controlled_opposition/alef-and-the-clogged-internet.md) and [ic911a DEW-church mesh](/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#58-dew-church-as-movement-franchise-mesh-20052026--alef-parallel).
 
-| Soft CO-adjacent pattern | What this pass actually shows |
-|--------------------------|-------------------------------|
+**Yale is not the hinge.** Load-bearing claim stack is **S1** (rocks = soft tissue) + **Helix P-234** mtDNA + **CT / coroner** narratives. **S11** (Yale/Harvard refused *or* “took credit”) is **legitimacy packaging**. “Yale ran the tests” is **falsified** by P-234 (Helix + Eton). Narrative A vs B remain **undocumented and mutually awkward**. Soft-tissue / Helix DNA can stay an **open scientific lane** without Spurr as primary contact and without S8 dragons.
+
+| CO pattern | What this pass actually shows |
+|------------|-------------------------------|
 | Prestige Ivy fixation | A/B clash; no named contacts, letters, or Yale paper citing Spurr |
 | Unfalsifiable “academia dark” | Keeps attention on persecution rather than sample custody |
 | Kitchen-sink stack (DEFT / manna / living Earth) | Dilutes mudfossil hand-specimen lane into alt-phys brand |
 | “Professor” branding | Project title — **not** a verified university chair |
-| Easy-debunk landscape IDs / **literal dragons** | **Author call (2026-07-21):** Google Earth **dragons / continent-bodies** are **CO poison** for this repo — we do **not** support zoological or petrified Earth dragons; the only dragon is **comet Venus** ([Passover / Exodus](/timeline/evt-passover-of-comet-venus); [myth fauna concluded](/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md)). Same easy-debunk bait class as the [mudflood hub](../page.md) warning. |
-| **Door-closing on falsifiers (new)** | Jul 16–20 email: Spurr **ignored** contamination / Yale person-or-paper / CT-DICOM-coroner / Middletown GPS; demanded phone; claimed Ari’s phone “blocked” him; then **“I use only old voice phone”** / **“I do have a cell but I rarely use it”** after Ari explained VoLTE barrier and offered **published-doc pointers + postal mail**. Zero of four clarifying questions answered in writing. |
+| Easy-debunk landscape IDs / **literal dragons** | **CO poison** — Google Earth dragons / continent-bodies; only dragon = **comet Venus** |
+| **Non-serious dead-end / “go YouTube”** | Jul 16–21: phone-only → monitor photos / name-drops → Typhon → **YouTube brush-off**. Author read: same as DEW-church heckler loop — **CO behavior**, not merely elderly tech limits |
 
-**Still missing for a hard CO call:** funding trail, institutional handlers, coordinated media ops. What **is** present: contact behavior that **closes every path that would produce citable primaries** while keeping engagement alive (“we need to talk”).
+**Still missing for a payroll/agent finding:** funding trail, institutional handlers, coordinated media ops. **Present for author CO class:** poison-pill content **plus** non-serious document door-closing that ends in media referral.
 
-**Forward test (failed so far):** Supplying **DICOMs + dig GPS + named coroner/anatomist** (or even a pointer to already-published facility reports) would be **anti-CO**. Steering forever to unlogged voice calls, then claiming technology barriers when text/email/post are open, reads as **dead-end** — ego/brand **or** soft control; either way, **low research yield**.
+**Forward test (failed):** Garant letterhead / DICOMs + dig GPS + Briggs/Zolensky replies would be **anti-CO**. Screen photos of one’s own outbox and “refer to my Youtube” are **not**.
 
-**Working posture:** Proceed **without** Spurr as primary source. Chase Helix/Eton custody, radiology facility records, Middletown construction digs via public records, and contamination science. Re-engage Spurr only if he mails documents or answers the four questions in writing.
+**Working posture:** Proceed **without** Spurr as primary source. Chase Jesse Garant, Helix/Eton, Middletown dig records. Re-engage only if he mails documents.
 
-Hub grammar for intentional CO ops: [controlled opposition hub](/influence/controlled_opposition/page.md). Spurr stays **outside** the hard agent class; he is now logged as **soft CO-adjacent dead-end contact**.
+Hub grammar: [controlled opposition hub](/influence/controlled_opposition/page.md); reader article [Mudflood gatekeepers](/influence/controlled_opposition/mudflood-gatekeepers.md).
 
 ### 7.2 Poison-pill / easy-debunk inventory (CO-adjacent function)
 
@@ -262,7 +265,7 @@ Same grammar as the mudflood hub’s warning about media *designed* to be mocked
 
 **Publicly “debunked” (hostile science lane):** Myers 2020 hits the **rock-as-organ / landscape-as-body** show hard. That is **not** a court finding and **not** a contamination lab redo of P-234 — it is the **easy public kill** of the YouTube surface. The DNA report has **not** been peer-debunked as a forgery; the **stronger scientific default** is still **modern human contamination**, not “fake DOCX.”
 
-**CO-function verdict:** **S8 literal dragons / continent-bodies = controlled-opposition content for this repo** (author rule: no Earth dragons; dragon = comet Venus only). Bundle with Heelstone-as-foot + unnamed experts + Ivy packaging as the **poison stack** that makes serious mud/soft-tissue / MFEE-adjacent work look like the same clown show. The **hand-specimen / P-234** lane is weaker poison (real lab paper exists) but still **fails** as giant-proof and is **marketed as if it settles the matter**. Door-closing on DICOMs/GPS ([§11](#11-spurr-correspondence-2026-07)) keeps the poison pills unfalsified by the claimant while engagement continues. Spurr as a **person** remains soft door-closing / unproven agent ([§7.1](#71-controlled-opposition-assessment)); the **dragon topography product** is classed **CO** on substance.
+**CO-function verdict:** **S8 literal dragons / continent-bodies = controlled-opposition content**; **Spurr as operator = CO** for **non-serious YouTube dead-ending** of document asks ([§7.1](#71-controlled-opposition-assessment), [§11](#11-spurr-correspondence-2026-07)) — same grammar as 9/11 DEW-church heckler loops. Bundle with Heelstone-as-foot + unnamed experts + Ivy packaging as the **poison stack** that makes serious mud/soft-tissue / MFEE-adjacent work look like the same clown show. The **hand-specimen / P-234** lane can stay scientifically open **without** treating Spurr as a serious primary.
 
 **Strip for sane research:** Keep interest in **wet-mud soft-tissue preservation** and **contamination-aware DNA** as open questions; **discard** Google Earth dragons/titans, Heelstone-as-foot, “Yale took credit,” and anonymous coroner as **load-bearing**. Remap any “dragon” language readers bring from MFU to **comet Venus**, not landscape anatomy. That split is exactly why this dossier separates lanes ([§8](#8-authors-open-claims-pattern-registry) claim 1).
 
@@ -274,7 +277,7 @@ Claims unique to *this* file’s framing (not proven):
 2. The **Yale took credit** claim is **not supported** by Helix P-234 and remains a **documentary gap** (not a verified institutional plot). **Yale is packaging (S11), not the load-bearing hinge.**
 3. Helix P-234 is a **real commercial report** with human mtDNA BLAST hits; **contamination** is currently the **stronger default** reading until authenticated aDNA methods are applied.
 4. MFU may function socially as a **gateway** that brings people to mud/giant questions—and as **CO reputational hazard** when **Google Earth dragons** (and related landscape organs) are treated as the thesis (same class of risk the mudflood hub already flags for deepfake buried-building spam). Poison-pill inventory: [§7.2](#72-poison-pill--easy-debunk-inventory-co-adjacent-function).
-5. **Controlled opposition:** **Literal Earth dragons / continent-bodies (S8) = CO content** under author rule ([§7.2](#72-poison-pill--easy-debunk-inventory-co-adjacent-function)). Spurr as operator: **no hard agent proof** yet ([§7.1](#71-controlled-opposition-assessment)); **soft door-closing** on CT/GPS/Yale/contamination ([§11](#11-spurr-correspondence-2026-07)). Hand-specimen science remains the open track; stop waiting on Spurr for primaries.
+5. **Controlled opposition:** **S8 dragons = CO content**; Spurr operator = **CO** for **non-serious / YouTube dead-end** correspondence ([§7.1](#71-controlled-opposition-assessment), [§11](#11-spurr-correspondence-2026-07)) — DEW-church heckler rhyme. Soft-tissue science remains an open track **without** Spurr as primary; stop waiting on him for primaries. **No payroll proof.**
 
 ---
 
@@ -315,9 +318,9 @@ Claims unique to *this* file’s framing (not proven):
 
 ## 11. Spurr correspondence (2026-07)
 
-**Channel:** Email — Ari (`ari@asu.edu`) ↔ `roger@mudfossils.com`. Subject: *Paradigm Threat research follow-up — Helix P-234, CT, Yale claim*. Latest Spurr message-ID: `<CANyq7x3hvQMPEFOVnwByg2umf4OnZO8KyqinF8aYo6MwuXS98w@mail.gmail.com>` (2026-07-20 ~18:52 EDT). SPF pass via mudfossils.com / Bluehost / Cloudflare Email Security.
+**Channel:** Email — Ari (`ari@asu.edu`) ↔ `roger@mudfossils.com`. Subject: *Paradigm Threat research follow-up — Helix P-234, CT, Yale claim*. Latest Spurr message-ID: `<CANyq7x3FRtCxzcX7tA_dYH5Uiuu8fyYxz14xE-qHXmfBGgM0hw@mail.gmail.com>` (2026-07-21 ~12:28 EDT). SPF pass via mudfossils.com / Bluehost / Cloudflare Email Security.
 
-**Ari’s opening ask (2026-07-16) — four clarifying questions (still unanswered in writing):**
+**Ari’s opening ask (2026-07-16) — four clarifying questions (still unanswered as citable primaries):**
 
 1. Contamination controls beyond extraction negative (clean-room / aDNA damage / independent-lab redo)?
 2. Yale “took credit” — department, person, or publication? (P-234 does not name Yale.)
@@ -333,17 +336,32 @@ Claims unique to *this* file’s framing (not proven):
 | 2026-07-17 ~07:16 | Ari | Bio (Phoenix / Texas / Savannah); mudflood + footnotes; *The Third Story* draft attached; cloud→own-network site note. |
 | 2026-07-17 ~17:41 | Spurr | “We need to talk….give me your # I will call.” — **still no answers**. |
 | 2026-07-17 ~06:54* | Ari | Shares cell; available that weekend. |
-| 2026-07-18 ~16:42 | Spurr | “It seems your phone has blocked me???” + Middletown-area **voice** number. |
+| 2026-07-18 ~16:42 | Spurr | “It seems your phone has blocked me???” + Middletown-area **voice** number (omitted from public dossier). |
 | 2026-07-18 ~21:48 | Ari | Apology; asks him to try text; offers to call next day. |
 | 2026-07-18 ~22:13 | Spurr | “I use only old voice phone.” |
-| 2026-07-20 ~17:59 | Ari | Notes digital↔analog / VoLTE barrier; asks for **anything already published** in the field; offers **postal mail** (Savannah address in mail). |
-| 2026-07-20 ~18:52 | Spurr | “I do have a cell but I rarely use it.” — **still no docs, no answers**. |
+| 2026-07-20 ~17:59 | Ari | Notes digital↔analog / VoLTE barrier; asks for **anything already published** in the field; offers **postal mail** (street address in mail only). |
+| 2026-07-20 ~18:52 | Spurr | “I do have a cell but I rarely use it.” — **still no docs**. |
+| 2026-07-21 ~09:05 | Ari | CO / door-closing follow-up letter ([§11.1](#111-author-follow-up-letter-draft--send--2026-07-21)); door open if paper ships. |
+| 2026-07-21 ~09:57 | Spurr | **Monitor photos** of outbound mail + prose: pivots to “Typhon attacking the Fish”; claims 2015 Briggs / later NASA outreach; links Tarhan et al. *Geology* 2016 as Yale “took work”; names **Jesse Garant** for CTs; **“No Coroner these are ROCK fossils”**; “Good luck with your book.” |
+| 2026-07-21 ~11:21 | Ari | Logs what the photos/names allow; rejects Typhon as hinge; re-asks Garant letterhead/DICOM, contamination, Middletown site, Briggs/Zolensky **replies**. |
+| 2026-07-21 ~12:28 | Spurr | “Please simply refer to my Youtube channel…..They are of no interest to me….. sorry my friend….but good luck.” + same GSA news link. **Thread exhausted for evidence.** |
 
 \*Quoted-block nesting in Gmail can scramble clock order within a day; sequence of **speech acts** is clear.
 
-**Pattern read (author suspicion logged):** Spurr keeps the channel warm (“we need to talk”) while **closing every path that would produce citable primaries** — written answers, published-doc pointers, postal ship, SMS, modern cell. That matches the dossier’s earlier CO revisit trigger (“message discipline that *avoids* dig GPS / third-lab aDNA”). Compatible with **controlled dead-end**, **ego control of the narrative**, or **tech-limited operator**; **not** yet enough for a hard agent classification. See [§7.1](#71-controlled-opposition-assessment).
+**What Jul 21 actually added (names / claims, not falsifiers):**
 
-**Outcome for research:** Treat Spurr email as **exhausted for evidence** unless he answers with documents. Next yields: Helix/Eton, public Middletown dig records, radiology letterhead chase — not another unlogged phone call.
+| Claim from Spurr 09:57 + monitor photos | Status for dossier |
+|----------------------------------------|--------------------|
+| Outbound to **Derek Briggs** (Yale) dated **2015-03-04** | **Logged as Spurr-side outreach claim** via screen photos — not a forwarded `.eml` / PDF; **no Briggs reply** supplied |
+| Outbound to **Michael Zolensky** (NASA) dated **2016-01-16** | Same — outbound claim only; **no reply** supplied |
+| CT shop = **Jesse Garant and associates** | **Name logged**; still **no** letterhead report, invoice, or DICOM/viewer export |
+| “No Coroner these are ROCK fossils” | **Walk-back** of earlier public coroner/anatomist packaging |
+| Tarhan / Hood / Droser / Gehling / Briggs 2016 *Geology* (Ediacara soft-tissue molds; silica cementation) = “Yale took my work” | **Does not name Spurr, Helix P-234, or his specimens**; not proof of credit-theft of mudfossils |
+| Typhon / landscape anatomy as the thing to defend | **Poison-pill pivot** — same easy-debunk class as S8 dragons ([§7.2](#72-poison-pill--easy-debunk-inventory-co-adjacent-function)) |
+
+**Pattern read (author call — CO):** Warm engagement → phone-only stall → when pressed, **screen photos and name-drops** instead of citable files → **landscape-dragon / Typhon pivot** → **YouTube brush-off** (“They are of no interest to me”). Same behavioral grammar as **9/11 DEW-church hecklers** (homework / “go consume this” instead of shared falsifiers). **Author CO class** on content (S8) + behavior; **not** a payroll finding. See [§7.1](#71-controlled-opposition-assessment).
+
+**Outcome for research:** Treat Spurr email as **exhausted for evidence** unless he ships Garant letterhead/DICOMs, dig coords, contamination notes, or Briggs/Zolensky replies. Next yields: Jesse Garant public trail, Helix/Eton, Middletown dig records — **not** another YouTube referral.
 
 ### 11.1 Author follow-up letter (draft / send — 2026-07-21)
 
@@ -384,9 +402,10 @@ https://paradigmthreat.net
 | [Stonehenge portal / Birkeland](/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md) | Contrast Heelstone-as-foot vs portal geometry |
 | [Stonehenge quantum portal essay](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) | Reader-facing Stonehenge thesis |
 | [Mudflood hub](../page.md) | Easy-debunk / deepfake mudflood media warning |
-| [Controlled opposition hub](/influence/controlled_opposition/page.md) | CO grammar; **S8 dragons = CO content**; Spurr operator = soft door-closing ([§7.1](#71-controlled-opposition-assessment), [§7.2](#72-poison-pill--easy-debunk-inventory-co-adjacent-function)) |
-| [Meltrix / Druzhinin mudflood CO](meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md) | Sibling poison-pill deep dive (Flat Earth mudflood + Meltology / Meltrix) |
-| [Mudflood gatekeepers](/influence/controlled_opposition/mudflood-gatekeepers.md) | Reader article: Spurr email door-close as CO tell; StolenHistory ban; Autodidactic contrast |
+| [Controlled opposition hub](/influence/controlled_opposition/page.md) | CO grammar; **S8 dragons = CO**; Spurr operator = **CO** (non-serious YouTube dead-end + DEW-church rhyme) ([§7.1](#71-controlled-opposition-assessment), [§7.2](#72-poison-pill--easy-debunk-inventory-co-adjacent-function)) |
+| [Meltrix / Druzhinin mudflood CO](meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md) | Sibling poison-pill deep dive (FE / Meltrix hologram brand / StolenHistory; **melt cities supported**) |
+| [Mudflood gatekeepers](/influence/controlled_opposition/mudflood-gatekeepers.md) | Reader article: Spurr email / YouTube brush-off as CO; StolenHistory ban; Autodidactic contrast |
+| [Alef / clogged internet](/influence/controlled_opposition/alef-and-the-clogged-internet.md) | DEW-church homework / heckler grammar the Spurr thread rhymes with |
 | [Griffins / myth fauna — fire-dragon = comet Venus](/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md) | Repo dragon rule: **no** Earth dragons; one fire-dragon event = **Venus 1492 BCE** |
 | [Passover of Comet Venus](/timeline/evt-passover-of-comet-venus) | Canon “dragon” = comet Venus, not landscape anatomy |
 | [Blood rain / ecological disasters](blood-rain-dust-ecological-disasters-investigation.md) | Post-catastrophe ecology oddities |
@@ -396,14 +415,14 @@ https://paradigmthreat.net
 
 Keywords: #MudfossilUniversity #RogerSpurr #Mudfossils #BiologicalGeology #GiantHumans #MtDNA #HelixBiologicalLaboratory #EtonBiosciences #TomPrychitko #Yale #Harvard #Fascia #Solvomorphism #LivingEarth #Pareidolia #ControlledOpposition #MFEE #ParadigmThreatFiles
 
-*Last updated: 2026-07-21*
+*Last updated: 2026-07-22*
 
 ## Limits and disclaimers
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
 - **Investigation, not endorsement:** Cataloging Spurr’s claims does not certify mudfossils, giants-as-landscape, or DEFT physics.
-- **Controlled opposition:** **Literal Earth dragons / continent-bodies (S8) = CO** under author rule ([§7.2](#72-poison-pill--easy-debunk-inventory-co-adjacent-function)); project dragon = **comet Venus** only. Spurr as operator: soft door-closing, **no hard agent proof** ([§7.1](#71-controlled-opposition-assessment), [§11](#11-spurr-correspondence-2026-07)).
+- **Controlled opposition:** **S8 dragons = CO content**; Spurr as operator = **CO** for non-serious YouTube dead-ending ([§7.1](#71-controlled-opposition-assessment), [§11](#11-spurr-correspondence-2026-07)) — DEW-church heckler rhyme; **no payroll proof**. Soft-tissue / Helix lane stays scientifically open without him as primary.
 - **Evidence tiers:** Helix P-234 report text (Spurr-hosted DOCX) > Spurr videos/LinkedIn/Discourse > interview writeups > hostile blogs. Peer-reviewed geology affirming MFU was **not found** in this pass. Spurr’s email replies are **primary for contact behavior**, not for specimen science (he supplied no new evidence).
 - **Author thesis sections** are first-class for pattern work but **not** automatically factual.
 - **Hostile sources** (e.g. Myers) are used for **falsification checklists**, not as moral authority.
@@ -419,5 +438,7 @@ Keywords: #MudfossilUniversity #RogerSpurr #Mudfossils #BiologicalGeology #Giant
 - Session 2026-07-16 (c): DOCX media extract; NCBI BLAST RID `5HJPCABD014` (human D-loop/CYTB); Stonehenge Heelstone cross-check; `claim-sheet.md` + `outreach-emails.md`; anatomist/coroner name search dead end; yt-dlp API failures / `0TIcBzgy6m8` private.
 - Session 2026-07-16 (d): Caption archive (`bgnx2nN2a7U`, `nfdxxyT7Dco` = Manna not DNA walkthrough); author sent Spurr/Helix outreach; **§7.1 CO assessment** — no agent op; Yale not hinge.
 - Session 2026-07-21: Author pasted full Spurr reply headers + thread through 2026-07-20 (“I do have a cell but I rarely use it”). Logged [§11](#11-spurr-correspondence-2026-07); upgraded §7.1 to **soft door-closing / dead-end**; added [§7.2](#72-poison-pill--easy-debunk-inventory-co-adjacent-function); **author rule:** Google Earth dragons = **CO** (repo dragon = **comet Venus** only); archived follow-up letter [§11.1](#111-author-follow-up-letter-draft--send--2026-07-21); Q1–Q5 adjudication updated; stop waiting on Spurr for primaries.
+- Session 2026-07-22: Author pasted Jul 21 continuation (monitor photos / Briggs–Zolensky claims / Jesse Garant / coroner walk-back / Typhon pivot / YouTube brush-off message-ID `CANyq7x3FRtCxzcX7tA…`). Extended [§11](#11-spurr-correspondence-2026-07); refreshed §7.1; reader article email section rewritten for plain interaction.
+- Session 2026-07-22 (later): Author upgraded Spurr CO for **non-seriousness** + YouTube “go read this” dead-end — same as **9/11 DEW-church hecklers**. §7.1 / §7.2 / §11 pattern / TL;DR / Status / gatekeepers Framing + Camp one / Meltrix Q7 + compare table updated; cross-link [alef-and-the-clogged-internet](../../../influence/controlled_opposition/alef-and-the-clogged-internet.md).
 - Local archive: `/home/ari/dev/wget/mudflood/mudfossil-university/`.
 - **Do not** paste data-broker street/phone into public dossier — Middletown CT city-level only; author mail holds full numbers.

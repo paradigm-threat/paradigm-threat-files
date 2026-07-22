@@ -11,7 +11,8 @@ trap 'rm -f "$tmp"' EXIT
 is_stub() {
   local path="$1" first
   git cat-file -e ":$path" 2>/dev/null || return 1
-  first="$(git cat-file blob ":$path" | head -n 1 || true)"
+  # Avoid bash null-byte warnings on binary blobs
+  first="$(git cat-file blob ":$path" | tr -d '\0' | head -n 1 || true)"
   [[ "$first" == "relay-ipfs-v1" ]]
 }
 
