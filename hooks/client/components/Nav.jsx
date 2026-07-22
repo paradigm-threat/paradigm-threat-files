@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import ThemeToggle from 'hooks/client/components/ThemeToggle.jsx'
 import FontToggle from 'hooks/client/components/FontToggle.jsx'
 import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
@@ -33,18 +33,8 @@ function navChromeCss() {
 const FONT_STYLESHEET =
   'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&family=Libre+Franklin:ital,wght@0,400;0,600;1,400&display=swap'
 
-function ensureSiteFonts() {
-  try {
-    if (document.getElementById('pt-site-fonts')) {
-      return
-    }
-    const link = document.createElement('link')
-    link.id = 'pt-site-fonts'
-    link.rel = 'stylesheet'
-    link.href = FONT_STYLESHEET
-    document.head.appendChild(link)
-  } catch (e) {}
-}
+/** Glass + article font stacks (themed-styler cannot express backdrop-filter / data-font).
+ * Prefer <link rel="stylesheet"> in Nav over @import inside <style> (blocks paint). */
 
 function NavLink(props) {
   const href = propStr(props, 'href', '#')
@@ -111,10 +101,6 @@ export default function Nav(props) {
   const isOpen = menu[0]
   const setOpen = menu[1]
 
-  useEffect(() => {
-    ensureSiteFonts()
-  }, [])
-
   function isActive(href) {
     if (href === '/') {
       return (
@@ -165,6 +151,7 @@ export default function Nav(props) {
 
   return (
     <header className="pt-site-nav" data-site-navbar="true">
+      <link rel="stylesheet" href={FONT_STYLESHEET} />
       <style>{navChromeCss()}</style>
       <div className="pt-nav-bar">
         <div className="pt-nav-inner md:pt-nav-inner-md">
