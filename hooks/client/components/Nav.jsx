@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import ThemeToggle from 'hooks/client/components/ThemeToggle.jsx'
 import FontToggle from 'hooks/client/components/FontToggle.jsx'
 import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
@@ -19,15 +19,31 @@ import { siteHref } from 'hooks/client/loadArticles.jsx'
 const WORDMARK_URL = 'https://paradigmthreat.net/site/header.png'
 const MARK_URL = 'https://paradigmthreat.net/site/favicon.svg'
 
-/** Glass + font CSS that themed-styler cannot express (backdrop-filter / data-font). */
+/** Glass + article font stacks (themed-styler cannot express backdrop-filter / data-font).
+ * Fonts load via deferred <link> in Nav — do not @import here (blocks first paint ~seconds). */
 function navChromeCss() {
   return (
-    '@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&family=Libre+Franklin:ital,wght@0,400;0,600;1,400&display=swap");' +
     '.pt-site-nav{-webkit-backdrop-filter:saturate(180%) blur(12px);backdrop-filter:saturate(180%) blur(12px);}' +
     '.pt-article-body{font-family:"EB Garamond",Georgia,serif;font-size:1.125rem;line-height:1.65;}' +
     'html[data-font="franklin"] .pt-article-body{font-family:"Libre Franklin",system-ui,sans-serif;font-size:1.05rem;}' +
     'html[data-font="mono"] .pt-article-body{font-family:"JetBrains Mono","Courier New",monospace;font-size:0.95rem;}'
   )
+}
+
+const FONT_STYLESHEET =
+  'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&family=Libre+Franklin:ital,wght@0,400;0,600;1,400&display=swap'
+
+function ensureSiteFonts() {
+  try {
+    if (document.getElementById('pt-site-fonts')) {
+      return
+    }
+    const link = document.createElement('link')
+    link.id = 'pt-site-fonts'
+    link.rel = 'stylesheet'
+    link.href = FONT_STYLESHEET
+    document.head.appendChild(link)
+  } catch (e) {}
 }
 
 function NavLink(props) {
@@ -94,6 +110,10 @@ export default function Nav(props) {
   const menu = useState(false)
   const isOpen = menu[0]
   const setOpen = menu[1]
+
+  useEffect(() => {
+    ensureSiteFonts()
+  }, [])
 
   function isActive(href) {
     if (href === '/') {

@@ -352,12 +352,15 @@ themes:
         minWidth: 0
         flexShrink: 0
       ".pt-brand-img":
-        height: "2.5rem"
-        width: "auto"
-        maxWidth: "14rem"
         display: "block"
+        width: "auto"
+        height: "auto"
+        maxHeight: "2.5rem"
+        maxWidth: "min(28rem, 70vw)"
+        objectFit: "contain"
+        flexShrink: 0
       ".pt-brand-img-md":
-        height: "3.5rem"
+        maxHeight: "3.5rem"
       ".pt-brand-fallback":
         display: "none"
         fontSize: "1.125rem"

@@ -18,6 +18,6 @@ Hard custom markdown / site components are enabled incrementally on the thin par
 | Files `/timeline` subpath | deferred | External timeline host only |
 | `expandMdComponents.jsx` | pass-through | Reserved |
 | `rewriteAssets.jsx` | **shipped** | Relative assets → GitLab Pages via `@relay/path.rewriteMarkdownAssetUrls` |
-| Right TOC column | **shipped** | Content-derived: `extractMarkdownHeadings` → `DynamicIndex` props + heading `id` overrides; `#id` links; hash active (no Dom scrape / scroll-spy); CSS marker in `SiteChrome` for home soft-nav |
+| Right TOC column | **shipped** | Content-derived: `extractMarkdownHeadings` → `DynamicIndex` props + heading `id` overrides; `#id` links; hash active; shown on home `page.md` and articles; CSS marker in `SiteChrome` for soft-nav |
 
 Re-enable deferred rows one at a time using `hooks/CLEVERSCRIPT_TIP.md` + `./scripts/ssr-smoke.sh`.

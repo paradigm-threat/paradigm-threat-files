@@ -176,9 +176,8 @@ export default function ArticleView(props) {
     currentPath === '/' ||
     currentPath === '/index.md' ||
     currentPath === '/page.md'
-  // Prefer file path so SPA/in-app navigations still show TOC on articles.
+  // Home (page.md) and articles share content-derived TOC; skip bare index stubs.
   const showToc =
-    pathPart !== 'page.md' &&
     pathPart !== 'README.md' &&
     pathPart !== 'index.md' &&
     pathPart.length > 0
