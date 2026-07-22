@@ -62,6 +62,10 @@ Relay **`sync-relay-catalog.sh`** defaults to **full** bare clones (`RELAY_CATAL
 
 Catalog entries for this repo point at **GitLab** with the GitLab-spine trusted root (not the old Relay orphan cut).
 
+## Media / IPFS (do not repeat the stub graft)
+
+This repo keeps **real binaries** at public paths. **`assets.manifest.json`** is the IPFS **index**, not permission to replace `.png`/`.jpg` with `relay-ipfs-v1` text. Canon: [`MEDIA_AND_IPFS.md`](MEDIA_AND_IPFS.md). Never FF/graft a thin Relay tip onto this fat `main`.
+
 ---
 
 ## Assistant / agent defaults

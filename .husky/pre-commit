@@ -1,3 +1,3 @@
 # Catalog indexes are built on the relay server via QUERY/SQLite (path_tree).
-# Keep keyword + claims validation on commit.
-npm run check-keywords && npm run validate-site-claims
+# Keep keyword + claims + no-inline-IPFS-stub validation on commit.
+npm run check-keywords && npm run validate-site-claims && npm run check-no-ipfs-media-stubs

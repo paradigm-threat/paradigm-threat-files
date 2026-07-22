@@ -7,7 +7,8 @@
     "dev": "serve . -p 3010 --cors",
     "check-keywords": "./.venv/bin/python scripts/check_keywords_format.py",
     "validate-site-claims": "node scripts/validate-site-claims.cjs",
-    "autogen": "npm run check-keywords && npm run validate-site-claims",
+    "check-no-ipfs-media-stubs": "bash scripts/check-no-ipfs-media-stubs.sh",
+    "autogen": "npm run check-keywords && npm run validate-site-claims && npm run check-no-ipfs-media-stubs",
     "generate-mgga-onepager": "./.venv/bin/python scripts/generate-mgga-onepager.py",
     "exact-change-sim": "node scripts/exact-change-wallet-sim.mjs",
     "prepare": "husky"

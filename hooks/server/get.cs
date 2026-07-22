@@ -29,9 +29,13 @@ export default function run(ctx, next) {
   var html = markdownHtmlFromGetContext(ctx);
   if (html !== null) { return html; }
 
-  var ipfsOpts = { sources: ["inline", "manifest"], manifestPath: "assets.manifest.json" };
+  // Fat repo: Git binaries at public paths first. Never use legacy "inline"
+  // relay-ipfs-v1 stubs at .png/.jpg paths — IPFS index is assets.manifest.json
+  // (and optional .relay/assets/*.ipfs), not text files with media extensions.
+  var optimized = optimizeRasterFromGetContext(ctx);
+  if (optimized !== null) { return optimized; }
 
-  // Width optimize before full resolve so ?w= can WebP from cached bytes.
+  var ipfsOpts = { sources: ["manifest"], manifestPath: "assets.manifest.json" };
   var maxW = queryWidth(ctx);
   if (maxW !== null) {
     var bytes = fetchIpfsBytesFromGetContext(ctx, ipfsOpts);
@@ -44,7 +48,5 @@ export default function run(ctx, next) {
   var file = resolveIpfsFromGetContext(ctx, ipfsOpts);
   if (file !== null && !isAssetStatusFile(file)) { return file; }
 
-  var optimized = optimizeRasterFromGetContext(ctx);
-  if (optimized !== null) { return optimized; }
   return next();
 }
