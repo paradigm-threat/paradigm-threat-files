@@ -2,13 +2,13 @@
 
 ![“THIS IS AMERICA!” percentage graphic — session archive](../this-is-america-percentage-graphic-2026-07-24.png)
 
-> **TL;DR:** Viral **percentage graphics** (“69% support X…”) convert **demographic facts**, **soft majorities**, and **stalled-process aspirations** into a **moral mandate** that sounds like an **equal-share / socialist platform** — while **establishment Democrats deny** socialism, **DSA-aligned socialists admit** capitalism-replacement goals and **capture deep-blue primaries**, and **shipped statutes** often look like **corporatism, bureaucracy, usury, and elite continuity** (archetype: **Medicare-for-All talk → ACA / insurer architecture**). **Author thesis (first-class):** the deepest deception is **lying to the base** — treating constituents like idiots, smearing alternatives with **Jim Crow / gerrymander** guilt ahead of evidence, expanding early schooling that **does not prepare families**, and abandoning the demographics first rallied. **MAGA contrast (qualified):** strategic goals (border, tariffs, Iran/allies, NATO/UN scrutiny) were **pre-announced and pursued**; absolute “never lied” fails trackers (e.g. Ukraine-in-24-hours), but **product renaming** is rarer than on the Dem equal-share lane. **Poll audit companion (session):** several graphic numbers are **close**; **gun-control 90%**, **tax-the-rich 79%**, **student-loan 73%**, **gerrymander 89%** are **inflated** vs mainstream panels. **§13 findings pass (2026-07-24):** DSA *Workers Deserve More* primary text confirms public ownership / abolish-police horizon; climate “happening” soft-oscillates ~68–74% (not collapse); ACA public option dropped for Lieberman 60; Black/Hispanic 2024 shift real (turnout-heavy); McConnell absent since mid-Jun 2026 fall.
+> **TL;DR:** Viral **percentage graphics** (“69% support X…”) convert **demographic facts**, **soft majorities**, and **stalled-process aspirations** into a **moral mandate** that sounds like an **equal-share / socialist platform** — while **establishment Democrats deny** socialism, **DSA-aligned socialists admit** capitalism-replacement goals and **capture deep-blue primaries**, and **shipped statutes** often look like **corporatism, bureaucracy, usury, and elite continuity** (archetype: **Medicare-for-All talk → ACA / insurer architecture**). **Author thesis (first-class):** the deepest deception is **lying to the base** — treating constituents like idiots, smearing alternatives with **Jim Crow / gerrymander** guilt ahead of evidence, expanding early schooling that **does not prepare families**, and abandoning the demographics first rallied. **Climate crux (author):** the graphic’s **“climate is real”** majority largely tracks **experienced extremes**; the taboo that ends debate is **geoengineering / chemtrails** — because if deliberate atmospheric programs are real, then **government/bureaucracy caused the change** under a **cars-and-gas cover** (NSA-aligned *The Arrival* 1996 grammar). **MAGA contrast (qualified):** strategic goals (border, tariffs, Iran/allies, NATO/UN scrutiny) were **pre-announced and pursued**; absolute “never lied” fails trackers (e.g. Ukraine-in-24-hours), but **product renaming** is rarer than on the Dem equal-share lane. **Poll audit companion (session):** several graphic numbers are **close**; **gun-control 90%**, **tax-the-rich 79%**, **student-loan 73%**, **gerrymander 89%** are **inflated** vs mainstream panels. **§13 findings pass (2026-07-24):** DSA *Workers Deserve More* primary text confirms public ownership / abolish-police horizon; climate “happening” soft-oscillates ~68–74% (not collapse); **geoengineering hook = ban/policy** (~60% favor bans; TN/FL statutes; multi-state bill wave) — not identical chemtrails wording; ACA public option dropped for Lieberman 60; Black/Hispanic 2024 shift real (turnout-heavy); McConnell absent since mid-Jun 2026 fall.
 
-**Status:** Open — §13 findings pass in (2026-07-24); A5 curriculum / A6 named map / A8 monopoly-civil-rights exhibits still open.
+**Status:** Open — §13 + climate/geoengineering crux in (2026-07-24); A5 curriculum / A6 named map / A8 monopoly-civil-rights exhibits still open.
 
 **Guide (read order)**
 
-1. **Author’s originating thesis (verbatim stakes)** → §1  
+1. **Author’s originating thesis (verbatim stakes)** → §1 (incl. **§1.3 climate / geoengineering crux**)  
 2. **What the graphic does rhetorically** → §2  
 3. **Poll reality check (session audit)** → §3  
 4. **Not on the ballot — stalled process sold as will** → §4  
@@ -20,7 +20,7 @@
 10. **Author’s open claims registry** → §10  
 11. **Questions to clarify / verify / debunk** → §11  
 12. **Related** → §12  
-13. **Findings pass (2026-07-24) — open questions researched** → §13  
+13. **Findings pass (2026-07-24)** → §13 (geoengineering **ban/policy** hook → **§13.9**) 
 
 ---
 
@@ -46,7 +46,13 @@ That pitch **leaves out** arguments many people are making: **Pre-K and grade sc
 
 **MAGA side (author contrast):** MAGA has basically **insisted everything it is going to do is necessary**, then **does it**, and people already know why (Iran/allies, NATO/UN scrutiny, etc.). **Bottom line (author):** as far as the author can tell, the **MAGA crowd has never lied to their constituents**; maybe examples exist of Trump saying something that didn’t turn out true. **RINOs** lie considerably — e.g. **Mitch McConnell** not seen for months.
 
-### 1.2 What the author means (unpack)
+### 1.3 Climate / geoengineering crux (author add — 2026-07-24)
+
+**Author (verbatim stakes, lightly cleaned):** The main people who “believe in climate change” are mostly reacting to the fact that the climate **has changed** and gotten **considerably more extreme**. The exception that ends the debate is whether they are aware of **geoengineering and chemtrails**. Mention **chemtrails** and you often get a **religious-style knee-jerk**, **cancellation**, and a **personal vendetta** from anyone challenged by the notion — because they understand that if geoengineering/chemtrails are real, then **we** (government, its policies, bureaucracy, places **no regular person is allowed to audit**) **definitely caused the change**, and **lied** that it was **our cars** and that we used too much gas.
+
+That geometry is highlighted in the **NSA-aligned** film ***The Arrival*** (1996, Charlie Sheen / David Twohy — **not** Villeneuve 2016): the enemy message is that if you **cannot take care of your own world**, **none of you deserve to live here**. Author counter: **we can** take care of our world; it was the **enemy who destroyed the world** under the guise that we weren’t taking care of it, **so that they could rule it**. **That is the main crux of the climate-change issue.** Investigation task the author set: find whether belief in **geoengineering and such policies as the real driver** is **increasing**.
+
+### 1.4 What the author means (unpack)
 
 | Author stake | Pattern meaning |
 |--------------|-----------------|
@@ -61,6 +67,9 @@ That pitch **leaves out** arguments many people are making: **Pre-K and grade sc
 | Monopoly + civil rights failure | Classical state jobs **not done** while percentage theater runs |
 | Unity / lose the kids | Leadership **must deny** socialist capture or brand splits |
 | MAGA candor | **Pre-announce hard tools**; argue wisdom, not surprise rename |
+| Climate % = extremes, not cars | Graphic’s “climate real” launders **observed weather** into **lifestyle-AGW mandate** |
+| Chemtrails taboo | Word triggers **identity defense** because it implies **unaccountable state causation** + **cover lie** |
+| *The Arrival* grammar | **AGW narrative as cover** for deliberate atmospheric capture; fear/isolation of whistleblowers |
 
 ---
 
@@ -116,7 +125,7 @@ Session companion audit of the eighteen-line graphic (Pew, Gallup, Yale/GMU, You
 | Medicare-for-All 55% | Pew single national ~35%; KFF label historically mid-50s | Depends |
 | Afford a home 86% | Homeownership-as-dream ~75–85% | Aspiration, not statute |
 
-**Author climate skepticism:** Yale/GMU still prints ~72% “happening.” Author’s “declining for real” may track **worry / threat / policy** items more than raw belief — **open** (§11). Do **not** treat collapse as already proven.
+**Author climate read (updated):** Yale/GMU ~72% “happening” is largely **compatible** with “people notice extremes.” Deeper claim: majority item hides **attribution**; **chemtrails** is the taboo fork; **rise metric = ban/policy** (§1.3, §13.9) — not identical chemtrails wording.
 
 ---
 
@@ -245,6 +254,7 @@ MAGA **announces necessary goals**, then **acts** (Iran/allies posture, NATO bur
 | A8 | Classical duties (monopoly regulation, civil rights) failed in author’s lifetime | Broad — needs scoped exhibits (**still open**) |
 | A9 | MAGA candor > Dem equal-share honesty | Directionally supported; Ukraine clock + tariffs/deportation “In the Works” (§13.7) |
 | A10 | Climate “happening” majority declining hard | **Softened** — oscillates ~68–74% 2023–26; media-hearing clearer down; not a collapse (§13.1) |
+| A11 | Climate majority is mostly **extremes awareness**; **geoengineering/chemtrails** is the real-driver fork; taboo = state causation under cars-and-gas cover (*Arrival* grammar) | **Thesis in** (§1.3); **author metric = ban/policy salience** — rising hard (§13.9); chemtrails wording secondary |
 
 ---
 
@@ -253,6 +263,7 @@ MAGA **announces necessary goals**, then **acts** (Iran/allies posture, NATO bur
 | Question | Status after §13 | Still need |
 |----------|------------------|------------|
 | Which climate series are declining (belief vs worry vs policy)? | **Adjudicated enough** | Optional: policy-support series |
+| Is the geoengineering issue **rising** as a public driver? | **Yes on author hook** — ban/policy salience (§13.9) | Optional: enacted-vs-introduced bill tracker update; federal preemption fights |
 | Whip counts when Dems last held trifecta on M4A / public option | **Adjudicated enough** (2009–10 path; Biden-era no floor M4A) | Optional: whip memo FOIA |
 | DSA platform ownership clauses vs candidate soft branding | **Adjudicated** (primary program text) | Optional: specific candidate ads |
 | Precinct evidence for specific “anti-Black gerrymander” claims | **Blocked** — need named map/ad | Author input |
@@ -271,6 +282,8 @@ MAGA **announces necessary goals**, then **acts** (Iran/allies posture, NATO bur
 | [Occupy Wall Street CO](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) | Left energy captured / defanged |
 | [Constitution nationalist vs globalist battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) | Federal expansion geometry |
 | [Usury / Fed coining](/governance/usury/d.md) | Usury / money creation lane of “shipped corporatism” |
+| [Weather modification](/science/geoengineering/weather-modification-investigation.md) | Documented seeding / ENMOD / state bans; chemtrails evidence tiers |
+| [Hollywood Thread R — *The Arrival* (1996)](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship) | NSA-aligned AGW-as-cover / geoengineering flagship (author climate crux) |
 | Session canvases (local IDE) | Poll fact-check + deception taxonomy + published deep dive (not site paths) |
 
 ---
@@ -294,7 +307,7 @@ Sources: [Fall 2025 GMU summary](https://climatecommunication.gmu.edu/all/climat
 
 **Finding:** Author’s “declining for real” is **not** a collapse of raw belief. Belief **soft-oscillates** in the high-60s to low-70s after mid-70s peaks. Spring 2026 PDF notes **media / social / interpersonal hearing** about global warming has **trended downward** since 2021–22 highs — that series better matches a “cooling salience” story than the graphic’s flat **72%**.
 
-**Verdict on A10:** Downgrade from “collapse” to **mild oscillation + salience fade**; graphic’s 72% remains a **fair snapshot**, not a fraud, but also **not proof of rising crisis consensus**.
+**Verdict on A10:** Downgrade from “collapse” to **mild oscillation + salience fade**; graphic’s 72% remains a **fair snapshot** of “happening,” **not** of **cars-caused AGW consensus**, and **not proof of rising crisis consensus**. Pair with **A11 / §13.9** for the attribution fork.
 
 ### 13.2 Q2 / A4 — Public option / M4A when Dems could legislate
 
@@ -380,6 +393,43 @@ No specific viral ad or state map was attached to the session claim. Cannot adju
 
 **Ask:** Which map or ad should §13.8 audit first?
 
+### 13.9 A11 — Geoengineering as climate driver (author crux) — **ban/policy is the hook**
+
+**Author claim:** Soft “climate is real” majorities mostly register **extremes**; the fork that ends polite debate is **geoengineering/chemtrails** — because affirmative belief implies **unaccountable state causation** under a **cars-and-gas cover**. Fiction grammar: [*The Arrival* (1996) Thread R](/influence/epinions/investigations/epinions-two-camp-war-investigation.md#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship). Evidence lane: [weather modification investigation](/science/geoengineering/weather-modification-investigation.md).
+
+**Author adjudication rule (2026-07-24):** the correct metric for “is this rising?” is **ban / policy salience**, **not** identical multi-year chemtrails survey wording. Belief batteries stay useful context; **statute + ban majorities** are the hook.
+
+#### Primary hook — ban / policy
+
+| Signal | Documented |
+|--------|-------------|
+| National ban support | Rasmussen May 2025: **~60%** of likely voters favor laws against weather modification / geoengineering ([Rasmussen](https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/chemtrails_60_support_laws_to_ban_weather_modification)) |
+| “Likely already happening” (same poll) | **44%** say secret gov chemical release for geoengineering/weather-mod is *likely* (20% *very*); 39% not; 18% unsure |
+| Enacted bans | **Tennessee** HB 2063 / SB 2691 → Pub. Ch. 709, effective **2024-07-01** (first state ban on intentional atmospheric injection to affect temp/weather/sunlight); **Florida** SB 56 → Ch. 2025-157, effective **2025-07-01** (third-degree felony; airport reporting; DEP tip portal) — see [weather-mod dossier](/science/geoengineering/weather-modification-investigation.md) |
+| Bill wave | [SRM360](https://srm360.org/news-reaction/us-states-consider-bills-to-ban-geoengineering/) (rev. 2025-04-11): lawmakers in **~30 states** had proposed SRM/weather-mod bans; **~22** introduced in 2025 alone; several committee kills elsewhere. FL signed after that snapshot — count enacted as **≥2**, proposals still the mass signal |
+
+**Finding (primary):** On the author’s hook, the issue **is rising**. A soft national **ban majority**, paired with **first-ever state statutes** and a **multi-state bill cascade**, is the opposite of fringe containment. That is the politics the graphic’s flat **“climate real 72%”** never has to face: once ban/policy enters the room, the debate is no longer “do you notice weather?” — it is **who may alter the sky, and who lied about the cause**.
+
+#### Secondary context — chemtrails / AMP wording (not the adjudication line)
+
+| Year | Source | Flavor | Affirmative band |
+|------|--------|--------|------------------|
+| 2010 | Mercer et al. | Completely / partly true | **2.6% / 14%** |
+| 2013 | PPP | Chemtrails belief | ~**5%** |
+| 2016 | CCES / Tingley & Wagner | Completely / somewhat true | **~9–10% / ~19–29%** |
+| ~2024–25 | Nature *Comm. Earth Environ.* | Chemtrails somewhat+completely | **~20%**; unsure ~39% — [Table 4](https://www.nature.com/articles/s43247-025-02595-5/tables/4) |
+| ~2024–25 | Same | Gov spraying to counteract GW (AMP) | **~21%**; unsure ~50% |
+
+Sources: Mercer cited in [Nature SRM paper](https://www.nature.com/articles/s43247-025-02595-5); [Tingley & Wagner 2017](https://doi.org/10.1057/s41599-017-0014-3).
+
+**Note:** 2010→2016 shows a real belief jump; post-2016 identical-wording trend is **noisy**. Author rule: **do not** let that noise displace the ban/policy hook.
+
+**Parallel official frame (still standing):** Pew Mar 2026 — ~**48%** warming mostly **human activity / fossil fuels**; series largely stable since 2016 ([Pew](https://www.pewresearch.org/science/2026/05/28/americans-on-what-causes-climate-change-human-activity-or-natural-patterns/)). Cars-and-gas cover remains the plurality **attribution story** even as **ban politics** rises beside it — dual track, not replacement.
+
+**Graphic row:** “Climate real 72%” fits **extremes awareness**; it **does not adjudicate** geoengineering vs lifestyle-AGW. Percentage-ad deception on this line: **observation sold as causation mandate**.
+
+**Verdict on A11:** **Supported on the author-correct hook** — ban/policy salience is **up**. Taboo / *Arrival* grammar retained as thesis. Ban majorities and statutes **do not by themselves prove** operational global spraying; physical/program tiers stay in [weather-mod](/science/geoengineering/weather-modification-investigation.md).
+
 ---
 
 ## Weak points / remaining research TODOs
@@ -387,14 +437,16 @@ No specific viral ad or state map was attached to the session claim. Cannot adju
 - [x] Archive “THIS IS AMERICA!” graphic under `governance/usury/communism/` (sha256 `abb382837116a73fc1a5a89796fabeff1362e68795447483508758ad03e9fc5f`, dated 2026-07-24)
 - [x] Pull DSA *Workers Deserve More* ownership / police / Court clauses (§13.3)
 - [x] Promise to America pledge text (§13.4) — [thepromisetoamerica.com](https://www.thepromisetoamerica.com/)
+- [x] Geoengineering climate crux; **ban/policy locked as A11 hook** (§1.3, §13.9)
 - [ ] Curriculum examples for Pre-K/K-12 “propaganda vs life skills” (state frameworks) — **still open**
 - [ ] Author-named gerrymander map/ad for §13.8
 - [ ] Scoped monopoly-regulation / civil-rights failure exhibits (A8)
+- [ ] Optional: refresh enacted-vs-introduced geoengineering ban tracker (post-SRM360 Apr 2025)
 - [ ] Cross-link any future reader article if authored
 
 ---
 
-Keywords: #ThisIsAmerica #PercentageAds #DemocraticSocialism #BaitAndSwitch #Corporatism #MedicareForAll #Obamacare #DSA #MAGA #RINO #Usury #FederalOverreach #CivilRights #Monopoly #ParadigmThreatFiles
+Keywords: #ThisIsAmerica #PercentageAds #DemocraticSocialism #BaitAndSwitch #Corporatism #MedicareForAll #Obamacare #DSA #MAGA #RINO #Usury #FederalOverreach #CivilRights #Monopoly #Geoengineering #Chemtrails #WeatherModificationBan #TheArrival1996 #ClimateCover #ParadigmThreatFiles
 
 *Last updated: 2026-07-24*
 
@@ -405,9 +457,10 @@ Keywords: #ThisIsAmerica #PercentageAds #DemocraticSocialism #BaitAndSwitch #Cor
 > **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
 - **Author thesis sections (§1, §10)** are **first-class** reasons this file exists; they are **not** automatically factual. Labels **Author / Documented / Speculative** separate stakes from verification.  
-- **Poll numbers** move with **wording and year**; the session audit is a **snapshot**, not a meta-analysis.  
+- **Poll numbers** move with **wording and year**; the session audit is a **snapshot**, not a meta-analysis. For A11, **ban/policy** is the locked hook; chemtrails wording is secondary (§13.9).  
 - **“Communism”** in author voice means **equal-share / collectivist moral pitch + federal primacy**; AP/PolitiFact correctly note the Dem Party is **not** the CPUSA — that fact **does not** erase dual-platform or bait-switch patterns. DSA’s own program text (§13.3) is stronger evidence for **organizational** post-capitalist goals than for every Democrat officeholder.  
 - **MAGA candor** is a **comparative** claim under dossier guardrails; **Ukraine-in-24-hours** and incomplete deportation/tariff outcomes are documented limits.  
+- **Climate / geoengineering:** Ban majorities and state statutes measure **politics**, not automatic proof of operational global SRM spraying; physical/program evidence stays tiered in the geoengineering lane. *The Arrival* (1996) is **fiction grammar / predictive-programming** cross-read, not a production-document claim.  
 - **Related investigations** are thematic rhymes, not proof that every party actor shares one conspiracy brief.  
 - §13 is a **research pass**, not closure of A5/A6/A8.
 
@@ -415,8 +468,8 @@ Keywords: #ThisIsAmerica #PercentageAds #DemocraticSocialism #BaitAndSwitch #Cor
 
 ## Investigator notes
 
-- Session origin: user shared “THIS IS AMERICA!” percentage infographic; requested real stats; then rhetorical/political investigation; then published opinions deep dive; then **capture all sentiment** into paradigm-threat-files; then open-questions pass 2026-07-24.  
+- Session origin: user shared “THIS IS AMERICA!” percentage infographic; requested real stats; then rhetorical/political investigation; then published opinions deep dive; then **capture all sentiment** into paradigm-threat-files; then open-questions pass 2026-07-24; then **climate crux = geoengineering + *Arrival***; author locked **ban/policy** (not identical chemtrails wording) as the rise metric.  
 - Local IDE canvases (not in this repo): `~/.cursor/projects/home-ari-dev-pt/canvases/this-is-america-stats-factcheck.canvas.tsx`, `deceptive-stats-ads-investigation.canvas.tsx`, `deceptive-stats-deep-dive.canvas.tsx`.  
 - Archived graphic: `governance/usury/communism/this-is-america-percentage-graphic-2026-07-24.png` (from chat asset `image-1d8f590f-…`).  
-- Folder choice: `governance/usury/communism/` — equal-share pitch vs corporatist/usury delivery; cross-links RINO + managed-democracy corpus.  
+- Folder choice: `governance/usury/communism/` — equal-share pitch vs corporatist/usury delivery; cross-links RINO + managed-democracy corpus; climate fork cross-links weather-mod + Hollywood Thread R.  
 - **Ask author:** which gerrymander map/ad for §13.8; whether to pursue A5 curriculum exhibits next.
