@@ -31,8 +31,6 @@
 
 The most deceptive part of the “THIS IS AMERICA!” list is that **a lot of the items are not really things that can be voted on**. They are **outcomes of a political process that is stalled**.
 
-**“72% don’t own a gun” does not mean that many people don’t want people to own guns.** **“90% want more gun control laws” sounds extremely biased.** The author doubts **“72% believe the climate crisis is real”** holds as a stable truth — believes that number is **declining for real**.
-
 **Ultimately the graphic represents a socialist platform / communist perspective:** solve everything with communism — **tax the rich, eat the rich**, increase **federal oversight** over states and local, force everyone toward an **equal share**.
 
 That pitch **leaves out** arguments many people are making: **Pre-K and grade school aren’t done right** — more **propaganda curriculum** than reality or facts; **not teaching what you need in real life** (cook, clean, raise kids, anything about kids); **not preparing us to be families**; preparing people instead for **government-subsidized housing**.
