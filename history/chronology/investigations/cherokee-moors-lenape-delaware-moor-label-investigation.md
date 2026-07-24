@@ -164,6 +164,7 @@ The meme is **evidence of category collision**, not proof of one ancestry.
 | Barbary / etymology | [slave-trades-and-moor-etymology](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
 | Benjamin / Americas embed | [apotheosis-washington-benjamin-tribe-america](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md) |
 | “Moorish ten presidents / Liberia by record” hoax | [moorish-ten-presidents-liberia-record](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md) |
+| Amaruka / Khan Meru / Wall Street Ottoman wall | [amaruka-khan-meru-wall-street-ottoman-wall](/history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md) (**AU-038**) |
 | Indigenous vs geology / memory | [indigenous-legends-vs-geologic-dating](/history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md) |
 
 ---

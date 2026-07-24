@@ -119,6 +119,7 @@ Christian-adjacent and para-religious lanes often circulate similar pages: **Moo
 | Fomenko vs author claims | [/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md) |
 | Redaction as project theme | [/history/chronology/history-qa/page.md](/history/chronology/history-qa/page.md) (First / Second / Third History) |
 | Europe white / non-white taxonomy | [/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) |
+| Amaruka / Khan Meru / Wall Street Ottoman wall (**AU-038**) | [/history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md](/history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md) — Meru royalty + Dutch shell; uses **black George II** gloss as bridge |
 | Anna’s Archive workflow | [/docs/ANNAS_ARCHIVE_HOLLOW_EARTH.md](/docs/ANNAS_ARCHIVE_HOLLOW_EARTH.md) |
 
 **Franklin §23 with *Boors*:** he feared **Germanization** of Pennsylvania in a colony already shaped by **slavery and settler hierarchy** — same document §24 ties immigration to **excluding “Blacks and Tawneys.”**

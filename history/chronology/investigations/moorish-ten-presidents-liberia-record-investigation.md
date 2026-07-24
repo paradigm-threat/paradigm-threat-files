@@ -216,6 +216,7 @@ Under the **Articles of Confederation**, the **President of the United States in
 | File | Link |
 |------|------|
 | Cherokee Moors / Delaware Moor law | [cherokee-moors-lenape-delaware-moor-label-investigation.md](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) |
+| Amaruka / Khan Meru / Wall Street Ottoman wall (**AU-038**) | [amaruka-khan-meru-wall-street-ottoman-wall-investigation.md](/history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md) |
 | Europe Moor–Boor split | [europe-white-bloodline-complexion-whitewash-investigation.md](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) |
 | Slave trades + Moor etymology | [slave-trades-and-moor-etymology-investigation.md](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
 | Benjamin / Americas embed | [apotheosis-washington-benjamin-tribe-america-investigation.md](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md) |
