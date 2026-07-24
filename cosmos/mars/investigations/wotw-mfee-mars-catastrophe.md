@@ -316,6 +316,7 @@ Together, they describe a single event: the catastrophic destruction of Martian 
 - *Rocketship X-M* (dir. Kurt Neumann, 1950) — nuclear-destroyed Mars civilization
 - *Dark Star* (dir. John Carpenter, 1974) — planet-destroying thermonuclear weapons
 - *The Man Who Fell to Earth* (Walter Tevis, 1963; dir. Nicolas Roeg, 1976) — Mars refugee
+- ***The Arrival*** (dir. David Twohy, 1996; Charlie Sheen) — **Wolf 336 catastrophe** + Earth **greenhouse terraforming** as stand-in for Mars restore-life / atmosphere capture; **not** Villeneuve 2016 — [Hollywood Thread R](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship)
 - *Star Wars* (dir. George Lucas, 1977) — Alderaan destruction
 - *Ender's Game* (Orson Scott Card, 1985) — telepathic xenocide
 - *Jeff Wayne's The War of the Worlds* PC game (Rage Software, 1998) — "mass telepathic execution"

@@ -300,6 +300,17 @@ On this map, the cleanest **operative** question for post-9/11 franchises is not
 
 **Paradigm Threat read:** ***Burn After Reading*** extends the ***Sneakers*** interagency map into **pure farce** — the **CIA** is **past competent analysis**, **fires independent thinkers**, **breaks domestic law** to **cover its mess**, and **excludes the FBI** while **everyone** still **name-checks SIGINT** and **phone taps** in **pop-culture form**. **Harry** (Clooney) tosses off **mass cellphone geolocation** as **imminent everyday reality** — **NSA-domain** grammar in a **Treasury nitwit’s** mouth. **NSA-aligned** on the Hollywood taxonomy **by audit lane**, not by **heroic agency** — pairs [Hollywood Thread Q](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-q--burn-after-reading-2008-cia-decay--interagency-satire).
 
+### *The Arrival* (1996) — geoengineering / AGW-cover flagship (L1 plot; L3–L4 read)
+
+| Claim | Source |
+|-------|--------|
+| **Zane Zaminsky** detects Wolf 336 signal; **Gordian** destroys tape, fires/blacklists him | [Wikipedia — *The Arrival* (1996)](https://en.wikipedia.org/wiki/The_Arrival_(1996_film)) |
+| **Calvin** dies (CO) after Zane seeks help; **Ilana** killed; **Kiki** revealed as alien agent | Same |
+| Facade **power plants** emit greenhouse gases as **terraforming**; Gordian confesses invaders raise temperature to remake Earth | Same |
+| Same year as ***Independence Day*** — different NSA lane (atmosphere/capture vs unity/declass) | Calendar L1 |
+
+**Paradigm Threat read:** ***The Arrival*** (Charlie Sheen / Twohy — **not** Villeneuve 2016) is **NSA-aligned** on the **geoengineering / climate-cover** lane: **institutional compromise** of science/spy desks, **elimination of truth-seekers**, **deliberate atmospheric modification** sold to the public as ordinary warming. **Fear** is the main social weapon — everyone turned against Zane until he **suspects Char**; the film also shows a **non-flawed relationship** under siege, rare for Hollywood. Audience need not accept aliens — only that **AGW can be a narrative cover** for a program. Full thesis, Mars/Wolf 336 rhyme, extremes-for-control speculation: [Hollywood Thread R](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship); [weather modification § *The Arrival*](/science/geoengineering/weather-modification-investigation.md#predictive-programming--the-arrival-1996).
+
 ---
 
 ## IV. Predictive Programming — *Tom Clancy's Jack Ryan: Ghost War* (2026)

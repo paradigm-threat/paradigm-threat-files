@@ -256,6 +256,18 @@ Circulating *Economist World Ahead 2026* graphics add **“PROJECT H.A.A.R.P.”
 
 ---
 
+## Predictive programming — *The Arrival* (1996)
+
+**Scope note:** Charlie Sheen / David Twohy ***The Arrival*** (1996) — **not** Villeneuve’s ***Arrival*** (2016).
+
+**L1 film grammar:** A radio astronomer discovers an ET signal; **JPL / science-desk leadership** destroys evidence and blacklists him; colleagues who get close die; **facade “power plants”** across the developing world emit **greenhouse gases** as **terraforming** to make Earth hotter for infiltrators already inside government. The film uses **serious extreme-heat / ecological imagery** (including documentary-style heat-death footage), not cartoon disaster only.
+
+**Author read (L3–L4) — capture for this investigation:** The payload that matters does **not** require believing in aliens. The film teaches that the **global-warming narrative** can be the **cover** for a **deliberate atmospheric program** — a different “human-caused” than cars and lifestyle. That maps directly onto this dossier’s **CONFIRMED** weather-warfare history (Popeye, ENMOD, “Owning the Weather in 2025”) and the **chemtrail / seeding / heater** corpus above. **Fear** is the social weapon that turns everyone against Zane until he **suspects Char**; the couple is shown as a **non-flawed relationship** under siege — rare Hollywood grammar. **Author speculation beyond the film:** the real program may optimize **waves of extremes** (hot, cold, flood, storm) to **sell AGW** and **expand government control**, not a single heat end-state; the on-screen invaders want heat, but the **fragile, desperate** architecture rhymes with an influence fighting for survival. **Wolf 336 catastrophe** (film) rhymes with the repo’s **Mars catastrophe / restore-life** lane without naming Mars on screen — clever enough to stay “sci-fi” while naming **terraforming** and **institutional capture**.
+
+Full Hollywood taxonomy, plot-beat table, and camp label: [Hollywood Thread R — *The Arrival* (1996)](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship). Cross-read [Mars catastrophe / MFEE](/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md); [NSA fiction rhyme](/governance/war/investigations/nsa-investigation.md).
+
+---
+
 ## Assessment
 
 **CONFIRMED**: Weather modification technology exists, has been weaponized, and has been concealed from democratic oversight.
@@ -270,7 +282,7 @@ Circulating *Economist World Ahead 2026* graphics add **“PROJECT H.A.A.R.P.”
 
 **UNDER INVESTIGATION**: The connection between Eastlund/HAARP technology and suppressed aether physics. The connection between Paperclip-transferred knowledge and the simultaneous emergence of cloud seeding programs in 1946.
 
-**UNDER INVESTIGATION**: Whether artificial weather events are being attributed to "climate change" to justify global governance structures.
+**UNDER INVESTIGATION**: Whether artificial weather events are being attributed to "climate change" to justify global governance structures. **Hollywood PP rhyme (1996):** ***The Arrival*** frames **engineered greenhouse acceleration** with **AGW as cover** while using real extreme-heat imagery — see [§ Predictive programming — *The Arrival*](#predictive-programming--the-arrival-1996).
 
 **DEBUNKED AS PROOF (not as capability)**: Using **NEXRAD sun spikes / AP clutter**, **gravity-wave cloud streets**, or **ship tracks** alone as **smoking-gun** evidence of **microwave precipitation manipulation** without defeating mundane explanations ([NOAA ROC anomalies guide](https://www.roc.noaa.gov/public-documents/operations-branch/Data_Quality_Oddities_and_Anomalies.pdf)).
 
@@ -291,7 +303,7 @@ Circulating *Economist World Ahead 2026* graphics add **“PROJECT H.A.A.R.P.”
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-Keywords: #Weather #Modification #Cloud #Seeding #Ionospheric #Heaters #GeoengineeringWatch #FloridaSB56
+Keywords: #Weather #Modification #Cloud #Seeding #Ionospheric #Heaters #GeoengineeringWatch #FloridaSB56 #TheArrival1996 #PredictiveProgramming
 
 **Last updated:** 2026-06-27 (§ Political authorization lane, G19 viral overlay, § Viral cover memes)
 

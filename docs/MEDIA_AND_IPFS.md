@@ -17,6 +17,17 @@
 
 Thin / stub-at-extension history belongs only in a separate **`-thin`** forge (see `thin-migrate/`) or Relay docs for hosted free-tier stubs — **not** in this tree’s `main`.
 
+## Sister forge: `-thin` (not production)
+
+| Item | Value |
+|------|-------|
+| GitLab | `git@gitlab.com:clevertree/paradigm-threat-files-thin.git` |
+| Layout | **centralDir** — pointers at `.relay/assets/{path}.ipfs` + `assets.manifest.json`; **no** `relay-ipfs-v1` at public `.png`/`.jpg` |
+| Rebuild workdir | `thin-migrate/paradigm-threat-files-20260722/` (see `thin-migrate/README.md`) |
+| Production catalog | Stays on **this fat** GitLab URL until thin GET + seed are accepted and cutover is explicitly ordered |
+
+**Do not** `reclone-repo paradigm-threat-files` from `-thin` (that grafted stubs onto production in 2026-07-21). Optional later: a **separate** catalog slug for hosted thin — never a silent replace of the fat slug.
+
 ## Forbidden (do not commit)
 
 1. **`relay-ipfs-v1` text** at any path with a media/binary extension (`.png`, `.jpg`, `.JPG`, `.pdf`, `.m4a`, …) or extensionless binary assets.

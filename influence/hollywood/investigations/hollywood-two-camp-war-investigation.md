@@ -2,10 +2,10 @@
 
 ![Hollywood two-camp war — investigation cover](hollywood-two-camp-war-investigation.png)
 
-> **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: war-prep with China? **Cyber / unity lane:** agency, declass, common foe? **Thread N — *T2*; Thread O — *ID4* (1996)** = NSA flagships. **Thread P — *Stargate* (1994 film)** = **CIA/globalist contrast** — ancient aliens + modern authority, **Atlantis/Mars laughed off**, sketchy portal physics/plot; **nothing “fake”** in *ID4* by comparison. **Thread Q — *Burn After Reading* (2008)** = **NSA-aligned interagency satire** — CIA **SigInt** purge, **Harry (Clooney) cellphone geolocation forecast**, **burn the body** (no FBI), **“What did we learn?”** closure. ***Congo* (1995)** = **NSA overall** (Ross *loveless…sons of bitches* CIA audit + pro-African balance) with **residual CIA Africa contempt** (Monroe *settle scores*) and ***King Solomon’s Mines* / Zinj** memory-war payload. **Author heuristic:** NSA-camp blockbusters **rarer** and often **classics**; CIA-camp titles **more common**, **contradictory plots** tolerated to move misdirection payload.
+> **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: war-prep with China? **Cyber / unity lane:** agency, declass, common foe? **Thread N — *T2*; Thread O — *ID4* (1996)** = NSA flagships. **Thread P — *Stargate* (1994 film)** = **CIA/globalist contrast** — ancient aliens + modern authority, **Atlantis/Mars laughed off**, sketchy portal physics/plot; **nothing “fake”** in *ID4* by comparison. **Thread Q — *Burn After Reading* (2008)** = **NSA-aligned interagency satire** — CIA **SigInt** purge, **Harry (Clooney) cellphone geolocation forecast**, **burn the body** (no FBI), **“What did we learn?”** closure. **Thread R — *The Arrival* (1996, Charlie Sheen)** = **NSA-aligned geoengineering / alien-influence flagship** — **not** Villeneuve’s *Arrival* (2016). Greenhouse plants as terraforming; JPL/spy compromise; Wolf 336 catastrophe stand-in; **AGW narrative as cover**. ***Congo* (1995)** = **NSA overall** (Ross *loveless…sons of bitches* CIA audit + pro-African balance) with **residual CIA Africa contempt** (Monroe *settle scores*) and ***King Solomon’s Mines* / Zinj** memory-war payload. **Author heuristic:** NSA-camp blockbusters **rarer** and often **classics**; CIA-camp titles **more common**, **contradictory plots** tolerated to move misdirection payload.
 
 **Date:** 2026-06-17  
-**Status:** Open investigation; **reader essay published** 2026-06-17; ***Congo* / Spielberg brand cluster** added 2026-07-21.  
+**Status:** Open investigation; **reader essay published** 2026-06-17; ***Congo* / Spielberg brand cluster** added 2026-07-21; ***The Arrival* (1996)** Thread R added 2026-07-23.  
 **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md)
 
 ---
@@ -28,7 +28,8 @@
 9. [Thread O — *Independence Day* (1996, original): unity-lane NSA flagship](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship)
 10. [Thread P — *Stargate* (1994 film): globalist / CIA contrast to *ID4*](#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4)
 11. [Thread Q — *Burn After Reading* (2008): CIA decay / interagency satire](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire)
-12. [Thread G — Hollywood hot war: containment, forced labor, war-movie conveyor](#thread-g--hollywood-hot-war-franchise-containment-forced-labor-war-movie-conveyor)
+12. [Thread R — *The Arrival* (1996): geoengineering / alien-influence NSA flagship](#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship)
+13. [Thread G — Hollywood hot war: containment, forced labor, war-movie conveyor](#thread-g--hollywood-hot-war-franchise-containment-forced-labor-war-movie-conveyor)
 12. [Thread C — *Rush Hour* franchise (1998–2001)](#thread-c--rush-hour-franchise-19982001)
 12. [Thread M — Stolen memory: Jackie Chan artifacts, Taiwan, tech trigger](#thread-m--stolen-memory-jackie-chan-artifacts-taiwan-tech-trigger)
 13. [Thread K — *24* (TV, 2001–2010): China torture, proxy terror, CTU destruction](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction)
@@ -64,6 +65,7 @@ This investigation extends the **two-camp interagency war** frame documented in 
 | **Cyber / NWO** (Installment I rhymes) | Does the work **sell a fixed dystopian future** inside **“the plan”**, or **agency** — audit, preemptive strike, **chart unknown paths**? | ***Terminator 2*** (1991), ***The Matrix*** (1999) — [Thread N](#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship); [Matrix dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) |
 | **Unity / declass** (1990s antibody window) | Does the work **unite former enemies against a common foe**, **surface hidden programs** (Area 51), and **punish compartmentalized secrecy** — **without** holy-war predestination? | ***Independence Day*** (1996, **original only**) — [Thread O](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) |
 | **Ancient aliens / globalist misdirection** | Does the work **sell ancient astronauts + modern authority**, **misdirect real history/tech**, and **train ridicule** of forbidden topics (Atlantis, Mars) — with **sketchy** plot/physics? | ***Stargate*** (1994 **film only**) — [Thread P](#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4) |
+| **Geoengineering / climate-cover** | Does the work **name deliberate atmospheric modification**, **alien or elite capture of government/spy desks**, and **AGW as cover story** — without requiring the audience to “believe in aliens”? | ***The Arrival*** (1996, **Charlie Sheen**) — [Thread R](#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship); **not** Villeneuve *Arrival* (2016) |
 
 **Pacific lane — camp table (v1 seed):**
 
@@ -71,7 +73,7 @@ This investigation extends the **two-camp interagency war** frame documented in 
 |---------------------|-------------------|------------------------|-----------------|--------------------------|
 | **NSA-aligned** | **Low war-prep** — audit pipelines, deterrence cost, or **cross-Pacific rapport** without rehearsing invasion; **depth is not a sort key** (can be complex *or* shallow) | Hong Kong finance, Triads, extrajudicial capture; **PRC intelligence torture** of American operators; **American–Chinese buddy partnership** | **Low** — audience not primed to fight China | *The Dark Knight* (2008), *Rush Hour* (1998), *Rush Hour 2* (2001), *Red Corner* (1997), ***24*** (2001–2010) |
 | **CIA/MI6-aligned** | **High war-prep** — mythical ancient East, **PLA invasion** fantasy, resource-war normalization; shallow **or** prestige packaging | Elitist martial mysticism; PLA invaders; resource-war gameplay | **High** — population rehearsed for conflict | *Red Dawn* (2012, orig. China), *Shang-Chi* (2021), *Battlefield 4* (2013), *Fallout* (1997+) |
-| **Globalist-neutral (contrast bucket)** | Cooperation, competence, shared threat | PRC as partner | **None** | *The Martian* (2015), *Arrival* (2016) |
+| **Globalist-neutral (contrast bucket)** | Cooperation, competence, shared threat | PRC as partner | **None** | *The Martian* (2015), ***Arrival*** (2016 Villeneuve — **not** [Thread R *The Arrival* 1996](#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship)) |
 
 **Litmus test (author):** Does the work **prepare the audience for war with China**? If **yes** → **CIA/MI6 camp** on this taxonomy, even when Beijing also blocks the title for unrelated scene triggers. If **no** → **NSA camp** (or neutral bucket) — **regardless of thematic depth or production quality**.
 
@@ -337,6 +339,65 @@ Cross-read [NSA investigation § V Fiction rhyme](/governance/war/investigations
 
 ---
 
+## Thread R — *The Arrival* (1996): geoengineering / alien-influence NSA flagship
+
+**Scope:** ***The Arrival*** (1996 theatrical film; written/directed by **David Twohy**; **Charlie Sheen** as Zane Zaminsky). **Not** Denis Villeneuve’s ***Arrival*** (2016) — that title stays in the **globalist-neutral** contrast bucket (US–China cooperation on language/aliens). **No** claim of agency production contact unless sourced later.
+
+**Author thesis (verbatim capture):** ***The Arrival* (1996) is a major NSA-aligned movie** because it lists, in plain sight, nearly everything this repo investigates as **potentially true** — with one clever cinematic exception. **What lands as true on this read:** **alien / nonhuman influence intimately inside government**, controlling mostly the **CIA and high-level spy / science-desk assets**, **eliminating anyone who gets close to the truth**. **Mars terraforming / restoring life** is **heavily framed** without saying “Mars” as the homeworld on screen — the film places a **catastrophe** in **another star system (Wolf 336)**; **~14 light-years / decades of light-travel later**, the species is already **on Earth**, running **facades** (power plants) that **pump greenhouse gases** to make the planet **hotter** for them. The film is **clever enough to hide the real facts** (swap Mars for Wolf 336; package as sci-fi) **so it does not get in trouble**, while still **mentioning terraforming heavily**, showing **direct intimate influence inside government**, and showing that the influence works like **mind-control / total compromise** of the desks that should investigate. **Fear is the main weapon** — not clever debate. Everyone is turned against Zane by **fear, framing, and social isolation** until the paranoia reaches his own home: he **suspects Char** (girlfriend / wife lane), the person he should trust most. That is the point: once the machine owns the desks and the narrative, **fear dissolves loyalty** faster than any argument. The film also features a **non-flawed relationship** — rare for Hollywood, which usually sells broken couples as default realism — so the audience can see what **fear destroys**, not a relationship that was already rotten. **Calvin** (Richard Schiff) dies suspiciously after Zane tries to pull him in — **fear / compromise of the colleague lane**. Neighbor **Kiki** is later revealed as an alien agent. That is **not disposable sci-fi paranoia** — it illustrates the **real problem as it exists**: discovery is punished; allies flip; the cover story is **climate**. The movie uses **real footage** of **people and animals dying in extreme heat** (Africa / documentary inserts) — **not** something a throwaway B-movie needs. The serious message does **not** require the audience to **believe in aliens**. What matters is that people realize the **global-warming narrative** might have been caused by **something else** — not “cars and lifestyle” as sold, but a **different kind of human-caused** program: **deliberate geoengineering of Earth’s atmosphere**. **Author speculation (beyond the film’s stated alien goal):** in real life the operators may not even be optimizing for **heat** as end-state; the observable program looks like **waves of extremes** — extreme cold, extreme hot, extreme weather, extreme flooding — **in the name of** convincing populations that **AGW is settled** and they must **surrender rights and hand more control to government**. The evidence lane for deliberate modification is already in this repo ([weather modification investigation](/science/geoengineering/weather-modification-investigation.md); chemtrails / seeding / heaters corpus). The film makes clear that **if** extreme weather had **another cause**, that cause could be the **real engine** behind the narrative — and such a plan only makes sense if some influence is **desperate to survive**. Otherwise the architecture is **almost too fragile**.
+
+### Plot beats (L1)
+
+| Beat | Detail | Tier |
+|------|--------|------|
+| **Signal / purge** | Radio astronomer **Zane Zaminsky** (Charlie Sheen) and **Calvin** detect an ET signal from **Wolf 336**; supervisor **Phil “Gordi” Gordian** (Ron Silver) dismisses, **destroys the tape**, fires Zane on **budget cuts**, **blacklists** him from other telescopes | L1 — [Wikipedia — *The Arrival* (1996)](https://en.wikipedia.org/wiki/The_Arrival_(1996_film)) |
+| **Calvin eliminated** | Zane seeks Calvin’s help; Calvin is found dead — **carbon monoxide** — suspicious timing | L1 — same |
+| **Dish array / attic** | Zane becomes a **satellite-dish installer**, builds a **covert telescope array** from customers’ dishes; neighbor **Kiki** assists | L1 |
+| **Mexico plant / Ilana** | Signal traces to **San Marsol**, Mexico; burnt radio station; new **power plant** facade; meets climatologist **Ilana Green** (Lindsay Crouse) investigating abrupt warming / plant emissions | L1 |
+| **Greenhouse terraforming** | Plant is cover for **extraterrestrial base** emitting **massive greenhouse gases**; aliens wear **human skin**; identical “twins” of Gordian among guards | L1 |
+| **Ilana killed / framed** | Scorpions kill Ilana; aliens deliver her body to police to **frame Zane** | L1 |
+| **Gordian confession** | Gordian admits aliens are **raising Earth’s temperature** to **eliminate humans** and make Earth **livable for themselves** (**terraforming**); implies aliens behind recent **NASA failures** (probe antenna, Hubble mirror) | L1 |
+| **Intimate compromise / fear weapon** | Agents / devices destroy Zane’s attic gear; **Kiki** revealed as **alien agent**; **fear** turns the world against Zane until he **suspects Char** (girlfriend / wife) — **not** because the relationship was rotten | L1 / L3 |
+| **Non-flawed relationship (rare)** | Zane–Char bond reads as a **healthy** couple under siege — **rare in Hollywood**, which usually defaults to broken intimacy; fear, not prior dysfunction, is what nearly breaks them | L3 — author reception read |
+| **Documentary heat inserts** | Film includes **real / documentary-style** footage of **heat deaths** and ecological stress (Africa / extreme-heat imagery) as climate payload | L1/L2 — production uses serious climate imagery, not cartoon disaster only |
+
+**Discipline:** On-screen home system is **Wolf 336**, **not** Mars. **Terraforming** and **greenhouse acceleration** are **explicit**. Author maps Wolf 336 catastrophe → **Mars catastrophe / MFEE** lane in this repo as **L3–L4 rhyme**, not a claim Twohy said “Mars” on screen.
+
+### Investigator assessment
+
+| # | Author claim | Verdict | Notes |
+|---|--------------|---------|-------|
+| V1 | Film **names deliberate atmospheric / greenhouse geoengineering** as the core conspiracy | **Supported (L1)** | Power-plant / GHG emission plot is explicit |
+| V2 | **Government / JPL / spy-adjacent desks** are **compromised** by the infiltrators | **Supported (L1)** | Gordian at JPL; agents; NASA failure asides |
+| V3 | **Anyone close to truth is eliminated or flipped** | **Supported (L1)** | Calvin death; Ilana death; Kiki reveal; blacklist |
+| V4 | **AGW narrative = cover** for engineered warming | **Supported as theme (L1 + L3)** | Film sells warming as **alien industrial program**, not lifestyle CO₂ alone |
+| V5 | **Wolf 336 = stand-in** for **Mars catastrophe / restore-life** lane | **Author rhyme (L3–L4)** | Film never says Mars; repo [Mars catastrophe](/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md) / weather-mod Martian-tech thesis |
+| V6 | **Real heat-death footage** = serious message, not disposable B-movie | **Supported as author read (L3)** | Audience need not believe aliens; must entertain **non-lifestyle** climate cause |
+| V6b | **Fear** is the **primary social weapon** — turns colleagues / public / intimate circle against Zane; he **suspects Char** | **Supported as author read (L3)** | Framing + isolation + paranoia; **not** “bad girlfriend plot” |
+| V6c | Film shows a **non-flawed relationship** under attack — **rare Hollywood grammar** | **Supported as author reception (L3)** | Contrast to default broken-couple realism |
+| V7 | **Real-world end goal = extremes / rights surrender**, not necessarily “make Earth hotter forever” | **Author speculation (L4)** | Beyond film text; pairs [weather modification](/science/geoengineering/weather-modification-investigation.md) |
+| V8 | Twohy / Sheen received **agency direction** | **Unproven** | **No production evidence** in dossier |
+| V9 | Confuse with Villeneuve ***Arrival*** (2016) | **Rejected** | Different film; 2016 stays **globalist-neutral** |
+
+**Bottom line (investigator):** ***The Arrival* (1996) fits the NSA-aligned catalog as a **geoengineering / capture flagship*** — **audit the climate cover**, **name institutional compromise**, **punish discovery**, **sideline the lifestyle-AGW story** — without requiring literal ET belief. Same year as ***Independence Day*** (Thread O): **1996 antibody window** on **two different lanes** (unity/declass vs atmosphere/capture).
+
+### Author reads (L3–L4)
+
+| Read | Tier | Notes |
+|------|------|-------|
+| **NSA flagship — climate-cover lane** | L3 | Pairs weather-mod / chemtrail documentation in-repo; film teaches **cause ≠ cars** without needing alien ontology |
+| **Intimate mind-control / total compromise** | L3 | Colleague death, Char suspicion, child-neighbor agent — **capture reaches the living room** |
+| **Fear as primary weapon** | L3 | World turned against Zane by **fear / framing** until he doubts **Char** — healthy bond under siege, not prior dysfunction |
+| **Non-flawed relationship (Hollywood-rare)** | L3 | Lets the audience measure what fear costs when the couple was **not** already broken |
+| **Hide Mars, keep terraforming** | L3–L4 | Wolf 336 catastrophe + Earth takeover ~decades later = **clever stand-in** for Mars restore-life / catastrophe memory war |
+| **Fragile desperate plan** | L4 | Only a **survival-desperate** influence would risk such an obvious, brittle atmospheric program — film’s fragility is the tell |
+| **Extremes as political weapon** | L4 | Author: real program may optimize **fear / rights surrender** via **hot–cold–flood extremes**, not a single heat end-state |
+
+**Camp label (author):** ***The Arrival* (1996) = NSA-aligned (geoengineering / alien-influence / AGW-cover flagship)** — **high-confidence** on this taxonomy.
+
+Cross-read [weather modification investigation](/science/geoengineering/weather-modification-investigation.md); [Mars catastrophe / MFEE](/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md); [NSA investigation § V Fiction rhyme](/governance/war/investigations/nsa-investigation.md); Thread O (*ID4*, same year).
+
+---
+
 ## Thread C — *Rush Hour* franchise (1998–2001)
 
 ### *Rush Hour* (1998) — buddy partnership (L1)
@@ -443,7 +504,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 | ***Memoirs of a Geisha*** | 2005 | Chinese actresses as Japanese | Neutral/block | Low | **Blocked** mainland | Censorship thread only |
 | ***Crouching Tiger, Hidden Dragon*** | 2000 | Mythic martial China | CIA/MI6 | Low | Released | “Ancient East” elitist read |
 | ***The Martian*** | 2015 | NASA–CNSA cooperation saves hero | Globalist-neutral | None | Released | Contrast bucket |
-| ***Arrival*** | 2016 | US–China cooperate on aliens | Globalist-neutral | None | Released | Contrast bucket |
+| ***Arrival*** | 2016 | US–China cooperate on aliens | Globalist-neutral | None | Released | Contrast bucket — **not** Charlie Sheen ***The Arrival*** (1996) [Thread R](#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship) |
 | ***The Dark Knight Rises*** | 2012 | No HK/Lau arc; Bane occupation | Containment sequel | Low | Released China later | **Typical** sequel — [Thread G](#thread-g--one-off-masterpiece--franchise-containment) |
 | ***Burn After Reading*** | 2008 | CIA **SigInt** purge; **cellphone geolocation** forecast; **burn the body**; FBI excluded | NSA | None | Released | Interagency satire — [Thread Q](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire) |
 | ***Congo*** | 1995 | Congo theater (n/a China); Ross CIA audit; Monroe Africa contempt residual | NSA (overall; mixed residual) | None | Released | CIA audit + *KSM*/Zinj — [Congo note](#congo-1995--nsa-overall-cia-audit-residual-africa-contempt-ksmzinj) |
@@ -459,6 +520,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 |-------|------|-------------|---------------|-------|
 | ***Terminator 2: Judgment Day*** | 1991 | Stop Skynet; **no fate**; destroy Cyberdyne; asylum truth-teller; **9′-11″** sign | **NSA** | **Flagship** — [Thread N](#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship) |
 | ***Independence Day*** | 1996 | **Locust** strip-miners; **WTC shadow** PP; **Area 51** reveal; **host-body**; anti-secrecy | **NSA** | **Original only** — [Thread O](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) |
+| ***The Arrival*** | 1996 | **Greenhouse terraforming**; JPL/spy compromise; Wolf 336 catastrophe; **AGW as cover**; heat-death footage | **NSA** | **Flagship geoengineering lane** — [Thread R](#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship); **not** Villeneuve 2016 |
 | ***Stargate*** (film) | 1994 | **Ancient aliens** + god-king; **Atlantis/Mars ridicule**; sketchy gate physics/plot | **CIA/MI6** | **Contrast *ID4*** — [Thread P](#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4); **Emmerich/Devlin** also did *ID4* |
 | ***The Matrix*** | 1999 | Red pill; passport **9/11** PP; **Wake Up** credits | **NSA** | Installment I — [Matrix dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) |
 | ***The Matrix Reloaded* → *Resurrections*** | 2003–2021 | Oracle-as-control contained; nostalgia reset | **CIA** | Contain handoff — same dossier |
@@ -471,6 +533,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 |-------|------|-------------|---------------|-------|
 | ***Sneakers*** | 1992 | NSA vs CIA vs FBI; “we’re the good guys”; information war | **NSA** | Dialogue map — [good-actor § II.G](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | ***Burn After Reading*** | 2008 | CIA **SigInt** desk purge; **Harry cellphone location** line; memoir chaos; **burn the body** not FBI; transactional incompetence | **NSA** | **Flagship satire** — [Thread Q](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire) |
+| ***The Arrival*** | 1996 | Greenhouse **terraforming** plants; JPL/Gordian compromise; Calvin eliminated; **AGW cover**; Wolf 336 catastrophe stand-in | **NSA** | **Flagship geoengineering** — [Thread R](#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship); **not** Villeneuve 2016 |
 | ***Congo*** | 1995 | Ross *“loveless bunch of sons of bitches”* (CIA); Wanta names CIA past; **residual** Monroe *settle scores* Africa contempt; pro-African **balance**; *KSM*/Zinj | **NSA** (overall; mixed residual) | [Congo note](#congo-1995--nsa-overall-cia-audit-residual-africa-contempt-ksmzinj) |
 
 **TODO rows:** *Three Days of the Condor* (1975); *Syriana* (2005); *The Recruit* (2003) — verify camp per title.
@@ -1002,10 +1065,12 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 | **Lost tribe of Benjamin / world tribes** | [/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md](/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md) | *Congo* / *KSM* empire-whitewash rhyme |
 | **Prester John / NC Solomon** | [/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md) | Solomon Temple memory vs African-mine Levant frame |
 | **Mudflood / Tartarian vassals** | [/history/mudflood/page.md](/history/mudflood/page.md) | Worldwide vassal map vs Solomon-mines small-kingdom story |
+| **Weather modification** | [/science/geoengineering/weather-modification-investigation.md](/science/geoengineering/weather-modification-investigation.md) | Chemtrails / heaters / AGW-cover; [*The Arrival* (1996) PP](/science/geoengineering/weather-modification-investigation.md#predictive-programming--the-arrival-1996) |
+| **Mars catastrophe / MFEE** | [/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md](/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md) | Wolf 336 stand-in rhyme for Thread R terraforming |
 
-Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #IndependenceDay #ID4 #Stargate #Area51 #911PP #NoFate #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott #Cyberdyne #WarOfTheWorlds #HostBody #AncientAliens #Atlantis #Congo #KingSolomonsMines #Zinj #Spielberg #KathleenKennedy #FrankMarshall #BurnAfterReading
+Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #IndependenceDay #ID4 #Stargate #TheArrival1996 #Geoengineering #Terraforming #AGWCover #Area51 #911PP #NoFate #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott #Cyberdyne #WarOfTheWorlds #HostBody #AncientAliens #Atlantis #Congo #KingSolomonsMines #Zinj #Spielberg #KathleenKennedy #FrankMarshall #BurnAfterReading
 
-**Last updated:** 2026-07-21T08:52:00-04:00
+**Last updated:** 2026-07-23T14:05:00-04:00
 
 ---
 
@@ -1042,6 +1107,8 @@ Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #Independ
 **Thread P — *Stargate* (1994 film):** Seminar scene, **Atlantis/Mars heckle**, Ra-as-alien, chevron addressing, and Jackson constellation retcon are **L1** where script / wiki sourced. **CIA/globalist ancient-mystery**, **PP ridicule training**, ***ID4* plausibility contrast**, **portal physics decoy**, and **plot-sloppiness-as-payload** are **L3–L4**. **NSA=classic / CIA=sloppy** heuristic is **L3 taste pattern**, not statistical proof. ***SG-1* TV** out of scope.
 
 **Thread Q — *Burn After Reading* (2008):** **SigInt** purge, Chad **signals intelligence** dialogue, **Harry (Clooney) cellphone geolocation** forecast (**“pretty soon they're gonna know where everyone is… at any given moment”**), **burn the body** / **FBI exclusion**, and **Chubb/Palmer** closing are **L1** where [Daily Script PDF](https://www.dailyscript.com/scripts/BurnAfterReading.pdf) / [Harry dialogue corpus](http://nldslab.soe.ucsc.edu/charactercreator/film_corpus/film_20100519/output/burn-after-reading-harry.txt) sourced. **CIA decay**, **transactional farce**, **NSA charter rhyme via SigInt**, **mass location collection inevitability**, **sovereignty violation read**, and **NSA-aligned audit camp** are **L3–L4**. **No literal “NSA” agency name** in published screenplay — **SigInt** vocabulary only. **Not** claim Coen Brothers received agency direction.
+
+**Thread R — *The Arrival* (1996):** Wolf 336 signal, Gordian tape destruction / blacklist, Calvin CO death, Mexico greenhouse plant, Ilana murder, Gordian terraforming confession, Kiki reveal, and NASA-failure asides are **L1** where [Wikipedia — *The Arrival* (1996)](https://en.wikipedia.org/wiki/The_Arrival_(1996_film)) sourced. **NSA-aligned geoengineering / AGW-cover flagship**, **fear as primary social weapon** (Zane suspects **Char**), **non-flawed relationship under siege (Hollywood-rare)**, **intimate compromise**, **Wolf 336 = Mars-catastrophe stand-in**, **real heat-death footage as serious climate message**, and **extremes-for-rights-surrender** speculation are **L3–L4**. On-screen species goal is **heat / terraforming for invaders** — author **does not** claim the film states “Mars” or “cold Mars preferred.” **Not** Villeneuve ***Arrival*** (2016). **Not** claim Twohy/Sheen received agency direction.
 
 ***Congo* (1995) / Thread D satire catalog:** Ross CIA *loveless…sons of bitches* exchange, Monroe *settle scores* / *great white hunter* lines, and Homolka/Monroe Zinj–Solomon dialogue are **L1** where quote corpora sourced. **NSA overall**, **residual CIA Africa contempt**, **pro-African balance**, **Spielberg entry = full-CIA path**, ***Congo* pass = cannot (not chose not to)**, and **Marshall/Kennedy ballast vs NSA drift** are **L3–L4**. Crichton *King Solomon’s Mines* homage is **L1**; **Rus–Horde / worldwide-empire whitewash** and **Solomon’s men → Phoenician** map are **L3** — do **not** claim Crichton said “Phoenicians” without a novel page cite. **Not** claim Marshall/Shanley received agency direction.
 
