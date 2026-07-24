@@ -1,10 +1,10 @@
 # Investigation: “THIS IS AMERICA!” Percentage Ads — Democratic Dual Platform, Bait-and-Switch Corporatism, and MAGA Candor Contrast
 
-![Corporate brand grid — equal-share pitch, corporate delivery](../brands.jpg)
+![“THIS IS AMERICA!” percentage graphic — session archive](../this-is-america-percentage-graphic-2026-07-24.png)
 
-> **TL;DR:** Viral **percentage graphics** (“69% support X…”) convert **demographic facts**, **soft majorities**, and **stalled-process aspirations** into a **moral mandate** that sounds like an **equal-share / socialist platform** — while **establishment Democrats deny** socialism, **DSA-aligned socialists admit** capitalism-replacement goals and **capture deep-blue primaries**, and **shipped statutes** often look like **corporatism, bureaucracy, usury, and elite continuity** (archetype: **Medicare-for-All talk → ACA / insurer architecture**). **Author thesis (first-class):** the deepest deception is **lying to the base** — treating constituents like idiots, smearing alternatives with **Jim Crow / gerrymander** guilt ahead of evidence, expanding early schooling that **does not prepare families**, and abandoning the demographics first rallied. **MAGA contrast (qualified):** strategic goals (border, tariffs, Iran/allies, NATO/UN scrutiny) were **pre-announced and pursued**; absolute “never lied” fails trackers (e.g. Ukraine-in-24-hours), but **product renaming** is rarer than on the Dem equal-share lane. **Poll audit companion (session):** several graphic numbers are **close**; **gun-control 90%**, **tax-the-rich 79%**, **student-loan 73%**, **gerrymander 89%** are **inflated** vs mainstream panels.
+> **TL;DR:** Viral **percentage graphics** (“69% support X…”) convert **demographic facts**, **soft majorities**, and **stalled-process aspirations** into a **moral mandate** that sounds like an **equal-share / socialist platform** — while **establishment Democrats deny** socialism, **DSA-aligned socialists admit** capitalism-replacement goals and **capture deep-blue primaries**, and **shipped statutes** often look like **corporatism, bureaucracy, usury, and elite continuity** (archetype: **Medicare-for-All talk → ACA / insurer architecture**). **Author thesis (first-class):** the deepest deception is **lying to the base** — treating constituents like idiots, smearing alternatives with **Jim Crow / gerrymander** guilt ahead of evidence, expanding early schooling that **does not prepare families**, and abandoning the demographics first rallied. **MAGA contrast (qualified):** strategic goals (border, tariffs, Iran/allies, NATO/UN scrutiny) were **pre-announced and pursued**; absolute “never lied” fails trackers (e.g. Ukraine-in-24-hours), but **product renaming** is rarer than on the Dem equal-share lane. **Poll audit companion (session):** several graphic numbers are **close**; **gun-control 90%**, **tax-the-rich 79%**, **student-loan 73%**, **gerrymander 89%** are **inflated** vs mainstream panels. **§13 findings pass (2026-07-24):** DSA *Workers Deserve More* primary text confirms public ownership / abolish-police horizon; climate “happening” soft-oscillates ~68–74% (not collapse); ACA public option dropped for Lieberman 60; Black/Hispanic 2024 shift real (turnout-heavy); McConnell absent since mid-Jun 2026 fall.
 
-**Status:** Open — author sentiment captured; published three-wing Dem record + bait-switch cites in; climate-decline and full realignment causation still open.
+**Status:** Open — §13 findings pass in (2026-07-24); A5 curriculum / A6 named map / A8 monopoly-civil-rights exhibits still open.
 
 **Guide (read order)**
 
@@ -20,6 +20,7 @@
 10. **Author’s open claims registry** → §10  
 11. **Questions to clarify / verify / debunk** → §11  
 12. **Related** → §12  
+13. **Findings pass (2026-07-24) — open questions researched** → §13  
 
 ---
 
@@ -235,29 +236,29 @@ MAGA **announces necessary goals**, then **acts** (Iran/allies posture, NATO bur
 | # | Claim | Status |
 |---|-------|--------|
 | A1 | Percentage ads are primarily **coalition glue**, not statute menus | Pattern — supported by L1–L4 + poll wording gaps |
-| A2 | Dem Party runs **dual platform** (socialist energy + capitalist denial) | Supported by 2026 published three-wing record |
+| A2 | Dem Party runs **dual platform** (socialist energy + capitalist denial) | **Strengthened** — DSA *Workers Deserve More* vs Promise to America (§13.3–13.4) |
 | A3 | Unity brush-off exists to avoid **losing the kids** / brand collapse | Interpretive — fits incentives; needs internal docs |
-| A4 | Shipped product is **corporatism/usury/bureaucracy**, not communism | Strong on ACA archetype + progressive betrayal literature + Heritage corporate-socialism rhyme |
-| A5 | Early education expansion without life-skills is **anti-family prep** | Author thesis — needs curriculum audits |
-| A6 | Jim Crow / gerrymander smears used **ahead of evidence** to block alternatives | Plausible pattern — prove case-by-case |
-| A7 | Black/Hispanic realignment driven by **abandonment after propaganda rally** | Gains documented; causation open |
-| A8 | Classical duties (monopoly regulation, civil rights) failed in author’s lifetime | Broad — needs scoped exhibits |
-| A9 | MAGA candor > Dem equal-share honesty | Directionally supported; absolute “never lied” falsified on Ukraine clock |
-| A10 | Climate “happening” majority declining hard | Contradicted by latest Yale/GMU raw belief; may be true of other climate items |
+| A4 | Shipped product is **corporatism/usury/bureaucracy**, not communism | **Strengthened** — Lieberman/public-option drop + ACA path (§13.2) |
+| A5 | Early education expansion without life-skills is **anti-family prep** | Author thesis — needs curriculum audits (**still open**) |
+| A6 | Jim Crow / gerrymander smears used **ahead of evidence** to block alternatives | Plausible — **needs author-named map/ad** (§13.8 / ask) |
+| A7 | Black/Hispanic realignment driven by **abandonment after propaganda rally** | Gains **documented**; causation **partial** — turnout + economy/crime/immigration salience (§13.5) |
+| A8 | Classical duties (monopoly regulation, civil rights) failed in author’s lifetime | Broad — needs scoped exhibits (**still open**) |
+| A9 | MAGA candor > Dem equal-share honesty | Directionally supported; Ukraine clock + tariffs/deportation “In the Works” (§13.7) |
+| A10 | Climate “happening” majority declining hard | **Softened** — oscillates ~68–74% 2023–26; media-hearing clearer down; not a collapse (§13.1) |
 
 ---
 
 ## 11. Questions to clarify, verify, or debunk
 
-| Question | How to adjudicate |
-|----------|-------------------|
-| Which climate series are declining (belief vs worry vs policy)? | Yale/GMU + Gallup threat/worry time series side-by-side |
-| Whip counts when Dems last held trifecta on M4A / public option | Congressional record; Obama public-option drop docs (Lever) |
-| DSA platform ownership clauses vs candidate soft branding | Primary DSA docs + campaign ads |
-| Precinct evidence for specific “anti-Black gerrymander” claims cited in ads | Map-level expert reports, not slogans |
-| Hispanic/Black GOP shift issue salience (crime, schools, border, wages) | ANES / Pew cross-tabs by cycle |
-| McConnell health/absence timeline vs whip influence | Press chronology; vote participation |
-| MAGA-Meter full matrix vs author “necessary goals” list | Align Iran/NATO/UN/border/tariff rows only |
+| Question | Status after §13 | Still need |
+|----------|------------------|------------|
+| Which climate series are declining (belief vs worry vs policy)? | **Adjudicated enough** | Optional: policy-support series |
+| Whip counts when Dems last held trifecta on M4A / public option | **Adjudicated enough** (2009–10 path; Biden-era no floor M4A) | Optional: whip memo FOIA |
+| DSA platform ownership clauses vs candidate soft branding | **Adjudicated** (primary program text) | Optional: specific candidate ads |
+| Precinct evidence for specific “anti-Black gerrymander” claims | **Blocked** — need named map/ad | Author input |
+| Hispanic/Black GOP shift issue salience | **Partial** — Pew 2024 | Optional: ANES micro |
+| McConnell health/absence timeline | **Documented** (Jun–Jul 2026) | Optional: vote-miss tally |
+| MAGA-Meter vs “necessary goals” | **Partial** — border/tariffs/Ukraine; Iran/NATO/UN thinner on meter | Optional: UN/WHO exit rows |
 
 ---
 
@@ -274,13 +275,122 @@ MAGA **announces necessary goals**, then **acts** (Iran/allies posture, NATO bur
 
 ---
 
+## 13. Findings pass (2026-07-24) — open questions researched
+
+### 13.1 Q1 / A10 — Climate: belief vs worry vs media hearing
+
+**Documented (Yale/GMU *Climate Change in the American Mind*):**
+
+| Wave | “Global warming is happening” (Yes) | At least somewhat worried |
+|------|-------------------------------------|---------------------------|
+| Apr 2023 | ~74% (recent-series high) | (worry band ~61–70% recent years) |
+| May 2025 | **69%** | **65%** |
+| Nov 2025 | **72%** | **64%** |
+| Apr 2026 | **68%** | **66%** |
+
+Sources: [Fall 2025 GMU summary](https://climatecommunication.gmu.edu/all/climate-change-in-the-american-mind-beliefs-attitudes-fall-2025/); [Spring 2026 Yale PDF](https://climatecommunication.yale.edu/app/uploads/2026/07/climate-change-american-mind-beliefs-attitudes-spring-2026.pdf).
+
+**Gallup:** “great deal” of worry remains historically elevated (~44% Mar 2026 near highs) — [Gallup](https://news.gallup.com/poll/708050/climate-change-concern-near-high-point.aspx).
+
+**Finding:** Author’s “declining for real” is **not** a collapse of raw belief. Belief **soft-oscillates** in the high-60s to low-70s after mid-70s peaks. Spring 2026 PDF notes **media / social / interpersonal hearing** about global warming has **trended downward** since 2021–22 highs — that series better matches a “cooling salience” story than the graphic’s flat **72%**.
+
+**Verdict on A10:** Downgrade from “collapse” to **mild oscillation + salience fade**; graphic’s 72% remains a **fair snapshot**, not a fraud, but also **not proof of rising crisis consensus**.
+
+### 13.2 Q2 / A4 — Public option / M4A when Dems could legislate
+
+**Documented (2009–10 ACA path):**
+
+- House progressive energy included a **public option**; Senate path required **60**.
+- Sen. **Joe Lieberman** (I-CT) threatened to block any bill with a public option or Medicare buy-in for ages 55–64.
+- White House (incl. **Rahm Emanuel**) pressed Reid to **cut the deal** — public option **and** Medicare buy-in **dropped** to lock Lieberman’s yes ([Politico](https://www.politico.com/story/2009/12/obama-cautiously-optimistic-on-bill-030601); contemporaneous NYT/CNN).
+- Result: **private-exchange ACA**, not single payer.
+
+**Biden-era trifecta:** Sanders/Jayapal **Medicare for All** bills were **reintroduced for messaging**; **no successful floor enactment**. Progressive literature treats Dems as a **“dead end”** for single payer when they hold power (Sirota / Workers Strike Back lane already cited §6).
+
+**Finding:** Author’s M4A→Obamacare bait-switch is **historically grounded**. The equal-share noun was **negotiated away** to protect a **60-vote insurer-compatible statute**.
+
+### 13.3 Q3 — DSA primary program vs soft branding
+
+**Primary text (*Workers Deserve More*, DSA program site, 2025–26):**
+
+- Goal: “**ending capitalist oligarchy**”; “**draft a new constitution**”; “**democratic socialist republic**.”
+- **Economic Democracy:** “**Establish public ownership of the largest corporations and essential industries**…”
+- **End Mass Incarceration:** steps “towards **fully abolishing the police and prison system**…”
+- **A Real Democracy:** “**Replace the President and Supreme Court** with an executive and judiciary chosen by and subordinate to Congress”; abolish Electoral College; abolish Senate; multi-party proportional system.
+- Housing as right via **publicly-owned social housing**; healthcare universal at no individual cost; free Pre-K→college; cancel student debt.
+- Foreign policy: end U.S. war machine, Free Palestine, end sanctions on Cuba/Venezuela/Iran, **Abolish ICE**.
+
+Source: [program.dsausa.org](https://program.dsausa.org/) (program committee draft Apr–Jun 2026 per authors’ note).
+
+**Finding:** Soft candidate branding (“Nordic,” “just Medicare for All”) is **downstream marketing**. Organizational program is **explicitly post-capitalist** and **structural** (new constitution, public ownership, abolish police/prisons as horizon). Centrist denial (“we are capitalists”) and MAGA “communist” attack are both responding to a **real text**, with different precision.
+
+### 13.4 Promise to America (centrist counter-text)
+
+Stable URL: [thepromisetoamerica.com](https://www.thepromisetoamerica.com/).
+
+Key lines (Documented):
+
+- “**We are capitalist, not socialist.**”
+- “**We want safety, not lawlessness.**”
+- “**We are responsible, not reckless.**”
+- “**We believe government should solve problems, not create them.**”
+- “**We are mainstream, not extreme.**”
+- “**We are proud, not ashamed of America.**”
+
+**Finding:** Dual platform is **on paper** — DSA program vs PTA pledge — not merely vibes.
+
+### 13.5 Q5 / A7 — Black / Hispanic 2024 shift + issue salience
+
+**Documented (Pew, 2024–25):**
+
+- **Hispanic:** Trump nearly even in 2024 (Harris +3) vs Biden +25 in 2020; Trump share ~48% vs ~36% in 2020 ([Pew voting patterns](https://www.pewresearch.org/politics/2025/06/26/voting-patterns-in-the-2024-election/)).
+- **Black:** Trump ~15% in 2024 vs ~8% in 2020; Harris still ~83%.
+- Pew stresses **turnout composition** (who showed up) as a major driver alongside some switching.
+- **Latino Trump supporters’** top “very important” issues: **economy, violent crime, immigration** ([Pew Latino 2024](https://www.pewresearch.org/race-and-ethnicity/2024/09/24/in-tight-u-s-presidential-race-latino-voters-preferences-mirror-2020/)).
+- **Black voters** overall prioritize **economy, health care, racial inequality, violent crime** — and remained more confident in Harris on most issues ([Pew](https://www.pewresearch.org/short-reads/2024/09/30/on-most-issues-black-voters-are-more-confident-in-harris-than-trump/)).
+
+**Finding:** Author’s **shift** claim is **real**. Author’s **abandonment-after-propaganda** causal chain is **plausible** where Trump Latino salience matches kitchen-table order issues — but Pew’s turnout story means “they were deceived then woke up” is **incomplete** without modeling **who stopped voting Dem**. Keep A7 as **partial**.
+
+### 13.6 Q6 — McConnell absence
+
+**Documented:**
+
+- Hospitalized **2026-06-14** after a fall; weeks of minimal disclosure.
+- **2026-07-12/13** statement: briefly unconscious; mild pneumonia; rehab; will not return to floor “quite yet”; attributes mobility issues partly to post-polio ([PBS](https://www.pbs.org/newshour/politics/mcconnell-says-a-fall-led-to-his-hospitalization-breaking-weeks-of-silence-about-health-condition); [BBC](https://www.bbc.com/news/articles/cvge2nd611zo)).
+- Kentucky Gov. Beshear publicly pressed for transparency; conspiracy speculation filled the silence.
+
+**Finding:** Author’s “not seen in two months” matches the **Jun–Jul 2026** gap. Supports **RINO institutional opacity** as a contrast to MAGA communication style — separate from proving McConnell “lied” about policy. Cross-link [RINO dossier](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md).
+
+### 13.7 Q7 — MAGA-Meter vs author “necessary goals”
+
+| Author goal class | Tracker-style status (as of mid-2026 reporting) | Candor note |
+|-------------------|--------------------------------------------------|-------------|
+| Mass deportation / border | **In the Works** — funding + raids; pace below 1M/year goal ([PolitiFact](https://api.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/1617/carry-out-the-largest-domestic-deportation-operati/article/3213/)) | Direction pursued; scale incomplete |
+| Broad tariffs 10–20% | **In the Works** after SCOTUS IEEPA setback; alternate authorities sought | Pre-announced; legal fight visible |
+| Ukraine in 24 hours | **Broken** | Hyperbole failed |
+| NATO burden / alliance pressure | Publicly pursued (summit rhetoric; allied spending pushes) — thinner as a single MAGA-Meter row | Matches “everyone knows why” |
+| Iran / ally posture | Visible ops/diplomacy in 2025–26 reporting; not reduced to one meter cell here | Matches author “necessary” framing |
+| UN skepticism | Needs dedicated promise-row audit | Still open detail |
+
+**Finding:** Author contrast survives as **pre-announced direction + visible tools**. Absolute perfection fails on Ukraine clock and incomplete deportation/tariff outcomes.
+
+### 13.8 Q4 — Gerrymander / Jim Crow ad claims (**need author input**)
+
+No specific viral ad or state map was attached to the session claim. Cannot adjudicate “ahead of evidence” without a **named map** (e.g. TX/NC/GA cycle) or **named ad** citing Black vote suppression via gerrymander.
+
+**Ask:** Which map or ad should §13.8 audit first?
+
+---
+
 ## Weak points / remaining research TODOs
 
-- [ ] Archive a **primary copy** of the exact “THIS IS AMERICA!” graphic (hash + date found) under `governance/usury/communism/`  
-- [ ] Pull **DSA platform** PDF excerpts (ownership / police / Court) into a cite table  
-- [ ] Add **Promise to America** full pledge text once stable URL confirmed  
-- [ ] Curriculum examples for Pre-K/K-12 “propaganda vs life skills” (state frameworks)  
-- [ ] Cross-link any future reader article if authored  
+- [x] Archive “THIS IS AMERICA!” graphic under `governance/usury/communism/` (sha256 `abb382837116a73fc1a5a89796fabeff1362e68795447483508758ad03e9fc5f`, dated 2026-07-24)
+- [x] Pull DSA *Workers Deserve More* ownership / police / Court clauses (§13.3)
+- [x] Promise to America pledge text (§13.4) — [thepromisetoamerica.com](https://www.thepromisetoamerica.com/)
+- [ ] Curriculum examples for Pre-K/K-12 “propaganda vs life skills” (state frameworks) — **still open**
+- [ ] Author-named gerrymander map/ad for §13.8
+- [ ] Scoped monopoly-regulation / civil-rights failure exhibits (A8)
+- [ ] Cross-link any future reader article if authored
 
 ---
 
@@ -296,16 +406,17 @@ Keywords: #ThisIsAmerica #PercentageAds #DemocraticSocialism #BaitAndSwitch #Cor
 
 - **Author thesis sections (§1, §10)** are **first-class** reasons this file exists; they are **not** automatically factual. Labels **Author / Documented / Speculative** separate stakes from verification.  
 - **Poll numbers** move with **wording and year**; the session audit is a **snapshot**, not a meta-analysis.  
-- **“Communism”** in author voice means **equal-share / collectivist moral pitch + federal primacy**; AP/PolitiFact correctly note the Dem Party is **not** the CPUSA — that fact **does not** erase dual-platform or bait-switch patterns.  
-- **MAGA candor** is a **comparative** claim under dossier guardrails; **Ukraine-in-24-hours** and “kept all promises” are documented overclaims.  
+- **“Communism”** in author voice means **equal-share / collectivist moral pitch + federal primacy**; AP/PolitiFact correctly note the Dem Party is **not** the CPUSA — that fact **does not** erase dual-platform or bait-switch patterns. DSA’s own program text (§13.3) is stronger evidence for **organizational** post-capitalist goals than for every Democrat officeholder.  
+- **MAGA candor** is a **comparative** claim under dossier guardrails; **Ukraine-in-24-hours** and incomplete deportation/tariff outcomes are documented limits.  
 - **Related investigations** are thematic rhymes, not proof that every party actor shares one conspiracy brief.  
-- Assistant compiled published sources in-session (Jul 2026); primary graphic file archival and DSA PDF excerpts remain TODOs.
+- §13 is a **research pass**, not closure of A5/A6/A8.
 
 ---
 
 ## Investigator notes
 
-- Session origin: user shared “THIS IS AMERICA!” percentage infographic; requested real stats; then rhetorical/political investigation; then published opinions deep dive; then **capture all sentiment** into paradigm-threat-files.  
+- Session origin: user shared “THIS IS AMERICA!” percentage infographic; requested real stats; then rhetorical/political investigation; then published opinions deep dive; then **capture all sentiment** into paradigm-threat-files; then open-questions pass 2026-07-24.  
 - Local IDE canvases (not in this repo): `~/.cursor/projects/home-ari-dev-pt/canvases/this-is-america-stats-factcheck.canvas.tsx`, `deceptive-stats-ads-investigation.canvas.tsx`, `deceptive-stats-deep-dive.canvas.tsx`.  
-- Source image of viral graphic (chat asset): `~/.cursor/projects/home-ari-dev-pt/assets/image-1d8f590f-b6ce-495e-ad8f-77df15099679.png` — consider copying into `governance/usury/communism/` when author wants on-site archive.  
-- Folder choice: `governance/usury/communism/` — equal-share pitch vs corporatist/usury delivery; cross-links RINO + managed-democracy corpus.
+- Archived graphic: `governance/usury/communism/this-is-america-percentage-graphic-2026-07-24.png` (from chat asset `image-1d8f590f-…`).  
+- Folder choice: `governance/usury/communism/` — equal-share pitch vs corporatist/usury delivery; cross-links RINO + managed-democracy corpus.  
+- **Ask author:** which gerrymander map/ad for §13.8; whether to pursue A5 curriculum exhibits next.
