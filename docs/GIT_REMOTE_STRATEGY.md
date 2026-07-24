@@ -46,6 +46,8 @@ git push dfw1 HEAD:main && git push hkg1 HEAD:main && git push lon1 HEAD:main
 3. Prefer **`hkg1` / `lon1`** if **`dfw1`** is unreachable; then repair dfw1. Do not wait forever on `pushDefault=dfw1`.
 4. Mesh ops / env timeouts: relay-gateway **`docs/RELAY_MESH_OPS.md`**.
 
+*Validated: non-blocking post-receive deploy on lon1/hkg1 (2026-07-24).*
+
 **Hard rules**
 
 1. All four remotes’ `main` tips must stay identical (or FF-compatible from the same spine).
