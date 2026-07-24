@@ -39,6 +39,13 @@ git push gitlab HEAD:main
 git push dfw1 HEAD:main && git push hkg1 HEAD:main && git push lon1 HEAD:main
 ```
 
+**If a Relay push hangs** (often a dead Spot or slow `post-receive` on an old binary):
+
+1. Push **one remote at a time** with a client timeout (e.g. `timeout 90 git push dfw1 HEAD:main`).
+2. Check `git ls-remote <remote> refs/heads/main` — if the tip already matches `HEAD`, kill the hung client; the pack was accepted.
+3. Prefer **`hkg1` / `lon1`** if **`dfw1`** is unreachable; then repair dfw1. Do not wait forever on `pushDefault=dfw1`.
+4. Mesh ops / env timeouts: relay-gateway **`docs/RELAY_MESH_OPS.md`**.
+
 **Hard rules**
 
 1. All four remotes’ `main` tips must stay identical (or FF-compatible from the same spine).
