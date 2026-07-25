@@ -105,6 +105,7 @@ Before the final strike, President Thomas J. Whitmore addresses the combined pil
 - [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) — **Installment I:** *Matrix* two-camp handoff.
 - [**Everything Burns**](https://paradigmthreat.net/influence/hollywood/everything-burns.md) — **Installment II:** Pacific / *Dark Knight* / *24*.
 - **Everything in Independence Day Is True** (this page) — **Installment III:** *ID4*; everything true; holiday farce vs real declaration; Whitmore.
+- [**The Arrival Treated Us Like Adults**](https://paradigmthreat.net/influence/hollywood/the-arrival-treated-us-like-adults.md) — **Installment IV:** *The Arrival* (1996) vs *Signs* (2002); media reset; crop circles / mudflood.
 
 **Technical companions:**
 

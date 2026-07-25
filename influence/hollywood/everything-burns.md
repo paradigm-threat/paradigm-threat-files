@@ -121,6 +121,7 @@ As long as **communication channels stay open**, the China threat on screen does
 - [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) — **Installment I:** *Matrix* two-camp handoff, *Reloaded* Oracle-as-control, MxO, *Resurrections*.
 - **Everything Burns** (this page) — **Installment II:** Pacific / Hong Kong / *Dark Knight* / *24* / *Joker* calendar.
 - [**Everything in Independence Day Is True**](https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.md) — **Installment III:** *ID4*; everything true; holiday farce vs real declaration; Whitmore; biosuit/Wells.
+- [**The Arrival Treated Us Like Adults**](https://paradigmthreat.net/influence/hollywood/the-arrival-treated-us-like-adults.md) — **Installment IV:** *The Arrival* (1996) vs *Signs* (2002); media reset; crop circles / mudflood.
 
 **Technical companions (not series installments):**
 
