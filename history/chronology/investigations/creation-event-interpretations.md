@@ -843,6 +843,8 @@ The Kojiki begins with divine emergence and island/deity formation. The checked 
 
 **Cross-read:** [Indigenous legends vs. geologic deep-time](/history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.md) — where **sacred cosmogony** meets **institutional geochronology** on **named places** (volcanoes, island chains), not only **scriptural** creation order.
 
+**Creator gender / mother memory:** [God Is a Woman!](/influence/religion/god-is-a-woman.md) — reader essay; [creator gender redaction investigation (AU-040)](/influence/religion/investigations/god-is-a-woman-creator-gender-redaction-investigation.md) — feminine Creator, Baal→mal, Mishnah, Asherah.
+
 ---
 
 Keywords: #Creation #Event #Interpretations #Across #Religions

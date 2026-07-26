@@ -3,7 +3,7 @@
 > **TL;DR:** Central index of **Paradigm Threat / author** claims that are **not** standard Fomenko, Illig, Velikovsky, etc., and for which **no close prior-art match** has been found in mainstream or NC literature after repo search. Each entry links to its **canonical dossier** or timeline event. **Prior art: none** means **no external author stating the same package** — adjacent ideas may exist; see per-file Limits.
 
 **Status:** Living registry (add rows when a new author-unique thread ships).  
-**Last updated:** 2026-07-24 (AU-038 Amaruka / Khan Meru / Wall Street Ottoman wall)
+**Last updated:** 2026-07-26 (AU-040 God Is a Woman — feminine Creator / Baal→mal)
 **Lexical redaction cross-ref hub:** [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — master table for all **word-redaction** dossiers (**AU-027** meta-thesis).
 
 ---
@@ -57,6 +57,7 @@ Per-investigation **§ Author open claims** blocks remain the **detail** registr
 | ID | Theory (short) | Prior art | Canonical doc |
 |----|----------------|-----------|-----------------|
 | **AU-037** | **2020 selective battleground theft** + delay exploit; AZ log denial + spectacle recount; antibodies → **2026** audits; Edison = poisoned-hinge CO; **one-node → network-collapse** virus; midterm legitimacy **all-or-nothing / faith**; **no** institutional-headline faith owed | **partial** (pieces widespread; **full package** author) | [2020 election fraud dossier](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) |
+| **AU-039** | **NSA-aligned presidencies gauge** — only **Republican** nominees readable for constituent groundedness; **Nixon** grounded / crook-smear containment; **Reagan** Hollywood construct + CIA/globalist Russia-war play (media = incompetent puppet); **Trump** decades NSA containment plan; ***BTTF* 1–2** NSA; PATCO + ***Airplane*** attack lane | **partial** (Watergate CO / Reagan actor lore / Trump antibody widespread; **three-president gauge + attack-knife inversion package** author) | [NSA-aligned presidencies](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md) |
 
 ## Christianity & war (author vs Fomenko)
 
@@ -66,6 +67,7 @@ Per-investigation **§ Author open claims** blocks remain the **detail** registr
 | **AU-016** | Strict **martyr** = held belief under mob duress; Istanbul crucifiers **not** martyrs | **author** | [Martyr word history](/governance/war/investigations/martyr-word-history-investigation.md) |
 | **AU-031** | **Nine-inch crucifixion nails** fit **giant** Passion; narrative **shrunk** giant→small human; **inch/foot** metrology **rescaled** — dig nails **do not** debunk without unit conversion | **none** (2026-07-03) | [Crucifixion giant redaction — nail metrology](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) |
 | **AU-032** | **Dead Planet Protocol:** Mars **surface cities dismantled** (~1918–1962); **portal-first** travel; **CERN** = Earth–Mars transport under **dead-Mars** illusion; **Mars side ≠ Geneva** | **none** (2026-07-03) | [CERN dossier §3.4–§3.6](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) · [timeline event](/timeline/evt-mars-surface-dismantling-dead-planet-protocol) |
+| **AU-040** | **God is a woman** — Golden Age Creator remembered as **female**; Dark Age **Baal→Maal/mal** pejoration; love vs fear religion split; Exodus male intervenor; solar interlude; Mishnah knowledge lock; distress prayer = mother memory | **partial** (Kogi/Shawnee/Tao mother language; Asherah; Baal–Saturn; Baal→*bosheth*; *mal-* = bad; Saturnian ages — **full package** author) | [Reader essay](/influence/religion/god-is-a-woman.md); [investigation](/influence/religion/investigations/god-is-a-woman-creator-gender-redaction-investigation.md) |
 
 ---
 

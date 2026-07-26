@@ -89,6 +89,7 @@ If there is hard news in this article, it is this. Earth is not guaranteed milli
 
 ## Where next
 
+- [God Is a Woman!](https://paradigmthreat.net/influence/religion/god-is-a-woman.md) — feminine Creator, Saturn mother principle, Dark Age gender flip; [AU-040 dossier](https://paradigmthreat.net/influence/religion/investigations/god-is-a-woman-creator-gender-redaction-investigation.md).  
 - [DNA as fingerprint, not blueprint](https://paradigmthreat.net/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) — field junction, blueprint critique, limits and evidence tiers.  
 - [Creation event interpretations](https://paradigmthreat.net/history/chronology/investigations/creation-event-interpretations.md) — hemispheric memory, scalar **rib** read, tradition table.  
 - [Afterlife maps and Tibetan Bardo](https://paradigmthreat.net/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.md) — comparative table, **bardo** thumbnail.  
