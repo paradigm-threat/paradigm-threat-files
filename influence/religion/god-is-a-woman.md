@@ -2,13 +2,15 @@
 
 And I’m Gonna Prove It
 
-![Golden Age remembered — Bosch garden as creation memory](https://paradigmthreat.net/history/chronology/saturn/golden_age_hieronimus_bosch.jpg)
+![God Is a Woman — Golden Age mother Creator to Dark Age male punisher](https://paradigmthreat.net/influence/religion/god-is-a-woman.png)
 
 I’m writing a book called ***The Third Story***. It tells the full story of Earth and the other planets up until the modern day. This is a simplified version of that story, with the extra context and citations filled in. I’m essentially going to narrate it straight: **God is a woman.**
 
 ## Warm darkness
 
 The story of Earth starts exactly the same as the stories of any life form that has ever been born on Earth. A long-lasting period of warm darkness. Full sustenance. No conflict. Very little light, if any. It’s sort of like a seed that cannot die and is waiting to be born.
+
+![Golden Age remembered — Bosch garden as creation memory](https://paradigmthreat.net/history/chronology/saturn/golden_age_hieronimus_bosch.jpg)
 
 Every mammal still lives that chapter in the womb. The old sky stories describe the same thing: a long dark time before day and night as we know them, before people started arguing about who was watching. In the Saturnian timeline, Earth lived that chapter too. More on the field and womb side is in [Circle of Life](https://paradigmthreat.net/science/biology/circle-of-life-and-how-it-began.md) and the [chronology hub](https://paradigmthreat.net/history/chronology/page.md). Before anyone argued about God, there was gestation.
 
