@@ -84,15 +84,11 @@ Later, the monotheists would cause incursions around the world, converting or ki
 
 ## Read the Mishnah
 
-Thenceforth, if you don’t believe me, read the Mishnah.
-
-Not the Talmud by accident. Not Maimonides’ code by renaming. The Mishnah — early rabbinic law compiled around 200 CE. In *Seder Nashim*, the Order of Women, marriage, divorce, vows, and suspicion already run around male authority. And in [Mishnah Sotah 3:4](https://www.sefaria.org/Mishnah_Sotah.3.4), after Ben Azzai says a man should teach his daughter Torah, Rabbi Eliezer answers: anyone who teaches his daughter Torah is teaching her promiscuity (*tiflut*).
+The Mishnah — early rabbinic law compiled around 200 CE. In *Seder Nashim*, the Order of Women, marriage, divorce, vows, and suspicion already run around male authority. And in [Mishnah Sotah 3:4](https://www.sefaria.org/Mishnah_Sotah.3.4), after Ben Azzai says a man should teach his daughter Torah, Rabbi Eliezer answers: anyone who teaches his daughter Torah is teaching her promiscuity (*tiflut*).
 
 That line did not invent every patriarchy on Earth. It shows the mechanism in plain court Hebrew: knowledge for daughters framed as danger; male gatekeeping framed as piety. Ben Azzai’s opposite opinion is still in the same mishnah, so the fight was live. Eliezer’s side is the one later piety liked to remember. And that is the true reason why god was forgotten as a woman.
 
 ## Mama, be with me
-
-![Hairy Mary — mother persistence in Christian art](https://paradigmthreat.net/influence/religion/hairy_mary/hairy_mary.jpg)
 
 But for those people of any religion who still believe that god has always been on their side and they yell that name when they’re in distress, they don’t do so because the church told them that god was a man. They do so because they remember that god was the mother, and this is how every life form always acts towards its mother.
 
@@ -118,6 +114,8 @@ So that’s the real nature of praising God. The mother that you always want to 
 Hard thesis in the body. Documented anchors include feminine supreme-creator ethnography, Taoist mother language, Asherah debate, Baal–Saturn syncretism, biblical Baal→shame pejoration, Latin *mal-* = bad, Mishnah *Sotah* 3:4, and the *Silent Hill* (2006) mother lines. The Baal→mal sound-bridge and the ball/balance/ballerina family as one Golden Age root are my synthesis — open against handbook etymology. “Only women create” is a philosophical claim here, not a lab result. Osiris “pieces” and Crusade-era monotheism are story-scale summaries; incompatible mappings stay separated in the linked investigation. Critiquing patriarchal legal texts is not a license to monolith any living people — see the [working definition of antisemitism](https://paradigmthreat.net/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md).
 
 Keywords: #GodIsAWoman #FeminineCreator #Baal #Mal #Saturn #GoldenAge #DarkAge #Asherah #Mishnah #Monotheism #SilentHill #ThirdStory #ParadigmThreatFiles
+
+**Substack:** [paradigmthreat2.substack.com/p/god-is-a-woman](https://paradigmthreat2.substack.com/p/god-is-a-woman)
 
 **Last updated:** 2026-07-26
 
