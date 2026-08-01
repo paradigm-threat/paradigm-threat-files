@@ -95,6 +95,8 @@ The working architecture for Netanyahu himself is **protective controlled contin
 
 Keywords: #Netanyahu #SinEater #ControlledVisibility #Iran #Antibody #October7 #FakeDeath #CongressSpeech #GrahamFuneral #BlairHouse #FamilyStopLine #DualTrack #PhotoOp #ProofOfLife #LasVegas #Paris #NotreDame #FalseFlag #NSA #Mossad
 
+**Substack:** [paradigmthreat2.substack.com/p/the-death-rumor-that-protected-him](https://paradigmthreat2.substack.com/p/the-death-rumor-that-protected-him)
+
 **Last updated:** 2026-08-01
 
 ---
