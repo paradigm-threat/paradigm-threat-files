@@ -205,7 +205,7 @@ This section **unpacks** §3 in **analytic** form: it **does not** merge author 
 ## 10. Cross-reference
 
 - [Ted Cruz, Kevin Malone (*The Office*), and the “Hijacked Plan” Hypothesis](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md) — **Epstein**-**adjacent** **leverage**, **~2005** **GOP** **crisis**, **Cruz** **vs** **media**/**Angry** **Birds** **filter**; **pairs** **with** **§7.5** **here**.  
-- [Would Netanyahu Want a Faked Death Here? — Motive, Timeline, and Iran Narrative](netanyahu-faked-death-shiva-rumors-investigation.md) — **successor-era** leadership rumors.  
+- [Netanyahu faked-death / controlled visibility](netanyahu-faked-death-shiva-rumors-investigation.md) — **successor-era** protective continuity; Aug 2026 prediction audit. Reader: [The Death Rumor That Protected Him](/events/false_flag/the-death-rumor-that-protected-him.md).  
 - [British Empire Divide-and-Conquer — Israel, India/Pakistan, Africa](/governance/war/investigations/british-divide-conquer-israel-investigation.md) — **Mandate** and **partition** template.  
 - [CIA — OSS Rebrand, Nazi Gold, Iran, 9/11, and the Antibody Thesis](/governance/war/investigations/cia-investigation.md) — **Iran** **pipeline**, **DU**/**nuclear** **blind** **spots**, **extremist** **inheritance** thesis.  
 - [Dubious “Stand Down” Orders — Benghazi, Libya](/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md) — **Libya** **vacuum** / **US** **role** **cluster**.  

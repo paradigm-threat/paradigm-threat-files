@@ -115,8 +115,8 @@ Institute for the Study of War and Western sources allege Russian false-flag pla
 ### Iran 2026 (Minab School Strike)
 See [Iran 2026 Propaganda Thesis](iran-2026-propaganda-thesis.md). **Project theory:** Iran may be hitting its own schools and staging "training missions" as propaganda during war. Mainstream narrative: U.S./Israel strike; both deny.
 
-### Israel 2026 (Netanyahu — motive for faked death at rumor window)
-See [Netanyahu Faked Death / Shiva Rumors Investigation](netanyahu-faked-death-shiva-rumors-investigation.md). Assesses **likelihood he would *want*** a faked death at the March 2026 juncture (political relief, goals plateau, Iran narrative if exposed); rumor chain and fact-checks are **context only**, not evidence scoring.
+### Israel 2026 (Netanyahu — controlled visibility / faked-death motive)
+See [Netanyahu Faked Death / Shiva Rumors Investigation](netanyahu-faked-death-shiva-rumors-investigation.md) and reader essay [The Death Rumor That Protected Him](/events/false_flag/the-death-rumor-that-protected-him.md). March 2026 rumor window + Apr 24 health reset; author **soft prediction** (no uncontrolled confirmable appearance; **2026 Congress speech** as main falsifier) **held** through Aug 2026 audit (Blair House aligned set; Graham funeral as non-public cover). Hard literal death remains open. Rumor chain and fact-checks are **context**, not closed proof.
 
 ### Israel — Ariel Sharon (Gaza 2005, coma, mediated “body politic”)
 See [Ariel Sharon — Gaza, Coma, Controlled-Opposition Threads](ariel-sharon-gaza-coma-controlled-opposition-investigation.md). **Documented:** disengagement timeline, Philadelphi/legal-debate summary, stroke-to-death arc, **Noam Braslavsky** 2010 Kishon Gallery installation. **Speculative:** British/deep-state **pattern** fit, **rhyme** with [CIA Iran pipeline thesis](/governance/war/investigations/cia-investigation.md) (withdrawal → militant-filled space). Not scored as proof of recruitment or substitution.
@@ -140,7 +140,8 @@ See [Ariel Sharon — Gaza, Coma, Controlled-Opposition Threads](ariel-sharon-ga
 - [False Flags](../a.md)
 - [9/11 Investigation](09-11-investigation.md)
 - [Iran 2026 Propaganda Thesis](iran-2026-propaganda-thesis.md)
-- [Netanyahu Faked Death / Shiva Rumors Investigation](netanyahu-faked-death-shiva-rumors-investigation.md)
+- [Netanyahu Faked Death / Controlled Visibility](netanyahu-faked-death-shiva-rumors-investigation.md)
+- [The Death Rumor That Protected Him](/events/false_flag/the-death-rumor-that-protected-him.md)
 - [Ariel Sharon — Gaza, Coma, Controlled-Opposition Threads](ariel-sharon-gaza-coma-controlled-opposition-investigation.md)
 - [Related false flags after 9/11 — Oct 7 / France / Vegas / *Children of Men*](related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md)
 - [Appendix: False Flags Evidence Dossier](/timeline/evt-false-flags-appendix)

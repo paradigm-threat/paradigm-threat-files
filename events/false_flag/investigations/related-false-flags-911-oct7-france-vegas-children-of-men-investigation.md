@@ -1,6 +1,6 @@
 # Investigation: Related False Flags after 9/11 — Oct 7, France, Las Vegas, *Children of Men*, and the Perp-Walk Rebrand War
 
-> **TL;DR:** Open dossier on **post-9/11 related false-flag / staged-terror grammar** as read through the **NSA antibody vs CIA Deep State** board. **Author spine:** early **France** and **Las Vegas** attacks (Arab-terrorist guise) look like **NSA- or Mossad-aligned preemptive staging** — early hotspots so a **controllable response** lands **before** radical-Islam tech/holy-war overflow becomes the ***Children of Men*** end-state. **October 7 (2023)** is a **related** board event (not a copy of 9/11 physics). **Rebrand war:** CIA/Deep State–aligned **truth movements** try to convert these events into **perp-walk / media / activist-judge** campaigns that **erase** what antibody actors built — including a **Democrat-aligned walk against Netanyahu (“Bibi”)** over Oct 7. **Gage specimen:** RG911 restacking Corbett that the wildest Oct 7 “conspiracy theories” are the ones **promoted by U.S. and Israeli governments** — same **perp-walk CO flag** as [Gage §12](./richard-gage-ae911truth-controlled-demolition-investigation.md#12-perp-walk--epstein-files-accountability-path--major-co-flag-author-2026-08). Cross-read: [09-11](./09-11-investigation.md), [good-actor](./good-actor-theory-interagency-antibody-investigation.md), [*Children of Men*](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md), [Iran 2026](/governance/war/mission-accomplished-again-iran-2026.md).
+> **TL;DR:** Open dossier on **post-9/11 related false-flag / staged-terror grammar** as read through the **NSA antibody vs CIA Deep State** board. **Author spine:** early **France** and **Las Vegas** attacks (Arab-terrorist guise) — plus **Notre-Dame 2019** day-one **pro-ISIS poster** branding on an “accident” package — look like **NSA- or Mossad-aligned preemptive staging** / headline machines at future radical-Islam hotspots before ***Children of Men*** overflow. **October 7 (2023)** is a **related** board event. **Sin-eater cross-read:** public hate on **Netanyahu** may be the carrier’s load **if** antibody actors touched this grammar — **full disclosure** before agency filter. **Rebrand war:** CIA-aligned **truth movements** convert these into **perp-walk** campaigns (Gage/Corbett **Bibi** specimen). Cross-read: [09-11](./09-11-investigation.md), [good-actor](./good-actor-theory-interagency-antibody-investigation.md), [Death Rumor article](/events/false_flag/the-death-rumor-that-protected-him.md), [*Children of Men*](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md), [Iran 2026](/governance/war/mission-accomplished-again-iran-2026.md).
 
 **Status:** Open — author pattern first-class; event-by-event forensics **not** closed here.  
 **Date opened:** 2026-08-01
@@ -13,7 +13,7 @@
 2. [Two-camp grammar — antibody staging vs perp-walk rebrand](#2-two-camp-grammar--antibody-staging-vs-perp-walk-rebrand)
 3. [*Children of Men* predictor — hotspots and early response](#3-children-of-men-predictor--hotspots-and-early-response)
 4. [France cluster (document + author)](#4-france-cluster)
-5. [Las Vegas 2017 (document + author)](#5-las-vegas-2017)
+5. [Las Vegas 2017 (document + author)](#5-las-vegas-2017) · [Notre-Dame 2016 bomb + 2019 fire](#53-notre-dame-node--2016-failed-bomb--2019-fire-branding)
 6. [October 7, 2023 — related false flag](#6-october-7-2023--related-false-flag)
 7. [Gage / Corbett / Bibi perp-walk specimen](#7-gage--corbett--bibi-perp-walk-specimen)
 8. [CIA rebrand war — destroy the antibody harvest](#8-cia-rebrand-war--destroy-the-antibody-harvest)
@@ -84,8 +84,9 @@ Canonical dossier: [*Children of Men* — NSA future warning](/influence/predict
 | **Charlie Hebdo** | 7–9 Jan 2015 | Islamist attack on satirical magazine / related killings; Kouachi brothers et al. |
 | **Paris / Bataclan** | 13 Nov 2015 | Coordinated shootings/bombings; ISIS claimed |
 | **Nice truck** | 14 Jul 2016 | Bastille Day promenade; truck ramming |
+| **Notre-Dame car bomb (failed)** | 3–4 Sep 2016 | All-female cell; Peugeot with gas cylinders + diesel near cathedral; ignition failed; directed by ISIS Syria operative Rachid Kassim; later convictions | [Wikipedia](https://en.wikipedia.org/wiki/Notre-Dame_de_Paris_bombing_attempt); [Guardian](https://www.theguardian.com/world/2019/oct/15/notre-dame-car-bombing-france-all-female-jihadist-cell-jailed-for-failed-cathedral-attack); [CTC West Point](https://ctc.westpoint.edu/2016-french-female-attack-cell-case-study/) |
 
-Use mainstream chronologies for **dates/counts** ([Wikipedia hubs](https://en.wikipedia.org/wiki/November_2015_Paris_attacks); Charlie Hebdo; Nice attack). This file does **not** re-litigate every forensic dispute.
+Use mainstream chronologies for **dates/counts** ([Wikipedia hubs](https://en.wikipedia.org/wiki/November_2015_Paris_attacks); Charlie Hebdo; Nice attack; Notre-Dame bomb attempt). This file does **not** re-litigate every forensic dispute.
 
 ### 4.2 Author / movement read (L3)
 
@@ -126,6 +127,57 @@ Mainstream hub: [Wikipedia — 2017 Las Vegas shooting](https://en.wikipedia.org
 | **Dual-face ISIS rhyme** | Pairs [good-actor ISIS dual-face](./good-actor-theory-interagency-antibody-investigation.md) — horror brand + **outcome-useful** propaganda claims | Cross-read |
 
 **Closed:** Prior “guise mismatch / Q3” (lone-wolf only) — **retired**. The **Muslim-terror narrative** was **on the wire** via **Amaq within the first day**; FBI denial is a **second track**, not the branding that matters for this dossier’s false-flag grammar.
+
+---
+
+## 5.3 Notre-Dame node — 2016 failed bomb + 2019 fire branding
+
+### 5.3.1 Failed car bombing (Sep 2016) — documented
+
+| Item | Detail | Source |
+|------|--------|--------|
+| **Date** | Night of **3 Sep** / discovery **4 Sep 2016** | [Wikipedia — Notre-Dame de Paris bombing attempt](https://en.wikipedia.org/wiki/Notre-Dame_de_Paris_bombing_attempt) |
+| **Package** | Grey Peugeot near cathedral; **gas cylinders** + **diesel**; cigarette ignition **failed**; perpetrators fled | Same; [BBC trial coverage](https://www.bbc.com/news/world-europe-49794927) |
+| **Cell** | **All-female** jihadist cell (Inès Madani et al.); instructions from French ISIS operative in Syria **Rachid Kassim** | [Guardian sentencing](https://www.theguardian.com/world/2019/oct/15/notre-dame-car-bombing-france-all-female-jihadist-cell-jailed-for-failed-cathedral-attack); [CTC case study](https://ctc.westpoint.edu/2016-french-female-attack-cell-case-study/) |
+| **Outcome** | Plot failed; later terrorism convictions (2019) | Documented |
+
+**Author overlay:** Same **Western apex** as the 2019 fire — **headline-grade** target, **failed** ignition = **low carnage** that still plants Notre-Dame on the jihad map years before the “accident” blaze.
+
+### 5.3.1b April 2019 court headlines → fire recirculation (documented reception)
+
+| Date | Event | Source |
+|------|-------|--------|
+| **12 Apr 2019** | **Inès Madani** (lead 2016 cell figure) sentenced to **8 years** for earlier ISIS **recruitment** offences; press headlines explicitly identify her with the **foiled Notre-Dame car bomb**; car-bomb **assizes** still scheduled for autumn | [TheJournal.ie / AFP](https://www.thejournal.ie/france-jails-jihadist-woman-accused-over-foiled-terror-attack-in-paris-4590216-Apr2019/); [France 24](https://www.france24.com/en/20190412-france-jails-jihadist-woman-accused-over-foiled-terror-attack); [Le Point](https://www.lepoint.fr/societe/neuf-ans-de-prison-requis-contre-la-jihadiste-ines-madani-12-04-2019-2307375_23.php) |
+| **15 Apr 2019** | Notre-Dame fire | Mainstream chronologies |
+| **15–16 Apr 2019+** | Social / researcher recirculation: Madani / 2016-plot headlines tied to the fire; viral claim of a **fresh** Notre-Dame terror **arrest** “three days ago”; implication the fire was **not an accident** and ISIS-linked actors were newly in the frame | [AP fact-check](https://apnews.com/article/4466860006) (false on fresh arrest; notes Apr 12 sentencing posts + 2016 links); [BuzzFeed recirculation timeline](https://www.buzzfeednews.com/article/janelytvynenko/notre-dame-hoax-timeline) |
+| **14–15 Oct 2019** | Full five-woman **sentences for the 2016 bomb attempt itself** (Madani 30 yrs, etc.) — **after** the fire | [BBC](https://www.bbc.com/news/world-europe-50053555); [Guardian](https://www.theguardian.com/world/2019/oct/15/notre-dame-car-bombing-france-all-female-jihadist-cell-jailed-for-failed-cathedral-attack) |
+
+**Calendar discipline:** Do **not** date the **Oct 2019** car-bomb convictions as “weeks before” the fire. The **pre-fire** court beat is **Madani’s 12 Apr 2019 recruitment sentence**, whose headlines named the Notre-Dame bomb plot and were then **recirculated** into the fire story. Researcher claims that “more ISIS-linked people had just been caught setting the 2019 fire” are **reception / viral product**, not a documented fresh arson arrest (AP).
+
+**Author overlay:** Same grammar as Vegas day-one branding — **timing coincidence + headline recirculation** loads a **jihad / not-accident** story onto a Western apex event **before** forensics close. Still **not** proof of Mossad/NSA authorship or that the fire was set by the 2016 cell.
+
+### 5.3.2 Fire (15 Apr 2019) — headline / branding rhyme with Vegas
+
+### Documented (Tier A)
+
+| Item | Detail | Source |
+|------|--------|--------|
+| **Event** | Notre-Dame Cathedral, Paris — major fire; roof/spire collapse | Mainstream chronologies; [Wikipedia](https://en.wikipedia.org/wiki/Notre-Dame_fire) |
+| **Official package** | Paris prosecutor: **accident** track; terror/arson **ruled out** early | Same / press |
+| **Immediate pro-ISIS propaganda** | **Al-Muntasir** (pro-ISIS media) posters of the burning cathedral — “good day” / retribution / “goodbye to your pulpit of polytheism” | [Express / TRAC](https://www.express.co.uk/news/world/1114918/notre-dame-fire-isis-message-paris-cathedral-france-news); [JNS / MEMRI](https://www.jns.org/news/jihadis-celebrate-notre-dame-cathedral-fire-dub-it-a-punishment-and-good-omen); [NCTC toolbox](https://www.dni.gov/files/NCTC/documents/jcat/firstresponderstoolbox/First_Responders_Toolbox_-_Religious_Facilities_and_Adherents.pdf) |
+| **Carnage** | **No** confirmed terror-attack death toll in the fire package — **maximum** Western-symbol headlines | Documented outcome |
+
+### Author read (L3)
+
+| Layer | Notes |
+|-------|-------|
+| **2016→2019 continuity** | Failed bomb plants the **node**; **12 Apr 2019** Madani sentence headlines (naming Notre-Dame plot) → **15 Apr** fire → viral recirculation arguing **not accident / ISIS-linked**; then Al-Muntasir posters; Oct 2019 full bomb convictions |
+| **Vegas rhyme** | Day-one **jihad branding layer** on a Western spectacle — same **narrative product** habit as Amaq claiming Paddock; official “not terrorism” does **not** erase the **poster + recirculation product** |
+| **High profile / low carnage / all headlines** | Cathedral as global Christian symbol; fire as **headline machine** without a Bataclan-scale body count |
+| **France hotspot continuity** | Same geography as Hebdo / Bataclan / Nice — early **holy-war wallpaper** on a cultural apex |
+| **Not claimed** | Proven arson by Mossad/NSA; this file logs **documented plots + branding grammar** + **author hotspot** overlay |
+
+**Author add (2026-08-01, Netanyahu sin-eater cross-read):** Events in this France–Vegas–Notre-Dame–Oct 7 family are the kind of **sin** a public carrier (Netanyahu) may be **eating** if Mossad/NSA-aligned actors touched the staging grammar at all — hate and purge energy land on the face of Israel while early hotspot response capacity is the alleged underlying job. **Full disclosure required** before agency authorship can be filtered as fact. Reader: [The Death Rumor That Protected Him](/events/false_flag/the-death-rumor-that-protected-him.md).
 
 ---
 
@@ -191,11 +243,12 @@ Hamas-led attack from Gaza into Israel; mass casualties; hostages; subsequent Ga
 ## 9. Author’s open claims
 
 1. **Oct 7** is a **related false flag** in the **9/11 board family**.
-2. **France** (Charlie Hebdo / Bataclan / Nice cluster) and **Las Vegas 2017** are **early staged-looking** events usable as **NSA/Mossad-aligned** (or antibody-adjacent) **preemption** at future radical-Islam hotspots — Vegas via **Amaq “IS soldier / convert”** branding within hours (**FBI denial irrelevant** to narrative function).
+2. **France** (Charlie Hebdo / Bataclan / Nice cluster), **Las Vegas 2017**, and the **Notre-Dame node** (**2016 failed all-female car bomb**; **12 Apr 2019** Madani recruitment sentence headlines naming that plot → fire-week recirculation; **2019 fire** + **Al-Muntasir** posters; **Oct 2019** full bomb convictions) are **early staged-looking / headline-first** events usable as **NSA/Mossad-aligned** (or antibody-adjacent) **preemption** at future radical-Islam hotspots — Vegas via **Amaq** within hours; Notre-Dame via **failed bomb then court-headline coincidence + accident+posters** (**official denial irrelevant** to narrative function).
 3. ***Children of Men*** predicts the **uncontrollable** end-state those early events were meant to **head off**.
 4. **CIA Deep State** runs a **rebrand war** turning these into **perp-walk truth movements**.
 5. **Gage’s Oct 7 / Corbett restack** is a **Democrat-aligned Bibi perp-walk** specimen — **CO Flag #1**.
-6. Correct path remains **deductive synthesis now**, not **arrest theater**.
+6. **Netanyahu sin-eater cross-read:** if antibody/Mossad/NSA touched this grammar at all, public hate on Bibi is the **sin** the carrier eats — **full disclosure** before agency filter. [Death Rumor article](/events/false_flag/the-death-rumor-that-protected-him.md).
+7. Correct path remains **deductive synthesis now**, not **arrest theater**.
 
 ---
 
@@ -207,6 +260,7 @@ Hamas-led attack from Gaza into Israel; mass casualties; hostages; subsequent Ga
 | Q2 | France: which event has **strongest** staging evidence (Hebdo vs Bataclan vs Nice)? | Per-event evidence tables |
 | Q3 | ~~Vegas guise ≠ Arab?~~ **Closed 2026-08-01** — **Amaq** claimed Paddock as **IS soldier / recent convert** within first day; that **is** the Muslim-blame narrative | [§5.2](#52-author-correction--the-guise-is-the-amaq-claim-not-the-fbi-package); [Reuters](https://www.reuters.com/article/business/islamic-state-claims-las-vegas-shooting-says-attacker-recent-convert-to-islam-idUSC6N1J800Z/) |
 | Q3b | Who **benefits** from Amaq claiming unproven Western attacks — ISIS desperation, **antibody dual-face**, or both? | Media-ops / [good-actor ISIS](./good-actor-theory-interagency-antibody-investigation.md) |
+| Q3c | Notre-Dame: any forensic lane beyond “accident” that survives mainstream audit? | Keep branding row **A**; arson authorship **open** |
 | Q4 | Oct 7: verify **ISIS-flag** planting claim chain | Video provenance / timestamps ([good-actor TODO](./good-actor-theory-interagency-antibody-investigation.md)) |
 | Q5 | Map **Democrat / ICC / “arrest Bibi”** press corpus 2023–2026 against Gage/Corbett language | Reception study |
 | Q6 | Mossad vs NSA attribution — any **non-circular** discriminator? | Keep split explicit; avoid merge without evidence |
@@ -216,6 +270,8 @@ Hamas-led attack from Gaza into Israel; mass casualties; hostages; subsequent Ga
 - [ ] Archive Gage Notes URL + Corbett target URL from the screenshot week
 - [ ] Expand France per-event controversy bibliography (not viral-only)
 - [x] Vegas **Amaq / convert** branding — documented; **guise mismatch retired** (author: FBI denial irrelevant to FF narrative)
+- [x] Notre-Dame **Al-Muntasir** poster layer — documented as claims; official accident package noted
+- [x] Notre-Dame **12 Apr 2019** Madani sentencing headlines → fire-week recirculation — documented as reception; Oct 2019 full bomb sentences after fire
 - [ ] Vegas multi-shooter / timeline literature survey (skeptical + official)
 - [ ] Cross-link Netanyahu faked-death dossier for **Bibi as CO target** rhyme
 - [ ] Add thin rows to [20th–21st catalog](./20th-21st-century-catalog.md)
@@ -230,13 +286,14 @@ Hamas-led attack from Gaza into Israel; mass casualties; hostages; subsequent Ga
 | [09-11 good-actor](./09-11-investigation.md) | Parent 9/11 antibody |
 | [Good-actor interagency](./good-actor-theory-interagency-antibody-investigation.md) | Oct 7 ISIS-flag open; proxy terror |
 | [*Children of Men*](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md) | End-state predictor |
-| [Netanyahu faked death](./netanyahu-faked-death-shiva-rumors-investigation.md) | Bibi as narrative target |
+| [Netanyahu faked death / controlled visibility](./netanyahu-faked-death-shiva-rumors-investigation.md) | Bibi hate-load / Iran carrier; protective continuity; sin-eater cross-read to this FF spine |
+| [The Death Rumor That Protected Him](/events/false_flag/the-death-rumor-that-protected-him.md) | Reader essay — FF sin-load + controlled visibility |
 | [Iran 2026 / leave-behind](/governance/war/mission-accomplished-again-iran-2026.md) | Antibody harvest at risk of rebrand |
 | [20th–21st century catalog](./20th-21st-century-catalog.md) | Hub list |
 | [Epstein × 9/11](./epstein-blackmail-network-9-11-crosslinks-investigation.md) | Proximity-hunt cousin of perp-walk |
 | [Author-unique theories registry](/history/chronology/investigations/author-unique-theories.md) | **AU-041** |
 
-Keywords: #October7 #FalseFlag #RichardGage #CorbettReport #Netanyahu #Bibi #CharlieHebdo #Bataclan #NiceAttack #LasVegas #StephenPaddock #ISIS #Amaq #ChildrenOfMen #PredictiveProgramming #NSA #Mossad #CIA #DeepState #PerpWalk #ControlledOpposition #Antibody #HolyWar #NineEleven #ParadigmThreatFiles
+Keywords: #October7 #FalseFlag #RichardGage #CorbettReport #Netanyahu #Bibi #CharlieHebdo #Bataclan #NiceAttack #LasVegas #StephenPaddock #ISIS #Amaq #NotreDame #AlMuntasir #RachidKassim #ChildrenOfMen #PredictiveProgramming #NSA #Mossad #CIA #DeepState #PerpWalk #ControlledOpposition #Antibody #HolyWar #NineEleven #SinEater #ParadigmThreatFiles
 
 *Last updated: 2026-08-01*
 
@@ -259,4 +316,6 @@ Keywords: #October7 #FalseFlag #RichardGage #CorbettReport #Netanyahu #Bibi #Cha
 
 - Session 2026-08-01: author image of Gage/Corbett Oct 7 restack saved under Cursor assets; paraphrase from image description + author framing.
 - Session 2026-08-01 (follow-up): author closed Vegas “guise mismatch” — **Amaq** soldier/convert claim is the FF Muslim-blame branding; do not privilege FBI denial over day-one narrative.
+- Session 2026-08-01 (Netanyahu article): **Notre-Dame** Al-Muntasir posters + **high profile / low carnage / headlines** grammar; sin-eater cross-read — wait for **full disclosure** before agency filter.
+- Session 2026-08-01: **12 Apr 2019** Madani recruitment sentence (headlines naming Notre-Dame bomb) → fire recirculation; **not** Oct 2019 car-bomb convictions as pre-fire; viral “caught setting the fire” = reception claim.
 - Local asset path (assistant only): `/home/ari/.cursor/projects/home-ari-dev-pt-paradigm-threat-files/assets/image-34fa886b-dab6-4e58-9632-4c80542d0052.png`

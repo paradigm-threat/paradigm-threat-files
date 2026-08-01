@@ -61,7 +61,7 @@
 5. **EMS → hospital** — **CPR** on **already-suspended** body; **ER pronouncement** at **7:36** locks **legal death**.
 6. **Morgue / family chain** — body to **obscure** custody; **antidote / recovery protocol** **off-book**; **public** **burial** narrative **optional** decoy.
 
-**Parallel in repo:** [Netanyahu faked-death / proof-of-life theater](./netanyahu-faked-death-shiva-rumors-investigation.md) — **protective disappearance** **without** requiring **identical** mechanism.
+**Parallel in repo:** [Netanyahu faked-death / controlled visibility](./netanyahu-faked-death-shiva-rumors-investigation.md) — **protective disappearance** / curated continuity **without** requiring **identical** mechanism; Aug 2026 prediction audit. Reader: [The Death Rumor That Protected Him](/events/false_flag/the-death-rumor-that-protected-him.md).
 
 **Epistemic tier:** **Author scenario** — **fits** **blind camera** + **hospital pronouncement** + **prior Jul 23 revival**; **not** **falsified** by OIG **suicide** conclusion **alone** (OIG scoped **BOP conduct**, not **pharmaceutical escape**).
 

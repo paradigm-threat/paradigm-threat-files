@@ -32,7 +32,8 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 
 - [Investigation: September 11, 2001 — Good-Actor Historic Antibody Thesis](/events/false_flag/investigations/09-11-investigation.md)
 - [Investigation: Good-Actor Theory — Interagency Antibody, Proxy Terror, and *Jack Ryan: Ghost War* (2026) PP scorecard](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md)
-- [Investigation: Would Netanyahu Want a Faked Death Here? — Motive, Timeline, and Iran Narrative](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md)
+- [Article: The Death Rumor That Protected Him](/events/false_flag/the-death-rumor-that-protected-him.md) — headlines after March 2026; proof-of-life audit; controlled visibility
+- [Investigation: Netanyahu faked death / controlled visibility — motive, appearance log, prediction audit](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md)
 - [Investigation: Ariel Sharon — Timeline, Gaza Disengagement, Coma Secrecy, and “Controlled Opposition” Threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md)
 - [Investigation: Richard Gage, AE911Truth, and the Controlled-Demolition Thesis (9/11)](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md)
 - [Investigation: Related False Flags after 9/11 — Oct 7, France, Las Vegas, *Children of Men*, Perp-Walk Rebrand (Open)](/events/false_flag/investigations/related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md) — antibody hotspot staging vs CIA/Gage–Corbett Bibi walk (2026-08-01)

@@ -98,6 +98,8 @@
 
 **Cross-read:** [§ Epstein two-axis](#epstein-two-axis-discriminator-author-thesis); reader essay [managed-democracy-puppets-and-redemption.md](/governance/war/managed-democracy-puppets-and-redemption.md). **TODO:** ME report / autopsy release if any; **compare** to **other** **2025–26** **sudden** **elite** **cardiac** **clusters**.
 
+**Netanyahu Jul 2026 funeral presence (shared controlled-venue grammar):** Israeli PM **Netanyahu** attended Graham’s **Washington National Cathedral** service and was photographed in brief contact with **Zelensky**. Under this dossier’s fake-death lane, that venue is already a **managed envelope** — **not** mutual outsider proof-of-life for either man. Netanyahu’s post–March **controlled-visibility** prediction audit treats the funeral + Blair House trip as **non-public U.S. cover** (no 2026 Congress speech), not a theory-breaker: [Netanyahu faked-death / controlled visibility](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md); reader essay [The Death Rumor That Protected Him](/events/false_flag/the-death-rumor-that-protected-him.md).
+
 ---
 
 ## Master axis — Ukraine vs Israel/Iran (where RINOs and Trump split and merge)
@@ -727,4 +729,4 @@ Keywords: #Rino #LindseyGraham #MitchMcConnell #Trump #Ukraine #ControlledOpposi
 - **Christian revolution / crucifixion–resurrection comparison:** **Historical** **pattern** **read** — **ancient** **lesson** (**survival** **past** **defeat** **→** **new** **revolution**) **applied** **in** **the** **present**; **not** **claim** **Jan** **6** **=** **Calvary**.
 - **Assistant bias:** **Default** **pressure** **toward** **“respectable”** **obit** **frames**; **this** **file** **preserves** **author** **thesis** **alongside** **Tier** **A** **citations**.
 
-*Last updated: 2026-07-12 (Jan 6 CO §, Pickens 2023 reconciliation whitewash, open claims 11–18)*
+*Last updated: 2026-08-01 (Netanyahu funeral controlled-venue cross-read)*

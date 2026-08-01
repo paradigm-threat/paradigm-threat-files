@@ -160,7 +160,7 @@ On this map, the cleanest **operative** question for post-9/11 franchises is not
 ### D. Historical antibodies (concept + profiles)
 
 **Files:**
-- [`15.08.00-historical-antibodies.md`](/timeline/evt-historical-antibodies) — Christ, Eckhart, Patton, Ellsberg, **Netanyahu as state-actor antibody** (Iran flank); 9/11 as largest modern op on good-actor reading
+- [`15.08.00-historical-antibodies.md`](/timeline/evt-historical-antibodies) — Christ, Eckhart, Patton, Ellsberg, **Netanyahu as state-actor antibody** (Iran flank); 9/11 as largest modern op on good-actor reading. Companion: [The Death Rumor That Protected Him](/events/false_flag/the-death-rumor-that-protected-him.md); [controlled-visibility dossier](./netanyahu-faked-death-shiva-rumors-investigation.md).
 - [`20.55.00-historical-antibodies-pattern.md`](/timeline/evt-historical-antibodies-pattern) — **operations** as antibodies; escalation ladder (ignore → kill)
 - [`20.55.01-historical-antibodies-profiles.md`](/timeline/evt-historical-antibodies-profiles) — Ellsberg/Tonkin/NSA Hanyok detail
 
