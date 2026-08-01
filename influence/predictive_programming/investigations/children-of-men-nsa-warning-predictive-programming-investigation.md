@@ -260,6 +260,7 @@ With Emmanuel Lubezki: no close-up privilege for hero over environment; minimize
 | [Hollywood two-camp](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) | NSA camp taxonomy |
 | [Good-actor / 9/11 antibody](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) | NSA event vs holy-war lane |
 | [False-flag catalog](/events/false_flag/investigations/20th-21st-century-catalog.md) | Staged terror pattern family |
+| [Related false flags after 9/11 — Oct 7 / France / Vegas](/events/false_flag/investigations/related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md) | Author: early hotspot staging as *Children of Men* preemption; CIA perp-walk rebrand |
 | [PP hub](../page.md) | Already lists *Children of Men* in media catalog |
 | [Trump-era Hollywood PP](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) | Later scorecard neighbors |
 

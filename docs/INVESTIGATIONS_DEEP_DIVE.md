@@ -12,7 +12,7 @@
 
 Every paradigm-threat-files investigation that uses the `*investigation.md` filename convention, plus [reverse-crusades-comparison.md](/governance/war/investigations/reverse-crusades-comparison.md), [vril-society.md](/governance/war/investigations/vril-society.md), and [wuxing-five-planets-dark-ages.md](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) (same treatment as site indexes). Deep-dive validation in §2 below applies only where a subsection exists; the rest are listed here so nothing is orphaned.
 
-**Count:** 100 files in the lists below.
+**Count:** 101 files in the lists below.
 
 **Supplementary** (same research lane, different filename): [Chronology investigations index](/history/chronology/investigations/index-investigations.md) lists companion articles and **chronology reader essays** under `history/chronology/` (e.g. [Indigenous creation dates, legends, and geology](/history/chronology/indigenous-creation-legends-and-geology.md)). [War investigations hub](/governance/war/investigations/page.md) lists thematic clusters. Fiction-encoding threads: [Narnia planetary encoding](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md), [Tolkien redacted fact](/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md), [Swift investigation](/influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift.md), [Asimov investigation threads](/influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads.md).
 
@@ -35,6 +35,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: Would Netanyahu Want a Faked Death Here? — Motive, Timeline, and Iran Narrative](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md)
 - [Investigation: Ariel Sharon — Timeline, Gaza Disengagement, Coma Secrecy, and “Controlled Opposition” Threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md)
 - [Investigation: Richard Gage, AE911Truth, and the Controlled-Demolition Thesis (9/11)](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md)
+- [Investigation: Related False Flags after 9/11 — Oct 7, France, Las Vegas, *Children of Men*, Perp-Walk Rebrand (Open)](/events/false_flag/investigations/related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md) — antibody hotspot staging vs CIA/Gage–Corbett Bibi walk (2026-08-01)
 - [Investigation: ic911a.org / 9/11 Revisionist — Accountability Branding, DEW Hangout, and Movement Fracture](/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md)
 - [Investigation: Epstein Blackmail Network — 9/11 Cross-Links, Agency Alignment, and Compromise Hypothesis](/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md)
 - [Investigation: Epstein Death — Escape Thesis, Suspended Animation, and Bloodline Endgame](/events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md)
@@ -53,6 +54,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: *Call of Duty: Modern Warfare* — Original Trilogy vs. Soft Reboot, Militainment, Iran–Russia Framing, and Cross-Media Operator Archetypes](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md)
 - [Investigation: CIA — OSS Rebrand, Nazi Gold, Iran, 9/11, and the Antibody Thesis](/governance/war/investigations/cia-investigation.md)
 - [Investigation: NSA — SIGINT Antibody, Tonkin Reckoning, and the Tron Theory](/governance/war/investigations/nsa-investigation.md) — timeline: [CIA vs NSA / *Tron* (1952–1982)](/timeline/evt-cia-vs-nsa-sigint-antibody-tron), [1979 religious revival](/timeline/evt-1979-religious-revival-holy-war-geometry)
+- [Investigation: NSA-Aligned Presidencies — Nixon, Reagan, Trump (Republican Gauge)](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md) — *BTTF* NSA list; PATCO / *Airplane*; Reagan globalist-play hypothesis (2026-07-26)
 - [Investigation: Ted Cruz, Kevin Malone (*The Office*), and the “Hijacked Plan” Hypothesis](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md)
 - [Investigation: Dubious “Stand Down” Orders — Benghazi (2012), Libya’s Breakup, and Pattern Echoes](/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md)
 - [Investigation: French Revolution — Societized Consolidation and Political Reorganization](/governance/war/investigations/french-revolution-investigation.md)

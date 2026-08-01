@@ -177,6 +177,8 @@ This investigation groups *13 Hours* with *Lions for Lambs* as part of a **thema
 
 The plot’s Libyan terrorists (seeking stolen plutonium) embed a Cold War–era villain trope: Libya as chaotic, violent, anti-American threat—before the 2011 war. Investigators tracking predictive programming sometimes cite such casting as pre-seeding public affect toward later real-world Libya stories. This file records the cultural fact only; it does not claim Universal Pictures knew 2011 events.
 
+**Camp cross-link (2026-07-26):** ***Back to the Future* 1–2** labeled **NSA-aligned** (Reagan-as-actor call-out + Libyan nuclear-proxy PP + 9/11 clue cluster) in [NSA-aligned presidencies §4](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md#4-back-to-the-future-12--nsa-camp-assessment) and the [Hollywood cyber catalog](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#cyber--nwo-lane-catalog-working-table).
+
 ---
 
 ## 6. Libya under Gaddafi — “threat” to the West, gold, and African currency

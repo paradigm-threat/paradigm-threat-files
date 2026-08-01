@@ -87,11 +87,20 @@ Murrah Building; 168 dead. McVeigh convicted. Multiple witnesses reported additi
 **Sources:** Appendix dossier.
 
 ### 9/11 (2001)
-See [9/11 Investigation](09-11-investigation.md). Good-actor historic antibody thesis; WTC 7 and CIA station.
+See [9/11 Investigation](09-11-investigation.md). Good-actor historic antibody thesis; WTC 7 and CIA station. Related post-9/11 board: [Oct 7 / France / Vegas / *Children of Men*](related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md).
 
 ---
 
 ## Alleged / 21st Century
+
+### France Islamist-attack cluster (2015–2016) — early hotspot staging (author)
+**Charlie Hebdo** (Jan 2015), **Paris/Bataclan** (Nov 2015), **Nice truck** (Jul 2016). Mainstream: ISIS/Islamist packages. **Author:** staged-looking / **NSA- or Mossad-aligned** early firebreaks at European radical-Islam hotspots (*Children of Men* end-state preemption). **CIA rebrand risk:** truth-movement perp walks. Full: [related false flags dossier](related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md).
+
+### Las Vegas Route 91 (2017) — early hotspot staging (author)
+**1 Oct 2017** Mandalay Bay / festival shooting. **Documented:** within hours, **ISIS Amaq** claimed Paddock as **“soldier”** / **recent convert to Islam** ([Reuters](https://www.reuters.com/article/business/islamic-state-claims-las-vegas-shooting-says-attacker-recent-convert-to-islam-idUSC6N1J800Z/)); FBI denied operational link. **Author:** Amaq claim **is** the Muslim-blame false-flag narrative — FBI denial irrelevant to branding; clusters with France hotspot preemption. Full: [related false flags §5](related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md#5-las-vegas-2017).
+
+### October 7, 2023 — related false flag (author)
+Hamas-led attack; Gaza war → Iran 2026 board. **Author:** related to **9/11 board family**; ISIS-flag planting open in [good-actor](good-actor-theory-interagency-antibody-investigation.md). **CO specimen:** Gage/Corbett “wildest Oct 7 theories = U.S./Israeli govts” as **Bibi perp-walk**. Full: [related false flags](related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md); [Gage §12.5](richard-gage-ae911truth-controlled-demolition-investigation.md#125-october-7--bibi-perp-walk-specimen-gage--corbett).
 
 ### Syria Chemical Weapons (2013 Ghouta; 2018 Douma)
 Rebel-held areas; chlorine/sarin alleged. Russia and Syria claim staging/false flag. OPCW 2023 report blamed Syrian Tiger Forces for Douma. Counter-narrative: OPCW leaker "Alex"; Ian Henderson engineering report (cylinders placed, not dropped). Contested.
@@ -133,6 +142,7 @@ See [Ariel Sharon — Gaza, Coma, Controlled-Opposition Threads](ariel-sharon-ga
 - [Iran 2026 Propaganda Thesis](iran-2026-propaganda-thesis.md)
 - [Netanyahu Faked Death / Shiva Rumors Investigation](netanyahu-faked-death-shiva-rumors-investigation.md)
 - [Ariel Sharon — Gaza, Coma, Controlled-Opposition Threads](ariel-sharon-gaza-coma-controlled-opposition-investigation.md)
+- [Related false flags after 9/11 — Oct 7 / France / Vegas / *Children of Men*](related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md)
 - [Appendix: False Flags Evidence Dossier](/timeline/evt-false-flags-appendix)
 - [Pearl Harbor — Hijacked Imperial Japan](/governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md)
 

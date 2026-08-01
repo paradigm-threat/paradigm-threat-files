@@ -74,9 +74,10 @@ or *not* believing.
 #### Events
 
 * [September 11, 2001](/events/false_flag/investigations/09-11-investigation.md) - Good-actor historic antibody thesis; WTC 7 and narratives.
+* [Richard Gage / AE911Truth](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md) - Controlled-demolition thesis for 9/11; **perp-walk CO flags** (Epstein/C2C + Oct 7/Bibi).
+* [Related false flags after 9/11 — Oct 7, France, Vegas](/events/false_flag/investigations/related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md) - Antibody early staging vs CIA perp-walk rebrand; *Children of Men* hotspot predictor (Aug 2026).
 * [Would Netanyahu Want a Faked Death Here?](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md) - Motive, timeline, and Iran narrative angles.
 * [Ariel Sharon - Gaza, coma, British/CO threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md) - Author thesis: 2004-2006 Epstein-network revelation window, Bush letter "bullseye," Cruz/Bibi echoes, Bushes as wedges; Gaza || Iran/Iraq/Libya; sourced history and review questions.
-* [Richard Gage / AE911Truth](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md) - Controlled-demolition thesis for 9/11; organization and debates.
 * [Trump, historic antibodies, dynasty thesis](/events/trump/index-trump-investigation.md) - Trump as antibody / "uncompromised elite" political-media reading.
 
 #### Governance & slavery

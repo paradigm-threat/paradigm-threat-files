@@ -7,7 +7,7 @@
 
 **Timeline chapters:** [CIA vs NSA: SIGINT Antibody, Tonkin, and *Tron* (1952–1982)](/timeline/evt-cia-vs-nsa-sigint-antibody-tron) · [2000–2005: Tonkin declass fight vs Mars RV release](/timeline/evt-2000-2005-ce-nsa-tonkin-mars-declass-fight) · [1979: Religious Revival and Holy-War Geometry](/timeline/evt-1979-religious-revival-holy-war-geometry)
 
-**Companion:** [CIA investigation — antibody thesis](/governance/war/investigations/cia-investigation.md) § III; [good-actor investigation — Hanyok § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md); [1979 religious revival — holy-war geometry](/influence/religion/1979-religious-revival-investigation.md)
+**Companion:** [CIA investigation — antibody thesis](/governance/war/investigations/cia-investigation.md) § III; [good-actor investigation — Hanyok § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md); [1979 religious revival — holy-war geometry](/influence/religion/1979-religious-revival-investigation.md); [NSA-aligned presidencies — Nixon / Reagan / Trump](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md)
 
 ---
 

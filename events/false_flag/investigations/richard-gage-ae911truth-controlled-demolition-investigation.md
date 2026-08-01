@@ -2,14 +2,28 @@
 
 ![Richard Gage / AE911Truth — investigation header graphic](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png?w=1200 '{"className":"rounded-md m-auto"}')
 
-> **TL;DR:** This file focuses on **structural and forensic claims** associated with architect **Richard Gage** and **Architects & Engineers for 9/11 Truth (AE911Truth)**—controlled demolition of WTC 1, 2, and 7—alongside **mainstream rebuttals** (NIST, *Popular Mechanics*, engineering consensus), **documented platform actions** against Gage and aligned figures, a **project thesis** that **AE911Truth** operated as **controlled opposition** from the outset (sabotaging Gage; **2021** break over **COVID-19**), **Judy Wood / directed-energy weapons (DEW)** as an **extreme hangout** that **muddies the waters** and **poisons the well** (thermite-vs-DEW fracture; **project rejects DEW**), and an **investigative conclusion** that **California + federal charity law** and **nonprofit governance** worked—in outcome—to **contain and diffuse** Gage (**open-air** confinement of **effective reach**; **2021** ejection on grounds treated here as **arbitrary** for a truth movement), **steel removal and chain-of-custody** issues (including what reached **Arizona**), **Twin Towers and Building 7** history, and the project’s **sponsored** lines on **no-planes / broadcast CGI** with **local image evidence**. It cross-reads [9/11 Investigation — Good-Actor Thesis](09-11-investigation.md) but does **not** resolve which meta-narrative is correct.
+> **TL;DR:** Structural/forensic lane around **Richard Gage** / **AE911Truth** (controlled demolition WTC 1/2/7) plus NIST/*PM* counters, platform actions, **Judy Wood / DEW** hangout fracture (**project rejects DEW**), and **nonprofit open-air containment**. **Author update (2026-08-01):** Gage’s Substack + ***9/11: Crime Scene to Courtroom*** push an **Epstein-files-style name / shame / grand-jury / “identify and indict”** path — **major CO flag**. **Same flag, Oct 7 mirror:** RG911 restacks Corbett that the wildest Oct 7 “conspiracy theories” are those **promoted by U.S. and Israeli governments** — read here as **Democrat-aligned perp walk against Bibi**. Related FF chain (France / Vegas / *Children of Men* / CIA rebrand war): [related false flags dossier](./related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md). **Second flag:** resistance to **NSA-aligned / interagency** debate. **Author alternative:** sanctioned inside job → **deductive truth now**, not arrest theater; **Trump survival** as end-state. Anchors: [Epstein research call](https://richardgage911.substack.com/p/911-and-epstein-a-call-for-research); [C2C](https://911c2c.org/); [§12](#12-perp-walk--epstein-files-accountability-path--major-co-flag-author-2026-08). Cross-read [09-11](09-11-investigation.md); [Epstein × 9/11](./epstein-blackmail-network-9-11-crosslinks-investigation.md).
 
 ## Scope, evidence limits, and cross-links
 
 - **Investigation, not adjudication:** Summaries of Gage/AE911Truth claims and of NIST/skeptical rebuttals are for reader navigation; this file does not reproduce full calculations or sealed evidence.
 - **Focus:** Material publicly associated with **Gage** and **AE911Truth** (presentations, films, petitions, NIST critiques), plus **truth-movement containment** where it intersects the **Judy Wood / DEW** lane and the **thermite-vs-DEW** fracture ([§4](#4-judy-wood-dew-and-poison-the-well-fracture)). Other 9/11 threads (Pentagon, flight paths, geopolitical motive) are mentioned only where they intersect that focus.
 - **Parent thesis:** The project’s broader [9/11 good-actor / WTC 7 CIA station](09-11-investigation.md) framing lives in the linked investigation; here, **controlled demolition** is treated as a **live forensic hypothesis** sponsored in parallel with the **no-planes/CGI** hypothesis (see below).
-- **Epstein cross-links (2026):** [DOJ Jan 2026 releases](https://www.justice.gov/epstein) and [Gage Feb 2026 research call](https://richardgage911.substack.com/p/911-and-epstein-a-call-for-research) — **proximity** of **Commission** figures / **Lutnick** to **Epstein**; **agency alignment** and **compromise vs contact** — [Epstein blackmail network investigation](./epstein-blackmail-network-9-11-crosslinks-investigation.md).
+- **Epstein cross-links (2026):** [DOJ Jan 2026 releases](https://www.justice.gov/epstein) and [Gage Feb 2026 research call](https://richardgage911.substack.com/p/911-and-epstein-a-call-for-research) — **proximity** of **Commission** figures / **Lutnick** to **Epstein**; **agency alignment** and **compromise vs contact** — [Epstein blackmail network investigation](./epstein-blackmail-network-9-11-crosslinks-investigation.md). **Accountability-path read (author):** that same post + ***Crime Scene to Courtroom*** are **perp-walk grammar** — [§12](#12-perp-walk--epstein-files-accountability-path--major-co-flag-author-2026-08).
+
+**Status:** Open — forensics contested; **CO / perp-walk method flags** elevated 2026-08-01.
+
+---
+
+## Guide (read order)
+
+1. [Gage / AE911Truth institutional arc](#1-richard-gage-and-architects--engineers-for-911-truth) — includes org-as-CO thesis + open-air prison
+2. [Major CD claims vs NIST](#2-major-claims-gage--ae911truthstyle-bundle) · [§3](#3-mainstream-and-skeptical-counter-debunks)
+3. [Judy Wood / DEW fracture](#4-judy-wood-dew-and-poison-the-well-fracture)
+4. [**Perp-walk / Epstein-files CO flag (author)**](#12-perp-walk--epstein-files-accountability-path--major-co-flag-author-2026-08) ← **start here for 2026 sentiment** · includes [§12.5 Oct 7 / Bibi](#125-october-7--bibi-perp-walk-specimen-gage--corbett)
+5. [Author’s open claims](#13-authors-open-claims) · [Questions](#14-questions-to-clarify-verify-or-debunk)
+6. Related FF chain → [Oct 7 / France / Vegas / *Children of Men*](./related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md)
+7. Platform / Loose Change / no-planes / steel / building history → §§5–10
 
 ---
 
@@ -46,6 +60,8 @@ Gage **selected** early **board** members he believed he could **trust** to stew
 ### Project thesis: AE911Truth as controlled opposition (from the start)
 
 **Interpretive (this repo):** **AE911Truth** is read here not as a straight grassroots technical society but as a **controlled-opposition** vehicle **from inception**: it **surfaced** enough **demolition** and **NIST-critique** material to **capture** and **brand** the **engineer** lane of 9/11 dissent, while **constraining** scope, **slowing** or **misdirecting** lines that would **bite harder** (and **sabotaging** Gage **throughout**—governance friction, narrative boxing, and **platform-adjacent** vulnerability). The **2021** rupture is then read as **culminating betrayal**: the board and process ejected Gage **under** **COVID-19**–era **speech** and **“misinformation”** pressure, instead of **defending** **open inquiry** on **public-health** claims the way they had asked the culture to **reopen** **9/11**. The org **should have been more open-minded** about **COVID**—treating **dissent on lockdowns, treatments, and official narrative** as **parallel** to their **mission** of **questioning** **institutional** **storylines**. That they **did not** is consistent with **opposition** that **must** **remain** **manageable** to **sponsors**. **No** **documentary** **proof** of **covert** **handling** is asserted here; the thesis is **structural** and **predictive** (same class as [§6 — Loose Change / Occupy](#6-loose-change-occupy-and-civil-war-20-project-thesis)).
+
+**2026 method addendum:** Even after the split, Gage’s **Epstein-dump / grand-jury / “identify and indict”** lane is read as a **second CO grammar** — see [§12](#12-perp-walk--epstein-files-accountability-path--major-co-flag-author-2026-08). Org-sabotage and **perp-walk method-CO** are **compatible**.
 
 **Dual-lane complement (Wood / DEW):** The **respectable** **engineer** lane (**AE911Truth**, **Gage**, **thermite**) is read here as **one flank** of movement containment; the **Judy Wood / DEW** lane is the **woo** flank on the other—both admit that **the buildings did not fail from fire alone**, both **stall** activists on **WHAT mechanism** instead of **agency WHY**, and both **poison** the broader dissent pool via **guilt-by-association**. See [§4 — Judy Wood, DEW, and poison-the-well fracture](#4-judy-wood-dew-and-poison-the-well-fracture).
 
@@ -297,7 +313,101 @@ Sources: [Wikipedia — Original World Trade Center (1973–2001)](https://en.wi
 
 **Dead ends:** Whether **explosives** were used cannot be settled from this desk file; **no-planes/CGI** remains **technically disputed** and **platform-dependent**. **Loose Change** and **AE911Truth** as **controlled opposition** are **project theses**, not **falsified** here. **DEW / Wood** as **extreme hangout** and **thermite-vs-DEW fracture** as **movement CO** are **interpretive** reads, not **proven** by **named** **handlers**. The **open-air** **prison** / **state–federal** **containment** **conclusion** in [§1](#investigative-conclusion-open-air-prison) is **interpretive** and **not** **established** by a **named** **government** **memo** **in** **this** **file**.
 
-**Likelihood (neutral / project):** **Controlled demolition** as physics narrative: **contested**. **DEW**: **rejected** by this project (**forensic + spectacle read**). **Institutional** **suppression** of **9/11-critical** speech on **major platforms**: **documented** in **scattered** cases with **variable** merit — **June 2026 author log:** Instagram **image-post** failures (all accounts, PC + device) and Substack **Page not found** on **own post URLs** while **Latest** still lists titles — **phantom listing** read (feed chrome without deliverable articles); see [platform blocks dossier](/influence/censorship/platform-blocks-instagram-substack-2026-06.md). **Arizona** as **sole** **evidence sink**: **not supported** by mainstream **routing** reporting; **memorial** routing **supported**. **Thermite-vs-DEW** **page wars** as **successful** **distraction** from **agency WHY**: **high internal weight** (movement-structure read).
+**Likelihood (neutral / project):** **Controlled demolition** as physics narrative: **contested**. **DEW**: **rejected** by this project (**forensic + spectacle read**). **Institutional** **suppression** of **9/11-critical** speech on **major platforms**: **documented** in **scattered** cases with **variable** merit — **June 2026 author log:** Instagram **image-post** failures (all accounts, PC + device) and Substack **Page not found** on **own post URLs** while **Latest** still lists titles — **phantom listing** read (feed chrome without deliverable articles); see [platform blocks dossier](/influence/censorship/platform-blocks-instagram-substack-2026-06.md). **Arizona** as **sole** **evidence sink**: **not supported** by mainstream **routing** reporting; **memorial** routing **supported**. **Thermite-vs-DEW** **page wars** as **successful** **distraction** from **agency WHY**: **high internal weight** (movement-structure read). **Perp-walk / grand-jury / Epstein-proximity hunting** as **movement method**: elevated to **major CO flag** in [§12](#12-perp-walk--epstein-files-accountability-path--major-co-flag-author-2026-08) — **not** proof Gage is a paid handler; **method** is the flag.
+
+---
+
+## 12. Perp-walk / Epstein-files accountability path — major CO flag (author, 2026-08)
+
+### 12.1 Author’s originating thesis (verbatim capture)
+
+> I am starting to suspect that **Richard Gage is a controlled opposition agent, or was all along**, mostly because his more recent posts on Substack seem to be related to trying to establish a **similar perp walk as we saw with the Epstein files**. This is a big red flag because it means they're literally just trying to **name and shame and then perp walk** various individuals who are behind the 9/11 inside job. My argument to him is that it was an **inside job sanctioned by our government and military** so it **wasn't illegal** — so there's nothing to do here except, much like the Epstein thing, **ignore all the facts and judicial system** and attempt some sort of **mob rule**, political situation that gets carried away by the **media** and a bunch of **activist judges** and ends up taking out and attacking the actual planners of 9/11 **without any real goal** in mind other than to “find the truth.” It's possible **most of the modern 9/11 movements** have this subtext and are therefore **controlled opposition even if they don't feel like they are**. It seems that none of them want to do what I'm doing which is to try to **establish the actual truth deductively now** without the **perp walk and mass arrests and testimony**. We don't need any of it. We've always had enough information. At the end of the day we're all just going to **follow the leader** and if **President Trump survives** all of this then **everyone else that he's protecting will survive too** and that will be the end of it. **Anyone that says** something like [perp walk / further investigation to determine the people responsible] **is a controlled opposition agent** even if they think they're doing the right thing for the right reasons. Essentially I'm demonstrating how they're not — and if they **continue to resist actual debate and deductive logic regarding NSA-aligned groups or interagency fights** then that is the **second major giveaway** that they are not interested in the truth.
+
+**What the author means**
+
+| Claim | Unpack |
+|-------|--------|
+| **Perp-walk path = CO flag #1** | Demanding **named individuals**, **grand juries**, **indictments**, **arrest theater**, or Epstein-dump **crowd-sourced “who else”** hunting **substitutes spectacle for synthesis**. Even sincere actors running that script are **functionally CO**. |
+| **Sanctioned inside job ≠ street crime** | On the [good-actor / antibody](./good-actor-theory-interagency-antibody-investigation.md) read, 9/11 was **state/military-board sanctioned**. Treating it as a **civilian conspiracy to prosecute** **misframes** the event into a **crime-show** the captured judiciary can **never** honestly try — or can only try as **selective purge**. |
+| **Epstein rhyme** | Epstein-files culture trains the public to **ignore** structural facts in favor of **shame lists**, **media frenzy**, and **judicial weaponization**. Porting that to 9/11 **repeats the trap**. |
+| **Deductive truth without arrests** | Enough public evidence already exists for **agency WHY / mechanism WHAT** work ([09-11 investigation](09-11-investigation.md)). **Testimony theater** and **mass arrests** are **not** prerequisites. |
+| **Trump as end-state** | Practical closure is **executive survival / protection geometry**, not **Nuremberg cosplay**. Follow-the-leader: if Trump holds, those under that protection hold. |
+| **NSA / interagency debate refusal = CO flag #2** | Movements that **will not** engage **NSA vs CIA**, antibody, or two-camp logic are **protecting the ceiling** — forensics forever, **agency never**. |
+
+**Relation to earlier §1 thesis:** §1 still reads **AE911Truth the org** as **CO from inception** that **sabotaged / ejected** Gage. §12 **adds** that **Gage’s post-2021 method** (and much of the **modern 9/11 lane**) can itself be **CO grammar** — **perp-walk accountability** — whether or not he is a **conscious** agent. **Sabotaged figurehead** and **method-CO** are **compatible**.
+
+### 12.2 Documented Gage / movement beats (Tier A — primary URLs)
+
+| Beat | What it does | Why it trips Flag #1 | Source |
+|------|--------------|----------------------|--------|
+| **“9/11 and Epstein: A Call for Research”** | Crowd-sources DOJ Epstein dump for **“possible conspirators”** / **suspicious links** to Commission, Giuliani, Lutnick, etc.; asks readers to **search and contact** the team | **Epstein-files proximity hunting** — name/shame **adjacency** without smoking-gun trafficking proof (Gage team itself admits no smoking gun) | [Substack, 15 Feb 2026](https://richardgage911.substack.com/p/911-and-epstein-a-call-for-research); inventory in [Epstein × 9/11 §1](./epstein-blackmail-network-9-11-crosslinks-investigation.md#1-richard-gage-feb-2026--claim-inventory) |
+| ***9/11: Crime Scene to Courtroom*** (RG911 × Lawyers’ Committee) | Film series built for a **special Grand Jury**; marketed so counsel can advise how evidence is used to **“identify and indict the real perpetrators of 9/11”**; supplement to **60-exhibit petition** | Explicit **indictment / courtroom / perpetrator** path — **perp-walk infrastructure** as content product | [911c2c.org](https://911c2c.org/); [About — film made for Grand Jury](https://911c2c.org/about-9-11-crime-scene-to-courtroom/); [LC911 Episode 1 page](https://www.lawyerscommitteefor9-11inquiry.org/crime-scene/episode-1-public-orientation-9-11-crime-scene-to-courtroom-2/); [Gage Substack co-produce pitch](https://richardgage911.substack.com/p/co-produce-this-powerful-new-911) |
+| **SDNY grand-jury petition + litigation** | LC911 / AE911Truth / Gage et al. petitioned U.S. Attorney SDNY; sued to compel presentation; **dismissed** (standing / claim); Second Circuit **affirmed** | **Court theater** that **burns years** and **returns null** while keeping the **“we need the jury”** ceiling alive | [Legal News / AP summary of 2d Cir.](https://www.legalnews.com/macomb/1514475/) |
+| **AE911Truth historical brand** | Petition for **new investigation**; org often said naming perpetrators was **“beyond scope”** while still feeding **legal / petition** machinery | **Scope theater**: refuse **public agency WHY**, demand **institutional re-investigation** that never lands | [ADL backgrounder paraphrase of AE911Truth scope](https://www.adl.org/resources/backgrounder/richard-gage-and-911-conspiracy-theories) (hostile source — use for **org self-description**, not ADL verdict) |
+
+**Not claimed from these alone:** that Gage is **paid** by a named agency, or that every forensic CD claim is false. **Claimed (author):** the **accountability method** is the **CO tell**.
+
+### 12.3 Author counter-program (what “doing the right thing” looks like here)
+
+| Do | Don’t |
+|----|-------|
+| **Deduce** mechanism + **agency WHY** from public record ([good-actor](./good-actor-theory-interagency-antibody-investigation.md), [09-11](09-11-investigation.md)) | Wait for **grand jury**, **perp walk**, or **confession** |
+| Debate **NSA vs CIA / interagency antibody** openly | Treat **agency talk** as off-limits or “unproven speculation” while **court petitions** stay sacred |
+| Accept **sanctioned board** framing (inside job as **state act**) | Force a **civilian crime** frame that only **mob / media / activist court** can “solve” |
+| Watch **Trump survival / protection** as practical end-state | Demand **mass arrests** of planners as proof of seriousness |
+
+### 12.4 Movement-wide read
+
+**Author:** Most **modern 9/11 movements** carry this **subtext** — **forensics forever**, **accountability as theater**, **never** the **interagency synthesis**. That makes them **CO-shaped** even when participants **feel** righteous. Gage is a **flagship specimen** because he **pairs** serious CD presentation with the **clearest** 2025–2026 **Crime Scene → Courtroom / Epstein-dump** turn.
+
+### 12.5 October 7 / Bibi perp-walk specimen (Gage × Corbett)
+
+**Author add (2026-08-01):** Gage is running a **parallel Democrat-aligned perp walk** against **Netanyahu (“Bibi”)** over **October 7** — same Flag #1 method, different theater.
+
+**Documented Notes grammar (screenshot capture ~Jul 2026):** Richard Gage account; “The Corbett Report restacked”; body:
+
+> *[RG911Team] The wildest “conspiracy theories” about October 7 are the ones promoted by the US and Israeli governments. Let The Corbett Report explain ⬇️*
+
+**Decode (author):**
+
+| Move | Effect |
+|------|--------|
+| Invert “conspiracy” onto **U.S. + Israeli governments** | Audience learns the **official Israel/U.S. frame** is the **wild lie** |
+| Prestige transfer via **Corbett** | Movement trust → **anti-Bibi / anti-state Oct 7** package |
+| Aligns with existing **Democrat / ICC / “arrest Netanyahu”** media energy | **Perp-walk coalition** without needing Gage to say “Democrat” |
+| Same operator as **C2C / Epstein** lane | **Accountability theater** habit, not one-off |
+
+**Full related-FF chain** (France, Las Vegas, *Children of Men* hotspot preemption, CIA rebrand war to destroy antibody harvest): [related false flags after 9/11](./related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md).
+
+**Discipline:** This does **not** prove Oct 7 had zero Hamas agency. It flags **Gage’s method**: convert Oct 7 into **govt-liar / Bibi-purge** energy instead of **interagency / antibody** deduction.
+
+---
+
+## 13. Author’s open claims
+
+1. **Perp-walk / name-shame / “identify and indict the perpetrators”** advocacy on 9/11 is a **major controlled-opposition flag**, including when the speaker is sincere.
+2. **Gage** (and the **C2C / LC911** lane) currently trips that flag via **Epstein-dump research calls** and **grand-jury film** grammar.
+3. **Gage’s Oct 7 / Corbett restack** trips the **same flag** as a **Democrat-aligned Bibi perp walk**.
+4. **AE911Truth** was **CO from the start** (prior thesis); Gage may have been **sabotaged by the org** and **still run method-CO** after 2021 — both can be true.
+5. 9/11 as **government/military-sanctioned inside job** is **not** correctly processed as ordinary **illegal** conspiracy ripe for **perp walks**.
+6. **Deductive public truth** does **not** require mass arrests, testimony theater, or new official investigations.
+7. **Trump survival** (and protection of those under that umbrella) is the realistic **closure geometry**.
+8. **Refusal to debate NSA-aligned / interagency** frames is **CO flag #2**.
+9. **Most modern 9/11 movements** share the perp-walk / forever-forensics subtext and are therefore **CO-shaped**.
+10. **Oct 7 / France / Vegas** belong on the **related false-flag** board — see [related FF dossier](./related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md).
+
+---
+
+## 14. Questions to clarify, verify, or debunk
+
+| # | Question | How to adjudicate |
+|---|----------|-------------------|
+| Q1 | Does Gage ever **engage** NSA/CIA two-camp or antibody framing in **long-form** (not one-line dismissal)? | Substack / conference archive audit 2021–2026 |
+| Q2 | Exact **C2C** episode scripts — how often **“indict / arrest / perpetrators”** vs pure **mechanism**? | Episode transcripts when released |
+| Q3 | Did Gage **personally** write the Epstein “conspirators” CTA or only host volunteer-team copy? | Byline / editorial note on Feb 2026 post |
+| Q4 | Is there a **Gage** piece that **rejects** criminalization and chooses **public deduction only**? | If found, **weaken** Flag #1 for that text |
+| Q5 | LC911 petition text — what **charging theories** (murder, terrorism, conspiracy) vs **civil** inquiry? | [LC911 grand-jury petition materials](https://www.lawyerscommitteefor9-11inquiry.org/grand-jury-petition-executive-summary/) |
+| Q6 | Exact **Corbett** Oct 7 piece behind the Gage restack — thesis vs paraphrase? | Archive video/article; [related FF Q1](./related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md#10-questions-to-clarify-verify-or-debunk) |
 
 ---
 
@@ -305,16 +415,35 @@ Sources: [Wikipedia — Original World Trade Center (1973–2001)](https://en.wi
 
 - [9/11 Investigation — Good-Actor Thesis](09-11-investigation.md) — **WHY / agency** (antibody psyop, WTC 7 decapitation)
 - [Good-Actor Theory — Interagency Antibody](good-actor-theory-interagency-antibody-investigation.md) — **NSA vs CIA** board read
+- [Epstein blackmail × 9/11 cross-links](./epstein-blackmail-network-9-11-crosslinks-investigation.md) — Gage Feb 2026 inventory; **§12** upgrades method to CO flag
+- [Related false flags after 9/11 — Oct 7 / France / Vegas / *Children of Men*](./related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md) — **§12.5** Bibi walk + CIA rebrand war
 - [CIA Investigation — WTC 7](/governance/war/investigations/cia-investigation.md)
 - [False Flags — 20th–21st Century Catalog](20th-21st-century-catalog.md)
 - [Events / 911 hub](/events/911/page.md)
 - [ic911a.org / 9/11 Revisionist — DEW hangout CO dossier](./ic911a-911revision-controlled-opposition-investigation.md)
+- [Platform blocks — Instagram / Substack Jun 2026](/influence/censorship/platform-blocks-instagram-substack-2026-06.md)
+
+Keywords: #RichardGage #AE911Truth #ControlledDemolition #NineEleven #Physics #Forensic #NoPlanes #WTC7 #Censorship #ControlledOpposition #Covid #OpenAirPrison #NonprofitContainment #JudyWood #DEW #Dustification #PoisonTheWell #ExtremeHangout #Thermite #PerpWalk #EpsteinFiles #CrimeSceneToCourtroom #GrandJury #LawyersCommittee #NSA #Interagency #October7 #Netanyahu #Bibi #CorbettReport
+
+*Last updated: 2026-08-01*
 
 ---
 
+## Limits and disclaimers
 
-**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
+> **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers above adjudicate specific claims.
 
-Keywords: #Richardgage #Ae911truth #Controlled #Demolition #911 #Physics #Forensic #Noplanes #Wtc7 #Censorship #Controlledopposition #Covid #Openairprison #Nonprofitcontainment #501c3 #JudyWood #DEW #Dustification #PoisonTheWell #ExtremeHangout #Thermite
+- **Author thesis (§12–§13)** is **first-class** pattern language for this project and is **not** automatically factual; **no** claim here that Gage is a **named paid asset**.
+- **CO flag** attaches to **method** (perp-walk / indictment theater / Epstein-proximity hunting; refusal of interagency debate), not to every **forensic CD** sentence Gage has uttered.
+- **Fiction / film series ≠ conviction:** *Crime Scene to Courtroom* is **advocacy media**, not a sitting grand jury verdict.
+- Cross-links to good-actor / NSA theses are **thematic**, not proof that Gage knows and rejects those frames.
+
+---
+
+## Investigator notes
+
+- Session 2026-08-01: author voice-note on Gage CO / Epstein perp-walk / Trump end-state captured in §12; C2C + Feb 2026 Epstein post used as primary anchors.
+- Keywords normalized to Option B PascalCase (prior split tags `#Controlled #Demolition` etc. were invalid for `check-keywords`).
+- Prior incomplete PATCO presidency edit (Jul 26 session) is a **separate** file — not this dossier.
 
 **Substack:** [paradigmthreat2.substack.com/p/investigation-richard-gage-ae911truth](https://paradigmthreat2.substack.com/p/investigation-richard-gage-ae911truth)

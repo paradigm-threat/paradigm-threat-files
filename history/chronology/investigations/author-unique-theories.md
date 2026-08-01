@@ -3,7 +3,7 @@
 > **TL;DR:** Central index of **Paradigm Threat / author** claims that are **not** standard Fomenko, Illig, Velikovsky, etc., and for which **no close prior-art match** has been found in mainstream or NC literature after repo search. Each entry links to its **canonical dossier** or timeline event. **Prior art: none** means **no external author stating the same package** — adjacent ideas may exist; see per-file Limits.
 
 **Status:** Living registry (add rows when a new author-unique thread ships).  
-**Last updated:** 2026-07-26 (AU-040 God Is a Woman — feminine Creator / Baal→mal)
+**Last updated:** 2026-08-01 (AU-041 related false flags after 9/11 — Oct 7 / France / Vegas)
 **Lexical redaction cross-ref hub:** [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — master table for all **word-redaction** dossiers (**AU-027** meta-thesis).
 
 ---
@@ -58,6 +58,7 @@ Per-investigation **§ Author open claims** blocks remain the **detail** registr
 |----|----------------|-----------|-----------------|
 | **AU-037** | **2020 selective battleground theft** + delay exploit; AZ log denial + spectacle recount; antibodies → **2026** audits; Edison = poisoned-hinge CO; **one-node → network-collapse** virus; midterm legitimacy **all-or-nothing / faith**; **no** institutional-headline faith owed | **partial** (pieces widespread; **full package** author) | [2020 election fraud dossier](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) |
 | **AU-039** | **NSA-aligned presidencies gauge** — only **Republican** nominees readable for constituent groundedness; **Nixon** grounded / crook-smear containment; **Reagan** Hollywood construct + CIA/globalist Russia-war play (media = incompetent puppet); **Trump** decades NSA containment plan; ***BTTF* 1–2** NSA; PATCO + ***Airplane*** attack lane | **partial** (Watergate CO / Reagan actor lore / Trump antibody widespread; **three-president gauge + attack-knife inversion package** author) | [NSA-aligned presidencies](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md) |
+| **AU-041** | **Related FF after 9/11** — France/Vegas as **early NSA/Mossad-aligned** hotspot staging (*Children of Men* preemption); **Oct 7** related FF; **CIA rebrand** via perp-walk truth movements (Gage/Corbett **Bibi walk** specimen) | **partial** (Oct 7 CO / Vegas staging folklore widespread; **hotspot-preemption + rebrand-war package** author) | [Related false flags dossier](/events/false_flag/investigations/related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md); [Gage §12.5](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md#125-october-7--bibi-perp-walk-specimen-gage--corbett) |
 
 ## Christianity & war (author vs Fomenko)
 
