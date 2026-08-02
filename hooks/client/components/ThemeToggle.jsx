@@ -9,14 +9,10 @@ import { IconMoon, IconSun } from 'hooks/client/components/Icons.jsx'
  *
  * Host note: relay-runtime-web.js applyInjectedCss → syncHtmlThemeClass mirrors
  * WASM get_current_theme_name() (theme.yaml current_theme, usually light) onto
- * <html class> on every doRender. That overwrites tip class flips after catalog
- * hydrate remounts. Re-assert from tip preference on an interval.
- *
- * CleverScript `localStorage` is in-memory (TLS), not browser localStorage.
- * Also keep a module bag — nested `function` bodies can lose bare module lets.
+ * <html class> on every doRender, wiping tip class flips after catalog hydrate.
+ * Persist the choice on html[data-pt-theme] (survives mount innerHTML wipes) and
+ * re-assert class from that on an interval. Tip localStorage is in-memory TLS only.
  */
-
-const themeSession = { name: '' }
 
 function applyThemeClass(name) {
   try {
@@ -24,7 +20,6 @@ function applyThemeClass(name) {
     if (name === 'light' || name === 'dark') {
       document.documentElement.setAttribute('class', name)
     } else if (name === '') {
-      // Empty class → dual CSS honors prefers-color-scheme (undo host light force).
       document.documentElement.setAttribute('class', '')
     }
   } catch (e) {}
@@ -51,16 +46,31 @@ function readHtmlTheme() {
   return ''
 }
 
-function readSavedTheme() {
+function readDataTheme() {
   try {
-    if (themeSession.name === 'dark' || themeSession.name === 'light') {
-      return themeSession.name
+    if (!document || !document.documentElement) return ''
+    const d = document.documentElement.getAttribute('data-pt-theme')
+    if (d === 'dark' || d === 'light') return d
+  } catch (e) {}
+  return ''
+}
+
+function writeDataTheme(name) {
+  try {
+    if (!document || !document.documentElement) return
+    if (name === 'dark' || name === 'light') {
+      document.documentElement.setAttribute('data-pt-theme', name)
     }
-  } catch (e0) {}
+  } catch (e) {}
+}
+
+function readSavedTheme() {
+  const fromDom = readDataTheme()
+  if (fromDom === 'dark' || fromDom === 'light') return fromDom
   try {
     const s = localStorage.getItem('pt-theme')
     if (s === 'dark' || s === 'light') {
-      themeSession.name = s
+      writeDataTheme(s)
       return s
     }
   } catch (e) {}
@@ -68,9 +78,7 @@ function readSavedTheme() {
 }
 
 function saveTheme(name) {
-  try {
-    themeSession.name = name
-  } catch (e0) {}
+  writeDataTheme(name)
   try {
     localStorage.setItem('pt-theme', name)
   } catch (e) {}
@@ -85,8 +93,7 @@ function assertThemeClass() {
     }
     return
   }
-  // No tip preference yet: undo syncHtmlThemeClass forcing WASM current_theme=light
-  // so the dual sheet can follow prefers-color-scheme until the user toggles.
+  // No preference: undo host syncHtmlThemeClass light force so prefers-color-scheme wins.
   if (cur === 'light' || cur === 'dark') {
     applyThemeClass('')
   }
@@ -98,7 +105,6 @@ export default function ThemeToggle() {
   useEffect(() => {
     if (!live) return
     assertThemeClass()
-    // Beat host syncHtmlThemeClass after each doRender (catalog hydrate, etc.).
     const id = setInterval(() => {
       assertThemeClass()
     }, 200)
