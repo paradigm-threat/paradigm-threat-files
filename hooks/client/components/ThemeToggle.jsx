@@ -7,11 +7,8 @@ import { IconMoon, IconSun } from 'hooks/client/components/Icons.jsx'
  * Dual theme CSS (html.dark / html.light) + both icons live in the sheet;
  * show/hide via navChromeCss. Do not call setCurrentTheme or set data-theme.
  *
- * Host note: relay-runtime-web.js applyInjectedCss → syncHtmlThemeClass mirrors
- * WASM get_current_theme_name() (theme.yaml current_theme, usually light) onto
- * <html class> on every doRender, wiping tip class flips after catalog hydrate.
- * Persist the choice on html[data-pt-theme] (survives mount innerHTML wipes) and
- * re-assert class from that on an interval. Tip localStorage is in-memory TLS only.
+ * Host syncHtmlThemeClass prefers html[data-pt-theme] over WASM current_theme,
+ * so catalog remounts keep the tip choice without a polling interval.
  */
 
 function applyThemeClass(name) {
@@ -93,7 +90,7 @@ function assertThemeClass() {
     }
     return
   }
-  // No preference: undo host syncHtmlThemeClass light force so prefers-color-scheme wins.
+  // No preference: clear forced class so prefers-color-scheme can win.
   if (cur === 'light' || cur === 'dark') {
     applyThemeClass('')
   }
@@ -105,14 +102,6 @@ export default function ThemeToggle() {
   useEffect(() => {
     if (!live) return
     assertThemeClass()
-    const id = setInterval(() => {
-      assertThemeClass()
-    }, 200)
-    return () => {
-      try {
-        clearInterval(id)
-      } catch (e) {}
-    }
   }, [live])
 
   return (

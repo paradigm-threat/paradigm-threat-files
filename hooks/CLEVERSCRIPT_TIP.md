@@ -59,7 +59,9 @@ Relay CleverScript is **not** React Fiber. On web, each `setState` that calls `s
 | CSS `:has()` / radio tabs for ChangeLog | Tab `setState` that remounts markdown |
 | Host-native widgets for high-churn UI | Grow tip libraries that thrash `setState` |
 
-**Theme / font toggles:** class / attribute + CSS only. Keep both theme icons in the DOM; show/hide with `html.dark` / default light rules in `navChromeCss`. Persist with `localStorage` in the click handler. **Never** call `setCurrentTheme` / `data-theme` for park chrome (CSS regen + full re-render). Canon: `relay-gateway/docs/RELAY_CLEVERSCRIPT_REACT_RENDERING.md`.
+**Theme / font toggles (web):** class / attribute + dual sheet only. Runtime injects `css_for_web_system` (`html.dark` / `html.light` + `prefers-color-scheme`). Keep both theme icons in the DOM; show/hide with `html.dark` rules in `navChromeCss`. Persist with `html[data-pt-theme]` + `localStorage` (host `syncHtmlThemeClass` prefers `data-pt-theme` over WASM `current_theme`). **Never** call `setCurrentTheme` / `data-theme` for park chrome (CSS regen + full re-render). Canon: `relay-gateway/docs/RELAY_CLEVERSCRIPT_REACT_RENDERING.md`, `relay-runtime/docs/STYLE_RESOLUTION.md`.
+
+**Theme on Android (prep — do not implement tip DOM flips):** same `theme.yaml` `light`/`dark` tokens. Host uses JNI `nativeSetThemeAndRender(name)` to re-resolve the stored VNode **without** a CleverScript hook re-run (one native apply). Future dual style maps may remove re-resolve; until then tips must not rely on `html.dark` / `navChromeCss` cascade.
 
 **Inactive until hydrated:** host SSR HTML emits `html[data-pt-hydrated="0"]`; web glue flips to `"1"` when `set_client_live(true)` (same moment as `isClientLive()`). Tip CSS greys `.pt-client-only` (theme/font/menu/Feeling Lucky) and softens P2 placeholders (`data-pt-*-ssr`) while `"0"`. Nav links + article stay clickable. Mark client-only controls with class `pt-client-only`. Tip Nav also asserts the attr once live (fallback if host glue lags).
 
