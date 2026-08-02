@@ -54,14 +54,22 @@ export function rowUpdated(row) {
 /**
  * Stem/slug thumb map from on-tree changelog-thumbs.json (built with nav-index).
  * Hydrate-only — do not call during SSR site-shell.
+ * Module warm: one parse per tip session (shared by ChangeLog panels).
  */
+let changelogThumbsWarm = null
+
 export function loadChangelogThumbs() {
+  if (changelogThumbsWarm !== null) return changelogThumbsWarm
   try {
     const text = cachedGet('/changelog-thumbs.json')
     const obj = parseJson(text)
-    if (obj && typeof obj === 'object') return obj
+    if (obj && typeof obj === 'object') {
+      changelogThumbsWarm = obj
+      return changelogThumbsWarm
+    }
   } catch (e) {}
-  return {}
+  changelogThumbsWarm = {}
+  return changelogThumbsWarm
 }
 
 /** Look up same-Host image path for an article ('' when missing). */
