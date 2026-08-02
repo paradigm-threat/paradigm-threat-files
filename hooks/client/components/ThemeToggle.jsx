@@ -1,11 +1,11 @@
-import React, { useState, useEffect } from 'react'
+import React, { useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
 import { IconMoon, IconSun } from 'hooks/client/components/Icons.jsx'
 
 /**
- * Flip html.light / html.dark only. Dual theme CSS is already in #relay-ssr-theme.
- * CleverScript tip Dom: use setAttribute('class', …) — classList is unreliable in tip handlers.
- * Do not call setCurrentTheme or set data-theme (full CSS rebuild / embed delegation stalls).
+ * Flip html.light / html.dark only — no useState / set_render_requested.
+ * Dual theme CSS (html.dark / html.light) + both icons live in the sheet;
+ * show/hide via navChromeCss. Do not call setCurrentTheme or set data-theme.
  */
 
 function applyThemeClass(name) {
@@ -66,15 +66,10 @@ function resolveInitialTheme() {
 
 export default function ThemeToggle() {
   const live = isClientLive() === true
-  const state = useState('light')
-  const theme = state[0]
-  const setTheme = state[1]
 
   useEffect(() => {
     if (!live) return
-    const resolved = resolveInitialTheme()
-    setTheme(resolved)
-    applyThemeClass(resolved)
+    applyThemeClass(resolveInitialTheme())
   }, [live])
 
   return (
@@ -82,17 +77,22 @@ export default function ThemeToggle() {
       type="button"
       id="pt-theme-toggle"
       className="pt-icon-btn"
-      title={live ? 'Toggle theme (' + theme + ')' : 'Theme toggle available after page loads'}
+      title={live ? 'Toggle light / dark theme' : 'Theme toggle available after page loads'}
       disabled={!live}
       onClick={() => {
         if (!live) return
-        const next = theme === 'dark' ? 'light' : 'dark'
+        const cur = readHtmlTheme()
+        const next = cur === 'dark' ? 'light' : 'dark'
         applyThemeClass(next)
         saveTheme(next)
-        setTheme(next)
       }}
     >
-      {theme === 'dark' ? <IconSun /> : <IconMoon />}
+      <span className="pt-theme-icon-moon" aria-hidden="true">
+        <IconMoon />
+      </span>
+      <span className="pt-theme-icon-sun" aria-hidden="true">
+        <IconSun />
+      </span>
     </button>
   )
 }

@@ -17,6 +17,8 @@ npm run park:smoke
 # equivalent: ./scripts/ssr-smoke.sh
 ```
 
+**Local perf / chrome toggles:** theme and font must flip via `html` class / `data-font` **without** CleverScript `setState` (full shell remount). After hydrate, click theme — article DOM must stay put. See [`hooks/CLEVERSCRIPT_TIP.md`](../hooks/CLEVERSCRIPT_TIP.md) § Render rarity.
+
 Unit regressions (no live server):
 
 ```bash

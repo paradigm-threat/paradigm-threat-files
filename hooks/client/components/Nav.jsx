@@ -21,14 +21,22 @@ const MARK_URL = 'https://paradigmthreat.net/site/favicon.svg'
 const FONT_STYLESHEET =
   'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&family=Libre+Franklin:ital,wght@0,400;0,600;1,400&display=swap'
 
-/** Glass + article font stacks (themed-styler cannot express backdrop-filter / data-font).
+/** Glass + article font stacks + chrome toggles that must not use CleverScript setState.
+ * (themed-styler cannot express backdrop-filter / data-font / html.dark icon swap.)
  * Prefer <link rel="stylesheet"> in Nav over @import inside <style> (blocks paint). */
 function navChromeCss() {
   return (
     '.pt-site-nav{-webkit-backdrop-filter:saturate(180%) blur(12px);backdrop-filter:saturate(180%) blur(12px);}' +
     '.pt-article-body{font-family:"EB Garamond",Georgia,serif;font-size:1.125rem;line-height:1.65;}' +
     'html[data-font="franklin"] .pt-article-body{font-family:"Libre Franklin",system-ui,sans-serif;font-size:1.05rem;}' +
-    'html[data-font="mono"] .pt-article-body{font-family:"JetBrains Mono","Courier New",monospace;font-size:0.95rem;}'
+    'html[data-font="mono"] .pt-article-body{font-family:"JetBrains Mono","Courier New",monospace;font-size:0.95rem;}' +
+    '.pt-font-toggle{font-family:"EB Garamond",Georgia,serif;}' +
+    'html[data-font="franklin"] .pt-font-toggle{font-family:"Libre Franklin",system-ui,sans-serif;}' +
+    'html[data-font="mono"] .pt-font-toggle{font-family:"JetBrains Mono","Courier New",monospace;}' +
+    '.pt-theme-icon-sun{display:none;}' +
+    '.pt-theme-icon-moon{display:inline-flex;}' +
+    'html.dark .pt-theme-icon-sun{display:inline-flex;}' +
+    'html.dark .pt-theme-icon-moon{display:none;}'
   )
 }
 

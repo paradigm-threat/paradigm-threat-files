@@ -47,6 +47,21 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - **Heading override callables must not be named `h1`…`h6`** — CleverScript JSX can resolve those lowercase tags to the local binding and recurse until “Maximum recursion depth exceeded”. Name them `renderHeading1`, etc.
 - **New tip modules must be listed in `hooks.json`** — CSR hydrate only prefetches that manifest (SSR follows imports). Missing entries → `Module not found: hooks/...` hydration error with static shell left below.
 
+## Render rarity (theme, font, chrome)
+
+Relay CleverScript is **not** React Fiber. On web, each `setState` that calls `set_render_requested` re-runs the **whole** site-shell hook and (post-hydrate) **wipes and rebuilds** the mount (`innerHTML` replace). Optimize by making CleverScript re-renders **extremely rare** — not by memoizing subtrees that do not exist yet.
+
+| Do | Don't |
+|----|--------|
+| Flip `html` class (`light`/`dark`) against dual CSS (`html.dark` / `html.light`) | `useState` only to swap sun/moon icons |
+| Flip `html[data-font]` + CSS for article / Ag badge face | `setState` on every font cycle |
+| CSS `:has()` / radio tabs for ChangeLog | Tab `setState` that remounts markdown |
+| Host-native widgets for high-churn UI | Grow tip libraries that thrash `setState` |
+
+**Theme / font toggles:** class / attribute + CSS only. Keep both theme icons in the DOM; show/hide with `html.dark` / default light rules in `navChromeCss`. Persist with `localStorage` in the click handler. **Never** call `setCurrentTheme` / `data-theme` for park chrome (CSS regen + full re-render). Canon: `relay-gateway/docs/RELAY_CLEVERSCRIPT_REACT_RENDERING.md`.
+
+Validate on park-local: after hydrate, theme click must **not** remount the article node — only `documentElement` class / paint.
+
 ## SSR priority tiers (P0–P3)
 
 Site-shell SSR is **article-first**, not catalog-first. If it is not the article path or static chrome, it belongs on hydrate.

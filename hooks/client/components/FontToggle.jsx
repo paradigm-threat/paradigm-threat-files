@@ -1,10 +1,12 @@
-import React, { useState, useEffect } from 'react'
+import React, { useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
 
 /**
- * Apply article font via html[data-font]. Use bare `document` (CleverScript builtin);
- * globalThis.document is often unset in tip handlers so setAttribute silently no-ops.
+ * Cycle article font via html[data-font] only — no useState / set_render_requested.
+ * Button face + article body fonts come from navChromeCss (data-font selectors).
+ * Use bare `document` (CleverScript builtin); globalThis.document is often unset in tip handlers.
  */
+
 function applyFont(key) {
   try {
     if (!document || !document.documentElement) return
@@ -14,6 +16,18 @@ function applyFont(key) {
       document.documentElement.setAttribute('data-font', key)
     }
   } catch (e) {}
+}
+
+function readHtmlFont() {
+  try {
+    if (!document || !document.documentElement) return 'garamond'
+    let v = ''
+    try {
+      v = document.documentElement.getAttribute('data-font')
+    } catch (e0) {}
+    if (v === 'franklin' || v === 'mono') return v
+  } catch (e) {}
+  return 'garamond'
 }
 
 function readSavedFont() {
@@ -34,18 +48,6 @@ function saveFont(key) {
   } catch (e) {}
 }
 
-function fontFamilyFor(key) {
-  if (key === 'franklin') return "'Libre Franklin', system-ui, sans-serif"
-  if (key === 'mono') return "'JetBrains Mono', 'Courier New', monospace"
-  return "'EB Garamond', Georgia, serif"
-}
-
-function fontTitleFor(key) {
-  if (key === 'franklin') return 'Libre Franklin (sans-serif)'
-  if (key === 'mono') return 'JetBrains Mono (monospace)'
-  return 'EB Garamond (serif)'
-}
-
 function nextFont(key) {
   if (key === 'garamond') return 'franklin'
   if (key === 'franklin') return 'mono'
@@ -55,33 +57,27 @@ function nextFont(key) {
 /** Cycle article fonts — Ag badge. */
 export default function FontToggle() {
   const live = isClientLive() === true
-  const state = useState('garamond')
-  const font = state[0]
-  const setFont = state[1]
 
   useEffect(() => {
     if (!live) return
-    const saved = readSavedFont()
-    setFont(saved)
-    applyFont(saved)
+    applyFont(readSavedFont())
   }, [live])
-
-  const family = fontFamilyFor(font)
-  const title = fontTitleFor(font)
 
   return (
     <button
       type="button"
       className="pt-icon-btn pt-font-toggle"
-      title={live ? 'Font: ' + title + ' — click to cycle' : 'Font toggle after page loads'}
+      title={
+        live
+          ? 'Cycle article font (Garamond / Franklin / Mono)'
+          : 'Font toggle after page loads'
+      }
       disabled={!live}
-      style={{ fontFamily: family }}
       onClick={() => {
         if (!live) return
-        const next = nextFont(font)
-        setFont(next)
-        saveFont(next)
+        const next = nextFont(readHtmlFont())
         applyFont(next)
+        saveFont(next)
       }}
     >
       Ag
