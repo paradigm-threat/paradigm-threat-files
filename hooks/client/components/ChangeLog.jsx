@@ -50,7 +50,8 @@ function buildBuckets(limit) {
   }
 }
 
-const LOGO_URL = 'https://paradigmthreat.net/site/favicon.svg'
+/** Same-Host chrome — apex paradigmthreat.net/site/*.svg currently returns Next SPA HTML. */
+const LOGO_URL = '/site/favicon.svg'
 
 function contentCard(item, tabId, idx) {
   const title = item.title
