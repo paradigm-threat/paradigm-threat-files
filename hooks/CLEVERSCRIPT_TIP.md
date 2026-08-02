@@ -61,6 +61,8 @@ Relay CleverScript is **not** React Fiber. On web, each `setState` that calls `s
 
 **Theme / font toggles:** class / attribute + CSS only. Keep both theme icons in the DOM; show/hide with `html.dark` / default light rules in `navChromeCss`. Persist with `localStorage` in the click handler. **Never** call `setCurrentTheme` / `data-theme` for park chrome (CSS regen + full re-render). Canon: `relay-gateway/docs/RELAY_CLEVERSCRIPT_REACT_RENDERING.md`.
 
+**Inactive until hydrated:** host SSR HTML emits `html[data-pt-hydrated="0"]`; web glue flips to `"1"` when `set_client_live(true)` (same moment as `isClientLive()`). Tip CSS greys `.pt-client-only` (theme/font/menu/Feeling Lucky) and softens P2 placeholders (`data-pt-*-ssr`) while `"0"`. Nav links + article stay clickable. Mark client-only controls with class `pt-client-only`. Tip Nav also asserts the attr once live (fallback if host glue lags).
+
 Validate on park-local: after hydrate, theme click must **not** remount the article node — only `documentElement` class / paint.
 
 ## SSR priority tiers (P0–P3)
@@ -81,9 +83,11 @@ Site-shell SSR is **article-first**, not catalog-first. If it is not the article
 | Tier | Examples | SSR | Hydrate |
 |------|----------|-----|---------|
 | **P0 Content** | Article / `page.md` markdown, heading TOC from the same `extractMarkdownHeadings` | **Required** — tip-safe `cachedGet('/'+path)` (in-process on gateway; not same-Host HTTP) + `MarkdownRenderer` | Reuse same tree (no blank flash) |
-| **P1 Shell** | Brand, hardcoded header/footer links in `Nav.jsx`, theme CSS markers | **Required**, **fetch-free** (literals only; never `nav-index` for the top nav) | Menu / theme / font handlers only |
+| **P1 Shell** | Brand, hardcoded header/footer links in `Nav.jsx`, theme CSS markers | **Required**, **fetch-free** (literals only; never `nav-index` for the top nav) | Menu / theme / font handlers only; `data-pt-hydrated` → `"1"` |
 | **P2 Catalog** | DirNav tree, ChangeLog cards, Feeling Lucky, neighbors, AutoIndex, Home index lists | **Forbidden** — placeholder only (`data-pt-dirnav-ssr` / `data-pt-changelog-ssr`) | `loadNavIndex` / `loadArticleRows` |
 | **P3 Interactive** | Gallery, TTS, theme/font persistence, search QUERY | **Forbidden** | Only when `isClientLive() === true` |
+
+**`data-pt-hydrated`:** gateway embed sets `"0"` on `<html>`; `relay-runtime-web.js` sets `"1"` when promoting live. Tip styles `[data-pt-hydrated="0"] .pt-client-only` (plus `:disabled` / `aria-disabled` fallbacks). Do **not** invent a parallel hydrate flag.
 
 **Soft rule:** tip-blob reads for P0 are allowed on SSR via `RepoFetchHost` / `cachedGet`. Same-Host **HTTP** `fetch` / QUERY still deadlocks the worker — never do that. Optional later: host lint when `loadNavIndex` runs with `!isClientLive`.
 

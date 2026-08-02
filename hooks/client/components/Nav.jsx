@@ -1,4 +1,5 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
+import { isClientLive } from '@clevertree/style-internal'
 import ThemeToggle from 'hooks/client/components/ThemeToggle.jsx'
 import FontToggle from 'hooks/client/components/FontToggle.jsx'
 import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
@@ -23,7 +24,9 @@ const FONT_STYLESHEET =
 
 /** Glass + article font stacks + chrome toggles that must not use CleverScript setState.
  * (themed-styler cannot express backdrop-filter / data-font / html.dark icon swap.)
- * Prefer <link rel="stylesheet"> in Nav over @import inside <style> (blocks paint). */
+ * Prefer <link rel="stylesheet"> in Nav over @import inside <style> (blocks paint).
+ * Inactive-until-hydrated: host sets html[data-pt-hydrated]; .pt-client-only greys out
+ * (links / article stay clickable). :disabled / aria-disabled cover pre-host tips. */
 function navChromeCss() {
   return (
     '.pt-site-nav{-webkit-backdrop-filter:saturate(180%) blur(12px);backdrop-filter:saturate(180%) blur(12px);}' +
@@ -36,7 +39,17 @@ function navChromeCss() {
     '.pt-theme-icon-sun{display:none;}' +
     '.pt-theme-icon-moon{display:inline-flex;}' +
     'html.dark .pt-theme-icon-sun{display:inline-flex;}' +
-    'html.dark .pt-theme-icon-moon{display:none;}'
+    'html.dark .pt-theme-icon-moon{display:none;}' +
+    'html[data-pt-hydrated="0"] .pt-client-only,' +
+    '.pt-client-only:disabled,' +
+    '.pt-client-only[aria-disabled="true"]{' +
+    'opacity:0.45;filter:grayscale(0.35);pointer-events:none;cursor:wait;' +
+    '}' +
+    'html[data-pt-hydrated="0"] [data-pt-dirnav-ssr],' +
+    'html[data-pt-hydrated="0"] [data-pt-changelog-ssr],' +
+    'html[data-pt-hydrated="0"] [data-pt-autoindex-ssr]{' +
+    'opacity:0.55;filter:grayscale(0.2);' +
+    '}'
   )
 }
 
@@ -101,9 +114,18 @@ function renderNavLinks(links, prefix, mobile) {
 
 export default function Nav(props) {
   const currentPath = propStr(props, 'currentPath', '/')
+  const live = isClientLive() === true
   const menu = useState(false)
   const isOpen = menu[0]
   const setOpen = menu[1]
+
+  // Tip fallback: host/runtime sets data-pt-hydrated; assert "1" once live (no setState).
+  useEffect(() => {
+    try {
+      if (!document || !document.documentElement) return
+      document.documentElement.setAttribute('data-pt-hydrated', live ? '1' : '0')
+    } catch (e) {}
+  }, [live])
 
   function isActive(href) {
     if (href === '/') {
@@ -182,10 +204,12 @@ export default function Nav(props) {
             </div>
             <button
               type="button"
-              className="pt-icon-btn pt-nav-menu-btn lg:pt-nav-menu-btn-lg"
+              className="pt-icon-btn pt-nav-menu-btn pt-client-only lg:pt-nav-menu-btn-lg"
               aria-label={isOpen ? 'Close menu' : 'Open menu'}
               aria-expanded={isOpen ? 'true' : 'false'}
+              disabled={!live}
               onClick={() => {
+                if (!live) return
                 setOpen(!isOpen)
               }}
             >

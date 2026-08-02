@@ -119,7 +119,7 @@ export default function ThemeToggle() {
     <button
       type="button"
       id="pt-theme-toggle"
-      className="pt-icon-btn"
+      className="pt-icon-btn pt-client-only"
       title={live ? 'Toggle light / dark theme' : 'Theme toggle available after page loads'}
       disabled={!live}
       onClick={() => {

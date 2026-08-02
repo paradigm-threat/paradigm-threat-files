@@ -66,7 +66,7 @@ export default function FontToggle() {
   return (
     <button
       type="button"
-      className="pt-icon-btn pt-font-toggle"
+      className="pt-icon-btn pt-font-toggle pt-client-only"
       title={
         live
           ? 'Cycle article font (Garamond / Franklin / Mono)'

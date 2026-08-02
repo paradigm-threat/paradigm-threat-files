@@ -13,9 +13,10 @@ export default function FeelingLucky() {
 
   return (
     <a
-      className="pt-btn pt-feeling-lucky"
+      className="pt-btn pt-feeling-lucky pt-client-only"
       href={live ? href : '#'}
-      title="Feeling Lucky"
+      title={live ? 'Feeling Lucky' : 'Feeling Lucky available after page loads'}
+      aria-disabled={live ? 'false' : 'true'}
       onClick={() => {
         if (!live) return
         const next = pickFeelingLuckyPath()
