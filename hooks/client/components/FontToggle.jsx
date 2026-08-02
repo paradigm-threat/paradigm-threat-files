@@ -5,14 +5,14 @@ import { isClientLive } from '@clevertree/style-internal'
  * Cycle article font via html[data-font] only — no useState / set_render_requested.
  * Button face + article body fonts come from navChromeCss (data-font selectors).
  * Use bare `document` (CleverScript builtin); globalThis.document is often unset in tip handlers.
+ * Tip Dom has setAttribute/getAttribute only — never removeAttribute (throws; empty catch stuck on mono).
  */
 
 function applyFont(key) {
   try {
     if (!document || !document.documentElement) return
-    if (key === 'garamond') {
-      document.documentElement.removeAttribute('data-font')
-    } else {
+    // Always set — do not removeAttribute (not on CleverScript DomNode).
+    if (key === 'franklin' || key === 'mono' || key === 'garamond') {
       document.documentElement.setAttribute('data-font', key)
     }
   } catch (e) {}
@@ -25,7 +25,7 @@ function readHtmlFont() {
     try {
       v = document.documentElement.getAttribute('data-font')
     } catch (e0) {}
-    if (v === 'franklin' || v === 'mono') return v
+    if (v === 'franklin' || v === 'mono' || v === 'garamond') return v
   } catch (e) {}
   return 'garamond'
 }

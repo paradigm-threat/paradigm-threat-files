@@ -35,6 +35,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - **No `Array#indexOf`** — only `String#indexOf` exists. Loop to test membership.
 - **CSS radio tabs** for ChangeLog (no `setState` tab state — it remounts the article). Host `RadioTabs` is available when you want generic tabs.
 - Nest tab radios in `<label>` (no `htmlFor`).
+- **Tip Dom:** `setAttribute` / `getAttribute` only — **no `removeAttribute`**, **no `classList`**. Prefer `setAttribute('class', …)` / always set `data-*` values (e.g. font cycle must `setAttribute('data-font', 'garamond')`, not remove).
 - **No named function expressions** (`return function foo() {}`) — use arrows (`() => {}`).
 - **No `encodeURIComponent` / `charCodeAt` / `window`** — not in the CS allowlist (`document` + `globalThis` are). Prefer simple string loops.
 - **Named `export function` / `export const` / `export let` / `export default` are supported.** Do **not** use `export { name }` re-exports or `export default create()` (call expression as sole default without binding).
