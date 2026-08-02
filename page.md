@@ -165,6 +165,7 @@ or *not* believing.
 #### Influence
 
 * [Controlled opposition hub](/influence/controlled_opposition/page) - CO patterns, QAnon cluster, CIA Reading Room Mars **remote viewing** dossier; readable [**Mars x *Chrono Trigger* article**](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md).
+* [Snowden x WikiLeaks - CIA-aligned CO (open)](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md) - CIA pedigree, NSA-targeting leak, Moscow hybrid billboard; WikiLeaks dumps / Russia amplifier / extradition theater; vs NSA-antibody counter-read.
 * [2020 election -  Edison/Dominion CO vs forward audits](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) - Poisoned hinge; **one-node != network**; all-or-nothing midterm legitimacy; AFL/2026 audits.
 * [Mudflood gatekeepers](/influence/controlled_opposition/mudflood-gatekeepers.md) - CO in every virtue-lane; Winter Palace/Konstantin poison pill; Spurr email; StolenHistory ban (Jul 2026).
 * [Captured courts, wrong villain](/influence/controlled_opposition/captured-courts-wrong-villain.md) - **BRSINV** / St. Julian: federal court-capture substance vs **Zionist** scapegoat trap; **Blue_French_Qtr** Brantley demoralization; **1979** / CIA / NSA counter-frame.

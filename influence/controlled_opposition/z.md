@@ -38,12 +38,16 @@ conspiratorial, in a networking sense. We have published their meeting notes." -
 source below). Assange doesn't talk about western state sponsored terror and while he has talked about banks he hasn't
 attacked the central banks, BIS or World Bank.
 
+**Extended dossier:** [Snowden × WikiLeaks — CIA-aligned CO](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md) §6.
+
 #### Edward Snowden
 
 He told us that the NSA spies us - didn't we already know this? Snowden doesn't talk about, or release documents on
 western state sponsored terror, illegal wars and occupations, torture, 9/11 or even a corrupt politican or banker - if
 he did have top-level clearance he should have been able to find some evidence. The US Gov't even allowed his
 pole-dancing fiancé to fly to Russia and marry him.
+
+**Extended dossier:** [Snowden × WikiLeaks — CIA-aligned CO](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md).
 
 #### Donald Trump
 

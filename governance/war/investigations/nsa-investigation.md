@@ -151,7 +151,7 @@ That line is the **investigation's thesis in miniature**: not a weapon for the *
 - [ ] Primary sources: NSA **1980s** analytic product on **Iran / Islamist proxy** geometry (holy-war hypothesis)
 - [ ] *Tron* production — Disney/DoD/NSA entertainment-office contacts (compare Sneakers / Jack Ryan tasks)
 - [ ] Post-MINARET **internal NSA directives** — full text on targeting U.S. persons
-- [ ] Map **Snowden (2013)** to Tron read — SIGINT auditor goes public vs MCP
+- [x] Map **Snowden (2013)** to Tron read — SIGINT auditor goes public vs MCP → adjudicated in [Snowden × WikiLeaks CIA-aligned CO investigation](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md) §4 (**Read A** CIA-CO primary vs **Read B** Tron/antibody — both kept live)
 - [ ] Curriculum audits: Tonkin **post-2005** in U.S. history standards by state
 
 ---
@@ -166,6 +166,7 @@ That line is the **investigation's thesis in miniature**: not a weapon for the *
 | Proxy Islam who's who | [good-actor § I — Who's who](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | PP film catalog | [predictive_programming/page.md](/influence/predictive_programming/page.md) |
 | Atmospheric / weather authorization lane | [weather-mod § Political authorization](/science/geoengineering/weather-modification-investigation.md); [CIA § weather warfare](/governance/war/investigations/cia-investigation.md); Hollywood PP — [*The Arrival* (1996) dossier](/influence/hollywood/investigations/the-arrival-1996-geoengineering-agw-cover-investigation.md) |
+| Snowden / WikiLeaks — CIA-CO vs Tron antibody adjudication | [snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md) |
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers in § VI adjudicate specific claims.
 
