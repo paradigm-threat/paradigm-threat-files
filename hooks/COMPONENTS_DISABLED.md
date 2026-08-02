@@ -20,4 +20,4 @@ Hard custom markdown / site components are enabled incrementally on the thin par
 | `rewriteAssets.jsx` | **shipped** | Relative assets → GitLab Pages via `@relay/path.rewriteMarkdownAssetUrls` |
 | Right TOC column | **shipped** | Content-derived: `extractMarkdownHeadings` → `DynamicIndex` props + heading `id` overrides; `#id` links; hash active; shown on home `page.md` and articles; CSS marker in `SiteChrome` for soft-nav |
 
-Re-enable deferred rows one at a time using `hooks/CLEVERSCRIPT_TIP.md` + `./scripts/ssr-smoke.sh`.
+Re-enable deferred rows one at a time using `hooks/CLEVERSCRIPT_TIP.md`, local `relay-gateway/scripts/park-local.sh serve` + `smoke` (or `./scripts/ssr-smoke.sh`), and `park-local.sh unit` before fleet push. See `docs/RELAY_PARK_HARDENING.md`.

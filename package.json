@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "serve . -p 3010 --cors",
+    "park:smoke": "SSR_SMOKE_PORT=${SSR_SMOKE_PORT:-9080} bash scripts/ssr-smoke.sh",
     "check-keywords": "./.venv/bin/python scripts/check_keywords_format.py",
     "validate-site-claims": "node scripts/validate-site-claims.cjs",
     "check-no-ipfs-media-stubs": "bash scripts/check-no-ipfs-media-stubs.sh",

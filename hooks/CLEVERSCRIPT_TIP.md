@@ -2,6 +2,10 @@
 
 Hard rules for **SSR site-shell** hooks on this repo. Breaking them has taken the parked site offline.
 
+**Direction:** CleverScript is **routing and composition**. Heavy lift (parse, catalog, dates, path, search, image/IPFS, SSR document assembly) stays in **Rust** `@relay/*` / gateway natives. Do not grow tip-local libraries — extract a host helper and add a regression test. Canon: `relay-gateway/docs/CS_HOST_HELPERS.md`.
+
+**Local hardening (before fleet push):** `relay-gateway/scripts/park-local.sh` + [`docs/RELAY_PARK_HARDENING.md`](../docs/RELAY_PARK_HARDENING.md).
+
 ## Prefer host helpers
 
 Thin tip code via **`@relay/*`** (registered on SSR + WASM):
@@ -14,6 +18,8 @@ Thin tip code via **`@relay/*`** (registered on SSR + WASM):
 | `@relay/util` | `sortBy`, `take`, `prop`, `omitUndefined`, `slugify`, `uniqueId`, `includes` |
 | `@relay/ui` | `cachedGet`, `Link`, `RadioTabs`, `safeProps` |
 | `@relay/tts` | `synthesize` (Piper WAV→data URL), `AudioPlayer` |
+
+Server GET natives (already thin in `hooks/server/get.cs`): `@relay/md`, `@relay/ssr`, `@relay/web-assets`, `@relay/image`, `@relay/ipfs`. QUERY: `@relay/search/sqlite` only — no tip FTS.
 
 ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`parse`/`now`, `Array#sort`/`slice` (return **new** arrays), `String#replaceAll`, `undefined`→`null`. Prefer `Date.from(iso)` over reinventing month tables; still no `new Date()`.
 
@@ -69,20 +75,31 @@ Site-shell SSR is **article-first**, not catalog-first. If it is not the article
 - **P2/P3 stay light on SSR:** gate catalog / interactive work with `isClientLive() === true`. Do **not** call `loadArticleRows`, full nav-index parse, or QUERY until the client is live.
 - **Homepage `page.md` UTF-8 hazard (2026-07-22):** fleet WASM panics with `byte index … is not a char boundary` inside multi-byte chars (`—`, `“`, …) while hydrating `/`, then `[embed] boot failed RuntimeError: unreachable`. Keep **`page.md` ASCII-only** (no curly quotes, em dashes, arrows, æ). Hero image alts short/single-line. Bump `?v=ptmdN` when content must pierce CDN `max-age=3600`; do **not** use `Date.now()` in tip — breaks SSR compile. Root cause is Relay runtime byte-slice; content hygiene unblocks the parked site.
 
-## Pre-push smoke
+## Local park + pre-push smoke
 
-From a machine with the repo synced locally and relay-gateway on `:8080`:
+Prefer the gateway park loop (mirrors **worktree**, including dirty tip, into a local bare):
 
 ```bash
-./scripts/ssr-smoke.sh
+# terminal A — ~/dev/relay/relay-gateway
+./scripts/park-local.sh serve   # :9080 by default
+
+# terminal B — this repo, or from gateway:
+./scripts/park-local.sh smoke
+# or: npm run park:smoke   /   ./scripts/ssr-smoke.sh
 ```
 
 Expect **HTTP 200**, body contains **article markdown HTML** (e.g. `Welcome to Paradigm Threat` / `data-pt-article`), **TOC** when headings exist, `pt-changelog` used-class marker, and brand text. DirNav / ChangeLog **cards** still fill after hydrate.
 
+Unit regressions (no live server): `./scripts/park-local.sh unit` from `relay-gateway/` (`@relay/*` tests + park Host/SSR cargo tests).
+
 If SSR fails, parked GET `/` must return **500 Site shell / SSR failed**, not **Unknown Host** (gateway A1).
+
+Do **not** treat rapid fleet deploy / `autossh` into production `:8080` as the primary tip debugger. Local park defaults to **`:9080`** so it does not collide with host Kubo.
 
 ## Related
 
+- Local playbook: `docs/RELAY_PARK_HARDENING.md` · `relay-gateway/docs/PARADIGM_PARK_LOCAL.md`
+- Host helpers: `relay-gateway/docs/CS_HOST_HELPERS.md`
 - Gap log: `relay-gateway/docs/CLEVERSCRIPT_GAP_LOG.md` (G-005–G-007)
 - Policy / SSR HTML cache: `relay-gateway/docs/RELAY_POLICY_AND_PERFORMANCE.md`
 - Disabled components: `hooks/COMPONENTS_DISABLED.md`
