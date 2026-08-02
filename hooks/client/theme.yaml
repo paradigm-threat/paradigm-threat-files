@@ -690,6 +690,28 @@ themes:
         overflow: "hidden"
         boxShadow: "0 10px 15px -3px rgba(15, 23, 42, 0.12)"
         boxSizing: "border-box"
+      # Tailwind-parity float/clear for PopImage / figure className from markdown
+      # (sm:float-* resolves via used-class → base selector + breakpoint media).
+      ".float-left":
+        float: "left"
+      ".float-right":
+        float: "right"
+      ".float-none":
+        float: "none"
+      ".clear-left":
+        clear: "left"
+      ".clear-right":
+        clear: "right"
+      ".clear-both":
+        clear: "both"
+      ".clear-none":
+        clear: "none"
+      ".max-w-sm":
+        maxWidth: "24rem"
+      ".max-w-md":
+        maxWidth: "28rem"
+      ".max-w-lg":
+        maxWidth: "32rem"
       ".pt-popimage-inner":
         position: "relative"
         display: "block"
