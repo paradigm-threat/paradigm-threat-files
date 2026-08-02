@@ -17,6 +17,9 @@ server:
       path: hooks/server/mcp.cs
   search:
     plugin: sqlite
+  # Opt-in shared HTTP-01 + cert fan-out for catalog domains[] (park Host HTTPS).
+  tls:
+    plugin: park
 git:
   branchRules:
     default:
