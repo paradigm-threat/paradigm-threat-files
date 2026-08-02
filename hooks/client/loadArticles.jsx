@@ -1,6 +1,8 @@
 import manifest from '@hooks'
 import { loadNavIndex, pickFeelingLuckyPath as hostPickLucky } from '@relay/catalog'
 import { siteHref as hostSiteHref } from '@relay/path'
+import { cachedGet } from '@relay/ui'
+import { parseJson } from 'hooks/client/jsonUtil.jsx'
 
 function clientBase() {
   try {
@@ -47,6 +49,59 @@ export function rowUpdated(row) {
     if (row._updated && typeof row._updated === 'string') return row._updated
   } catch (e) {}
   return ''
+}
+
+/**
+ * Stem/slug thumb map from on-tree changelog-thumbs.json (built with nav-index).
+ * Hydrate-only — do not call during SSR site-shell.
+ */
+export function loadChangelogThumbs() {
+  try {
+    const text = cachedGet('/changelog-thumbs.json')
+    const obj = parseJson(text)
+    if (obj && typeof obj === 'object') return obj
+  } catch (e) {}
+  return {}
+}
+
+/** Look up same-Host image path for an article ('' when missing). */
+export function thumbForPath(thumbs, path) {
+  if (!thumbs || !path || path.length === 0) return ''
+  try {
+    const v = thumbs[path]
+    if (typeof v === 'string' && v.length > 0) return v
+  } catch (e) {}
+  return ''
+}
+
+/**
+ * Park ChangeLog `<img src>` — same-Host relative + optional `?w=160` (Vercel parity).
+ * Keeps `/site/*` chrome assets untouched; skips width for SVG.
+ */
+export function changelogThumbSrc(src) {
+  if (!src || typeof src !== 'string') return ''
+  let s = src.trim()
+  if (s.length === 0) return ''
+  if (s.indexOf('http://') === 0 || s.indexOf('https://') === 0) return s
+  if (s.charAt(0) !== '/') s = '/' + s
+  const q = s.indexOf('?')
+  let pathOnly = s
+  if (q >= 0) pathOnly = s.slice(0, q)
+  if (pathOnly.indexOf('/site/') === 0) return pathOnly
+  if (q >= 0) return s
+  let ext = ''
+  let i = pathOnly.length - 1
+  while (i >= 0) {
+    const c = pathOnly.charAt(i)
+    if (c === '.') {
+      ext = pathOnly.slice(i + 1)
+      break
+    }
+    if (c === '/') break
+    i = i - 1
+  }
+  if (ext === 'svg' || ext === 'SVG') return pathOnly
+  return pathOnly + '?w=160'
 }
 
 /**

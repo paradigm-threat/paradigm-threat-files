@@ -1387,6 +1387,15 @@ themes:
         borderColor: "var(primary)"
       ".pt-cl-card-media":
         flexShrink: 0
+      ".pt-cl-card-thumb":
+        width: "4.5rem"
+        height: "4.5rem"
+        borderRadius: "0.25rem"
+        borderWidth: 1
+        borderStyle: "solid"
+        borderColor: "var(border)"
+        objectFit: "cover"
+        backgroundColor: "var(card)"
       ".pt-cl-card-thumb-logo":
         width: "4.5rem"
         height: "4.5rem"
@@ -1445,6 +1454,11 @@ themes:
         display: "flex"
         alignItems: "center"
         justifyContent: "center"
+      ".pt-cl-entry-img":
+        width: "3.5rem"
+        height: "3.5rem"
+        borderRadius: "0.25rem"
+        objectFit: "cover"
       ".pt-cl-entry-logo":
         width: "2.75rem"
         height: "2.75rem"

@@ -1,6 +1,7 @@
 /**
  * Thin ChangeLog matching live paradigmthreat.net tabs + card/feed styles.
  * Card chrome lives in theme.yaml; only :has() radio wiring stays inline.
+ * Thumbs: stem/slug map from changelog-thumbs.json (Vercel queryRecentContent parity).
  */
 import React from 'react'
 import { isClientLive } from '@clevertree/style-internal'
@@ -8,10 +9,20 @@ import { basename } from '@relay/path'
 import { formatTiny, formatLong, formatFeed, sameDay } from '@relay/date'
 import { take, sortBy } from '@relay/util'
 import { contentKind, publishedFromBlogPath } from '@relay/catalog'
-import { loadArticleRows, rowPath, rowTitle, rowUpdated, siteHref } from 'hooks/client/loadArticles.jsx'
+import {
+  loadArticleRows,
+  loadChangelogThumbs,
+  rowPath,
+  rowTitle,
+  rowUpdated,
+  siteHref,
+  thumbForPath,
+  changelogThumbSrc,
+} from 'hooks/client/loadArticles.jsx'
 
 function buildBuckets(limit) {
   const rows = loadArticleRows(120)
+  const thumbs = loadChangelogThumbs()
   let articles = []
   let investigations = []
   let blog = []
@@ -22,6 +33,7 @@ function buildBuckets(limit) {
     const fromNav = rowUpdated(rows[i])
     const published = kind === 'blog' ? publishedFromBlogPath(path) : ''
     const updatedAt = fromNav.length > 0 ? fromNav : published
+    const imageSrc = thumbForPath(thumbs, path)
     const item = {
       path: path,
       title: rowTitle(rows[i]),
@@ -30,6 +42,7 @@ function buildBuckets(limit) {
       updatedAt: updatedAt,
       originalPublishedAt: published,
       sortKey: updatedAt.length > 0 ? updatedAt : path,
+      imageSrc: imageSrc,
     }
     if (kind === 'blog') blog = blog.concat([item])
     else if (kind === 'investigation') investigations = investigations.concat([item])
@@ -52,6 +65,28 @@ function buildBuckets(limit) {
 
 /** Same-Host chrome — apex paradigmthreat.net/site/*.svg currently returns Next SPA HTML. */
 const LOGO_URL = '/site/favicon.svg'
+
+function cardThumb(item) {
+  const raw = item.imageSrc && typeof item.imageSrc === 'string' ? item.imageSrc : ''
+  if (raw.length > 0) {
+    const src = changelogThumbSrc(raw)
+    if (src.length > 0) {
+      return <img src={src} alt="" className="pt-cl-card-thumb" loading="lazy" />
+    }
+  }
+  return <img src={LOGO_URL} alt="" className="pt-cl-card-thumb-logo" />
+}
+
+function entryThumb(item) {
+  const raw = item.imageSrc && typeof item.imageSrc === 'string' ? item.imageSrc : ''
+  if (raw.length > 0) {
+    const src = changelogThumbSrc(raw)
+    if (src.length > 0) {
+      return <img src={src} alt="" className="pt-cl-entry-img" loading="lazy" />
+    }
+  }
+  return <img src={LOGO_URL} alt="" className="pt-cl-entry-logo" />
+}
 
 function contentCard(item, tabId, idx) {
   const title = item.title
@@ -91,7 +126,7 @@ function contentCard(item, tabId, idx) {
     <li key={'cl-card-' + tabId + '-' + idx} className="pt-cl-card-item">
       <a href={item.href} className="pt-cl-card">
         <div className="pt-cl-card-media" aria-hidden="true">
-          <img src={LOGO_URL} alt="" className="pt-cl-card-thumb-logo" />
+          {cardThumb(item)}
         </div>
         <div className="pt-cl-card-body">
           <h3 className="pt-cl-card-title">{title}</h3>
@@ -114,7 +149,7 @@ function recentEntry(item, idx) {
   return (
     <li key={'cl-recent-' + idx} className="pt-cl-entry">
       <div className="pt-cl-entry-thumb" aria-hidden="true">
-        <img src={LOGO_URL} alt="" className="pt-cl-entry-logo" />
+        {entryThumb(item)}
       </div>
       <div className="pt-cl-entry-body">
         <div className="pt-cl-entry-title">{line}</div>

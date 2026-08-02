@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
-"""Build nav-index.txt, sitemap.xml, and robots.txt from the tip tree.
+"""Build nav-index.txt, sitemap.xml, robots.txt, and changelog-thumbs.json.
 
 Run from repo root before fleet push when markdown titles or commit dates change.
 Optional third nav-index column feeds ChangeLog Last updated without QUERY during SSR.
+
+changelog-thumbs.json maps article paths → same-Host image paths using the same
+stem/slug matching as paradigm-threat-site queryRecentContent (co-located hero).
 """
 from __future__ import annotations
 
 import argparse
 import html
+import json
 import subprocess
 import sys
 from pathlib import Path
@@ -15,6 +19,8 @@ from urllib.parse import quote
 
 SKIP_NAMES = {"page.md", "readme.md"}
 DEFAULT_BASE = "https://relay.paradigmthreat.net"
+IMAGE_EXTS = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}
+SKIP_DIR_PARTS = {".git", ".venv", "node_modules", "thin-migrate"}
 
 
 def git_updated_iso(repo: Path, rel: str) -> str:
@@ -68,6 +74,50 @@ def write_nav_index(out: Path, rows: list[tuple[str, str, str]]) -> None:
             lines.append(f"{path}\t{title}")
     out.write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8")
     print(f"wrote {len(lines)} rows to {out}")
+
+
+def collect_image_maps(repo: Path) -> tuple[dict[str, str], dict[str, str]]:
+    """Prefer same-directory stem match; fall back to basename slug (Vercel parity)."""
+    by_exact_stem: dict[str, str] = {}
+    by_slug: dict[str, str] = {}
+    for path in sorted(repo.rglob("*")):
+        if not path.is_file() or path.suffix.lower() not in IMAGE_EXTS:
+            continue
+        if any(p in SKIP_DIR_PARTS for p in path.parts):
+            continue
+        rel = path.relative_to(repo).as_posix()
+        with_slash = f"/{rel}"
+        stem_path = rel.rsplit(".", 1)[0]
+        if stem_path and stem_path not in by_exact_stem:
+            by_exact_stem[stem_path] = with_slash
+        slug = path.stem
+        if slug and slug not in by_slug:
+            by_slug[slug] = with_slash
+    return by_exact_stem, by_slug
+
+
+def image_for_markdown_path(
+    path: str,
+    by_exact_stem: dict[str, str],
+    by_slug: dict[str, str],
+) -> str | None:
+    stem_path = path.rsplit(".", 1)[0]
+    slug = Path(path).stem
+    return by_exact_stem.get(stem_path) or by_slug.get(slug)
+
+
+def write_changelog_thumbs(out: Path, rows: list[tuple[str, str, str]], repo: Path) -> None:
+    by_exact_stem, by_slug = collect_image_maps(repo)
+    thumbs: dict[str, str] = {}
+    for path, _title, _updated in rows:
+        img = image_for_markdown_path(path, by_exact_stem, by_slug)
+        if img:
+            thumbs[path] = img
+    out.write_text(
+        json.dumps(thumbs, indent=2, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+    print(f"wrote {len(thumbs)} thumb mappings to {out}")
 
 
 def loc_url(base: str, rel: str) -> str:
@@ -151,6 +201,7 @@ def main() -> int:
 
     rows = collect_rows(repo)
     write_nav_index(out, rows)
+    write_changelog_thumbs(repo / "changelog-thumbs.json", rows, repo)
     if not args.skip_sitemap:
         write_sitemap(repo / "sitemap.xml", base, rows)
         write_robots(repo / "robots.txt", base)

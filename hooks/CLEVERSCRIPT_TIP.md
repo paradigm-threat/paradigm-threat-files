@@ -87,7 +87,8 @@ Site-shell SSR is **article-first**, not catalog-first. If it is not the article
 - **Never** `fetch` / QUERY the **same Host** during site-shell SSR — it deadlocks the gateway worker.
 - **P0 article:** load via **`cachedGet('/'+relPath+'?v=ptmdN')`** so SSR and CSR share one tip-safe path (query stripped for git read; busts CDN on CSR). Cap absurdly large blobs on SSR (placeholder + hydrate).
 - Prefer on-tree catalogs: **`nav-index.txt`**, **`sitemap.xml`**, sidecar JSON — load via **`loadNavIndex(limit)`** only when **live** (P2). Tip `extractMarkdownHeadings` prefers host `@relay/catalog.extractMarkdownHeadings` when fleet WASM is new enough; local ATX walk is the fallback.
-- Regenerate indexes before push: `python3 scripts/build-nav-index.py` (nav-index + sitemap + robots).
+- **ChangeLog thumbs:** on-tree **`changelog-thumbs.json`** (article path → same-Host image). Built by `scripts/build-nav-index.py` with the same stem/slug match as Vercel `queryRecentContent`. Load via `loadChangelogThumbs()` / `cachedGet` on hydrate only — do **not** QUERY the full index just for card images.
+- Regenerate indexes before push: `python3 scripts/build-nav-index.py` (nav-index + sitemap + robots + changelog-thumbs).
 - **P2/P3 stay light on SSR:** gate catalog / interactive work with `isClientLive() === true`. Do **not** call `loadArticleRows`, full nav-index parse, or QUERY until the client is live.
 - **Homepage `page.md` UTF-8 hazard (2026-07-22):** fleet WASM panics with `byte index … is not a char boundary` inside multi-byte chars (`—`, `“`, …) while hydrating `/`, then `[embed] boot failed RuntimeError: unreachable`. Keep **`page.md` ASCII-only** (no curly quotes, em dashes, arrows, æ). Hero image alts short/single-line. Bump `?v=ptmdN` when content must pierce CDN `max-age=3600`; do **not** use `Date.now()` in tip — breaks SSR compile. Root cause is Relay runtime byte-slice; content hygiene unblocks the parked site.
 
