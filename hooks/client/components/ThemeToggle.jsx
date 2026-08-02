@@ -10,11 +10,13 @@ import { IconMoon, IconSun } from 'hooks/client/components/Icons.jsx'
  * Host note: relay-runtime-web.js applyInjectedCss → syncHtmlThemeClass mirrors
  * WASM get_current_theme_name() (theme.yaml current_theme, usually light) onto
  * <html class> on every doRender. That overwrites tip class flips after catalog
- * hydrate remounts. Re-assert from tip localStorage on an interval.
+ * hydrate remounts. Re-assert from tip preference on an interval.
  *
- * CleverScript localStorage is in-memory (TLS), not browser localStorage — it
- * survives remounts within a session but not a full page reload.
+ * CleverScript `localStorage` is in-memory (TLS), not browser localStorage.
+ * Also keep a module bag — nested `function` bodies can lose bare module lets.
  */
+
+const themeSession = { name: '' }
 
 function applyThemeClass(name) {
   try {
@@ -51,31 +53,31 @@ function readHtmlTheme() {
 
 function readSavedTheme() {
   try {
-    if (typeof localStorage === 'undefined') return ''
-    if (!localStorage.getItem) return ''
+    if (themeSession.name === 'dark' || themeSession.name === 'light') {
+      return themeSession.name
+    }
+  } catch (e0) {}
+  try {
     const s = localStorage.getItem('pt-theme')
-    if (s === 'dark' || s === 'light') return s
+    if (s === 'dark' || s === 'light') {
+      themeSession.name = s
+      return s
+    }
   } catch (e) {}
   return ''
 }
 
 function saveTheme(name) {
   try {
-    if (typeof localStorage === 'undefined') return
-    if (!localStorage.setItem) return
+    themeSession.name = name
+  } catch (e0) {}
+  try {
     localStorage.setItem('pt-theme', name)
   } catch (e) {}
 }
 
-/** Explicit tip preference, or '' to leave class empty (OS preference). */
-function resolveWantedTheme() {
-  const saved = readSavedTheme()
-  if (saved === 'dark' || saved === 'light') return saved
-  return ''
-}
-
 function assertThemeClass() {
-  const want = resolveWantedTheme()
+  const want = readSavedTheme()
   const cur = readHtmlTheme()
   if (want === 'dark' || want === 'light') {
     if (cur !== want) {
@@ -83,8 +85,8 @@ function assertThemeClass() {
     }
     return
   }
-  // No saved preference: undo syncHtmlThemeClass forcing WASM current_theme=light
-  // so html.dark/html.light dual sheet can follow prefers-color-scheme.
+  // No tip preference yet: undo syncHtmlThemeClass forcing WASM current_theme=light
+  // so the dual sheet can follow prefers-color-scheme until the user toggles.
   if (cur === 'light' || cur === 'dark') {
     applyThemeClass('')
   }
